@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/551-1970-147190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c7c81d2433855f9ee9413cb9df1bb01c893d06bef0b886730c8412799824b62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f12bae3c653e651e7fa11a3c53e92bdf5c71bef05dd3d09ec15927903edd9976
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:10Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +97,16 @@ Com fundamento nas disposições do artigo 35.º e sua alínea a) do [Decreto n.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 26460000$00, devendo a mesma importância constituir a alínea 3 «Subsídio às câmaras municipais, nos termos do [Decreto-Lei n.º 236/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1970-142368), de 25 de Maio», do n.º 1) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras», do artigo 44.º, capítulo 3.º, do actual orçamento do Ministério do Interior.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 26460000$00, devendo a mesma importância constituir a alínea 3 «Subsídio às câmaras municipais, nos termos do [Decreto-Lei n.º 236/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1970-142368), de 25 de Maio», do n.º 1) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras», do artigo 44.º, capítulo 3.º, do actual orçamento do Ministério do Interior.
 
-###### Art. 2.º Para compensação do crédito referido no artigo anterior é adicionada igual quantia à verba inscrita no capítulo 1.º, artigo 1.º «Contribuição industrial», do orçamento das receitas do Estado para o corrente ano económico.
+Art. 2.º Para compensação do crédito referido no artigo anterior é adicionada igual quantia à verba inscrita no capítulo 1.º, artigo 1.º «Contribuição industrial», do orçamento das receitas do Estado para o corrente ano económico.
 
 Este crédito foi registado na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

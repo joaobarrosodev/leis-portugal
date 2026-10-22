@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/118-1970-228793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eab5fea848fc440da167653d224560214db59859788d59639bd27d65985ed0d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73966c1d625197172a87cdc014d1b59bc22eb516e6069e7e8511bee446d2ea02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:37Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +97,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3. do artigo 109.º da Constituição, o Governo decreta e eu promulgo:
 
-###### Artigo 1.º Poderá ser equiparado ao doutoramento pelas Universidades portuguesas o doutoramento obtido em Universidades eu institutos de investigação científica estrangeiros.
+Artigo 1.º Poderá ser equiparado ao doutoramento pelas Universidades portuguesas o doutoramento obtido em Universidades eu institutos de investigação científica estrangeiros.
 
-###### Art. 2.º - 1. O Ministro da Educação Nacional, ouvida a Junta Nacional da Educação e sob proposta das Faculdades e escolas universitárias, aprovará a lista das Universidades e institutos de investigação científica estrangeiros cujo doutoramento é equiparado ao das Universidades portuguesas.
+Art. 2.º - 1. O Ministro da Educação Nacional, ouvida a Junta Nacional da Educação e sob proposta das Faculdades e escolas universitárias, aprovará a lista das Universidades e institutos de investigação científica estrangeiros cujo doutoramento é equiparado ao das Universidades portuguesas.
 
 2. Para o efeito do disposto no número anterior, os conselhos escolares devem propor dentro de trinta dias, a contar da entrada em vigor do presente diploma, a lista dos estabelecimentos estrangeiros que concedem o grau de doutor em matérias professadas nas suas escolas.
 
 3. Poderão os conselhos escolares propor, sempre que o julgarem conveniente, quaisquer rectificações ou aditamentos à lista em vigor.
 
-###### Art. 3.º - 1. Para a equiparação do grau de doutor obtido nas Universidades ou institutos referidos no n.º 1 do artigo anterior, deverão os interessados juntar ao respectivo requerimento, dirigido ao Ministro da Educação Nacional, a seguinte documentação:
+Art. 3.º - 1. Para a equiparação do grau de doutor obtido nas Universidades ou institutos referidos no n.º 1 do artigo anterior, deverão os interessados juntar ao respectivo requerimento, dirigido ao Ministro da Educação Nacional, a seguinte documentação:
 
 a) Diploma, ou título equivalente, comprovativo de terem obtido a licenciatura num curso superior;
 
@@ -119,7 +119,7 @@ e) Dois exemplares do curriculum vitae.
 
 2. O Ministro da Educação Nacional, em face do requerimento do interessado e comprovada a validade da documentação anexa, concederá, por despacho, a equiparação solicitada.
 
-###### Art. 4.º - 1. No caso de o doutoramento ter sido realizado em Universidade ou instituto estrangeiro que não conste da relação referida no artigo 2.º, poderão os interessados requerer ao Ministro da Educação Nacional, para efeito da equiparação, que os seus trabalhos científicos, sejam apreciados por uma comissão de especialistas constituída por três a cinco vogais e um presidente, todos escolhidos pelo Ministro.
+Art. 4.º - 1. No caso de o doutoramento ter sido realizado em Universidade ou instituto estrangeiro que não conste da relação referida no artigo 2.º, poderão os interessados requerer ao Ministro da Educação Nacional, para efeito da equiparação, que os seus trabalhos científicos, sejam apreciados por uma comissão de especialistas constituída por três a cinco vogais e um presidente, todos escolhidos pelo Ministro.
 
 2. Além da documentação indicada nas alíneas b) e d) do n.º 1 de artigo anterior, os interessados ao respectivo requerimento deverão juntar cinco exemplares da dissertação e trabalhos e do curriculum referidos nas alíneas c) e e) daquele número e ainda dois exemplares de cada um dos trabalhos mencionados no curriculum.
 
@@ -127,12 +127,12 @@ e) Dois exemplares do curriculum vitae.
 
 4. Sobre o processo instruído nos termos deste artigo o Ministro da Educação Nacional proferirá o despacho de equiparação do doutoramento.
 
-###### Art. 5.º O despacho a que se refere o n.º 5 do artigo 3.º e o n.º 4 do artigo anterior tem por efeito dar ao doutoramento equiparação e valor idêntico ao do conferido pelas Universidades portuguesas.
+Art. 5.º O despacho a que se refere o n.º 5 do artigo 3.º e o n.º 4 do artigo anterior tem por efeito dar ao doutoramento equiparação e valor idêntico ao do conferido pelas Universidades portuguesas.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 9 de Março de 1970.**
+Promulgado em 9 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

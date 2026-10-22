@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20700/22352236.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1979-370605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab9a86415b7dd638ee989c5aeb2568323c092cd946c58c11cd3be8430ec01052
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0966f4652f80bfedf5fa170d6fe771c99db82548e4c9dcbca72aee3e7e88fd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Concurso Público
+- Direcção Geral dos Transportes Terrestres
+- Instituto de Acção Social Escolar
+- Licenciamento
+- Preço
+- Transporte Escolar
 relationships:
 - type: amended_by
   target: pt:dre:373662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:278233:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:373662:por
+  label: Revogado o Dec Lei 404/77 de 24-set, na redação do presente diploma, pelo(a) Decreto-Lei n.º 299/84 - Diário da República
+    n.º 206/1984, Série I de 1984-09-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1984-373662
+  date: '1984-09-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:31Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +113,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º, 6.º, 7.º, 8.º e 9.º do [Decreto-Lei n.º 404/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1977-278233), de 24 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º, 6.º, 7.º, 8.º e 9.º do [Decreto-Lei n.º 404/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1977-278233), de 24 de Setembro, passam a ter a seguinte redacção:
 
 ###### ARTIGO 2.º — (Meios de transporte a utilizar)
 
@@ -158,12 +175,12 @@ O concurso a que se refere o n.º 1 do artigo 6.º será promovido pelos estabel
 
 Sempre que os veículos utilizados nos circuitos especiais não estejam licenciados para aluguer ou para a realização de circuitos turísticos e excursões colectivas competirá à DGTT proceder ao respectivo licenciamento.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Luís Francisco Valente de Oliveira - Rogério do Ouro Lameira.
 
-**Promulgado em 9 de Agosto de 1979.**
+Promulgado em 9 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

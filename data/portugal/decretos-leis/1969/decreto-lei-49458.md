@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49458-1969-216350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 406f87d5e2cbf36933f6f3081867102f6149eb75d74031a52649072628ba8cba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9358a6ef4e44150541d0ab63472ac1f19e2cef02fd6bb81518fd6551538b8010
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Permanente da Acção Educativa
+- Formas de Provimento
+- Junta Nacional de Educação
+- Ministério da Educação
+- Presidente
+- Remuneração
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:446892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446892:por
+  label: "Alterado o § 6.º do art. 3º do Dec Lei 46348, de 22-Maio, de 1965, na redacção do presente diploma, pelo DEC LEI.47/71.20.02.1971.MEN,\
+    \ DG.IS [43] de 20.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1971-446892
+  date: '1971-02-20'
+- type: cites
+  target: pt:dre:294969:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:07Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +106,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 3.º e 4.º do [Decreto-Lei n.º 46348](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46348-1965-294969), de 22 de Maio de 1965, passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º e 4.º do [Decreto-Lei n.º 46348](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46348-1965-294969), de 22 de Maio de 1965, passam a ter a seguinte redacção:
 
-###### Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo Regimento.
+Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo Regimento.
 
 § 1.º O presidente é nomeado por despacho conjunto do Presidente do Conselho e do Ministro de entre pessoas que tenham dado relevantes provas de interesse pelos problemas da educação nacional, podendo, quando professor, ser dispensado do exercício das funções docentes.
 
@@ -109,7 +126,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 8.º As nomeações para vacaturas que ocorrerem no decurso do triénio entendem-se feitas até ao termo deste.
 
-###### Art. 4.º O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta Nacional da Educação, pelos presidentes das secções desta, pelo presidente da direcção do Gabinete de Estudos e Planeamento da Acção Educativa, pelo presidente da direcção do Instituto de Meios Áudio-Visuais de Educação, pelo inspector superior do Ensino Particular e por outras personalidades, até ao limite de dez, com serviços relevantes prestados à educação nacional e nomeadas pelo Ministro.
+Art. 4.º O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta Nacional da Educação, pelos presidentes das secções desta, pelo presidente da direcção do Gabinete de Estudos e Planeamento da Acção Educativa, pelo presidente da direcção do Instituto de Meios Áudio-Visuais de Educação, pelo inspector superior do Ensino Particular e por outras personalidades, até ao limite de dez, com serviços relevantes prestados à educação nacional e nomeadas pelo Ministro.
 
 § 1.º Quando as personalidades referidas na parte final do artigo 4.º façam parte dos quadros do Ministério da Educação Nacional, poderão ser dispensadas do serviço no quadro a que pertencem, continuando, no entanto, a ser abonadas pelas dotações do mesmo quadro.
 
@@ -117,9 +134,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Hermano Saraiva.
 
-**Promulgado em 12 de Dezembro de 1969.**
+Promulgado em 12 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

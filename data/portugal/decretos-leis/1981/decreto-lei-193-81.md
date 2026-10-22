@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1981-580344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b6818e60dc1c4ed83f3c898fbcc1076bae38984aa52fe88876970b8f637e14c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7c9ccffe71e76a76a26211803581578c4a81d8f0f2d3537641fd1015c697ffd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:233721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177003:por
+  label: "Alterado o art. 6º pelo DEC LEI.377/85.26.09.1985.MDN, DR.IS [222] de 26.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1985-177003
+  date: '1985-09-26'
+- type: amended_by
+  target: pt:dre:233721:por
+  label: "Alterado o art. 6º, com a redacção conferida pelo Dec Lei 377/85 de 26-Set, e aditado o art. 12º pelo DEC LEI.105/2005.29.06.2005.MDN,\
+    \ DR.IS-A [123] de 29.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2005-233721
+  date: '2005-06-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:22Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +112,15 @@ Assim:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Designam-se por unidades auxiliares da Marinha os navios e as embarcações pertencentes à Marinha que, pelas suas características ou natureza do serviço a que se destinam, não devam ser considerados como unidades navais.
+Artigo 1.º Designam-se por unidades auxiliares da Marinha os navios e as embarcações pertencentes à Marinha que, pelas suas características ou natureza do serviço a que se destinam, não devam ser considerados como unidades navais.
 
-###### Art. 2.º A aquisição, construção ou modificação das unidades auxiliares, assim como o seu aumento ou abate ao efectivo, são feitos por despacho do Chefe do Estado-Maior da Armada.
+Art. 2.º A aquisição, construção ou modificação das unidades auxiliares, assim como o seu aumento ou abate ao efectivo, são feitos por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 3.º Anualmente será publicado na Ordem da Armada, 1.ª série, o efectivo das unidades auxiliares da Marinha, com referência ao dia 31 de Dezembro do ano anterior.
+Art. 3.º Anualmente será publicado na Ordem da Armada, 1.ª série, o efectivo das unidades auxiliares da Marinha, com referência ao dia 31 de Dezembro do ano anterior.
 
-###### Art. 4.º Em cada unidade auxiliar existirá documentação comprovativa da sua propriedade, características e armamento de que eventualmente disponha.
+Art. 4.º Em cada unidade auxiliar existirá documentação comprovativa da sua propriedade, características e armamento de que eventualmente disponha.
 
-###### Art. 5.º - 1 - As unidades auxiliares são identificadas, consoante as suas características, pelos seguintes elementos ou parte deles:
+Art. 5.º - 1 - As unidades auxiliares são identificadas, consoante as suas características, pelos seguintes elementos ou parte deles:
 
 a) Nome;
 
@@ -119,24 +132,24 @@ d) Endereço radiotelegráfico.
 
 2 - Os elementos de identificação a que se refere o número anterior são determinados pelo Chefe do Estado-Maior da Armada e constarão do despacho mencionado no artigo 2.º que aumenta as unidades auxiliares ao efectivo.
 
-###### Art. 6.º As unidades auxiliares têm ainda, pintadas no costado, a meia-nau, num e noutro bordo, de forma bem visível, as palavras «Marinha de Guerra Portuguesa».
+Art. 6.º As unidades auxiliares têm ainda, pintadas no costado, a meia-nau, num e noutro bordo, de forma bem visível, as palavras «Marinha de Guerra Portuguesa».
 
-###### Art. 7.º As unidades auxiliares usam a Bandeira Nacional à popa nas mesmas condições que se encontram estabelecidas na Ordenança do Serviço Naval para as unidades navais.
+Art. 7.º As unidades auxiliares usam a Bandeira Nacional à popa nas mesmas condições que se encontram estabelecidas na Ordenança do Serviço Naval para as unidades navais.
 
-###### Art. 8.º - 1 - As lotações das unidades auxiliares serão estabelecidas por despacho do Chefe do Estado-Maior da Armada.
+Art. 8.º - 1 - As lotações das unidades auxiliares serão estabelecidas por despacho do Chefe do Estado-Maior da Armada.
 
 2 - De acordo com as características e com as tarefas atribuídas àquelas unidades, poderão as referidas lotações incluir pessoal militar ou outro dos quadros do pessoal da Marinha.
 
-###### Art. 9.º As unidades auxiliares poderão ser dotadas de armamento fixo e portátil que se reconheça necessário.
+Art. 9.º As unidades auxiliares poderão ser dotadas de armamento fixo e portátil que se reconheça necessário.
 
-###### Art. 10.º As unidades auxiliares poderão entrar e sair livremente dos portos e fundear ou varar em qualquer ponto da costa.
+Art. 10.º As unidades auxiliares poderão entrar e sair livremente dos portos e fundear ou varar em qualquer ponto da costa.
 
-###### Art. 11.º A regulamentação da matéria contida neste diploma será feita por portaria do Chefe do Estado-Maior da Armada.
+Art. 11.º A regulamentação da matéria contida neste diploma será feita por portaria do Chefe do Estado-Maior da Armada.
 
 Visto e aprovado em Conselho da Revolução em 12 de Junho de 1981.
 
-**Promulgado em 23 de Junho de 1981.**
+Promulgado em 23 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

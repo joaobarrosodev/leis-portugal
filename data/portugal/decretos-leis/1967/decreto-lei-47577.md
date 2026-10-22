@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/03/05600/02560257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47577-1967-503637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db7f362b788fd6b40108c922e623f65fb5956d26861b7d862db89564e9616319
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d342cb5b2b1a5ca1c95a29f0d293a8f3bad8ed12422f35b7afa8d36058ad7d5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Militar
+- Promoção por Mérito
+- Promoção Profissional
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457580:por
+  label: "Determinada que a referência legal à forma de decreto prevista na al. c) do art. 5.º do presente diploma , considera-se\
+    \ feita à forma de portaria do competente Chefe do Estado-Maior, pelo DEC LEI.522/80.05.11.1980.CR, DR.IS [256] de 05.11.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/522-1980-457580
+  date: '1980-11-05'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado o presente diploma, alterado pelo Decreto-Lei n.º 522/80, de 5 de Novembro, pelo DEC LEI.34-A/90.24.01.1990.MDN,
+    DR.IS [20-Supl] de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:27Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +114,7 @@ E considerando, finalmente, que é da maior conveniência a promulgação de um 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Podem ser promovidos por distinção os sargentos e praças do Exército que, em campanha, na manutenção da ordem pública ou serviços com estes directamente relacionados, ou ainda em situações de grande perigo, pratiquem actos demonstrativos de elevadas virtudes militares, cívicas e morais, prestigiantes para o Exército ou para o País, e que, por esse motivo, sejam considerados dignos de tão elevada recompensa.
+Artigo 1.º Podem ser promovidos por distinção os sargentos e praças do Exército que, em campanha, na manutenção da ordem pública ou serviços com estes directamente relacionados, ou ainda em situações de grande perigo, pratiquem actos demonstrativos de elevadas virtudes militares, cívicas e morais, prestigiantes para o Exército ou para o País, e que, por esse motivo, sejam considerados dignos de tão elevada recompensa.
 
 § 1.º Nomeadamente, são circunstâncias determinantes ou atendíveis na promoção por distinção as seguintes:
 
@@ -112,7 +130,7 @@ c) A prestação de serviços relevantes que muito tenham contribuído para o bo
 
 § 4.º A promoção por distinção também pode fazer-se a título póstumo.
 
-###### Art. 2.º A promoção por distinção de sargentos e praças do Exército pode efectuar-se ao posto imediato, ou, em casos muito excepcionais, a posto superior ao imediato.
+Art. 2.º A promoção por distinção de sargentos e praças do Exército pode efectuar-se ao posto imediato, ou, em casos muito excepcionais, a posto superior ao imediato.
 
 § 1.º Nos casos de promoção por distinção é considerada como promoção ao posto imediato a promoção de soldado a primeiro-cabo.
 
@@ -124,11 +142,11 @@ c) A prestação de serviços relevantes que muito tenham contribuído para o bo
 
 § 5.º A promoção por distinção a oficial dos sargentos dos quadros permanentes apenas pode verificar-se para os quadros a que estes teriam acesso mediante frequência da Escola Central de Sargentos.
 
-###### Art. 3.º A promoção por distinção dos sargentos e praças é da competência do Ministro do Exército.
+Art. 3.º A promoção por distinção dos sargentos e praças é da competência do Ministro do Exército.
 
 § único. A promoção por distinção aos postos de alferes e tenente carece sempre de parecer favorável de Conselho Superior do Exército.
 
-###### Art. 4.º A promoção por distinção de sargentos e praças do Exército pode processar-se por iniciativa do Ministro do Exército ou mediante proposta do comandante da região militar ou comando teritorial independente respectivo.
+Art. 4.º A promoção por distinção de sargentos e praças do Exército pode processar-se por iniciativa do Ministro do Exército ou mediante proposta do comandante da região militar ou comando teritorial independente respectivo.
 
 § 1.º Os processos de promoção por distinção são organizados nas unidades e serão instruídos com os documentos necessários a uma perfeita apreciação do acto ou actos que justifiquem a promoção por distinção. Tais documentos incluirão, nomeadamente, ordens, relatórios e depoimentos de testemunhas, além de outros que sejam julgados pertinentes.
 
@@ -136,7 +154,7 @@ c) A prestação de serviços relevantes que muito tenham contribuído para o bo
 
 § 3.º A conclusão dos processos não poderá demorar mais que três meses sobre a data da proposta ou iniciativa ministerial, e o documento legal de promoção deverá ser publicado dentro de um prazo de 30 dias a contar da conclusão do processo.
 
-###### Art. 5.º O diploma legal de promoção terá a forma de:
+Art. 5.º O diploma legal de promoção terá a forma de:
 
 a) Despacho do Ministro do Exército, nas promoções a primeiro-cabo;
 
@@ -144,9 +162,9 @@ b) Portaria do Ministro do Exército, nas promoções a qualquer posto da classe
 
 c) Decreto, nas promoções a alferes ou a tenente.
 
-###### Art. 6.º Os sargentos e praças promovidos por distinção contarão a antiguidade no novo posto desde a data em que foi praticado o feito que motivou a promoção, se outra não for indicada no diploma de promoção.
+Art. 6.º Os sargentos e praças promovidos por distinção contarão a antiguidade no novo posto desde a data em que foi praticado o feito que motivou a promoção, se outra não for indicada no diploma de promoção.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

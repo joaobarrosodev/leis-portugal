@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13300/13311333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1981-579134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cca6251fa2679cfc112ea01f8e484b6c79220bb31ee2a0275811b17c69ac1f73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4da3c65895aeccad4f64d0c06045901844ad3107db62c96efed0abd7190214d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto sobre Veículos
+- Regulamento do Imposto sobre Veículos
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573355:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:47Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +123,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 9.º, 10.º, 13.º, 16.º, 18.º, 19.º, 28.º e 34.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, com as alterações introduzidas posteriormente, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 9.º, 10.º, 13.º, 16.º, 18.º, 19.º, 28.º e 34.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, com as alterações introduzidas posteriormente, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - ...
 
 3 - Por cada aeronave e barco de recreio isento de imposto será concedido um título de isenção modelo n.º 1 e para cada automóvel e motociclo será fornecido um dístico de isenção modelo n.º 2, destinado a ser afixado nos termos do artigo 13.º
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 a) ...
 
@@ -119,7 +143,7 @@ b) ...
 
 4 - Quando haja sido adquirido dístico de taxa inferior à devida, poderá ser utilizado outro ou outros dísticos para completar o imposto exacto, os quais, depois de preenchidos sem emendas ou rasuras, serão afixados conjuntamente nos termos prescritos no artigo 13.º
 
-###### Art. 10.º - 1 - Os dísticos modelo n.º 4, comprovativos do pagamento do imposto relativo a automóveis e motociclos, serão adquiridos em qualquer das tesourarias da Fazenda Pública, revendedores de valores selados e juntas de freguesia do concelho da residência ou sede do contribuinte.
+Art. 10.º - 1 - Os dísticos modelo n.º 4, comprovativos do pagamento do imposto relativo a automóveis e motociclos, serão adquiridos em qualquer das tesourarias da Fazenda Pública, revendedores de valores selados e juntas de freguesia do concelho da residência ou sede do contribuinte.
 
 2 - ...
 
@@ -135,33 +159,33 @@ b) ...
 
 8 - O original e triplicado da declaração referida no número anterior serão entregues pelas entidades aí mencionadas na repartição de finanças no fim de cada semana.
 
-###### Art. 13.º Os dísticos modelos n.os 2 e 4 serão afixados ou colocados com o rosto para o exterior:
+Art. 13.º Os dísticos modelos n.os 2 e 4 serão afixados ou colocados com o rosto para o exterior:
 
 a) Nos automóveis - no canto superior do pára-brisas do lado oposto ao do volante e bem visível do exterior;
 
 b) Nos motociclos - à frente, do lado direito, em lugar visível e preservados da humidade, devendo, para o efeito, ser utilizados suportes apropriados.
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - As reclamações ou impugnações serão apresentadas na repartição de finanças onde tiverem sido entregues o original e o triplicado das declarações modelo n.º 11, nos termos do n.º 8 do artigo 10.º, ou processada a guia de pagamento a que se refere o artigo 11.º
 
 3 - Nos casos de pagamento do imposto por meio de dístico, a que se refere a alínea a) do n.º 1 do artigo 9.º, os prazos para reclamação ou impugnação contar-se-ão nos termos estabelecidos para a cobrança eventual, a qual se considera efectuada na data constante das declarações modelo n.º 11 arquivadas na repartição de finanças em conformidade com o n.º 8 do artigo 10.º
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - ...
 
 3 - Até prova em contrário, presume-se não pago o imposto quando nos automóveis e motociclos não se encontrem afixados, nos termos do artigo 13.º os respectivos dísticos modelos n.os 2, 4 ou 7.
 
-###### Art. 19.º A falta de aposição dos dísticos, nos termos do artigo 13.º será punida com a multa de 500$00 a 2000$00.
+Art. 19.º A falta de aposição dos dísticos, nos termos do artigo 13.º será punida com a multa de 500$00 a 2000$00.
 
-###### Art. 28.º- 1 - ...
+Art. 28.º- 1 - ...
 
 2 - ...
 
 3 - Serão cassados os alvarás dos revendedores que não cumprirem integralmente o disposto nos n.os 4, 7 e 8 do artigo 10.º
 
-###### Art. 34.º - 1 - ...
+Art. 34.º - 1 - ...
 
 2 - No caso de extravio, furto ou inutilização dos dísticos modelos n.os 2 e 4, poderá ser concedido, mediante requerimento, pela repartição de finanças a que se refere o n.º 8 do artigo 10.º, um dístico especial modelo n.º 7.
 
@@ -173,9 +197,9 @@ b) Nos motociclos - à frente, do lado direito, em lugar visível e preservados 
 
 6 - No caso de extravio ou inutilização do exemplar da declaração modelo n.º 11 pertencente ao proprietário do veículo, poderá, a requerimento deste, ser passada pela repartição de finanças competente certidão ou fotocópia do original da declaração.
 
-###### Art. 2.º São aditados os seguintes artigos ao Regulamento aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, com as alterações e aditamentos introduzidos posteriormente:
+Art. 2.º São aditados os seguintes artigos ao Regulamento aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, com as alterações e aditamentos introduzidos posteriormente:
 
-###### Art. 38.º - 1 - Os dísticos modelo n.º 4 adquiridos pelos revendedores e não vendidos no prazo referido no n.º 5 do artigo 10.º serão recolhidos, mediante o seu pagamento a dinheiro, pelas tesourarias da Fazenda Pública nos três dias úteis subsequentes ao termo do prazo de cobrança, desde que se encontrem em bom estado de conservação e não mostrem quaisquer sinais ou indícios susceptíveis de fundamentar a presunção de já terem sido usados.
+Art. 38.º - 1 - Os dísticos modelo n.º 4 adquiridos pelos revendedores e não vendidos no prazo referido no n.º 5 do artigo 10.º serão recolhidos, mediante o seu pagamento a dinheiro, pelas tesourarias da Fazenda Pública nos três dias úteis subsequentes ao termo do prazo de cobrança, desde que se encontrem em bom estado de conservação e não mostrem quaisquer sinais ou indícios susceptíveis de fundamentar a presunção de já terem sido usados.
 
 2 - Os dísticos modelo n.º 4 que estiverem em bom estado e que tenham sido recusados nas tesourarias da Fazenda Pública por se não encontrarem nas demais condições estabelecidas no número anterior poderão ser entregues pelos seus detentores na Imprensa Nacional-Casa da Moeda para exame.
 
@@ -185,20 +209,20 @@ b) Nos motociclos - à frente, do lado direito, em lugar visível e preservados 
 
 5 - Os exames referidos no n.º 2 poderão ser efectuados por iniciativa da Imprensa Nacional-Casa da Moeda em relação a dísticos modelo n.º 4 incluídos em devoluções realizadas pelas tesourarias da Fazenda Pública, procedendo-se seguidamente nos termos do número anterior, quando não se encontrarem nas condições previstas no n.º 1 do presente artigo.
 
-###### Art. 39.º - 1 - Os dísticos modelo n.º 4 recolhidos nos termos do artigo anterior, mediante o seu pagamento a dinheiro, serão considerados na conta de dinheiro da respectiva tesouraria da Fazenda Pública como despesa efectiva do Estado, até ao termo do prazo da recolha, data em que serão efectuadas as operações de débito nas contas dos livros dos modelos n.os 9, 10, 12 e 13, por meio das relações de débito do modelo n.º 3 processadas para o efeito.
+Art. 39.º - 1 - Os dísticos modelo n.º 4 recolhidos nos termos do artigo anterior, mediante o seu pagamento a dinheiro, serão considerados na conta de dinheiro da respectiva tesouraria da Fazenda Pública como despesa efectiva do Estado, até ao termo do prazo da recolha, data em que serão efectuadas as operações de débito nas contas dos livros dos modelos n.os 9, 10, 12 e 13, por meio das relações de débito do modelo n.º 3 processadas para o efeito.
 
 2 - Na mesma data o tesoureiro da Fazenda Pública promoverá que pela repartição de finanças seja processado a seu favor um título de anulação, que assinará, sendo, porém, dispensável o reconhecimento notarial e a junção do respectivo conhecimento ou guia de cobrança, previstos no artigo 12.º do [Decreto n.º 19968](https://diariodarepublica.pt/dr/detalhe/decreto/19968-1931-434040), de 29 de Junho de 1931, bem como a passagem de recibo no caderno de anulação.
 
 3 - O título de anulação referido no número anterior servirá de crédito a favor do tesoureiro, deixando os dísticos recolhidos a partir desse momento de ser considerados na conta de dinheiro.
 
-###### Art. 3.º É eliminado o artigo 21.º do Regulamento do Imposto sobre Veículos.
+Art. 3.º É eliminado o artigo 21.º do Regulamento do Imposto sobre Veículos.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 de Junho de 1981.
+Art. 4.º O presente diploma entra em vigor no dia 1 de Junho de 1981.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 31 de Maio de 1981.**
+Promulgado em 31 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

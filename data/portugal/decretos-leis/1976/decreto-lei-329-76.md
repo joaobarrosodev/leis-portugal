@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/10700/10211025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1976-427814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf7605e2d4202b7c0ea3f92a5b6186bc11f801f5238c172e64ccced22fa733d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcdd3b48ff2ce8ee9cc57e24aed642471de61e8f0ffd73e1772fcb34dfa88439
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Orgânica
+- Quadro de Pessoal
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
+- Secretariado Técnico dos Assuntos Políticos
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365743:por
+  label: "Substituído o quadro de pessoal do Secretariado Técnico dos Assuntos para o Processo Eleitoral aprovado no presente\
+    \ diploma e, mantido em vigor pelo nº 2 do art. 32º do Dec Lei 342/77 de 19-Ago, pela PORT.704/79.28.12.1979.PCM, DR.IS\
+    \ [298] de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/704-1979-365743
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:372638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:34Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +142,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Const
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º O Secretariado Técnico dos Assuntos Políticos e Eleitorais, adiante designado por Secretariado, é um órgão executivo e de consulta do Ministério da Administração Interna em matéria eleitoral e sociologia política interna.
+Artigo 1.º O Secretariado Técnico dos Assuntos Políticos e Eleitorais, adiante designado por Secretariado, é um órgão executivo e de consulta do Ministério da Administração Interna em matéria eleitoral e sociologia política interna.
 
-###### Art. 2.º As atribuições do Secretariado são, fundamentalmente, as seguintes:
+Art. 2.º As atribuições do Secretariado são, fundamentalmente, as seguintes:
 
 a) Assegurar, bem como apoiar tecnicamente, nos domínios jurídico, financeiro, material e outros, a realização de eleições, tanto a nível nacional como a nível local;
 
@@ -124,7 +162,7 @@ f) Organizar um registo dos cidadãos eleitos para cargos políticos e administr
 
 #### SECÇÃO 1.ª — Órgãos e serviços
 
-###### Art. 3.º - 1. O Secretariado é dirigido por um director-geral e dispõe dos seguintes serviços:
+Art. 3.º - 1. O Secretariado é dirigido por um director-geral e dispõe dos seguintes serviços:
 
 a) Departamento Jurídico-Eleitoral;
 
@@ -142,7 +180,7 @@ e) Repartição Administrativa.
 
 #### SECÇÃO 2.ª — Dos departamentos eleitorais
 
-###### Art. 4.º Compete ao Departamento Jurídico-Eleitoral:
+Art. 4.º Compete ao Departamento Jurídico-Eleitoral:
 
 a) Proceder ao comparado dos diversos sistemas eleitorais, tendo em conta a sua inserção na estrutura sócio-política e económica a que especificamente respeitam, a sua formulação jurídica e exequibilidade política e técnica;
 
@@ -156,7 +194,7 @@ e) Coordenar as acções de divulgação pública dos actos eleitorais nas suas 
 
 f) Assegurar a prática pontual dos actos da Administração relativos ao recenseamento, sufrágio e apuramento dos resultados.
 
-###### Art. 5.º Compete ao Departamento de Cadastro Eleitoral:
+Art. 5.º Compete ao Departamento de Cadastro Eleitoral:
 
 a) Organizar e manter actualizado o registo individual de todos os cidadãos eleitos para cargos públicos de natureza política e administrativa de âmbito nacional;
 
@@ -168,7 +206,7 @@ d) Planificar e organizar o apoio técnico e logístico às diferentes fases do 
 
 #### SECÇÃO 3.ª — Departamento de Estudos Sociológico-Políticos
 
-###### Art. 6.º Compete ao Departamento de Estudos Sociológico-Políticos:
+Art. 6.º Compete ao Departamento de Estudos Sociológico-Políticos:
 
 1) Efectuar e, eventualmente, encomendar, promover ou apoiar estudos sobre:
 
@@ -194,7 +232,7 @@ c) Problemas político-sociais de âmbito local ou regional, nomeadamente os ori
 
 #### SECÇÃO 4.ª — Serviço de Documentação
 
-###### Art. 7.º Compete ao Serviço de Documentação:
+Art. 7.º Compete ao Serviço de Documentação:
 
 a) Organizar a biblioteca;
 
@@ -210,13 +248,13 @@ f) Manter contactos com serviços congéneres, nacionais e estrangeiros, com vis
 
 #### SECÇÃO 5.ª — Repartição Administrativa
 
-###### Art. 8.º A Repartição Administrativa compreende quatro secções:
+Art. 8.º A Repartição Administrativa compreende quatro secções:
 
 Pessoal e Expediente, Contabilidade e Logística, Arquivo e Apoio Interno.
 
-###### Art. 9.º Compete à Secção de Pessoal e Expediente assegurar o serviço de expediente geral e de administração do pessoal do Secretariado.
+Art. 9.º Compete à Secção de Pessoal e Expediente assegurar o serviço de expediente geral e de administração do pessoal do Secretariado.
 
-###### Art. 10.º Compete à Secção de Contabilidade e Logística:
+Art. 10.º Compete à Secção de Contabilidade e Logística:
 
 a) Verificar, contabilizar e processar todas as despesas, incluindo as folhas de abonos ao pessoal;
 
@@ -226,17 +264,17 @@ c) Estudar e analisar todas as propostas de aquisição, superintender no econom
 
 d) Estabelecer o inventário geral dos bens.
 
-###### Art. 11.º Compete à Secção de Arquivo assegurar o respectivo serviço, em colaboração com o Departamento de Cadastro Eleitoral e com o Serviço de Documentação.
+Art. 11.º Compete à Secção de Arquivo assegurar o respectivo serviço, em colaboração com o Departamento de Cadastro Eleitoral e com o Serviço de Documentação.
 
-###### Art. 12.º Compete à Secção de Apoio Interno assegurar o funcionamento das infra-estruturas básicas do Secretariado.
+Art. 12.º Compete à Secção de Apoio Interno assegurar o funcionamento das infra-estruturas básicas do Secretariado.
 
 ### CAPÍTULO III — Das relações entre os serviços
 
-###### Art. 13.º Os serviços que integram o Secretariado deverão manter entre si estreita colaboração no exercício das respectivas competências.
+Art. 13.º Os serviços que integram o Secretariado deverão manter entre si estreita colaboração no exercício das respectivas competências.
 
-###### Art. 14.º O Secretariado deverá manter colaboração com os demais organismos dependentes do Ministério da Administração Interna, de modo a obter-se coordenação no exercício das respectivas atribuições.
+Art. 14.º O Secretariado deverá manter colaboração com os demais organismos dependentes do Ministério da Administração Interna, de modo a obter-se coordenação no exercício das respectivas atribuições.
 
-###### Art. 15.º Com vista ao eficiente desempenho das suas atribuições, poderá o Secretariado, por determinação e delegação do Ministro da Administração Interna:
+Art. 15.º Com vista ao eficiente desempenho das suas atribuições, poderá o Secretariado, por determinação e delegação do Ministro da Administração Interna:
 
 a) Solicitar aos organismos e serviços públicos e corpos administrativos os elementos e informações de que careça;
 
@@ -246,7 +284,7 @@ c) Participar em todas as reuniões necessárias e suficientes para o desempenho
 
 ### CAPÍTULO IV — Ao pessoal
 
-###### Art. 16.º - 1. O pessoal do Secretariado é o constante do mapa anexo ao presente diploma e integrará o quadro único do MAI, nos termos do n.º 1 do artigo 11.º do [Decreto-Lei n.º 746/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1974-372638), de 27 de Dezembro.
+Art. 16.º - 1. O pessoal do Secretariado é o constante do mapa anexo ao presente diploma e integrará o quadro único do MAI, nos termos do n.º 1 do artigo 11.º do [Decreto-Lei n.º 746/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1974-372638), de 27 de Dezembro.
 
 2. A organização do serviço, a composição do quadro e a forma de recrutamento e provimento do pessoal poderão ser alterados, nos termos previstos nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
@@ -254,7 +292,7 @@ c) Participar em todas as reuniões necessárias e suficientes para o desempenho
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 17.º - 1. As condições de acesso e carreira profissional do pessoal do Secretariado são, para as respectivas categorias, as que vierem a ser estabelecidas para a função pública em geral e, até lá, são reguladas pelo [Decreto n.º 347/73](https://diariodarepublica.pt/dr/detalhe/decreto/347-1973-421599), de 11 de Julho, e pelo disposto nos números seguintes.
+Art. 17.º - 1. As condições de acesso e carreira profissional do pessoal do Secretariado são, para as respectivas categorias, as que vierem a ser estabelecidas para a função pública em geral e, até lá, são reguladas pelo [Decreto n.º 347/73](https://diariodarepublica.pt/dr/detalhe/decreto/347-1973-421599), de 11 de Julho, e pelo disposto nos números seguintes.
 
 2. O lugar de chefe de repartição é provido por um licenciado com curso superior adequado ao exercício das respectivas funções ou por um chefe de secção com, pelo menos, cinco anos de bom e efectivo serviço nesta categoria.
 
@@ -264,7 +302,7 @@ c) Participar em todas as reuniões necessárias e suficientes para o desempenho
 
 5. As funções de chefia dos departamentos são atribuídas ao respectivo técnico principal ou, não existindo este, a um técnico de 1.ª classe com adequada qualificação para o exercício das respectivas funções, designados por proposta do director-geral.
 
-###### Art. 18.º - 1. O primeiro provimento do pessoal nos lugares do mapa aprovado por este diploma será feito pela ordem seguinte:
+Art. 18.º - 1. O primeiro provimento do pessoal nos lugares do mapa aprovado por este diploma será feito pela ordem seguinte:
 
 1.º De entre pessoas que se encontrem há mais tempo em serviço no Secretariado, vinculadas à Administração a qualquer título, desde que com boa informação, tendo preferência as que tenham colaborado no processo eleitoral de 25 de Abril de 1975;
 
@@ -274,27 +312,27 @@ c) Participar em todas as reuniões necessárias e suficientes para o desempenho
 
 2. O provimento previsto no número anterior é feito mediante lista aprovada pelo Ministro da Administração Interna, sob proposta do director-geral, independentemente de quaisquer formalidades, salvo o viso do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 19.º Fica desde já o Ministro das Finanças autorizado a inscrever no orçamento para 1976 as verbas consideradas necessárias para o funcionamento do Secretariado, bem como as indispensáveis à preparação e realização de actos eleitorais previstos para esse ano.
+Art. 19.º Fica desde já o Ministro das Finanças autorizado a inscrever no orçamento para 1976 as verbas consideradas necessárias para o funcionamento do Secretariado, bem como as indispensáveis à preparação e realização de actos eleitorais previstos para esse ano.
 
-###### Art. 20.º A designação Secretariado Técnico dos Assuntos Políticos e Eleitorais consagrada no presente diploma substitui a designação Secretariado Técnico dos Assuntos Políticos constante da alínea e) do artigo 10.º do [Decreto-Lei n.º 746/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1974-372638), de 27 de Dezembro.
+Art. 20.º A designação Secretariado Técnico dos Assuntos Políticos e Eleitorais consagrada no presente diploma substitui a designação Secretariado Técnico dos Assuntos Políticos constante da alínea e) do artigo 10.º do [Decreto-Lei n.º 746/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1974-372638), de 27 de Dezembro.
 
-###### Art. 21.º São resolvidas por despacho do Ministro da Administração Interna as dúvidas que se suscitem na aplicação do presente diploma.
+Art. 21.º São resolvidas por despacho do Ministro da Administração Interna as dúvidas que se suscitem na aplicação do presente diploma.
 
-###### Art. 22.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 22.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 26 de Abril de 1976.**
+Promulgado em 26 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA
 
 Pessoal e vencimento do Secretariado Técnico dos Assuntos Políticos e Eleitorais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/10700/10211025.pdf))](https://files.diariodarepublica.pt/1s/1976/05/10700/10211025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/10700/10211025.pdf)
 
 Secretariado Técnico dos Assuntos Políticos e Eleitorais
 
@@ -358,7 +396,7 @@ Repartição Administrativa:
 
 3 escriturários-dactilógrafos ... S
 
-#### Secção de Contabilidade e Logística:
+Secção de Contabilidade e Logística:
 
 1 chefe de secção ... J
 
@@ -380,4 +418,4 @@ Repartição Administrativa:
 
 (nota a) Colabora com o Departamento de Cadastro Eleitoral e com o Serviço de Documentação.
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.

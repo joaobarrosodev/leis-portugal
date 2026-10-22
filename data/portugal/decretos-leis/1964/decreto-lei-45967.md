@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45967-1964-537222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb71bfcf3a40492f0ef9e80d6a7c94b123edb8c77b1a9d7e24f47b9485281864
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04c8629badeca900d09405224b83e5e007754073de7455ca35d3a0ce90312035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral dos Correios Telégrafos e Telefones
+- Alienação de Solos
+- Coimbra
+- Direcção Geral da Fazenda Pública
+- Domínio Público Municipal
+- Plano de Urbanização
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:46Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +93,7 @@ Considerando que a Câmara Municipal de Coimbra, para dar cumprimento aos novos 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Coimbra duas parcelas de terreno, demarcadas na planta anexa a este diploma e que dele faz parte integrante, com a área total de 310 m2, descritas na Conservatória do Registo Predial daquele concelho sob os n.os 56844 e 56845, a fls. 116 v.º e 117 do livro B-145, as quais vão ser integradas no domínio público municipal para execução do plano urbanístico daquela cidade.
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Coimbra duas parcelas de terreno, demarcadas na planta anexa a este diploma e que dele faz parte integrante, com a área total de 310 m2, descritas na Conservatória do Registo Predial daquele concelho sob os n.os 56844 e 56845, a fls. 116 v.º e 117 do livro B-145, as quais vão ser integradas no domínio público municipal para execução do plano urbanístico daquela cidade.
 
 § 1.º Pela cessão deverá a Câmara entregar a importância de 54250$00, que constituirá receita da Administração-Geral dos Correios, Telégrafos e Telefones.
 
@@ -95,10 +101,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A cessão efectivar-se-á por meio de auto, a lavrar na Direcção-Geral da Fazenda Pública, e é isenta de impostos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/10/24200/14371437.pdf))](https://files.diariodarepublica.pt/1s/1964/10/24200/14371437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/24200/14371437.pdf)
 
 Ministério das Finanças, 15 de Outubro de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.

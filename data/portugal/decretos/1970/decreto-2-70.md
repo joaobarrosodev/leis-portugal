@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/2-1970-275265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53d7c63b8a44abe3a13ff4fa76a43832b236475d0efafb90b216dbfb3e96e0da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8f07ad565262c55251c5bfe5886e2f6888b489af0e144db5e34d0734779d061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Regulamento do Ministério dos Negócios Estrangeiros
+relationships:
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:12Z'
   warnings: []
   errors: []
 ---
@@ -85,39 +91,39 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 43.º, 46.º, 75.º, 87.º, 102.º, o § único do artigo 106.º, os artigos 134.º, 136.º e 139.º, os corpos dos artigos 140.º e 141.º, o § único do artigo 143.º, a alínea a) e os §§ 1.º, 2.º e 3.º do artigo 145.º, o artigo 146.º, o § 7.º do artigo 158.º, os artigos 161.º, 162.º e 163.º, o § 2.º do artigo 164.º, a alínea b) e o § 2.º do artigo 165.º e os artigos 181.º e 191.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, passam a ter a redacção seguinte:
+Artigo único. Os artigos 43.º, 46.º, 75.º, 87.º, 102.º, o § único do artigo 106.º, os artigos 134.º, 136.º e 139.º, os corpos dos artigos 140.º e 141.º, o § único do artigo 143.º, a alínea a) e os §§ 1.º, 2.º e 3.º do artigo 145.º, o artigo 146.º, o § 7.º do artigo 158.º, os artigos 161.º, 162.º e 163.º, o § 2.º do artigo 164.º, a alínea b) e o § 2.º do artigo 165.º e os artigos 181.º e 191.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, passam a ter a redacção seguinte:
 
-###### Art. 43.º A criação, transferência, modificação ou supressão dos consulados de carreira e das secções consulares e dos consulados e vice-consulados honorários serão feitas por portaria do Ministro dos Negócios Estrangeiros ou por decreto conjunto dos Ministros das Finanças e dos Negócios Estrangeiros quando importarem dotação orçamental especial.
-
-...
-
-###### Art. 46.º Os postos consulares não de carreira terão, em geral, a mesma competência que os postos de carreira, mas não poderão celebrar casamentos, lavrar escrituras ou quaisquer instrumentos autênticos, exarar testamentos públicos ou aprovar testamentos cerrados e praticar actos que impliquem a aquisição de nacionalidade, salvo se expressamente autorizados pela Secretaria de Estado.
+Art. 43.º A criação, transferência, modificação ou supressão dos consulados de carreira e das secções consulares e dos consulados e vice-consulados honorários serão feitas por portaria do Ministro dos Negócios Estrangeiros ou por decreto conjunto dos Ministros das Finanças e dos Negócios Estrangeiros quando importarem dotação orçamental especial.
 
 ...
 
-###### Art. 75.º Os lugares de cônsul-geral poderão ser confiados a ministros plenipotenciários se as necessidades de serviço o aconselharem e sem aumento do quadro respectivo.
+Art. 46.º Os postos consulares não de carreira terão, em geral, a mesma competência que os postos de carreira, mas não poderão celebrar casamentos, lavrar escrituras ou quaisquer instrumentos autênticos, exarar testamentos públicos ou aprovar testamentos cerrados e praticar actos que impliquem a aquisição de nacionalidade, salvo se expressamente autorizados pela Secretaria de Estado.
 
 ...
 
-###### Art. 87.º A promoção a ministro plenipotenciário de 2.ª classe depende, além de três anos de bom e efectivo serviço como conselheiro de embaixada, da prestação durante a carreira de, pelo menos, dois anos de serviço na Secretaria de Estado, dois anos numa missão diplomática e dois anos num consulado.
+Art. 75.º Os lugares de cônsul-geral poderão ser confiados a ministros plenipotenciários se as necessidades de serviço o aconselharem e sem aumento do quadro respectivo.
+
+...
+
+Art. 87.º A promoção a ministro plenipotenciário de 2.ª classe depende, além de três anos de bom e efectivo serviço como conselheiro de embaixada, da prestação durante a carreira de, pelo menos, dois anos de serviço na Secretaria de Estado, dois anos numa missão diplomática e dois anos num consulado.
 
 § único. O serviço prestado nas secções consulares será considerado como prestado num consulado para efeitos do artigo 30.º da lei orgânica e do corpo deste artigo. Entender-se-á, no entanto, como prestado numa missão diplomática ou num consulado, conforme for mais favorável ao funcionário, nos casos em que aquele serviço seja prestado cumulativamente com o serviço próprio da missão.
 
 ...
 
-###### Art. 102.º Aos funcionários destacados para serviço no estrangeiro nas condições do artigo 100.º será abonada uma importância para despesas de residência, fixada para cada caso pelo Ministro dos Negócios Estrangeiros.
+Art. 102.º Aos funcionários destacados para serviço no estrangeiro nas condições do artigo 100.º será abonada uma importância para despesas de residência, fixada para cada caso pelo Ministro dos Negócios Estrangeiros.
 
 § único. Os referidos funcionários terão direito ao abono para despesas de viagem para si e para sua mulher, sendo casados, e para o transporte, seguro e embalagem de bagagem até aos 500 kg. A título de abono para instalação ser-lhes-á abonado um duodécimo do vencimento e residência que lhes competir no lugar que vão ocupar.
 
 ...
 
-###### Art. 106.º ...
+Art. 106.º ...
 
 § único. Os cônsules não de carreira em serviço nas missões diplomáticas e os vice-cônsules e os chanceleres em serviço nas missões diplomáticas e nos postos consulares de carreira poderão ser contratados quando forem de nacionalidade portuguesa.
 
 ...
 
-###### Art. 134.º Os funcionários em serviço no estrangeiro, a quem nos termos regulamentares competir a substituição de outros funcionários nas suas ausências ou impedimentos, não terão direito a qualquer vencimento ou abono suplementar por estas substituições quando as ausências ou impedimentos não excederem trinta dias. Quando, porém, a ausência ou impedimento for superior a trinta dias, seguidos ou interpolados, o substituto perceberá, a partir do 31.º dia da substituição, metade do abono para despesas de representação atribuído ao funcionário substituído. O direito a este abono suplementar verifica-se, no entanto, a partir do primeiro dia da gerência, no caso de vacatura do posto.
+Art. 134.º Os funcionários em serviço no estrangeiro, a quem nos termos regulamentares competir a substituição de outros funcionários nas suas ausências ou impedimentos, não terão direito a qualquer vencimento ou abono suplementar por estas substituições quando as ausências ou impedimentos não excederem trinta dias. Quando, porém, a ausência ou impedimento for superior a trinta dias, seguidos ou interpolados, o substituto perceberá, a partir do 31.º dia da substituição, metade do abono para despesas de representação atribuído ao funcionário substituído. O direito a este abono suplementar verifica-se, no entanto, a partir do primeiro dia da gerência, no caso de vacatura do posto.
 
 § 1.º O total do abono para despesas de representação fixado a favor do substituto e do que lhe cabe pertencer pela substituição, nos termos do corpo deste artigo, não poderá exceder 95 por cento da quantia atribuída àquele título ao funcionário substituído.
 
@@ -125,7 +131,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 136.º Será posta à disposição dos chefes de missão diplomática habitação condigna com a função que exercem.
+Art. 136.º Será posta à disposição dos chefes de missão diplomática habitação condigna com a função que exercem.
 
 § 1.º Nos países onde o Estado não possuir edifício próprio adequado para aquele fim serão arrendadas casas para instalação das missões diplomáticas, inscrevendo-se no orçamento do Ministério dos Negócios Estrangeiros as dotações necessárias para pagamento das rendas da residência dos chefes da missão e da chancelaria.
 
@@ -141,7 +147,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 139.º Os edifícios do Estado utilizados para residência dos chefes de missão serão mobilados e apetrechados pelo Estado, não podendo sofrer modificações na decoração geral sem autorização superior, e os que forem, arrendados para o mesmo efeito sê-lo-ão quando as circunstâncias especiais o exigirem e assim for determinado por despacho do Ministro dos Negócios Estrangeiros.
+Art. 139.º Os edifícios do Estado utilizados para residência dos chefes de missão serão mobilados e apetrechados pelo Estado, não podendo sofrer modificações na decoração geral sem autorização superior, e os que forem, arrendados para o mesmo efeito sê-lo-ão quando as circunstâncias especiais o exigirem e assim for determinado por despacho do Ministro dos Negócios Estrangeiros.
 
 § 1.º As chancelarias dos postos diplomáticos e consulares serão mobiladas e apetrechadas pelo Estado.
 
@@ -151,7 +157,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º Os agentes diplomáticos ou os cônsules darão conta, nos termos e dentro dos prazos legais, da aplicação das verbas indicadas no parágrafo anterior.
 
-###### Art. 140.º Aos funcionários do serviço diplomático pela primeira vez nomeados com carácter definitivo, em relação a cada categoria, para o exercício de cargos no estrangeiro, serão abonadas para despesas de instalação as quantias fixas seguintes:
+Art. 140.º Aos funcionários do serviço diplomático pela primeira vez nomeados com carácter definitivo, em relação a cada categoria, para o exercício de cargos no estrangeiro, serão abonadas para despesas de instalação as quantias fixas seguintes:
 
 a) Aos terceiros-secretários, 40000$00;
 
@@ -169,17 +175,17 @@ g) Aos embaixadores, 180000$00.
 
 ...
 
-###### Art. 141.º Os funcionários com direito a abono para despesas de instalação poderão receber metade desse abono dentro dos quinze dias anteriores ao da partida e a outra metade a seguir à posse efectiva do cargo.
+Art. 141.º Os funcionários com direito a abono para despesas de instalação poderão receber metade desse abono dentro dos quinze dias anteriores ao da partida e a outra metade a seguir à posse efectiva do cargo.
 
 ...
 
-###### Art. 143.º ...
+Art. 143.º ...
 
 § único. O disposto neste artigo é também aplicável aos funcionários que regressem ao País após três anos seguidos de exercício no estrangeiro, qualquer que tenha sido aí a sua situação. Nos casos em que o regresso do funcionário se dê por ter cessado a comissão de serviço por ele desempenhada no estrangeiro nos termos do artigo 152.º do Regulamento, o abono será processado logo que reassuma o exercício do seu cargo na Secretaria de Estado. Nos casos em que o regresso se tenha dado em seguimento à exoneração do funcionário ou à sua colocação na situação prevista do artigo 169.º deste Regulamento, ou tenha resultado de qualquer facto de ordem política internacional, o abono ao interessado será feito quando, por despacho ministerial, assim for julgado adequado.
 
 ...
 
-###### Art. 145.º ...
+Art. 145.º ...
 
 ...
 
@@ -197,7 +203,7 @@ c) Importância das despesas e embalagem, armazenagem, seguro e transporte de m�
 
 ...
 
-###### Art. 146.º Os funcionários devem declarar, sob sua honra, ao requisitarem as despesas de viagem, quais são as pessoas de família com direito a despesas de transporte que os acompanham desde logo e aquelas para quem pedem que seja reservado o abono correspondente. A reserva do abono não pode ser por prazo superior a um ano.
+Art. 146.º Os funcionários devem declarar, sob sua honra, ao requisitarem as despesas de viagem, quais são as pessoas de família com direito a despesas de transporte que os acompanham desde logo e aquelas para quem pedem que seja reservado o abono correspondente. A reserva do abono não pode ser por prazo superior a um ano.
 
 § 1.º Consideram-se pessoas de família para o efeito deste artigo e da alínea a) do artigo 145.º a mulher, a mãe viúva ou pai inválido, os filhos legítimos menores do funcionário ou do seu cônjuge, as filhas solteiras, viúvas ou divorciadas do funcionário ou do seu cônjuge, os adoptados menores, as adoptadas solteiras; os netos órfãos de pai ou de mãe ou de pais divorciados e as irmãs não casadas que não tenham quaisquer rendimentos ou pensões e que vivam com o funcionário.
 
@@ -205,7 +211,7 @@ c) Importância das despesas e embalagem, armazenagem, seguro e transporte de m�
 
 ...
 
-###### Art. 158.º ...
+Art. 158.º ...
 
 ...
 
@@ -213,11 +219,11 @@ c) Importância das despesas e embalagem, armazenagem, seguro e transporte de m�
 
 ...
 
-###### Art. 161.º Os cônsules não de carreira e os vice-cônsules e os chanceleres em serviço nas secções consulares das missões diplomáticas e os vice-cônsules e os chanceleres em serviço nos consulados de carreira, cujos postos não estejam individualmente inscritos no orçamento ou não sejam contratados nos termos do § único do artigo 106.º deste Regulamento, serão remunerados pela verba global destinada a pessoal assalariado dos serviços externos.
+Art. 161.º Os cônsules não de carreira e os vice-cônsules e os chanceleres em serviço nas secções consulares das missões diplomáticas e os vice-cônsules e os chanceleres em serviço nos consulados de carreira, cujos postos não estejam individualmente inscritos no orçamento ou não sejam contratados nos termos do § único do artigo 106.º deste Regulamento, serão remunerados pela verba global destinada a pessoal assalariado dos serviços externos.
 
-###### Art. 162.º Os cônsules não de carreira e os vice-cônsules titulares dos postos e os agentes consulares não têm direito a vencimento ou salários e serão remunerados por uma quota-parte dos rendimentos dos postos em que servirem, igual a metade dos emolumentos consulares cobrados anualmente até ao limite de 150000$00.
+Art. 162.º Os cônsules não de carreira e os vice-cônsules titulares dos postos e os agentes consulares não têm direito a vencimento ou salários e serão remunerados por uma quota-parte dos rendimentos dos postos em que servirem, igual a metade dos emolumentos consulares cobrados anualmente até ao limite de 150000$00.
 
-###### Art. 163.º O Ministro poderá, porém, autorizar o pagamento de subsídios aos consulados não de carreira e aos vice-consulados que entenda deverem ser geridos por cônsules ou vice-cônsules não de carreira de nacionalidade ou de origem portuguesa. Em tal caso, serão inscritos no orçamento os subsídios destinados a cada um dos postos.
+Art. 163.º O Ministro poderá, porém, autorizar o pagamento de subsídios aos consulados não de carreira e aos vice-consulados que entenda deverem ser geridos por cônsules ou vice-cônsules não de carreira de nacionalidade ou de origem portuguesa. Em tal caso, serão inscritos no orçamento os subsídios destinados a cada um dos postos.
 
 § 1.º Para efeitos do abono durante as licenças, o subsídio referido no corpo deste artigo é equivalente ao abono de representação, abonando-se a favor do posto a quota-parte do subsídio não processada a favor do seu titular durante a licença deste.
 
@@ -225,13 +231,13 @@ c) Importância das despesas e embalagem, armazenagem, seguro e transporte de m�
 
 § 3.º O Ministro poderá determinar o pagamento das despesas de viagem dos cônsules não de carreira ou dos vice-cônsules, titulares dos postos subsidiados, e de sua família, quando sigam de Portugal para aqueles postos, quando regressem destes a Portugal ou quando sejam transferidos de um para outro posto daquela natureza. Para efeitos deste parágrafo consideram-se como despesas de viagem as despesas referidas no artigo 145.º deste Regulamento, sendo os cônsules ou vice-cônsules titulares de postos subsidiados equiparados a secretários de embaixadas solteiros.
 
-###### Art. 164.º ...
+Art. 164.º ...
 
 ...
 
 § 2.º No prazo de licença registada, que deve ser utilizada em território nacional por um período correspondente a 2/3, não se conta a duração das viagens de vinda e regresso quando cada uma delas não exceda quinze dias.
 
-###### Art. 165.º ...
+Art. 165.º ...
 
 ...
 
@@ -249,12 +255,12 @@ b) Na situação de licença por doença durante os primeiros trinta dias, a tot
 
 ...
 
-###### Art. 191.º À nomeação de pessoas estranhas ao Ministério dos Negócios Estrangeiros para missões extraordinárias de carácter diplomático ou internacional e para comissões de serviço no estrangeiro dependentes daquele Ministério são aplicáveis as disposições do artigo 152.º e do corpo do artigo 153.º do presente Regulamento, relativas à nomeação e remuneração dos funcionários do Ministério encarregados de missões ou comissões da mesma natureza.
+Art. 191.º À nomeação de pessoas estranhas ao Ministério dos Negócios Estrangeiros para missões extraordinárias de carácter diplomático ou internacional e para comissões de serviço no estrangeiro dependentes daquele Ministério são aplicáveis as disposições do artigo 152.º e do corpo do artigo 153.º do presente Regulamento, relativas à nomeação e remuneração dos funcionários do Ministério encarregados de missões ou comissões da mesma natureza.
 
 Marcello Caetano.
 
-**Promulgado em 30 de Dezembro de 1969.**
+Promulgado em 30 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

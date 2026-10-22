@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1972-690821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef25bfad9329b9ab9e5bfff62118270b68f6d6786dfabc352e40e0015ee9acf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31a5caa0d49231c2c32626529591b1facd6fc49e26735bed0cc408af38927a04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Ministro das Finanças
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:18Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +102,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro das Finanças a prorrogar, por uma ou mais vezes, e até ao máximo de dez anos, o prazo de amortização do capital de quaisquer empréstimos anuais concedidos e a conceder à província ultramarina de S. Tomé e Príncipe nos termos dos Decretos-Leis n.os 46683, de 3 de Dezembro de 1965, e 48292, de 26 de Março de 1968.
+Artigo 1.º É autorizado o Ministro das Finanças a prorrogar, por uma ou mais vezes, e até ao máximo de dez anos, o prazo de amortização do capital de quaisquer empréstimos anuais concedidos e a conceder à província ultramarina de S. Tomé e Príncipe nos termos dos Decretos-Leis n.os 46683, de 3 de Dezembro de 1965, e 48292, de 26 de Março de 1968.
 
-###### Art. 2.º O Ministro das Finanças poderá ainda, em relação a todos os empréstimos facultados ou a facultar à mesma província no âmbito dos diplomas a que se refere o artigo anterior e do [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961:
+Art. 2.º O Ministro das Finanças poderá ainda, em relação a todos os empréstimos facultados ou a facultar à mesma província no âmbito dos diplomas a que se refere o artigo anterior e do [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961:
 
 a) Diferir o pagamento de qualquer prestação de capital, fixando a sua liquidação, de acordo com as possibilidades provisionais da província, para outro ou outros anos do período de amortização dos financiamentos, ou distribuindo o respectivo montante por todas as prestações a vencer;
 
@@ -105,14 +112,14 @@ b) Diferir, nos termos que julgue apropriados, e na medida em que efectivamente 
 
 c) Autorizar, a título excepcional, e relativamente a qualquer ano de vigência dos mesmos empréstimos, a suspensão do pagamento dos respectivos juros, quando tal solução for absolutamente indispensável para a adequada realização de interesses fundamentais da província, no contexto dos superiores interesses nacionais.
 
-###### Art. 3.º Para a obtenção dos benefícios previstos nos artigos anteriores, deverá a província de S. Tomé e Príncipe remeter, com o seu pedido, ao Ministério das Finanças, por intermédio do Ministério do Ultramar, estudo desenvolvido sobre a sua situação económica e financeira, suficientemente justificativo da pretensão formulada.
+Art. 3.º Para a obtenção dos benefícios previstos nos artigos anteriores, deverá a província de S. Tomé e Príncipe remeter, com o seu pedido, ao Ministério das Finanças, por intermédio do Ministério do Ultramar, estudo desenvolvido sobre a sua situação económica e financeira, suficientemente justificativo da pretensão formulada.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Outubro de 1972.**
+Promulgado em 18 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.

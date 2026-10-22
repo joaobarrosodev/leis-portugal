@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01600/01210122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1978-447764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06588b5eab65ecf87c29c2e3a58eb137c93da204187522cca63b57f27f83d538
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18a0d4112146e478ebd92dc530945b937b185620960b655d14dbcddad826f409
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:374199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:363885:por
+  label: "Alterado o artigo 1.º pelo DEC LEI.434/79.02.11.1979.CR, DR.IS [253] de 02.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/434-1979-363885
+  date: '1979-11-02'
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:400180:por
+  label: "Revogada a alínea b) do n.º 2 do artigo 1.º pelo DEC LEI.332/84.17.10.1984.MDN, DR.IS [241] de 17.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-1984-400180
+  date: '1984-10-17'
+- type: repealed_by
+  target: pt:dre:374199:por
+  label: Revogado pelo(a) Decreto-Lei n.º 201/88 - Diário da República n.º 127/1988, Série I de 1988-06-01, nos termos do
+    art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1988-374199
+  date: '1988-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:52Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +125,7 @@ Considerando, enquanto se aguarda a devida oportunidade para proceder à reestru
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São obrigatoriamente beneficiários titulares dos Serviços Sociais das Forças Armadas (SSFA):
+Artigo 1.º - 1 - São obrigatoriamente beneficiários titulares dos Serviços Sociais das Forças Armadas (SSFA):
 
 a) Os militares nos quadros permanentes dos três ramos das forças armadas, nas situações de activo, reserva e reforma;
 
@@ -125,7 +151,7 @@ f) Os deficientes das forças armadas, nos termos do n.º 9 do artigo 14.º do [
 
 4 - A inscrição como beneficiário titular, nos casos previstos nas alíneas c) e e) do n.º 2, será respectivamente efectuada pelo familiar beneficiário ou pelo familiar que, segundo os critérios gerais de direito, se situe em primeiro lugar na ordem de chamada para o exercício das funções de cabeça-de-casal.
 
-###### Art. 2.º - 1 - Consideram-se familiares beneficiários do beneficiário titular, para efeitos deste diploma:
+Art. 2.º - 1 - Consideram-se familiares beneficiários do beneficiário titular, para efeitos deste diploma:
 
 a) Os cônjuges;
 
@@ -139,34 +165,34 @@ e) Outras pessoas a cargo do beneficiário que confiram direito ao abono de fam�
 
 2 - O beneficiário titular que, nos termos da alínea c) do n.º 2 do artigo 1.º, se haja inscrito em tal categoria por virtude de ser anteriormente familiar beneficiário não poderá inscrever no seu agregado qualquer familiar não pertencente já ao agregado do anterior beneficiário titular à data da morte deste, ausência ou perda da qualidade.
 
-###### Art. 3.º Perdem definitivamente a qualidade e quaisquer direitos conferidos pelos SSFA:
+Art. 3.º Perdem definitivamente a qualidade e quaisquer direitos conferidos pelos SSFA:
 
 a) Os beneficiários titulares inscritos nos termos da alínea c) do n.º 2 do artigo 1.º, quando contraiam casamento ou passem a segundas núpcias;
 
 b) Os familiares beneficiários, quando contraiam casamento e, por esse motivo, deixem de conferir direito ao abono de família.
 
-###### Art. 4.º Os beneficiários titulares inscritos em função dos seus vínculos profissionais ficarão com a inscrição suspensa quanto a direitos e obrigações, enquanto se encontrarem nas situações de licença ilimitada e de inactividade temporária que não resultem de doença, ou enquanto estiverem separados do serviço, mantendo apenas, quer o direito à habitação de casa de renda económica que lhes haja sido arrendada pelos SSFA, mas pagando a respectiva renda técnica ou contratual sem qualquer subsídio, quer os direitos e obrigações que resultem de empréstimos contraídos na Caixa Económica dos SSFA.
+Art. 4.º Os beneficiários titulares inscritos em função dos seus vínculos profissionais ficarão com a inscrição suspensa quanto a direitos e obrigações, enquanto se encontrarem nas situações de licença ilimitada e de inactividade temporária que não resultem de doença, ou enquanto estiverem separados do serviço, mantendo apenas, quer o direito à habitação de casa de renda económica que lhes haja sido arrendada pelos SSFA, mas pagando a respectiva renda técnica ou contratual sem qualquer subsídio, quer os direitos e obrigações que resultem de empréstimos contraídos na Caixa Económica dos SSFA.
 
-###### Art. 5.º A quotização mensal dos beneficiários titulares será estabelecida através de despacho, por percentagem sobre as remunerações ou pensões, e poderá, nos mesmos termos, ser dispensada total ou parcialmente nos casos a que se referem as alíneas c), d), e) e f) do n.º 2 do artigo 1.º, e ainda no caso de militares reformados, nas condições a fixar.
+Art. 5.º A quotização mensal dos beneficiários titulares será estabelecida através de despacho, por percentagem sobre as remunerações ou pensões, e poderá, nos mesmos termos, ser dispensada total ou parcialmente nos casos a que se referem as alíneas c), d), e) e f) do n.º 2 do artigo 1.º, e ainda no caso de militares reformados, nas condições a fixar.
 
-###### Art. 6.º - 1 - É estabelecido expressamente o princípio de não cumulação de benefícios com outros de igual natureza prestados por quaisquer outras instituições oficiais de segurança social.
+Art. 6.º - 1 - É estabelecido expressamente o princípio de não cumulação de benefícios com outros de igual natureza prestados por quaisquer outras instituições oficiais de segurança social.
 
 2 - Nos casos em que um beneficiário, quer beneficiário titular, quer familiar beneficiário, possa estar abrangido por outra instituição, fica obrigado a optar, mediante declaração expressa em que renuncia ao exercício de quaisquer direitos que essa outra instituição estabeleça e que tenham natureza análoga aos do esquema de benefícios dos SSFA.
 
-###### Art. 7.º O presente diploma aplica-se a todas as inscrições efectuadas ao abrigo das disposições em vigor à data da sua publicação, as quais serão mantidas.
+Art. 7.º O presente diploma aplica-se a todas as inscrições efectuadas ao abrigo das disposições em vigor à data da sua publicação, as quais serão mantidas.
 
-###### Art. 8.º No caso de falta do membro da família que, pela sua qualidade profissional, se poderia ter inscrito como beneficiário titular, não o tendo feito em virtude de a inscrição não ser então obrigatória, podem os seus familiares referidos no n.º 1 do artigo 2.º efectuar a sua inscrição como beneficiário titular nos termos e pela ordem estabelecida no n.º 4 do artigo 1.º, só podendo inscrever no seu agregado familiares beneficiários dentro da limitação do n.º 2 do artigo 2.º
+Art. 8.º No caso de falta do membro da família que, pela sua qualidade profissional, se poderia ter inscrito como beneficiário titular, não o tendo feito em virtude de a inscrição não ser então obrigatória, podem os seus familiares referidos no n.º 1 do artigo 2.º efectuar a sua inscrição como beneficiário titular nos termos e pela ordem estabelecida no n.º 4 do artigo 1.º, só podendo inscrever no seu agregado familiares beneficiários dentro da limitação do n.º 2 do artigo 2.º
 
-###### Art. 9.º - 1 - As dúvidas que se verifiquem na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 9.º - 1 - As dúvidas que se verifiquem na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior-General das Forças Armadas.
 
 2 - A matéria regulamentar do presente diploma e, bem assim, a que se refira aos casos de perda da qualidade de beneficiário, será estabelecida pela mesma via de despachos, devendo estes ser publicados no Diário da República.
 
-###### Art. 10.º É revogado o artigo 11.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958.
+Art. 10.º É revogado o artigo 11.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958.
 
 Visto e aprovado em Conselho da Revolução em 4 de Janeiro de 1978.
 
-**Promulgado em 6 de Janeiro de 1978.**
+Promulgado em 6 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05300/03750376.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1977-140339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e9aa63e30a60f95d5e8a6fc6e49adf607bfe6e66197a4947d06a705c9b8da36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7788f6eec7d901c99fe58056ad596f3c4244590e13b3ba5c4b28b6a2350f4232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comemoração
+- Comissão Organizadora
+- Dia de Portugal de Camões e das Comunidades Portuguesas
 relationships:
 - type: amended_by
   target: pt:dre:508582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:139473:por
+  label: Rectificado pela DECL.DD8120.29.03.1977.PCM, DR.IS [74] de 29.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139473
+  date: '1977-03-29'
+- type: corrected_by
+  target: pt:dre:139194:por
+  label: "Rectificado pela RECT.DD135.23.04.1977.PCM, DR.IS [95] de 23.04.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-139194
+  date: '1977-04-23'
+- type: repealed_by
+  target: pt:dre:508582:por
+  label: "Revogado pelo DEC LEI.39-B/78.02.03.1978.PCM, DR.IS [51]Supl de 02.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-b-1978-508582
+  date: '1978-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:12Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +115,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Dia de Camões, comemorado a 10 de Junho, passa a ser dedicado também às comunidades portuguesas no estrangeiro.
+Artigo 1.º O Dia de Camões, comemorado a 10 de Junho, passa a ser dedicado também às comunidades portuguesas no estrangeiro.
 
-###### Art. 2.º Enquanto Dia das Comunidades, o Dia de Camões será celebrado em Portugal e no estrangeiro, com vista a levar a presença do nosso país às diferentes comunidades e a tornar estas mais conhecidas na sua nação de origem.
+Art. 2.º Enquanto Dia das Comunidades, o Dia de Camões será celebrado em Portugal e no estrangeiro, com vista a levar a presença do nosso país às diferentes comunidades e a tornar estas mais conhecidas na sua nação de origem.
 
-###### Art. 3.º - 1. Para os efeitos do disposto no artigo antecedente será constituída anualmente uma comissão organizadora, cujo presidente será nomeado pelo Presidente da República, podendo ainda ser constituídas subcomissões no País e no estrangeiro.
+Art. 3.º - 1. Para os efeitos do disposto no artigo antecedente será constituída anualmente uma comissão organizadora, cujo presidente será nomeado pelo Presidente da República, podendo ainda ser constituídas subcomissões no País e no estrangeiro.
 
 2. Os restantes membros da comissão organizadora serão igualmente nomeados pelo Presidente da República, sob proposta do presidente.
 
-###### Art. 4.º As comemorações do Dia de Camões, enquanto Dia das Comunidades, realizar-se-ão em Portugal numa capital de distrito a designar, em cada ano, pelo Presidente da República.
+Art. 4.º As comemorações do Dia de Camões, enquanto Dia das Comunidades, realizar-se-ão em Portugal numa capital de distrito a designar, em cada ano, pelo Presidente da República.
 
-###### Art. 5.º - 1. As despesas resultantes da execução do presente diploma realizar-se-ão sem dependência do cumprimento de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
+Art. 5.º - 1. As despesas resultantes da execução do presente diploma realizar-se-ão sem dependência do cumprimento de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
 
 2. Os fundos necessários à satisfação dos encargos referidos no número anterior serão requisitados pela Comissão Organizadora à respectiva delegação da Direcção-Geral da Contabilidade Pública, por conta da dotação para o efeito inscrita no orçamento de Encargos Gerais da Nação.
 
@@ -115,8 +133,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros.
 
-**Promulgado em 21 de Fevereiro de 1977.**
+Promulgado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

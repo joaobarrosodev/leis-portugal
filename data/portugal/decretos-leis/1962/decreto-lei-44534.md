@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44534-1962-163639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb7b16641cd4e71e2de98926b98a05149c210c7aee7552acaed02d3fa3ba7624
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad19c399f3e1ca83d159551a7e132d41bc38bc3fd63fc56abf3078acb687dda9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amortização
+- Apoio Técnico
+- Aproveitamento Agrícola
+- Aquisição de Imóveis
+- Crédito Agrícola
+- Desenvolvimento Rural
+- Exploração Agrícola
+- Exploração Pecuária
+- Financiamento
+- Fundo de Melhoramentos Agrícolas
+relationships:
+- type: cites
+  target: pt:dre:154874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:160479:por
+  label: Rectificado o art. único do presente diploma pelo(a) Declaração - Diário do Governo n.º 225/1962, Série I de 1962-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1962-160479
+  date: '1962-09-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:58Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +119,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 1.º, 2.º, 10.º, § 6.º, e 20.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 2.º, 10.º, § 6.º, e 20.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passam a ter a seguinte redacção:
 
-###### Artigo 1.º A assistência técnica e financeira a prestar pelo Estado nos termos da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, destina-se ao fomento agro-pecuário, através da realização de melhoramentos de reconhecido interesse económico e social que tenham por fim aumentar o rendimento das explorações agrícolas.
+Artigo 1.º A assistência técnica e financeira a prestar pelo Estado nos termos da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, destina-se ao fomento agro-pecuário, através da realização de melhoramentos de reconhecido interesse económico e social que tenham por fim aumentar o rendimento das explorações agrícolas.
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 v) Preparação ou adaptação de terrenos para novas culturas ou para pastagens, incluindo a compra de sementes e adubos, bem como os demais encargos culturais;
 
@@ -108,16 +131,16 @@ x) Compra de reprodutores e outros animais para o conveniente apetrechamento da 
 
 z) Aquisição de terras ou direitos com vista à exploração agrícola, florestal ou pecuária do tipo familiar econòmicamente viável, desde que a aquisição possa contribuir para o equilíbrio técnico e económico da mesma exploração.
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 6.º Serão estabelecidas em regulamento as condições de concessão das comparticipações e as normas a seguir para a fixação da respectiva percentagem nas diferentes categorias de melhoramentos, tendo em conta o interesse económico ou social da obra, a capacidade financeira do peticionário e as disponibilidades orçamentais existentes na verba a inscrever anualmente no orçamento do Fundo de Melhoramentos Agrícolas sob a rubrica «Comparticipações para execução de melhoramentos agrícolas de interesse colectivo».
 
-###### Art. 20.º Durante o período de amortização, que terá início dois anos após a conclusão do melhoramento para que o empréstimo foi destinado, será devido juro à taxa de 2 e 4,5 por cento e por ano, sendo fixado para 31 de Janeiro o vencimento das anuidades constantes para pagamento de capital e juro.
+Art. 20.º Durante o período de amortização, que terá início dois anos após a conclusão do melhoramento para que o empréstimo foi destinado, será devido juro à taxa de 2 e 4,5 por cento e por ano, sendo fixado para 31 de Janeiro o vencimento das anuidades constantes para pagamento de capital e juro.
 
 § 1.º Conta-se como ano completo o tempo decorrido entre a datada conclusão do melhoramento e o começo do ano seguinte.
 
 § 2.º Aplica-se à fixação da taxa de juro o disposto no § 1.º do artigo 18.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira -Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

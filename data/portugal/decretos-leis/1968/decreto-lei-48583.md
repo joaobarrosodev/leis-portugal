@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48583-1968-264705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56ec9be30be3123e70b399cda48356897f8295fa4221cfcccbd2ece26e1674b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 551aff6b9ece29f2e735eafbc0e64019e888b354e6b2df783bd4604fbc3b461c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Freguesia
+- Organização Territorial
+- Viana do Castelo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:35Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +98,10 @@ Considerando os pareceres emitidos sobre o assunto;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É transferido para a freguesia de Neiva o lugar de Gândara, pertencente ao território da freguesia de Castelo do Neiva, passando a delimitação das mencionadas freguesias, na parte alterada, a ser constituída por uma linha recta que vai do marco da Perlinha até à ponte velha do rio Neiva, situada a cerca de 150 m a poente da ponte nova.
+Artigo 1.º É transferido para a freguesia de Neiva o lugar de Gândara, pertencente ao território da freguesia de Castelo do Neiva, passando a delimitação das mencionadas freguesias, na parte alterada, a ser constituída por uma linha recta que vai do marco da Perlinha até à ponte velha do rio Neiva, situada a cerca de 150 m a poente da ponte nova.
 
-###### Art. 2.º A Câmara Municipal de Viana do Castelo procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo antecedente.
+Art. 2.º A Câmara Municipal de Viana do Castelo procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo antecedente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.

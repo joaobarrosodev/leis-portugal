@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/164-1970-225818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2bc0ae8013a0c645d9e668192be30abcd6276d263cc5b9b3fa8a51b18370b15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adcb650805d40510d0bb6d70940f954ec328e5bada24d173901b1ba7bb709f47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:52Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo a celebrar contrato para a execução da empreitada de ampliação do cais (2.ª fase) do porto de Velas, ilha de S. Jorge, pela importância de 5784224$00.
+Artigo 1.º É autorizada a Junta Autónoma dos Portos do Distrito de Angra do Heroísmo a celebrar contrato para a execução da empreitada de ampliação do cais (2.ª fase) do porto de Velas, ilha de S. Jorge, pela importância de 5784224$00.
 
-###### Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
 Em 1970 ... 2500000$00
 
@@ -101,8 +105,8 @@ Em 1972 ... 784224$00
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 30 de Março de 1970**
+Promulgado em 30 de Março de 1970
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

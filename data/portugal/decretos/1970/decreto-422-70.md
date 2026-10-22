@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/422-1970-148830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bb0a3a5049b43a73ce62d39308adbeeb803ed937ebf4c18f6f4e00af7963305
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5455c3038052291a71dd74903dc9422dd8a78bbd510d17ba60b0b1bf6f027ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,34 @@ relationships:
   target: pt:dre:412625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412625:por
+  label: "Alterado o artigo 16.º da orgânica dos serviços de indústria, pelo DEC.570/73.31.10.1973.MU, DG.IS [255] de 31.10.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/570-1973-412625
+  date: '1973-10-31'
+- type: cites
+  target: pt:dre:148833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:02Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +117,11 @@ Nos termos da base X, n.º III, alínea a), da Lei Orgânica do Ultramar Portugu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada, na província de Angola, a Direcção Provincial dos Serviços de Indústria.
+Artigo 1.º É criada, na província de Angola, a Direcção Provincial dos Serviços de Indústria.
 
-###### Art. 2.º A Direcção Provincial dos Serviços de Economia de Angola, com orgânica aprovada pelo [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970, passa a denominar-se «Direcção Provincial dos Serviços de Comércio e Abastecimentos».
+Art. 2.º A Direcção Provincial dos Serviços de Economia de Angola, com orgânica aprovada pelo [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970, passa a denominar-se «Direcção Provincial dos Serviços de Comércio e Abastecimentos».
 
-###### Art. 3.º Para a província de Angola são introduzidas as seguintes alterações ao [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970:
+Art. 3.º Para a província de Angola são introduzidas as seguintes alterações ao [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970:
 
 a) São retiradas aos Serviços de Economia de Angola as funções fixadas pelo artigo 1.º e pelo presente diploma atribuídas aos Serviços de Indústria;
 
@@ -115,13 +133,13 @@ d) Passam a ser da competência da Direcção Provincial dos Serviços de Indús
 
 e) A obrigação prescrita na alínea b) do n.º 1 do artigo 39.º deixa de ser aplicada no tocante ao condicionamento e licenciamento industrial.
 
-###### Art. 4.º Ficam revogadas todas as disposições do [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970, não expressamente alteradas pelo artigo anterior e que contrariem o presente diploma, na sua aplicação à província de Angola.
+Art. 4.º Ficam revogadas todas as disposições do [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970, não expressamente alteradas pelo artigo anterior e que contrariem o presente diploma, na sua aplicação à província de Angola.
 
-###### Art. 5.º As referências aos Serviços de Economia feitas nos diplomas reguladores do condicionamento e licenciamento industrial, higiene e segurança industrial e demais matéria industrial, em particular no [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, o Diploma Legislativo n.º 3906, de 1 de Maio de 1969, e diplomas complementares, no seu âmbito de aplicação à província de Angola, devem estender-se como feitas aos Serviços de Indústria da mesma província.
+Art. 5.º As referências aos Serviços de Economia feitas nos diplomas reguladores do condicionamento e licenciamento industrial, higiene e segurança industrial e demais matéria industrial, em particular no [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, o Diploma Legislativo n.º 3906, de 1 de Maio de 1969, e diplomas complementares, no seu âmbito de aplicação à província de Angola, devem estender-se como feitas aos Serviços de Indústria da mesma província.
 
-###### Art. 6.º É aprovada a orgânica da Direcção Provincial dos Serviços de Indústria, que faz parte integrante do presente decreto.
+Art. 6.º É aprovada a orgânica da Direcção Provincial dos Serviços de Indústria, que faz parte integrante do presente decreto.
 
-###### Art. 7.º - 1. Fica o governador-geral de Angola autorizado a abrir os créditos necessários, com contrapartida em recursos orçamentais, para prover as necessidades financeiras de organização dos Serviços de Indústria.
+Art. 7.º - 1. Fica o governador-geral de Angola autorizado a abrir os créditos necessários, com contrapartida em recursos orçamentais, para prover as necessidades financeiras de organização dos Serviços de Indústria.
 
 2. Na abertura dos créditos especiais autorizados no corpo deste artigo serão tidas em conta, no presente ano, para servirem de contrapartida, parte das verbas consignadas aos Serviços de Economia, incluindo as destinadas aos lugares actualmente orçamentados e vagos e àqueles que venham a vagar por transição do pessoal dos Serviços de Comércio e Abastecimentos para os Serviços de Indústria.
 
@@ -137,7 +155,7 @@ ORGÂNICA DOS SERVIÇOS DE INDÚSTRIA
 
 #### SECÇÃO I — Das atribuições dos Serviços
 
-###### Artigo 1.º Os Serviços de Indústria têm as seguintes atribuições:
+Artigo 1.º Os Serviços de Indústria têm as seguintes atribuições:
 
 a) Colaborar no desenvolvimento económico da província, estudando, orientando, coordenando, disciplinando e fiscalizando as suas actividades industriais;
 
@@ -155,7 +173,7 @@ g) Desenvolver, em especial, a promoção industrial, por meio de documentação
 
 h) Estabelecer, além das medidas referidas nos números anteriores, todas aquelas que visem à consecução de uma estratégia de desenvolvimento industrial, em conformidade com os interesses da economia da província e do espaço nacional.
 
-###### Art. 2.º Em matéria de condicionamento industrial, compete especialmente aos Serviços:
+Art. 2.º Em matéria de condicionamento industrial, compete especialmente aos Serviços:
 
 a) Intervir no condicionamento industrial, de harmonia com as respectivas leis, e propor a concessão das licenças a que as indústrias estejam sujeitas, excepto quanto às indústrias excluídas por leis especiais;
 
@@ -173,7 +191,7 @@ g) Estudar e propor todas as medidas que no aspecto de condicionamento industria
 
 h) Executar todas as actividades que no aspecto de condicionamento industrial sejam permitidas por lei.
 
-###### Art. 3.º Em matéria de segurança e racionalização industriais, compete especialmente aos Serviços:
+Art. 3.º Em matéria de segurança e racionalização industriais, compete especialmente aos Serviços:
 
 a) Superintender nas condições técnicas de laboração e exploração dos estabelecimentos industriais e elaborar os respectivos regulamentos de higiene e segurança;
 
@@ -193,7 +211,7 @@ h) Divulgar os conhecimentos de ergonomia e estudar a sua melhor aplicação aos
 
 i) Estudar todas as implicações da localização dos estabelecimentos industriais na higiene, comodidade e segurança, pública e dos operários, e dos reflexos dessa mesma localização na agricultura, pecuária ou noutras indústrias.
 
-###### Art. 4.º Em matéria de promoção industrial, compete especialmente aos Serviços:
+Art. 4.º Em matéria de promoção industrial, compete especialmente aos Serviços:
 
 a) Elaborar e manter actualizado o cadastro industrial da província;
 
@@ -207,7 +225,7 @@ e) Dar parecer sobre a concessão de isenções fiscais e aduaneiras, como meio 
 
 f) Organizar e manter a informação e documentação com interesse dos pontos de vista técnico e económico, para a implantação de novas indústrias ou reorganização das já existentes;
 
-###### Art. 5.º Em matéria de fiscalização, compete especialmente aos Serviços:
+Art. 5.º Em matéria de fiscalização, compete especialmente aos Serviços:
 
 a) Fiscalizar o cumprimento das leis e das normas impostas quanto à higiene, salubridade e segurança nos estabelecimentos industriais;
 
@@ -217,7 +235,7 @@ c) Fiscalizar se a laboração dos estabelecimentos industriais se processa de a
 
 d) Proceder à instrução preparatória e promover a remessa aos tribunais competentes, nos termos das disposições legais vigentes, de todos os processos que instaure, relativos às infracções previstas nos números anteriores deste artigo.
 
-###### Art. 6.º - 1. Em matéria de condicionamento industrial, a competência do governador-geral pode ser por este parcialmente delegada nos governadores de distrito.
+Art. 6.º - 1. Em matéria de condicionamento industrial, a competência do governador-geral pode ser por este parcialmente delegada nos governadores de distrito.
 
 2. Em matéria de condicionamento, licenciamento e fiscalização industriais e mediante portaria provincial, podem as atribuições dos Serviços de Indústria ser total ou parcialmente delegadas nos governadores de distrito ou em outros serviços ou organismos.
 
@@ -225,13 +243,13 @@ d) Proceder à instrução preparatória e promover a remessa aos tribunais comp
 
 #### SECÇÃO II — Da orgânica geral dos Serviços
 
-###### Art. 7.º Os Serviços de Indústria são constituídos:
+Art. 7.º Os Serviços de Indústria são constituídos:
 
 a) Pelos serviços centrais;
 
 b) Pelos serviços regionais.
 
-###### Art. 8.º - 1. São serviços centrais:
+Art. 8.º - 1. São serviços centrais:
 
 a) A Directoria;
 
@@ -247,17 +265,17 @@ e) O Serviço Administrativo.
 
 3. Dependente da Directoria existirá uma biblioteca, chefiada por um funcionário com a categoria de bibliotecário-documentalista.
 
-###### Art. 9.º Os serviços regionais serão constituídos por delegações dos serviços centrais da Direcção dos Serviços de Indústria, e poderão abranger, conforme as circunstâncias o exijam e os regulamentos internos o determinem, a área de um ou mais distritos, nas condições que vierem a ser fixadas por portaria provincial.
+Art. 9.º Os serviços regionais serão constituídos por delegações dos serviços centrais da Direcção dos Serviços de Indústria, e poderão abranger, conforme as circunstâncias o exijam e os regulamentos internos o determinem, a área de um ou mais distritos, nas condições que vierem a ser fixadas por portaria provincial.
 
-###### Art. 10.º As delegações serão dirigidas por um funcionário de categoria pelo menos igual à de chefe de secção e terão os serviços técnicos indispensáveis ao cumprimento das suas missões e uma secretaria.
+Art. 10.º As delegações serão dirigidas por um funcionário de categoria pelo menos igual à de chefe de secção e terão os serviços técnicos indispensáveis ao cumprimento das suas missões e uma secretaria.
 
-###### Art. 11.º As delegações dependem hierárquica e funcionalmente da Directoria dos Serviços, sem prejuízo da competência administrativa dos respectivos governadores de distrito ou das directrizes gerais que forem estabelecidas pelo Governo-Geral.
+Art. 11.º As delegações dependem hierárquica e funcionalmente da Directoria dos Serviços, sem prejuízo da competência administrativa dos respectivos governadores de distrito ou das directrizes gerais que forem estabelecidas pelo Governo-Geral.
 
 #### SECÇÃO III — Da organização e competência dos Serviços em especial
 
 ##### SUBSECÇÃO I — Da Directoria
 
-###### Art. 12.º - 1. O director orienta, coordena e fiscaliza a actividade dos Serviços a seu cargo e responde por ela perante o governador-geral, competindo-lhe designadamente:
+Art. 12.º - 1. O director orienta, coordena e fiscaliza a actividade dos Serviços a seu cargo e responde por ela perante o governador-geral, competindo-lhe designadamente:
 
 a) Planear e orientar a actividade dos Serviços em conformidade com os objectivos orgânicos e a legislação aplicável;
 
@@ -287,13 +305,13 @@ n) Dar parecer acerca de todos os assuntos sobre que for consultado pelo Governo
 
 2. O director será coadjuvado nas suas funções por dois directores-adjuntos, que o substituirão nas suas faltas e impedimentos de harmonia com despacho do governador-geral, e que com este poderão despachar directamente.
 
-###### Art. 13.º - 1. Os inspectores provinciais e os técnicos-directores que não estejam exercendo em comissão as funções de director ou director-adjunto farão parte do Gabinete de Estudos da Secretaria Provincial de Economia.
+Art. 13.º - 1. Os inspectores provinciais e os técnicos-directores que não estejam exercendo em comissão as funções de director ou director-adjunto farão parte do Gabinete de Estudos da Secretaria Provincial de Economia.
 
 2. Ao Gabinete de Estudos da Secretaria Provincial de Economia, como órgão permanente de consulta do secretário provincial de Economia, podem ser agregados técnicos nacionais ou estrangeiros de reconhecido mérito e especialização em problemas industriais, por contrato, assalariamento ou tarefa, sendo os respectivos encargos suportados pelo Fundo de Comercialização, que funciona junto dos Serviços de Comércio e Abastecimentos.
 
 3. Os inspectores provinciais poderão representar os Serviços de Indústria nos conselhos ou comissões de outros serviços e organismos de outras secretarias provinciais ou em instituições em que tenha ou venha a ter assento o director dos aludidos Serviços, sempre que o Governo-Geral reconheça vantagem em que tal representação caiba a um inspector provincial.
 
-###### Art. 14.º Cabe ao Governo provincial a organização interna e a regulamentação da competência de cada serviço por meio de portaria e sob proposta do director de serviço. Nessa regulamentação deverão, porém, ter-se em conta as seguintes regras:
+Art. 14.º Cabe ao Governo provincial a organização interna e a regulamentação da competência de cada serviço por meio de portaria e sob proposta do director de serviço. Nessa regulamentação deverão, porém, ter-se em conta as seguintes regras:
 
 a) O Serviço de Condicionamento Industrial deverá ocupar-se das matérias referidas no artigo 2.º e das execuções previstas nas alíneas b), c) e d) do artigo 5.º, na parte relativa ao condicionamento industrial;
 
@@ -303,7 +321,7 @@ c) O Serviço de Promoção Industrial ocupar-se-á das matérias referidas no a
 
 d) O Serviço Administrativo ocupar-se-á das funções relativas ao pessoal, contabilidade, património, secretaria e arquivo dos Serviços.
 
-###### Art. 15.º - 1. Os serviços centrais serão chefiados por peritos industriais, cujo curriculum o justifique, por despacho do governador-geral, sob proposta do director de serviço, os quais, no exercício daquelas funções, são designados chefes de serviços.
+Art. 15.º - 1. Os serviços centrais serão chefiados por peritos industriais, cujo curriculum o justifique, por despacho do governador-geral, sob proposta do director de serviço, os quais, no exercício daquelas funções, são designados chefes de serviços.
 
 2. Os Serviços de Condicionamento Industrial, Promoção Industrial e Administrativo serão chefiados de preferência por peritos industriais licenciados em Engenharia, Economia ou Finanças.
 
@@ -311,23 +329,23 @@ d) O Serviço Administrativo ocupar-se-á das funções relativas ao pessoal, co
 
 4. O laboratório será chefiado pelo funcionário provido no cargo de chefe de laboratório.
 
-###### Art. 16.º Os Serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais com os cursos adequados.
+Art. 16.º Os Serviços poderão ser subdivididos em repartições, divisões e secções, técnicas ou administrativas, sendo as técnicas chefiadas por peritos industriais com os cursos adequados.
 
 ##### SUBSECÇÃO II — Das delegações regionais
 
-###### Art. 17.º As delegações regionais exercerão, na área da sua competência territorial, as atribuições previstas para os serviços centrais, que lhes forem atribuídas por diplomas provinciais.
+Art. 17.º As delegações regionais exercerão, na área da sua competência territorial, as atribuições previstas para os serviços centrais, que lhes forem atribuídas por diplomas provinciais.
 
 ### CAPÍTULO II — Das relações com outros organismos
 
-###### Art. 18.º Os Serviços de Indústria actuarão em estreita ligação com os órgãos que na província estabelecem, de acordo com a orientação imprimida pelo Governo, a coordenação de política económica, financeira e social e o planeamento e integração económica, colaborando com os organismos públicos que prosseguem aquelas finalidades com vista a uma actuação comum e conjugada.
+Art. 18.º Os Serviços de Indústria actuarão em estreita ligação com os órgãos que na província estabelecem, de acordo com a orientação imprimida pelo Governo, a coordenação de política económica, financeira e social e o planeamento e integração económica, colaborando com os organismos públicos que prosseguem aquelas finalidades com vista a uma actuação comum e conjugada.
 
-###### Art. 19.º - 1. Passam para a Direcção dos Serviços de Indústria as seguintes representações que estavam atribuídas à Direcção dos Serviços de Economia: Fundo de Apoio às Indústrias de Pesca, Gabinete de Estudos de Explosivos, Conselho Coordenador da Investigação Científica, Comissão de Isenções Fiscais, Conselho Técnico da Indústria dos Tabacos e Junta Provincial de Electrificação.
+Art. 19.º - 1. Passam para a Direcção dos Serviços de Indústria as seguintes representações que estavam atribuídas à Direcção dos Serviços de Economia: Fundo de Apoio às Indústrias de Pesca, Gabinete de Estudos de Explosivos, Conselho Coordenador da Investigação Científica, Comissão de Isenções Fiscais, Conselho Técnico da Indústria dos Tabacos e Junta Provincial de Electrificação.
 
 2. Do conselho administrativo da Caixa de Crédito Agro-Pecuário, criada pelo Diploma Legislativo Ministerial n.º 2, de 1 de Abril de 1961, passa a fazer parte, além do director dos Serviços de Comércio e Abastecimentos, o director dos Serviços de Indústria, nas mesmas condições de trabalho e remunerações que cabiam ao director dos Serviços de Economia.
 
 3. A Direcção dos Serviços de Indústria passará a ter um representante no Conselho Técnico-Aduaneiro, em substituição de um dos dois representantes da Direcção dos Serviços de Comércio e Abastecimentos.
 
-###### Art. 20.º - 1. O Fundo de Comercialização, que funciona junto dos Serviços de Comércio e Abastecimentos, além das atribuições definidas pelo artigo 6.º do [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970, apoiará os Serviços de Indústria na reorganização e fomento industrial, quer por contrato ou assalariamento de técnicos, quer pela realização de trabalhos que contribuam para a progressiva industrialização da província.
+Art. 20.º - 1. O Fundo de Comercialização, que funciona junto dos Serviços de Comércio e Abastecimentos, além das atribuições definidas pelo artigo 6.º do [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro de 1970, apoiará os Serviços de Indústria na reorganização e fomento industrial, quer por contrato ou assalariamento de técnicos, quer pela realização de trabalhos que contribuam para a progressiva industrialização da província.
 
 2. O director dos Serviços de Indústria, ou o representante dos Serviços que por ele for designado, fará parte, como vogal, do conselho administrativo do Fundo de Comercialização.
 
@@ -337,7 +355,7 @@ d) O Serviço Administrativo ocupar-se-á das funções relativas ao pessoal, co
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 21.º - 1. O pessoal dos Serviços de Indústria distribui-se pelos seguintes quadros:
+Art. 21.º - 1. O pessoal dos Serviços de Indústria distribui-se pelos seguintes quadros:
 
 a) Quadro comum;
 
@@ -347,13 +365,13 @@ b) Quadros privativos.
 
 3. A organização dos quadros privativos será elaborada de acordo com as categorias indicadas no mapa II anexo a este diploma.
 
-###### Art. 22.º Pertencerá ao Governo-Geral publicar, por diploma provincial, a composição dos quadros privativos de acordo com a organização geral estabelecida no presente decreto.
+Art. 22.º Pertencerá ao Governo-Geral publicar, por diploma provincial, a composição dos quadros privativos de acordo com a organização geral estabelecida no presente decreto.
 
-###### Art. 23.º Quando as necessidades dos Serviços o justifiquem, poderão ser contratados além dos quadros, nos termos das disposições legais em vigor, técnicos nacionais ou estrangeiros de reconhecido mérito e especialização aos quais convenha recorrer para a execução de estudos ou trabalhos especiais.
+Art. 23.º Quando as necessidades dos Serviços o justifiquem, poderão ser contratados além dos quadros, nos termos das disposições legais em vigor, técnicos nacionais ou estrangeiros de reconhecido mérito e especialização aos quais convenha recorrer para a execução de estudos ou trabalhos especiais.
 
-###### Art. 24.º Os inspectores provinciais, o director, os directores-adjuntos, os técnicos-directores, os peritos industriais, os chefes das delegações regionais, bem como todos os funcionários dos Serviços que sejam destacados para a fiscalização, são considerados agentes de autoridade e os autos de notícia por eles levantados, nos termos do artigo 166.º do Código de Processo Penal, fazem fé em juízo até prova em contrário.
+Art. 24.º Os inspectores provinciais, o director, os directores-adjuntos, os técnicos-directores, os peritos industriais, os chefes das delegações regionais, bem como todos os funcionários dos Serviços que sejam destacados para a fiscalização, são considerados agentes de autoridade e os autos de notícia por eles levantados, nos termos do artigo 166.º do Código de Processo Penal, fazem fé em juízo até prova em contrário.
 
-###### Art. 25.º - 1. Os funcionários referidos no artigo anterior têm as seguintes regalias:
+Art. 25.º - 1. Os funcionários referidos no artigo anterior têm as seguintes regalias:
 
 a) Direito ao uso e porte de armas de defesa, independentemente de licença;
 
@@ -363,11 +381,11 @@ c) Livre entrada e trânsito em todos os estabelecimentos industriais ou em qual
 
 2. O pessoal referido no artigo anterior possuirá cartão de identidade, assinado pelo director de serviço e autenticado com o selo branco, do qual constarão as regalias indicadas.
 
-###### Art. 26.º Os proprietários, administradores, directores, encarregados ou seus representantes nos estabelecimentos industriais são obrigados a apresentar, ao pessoal munido de cartão de identidade referido no n.º 2 do artigo 25.º, todos os elementos necessários à fiscalização dos aspectos de condicionamento, licenciamento e segurança industriais.
+Art. 26.º Os proprietários, administradores, directores, encarregados ou seus representantes nos estabelecimentos industriais são obrigados a apresentar, ao pessoal munido de cartão de identidade referido no n.º 2 do artigo 25.º, todos os elementos necessários à fiscalização dos aspectos de condicionamento, licenciamento e segurança industriais.
 
 #### SECÇÃO II — Do recrutamento, provimento e promoção
 
-###### Art. 27.º O provimento dos cargos do quadro comum far-se-á de harmonia com as seguintes regras:
+Art. 27.º O provimento dos cargos do quadro comum far-se-á de harmonia com as seguintes regras:
 
 a) O provimento do cargo de inspector provincial é feito por nomeação ou comissão ordinária de serviço, por escolha do Ministro, em regra por proposta do governador-geral, de preferência entre funcionários com a categoria de perito industrial e com o curso de engenheiro químico-industrial ou de máquinas ou de economia, ou de entre outros indivíduos licenciados, cujo curriculum o justifique;
 
@@ -397,9 +415,9 @@ n) Os cargos de tradutores-correspondentes serão providos por escolha do Minist
 
 o) Os cargos de chefes de divisão serão preenchidos por escolha do Ministro, em regra por proposta do governador-geral, de entre os chefes de secção e auxiliares técnicos de 1.ª classe, cujo curriculum o justifique.
 
-###### Art. 28.º O ingresso e promoção dos funcionários e agentes do quadro privativo será regulamentado na portaria provincial que publicar a composição do mesmo quadro, podendo dispensar-se, excepcionalmente, para certos cargos, as habilitações exigidas por lei.
+Art. 28.º O ingresso e promoção dos funcionários e agentes do quadro privativo será regulamentado na portaria provincial que publicar a composição do mesmo quadro, podendo dispensar-se, excepcionalmente, para certos cargos, as habilitações exigidas por lei.
 
-###### Art. 29.º - 1. Ao pessoal dos Serviços de Indústria com um curso superior e aos diplomados com um curso técnico médio, quando trabalhem em regime de ocupação exclusiva, serão atribuídas as gratificações mensais fixadas no mapa III anexo a este diploma.
+Art. 29.º - 1. Ao pessoal dos Serviços de Indústria com um curso superior e aos diplomados com um curso técnico médio, quando trabalhem em regime de ocupação exclusiva, serão atribuídas as gratificações mensais fixadas no mapa III anexo a este diploma.
 
 2. Consideram-se em regime de ocupação exclusiva os funcionários que não desempenham qualquer actividade remunerada estranha aos serviços públicos. Não deixam de estar em regime de ocupação exclusiva os funcionários nomeados pelo Governo da província como representantes especiais de empresas concessionárias do Estado.
 
@@ -419,7 +437,7 @@ Chefe do pessoal menor.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 30.º - 1. Junto da Direcção dos Serviços de Indústria funcionará um Conselho de Cooperação Industrial, composto pelos inspectores provinciais, director, directores-adjuntos, técnicos-directores, dos Serviços, e por um representante permanente da Associação Industrial de Angola. Este Conselho será dividido por secções industriais e terão também nele assento, em conformidade com a secção ou secções a reunir, os delegados, para cada uma das secções, da Associação Industrial de Angola e dos sindicatos de trabalhadores industriais. Será presidido pelo director de serviço.
+Art. 30.º - 1. Junto da Direcção dos Serviços de Indústria funcionará um Conselho de Cooperação Industrial, composto pelos inspectores provinciais, director, directores-adjuntos, técnicos-directores, dos Serviços, e por um representante permanente da Associação Industrial de Angola. Este Conselho será dividido por secções industriais e terão também nele assento, em conformidade com a secção ou secções a reunir, os delegados, para cada uma das secções, da Associação Industrial de Angola e dos sindicatos de trabalhadores industriais. Será presidido pelo director de serviço.
 
 2. As finalidades deste Conselho são de consulta nos problemas relativos à segurança e racionalização industriais, nos problemas atinentes ao condicionamento técnico e económico das indústrias e à promoção industrial.
 
@@ -469,11 +487,11 @@ XX - Indústrias manufactureiras diversas.
 
 5. Os membros deste Conselho poderão ter direito a senhas de presença, sempre que para tal haja proposta do director de serviço e esta seja aprovada por despacho do governador-geral. Estas remunerações serão pagas pelo Fundo de Comercialização, que funciona junto da Direcção dos Serviços de Comércio e Abastecimentos.
 
-###### Art. 31.º O director de serviço, mediante despacho, designará os funcionários que entender, tendo em vista as suas aptidões, para exercerem funções fiscalizadoras das instalações industriais da província.
+Art. 31.º O director de serviço, mediante despacho, designará os funcionários que entender, tendo em vista as suas aptidões, para exercerem funções fiscalizadoras das instalações industriais da província.
 
-###### Art. 32.º Fica o governador-geral autorizado a inscrever no orçamento geral da província, quando as disponibilidades financeiras o permitirem, a verba necessária para admissão de pessoal assalariado, pessoal eventual e pessoal contratado além dos quadros.
+Art. 32.º Fica o governador-geral autorizado a inscrever no orçamento geral da província, quando as disponibilidades financeiras o permitirem, a verba necessária para admissão de pessoal assalariado, pessoal eventual e pessoal contratado além dos quadros.
 
-###### Art. 33.º - 1. Os funcionários dos Serviços de Indústria que tenham boas informações de serviço e ocupem lugares sem acesso a cargo superior, quer por esses cargos não fazerem parte de qualquer escala hierárquica, quer por já terem atingido o topo desta, têm direito, após dez e vinte anos de serviço nessa categoria, as diuturnidades correspondentes, respectivamente a 10 e 20 por cento de vencimento base próprio do lugar.
+Art. 33.º - 1. Os funcionários dos Serviços de Indústria que tenham boas informações de serviço e ocupem lugares sem acesso a cargo superior, quer por esses cargos não fazerem parte de qualquer escala hierárquica, quer por já terem atingido o topo desta, têm direito, após dez e vinte anos de serviço nessa categoria, as diuturnidades correspondentes, respectivamente a 10 e 20 por cento de vencimento base próprio do lugar.
 
 2. Estas diuturnidades ser-lhes-ão abonadas sempre que o seja o vencimento de exercício e serão contadas para efeito do cálculo da pensão de aposentação, quando esta venha a ter lugar.
 
@@ -481,7 +499,7 @@ XX - Indústrias manufactureiras diversas.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 34.º - 1. O pessoal dos Serviços de Comércio e Abastecimentos, incluindo o interino, que, pelas suas actuais funções e informações de serviço, deva passar para os Serviços de Indústria transitará para os novos quadros, respeitando-se, tanto quanto possível, as categorias que actualmente possua, sem necessidade de visto e posse, mediante simples anotação, sendo o do quadro privativo colocado pelo governador-geral, e o do quadro comum, pelo Ministro, ouvido aquele.
+Art. 34.º - 1. O pessoal dos Serviços de Comércio e Abastecimentos, incluindo o interino, que, pelas suas actuais funções e informações de serviço, deva passar para os Serviços de Indústria transitará para os novos quadros, respeitando-se, tanto quanto possível, as categorias que actualmente possua, sem necessidade de visto e posse, mediante simples anotação, sendo o do quadro privativo colocado pelo governador-geral, e o do quadro comum, pelo Ministro, ouvido aquele.
 
 2. As colocações serão feitas tendo em atenção:
 
@@ -505,7 +523,7 @@ g) O número de anos de serviço prestado ao Estado.
 
 5. Se da transição resultar para alguns agentes diminuição de vencimentos ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para onde transitarem, os seus actuais vencimentos e outras regalias inerentes.
 
-###### Art. 35.º - 1. O primeiro provimento de vagas, tanto de lugares de ingresso como de acesso, excepto aqueles para cujos provimentos são necessários cursos superiores ou médios, que resultar da publicação deste diploma e do movimento de transição do pessoal dos Serviços de Comércio e Abastecimentos para os Serviços de Indústria, poderá ser feito, de harmonia com os interesses dos Serviços, por escolha entre funcionários de categorias iguais ou inferiores ou equiparadas dos mesmos Serviços, mesmo interinos, independentemente de concurso e das habilitações exigidas. Do mesmo modo, e desde que possuam as habilitações exigidas e o respectivo curriculum o justifique, aquele provimento poderá ser feito por funcionários de outros serviços e indivíduos estranhos aos serviços públicos que reúnam também as demais condições previstas no Estatuto do Funcionalismo Ultramarino.
+Art. 35.º - 1. O primeiro provimento de vagas, tanto de lugares de ingresso como de acesso, excepto aqueles para cujos provimentos são necessários cursos superiores ou médios, que resultar da publicação deste diploma e do movimento de transição do pessoal dos Serviços de Comércio e Abastecimentos para os Serviços de Indústria, poderá ser feito, de harmonia com os interesses dos Serviços, por escolha entre funcionários de categorias iguais ou inferiores ou equiparadas dos mesmos Serviços, mesmo interinos, independentemente de concurso e das habilitações exigidas. Do mesmo modo, e desde que possuam as habilitações exigidas e o respectivo curriculum o justifique, aquele provimento poderá ser feito por funcionários de outros serviços e indivíduos estranhos aos serviços públicos que reúnam também as demais condições previstas no Estatuto do Funcionalismo Ultramarino.
 
 2. Quando se verifique promoção em resultado do movimento de colocação ou do referido no corpo do artigo, exigir-se-á sempre a informação de Bom ao funcionário a promover.
 
@@ -513,21 +531,21 @@ g) O número de anos de serviço prestado ao Estado.
 
 4. Os indivíduos que tenham prestado serviço militar, passando à disponibilidade há menos de um ano, poderão, para efeitos de nomeação ou contrato, substituir, provisòriamente, os documentos exigidos pela sua nota de assentos, da qual devem constar todos os elementos de identificação, designadamente a data do nascimento e as habilitações literárias. Aqueles que vierem a ser nomeados ou contratados deverão apresentar, no prazo de noventa dias, a contar da data da posse, os documentos legalmente exigidos, sendo exonerados os que o não fizerem ou se verifique não possuírem os requisitos legais.
 
-###### Art. 36.º Mediante despacho do governador-geral, o património dos Serviços de Economia, designadamente as viaturas, móveis, máquinas, aparelhos e utensílios, e bem assim toda a documentação constituída por livros, revistas, Boletins Oficiais, Diário do Governo, e todas as publicações periódicas e outras formas de documentação de características relevantes, será distribuído pelos Serviços de Comércio e Abastecimentos e pelos de Indústria, pela forma que se julgue conveniente.
+Art. 36.º Mediante despacho do governador-geral, o património dos Serviços de Economia, designadamente as viaturas, móveis, máquinas, aparelhos e utensílios, e bem assim toda a documentação constituída por livros, revistas, Boletins Oficiais, Diário do Governo, e todas as publicações periódicas e outras formas de documentação de características relevantes, será distribuído pelos Serviços de Comércio e Abastecimentos e pelos de Indústria, pela forma que se julgue conveniente.
 
-###### Art. 37.º Enquanto não forem criadas delegações regionais dos Serviços de Indústria, o serviço que competiria às delegações regionais ainda não existentes será realizado pelas delegações distritais dos Serviços de Comércio e Abastecimentos, que, para o efeito, se corresponderão directamente com a Direcção dos Serviços de Indústria.
+Art. 37.º Enquanto não forem criadas delegações regionais dos Serviços de Indústria, o serviço que competiria às delegações regionais ainda não existentes será realizado pelas delegações distritais dos Serviços de Comércio e Abastecimentos, que, para o efeito, se corresponderão directamente com a Direcção dos Serviços de Indústria.
 
-###### Art. 38.º Este diploma entra imediatamente em vigor para efeito de reorganização dos Serviços, ficando o governador-geral de Angola autorizado a publicar os diplomas legais indispensáveis à respectiva regulamentação.
+Art. 38.º Este diploma entra imediatamente em vigor para efeito de reorganização dos Serviços, ficando o governador-geral de Angola autorizado a publicar os diplomas legais indispensáveis à respectiva regulamentação.
 
-###### Art. 39.º Enquanto não for realizada a transição do pessoal dos quadros comum e privativo e orçamentados os respectivos lugares, e providos os cargos do director e dos directores-adjuntos dos Serviços de Indústria, fica a Direcção dos Serviços de Comércio e Abastecimentos com as competências definidas neste diploma para os Serviços de Indústria.
+Art. 39.º Enquanto não for realizada a transição do pessoal dos quadros comum e privativo e orçamentados os respectivos lugares, e providos os cargos do director e dos directores-adjuntos dos Serviços de Indústria, fica a Direcção dos Serviços de Comércio e Abastecimentos com as competências definidas neste diploma para os Serviços de Indústria.
 
-###### Art. 40.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
+Art. 40.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Agosto de 1970.**
+Promulgado em 14 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Setembro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -537,13 +555,13 @@ MAPA I
 
 Quadro comum
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/20500/11761182.pdf))](https://files.diariodarepublica.pt/1s/1970/09/20500/11761182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/20500/11761182.pdf)
 
 MAPA II
 
 Quadro privativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/20500/11761182.pdf))](https://files.diariodarepublica.pt/1s/1970/09/20500/11761182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/20500/11761182.pdf)
 
 MAPA III
 

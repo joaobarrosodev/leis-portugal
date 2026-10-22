@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/14100/15061508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 165e1c40ebaa0c3622f113726e7f9985c1a83a8724051112388f11d8fd96ca76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf34180bb097b4e5ba95461bd8a5b2d132ef3f59ed666de352600a235d8cf539
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Comércio
+- Cortiça
+- Exploração Agrícola
+- Expropriação
+- Instituto dos Produtos Florestais
+- Montado de Sobro
+- Nacionalização
+- Património do Estado
+- Prédio Rústico
+- Reforma Agrária
+- Transporte
 relationships:
 - type: amended_by
   target: pt:dre:375234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:431064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668331:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:383069:por
+  label: "Revogado pelo DEC LEI.119/79.1979.05.05.PCM, DR.IS [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1979-383069
+  date: '1979-05-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:59Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +143,11 @@ Não foram esquecidas soluções tendentes a obstar que se repitam as habituais 
 
 Nestes termos, usando da autorização conferida pela [Lei n.º 16/77](https://diariodarepublica.pt/dr/detalhe/lei/16-1977-450263), de 25 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As operações de extracção, transporte e comercialização da cortiça amadia e secundeira dos montados de sobro dos prédios nacionalizados e expropriados ao abrigo da Lei da Reforma Agrária ou na situação prevista no artigo 1.º do [Decreto-Lei n.º 492/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1976-431064), de 23 de Junho, são reguladas pelo presente diploma.
+Artigo 1.º - 1. As operações de extracção, transporte e comercialização da cortiça amadia e secundeira dos montados de sobro dos prédios nacionalizados e expropriados ao abrigo da Lei da Reforma Agrária ou na situação prevista no artigo 1.º do [Decreto-Lei n.º 492/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1976-431064), de 23 de Junho, são reguladas pelo presente diploma.
 
 2. Não estão abrangidos pelo preceituado no número anterior os prédios ou partes de prédios que constituam reservas já demarcadas.
 
-###### Art. 2.º - 1. Os órgãos ou entidades singulares ou colectivas, gestores em nome ou por conta própria ou alheia, de estabelecimentos agrícolas que contenham montado de sobro ficam sujeitos às seguintes obrigações:
+Art. 2.º - 1. Os órgãos ou entidades singulares ou colectivas, gestores em nome ou por conta própria ou alheia, de estabelecimentos agrícolas que contenham montado de sobro ficam sujeitos às seguintes obrigações:
 
 a) Cumprir as orientações dimanadas dos serviços competentes da Secretaria de Estado das Florestas, quanto a operações de extracção;
 
@@ -138,27 +171,27 @@ d) Não levantar ou transportar quaisquer quantidades de cortiça sem autorizaç
 
 3. Os órgãos ou entidades referidas no n.º 1 deste artigo deverão integrar as operações de extracção, transporte e comercialização de cortiça nas normas gerais de gestão e estruturação fundiária definidas pela Secretaria de Estado da Estruturação Agrária.
 
-###### Art. 3.º É criada no Fundo de Fomento Florestal uma verba especial a constituir pelas receitas previstas neste diploma.
+Art. 3.º É criada no Fundo de Fomento Florestal uma verba especial a constituir pelas receitas previstas neste diploma.
 
-###### Art. 4.º - 1. Serão anualmente fixados preços mínimos de venda da cortiça, por portaria conjunta dos Ministros do Comércio e Turismo e da Agricultura e Pescas.
+Art. 4.º - 1. Serão anualmente fixados preços mínimos de venda da cortiça, por portaria conjunta dos Ministros do Comércio e Turismo e da Agricultura e Pescas.
 
 2. Quando circunstâncias especiais o determinem, os preços mínimos poderão ser revistos a todo o tempo, sob proposta fundamentada da comissão permanente a que se refere o artigo 5.º
 
 3. A fixação dos preços resultantes da revisão, nos termos do número precedente, será efectuada por portaria do Ministro da Agricultura e Pescas.
 
-###### Art. 5.º Junto do Gabinete do Secretário de Estado das Florestas, e sob directa orientação deste, funcionará uma comissão permanente de consulta e estudo sobre as questões decorrentes da extracção e da comercialização da cortiça, a qual terá a composição, a orgânica e a competência que forem estabelecidas por despacho do Secretário de Estado das Florestas, ouvido o Secretário de Estado da Estruturação Agrária.
+Art. 5.º Junto do Gabinete do Secretário de Estado das Florestas, e sob directa orientação deste, funcionará uma comissão permanente de consulta e estudo sobre as questões decorrentes da extracção e da comercialização da cortiça, a qual terá a composição, a orgânica e a competência que forem estabelecidas por despacho do Secretário de Estado das Florestas, ouvido o Secretário de Estado da Estruturação Agrária.
 
-###### Art. 6.º - 1. Dos documentos que formalizem negócios jurídicos cujo objecto seja cortiça constará obrigatoriamente o montante dos créditos concedidos para operações de descortiçamento ainda em dívida e a identificação das instituições de crédito que os concederam.
+Art. 6.º - 1. Dos documentos que formalizem negócios jurídicos cujo objecto seja cortiça constará obrigatoriamente o montante dos créditos concedidos para operações de descortiçamento ainda em dívida e a identificação das instituições de crédito que os concederam.
 
 2. Para obtenção das informações referidas no número anterior deverão os contratantes consultar obrigatoriamente o centro regional de reforma agrária da zona onde se situa o prédio a que se refere o n.º 1 do artigo 1.º
 
-###### Art. 7.º Os créditos para o descortiçamento concedidos por instituições nacionais gozam de privilégio creditório mobiliário especial sobre o produto a que respeitam ou o seu valor, graduado na ordem correspondente à alínea a) do n.º 1 do artigo 747.º do Código Civil, a seguir aos créditos do Estado por impostos.
+Art. 7.º Os créditos para o descortiçamento concedidos por instituições nacionais gozam de privilégio creditório mobiliário especial sobre o produto a que respeitam ou o seu valor, graduado na ordem correspondente à alínea a) do n.º 1 do artigo 747.º do Código Civil, a seguir aos créditos do Estado por impostos.
 
-###### Art. 8.º - 1. Os adquirentes de partidas de cortiça oneradas nos termos do artigo 7.º respondem pelos respectivos créditos para descortiçamento perante os credores, solidariamente com os alienantes, até ao limite dos valores daquelas.
+Art. 8.º - 1. Os adquirentes de partidas de cortiça oneradas nos termos do artigo 7.º respondem pelos respectivos créditos para descortiçamento perante os credores, solidariamente com os alienantes, até ao limite dos valores daquelas.
 
 2. Quando houver recurso ao crédito agrícola de emergência para a finalidade a que se refere o número anterior, compete ao centro regional de reforma agrária da zona respectiva o contrôle da utilização de mão-de-obra.
 
-###### Art. 9.º - 1. Os adquirentes de partidas de cortiça ficam obrigados a depositar na Caixa Geral de Depósitos, à ordem do Instituto dos Produtos Florestais, nos prazos estabelecidos no respectivo contrato, a totalidade do valor da cortiça adquirida ou, tendo respondido nos termos do artigo 8.º, do que remanescer.
+Art. 9.º - 1. Os adquirentes de partidas de cortiça ficam obrigados a depositar na Caixa Geral de Depósitos, à ordem do Instituto dos Produtos Florestais, nos prazos estabelecidos no respectivo contrato, a totalidade do valor da cortiça adquirida ou, tendo respondido nos termos do artigo 8.º, do que remanescer.
 
 2. Só o depósito referido no número anterior, ou o cumprimento da obrigação prevista no artigo 8.º, ou ambos, sendo caso disso, liberam o adquirente da obrigação do pagamento do preço.
 
@@ -166,7 +199,7 @@ d) Não levantar ou transportar quaisquer quantidades de cortiça sem autorizaç
 
 4. Os juros produzidos constituirão receita da verba especial prevista no artigo 3.º
 
-###### Art. 10.º - 1. Às quantias depositadas nos termos do artigo 9.º será dado pelo Instituto dos Produtos Florestais o seguinte destino:
+Art. 10.º - 1. Às quantias depositadas nos termos do artigo 9.º será dado pelo Instituto dos Produtos Florestais o seguinte destino:
 
 a) 35% serão entregues à entidade alienante, na medida em que não tiver sido feito o pagamento a que se refere o artigo 8.º;
 
@@ -184,19 +217,19 @@ f) O remanescente será entregue à entidade alienante.
 
 3. A quantia referida na alínea f) do número anterior será entregue à entidade alienante logo que esta, ou quem validamente a represente, houver declarado, sob compromisso de honra, o montante por que é devedora nos termos da alínea e) do mesmo número.
 
-###### Art. 11.º - 1. São proibidos o levantamento e trânsito de cortiça sem prévia autorização do Instituto dos Produtos Florestais.
+Art. 11.º - 1. São proibidos o levantamento e trânsito de cortiça sem prévia autorização do Instituto dos Produtos Florestais.
 
 2. A autorização a que se refere o número anterior só será concedida depois de feita prova bastante de terem sido cumpridas as obrigações impostas a adquirentes e alienantes pelo presente diploma.
 
-###### Art. 12.º O Instituto dos Produtos Florestais poderá conceder a autorização referida no artigo 11.º, com dispensa do cumprimento das obrigações impostas neste diploma, desde que as quantidades de cortiça extraída, por tirada e unidade produtiva, não ultrapassem 5000 arrobas.
+Art. 12.º O Instituto dos Produtos Florestais poderá conceder a autorização referida no artigo 11.º, com dispensa do cumprimento das obrigações impostas neste diploma, desde que as quantidades de cortiça extraída, por tirada e unidade produtiva, não ultrapassem 5000 arrobas.
 
-###### Art. 13.º O trânsito de cortiça só é permitido desde que o respectivo condutor seja portador de documento probatório da autorização concedida, respeitante ao transporte que efectua, sendo obrigado a exibi-lo quando lhe seja pedido por qualquer agente de autoridade.
+Art. 13.º O trânsito de cortiça só é permitido desde que o respectivo condutor seja portador de documento probatório da autorização concedida, respeitante ao transporte que efectua, sendo obrigado a exibi-lo quando lhe seja pedido por qualquer agente de autoridade.
 
-###### Art. 14.º - 1. Toda a cortiça transportada sem que o respectivo condutor seja portador do documento a que se refere o artigo 13.º, ou que se recuse a exibi-lo, será apreendida e considerada perdida a favor do Estado.
+Art. 14.º - 1. Toda a cortiça transportada sem que o respectivo condutor seja portador do documento a que se refere o artigo 13.º, ou que se recuse a exibi-lo, será apreendida e considerada perdida a favor do Estado.
 
 2. O Instituto dos Produtos Florestais procederá à venda da cortiça a que se reporta o número anterior, bem como ao depósito do produto da venda.
 
-###### Art. 15.º - 1. Aquele que, nos termos do disposto nos n.os 2 e 3 do artigo 10.º, prestar declarações falsas comete o crime previsto e punido no artigo 242.º do Código Penal.
+Art. 15.º - 1. Aquele que, nos termos do disposto nos n.os 2 e 3 do artigo 10.º, prestar declarações falsas comete o crime previsto e punido no artigo 242.º do Código Penal.
 
 2. Os infractores às obrigações previstas no n.º 1 do artigo 2.º ficam sujeitos a multa até 2000000$00 e à perda da qualidade de beneficiário do crédito agrícola de emergência, se a ela tivessem direito.
 
@@ -208,26 +241,26 @@ b) Multa até 2000000$00;
 
 c) Reembolso ao Estado do valor da cortiça que deveria ser apreendida, quando esta haja desaparecido ou tenha sido transformada.
 
-###### Art. 16.º Os contratos já celebrados ou respeitantes a cortiça a extrair na campanha do corrente ano ou nos seguintes devem ser adaptados, por instrumento adicional, ao regime estabelecido neste diploma.
+Art. 16.º Os contratos já celebrados ou respeitantes a cortiça a extrair na campanha do corrente ano ou nos seguintes devem ser adaptados, por instrumento adicional, ao regime estabelecido neste diploma.
 
-###### Art. 17.º Na campanha de 1977, a obrigação imposta na alínea d) do n.º 1 do artigo 2.º será cumprida nos trinta dias posteriores à entrada em vigor do presente diploma.
+Art. 17.º Na campanha de 1977, a obrigação imposta na alínea d) do n.º 1 do artigo 2.º será cumprida nos trinta dias posteriores à entrada em vigor do presente diploma.
 
-###### Art. 18.º - 1. As despesas decorrentes da execução do presente diploma serão suportadas pela verba especial a que se refere o artigo 3.º
+Art. 18.º - 1. As despesas decorrentes da execução do presente diploma serão suportadas pela verba especial a que se refere o artigo 3.º
 
 2. O Secretário de Estado das Florestas fixará anualmente os montantes a atribuir às entidades oficiais intervenientes.
 
-###### Art. 19.º O Secretário de Estado das Florestas fixará por portaria as normas sobre as modalidades de venda da cortiça, bem como as regras relativas ao formalismo e processo de concessão da autorização e do documento probatório referidos nos artigos 11.º e 13.º, ouvido o Secretário de Estado da Estruturação Agrária.
+Art. 19.º O Secretário de Estado das Florestas fixará por portaria as normas sobre as modalidades de venda da cortiça, bem como as regras relativas ao formalismo e processo de concessão da autorização e do documento probatório referidos nos artigos 11.º e 13.º, ouvido o Secretário de Estado da Estruturação Agrária.
 
-###### Art. 20.º Para efeitos do disposto na alínea c) do n.º 1 do artigo 2.º, o Ministro da Agricultura e Pescas fixará anualmente por portaria a percentagem mínima ou máxima a extrair do total da cortiça com pelo menos nove anos de criação.
+Art. 20.º Para efeitos do disposto na alínea c) do n.º 1 do artigo 2.º, o Ministro da Agricultura e Pescas fixará anualmente por portaria a percentagem mínima ou máxima a extrair do total da cortiça com pelo menos nove anos de criação.
 
-###### Art. 21.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 21.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 22.º Este diploma entra em vigor no dia imediato ao da sua publicação e revoga os Decretos-Leis n.os [407-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-b-1975-668331), de 30 de Julho, e [521/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1976-431408), de 5 de Julho.
+Art. 22.º Este diploma entra em vigor no dia imediato ao da sua publicação e revoga os Decretos-Leis n.os [407-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-b-1975-668331), de 30 de Julho, e [521/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1976-431408), de 5 de Julho.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - António Carlos Ribeiro Campos.
 
-**Promulgado em 6 de Junho de 1977.**
+Promulgado em 6 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

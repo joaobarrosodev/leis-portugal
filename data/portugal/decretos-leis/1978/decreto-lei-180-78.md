@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1978-297624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa338f2384bf638f75dec0d9258b4014ec8b2be27f9dddbd1562b87bf286f757
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddabf2e7bc702124fe029104a7a8a14f0068ecddc8ba827c019499d8da691e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direção Geral do Ensino Superior
+- Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:430025:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430025:por
+  label: "Alterada a denominação do Gabinete Coordenador pelo DEC LEI.513-T/79.1979.12.26.ME, DR.IS [296]3ºSupl de 26.12.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-t-1979-430025
+  date: '1979-12-26'
+- type: cites
+  target: pt:dre:236683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:52Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +122,11 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado na Direcção-Geral do Ensino Superior o Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração, que se integra, para todos os efeitos, na estrutura prevista no artigo 6.º do [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616), de 5 de Novembro.
+Artigo 1.º É criado na Direcção-Geral do Ensino Superior o Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração, que se integra, para todos os efeitos, na estrutura prevista no artigo 6.º do [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616), de 5 de Novembro.
 
-###### Art. 2.º Incumbe ao Gabinete programar, coordenar e superintender nas acções conducentes ao lançamento do ensino superior de curta duração.
+Art. 2.º Incumbe ao Gabinete programar, coordenar e superintender nas acções conducentes ao lançamento do ensino superior de curta duração.
 
-###### Art. 3.º Na prossecução das atribuições referidas no artigo anterior compete especialmente ao Gabinete:
+Art. 3.º Na prossecução das atribuições referidas no artigo anterior compete especialmente ao Gabinete:
 
 a) Contribuir para a definição da política do ensino superior de curta duração e promover a aplicação das providências de ordem geral que sejam aprovadas pelo Governo;
 
@@ -116,40 +144,40 @@ g) Coordenar os programas relativos às instalações e equipamento científico 
 
 h) Promover, com o apoio dos órgãos competentes da Direcção-Geral do Ensino Superior e dos serviços competentes do Ministério da Habitação e Obras Públicas, a conservação das escolas do ensino superior de curta duração.
 
-###### Art. 4.º - 1 - O Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração será dirigido por um adjunto do director-geral e apoiado por uma repartição administrativa.
+Art. 4.º - 1 - O Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração será dirigido por um adjunto do director-geral e apoiado por uma repartição administrativa.
 
 2 - O chefe de repartição será coadjuvado por três técnicos auxiliares de programação de 1.ª classe e seis técnicos auxiliares de programação de 2.ª classe.
 
-###### Art. 5.º - 1 - Ao quadro de pessoal constante do mapa I anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616), de 5 de Novembro, são acrescentados lugares constantes do mapa I anexo a este decreto-lei, que se integram no quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Art. 5.º - 1 - Ao quadro de pessoal constante do mapa I anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616), de 5 de Novembro, são acrescentados lugares constantes do mapa I anexo a este decreto-lei, que se integram no quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2 - Ao quadro de pessoal constante do mapa II anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616) são acrescentados os lugares constantes do mapa II anexo a este decreto-lei, que são integrados no quadro único dos serviços centrais do Ministério da Educação e Cultura, nos termos do n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 6.º As formas de recrutamento e os regimes de provimento do pessoal referido no artigo anterior são estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:
+Art. 6.º As formas de recrutamento e os regimes de provimento do pessoal referido no artigo anterior são estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de adjunto do director-geral será provido, por escolha do Ministro da Educação e Cultura, de entre indivíduos habilitados com uma licenciatura adequada e de reconhecida competência;
 
 b) Os lugares de ingresso nas carreiras de arquitectos e engenheiros serão providos, por escolha do Ministro, de entre os indivíduos habilitados com licenciatura adequada.
 
-###### Art. 7.º - 1 - O primeiro provimento dos lugares do quadro previstos neste decreto-lei poderá ser feito, por livre escolha do Ministro da Educação e Cultura, de entre pessoal, a qualquer título vinculado ao Estado, directamente para qualquer categoria e independentemente do tempo de serviço prestado em categorias anteriores, mas com ressalva das habilitações literárias exigidas para o provimento nos respectivos lugares.
+Art. 7.º - 1 - O primeiro provimento dos lugares do quadro previstos neste decreto-lei poderá ser feito, por livre escolha do Ministro da Educação e Cultura, de entre pessoal, a qualquer título vinculado ao Estado, directamente para qualquer categoria e independentemente do tempo de serviço prestado em categorias anteriores, mas com ressalva das habilitações literárias exigidas para o provimento nos respectivos lugares.
 
 2 - O provimento a que se refere o número anterior far-se-á através de lista nominativa, a aprovar por despacho do Ministro da Educação e Cultura, sem dependência de outras formalidades que não sejam o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 8.º Os encargos com remunerações certas e permanentes resultantes da execução deste diploma serão suportados no corrente ano pelas disponibilidades das dotações respectivas inscritas no capítulo 02 do Ministério da Educação e Cultura.
+Art. 8.º Os encargos com remunerações certas e permanentes resultantes da execução deste diploma serão suportados no corrente ano pelas disponibilidades das dotações respectivas inscritas no capítulo 02 do Ministério da Educação e Cultura.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 3 de Julho de 1978.**
+Promulgado em 3 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o n.º 1 do artigo 3.º do Decreto-Lei n.º 180/78, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16100/13121314.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16100/13121314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16100/13121314.pdf)
 
 Mapa II a que se refere o n.º 2 do artigo 3.º do Decreto-Lei n.º 180/78, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16100/13121314.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16100/13121314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16100/13121314.pdf)
 
-**O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.

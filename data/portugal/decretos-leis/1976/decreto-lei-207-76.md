@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06800/05720573.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1976-501407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0dceb506cd94978edce2fbb2dde2f1bf3350be549489abf524a1586e71ee2b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c21486404a4bc90d7b475c361e289f2ccd3a42decbb0e5be8200dce70183f1ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carta de Condução
+- Código da Estrada
+- Código de Processo Penal
+- Código Penal
+- Condutor
+- Contravenção
+- Fiscalização
+- Sanção
+- Segurança Rodoviária
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380150:por
+  label: "Alterados a al. a) do nº 10 e o nº 11 do art. 58º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-maio\
+    \ 1954, na redação do presente diploma, pelo DEC LEI.461/82.26.11.1982.MHOPT, DR.IS [274] de 26.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/461-1982-380150
+  date: '1982-11-26'
+- type: amended_by
+  target: pt:dre:430196:por
+  label: "Dada nova redacção ao nº 10 e parte final do nº 11 do art. 58º do Código da Estrada aprovado pelo Dec Lei 39672\
+    \ de 20-Mai de 1954, com a redacçao constante do presente diploma, pelo DEC LEI.240/89.26.07.1989.MOPTC, DR.IS [170-2ºSupl]\
+    \ de 26.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1989-430196
+  date: '1989-07-26'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:45Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +132,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 58.º, 61.º e 64.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 58.º, 61.º e 64.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 Disposições gerais
 
@@ -120,7 +152,7 @@ Salvo se provar utilização abusiva do veículo, o proprietário ou usufrutári
 
 A pena do artigo 453.º do Código Penal será aplicável ao depositário do veículo apreendido nos termos deste artigo que o utilizar em proveito próprio ou alheio ou consentir na sua utilização.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 Inibição do direito de conduzir
 
@@ -140,7 +172,7 @@ b) Até três meses, seis meses e um ano, pela primeira, segunda e sucessivas in
 
 c) ...
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 Autos de notícia
 
@@ -168,12 +200,12 @@ Sem prejuízo do disposto no artigo 169.º do Código de Processo Penal, será d
 
 Os elementos apurados através desses aparelhos ou instrumentos têm o valor provatório do auto de notícia nos termos do artigo 169.º do Código de Processo Penal.
 
-###### Art. 2.º O presente diploma entra em vigor trinta dias após a publicação.
+Art. 2.º O presente diploma entra em vigor trinta dias após a publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - José Augusto Fernandes.
 
-**Promulgado em 12 de Março de 1976.**
+Promulgado em 12 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

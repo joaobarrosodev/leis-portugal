@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13700/13651365.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1981-579296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f215d620d8553f24ac2025f0dffd216e3f89aa75403716f907237864d7ed0f80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44c72b45c5e5a97845b08377e22e7b0b1225bc7f443408178805c939460bf819
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:53Z'
   warnings: []
   errors: []
 ---
@@ -97,24 +126,24 @@ Usando da autorização conferida pela alínea e) do artigo 21.º conjugada com 
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 1.º e o artigo 9.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 301/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1980-470776), de 16 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 1.º e o artigo 9.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 301/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1980-470776), de 16 de Agosto, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - É criado um imposto sobre a venda de veículos automóveis, o qual incide sobre os automóveis abrangidos pelo disposto no n.º 1 do artigo 27.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, quer montados em Portugal quer importados já completos, compreendidos nas posições pautais 87.01, com excepção dos tractores agrícolas, 87.02, 87.03 e 87.04 da Pauta de Importação.
+Artigo 1.º - 1 - É criado um imposto sobre a venda de veículos automóveis, o qual incide sobre os automóveis abrangidos pelo disposto no n.º 1 do artigo 27.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, quer montados em Portugal quer importados já completos, compreendidos nas posições pautais 87.01, com excepção dos tractores agrícolas, 87.02, 87.03 e 87.04 da Pauta de Importação.
 
 ...
 
-###### Art. 9.º A alínea c) do artigo 7.º do Código do Imposto de Transacções, aprovado pelo [Decreto-Lei n.º 47066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47066-1966-474922), de 1 de Julho de 1966, passa a ter a seguinte redacção:
+Art. 9.º A alínea c) do artigo 7.º do Código do Imposto de Transacções, aprovado pelo [Decreto-Lei n.º 47066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47066-1966-474922), de 1 de Julho de 1966, passa a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 c) Imposto sobre a venda de veículos automóveis, incidente sobre os automóveis a que se refere o n.º 1 do artigo 27.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, incluídos nas posições pautais 87.01, 87.02, 87.03 e 87.04 da Pauta de Importação.
 
-###### Art. 2.º Os casos pendentes nas alfândegas relativos aos veículos automóveis a que respeita o [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, cujas imposições devidas se encontram garantidas por depósito ou fiança, ficam abrangidos pelas disposições do presente decreto-lei.
+Art. 2.º Os casos pendentes nas alfândegas relativos aos veículos automóveis a que respeita o [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, cujas imposições devidas se encontram garantidas por depósito ou fiança, ficam abrangidos pelas disposições do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Junho de 1981.**
+Promulgado em 8 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/18900/10071010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49188-1969-198754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af0b6a3f7a8fdafff30228240bf53abbdd8c5a16b4635248b63429b34c663af1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 869054608c67cabc3feb9ba891e265bfa001485cd57d1b65ac95bd717ef82ada
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Extinção de Serviços
+- Fábrica Militar de Santa Clara
+- Integração de Trabalhadores
+- Oficinas Gerais de Fardamento e Equipamento
 relationships:
 - type: amended_by
   target: pt:dre:58763441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307473:por
+  label: Alterado o quadro orgânico das Oficinas Gerais de Fardamento e Equipamento, na parte respeitante a pessoal militar,
+    constante do mapa anexo ao presente diploma, pelo(a) Portaria n.º 545/75 - Diário do Governo n.º 207/1975, Série I de
+    1975-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/545-1975-307473
+  date: '1975-09-08'
+- type: amended_by
+  target: pt:dre:583585:por
+  label: "Substituídas as designações do pessoal civil referidas no quadro orgânico das Oficinas Gerais de Fardamento e Equipamento\
+    \ anexo pela PORT.642-D/78.26.10.1978.CR, DR.IS [247-Supl] de 26.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-d-1978-583585
+  date: '1978-10-26'
+- type: amended_by
+  target: pt:dre:607342:por
+  label: "Alterado o mapa anexo pela PORT.372/82.1982.04.15.CR, DR.IS[87]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-1982-607342
+  date: '1982-04-15'
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58763441:por
+  label: Revogado, a partir de 07.11.2014, pelo(a) Decreto-Lei n.º 167/2014 - Diário da República n.º 215/2014, Série I de
+    2014-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2014-58763441
+  date: '2014-11-06'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:23Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +132,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Fábrica Militar de Santa Clara é extinta, incorporando-se o seu património, com a decorrente transmissão de todos os créditos e dívidas, nas Oficinas Gerais de Fardamento, que passam a designar-se, por Oficinas Gerais de Fardamento e Equipamento.
+Artigo 1.º - 1. A Fábrica Militar de Santa Clara é extinta, incorporando-se o seu património, com a decorrente transmissão de todos os créditos e dívidas, nas Oficinas Gerais de Fardamento, que passam a designar-se, por Oficinas Gerais de Fardamento e Equipamento.
 
 2. O pessoal actualmente em serviço na Fábrica Militar de Santa Clara e Oficinas Gerais de Fardamento poderá ser colocado, nos termos do artigo 33.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, e consoante as conveniências do serviço, em qualquer outro estabelecimento ou serviço do Ministério do Exército, não lhe devendo, porém, daí advir, em hipótese alguma, baixa da sua actual categoria.
 
-###### Art. 2.º Os artigos 1.º, 4.º, 6.º e 8.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1.º, 4.º, 6.º e 8.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Para prover às necessidades da defesa nacional que não possam ser satisfeitas por intermédio de empresas privadas ou às que convenha satisfazer, total ou parcialmente, pela indústria militar, para mais perfeita eficiência das forças armadas e segurança dos assuntos relativos à mesma defesa, existem na directa dependência do Ministério do Exército, os seguintes estabelecimentos fabris:
+Artigo 1.º Para prover às necessidades da defesa nacional que não possam ser satisfeitas por intermédio de empresas privadas ou às que convenha satisfazer, total ou parcialmente, pela indústria militar, para mais perfeita eficiência das forças armadas e segurança dos assuntos relativos à mesma defesa, existem na directa dependência do Ministério do Exército, os seguintes estabelecimentos fabris:
 
 1) Fábrica Militar de Braço de Prata;
 
@@ -121,7 +154,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 4.º Ao Laboratório Militar de Produtos Químicos e Farmacêuticos compete essencialmente:
+Art. 4.º Ao Laboratório Militar de Produtos Químicos e Farmacêuticos compete essencialmente:
 
 a) O fabrico e manipulação de medicamentos, artigos de penso e outros produtos químicos necessários ao abastecimento das forças armadas, militares e militarizadas, ou à satisfação das necessidades particulares do seu pessoal;
 
@@ -133,7 +166,7 @@ d) As análises químicas, toxicológicas, bacteriológicas e bromatológicas ne
 
 ...
 
-###### Art. 6.º As Oficinas Gerais de Fardamento e Equipamento têm por finalidade:
+Art. 6.º As Oficinas Gerais de Fardamento e Equipamento têm por finalidade:
 
 a) Confeccionar os artigos de vestuário, calçado, equipamento, arreio e de correame, de material de bivaque e acampamento, as roupas e tendas hospitalares e roupas de material de aquartelamento destinados às forças armadas;
 
@@ -147,7 +180,7 @@ e) Fornecer aos militares, a preços módicos, directamente ou por intermédio d
 
 ...
 
-###### Art. 8.º A actividade da indústria militar, prosseguida pelos estabelecimentos fabris do Minisitério do Exército, será orientada pelos seguintes princípios:
+Art. 8.º A actividade da indústria militar, prosseguida pelos estabelecimentos fabris do Minisitério do Exército, será orientada pelos seguintes princípios:
 
 a) Especialização de cada estabelecimento em determinados fabricos afins;
 
@@ -161,9 +194,9 @@ e) As demais directivas consignadas nos artigos subsequentes.
 
 § único. Sempre que a natureza e importância das necessidades a satisfazer o justifiquem, poderão ser criados, mediante simples despacho ministerial, serviços comuns destinados a apoiar os diversos estabelecimentos, fixando-se-lhes, no correspondente acto de criação, o elenco das atribuições, as normas de funcionamento e o critério de rateio dos respectivos custos.
 
-###### Art. 3.º Tendo em vista as alterações decorrentes do presente diploma, ficam as Oficinas Gerais de Fardamento e Equipamento autorizadas a organizar no corrente ano económico mais um orçamento suplementar.
+Art. 3.º Tendo em vista as alterações decorrentes do presente diploma, ficam as Oficinas Gerais de Fardamento e Equipamento autorizadas a organizar no corrente ano económico mais um orçamento suplementar.
 
-###### Art. 4.º - 1. O pessoal civil pertencente aos quadros da extinta Fábrica Militar de Santa Clara e das Oficinas Gerais de Fardamento ingressará nos novos quadros orgânicos das Oficinas Gerais de Fardamento e Equipamento ou nos de qualquer outro serviço ou estabelecimento do Ministério do Exército, mediante simples lista nominativa, assinada pelo Ministro do Exército e publicada no Diário do Governo.
+Art. 4.º - 1. O pessoal civil pertencente aos quadros da extinta Fábrica Militar de Santa Clara e das Oficinas Gerais de Fardamento ingressará nos novos quadros orgânicos das Oficinas Gerais de Fardamento e Equipamento ou nos de qualquer outro serviço ou estabelecimento do Ministério do Exército, mediante simples lista nominativa, assinada pelo Ministro do Exército e publicada no Diário do Governo.
 
 2. Quanto ao pessoal além dos quadros, a sua colocação, sempre sem prejuízo do seu carácter eventual, far-se-á também, nos mesmos termos, mediante simples lista nominativa, assinada pelo Ministro do Exército e publicada no Diário do Governo.
 
@@ -171,13 +204,13 @@ e) As demais directivas consignadas nos artigos subsequentes.
 
 4. Os novos quadros orgânicos das Oficinas Gerais de Fardamento e Equipamento constam do mapa anexo a este diploma.
 
-###### Art. 5.º O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 5.º O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Julho de 1969.**
+Promulgado em 30 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 13 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -185,6 +218,6 @@ Mapa anexo a que se refere o artigo 4.º do Decreto-Lei n.º 49188
 
 Quadro orgânico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/18900/10071010.pdf))](https://files.diariodarepublica.pt/1s/1969/08/18900/10071010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/18900/10071010.pdf)
 
 Ministério do Exército, 30 de Julho de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1970-142085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad13da85b8ff39cf64b722f57a57599e1d5b33df69bbdfa53fb00a9160e30802
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61fa12168f88903bc294a2eed0cdbf705040ab71c8bf735b3ce010c1bf67b906
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
+- Orçamento
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:277330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:29Z'
   warnings: []
   errors: []
 ---
@@ -85,18 +95,18 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério dos Negócios Estrangeiros, um crédito especial da quantia de 2000000$00, devendo a mesma importância constituir o n.º 4) do artigo 27.º do capítulo 5.º do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios, sob a rubrica «Outras despesas resultantes de deslocações ao estrangeiro reguladas por legislação especial».
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério dos Negócios Estrangeiros, um crédito especial da quantia de 2000000$00, devendo a mesma importância constituir o n.º 4) do artigo 27.º do capítulo 5.º do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios, sob a rubrica «Outras despesas resultantes de deslocações ao estrangeiro reguladas por legislação especial».
 
-###### Art. 2.º Para compensação do crédito aludido no artigo precedente é anulada igual importância na verba inscrita sob o artigo 151.º, n.º 1) «Importância de despesas a realizar com a Intendência-Geral do Orçamento», do capítulo 12.º do vigente orçamento do Ministério das Finanças.
+Art. 2.º Para compensação do crédito aludido no artigo precedente é anulada igual importância na verba inscrita sob o artigo 151.º, n.º 1) «Importância de despesas a realizar com a Intendência-Geral do Orçamento», do capítulo 12.º do vigente orçamento do Ministério das Finanças.
 
-###### Art. 3.º Às despesas a realizar em conta do crédito aberto pelo artigo 1.º do presente diploma são aplicáveis as disposições do artigo 3.º e seus parágrafos do [Decreto-Lei n.º 41135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41135-1957-277330), de 1 de Junho de 1957.
+Art. 3.º Às despesas a realizar em conta do crédito aberto pelo artigo 1.º do presente diploma são aplicáveis as disposições do artigo 3.º e seus parágrafos do [Decreto-Lei n.º 41135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41135-1957-277330), de 1 de Junho de 1957.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 6 de Maio de 1970.**
+Promulgado em 6 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 9 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

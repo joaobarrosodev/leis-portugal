@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/418-1972-690791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ebc2980d8e8f9b8e1e2d058dd9cc8ad63ec59e99cc66068e7e42941700441dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2be29f3c1934680956cf12449a757caecc642737dc797ad20e5e311d1f41447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:15Z'
   warnings: []
   errors: []
 ---
@@ -88,27 +92,27 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 213681270$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 213681270$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 4.º «Instituto Nacional de Estatística»:
+Capítulo 4.º «Instituto Nacional de Estatística»:
 
-###### Artigo 149.º «Remunerações diversos - Em numerário» ... (11) 300000$00
+Artigo 149.º «Remunerações diversos - Em numerário» ... (11) 300000$00
 
 Ministério das Finanças
 
-### Capítulo 24.º «Direcção-Geral da Fazenda Pública»:
+Capítulo 24.º «Direcção-Geral da Fazenda Pública»:
 
 Aquisição de acções e obrigações de bancos e companhias
 
-###### Artigo 321.º «Activos financeiros»:
+Artigo 321.º «Activos financeiros»:
 
 N.º 1) «Títulos de participação» ... 211691270$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
@@ -116,41 +120,41 @@ Universidade do Porto
 
 Faculdade de Farmácia
 
-###### Artigo 517.º «Bens não duradouros»:
+Artigo 517.º «Bens não duradouros»:
 
 N.º 4) «Consumos de secretaria» ... (15) 50000$00
 
 Ministério das Comunicações
 
-### Capítulo 7.º «Direcção-Geral de Portos»:
+Capítulo 7.º «Direcção-Geral de Portos»:
 
-###### Artigo 246.º «Investimentos»:
+Artigo 246.º «Investimentos»:
 
 N.º 1) «Portos» ... 1640000$00
 
 ... 213681270$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
 
 Orçamento das receitas do Estado
 
 Receita ordinária
 
-### Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 1640000$00
+Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 1640000$00
 
-### Capítulo 7.º, grupo 10, artigo 217.º «Estabelecimentos de ensino» ... 50000$00
+Capítulo 7.º, grupo 10, artigo 217.º «Estabelecimentos de ensino» ... 50000$00
 
-### Capítulo 7.º, grupo 10, artigo 258.º «Diversos serviços e bens não duradouros» ... 300000$00
+Capítulo 7.º, grupo 10, artigo 258.º «Diversos serviços e bens não duradouros» ... 300000$00
 
-### Capítulo 11.º, grupo 11 «Títulos de participação», artigo 279.º-A «Venda ou reembolso de títulos de crédito na posse da Fazenda» ... 31329270$00
+Capítulo 11.º, grupo 11 «Títulos de participação», artigo 279.º-A «Venda ou reembolso de títulos de crédito na posse da Fazenda» ... 31329270$00
 
 Receita extraordinária
 
-### Capítulo 12.º, grupo 7, artigo 364.º «Crédito interno» ... 180362000$00
+Capítulo 12.º, grupo 7, artigo 364.º «Crédito interno» ... 180362000$00
 
 ... 213681270$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 3.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 De Encargos Gerais da Nação
 
@@ -166,8 +170,8 @@ A observação (15) aposta à dotação do capítulo 3.º, artigo 517.º, n.º 4
 
 Marcello Caetano - João Mota Pereira de Campos - Manuel Artur Cotta Agostinho Dias - José Veiga Simão - Rui Alves da Silva Sanches.
 
-**Promulgado em 18 de Outubro de 1972.**
+Promulgado em 18 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

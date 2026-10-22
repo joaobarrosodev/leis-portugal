@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/518-1972-685231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b275715eb14e8ef5823b9fc4566205ec60ad1f95fe3cde9091ce65c489d5eb43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdb9b724861f54fb1d0630766be425924dbfb1f27c932582a6491ddd603a94ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:12Z'
   warnings: []
   errors: []
 ---
@@ -88,24 +92,24 @@ Por motivo de urgência, nos termos do disposto no § 3.º do artigo 136.º da C
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. As Conservatórias dos Registos das Comarcas de Sotavento e de Macau passam a ser de 1.ª classe.
+Artigo 1.º - 1. As Conservatórias dos Registos das Comarcas de Sotavento e de Macau passam a ser de 1.ª classe.
 
 2. Os conservadores actualmente colocados nas Conservatórias referidas no número anterior permanecem nos seus lugares até serem promovidos à 1.ª classe, percebendo, entretanto, a média dos vencimentos correspondentes à classe do lugar e à sua classe, observando-se a mesma regra quanto aos seus limites de participações emolumentares.
 
-###### Art. 2.º Para os efeitos da alínea b) do artigo 89.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, ficam os Governos das províncias de Cabo Verde e Macau autorizados a altera o quadro do pessoal auxiliar das Conservatórias elevadas à 1.ª classe pelo n.º 1 do artigo 1.º deste decreto.
+Art. 2.º Para os efeitos da alínea b) do artigo 89.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, ficam os Governos das províncias de Cabo Verde e Macau autorizados a altera o quadro do pessoal auxiliar das Conservatórias elevadas à 1.ª classe pelo n.º 1 do artigo 1.º deste decreto.
 
-###### Art. 3.º - 1. São criados na sede da comarca da Matola uma Conservatória dos Registos e um Cartório Notarial, ambos de 2.ª classe.
+Art. 3.º - 1. São criados na sede da comarca da Matola uma Conservatória dos Registos e um Cartório Notarial, ambos de 2.ª classe.
 
 2. É criado um lugar de conservador de 2.ª classe dos registos e um de notário da mesma classe, respectivamente, na Conservatória e Cartório Notarial referidos no número anterior.
 
-###### Art. 4.º Para os efeitos da alínea b) do artigo 89.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, fica o Governo-Geral do Estado de Moçambique autorizado a constituir o quadro do pessoal auxiliar da Conservatória e Cartório Notarial criados pelo artigo anterior.
+Art. 4.º Para os efeitos da alínea b) do artigo 89.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, fica o Governo-Geral do Estado de Moçambique autorizado a constituir o quadro do pessoal auxiliar da Conservatória e Cartório Notarial criados pelo artigo anterior.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Novembro de 1972.**
+Promulgado em 29 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

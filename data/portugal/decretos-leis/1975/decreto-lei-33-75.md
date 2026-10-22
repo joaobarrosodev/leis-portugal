@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/02300/01140114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1975-159307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0679c979fc0f19cf822b2ce0a8d18e6a89c39174f68275c3e32b79c0929b088c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f91b56c0f207348f2f8ef724b65d586f301c835d86a186223b5d9dd11d47c35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Câmara Municipal
+- Conselho de Administração
+- Definição de Competências
+- Fiscalização
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Ministério da Administração Interna
+- Ministério das Finanças
+- Ministério do Ambiente
+- Ministério do Equipamento Social
+- Nomeação
+- Orgânica
+- Planeamento
+- Porto
+- Secretaria de Estado dos Transportes e Comunicações
+- Serviço de Transportes Colectivos do Porto
+- Tutela
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:298235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489039:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:298235:por
+  label: "Revogado pelo DEC LEI.202/94.1994.07.23.MOPTC, DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1994-298235
+  date: '1994-07-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:18Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +135,26 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Serviço de Transportes Colectivos do Porto, instituído pelo [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, passa, a partir desta data e a título transitório, a depender directa e exclusivamente do Ministério da Administração Interna e do Ministério do Equipamento Social e do Ambiente, através da Secretaria de Estado dos Transportes e Comunicações, sem prejuízo da sua gestão em regime de autonomia administrativa e financeira.
+Artigo 1.º O Serviço de Transportes Colectivos do Porto, instituído pelo [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, passa, a partir desta data e a título transitório, a depender directa e exclusivamente do Ministério da Administração Interna e do Ministério do Equipamento Social e do Ambiente, através da Secretaria de Estado dos Transportes e Comunicações, sem prejuízo da sua gestão em regime de autonomia administrativa e financeira.
 
-###### Art. 2.º O Serviço de Transportes Colectivos do Porto será gerido, até à publicação dos seus novos estatutos, por um conselho de gerência formado por quatro elementos em tempo completo: o presidente, com funções de coordenador (com voto de qualidade), e três vogais, sendo um responsável pela gestão do pessoal, outro pela gestão financeira e o terceiro pelo sector de planeamento.
+Art. 2.º O Serviço de Transportes Colectivos do Porto será gerido, até à publicação dos seus novos estatutos, por um conselho de gerência formado por quatro elementos em tempo completo: o presidente, com funções de coordenador (com voto de qualidade), e três vogais, sendo um responsável pela gestão do pessoal, outro pela gestão financeira e o terceiro pelo sector de planeamento.
 
-###### Art. 3.º A nomeação dos membros do conselho de gerência será feita por despacho conjunto dos Ministérios das Finanças, da Administração Interna e do Equipamento Social e do Ambiente.
+Art. 3.º A nomeação dos membros do conselho de gerência será feita por despacho conjunto dos Ministérios das Finanças, da Administração Interna e do Equipamento Social e do Ambiente.
 
 § único. O vogal responsável pelo sector de planeamento será nomeado por proposta da Câmara Municipal do Porto, depois de ouvidas as câmaras municipais dos concelhos limítrofes que fazem parte da federação obrigatória.
 
-###### Art. 4.º As funções de tutela, contrôle, autorização, bem como todas as demais a cargo das Câmaras Municipais do Porto e dos concelhos limítrofes, passam a competir directamente ao Ministério do Equipamento Social e do Ambiente através da Secretaria de Estado dos Transportes e Comunicações.
+Art. 4.º As funções de tutela, contrôle, autorização, bem como todas as demais a cargo das Câmaras Municipais do Porto e dos concelhos limítrofes, passam a competir directamente ao Ministério do Equipamento Social e do Ambiente através da Secretaria de Estado dos Transportes e Comunicações.
 
-###### Art. 5.º São revogadas todas as disposições que contrariem o estatuído no presente diploma, nomeadamente as do [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, nessas condições, o [Decreto-Lei n.º 48461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48461-1968-272861), de 1 de Julho de 1968, com excepção do disposto no seu artigo 4.º, e o [Decreto-Lei n.º 290/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1974-476149), de 27 de Junho.
+Art. 5.º São revogadas todas as disposições que contrariem o estatuído no presente diploma, nomeadamente as do [Decreto-Lei n.º 38144](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38144-1950-489039), de 30 de Dezembro de 1950, nessas condições, o [Decreto-Lei n.º 48461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48461-1968-272861), de 1 de Julho de 1968, com excepção do disposto no seu artigo 4.º, e o [Decreto-Lei n.º 290/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1974-476149), de 27 de Junho.
 
-###### Art. 6.º Serão resolvidas por despacho conjunto do Ministro da Administração Interna e do Ministro do Equipamento Social e do Ambiente todas as dúvidas que se levantem na aplicação deste diploma.
+Art. 6.º Serão resolvidas por despacho conjunto do Ministro da Administração Interna e do Ministro do Equipamento Social e do Ambiente todas as dúvidas que se levantem na aplicação deste diploma.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor.
+Art. 7.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Augusto Fernandes.
 
-**Promulgado em 21 de Janeiro de 1975.**
+Promulgado em 21 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

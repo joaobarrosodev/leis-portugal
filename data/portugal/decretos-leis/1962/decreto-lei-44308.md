@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44308-1962-516071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 908ad3004383c56e014a07652e446a08dfc5c8b63740de3b22af005830d625af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de2c2c18fbc4c5b98f2decb8952a2d3ca1aedc469ae8d155feed6e0ab713e447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Condições de Higiene e Segurança no Trabalho
+- Definição de Competências
+- Direção Geral da Saúde
+- Doença
+- Doença de Declaração Obrigatória
+- Doença Profissional
+- Estabelecimento Industrial
+- Exploração Mineira
+- Higiene do Trabalho
+- Medicina do Trabalho
+- Mineiro
+- Multa
+- Pedreiras
+- Prevenção de Riscos Profissionais
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:553389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196262:por
+  label: "Determinado que estão dependentes do efectivo funcionamento dos serviços médicos de prevenção da silicose, as obrigações\
+    \ consignadas nos arts. 11º e 12º, § único do art. 13º e art. 15º do presente diploma, pelo DEC LEI.44999.24.04.1963.MCPS,\
+    \ DG.IS [97] de 24.04.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44999-1963-196262
+  date: '1963-04-24'
+- type: repealed_by
+  target: pt:dre:553389:por
+  label: "Revogado o art. 4º pelo DEC LEI.2/82.05.01.1982.MAS, DR.IS [3] de 05.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1982-553389
+  date: '1982-01-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:33Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +126,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A silicose é uma afecção pulmonar diagnosticável por sinais radiológicos, com ou sem sinais clínicos, devida à inalação de poeiras contendo sílica livre.
+Artigo 1.º A silicose é uma afecção pulmonar diagnosticável por sinais radiológicos, com ou sem sinais clínicos, devida à inalação de poeiras contendo sílica livre.
 
 § único. Para efeitos da prevenção, a acentuação do retículo pulmonar é considerada silicose.
 
-###### Art. 2.º São trabalhos susceptíveis de dar origem à silicose os que expõem os indivíduos à inalação de poeiras contendo sílica livre, e nomeadamente:
+Art. 2.º São trabalhos susceptíveis de dar origem à silicose os que expõem os indivíduos à inalação de poeiras contendo sílica livre, e nomeadamente:
 
 a) Os trabalhos com rochas ou minerais contendo sílica livre, nas minas, túneis, pedreiras e outros locais;
 
@@ -112,29 +140,29 @@ c) Os trabalhos em indústrias siderúrgicas, metalúrgicas e mecânicas nas qua
 
 d) A fabricação de carborundo, vidros, produtos refractários, porcelanas, faianças e outros produtos cerâmicos, embora apenas pelo que respeita às operações com materiais contendo sílica livre.
 
-###### Art. 3.º A avaliação do risco silicótico deve ser feita, com a frequência necessária, por meio da análise dos materiais e das poeiras existentes nos locais onde se encontram habitualmente trabalhadores permanentes ou outros indivíduos.
+Art. 3.º A avaliação do risco silicótico deve ser feita, com a frequência necessária, por meio da análise dos materiais e das poeiras existentes nos locais onde se encontram habitualmente trabalhadores permanentes ou outros indivíduos.
 
 § único. A determinação do risco específico do empoeiramento cabe aos serviços técnicos da Direcção-Geral de que dependa a unidade industrial.
 
-###### Art. 4.º A silicose é doença de notificação obrigatória à Direcção-Geral de Saúde e aos tribunais do trabalho.
+Art. 4.º A silicose é doença de notificação obrigatória à Direcção-Geral de Saúde e aos tribunais do trabalho.
 
-###### Art. 5.º Nas minas, nos estabelecimentos industriais e nos outros locais em que exista o risco de silicose devem ser organizados serviços médicos apropriados.
+Art. 5.º Nas minas, nos estabelecimentos industriais e nos outros locais em que exista o risco de silicose devem ser organizados serviços médicos apropriados.
 
-###### Art. 6.º A orientação, coordenação e fiscalização técnica destes serviços médicos incumbe à Direcção-Geral de Saúde.
+Art. 6.º A orientação, coordenação e fiscalização técnica destes serviços médicos incumbe à Direcção-Geral de Saúde.
 
 § 1.º Para cumprimento destas obrigações, será assegurada à Direcção-Geral de Saúde a colaboração dos outros serviços oficiais.
 
 § 2.º Quando a competência conferida no corpo deste artigo suscitar problemas relativos a organização técnica da indústria ou do trabalho industrial e a relações do trabalho, estes serão resolvidos por comissões constituídas por delegados dos competentes serviços dos Ministérios da Economia, das Corporações e Previdência Social e da Saúde e Assistência.
 
-###### Art. 7.º Os serviços médicos previstos no artigo 5.º são essencialmente de natureza preventiva e têm por fim a defesa da saúde dos indivíduos e o estudo das condições higiénicas da sua actividade.
+Art. 7.º Os serviços médicos previstos no artigo 5.º são essencialmente de natureza preventiva e têm por fim a defesa da saúde dos indivíduos e o estudo das condições higiénicas da sua actividade.
 
-###### Art. 8.º Segundo a importância das empresas onde exista o risco de silicose, os serviços médicos serão privativos de uma ou comuns a várias.
+Art. 8.º Segundo a importância das empresas onde exista o risco de silicose, os serviços médicos serão privativos de uma ou comuns a várias.
 
-###### Art. 9.º Compete a essas empresas organizar e custear os referidos serviços médicos.
+Art. 9.º Compete a essas empresas organizar e custear os referidos serviços médicos.
 
 § único. A distribuição dos encargos da organização destes serviços pelas empresas, bem como as garantias contratuais e o regime disciplinar dos médicos interessados, serão estabelecidos em portaria pelos Ministros da Economia, das Corporações e Previdência Social e da Saúde e Assistência, ouvida a Ordem dos Médicos.
 
-###### Art. 10.º Aos médicos destes serviços incumbem, essencialmente, e de um modo geral, as seguintes funções de natureza preventiva:
+Art. 10.º Aos médicos destes serviços incumbem, essencialmente, e de um modo geral, as seguintes funções de natureza preventiva:
 
 a) Clínica (exames de admissão, periódicos, ocasionais e de despedimento);
 
@@ -142,42 +170,42 @@ b) Técnica (exames dos locais e das condições do trabalho, do ponto de vista 
 
 c) Social (cooperação com os serviços sociais das empresas e, bem assim, com a Inspecção do Trabalho).
 
-###### Art. 11.º Nenhum indivíduo pode ser admitido nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico de admissão.
+Art. 11.º Nenhum indivíduo pode ser admitido nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico de admissão.
 
 § único. O exame de admissão será constituído por um exame clínico geral, sempre que possível com radioscopia, e por uma telerradiografia ou radiofotografia.
 
-###### Art. 12.º Nenhum indivíduo pode continuar nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico periódico.
+Art. 12.º Nenhum indivíduo pode continuar nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico periódico.
 
 § 1.º O exame periódico constará de telerradiografia ou radiofotografia e, sendo necessário, de exame clínico geral.
 
 § 2.º A periodicidade dos exames médicos será fixada em função do risco específico da actividade prosseguida, dos locais em que o for e do estado sanitário dos interessados.
 
-###### Art. 13.º Antes de um indivíduo abandonar o serviço da empresa onde esteve sujeito a poeiras contendo sílica livre, poderá efectuar-se um exame médico de despedimento.
+Art. 13.º Antes de um indivíduo abandonar o serviço da empresa onde esteve sujeito a poeiras contendo sílica livre, poderá efectuar-se um exame médico de despedimento.
 
 § único. É obrigatório o exame previsto neste artigo em todos os casos de rescisão unilateral do contrato de trabalho por acto da entidade patronal.
 
-###### Art. 14.º Para esclarecimento das dúvidas porventura suscitadas nos exames, médicos, deverá recorrer-se a exames complementares, nomeadamente provas funcionais respiratórias.
+Art. 14.º Para esclarecimento das dúvidas porventura suscitadas nos exames, médicos, deverá recorrer-se a exames complementares, nomeadamente provas funcionais respiratórias.
 
 § único. No caso da interpretação da radiofotografia ser duvidosa, far-se-á uma telerradiografia.
 
-###### Art. 15.º Sempre que as circunstâncias o determinem, devem ser feitos exames médicos ocasionais para se avaliar da aptidão dos trabalhadores, nomeadamente na sua readmissão após doença do aparelho respiratório.
+Art. 15.º Sempre que as circunstâncias o determinem, devem ser feitos exames médicos ocasionais para se avaliar da aptidão dos trabalhadores, nomeadamente na sua readmissão após doença do aparelho respiratório.
 
 § único. Nos exames ocasionais é obrigatório o exame clínico geral.
 
-###### Art. 16.º A aptidão referida nos artigos 11.º, 12.º e 15.º e o resultado do exame referido no artigo 13.º serão comprovados por documento médico.
+Art. 16.º A aptidão referida nos artigos 11.º, 12.º e 15.º e o resultado do exame referido no artigo 13.º serão comprovados por documento médico.
 
-###### Art. 17.º Os elementos relativos aos exames de admissão, periódicos, ocasionais e de despedimento devem ser registados em ficha médica, que ficará em poder do médico dos serviços previstos neste decreto-lei e só poderá ser facultada aos médicos da Direcção-Geral de Saúde, aos da respectiva instituição de previdência e ao médico assistente do trabalhador. Estes ficam obrigados, tal como o médico da empresa, a guardar segredo profissional.
+Art. 17.º Os elementos relativos aos exames de admissão, periódicos, ocasionais e de despedimento devem ser registados em ficha médica, que ficará em poder do médico dos serviços previstos neste decreto-lei e só poderá ser facultada aos médicos da Direcção-Geral de Saúde, aos da respectiva instituição de previdência e ao médico assistente do trabalhador. Estes ficam obrigados, tal como o médico da empresa, a guardar segredo profissional.
 
 § único. Sem prejuízo do segredo profissional, os médicos devem comunicar aos serviços técnicos da empresa os elementos necessários a uma eficiente luta contra as poeiras e à mais adequada distribuição dos indivíduos pelas diversas actividades industriais.
 
-###### Art. 18.º As instalações, o material e a técnica da radiologia a utilizar nos exames de prevenção médica da silicose devem obedecer a características a fixar pelo Ministério da Saúde e Assistência, por intermédio da Direcção-Geral de Saúde.
+Art. 18.º As instalações, o material e a técnica da radiologia a utilizar nos exames de prevenção médica da silicose devem obedecer a características a fixar pelo Ministério da Saúde e Assistência, por intermédio da Direcção-Geral de Saúde.
 
-###### Art. 19.º Oportunamente, o Ministério da Saúde e Assistência poderá tornar extensivas à prevenção de outras pneumoconioses as disposições aplicáveis deste diploma.
+Art. 19.º Oportunamente, o Ministério da Saúde e Assistência poderá tornar extensivas à prevenção de outras pneumoconioses as disposições aplicáveis deste diploma.
 
 § único. Nas minas, porém, o presente decreto-lei aplica-se desde já à prevenção das outras pneumoconioses causadas por poeiras minerais.
 
-###### Art. 20.º É aplicável às empresas multa de 100$00 a 10000$00 pela inobservância das obrigações impostas ao abrigo do disposto no presente decreto-lei, sem prejuízo das outras responsabilidades que porventura lhes pertençam em consequência dessa inobservância.
+Art. 20.º É aplicável às empresas multa de 100$00 a 10000$00 pela inobservância das obrigações impostas ao abrigo do disposto no presente decreto-lei, sem prejuízo das outras responsabilidades que porventura lhes pertençam em consequência dessa inobservância.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

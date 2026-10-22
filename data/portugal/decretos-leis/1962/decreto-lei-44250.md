@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44250-1962-516682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09d9d1f236fc0ccd02ee791c5681aec4d2e53465df97cbd5e451e05564307f04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed68244949518ebd6a14edb05b099db69c108cfacaa4dbf36c1efca0581db109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Alemanha
+- Alentejo
+- Aproveitamento Hidroagrícola
+- Autorização de Despesas
+- Cooperação Económica
+- Definição de Competências
+- Despesas Públicas
+- Dívida Pública
+- Faro
+- Financiamento
+- Funchal
+- Lisboa
+- Ministro das Finanças
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:12Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +111,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nos termos e para os efeitos do artigo II do Protocolo de 13 de Maio de 1961, respeitante à intensificação da cooperação económica luso-alemã, é autorizada a emissão de um empréstimo externo amortizável até ao montante de 150000000 de marcos, nas seguintes condições:
+Artigo 1.º Nos termos e para os efeitos do artigo II do Protocolo de 13 de Maio de 1961, respeitante à intensificação da cooperação económica luso-alemã, é autorizada a emissão de um empréstimo externo amortizável até ao montante de 150000000 de marcos, nas seguintes condições:
 
 1.º Este empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado, inicialmente, por quinze promissórias, com o valor nominal de 10000000 de marcos cada uma;
 
@@ -110,19 +129,19 @@ e) Quatro em 31 de Dezembro de 1966, no montante de 40000000 de marcos.
 
 3.º O juro das promissórias será de 3 1/4, por cento ao ano, com vencimento em 31 de Dezembro de cada ano, e pela primeira vez em 31 de Dezembro de 1962.
 
-###### Art. 2.º As promissórias em que vier a representar-se este empréstimo gozarão dos direitos, isenções e garantias consignados na lei para os títulos da dívida pública e serão especialmente isentas do imposto sobre as sucessões e doações.
+Art. 2.º As promissórias em que vier a representar-se este empréstimo gozarão dos direitos, isenções e garantias consignados na lei para os títulos da dívida pública e serão especialmente isentas do imposto sobre as sucessões e doações.
 
-###### Art. 3.º Fica autorizado o Ministro das Finanças a contratar com a Kreditanstalf für Wiederaufbau o empréstimo a que alude este diploma e a emitir as respectivas promissórias.
+Art. 3.º Fica autorizado o Ministro das Finanças a contratar com a Kreditanstalf für Wiederaufbau o empréstimo a que alude este diploma e a emitir as respectivas promissórias.
 
-###### Art. 4.º A tomadora do empréstimo será, para os devidos e legais efeitos, considerada proprietária com plenos direitos e fiel depositária das promissórias durante a sua validade contratual, não lhe sendo aplicável, por isso, o n.º 5.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960.
+Art. 4.º A tomadora do empréstimo será, para os devidos e legais efeitos, considerada proprietária com plenos direitos e fiel depositária das promissórias durante a sua validade contratual, não lhe sendo aplicável, por isso, o n.º 5.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960.
 
-###### Art. 5.º O Ministro das Finanças pode, se o julgar conveniente, proceder, nos termos contratuais emergentes desta operação, à amortização antecipada, total ou parcial, dos montantes em dívida.
+Art. 5.º O Ministro das Finanças pode, se o julgar conveniente, proceder, nos termos contratuais emergentes desta operação, à amortização antecipada, total ou parcial, dos montantes em dívida.
 
-###### Art. 6.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado pelo presente diploma, não devendo, porém, o encargo efectivo do empréstimo, excluídas as despesas da sua representação, exceder 3 1/2 por cento.
+Art. 6.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado pelo presente diploma, não devendo, porém, o encargo efectivo do empréstimo, excluídas as despesas da sua representação, exceder 3 1/2 por cento.
 
 § único. As despesas com a emissão, incluindo os trabalhos extraordinários que a sua organização justificar e forem autorizados, serão pagas por força do capítulo 1.º, artigo 11.º, do orçamento do Ministério das Finanças para o corrente ano económico.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

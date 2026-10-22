@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44453-1962-162825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb05cb728f743c2f94b65c440c6f570e26afd9ed5d251acc924c533f47ee4b8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8071498c681edb232e6ac1ceed30db0468f18ebd70b26c85fb7f1fa0b06e020c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arganil
+- Coimbra
+- Criação de Freguesias
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:32Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +97,18 @@ Considerando que se verificam todas as demais condições referidas no artigo 9.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Arganil, distrito de Coimbra, a freguesia de Moura da Serra, com sede na povoação de Moura, constituída por territórios desintegrados das freguesias de Avô, concelho de Oliveira do Hospital, e de Pomares, Benfeita e Teixeira, do concelho de Arganil.
+Artigo 1.º É criada no concelho de Arganil, distrito de Coimbra, a freguesia de Moura da Serra, com sede na povoação de Moura, constituída por territórios desintegrados das freguesias de Avô, concelho de Oliveira do Hospital, e de Pomares, Benfeita e Teixeira, do concelho de Arganil.
 
 § único. A freguesia de Moura da Serra é classificada de 3.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do Cabeço do Pião, avança pelo Carvalhal da Mourísia até alcançar a Fonte do Espinho; prossegue pelo dorso da serra da Carambola até ao Outeiro do Vale da Corça; continua até à ribeira de Parrozelos, abrangendo a povoação do mesmo nome; segue pela margem esquerda da dita ribeira, envolvendo, por forma a incluí-la na área da freguesia, a povoação da Relva Velha; desvia-se, depois, em direcção ao Alto da Picota e, atingido este, prossegue até ao sítio conhecido por Rodela; continua pela margem esquerda da ribeira da Mata, inflectindo, depois, e prosseguindo até ao ramal da Moura, no ponto de encontro com a estrada da serra; deste ponto, segue pela referida estrada e pelo cabeço da Chama até ao cabeço da Maria Negra, onde se situa um marco geodésico; do referido cabeço continua, em recta, pela margem esquerda da ribeira da Moura, até ao Caratão da Velha; atravessa, seguidamente, os Calampos, envolvendo o Casal do Vale do Cortiçô e a povoação de Casarias, até ao Alto da Tojosa e, ultrapassado este, continua em recta, atravessando a ribeira da Mourísia e subindo pelo Outeiro do Pião, em direcção ao Cabeço do mesmo nome, onde a referida linha teve origem.
+Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do Cabeço do Pião, avança pelo Carvalhal da Mourísia até alcançar a Fonte do Espinho; prossegue pelo dorso da serra da Carambola até ao Outeiro do Vale da Corça; continua até à ribeira de Parrozelos, abrangendo a povoação do mesmo nome; segue pela margem esquerda da dita ribeira, envolvendo, por forma a incluí-la na área da freguesia, a povoação da Relva Velha; desvia-se, depois, em direcção ao Alto da Picota e, atingido este, prossegue até ao sítio conhecido por Rodela; continua pela margem esquerda da ribeira da Mata, inflectindo, depois, e prosseguindo até ao ramal da Moura, no ponto de encontro com a estrada da serra; deste ponto, segue pela referida estrada e pelo cabeço da Chama até ao cabeço da Maria Negra, onde se situa um marco geodésico; do referido cabeço continua, em recta, pela margem esquerda da ribeira da Moura, até ao Caratão da Velha; atravessa, seguidamente, os Calampos, envolvendo o Casal do Vale do Cortiçô e a povoação de Casarias, até ao Alto da Tojosa e, ultrapassado este, continua em recta, atravessando a ribeira da Mourísia e subindo pelo Outeiro do Pião, em direcção ao Cabeço do mesmo nome, onde a referida linha teve origem.
 
 § único. A Câmara Municipal de Arganil procederá, no prazo de 90 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, de modo a ficarem bem assinalados os limites fixados neste artigo.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Moura da Serra, criada pelo presente decreto-lei, realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Arganil e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral das freguesias de Avô, Benfeita, Pomares e Teixeira.
+Art. 3.º A eleição da Junta de Freguesia de Moura da Serra, criada pelo presente decreto-lei, realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Arganil e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral das freguesias de Avô, Benfeita, Pomares e Teixeira.
 
-###### Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da Junta no que se refere a eleição e votação será exercida pelo presidente da Câmara Municipal de Arganil.
+Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da Junta no que se refere a eleição e votação será exercida pelo presidente da Câmara Municipal de Arganil.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

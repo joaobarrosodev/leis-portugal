@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07500/06400640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1977-139706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e1fafcfb9fcb2d8d3a316d235de26d1991492c1bc604525bca60fb08e75780c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c80ea9256d169729b1223dae0cc7c3002d7b4b07a68027783a40a75f48fc68cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Forças Armadas
+- Formação Profissional
+- Formas de Provimento
+- Habilitações Literárias
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138821:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:32Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +111,23 @@ Nestes termos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As vacaturas verificadas no quadro de oficiais técnicos de mecanografia e estatística podem ser preenchidas pela transferência de oficiais do quadro permanente (QP) de qualquer especialidade da Força Aérea que tenham frequentado com aproveitamento o curso técnico básico e o estágio de adaptação desta especialidade.
+Artigo 1.º - 1. As vacaturas verificadas no quadro de oficiais técnicos de mecanografia e estatística podem ser preenchidas pela transferência de oficiais do quadro permanente (QP) de qualquer especialidade da Força Aérea que tenham frequentado com aproveitamento o curso técnico básico e o estágio de adaptação desta especialidade.
 
 2. Os oficiais referidos no número anterior mantêm a antiguidade que tinham no quadro de origem.
 
-###### Art. 2.º - 1. Podem ainda ter ingresso no referido quadro os oficiais milicianos e sargentos dos quadros permanentes da Força Aérea que concluam com aproveitamento o curso de formação de oficial do QP técnico de mecanografia e estatística, precedido da realização de um curso técnico básico e de um estágio de adaptação.
+Art. 2.º - 1. Podem ainda ter ingresso no referido quadro os oficiais milicianos e sargentos dos quadros permanentes da Força Aérea que concluam com aproveitamento o curso de formação de oficial do QP técnico de mecanografia e estatística, precedido da realização de um curso técnico básico e de um estágio de adaptação.
 
 2. O ingresso no quadro dos militares referidos no número anterior é feito no posto de alferes, em condições idênticas às consignadas no Estatuto do Oficial da Força Aérea para os restantes quadros de oficiais técnicos, nomeadamente a ordenação no quadro por cursos e dentro de cada curso pela classificação obtida no mesmo.
 
-###### Art. 3.º - 1. O curso técnico básico e o estágio de adaptação à especialidade referidos nos artigos anteriores têm, em regra, a duração, respectivamente, de seis e doze meses e são realizados com programas elaborados pela Direcção do Serviço de Instrução, em ligação com a Direcção do Serviço de Informática, e aprovados pelo Chefe do Estado-Maior da Força Aérea.
+Art. 3.º - 1. O curso técnico básico e o estágio de adaptação à especialidade referidos nos artigos anteriores têm, em regra, a duração, respectivamente, de seis e doze meses e são realizados com programas elaborados pela Direcção do Serviço de Instrução, em ligação com a Direcção do Serviço de Informática, e aprovados pelo Chefe do Estado-Maior da Força Aérea.
 
 2. Os tempos estabelecidos no n.º 1 poderão eventualmente ser reduzidos pelo Chefe do Estado-Maior da Força Aérea, sob proposta da Direcção do Serviço de Instrução, em ligação com a Direcção do Serviço de Informática, garantindo que os instruendos obterão o nível de conhecimentos necessários ao eficiente desempenho das funções do quadro.
 
-###### Art. 4.º - 1. O curso de formação de oficial referido no n.º 1 do artigo 2.º tem em vista ministrar a formação militar adequada ao exercício das respectivas funções.
+Art. 4.º - 1. O curso de formação de oficial referido no n.º 1 do artigo 2.º tem em vista ministrar a formação militar adequada ao exercício das respectivas funções.
 
 2. O programa do curso será elaborado pela Direcção do Serviço de Instrução, em colaboração com a Direcção do Serviço de Informática, e aprovado pelo Chefe do Estado-Maior da Força Aérea, devendo ser seguidos critérios semelhantes aos da formação dos restantes quadros de oficiais técnicos.
 
-###### Art. 5.º - 1. As condições de admissão à frequência do curso técnico básico da especialidade de oficiais técnicos de mecanografia e estatística e subsequente estágio de adaptação são as seguintes:
+Art. 5.º - 1. As condições de admissão à frequência do curso técnico básico da especialidade de oficiais técnicos de mecanografia e estatística e subsequente estágio de adaptação são as seguintes:
 
 a) Habilitações literárias mínimas: o 7.º ano liceal ou equivalente de uma alínea que contenha matemática;
 
@@ -122,12 +137,12 @@ c) Não ser mais antigo que o oficial mais moderno existente no quadro de oficia
 
 2. A nomeação paa o curso e estágio indicados no n.º 1 é feita por escolha, sob parecer da Comissão Técnica da Força Aérea, entre os candidatos aprovados em testes psicotécnicos, os quais deverão considerar os parâmetros propostos pela Direcção do Serviço de Informática e ser realizados no Centro Psicotécnico da Força Aérea.
 
-###### Art. 6.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma, bem como os pormenores desta, serão regulados por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 6.º As dúvidas e os casos omissos resultantes da aplicação do presente diploma, bem como os pormenores desta, serão regulados por despacho do Chefe do Estado-Maior da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 16 de Março de 1977.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

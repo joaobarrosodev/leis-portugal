@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48169-1967-375994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f695c35d0e770b82a349456b1c0397d0338944c4c253f9e6dffe7548d670f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 753664af7f26b08a32eaa00292ded8abdda5d2e256d3bfb7d6530504ef9d7125
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orgânica
+- Reestruturação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:323368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536578:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:48Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +112,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A Estação de Cultura Mecânica, criada pelo [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, é reorganizada nos termos dos artigos seguintes, sem prejuízo das suas características de organismo de estudo e de cooperação técnica, destinado principalmente a orientar a motomecanização da agricultura.
+Artigo 1.º A Estação de Cultura Mecânica, criada pelo [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, é reorganizada nos termos dos artigos seguintes, sem prejuízo das suas características de organismo de estudo e de cooperação técnica, destinado principalmente a orientar a motomecanização da agricultura.
 
-###### Art. 2.º O Secretário de Estado da Agricultura promoverá a publicação dos diplomas regulamentares e das disposições orgânicas que se mostrem necessários ao reforço dos meios técnicos e financeiros da Estação, em ordem a permitir o cabal desempenho das funções que lhe competem.
+Art. 2.º O Secretário de Estado da Agricultura promoverá a publicação dos diplomas regulamentares e das disposições orgânicas que se mostrem necessários ao reforço dos meios técnicos e financeiros da Estação, em ordem a permitir o cabal desempenho das funções que lhe competem.
 
-###### Art. 3.º Além das funções de assistência técnica e de disciplina e orientação da motomecanização agrícola e florestal que lhe são atribuídas pelo presente diploma, à Estação de Cultura Mecânica pertencerá:
+Art. 3.º Além das funções de assistência técnica e de disciplina e orientação da motomecanização agrícola e florestal que lhe são atribuídas pelo presente diploma, à Estação de Cultura Mecânica pertencerá:
 
 1.º Fornecer aos organismos oficiais, designadamente aos da Secretaria de Estado da Agricultura, as informações de carácter técnico de que necessitem para o desempenho de funções de algum modo ligadas à motomecanização e prestar-lhes a necessária cooperação técnica, quando solicitada;
 
@@ -116,7 +134,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO II — Orgânica
 
-###### Art. 4.º A Estação de Cultura Mecânica desempenhará as funções que lhe são atribuídas através das seguintes secções e serviços:
+Art. 4.º A Estação de Cultura Mecânica desempenhará as funções que lhe são atribuídas através das seguintes secções e serviços:
 
 a) Secção de coordenação e orientação da produção, comércio e utilização da máquina agrícola e florestal;
 
@@ -134,7 +152,7 @@ g) Serviços administrativos.
 
 § único. O âmbito e natureza do campo de acção de cada um dos serviços e secções serão oportunamente especificados em disposições regulamentares, o mesmo se aplicando à designação dos serviços, ao seu número e à natureza das suas funções.
 
-###### Art. 5.º Na Estação de Cultura Mecânica funcionará, sob a presidência do respectivo director, um conselho coordenador, de que farão parte representantes de diversos departamentos e serviços, a designar por despacho do Secretário de Estado da Agricultura, sobre proposta dos titulares das respectivas pastas, quando seja caso disso, nomeadamente:
+Art. 5.º Na Estação de Cultura Mecânica funcionará, sob a presidência do respectivo director, um conselho coordenador, de que farão parte representantes de diversos departamentos e serviços, a designar por despacho do Secretário de Estado da Agricultura, sobre proposta dos titulares das respectivas pastas, quando seja caso disso, nomeadamente:
 
 a) Instituto Superior de Agronomia;
 
@@ -166,27 +184,27 @@ n) Corporação do Comércio.
 
 § 2.º O conselho reunirá semestralmente em sessão ordinária e, extraordinàriamente, por iniciativa do seu presidente ou a pedido de qualquer dos seus membros.
 
-###### Art. 6.º O conselho coordenador tem por missão proporcionar à Estação de Cultura Mecânica os elementos a considerar nos programas de trabalho e na orientação geral da problemática da motomecanização.
+Art. 6.º O conselho coordenador tem por missão proporcionar à Estação de Cultura Mecânica os elementos a considerar nos programas de trabalho e na orientação geral da problemática da motomecanização.
 
 § único. Aos trabalhos do conselho coordenador poderão prestar a sua colaboração as pessoas que, pelas funções que desempenhem ou pela sua especial competência, sejam para o efeito solicitadas pelo presidente, por iniciativa própria ou sobre proposta de um ou mais dos seus membros.
 
 ### CAPÍTULO III — Regime administrativo
 
-###### Art. 7.º A Estação terá as suas dotações de despesa, com excepção das destinadas a vencimentos, descritas em divisão própria do capítulo do orçamento do Ministério da Economia relativo à Direcção-Geral dos Serviços Agrícolas.
+Art. 7.º A Estação terá as suas dotações de despesa, com excepção das destinadas a vencimentos, descritas em divisão própria do capítulo do orçamento do Ministério da Economia relativo à Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 8.º A Estação tem autonomia administrativa e a sua administração incumbe a um conselho administrativo, constituído pelo respectivo director, que presidirá, e por dois vogais.
+Art. 8.º A Estação tem autonomia administrativa e a sua administração incumbe a um conselho administrativo, constituído pelo respectivo director, que presidirá, e por dois vogais.
 
 § 1.º Um dos vogais é o responsável pelos serviços administrativos da Estação e o outro será designado por despacho do Secretário de Estado da Agricultura, sobre proposta do director da Estação.
 
 § 2.º Na ausência ou impedimento de qualquer dos membros do conselho administrativo, a sua substituição dá-se pelo funcionário em serviço na Estação que for designado por despacho do Secretário de Estado da Agricultura, sobre proposta do director da referida Estação.
 
-###### Art. 9.º O conselho administrativo é responsável pela legalidade das despesas efectuadas e por todos os fundos que requisite de conta do orçamento e que serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, á sua ordem.
+Art. 9.º O conselho administrativo é responsável pela legalidade das despesas efectuadas e por todos os fundos que requisite de conta do orçamento e que serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, á sua ordem.
 
 § único. As importâncias de que o conselho careça para ocorrer aos pagamentos serão levantadas por meio de cheques assinados, pelo menos, por dois dos seus membros.
 
-###### Art. 10.º As contas da gerência da Estação, depois de aprovadas pelo conselho administrativo, serão remetidas ao Tribunal de Contas até 31 de Maio do ano seguinte àquele a que se referem, para efeito de julgamento.
+Art. 10.º As contas da gerência da Estação, depois de aprovadas pelo conselho administrativo, serão remetidas ao Tribunal de Contas até 31 de Maio do ano seguinte àquele a que se referem, para efeito de julgamento.
 
-###### Art. 11.º A Estação pode contratar e assalariar pessoal nos termos estabelecidos para a Direcção-Geral dos Serviços Agrícolas no artigo 7.º e seus parágrafos do [Decreto-Lei n.º 35422](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35422-1945-462613), de 29 de Dezembro de 1945.
+Art. 11.º A Estação pode contratar e assalariar pessoal nos termos estabelecidos para a Direcção-Geral dos Serviços Agrícolas no artigo 7.º e seus parágrafos do [Decreto-Lei n.º 35422](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35422-1945-462613), de 29 de Dezembro de 1945.
 
 § 1.º Além do pessoal técnico da Direcção-Geral dos Serviços Agrícolas destacado na Estação, o Secretário de Estado da Agricultura poderá autorizar o contrato de pessoal técnico requisitado a outros serviços do Ministério da Economia mediante acordo do respectivo Secretário de Estado.
 
@@ -196,27 +214,27 @@ n) Corporação do Comércio.
 
 § 4.º O tempo de serviço prestado pelo funcionário na situação de requisitado é contado, para todos os efeitos legais, como de efectivo serviço no quadro de origem, podendo o funcionário ser admitido aos concursos de promoção abertos neste quadro.
 
-###### Art. 12.º O director da Estação, com a categoria de chefe de repartição, será designado, em comissão de serviço, por despacho do Secretário de Estado da Agricultura, podendo a escolha recair em funcionário de qualquer dos organismos da Secretaria de Estado da Agricultura.
+Art. 12.º O director da Estação, com a categoria de chefe de repartição, será designado, em comissão de serviço, por despacho do Secretário de Estado da Agricultura, podendo a escolha recair em funcionário de qualquer dos organismos da Secretaria de Estado da Agricultura.
 
-###### Art. 13.º A Estação poderá propor superiormente a aceitação de equipamento ou de subsídios de carácter eventual ou permanente, a conceder por empresas privadas ou por instituições de natureza cultural interessadas em auxiliar o desenvolvimento da actividade do organismo.
+Art. 13.º A Estação poderá propor superiormente a aceitação de equipamento ou de subsídios de carácter eventual ou permanente, a conceder por empresas privadas ou por instituições de natureza cultural interessadas em auxiliar o desenvolvimento da actividade do organismo.
 
-###### Art. 14.º A Estação de Cultura Mecânica e, bem assim, os demais organismos do Ministério da Economia poderão tomar de aluguer as máquinas e meios de transporte necessários à realização dos trabalhos experimentais e demonstrações que considerem de interesse para a divulgação dos processos mecânicos.
+Art. 14.º A Estação de Cultura Mecânica e, bem assim, os demais organismos do Ministério da Economia poderão tomar de aluguer as máquinas e meios de transporte necessários à realização dos trabalhos experimentais e demonstrações que considerem de interesse para a divulgação dos processos mecânicos.
 
-###### Art. 15.º Os organismos do Ministério da Economia informarão a Estação da maquinaria agrícola adquirida, muito especialmente quando nessas aquisições se incluam máquinas motoras e operadoras de tipo ou características novas.
+Art. 15.º Os organismos do Ministério da Economia informarão a Estação da maquinaria agrícola adquirida, muito especialmente quando nessas aquisições se incluam máquinas motoras e operadoras de tipo ou características novas.
 
-###### Art. 16.º Todas as receitas constituídas por subsídios, taxas ou quaisquer outras importâncias que por qualquer título sejam atribuídas à Estação darão entrada nos cofres do Tesouro, sendo aplicadas através de dotação para o efeito inscrita na parte do orçamento do Ministério da Economia referente à Estação de Cultura Mecânica e mediante orçamento privativo sujeito às formalidades legais.
+Art. 16.º Todas as receitas constituídas por subsídios, taxas ou quaisquer outras importâncias que por qualquer título sejam atribuídas à Estação darão entrada nos cofres do Tesouro, sendo aplicadas através de dotação para o efeito inscrita na parte do orçamento do Ministério da Economia referente à Estação de Cultura Mecânica e mediante orçamento privativo sujeito às formalidades legais.
 
 § 1.º As importâncias correspondentes ao aluguer de máquinas pertencentes aos parques dos organismos do Ministério da Economia serão aplicadas exclusivamente à renovação do material do parque da Estação de Cultura Mecânica e de outros equipamentos da mesma.
 
 § 2.º Os saldos orçamentais da rubrica «Participações em cobranças ou receitas» podem ser despendidos pela Estação nos anos seguintes àqueles a que disserem respeito.
 
-###### Art. 17.º Por simples decreto, referendado pelo Ministro das Finanças e Secretário de Estado da Agricultura, serão efectuados, quando necessário, os reforços de verbas orçamentais que sejam indispensáveis à execução deste diploma, com contrapartida nas sobras de dotações atribuídas à Secretaria de Estado da Agricultura.
+Art. 17.º Por simples decreto, referendado pelo Ministro das Finanças e Secretário de Estado da Agricultura, serão efectuados, quando necessário, os reforços de verbas orçamentais que sejam indispensáveis à execução deste diploma, com contrapartida nas sobras de dotações atribuídas à Secretaria de Estado da Agricultura.
 
 ### CAPÍTULO IV — Disposição final
 
-###### Art. 18.º O presente diploma entra em vigor no dia 1 de Março de 1968.
+Art. 18.º O presente diploma entra em vigor no dia 1 de Março de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
 

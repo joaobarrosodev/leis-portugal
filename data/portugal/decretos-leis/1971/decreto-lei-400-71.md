@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1971-632678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa511f8d93b14ee1ceb75058e1f2002d20fd5dd19585c695c73a4c609d91cf57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b88ec2f35fb11e5bb3657aec8aa405bde47a424936312594341cd15f9f84567
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:354563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686233:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354563:por
+  label: "Revogado o art. 2.º pelo DEC LEI.792/75.31.12.1975.MEIC, DG.IS [300]9ºSupl de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/792-1975-354563
+  date: '1975-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:00Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +136,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São criadas seis novas escolas do magistério primário, que funcionarão nos termos do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e legislação complementar.
+Artigo 1.º - 1. São criadas seis novas escolas do magistério primário, que funcionarão nos termos do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e legislação complementar.
 
 2. O local e o início de funcionamento de cada escola serão fixados por despacho do Ministro da Educação Nacional.
 
-###### Art. 2.º - 1. Os quadros do pessoal administrativo e do pessoal auxiliar de cada uma das escolas criadas pelo artigo 1.º serão fixados e poderão ser remodelados pela forma prescrita no artigo 25.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
+Art. 2.º - 1. Os quadros do pessoal administrativo e do pessoal auxiliar de cada uma das escolas criadas pelo artigo 1.º serão fixados e poderão ser remodelados pela forma prescrita no artigo 25.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
 
 2. O pessoal administrativo e o pessoal auxiliar que há pelo menos cinco anos exerça funções em escolas particulares do magistério primário ingressará nos quadros das novas escolas oficiais das mesmas localidades, se o requerer no prazo de quinze dias após a publicação do despacho a que se refere o n.º 2 do artigo 1.º e satisfizer às exigências legais estabelecidas para o provimento, com excepção das do artigo 4.º do [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, das dos artigos 6.º e 7.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, e das dos artigos 25.º, 27.º e 28.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

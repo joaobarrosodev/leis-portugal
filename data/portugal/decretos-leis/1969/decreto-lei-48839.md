@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48839-1969-527037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff87c43022b85abc6efc2c8b098f4d0835409cdf81195255368621ea469c3749
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1279b74f851581ac5adfbcb7908d99707442cbda79fa97d3cf6dc11092cd3a3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Disciplina da Armada
+- Marinha
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:416401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416401:por
+  label: "Alterado o art. 3º pelo DEC LEI.876/76.29.12.1976.CR, DR.IS [301] de 29.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/876-1976-416401
+  date: '1976-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:14Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +98,27 @@ Considerando a conveniência de actualizar a constituição do Conselho Superior
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho Superior de Disciplina da Armada (C. S. D. A.) é constituído por cinco vice-almirantes ou contra-almirantes dos quadros do activo ou da reserva, sendo presidido pelo membro mais graduado ou antigo.
+Artigo 1.º O Conselho Superior de Disciplina da Armada (C. S. D. A.) é constituído por cinco vice-almirantes ou contra-almirantes dos quadros do activo ou da reserva, sendo presidido pelo membro mais graduado ou antigo.
 
 § 1.º Compete ao presidente do C. S. D. A. designar por sorteio o vogal do mesmo Conselho que deve servir como relator.
 
 § 2.º Não podem fazer parte do C. S. D. A. os membros do Supremo Tribunal Militar, o chefe do Estado-Maior da Armada, o vice-chefe do mesmo Estado-Maior e o superintendente dos Serviços do Pessoal.
 
-###### Art. 2.º O promotor do C. S. D. A. é um oficial superior da Armada das classes de marinha ou de administração naval dos quadros do activo ou da reserva.
+Art. 2.º O promotor do C. S. D. A. é um oficial superior da Armada das classes de marinha ou de administração naval dos quadros do activo ou da reserva.
 
 § único. As funções de promotor do C. S. D. A. são acumuláveis com as de promotor do Tribunal Militar de Marinha.
 
-###### Art. 3.º Quando o oficial submetido a julgamento no C. S. D. A. for mais graduado ou antigo que qualquer dos membros ou que o promotor, serão nomeados ad hoc para o desempenho de tais funções oficiais mais graduados ou antigos, os quais, desde que necessário, poderão ser do quadro de reformados.
+Art. 3.º Quando o oficial submetido a julgamento no C. S. D. A. for mais graduado ou antigo que qualquer dos membros ou que o promotor, serão nomeados ad hoc para o desempenho de tais funções oficiais mais graduados ou antigos, os quais, desde que necessário, poderão ser do quadro de reformados.
 
-###### Art. 4.º O secretário sem voto do C. S. D. A. é um oficial superior da Armada dos quadros do activo ou da reserva.
+Art. 4.º O secretário sem voto do C. S. D. A. é um oficial superior da Armada dos quadros do activo ou da reserva.
 
-###### Art. 5.º Os membros e o promotor do C. S. D. A. são nomeados por portaria do Ministro da Marinha. O secretário do mesmo Conselho é nomeado por determinação publicada na Ordem da Direcção do Serviço do Pessoal.
+Art. 5.º Os membros e o promotor do C. S. D. A. são nomeados por portaria do Ministro da Marinha. O secretário do mesmo Conselho é nomeado por determinação publicada na Ordem da Direcção do Serviço do Pessoal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.
 
-**Promulgado em 9 de Janeiro de 1969.**
+Promulgado em 9 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

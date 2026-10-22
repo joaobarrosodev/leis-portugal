@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/221-1972-673859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cf832813afd1d62dd6eddfe625ae9db0bf9d595fafaa7e163fd4d2f977c7b7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c885439f9b58a4bcfc9719edc32f319b753e798793dd4ca4a8e4e8d68485ee7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401694:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:26Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +116,24 @@ Tendo em consideração o disposto no artigo 4.º do [Decreto-Lei n.º 46380](ht
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a segunda emissão de promissórias de fomento ultramarino na província de Angola.
+Artigo 1.º É autorizada a segunda emissão de promissórias de fomento ultramarino na província de Angola.
 
-###### Art. 2.º Para a presente emissão é fixado o capital de 300000 contos e a data de 31 de Julho de 1972.
+Art. 2.º Para a presente emissão é fixado o capital de 300000 contos e a data de 31 de Julho de 1972.
 
-###### Art. 3.º As promissórias a emitir serão de valor nominal compreendido entre 1000 e 10000 contos.
+Art. 3.º As promissórias a emitir serão de valor nominal compreendido entre 1000 e 10000 contos.
 
-###### Art. 4.º A Direcção Provincial de Finanças da província procederá ao reembolso dos títulos no prazo de cinco anos, podendo, no entanto, proceder nos termos legais ao reembolso antecipado dos mesmos.
+Art. 4.º A Direcção Provincial de Finanças da província procederá ao reembolso dos títulos no prazo de cinco anos, podendo, no entanto, proceder nos termos legais ao reembolso antecipado dos mesmos.
 
-###### Art. 5.º As promissórias vencerão juro à taxa anual de 1,5 por cento, pagável em 31 de Janeiro e em 31 de Julho de cada ano.
+Art. 5.º As promissórias vencerão juro à taxa anual de 1,5 por cento, pagável em 31 de Janeiro e em 31 de Julho de cada ano.
 
-###### Art. 6.º O produto da emissão destina-se ao financiamento de investimentos previstos, para a província de Angola, no III Plano de Fomento.
+Art. 6.º O produto da emissão destina-se ao financiamento de investimentos previstos, para a província de Angola, no III Plano de Fomento.
 
 Marcello Caetano - João Augusto Dias Rosas Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Junho de 1972.**
+Promulgado em 16 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

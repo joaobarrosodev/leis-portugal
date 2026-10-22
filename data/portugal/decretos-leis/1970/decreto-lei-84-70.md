@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1970-228411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c87d6223c8d90069a1b8f52d2bc414521c2d5cb85dca1cb45d803cf234f4fc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 752299907b8f0fbb0b544de7d79c81f5d8ebcd9f871c2d2212dc859c9cf0c716
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Alienação de Solos
+- Angra do Heroísmo
+- Direcção Geral da Fazenda Pública
+- Ilha de São Jorge
+- Junta Autónoma do Porto de Angra do Heroísmo
+- Junta Autónoma dos Portos
+- Secretaria de Estado do Tesouro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:45Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Considerando o elevado interesse público da obra;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único - 1. É autorizada a Secretaria de Estado do Tesouro, pela Direcção-Geral da Fazenda Pública, a ceder, a título definitivo, à Junta Autónoma dos Portos do Distrito de Angra do Heroísmo, uma parcela de terreno, com a área de 113,5 m2, anexa ao posto da Guarda Fiscal, assinalada na planta anexa a este diploma e que dele faz parte integrante, a qual se destina à construção do acesso terrestre ao cais do porto das Velas, mediante a compensação de 7954$10, a satisfazer no acto da assinatura do respectivo auto.
+Artigo único - 1. É autorizada a Secretaria de Estado do Tesouro, pela Direcção-Geral da Fazenda Pública, a ceder, a título definitivo, à Junta Autónoma dos Portos do Distrito de Angra do Heroísmo, uma parcela de terreno, com a área de 113,5 m2, anexa ao posto da Guarda Fiscal, assinalada na planta anexa a este diploma e que dele faz parte integrante, a qual se destina à construção do acesso terrestre ao cais do porto das Velas, mediante a compensação de 7954$10, a satisfazer no acto da assinatura do respectivo auto.
 
 2. O terreno a que se refere este diploma poderá, no todo ou em parte, reverter para o domínio e posse do Estado, por despacho do Secretário de Estado do Tesouro, sem direito a qualquer restituição ou indemnização, se lhe for dada aplicação diferente.
 
@@ -98,12 +106,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 20 de Fevereiro de 1970.**
+Promulgado em 20 de Fevereiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/03/05500/02720272.pdf))](https://files.diariodarepublica.pt/1s/1970/03/05500/02720272.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/03/05500/02720272.pdf)
 
 Ministério das Finanças, 20 de Fevereiro de 1970. - O Ministro das Finanças, João Augusto Dias Rosas.

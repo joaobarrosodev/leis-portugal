@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/240-1972-675200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fad8cab8fa6b74f3c3730a3097ef9a58b9efd2c54ed47e0fba2c688e67604ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993ae5717bb9c2705edefb7d6b95da7c18694df0c9397465305f0d480beb1e2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:34Z'
   warnings: []
   errors: []
 ---
@@ -89,33 +93,33 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 6806623$70, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 6806623$70, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 22.º «Comando-Geral da Guarda Fiscal»:
+Capítulo 22.º «Comando-Geral da Guarda Fiscal»:
 
 Reapetrechamento da Guarda Fiscal
 
-###### Artigo 319.º «Investimentos»:
+Artigo 319.º «Investimentos»:
 
 N.º 1 «Construções diversas» ... 626400$00
 
 Ministério da Justiça
 
-### Capitulo 4.º «Direcção-Geral dos Serviços Prisionais»:
+Capitulo 4.º «Direcção-Geral dos Serviços Prisionais»:
 
 Colónia Penitenciária de Alcoentre
 
-###### Artigo 320.º «Investimentos»:
+Artigo 320.º «Investimentos»:
 
 N.º 2 «Terrenos» ... 100000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 5.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 5.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 77.º «Bens duradouros»:
+Artigo 77.º «Bens duradouros»:
 
 N.º 1 «Construções e grandes reparações»:
 
@@ -123,21 +127,21 @@ Alínea 16 «Batalhão de Caçadores
 
 n.º 5) ... (5)5000000$00
 
-### Capítulo 11.º «Direcção-Geral das Construções Escolares»:
+Capítulo 11.º «Direcção-Geral das Construções Escolares»:
 
-###### Artigo 224.º «Bens duradouros»:
+Artigo 224.º «Bens duradouros»:
 
 N.º 5) «Construções e grandes reparações»:
 
 Alínea 2 «Instituto de Botânica do Dr. Gonçalves Sampaio» ... (5)246925$00
 
-### Capítulo 27.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 27.º «Direcção-Geral dos Serviços de Urbanização»:
 
 Melhoramentos rurais
 
 Subsídios para melhoramentos rurais
 
-###### Artigo 519.º «Transferências - Sector público»:
+Artigo 519.º «Transferências - Sector público»:
 
 N.º 1 «Autarquias locais» ... 833298$70
 
@@ -145,20 +149,20 @@ N.º 1 «Autarquias locais» ... 833298$70
 
 ... 6806623$70
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receitas:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 5246925$00
+Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 5246925$00
 
-### Capítulo 14.º, artigo 308.º «Reposições não abatidas nos pagamentos» ... 1559698$70
+Capítulo 14.º, artigo 308.º «Reposições não abatidas nos pagamentos» ... 1559698$70
 
 ... 6806623$70
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 8 de Julho de 1972.**
+Promulgado em 8 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

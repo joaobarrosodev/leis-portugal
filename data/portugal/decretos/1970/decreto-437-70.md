@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/21500/13231324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/437-1970-149235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 767dc5bb730fd075fd7a8e7333069a59ad6082bf0f2bad55a29204d485c0665b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af560aa3e1d30d3a5dcedaed0ac6c5c39d6c24fbff9e06d78ae7a4840433f373
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,29 @@ relationships:
   target: pt:dre:409295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409295:por
+  label: Revogado pelo(a) Decreto n.º 786/76 - Diário da República n.º 256/1976, Série I de 1976-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/786-1976-409295
+  date: '1976-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:20Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +110,13 @@ Considerando o disposto nos artigos 1.º, 6.º, 8.º, 9.º e 10.º da [Lei n.º 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a instalação da Bateria Antiaérea de Massamá, no concelho de Sintra, indicados nas colecções de cartas a que alude o artigo 9.º deste diploma e constituindo duas zonas definidas como segue:
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a instalação da Bateria Antiaérea de Massamá, no concelho de Sintra, indicados nas colecções de cartas a que alude o artigo 9.º deste diploma e constituindo duas zonas definidas como segue:
 
 a) 1.ª zona: terrenos situados num círculo de raio igual a 200 m com o centro no posto de comando da Bateria;
 
 b) 2.ª zona: terrenos situados na área confinante com a anterior e limitada pela circunferência com o raio de 500 m, concêntrica com o círculo mencionado na alínea a).
 
-###### Art. 2.º A área descrita na alínea a) do artigo anterior fica sujeita a servidão militar, nos termos dos artigos 8.º e 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença da autoridade militar competente, a execução dos trabalhos ou actividades seguintes:
+Art. 2.º A área descrita na alínea a) do artigo anterior fica sujeita a servidão militar, nos termos dos artigos 8.º e 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença da autoridade militar competente, a execução dos trabalhos ou actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -119,19 +132,19 @@ f) Trabalhos de levantamento fotográfico ou topográfico;
 
 g) Instalação de linhas ou cabos de transporte de energia eléctrica, ou de ligações telefónicas, aéreas ou subterrâneas.
 
-###### Art. 3.º Na 2.ª zona de servidão militar definida na alínea b) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer trabalhos ou actividades discriminados nas alíneas a), b), d), e), f) e g) do artigo anterior, sendo porém dispensadas destas licenças as construções, ou a plantação de árvores e arbustos não constituindo bosques ou matas, cujas alturas não excedam as indicadas no quadro anexo e se situem nas áreas definidas pelos azimutes cartográficos e arcos de circunferência também ali indicados.
+Art. 3.º Na 2.ª zona de servidão militar definida na alínea b) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer trabalhos ou actividades discriminados nas alíneas a), b), d), e), f) e g) do artigo anterior, sendo porém dispensadas destas licenças as construções, ou a plantação de árvores e arbustos não constituindo bosques ou matas, cujas alturas não excedam as indicadas no quadro anexo e se situem nas áreas definidas pelos azimutes cartográficos e arcos de circunferência também ali indicados.
 
-###### Art. 4.º Em ambas as zonas de servidão militar fica igualmente proibido o sobrevoo de aviões, balões e outras aeronaves a altitude inferior a 3000 m.
+Art. 4.º Em ambas as zonas de servidão militar fica igualmente proibido o sobrevoo de aviões, balões e outras aeronaves a altitude inferior a 3000 m.
 
-###### Art. 5.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência nos artigos 2.º e 3.º
+Art. 5.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência nos artigos 2.º e 3.º
 
-###### Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando da Bateria, ao Governo Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
+Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando da Bateria, ao Governo Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
 
-###### Art. 7.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
+Art. 7.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
 
-###### Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro do Exército; das decisões respeitantes a demolições previstas no artigo 7.º cabe recurso para o governador militar de Lisboa e da decisão deste para o Ministro do Exército.
+Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro do Exército; das decisões respeitantes a demolições previstas no artigo 7.º cabe recurso para o governador militar de Lisboa e da decisão deste para o Ministro do Exército.
 
-###### Art. 9.º As áreas descritas no artigo 1.º serão demarcadas nas cartas n.os 416 e 430 dos Serviços Cartográficos do Exército, na escala de 1:25000, organizando-se nove colecções com a classificação de «reservado», que terão os destinos seguintes:
+Art. 9.º As áreas descritas no artigo 1.º serão demarcadas nas cartas n.os 416 e 430 dos Serviços Cartográficos do Exército, na escala de 1:25000, organizando-se nove colecções com a classificação de «reservado», que terão os destinos seguintes:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -149,16 +162,16 @@ Duas ao Ministério do Interior.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches.
 
-**Promulgado em 31 de Agosto de 1970.**
+Promulgado em 31 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro a que se refere o artigo 3.º do Decreto n.º 437/70
 
 Bateria de Massamá
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/21500/13231324.pdf))](https://files.diariodarepublica.pt/1s/1970/09/21500/13231324.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/21500/13231324.pdf)
 
 Ministério do Exército, 31 de Agosto de 1970. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/20500/13111314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 703c531210af22bc23c2a84f258be664478cfb32e5222380fcce7ae4e26bf336
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31d11dc35f4c949910c15c108cc48580ecefab72633c5542736ccdbe2f100796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direção Geral da Administração Escolar
+- Direcção Geral de Pessoal e Administração
+- Direcção Geral do Equipamento Escolar
+- Extinção de Lugares
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Ministério da Educação e Investigação Científica
+- Orgânica
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Pessoal Técnico
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
+- Transferência de Competências
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685012:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:312244:por
+  label: Rectificado pela DECL.DD8500.02.10.1975.PCM, DG.IS [228] de 02.10.1975
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-312244
+  date: '1975-10-02'
+- type: repealed_by
+  target: pt:dre:404482:por
+  label: "Revogado, em tudo o que se refira à Direcção-Geral de Pessoal e Adminstração, pelo DEC LEI.552/77.31.12.1977.MEIC,\
+    \ DR.IS [302]2ºSupl de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/552-1977-404482
+  date: '1977-12-31'
+- type: repealed_by
+  target: pt:dre:328663:por
+  label: "Revogado, em tudo o que respeita à Direcção-Geral do Equipamento Escolar, pelo DEC LEI.303/78.12.10.1978.MEC, DR.IS\
+    \ [235] de 12.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1978-328663
+  date: '1978-10-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:31Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +151,7 @@ Considerando que a política de austeridade enunciada pelo Governo Provisório n
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É extinta a Direcção-Geral da Administração Escolar, criada pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e organizada pelo [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro.
+Artigo 1.º - 1. É extinta a Direcção-Geral da Administração Escolar, criada pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e organizada pelo [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro.
 
 2. Em sua substituição são criadas:
 
@@ -107,13 +159,13 @@ a) Direcção-Geral de Equipamento Escolar;
 
 b) Direcção-Geral de Pessoal e Administração.
 
-###### Art. 2.º - 1. Enquanto não forem reorganizados os serviços referidos no n.º 2 do artigo anterior, o que deverá fazer-se até ao fim do corrente ano, serão as competências da extinta Direcção-Geral da Administração Escolar distribuídas nos termos indicados nos números seguintes.
+Art. 2.º - 1. Enquanto não forem reorganizados os serviços referidos no n.º 2 do artigo anterior, o que deverá fazer-se até ao fim do corrente ano, serão as competências da extinta Direcção-Geral da Administração Escolar distribuídas nos termos indicados nos números seguintes.
 
 2. À Direcção-Geral de Equipamento Escolar serão atribuídas as competências gerais mencionadas no artigo 2.º, n.º 1, alínea b), e n.º 2 do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro.
 
 3. À Direcção-Geral de Pessoal e Administração serão atribuídas as competências gerais mencionadas no artigo 2.º, n.º 1, alíneas a) e c), n.os 2 e 3 do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro.
 
-###### Art. 3.º - 1. Transita para a Direcção-Geral de Equipamento Escolar o serviço seguinte, indicado no artigo 7.º, n.º 1, do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro:
+Art. 3.º - 1. Transita para a Direcção-Geral de Equipamento Escolar o serviço seguinte, indicado no artigo 7.º, n.º 1, do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro:
 
 Direcção dos Serviços de Programação e Instalações.
 
@@ -127,7 +179,7 @@ b) Divisão de Administração e Finanças;
 
 c) Repartição Administrativa.
 
-###### Art. 4.º - 1. Mantêm-se aplicáveis à Direcção-Geral de Equipamento Escolar, com as necessárias adaptações, as disposições constantes dos artigos 3.º a 5.º, 8.º a 11.º, 18.º a 35.º, 37.º [salvo o n.º 1, alíneas d), f) e g), e n.º 2] a 40.º e 42.º do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012).
+Art. 4.º - 1. Mantêm-se aplicáveis à Direcção-Geral de Equipamento Escolar, com as necessárias adaptações, as disposições constantes dos artigos 3.º a 5.º, 8.º a 11.º, 18.º a 35.º, 37.º [salvo o n.º 1, alíneas d), f) e g), e n.º 2] a 40.º e 42.º do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012).
 
 2. Mantêm-se aplicáveis à Direcção-Geral de Pessoal e Administração, com as necessárias adaptações, as disposições constantes dos artigos 3.º a 5.º, 12.º a 17.º, 37.º [salvo o n.º 1, alíneas d), e), f) e g), e n.º 2] a 40.º e 42.º do [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012).
 
@@ -135,7 +187,7 @@ c) Repartição Administrativa.
 
 4. Os lugares de adjunto técnico serão providos por escolha do Ministro de entre diplomados pelos institutos industriais ou comerciais.
 
-###### Art. 5.º - 1. A Direcção-Geral do Equipamento Escolar tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual fará parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, consideradas as alterações constantes dos mapas III e IV.
+Art. 5.º - 1. A Direcção-Geral do Equipamento Escolar tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual fará parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, consideradas as alterações constantes dos mapas III e IV.
 
 2. A Direcção-Geral de Equipamento Escolar tem o pessoal administrativo, técnico auxiliar e auxiliar constante do mapa II anexo ao presente diploma e que fará parte do quadro único do Ministério da Educação e Cultura a que se refere o artigo 22.º, n.º 3, do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, consideradas as alterações constantes dos mapas III e IV.
 
@@ -143,26 +195,26 @@ c) Repartição Administrativa.
 
 4. A Direcção-Geral do Pessoal e Administração tem o pessoal administrativo, técnico auxiliar e auxiliar constante do mapa VI anexo ao presente diploma e que fará parte do quadro único a que se refere o artigo 22.º, n.º 3, do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, consideradas as alterações constantes nos mapas VII e VIII.
 
-###### Art. 6.º - 1. O pessoal que presta serviço na Direcção-Geral da Administração Escolar transitará, em lugares e condições idênticas ou de categorias equivalentes aos que tenha na data de entrada em vigor do presente diploma, para cada um dos dois serviços criados, à excepção dos titulares de lugares de quadro nas categorias de técnico de 3.ª classe, escriturário-dactilógrafo de 2.ª classe, telefonista de 2.ª classe, motorista de 2.ª classe, contínuo de 2.ª classe e servente, agora extintas, que ingressarão nas categorias imediatamente superiores.
+Art. 6.º - 1. O pessoal que presta serviço na Direcção-Geral da Administração Escolar transitará, em lugares e condições idênticas ou de categorias equivalentes aos que tenha na data de entrada em vigor do presente diploma, para cada um dos dois serviços criados, à excepção dos titulares de lugares de quadro nas categorias de técnico de 3.ª classe, escriturário-dactilógrafo de 2.ª classe, telefonista de 2.ª classe, motorista de 2.ª classe, contínuo de 2.ª classe e servente, agora extintas, que ingressarão nas categorias imediatamente superiores.
 
 2. A distribuição de pessoal referida no número anterior será feita mediante despacho do Ministro da Educação e Investigação Científica publicado no Diário do Governo, independentemente de outras formalidades, salvo a anotação de novas situações pelo Tribunal de Contas.
 
-###### Art. 7.º - 1. Os encargos resultantes da execução do presente diploma serão, em 1975, suportados pelas dotações inscritas no Orçamento Geral do Estado para a extinta Direcção-Geral da Administração Escolar.
+Art. 7.º - 1. Os encargos resultantes da execução do presente diploma serão, em 1975, suportados pelas dotações inscritas no Orçamento Geral do Estado para a extinta Direcção-Geral da Administração Escolar.
 
 2. Por despacho ministerial será atribuída a cada uma das Direcções-Gerais a que se refere o presente diploma a respectiva dotação orçamental.
 
-###### Art. 8.º As dúvidas e casos omissos surgidos na execução do presente diploma, bem como as medidas complementares da sua aplicação, serão resolvidos por despacho do Ministro da Educação e Investigação Científica.
+Art. 8.º As dúvidas e casos omissos surgidos na execução do presente diploma, bem como as medidas complementares da sua aplicação, serão resolvidos por despacho do Ministro da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - José Joaquim Fragoso - José Emílio da Silva.
 
-**Promulgado em 28 de Agosto de 1975.**
+Promulgado em 28 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Do MAPA I ao MAPA VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/20500/13111314.pdf))](https://files.diariodarepublica.pt/1s/1975/09/20500/13111314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/20500/13111314.pdf)
 
-**O Ministro da Educação e Investigação Científica, José Emílio da Silva.**
+O Ministro da Educação e Investigação Científica, José Emílio da Silva.

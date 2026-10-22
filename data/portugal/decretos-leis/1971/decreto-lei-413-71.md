@@ -46,40 +46,434 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93fe742176d44c6cc4e583ebdee8645bbe648e568b42d04d724955e00cba3fd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17db3930609a296f0ebc3d897a2215e94eac6636301f073cd76d8e07659d50b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Extinção de Serviços
+- Instituto da Família e Acção Social
+- Ministério da Saúde e Assistência
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:208255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:681228:por
+  label: "Aumentado o quadro tipo anexo ao Estatuto Hospitalar, aprovado pelo Dec Lei 48357, de 27-Abr, de 1968, na redacção\
+    \ do presente diploma, pelo DEC LEI.160/72.13.05.1972.MSA, DG.IS [113] de 13.05.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1972-681228
+  date: '1972-05-13'
+- type: amended_by
+  target: pt:dre:676628:por
+  label: "Alterados os artigos 12.º, n.os 2, 3 e 4, 17.º, 18.º, 33.º, n.º 3, 34.º, n.º 3, 44.º, n.º 1, alínea b), 52.º, 59.º,\
+    \ n.º 3, 61.º, n.º 2, 64.º, n.º 3, 66.º, n.os 4 e 7, 70.º, n.os 1 e 2, 86.º, n.º 1, 91.º, n.º 1, 92.º, n.º 1, e 97.º n.º\
+    \ 1, alíneas c), f), i), k) n) e o) [nas revogações que efectuou aos Decretos-Leis 35108 de 07-Nov de 1945, 42210 de 13-Abr\
+    \ de 1959, 43853 de 10-Ago de 1961, 44320 de 30-Abr de 1962, 46310 de 27-Abr de 1965, e 48166 de 27-Dez de 1957], aditadas\
+    \ as disposições dos artigos 11.º, n.º 6, 16.º, n.º 7, 32.º, n.º 10, 34.º, n.º 1, alínea 1), 65.º, n.º 6, e 70.º n.º 4,\
+    \ alterados os quadros II, VI, VIII, IX e X anexos ao presente diploma, pelo DEC LEI.331/72.22.08.1972.MSA, DG.IS [195]\
+    \ de 22.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1972-676628
+  date: '1972-08-22'
+- type: amended_by
+  target: pt:dre:684451:por
+  label: "Alterado o quadro VI anexo pelo DEC LEI.82/73.03.03.1973.MEN, DG.IS [53] de 03.03.1973, nos termos do estabelecido\
+    \ no nº 3 do seu art. 15º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1973-684451
+  date: '1973-03-03'
+- type: amended_by
+  target: pt:dre:421234:por
+  label: "Altera o quadro VI (na redacção do Dec Lei 331/72, de 22-Ago) anexo ao presente diploma, pelo DEC LEI.333/73.03.07.1973.MSA,\
+    \ DG.IS [154] de 03.07.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1973-421234
+  date: '1973-07-03'
+- type: amended_by
+  target: pt:dre:472685:por
+  label: "Alterado o nº4 do art. 81º pelo DEC LEI.515/74.02.10.1974.MAS, DG.IS [230] de 02.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/515-1974-472685
+  date: '1974-10-02'
+- type: amended_by
+  target: pt:dre:471520:por
+  label: "Prorrogado, por mais um ano, o período de instalação dos serviços e estabelecimentos, além do previsto na parte\
+    \ final do nº2 do art. 79º do presente diploma, pelo DEC LEI.590/74.06.11.1974.MAS, DG.IS [258] de 06.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/590-1974-471520
+  date: '1974-11-06'
+- type: amended_by
+  target: pt:dre:160307:por
+  label: "Alterado o quadro VIIII ( na redacção do Dec Lei 331/72, de 22-Ago) anexo ao presente diploma, pelo DEC LEI.73/75.20.02.1975.MAS,\
+    \ DG.IS [43] de 20.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1975-160307
+  date: '1975-02-20'
+- type: amended_by
+  target: pt:dre:336487:por
+  label: "Extintos os Serviços de Inspecção a que se refere o art. 14º do presente diploma, assim como os lugares do quadro\
+    \ de pessoal constante do quadro II-B da Secretaria-Geral anexo a este diploma pelo DEC LEI.403/75.25.07.1975.MAS, DG.IS\
+    \ [170] de 25.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1975-336487
+  date: '1975-07-25'
+- type: amended_by
+  target: pt:dre:502579:por
+  label: "Estendida a aplicação dos art 79º a 85º à Escola Nacional de Saúde Pública pelo Dec Lei 278/76.1976.04.14.MAS, DG.IS\
+    \ [89] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1976-502579
+  date: '1976-04-14'
+- type: amended_by
+  target: pt:dre:428027:por
+  label: Determinada a entrada em vigor no dia 1 de Abril do corrente ano do quadro x anexo ao presente diploma pelo(a) Portaria
+    n.º 299/76 - Diário da República n.º 113/1976, Série I de 1976-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-1976-428027
+  date: '1976-05-14'
+- type: amended_by
+  target: pt:dre:431395:por
+  label: "Alterado o quadro constante da tabela B da Direcção-Geral dos Hospitais anexo ao presente diploma, alterado pelo\
+    \ Dec Lei 331/72, de 22-Ago, pelo DEC.510/76.03.07.1976.MAI, DR.IS [154] de 03.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/510-1976-431395
+  date: '1976-07-03'
+- type: amended_by
+  target: pt:dre:492685:por
+  label: Alterados o quadro VI da Direção-Geral da Saúde, no referente ao pessoal técnico, assim como o quadro X dos serviços
+    locais, no referente ao pessoal dirigente e pessoal técnico, pelo(a) Portaria n.º 3/77 - Diário da República n.º 3/1977,
+    Série I de 1977-01-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-1977-492685
+  date: '1977-01-05'
+- type: amended_by
+  target: pt:dre:140353:por
+  label: "Alterado o quadro X «Serviços Locais - tabela B» anexo pelo DR.18/77.07.03.1977.MAS, DR.IS [55] de 07.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1977-140353
+  date: '1977-03-07'
+- type: amended_by
+  target: pt:dre:139189:por
+  label: Alterado o quadro do pessoal técnico da Direcção-Geral dos Hospitais no sector de enfermagem, constante da tabela
+    B, anexo ao presente diploma, pelo(a) Portaria n.º 224/77 - Diário da República n.º 96/1977, Série I de 1977-04-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-1977-139189
+  date: '1977-04-26'
+- type: amended_by
+  target: pt:dre:253384:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério dos Assuntos Sociais, pelo DR.39/77.1977.06.15.PCM,\
+    \ DR.IS [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/39-1977-253384
+  date: '1977-06-15'
+- type: amended_by
+  target: pt:dre:468830:por
+  label: Acrescentada uma anotação ao quadro X (na redação da Port 3/77 de de 05-jan) anexo ao presente diploma, pelo(a) Portaria
+    n.º 18/78 - Diário da República n.º 9/1978, Série I de 1978-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18-1978-468830
+  date: '1978-01-11'
+- type: amended_by
+  target: pt:dre:446535:por
+  label: "Dada nova redacção ao nº 3 do art. 59º (alterado pelo Dec Lei 331/72 de 22-ago) e alterado o quadro X anexo (alterado\
+    \ pela Port 224/80 de 06-Mai e pelo Dec Lei 331/72 de 22-ago) pelo DR.7/78.20.02.1978.PCM, DR.IS [42] de 20.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1978-446535
+  date: '1978-02-20'
+- type: amended_by
+  target: pt:dre:329999:por
+  label: Alterado o quadro constante da tabela B da Direcção-Geral dos Hospitais, anexo ao presente diploma, pelo(a) Decreto
+    n.º 89/78 - Diário da República n.º 204/1978, Série I de 1978-09-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/89-1978-329999
+  date: '1978-09-05'
+- type: amended_by
+  target: pt:dre:377739:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos e Planeamento constante do quadro III anexo ao presente diploma,\
+    \ pela PORT.424/79.13.08.1979.PCM, DR.IS [186] de 13.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-1979-377739
+  date: '1979-08-13'
+- type: amended_by
+  target: pt:dre:231286:por
+  label: "Extinta a Direcção-Geral de Saúde, criada no presente diploma, e revogados a al. a) do nº 5 do art. 11º, o nº 2\
+    \ do art. 27º, o art. 30º, as als. a) e b) do nº 1 e as als. a) e b) do nº 2 do art. 31º, os arts. 32º e 35º e os nºs\
+    \ 1, 2, 3, 4 e 5 do art. 36º deste diploma pelo DEC LEI.530/79.31.12.1979.PCM, DR.IS [300-4.º Supl] de 31.12.1979 (Mantidas\
+    \ em vigor as normas revogadas, conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1979-231286
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:353726:por
+  label: "Aumentados os quadros de pssoal da Secretaria-Geral e da Direcção- Geral da Assistência Social pela PORT.714/79.31.12.1979.PCM,\
+    \ DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-1979-353726
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORTARIA 26-D/80, DE 9 DE JANEIRO, PUBLICADA NO DR.IS, 7, 2SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-01-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO X PELA PORTARIA 224/80, DE 6 DE MAIO, PUBLICADA NO DR.IS, 104.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-05-06'
+- type: amended_by
+  target: pt:dre:473912:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral Geral da Assistência Social anexo ao presente diploma, alterado pelo\
+    \ Decreto-Lei n.º 331/72, de 22 de Agosto, pela PORT.242/80.13.05.1980.PCM, DR.IS [110] de 13.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1980-473912
+  date: '1980-05-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORTARIA 301/80, DE 29 DE MAIO, PUBLICADA NO DR.IS, 124.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-05-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDOS OS QUADROS IV E V ANEXOS PELA PORTARIA 534/81, DE 29 DE JUNHO, PUBLICADA NO DR.IS, 146.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-06-29'
+- type: amended_by
+  target: pt:dre:607510:por
+  label: "Alterado o quadro de pessoal pela PORT.380/82.1982.04.16.MFP, DR.IS [88] de 16/Abr/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/380-1982-607510
+  date: '1982-04-16'
+- type: amended_by
+  target: pt:dre:395311:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.621/82.1982.06.22.MFP DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-1982-395311
+  date: '1982-06-22'
+- type: amended_by
+  target: pt:dre:661913:por
+  label: "Alterado o nº 3 do art. 81º pelo DEC LEI.91/84.1984.03.26.PCM DR.IS [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1984-661913
+  date: '1984-03-26'
+- type: amended_by
+  target: pt:dre:654927:por
+  label: "Alterados os anexos I e II pela PORT.247/84.1984.04.18.PCM DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1984-654927
+  date: '1984-04-18'
+- type: amended_by
+  target: pt:dre:620896:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma pelo DEC LEI.210/89.29.06.1989.MS, DR.IS [[147]] de\
+    \ 29.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1989-620896
+  date: '1989-06-29'
+- type: cites
+  target: pt:dre:139408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693639:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:675376:por
+  label: "Rectificado, no referente ao nº 1 do preâmbulo, à al. f) do nº 2 do art. 12º, ao nº 1 do art. 14º, ao art. 17º,\
+    \ às als. b) e c) do nº 1 do art. 25º, à al. c) do nº 4 do art. 33º, aos nsº 4 e 5 do art. 34º, ao nº 6 do art. 36º, ao\
+    \ nº 2 do art. 49º, à epígrafe da subsecção I da secção II do cap. III do tit. II, ao art. 51º, ao nº 5 do art. 71º, ao\
+    \ tit. II, ao nº 8 do art. 74º, ao nº 2 do art. 81º, à al. o) do art. 97º, aos quadros VI, VII, X, e à observação (e)\
+    \ do quadro X, pela RECT.DD315.22.07.1972.PC, DG.IS [170] de 22.07.1972\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-675376
+  date: '1972-07-22'
+- type: repealed_by
+  target: pt:dre:156815:por
+  label: "Revogados a al. b) do nº 2 do art. 8º, os arts. 50º., 51º, 52º e 53º, os nºs 2, 3 e 4 do art. 54º, os nºs 3, 6 e\
+    \ 7 do art. 55º, os nºs 3, 4 e 5 do art. 56º, o art. 57º, os nºs 1, 2, 3, 4 e 5 do art. 59º e a al. c) do nº 1 do art.\
+    \ 76º, e determinada a transição para os centros comunitários de saúde, sem prejuízo das competências próprias das ADS,\
+    \ sempre que a matéria em causa corresponda necessáriamente ao seu âmbito territorial, das funções cometidas às autoridades\
+    \ sanitárias distritais, cometidas pelo art. 57º deste diploma, pelo DEC LEI.519-O2/79.29.12.1979.PCM, DR.IS [299-14º\
+    \ Supl] de 29.12.1979 (Mantidas em vigor as normas revogadas, conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de\
+    \ Abril)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-o2-1979-156815
+  date: '1979-12-29'
+- type: repealed_by
+  target: pt:dre:231308:por
+  label: "Revogados os arts. 49º e 50º, o nº 1 do art. 54º, os nºs 1, 2, 4 e 5 do art. 55º os nºs 1, 2, 6, 7 e 8 do art. 56º\
+    \ , o art. 57º, o art. 58, o nº 6 do art. 59º, o art. 60º e o art. 91º pelo DR.85/79.31.12.1979.PCM, DR.IS [300-9º Supl]\
+    \ de 31.12.1979 (Mantidas em vigor as normas revogadas, conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\
+    )\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/85-1979-231308
+  date: '1979-12-31'
+- type: repealed_by
+  target: pt:dre:678828:por
+  label: "Revogado o nº 5 do artigo 44º do presente diploma pelo Dec-Lei .20/80.29.02.1980.PCM, DR.IS [50] de 29.02.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1980-678828
+  date: '1980-02-29'
+- type: repealed_by
+  target: pt:dre:405702:por
+  label: "Revogada a al. a) do nº 5 do art. 11º, o nº 2 do art. 27º e os arts 30º a 36º e 57º a 59º pelo DEC LEI.74-C/84.1984.03.02.PCM\
+    \ DR.IS [53]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-c-1984-405702
+  date: '1984-03-02'
+- type: repealed_by
+  target: pt:dre:335897:por
+  label: "Revogada a alínea e) do n.º 1 do artigo 22.º pelo DEC LEI.103-A/84.30.03.1984.PCM, DR.IS [76]Supl de 30.03.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-a-1984-335897
+  date: '1984-03-30'
+- type: repealed_by
+  target: pt:dre:421588:por
+  label: "Revogados os artigos 12.º a 18.º, pelo DEC LEI.210/87.20.05.1987.MS, DR.IS [115] de 20.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1987-421588
+  date: '1987-05-20'
+- type: repealed_by
+  target: pt:dre:549983:por
+  label: Revogado o n.º 6 do art. 39.º, no que se refere à Inspecção Técnica de Acção Social, pelo(a) Decreto-Lei n.º 394/89
+    - Diário da República n.º 258/1989, Série I de 1989-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-1989-549983
+  date: '1989-11-09'
+- type: repealed_by
+  target: pt:dre:586007:por
+  label: "Revogada a alínea e) do n.º 1 do artigo 37.º e a alínea d) do n.º 1 do artigo 40.º, pelo DEC LEI.13/93.15.01.1993.MS,\
+    \ DR.IS-A [12] de 15.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1993-586007
+  date: '1993-01-15'
+- type: repealed_by
+  target: pt:dre:633539:por
+  label: "Revogados os artigos 21.º a 26.º pelo DEC LEI.307/93.01.09.1993.MS, DR.IS-A [205] de 01.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1993-633539
+  date: '1993-09-01'
+- type: repealed_by
+  target: pt:dre:646300:por
+  label: "Revogados os artigos 37.º a 41.º pelo DEC LEI.345/93.01.10.1993.MS, DR.IS-A [231] de 01.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1993-646300
+  date: '1993-10-01'
+- type: repealed_by
+  target: pt:dre:208255:por
+  label: "Revogados os art 79º a 85º pelo Dec Lei 215/97.1997.08.18.PCM, DR.IS-A [189] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1997-208255
+  date: '1997-08-18'
 article_structure:
   article_count: 0
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:04Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +652,7 @@ c) Concelhos.
 
 4. Nos concelhos onde se entenda conveniente, considerar-se-á, ainda, a freguesia ou grupos de freguesias.
 
-## TITULO II
+TITULO II
 
 Orgânica do Ministério da Saúde e Assistência
 
@@ -1702,7 +2096,7 @@ O pessoal admitido nos termos do artigo 82.º será inscrito na Caixa Geral de A
 
 ###### ARTIGO 85.º — Comissões instaladoras
 
-**O Ministro da Saúde e Assistência pode determinar, em portaria, a constituição de comissões encarregadas da gerência, reforma ou instalação de certos serviços ou estabelecimentos ou ramos de serviços sob a sua jurisdição, fixando, por despacho, as remunerações dos seus componentes, com o acordo do Ministro das Finanças.**
+O Ministro da Saúde e Assistência pode determinar, em portaria, a constituição de comissões encarregadas da gerência, reforma ou instalação de certos serviços ou estabelecimentos ou ramos de serviços sob a sua jurisdição, fixando, por despacho, as remunerações dos seus componentes, com o acordo do Ministro das Finanças.
 
 ###### ARTIGO 86.º — Alteração de serviços
 
@@ -1824,23 +2218,23 @@ p) [Decreto-Lei n.º 102/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Setembro de 1971.**
+Promulgado em 22 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 QUADRO I
 
 Gabinete do Ministro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 QUADRO II
 
 Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1850,7 +2244,7 @@ QUADRO III
 
 Gabinete de Estudos e Planeamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1862,7 +2256,7 @@ Instituto Nacional de Saúde
 
 Sede
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1874,7 +2268,7 @@ Instituto Nacional de Saúde
 
 Delegação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1884,7 +2278,7 @@ QUADRO VI
 
 Direcção-Geral de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1894,7 +2288,7 @@ QUADRO VII
 
 Parque Sanitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1904,7 +2298,7 @@ QUADRO VIII
 
 Direcção-Geral dos Hospitais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1914,7 +2308,7 @@ QUADRO IX
 
 Direcção-Geral da Assistência Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1924,7 +2318,7 @@ QUADRO X
 
 Serviços locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14061434.pdf)
 
 NOTA
 
@@ -1932,4 +2326,4 @@ Os directores de saúde e os delegados de saúde que dirigirem centros de saúde
 
 Os funcionários que, nos centros de saúde distritais, desempenharem funções de tesoureiros terão um abono para falhas de 150$00 mensais.
 
-**O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

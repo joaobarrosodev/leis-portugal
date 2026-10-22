@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1973-419614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fdb0ec839b64b391bdc416cb55f5459390f9171c7a24ade45f415019ce8ab6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb0808958d6dcfa05f8b64db34f356c41249e76d7876e0ac39cac4740659cf4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direção Geral do Ensino Superior
+- Ensino Superior
+- Estabelecimento de Ensino
+- Formas de Provimento
+- Função Pública
+- Pessoal Administrativo
+- Pessoal Docente
+- Pessoal Técnico Administrativo
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:06Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +112,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os esoriturários-dactilógrafos de 1.ª classe do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, deixam de pertencer a este quadro e o seu provimento obedecerá às normas gerais em vigor, mediante concurso de prestação de provas a realizar em cada escola.
+Artigo 1.º Os esoriturários-dactilógrafos de 1.ª classe do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, deixam de pertencer a este quadro e o seu provimento obedecerá às normas gerais em vigor, mediante concurso de prestação de provas a realizar em cada escola.
 
-###### Art. 2.º - 1. O pessoal docente dos estabelecimentos de ensino superior, proposto por conveniência urgente de serviço, tem direito à remuneração legal desde o dia da entrada em exercício efectivo de funções, comunicada à Direcção-Geral do Ensino Superior pelo reitor.
+Art. 2.º - 1. O pessoal docente dos estabelecimentos de ensino superior, proposto por conveniência urgente de serviço, tem direito à remuneração legal desde o dia da entrada em exercício efectivo de funções, comunicada à Direcção-Geral do Ensino Superior pelo reitor.
 
 2. Se o contrato não for autorizado, o servidor terá sempre direito aos abonos correspondentes ao tempo de serviço prestado até à data da recusa.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 8 de Agosto de 1973.**
+Promulgado em 8 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

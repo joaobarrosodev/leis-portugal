@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/16700/18081812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1977-250982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e1df9e4723e80a76a33f78be37a8a55b4b8660a3a31c5783dc35609a90ed832
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b45b649efa17ec25f87dd96253cee9067911455bba9f22d9c430b7ad5872405e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alqueva
+- Definição de Competências
+- Formas de Provimento
+- Gabinete Coordenador do Alqueva
+- Orgânica
+- Quadro de Pessoal
+- Secretário de Estado da Coordenação Económica
 relationships:
 - type: amended_by
   target: pt:dre:633536:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278226:por
+  label: "Alterado o artº 21º pelo DEC LEI.400/77.1977.09.24.MPCE, DR.IS [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1977-278226
+  date: '1977-09-24'
+- type: amended_by
+  target: pt:dre:601080:por
+  label: "Aumentado o quadro de pessoal pela PORT.151/82.1982.02.02.MFP DR.IS [27] DE 02/FEV/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/151-1982-601080
+  date: '1982-01-18'
+- type: amended_by
+  target: pt:dre:310812:por
+  label: "Substituído o quadro de pessoal pela PORT.148/83.1983.02.14.MFP DR.IS [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-1983-310812
+  date: '1983-02-14'
+- type: amended_by
+  target: pt:dre:228031:por
+  label: "Aumentado um lugar ao quadro de pessoal aprovado pelo presente diploma, pela PORT.368/86.18.07.1986.MF, DR.IS [163]\
+    \ de 18.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-1986-228031
+  date: '1986-07-18'
+- type: amended_by
+  target: pt:dre:633536:por
+  label: Extinto o Gabinete Coordenador do Alqueva, criado pelo presente diploma, pelo(a) Decreto-Lei n.º 305/93 - Diário
+    da República n.º 205/1993, Série I-A de 1993-09-01, e transferidos os direitos e valores patrimoniais assim como o arquivo
+    documental daquele gabinete para a Comissão Instaladora da Empresa do Alqueva criada por aquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1993-633536
+  date: '1993-09-01'
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:34Z'
   warnings: []
   errors: []
 ---
@@ -110,17 +157,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza, atribuição e competências
 
-###### Artigo 1.º- 1. É criado o Gabinete Coordenador do Alqueva, que adiante se designa abreviadamente por Gabinete, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, dependente do Secretário de Estado da Coordenação Económica.
+Artigo 1.º- 1. É criado o Gabinete Coordenador do Alqueva, que adiante se designa abreviadamente por Gabinete, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, dependente do Secretário de Estado da Coordenação Económica.
 
 2. O Gabinete tem como zona de actuação principal a área da bacia hidrográfica do rio Guadiana, podendo estender-se às outras áreas conexas.
 
 3. A sede do Gabinete é em Beja.
 
-###### Art. 2.º - 1. O Gabinete tem por atribuição promover, coordenar e garantir a execução, nos termos do presente diploma, das acções de aproveitamento das potencialidades hídricas e energéticas da bacia do Guadiana tendo em conta a necessidade de assegurar o desenvolvimento harmónico de todas as zonas afectadas directa ou indirectamente pela implantação do sistema de produção hidroagrícola.
+Art. 2.º - 1. O Gabinete tem por atribuição promover, coordenar e garantir a execução, nos termos do presente diploma, das acções de aproveitamento das potencialidades hídricas e energéticas da bacia do Guadiana tendo em conta a necessidade de assegurar o desenvolvimento harmónico de todas as zonas afectadas directa ou indirectamente pela implantação do sistema de produção hidroagrícola.
 
 2. Para cabal cumprimento do disposto no número anterior, o Gabinete coordenará a acção dos departamentos sectoriais (agricultura, hidráulica, energia e outros), dos municípios e das empresas públicas que tiverem a seu cargo a execução do programa de aproveitamento hídrico e energético do Guadiana, bem como a criação de centros de apoio e a elaboração de normas adequadas à exploração dos empreendimentos.
 
-###### Art. 3.º Para prossecução da atribuição referida no artigo anterior compete, designadamente, ao Gabinete, em ligação com as entidades, órgãos e serviços de planeamento, projecto e execução sectoriais:
+Art. 3.º Para prossecução da atribuição referida no artigo anterior compete, designadamente, ao Gabinete, em ligação com as entidades, órgãos e serviços de planeamento, projecto e execução sectoriais:
 
 a) Elaborar o plano geral e os planos anuais de obras, bem como os respectivos orçamentos ou estimativas de custo, com base nos planos sectoriais;
 
@@ -146,7 +193,7 @@ k) Propor ao Governo as providências que considerar convenientes para assegurar
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º São órgãos do Gabinete:
+Art. 4.º São órgãos do Gabinete:
 
 a) O conselho coordenador;
 
@@ -154,7 +201,7 @@ b) A direcção:
 
 c) O conselho administrativo.
 
-###### Art. 5.º - 1. O conselho coordenador será composto pelos seguintes membros:
+Art. 5.º - 1. O conselho coordenador será composto pelos seguintes membros:
 
 a) O director, o subdirector e os directores de serviço do Gabinete;
 
@@ -168,7 +215,7 @@ d) Representantes dos municípios referidos no n.º 2 do artigo 2.º
 
 3. A composição do conselho coordenador poderá ser alterada mediante portaria conjunta do Primeiro-Ministro, Ministro do Plano e Coordenação Económica e Ministros que superintendam nos serviços ou organismos a que as alterações respeitem.
 
-###### Art. 6.º - 1. Os membros do conselho coordenador serão designados:
+Art. 6.º - 1. Os membros do conselho coordenador serão designados:
 
 a) Os representantes dos departamentos sectoriais, do órgão regional de planeamento e das empresas públicas, pelos Ministros responsáveis ou de tutela;
 
@@ -178,7 +225,7 @@ b) Os representantes dos municípios, do modo e em número fixados por despacho 
 
 3. O presidente do conselho coordenador será o director do Gabinete e será substituído nas suas faltas e impedimentos pelo membro do conselho eleito na reunião.
 
-###### Art. 7.º Compete ao conselho coordenador:
+Art. 7.º Compete ao conselho coordenador:
 
 a) Apreciar e emitir parecer sobre:
 
@@ -194,7 +241,7 @@ Outros assuntos que a direcção ou qualquer outro elemento do conselho coordena
 
 b) Manter-se ao corrente da execução dos planos e programas aprovados e bem assim da restante actividade do Gabinete.
 
-###### Art. 8.º - 1. O conselho coordenador é convocado pelo presidente e reúne ordinariamente de dois em dois meses, e extraordinariamente sempre que for convocado pelo presidente, quer por iniciativa própria, quer a requerimento de um terço dos seus membros ou da direcção.
+Art. 8.º - 1. O conselho coordenador é convocado pelo presidente e reúne ordinariamente de dois em dois meses, e extraordinariamente sempre que for convocado pelo presidente, quer por iniciativa própria, quer a requerimento de um terço dos seus membros ou da direcção.
 
 2. As deliberações do conselho coordenador são tomadas por maioria dos votos dos membros presentes tendo o presidente voto de qualidade.
 
@@ -204,9 +251,9 @@ b) Manter-se ao corrente da execução dos planos e programas aprovados e bem as
 
 5. O disposto no número anterior é aplicável às pessoas eventualmente convocadas para as reuniões, ao abrigo do n.º 2 do artigo 5.º deste diploma, atendendo-se à categoria a que forem equiparadas, quando não sejam funcionários.
 
-###### Art. 9.º A direcção é constituída por um director e um subdirector, que o coadjuvará e substituirá nas suas faltas e impedimentos.
+Art. 9.º A direcção é constituída por um director e um subdirector, que o coadjuvará e substituirá nas suas faltas e impedimentos.
 
-###### Art. 10.º Compete à direcção:
+Art. 10.º Compete à direcção:
 
 a) Elaborar o plano geral de obras, bem como os respectivos orçamentos ou estimativas de custo;
 
@@ -232,7 +279,7 @@ l) Desenvolver outras actividades de coordenação, contrôle, estatística e pr
 
 2. Os documentos referidos nas alíneas a), b), c) e d) do número anterior serão elaborados em estreita ligação com as entidades, órgãos e serviços de planeamento, projecto e execução sectoriais.
 
-###### Art. 11.º - 1. O conselho administrativo é constituído por um presidente e dois vogais.
+Art. 11.º - 1. O conselho administrativo é constituído por um presidente e dois vogais.
 
 2. As funções de presidente serão desempenhadas pelo director do Gabinete e, na sua falta, pelo subdirector.
 
@@ -240,7 +287,7 @@ l) Desenvolver outras actividades de coordenação, contrôle, estatística e pr
 
 4. Servirá de secretário o funcionário do Gabinete que o director designar.
 
-###### Art. 12.º Compete ao conselho administrativo:
+Art. 12.º Compete ao conselho administrativo:
 
 a) Organizar o projecto de orçamento anual das receitas e das despesas;
 
@@ -252,15 +299,15 @@ d) Pronunciar-se sobre as contas de gerência e a regularidade de todos os pagam
 
 e) Pronunciar-se sobre quaisquer outros assuntos submetidos à sua apreciação pelo respectivo presidente.
 
-###### Art. 13.º - 1. O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar.
+Art. 13.º - 1. O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar.
 
 2. De todas as sessões do conselho serão lavradas actas em livro próprio.
 
-###### Art. 14.º A organização e funcionamento dos serviços do Gabinete serão regulados por decreto, nos termos do artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 14.º A organização e funcionamento dos serviços do Gabinete serão regulados por decreto, nos termos do artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
 ### CAPÍTULO III — Meios financeiros e sua gestão
 
-###### Art. 15.º Constituem receitas do Gabinete:
+Art. 15.º Constituem receitas do Gabinete:
 
 a) As dotações do Orçamento Geral do Estado;
 
@@ -278,25 +325,25 @@ g) O saldo da gerência de cada ano;
 
 h) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
 
-###### Art. 16.º Constituem encargos do Gabinete as despesas a realizar com a instalação e o funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições.
+Art. 16.º Constituem encargos do Gabinete as despesas a realizar com a instalação e o funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições.
 
-###### Art. 17.º A gestão financeira e patrimonial do Gabinete será disciplinada pelas previsões constantes dos orçamentos anuais dos programas anuais de trabalho e de investimentos.
+Art. 17.º A gestão financeira e patrimonial do Gabinete será disciplinada pelas previsões constantes dos orçamentos anuais dos programas anuais de trabalho e de investimentos.
 
-###### Art. 18.º - 1. Os fundos do Gabinete serão depositados na Caixa Geral de Depósitos e movimentados por meio de cheques assinados por dois membros do conselho administrativo, sendo um deles o respectivo presidente.
+Art. 18.º - 1. Os fundos do Gabinete serão depositados na Caixa Geral de Depósitos e movimentados por meio de cheques assinados por dois membros do conselho administrativo, sendo um deles o respectivo presidente.
 
 2. Poderá ser constituído um fundo de maneio de quantitativo a fixar por despacho do Secretário de Estado da Coordenação Económica, destinado ao pagamento directo de pequenas despesas ou despesas de liquidação inadiável.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 19.º - 1. O Gabinete disporá do pessoal dirigente, administrativo e auxiliar constante do quadro publicado em anexo ao presente diploma, que dele fica a constituir parte integrante.
+Art. 19.º - 1. O Gabinete disporá do pessoal dirigente, administrativo e auxiliar constante do quadro publicado em anexo ao presente diploma, que dele fica a constituir parte integrante.
 
 2. O quadro a que se refere o número anterior poderá ser alterado por portaria conjunta dos Ministros do Plano e Coordenação Económica e das Finanças e do Secretário de Estado da Administração Pública.
 
-###### Art. 20.º - 1. O Gabinete disporá de pessoal técnico requisitado às empresas públicas, de acordo com a legislação em vigor, ou destacado dos departamentos sectoriais referidos no n.º 2 do artigo 2.º, por despacho conjunto do Ministro do Plano e Coordenação Económica e do Ministro responsável pelo departamento.
+Art. 20.º - 1. O Gabinete disporá de pessoal técnico requisitado às empresas públicas, de acordo com a legislação em vigor, ou destacado dos departamentos sectoriais referidos no n.º 2 do artigo 2.º, por despacho conjunto do Ministro do Plano e Coordenação Económica e do Ministro responsável pelo departamento.
 
 2. Para efeitos do disposto no número anterior, os quadros do pessoal técnico dos departamentos sectoriais poderão ser aumentados por portaria conjunta do Ministro do Plano e Coordenação Económica, do Ministro das Finanças e do Ministro responsável pelo departamento e do Secretário de Estado da Administração Pública.
 
-###### Art. 21.º - 1. Os lugares de director e subdirector serão providos de entre indivíduos de reconhecida competência, habilitados com curso superior adequado.
+Art. 21.º - 1. Os lugares de director e subdirector serão providos de entre indivíduos de reconhecida competência, habilitados com curso superior adequado.
 
 2. O director será nomeado por despacho do Primeiro-Ministro e do Ministro do Plano e Coordenação Económica, ouvidos os Ministros das Obras Públicas, da Indústria e Tecnologia e da Agricultura e Pescas.
 
@@ -306,7 +353,7 @@ h) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 
 5. O pessoal dirigente será provido em comissão de serviço por tempo indeterminado.
 
-###### Art. 22.º - 1. Por despacho do Secretário de Estado da Coordenação Económica, serão providos os restantes lugares do quadro de harmonia com as condições seguintes:
+Art. 22.º - 1. Por despacho do Secretário de Estado da Coordenação Económica, serão providos os restantes lugares do quadro de harmonia com as condições seguintes:
 
 a) Chefe de secção, de entre diplomados com o curso superior adequado ou de entre primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -318,19 +365,19 @@ d) Escriturários-dactilógrafos, por concurso de prestação de provas, de entr
 
 2. O Secretário de Estado poderá condicionar o provimento dos lugares do quadro à realização de concursos ou cursos de promoção, de harmonia com as condições julgadas convenientes.
 
-###### Art. 23.º - 1. O provimento do quadro do pessoal administrativo e auxiliar anexo ao presente diploma será feito por nomeação, salvo os casos de provimento por contrato ou assalariamento, nos termos da lei geral.
+Art. 23.º - 1. O provimento do quadro do pessoal administrativo e auxiliar anexo ao presente diploma será feito por nomeação, salvo os casos de provimento por contrato ou assalariamento, nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior terão carácter provisório durante um ano, findo o qual o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Quando a nomeação recair em funcionários provenientes de outros serviços do Estado ou de institutos públicos, o tempo de serviço neles prestado contará para efeitos de nomeação definitiva, desde que tenham exercido funções da mesma natureza. Quando assim não for, as funções serão exercidas em comissão de serviço durante o período de nomeação provisória, findo o qual o funcionário regressará ao serviço de origem caso não tenha revelado aptidão para o cargo.
 
-###### Art. 24.º - 1. Quando se mostre necessário, o Secretário de Estado da Coordenação Económica poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no Gabinete com o acordo do Ministério requisitando, se for esse o caso.
+Art. 24.º - 1. Quando se mostre necessário, o Secretário de Estado da Coordenação Económica poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no Gabinete com o acordo do Ministério requisitando, se for esse o caso.
 
 2. O lugar do pessoal requisitado ao abrigo do número anterior poderá ser preenchido interinamente.
 
-###### Art. 25.º O tempo de serviço prestado no Gabinete nos termos dos artigos 20.º, 21.º, 23.º e 24.º contará, para todos os efeitos, como se tivesse sido prestado no quadro de origem dos funcionários, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os respectivos à promoção.
+Art. 25.º O tempo de serviço prestado no Gabinete nos termos dos artigos 20.º, 21.º, 23.º e 24.º contará, para todos os efeitos, como se tivesse sido prestado no quadro de origem dos funcionários, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os respectivos à promoção.
 
-###### Art. 26.º - 1. O Secretário de Estado da Coordenação Económica poderá autorizar o Gabinete a contratar ou ajustar com entidades ou indivíduos a ele estranhos a realização de estudos, a elaboração de pareceres, anteprojectos e outros trabalhos de carácter técnico ou administrativo em regime de prestação eventual de serviços ou de tarefa.
+Art. 26.º - 1. O Secretário de Estado da Coordenação Económica poderá autorizar o Gabinete a contratar ou ajustar com entidades ou indivíduos a ele estranhos a realização de estudos, a elaboração de pareceres, anteprojectos e outros trabalhos de carácter técnico ou administrativo em regime de prestação eventual de serviços ou de tarefa.
 
 2. Nos casos em que o recrutamento seja feito em regime de tarefa, deverá o ajuste ser reduzido a escrito, em que se mencionem concretamente a natureza dos trabalhos, seu montante e o prazo previsto para a sua execução.
 
@@ -338,24 +385,24 @@ d) Escriturários-dactilógrafos, por concurso de prestação de provas, de entr
 
 4. O recrutamento dos indivíduos a que se referem os números anteriores far-se-á sem prejuízo do disposto no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
 
-###### Art. 27.º O ingresso no quadro do pessoal escolhido em primeiro provimento de lugares criados no presente diploma, com excepção do pessoal dirigente, far-se-á mediante lista nominativa, a publicar no Diário da República, aprovada pelo Secretário de Estado da Coordenação Económica e visada pelo Tribunal de Contas, considerando-se o pessoal investido no respectivo lugar a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades, salvo o respeitante a habilitações literárias.
+Art. 27.º O ingresso no quadro do pessoal escolhido em primeiro provimento de lugares criados no presente diploma, com excepção do pessoal dirigente, far-se-á mediante lista nominativa, a publicar no Diário da República, aprovada pelo Secretário de Estado da Coordenação Económica e visada pelo Tribunal de Contas, considerando-se o pessoal investido no respectivo lugar a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades, salvo o respeitante a habilitações literárias.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 28.º Até ao final do corrente ano, os encargos emergentes do presente diploma serão custeados por força das dotações já inscritas para o corrente ano no orçamento do Ministério do Plano e Coordenação Económica, ou provenientes do seu eventual reforço, considerando-se para esse efeito antecipados os respectivos duodécimos.
+Art. 28.º Até ao final do corrente ano, os encargos emergentes do presente diploma serão custeados por força das dotações já inscritas para o corrente ano no orçamento do Ministério do Plano e Coordenação Económica, ou provenientes do seu eventual reforço, considerando-se para esse efeito antecipados os respectivos duodécimos.
 
-###### Art. 29.º As dúvidas ou omissões que surjam na aplicação do presente diploma serão resolvidas por despacho do Ministro do Plano e Coordenação Económica, com o acordo do Ministro das Finanças, quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
+Art. 29.º As dúvidas ou omissões que surjam na aplicação do presente diploma serão resolvidas por despacho do Ministro do Plano e Coordenação Económica, com o acordo do Ministro das Finanças, quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - António Miguel Morais Barreto - João Orlando de Almeida Pina.
 
-**Promulgado em 4 de Julho de 1977.**
+Promulgado em 4 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal a que se refere o artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/16700/18081812.pdf))](https://files.diariodarepublica.pt/1s/1977/07/16700/18081812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/16700/18081812.pdf)
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barros de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barros de Sousa Gomes.

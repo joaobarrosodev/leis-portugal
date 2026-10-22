@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43177-1960-514982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1c80f3ea52e98a5660dde3e7ecb1569855f75fd62ea45b358f04713c17f22de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 048cc30e03ffe96c20abb87142d2a0e058ebc86179c62af1163c408688ccd61a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Hidrográfico
+- Ministério da Marinha
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:463597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589503:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:39Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +101,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I) Constituição e fins
 
-###### Artigo 1.º É criado pelo presente diploma o Instituto Hidrográfico, que fica integrado na orgânica do Ministério da Marinha e ao qual incumbem os estudos e actividades nacionais relativos à hidrografia e oceanografia física e à assistência náutica às marinhas de guerra, mercante, de pesca e recreio.
+Artigo 1.º É criado pelo presente diploma o Instituto Hidrográfico, que fica integrado na orgânica do Ministério da Marinha e ao qual incumbem os estudos e actividades nacionais relativos à hidrografia e oceanografia física e à assistência náutica às marinhas de guerra, mercante, de pesca e recreio.
 
 § 1.º A acção do Instituto Hidrográfico abrange todo o território nacional, pelo que são nele concentrados os serviços até hoje afectos à Direcção de Hidrografia e Navegação do Ministério da Marinha e às Missões e Brigadas Hidrográficas do Ministério do Ultramar.
 
 § 2.º Para todos os efeitos, é considerada como hidrográfica a missão geoidrográfica da Guiné.
 
-###### Art. 2.º Os programas anuais dos trabalhas a realizar pelo Instituto Hidrográfico serão por este elaborados, ouvidos o Estado-Maior da Armada e a Junta de Investigações do Ultramar, esta sòmente na parte que se refere ao ultramar, e submetidos à apreciação e aprovação conjunta, na sua forma definitiva, dos Ministros da Marinha e do Ultramar.
+Art. 2.º Os programas anuais dos trabalhas a realizar pelo Instituto Hidrográfico serão por este elaborados, ouvidos o Estado-Maior da Armada e a Junta de Investigações do Ultramar, esta sòmente na parte que se refere ao ultramar, e submetidos à apreciação e aprovação conjunta, na sua forma definitiva, dos Ministros da Marinha e do Ultramar.
 
 Art 3.º Compete ao Instituto Hidrográfico:
 
@@ -140,17 +151,17 @@ t) Promover a instalação de postos meteorológicos a bordo dos navios da Armad
 
 § único. Na realização dos trabalhos referidos na alínea t) serão dadas todas as facilidades ao Serviço Meteorológico Nacional para que possa acompanhar a execução dos mesmos.
 
-###### Art. 4.º O Instituto Hidrográfico será obrigatòriamente consultado sobre projectos ou planos de alumiamento ou balizagem de costas, portos e canais navegáveis, a realizar em qualquer ponto do território nacional.
+Art. 4.º O Instituto Hidrográfico será obrigatòriamente consultado sobre projectos ou planos de alumiamento ou balizagem de costas, portos e canais navegáveis, a realizar em qualquer ponto do território nacional.
 
 § único. Quando for consultado, também se pronunciará sobre as obras de hidráulica marítima e sobre dragagens e obras que possam alterar o regime hidrográfico dos portos e barras.
 
-###### Art. 5.º A edição de cartas marítimas e demais documentos náuticos utilizados pela navegação marítima no território nacional, bem como o fornecimento, distribuição, permuta ou venda, são da competência exclusiva do Instituto Hidrográfico.
+Art. 5.º A edição de cartas marítimas e demais documentos náuticos utilizados pela navegação marítima no território nacional, bem como o fornecimento, distribuição, permuta ou venda, são da competência exclusiva do Instituto Hidrográfico.
 
-###### Art. 6.º O Instituto Hidrográfico manterá o Estado-Maior da Armada a par de todos os assuntos relativos às suas actividades que ofereçam interesse militar.
+Art. 6.º O Instituto Hidrográfico manterá o Estado-Maior da Armada a par de todos os assuntos relativos às suas actividades que ofereçam interesse militar.
 
 II) Dos órgãos
 
-###### Art. 7.º O Instituto Hidrográfico compreende:
+Art. 7.º O Instituto Hidrográfico compreende:
 
 a) Direcção;
 
@@ -176,9 +187,9 @@ Missões oceanográficas e brigadas oceanográficas independentes.
 
 Outras missões e brigadas independentes.
 
-###### Art. 8.º À direcção compete orientar e dirigir todas as actividades do Instituto.
+Art. 8.º À direcção compete orientar e dirigir todas as actividades do Instituto.
 
-###### Art. 9.º Ao serviço de hidrografia compete especialmente:
+Art. 9.º Ao serviço de hidrografia compete especialmente:
 
 1.º Compilar, seleccionar, coordenar, utilizar e arquivar os elementos fornecidos pelos órgãos externos, pelos órgãos centrais e por organismos nacionais e estrangeiros com o fim de elaborar, actualizar e corrigir as cartas hidrográficas, oceanográficas, de pescas, litológicas, de interesse militar e outras, ocupando-se do seu desenho, gravura e impressão;
 
@@ -194,7 +205,7 @@ Outras missões e brigadas independentes.
 
 7.º Organizar o curso de engenheiros hidrógrafos e outros que venham a ser criados para a preparação especializada do pessoal, de acordo com as directivas emitidas pelo Estado-Maior da Armada.
 
-###### Art. 10.º Ao serviço de oceanografia física compete especialmente:
+Art. 10.º Ao serviço de oceanografia física compete especialmente:
 
 1.º Realizar e publicar estudos e trabalhos sobre:
 
@@ -212,7 +223,7 @@ f) Oceanografia militar.
 
 2.º Elaborar e fornecer aos órgãos externos e outros as instruções que permitam orientá-los tècnicamente na execução dos trabalhos referidos no número anterior e fiscalizar os elementos por eles colhidos.
 
-###### Art. 11.º Ao serviço de navegação compete especialmente:
+Art. 11.º Ao serviço de navegação compete especialmente:
 
 1.º Realizar e publicar estudos e trabalhos sobre:
 
@@ -256,17 +267,17 @@ h) Outras publicações técnicas da especialidade.
 
 4.º Ter a seu cargo a oficina de instrumentos científicos do Instituto Hidrográfico e de instrumentos náuticos da Armada.
 
-###### Art. 12.º Ao serviço de abastecimentos, além das funções que lhe são atribuídas pela legislação da Armada, compete administrar os depósitos de material e instrumentos e de documentos náuticos e a distribuição, permuta ou venda dos referidos documentos.
+Art. 12.º Ao serviço de abastecimentos, além das funções que lhe são atribuídas pela legislação da Armada, compete administrar os depósitos de material e instrumentos e de documentos náuticos e a distribuição, permuta ou venda dos referidos documentos.
 
-###### Art. 13.º À secretaria compete todo o serviço de expediente da direcção e dos órgãos centrais.
+Art. 13.º À secretaria compete todo o serviço de expediente da direcção e dos órgãos centrais.
 
-###### Art. 14.º À biblioteca compete conservar, devidamente catalogados, os livros, publicações periódicas e outros documentos pertencentes ao Instituto, com excepção daqueles que devam ser mantidos no Depósito de Documentos Náuticos.
+Art. 14.º À biblioteca compete conservar, devidamente catalogados, os livros, publicações periódicas e outros documentos pertencentes ao Instituto, com excepção daqueles que devam ser mantidos no Depósito de Documentos Náuticos.
 
 § 1.º A biblioteca fornecerá, mediante requisição, aos órgãos externos e aos outros órgãos centrais do Instituto, os livros, publicações periódicas e outros documentos de que aqueles órgãos necessitem.
 
 § 2.º Na dependência da biblioteca funciona o arquivo geral, destinado a conservar, devidamente classificados, todos os documentos que pelos outros órgãos do Instituto lhe forem entregues para arquivo.
 
-###### Art. 15.º Aos órgãos externos compete especialmente:
+Art. 15.º Aos órgãos externos compete especialmente:
 
 1.º Executar, no mar ou no campo, os estudos e trabalhos necessários à colheita dos elementos pedidos pelos órgãos centrais e efectuar cálculos e desenhos preliminares necessários à verificação do trabalho executado e ao seu prosseguimento;
 
@@ -274,13 +285,13 @@ h) Outras publicações técnicas da especialidade.
 
 § único. As relações das missões com entidades estranhas ao Instituto são feitas por intermédio da respectiva direcção, excepto quando, em serviço nas províncias ultramarinas ou ilhas adjacentes, se torne conveniente estabelecê-las directamente com as autoridades locais.
 
-###### Art. 16.º O Instituto Hidrográfico deverá enviar cópias dos relatórios anuais dos chefes das missões e das brigadas independentes, respeitantes aos trabalhos realizados, ao Estado-Maior da Armada e aos comandos navais ou comandos de defesas marítimas dos territórios onde as referidas missões e brigadas operam.
+Art. 16.º O Instituto Hidrográfico deverá enviar cópias dos relatórios anuais dos chefes das missões e das brigadas independentes, respeitantes aos trabalhos realizados, ao Estado-Maior da Armada e aos comandos navais ou comandos de defesas marítimas dos territórios onde as referidas missões e brigadas operam.
 
 III) Do pessoal
 
-###### Art. 17.º O Instituto Hidrográfico tem como director um oficial general, ou capitão-de-mar-e-guerra, da classe de marinha, de preferência com o curso de engenheiro hidrógrafo, escolhido por acordo dos Ministros da Marinha e do Ultramar.
+Art. 17.º O Instituto Hidrográfico tem como director um oficial general, ou capitão-de-mar-e-guerra, da classe de marinha, de preferência com o curso de engenheiro hidrógrafo, escolhido por acordo dos Ministros da Marinha e do Ultramar.
 
-###### Art. 18.º Ao director do Instituto, responsável perante os Ministros da Marinha e do Ultramar pela eficiência dos serviços a seu cargo, compete especialmente:
+Art. 18.º Ao director do Instituto, responsável perante os Ministros da Marinha e do Ultramar pela eficiência dos serviços a seu cargo, compete especialmente:
 
 1.º Despachar directamente com os Ministros da Marinha e do Ultramar para tratar dos assuntos que respeitem, respectivamente, ao continente e ilhas adjacentes e às províncias ultramarinas;
 
@@ -298,19 +309,19 @@ III) Do pessoal
 
 § único. O director será coadjuvado por um subdirector, oficial superior da classe de marinha, de preferência com o curso de engenheiro hidrógrafo, que o substituirá nos seus impedimentos.
 
-###### Art. 19.º Os chefes das missões e brigadas independentes são capitães-de-fragata, capitães-tenentes ou primeiros-tenentes, de preferência com o curso de engenheiro hidrógrafo, nomeados, mediante proposta do director do Instituto, pelo Ministro da Marinha ou pelos Ministros da Marinha e do Ultramar, conforme se trate, respectivamente, de missões ou brigadas independentes destinadas a operar no continente e ilhas adjacentes ou nas províncias ultramarinas.
+Art. 19.º Os chefes das missões e brigadas independentes são capitães-de-fragata, capitães-tenentes ou primeiros-tenentes, de preferência com o curso de engenheiro hidrógrafo, nomeados, mediante proposta do director do Instituto, pelo Ministro da Marinha ou pelos Ministros da Marinha e do Ultramar, conforme se trate, respectivamente, de missões ou brigadas independentes destinadas a operar no continente e ilhas adjacentes ou nas províncias ultramarinas.
 
-###### Art. 20.º A lotação do pessoal militar da direcção e órgãos centrais do Instituto Hidrográfico é fixada por portaria do Ministro da Marinha, mediante proposta do director do Instituto, informada pelo Estado-Maior da Armada.
+Art. 20.º A lotação do pessoal militar da direcção e órgãos centrais do Instituto Hidrográfico é fixada por portaria do Ministro da Marinha, mediante proposta do director do Instituto, informada pelo Estado-Maior da Armada.
 
-###### Art. 21.º As lotações das missões e brigadas independentes são fixadas por portaria do Ministro da Marinha ou dos Ministros da Marinha e do Ultramar, conforme se trate, respectivamente, de órgãos destinados a operar no continente e ilhas adjacentes ou nas províncias ultramarinas, mediante proposta do director do Instituto, informada pelo Estado-Maior da Armada.
+Art. 21.º As lotações das missões e brigadas independentes são fixadas por portaria do Ministro da Marinha ou dos Ministros da Marinha e do Ultramar, conforme se trate, respectivamente, de órgãos destinados a operar no continente e ilhas adjacentes ou nas províncias ultramarinas, mediante proposta do director do Instituto, informada pelo Estado-Maior da Armada.
 
-###### Art. 22.º Todo o pessoal ao serviço das missões e brigadas independentes terá direito a hospitalização, assistência médica e medicamentos nas mesmas condições em que o tiver o funcionalismo público na região onde as missões e brigadas independentes se encontrem operando.
+Art. 22.º Todo o pessoal ao serviço das missões e brigadas independentes terá direito a hospitalização, assistência médica e medicamentos nas mesmas condições em que o tiver o funcionalismo público na região onde as missões e brigadas independentes se encontrem operando.
 
-###### Art. 23.º Terão direito a pensão de sangue as famílias, compreendendo viúva, filhas solteiras e filhos menores, de todo o pessoal cujo óbito ocorra por acidente em ocasião de serviço ou quando a morte resulte de acidente ou doença adquirida em virtude do exercício da sua actividade durante os trabalhos da missão ou da brigada independente ou para efeitos destes.
+Art. 23.º Terão direito a pensão de sangue as famílias, compreendendo viúva, filhas solteiras e filhos menores, de todo o pessoal cujo óbito ocorra por acidente em ocasião de serviço ou quando a morte resulte de acidente ou doença adquirida em virtude do exercício da sua actividade durante os trabalhos da missão ou da brigada independente ou para efeitos destes.
 
 IV) Da comissão técnica.
 
-###### Art. 24.º Junto do director e sob a sua presidência funcionará, como órgão de consulta, a Comissão Técnica de Hidrografia, Oceanografia Física e Navegação, com a seguinte constituição:
+Art. 24.º Junto do director e sob a sua presidência funcionará, como órgão de consulta, a Comissão Técnica de Hidrografia, Oceanografia Física e Navegação, com a seguinte constituição:
 
 a) O professor do 7.º grupo de cadeiras da Escola Naval;
 
@@ -328,11 +339,11 @@ f) Os chefes das missões e brigadas independentes, quando disponíveis e se enc
 
 V) Do conselho administrativo
 
-###### Art. 25.º No Instituto Hidrográfico funcionará um conselho administrativo, ao qual competirão as funções prescritas no Regulamento de Administração da Fazenda Naval.
+Art. 25.º No Instituto Hidrográfico funcionará um conselho administrativo, ao qual competirão as funções prescritas no Regulamento de Administração da Fazenda Naval.
 
 § único. O conselho administrativo é constituído pelo director do Instituto, como presidente, pelo subdirector, como vogal, e pelo chefe do serviço de abastecimentos, como secretário-tesoureiro.
 
-###### Art. 26.º Além das funções referidas no artigo anterior, compete ao conselho administrativo:
+Art. 26.º Além das funções referidas no artigo anterior, compete ao conselho administrativo:
 
 a) Promover a cobrança das receitas do Instituto e sua entrega nos cofres do Estado;
 
@@ -342,11 +353,11 @@ c) Fornecer ao director do Instituto, com a necessária antecedência, estimativ
 
 VI) Das dotações, privilégios e encargos
 
-###### Art. 27.º O Instituto Hidrográfico disporá das embarcações apropriadas, da aparelhagem científica e do material de fotografia, desenho, gravura, impressão, de acampamento, observação e transportes necessários à execução dos serviços a seu cargo.
+Art. 27.º O Instituto Hidrográfico disporá das embarcações apropriadas, da aparelhagem científica e do material de fotografia, desenho, gravura, impressão, de acampamento, observação e transportes necessários à execução dos serviços a seu cargo.
 
-###### Art. 28.º Às missões e brigadas do Instituto Hidrográfico é aplicável a legislação respeitante a isenção de direitos aduaneiros que vigora para as missões de estudo ou brigadas técnicas organizadas pelo Ministério do Ultramar.
+Art. 28.º Às missões e brigadas do Instituto Hidrográfico é aplicável a legislação respeitante a isenção de direitos aduaneiros que vigora para as missões de estudo ou brigadas técnicas organizadas pelo Ministério do Ultramar.
 
-###### Art. 29.º A distribuição dos encargos que da aplicação deste decreto resultam para os Ministérios da Marinha e do Ultramar será, de uma maneira geral, a seguinte:
+Art. 29.º A distribuição dos encargos que da aplicação deste decreto resultam para os Ministérios da Marinha e do Ultramar será, de uma maneira geral, a seguinte:
 
 § 1.º Ao Ministério da Marinha competirá:
 
@@ -374,9 +385,9 @@ d) Contribuir para as despesas de combustível dos navios hidrográficos e ocean
 
 VII) Disposições transitórias
 
-###### Art. 30.º É extinta a Direcção de Hidrografia e Navegação, passando os seus serviços e respectivo pessoal, dependências e património para o Instituto Hidrográfico.
+Art. 30.º É extinta a Direcção de Hidrografia e Navegação, passando os seus serviços e respectivo pessoal, dependências e património para o Instituto Hidrográfico.
 
-###### Art. 31.º As missões hidrográficas de Angola e S. Tomé, de Cabo Verde, das ilhas adjacentes e de Moçambique, a missão geoidrográfica da Guiné, a brigada hidrográfica do Estado da Índia e a brigada hidrográfica da costa de Portugal serão integradas no Instituto Hidrográfico, com todas as suas dependências e património.
+Art. 31.º As missões hidrográficas de Angola e S. Tomé, de Cabo Verde, das ilhas adjacentes e de Moçambique, a missão geoidrográfica da Guiné, a brigada hidrográfica do Estado da Índia e a brigada hidrográfica da costa de Portugal serão integradas no Instituto Hidrográfico, com todas as suas dependências e património.
 
 § 1.º O pessoal que actualmente faz parte das missões e brigadas mencionadas neste artigo continua no desempenho das suas funções, com os vencimentos que lhe estão fixados, sem necessidade de mais formalidades.
 
@@ -386,19 +397,19 @@ VII) Disposições transitórias
 
 § 4.º A brigada hidrográfica do Estado da Índia e a brigada hidrográfica da costa de Portugal passam a ser designadas, respectivamente, por brigada hidrográfica independente do Estado da Índia e por brigada hidrográfica independente do continente.
 
-###### Art. 32.º Até que o Instituto Hidrográfico seja convenientemente dotado, nos termos do artigo 29.º, os serviços que nele são integrados continuam com as dotações em vigor.
+Art. 32.º Até que o Instituto Hidrográfico seja convenientemente dotado, nos termos do artigo 29.º, os serviços que nele são integrados continuam com as dotações em vigor.
 
-###### Art. 33.º As cartas e planos hidrográficos destinados à navegação, os processos de arquivo que dizem respeito aos levantamentos hidrográficos feitos em todos os mares e os roteiros e outras publicações náuticas que se encontrem em depósito noutros organismos do Estado, nomeadamente na Junta de Investigações do Ultramar, recolhem ao Instituto Hidrográfico.
+Art. 33.º As cartas e planos hidrográficos destinados à navegação, os processos de arquivo que dizem respeito aos levantamentos hidrográficos feitos em todos os mares e os roteiros e outras publicações náuticas que se encontrem em depósito noutros organismos do Estado, nomeadamente na Junta de Investigações do Ultramar, recolhem ao Instituto Hidrográfico.
 
-###### Art. 34.º Enquanto o Instituto Hidrográfico não dispuser dos necessários meios, a Lista de Faróis continuará a ser elaborada e publicada pela Direcção de Faróis.
+Art. 34.º Enquanto o Instituto Hidrográfico não dispuser dos necessários meios, a Lista de Faróis continuará a ser elaborada e publicada pela Direcção de Faróis.
 
-###### Art. 35.º Dentro do prazo de 90 dias, a contar da data da publicação deste diploma, o director do Instituto Hidrográfico apresentará, para apreciação superior, o projecto do respectivo regulamento interno.
+Art. 35.º Dentro do prazo de 90 dias, a contar da data da publicação deste diploma, o director do Instituto Hidrográfico apresentará, para apreciação superior, o projecto do respectivo regulamento interno.
 
-###### Art. 36.º Até ser aprovado e publicado o regulamento referido no artigo anterior, os serviços integrados no Instituto Hidrográfico continuarão a reger-se pela legislação em vigor, na parte aproveitável, e tomar-se-ão, por despacho, as providências complementares necessárias para assegurar a execução do presente diploma.
+Art. 36.º Até ser aprovado e publicado o regulamento referido no artigo anterior, os serviços integrados no Instituto Hidrográfico continuarão a reger-se pela legislação em vigor, na parte aproveitável, e tomar-se-ão, por despacho, as providências complementares necessárias para assegurar a execução do presente diploma.
 
-###### Art. 37.º Ficam revogadas as disposições em vigor que colidam com as deste diploma, designadamente as que constam do [Decreto n.º 15522](https://diariodarepublica.pt/dr/detalhe/decreto/15522-1928-589503), de 29 de Maio de 1928, do [Decreto-Lei n.º 35395](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35395-1945-463597), de 26 de Dezembro de 1945, e das Portarias n.os 12215, de 26 de Dezembro de 1947, 12275, de 4 de Fevereiro de 1948, 12325, de 20 de Março de 1948, 12331, de 23 de Março de 1948, 12332, de 25 de Março de 1948, 15568, de 21 de Outubro de 1955, e 16751, de 30 de Junho de 1958.
+Art. 37.º Ficam revogadas as disposições em vigor que colidam com as deste diploma, designadamente as que constam do [Decreto n.º 15522](https://diariodarepublica.pt/dr/detalhe/decreto/15522-1928-589503), de 29 de Maio de 1928, do [Decreto-Lei n.º 35395](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35395-1945-463597), de 26 de Dezembro de 1945, e das Portarias n.os 12215, de 26 de Dezembro de 1947, 12275, de 4 de Fevereiro de 1948, 12325, de 20 de Março de 1948, 12331, de 23 de Março de 1948, 12332, de 25 de Março de 1948, 15568, de 21 de Outubro de 1955, e 16751, de 30 de Junho de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

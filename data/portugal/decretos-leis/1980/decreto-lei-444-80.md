@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23000/31223124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1980-462068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b97556c745c480d166ae505378b8462d1ceabce1be4be81cfe324d47664fc8b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a944682b1e6191dbbdc307de5934e43220da367e0fbdb703dbd3d91220fdabe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emprego
+- Formação Profissional
+- Política de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:534598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:507846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534598:por
+  label: "Revogado pelo DEC LEI.132/99.1999.04.21.MTS DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1999-534598
+  date: '1999-04-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:50Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +114,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O direito ao emprego, assegurado pela lei fundamental, terá por princípios básicos a capacidade e aptidão profissional do indivíduo e a igualdade de oportunidades na escolha da profissão ou género de trabalho e por limites os decorrentes da Constituição e das obrigações internacionais assumidas pelo Estado Português.
+Artigo 1.º O direito ao emprego, assegurado pela lei fundamental, terá por princípios básicos a capacidade e aptidão profissional do indivíduo e a igualdade de oportunidades na escolha da profissão ou género de trabalho e por limites os decorrentes da Constituição e das obrigações internacionais assumidas pelo Estado Português.
 
-###### Art. 2.º Incumbe ao Estado, através da aplicação de planos e programas de política económica e social, garantir o direito ao emprego, assegurando, designadamente, a execução de acções dirigidas a realizar uma política de pleno emprego e a satisfação de esquemas de assistência material aos que involuntariamente se encontram na situação de desemprego.
+Art. 2.º Incumbe ao Estado, através da aplicação de planos e programas de política económica e social, garantir o direito ao emprego, assegurando, designadamente, a execução de acções dirigidas a realizar uma política de pleno emprego e a satisfação de esquemas de assistência material aos que involuntariamente se encontram na situação de desemprego.
 
-###### Art. 3.º São reconhecidas como acções fundamentais da política de emprego, a prosseguir pelo Estado, imediata ou mediatamente, as seguintes:
+Art. 3.º São reconhecidas como acções fundamentais da política de emprego, a prosseguir pelo Estado, imediata ou mediatamente, as seguintes:
 
 a) Promover a melhor organização e funcionamento do mercado de emprego, com vista à colocação dos trabalhadores em postos de trabalho adequados, produtivos, remuneradores e livremente escolhidos, no contexto e perspectivas do desenvolvimento sócio-económico do País;
 
@@ -126,7 +138,7 @@ h) Manter contactos, pelas vias e órgãos competentes, com serviços de emprego
 
 i) Colaborar com os serviços de apoio, assistência e protecção aos trabalhadores migrantes e seu agregado familiar, no país e no estrangeiro, designadamente quanto aos problemas de carácter social.
 
-###### Art. 4.º Na execução das medidas enunciadas, o Estado desenvolverá actividades nos seguintes domínios:
+Art. 4.º Na execução das medidas enunciadas, o Estado desenvolverá actividades nos seguintes domínios:
 
 a) Colocação;
 
@@ -142,7 +154,7 @@ f) Reabilitação profissional,
 
 que cobrirão todo o País, tendo em conta, nomeadamente, a distribuição da população activa, a extensão territorial e a sua importância económico-social.
 
-###### Art. 5.º São acções específicas da colocação no âmbito da política do emprego, a prosseguir pelo Estado:
+Art. 5.º São acções específicas da colocação no âmbito da política do emprego, a prosseguir pelo Estado:
 
 a) Organizar e manter em funcionamento serviços públicos gratuitos de colocação;
 
@@ -156,7 +168,7 @@ e) Assegurar, em colaboração com as entidades competentes, a informação, ins
 
 f) Participar na negociação e execução dos acordos internacionais sobre o recrutamento e migração de trabalhadores.
 
-###### Art. 6.º São acções específicas da informação e orientação profissional, no âmbito da política do emprego, a prosseguir pelo Estado:
+Art. 6.º São acções específicas da informação e orientação profissional, no âmbito da política do emprego, a prosseguir pelo Estado:
 
 a) Desenvolver programas de informação e orientação profissional visando melhorar a capacidade do indivíduo para compreender o meio de trabalho e o meio social e, bem assim, para exercer sobre ele influência individual ou colectiva;
 
@@ -164,11 +176,11 @@ b) Promover, em colaboração com outras estruturas, nomeadamente com a da educa
 
 c) Participar na definição dos planos curriculares do sistema educativo.
 
-###### Art. 7.º - 1 - A informação e orientação profissional destina-se aos jovens e adultos inseridos no sistema educativo ou fora dele, numa acção contínua e global de acompanhamento a partir do seu ingresso na escola e ao longo de toda a sua vida profissional.
+Art. 7.º - 1 - A informação e orientação profissional destina-se aos jovens e adultos inseridos no sistema educativo ou fora dele, numa acção contínua e global de acompanhamento a partir do seu ingresso na escola e ao longo de toda a sua vida profissional.
 
 2 - A informação e orientação profissional abrange, quer nos programas desenvolvidos, quer nas acções promovidas, os domínios da escolha de uma profissão, da formação profissional, das possibilidades de educação com ela relacionadas, da situação e das perspectivas de emprego, do conteúdo e perspectivas das diferentes profissões, das possibilidades de promoção e das condições de trabalho e todos os demais aspectos da actividade económica, social e cultural.
 
-###### Art. 8.º São acções específicas da análise do mercado de emprego, no âmbito da política de emprego a prosseguir pelo Estado:
+Art. 8.º São acções específicas da análise do mercado de emprego, no âmbito da política de emprego a prosseguir pelo Estado:
 
 a) Reunir e fornecer informação sobre a procura e oferta de emprego, as qualificações requeridas para certas profissões, as modificações registadas nas qualificações requeridas pelas diferentes actividades, as tendências do mercado de emprego, a regularização do emprego e as causas do desemprego, bem como quaisquer outras informações úteis à prossecução da política do emprego;
 
@@ -182,20 +194,20 @@ Colocação de certas categorias de candidatos a emprego, como jovens e deficien
 
 d) Auxiliar outros organismos públicos, cooperativos e privados a prepararem programas visando a distribuição geográfica das empresas industriais, as obras públicas, a construção de alojamentos, os serviços sociais e outras medidas sociais e económicas.
 
-###### Art. 9.º As bases fundamentais da formação profissional, da promoção do emprego e da reabilitação profissional serão objecto de diplomas legais específicos.
+Art. 9.º As bases fundamentais da formação profissional, da promoção do emprego e da reabilitação profissional serão objecto de diplomas legais específicos.
 
-###### Art. 10.º Serão ainda utilizados como instrumentos da política do emprego outras estruturas, nomeadamente de medicina do trabalho e de serviço social.
+Art. 10.º Serão ainda utilizados como instrumentos da política do emprego outras estruturas, nomeadamente de medicina do trabalho e de serviço social.
 
-###### Art. 11.º O Estado promoverá a elaboração de planos nacionais de emprego, no âmbito dos planos de política económica e social e de harmonia com os princípios enunciados neste diploma.
+Art. 11.º O Estado promoverá a elaboração de planos nacionais de emprego, no âmbito dos planos de política económica e social e de harmonia com os princípios enunciados neste diploma.
 
-###### Art. 12.º Os planos nacionais de emprego, como instrumentos da política do emprego, serão, na sua concepção, elaboração e execução, articulados com os parceiros sociais e com as entidades públicas e privadas ligadas ao emprego, designadamente nas áreas da formação profissional e da promoção do emprego.
+Art. 12.º Os planos nacionais de emprego, como instrumentos da política do emprego, serão, na sua concepção, elaboração e execução, articulados com os parceiros sociais e com as entidades públicas e privadas ligadas ao emprego, designadamente nas áreas da formação profissional e da promoção do emprego.
 
-###### Art. 13.º Na interpretação e integração de lacunas do presente decreto-lei serão tidos em conta os princípios consagrados nas convenções e recomendações da OIT e das organizações internacionais de que Portugal faça parte, sendo as dúvidas e omissões suscitadas na sua aplicação resolvidas por despacho do Ministro do Trabalho, podendo esta competência ser delegada com a faculdade de subdelegação.
+Art. 13.º Na interpretação e integração de lacunas do presente decreto-lei serão tidos em conta os princípios consagrados nas convenções e recomendações da OIT e das organizações internacionais de que Portugal faça parte, sendo as dúvidas e omissões suscitadas na sua aplicação resolvidas por despacho do Ministro do Trabalho, podendo esta competência ser delegada com a faculdade de subdelegação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 24 de Setembro de 1980.**
+Promulgado em 24 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

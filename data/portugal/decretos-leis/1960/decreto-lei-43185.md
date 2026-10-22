@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43185-1960-514844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3745087940feaee99b64d5aa655ed42276fff679fa9c9418b208800b3cf24a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44db7f4788b48b731cf45377bf2538941191f2ed36d5e37f706e7527ccca85bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação de Socorros Mútuos
+- Associação Mutualista
+- Beneficiário
+- Seguro
+- Subsídio de Funeral
 relationships:
 - type: amended_by
   target: pt:dre:567059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:263549:por
+  label: "Dada nova redacção ao § 1º do art. 1º pelo DEC LEI.48685.13.11.1968.MCPS, DG.IS [267] de 13.11.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48685-1968-263549
+  date: '1968-11-13'
+- type: cites
+  target: pt:dre:358136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594099:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567059:por
+  label: "Revogado pelo DEC LEI.347/81.22.12.1981.PCM, DR.IS [293] de 22.12.1981, sem prejuízo do disposto nos seus artigos\
+    \ 6.º e 18.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1981-567059
+  date: '1981-12-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:44Z'
   warnings: []
   errors: []
 ---
@@ -125,46 +149,46 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As associações de socorros mútuos que se dedicam à concessão de pequenos subsídios de funeral ou se propõem fazer a expensas suas os funerais dos sócios e das pessoas de sua família, sem exigência do pagamento de qualquer outra quota que não seja a que competir ao sócio, ficam sujeitas, pelo que se refere a esta modalidade de seguro, à regulamentação constante do presente decreto-lei.
+Artigo 1.º As associações de socorros mútuos que se dedicam à concessão de pequenos subsídios de funeral ou se propõem fazer a expensas suas os funerais dos sócios e das pessoas de sua família, sem exigência do pagamento de qualquer outra quota que não seja a que competir ao sócio, ficam sujeitas, pelo que se refere a esta modalidade de seguro, à regulamentação constante do presente decreto-lei.
 
 § 1.º O valor dos benefícios em dinheiro ou em espécie não pode exceder 800$00, sendo, porém, reduzido a 400$00 por morte de familiar menor de 16 anos.
 
 § 2.º Consideram-se pessoas de família do sócio: o cônjuge; os descendentes legítimos do sexo masculino menores de 16 anos e os de idade superior que não possam por incapacidade física angariar os meios necessários ao seu sustento; os descendentes legítimos do sexo feminino enquanto se conservarem solteiros e a cargo do sócio; e ainda os ascendentes e os irmãos que com ele coabitem há mais de um ano e se encontrem a seu cargo.
 
-###### Art. 2.º As associações devem organizar e manter actualizados dois ficheiros individuais, um relativo a sócios, outro referente às pessoas pela morte das quais possam ser concedidos benefícios. Dos ficheiros devem constar todos os elementos considerados indispensáveis à identificação dos sócios e seus familiares.
+Art. 2.º As associações devem organizar e manter actualizados dois ficheiros individuais, um relativo a sócios, outro referente às pessoas pela morte das quais possam ser concedidos benefícios. Dos ficheiros devem constar todos os elementos considerados indispensáveis à identificação dos sócios e seus familiares.
 
 § 1.º Os sócios actualmente existentes e as pessoas que de futuro se inscrevam na modalidade de seguro fúnebre familiar são obrigados a fornecer à associação, no prazo de 60 dias, a contar da data da entrada em vigor do presente decreto-lei para os primeiros, e no acto da inscrição para as segundas, uma relação nominal das pessoas que se encontrem nas condições do § 2.º do artigo 1.º com a indicação da data do nascimento e do respectivo parentesco.
 
 § 2.º Os sócios ficam obrigados a fornecer à associação os elementos necessários à actualização dos ficheiros a que se refere o corpo deste artigo, dentro do prazo de 60 dias, a contar da data em que se verifique qualquer ocorrência que deva ser assinalada.
 
-###### Art. 3.º As associações de socorros mútuos a que se refere o artigo 1.º ficam dispensadas do cumprimento do disposto do artigo 17.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943, relativamente à modalidade de seguro fúnebre familiar.
+Art. 3.º As associações de socorros mútuos a que se refere o artigo 1.º ficam dispensadas do cumprimento do disposto do artigo 17.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943, relativamente à modalidade de seguro fúnebre familiar.
 
-###### Art. 4.º Sempre que a receita da modalidade fúnebre familiar não atinja em determinado ano o montante das despesas, devem as associações requerer, até 31 de Março do ano seguinte, a revisão dos benefícios e encargos sociais da modalidade, que poderá ser deferida por despacho do Ministro das Corporações e Previdência Social, com dispensa das formalidades normalmente exigidas para a alteração dos estatutos.
+Art. 4.º Sempre que a receita da modalidade fúnebre familiar não atinja em determinado ano o montante das despesas, devem as associações requerer, até 31 de Março do ano seguinte, a revisão dos benefícios e encargos sociais da modalidade, que poderá ser deferida por despacho do Ministro das Corporações e Previdência Social, com dispensa das formalidades normalmente exigidas para a alteração dos estatutos.
 
 § único. A revisão dos benefícios e encargos sociais poderá também ser determinada por despacho do Ministro das Corporações e Previdência Social em resultado de estudos técnicos elaborados pelos serviços competentes do Ministério.
 
-###### Art. 5.º Relativamente à modalidade fúnebre familiar, as associações manterão dois fundos - fundo disponível e fundo permanente -, sujeitos às disposições gerais.
+Art. 5.º Relativamente à modalidade fúnebre familiar, as associações manterão dois fundos - fundo disponível e fundo permanente -, sujeitos às disposições gerais.
 
 § único. O saldo anual do fundo disponível será integralmente transferido para o fundo permanente.
 
-###### Art. 6.º As associações referidas no artigo 1.º ficam obrigadas a submeter à aprovação do Ministro das Corporações e Previdência Social, no prazo de seis meses, a contar da data da entrada em vigor deste decreto-lei, a alteração dos estatutos para efeitos da repartição da quota.
+Art. 6.º As associações referidas no artigo 1.º ficam obrigadas a submeter à aprovação do Ministro das Corporações e Previdência Social, no prazo de seis meses, a contar da data da entrada em vigor deste decreto-lei, a alteração dos estatutos para efeitos da repartição da quota.
 
 § único. São dispensadas da discriminação da parcela da quota destinada a despesas de administração as associações que pratiquem apenas a modalidade de seguro fúnebre familiar.
 
-###### Art. 7.º O não cumprimento do disposto nos §§ 1.º e 2.º do artigo 2.º e ainda a prestação de falsas declarações implicam a perda dos direitos de sócios por seis meses, contados a partir da data em que a associação tomou conhecimento da infracção.
+Art. 7.º O não cumprimento do disposto nos §§ 1.º e 2.º do artigo 2.º e ainda a prestação de falsas declarações implicam a perda dos direitos de sócios por seis meses, contados a partir da data em que a associação tomou conhecimento da infracção.
 
-###### Art. 8.º As associações de socorros mútuos cujos objectivos se restrinjam à concessão de assistência médica e farmacêutica e de subsídios para funeral não superiores a 400$00 deverão requerer até 31 de Março a modificação dos benefícios e encargos sociais, sempre que no ano anterior se tiver verificado que as quotas, acrescidas dos rendimentos dos fundos de tais instituições, não atingiram o valor das despesas.
+Art. 8.º As associações de socorros mútuos cujos objectivos se restrinjam à concessão de assistência médica e farmacêutica e de subsídios para funeral não superiores a 400$00 deverão requerer até 31 de Março a modificação dos benefícios e encargos sociais, sempre que no ano anterior se tiver verificado que as quotas, acrescidas dos rendimentos dos fundos de tais instituições, não atingiram o valor das despesas.
 
 § 1.º A modificação de benefícios e encargos prevista neste artigo far-se-á por simples despacho e independentemente das formalidades exigidas para a alteração dos estatutos das associações de socorros mútuos.
 
 § 2.º Os preceitos anteriores são aplicáveis às associações em que haja classes de sócios com direito apenas às vantagens referidas neste artigo, no que respeita aos benefícios e encargos das mesmas classes, ainda que aos restantes sócios se reconheçam direitos superiores.
 
-###### Art. 9.º Continuam em vigor, na parte não prejudicada pelos artigos anteriores, as disposições legais aplicáveis às associações de socorros mútuos.
+Art. 9.º Continuam em vigor, na parte não prejudicada pelos artigos anteriores, as disposições legais aplicáveis às associações de socorros mútuos.
 
-###### Art. 10.º Os casos omissos serão resolvidos por despacho do Ministro das Corporações e Previdência Social.
+Art. 10.º Os casos omissos serão resolvidos por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 11.º São revogados o [Decreto-Lei n.º 31434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31434-1941-358136), de 30 de Julho de 1941, e o artigo 19.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943.
+Art. 11.º São revogados o [Decreto-Lei n.º 31434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31434-1941-358136), de 30 de Julho de 1941, e o artigo 19.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

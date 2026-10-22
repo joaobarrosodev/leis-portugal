@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/10/24100/14341436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45966-1964-537238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16262faaa7af15c1461b669eb9dde145404d6625703a3a484164e790bc1be4c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d564699af9a408c3f53f1f9fcdf69141d9432d5667d398697f70c9d12e3c8e19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:661484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:510650:por
+  label: "Rectificado pela RECT.DD590.18.10.1965.PC, DG.IS [236] de 18.10.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-510650
+  date: '1965-10-18'
+- type: repealed_by
+  target: pt:dre:661484:por
+  label: "Revogado pelo DEC LEI.57/84.1984.02.20.MCT DR.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-1984-661484
+  date: '1984-02-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:46Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +132,13 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A comercialização dos vinhos nacionais, comuns e especiais, de marca registada, contidos em garrafas, botijas ou frascos, de qualquer formato e capacidade, devidamente rolhados com rolha de cortiça, capsulados, com rótulo de papel ou alumínio e com a indicação da graduação alcoólica e do ano de engarrafamento, no rótulo ou em gargantilha, passa a reger-se pelo disposto no presente diploma e seus regulamentos.
+Artigo 1.º A comercialização dos vinhos nacionais, comuns e especiais, de marca registada, contidos em garrafas, botijas ou frascos, de qualquer formato e capacidade, devidamente rolhados com rolha de cortiça, capsulados, com rótulo de papel ou alumínio e com a indicação da graduação alcoólica e do ano de engarrafamento, no rótulo ou em gargantilha, passa a reger-se pelo disposto no presente diploma e seus regulamentos.
 
 § 1.º A indicação da graduação alcoólica não abrange os vinhos comuns típicos regionais.
 
 § 2.º A comercialização de todos os vinhos estrangeiros rege-se também, na parte aplicável, pelas mesmas disposições.
 
-###### Art. 2.º Os vinhos referidos no artigo anterior não podem ser vendidos ou servidos ao público por preços superiores aos que resultem da incidência das margens de lucro ilíquido, máximo, que vierem a ser fixadas, por despacho do Secretário de Estado do Comércio, sobre os respectivos preços de custo, para os seguintes estabelecimentos:
+Art. 2.º Os vinhos referidos no artigo anterior não podem ser vendidos ou servidos ao público por preços superiores aos que resultem da incidência das margens de lucro ilíquido, máximo, que vierem a ser fixadas, por despacho do Secretário de Estado do Comércio, sobre os respectivos preços de custo, para os seguintes estabelecimentos:
 
 A) Hotéis e restaurantes:
 
@@ -152,7 +176,7 @@ F) Mercearias e outros estabelecimentos de venda a retalho.
 
 § único. A base de incidência das percentagens máximas de lucro é o preço líquido do vinho, posto nos estabelecimentos referidos neste artigo, deduzidos o valor da tara e todos os descontos ou bónus, com excepção do desconto a pronto pagamento até ao máximo de 3 por cento.
 
-###### Art. 3.º Para o efeito do disposto neste diploma, só serão consideradas válidas as designações e as classificações atribuídas em conformidade com o disposto na [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, pelo Secretariado Nacional da Informação, Cultura Popular e Turismo e pelos presidentes das câmaras municipais.
+Art. 3.º Para o efeito do disposto neste diploma, só serão consideradas válidas as designações e as classificações atribuídas em conformidade com o disposto na [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, pelo Secretariado Nacional da Informação, Cultura Popular e Turismo e pelos presidentes das câmaras municipais.
 
 § 1.º Relativamente aos estabelecimentos sem interesse para o turismo e não classificados pelos presidentes das câmaras municipais, será estabelecida, a título transitório, adequada classificação pelo grémio respectivo.
 
@@ -164,11 +188,11 @@ F) Mercearias e outros estabelecimentos de venda a retalho.
 
 § 5.º Nos estabelecimentos mistos, a margem de lucro a praticar em cada uma das secções fica sujeita ao máximo correspondente aos estabelecimentos da sua espécie e classe, quando entre as suas diversas secções existir nítida separação e os respectivos níveis de instalação e de serviço forem marcadamente diferenciados, mas, sempre que não se verifiquem a separação e diferenciação indicadas, é autorizada em todas as secções a prática da correspondente margem de lucro menos elevada.
 
-###### Art. 4.º Ficam isentos dos limites máximos de lucro que vierem a ser estabelecidos nos termos deste diploma e no artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, todos os vinhos com mais de seis anos de existência nos estabelecimentos citados nas alíneas a) e b) das classes A), B) e C) do artigo 2.º
+Art. 4.º Ficam isentos dos limites máximos de lucro que vierem a ser estabelecidos nos termos deste diploma e no artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, todos os vinhos com mais de seis anos de existência nos estabelecimentos citados nas alíneas a) e b) das classes A), B) e C) do artigo 2.º
 
 § único. Os vinhos mencionados no corpo deste artigo ficarão abrangidos pelos limites de lucro que forem fixados nas condições do artigo 2.º, nos estabelecimentos onde não se apresentem vinhos sujeitos às mesmas percentagens.
 
-###### Art. 5.º Todas as entidades que procedam ao engarrafamento de vinhos nas condições prescritas no corpo do artigo 1.º deste diploma, de produção própria ou não, deverão enviar, por carta registada com aviso de recepção, à Junta Nacional do Vinho, ou, tratando-se de vinhos típicos de regiões demarcadas, ao organismo vitivinícola respectivo, a lista geral, em quadruplicado, devidamente discriminada, dos preços líquidos por si praticados na venda daqueles vinhos ou de quaisquer suas alterações.
+Art. 5.º Todas as entidades que procedam ao engarrafamento de vinhos nas condições prescritas no corpo do artigo 1.º deste diploma, de produção própria ou não, deverão enviar, por carta registada com aviso de recepção, à Junta Nacional do Vinho, ou, tratando-se de vinhos típicos de regiões demarcadas, ao organismo vitivinícola respectivo, a lista geral, em quadruplicado, devidamente discriminada, dos preços líquidos por si praticados na venda daqueles vinhos ou de quaisquer suas alterações.
 
 § 1.º Quando os estabelecimentos hoteleiros e similares procedam ao engarrafamento de vinhos nas condições do presente diploma, os seus preços não podem ser superiores de qualidade similar comercializados pelas outras entidades.
 
@@ -176,15 +200,15 @@ F) Mercearias e outros estabelecimentos de venda a retalho.
 
 § 3.º Os preços referidos no corpo deste artigo deverão ser sancionados pelos correspondentes organismos.
 
-###### Art. 6.º Os estabelecimentos referidos no artigo 2.º deverão enviar, por carta registada com aviso de recepção, a lista, em quadruplicado, dos vinhos que possuam nas condições do artigo 1.º, com os respectivos preços discriminados ou de quaisquer suas alterações, à Junta Nacional do Vinho, ou, tratando-se de vinhos das regiões demarcadas, ao organismo vitivinícola respectivo.
+Art. 6.º Os estabelecimentos referidos no artigo 2.º deverão enviar, por carta registada com aviso de recepção, a lista, em quadruplicado, dos vinhos que possuam nas condições do artigo 1.º, com os respectivos preços discriminados ou de quaisquer suas alterações, à Junta Nacional do Vinho, ou, tratando-se de vinhos das regiões demarcadas, ao organismo vitivinícola respectivo.
 
 § único. Os preços deverão figurar sempre nas cartas dos vinhos e estas serem expostas em locais bem visíveis nos estabelecimentos em causa.
 
-###### Art. 7.º Para beneficiar da isenção prevista no artigo 4.º do presente diploma, os estabelecimentos citados no mesmo artigo deverão comunicar, no prazo de 45 dias a contar da sua publicação e, posteriormente, em Novembro de cada ano, à Junta Nacional do Vinho ou, tratando-se de vinhos das regiões demarcadas, ao organismo vitivinícola respectivo, as existências de vinhos engarrafados nas condições mencionadas no artigo 1.º, para a constituição de garrafeiras, com a indicação do número de garrafas, marca, capacidade dos recipientes e ano de engarrafamento, bem como requerer a selagem dessas garrafas.
+Art. 7.º Para beneficiar da isenção prevista no artigo 4.º do presente diploma, os estabelecimentos citados no mesmo artigo deverão comunicar, no prazo de 45 dias a contar da sua publicação e, posteriormente, em Novembro de cada ano, à Junta Nacional do Vinho ou, tratando-se de vinhos das regiões demarcadas, ao organismo vitivinícola respectivo, as existências de vinhos engarrafados nas condições mencionadas no artigo 1.º, para a constituição de garrafeiras, com a indicação do número de garrafas, marca, capacidade dos recipientes e ano de engarrafamento, bem como requerer a selagem dessas garrafas.
 
 § único. Os organismos vitivinícolas das regiões de procedência dos vinhos poderão delegar as funções que lhes competem nos termos deste artigo nos organismos que superintendem nas regiões onde se situem os estabelecimentos.
 
-###### Art. 8.º O envio das listas referidas nos artigos 5.º e 6.º deverá ser efectuado no prazo de 120 dias, a contar da data da publicação do presente diploma, pelas entidades que exercem as respectivas actividades.
+Art. 8.º O envio das listas referidas nos artigos 5.º e 6.º deverá ser efectuado no prazo de 120 dias, a contar da data da publicação do presente diploma, pelas entidades que exercem as respectivas actividades.
 
 § 1.º Quaisquer alterações a introduzir nas listas serão comunicadas até oito dias antes da data da sua entrada em vigor.
 
@@ -194,20 +218,20 @@ F) Mercearias e outros estabelecimentos de venda a retalho.
 
 § 4.º O organismo que receber as listas em quadruplicado referidas neste decreto-lei fará remessa de um exemplar à Intendência-Geral dos Abastecimentos, ao Secretariado Nacional da Informação e à Junta Nacional do Vinho ou ao organismo vitivinícola regional, conforme o que não tiver recebido.
 
-###### Art. 9.º O não cumprimento das obrigações estabelecidas nos artigos 5.º e 6.º e seus parágrafos constitui infracção punida nos termos do artigo 23.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 9.º O não cumprimento das obrigações estabelecidas nos artigos 5.º e 6.º e seus parágrafos constitui infracção punida nos termos do artigo 23.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 10.º Constitui infracção punida nos termos do artigo 28.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) a falta de exposição, nos estabelecimentos citados no artigo 2.º deste diploma, das listas dos preços nas condições determinadas no § único do artigo 6.º
+Art. 10.º Constitui infracção punida nos termos do artigo 28.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) a falta de exposição, nos estabelecimentos citados no artigo 2.º deste diploma, das listas dos preços nas condições determinadas no § único do artigo 6.º
 
-###### Art. 11.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
+Art. 11.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
 
-###### Art. 12.º Os estabelecimentos que possuam, à data da publicação deste decreto-lei, vinhos em termos de beneficiarem, desde já ou nos próximos anos, da isenção prevista no artigo 4.º, deverão solicitar aos organismos competentes a aposição, nos recipientes dos referidos vinhos, de selos de verificação, com referência aos anos de aquisição, desde que façam de tal facto a necessária prova.
+Art. 12.º Os estabelecimentos que possuam, à data da publicação deste decreto-lei, vinhos em termos de beneficiarem, desde já ou nos próximos anos, da isenção prevista no artigo 4.º, deverão solicitar aos organismos competentes a aposição, nos recipientes dos referidos vinhos, de selos de verificação, com referência aos anos de aquisição, desde que façam de tal facto a necessária prova.
 
-###### Art. 13.º É concedido o prazo de dois anos, a partir da publicação deste diploma, para o cumprimento do disposto no artigo 1.º, quanto à indicação, no rótulo ou em gargantilha, da graduação alcoólica e do ano de engarrafamento.
+Art. 13.º É concedido o prazo de dois anos, a partir da publicação deste diploma, para o cumprimento do disposto no artigo 1.º, quanto à indicação, no rótulo ou em gargantilha, da graduação alcoólica e do ano de engarrafamento.
 
-###### Art. 14.º Os vinhos licorosos, servidos nos estabelecimentos citados nas alíneas A) e E) do artigo 2.º do presente decreto-lei, ficam isentos não só dos limites máximos de lucro que vierem a ser estabelecidos nos termos deste diploma como dos fixados no artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 14.º Os vinhos licorosos, servidos nos estabelecimentos citados nas alíneas A) e E) do artigo 2.º do presente decreto-lei, ficam isentos não só dos limites máximos de lucro que vierem a ser estabelecidos nos termos deste diploma como dos fixados no artigo 24.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 15.º Fica revogado o artigo 18.º da [Lei n.º 1890](https://diariodarepublica.pt/dr/detalhe/lei/1890-1935-379285), de 23 de Março de 1935.
+Art. 15.º Fica revogado o artigo 18.º da [Lei n.º 1890](https://diariodarepublica.pt/dr/detalhe/lei/1890-1935-379285), de 23 de Março de 1935.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Armando Ramos de Paula Coelho.

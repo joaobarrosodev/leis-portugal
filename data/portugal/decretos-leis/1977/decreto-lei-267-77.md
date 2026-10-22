@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/15100/16391641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad0a28ef3e5ce4d94d80d35673db25471b84d0d9c0562503e9b92dd749d7f0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 506cb935a5af282c8a31c5d5f9452e286294f1d1b796aa7c615e5285a780ee5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete Governamental
+- Orgânica
+- Pessoal de Gabinete
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:375192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:316358:por
+  label: "Alterada a redacção dos nºs. 5 e 6 do art. 2º, e acrescentado um nº ao art. 6º, pelo DEC LEI.306-A/83.1983.06.30.PCM,\
+    \ DR.IS [148]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-a-1983-316358
+  date: '1983-06-30'
+- type: amended_by
+  target: pt:dre:347279:por
+  label: "Alterados os nºs 3 e 5 do art. 4º pelo DEC LEI.71-A/84.1984.02.29.PCM DR.IS [51]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-a-1984-347279
+  date: '1984-02-29'
+- type: amended_by
+  target: pt:dre:222270:por
+  label: "Alargado o quadro de pessoal da Secretaria-Geral da Presidência do Conselho de Ministros, aprovada pelo Dec Lei\
+    \ 789/76, de 04-Nov na redacção do presente diploma (revogação do n.º 4 do art. 37.º), pela PORT.606/86.17.10.1986.PCM,\
+    \ DR.IS [240] de 17.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1986-222270
+  date: '1986-10-17'
+- type: cites
+  target: pt:dre:236125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505999:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325932:por
+  label: "Revogado o art. 5º, pelo DEC LEI.332/78.1978.11.14.PCM, DR.IS [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-1978-325932
+  date: '1978-11-14'
+- type: repealed_by
+  target: pt:dre:381568:por
+  label: "Revogado o n.º 4 do art. 6.º do presente diploma, na redacção do Decreto-Lei n.º 306-A/83, de 30 de Junho, pelo\
+    \ DEC LEI.250/84.24.07.1984.PCM, DR.IS [170] de 24.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1984-381568
+  date: '1984-07-24'
+- type: repealed_by
+  target: pt:dre:375192:por
+  label: "Revogado pelo DEC LEI.262/88.1988.07.23.MF DR.IS [169]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1988-375192
+  date: '1988-07-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:04Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +169,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os Ministros e Secretários de Estado são apoiados no exercício das suas funções por um gabinete, constituído pelo chefe do gabinete, adjuntos do gabinete e secretários pessoais.
+Artigo 1.º Os Ministros e Secretários de Estado são apoiados no exercício das suas funções por um gabinete, constituído pelo chefe do gabinete, adjuntos do gabinete e secretários pessoais.
 
-###### Art. 2.º - 1. Ao chefe do gabinete compete a direcção do gabinete, a ligação aos diversos serviços do respectivo departamento ministerial, bem como aos outros departamentos do Estado e a representação do membro do Governo nos actos de carácter não estritamente pessoal.
+Art. 2.º - 1. Ao chefe do gabinete compete a direcção do gabinete, a ligação aos diversos serviços do respectivo departamento ministerial, bem como aos outros departamentos do Estado e a representação do membro do Governo nos actos de carácter não estritamente pessoal.
 
 2. Aos adjuntos do gabinete compete prestar aos membros do Governo o apoio técnico que lhes for determinado.
 
@@ -116,9 +183,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6. Nos Gabinetes dos Ministros de Estado e sem pasta e dos Ministros da República para os Açores e para a Madeira o número de adjuntos pode ser elevado até um máximo de oito e o de secretários pessoais até um máximo de quatro, mediante autorização do Primeiro-Ministro.
 
-###### Art. 3.º Os Subsecretários de Estado podem ser apoiados por um adjunto e por um secretário pessoal, a integrar no gabinete do membro do Governo junto do qual assistam.
+Art. 3.º Os Subsecretários de Estado podem ser apoiados por um adjunto e por um secretário pessoal, a integrar no gabinete do membro do Governo junto do qual assistam.
 
-###### Art. 4.º - 1. Os membros do gabinete são livremente providos e exonerados pelo Ministro, Secretário ou Subsecretário de Estado de que dependem.
+Art. 4.º - 1. Os membros do gabinete são livremente providos e exonerados pelo Ministro, Secretário ou Subsecretário de Estado de que dependem.
 
 2. Os agentes referidos no número anterior consideram-se para todos os efeitos em exercício de funções a partir da data do despacho que os tiver nomeado, com dispensa do visto do Tribunal de Contas e independentemente da publicação no Diário da República.
 
@@ -128,31 +195,31 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5. Quando os providos sejam trabalhadores de empresas públicas, nacionalizadas ou privadas, exercerão as suas funções em regime de requisição, nos termos da lei geral em vigor para a requisição ao sector privado.
 
-###### Art. 5.º - 1. Sem prejuízo do disposto nos artigos anteriores, os Ministros e Secretários de Estado podem contratar além do quadro, ou admitir a título eventual, pessoal com as qualificações necessárias às funções a desempenhar, até ao máximo de três elementos.
+Art. 5.º - 1. Sem prejuízo do disposto nos artigos anteriores, os Ministros e Secretários de Estado podem contratar além do quadro, ou admitir a título eventual, pessoal com as qualificações necessárias às funções a desempenhar, até ao máximo de três elementos.
 
 2. A admissão desse pessoal será feita por despacho que fixará a respectiva remuneração, devendo esta ser igual à estabelecida para os funcionários do quadro de idêntica categoria.
 
 3. Tratando-se de funcionários públicos, poderão ser requisitados sem que se abra vaga no lugar de origem.
 
-###### Art. 6.º - 1. Os membros dos gabinetes dos Ministros da República poderão ser transferidos livremente do continente para as regiões autónomas e vice-versa, ficando a parte dos gabinetes que funciona no continente em ligação com a Presidência do Conselho de Ministros, sendo dirigida por um adjunto com a categoria de adjunto principal.
+Art. 6.º - 1. Os membros dos gabinetes dos Ministros da República poderão ser transferidos livremente do continente para as regiões autónomas e vice-versa, ficando a parte dos gabinetes que funciona no continente em ligação com a Presidência do Conselho de Ministros, sendo dirigida por um adjunto com a categoria de adjunto principal.
 
 2. Os membros dos gabinetes dos Ministros da República que prestam serviço nas regiões autónomas terão direito ao vencimento, acrescido de um terço ou a casa fornecida pelo Estado, sempre que, com residência permanente no continente, a tenham transferido para as regiões autónomas por força do exercício das suas funções.
 
 3. Junto de cada um dos Ministros da República funcionará uma auditoria jurídica dirigida pelo adjunto do procurador da República no círculo judicial respectivo, que poderá ser coadjuvado por um técnico jurista, com a categoria da letra F, aplicando-se, no provimento e fixação de remunerações, as normas estabelecidas no presente diploma para os restantes membros do gabinete.
 
-###### Art. 7.º - 1. O vencimento dos membros do gabinete é o que corresponde às letras que constam do quadro anexo ao presente diploma.
+Art. 7.º - 1. O vencimento dos membros do gabinete é o que corresponde às letras que constam do quadro anexo ao presente diploma.
 
 2. Os membros do gabinete não podem beneficiar de quaisquer gratificações ou abonos por trabalho extraordinário, mas gozam das regalias concedidas pelo serviço social do departamento em que estiverem integrados.
 
-###### Art. 8.º O apoio burocrático e administrativo aos gabinetes será prestado pela Secretaria-Geral ou organismos equivalentes do respectivo departamento governamental, podendo os funcionários ficar adstritos exclusivamente ao serviço do gabinete.
+Art. 8.º O apoio burocrático e administrativo aos gabinetes será prestado pela Secretaria-Geral ou organismos equivalentes do respectivo departamento governamental, podendo os funcionários ficar adstritos exclusivamente ao serviço do gabinete.
 
-###### Art. 9.º - 1. Os membros do Governo podem destacar para o gabinete funcionários dos serviços do seu Ministério, para apoio técnico e administrativo.
+Art. 9.º - 1. Os membros do Governo podem destacar para o gabinete funcionários dos serviços do seu Ministério, para apoio técnico e administrativo.
 
 2. Para os efeitos do número anterior, pode também qualquer Ministro recorrer à Secretaria-Geral da Presidência do Conselho de Ministros, obtida a concordância do Primeiro-Ministro, ou a qualquer outro Ministério, com o acordo do respectivo Ministro.
 
-###### Art. 10.º O artigo 1.º do [Decreto-Lei n.º 683-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-a-1974-415648), de 30 de Novembro, passa a ter a seguinte redacção:
+Art. 10.º O artigo 1.º do [Decreto-Lei n.º 683-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-a-1974-415648), de 30 de Novembro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. O Gabinete do Primeiro-Ministro tem a seguinte composição:
+Artigo 1.º - 1. O Gabinete do Primeiro-Ministro tem a seguinte composição:
 
 1 chefe do Gabinete;
 
@@ -162,20 +229,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2. O vencimento dos secretários pessoais é o correspondente à letra F da tabela inserta no n.º 2 do artigo 1.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro.
 
-###### Art. 11.º Os membros dos gabinetes e demais pessoal que em regime de contrato ou a título eventual neles prestem serviço à data da entrada em vigor do presente decreto-lei continuarão no exercício de funções sem dependência do cumprimento de qualquer formalidade.
+Art. 11.º Os membros dos gabinetes e demais pessoal que em regime de contrato ou a título eventual neles prestem serviço à data da entrada em vigor do presente decreto-lei continuarão no exercício de funções sem dependência do cumprimento de qualquer formalidade.
 
-###### Art. 12.º São revogados os seguintes diplomas: [Decreto-Lei n.º 785/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125), de 31 de Dezembro; [Decreto-Lei n.º 55/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1976-505999), de 22 de Janeiro; artigos 2.º a 6.º do [Decreto-Lei n.º 735/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/735-1976-409676), de 16 de Outubro; o n.º 4 do artigo 37.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, e artigos 1.º e 2.º do [Decreto-Lei n.º 796/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1976-407337), de 6 de Novembro.
+Art. 12.º São revogados os seguintes diplomas: [Decreto-Lei n.º 785/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125), de 31 de Dezembro; [Decreto-Lei n.º 55/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1976-505999), de 22 de Janeiro; artigos 2.º a 6.º do [Decreto-Lei n.º 735/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/735-1976-409676), de 16 de Outubro; o n.º 4 do artigo 37.º do [Decreto-Lei n.º 789/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/789-1976-409282), de 4 de Novembro, e artigos 1.º e 2.º do [Decreto-Lei n.º 796/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1976-407337), de 6 de Novembro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 25 de Junho de 1977.**
+Promulgado em 25 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/15100/16391641.pdf))](https://files.diariodarepublica.pt/1s/1977/07/15100/16391641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/15100/16391641.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

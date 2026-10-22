@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1972-673872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d9019ab05475bcd430f849d2b32bf7951232289c328e792dda1e4da10b81f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6549e0964562ef58b60f447c4315717ade8b208b3bb63b9034bb9ea8458b832f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Instituto de Odivelas
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:667354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:296230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681205:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667354:por
+  label: "Revogadas as disposições em contrário pelo DEC LEI.417/99.1999.10.21.MDN, DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/417-1999-667354
+  date: '1999-10-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:55Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +119,7 @@ Tendo ainda em atenção as características especiais do Instituto de Odivelas;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O recrutamento de professoras efectivas do Instituto de Odivelas, nomeação para o exercício dos respectivos cargos docentes, direitos, regalias e correspondentes deveres no desempenho das suas funções, e situação em que ficam perante o Ministério da Educação Nacional, passam a reger-se pelas seguintes disposições do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965:
+Artigo 1.º O recrutamento de professoras efectivas do Instituto de Odivelas, nomeação para o exercício dos respectivos cargos docentes, direitos, regalias e correspondentes deveres no desempenho das suas funções, e situação em que ficam perante o Ministério da Educação Nacional, passam a reger-se pelas seguintes disposições do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965:
 
 a) Artigo 1.º, n.º 1 [alíneas b), c) e d)];
 
@@ -111,7 +131,7 @@ d) Artigo 7.º, n.º 1, n.º 2 e n.º 3;
 
 e) Artigos 8.º, 9.º e 10.º
 
-###### Art. 2.º O recrutamento de professoras auxiliares ou agregadas de serviço eventual ou em comissão do Instituto de Odivelas, nomeação para o exercício dos respectivos cargos docentes, direitos, regalias e correspondentes deveres no desempenho das suas funções, e situação em que ficam perante o Ministério da Educação Nacional, passam a reger-se pelas seguintes disposições do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965:
+Art. 2.º O recrutamento de professoras auxiliares ou agregadas de serviço eventual ou em comissão do Instituto de Odivelas, nomeação para o exercício dos respectivos cargos docentes, direitos, regalias e correspondentes deveres no desempenho das suas funções, e situação em que ficam perante o Ministério da Educação Nacional, passam a reger-se pelas seguintes disposições do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965:
 
 a) Artigo 5.º n.º 1 [alíneas b) e c)], n.º 2 e n.º 3;
 
@@ -121,9 +141,9 @@ c) Artigo 7.º, n.º 1 e n.º 3;
 
 d) Artigos 8.º, 9.º e 10.º
 
-###### Art. 3.º Quando não haja professoras legalmente habilitadas para poderem ser providas no cargo de professoras de Desenho do Instituto de Odivelas, podem ser nomeadas professoras adjuntas, segundo a classificação do Estatuto do Ensino Profissional, diplomadas com o curso completo de Pintura, de Escultura ou de Arquitectura das escolas de belas-artes, com prática de ensino da especialidade em estabelecimento de ensino oficial, e com muito boas informações acerca da sua idoneidade pessoal e profissional.
+Art. 3.º Quando não haja professoras legalmente habilitadas para poderem ser providas no cargo de professoras de Desenho do Instituto de Odivelas, podem ser nomeadas professoras adjuntas, segundo a classificação do Estatuto do Ensino Profissional, diplomadas com o curso completo de Pintura, de Escultura ou de Arquitectura das escolas de belas-artes, com prática de ensino da especialidade em estabelecimento de ensino oficial, e com muito boas informações acerca da sua idoneidade pessoal e profissional.
 
-###### Art. 4.º Ficam revogados:
+Art. 4.º Ficam revogados:
 
 a) O [Decreto n.º 39919](https://diariodarepublica.pt/dr/detalhe/decreto/39919-1954-681205), de 22 de Novembro de 1954;
 
@@ -131,8 +151,8 @@ b) O [Decreto n.º 40122](https://diariodarepublica.pt/dr/detalhe/decreto/40122-
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - José Veiga Simão.
 
-**Promulgado em 7 de Junho de 1972.**
+Promulgado em 7 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

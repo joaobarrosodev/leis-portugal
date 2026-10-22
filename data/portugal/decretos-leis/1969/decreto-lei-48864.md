@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48864-1969-527603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 674b99c583940757e5d73ee63b509778766eda7bd4d69ce261ace1c1ec521c98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a74ed18dae52ce5865a710b1b42e90e58a95f2c5e2011601e5342ad9d3a0a06d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto do Oficial do Exército
+- Militar
+- Reserva
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:27Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +99,9 @@ Convindo adaptar às actuais circunstâncias e necessidades militares do ultrama
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 12.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ter a seguinte redacção:
+Artigo único. O artigo 12.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ter a seguinte redacção:
 
-###### Art. 12.º À situação de reserva passam os oficiais que:
+Art. 12.º À situação de reserva passam os oficiais que:
 
 a) Atinjam o limite de idade estabelecido para o respectivo posto no activo;
 
@@ -107,7 +119,7 @@ e) Requeiram a passagem a esta situação depois de completarem 60 anos de idade
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Manuel Bethencourt Conceição Rodrigues. Promulgado em 8 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

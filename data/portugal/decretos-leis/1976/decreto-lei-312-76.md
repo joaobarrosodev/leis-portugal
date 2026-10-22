@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60c3c4d814ce488975a15910f53a3846fe8a7890acfd5530a09b9a1fb0707944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fe988920d0494fdf71947150c649fa8377270763fda5b05e644a2f9f4f07537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Cobrança de Impostos
+- Código do Imposto Profissional
+- Contabilidade
+- Crime
+- Imposto Profissional
+- Isenção Fiscal
+- Multa
+- Profissão Independente
 relationships:
 - type: amended_by
   target: pt:dre:392414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426136:por
+  label: Alterado art. 5º do Código do Imposto Profissional aprovado pelo Dec Lei 44305 de 27-Abr de 1962, com a redacção
+    constante do presente diploma, pelo DEC LEI.138/78.12.06.1978.MFP, DR.IS [133-2ºSupl] de 12.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1978-426136
+  date: '1978-06-12'
+- type: amended_by
+  target: pt:dre:392414:por
+  label: "Alterados os arts. 5º e 20º e a tabela anexa e aditado um nº 1 ao art. 10º do Código do Imposto Profissional aprovado\
+    \ pelo Dec Lei 44305 de 27-Abr de 1962, com a redacção constante do presente diploma, pelo DEC LEI.198/82.21.05.1982.MFP,\
+    \ DR.IS [115] de 21.05.1982 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1982-392414
+  date: '1982-05-21'
+- type: cites
+  target: pt:dre:158395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:21Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +134,9 @@ Nestes termos,
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aditado o artigo 54.º-A ao Código do Imposto Profissional, passando os seus artigos 3.º, 5.º, 8.º, 9.º, 10.º, 19.º, 20.º, 31.º, 61.º e 62.º a ter a seguinte redacção:
+Artigo 1.º É aditado o artigo 54.º-A ao Código do Imposto Profissional, passando os seus artigos 3.º, 5.º, 8.º, 9.º, 10.º, 19.º, 20.º, 31.º, 61.º e 62.º a ter a seguinte redacção:
 
-###### Art. 3.º Não constituem matéria colectável:
+Art. 3.º Não constituem matéria colectável:
 
 a) ...
 
@@ -124,13 +150,13 @@ e) ...
 
 ...
 
-###### Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 60000$00.
+Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 60000$00.
 
 § único ...
 
 ...
 
-###### Art. 8.º Os contribuintes a que se refere a alínea c) do artigo 2.º ficam obrigados:
+Art. 8.º Os contribuintes a que se refere a alínea c) do artigo 2.º ficam obrigados:
 
 a) A passar recibos, na data da cobrança e em impressos modelo n.º 2, de todas as importâncias recebidas dos seus clientes, a título de remunerações, de provisões ou adiantamentos ou a qualquer outro;
 
@@ -158,11 +184,11 @@ f) dispensada a escrituração das despesas previstas no n.º 1 do corpo do arti
 
 § 5.º ...
 
-###### Art. 9.º Os contribuintes que exerçam por conta própria profissões constantes da tabela anexa e utilizem instalação fixa para o exercício da actividade são obrigados a afixar, na respectiva instalação e em local bem visível, um aviso com os seguintes dizeres: «De todas as importâncias pagas ou entregues pelos clientes é obrigatória a exigência do respectivo recibo.»
+Art. 9.º Os contribuintes que exerçam por conta própria profissões constantes da tabela anexa e utilizem instalação fixa para o exercício da actividade são obrigados a afixar, na respectiva instalação e em local bem visível, um aviso com os seguintes dizeres: «De todas as importâncias pagas ou entregues pelos clientes é obrigatória a exigência do respectivo recibo.»
 
 § único. De todos os pagamentos ou entregas efectuados aos contribuintes abrangidos pela alínea a) do artigo 8.º é obrigatória a exigência do respectivo recibo por parte dos clientes e, salvo outro destino justificado, a sua conservação, por estes, durante um ano, sem prejuízo da observância do disposto no artigo 134.º do Código da Contribuição Industrial.
 
-###### Art. 10.º No apuramento da matéria colectável dos contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa serão deduzidos às receitas os seguintes encargos:
+Art. 10.º No apuramento da matéria colectável dos contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa serão deduzidos às receitas os seguintes encargos:
 
 1.º Despesas com:
 
@@ -214,7 +240,7 @@ b) Relativamente a despesas de deslocação - os montantes máximos atribuídos 
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § 1.º ...
 
@@ -222,7 +248,7 @@ b) Relativamente a despesas de deslocação - os montantes máximos atribuídos 
 
 § 3.º ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 1.º ...
 
@@ -236,7 +262,7 @@ b) Relativamente a despesas de deslocação - os montantes máximos atribuídos 
 
 ...
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 § 1.º ...
 
@@ -250,23 +276,23 @@ b) Relativamente a despesas de deslocação - os montantes máximos atribuídos 
 
 ...
 
-###### Art. 54.º-A Os contribuintes quando solicitados devem facultar aos funcionários referidos no § 1.º do artigo 54.º e, bem assim, aos incumbidos de exame à escrita nos termos deste Código ou que desempenhem funções no Serviço de Prevenção e Fiscalização Tributária todos os elementos de escrita e documentos com ela relacionados, a fim de serem examinados e fiscalizados na instalação fixa utilizada para o exercício da actividade ou, na falta de instalação, no respectivo domicílio, em conformidade com o disposto no § 3.º do artigo 8.º
+Art. 54.º-A Os contribuintes quando solicitados devem facultar aos funcionários referidos no § 1.º do artigo 54.º e, bem assim, aos incumbidos de exame à escrita nos termos deste Código ou que desempenhem funções no Serviço de Prevenção e Fiscalização Tributária todos os elementos de escrita e documentos com ela relacionados, a fim de serem examinados e fiscalizados na instalação fixa utilizada para o exercício da actividade ou, na falta de instalação, no respectivo domicílio, em conformidade com o disposto no § 3.º do artigo 8.º
 
 § único. Se, por motivo de ausência ou impedimento do contribuinte, não forem facultados os elementos de escrita e respectiva documentação, os funcionários notificá-lo-ão, na pessoa do seu representante ou na de qualquer empregado, familiar ou porteiro, do dia e hora em que deve assegurar a efectivação da diligência, a realizar, do mesmo modo, no local previsto no corpo deste artigo.
 
-###### Art. 61.º As infracções ao disposto no corpo do artigo 8.º e nos seus §§ 3.º e 4.º serão punidas com multa de 1000$00 a 50000$00.
+Art. 61.º As infracções ao disposto no corpo do artigo 8.º e nos seus §§ 3.º e 4.º serão punidas com multa de 1000$00 a 50000$00.
 
 § 1.º A recusa de apresentação dos talões dos recibos passados ou das cadernetas e livros de registo de receitas e despesas a que se refere o artigo 8.º e seu § 3.º ou da demais documentação exigida na alínea b) do corpo do mesmo artigo, bem como a ocultação, destruição, inutilização, falsificação ou viciação dos mencionados elementos, serão punidas com multa de 2500$00 a 500000$00.
 
 § 2.º Considera-se recusada a exibição da escrita e dos documentos com ela relacionados quando não sejam postos à disposição dos funcionários competentes nos termos do artigo 54.º-A.
 
-###### Art. 62.º As infracções ao disposto no corpo do artigo 9.º serão punidas com multa de 1000$00 a 50000$00.
+Art. 62.º As infracções ao disposto no corpo do artigo 9.º serão punidas com multa de 1000$00 a 50000$00.
 
 § único. A falta de exigência dos recibos ou a falta da sua conservação, nos termos previstos no § único do artigo 9.º, ou, ainda, a recusa de apresentação, quando exigida pelos funcionários competentes para a respectiva fiscalização, serão punidas com a multa de 100$00 a 20000$00.
 
-###### Art. 2.º A tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional e o artigo 2.º do [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), de 18 de Abril, é substituída pela tabela anexa ao presente decreto-lei.
+Art. 2.º A tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional e o artigo 2.º do [Decreto-Lei n.º 209/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), de 18 de Abril, é substituída pela tabela anexa ao presente decreto-lei.
 
-###### Art. 3.º - 1. Os rendimentos do trabalho atribuídos pelas empresas, cujo pagamento se encontre suspenso por virtude de manifestas dificuldades de ordem financeira ou de acordo firmado com os trabalhadores, ainda que tais rendimentos sejam creditados nas contas individuais destes, somente ficam sujeitos, na parte afectada pela suspensão, à dedução prevista no artigo 26.º do Código do Imposto Profissional, a partir da data em que as respectivas importâncias forem efectivamente pagas ou postas à disposição dos seus titulares.
+Art. 3.º - 1. Os rendimentos do trabalho atribuídos pelas empresas, cujo pagamento se encontre suspenso por virtude de manifestas dificuldades de ordem financeira ou de acordo firmado com os trabalhadores, ainda que tais rendimentos sejam creditados nas contas individuais destes, somente ficam sujeitos, na parte afectada pela suspensão, à dedução prevista no artigo 26.º do Código do Imposto Profissional, a partir da data em que as respectivas importâncias forem efectivamente pagas ou postas à disposição dos seus titulares.
 
 2. As empresas que adoptem o regime previsto no número anterior ficam obrigadas:
 
@@ -276,22 +302,22 @@ b) A apresentar, durante os meses de Janeiro, Abril, Julho e Outubro, na reparti
 
 3. A falta de cumprimento das obrigações impostas no presente artigo, bem como as omissões ou a inexactidão dos elementos declarados, serão punidas nos termos e com as multas fixadas no artigo 59.º do Código do Imposto Profissional.
 
-###### Art. 4.º As disposições contidas no presente decreto-lei aplicar-se-ão aos rendimentos recebidos ou postos à disposição dos seus titulares no ano de 1976 e seguintes, salvo quanto às alterações introduzidas nos artigos 19.º, 20.º e 31.º do Código, que serão aplicáveis a situações pendentes e relativas à tributação de rendimentos de anos transactos.
+Art. 4.º As disposições contidas no presente decreto-lei aplicar-se-ão aos rendimentos recebidos ou postos à disposição dos seus titulares no ano de 1976 e seguintes, salvo quanto às alterações introduzidas nos artigos 19.º, 20.º e 31.º do Código, que serão aplicáveis a situações pendentes e relativas à tributação de rendimentos de anos transactos.
 
-###### Art. 5.º No ano de 1976, a escrituração das receitas e despesas no livro a que se refere o artigo 8.º, alínea b), do Código do Imposto Profissional poderá ser retardada até 30 de Setembro, sem prejuízo do prazo estabelecido na alínea a) do § 4.º do mesmo artigo, quando tal prazo ultrapassar aquela data.
+Art. 5.º No ano de 1976, a escrituração das receitas e despesas no livro a que se refere o artigo 8.º, alínea b), do Código do Imposto Profissional poderá ser retardada até 30 de Setembro, sem prejuízo do prazo estabelecido na alínea a) do § 4.º do mesmo artigo, quando tal prazo ultrapassar aquela data.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Imposto profissional
 
 Tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional e o artigo 2.º do Decreto-Lei n.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/04/10000/09260931.pdf))](https://files.diariodarepublica.pt/1s/1976/04/10000/09260931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/04/10000/09260931.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

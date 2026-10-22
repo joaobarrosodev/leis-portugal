@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/433-1971-633480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c790dd5afc18e705160c0d39dc2e21632061051a26a93cde2eb14c6fcb75422
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f95f2b93c4f7721d7cea83d187a5e81106891bec6613a4150c8003eaf3170691
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:35Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +93,24 @@ Nos termos do § 1.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta Autónoma de Estradas de Angola a contrair no Instituto de Crédito de Angola um empréstimo no montante de 250000000$00.
+Artigo 1.º É autorizada a Junta Autónoma de Estradas de Angola a contrair no Instituto de Crédito de Angola um empréstimo no montante de 250000000$00.
 
-###### Art. 2.º O empréstimo, a desdobrar em duas fracções de 100000000$00 e 150000000$00, será objecto de dois contratos a celebrar entre a Junta Autónoma de Estradas de Angola e o Instituto de Crédito de Angola, respectivamente em 1971 e 1972.
+Art. 2.º O empréstimo, a desdobrar em duas fracções de 100000000$00 e 150000000$00, será objecto de dois contratos a celebrar entre a Junta Autónoma de Estradas de Angola e o Instituto de Crédito de Angola, respectivamente em 1971 e 1972.
 
 § 1.º Para o contrato relativo a 1971 são fixadas as seguintes condições: taxa de juro de 6 por cento ao ano, comissão de imobilização de 0,5 por cento ao ano e liquidação em dez prestações anuais e sucessivas, incluindo a amortização do capital e o pagamento dos juros, com o vencimento da primeira prestação em 31 de Dezembro de 1972.
 
 § 2.º Para o contrato a celebrar em 1972 e relativo à fracção de 150000000$00 serão acordadas directamente entre a província de Angola e o Instituto de Crédito de Angola as respectivas condições.
 
-###### Art. 3.º O produto do empréstimo será integralmente aplicado nos trabalhos de construção das estradas do Leste da província.
+Art. 3.º O produto do empréstimo será integralmente aplicado nos trabalhos de construção das estradas do Leste da província.
 
-###### Art. 4.º Todos os encargos resultantes da execução da presente operação constituirão despesa obrigatória e preferencial da Junta Autónoma de Estradas de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à integral liquidação dos compromissos assumidos.
+Art. 4.º Todos os encargos resultantes da execução da presente operação constituirão despesa obrigatória e preferencial da Junta Autónoma de Estradas de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à integral liquidação dos compromissos assumidos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Outubro de 1971.**
+Promulgado em 1 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

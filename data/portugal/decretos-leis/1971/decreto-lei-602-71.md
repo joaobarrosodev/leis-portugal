@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 302/1971, 1º Suplemento, Série I de 1971-12-29
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2030-(16) a 2030-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30201/00160016.pdf
 entry_into_force_dates: []
@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/602-1971-423216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeaf7f8aaa335bba5c30511483484c48727d8d8878ce4a228d6154473ef32540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72fbaf7348bb8282db1ca62f9a45dc407224e2dbaace782d205ab9cd8041a39c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos de Importação
+- Importação
+- Indústria Electrotécnica
+- Indústria Metalúrgica
+- Máquina-Ferramenta
+- Pauta dos Direitos de Importação
+- Peixe
+- Produto Químico
+relationships:
+- type: cites
+  target: pt:dre:164575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423218:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:35Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +114,7 @@ Tendo em vista os resultados das negociações pautais consubstanciados no Proto
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na lista anexa ao [Decreto-Lei n.º 44418](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44418-1962-164575), de 26 de Junho de 1962, os artigos 03.02.01, 29.14.05, 29.14.23, 29.42.04, 40.09.01, 40.09.02, ex 85.15.01 e 90.19.02 passarão a ter as seguintes redacções:
+Artigo 1.º Na lista anexa ao [Decreto-Lei n.º 44418](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44418-1962-164575), de 26 de Junho de 1962, os artigos 03.02.01, 29.14.05, 29.14.23, 29.42.04, 40.09.01, 40.09.02, ex 85.15.01 e 90.19.02 passarão a ter as seguintes redacções:
 
 03.02 Peixe seco, salgado ou em salmoura; peixe fumado, mesmo que tenha sofrido a operação da cozedura antes ou durante a defumação:
 
@@ -129,7 +150,7 @@ ex 01 Aparelhos receptores para radiodifusão pesando mais de 5 kg cada um.
 
 02 Aparelhos para facilitar a audição dos surdos.
 
-###### Art. 2.º Na lista anexa ao [Decreto-Lei n.º 48188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48188-1967-405348), de 30 de Dezembro de 1967, os artigos 11.09, 15.02.02, 25.12, 28.03, 82.05.07, ex 84.53 e ex 85.08.02 passarão a ter as seguintes redacções:
+Art. 2.º Na lista anexa ao [Decreto-Lei n.º 48188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48188-1967-405348), de 30 de Dezembro de 1967, os artigos 11.09, 15.02.02, 25.12, 28.03, 82.05.07, ex 84.53 e ex 85.08.02 passarão a ter as seguintes redacções:
 
 11.09 Glúten de trigo, mesmo seco.
 
@@ -157,12 +178,12 @@ ex 84.53 Máquinas automáticas de tratamento da informação, verificadoras e m
 
 ex 02 Velas e bobinas de ignição.
 
-###### Art. 3.º Este diploma entra em vigor em 1 de Janeiro de 1972.
+Art. 3.º Este diploma entra em vigor em 1 de Janeiro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 23 de Dezembro de 1971.**
+Promulgado em 23 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

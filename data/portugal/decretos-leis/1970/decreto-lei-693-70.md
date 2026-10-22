@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 301/1970, 2º Suplemento, Série I de 1970-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2024-(35) a 2024-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30102/00350039.pdf
 entry_into_force_dates: []
@@ -47,40 +47,271 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/693-1970-414458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb09fbd05a3f4036b53bfab96d973fcbb9231f1d92e1a27bc7f99dcf586e48cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0adb60b7aaf5b439e0fe0030863e7efb3101a0ee958bca83ea7a5c3b1c73200
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Caixa Geral de Depósitos
+- Caixa Nacional de Crédito
+- Crime
+- Depósito Bancário
+- Divisa
+- Emolumento
+- Execução por Dívidas
+- Garantia
+- Junta de Crédito Público
+- Juros
+- Ministério Público
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:324487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689977:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447543:por
+  label: "Rectificado o nº2 do art. 1º, o nº2 do art. 2º, o nº1 do art. 3º, os arts. 16º e 17º e nº2 do art. 22º do presente\
+    \ diploma, pela RECT.DD424.16.02.1971.PC, DG.IS [39] de 16.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-447543
+  date: '1971-02-16'
+- type: repealed_by
+  target: pt:dre:591313:por
+  label: "Revogado, a partir de 01.10.1984, o art. 22.º pelo DEC LEI.224/84.06.07.1984.MJ, DR.IS [155-Supl] de 06.07.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1984-591313
+  date: '1984-07-06'
+- type: repealed_by
+  target: pt:dre:324487:por
+  label: "Revogado, salvo no que respeita à sua aplicação à Caixa Geral de Aposentações, pelo DEC LEI.287/93.1993.08.20.MF\
+    \ DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1993-324487
+  date: '1993-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:37Z'
   warnings: []
   errors: []
 ---
@@ -123,11 +354,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os juros calculados aos depósitos obrigatórios existentes na Caixa Geral de Depósitos constituem receita do Estado e devem, depois de liquidados, ser entregues à Fazenda Pública, salvo o disposto no número seguinte.
+Artigo 1.º - 1. Os juros calculados aos depósitos obrigatórios existentes na Caixa Geral de Depósitos constituem receita do Estado e devem, depois de liquidados, ser entregues à Fazenda Pública, salvo o disposto no número seguinte.
 
 2. Constituem receita das entidades depositantes os juros atribuídos aos depósitos das empresas, sociedades ou entidades particulares, dos estabelecimentos e institutos autónomos do Estado, organismos de coordenação económica, corpos administrativos e demais pessoas colectivas de direito público, organismos corporativos, pessoas colectivas de utilidade pública administrativa e instituições de previdência social, assistência e beneficência e ainda os juros que não devam ser entregues ao Tesouro por expressa disposição da lei ou despacho do Ministro das Finanças.
 
-###### Art. 2.º - 1. Os responsáveis por infracções ao disposto no artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, incorrem, pela primeira vez, em pena de multa de 2500$00 a 10000$00 e, quando funcionários públicos, também em responsabilidade disciplinar.
+Art. 2.º - 1. Os responsáveis por infracções ao disposto no artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, incorrem, pela primeira vez, em pena de multa de 2500$00 a 10000$00 e, quando funcionários públicos, também em responsabilidade disciplinar.
 
 2. No caso de recusa do cumprimento da referida disposição legal, depois de avisados, ou de reincidência, incorrerão os infractores na pena de desobediência qualificada, acrescendo sempre à respeciva pena a multa, que não poderá, nesses casos, ser inferior a 5000$00.
 
@@ -139,9 +370,9 @@ Art.º 3.º - 1. Para o efeito de fiscalizar o cumprimento do disposto no artigo
 
 4. Os autos levantados e as participações efectuadas em cumprimento do presente artigo fazem fé em juízo até prova em contrário.
 
-###### Art. 4.º O artigo 12.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
+Art. 4.º O artigo 12.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1. Deixam de ser exigíveis e prescrevem a favor da Caixa:
+Art. 12.º - 1. Deixam de ser exigíveis e prescrevem a favor da Caixa:
 
 a) Os depósitos voluntários ou obrigatórios em dinheiro, quando os seus titulares não tenham promovido a sua movimentação durante vinte anos consecutivos ou não tenham manifestado por qualquer outro modo legítimo o seu direito sobre eles;
 
@@ -155,63 +386,63 @@ c) Os saldos das contas de depósitos de importância inferior a 20$00 que duran
 
 4. Tratando-se de depósitos obrigatórios, a prescrição será comunicada à entidade com jurisdição sobre eles.
 
-###### Art. 5.º - 1. Os títulos e quaisquer outros valores depositados na Caixa não compreendidos no artigo 12.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), na redacção dada pelo artigo 4.º do presente diploma, consideram-se abandonados a favor do Estado, nos termos dos artigos 1.º a 5.º do [Decreto-Lei n.º 187/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1970-141856), de 30 de Abril.
+Art. 5.º - 1. Os títulos e quaisquer outros valores depositados na Caixa não compreendidos no artigo 12.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), na redacção dada pelo artigo 4.º do presente diploma, consideram-se abandonados a favor do Estado, nos termos dos artigos 1.º a 5.º do [Decreto-Lei n.º 187/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1970-141856), de 30 de Abril.
 
 2. Os títulos e valores a que se refere o n.º 1 serão entregues à Fazenda Pública. Tratando-se de títulos da dívida pública, a entrega será feita à Junta do Crédito Público, com destino ao respectivo Fundo de Regularização.
 
 3. É revogado o artigo 108.º do [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940.
 
-###### Art. 6.º As penhoras, arrestos e arrolamentos de depósitos obrigatórios, nos casos em que, segundo a lei, possam ter lugar, serão feitos nos próprios conhecimentos dos depósitos, lavrando-se os autos ou termos respectivos nos processos, perante a entidade que tiver jurisdição sobre os mesmos depósitos, e não podendo, em caso algum, tais actos ser processados na Caixa Geral de Depósitos.
+Art. 6.º As penhoras, arrestos e arrolamentos de depósitos obrigatórios, nos casos em que, segundo a lei, possam ter lugar, serão feitos nos próprios conhecimentos dos depósitos, lavrando-se os autos ou termos respectivos nos processos, perante a entidade que tiver jurisdição sobre os mesmos depósitos, e não podendo, em caso algum, tais actos ser processados na Caixa Geral de Depósitos.
 
-###### Art. 7.º - 1. Os arrestos, penhoras ou arrolamentos de depósitos voluntários existentes na Caixa Geral de Depósitos efectuar-se-ão nos termos da lei do processo civil, observado o disposto no n.º 2 do artigo 10.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586).
+Art. 7.º - 1. Os arrestos, penhoras ou arrolamentos de depósitos voluntários existentes na Caixa Geral de Depósitos efectuar-se-ão nos termos da lei do processo civil, observado o disposto no n.º 2 do artigo 10.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586).
 
 2. Os levantamentos dos depósitos arrestados, penhorados ou arrolados são feitos por meio de precatórios ou mandados das autoridades judiciais.
 
 3. No caso de depósitos nas delegações postais, a Caixa não é responsável por eventuais levantamentos efectuados no decurso das providências a que se refere este artigo.
 
-###### Art. 8.º Os fundos mutuados pela Caixa Geral de Depósitos não podem ter aplicação diferente daquela ou daquelas para que foram concedidos, salvo autorização da administração, e os mutuários obrigam-se a cumprir as normas legais e regulamentares estabelecidas, sob pena de rescisão do contrato.
+Art. 8.º Os fundos mutuados pela Caixa Geral de Depósitos não podem ter aplicação diferente daquela ou daquelas para que foram concedidos, salvo autorização da administração, e os mutuários obrigam-se a cumprir as normas legais e regulamentares estabelecidas, sob pena de rescisão do contrato.
 
-###### Art. 9.º - 1. O penhor constituído a favor da Caixa Geral de Depósitos é válido ainda que, com consentimento daquela, fique em poder do mutuário ou de terceiro.
+Art. 9.º - 1. O penhor constituído a favor da Caixa Geral de Depósitos é válido ainda que, com consentimento daquela, fique em poder do mutuário ou de terceiro.
 
 2. Os fiéis depositários do penhor estão sujeitos aos deveres impostos aos depositários judiciais e às sanções dos artigos 313.º, 317.º e 453.º do Código Penal.
 
-###### Art. 10.º - 1. Por cada empréstimo efectuado por intermédio do serviço da Casa de Crédito Popular da Caixa Geral de Depósitos será passado ao mutuário um documento, denominado «cautela de penhor», do qual constarão as cláusulas e condições do contrato e que servirá de titulo de propriedade dos valores dados em garantia, indispensável para o resgate destes.
+Art. 10.º - 1. Por cada empréstimo efectuado por intermédio do serviço da Casa de Crédito Popular da Caixa Geral de Depósitos será passado ao mutuário um documento, denominado «cautela de penhor», do qual constarão as cláusulas e condições do contrato e que servirá de titulo de propriedade dos valores dados em garantia, indispensável para o resgate destes.
 
 2. A cautela de penhor transmite-se por endosso, mas este só é válido depois de visado pela Casa de Crédito Popular.
 
-###### Art. 11.º - 1. No caso de se verificar que o penhor efectuado na Casa de Crédito Popular provém de facto criminoso, ficará o mesmo em depósito naquele serviço, à ordem da autoridade competente, e será restituído ao seu legítimo dono, depois de condenado o responsável na pena e na indemnização devida à Caixa Geral de Depósitos, podendo esta usar contra aquele do direito consignado na alínea c) do artigo 670.º do Código Civil.
+Art. 11.º - 1. No caso de se verificar que o penhor efectuado na Casa de Crédito Popular provém de facto criminoso, ficará o mesmo em depósito naquele serviço, à ordem da autoridade competente, e será restituído ao seu legítimo dono, depois de condenado o responsável na pena e na indemnização devida à Caixa Geral de Depósitos, podendo esta usar contra aquele do direito consignado na alínea c) do artigo 670.º do Código Civil.
 
 2. Se, no prazo de seis meses, a contar da data do depósito, não se descobrir o autor do crime ou se este for dado como não provado, o objecto apreendido será considerado, independentemente de qualquer diligência, como na posse legítima da Casa de Crédito Popular e válido o respectivo penhor para todos os efeitos. Se o crime for dado como provado, o objecto apreendido deve ser restituído ao seu legítimo dono.
 
-###### Art. 12.º Em matéria de impostos, o pessoal da Caixa fica, até 31 de Dezembro de 1971, em situação idêntica à do restante funcionalismo público. Desde essa data até 31 de Dezembro de 1973, passará a estar sujeito a 50 por cento da tributação legal, após o que lhe será aplicada integralmente essa tributação.
+Art. 12.º Em matéria de impostos, o pessoal da Caixa fica, até 31 de Dezembro de 1971, em situação idêntica à do restante funcionalismo público. Desde essa data até 31 de Dezembro de 1973, passará a estar sujeito a 50 por cento da tributação legal, após o que lhe será aplicada integralmente essa tributação.
 
-###### Art. 13.º - 1. Os servidores do estabelecimento, ao passarem à situação de aposentados, ficam sujeitos ao pagamento de uma indemnização correspondente a 1 por cento dos vencimentos actualmente auferidos, relativamente aos anos completos de serviço prestados até 25 de Abril de 1969, que aproveitem para o cálculo das respectivas pensões. O pagamento desta indemnização será efectuado, por desconto nas pensões, em cento e vinte prestações mensais.
+Art. 13.º - 1. Os servidores do estabelecimento, ao passarem à situação de aposentados, ficam sujeitos ao pagamento de uma indemnização correspondente a 1 por cento dos vencimentos actualmente auferidos, relativamente aos anos completos de serviço prestados até 25 de Abril de 1969, que aproveitem para o cálculo das respectivas pensões. O pagamento desta indemnização será efectuado, por desconto nas pensões, em cento e vinte prestações mensais.
 
 2. A obrigatoriedade de o pessoal indemnizar a Caixa Geral de Aposentações dos quantitativos em dívida subsiste a favor da entidade que tiver a seu cargo a pensão.
 
 3 (transitório). O disposto nos n.os 1 e 2 deste artigo é também aplicável quando o facto determinativo da aposentação dos servidores do estabelecimento, já aposentados ou a aguardar aposentação, tiver ocorrido entre 1 de Janeiro de 1970 e a data da entrada em vigor do presente diploma.
 
-###### Art. 14.º - 1. As filiais, agências e delegações da Caixa Geral de Depósitos não podem demandar ou ser demandadas, mesmo que a acção proceda de facto por elas praticado.
+Art. 14.º - 1. As filiais, agências e delegações da Caixa Geral de Depósitos não podem demandar ou ser demandadas, mesmo que a acção proceda de facto por elas praticado.
 
 2. Os agentes do Ministério Público não podem confessar a acção, transigir sobre o objecto, desistir do pedido ou da instância e deixar de recorrer de decisões desfavoráveis à Caixa sem anuência expressa da respectiva administração.
 
-###### Art. 15.º O artigo 49.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
+Art. 15.º O artigo 49.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
 
-###### Art. 49.º As disponibilidades do estabelecimento em numerário, sem aplicação imediata, serão depositadas à sua ordem no Banco de Portugal ou na Caixa Geral do Tesouro, salvo outro destino aprovado pelo Ministro das Finanças.
+Art. 49.º As disponibilidades do estabelecimento em numerário, sem aplicação imediata, serão depositadas à sua ordem no Banco de Portugal ou na Caixa Geral do Tesouro, salvo outro destino aprovado pelo Ministro das Finanças.
 
-###### Art. 16.º O artigo 52.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
+Art. 16.º O artigo 52.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
 
-###### Art. 52.º Os rendimentos e outras receitas da Caixa suportarão todas as despesas de gestão, incluindo encargos com juros ou outros, os prejuízos eventuais em operações, as amortizações normais e a concessão de subsídios, quando autorizada pelo Governo, a instituições que prossigam a satisfação de superiores interesses nacionais.
+Art. 52.º Os rendimentos e outras receitas da Caixa suportarão todas as despesas de gestão, incluindo encargos com juros ou outros, os prejuízos eventuais em operações, as amortizações normais e a concessão de subsídios, quando autorizada pelo Governo, a instituições que prossigam a satisfação de superiores interesses nacionais.
 
 Do lucro que resultar sairá a participação da administração e do pessoal e, depois de constituídas as necessárias reservas e provisões, o saldo final da conta «Ganhos e perdas» será aplicado em proporção de 20 por cento para o fundo de reserva e o restante para participação do Estado.
 
-###### Art. 17.º O artigo 61.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
+Art. 17.º O artigo 61.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
 
-###### Art. 61.º - 1. A cobrança coerciva de todas as dívidas de que seja credora a Caixa e suas instituições anexas é da competência dos tribunais de 1.ª instância das contribuições e impostos de Lisboa, servindo de títulos executivos as escrituras, títulos particulares, letras, livranças ou qualquer outro documento apresentado pela instituição exequente, incluindo as certidões ou fotocópias autenticadas extraídas dos livros de sua escrita.
+Art. 61.º - 1. A cobrança coerciva de todas as dívidas de que seja credora a Caixa e suas instituições anexas é da competência dos tribunais de 1.ª instância das contribuições e impostos de Lisboa, servindo de títulos executivos as escrituras, títulos particulares, letras, livranças ou qualquer outro documento apresentado pela instituição exequente, incluindo as certidões ou fotocópias autenticadas extraídas dos livros de sua escrita.
 
 2. Os documentos a que se refere o n.º 1 servirão igualmente para a Caixa e as instituições anexas deduzirem os seus direitos em quaisquer processos em que sejam reclamantes ou interessadas.
 
-###### Art. 18.º - 1. Mantém-se em vigor, sem prejuízo do disposto no mencionado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) e no presente diploma, a seguinte legislação respeitante a execuções por dívidas à Caixa:
+Art. 18.º - 1. Mantém-se em vigor, sem prejuízo do disposto no mencionado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) e no presente diploma, a seguinte legislação respeitante a execuções por dívidas à Caixa:
 
 [Decreto n.º 21315](https://diariodarepublica.pt/dr/detalhe/decreto/21315-1932-554623), de 4 de Junho de 1932;
 
@@ -229,7 +460,7 @@ O § 2.º do artigo 1.º e os artigos 2.º e 3.º do [Decreto n.º 20879](https:
 
 4. Nas execuções instauradas pela Caixa, quando suspensas ao abrigo da alínea a) do n.º 1 do artigo 62.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, as penhoras podem ser levantadas mediante anuência expressa daquela instituição.
 
-###### Art. 19.º - 1. Nas habilitações a vencimentos e pensões em dívida, bem como nos pedidos de reembolso de despesas de funeral, observar-se-ão os seguintes prazos:
+Art. 19.º - 1. Nas habilitações a vencimentos e pensões em dívida, bem como nos pedidos de reembolso de despesas de funeral, observar-se-ão os seguintes prazos:
 
 a) De noventa dias, contados do dia imediato ao do óbito, para entrega de requerimentos;
 
@@ -241,27 +472,27 @@ b) De cento e vinte dias, a contar do termo do prazo a que se refere a alínea a
 
 4. O prazo para a entrega de certidões relativas a habilitações judiciais é de sessenta dias, contados do trânsito em julgado da respectiva sentença.
 
-###### Art. 20.º - O artigo 65.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
+Art. 20.º - O artigo 65.º do citado [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586) passa a ter a seguinte redacção:
 
-###### Art. 65.º - 1. Os actos e contratos realizados pela Caixa e suas instituições anexas, e bem assim todos os actos que importem a sua revogação, rectificação ou alteração, podem ser titulados por documento particular ou simples troca de correspondência.
+Art. 65.º - 1. Os actos e contratos realizados pela Caixa e suas instituições anexas, e bem assim todos os actos que importem a sua revogação, rectificação ou alteração, podem ser titulados por documento particular ou simples troca de correspondência.
 
 2. Quando se trate de actos sujeitos a registo, observar-se-á o disposto no § 1.º do artigo 1.º do [Decreto-Lei n.º 35982](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35982-1946-149414), de 23 de Novembro de 1946.
 
 3. Continuam isentas de emolumentos, por actos efectuados na nota privativa da Caixa, as entidades não sujeitas a imposto do selo pelos mesmos actos.
 
-###### Art. 21.º - 1. As certidões e fotocópias autenticadas expedidas pela Caixa Geral de Depósitos ou suas instituições anexas estão sujeitas ao pagamento de emolumento igual ao que estiver fixado para as certidões e fotocópias passadas pelos serviços do Estado, salvo quando solicitadas pelas entidades a que se refere o n.º 3 do artigo 65.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, na redacção dada pelo artigo precedente.
+Art. 21.º - 1. As certidões e fotocópias autenticadas expedidas pela Caixa Geral de Depósitos ou suas instituições anexas estão sujeitas ao pagamento de emolumento igual ao que estiver fixado para as certidões e fotocópias passadas pelos serviços do Estado, salvo quando solicitadas pelas entidades a que se refere o n.º 3 do artigo 65.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, na redacção dada pelo artigo precedente.
 
 2. O emolumento cobrado constitui receita da Caixa ou da instituição anexa por onde for expedida a certidão ou fotocópia.
 
 3. Serão contados de harmonia com a legislação notarial vigente os emolumentos e receitas destinados a compensação de despesas relativamente a certidões e fotocópias extraídas na nota privativa da Caixa.
 
-###### Art. 22.º - 1. A Caixa Geral de Depósitos e suas instituições anexas podem remeter pela via postal, ao competente conservador do registo predial, os requerimentos em que solicitem a prática de quaisquer actos de registo ou a passagem de certidões respeitantes aos mesmos actos.
+Art. 22.º - 1. A Caixa Geral de Depósitos e suas instituições anexas podem remeter pela via postal, ao competente conservador do registo predial, os requerimentos em que solicitem a prática de quaisquer actos de registo ou a passagem de certidões respeitantes aos mesmos actos.
 
 2. Recebido o requerimento, o conservador fará a apresentação deste no Diário, no início do período do serviço imediato ao da recepção, e independentemente de preparo.
 
 3. Efectuado o registo ou passada a certidão, o conservador enviará os documentos à Caixa, também pela via postal, juntando nota dos emolumentos e despesas, que a administração da Caixa mandará satisfazer.
 
-###### Art. 23.º - 1. Todas as obras de construção, ampliação e conservação de edifícios da Caixa Geral de Depósitos passam, a partir de 1 de Janeiro de 1971, a ser administradas e fiscalizadas directamente pela mesma Caixa, ficando extinta, nessa data, a comissão administrativa criada pelo [Decreto-Lei n.º 32337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32337-1942-339792), de 23 de Outubro de 1942.
+Art. 23.º - 1. Todas as obras de construção, ampliação e conservação de edifícios da Caixa Geral de Depósitos passam, a partir de 1 de Janeiro de 1971, a ser administradas e fiscalizadas directamente pela mesma Caixa, ficando extinta, nessa data, a comissão administrativa criada pelo [Decreto-Lei n.º 32337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32337-1942-339792), de 23 de Outubro de 1942.
 
 2. Os bens, assim como os direitos e obrigações, da referida comissão, incluindo os relativos ao arrendamento do imóvel onde aquela tem sua sede, são transferidos para a Caixa na data indicada no número antecedente.
 
@@ -273,9 +504,9 @@ b) De cento e vinte dias, a contar do termo do prazo a que se refere a alínea a
 
 6. Mantém-se em vigor, relativamente à Caixa, o disposto no n.º 3 do artigo 64.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, quanto às expropriações de terrenos ou outros prédios necessários à construção e ampliação dos edifícios a que se refere o n.º 1 deste artigo.
 
-###### Art. 24.º À Caixa Geral de Depósitos e suas instituições anexas continuam a ser aplicáveis, em matéria de arrendamento, as disposições dos Decretos-Leis n.os 23465 e 23931, respectivamente de 18 de Janeiro e 31 de Maio de 1934.
+Art. 24.º À Caixa Geral de Depósitos e suas instituições anexas continuam a ser aplicáveis, em matéria de arrendamento, as disposições dos Decretos-Leis n.os 23465 e 23931, respectivamente de 18 de Janeiro e 31 de Maio de 1934.
 
-###### Art. 25.º São revogados:
+Art. 25.º São revogados:
 
 O [Decreto n.º 6007](https://diariodarepublica.pt/dr/detalhe/decreto/6007-1919-366271), de 7 de Agosto de 1919;
 
@@ -363,10 +594,10 @@ O n.º 2 do artigo 14.º do [Decreto-Lei n.º 48953](https://diariodarepublica.p
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

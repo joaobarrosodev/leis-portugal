@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30100/28752876.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/888-1976-416416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5b6d876f9f3f592011072be9e85991dd94c286134e2ee302e691db8cb073568
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0088a1ae7a2c5f38ac997ee45fbbd384a87ce9e32f1825b92658634e2e0edaa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Delegado
+- Ministério do Trabalho
+- Pessoal Administrativo
+- Secretaria de Estado do Trabalho
+- Subdelegado
 relationships:
 - type: amended_by
   target: pt:dre:621349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256809:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621349:por
+  label: "Revogado pelo DEC LEI.47/78.21.03.1978.MT, DR.IS [67]Supl de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1978-621349
+  date: '1978-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:23Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +122,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Aos delegados da Direcção de Serviços Regionais das Relações Colectivas de Trabalho da Secretaria de Estado do Trabalho compete, na área dos respectivos serviços:
+Artigo 1.º - 1. Aos delegados da Direcção de Serviços Regionais das Relações Colectivas de Trabalho da Secretaria de Estado do Trabalho compete, na área dos respectivos serviços:
 
 a) Dirigir os serviços das delegações;
 
@@ -125,14 +148,14 @@ b) Substituir os delegados nas suas faltas e impedimentos;
 
 c) Desempenhar as restantes funções que, por lei ou determinação superior, lhes sejam confiadas.
 
-###### Art. 2.º Os agentes administrativos investidos por despacho do Ministro do Trabalho ou do Secretário de Estado do Trabalho para o exercício das funções e competência dos cargos criados pelo [Decreto-Lei n.º 761/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/761-1974-256807), de 30 de Dezembro, têm, para todos os efeitos legais, as funções e competência reconhecidas a esses cargos.
+Art. 2.º Os agentes administrativos investidos por despacho do Ministro do Trabalho ou do Secretário de Estado do Trabalho para o exercício das funções e competência dos cargos criados pelo [Decreto-Lei n.º 761/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/761-1974-256807), de 30 de Dezembro, têm, para todos os efeitos legais, as funções e competência reconhecidas a esses cargos.
 
-###### Art. 3.º Desde que contidos nas funções e competência respectivas, definidas no [Decreto-Lei n.º 761/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/761-1974-256807), de 30 de Dezembro, e nos artigos anteriores, são confirmados, para todos os efeitos legais, os actos anteriores à data da entrada em vigor do presente diploma praticados pelos agentes administrativos referidos no artigo anterior, salvo quando tenham sido objecto de decisão judicial em contrário, com trânsito em julgado anterior à entrada em vigor do presente diploma.
+Art. 3.º Desde que contidos nas funções e competência respectivas, definidas no [Decreto-Lei n.º 761/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/761-1974-256807), de 30 de Dezembro, e nos artigos anteriores, são confirmados, para todos os efeitos legais, os actos anteriores à data da entrada em vigor do presente diploma praticados pelos agentes administrativos referidos no artigo anterior, salvo quando tenham sido objecto de decisão judicial em contrário, com trânsito em julgado anterior à entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Francisco Manuel Marcelo Monteiro Curto.
 
-**Promulgado em 17 de Dezembro de 1976.**
+Promulgado em 17 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

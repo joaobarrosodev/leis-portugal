@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1970-227783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3adfcf3babffef012f0262f825d907f4dfee88ed4dcef451b1f24fcc5a66ec91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e6ef137099a409ec0526526e4d7c3aeb1bfa87a2f927ce16179989a5e3021f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:262173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:27Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Sempre que um concurso para o provimento de lugares dos quadros privativos das províncias ultramarinas fique deserto ou o número de candidatos não for suficiente para o preenchimento das vagas existentes, ou quando os concorrentes não preencherem os requisitos legais, poderá o governador-geral ou de província nomear para os mesmos, lugares, sem dependência de concurso, indivíduos que hajam terminado a prestação do serviço militar em unidades destacadas no ultramar, ou, obrigatòriamente, nas suas forças privativas, desde que possuam habilitações consideradas, em cada caso, suficientes para o seu desempenho.
+Artigo 1.º Sempre que um concurso para o provimento de lugares dos quadros privativos das províncias ultramarinas fique deserto ou o número de candidatos não for suficiente para o preenchimento das vagas existentes, ou quando os concorrentes não preencherem os requisitos legais, poderá o governador-geral ou de província nomear para os mesmos, lugares, sem dependência de concurso, indivíduos que hajam terminado a prestação do serviço militar em unidades destacadas no ultramar, ou, obrigatòriamente, nas suas forças privativas, desde que possuam habilitações consideradas, em cada caso, suficientes para o seu desempenho.
 
-###### Art. 2.º É alterada como segue a redacção do § 2.º do artigo 94.º do Estatuto do Funcionalismo Ultramarino:
+Art. 2.º É alterada como segue a redacção do § 2.º do artigo 94.º do Estatuto do Funcionalismo Ultramarino:
 
-###### Art. 94.º ...
+Art. 94.º ...
 
 § 1.º ...
 
@@ -105,7 +113,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Enquanto se não verificar a abertura de vaga, o impedimento do titular do lugar poderá ser suprido por qualquer dos meios admitidos na lei.
 
-###### Art. 3.º - 1. É aumentado, para a província de Angola, ao quadro comum dos engenheiros dos serviços de portos, caminhos de ferro e transportes do ultramar, considerando-se incluído no mapa anexo ao [Decreto n.º 48768](https://diariodarepublica.pt/dr/detalhe/decreto/48768-1968-262173), de 17 de Dezembro de 1968:
+Art. 3.º - 1. É aumentado, para a província de Angola, ao quadro comum dos engenheiros dos serviços de portos, caminhos de ferro e transportes do ultramar, considerando-se incluído no mapa anexo ao [Decreto n.º 48768](https://diariodarepublica.pt/dr/detalhe/decreto/48768-1968-262173), de 17 de Dezembro de 1968:
 
 1 engenheiro-chefe:
 
@@ -113,9 +121,9 @@ Subdirector de exploração.
 
 2. O lugar aumentado no número anterior será provido, sem necessidade de mais formalidades, incluindo o visto e posse, pelo engenheiro de 1.ª classe do mesmo quadro comum que em comissão ordinária vem desempenhando as funções de chefe da Missão Especial n.º IV (Exploração do Porto e Caminho de Ferro de Moçâmedes) do Grupo de Missões do Projecto Mineiro de Cassinga.
 
-###### Art. 4.º O n.º 2.º do artigo 10.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962, passa a ter a seguinte redacção:
+Art. 4.º O n.º 2.º do artigo 10.º do [Decreto n.º 44227](https://diariodarepublica.pt/dr/detalhe/decreto/44227-1962-518188), de 9 de Março de 1962, passa a ter a seguinte redacção:
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 1.º ...
 
@@ -125,9 +133,9 @@ Engenheiros de 2.ª classe, quando exercendo funções de adjunto de chefes de s
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Janeiro de 1970.**
+Promulgado em 26 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

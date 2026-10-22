@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/07/17500/09560958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43832-1961-173513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bfe74ec8014fdcf74c247da2ccd6129f2cf3f7df0fbe15c8707cc982144ecc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affc8adee72989bb157117adcd47ef5ce433218c4d807c8b317ad2ca31ade5dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Comércio
+- Comissão Reguladora das Moagens de RAMA
+- Definição de Competências
+- Especificação Técnica
+- Exploração Agrícola
+- Farinha
+- Federação Nacional dos Produtores de Trigo
+- Fertilizante
+- Financiamento
+- Indústria da Panificação
+- Isenção de Taxas e Emolumentos
+- Preço
+- Taxa
+- Transporte de Mercadorias
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:380931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159965:por
+  label: "Dada nova redacção ao art. 9º do presente diploma, e mantido em vigor para o ano cerealífero de 1963, tudo o que\
+    \ demais nele está disposto pelo DEC LEI.44571.12.09.1962.MECO, DG.IS [210] de 12.09.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44571-1962-159965
+  date: '1962-09-12'
+- type: cites
+  target: pt:dre:431979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380931:por
+  label: "Revogado pelo DEC LEI.289/84.24.08.1984.MAFA, DR.IS [196] de 24.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1984-380931
+  date: '1984-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:55Z'
   warnings: []
   errors: []
 ---
@@ -112,27 +147,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Mantém-se para o próximo ano cerealífero o disposto no [Decreto-Lei n.º 43346](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43346-1960-513013), de 22 de Novembro de 1960, com as alterações constantes do presente diploma.
+Artigo 1.º Mantém-se para o próximo ano cerealífero o disposto no [Decreto-Lei n.º 43346](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43346-1960-513013), de 22 de Novembro de 1960, com as alterações constantes do presente diploma.
 
-###### Art. 2.º É concedida este ano, a título excepcional, aos produtores de trigo uma subvenção global de 220000 contos. A subvenção será paga pela Federação Nacional dos Produtores de Trigo aos proprietários, rendeiros, seareiros ou parceiros que tenham cultivado o trigo, não tendo a ela direito os que entreguem o cereal recebido em pagamento de renda, foros, pensões por prestações de serviços, remuneração de trabalho ou maquias.
+Art. 2.º É concedida este ano, a título excepcional, aos produtores de trigo uma subvenção global de 220000 contos. A subvenção será paga pela Federação Nacional dos Produtores de Trigo aos proprietários, rendeiros, seareiros ou parceiros que tenham cultivado o trigo, não tendo a ela direito os que entreguem o cereal recebido em pagamento de renda, foros, pensões por prestações de serviços, remuneração de trabalho ou maquias.
 
 § 1.º A Corporação da Lavoura proporá ao Secretário de Estado do Comércio, no prazo de quinze dias, a forma da distribuição desta subvenção, nas condições deste artigo.
 
 § 2.º A Federação Nacional dos Produtores de Trigo será autorizada a contrair um empréstimo na Caixa Geral de Depósitos, Crédito e Previdência até ao montante da subvenção referida neste artigo, constituindo o respectivo pagamento encargo do Fundo de Abastecimento por força das receitas provenientes do produto do diferencial, cobrado a seu favor, relativo aos trigos importados para consumo no continente, e da própria Federação por força das receitas provenientes da importação de trigo para as ilhas adjacentes, já disponíveis e a arrecadar até final de 1964.
 
-###### Art. 3.º A incorporação de farinhas de outros cereais nas farinhas de trigo espoadas e em rama é determinada por despacho do Secretário de Estado do Comércio, mediante proposta do Instituto Nacional do Pão.
+Art. 3.º A incorporação de farinhas de outros cereais nas farinhas de trigo espoadas e em rama é determinada por despacho do Secretário de Estado do Comércio, mediante proposta do Instituto Nacional do Pão.
 
-###### Art. 4.º As características das farinhas de trigo, centeio e milho e do pão com elas fabricado são aprovadas por despacho do Secretário de Estado do Comércio, mediante proposta do Instituto Nacional do Pão.
+Art. 4.º As características das farinhas de trigo, centeio e milho e do pão com elas fabricado são aprovadas por despacho do Secretário de Estado do Comércio, mediante proposta do Instituto Nacional do Pão.
 
-###### Art. 5.º As farinhas fornecidas à panificação que não tenham as características legais devem ser imediatamente substituídas pelas moagens fornecedoras responsáveis pela falta, para o que lhes serão devolvidas, a fim de procederem à sua beneficiação ou desnaturação, conforme ao caso couber.
+Art. 5.º As farinhas fornecidas à panificação que não tenham as características legais devem ser imediatamente substituídas pelas moagens fornecedoras responsáveis pela falta, para o que lhes serão devolvidas, a fim de procederem à sua beneficiação ou desnaturação, conforme ao caso couber.
 
-###### Art. 6.º Mantêm-se os preços em vigor para as farinhas espoadas de trigo e para o pão com elas fabricado.
+Art. 6.º Mantêm-se os preços em vigor para as farinhas espoadas de trigo e para o pão com elas fabricado.
 
-###### Art. 7.º É libertado o preço da farinha e do pão de centeio e de milho, bem como o do pão de mistura, mantendo-se, no entanto, o da farinha e do pão de ramas de trigo.
+Art. 7.º É libertado o preço da farinha e do pão de centeio e de milho, bem como o do pão de mistura, mantendo-se, no entanto, o da farinha e do pão de ramas de trigo.
 
 § único. O Secretário de Estado do Comércio pode porém fixar regionalmente os preços das farinhas e do pão de centeio, de milho e de mistura, bem como alterar os da farinha e do pão de ramas de trigo, mediante proposta do Instituto Nacional do Pão, ouvidos os respectivos governadores civis e os grémios dos industriais de panificação.
 
-###### Art. 8.º No pão comum de farinhas em rama de trigo com incorporação, a farinha é peneirada no estabelecimento de fabrico por meio de tela que não pode exceder o número 44 (17 (mais ou menos) 1 malhas por centímetro linear).
+Art. 8.º No pão comum de farinhas em rama de trigo com incorporação, a farinha é peneirada no estabelecimento de fabrico por meio de tela que não pode exceder o número 44 (17 (mais ou menos) 1 malhas por centímetro linear).
 
 § 1.º Nas regiões onde seja tradicional o fabrico de pão alvo a farinha de trigo em rama sem incorporação que é utilizada no seu fabrico pode ser peneirada por tela mais apertada do que a indicada neste artigo.
 
@@ -140,9 +175,9 @@ Compete ao Instituto Nacional do Pão definir essas regiões, ouvidos os grémio
 
 § 2.º No pão integral, a farinha de trigo em rama sem incorporação que é utilizada no seu fabrico não pode sofrer qualquer peneiração.
 
-###### Art. 9.º No pão de mistura de farinhas de trigo, centeio e milho, ou apenas de duas destas, qualquer dos componentes deve entrar na mistura com o mínimo de 30 por cento do total da farinha utilizada, sem prejuízo no disposto no artigo 75.º do regulamento aprovado pelo [Decreto-Lei n.º 42477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42477-1959-431979), de 29 de Agosto de 1959.
+Art. 9.º No pão de mistura de farinhas de trigo, centeio e milho, ou apenas de duas destas, qualquer dos componentes deve entrar na mistura com o mínimo de 30 por cento do total da farinha utilizada, sem prejuízo no disposto no artigo 75.º do regulamento aprovado pelo [Decreto-Lei n.º 42477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42477-1959-431979), de 29 de Agosto de 1959.
 
-###### Art. 10.º São isentas do pagamento de taxas para a Comissão Reguladora das Moagens de Ramas as entidades exploradoras de moinhos ou azenhas, produtoras de farinhas em rama de trigo, centeio e milho, que realizem as seguintes condições:
+Art. 10.º São isentas do pagamento de taxas para a Comissão Reguladora das Moagens de Ramas as entidades exploradoras de moinhos ou azenhas, produtoras de farinhas em rama de trigo, centeio e milho, que realizem as seguintes condições:
 
 1.º Tenham a sua actividade confinada à moenda remunerada por maquia ou por tarefa;
 
@@ -150,10 +185,10 @@ Compete ao Instituto Nacional do Pão definir essas regiões, ouvidos os grémio
 
 § único. Aos beneficiários da isenção prevista neste artigo não serão distribuídos cereais pela Comissão Reguladora das Moagens de Ramas, a não ser que declarem expressamente não querer aproveitá-la.
 
-###### Art. 11.º As avenças presentemente em dívida à Comissão Reguladora das Moagens de Ramas, referentes aos meses decorridos do ano em curso e ao ano transacto, poderão ser pagas pelos devedores em três prestações iguais, a satisfazer, respectivamente, até 31 de Dezembro de 1961, de 1962 e de 1963.
+Art. 11.º As avenças presentemente em dívida à Comissão Reguladora das Moagens de Ramas, referentes aos meses decorridos do ano em curso e ao ano transacto, poderão ser pagas pelos devedores em três prestações iguais, a satisfazer, respectivamente, até 31 de Dezembro de 1961, de 1962 e de 1963.
 
-###### Art. 12.º É permitido o transporte e a venda a granel dos adubos que forem especificados em despacho do Secretário de Estado do Comércio quando se destinem a organismos colectivos da lavoura ou a produtores agrícolas, desde que as quantidades transaccionadas e transportadas sejam directamente expedidas das fábricas e correspondam a um ou mais vagões completos ou a contentores adequados.
+Art. 12.º É permitido o transporte e a venda a granel dos adubos que forem especificados em despacho do Secretário de Estado do Comércio quando se destinem a organismos colectivos da lavoura ou a produtores agrícolas, desde que as quantidades transaccionadas e transportadas sejam directamente expedidas das fábricas e correspondam a um ou mais vagões completos ou a contentores adequados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos - João Augusto Dias Rosas.

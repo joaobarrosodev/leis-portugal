@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/24200/15391542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/432-1971-633370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 728cb9ba9d6ffa937e8fb0465d60ff0a86cd87e4539f5da154640eaf5dec47cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b28dd652d817fe6353f95c33422b381db48984d0a5f29ca40d5bf63690459278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:252058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480771:por
+  label: "Alterado o artigo 7.º do Decreto 26747, de 06 de Julho de 1936, na redacção do presente diploma, pelo DEC.3/76.19.12.1975.MTC,\
+    \ DG.IS [2] de 03.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-1976-480771
+  date: '1975-12-19'
+- type: cites
+  target: pt:dre:361304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252058:por
+  label: "Revogado pelo DR.28/77.03.05.1977.MCT, DR.IS [114] de 17.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1977-252058
+  date: '1977-05-03'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:34Z'
   warnings: []
   errors: []
 ---
@@ -121,11 +147,11 @@ Tendo em vista o disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 36977](h
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São substituídos pelo articulado do presente decreto os artigos 1.º e 7.º do título I «Disposições gerais», os artigos 38.º, 39.º, 41.º e 42.º do capítulo II «Armazenagem de mercadorias», os artigos 45.º e 47.º do capítulo III «Tráfego» e todas as disposições do capítulo IV «Disposições diversas» do título III «Mercadorias» e ainda o artigo 100.º do capítulo IV «Pessoal» do título VII «Fornecimentos, aluguéis, serviços e autorizações diversas» e é suprimido o artigo 43.º do capítulo II do título III do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, e alterado pelos Decretos n.os 35842, de 30 de Agosto de 1946, 48345, de 20 de Abril de 1968, e 341/70, de 17 de Julho.
+Artigo único. São substituídos pelo articulado do presente decreto os artigos 1.º e 7.º do título I «Disposições gerais», os artigos 38.º, 39.º, 41.º e 42.º do capítulo II «Armazenagem de mercadorias», os artigos 45.º e 47.º do capítulo III «Tráfego» e todas as disposições do capítulo IV «Disposições diversas» do título III «Mercadorias» e ainda o artigo 100.º do capítulo IV «Pessoal» do título VII «Fornecimentos, aluguéis, serviços e autorizações diversas» e é suprimido o artigo 43.º do capítulo II do título III do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, e alterado pelos Decretos n.os 35842, de 30 de Agosto de 1946, 48345, de 20 de Abril de 1968, e 341/70, de 17 de Julho.
 
 ## TÍTULO I — Disposições gerais
 
-###### Artigo 1.º A unidade de medida, para aplicação de taxas, é estabelecida consoante os casos.
+Artigo 1.º A unidade de medida, para aplicação de taxas, é estabelecida consoante os casos.
 
 As modalidades previstas são:
 
@@ -149,7 +175,7 @@ g) Por tonelagem das embarcações - a unidade de aplicação é a tonelada de a
 
 ...
 
-###### Art. 7.º O serviço prestado fora das horas normais de trabalho dos dias úteis é considerado da exclusiva conveniência do interessado, que o deve requisitar prèviamente.
+Art. 7.º O serviço prestado fora das horas normais de trabalho dos dias úteis é considerado da exclusiva conveniência do interessado, que o deve requisitar prèviamente.
 
 § único. Em caso de congestionamento dos portos do Douro e Leixões, a Administração poderá obrigar a execução de serviços fora do horário normal dos dias úteis.
 
@@ -159,11 +185,11 @@ g) Por tonelagem das embarcações - a unidade de aplicação é a tonelada de a
 
 ### CAPÍTULO II — Armazenagem de mercadorias
 
-###### Art. 38.º O estacionamento de mercadorias, até às 24 horas do dia imediato ao do seu depósito em cais livre ou entreposto, é livre.
+Art. 38.º O estacionamento de mercadorias, até às 24 horas do dia imediato ao do seu depósito em cais livre ou entreposto, é livre.
 
 § único. Considera-se armazenagem o estacionamento de mercadorias além do prazo estabelecido no corpo deste artigo.
 
-###### Art. 39.º - 1. Toda a mercadoria classificada como carga geral que se ache armazenada a descoberto em cais livre pagará, por metro quadrado de espaço ocupado, as taxas de armazenagem definidas pelas expressões seguintes, em que m representa o número de meses completos de armazenagem e d o número de dias completos ou incompletos excedentes:
+Art. 39.º - 1. Toda a mercadoria classificada como carga geral que se ache armazenada a descoberto em cais livre pagará, por metro quadrado de espaço ocupado, as taxas de armazenagem definidas pelas expressões seguintes, em que m representa o número de meses completos de armazenagem e d o número de dias completos ou incompletos excedentes:
 
 Até sete dias - 2$50.
 
@@ -213,13 +239,13 @@ b) As taxas de armazenagem em entreposto incidem sobre aquela das medidas, peso 
 
 ...
 
-###### Art. 41.º As mercadorias classificadas como carga geral que permanecerem depositadas no veículo que as transporte para além das 24 horas do dia da sua entrada no cais livre ou entreposto pagarão, sobre a área ocupada pelo veículo, as seguintes taxas de armazenagem:
+Art. 41.º As mercadorias classificadas como carga geral que permanecerem depositadas no veículo que as transporte para além das 24 horas do dia da sua entrada no cais livre ou entreposto pagarão, sobre a área ocupada pelo veículo, as seguintes taxas de armazenagem:
 
 a) Em cais livre - as taxas do artigo 39.º, n.º 1;
 
 b) Em entreposto - o quádruplo das taxas do artigo 39.º, n.º 1.
 
-###### Art. 42.º As mercadorias classificadas como carga especial armazenadas em cais livre ou entreposto pagarão o triplo das respectivas taxas de armazenagem, consideradas nos artigos 39.º e 41.º
+Art. 42.º As mercadorias classificadas como carga especial armazenadas em cais livre ou entreposto pagarão o triplo das respectivas taxas de armazenagem, consideradas nos artigos 39.º e 41.º
 
 CAPTTULO III
 
@@ -227,7 +253,7 @@ Tráfego
 
 ...
 
-###### Art. 45.º A taxa de tráfego tem os seguintes valores, consoante as mercadorias movimentadas sobre que incide:
+Art. 45.º A taxa de tráfego tem os seguintes valores, consoante as mercadorias movimentadas sobre que incide:
 
 a) Generalidade das mercadorias - $50 por tonelada, com o mínimo cobrável de 1$00;
 
@@ -245,7 +271,7 @@ g) Redes, aprestos e diversos de embarcações de pesca - 1$00 por operação de
 
 ...
 
-###### Art. 47.º Não se aplica taxa de tráfego às seguintes mercadorias:
+Art. 47.º Não se aplica taxa de tráfego às seguintes mercadorias:
 
 a) Mercadorias de tráfego fluvial local, embarcadas ou desembarcadas nas margens do rio Douro, fora dos cais acostáveis;
 
@@ -253,7 +279,7 @@ b) Peixe descarregado de embarcações de pesca, fora dos cais ou pontes-cais ac
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 48.º - 1. Pela pesagem de mercadorias em balanças de armazém cobrar-se-á uma taxa em função do peso dos volumes pesados e do número de pesadas, dada pela expressão seguinte, em que T representa o número de toneladas e P o número de pesadas:
+Art. 48.º - 1. Pela pesagem de mercadorias em balanças de armazém cobrar-se-á uma taxa em função do peso dos volumes pesados e do número de pesadas, dada pela expressão seguinte, em que T representa o número de toneladas e P o número de pesadas:
 
 5$00 x T + 1$00 x P
 
@@ -273,7 +299,7 @@ Quaisquer volumes de mercadoria - 15$00.
 
 § único. Nas taxas referidas nos n.os 1, 2 e 5 deste artigo está incluído, além do fornecimento do material de pesar, o pessoal da Administração empregado na fiscalização das pesagens nas balanças de armazém ou na execução das pesagens nas balanças-básculas.
 
-###### Art. 49.º - 1. Qualquer modificação, conserto, exame, picagem, marcação, contramarcação e, de uma forma geral, toda a manipulação sofrida pela mercadoria por requisição do interessado ficam sujeitos ao pagamento da seguinte taxa, que inclui a assistência ao pessoal da Administração para efeito de fiscalização do serviço:
+Art. 49.º - 1. Qualquer modificação, conserto, exame, picagem, marcação, contramarcação e, de uma forma geral, toda a manipulação sofrida pela mercadoria por requisição do interessado ficam sujeitos ao pagamento da seguinte taxa, que inclui a assistência ao pessoal da Administração para efeito de fiscalização do serviço:
 
 Por cada meia hora empregada na execução do serviço, 10$00.
 
@@ -287,9 +313,9 @@ Por cada meia hora empregada na execução do serviço, 10$00.
 
 § 3.º Se a selagem de um volume for realizada a pedido do interessado, será facturado, além do valor da taxa a que se refere o n.º 3 deste artigo, o pessoal da Administração empregado na execução do serviço e a respectiva pesagem.
 
-###### Art. 50.º Pela utilização de encerados para cobrir mercadorias será cobrada, por cada encerado e por dia completo ou incompleto, a taxa de 15$00.
+Art. 50.º Pela utilização de encerados para cobrir mercadorias será cobrada, por cada encerado e por dia completo ou incompleto, a taxa de 15$00.
 
-###### Art. 51.º Em casos de reconhecida necessidade, para descongestionamento dos portos e desembaraço dos terraplenos e armazéns, poderá o conselho de administração dos portos do Douro e Leixões agravar, pelo tempo necessário à normalização da situação e até ao máximo de 100 por cento do seu valor regulamentar, as taxas de armazenagem que incidem sobre as mercadorias que contribuem para esse congestionamento.
+Art. 51.º Em casos de reconhecida necessidade, para descongestionamento dos portos e desembaraço dos terraplenos e armazéns, poderá o conselho de administração dos portos do Douro e Leixões agravar, pelo tempo necessário à normalização da situação e até ao máximo de 100 por cento do seu valor regulamentar, as taxas de armazenagem que incidem sobre as mercadorias que contribuem para esse congestionamento.
 
 ...
 
@@ -299,14 +325,14 @@ Por cada meia hora empregada na execução do serviço, 10$00.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 100.º O pessoal da Administração empregado em serviço cujas taxas não incluem os encargos com o mesmo pessoal será facturado, por cada indivíduo
+Art. 100.º O pessoal da Administração empregado em serviço cujas taxas não incluem os encargos com o mesmo pessoal será facturado, por cada indivíduo
 
 e por hora indivisível, por uma taxa igual ao vencimento ou salário horário, acrescido de 20 por cento e com arredondamento para escudos por excesso.
 
 Marcello Caetano - Augusto Victor Coelho - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 29 de Setembro de 1971.**
+Promulgado em 29 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

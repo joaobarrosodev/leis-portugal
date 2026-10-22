@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/41-1971-446774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63e9dbe75458c4afff98d658e228cb5b4ae32feeb9f6a295736a7dec3fb022be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68b83a156f209064b3c3bf6d4b078db8fef21f2fb46a5620991eec63613e18ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:21Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +90,17 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A lotação, em pessoal da Armada, da Repartição Provincial dos Serviços de Marinha de Cabo Verde é a que consta do mapa anexo.
+Artigo 1.º A lotação, em pessoal da Armada, da Repartição Provincial dos Serviços de Marinha de Cabo Verde é a que consta do mapa anexo.
 
-###### Art. 2.º Os lugares criados por este diploma serão preenchidos à medida que as necessidades do serviço o imponham e as disponibilidades orçamentais o permitam.
+Art. 2.º Os lugares criados por este diploma serão preenchidos à medida que as necessidades do serviço o imponham e as disponibilidades orçamentais o permitam.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Fevereiro de 1971.**
+Promulgado em 6 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 
@@ -116,4 +116,4 @@ MAPA ANEXO
 
 6 cabos, das seguintes classes: 1 de artilheiros, 1 de torpedeiros-detectores, 1 de radaristas, 2 de manobra e 1 de sinaleiros - Patrões-mores e cabos-de-mar.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1971-445908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37ae8928b057ba884ab4c18a537c792c040628263e55bf9798446e19849f8d74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e771241f0f1dbeceb5a2ddb606a81d49e4d719e2f904f30936f3c93e4429b79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Presidência do Conselho
+- Promoção Profissional
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Telefonista
 relationships:
 - type: amended_by
   target: pt:dre:421988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508054:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:59Z'
   warnings: []
   errors: []
 ---
@@ -101,31 +120,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2. do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os quadros dos serviços dependentes da Presidência do Conselho em que estejam incluídos escriturários-dactilógrafos passam a compreender, em igual número, lugares de 1.ª e de 2.ª classes, dividindo-se pelas duas categorias o número de lugares actualmente existente.
+Artigo 1.º - 1. Os quadros dos serviços dependentes da Presidência do Conselho em que estejam incluídos escriturários-dactilógrafos passam a compreender, em igual número, lugares de 1.ª e de 2.ª classes, dividindo-se pelas duas categorias o número de lugares actualmente existente.
 
 2. Quando o número de lugares existentes não seja divisível por dois, o excedente será atribuído à 2.ª classe.
 
-###### Art. 2.º - 1. Se os quadros compreenderem um único lugar de escriturário-dactilógrafo, será este, para efeito de ingresso no quadro, considerado de 2.ª classe.
+Art. 2.º - 1. Se os quadros compreenderem um único lugar de escriturário-dactilógrafo, será este, para efeito de ingresso no quadro, considerado de 2.ª classe.
 
 2. O funcionário provido no lugar, porém, será promovido à 1.ª classe logo que nele complete três anos de bom e efectivo serviço.
 
-###### Art. 3.º O recrutamento dos escriturários-dactilógrafos far-se-á nos termos estabelecidos no artigo 28.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 3.º O recrutamento dos escriturários-dactilógrafos far-se-á nos termos estabelecidos no artigo 28.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 4.º Até à regulamentação geral dos concursos de promoção à categoria de escriturário-dactilógrafo de 1.ª classe poderão ser aprovados por despacho ministerial os regulamentos provisórios a observar nos serviços que não disponham ainda de regulamento para aquele efeito.
+Art. 4.º Até à regulamentação geral dos concursos de promoção à categoria de escriturário-dactilógrafo de 1.ª classe poderão ser aprovados por despacho ministerial os regulamentos provisórios a observar nos serviços que não disponham ainda de regulamento para aquele efeito.
 
-###### Art. 5.º Os quadros em que o número de lugares de escriturário-dactilógrafo de 1.ª classe, actualmente previsto, for superior ao resultante da aplicação do artigo 1.º do presente diploma considerar-se-ão transitòriamente alterados, de harmonia com o número dos escriturários-dactilógrafos dessa classe que se encontrem providos, extinguindo-se um lugar de 1.ª classe e criando-se um de 2.ª classe por cada vaga que naquela ocorrer, até se atingir a proporção determinada no artigo 1.º
+Art. 5.º Os quadros em que o número de lugares de escriturário-dactilógrafo de 1.ª classe, actualmente previsto, for superior ao resultante da aplicação do artigo 1.º do presente diploma considerar-se-ão transitòriamente alterados, de harmonia com o número dos escriturários-dactilógrafos dessa classe que se encontrem providos, extinguindo-se um lugar de 1.ª classe e criando-se um de 2.ª classe por cada vaga que naquela ocorrer, até se atingir a proporção determinada no artigo 1.º
 
-###### Art. 6.º Os quadros em que o número de lugares de escriturário-dactilógrafo de 2.ª classe, actualmente previsto, for superior ao resultante da aplicação do artigo 1.º do presente diploma considerar-se-ão transitòriamente alterados, de harmonia com o número dos escriturários dessa classe que se encontrem providos, até se completar o preenchimento dos lugares de 1.ª classe.
+Art. 6.º Os quadros em que o número de lugares de escriturário-dactilógrafo de 2.ª classe, actualmente previsto, for superior ao resultante da aplicação do artigo 1.º do presente diploma considerar-se-ão transitòriamente alterados, de harmonia com o número dos escriturários dessa classe que se encontrem providos, até se completar o preenchimento dos lugares de 1.ª classe.
 
-###### Art. 7.º É mantida a actual situação aos indivíduos que à data do início da vigência do presente diploma se encontrem providos em lugares de escriturário-dactilógrafo de 1.ª classe, quando haja um único lugar desta categoria no respectivo quadro.
+Art. 7.º É mantida a actual situação aos indivíduos que à data do início da vigência do presente diploma se encontrem providos em lugares de escriturário-dactilógrafo de 1.ª classe, quando haja um único lugar desta categoria no respectivo quadro.
 
-###### Art. 8.º Os lugares de dactilógrafo e de auxiliar de expediente previstos no quadro geral do pessoal da Emissora Nacional de Radiodifusão, anexo ao [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), de 11 de Dezembro de 1965, passam a constituir lugares de escriturário-dactilógrafo, com aplicação do disposto no presente diploma.
+Art. 8.º Os lugares de dactilógrafo e de auxiliar de expediente previstos no quadro geral do pessoal da Emissora Nacional de Radiodifusão, anexo ao [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), de 11 de Dezembro de 1965, passam a constituir lugares de escriturário-dactilógrafo, com aplicação do disposto no presente diploma.
 
-###### Art. 9.º O disposto nos artigos 1.º, 2.º, 5.º, 6.º e 7.º é extensivo à categoria de telefonista.
+Art. 9.º O disposto nos artigos 1.º, 2.º, 5.º, 6.º e 7.º é extensivo à categoria de telefonista.
 
-###### Art. 10.º Os lugares de telefonista de 1.ª classe serão providos, por ordem de antiguidade no respectivo quadro, de entre telefonistas de 2.ª classe que tenham boas informações de serviço.
+Art. 10.º Os lugares de telefonista de 1.ª classe serão providos, por ordem de antiguidade no respectivo quadro, de entre telefonistas de 2.ª classe que tenham boas informações de serviço.
 
-###### Art. 11.º - 1. Os lugares de telefonista de 2.ª classe serão providos por escolha, podendo esta recair em diminuídos físicos.
+Art. 11.º - 1. Os lugares de telefonista de 2.ª classe serão providos por escolha, podendo esta recair em diminuídos físicos.
 
 2. O provimento de telefonista de 2.ª classe será sempre antecedido de prova de aptidão para o cargo, mediante o seu exercício, em regime de estágio remunerado, por tempo não superior a trinta dias.
 
@@ -133,14 +152,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2. do artigo 109.º da Con
 
 4. A remuneração do serviço prestado em regime de estágio corresponderá à atribuída às telefonistas de 2.ª classe e será paga por conta da dotação de pagamento de serviços e encargos não especificados.
 
-###### Art. 12.º O presente diploma não se aplica aos serviços do Departamento da Defesa Nacional e da Secretaria de Estado da Aeronáutica.
+Art. 12.º O presente diploma não se aplica aos serviços do Departamento da Defesa Nacional e da Secretaria de Estado da Aeronáutica.
 
-###### Art. 13.º Até à realização das necessárias alterações orçamentais, os encargos com a execução do disposto neste decreto-lei serão satisfeitos de conta das disponibilidades das dotações inscritas para pessoal nos orçamentos dos serviços respectivos.
+Art. 13.º Até à realização das necessárias alterações orçamentais, os encargos com a execução do disposto neste decreto-lei serão satisfeitos de conta das disponibilidades das dotações inscritas para pessoal nos orçamentos dos serviços respectivos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 24 de Março de 1971.**
+Promulgado em 24 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

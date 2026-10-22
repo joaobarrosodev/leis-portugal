@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1980, 2º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4244-(23) a 4244-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30102/00230026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1980-226586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1f06443f9d4f68214d6bf49b8ae8fa215a2886d1f92323b1c3350b2e1cb7101
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8050c92d26ea936989b13465202d91fa99fa228abe0bf55e55cdd39955579a24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Industrial
+- Contribuição Industrial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:678067:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:06Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +114,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do artigo 01.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 55.º, 56.º, 58.º, 60.º, 64.º, 65.º, 66.º, 69.º, 71.º, 75.º, 79.º, 101.º, 119.º, 120.º, 122.º, 123.º, 124.º, 125.º, 127.º, 129.º, 130.º, 133.º, 134.º, 142.º, 146.º, 146.º-A, 147.º e 147.º-A do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 55.º, 56.º, 58.º, 60.º, 64.º, 65.º, 66.º, 69.º, 71.º, 75.º, 79.º, 101.º, 119.º, 120.º, 122.º, 123.º, 124.º, 125.º, 127.º, 129.º, 130.º, 133.º, 134.º, 142.º, 146.º, 146.º-A, 147.º e 147.º-A do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 55.º ...
+Art. 55.º ...
 
 a) Modelo n.º 3, em triplicado, no mês de Fevereiro, se não tiverem contabilidade regularmente organizada;
 
@@ -116,11 +128,11 @@ b) ...
 
 § 3.º ...
 
-###### Art. 56.º ...
+Art. 56.º ...
 
 § único. Os contribuintes sem contabilidade regularmente organizada que disponham de filiais, sucursais, agências, delegações, qualquer outra forma de representação permanente ou de instalações comerciais ou industriais, quer situadas no concelho ou bairro do estabelecimento principal ou da sede, quer em concelhos ou bairros diferentes, apresentarão no mês de Fevereiro, na repartição de finanças de cada um deles, a declaração modelo n.º 4, em duplicado no primeiro caso e em triplicado no segundo, mas somente em relação às actividades aí exercidas.
 
-###### Art. 58.º No caso de cessação total do exercício da actividade, deverão os contribuintes do grupo B apresentar no prazo de trinta dias as declarações a que se referem o artigo 55.º e o § único do artigo 56.º, conforme o caso.
+Art. 58.º No caso de cessação total do exercício da actividade, deverão os contribuintes do grupo B apresentar no prazo de trinta dias as declarações a que se referem o artigo 55.º e o § único do artigo 56.º, conforme o caso.
 
 § 1.º ...
 
@@ -128,11 +140,11 @@ b) ...
 
 § 3.º Sempre que se verifique a cessação do exercício da actividade em qualquer filial, sucursal, agência, delegação ou outra forma de representação permanente ou em instalações comerciais ou industriais que não seja acompanhada de cessação total da actividade do contribuinte, deverá este comunicar o facto por escrito, no prazo de trinta dias, a contar da cessação, à repartição de finanças do concelho ou bairro onde a mesma se verificou. Os contribuintes com contabilidade regularmente organizada deverão fazer também essa comunicação, ainda que se trate de cessação total do exercício da actividade.
 
-###### Art. 60.º Os contribuintes do grupo C apresentarão anualmente, no mês de Janeiro, em cada uma das repartições de finanças dos concelhos ou bairros onde estiverem situados os seus estabelecimentos ou, não os havendo, na do concelho ou bairro onde tiverem o domicílio, declaração modelo n.º 5, em duplicado, relativa às actividades exercidas.
+Art. 60.º Os contribuintes do grupo C apresentarão anualmente, no mês de Janeiro, em cada uma das repartições de finanças dos concelhos ou bairros onde estiverem situados os seus estabelecimentos ou, não os havendo, na do concelho ou bairro onde tiverem o domicílio, declaração modelo n.º 5, em duplicado, relativa às actividades exercidas.
 
 § único ...
 
-###### Art. 64.º Os serviços de fiscalização, quando se mostre conveniente, prestarão informação sobre a exactidão dos elementos constantes das declarações, indicando, com a devida fundamentação, o lucro tributável que entendam dever ser fixado ou justificando por que concluem pela sua inexistência.
+Art. 64.º Os serviços de fiscalização, quando se mostre conveniente, prestarão informação sobre a exactidão dos elementos constantes das declarações, indicando, com a devida fundamentação, o lucro tributável que entendam dever ser fixado ou justificando por que concluem pela sua inexistência.
 
 § 1.º Tratando-se de contribuintes do grupo B, a informação relativa às declarações exigidas pelos artigos 55.º e 56.º, § único, será dada, quando conveniente, até 31 de Maio; quanto às demais declarações, deverão ser obrigatoriamente informadas no prazo de sessenta dias após a sua apresentação.
 
@@ -140,9 +152,9 @@ b) ...
 
 § 3.º ...
 
-###### Art. 65.º Tratando-se da declaração apresentada nos termos do § único do artigo 56.º em repartição de finanças diferente da competente para a liquidação da contribuição industrial, será sempre exarada informação dos serviços de fiscalização num dos exemplares entregues, o qual, a fim de ser considerado na fixação do lucro tributável, deverá logo remeter-se à repartição de finanças do concelho ou bairro competente para a liquidação.
+Art. 65.º Tratando-se da declaração apresentada nos termos do § único do artigo 56.º em repartição de finanças diferente da competente para a liquidação da contribuição industrial, será sempre exarada informação dos serviços de fiscalização num dos exemplares entregues, o qual, a fim de ser considerado na fixação do lucro tributável, deverá logo remeter-se à repartição de finanças do concelho ou bairro competente para a liquidação.
 
-###### Art. 66.º Em face das declarações dos contribuintes, da informação devidamente fundamentada dos serviços de fiscalização, quando tenha sido prestada, e de quaisquer outros elementos de que disponha, competirá ao chefe da repartição de finanças:
+Art. 66.º Em face das declarações dos contribuintes, da informação devidamente fundamentada dos serviços de fiscalização, quando tenha sido prestada, e de quaisquer outros elementos de que disponha, competirá ao chefe da repartição de finanças:
 
 a) ...
 
@@ -152,11 +164,11 @@ b) ...
 
 § 2.º ...
 
-###### Art. 69.º A fixação dos lucros tributáveis deverá ficar concluída até 30 de Junho e 31 de Março de cada ano, respectivamente para os contribuintes dos grupos B e C.
+Art. 69.º A fixação dos lucros tributáveis deverá ficar concluída até 30 de Junho e 31 de Março de cada ano, respectivamente para os contribuintes dos grupos B e C.
 
 § único ...
 
-###### Art. 71.º ...
+Art. 71.º ...
 
 a) ...
 
@@ -168,11 +180,11 @@ c) ...
 
 § 2.º ...
 
-###### Art. 75.º O director de finanças deverá tomar as providências necessárias para que a apreciação das reclamações e a sua devolução às repartições de finanças respectivas se faça no mais curto prazo e, salvo nos casos de que tratam os artigos 58.º e 62.º, nunca além de 31 de Agosto ou de 31 de Maio do ano em que sejam apresentadas, consoante respeitem aos contribuintes do grupo B ou C.
+Art. 75.º O director de finanças deverá tomar as providências necessárias para que a apreciação das reclamações e a sua devolução às repartições de finanças respectivas se faça no mais curto prazo e, salvo nos casos de que tratam os artigos 58.º e 62.º, nunca além de 31 de Agosto ou de 31 de Maio do ano em que sejam apresentadas, consoante respeitem aos contribuintes do grupo B ou C.
 
 § único ...
 
-###### Art. 79.º ...
+Art. 79.º ...
 
 § 1.º O pedido de revisão previsto neste artigo, devidamente fundamentado, deverá ser apresentado no prazo de três anos a contar da data da decisão e não tem efeito suspensivo.
 
@@ -182,7 +194,7 @@ c) ...
 
 § 4.º ...
 
-###### Art. 101.º ...
+Art. 101.º ...
 
 a) ...
 
@@ -204,31 +216,31 @@ e) No caso de contribuição industrial do grupo C de montante igual ou superior
 
 § 5.º ...
 
-###### Art. 119.º Os serviços do Estado, incluindo os dotados de autonomia administrativa ou financeira, e os das autarquias locais, suas federações e uniões, bem como as pessoas colectivas de utilidade pública administrativa e as empresas concessionárias de serviços públicos, deverão comunicar às repartições de finanças competentes para a liquidação da contribuição industrial, nos trinta dias seguintes à realização do contrato, a adjudicação de obras ou fornecimentos e a aquisição de quaisquer bens de importância superior a 100000$00, ainda mesmo que se trate de obras a realizar nos territórios sob administração portuguesa ou de bens que a eles se destinem, enviando cópia do contrato, se este tiver sido celebrado por escrito.
+Art. 119.º Os serviços do Estado, incluindo os dotados de autonomia administrativa ou financeira, e os das autarquias locais, suas federações e uniões, bem como as pessoas colectivas de utilidade pública administrativa e as empresas concessionárias de serviços públicos, deverão comunicar às repartições de finanças competentes para a liquidação da contribuição industrial, nos trinta dias seguintes à realização do contrato, a adjudicação de obras ou fornecimentos e a aquisição de quaisquer bens de importância superior a 100000$00, ainda mesmo que se trate de obras a realizar nos territórios sob administração portuguesa ou de bens que a eles se destinem, enviando cópia do contrato, se este tiver sido celebrado por escrito.
 
 § único. ...
 
-###### Art. 120.º Os directores das alfândegas do continente e dos arquipélagos dos Açores e da Madeira remeterão mensalmente às repartições de finanças competentes para a liquidação da contribuição industrial notas de mercadorias importadas ou exportadas por comerciantes ou industriais no mês anterior, com indicação das espécies, quantidades e valores e dos nomes dos importadores ou exportadores.
+Art. 120.º Os directores das alfândegas do continente e dos arquipélagos dos Açores e da Madeira remeterão mensalmente às repartições de finanças competentes para a liquidação da contribuição industrial notas de mercadorias importadas ou exportadas por comerciantes ou industriais no mês anterior, com indicação das espécies, quantidades e valores e dos nomes dos importadores ou exportadores.
 
-###### Art. 1 2.º A Santa Casa da Misericórdia de Lisboa remeterá anualmente, no mês de Janeiro, às repartições de finanças dos concelhos ou bairros competentes para a liquidação da contribuição industrial, notas do número e valor dos bilhetes de lotaria adquiridos por cada vendedor no último ano, com indicação das condições estabelecidas para a respectiva aquisição, bem como das importâncias pagas ou creditadas aos agentes das apostas mútuas desportivas do totobola.
+Art. 1 2.º A Santa Casa da Misericórdia de Lisboa remeterá anualmente, no mês de Janeiro, às repartições de finanças dos concelhos ou bairros competentes para a liquidação da contribuição industrial, notas do número e valor dos bilhetes de lotaria adquiridos por cada vendedor no último ano, com indicação das condições estabelecidas para a respectiva aquisição, bem como das importâncias pagas ou creditadas aos agentes das apostas mútuas desportivas do totobola.
 
-###### Art. 123.º O director dos serviços de abastecimento da Câmara Municipal de Lisboa remeterá anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, no mês de Janeiro, notas contendo, relativamente a cada comissário de venda, mandatário ou vendedor por grosso, as quantidades, espécies e valores dos animais transaccionados no mercado abastecedor de criação durante o último ano.
+Art. 123.º O director dos serviços de abastecimento da Câmara Municipal de Lisboa remeterá anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, no mês de Janeiro, notas contendo, relativamente a cada comissário de venda, mandatário ou vendedor por grosso, as quantidades, espécies e valores dos animais transaccionados no mercado abastecedor de criação durante o último ano.
 
-###### Art. 124.º A Junta Nacional dos Produtos Pecuários remeterá anualmente, no mês de Janeiro, às repartições de finanças competentes para a liquidação da contribuição industrial notas com indicação, relativamente a cada utente dos matadouros, das espécies, número e peso dos animiais abatidos no último ano para consumo público e, bem assim, da quantidade dos produtos industrializados.
+Art. 124.º A Junta Nacional dos Produtos Pecuários remeterá anualmente, no mês de Janeiro, às repartições de finanças competentes para a liquidação da contribuição industrial notas com indicação, relativamente a cada utente dos matadouros, das espécies, número e peso dos animiais abatidos no último ano para consumo público e, bem assim, da quantidade dos produtos industrializados.
 
-###### Art. 125.º As empresas distribuidoras de gasolina e gasóleo remeterão anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, durante o mês de Janeiro, notas das quantidades e valores daqueles produtos vendidos no último ano por cada um dos seus agentes.
+Art. 125.º As empresas distribuidoras de gasolina e gasóleo remeterão anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, durante o mês de Janeiro, notas das quantidades e valores daqueles produtos vendidos no último ano por cada um dos seus agentes.
 
-###### Art. 127.º A Imprensa Nacional-Casa da Moeda remeterá anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, no mês de Janeiro, notas em que se indiquem especificadamente, com relação a cada comerciante ou industrial, os artigos que no ano anterior foram objecto de fiscalização pelos serviços de contrastaria, mencionando-se também as respectivas marcas, metais utilizados e seus pesos e a importância dos emolumentos pagos.
+Art. 127.º A Imprensa Nacional-Casa da Moeda remeterá anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, no mês de Janeiro, notas em que se indiquem especificadamente, com relação a cada comerciante ou industrial, os artigos que no ano anterior foram objecto de fiscalização pelos serviços de contrastaria, mencionando-se também as respectivas marcas, metais utilizados e seus pesos e a importância dos emolumentos pagos.
 
-###### Art. 129.º As direcções de viação remeterão anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, no mês de Janeiro, notas em que, relativamente a cada instrutor ou escola de condução, seja indicado o número de instruendos, repartidos por classes de veículos automóveis, que no ano anterior tenham requerido exame de condução, com menção das tarifas aprovadas.
+Art. 129.º As direcções de viação remeterão anualmente às repartições de finanças competentes para a liquidação da contribuição industrial, no mês de Janeiro, notas em que, relativamente a cada instrutor ou escola de condução, seja indicado o número de instruendos, repartidos por classes de veículos automóveis, que no ano anterior tenham requerido exame de condução, com menção das tarifas aprovadas.
 
-###### Art. 130.º A Direcção-Geral de Geologia e Minas remeterá às repartições de finanças competentes para a liquidação da contribuição industrial, até 15 de Abril de cada ano, mapas donde constem, relativamente a cada concessão ou couto mineiro, a quantidade e teor dos minérios e produtos metalúrgicos vendidos ou exportados no ano anterior, o seu valor no mercado, bem como uma estimativa do lucro eventualmente obtido por cada explorador.
+Art. 130.º A Direcção-Geral de Geologia e Minas remeterá às repartições de finanças competentes para a liquidação da contribuição industrial, até 15 de Abril de cada ano, mapas donde constem, relativamente a cada concessão ou couto mineiro, a quantidade e teor dos minérios e produtos metalúrgicos vendidos ou exportados no ano anterior, o seu valor no mercado, bem como uma estimativa do lucro eventualmente obtido por cada explorador.
 
 Dos referidos mapas constará também, mas separadamente, o valor da água e subprodutos exportados ou vendidos em cada estância de águas minerais e o número de tratamentos especiais, por classe, feitos durante a última época balnear.
 
 § único. ...
 
-###### Art. 133.º Os contribuintes do grupo B, quando não tenham contabilidade regularmente organizada, deverão possuir os seguintes elementos de escrita:
+Art. 133.º Os contribuintes do grupo B, quando não tenham contabilidade regularmente organizada, deverão possuir os seguintes elementos de escrita:
 
 a) Livro de registo de compras de mercadorias ou matérias-primas modelo n.º 13;
 
@@ -242,11 +254,11 @@ d) Livro de registo das mercadorias, matérias-primas e de consumo e de produtos
 
 § 2.º Os livros deverão ser apresentados na repartição de finanças do concelho ou bairro da situação dos estabelecimentos, antes de utilizados, para que o respectivo chefe assine os termos de abertura e encerramento, numere as folhas e as rubrique.
 
-###### Art. 134.º ...
+Art. 134.º ...
 
 § único. Na mencionada escrituração não serão permitidos atrasos superiores a trinta dias nos livros de que tratam os artigos 133.º e 133.º-A, e a noventa nos restantes.
 
-###### Art. 142.º ...
+Art. 142.º ...
 
 § 1.º ...
 
@@ -256,11 +268,11 @@ d) Livro de registo das mercadorias, matérias-primas e de consumo e de produtos
 
 Tendo sido também cometida a infracção do artigo 146.º-A, o prazo contar-se-á do termo do designado naquele artigo.
 
-###### Art. 146.º A inobservância pelos contribuintes dos grupos B e C do disposto nos artigos 133.º ou 133.º-A, conforme o caso, ou no artigo 134.º será punida com multa de 600$00 a 60000$00 ou de 300$00 a 20000$00, consoante se trate de contribuintes dos grupos B ou C.
+Art. 146.º A inobservância pelos contribuintes dos grupos B e C do disposto nos artigos 133.º ou 133.º-A, conforme o caso, ou no artigo 134.º será punida com multa de 600$00 a 60000$00 ou de 300$00 a 20000$00, consoante se trate de contribuintes dos grupos B ou C.
 
-###### Art. 146.º-A Verificado o atraso da escrita e independentemente do procedimento para aplicação da correspondente multa, o autuante ou o chefe da repartição de finanças, consoante esteja ou não presente o transgressor, notificará ou mandará notificá-lo para regularizar a sua escrita dentro de um prazo a designar entre trinta e noventa dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 147.º
+Art. 146.º-A Verificado o atraso da escrita e independentemente do procedimento para aplicação da correspondente multa, o autuante ou o chefe da repartição de finanças, consoante esteja ou não presente o transgressor, notificará ou mandará notificá-lo para regularizar a sua escrita dentro de um prazo a designar entre trinta e noventa dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 147.º
 
-###### Art. 147.º A recusa de exibição da escrita, dos livros exigidos pelos artigos 133.º e 133.º-A ou dos documentos com uma e outros relacionados, ou a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com multa de 40000$00 a 1000000$00, de 10000$00 a 200000$00 e de 2500$00 a 50000$00, consoante se trate de contribuintes dos grupos A, B ou C, na qual incorrerão, solidariamente entre si, o contribuinte, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida e técnicos de contas que forem responsáveis, sem prejuízo de procedimento criminal que no caso couber.
+Art. 147.º A recusa de exibição da escrita, dos livros exigidos pelos artigos 133.º e 133.º-A ou dos documentos com uma e outros relacionados, ou a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com multa de 40000$00 a 1000000$00, de 10000$00 a 200000$00 e de 2500$00 a 50000$00, consoante se trate de contribuintes dos grupos A, B ou C, na qual incorrerão, solidariamente entre si, o contribuinte, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida e técnicos de contas que forem responsáveis, sem prejuízo de procedimento criminal que no caso couber.
 
 § 1.º Considera-se recusada a exibição da escrita, dos livros exigidos pelos artigos 133.º e 133.º-A e dos documentos com uma ou outros relacionados que não sejam postos à disposição dos funcionários competentes, de harmonia com o disposto no artigo 134.º-A.
 
@@ -268,22 +280,22 @@ Tendo sido também cometida a infracção do artigo 146.º-A, o prazo contar-se-
 
 § 3.º ...
 
-###### Art. 147.º-A As omissões ou inexactidões que não constituam falsificação ou viciação praticadas na escrita, nos livros exigidos pelos artigos 133.º e 133.º-A ou nos documentos com aquela e estes relacionados serão punidas com multa de 2000$00 a 100000$00, de 1000$00 a 30000$00, ou de 500$00 a 15000$00, consoante se trate de contribuintes dos grupos A, B ou C.
+Art. 147.º-A As omissões ou inexactidões que não constituam falsificação ou viciação praticadas na escrita, nos livros exigidos pelos artigos 133.º e 133.º-A ou nos documentos com aquela e estes relacionados serão punidas com multa de 2000$00 a 100000$00, de 1000$00 a 30000$00, ou de 500$00 a 15000$00, consoante se trate de contribuintes dos grupos A, B ou C.
 
-###### Art. 2.º É aditado ao Código da Contribuição Industrial o artigo 133.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Código da Contribuição Industrial o artigo 133.º-A, com a seguinte redacção:
 
-###### Art. 133.º-A Os contribuintes do grupo C deverão possuir um livro de registo de compras modelo n.º 18 e/ou um livro de registo de serviços prestados modelo n.º 19, sendo-lhes aplicável o disposto no § 2.º do artigo anterior.
+Art. 133.º-A Os contribuintes do grupo C deverão possuir um livro de registo de compras modelo n.º 18 e/ou um livro de registo de serviços prestados modelo n.º 19, sendo-lhes aplicável o disposto no § 2.º do artigo anterior.
 
-###### Art. 3.º São eliminados os artigos 59.º e 61.º do Código de Contribuição Industrial, passando os seus artigos 59.º-A, 59.º-B e 59.º-C, respectivamente, a artigos 59.º, 59.º-A e 59.º-B.
+Art. 3.º São eliminados os artigos 59.º e 61.º do Código de Contribuição Industrial, passando os seus artigos 59.º-A, 59.º-B e 59.º-C, respectivamente, a artigos 59.º, 59.º-A e 59.º-B.
 
-###### Art. 4.º O disposto nos artigos 133.º e 133.º-A, com a redacção que lhes é dada pelo presente diploma, é aplicável a partir de 1 de Janeiro de 1981, devendo, porém, a escrituração do livro referido na alínea d) do artigo 133.º iniciar-se com o registo das existências reportadas a 31 de Dezembro de 1980.
+Art. 4.º O disposto nos artigos 133.º e 133.º-A, com a redacção que lhes é dada pelo presente diploma, é aplicável a partir de 1 de Janeiro de 1981, devendo, porém, a escrituração do livro referido na alínea d) do artigo 133.º iniciar-se com o registo das existências reportadas a 31 de Dezembro de 1980.
 
-###### Art. 5.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 23 de Dezembro de 1980.**
+Promulgado em 23 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

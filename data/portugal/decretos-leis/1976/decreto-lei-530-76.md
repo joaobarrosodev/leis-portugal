@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15700/14911492.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1976-431429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfdb3b4424d6bfebbacbefdfcfc42a7f30e05711ab778e6623d593f8b58ca38b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67787f773797ca808cefc5ee7f05bd1478e9131bd5cc8487dcea027b401d21bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação Colectiva
+- Empresa
+- Horário de Trabalho
+- Intervenção do Estado
+- LAY OFF
+- Reconversão de Empresas
+- Situação Económica Dificil
+- Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:407679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:407679:por
+  label: "Revogado pelo DEC LEI.864/76.23.12.1976.MT, DR.IS [298] de 23.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/864-1976-407679
+  date: '1976-12-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:34Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +119,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Quando se verifique que uma empresa labora em condições económicas não aceitáveis que não permita, de forma duradoura, a utilização completa dos recursos humanos de que dispõe, conduzindo à criação de situações de subemprego para uma grande parte dos trabalhadores, poderá o Estado, através do Ministério da Tutela, tomar as medidas que se mostrarem mais aconselháveis.
+Artigo 1.º Quando se verifique que uma empresa labora em condições económicas não aceitáveis que não permita, de forma duradoura, a utilização completa dos recursos humanos de que dispõe, conduzindo à criação de situações de subemprego para uma grande parte dos trabalhadores, poderá o Estado, através do Ministério da Tutela, tomar as medidas que se mostrarem mais aconselháveis.
 
-###### Art. 2.º A intervenção do Estado destina-se fundamentalmente a assegurar a manutenção dos postos de trabalho, e eventualmente à criação de novos postos, procurando promover uma retomada económica das unidades empresariais.
+Art. 2.º A intervenção do Estado destina-se fundamentalmente a assegurar a manutenção dos postos de trabalho, e eventualmente à criação de novos postos, procurando promover uma retomada económica das unidades empresariais.
 
-###### Art. 3.º A intervenção do Estado poderá, segundo o caso, promover a reconversão da actividade da empresa ou limitar-se à adopção de medidas administrativas de carácter temporário.
+Art. 3.º A intervenção do Estado poderá, segundo o caso, promover a reconversão da actividade da empresa ou limitar-se à adopção de medidas administrativas de carácter temporário.
 
-###### Art. 4.º No caso de se considerar necessária a reconversão da empresa, os órgãos de gestão, eventualmente com o apoio do Ministério da Tutela, elaborarão o respectivo projecto, que deverá especificar:
+Art. 4.º No caso de se considerar necessária a reconversão da empresa, os órgãos de gestão, eventualmente com o apoio do Ministério da Tutela, elaborarão o respectivo projecto, que deverá especificar:
 
 a) Definição completa da reconversão a efectuar, designadamente dos tipos de fabricação e produtos a realizar, bem como demonstração da sua viabilidade;
 
@@ -122,11 +135,11 @@ c) Plano de investimentos indispensáveis à sua realização e respectiva cober
 
 d) Elaboração de um plano de ocupação de pessoal que tenha em vista a criação de postos de trabalho, possibilitando não só a utilização integral da força de trabalho de que a empresa já dispõe, como também de eventuais novos empregos.
 
-###### Art. 5.º Durante o período necessário à execução do projecto de reconversão da empresa, poderá ser dispensado temporariamente o pessoal que for julgado desnecessário e reduzido o tempo de laboração da empresa.
+Art. 5.º Durante o período necessário à execução do projecto de reconversão da empresa, poderá ser dispensado temporariamente o pessoal que for julgado desnecessário e reduzido o tempo de laboração da empresa.
 
-###### Art. 6.º Quando se não justifique a adopção de um projecto de reconversão de uma empresa em crise, poderá o Estado tomar somente medidas administrativas temporárias que permitam a retomada económica das unidades empresariais, precatando os postos de trabalho sem prejuízo da sobrevivência da empresa.
+Art. 6.º Quando se não justifique a adopção de um projecto de reconversão de uma empresa em crise, poderá o Estado tomar somente medidas administrativas temporárias que permitam a retomada económica das unidades empresariais, precatando os postos de trabalho sem prejuízo da sobrevivência da empresa.
 
-###### Art. 7.º As medidas referidas no artigo anterior, que poderão ser tomadas separadamente ou em conjunto, são, designadamente:
+Art. 7.º As medidas referidas no artigo anterior, que poderão ser tomadas separadamente ou em conjunto, são, designadamente:
 
 a) Redução de laboração das empresas até um período mínimo de três dias por semana;
 
@@ -136,9 +149,9 @@ c) Transferências dos trabalhadores para diferentes postos de trabalho na mesma
 
 Esta medida é aplicável quando, comprovadamente, se destine à salvaguarda da situação de equilíbrio económico imprescindível à manutenção das unidades.
 
-###### Art. 8.º As medidas referidas nos artigos 5.º, 6.º e 7.º ficarão sempre dependentes de despacho conjunto do Ministério da Tutela e do Ministério do Trabalho.
+Art. 8.º As medidas referidas nos artigos 5.º, 6.º e 7.º ficarão sempre dependentes de despacho conjunto do Ministério da Tutela e do Ministério do Trabalho.
 
-###### Art. 9.º - 1. Aos trabalhadores a quem sejam reduzidos os salários em virtude da aplicação das medidas previstas neste decreto-lei será atribuído um subsídio que corresponderá, pelo menos, à manutenção do salário mínimo nacional, para a prestação do serviço em horário normal.
+Art. 9.º - 1. Aos trabalhadores a quem sejam reduzidos os salários em virtude da aplicação das medidas previstas neste decreto-lei será atribuído um subsídio que corresponderá, pelo menos, à manutenção do salário mínimo nacional, para a prestação do serviço em horário normal.
 
 2. Ao subsídio a conceder nos termos deste artigo acrescerá o abono de família e prestações acessórias.
 
@@ -146,21 +159,21 @@ Esta medida é aplicável quando, comprovadamente, se destine à salvaguarda da 
 
 4. Durante o período em que for pago o subsídio previsto neste decreto, cessa a obrigatoriedade de pagamento de contribuições para as caixas de previdência e abono de família, Fundo de Desemprego e sindicatos, mantendo os trabalhadores todos os direitos, como se fossem efectivamente pagos.
 
-###### Art. 10.º - 1. Estabelecido que seja o montante do subsídio previsto no artigo 9.º, compete às empresas satisfazer os encargos resultantes na quota-parte que se mostre possível, face ao estudo da sua situação económico-financeira, devendo a diferença ser coberta pelo GGFD.
+Art. 10.º - 1. Estabelecido que seja o montante do subsídio previsto no artigo 9.º, compete às empresas satisfazer os encargos resultantes na quota-parte que se mostre possível, face ao estudo da sua situação económico-financeira, devendo a diferença ser coberta pelo GGFD.
 
 2. As contribuições do GGFD previstas neste artigo serão contabilizadas na empresa como crédito do GGFD, devendo em cada caso o estudo a realizar contemplar a forma de ao Fundo serem reembolsadas.
 
-###### Art. 11.º A dispensa de trabalhadores que se tornar necessária será sempre objecto dos condicionamentos legais impostos pelas normas relativas à cessação de contratos de trabalho por despedimento colectivo.
+Art. 11.º A dispensa de trabalhadores que se tornar necessária será sempre objecto dos condicionamentos legais impostos pelas normas relativas à cessação de contratos de trabalho por despedimento colectivo.
 
-###### Art. 12.º - 1. Todo o trabalhador que, por força de execução do presente diploma, veja diminuído o seu tempo de trabalho deverá, logo que se tornem reversíveis as situações que o determinavam, voltar a usufruir da situação correspondente à que teria se a aplicação deste decreto-lei não tivesse tido lugar.
+Art. 12.º - 1. Todo o trabalhador que, por força de execução do presente diploma, veja diminuído o seu tempo de trabalho deverá, logo que se tornem reversíveis as situações que o determinavam, voltar a usufruir da situação correspondente à que teria se a aplicação deste decreto-lei não tivesse tido lugar.
 
 2. Todo o trabalhador afastado por força deste diploma terá prioridade em reentrar ao serviço da empresa se verificadas as condições indicadas no número anterior.
 
-###### Art. 13.º A empresa, logo que, por força da execução do plano de reconversão, necessite da colaboração dos trabalhadores, convocá-los-á para reassumirem funções em prazo que for julgado conveniente.
+Art. 13.º A empresa, logo que, por força da execução do plano de reconversão, necessite da colaboração dos trabalhadores, convocá-los-á para reassumirem funções em prazo que for julgado conveniente.
 
-###### Art. 14.º Decorrido este prazo sem que se verifique a apresentação do trabalhador, caso a sua falta não seja justificada, cessará o pagamento do subsídio, considerando-se rescindido o contrato de trabalho.
+Art. 14.º Decorrido este prazo sem que se verifique a apresentação do trabalhador, caso a sua falta não seja justificada, cessará o pagamento do subsídio, considerando-se rescindido o contrato de trabalho.
 
-###### Art. 15.º - 1. As empresas que pretendam beneficiar do regime previsto neste decreto-lei deverão submeter ao Ministério da Tutela o respectivo pedido, acompanhado do projecto referido no artigo 4.º e do parecer dos órgãos representativos dos trabalhadores.
+Art. 15.º - 1. As empresas que pretendam beneficiar do regime previsto neste decreto-lei deverão submeter ao Ministério da Tutela o respectivo pedido, acompanhado do projecto referido no artigo 4.º e do parecer dos órgãos representativos dos trabalhadores.
 
 2. Por despacho conjunto dos Ministros da Tutela e do Trabalho será decidido o pedido formulado nos termos do número anterior.
 
@@ -168,8 +181,8 @@ Esta medida é aplicável quando, comprovadamente, se destine à salvaguarda da 
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João Pedro Tomás Rosa.
 
-**Promulgado em 22 de Junho de 1976.**
+Promulgado em 22 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

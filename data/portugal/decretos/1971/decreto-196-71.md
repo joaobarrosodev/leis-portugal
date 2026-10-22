@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/05/11100/06810682.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/196-1971-644530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9ff9bf18cbc6ba4bf45d5b159f3ce44d174469a919941de08c170e041456810
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35f87f0bbd12f906b4d863f01cdaab0031cdc7aba84c4937b1d289226683e256
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:408513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:330068:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408513:por
+  label: "Revogado pelo DEC LEI.265/72.31.07.1972.MMAR, DG.IS [177]Supl de 31.07.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1972-408513
+  date: '1972-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:25Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +101,24 @@ Tendo-se reconhecido a conveniência de adoptar verba diferente da fixada na al�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A alínea c) do artigo 138.º do Regulamento Geral das Capitanias passa a ter a seguinte redacção:
+Artigo 1.º A alínea c) do artigo 138.º do Regulamento Geral das Capitanias passa a ter a seguinte redacção:
 
-###### Art. 138.º ...
+Art. 138.º ...
 
 ...
 
 c) Sempre que o valor da embarcação exceder 50000$00 deverá a venda ser celebrada por escritura pública, admitindo-se o escrito particular quando a embarcação for de valor inferior àquele. O escrito particular deverá ser feito perante duas testemunhas, que assinarão com o vendedor e o comprador, sendo as assinaturas reconhecidas por notário. Quando o comprador ou vendedor não souber escrever, poderá assinar a seu rogo outro qualquer indivíduo.
 
-###### Art. 2.º Ao artigo 138.º do Regulamento citado no artigo anterior é acrescida uma alínea f), com a seguinte redacção:
+Art. 2.º Ao artigo 138.º do Regulamento citado no artigo anterior é acrescida uma alínea f), com a seguinte redacção:
 
 f) Quando se trate de aquisição de embarcações por organismos do Estado, existindo contrato escrito, este substituirá a escritura pública; não existindo aquele contrato, será suficiente documento autêntico comprovativo da compra e da importância transaccionada.
 
-###### Art. 3.º Fica revogado o [Decreto n.º 31333](https://diariodarepublica.pt/dr/detalhe/decreto/31333-1941-330068), de 23 de Junho de 1941.
+Art. 3.º Fica revogado o [Decreto n.º 31333](https://diariodarepublica.pt/dr/detalhe/decreto/31333-1941-330068), de 23 de Junho de 1941.
 
 Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 3 de Maio de 1971.**
+Promulgado em 3 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

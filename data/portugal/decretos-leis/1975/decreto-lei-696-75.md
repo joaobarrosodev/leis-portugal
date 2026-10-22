@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28600/20072011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/696-1975-311221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbe30fb98231ca41bb5226d758c99cc02f38a676cdb86c9c3f1a4a5011ee5a0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9241d740bda5f1c1e68780d12c9c41806b55ef789a2ce35c4e117ce657a69e16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Bolsa de Valores
+- Conselho Consultivo do Mercado Financeiro
+- Corretor
+- Definição de Competências
+- Lisboa
+- Mercado de Capitais
+- Mercado de Títulos
+- Mercado de Valores
+- Mercado Financeiro
+- Obrigações
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308319:por
+  label: "Extinto o Conselho Consultivo do Mercado Financeiro, criado no artigo 6.º do Decreto-Lei n.º 8/74, de 14 de Janeiro,\
+    \ na redacção do Decreto-Lei n.º 696/75, de 12 de Dezembro, pelo DEC LEI.67/83.04.02.1983.MFP, DR.IS [29] de 04.02.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1983-308319
+  date: '1983-02-04'
+- type: amended_by
+  target: pt:dre:286728:por
+  label: "Alteradas as alíneas c) e d) do artigo 10.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, na redacção do presente diploma,\
+    \ pelo DEC LEI.60/88.27.02.1988.MF, DR.IS [48] de 27.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1988-286728
+  date: '1988-02-27'
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:17Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +140,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Serão fixadas por portaria do Ministro das Finanças:
+Artigo 1.º Serão fixadas por portaria do Ministro das Finanças:
 
 a) A data do reinício das sessões das bolsas de valores, suspensas por determinação da Junta de Salvação Nacional;
 
@@ -114,21 +152,21 @@ d) A forma por que serão determinados os preços iniciais sobre os quais dever�
 
 e) A data a partir da qual poderão vir a ser realizados os resgates de certificados de participação de fundos de investimento.
 
-###### Art. 2.º - 1. A partir da data de reinício das sessões poderão realizar-se, imediatamente, transacções sobre obrigações, nos termos definidos pelo artigo 3.º
+Art. 2.º - 1. A partir da data de reinício das sessões poderão realizar-se, imediatamente, transacções sobre obrigações, nos termos definidos pelo artigo 3.º
 
 2. O Ministro das Finanças, ouvido o Conselho Consultivo do Mercado Financeiro, poderá, por portaria, estabelecer as condições em que podem realizar-se livremente transacções sobre valores mobiliários existentes ou não em contas de títulos em instituições de crédito.
 
-###### Art. 3.º - 1. As cotações das obrigações transaccionadas em bolsa passarão a ser estabelecidas independentemente do juro correspondente ao tempo já decorrido desde o último vencimento.
+Art. 3.º - 1. As cotações das obrigações transaccionadas em bolsa passarão a ser estabelecidas independentemente do juro correspondente ao tempo já decorrido desde o último vencimento.
 
 2. O juro a que se refere o número anterior deverá ser pago pelo comprador ao vendedor conjuntamente com o valor da transacção.
 
-###### Art. 4.º Os artigos 3.º, n.º 1, 4.º, n.º 2, 6.º, 7.º, 8.º, 9.º, n.º 2, 10.º, n.os 1 e 2, 11.º, n.º 1, 12.º, n.º 2, alínea b), 45.º, alínea e), 46.º, alínea c), 49.º, n.º 2, 52.º, n.º 2, 53.º, n.º 2, 72.º, 75.º, 76.º, n.º 2, alínea a), 79.º, n.os 3 e 4, 84.º, n.º 1, 87.º, 92.º, n.º 10, 96.º, alínea a), 102.º, n.º 2, 103.º, 104.º, n.º 1, 111.º, n.º 4, 113.º, n.º 1, 116.º, 117.º, 129.º, n.º 1, 133.º, n.os 2, 4, 5 e 6, e 136.º, n.os 1 e 4, e a epígrafe do capítulo II do título I do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 3.º, n.º 1, 4.º, n.º 2, 6.º, 7.º, 8.º, 9.º, n.º 2, 10.º, n.os 1 e 2, 11.º, n.º 1, 12.º, n.º 2, alínea b), 45.º, alínea e), 46.º, alínea c), 49.º, n.º 2, 52.º, n.º 2, 53.º, n.º 2, 72.º, 75.º, 76.º, n.º 2, alínea a), 79.º, n.os 3 e 4, 84.º, n.º 1, 87.º, 92.º, n.º 10, 96.º, alínea a), 102.º, n.º 2, 103.º, 104.º, n.º 1, 111.º, n.º 4, 113.º, n.º 1, 116.º, 117.º, 129.º, n.º 1, 133.º, n.os 2, 4, 5 e 6, e 136.º, n.os 1 e 4, e a epígrafe do capítulo II do título I do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1. Dependem de autorização do Ministro das Finanças, a conceder mediante portaria e ouvido o Conselho Consultivo do Mercado Financeiro, a criação e o encerramento definitivo de bolsas e centros de transacção de valores.
+Art. 3.º - 1. Dependem de autorização do Ministro das Finanças, a conceder mediante portaria e ouvido o Conselho Consultivo do Mercado Financeiro, a criação e o encerramento definitivo de bolsas e centros de transacção de valores.
 
 2. ...
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. Serão órgãos executivos dependentes do Ministro das Finanças, para os efeitos do disposto no número anterior, o Banco de Portugal e as comissões directivas das bolsas.
 
@@ -136,11 +174,11 @@ e) A data a partir da qual poderão vir a ser realizados os resgates de certific
 
 ### CAPÍTULO II — Conselho Consultivo do Mercado Financeiro
 
-###### Art. 6.º É criado, como órgão consultivo do Ministro das Finanças para os problemas específicos da actividade do mercado financeiro, o Conselho Consultivo do Mercado Financeiro, ao qual competirá especialmente pronunciar-se sobre:
+Art. 6.º É criado, como órgão consultivo do Ministro das Finanças para os problemas específicos da actividade do mercado financeiro, o Conselho Consultivo do Mercado Financeiro, ao qual competirá especialmente pronunciar-se sobre:
 
 a) ...
 
-###### Art. 7.º - 1. O Conselho Consultivo do Mercado Financeiro é presidido pelo Ministro das Finanças, terá como vice-presidente o Secretário de Estado do Tesouro e a seguinte composição:
+Art. 7.º - 1. O Conselho Consultivo do Mercado Financeiro é presidido pelo Ministro das Finanças, terá como vice-presidente o Secretário de Estado do Tesouro e a seguinte composição:
 
 a) Governador do Banco de Portugal;
 
@@ -160,7 +198,7 @@ g) Dois representantes das empresas com valores cotados em bolsa, designados anu
 
 3. Poderão tomar parte, sem direito de voto, nas reuniões do Conselho, individualidades de reconhecida competência no domínio da política monetária ou financeira ou em matéria do funcionamento das instituições dos mercados monetário ou financeiro indicadas pelo Ministro das Finanças.
 
-###### Art. 8.º - 1. O Conselho Consultivo do Mercado Financeiro reunirá, sempre que necessário, mediante convocação do Ministro das Finanças ou do Secretário de Estado do Tesouro.
+Art. 8.º - 1. O Conselho Consultivo do Mercado Financeiro reunirá, sempre que necessário, mediante convocação do Ministro das Finanças ou do Secretário de Estado do Tesouro.
 
 2. As sessões do Conselho serão secretariadas pelo secretário da Bolsa de Valores de Lisboa.
 
@@ -170,13 +208,13 @@ g) Dois representantes das empresas com valores cotados em bolsa, designados anu
 
 5. A Bolsa de Valores de Lisboa assegurará todo o expediente do Conselho, bem como o apoio técnico de que o mesmo necessite, devendo inscrever-se no respectivo orçamento de despesa as verbas indispensáveis à satisfação dos encargos que daí resultem.
 
-###### Art. 9.º - 1. ...
+Art. 9.º - 1. ...
 
 2. O quadro, as condições de recrutamento, a forma de remuneração e o regime jurídico do pessoal técnico, administrativo e auxiliar de cada bolsa serão fixados em portaria do Ministro das Finanças.
 
 3. ...
 
-###### Art. 10.º - 1. A comissão directiva é constituída pelos seguintes membros:
+Art. 10.º - 1. A comissão directiva é constituída pelos seguintes membros:
 
 a) Um representante do Ministro das Finanças, por este nomeado, e que será o presidente;
 
@@ -190,13 +228,13 @@ d) Um representante das empresas com valores cotados na Bolsa, designado pelo Mi
 
 3. ...
 
-###### Art. 11.º - 1. O mandato dos membros da comissão directiva referidos nas alíneas a), c) e d) do n.º 1 do artigo anterior será de três anos, sendo admissível a sua recondução.
+Art. 11.º - 1. O mandato dos membros da comissão directiva referidos nas alíneas a), c) e d) do n.º 1 do artigo anterior será de três anos, sendo admissível a sua recondução.
 
 2. ...
 
 3. ...
 
-###### Art. 12.º - 1. ...
+Art. 12.º - 1. ...
 
 2. ...
 
@@ -206,13 +244,13 @@ b) Solicitar directamente a quaisquer serviços de Estado, corpos administrativo
 
 ...
 
-###### Art. 45.º ...
+Art. 45.º ...
 
 ...
 
 e) Os títulos em relação aos quais se verifiquem outros factos que, ouvido o Conselho Consultivo do Mercado Financeiro, o Ministro das Finanças venha a fixar mediante portaria.
 
-###### Art. 46.º ...
+Art. 46.º ...
 
 ...
 
@@ -220,7 +258,7 @@ c) Os títulos em relação aos quais se verifiquem outros factos que, ouvido o 
 
 ...
 
-###### Art. 49.º - 1. ...
+Art. 49.º - 1. ...
 
 2. As deliberações sobre admissão dos títulos a que se refere o artigo 42.º carecem de homologação do Ministro das Finanças, que ouvirá, quando o julgar conveniente, o Conselho Consultivo do Mercado Financeiro.
 
@@ -228,11 +266,11 @@ c) Os títulos em relação aos quais se verifiquem outros factos que, ouvido o 
 
 ...
 
-###### Art. 52.º - 1. ...
+Art. 52.º - 1. ...
 
 2. O Ministro das Finanças poderá, mediante portaria e ouvido o Conselho Consultivo do Mercado Financeiro, tornar obrigatória a realização através das mesmas das operações de compra ou de venda da totalidade ou de parte dos valores mobiliários que nelas se encontrem cotados.
 
-###### Art. 53.º - 1. ...
+Art. 53.º - 1. ...
 
 2. O corretor que entregar ao seu comitente títulos considerados irregulares, nomeadamente por estarem amortizados, deteriorados ou sem os cupões correspondentes, para além de incorrer em responsabilidade disciplinar, deverá substituir os mesmos títulos por outros, dentro do prazo de quinze dias a contar da data em que se aperceba da irregularidade ou esta lhe seja comunicada pelo comitente ou por terceiro.
 
@@ -244,7 +282,7 @@ c) Os títulos em relação aos quais se verifiquem outros factos que, ouvido o 
 
 ...
 
-###### Art. 72.º - 1. A entidade que receber uma ordem de bolsa deverá exigir ao comitente, antes da sua transmissão ou execução, a entrega dos valores mobiliários a vender ou da importância provável destinada ao pagamento da compra ordenada.
+Art. 72.º - 1. A entidade que receber uma ordem de bolsa deverá exigir ao comitente, antes da sua transmissão ou execução, a entrega dos valores mobiliários a vender ou da importância provável destinada ao pagamento da compra ordenada.
 
 2. Exceptuam-se do disposto no número anterior as ordens transmitidas directamente aos corretores pelas instituições de crédito, casas de câmbios e entidades parabancárias referidas no n.º 1 do artigo 70.º
 
@@ -256,9 +294,9 @@ c) Os títulos em relação aos quais se verifiquem outros factos que, ouvido o 
 
 ...
 
-###### Art. 75.º Um corretor que tenha simultaneamente ordens de compra e de venda sobre um mesmo valor mobiliário só pode proceder à sua compensação incluindo-as totalmente no conjunto de ordens de compra e de venda que sirvam, segundo as regras fixadas, para estabelecer a cotação e o volume global das transacções sobre aquele valor.
+Art. 75.º Um corretor que tenha simultaneamente ordens de compra e de venda sobre um mesmo valor mobiliário só pode proceder à sua compensação incluindo-as totalmente no conjunto de ordens de compra e de venda que sirvam, segundo as regras fixadas, para estabelecer a cotação e o volume global das transacções sobre aquele valor.
 
-###### Art. 76.º - 1. ...
+Art. 76.º - 1. ...
 
 2. ...
 
@@ -270,7 +308,7 @@ b) ...
 
 ...
 
-###### Art. 79.º - 1. ...
+Art. 79.º - 1. ...
 
 2. ...
 
@@ -280,17 +318,17 @@ b) ...
 
 ...
 
-###### Art. 84.º - 1. Do boletim diário de cotações serão assinados três exemplares pelo presidente da comissão directiva e pelo secretário, ou por quem os substitua, enviando-se desde logo um ao Banco de Portugal, afixando-se o segundo em lugar de plena visibilidade do recinto da Bolsa e arquivando-se o terceiro na respectiva secretaria.
+Art. 84.º - 1. Do boletim diário de cotações serão assinados três exemplares pelo presidente da comissão directiva e pelo secretário, ou por quem os substitua, enviando-se desde logo um ao Banco de Portugal, afixando-se o segundo em lugar de plena visibilidade do recinto da Bolsa e arquivando-se o terceiro na respectiva secretaria.
 
 2. ...
 
 ...
 
-###### Art. 87.º Por todas as operações de bolsa realizadas com intervenção de corretor serão devidas taxas a fixar em portaria do Ministro das Finanças.
+Art. 87.º Por todas as operações de bolsa realizadas com intervenção de corretor serão devidas taxas a fixar em portaria do Ministro das Finanças.
 
 ...
 
-###### Art. 92.º - 1. ...
+Art. 92.º - 1. ...
 
 2. ...
 
@@ -312,27 +350,27 @@ b) ...
 
 ...
 
-###### Art. 96.º ...
+Art. 96.º ...
 
 a) Os funcionários do Estado, civis ou militares, dos corpos administrativos, dos institutos ou empresas públicas e das instituições de previdência social obrigatória;
 
 ...
 
-###### Art. 102.º - 1. ...
+Art. 102.º - 1. ...
 
 2. Fazendo-se o caucionamento por depósito de títulos, serão os mesmos tomados por valor correspondente a 90% da sua cotação na Bolsa do dia anterior àquele em que forem solicitadas as guias ao Banco de Portugal, devendo proceder-se, nos termos do artigo 104.º, a reforço da caução sempre que o Banco de Portugal o julgue necessário em virtude de alterações verificadas na cotação referida e para o efeito notifique o corretor.
 
 3. ...
 
-###### Art. 103.º Os depósitos previstos nas alíneas a) e b) do n.º 1 do artigo anterior serão sempre efectuados à ordem do Banco de Portugal; e a favor deste será igualmente constituído o seguro a que se refere a alínea c) do mesmo preceito.
+Art. 103.º Os depósitos previstos nas alíneas a) e b) do n.º 1 do artigo anterior serão sempre efectuados à ordem do Banco de Portugal; e a favor deste será igualmente constituído o seguro a que se refere a alínea c) do mesmo preceito.
 
-###### Art. 104.º - 1. Sempre que a caução seja utilizada para os fins a que se destina ou se torne, por qualquer motivo, insuficiente, deverá o corretor proceder à sua reintegração ou reforço no prazo que o Banco de Portugal lhe fixar, e que não poderá exceder trinta dias.
+Art. 104.º - 1. Sempre que a caução seja utilizada para os fins a que se destina ou se torne, por qualquer motivo, insuficiente, deverá o corretor proceder à sua reintegração ou reforço no prazo que o Banco de Portugal lhe fixar, e que não poderá exceder trinta dias.
 
 2. ...
 
 ...
 
-###### Art. 111.º - 1. ...
+Art. 111.º - 1. ...
 
 2. ...
 
@@ -342,7 +380,7 @@ a) Os funcionários do Estado, civis ou militares, dos corpos administrativos, d
 
 ...
 
-###### Art. 113.º - 1. Os livros dos corretores estão sujeitos ao exame da comissão directiva da Bolsa a que se encontram adstritos, do Banco de Portugal e dos tribunais, nos termos da lei.
+Art. 113.º - 1. Os livros dos corretores estão sujeitos ao exame da comissão directiva da Bolsa a que se encontram adstritos, do Banco de Portugal e dos tribunais, nos termos da lei.
 
 2. ...
 
@@ -352,7 +390,7 @@ a) Os funcionários do Estado, civis ou militares, dos corpos administrativos, d
 
 ...
 
-###### Art. 116.º - 1. O exercício das funções de corretor suspender-se-á:
+Art. 116.º - 1. O exercício das funções de corretor suspender-se-á:
 
 a) Por aplicação de pena disciplinar que o determine;
 
@@ -366,17 +404,17 @@ d) Nos demais casos previstos neste diploma.
 
 3. No caso previsto na alínea c) do n.º 1 poderá ser determinada, em qualquer altura e sob proposta da comissão directiva, a suspensão provisória, a qual se manterá até decisão do respectivo processo disciplinar ou de transgressão.
 
-###### Art. 117.º Para os efeitos do disposto nos artigos 115.º e 116.º, devem os tribunais comunicar ao Banco de Portugal e às comissões directivas das bolsas as decisões que profiram respeitantes a corretores que nelas exerçam a sua actividade.
+Art. 117.º Para os efeitos do disposto nos artigos 115.º e 116.º, devem os tribunais comunicar ao Banco de Portugal e às comissões directivas das bolsas as decisões que profiram respeitantes a corretores que nelas exerçam a sua actividade.
 
 ...
 
-###### Art. 129.º - 1. É proibida qualquer reunião pública em que se transaccionem ou ofereçam para transacção valores, cotados ou não, que possam ser objecto de operações de bolsa.
+Art. 129.º - 1. É proibida qualquer reunião pública em que se transaccionem ou ofereçam para transacção valores, cotados ou não, que possam ser objecto de operações de bolsa.
 
 2. ...
 
 ...
 
-###### Art. 133.º - 1. ...
+Art. 133.º - 1. ...
 
 2. Incorrerão na multa de 10000$00 a 5000000$00 as pessoas que:
 
@@ -398,7 +436,7 @@ b) Aqueles que publicamente oferecerem para transacção ou transaccionarem valo
 
 ...
 
-###### Art. 136.º - 1. Salvo o disposto no n.º 4, na instrução e julgamento das infracções puníveis nos termos dos artigos 133.º e 134.º observar-se-ão as disposições dos artigos 96.º e 97.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e as disposições complementares dos Decretos-Leis n.os 47413, de 23 de Novembro de 1966, e 205/70, de 12 de Maio.
+Art. 136.º - 1. Salvo o disposto no n.º 4, na instrução e julgamento das infracções puníveis nos termos dos artigos 133.º e 134.º observar-se-ão as disposições dos artigos 96.º e 97.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e as disposições complementares dos Decretos-Leis n.os 47413, de 23 de Novembro de 1966, e 205/70, de 12 de Maio.
 
 2. ...
 
@@ -406,12 +444,12 @@ b) Aqueles que publicamente oferecerem para transacção ou transaccionarem valo
 
 4. A instrução e julgamento das infracções puníveis com pena de prisão competirão aos tribunais comuns.
 
-###### Art. 5.º Compete ao Ministro das Finanças resolver, por despacho genérico, as dúvidas que se suscitarem na aplicação do presente diploma.
+Art. 5.º Compete ao Ministro das Finanças resolver, por despacho genérico, as dúvidas que se suscitarem na aplicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 2 de Dezembro de 1975.**
+Promulgado em 2 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

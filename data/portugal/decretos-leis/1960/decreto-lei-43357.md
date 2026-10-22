@@ -48,40 +48,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43357-1960-512993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20b14472a421ffc41cd1f7ebf689ebabe322558997ef0c42b973e93ad7c8d934
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b35a2193b0873fca7f7a40087f4f8778e17738298f069fc0bdd8165cdd63239f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Estatuto
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Inspecção Geral dos Tribunais do Trabalho
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Orgânica
+- Pessoal de Justiça
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:328034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235168:por
+  label: "Alterados o § único do art. 2º e o nº 2 do art. 5º do Estatuto dos Tribunais do Trabalho, aprovado pelo Dec Lei\
+    \ 41745 de 21-Jul de 1958, com a redacção constante do presente diploma, pelo DEC LEI.48242.17.02.1968.MCPS, DG.IS [41]\
+    \ de 17.02.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48242-1968-235168
+  date: '1968-02-17'
+- type: amended_by
+  target: pt:dre:215767:por
+  label: "Alterados o § único do art. 2º e os nºs 2 e 3 do art. 5º do Estatuto dos Tribunais do Trabalho, aprovado pelo Dec\
+    \ Lei 41745 de 21-Jul de 1958, com a redacção constante do presente diploma, pelo DEC LEI.49372.11.11.1969.MCPS, DG.IS\
+    \ [265] de 11.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49372-1969-215767
+  date: '1969-11-11'
+- type: amended_by
+  target: pt:dre:686061:por
+  label: "Alterados o § único do art. 2º, o § único do art. 3º, o nº 2 do art. 5º, o art. 21º , o nº 3 do art. 39º, o art.\
+    \ 40º, os arts. 52º, 53º, 87º, 98º, 104º e 105º, o corpo do art. 150º, o art. 151º e seus §§ 1º e 2º, todos do Estatuto\
+    \ dos Tribunais do Trabalho aprovado pelo Dec Lei 41745 de 21-Jul de 1958, com a redacção constante do presente diploma,\
+    \ pelo DEC LEI.455/72.14.11.1972.MCPS, DG.IS [265] de 14.11.1972\072\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/455-1972-686061
+  date: '1972-11-14'
+- type: amended_by
+  target: pt:dre:443136:por
+  label: "Alterado o art. 150º do Estatuto dos Tribunais do Trabalho, aprovado pelo Dec Lei 41745, de 21-Jul, 1958, na redacção\
+    \ do presente diploma, pelo DEC LEI.274-A/75.02.06.1975.MT, DG.IS [126-4SUPL] de 02.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-a-1975-443136
+  date: '1975-06-02'
+- type: amended_by
+  target: pt:dre:328034:por
+  label: "Extinta a Inspecção-Geral dos Tribunais do Trabalho prevista no Estatuto dos Tribunais do Trabalho aprovado pelo\
+    \ Dec Lei 41745 de 21-Jul de 1958, com as alterações constantes do presente diploma, pelo DEC LEI.308/78.19.10.1978.MJ,\
+    \ DR.IS [241] de 19.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1978-328034
+  date: '1978-10-19'
+- type: cites
+  target: pt:dre:185940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667926:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:46Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +167,7 @@ Os tribunais de Lisboa e Porto acusaram, em 1959, um movimento de 27033 e de 138
 
 No quadro seguinte, que é bem elucidativo, refere-se o número de processos iniciados nalguns tribunais em 1953, 1956 e 1959:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27300/25972604.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27300/25972604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27300/25972604.pdf)
 
 4. Perante tais circunstâncias, o Governo, através do presente diploma, cria no Tribunal do Trabalho de Lisboa mais três varas e no do Porto mais uma e desdobra em duas varas os tribunais de Aveiro, Braga, Coimbra, Leiria, Setúbal e Tomar.
 
@@ -142,25 +207,25 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os §§ únicos dos artigos 2.º e 3.º; § 1.º do artigo 4.º; artigo 5.º e seus números; § único do artigo 7.º; §§ únicos dos artigos 15.º e 18.º; artigo 21.º e § único; artigo 22.º e seus números; §§ 1.º e 2.º do artigo 24.º; n.º 2.º e § 2.º do artigo 27.º; artigo 28.º e § único; artigo 29.º e § 2.º; n.os 4.º e 5.º do artigo 31.º; artigo 33.º; artigo 35.º; n.º 1.º do artigo 39.º; artigo 40.º; artigo 44.º; artigo 46.º; artigo 47.º, seus números e § único; artigo 48.º; artigo 49.º e seu § único; artigo 62.º; artigo 63.º e n.os 4.º e 6.º; artigo 64.º, seu n.º 10.º e § único; artigo 65.º; artigo 66.º e § único; artigos 68.º e 69.º; artigo 70.º e § único; § único do artigo 71.º; artigo 73.º; § único do artigo 79.º; artigo 80.º e § único; artigo 82.º; § 1.º do artigo 94.º; artigo 97.º; artigo 98.º; artigo 107.º; artigo 109.º e § 2.º; artigo 110.º; § único do artigo 111.º; artigo 113.º; n.os 1.º e 2.º do § 1.º e § 2.º do artigo 114.º; n.º 1.º do artigo 115.º; artigo 116.º; artigo 131.º; artigo 139.º; artigo 140.º; artigos 145.º, 146.º, 147.º e 148.º; artigo 150.º e seu § único, e artigo 151.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, passam a ter a seguinte redacção:
+Artigo 1.º Os §§ únicos dos artigos 2.º e 3.º; § 1.º do artigo 4.º; artigo 5.º e seus números; § único do artigo 7.º; §§ únicos dos artigos 15.º e 18.º; artigo 21.º e § único; artigo 22.º e seus números; §§ 1.º e 2.º do artigo 24.º; n.º 2.º e § 2.º do artigo 27.º; artigo 28.º e § único; artigo 29.º e § 2.º; n.os 4.º e 5.º do artigo 31.º; artigo 33.º; artigo 35.º; n.º 1.º do artigo 39.º; artigo 40.º; artigo 44.º; artigo 46.º; artigo 47.º, seus números e § único; artigo 48.º; artigo 49.º e seu § único; artigo 62.º; artigo 63.º e n.os 4.º e 6.º; artigo 64.º, seu n.º 10.º e § único; artigo 65.º; artigo 66.º e § único; artigos 68.º e 69.º; artigo 70.º e § único; § único do artigo 71.º; artigo 73.º; § único do artigo 79.º; artigo 80.º e § único; artigo 82.º; § 1.º do artigo 94.º; artigo 97.º; artigo 98.º; artigo 107.º; artigo 109.º e § 2.º; artigo 110.º; § único do artigo 111.º; artigo 113.º; n.os 1.º e 2.º do § 1.º e § 2.º do artigo 114.º; n.º 1.º do artigo 115.º; artigo 116.º; artigo 131.º; artigo 139.º; artigo 140.º; artigos 145.º, 146.º, 147.º e 148.º; artigo 150.º e seu § único, e artigo 151.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § único. Os Tribunais do Trabalho de Lisboa e Porto são constituídos por oito e cinco varas, respectivamente, e os de Aveiro, Braga, Coimbra, Leiria, Setúbal e Tomar por duas varas.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § único. Sempre que o tribunal seja constituído por mais de uma vara e ponderosas razões o justifiquem, o Ministro das Corporações e Previdência Social poderá determinar, em portaria, que uma funcione em localidade, sede de comarca, diferente daquela em que o tribunal está situado, sendo, neste caso, a área de jurisdição fixada na mesma portaria.
 
 Os vencimentos dos magistrados e funcionários destas varas são os correspondentes aos dos respectivos tribunais do trabalho, não podendo, no entanto, ser superiores aos estabelecidos para os tribunais de comarca com sede na localidade em que aquelas varas funcionem.
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1.º Em cada vara dos tribunais de Aveiro, Braga, Coimbra, Leiria, Lisboa, Porto, Setúbal e Tomar prestarão serviço um juiz e um agente do Ministério Público.
 
 § 2.º ...
 
-###### Art. 5.º As secretarias dos tribunais do trabalho serão constituídas:
+Art. 5.º As secretarias dos tribunais do trabalho serão constituídas:
 
 1.º Nos tribunais de Lisboa e Porto, por uma secretaria-geral, comum a todas as varas, e por uma secção central e duas de processos, em cada vara;
 
@@ -172,7 +237,7 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 ...
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § único. Não haverá alçada:
 
@@ -184,23 +249,23 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § único. Nos tribunais com mais de uma vara funcionando na mesma localidade haverá sempre de turno um juiz e um agente do Ministério Público, devendo a Inspecção-Geral fixar a escala dos turnos até quinze dias antes do início das férias, por forma a corresponder a cada magistrado, sensìvelmente, o mesmo número de dias de serviço.
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 § único. A superintendência do serviço da secretaria-geral, em Lisboa e Porto, no da secção central dos tribunais de Aveiro, Braga, Coimbra, Leiria, Setúbal e Tomar e, nuns e noutros, as atribuições previstas no n.º 9.º deste artigo competem ao juiz que, bienalmente, por despacho do Ministro das Corporações e Previdência Social, for designado. O disposto neste parágrafo não é extensivo às varas que funcionem fora da sede do tribunal.
 
 ...
 
-###### Art. 21.º Nos tribunais com mais de uma vara funcionando na sede do tribunal haverá sempre um juiz de turno, ao qual competirá presidir à distribuição e ordenar as diligências que possam praticar-se sem dependência desse acto.
+Art. 21.º Nos tribunais com mais de uma vara funcionando na sede do tribunal haverá sempre um juiz de turno, ao qual competirá presidir à distribuição e ordenar as diligências que possam praticar-se sem dependência desse acto.
 
 § único. Os turnos serão semanais, competindo à Inspecção-Geral regulamentar o seu funcionamento.
 
-###### Art. 22.º A substituição dos juízes far-se-á pela forma seguinte:
+Art. 22.º A substituição dos juízes far-se-á pela forma seguinte:
 
 1.º Nos tribunais com mais de uma vara funcionando na sede do tribunal, os juízes substituem-se uns aos outros, por ordem numérica e sucessiva, quando as suas faltas ou impedimentos não excedam o prazo de quinze dias; se este prazo for excedido ou as conveniências do serviço o exigirem, serão substituídos pelos conservadores do registo predial ou civil que o presidente da Relação do respectivo distrito designar.
 
@@ -208,7 +273,7 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 § 1.º Nos distritos do continente, o 1.º vogal será o juiz do tribunal do trabalho de outro distrito ou vara, a designar, mediante portaria, pelo Ministro das Corporações e Previdência Social, sob proposta da Inspecção-Geral.
 
@@ -218,7 +283,7 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 ...
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 1.º ...
 
@@ -228,11 +293,11 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 § 2.º Nos tribunais das ilhas adjacentes, a presidência será assumida pelo juiz designado pela Inspecção-Geral para substituir o presidente.
 
-###### Art. 28.º Constituem encargos do Estado as ajudas de custo e as despesas de transporte a que tiverem direito os membros dos tribunais colectivos quando os julgamentos se efectuem na sede dos tribunais ou na localidade onde funcione qualquer vara.
+Art. 28.º Constituem encargos do Estado as ajudas de custo e as despesas de transporte a que tiverem direito os membros dos tribunais colectivos quando os julgamentos se efectuem na sede dos tribunais ou na localidade onde funcione qualquer vara.
 
 § único. Quando os julgamentos em tribunal colectivo se realizem fora dos lugares indicados no corpo do artigo, apenas serão satisfeitas pela forma indicada nos artigos 12.º e 13.º as ajudas de custo e as despesas de transporte que excedam as que seriam pagas se o julgamento ali se efectuasse.
 
-###### Art. 29.º Nos tribunais com mais de uma vara, os julgamentos em tribunal colectivo realizar-se-ão todos os meses, segundo a ordem acordada pelos juízes das respectivas varas, de harmonia com as conveniências e necessidades do serviço.
+Art. 29.º Nos tribunais com mais de uma vara, os julgamentos em tribunal colectivo realizar-se-ão todos os meses, segundo a ordem acordada pelos juízes das respectivas varas, de harmonia com as conveniências e necessidades do serviço.
 
 § 1.º ...
 
@@ -240,7 +305,7 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 ...
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 1.º ...
 
@@ -270,15 +335,15 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 ...
 
-###### Art. 33.º Os agentes do Ministério Público consultarão obrigatòriamente o inspector-geral dos Tribunais do Trabalho acerca da instauração e contestação de acções e execuções em que seja autor ou réu o Estado, enviando-lhe relatório, acompanhado de projecto, dos articulados com os documentos que os devem instruir.
+Art. 33.º Os agentes do Ministério Público consultarão obrigatòriamente o inspector-geral dos Tribunais do Trabalho acerca da instauração e contestação de acções e execuções em que seja autor ou réu o Estado, enviando-lhe relatório, acompanhado de projecto, dos articulados com os documentos que os devem instruir.
 
 ...
 
-###### Art. 35.º A correspondência emanada da Inspecção-Geral não poderá ser publicada nem junta a qualquer processo sem autorização do inspector-geral.
+Art. 35.º A correspondência emanada da Inspecção-Geral não poderá ser publicada nem junta a qualquer processo sem autorização do inspector-geral.
 
 ...
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 ...
 
@@ -292,19 +357,19 @@ Os vencimentos dos magistrados e funcionários destas varas são os corresponden
 
 § 2.º ...
 
-###### Art. 40.º Em caso de imperiosa necessidade, o juiz designará ad hoc ou nomeará, conforme a falta ou impedimento for acidental ou com certa permanência, pessoa idónea para exercer as funções de agente do Ministério Público, devendo no segundo caso dar imediato conhecimento da nomeação à Inspecção-Geral, para efeitos de confirmação.
+Art. 40.º Em caso de imperiosa necessidade, o juiz designará ad hoc ou nomeará, conforme a falta ou impedimento for acidental ou com certa permanência, pessoa idónea para exercer as funções de agente do Ministério Público, devendo no segundo caso dar imediato conhecimento da nomeação à Inspecção-Geral, para efeitos de confirmação.
 
 ...
 
-###### Art. 44.º As secretarias dos tribunais do trabalho e respectivos funcionários têm, na parte aplicável, a competência atribuída às secretarias e funcionários dos correspondentes tribunais de comarca, incumbindo ainda aos chefes de secção central ou de secretaria, conforme os casos, e de harmonia com os preceitos legais ou as instruções superiores, a remessa de guias, verbetes e outros documentos aos serviços e demais entidades especificadas na lei.
+Art. 44.º As secretarias dos tribunais do trabalho e respectivos funcionários têm, na parte aplicável, a competência atribuída às secretarias e funcionários dos correspondentes tribunais de comarca, incumbindo ainda aos chefes de secção central ou de secretaria, conforme os casos, e de harmonia com os preceitos legais ou as instruções superiores, a remessa de guias, verbetes e outros documentos aos serviços e demais entidades especificadas na lei.
 
 Aos secretários-gerais dos Tribunais do Trabalho de Lisboa e Porto, aos chefes de secção central e secretaria, conforme os casos, compete ainda a elaboração do projecto do orçamento e o processamento das despesas do respectivo tribunal.
 
 ...
 
-###### Art. 46.º Nos tribunais ou varas onde houver apenas uma secção central e uma de processos, a Inspecção-Geral pode determinar que o chefe de secção central coadjuve na execução do expediente dos processos, na medida em que as necessidades do serviço o exijam.
+Art. 46.º Nos tribunais ou varas onde houver apenas uma secção central e uma de processos, a Inspecção-Geral pode determinar que o chefe de secção central coadjuve na execução do expediente dos processos, na medida em que as necessidades do serviço o exijam.
 
-###### Art. 47.º A substituição dos secretários-gerais e dos chefes de secção central far-se-á pela forma seguinte:
+Art. 47.º A substituição dos secretários-gerais e dos chefes de secção central far-se-á pela forma seguinte:
 
 1.º Os secretários-gerais, pelo chefe de secção central da 1.ª vara e, na falta ou impedimento deste, pelos das restantes varas, por ordem numérica e sucessiva.
 
@@ -318,21 +383,21 @@ c) Nos da Covilhã, Funchal e Ponta Delgada e, bem assim, nos casos previstos no
 
 § único. Nos tribunais com uma única secção, o juiz indicará quem deve substituir o chefe da secretaria.
 
-###### Art. 48.º A substituição dos chefes de secção de processos far-se-á pela seguinte forma:
+Art. 48.º A substituição dos chefes de secção de processos far-se-á pela seguinte forma:
 
 1.º Nos tribunais com mais de uma vara, substituir-se-ão recìprocamente em cada vara. Na falta ou impedimento de ambos, serão substituídos pelo funcionário que o juiz determinar.
 
 2.º Nos tribunais da Covilhã, Funchal e Ponta Delgada e nos casos previstos no § único do artigo 5.º, pelo chefe de secção central, e, na falta ou impedimento deste, pelo funcionário indicado pelo juiz.
 
-###### Art. 49.º Na secretaria-geral, nas secções centrais e nas secções de processos haverá os livros que forem indicados pela Inspecção-Geral, com termos de abertura e encerramento assinados pelo juiz, que também rubricará todas as páginas depois de numeradas.
+Art. 49.º Na secretaria-geral, nas secções centrais e nas secções de processos haverá os livros que forem indicados pela Inspecção-Geral, com termos de abertura e encerramento assinados pelo juiz, que também rubricará todas as páginas depois de numeradas.
 
 § único. Nos tribunais de Lisboa e Porto e em todos os outros em que haja mais de uma vara funcionando na sede do tribunal, competirá ao juiz referido no § único do artigo 18.º rubricar as folhas e assinar os termos dos livros da secretaria-geral e da secção central, respectivamente.
 
 ...
 
-###### Art. 62.º Na dependência directa do Ministro das Corporações e Previdência Social funciona a Inspecção-Geral dos Tribunais do Trabalho, constituída por um inspector-geral, seis inspectores e uma secretaria.
+Art. 62.º Na dependência directa do Ministro das Corporações e Previdência Social funciona a Inspecção-Geral dos Tribunais do Trabalho, constituída por um inspector-geral, seis inspectores e uma secretaria.
 
-###### Art. 63.º Incumbe especialmente à Inspecção-Geral:
+Art. 63.º Incumbe especialmente à Inspecção-Geral:
 
 1.º ...
 
@@ -346,7 +411,7 @@ c) Nos da Covilhã, Funchal e Ponta Delgada e, bem assim, nos casos previstos no
 
 6.º A elaboração do projecto do seu orçamento e o exercício das demais funções que por lei lhe forem atribuídas.
 
-###### Art. 64.º Compete ao inspector-geral:
+Art. 64.º Compete ao inspector-geral:
 
 1.º ...
 
@@ -378,15 +443,15 @@ c) Nos da Covilhã, Funchal e Ponta Delgada e, bem assim, nos casos previstos no
 
 § único. O inspector-geral poderá delegar o exercício destas funções nos inspectores.
 
-###### Art. 65.º O inspector-geral poderá exercer pessoalmente ou por intermédio dos inspectores quaisquer das atribuições conferidas por lei aos agentes do Ministério Público.
+Art. 65.º O inspector-geral poderá exercer pessoalmente ou por intermédio dos inspectores quaisquer das atribuições conferidas por lei aos agentes do Ministério Público.
 
-###### Art. 66.º Os inspectores têm as mesmas atribuições do inspector-geral, quando este as delegue, cumprindo-lhes coadjuvá-lo e substituí-lo no exercício da sua competência legal.
+Art. 66.º Os inspectores têm as mesmas atribuições do inspector-geral, quando este as delegue, cumprindo-lhes coadjuvá-lo e substituí-lo no exercício da sua competência legal.
 
 § único. Nas suas faltas ou impedimentos, o inspector-geral será substituído pelo inspector designado pelo Ministro das Corporações e Previdência Social.
 
 ...
 
-###### Art. 68.º Compete à secretaria da Inspecção-Geral dos Tribunais do Trabalho:
+Art. 68.º Compete à secretaria da Inspecção-Geral dos Tribunais do Trabalho:
 
 1.º Executar o expediente da Inspecção, registar e arquivar a correspondência recebida e expedida;
 
@@ -420,7 +485,7 @@ c) Nos da Covilhã, Funchal e Ponta Delgada e, bem assim, nos casos previstos no
 
 ...
 
-###### Art. 69.º A secretaria da Inspecção-Geral constituirá uma repartição, com o seguinte quadro de pessoal:
+Art. 69.º A secretaria da Inspecção-Geral constituirá uma repartição, com o seguinte quadro de pessoal:
 
 1 chefe de repartição.
 
@@ -438,35 +503,35 @@ c) Nos da Covilhã, Funchal e Ponta Delgada e, bem assim, nos casos previstos no
 
 2 contínuos de 2.ª classe.
 
-###### Art. 70.º Nos processos de inspecção, inquérito e sindicância realizados pelos magistrados da Inspecção-Geral, servirão de secretários os adjuntos da mesma Inspecção-Geral ou, sendo necessário, qualquer funcionário do quadro dos tribunais do trabalho ou das delegações do Instituto Nacional do Trabalho e Previdência escolhido pela referida Inspecção.
+Art. 70.º Nos processos de inspecção, inquérito e sindicância realizados pelos magistrados da Inspecção-Geral, servirão de secretários os adjuntos da mesma Inspecção-Geral ou, sendo necessário, qualquer funcionário do quadro dos tribunais do trabalho ou das delegações do Instituto Nacional do Trabalho e Previdência escolhido pela referida Inspecção.
 
 § único. Os adjuntos mencionados neste artigo poderão também ser incumbidos de coadjuvar ou orientar os serviços da secretaria e contabilidade dos tribunais do trabalho e das delegações do Instituto Nacional do Trabalho e Previdência, por períodos não superiores a três meses, com direito a ajudas de custo e transporte.
 
-###### Art. 71.º ...
+Art. 71.º ...
 
 § único. Na secretaria haverá os livros que o inspector-geral determinar.
 
 ...
 
-###### Art. 73.º A Magistratura do Trabalho é constituída pelo inspector-geral e inspectores dos tribunais do trabalho (Inspecção-Geral dos Tribunais do Trabalho), pelos juízes (Magistratura Judicial do Trabalho) e pelos agentes do Ministério Público junto dos tribunais do trabalho (Magistratura do Ministério Público do Trabalho).
+Art. 73.º A Magistratura do Trabalho é constituída pelo inspector-geral e inspectores dos tribunais do trabalho (Inspecção-Geral dos Tribunais do Trabalho), pelos juízes (Magistratura Judicial do Trabalho) e pelos agentes do Ministério Público junto dos tribunais do trabalho (Magistratura do Ministério Público do Trabalho).
 
 ...
 
-###### Art. 79.º ...
+Art. 79.º ...
 
 § único. O cartão será substituído todas as vezes que se verifique qualquer alteração na situação do seu titular e recolhido pela Inspecção-Geral sempre que o funcionário deixe de exercer as funções em virtude das quais lhe foi concedido.
 
-###### Art. 80.º O inspector-geral e os inspectores dos tribunais do trabalho serão nomeados, em comissão de serviço, por períodos renováveis de três anos, de entre os juízes dos tribunais do trabalho ou juízes de direito com classificação de Bom ou Superior, ou ainda de entre doutores ou licenciados em Direito de reconhecida competência para o exercício dos cargos.
+Art. 80.º O inspector-geral e os inspectores dos tribunais do trabalho serão nomeados, em comissão de serviço, por períodos renováveis de três anos, de entre os juízes dos tribunais do trabalho ou juízes de direito com classificação de Bom ou Superior, ou ainda de entre doutores ou licenciados em Direito de reconhecida competência para o exercício dos cargos.
 
 § único. Dois dos lugares de inspector poderão, também, ser providos em delegado do Instituto Nacional do Trabalho e Previdência, chefe ou primeiro-assistente dos Serviços de Acção Social com classificação de Bom ou Superior e licenciatura em Direito.
 
 ...
 
-###### Art. 82.º O inspector-geral e os inspectores tomam posse e prestam compromisso de honra perante o Ministro das Corporações e Previdência Social.
+Art. 82.º O inspector-geral e os inspectores tomam posse e prestam compromisso de honra perante o Ministro das Corporações e Previdência Social.
 
 ...
 
-###### Art. 94.º ...
+Art. 94.º ...
 
 § 1.º Nos tribunais com mais de uma vara, a Inspecção-Geral indicará as secções onde aqueles funcionários prestarão serviço.
 
@@ -474,11 +539,11 @@ c) Nos da Covilhã, Funchal e Ponta Delgada e, bem assim, nos casos previstos no
 
 ...
 
-###### Art. 97.º Nas secretarias-gerais dos Tribunais do Trabalho de Lisboa e Porto haverá dois contínuos e um telefonista. Os contínuos têm direito a fardamento, nos termos regulados no Decreto-Lei n.º 22484, de 19 de Julho de 1933, e legislação complementar.
+Art. 97.º Nas secretarias-gerais dos Tribunais do Trabalho de Lisboa e Porto haverá dois contínuos e um telefonista. Os contínuos têm direito a fardamento, nos termos regulados no Decreto-Lei n.º 22484, de 19 de Julho de 1933, e legislação complementar.
 
 § único ...
 
-###### Art. 98.º Os lugares de secretário-geral dos Tribunais do Trabalho de Lisboa e Porto serão livremente providos pelo Ministro das Corporações e Previdência Social em licenciados em Direito.
+Art. 98.º Os lugares de secretário-geral dos Tribunais do Trabalho de Lisboa e Porto serão livremente providos pelo Ministro das Corporações e Previdência Social em licenciados em Direito.
 
 Os chefes de secção e de secretaria serão providos, mediante concurso documental, em funcionários da mesma categoria, sendo motivo de preferência a melhor classificação de serviço.
 
@@ -488,29 +553,29 @@ Os chefes de secção e de secretaria serão providos, mediante concurso documen
 
 ...
 
-###### Art. 107.º O plano anual das inspecções ordinárias será elaborado pela Inspecção-Geral em ordem a assegurar que todos os tribunais e delegações sejam inspeccionados, pelo menos, uma vez de três em três anos.
+Art. 107.º O plano anual das inspecções ordinárias será elaborado pela Inspecção-Geral em ordem a assegurar que todos os tribunais e delegações sejam inspeccionados, pelo menos, uma vez de três em três anos.
 
 § único ...
 
 ...
 
-###### Art. 109.º Compete ao Ministro das Corporações e Previdência Social a classificação dos magistrados do Ministério Público e dos oficiais de justiça e à Inspecção-Geral, constituída em Conselho Judiciário, a classificação dos juízes dos tribunais do trabalho, a jurisdição disciplinar que sobre estes vier a ser-lhes delegada e aquelas atribuições que, pelo Estatuto Judiciário, e na parte aplicável aos juízes, são conferidas ao Conselho Superior Judiciário.
+Art. 109.º Compete ao Ministro das Corporações e Previdência Social a classificação dos magistrados do Ministério Público e dos oficiais de justiça e à Inspecção-Geral, constituída em Conselho Judiciário, a classificação dos juízes dos tribunais do trabalho, a jurisdição disciplinar que sobre estes vier a ser-lhes delegada e aquelas atribuições que, pelo Estatuto Judiciário, e na parte aplicável aos juízes, são conferidas ao Conselho Superior Judiciário.
 
 § 1.º ...
 
 § 2.º Carecem da homologação do Ministro das Corporações e Previdência Social as deliberações que a Inspecção-Geral, funcionando como Conselho Judiciário, tome ao abrigo da legislação subsidiária deste estatuto ou do disposto no corpo deste artigo na parte respeitante à classificação de juízes dos tribunais do trabalho.
 
-###### Art. 110.º Sempre que o Ministro das Corporações e Previdência Social entenda dever ouvir a Inspecção-Geral, constituída em Conselho Judiciário, para efeitos de apreciação de processos relativos a funcionários dos serviços centrais do Ministério, deverá participar nas reuniões o director-geral respectivo.
+Art. 110.º Sempre que o Ministro das Corporações e Previdência Social entenda dever ouvir a Inspecção-Geral, constituída em Conselho Judiciário, para efeitos de apreciação de processos relativos a funcionários dos serviços centrais do Ministério, deverá participar nas reuniões o director-geral respectivo.
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 § único. O prazo da correição poderá ser prorrogado até 30 dias pelo inspector-geral.
 
 ...
 
-###### Art. 113.º Serão remetidos ao inspector-geral a cópia do relatório da correição e, bem assim, os boletins, mapas, informações e relatórios que, por disposição legal ou determinação sua, forem elaborados.
+Art. 113.º Serão remetidos ao inspector-geral a cópia do relatório da correição e, bem assim, os boletins, mapas, informações e relatórios que, por disposição legal ou determinação sua, forem elaborados.
 
-###### Art. 114.º ...
+Art. 114.º ...
 
 § 1.º ...
 
@@ -522,7 +587,7 @@ Os chefes de secção e de secretaria serão providos, mediante concurso documen
 
 § 2.º Nos Tribunais do Trabalho de Lisboa e Porto, o exercício delegado da acção disciplinar sobre os funcionários da secretaria-geral e nos restantes tribunais com mais de uma vara funcionando na sede do tribunal sobre os da secção central cabe ao juiz a que se refere o § único do artigo 18.º
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 1.º Das penas aplicadas pelos juízes, pelo inspector-geral ou pela Inspecção-Geral, recurso hierárquico para o Ministro das Corporações e Previdência Social.
 
@@ -530,41 +595,41 @@ Os chefes de secção e de secretaria serão providos, mediante concurso documen
 
 § único. ...
 
-###### Art. 116.º Os processos disciplinares, depois de julgados, serão arquivados na secretaria da Inspecção-Geral dos Tribunais do Trabalho, fazendo-se a anotação da pena aplicada no registo biográfico do arguido.
+Art. 116.º Os processos disciplinares, depois de julgados, serão arquivados na secretaria da Inspecção-Geral dos Tribunais do Trabalho, fazendo-se a anotação da pena aplicada no registo biográfico do arguido.
 
 ...
 
-###### Art. 131.º A condenação civil em perdas e danos é equiparada à pena de multa e importará transferência se o magistrado ou o oficial de justiça se encontrar no tribunal onde praticou a falta que originou a condenação, sempre que o Ministro das Corporações e Previdência Social, ouvida a Inspecção-Geral dos Tribunais do Trabalho, o julgar necessário.
+Art. 131.º A condenação civil em perdas e danos é equiparada à pena de multa e importará transferência se o magistrado ou o oficial de justiça se encontrar no tribunal onde praticou a falta que originou a condenação, sempre que o Ministro das Corporações e Previdência Social, ouvida a Inspecção-Geral dos Tribunais do Trabalho, o julgar necessário.
 
 ...
 
-###### Art. 139.º As penas 1.ª e 2.ª serão aplicadas independentemente de processo, mediante simples audiência do arguido;
+Art. 139.º As penas 1.ª e 2.ª serão aplicadas independentemente de processo, mediante simples audiência do arguido;
 
 Depende, todavia, de processo disciplinar a aplicação da pena 2.ª aos magistrados da Inspecção-Geral dos Tribunais do Trabalho.
 
-###### Art. 140.º Os processos disciplinares serão instruídos pelo inspector-geral ou pelos inspectores dos tribunais do trabalho e podê-lo-ão ser ainda por outros magistrados judiciais do Ministério Público do Trabalho de categoria não inferior à dos arguidos.
+Art. 140.º Os processos disciplinares serão instruídos pelo inspector-geral ou pelos inspectores dos tribunais do trabalho e podê-lo-ão ser ainda por outros magistrados judiciais do Ministério Público do Trabalho de categoria não inferior à dos arguidos.
 
 ...
 
-###### Art. 145.º Sem prejuízo da independência dos juízes, o inspector-geral poderá, com a anuência do Ministro das Corporações e Previdência Social, promover reuniões de magistrados destinadas ao estudo de problemas de carácter doutrinário, aperfeiçoamento da orgânica dos serviços, prática judiciária, legislação aplicável nos tribunais do trabalho e maior eficiência destes.
+Art. 145.º Sem prejuízo da independência dos juízes, o inspector-geral poderá, com a anuência do Ministro das Corporações e Previdência Social, promover reuniões de magistrados destinadas ao estudo de problemas de carácter doutrinário, aperfeiçoamento da orgânica dos serviços, prática judiciária, legislação aplicável nos tribunais do trabalho e maior eficiência destes.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 146.º Os magistrados do trabalho com provimento definitivo nomeados em comissão de serviço para desempenharem as funções de inspector-geral e de inspector dos tribunais do trabalho continuam a ser titulares dos lugares que ocupam à data da sua nomeação, os quais só poderão ser providos interinamente durante o seu impedimento.
+Art. 146.º Os magistrados do trabalho com provimento definitivo nomeados em comissão de serviço para desempenharem as funções de inspector-geral e de inspector dos tribunais do trabalho continuam a ser titulares dos lugares que ocupam à data da sua nomeação, os quais só poderão ser providos interinamente durante o seu impedimento.
 
 § único. ...
 
-###### Art. 147.º O inspector-geral e os inspectores são equiparados, para efeitos de vencimentos, respectivamente, a director-geral e a juízes dos Tribunais do Trabalho de Lisboa e Porto.
+Art. 147.º O inspector-geral e os inspectores são equiparados, para efeitos de vencimentos, respectivamente, a director-geral e a juízes dos Tribunais do Trabalho de Lisboa e Porto.
 
 § único. ...
 
-###### Art. 148.º Sem prejuízo do disposto na parte final do § único do artigo 3.º, os juízes e agentes do Ministério Público dos Tribunais do Trabalho de Lisboa, Porto e Funchal são equiparados, para efeitos de vencimentos, aos juízes de direito e delegados do procurador da República de 1.ª classe; os de Aveiro, Braga, Coimbra, Covilhã, Leiria, Setúbal, Tomar e Ponta Delgada, aos de 2.ª classe; os restantes, aos de 3.ª classe.
+Art. 148.º Sem prejuízo do disposto na parte final do § único do artigo 3.º, os juízes e agentes do Ministério Público dos Tribunais do Trabalho de Lisboa, Porto e Funchal são equiparados, para efeitos de vencimentos, aos juízes de direito e delegados do procurador da República de 1.ª classe; os de Aveiro, Braga, Coimbra, Covilhã, Leiria, Setúbal, Tomar e Ponta Delgada, aos de 2.ª classe; os restantes, aos de 3.ª classe.
 
 ...
 
-###### Art. 150.º Os secretários-gerais, os chefes de secção central, os chefes de secção de processos e os chefes de secretaria dos tribunais do trabalho auferirão o vencimento correspondente à parte fixa das remunerações atribuídas aos funcionários de idênticas categorias dos tribunais judiciais, cíveis, observando-se as seguintes equiparações:
+Art. 150.º Os secretários-gerais, os chefes de secção central, os chefes de secção de processos e os chefes de secretaria dos tribunais do trabalho auferirão o vencimento correspondente à parte fixa das remunerações atribuídas aos funcionários de idênticas categorias dos tribunais judiciais, cíveis, observando-se as seguintes equiparações:
 
 a) Secretários-gerais, chefes de secção central e processos dos tribunais de Lisboa, Porto e Funchal, equiparados aos funcionários de igual categoria dos tribunais judiciais de 1.ª instância de Lisboa e Porto;
 
@@ -576,27 +641,27 @@ c) Chefes de secretarias dos restantes tribunais, equiparados a chefes de secç�
 
 § 2.º Os adjuntos da Inspecção-Geral a quem incumbe o serviço de secretariar os magistrados daquele órgão, nos termos do artigo 70.º deste estatuto, têm o direito, além do vencimento correspondente a chefe de secção central dos Tribunais do Trabalho de Lisboa e Porto, a uma gratificação mensal de 500$00 pelo ónus especial da função.
 
-###### Art. 151.º Os vencimentos dos oficiais de diligências dos Tribunais do Trabalho de Lisboa, Porto e Funchal, dos Tribunais do Trabalho de Aveiro, Braga, Coimbra, Covilhã, Leiria, Setúbal, Tomar e Ponta Delgada e os dos restantes tribunais do trabalho serão iguais à parte fixa da remuneração estabelecida para os funcionários da mesma categoria que prestem serviço, respectivamente, nos tribunais judiciais de 1.ª instância de Lisboa e Porto, nos tribunais das comarcas de 2.ª classe e nos tribunais das comarcas de 3.ª classe.
+Art. 151.º Os vencimentos dos oficiais de diligências dos Tribunais do Trabalho de Lisboa, Porto e Funchal, dos Tribunais do Trabalho de Aveiro, Braga, Coimbra, Covilhã, Leiria, Setúbal, Tomar e Ponta Delgada e os dos restantes tribunais do trabalho serão iguais à parte fixa da remuneração estabelecida para os funcionários da mesma categoria que prestem serviço, respectivamente, nos tribunais judiciais de 1.ª instância de Lisboa e Porto, nos tribunais das comarcas de 2.ª classe e nos tribunais das comarcas de 3.ª classe.
 
 § único. Na hipótese prevista no § único do artigo 3.º, os vencimentos dos oficiais de diligências serão iguais à parte fixa da remuneração estabelecida para os funcionários da mesma categoria que prestem serviço nos tribunais judiciais das comarcas de 2.ª ou 3.ª classe, conforme a vara funcione em comarca de 2.ª ou 3.ª classe, respectivamente.
 
-###### Art. 2.º Ao artigo 5.º é aditado o seguinte § único:
+Art. 2.º Ao artigo 5.º é aditado o seguinte § único:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 § único. As secretarias das varas que funcionem em localidade diversa da sede do tribunal terão a constituição referida no n.º 3.º
 
-###### Art. 3.º Ao artigo 67.º do mesmo estatuto, com a substituição do § único por dois parágrafos, é dada o seguinte redacção:
+Art. 3.º Ao artigo 67.º do mesmo estatuto, com a substituição do § único por dois parágrafos, é dada o seguinte redacção:
 
-###### Art. 67.º A representação do Ministério Público junto do Supremo Tribunal Administrativo - secção do contencioso do trabalho e previdência social - será exercida pelo magistrado da Inspecção-Geral que o Ministro das Corporações e Previdência Social designar.
+Art. 67.º A representação do Ministério Público junto do Supremo Tribunal Administrativo - secção do contencioso do trabalho e previdência social - será exercida pelo magistrado da Inspecção-Geral que o Ministro das Corporações e Previdência Social designar.
 
 § 1.º Nos impedimentos ocasionais do magistrado designado substitui-lo-á o que pelo inspector-geral for indicado.
 
 § 2.º Ao magistrado referido neste artigo e seu § 1.º pertencem, na parte aplicável, as atribuições mencionadas no artigo 31.º, sem prejuízo do disposto nos artigos 65.º e 66.º
 
-###### Art. 4.º Ao artigo 69.º do mesmo diploma são aditados os seguintes parágrafos:
+Art. 4.º Ao artigo 69.º do mesmo diploma são aditados os seguintes parágrafos:
 
-###### Art. 69.º ...
+Art. 69.º ...
 
 § 1.º Os lugares de adjunto da Inspecção-Geral serão preenchidos por chefes de secção central, de processos ou de secretaria dos tribunais do trabalho em regime de comissão por períodos de três anos, tàcitamente renováveis.
 
@@ -604,42 +669,42 @@ c) Chefes de secretarias dos restantes tribunais, equiparados a chefes de secç�
 
 § 3.º O disposto no parágrafo anterior não tem aplicação aos funcionários actualmente ao serviço na secretaria da Inspecção.
 
-###### Art. 5.º Ao artigo 151.º do mesmo estatuto é aditado o seguinte parágrafo:
+Art. 5.º Ao artigo 151.º do mesmo estatuto é aditado o seguinte parágrafo:
 
-###### Art. 151.º ...
+Art. 151.º ...
 
 § único. As equiparações previstas no presente artigo e no artigo antecedente acompanharão quaisquer alterações de vencimentos dos funcionários correspondentes dos tribunais judiciais.
 
-###### Art. 6.º A secção II do capítulo III do título III do Estatuto dos Tribunais do Trabalho passa a ser subordinada ao título:
+Art. 6.º A secção II do capítulo III do título III do Estatuto dos Tribunais do Trabalho passa a ser subordinada ao título:
 
 Dos secretários-gerais, chefes de secção e de secretaria.
 
-###### Art. 7.º O número e categoria dos magistrados e demais funcionários da Inspecção-Geral e dos tribunais do trabalho são os referidos no estatuto dos mesmos tribunais, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho do 1958, com as alterações resultantes do presente diploma e mapa anexo.
+Art. 7.º O número e categoria dos magistrados e demais funcionários da Inspecção-Geral e dos tribunais do trabalho são os referidos no estatuto dos mesmos tribunais, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho do 1958, com as alterações resultantes do presente diploma e mapa anexo.
 
 § único. O Ministro das Corporações e Previdência Social fará publicar no prazo de oito dias, a contar da entrada em vigor deste diploma, uma relação nominal dos actuais magistrados e funcionários da Inspecção-Geral e dos tribunais do trabalho, com indicação dos lugares e situação em que ficam providos nos quadros resultantes da aplicação deste diploma, considerando-se dispensadas para o mesmo pessoal as formalidades de visto do Tribunal de Contas e posse.
 
-###### Art. 8.º Na repartição dos processos pendentes nas varas dos Tribunais do Trabalho de Lisboa e Porto à data da publicação deste diploma pelas novas varas por ele criadas, bem como na divisão dos processos pendentes na mesma data nos tribunais de Aveiro, Braga, Coimbra, Leiria, Setúbal e Tomar pelas duas varas agora criadas, observar-se-á o disposto no artigo 162.º do Estatuto dos Tribunais do Trabalho.
+Art. 8.º Na repartição dos processos pendentes nas varas dos Tribunais do Trabalho de Lisboa e Porto à data da publicação deste diploma pelas novas varas por ele criadas, bem como na divisão dos processos pendentes na mesma data nos tribunais de Aveiro, Braga, Coimbra, Leiria, Setúbal e Tomar pelas duas varas agora criadas, observar-se-á o disposto no artigo 162.º do Estatuto dos Tribunais do Trabalho.
 
-###### Art. 9.º Não é permitida a prestação de serviço nas secretarias dos tribunais do trabalho a pessoas estranhas aos seus quadros.
+Art. 9.º Não é permitida a prestação de serviço nas secretarias dos tribunais do trabalho a pessoas estranhas aos seus quadros.
 
-**O Ministro das Corporações e Previdência Social poderá autorizar, todavia, a permanência ali de pessoas naquelas condições apenas para o efeito de adquirirem as noções necessárias ao seu ingresso no serviço judicial e por tempo não superior a 120 dias, sem que de facto, no entanto, resultem para os estagiários quaisquer preferências ou direitos.**
+O Ministro das Corporações e Previdência Social poderá autorizar, todavia, a permanência ali de pessoas naquelas condições apenas para o efeito de adquirirem as noções necessárias ao seu ingresso no serviço judicial e por tempo não superior a 120 dias, sem que de facto, no entanto, resultem para os estagiários quaisquer preferências ou direitos.
 
-###### Art. 10.º O Governo, no prazo máximo de um ano, promoverá a revisão do actual sistema de recrutamento dos agentes do Ministério Público e dos juízes dos tribunais do trabalho, em ordem a assegurar-lhes maior estabilidade e a definir mais rigorosamente as suas condições de acesso.
+Art. 10.º O Governo, no prazo máximo de um ano, promoverá a revisão do actual sistema de recrutamento dos agentes do Ministério Público e dos juízes dos tribunais do trabalho, em ordem a assegurar-lhes maior estabilidade e a definir mais rigorosamente as suas condições de acesso.
 
 § único. A Inspecção-Geral dos Tribunais do Trabalho iniciará desde já os estudos que permitam a execução do que se prevê neste artigo.
 
-###### Art. 11.º São revogados o artigo 3.º do [Decreto-Lei n.º 32417](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32417-1942-667926), de 23 de Novembro de 1942, o artigo 1.º do [Decreto-Lei n.º 37911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37911-1950-481126), de 1 de Agosto de 1950, e os artigos 160.º e 161.º do Estatuto dos Tribunais do Trabalho.
+Art. 11.º São revogados o artigo 3.º do [Decreto-Lei n.º 32417](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32417-1942-667926), de 23 de Novembro de 1942, o artigo 1.º do [Decreto-Lei n.º 37911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37911-1950-481126), de 1 de Agosto de 1950, e os artigos 160.º e 161.º do Estatuto dos Tribunais do Trabalho.
 
 § único. O disposto no corpo do artigo não prejudica os processos pendentes à data da publicação deste diploma, aforados em harmonia com o artigo 1.º do [Decreto-Lei n.º 37911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37911-1950-481126).
 
-###### Art. 12.º Este diploma entra em vigor em 1 de Janeiro de 1961.
+Art. 12.º Este diploma entra em vigor em 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Mapa a que se refere o artigo 7.º do Decreto-Lei n.º 43357, de 24 de Novembro de 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27300/25972604.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27300/25972604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27300/25972604.pdf)
 
 Ministério das Corporações e Previdência Social, 24 de Novembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.

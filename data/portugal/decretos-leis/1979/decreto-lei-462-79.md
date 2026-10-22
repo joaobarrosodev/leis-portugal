@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/27700/30723074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-1979-367227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6587037891c5adf2eb2d8ca939876200dd6f16df4ccac2b79a8a214520476b0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec6ff0c7a67ae1e6e7bccf14e98b70536ad9bbb2a63d84ef2534dda63c40cb31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Organizadora
+- Comunidades Portuguesas
+- Congresso das Comunidades Portuguesas
+- Emigrante
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473528:por
+  label: "Alterados os art. 1º a 4º, 6º, 7º e 9º a 13º pela LEI.16/80.1980.07.01.AR, DR.IS [149]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1980-473528
+  date: '1980-07-01'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:12Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +127,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Congresso das comunidades portuguesas)
 
 O I Congresso das Comunidades Portuguesas é o encontro dos emigrantes portugueses espalhados pelo Mundo e visa, pelo estudo e debate das comunicações e propostas nele apresentadas e pela participação activa dos emigrantes, contribuir para a definição consensual e aprofundada de uma política de defesa e enriquecimento dos laços que unem os emigrantes portugueses à sua Pátria, em especial para a década de 80.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Presidência de honra)
 
-**O Presidente da República assumirá a presidência de honra do Congresso.**
+O Presidente da República assumirá a presidência de honra do Congresso.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Comissão organizadora)
 
@@ -120,7 +147,7 @@ O I Congresso das Comunidades Portuguesas é o encontro dos emigrantes portugues
 
 2 - Poderá o Primeiro-Ministro delegar no presidente da comissão organizadora do Congresso a competência necessária à realização de despesas, com dispensa de concurso público e contrato escrito, até ao montante que entender conveniente.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Composição)
 
@@ -144,13 +171,13 @@ g) Pelo secretário-geral do Congresso, designado nos termos do artigo 9.º
 
 3 - Mediante decisão do presidente da comissão organizadora, poderão criar-se entre os seus membros comissões restritas, às quais incumbirá tratar dos assuntos relativos à organização do Congresso que não exijam a reunião em plenário da comissão organizadora.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Subcomissões)
 
 Com vista a assegurar a participação efectiva dos emigrantes nos trabalhos do Congresso, em cada uma das mais significativas comunidades de emigrantes portugueses no estrangeiro será criada uma subcomissão, que funcionará em estreita ligação com a comissão organizadora.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Competência da comissão organizadora)
 
@@ -158,19 +185,19 @@ Com vista a assegurar a participação efectiva dos emigrantes nos trabalhos do 
 
 2 - Compete-lhe ainda orientar e coordenar as acções necessárias à preparação e realização do Congresso.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Presidência de sessões no Congresso)
 
 Os trabalhos de quaisquer sessões da comissão serão dirigidos pelo presidente da comissão organizadora, o qual pode fazer-se substituir nessas funções por qualquer dos membros da comissão organizadora referidos nas alíneas a), b), c) e g) do artigo 4.º
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Grupos de trabalho)
 
 Os grupos de trabalho designados pela comissão organizadora de acordo com as necessidades verificadas visam promover a recolha, o estudo, o planeamento e a programação de elementos e matérias que haverão de constituir objecto do Congresso, devendo, designadamente, fornecer a documentação necessária ao decurso normal dos trabalhos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Secretariado do Congresso)
 
@@ -192,17 +219,17 @@ a) A funcionários e agentes do Estado e de outras entidades públicas, destacad
 
 b) A quaisquer indivíduos temporariamente contratados em regime de tarefa, nos termos do n.º 4 do artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, na redacção dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1 - A comissão organizadora é considerada serviço dotado de autonomia administrativa para efeitos do disposto na alínea a) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho.
 
 2 - As despesas resultantes da organização e funcionamento do Congresso serão satisfeitas de conta de dotação adequada a inscrever na Secretaria-Geral da Presidência do Conselho de Ministros.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 A Secretaria de Estado da Emigração prestará à comissão organizadora e aos demais órgãos do Congresso todo o apoio técnico necessário à organização e bom funcionamento do Congresso.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Retribuição)
 
@@ -210,7 +237,7 @@ A Secretaria de Estado da Emigração prestará à comissão organizadora e aos 
 
 2 - Os restantes membros da comissão organizadora terão igualmente direito, nos precisos termos do número anterior, a transporte e ajudas de custo.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Cessação de funções da comissão organizadora)
 
@@ -218,8 +245,8 @@ A comissão organizadora cessará as suas funções, após terminar as tarefas q
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa - Frederico Alberto Monteiro da Silva - Adérito de Oliveira Sedas Nunes - Luís Eugénio Caldas Veiga da Cunha - João António de Figueiredo.
 
-**Promulgado em 15 de Novembro de 1979.**
+Promulgado em 15 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

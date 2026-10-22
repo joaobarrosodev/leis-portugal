@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/05/11300/10741076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42977-1960-505202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4618d8396f86f1f047f846664182e8fdcb6d0ef45d6f975d09d7dd6e159cbf11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ac5234055366e1c6db9c974e69f4cc0e2f5c3f4e893aff5794acb664c5a8f1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Imóveis
+- Cofre de Previdência
+- Funcionário Público
+- Gestão Financeira
+- Habitação
+- Ministério das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:427105:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427105:por
+  label: "Substituído, a partir de 11.06.1976, pelo DEC LEI.465/76.11.06.1976.MF, DR.IS [136] de 11.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/465-1976-427105
+  date: '1976-06-11'
+- type: cites
+  target: pt:dre:251196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:20Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +126,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É elevada a dois terços a parte dos fundos capitalizáveis do Cofre de Previdência do Ministério das Finanças que pode ser investida em casas para habitação dos seus associados, nos termos do artigo 26.º do respectivo estatuto e legislação complementar.
+Artigo 1.º É elevada a dois terços a parte dos fundos capitalizáveis do Cofre de Previdência do Ministério das Finanças que pode ser investida em casas para habitação dos seus associados, nos termos do artigo 26.º do respectivo estatuto e legislação complementar.
 
-###### Art. 2.º O Cofre poderá adquirir ou construir casas destinadas à exclusiva habitação dos seus associados em regime de propriedade resolúvel e de arrendamento.
+Art. 2.º O Cofre poderá adquirir ou construir casas destinadas à exclusiva habitação dos seus associados em regime de propriedade resolúvel e de arrendamento.
 
 § único. Também poderão ser adquiridos com destino ao arrendamento prédios com um piso constituído por lojas destinadas ao inquilinato comercial, desde que o arrendamento dessas lojas permita a fixação das rendas dos outros pisos em condições favoráveis.
 
-###### Art. 3.º O Cofre fixará anualmente a importância a investir nos termos do artigo anterior, que será distribuída 20 por cento para casas destinadas a arrendamento e 80 por cento para casas a atribuir em regime de propriedade resolúvel.
+Art. 3.º O Cofre fixará anualmente a importância a investir nos termos do artigo anterior, que será distribuída 20 por cento para casas destinadas a arrendamento e 80 por cento para casas a atribuir em regime de propriedade resolúvel.
 
 § único. Estas percentagens poderão ser alteradas em cada ano por despacho do Ministro das Finanças, sob proposta fundamentada da direcção do Cofre.
 
-###### Art. 4.º A aquisição ou construção de casas a atribuir sob a forma de propriedade resolúvel será requerida pelos interessados nos seguintes termos:
+Art. 4.º A aquisição ou construção de casas a atribuir sob a forma de propriedade resolúvel será requerida pelos interessados nos seguintes termos:
 
 a) Pode um sócio ou grupo de sócios pertencentes ao mesmo agregado familiar requerer a aquisição ou construção pelo Cofre de determinada moradia ou habitação em regime de propriedade horizontal, exclusivamente destinada à habitação do respectivo agregado familiar;
 
@@ -117,15 +144,15 @@ b) Pode um grupo de sócios, pertencentes ou não ao mesmo agregado familiar, re
 
 § único. O estudo dos projectos e as avaliações ou estimativas do custo das edificações, bem como quaisquer outras despesas preliminares da construção, constituem encargo dos interessados no prédio, que por elas ficarão solidàriamente responsáveis até à realização do contrato de venda.
 
-###### Art. 5.º Se a construção se realizar em terreno pertencente ao sócio, o Cofre efectuará a sua compra, sendo o respectivo preço levado em conta de entrega inicial e princípio de pagamento.
+Art. 5.º Se a construção se realizar em terreno pertencente ao sócio, o Cofre efectuará a sua compra, sendo o respectivo preço levado em conta de entrega inicial e princípio de pagamento.
 
-###### Art. 6.º As aquisições ou construções requeridas nos termos do artigo 4.º só se efectuarão quando delas não resulte encargo mensal excedente a um terço da soma das remunerações certas do sócio e do seu cônjuge.
+Art. 6.º As aquisições ou construções requeridas nos termos do artigo 4.º só se efectuarão quando delas não resulte encargo mensal excedente a um terço da soma das remunerações certas do sócio e do seu cônjuge.
 
 § 1.º O interessado poderá satisfazer imediatamente a importância necessária para que o encargo mensal não exceda o limite indicado no corpo deste artigo.
 
 § 2.º Por encargo mensal entende-se a importância correspondente à amortização e juros do capital investido na casa.
 
-###### Art. 7.º A atribuição de casas em regime de propriedade resolúvel, quando construídas ou adquiridas por iniciativa do Cofre, será anunciada na imprensa, com a antecedência mínima de 30 dias, e nela se observarão as seguintes normas:
+Art. 7.º A atribuição de casas em regime de propriedade resolúvel, quando construídas ou adquiridas por iniciativa do Cofre, será anunciada na imprensa, com a antecedência mínima de 30 dias, e nela se observarão as seguintes normas:
 
 1.º Terão prioridade os sócios requerentes cujo agregado familiar tenha menor rendimento per capita e, de entre estes, os que tiverem maior número de filhos a seu cargo;
 
@@ -133,7 +160,7 @@ b) Pode um grupo de sócios, pertencentes ou não ao mesmo agregado familiar, re
 
 § único. Na definição de agregado familiar e determinação do seu rendimento observar-se-á o disposto na base VII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.
 
-###### Art. 8.º A propriedade resolúvel das casas atribuídas, nos termos dos artigos 4.º e 7.º do presente diploma, adquire-se pela celebração de contrato por escritura pública entre os interessados e o Cofre, do qual deverá constar o preço, que corresponderá ao capital investido, as entregas iniciais, havendo-as, as condições de pagamento e ainda outras que se considerem necessárias.
+Art. 8.º A propriedade resolúvel das casas atribuídas, nos termos dos artigos 4.º e 7.º do presente diploma, adquire-se pela celebração de contrato por escritura pública entre os interessados e o Cofre, do qual deverá constar o preço, que corresponderá ao capital investido, as entregas iniciais, havendo-as, as condições de pagamento e ainda outras que se considerem necessárias.
 
 § único. Por capital investido entende-se:
 
@@ -141,68 +168,68 @@ b) Pode um grupo de sócios, pertencentes ou não ao mesmo agregado familiar, re
 
 2.º Os encargos com o contrato e, bem assim, as despesas efectuadas com o prévio registo do prédio em nome do Cofre.
 
-###### Art. 9.º Para efeito de aquisição, o sócio poderá vincular o seu subsídio até ao montante de dois terços da importância vencida à data do contrato. Se o capital investido for superior a este limite, deverá constituir e manter um seguro de renda certa - amortização ou outro -, destinado a cobrir o pagamento das prestações correspondentes à diferença entre aqueles valores vincendas à data da sua morte.
+Art. 9.º Para efeito de aquisição, o sócio poderá vincular o seu subsídio até ao montante de dois terços da importância vencida à data do contrato. Se o capital investido for superior a este limite, deverá constituir e manter um seguro de renda certa - amortização ou outro -, destinado a cobrir o pagamento das prestações correspondentes à diferença entre aqueles valores vincendas à data da sua morte.
 
-###### Art. 10.º A certidão da escritura a que se refere o artigo 8.º será título suficiente para o registo de transmissão do imóvel a favor do adquirente.
+Art. 10.º A certidão da escritura a que se refere o artigo 8.º será título suficiente para o registo de transmissão do imóvel a favor do adquirente.
 
 § único. Liquidada integralmente pelo sócio-adquirente as suas responsabilidades, a conservatória procederá ao competente averbamento em presença da certidão da parte da acta da reunião da direcção do Cofre contendo tal deliberação, e o Cofre fará imediata comunicação do facto à secção de finanças da área a que o imóvel pertencer.
 
-###### Art. 11.º O sócio-adquirente poderá antecipar, no fim de cada período de um ano, o pagamento do capital contido nas mensalidades correspondentes a um ou mais anos e, bem assim, o da importância do subsídio que porventura se encontre vinculado à operação. A antecipação parcial poderá efectuar-se sem alteração do prazo de amortização previsto no contrato ou com redução do mesmo prazo.
+Art. 11.º O sócio-adquirente poderá antecipar, no fim de cada período de um ano, o pagamento do capital contido nas mensalidades correspondentes a um ou mais anos e, bem assim, o da importância do subsídio que porventura se encontre vinculado à operação. A antecipação parcial poderá efectuar-se sem alteração do prazo de amortização previsto no contrato ou com redução do mesmo prazo.
 
-###### Art. 12.º Os sócios-adquirentes são obrigados a manter o prédio em bom estado de conservação, devendo fazer à sua custa, por iniciativa própria ou intimação do Cofre, as obras de limpeza e de reparação necessárias durante a vigência do contrato.
+Art. 12.º Os sócios-adquirentes são obrigados a manter o prédio em bom estado de conservação, devendo fazer à sua custa, por iniciativa própria ou intimação do Cofre, as obras de limpeza e de reparação necessárias durante a vigência do contrato.
 
 § 1.º As obras de iniciativa dos sócios-adquirentes serão antecipadamente comunicadas ao Cofre.
 
 § 2.º O Cofre poderá mandar vistoriar o imóvel sempre que o entenda conveniente.
 
-###### Art. 13.º Durante a vigência do contrato não poderão realizar-se, sem autorização por escrito do Cofre, quaisquer benfeitorias ou obras que envolvam, ainda que parcialmente, modificações do imóvel.
+Art. 13.º Durante a vigência do contrato não poderão realizar-se, sem autorização por escrito do Cofre, quaisquer benfeitorias ou obras que envolvam, ainda que parcialmente, modificações do imóvel.
 
 § único. O Cofre poderá efectuar, à custa dos interessados, a demolição das obras feitas sem sua autorização, no prazo de seis meses, a contar da data em que delas teve conhecimento.
 
-###### Art. 14.º Enquanto se não verificar a liquidação total das suas responsabilidades é o sócio-adquirente obrigado a manter o prédio seguro contra incêndio.
+Art. 14.º Enquanto se não verificar a liquidação total das suas responsabilidades é o sócio-adquirente obrigado a manter o prédio seguro contra incêndio.
 
-###### Art. 15.º Em caso de destruição parcial devida a fogo, o Cofre providenciará no sentido de o prédio ser restituído ao estado anterior.
+Art. 15.º Em caso de destruição parcial devida a fogo, o Cofre providenciará no sentido de o prédio ser restituído ao estado anterior.
 
 § único. Ficam sujeitas ao mesmo regime as benfeitorias efectuadas, desde que estejam cobertas pelo seguro e tenham sido autorizadas pelo Cofre.
 
-###### Art. 16.º Se a destruição for total, o Cofre reterá da indemnização a receber da entidade seguradora, adicionada ao produto da venda do terreno e de possíveis salvados, a importância correspondente ao capital ainda não amortizado e despesas a que o acidente tenha dado origem, entregando-se aos adquirentes o saldo, se o houver.
+Art. 16.º Se a destruição for total, o Cofre reterá da indemnização a receber da entidade seguradora, adicionada ao produto da venda do terreno e de possíveis salvados, a importância correspondente ao capital ainda não amortizado e despesas a que o acidente tenha dado origem, entregando-se aos adquirentes o saldo, se o houver.
 
 § único. O contrato ficará sem efeito, salvo se o Cofre optar, com a anuência dos interessados, pela reconstituição do prédio.
 
-###### Art. 17.º Se o imóvel for expropriado por utilidade pública, nos termos da legislação aplicável, proceder-se-á, quanto à indemnização recebida, por forma idêntica à indicada no corpo do artigo antecedente.
+Art. 17.º Se o imóvel for expropriado por utilidade pública, nos termos da legislação aplicável, proceder-se-á, quanto à indemnização recebida, por forma idêntica à indicada no corpo do artigo antecedente.
 
-###### Art. 18.º As casas não poderão ser alienadas antes da sua amortização total, mas, na hipótese de esta ter sido antecipada, nos termos do artigo 11.º, a alienação não poderá efectuar-se sem autorização do Cofre senão depois de decorridos dez anos sobre a data da celebração do contrato.
+Art. 18.º As casas não poderão ser alienadas antes da sua amortização total, mas, na hipótese de esta ter sido antecipada, nos termos do artigo 11.º, a alienação não poderá efectuar-se sem autorização do Cofre senão depois de decorridos dez anos sobre a data da celebração do contrato.
 
 § único. A alienação fará cessar a isenção estabelecida no artigo 24.º
 
-###### Art. 19.º O Cofre terá o direito de preferência na alienação das casas por ele atribuídas em regime de propriedade resolúvel se, nos termos do artigo anterior, essa alienação se verificar antes de decorridos dez anos sobre a data da celebração do contrato.
+Art. 19.º O Cofre terá o direito de preferência na alienação das casas por ele atribuídas em regime de propriedade resolúvel se, nos termos do artigo anterior, essa alienação se verificar antes de decorridos dez anos sobre a data da celebração do contrato.
 
 Neste caso, se o preço da venda for superior ao da atribuição da propriedade resolúvel, a diferença será distribuída pelo alienante e pelo Cofre, em proporção, respectivamente, do número de anos completos decorridos sobre aquele contrato e dos que faltarem para o termo do período de dez anos.
 
-###### Art. 20.º As casas atribuídas em regime de propriedade resolúvel não podem permanecer desocupadas pelo agregado familiar durante mais de um ano, nem ser dadas de arrendamento sem o consentimento escrito do Cofre, caducando o arrendamento findo o prazo para ele concedido.
+Art. 20.º As casas atribuídas em regime de propriedade resolúvel não podem permanecer desocupadas pelo agregado familiar durante mais de um ano, nem ser dadas de arrendamento sem o consentimento escrito do Cofre, caducando o arrendamento findo o prazo para ele concedido.
 
-###### Art. 21.º Se os sócios-adquirentes perderem a qualidade de sócios ou faltarem a qualquer das obrigações estabelecidas pelo presente diploma ou estipuladas no contrato, considerar-se-á este rescindido.
+Art. 21.º Se os sócios-adquirentes perderem a qualidade de sócios ou faltarem a qualquer das obrigações estabelecidas pelo presente diploma ou estipuladas no contrato, considerar-se-á este rescindido.
 
 § 1.º Verificado o disposto no corpo deste artigo, o Cofre restituirá ao sócio-adquirente a diferença que se apurar entre o total das mensalidades já pagas e o rendimento que devia ter produzido o capital investido à taxa fixada no contrato inicial, acrescida de 3 por cento.
 
 § 2.º O Cofre, havendo razões atendíveis, poderá conceder prazo suficiente para cumprimento da obrigação em falta e a sua comunicação constará de carta registada, com aviso de recepção, a enviar para a casa que foi objecto do contrato.
 
-###### Art. 22.º Em caso de rescisão do contrato, a conservatória, a simples requerimento do Cofre, cancelará o registo de transmissão a favor do morador-adquirente.
+Art. 22.º Em caso de rescisão do contrato, a conservatória, a simples requerimento do Cofre, cancelará o registo de transmissão a favor do morador-adquirente.
 
-###### Art. 23.º As habitações atribuídas pelo Cofre em regime de propriedade resolúvel não podem ser hipotecadas, arrestadas ou penhoradas enquanto não pertencerem definitiva e incondicionalmente ao sócio-adquirente.
+Art. 23.º As habitações atribuídas pelo Cofre em regime de propriedade resolúvel não podem ser hipotecadas, arrestadas ou penhoradas enquanto não pertencerem definitiva e incondicionalmente ao sócio-adquirente.
 
-###### Art. 24.º Continuam isentos do pagamento da contribuição predial os imóveis referidos no artigo 2.º deste diploma, ficando, porém, os sócios-adquirentes sujeitos à referida contribuição decorridos quinze anos, a contar da data da realização do contrato a que se refere o artigo 8.º
+Art. 24.º Continuam isentos do pagamento da contribuição predial os imóveis referidos no artigo 2.º deste diploma, ficando, porém, os sócios-adquirentes sujeitos à referida contribuição decorridos quinze anos, a contar da data da realização do contrato a que se refere o artigo 8.º
 
-###### Art. 25.º Às casas a adquirir ou a construir pelo Cofre ou já construídas ou atribuídas aos sócios não são aplicáveis os preceitos dos artigos 3.º a 10.º do [Decreto-Lei n.º 41532](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41532-1958-304342), de 18 de Fevereiro de 1958.
+Art. 25.º Às casas a adquirir ou a construir pelo Cofre ou já construídas ou atribuídas aos sócios não são aplicáveis os preceitos dos artigos 3.º a 10.º do [Decreto-Lei n.º 41532](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41532-1958-304342), de 18 de Fevereiro de 1958.
 
-###### Art. 26.º O disposto no presente diploma é aplicável às casas construídas pelo Cofre em terrenos adquiridos à Câmara Municipal de Lisboa, ao abrigo do [Decreto-Lei n.º 42454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42454-1959-432236), de 18 de Agosto de 1959, sem prejuízo do que nele se estabelece quanto a planos de trabalho, categorias de habitações, respectivas percentagens e valores-limites das rendas mensais.
+Art. 26.º O disposto no presente diploma é aplicável às casas construídas pelo Cofre em terrenos adquiridos à Câmara Municipal de Lisboa, ao abrigo do [Decreto-Lei n.º 42454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42454-1959-432236), de 18 de Agosto de 1959, sem prejuízo do que nele se estabelece quanto a planos de trabalho, categorias de habitações, respectivas percentagens e valores-limites das rendas mensais.
 
-###### Art. 27.º O disposto nos artigos 4.º e 7.º deste decreto não tem aplicação às operações em curso nesta data.
+Art. 27.º O disposto nos artigos 4.º e 7.º deste decreto não tem aplicação às operações em curso nesta data.
 
 § único. O Cofre, por meio de carta registada, com aviso de recepção, notificará todos os sócios que hajam já adquirido casas para, no prazo de 90 dias, declararem, por escrito, se pretendem a legalização do contrato nos termos do presente decreto-lei, sem prejuízo de direitos adquiridos, quer pelo Cofre, quer pelos mesmos sócios, em resultado de contrato existente.
 
-###### Art. 28.º A direcção do Cofre elaborará um regulamento interno para execução do presente diploma, competindo ao Ministro das Finanças resolver quaisquer dúvidas que se suscitem.
+Art. 28.º A direcção do Cofre elaborará um regulamento interno para execução do presente diploma, competindo ao Ministro das Finanças resolver quaisquer dúvidas que se suscitem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo.

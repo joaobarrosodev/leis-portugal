@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20300/21112132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,198 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d27cabbeb6e5c5368b76c377845a1bd8745c6fc2895d5145d1f16be67b0a440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcea9c46045d42d077a2a113b346f11b0f01b5895a545a60aeea0c2a9bb856eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo Central de Registos e Informações
+- Avaliação do Pessoal
+- Carreira Profissional
+- Conselho Superior de Polícia
+- Definição de Competências
+- Directoria-geral da Polícia Judiciária
+- Formação Profissional
+- Formas de Provimento
+- Gabinete Nacional da Interpol
+- Inspecção da Polícia Judiciária
+- Instrução Criminal
+- Investigação Criminal
+- Laboratório de Polícia Científica
+- Livre Trânsito
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Ministério Público
+- Ministro da Justiça
+- Orgânica
+- Pessoal Dirigente
+- Polícia Judiciária
+- Prevenção Criminal
+- Procurador Geral da República
+- Promoção Profissional
+- Quadro de Pessoal
+- Segredo Profissional
 relationships:
 - type: amended_by
   target: pt:dre:553435:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:296239:por
+  label: "Alterados os arts. 4.º, 5.º, 26.º, 135.º, 136.º e 145.º, pelo DEC LEI.96/78.1978.05.18.MJ DR.IS [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1978-296239
+  date: '1978-05-18'
+- type: amended_by
+  target: pt:dre:510012:por
+  label: "Alterados os arts. 85.º, 88.º, 99.º e 102.º pela DEC LEI.519-L/79.1979.12.28.MJ DR.IS [298]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-l-1979-510012
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:678829:por
+  label: "Alterados os arts. 20.º, 21.º, 22.º, 25.º, 30.º, 53.º, 54.º, 70.º, 71.º, 80.º, 85.º, 99.º, ( os dois últimos na\
+    \ redacção do Dec Lei nº 519-L/79, de 28-Dez ), 100.º, 104.º, 105.º e 107.º e revogados os arts. 56.º, 57.º, 58.º, 59.º,\
+    \ 60.º e 61.º, pelo DEC LEI.21/80.1980.02.29.MJ DR.IS [50]s\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1980-678829
+  date: '1980-02-29'
+- type: amended_by
+  target: pt:dre:472486:por
+  label: "Alterados os arts. 17.º, 19.º, 26.º, 45.º, 91.º e 113.º, acrescentado o art. 26.º-A e revogado o n.º 2 do art. 25.º,\
+    \ pelo DEC LEI.235/80.1980.07.18.MJ DR.IS [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1980-472486
+  date: '1980-07-18'
+- type: amended_by
+  target: pt:dre:400037:por
+  label: "Alterado o quadro de pessoal da Polícia Judiciária aprovado em anexo ao presente diploma, com a redacção introduzida\
+    \ pelas Portarias 920/80, de 4 de Novembro, 333/82, de 1 de Abril e 428/82, de 28 de Abril, pela PORT.786/84.09.10.1984.PCM,\
+    \ DR.IS [234] de 09.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-1984-400037
+  date: '1984-10-09'
+- type: cites
+  target: pt:dre:141245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681984:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278943:por
+  label: Rectificado pela DECL.DD7805.12.10.1977.PCM, DR.IS [236] de 12.10.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-278943
+  date: '1977-10-12'
+- type: repealed_by
+  target: pt:dre:575917:por
+  label: "Revogado o nº 2 do art. 10º, pela LEI.25/81.1981.08.21.AR, DR.IS [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/25-1981-575917
+  date: '1981-08-21'
+- type: repealed_by
+  target: pt:dre:380091:por
+  label: "Revogado, com excepção do n.º 4 do artigo 4.º, do n.º 2 do artigo 5.º, dos artigos 9.º e 10.º, do n.º 4 do artigo\
+    \ 147.º e das seguintes disposições excepcionadas no artigo 159.º, pelo DEC LEI.458/82.24.11.1982.MJ, DR.IS [272] de 24.11.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1982-380091
+  date: '1982-11-24'
+- type: repealed_by
+  target: pt:dre:553435:por
+  label: "Revogado pelo DEC LEI.295-A/90.21.09.1990.MJ, DR.IS [219]Supl de 21.09.1990, nos termos do seu artigo 182.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-a-1990-553435
+  date: '1990-09-21'
 article_structure:
   article_count: 2
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:54Z'
   warnings: []
   errors: []
 ---
@@ -568,7 +726,9 @@ e) À Secção de Transportes compete estabelecer e garantir os serviços de com
 
 f) À secção de Serviços Gerais compete a execução dos serviços de economato, património, arrecadação, reprografia e segurança interna.
 
-##### SUBSECÇÃO IV — Divisão de Comunicações
+##### SUBSECÇÃO IV
+
+##### Divisão de Comunicações
 
 ###### ARTIGO 33.º — (Competência da Divisão de Comunicações)
 
@@ -1342,7 +1502,9 @@ Os lugares de enfermeiro são providos por nomeação de indivíduos habilitados
 
 Os lugares de mecânico auto são providos por nomeação de indivíduos habilitados com curso técnico adequado, de preferência com reconhecida experiência profissional, podendo, neste último caso, dispensar-se as referidas habilitações literárias.
 
-##### SUBSECÇÃO X — ARTIGO 126.º
+##### SUBSECÇÃO X
+
+###### ARTIGO 126.º
 
 (Chefe de secção)
 
@@ -1564,14 +1726,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos.
 
-**Promulgado em 15 de Agosto de 1977.**
+Promulgado em 15 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro único do pessoal da Polícia Judiciária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/20300/21112132.pdf))](https://files.diariodarepublica.pt/1s/1977/09/20300/21112132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/20300/21112132.pdf)
 
-**O Ministro da Justiça, António de Almeida Santos.**
+O Ministro da Justiça, António de Almeida Santos.

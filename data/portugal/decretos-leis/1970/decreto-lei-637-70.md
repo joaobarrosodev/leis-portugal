@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dba71cae70439b3bc6976deb9115ede475a21e09c79db880e5ef52f0f9e7ce8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fed46756a00afaca884d3668b8de81099ebdcc2bf833a70c9b0ef181bd5075f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Docente Universitária
+- Contratação de Pessoal
+- Ensino Superior
+- Gratificação
+- Investigador
+- Pessoal Docente
+- Pessoal não Docente
+- Recrutamento de Pessoal
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:138828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471896:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:11Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +111,9 @@ de 22 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 4.º, o n.º 1 do artigo 18.º, o n.º 1 do artigo 19.º, o n.º 1 do artigo 20.º, o n.º 4 do artigo 51.º, o n.º 1 do artigo 55.º, o artigo 57.º e o n.º 5 do artigo 58.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116) passam a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 4.º, o n.º 1 do artigo 18.º, o n.º 1 do artigo 19.º, o n.º 1 do artigo 20.º, o n.º 4 do artigo 51.º, o n.º 1 do artigo 55.º, o artigo 57.º e o n.º 5 do artigo 58.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116) passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. ...
 
@@ -96,17 +121,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 18.º - 1. Os professores agregados, auxiliares, leitores, assistentes, assistentes eventuais e monitores poderão ser contratados além dos quadros, segundo as necessidades de cada escola, pelas efectivas disponibilidades das dotações para pessoal ou por força de verbas especialmente inscritas.
+Art. 18.º - 1. Os professores agregados, auxiliares, leitores, assistentes, assistentes eventuais e monitores poderão ser contratados além dos quadros, segundo as necessidades de cada escola, pelas efectivas disponibilidades das dotações para pessoal ou por força de verbas especialmente inscritas.
 
 2. ...
 
-###### Art. 19.º - 1. Poderão ser contratados como assistentes, dos quadros ou além dos quadros, professores do ensino médio ou secundário, os quais exercerão as respectivas funções em comissão de serviço e poderão optar pelo vencimento de assistente ou pelo que lhes couber no ensino médio ou secundário.
+Art. 19.º - 1. Poderão ser contratados como assistentes, dos quadros ou além dos quadros, professores do ensino médio ou secundário, os quais exercerão as respectivas funções em comissão de serviço e poderão optar pelo vencimento de assistente ou pelo que lhes couber no ensino médio ou secundário.
 
 2. ...
 
 3. ...
 
-###### Art. 20.º - 1. Os contratos de professores agregados, auxiliares, leitores, assistentes, assistentes eventuais, monitores e elementos do pessoal docente especialmente contratado só poderão ser rescindidos quando se verificar qualquer dos seguintes casos:
+Art. 20.º - 1. Os contratos de professores agregados, auxiliares, leitores, assistentes, assistentes eventuais, monitores e elementos do pessoal docente especialmente contratado só poderão ser rescindidos quando se verificar qualquer dos seguintes casos:
 
 a) Denúncia por qualquer das partes até trinta dias antes do termo do prazo do contrato;
 
@@ -120,7 +145,7 @@ d) Processo disciplinar.
 
 ...
 
-###### Art. 51.º - 1. ...
+Art. 51.º - 1. ...
 
 2. ...
 
@@ -134,7 +159,7 @@ d) Processo disciplinar.
 
 ...
 
-###### Art. 55.º - 1. Os professores auxiliares, os leitores e os assistentes terão direito, por cada curso teórico ou seminário, à gratificação mensal de 1800$00, que lhes será abonada enquanto realizarem os correspondentes ensino e serviço de provas para além do limite fixado no n.º 1 do artigo 51.º
+Art. 55.º - 1. Os professores auxiliares, os leitores e os assistentes terão direito, por cada curso teórico ou seminário, à gratificação mensal de 1800$00, que lhes será abonada enquanto realizarem os correspondentes ensino e serviço de provas para além do limite fixado no n.º 1 do artigo 51.º
 
 2. ...
 
@@ -144,9 +169,9 @@ d) Processo disciplinar.
 
 ...
 
-###### Art. 57.º Os professores auxiliares, leitores e assistentes que prestarem mais de doze horas semanais de serviço docente, excluídos os casos dos n.os 3 e 4 do artigo 51.º, terão direito por cada hora de serviço além daquele limite à gratificação igual a 1/48 do ordenado.
+Art. 57.º Os professores auxiliares, leitores e assistentes que prestarem mais de doze horas semanais de serviço docente, excluídos os casos dos n.os 3 e 4 do artigo 51.º, terão direito por cada hora de serviço além daquele limite à gratificação igual a 1/48 do ordenado.
 
-###### Art. 58.º - 1. ...
+Art. 58.º - 1. ...
 
 2. ...
 
@@ -166,7 +191,7 @@ d) Processo disciplinar.
 
 10. ...
 
-###### Art. 2.º É aditado ao artigo único do [Decreto-Lei n.º 45652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45652-1964-471896), de 10 de Abril de 1964, o seguinte parágrafo:
+Art. 2.º É aditado ao artigo único do [Decreto-Lei n.º 45652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45652-1964-471896), de 10 de Abril de 1964, o seguinte parágrafo:
 
 ###### Artigo único ...
 
@@ -176,24 +201,24 @@ d) Processo disciplinar.
 
 § 3.º Poderá ser autorizada a dispensa das condições estabelecidas no presente artigo quando isso se mostrar conveniente para impedir a dispersão da actividade científica do pessoal docente.
 
-###### Art. 3.º - 1. Poderá o Ministro da Educação Nacional preencher em primeiro provimento, independentemente de concurso, lugares de pessoal técnico criados pelo [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 24 de Agosto, com funcionários de categoria imediatamente inferior do respectivo quadro, desde que tenham boa informação e as habilitações literárias exigidas para aquele provimento.
+Art. 3.º - 1. Poderá o Ministro da Educação Nacional preencher em primeiro provimento, independentemente de concurso, lugares de pessoal técnico criados pelo [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 24 de Agosto, com funcionários de categoria imediatamente inferior do respectivo quadro, desde que tenham boa informação e as habilitações literárias exigidas para aquele provimento.
 
 2. Poderá ainda o Ministro prover, independentemente de concurso e de limite de idade, em lugares de pessoal técnico criados pelo [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 24 de Agosto, de categoria correspondente à daqueles que actualmente exercem indivíduos que, além dos quadros e sob qualquer designação, estejam a prestar serviço técnico nos estabelecimentos escolares, desde que tenham boa informação e as habilitações literárias exigidas por lei para o provimento.
 
 3. O disposto nos números anteriores não é aplicável aos lugares cujo provimento dependa de concurso documental ou de provas.
 
-###### Art. 4.º O terceiro-oficial das tesourarias das Universidades faz parte do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957.
+Art. 4.º O terceiro-oficial das tesourarias das Universidades faz parte do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957.
 
-###### Art. 5.º O artigo 8.º do [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 24 de Agosto, passa a ter a seguinte redacção:
+Art. 5.º O artigo 8.º do [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 24 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 8.º As funções de bedel das escolas universitárias são exercidas por primeiros, segundos ou terceiros-oficiais.
+Art. 8.º As funções de bedel das escolas universitárias são exercidas por primeiros, segundos ou terceiros-oficiais.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 14 de Dezembro de 1970.**
+Promulgado em 14 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

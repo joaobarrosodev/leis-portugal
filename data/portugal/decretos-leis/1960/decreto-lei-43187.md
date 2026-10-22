@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43187-1960-514846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d07c0be33b8791d61e7bec3b8cfdeb937203c2c060a281b29880ff23532b8f03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf7cbf44397fd4031084a00f11fdf3bdeb95a31626dad296d7b382767d4e2aa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Habitação
+- Instituições de Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:340652:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:46Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +101,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § 6.º do artigo 16.º e o § 5.º do artigo 17.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, passam a ter a seguinte redacção:
+Artigo 1.º O § 6.º do artigo 16.º e o § 5.º do artigo 17.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946, passam a ter a seguinte redacção:
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 § 6.º Os valores aplicados pelas formas referidas nas alíneas a), b) e c) deste artigo não podem ser alienados, trocados ou onerados sem prévia autorização do Ministro das Corporações e Previdência Social, mas as operações de alienação ou troca de títulos que não possam ser realizadas entre as próprias instituições serão sempre efectuadas por intermédio da Direcção-Geral da Fazenda Pública.
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 § 5.º Os valores aplicados em títulos ou em imóveis não podem ser alienados, trocados ou onerados sem prévia autorização do Ministro das Corporações e Previdência Social.
 
-###### Art. 2.º É revogado o § 5.º do artigo 16.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946.
+Art. 2.º É revogado o § 5.º do artigo 16.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

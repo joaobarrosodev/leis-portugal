@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28500/31953196.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1979-366581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c05c510b5f1df3ea1f5c14530ce25fe9cb4e5f9ef0e791b8e16dc763e3817845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec018566c057130f6ee0e5b029c0fcf8a0715c265878125b1e5479330e5475e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Legião Portuguesa
+- Pide-dgs
+- Serviço de Coordenação da Extinção da Pide-dgs e LP
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470375:por
+  label: "Determinado que, para efeitos administrativos e de gestão de pessoal, passe a depender a partir de Janeiro de 1981\
+    \ do Estado-Maior-General das Forças Armadas o Serviço de Coordenação da Extinção da PIDE/DGS e LP, pelo DEC LEI.257/80.31.07.1980.CR,\
+    \ DR.IS [175] de 31.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1980-470375
+  date: '1980-07-31'
+- type: cites
+  target: pt:dre:141378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628026:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:18Z'
   warnings: []
   errors: []
 ---
@@ -91,37 +130,37 @@ de 12 de Dezembro
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Serviço de Coordenação da Extinção da PIDE/DGS e LP, adiante designado por Serviço, directamente dependente do Chefe do Estado-Maior-General das Forças Armadas, tem por finalidade efectuar a investigação dos crimes previstos pelas leis referidas no artigo 309.º da Constituição e descoberta dos respectivos agentes.
+Artigo 1.º O Serviço de Coordenação da Extinção da PIDE/DGS e LP, adiante designado por Serviço, directamente dependente do Chefe do Estado-Maior-General das Forças Armadas, tem por finalidade efectuar a investigação dos crimes previstos pelas leis referidas no artigo 309.º da Constituição e descoberta dos respectivos agentes.
 
-###### Art. 2.º A estrutura orgânica e os quadros do pessoal do Serviço serão fixados por portaria do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 2.º A estrutura orgânica e os quadros do pessoal do Serviço serão fixados por portaria do Chefe do Estado-Maior-General das Forças Armadas.
 
-###### Art. 3.º - 1 - O pessoal militar necessário ao funcionamento do Serviço será nomeado pelo CEMGFA e prestará serviço em regime de diligência.
+Art. 3.º - 1 - O pessoal militar necessário ao funcionamento do Serviço será nomeado pelo CEMGFA e prestará serviço em regime de diligência.
 
 2 - O pessoal civil necessário ao funcionamento do Serviço será obtido nos termos dos Decretos-Leis n.os [48/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1977-141378), de 12 de Fevereiro, e [74/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1978-425171), de 27 de Julho.
 
-###### Art. 4.º - 1 - Junto do Serviço funciona um Gabinete de Instrução de Processos, adiante designado por GIP, constituído por seis juízes de instrução.
+Art. 4.º - 1 - Junto do Serviço funciona um Gabinete de Instrução de Processos, adiante designado por GIP, constituído por seis juízes de instrução.
 
 2 - Os juízes de instrução do GIP são juízes de direito, nomeados pelo CEMGFA nos mesmos termos dos juízes de instrução do Serviço de Polícia Judiciária Militar e têm, na parte aplicável, os mesmos direitos, vencimentos, regalias e atribuições.
 
 3 - Os juízes de instrução do GIP continuarão a depender, para todos os efeitos legais, dos respectivos serviços, incluindo a remuneração.
 
-###### Art. 5.º - 1 - Os elementos do Serviço têm os mesmos direitos e regalias dos elementos correspondentes do Serviço de Polícia Judiciária Militar.
+Art. 5.º - 1 - Os elementos do Serviço têm os mesmos direitos e regalias dos elementos correspondentes do Serviço de Polícia Judiciária Militar.
 
 2 - O tempo prestado no Serviço considera-se, para todos os efeitos legais, como tendo sido efectuado pelo pessoal nos seus quadros de origem.
 
-###### Art. 6.º Os actos administrativos referentes ao pessoal indispensável ao funcionamento do Serviço não carecem de visto ou anotação do Tribunal de Contas.
+Art. 6.º Os actos administrativos referentes ao pessoal indispensável ao funcionamento do Serviço não carecem de visto ou anotação do Tribunal de Contas.
 
-###### Art. 7.º No exercício das suas funções, o Serviço tem a competência atribuída ao Serviço de Polícia Judiciária Militar.
+Art. 7.º No exercício das suas funções, o Serviço tem a competência atribuída ao Serviço de Polícia Judiciária Militar.
 
-###### Art. 8.º - 1 - Os processos instaurados no Serviço regulam-se pelo Código de Justiça Militar, ressalvadas as disposições constantes das leis referidas no artigo 1.º e neste diploma.
+Art. 8.º - 1 - Os processos instaurados no Serviço regulam-se pelo Código de Justiça Militar, ressalvadas as disposições constantes das leis referidas no artigo 1.º e neste diploma.
 
 2 - Aos processos referidos no n.º 1 não é aplicável o disposto nos artigos 339.º e 353.º do Código de Justiça Militar.
 
 3 - Na falta de defensor escolhido, ou decorrido o prazo previsto no n.º 1 do artigo 347.º do Código de Justiça Militar, ou na falta ou na dificuldade da presença de um defensor militar ad hoc, o juiz nomeará um defensor civil.
 
-###### Art. 9.º O presidente do Serviço é um oficial general de qualquer ramo das forças armadas e exerce, em relação aos processos referidos no artigo 8.º, as funções que o Código de Justiça Militar atribui ao comandante da Região Militar e ao director da Polícia Judiciária Militar.
+Art. 9.º O presidente do Serviço é um oficial general de qualquer ramo das forças armadas e exerce, em relação aos processos referidos no artigo 8.º, as funções que o Código de Justiça Militar atribui ao comandante da Região Militar e ao director da Polícia Judiciária Militar.
 
-###### Art. 10.º - 1 - A distribuição pelos juízes de instrução dos processos referidos no artigo 8.º é feita por sorteio.
+Art. 10.º - 1 - A distribuição pelos juízes de instrução dos processos referidos no artigo 8.º é feita por sorteio.
 
 2 - Encerrada a instrução dos mesmos processos, serão eles remetidos ao presidente do Serviço para os efeitos dos artigos 361.º e 362.º do Código de Justiça Militar.
 
@@ -129,16 +168,16 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 4 - Se no momento da instauração do processo o arguido tiver residência fora de Portugal ou esta for desconhecida, o tribunal competente será definido por sorteio entre todos os tribunais militares territoriais.
 
-###### Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação e aplica-se aos processos pendentes.
+Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação e aplica-se aos processos pendentes.
 
-###### Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho interpretativo do CEMGFA.
+Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho interpretativo do CEMGFA.
 
-###### Art. 13.º Ficam revogados os Decretos-Leis n.os [36/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1975-159357), de 31 de Janeiro, [13/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1976-506184), de 14 de Janeiro, e [348-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-a-1976-628026), de 12 de Maio, e o [Decreto n.º 126/79](https://diariodarepublica.pt/dr/detalhe/decreto/126-1979-367817), de 19 de Novembro.
+Art. 13.º Ficam revogados os Decretos-Leis n.os [36/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1975-159357), de 31 de Janeiro, [13/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1976-506184), de 14 de Janeiro, e [348-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-a-1976-628026), de 12 de Maio, e o [Decreto n.º 126/79](https://diariodarepublica.pt/dr/detalhe/decreto/126-1979-367817), de 19 de Novembro.
 
 Visto e aprovado em Conselho da Revolução em 5 de Janeiro de 1979.
 
-**Promulgado em 23 de Novembro de 1979.**
+Promulgado em 23 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.

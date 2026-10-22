@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46913-1966-486878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1c18a6db028a414c5f6d1bb8059188099cfad0d18b1d89f70985ae66742a412
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e45c374c7f7dfb9e579f02635d5f69a153d9cace49a39933aab186a6e5c8eb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroagrícola
+- Criação de Serviços
+- Definição de Competências
+- Financiamento
+- Junta de Hidráulica Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:381691:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:29Z'
   warnings: []
   errors: []
 ---
@@ -125,17 +154,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Natureza e atribuições
 
-###### Artigo 1.º Nos termos do artigo 40.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), de 20 de Novembro de 1959, é criada a Junta de Hidráulica Agrícola, organismo com personalidade jurídica e autonomia administrativa e financeira, integrado na Secretaria de Estado da Agricultura.
+Artigo 1.º Nos termos do artigo 40.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), de 20 de Novembro de 1959, é criada a Junta de Hidráulica Agrícola, organismo com personalidade jurídica e autonomia administrativa e financeira, integrado na Secretaria de Estado da Agricultura.
 
-###### Art. 2.º A Junta tem por fim impulsionar o aproveitamento das obras de fomento hidroagrícola, por forma a extrair delas o maior rendimento possível, bem como coordenar, orientar e fiscalizar as associações de regantes e beneficiários.
+Art. 2.º A Junta tem por fim impulsionar o aproveitamento das obras de fomento hidroagrícola, por forma a extrair delas o maior rendimento possível, bem como coordenar, orientar e fiscalizar as associações de regantes e beneficiários.
 
-###### Art. 3.º Para o desempenho das suas atribuições, a Junta de Hidráulica Agrícola deve recorrer à colaboração, dos serviços para o efeito competentes, designadamente à Direcção-Geral dos Serviços Hidráulicos e à Direcção-Geral dos Serviços Agrícolas.
+Art. 3.º Para o desempenho das suas atribuições, a Junta de Hidráulica Agrícola deve recorrer à colaboração, dos serviços para o efeito competentes, designadamente à Direcção-Geral dos Serviços Hidráulicos e à Direcção-Geral dos Serviços Agrícolas.
 
 § único. A realização de trabalhos complementares das obras de fomento hidroagrícola, bem como das que respeitem à adaptação ao regadio, a executar, respectivamente, através das Direcções-Gerais dos Serviços Hidráulicos e dos Serviços Agrícolas, mediante projectos aprovados, no primeiro caso, pelo Ministro das Obras Públicas e, no segundo, pelo Secretário de Estado da Agricultura, pode ser custeada pela Junta de Hidráulica Agrícola.
 
 #### SECÇÃO II — Dos órgãos da Junta: sua constituição, competência e funcionamento
 
-###### Art. 4.º São órgãos da Junta de Hidráulica Agrícola:
+Art. 4.º São órgãos da Junta de Hidráulica Agrícola:
 
 a) O presidente;
 
@@ -143,13 +172,13 @@ b) O conselho directivo;
 
 c) O conselho administrativo.
 
-###### Art. 5.º O presidente é de livre nomeação do Presidente do Conselho e remunerado por vencimento correspondente à letra B do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, ou por gratificação, fixada pelo Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, a qual substitui, para todos os efeitos, o vencimento.
+Art. 5.º O presidente é de livre nomeação do Presidente do Conselho e remunerado por vencimento correspondente à letra B do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, ou por gratificação, fixada pelo Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, a qual substitui, para todos os efeitos, o vencimento.
 
 § único. Quando o lugar for provido por funcionário público ou administrativo, o presidente da Junta exercerá as funções em comissão de serviço, sem prejuízo da sua substituição interina no quadro a que pertencer, e terá direito à contagem do tempo de comissão como de efectivo serviço para todos os efeitos legais.
 
-###### Art. 6.º O presidente será substituído nos seus impedimentos pelo vogal director-geral designado para o efeito pelo Secretario de Estado da Agricultura.
+Art. 6.º O presidente será substituído nos seus impedimentos pelo vogal director-geral designado para o efeito pelo Secretario de Estado da Agricultura.
 
-###### Art. 7.º Compete ao presidente orientar e dirigir todos os serviços da Junta, em conformidade com as atribuições desta e as directrizes recebidas do Governo, e, em especial:
+Art. 7.º Compete ao presidente orientar e dirigir todos os serviços da Junta, em conformidade com as atribuições desta e as directrizes recebidas do Governo, e, em especial:
 
 1.º Convocar as reuniões do conselho directivo e do conselho administrativo, sempre que necessário, e dirigir os respectivos trabalhos;
 
@@ -167,7 +196,7 @@ c) O conselho administrativo.
 
 8.º Representar a Junta em juízo e fora dele.
 
-###### Art. 8.º O conselho directivo da Junta é constituído pelo presidente da Junta e pelos seguintes vogais:
+Art. 8.º O conselho directivo da Junta é constituído pelo presidente da Junta e pelos seguintes vogais:
 
 a) Director-geral das Contribuições e Impostos;
 
@@ -199,11 +228,11 @@ l) Um representante das associações de regantes e beneficiários.
 
 § 3.º A todas as sessões do conselho directivo assiste um delegado do Tribunal de Contas, sem voto.
 
-###### Art. 9.º Cabe ao Ministro da Justiça e ao Secretário de Estado da Agricultura designar, respectivamente, os vogais a que se referem as alíneas j) e l), exercendo estes as funções por períodos de três anos, renováveis.
+Art. 9.º Cabe ao Ministro da Justiça e ao Secretário de Estado da Agricultura designar, respectivamente, os vogais a que se referem as alíneas j) e l), exercendo estes as funções por períodos de três anos, renováveis.
 
 § único. As funções do vogal representante da Corporação da Lavoura não poderão ser exercidas por um período de tempo superior a seis anos consecutivos.
 
-###### Art. 10.º No desempenho das atribuições da Junta, compete ao conselho directivo:
+Art. 10.º No desempenho das atribuições da Junta, compete ao conselho directivo:
 
 1.º Submeter à aprovação do Governo, em Conselho de Ministros para os Assuntos Económicos, os projectos dos regulamentos definitivos de todas as obras de fomento hidroagrícola, elaborados de acordo com o preceituado nos artigos 16.º e 93.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), bem como as alterações a introduzir nesses regulamentos, e, com o seu parecer, as que forem sugeridas pelas associações de regantes e beneficiários;
 
@@ -259,17 +288,17 @@ l) Um representante das associações de regantes e beneficiários.
 
 O plano de repartição da taxa e as respectivas modificações serão sempre publicados no Diário do Governo.
 
-###### Art. 11.º O conselho directivo reúne uma vez por mês em sessão ordinária e extraordinàriamente sempre que o presidente o convoque, só podendo, deliberar quando estiver presente a maioria dos seus membros. As deliberações serão tomadas por maioria de votos, tendo o presidente voto de desempate.
+Art. 11.º O conselho directivo reúne uma vez por mês em sessão ordinária e extraordinàriamente sempre que o presidente o convoque, só podendo, deliberar quando estiver presente a maioria dos seus membros. As deliberações serão tomadas por maioria de votos, tendo o presidente voto de desempate.
 
 § 1.º As reuniões ordinárias são em determinado dia de cada mês, marcado no começo do ano; as reuniões extraordinárias deverão ser convocadas, em regra, com oito dias de antecedência, pelo menos, e nos avisos convocatórios indicar-se-ão sempre os assuntos a versar.
 
 § 2.º Além das sessões plenárias, o conselho directivo pode reunir por comissões, sempre que o presidente o julgue conveniente.
 
-###### Art. 12.º O conselho administrativo é constituído pelo presidente da Junta e por dois dos vogais do conselho directivo anualmente designados.
+Art. 12.º O conselho administrativo é constituído pelo presidente da Junta e por dois dos vogais do conselho directivo anualmente designados.
 
 § único. A todas as sessões do conselho administrativo assiste um delegado do Tribunal de Contas, sem voto.
 
-###### Art. 13.º Compete ao conselho administrativo:
+Art. 13.º Compete ao conselho administrativo:
 
 1.º Gerir o fundo de financiamento e outros fundos, dotações e receitas confiados à Junta;
 
@@ -283,23 +312,23 @@ O plano de repartição da taxa e as respectivas modificações serão sempre pu
 
 6.º Aprovar, até 20 de Dezembro de cada ano, os orçamentos das associações de regantes e beneficiários, os quais devem ser enviados à Junta até 15 de Novembro.
 
-###### Art. 14.º Às sessões do conselho administrativo aplica-se o disposto no artigo 11.º e seu § 1.º
+Art. 14.º Às sessões do conselho administrativo aplica-se o disposto no artigo 11.º e seu § 1.º
 
-###### Art. 15.º Para obrigar o conselho administrativo são necessárias as assinaturas de dois dos seus membros.
+Art. 15.º Para obrigar o conselho administrativo são necessárias as assinaturas de dois dos seus membros.
 
-###### Art. 16.º Ao secretário da Junta compete lavrar, em livros especiais, a acta de cada sessão do conselho directivo e do conselho administrativo, a qual, depois de lida e aprovada no início da sessão imediata, é assinada pelos membros presentes que intervieram, pessoalmente ou por representação, na reunião a que disser respeito.
+Art. 16.º Ao secretário da Junta compete lavrar, em livros especiais, a acta de cada sessão do conselho directivo e do conselho administrativo, a qual, depois de lida e aprovada no início da sessão imediata, é assinada pelos membros presentes que intervieram, pessoalmente ou por representação, na reunião a que disser respeito.
 
 #### SECÇÃO III — Do fundo de financiamento
 
-###### Art. 17.º A Junta tem secretaria privativa.
+Art. 17.º A Junta tem secretaria privativa.
 
-###### Art. 18.º O lugar de chefe de secretaria da Junta é preenchido por indivíduo licenciado em Direito, em Economia ou em Finanças, com o vencimento correspondente ao da letra F do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), competindo-lhe organizar e dirigir os serviços administrativos, bem como secretariar as sessões dos conselhos directivo, administrativo e julgador, quando este último funcione como órgão consultivo.
+Art. 18.º O lugar de chefe de secretaria da Junta é preenchido por indivíduo licenciado em Direito, em Economia ou em Finanças, com o vencimento correspondente ao da letra F do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), competindo-lhe organizar e dirigir os serviços administrativos, bem como secretariar as sessões dos conselhos directivo, administrativo e julgador, quando este último funcione como órgão consultivo.
 
-###### Art. 19.º O pessoal técnico, administrativo e menor, estritamente necessário aos serviços, é contratado ou assalariado, nos termos e com as remunerações que forem aprovados por despacho do Secretário de Estado da Agricultura.
+Art. 19.º O pessoal técnico, administrativo e menor, estritamente necessário aos serviços, é contratado ou assalariado, nos termos e com as remunerações que forem aprovados por despacho do Secretário de Estado da Agricultura.
 
 § único. O pessoal menor tem direito a fardamento.
 
-###### Art. 20.º Pode a Junta requisitar pessoal dos quadros de outros serviços públicos, nos termos do artigo 7.º, n.º 5.º, e com a anuência do Ministro do qual esses funcionários dependam, mediante a remuneração que for fixada nos termos do artigo 19.º
+Art. 20.º Pode a Junta requisitar pessoal dos quadros de outros serviços públicos, nos termos do artigo 7.º, n.º 5.º, e com a anuência do Ministro do qual esses funcionários dependam, mediante a remuneração que for fixada nos termos do artigo 19.º
 
 § 1.º Os funcionários requisitados abrem vaga nos quadros a que pertencerem, mas podem a todo o tempo regressar aos mesmos quadros se assim o requererem ou for julgado da conveniência da Junta, ocupando a primeira vaga da sua categoria e classe por simples despacho ministerial e com dispensa de novo título de provimento, de visto do Tribunal de Contas e de posse.
 
@@ -309,7 +338,7 @@ O plano de repartição da taxa e as respectivas modificações serão sempre pu
 
 ### CAPÍTULO II — Do fundo de financiamento
 
-###### Art. 21.º O fundo de financiamento, criado pelo artigo 63.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), destina-se a satisfazer os seguintes encargos:
+Art. 21.º O fundo de financiamento, criado pelo artigo 63.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), destina-se a satisfazer os seguintes encargos:
 
 1.º Despesas fortuitas ou extraordinárias com a exploração e conservação das obras de fomento hidroagrícola;
 
@@ -321,7 +350,7 @@ O plano de repartição da taxa e as respectivas modificações serão sempre pu
 
 5.º Despesas eventuais relativas aos trabalhos a que se refere o § único do artigo 3.º respeitantes à execução de trabalhos complementares das obras de fomento hidroagrícola e de adaptação ao regadio ou de outras que visem o aumento da sua rentabilidade.
 
-###### Art. 22.º Constituem receitas do fundo de financiamento:
+Art. 22.º Constituem receitas do fundo de financiamento:
 
 1.º Uma contribuição das associações de regantes e beneficiários estabelecida em percentagem da taxa de exploração e conservação, nos termos do artigo 10.º, n.º 20.º;
 
@@ -337,47 +366,47 @@ O plano de repartição da taxa e as respectivas modificações serão sempre pu
 
 § 2.º A percentagem a que se refere o n.º 2.º é entregue na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Junta, através das repartições de finanças dos concelhos em que as taxas de rega e beneficiação forem cobradas, dentro dos 30 dias seguintes ao termo do prazo de pagamento da mesma taxa.
 
-###### Art. 23.º As importâncias provenientes da exploração das centrais hidroeléctricas construídas ao abrigo da [Lei n.º 1949](https://diariodarepublica.pt/dr/detalhe/lei/1949-1937-417388) que, nos termos do respectivo regulamento, não venham a ser entregues às associações de regantes e beneficiários serão postas à ordem da Junta no prazo fixado no regulamento definitivo do aproveitamento a que respeitam.
+Art. 23.º As importâncias provenientes da exploração das centrais hidroeléctricas construídas ao abrigo da [Lei n.º 1949](https://diariodarepublica.pt/dr/detalhe/lei/1949-1937-417388) que, nos termos do respectivo regulamento, não venham a ser entregues às associações de regantes e beneficiários serão postas à ordem da Junta no prazo fixado no regulamento definitivo do aproveitamento a que respeitam.
 
 § 1.º Ficam à ordem da Junta de Hidráulica Agrícola, sem mais formalidades, as quantias depositadas na Caixa Geral de Depósitos, Crédito e Previdência provenientes da exploração das centrais referidas no corpo do artigo.
 
 § 2.º A constituição dos fundos de reintegração dos equipamentos dessas centrais fica a cargo da Junta.
 
-###### Art. 24.º À Direcção-Geral dos Serviços Hidráulicos cumpre dar conhecimento à Junta de Hidráulica Agrícola das receitas complementares resultantes da utilização das águas para os fins previstos no n.º 3.º do artigo 22.º
+Art. 24.º À Direcção-Geral dos Serviços Hidráulicos cumpre dar conhecimento à Junta de Hidráulica Agrícola das receitas complementares resultantes da utilização das águas para os fins previstos no n.º 3.º do artigo 22.º
 
 § 1.º Quando não haja lugar a dedução de quotas correspondentes à amortização do custo dessas obras, a receita daí proveniente reverte totalmente para a Junta.
 
 § 2.º As associações de regantes e beneficiários devem colaborar com a Direcção-Geral dos Serviços Hidráulicos no respeitante ao conhecimento dos casos em que seja de efectuar a cobrança das receitas complementares previstas neste artigo.
 
-###### Art. 25.º Todas as importâncias recebidas são obrigatòriamente depositadas, em nome da Junta, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se os pagamentos por meio de cheque.
+Art. 25.º Todas as importâncias recebidas são obrigatòriamente depositadas, em nome da Junta, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se os pagamentos por meio de cheque.
 
-###### Art. 26.º As despesas da Junta de Hidráulica Agrícola, quer relativas ao seu funcionamento, quer respeitantes a empréstimos ou subsídios, não devem exceder, em cada ano, o valor do fundo de financiamento, depositado à sua ordem.
+Art. 26.º As despesas da Junta de Hidráulica Agrícola, quer relativas ao seu funcionamento, quer respeitantes a empréstimos ou subsídios, não devem exceder, em cada ano, o valor do fundo de financiamento, depositado à sua ordem.
 
 § 1.º A concessão de empréstimos e a realização de outros contratos podem respeitar a vários anos, desde que os compromissos tomados caibam dentro das verbas consignadas ao fundo.
 
 § 2.º O que acima se dispõe não pode prejudicar a constituição dos fundos de reintegração dos equipamentos que estejam a cargo do fundo.
 
-###### Art. 27.º Os saldos orçamentais do fundo de financiamento podem ser despendidos pela Junta nos anos seguintes àqueles a que disserem respeito.
+Art. 27.º Os saldos orçamentais do fundo de financiamento podem ser despendidos pela Junta nos anos seguintes àqueles a que disserem respeito.
 
-###### Art. 28.º Os prazos de reembolso dos empréstimos concedidos às associações de regantes e beneficiários, para despesas fortuitas e extraordinárias com a exploração e conservação das obras, são estabelecidos pela Junta em face da natureza, origem e custo dos trabalhos e tendo em atenção a capacidade económica das associações.
+Art. 28.º Os prazos de reembolso dos empréstimos concedidos às associações de regantes e beneficiários, para despesas fortuitas e extraordinárias com a exploração e conservação das obras, são estabelecidos pela Junta em face da natureza, origem e custo dos trabalhos e tendo em atenção a capacidade económica das associações.
 
-###### Art. 29.º São fixados pela Junta entre cinco e vinte anos os prazos de reembolso dos empréstimos às associações de regantes e beneficiários, destinados à realização de obras complementares para a melhoria dos aproveitamentos hidroagrícolas, o aumento das suas áreas beneficiadas e o melhoramento das suas instalações e serviços.
+Art. 29.º São fixados pela Junta entre cinco e vinte anos os prazos de reembolso dos empréstimos às associações de regantes e beneficiários, destinados à realização de obras complementares para a melhoria dos aproveitamentos hidroagrícolas, o aumento das suas áreas beneficiadas e o melhoramento das suas instalações e serviços.
 
-###### Art. 30.º Os reembolsos dos empréstimos referidos nos artigos 28.º e 29.º são feitos à taxa de 2 por cento.
+Art. 30.º Os reembolsos dos empréstimos referidos nos artigos 28.º e 29.º são feitos à taxa de 2 por cento.
 
-###### Art. 31.º As quantias emprestadas pela Junta às associações de regantes e beneficiários para assegurar as despesas de exploração e conservação, desde o período inicial até à cobrança das taxas respectivas, não vencem juros na parte que for reembolsada dentro de um ano, contado a partir da data da primeira entrega de verbas à associação de regantes e beneficiários que for devedora.
+Art. 31.º As quantias emprestadas pela Junta às associações de regantes e beneficiários para assegurar as despesas de exploração e conservação, desde o período inicial até à cobrança das taxas respectivas, não vencem juros na parte que for reembolsada dentro de um ano, contado a partir da data da primeira entrega de verbas à associação de regantes e beneficiários que for devedora.
 
-###### Art. 32.º Os pedidos de subsídio ou empréstimo feitos pelas associações de regantes e beneficiários devem ser acompanhados de estudo pormenorizado e fundamentado, de projecto e orçamento, salvo caso de impossibilidade devidamente justificado, e de certidão da acta relativa à deliberação da assembleia geral que os tiver aprovado.
+Art. 32.º Os pedidos de subsídio ou empréstimo feitos pelas associações de regantes e beneficiários devem ser acompanhados de estudo pormenorizado e fundamentado, de projecto e orçamento, salvo caso de impossibilidade devidamente justificado, e de certidão da acta relativa à deliberação da assembleia geral que os tiver aprovado.
 
 § único. Tratando-se de empréstimo, deve ainda juntar-se certidão da acta relativa à deliberação da direcção que tiver sancionado as cláusulas do contrato a celebrar com a Junta.
 
-###### Art. 33.º Os contratos de empréstimo entre a Junta e as associações de regantes e beneficiários só podem ser celebrados mediante as garantias de consignação de receitas e, quando haja bens, do penhor destes, aplicando-se então o regime estabelecido no artigo 1.º e seus parágrafos do Decreto-Lei n.º 39833, de 17 de Agosto de 1939.
+Art. 33.º Os contratos de empréstimo entre a Junta e as associações de regantes e beneficiários só podem ser celebrados mediante as garantias de consignação de receitas e, quando haja bens, do penhor destes, aplicando-se então o regime estabelecido no artigo 1.º e seus parágrafos do Decreto-Lei n.º 39833, de 17 de Agosto de 1939.
 
 ### CAPÍTULO III — Do conselho julgador
 
 #### SECÇÃO I — Constituição e competência
 
-###### Art. 34.º O conselho julgador, a que se refere o artigo 43.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), tem a seguinte constituição:
+Art. 34.º O conselho julgador, a que se refere o artigo 43.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), tem a seguinte constituição:
 
 a) O presidente - um juiz desembargador nomeado pelo Ministro da Justiça, sobre proposta do Conselho Superior Judiciário, por um período de três anos, renovável;
 
@@ -385,79 +414,79 @@ b) Quatro vogais, todos membros do conselho directivo da Junta: o ajudante do pr
 
 § único. Ao presidente do conselho julgador é abonada uma gratificação a fixar pelo Secretário de Estado da Agricultura, com o acordo dos Ministros da Justiça e das Finanças.
 
-###### Art. 35.º Além das funções de consulta a que Se refere o artigo 10.º, n.º 11.º, compete ao conselho julgador conhecer e decidir os recursos interpostos pelos beneficiários das obras de fomento hidroagrícola das decisões das direcções, júris avindores e comissões administrativas das associações de regantes e beneficiários e, bem assim, das decisões dos serviços do Estado em matéria relativa às obras nos casos expressamente previstos na lei, nos regulamentos e nos estatutos.
+Art. 35.º Além das funções de consulta a que Se refere o artigo 10.º, n.º 11.º, compete ao conselho julgador conhecer e decidir os recursos interpostos pelos beneficiários das obras de fomento hidroagrícola das decisões das direcções, júris avindores e comissões administrativas das associações de regantes e beneficiários e, bem assim, das decisões dos serviços do Estado em matéria relativa às obras nos casos expressamente previstos na lei, nos regulamentos e nos estatutos.
 
-###### Art. 36.º As sessões do conselho são, em princípio, realizadas mensalmente, podendo o presidente marcar sessões extraordinárias, sempre que nisso haja conveniência para o bom andamento dos processos.
+Art. 36.º As sessões do conselho são, em princípio, realizadas mensalmente, podendo o presidente marcar sessões extraordinárias, sempre que nisso haja conveniência para o bom andamento dos processos.
 
-###### Art. 37.º O processamento dos recursos e serviços correlativos correm pela secretaria da Junta, sendo anualmente designado pelo presidente da Junta o funcionário que serve de escrivão.
+Art. 37.º O processamento dos recursos e serviços correlativos correm pela secretaria da Junta, sendo anualmente designado pelo presidente da Junta o funcionário que serve de escrivão.
 
 #### SECÇÃO II — Do processo
 
-###### Art. 38.º A petição de recurso é apresentada na secretaria ou a ela enviada pelo seguro do correio, no prazo de 30 dias, a contar da notificação da decisão, salvo outro prazo especial fixado por lei, e deve ser escrita em papel comum de formato legal, subscrita pelo recorrente, com a assinatura reconhecida, ou por pessoa que possa exercer o mandato judicial.
+Art. 38.º A petição de recurso é apresentada na secretaria ou a ela enviada pelo seguro do correio, no prazo de 30 dias, a contar da notificação da decisão, salvo outro prazo especial fixado por lei, e deve ser escrita em papel comum de formato legal, subscrita pelo recorrente, com a assinatura reconhecida, ou por pessoa que possa exercer o mandato judicial.
 
-###### Art. 39.º Todos os documentos destinados a fazer prova dos fundamentos do recurso devem ser juntos com a petição.
+Art. 39.º Todos os documentos destinados a fazer prova dos fundamentos do recurso devem ser juntos com a petição.
 
-###### Art. 40.º Em livro próprio, numerado e rubricado pelo presidente, devem registar-se a data da entrada da petição, a identidade do recorrente, a sua residência, o objecto do recurso e a espécie de documentos apresentados.
+Art. 40.º Em livro próprio, numerado e rubricado pelo presidente, devem registar-se a data da entrada da petição, a identidade do recorrente, a sua residência, o objecto do recurso e a espécie de documentos apresentados.
 
-###### Art. 41.º Registada e autuada no prazo de 48 horas, a petição é imediatamente submetida a despacho do presidente para dar vista do processo por cinco dias aos representantes dos beneficiários e da entidade recorrida, que, por esta ordem, podem alegar e promover o que tiverem por conveniente, juntando elementos de prova.
+Art. 41.º Registada e autuada no prazo de 48 horas, a petição é imediatamente submetida a despacho do presidente para dar vista do processo por cinco dias aos representantes dos beneficiários e da entidade recorrida, que, por esta ordem, podem alegar e promover o que tiverem por conveniente, juntando elementos de prova.
 
-###### Art. 42.º O presidente profere, no prazo de cinco dias, despacho fundamentado sobre as diligências requeridas, tendo em vista a boa apreciação do recurso.
+Art. 42.º O presidente profere, no prazo de cinco dias, despacho fundamentado sobre as diligências requeridas, tendo em vista a boa apreciação do recurso.
 
 Independentemente do que houver sido promovido, pode o presidente ordenar a requisição de quaisquer elementos ou a realização de diligências de prova admissível
 
 § único. Nos recursos sobre cadastro das obras hidroagrícolas, o presidente deve pedir sempre a informação do chefe da repartição de finanças competente.
 
-###### Art. 43.º Sòmente são admissíveis a prova documental e a vistoria, não sendo também permitida, em caso algum, a segunda vistoria.
+Art. 43.º Sòmente são admissíveis a prova documental e a vistoria, não sendo também permitida, em caso algum, a segunda vistoria.
 
-###### Art. 44.º A vistoria, conforme a sua importância, é feita por um ou três peritos, engenheiros em serviço nos Ministérios das Obras Públicas ou da Economia, nomeados pelo presidente.
+Art. 44.º A vistoria, conforme a sua importância, é feita por um ou três peritos, engenheiros em serviço nos Ministérios das Obras Públicas ou da Economia, nomeados pelo presidente.
 
 § único. Os peritos têm direito à remuneração prevista no Código das Custas Judiciais.
 
-###### Art. 45.º Efectuadas as diligências de prova, o presidente, no prazo de dez dias, decide todas as questões que obstem ao conhecimento de mérito e, sendo a questão meramente de direito, profere a decisão final.
+Art. 45.º Efectuadas as diligências de prova, o presidente, no prazo de dez dias, decide todas as questões que obstem ao conhecimento de mérito e, sendo a questão meramente de direito, profere a decisão final.
 
-###### Art. 46.º Quando o processo deva prosseguir, é distribuído ao relator, nos termos aplicáveis dos artigos 226.º e 227.º do Código de Processo Civil, indo seguidamente com vista, por cinco dias, a cada um dos vogais e, por último, ao relator.
+Art. 46.º Quando o processo deva prosseguir, é distribuído ao relator, nos termos aplicáveis dos artigos 226.º e 227.º do Código de Processo Civil, indo seguidamente com vista, por cinco dias, a cada um dos vogais e, por último, ao relator.
 
-###### Art. 47.º O relator deve devolver o processo à secretaria no prazo de quinze dias após a distribuição, apresentando o projecto de acórdão na primeira sessão do conselho.
+Art. 47.º O relator deve devolver o processo à secretaria no prazo de quinze dias após a distribuição, apresentando o projecto de acórdão na primeira sessão do conselho.
 
-###### Art. 48.º Para a sessão de julgamento, deve o presidente convocar o presidente da associação de regantes e beneficiários interessada, o qual pode intervir na discussão, sem direito a voto, ou fazer-se representar, para o efeito, por um dos vogais da direcção.
+Art. 48.º Para a sessão de julgamento, deve o presidente convocar o presidente da associação de regantes e beneficiários interessada, o qual pode intervir na discussão, sem direito a voto, ou fazer-se representar, para o efeito, por um dos vogais da direcção.
 
 Art 49.º Na sessão de julgamento, o relator lê o projecto de acórdão e, em seguida, os vogais dão os seus votos pela ordem dos vistos.
 
 § único. A decisão é tomada por maioria, sendo a discussão dirigida pelo presidente, que desempata quando não possa formar-se maioria.
 
-###### Art. 50.º Do acórdão, que é registado em livro próprio, não há recurso.
+Art. 50.º Do acórdão, que é registado em livro próprio, não há recurso.
 
-###### Art. 51.º Improcedendo o recurso, há lugar ao pagamento de custas, na importância das despesas a que o processo houver dado causa.
+Art. 51.º Improcedendo o recurso, há lugar ao pagamento de custas, na importância das despesas a que o processo houver dado causa.
 
-###### Art. 52.º Os documentos relativos aos processos de recurso são isentos do imposto do selo.
+Art. 52.º Os documentos relativos aos processos de recurso são isentos do imposto do selo.
 
-###### Art. 53.º Aplicam-se subsidiàriamente as disposições do Código de Processo Civil, especialmente as relativas ao recurso de agravo.
+Art. 53.º Aplicam-se subsidiàriamente as disposições do Código de Processo Civil, especialmente as relativas ao recurso de agravo.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 54.º A Junta de Hidráulica Agrícola pode tornar extensivas as regalias previstas no artigo 10.º, n.º 13.º, do presente diploma às unidades industriais que as associações de regantes instalarem com o objectivo de aproveitamento, transformação ou conservação dos produtos agrícolas provenientes da área das obras por ela administradas.
+Art. 54.º A Junta de Hidráulica Agrícola pode tornar extensivas as regalias previstas no artigo 10.º, n.º 13.º, do presente diploma às unidades industriais que as associações de regantes instalarem com o objectivo de aproveitamento, transformação ou conservação dos produtos agrícolas provenientes da área das obras por ela administradas.
 
-###### Art. 55.º A Junta de Hidráulica Agrícola pode promover a constituição de um parque de equipamentos destinados a serem alugados às associações de regantes e beneficiários para trabalhos de exploração e conservação das obras de fomento hidroagrícola a seu cargo.
+Art. 55.º A Junta de Hidráulica Agrícola pode promover a constituição de um parque de equipamentos destinados a serem alugados às associações de regantes e beneficiários para trabalhos de exploração e conservação das obras de fomento hidroagrícola a seu cargo.
 
 § único. A importância do aluguer constitui receita do fundo de financiamento.
 
-###### Art. 56.º Por cada sessão a que assistirem, os vogais do conselho directivo, do conselho administrativo e do conselho julgador, bem como o delegado do Tribunal de Contas, têm direito a senha de presença, na importância a fixar pelo Secretário de Estado da Agricultura, com a concordância do Ministro das Finanças.
+Art. 56.º Por cada sessão a que assistirem, os vogais do conselho directivo, do conselho administrativo e do conselho julgador, bem como o delegado do Tribunal de Contas, têm direito a senha de presença, na importância a fixar pelo Secretário de Estado da Agricultura, com a concordância do Ministro das Finanças.
 
 § único. Os suplentes, quando substituírem os vogais nas sessões do conselho directivo, têm direito ao abono da senha de presença.
 
-###### Art. 57.º Os vogais com residência oficial fora de Lisboa, sempre que tenham de comparecer às sessões de qualquer dos conselhos da Junta, têm direito ao abono, a expensas deste organismo, de transportes e ajudas de custo atribuído aos funcionários da sua categoria.
+Art. 57.º Os vogais com residência oficial fora de Lisboa, sempre que tenham de comparecer às sessões de qualquer dos conselhos da Junta, têm direito ao abono, a expensas deste organismo, de transportes e ajudas de custo atribuído aos funcionários da sua categoria.
 
 Igual direito lhes é conferido sempre que, em serviço da Junta, tenham de efectuar qualquer outra deslocação.
 
-###### Art. 58.º A Direcção-Geral dos Serviços Hidráulicos entregará à Junta de Hidráulica Agrícola os livros e mais documentos em seu poder relativos à actividade do conselho julgador, instituído pela [Lei n.º 2028](https://diariodarepublica.pt/dr/detalhe/lei/2028-1948-152286), de 4 de Março de 1948.
+Art. 58.º A Direcção-Geral dos Serviços Hidráulicos entregará à Junta de Hidráulica Agrícola os livros e mais documentos em seu poder relativos à actividade do conselho julgador, instituído pela [Lei n.º 2028](https://diariodarepublica.pt/dr/detalhe/lei/2028-1948-152286), de 4 de Março de 1948.
 
-###### Art. 59.º Para o ano de 1966 são fixadas, respectivamente, em 2 e 1 por cento as percentagens referidas nos n.os 1.º e 2.º do artigo 22.º deste diploma.
+Art. 59.º Para o ano de 1966 são fixadas, respectivamente, em 2 e 1 por cento as percentagens referidas nos n.os 1.º e 2.º do artigo 22.º deste diploma.
 
-###### Art. 60.º Podem ser publicadas mediante portaria as disposições regulamentares que se tornem necessárias para a perfeita execução deste diploma.
+Art. 60.º Podem ser publicadas mediante portaria as disposições regulamentares que se tornem necessárias para a perfeita execução deste diploma.
 
-###### Art. 61.º Ficam expressamente revogados a [Lei n.º 2028](https://diariodarepublica.pt/dr/detalhe/lei/2028-1948-152286) e o [Decreto n.º 37434](https://diariodarepublica.pt/dr/detalhe/decreto/37434-1949-257869), respectivamente de 4 de Março de 1948 e 1 de Junho de 1949.
+Art. 61.º Ficam expressamente revogados a [Lei n.º 2028](https://diariodarepublica.pt/dr/detalhe/lei/2028-1948-152286) e o [Decreto n.º 37434](https://diariodarepublica.pt/dr/detalhe/decreto/37434-1949-257869), respectivamente de 4 de Março de 1948 e 1 de Junho de 1949.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.
 

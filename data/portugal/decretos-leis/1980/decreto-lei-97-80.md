@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 103/1980, 1º Suplemento, Série I de 1980-05-05
   number: '103'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 864-(4) a 864-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10301/00040005.pdf
 entry_into_force_dates: []
@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1980-299000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6c4fa057746572843a3b7dfe2eb1e27dc58b144a8efd2171d901759499bceba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 583cde0475b988cbaa5da1660bb8ded5308b2c4e54423a75f6fd204188a0ec56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Doença Profissional
+- Pensões
+relationships:
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:52Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +112,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As pensões devidas por incapacidade permanente ou morte resultantes de doenças profissionais que sejam da responsabilidade da Caixa Nacional de Seguros de Doenças Profissionais passam a ser calculadas nos termos do presente diploma.
+Artigo 1.º - 1 - As pensões devidas por incapacidade permanente ou morte resultantes de doenças profissionais que sejam da responsabilidade da Caixa Nacional de Seguros de Doenças Profissionais passam a ser calculadas nos termos do presente diploma.
 
 2 - O presente diploma aplicar-se-á também ao cálculo das pensões que venham a ser da responsabilidade da Caixa Nacional de Seguros de Doenças Profissionais em consequência de contratos de transferência de responsabilidade e de reservas matemáticas que venham a ser celebrados entre a Caixa e as entidades seguradoras.
 
 3 - O presente diploma não se aplica às pensões por que sejam responsáveis as entidades seguradoras e que sejam pagas pela Caixa Nacional de Seguros de Doenças Profissionais através de acordos que não envolvam transferência de reservas matemáticas.
 
-###### Art. 2.º A retribuição base para efeito do cálculo das pensões devidas por incapacidade permanente ou morte resultantes de doença profissional apenas incluirá 80% da parte da retribuição real que eventualmente exceda o respectivo salário mínimo nacional.
+Art. 2.º A retribuição base para efeito do cálculo das pensões devidas por incapacidade permanente ou morte resultantes de doença profissional apenas incluirá 80% da parte da retribuição real que eventualmente exceda o respectivo salário mínimo nacional.
 
-###### Art. 3.º - 1 - As pensões devidas por incapacidades permanentes iguais ou superiores a 30% são calculadas com base na retribuição anual correspondente ao respectivo salário mínimo nacional, caso a retribuição real anual seja inferior a este valor.
+Art. 3.º - 1 - As pensões devidas por incapacidades permanentes iguais ou superiores a 30% são calculadas com base na retribuição anual correspondente ao respectivo salário mínimo nacional, caso a retribuição real anual seja inferior a este valor.
 
 2 - Estão abrangidas pelo disposto no número anterior as pensões devidas por incapacidade permanente resultante de doença profissional que, conjuntamente com a desvalorização produzida por acidente de trabalho, representem globalmente uma incapacidade não inferior a 30%.
 
@@ -113,13 +128,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - São calculadas nos termos do n.º 1 as pensões por morte resultante de doenças profissionais e as reparações por despesas de funeral no caso de morte resultante de doenças profissionais.
 
-###### Art. 4.º Os montantes das pensões por incapacidade permanente ou morte resultantes de doenças profissionais, que estejam a ser pagos à data da entrada em vigor do presente diploma, serão revistos em conformidade com os critérios definidos nos artigos 2.º e 3.º
+Art. 4.º Os montantes das pensões por incapacidade permanente ou morte resultantes de doenças profissionais, que estejam a ser pagos à data da entrada em vigor do presente diploma, serão revistos em conformidade com os critérios definidos nos artigos 2.º e 3.º
 
-###### Art. 5.º - 1 - Os montantes das pensões devidas por incapacidade permanente ou morte resultantes de doenças profissionais serão revistos em conformidade com os critérios definidos nos artigos 2.º e 3.º sempre que houver alterações do salário mínimo nacional.
+Art. 5.º - 1 - Os montantes das pensões devidas por incapacidade permanente ou morte resultantes de doenças profissionais serão revistos em conformidade com os critérios definidos nos artigos 2.º e 3.º sempre que houver alterações do salário mínimo nacional.
 
 2 - As revisões do montante das pensões serão executadas oficiosamente pela Caixa Nacional de Seguros de Doenças Profissionais e produzirão efeitos a partir da entrada em vigor das alterações do salário mínimo nacional.
 
-###### Art. 6.º Os pensionistas da Caixa Nacional de Seguros de Doenças Profissionais poderão requerer a passagem ao regime de pensão unificada desde que, tendo vencido o prazo de garantia de pensão por invalidez previsto no regime geral:
+Art. 6.º Os pensionistas da Caixa Nacional de Seguros de Doenças Profissionais poderão requerer a passagem ao regime de pensão unificada desde que, tendo vencido o prazo de garantia de pensão por invalidez previsto no regime geral:
 
 a) Estejam afectados por pneumoconioses com um grau de incapacidade permanente global não inferior a 50% e em que o coeficiente de desvalorização referido nos elementos radiográficos seja, pelo menos, de 20%, desde que já tenham ou logo que completem 50 anos de idade;
 
@@ -127,7 +142,7 @@ b) Estejam afectados por doença profissional com um grau de incapacidade perman
 
 c) Estejam afectados por doença profissional com um grau de incapacidade permanente global não inferior a 80%, independentemente da sua idade.
 
-###### Art. 7.º - 1 - As pensões referidas no artigo anterior serão requeridas à Caixa Nacional de Seguros de Doenças Profissionais, devendo os requerimentos ser acompanhados de documentação comprovativa do grau de incapacidade permanente e do coeficiente de desvalorização.
+Art. 7.º - 1 - As pensões referidas no artigo anterior serão requeridas à Caixa Nacional de Seguros de Doenças Profissionais, devendo os requerimentos ser acompanhados de documentação comprovativa do grau de incapacidade permanente e do coeficiente de desvalorização.
 
 2 - No caso de os pensionistas não disporem dos elementos comprovativos, deverão os respectivos exames médicos ser requeridos à Caixa Nacional de Seguros de Doenças Profissionais.
 
@@ -139,7 +154,7 @@ c) Estejam afectados por doença profissional com um grau de incapacidade perman
 
 6 - A suspensão da pensão unificada não prejudica a manutenção das pensões a que o trabalhador tiver direito ao abrigo dos regimes gerais aplicáveis.
 
-###### Art. 8.º - 1 - As pensões unificadas serão constituídas por três parcelas aditivas, calculadas de acordo com os seguintes esquemas:
+Art. 8.º - 1 - As pensões unificadas serão constituídas por três parcelas aditivas, calculadas de acordo com os seguintes esquemas:
 
 a) Parcela equivalente ao valor da pensão determinada de acordo com o esquema geral de reparação na incapacidade permanente em vigor na Caixa Nacional de Seguros de Doenças Profissionais;
 
@@ -155,32 +170,32 @@ c) Parcela calculada de acordo com o Regulamento da Caixa Nacional de Pensões, 
 
 5 - A determinação do valor da terceira parcela será sempre efectuada pela Caixa Nacional de Pensões.
 
-###### Art. 9.º - 1 - As parcelas previstas nas alíneas a) e b) do n.º 1 do artigo anterior constituirão sempre encargo da Caixa Nacional de Seguros de Doenças Profissionais.
+Art. 9.º - 1 - As parcelas previstas nas alíneas a) e b) do n.º 1 do artigo anterior constituirão sempre encargo da Caixa Nacional de Seguros de Doenças Profissionais.
 
 2 - A parcela referida na alínea c) do n.º 1 do artigo 8.º constituirá encargo da Caixa Nacional de Seguros de Doenças Profissionais se o beneficiário não for pensionista da Caixa Nacional de Pensões, sendo substituída pela pensão devida por esta instituição desde que o pensionista a ela tenha direito.
 
-###### Art. 10.º As pensões unificadas serão actualizadas de harmonia com as regras em vigor em relação a cada uma das suas parcelas.
+Art. 10.º As pensões unificadas serão actualizadas de harmonia com as regras em vigor em relação a cada uma das suas parcelas.
 
-###### Art. 11.º O pagamento das pensões unificadas compete à Caixa Nacional de Seguros de Doenças Profissionais e à Caixa Nacional de Pensões, consoante as parcelas que estejam a cargo de cada uma delas.
+Art. 11.º O pagamento das pensões unificadas compete à Caixa Nacional de Seguros de Doenças Profissionais e à Caixa Nacional de Pensões, consoante as parcelas que estejam a cargo de cada uma delas.
 
-###### Art. 12.º - 1 - O regime de pensão unificada cessa com a morte do beneficiário.
+Art. 12.º - 1 - O regime de pensão unificada cessa com a morte do beneficiário.
 
 2 - As pensões por morte e de sobrevivência a que tenham direito os familiares dos beneficiários da Caixa Nacional de Seguros de Doenças Profissionais estão sujeitas aos regimes gerais que lhes são aplicáveis, com as alterações introduzidas pelo presente diploma e sem prejuízo do disposto no número seguinte.
 
 3 - Aos familiares do beneficiário com direito a pensão unificada e que faleça por causa estranha a doença profissional será concedida pela Caixa Nacional de Seguros de Doenças Profissionais uma pensão calculada em função do montante da parcela referida na alínea a) do n.º 1 do artigo 8.º e de harmonia com o esquema de atribuição de pensões por morte previsto na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965.
 
-###### Art. 13.º Será abonado anualmente aos pensionistas da Caixa Nacional de Seguros de Doenças Profissionais um subsídio de Natal, a conceder em Dezembro, de valor igual à pensão mensal a que tenham direito em 1 desse mês e que constitua encargo daquela instituição.
+Art. 13.º Será abonado anualmente aos pensionistas da Caixa Nacional de Seguros de Doenças Profissionais um subsídio de Natal, a conceder em Dezembro, de valor igual à pensão mensal a que tenham direito em 1 desse mês e que constitua encargo daquela instituição.
 
-###### Art. 14.º O disposto no presente diploma não prejudica os direitos eventualmente mais favoráveis que possam resultar da legislação geral em vigor, aplicando-se, nesses casos, os regimes previstos na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, e no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com prejuízos do presente esquema de benefícios.
+Art. 14.º O disposto no presente diploma não prejudica os direitos eventualmente mais favoráveis que possam resultar da legislação geral em vigor, aplicando-se, nesses casos, os regimes previstos na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, e no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com prejuízos do presente esquema de benefícios.
 
-###### Art. 15.º O presente diploma entra em vigor no primeiro dia do mês seguinte àquele em que se completem trinta dias após a data da sua publicação.
+Art. 15.º O presente diploma entra em vigor no primeiro dia do mês seguinte àquele em que se completem trinta dias após a data da sua publicação.
 
-###### Art. 16.º As dúvidas suscitadas na execução do presente diploma são resolvidas por despacho do Ministro dos Assuntos Sociais.
+Art. 16.º As dúvidas suscitadas na execução do presente diploma são resolvidas por despacho do Ministro dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Abril de 1980.**
+Promulgado em 30 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

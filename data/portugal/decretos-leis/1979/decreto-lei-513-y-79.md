@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 297/1979, 1º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3366-(14) a 3366-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29701/00140015.pdf
 entry_into_force_dates: []
@@ -46,36 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63e9597c8c29c7dc254b269c0a0e0c4daec3e2cabd4c84e69269149d31c764dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b4e797f6bb477071d9f974b028bab531ff97dcd639e4735e7f3537c202568a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Admissão de Pessoal
+- Aquisição de Bens e Serviços
+- Empreitada de Obras Públicas
+- Fiscalização
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Tribunal de Contas
+- Visto do Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:299429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:45Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +125,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os diplomas ou despachos para provimento de cargos ou lugares deverão ser remetidos ao Tribunal acompanhados pelos documentos seguintes:
+Artigo 1.º Os diplomas ou despachos para provimento de cargos ou lugares deverão ser remetidos ao Tribunal acompanhados pelos documentos seguintes:
 
 a) Declaração, feita pelo interessado, de que não exerce qualquer cargo ou função nos serviços do Estado, de autarquias locais ou pessoas colectivas de utilidade pública administrativa, nem fica abrangido por quaisquer disposições legais relativas a incompatibilidades, ou declaração do cargo ou função que porventura exerça em qualquer das condições mencionadas, com expressa indicação de que dele pediu a exoneração, caso se verifique incompatibilidade ou acumulação não permitida;
 
@@ -100,9 +133,9 @@ b) Declaração do responsável do serviço a que pertence o lugar a prover de q
 
 c) Documento comprovativo das habilitações literárias.
 
-###### Art. 2.º O preenchimento de cargos ou lugares, mesmo nos casos de alteração de quadros ou de reorganização de serviços, deve ser operado por diploma individual de provimento, excepto na hipótese prevista no n.º 2 do artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, segundo a redacção dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto, em que será objecto de lista nominativa.
+Art. 2.º O preenchimento de cargos ou lugares, mesmo nos casos de alteração de quadros ou de reorganização de serviços, deve ser operado por diploma individual de provimento, excepto na hipótese prevista no n.º 2 do artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, segundo a redacção dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto, em que será objecto de lista nominativa.
 
-###### Art. 3.º - 1 - Nos casos de urgente conveniência de serviço expressamente declarada pela autoridade competente, os diplomas ou despachos que impliquem a admissão ou a mudança da situação jurídico-funcional do pessoal podem ser executados e produzir os seus efeitos, designadamente quanto ao exercício de funções e processamento de abonos, antes do visto do Tribunal de Contas e da publicação no Diário da República.
+Art. 3.º - 1 - Nos casos de urgente conveniência de serviço expressamente declarada pela autoridade competente, os diplomas ou despachos que impliquem a admissão ou a mudança da situação jurídico-funcional do pessoal podem ser executados e produzir os seus efeitos, designadamente quanto ao exercício de funções e processamento de abonos, antes do visto do Tribunal de Contas e da publicação no Diário da República.
 
 2 - Do texto dos diplomas ou despachos a submeter a visto deverá constar o reconhecimento da urgente conveniência de serviço referida no número anterior.
 
@@ -114,9 +147,9 @@ c) Documento comprovativo das habilitações literárias.
 
 6 - Sem prejuízo da comunicação a que se refere o artigo 59.º do Regimento aprovado pelo [Decreto n.º 1831](https://diariodarepublica.pt/dr/detalhe/decreto/1831-1915-416391), de 17 de Agosto de 1915, a recusa do visto aos diplomas e despachos referidos no n.º 1 deste artigo será também comunicada aos serviços respectivos por ofício da Direcção-Geral do Tribunal de Contas, acompanhado de uma cópia da resolução, e determina a cessação dos abonos a partir da data em que da recusa for dado conhecimento ao interessado, o que deverá verificar-se no prazo de quinze dias contados a partir da data do mesmo ofício, não havendo lugar à reposição das remunerações já percebidas.
 
-###### Art. 4.º O disposto na segunda parte do n.º 1 e nos n.os 4, 5 e 6 do artigo anterior aplica-se aos diplomas ou despachos pendentes de decisão no Tribunal de Contas, os quais poderão ser imediatamente executados se acerca deles for declarada pela entidade competente a urgente conveniência de serviço.
+Art. 4.º O disposto na segunda parte do n.º 1 e nos n.os 4, 5 e 6 do artigo anterior aplica-se aos diplomas ou despachos pendentes de decisão no Tribunal de Contas, os quais poderão ser imediatamente executados se acerca deles for declarada pela entidade competente a urgente conveniência de serviço.
 
-###### Art. 5.º Para além das isenções expressamente previstas noutras disposições legais, não carecem de visto do Tribunal, mas tão-somente da publicação prévia no Diário da República, os diplomas ou despachos referentes a:
+Art. 5.º Para além das isenções expressamente previstas noutras disposições legais, não carecem de visto do Tribunal, mas tão-somente da publicação prévia no Diário da República, os diplomas ou despachos referentes a:
 
 a) Reversão de vencimento de exercício;
 
@@ -128,16 +161,16 @@ d) Nomeações interinas ou em comissão de serviço, quando esta não seja a fo
 
 e) Substituição de cargos.
 
-###### Art. 6.º Os processos referentes a empreitadas ou fornecimentos de material, sujeitos a visto, serão instruídos com o duplicado do documento a visar, com cópia ou fotocópia autenticada do aviso de abertura do concurso público ou da autorização da dispensa deste ou da realização de concurso limitado, bem como, sendo caso disso, do caderno de encargos e do auto de abertura das propostas.
+Art. 6.º Os processos referentes a empreitadas ou fornecimentos de material, sujeitos a visto, serão instruídos com o duplicado do documento a visar, com cópia ou fotocópia autenticada do aviso de abertura do concurso público ou da autorização da dispensa deste ou da realização de concurso limitado, bem como, sendo caso disso, do caderno de encargos e do auto de abertura das propostas.
 
-###### Art. 7.º - 1 - Não estão sujeitos a visto os títulos definitivos dos contratos precedidos de minuta visada, devendo os serviços, no prazo de trinta dias após a celebração desses contratos, remeter ao Tribunal cópias ou fotocópias devidamente autenticadas dos contratos, a fim de ser verificada a sua conformidade.
+Art. 7.º - 1 - Não estão sujeitos a visto os títulos definitivos dos contratos precedidos de minuta visada, devendo os serviços, no prazo de trinta dias após a celebração desses contratos, remeter ao Tribunal cópias ou fotocópias devidamente autenticadas dos contratos, a fim de ser verificada a sua conformidade.
 
 2 - Os emolumentos previstos no artigo 6.º do [Decreto-Lei n.º 356/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1973-421409), de 14 de Julho, são contados pelo valor da minuta visada e devidos após a celebração do respectivo contrato.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43613-1961-569516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b529964cad739e147064a709ed46c07faa23d830cece0dd75be6e1edcef40a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dac104547260894b87420891bca6e3746bf4e12aa1682911eba342fe7f00f34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Especialização
+- Diploma
+- Ensino Profissional
+- Escola de Regentes Agrícolas
+- Pessoal Docente
+- Plano de Estudos
+- Qualificação Profissional
+relationships:
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:29Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +103,19 @@ Nestes termos, tendo em atenção as disposições do [Decreto-Lei n.º 41381](h
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A especialização de instrutor rural será adquirida em curso professado nas escolas de regentes agrícolas, com a duração de dois semestres.
+Artigo 1.º - 1. A especialização de instrutor rural será adquirida em curso professado nas escolas de regentes agrícolas, com a duração de dois semestres.
 
 2. O 1.º semestre inicia-se no dia 1 de Outubro e termina em 31 de Março seguinte; o 2.º inicia-se em 1 de Abril e termina em 30 de Setembro do mesmo ano.
 
 3. A última quinzena de Março é reservada aos exames a que se refere o artigo 7.º, que deverão realizar-se a tempo de os especializandos iniciarem em 1 de Abril as actividades correspondentes ao 2.º semestre.
 
-###### Art. 2.º - 1. À matrícula no curso de especialização podem ser admitidos os candidatos que possuam o diploma de regente agrícola ou tenham completado a parte escolar do respectivo curso.
+Art. 2.º - 1. À matrícula no curso de especialização podem ser admitidos os candidatos que possuam o diploma de regente agrícola ou tenham completado a parte escolar do respectivo curso.
 
 2. A matrícula é gratuita e requerida ao director da escola de 1 a 15 de Setembro de cada ano, competindo a este autorizá-la, mediante informação favorável da secção disciplinar da escola que o candidato haja frequentado.
 
 3. A recusa de matrícula será sempre justificada por escrito.
 
-###### Art. 3.º - 1. Em cada ano, o director-geral determinará a escola ou escolas em que se realizará a especialização, bem como o número de especializandos a admitir.
+Art. 3.º - 1. Em cada ano, o director-geral determinará a escola ou escolas em que se realizará a especialização, bem como o número de especializandos a admitir.
 
 2. Se o número de candidatos for superior ao número de vagas, a admissão far-se-á pela ordem decrescente da classificação constante do diploma ou da média, aproximada as décimas, das notas obtidas em todos os exames, conforme se trate ou não de candidatos já diplomados.
 
@@ -108,7 +123,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Quando não exista dotação própria ou a inscrita em orçamento seja insuficiente para suportar o encargo, a realização da especialização em mais de uma escola depende do acordo do Ministro das Finanças, verificada a existência de disponibilidades nas dotações de pessoal dos serviços dependentes da Direcção-Geral do Ensino Técnico Profissional, para a contrapartida da inscrição ou reforço a efectuar.
 
-###### Art. 4.º - 1. Durante o 1.º semestre será ministrado, no número de horas semanais que se indica, o ensino teórico das seguintes disciplinas:
+Art. 4.º - 1. Durante o 1.º semestre será ministrado, no número de horas semanais que se indica, o ensino teórico das seguintes disciplinas:
 
 Psicopedagogia - cinco horas.
 
@@ -120,7 +135,7 @@ Higiene - duas horas.
 
 2. Os programas do ensino são os que se publicam em anexo ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 5.º - 1. Paralelamente com o ensino teórico, referido no artigo anterior e de forma que a ocupação diária nunca seja inferior a seis horas, deverão os especializandos:
+Art. 5.º - 1. Paralelamente com o ensino teórico, referido no artigo anterior e de forma que a ocupação diária nunca seja inferior a seis horas, deverão os especializandos:
 
 a) Executar os trabalhos técnicos de campo, laboratório e oficinas susceptíveis de completar a sua formação profissional;
 
@@ -134,7 +149,7 @@ d) Apresentar ao director da escola em que se realiza a especialização relató
 
 3. Compete ao conselho técnico da escola elaborar em cada ano os planos dessas mesmas actividades, enviando-as à Direcção-Geral até ao dia 20 de Setembro de cada ano.
 
-###### Art. 6.º - 1. Para os especializandos do sexo masculino os trabalhos a que se refere a alínea a) do n.º 1 do artigo anterior dirão respeito, de preferência, às seguintes matérias:
+Art. 6.º - 1. Para os especializandos do sexo masculino os trabalhos a que se refere a alínea a) do n.º 1 do artigo anterior dirão respeito, de preferência, às seguintes matérias:
 
 Cerealicultura.
 
@@ -170,31 +185,31 @@ Aproveitamento de frutos (compotas, conservas e sumos).
 
 3. Na especialização poderão incluir-se visitas de estudo de reconhecido interesse para a preparação dos estagiários, nomeadamente para os do sexo feminino, às escolas de assistentes sociais, de educadoras familiares e outros organismos de tipo análogo.
 
-###### Art. 7.º - 1. Durante o 1.º semestre, os especializandos ficam subordinados ao regime de frequência estabelecido para o curso de regente agrícola, sendo no final dele submetidos a exame de Psicopedagogia, Pedagogia e Didáctica, Higiene e Relações Humanas os que tenham obtido classificação final não inferior a 10 valores na frequência de cada uma daquelas disciplinas.
+Art. 7.º - 1. Durante o 1.º semestre, os especializandos ficam subordinados ao regime de frequência estabelecido para o curso de regente agrícola, sendo no final dele submetidos a exame de Psicopedagogia, Pedagogia e Didáctica, Higiene e Relações Humanas os que tenham obtido classificação final não inferior a 10 valores na frequência de cada uma daquelas disciplinas.
 
 2. Os exames compreendem prova escrita e prova oral, podendo ser dispensados desta última os examinandos que na primeira obtenham classificação não inferior a 14 valores.
 
 3. Os examinandos que na prova escrita obtenham classificação inferior a 8 valores consideram-se desde logo eliminados.
 
-###### Art. 8.º - 1. Nos diplomas dos especializandos que já sejam regentes agrícolas e terminem o 1.º semestre com aprovação em todos os exames será averbada a especialização de instrutor rural, da qual constará a respectiva classificação.
+Art. 8.º - 1. Nos diplomas dos especializandos que já sejam regentes agrícolas e terminem o 1.º semestre com aprovação em todos os exames será averbada a especialização de instrutor rural, da qual constará a respectiva classificação.
 
 2. A classificação a inscrever será a média, aproximada às décimas, das classificações finais obtidas nos exames referidos no artigo 7.º
 
 3. O averbamento da especialização no respectivo diploma será assinado pelo director da escola sobre estampilhas fiscais no valor de 100$00.
 
-###### Art. 9.º - 1. Os especializandos que apenas possuam a parte escolar do curso de regente agrícola e terminem o 1.º semestre com aprovação em todos os exames serão nomeados instrutores rurais tirocinantes, até ao limite que, por despacho, ministerial, for estabelecido em cada ano.
+Art. 9.º - 1. Os especializandos que apenas possuam a parte escolar do curso de regente agrícola e terminem o 1.º semestre com aprovação em todos os exames serão nomeados instrutores rurais tirocinantes, até ao limite que, por despacho, ministerial, for estabelecido em cada ano.
 
 2. Se o número de candidatos for superior ao número de vagas, a graduação será feita pela média, aproximada às décimas, entre a média das classificações obtidas nos exames do curso de regente agrícola e a das classificações obtidas nos exames a que se refere o artigo 7.º, dando-se preferência, em caso de igualdade, aos candidatos mais velhos.
 
-###### Art. 10.º Os instrutores rurais tirocinantes serão mensalmente abonados pela Direcção-Geral da gratificação de 1200$00.
+Art. 10.º Os instrutores rurais tirocinantes serão mensalmente abonados pela Direcção-Geral da gratificação de 1200$00.
 
-###### Art. 11.º Os especializandos ainda não diplomados como regentes agrícolas que, tendo frequentado o 1.º semestre, não hajam obtido aprovação em todos os exames finais ou não sejam nomeados instrutores rurais tirocinantes poderão apresentar na escola em que frequentaram o último ano do curso um relatório de todos os trabalhos de índole agro-pecuária realizados, o qual será, para todos os efeitos, considerado como o relatório do tirocínio a que se referem os artigos 254.º e seguintes do [Decreto n.º 38026](https://diariodarepublica.pt/dr/detalhe/decreto/38026-1950-486558), de 2 de Novembro de 1950, cujas disposições lhe serão inteiramente aplicáveis.
+Art. 11.º Os especializandos ainda não diplomados como regentes agrícolas que, tendo frequentado o 1.º semestre, não hajam obtido aprovação em todos os exames finais ou não sejam nomeados instrutores rurais tirocinantes poderão apresentar na escola em que frequentaram o último ano do curso um relatório de todos os trabalhos de índole agro-pecuária realizados, o qual será, para todos os efeitos, considerado como o relatório do tirocínio a que se referem os artigos 254.º e seguintes do [Decreto n.º 38026](https://diariodarepublica.pt/dr/detalhe/decreto/38026-1950-486558), de 2 de Novembro de 1950, cujas disposições lhe serão inteiramente aplicáveis.
 
-###### Art. 12.º - 1. Os instrutores rurais tirocinantes do sexo masculino serão colocados, por acordo a estabelecer entre as Direcções-Gerais do Ensino Técnico Profissional e dos Serviços Agrícolas, nas brigadas técnicas regionais, onde se realizará o segundo período da especialização, durante o qual deverão familiarizar-se com os processos de assistência técnica à lavoura, com a regência dos cursos intensivos para trabalhadores rurais e outras actividades que lhes sejam superiormente determinadas, com vista à sua completa integração na função a que se destinam.
+Art. 12.º - 1. Os instrutores rurais tirocinantes do sexo masculino serão colocados, por acordo a estabelecer entre as Direcções-Gerais do Ensino Técnico Profissional e dos Serviços Agrícolas, nas brigadas técnicas regionais, onde se realizará o segundo período da especialização, durante o qual deverão familiarizar-se com os processos de assistência técnica à lavoura, com a regência dos cursos intensivos para trabalhadores rurais e outras actividades que lhes sejam superiormente determinadas, com vista à sua completa integração na função a que se destinam.
 
 2. Enquanto prestarem serviço nas brigadas técnicas regionais, os instrutores rurais tirocinantes ficam hieràrquicamente subordinados ao respectivo chefe, mas devem informar mensalmente o director da escola em que estiverem matriculados dos trabalhos que hajam efectuado.
 
-###### Art. 13.º - 1. Os instrutores rurais tirocinantes do sexo feminino receberão ensino teórico e prático das seguintes matérias, segundo programas que vierem a ser aprovados por portaria do Ministro da Educação Nacional:
+Art. 13.º - 1. Os instrutores rurais tirocinantes do sexo feminino receberão ensino teórico e prático das seguintes matérias, segundo programas que vierem a ser aprovados por portaria do Ministro da Educação Nacional:
 
 Socorros a doentes - três horas semanais.
 
@@ -212,7 +227,7 @@ Educação familiar - duas horas semanais.
 
 4. Na 2.ª quinzena de Setembro as estagiárias serão submetidas a exame, com observância das disposições do artigo 7.º
 
-###### Art. 14.º - 1. Terminadas as actividades, os instrutores rurais tirocinantes de ambos os sexos apresentarão ao director da escola um relatório geral de todos os trabalhos efectuados durante o 2.º semestre, ao qual serão aplicáveis as disposições dos artigos 255.º a 260.º do [Decreto n.º 38026](https://diariodarepublica.pt/dr/detalhe/decreto/38026-1950-486558).
+Art. 14.º - 1. Terminadas as actividades, os instrutores rurais tirocinantes de ambos os sexos apresentarão ao director da escola um relatório geral de todos os trabalhos efectuados durante o 2.º semestre, ao qual serão aplicáveis as disposições dos artigos 255.º a 260.º do [Decreto n.º 38026](https://diariodarepublica.pt/dr/detalhe/decreto/38026-1950-486558).
 
 2. No diploma de regente agrícola obtido de harmonia com o disposto no número anterior será desde logo averbada a especialização de instrutor rural e a respectiva classificação.
 
@@ -220,21 +235,21 @@ Educação familiar - duas horas semanais.
 
 4. Ao averbamento da especialização é aplicável o disposto no n.º 3 do artigo 8.º
 
-###### Art. 15.º - 1. Os regentes agrícolas com a especialização de instrutor rural gozarão de preferência, em igualdade de classificação, no preenchimento dos lugares de regente de trabalho das escolas agrícolas e poderão ser admitidos aos concursos de provimento dos lugares de regente de internato das mesmas escolas, com dispensa da habilitação prevista na alínea b) do n.º 1 do artigo 88.º do [Decreto n.º 38026](https://diariodarepublica.pt/dr/detalhe/decreto/38026-1950-486558).
+Art. 15.º - 1. Os regentes agrícolas com a especialização de instrutor rural gozarão de preferência, em igualdade de classificação, no preenchimento dos lugares de regente de trabalho das escolas agrícolas e poderão ser admitidos aos concursos de provimento dos lugares de regente de internato das mesmas escolas, com dispensa da habilitação prevista na alínea b) do n.º 1 do artigo 88.º do [Decreto n.º 38026](https://diariodarepublica.pt/dr/detalhe/decreto/38026-1950-486558).
 
 2. A classificação dos concorrentes admitidos ao abrigo do corpo deste artigo será feita, nos termos do n.º 2 do artigo 9.º, recorrendo-se, quando necessário, ao disposto no n.º 3 do artigo 3.º
 
-###### Art. 16.º - 1. Os directores das escolas em que seja ministrada a especialização de instrutor rural proporão em cada ano os professores devidamente capacitados necessários para a regência das matérias teóricas.
+Art. 16.º - 1. Os directores das escolas em que seja ministrada a especialização de instrutor rural proporão em cada ano os professores devidamente capacitados necessários para a regência das matérias teóricas.
 
 2. Os professores nomeados nos termos deste artigo serão remunerados com a gratificação mensal de 300$00 por cada hora de serviço semanal, acumulável com os vencimentos que percebam pelo desempenho de qualquer outro cargo.
 
-###### Art. 17.º - 1. Os encargos financeiros resultantes do funcionamento da especialização de instrutor rural serão satisfeitos pelas verbas a inscrever nos orçamentos das escolas, no que se refere ao pessoal docente.
+Art. 17.º - 1. Os encargos financeiros resultantes do funcionamento da especialização de instrutor rural serão satisfeitos pelas verbas a inscrever nos orçamentos das escolas, no que se refere ao pessoal docente.
 
 2. O abono da gratificação aos instrutores rurais tirocinantes será feito por conta da dotação da Direcção-Geral destinada ao ensino complementar de aprendizagem agrícola.
 
-###### Art. 18.º Os casos emergentes da execução do presente decreto nele não previstos serão regulados pelas disposições paralelas do Regulamento do Ensino Agrícola Médio.
+Art. 18.º Os casos emergentes da execução do presente decreto nele não previstos serão regulados pelas disposições paralelas do Regulamento do Ensino Agrícola Médio.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça.
 

@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46948-1966-487921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b1676eb78ba7c2f521fef74f68fa10ae687ec1e9f14bcc688d5f3ab400e060
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e777608f2f1d6c94eef611b577151f70738acb8fd6cf82fefa1e23f05d547486
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Prédios
+- Funchal
+- Junta Geral
+- Matriz Cadastral
+- Pagamento
+- Ponta do SOL
+- Porto Moniz
+- Prédio Rústico
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:41Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +102,10 @@ Considerando, porém, que estes órgãos da administração distrital não possu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valor como lei, o seguinte:
 
-###### Artigo único. Fica autorizada a Junta Geral do Distrito Autónomo do Funchal a alienar das suas receitas a verba necessária para a liquidação das despesas a efectuar pelo Estado com a avaliação geral da propriedade rústica, pelo sistema de inspecção directa e para a organização de novas matrizes prediais nos concelhos de Ponta do Sol e de Porto Moniz.
+Artigo único. Fica autorizada a Junta Geral do Distrito Autónomo do Funchal a alienar das suas receitas a verba necessária para a liquidação das despesas a efectuar pelo Estado com a avaliação geral da propriedade rústica, pelo sistema de inspecção directa e para a organização de novas matrizes prediais nos concelhos de Ponta do Sol e de Porto Moniz.
 
 § único. A liquidação será efectuada em dez prestações anuais de igual montante, com início no ano seguinte àquele em que as novas matrizes entrem em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

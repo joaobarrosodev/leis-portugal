@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1981-388989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3b7508fb0353179f80b8ef9904e9c3d88362fd748ceec667c24b5d8031a3c47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdadbdadb25cad810030548e781ebaec775dc0a1ae5ab0ccbe4c01d4532d66ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Forças Armadas
+- Honras Militares
+- Regulamento de Continencias e Honras Militares
+relationships:
+- type: cites
+  target: pt:dre:469777:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:59Z'
   warnings: []
   errors: []
 ---
@@ -89,21 +97,21 @@ Considerando que o Regulamento de Continências e Honras Militares, aprovado e p
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. No Regulamento de Continências e Honras Militares, aprovado e posto em execução pelo [Decreto-Lei n.º 331/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1980-469777), de 28 de Agosto, são introduzidas alterações nos artigos e nos quadros adiante mencionados, que passam a ter a seguinte redacção:
+Artigo único. No Regulamento de Continências e Honras Militares, aprovado e posto em execução pelo [Decreto-Lei n.º 331/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1980-469777), de 28 de Agosto, são introduzidas alterações nos artigos e nos quadros adiante mencionados, que passam a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - O Presidente da Assembleia da República, o Primeiro-Ministro, o Presidente do Supremo Tribunal de Justiça, os Conselheiros da Revolução, os membros do Governo e os ministros plenipotenciários estrangeiros, quando em actos oficiais previamente anunciados, têm direito às honras constantes do quadro B do capítulo V do presente Regulamento.
 
-###### Art. 18.º O militar deve usar sempre de todas as deferências para com os seus superiores hierárquicos, nomeadamente:
+Art. 18.º O militar deve usar sempre de todas as deferências para com os seus superiores hierárquicos, nomeadamente:
 
 1) ...
 
 2) Se se cruzar com um superior em qualquer passagem apertada, designadamente escada ou vão de uma porta, facilitar-lhe a passagem, deixando-o passar primeiro; na rua, cede-lhe o lado interior do passeio;
 
-###### Art. 21.º O militar desarmado em marcha faz a continência sem interromper o movimento, excepto quanto ao Estandarte Nacional e ao Presidente da República, casos em que interrompe a marcha e volve por forma a tomar a frente paralela à direcção seguida por aquele símbolo ou entidade.
+Art. 21.º O militar desarmado em marcha faz a continência sem interromper o movimento, excepto quanto ao Estandarte Nacional e ao Presidente da República, casos em que interrompe a marcha e volve por forma a tomar a frente paralela à direcção seguida por aquele símbolo ou entidade.
 
-###### Art. 31.º - 1 - As sentinelas fazem as continências prescritas nos artigos anteriores para o militar armado a pé firme e, sempre que seja possível, no posto de sentinela; quando não seja possível, as sentinelas param no ponto onde estiverem, tomando a frente do posto de sentinela e fazendo continência.
+Art. 31.º - 1 - As sentinelas fazem as continências prescritas nos artigos anteriores para o militar armado a pé firme e, sempre que seja possível, no posto de sentinela; quando não seja possível, as sentinelas param no ponto onde estiverem, tomando a frente do posto de sentinela e fazendo continência.
 
 2 - ...
 
@@ -127,15 +135,15 @@ a) ...
 
 b) À passagem de qualquer féretro executarão o movimento de funeral-arma;
 
-###### Art. 38.º - 1 - Uma força estacionada e armada abre fileiras e apresenta armas à Bandeira e ao Estandarte Nacionais, ao Hino Nacional, ao Presidente da República, aos Conselheiros da Revolução, aos Ministros e aos militares da categoria 1.ª do quadro A (artigo 9.º); faz ombro-arma a qualquer força e, bem assim, a todas as patentes a partir de aspirante a oficial, superiores à do seu comandante, e toma a posição de sentido à passagem dos militares da categoria 4.ª do quadro A (artigo 9.º), sempre que estes sejam de patente superior à do comandante da força estacionada.
+Art. 38.º - 1 - Uma força estacionada e armada abre fileiras e apresenta armas à Bandeira e ao Estandarte Nacionais, ao Hino Nacional, ao Presidente da República, aos Conselheiros da Revolução, aos Ministros e aos militares da categoria 1.ª do quadro A (artigo 9.º); faz ombro-arma a qualquer força e, bem assim, a todas as patentes a partir de aspirante a oficial, superiores à do seu comandante, e toma a posição de sentido à passagem dos militares da categoria 4.ª do quadro A (artigo 9.º), sempre que estes sejam de patente superior à do comandante da força estacionada.
 
-###### Art. 40.º - 1 - Uma força estacionada e desarmada toma a posição de sentido e abre fileiras à Bandeira, ao Estandarte e ao Hino Nacionais, ao Presidente da República, aos Conselheiros da Revolução, aos Ministros e aos militares da categoria 1.ª do quadro A (artigo 9.º); toma a posição de sentido à passagem de qualquer força e às categorias 2.ª, 3.ª e 4.ª do mesmo quadro, sempre que sejam de patente superior à do comandante da força.
+Art. 40.º - 1 - Uma força estacionada e desarmada toma a posição de sentido e abre fileiras à Bandeira, ao Estandarte e ao Hino Nacionais, ao Presidente da República, aos Conselheiros da Revolução, aos Ministros e aos militares da categoria 1.ª do quadro A (artigo 9.º); toma a posição de sentido à passagem de qualquer força e às categorias 2.ª, 3.ª e 4.ª do mesmo quadro, sempre que sejam de patente superior à do comandante da força.
 
-###### Art. 41.º - 1 - ...
+Art. 41.º - 1 - ...
 
 2 - Os oficiais e os sargentos, quando armados de espada e exercendo comando, quer apeados quer a cavalo, apresentam arma à Bandeira e ao Estandarte Nacionais, ao Presidente da República, aos Conselheiros da Revolução e aos militares da categoria 1.ª do quadro A (artigo 9.º).
 
-###### Art. 44.º A continência de forças militares em parada ou desfiles é prestada às entidades de acordo com a seguinte ordem de precedência:
+Art. 44.º A continência de forças militares em parada ou desfiles é prestada às entidades de acordo com a seguinte ordem de precedência:
 
 Presidente da República;
 
@@ -167,7 +175,7 @@ Secretários e Subsecretários de Estado;
 
 Oficial mais graduado ou com maior precedência que esteja presente, mesmo que ali se encontre qualquer autoridade civil.
 
-###### Art. 45.º - 1 - A presidência em cerimónias ou reuniões de carácter militar é atribuída de acordo com a seguinte precedência:
+Art. 45.º - 1 - A presidência em cerimónias ou reuniões de carácter militar é atribuída de acordo com a seguinte precedência:
 
 Presidente da República;
 
@@ -199,15 +207,15 @@ Secretários e Subsecretários de Estado;
 
 Oficial mais graduado ou com maior precedência que na respectiva região ou recinto militar exerça as funções de comando.
 
-###### Art. 47.º - 1 - ...
+Art. 47.º - 1 - ...
 
 2 - Exceptua-se o caso de o superior se aproximar no decorrer de uma fase em que não convenha interromper a instrução e em que quem comanda ou presida a não suspende, cumprimentando logo que possível o superior que ali chegou, apresentando as razões da não interrupção da mesma.
 
-###### Art. 59.º - 1 - As forças militares recebem o Estandarte Nacional do modo seguinte: formada a força, o comandante dá ordem para o porta-estandarte receber o Estandarte. O oficial, acompanhado da respectiva escolta, tendo-o recebido no local onde estava guardado, avança à voz do comandante avance o estandarte, indo postar-se a 10 m em frente dele e com a frente voltada para a força, que já deve estar em posição de ombro-arma; recebe em seguida a continência de apresentar-arma, precedida da voz de continência ao estandarte. As bandas de música executam o Hino Nacional e, na sua falta, as fanfarras ou os ternos de corneteiros (clarins) tocam a marcha de continência. À voz de ombro-arma, o porta-estandarte e a escolta vão ocupar o seu lugar na formatura.
+Art. 59.º - 1 - As forças militares recebem o Estandarte Nacional do modo seguinte: formada a força, o comandante dá ordem para o porta-estandarte receber o Estandarte. O oficial, acompanhado da respectiva escolta, tendo-o recebido no local onde estava guardado, avança à voz do comandante avance o estandarte, indo postar-se a 10 m em frente dele e com a frente voltada para a força, que já deve estar em posição de ombro-arma; recebe em seguida a continência de apresentar-arma, precedida da voz de continência ao estandarte. As bandas de música executam o Hino Nacional e, na sua falta, as fanfarras ou os ternos de corneteiros (clarins) tocam a marcha de continência. À voz de ombro-arma, o porta-estandarte e a escolta vão ocupar o seu lugar na formatura.
 
 2 - Por forma análoga se procede quando o Estandarte retirar da formatura. À voz de retire o estandarte, o porta-estandarte vai colocar-se a 10 m na frente do comandante e, voltado para ele, recebe a continência da força, retirando só depois de esta terminada.
 
-###### Art. 60.º - 1 - O Estandarte Nacional toma a posição de perfilar nos seguintes casos:
+Art. 60.º - 1 - O Estandarte Nacional toma a posição de perfilar nos seguintes casos:
 
 a) A pé firme:
 
@@ -229,13 +237,13 @@ Nos desfiles em continência, durante todo o percurso.
 
 Em todos os casos a escolta executará os movimentos ordenados para as forças em presença.
 
-###### Art. 63.º Aos hinos estrangeiros e às bandeiras ou estandartes nacionais estrangeiros prestam-se honras militares iguais às que ficam regulamentadas para o Hino e Bandeira ou Estandarte Nacionais, tendo em atenção que após a execução do hino estrangeiro se seguirá sempre a do Hino Nacional.
+Art. 63.º Aos hinos estrangeiros e às bandeiras ou estandartes nacionais estrangeiros prestam-se honras militares iguais às que ficam regulamentadas para o Hino e Bandeira ou Estandarte Nacionais, tendo em atenção que após a execução do hino estrangeiro se seguirá sempre a do Hino Nacional.
 
-###### Art. 69.º - 1 - Sempre que possível e salvo indicação superior em contrário, as guardas de honra formam em linha, dando a direita ao local junto do qual devem postar-se.
+Art. 69.º - 1 - Sempre que possível e salvo indicação superior em contrário, as guardas de honra formam em linha, dando a direita ao local junto do qual devem postar-se.
 
-###### Art. 71.º - 1 - Ao avistar a entidade a quem a guarda de honra é prestada, o seu comandante mandará sentido e ombro-arma, prestando-lhe depois a continência devida, mas apenas quando a entidade referida se tiver colocado no ponto de continência (ponto, em regra, a cerca de 10 m à frente do comandante da guarda de honra, onde a entidade se colocará na posição de sentido, pronta a receber a continência da guarda de honra).
+Art. 71.º - 1 - Ao avistar a entidade a quem a guarda de honra é prestada, o seu comandante mandará sentido e ombro-arma, prestando-lhe depois a continência devida, mas apenas quando a entidade referida se tiver colocado no ponto de continência (ponto, em regra, a cerca de 10 m à frente do comandante da guarda de honra, onde a entidade se colocará na posição de sentido, pronta a receber a continência da guarda de honra).
 
-###### Art. 77.º Escolta de honra é a força armada destinada a:
+Art. 77.º Escolta de honra é a força armada destinada a:
 
 Acompanhar Estandartes Nacionais;
 
@@ -243,9 +251,9 @@ Acompanhar altas entidades a quem se deva prestar esta honra militar;
 
 Acompanhar féretros em honras fúnebres.
 
-###### Art. 79.º O efectivo das escoltas de honra é o que consta do artigo 58.º do quadro B deste capítulo e do quadro D do capítulo IX, conforme se trate, respectivamente, de Estandartes Nacionais, altas entidades ou féretros.
+Art. 79.º O efectivo das escoltas de honra é o que consta do artigo 58.º do quadro B deste capítulo e do quadro D do capítulo IX, conforme se trate, respectivamente, de Estandartes Nacionais, altas entidades ou féretros.
 
-###### Art. 81.º - 1 - A escolta de honra, enquanto aguarda a chegada, para efeitos do artigo 77.º só tem de prestar honras à passagem de Estandartes Nacionais, Chefes de Estado e entidades de categoria superior à de quem vai escoltar.
+Art. 81.º - 1 - A escolta de honra, enquanto aguarda a chegada, para efeitos do artigo 77.º só tem de prestar honras à passagem de Estandartes Nacionais, Chefes de Estado e entidades de categoria superior à de quem vai escoltar.
 
 ### CAPÍTULO V — Quadro B
 
@@ -273,7 +281,7 @@ Na categoria VI:
 
 Outros oficiais da Armada, do Exército e da Força Aérea da categoria 2.ª do quadro A do artigo 9.º, quando exercendo comando ou serviço de inspecção.
 
-###### Art. 97.º ...
+Art. 97.º ...
 
 5) Logo que a entidade que vem passar a revista entra no campo, o comandante das forças em parada manda fazer o toque (ou dá a voz) de sentido, seguido do sinal correspondente àquela entidade, e em seguida manda ombro-arma.
 
@@ -285,9 +293,9 @@ Outros oficiais da Armada, do Exército e da Força Aérea da categoria 2.ª do 
 
 8) A revista executa-se seguindo pela frente dos oficiais comandantes das unidades, devendo reduzir-se ao mínimo possível as distâncias entre todos os oficiais e as suas unidades ou fracções. Os comandantes de subunidades formam à direita e no alinhamento destas;
 
-###### Art. 98.º O comandante das forças em parada, logo que é correspondida a continência de chegada e depois do toque de descansar-arma, acompanha, se for o caso, a entidade ao flanco direito das forças, para com ela iniciar a revista, seguindo à sua direita e a 1 m à retaguarda.
+Art. 98.º O comandante das forças em parada, logo que é correspondida a continência de chegada e depois do toque de descansar-arma, acompanha, se for o caso, a entidade ao flanco direito das forças, para com ela iniciar a revista, seguindo à sua direita e a 1 m à retaguarda.
 
-###### Art. 111.º - 1 - As forças que formarem em alas deverão organizar-se, quanto possível, do seguinte modo:
+Art. 111.º - 1 - As forças que formarem em alas deverão organizar-se, quanto possível, do seguinte modo:
 
 a) ...
 
@@ -297,11 +305,11 @@ Fanfarra, se existir. Na sua falta, terno de corneteiros (clarins):
 
 ...
 
-###### Art. 115.º - 1 - Dez minutos antes da hora de formatura pronta, o comando das forças em alas dispõe-se convenientemente formado, com a organização indicada no n.º 1 do artigo 111.º, no extremo das alas oposto ao lado donde virá o cortejo.
+Art. 115.º - 1 - Dez minutos antes da hora de formatura pronta, o comando das forças em alas dispõe-se convenientemente formado, com a organização indicada no n.º 1 do artigo 111.º, no extremo das alas oposto ao lado donde virá o cortejo.
 
 9 - As fanfarras ou ternos de corneteiros (clarins) executarão a marcha de continência à passagem do comandante das forças em alas pela sua frente.
 
-###### Art. 116.º - 1 - ...
+Art. 116.º - 1 - ...
 
 3 - O batalhão (ou companhia não enquadrada) que se encontra no local onde vai iniciar-se o desfile do cortejo entre alas, logo que ouviu o toque-aviso de firme determinado pelo comandante das forças em alas, executará a toque (ou voz, no caso de companhias não enquadradas) os movimentos de:
 
@@ -321,7 +329,7 @@ Apresentar-arma, de modo que este último movimento esteja concluído antes que 
 
 12 - Seguidamente, e por determinação do CFA, o clarim de ordens executará o toque de destroçar sem sinal de execução e precedido do sinal da região militar ou equivalente a que as tropas pertencem. Este toque, que será repetido pelos corneteiros (clarins) de todas as unidades, será a indicação de que estas poderão recolher a quartéis.
 
-###### Art. 121.º - 1 - ...
+Art. 121.º - 1 - ...
 
 4 - As entidades referidas no n.º 1 são as seguintes:
 
@@ -369,11 +377,11 @@ Ao afastar-se:
 
 Notas. - 1 - Ao CEMGFA, V/CEMGFA, Chefes dos Estados-Maiores do Exército e da Força Aérea, Conselheiros da Revolução e Presidente do Supremo Tribunal Militar são prestadas as honras estabelecidas para marechal. Para todas as entidades anteriormente referidas será executado o hino Maria da Fonte e as salvas são de dezanove tiros.
 
-###### Art. 138.º - 1 - ...
+Art. 138.º - 1 - ...
 
 2 - A Bandeira Nacional vai a tope antes de ser içada a meia haste ou, posteriormente, arriada.
 
-###### Art. 148.º - 1 - ...
+Art. 148.º - 1 - ...
 
 2 - Logo que o cortejo fúnebre inicie o movimento a caminho do jazigo ou coval, o comandante da força ordenará que esta volva para o flanco do sentido do movimento e inicie a marcha em passo lento, em harmonia com o andamento do cortejo, ladeando e acompanhando o féretro. Fará alto junto do jazigo ou coval. Logo que as pessoas que acompanharam o féretro abandonem o local, reunir-se-á em formatura normal e recolherá a quartéis.
 
@@ -391,7 +399,7 @@ Ministros;
 
 Presidente do Supremo Tribunal Militar.
 
-###### Art. 163.º Em aquartelamento e estabelecimentos de tropas estrangeiras em território nacional, as bandeiras de países estrangeiros nunca serão hasteadas em mastros implantados no solo, mas sim em mastros colocados em edifícios (quartéis-generais, comandos, secretarias, messes, etc.).
+Art. 163.º Em aquartelamento e estabelecimentos de tropas estrangeiras em território nacional, as bandeiras de países estrangeiros nunca serão hasteadas em mastros implantados no solo, mas sim em mastros colocados em edifícios (quartéis-generais, comandos, secretarias, messes, etc.).
 
 ## ANEXO III — Quadro E
 
@@ -425,8 +433,8 @@ Restantes oficiais e outras entidades.
 
 Visto e aprovado em Conselho da Revolução em 25 de Março de 1981.
 
-**Promulgado em 6 de Abril de 1981.**
+Promulgado em 6 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

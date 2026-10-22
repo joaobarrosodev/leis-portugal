@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/29400/15851586.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/724-1974-468072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6b82e3bee7fbce65773a140224a81e49ac02885ab7e7d634b146ad4d8eaf6a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b647f696d121670178ef823f41da437d8f1601439c12218ff72a16707e62e68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Previdência
+- Caixa Nacional de Pensões
+- Caixa Sindical de Previdência
+- CASA do POVO
+- CASA dos Pescadores
+- Junta Central das Casas dos Pescadores
+- Pensão de Invalidez
+- Pensão de Velhice
+- Segurança Social
+- Serviço de Transportes Colectivos do Porto
+- Subsídio de Natal
+- Trabalhador Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:653127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:653127:por
+  label: Substituído pelo(a) Decreto-Lei n.º 329/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25, nos seus
+    precisos termos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1993-653127
+  date: '1993-09-25'
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:46Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +128,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Será abonado, anualmente, a partir do corrente ano, aos pensionistas de invalidez, velhice e sobrevivência, indicados nas alíneas seguintes, um subsídio de Natal, a conceder em Dezembro, de valor igual à pensão mensal a que tenham direito em 1 desse mês:
+Artigo 1.º Será abonado, anualmente, a partir do corrente ano, aos pensionistas de invalidez, velhice e sobrevivência, indicados nas alíneas seguintes, um subsídio de Natal, a conceder em Dezembro, de valor igual à pensão mensal a que tenham direito em 1 desse mês:
 
 a) Pensionistas do regime geral da Caixa Nacional de Pensões;
 
@@ -114,14 +140,14 @@ d) Beneficiários do regime especial de previdência da Junta Central das Casas 
 
 e) Pensionistas com pensão atribuída ao abrigo do [Decreto-Lei n.º 391/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1972-691622), de 13 de Outubro.
 
-###### Art. 2.º Os encargos resultantes da execução do presente diploma serão suportados nos mesmos termos em que o são as próprias pensões atribuídas aos pensionistas referidos no artigo 1.º
+Art. 2.º Os encargos resultantes da execução do presente diploma serão suportados nos mesmos termos em que o são as próprias pensões atribuídas aos pensionistas referidos no artigo 1.º
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 12 de Dezembro de 1974.**
+Promulgado em 12 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

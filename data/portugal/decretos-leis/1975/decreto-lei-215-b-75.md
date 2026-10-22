@@ -22,12 +22,12 @@ publication:
   reference: Diário do Governo n.º 100/1975, 1º Suplemento, Série I de 1975-04-30
   number: '100'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 634-(2) a 634-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/10001/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-1975-345089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3576b6a5f10904a5e5ff81bf0ab2dd87f9bd99d7fda047433482aa781a3cad0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 945c8082fa60b80ae0805a1e27e518cba469da3ec41accf685cf973f868f141d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actividade Sindical
+- Associação Sindical
+- CASA do POVO
+- CASA dos Pescadores
+- Despedimento
+- Direito de Associação
+- Estatuto
+- Estatuto Jurídico
+- Horário de Trabalho
+- Liberdade Sindical
+- Patronato
+- Personalidade Jurídica
+- Quota Sindical
+- Regime Jurídico
+- Trabalhador
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312237:por
+  label: "Prorrogados por trinta dias os prazos previstos no art. 42º pelo DEC LEI.564/75.02.10.1975.MT, DG.IS [228] de 02.10.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1975-312237
+  date: '1975-10-02'
+- type: amended_by
+  target: pt:dre:507441:por
+  label: "Alterado o n.º 2 do artigo 11.º pelo DEC LEI.183/76.10.03.1976.MT, DG.IS [59] de 10.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1976-507441
+  date: '1976-03-10'
+- type: amended_by
+  target: pt:dre:558990:por
+  label: "Alterado o artigo 21.º pelo DEC LEI.841-B/76.07.12.1976.MT, DR.IS [285]Supl de 07.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/841-b-1976-558990
+  date: '1976-12-07'
+- type: amended_by
+  target: pt:dre:285278:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma do artigo 46.º, pelo AC.64/88.18.04.1988.TCS,\
+    \ DR.IS [90] de 18.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/64-1988-285278
+  date: '1988-04-18'
+- type: amended_by
+  target: pt:dre:377967:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do artigo 46.º, pelo AC.159/88.01.08.1988.TCS,\
+    \ DR.IS [176] de 01.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/159-1988-377967
+  date: '1988-08-01'
+- type: amended_by
+  target: pt:dre:144461:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes do n.º 3 do artigo 17.º e\
+    \ o artigo 46.º, pelo AC.449/91.16.01.1992.TCS, DR.IS-A [13] de 16.01.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/449-1992-144461
+  date: '1992-01-16'
+- type: amended_by
+  target: pt:dre:534593:por
+  label: "Alterado o art. 17º pela LEI.23/99.1999.04.21.AR, DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-1999-534593
+  date: '1999-04-21'
+- type: amended_by
+  target: pt:dre:594696:por
+  label: "Declarado inconstitucional, com força obrigatória geral, o nº 4 do art. 16º pelo AC.437/2000.24.11.2000.TCS, DR.IS-A\
+    \ [272] de 24.11.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/437-2000-594696
+  date: '2000-11-24'
+- type: repealed_by
+  target: pt:dre:409333:por
+  label: "Revogados os artigos 7.º, 9.º, 11.º e 12.º pelo DEC LEI.773/76.27.10.1976.PCM, DR.IS [252] de 27.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/773-1976-409333
+  date: '1976-10-27'
+- type: repealed_by
+  target: pt:dre:423061:por
+  label: "Revogado o art. 41.º e alterada a redacção dos arts. 38.º, 39.º e 40.º, pela LEI.118/99.1999.08.11.AR DR.IS-A [186]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor das normas regulamentares do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:09Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +179,9 @@ Usando os poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, d
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º O presente diploma regula o exercício da liberdade sindical por parte dos trabalhadores e será revisto dentro do prazo máximo de um ano, a contar da data da sua publicação.
+Artigo 1.º O presente diploma regula o exercício da liberdade sindical por parte dos trabalhadores e será revisto dentro do prazo máximo de um ano, a contar da data da sua publicação.
 
-###### Art. 2.º Para efeitos do presente diploma, entende-se por:
+Art. 2.º Para efeitos do presente diploma, entende-se por:
 
 a) Trabalhador - aquele que, mediante retribuição, presta a sua actividade a outra pessoa sob direcção desta;
 
@@ -127,39 +205,39 @@ j) Comissão intersindical de empresa - organização dos delegados das comissõ
 
 ### CAPÍTULO II — Da organização sindical
 
-###### Art. 3.º É assegurado aos trabalhadores o direito de associação sindical para defesa e promoção dos seus interesses sócio-profissionais.
+Art. 3.º É assegurado aos trabalhadores o direito de associação sindical para defesa e promoção dos seus interesses sócio-profissionais.
 
-###### Art. 4.º Compete às associações sindicais defender e promover a defesa dos direitos e interesses sócio-profissionais dos trabalhadores que representam e, designadamente:
+Art. 4.º Compete às associações sindicais defender e promover a defesa dos direitos e interesses sócio-profissionais dos trabalhadores que representam e, designadamente:
 
 a) Celebrar convenções colectivas de trabalho;
 
 b) Prestar serviços de carácter económico e social aos seus associados.
 
-###### Art. 5.º - 1. As associações sindicais não carecem de autorização para adquirir bens móveis e imóveis a título oneroso.
+Art. 5.º - 1. As associações sindicais não carecem de autorização para adquirir bens móveis e imóveis a título oneroso.
 
 2. São impenhoráveis os móveis e imóveis cuja utilização seja estritamente indispensável ao funcionamento das associações sindicais.
 
-###### Art. 6.º - 1. É proibido às entidades e organizações patronais ou a quaisquer organizações não sindicais promover a constituição, manter ou subsidiar, por quaisquer meios, associações sindicais ou, de qualquer modo, intervir na sua organização e direcção.
+Art. 6.º - 1. É proibido às entidades e organizações patronais ou a quaisquer organizações não sindicais promover a constituição, manter ou subsidiar, por quaisquer meios, associações sindicais ou, de qualquer modo, intervir na sua organização e direcção.
 
 2. As associações sindicais são independentes do Estado, dos partidos políticos e das instituições religiosas, sendo proibida qualquer ingerência destes na sua organização e direcção, bem como o seu recíproco financiamento.
 
 3. É incompatível o exercício de cargos em corpos gerentes de associações sindicais com o exercício de quaisquer cargos de direcção em partidos políticos ou instituições religiosas.
 
-###### Art. 7.º - 1. Os sindicatos podem associar-se em uniões e federações e numa confederação geral.
+Art. 7.º - 1. Os sindicatos podem associar-se em uniões e federações e numa confederação geral.
 
 2. As uniões, federações e a confederação geral representarão exclusivamente os sindicatos que tenham aprovado a sua constituição ou que a elas venham a aderir posteriormente, em ambos os casos por deliberação favorável tomada em assembleia geral.
 
 3. Os sindicatos e as demais associações sindicais não podem filiar-se em associações ou organizações sindicais estrangeiras ou internacionais, mas podem manter relações e cooperar com elas.
 
-###### Art. 8.º - 1. A assembleia constituinte de qualquer associação sindical deve ser e mostrar-se convocada em termos de ampla publicidade, com menção de hora, local e objecto, e a antecedência mínima de quinze dias.
+Art. 8.º - 1. A assembleia constituinte de qualquer associação sindical deve ser e mostrar-se convocada em termos de ampla publicidade, com menção de hora, local e objecto, e a antecedência mínima de quinze dias.
 
 2. A assembleia constituinte de qualquer sindicato deve realizar-se de modo a possibilitar a todos os interessados a livre expressão das suas opiniões e só poderá funcionar e deliberar validamente desde que reúna, no mínimo, 10% ou 2000 dos trabalhadores a abranger, devendo as presenças, após a necessária identificação, ser registadas em documento próprio, com termos de abertura e encerramento assinados pela respectiva mesa. As deliberações de constituir o sindicato e de aprovar os respectivos estatutos têm de ser tomadas por maioria simples dos trabalhadores presentes, e ainda a primeira por escrutínio secreto.
 
 3. A assembleia constituinte de qualquer união ou federação só poderá funcionar e deliberar validamente desde que reúna, no mínimo, um terço do total dos sindicatos da região ou da categoria, conforme o caso, devendo as deliberações de constituir a associação e de aprovar os respectivos estatutos ser tomadas por sindicatos que representem a maioria dos trabalhadores filiados nos sindicatos a abranger.
 
-###### Art. 9.º A confederação geral será constituída por deliberação de um congresso nacional de sindicatos convocado por aqueles que, uma vez publicados os seus novos estatutos, representem a maioria dos trabalhadores sindicalizados. As deliberações, em congresso, de constituir a confederação geral e de aprovar os respectivos estatutos deverão ser tomadas por sindicatos que representem a maioria dos trabalhadores sindicalizados em todo o País.
+Art. 9.º A confederação geral será constituída por deliberação de um congresso nacional de sindicatos convocado por aqueles que, uma vez publicados os seus novos estatutos, representem a maioria dos trabalhadores sindicalizados. As deliberações, em congresso, de constituir a confederação geral e de aprovar os respectivos estatutos deverão ser tomadas por sindicatos que representem a maioria dos trabalhadores sindicalizados em todo o País.
 
-###### Art. 10.º - 1. As associações sindicais adquirem personalidade jurídica pelo registo dos seus estatutos no Ministério do Trabalho.
+Art. 10.º - 1. As associações sindicais adquirem personalidade jurídica pelo registo dos seus estatutos no Ministério do Trabalho.
 
 2. O requerimento do registo de qualquer associação sindical será acompanhado de certidão ou fotocópia autenticada da acta da assembleia constituinte, das folhas de presenças e respectivos termos de abertura e encerramento e dos estatutos que tiverem sido aprovados.
 
@@ -171,11 +249,11 @@ b) Prestar serviços de carácter económico e social aos seus associados.
 
 6. As alterações dos estatutos ficam de igual modo sujeitas a registo. As que implicarem alteração dos requisitos mencionados nas alíneas a), d), g) e h) do artigo 14.º ficam ainda sujeitas ao formalismo e processamento previstos no artigo 8.º e no n.º 2 deste artigo, com as necessárias adaptações, além do mais previsto nos estatutos.
 
-###### Art. 11.º - 1. Não pode constituir-se qualquer associação sindical que vise representar trabalhadores cuja categoria se encontre já representada por uma associação sindical do mesmo tipo que abranja a respectiva área, com a única excepção das situações decorrentes da aplicação do artigo 12.º
+Art. 11.º - 1. Não pode constituir-se qualquer associação sindical que vise representar trabalhadores cuja categoria se encontre já representada por uma associação sindical do mesmo tipo que abranja a respectiva área, com a única excepção das situações decorrentes da aplicação do artigo 12.º
 
 2. A infracção ao disposto no número anterior confere a qualquer associação sindical legitimidade para, no prazo de um mês, a contar da data da publicação dos estatutos da associação infractora, requerer ao juiz do tribunal da comarca da sede desta associação a respectiva declaração judicial de extinção.
 
-###### Art. 12.º - 1. A sindicalização de um ramo de actividade, quando já existam sindicatos das respectivas categorias, pode ser feita por iniciativa desses sindicatos, mediante a criação de um novo sindicato ou a integração em um dos sindicatos existentes das categorias até então por ele não representadas.
+Art. 12.º - 1. A sindicalização de um ramo de actividade, quando já existam sindicatos das respectivas categorias, pode ser feita por iniciativa desses sindicatos, mediante a criação de um novo sindicato ou a integração em um dos sindicatos existentes das categorias até então por ele não representadas.
 
 2. Para a criação do novo sindicato ou a integração bastará que assim o deliberem as assembleias gerais dos sindicatos interessados ou, quando estes também representem categorias profissionais de outros ramos de actividade, as assembleias dos trabalhadores pertencentes ao ramo cuja sindicalização se pretende fazer, o mesmo se observando no caso de existirem categorias ainda não sindicalizadas.
 
@@ -185,9 +263,9 @@ b) Prestar serviços de carácter económico e social aos seus associados.
 
 5. Os sindicatos constituídos nos termos deste artigo poderão manter a representação dos associados não incluídos no novo âmbito, enquanto outras medidas de reestruturação os não abrangerem.
 
-###### Art. 13.º As associações sindicais regem-se por estatutos e regulamentos por elas celebrados, devendo os seus corpos gerentes ser eleitos livre e democraticamente de entre os associados.
+Art. 13.º As associações sindicais regem-se por estatutos e regulamentos por elas celebrados, devendo os seus corpos gerentes ser eleitos livre e democraticamente de entre os associados.
 
-###### Art. 14.º Com os limites dos artigos seguintes, os estatutos conterão e regularão:
+Art. 14.º Com os limites dos artigos seguintes, os estatutos conterão e regularão:
 
 a) A denominação, a localidade da sede, o âmbito subjectivo, objectivo e geográfico, os fins e a duração, quando a associação se não constitua por período indeterminado;
 
@@ -205,9 +283,9 @@ g) O processo de alteração dos estatutos;
 
 h) A extinção, dissolução e consequente liquidação e destino do respectivo património.
 
-###### Art. 15.º A denominação deve permitir a identificação do âmbito subjectivo, objectivo e geográfico da associação e não pode confundir-se com a denominação de outra associação existente.
+Art. 15.º A denominação deve permitir a identificação do âmbito subjectivo, objectivo e geográfico da associação e não pode confundir-se com a denominação de outra associação existente.
 
-###### Art. 16.º - 1. É direito do trabalhador inscrever-se no sindicato que na área da sua actividade represente a categoria respectiva.
+Art. 16.º - 1. É direito do trabalhador inscrever-se no sindicato que na área da sua actividade represente a categoria respectiva.
 
 2. Nenhum trabalhador pode ser simultaneamente representado a título da mesma profissão ou actividade por sindicatos diferentes.
 
@@ -215,7 +293,7 @@ h) A extinção, dissolução e consequente liquidação e destino do respectivo
 
 4. O trabalhador tem direito de retirar-se a todo o tempo do sindicato em que esteja filiado, mediante comunicação por escrito ao presidente da direcção, sem prejuízo do direito de o sindicato exigir o pagamento da quotização referente aos três meses seguintes ao da comunicação.
 
-###### Art. 17.º - 1. A gestão das associações sindicais deve respeitar os princípios de gestão democrática, nomeadamente as regras dos números seguintes.
+Art. 17.º - 1. A gestão das associações sindicais deve respeitar os princípios de gestão democrática, nomeadamente as regras dos números seguintes.
 
 2. Todo o sócio no gozo dos seus direitos sindicais tem o direito de participar na actividade da associação, incluindo o de eleger e ser eleito para os corpos gerentes e ser nomeado para qualquer cargo associativo, sem prejuízo de poderem estabelecer-se requisitos de idade e de tempo de inscrição.
 
@@ -237,63 +315,63 @@ h) A extinção, dissolução e consequente liquidação e destino do respectivo
 
 11. Os corpos gerentes podem ser destituídos por deliberação da assembleia geral, devendo os estatutos regular os termos da destitutição e da gestão da associação sindical até à eleição de novos corpos gerentes.
 
-###### Art. 18.º O regime disciplinar deve salvaguardar sempre o processo escrito e o direito de defesa do associado, e a pena de expulsão deve ser reservada para os casos de grave violação dos seus deveres fundamentais.
+Art. 18.º O regime disciplinar deve salvaguardar sempre o processo escrito e o direito de defesa do associado, e a pena de expulsão deve ser reservada para os casos de grave violação dos seus deveres fundamentais.
 
-###### Art. 19.º Em caso de dissolução de uma associação sindical, os respectivos bens não poderão ser distribuídos pelos associados.
+Art. 19.º Em caso de dissolução de uma associação sindical, os respectivos bens não poderão ser distribuídos pelos associados.
 
-###### Art. 20.º - 1. Os elementos de identificação dos membros dos corpos gerentes, bem como cópia da acta da assembleia eleitoral, devem ser enviados ao Ministério do Trabalho no prazo de dez dias após a eleição, para publicação num dos dois números imediatos no respectivo Boletim.
+Art. 20.º - 1. Os elementos de identificação dos membros dos corpos gerentes, bem como cópia da acta da assembleia eleitoral, devem ser enviados ao Ministério do Trabalho no prazo de dez dias após a eleição, para publicação num dos dois números imediatos no respectivo Boletim.
 
 2. O envio dos elementos referidos no número anterior cabe ao presidente da mesa da assembleia eleitoral.
 
-###### Art. 21.º - 1. Incumbe à entidade patronal proceder à cobrança e remessa aos sindicatos das quotas sindicais dos trabalhadores sindicalizados, deduzindo o seu montante das respectivas remunerações, salvo se as associações sindicais deliberarem diversamente.
+Art. 21.º - 1. Incumbe à entidade patronal proceder à cobrança e remessa aos sindicatos das quotas sindicais dos trabalhadores sindicalizados, deduzindo o seu montante das respectivas remunerações, salvo se as associações sindicais deliberarem diversamente.
 
 2. As convenções colectivas poderão regular de modo diferente a cobrança e remessa da importância das quotas.
 
-###### Art. 22.º - 1. As faltas dadas pelos membros da direcção das associações sindicais para desempenho das suas funções consideram-se faltas justificadas e contam para todos os efeitos, menos o da remuneração como tempo de serviço efectivo.
+Art. 22.º - 1. As faltas dadas pelos membros da direcção das associações sindicais para desempenho das suas funções consideram-se faltas justificadas e contam para todos os efeitos, menos o da remuneração como tempo de serviço efectivo.
 
 2. Para o exercício das suas funções cada membro da direcção beneficia do crédito de quatro dias por mês, mantendo o direito à remuneração.
 
 3. A direcção interessada deverá comunicar, por escrito, com um dia de antecedência, as datas e o número de dias de que os respectivos membros necessitam para o exercício das suas funções, ou, em caso de impossibilidade, nas quarenta e oito horas imediatas ao primeiro dia em que faltarem.
 
-###### Art. 23.º Os membros dos corpos gerentes das associações sindicais não podem ser transferidos de local de trabalho sem o seu acordo.
+Art. 23.º Os membros dos corpos gerentes das associações sindicais não podem ser transferidos de local de trabalho sem o seu acordo.
 
-###### Art. 24.º - 1. O despedimento dos trabalhadores candidatos aos corpos gerentes das associações sindicais, bem como dos que exerçam ou hajam exercido funções nos mesmos corpos gerentes há menos de cinco anos, com início em data posterior a 25 de Abril de 1974, presume-se feito sem justa causa.
+Art. 24.º - 1. O despedimento dos trabalhadores candidatos aos corpos gerentes das associações sindicais, bem como dos que exerçam ou hajam exercido funções nos mesmos corpos gerentes há menos de cinco anos, com início em data posterior a 25 de Abril de 1974, presume-se feito sem justa causa.
 
 2. O despedimento de que, nos termos do número anterior, se não prove justa causa dá ao trabalhador despedido o direito de optar entre a reintegração na empresa, com os direitos que tinha à data do despedimento, e uma indemnização correspondente ao dobro daquela que lhe caberia nos termos da lei, do contrato de trabalho ou da convenção colectiva aplicável, e nunca inferior à retribuição correspondente a doze meses de serviço.
 
 ### CAPÍTULO III — Do exercício da actividade sindical na empresa
 
-###### Art. 25.º Os trabalhadores e os sindicatos têm direito a desenvolver actividade sindical no interior da empresa, nomeadamente através de delegados sindicais, comissões sindicais e comissões intersindicais.
+Art. 25.º Os trabalhadores e os sindicatos têm direito a desenvolver actividade sindical no interior da empresa, nomeadamente através de delegados sindicais, comissões sindicais e comissões intersindicais.
 
-###### Art. 26.º Os trabalhadores podem reunir-se nos locais de trabalho, fora do horário normal, mediante convocação de um terço ou cinquenta dos trabalhadores da respectiva unidade de produção, ou da comissão sindical ou intersindical, sem prejuízo da normalidade da laboração, no caso de trabalho por turnos ou de trabalho extraordinário.
+Art. 26.º Os trabalhadores podem reunir-se nos locais de trabalho, fora do horário normal, mediante convocação de um terço ou cinquenta dos trabalhadores da respectiva unidade de produção, ou da comissão sindical ou intersindical, sem prejuízo da normalidade da laboração, no caso de trabalho por turnos ou de trabalho extraordinário.
 
-###### Art. 27.º - 1. Com ressalva do disposto na última parte do artigo anterior, os trabalhadores têm direito a reunir-se durante o horário normal de trabalho até um período máximo de quinze horas por ano, que contarão, para todos os efeitos, como tempo de serviço efectivo, desde que assegurem o funcionamento dos serviços de natureza urgente.
+Art. 27.º - 1. Com ressalva do disposto na última parte do artigo anterior, os trabalhadores têm direito a reunir-se durante o horário normal de trabalho até um período máximo de quinze horas por ano, que contarão, para todos os efeitos, como tempo de serviço efectivo, desde que assegurem o funcionamento dos serviços de natureza urgente.
 
 2. As reuniões referidas no número anterior só podem ser convocadas pela comissão intersindical ou pela comissão sindical, conforme os trabalhadores da empresa estejam ou não representados por mais do que um sindicato.
 
-###### Art. 28.º - 1. Os promotores das reuniões referidas nos artigos anteriores são obrigados a comunicar à entidade patronal e aos trabalhadores interessados, com a antecedência mínima de um dia, a data e hora em que pretendem que elas se efectuem, devendo afixar as respectivas convocatórias.
+Art. 28.º - 1. Os promotores das reuniões referidas nos artigos anteriores são obrigados a comunicar à entidade patronal e aos trabalhadores interessados, com a antecedência mínima de um dia, a data e hora em que pretendem que elas se efectuem, devendo afixar as respectivas convocatórias.
 
 2. Os dirigentes das organizações sindicais respectivas que não trabalhem na empresa podem participar nas reuniões mediante comunicação dirigida à entidade patronal com a antecedência mínima de seis horas.
 
-###### Art. 29.º - 1. Os delegados sindicais, titulares dos direitos atribuídos neste capítulo, serão eleitos e destituídos nos termos dos estatutos dos respectivos sindicatos, em escrutínio directo e secreto.
+Art. 29.º - 1. Os delegados sindicais, titulares dos direitos atribuídos neste capítulo, serão eleitos e destituídos nos termos dos estatutos dos respectivos sindicatos, em escrutínio directo e secreto.
 
 2. Nas empresas em que o número de delegados o justifique, ou que compreendam várias unidades de produção, podem constituir-se comissões sindicais de delegados.
 
 3. Sempre que numa empresa existam delegados de mais de um sindicato podem constituir-se comissões intersindicais de delegados.
 
-###### Art. 30.º - 1. Nas empresas ou unidades de produção com cento e cinquenta ou mais trabalhadores a entidade patronal é obrigada a pôr à disposição dos delegados sindicais, desde que estes o requeiram, e a título permanente, um local situado no interior da empresa, ou na sua proximidade, e que seja apropriado ao exercício das suas funções.
+Art. 30.º - 1. Nas empresas ou unidades de produção com cento e cinquenta ou mais trabalhadores a entidade patronal é obrigada a pôr à disposição dos delegados sindicais, desde que estes o requeiram, e a título permanente, um local situado no interior da empresa, ou na sua proximidade, e que seja apropriado ao exercício das suas funções.
 
 2. Nas empresas ou unidades de produção com menos de cento e cinquenta trabalhadores a entidade patronal é obrigada a pôr à disposição dos delegados sindicais, sempre que estes o requeiram, um local apropriado para o exercício das suas funções.
 
-###### Art. 31.º Os delegados sindicais têm o direito de afixar, no interior da empresa e em local apropriado, para o efeito reservado pela entidade patronal, textos, convocatórias, comunicações ou informações relativos à vida sindical e aos interesses sócio-profissionais dos trabalhadores, bem como proceder à sua distribuição, mas sem prejuízo, em qualquer dos casos, da laboração normal da empresa.
+Art. 31.º Os delegados sindicais têm o direito de afixar, no interior da empresa e em local apropriado, para o efeito reservado pela entidade patronal, textos, convocatórias, comunicações ou informações relativos à vida sindical e aos interesses sócio-profissionais dos trabalhadores, bem como proceder à sua distribuição, mas sem prejuízo, em qualquer dos casos, da laboração normal da empresa.
 
-###### Art. 32.º - 1. Cada delegado sindical dispõe, para o exercício das suas funções, de um crédito de horas que não pode ser inferior a cinco por mês, ou a oito, tratando-se de delegado que faça parte de comissão intersindical.
+Art. 32.º - 1. Cada delegado sindical dispõe, para o exercício das suas funções, de um crédito de horas que não pode ser inferior a cinco por mês, ou a oito, tratando-se de delegado que faça parte de comissão intersindical.
 
 2. O crédito de horas atribuído no número anterior é referido ao período normal de trabalho e conta, para todos os efeitos, como tempo de serviço efectivo.
 
 3. Os delegados, sempre que pretendam exercer o direito previsto neste artigo, deverão avisar, por escrito, a entidade patronal com a antecedência mínima de um dia.
 
-###### Art. 33.º - 1. O número máximo de delegados sindicais a quem são atribuídos os direitos referidos no artigo anterior é determinado da forma seguinte:
+Art. 33.º - 1. O número máximo de delegados sindicais a quem são atribuídos os direitos referidos no artigo anterior é determinado da forma seguinte:
 
 a) Empresa com menos de 50 trabalhadores sindicalizados - 1;
 
@@ -307,37 +385,37 @@ e) Empresa com 500 ou mais trabalhadores sindicalizados - o número de delegados
 
 2. O resultado apurado nos termos da alínea e) do número anterior será sempre arredondado para a unidade imediatamente superior.
 
-###### Art. 34.º Os delegados sindicais não podem ser transferidos de local de trabalho sem o seu acordo e sem o prévio conhecimento da direcção do sindicato respectivo.
+Art. 34.º Os delegados sindicais não podem ser transferidos de local de trabalho sem o seu acordo e sem o prévio conhecimento da direcção do sindicato respectivo.
 
-###### Art. 35.º - 1. O despedimento de trabalhadores que desempenhem funções de delegados sindicais, ou que as hajam desempenhado há menos de cinco anos, com início em data posterior a 25 de Abril de 1974, presume-se feito sem justa causa.
+Art. 35.º - 1. O despedimento de trabalhadores que desempenhem funções de delegados sindicais, ou que as hajam desempenhado há menos de cinco anos, com início em data posterior a 25 de Abril de 1974, presume-se feito sem justa causa.
 
 2. Não se provando justa causa de despedimento, aplicar-se-á o disposto no n.º 2 do artigo 24.º
 
-###### Art. 36.º - 1. As direcções dos sindicatos comunicarão à entidade patronal a identificação dos delegados sindicais, bem como daqueles que fazem parte de comissões sindicais e intersindicais de delegados, por meio de carta registada com aviso de recepção, de que será afixada cópia nos locais reservados às informações sindicais.
+Art. 36.º - 1. As direcções dos sindicatos comunicarão à entidade patronal a identificação dos delegados sindicais, bem como daqueles que fazem parte de comissões sindicais e intersindicais de delegados, por meio de carta registada com aviso de recepção, de que será afixada cópia nos locais reservados às informações sindicais.
 
 2. O mesmo procedimento deverá ser observado no caso de substituição ou cessação de funções.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 37.º É proibido e considerado nulo e de nenhum efeito todo o acordo ou acto que vise:
+Art. 37.º É proibido e considerado nulo e de nenhum efeito todo o acordo ou acto que vise:
 
 a) Subordinar o emprego do trabalhador à condição de este se filiar ou não se filiar numa associação sindical ou de se retirar daquela em que esteja inscrito;
 
 b) Despedir, transferir ou, por qualquer modo, prejudicar um trabalhador por motivo da sua filiação ou não filiação sindical ou das suas actividades sindicais.
 
-###### Art. 38.º - 1. As entidades ou organizações que violarem o disposto no artigo anterior e no artigo 6.º, n.os 1 e 2, serão punidas com multa de 10000$00 a 1000000$00.
+Art. 38.º - 1. As entidades ou organizações que violarem o disposto no artigo anterior e no artigo 6.º, n.os 1 e 2, serão punidas com multa de 10000$00 a 1000000$00.
 
 2. Os administradores, directores ou gerentes, e os trabalhadores que ocupem lugares de chefia, responsáveis pelos actos referidos no número anterior, serão punidos com pena de prisão de três dias a dois anos.
 
 3. Perdem as regalias que lhes são atribuídas por este diploma os dirigentes sindicais ou delegados sindicais que forem condenados nos termos do número anterior.
 
-###### Art. 39.º A entidade patronal que deixar de cumprir qualquer das obrigações que pelo presente diploma lhe são impostas ou que impedir ou dificultar o legítimo exercício da actividade sindical na respectiva empresa será punida com multa de 1000$00 a 200000$00, de acordo com a gravidade da infracção.
+Art. 39.º A entidade patronal que deixar de cumprir qualquer das obrigações que pelo presente diploma lhe são impostas ou que impedir ou dificultar o legítimo exercício da actividade sindical na respectiva empresa será punida com multa de 1000$00 a 200000$00, de acordo com a gravidade da infracção.
 
-###### Art. 40.º As infracções a este diploma não especialmente previstas serão punidas com multa de 1000$00 a 20000$00.
+Art. 40.º As infracções a este diploma não especialmente previstas serão punidas com multa de 1000$00 a 20000$00.
 
-###### Art. 41.º O produto das multas aplicadas ao abrigo dos artigos anteriores reverterá para o Fundo de Desemprego.
+Art. 41.º O produto das multas aplicadas ao abrigo dos artigos anteriores reverterá para o Fundo de Desemprego.
 
-###### Art. 42.º - 1. As associações sindicais constituídas até à entrada em vigor do presente diploma procederão, obrigatoriamente, sob pena de extinção, à revisão dos respectivos estatutos dentro do prazo de sessenta dias, e à eleição dos respectivos corpos gerentes dentro do prazo de cento e vinte dias, a contar, em ambos os casos, da data da entrada em vigor deste diploma.
+Art. 42.º - 1. As associações sindicais constituídas até à entrada em vigor do presente diploma procederão, obrigatoriamente, sob pena de extinção, à revisão dos respectivos estatutos dentro do prazo de sessenta dias, e à eleição dos respectivos corpos gerentes dentro do prazo de cento e vinte dias, a contar, em ambos os casos, da data da entrada em vigor deste diploma.
 
 2. O disposto no número anterior não se aplica à eleição dos corpos gerentes sempre que as associações sindicais a ela hajam procedido depois de 25 de Abril de 1974, com observância, comprovada pela respectiva acta, das regras consignadas no presente diploma.
 
@@ -345,42 +423,42 @@ b) Despedir, transferir ou, por qualquer modo, prejudicar um trabalhador por mot
 
 4. A revisão dos estatutos e a eleição dos corpos gerentes das associações sindicais impostas pelo n.º 1 ficam sujeitas às regras de gestão democrática estabelecidas no artigo 17.º e ao constante dos artigos seguintes, consoante o tipo de associação sindical.
 
-###### Art. 43.º - 1. As assembleias gerais para revisão dos estatutos dos sindicatos já constituídos só poderão deliberar validamente desde que reúnam, no mínimo, 10% do total ou 2000 dos respectivos associados, e as deliberações só serão válidas quando tomadas por maioria simples do total dos votos dos associados presentes.
+Art. 43.º - 1. As assembleias gerais para revisão dos estatutos dos sindicatos já constituídos só poderão deliberar validamente desde que reúnam, no mínimo, 10% do total ou 2000 dos respectivos associados, e as deliberações só serão válidas quando tomadas por maioria simples do total dos votos dos associados presentes.
 
 2. Quer a direcção, quer grupos não inferiores a 10% do total dos respectivos sindicalizados, ou a 100, terão a faculdade de apresentar nas assembleias gerais, para ali serem discutidos e votados, projectos de novos estatutos, desde que deles tenham feito entrega ao presidente da mesa da assembleia geral, ou quem as suas vezes fizer, com a antecipação mínima de dez dias relativamente à data marcada para a reunião da assembleia, a fim de que este os mande afixar em lugar bem visível da sede da associação de que se trate, por forma que todos os associados deles possam ter conhecimento prévio. Nos novos estatutos poderão ser consagradas quaisquer das medidas de reestruturação sindical previstas neste diploma.
 
 3. As listas completas de candidatos aos lugares da direcção, da mesa da assembleia geral e do conselho fiscal, se o houver, ou dos órgãos correspondentes, serão apresentadas ao presidente da mesa da assembleia geral, ou quem as suas vezes fizer, até dez dias antes da data marcada para a reunião, sendo atribuída a cada lista a letra correspondente à ordem alfabética da sua apresentação.
 
-###### Art. 44.º A revisão dos estatutos das uniões e federações e da confederação geral já constituídas deverá obedecer, respectivamente, ao dispostos no n.º 3 do artigo 8.º e no artigo 9.º
+Art. 44.º A revisão dos estatutos das uniões e federações e da confederação geral já constituídas deverá obedecer, respectivamente, ao dispostos no n.º 3 do artigo 8.º e no artigo 9.º
 
-###### Art. 45.º Até à publicação dos novos estatutos das associações sindicais de que tratam os artigos anteriores não poderão registar-se novas associações sindicais, excepto as resultantes das medidas de reestruturação sindical previstas na parte final do n.º 2 do artigo 43.º e do artigo 12.º deste diploma.
+Art. 45.º Até à publicação dos novos estatutos das associações sindicais de que tratam os artigos anteriores não poderão registar-se novas associações sindicais, excepto as resultantes das medidas de reestruturação sindical previstas na parte final do n.º 2 do artigo 43.º e do artigo 12.º deste diploma.
 
-###### Art. 46.º As associações sindicais ficam sujeitas ao regime geral do direito de associação em tudo o que não for contrariado pelo presente diploma.
+Art. 46.º As associações sindicais ficam sujeitas ao regime geral do direito de associação em tudo o que não for contrariado pelo presente diploma.
 
-###### Art. 47.º - 1. O contrôle da legalidade das associações sindicais competirá aos tribunais, nos termos da lei.
+Art. 47.º - 1. O contrôle da legalidade das associações sindicais competirá aos tribunais, nos termos da lei.
 
 2. Das decisões proferidas cabe recurso para o competente tribunal da relação, que julgará em definitivo.
 
-###### Art. 48.º O registo das associações sindicais só poderá ser cancelado mediante prévia comunicação e prova da sua extinção judicial ou voluntária.
+Art. 48.º O registo das associações sindicais só poderá ser cancelado mediante prévia comunicação e prova da sua extinção judicial ou voluntária.
 
-###### Art. 49.º - 1. As questões que surgirem sobre o enquadramento de trabalhadores nas categorias, ou destas na organização sindical, terão de ser, antes de os interessados recorrerem aos tribunais, submetidas por eles, mediante requerimento fundamentado, a parecer do órgão competente do Ministério do Trabalho.
+Art. 49.º - 1. As questões que surgirem sobre o enquadramento de trabalhadores nas categorias, ou destas na organização sindical, terão de ser, antes de os interessados recorrerem aos tribunais, submetidas por eles, mediante requerimento fundamentado, a parecer do órgão competente do Ministério do Trabalho.
 
 2. O parecer deverá ser notificado aos interessados dentro de trinta dias, a contar da data da entrada do requerimento no Ministério. Se o não for, ou qualquer dos interessados não concordar com ele, poderá então recorrer aos tribunais.
 
-###### Art. 50.º Lei especial regulará o exercício da liberdade sindical dos servidores do Estado, das autarquias locais e dos institutos públicos que não sejam empresas públicas ou estabelecimentos de natureza comercial ou industrial.
+Art. 50.º Lei especial regulará o exercício da liberdade sindical dos servidores do Estado, das autarquias locais e dos institutos públicos que não sejam empresas públicas ou estabelecimentos de natureza comercial ou industrial.
 
-###### Art. 51.º O número de trabalhadores de qualquer categoria profissional ou ramo de actividade será o constante das estatísticas do Ministério do Trabalho, que terá de o fornecer às entidades interessadas sempre que, para efeitos deste diploma, tal lhe seja requerido.
+Art. 51.º O número de trabalhadores de qualquer categoria profissional ou ramo de actividade será o constante das estatísticas do Ministério do Trabalho, que terá de o fornecer às entidades interessadas sempre que, para efeitos deste diploma, tal lhe seja requerido.
 
-###### Art. 52.º O que no presente diploma se dispõe não prejudica o estabelecido em cláusulas convencionais mais favoráveis às associações sindicais e aos trabalhadores.
+Art. 52.º O que no presente diploma se dispõe não prejudica o estabelecido em cláusulas convencionais mais favoráveis às associações sindicais e aos trabalhadores.
 
-###### Art. 53.º - 1. Fica revogada a legislação sobre associações sindicais, nomeadamente a que vincula os trabalhadores não sindicalizados ao pagamento obrigatório de quotas, ressalvado o disposto no n.º 4 do artigo 16.º
+Art. 53.º - 1. Fica revogada a legislação sobre associações sindicais, nomeadamente a que vincula os trabalhadores não sindicalizados ao pagamento obrigatório de quotas, ressalvado o disposto no n.º 4 do artigo 16.º
 
 2. Ficam ainda revogadas as normas relativas à representação profissional contidas na regulamentação das Casas do Povo e respectivas federações e das Casas dos Pescadores.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 30 de Abril de 1975.**
+Promulgado em 30 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

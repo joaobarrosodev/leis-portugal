@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 237/1962, 1º Suplemento, Série I de 1962-10-15
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1359 - 1362
   pdf_url: https://files.diariodarepublica.pt/1s/1962/10/23701/13591362.pdf
 entry_into_force_dates: []
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44632-1962-613178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68a274fe34eb2896cd36a3a05b38a5706b79a78804ce27fb21a4717f3b251ac6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8e408a9116ab5717fe8b3306f9f79cd72493954288b358378d7635f3f43d1ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Associação de Estudantes
+- Comissão Permanente das Organizações Circum Escolares do Ensino Superior
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral do Ensino Superior e das Belas Artes
+- Ensino Superior
+- Gestão Escolar
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:299609:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:156258:por
+  label: "Recitficado o art. 10º pela RECT.DD690.02.11.1962.PC, DG.IS [252] de 02.11.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1962-156258
+  date: '1962-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:42Z'
   warnings: []
   errors: []
 ---
@@ -125,19 +142,19 @@ Exposto assim, por forma sucinta, o pensamento geral que informa o presente decr
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada na Direcção-Geral do Ensino Superior e das Belas-Artes a Comissão Permanente das Organizações Circum-Escolares do Ensino Superior, à qual compete o estudo de todos os problemas respeitantes à vida circum-escolar dos alunos das escolas superiores dependentes do Ministério da Educação Nacional.
+Artigo 1.º É criada na Direcção-Geral do Ensino Superior e das Belas-Artes a Comissão Permanente das Organizações Circum-Escolares do Ensino Superior, à qual compete o estudo de todos os problemas respeitantes à vida circum-escolar dos alunos das escolas superiores dependentes do Ministério da Educação Nacional.
 
-###### Art. 2.º A Comissão será constituída, sob a presidência do director-geral, pelo reitor e por um estudante de cada uma das Universidades, por um director e por um estudante de escola superior não universitária e por seis vogais nomeados pelo Ministro da Educação Nacional de entre professores de ensino superior em qualquer situação que tenham dado provas de relevante interesse pelas questões cujo estudo compete à mesma Comissão.
+Art. 2.º A Comissão será constituída, sob a presidência do director-geral, pelo reitor e por um estudante de cada uma das Universidades, por um director e por um estudante de escola superior não universitária e por seis vogais nomeados pelo Ministro da Educação Nacional de entre professores de ensino superior em qualquer situação que tenham dado provas de relevante interesse pelas questões cujo estudo compete à mesma Comissão.
 
 § 1.º Os vogais estudantes universitários serão nomeados anualmente pelo Ministro, sob proposta do reitor da respectiva Universidade, depois de ouvidas as direcções das agremiações de estudantes legalmente constituídas. A proposta recairá num estudante que desempenhe ou tenha desempenhado funções directivas em qualquer das referidas agremiações.
 
 § 2.º O vogal estudante não universitário será escolhido pelo Ministro de entre os propostos pelos directores das escolas, nas condições do parágrafo anterior.
 
-###### Art. 3.º A Comissão poderá requisitar das instâncias competentes elementos indispensáveis ao estudo dos problemas sobre que houver de pronunciar-se.
+Art. 3.º A Comissão poderá requisitar das instâncias competentes elementos indispensáveis ao estudo dos problemas sobre que houver de pronunciar-se.
 
 § único. No mesmo sentido, poderá a referida Comissão convidar pessoas de reconhecida competência a colaborar nos respectivos trabalhos e a participar nas suas reuniões.
 
-###### Art. 4.º O serviço prestado pelos membros da Comissão que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
+Art. 4.º O serviço prestado pelos membros da Comissão que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
 
 § 1.º Aos vogais estudantes serão relevadas as faltas às aulas por motivo do serviço da Comissão.
 
@@ -145,13 +162,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º As disposições deste artigo são aplicáveis às pessoas convidadas nos termos do § único do artigo 3.º, com o acordo do Ministro competente.
 
-###### Art. 5.º A Comissão, sem prejuízo dos princípios fixados neste decreto-lei, terá sempre em conta as peculiaridades do meio académico e as tradições de cada uma das Universidades e escolas superiores do País.
+Art. 5.º A Comissão, sem prejuízo dos princípios fixados neste decreto-lei, terá sempre em conta as peculiaridades do meio académico e as tradições de cada uma das Universidades e escolas superiores do País.
 
-###### Art. 6.º Consideram-se organizações circum-escolares, além das reguladas por lei especial, as associações e fundações que se destinam a colaborar na acção educativa da escola, contribuindo especialmente para a formação humana, religiosa, cultural e física dos estudantes e para a resolução dos problemas referentes à sua habitação, alimentação e saúde.
+Art. 6.º Consideram-se organizações circum-escolares, além das reguladas por lei especial, as associações e fundações que se destinam a colaborar na acção educativa da escola, contribuindo especialmente para a formação humana, religiosa, cultural e física dos estudantes e para a resolução dos problemas referentes à sua habitação, alimentação e saúde.
 
-###### Art. 7.º O Estado reconhece e apoia todas as iniciativas legítimas tendentes à realização dos fins indicados no artigo anterior.
+Art. 7.º O Estado reconhece e apoia todas as iniciativas legítimas tendentes à realização dos fins indicados no artigo anterior.
 
-###### Art. 8.º O Estado estimulará e eventualmente poderá criar ou subsidiar refeitórios, colégios e residências para estudantes do ensino superior e outras organizações circum-escolares que dêem suficientes garantias:
+Art. 8.º O Estado estimulará e eventualmente poderá criar ou subsidiar refeitórios, colégios e residências para estudantes do ensino superior e outras organizações circum-escolares que dêem suficientes garantias:
 
 a) De preencher um fim útil no plano geral da educação e formação dos estudantes;
 
@@ -161,31 +178,31 @@ c) De continuidade na realização dos fins propostos.
 
 § único. As organizações de iniciativa oficial podem ser transferidas pelo Governo para a directa orientação e administração de entidades que dêem suficiente garantia de respeitar os objectivos que presidiram à sua criação e de assegurar a sua continuidade.
 
-###### Art. 9.º A participação dos estudantes nas organizações circum-escolares terá sempre carácter facultativo, salva a obrigatoriedade, ditada pelo interesse colectivo, de medidas respeitantes à saúde, que o Estado venha a estabelecer.
+Art. 9.º A participação dos estudantes nas organizações circum-escolares terá sempre carácter facultativo, salva a obrigatoriedade, ditada pelo interesse colectivo, de medidas respeitantes à saúde, que o Estado venha a estabelecer.
 
 § único. As organizações circum-escolares representam apenas os estudantes que nelas expressamente se tenham inscrito, sendo nulas de pleno direito quaisquer decisões ou deliberações suas que afectem a vida autónoma de outros organismos circum-escolares ou cerceiem os direitos e a liberdade individual dos estudantes como tais.
 
-###### Art. 10.º As actividades ou serviços circum-escolares em que estejam ou possam estar interessados todos os estudantes de um estabelecimento de ensino superior, independentemente da sua filiação ou inscrição em determinado organismo circum-escolar, podem a todo o tempo ser declarados pelo respectivo senado universitário ou conselho escolar como actividades ou serviços «de interesse geral».
+Art. 10.º As actividades ou serviços circum-escolares em que estejam ou possam estar interessados todos os estudantes de um estabelecimento de ensino superior, independentemente da sua filiação ou inscrição em determinado organismo circum-escolar, podem a todo o tempo ser declarados pelo respectivo senado universitário ou conselho escolar como actividades ou serviços «de interesse geral».
 
 § único. Quando uma actividade ou serviço circum-escolar for declarado «de interesse geral», será colocado na dependência das autoridades universitárias ou escolares e poderá ser dirigido sob a forma de gestão directa, co-gestão com os respectivos beneficiários, concessão ou exploração por um organismo circum-escolar.
 
-###### Art. 11.º As salas de convívio, refeitórios, bares, auditórios, teatros, salas de exposições, salas de conferências, campos de jogos, ginásios e demais instalações existentes quer nos edifícios escolares, quer em edifícios ou recintos próprios, para uso indistinto dos estudantes de uma Universidade ou de uma escola superior, ou para uso conjunto de diversos organismos circum-escolares, serão geridos pelas autoridades universitárias ou escolares, que para o efeito elaborarão os regulamentos necessários.
+Art. 11.º As salas de convívio, refeitórios, bares, auditórios, teatros, salas de exposições, salas de conferências, campos de jogos, ginásios e demais instalações existentes quer nos edifícios escolares, quer em edifícios ou recintos próprios, para uso indistinto dos estudantes de uma Universidade ou de uma escola superior, ou para uso conjunto de diversos organismos circum-escolares, serão geridos pelas autoridades universitárias ou escolares, que para o efeito elaborarão os regulamentos necessários.
 
-###### Art. 12.º Sem prejuízo da sua autonomia, as organizações circum-escolares são consideradas elementos orgânicos da Universidade ou escola a que se encontram adstritas e participarão na vida destas nos termos fixados, de acordo com a sua natureza e fins, pela legislação respectiva.
+Art. 12.º Sem prejuízo da sua autonomia, as organizações circum-escolares são consideradas elementos orgânicos da Universidade ou escola a que se encontram adstritas e participarão na vida destas nos termos fixados, de acordo com a sua natureza e fins, pela legislação respectiva.
 
-###### Art. 13.º Salvo o disposto em lei especial, a criação e funcionamento das organizações circum-escolares do ensino superior depende da aprovação dos respectivos estatutos.
+Art. 13.º Salvo o disposto em lei especial, a criação e funcionamento das organizações circum-escolares do ensino superior depende da aprovação dos respectivos estatutos.
 
 § 1.º A aprovação dos estatutos ou das suas alterações é da competência do Ministro da Educação Nacional, mediante parecer do director e do reitor, se se tratar de uma organização destinada a estudantes universitários, ou do director, nos outros casos, além do da Comissão Permanente das Organizações Circum-Escolares do Ensino Superior.
 
 § 2.º Na elaboração destes pareceres atender-se-á, em especial, à viabilidade do preenchimento dos fins propostos e às vantagens ou inconvenientes da concorrência com organizações similares já legalmente constituídas.
 
-###### Art. 14.º Os dirigentes das organizações circum-escolares, salvo o disposto em lei especial, entrarão em exercício logo que o Ministro da Educação Nacional haja sancionado a respectiva eleição ou nomeação.
+Art. 14.º Os dirigentes das organizações circum-escolares, salvo o disposto em lei especial, entrarão em exercício logo que o Ministro da Educação Nacional haja sancionado a respectiva eleição ou nomeação.
 
 § 1.º Para os efeitos indicados neste artigo deve o resultado da eleição ou da nomeação ser comunicado por escrito, no prazo de cinco dias, à autoridade académica (director ou reitor) em cujo âmbito a organização exerce a sua actividade, que, não tendo objecções a opor, o transmitirá ao Ministério da Educação Nacional, no mesmo prazo.
 
 § 2.º A eleição ou nomeação entender-se-á tàcitamente sancionada se o Ministro não se pronunciar no prazo de 30 dias, a contar da data em que dela tiver sido dado conhecimento ao Ministério da Educação Nacional.
 
-###### Art. 15.º Os dirigentes eleitos ou nomeados apenas poderão ser suspensos ou destituídos, mandando-se neste último caso proceder a nova eleição ou nomeação, se se desviarem dos fins estatutários ou orientarem a sua actividade contra a disciplina académica, a ordem social ou os superiores interesses do País.
+Art. 15.º Os dirigentes eleitos ou nomeados apenas poderão ser suspensos ou destituídos, mandando-se neste último caso proceder a nova eleição ou nomeação, se se desviarem dos fins estatutários ou orientarem a sua actividade contra a disciplina académica, a ordem social ou os superiores interesses do País.
 
 § 1.º A suspensão ou destituição poderá ser determinada pela autoridade académica em cujo âmbito a organização exerce a sua actividade (reitor ou director) ou pelo Ministro da Educação Nacional.
 
@@ -193,13 +210,13 @@ c) De continuidade na realização dos fins propostos.
 
 § 3.º As medidas previstas neste artigo são independentes do procedimento disciplinar ou outro que couber contra os responsáveis.
 
-###### Art. 16.º As organizações circum-escolares manterão a autoridade académica em cujo âmbito exercem a sua actividade (director ou reitor) ao corrente dos seus planos de acção e considerarão atentamente as sugestões e conselhos que a este propósito lhes forem dados.
+Art. 16.º As organizações circum-escolares manterão a autoridade académica em cujo âmbito exercem a sua actividade (director ou reitor) ao corrente dos seus planos de acção e considerarão atentamente as sugestões e conselhos que a este propósito lhes forem dados.
 
 § 1.º As conferências, concertos, exposições ou outras manifestações de carácter colectivo ou público dentro dos edifícios escolares e daqueles a que se refere o artigo 11.º dependem sempre de autorização prévia do respectivo reitor ou director.
 
 § 2.º As organizações e respectivos dirigentes que se desviarem do disposto neste artigo são passíveis das sanções previstas no artigo anterior.
 
-###### Art. 17.º Salvo o disposto em lei especial, as organizações circum-escolares carecem de autorização superior para coordenar as suas actividades culturais, sociais e de intercâmbio e ficam sujeitas às sanções previstas no artigo 15.º, caso a não requeiram ou dela se desviem.
+Art. 17.º Salvo o disposto em lei especial, as organizações circum-escolares carecem de autorização superior para coordenar as suas actividades culturais, sociais e de intercâmbio e ficam sujeitas às sanções previstas no artigo 15.º, caso a não requeiram ou dela se desviem.
 
 § 1.º A autorização será concedida:
 
@@ -211,7 +228,7 @@ c) Se se trata de organizações de diferentes Universidades ou escolas superior
 
 § 2.º Para o estudo dos problemas comuns às organizações circum-escolares de cada Universidade o reitor far-se-á assistir de um conselho constituído, sob a sua presidência, por professores e por estudantes que sejam dirigentes daquelas organizações.
 
-###### Art. 18.º As organizações circum-escolares que se dediquem a actividades desportivas procurarão estimular a sua prática dentro de uma sã orientação pedagógica e formativa, podendo organizar livremente entre si ou com outros agrupamentos escolares encontros desportivos sem características oficiais.
+Art. 18.º As organizações circum-escolares que se dediquem a actividades desportivas procurarão estimular a sua prática dentro de uma sã orientação pedagógica e formativa, podendo organizar livremente entre si ou com outros agrupamentos escolares encontros desportivos sem características oficiais.
 
 § 1.º A participação das referidas organizações em torneios ou campeonatos universitários, quer no âmbito da mesma escola ou Universidade, quer no plano nacional ou internacional, será superiormente orientada pela Inspecção Nacional do Desporto Universitário.
 
@@ -221,12 +238,12 @@ c) Se se trata de organizações de diferentes Universidades ou escolas superior
 
 § 4.º A participação nas práticas desportivas abrangidas por este artigo dependerá sempre de prévio exame médico favorável, feito pelo director clínico da organização ou por um centro escolar de medicina desportiva.
 
-###### Art. 19.º Salvo o disposto no artigo anterior, os assuntos respeitantes às organizações circum-escolares do ensino superior devem ser tratados com o Ministério da Educação Nacional por intermédio da direcção da escola ou reitoria respectivas e correm pela Direcção-Geral do Ensino Superior e das Belas-Artes.
+Art. 19.º Salvo o disposto no artigo anterior, os assuntos respeitantes às organizações circum-escolares do ensino superior devem ser tratados com o Ministério da Educação Nacional por intermédio da direcção da escola ou reitoria respectivas e correm pela Direcção-Geral do Ensino Superior e das Belas-Artes.
 
-###### Art. 20.º O disposto neste decreto-lei é aplicável às organizações circum-escolares do ensino superior já legalmente constituídas, cujos estatutos deverão receber as convenientes adaptações.
+Art. 20.º O disposto neste decreto-lei é aplicável às organizações circum-escolares do ensino superior já legalmente constituídas, cujos estatutos deverão receber as convenientes adaptações.
 
-###### Art. 21.º Fica revogado o [Decreto-Lei n.º 40900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40900-1956-299609), de 12 de Dezembro de 1956.
+Art. 21.º Fica revogado o [Decreto-Lei n.º 40900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40900-1956-299609), de 12 de Dezembro de 1956.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

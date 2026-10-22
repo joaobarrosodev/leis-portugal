@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/11/27200/18601866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,215 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 129e3a9feeb1438684ab3a2463519e8e41e897ef1be4f484618b56a74337fa26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65514b667d9250519d9c2e9082619cf18dd2da9131cb8e95fb9d157e8721f312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:187311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274635:por
+  label: "Alterado o art. 38º pelo DEC LEI.48355.26.04.1968.MNE, DG.IS [100] de 26.04.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48355-1968-274635
+  date: '1968-04-26'
+- type: amended_by
+  target: pt:dre:262324:por
+  label: "Extinta a Embaixada de Portugal em Karachi, prevista no mapa I anexo, pelo DEC LEI.48775.20.12.1968.MNE, DG.IS [299]\
+    \ de 20.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48775-1968-262324
+  date: '1968-12-20'
+- type: amended_by
+  target: pt:dre:262325:por
+  label: "Extinta a secção consular na Embaixada de Portugal em Karachi, prevista no mapa I anexo, pelo DEC.48776.20.12.1968.MNE,\
+    \ DG.IS [299] de 20.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48776-1968-262325
+  date: '1968-12-20'
+- type: amended_by
+  target: pt:dre:422177:por
+  label: "Alterada a estrutura da Direcção-Geral dos Serviços Centrais do Ministério dos Negócios Estrangeiro e aumentado\
+    \ de seis lugares de conselheiro de embaixada o quadro de pessoal do serviço diplomático publicado no anexo I pelo DEC\
+    \ LEI.225/73.12.05.1973.MNE, DG.IS [112] de 12.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-1973-422177
+  date: '1973-05-12'
+- type: amended_by
+  target: pt:dre:422179:por
+  label: "Dada nova redacção ao art. 11.º e ao § 3.º do art. 36.º, e acrescentado um lugar de ministro plenipotenciário ao\
+    \ quadro do serviço diplomático constante do anexo I pelo DEC LEI.226/73.12.05.1973.MNE, DG.IS [112] de 12.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1973-422179
+  date: '1973-05-12'
+- type: amended_by
+  target: pt:dre:412036:por
+  label: "Alterados os arts. 17º e 24º pelo DEC LEI.625/73.23.11.1973.MNE, DG.IS [274] de 23.11.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/625-1973-412036
+  date: '1973-11-23'
+- type: amended_by
+  target: pt:dre:476173:por
+  label: "Criada nova Secretaria de Estado no âmbito do Ministério dos Negócios Estrangeiros pelo DEC LEI.260/74.18.06.1974.PCM,\
+    \ DG.IS [140] de 18.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1974-476173
+  date: '1974-06-18'
+- type: amended_by
+  target: pt:dre:402961:por
+  label: "Alterados e revogados os arts. 27º a 31º e o art. 39º pelo DEC LEI.308/74.1974.07.06.MNE, DG.IS [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1974-402961
+  date: '1974-07-06'
+- type: amended_by
+  target: pt:dre:466046:por
+  label: "Alterado o art. 33º pelo DEC LEI.640/74.20.11.1974.MNE, DG.IS [270] de 20.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/640-1974-466046
+  date: '1974-11-20'
+- type: amended_by
+  target: pt:dre:310258:por
+  label: "Alterado o artigo 41.º pelo DEC LEI.649/75.18.11.1975.MNE, DG.IS [267] de 18.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/649-1975-310258
+  date: '1975-11-18'
+- type: amended_by
+  target: pt:dre:509022:por
+  label: "Dada nova redacção ao § 1º do art. 35º pelo DEC LEI.75-M/77.28.02.1977.MNE, DR.IS [49-Supl] de 28.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-m-1977-509022
+  date: '1977-02-28'
+- type: amended_by
+  target: pt:dre:295788:por
+  label: Alterado o art. 25.º, com a redação dada pelo Dec Lei 308/74 de 06-jul, pelo(a) Decreto-Lei n.º 83/78 - Diário da
+    República n.º 100/1978, Série I de 1978-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1978-295788
+  date: '1978-05-02'
+- type: amended_by
+  target: pt:dre:382815:por
+  label: "Dada nova redacção ao art. 21.º (alterado pelo Decreto-Lei n.º 308/74, de 6 de Julho) e aditado o art. 47º-A ao\
+    \ presente diploma, pelo DR.11/79.02.04.1979.MNE, DR.IS [77] de 02.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-1979-382815
+  date: '1979-04-02'
+- type: amended_by
+  target: pt:dre:366438:por
+  label: "Alterados os artigos 27.º a 31.º (na redacção do Decreto-Lei 308/74, de 06 de Julho) pelo DEC LEI.469/79.13.12.1979.MNE,\
+    \ DR.IS [286] de 13.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/469-1979-366438
+  date: '1979-12-13'
+- type: amended_by
+  target: pt:dre:457074:por
+  label: "Substituídos os quadros de pessoal da Secretaria de Estado, aprovados pelo presente diploma com as alterações que\
+    \ lhe foram introduzidas pelos Dec Leis 48518, de 06-Ago 1968, 672/70 de 31-Dez, 226/73 de 12-Mai, 410/73 de 20-Ago, 706/73\
+    \ de 28-Dez, 59/74 de 16-Fev, 308/74 de 06-Jul, 483/74 de 25-Set, 640/74 de 20-Nov e 97/75 de 01-Mar, pelo DR 42/77 de\
+    \ 17-Jun e pelos Dec Leis 264/77 de 01-Jul e 202/78 de 22-Jul, pela PORT.1096/80.1980.12.27.PCM, DR.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1096-1980-457074
+  date: '1980-12-27'
+- type: amended_by
+  target: pt:dre:394170:por
+  label: "Extinto um dos cargos a que se refere o § 2º do art. 7º, com a redacção dada pelo art. 1º do Dec Lei 308/74, de\
+    \ 06-Jul DEC LEI.276/82.1982.07.15.MNE, DR.IS [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1982-394170
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:374440:por
+  label: "Declarada a inconstitucionalidade do art. 37.º do presente diploma, pela RES.161/82.02.08.1982.CR, DR.IS [203] de\
+    \ 02.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/161-1982-374440
+  date: '1982-08-02'
+- type: amended_by
+  target: pt:dre:311007:por
+  label: "Alterados os arts. 37º e 38º, pelo DEC LEI.78/83.1983.02.09.MFP, DR.IS [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1983-311007
+  date: '1983-02-09'
+- type: amended_by
+  target: pt:dre:450805:por
+  label: "Alterado o artigo 32º pelo DEC LEI.183/83.09.05.1983.MNE, DR.IS [106] de 09.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1983-450805
+  date: '1983-05-09'
+- type: amended_by
+  target: pt:dre:451428:por
+  label: Alterados os arts. 28.º e 29.º pelo(a) Decreto-Lei n.º 206/83 - Diário da República n.º 117/1983, Série I de 1983-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1983-451428
+  date: '1983-05-21'
+- type: amended_by
+  target: pt:dre:245348:por
+  label: "Alterado o art. 26º e aditado um art. 26º-A pelo DEC LEI.235-G/83.01.06.1983.MNE, DR.IS [126-2ºSupl] de 01.06.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-g-1983-245348
+  date: '1983-06-01'
+- type: amended_by
+  target: pt:dre:152357:por
+  label: "Aditado um lugar de técnico superior de 1ª classe ao quadro de pessoal e extingue o lugar de redactor do boletim\
+    \ de informação criado pelo parágrafo 4º do art. 6º pelo DEC LEI.141/85.07.05.1985.MNE, DR.IS [104] de 07.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1985-152357
+  date: '1985-05-07'
+- type: amended_by
+  target: pt:dre:181034:por
+  label: "Alterado o nº 2 do art. 37º, na redacção que lhe foi dada pelo Dec Lei 78/83, de 09-Fev, pelo DEC LEI.340/85.1985.08.22.MNE,\
+    \ DR.IS [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1985-181034
+  date: '1985-08-22'
+- type: amended_by
+  target: pt:dre:261171:por
+  label: Alterado o art. 37º, na redacção que lhe foi dada pelo Dec Lei 78/83, de 09-Fev e 340/85, de 22-Ago, pelo DEC LEI.339-A/89.1989.10.06.MNE,
+    DR.IS [230]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-a-1989-261171
+  date: '1989-10-06'
+- type: cites
+  target: pt:dre:151102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186275:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608477:por
+  label: "Revogado o § 2º do art. 35º pelo DEC LEI.97/82.03.04.1982.MFP, DR.IS [78] de 03.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-1982-608477
+  date: '1982-04-03'
+- type: repealed_by
+  target: pt:dre:546608:por
+  label: "Revogado pelo DEC LEI.529/85.1985.12.31.MNE, DR.IS [301]8ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/529-1985-546608
+  date: '1985-12-31'
+- type: repealed_by
+  target: pt:dre:628060:por
+  label: "Revogados os arts. 5º e 6º, pelo DEC LEI.44-C/86.1986.03.07.MNE, DR.IS [55]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-c-1986-628060
+  date: '1986-03-07'
+- type: repealed_by
+  target: pt:dre:442483:por
+  label: Revogados os arts. 25.º, 26.º, 26.º-A, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º e 33.º do presente diploma, pelo(a) Decreto-Lei
+    n.º 34-A/89 - Diário da República n.º 26/1989, 2º Suplemento, Série I de 1989-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1989-442483
+  date: '1989-01-31'
+- type: repealed_by
+  target: pt:dre:500416:por
+  label: "Revogado na parte respeitante aos funcionários do serviço diplomático, a legislação que contarie o disposto no presente\
+    \ diploma, designadamente, as suas disposições, pelo DEC LEI.79/92.1992.05.06.MNE, DR.IS-A [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1992-500416
+  date: '1992-05-06'
 article_structure:
-  article_count: 1
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:10Z'
   warnings: []
   errors: []
 ---
@@ -93,23 +268,23 @@ Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da C
 
 ## TÍTULO I — Disposições gerais
 
-###### Artigo 1.º A direcção da actividade internacional do Estado, atribuída constitucionalmente ao Presidente da República, é exercida por intermédio do Ministro dos Negócios Estrangeiros e executada pelos serviços que constituem o Ministério dos Negócios Estrangeiros.
+Artigo 1.º A direcção da actividade internacional do Estado, atribuída constitucionalmente ao Presidente da República, é exercida por intermédio do Ministro dos Negócios Estrangeiros e executada pelos serviços que constituem o Ministério dos Negócios Estrangeiros.
 
-###### Art. 2.º Compete ao Ministério dos Negócios Estrangeiros conduzir as negociações internacionais e assegurar a representação nacional junto dos outros Estados e de todas as organizações internacionais.
+Art. 2.º Compete ao Ministério dos Negócios Estrangeiros conduzir as negociações internacionais e assegurar a representação nacional junto dos outros Estados e de todas as organizações internacionais.
 
-###### Art. 3.º O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado, as missões diplomáticas, os consulados e os serviços e missões oficiais no estrangeiro, permanentes ou temporárias, que não dependam, por lei especial, de outra entidade.
+Art. 3.º O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado, as missões diplomáticas, os consulados e os serviços e missões oficiais no estrangeiro, permanentes ou temporárias, que não dependam, por lei especial, de outra entidade.
 
 § único. A actividade das casas de Portugal e dos centros portugueses de informação será coordenada com a do Ministério dos Negócios Estrangeiros.
 
-###### Art. 4.º A Secretaria de Estado compreende a Secretaria-Geral, a Direcção-Geral dos Negócios Políticos, a Direcção-Geral dos Negócios Económicos e a Direcção-Geral dos Serviços Centrais.
+Art. 4.º A Secretaria de Estado compreende a Secretaria-Geral, a Direcção-Geral dos Negócios Políticos, a Direcção-Geral dos Negócios Económicos e a Direcção-Geral dos Serviços Centrais.
 
 § único. Fazem igualmente parte da Secretaria de Estado as comissões ou organismos cujo diploma de constituição preveja que devam funcionar junto do Ministério dos Negócios Estrangeiros, e que ficarão agregados ao serviço da Secretaria de Estado de cuja actividade sejam afins ou do designado pelo Ministro dos Negócios Estrangeiros.
 
 ## TÍTULO II — Da Secretaria-Geral
 
-###### Art. 5.º A Secretaria-Geral é o órgão coordenador da administração central do Ministério dos Negócios Estrangeiros e é dirigida pelo secretário-geral, com categoria de embaixador.
+Art. 5.º A Secretaria-Geral é o órgão coordenador da administração central do Ministério dos Negócios Estrangeiros e é dirigida pelo secretário-geral, com categoria de embaixador.
 
-###### Art. 6.º A Secretaria-Geral compreende os seguintes serviços:
+Art. 6.º A Secretaria-Geral compreende os seguintes serviços:
 
 Serviços Jurídicos e de Tratados;
 
@@ -123,7 +298,7 @@ Repartição do Arquivo e Biblioteca;
 
 #### Secção da Cifra;
 
-#### Secção do Expediente.
+Secção do Expediente.
 
 § 1.º Os Serviços Jurídicos e de Tratados são chefiados por um ministro plenipotenciário de 1.ª classe; os Serviços de Informação e Imprensa serão chefiados por um ministro plenipotenciário de 1.ª classe ou por um ministro plenipotenciário de 2.ª classe, consoante as conveniências de serviço, entendendo-se que o provimento do cargo numa das categorias implica o abatimento de uma unidade na outra categoria; os Serviços do Protocolo e a Inspecção Diplomática e Consular são chefiados por um ministro plenipotenciário de 2.ª classe.
 
@@ -135,13 +310,13 @@ Repartição do Arquivo e Biblioteca;
 
 ## TÍTULO III — Dos negócios políticos
 
-###### Art. 7.º Compete à Direcção-Geral dos Negócios Políticos dar efectividade à acção do Estado no plano internacional no que respeita aos assuntos de carácter político, assim como aos de carácter cultural, para o que instruirá os serviços externos do Ministério.
+Art. 7.º Compete à Direcção-Geral dos Negócios Políticos dar efectividade à acção do Estado no plano internacional no que respeita aos assuntos de carácter político, assim como aos de carácter cultural, para o que instruirá os serviços externos do Ministério.
 
 § 1.º A Direcção-Geral dos Negócios Políticos é chefiada por um director-geral, com categoria de ministro plenipotenciário de 1.ª classe.
 
 § 2.º O director-geral é assistido por dois adjuntos, com categoria de ministros plenipotenciários de 2.ª classe.
 
-###### Art. 8.º Constituem serviços da Direcção-Geral dos Negócios Políticos:
+Art. 8.º Constituem serviços da Direcção-Geral dos Negócios Políticos:
 
 Repartição da Europa e América;
 
@@ -151,19 +326,19 @@ Repartição das Relações Culturais Externas;
 
 Repartição das Organizações Políticas Internacionais;
 
-#### Secção do Pacto do Atlântico.
+Secção do Pacto do Atlântico.
 
 § único. Incumbe à Direcção-Geral dos Negócios Políticos a representação do Ministério dos Negócios Estrangeiros nas comissões interministeriais e outros organismos nacionais quando as atribuições destes abrangerem questões de natureza política e cultural.
 
 ## TÍTULO IV — Dos negócios económicos
 
-###### Art. 9.º Compete à Direcção-Geral dos Negócios Económicos dar efectividade à acção do Estado no plano internacional no que respeita aos assuntos de carácter económico, instruindo em conformidade os serviços externos do Ministério.
+Art. 9.º Compete à Direcção-Geral dos Negócios Económicos dar efectividade à acção do Estado no plano internacional no que respeita aos assuntos de carácter económico, instruindo em conformidade os serviços externos do Ministério.
 
 § 1.º A Direcção-Geral dos Negócios Económicos é chefiada por um director-geral, com categoria de ministro plenipotenciário de 1.ª classe.
 
 § 2.º O director-geral é assistido por dois adjuntos, com categoria de ministros plenipotenciários de 2.ª classe.
 
-###### Art. 10.º A Direcção-Geral dos Negócios Económicos é constituída pelas três repartições seguintes:
+Art. 10.º A Direcção-Geral dos Negócios Económicos é constituída pelas três repartições seguintes:
 
 Repartição da Europa e América;
 
@@ -175,11 +350,11 @@ Repartição das Organizações Económicas e Internacionais.
 
 ## TÍTULO V — Da vida administrativa
 
-###### Art. 11.º Compete à Direcção-Geral dos Serviços Centrais dar efectividade à acção do Estado no que respeita aos assuntos consulares e à situação dos portugueses no estrangeiro e ocupar-se das matérias relativas ao estatuto e situação dos funcionários do Ministério, à administração da Secretaria de Estado, das missões diplomáticas, dos consulados e dos bens do Estado confiados ao Ministério para os seus serviços em Portugal e no estrangeiro.
+Art. 11.º Compete à Direcção-Geral dos Serviços Centrais dar efectividade à acção do Estado no que respeita aos assuntos consulares e à situação dos portugueses no estrangeiro e ocupar-se das matérias relativas ao estatuto e situação dos funcionários do Ministério, à administração da Secretaria de Estado, das missões diplomáticas, dos consulados e dos bens do Estado confiados ao Ministério para os seus serviços em Portugal e no estrangeiro.
 
 § único. A Direcção-Geral dos Serviços Centrais é chefiada por um director-geral, com categoria de ministro plenipotenciário de 1.ª classe.
 
-###### Art. 12.º Constituem serviços da Direcção-Geral dos Serviços Centrais:
+Art. 12.º Constituem serviços da Direcção-Geral dos Serviços Centrais:
 
 Repartição Consular.
 
@@ -189,41 +364,41 @@ Repartição do Pessoal e da Administração.
 
 ## TÍTULO VI — Das missões diplomáticas e dos consulados
 
-###### Art. 13.º Os serviços externos do Ministério compreendem as missões diplomáticas, os consulados, as missões ou delegações, permanentes ou temporárias, dependentes do Ministério.
+Art. 13.º Os serviços externos do Ministério compreendem as missões diplomáticas, os consulados, as missões ou delegações, permanentes ou temporárias, dependentes do Ministério.
 
-###### Art. 14.º Cabe às missões diplomáticas a representação do Estado junto de outros Estados ou de organizações internacionais e a prossecução da actividade externa do Estado.
+Art. 14.º Cabe às missões diplomáticas a representação do Estado junto de outros Estados ou de organizações internacionais e a prossecução da actividade externa do Estado.
 
-###### Art. 15.º As missões diplomáticas são chefiadas por embaixadores ou por ministros plenipotenciários de 1.ª ou de 2.ª classe, que, independentemente do seu grau hierárquico, terão a designação e as honras inerentes à titularidade da missão que chefiam. Além do seu chefe, as missões compreenderão os funcionários diplomáticos, os conselheiros ou adidos técnicos e o pessoal burocrático ou administrativo que a conveniência do serviço impuser.
+Art. 15.º As missões diplomáticas são chefiadas por embaixadores ou por ministros plenipotenciários de 1.ª ou de 2.ª classe, que, independentemente do seu grau hierárquico, terão a designação e as honras inerentes à titularidade da missão que chefiam. Além do seu chefe, as missões compreenderão os funcionários diplomáticos, os conselheiros ou adidos técnicos e o pessoal burocrático ou administrativo que a conveniência do serviço impuser.
 
 § 1.º Quando o pessoal de uma missão diplomática não compreender funcionários diplomáticos de categoria igual ou superior à de ministro plenipotenciário de 2.ª classe, ou quando conveniências políticas o aconselharem, pode ao funcionário diplomático mais categorizado ser confiada a chefia dessa missão e ser-lhe atribuído o título de encarregado de negócios.
 
 § 2.º Junto das missões diplomáticas, e integradas nestas, poderão ser criadas secções consulares, que em tal caso substituirão os consulados.
 
-###### Art. 16.º Aos consulados cabem as funções que lhes são conferidas pelo direito consular interno e internacional, designadamente a protecção e expansão dos interesses económicos e comerciais de Portugal e protecção dos portugueses no estrangeiro.
+Art. 16.º Aos consulados cabem as funções que lhes são conferidas pelo direito consular interno e internacional, designadamente a protecção e expansão dos interesses económicos e comerciais de Portugal e protecção dos portugueses no estrangeiro.
 
-###### Art. 17.º Haverá as seguintes categorias de consulados: consulados-gerais e consulados de carreira de 1.ª, 2.ª e 3.ª classes, consulados geridos por agentes consulares nacionais não de carreira e consulados e vice-consulados honorários geridos por nacionais ou estrangeiros.
+Art. 17.º Haverá as seguintes categorias de consulados: consulados-gerais e consulados de carreira de 1.ª, 2.ª e 3.ª classes, consulados geridos por agentes consulares nacionais não de carreira e consulados e vice-consulados honorários geridos por nacionais ou estrangeiros.
 
-###### Art. 18.º A criação, modificação ou supressão de missões diplomáticas será feita por lei; a criação, modificação da categoria ou supressão dos consulados ou secções consulares serão feitas por decreto com assinatura conjunta dos Ministros das Finanças e dos Negócios Estrangeiros quando importarem dotação orçamental especial.
+Art. 18.º A criação, modificação ou supressão de missões diplomáticas será feita por lei; a criação, modificação da categoria ou supressão dos consulados ou secções consulares serão feitas por decreto com assinatura conjunta dos Ministros das Finanças e dos Negócios Estrangeiros quando importarem dotação orçamental especial.
 
-###### Art. 19.º Além das missões diplomáticas permanentes, poderá o Governo, por despacho do Ministro dos Negócios Estrangeiros, organizar e acreditar missões diplomáticas extraordinárias para efeitos de representação do Estado em solenidades efectuadas em países estrangeiros ou para participação em conferências ou congressos internacionais.
+Art. 19.º Além das missões diplomáticas permanentes, poderá o Governo, por despacho do Ministro dos Negócios Estrangeiros, organizar e acreditar missões diplomáticas extraordinárias para efeitos de representação do Estado em solenidades efectuadas em países estrangeiros ou para participação em conferências ou congressos internacionais.
 
 § 1.º A chefia destas missões poderá ser confiada a embaixadores ou a ministros plenipotenciários de 1.ª ou de 2.ª classe ou a entidades estranhas ao quadro diplomático. Neste último caso, estas entidades terão direito, durante o período de exercício da missão, à designação e às honras de chefe de missão diplomática.
 
 § 2.º Os demais membros das missões temporárias, quando não pertencerem ao serviço diplomático, gozarão durante o período de exercício dos privilégios e imunidades atribuídos aos funcionários com aquele estatuto.
 
-###### Art. 20.º Sem prejuízo da sua dependência administrativa e das atribuições que lhes cabem no domínio da sua competência, as casas de Portugal e os centros portugueses de informação, para efeitos de coordenação e execução dos objectivos da actividade internacional do Estado, receberão as directivas e demais indicações das missões diplomáticas acreditadas no país onde aqueles organismos desenvolverem as suas actividades.
+Art. 20.º Sem prejuízo da sua dependência administrativa e das atribuições que lhes cabem no domínio da sua competência, as casas de Portugal e os centros portugueses de informação, para efeitos de coordenação e execução dos objectivos da actividade internacional do Estado, receberão as directivas e demais indicações das missões diplomáticas acreditadas no país onde aqueles organismos desenvolverem as suas actividades.
 
 § único. A nomeação dos directores das casas de Portugal e dos centros portugueses de informação é feita por despacho conjunto do Presidente do Conselho de Ministros ou do Ministro da Economia e do Ministro dos Negócios Estrangeiros.
 
 ## TÍTULO VII — Do pessoal
 
-###### Art. 21.º A execução dos serviços internos e externos do Ministério dos Negócios Estrangeiros compete aos funcionários do serviço diplomático, ao pessoal do quadro administrativo e aos funcionários contratados ou eventuais que desempenhem funções no estrangeiro.
+Art. 21.º A execução dos serviços internos e externos do Ministério dos Negócios Estrangeiros compete aos funcionários do serviço diplomático, ao pessoal do quadro administrativo e aos funcionários contratados ou eventuais que desempenhem funções no estrangeiro.
 
 § 1.º A composição numérica dos quadros, segundo as diferentes categorias, será fixada por decreto conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
 
 § 2.º Compete igualmente aos mesmos funcionários a direcção e execução dos serviços das comissões e organismos previstos no artigo 4.º, § único, salvo o disposto no respectivo diploma de constituição.
 
-###### Art. 22.º O serviço diplomático compreende as seguintes categorias:
+Art. 22.º O serviço diplomático compreende as seguintes categorias:
 
 1.º Embaixadores;
 
@@ -243,7 +418,7 @@ Repartição do Pessoal e da Administração.
 
 § 2.º Dentro do serviço diplomático os funcionários podem ser livremente colocados na Secretaria de Estado, nas missões diplomáticas ou nos consulados-gerais e consulados, consoante as conveniências de serviço e a necessidade de assegurar a todos os funcionários o conhecimento dos diversos serviços do Ministério.
 
-###### Art. 23.º O quadro do pessoal administrativo da Secretaria de Estado é constituído:
+Art. 23.º O quadro do pessoal administrativo da Secretaria de Estado é constituído:
 
 a) Pelo pessoal burocrático, que compreende as seguintes categorias:
 
@@ -257,43 +432,43 @@ Correios, condutores de automóveis, porteiros, contínuos de 1.ª classe e cont
 
 § único. Os funcionários do quadro administrativo serão admitidos precedendo concurso de provas práticas e com exigência das habilitações estabelecidas na lei geral para a categoria de que se tratar.
 
-###### Art. 24.º Estranhos ao serviço diplomático, poderá haver quadros de conselheiros ou adidos com funções especializadas, cônsules, vice-cônsules, agentes consulares, chanceleres e os funcionários técnicos que forem considerados necessários à execução dos serviços diplomáticos e consulares.
+Art. 24.º Estranhos ao serviço diplomático, poderá haver quadros de conselheiros ou adidos com funções especializadas, cônsules, vice-cônsules, agentes consulares, chanceleres e os funcionários técnicos que forem considerados necessários à execução dos serviços diplomáticos e consulares.
 
-###### Art. 25.º A admissão no serviço diplomático depende da aprovação em concurso por provas públicas, a que só poderão ser candidatos os cidadãos portugueses originários, de sexo masculino, licenciados em Direito, História, Filosofia, Economia, Finanças ou pelo Instituto Superior de Ciências Sociais e Política Ultramarina, ou ainda diplomados em cursos de escolas superiores estrangeiras que sejam declarados pelo Ministério da Educação Nacional equivalentes a qualquer das referidas licenciaturas.
+Art. 25.º A admissão no serviço diplomático depende da aprovação em concurso por provas públicas, a que só poderão ser candidatos os cidadãos portugueses originários, de sexo masculino, licenciados em Direito, História, Filosofia, Economia, Finanças ou pelo Instituto Superior de Ciências Sociais e Política Ultramarina, ou ainda diplomados em cursos de escolas superiores estrangeiras que sejam declarados pelo Ministério da Educação Nacional equivalentes a qualquer das referidas licenciaturas.
 
-###### Art. 26.º As nomeações para o serviço diplomático serão feitas pela ordem de classificação no concurso e segundo as vagas existentes de terceiros-secretários.
+Art. 26.º As nomeações para o serviço diplomático serão feitas pela ordem de classificação no concurso e segundo as vagas existentes de terceiros-secretários.
 
 § 1.º Os nomeados sê-lo-ão com carácter provisório, por dois anos, com o título de adidos de embaixada, e prestarão serviço na Secretaria de Estado.
 
 § 2.º No fim de dois anos de serviço efectivo, os adidos de embaixada ingressarão no serviço diplomático como terceiros-secretários, ou serão exonerados, sem direito a indemnização, por proposta do conselho do Ministério, sobre a qual o Ministro dos Negócios Estrangeiros decidirá livremente.
 
-###### Art. 27.º A partir do ingresso no serviço diplomático, as promoções de terceiros-secretários de embaixada à categoria de segundo-secretário de embaixada, e desta categoria à de primeiro-secretário de embaixada, fazem-se por livre escolha entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente anterior.
+Art. 27.º A partir do ingresso no serviço diplomático, as promoções de terceiros-secretários de embaixada à categoria de segundo-secretário de embaixada, e desta categoria à de primeiro-secretário de embaixada, fazem-se por livre escolha entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente anterior.
 
-###### Art. 28.º A promoção a conselheiro de embaixada depende, além do período de três anos de bom e efectivo serviço como primeiro-secretário de embaixada, da aprovação em concurso de provas públicas.
+Art. 28.º A promoção a conselheiro de embaixada depende, além do período de três anos de bom e efectivo serviço como primeiro-secretário de embaixada, da aprovação em concurso de provas públicas.
 
 § único. A ordem das promoções respeitará a graduação das classificações em concurso; no caso de classificações idênticas, prevalecerá o critério da maior antiguidade; no caso de igual antiguidade, o conselho do Ministério formulará propostas, sendo possível, em lista tríplice, sobre a base do mérito relativo para os lugares a preencher.
 
-###### Art. 29.º A apresentação ao concurso para conselheiros de embaixada é obrigatória para os primeiros-secretários de embaixada com mais de dez anos de serviço e de três na sua categoria.
+Art. 29.º A apresentação ao concurso para conselheiros de embaixada é obrigatória para os primeiros-secretários de embaixada com mais de dez anos de serviço e de três na sua categoria.
 
 § único. O funcionário que, podendo fazê-lo, não se apresentar a dois concursos para conselheiro de embaixada será colocado na disponibilidade, ou aposentado, se a isso tiver direito.
 
-###### Art. 30.º A promoção a ministro plenipotenciário de 2.ª classe depende, além de três anos de bom e efectivo serviço como conselheiro de embaixada, da prestação durante a carreira de, pelo menos, dois anos de serviço na Secretaria de Estado, numa missão diplomática e num consulado.
+Art. 30.º A promoção a ministro plenipotenciário de 2.ª classe depende, além de três anos de bom e efectivo serviço como conselheiro de embaixada, da prestação durante a carreira de, pelo menos, dois anos de serviço na Secretaria de Estado, numa missão diplomática e num consulado.
 
-###### Art. 31.º As promoções referidas nos artigos anteriores não dependentes de concurso são propostas pelo conselho do Ministério, em lista tríplice, sempre que o número de candidatos o permita, sobre a base do melhor direito e da maior aptidão dos funcionários para o exercício do posto ou cargo superior, revelada pelas qualidades pessoais, pelos serviços prestados e pelos trabalhos por eles organizados ou publicados.
+Art. 31.º As promoções referidas nos artigos anteriores não dependentes de concurso são propostas pelo conselho do Ministério, em lista tríplice, sempre que o número de candidatos o permita, sobre a base do melhor direito e da maior aptidão dos funcionários para o exercício do posto ou cargo superior, revelada pelas qualidades pessoais, pelos serviços prestados e pelos trabalhos por eles organizados ou publicados.
 
 § 1.º Nenhum funcionário poderá ter mais de uma promoção no mesmo posto.
 
 § 2.º O Ministro justificará e fudamentará as decisões que se não conformarem com as propostas do conselho do Ministério.
 
-###### Art. 32.º Os ministros plenipotenciários de 1.ª classe são escolhidos pelo Ministro, na base da livre apreciação dos serviços prestados, entre os ministros plenipotenciários de 2.ª classe com três anos de bom e efectivo serviço nesta categoria.
+Art. 32.º Os ministros plenipotenciários de 1.ª classe são escolhidos pelo Ministro, na base da livre apreciação dos serviços prestados, entre os ministros plenipotenciários de 2.ª classe com três anos de bom e efectivo serviço nesta categoria.
 
-###### Art. 33.º Os embaixadores são nomeados, por livre escolha do Ministro, entre os ministros plenipotenciários de 1.ª classe, conforme as circunstâncias e atendendo aos méritos excepcionais do funcionário.
+Art. 33.º Os embaixadores são nomeados, por livre escolha do Ministro, entre os ministros plenipotenciários de 1.ª classe, conforme as circunstâncias e atendendo aos méritos excepcionais do funcionário.
 
 § único. A escolha de embaixadores pode igualmente ser feita de entre pessoas estranhas ao quadro do Ministério dos Negócios Estrangeiros que se hajam distinguido por sua capacidade e mérito, mas neste caso pertencerá ao Conselho de Ministros a nomeação.
 
-###### Art. 34.º Não há correspondência entre os graus hierárquicos dos funcionários do serviço diplomáticos e a designação e as honras das missões diplomáticas ou consulados que estes funcionários possam chefiar, e que são as que resultarem do direito internacional consuetudinário ou convencional.
+Art. 34.º Não há correspondência entre os graus hierárquicos dos funcionários do serviço diplomáticos e a designação e as honras das missões diplomáticas ou consulados que estes funcionários possam chefiar, e que são as que resultarem do direito internacional consuetudinário ou convencional.
 
-###### Art. 35.º Os funcionários do Ministério dos Negócios Estrangeiros têm direito aos vencimentos de categoria e exercício fixados na lei ou nos contratos e à aposentação, nos termos da lei comum aos funcionários públicos.
+Art. 35.º Os funcionários do Ministério dos Negócios Estrangeiros têm direito aos vencimentos de categoria e exercício fixados na lei ou nos contratos e à aposentação, nos termos da lei comum aos funcionários públicos.
 
 § 1.º Serão abonadas aos funcionários do seviço diplomático para despesas de representação as quantias inscritas no orçamento para esse fim. Estes abonos serão diferentes segundo a categoria, o estado civil do funcionário e o lugar em que exerçam as suas funções. Será igualmente inscrita no orçamento uma verba global de compensação, que será temporária e distribuída àqueles funcionários por despacho do Ministro.
 
@@ -301,7 +476,7 @@ Correios, condutores de automóveis, porteiros, contínuos de 1.ª classe e cont
 
 § 3.º Os funcionários do serviço diplomático transferidos para postos no estrangeiro ou entre postos no estrangeiro ou vindos a qualquer título do estrangeiro para a Secretaria serão abonados das despesas de transporte das pessoas e dos móveis e bagagens e de uma quantia fixa para despesas eventuais, também estabelecida segundo a sua categoria.
 
-###### Art. 36.º Os funcionários do Ministério serão submetidos ao regime geral das licenças dos funcionários públicos, com as particularidades seguintes:
+Art. 36.º Os funcionários do Ministério serão submetidos ao regime geral das licenças dos funcionários públicos, com as particularidades seguintes:
 
 § 1.º Será concedida licença registada, pelo período de 90 dias, aos funcionários que tenham completado 3 anos de bom e efectivo serviço nos postos situados em país estrangeiro. Não se conta a duração das viagens no prazo da licença quando não exceder 15 dias.
 
@@ -311,7 +486,7 @@ Correios, condutores de automóveis, porteiros, contínuos de 1.ª classe e cont
 
 § 4.º Os funcionários em gozo de licença registada têm direito, durante esta e as respectivas viagens, ao vencimento de categoria e exercício e por mês a 30 ou 40 por cento do duodécimo da verba fixada no orçamento para as suas despesas de representação, conforme se trate de chefes de missão ou de outras categorias de funcionários. Têm igualmente direito às despesas de viagem para si e para pessoas de família, nos termos definidos em regulamento.
 
-###### Art. 37.º Os funcionários do serviço diplomático podem ser colocados na disponibilidade, por conveniência de serviço, abrindo vaga.
+Art. 37.º Os funcionários do serviço diplomático podem ser colocados na disponibilidade, por conveniência de serviço, abrindo vaga.
 
 § 1.º O funcionário colocado na disponibilidade, com pelo menos cinco anos de serviço, perceberá um vencimento, inacumulável com outro vencimento ou pensão do Estado, calculado como o seria a sua aposentação para o número exacto de anos de serviço que lhe são contados; se tiver menos de cinco anos, não terá direito a vencimento algum.
 
@@ -321,39 +496,39 @@ Correios, condutores de automóveis, porteiros, contínuos de 1.ª classe e cont
 
 § 4.º Não é contado como tempo de serviço o que tiver sido passado na disponibilidade fora do serviço. Será, porém, esse tempo contado para o efeito de aposentação se, durante ele, o funcionário, percebendo vencimento, tiver pago a quota legal.
 
-###### Art. 38.º É aplicável aos funcionários do Ministério dos Negócios Estrangeiros para o serviço na Secretaria o limite de idade estabelecido na lei geral. Para o serviço permanente no estrangeiro esse limite será de 65 anos.
+Art. 38.º É aplicável aos funcionários do Ministério dos Negócios Estrangeiros para o serviço na Secretaria o limite de idade estabelecido na lei geral. Para o serviço permanente no estrangeiro esse limite será de 65 anos.
 
 § único. Os funcionários que atingirem o limite de idade para o serviço permanente no estrangeiro serão aposentados se tiverem 40 anos de serviço; no caso contrário poderão ser colocados na Secretaria, em lugar correspondente à sua categoria, se existir vaga, ou ser colocados na disponibilidade.
 
-###### Art. 39.º Os funcionários do serviço diplomático não podem contrair casamento sem autorização do Ministro.
+Art. 39.º Os funcionários do serviço diplomático não podem contrair casamento sem autorização do Ministro.
 
 § único. Os funcionários casados com cônjuge que não seja português originário não podem exercer quaisquer funções no país da nacionalidade de origem do outro cônjuge.
 
-###### Art. 40.º O exercício de qualquer cargo no Ministério dos Negócios Estrangeiros, quer na Secretaria de Estado, quer no estrangeiro, é incompatível e inacumulável com o exercício de outro cargo público do Estado ou dos corpos administrativos, nos termos da lei geral. O exercício dos cargos do Ministério na Secretaria de Estado ou no estrangeiro é incompatível e inacumulável com outra profissão ou cargo lucrativo e com o exercício de qualquer cargo ou emprego em empresas privadas, nacionais ou estrangeiras. É também proibido o exercício da advocacia e da procuradoria judicial.
+Art. 40.º O exercício de qualquer cargo no Ministério dos Negócios Estrangeiros, quer na Secretaria de Estado, quer no estrangeiro, é incompatível e inacumulável com o exercício de outro cargo público do Estado ou dos corpos administrativos, nos termos da lei geral. O exercício dos cargos do Ministério na Secretaria de Estado ou no estrangeiro é incompatível e inacumulável com outra profissão ou cargo lucrativo e com o exercício de qualquer cargo ou emprego em empresas privadas, nacionais ou estrangeiras. É também proibido o exercício da advocacia e da procuradoria judicial.
 
-###### Art. 41.º O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais e seus adjuntos e pelo inspector diplomático e consular.
+Art. 41.º O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais e seus adjuntos e pelo inspector diplomático e consular.
 
 § único. O chefe da Repartição do Pessoal e Administração será o secretário do conselho, sem voto.
 
 ## TÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 42.º Serão definidos em decreto regulamentar a competência e as atribuições dos órgãos e serviços mencionados no corpo do artigo 3.º
+Art. 42.º Serão definidos em decreto regulamentar a competência e as atribuições dos órgãos e serviços mencionados no corpo do artigo 3.º
 
 § único. Tal regulamentação incluirá a faculdade de delegação das competências administrativas do Ministro no secretário-geral ou nos directores-gerais, com excepção daquelas que por lei expressa não possam ser delegadas. A delegação será pessoal, durando até a cessação das funções do delegado ou do delegante.
 
-###### Art. 43.º Serão definidas em decreto regulamentar as condições de admissão aos concursos e de prestação de provas; igualmente de acordo com os princípios definidos no estatuto dos funcionários será elaborado decreto regulamentar com o estatuto dos funcionários do Ministério.
+Art. 43.º Serão definidas em decreto regulamentar as condições de admissão aos concursos e de prestação de provas; igualmente de acordo com os princípios definidos no estatuto dos funcionários será elaborado decreto regulamentar com o estatuto dos funcionários do Ministério.
 
-###### Art. 44.º A composição dos quadros, segundo as diferentes categorias, e a lista dos postos no estrangeiro são as constantes dos mapas anexos a este decreto-lei, e que para todos os efeitos constituem sua parte integrante.
+Art. 44.º A composição dos quadros, segundo as diferentes categorias, e a lista dos postos no estrangeiro são as constantes dos mapas anexos a este decreto-lei, e que para todos os efeitos constituem sua parte integrante.
 
-###### Art. 45.º O Ministro dos Negócios Estrangeiros fará publicar, por portaria no Diário do Governo, a lista dos funcionários do Ministério com a sua colocação nos postos ou funções estabelecidas por este diploma. Estas colocações não carecem de qualquer outra formalidade, nem de visto e posse, devendo os funcionários cuja colocação se mantenha na Secretaria de Estado considerar-se em exercício de funções desde a data da entrada em vigor da portaria que a eles se refira.
+Art. 45.º O Ministro dos Negócios Estrangeiros fará publicar, por portaria no Diário do Governo, a lista dos funcionários do Ministério com a sua colocação nos postos ou funções estabelecidas por este diploma. Estas colocações não carecem de qualquer outra formalidade, nem de visto e posse, devendo os funcionários cuja colocação se mantenha na Secretaria de Estado considerar-se em exercício de funções desde a data da entrada em vigor da portaria que a eles se refira.
 
-###### Art. 46.º É revogada a lei orgânica aprovada pelo [Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938, e o Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, e toda a legislação posterior que os alterou e seja contrária às disposições deste diploma. Será publicado novo Regulamento do Ministério dos Negócios Estrangeiros, em conformidade com o presente decreto-lei.
+Art. 46.º É revogada a lei orgânica aprovada pelo [Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938, e o Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, e toda a legislação posterior que os alterou e seja contrária às disposições deste diploma. Será publicado novo Regulamento do Ministério dos Negócios Estrangeiros, em conformidade com o presente decreto-lei.
 
-###### Art. 47.º Continuam em vigor os decretos-leis e decretos que constituíram delegações permanentes e posteriormente as alteraram e que foram abrangidas pelo artigo 14.º do presente diploma.
+Art. 47.º Continuam em vigor os decretos-leis e decretos que constituíram delegações permanentes e posteriormente as alteraram e que foram abrangidas pelo artigo 14.º do presente diploma.
 
-###### Art. 48.º O presente diploma entra em vigor no dia 1 de Janeiro de 1967.
+Art. 48.º O presente diploma entra em vigor no dia 1 de Janeiro de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quitanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -363,7 +538,7 @@ I
 
 Serviço diplomático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/27200/18601866.pdf))](https://files.diariodarepublica.pt/1s/1966/11/27200/18601866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/27200/18601866.pdf)
 
 II
 

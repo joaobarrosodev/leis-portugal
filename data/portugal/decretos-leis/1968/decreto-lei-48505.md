@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48505-1968-273634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 392b1f64c7630281a96be9792c60302c715f94130e3f8196f44148ee0e644041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cf498fac88cf7c006933dafaf69df87ff22a2106cfd87b9ac6bdc95a493acc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Estatuto
+- Jurisdição
+- Moçambique.Colónia Portuguesa
+- Ordem dos Engenheiros
+relationships:
+- type: cites
+  target: pt:dre:232568:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:265168:por
+  label: Rectificado o art.1.º pelo(a) Declaração - Diário do Governo n.º 200/1968, Série I de 1968-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1968-265168
+  date: '1968-08-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:11Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +110,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É tornada extensiva a Angola e Moçambique a jurisdição da Ordem dos Engenheiros, passando a vigorar nessas províncias o respectivo Estatuto, aprovado pelo [Decreto-Lei n.º 40774](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40774-1956-232568), de 8 de Setembro de 1956, no qual são revogados os artigos 96.º e 98.º e alterados os artigos 1.º, 5.º, 10.º, 15.º, 16.º, 17.º, 19.º, 22.º, 23.º, 25.º, 29.º, 34.º, 42.º, 43.º, 48.º, 49.º, 66.º, 77.º, 84.º, 85.º e 97.º (que passará a 96.º), que passam a ter a seguinte redacção:
+Artigo 1.º É tornada extensiva a Angola e Moçambique a jurisdição da Ordem dos Engenheiros, passando a vigorar nessas províncias o respectivo Estatuto, aprovado pelo [Decreto-Lei n.º 40774](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40774-1956-232568), de 8 de Setembro de 1956, no qual são revogados os artigos 96.º e 98.º e alterados os artigos 1.º, 5.º, 10.º, 15.º, 16.º, 17.º, 19.º, 22.º, 23.º, 25.º, 29.º, 34.º, 42.º, 43.º, 48.º, 49.º, 66.º, 77.º, 84.º, 85.º e 97.º (que passará a 96.º), que passam a ter a seguinte redacção:
 
-###### Artigo 1.º Denomina-se Ordem dos Engenheiros e tem a sua sede em Lisboa o organismo corporativo representativo dos diplomados em Engenharia que, de conformidade com os preceitos deste Estatuto e mais disposições legais aplicáveis, exercerem funções ou praticarem quaisquer actos próprios da profissão de engenheiro em território português.
+Artigo 1.º Denomina-se Ordem dos Engenheiros e tem a sua sede em Lisboa o organismo corporativo representativo dos diplomados em Engenharia que, de conformidade com os preceitos deste Estatuto e mais disposições legais aplicáveis, exercerem funções ou praticarem quaisquer actos próprios da profissão de engenheiro em território português.
 
 ...
 
-###### Art. 5.º A Ordem dos Engenheiros subdivide-se, territorialmente, nas cinco secções regionais seguintes:
+Art. 5.º A Ordem dos Engenheiros subdivide-se, territorialmente, nas cinco secções regionais seguintes:
 
 a) Lisboa, compreendendo as províncias do Ribatejo, Estremadura, Alto e Baixo Alentejo e Algarve e as ilhas adjacentes;
 
@@ -116,7 +130,7 @@ e) Lourenço Marques, compreendendo a província ultramarina de Moçambique.
 
 ...
 
-###### Art. 10.º A inscrição será pedida em requerimento assinado pelos interessados e dirigido ao presidente do conselho regional da secção em cuja área o requerente tiver o seu domicílio.
+Art. 10.º A inscrição será pedida em requerimento assinado pelos interessados e dirigido ao presidente do conselho regional da secção em cuja área o requerente tiver o seu domicílio.
 
 § 1.º O requerimento será acompanhado dos documentos exigidos pelos regulamentos.
 
@@ -132,7 +146,7 @@ e) Lourenço Marques, compreendendo a província ultramarina de Moçambique.
 
 ...
 
-###### Art. 15.º A assembleia geral reúne na sede da Ordem, em Lisboa, e é constituída por 90 delegados eleitos trienalmente pelas assembleias regionais, de entre os membros domiciliados nas respectivas secções, sendo 25 por Lisboa, 15 por Coimbra, 20 pelo Porto, 15 por Luanda e 15 por Lourenço Marques.
+Art. 15.º A assembleia geral reúne na sede da Ordem, em Lisboa, e é constituída por 90 delegados eleitos trienalmente pelas assembleias regionais, de entre os membros domiciliados nas respectivas secções, sendo 25 por Lisboa, 15 por Coimbra, 20 pelo Porto, 15 por Luanda e 15 por Lourenço Marques.
 
 § 1.º O número de engenheiros de qualquer especialidade em caso algum poderá exceder um quarto do total dos delegados que a cada assembleia regional compete designar.
 
@@ -140,11 +154,11 @@ e) Lourenço Marques, compreendendo a província ultramarina de Moçambique.
 
 § 3.º Os engenheiros com actividade comprovada em Angola ou Moçambique poderão representar as secções regionais de Luanda e Lourenço Marques, respectivamente, embora domiciliados na metrópole, desde que sejam eleitos nas assembleias regionais respectivas, nas quais devem estar inscritos, com prejuízo de inscrição na metrópole.
 
-###### Art. 16.º A assembleia geral reúne ordinàriamente uma vez em cada ano e extraordinàriamente por solicitação de dois terços dos seus componentes, do presidente da Ordem, do conselho geral, de qualquer dos conselhos regionais ou de um mínimo de 250 membros da Ordem, desde que, neste último caso, metade, pelo menos, não pertença à secção regional de Lisboa.
+Art. 16.º A assembleia geral reúne ordinàriamente uma vez em cada ano e extraordinàriamente por solicitação de dois terços dos seus componentes, do presidente da Ordem, do conselho geral, de qualquer dos conselhos regionais ou de um mínimo de 250 membros da Ordem, desde que, neste último caso, metade, pelo menos, não pertença à secção regional de Lisboa.
 
 § único. Quando dela não sejam membros, podem assistir às reuniões da assembleia geral e usar da palavra, sem voto deliberativo, os antigos presidentes da Ordem e da mesa da mesma assembleia.
 
-###### Art. 17.º A reunião ordinária efectuar-se-á no 1.º semestre de cada ano e destina-se:
+Art. 17.º A reunião ordinária efectuar-se-á no 1.º semestre de cada ano e destina-se:
 
 a) À discussão e votação do relatório e contas do conselho geral relativos ao ano civil anterior;
 
@@ -156,7 +170,7 @@ c) À eleição, trienalmente, do presidente da Ordem, dos representantes das di
 
 ...
 
-###### Art. 19.º As assembleias gerais, ordinárias ou extraordinárias, serão convocadas pelo respectivo presidente, com especificação do assunto ou assuntos a tratar e com antecedência de, pelo menos, 30 dias.
+Art. 19.º As assembleias gerais, ordinárias ou extraordinárias, serão convocadas pelo respectivo presidente, com especificação do assunto ou assuntos a tratar e com antecedência de, pelo menos, 30 dias.
 
 § 1.º O prazo referido no corpo deste artigo poderá ser reduzido para quinze dias quando o presidente da assembleia geral entender que as circunstâncias aconselham a urgência da convocação e o presidente da Ordem der a sua anuência.
 
@@ -164,9 +178,9 @@ c) À eleição, trienalmente, do presidente da Ordem, dos representantes das di
 
 ...
 
-###### Art. 22.º As assembleias regionais reúnem ordinàriamente uma vez em cada ano e extraordinàriamente quando a sua convocação for solicitada pelo presidente da Ordem, pelo conselho regional ou por um mínimo de 100 ou 50 membros, conforme se trate, respectivamente, das secções regionais de Lisboa e Porto ou das secções regionais de Coimbra, Luanda e Lourenço Marques.
+Art. 22.º As assembleias regionais reúnem ordinàriamente uma vez em cada ano e extraordinàriamente quando a sua convocação for solicitada pelo presidente da Ordem, pelo conselho regional ou por um mínimo de 100 ou 50 membros, conforme se trate, respectivamente, das secções regionais de Lisboa e Porto ou das secções regionais de Coimbra, Luanda e Lourenço Marques.
 
-###### Art. 23.º A reunião ordinária efectuar-se-á até fins do 1.º trimestre de cada ano e destina-se:
+Art. 23.º A reunião ordinária efectuar-se-á até fins do 1.º trimestre de cada ano e destina-se:
 
 a) À discussão e votação do relatório e contas dos respectivos conselhos regionais relativos ao ano civil anterior;
 
@@ -190,7 +204,7 @@ c) À eleição trienalmente:
 
 ...
 
-###### Art. 25.º As assembleias regionais serão convocadas pelos respectivos presidentes, com especificação do assunto ou assuntos a tratar e com antecedência de, pelo menos, 30 dias.
+Art. 25.º As assembleias regionais serão convocadas pelos respectivos presidentes, com especificação do assunto ou assuntos a tratar e com antecedência de, pelo menos, 30 dias.
 
 § 1.º Da convocação será sempre dado conhecimento ao presidente do conselho geral.
 
@@ -202,7 +216,7 @@ c) À eleição trienalmente:
 
 ...
 
-###### Art. 29.º O conselho geral é constituído por um presidente, que será o presidente da Ordem, e pelos seguintes membros:
+Art. 29.º O conselho geral é constituído por um presidente, que será o presidente da Ordem, e pelos seguintes membros:
 
 1.º Um representante de cada conselho regional;
 
@@ -218,7 +232,7 @@ c) À eleição trienalmente:
 
 ...
 
-###### Art. 34.º Compete aos conselhos regionais:
+Art. 34.º Compete aos conselhos regionais:
 
 1.º Inscrever os engenheiros domiciliados nas respectivas secções regionais, tendo em conta o disposto no § 3.º do artigo 15.º e no § 1.º do artigo 29.º, manter actualizado o quadro das inscrições dos engenheiros e informar o conselho geral das alterações verificadas nesse quadro;
 
@@ -252,9 +266,9 @@ c) À eleição trienalmente:
 
 ...
 
-###### Art. 42.º O conselho superior disciplinar é constituído por um magistrado judicial, designado pelo Conselho Corporativo, com audiência do Ministro da Justiça, o qual servirá de presidente, e por seis membros, eleitos trienalmente pelo conselho geral de entre engenheiros de reconhecido prestígio, diplomados há mais de quinze anos e pertencentes a especialidades diferentes, por forma que, pelo menos, três secções regionais nele fiquem representadas.
+Art. 42.º O conselho superior disciplinar é constituído por um magistrado judicial, designado pelo Conselho Corporativo, com audiência do Ministro da Justiça, o qual servirá de presidente, e por seis membros, eleitos trienalmente pelo conselho geral de entre engenheiros de reconhecido prestígio, diplomados há mais de quinze anos e pertencentes a especialidades diferentes, por forma que, pelo menos, três secções regionais nele fiquem representadas.
 
-###### Art. 43.º Os conselhos disciplinares regionais são constituídos por cinco membros, eleitos trienalmente pelo conselho regional de entre os engenheiros domiciliados na respectiva secção diplomados há mais de dez anos.
+Art. 43.º Os conselhos disciplinares regionais são constituídos por cinco membros, eleitos trienalmente pelo conselho regional de entre os engenheiros domiciliados na respectiva secção diplomados há mais de dez anos.
 
 § 1.º Sempre que possível, os membros do conselho disciplinar regional devem pertencer a especialidades diferentes.
 
@@ -264,7 +278,7 @@ c) À eleição trienalmente:
 
 ...
 
-###### Art. 48.º A votação é secreta e faz-se por lista.
+Art. 48.º A votação é secreta e faz-se por lista.
 
 § 1.º Nas eleições cometidas à assembleia geral haverá três listas separadas, uma para a votação do cargo de presidente, outra para os representantes das várias especialidades ao conselho geral e uma terceira para a votação da mesa da assembleia geral.
 
@@ -274,7 +288,7 @@ c) À eleição trienalmente:
 
 § 4.º Não serão contados os votos por correspondência que não sejam recebidos até à véspera, inclusive, do dia indicado para a eleição.
 
-###### Art. 49.º As votações só podem incidir, sobre as candidaturas apresentadas nos termos dos parágrafos seguintes:
+Art. 49.º As votações só podem incidir, sobre as candidaturas apresentadas nos termos dos parágrafos seguintes:
 
 § 1.º As candidaturas para os cargos de presidente da Ordem e representantes das diversas especialidades ao conselho geral, por um lado, e para a mesa da assembleia geral, por outro, deverão ser subscritas, respectivamente, por um mínimo de 80 e 50 membros e apresentadas até quinze dias antes da data da eleição.
 
@@ -300,7 +314,7 @@ d) As candidaturas devem ser apresentadas no no prazo referido na parte final do
 
 ...
 
-###### Art. 66.º As penas disciplinares são:
+Art. 66.º As penas disciplinares são:
 
 1.º Advertência;
 
@@ -322,7 +336,7 @@ d) As candidaturas devem ser apresentadas no no prazo referido na parte final do
 
 ...
 
-###### Art. 77.º As decisões proferidas pelo conselho superior disciplinar são susceptíveis de recurso para o Supremo Tribunal Administrativo, secção do contencioso do trabalho e previdência social, quando determinarem penas de expulsão ou de suspensão superiores a dois anos, aplicando-se a este recurso o que está disposto na lei geral em matéria de recursos de decisões disciplinares.
+Art. 77.º As decisões proferidas pelo conselho superior disciplinar são susceptíveis de recurso para o Supremo Tribunal Administrativo, secção do contencioso do trabalho e previdência social, quando determinarem penas de expulsão ou de suspensão superiores a dois anos, aplicando-se a este recurso o que está disposto na lei geral em matéria de recursos de decisões disciplinares.
 
 § 1.º O recurso pode ser interposto pelo presidente da Ordem, pelo magistrado que preside ao conselho ou pelos arguidos, nos 45 dias seguintes à notificação da decisão, por carta registada.
 
@@ -330,17 +344,17 @@ d) As candidaturas devem ser apresentadas no no prazo referido na parte final do
 
 ...
 
-###### Art. 84.º Na primeira semana de cada trimestre devem os conselhos disciplinares enviar ao Ministério das Corporações e Previdência Social, ao Ministério do Ultramar e ao presidente da Ordem nota dos processos disciplinares intentados, pendentes e julgados no trimestre anterior.
+Art. 84.º Na primeira semana de cada trimestre devem os conselhos disciplinares enviar ao Ministério das Corporações e Previdência Social, ao Ministério do Ultramar e ao presidente da Ordem nota dos processos disciplinares intentados, pendentes e julgados no trimestre anterior.
 
-###### Art. 85.º Todas as decisões proferidas em processos disciplinares serão imediatamente comunicadas, por cópia, ao presidente da Ordem e aos Ministérios das Corporações e Previdência Social e do Ultramar.
+Art. 85.º Todas as decisões proferidas em processos disciplinares serão imediatamente comunicadas, por cópia, ao presidente da Ordem e aos Ministérios das Corporações e Previdência Social e do Ultramar.
 
 ...
 
-###### Art. 96.º O esclarecimento das dúvidas resultantes da execução deste Estatuto e as decisões cometidas à jurisdição ministerial são da competência do Ministro das Corporações e Previdência Social, se respeitantes ao território da metrópole, e da competência conjunta do Ministério do Ultramar e do Ministro das Corporações e Previdência Social, se relativas aos das províncias ultramarinas.
+Art. 96.º O esclarecimento das dúvidas resultantes da execução deste Estatuto e as decisões cometidas à jurisdição ministerial são da competência do Ministro das Corporações e Previdência Social, se respeitantes ao território da metrópole, e da competência conjunta do Ministério do Ultramar e do Ministro das Corporações e Previdência Social, se relativas aos das províncias ultramarinas.
 
-###### Art. 2.º Os engenheiros residentes nas províncias ultramarinas onde ainda não é tornada extensiva a jurisdição da Ordem dos Engenheiros, poderão, se o desejarem e reunirem as condições estabelecidas no Estatuto, inscrever-se em qualquer das secções regionais existentes, passando a ter, nesse caso, todos os direitos e deveres correspondentes, excepto os que possam ser afectados pela distância.
+Art. 2.º Os engenheiros residentes nas províncias ultramarinas onde ainda não é tornada extensiva a jurisdição da Ordem dos Engenheiros, poderão, se o desejarem e reunirem as condições estabelecidas no Estatuto, inscrever-se em qualquer das secções regionais existentes, passando a ter, nesse caso, todos os direitos e deveres correspondentes, excepto os que possam ser afectados pela distância.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Marfins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

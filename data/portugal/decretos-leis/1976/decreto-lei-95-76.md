@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02500/02300236.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1976-507036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2be56206b91d208215746bc15c76ea9a4000e4a75fe6b44a4fc607b37e8cea97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80d08b463b73c1b340305f81b01feb761813aa090dd41c8597a598e91209defb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Imposto de Transacções
+- Isenção Fiscal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:509017:por
+  label: "Alterado o § 3º do art. 3º e substituídas as listas I, II, III e IV do Código do Imposto de Transacções aprovado\
+    \ pelo Dec Lei 47066 de 01-Jul de 1966, na última versão aprovada pelo presente diploma, pelo DEC LEI.75-G/77.28.02.1977.MF,\
+    \ DR.IS [49-Supl] de 28.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-g-1977-509017
+  date: '1977-02-28'
+- type: cites
+  target: pt:dre:212979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689182:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:143747:por
+  label: Rectificado pela DECL.DD8626.15.03.1976.PCM, DG.IS [63-3º Supl] de 15.03.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-143747
+  date: '1976-03-15'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:07Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +143,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São aprovadas as novas listas I, II, III e IV anexas ao presente decreto-lei, as quais se consideram inseridas no Código do Imposto de Transacções para todos os efeitos legais e que substituirão, a partir da data da entrada em vigor do presente diploma, as listas A, B e C aprovadas pelo [Decreto-Lei n.º 756/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), de 30 de Dezembro.
+Artigo 1.º - 1. São aprovadas as novas listas I, II, III e IV anexas ao presente decreto-lei, as quais se consideram inseridas no Código do Imposto de Transacções para todos os efeitos legais e que substituirão, a partir da data da entrada em vigor do presente diploma, as listas A, B e C aprovadas pelo [Decreto-Lei n.º 756/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), de 30 de Dezembro.
 
 2. As referências feitas no Código do Imposto de Transacções à lista A passarão a entender-se como referência à lista I.
 
-###### Art. 2.º Os artigos 3.º e 22.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
+Art. 2.º Os artigos 3.º e 22.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º Consideram-se produtores as pessoas singulares ou colectivas que produzam, fabriquem ou transformem mercadorias, sejam quais forem os processos ou meios utilizados, e, bem assim, as que mandem efectuar tais operações a terceiros quando lhes forneçam, para o efeito, matérias-primas.
 
@@ -122,7 +159,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 22.º A taxa do imposto é de 10%, salvo nas transacções compreendidas nas alíneas seguintes:
+Art. 22.º A taxa do imposto é de 10%, salvo nas transacções compreendidas nas alíneas seguintes:
 
 a) Mercadorias constantes da lista II anexa ao Código - taxa de 20%;
 
@@ -164,11 +201,11 @@ c) No caso do n.º 4.º - tributação pela taxa específica mais elevada.
 
 § 3.º Os concentrados de cerveja serão tributados pelo décuplo da taxa referida na alínea f) deste artigo.
 
-###### Art. 3.º - 1. Os valores e outros limites constantes de verbas das listas a que se refere o artigo 1.º poderão ser revistos por portaria do Secretário de Estado do Orçamento.
+Art. 3.º - 1. Os valores e outros limites constantes de verbas das listas a que se refere o artigo 1.º poderão ser revistos por portaria do Secretário de Estado do Orçamento.
 
 2. No caso de o Governo declarar em crise um sector económico, poderá o Secretário de Estado do Orçamento, ouvido o Ministro responsável por aquele sector, proceder, mediante portaria, à revisão do regime de taxas incidentes sobre os bens nele produzidos.
 
-###### Art. 4.º - 1. As alterações relativas ao imposto de transacções, constantes do presente decreto-lei, de que resultem agravamentos de taxas, não serão aplicáveis às transacções de mercadorias que venham a realizar-se depois da data da sua entrada em vigor, se resultarem de contratos escritos, considerados perfeitos em data anterior à deste diploma; ressalvam-se porém, os casos de estipulação de cláusula contratual prevendo a alteração dos preços inicialmente acordados, quer permitindo que lhes seja adicionado o imposto de transacções devido, quer assumindo alguma das partes, por qualquer forma, a responsabilidade do pagamento de encargos não especialmente mencionados.
+Art. 4.º - 1. As alterações relativas ao imposto de transacções, constantes do presente decreto-lei, de que resultem agravamentos de taxas, não serão aplicáveis às transacções de mercadorias que venham a realizar-se depois da data da sua entrada em vigor, se resultarem de contratos escritos, considerados perfeitos em data anterior à deste diploma; ressalvam-se porém, os casos de estipulação de cláusula contratual prevendo a alteração dos preços inicialmente acordados, quer permitindo que lhes seja adicionado o imposto de transacções devido, quer assumindo alguma das partes, por qualquer forma, a responsabilidade do pagamento de encargos não especialmente mencionados.
 
 2. Para os fins previstos neste artigo, são considerados perfeitos os contratos realizados com os serviços do Estado, incluindo os dotados de autonomia administrativa e financeira, com as autarquias locais, suas federações e uniões, com as pessoas colectivas declaradas de utilidade pública ou de utilidade pública administrativa, e ainda os que constem de documento autêntico ou autenticado em data anterior à da publicação do presente diploma, bem como os que constem de documento particular cuja data esteja comprovada pela morte de algum dos signatários ou pela sua apresentação em tribunal ou repartição pública.
 
@@ -180,17 +217,17 @@ c) No caso do n.º 4.º - tributação pela taxa específica mais elevada.
 
 6. O disposto neste artigo não é aplicável aos contratos com duração superior a um ano, quando a Direcção-Geral das Contribuições e Impostos, a cuja apreciação deverão ser submetidos dentro de trinta dias, não aceite como razoáveis ou usuais as respectivas cláusulas.
 
-###### Art. 5.º O disposto nos n.os 1 e 2 do artigo 17.º do [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), de 28 de Dezembro, é aplicável apenas às transacções tributadas pela taxa específica estabelecida na alínea f) do presente artigo.
+Art. 5.º O disposto nos n.os 1 e 2 do artigo 17.º do [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), de 28 de Dezembro, é aplicável apenas às transacções tributadas pela taxa específica estabelecida na alínea f) do presente artigo.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 19 de Janeiro de 1976.**
+Promulgado em 19 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Imposto de transacções
 
@@ -730,4 +767,4 @@ Compreendem-se, ainda, nesta verba os seguintes produtos de toucador e embelezam
 
 (nota a) Compreendem-se nesta verba as partes, peças e acessórios, quando reconhecíveis como exclusiva ou principalmente destinados aos bens indicados na mesma verba.
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

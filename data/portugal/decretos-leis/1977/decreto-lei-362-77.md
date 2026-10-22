@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20300/21082109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1977-286510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379b62121dad5c3aa6a93cdaa92951250d743244e4b8e332df88d5b33555b803
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a447c5cedfaf572f1efefdf1feaf81be8ebdb76193c5228a1a6e5900913f637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- PSP
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139973:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:54Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +111,9 @@ Verificando-se ter havido lapsos na redacção de algumas das disposições dos 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A redacção dos artigos 1.º e 3.º do [Decreto-Lei n.º 153/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1977-139960) passa a ser a seguinte:
+Artigo 1.º A redacção dos artigos 1.º e 3.º do [Decreto-Lei n.º 153/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1977-139960) passa a ser a seguinte:
 
-###### Artigo 1.º - 1. A Polícia de Segurança Pública da Madeira passa a ter os seguintes efectivos:
+Artigo 1.º - 1. A Polícia de Segurança Pública da Madeira passa a ter os seguintes efectivos:
 
 1) Pessoal policial masculino:
 
@@ -137,7 +155,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 3.º Numa segunda fase, a vigorar a partir de 1 de Janeiro de 1978, o quadro orgânico da PSP é aumentado do seguinte pessoal:
+Art. 3.º Numa segunda fase, a vigorar a partir de 1 de Janeiro de 1978, o quadro orgânico da PSP é aumentado do seguinte pessoal:
 
 1) Pessoal policial masculino:
 
@@ -161,9 +179,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 1 escriturário-dactilógrafo.
 
-###### Art. 2.º A redacção dos artigos 1.º e 3.º do [Decreto-Lei n.º 154/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1977-139973) passa a ser a seguinte:
+Art. 2.º A redacção dos artigos 1.º e 3.º do [Decreto-Lei n.º 154/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1977-139973) passa a ser a seguinte:
 
-###### Artigo 1.º - 1. A Polícia de Segurança Pública de Ponta Delgada passa a ter a seguinte constituição:
+Artigo 1.º - 1. A Polícia de Segurança Pública de Ponta Delgada passa a ter a seguinte constituição:
 
 1) Comando da PSP de Ponta Delgada, com os seguintes efectivos:
 
@@ -277,7 +295,7 @@ c) Pessoal civil:
 
 ...
 
-###### Art. 3.º Numa segunda fase, a vigorar a partir de 1 de Janeiro de 1978, o quadro orgânico da PSP e aumentado do seguinte pessoal:
+Art. 3.º Numa segunda fase, a vigorar a partir de 1 de Janeiro de 1978, o quadro orgânico da PSP e aumentado do seguinte pessoal:
 
 1) Pessoal policial masculino:
 
@@ -309,8 +327,8 @@ c) Pessoal civil:
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
 
-**Promulgado em 12 de Agosto de 1977.**
+Promulgado em 12 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

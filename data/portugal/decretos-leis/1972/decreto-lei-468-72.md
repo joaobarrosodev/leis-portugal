@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1972-686602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 093631994d1086d164792056807ab4ca0a1147904f7185ef9c26178574b09f81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dded390168b035377677c86c51db024fd8c09c6de92e8008e5ff9cc2da0c63ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Diuturnidades
+- Formas de Provimento
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:458389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160160:por
+  label: "Alterado o nº2 do art. 2º pelo DEC LEI.82/75.24.02.1975.MESA, DG.IS [46] de 24.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1975-160160
+  date: '1975-02-24'
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:39Z'
   warnings: []
   errors: []
 ---
@@ -96,28 +111,28 @@ Importa, porém, que esse pessoal tenha incentivos para a sua dedicação plena 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A forma de recrutamento e de provimento do pessoal do quadro do Laboratório Nacional de Engenharia Civil será fixada em decreto referendado pelo Ministro das Obras Públicas.
+Artigo 1.º A forma de recrutamento e de provimento do pessoal do quadro do Laboratório Nacional de Engenharia Civil será fixada em decreto referendado pelo Ministro das Obras Públicas.
 
-###### Art. 2.º - 1. Os especialistas do Laboratório Nacional de Engenharia Civil terão direito a uma diuturnidade ao fim de dez anos de serviço se a actividade exercida for de mérito reconhecido por júri para o efeito constituído e de harmonia com normas constantes de regulamento aprovado por portaria do Ministro das Obras Públicas.
+Art. 2.º - 1. Os especialistas do Laboratório Nacional de Engenharia Civil terão direito a uma diuturnidade ao fim de dez anos de serviço se a actividade exercida for de mérito reconhecido por júri para o efeito constituído e de harmonia com normas constantes de regulamento aprovado por portaria do Ministro das Obras Públicas.
 
 2. Para efeito de atribuição de diuturnidade será contado aos especialistas o tempo de serviço efectivamente prestado no Laboratório nessa categoria, bem como na categoria de especialista de 1.ª classe, constante do mapa anexo ao [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961.
 
 3. O valor da diuturnidade a que se refere o n.º 1 é igual a 25 por cento do vencimento de especialista.
 
-###### Art. 3.º No quadro do pessoal do Laboratório é suprimido um lugar de chefe de secção e um lugar de terceiro-oficial e criado um lugar de chefe de repartição.
+Art. 3.º No quadro do pessoal do Laboratório é suprimido um lugar de chefe de secção e um lugar de terceiro-oficial e criado um lugar de chefe de repartição.
 
-###### Art. 4.º Enquanto não houver indivíduos habilitados com certificado de estágio ou não forem realizados concursos de admissão ou promoção, nos quadros de pessoal técnico, de traduções ou administrativo, poderão ser feitas admissões em regime de contrato na classe ou categoria de entrada até ao quantitativo total das vagas existentes na categoria considerada e nas categorias a que essa dê acesso.
+Art. 4.º Enquanto não houver indivíduos habilitados com certificado de estágio ou não forem realizados concursos de admissão ou promoção, nos quadros de pessoal técnico, de traduções ou administrativo, poderão ser feitas admissões em regime de contrato na classe ou categoria de entrada até ao quantitativo total das vagas existentes na categoria considerada e nas categorias a que essa dê acesso.
 
-###### Art. 5.º São revogados os artigos 57.º e 60.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961.
+Art. 5.º São revogados os artigos 57.º e 60.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961.
 
-###### Art. 6.º A despesa resultante do disposto no artigo 2.º será suportada em conta das verbas atribuídas ao Laboratório Nacional de Engenharia Civil no orçamento em vigor.
+Art. 6.º A despesa resultante do disposto no artigo 2.º será suportada em conta das verbas atribuídas ao Laboratório Nacional de Engenharia Civil no orçamento em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 16 de Novembro de 1972.**
+Promulgado em 16 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

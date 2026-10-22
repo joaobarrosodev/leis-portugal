@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1970-141595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abd2c65d152a298a25d043cdc13eb671d34280d8b0c0f9bc21cbd3728cd13c53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ec7d1f72943709ef694d85db3b421f75b505d5a42198ce461f7ffb646ca3ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Naval
+- Embarcação
+- Importação
+- Pauta dos Direitos de Importação
+- Taxa
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:20Z'
   warnings: []
   errors: []
 ---
@@ -90,14 +95,14 @@ Considerando que, portanto, há necessidade de se recorrer à importação;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. No capítulo 89.º «Navegação marítima e fluvial» da Pauta de Importação é introduzida a seguinte nota preliminar:
+Artigo único. No capítulo 89.º «Navegação marítima e fluvial» da Pauta de Importação é introduzida a seguinte nota preliminar:
 
 *3. - Se a indústria nacional não se encontrar em condições de construir determinado tipo de embarcação, poderá o Ministro das Finanças, ouvidos os Ministérios da Economia e da Marinha, reduzir as taxas do presente capítulo na importação de embarcações que se reconheça haver interesse nacional na sua aquisição.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 1 de Julho de 1970.**
+Promulgado em 1 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40ff24a1892b3748664bda33d91c888c9df9b0452c5d1cb5fc8163b0a14b9ee5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b92e3b3cf7dbaa1b9c0344a2c9a6986442f9f7834c649bc596b342dd3db9bfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:22Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +160,7 @@ REGULAMENTO DO INSTITUTO DE HIGIENE E MEDICINA TROPICAL
 
 ## TÍTULO I — Das atribuições, competência e estatuto próprio
 
-###### Artigo 1.º - 1. O Instituto de Higiene e Medicina Tropical, criado pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, é um estabelecimento de ensino superior, cultura e investigação que funciona na dependência do Ministério do Ultramar, mantendo as mais estreitas ligações com as Universidades Portuguesas e continuando a acção sucessivamente desempenhada pela Escola de Medicina Tropical, Instituto de Medicina Tropical e Escola Nacional de Saúde Pública e de Medicina Tropical, de cujos bens, pessoal e historial é legítimo herdeiro e continuador, salvo as excepções indicadas no referido decreto-lei.
+Artigo 1.º - 1. O Instituto de Higiene e Medicina Tropical, criado pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, é um estabelecimento de ensino superior, cultura e investigação que funciona na dependência do Ministério do Ultramar, mantendo as mais estreitas ligações com as Universidades Portuguesas e continuando a acção sucessivamente desempenhada pela Escola de Medicina Tropical, Instituto de Medicina Tropical e Escola Nacional de Saúde Pública e de Medicina Tropical, de cujos bens, pessoal e historial é legítimo herdeiro e continuador, salvo as excepções indicadas no referido decreto-lei.
 
 2. Como estabelecimento de ensino, investigação e divulgação das ciências respeitantes aos campos da saúde pública e da medicina tropical, compete-lhe, além daquelas que, por diplomas especiais, lhe venham a ser confiadas, as seguintes funções:
 
@@ -114,7 +182,7 @@ h) Promover a actualização, a especialização e o aperfeiçoamento profission
 
 i) Difundir os conhecimentos relativos às matérias que constituem objecto das suas actividades.
 
-###### Art. 2.º Para a realização dos seus fins, compete designadamente ao Instituto:
+Art. 2.º Para a realização dos seus fins, compete designadamente ao Instituto:
 
 a) Professar os cursos considerados necessários nos campos da saúde pública e da medicina tropical;
 
@@ -138,21 +206,21 @@ j) Editar publicações próprias, designadamente os seus Anais;
 
 l) Aceitar subsídios, legados ou donativos de entidades nacionais, estrangeiras e internacionais.
 
-###### Art. 3.º Para melhor se assegurarem as relações de colaboração necessárias entre o Instituto e as Universidades portuguesas, poder-se-ão utilizar, reciproca
+Art. 3.º Para melhor se assegurarem as relações de colaboração necessárias entre o Instituto e as Universidades portuguesas, poder-se-ão utilizar, reciproca
 
 mente, os respectivos recursos, sobretudo no que respeita a pessoal docente e investigador.
 
-###### Art. 4.º O Instituto poderá solicitar de qualquer estabelecimento e serviços oficiais a colaboração que for tida por conveniente para o desempenho das suas
+Art. 4.º O Instituto poderá solicitar de qualquer estabelecimento e serviços oficiais a colaboração que for tida por conveniente para o desempenho das suas
 
 atribuições.
 
-###### Art. 5.º O Instituto goza de personalidade jurídica e de autonomia pedagógica, técnica e administrativa, sem prejuízo da orientação que for fixada superiormente no que respeita à criação de cursos, bem como à coordenação das actividades com os demais serviços públicos.
+Art. 5.º O Instituto goza de personalidade jurídica e de autonomia pedagógica, técnica e administrativa, sem prejuízo da orientação que for fixada superiormente no que respeita à criação de cursos, bem como à coordenação das actividades com os demais serviços públicos.
 
 ## TÍTULO II — Do pessoal
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 6.º - 1. Para o exercício das suas actividades o Instituto poderá dispor do seguinte pessoal:
+Art. 6.º - 1. Para o exercício das suas actividades o Instituto poderá dispor do seguinte pessoal:
 
 a) Pessoal constante do quadro anexo a este diploma e que dele faz parte integrante;
 
@@ -174,23 +242,23 @@ f) Pessoal eventual.
 
 5. Consideram-se abrangidas nas disposições do número anterior os prelectores que eventualmente sejam chamados a colaborar nos cursos e outros trabalhos escolares.
 
-###### Art. 7.º - 1. Logo que se encontre promulgado o estatuto da carreira de investigação referida no n.º 2 do artigo 11.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), e definidas as suas relações com a carreira docente, o Instituto proporá a criação e respectiva regulamentação do seu quadro privativo de investigadores.
+Art. 7.º - 1. Logo que se encontre promulgado o estatuto da carreira de investigação referida no n.º 2 do artigo 11.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), e definidas as suas relações com a carreira docente, o Instituto proporá a criação e respectiva regulamentação do seu quadro privativo de investigadores.
 
 2. Poderá, porém, o Instituto, desde já, para assegurar o desenvolvimento de estudos de interesse ou o funcionamento de secções ou laboratórios especializados, recorrer a técnicos nacionais ou estrangeiros em regime de contrato de prestação de serviços, com a designação de investigadores ou outra apropriada.
 
 3. Sempre que o Conselho Escolar entenda necessário, por manifesta conveniência ou motivos urgentes de serviço, os técnicos referidos no número antecedente poderão ser contratados por sobras das verbas do pessoal.
 
-###### Art. 8.º Os concursos para recrutamento de pessoal docente serão abertos pelo Instituto nos termos da legislação aplicável, após proposta do Conselho Escolar aprovada por despacho do Ministro do Ultramar.
+Art. 8.º Os concursos para recrutamento de pessoal docente serão abertos pelo Instituto nos termos da legislação aplicável, após proposta do Conselho Escolar aprovada por despacho do Ministro do Ultramar.
 
-###### Art. 9.º Os funcionários do Instituto que estejam deslocados da localidade da sede do respectivo serviço por motivo oficial têm direito ao abono das ajudas de custo e a transporte, nos termos e montantes estabelecidos para os funcionários públicos em geral.
+Art. 9.º Os funcionários do Instituto que estejam deslocados da localidade da sede do respectivo serviço por motivo oficial têm direito ao abono das ajudas de custo e a transporte, nos termos e montantes estabelecidos para os funcionários públicos em geral.
 
-###### Art. 10.º - 1. O período de trabalho das diversas categorias do pessoal, com excepção do pessoal docente, será fixado pelo director, de harmonia com a natureza e finalidade do serviço e segundo as directrizes que superiormente forem estabelecidas, dentro das normas fixadas para o funcionalismo.
+Art. 10.º - 1. O período de trabalho das diversas categorias do pessoal, com excepção do pessoal docente, será fixado pelo director, de harmonia com a natureza e finalidade do serviço e segundo as directrizes que superiormente forem estabelecidas, dentro das normas fixadas para o funcionalismo.
 
 2. Haverá relógios, livros ou folhas de ponto, nos quais os funcionários assinarão as suas entradas e saídas, excepto se se tratar de serviço externo, caso em que a assiduidade do pessoal será registada em documentos comprovativos do trabalho realizado e do tempo que para o efeito se tornou necessário.
 
-###### Art. 11.º O pessoal do Instituto poderá frequentar gratuitamente a consulta externa do serviço hospitalar a que se refere o artigo 71.º e terá direito a utilizar os serviços do Hospital do Ultramar nas condições fixadas para os funcionários do Ministério do Ultramar de igual categoria.
+Art. 11.º O pessoal do Instituto poderá frequentar gratuitamente a consulta externa do serviço hospitalar a que se refere o artigo 71.º e terá direito a utilizar os serviços do Hospital do Ultramar nas condições fixadas para os funcionários do Ministério do Ultramar de igual categoria.
 
-###### Art. 12.º - 1. Mediante despacho do director, poderão ser distribuídas batas ou outros resguardos apropriados ao pessoal cujas funções o justifique.
+Art. 12.º - 1. Mediante despacho do director, poderão ser distribuídas batas ou outros resguardos apropriados ao pessoal cujas funções o justifique.
 
 2. O pessoal nestas condições considerar-se-á fiel depositário desses artigos, respondendo pela sua existência e estado de conservação durante o período de duração que lhe estiver assinalado.
 
@@ -198,11 +266,11 @@ f) Pessoal eventual.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 13.º - 1. As categorias, funções, provimento, recrutamento, deveres e direitos do pessoal docente regular-se-ão pelas normas gerais em vigor nas Universidades metropolitanas, nomeadamente as definidas actualmente pelos Decretos-Leis n.os [132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março; [388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, e 301/72, de 14 de Agosto, convenientemente adaptadas às características do Instituto e quando de outro modo não seja indicado no presente Regulamento.
+Art. 13.º - 1. As categorias, funções, provimento, recrutamento, deveres e direitos do pessoal docente regular-se-ão pelas normas gerais em vigor nas Universidades metropolitanas, nomeadamente as definidas actualmente pelos Decretos-Leis n.os [132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março; [388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, e 301/72, de 14 de Agosto, convenientemente adaptadas às características do Instituto e quando de outro modo não seja indicado no presente Regulamento.
 
 2. Os casos omissos ou duvidosos serão resolvidos, na parte compatível e feitas as necessárias adaptações, de acordo com as disposições que vigorem para a Faculdade de Medicina de Lisboa ou, na sua falta ou impossibilidade de aplicação, segundo o parecer do Conselho Escolar, confirmado por despacho do Ministro do Ultramar.
 
-###### Art. 14.º - 1. O Ministro do Ultramar poderá autorizar, a pedido do interessado e após parecer favorável do Conselho Escolar, que um membro do corpo docente passe a trabalhar em regime de tempo completo ou dedicação exclusiva.
+Art. 14.º - 1. O Ministro do Ultramar poderá autorizar, a pedido do interessado e após parecer favorável do Conselho Escolar, que um membro do corpo docente passe a trabalhar em regime de tempo completo ou dedicação exclusiva.
 
 2. O regime de tempo completo exige a prestação de trinta e seis horas semanais de serviço ou a realização concreta de trabalhos de investigação cuja natureza e extensão fundamentem uma necessária ocupação além das funções pedagógicas e outras a elas inerentes.
 
@@ -218,7 +286,7 @@ b) Gratificações de regência;
 
 c) Subsídios e ajudas de custo por deslocações e missões de serviço.
 
-###### Art. 15.º - 1. Uma vez concedidos os regimes de tempo completo e dedicação exclusiva manter-se-ão enquanto não intervenha qualquer das seguintes causas de cessação:
+Art. 15.º - 1. Uma vez concedidos os regimes de tempo completo e dedicação exclusiva manter-se-ão enquanto não intervenha qualquer das seguintes causas de cessação:
 
 a) O interessado comunicar a sua desistência;
 
@@ -230,11 +298,11 @@ c) Verificar-se que o interessado não cumpriu o disposto nos n.os 2 e 3 do arti
 
 3. A verificação referida na alínea c) do número anterior implicará a devolução de quaisquer abonos indevidamente recebidos e poderá sujeitar o infractor a processo disciplinar.
 
-###### Art. 16.º Os casos omissos ou duvidosos referentes aos regimes acima definidos serão resolvidos de acordo com as normas que legalmente venham a ser estabelecidas pelo Ministro do Ultramar sobre parecer do Conselho Escolar.
+Art. 16.º Os casos omissos ou duvidosos referentes aos regimes acima definidos serão resolvidos de acordo com as normas que legalmente venham a ser estabelecidas pelo Ministro do Ultramar sobre parecer do Conselho Escolar.
 
 #### SECÇÃO II — Do pessoal auxiliar de ensino
 
-###### Art. 17.º - 1. Os assistentes eventuais e os assistentes livres serão recrutados entre os diplomados com um dos cursos professados no Instituto em cujo plano esteja incluída a disciplina em causa, ou entre os diplomados com um curso adequado de escola nacional ou estrangeira a que o Conselho Escolar confira a devida equivalência.
+Art. 17.º - 1. Os assistentes eventuais e os assistentes livres serão recrutados entre os diplomados com um dos cursos professados no Instituto em cujo plano esteja incluída a disciplina em causa, ou entre os diplomados com um curso adequado de escola nacional ou estrangeira a que o Conselho Escolar confira a devida equivalência.
 
 2. Poderão ainda ser admitidos, com o acordo prévio do Conselho Escolar, diplomados com um curso superior adequado que tenham frequentado, com aproveitamento mínimo de Bom, disciplinas do departamento a que concorrem.
 
@@ -246,15 +314,15 @@ c) Verificar-se que o interessado não cumpriu o disposto nos n.os 2 e 3 do arti
 
 6. Os assistentes livres não são remunerados por trabalhos docentes, mas podem sê-lo por tarefas de que forem encarregados pelo Conselho Escolar.
 
-###### Art. 18.º - 1. Os assistentes serão recrutados entre os assistentes eventuais com dois anos de serviço considerado satisfatório pelo Conselho Escolar, de acordo com informação do professor sob cuja direcção trabalharam.
+Art. 18.º - 1. Os assistentes serão recrutados entre os assistentes eventuais com dois anos de serviço considerado satisfatório pelo Conselho Escolar, de acordo com informação do professor sob cuja direcção trabalharam.
 
 2. A prorrogação para além do termo legal do contrato de um assistente que tenha requerido as provas de concurso para professor auxiliar, estender-se-á, no caso de vir a ser aprovado e proposto para o novo cargo, até à data em que venha a tomar posse.
 
-###### Art. 19.º - 1. Com vista a permitir ao Instituto a utilização de pessoal particularmente experiente e aos serviços a possibilidade de fornecer uma preparação especializada a pessoal necessário ao desenvolvimento e progresso das suas actividades, os médicos ou outros licenciados com curso adequado dos quadros dos serviços do ultramar poderão ser admitidos como assistentes eventuais, em comissão e regime de dedicação exclusiva, mediante proposta do Instituto, aprovada pelo Ministro do Ultramar, ouvida a Direcção-Geral interessada, depois de prévia consulta e anuência do Governo da respectiva província.
+Art. 19.º - 1. Com vista a permitir ao Instituto a utilização de pessoal particularmente experiente e aos serviços a possibilidade de fornecer uma preparação especializada a pessoal necessário ao desenvolvimento e progresso das suas actividades, os médicos ou outros licenciados com curso adequado dos quadros dos serviços do ultramar poderão ser admitidos como assistentes eventuais, em comissão e regime de dedicação exclusiva, mediante proposta do Instituto, aprovada pelo Ministro do Ultramar, ouvida a Direcção-Geral interessada, depois de prévia consulta e anuência do Governo da respectiva província.
 
 2. A situação prevista no número anterior poderá também verificar-se por proposta dos Governos das províncias ultramarinas, aprovada pelo Ministro do Ultramar, ouvida a Direcção-Geral interessada, depois de prévia consulta e anuência do Conselho Escolar do Instituto.
 
-###### Art. 20.º - 1. Os assistentes admitidos ao abrigo do disposto no artigo anterior estão sujeitos às mesmas obrigações e gozam dos mesmos direitos do restante pessoal, incluindo o de concorrer aos cargos docentes do Instituto, não podendo ser nomeados definitivamente sem ser autorizada a sua transferência para o quadro privativo do Instituto, após audição do Governo provincial interessado.
+Art. 20.º - 1. Os assistentes admitidos ao abrigo do disposto no artigo anterior estão sujeitos às mesmas obrigações e gozam dos mesmos direitos do restante pessoal, incluindo o de concorrer aos cargos docentes do Instituto, não podendo ser nomeados definitivamente sem ser autorizada a sua transferência para o quadro privativo do Instituto, após audição do Governo provincial interessado.
 
 2. Os professores das disciplinas que tenham pessoal nas condições previstas no artigo anterior elaborarão anualmente uma informação detalhada sobre as suas actividades, que será comunicada à Direcção-Geral interessada para apreciação e inclusão no processo individual do funcionário.
 
@@ -262,7 +330,7 @@ c) Verificar-se que o interessado não cumpriu o disposto nos n.os 2 e 3 do arti
 
 #### SECÇÃO III — Dos professores
 
-###### Art. 21.º - 1. Os lugares de professor auxiliar de cada disciplina são providos, mediante proposta do Conselho Escolar, por indivíduos aprovados em concurso de provas públicas, iguais às exigidas para a concessão de grau de doutor em Medicina e requerido pelo interessado nos termos para este caso fixados pela legislação universitária, conforme as disposições do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto.
+Art. 21.º - 1. Os lugares de professor auxiliar de cada disciplina são providos, mediante proposta do Conselho Escolar, por indivíduos aprovados em concurso de provas públicas, iguais às exigidas para a concessão de grau de doutor em Medicina e requerido pelo interessado nos termos para este caso fixados pela legislação universitária, conforme as disposições do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto.
 
 2. Podem requerer a prestação de provas, desde que satisfaçam as condições exigidas para admissão ao doutoramento:
 
@@ -272,11 +340,11 @@ b) Os assistentes livres que tenham sido assistentes dessa disciplina;
 
 c) Os antigos assistentes dessa disciplina com um mínimo de cinco anos de bom e efectivo serviço, incluindo o de assistente eventual.
 
-###### Art. 22.º - 1. O júri de concurso para professor auxiliar será presidido pelo director do Instituto e poderá incluir até um máximo de três vogais expressamente solicitados para o efeito ao Ministério da Educação Nacional, de acordo com deliberação do Conselho Escolar.
+Art. 22.º - 1. O júri de concurso para professor auxiliar será presidido pelo director do Instituto e poderá incluir até um máximo de três vogais expressamente solicitados para o efeito ao Ministério da Educação Nacional, de acordo com deliberação do Conselho Escolar.
 
 2. Ao concurso para professor auxiliar das disciplinas de Clínica das Doenças Tropicais e Dermatologia e Venereologia aplica-se o disposto no artigo 10.º, n.º 1, do [Decreto-Lei n.º 33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), de 6 de Fevereiro.
 
-###### Art. 23.º - 1. Aos concursos para professor extraordinário poderão concorrer:
+Art. 23.º - 1. Aos concursos para professor extraordinário poderão concorrer:
 
 a) Os professores auxiliares da mesma disciplina;
 
@@ -288,25 +356,25 @@ d) Os doutores cuja dissertação tenha versado assunto da disciplina a concurso
 
 e) Individualidades de cujo curriculum vitae constem trabalhos profissionais ou estudos científicos sobre matéria da disciplina ou do departamento, considerados de grande mérito por deliberação de dois terços do Conselho Escolar, baseada em relatório de professores nacionais ou estrangeiros da especialidade.
 
-###### Art. 24.º Os lugares de professor extraordinário poderão ser providos por transferência requerida por um professor extraordinário de disciplina afim, com obediência às normas estabelecidas para o recrutamento por transferência de professores catedráticos.
+Art. 24.º Os lugares de professor extraordinário poderão ser providos por transferência requerida por um professor extraordinário de disciplina afim, com obediência às normas estabelecidas para o recrutamento por transferência de professores catedráticos.
 
-###### Art. 25.º - 1. Aos concursos para professor catedrático podem concorrer os professores extraordinários da mesma disciplina.
+Art. 25.º - 1. Aos concursos para professor catedrático podem concorrer os professores extraordinários da mesma disciplina.
 
 2. Mediante parecer favorável de dois terços do Conselho Escolar poderão ainda ser admitidos a concurso professores extraordinários de outras disciplinas.
 
-###### Art. 26.º Os júris dos concursos para professor catedrático e extraordinário são presididos pelo director do Instituto.
+Art. 26.º Os júris dos concursos para professor catedrático e extraordinário são presididos pelo director do Instituto.
 
-###### Art. 27.º - 1. Quando o Conselho Escolar entender conveniente, os júris de concurso para professor catedrático e extraordinário poderão incluir professores das Universidades metropolitanas e ultramarinas, preferentemente de cadeiras correspondentes ou afins, expressamente solicitados para o efeito.
+Art. 27.º - 1. Quando o Conselho Escolar entender conveniente, os júris de concurso para professor catedrático e extraordinário poderão incluir professores das Universidades metropolitanas e ultramarinas, preferentemente de cadeiras correspondentes ou afins, expressamente solicitados para o efeito.
 
 2. As normas a seguir para as designações previstas no número anterior, bem como aquelas a que se refere o artigo 22.º, serão acordadas entre os Ministros competentes.
 
-###### Art. 28.º - 1. Uma vez nomeados definitivamente, os professores catedráticos e extraordinários não poderão ser deslocados das disciplinas a que concorreram, excepto quando autorizada uma transferência a seu pedido ou com a sua concordância.
+Art. 28.º - 1. Uma vez nomeados definitivamente, os professores catedráticos e extraordinários não poderão ser deslocados das disciplinas a que concorreram, excepto quando autorizada uma transferência a seu pedido ou com a sua concordância.
 
 2. Os professores catedráticos e extraordinários usarão trajo académico próprio nos termos fixados na [Portaria n.º 202/71](https://diariodarepublica.pt/dr/detalhe/portaria/202-1971-444749), de 19 de Abril, para os professores da Escola Nacional de Saúde Pública e de Medicina Tropical, atendidas as equivalências estabelecidas no [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), de 19 de Novembro.
 
-###### Art. 29.º Para efeitos de diuturnidade, contar-se-á o tempo de serviço prestado pelos professores do Instituto em comissão de serviço.
+Art. 29.º Para efeitos de diuturnidade, contar-se-á o tempo de serviço prestado pelos professores do Instituto em comissão de serviço.
 
-###### Art. 30.º - 1. O pessoal docente do Instituto, incluindo os assistentes com um mínimo de cinco anos de bom e efectivo serviço, incluindo o de assistente eventual, poderá ingressar nos cargos, para que tenha habilitações, dos quadros dos serviços do ultramar e outros organismos dependentes do Ministério do Ultramar, com dispensa de novos concursos e respeito, tanto quanto possível, pela categoria e antiguidade atingidas no Instituto.
+Art. 30.º - 1. O pessoal docente do Instituto, incluindo os assistentes com um mínimo de cinco anos de bom e efectivo serviço, incluindo o de assistente eventual, poderá ingressar nos cargos, para que tenha habilitações, dos quadros dos serviços do ultramar e outros organismos dependentes do Ministério do Ultramar, com dispensa de novos concursos e respeito, tanto quanto possível, pela categoria e antiguidade atingidas no Instituto.
 
 2. A aprovação no concurso para professor auxiliar de funcionários dos quadros dos serviços a que se refere o número anterior deverá ser por estes devidamente valorizada, quer no respeitante à atribuição de categorias, quer no respeitante à colocação em lugares onde a especialização adquirida possa ser aproveitada da melhor maneira.
 
@@ -316,13 +384,13 @@ e) Individualidades de cujo curriculum vitae constem trabalhos profissionais ou 
 
 #### SECÇÃO I — Do pessoal técnico
 
-###### Art. 31.º - 1. O médico chefe do serviço de vacinação será recrutado por concurso de provas públicas, documentais e práticas, aberto entre médicos diplomados com curso professado no Instituto, de harmonia com programas elaborados pelo júri.
+Art. 31.º - 1. O médico chefe do serviço de vacinação será recrutado por concurso de provas públicas, documentais e práticas, aberto entre médicos diplomados com curso professado no Instituto, de harmonia com programas elaborados pelo júri.
 
 2. O júri será constituído pelo director, que presidirá, e por dois professores designados pelo Conselho Escolar.
 
-###### Art. 32.º Os médicos adjuntos do serviço de vacinação serão recrutados segundo o regime estabelecido para o recrutamento dos assistentes eventuais.
+Art. 32.º Os médicos adjuntos do serviço de vacinação serão recrutados segundo o regime estabelecido para o recrutamento dos assistentes eventuais.
 
-###### Art. 33.º - 1. Os investigadores e os chefes de laboratório serão recrutados por concurso de provas públicas, documentais e práticas.
+Art. 33.º - 1. Os investigadores e os chefes de laboratório serão recrutados por concurso de provas públicas, documentais e práticas.
 
 2. Serão admitidos ao concurso todos os indivíduos habilitados com curso superior adequado, salvo tratando-se do lugar de chefe de laboratório de análises clínicas e de anatomia patológica, para que são exigíveis o título da respectiva especialidade e um curso professado no Instituto que inclua a disciplina de Clínica das Doenças Tropicais.
 
@@ -330,19 +398,19 @@ e) Individualidades de cujo curriculum vitae constem trabalhos profissionais ou 
 
 4. Aos funcionários referidos neste artigo poderá ser aplicado o regime de dedicação exclusiva, nas condições previstas nos artigos 14.º, 15.º e 16.º
 
-###### Art. 34.º - 1. O chefe dos serviços técnicos gerais será provido mediante concurso de provas públicas aberto entre indivíduos habilitados com os cursos adequados das escolas industriais.
+Art. 34.º - 1. O chefe dos serviços técnicos gerais será provido mediante concurso de provas públicas aberto entre indivíduos habilitados com os cursos adequados das escolas industriais.
 
 2. O júri do concurso será constituído pelo director, que presidirá, e por dois vogais por ele designados, com autorização ministerial, de entre indivíduos idóneos, pertencentes ou não aos serviços públicos.
 
 3. Ficando deserto o concurso, far-se-á o provimento por contrato entre indivíduos com as habilitações referidas no n.º 1 deste artigo.
 
-###### Art. 35.º - 1. O adjunto do chefe dos serviços técnicos gerais será provido por concurso de provas públicas, ou por contrato, independentemente de concurso, entre indivíduos com o mínimo de escolaridade obrigatória, segundo a idade, que demonstrem aptidão técnica para o exercício das respectivas funções.
+Art. 35.º - 1. O adjunto do chefe dos serviços técnicos gerais será provido por concurso de provas públicas, ou por contrato, independentemente de concurso, entre indivíduos com o mínimo de escolaridade obrigatória, segundo a idade, que demonstrem aptidão técnica para o exercício das respectivas funções.
 
 2. O júri será constituído nos termos do n.º 2 do artigo anterior.
 
-###### Art. 36.º Ao recrutamento do desenhador é aplicável o disposto no artigo anterior.
+Art. 36.º Ao recrutamento do desenhador é aplicável o disposto no artigo anterior.
 
-###### Art. 37.º - 1. O ingresso na carreira de técnicos auxiliares de laboratório far-se-á, regra geral, pela categoria de preparador de 2.ª classe, mediante concurso documental, entre indivíduos que, além de possuírem o 2.º ciclo dos liceus ou equivalente, provem estar habilitados com o curso de preparador ou tenham efectuado, com bom aproveitamento, um estágio de doze meses num dos serviços do Instituto.
+Art. 37.º - 1. O ingresso na carreira de técnicos auxiliares de laboratório far-se-á, regra geral, pela categoria de preparador de 2.ª classe, mediante concurso documental, entre indivíduos que, além de possuírem o 2.º ciclo dos liceus ou equivalente, provem estar habilitados com o curso de preparador ou tenham efectuado, com bom aproveitamento, um estágio de doze meses num dos serviços do Instituto.
 
 2. Poderão igualmente ser admitidos ao concurso referido no número anterior os indivíduos que, embora não satisfazendo as condições requeridas, já exerçam funções equivalentes há, pelo menos, cinco anos em qualquer organismo ou entidade julgada idónea pelo conselho escolar, desde que se encontrem habilitados com o 1.º ciclo liceal.
 
@@ -358,21 +426,21 @@ b) A técnico auxiliar de laboratório de 3.ª classe, por concurso, com presta�
 
 c) A técnico auxiliar de laboratório de 2.ª classe, por concurso documental, após, pelo menos, três anos de bom e efectivo serviço como técnico auxiliar de laboratório de 3.ª classe.
 
-###### Art. 38.º - 1. Os lugares de ajudante de laboratório serão providos precedendo concurso de provas documentais e práticas perante um júri constituído por três membros do pessoal docente, sendo o presidente designado pelo director.
+Art. 38.º - 1. Os lugares de ajudante de laboratório serão providos precedendo concurso de provas documentais e práticas perante um júri constituído por três membros do pessoal docente, sendo o presidente designado pelo director.
 
 2. Serão admitidos ao concurso quaisquer indivíduos com habilitação correspondente à escolaridade obrigatória, segundo a idade do concorrente, e o curso referido na [Portaria n.º 18523](https://diariodarepublica.pt/dr/detalhe/portaria/18523-1961-171919), de 12 de Junho de 1961, ou equivalente professado em estabelecimento idóneo.
 
-###### Art. 39.º Os tradutores-correspondentes, os técnicos auxiliares e os catalogadores serão admitidos por concurso documental e de provas práticas entre indivíduos com as habilitações literárias que o Conselho Escolar considere adequadas para os lugares em causa, de harmonia com o disposto no artigo 25.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 39.º Os tradutores-correspondentes, os técnicos auxiliares e os catalogadores serão admitidos por concurso documental e de provas práticas entre indivíduos com as habilitações literárias que o Conselho Escolar considere adequadas para os lugares em causa, de harmonia com o disposto no artigo 25.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 40.º - 1. Os catalogadores de 2.ª classe e de 1.ª classe terão acesso às categorias, respectivamente, de catalogadores de 1.ª classe e de técnicos auxiliares de 3.ª classe por proposta do director, tendo em conta a antiguidade na classe, habilitações literárias e boas informações.
+Art. 40.º - 1. Os catalogadores de 2.ª classe e de 1.ª classe terão acesso às categorias, respectivamente, de catalogadores de 1.ª classe e de técnicos auxiliares de 3.ª classe por proposta do director, tendo em conta a antiguidade na classe, habilitações literárias e boas informações.
 
 2. Os técnicos auxiliares terão acesso às classes imediatamente superiores por proposta do director, aprovada pelo Conselho Escolar.
 
-###### Art. 41.º - 1. O pessoal técnico auxiliar não expressamente referido nesta secção será provido sob proposta do director, ouvido o Conselho Escolar.
+Art. 41.º - 1. O pessoal técnico auxiliar não expressamente referido nesta secção será provido sob proposta do director, ouvido o Conselho Escolar.
 
 2. O mesmo Conselho Escolar poderá, porém, propor que o recrutamento se faça por concurso, constituindo-se então o júri nos termos do n.º 1 do artigo 38.º
 
-###### Art. 42.º - 1. O pessoal a que se refere o presente capítulo será nomeado por despacho ministerial, excepto se se tratar de pessoal referido no número seguinte.
+Art. 42.º - 1. O pessoal a que se refere o presente capítulo será nomeado por despacho ministerial, excepto se se tratar de pessoal referido no número seguinte.
 
 2. Serão providos por contrato:
 
@@ -386,25 +454,25 @@ d) Os auxiliares de laboratório.
 
 #### SECÇÃO II — Do pessoal administrativo
 
-###### Art. 43.º O chefe dos serviços administrativos será recrutado entre os licenciados com um curso superior adequado, precedendo concurso documental.
+Art. 43.º O chefe dos serviços administrativos será recrutado entre os licenciados com um curso superior adequado, precedendo concurso documental.
 
-###### Art. 44.º - 1. Os lugares de escriturário-dactilógrafo de 2.ª classe a chefe de secção serão providos por funcionários dos quadros do Ministério do Ultramar em comissão de serviço por tempo indeterminado.
+Art. 44.º - 1. Os lugares de escriturário-dactilógrafo de 2.ª classe a chefe de secção serão providos por funcionários dos quadros do Ministério do Ultramar em comissão de serviço por tempo indeterminado.
 
 2. Enquanto durarem as comissões de serviço previstas no número anterior, os funcionários manterão todos os direitos previstos nos seus estatutos próprios, inclusive os das promoções legais.
 
 #### SECÇÃO III — Do pessoal dos serviços gerais
 
-###### Art. 45.º O pessoal dos serviços gerais será admitido sob proposta do director e provido por contrato, excepto no que respeita aos guardas do jardim e da noite, que serão assalariados.
+Art. 45.º O pessoal dos serviços gerais será admitido sob proposta do director e provido por contrato, excepto no que respeita aos guardas do jardim e da noite, que serão assalariados.
 
-###### Art. 46.º Os motoristas, os contínuos e guarda-portão terão direito ao fardamento de uso geral, aplicando-se-lhes o disposto no n.º 2 do artigo 12.º
+Art. 46.º Os motoristas, os contínuos e guarda-portão terão direito ao fardamento de uso geral, aplicando-se-lhes o disposto no n.º 2 do artigo 12.º
 
-###### Art. 47.º A fim de permitir uma maior vigilância das instalações durante as horas em que os serviços se encontram encerrados, o guarda-portão terá residência obrigatória no edifício do Instituto.
+Art. 47.º A fim de permitir uma maior vigilância das instalações durante as horas em que os serviços se encontram encerrados, o guarda-portão terá residência obrigatória no edifício do Instituto.
 
 ## TÍTULO III — Da orgânica interna
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 48.º - 1. O Instituto disporá dos seguites serviços:
+Art. 48.º - 1. O Instituto disporá dos seguites serviços:
 
 a) As disciplinas, secções, departamentos e serviços anexos;
 
@@ -418,7 +486,7 @@ e) Os centros de estudo.
 
 2. Salvo quando de outra forma estiver previsto, a distribuição de pessoal não docente pelos serviços será feita pelo director, de acordo com as funções próprias de cada categoria e sem prejuízo do disposto na alínea b) do n.º 2 do artigo 50.º
 
-###### Art. 49.º A direcção, orientação e coordenação de todas as actividades do Instituto serão asseguradas pelos seguintes órgãos superiores:
+Art. 49.º A direcção, orientação e coordenação de todas as actividades do Instituto serão asseguradas pelos seguintes órgãos superiores:
 
 a) A Direcção;
 
@@ -434,7 +502,7 @@ e) Os conselhos de curso.
 
 #### SECÇÃO I — Das disciplinas
 
-###### Art. 50.º - 1. As disciplinas são as unidades através das quais o Instituto cumpre as suas funções docentes e de investigação, dedicando-se cada uma delas a um ramo bem definido e individualizado das ciências ou técnicas cultivadas no Instituto.
+Art. 50.º - 1. As disciplinas são as unidades através das quais o Instituto cumpre as suas funções docentes e de investigação, dedicando-se cada uma delas a um ramo bem definido e individualizado das ciências ou técnicas cultivadas no Instituto.
 
 2. Compete ao Conselho Escolar:
 
@@ -442,7 +510,7 @@ a) Decidir sobre a composição dos serviços de cada disciplina, incluindo o re
 
 b) Distribuir-lhes os efectivos de pessoal, material e instalações necessárias ao cumprimento das tarefas que lhes cabem nos domínios do ensino, investigação e divulgação do conhecimento, dentro das possibilidades materiais do Instituto e ressalvadas as restrições resultantes da lei ou natureza das coisas.
 
-###### Art. 51.º - 1. Passam a existir no Instituto as seguintes disciplinas:
+Art. 51.º - 1. Passam a existir no Instituto as seguintes disciplinas:
 
 Saúde Pública;
 
@@ -472,7 +540,7 @@ Bioestatística.
 
 2. A criação de novas disciplinas, bem como a extinção ou substituição das actualmente já existentes, será feita por portaria do Ministro do Ultramar, sob proposta do Conselho Escolar.
 
-###### Art. 52.º - 1. As disciplinas são regidas pelos respectivos professores catedráticos, que, no caso de falta ou impedimento, serão substituídos do seguinte modo, por ordem de preferência:
+Art. 52.º - 1. As disciplinas são regidas pelos respectivos professores catedráticos, que, no caso de falta ou impedimento, serão substituídos do seguinte modo, por ordem de preferência:
 
 a) Pelo professor extraordinário da mesma disciplina;
 
@@ -486,9 +554,9 @@ c) Por um assistente da mesma disciplina ou professor de outra disciplina, confo
 
 4. A atribuição de gratificações de regência será regulada pelo disposto no artigo 55.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
-###### Art. 53.º Os efectivos em pessoal docente de cada disciplina serão fixados pelo Conselho Escolar, devendo, porém, ser autorizadas superiormente quaisquer alterações que impliquem aumento de quadro de pessoal docente do Instituto.
+Art. 53.º Os efectivos em pessoal docente de cada disciplina serão fixados pelo Conselho Escolar, devendo, porém, ser autorizadas superiormente quaisquer alterações que impliquem aumento de quadro de pessoal docente do Instituto.
 
-###### Art. 54.º - 1. Mediante proposta do Conselho Escolar, poderão ser admitidos como colaboradores quaisquer cientistas nacionais ou estrangeiros de reconhecido mérito, para efeito da realização de trabalhos de investigação científica.
+Art. 54.º - 1. Mediante proposta do Conselho Escolar, poderão ser admitidos como colaboradores quaisquer cientistas nacionais ou estrangeiros de reconhecido mérito, para efeito da realização de trabalhos de investigação científica.
 
 2. Mediante a autorização do director, sob requerimento devidamente informado pelos professores a que interesse, poderão ser admitidos como estagiários quaisquer indivíduos de nacionalidade portuguesa ou estrangeira, devidamente qualificados, que queiram realizar trabalhos de investigação científica ou aperfeiçoamento técnico dentro do âmbito da actividade das disciplinas.
 
@@ -496,9 +564,9 @@ c) Por um assistente da mesma disciplina ou professor de outra disciplina, confo
 
 4. Do exercício das actividades previstas neste artigo poderão ser passados os respectivos certificados, mediante o pagamento dos emolumentos legais.
 
-###### Art. 55.º O pessoal técnico em serviço nas diferentes disciplinas ou departamentos é constituído por investigadores, chefes de laboratório, técnicos auxiliares de laboratório, preparadores e auxiliares de laboratório.
+Art. 55.º O pessoal técnico em serviço nas diferentes disciplinas ou departamentos é constituído por investigadores, chefes de laboratório, técnicos auxiliares de laboratório, preparadores e auxiliares de laboratório.
 
-###### Art. 56.º - 1. Compete aos chefes de laboratório:
+Art. 56.º - 1. Compete aos chefes de laboratório:
 
 a) Superintender, de acordo com as instruções do professor catedrático ou encarregado de regência, na execução dos serviços laboratoriais da mesma disciplina;
 
@@ -506,7 +574,7 @@ b) Coadjuvar nos trabalhos didácticos e de investigação, quando necessário.
 
 2. Não havendo chefes de laboratório em número suficiente, poderá o conselho escolar incumbir dessas funções um dos assistentes da respectiva disciplina ou de disciplina afim.
 
-###### Art. 57.º Compete aos técnicos auxiliares de laboratório e preparadores:
+Art. 57.º Compete aos técnicos auxiliares de laboratório e preparadores:
 
 a) Preparar o material destinado ao ensino, investigação ou quaisquer outras actividades da disciplina a que estejam adstritos;
 
@@ -516,7 +584,7 @@ c) Zelar pelo arranjo e asseio das instalações a seu cargo, orientando o traba
 
 d) Proceder a observações, exames laboratoriais e quaisquer outros serviços que lhes sejam determinados, de harmonia com a índole das suas funções.
 
-###### Art. 58.º Compete aos ajudantes e auxiliares de laboratório:
+Art. 58.º Compete aos ajudantes e auxiliares de laboratório:
 
 a) Coadjuvar os técnicos auxiliares de laboratório e preparadores;
 
@@ -526,7 +594,7 @@ c) Executar os demais serviços de que sejam incumbidos, de harmonia com as suas
 
 #### SECÇÃO II — Das secções
 
-###### Art. 59.º - 1. Quando as necessidades do ensino ou investigação o justificarem, poderão, dentro das disciplinas existentes, ser criadas uma ou mais secções.
+Art. 59.º - 1. Quando as necessidades do ensino ou investigação o justificarem, poderão, dentro das disciplinas existentes, ser criadas uma ou mais secções.
 
 2. Poderão ainda ser criadas secções independentes quando digam respeito a ramos de conhecimentos não incluídos no âmbito normal das actividades das disciplinas existentes.
 
@@ -534,13 +602,13 @@ c) Executar os demais serviços de que sejam incumbidos, de harmonia com as suas
 
 4. A criação e extinção de secções, bem como a passagem a secção de uma disciplina anterior, será feita por portaria ministerial, mediante proposta fundamentada do Conselho Escolar.
 
-###### Art. 60.º Aplica-se às secções o disposto no artigo 50.º, n.º 2.
+Art. 60.º Aplica-se às secções o disposto no artigo 50.º, n.º 2.
 
-###### Art. 61.º - 1. Quando as secções estiverem dotadas de quadro próprio, o encarregado da sua chefia será um professor extraordinário, auxiliar ou equiparado, de acordo com o critério do Conselho Escolar.
+Art. 61.º - 1. Quando as secções estiverem dotadas de quadro próprio, o encarregado da sua chefia será um professor extraordinário, auxiliar ou equiparado, de acordo com o critério do Conselho Escolar.
 
 2. Quando as secções estiverem incluídas numa disciplina ou departamento e houver necessidade de lhes atribuir um encarregado de chefia, este será normalmente o respectivo professor extraordinário, mas o conselho escolar, sob proposta do professor catedrático, poderá nomear para tal outro membro do quadro docente dessa ou outra disciplina afim, ou mesmo propor que seja encarregado dessa chefia personalidade qualificada, especialmente contratada para o efeito.
 
-###### Art. 62.º - 1. No Instituto funcionam desde já as seguintes secções:
+Art. 62.º - 1. No Instituto funcionam desde já as seguintes secções:
 
 a) A de Nutrição, no Departamento de Saúde Pública;
 
@@ -552,7 +620,7 @@ c) A de Hematologia Tropical, no Departamento de Clínica das Doenças Tropicais
 
 #### SECÇÃO III — Dos departamentos
 
-###### Art. 63.º - 1. Para efeito de coordenação de actividades e melhor aproveitamento de pessoal e recursos disponíveis, tanto no domínio da docência, como no domínio da investigação, as disciplinas e secções poderão ser agrupadas em departamentos, segundo as suas características e afinidades.
+Art. 63.º - 1. Para efeito de coordenação de actividades e melhor aproveitamento de pessoal e recursos disponíveis, tanto no domínio da docência, como no domínio da investigação, as disciplinas e secções poderão ser agrupadas em departamentos, segundo as suas características e afinidades.
 
 2. Poderão permanecer isoladas aquelas disciplinas que não apresentem afinidades com quaisquer outras ou que o Conselho Escolar considere mais conveniente manter como tal.
 
@@ -560,15 +628,15 @@ c) A de Hematologia Tropical, no Departamento de Clínica das Doenças Tropicais
 
 4. Compete ao Conselho Escolar deliberar sobre a criação, extinção e composição dos departamentos e efectuar as respectivas propostas.
 
-###### Art. 64.º - 1. Cada departamento terá como director um dos professores catedráticos ou extraordinário das disciplinas agrupadas, designado pelo Conselho Escolar pelo período de três anos renováveis.
+Art. 64.º - 1. Cada departamento terá como director um dos professores catedráticos ou extraordinário das disciplinas agrupadas, designado pelo Conselho Escolar pelo período de três anos renováveis.
 
 2. O exercício do cargo de director de departamento dará direito à percepção de uma gratificação mensal de quantitativo a fixar pelo Ministro do Ultramar.
 
-###### Art. 65.º - 1. Além das disciplinas e secções agrupadas e respectivos serviços anexos, cada departamento poderá possuir centros de estudo, laboratórios, instalações e outros recursos comuns à totalidade das disciplinas e secções que o compõem.
+Art. 65.º - 1. Além das disciplinas e secções agrupadas e respectivos serviços anexos, cada departamento poderá possuir centros de estudo, laboratórios, instalações e outros recursos comuns à totalidade das disciplinas e secções que o compõem.
 
 2. Cabe ao Conselho Escolar decidir sobre a criação desses serviços comuns e afectar-lhe o pessoal necessário, bem como da passagem para nível departamental de quaisquer serviços anteriormente anexos a uma disciplina, ou vice-versa.
 
-###### Art. 66.º - 1. Compete ao director do Departamento:
+Art. 66.º - 1. Compete ao director do Departamento:
 
 a) Dirigir os serviços comuns do Departamento;
 
@@ -578,7 +646,7 @@ c) Procurar por todos os meios ao seu alcance estimular e desenvolver a investig
 
 2. Em todas as suas funções o director do Departamento trabalhará em inteira colaboração com os restantes professores do seu departamento e deverá facilitar a execução dos programas de investigação de cada disciplina por todos os meios ao seu alcance, nomeadamente através da utilização dos serviços ou recursos que tenham nível departamental.
 
-###### Art. 67.º Consideram-se desde já existentes os seguintes Departamentos:
+Art. 67.º Consideram-se desde já existentes os seguintes Departamentos:
 
 a) Departamento de Saúde Pública, que engloba as disciplinas de Saúde Pública, Administração Sanitária e Higiene Materno-Infantil e Pediatria Social;
 
@@ -592,7 +660,7 @@ e) Departamento de Epidemiologia, que engloba as disciplinas de Epidemiologia e 
 
 #### SECÇÃO IV — Dos serviços anexos às disciplinas ou departamentos
 
-###### Art. 68.º - 1. Consideram-se serviços anexos às disciplinas ou departamentos junto dos quais funcionem:
+Art. 68.º - 1. Consideram-se serviços anexos às disciplinas ou departamentos junto dos quais funcionem:
 
 a) Os centros de saúde;
 
@@ -606,29 +674,29 @@ d) O serviço de vacinação.
 
 Dos centros de saúde
 
-###### Art. 69.º - 1. Anexos ao Departamento de Saúde Pública funcionarão centros de saúde, instalados nos Estados ultramarinos de Angola e de Moçambique.
+Art. 69.º - 1. Anexos ao Departamento de Saúde Pública funcionarão centros de saúde, instalados nos Estados ultramarinos de Angola e de Moçambique.
 
 2. Os centros serão criados e regulamentados mediante portaria expedida pelo Ministro do Ultramar, sob proposta do Conselho Escolar.
 
 3. Sob proposta do mesmo Conselho e enquanto não for possível dispor de centros de saúde privativos, poderá o Instituto, mediante despacho do Ministro do Ultramar, utilizar estabelecimentos já existentes que se considerem adequados àquele fim.
 
-###### Art. 70.º Sem prejuízo da sua integração orgânica, os centros de saúde prestarão a quaisquer serviços do Instituto a colaboração que lhes for solicitada e serão pelos mesmos serviços apoiados na medida das respectivas necessidades.
+Art. 70.º Sem prejuízo da sua integração orgânica, os centros de saúde prestarão a quaisquer serviços do Instituto a colaboração que lhes for solicitada e serão pelos mesmos serviços apoiados na medida das respectivas necessidades.
 
 Do serviço hospitalar
 
-###### Art. 71.º - 1. Anexo à disciplina de Clínica das Doenças Tropicais, funcionará no Hospital do Ultramar o serviço hospitalar do Instituto.
+Art. 71.º - 1. Anexo à disciplina de Clínica das Doenças Tropicais, funcionará no Hospital do Ultramar o serviço hospitalar do Instituto.
 
 2. O serviço constará de consulta externa e de internamento em enfermarias privativas.
 
-###### Art. 72.º - 1. Os doentes admitidos nas enfermarias escolares deverão, em regra, constituir casos clínicos de interesse para o estudo da patologia tropical, podendo o Instituto, para esse fim, promover, mediante proposta do professor da disciplina, a vinda de doentes das províncias ultramarinas.
+Art. 72.º - 1. Os doentes admitidos nas enfermarias escolares deverão, em regra, constituir casos clínicos de interesse para o estudo da patologia tropical, podendo o Instituto, para esse fim, promover, mediante proposta do professor da disciplina, a vinda de doentes das províncias ultramarinas.
 
 2. Mediante autorização do Conselho Escolar, poderão também ser admitidos doentes que se revistam de interesse para o estudo de assuntos respeitantes a outras disciplinas.
 
-###### Art. 73.º As relações entre o Instituto e o Hospital do Ultramar são as definidas pelo [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março.
+Art. 73.º As relações entre o Instituto e o Hospital do Ultramar são as definidas pelo [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março.
 
 Dos laboratórios gerais
 
-###### Art. 74.º - 1. Funcionarão no Instituto os seguintes laboratórios gerais:
+Art. 74.º - 1. Funcionarão no Instituto os seguintes laboratórios gerais:
 
 1.º Junto do Departamento de Clínica das Doenças Tropicais:
 
@@ -642,39 +710,39 @@ a) O Laboratório de Microscopia Electrónica.
 
 2. Mediante despacho do Ministro do Ultramar, sob proposta do Conselho Escolar, poderão ser criados novos laboratórios gerais ou passar à categoria de gerais quaisquer outros laboratórios privativos das disciplinas.
 
-###### Art. 75.º - 1. Aos laboratórios gerais incumbem os trabalhos das respectivas especialidades que sejam necessários ao ensino e investigação realizados no âmbito da disciplina a que estão anexos ou nos demais serviços do Instituto, bem como, sem prejuízo daqueles, os trabalhos que lhes sejam requisitados por entidades oficiais ou solicitados por particulares.
+Art. 75.º - 1. Aos laboratórios gerais incumbem os trabalhos das respectivas especialidades que sejam necessários ao ensino e investigação realizados no âmbito da disciplina a que estão anexos ou nos demais serviços do Instituto, bem como, sem prejuízo daqueles, os trabalhos que lhes sejam requisitados por entidades oficiais ou solicitados por particulares.
 
 2. O Laboratório de Anatomia Patológica prestará igualmente o apoio que for necessário aos serviços do Hospital do Ultramar.
 
 3. Pelos trabalhos estranhos ao funcionamento do Instituto e do Hospital do Ultramar, bem como de quaisquer outras entidades oficiais, realizados nos laboratórios gerais ou nas diversas disciplinas, serão devidas as taxas constantes de tabela aprovada pelo Conselho Administrativo.
 
-###### Art. 76.º - 1. Os Laboratórios de Análises Clínicas, de Anatomia Patológica e de Microscopia Electrónica serão dirigidos por chefes de laboratório.
+Art. 76.º - 1. Os Laboratórios de Análises Clínicas, de Anatomia Patológica e de Microscopia Electrónica serão dirigidos por chefes de laboratório.
 
 2. Outros laboratórios gerais que venham a ser criados serão dirigidos, conforme deliberação do Conselho Escolar, por chefes de laboratório ou por assistentes designados pelo mesmo Conselho.
 
-###### Art. 77.º São aplicáveis ao pessoal dos laboratórios gerais as disposições dos artigos 55.º a 58.º
+Art. 77.º São aplicáveis ao pessoal dos laboratórios gerais as disposições dos artigos 55.º a 58.º
 
 Do serviço de vacinação
 
-###### Art. 78.º Incluído no Departamento de Saúde Pública, haverá um serviço de vacinação, ao qual compete proceder à vacinação contra doenças infecto-contagiosas de funcionários públicos, elementos das forças armadas e outros indivíduos que devam deslocar-se a Estados e províncias ultramarinas ou nelas fixar-se, bem como, sem prejuízo daqueles, outros indivíduos que a ele recorram.
+Art. 78.º Incluído no Departamento de Saúde Pública, haverá um serviço de vacinação, ao qual compete proceder à vacinação contra doenças infecto-contagiosas de funcionários públicos, elementos das forças armadas e outros indivíduos que devam deslocar-se a Estados e províncias ultramarinas ou nelas fixar-se, bem como, sem prejuízo daqueles, outros indivíduos que a ele recorram.
 
-###### Art. 79.º O serviço de vacinação ficará a cargo do respectivo médico-chefe, que será coadjuvado por médicos adjuntos.
+Art. 79.º O serviço de vacinação ficará a cargo do respectivo médico-chefe, que será coadjuvado por médicos adjuntos.
 
-###### Art. 80.º No caso de vacinação de elementos das forças armadas, bem como noutros casos semelhantes, poderá o director, a solicitação das entidades interessadas, autorizar que o serviço seja efectuado fora do edifício do Instituto, se para tanto houver justificação e as entidades interessadas assegurarem o transporte do pessoal necessário.
+Art. 80.º No caso de vacinação de elementos das forças armadas, bem como noutros casos semelhantes, poderá o director, a solicitação das entidades interessadas, autorizar que o serviço seja efectuado fora do edifício do Instituto, se para tanto houver justificação e as entidades interessadas assegurarem o transporte do pessoal necessário.
 
-###### Art. 81.º - 1. Pelas vacinações que efectuar, o serviço expedirá o competente certificado, sendo este de modelo internacional, quando for caso disso.
+Art. 81.º - 1. Pelas vacinações que efectuar, o serviço expedirá o competente certificado, sendo este de modelo internacional, quando for caso disso.
 
 2. Os certificados serão entregues aos próprios, mediante a apresentação do bilhete de identidade, cartão militar de identidade, ficha sanitária ou guia oficial com fotografia ou passaporte.
 
 3. Tratando-se, porém, de elementos das forças armadas vacinados colectivamente, poderão os certificados ser entregues aos respectivos comandos.
 
-###### Art. 82.º - 1. As vacinações serão gratuitas para todos os funcionários públicos e elementos das forças armadas que devam fazer viagem de serviço ao ultramar, bem como para todos os indivíduos que aí devam fixar-se.
+Art. 82.º - 1. As vacinações serão gratuitas para todos os funcionários públicos e elementos das forças armadas que devam fazer viagem de serviço ao ultramar, bem como para todos os indivíduos que aí devam fixar-se.
 
 2. Em todos os demais casos, serão devidas, pelo acto de vacinação, taxas constantes de tabela aprovada pelo Conselho Administrativo.
 
 #### SECÇÃO V — Dos serviços auxiliares
 
-###### Art. 83.º - 1. São serviços auxiliares de ensino, investigação e divulgação:
+Art. 83.º - 1. São serviços auxiliares de ensino, investigação e divulgação:
 
 a) O Biotério;
 
@@ -686,9 +754,9 @@ b) O Centro de Documentação e Informação Científica.
 
 Do Biotério
 
-###### Art. 84.º O Biotério terá por fim a criação de animais de laboratório destinados a satisfazer as necessidades dos diversos serviços do Instituto no ensino, investigação e execução de trabalhos de análise e será dirigido por um professor designado pelo Conselho Escolar.
+Art. 84.º O Biotério terá por fim a criação de animais de laboratório destinados a satisfazer as necessidades dos diversos serviços do Instituto no ensino, investigação e execução de trabalhos de análise e será dirigido por um professor designado pelo Conselho Escolar.
 
-###### Art. 85.º - 1. O Biotério disporá do seguinte pessoal:
+Art. 85.º - 1. O Biotério disporá do seguinte pessoal:
 
 a) Um médico veterinário, que actuará como adjunto do director do Biotério e será o responsável pelos assuntos técnicos ligados à criação e saúde dos animais;
 
@@ -700,13 +768,13 @@ c) Os auxiliares que forem considerados necessários.
 
 3. Enquanto o lugar não for provido, poderá o Ministro do Ultramar autorizar a execução das tarefas necessárias por um médico veterinário estranho ao quadro do Instituto, mediante a atribuição de uma gratificação mensal.
 
-###### Art. 86.º - 1. O Biotério, além da zona destinada à criação de animais de laboratório, terá uma outra zona, devidamente isolada da primeira, onde permanecerão os animais inoculados ou entregues aos diversos serviços para fins experimentais.
+Art. 86.º - 1. O Biotério, além da zona destinada à criação de animais de laboratório, terá uma outra zona, devidamente isolada da primeira, onde permanecerão os animais inoculados ou entregues aos diversos serviços para fins experimentais.
 
 2. O Conselho Escolar elaborará normas privativas do Biotério, onide se fixarão as regras indispensáveis ao seu perfeito funcionamento, pormenorizando-se as obrigações do seu pessoal e definindo-se as regras a adoptar na secção de animais inoculados, particularmente no que diz respeito às actividades que serão da competência do pessoal do Biotério ou do pessoal privativo das disciplinas ou serviços a que os animais estejam entregues.
 
 Do Centro de Documentação e Informação Científica
 
-###### Art. 87.º O Centro de Documentação e Informação Científica será constituído pelos seguintes serviços ou secções:
+Art. 87.º O Centro de Documentação e Informação Científica será constituído pelos seguintes serviços ou secções:
 
 a) A Biblioteca;
 
@@ -716,11 +784,11 @@ c) A Secção de Meios Áudio-Visuais;
 
 d) O Serviço dos Anais.
 
-###### Art. 88.º - 1. O Centro será dirigido por um dos professores catedráticos do Instituto, coadjuvado pelos adjuntos que sejam reconhecidos como necessários, designados de entre os membros do corpo docente ou técnico superior.
+Art. 88.º - 1. O Centro será dirigido por um dos professores catedráticos do Instituto, coadjuvado pelos adjuntos que sejam reconhecidos como necessários, designados de entre os membros do corpo docente ou técnico superior.
 
 2. A designação do director do Centro e seus adjuntos será feita pelo Conselho Escolar por um triénio renovável por uma só vez, excepto quando se trate de substituição imposta pelas circunstâncias.
 
-###### Art. 89.º - 1. Incumbe à Biblioteca a arrumação, conservação e aproveitamento das espécies bibliográficas com interesse para o Instituto, quer constituam objecto de aquisição ou oferta, quer resultem de permuta com os Anais, bem como a execução do respectivo expediente.
+Art. 89.º - 1. Incumbe à Biblioteca a arrumação, conservação e aproveitamento das espécies bibliográficas com interesse para o Instituto, quer constituam objecto de aquisição ou oferta, quer resultem de permuta com os Anais, bem como a execução do respectivo expediente.
 
 2. A Biblioteca poderá manter secções especializadas junto de disciplinas ou departamentos, sob a responsabilidade dos respectivos dirigentes.
 
@@ -732,19 +800,19 @@ b) Zelar pela constante actualização das revistas, livros e demais publicaçõ
 
 c) Assegurar o intercâmbio, colaboração e boas relações entre a Biblioteca do Instituto e os serviços congéneres nacionais e estrangeiros.
 
-###### Art. 90.º - 1. À Secção de Reprodução de Documentos compete colaborar, dentro das suas atribuições e tal como estiver regulamentado, com os restantes serviços do Instituto ou com entidades estranhas a este, para o efeito devidamente autorizadas, particularmente aquelas a que se refere o artigo 1.º
+Art. 90.º - 1. À Secção de Reprodução de Documentos compete colaborar, dentro das suas atribuições e tal como estiver regulamentado, com os restantes serviços do Instituto ou com entidades estranhas a este, para o efeito devidamente autorizadas, particularmente aquelas a que se refere o artigo 1.º
 
 2. Quando se trate da execução de serviços para o exterior, poderão ser cobradas as quantias necessárias para cobrir as depesas resultantes para o Instituto, de acordo com as tabelas que o Conselho Administrativo fixar.
 
-###### Art. 91.º A Secção de Meios Áudio-Visuais compreenderá os já existentes laboratórios fotográficos e gabinete de desenho e mais os recursos que venham a ser julgados necessários, competindo-lhes colaborar com os vários serviços do Instituto na preparação de material destinado ao ensino, à investigação e à divulgação de conhecimentos.
+Art. 91.º A Secção de Meios Áudio-Visuais compreenderá os já existentes laboratórios fotográficos e gabinete de desenho e mais os recursos que venham a ser julgados necessários, competindo-lhes colaborar com os vários serviços do Instituto na preparação de material destinado ao ensino, à investigação e à divulgação de conhecimentos.
 
-###### Art. 92.º Todos os pormenores relativos à orgânica e funcionamento do Centro de Documentação e Informação Científica e suas diversas secções, bem como aqueles referentes às suas relações com os restantes serviços do Instituto e o exterior, serão estabelecidos em regulamento a elaborar pelo Conselho Escolar.
+Art. 92.º Todos os pormenores relativos à orgânica e funcionamento do Centro de Documentação e Informação Científica e suas diversas secções, bem como aqueles referentes às suas relações com os restantes serviços do Instituto e o exterior, serão estabelecidos em regulamento a elaborar pelo Conselho Escolar.
 
-###### Art. 93.º - 1. O Serviço dos Anais terá a seu cargo a actividade editorial do Instituto e será orientado por um dos adjuntos do director do Centro de Documentação e Informação Científica.
+Art. 93.º - 1. O Serviço dos Anais terá a seu cargo a actividade editorial do Instituto e será orientado por um dos adjuntos do director do Centro de Documentação e Informação Científica.
 
 2. Haverá um Conselho de Redacção designado pelo Conselho Escolar.
 
-###### Art. 94.º Ao responsável pelos Anais compete:
+Art. 94.º Ao responsável pelos Anais compete:
 
 a) Assegurar a efectividade da publicação dos Anais;
 
@@ -754,13 +822,13 @@ c) Providenciar pelo fornecimento à Biblioteca dos exemplares dos Anais ou outr
 
 d) Velar pelo envio dos Anais ou outras publicações às entidades abrangidas pelo regime de ofertas.
 
-###### Art. 95.º Ao Conselho de Redacção compete apreciar e seleccionar os trabalhos a publicar, bem como a execução das tarefas necessárias para a edição de cada número das publicações editadas pelo Instituto.
+Art. 95.º Ao Conselho de Redacção compete apreciar e seleccionar os trabalhos a publicar, bem como a execução das tarefas necessárias para a edição de cada número das publicações editadas pelo Instituto.
 
 #### SECÇÃO VI — Dos Serviços Administrativos
 
-###### Art. 96.º Incumbe aos Serviços Administrativos a elaboração do expediente geral.
+Art. 96.º Incumbe aos Serviços Administrativos a elaboração do expediente geral.
 
-###### Art. 97.º Os Serviços Administrativos são constituídos pelas seguintes secções:
+Art. 97.º Os Serviços Administrativos são constituídos pelas seguintes secções:
 
 a) Secção de Secretaria;
 
@@ -768,13 +836,13 @@ b) Secção de Contabilidade e Abastecimento;
 
 c) Secção de Tesouraria.
 
-###### Art. 98.º - 1. Compete ao chefe dos Serviços Administrativos superintender no conjunto dos mesmos Serviços, assegurando o seu bom funcionamento, de harmonia com as instruções do director.
+Art. 98.º - 1. Compete ao chefe dos Serviços Administrativos superintender no conjunto dos mesmos Serviços, assegurando o seu bom funcionamento, de harmonia com as instruções do director.
 
 2. O substituto legal do chefe dos Serviços Administrativos será o chefe de secção mais antigo.
 
 Das Secções de Secretaria e de Contabilidade e Abastecimento
 
-###### Art. 99.º À Secção de Secretaria incumbe, em especial:
+Art. 99.º À Secção de Secretaria incumbe, em especial:
 
 a) A recepção, expedição e registo da correspondência;
 
@@ -784,7 +852,7 @@ c) Elaboração da correspondência geral e seu arquivo;
 
 d) A organização da estatística geral.
 
-###### Art. 100.º São atribuições da Secção de Contabilidade e Abastecimento:
+Art. 100.º São atribuições da Secção de Contabilidade e Abastecimento:
 
 a) Preparar os orçamentos e as contas de gerência;
 
@@ -794,19 +862,19 @@ c) Manter em dia o cadastro dos bens do Estado e efectuar abates à carga do mes
 
 d) Organizar o cadastro dos fornecedores.
 
-###### Art. 101.º Aos chefes das Secções de Secretaria e de Contabilidade e Abastecimento compete assegurar a regularidade e boa execução dos serviços a seu cargo, de acordo com as instruções do chefe dos Serviços Administrativos, a quem darão conta de quaisquer dificuldades encontradas no exercício das suas funções.
+Art. 101.º Aos chefes das Secções de Secretaria e de Contabilidade e Abastecimento compete assegurar a regularidade e boa execução dos serviços a seu cargo, de acordo com as instruções do chefe dos Serviços Administrativos, a quem darão conta de quaisquer dificuldades encontradas no exercício das suas funções.
 
 Da Secção de Tesouraria
 
-###### Art. 102.º Incumbe à Secção de Tesouraria as operações de recebimento e pagamento, bem como a contabilidade da respectiva caixa.
+Art. 102.º Incumbe à Secção de Tesouraria as operações de recebimento e pagamento, bem como a contabilidade da respectiva caixa.
 
-###### Art. 103.º - 1. Ao tesoureiro compete assegurar o serviço de tesouraria, respondendo pela regularidade das respectivas operações.
+Art. 103.º - 1. Ao tesoureiro compete assegurar o serviço de tesouraria, respondendo pela regularidade das respectivas operações.
 
 2. Exercerá as funções de tesoureiro, exclusivamente ou em conjunto com outras funções, um funcionário do quadro de secretaria designado pelo Conselho Administrativo, que terá direito à gratificação mensal de 500$00 para falhas.
 
 #### SECÇÃO VII — Dos serviços gerais
 
-###### Art. 104.º - 1. Aos serviços gerais incumbe:
+Art. 104.º - 1. Aos serviços gerais incumbe:
 
 a) A ligação material dos serviços do Instituto com o exterior e dos próprios serviços entre si;
 
@@ -816,13 +884,13 @@ b) A guarda e conservação do edifício, incluindo as instalações eléctricas
 
 #### SECÇÃO VIII — Dos centros de estudo
 
-###### Art. 105.º - 1. Mediante portaria expedida pelo Ministro do Ultramar, poderão ser criados, em ligação com os departamentos do instituto, centros de estudo na metrópole ou no ultramar, destinados a desenvolver as actividades de investigação em matérias ou sectores determinados.
+Art. 105.º - 1. Mediante portaria expedida pelo Ministro do Ultramar, poderão ser criados, em ligação com os departamentos do instituto, centros de estudo na metrópole ou no ultramar, destinados a desenvolver as actividades de investigação em matérias ou sectores determinados.
 
 2. Os centros de estudo poderão ser criados também em ligação com o Instituto de Alta Cultura, a Junta de Investigações do Ultramar ou outras entidades.
 
 3. Quando tal seja julgado necessário, poderão os centros de estudo ser dotados de autonomia administrativa.
 
-###### Art. 106.º - 1. Os centros de estudo já existentes continuarão a regular-se pelas normas fixadas quando da sua criação.
+Art. 106.º - 1. Os centros de estudo já existentes continuarão a regular-se pelas normas fixadas quando da sua criação.
 
 2. A organização e funcionamento dos futuros centros de estudo constarão de diploma que os houver criado.
 
@@ -830,15 +898,15 @@ b) A guarda e conservação do edifício, incluindo as instalações eléctricas
 
 #### SECÇÃO I — Da Direcção
 
-###### Art. 107.º O Instituto terá um director e um subdirector, que exercerão esses cargos sem prejuízo das respectivas funções docentes.
+Art. 107.º O Instituto terá um director e um subdirector, que exercerão esses cargos sem prejuízo das respectivas funções docentes.
 
-###### Art. 108.º - 1. O director e o subdirector serão professores catedráticos nomeados por portaria expedida pelo Ministro do Ultramar, segundo as normas que regem a escolha dos directores e subdirectores da Faculdade de Medicina da Universidade de Lisboa.
+Art. 108.º - 1. O director e o subdirector serão professores catedráticos nomeados por portaria expedida pelo Ministro do Ultramar, segundo as normas que regem a escolha dos directores e subdirectores da Faculdade de Medicina da Universidade de Lisboa.
 
 2. A nomeação do director e do subdirector é feita pelo período de três anos, renovável por uma só vez, após audição do Conselho Escolar.
 
-###### Art. 109.º Nas suas faltas e impedimentos, o director será substituído pelo subdirector ou, na falta deste, pelo professor catedrático mais antigo, preferindo o mais idoso em caso de igualdade.
+Art. 109.º Nas suas faltas e impedimentos, o director será substituído pelo subdirector ou, na falta deste, pelo professor catedrático mais antigo, preferindo o mais idoso em caso de igualdade.
 
-###### Art. 110.º Compete em geral ao director assegurar a realização dos fins do estabelecimento e, designadamente:
+Art. 110.º Compete em geral ao director assegurar a realização dos fins do estabelecimento e, designadamente:
 
 a) Cumprir e fazer cumprir as disposições legais e regulamentares, exercendo efectiva fiscalização sobre a sua rigorosa observância pelo que respeita ao serviços docentes, técnicos e administrativos;
 
@@ -864,11 +932,11 @@ l) Dar parecer sobre assuntos que para esse fim lhe sejam superiormente remetido
 
 m) Assinar os diplomas e certificados de curso.
 
-###### Art. 111.º Compete ao subdirector coadjuvar o director nas tarefas a seu cargo da forma que este melhor o entenda, assegurando inclusivamente o expediente de assuntos correntes para que tenha recebido delegação do director.
+Art. 111.º Compete ao subdirector coadjuvar o director nas tarefas a seu cargo da forma que este melhor o entenda, assegurando inclusivamente o expediente de assuntos correntes para que tenha recebido delegação do director.
 
 #### SECÇÃO II — Do Conselho Escolar
 
-###### Art. 112.º - 1. O Conselho Escolar será presidido pelo director e nele terão assento como vogais todos os professores catedráticos e os professores da regência de disciplinas.
+Art. 112.º - 1. O Conselho Escolar será presidido pelo director e nele terão assento como vogais todos os professores catedráticos e os professores da regência de disciplinas.
 
 2. Por resolução do director, poderão ser convocados para participar nas sessões ou em parte delas, sem direito a voto, quaisquer outros elementos do pessoal do Instituto.
 
@@ -876,7 +944,7 @@ m) Assinar os diplomas e certificados de curso.
 
 4. No caso de falta ou impedimento do director, o Conselho será presidido pelo subdirector ou, na falta deste, pelo professor catedrático mais antigo.
 
-###### Art. 113.º Compete ao Conselho Escolar:
+Art. 113.º Compete ao Conselho Escolar:
 
 a) Superintender, nos termos definidos pelo presente regulamento, em tudo o que diga respeito às actividades de ensino, investigação e divulgação que competirem ao Instituto;
 
@@ -894,27 +962,27 @@ g) Resolver quaisquer dúvidas e estabelecer doutrina sobre assuntos de carácte
 
 h) Apreciar o relatório anual do director e tomar conhecimento dos relatórios de missões de estudo ou outros elaborados por membros do corpo docente.
 
-###### Art. 114.º O Conselho reunirá ordinariamente dentro da 1.ª quinzena de cada mês durante o ano escolar e extraordinariamente sempre que seja convocado pelo director, por sua iniciativa ou a solicitação escrita, com indicação expressa dos assuntos a tratar, de, pelo menos, dois dos seus vogais.
+Art. 114.º O Conselho reunirá ordinariamente dentro da 1.ª quinzena de cada mês durante o ano escolar e extraordinariamente sempre que seja convocado pelo director, por sua iniciativa ou a solicitação escrita, com indicação expressa dos assuntos a tratar, de, pelo menos, dois dos seus vogais.
 
-###### Art. 115.º As sessões do Conselho terão ordem do dia, sendo nulas as deliberações tomadas à margem desta, salvo se nenhum dos membros presentes arguir a nulidade no decorrer da sessão.
+Art. 115.º As sessões do Conselho terão ordem do dia, sendo nulas as deliberações tomadas à margem desta, salvo se nenhum dos membros presentes arguir a nulidade no decorrer da sessão.
 
-###### Art. 116.º As convocações serão feitas normalmente com antecedência de dois dias, pelo menos, salvo caso de urgência.
+Art. 116.º As convocações serão feitas normalmente com antecedência de dois dias, pelo menos, salvo caso de urgência.
 
-###### Art. 117.º - 1. A comparência às sessões do Conselho é obrigatória para todos os membros, salvo motivo devidamente justificado no prazo de quarenta e oito horas após a falta.
+Art. 117.º - 1. A comparência às sessões do Conselho é obrigatória para todos os membros, salvo motivo devidamente justificado no prazo de quarenta e oito horas após a falta.
 
 2. Verificando-se o caso previsto na parte final do artigo 114.º, a sessão não poderá realizar-se sem a presença dos vogais que a hajam requerido, salvo relativamente a outros assuntos incluídos na mesma ordem do dia.
 
-###### Art. 118.º - 1. As deliberações do Conselho serão tomadas à pluralidade de votos.
+Art. 118.º - 1. As deliberações do Conselho serão tomadas à pluralidade de votos.
 
 2. Em caso de empate, o presidente terá voto de qualidade, excepto se a deliberação incidir directamente sobre questões do seu mérito pessoal.
 
 3. O voto é obrigatório, mas será secreto sempre que respeite a questões de mérito pessoal dos seus vogais ou o próprio Conselho Escolar assim o resolver.
 
-###### Art. 119.º - 1. De todas as sessões se lavrará acta, a qual, depois de aprovada na sessão seguinte pela maioria, pelo menos, dos membros presentes que hajam assistido, será assinada por todos os referidos membros presentes.
+Art. 119.º - 1. De todas as sessões se lavrará acta, a qual, depois de aprovada na sessão seguinte pela maioria, pelo menos, dos membros presentes que hajam assistido, será assinada por todos os referidos membros presentes.
 
 2. Independentemente das actas, será em cada sessão aposta, com rubrica do director e do secretário, a nota da deliberação tomada em cada um dos processos sujeitos à apreciação do Conselho ou feita nota avulsa, não havendo processo.
 
-###### Art. 120.º Como presidente do Conselho Escolar, compete especialmente ao director:
+Art. 120.º Como presidente do Conselho Escolar, compete especialmente ao director:
 
 a) Convocar o Conselho e fixar a ordem do dia das respectivas sessões;
 
@@ -924,13 +992,13 @@ c) Dirigir a discussão dos assuntos nas sessões e mandar proceder à respectiv
 
 d) Tomar, nos intervalos das sessões, quaisquer decisões urgentes em matéria da competência do Conselho.
 
-###### Art. 121.º Compete ao secretário:
+Art. 121.º Compete ao secretário:
 
 a) Elaborar as actas das sessões;
 
 b) Coadjuvar o director no decurso das sessões e, no intervalo destas, em tudo o que aquele entenda necessário com vista às próximas sessões do Conselho.
 
-###### Art. 122.º - 1. São deveres dos vogais do Conselho Escolar:
+Art. 122.º - 1. São deveres dos vogais do Conselho Escolar:
 
 a) Comparecer às reuniões à hora marcada e votar as suas deliberações;
 
@@ -954,7 +1022,7 @@ d) Ditar para a acta, quando o entendam necessário, uma justificação resumida
 
 #### SECÇÃO III — Do Conselho Coordenador da Investigação
 
-###### Art. 123.º - 1. O Conselho Coordenador da Investigação será constituído pelos professores chefes de departamento do Instituto e será presidido pelo mais antigo.
+Art. 123.º - 1. O Conselho Coordenador da Investigação será constituído pelos professores chefes de departamento do Instituto e será presidido pelo mais antigo.
 
 2. Poderão tomar parte nas reuniões do Conselho Coordenador e comissões ou grupos de trabalho por este organizados outros elementos do corpo docente e técnico para tal convocados.
 
@@ -962,7 +1030,7 @@ d) Ditar para a acta, quando o entendam necessário, uma justificação resumida
 
 #### SECÇÃO IV — Do Conselho Administrativo
 
-###### Art. 124.º - 1. O Conselho Administrativo terá a seguinte constituição:
+Art. 124.º - 1. O Conselho Administrativo terá a seguinte constituição:
 
 a) O director do Instituto, que preside;
 
@@ -976,17 +1044,17 @@ a) O director do Instituto e o chefe dos Serviços Administrativos, pelos seus s
 
 b) O professor designado pelo Conselho Escolar, por um professor designado ad hoc pelo director.
 
-###### Art. 125.º Compete ao Conselho Administrativo superintender, nos termos da lei e do presente regulamento, na administração financeira e patrimonial do Instituto.
+Art. 125.º Compete ao Conselho Administrativo superintender, nos termos da lei e do presente regulamento, na administração financeira e patrimonial do Instituto.
 
-###### Art. 126.º O Conselho reunir-se-á ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo director.
+Art. 126.º O Conselho reunir-se-á ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo director.
 
-###### Art. 127.º O Conselho não poderá funcionar sem a presença de todos os seus membros titulares ou substitutos.
+Art. 127.º O Conselho não poderá funcionar sem a presença de todos os seus membros titulares ou substitutos.
 
-###### Art. 128.º Na parte não prevista, serão aplicáveis ao funcionamento do Conselho Administrativo as correspondentes disposições estabelecidas para o Conselho Escolar.
+Art. 128.º Na parte não prevista, serão aplicáveis ao funcionamento do Conselho Administrativo as correspondentes disposições estabelecidas para o Conselho Escolar.
 
 #### SECÇÃO V — Dos conselhos de curso
 
-###### Art. 129.º - 1. Cada um dos cursos regulares professados no Instituto terá um director de curso e um conselho com a seguinte composição:
+Art. 129.º - 1. Cada um dos cursos regulares professados no Instituto terá um director de curso e um conselho com a seguinte composição:
 
 a) O director de curso, que preside;
 
@@ -1002,7 +1070,7 @@ c) Um representante dos alunos, durante o funcionamento das aulas.
 
 5. Os cursos eventuais, de acordo com as suas características e conforme for resolvido pelo Conselho Escolar, poderão, igualmente, ter um director e um conselho do curso, com ou sem comparticipação do representante dos alunos.
 
-###### Art. 130.º - 1. Compete aos conselhos de curso:
+Art. 130.º - 1. Compete aos conselhos de curso:
 
 a) Apreciar os programas propostos pelos professores das diversas disciplinas com vista à sua integração no respectivo plano de curso e coordenação num todo harmónico, sem omissões ou duplicações, compatível com os recursos materiais e de tempo disponíveis;
 
@@ -1024,7 +1092,7 @@ c) Apresentar anualmente ao director do Instituto um relatório sobre a activida
 
 d) Assinar, juntamente com o director do Instituto, os diplomas de curso.
 
-###### Art. 131.º O Conselho Escolar estabelecerá em regulamento próprio as normas de funcionamento dos conselhos de curso.
+Art. 131.º O Conselho Escolar estabelecerá em regulamento próprio as normas de funcionamento dos conselhos de curso.
 
 ## TÍTULO IV — Das actividades escolares
 
@@ -1032,13 +1100,13 @@ d) Assinar, juntamente com o director do Instituto, os diplomas de curso.
 
 #### SECÇÃO I — Da organização dos cursos
 
-###### Art. 132.º - 1. Os cursos professados no Instituto podem ser regulares ou eventuais.
+Art. 132.º - 1. Os cursos professados no Instituto podem ser regulares ou eventuais.
 
 2. Os cursos regulares terão como finalidade a preparação dos profissionais qualificados para satisfazer as necessidades normais dos quadros dos serviços ou as exigências legais para o exercício da actividade profissional nos sectores da competência do Instituto.
 
 3. Os cursos eventuais destinar-se-ão a satisfazer necessidades ocasionais e poderão ser de especialização, de actualização ou aperfeiçoamento e de divulgação.
 
-###### Art. 133.º Consideram-se desde já criados os seguintes cursos regulares:
+Art. 133.º Consideram-se desde já criados os seguintes cursos regulares:
 
 a) Curso de Saúde Pública e Medicina Tropical;
 
@@ -1046,33 +1114,33 @@ b) Curso de Clínica das Doenças Tropicais;
 
 e) Curso de Saúde Pública.
 
-###### Art. 134.º - 1. A criação de novos cursos regulares será feita progressivamente, de acordo com as necessidades nacionais e as possibilidades do ensino, mediante portaria expedida pelo Ministro do Ultramar, sob proposta do Conselho Escolar.
+Art. 134.º - 1. A criação de novos cursos regulares será feita progressivamente, de acordo com as necessidades nacionais e as possibilidades do ensino, mediante portaria expedida pelo Ministro do Ultramar, sob proposta do Conselho Escolar.
 
 2. Os cursos eventuais poderão ser organizados, consoante as suas características e objectivos, a nível pluridisciplinar ou de uma só disciplina, com ou sem o patrocínio ou colaboração de instituições ou entidades estranhas ao Instituto, e neles poderão colaborar, como prelectores ou conferencistas, especialistas qualificados, nacionais ou estrangeiros, expressamente convidados para o efeito.
 
 3. Os planos dos cursos eventuais serão submetidos à apreciação do Conselho Escolar, mesmo quando a iniciativa e responsabilidade da sua execução pertença individualmente a professores do Instituto, devendo ser tido em conta o disposto no artigo 150.º, n.os 2 e 3.
 
-###### Art. 135.º - 1. Os cursos serão constituídos pelo conjunto das matérias constantes dos respectivos planos, podendo, porém, de acordo com as suas características, assumir, total ou parcialmente, a forma de seminários multidisciplinares.
+Art. 135.º - 1. Os cursos serão constituídos pelo conjunto das matérias constantes dos respectivos planos, podendo, porém, de acordo com as suas características, assumir, total ou parcialmente, a forma de seminários multidisciplinares.
 
 2. Quando surjam circunstâncias favoráveis, poderão ser convidados a intervir em cursos, proferindo lições ou tomando parte em seminários, personalidades nacionais ou estrangeiras particularmente qualificadas.
 
 3. Por proposta do Conselho Escolar, o Ministro do Ultramar poderá autorizar que parte dos cursos ministrados no Instituto se realize nos Estados de Angola ou de Moçambique.
 
-###### Art. 136.º - 1. Os planos dos cursos serão estabelecidos pelo Conselho Escolar, devendo ser periodicamente revistos, de acordo com o desenvolvimento das ciências médicas e dos recursos do Instituto.
+Art. 136.º - 1. Os planos dos cursos serão estabelecidos pelo Conselho Escolar, devendo ser periodicamente revistos, de acordo com o desenvolvimento das ciências médicas e dos recursos do Instituto.
 
 2. A actividade das disciplinas nos vários cursos poderá estender-se por um ou mais trimestres, conforme for disposto no respectivo plano e de acordo com as necessidades do ensino e possibilidades do Instituto.
 
 3. O ensino de cada disciplina ou matéria poderá abranger, além das diversas modalidades pedagógicas de aulas necessárias, trabalhos de campo, visitas escolares e estágios, conforme as suas características o indicarem.
 
-###### Art. 137.º Compete aos professores das diversas disciplinas a elaboração dos respectivos programas de curso, com subordinação às disponibilidades de tempo que lhes tenham sido reservadas e às decisões do conselho do curso em matéria que diga respeito à coordenação de actividade e harmonização de programas.
+Art. 137.º Compete aos professores das diversas disciplinas a elaboração dos respectivos programas de curso, com subordinação às disponibilidades de tempo que lhes tenham sido reservadas e às decisões do conselho do curso em matéria que diga respeito à coordenação de actividade e harmonização de programas.
 
-###### Art. 138.º - 1. O ano escolar, incluindo as épocas de exame, coincidirá com o ano escolar universitário, competindo ao director, ouvido o Conselho Escolar, fixar a data de início dos diversos cursos e as datas dos exames finais.
+Art. 138.º - 1. O ano escolar, incluindo as épocas de exame, coincidirá com o ano escolar universitário, competindo ao director, ouvido o Conselho Escolar, fixar a data de início dos diversos cursos e as datas dos exames finais.
 
 2. Os cursos eventuais terão lugar em época a fixar pelo Conselho Escolar, sem obrigatoriedade de coincidência com o ano escolar, e as datas dos respectivos exames, quando os haja, serão estabelecidas nos respectivos planos de curso.
 
 #### SECÇÃO II — Da frequência e conclusão dos cursos
 
-###### Art. 139.º - 1. A frequência dos cursos professados no Instituto depende de matrícula.
+Art. 139.º - 1. A frequência dos cursos professados no Instituto depende de matrícula.
 
 2. Os alunos poderão matricular-se em cursos completos ou apenas em uma ou mais disciplinas do mesmo ou diferentes cursos, ficando, porém, a aceitação definitiva da matrícula, neste último caso, dependente da verificação da compatibilidade dos horários.
 
@@ -1080,7 +1148,7 @@ e) Curso de Saúde Pública.
 
 4. Pelo acto da matrícula serão devidas as propinas constantes da tabela anexa, excepto se se tratar de cursos eventuais, em que o Conselho Escolar decidirá.
 
-###### Art. 140.º - 1. As habilitações exigíveis para a matrícula nos diferentes cursos são as seguintes:
+Art. 140.º - 1. As habilitações exigíveis para a matrícula nos diferentes cursos são as seguintes:
 
 a) Para o curso de Saúde Pública e Medicina Tropical, a licenciatura em Medicina;
 
@@ -1096,19 +1164,19 @@ e) Para a frequência de disciplinas isoladas, as habilitações que o Conselho 
 
 3. A abertura das matrículas será anunciada, com a devida antecedência, em jornais de grande circulação e bem assim comunicada aos órgãos informativos e jornais especializados das profissões interessadas.
 
-###### Art. 141.º Mediante autorização do director, ouvidos os professores interessados, poderão ser admitidos como ouvintes quaisquer indivíduos a que interessem as matrículas professadas em disciplinas determinadas, desde que possuam a necessária preparação para o efeito.
+Art. 141.º Mediante autorização do director, ouvidos os professores interessados, poderão ser admitidos como ouvintes quaisquer indivíduos a que interessem as matrículas professadas em disciplinas determinadas, desde que possuam a necessária preparação para o efeito.
 
-###### Art. 142.º - 1. As normas e requisitos de que dependerão a validação da frequência e a aprovação final em cada disciplina serão fixados para cada curso em regulamento próprio, aprovado pelo Conselho Escolar e por este periodicamente revisto, de acordo com as sugestões recebidas dos conselhos de curso e a evolução das técnicas pedagógicas e didácticas em uso no Instituto.
+Art. 142.º - 1. As normas e requisitos de que dependerão a validação da frequência e a aprovação final em cada disciplina serão fixados para cada curso em regulamento próprio, aprovado pelo Conselho Escolar e por este periodicamente revisto, de acordo com as sugestões recebidas dos conselhos de curso e a evolução das técnicas pedagógicas e didácticas em uso no Instituto.
 
 2. O director do Instituto providenciará para que os alunos tomem conhecimento desses regulamentos no início dos cursos, quer mantendo-os afixados em lugar visível, quer fornecendo-lhes, sempre que possível, cópias individuais.
 
-###### Art. 143.º - 1. A conclusão dos cursos regulares implica a aprovação em todas as disciplinas que o compõem, mesmo que tal se verifique em anos diferentes, não podendo o período de intervalo exceder três anos escolares, e traduzir-se-á por uma classificação de curso em que serão devidamente ponderadas todas as classificações finais naquelas obtidas.
+Art. 143.º - 1. A conclusão dos cursos regulares implica a aprovação em todas as disciplinas que o compõem, mesmo que tal se verifique em anos diferentes, não podendo o período de intervalo exceder três anos escolares, e traduzir-se-á por uma classificação de curso em que serão devidamente ponderadas todas as classificações finais naquelas obtidas.
 
 2. Os respectivos regulamentos fixarão o modo de determinar a classificação do curso, de acordo com os critérios de valorização adaptados para as disciplinas.
 
 3. Nos cursos eventuais que pelo seu tipo o justifiquem poderá estabelecer-se apenas atribuição de um certificado de frequência.
 
-###### Art. 144.º - 1. A conclusão de um curso dará direito ao respectivo diploma, conforme modelo aprovado, salvo relativamente aos cursos eventuais que o Conselho Escolar regulamentará.
+Art. 144.º - 1. A conclusão de um curso dará direito ao respectivo diploma, conforme modelo aprovado, salvo relativamente aos cursos eventuais que o Conselho Escolar regulamentará.
 
 2. Poderão, além disso, ser passadas certidões ou certificados:
 
@@ -1118,27 +1186,27 @@ b) Aos alunos aprovados em curso que não confira diploma;
 
 c) Aos alunos aprovados em disciplinas isoladas.
 
-###### Art. 145.º - 1. Pela passagem de diplomas, certidões e certificados serão devidos os emolumentos constantes da tabela anexa.
+Art. 145.º - 1. Pela passagem de diplomas, certidões e certificados serão devidos os emolumentos constantes da tabela anexa.
 
 2. Em relação a cursos eventuais, o Conselho Escolar poderá resolver a concessão de certificados de frequência.
 
 ### CAPÍTULO II — Da investigação científica
 
-###### Art. 146.º - 1. As actividades do Instituto desenvolver-se-ão no âmbito dos departamentos, disciplinas, secções e centros de estudo, de acordo com os programas elaborados pelos seus dirigentes ou responsáveis.
+Art. 146.º - 1. As actividades do Instituto desenvolver-se-ão no âmbito dos departamentos, disciplinas, secções e centros de estudo, de acordo com os programas elaborados pelos seus dirigentes ou responsáveis.
 
 2. Poderá, porém, o Conselho Coordenador de Investigação, por sua iniciativa ou no seguimento de solicitações recolhidas ou encargos assumidos, distribuir àquelas unidades programas de investigação definidos.
 
 3. Poderá ainda o Conselho Coordenador de Investigação, pelas mesmas razões, estabelecer programas de trabalho multidepartamentais, cuja realização deverá regulamentar em plano específico.
 
-###### Art. 147.º - 1. O Instituto poderá organizar inquéritos e missões de estudo mediante autorização ministerial e sob proposta do Conselho Escolar.
+Art. 147.º - 1. O Instituto poderá organizar inquéritos e missões de estudo mediante autorização ministerial e sob proposta do Conselho Escolar.
 
 2. À falta de outro prazo expressamente estabelecido, os relatórios das missões referidas neste artigo deverão ser apresentadas ao Conselho Escolar dentro de seis meses, a contar da data da conclusão dos trabalhos, salvo caso de força maior.
 
-###### Art. 148.º O Instituto poderá proceder à realização de todos os inquéritos que se tornarem indispensáveis aos estudos levados a efeito no âmbito das suas actividades, sem prejuízo da legislação própria do Instituto Nacional de Estatística.
+Art. 148.º O Instituto poderá proceder à realização de todos os inquéritos que se tornarem indispensáveis aos estudos levados a efeito no âmbito das suas actividades, sem prejuízo da legislação própria do Instituto Nacional de Estatística.
 
-###### Art. 149.º Compete ao director providenciar para que se realizem com regularidade reuniões do pessoal docente, técnicos e investigadores, destinados à divulgação e troca de informações sobre os trabalhos em curso e actividades desenvolvidas nas diversas disciplinas, secções, laboratórios e centros de estudo.
+Art. 149.º Compete ao director providenciar para que se realizem com regularidade reuniões do pessoal docente, técnicos e investigadores, destinados à divulgação e troca de informações sobre os trabalhos em curso e actividades desenvolvidas nas diversas disciplinas, secções, laboratórios e centros de estudo.
 
-###### Art. 150.º - 1. Mediante deliberação do Conselho Escolar ou por iniciativa do director, poderá o Instituto organizar sessões para exposição e discussão de temas científicos ou participar nos que forem organizados por outras entidades.
+Art. 150.º - 1. Mediante deliberação do Conselho Escolar ou por iniciativa do director, poderá o Instituto organizar sessões para exposição e discussão de temas científicos ou participar nos que forem organizados por outras entidades.
 
 2. No âmbito das actividades previstas neste artigo, poderão ser convidadas individualidades de reconhecida competência para a realização de prelecções ou conferências sobre matéria da sua especialidade.
 
@@ -1146,21 +1214,21 @@ c) Aos alunos aprovados em disciplinas isoladas.
 
 ### CAPÍTULO III — Das bolsas de estudo, prémios e galardões
 
-###### Art. 151.º O Instituto poderá conceder bolsas de estudo de especialização ou aperfeiçoamento por deliberação do Conselho Escolar, de acordo com os planos gerais aprovados pelo Ministro do Ultramar e, sempre que seja necessário, em ligação com o Instituto de Alta Cultura e a Junta de Investigações do Ultramar.
+Art. 151.º O Instituto poderá conceder bolsas de estudo de especialização ou aperfeiçoamento por deliberação do Conselho Escolar, de acordo com os planos gerais aprovados pelo Ministro do Ultramar e, sempre que seja necessário, em ligação com o Instituto de Alta Cultura e a Junta de Investigações do Ultramar.
 
-###### Art. 152.º - 1. Poderá também o Instituto, por deliberação do Conselho Escolar, criar os prémios que achar justificados com o fim de estimular a investigação científica nos campos em que desenvolve a sua actividade.
+Art. 152.º - 1. Poderá também o Instituto, por deliberação do Conselho Escolar, criar os prémios que achar justificados com o fim de estimular a investigação científica nos campos em que desenvolve a sua actividade.
 
 2. O Prémio de Medicina Tropical, num montante que em cada ano, para o efeito, for orçamentado, é destinado a galardoar o melhor trabalho original no âmbito da medicina tropical.
 
 3. A atribuição e natureza dos prémios a que se refere este artigo serão definidas em regulamento próprio, a elaborar pelo Conselho Escolar, devendo, quando assumam a forma de concurso, ser-lhes dada publicidade pela forma prescrita no artigo 140.º
 
-###### Art. 153.º - 1. Poderá ainda o Instituto instituir galardões no título honorário destinados a distinguir personalidades ou instituições que nos campos de saúde pública e da medicina tropical tenham produzido obra de particular mérito ou ao Instituto tenham prestado serviço relevante.
+Art. 153.º - 1. Poderá ainda o Instituto instituir galardões no título honorário destinados a distinguir personalidades ou instituições que nos campos de saúde pública e da medicina tropical tenham produzido obra de particular mérito ou ao Instituto tenham prestado serviço relevante.
 
 2. A instituição e as condições de atribuição das distinções previstas neste artigo serão estabelecidas em portaria ministerial, elaborada sob proposta do Conselho Escolar.
 
 ### CAPÍTULO IV — Da divulgação científica
 
-###### Art. 154.º O Instituto promoverá a divulgação dos conhecimentos respeitantes à saúde pública e à medicina tropical por todos os meios ao seu alcance, designadamente:
+Art. 154.º O Instituto promoverá a divulgação dos conhecimentos respeitantes à saúde pública e à medicina tropical por todos os meios ao seu alcance, designadamente:
 
 a) Pela organização dos custos referidos no artigo 132.º, n.º 3;
 
@@ -1168,7 +1236,7 @@ b) Por meio de sessões, reuniões, conferências ou palestras, a que se aplicar
 
 c) Através de publicação periódica.
 
-###### Art. 155.º - 1. O Instituto editará os seus Anais e poderá vir a editar outras publicações, periódicas ou não, que o Conselho Escolar considerar oportunas e convenientes.
+Art. 155.º - 1. O Instituto editará os seus Anais e poderá vir a editar outras publicações, periódicas ou não, que o Conselho Escolar considerar oportunas e convenientes.
 
 2. A actividade editorial do Instituto será assegurada pelo Serviço dos Anais.
 
@@ -1176,7 +1244,7 @@ c) Através de publicação periódica.
 
 4. Quando o Conselho Escolar o julgue conveniente, poderão, porém, ser publicados em suplemento quaisquer monografias ou trabalhos de investigação ou de carácter didáctico.
 
-###### Art. 156.º - 1. O preço de venda de cada exemplar dos Anais ou dos seus suplementos será fixado pelo Conselho Administrativo.
+Art. 156.º - 1. O preço de venda de cada exemplar dos Anais ou dos seus suplementos será fixado pelo Conselho Administrativo.
 
 2. Os Anais serão, no entanto, distribuídos gratuitamente:
 
@@ -1188,11 +1256,11 @@ b) Aos organismos do Ministério do Ultramar que neles tenham interesse, sem pre
 
 ### CAPÍTULO I — Da administração financeira
 
-###### Art. 157.º Os orçamentos ordinários do Instituto serão elaborados pelo Conselho Administrativo, após prévia audição do Conselho Escolar, obedecendo às normas estabelecidas pelo Decreto n.º 28326, de 27 de Dezembro de 1937, e apresentados para aprovação ministerial até ao dia 15 de Julho do ano anterior.
+Art. 157.º Os orçamentos ordinários do Instituto serão elaborados pelo Conselho Administrativo, após prévia audição do Conselho Escolar, obedecendo às normas estabelecidas pelo Decreto n.º 28326, de 27 de Dezembro de 1937, e apresentados para aprovação ministerial até ao dia 15 de Julho do ano anterior.
 
-###### Art. 158.º A tabela de despesa orçamental será ordenada segundo os preceitos estabelecidos no [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e demais legislação em vigor.
+Art. 158.º A tabela de despesa orçamental será ordenada segundo os preceitos estabelecidos no [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e demais legislação em vigor.
 
-###### Art. 159.º - 1. Constituem receitas do instituto:
+Art. 159.º - 1. Constituem receitas do instituto:
 
 a) As verbas inscritas nos orçamentos gerais dos Estados e províncias ultramarinas que lhes sejam destinadas a título de comparticipação;
 
@@ -1206,9 +1274,9 @@ d) As taxas devidas por serviços prestados nos termos das tabelas devidamente a
 
 3. Os subsídios e donativos podem ser atribuídos com fins expressos, dentro das atribuições do Instituto, designadamente no que respeita à criação de prémios.
 
-###### Art. 160.º A distribuição das verbas orçamentais destinadas a despesas com actividades de ensino, investigação e divulgação será feita depois de ouvido o Conselho Escolar.
+Art. 160.º A distribuição das verbas orçamentais destinadas a despesas com actividades de ensino, investigação e divulgação será feita depois de ouvido o Conselho Escolar.
 
-###### Art. 161.º - 1. O director do Instituto poderá autorizar despesas até 40000$00.
+Art. 161.º - 1. O director do Instituto poderá autorizar despesas até 40000$00.
 
 2. As despesas até 400000$00 serão autorizadas pelo Conselho Administrativo.
 
@@ -1218,13 +1286,13 @@ d) As taxas devidas por serviços prestados nos termos das tabelas devidamente a
 
 5. Os pagamentos serão sempre autorizados pelo Conselho Administrativo, depois de verificado o cabimento e o cumprimento de todas as formalidades legais na realização da despesa.
 
-###### Art. 162.º - 1. A tesouraria terá regulamento próprio, estabelecido pelo Conselho Administrativo.
+Art. 162.º - 1. A tesouraria terá regulamento próprio, estabelecido pelo Conselho Administrativo.
 
 2. O regulamento preverá expressamente os termos em que deve ser constituído o fundo de maneio, bem como aqueles em que o Conselho procederá habitualmente à conferência do cofre.
 
-###### Art. 163.º Anualmente, nos prazos e termos legais, o Conselho Administrativo aprovará a conta de gerência e remetê-la-á para julgamento ao Tribunal de Contas.
+Art. 163.º Anualmente, nos prazos e termos legais, o Conselho Administrativo aprovará a conta de gerência e remetê-la-á para julgamento ao Tribunal de Contas.
 
-###### Art. 164.º Os membros do Conselho Administrativo serão pessoal e solidariamente responsáveis:
+Art. 164.º Os membros do Conselho Administrativo serão pessoal e solidariamente responsáveis:
 
 a) Pelas aquisições que efectuarem sem justificação;
 
@@ -1234,21 +1302,21 @@ c) Pelas irregularidades verificadas no serviço de tesouraria, quando devidas a
 
 ### CAPÍTULO II — Da administração patrimonial
 
-###### Art. 165.º O inventário discriminará os bens do Instituto, conforme a origem das verbas com que hajam sido adquiridos, de harmonia com os dados constantes das respectivas rubricas orçamentais.
+Art. 165.º O inventário discriminará os bens do Instituto, conforme a origem das verbas com que hajam sido adquiridos, de harmonia com os dados constantes das respectivas rubricas orçamentais.
 
-###### Art. 166.º - 1. Nenhum material inventariado poderá ser considerado inútil ou inutilizado sem autorização do Conselho Administrativo.
+Art. 166.º - 1. Nenhum material inventariado poderá ser considerado inútil ou inutilizado sem autorização do Conselho Administrativo.
 
 2. A justificação do material abatido à carga será feita através dos respectivos autos de inutilização ou de venda em hasta pública.
 
-###### Art. 167.º Se o material julgado incapaz ou que haja excedido o prazo previsto da sua utilização for susceptível de outras aplicações, será, mediante deliberação do Conselho Administrativo, lançado novamente em carga para uso do Instituto, com a designação do novo destino que lhe for dado, ou vendido em hasta pública, com observância das formalidades legais.
+Art. 167.º Se o material julgado incapaz ou que haja excedido o prazo previsto da sua utilização for susceptível de outras aplicações, será, mediante deliberação do Conselho Administrativo, lançado novamente em carga para uso do Instituto, com a designação do novo destino que lhe for dado, ou vendido em hasta pública, com observância das formalidades legais.
 
-###### Art. 168.º O pessoal do Instituto responderá, civil e disciplinarmente, pela infracção ao disposto nos artigos anteriores e, de uma maneira geral, por todos os danos causados no património do Instituto.
+Art. 168.º O pessoal do Instituto responderá, civil e disciplinarmente, pela infracção ao disposto nos artigos anteriores e, de uma maneira geral, por todos os danos causados no património do Instituto.
 
 ## TÍTULO VI — Disposições finais e transitórias
 
-###### Art. 169.º A disciplina interna dos serviços, bem como o princípio da responsabilidade pela conservação do material, são aplicáveis, nos mesmos termos, ao pessoal do Instituto e a todos e quaisquer elementos que nele exerçam actividade, seja a que título for e independentemente de serem ou não remunerados ou de o serem ou não por força do orçamento privativo do Instituto.
+Art. 169.º A disciplina interna dos serviços, bem como o princípio da responsabilidade pela conservação do material, são aplicáveis, nos mesmos termos, ao pessoal do Instituto e a todos e quaisquer elementos que nele exerçam actividade, seja a que título for e independentemente de serem ou não remunerados ou de o serem ou não por força do orçamento privativo do Instituto.
 
-###### Art. 170.º - 1. O pessoal que transita da Escola Nacional de Saúde Pública e de Medicina Tropical para o actual Instituto será provido nas diversas categorias do quadro anexo a este diploma por despacho do Ministro do Ultramar, publicado no Diário do Governo, sem perda de direitos, qualquer que tenha sido a forma de recrutamento e independentemente de quaisquer formalidades, incluindo as de nomeação, visto e posse.
+Art. 170.º - 1. O pessoal que transita da Escola Nacional de Saúde Pública e de Medicina Tropical para o actual Instituto será provido nas diversas categorias do quadro anexo a este diploma por despacho do Ministro do Ultramar, publicado no Diário do Governo, sem perda de direitos, qualquer que tenha sido a forma de recrutamento e independentemente de quaisquer formalidades, incluindo as de nomeação, visto e posse.
 
 2. Em relação ao pessoal docente, cumprir-se-á a tabela de equivalências publicada no [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), de 19 de Novembro.
 
@@ -1260,9 +1328,9 @@ a) Continuarão sob regime de contrato, até terem prestado as provas de concurs
 
 b) Os funcionários que se encontrem nas condições indicadas na alínea anterior não poderão ser colocados em categoria superior à que presentemente ocupam, nem a ela ser promovidos mais tarde, sem se submeterem, se for caso disso, às provas previstas naquele mesmo decreto para os cargos que ocupam.
 
-###### Art. 171.º São aplicáveis ao Instituto de Higiene e Medicina Tropical todas as deliberações do Conselho Escolar estabelecidas para as actividades do ramo da Medicina Tropical da anterior Escola Nacional de Saúde Pública e de Medicina Tropical.
+Art. 171.º São aplicáveis ao Instituto de Higiene e Medicina Tropical todas as deliberações do Conselho Escolar estabelecidas para as actividades do ramo da Medicina Tropical da anterior Escola Nacional de Saúde Pública e de Medicina Tropical.
 
-###### Art. 172.º - 1 O diploma de Saúde Pública e Medicina Tropical passa a constituir requisito legal suficiente para o ingresso nos quadros dos serviços de saúde e assistência dos Estados e províncias ultramarinas e bem assim para o exercício de clínica livre no ultramar, para os médicos não diplomados pelas Universidades dos Estados de Angola e de Moçambique.
+Art. 172.º - 1 O diploma de Saúde Pública e Medicina Tropical passa a constituir requisito legal suficiente para o ingresso nos quadros dos serviços de saúde e assistência dos Estados e províncias ultramarinas e bem assim para o exercício de clínica livre no ultramar, para os médicos não diplomados pelas Universidades dos Estados de Angola e de Moçambique.
 
 2. O diploma de Clínica das Doenças Tropicais constitui requisito legal suficiente para o simples exercício da clínica livre nos Estados e províncias ultramarinas, para os médicos não diplomados pelas Universidades dos Estados de Angola e de Moçambique.
 
@@ -1270,35 +1338,35 @@ b) Os funcionários que se encontrem nas condições indicadas na alínea anteri
 
 4. O diploma de Saúde Pública poderá ser exigido a outras categorias profissionais de técnicos que desejem ingressar nos quadros dos serviços de saúde e assistência ou noutros organismos ligados à saúde pública do ultramar, de acordo com o que vier a ser legislado.
 
-###### Art. 173.º - 1. Consideram-se equivalentes para todos os efeitos legais o actual curso de Saúde Pública e o curso de Saúde Pública da Escola Nacional de Saúde Pública e de Medicina Tropical.
+Art. 173.º - 1. Consideram-se equivalentes para todos os efeitos legais o actual curso de Saúde Pública e o curso de Saúde Pública da Escola Nacional de Saúde Pública e de Medicina Tropical.
 
 2. O antigo curso de Medicina Tropical continua a conferir as mesmas regalias e direitos que anteriormente lhe eram atribuídos.
 
-###### Art. 174.º Os diplomas referentes aos cursos professados na Escola Nacional de Saúde Pública e de Medicina Tropical serão passados pelo actual Instituto.
+Art. 174.º Os diplomas referentes aos cursos professados na Escola Nacional de Saúde Pública e de Medicina Tropical serão passados pelo actual Instituto.
 
-###### Art. 175.º O funcionário que exerça as funções de secretário da direcção terá direito à gratificação mensal de 1000$00.
+Art. 175.º O funcionário que exerça as funções de secretário da direcção terá direito à gratificação mensal de 1000$00.
 
-###### Art. 176.º Os lugares constantes do quadro anexo que excedam o número de unidades inscritas actualmente nas tabelas orçamentais apenas serão providos à medida que forem dotados.
+Art. 176.º Os lugares constantes do quadro anexo que excedam o número de unidades inscritas actualmente nas tabelas orçamentais apenas serão providos à medida que forem dotados.
 
-###### Art. 177.º - 1. Transitam para o Instituto de Higiene e Medicina Tropical as responsabilidades derivadas das amortizações e juros do empréstimo contraído ao abrigo da base XIX da [Lei n.º 1920](https://diariodarepublica.pt/dr/detalhe/lei/1920-1935-576311), de 29 de Maio de 1935, para a construção e apetrechamento do edifício do antigo Instituto de Medicina Tropical.
+Art. 177.º - 1. Transitam para o Instituto de Higiene e Medicina Tropical as responsabilidades derivadas das amortizações e juros do empréstimo contraído ao abrigo da base XIX da [Lei n.º 1920](https://diariodarepublica.pt/dr/detalhe/lei/1920-1935-576311), de 29 de Maio de 1935, para a construção e apetrechamento do edifício do antigo Instituto de Medicina Tropical.
 
 2. Anualmente serão inscritas no orçamento privativo do instituto as verbas necessárias para o pagamento dos encargos com os empréstimos referidos no número anterior, a satisfazer por conta das receitas referidas no artigo 72.º do [Decreto n.º 38034](https://diariodarepublica.pt/dr/detalhe/decreto/38034-1950-486516), de 7 de Dezembro de 1950, e no artigo 73.º, § 3.º, do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 22 de Novembro de 1958.
 
-###### Art. 178.º Os assuntos do ramo de Medicina Tropical da Escola Nacional de Saúde Pública e de Medicina Tropical que se encontravam pendentes à data de 1 de Outubro de 1972 continuarão a ser tratados com o Instituto de Higiene e Medicina Tropical.
+Art. 178.º Os assuntos do ramo de Medicina Tropical da Escola Nacional de Saúde Pública e de Medicina Tropical que se encontravam pendentes à data de 1 de Outubro de 1972 continuarão a ser tratados com o Instituto de Higiene e Medicina Tropical.
 
-###### Art. 179.º O Ministro do Ultramar resolverá, por despacho, ouvido o Conselho Escolar, as dúvidas que se suscitarem na execução e aplicação deste diploma.
+Art. 179.º O Ministro do Ultramar resolverá, por despacho, ouvido o Conselho Escolar, as dúvidas que se suscitarem na execução e aplicação deste diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Abril de 1973.**
+Promulgado em 14 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro do pessoal do Instituto de Higiene e Medicina Tropical
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/10600/07140732.pdf))](https://files.diariodarepublica.pt/1s/1973/05/10600/07140732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/10600/07140732.pdf)
 
 Nota. - Os professores que exerçam as funções de director de departamento terão direito a uma gratificação mensal a fixar por despacho do Ministro do Ultramar.
 
@@ -1360,8 +1428,8 @@ O Director,
 
 ...
 
-**O Secretário do Conselho Escolar,**
+O Secretário do Conselho Escolar,
 
 ...
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

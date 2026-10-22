@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47017-1966-473524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e32ffb71d62a71766e7814b87ae8442b8719fd93e6441e1084778a1988b8584c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e818629f6d6b56fb148a3410cb751c62ef3dd31bd9bc4361ab59608d11e0714
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Criação de Freguesias
+- Freguesia
+- Vagos
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:09Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +98,20 @@ Considerando que se verificam todas as demais condições referidas no artigo 9.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Gafanha da Boa Hora, com sede na povoação da Boa Hora.
+Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Gafanha da Boa Hora, com sede na povoação da Boa Hora.
 
 § único. A freguesia de Gafanha da Boa Hora é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do mar, segue, no sentido dos ponteiros do relógio, pelos limites comuns dos concelhos de Ílhavo e Vagos, até ao marco dos serviços florestais situado no arrife n.º 5, ponto onde inflecte para sul, prosseguindo, em linha recta, pelo dito arrife, até encontrar o marco Soalheiro, situado nos limites comuns dos concelhos de Vagos e Mira; aqui, inflecte para noroeste, passando a acompanhar os referidos limites, até atingir o mar, onde termina.
+Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do mar, segue, no sentido dos ponteiros do relógio, pelos limites comuns dos concelhos de Ílhavo e Vagos, até ao marco dos serviços florestais situado no arrife n.º 5, ponto onde inflecte para sul, prosseguindo, em linha recta, pelo dito arrife, até encontrar o marco Soalheiro, situado nos limites comuns dos concelhos de Vagos e Mira; aqui, inflecte para noroeste, passando a acompanhar os referidos limites, até atingir o mar, onde termina.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Gafanha da Boa Hora realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Vagos.
+Art. 3.º A eleição da Junta de Freguesia de Gafanha da Boa Hora realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Vagos.
 
 § 1.º A Junta eleita nos termos deste artigo servirá até final do quadriénio em curso.
 
 § 2.º A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Vagos.
 
-###### Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

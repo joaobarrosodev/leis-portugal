@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15800/07920795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1974-476326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad36643e245ddd20c8ff6b823d012e11ca4e78be15e51bdced9c7dff504c14f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3769370d08bb21e33f5533654f9e297827c427935e378b6104ad14d1165d2503
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Comissão de Serviço
+- Definição de Competências
+- Direcção Geral de Justiça
+- Diretor Geral
+- Eleição
+- Magistrado Judicial
+- Organização Judiciária
+- Presidente
+- Sistema Judicial
+- Substituição de Funções
+- Tribunal da Relação
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:161091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473279:por
+  label: "Alterados os nºs. 1 e 4 do art. 4º, os arts. 5º e 6º, o nº4 do art. 7º e o art. 11º do presente diploma, pelo DEC\
+    \ LEI.465/74.20.09.1974.MCINT, DG.IS [220] de 20.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/465-1974-473279
+  date: '1974-09-20'
+- type: amended_by
+  target: pt:dre:168989:por
+  label: "Suspenso todo o proceso para as eleições previstas nos arts. 5º e 6º pelo DEC LEI.678/74.29.11.1974.MCINT, DG.IS\
+    \ [278-Supl] de 29.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/678-1974-168989
+  date: '1974-11-29'
+- type: cites
+  target: pt:dre:199147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:235940:por
+  label: "Revogado o nº5 do art. 4º pelo DEC LEI.795/74.31.12.1974.MCINT, DG.IS [303-6ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/795-1974-235940
+  date: '1974-12-31'
+- type: repealed_by
+  target: pt:dre:161091:por
+  label: "Revogado o presente diploma e determinada a extinção do Conselho Superior Judiciário do Ultramar, pelo DEC LEI.125/75.12.03.1975.MCINT,\
+    \ DG.IS [60] de 12.03.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1975-161091
+  date: '1975-03-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:27Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +156,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Conselho Superior Judiciário do Ultramar é composto por um presidente e dois vogais, eleitos de entre os juízes de 2.ª instância, por um período de três anos.
+Artigo 1.º - 1. O Conselho Superior Judiciário do Ultramar é composto por um presidente e dois vogais, eleitos de entre os juízes de 2.ª instância, por um período de três anos.
 
 2. Os membros do Conselho Superior Judiciário são eleitos por todos os juízes, de 1.ª e 2.ª instâncias, na situação de actividade no quadro.
 
-###### Art. 2.º - 1. No âmbito das suas atribuições, o Conselho Superior Judiciário do Ultramar passa a ter competência exclusiva para nomear, colocar, promover e transferir os magistrados judiciais e do Ministério Público e exercer a acção disciplinar sobre os mesmos magistrados.
+Art. 2.º - 1. No âmbito das suas atribuições, o Conselho Superior Judiciário do Ultramar passa a ter competência exclusiva para nomear, colocar, promover e transferir os magistrados judiciais e do Ministério Público e exercer a acção disciplinar sobre os mesmos magistrados.
 
 2. Relativamente aos juízes municipais de 2.ª classe, mantêm-se as actuais competências disciplinares.
 
@@ -114,13 +170,13 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 5. Relativamente às nomeações para cargos não dependentes do Ministério da Coordenação Interterritorial, mantêm-se as competências actuais.
 
-###### Art. 3.º - 1. A transferência dos juízes de qualquer classe ou categoria só pode ter lugar depois de decorrido o prazo de inamovibilidade fixado na lei ou, antes disso, mediante declaração de anuência do interessado, feita por escrito, ou como efeito de aplicação de determinadas penas disciplinares, conforme na lei se estatuir.
+Art. 3.º - 1. A transferência dos juízes de qualquer classe ou categoria só pode ter lugar depois de decorrido o prazo de inamovibilidade fixado na lei ou, antes disso, mediante declaração de anuência do interessado, feita por escrito, ou como efeito de aplicação de determinadas penas disciplinares, conforme na lei se estatuir.
 
 2. Salvo nos casos de transferência por motivos disciplinares, os juízes têm a faculdade de indicar três comarcas da sua preferência, para efeitos de colocação ou transferência. O Conselho Superior Judiciário do Ultramar tomará em consideração as preferências declaradas pelos juízes, a menos que a colocação dos interessados nas comarcas por eles indicadas seja julgada inconveniente ou não se harmonize com as necessidades de serviço.
 
 3. Para efeitos do disposto na parte final do n.º 1 do presente artigo, a aplicação de uma pena disciplinar superior à de multa, simples ou agravada, importará sempre, como consequência, a transferência do magistrado punido.
 
-###### Art. 4.º - 1. Aos magistrados judiciais é reconhecido o direito de recusar qualquer comissão de serviço, salvo aquelas que a lei declare de serviço judicial.
+Art. 4.º - 1. Aos magistrados judiciais é reconhecido o direito de recusar qualquer comissão de serviço, salvo aquelas que a lei declare de serviço judicial.
 
 2. As comissões ordinárias de serviço judicial têm a duração máxima de três anos, não podendo, em caso algum, ser renovadas, salvo se respeitarem ao exercício da função de julgar.
 
@@ -132,7 +188,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 6. Findo o prazo fixado no número anterior, os magistrados que, encontrando-se nas condições aí previstas, continuarem a prestar serviço nos cargos em que estejam providos, quer por nomeação, quer em comissão de serviço não judicial, ou não hajam prestado a declaração de opção, consideram-se desde logo exonerados dos quadros da magistratura judicial, sem prejuízo do direito à aposentação, se reunirem os requisitos legais. A Direcção-Geral de Justiça passará certidão dessa situação para anotação do Tribunal de Contas e posterior publicação no Diário do Governo e nos Boletins Oficiais dos territórios ultramarinos.
 
-###### Art. 5.º - 1. Em cada distrito judicial, o presidente do Tribunal da Relação será eleito pelos desembargadores que estejam colocados no mesmo Tribunal.
+Art. 5.º - 1. Em cada distrito judicial, o presidente do Tribunal da Relação será eleito pelos desembargadores que estejam colocados no mesmo Tribunal.
 
 2. Os presidentes das Relações exercem as suas funções por um período de três anos, podendo ser reeleitos uma ou mais vezes.
 
@@ -150,7 +206,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 9. Até à posse dos presidentes eleitos, continuarão em exercício de funções os actuais presidentes ou os seus substitutos em exercício.
 
-###### Art. 6.º - 1. Dentro de noventa dias, a contar do início da vigência deste diploma, deverão estar eleitos os membros do Conselho Superior Judiciário do Ultramar.
+Art. 6.º - 1. Dentro de noventa dias, a contar do início da vigência deste diploma, deverão estar eleitos os membros do Conselho Superior Judiciário do Ultramar.
 
 2. Cada eleitor votará a constituição do Conselho, indicando os desembargadores que escolher, respectivamente, para presidente e para vogais.
 
@@ -168,7 +224,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 9. Os membros eleitos do Conselho Superior Judiciário do Ultramar tomarão posse, no prazo de trinta dias, perante o Ministro da Coordenação Interterritorial.
 
-###### Art. 7.º - 1. O presidente do Conselho Superior Judiciário do Ultramar é substituído, nos seus impedimentos ou ausências, pelo vogal mais antigo, o qual assumirá logo a presidência, no caso de vagar, por qualquer motivo, o lugar de presidente.
+Art. 7.º - 1. O presidente do Conselho Superior Judiciário do Ultramar é substituído, nos seus impedimentos ou ausências, pelo vogal mais antigo, o qual assumirá logo a presidência, no caso de vagar, por qualquer motivo, o lugar de presidente.
 
 2. Se durante o triénio vagar, por qualquer motivo, algum lugar de vogal do Conselho, bem como no caso previsto na parte final do número anterior, proceder-se-á a eleição suplementar para preenchimento do lugar vago, salvo no caso de a eleição de todos os membros do Conselho dever ter lugar dentro de dois meses, hipótese em que será chamado ao exercício efectivo do cargo um vogal suplente.
 
@@ -176,7 +232,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. À eleição suplementar são aplicáveis as disposições do artigo 6.º, mas os prazos são reduzidos para metade.
 
-###### Art. 8.º - 1. Os actuais vogais permanentes do Conselho Superior Judiciário do Ultramar cessam imediatamente o exercício dessas funções, continuando, porém, a exercer as de vogais da 2.ª subsecção do contencioso do Conselho Ultramarino, para os efeitos do disposto no n.º 2 e sua alínea b) do artigo 3.º da Lei Orgânica deste Conselho, aprovada pelo [Decreto-Lei n.º 49146](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49146-1969-199147), de 25 de Julho de 1969.
+Art. 8.º - 1. Os actuais vogais permanentes do Conselho Superior Judiciário do Ultramar cessam imediatamente o exercício dessas funções, continuando, porém, a exercer as de vogais da 2.ª subsecção do contencioso do Conselho Ultramarino, para os efeitos do disposto no n.º 2 e sua alínea b) do artigo 3.º da Lei Orgânica deste Conselho, aprovada pelo [Decreto-Lei n.º 49146](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49146-1969-199147), de 25 de Julho de 1969.
 
 2. Os presidentes das Relações e os procuradores da República deixam de ser vogais natos do Conselho Superior Judiciário do Ultramar.
 
@@ -184,36 +240,36 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. Os membros do Conselho Superior Judiciário do Ultramar, logo que eleitos, passam a exercer também funções na 2.ª subsecção da secção do contencioso do Conselho Ultramarino, apenas para o efeito de completarem o plenário, deixando, a partir de então, de exercer estas funções os magistrados referidos no n.º 1 deste artigo.
 
-###### Art. 9.º - 1. O funcionamento do Conselho Superior Judiciário do Ultramar, até à data em que tomarem posse o presidente e os vogais que vierem a ser eleitos nos termos deste diploma, será assegurado por três juízes de 2.ª instância do ultramar, escolhidos pelo Ministro da Coordenação Interterritorial, que designará logo aquele que servirá de presidente.
+Art. 9.º - 1. O funcionamento do Conselho Superior Judiciário do Ultramar, até à data em que tomarem posse o presidente e os vogais que vierem a ser eleitos nos termos deste diploma, será assegurado por três juízes de 2.ª instância do ultramar, escolhidos pelo Ministro da Coordenação Interterritorial, que designará logo aquele que servirá de presidente.
 
 2. Os desembargadores que, estando colocados em Angola ou Moçambique, sejam escolhidos para desempenharem transitoriamente as funções referidas no número anterior consideram-se, para efeitos de remuneração, na situação prevista na alínea d) do artigo 42.º do Estatuto do Funcionalismo Ultramarino, com direito ao subsídio diário máximo previsto nesse preceito durante todo o tempo da sua permanência em Lisboa, sem qualquer interrupção.
 
-###### Art. 10.º - 1. A competência do Conselho Superior Judiciário não poderá em caso algum ser objecto de delegação, devendo todas as suas deliberações ser tomadas por maioria na forma da lei.
+Art. 10.º - 1. A competência do Conselho Superior Judiciário não poderá em caso algum ser objecto de delegação, devendo todas as suas deliberações ser tomadas por maioria na forma da lei.
 
 2. O presidente, isoladamente, apenas poderá assinar a correspondência e dar andamento aos assuntos de mero expediente.
 
 3. O expediente relativo às deliberações do Conselho Superior Judiciário do Ultramar será assegurado pela Direcção-Geral de Justiça, à qual será remetida toda a documentação.
 
-###### Art. 11.º - 1. O presidente do Conselho Superior Judiciário do Ultramar deixa de exercer funções de director-geral de Justiça, passando os dois cargos, inteiramente separados, a ser exercidos por magistrados diferentes.
+Art. 11.º - 1. O presidente do Conselho Superior Judiciário do Ultramar deixa de exercer funções de director-geral de Justiça, passando os dois cargos, inteiramente separados, a ser exercidos por magistrados diferentes.
 
 2. O cargo de director-geral de Justiça será exercido, em comissão de serviço, por um magistrado judicial.
 
-###### Art. 12.º - 1. Fica abolido o sistema de promoções por mérito dos magistrados judiciais, devendo observar-se apenas o critério da antiguidade.
+Art. 12.º - 1. Fica abolido o sistema de promoções por mérito dos magistrados judiciais, devendo observar-se apenas o critério da antiguidade.
 
 2. Se o juiz mais antigo na classe não reunir as condições necessárias para a promoção, será promovido o que se lhe seguir na lista de antiguidade e que reúna aquelas condições, de harmonia com o que na lei vier a ser estabelecido.
 
 3. Todas as promoções de juízes à 2.ª instância efectuadas até à entrada em vigor do presente diploma são convalidadas por força deste diploma e consideram-se plenamente válidas e eficazes desde a data da sua primeira publicação no Diário do Governo.
 
-###### Art. 13.º Ficam expressamente revogados os artigos 1.º do [Decreto n.º 24641](https://diariodarepublica.pt/dr/detalhe/decreto/24641-1934-446706), de 10 de Novembro de 1934, 90.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, 2.º, n.º 4, do [Decreto-Lei n.º 49146](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49146-1969-199147), de 25 de Julho de 1969, e 11.º, alínea c), e 41.º do [Decreto n.º 65/71](https://diariodarepublica.pt/dr/detalhe/decreto/65-1971-445549), de 3 de Março.
+Art. 13.º Ficam expressamente revogados os artigos 1.º do [Decreto n.º 24641](https://diariodarepublica.pt/dr/detalhe/decreto/24641-1934-446706), de 10 de Novembro de 1934, 90.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, 2.º, n.º 4, do [Decreto-Lei n.º 49146](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49146-1969-199147), de 25 de Julho de 1969, e 11.º, alínea c), e 41.º do [Decreto n.º 65/71](https://diariodarepublica.pt/dr/detalhe/decreto/65-1971-445549), de 3 de Março.
 
-###### Art. 14.º Este diploma entra imediatamente em vigor.
+Art. 14.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselhos de Ministros. - Francisco Sá Carneiro - António de Almeida Santos.
 
-**Promulgado em 29 de Junho de 1974.**
+Promulgado em 29 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - Almeida Santos.

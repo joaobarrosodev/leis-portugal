@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08100/06980698.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1977-139445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29612b193d9dfabd4eab53fb77641657c60f5eb5931082c40202481681896f46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d02fbb1f6c776290ab454b6ef21c0279083dd357c3cf5c05b9526fe2996ed5b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Ministério da Educação e Investigação Científica
+- Orgânica
+- Pessoal Dirigente
+- Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:626576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:626576:por
+  label: "Revogado pelo DEC LEI.259-A/80.06.08.1980.MECI, DR.IS [180-Supl] de 06.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-a-1980-626576
+  date: '1980-08-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:58Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +109,11 @@ Considerando a vantagem do prévio conhecimento das necessidades de cada região
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São criados serviços regionais do Ministério da Educação e Investigação Científica.
+Artigo 1.º - 1. São criados serviços regionais do Ministério da Educação e Investigação Científica.
 
 2. O Ministro da Educação e Investigação Científica determinará, por despacho, o âmbito territorial dos serviços regionais do Ministério da Educação e Investigação Científica.
 
-###### Art. 2.º - 1. Os serviços regionais do Ministério da Educação e Investigação Científica representam na respectiva área os serviços centrais, nos termos do presente diploma.
+Art. 2.º - 1. Os serviços regionais do Ministério da Educação e Investigação Científica representam na respectiva área os serviços centrais, nos termos do presente diploma.
 
 2. No exercício das funções de representação constantes do número anterior, compete-lhes:
 
@@ -122,13 +133,13 @@ g) Representar os serviços de inspecção na fiscalização da actividade dos e
 
 h) Exercer outras actividades que lhes vierem a ser fixadas por despacho ministerial.
 
-###### Art. 3.º Os quadros de pessoal dos serviços regionais do Ministério da Educação e Investigação Científica serão estabelecidos por decreto dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica.
+Art. 3.º Os quadros de pessoal dos serviços regionais do Ministério da Educação e Investigação Científica serão estabelecidos por decreto dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica.
 
-###### Art. 4.º - 1. Os serviços regionais do Ministério da Educação e Investigação Científica serão dirigidos por inspectores regionais para a educação.
+Art. 4.º - 1. Os serviços regionais do Ministério da Educação e Investigação Científica serão dirigidos por inspectores regionais para a educação.
 
 2. Os inspectores regionais para a educação terão categoria e vencimento correspondentes aos de inspector superior e serão nomeados, em comissão de serviço, pelo Ministro da Educação e Investigação Científica, de entre licenciados professores efectivos do ensino secundário.
 
-###### Art. 5.º Enquanto não forem estabelecidos os quadros dos serviços regionais do Ministério da Educação e Investigação Científica, aplicar-se-ão as seguintes disposições:
+Art. 5.º Enquanto não forem estabelecidos os quadros dos serviços regionais do Ministério da Educação e Investigação Científica, aplicar-se-ão as seguintes disposições:
 
 a) O Ministro da Educação e Investigação Científica poderá determinar, por despacho, que seja adicionado ao quadro das direcções dos distritos escolares um lugar de inspector regional para a educação;
 
@@ -140,12 +151,12 @@ d) Os inspectores regionais para a educação poderão propor ao Ministério da 
 
 e) Os inspectores regionais para a educação e o restante pessoal que for provido nos termos deste diploma transitarão, em comissão de serviço e independentemente de quaisquer outras formalidades, para idênticos lugares de quadro logo que os mesmos sejam estabelecidos.
 
-###### Art. 6.º As dúvidas surgidas na interpretação e execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 6.º As dúvidas surgidas na interpretação e execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

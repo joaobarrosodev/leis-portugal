@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/324-1971-643098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63bad3d7b6569924e6348e54c8a728fe6e8b9ad40f64a1ddc20500539221b09d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60636dfd4613da944201c43c87ff67d37397cfe1ef4d99cb87fdd23754946c71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:139395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643096:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:25Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +142,9 @@ Serviço de emprego nas províncias ultramarinas
 
 ### CAPÍTULO I — Organização e atribuições
 
-###### Artigo 1.º É criado nas províncias ultramarinas o serviço de emprego, que se destina a realizar, em cooperação com outros organismos públicos e privados interessados, a melhor organização possível do mercado do emprego como parte integrante do programa nacional tendente a assegurar o pleno emprego, livremente escolhido, assim como a desenvolver e a utilizar os recursos produtivos para uma política activa de desenvolvimento económico e de promoção social do trabalhador.
+Artigo 1.º É criado nas províncias ultramarinas o serviço de emprego, que se destina a realizar, em cooperação com outros organismos públicos e privados interessados, a melhor organização possível do mercado do emprego como parte integrante do programa nacional tendente a assegurar o pleno emprego, livremente escolhido, assim como a desenvolver e a utilizar os recursos produtivos para uma política activa de desenvolvimento económico e de promoção social do trabalhador.
 
-###### Art. 2.º - 1. O serviço de emprego é dotado de autonomia administrativa e financeira e tem por atribuições, designadamente:
+Art. 2.º - 1. O serviço de emprego é dotado de autonomia administrativa e financeira e tem por atribuições, designadamente:
 
 a) Cumprir e observar o cumprimento das orientações estabelecidas pelo Governo em matéria de política do emprego e do povoamento nas províncias ultramarinas;
 
@@ -136,11 +156,11 @@ d) Organizar e manter serviços do colocação, de formação profissional e de 
 
 2. No plano provincial, regional e local deve ser organizada estreita colaboração, especialmente pelo fornecimento oportuno de informações, entre o serviço de emprego e as autoridades cuja actividade afecte a situação de emprego, compreendidas as autoridades encarregadas de acelerar ou de reduzir o ritmo dos trabalhos públicos em relação com as flutuações do emprego e do desemprego.
 
-###### Art. 3.º - 1. Em colaboração com o serviço de emprego funcionará um conselho consultivo, composto por representantes dos serviços públicos especialmente interessados no emprego de mão-de-obra e das associações patronais e de trabalhadores, nos termos que vierem a ser regulamentados pelo governador da província.
+Art. 3.º - 1. Em colaboração com o serviço de emprego funcionará um conselho consultivo, composto por representantes dos serviços públicos especialmente interessados no emprego de mão-de-obra e das associações patronais e de trabalhadores, nos termos que vierem a ser regulamentados pelo governador da província.
 
 2. O conselho consultivo é presidido pelo director do serviço de emprego, o qual será substituído nas suas faltas ou impedimentos por quem o substitua na chefia do serviço.
 
-###### Art. 4.º - 1. Administrativa e financeiramente, o serviço de emprego é dirigido por um conselho de administração.
+Art. 4.º - 1. Administrativa e financeiramente, o serviço de emprego é dirigido por um conselho de administração.
 
 2. O conselho de administração tem a seguinte composição:
 
@@ -156,7 +176,7 @@ d) Um representante do Fundo de Acção Social no Trabalho.
 
 4. Servirá de secretário sem direito a voto o chefe de expediente geral do serviço de emprego.
 
-###### Art. 5.º - 1. Nas províncias de governo-geral o serviço de emprego é constituído por serviços centrais e divisões regionais.
+Art. 5.º - 1. Nas províncias de governo-geral o serviço de emprego é constituído por serviços centrais e divisões regionais.
 
 2. Os serviços centrais asseguram a orientação geral e a administração do serviço de emprego e têm por atribuições, em especial:
 
@@ -168,11 +188,11 @@ c) Estabelecer as bases para notação estatística do serviço de emprego;
 
 d) Organizar a compensação das ofertas e procuras de emprego entre os vários centros de colocação.
 
-###### Art. 6.º Os serviços centrais compreendem o serviço técnico, o gabinete de estudos e a secretaria.
+Art. 6.º Os serviços centrais compreendem o serviço técnico, o gabinete de estudos e a secretaria.
 
-###### Art. 7.º O serviço técnico é constituído pelos seguintes sectores: colocação, orientação profissional e formação profissional.
+Art. 7.º O serviço técnico é constituído pelos seguintes sectores: colocação, orientação profissional e formação profissional.
 
-###### Art. 8.º - 1. O gabinete de estudos, destinado a apoiar o serviço técnico, terá por função, especialmente:
+Art. 8.º - 1. O gabinete de estudos, destinado a apoiar o serviço técnico, terá por função, especialmente:
 
 a) Realizar, em colaboração com os serviços competentes da província, estudos analíticos de volume e de repartição actual e futura da população activa, do emprego, do desemprego e do subemprego;
 
@@ -192,13 +212,13 @@ h) Elaborar ou cooperar nos demais estudos que lhe forem solicitados sobre probl
 
 2. O gabinete de estudos poderá promover, em colaboração com os serviços de estatísticas e outros serviços e entidades provinciais, a realização de inquéritos directos necessários à elaboração dos estudos da sua competência.
 
-###### Art. 9.º - 1. No gabinete de estudos estarão representados os serviços provinciais que tenham intervenção no mercado de emprego e na orientação e fiscalização do trabalho.
+Art. 9.º - 1. No gabinete de estudos estarão representados os serviços provinciais que tenham intervenção no mercado de emprego e na orientação e fiscalização do trabalho.
 
 2. O regulamento do gabinete de estudos será aprovado por despacho do governador da província.
 
-###### Art. 10.º A secretaria, chefiada pelo chefe de expediente geral, tem por missão assegurar o expediente burocrático do serviço de emprego, cumprindo-lhe também manter organizada a sua contabilidade.
+Art. 10.º A secretaria, chefiada pelo chefe de expediente geral, tem por missão assegurar o expediente burocrático do serviço de emprego, cumprindo-lhe também manter organizada a sua contabilidade.
 
-###### Art. 11.º - 1. As divisões regionais funcionarão, em regra, junto às delegações privativas do Instituto do Trabalho, Previdência e Acção Social e com elas colaboração em todas as matérias relacionadas com os problemas do trabalho.
+Art. 11.º - 1. As divisões regionais funcionarão, em regra, junto às delegações privativas do Instituto do Trabalho, Previdência e Acção Social e com elas colaboração em todas as matérias relacionadas com os problemas do trabalho.
 
 2. As divisões regionais terão uma secretaria e os sectores do serviço técnico considerados necessários para atender aos problemas do trabalho.
 
@@ -206,9 +226,9 @@ h) Elaborar ou cooperar nos demais estudos que lhe forem solicitados sobre probl
 
 ### CAPÍTULO II — Colocação
 
-###### Art. 12.º É assegurado a todos os trabalhadores portugueses um serviço de colocação, público e gratuito, através dos centros de colocação.
+Art. 12.º É assegurado a todos os trabalhadores portugueses um serviço de colocação, público e gratuito, através dos centros de colocação.
 
-###### Art. 13.º - 1. Os centros de colocação, destinados a assegurar a colocação dos trabalhadores, têm por atribuições, designadamente:
+Art. 13.º - 1. Os centros de colocação, destinados a assegurar a colocação dos trabalhadores, têm por atribuições, designadamente:
 
 a) Ajudar os trabalhadores, compreendidos os jovens e as demais pessoas incorporadas de novo na população activa, a encontrar um emprego apropriado e produtivo e as entidades patronais a contratar com os trabalhadores que convenham às necessidades das empresas;
 
@@ -222,19 +242,19 @@ e) Garantir, em colaboração com as entidades competentes, a inscrição, infor
 
 2. Os centros de colocação, embora respeitando a vontade dos candidatos, devem abster-se de os encaminhar para empregos que proporcionem salário ou outras condições de trabalho inferiores às fixadas pela legislação, convenções colectivas ou a prática corrente.
 
-###### Art. 14.º As empresas públicas e os serviços públicos, mesmo com autonomia administrativa, bem como os organismos dependentes dos institutos do trabalho, devem notificar o centro de colocação da respectiva área das vagas de emprego verificadas e estabelecer com ele estreita coordenação na colocação de trabalhadores.
+Art. 14.º As empresas públicas e os serviços públicos, mesmo com autonomia administrativa, bem como os organismos dependentes dos institutos do trabalho, devem notificar o centro de colocação da respectiva área das vagas de emprego verificadas e estabelecer com ele estreita coordenação na colocação de trabalhadores.
 
-###### Art. 15.º Os centros de colocação, quando possível, serão dotados de secções especializadas segundo o ramo de actividade ou profissão, nos casos em que a natureza, a importância da actividade ou da profissão ou outro factor especial as justifiquem.
+Art. 15.º Os centros de colocação, quando possível, serão dotados de secções especializadas segundo o ramo de actividade ou profissão, nos casos em que a natureza, a importância da actividade ou da profissão ou outro factor especial as justifiquem.
 
-###### Art. 16.º Junto de cada centro de colocação e, quando necessário, das divisões regionais poderão funcionar estalagens destinadas a alojar, em condições dignas, os trabalhadores migrantes de recursos modestos e não residentes na respectiva localidade.
+Art. 16.º Junto de cada centro de colocação e, quando necessário, das divisões regionais poderão funcionar estalagens destinadas a alojar, em condições dignas, os trabalhadores migrantes de recursos modestos e não residentes na respectiva localidade.
 
-###### Art. 17.º A acção dos centros de colocação será coordenada com os sectores técnicos de orientação e formação profissionais.
+Art. 17.º A acção dos centros de colocação será coordenada com os sectores técnicos de orientação e formação profissionais.
 
 ### CAPÍTULO III — Orientação profissional
 
-###### Art. 18.º O sector técnico de orientação profissional tem por finalidade resolver os problemas relativos à escolha de uma profissão ou à promoção profissional do trabalhador, tendo em atenção as capacidades individuais do interessado em relação com as possibilidades do mercado do emprego e as exigências das diversas profissões.
+Art. 18.º O sector técnico de orientação profissional tem por finalidade resolver os problemas relativos à escolha de uma profissão ou à promoção profissional do trabalhador, tendo em atenção as capacidades individuais do interessado em relação com as possibilidades do mercado do emprego e as exigências das diversas profissões.
 
-###### Art. 19.º O sector de orientação profissional tem por atribuições, em especial:
+Art. 19.º O sector de orientação profissional tem por atribuições, em especial:
 
 a) Conhecer, através do gabinete de estudos, das condições económicas, técnicas e sociais das diferentes actividades profissionais e, de harmonia com os diagnósticos das aptidões reveladas, proceder à orientação profissional dos candidatos, em ordem ao apuramento de uma população normal, física e intelectualmente apta para o trabalho;
 
@@ -246,9 +266,9 @@ d) Promover a organização, em estabelecimento de ensino adequado, de cursos pa
 
 ### CAPÍTULO IV — Formação profissional
 
-###### Art. 20.º O serviço de emprego fornece os meios de formação profissional extra-escolar ou promove a sua criação a fim de permitir aos candidatos a um emprego e aos trabalhadores, de nacionalidade portuguesa, adquirir ou desenvolver os conhecimentos técnicos e profissionais necessários para ocupar-se em um emprego durável nas profissões em vias de expansão.
+Art. 20.º O serviço de emprego fornece os meios de formação profissional extra-escolar ou promove a sua criação a fim de permitir aos candidatos a um emprego e aos trabalhadores, de nacionalidade portuguesa, adquirir ou desenvolver os conhecimentos técnicos e profissionais necessários para ocupar-se em um emprego durável nas profissões em vias de expansão.
 
-###### Art. 21.º O sector de formação profissional tem por atribuições, nomeadamente:
+Art. 21.º O sector de formação profissional tem por atribuições, nomeadamente:
 
 a) Garantir o funcionamento, com o máximo aproveitamento e rentabilidade, dos centros de formação profissional criados mediante despacho do governador da província, tendo em vista a reconversão profissional dos trabalhadores que dela necessitem e a valorização profissional dos trabalhadores indiferenciados ou pouco qualificados;
 
@@ -262,31 +282,31 @@ e) Colaborar com o instituto do trabalho no estudo da regulamentação do contra
 
 f) Formar e contratar monitores para os centros de formação profissional próprios ou de outras entidades, em regime de comparticipação, assim como preparar os técnicos necessários à formação profissional.
 
-###### Art. 22.º - 1. A acção de formação profissional incide na aprendizagem, na formação acelerada de adultos, em cursos de aperfeiçoamento e na readaptação profissional.
+Art. 22.º - 1. A acção de formação profissional incide na aprendizagem, na formação acelerada de adultos, em cursos de aperfeiçoamento e na readaptação profissional.
 
 2. A formação profissional de aprendizes efectiva-se por meio de contrato de aprendizagem ou em centros de aprendizagem.
 
 3. A formação profissional acelerada pode ser obtida em centros que o serviço de emprego seja autorizado a criar, ou em empresas industriais para satisfazer as suas próprias necessidades e na medida compatível com as respectivas condições técnicas.
 
-###### Art. 23.º Nas zonas rurais podem ser criados, em colaboração com as juntas provinciais de povoamento, centros de formação especiais para desenvolver novas actividades económicas e novas profissões que utilizem os recursos naturais da região, com respeito das tradições culturais da população local.
+Art. 23.º Nas zonas rurais podem ser criados, em colaboração com as juntas provinciais de povoamento, centros de formação especiais para desenvolver novas actividades económicas e novas profissões que utilizem os recursos naturais da região, com respeito das tradições culturais da população local.
 
-###### Art. 24.º A formação profissional dos trabalhadores marítimos e dos pescadores obedecerá a regulamentação especial, ouvidos os organismos corporativos representativos das entidades patronais e dos trabalhadores.
+Art. 24.º A formação profissional dos trabalhadores marítimos e dos pescadores obedecerá a regulamentação especial, ouvidos os organismos corporativos representativos das entidades patronais e dos trabalhadores.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 25.º - 1. A composição do quadro comum dos serviços de emprego de Angola e de Moçambique é a que consta do mapa anexo ao presente decreto, do qual faz parte integrante e baixa assinado pelo Ministro do Ultramar.
+Art. 25.º - 1. A composição do quadro comum dos serviços de emprego de Angola e de Moçambique é a que consta do mapa anexo ao presente decreto, do qual faz parte integrante e baixa assinado pelo Ministro do Ultramar.
 
 2. Os governadores-gerais de Angola e de Moçambique constituirão os respectivos quadros privativos do serviço de emprego, vistas as necessidades da sua extensão, e atentas as designações funcionais e categorias fixadas para a reorganização dos institutos do trabalho, previdência e acção social, aprovada pelo [Decreto n.º 323/71](https://diariodarepublica.pt/dr/detalhe/decreto/323-1971-643096), de 27 de Julho.
 
 3. Nas províncias de governo simples os quadros do pessoal do serviço de emprego serão aprovados pelo Ministro do Ultramar, em portaria, sob proposta dos respectivos governadores.
 
-###### Art. 26.º Sem prejuízo do preceituado neste diploma, são aplicáveis ao pessoal dos quadros do serviço de emprego as disposições do Estatuto do Funcionalismo Ultramarino e legislação complementar.
+Art. 26.º Sem prejuízo do preceituado neste diploma, são aplicáveis ao pessoal dos quadros do serviço de emprego as disposições do Estatuto do Funcionalismo Ultramarino e legislação complementar.
 
-###### Art. 27.º - 1. O lugar de director do serviço de emprego será provido, em comissão de serviço, pelo Ministro do Ultramar, ouvido o governador da província, de entre indivíduos com formação e experiência adequadas e habilitados com um curso superior.
+Art. 27.º - 1. O lugar de director do serviço de emprego será provido, em comissão de serviço, pelo Ministro do Ultramar, ouvido o governador da província, de entre indivíduos com formação e experiência adequadas e habilitados com um curso superior.
 
 2. Nas suas ausências ou impedimentos, o director do serviço de emprego será substituído por um dos directores-adjuntos, a designar por despacho do governador da província.
 
-###### Art. 28.º - 1. Os lugares de director-adjunto dos sectores de colocação e de formação profissional serão livremente providos, por nomeação ou em comissão de serviço, pelo Ministro do Ultramar, ouvido o governador da província, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 28.º - 1. Os lugares de director-adjunto dos sectores de colocação e de formação profissional serão livremente providos, por nomeação ou em comissão de serviço, pelo Ministro do Ultramar, ouvido o governador da província, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
 
 2. Os lugares de director-adjunto do sector de orientação profissional serão providos livremente, por nomeação ou em comissão de serviço, pelo Ministro do Ultramar, ouvido o governador da província, de entre pessoas habilitadas com curso superior especializado.
 
@@ -294,13 +314,13 @@ f) Formar e contratar monitores para os centros de formação profissional próp
 
 4. Os lugares de técnico de 1.ª classe serão providos por escolha de entre os técnicos de 2.ª classe com, pelo menos, as duas últimas informações anuais de serviço de Muito bom.
 
-###### Art. 29.º Os lugares de chefe de expediente geral serão providos pelo Ministro do Ultramar, sob proposta do governador da província, de entre indivíduos habilitados com um curso superior ou chefes de secção de qualquer ramo do serviço público com informações de serviço nesta categoria de Muito bom.
+Art. 29.º Os lugares de chefe de expediente geral serão providos pelo Ministro do Ultramar, sob proposta do governador da província, de entre indivíduos habilitados com um curso superior ou chefes de secção de qualquer ramo do serviço público com informações de serviço nesta categoria de Muito bom.
 
-###### Art. 30.º - 1. Ao pessoal de direcção e chefia do serviço de emprego de Angola e de Moçambique, considerado como tal aquele cujas categorias são abrangidas pelas letras D a H, inclusive, poderão ser atribuídas, mediante despacho do respectivo governador, as gratificações mensais estabelecidas para os funcionários de idêntica categoria dos institutos do trabalho, previdência e acção social.
+Art. 30.º - 1. Ao pessoal de direcção e chefia do serviço de emprego de Angola e de Moçambique, considerado como tal aquele cujas categorias são abrangidas pelas letras D a H, inclusive, poderão ser atribuídas, mediante despacho do respectivo governador, as gratificações mensais estabelecidas para os funcionários de idêntica categoria dos institutos do trabalho, previdência e acção social.
 
 2. Ao pessoal de direcção e chefia com o curso superior, além das gratificações referidas no número anterior, poderá ainda ser fixado, cumulativamente, subsídio diário por despacho do governador da província.
 
-###### Art. 31.º - 1. Aos funcionários dos serviços de emprego é expressamente proibido:
+Art. 31.º - 1. Aos funcionários dos serviços de emprego é expressamente proibido:
 
 a) Recrutar, directa ou indirectamente, trabalhadores para quaisquer empresas ou serviços públicos;
 
@@ -312,19 +332,19 @@ d) Receber, seja qual for a origem ou a forma, qualquer remuneração ou vantage
 
 2. O termo «recrutamento» compreende os actos praticados com o fim de assegurar ou procurar para outrem trabalhadores que não ofereçam espontâneamente os seus serviços no local de trabalho ou em um centro de colocação do serviço de emprego.
 
-###### Art. 32.º - 1. Os funcionários do serviço de emprego que agirem em contrário ao preceituado no artigo anterior serão demitidos em processo disciplinar que contra eles será instaurado.
+Art. 32.º - 1. Os funcionários do serviço de emprego que agirem em contrário ao preceituado no artigo anterior serão demitidos em processo disciplinar que contra eles será instaurado.
 
 2. A acusação deduzida no âmbito deste artigo importa sempre a imediata suspensão do funcionário do exercício de funções, a suspensão do pagamento de vencimentos e a fixação de residência na sede da província quando a falta ali não tenha sido praticada, a menos que o funcionário acusado tenha de se ausentar da província por esse tempo, até decisão do processo.
 
-###### Art. 33.º - 1. No serviço de emprego, para desempenhar funções de carácter técnico ou executar trabalhos eventuais ou auxiliares, em tempo completo ou em tempo reduzido, poderá ser contratado ou assalariado o pessoal indispensável, nos termos e condições previstos em regulamento aprovado pelo governador da província, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas no orçamento do serviço de emprego.
+Art. 33.º - 1. No serviço de emprego, para desempenhar funções de carácter técnico ou executar trabalhos eventuais ou auxiliares, em tempo completo ou em tempo reduzido, poderá ser contratado ou assalariado o pessoal indispensável, nos termos e condições previstos em regulamento aprovado pelo governador da província, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas no orçamento do serviço de emprego.
 
 2. A colaboração técnica de funcionários qualificados do Ministério das Corporações e Previdência Social será prestada em comissão ordinária ou eventual de serviço e sempre com a anuência daquele Ministério.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 34.º Os centros de colocação, os centros de formação profissional e as divisões regionais, no que respeita à protecção legal dos trabalhadores seus utentes, serão objecto de fiscalização pela Inspecção do Trabalho.
+Art. 34.º Os centros de colocação, os centros de formação profissional e as divisões regionais, no que respeita à protecção legal dos trabalhadores seus utentes, serão objecto de fiscalização pela Inspecção do Trabalho.
 
-###### Art. 35.º - 1. Os serviços privados de recrutamento com fins lucrativos findarão as suas actividades no prazo de cinco anos a contar da data da entrada em vigor deste diploma.
+Art. 35.º - 1. Os serviços privados de recrutamento com fins lucrativos findarão as suas actividades no prazo de cinco anos a contar da data da entrada em vigor deste diploma.
 
 2. Aos serviços referidos no número anterior são aplicáveis as normas seguintes:
 
@@ -336,23 +356,23 @@ b) O custo dos serviços de recrutamento não poderá exceder o limite fixado pe
 
 4. Cessa em 31 de Dezembro de 1971 a competência das autoridades provinciais para concessão de licenças a novos serviços privados de recrutamento com fins lucrativos.
 
-###### Art. 36.º O serviço de emprego estabelecerá, para resolução dos casos sociais verificados, a necessária coordenação com o serviço social dos organismos corporativos, das instituições de previdência, das empresas e dos estabelecimentos e serviços públicos e privados de saúde e assistência.
+Art. 36.º O serviço de emprego estabelecerá, para resolução dos casos sociais verificados, a necessária coordenação com o serviço social dos organismos corporativos, das instituições de previdência, das empresas e dos estabelecimentos e serviços públicos e privados de saúde e assistência.
 
-###### Art. 37.º Os projectos e instalações do serviço de emprego, quando tenham carácter permanente, serão estudados e realizados em colaboração com as autarquias locais e os serviços de obras públicas, segundo programas anuais aprovados pelo governador da província.
+Art. 37.º Os projectos e instalações do serviço de emprego, quando tenham carácter permanente, serão estudados e realizados em colaboração com as autarquias locais e os serviços de obras públicas, segundo programas anuais aprovados pelo governador da província.
 
-###### Art. 38.º Os governadores das províncias ultramarinas adoptarão as medidas regulamentares que se imponham para a mais adequada e eficiente execução das bases do serviço de emprego que se contêm no presente decreto, determinando igualmente as suas fontes de receita, que poderão ser constituídas por receitas próprias, subsídios ou comparticipações do orçamento geral da província ou dos orçamentos de organismos públicos autónomos.
+Art. 38.º Os governadores das províncias ultramarinas adoptarão as medidas regulamentares que se imponham para a mais adequada e eficiente execução das bases do serviço de emprego que se contêm no presente decreto, determinando igualmente as suas fontes de receita, que poderão ser constituídas por receitas próprias, subsídios ou comparticipações do orçamento geral da província ou dos orçamentos de organismos públicos autónomos.
 
-###### Art. 39.º - 1. O presente decreto entra em vigor em 1 de Janeiro de 1972.
+Art. 39.º - 1. O presente decreto entra em vigor em 1 de Janeiro de 1972.
 
 2. A instalação e funcionamento do serviço de emprego nas províncias de governo simples efectuar-se-á à medida que as respectivas necessidades do mercado do trabalho o aconselhem, mediante providência adequada do Ministro do Ultramar.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Julho de 1971.**
+Promulgado em 14 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -360,6 +380,6 @@ Mapa anexo ao Decreto n.º 324/71
 
 Pessoal do serviço de emprego de Angola e de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/17500/10941098.pdf))](https://files.diariodarepublica.pt/1s/1971/07/17500/10941098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/17500/10941098.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

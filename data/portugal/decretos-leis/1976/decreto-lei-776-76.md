@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/25200/24402440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1976-409326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61848e48cdebb7a13c85fc1cd25668c7c78ca74f44f536c37c79571f59184d7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03567b4c123cfbb0f9cca9a7ef8d8a227b8b6bd19ef344d9f64110e5df9bdce6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
+- Orçamento
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:277330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:49Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +105,16 @@ de 27 de Outubro
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a transferência de 3190000$00 da verba descrita no capítulo 5.º, artigo 51.º, n.º 1 «Intendência-Geral do Orçamento», do actual orçamento do Ministério das Finanças, para a dotação a inscrever no orçamento do Ministério dos Negócios Estrangeiros, sob o capítulo 6.º, artigo 164.º, n.º 2 «Encargos a satisfazer com a organização da reunião ministerial da EFTA».
+Artigo 1.º É autorizada a transferência de 3190000$00 da verba descrita no capítulo 5.º, artigo 51.º, n.º 1 «Intendência-Geral do Orçamento», do actual orçamento do Ministério das Finanças, para a dotação a inscrever no orçamento do Ministério dos Negócios Estrangeiros, sob o capítulo 6.º, artigo 164.º, n.º 2 «Encargos a satisfazer com a organização da reunião ministerial da EFTA».
 
-###### Art. 2.º Às despesas realizadas com as reuniões ministeriais da EFTA são aplicáveis as disposições do artigo 3.º e seus parágrafos do [Decreto-Lei n.º 41135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41135-1957-277330), de 1 de Junho de 1957.
+Art. 2.º Às despesas realizadas com as reuniões ministeriais da EFTA são aplicáveis as disposições do artigo 3.º e seus parágrafos do [Decreto-Lei n.º 41135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41135-1957-277330), de 1 de Junho de 1957.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 18 de Outubro de 1976.**
+Promulgado em 18 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

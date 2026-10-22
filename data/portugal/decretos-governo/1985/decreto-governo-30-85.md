@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/30-1985-180408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c783cb9fc070b9bf45f576f4926db2e4497c44871259304f3b12669714129e26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d28535fd12efe04e6f2be5262f31ee0656b1da91499d529db87f6bf30d43c47c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CERN
+- Convenção
+- Energia Nuclear
+- Portugal
 relationships: []
 article_structure:
-  article_count: 9
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:12Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 12 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção para o Estabelecimento de Uma Organização Europeia para a Pesquisa Nuclear, bem como o Protocolo Financeiro anexo à mesma Convenção, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção para o Estabelecimento de Uma Organização Europeia para a Pesquisa Nuclear, bem como o Protocolo Financeiro anexo à mesma Convenção, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - Virgílio Alberto Meira Soares - José Veiga Simão.
 
-**Assinado em 18 de Julho de 1985.**
+Assinado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Convenção para o Estabelecimento de Uma Organização Europeia para a Pesquisa Nuclear
 
@@ -113,17 +117,13 @@ Desejando, de harmonia com o disposto na secção 2 do artigo III do referido Ac
 
 acordaram no que segue:
 
-Artigo I
-
-Estabelecimento da Organização
+###### Artigo I — Estabelecimento da Organização
 
 1 - É criada pela presente Convenção a Organização Europeia para a Pesquisa Nuclear (a seguir denominada «Organização»).
 
 2 - A sede da Organização é em Genebra, salvo se o Conselho mencionado no artigo IV decidir posteriormente, por maioria de dois terços de todos os Estados Membros, transferi-lo para o local onde se encontra um outro dos laboratórios referidos na alínea a) do parágrafo 2 do artigo II.
 
-Artigo II
-
-Fins
+###### Artigo II — Fins
 
 1 - A Organização assegurará a colaboração entre Estados europeus nas pesquisas nucleares de carácter puramente científico e fundamental, assim como outras pesquisas essencialmente relacionadas com aquelas. A Organização abster-se-á de qualquer actividade com fins militares e os resultados dos seus trabalhos de carácter experimental e teórico serão publicados ou de qualquer outra forma tornados geralmente acessíveis.
 
@@ -165,9 +165,7 @@ d) Qualquer outro programa conforme as disposições do parágrafo 2 supra.
 
 7 - No quadro dos seus programas de actividades os laboratórios colaborarão em toda a medida do possível com os laboratórios ou instituições situadas no território dos Estados Membros. Na medida compatível com os fins da Organização, os laboratórios esforçar-se-ão por evitar qualquer duplicação de tarefas relativamente as pesquisas realizadas nos referidos laboratórios ou instituições.
 
-Artigo III
-
-Condições de adesão
+###### Artigo III — Condições de adesão
 
 1 - Os Estados Partes do Acordo de 15 de Fevereiro de 1952, mencionado no preâmbulo da presente Convenção, assim como os Estados que contribuíram com dinheiro ou em espécie para o Conselho instituído pelo referido Acordo e participaram de um modo efectivo nos seus trabalhos, têm o direito de se tornar membros da Organização, tornando-se partes na presente Convenção de acordo com as disposições dos artigos XV, XVI e XVII.
 
@@ -191,15 +189,11 @@ a) Prejudicará a aplicação a qualquer pessoa das leis e regulamentos dos Esta
 
 b) Obrigará um Estado Membro a comunicar ou autorizar a comunicação de uma informação de que disponha, se considerar tal comunicação contrária às exigências da sua segurança.
 
-Artigo IV
-
-Órgãos
+###### Artigo IV — Órgãos
 
 A Organização compreende um Conselho e para cada laboratório um director-geral, assistido de um quadro de pessoal.
 
-Artigo V
-
-Conselho
+###### Artigo V — Conselho
 
 1 - O conselho é composto de um máximo de dois delegados por cada Estado Membro, que podem ser acompanhados às reuniões por conselheiros.
 
@@ -241,9 +235,7 @@ g) Tem todos os poderes e todas e desempenha todas as restantes funções necess
 
 13 - Enquanto não depositarem os seus instrumentos de ratificação ou de adesão os Estados mencionados no parágrafo 1 do artigo III podem fazer-se representar nas reuniões do Conselho e tomar parte nos seus trabalhos até 31 de Dezembro de 1954. Tal faculdade não compreenderá o direito de voto, salvo se os mesmos Estados tenham satisfeito a contribuição prevista no parágrafo 1 do artigo IV do Protocolo Financeiro anexo à Convenção.
 
-Artigo VI
-
-Directores-gerais
+###### Artigo VI — Directores-gerais
 
 1:
 
@@ -259,9 +251,7 @@ O Conselho designará então, em lugar do director-geral, uma pessoa cujos poder
 
 4 - As responsabilidades dos directores-gerais e do pessoal relativamente à Organização são de carácter exclusivamente internacional. No cumprimento dos seus deveres não deverão pedir nem receber instruções de qualquer governo ou de qualquer autoridade estranha à Organização. Os Estados Membros deverão respeitar o carácter internacional das responsabilidades dos directores-gerais e do pessoal e não procurar influenciá-los no cumprimento dos seus deveres.
 
-Artigo VII
-
-Contribuições financeiras
+###### Artigo VII — Contribuições financeiras
 
 1 - Cada Estado Membro contribuirá, para as despesas com o imobilizado e para as despesas correntes do funcionamento da Organização:
 
@@ -287,21 +277,15 @@ b) Todas as contribuições satisfeitas de acordo com as disposições da alíne
 
 6 - Na medida dos poderes que lhe são delegados em virtude da alínea a) do parágrafo 1 do artigo VI, e sem prejuízo das directivas eventualmente dadas pelo Conselho, cada director-geral pode aceitar dádivas e legados feitos à Organização, se os mesmos não forem objecto de condições incompatíveis com os fins da Organização.
 
-Artigo VIII
-
-Cooperação com a UNESCO e outros organismos
+###### Artigo VIII — Cooperação com a UNESCO e outros organismos
 
 A Organização cooperará com a Organização das Nações Unidas para a Educação, Ciência e Cultura. Pode igualmente, por decisão do Conselho tomada por maioria de dois terços de todos os Estados Membros, cooperar com outros organismos.
 
-Artigo IX
-
-Estatuto Jurídico
+###### Artigo IX — Estatuto Jurídico
 
 A Organização goza de personalidade jurídica no território metropolitano de cada Estado Membro. A Organização, os representantes dos Estados Membros no Conselho, os membros de todos os órgãos subsidiários estabelecidos de acordo com o parágrafo 12 do artigo V, os directores-gerais e os membros do pessoal da Organização gozam, no território metropolitano dos Estados Membros e no quadro dos acordos a concluir pela Organização com cada Estado Membro interessado, dos privilégios e imunidades que sejam julgados necessários ao cumprimento das funções da Organização. Os acordos que forem concluídos entre a Organização e os Estados Membros em que estejam situados os laboratórios conterão, além das disposições relativas aos privilégios e imunidades, aquelas que forem necessárias para a regulamentação das relações particulares entre a Organização e os restantes Estados Membros.
 
-Artigo X
-
-Emendas
+###### Artigo X — Emendas
 
 1 - O Conselho pode recomendar aos Estados Membros emendas à presente Convenção. Qualquer Estado Membro que desejar propor uma emenda notificá-la-á ao presidente do Conselho. Este comunicará aos Estados Membros as emendas assim notificadas pelo menos 3 meses antes do seu exame pelo Conselho.
 
@@ -309,55 +293,39 @@ Emendas
 
 3 - O Conselho pode, por maioria de dois terços de todos os Estados Membros, emendar o Protocolo Financeiro anexo à presente Convenção desde que tal emenda não contrarie as disposições da Convenção. Estas emendas entrarão em vigor na data em que o Conselho decidir pela mesma maioria. O presidente do Conselho informará todos os Estados Membros e o director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura das emendas assim adoptadas e da data da sua entrada em vigor.
 
-Artigo XI
-
-Diferendos
+###### Artigo XI — Diferendos
 
 Qualquer diferendo entre dois ou diversos Estados Membros acerca da interpretação ou da aplicação da presente Convenção que não possa ser julgado pela mediação do Conselho será submetido ao Tribunal Internacional de Justiça, salvo se os Estados Membros interessados aceitarem de comum acordo uma outra forma de decisão.
 
-Artigo XII
-
-Retirada
+###### Artigo XII — Retirada
 
 Após a presente Convenção vigorar durante sete anos, qualquer Estado Membro poderá, sem prejuízo das disposições do parágrafo 4 do artigo III, notificar por escrito o presidente do Conselho que se retira da Organização e essa retirada terá efeito quer no final do exercício financeiro seguinte àquele durante o qual a notificação for feita quer em qualquer data posterior que o Estado Membro proponha.
 
-Artigo XIII
-
-Não cumprimento das obrigações
+###### Artigo XIII — Não cumprimento das obrigações
 
 Qualquer Estado Membro que não cumpra as obrigações decorrentes da presente Convenção deixa de ser membro da Organização após decisão do Conselho tomada por maioria de dois terços de todos os Estados Membros.
 
-Artigo XIV
-
-Dissolução
+###### Artigo XIV — Dissolução
 
 A Organização será dissolvida se o número dos Estados Membros se reduzir a menos de cinco. Poderá ser dissolvida em qualquer momento por acordo entre os Estados Membros. Sem prejuízo de qualquer acordo que possa ser feito entre os Estados Membros ao tempo da dissolução, o Estado em cujo território se encontra a sede da Organização naquele momento será responsável pela liquidação e o activo será repartido entre os Estados Membros no momento da dissolução em proporção das contribuições efectivamente pagas por eles desde a data em que se tornaram partes da presente Convenção. No caso existir passivo, este será suportado por esses mesmos Estados, em proporção das contribuições fixadas para o exercício financeiro em curso.
 
-Artigo XV
-
-Assinatura
+###### Artigo XV — Assinatura
 
 A presente Convenção e o Protocolo Financeiro que dela faz parte integrante serão, até 31 de Dezembro de 1953, abertos à assinatura de qualquer Estado, cumprindo as condições estabelecidas no parágrafo 1 do artigo III.
 
-Artigo XVI
-
-Ratificação
+###### Artigo XVI — Ratificação
 
 1 - A presente Convenção e o Protocolo Financeiro anexo serão submetidos a ratificação.
 
 2 - Os instrumentos de ratificação serão depositados junto do director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 
-Artigo XVII
-
-Adesão
+###### Artigo XVII — Adesão
 
 1 - Qualquer Estado não signatário da presente Convenção e do Protocolo Financeiro anexo pode aderir aos mesmos a partir de 1 de Janeiro de 1954.
 
 2 - Os instrumentos de adesão serão depositados junto do director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura.
 
-Artigo XVIII
-
-Entrada em vigor
+###### Artigo XVIII — Entrada em vigor
 
 1 - A presente Convenção e o Protocolo Financeiro anexo entrarão em vigor quando sete Estados tenham ratificado esses instrumentos e a eles tenham aderido, desde que:
 
@@ -367,17 +335,13 @@ b) A Suíça, país em cujo território se encontrará a sede da Organização, 
 
 2 - Para qualquer outro Estado signatário ou aderente a Convenção e o Protocolo Financeiro anexo entrarão em vigor na data do depósito do seu instrumento de ratificação ou de adesão.
 
-Artigo XIX
-
-Notificações
+###### Artigo XIX — Notificações
 
 1 - O depósito de cada instrumento de ratificação ou de adesão e a entrada em vigor da presente Convenção serão notificados pelo director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura aos Estados signatários ou aderentes, assim como aos Estados que tenham participado na Conferência para a Organização dos Estudos Relativos ao Estabelecimento de Um Laboratório Europeu de Pesquisas Nucleares, reunida em Paris em Dezembro de 1951 e em Genebra em Fevereiro de 1952.
 
 2 - O presidente do Conselho enviará uma notificação a todos os Estados Membros e ao director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura cada vez que um Estado Membro se retirar da Organização ou deixar de fazer parte dela.
 
-Artigo XX
-
-Registo
+###### Artigo XX — Registo
 
 Quando a presente Convenção entrar em vigor, o director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura promoverá o seu registo junto do Secretário das Nações Unidas, de acordo com o artigo 102 da Carta das Nações Unidas.
 

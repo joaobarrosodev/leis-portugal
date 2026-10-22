@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48034-1967-389189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3345e55d70d9a4c6b70b83a990dca7d13dee86d7627495c2c1821cbd698bb531
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 829b1e874aa5f931bd4811c3b18bbaebf484acb83e8595894810135618a1d8b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Paris
+- Portugal
+- Preço
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:12Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +90,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Internacional Relativo às Normas para o Estabelecimento de Tarifas dos Serviços Aéreos Regulares, assinado em Paris em 10 de Julho de 1967, cujo texto em língua francesa e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo Internacional Relativo às Normas para o Estabelecimento de Tarifas dos Serviços Aéreos Regulares, assinado em Paris em 10 de Julho de 1967, cujo texto em língua francesa e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -105,7 +110,7 @@ Desejando que os princípios e procedimentos para o estabelecimento de tais tari
 
 Acordaram o seguinte:
 
-###### ARTIGO 1
+ARTIGO 1
 
 O presente Acordo:
 
@@ -117,7 +122,7 @@ a) Estabelece as disposições tarifárias aplicáveis aos serviços aéreos reg
 
 b) Substitui as disposições tarifárias contidas em acordo bilateral já concluído entre dois Estados Partes do presente Acordo pelo tempo em que este último continue em vigor entre esses dois Estados.
 
-###### ARTIGO 2
+ARTIGO 2
 
 1) Nos parágrafos seguintes, o termo «tarifa» significa os preços do transporte de passageiros, bagagem e mercadorias e as condições em que se aplicam, assim como os preços e condições referentes aos serviços de agência e outros serviços auxiliares, com excepção, todavia, das remunerações e condições relativas ao transporte de correio.
 
@@ -135,7 +140,7 @@ b) Substitui as disposições tarifárias contidas em acordo bilateral já concl
 
 8) Qualquer tarifa estabelecida em conformidade com o disposto no presente artigo continuará em vigor até ao estabelecimento de nova tarifa. A validade de uma tarifa não poderá, todavia, ser prorrogada em virtude deste parágrafo por período superior a doze meses, a contar da data em que deveria ter expirado.
 
-###### ARTIGO 3
+ARTIGO 3
 
 1) Se não houver acordo bilateral de transporte aéreo entre as duas Partes ou, existindo acordo bilateral, este não incluir disposições para a solução de diferendos e surgir um diferendo como o previsto no parágrafo 7 do artigo 2, as duas Partes poderão, de comum acordo, submetê-lo à decisão de qualquer pessoa ou organismo, ou, a pedido de uma delas, concordar em submetê-lo a um tribunal constituído por três árbitros.
 
@@ -145,43 +150,43 @@ b) Substitui as disposições tarifárias contidas em acordo bilateral já concl
 
 4) Salvo acordo em contrário das Partes, o tribunal determinará o seu próprio procedimento. Todas as decisões serão tomadas por maioria de votos e serão definitivas.
 
-###### ARTIGO 4
+ARTIGO 4
 
 Sem prejuízo do disposto no artigo 2, parágrafo 7, e no artigo 3, qualquer diferendo que surja entre duas ou mais Partes sobre a interpretação ou aplicação do presente Acordo e que não possa ser solucionado por meio de negociações será submetido a arbitragem, a pedido de uma delas. Se, dentro de seis meses, a contar da data do pedido de arbitragem, as Partes não conseguirem chegar a acordo sobre a organização desta, qualquer delas poderá submeter o diferendo ao Tribunal Internacional de Justiça, requerendo-o em conformidade com o estatuto do referido Tribunal.
 
-###### ARTIGO 5
+ARTIGO 5
 
 O presente Acordo ficará aberto à assinatura de todos os Estados membros da Comissão Europeia da Aviação Civil.
 
-###### ARTIGO 6
+ARTIGO 6
 
 1) O presente Acordo estará sujeito à ratificação dos Estados signatários ou à sua aprovação.
 
 2) Os instrumentos de ratificação e as notificações de aprovação serão depositados junto da Organização da Aviação Civil Internacional.
 
-###### ARTIGO 7
+ARTIGO 7
 
 1) O presente Acordo entrará em vigor no trigésimo dia, após cinco Estados membros da Comissão Europeia da Aviação Civil terem depositado os seus instrumentos de ratificação ou notificado a sua aprovação.
 
 2) Em relação aos Estados que o ratificarem ou aprovarem posteriormente, entrará em vigor 30 dias após a data do depósito do instrumento de ratificação ou da notificação de aprovação.
 
-###### ARTIGO 8
+ARTIGO 8
 
 1) Após a sua entrada em vigor, o presente Acordo ficará aberto à adesão de qualquer Estado membro da Organização das Nações Unidas ou de qualquer organismo especializado.
 
 2) A adesão efectuar-se-á pelo depósito de um instrumento de adesão junto da Organização da Aviação Civil Internacional e tornar-se-á efectiva no trigésimo dia após a data do depósito.
 
-###### ARTIGO 9
+ARTIGO 9
 
 Qualquer das Partes poderá denunciar o presente Acordo por notificação dirigida à Organização da Aviação Civil Internacional. A denúncia tornar-se-á efectiva um ano após a data da recepção da referida notificação.
 
-###### ARTIGO 10
+ARTIGO 10
 
 1) No momento de assinar, ratificar ou aprovar o presente Acordo ou de a ele aderir, qualquer das Partes poderá declarar que não se considera vinculada pelas disposições do artigo 4. As outras Partes não ficarão vinculadas pelas citadas disposições em relação à Parte que tiver formulado tal reserva.
 
 2) Qualquer Parte que tiver formulado uma reserva em conformidade com o disposto no parágrafo anterior, poderá, em qualquer momento, retirá-la por meio de notificação dirigida à Organização da Aviação Civil Internacional.
 
-###### ARTIGO 11
+ARTIGO 11
 
 1) Logo que o presente Acordo entre em vigor será registado junto do secretário-geral da Organização das Nações Unidas pela Organização da Aviação Civil Internacional.
 

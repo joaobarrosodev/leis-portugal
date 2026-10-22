@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45349-1963-688222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95fc5188f761466ff92c896510c00a9e287d168c7b26b947a1e62cee7aa67527
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc5d8fb27350589696aa6db202bf61fd898cf91a4ce1525aad1b6d9729d48fcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Força Aérea
+- Pessoal Civil
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:172877:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:57Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +101,11 @@ Tornando-se necessário dar sanção legal aos abonos feitos até à publicaçã
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São sancionados, para todos os efeitos, os abonos de vencimentos e remunerações efectuados ao pessoal civil contratado e assalariado, a título provisório, para preenchimento dos quadros aprovados para a 2.ª região aérea durante o período em que prestou serviço anteriormente à publicação da [Portaria n.º 18567](https://diariodarepublica.pt/dr/detalhe/portaria/18567-1961-172877), de 4 de Julho de 1961.
+Artigo 1.º São sancionados, para todos os efeitos, os abonos de vencimentos e remunerações efectuados ao pessoal civil contratado e assalariado, a título provisório, para preenchimento dos quadros aprovados para a 2.ª região aérea durante o período em que prestou serviço anteriormente à publicação da [Portaria n.º 18567](https://diariodarepublica.pt/dr/detalhe/portaria/18567-1961-172877), de 4 de Julho de 1961.
 
-###### Art. 2.º O pessoal referido no artigo anterior deverá descontar para ser aposentado pela respectiva província ultramarina desde a data em que foi admitido, mesmo a título provisório.
+Art. 2.º O pessoal referido no artigo anterior deverá descontar para ser aposentado pela respectiva província ultramarina desde a data em que foi admitido, mesmo a título provisório.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco António das Chagas.
 

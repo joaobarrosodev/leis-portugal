@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/07700/05090509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1975-161717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f26120173bf3e63ebb96cd691efe74c4904c469f284446728517c4507fb77b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e098be82f6c56e0e5789b53d4279863ef03c066b5911b040a41b80296c96a4bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ALTO Comissário para Angola
+- ALTO Comissário para CABO Verde
+- ALTO Comissário para Moçambique
+- ALTO Comissário para são TOMÉ e Principe
+- Angola.Colónia Portuguesa
+- CABO Verde.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Remuneração
+- São Tomé e Príncipe.Colónia Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:28Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +110,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os Altos-Comissários de Cabo Verde, S. Tomé e Príncipe, Angola e Moçambique têm direito a um vencimento de quantitativo igual ao que aufere o Primeiro-Ministro do Governo Português.
+Artigo 1.º - 1. Os Altos-Comissários de Cabo Verde, S. Tomé e Príncipe, Angola e Moçambique têm direito a um vencimento de quantitativo igual ao que aufere o Primeiro-Ministro do Governo Português.
 
 2. Os Altos-Comissários podem, no entanto, optar pelos vencimentos que lhes competirem pela sua patente.
 
-###### Art. 2.º Aos Altos-Comissários de Cabo Verde, S. Tomé e Príncipe, Angola e Moçambique, aos Ministros dos Governos de Transição desses Estados, de nomeação do Presidente da República, e ao pessoal dos Secretariados-Gerais e dos Gabinetes dos Altos-Comissariados poderão ser abonadas mensalmente, a contar da data do início de funções e a título de despesas de deslocação e de representação, as importâncias a fixar em despacho do Presidente da República.
+Art. 2.º Aos Altos-Comissários de Cabo Verde, S. Tomé e Príncipe, Angola e Moçambique, aos Ministros dos Governos de Transição desses Estados, de nomeação do Presidente da República, e ao pessoal dos Secretariados-Gerais e dos Gabinetes dos Altos-Comissariados poderão ser abonadas mensalmente, a contar da data do início de funções e a título de despesas de deslocação e de representação, as importâncias a fixar em despacho do Presidente da República.
 
-###### Art. 3.º Os encargos previstos neste diploma serão suportados, em relação a cada território, pelo fundo constituído a favor do respectivo Alto-Comissariado no Gabinete Coordenador para a Cooperação.
+Art. 3.º Os encargos previstos neste diploma serão suportados, em relação a cada território, pelo fundo constituído a favor do respectivo Alto-Comissariado no Gabinete Coordenador para a Cooperação.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 21 de Março de 1975.**
+Promulgado em 21 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado nos Boletins Oficiais de Cabo Verde, S. Tomé e Príncipe, Angola e Moçambique. - A. Almeida Santos.

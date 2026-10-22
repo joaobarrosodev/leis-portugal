@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10200/09440952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1976-427575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 449d1b7f8d6a769c10bc9156eafca97d99fd5dd1066bc20df0885b27d6a86f11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0fd66b8e78b1540635aad4356dfc5972e07d6a26a5476a8ad475cb36e0f391d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cosec
+- Crédito Bancário
 relationships:
 - type: amended_by
   target: pt:dre:375420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157175:por
+  label: "Alterado o nº 4 do art. 29º pelo DEC LEI.519-O1/79.29.12.1979.MF, DR.IS [299-6.º Supl] de 29.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-o1-1979-157175
+  date: '1979-12-29'
+- type: amended_by
+  target: pt:dre:375626:por
+  label: "Extinta a Comissão de Créditos e Garantias de Créditos criada no art. 31º do presente diploma, e revogados os arts.\
+    \ 8º, 19º, 20º e 31º a 34º do mesmo pelo DEC LEI.372/82.10.09.1982.MFP, DR.IS [210] de 10.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1982-375626
+  date: '1982-09-10'
+- type: cites
+  target: pt:dre:390267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646901:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579173:por
+  label: "Revogado pelo DEC LEI.169/81.20.06.1981.MFP, DR.IS [139] de 20.06.1981, sem prejuízo do diposto no nº 2 do art.\
+    \ 28º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1981-579173
+  date: '1981-06-20'
 article_structure:
   article_count: 37
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:26Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +148,7 @@ Adopta-se, por outro lado, no presente diploma uma sistemática inteiramente nov
 
 Teve-se em especial atenção a necessidade de estruturar um sistema de seguro de créditos adaptado às necessidades do nosso comércio externo, no aspecto fundamental da consideração dos superiores interesses da economia nacional, para os quais exportar mais e melhor se traduz num aumento do rendimento nacional, com imediata incidência na balança de pagamentos.
 
-# Parte-se, também, do princípio de que à iniciativa privada, quer no comércio externo, quer no comércio interno, é deixado um largo campo de desenvolvimento, sem prejuízo de ao Estado ser assegurado o contrôle e a fiscalização directa de toda a actividade seguradora que ora se regula.
+Parte-se, também, do princípio de que à iniciativa privada, quer no comércio externo, quer no comércio interno, é deixado um largo campo de desenvolvimento, sem prejuízo de ao Estado ser assegurado o contrôle e a fiscalização directa de toda a actividade seguradora que ora se regula.
 
 No intuito de clarificar e tornar inteiramente transparente a actuação da Companhia de Seguro de Créditos, definem-se pela primeira vez, a par das normas fundamentais relativas aos seguros de créditos à exportação, que constituem a finalidade principal da sua actividade, os preceitos reguladores da concessão de seguros de crédito internos e de seguros-caução e aval ou fiança, cuja ausência de normas disciplinadoras têm causado alguns embaraços àquela Companhia.
 
@@ -499,8 +546,8 @@ As infracções ao disposto no presente diploma e ao que for determinado em dipl
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - António Francisco Barroso de Sousa Gomes - Ernesto Augusto de Melo Antunes - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 15 de Abril de 1976.**
+Promulgado em 15 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

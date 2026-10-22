@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01500/00900091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1977-138282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fc1aac788d5da7a4e15d6b1e5a82ed2d5445ada6e465d4f7330988096c5ca1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dad4a9e0f849f08d1afe155de87887a510847554302427de471eb3f074559da1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Previdência Social
+- Regime Geral de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141799:por
+  label: "Prorrogados até 28.02.1977 os prazos previstos no nº 1 do art. 3º e no nº 7 do art. 4º e alterada a redacção do\
+    \ art. 7º pelo DEC LEI.61/77.22.02.1977.MAS, DR.IS [44] de 22.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1977-141799
+  date: '1977-02-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 8 PELO DEC LEI 146/79 DE 23-MAI DR.IS [118]\0[118]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-05-23'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:431396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431398:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:48Z'
   warnings: []
   errors: []
 ---
@@ -104,17 +135,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 6.º do [Decreto-Lei n.º 511/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1976-431396), de 3 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 6.º do [Decreto-Lei n.º 511/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1976-431396), de 3 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. ...
 
 3. A taxa de juro de mora é de 1,25% por cada mês do calendário ou fracção.
 
-###### Art. 2.º O disposto no artigo 4.º do [Decreto-Lei n.º 512/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1976-431397), de 3 de Julho, não se aplica aos membros dos conselhos fiscais das empresas e só se aplicará às contribuições do regime geral de previdência que forem devidas a partir de 1 de Janeiro de 1977, ficando sem efeito o n.º 2 do artigo 7.º daquele [Decreto-Lei n.º 512/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1976-431397).
+Art. 2.º O disposto no artigo 4.º do [Decreto-Lei n.º 512/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1976-431397), de 3 de Julho, não se aplica aos membros dos conselhos fiscais das empresas e só se aplicará às contribuições do regime geral de previdência que forem devidas a partir de 1 de Janeiro de 1977, ficando sem efeito o n.º 2 do artigo 7.º daquele [Decreto-Lei n.º 512/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1976-431397).
 
-###### Art. 3.º - 1. Ficam isentos do pagamento de juros de mora os contribuintes do regime geral de previdência que venham a proceder ao pagamento das respectivas contribuições até 31 de Janeiro de 1977, ainda que parcial, mas, neste último caso, a isenção só respeita ao quantitativo pago.
+Art. 3.º - 1. Ficam isentos do pagamento de juros de mora os contribuintes do regime geral de previdência que venham a proceder ao pagamento das respectivas contribuições até 31 de Janeiro de 1977, ainda que parcial, mas, neste último caso, a isenção só respeita ao quantitativo pago.
 
 2. A isenção do n.º 1 aproveita também aos contribuintes que já beneficiam do pagamento em prestações, deduzindo-se, nestes casos, nos quantitativos a satisfazer os juros já pagos.
 
@@ -122,7 +153,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. Em nenhum caso haverá lugar à restituição de custas, multas ou juros de mora já pagos.
 
-###### Art. 4.º - 1. As caixas concederão aos contribuintes do regime geral de previdência que tenham contribuições em dívida à data da entrada em vigor do presente diploma o seu pagamento em prestações, bem como dos respectivos juros de mora vencidos e vincendos, nos termos e dentro dos requisitos fixados nos artigos seguintes e demais legislação vigente.
+Art. 4.º - 1. As caixas concederão aos contribuintes do regime geral de previdência que tenham contribuições em dívida à data da entrada em vigor do presente diploma o seu pagamento em prestações, bem como dos respectivos juros de mora vencidos e vincendos, nos termos e dentro dos requisitos fixados nos artigos seguintes e demais legislação vigente.
 
 2. O pagamento poderá ser realizado num máximo de sessenta prestações mensais e iguais.
 
@@ -140,28 +171,28 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 9. A falta de pagamento de qualquer prestação ou das contribuições mensais que se vencerem posteriormente à data do deferimento do pedido determina o vencimento imediato das restantes prestações e juros, ficando sem efeito a redução destes consignada no número anterior para os dois primeiros anos.
 
-###### Art. 5.º Os processos actualmente pendentes em tribunal contra contribuintes que requeiram às caixas o pagamento das contribuições em prestações serão suspensos da instância a requerimento das caixas, desde que os valores relativos às contribuições e juros de mora constem dos despachos referidos no n.º 6 do artigo anterior.
+Art. 5.º Os processos actualmente pendentes em tribunal contra contribuintes que requeiram às caixas o pagamento das contribuições em prestações serão suspensos da instância a requerimento das caixas, desde que os valores relativos às contribuições e juros de mora constem dos despachos referidos no n.º 6 do artigo anterior.
 
-###### Art. 6.º É revogado o artigo 5.º do [Decreto-Lei n.º 513/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1976-431398).
+Art. 6.º É revogado o artigo 5.º do [Decreto-Lei n.º 513/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1976-431398).
 
-###### Art. 7.º São perdoadas, sem prejuízo dos direitos dos beneficiários, as dívidas vencidas até 30 de Setembro do corrente ano dos contribuintes às caixas, desde que o seu montante não ultrapasse 5000$00. Porém, os contribuintes terão de restituir aos trabalhadores, no prazo de noventa dias, as importâncias que lhes foram descontadas.
+Art. 7.º São perdoadas, sem prejuízo dos direitos dos beneficiários, as dívidas vencidas até 30 de Setembro do corrente ano dos contribuintes às caixas, desde que o seu montante não ultrapasse 5000$00. Porém, os contribuintes terão de restituir aos trabalhadores, no prazo de noventa dias, as importâncias que lhes foram descontadas.
 
-###### Art. 8.º - 1. O Estado, as empresas públicas nacionalizadas e quaisquer pessoas colectivas de direito público que concedam qualquer subsídio ou financiamento ou que estejam obrigados a quaisquer pagamentos por contratos de empreitada ou de fornecimento deverão reter até 25% da quantia a entregar, desde que a entidade credora não prove ter a situação contributiva regularizada nos termos da lei perante a Previdência.
+Art. 8.º - 1. O Estado, as empresas públicas nacionalizadas e quaisquer pessoas colectivas de direito público que concedam qualquer subsídio ou financiamento ou que estejam obrigados a quaisquer pagamentos por contratos de empreitada ou de fornecimento deverão reter até 25% da quantia a entregar, desde que a entidade credora não prove ter a situação contributiva regularizada nos termos da lei perante a Previdência.
 
 2. As importâncias retidas são depositadas directamente à ordem da Caixa Nacional de Pensões, através de guias da caixa credora, a quem será comunicada a realização do depósito.
 
-###### Art. 9.º - 1. O disposto no presente diploma é aplicável aos casos de pagamento em prestações requerido ao abrigo do artigo 3.º do [Decreto-Lei n.º 513/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1976-431398), ainda que já deferido e iniciado o cumprimento, devendo a caixa competente efectuar as devidas rectificações para a adaptação ao regime do presente diploma.
+Art. 9.º - 1. O disposto no presente diploma é aplicável aos casos de pagamento em prestações requerido ao abrigo do artigo 3.º do [Decreto-Lei n.º 513/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1976-431398), ainda que já deferido e iniciado o cumprimento, devendo a caixa competente efectuar as devidas rectificações para a adaptação ao regime do presente diploma.
 
 2. Se ainda não tiver havido deferimento, este será feito nos termos do regime agora introduzido.
 
-###### Art. 10.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+Art. 10.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 11.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação no Diário da República.
+Art. 11.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação no Diário da República.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 4 de Janeiro de 1977.**
+Promulgado em 4 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

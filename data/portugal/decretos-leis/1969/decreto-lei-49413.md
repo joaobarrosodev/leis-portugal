@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 275/1969, 2º Suplemento, Série I de 1969-11-24
   number: '275'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 33 - 40
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27502/00330040.pdf
 entry_into_force_dates: []
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49413-1969-176304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04102865dd281e5301d1a8c106a1c1a232232f389e5e53b5b01cf8efebe01aca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceacb18fb8a2df2c73d14c34639ee3e00231bebb74c09c988dba7b39e8e7ec4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Alfândega
+- Despachante Oficial
+- Direitos Aduaneiros
+- Emolumento
+- Funcionário Público
+- Reforma Aduaneira
+- Subsídio de Transporte
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:506009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506009:por
+  label: "Alterado o art. 7º da tabela I anexa à Reforma Aduaneira aprovada pelo Dec lei 46311 de 27-Abr de 1965, com a redacção\
+    \ dada no presente diploma, pelo DEC LEI.51/76.21.01.1976.MF, DG.IS [17] de 21.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1976-506009
+  date: '1976-01-21'
+- type: cites
+  target: pt:dre:231277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538205:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:58Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +127,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. As tabelas I e II anexas à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, são substituídas pelas tabelas I e II anexas a este diploma e que baixam assinadas pelo Ministro das Finanças.
+Artigo único. As tabelas I e II anexas à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, são substituídas pelas tabelas I e II anexas a este diploma e que baixam assinadas pelo Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 22 de Novembro de 1969.**
+Promulgado em 22 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -114,7 +141,7 @@ TABELA I
 
 Taxas do tráfego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/27502/00330040.pdf))](https://files.diariodarepublica.pt/1s/1969/11/27502/00330040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/27502/00330040.pdf)
 
 Observações
 

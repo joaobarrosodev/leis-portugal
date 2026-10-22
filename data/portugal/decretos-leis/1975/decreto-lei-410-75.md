@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18100/10961096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1975-314587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f801a8f7d6a793ae0736a4c0a307b071ef686339ac69289e910400b75736eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d18ced091a77ca383205a11ed61b6e9acff42357e68167c88a323783fc6dee4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Função Pública
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Militar
+- Recrutamento de Pessoal
+- Reintegração de Pessoal
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:675672:por
+  label: "Rectificado pela RECT.DD146.06.11.1975.PCM, DG.IS [257-Supl] de 06.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-675672
+  date: '1975-11-06'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:24Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +119,7 @@ Importando acautelar as justas expectativas de emprego de todos aqueles que dele
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, alínea 3), da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Não é aplicável o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, aos indivíduos que, tendo prestado serviço à Administração a tempo completo, por período superior a seis meses e em lugares ou funções que correspondam a necessidades permanentes dos serviços, hajam, por força do cumprimento do serviço militar obrigatório, sido compelidos a solicitar o termo da sua actividade, a pedir a exoneração ou a requerer a rescisão ou a não renovação dos respectivos contratos ou assalariamentos.
+Artigo 1.º - 1. Não é aplicável o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, aos indivíduos que, tendo prestado serviço à Administração a tempo completo, por período superior a seis meses e em lugares ou funções que correspondam a necessidades permanentes dos serviços, hajam, por força do cumprimento do serviço militar obrigatório, sido compelidos a solicitar o termo da sua actividade, a pedir a exoneração ou a requerer a rescisão ou a não renovação dos respectivos contratos ou assalariamentos.
 
 2. Os indivíduos que se encontrem nas condições mencionadas no número anterior podem, nos sessenta dias subsequentes à cessação da prestação do serviço militar obrigatório, requerer a sua readmissão, nos termos do presente diploma.
 
@@ -107,9 +129,9 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, alínea 3), da Lei Cons
 
 5. O regime de readmissão previsto nos números anteriores aplicar-se-á mesmo quando deixar de vigorar o condicionamento estabelecido nos artigos 4.º e 5.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro.
 
-###### Art. 2.º Exceptuam-se da aplicação do presente diploma os casos de contratos de prestação de serviço ou de tarefa que não correspondam a necessidades permanentes dos serviços, salvo quando celebrados por prazo determinado e desde que à data da cessação do serviço militar a execução do contrato mantenha para a Administração a sua utilidade.
+Art. 2.º Exceptuam-se da aplicação do presente diploma os casos de contratos de prestação de serviço ou de tarefa que não correspondam a necessidades permanentes dos serviços, salvo quando celebrados por prazo determinado e desde que à data da cessação do serviço militar a execução do contrato mantenha para a Administração a sua utilidade.
 
-###### Art. 3.º - 1. O requerimento a que se refere o n.º 1 do artigo 1.º do presente diploma será endereçado aos dirigentes dos serviços ou organismos a que os trabalhadores pertencerem.
+Art. 3.º - 1. O requerimento a que se refere o n.º 1 do artigo 1.º do presente diploma será endereçado aos dirigentes dos serviços ou organismos a que os trabalhadores pertencerem.
 
 2. No prazo máximo de uma semana, os serviços competentes informarão das possibilidades da readmissão, devendo esta, em caso afirmativo, processar-se nos trinta dias seguintes.
 
@@ -117,18 +139,18 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, alínea 3), da Lei Cons
 
 4. Quando se confirme a impossibilidade de readmissão, a colocação dos trabalhadores incumbirá à Comissão Interministerial de Gestão de Pessoal, nos termos previstos no [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro.
 
-###### Art. 4.º Os indivíduos que cessaram o serviço militar no prazo que decorreu entre a entrada em vigor do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, e a do presente diploma poderão igualmente requerer o seu reingresso no prazo de sessenta dias, a contar da publicação deste decreto-lei.
+Art. 4.º Os indivíduos que cessaram o serviço militar no prazo que decorreu entre a entrada em vigor do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, e a do presente diploma poderão igualmente requerer o seu reingresso no prazo de sessenta dias, a contar da publicação deste decreto-lei.
 
-###### Art. 5.º O Ministério das Finanças tomará as providências necessárias à execução deste diploma.
+Art. 5.º O Ministério das Finanças tomará as providências necessárias à execução deste diploma.
 
-###### Art. 6.º As dúvidas e casos não previstos serão resolvidos por despacho conjunto do Ministro da Administração Interna e do Ministro das Finanças.
+Art. 6.º As dúvidas e casos não previstos serão resolvidos por despacho conjunto do Ministro da Administração Interna e do Ministro das Finanças.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor.
+Art. 7.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 29 de Julho de 1975.**
+Promulgado em 29 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

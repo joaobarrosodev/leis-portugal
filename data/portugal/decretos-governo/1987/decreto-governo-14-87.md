@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/14-1987-662705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f5bedea5aa5b9c9e0b49513e633259f5e7849d6476ad1445f3d7e38bd8becb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82cd70b4940afbc3e684cfca799d947d6378a4043b4ae558311de46151334954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Direcção Geral das Florestas
+- Prédio Urbano
+- Regime Florestal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:58Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +97,18 @@ Ao abrigo do disposto no artigo 32.º das Instruções sobre o regime florestal 
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial em que foi incluída por decreto de 24 de Fevereiro de 1950, publicado na mesma data no Diário do Governo, 2.ª série, n.º 45, uma parcela de terreno do perímetro florestal de Mértola, com a superfície de 162,50 m2, destinada à ampliação de um prédio urbano.
+Artigo 1.º É excluída do regime florestal parcial em que foi incluída por decreto de 24 de Fevereiro de 1950, publicado na mesma data no Diário do Governo, 2.ª série, n.º 45, uma parcela de terreno do perímetro florestal de Mértola, com a superfície de 162,50 m2, destinada à ampliação de um prédio urbano.
 
-###### Art. 2.º A desafectação desta parcela de terreno só será efectivada depois de a Câmara Municipal de Mértola proceder à sua demarcação no terreno, de acordo com as instruções que receber da Direcção-Geral das Florestas.
+Art. 2.º A desafectação desta parcela de terreno só será efectivada depois de a Câmara Municipal de Mértola proceder à sua demarcação no terreno, de acordo com as instruções que receber da Direcção-Geral das Florestas.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Assinado em 30 de Janeiro de 1987.**
+Assinado em 30 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1987.**
+Referendado em 4 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

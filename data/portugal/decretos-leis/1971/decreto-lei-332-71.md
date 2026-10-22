@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1971-635618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31a2b9abef69f13e17b32a6b3948d1e96e487a2331c7edbe38c2d1dc1677e213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a51668576eb8e59a043bc7cca698caccc48896b8cf6f5579b71a0f29e53d4a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abono de Família
+- Forças Armadas
+- Militar
+- Prestações Familiares
+- Proteção Social
+- Timor.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:351950:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:37Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +101,17 @@ Considerando que tal medida implica, como consequência, a alteração dos quant
 
 Usando da faculdade concedida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É alterado para 150$00 o quantitativo mensal do abono de família estabelecido para a província de Timor na tabela constante do artigo 1.º do [Decreto-Lei n.º 41803](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41803-1958-351950), de 8 de Agosto de 1958.
+Artigo 1.º É alterado para 150$00 o quantitativo mensal do abono de família estabelecido para a província de Timor na tabela constante do artigo 1.º do [Decreto-Lei n.º 41803](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41803-1958-351950), de 8 de Agosto de 1958.
 
-###### Art. 2.º O abono do quantitativo fixado no artigo anterior será efectuado a partir de 1 de Julho de 1971 e dele beneficiarão todos os militares das forças armadas em serviço naquela província e com direito ao mesmo abono.
+Art. 2.º O abono do quantitativo fixado no artigo anterior será efectuado a partir de 1 de Julho de 1971 e dele beneficiarão todos os militares das forças armadas em serviço naquela província e com direito ao mesmo abono.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Julho de 1971.**
+Promulgado em 28 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Timor. - J. da Silva Cunha.
 

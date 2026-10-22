@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/07200/05860591.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12330e8ce9034b6d4ffeeb45a600a1363456a21c97b921118c836df04cc053f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32eeeaf041263611fd5737aa32524d97105b829183099a9cbdde6457a3f277e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral de Pessoal
+- Ensino Oficial
+- Ensino Preparatório
+- Ensino Primário
+- Estabelecimento de Ensino
+- Formação Profissional
+- Formas de Provimento
+- Integração de Trabalhadores
+- Jardim de Infância
+- Ministério da Educação e Ciência
+- Pessoal Auxiliar
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
+- Regime de Pessoal
+- Telescola
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578574:por
+  label: "Alterado o n.º 1 do art. 35.º e os arts. 48.º e 50.º pelo DEC LEI.182/81.30.06.1981.MFP, DR.IS [147] de 30.06.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1981-578574
+  date: '1981-06-30'
+- type: amended_by
+  target: pt:dre:221311:por
+  label: "Aumentados seis lugares de auxiliar de limpeza pela PORT.745/86.13.12.1986.MF, DR.IS [286] de 13.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-1986-221311
+  date: '1986-12-13'
+- type: cites
+  target: pt:dre:147385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476748:por
+  label: "Revogados os nºs 2 e 3 do art. 4º pelo DEC LEI.381-F/85.28.09.1985.ME, DR.IS [224-2ºSupl] de 28.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-f-1985-476748
+  date: '1985-09-28'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:56Z'
   warnings: []
   errors: []
 ---
@@ -108,17 +174,17 @@ I
 
 Quadros e funções
 
-###### Artigo 1.º Os estabelecimentos de ensino oficial, com excepção dos do ensino superior, passam a ter um quadro único do pessoal auxiliar de apoio, designado abreviadamente neste diploma por pessoal de apoio, no qual se integram os respectivos quadros privativos.
+Artigo 1.º Os estabelecimentos de ensino oficial, com excepção dos do ensino superior, passam a ter um quadro único do pessoal auxiliar de apoio, designado abreviadamente neste diploma por pessoal de apoio, no qual se integram os respectivos quadros privativos.
 
-###### Art. 2.º - 1 - Os quadros privativos do pessoal de apoio serão aprovados por portaria dos Ministros das Finanças e do Plano e da Educação e Ciência e do Secretário de Estado da Reforma Administrativa.
+Art. 2.º - 1 - Os quadros privativos do pessoal de apoio serão aprovados por portaria dos Ministros das Finanças e do Plano e da Educação e Ciência e do Secretário de Estado da Reforma Administrativa.
 
 2 - Os quadros referidos no número anterior poderão ser alterados anualmente, ou quando as circunstâncias o justificarem, por despacho do Ministro da Educação e Ciência, desde que não haja, em cada uma das categorias, aumento do número total de lugares do quadro único.
 
 3 - Os lugares dos quadros privativos serão postos a concurso à medida que as necessidades, devidamente justificadas, dos estabelecimentos de ensino o aconselhem.
 
-###### Art. 3.º Na constituição dos quadros privativos será considerada a natureza das tarefas a desempenhar, criando-se, quando a natureza do serviço o justifique, lugares masculinos e femininos.
+Art. 3.º Na constituição dos quadros privativos será considerada a natureza das tarefas a desempenhar, criando-se, quando a natureza do serviço o justifique, lugares masculinos e femininos.
 
-###### Art. 4.º - 1 - A constituição dos quadros de cada estabelecimento de ensino atenderá, nomeadamente, à dimensão e tipologia das instalações, à frequência escolar, ao número de docentes em exercício, ao número e diversidade dos cursos ministrados e respectivos períodos de funcionamento, bem como à sua localização.
+Art. 4.º - 1 - A constituição dos quadros de cada estabelecimento de ensino atenderá, nomeadamente, à dimensão e tipologia das instalações, à frequência escolar, ao número de docentes em exercício, ao número e diversidade dos cursos ministrados e respectivos períodos de funcionamento, bem como à sua localização.
 
 2 - Haverá nos jardins-de-infância um contínuo por cada dois lugares de docentes, competindo-lhes sempre um contínuo e mais um elemento, caso forneçam refeições.
 
@@ -130,7 +196,7 @@ b) Quando os postos de recepção do ciclo preparatório TV funcionarem em insta
 
 c) Quando as escolas do ensino primário possuírem refeitório ser-lhes-ão atribuídos elementos para essa área, consoante as respectivas necessidades, devidamente fundamentadas.
 
-###### Art. 5.º Os quadros privativos dos estabelecimentos de ensino preparatório e secundário e das escolas normais de educadores de infância e do magistério primário serão dotados, consoante as necessidades, com elementos de pessoal de apoio nas áreas e sectores específicos que a seguir se indicam, tendo em atenção propostas fundamentadas do respectivo estabelecimento de ensino:
+Art. 5.º Os quadros privativos dos estabelecimentos de ensino preparatório e secundário e das escolas normais de educadores de infância e do magistério primário serão dotados, consoante as necessidades, com elementos de pessoal de apoio nas áreas e sectores específicos que a seguir se indicam, tendo em atenção propostas fundamentadas do respectivo estabelecimento de ensino:
 
 a) Apoio geral:
 
@@ -176,11 +242,11 @@ Guarda;
 
 Reprografia.
 
-###### Art. 6.º - 1 - A dotação dos elementos, para cada uma das áreas referidas no artigo anterior, far-se-á tendo por base as necessidades fundamentadas de cada estabelecimento de ensino.
+Art. 6.º - 1 - A dotação dos elementos, para cada uma das áreas referidas no artigo anterior, far-se-á tendo por base as necessidades fundamentadas de cada estabelecimento de ensino.
 
 2 - A dotação para o serviço polivalente poderá ser feita por localidade ou por região.
 
-###### Art. 7.º - 1 - Enquanto não for constituído o quadro técnico dos estabelecimentos de ensino oficial, a área de apoio social escolar do quadro único do pessoal auxiliar de apoio será dotada de um ecónomo.
+Art. 7.º - 1 - Enquanto não for constituído o quadro técnico dos estabelecimentos de ensino oficial, a área de apoio social escolar do quadro único do pessoal auxiliar de apoio será dotada de um ecónomo.
 
 2 - Podem ser providos no lugar de ecónomo os indivíduos que, para além da posse do curso geral do ensino secundário ou equivalente e dos demais requisitos previstos na lei geral, obtenham a classificação de apto no curso de formação a realizar pela Direcção de Serviços de Formação e Organização da Direcção-Geral de Pessoal.
 
@@ -188,25 +254,25 @@ Reprografia.
 
 4 - O lugar de ecónomo poderá ainda ser criado em estabelecimentos de ensino primário, dotados de refeitório, cuja população escolar exceda trezentos alunos.
 
-###### Art. 8.º - 1 - O pessoal de apoio dos estabelecimentos de ensino exercerá as suas funções na dependência do conselho directivo ou de quem as suas vezes fizer.
+Art. 8.º - 1 - O pessoal de apoio dos estabelecimentos de ensino exercerá as suas funções na dependência do conselho directivo ou de quem as suas vezes fizer.
 
 2 - O conselho directivo ou quem as suas vezes fizer poderá, em casos de reconhecida necessidade, nomeadamente em situações de grave carência de pessoal, de faltas ou licenças, deslocar transitoriamente pessoal de uma para outra área.
 
-###### Art. 9.º As funções do pessoal de apoio serão definidas por portaria conjunta do Ministro da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, nos termos do artigo 47.º, sem prejuízo do disposto no artigo 5.º do presente diploma.
+Art. 9.º As funções do pessoal de apoio serão definidas por portaria conjunta do Ministro da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, nos termos do artigo 47.º, sem prejuízo do disposto no artigo 5.º do presente diploma.
 
 II
 
 Da gestão dos quadros
 
-###### Art. 10.º A gestão do pessoal de apoio compete à Direcção-Geral de Pessoal, ressalvadas as competências próprias dos serviços onde o mesmo se integra.
+Art. 10.º A gestão do pessoal de apoio compete à Direcção-Geral de Pessoal, ressalvadas as competências próprias dos serviços onde o mesmo se integra.
 
 III
 
 Recrutamento
 
-###### Art. 11.º O ingresso nos quadros do pessoal de apoio fica condicionado à frequência, com aproveitamento, de um estágio durante o qual os candidatos auferirão o vencimento correspondente à letra U do funcionalismo público.
+Art. 11.º O ingresso nos quadros do pessoal de apoio fica condicionado à frequência, com aproveitamento, de um estágio durante o qual os candidatos auferirão o vencimento correspondente à letra U do funcionalismo público.
 
-###### Art. 12.º - 1 - Podem apresentar-se a concurso para estagiários os indivíduos que satisfaçam cumulativamente as seguintes condições:
+Art. 12.º - 1 - Podem apresentar-se a concurso para estagiários os indivíduos que satisfaçam cumulativamente as seguintes condições:
 
 a) Estejam habilitados, à data da abertura do concurso, pelo menos, com a escolaridade obrigatória fixada por lei;
 
@@ -214,7 +280,7 @@ b) Possuam a robustez física e mental necessárias, devidamente comprovadas.
 
 2 - Só são admitidos candidatos com menos de 21 anos ou mais de 55 anos à data de abertura do concurso quando forem candidatos únicos.
 
-###### Art. 13.º - 1 - Sempre que as necessidades do quadro do pessoal de apoio o justifiquem será aberto pela Direcção-Geral de Pessoal concurso documental para estagiários, através de aviso a publicar no Diário da República e em órgãos de comunicação social de âmbito nacional, regional ou local.
+Art. 13.º - 1 - Sempre que as necessidades do quadro do pessoal de apoio o justifiquem será aberto pela Direcção-Geral de Pessoal concurso documental para estagiários, através de aviso a publicar no Diário da República e em órgãos de comunicação social de âmbito nacional, regional ou local.
 
 2 - O prazo para oposição ao concurso será de quinze dias, contado a partir do dia seguinte ao da publicação do respectivo aviso no Diário da República.
 
@@ -224,7 +290,7 @@ IV
 
 Da formação e aperfeiçoamento
 
-###### Art. 14.º - 1 - Compete à Direcção-Geral de Pessoal, através da Direcção de Serviços de Formação e Organização e em colaboração com a Secretaria de Estado da Reforma Administrativa:
+Art. 14.º - 1 - Compete à Direcção-Geral de Pessoal, através da Direcção de Serviços de Formação e Organização e em colaboração com a Secretaria de Estado da Reforma Administrativa:
 
 a) Elaborar anualmente o plano das acções visando a formação e o aperfeiçoamento do pessoal de apoio do quadro único previsto neste diploma;
 
@@ -246,9 +312,9 @@ V
 
 Da carreira
 
-###### Art. 15.º O quadro único do pessoal compreende as carreiras constantes do mapa anexo ao presente diploma.
+Art. 15.º O quadro único do pessoal compreende as carreiras constantes do mapa anexo ao presente diploma.
 
-###### Art. 16.º - 1 - Nos estabelecimentos de ensino em que prestem serviço cinco ou mais elementos do pessoal de apoio poderá um deles, de entre os contínuos ou guardas de 1.ª classe com pelo menos cinco anos de serviço na categoria, ser designado, em comissão de serviço, encarregado deste pessoal, pelo director-geral de pessoal, mediante proposta do conselho directivo ou de quem as suas vezes fizer.
+Art. 16.º - 1 - Nos estabelecimentos de ensino em que prestem serviço cinco ou mais elementos do pessoal de apoio poderá um deles, de entre os contínuos ou guardas de 1.ª classe com pelo menos cinco anos de serviço na categoria, ser designado, em comissão de serviço, encarregado deste pessoal, pelo director-geral de pessoal, mediante proposta do conselho directivo ou de quem as suas vezes fizer.
 
 2 - A designação referida no número anterior será válida pelo período de dois anos, a qual poderá ser, automaticamente, renovada por idênticos períodos, com dispensa de quaisquer formalidades legais.
 
@@ -258,21 +324,21 @@ Da carreira
 
 5 - A nomeação prevista no n.º 1 deste artigo será sujeita a visto do Tribunal de Contas.
 
-###### Art. 17.º O disposto no n.º 1 do artigo anterior não é aplicável ao pessoal do refeitório e bufete, que será dirigido pelo ecónomo, nem ao pessoal operário.
+Art. 17.º O disposto no n.º 1 do artigo anterior não é aplicável ao pessoal do refeitório e bufete, que será dirigido pelo ecónomo, nem ao pessoal operário.
 
-###### Art. 18.º - 1 - Os estagiários considerados aptos serão, obrigatoriamente, opositores ao primeiro concurso para os respectivos lugares de ingresso que vier a ser aberto, após a sua aprovação na frequência do estágio, sem o que serão desligados do serviço.
+Art. 18.º - 1 - Os estagiários considerados aptos serão, obrigatoriamente, opositores ao primeiro concurso para os respectivos lugares de ingresso que vier a ser aberto, após a sua aprovação na frequência do estágio, sem o que serão desligados do serviço.
 
 2 - Até ao provimento em lugar de quadro, na sequência do concurso referido no número anterior, os estagiários considerados aptos serão contratados além do quadro, podendo os mesmos prestar serviço no estabelecimento em que efectuaram o estágio ou noutro que não diste deste mais de 3 km.
 
-###### Art. 19.º - 1 - Os estagiários que obtiverem no estágio classificação de Não apto perceberão apenas vencimento até ao fim do mês em que terminar o estágio.
+Art. 19.º - 1 - Os estagiários que obtiverem no estágio classificação de Não apto perceberão apenas vencimento até ao fim do mês em que terminar o estágio.
 
 2 - Os estagiários referidos no número anterior só poderão candidatar-se ao estágio por mais uma vez.
 
-###### Art. 20.º - 1 - Os guardas, cozinheiros e contínuos de 2.ª classe serão promovidos à categoria de 1.ª classe de acordo com as regras vigentes na lei geral para as carreiras horizontais.
+Art. 20.º - 1 - Os guardas, cozinheiros e contínuos de 2.ª classe serão promovidos à categoria de 1.ª classe de acordo com as regras vigentes na lei geral para as carreiras horizontais.
 
 2 - Os ajudantes de cozinha terão acesso aos lugares de cozinheiro de 2.ª classe no limite das vagas existentes, por concurso documental, depois de terem frequentado, com aproveitamento, um curso de formação adequado.
 
-###### Art. 21.º - 1 - Os concursos de provimento para transferência serão abertos por aviso a publicar no Diário da República na 1.ª quinzena de Fevereiro de cada ano.
+Art. 21.º - 1 - Os concursos de provimento para transferência serão abertos por aviso a publicar no Diário da República na 1.ª quinzena de Fevereiro de cada ano.
 
 2 - O prazo de abertura de concurso será de quinze dias, contado a partir do dia seguinte ao da publicação no Diário da República do aviso a que se refere o número anterior.
 
@@ -284,7 +350,7 @@ Da carreira
 
 6 - Após a apreciação das reclamações a que se refere o número anterior, será publicada no Diário da República a lista dos candidatos transferidos, homologada pelo competente despacho ministerial.
 
-###### Art. 22.º - 1 - Os candidatos às transferências reguladas nos artigos 21.º e 45.º deste diploma serão ordenados por ordem decrescente de acordo com as sequentes razões prioritárias:
+Art. 22.º - 1 - Os candidatos às transferências reguladas nos artigos 21.º e 45.º deste diploma serão ordenados por ordem decrescente de acordo com as sequentes razões prioritárias:
 
 a) Aproximação do cônjuge ou da residência familiar;
 
@@ -300,15 +366,15 @@ e) Quaisquer outros motivos devidamente fundamentados.
 
 3 - Se após a aplicação do disposto no número anterior a igualdade se mantiver, proferirá o candidato com maior agregado familiar, e, se a mesma igualdade ainda se mantiver, o mais idoso.
 
-###### Art. 23.º - 1 - Independentemente do visto do Tribunal de Contas, os funcionários constantes da lista a que se refere o n.º 6 do artigo 21.º tomarão posse provisória, seguida de exercício, no prazo máximo de quinze dias, contado a partir da publicação da mesma lista, nos lugares onde hajam adquirido provimento, sob pena de anulação da transferência e regresso à situação anterior.
+Art. 23.º - 1 - Independentemente do visto do Tribunal de Contas, os funcionários constantes da lista a que se refere o n.º 6 do artigo 21.º tomarão posse provisória, seguida de exercício, no prazo máximo de quinze dias, contado a partir da publicação da mesma lista, nos lugares onde hajam adquirido provimento, sob pena de anulação da transferência e regresso à situação anterior.
 
 2 - Sempre que se verificar o disposto na parte final do número anterior, no caso de a vaga já se encontrar provida nos termos dos n.os 3 e 4 do artigo 21.º, o funcionário ficará na situação de supranumerário, pertencendo-lhe a primeira vaga da sua categoria que venha a surgir no estabelecimento.
 
 3 - Em casos especiais, devidamente fundamentados, o prazo previsto no n.º 1 poderá ser prorrogado, a requerimento do interessado, por despacho do director-geral de Pessoal e por período não superior a quinze dias.
 
-###### Art. 24.º A posse referida no artigo anterior converter-se-á automaticamente em definitiva, após visto do Tribunal de Contas e publicação da transferência do funcionário no Diário da República.
+Art. 24.º A posse referida no artigo anterior converter-se-á automaticamente em definitiva, após visto do Tribunal de Contas e publicação da transferência do funcionário no Diário da República.
 
-###### Art. 25.º - 1 - Quando as necessidades de serviço o justifiquem e mediante acordo do interessado, poderá o pessoal de apoio ser destacado dentro do quadro referido neste diploma ou para outro do Ministério da Educação e Ciência.
+Art. 25.º - 1 - Quando as necessidades de serviço o justifiquem e mediante acordo do interessado, poderá o pessoal de apoio ser destacado dentro do quadro referido neste diploma ou para outro do Ministério da Educação e Ciência.
 
 2 - O destacamento não poderá prolongar-se para além de um ano, prorrogável, em idênticas condições, por igual período, excepto no caso previsto no n.º 5, não ocupando o funcionário vaga do quadro, sendo pago pelo organismo de origem e não podendo o lugar de que é titular ser preenchido por outra forma.
 
@@ -322,7 +388,7 @@ VI
 
 Dos direitos e deveres
 
-###### Art. 26.º Para além dos direitos conferidos pela legislação em vigor, o pessoal de apoio tem, designadamente, os seguintes:
+Art. 26.º Para além dos direitos conferidos pela legislação em vigor, o pessoal de apoio tem, designadamente, os seguintes:
 
 a) Participar nas acções que os serviços competentes promovam com vista a uma maior valorização cultural e profissional;
 
@@ -332,7 +398,7 @@ c) Apresentar aos seus superiores hierárquicos sugestões fundamentadas, tendo 
 
 d) Receber do Estado fardamento adequado.
 
-###### Art. 27.º - 1 - Para além das tarefas específicas que lhe são inerentes e das funções que vierem a ser definidas na portaria referida no artigo 9.º deste diploma, são deveres do pessoal de apoio:
+Art. 27.º - 1 - Para além das tarefas específicas que lhe são inerentes e das funções que vierem a ser definidas na portaria referida no artigo 9.º deste diploma, são deveres do pessoal de apoio:
 
 a) Demonstrar, pela prática, receptividade à adopção de medidas que visem o aperfeiçoamento e a maior eficiência dos serviços e da sua actividade;
 
@@ -346,7 +412,7 @@ e) Usar farda, logo que fornecida pelo Estado, através do respectivo estabeleci
 
 2 - O pessoal de apoio deverá ainda colaborar na acção educativa dos respectivos estabelecimentos de ensino, de modo que estes possam responder devidamente às necessidades da comunidade em que se inserem.
 
-###### Art. 28.º - 1 - Até que venham a ser definidos horários gerais para a função pública, o pessoal de apoio está sujeito ao horário normal de quarenta e cinco horas semanais, sem prejuízo do disposto nos números seguintes.
+Art. 28.º - 1 - Até que venham a ser definidos horários gerais para a função pública, o pessoal de apoio está sujeito ao horário normal de quarenta e cinco horas semanais, sem prejuízo do disposto nos números seguintes.
 
 2 - Sempre que o serviço onde se integra, pela sua natureza, careça de horário diferente do normal, este deverá obedecer a critérios de escala, a estabelecer pelo conselho directivo ou por quem as suas vezes fizer, não podendo qualquer funcionário ser obrigado a trabalhar em mais de dois períodos diários nem deixar de cumprir o número de horas semanais previsto no número anterior.
 
@@ -362,13 +428,13 @@ VII
 
 Das permutas
 
-###### Art. 29.º - 1 - Por despacho do director-geral de Pessoal pode ser autorizada a permuta de lugares entre o pessoal da mesma carreira profissional, a requerimento dos interessados e mediante concordância do conselho directivo dos estabelecimentos de ensino ou de quem as suas vezes fizer.
+Art. 29.º - 1 - Por despacho do director-geral de Pessoal pode ser autorizada a permuta de lugares entre o pessoal da mesma carreira profissional, a requerimento dos interessados e mediante concordância do conselho directivo dos estabelecimentos de ensino ou de quem as suas vezes fizer.
 
 2 - A permuta só será possível tratando-se de funcionários que desempenhem funções nas mesmas áreas e sectores específicos, definidos nos termos do artigo 5.º do presente diploma, excepto se houver vantagem para os estabelecimentos de ensino interessados.
 
 3 - Não serão autorizadas permutas durante a vigência de qualquer concurso para a categoria que as mesmas envolvam.
 
-###### Art. 30.º - 1 - O funcionário não poderá beneficiar do regime de permuta mais do que uma vez em cada período de cinco anos.
+Art. 30.º - 1 - O funcionário não poderá beneficiar do regime de permuta mais do que uma vez em cada período de cinco anos.
 
 2 - O funcionário que haja permutado não poderá ser transferido por concurso durante um período de três anos.
 
@@ -376,11 +442,11 @@ VIII
 
 Disposições gerais e transitórias
 
-###### Art. 31.º Pelo prazo de cinco anos, contado a partir da entrada em vigor do presente diploma, o encarregado do pessoal de apoio poderá ser designado de entre os contínuos ou guardas de categoria mais elevada com qualquer tempo de serviço.
+Art. 31.º Pelo prazo de cinco anos, contado a partir da entrada em vigor do presente diploma, o encarregado do pessoal de apoio poderá ser designado de entre os contínuos ou guardas de categoria mais elevada com qualquer tempo de serviço.
 
-###### Art. 32.º O pessoal dos quadros que se encontre a prestar serviço nos estabelecimentos de ensino à data da entrada em vigor do presente diploma é provido, independentemente de concurso e com dispensa de todas as formalidades legais, nos termos do disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 32.º O pessoal dos quadros que se encontre a prestar serviço nos estabelecimentos de ensino à data da entrada em vigor do presente diploma é provido, independentemente de concurso e com dispensa de todas as formalidades legais, nos termos do disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 33.º - 1 - Transitam para as respectivas carreiras, na categoria de 2.ª classe dos novos quadros, de acordo com as funções que se encontrem a desempenhar à data da publicação deste diploma e desde que possuam as habilitações literárias mínimas exigidas por lei, os funcionários que, não se encontrando nas condições estabelecidas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), se integrem numa das seguintes situações:
+Art. 33.º - 1 - Transitam para as respectivas carreiras, na categoria de 2.ª classe dos novos quadros, de acordo com as funções que se encontrem a desempenhar à data da publicação deste diploma e desde que possuam as habilitações literárias mínimas exigidas por lei, os funcionários que, não se encontrando nas condições estabelecidas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), se integrem numa das seguintes situações:
 
 a) Serventes do quadro;
 
@@ -388,11 +454,11 @@ b) Outros agentes do pessoal auxiliar, ainda que com diferente designação func
 
 2 - O provimento do pessoal referido no n.º 1 deste artigo far-se-á nos termos do [Decreto-Lei n.º 513-Y/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385), de 27 de Dezembro.
 
-###### Art. 34.º - 1 - Transitam para os lugares de quadro de ecónomo de 2.ª classe os funcionários e agentes que, em 1 de Janeiro de 1979, se encontravam no exercício dessas funções, desde que possuam a escolaridade obrigatória.
+Art. 34.º - 1 - Transitam para os lugares de quadro de ecónomo de 2.ª classe os funcionários e agentes que, em 1 de Janeiro de 1979, se encontravam no exercício dessas funções, desde que possuam a escolaridade obrigatória.
 
 2 - O provimento referido no número anterior terá carácter provisório e passará a definitivo após a frequência, com aproveitamento, do curso de formação referido no n.º 2 do artigo 7.º do presente diploma.
 
-###### Art. 35.º - 1 - É igualmente integrado nos novos quadros como contínuo de 2.ª classe o pessoal que, em 31 de Dezembro de 1975, prestava serviço nos núcleos de acção social escolar dos estabelecimentos dos ensinos primário, preparatório e secundário e escolas do magistério primário e que, a partir de 1 de Janeiro de 1976, passou para a dependência da Direcção-Geral de Pessoal, desde que se mantenha no desempenho de funções à data da publicação do presente diploma.
+Art. 35.º - 1 - É igualmente integrado nos novos quadros como contínuo de 2.ª classe o pessoal que, em 31 de Dezembro de 1975, prestava serviço nos núcleos de acção social escolar dos estabelecimentos dos ensinos primário, preparatório e secundário e escolas do magistério primário e que, a partir de 1 de Janeiro de 1976, passou para a dependência da Direcção-Geral de Pessoal, desde que se mantenha no desempenho de funções à data da publicação do presente diploma.
 
 2 - A integração do pessoal referido no número anterior far-se-á, com respeito pelas habilitações legais, nos termos do [Decreto-Lei n.º 513-Y/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385).
 
@@ -402,59 +468,59 @@ b) Outros agentes do pessoal auxiliar, ainda que com diferente designação func
 
 5 - A prova de prestação do tempo de serviço a que se refere o número anterior será feita pelo estabelecimento de ensino onde o mesmo foi prestado, podendo ser suprida pelo processo especial de justificação a que se refere o artigo 88.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 36.º O pessoal eventual ou assalariado que a qualquer título preste, à data da publicação do presente diploma, serviço em estabelecimentos oficiais dos ensinos primário, preparatório, secundário e médio e que não possua as habilitações legais exigidas passa à situação de servente contratado, sendo, porém, provido como contínuo logo que adquira as referidas habilitações.
+Art. 36.º O pessoal eventual ou assalariado que a qualquer título preste, à data da publicação do presente diploma, serviço em estabelecimentos oficiais dos ensinos primário, preparatório, secundário e médio e que não possua as habilitações legais exigidas passa à situação de servente contratado, sendo, porém, provido como contínuo logo que adquira as referidas habilitações.
 
-###### Art. 37.º - 1 - Os motoristas actualmente em serviço nos estabelecimentos de ensino oficial, quando da extinção dos serviços de transporte escolar, serão colocados, sempre mediante acordo do interessado, noutro serviço do Ministério da Educação e Ciência ou de outros Ministérios, mantendo a mesma categoria e letra de vencimento.
+Art. 37.º - 1 - Os motoristas actualmente em serviço nos estabelecimentos de ensino oficial, quando da extinção dos serviços de transporte escolar, serão colocados, sempre mediante acordo do interessado, noutro serviço do Ministério da Educação e Ciência ou de outros Ministérios, mantendo a mesma categoria e letra de vencimento.
 
 2 - A transferência para outro Ministério depende de despacho conjunto do Ministro da Educação e Ciência e do respectivo Ministro da tutela.
 
 3 - Caso não seja possível aplicar o disposto nos números anteriores, os referidos motoristas serão integrados, quando da extinção dos serviços de transporte escolar, no serviço polivalente que abranja a localidade onde prestam serviço, mantendo, no entanto, a categoria de motorista ou a letra de vencimento.
 
-###### Art. 38.º Os provimentos de pessoal exigidos pela execução do presente diploma serão realizados, nos termos do [Decreto-Lei n.º 513-Y/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385).
+Art. 38.º Os provimentos de pessoal exigidos pela execução do presente diploma serão realizados, nos termos do [Decreto-Lei n.º 513-Y/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385).
 
-###### Art. 39.º Enquanto durar a adaptação dos quadros dos estabelecimentos de ensino ao disposto no presente diploma, mas nunca por período superior a dois anos, contado a partir da data da entrada em vigor deste decreto-lei, poderá o pessoal de apoio, por conveniência de serviço e na sequência de despacho do director-geral de Pessoal que o determine, passar a prestar serviço em qualquer outro local de trabalho dentro da mesma localidade ou em localidade diferente, que não diste mais de 3 km daquela onde exercia anteriormente funções.
+Art. 39.º Enquanto durar a adaptação dos quadros dos estabelecimentos de ensino ao disposto no presente diploma, mas nunca por período superior a dois anos, contado a partir da data da entrada em vigor deste decreto-lei, poderá o pessoal de apoio, por conveniência de serviço e na sequência de despacho do director-geral de Pessoal que o determine, passar a prestar serviço em qualquer outro local de trabalho dentro da mesma localidade ou em localidade diferente, que não diste mais de 3 km daquela onde exercia anteriormente funções.
 
-###### Art. 40.º - 1 - Até à regulamentação da matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o serviço do pessoal de apoio será classificado anualmente, por escrito, de Muito bom, Bom, Suficiente ou Deficiente, pelo conselho directivo ou quem as suas vezes fizer, que tomará para o efeito em consideração proposta escrita e justificada do respectivo encarregado.
+Art. 40.º - 1 - Até à regulamentação da matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o serviço do pessoal de apoio será classificado anualmente, por escrito, de Muito bom, Bom, Suficiente ou Deficiente, pelo conselho directivo ou quem as suas vezes fizer, que tomará para o efeito em consideração proposta escrita e justificada do respectivo encarregado.
 
 2 - Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o director-geral de Pessoal dentro dos quinze dias imediatos ao da notificação.
 
 3 - O serviço do encarregado será classificado exclusivamente pelo conselho directivo.
 
-###### Art. 41.º Nos dois primeiros concursos a realizar para a categoria de escriturário-dactilógrafo terá prioridade absoluta na colocação o pessoal auxiliar dos estabelecimentos de ensino, desde que possua cumulativamente:
+Art. 41.º Nos dois primeiros concursos a realizar para a categoria de escriturário-dactilógrafo terá prioridade absoluta na colocação o pessoal auxiliar dos estabelecimentos de ensino, desde que possua cumulativamente:
 
 a) Mais de cinco anos de serviço na função pública, ainda que prestado com interrupções;
 
 b) Habilitação literária legalmente exigida.
 
-###### Art. 42.º - 1 - Sem prejuízo do disposto no artigo 53.º deste diploma, as formas de recrutamento e selecção do pessoal operário, bem como o desenvolvimento das respectivas carreiras, são as reguladas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, para o respectivo pessoal.
+Art. 42.º - 1 - Sem prejuízo do disposto no artigo 53.º deste diploma, as formas de recrutamento e selecção do pessoal operário, bem como o desenvolvimento das respectivas carreiras, são as reguladas pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, para o respectivo pessoal.
 
 2 - As formas de recrutamento e selecção do pessoal de cozinha e guarda, bem como a respectiva carreira, serão as definidas, com as necessárias adaptações, para as carreiras horizontais.
 
-###### Art. 43.º O pessoal operário poderá prestar serviço em estabelecimento diferente daquele em que se encontre colocado, aplicando-se-lhe o que se encontra disposto na lei geral sobre ajudas de custo e subsídio de transporte.
+Art. 43.º O pessoal operário poderá prestar serviço em estabelecimento diferente daquele em que se encontre colocado, aplicando-se-lhe o que se encontra disposto na lei geral sobre ajudas de custo e subsídio de transporte.
 
-###### Art. 44.º Será integrado no serviço polivalente, até ao limite das vagas criadas, o pessoal que exercia funções normalmente desempenhadas por pessoal operário em 1 de Janeiro de 1979, devendo tal situação ser comprovada pelo respectivo conselho directivo ou por quem as suas vezes fizer.
+Art. 44.º Será integrado no serviço polivalente, até ao limite das vagas criadas, o pessoal que exercia funções normalmente desempenhadas por pessoal operário em 1 de Janeiro de 1979, devendo tal situação ser comprovada pelo respectivo conselho directivo ou por quem as suas vezes fizer.
 
-###### Art. 45.º Por despacho ministerial e a requerimento dos interessados, poderão ser autorizadas transferências do pessoal de apoio, quer do pessoal pertencente aos quadros dos órgãos e serviços centrais do Ministério da Educação e Ciência, para o quadro único do pessoal de apoio agora criado, quer do quadro do pessoal de apoio, criado pelo presente diploma, para os quadros dos órgãos e serviços centrais do Ministério da Educação e Ciência.
+Art. 45.º Por despacho ministerial e a requerimento dos interessados, poderão ser autorizadas transferências do pessoal de apoio, quer do pessoal pertencente aos quadros dos órgãos e serviços centrais do Ministério da Educação e Ciência, para o quadro único do pessoal de apoio agora criado, quer do quadro do pessoal de apoio, criado pelo presente diploma, para os quadros dos órgãos e serviços centrais do Ministério da Educação e Ciência.
 
-###### Art. 46.º - 1 - Até à reorganização das estruturas centrais da Direcção-Geral de Pessoal e à criação das respectivas estruturas regionais, e pelo prazo máximo de três anos, contado a partir da data da entrada em vigor do presente diploma, a admissão do pessoal de apoio far-se-á na respectiva categoria de ingresso, dispensando-se a frequência e aprovação no estágio a que se refere a alínea a) do n.º 2 do artigo 14.º do presente diploma.
+Art. 46.º - 1 - Até à reorganização das estruturas centrais da Direcção-Geral de Pessoal e à criação das respectivas estruturas regionais, e pelo prazo máximo de três anos, contado a partir da data da entrada em vigor do presente diploma, a admissão do pessoal de apoio far-se-á na respectiva categoria de ingresso, dispensando-se a frequência e aprovação no estágio a que se refere a alínea a) do n.º 2 do artigo 14.º do presente diploma.
 
 2 - As admissões previstas no número anterior serão consideradas por conveniência urgente de serviço, sendo devidos vencimentos a partir da entrada em funções, independentemente do visto do Tribunal de Contas, as quais só cessarão se aquele visto for recusado.
 
-###### Art. 47 - 1 - O presente decreto-lei será regulamentado por portaria conjunta do Ministro da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, nomeadamente no que se refere às funções a atribuir ao pessoal de apoio, normas de funcionamento e graduação dos candidatos à frequência dos estágios e cursos de formação e aperfeiçoamento.
+Art. 47 - 1 - O presente decreto-lei será regulamentado por portaria conjunta do Ministro da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, nomeadamente no que se refere às funções a atribuir ao pessoal de apoio, normas de funcionamento e graduação dos candidatos à frequência dos estágios e cursos de formação e aperfeiçoamento.
 
 2 - Até à publicação da portaria referida no número anterior mantêm-se em vigor todas as disposições relativas às funções do pessoal de apoio.
 
-###### Art. 48.º - 1 - Poderão ser admitidas por despacho do director-geral de Pessoal unidades de pessoal de apoio em regime de contrato de prestação eventual de serviços, sempre que as necessidades de serviço resultem da criação ou ampliação de estabelecimentos de ensino, o qual vigorará até ao provimento, por concurso, dos lugares dos quadros respectivos.
+Art. 48.º - 1 - Poderão ser admitidas por despacho do director-geral de Pessoal unidades de pessoal de apoio em regime de contrato de prestação eventual de serviços, sempre que as necessidades de serviço resultem da criação ou ampliação de estabelecimentos de ensino, o qual vigorará até ao provimento, por concurso, dos lugares dos quadros respectivos.
 
 2 - O contrato referido no número anterior será obrigatoriamente reduzido a escrito, dele constando a tarefa, o prazo, a remuneração, as condições de rescisão e a menção de que não confere, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 49.º As disposições do presente decreto-lei poderão ser aplicadas às Regiões Autónomas dos Açores e Madeira, com as adaptações julgadas necessárias, através de diplomas dos respectivos Governos.
+Art. 49.º As disposições do presente decreto-lei poderão ser aplicadas às Regiões Autónomas dos Açores e Madeira, com as adaptações julgadas necessárias, através de diplomas dos respectivos Governos.
 
-###### Art. 50.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas inscritas no orçamento do Ministério da Educação e Ciência para o pagamento de vencimentos ao pessoal do quadro dos estabelecimentos de ensino.
+Art. 50.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas inscritas no orçamento do Ministério da Educação e Ciência para o pagamento de vencimentos ao pessoal do quadro dos estabelecimentos de ensino.
 
-###### Art. 51.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, consoante a sua natureza.
+Art. 51.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do Secretário de Estado da Reforma Administrativa, consoante a sua natureza.
 
-###### Art. 52.º São revogadas todas as disposições legais relativas ao pessoal auxiliar dos estabelecimentos de ensino, nomeadamente:
+Art. 52.º São revogadas todas as disposições legais relativas ao pessoal auxiliar dos estabelecimentos de ensino, nomeadamente:
 
 a) Decreto-Lei n.º 513/73, de 10 de Outubro, no que respeita ao pessoal auxiliar;
 
@@ -464,18 +530,18 @@ c) [Decreto-Lei n.º 36540](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 d) [Decreto-Lei n.º 291/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1975-335766), de 14 de Junho.
 
-###### Art. 53.º Este diploma produz todos os seus efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto à contagem de tempo de serviço e a vencimentos.
+Art. 53.º Este diploma produz todos os seus efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto à contagem de tempo de serviço e a vencimentos.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
 
-**Promulgado em 20 de Março de 1980.**
+Promulgado em 20 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 15.º do Decreto-Lei n.º 57/80, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07200/05860591.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07200/05860591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05860591.pdf)
 
-**O Ministro da Educação e Ciência, Vítor Pereira Crespo.**
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

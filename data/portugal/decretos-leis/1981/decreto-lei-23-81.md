@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1981-390001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b174a74bb906a1b34cf1ef976c356ce35f63e59d64a7246c81260cc4f6793d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee84097531c11959839ceb5360c6b9b36bf28a39a392e1a6995250c7b4006037
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Viabilização
+- Empresa
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678378:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:01Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +117,7 @@ Considerando, em ordem a este objectivo, a conveniência da adopção de medidas
 
 O Goveno decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º- 1 - As empresas cujo processo se encontre pendente em virtude da falta de elementos necessários à elaboração do parecer técnico do banco maior credor deverão completar definitivamente o processo com a entrega, na referida instituição de crédito e na Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., adiante designada por Parempresa, no prazo máximo de noventa dias, a contar da publicação do presente diploma, dos documentos em falta, sob pena de se haverem por arquivados os respectivos processos de propositura.
+Artigo 1.º- 1 - As empresas cujo processo se encontre pendente em virtude da falta de elementos necessários à elaboração do parecer técnico do banco maior credor deverão completar definitivamente o processo com a entrega, na referida instituição de crédito e na Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., adiante designada por Parempresa, no prazo máximo de noventa dias, a contar da publicação do presente diploma, dos documentos em falta, sob pena de se haverem por arquivados os respectivos processos de propositura.
 
 2 - Logo que remetidos pelas empresas os documentos referidos no número anterior, a instituição maior credora enviará, no prazo máximo de quarenta e cinco dias, o seu parecer técnico e respectivos consensos bancários à Parempresa, a fim de por esta ser elaborada a proposta final a que alude o n.º 1 do artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
 
@@ -106,11 +125,11 @@ O Goveno decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constit
 
 4 - No caso previsto no número anterior, concluindo-se pela inexistência de fundamentação bastante para o facto, ou não havendo sido accionado, no caso de falta de obtenção do consenso bancário, o preceituado nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 46/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1980-678378), de 20 de Março, poderá o Ministro das Finanças e do Plano, ouvido o Banco de Portugal, determinar a aplicação à instituição maior credora da medida prevista no n.º 3 do artigo 4.º do presente diploma.
 
-###### Art. 2.º O parecer do Banco de Portugal, como gestor do Fundo de Compensação, sobre as propostas que lhe forem submetidas pela Parempresa nos termos do n.º 14 da [Portaria n.º 275/77](https://diariodarepublica.pt/dr/detalhe/portaria/275-1977-252036), de 20 de Maio, deverá ser proferido no prazo máximo de quinze dias, decorrido o qual se tem por tacitamente favorável.
+Art. 2.º O parecer do Banco de Portugal, como gestor do Fundo de Compensação, sobre as propostas que lhe forem submetidas pela Parempresa nos termos do n.º 14 da [Portaria n.º 275/77](https://diariodarepublica.pt/dr/detalhe/portaria/275-1977-252036), de 20 de Maio, deverá ser proferido no prazo máximo de quinze dias, decorrido o qual se tem por tacitamente favorável.
 
-###### Art. 3.º O incumprimento do prazo referido no n.º 2 do artigo 11.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, que agora se fixa em trinta dias, por motivos imputáveis a uma ou várias das instituições de crédito intervenientes, faz impender sobre elas a responsabilidade pelo pagamento das bonificações devidas à empresa proponente e relativas às dívidas reestruturadas, com efeitos a partir do termo do prazo em que o contrato deveria ter sido legalmente celebrado.
+Art. 3.º O incumprimento do prazo referido no n.º 2 do artigo 11.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, que agora se fixa em trinta dias, por motivos imputáveis a uma ou várias das instituições de crédito intervenientes, faz impender sobre elas a responsabilidade pelo pagamento das bonificações devidas à empresa proponente e relativas às dívidas reestruturadas, com efeitos a partir do termo do prazo em que o contrato deveria ter sido legalmente celebrado.
 
-###### Art. 4.º - 1 - Para efeitos do artigo anterior, a instituição de crédito maior credora enviará de imediato à Parempresa cópia do contrato de viabilização celebrado, cabendo a esta sociedade a verificação do cumprimento do prazo fixado naquele artigo.
+Art. 4.º - 1 - Para efeitos do artigo anterior, a instituição de crédito maior credora enviará de imediato à Parempresa cópia do contrato de viabilização celebrado, cabendo a esta sociedade a verificação do cumprimento do prazo fixado naquele artigo.
 
 2 - A Parempresa comunicará ao Ministro das Finanças e do Plano as situações de incumprimento no prazo de cinco dias após a sua ocorrência, com a indicação discriminada dos montantes periódicos de bonificações a receber pelas instituições de crédito responsáveis por conta do contrato de viabilização celebrado.
 
@@ -118,12 +137,12 @@ O Goveno decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constit
 
 4 - As bonificações referidas no número anterior deverão ser entregues pelo Banco de Portugal à empresa proponente.
 
-###### Art. 5.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 5.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 15 de Janeiro de 1981.**
+Promulgado em 15 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1972-685175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e516c3da0c8c4f49fbfd0d83cfbcf266a1c06ed4843439a178f7ae8dd1e9b5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7437dcb99bb639656045ab53e94fea6205b0550d40f1795317d3d69914d94e08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exército
+- Limite de Idade
+- Militar
+- Quadro de Pessoal
+- Reserva
+relationships:
+- type: cites
+  target: pt:dre:432396:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:49Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +103,7 @@ Considerando ainda a conveniência de alterar o quadro dos oficiais do serviço 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do serviço geral do Exército, estabelecido no [Decreto-Lei n.º 42314](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42314-1959-432396), de 15 de Junho de 1959, passa a ser o seguinte:
+Artigo 1.º O quadro do serviço geral do Exército, estabelecido no [Decreto-Lei n.º 42314](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42314-1959-432396), de 15 de Junho de 1959, passa a ser o seguinte:
 
 8 tenentes-coronéis;
 
@@ -104,16 +113,16 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 216 subalternos.
 
-###### Art. 2.º O limite de idade para a passagem situação de reserva dos tenentes-coronéis do serviço geral do Exército é 63 anos.
+Art. 2.º O limite de idade para a passagem situação de reserva dos tenentes-coronéis do serviço geral do Exército é 63 anos.
 
-###### Art. 3.º Os encargos resultantes da publicação deste diploma são suportados, no corrente ano, pelas disponibilidades da verba geral destinada a oficiais, inscrita na alínea 1 do n.º 1, artigo 378.º capítulo 8.º do actual orçamento do Ministério do Exército.
+Art. 3.º Os encargos resultantes da publicação deste diploma são suportados, no corrente ano, pelas disponibilidades da verba geral destinada a oficiais, inscrita na alínea 1 do n.º 1, artigo 378.º capítulo 8.º do actual orçamento do Ministério do Exército.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 2 de Dezembro de 1972.**
+Promulgado em 2 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

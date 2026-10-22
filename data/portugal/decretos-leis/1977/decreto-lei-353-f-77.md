@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 199/1977, 2º Suplemento, Série I de 1977-08-29
   number: '199'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2080-(10) a 2080-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19902/00100014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-f-1977-240851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8e584b1c9a19005446b1a214c77c9ced66630c5291aa4d8dc49fbe61261b537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4c1dd1eaf41b690a01463f5be6a012a81d96cc1178d272f22348c85bbc51dc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Boletim de Registo Prévio de Comércio Externo
+- Comércio Internacional
+- Definição de Competências
+- Direitos Aduaneiros
+- Exportação
+- Importação
+- Mercadoria
+- Multa
 relationships:
 - type: amended_by
   target: pt:dre:546459:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325965:por
+  label: "Alterados os arts. 4º, 5º, 6º, 7º, 8º e 21º [ao qual é aditada uma al. e) onde se procede à revogação das disposições\
+    \ constantes do § 2º do art. 4º e do art. 5º, ambos do Dec Lei 16369 de 15-Jan de 1929, na parte em que contrariam o estabelecido\
+    \ no nº 4 do art. 7º do presente diploma, com excepção do que respeita aos despachos de caderneta] pelo DEC LEI.340/78.15.11.1978.MFP,\
+    \ DR.IS [263] de 15.11.1978\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1978-325965
+  date: '1978-11-15'
+- type: cites
+  target: pt:dre:216291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675463:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:461061:por
+  label: "Revogada a al. f) do art. 3º pelo DEC LEI.371/80.11.09.1980.PCM, DR.IS [210] de 11.09.1980, na parte em que contraria\
+    \ o art. 4º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1980-461061
+  date: '1980-09-11'
+- type: repealed_by
+  target: pt:dre:546459:por
+  label: "Revogado pelo DEC LEI.524/85.31.12.1985.MIC, DR.IS [301-7º Supl] de 31.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/524-1985-546459
+  date: '1985-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:34Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +157,7 @@ Finalmente - tomando em consideração que o Programa do Governo prevê a codifi
 
 Usando da autorização conferida pela [Lei n.º 51/77](https://diariodarepublica.pt/dr/detalhe/lei/51-1977-408721), de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As operações de importação e exportação de quaisquer mercadorias, entre Portugal e o estrangeiro, continuam sujeitas ao regime de registo prévio, nos termos do presente decreto-lei e seus diplomas regulamentares.
+Artigo 1.º - 1. As operações de importação e exportação de quaisquer mercadorias, entre Portugal e o estrangeiro, continuam sujeitas ao regime de registo prévio, nos termos do presente decreto-lei e seus diplomas regulamentares.
 
 2. As alfândegas não podem proceder ao desembaraço aduaneiro sem apresentação dos boletins comprovativos do registo prévio respeitantes às mercadorias compreendidas em cada despacho. Na exportação, os boletins de registo prévio podem ser substituídos por boletins globais, conforme previsto no artigo 5.º do presente decreto-lei.
 
@@ -109,7 +165,7 @@ Usando da autorização conferida pela [Lei n.º 51/77](https://diariodarepublic
 
 4. À Direcção-Geral do Comércio Externo compete vigiar o exacto cumprimento do disposto no presente decreto-lei e promover a uniformização dos impressos a utilizar, ouvindo para este efeito o Banco de Portugal.
 
-###### Art. 2.º - 1. Ficam isentos de registo prévio os separados de bagagem, bem como a importação ou exportação de mercadorias entre Portugal e o estrangeiro cujo valor não exceda 5000$00.
+Art. 2.º - 1. Ficam isentos de registo prévio os separados de bagagem, bem como a importação ou exportação de mercadorias entre Portugal e o estrangeiro cujo valor não exceda 5000$00.
 
 2. O Ministério do Comércio e Turismo, sob proposta da Direcção-Geral do Comércio Externo, ouvidos o Ministro do Plano e Coordenação Económica, nos aspectos ligados à política económica, e o Banco de Portugal, nos aspectos monetário-cambias, pode determinar:
 
@@ -119,7 +175,7 @@ b) Que fique isenta de registo prévio a importação ou exportação de mercado
 
 3. O disposto no presente artigo não se aplica à importação ou exportação de mercadorias cujo valor, ainda que inferior ao fixado, resultar de fraccionamento do que, no seu conjunto, corresponda a uma única operação.
 
-###### Art. 3.º Ficam igualmente isentas de registo prévio:
+Art. 3.º Ficam igualmente isentas de registo prévio:
 
 a) A reexportação de mercadorias;
 
@@ -141,19 +197,19 @@ i) A exportação de peças de avião e de motores avariados ou que precisem de 
 
 j) A importação ou exportação de ouro em barra ou amoedado, a efectuar pelo Banco de Portugal, bem como a de títulos de crédito e cupões, notas de banco, impressos avulsos que se destinem a confecção de notas de banco e cheques bancários.
 
-###### Art. 4.º - 1. O registo a que se refere o artigo 1.º será requerido pelo interessado, mediante o preenchimento de boletins compostos de quatro exemplares marcados de A a D.
+Art. 4.º - 1. O registo a que se refere o artigo 1.º será requerido pelo interessado, mediante o preenchimento de boletins compostos de quatro exemplares marcados de A a D.
 
 2. Cada boletim de registo prévio servirá apenas para um despacho, mesmo que não tenha sido utilizado na sua totalidade.
 
 3. No cado de importação ou exportação de mercadorias com diversos componentes, cujo desembaraço aduaneiro tenha de ser efectuado por um único despacho, deve ser emitido um único boletim de registo prévio pela entidade à qual competir o registo do componente de maior valor dessa mercadoria.
 
-###### Art. 5.º - 1. Em casos especiais, a definir pela entidade com competência para o registo prévio, podem ser emitidos boletins de registo especiais, designados por boletins globais, compostos de três exemplares marcados de A a C, com vista à importação ou exportação de mercadorias até ao prazo máximo de um ano.
+Art. 5.º - 1. Em casos especiais, a definir pela entidade com competência para o registo prévio, podem ser emitidos boletins de registo especiais, designados por boletins globais, compostos de três exemplares marcados de A a C, com vista à importação ou exportação de mercadorias até ao prazo máximo de um ano.
 
 2. Na importação, os boletins globais não substituem os boletins de registo prévio, mas facilitam a automaticidade para a emissão dos boletins correspondentes às várias fracções em que vier a ser recebida uma só partida de mercadoria até ao limite de importação previsto no boletim global.
 
 3. Na exportação, os boletins globais substituem, para todos os efeitos, os boletins de registo prévio de exportação, podendo, consequentemente, ser utilizados em mais do que um despacho aduaneiro.
 
-###### Art. 6.º - 1. Dos exemplares dos boletins de registo prévio destinar-se-ão: o A, ao Banco de Portugal, o B e o C, ao interessado, e o D, à entidade emissora. Tratando-se de boletins globais, o exemplar A destinar-se-á ao Banco de Portugal, o B ao interessado e o C à entidade emissora.
+Art. 6.º - 1. Dos exemplares dos boletins de registo prévio destinar-se-ão: o A, ao Banco de Portugal, o B e o C, ao interessado, e o D, à entidade emissora. Tratando-se de boletins globais, o exemplar A destinar-se-á ao Banco de Portugal, o B ao interessado e o C à entidade emissora.
 
 2. O exemplar A do boletim de registo prévio e do boletim global deve ser remetido ao Banco de Portugal pela entidade emissora no próprio dia da emissão ou no dia útil imediato. O Banco de Portugal, para além do tratamento que vier a dar a esta informação, providenciará no sentido de a conservar, para remessa ao Instituto Nacional de Estatística, em suporte e nas condições a acordar oportunamente.
 
@@ -167,7 +223,7 @@ b) Apresentado pelo interessado numa instituição de crédito para efeito de re
 
 5. O exemplar C do boletim de registo prévio, que deve conter no respectivo verso a data do desalfandegamento da mercadoria, aposta pelos serviços aduaneiros ou pelo representante do importador ou exportador, destina-se a ser apresentado pelo interessado numa instituição de crédito, para efeito de realização da correspondente operação cambial.
 
-###### Art. 7.º - 1. A cada boletim de registo de importação ou exportação e, no caso do boletim global de exportação, a cada utilização parcial alfandegária deve corresponder uma declaração de movimento de mercadorias, a preencher após conclusão do despacho.
+Art. 7.º - 1. A cada boletim de registo de importação ou exportação e, no caso do boletim global de exportação, a cada utilização parcial alfandegária deve corresponder uma declaração de movimento de mercadorias, a preencher após conclusão do despacho.
 
 2. A declaração de movimento de mercadorias deve conter, obrigatoriamente, o número do boletim de registo prévio ou do boletim global de exportação, a quantidade e o valor da mercadoria importada ou exportada, bem como a data do desalfandegamento e o número de ordem do respectivo despacho, para além de outros elementos a definir em instruções técnicas.
 
@@ -175,7 +231,7 @@ b) Apresentado pelo interessado numa instituição de crédito para efeito de re
 
 4. O Banco de Portugal enviará às entidades emissoras dos boletins os elementos constantes da declaração do movimento de mercadorias referidos no n.º 2 deste artigo, no dia útil imediato ao do seu processamento mecanográfico.
 
-###### Art. 8.º - 1. O prazo de validade dos boletins de registo prévio, para efeito de desalfandegamento, é de noventa dias improrrogáveis, a contar da data da sua emissão.
+Art. 8.º - 1. O prazo de validade dos boletins de registo prévio, para efeito de desalfandegamento, é de noventa dias improrrogáveis, a contar da data da sua emissão.
 
 2. O prazo de validade dos boletins de registo prévio de exportação e dos boletins globais de exportação, para efeito de pagamento, é de cento e vinte dias, contados a partir da data do desalfandegamento da mercadoria.
 
@@ -185,11 +241,11 @@ b) Apresentado pelo interessado numa instituição de crédito para efeito de re
 
 5. No caso de ter havido pagamento antecipado, total ou parcial, da mercadoria e verificando-se a impossibilidade de o desalfandegamento ocorrer dentro do prazo de validade do boletim, a entidade emissora pode, sob parecer do Banco de Portugal, emitir novo boletim de registo, cujos número e valor devem ser comunicados àquele Banco.
 
-###### Art. 9.º - 1. Na emissão dois boletins de registo prévio ou dos boletins globais a entidade emissora somente pode considerar como moedas de liquidação das respectivas operações as que constam das directivas monetárias.
+Art. 9.º - 1. Na emissão dois boletins de registo prévio ou dos boletins globais a entidade emissora somente pode considerar como moedas de liquidação das respectivas operações as que constam das directivas monetárias.
 
 2. Contudo, mediante parecer favorável do Banco de Portugal, podem ser emitidos boletins de registo prévio ou boletins globais em moeda diferente das que constam das mencionadas directivas monetárias.
 
-###### Art. 10.º - 1. A liquidação das operações de importação ou exportação de mercadorias que estejam sujeitas a registo prévio só pode ser efectuada por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios em território nacional, mediante a apresentação do exemplar C do boletim de registo ou do exemplar B do boletim global de exportação ou, em substituição deste, mediante a apresentação da declaração-termo de responsabilidade a que se refere o n.º 4 do artigo 6.º, dentro do respectivo prazo de validade e na moeda neles indicada.
+Art. 10.º - 1. A liquidação das operações de importação ou exportação de mercadorias que estejam sujeitas a registo prévio só pode ser efectuada por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios em território nacional, mediante a apresentação do exemplar C do boletim de registo ou do exemplar B do boletim global de exportação ou, em substituição deste, mediante a apresentação da declaração-termo de responsabilidade a que se refere o n.º 4 do artigo 6.º, dentro do respectivo prazo de validade e na moeda neles indicada.
 
 2. As operações de importação ou exportação isentas de registo prévio nos termos do artigo 2.º e que não tenham beneficiado de dispensa de liquidação ao abrigo do disposto no artigo 13.º só podem ser liquidadas, também, por intermédio de uma instituição de crédito. A liquidação deve ser feita em moeda permitida pelas directivas monetárias e nos prazos estabelecidos nos n.os 2, 3 e 4 do artigo 8.º
 
@@ -207,7 +263,7 @@ b) Importação, exportação ou reimportação de mercadorias isentas de regist
 
 7. As operações de importação ou exportação de mercadorias só podem ser liquidadas por forma diferente da estabelecida nos números anteriores do presente artigo mediante autorização especial e prévia do Banco de Portugal.
 
-###### Art. 11.º - 1. O titular do boletim de registo de importação não pode utilizar as divisas para fim diverso daquele para que as adquiriu.
+Art. 11.º - 1. O titular do boletim de registo de importação não pode utilizar as divisas para fim diverso daquele para que as adquiriu.
 
 2. No caso de a importação se não realizar, as divisas devem ser revendidas a uma instituição de crédito. A revenda deve ser efectuada até ao prazo máximo de quinze dias após o termo da validade do boletim.
 
@@ -215,7 +271,7 @@ b) Importação, exportação ou reimportação de mercadorias isentas de regist
 
 4. O Banco de Portugal pode autorizar que ao valor total das operações de exportação de mercadorias sejam deduzidas as importâncias de comissões, despesas no estrangeiro, fretes, seguros ou outros encargos legítimos inerentes à exportação efectuada.
 
-###### Art. 12.º - 1. As instituições de crédito que procederem às liquidações referidas no artigo 10.º devem anotar os elementos essenciais da operação nos exemplares C dos respectivos boletins de registo prévio ou nos exemplares B dos boletins globais de exportação e:
+Art. 12.º - 1. As instituições de crédito que procederem às liquidações referidas no artigo 10.º devem anotar os elementos essenciais da operação nos exemplares C dos respectivos boletins de registo prévio ou nos exemplares B dos boletins globais de exportação e:
 
 a) Remeter ao Banco de Portugal o exemplar C dos boletins de registo prévio até ao terceiro dia útil após a realização da operação, sempre que tal exemplar tenha sido utilizado pela sua totalidade. No caso, porém, de se tratar de pagamento antecipado, ainda que pelo seu valor total, deve ser observado o preceituado na alínea b) seguinte;
 
@@ -225,7 +281,7 @@ b) Remeter, igualmente, ao Banco de Portugal, até ao terceiro dia útil após a
 
 3. Tratando-se de operações não sujeitas ao regime de registo prévio, em conformidade com o presente decreto-lei, as instituições de crédito que efectuarem as respectivas liquidações devem comunicá-las ao Banco de Portugal, mediante preenchimento do impresso referido no anterior n.º 2, até ao terceiro dia útil após a realização da operação.
 
-###### Art. 13.º - 1. A emissão de boletins de registo prévio referentes a importação ou exportação de mercadorias, com a cláusula de dispensa de oportuna liquidação cambial, pode ter lugar, desde que essas operações não constituam forma de regularização, total ou parcial, de operações de capitais e respeitem aos casos seguintes:
+Art. 13.º - 1. A emissão de boletins de registo prévio referentes a importação ou exportação de mercadorias, com a cláusula de dispensa de oportuna liquidação cambial, pode ter lugar, desde que essas operações não constituam forma de regularização, total ou parcial, de operações de capitais e respeitem aos casos seguintes:
 
 a) Importação ou exportação de artigos de propaganda e mostruários sem valor, peças e outras mercadorias recebidas ou remetidas em substituição de mercadorias idênticas chegadas impróprias ou avariadas e taras que devam ser posteriormente reenviadas e cujo valor não é incluído no das mercadorias que acondicionaram;
 
@@ -241,25 +297,25 @@ e) Importação ou exportação de quaisquer bens de consumo, duradouros ou não
 
 3. Quando a emissão dos boletins de registo prévio for efectuada com dispensa de liquidação cambial, a respectiva entidade emissora deve reter o exemplar C dos correspondentes boletins e enviá-lo ao Banco de Portugal. Nos casos em que o pedido de concessão da dispensa de liquidação seja posterior à emissão dos boletins, a referida entidade deve exigir a entrega daquele exemplar e enviá-lo igualmente ao Banco de Portugal.
 
-###### Art. 14.º Mediante despacho conjunto dos Ministros das Finanças e do Comércio e Turismo, ouvido o Banco de Portugal, o disposto no artigo anterior pode aplicar-se a outras importações ou exportações de mercadorias com natureza ou finalidades semelhantes às das indicadas nas alíneas do n.º 1 do mesmo artigo.
+Art. 14.º Mediante despacho conjunto dos Ministros das Finanças e do Comércio e Turismo, ouvido o Banco de Portugal, o disposto no artigo anterior pode aplicar-se a outras importações ou exportações de mercadorias com natureza ou finalidades semelhantes às das indicadas nas alíneas do n.º 1 do mesmo artigo.
 
-###### Art. 15.º Em situações excepcionais da balança de pagamentos externos, o Banco de Portugal pode determinar que os boletins de registo de importação ainda não utilizados no desalfandegamento das respectivas mercadorias só possam ter utilização bancária mediante prévia autorização daquele Banco, muito embora os mesmos boletins se encontrem ainda válidos.
+Art. 15.º Em situações excepcionais da balança de pagamentos externos, o Banco de Portugal pode determinar que os boletins de registo de importação ainda não utilizados no desalfandegamento das respectivas mercadorias só possam ter utilização bancária mediante prévia autorização daquele Banco, muito embora os mesmos boletins se encontrem ainda válidos.
 
-###### Art. 16.º - 1. Os documentos e actos necessários à execução deste decreto-lei, designadamente os boletins de registo prévio e os boletins globais, são isentos do imposto do selo e de quaisquer emolumentos.
+Art. 16.º - 1. Os documentos e actos necessários à execução deste decreto-lei, designadamente os boletins de registo prévio e os boletins globais, são isentos do imposto do selo e de quaisquer emolumentos.
 
 2. As entidades emissoras de boletins podem, porém, determinar que os impressos dos boletins de registo e dos boletins globais sejam pagos pelos interessados.
 
-###### Art. 17.º - 1. Os boletins de registo prévio emitidos ao abrigo da legislação anterior continuam em vigor até ao termo da sua validade, não podendo, porém, ser prorrogados, quer para efeito de desalfandegamento, quer para efeito de pagamento.
+Art. 17.º - 1. Os boletins de registo prévio emitidos ao abrigo da legislação anterior continuam em vigor até ao termo da sua validade, não podendo, porém, ser prorrogados, quer para efeito de desalfandegamento, quer para efeito de pagamento.
 
 2. No caso de ter havido pagamento antecipado ao abrigo de um boletim que, por virtude do disposto no número anterior, não possa ser prorrogado, aplica-se o disposto no n.º 5 do artigo 8.º
 
-###### Art. 18.º Os exemplares dos boletins de registo prévio e dos boletins globais referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
+Art. 18.º Os exemplares dos boletins de registo prévio e dos boletins globais referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
-###### Art. 19.º As infracções ao disposto neste diploma serão punidas nos termos dos Decretos-Leis n.os 630/76, de 28 de Julho, e 47918, de 8 de Setembro de 1967.
+Art. 19.º As infracções ao disposto neste diploma serão punidas nos termos dos Decretos-Leis n.os 630/76, de 28 de Julho, e 47918, de 8 de Setembro de 1967.
 
-###### Art. 20.º Transitoriamente, e enquanto não forem estabelecidas disposições legais específicas, os boletins de registo prévio relativos à importação de veículos automóveis podem ser objecto de utilizações parcelares em derrogação do disposto no n.º 2 do artigo 4.º
+Art. 20.º Transitoriamente, e enquanto não forem estabelecidas disposições legais específicas, os boletins de registo prévio relativos à importação de veículos automóveis podem ser objecto de utilizações parcelares em derrogação do disposto no n.º 2 do artigo 4.º
 
-###### Art. 21.º - 1. São expressamente revogados:
+Art. 21.º - 1. São expressamente revogados:
 
 a) As normas aprovadas pelo Conselho de Ministros para o Comércio Externo em 5 de Fevereiro de 1948 e a deliberação do mesmo Conselho de 15 de Junho de 1960, publicadas, respectivamente, no Diário do Governo, de 6 de Fevereiro de 1948 e de 22 de Junho de 1960, com a redacção que às primeiras foi dada pelo artigo 1.º do [Decreto-Lei n.º 309/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1975-337187), de 25 de Junho;
 
@@ -271,12 +327,12 @@ d) Os artigos 1.º e 2.º do [Decreto-Lei n.º 158/73](https://diariodarepublica
 
 2. As normas regulamentares dos diplomas referidos no número anterior mantêm-se em vigor na medida em que possam harmonizar-se com o regime agora instituído.
 
-###### Art. 22.º O presente diploma entra em vigor no dia 1 de Outubro de 1977.
+Art. 22.º O presente diploma entra em vigor no dia 1 de Outubro de 1977.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 4 de Agosto de 1977.**
+Promulgado em 4 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

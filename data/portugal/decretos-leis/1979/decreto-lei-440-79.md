@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/25600/28102813.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1979-363903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d7fa397b72b2896707c998ffd5198818d243b808ba2a8677190b2b4616025aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7226999be2d7f3dc7ec07bc5e4c6342597d1a8031bbf455e3fafbdfa554371a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jovem Trabalhador
+- Serviço Doméstico
+- Trabalhador do Serviço Doméstico
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:257422:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:30993011:por
+  label: "Prorrogado, por 30 dias, o prazo previsto no n.º 1 do art. 6.º e n.º 2 do art. 7.º pelo DN.13/80.12.02.1980.SRT-RAA,\
+    \ JOA-IS [5] de 12.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-1980-30993011
+  date: '1980-02-12'
+- type: amended_by
+  target: pt:dre:462060:por
+  label: "Alterados os valores fixados no artigo 1.º, pelo DEC LEI.480/80.15.10.1980.MT, DR.IS [239] de 15.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/480-1980-462060
+  date: '1980-10-15'
+- type: cites
+  target: pt:dre:294545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257422:por
+  label: Revogado pelo DEC LEI.69-A/87.1987.02.09.MTSS, DR.IS [33]2ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-a-1987-257422
+  date: '1987-02-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:52Z'
   warnings: []
   errors: []
 ---
@@ -252,8 +284,8 @@ O disposto nos artigos 1.º, 2.º, 3.º e 5.º produz efeitos desde 1 de Outubro
 
 Visto e aprovado em Conselho de Ministros de 19 de Setembro de 1979. - Maria de Lourdes Ruivo do Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 25 de Outubro de 1979.**
+Promulgado em 25 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

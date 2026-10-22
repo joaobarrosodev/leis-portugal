@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1970-225854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed3cc81df1f1e04ab02d1bb9dd33e0b0fa710de1049a92c9172502e6211e9ae0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d8dbf1065eb6d12859eacb5a08a765344cee791e6d21fdba1027a07fc1b9947
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Horas Extraordinárias
+- Pessoal Administrativo
+- Pessoal de Enfermagem
+- Pessoal de Saúde
+- Pessoal Técnico
+- Remuneração Acessória
+- Serviços de Urgência
 relationships:
 - type: amended_by
   target: pt:dre:445479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445479:por
+  label: "Alterado o nº2 do art. 1º pelo DEC LEI.87/71.20.03.1971.MF, DG.IS [67] de 20.03.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-1971-445479
+  date: '1971-03-20'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:03Z'
   warnings: []
   errors: []
 ---
@@ -102,21 +126,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.
+Artigo 1.º - 1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.
 
 2. O pessoal de enfermagem e outro pessoal técnico e administrativo que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
 
-###### Art. 2.º O Ministro da Saúde e Assistência estabelecerá em despacho as normas de organização e funcionamento dos serviços para aplicação dos n.os 1 e 2 do artigo anterior, e para eliminar, logo que possível, o recurso ao trabalho extraordinário.
+Art. 2.º O Ministro da Saúde e Assistência estabelecerá em despacho as normas de organização e funcionamento dos serviços para aplicação dos n.os 1 e 2 do artigo anterior, e para eliminar, logo que possível, o recurso ao trabalho extraordinário.
 
-###### Art. 3.º - 1. Os abonos a que se refere este diploma são devidos a partir de 1 de Março de 1970 e serão satisfeitos pelas verbas inscritas nos orçamentos dos respectivos estabelecimentos.
+Art. 3.º - 1. Os abonos a que se refere este diploma são devidos a partir de 1 de Março de 1970 e serão satisfeitos pelas verbas inscritas nos orçamentos dos respectivos estabelecimentos.
 
 2. É revogado o n.º 3.º do artigo 26.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

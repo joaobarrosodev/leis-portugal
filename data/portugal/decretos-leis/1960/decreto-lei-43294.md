@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43294-1960-514596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb723e8c040064422adfcdc2b9ee19b631273b85e518285eeb25e1ed94e0016b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeaa2fcdf6b82c8ee08b26f75bb900805da2adbcc2de4df6b4a3b7d602ec0cb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Casamento
+- Militar
+- Reintegração de Militares
+relationships:
+- type: cites
+  target: pt:dre:414853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566428:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:15Z'
   warnings: []
   errors: []
 ---
@@ -88,8 +104,8 @@ Verificando-se que existem oficiais que, a fim de poderem contrair matrimónio s
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Aos oficiais que tenham voluntàriamente transitado para a situação de reserva a fim de poderem contrair matrimónio em condições que constituiriam infracção ao [Decreto-Lei n.º 31107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31107-1941-414853), de 18 de Janeiro de 1941, alterado pelo [Decreto-Lei n.º 38778](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38778-1952-566428), de 11 de Junho de 1952, é aplicável o disposto nos artigos 18.º a 21.º do [Decreto-Lei n.º 43101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43101-1960-501251), de 2 de Agosto de 1960.
+Artigo único. Aos oficiais que tenham voluntàriamente transitado para a situação de reserva a fim de poderem contrair matrimónio em condições que constituiriam infracção ao [Decreto-Lei n.º 31107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31107-1941-414853), de 18 de Janeiro de 1941, alterado pelo [Decreto-Lei n.º 38778](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38778-1952-566428), de 11 de Junho de 1952, é aplicável o disposto nos artigos 18.º a 21.º do [Decreto-Lei n.º 43101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43101-1960-501251), de 2 de Agosto de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1979, 4º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3478-(84) a 3478-(84)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30004/00840084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1979-231287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31a0b7f0fcbc5cd7cab49e654db42acdf6b92f5590a62b300275085c7db2f522
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53bb207b77e782f2c6c1f8b207c947bf8ec05dd1c7e1cf296dbb611dc06c2a79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS de Consumo
+- Comércio
+- Empresa
+- Mercado Interno
+- Preço
+- Preço Declarado
+- Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:678824:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:678824:por
+  label: "Revogado pelo Dec-Lei 29/80.29.02.1980.MCT, DR.IS [50] de 29.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1980-678824
+  date: '1980-02-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:56Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +111,14 @@ Na mesma linha de pensamento, tendo em atenção as novas condições de evoluç
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 1 do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, passa a ter a seguinte redacção:
+Artigo único. O n.º 1 do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Ficam sujeitos ao regime de preços declarados os bens ou serviços produzidos ou importados por empresas cuja facturação bruta total correspondente a vendas no mercado interno no ano anterior tenha sido superior a 100000 contos, mas somente aqueles cuja facturação tenha sido superior a 20000 contos, quando tais bens ou serviços não estejam abrangidos naquele estúdio de produção ou comercialização por qualquer outro regime.
+Art. 4.º - 1 - Ficam sujeitos ao regime de preços declarados os bens ou serviços produzidos ou importados por empresas cuja facturação bruta total correspondente a vendas no mercado interno no ano anterior tenha sido superior a 100000 contos, mas somente aqueles cuja facturação tenha sido superior a 20000 contos, quando tais bens ou serviços não estejam abrangidos naquele estúdio de produção ou comercialização por qualquer outro regime.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Acácio Manuel Pereira Magro.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

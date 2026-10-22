@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20900/25932595.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1980-464041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fb0e25850a1bf2ffa204a73ab36cdda5e1a47a8bfd9460a833918b76e9be59d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfe010dc96d8d95442876ecb9fe4a213b69052e36a9144cecf8b83b3cba9ec1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:553668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:142569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553668:por
+  label: "Revogado pelo Dec Lei.224-A/96.1996.11.26. MJ, DR.IS-A [274]2ºSupl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:37Z'
   warnings: []
   errors: []
 ---
@@ -100,27 +120,27 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As quantias indicadas nos artigos 69.º, 72.º, 75.º, 88.º, 89.º, 91.º, 92.º, 93.º e 95.º do Código das Custas Judiciais, aprovado pelo [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de Maio de 1962, passam a ser as seguintes:
+Artigo 1.º As quantias indicadas nos artigos 69.º, 72.º, 75.º, 88.º, 89.º, 91.º, 92.º, 93.º e 95.º do Código das Custas Judiciais, aprovado pelo [Decreto-Lei n.º 44329](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44329-1962-545666), de 8 de Maio de 1962, passam a ser as seguintes:
 
-###### Art. 69.º, n.º 1 - 300$00, 200$00, 700$00 e 1000$00, respectivamente;
+Art. 69.º, n.º 1 - 300$00, 200$00, 700$00 e 1000$00, respectivamente;
 
-###### Art. 72.º, n.º 1 - 200$00 e 500$00, respectivamente;
+Art. 72.º, n.º 1 - 200$00 e 500$00, respectivamente;
 
-###### Art. 75.º, n.os 1 e 3 - 7$00 e 300$00;
+Art. 75.º, n.os 1 e 3 - 7$00 e 300$00;
 
-###### Art. 88.º - 200$00;
+Art. 88.º - 200$00;
 
-###### Art. 89.º, n.º 1 - 100$00, 30$00 e 20$00;
+Art. 89.º, n.º 1 - 100$00, 30$00 e 20$00;
 
-###### Art. 91.º, n.º 1 - 100$00 e 50$00;
+Art. 91.º, n.º 1 - 100$00 e 50$00;
 
-###### Art. 92.º, n.º 1 - 100$00;
+Art. 92.º, n.º 1 - 100$00;
 
-###### Art. 93.º, n.º 1 - 3$50;
+Art. 93.º, n.º 1 - 3$50;
 
-###### Art. 95.º - 150$00.
+Art. 95.º - 150$00.
 
-###### Art. 2.º Os artigos 73.º, 84.º, 195.º e 198.º do referido Código passam a ter a seguinte redacção:
+Art. 2.º Os artigos 73.º, 84.º, 195.º e 198.º do referido Código passam a ter a seguinte redacção:
 
 ###### ARTIGO 73.º — (Importâncias que revertem para o Cofre Geral dos Tribunais)
 
@@ -186,7 +206,7 @@ Dos médicos e especialistas, em exame da sua especialidade e utilizando aparelh
 
 2 - ...
 
-###### Art. 3.º Os artigos 6.º, 9.º e 19.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 6.º, 9.º e 19.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969, passam a ter a seguinte redacção:
 
 ###### ARTIGO 6.º — (Encargos)
 
@@ -228,18 +248,18 @@ e) Nos de valor superior a 1000000$00, acrescerá aos limites estabelecidos na a
 
 3 - ...
 
-###### Art. 4.º - 1 - O depósito ou pagamento de custas, preparos ou multas devidas por pessoa que resida ou se encontre fora da comarca, pode ser efectuado por meio de cheque de transferência através da Caixa Geral de Depósitos, vale postal ou cheque visado por qualquer instituição de crédito passado a favor da aludida Caixa Geral de Depósitos.
+Art. 4.º - 1 - O depósito ou pagamento de custas, preparos ou multas devidas por pessoa que resida ou se encontre fora da comarca, pode ser efectuado por meio de cheque de transferência através da Caixa Geral de Depósitos, vale postal ou cheque visado por qualquer instituição de crédito passado a favor da aludida Caixa Geral de Depósitos.
 
 2 - O cheque ou vale previstos no número anterior são enviados sob registo do correio ao escrivão do processo, de modo que seja recebido por este até ao dia anterior ao termo do prazo. O escrivão entrega imediatamente a guia e o cheque ou vale ao secretário ou chefe da secretaria, que os mandará entregar na caixa para efectuar o pagamento.
 
 3 - O triplicado da guia de depósito será remetido a quem o satisfez desde que ao escrivão tenha sido enviado com o cheque ou vale referidos neste artigo um sobrescrito já selado e endereçado.
 
-###### Art. 5.º - As taxas devidas pela passagem de certidões, fotocópias e translados a que se referem os artigos 44, 94-A e 166 da Tabela Geral do Imposto do Selo podem ser pagas por meio de verba, devendo o respectivo imposto do selo ser sempre discriminado na conta.
+Art. 5.º - As taxas devidas pela passagem de certidões, fotocópias e translados a que se referem os artigos 44, 94-A e 166 da Tabela Geral do Imposto do Selo podem ser pagas por meio de verba, devendo o respectivo imposto do selo ser sempre discriminado na conta.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 27 de Agosto de 1980.**
+Promulgado em 27 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

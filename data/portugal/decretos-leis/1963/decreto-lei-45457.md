@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45457-1963-680412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c825e4788298c9be51a50e7e0cb95525268d21c6114233d62c125b03cf78aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6242168473ec68ee4457ded2bbde35da24d6586c0d5fecb5a293d5085543b82e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Agrícolas
+- Formas de Provimento
+- Indústria Cervejeira
+- Malte
+- Ministro das Finanças
+- Produção Agrícola
+- Quadro de Pessoal
+- Secretaria de Estado da Agricultura
+- Serviço de Campanha de Fomento Pecuário
 relationships:
 - type: amended_by
   target: pt:dre:507871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:323485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463399:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:507871:por
+  label: "Revogado o art. 3º pelo DEC LEI.46697.04.12.1965.MECO, DG.IS [275] de 04.12.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46697-1965-507871
+  date: '1965-12-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:26Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +112,25 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Serviço de Campanha de Fomento Pecuário pode contratar e assalariar pessoal mediante autorização do Secretário de Estado da Agricultura e, no primeiro caso, com o acordo do Ministro das Finanças.
+Artigo 1.º O Serviço de Campanha de Fomento Pecuário pode contratar e assalariar pessoal mediante autorização do Secretário de Estado da Agricultura e, no primeiro caso, com o acordo do Ministro das Finanças.
 
 § único. O pessoal eventualmente empregado em trabalhos de campo pode ser assalariado pelos directores dos estabelecimentos que executarem os trabalhos, de harmonia com as necessidades prèviamente reconhecidas pelo conselho administrativo.
 
-###### Art. 2.º O actual servente da Direcção-Geral dos Serviços Agrícolas, de nomeação vitalícia além do quadro, nos termos do [Decreto-Lei n.º 35344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35344-1945-463399), de 19 de Dezembro de 1945, é colocado em vaga de igual categoria do quadro do pessoal menor da mesma Direcção-Geral.
+Art. 2.º O actual servente da Direcção-Geral dos Serviços Agrícolas, de nomeação vitalícia além do quadro, nos termos do [Decreto-Lei n.º 35344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35344-1945-463399), de 19 de Dezembro de 1945, é colocado em vaga de igual categoria do quadro do pessoal menor da mesma Direcção-Geral.
 
 § único. O provimento será automático, sendo dispensadas todas as formalidades, incluindo o visto do Tribunal de Contas.
 
-###### Art. 3.º O artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, passa a ter a seguinte redacção:
+Art. 3.º O artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, passa a ter a seguinte redacção:
 
-###### Art. 4.º As quantias arrecadadas nos termos do artigo anterior e seu parágrafo darão entrada nos cofres do Tesouro e serão escrituradas em receita do Estado, no capítulo das «Consignações de receita», devendo ser aplicadas através da dotação de «Participações em cobranças ou receitas» atribuída à Direcção-Geral dos Serviços Agrícolas.
+Art. 4.º As quantias arrecadadas nos termos do artigo anterior e seu parágrafo darão entrada nos cofres do Tesouro e serão escrituradas em receita do Estado, no capítulo das «Consignações de receita», devendo ser aplicadas através da dotação de «Participações em cobranças ou receitas» atribuída à Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 4.º As despesas com estudos e trabalhos do Ministério da Economia poderão ser satisfeitas, mediante despacho do Ministro, de conta de verba adequada consignada à Secretaria-Geral.
+Art. 4.º As despesas com estudos e trabalhos do Ministério da Economia poderão ser satisfeitas, mediante despacho do Ministro, de conta de verba adequada consignada à Secretaria-Geral.
 
 § único. Exceptuam-se as despesas que forem consideradas, por despacho do Ministro da Economia, como devendo ser satisfeitas por verba atribuída a determinado serviço do Ministério em virtude do seu restrito ou específico interesse.
 
-###### Art. 5.º Este diploma entra em vigor no início do ano económico de 1964.
+Art. 5.º Este diploma entra em vigor no início do ano económico de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.
 

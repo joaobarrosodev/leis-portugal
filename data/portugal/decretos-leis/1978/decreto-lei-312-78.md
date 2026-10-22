@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24600/22432243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1978-327868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc21460fab999c046434b4a5ca262999def485ff7025889e4f1552ee1ac05b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1c7085c99de5b6f030d3db7ccf6e0aab01cb320248a49f7cee64a043d5ec875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Companhia de Seguros
+- Companhia de Seguros Mundial Confiança
+- Empresa Pública
+- Fusão de Empresas
+- Integração de Trabalhadores
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:03Z'
   warnings: []
   errors: []
 ---
@@ -95,30 +115,30 @@ No momento actual verifica-se estar concluído o processo de integração no que
 
 Nestas condições, tendo em atenção o disposto nos artigos 4.º e 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Governo decreta, nos termos do artigo 201.º, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º Com efeitos a partir de 1 de Janeiro de 1979, a Companhia de Seguros A Mundial e a Companhia de Seguros Confiança são fundidas numa única empresa seguradora referida no artigo seguinte.
+Artigo 1.º Com efeitos a partir de 1 de Janeiro de 1979, a Companhia de Seguros A Mundial e a Companhia de Seguros Confiança são fundidas numa única empresa seguradora referida no artigo seguinte.
 
-###### Art. 2.º A partir da mesma data é criada uma empresa seguradora denominada Companhia de Seguros Mundial-Confiança, E. P., com sede social em Lisboa.
+Art. 2.º A partir da mesma data é criada uma empresa seguradora denominada Companhia de Seguros Mundial-Confiança, E. P., com sede social em Lisboa.
 
-###### Art. 3.º O seu objecto é o exercício de actividade de seguros e resseguros e actividades complementares permitidas por lei.
+Art. 3.º O seu objecto é o exercício de actividade de seguros e resseguros e actividades complementares permitidas por lei.
 
-###### Art. 4.º O capital estatutário resultante da fusão é de 45000000$00.
+Art. 4.º O capital estatutário resultante da fusão é de 45000000$00.
 
-###### Art. 5.º Os patrimónios das Companhias fundidas consideram-se, a partir da citada data, transmitidos, com todos os seus elementos activos e passivos, compreendendo as reservas técnicas e seus caucionamentos, para a empresa resultante da fusão.
+Art. 5.º Os patrimónios das Companhias fundidas consideram-se, a partir da citada data, transmitidos, com todos os seus elementos activos e passivos, compreendendo as reservas técnicas e seus caucionamentos, para a empresa resultante da fusão.
 
-###### Art. 6.º As bases técnicas e as condições gerais das apólices a adoptar pela empresa resultante da fusão são as declaradas na documentação apresentada, que se dá como reproduzida e fica arquivada, para os efeitos legais, na Inspecção de Seguros.
+Art. 6.º As bases técnicas e as condições gerais das apólices a adoptar pela empresa resultante da fusão são as declaradas na documentação apresentada, que se dá como reproduzida e fica arquivada, para os efeitos legais, na Inspecção de Seguros.
 
-###### Art. 7.º A Companhia de Seguros Mundial-Confiança, E. P., fica sujeita à tutela do Ministério das Finanças e do Plano.
+Art. 7.º A Companhia de Seguros Mundial-Confiança, E. P., fica sujeita à tutela do Ministério das Finanças e do Plano.
 
-###### Art. 8.º O pessoal das empresas referidas no artigo 1.º é transferido para a empresa resultante da fusão sem prejuízo da sua categoria e dos seus direitos emergentes do respectivo contrato colectivo de trabalho e seus anexos.
+Art. 8.º O pessoal das empresas referidas no artigo 1.º é transferido para a empresa resultante da fusão sem prejuízo da sua categoria e dos seus direitos emergentes do respectivo contrato colectivo de trabalho e seus anexos.
 
-###### Art. 9.º - 1 - Nos termos do artigo 28.º do [Decreto-Lei n.º 75-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1978-332190), de 26 de Abril, é concedida isenção de contribuições, impostos, taxas, emolumentos e outros encargos legais relativamente à fusão agora decretada.
+Art. 9.º - 1 - Nos termos do artigo 28.º do [Decreto-Lei n.º 75-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1978-332190), de 26 de Abril, é concedida isenção de contribuições, impostos, taxas, emolumentos e outros encargos legais relativamente à fusão agora decretada.
 
 2 - Fica incumbido o conselho de gestão das empresas referidas no artigo 1.º de promover e praticar todos os actos, nomeadamente os notariais e de registo, inerentes à fusão, constituindo o presente diploma título bastante para todos os efeitos legais.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 9 de Outubro de 1978.**
+Promulgado em 9 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

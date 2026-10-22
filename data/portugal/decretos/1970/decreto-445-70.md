@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 221/1970, 1º Suplemento, Série I de 1970-09-23
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1356-(5) a 1356-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/22101/00050017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57d96c8a86b3bac753bfd04a9fa58d71d4f1e57b19d6e3d6b07e5b0f48bef90e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 032a9ceec2524e3fca34fede773059c294123b0cd305d549cf88c503b2bbb1ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA do POVO
+- Previdência Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:324937:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336695:por
+  label: "Transferida para Junta Central das Casas do Povo a competência do ex-Instituto Nacional do Trabalho e Previdência\
+    \ contida no presente diploma pelo DEC LEI.391/75.22.07.1975.MAS, DG.IS [167] de 22.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1975-336695
+  date: '1975-07-22'
+- type: amended_by
+  target: pt:dre:502188:por
+  label: Alterado o art. 69.º pelo(a) Decreto n.º 306/76 - Diário da República n.º 98/1976, Série I de 1976-04-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/306-1976-502188
+  date: '1976-04-26'
+- type: amended_by
+  target: pt:dre:407548:por
+  label: "Alterado o artigo 90.º, pela PORT.755/76.21.12.1976.SESS-MAS, DR.IS [296] de 21.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-1976-407548
+  date: '1976-12-21'
+- type: cites
+  target: pt:dre:140845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:344917:por
+  label: "Revogado pelo DEC.174-B/75.1975.04.01.MAS, DR.IS [76]Supl, em tudo o que o contrarie.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/174-b-1975-344917
+  date: '1975-04-01'
+- type: repealed_by
+  target: pt:dre:451834:por
+  label: "Revogado pelo DEC LEI.251/83.11.06.1983.MAS, DR.IS [133] de 11.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1983-451834
+  date: '1983-06-11'
+- type: repealed_by
+  target: pt:dre:324937:por
+  label: "Revogado pelo DEC LEI.81/85.28.03.1985.MFP, DR.IS [73] de 28.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1985-324937
+  date: '1985-03-28'
 article_structure:
   article_count: 92
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:25Z'
   warnings: []
   errors: []
 ---
@@ -921,8 +967,8 @@ Ressalvando o disposto no presente diploma, observar-se-ão no regime especial d
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 21 de Setembro de 1970.**
+Promulgado em 21 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/173-1971-444699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8afca2f6cfc3e6f257be53ff84d52b6859cf9fcf441d33e781d52bbb61c4dc52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1e3b35ed49b6cb6acab92f1a69b2e64d54622cc2ade48bfb32ef775e876f467
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,31 @@ relationships:
   target: pt:dre:507027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507027:por
+  label: Extintos, a partir de 29.01.1976, o Grupo de Missões Científicas do Zambeze e a sua Missão de Ecologia Aplicada,
+    e determinada a transferência do respectivo património e a transição do seu pessoal para a Junta de Investigações Científicas
+    do Ultramar pelo(a) Decreto n.º 87/76 - Diário do Governo n.º 24/1976, Série I de 1976-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/87-1976-507027
+  date: '1976-01-29'
+- type: cites
+  target: pt:dre:228057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463597:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:09Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +130,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Nos termos dos n.os 7.º a 9.º, 12.º e 15.º do artigo 11.º do [Decreto-Lei n.º 35395](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35395-1945-463597), de 26 de Dezembro de 1945, é criado na Junta de Investigações do Ultramar, com carácter temporário, o Grupo de Missões de Investigação Científica do Vale do Zambeze, em Moçambique, abreviadamente designado por Grupo de Missões Científicas do Zambeze.
+Artigo 1.º - 1. Nos termos dos n.os 7.º a 9.º, 12.º e 15.º do artigo 11.º do [Decreto-Lei n.º 35395](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35395-1945-463597), de 26 de Dezembro de 1945, é criado na Junta de Investigações do Ultramar, com carácter temporário, o Grupo de Missões de Investigação Científica do Vale do Zambeze, em Moçambique, abreviadamente designado por Grupo de Missões Científicas do Zambeze.
 
 2. Constitui atribuição legal do Grupo de Missões Científicas do Zambeze a superintendência, mediante orientação, coordenação ou realização, em toda a investigação científica requerida pela construção da barragem de Cabora Bassa, quer vise o reconhecimento e preservação do património natural e cultural da área que a albufeira submergirá, quer tenha por fim a investigação dos eco-sistemas prevalecentes nas regiões afectáveis pela criação desta e a avaliação das suas reacções ao evento.
 
@@ -127,7 +142,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 6. No delineamento e condução dos trabalhos de investigação científica ter-se-á presente o propósito de oportuno estabelecimento, na área da albufeira e sua periferia, de zonas de protecção e outras medidas de preservação e estudo da natureza e do património cultural do vale do Zambeze adajcente.
 
-###### Art. 2.º - 1. São órgãos directivos do Grupo de Missões Científicas do Zambeze a Comissão Central Orientadora da Investigação Científica para Cabora Bassa e a Comissão Provincial de Coordenação das Missões Científicas do Zambeze, com sede, respectivamente, em Lisboa e em Tete.
+Art. 2.º - 1. São órgãos directivos do Grupo de Missões Científicas do Zambeze a Comissão Central Orientadora da Investigação Científica para Cabora Bassa e a Comissão Provincial de Coordenação das Missões Científicas do Zambeze, com sede, respectivamente, em Lisboa e em Tete.
 
 2. À Comissão Central Orientadora compete:
 
@@ -175,9 +190,9 @@ g) Tomar ou propor todas as providências e efectuar todas as diligências que c
 
 h) Submeter a despacho do governador-geral de Moçambique, pelo investigador coordenador-geral ou pelo coordenador-geral-adjunto, os assuntos que devam ser presentes à sua apreciação ou decisão.
 
-###### Art. 3.º - 1. Constituem a Comissão Central Orientadora da Investigação Científica para Cabora Bassa:
+Art. 3.º - 1. Constituem a Comissão Central Orientadora da Investigação Científica para Cabora Bassa:
 
-**O presidente da Junta de Investigações do Ultramar, que presidirá;**
+O presidente da Junta de Investigações do Ultramar, que presidirá;
 
 O reitor da Universidade de Lourenço Marques, que, na ausência do presidente, representará em Moçambique a Comissão Central;
 
@@ -201,7 +216,7 @@ Os docentes da Universidade de Lourenço Marques e os cientistas da Junta de Inv
 
 7. A Comissão Central disporá de serviço de secretaria e contabilidade, que funcionará na dependência imediata do presidente e ao qual a Junta de Investigações do Ultramar facultará as instalações e apoio logístico necessários.
 
-###### Art. 4.º - 1. A Comissão Provincial de Coordenação das Missões Científicas do Zambeze, órgão directivo local do Grupo de Missões, funcionará sob a chefia do investigador coordenador-geral, que será o gestor do plano geral e dos programas anuais de investigação científica no vale do Zambeze em Moçambique, coadjuvado pelo investigador coordenador-geral-adjunto.
+Art. 4.º - 1. A Comissão Provincial de Coordenação das Missões Científicas do Zambeze, órgão directivo local do Grupo de Missões, funcionará sob a chefia do investigador coordenador-geral, que será o gestor do plano geral e dos programas anuais de investigação científica no vale do Zambeze em Moçambique, coadjuvado pelo investigador coordenador-geral-adjunto.
 
 2. Adstritos à Comissão Provincial de Coordenação poderá haver até quatro cientistas ou docentes altamente qualificados, cada um em um dos domínios das ciências da terra, ciências biológicas e ciências humanas e em ecologia aplicada, que actuarão como conselheiros científicos do investigador coordenador-geral. Poderão ser nacionais ou estrangeiros e serão designados pelo Ministro do Ultramar, sob proposta da Comissão Central.
 
@@ -215,7 +230,7 @@ Os docentes da Universidade de Lourenço Marques e os cientistas da Junta de Inv
 
 7. Os serviços de secretariado da Comissão Provincial de Coordenação actuarão em estreita ligação com os Serviços Regionais do Gabinete do Plano do Zambeze, por forma a evitar toda a duplicação inútil de esforços ou de dispêndios. O investigador coordenador-geral e o director dos Serviços Regionais de Estudos e Planeamento do Gabinete do Plano do Zambeze acertarão entre si as normas adequadas a esta cooperação.
 
-###### Art. 5.º - 1. As missões de investigação científica são os órgãos executivos do Grupo de Missões Científicas do Zambeze e agirão segundo as normas legais aplicáveis às missões da Junta de Investigações do Ultramar, gozando de todas as facilidades e privilégios que a lei para estas estabelece.
+Art. 5.º - 1. As missões de investigação científica são os órgãos executivos do Grupo de Missões Científicas do Zambeze e agirão segundo as normas legais aplicáveis às missões da Junta de Investigações do Ultramar, gozando de todas as facilidades e privilégios que a lei para estas estabelece.
 
 2. Dentro da orientação básica e dos programas definidos pela Comissão Central, as missões actuarão com autonomia e responsabilidade, tanto no plano científico como no administrativo, sem prejuízo da observância da coordenação de actividades que razões científicas, logísticas ou de segurança aconselhem.
 
@@ -229,7 +244,7 @@ Os docentes da Universidade de Lourenço Marques e os cientistas da Junta de Inv
 
 7. As missões de investigação terão permanentemente ao dispor da missão de ecologia aplicada os dados recolhidos e respectiva elaboração e condicionarão programas e métodos de trabalho ao objectivo da integração eco-sistemática dos conhecimentos obtidos.
 
-###### Art. 6.º O Grupo de Missões Científicas do Zambeze observará a seguinte disciplina em matéria de prestação de relatórios:
+Art. 6.º O Grupo de Missões Científicas do Zambeze observará a seguinte disciplina em matéria de prestação de relatórios:
 
 a) As missões de investigação prestarão à Comissão Provincial de Coordenação relatório de cada campanha que efectuem, no prazo de sessenta dias após o termo dos respectivos trabalhos de campo, e à Comissão Central relatório anual da sua actividade, de campo e de gabinete, até ao último dia do mês de Fevereiro seguinte;
 
@@ -239,7 +254,7 @@ c) A Comissão Central submeterá até 30 de Junho do ano seguinte ao Ministro d
 
 d) Sem prejuízo do mais que neles julgue de incluir-se, todos os relatórios conterão uma parte nuclear condensada e diagramas-sínteses, segundo modelos elaborados ou aprovados pela Comissão Central Orientadora ou pela Comissão Provincial de Coordenação, consoante os casos.
 
-###### Art. 7 - 1. O Grupo de Missões Científicas do Zambeze, dotado de autonomia administrativa e financeira, inscreverá no orçamento da receita as dotações, comparticipações e doações que lhe sejam consignadas pelo Ministério do Ultramar ou pelo Governo-Geral de Moçambique, serviços ou fundos autónomos de um ou do outro dependentes, e entidades privadas, os respectivos saldos de exercício, o produto da venda de bens inutilizados ou desnecessários ou de materiais resultantes dos seus estudos e investigações e dispensáveis para o prosseguimento destes, bem como quaisquer outras receitas que por lei ou despacho lhe sejam atribuídas ou autorizadas. O orçamento da despesa terá um capítulo único, com três artigos, correspondentes às três classes das despesas públicas: «Despesas com pessoal», «Despesas com material» e «Pagamento de serviços e diversos encargos».
+Art. 7 - 1. O Grupo de Missões Científicas do Zambeze, dotado de autonomia administrativa e financeira, inscreverá no orçamento da receita as dotações, comparticipações e doações que lhe sejam consignadas pelo Ministério do Ultramar ou pelo Governo-Geral de Moçambique, serviços ou fundos autónomos de um ou do outro dependentes, e entidades privadas, os respectivos saldos de exercício, o produto da venda de bens inutilizados ou desnecessários ou de materiais resultantes dos seus estudos e investigações e dispensáveis para o prosseguimento destes, bem como quaisquer outras receitas que por lei ou despacho lhe sejam atribuídas ou autorizadas. O orçamento da despesa terá um capítulo único, com três artigos, correspondentes às três classes das despesas públicas: «Despesas com pessoal», «Despesas com material» e «Pagamento de serviços e diversos encargos».
 
 2. Dentro deste orçamento, constituem encargo do Grupo todas as despesas com a manutenção de quaisquer serviços dele dependentes, salvo o previsto no artigo 8.º, n.os 2 e 3.
 
@@ -251,13 +266,13 @@ d) Sem prejuízo do mais que neles julgue de incluir-se, todos os relatórios co
 
 6. A competência administrativa dos órgãos directivos, suas comissões administrativas e seus dirigentes, e a das missões de investigação, bem como os respectivos limites de autoridade, serão fixados pelo Ministro do Ultramar na portaria a que se refere o artigo 1.º, n.º 4.
 
-###### Art. 8.º - 1. A Junta de Investigações do Ultramar dará prioridade, na organização dos programas da actividade científica dos serviços dela dependentes, na metrópole e em Moçambique, e na atribuição de tarefas aos respectivos quadros científicos, durante os anos de 1971 a 1975, à colaboração a prestar à investigação cometida ao Grupo de Missões Científicas do Zambeze. Dará igualmente prioridade, na distribuição dos seus recursos orçamentais, aos organismos intervenientes nesta investigação.
+Art. 8.º - 1. A Junta de Investigações do Ultramar dará prioridade, na organização dos programas da actividade científica dos serviços dela dependentes, na metrópole e em Moçambique, e na atribuição de tarefas aos respectivos quadros científicos, durante os anos de 1971 a 1975, à colaboração a prestar à investigação cometida ao Grupo de Missões Científicas do Zambeze. Dará igualmente prioridade, na distribuição dos seus recursos orçamentais, aos organismos intervenientes nesta investigação.
 
 2. O apoio da Junta ao Grupo de Missões poderá traduzir-se, ainda, em pôr à disposição e sob a autoridade deste, missões, brigadas, laboratórios ou outros serviços de investigação dela dependentes, cujos encargos permanentes e apetrechamento ou aprovisionamento científicos continuarão suportados pelas dotações normais da Junta.
 
 3. Contributo análogo ao da Junta descrito no número anterior deverá ser prestado ao Grupo de Missões Científicas do Zambeze pelos serviços provinciais participantes na investigação a que se refere o artigo 1.º, n.º 2.
 
-###### Art. 9.º - 1. Do Grupo de Missões Científicas do Zambeze poderão fazer parte funcionários de qualquer serviço do Estado, comissionados, destacados ou requisitados nos termos da lei, e ainda quaisquer pessoas ou entidades de reconhecida competência para o fim especifico em vista, comissionadas, contratadas ou subsidiadas de harmonia com a lei.
+Art. 9.º - 1. Do Grupo de Missões Científicas do Zambeze poderão fazer parte funcionários de qualquer serviço do Estado, comissionados, destacados ou requisitados nos termos da lei, e ainda quaisquer pessoas ou entidades de reconhecida competência para o fim especifico em vista, comissionadas, contratadas ou subsidiadas de harmonia com a lei.
 
 2. Aos servidores do Estado designados para o Grupo de Missões Científicas do Zambeze em regime de acumulação com as suas funções poderá ser fixada, por despacho do Ministro do Ultramar, gratificação até ao máximo de 3000$00 mensais, nos casos em que a designação não implique a atribuição de ajudas de custo, subsídio diário ou de campo.
 
@@ -279,10 +294,10 @@ d) Sem prejuízo do mais que neles julgue de incluir-se, todos os relatórios co
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Abril de 1971.**
+Promulgado em 16 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.

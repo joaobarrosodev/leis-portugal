@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45330-1963-687851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83a19898e1612270c76d952f5945bd1f655ee14a067f22a95dcd72ad1064919b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5f26e0ecd92d434091de7ec68799ebed10b327471a0a88f48b6a5e2bda87d43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Autorização de Despesas
+- Comissão
+- Comissão de Reorganização e Simplificação de Serviços
+- Definição de Competências
+- Delegação de Competências
+- Direcção Geral dos Transportes Terrestres
+- Diretor Geral
+- Fundo Especial de Transportes Terrestres
+- Ministério das Comunicações
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:631264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631264:por
+  label: "Extinta a Comissão de Reorganização e Simplificação de Serviços, pelo DEC LEI.488/71.1971.11.09.MOP DG.IS [263]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/488-1971-631264
+  date: '1971-11-09'
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:50Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +124,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada na Direcção-Geral de Transportes Terrestres uma comissão, com carácter eventual, denominada «Comissão de Reorganização e Simplificação de Serviços», destinada inicialmente a estudar a regulamentação do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e a criação dos serviços necessários à execução das novas tarefas que aquele diploma implica.
+Artigo 1.º É criada na Direcção-Geral de Transportes Terrestres uma comissão, com carácter eventual, denominada «Comissão de Reorganização e Simplificação de Serviços», destinada inicialmente a estudar a regulamentação do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e a criação dos serviços necessários à execução das novas tarefas que aquele diploma implica.
 
 § único. A Comissão ocupar-se-á também do estudo de outros problemas de simplificação e reorganização de serviços, segundo programa aprovado pelo Ministro das Comunicações.
 
-###### Art. 2.º A Comissão terá um presidente, dois vogais permanentes e os vogais eventuais que forem julgados necessários para o estudo de cada um dos problemas de que for incumbida.
+Art. 2.º A Comissão terá um presidente, dois vogais permanentes e os vogais eventuais que forem julgados necessários para o estudo de cada um dos problemas de que for incumbida.
 
 § 1.º Os membros da Comissão poderão ser funcionários do Estado ou outras pessoas de reconhecida competência, da livre escolha do Ministro das Comunicações.
 
@@ -115,36 +140,36 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º Aos membros da Comissão, quando hajam de deslocar-se no desempenho das suas funções, serão abonadas ajudas de custo e despesas de transporte. Sendo funcionários públicos, a ajuda de custo será a correspondente à sua categoria; no caso de indivíduos não servidores do Estado, será a ajuda de custo estabelecida conforme o disposto no artigo 11.º do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944.
 
-###### Art. 3.º O pessoal julgado necessário aos serviços da Comissão será contratado ou assalariado nos termos e com as remunerações que forem aprovadas por despacho do Ministro das Comunicações, em conformidade com as leis em vigor.
+Art. 3.º O pessoal julgado necessário aos serviços da Comissão será contratado ou assalariado nos termos e com as remunerações que forem aprovadas por despacho do Ministro das Comunicações, em conformidade com as leis em vigor.
 
-###### Art. 4.º Mediante autorização do Ministro das Comunicações, poderá ser feita requisição de pessoal dos quadros do Ministério das Comunicações necessário ao funcionamento dos serviços da Comissão, o qual será contratado nas condições previstas no artigo anterior.
+Art. 4.º Mediante autorização do Ministro das Comunicações, poderá ser feita requisição de pessoal dos quadros do Ministério das Comunicações necessário ao funcionamento dos serviços da Comissão, o qual será contratado nas condições previstas no artigo anterior.
 
 § 1.º O pessoal assim requisitado considerar-se-á em comissão transitória de serviço, sem prejuízo da contagem do tempo de comissão, para todos os efeitos legais, como de efectivo serviço nos lugares de que foi deslocado.
 
 § 2.º O pessoal requisitado ao abrigo deste artigo poderá ser substituído, a título interino e durante o período que durar a comissão, por acesso de funcionários dos respectivos organismos ou por livre nomeação.
 
-###### Art. 5.º A Comissão poderá contratar ou ajustar com entidades ou indivíduos a ela estranhos, nacionais ou estrangeiros, a realização de estudos ou de trabalhos de qualquer natureza, em regime de prestação eventual de serviço ou tarefa.
+Art. 5.º A Comissão poderá contratar ou ajustar com entidades ou indivíduos a ela estranhos, nacionais ou estrangeiros, a realização de estudos ou de trabalhos de qualquer natureza, em regime de prestação eventual de serviço ou tarefa.
 
 § único. Em casos cuja natureza ou urgência o aconselhem poderá ser autorizada a efectivação dos contratos ou ajustes referidos no corpo do artigo com dispensa da realização de concurso, público ou limitado, e de celebração de contrato escrito.
 
-###### Art. 6.º A Comissão, para cada trabalho de que for incumbida, poderá apoiar-se nos serviços normais da Direcção-Geral de Transportes Terrestres.
+Art. 6.º A Comissão, para cada trabalho de que for incumbida, poderá apoiar-se nos serviços normais da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 7.º Na execução dos seus planos de trabalho, a Comissão poderá ser auxiliada por outros serviços do Ministério, incluindo os autónomos, bem como pelas companhias concessionárias de serviços de transportes.
+Art. 7.º Na execução dos seus planos de trabalho, a Comissão poderá ser auxiliada por outros serviços do Ministério, incluindo os autónomos, bem como pelas companhias concessionárias de serviços de transportes.
 
-###### Art. 8.º As modificações que for necessário introduzir na orgânica da Direcção-Geral de Transportes Terrestres, resultantes de estudos efectuados pela Comissão, serão sancionadas por decretos regulamentares do Ministério das Comunicações.
+Art. 8.º As modificações que for necessário introduzir na orgânica da Direcção-Geral de Transportes Terrestres, resultantes de estudos efectuados pela Comissão, serão sancionadas por decretos regulamentares do Ministério das Comunicações.
 
-###### Art. 9.º Quando da aprovação dos estudos efectuados pela Comissão resultar a criação de novos serviços ou a remodelação dos existentes, poderá o Ministro das Comunicações encarregar a Comissão de assegurar a execução desses serviços, durante um período experimental, até que os mesmos possam integrar-se na orgânica da Direcção-Geral de Transportes Terrestres, nos termos do artigo 8.º
+Art. 9.º Quando da aprovação dos estudos efectuados pela Comissão resultar a criação de novos serviços ou a remodelação dos existentes, poderá o Ministro das Comunicações encarregar a Comissão de assegurar a execução desses serviços, durante um período experimental, até que os mesmos possam integrar-se na orgânica da Direcção-Geral de Transportes Terrestres, nos termos do artigo 8.º
 
 § único. Na integração referida no corpo do artigo, o pessoal admitido ou requisitado nos termos dos artigos 3.º e 4.º poderá, no todo ou em parte e na situação em que se encontrar, passar a prestar serviço na Direcção-Geral de Transportes Terrestres, continuando, porém, nos termos do artigo 11.º, a cargo do Fundo Especial de Transportes Terrestres as suas remunerações até que disposições legais adequadas reorganizem a totalidade dos serviços daquela Direcção-Geral.
 
-###### Art. 10.º Mediante autorização do Ministro das Comunicações poderá a Comissão enviar missões ao estrangeiro, a fim de estudar assuntos relacionados com as suas atribuições.
+Art. 10.º Mediante autorização do Ministro das Comunicações poderá a Comissão enviar missões ao estrangeiro, a fim de estudar assuntos relacionados com as suas atribuições.
 
-###### Art. 11.º Todas as despesas com a instalação e funcionamento da Comissão, bem como as resultantes da utilização do equipamento mecanográfico e da manutenção dos serviços remodelados nos termos e condições referidos nos artigos 8.º e 9.º, serão suportadas pelo Fundo Especial de Transportes Terrestres, que, para o efeito, inscreverá anualmente no seu orçamento as verbas que forem fixadas pelo Ministro das Comunicações.
+Art. 11.º Todas as despesas com a instalação e funcionamento da Comissão, bem como as resultantes da utilização do equipamento mecanográfico e da manutenção dos serviços remodelados nos termos e condições referidos nos artigos 8.º e 9.º, serão suportadas pelo Fundo Especial de Transportes Terrestres, que, para o efeito, inscreverá anualmente no seu orçamento as verbas que forem fixadas pelo Ministro das Comunicações.
 
-###### Art. 12.º O Ministro das Comunicações pode delegar no director-geral de Transportes Terrestres e no presidente da Comissão a competência para autorizar a realização de quaisquer despesas das classes de material e pagamento de serviços e diversos encargos até aos limites, respectivamente, de 100000$00 e 5000$00.
+Art. 12.º O Ministro das Comunicações pode delegar no director-geral de Transportes Terrestres e no presidente da Comissão a competência para autorizar a realização de quaisquer despesas das classes de material e pagamento de serviços e diversos encargos até aos limites, respectivamente, de 100000$00 e 5000$00.
 
-###### Art. 13.º Mediante decreto assinado pelos Ministros das Finanças e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
+Art. 13.º Mediante decreto assinado pelos Ministros das Finanças e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

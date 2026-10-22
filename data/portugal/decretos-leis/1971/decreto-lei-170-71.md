@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1971-444743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd8f7ff8929574cecb4583de37fa93872f23245cbd92254302905fe721d484fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fd01b95dfce1e21edcf1f9c4bb8d5b2f9e07adf4acb07a332a1cd500b389240
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Técnica
+- Autarquia Local
+- Centro de Coordenação de Transportes
+- Criação de Serviços
+- Definição de Competências
+- Fiscalização
+- Infraestrutura dos Transportes
+- Ministro das Comunicações
+- Taxa
+- Transporte
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:26Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +116,7 @@ Ouvida a Câmara Corporativa:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Noção)
 
@@ -118,7 +128,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Esta autorização, contudo, será dada a título precário e a decisão deverá ser revista de dois em dois anos, ou sempre que se hajam alterado os condicionamentos justificativos da excepção.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Funções)
 
@@ -130,7 +140,7 @@ b) Promover a coordenação das explorações rodoviárias não urbanas, destas 
 
 c) Contribuir para o ordenamento e fluidez do tráfego urbano, libertando-o dos embaraços resultantes do trânsito e estacionamento dos veículos afectos a carreiras não urbanas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Localização)
 
@@ -150,7 +160,7 @@ f) Dispor de área suficiente para atender às necessidades da sua própria expa
 
 2. Quando a ponderação dos requisitos referidos no número anterior conduza à não satisfação do disposto nas alíneas c) e d), poderá criar-se nas estações de caminhos de ferro ou fluviais, ou junto delas, uma instalação complementar das E. C. C. para transbordo de passageiros, bagagem e pequenos volumes, onde as carreiras rodoviárias façam escala de serviço combinado.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Aprovação da localização)
 
@@ -162,7 +172,7 @@ f) Dispor de área suficiente para atender às necessidades da sua própria expa
 
 4. As autarquias locais e a Corporação dos Transportes e Turismo deverão pronunciar-se dentro do prazo que for estabelecido, findo o qual a falta de parecer será considerada como equivalente a parecer favorável.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Ligação com os transportes urbanos)
 
@@ -170,7 +180,7 @@ f) Dispor de área suficiente para atender às necessidades da sua própria expa
 
 2. O tráfego relativo à E. C. C. será complementado pelas redes de transporte público urbano, que deverão proporcionar a eficiente distribuição dos passageiros no aglomerado.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Dimensionamento)
 
@@ -186,7 +196,7 @@ d) Às exigências de mobilidade adequada dos veículos e de movimentação de p
 
 2. A previsão do volume de tráfego referido na alínea a) do número anterior deverá resultar do estudo do mercado de transportes nos quadros local e regional, ponderando as condições actuais e previsíveis de exploração e as necessidades de expansão das carreiras que acorrem à E. C. C., bem como o desenvolvimento da região em que se apoia.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Características e propriedade do estabelecimento)
 
@@ -200,7 +210,7 @@ b) Da entidade concessionária durante o prazo da concessão, outorgada nos term
 
 c) Da entidade particular que o construiu ou adquiriu, uma vez reconhecido pelo Ministro das Comunicações que reúne os requisitos necessários para funcionar como E. C. C.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Equipamento móvel)
 
@@ -208,7 +218,7 @@ c) Da entidade particular que o construiu ou adquiriu, uma vez reconhecido pelo 
 
 2. O equipamento móvel é propriedade privada das entidades referidas no n.º 2 do artigo anterior.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Serviços)
 
@@ -218,13 +228,13 @@ c) Da entidade particular que o construiu ou adquiriu, uma vez reconhecido pelo 
 
 3. Consideram-se complementares todos os serviços não abrangidos no número anterior, como os de informações, sanitários, oficinas, socorro, incêndio, vigilância, limpeza e conservação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Construção)
 
 A construção das E. C. C. pode competir ao Estado, à autarquia local e, em regime de concessão, a sociedades de economia privada ou mista quando a exploração lhes tenha sido concedida.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Modalidades de gestão)
 
@@ -234,7 +244,7 @@ A construção das E. C. C. pode competir ao Estado, à autarquia local e, em re
 
 3. A gestão directa pelo Estado só poderá ter lugar se a câmara municipal interessada deliberar não tomar a seu cargo a E. C. C. Esta deliberação carece de aprovação do conselho municipal, salvo nos casos de Lisboa e Porto.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Sociedade concessionária de economia privada e de economia mista)
 
@@ -244,13 +254,13 @@ A construção das E. C. C. pode competir ao Estado, à autarquia local e, em re
 
 3. O Estado e a autarquia local podem participar no capital da sociedade concessionária.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Gestão directa pelo município)
 
 A gestão directa a cargo do município deverá ser efectuada em regime de autonomia, através de um serviço municipalizado.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Competência da administração municipal)
 
@@ -268,25 +278,25 @@ c) Quaisquer actividades de exploração de interesse local ou regional, reconhe
 
 2. Os pareceres referidos no número anterior deverão ser emitidos nos prazos fixados por despacho do Ministro das Comunicações.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Fiscalização da exploração)
 
 O Estado fiscalizará a exploração das E. C. C., bem como, no caso de concessão, o cumprimento dos deveres do concessionário estipulados no respectivo contrato.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Renda de exploração)
 
 No contrato de concessão será fixada uma renda anual, que deverá ter em conta o capital investido no estabelecimento, as receitas e despesas previstas e o lucro que for julgado justo.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Taxas)
 
-**O Ministro das Comunicações fixará, por portaria, os limites máximo e mínimo das taxas que podem ser cobradas pela utilização dos serviços de exploração de tráfego das E. C. C.**
+O Ministro das Comunicações fixará, por portaria, os limites máximo e mínimo das taxas que podem ser cobradas pela utilização dos serviços de exploração de tráfego das E. C. C.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Assistência financeira e técnica)
 
@@ -294,7 +304,7 @@ No contrato de concessão será fixada uma renda anual, que deverá ter em conta
 
 2. As modalidades e as condições de prestação de assistência financeira ou técnica a que se refere o número anterior serão definidas por despacho do Ministro das Comunicações e efectivadas por decisão da autoridade competente, nos termos da legislação em vigor.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Processo administrativo - Gestão indirecta)
 
@@ -324,7 +334,7 @@ g) Projecto do pacto social.
 
 6. A decisão ministerial favorável à gestão indirecta poderá não implicar a outorga de concessão à entidade requerente.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Processo administrativo - Gestão directa)
 
@@ -332,7 +342,7 @@ g) Projecto do pacto social.
 
 2. Este estudo preliminar conterá os elementos referidos no n.º 1 do artigo anterior, com excepção do da alínea g), e será sujeito ao preceituado no n.º 4 do mesmo artigo, após o que será submetido à aprovação do Ministro das Comunicações.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Aprovação ministerial)
 
@@ -340,7 +350,7 @@ g) Projecto do pacto social.
 
 2. Os projectos das E. C. C. serão aprovados pelo Ministro das Comunicações, sob parecer do Conselho Superior de Obras Públicas.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Regulamentação)
 
@@ -348,13 +358,13 @@ g) Projecto do pacto social.
 
 2. Compete à entidade a cargo da qual venha a estar a gestão elaborar o regulamento de exploração da E. C. C., com base na regulamentação geral prevista no número anterior.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Aplicação do Código da Estrada)
 
 O trânsito de pessoas e veículos no interior das E. C. C. e nos seus acessos será disciplinado pelas regras constantes do Código da Estrada, com as restrições que venham a ser, eventualmente, consagradas em regulamento.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Dúvidas de aplicação)
 
@@ -362,10 +372,10 @@ As dúvidas que se suscitarem na aplicação do presente diploma serão resolvid
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 14 de Abril de 1971.**
+Promulgado em 14 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

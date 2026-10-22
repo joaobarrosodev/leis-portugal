@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/18900/08930894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1974-475555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52cf840f3df7699d97d423152173c5a90659e2b3ce3d07296e0ee3b948a998af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a1a14e2af82ba902b43f11074ff7a7098124a8b6197057441e97150d088bae6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Ensino Primário
+- Pessoal Docente
+- Pessoal Eventual
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:159703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324967:por
+  label: Revogado, na parte respeitante ao pessoal docente dos ensinos preparatório e secundário, pelo DEC LEI.75/85.25.03.1985.ME,
+    DR.IS [70] de 25.03.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1985-324967
+  date: '1985-03-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:51Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +143,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os professores agregados do ensino primário e os agentes e auxiliares de ensino eventuais ou provisórios dos ensinos preparatório, secundário e médio terão direito aos respectivos vencimentos durante os meses de Agosto e Setembro se, nesse ano escolar, houverem prestado um mínimo de cento e oitenta dias de serviço docente, incluindo o de exames.
+Artigo 1.º - 1. Os professores agregados do ensino primário e os agentes e auxiliares de ensino eventuais ou provisórios dos ensinos preparatório, secundário e médio terão direito aos respectivos vencimentos durante os meses de Agosto e Setembro se, nesse ano escolar, houverem prestado um mínimo de cento e oitenta dias de serviço docente, incluindo o de exames.
 
 2. O estabelecimento no número precedente não prejudica, contudo, o disposto no § 4.º do artigo 13.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 437/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1971-633317), de 21 de Outubro.
 
 3. Os professores agregados do ensino primário, se estiverem ou tiverem estado ainda colocados no dia 30 de Junho ou se encontrarem nas condições definidas na parte final do n.º 1 deste artigo, perceberão também o seu vencimento em relação a todo o mês de Julho do mesmo ano.
 
-###### Art. 2.º Os agentes e auxiliares de ensino abrangidos pelo n.º 1 do artigo precedente, mas aos quais não tenha sido distribuído horário completo, receberão, em cada um dos meses de Agosto e Setembro, a remuneração correspondente à média das remunerações mensais por eles efectivamente auferidas nesse ano escolar.
+Art. 2.º Os agentes e auxiliares de ensino abrangidos pelo n.º 1 do artigo precedente, mas aos quais não tenha sido distribuído horário completo, receberão, em cada um dos meses de Agosto e Setembro, a remuneração correspondente à média das remunerações mensais por eles efectivamente auferidas nesse ano escolar.
 
-###### Art. 3.º - 1. Os agentes e auxiliares de ensino referidos no n.º 1 do artigo 1.º e no artigo 2.º deste decreto-lei que não hajam, contudo, prestado o serviço mínimo exigido por essas disposições, auferirão, em cada um dos meses de Agosto e Setembro, a remuneração equivalente ao número de dias calculado segundo a fórmula.
+Art. 3.º - 1. Os agentes e auxiliares de ensino referidos no n.º 1 do artigo 1.º e no artigo 2.º deste decreto-lei que não hajam, contudo, prestado o serviço mínimo exigido por essas disposições, auferirão, em cada um dos meses de Agosto e Setembro, a remuneração equivalente ao número de dias calculado segundo a fórmula.
 
 N = (S x 30)/180,
 
@@ -125,23 +163,23 @@ S - ao número de dias de serviço docente prestado no decurso do ano escolar.
 
 2. O preceituado no número antecedente não se aplica, porém, àqueles que apenas tenham efectuado serviço de exames.
 
-###### Art. 4.º - 1. O estatuído no n.º 1 do artigo 1.º, no artigo 2.º e no n.º 1 do artigo 3.º do presente diploma aplica-se aos agentes e auxiliares de ensino que estejam ou tenham estado colocados no termo do ano lectivo e, bem assim, aos que antes dessa data hajam sido dispensados do serviço por razões de interesse da Administração, exceptuadas as de natureza disciplinar.
+Art. 4.º - 1. O estatuído no n.º 1 do artigo 1.º, no artigo 2.º e no n.º 1 do artigo 3.º do presente diploma aplica-se aos agentes e auxiliares de ensino que estejam ou tenham estado colocados no termo do ano lectivo e, bem assim, aos que antes dessa data hajam sido dispensados do serviço por razões de interesse da Administração, exceptuadas as de natureza disciplinar.
 
 2. Os professores agregados do ensino primário não estão, contudo, sujeitos aos condicionalismos definidos no número antecedente.
 
-###### Art. 5.º - 1. As normas gerais dos artigos anteriores são aplicáveis às gratificações dos professores do ciclo complementar do ensino primário, às dos professores de escolas de aplicação anexas às escolas do magistério primário e, também, àquelas que constituam a remuneração única ou principal pelo exercício de funções de agente ou auxiliar do ensino do grau primário, dos postos oficiais de recepção da Telescola ou das escolas do magistério primário.
+Art. 5.º - 1. As normas gerais dos artigos anteriores são aplicáveis às gratificações dos professores do ciclo complementar do ensino primário, às dos professores de escolas de aplicação anexas às escolas do magistério primário e, também, àquelas que constituam a remuneração única ou principal pelo exercício de funções de agente ou auxiliar do ensino do grau primário, dos postos oficiais de recepção da Telescola ou das escolas do magistério primário.
 
 2. Às gratificações, contempladas no número precedente, atribuídas a professores agregados do ensino primário ou a regentes escolares, efectivos ou agregados, são também aplicáveis, com as adaptações porventura necessárias, as normas contidas nos artigos anteriores, especificamente respeitantes aos professores agregados do ensino primário.
 
 3. Os regentes escolares efectivos ou agregados que, havendo sido admitidos ao curso do magistério primário, ao abrigo do artigo 15.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 44560](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44560-1962-159703), de 8 de Setembro de 1962, ou ao curso intensivo previsto no artigo 3.º do [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793), de 26 de Fevereiro, tenham direito a receber a respectiva gratificação, auferi-la-ão também nos meses de Agosto e Setembro subsequentes a cada ano lectivo, salvo se neste tiverem sido excluídos da frequência.
 
-###### Art. 6.º - 1. Os agentes ou auxiliares de ensino que exerçam mais do que uma função nas situações previstas nos artigos 1.º, n.º 1, 2.º, 3.º, n.º 1, ou 5.º, n.º 1, parte final, do presente diploma legal, ou uma dessas e outra função pública, docente ou não, a que já caiba remuneração nos meses de Agosto e Setembro, apenas receberão, nestes, a remuneração que corresponda à titularidade de um lugar de funcionário, ou, se todas as funções exercidas forem eventuais, a relativa àquela na qual hajam sido investidos em primeiro lugar, em regime de tempo integral ou de horário completo.
+Art. 6.º - 1. Os agentes ou auxiliares de ensino que exerçam mais do que uma função nas situações previstas nos artigos 1.º, n.º 1, 2.º, 3.º, n.º 1, ou 5.º, n.º 1, parte final, do presente diploma legal, ou uma dessas e outra função pública, docente ou não, a que já caiba remuneração nos meses de Agosto e Setembro, apenas receberão, nestes, a remuneração que corresponda à titularidade de um lugar de funcionário, ou, se todas as funções exercidas forem eventuais, a relativa àquela na qual hajam sido investidos em primeiro lugar, em regime de tempo integral ou de horário completo.
 
 2. Se, porém, todas as funções por eles exercidas nos termos do número anterior forem de natureza docente e a alguma delas couber remuneração de mais elevado montante mensal ilíquido do que o da indicada nessa disposição, os agentes e auxiliares de ensino receberão, em cada um dos meses de Agosto e Setembro, as várias remunerações que lhes competirem, não podendo todavia o seu total ilíquido exceder o quantitativo da de maior valor mensal ilíquido, quando correspondente à prestação de serviço em horário completo ou tempo integral.
 
 3. Se se tratar de agentes ou auxiliares de ensino que exerçam diversas funções englobadas no artigo 2.º deste decreto-lei, ou alguma ou algumas dessas e outras, no âmbito do Ministério da Educação e Cultura, em regime de tempo parcial ou de horário incompleto, e já actualmente remuneradas nos meses de Agosto e Setembro, receberão os mesmos, em cada um destes meses, as várias remunerações que lhes couberem, não podendo, no entanto, o respectivo total ilíquido ultrapassar o valor que teria a de mais elevado montante mensal ilíquido, se a correspondente função tivesse sido cumprida em tempo integral ou horário completo.
 
-###### Art. 7.º - 1. Os agentes e auxiliares de ensino abrangidos por este diploma consideram-se, nos meses de Agosto e Setembro, embora sem prejuízo do direito à licença para férias, em serviço para efeitos da realização das actividades que lhes forem distribuídas, designadamente no que se refere à frequência de cursos ou estágios de actualização ou aperfeiçoamento, à participação em trabalhos relativos à reforma educativa e à intervenção em exames.
+Art. 7.º - 1. Os agentes e auxiliares de ensino abrangidos por este diploma consideram-se, nos meses de Agosto e Setembro, embora sem prejuízo do direito à licença para férias, em serviço para efeitos da realização das actividades que lhes forem distribuídas, designadamente no que se refere à frequência de cursos ou estágios de actualização ou aperfeiçoamento, à participação em trabalhos relativos à reforma educativa e à intervenção em exames.
 
 2. O disposto no número antecedente é extensivo, no mês de Julho, aos professores agregados do ensino primário referidos no n.º 3 do artigo 1.º do presente decreto-lei.
 
@@ -149,16 +187,16 @@ S - ao número de dias de serviço docente prestado no decurso do ano escolar.
 
 4. Os limites lixados no número anterior apenas poderão ser ultrapassados em caso de absoluta necessidade imposta pelo serviço de exames, atribuindo-se, no período em que estes se efectuem, a remuneração correspondente ao regime de horário completo.
 
-###### Art. 8.º As dúvidas que se suscitem na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura.
+Art. 8.º As dúvidas que se suscitem na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura.
 
-###### Art. 9.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas disponibilidades das respectivas dotações do orçamento vigente do Ministério da Educação e Cultura destinadas à remuneração do pessoal docente ou, se necessário, mediante o reforço dessas dotações, nos termos legais.
+Art. 9.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas disponibilidades das respectivas dotações do orçamento vigente do Ministério da Educação e Cultura destinadas à remuneração do pessoal docente ou, se necessário, mediante o reforço dessas dotações, nos termos legais.
 
-###### Art. 10.º Este decreto-lei entra imediatamente em vigor, devendo as remunerações nele previstas ser abonadas já em relação aos meses de Julho, Agosto e Setembro do ano corrente.
+Art. 10.º Este decreto-lei entra imediatamente em vigor, devendo as remunerações nele previstas ser abonadas já em relação aos meses de Julho, Agosto e Setembro do ano corrente.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Vitorino Magalhães Godinho.
 
-**Promulgado em 7 de Agosto de 1974.**
+Promulgado em 7 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

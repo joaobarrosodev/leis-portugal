@@ -49,36 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44728-1962-155576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 425ec6f7d3b0d59567450d47de352ab3486967f69bdc50b0dbf30e9f8bcd3c2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a38f127fbeed77df3cb7d43cd41729fe7dbdc700ebfa6128f24922e952513cd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armador
+- Definição de Competências
+- Direcção Geral da Fazenda Pública
+- Dívida Pública
+- Emissão de Títulos
+- Financiamento
+- Fundo de Renovação e Apetrechamento da Indústria da Pesca
+- Junta de Crédito Público
+- Pesca
+relationships:
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429465:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:13Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +110,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A amortização das obrigações que o Fundo de Renovação e de Apetrechamento da Indústria da Pesca vier a emitir ao abrigo da autorização conferida pelo [Decreto-Lei n.º 42518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42518-1959-429465), de 21 de Setembro de 1959, poderá fazer-se em dez anuidades, a contar do terceiro ano da emissão, sujeitando-se à mesma limitação o prazo de pagamento dos empréstimos concedidos aos armadores e empresas.
+Artigo 1.º A amortização das obrigações que o Fundo de Renovação e de Apetrechamento da Indústria da Pesca vier a emitir ao abrigo da autorização conferida pelo [Decreto-Lei n.º 42518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42518-1959-429465), de 21 de Setembro de 1959, poderá fazer-se em dez anuidades, a contar do terceiro ano da emissão, sujeitando-se à mesma limitação o prazo de pagamento dos empréstimos concedidos aos armadores e empresas.
 
-###### Art. 2.º Fica a Direcção-Geral da Fazenda Pública autorizada a proceder desde já à emissão da obrigação geral representativa da 6.ª série de obrigações do empréstimo de renovação e de apetrechamento da indústria da pesca, no montante de 24000000$00, com as características, garantias e direitos estabelecidos no [Decreto-Lei n.º 42518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42518-1959-429465), de 21 de Setembro de 1959, e artigo 1.º do presente diploma, e nos diplomas que autorizaram as anteriores emissões.
+Art. 2.º Fica a Direcção-Geral da Fazenda Pública autorizada a proceder desde já à emissão da obrigação geral representativa da 6.ª série de obrigações do empréstimo de renovação e de apetrechamento da indústria da pesca, no montante de 24000000$00, com as características, garantias e direitos estabelecidos no [Decreto-Lei n.º 42518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42518-1959-429465), de 21 de Setembro de 1959, e artigo 1.º do presente diploma, e nos diplomas que autorizaram as anteriores emissões.
 
-###### Art. 3.º O vencimento dos juros das obrigações nesta nova série terá lugar em 1 de Abril e 1 de Outubro de cada ano, a partir de 1963, inclusive, e ao primeiro vencimento aplicar-se-á o disposto no artigo 40.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
+Art. 3.º O vencimento dos juros das obrigações nesta nova série terá lugar em 1 de Abril e 1 de Outubro de cada ano, a partir de 1963, inclusive, e ao primeiro vencimento aplicar-se-á o disposto no artigo 40.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
 A primeira amortização realizar-se-á em 1 de Abril de 1966.
 
-###### Art. 4.º A administração da operação autorizada pelo artigo anterior pertence à Junta do Crédito Público.
+Art. 4.º A administração da operação autorizada pelo artigo anterior pertence à Junta do Crédito Público.
 
 Para o efeito serão inscritas no Orçamento Geral do Estado, respectivamente em despesa e receita, as importâncias necessárias ao pagamento dos encargos de juro e amortização e importâncias iguais a entregar no vencimento das mesmas pelo Fundo de Renovação e de Apetrechamento da Indústria da Pesca.
 
 Ficam autorizados, e constituirão igualmente encargo do Fundo, os trabalhos extraordinários a que der lugar na Junta do Crédito Público a criação e desdobramento dos títulos representativos desta operação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

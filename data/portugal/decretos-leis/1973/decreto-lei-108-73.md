@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1973-684201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a36b787c1c30213fe085dc5260c8fb8774b74328465d2dd2812eb4c40a2fb0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de1fa3f7f6d4dec6ea80cbf4bf6e151de099e3d22c17202f28ae2275e46e5119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Autonomia Administrativa
+- Centro de Informação
+- Centro de Informação e Turismo
+- Comissão Administrativa
+- Fundo de Turismo
+- Gestão Financeira
+- Macau
+- Orgânica
+- Regime de Pessoal
+- Serviço Regional
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:55Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +114,11 @@ LEI ORGÂNICA DOS CENTROS DE INFORMAÇÃO E TURISMO DAS PROVÍNCIAS ULTRAMARINAS
 
 ### CAPÍTULO I — Atribuições gerais
 
-###### Artigo 1.º - 1. Compete aos centros de informação e turismo das províncias ultramarinas, directamente ou em colaboração com a Agência-Geral do Ultramar, superintender, incentivar e promover todas as actividades relativas à informação e relações públicas, ao turismo, aos espectáculos e às formas de cultura popular.
+Artigo 1.º - 1. Compete aos centros de informação e turismo das províncias ultramarinas, directamente ou em colaboração com a Agência-Geral do Ultramar, superintender, incentivar e promover todas as actividades relativas à informação e relações públicas, ao turismo, aos espectáculos e às formas de cultura popular.
 
 2. Sem prejuízo das atribuições conferidas por lei a outros organismos, a superintendência a exercer pelos centros sobre os sistemas áudio-visuais particulares respeitará às matérias de informação e programação, a fim de assegurar a defesa da opinião pública contra tudo o que possa desviá-la do interesse nacional.
 
-###### Art. 2.º - 1. Os centros de informação e turismo, excepto em Macau, são dotados de autonomia administrativa.
+Art. 2.º - 1. Os centros de informação e turismo, excepto em Macau, são dotados de autonomia administrativa.
 
 2. É criado em Macau um fundo de turismo, dotado de autonomia administrativa, que substitui o actual Fundo de Turismo e Publicidade.
 
@@ -110,7 +126,7 @@ LEI ORGÂNICA DOS CENTROS DE INFORMAÇÃO E TURISMO DAS PROVÍNCIAS ULTRAMARINAS
 
 4. São aplicáveis ao Fundo de Turismo de Macau as disposições dos artigos 3.º e 4.º e à comissão administrativa do mesmo Fundo as disposições dos artigos 35.º a 38.º
 
-###### Art. 3.º - 1. Constituem receitas próprias dos centros:
+Art. 3.º - 1. Constituem receitas próprias dos centros:
 
 a) As dotações e subsídios inscritos no orçamento geral da respectiva província e os concedidos pelos corpos administrativos ou quaisquer entidades públicas e particulares;
 
@@ -120,7 +136,7 @@ c) As taxas, percentagens e outras importâncias que por lei lhes sejam atribuí
 
 2. As receitas serão depositadas no banco emissor da respectiva província e entregues pelos serviços de finanças por duodécimos, mediante requisição dos conselhos administrativos dos centros.
 
-###### Art. 4.º As receitas próprias dos centros destinam-se à satisfação de encargos relativos a:
+Art. 4.º As receitas próprias dos centros destinam-se à satisfação de encargos relativos a:
 
 a) Propaganda turística, estudos, informação, representação e relações públicas;
 
@@ -134,9 +150,9 @@ d) Fornecimentos de materiais, artigos de expediente e impressos, bem como execu
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 5.º Os centros de informação e turismo das províncias ultramarinas compreendem a comissão administrativa, os serviços centrais e os serviços regionais, excepto na província de Macau, cujo centro compreende unicamente os serviços centrais.
+Art. 5.º Os centros de informação e turismo das províncias ultramarinas compreendem a comissão administrativa, os serviços centrais e os serviços regionais, excepto na província de Macau, cujo centro compreende unicamente os serviços centrais.
 
-###### Art. 6.º São serviços centrais dos centros das províncias de Governo-Geral:
+Art. 6.º São serviços centrais dos centros das províncias de Governo-Geral:
 
 a) A direcção;
 
@@ -150,7 +166,7 @@ e) O serviço técnico;
 
 f) O serviço administrativo.
 
-###### Art. 7.º - 1. São serviços centrais dos centros de informação e turismo das províncias de Governo simples:
+Art. 7.º - 1. São serviços centrais dos centros de informação e turismo das províncias de Governo simples:
 
 a) A chefia;
 
@@ -168,21 +184,21 @@ f) A secção administrativa.
 
 #### SECÇÃO II — Organização e competência dos centros das províncias de Governo-Geral
 
-##### SUBSECÇAO I
+SUBSECÇAO I
 
 Comissão administrativa
 
-###### Art. 8.º - 1. A comissão administrativa dos centros das províncias de Governo-Geral é constituída pelo director do centro, que presidirá, pelo chefe dos serviços administrativos e por um representante dos serviços de finanças.
+Art. 8.º - 1. A comissão administrativa dos centros das províncias de Governo-Geral é constituída pelo director do centro, que presidirá, pelo chefe dos serviços administrativos e por um representante dos serviços de finanças.
 
 2. Servirá de secretário da comissão, sem voto, o funcionário do centro, designado anualmente pelo presidente.
 
 3. Nas suas faltas ou impedimentos, o presidente e os vogais da comissão serão substituídos pelos respectivos substitutos legais.
 
-###### Art. 9.º - 1. Ao presidente da comissão administrativa será atribuída uma gratificação mensal no montante de 2500$00.
+Art. 9.º - 1. Ao presidente da comissão administrativa será atribuída uma gratificação mensal no montante de 2500$00.
 
 2. O chefe dos serviços administrativos e o representante dos serviços de finanças receberão senhas de presença por cada sessão a que assistirem, de quantitativo a fixar em despacho do Governador-Geral, mas que não poderá exceder 150$00 por cada reunião.
 
-###### Art. 10.º - 1. À comissão administrativa compete, fundamentalmente, administrar e gerir as receitas próprias do centro, podendo, nos termos previstos no artigo 4.º, adjudicar e contratar serviços e obras, bem como autorizar, liquidar e pagar despesas.
+Art. 10.º - 1. À comissão administrativa compete, fundamentalmente, administrar e gerir as receitas próprias do centro, podendo, nos termos previstos no artigo 4.º, adjudicar e contratar serviços e obras, bem como autorizar, liquidar e pagar despesas.
 
 2. A comissão administrativa elaborará anualmente o relatório e contas da administração e gerência das receitas próprias do centro, que serão presentes ao Governador-Geral da província.
 
@@ -198,15 +214,15 @@ Comissão administrativa
 
 8. A comissão está impedida de criar encargos que não possam ser satisfeitos no ano económico respectivo.
 
-###### Art. 11.º Os actos previstos no n.º 1 do artigo anterior que importem uma despesa de montantes superiores aos previstos naquele artigo carecem da aprovação do Governador-Geral da província.
+Art. 11.º Os actos previstos no n.º 1 do artigo anterior que importem uma despesa de montantes superiores aos previstos naquele artigo carecem da aprovação do Governador-Geral da província.
 
-###### Art. 12.º A comissão administrativa é responsável, civil e criminalmente, pela gerência de bens, títulos, valores e rendimentos a seu cargo.
+Art. 12.º A comissão administrativa é responsável, civil e criminalmente, pela gerência de bens, títulos, valores e rendimentos a seu cargo.
 
-###### Art. 13.º Os membros da comissão administrativa respondem disciplinar, civil e criminalmente pela violação de direitos ou lesão de interesses legítimos causados pelos seus actos.
+Art. 13.º Os membros da comissão administrativa respondem disciplinar, civil e criminalmente pela violação de direitos ou lesão de interesses legítimos causados pelos seus actos.
 
-###### Art. 14.º Na sua qualidade de director do centro, o presidente da comissão administrativa fará executar as deliberações da respectiva comissão.
+Art. 14.º Na sua qualidade de director do centro, o presidente da comissão administrativa fará executar as deliberações da respectiva comissão.
 
-###### Art. 15.º - 1. A comissão administrativa reunirá, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente a convoque.
+Art. 15.º - 1. A comissão administrativa reunirá, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente a convoque.
 
 2. A comissão só poderá deliberar quando estiver presente a maioria dos seus membros.
 
@@ -214,11 +230,11 @@ Comissão administrativa
 
 4. Havendo empate na votação, o presidente da comissão tem voto de desempate.
 
-###### Art. 16.º - 1. As sessões da comissão constarão de actas, assinadas pelos seus membros e pelo secretário.
+Art. 16.º - 1. As sessões da comissão constarão de actas, assinadas pelos seus membros e pelo secretário.
 
 2. Nenhuma deliberação será válida se não constar da acta, devidamente aprovada e assinada.
 
-###### Art. 17.º - 1. Nenhum membro da comissão poderá abster-se de votar sobre assunto tratado em sessões a que assista e, quando o assunto lhe interesse pessoalmente, não poderá votar nem tomar parte na discussão.
+Art. 17.º - 1. Nenhum membro da comissão poderá abster-se de votar sobre assunto tratado em sessões a que assista e, quando o assunto lhe interesse pessoalmente, não poderá votar nem tomar parte na discussão.
 
 2. Quando o presidente se não conforme com alguma deliberação, deverá submetê-la à resolução do Governador-Geral.
 
@@ -226,17 +242,17 @@ Comissão administrativa
 
 ##### SUBSECÇÃO II — Serviços centrais
 
-###### Art. 18.º - 1. A direcção dos centros de informação e turismo das províncias de Governo-Geral é constituída por um director e um director-adjunto.
+Art. 18.º - 1. A direcção dos centros de informação e turismo das províncias de Governo-Geral é constituída por um director e um director-adjunto.
 
 2. O director do centro orienta, coordena e fiscaliza a actividade dos serviços e responde por eles perante o Governador-Geral.
 
 3. O director é coadjuvado pelo director-adjunto, que o substitui nas suas faltas e impedimentos.
 
-###### Art. 19.º - 1. Ao serviço de informação e relações públicas incumbe promover na província, no restante espaço nacional e no estrangeiro, através de todos os canais que servem os órgãos informativos, a divulgação dos factos mais relevantes da vida portuguesa e de tudo quanto possa contribuir para um melhor conhecimento das realidades nacionais.
+Art. 19.º - 1. Ao serviço de informação e relações públicas incumbe promover na província, no restante espaço nacional e no estrangeiro, através de todos os canais que servem os órgãos informativos, a divulgação dos factos mais relevantes da vida portuguesa e de tudo quanto possa contribuir para um melhor conhecimento das realidades nacionais.
 
 2. Cabe-lhe ainda orientar o conveniente exercício da função informativa e a condução das relações públicas para esclarecimento da opinião pública.
 
-###### Art. 20.º - 1. O serviço de informação e relações publicas compreende:
+Art. 20.º - 1. O serviço de informação e relações publicas compreende:
 
 a) O gabinete de estudos e informação;
 
@@ -248,13 +264,13 @@ d) O gabinete de sistemas áudio-visuais.
 
 2. Os gabinetes previstos no número anterior poderão subdividir-se em departamentos, a criar em portaria provincial.
 
-###### Art. 21.º - 1. Ao serviço de turismo incumbe promover e fomentar a expansão do turismo, pelo aproveitamento e valorização dos recursos turísticos locais a divulgação do seu conhecimento na província, no restante espaço nacional e no estrangeiro, bem como promover a coordenação e estímulo da acção dos órgãos de turismo e fomento, a orientação, disciplina e fiscalização das actividades e profissões directamente ligadas ao mesmo.
+Art. 21.º - 1. Ao serviço de turismo incumbe promover e fomentar a expansão do turismo, pelo aproveitamento e valorização dos recursos turísticos locais a divulgação do seu conhecimento na província, no restante espaço nacional e no estrangeiro, bem como promover a coordenação e estímulo da acção dos órgãos de turismo e fomento, a orientação, disciplina e fiscalização das actividades e profissões directamente ligadas ao mesmo.
 
 2. Cabe ainda ao serviço de turismo estudar e executar planos gerais e regionais, prospectar mercados e promover a sua captação.
 
 3. A realização de estudos, inquéritos, campanhas de promoção ou outros trabalhos de carácter eventual, mediante autorização do Governador-Geral, poderá ser confiada a entidades privadas, nacionais e estrangeiras, que exercerão a sua actividade sob a superintendência e com a colaboração dos competentes departamentos dos serviços de turismo, quando o recurso a tais entidades se torne necessário.
 
-###### Art. 22.º - 1. O serviço de turismo compreende:
+Art. 22.º - 1. O serviço de turismo compreende:
 
 a) O gabinete de estudos e promoção;
 
@@ -264,9 +280,9 @@ c) A inspecção e fiscalização das actividades turísticas.
 
 2. Os gabinetes previstos nas alíneas a) e b) do número anterior podem subdividir-se em departamentos e a inspecção e fiscalização das actividades turísticas em sectores, devendo os departamentos e os sectores ser criados em portaria provincial.
 
-###### Art. 23.º Ao serviço de espectáculos e cultura popular incumbe orientar, estimular e coordenar todas as actividades relacionadas com as formas tradicionais de arte e de cultura popular, superintender nos espectáculos e divertimentos públicos, bem como exercer a respectiva disciplina e fiscalização nos recintos destinados a espectáculos e divertimentos públicos.
+Art. 23.º Ao serviço de espectáculos e cultura popular incumbe orientar, estimular e coordenar todas as actividades relacionadas com as formas tradicionais de arte e de cultura popular, superintender nos espectáculos e divertimentos públicos, bem como exercer a respectiva disciplina e fiscalização nos recintos destinados a espectáculos e divertimentos públicos.
 
-###### Art. 24.º - 1. O serviço de espectáculos e cultura popular compreende:
+Art. 24.º - 1. O serviço de espectáculos e cultura popular compreende:
 
 a) O gabinete de espectáculos;
 
@@ -278,9 +294,9 @@ d) Os serviços concelhios.
 
 2. Os gabinetes referidos nas alíneas a) e b) do número anterior podem subdividir-se em departamentos, e estes em secções, a criar em portaria provincial.
 
-###### Art. 25.º O serviço técnico dará apoio a todos os serviços e órgãos do centro, cabendo-lhe ainda funções executivas nas diversas actividades do mesmo centro.
+Art. 25.º O serviço técnico dará apoio a todos os serviços e órgãos do centro, cabendo-lhe ainda funções executivas nas diversas actividades do mesmo centro.
 
-###### Art. 26.º - 1. O serviço técnico compreende:
+Art. 26.º - 1. O serviço técnico compreende:
 
 a) O gabinete de publicações e serviços gráficos;
 
@@ -294,9 +310,9 @@ e) A biblioteca.
 
 2. - O gabinete de publicações e - serviços gráficos pode subdividir-se em departamentos, a criar em portaria provincial.
 
-###### Art. 27.º O serviço administrativo desempenhar-se-á das funções relativas ao pessoal, contabilidade, património e expediente de todos os serviços e órgãos do centro.
+Art. 27.º O serviço administrativo desempenhar-se-á das funções relativas ao pessoal, contabilidade, património e expediente de todos os serviços e órgãos do centro.
 
-###### Art. 28.º - 1. O serviço administrativo compreende:
+Art. 28.º - 1. O serviço administrativo compreende:
 
 a) A repartição de contabilidade e tesouraria;
 
@@ -304,31 +320,31 @@ b) A repartição de pessoal, expediente e arquivo.
 
 2. As repartições referidas no número anterior podem subdividir-se em secções, a criar em portaria provincial.
 
-###### Art. 29.º - 1. O serviço técnico depende directamente do director do centro, que pode delegar a chefia no director adjunto ou em qualquer dos chefes dos serviços centrais.
+Art. 29.º - 1. O serviço técnico depende directamente do director do centro, que pode delegar a chefia no director adjunto ou em qualquer dos chefes dos serviços centrais.
 
 2. Os serviços de informação e relações públicas, do turismo e de espectáculos e cultura popular são chefiados por técnicos directores, que serão substituídos nas suas faltas e impedimentos por um dos técnicos que chefiar algum dos gabinetes do respectivo serviço, a designar pelo director do centro.
 
 3. O serviço administrativo e o serviço técnico são chefiados por funcionários com a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, sendo substituídos nas suas faltas e impedimentos, respectivamente, por um dos chefes de repartição ou um dos chefes de gabinete do respectivo serviço, a designar pelo director do centro.
 
-###### Art. 30.º - 1. Os gabinetes dos vários serviços centrais são chefiados por técnicos de 1.ª classe.
+Art. 30.º - 1. Os gabinetes dos vários serviços centrais são chefiados por técnicos de 1.ª classe.
 
 2. Os técnicos-directores podem chefiar cumulativamente qualquer dos gabinetes dos respectivos serviços.
 
 3. Nas suas faltas e impedimentos, os técnicos que chefiarem os gabinetes são substituídos por um funcionário do respectivo gabinete, a designar pelo director do centro.
 
-###### Art. 31.º - 1. A inspecção e fiscalização das actividades turísticas é chefiada por um inspector.
+Art. 31.º - 1. A inspecção e fiscalização das actividades turísticas é chefiada por um inspector.
 
 2. Nas suas faltas e impedimentos, o inspector é substituído por um funcionário da inspecção, a designar pelo director do centro.
 
-###### Art. 32.º Os departamentos são chefiados por técnicos de 2.ª classe, que serão substituídos nas suas faltas e impedimentos por um funcionário a designar pelo director do centro.
+Art. 32.º Os departamentos são chefiados por técnicos de 2.ª classe, que serão substituídos nas suas faltas e impedimentos por um funcionário a designar pelo director do centro.
 
 ##### SUBSECÇÃO III — Serviços regionais
 
-###### Art. 33.º - 1. Os serviços regionais dos centros de informação e turismo das províncias de Governo-Geral são constituídos por serviços distritais e serviços concelhios.
+Art. 33.º - 1. Os serviços regionais dos centros de informação e turismo das províncias de Governo-Geral são constituídos por serviços distritais e serviços concelhios.
 
 2. À medida que forem considerados necessários, os serviços distritais e concelhios serão criados em portaria do Governador-Geral, sob proposta do director do centro.
 
-###### Art. 34.º - 1. Os serviços distritais podem abranger mais que um distrito, terão a sua sede em capitais de distrito e serão chefiados por um funcionário da categoria da letra F do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, a designar pelo director do centro, ou por um indivíduo estranho aos quadros com as habilitações adequadas, de preferência com um curso superior, e cujo curriculum o justifique.
+Art. 34.º - 1. Os serviços distritais podem abranger mais que um distrito, terão a sua sede em capitais de distrito e serão chefiados por um funcionário da categoria da letra F do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, a designar pelo director do centro, ou por um indivíduo estranho aos quadros com as habilitações adequadas, de preferência com um curso superior, e cujo curriculum o justifique.
 
 #### SECÇÃO III — Organização e competência dos centros das províncias de Governo simples
 
@@ -340,19 +356,19 @@ Art. Art. 35.º - 1. A comissão administrativa dos centros das províncias de G
 
 3. Nas suas faltas ou impedimentos, o presidente e os vogais da comissão serão substituídos pelos respectivos substitutos legais.
 
-###### Art. 36.º - 1. Ao presidente da comissão administrativa será atribuída uma gratificação mensal do montante de 1500$00.
+Art. 36.º - 1. Ao presidente da comissão administrativa será atribuída uma gratificação mensal do montante de 1500$00.
 
 2. O chefe da secção administrativa e o representante dos serviços de finanças receberão senhas de presença por cada sessão a que assistam, de quantitativo a fixar em despacho do Governador da província, mas que não poderá exceder 150$00 por cada reunião.
 
-###### Art. 37.º À comissão administrativa dos centros das províncias de Governo simples são aplicáveis, com as devidas adaptações, os artigos 10.º e 12.º a 18.º
+Art. 37.º À comissão administrativa dos centros das províncias de Governo simples são aplicáveis, com as devidas adaptações, os artigos 10.º e 12.º a 18.º
 
-###### Art. 38.º - 1. Os actos previstos no n.º 1 do artigo 10.º, quando praticados pela comissão administrativa e importem numa despesa de montante superior a 50000$00, carecem da aprovação do Governador da província.
+Art. 38.º - 1. Os actos previstos no n.º 1 do artigo 10.º, quando praticados pela comissão administrativa e importem numa despesa de montante superior a 50000$00, carecem da aprovação do Governador da província.
 
 2. Na província de Macau os actos previstos no n.º 1 do artigo 10.º, quando praticados pela comissão administrativa do Fundo de Turismo, em conformidade com o estipulado no artigo 2.º, n.º 4, e importem numa despesa de montante superior a 12000$00, carecem da aprovação do Governador da província.
 
 ##### SUBSECÇÃO II — Serviços centrais
 
-###### Art. 39.º - 1. A chefia dos centros de informação e turismo das províncias de Governo simples é constituída pelo chefe dos serviços e um adjunto, que recebem a designação funcional de director e director-adjunto.
+Art. 39.º - 1. A chefia dos centros de informação e turismo das províncias de Governo simples é constituída pelo chefe dos serviços e um adjunto, que recebem a designação funcional de director e director-adjunto.
 
 2. O director do centro orienta, coordena e fiscaliza a actividade dos serviços e responde por eles perante o Governador da província.
 
@@ -360,25 +376,25 @@ Art. Art. 35.º - 1. A comissão administrativa dos centros das províncias de G
 
 4. Na província de Macau as funções de director-adjunto são desempenhadas por um dos técnicos de 1.ª classe, cumulativamente com a chefia do serviço que lhe competir.
 
-###### Art. 40.º - 1. Os serviços centrais dos centros das províncias de Governo simples podem subdividir-se em departamentos e secções, a criar em portaria provincial.
+Art. 40.º - 1. Os serviços centrais dos centros das províncias de Governo simples podem subdividir-se em departamentos e secções, a criar em portaria provincial.
 
 2. No serviço de informação e relações públicas funcionará um departamento ou secção de sistemas áudio-visuais.
 
-###### Art. 41.º O gabinete técnico pode compreender, além da biblioteca, serviços de publicações, de desenho e decorações, de tradução ou outros, a designar em portaria provincial.
+Art. 41.º O gabinete técnico pode compreender, além da biblioteca, serviços de publicações, de desenho e decorações, de tradução ou outros, a designar em portaria provincial.
 
-###### Art. 42.º - 1. Os serviços centrais são chefiados por técnicos de 1.ª classe, que nas suas faltas e impedimentos serão substituídos por um dos chefes dos departamentos do respectivo serviço, a designar pelo director do centro.
+Art. 42.º - 1. Os serviços centrais são chefiados por técnicos de 1.ª classe, que nas suas faltas e impedimentos serão substituídos por um dos chefes dos departamentos do respectivo serviço, a designar pelo director do centro.
 
 2. Os departamentos são chefiados por técnicos de 2.ª classe, que serão substituídos nas suas faltas e impedimentos por um funcionário dos respectivos serviços, a designar pelo director do centro.
 
-###### Art. 43.º A secção administrativa e o gabinete técnico são chefiados por chefes de secção ou, na sua falta, por um primeiro-oficial.
+Art. 43.º A secção administrativa e o gabinete técnico são chefiados por chefes de secção ou, na sua falta, por um primeiro-oficial.
 
-###### Art. 44.º - 1. Ao serviço de informação e relações públicas, serviços de turismo, serviços de espectáculos e cultura popular e gabinete técnico competem, respectivamente, as funções fixadas nos artigos 19.º, n.os 1 e 2, 21.º, n.os 1 e 2, 23.º e 25.º
+Art. 44.º - 1. Ao serviço de informação e relações públicas, serviços de turismo, serviços de espectáculos e cultura popular e gabinete técnico competem, respectivamente, as funções fixadas nos artigos 19.º, n.os 1 e 2, 21.º, n.os 1 e 2, 23.º e 25.º
 
 2. A secção administrativa desempenhar-se-á das funções relativas ao pessoal, contabilidade, património e expediente de todos os serviços e órgãos do centro.
 
 ##### SUBSECÇÃO III — Serviços regionais
 
-###### Art. 45.º - 1. Os serviços regionais dos centros das províncias de Governo simples são constituídos por serviços concelhios, a criar por portaria provincial, à medida que forem considerados necessários, mediante proposta do respectivo director do centro.
+Art. 45.º - 1. Os serviços regionais dos centros das províncias de Governo simples são constituídos por serviços concelhios, a criar por portaria provincial, à medida que forem considerados necessários, mediante proposta do respectivo director do centro.
 
 2. Os serviços concelhios serão chefiados por funcionários a propor ou designar pelo director do respectivo centro ou por indivíduos estranhos aos quadros com as habilitações adequadas e cujo curriculum o justifique.
 
@@ -386,7 +402,7 @@ Art. Art. 35.º - 1. A comissão administrativa dos centros das províncias de G
 
 #### SECÇÃO I — Quadros
 
-###### Art. 46.º - 1. O pessoal dos centros distribui-se pelos seguintes quadros:
+Art. 46.º - 1. O pessoal dos centros distribui-se pelos seguintes quadros:
 
 a) Quadro comum;
 
@@ -396,13 +412,13 @@ b) Quadros privativos.
 
 3. O pessoal dos quadros privativos será fixado no diploma regulamentar previsto no artigo 60.º deste decreto-lei.
 
-###### Art. 47.º Para o desempenho de funções específicas ou para a execução de trabalhos urgentes ou de carácter técnico poderá ser contratado ou assalariado, nos termos das disposições legais em vigor, o pessoal necessário.
+Art. 47.º Para o desempenho de funções específicas ou para a execução de trabalhos urgentes ou de carácter técnico poderá ser contratado ou assalariado, nos termos das disposições legais em vigor, o pessoal necessário.
 
-###### Art. 48.º Para a execução dos serviços técnicos que exijam particulares aptidões, poderão ser colocados nos centros funcionários de outros serviços públicos, com o acordo dos respectivos directores ou chefes de serviço e sempre mediante autorização expressa do Governador da província.
+Art. 48.º Para a execução dos serviços técnicos que exijam particulares aptidões, poderão ser colocados nos centros funcionários de outros serviços públicos, com o acordo dos respectivos directores ou chefes de serviço e sempre mediante autorização expressa do Governador da província.
 
 #### SECÇÃO II — Do provimento
 
-###### Art. 49.º O provimento dos cargos do quadro comum far-se-á de harmonia com as seguintes regras:
+Art. 49.º O provimento dos cargos do quadro comum far-se-á de harmonia com as seguintes regras:
 
 a) Os cargos de director e director-adjunto do centro das províncias de Governo-Geral são providos por escolha do Ministro do Ultramar em comissão ordinária de serviço, em regra mediante proposta do Governador da província e ouvida a Agência-Geral do Ultramar, de entre funcionários com a categoria de técnico-director com, pelo menos, dois anos de bom e efectivo serviço nesta categoria, ou de entre indivíduos estranhos aos quadros cuja especialização e curriculum o justiquem, de preferência com um curso superior;
 
@@ -424,27 +440,27 @@ h) O cargo de técnico de 2.ª classe é provido por escolha do Ministro, em reg
 
 i) O cargo de chefe do contencioso é provido por escolha do Ministro, em regra por proposta do Governador da província, de entre indivíduos com as qualificações e habilitações adequadas ao exercício do cargo.
 
-###### Art. 50.º A distribuição do pessoal será feita pelos Governadores, ouvidos os directores dos centros, ou por estes, consoante pertença ao quadro comum ou ao quadro privativo de cada província.
+Art. 50.º A distribuição do pessoal será feita pelos Governadores, ouvidos os directores dos centros, ou por estes, consoante pertença ao quadro comum ou ao quadro privativo de cada província.
 
 #### SECÇÃO III — Direitos e deveres do pessoal
 
-###### Art. 51.º Em tudo que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal dos centros de informação e turismo regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
+Art. 51.º Em tudo que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal dos centros de informação e turismo regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 52.º - 1. Ao pessoal dos centros de informação e turismo com curso superior e aos diplomados com curso médio serão atribuídas as gratificações mensais fixadas no mapa II anexo a este diploma.
+Art. 52.º - 1. Ao pessoal dos centros de informação e turismo com curso superior e aos diplomados com curso médio serão atribuídas as gratificações mensais fixadas no mapa II anexo a este diploma.
 
 2. Perdem o direito às gratificações referidas no número anterior os funcionários que sejam autorizados a exercer qualquer actividade privada estranha aos serviços públicos. Não deixam de estar em regime de ocupação exclusiva os funcionários nomeados pelos Governos provinciais como representantes especiais em empresas concessionárias do Estado.
 
-###### Art. 53.º - 1. A título de chefia ou especial responsabilidade de funções, por despacho do Governador da respectiva província, serão fixadas, caso a caso, gratificações mensais.
+Art. 53.º - 1. A título de chefia ou especial responsabilidade de funções, por despacho do Governador da respectiva província, serão fixadas, caso a caso, gratificações mensais.
 
 2. Os Governos ultramarinos ficam ainda autorizados a atribuir por despacho gratificações para despesas de representação.
 
 3. As gratificações previstas nos números anteriores e as previstas no mapa II anexo ao presente diploma são acumuláveis.
 
-###### Art. 54.º Na província de Macau a atribuição das gratificações referidas nos artigos 52.º e 53.º, n.º 1, ficará dependente de decisão do Governador.
+Art. 54.º Na província de Macau a atribuição das gratificações referidas nos artigos 52.º e 53.º, n.º 1, ficará dependente de decisão do Governador.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 55.º - 1. O pessoal de nomeação provisória ou definitiva dos actuais quadros dos centros de informação e turismo transita para os novos quadros, respeitando-se, tanto quanto possível, a categoria que presentemente possua, mediante simples anotação e sem necessidade de visto e posse, sendo o pessoal dos quadros privativos colocado pelo Governador da respectiva província e o do quadro comum pelo Ministro, ouvido aquele.
+Art. 55.º - 1. O pessoal de nomeação provisória ou definitiva dos actuais quadros dos centros de informação e turismo transita para os novos quadros, respeitando-se, tanto quanto possível, a categoria que presentemente possua, mediante simples anotação e sem necessidade de visto e posse, sendo o pessoal dos quadros privativos colocado pelo Governador da respectiva província e o do quadro comum pelo Ministro, ouvido aquele.
 
 2. Observar-se-á o disposto no número anterior quanto ao pessoal nomeado em comissão ordinária, contratado ou interino, dos actuais centros que transita para os novos quadros.
 
@@ -466,35 +482,35 @@ g) O número de anos de serviço prestado ao Estado.
 
 4. O pessoal contratado dos quadros privativos dos centros que transite para categoria diferente da que actualmente possui fica isento de imposto do selo e quaisquer emolumentos, efectivando-se essa transição por simples averbamento nos contratos respectivos.
 
-###### Art. 56.º - 1. O pessoal que transite para o quadro comum dos centros, constante do mapa I anexo ao presente diploma, considerar-se-á empossado na data da entrada em vigor deste decreto-lei.
+Art. 56.º - 1. O pessoal que transite para o quadro comum dos centros, constante do mapa I anexo ao presente diploma, considerar-se-á empossado na data da entrada em vigor deste decreto-lei.
 
 2. Continuam em vigor os actuais quadros privativos do pessoal dos centros enquanto não forem publicados os regulamentos provinciais previstos no artigo 60.º do presente diploma.
 
 3. Se pela transição para os novos quadros comum e privativo resultar para alguns agentes diminuição de vencimentos ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para onde transitarem, os seus actuais vencimentos e outras regalias inerentes.
 
-###### Art. 57.º - 1. O preenchimento dos lugares criados nos novos quadros dos centros, em conformidade com o disposto no presente diploma, efectuar-se-á à medida que forem orçamentadas as verbas respectivas, devendo os Governos provinciais tomar as providências necessárias para que, entretanto, se mantenha a actividade normal dos serviços.
+Art. 57.º - 1. O preenchimento dos lugares criados nos novos quadros dos centros, em conformidade com o disposto no presente diploma, efectuar-se-á à medida que forem orçamentadas as verbas respectivas, devendo os Governos provinciais tomar as providências necessárias para que, entretanto, se mantenha a actividade normal dos serviços.
 
 2. Ficam os Governos provinciais autorizados a abrir os créditos necessários, por contrapartida nos recursos orçamentais, para prover às necessidades financeiras resultantes da presente reorganização dos serviços.
 
-###### Art. 58.º - 1. - Continuam em vigor as disposições legais reguladoras das actividades e competência dos centros e respectivos serviços que não sejam incompatíveis com o disposto no presente diploma.
+Art. 58.º - 1. - Continuam em vigor as disposições legais reguladoras das actividades e competência dos centros e respectivos serviços que não sejam incompatíveis com o disposto no presente diploma.
 
 2. Continuam igualmente em vigor as disposições legais que estabelecem a dependência hierárquica e administrativa dos centros e bem assim a subordinação à acção coordenadora da Agência-Geral do Ultramar.
 
-###### Art. 59.º Por portaria conjunta do Ministro do Ultramar e do Secretário de Estado da Informação e Turismo serão fixados os termos em que se estabelecerá a cooperação entre a Secretaria de Estado da Informação e Turismo, a Agência-Geral do Ultramar e os centros de informação e turismo.
+Art. 59.º Por portaria conjunta do Ministro do Ultramar e do Secretário de Estado da Informação e Turismo serão fixados os termos em que se estabelecerá a cooperação entre a Secretaria de Estado da Informação e Turismo, a Agência-Geral do Ultramar e os centros de informação e turismo.
 
-###### Art. 60.º - 1. Os Governos provinciais elaborarão, dentro do prazo de noventa dias, a partir da data da entrada - em vigor do presente diploma, portaria regulamentar deste decreto-lei, que fixará igualmente os quadros privativos do pessoal dos centros.
+Art. 60.º - 1. Os Governos provinciais elaborarão, dentro do prazo de noventa dias, a partir da data da entrada - em vigor do presente diploma, portaria regulamentar deste decreto-lei, que fixará igualmente os quadros privativos do pessoal dos centros.
 
 2. Os regulamentos referidos no número anterior regularão ainda a orgânica, a actividade e competência dos órgãos e serviços que junto dos centros funcionam ou deles dependem.
 
-###### Art. 61.º O presente diploma entra imediatamente em vigor.
+Art. 61.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Março de 1973.**
+Promulgado em 10 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -504,7 +520,7 @@ MAPA I
 
 Quadro comum dos centros de informação e turismo do ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/06400/04310438.pdf))](https://files.diariodarepublica.pt/1s/1973/03/06400/04310438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/06400/04310438.pdf)
 
 MAPA II
 
@@ -514,4 +530,4 @@ Funcionários com curso superior ... 4000$00
 
 Funcionários diplomados com curso médio ... 2500$00
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

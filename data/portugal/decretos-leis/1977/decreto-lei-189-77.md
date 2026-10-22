@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10800/10241025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1977-251594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95c229c1609a126f2f5028097061d07d135573e656a9218ef3901b1fde15bbfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b62da8662020668fddc4269a98bbe0f53b8b688621eebd8484ed306f07ad3e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência aos Tuberculosos das Forças Armadas
+- Assistência Médica
+- Assistência Medicamentosa
+- Conselho Administrativo
+- Estatuto
+- Forças Armadas
+- Militar
+- Remuneração
+- Subsídio de Alimentação
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178851:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:253410:por
+  label: Rectificado pela DECL.DD8346.11.06.1977.CR, DR.IS [134] de 11.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-253410
+  date: '1977-06-11'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:48Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +126,7 @@ E julgando-se oportuno, também, revogar as disposições que obrigam os militar
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O conselho administrativo da Assistência aos Tuberculosos das Forças Armadas passará a ter a seguinte constituição:
+Artigo 1.º - 1. O conselho administrativo da Assistência aos Tuberculosos das Forças Armadas passará a ter a seguinte constituição:
 
 a) Um presidente, que será oficial superior dos serviços de administração ou de intendência de qualquer ramo das forças armadas, do activo ou na situação de reserva, proposto pelo presidente da direcção da Assistência aos Tuberculosos das Forças Armadas;
 
@@ -113,24 +136,24 @@ c) Um tesoureiro, capitão ou subalterno de qualquer dos três ramos das forças
 
 2. O conselho administrativo pode dispor de pessoal militar ou civil necessário para o regular desenvolvimento das suas actividades.
 
-###### Art. 2.º - 1. Os militares assistidos pela Assistência aos Tuberculosos das Forças Armadas não sofrerão nas remunerações ou pensões qualquer redução ou desconto que reverta para aquele órgão.
+Art. 2.º - 1. Os militares assistidos pela Assistência aos Tuberculosos das Forças Armadas não sofrerão nas remunerações ou pensões qualquer redução ou desconto que reverta para aquele órgão.
 
 2. A perda de receitas da Assistência aos Tuberculosos das Forças Armadas resultante da disposição do número anterior será compensada no subsídio global concedido pelos Serviços Sociais das Forças Armadas.
 
-###### Art. 3.º - 1. As importâncias fixadas para alimentação das praças assistidas pela Assistência aos Tuberculosos das Forças Armadas inscritas no Orçamento Geral do Estado reverterão para a Assistência aos Tuberculosos das Forças Armadas no caso de estas estarem internadas, e serão entregues directamente pelas unidades às praças assistidas em regime ambulatório.
+Art. 3.º - 1. As importâncias fixadas para alimentação das praças assistidas pela Assistência aos Tuberculosos das Forças Armadas inscritas no Orçamento Geral do Estado reverterão para a Assistência aos Tuberculosos das Forças Armadas no caso de estas estarem internadas, e serão entregues directamente pelas unidades às praças assistidas em regime ambulatório.
 
 2. A Assistência aos Tuberculosos das Forças Armadas, através do subsídio global concedido pelos Serviços Sociais das Forças Armadas, entregará às praças assistidas em regime ambulatório quantias para reforço alimentar, do montante igual ao das importâncias para alimentação inscritas no Orçamento Geral do Estado.
 
-###### Art. 4.º - 1. O período de assistência conta-se a partir da data da confirmação de doença pela Junta de Assistência aos Tuberculosos das Forças Armadas.
+Art. 4.º - 1. O período de assistência conta-se a partir da data da confirmação de doença pela Junta de Assistência aos Tuberculosos das Forças Armadas.
 
 2. As remunerações ou pensões dos militares assistidos ou com pessoas de família assistidas continuarão a ser-lhes pagas, conforme a situação, pelos conselhos administrativos dos departamentos, unidades, estabelecimentos militares por onde as vinham recebendo ou pela Caixa Geral de Aposentações.
 
-###### Art. 5.º Ficam revogados os artigos 37.º, 61.º e 62.º do Estatuto da Assistência aos Tuberculosos das Forças Armadas, aprovados pelo [Decreto-Lei n.º 44131](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44131-1961-178851), de 30 de Dezembro de 1961, excepto na parte que é integrada no presente decreto-lei, e que consta do artigo anterior.
+Art. 5.º Ficam revogados os artigos 37.º, 61.º e 62.º do Estatuto da Assistência aos Tuberculosos das Forças Armadas, aprovados pelo [Decreto-Lei n.º 44131](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44131-1961-178851), de 30 de Dezembro de 1961, excepto na parte que é integrada no presente decreto-lei, e que consta do artigo anterior.
 
 Visto e aprovado em Conselho da Revolução em 15 de Abril de 1977.
 
-**Promulgado em 9 de Abril de 1977.**
+Promulgado em 9 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14300/13841386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1979-381133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6742aea0a7ee9dd928bfef9b1ae0830bdd647a9ce6dc63b72c882ee5b1af4a24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a15951ad2b22a872307c927b18e85bbff4905fe649154bce520873b71d19a5d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária
+- Concurso
+- Conselho Pedagógico
+- Delegação Escolar
+- Dispensa de Serviço
+- Ensino Particular
+- Ensino Preparatório
+- Ensino Primário
+- Estabelecimento de Ensino
+- Garantia
+- Manual Escolar
+- Programa
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682065:por
+  label: "Alterados o nº 2 do artigo 7º e o artigo 10º pelo DEC LEI.61/80.07.04.1980.PCM, DR.IS [81] de 07.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1980-682065
+  date: '1980-04-07'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:276633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392663:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:35Z'
   warnings: []
   errors: []
 ---
@@ -103,25 +135,25 @@ Considerando finalmente que importa dar novo destino aos saldos apurados após a
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O programa de cada uma das disciplinas e áreas disciplinares dos ensinos primário, preparatório e secundário, bem como a lista dos manuais escolares necessários, serão fixados por portarias do Ministro da Educação e Investigação Científica e vigorarão por um período mínimo de três anos.
+Artigo 1.º - 1 - O programa de cada uma das disciplinas e áreas disciplinares dos ensinos primário, preparatório e secundário, bem como a lista dos manuais escolares necessários, serão fixados por portarias do Ministro da Educação e Investigação Científica e vigorarão por um período mínimo de três anos.
 
 2 - As portarias a que se refere o n.º 1 deste artigo serão publicadas no mês de Outubro, iniciando-se a contagem do triénio de validade dos programas em 1 de Outubro do segundo ano civil posterior ao da sua publicação.
 
 3 - Por despacho do Ministro da Educação e Investigação Científica poderão ser introduzidas alterações, durante a vigência do triénio, nos referidos programas, as quais deverão ser objecto de experimentação num número restrito de escolas.
 
-###### Art. 2.º - 1 - Ao proceder à regulamentação a que alude o n.º 1 do artigo 1.º, o Ministério da Educação e Investigação Científica abrirá simultaneamente concurso para apreciação dos manuais escolares correspondentes aos programas fixados nas portarias referidas naquele preceito legal.
+Art. 2.º - 1 - Ao proceder à regulamentação a que alude o n.º 1 do artigo 1.º, o Ministério da Educação e Investigação Científica abrirá simultaneamente concurso para apreciação dos manuais escolares correspondentes aos programas fixados nas portarias referidas naquele preceito legal.
 
 2 - O prazo de entrega dos exemplares para apreciação terminará a 30 de Junho do ano civil seguinte ao da publicação das portarias a que se refere o artigo anterior do presente diploma.
 
 3 - A lista dos manuais escolares autorizados para utilização nas escolas será publicada no Diário da República durante o mês de Março do ano civil seguinte ao termo do prazo referido no n.º 2 deste artigo.
 
-###### Art. 3.º - 1 - Quando não tiverem sido apresentados a concurso ou não tiverem sido autorizados os manuais escolares apreciados, o Ministério da Educação e Investigação Científica tomará providências para suprir a sua falta, nas disciplinas ou áreas disciplinares em que tal se torne necessário.
+Art. 3.º - 1 - Quando não tiverem sido apresentados a concurso ou não tiverem sido autorizados os manuais escolares apreciados, o Ministério da Educação e Investigação Científica tomará providências para suprir a sua falta, nas disciplinas ou áreas disciplinares em que tal se torne necessário.
 
 2 - Serão sempre sujeitas à apreciação do Ministério da Educação e Investigação Científica as alterações a introduzir nos manuais escolares reeditados durante o período de vigência dos programas, as quais se deverão considerar autorizadas, salvo notificação em contrário das respectivas direcções-gerais de ensino no prazo máximo de quarenta e cinco dias, decorrido sobre a data da entrada do pedido efectuado em carta registada com aviso de recepção.
 
 3 - Para além dos manuais escolares a que se refere o n.º 1 do artigo 1.º do presente diploma, o Ministério da Educação e Investigação Científica admite a existência, embora não a obrigatoriedade, de outros instrumentos auxiliares de trabalho escolar, para aplicação individual ou colectiva, por disciplina ou área disciplinar, que não terão de ser submetidos a apreciação, reservando-se no entanto o direito de suspender o seu uso, se neles forem detectadas deficiências de ordem científica, didáctica ou pedagógica.
 
-###### Art. 4.º - 1 - Não poderão ser adoptados os manuais escolares que não tiverem sido autorizados pelo Ministério da Educação e Investigação Científica, nos termos do n.º 3 do artigo 2.º
+Art. 4.º - 1 - Não poderão ser adoptados os manuais escolares que não tiverem sido autorizados pelo Ministério da Educação e Investigação Científica, nos termos do n.º 3 do artigo 2.º
 
 2 - A adopção dos manuais escolares autorizados será anual e competirá:
 
@@ -143,7 +175,7 @@ b) Durante o mês de Julho, nos ensinos preparatório e secundário.
 
 7 - Os manuais escolares a que se refere o número anterior ficarão a ser propriedade das bibliotecas das delegações de zonas escolares ou dos estabelecimentos de ensino.
 
-###### Art. 5.º - 1 - Os autores, ou quem os represente, deverão entregar, para apreciação, três exemplares dos manuais escolares nas respectivas direcções-gerais de ensino, as quais serão avisadas dessa entrega com a antecedência mínima de trinta dias, mediante carta com aviso de recepção.
+Art. 5.º - 1 - Os autores, ou quem os represente, deverão entregar, para apreciação, três exemplares dos manuais escolares nas respectivas direcções-gerais de ensino, as quais serão avisadas dessa entrega com a antecedência mínima de trinta dias, mediante carta com aviso de recepção.
 
 2 - Os exemplares a que se refere o número anterior poderão ser apresentados dactilografados, sendo, neste caso, acompanhados de uma amostragem significativa das ilustrações, tipos de letra, mancha, arranjo gráfico, papel e cores a utilizar na obra a imprimir.
 
@@ -151,13 +183,13 @@ b) Durante o mês de Julho, nos ensinos preparatório e secundário.
 
 4 - Para efeitos do disposto no n.º 1 deste artigo, os autores, ou quem os represente, apresentarão documento comprovativo de depósito efectuado na Caixa Geral de Depósitos, Crédito e Previdência, no quantitativo de 10000$00, à ordem da respectiva direcção-geral de ensino, em conta aberta para o efeito, devendo esta quantia ser devolvida, se o manual escolar submetido a apreciação for autorizado, e dar entrada nos cofres do Estado, se o mesmo não for autorizado.
 
-###### Art. 6.º - 1 - A apreciação de cada manual escolar será feita por dois professores em exercício, com prática de ensino na matéria, e nomeados pelo director-geral respectivo, que poderá, quando conveniente, designar um terceiro elemento.
+Art. 6.º - 1 - A apreciação de cada manual escolar será feita por dois professores em exercício, com prática de ensino na matéria, e nomeados pelo director-geral respectivo, que poderá, quando conveniente, designar um terceiro elemento.
 
 2 - Quando as circunstâncias o aconselharem, os avaliadores referidos no número anterior poderão, sob proposta do respectivo director-geral, ser dispensados de serviço, total ou parcialmente, durante o período destinado à apreciação.
 
 3 - Não poderão fazer parte das equipas constituídas nos termos do n.º 1 do artigo 6.º e do n.º 3 do artigo 8.º, nem ter conhecimento das mesmas, os opositores ao concurso previsto no n.º 1 do artigo 2.º
 
-###### Art. 7.º - 1 - As direcções-gerais respectivas definirão, no acto da abertura do concurso, critérios de avaliação dos manuais escolares, dos quais será dado conhecimento aos estabelecimentos de ensino, e aos interessados, mediante solicitação.
+Art. 7.º - 1 - As direcções-gerais respectivas definirão, no acto da abertura do concurso, critérios de avaliação dos manuais escolares, dos quais será dado conhecimento aos estabelecimentos de ensino, e aos interessados, mediante solicitação.
 
 2 - Os resultados da apreciação, constantes de relatório fundamentado, serão homologados pelos directores-gerais do correspondente grau de ensino.
 
@@ -165,7 +197,7 @@ b) Durante o mês de Julho, nos ensinos preparatório e secundário.
 
 4 - Nenhuma das referências constantes dos relatórios referidos no número anterior poderá ser utilizada em publicidade ou em qualquer forma de informação às escolas, sob pena de o manual escolar autorizado não poder ser adoptado.
 
-###### Art. 8.º - 1 - Poderá o autor, ou quem o represente, no caso de o manual escolar não ter sido aprovado, interpor recurso fundamentado para o Ministro da Educação e Investigação Científica.
+Art. 8.º - 1 - Poderá o autor, ou quem o represente, no caso de o manual escolar não ter sido aprovado, interpor recurso fundamentado para o Ministro da Educação e Investigação Científica.
 
 2 - A petição de recurso e a correspondente alegação deverão ser apresentadas na direcção-geral de ensino respectiva, no prazo de quinze dias, contado a partir da data de recepção da notificação.
 
@@ -179,21 +211,21 @@ b) Durante o mês de Julho, nos ensinos preparatório e secundário.
 
 7 - Os depósitos referidos no n.º 4 do artigo 5.º e no n.º 6 deste artigo podem ser substituídos por garantias bancárias dos mesmos quantitativos, tendo os autores, ou quem os represente, de proceder ao pagamento das quantias que forem devidas, no prazo máximo de quinze dias, a partir da data de recepção da notificação a que se refere o n.º 3 do artigo 7.º
 
-###### Art. 9.º A remuneração máxima e mínima a atribuir a cada um dos elementos previstos no n.º 1 do artigo 6.º e n.º 3 do artigo 8.º deste decreto-lei deverá ser fixada, antes da abertura dos concursos, por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
+Art. 9.º A remuneração máxima e mínima a atribuir a cada um dos elementos previstos no n.º 1 do artigo 6.º e n.º 3 do artigo 8.º deste decreto-lei deverá ser fixada, antes da abertura dos concursos, por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
 
-###### Art. 10.º Os preços e as alterações de preços dos manuais escolares, ou de outros instrumentos escolares abrangidos pelo n.º 3 do artigo 3.º do presente decreto-lei, serão fixados de acordo com as normas determinadas por portaria conjunta dos Ministros do Comércio e Turismo e da Educação e Investigação Científica.
+Art. 10.º Os preços e as alterações de preços dos manuais escolares, ou de outros instrumentos escolares abrangidos pelo n.º 3 do artigo 3.º do presente decreto-lei, serão fixados de acordo com as normas determinadas por portaria conjunta dos Ministros do Comércio e Turismo e da Educação e Investigação Científica.
 
-###### Art. 11.º Enquanto não existirem manuais escolares autorizados nos termos deste decreto-lei, serão adoptados, nos estabelecimentos de ensino, os existentes no mercado, sem prejuízo do disposto na parte final do n.º 3 do artigo 3.º, ficando a sua adopção dependente dos órgãos referidos nos n.os 2 e 3 do artigo 4.º do presente diploma.
+Art. 11.º Enquanto não existirem manuais escolares autorizados nos termos deste decreto-lei, serão adoptados, nos estabelecimentos de ensino, os existentes no mercado, sem prejuízo do disposto na parte final do n.º 3 do artigo 3.º, ficando a sua adopção dependente dos órgãos referidos nos n.os 2 e 3 do artigo 4.º do presente diploma.
 
-###### Art. 12.º - 1 - A prestação de contas referida no n.º 2 do artigo 15.º do [Decreto-Lei n.º 537/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1977-276633) será da responsabilidade da comissão liquidatária criada pelo Despacho Ministerial n.º 135/79, de 27 de Abril.
+Art. 12.º - 1 - A prestação de contas referida no n.º 2 do artigo 15.º do [Decreto-Lei n.º 537/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1977-276633) será da responsabilidade da comissão liquidatária criada pelo Despacho Ministerial n.º 135/79, de 27 de Abril.
 
 2 - Os saldos apurados, após a aprovação das contas a que se refere o número anterior, serão transferidos, independentemente de quaisquer formalidades, para o Instituto de Acção Social Escolar e destinados ao plano de equipamento e construção de cantinas escolares.
 
-###### Art. 13.º As despesas resultantes da aplicação do disposto no artigo 9.º do presente diploma serão suportadas por verbas adequadas inscritas no orçamento do Ministério da Educação e Investigação Científica (Direcção-Geral do Ensino Básico e Direcção-Geral do Ensino Secundário).
+Art. 13.º As despesas resultantes da aplicação do disposto no artigo 9.º do presente diploma serão suportadas por verbas adequadas inscritas no orçamento do Ministério da Educação e Investigação Científica (Direcção-Geral do Ensino Básico e Direcção-Geral do Ensino Secundário).
 
-###### Art. 14.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 14.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 15.º São revogados:
+Art. 15.º São revogados:
 
 a) O [Decreto-Lei n.º 537/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1977-276633), de 30 de Dezembro, à excepção dos artigos 13.º, 14.º e 18.º;
 
@@ -201,8 +233,8 @@ b) O [Decreto-Lei n.º 13/79](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Abel Pinto Repolho Correia - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Junho de 1979.**
+Promulgado em 11 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

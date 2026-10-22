@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-1976-409569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45c2ba868e790b723cd3e46ba65cbe43f03bc89fc20134d738d8ce4abd1fb293
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60817fd6dcd243396c73d031731b49e7a5a9a07ac2f30538d475aac2be75bfef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Financeira do Estado
+- Classificação Económica das Despesas Públicas
+- Despesas Públicas
+- Política Orçamental
 relationships:
 - type: amended_by
   target: pt:dre:144217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: MANTIDO TRANSITORIAMENTE EM VIGOR PELO DEC LEI 83/93 DE 18-MAR (NOS TERMOS DO NUM 4 DO ART 2) DR.IS-A [65]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:634688:por
+  label: "Mantido transitoriamente em vigor pelo DEC LEI.83/93.18.03.1993.MF, DR.IS-A [65] de 18.03.1993, nos termos do n.º\
+    \ 4 do seu artigo 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1993-634688
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantido transitóriamente em vigor pelo DEC LEI.77/94.1994.03.09.MF, DR.IS-A [57], nos termos do seu nº 4 do art.\
+    \ 2º4\02º4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "Mantido transitoriamente em vigor, nos termos do n.º 4 do art. 2.º do DEC LEI.45/95.1995.03.02.MF DR.IS-A [52]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
+  date: '1995-03-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDO TRANSITORIAMENTE EM VIGOR PELO DEC LEI 50/96 DE 16-MAI (NOS TERMOS DO NUM 5 DO ART 2) DR.IS-A [114]E\014]E"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:468775:por
+  label: "Mantido transitoriamente em vigor pelo DEC LEI.50/96.16.05.1996.MF, DR.IS-A [114] de 16.05.1996, nos termos do n.º\
+    \ 5 do seu artigo 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1996-468775
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:284358:por
+  label: "Repristinado,para efeitos da elaboração e execução dos orçamentos do Estado para os anos de 2001 e 2002, pelo DEC\
+    \ LEI.26/2002.2002.02.14.MF, DR.IS-A [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2002-284358
+  date: '2002-02-14'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Mantido em vigor, para os serviços e organismos da Administração Pública que não tenham tido uma adesão plena aos
+    princípios definidos no Dec Lei 155/92 de 28-Jul, pelo(a) Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011,
+    1º Suplemento, Série I de 2011-03-01, sem prejuízo do disposto no n.º 2 do art. 2º deste último diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: cites
+  target: pt:dre:642729:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:416433:por
+  label: Rectificado pela DECL.DD7998.28.12.1976.PCM, DR.IS [300] de 28.12.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-416433
+  date: '1976-12-28'
+- type: repealed_by
+  target: pt:dre:299226:por
+  label: "Revogado o nº 2 do art. 7º, pelo DEC LEI.265/78.30.08.1978.MFP, DR.IS [199] de 30.08.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1978-299226
+  date: '1978-08-30'
+- type: repealed_by
+  target: pt:dre:275619:por
+  label: "Revogado pelo DEC LEI.155/92.28.07.1992.MF, DR.IS-A [172] de 28.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1992-275619
+  date: '1992-07-28'
+- type: repealed_by
+  target: pt:dre:661766:por
+  label: "Revogados os arts. 1.º e 3.º a 14.º pelo DEC LEI.562/99.1999.12.21.MF DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/562-1999-661766
+  date: '1999-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:19Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +174,11 @@ Nestes termos:
 
 O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. A especialização orçamental das receitas e despesas públicas passa a reger-se por códigos de classificação orgânica, funcional e económica.
+Artigo 1.º - 1. A especialização orçamental das receitas e despesas públicas passa a reger-se por códigos de classificação orgânica, funcional e económica.
 
 2. A estrutura dos referidos códigos será aprovada por despacho conjunto dos Ministros do Plano e da Coordenação Económica e das Finanças.
 
-###### Art. 2.º - 1. Os Ministérios e Secretarias de Estado, bom como os capítulos, divisões e subdivisões orçamentais, distinguem-se de acordo com o código de classificação orgânica.
+Art. 2.º - 1. Os Ministérios e Secretarias de Estado, bom como os capítulos, divisões e subdivisões orçamentais, distinguem-se de acordo com o código de classificação orgânica.
 
 2. A cada Ministério corresponderá um orçamento próprio, abrangendo as suas Secretarias de Estado, com os serviços e despesas que, nos termos das respectivas leis orgânicas, digam respeito.
 
@@ -115,9 +190,9 @@ O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constitui
 
 6. Constituirão também capítulos especiais a descrever nos diferentes orçamentos as «Despesas comuns» e «Contas de ordem», bem como as despesas contempladas em planos de investimentos e aquelas que, por condicionalismos de ordem financeira, superiormente se entenda deverem destacar-se.
 
-###### Art. 3.º A sistematização das despesas por funções ou objectivos finais será feita de conformidade com o código de classificação funcional.
+Art. 3.º A sistematização das despesas por funções ou objectivos finais será feita de conformidade com o código de classificação funcional.
 
-###### Art. 4.º - 1. As receitas e despesas públicas podem ser correntes ou de capital desenvolvendo-se nestes dois grandes agrupamentos pela forma referida no código de classificação económica.
+Art. 4.º - 1. As receitas e despesas públicas podem ser correntes ou de capital desenvolvendo-se nestes dois grandes agrupamentos pela forma referida no código de classificação económica.
 
 2. As receitas correntes ou de capital dispõem-se por capítulos e grupos, discriminando-se dentro destes, segundo a sua natureza económica, por artigos, com numeração seguida.
 
@@ -129,9 +204,9 @@ O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constitui
 
 6. As alíneas situam-se fora das colunas destinadas aos códigos de classificação funcional e económica, antecedendo as respectivas descrições orçamentais.
 
-###### Art. 5.º As «remunerações certas e permanentes» do pessoal serão desenvolvidas, em relação a cada serviço, fora da parte substancial do Orçamento Geral do Estado, em documento que dele se considera como fazendo parte integrante.
+Art. 5.º As «remunerações certas e permanentes» do pessoal serão desenvolvidas, em relação a cada serviço, fora da parte substancial do Orçamento Geral do Estado, em documento que dele se considera como fazendo parte integrante.
 
-###### Art. 6.º - 1. Não podem, em princípio, abranger-se numa mesma rubrica quaisquer receitas ou despesas de diferente natureza económica.
+Art. 6.º - 1. Não podem, em princípio, abranger-se numa mesma rubrica quaisquer receitas ou despesas de diferente natureza económica.
 
 2. No orçamento do Ministério das Finanças poderá, todavia, incluir-se uma dotação sem aplicação definida, que servirá para contrapartida de reforços e inscrições de verbas determinados pela necessidade de ocorrer a despesas imprevistas e inadiáveis.
 
@@ -141,7 +216,7 @@ O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constitui
 
 5. Cumpre aos respectivos serviços proceder ao registo, em termos de classificação económica, das importâncias efectivamente levantadas dos cofres do Tesouro nas condições referidas nos dois números anteriores.
 
-###### Art. 7.º - 1. Até 15 de Março de cada ano, os serviços processadores das despesas enviarão às correspondentes delegações da Direcção-Geral da Contabilidade Pública os elementos relativos ao ano anterior que a seguir se descrevem:
+Art. 7.º - 1. Até 15 de Março de cada ano, os serviços processadores das despesas enviarão às correspondentes delegações da Direcção-Geral da Contabilidade Pública os elementos relativos ao ano anterior que a seguir se descrevem:
 
 1.º Valores liquidados em conta das seguintes dotações orçamentais:
 
@@ -165,13 +240,13 @@ f) Dotações globais, a que se referem os n.os 3 e 4 do artigo 6.º do presente
 
 2. Até ao último dia de Março de cada ano, as delegações da Direcção-Geral da Contabilidade Pública organizarão, relativamente à gerência anterior e no que respeita ao respectivo Ministério, um mapa-resumo com os valores dos pagamentos efectivos respeitantes a anos anteriores, com indicação destes e das dotações que os suportam.
 
-###### Art. 8.º O Orçamento Geral do Estado incluirá os mapas-resumo das receitas e despesas que os Ministros das Finanças e do Plano e da Coordenação Económica entendam necessários para uma apreciação global dos valores previstos e desenvolvidos segundo os diferentes critérios de classificação.
+Art. 8.º O Orçamento Geral do Estado incluirá os mapas-resumo das receitas e despesas que os Ministros das Finanças e do Plano e da Coordenação Económica entendam necessários para uma apreciação global dos valores previstos e desenvolvidos segundo os diferentes critérios de classificação.
 
-###### Art. 9.º As regras de classificação das receitas e despesas estabelecidas no presente diploma são aplicáveis, com as adaptações porventura necessárias, aos orçamentos privativos dos fundos e serviços autónomos da Administração Central.
+Art. 9.º As regras de classificação das receitas e despesas estabelecidas no presente diploma são aplicáveis, com as adaptações porventura necessárias, aos orçamentos privativos dos fundos e serviços autónomos da Administração Central.
 
-###### Art. 10.º Aos serviços processadores das despesas cumpre observar que as verbas atribuídas com uma finalidade especial ou excepcionalmente concedidos em determinado ano económico não podem, sem autorização do Ministro das Finanças, ter aplicação diferente daquela para que expressamente foram propostas.
+Art. 10.º Aos serviços processadores das despesas cumpre observar que as verbas atribuídas com uma finalidade especial ou excepcionalmente concedidos em determinado ano económico não podem, sem autorização do Ministro das Finanças, ter aplicação diferente daquela para que expressamente foram propostas.
 
-###### Art. 11.º - 1. As infracções pela utilização indevida das dotações e pela classificação errada das despesas, quando não possam ser relevadas em virtude das circunstâncias especiais em que ocorreram, determinam o pagamento, pelas entidades responsáveis dos serviços processadores, de uma multa até 10000$00, segundo a gravidade da falta.
+Art. 11.º - 1. As infracções pela utilização indevida das dotações e pela classificação errada das despesas, quando não possam ser relevadas em virtude das circunstâncias especiais em que ocorreram, determinam o pagamento, pelas entidades responsáveis dos serviços processadores, de uma multa até 10000$00, segundo a gravidade da falta.
 
 2. Nos casos em que se revele o propósito de fraude, além da referida multa, serão os responsáveis punidos com a restituição das importâncias despendidas.
 
@@ -179,18 +254,18 @@ f) Dotações globais, a que se referem os n.os 3 e 4 do artigo 6.º do presente
 
 4. Para os efeitos deste artigo, são consideradas como boas as classificações que pelas direcções e delegações da Direcção-Geral da Contabilidade Pública forem dadas às receitas e despesas em face de consultas apresentadas pelos serviços.
 
-###### Art. 12.º - 1. As dificuldades ou dúvidas que surjam na descrição ou classificação das receitas e despesas ou, de um modo geral, na aplicação das regras prescritas nos artigos antecedentes serão resolvidas pela Direcção-Geral da Contabilidade Pública, através da sua Direcção da Contabilidade Geral, quanto às receitas, e por intermédio das suas delegações junto de cada Ministério quanto às despesas.
+Art. 12.º - 1. As dificuldades ou dúvidas que surjam na descrição ou classificação das receitas e despesas ou, de um modo geral, na aplicação das regras prescritas nos artigos antecedentes serão resolvidas pela Direcção-Geral da Contabilidade Pública, através da sua Direcção da Contabilidade Geral, quanto às receitas, e por intermédio das suas delegações junto de cada Ministério quanto às despesas.
 
 2. As referidas direcção e delegações poderão, quando o julgarem necessário, consultar a Direcção do Orçamento e das Inspecções, da mesma Direcção-Geral, à qual também compete prenunciar-se quanto a idênticas dificuldades e dúvidas que se apresentem em relação aos orçamentos privativos.
 
-###### Art. 13.º Até à publicação do diploma que estabeleça o esquema geral de classificação das receitas e despesas aplicável a todos os organismos do sector público os casos omissos serão resolvidos por despacho do Ministro das Finanças.
+Art. 13.º Até à publicação do diploma que estabeleça o esquema geral de classificação das receitas e despesas aplicável a todos os organismos do sector público os casos omissos serão resolvidos por despacho do Ministro das Finanças.
 
-###### Art. 14.º Ficam revogados o [Decreto-Lei n.º 305/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1971-642729), de 15 de Julho, e as disposições gerais e especiais que contrariem os preceitos contidos no presente decreto-lei.
+Art. 14.º Ficam revogados o [Decreto-Lei n.º 305/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1971-642729), de 15 de Julho, e as disposições gerais e especiais que contrariem os preceitos contidos no presente decreto-lei.
 
 Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 30 de Setembro de 1976.**
+Promulgado em 30 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

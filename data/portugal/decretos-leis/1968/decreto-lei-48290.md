@@ -50,40 +50,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48290-1968-234741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64f5311ed01372df312f423c855f4a973bd4f1a7790f2bb14ab9bc0267c20438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcaf7bdc0405bf95309321a7b52bc445186fbffcac30243e9b38a05b9050a538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Código da SISA e do Imposto sobre Sucessões e Doações
 relationships:
 - type: amended_by
   target: pt:dre:614590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterado o nº 22º do art. 11º e o nº 1 do art. 16º do Código da Sisa e do Imposto sobre Sucessões e Doações, aprovado
+    pelo Dec Lei 41969 de 24-Nov de 1958, com a redacção do presente diploma, pelo DEC LEI.91/89.27.03.1989.MF, DR.IS [71]
+    de 27.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: cites
+  target: pt:dre:236713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693241:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:43Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +113,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:Artigo 1.º Em conformidade com o disposto no artigo 3.º do [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, que aprovou o Código da Sisa e do Imposto sobre as Sucessões e Doações, são suprimidos a alínea c) do n.º 12.º, o n.º 22.º e § 2.º do artigo 11.º desse Código e os artigos 11.º, 16.º, 91.º e 115.º desse diploma passam a ter a redacção seguinte:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
@@ -100,7 +121,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º, 9.º, 12.º, alínea a), e 21.º do artigo 11.º e 7.º do artigo 12.º deixarão de beneficiar de isenção logo que se verifique, respectivamente:
+Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º, 9.º, 12.º, alínea a), e 21.º do artigo 11.º e 7.º do artigo 12.º deixarão de beneficiar de isenção logo que se verifique, respectivamente:
 
 ...
 
@@ -112,11 +133,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 91.º No caso de ficar sem efeito a redução da sisa, nos termos do § 2.º do artigo 38.º, ou a isenção da sisa e do imposto sobre as sucessões e doações, nos termos do artigo 16.º, seu § 1.º, e 17.º, deverão as pessoas ou entidades sujeitas ao seu pagamento requerer, dentro de 30 dias, a liquidação, salvo se tiver sido requerida justificação nos termos do § 2.º do artigo 16.º
+Art. 91.º No caso de ficar sem efeito a redução da sisa, nos termos do § 2.º do artigo 38.º, ou a isenção da sisa e do imposto sobre as sucessões e doações, nos termos do artigo 16.º, seu § 1.º, e 17.º, deverão as pessoas ou entidades sujeitas ao seu pagamento requerer, dentro de 30 dias, a liquidação, salvo se tiver sido requerida justificação nos termos do § 2.º do artigo 16.º
 
 ...
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
@@ -128,9 +149,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 2.º O artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, passa a ter a seguinte redacção:
+Art. 2.º O artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, passa a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
@@ -142,12 +163,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Para execução do disposto no n.º 7.º observar-se-ão as disposições do artigo 25.º e seus parágrafos, na parte aplicável.
 
-###### Art. 3.º O disposto no presente decreto-lei será aplicado aos prédios ou habitações adquiridos ou construídos a partir da entrada em vigor do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e não abrangidos pelo regime transitório estabelecido no artigo 6.º do [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, com a prorrogação prevista no [Decreto-Lei n.º 46304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46304-1965-236713), de 27 de Abril de 1965.
+Art. 3.º O disposto no presente decreto-lei será aplicado aos prédios ou habitações adquiridos ou construídos a partir da entrada em vigor do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e não abrangidos pelo regime transitório estabelecido no artigo 6.º do [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, com a prorrogação prevista no [Decreto-Lei n.º 46304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46304-1965-236713), de 27 de Abril de 1965.
 
 § 1.º A aplicação do disposto neste artigo será requerida pelos interessados no prazo de seis meses, contados da data da entrada em vigor do presente diploma.
 
 § 2.º Os serviços do Estado, das autarquias locais ou das instituições de previdência social que tenham transmitido casas abrangidas pelo disposto neste artigo ou concedido empréstimos para a sua aquisição ou construção devem, no prazo de 60 dias, remeter à Direcção-Geral das Contribuições e Impostos relações daquelas casas e empréstimos, com indicação do nome e residência dos funcionários, beneficiários ou sócios, descrição e situação das casas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45184-1963-693389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a6b4f8995cf9c7fc06e74dc49358eeb0445dd889bebbd551040f0ef50dd7534
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18f8801881bf382a97f0104e0d649e7b039796c65e7719ca74cc72cb5e24e90f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Conselho Ultramarino
+- Orgânica
+- Regimento
+relationships:
+- type: cites
+  target: pt:dre:216706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681654:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:59Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +105,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 16.º, 17.º e 21.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 16.º, 17.º e 21.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, passam a ter a seguinte redacção:
 
-###### Art. 12.º São vogais efectivos:
+Art. 12.º São vogais efectivos:
 
 a) ...
 
@@ -117,11 +129,11 @@ e) Onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 § único. Os vogais referidos na alínea e) e no § 2.º do artigo 12.º serão eleitos de entre pessoas que tenham desempenhado altos cargos na administração, no ensino ou na justiça, ou se hajam distinguido no exercício de actividades económicas, sociais ou culturais.
 
-###### Art. 17.º Haverá doze vogais substitutos para o serviço das secções consultivas, sendo quatro nomeados livremente pelo Ministro do Ultramar e os restantes eleitos pela forma prevista no § 2.º do artigo 12.º
+Art. 17.º Haverá doze vogais substitutos para o serviço das secções consultivas, sendo quatro nomeados livremente pelo Ministro do Ultramar e os restantes eleitos pela forma prevista no § 2.º do artigo 12.º
 
 Os vogais da 2.ª subsecção do contencioso substituem os da 1.ª subsecção, por ordem de antiguidade. Para a 2.ª subsecção haverá um vogal substituto, cujo recrutamento obedecerá às regras estabelecidas para os vogais efectivos da mesma subsecção.
 
@@ -129,7 +141,7 @@ Os vogais da 2.ª subsecção do contencioso substituem os da 1.ª subsecção, 
 
 ...
 
-###### Art. 21.º O exercício de funções nas secções consultivas é retribuído com a gratificação mensal-base de 3000$00, acumulável com quaisquer vencimentos ou gratificações e mesmo que ultrapasse o limite legal.
+Art. 21.º O exercício de funções nas secções consultivas é retribuído com a gratificação mensal-base de 3000$00, acumulável com quaisquer vencimentos ou gratificações e mesmo que ultrapasse o limite legal.
 
 Os vogais a que se refere a alínea e) do artigo 12.º, quando se desloquem das respectivas províncias para exercício de funções no Conselho, têm direito a passagens na classe que lhes competir e a uma gratificação igual à dos Deputados à Assembleia Nacional.
 
@@ -137,9 +149,9 @@ Os vogais a que se refere a alínea e) do artigo 12.º, quando se desloquem das 
 
 § 2.º ...
 
-###### Art. 2.º Os artigos 13.º e 21.º do [Decreto n.º 39908](https://diariodarepublica.pt/dr/detalhe/decreto/39908-1954-681654), de 17 de Novembro de 1954, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 13.º e 21.º do [Decreto n.º 39908](https://diariodarepublica.pt/dr/detalhe/decreto/39908-1954-681654), de 17 de Novembro de 1954, passam a ter a seguinte redacção:
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 § 1.º ...
 
@@ -149,9 +161,9 @@ Os vogais a que se refere a alínea e) do artigo 12.º, quando se desloquem das 
 
 ...
 
-###### Art. 21.º Os vogais substitutos das secções consultivas serão chamados a prestar serviço em qualquer das secções pela ordem de antiguidade da nomeação ou da eleição, observado o disposto no § 4.º do artigo 12.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, quando for caso disso.
+Art. 21.º Os vogais substitutos das secções consultivas serão chamados a prestar serviço em qualquer das secções pela ordem de antiguidade da nomeação ou da eleição, observado o disposto no § 4.º do artigo 12.º do [Decreto-Lei n.º 39602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39602-1954-216706), de 3 de Abril de 1954, quando for caso disso.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

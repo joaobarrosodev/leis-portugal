@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/607-1971-165857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 482423b8ec29293129651abcff47ab87941921e2626994b4591539d4899e4eb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 495571fda565cb7e37f44cd0897f490869673046e5965bcd55e32b2bd9068ecf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140104:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:55Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Por motivo de urgência, conforme o disposto no n.º 3.º do artigo 136.º da Co
 
 Usando da faculdade conferida pelos §§ 1.º e 2.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A alínea c) do n.º 1 da base II das bases anexas ao [Decreto n.º 322/70](https://diariodarepublica.pt/dr/detalhe/decreto/322-1970-140104), de 10 de Julho, passará a ter a seguinte redacção:
+Artigo 1.º A alínea c) do n.º 1 da base II das bases anexas ao [Decreto n.º 322/70](https://diariodarepublica.pt/dr/detalhe/decreto/322-1970-140104), de 10 de Julho, passará a ter a seguinte redacção:
 
 BASE II
 
@@ -100,14 +104,14 @@ BASE II
 
 c) O capital social inicial mínimo é de 8400000$00, ficando a sociedade obrigada a realizar, no prazo de noventa dias a partir da data da assinatura do contrato de concessão, a importância mínima de 2800000$00. A realização do restante e as posteriores elevações e realizações do seu capital social serão obrigatòriamente efectuadas quando se tornem indispensáveis para uma boa e regular valorização da concessão, ficando entendido que a sociedade não poderá recorrer a empréstimos antes de integralmente realizado o seu capital social, nem após o início da fase de exploração, excluídos os empréstimos relativos a pagamentos diferidos de equipamento.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Dezembro de 1971.**
+Promulgado em 28 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

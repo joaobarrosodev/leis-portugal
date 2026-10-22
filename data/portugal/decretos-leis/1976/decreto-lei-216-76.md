@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07200/06000601.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1976-500935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ce9aa256f86e56e1bf2f866380d2742c28529a82b1d12f783b043a97069a864
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e4e77defcfaf86ae67e5be991c1f02a228465c93b04926f336d900ebc1938b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Função Pública
+- Funcionário Público
+- Remuneração
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336981:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:53Z'
   warnings: []
   errors: []
 ---
@@ -105,18 +127,18 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Fica suspensa a execução do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 294/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469), de 16 de Junho, até decisão do Governo sobre as propostas que lhe vierem a ser apresentadas pela Comissão Interministerial a que se refere o artigo 4.º do [Decreto-Lei n.º 362/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1975-336981), de 10 de Julho.
+Artigo 1.º - 1. Fica suspensa a execução do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 294/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469), de 16 de Junho, até decisão do Governo sobre as propostas que lhe vierem a ser apresentadas pela Comissão Interministerial a que se refere o artigo 4.º do [Decreto-Lei n.º 362/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1975-336981), de 10 de Julho.
 
 2. Os trabalhos da Comissão deverão estar concluídos no prazo de noventa dias, a contar da data da publicação deste diploma.
 
-###### Art. 2.º O preceituado no artigo anterior aplica-se aos aumentos de vencimentos derivados da publicação do [Decreto-Lei n.º 506/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272), de 18 de Setembro.
+Art. 2.º O preceituado no artigo anterior aplica-se aos aumentos de vencimentos derivados da publicação do [Decreto-Lei n.º 506/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272), de 18 de Setembro.
 
-###### Art. 3.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
+Art. 3.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 15 de Março de 1976.**
+Promulgado em 15 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

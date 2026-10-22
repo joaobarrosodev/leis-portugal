@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49283-1969-216112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f5a324799fd702600640e9af8708c0dd05d1357c4265338abe4be3c1e91a88a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 621b28d4c52c1c3da7783938cf6241658d6d6cda4b2f67bcf6eb8e88b7c4d44a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento
+- Junta Autónoma das Estradas
+- Ministério das Obras Públicas
+- Promoção Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:474753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139239:por
+  label: "Alterado o art. 4º, pelo DEC LEI.372/70.1970.08.11.MOP, DG.IS [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1970-139239
+  date: '1970-08-11'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474753:por
+  label: "Revogado o artigo 4.º, com as alterações introduzidas pelo Decreto-Lei n.º 372/70, de 11 de Agosto, pelo DEC LEI.183/80.04.06.1980.MHOP,\
+    \ DR.IS [129] de 04.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1980-474753
+  date: '1980-06-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:06Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +123,18 @@ b) É criado um lugar de agrónomo ou silvicultor-chefe e suprimido um lugar de 
 
 c) É aumentado de uma unidade o número de engenheiros electrotécnicos ou mecânicos-chefes da Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 2.º O Gabinete de Estudos e Organização da Junta Autónoma de Estradas passa a designar-se Gabinete de Estudos e Planeamento e ao respectivo director é atribuído o vencimento correspondente à letra D, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Art. 2.º O Gabinete de Estudos e Organização da Junta Autónoma de Estradas passa a designar-se Gabinete de Estudos e Planeamento e ao respectivo director é atribuído o vencimento correspondente à letra D, segundo o artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 3.º É alterada para 1000$00 a gratificação mensal de 500$00 fixada no § 4.º do artigo 36.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612).
+Art. 3.º É alterada para 1000$00 a gratificação mensal de 500$00 fixada no § 4.º do artigo 36.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612).
 
-###### Art. 4.º A promoção a desenhador-chefe será feita mediante concurso documental, a que serão admitidos os desenhadores principais com mais de três anos de bom e efectivo serviço nesta classe.
+Art. 4.º A promoção a desenhador-chefe será feita mediante concurso documental, a que serão admitidos os desenhadores principais com mais de três anos de bom e efectivo serviço nesta classe.
 
-###### Art. 5.º Aos encargos resultantes do presente diploma é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612).
+Art. 5.º Aos encargos resultantes do presente diploma é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612).
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 25 de Setembro de 1969.**
+Promulgado em 25 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

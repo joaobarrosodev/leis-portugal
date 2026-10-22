@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19900/24592460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1980-469666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15d1256be07294ad5eea454e771df0f3e1d05b20adcc144ec4263b0139cb1674
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 157a2d4c92c5db1f258e64998dc1b06e60a6151ed7a9ef87984a9311e01d37d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditor Jurídico
+- Auditoria Jurídica
+- Definição de Competências
+- Ministério da Educação e Ciência
+- Orgânica
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:09Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +127,7 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Auditoria Jurídica do Ministério da Educação e Ciência é um órgão de apoio jurídico aos respectivos membros do Governo, ao qual compete especialmente:
+Artigo 1.º A Auditoria Jurídica do Ministério da Educação e Ciência é um órgão de apoio jurídico aos respectivos membros do Governo, ao qual compete especialmente:
 
 a) Emitir pareceres, responder a consultas e elaborar os estudos que sobre matérias de natureza jurídica lhe forem cometidos pelo Ministro e demais membros do Governo no Ministério;
 
@@ -108,36 +137,36 @@ c) Preparar projectos de resposta nos recursos contenciosos em que sejam citados
 
 d) Instruir processos de sindicância, inquérito ou disciplinares, sempre que para tanto se torne necessária a nomeação de pessoa com formação jurídica.
 
-###### Art. 2.º - 1 - A Auditoria Jurídica depende directamente do Ministro e é coordenada pelo procurador-geral-adjunto que no Ministério da Educação e Ciência exerce funções de auditor jurídico.
+Art. 2.º - 1 - A Auditoria Jurídica depende directamente do Ministro e é coordenada pelo procurador-geral-adjunto que no Ministério da Educação e Ciência exerce funções de auditor jurídico.
 
 2 - O exercício da competência da Auditoria Jurídica depende sempre de prévio despacho ministerial.
 
-###### Art. 3.º A Auditoria Jurídica dispõe do quadro de pessoal constante do mapa anexo a este diploma e integrado no quadro único referido no artigo 1.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
+Art. 3.º A Auditoria Jurídica dispõe do quadro de pessoal constante do mapa anexo a este diploma e integrado no quadro único referido no artigo 1.º do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
 
-###### Art. 4.º - 1 - O provimento dos lugares do quadro constantes do mapa anexo efectuar-se-á, de entre licenciados em Direito, nos termos da lei geral, designadamente do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, na parte em vigor.
+Art. 4.º - 1 - O provimento dos lugares do quadro constantes do mapa anexo efectuar-se-á, de entre licenciados em Direito, nos termos da lei geral, designadamente do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, na parte em vigor.
 
 2 - Para efeitos de progressão na carreira, contar-se-á o tempo de serviço prestado na categoria de jurista ou o tempo de serviço prestado na Auditoria Jurídica do Ministério da Educação e Ciência, para o pessoal técnico que não possuir aquela categoria.
 
-###### Art. 5.º - 1 - O primeiro provimento dos lugares a que se refere o artigo 3.º efectuar-se-á de entre juristas e técnicos superiores, adstritos à Auditoria Jurídica, para categoria idêntica à que o funcionário já possui ou para categoria imediatamente superior, desde que tenha pelo menos três anos de serviço prestado na categoria imediatamente inferior.
+Art. 5.º - 1 - O primeiro provimento dos lugares a que se refere o artigo 3.º efectuar-se-á de entre juristas e técnicos superiores, adstritos à Auditoria Jurídica, para categoria idêntica à que o funcionário já possui ou para categoria imediatamente superior, desde que tenha pelo menos três anos de serviço prestado na categoria imediatamente inferior.
 
 2 - O disposto no número anterior não se aplica ao provimento na categoria de assessor jurídico.
 
-###### Art. 6.º O quadro anexo ao presente diploma poderá ser alterado por portaria conjunta dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública.
+Art. 6.º O quadro anexo ao presente diploma poderá ser alterado por portaria conjunta dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 7.º A Secretaria-Geral do Ministério da Educação e Ciência assegurará o apoio administrativo de que a Auditoria Jurídica careça, com vista à prossecução das respectivas atribuições.
+Art. 7.º A Secretaria-Geral do Ministério da Educação e Ciência assegurará o apoio administrativo de que a Auditoria Jurídica careça, com vista à prossecução das respectivas atribuições.
 
-###### Art. 8.º Os encargos resultantes da publicação do presente diploma serão suportados por conta das dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Ciência.
+Art. 8.º Os encargos resultantes da publicação do presente diploma serão suportados por conta das dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Ciência.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 13 de Agosto de 1980.**
+Promulgado em 13 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 3.º do Decreto-Lei n.º 337/80
 
 Pessoal técnico superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19900/24592460.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19900/24592460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19900/24592460.pdf)

@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1971-631660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2297899b8e8a7452c806ff8353ad39506167586f9aa2d9057f585477d2406618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97de33ce70ae9bb2c251b856df30bc60a5ba1bed9dc69bcb314eee5b4a49a2e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda aos Sinistrados
+- Conselho Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Ministério do Interior
 relationships:
 - type: amended_by
   target: pt:dre:160144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473774:por
+  label: "Alterado pelo DEC LEI.447/74.1974.09.13.MDN DG.IS [214]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/447-1974-473774
+  date: '1974-09-13'
+- type: amended_by
+  target: pt:dre:160144:por
+  label: "Alterado pelo DEC LEI.79/75.1975.02.22.MDN DG.IS [45], com as alterações introduzidas pelo Dec Lei 447/74, de 13-Set\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1975-160144
+  date: '1975-02-22'
+- type: cites
+  target: pt:dre:142555:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:57Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +126,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado no Ministério do Interior o Serviço Nacional de Ambulâncias (S. N. A.), tendo como objectivo assegurar a orientação, a coordenação e a eficiência das actividades respeitantes à prestação de primeiros socorros a sinistrados e doentes e ao respectivo transporte.
+Artigo 1.º É criado no Ministério do Interior o Serviço Nacional de Ambulâncias (S. N. A.), tendo como objectivo assegurar a orientação, a coordenação e a eficiência das actividades respeitantes à prestação de primeiros socorros a sinistrados e doentes e ao respectivo transporte.
 
-###### Art. 2.º - 1. O S. N. A. fica a cargo de um conselho coordenador, constituído pelo secretário-geral do Ministério do Interior, que presidirá, pelo director-geral dos Hospitais, pelos comandantes-gerais e pelos chefes dos serviços de saúde da Guarda Nacional Republicana e da Polícia de Segurança Pública, pelos inspectores de incêndios das zonas norte e sul e por um representante de cada uma das seguintes entidades: Direcção-Geral da Aeronáutica Civil e Cruz Vermelha Portuguesa.
+Art. 2.º - 1. O S. N. A. fica a cargo de um conselho coordenador, constituído pelo secretário-geral do Ministério do Interior, que presidirá, pelo director-geral dos Hospitais, pelos comandantes-gerais e pelos chefes dos serviços de saúde da Guarda Nacional Republicana e da Polícia de Segurança Pública, pelos inspectores de incêndios das zonas norte e sul e por um representante de cada uma das seguintes entidades: Direcção-Geral da Aeronáutica Civil e Cruz Vermelha Portuguesa.
 
 2. Nos casos de falta ou impedimento do presidente, assumirá a presidência o vogal que for designado pelo Ministro do Interior.
 
 3. Os membros do conselho coordenador têm direito a abonos de transporte e a ajudas de custo pelas deslocações em serviço e a senhas de presença às reuniões para que forem convocados.
 
-###### Art. 3.º - 1 Compete ao conselho coordenador do S. N. A.:
+Art. 3.º - 1 Compete ao conselho coordenador do S. N. A.:
 
 a) Adoptar ou propor as providências necessárias para que seja assegurado, em termos eficientes, o socorro a sinistrados e doentes, quer quando se trate de acidentes ocorridos nas vias públicas, quer nos demais casos de sinistros, intoxicações, agressões ou quaisquer outros em que se torne necessário o transporte urgente das vítimas para estabelecimentos hospitalares;
 
@@ -134,30 +154,30 @@ h) Propor aos Ministros do Interior e da Saúde e Assistência a aplicação das
 
 2. O conselho coordenador poderá delegar no comandante-geral da Polícia de Segurança Pública o despacho dos negócios correntes da sua competência.
 
-###### Art. 4.º O Comando-Geral da Polícia de Segurança Pública funcionará como órgão executivo do conselho coordenador, cumprindo-lhe satisfazer os encargos com o respectivo funcionamento, bem como o expediente do S. N. A., e contabilizar as suas receitas e a distribuição dos subsídios.
+Art. 4.º O Comando-Geral da Polícia de Segurança Pública funcionará como órgão executivo do conselho coordenador, cumprindo-lhe satisfazer os encargos com o respectivo funcionamento, bem como o expediente do S. N. A., e contabilizar as suas receitas e a distribuição dos subsídios.
 
-###### Art. 5.º Em tempo de guerra ou de emergência o S. N. A. será posto à disposição da Organização Nacional da Defesa Civil do Território.
+Art. 5.º Em tempo de guerra ou de emergência o S. N. A. será posto à disposição da Organização Nacional da Defesa Civil do Território.
 
-###### Art. 6.º Constituem receitas consignadas ao S. N. A.:
+Art. 6.º Constituem receitas consignadas ao S. N. A.:
 
 a) 1 por cento das importâncias sobre os prémios de seguros dos ramos vida, acidentes de trabalho, automóveis e responsabilidade civil e acidentes pessoais, que as companhias ficam autorizadas a cobrar dos segurados;
 
 b) A contribuição que vier a ser fixada nos acordos a que se refere a alínea g) do n.º 1 do artigo 3.º
 
-###### Art. 7.º - 1. As receitas do S. N. A. serão depositadas, sem qualquer dedução, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Comando-Geral da Polícia de Segurança Pública, que procederá à sua aplicação de harmonia com as decisões que incidirem sobre as propostas a que se refere a alínea h) do n.º 1 do artigo 3.º
+Art. 7.º - 1. As receitas do S. N. A. serão depositadas, sem qualquer dedução, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Comando-Geral da Polícia de Segurança Pública, que procederá à sua aplicação de harmonia com as decisões que incidirem sobre as propostas a que se refere a alínea h) do n.º 1 do artigo 3.º
 
 2. A Inspecção-Geral de Crédito e Seguros e a Direcção-Geral de Previdência comunicarão ao conselho coordenador, até 31 de Março e 30 de Setembro de cada ano, a importância global depositada, respectivamente, nos semestres findos em 31 de Dezembro e 30 de Junho imediatamente anteriores e destinada ao S. N. A.
 
-###### Art. 8.º A cobrança a que se refere a alínea a) do artigo 6.º efectuar-se-á sobre os prémios vencidos a partir de 1 de Janeiro de 1972.
+Art. 8.º A cobrança a que se refere a alínea a) do artigo 6.º efectuar-se-á sobre os prémios vencidos a partir de 1 de Janeiro de 1972.
 
-###### Art. 9.º Os encargos a que der lugar este diploma serão satisfeitos, no corrente ano, pelo actual orçamento do Ministério do Interior, por conta das dotações atribuídas à Polícia de Segurança Pública.
+Art. 9.º Os encargos a que der lugar este diploma serão satisfeitos, no corrente ano, pelo actual orçamento do Ministério do Interior, por conta das dotações atribuídas à Polícia de Segurança Pública.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Novembro de 1971.**
+Promulgado em 11 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

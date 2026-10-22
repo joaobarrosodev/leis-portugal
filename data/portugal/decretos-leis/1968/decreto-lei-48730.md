@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48730-1968-262808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f24eb77010014a14b68560bf476b5723c15ce3bda192a62a7a0f74afff35ea3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28b8c28238c47effb7f278286063650955244645f147d3a42cb2a81a29156429
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cálculo de Pensões
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Militar
+- Pensão de Invalidez
+- Pensão de Reforma
+- Pensão de Reserva
+- Remuneração
+- Remuneração Acessória
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:34Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +105,9 @@ Considerando ainda a necessidade de manter o indispensável equilíbrio entre os
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O vencimento mensal dos furriéis do Exército e da Força Aérea, incluindo os especializados em pára-quedismo, passa a ser de 1800$00. Este mesmo vencimento será o dos subsargentos dos quadros de complemento da Armada quando este posto vier a ser criado.
+Artigo 1.º O vencimento mensal dos furriéis do Exército e da Força Aérea, incluindo os especializados em pára-quedismo, passa a ser de 1800$00. Este mesmo vencimento será o dos subsargentos dos quadros de complemento da Armada quando este posto vier a ser criado.
 
-###### Art. 2.º Os vencimentos mensais dos cabos e marinheiros da Armada de qualquer classe, incluindo a da taifa, passam a ser os seguintes:
+Art. 2.º Os vencimentos mensais dos cabos e marinheiros da Armada de qualquer classe, incluindo a da taifa, passam a ser os seguintes:
 
 Cabos ... 1800$00
 
@@ -106,7 +117,7 @@ Grumetes reconduzidos ... 1330$00
 
 § único. O vencimento estabelecido para os marinheiros é também abonável às praças da Armada que ainda existem com o posto de primeiro-marinheiro.
 
-###### Art. 3.º Os aumentos de pré por cada período trienal de readmissão a abonar às praças readmitidas do Exército e da Força Aérea, incluindo as especializadas em pára-quedismo, passam a ser os seguintes:
+Art. 3.º Os aumentos de pré por cada período trienal de readmissão a abonar às praças readmitidas do Exército e da Força Aérea, incluindo as especializadas em pára-quedismo, passam a ser os seguintes:
 
 a) Primeiros-cabos:
 
@@ -128,17 +139,17 @@ b) Segundos-cabos e soldados pára-quedistas:
 
 4.º período ... 30$00
 
-###### Art. 4.º O disposto nos artigos anteriores não é aplicável ao pessoal que se encontra abonado de vencimentos nos regimes estabelecidos pelos Decretos-Leis n.os 43773, de 1 de Junho de 1961, e 44864, de 26 de Janeiro de 1963; nesta conformidade, os vencimentos desse pessoal não sofrem alteração, nem nos seus quantitativos, nem nos descontos que sobre eles incidem.
+Art. 4.º O disposto nos artigos anteriores não é aplicável ao pessoal que se encontra abonado de vencimentos nos regimes estabelecidos pelos Decretos-Leis n.os 43773, de 1 de Junho de 1961, e 44864, de 26 de Janeiro de 1963; nesta conformidade, os vencimentos desse pessoal não sofrem alteração, nem nos seus quantitativos, nem nos descontos que sobre eles incidem.
 
 § único. Com a única restrição enunciada neste artigo, os vencimentos fixados nos artigos 1.º, 2.º e 3.º passam a ser os correspondentes aos postos neles indicados para todos os efeitos legais, nomeadamente no que se refere ao cálculo de pensões de reserva de reforma e de invalidez.
 
-###### Art. 5.º Os abonos estabelecidos por este diploma são devidos a contar de 1 de Dezembro de 1968 e para suportar no ano corrente os encargos resultantes serão abertos créditos especiais com cobertura em anulação a efectuar em verbas de despesas ou em alterações representativas de aumentos de previsão de receitas.
+Art. 5.º Os abonos estabelecidos por este diploma são devidos a contar de 1 de Dezembro de 1968 e para suportar no ano corrente os encargos resultantes serão abertos créditos especiais com cobertura em anulação a efectuar em verbas de despesas ou em alterações representativas de aumentos de previsão de receitas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horário José de Sá Viana Rebelo - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Fernando Alberto de Oliveira.
 
-**Promulgado em 22 de Novembro de 1968.**
+Promulgado em 22 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08400/09210925.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1981-388847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9674df3da15d0b3c38321b67eedede968d8dfdc46ec145beaa2b6ce71e4df512
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae13f4744163ddad81fda118e63da9f5b9609e516c1347616b1756fbb3343c21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Quadro Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388873:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:564204:por
+  label: Rectificado o n.º 2 do artigo 17.º-B do Decreto-Lei 134/78, de 06 de Junho, aditado pelo presente diploma, pelo DEC
+    LEI.277/81.01.10.1981.CR, DR.IS [226] de 01.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1981-564204
+  date: '1981-10-01'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:56Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +125,15 @@ Considerando ainda a conveniência em tomar extensiva aos sargentos dos quadros 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea c) do artigo 3.º e os artigos 6.º, 12.º e 15.º do [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353), de 27 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º A alínea c) do artigo 3.º e os artigos 6.º, 12.º e 15.º do [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353), de 27 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
 c) Os que prestem serviço junto dos adidos militares às representações diplomáticas no estrangeiro;
 
-###### Art. 6.º - 1 - Consideram-se na inactividade temporária os sargentos do QP no activo, afastados temporariamente do serviço por doença, licença da competente junta médica ou por motivos disciplinares.
+Art. 6.º - 1 - Consideram-se na inactividade temporária os sargentos do QP no activo, afastados temporariamente do serviço por doença, licença da competente junta médica ou por motivos disciplinares.
 
 2 - Os sargentos são colocados na inactividade temporária, ficando na situação de adidos ao quadro, nos termos da alínea a) do n.º 1 do artigo 9.º, e deixando de contar tempo de serviço nos seguintes casos:
 
@@ -118,7 +147,7 @@ b) Quando lhes for aplicada a pena de inactividade prevista no Regulamento de Di
 
 ...
 
-###### Art. 12.º - 1 - Transitam para a situação de reserva os sargentos do QP na situação do activo que sejam abrangidos por qualquer das condições indicadas nas alíneas seguintes:
+Art. 12.º - 1 - Transitam para a situação de reserva os sargentos do QP na situação do activo que sejam abrangidos por qualquer das condições indicadas nas alíneas seguintes:
 
 a) Tendo prestado menos de cinco anos de serviço, sejam julgados fisicamente incapazes para o serviço no activo por competente junta médica que comprove ser a incapacidade resultante de:
 
@@ -162,7 +191,7 @@ d) Requeiram a passagem à reserva depois de completados trinta e seis anos de s
 
 ...
 
-###### Art. 15.º - 1 - Transitam para a situação de reforma os sargentos do QP que deixem de estar nas situações de activo ou de reserva por serem abrangidos por qualquer das seguintes condições:
+Art. 15.º - 1 - Transitam para a situação de reforma os sargentos do QP que deixem de estar nas situações de activo ou de reserva por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado cinco ou mais anos de serviço:
 
@@ -186,9 +215,9 @@ c) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 4 - Em caso de guerra ou de grave emergência, os sargentos na situação de reforma podem ser chamados a prestar serviço efectivo compatível com as suas aptidões.
 
-###### Art. 2.º Ao [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353), de 27 de Janeiro, são aditados a subalínea 15) da alínea b) do n.º 1 do artigo 9.º os artigos 19.º, 20.º, 20.º-A, 20.º-B, 20.º-C, 20.º-D e 20.º-E, passando os actuais artigos 19.º e 20.º a ter, respectivamente, os n.os 21.º e 22.º
+Art. 2.º Ao [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353), de 27 de Janeiro, são aditados a subalínea 15) da alínea b) do n.º 1 do artigo 9.º os artigos 19.º, 20.º, 20.º-A, 20.º-B, 20.º-C, 20.º-D e 20.º-E, passando os actuais artigos 19.º e 20.º a ter, respectivamente, os n.os 21.º e 22.º
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 a) ...
 
@@ -196,7 +225,7 @@ b) ...
 
 15) Completem o prazo de dois anos a que se refere o n.º 2 do artigo 17.º-B do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho.
 
-###### Art. 19.º Têm passagem a sargento de complemento (sargento miliciano) os sargentos dos quadros permanentes que:
+Art. 19.º Têm passagem a sargento de complemento (sargento miliciano) os sargentos dos quadros permanentes que:
 
 a) Depois de terem prestado um mínimo de oito anos de serviço efectivo na Força Aérea, como sargentos daqueles quadros, assim o requeiram e a tanto sejam autorizados;
 
@@ -204,7 +233,7 @@ b) Sejam providos definitivamente nos quadros do funcionalismo público do Estad
 
 c) Tenham sido abrangidos pelas condições inerentes à passagem à reserva, mas não tenham o tempo de serviço exigido para essa mudança de situação.
 
-###### Art. 20.º São abatidos definitivamente aos quadros permanentes da Força Aérea os sargentos que:
+Art. 20.º São abatidos definitivamente aos quadros permanentes da Força Aérea os sargentos que:
 
 a) Tenham sido abrangidos por condições inerentes à passagem à reforma, mas não tenham o tempo de serviço exigido para essa mudança de situação;
 
@@ -212,25 +241,25 @@ b) Tenham sofrido a pena de demissão:
 
 c) Tenham passado a sargento de complemento.
 
-###### Art. 20.º - A - O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelo sargento:
+Art. 20.º - A - O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelo sargento:
 
 a) Em matéria de promoção, demoras, preterições e posição na escala de antiguidade;
 
 b) Que se considere prejudicado quanto à mudança de situação.
 
-###### Art. 20.º - B - 1 - Os recursos são dirigidos ao presidente do Supremo Tribunal Militar. O prazo máximo para a sua interposição é de trinta dias, a partir da data em que os interessados tomarem conhecimento oficial da decisão ou do documento legal que motiva o recurso.
+Art. 20.º - B - 1 - Os recursos são dirigidos ao presidente do Supremo Tribunal Militar. O prazo máximo para a sua interposição é de trinta dias, a partir da data em que os interessados tomarem conhecimento oficial da decisão ou do documento legal que motiva o recurso.
 
 2 - Para efeito do disposto no número anterior, conta-se como data de conhecimento oficial da decisão ou documento que dá origem ao recurso a da respectiva transcrição na ordem de serviço do organismo em que o sargento presta serviço ou aquela em que foi feita a comunicação ao sargento no mesmo organismo.
 
-###### Art. 20.º - C - As decisões do Supremo Tribunal Militar, proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 20.º-A, serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de dez dias a contar da comunicação.
+Art. 20.º - C - As decisões do Supremo Tribunal Militar, proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 20.º-A, serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de dez dias a contar da comunicação.
 
-###### Art. 20.º - D - As decisões do Supremo Tribunal Militar são publicadas na ordem do respectivo ramo das forças armadas no prazo de dez dias a contar da comunicação.
+Art. 20.º - D - As decisões do Supremo Tribunal Militar são publicadas na ordem do respectivo ramo das forças armadas no prazo de dez dias a contar da comunicação.
 
-###### Art. 20.º - E - A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
+Art. 20.º - E - A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
 
-###### Art. 3.º Passam a ter as seguintes redacções ou aditamentos o n.º 1 do artigo 10.º, o artigo 11.º, a alínea e) do n.º 1, o n.º 3 do artigo 24.º e o artigo 31.º, todos do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho:
+Art. 3.º Passam a ter as seguintes redacções ou aditamentos o n.º 1 do artigo 10.º, o artigo 11.º, a alínea e) do n.º 1, o n.º 3 do artigo 24.º e o artigo 31.º, todos do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho:
 
-###### Art. 10.º - 1 - Aos sargentos do QP são cometidas funções de acordo com o respectivo grau hierárquico e tendo em conta os níveis de qualificação/responsabilidade seguintes:
+Art. 10.º - 1 - Aos sargentos do QP são cometidas funções de acordo com o respectivo grau hierárquico e tendo em conta os níveis de qualificação/responsabilidade seguintes:
 
 a) Níveis de qualificação:
 
@@ -252,11 +281,11 @@ Supervisão e execução;
 
 Execução e aprendizagem.
 
-###### Art. 11.º Além da satisfação das outras condições de promoção, o acesso aos diferentes postos depende da posse, confirmada por informação dos chefes responsáveis, dos níveis de qualificação/responsabilidade a seguir indicados:
+Art. 11.º Além da satisfação das outras condições de promoção, o acesso aos diferentes postos depende da posse, confirmada por informação dos chefes responsáveis, dos níveis de qualificação/responsabilidade a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08400/09210925.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08400/09210925.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08400/09210925.pdf)
 
-###### Art. 24.º - 1 - ...
+Art. 24.º - 1 - ...
 
 a) ...
 
@@ -274,15 +303,15 @@ f) ...
 
 3 - O tempo mínimo referido na alínea e) do n.º 1 pode, por despacho do Chefe do Estado-Maior da Força Aérea, ser reduzido consoante for julgado conveniente, por razões de serviço ou de programação de carreiras, não devendo, no entanto, ser inferior ao tempo normal de serviço efectivo.
 
-###### Art. 31.º - 1 - Os sargentos poderão ingressar nos quadros de oficiais mediante promoção por distinção ou após a frequência com aproveitamento dos cursos de formação de oficiais respectivos.
+Art. 31.º - 1 - Os sargentos poderão ingressar nos quadros de oficiais mediante promoção por distinção ou após a frequência com aproveitamento dos cursos de formação de oficiais respectivos.
 
 2 - O curso de formação de oficiais (CFO) a que se refere a alínea b) do n.º 1 do artigo 32.º terá, em regra, a duração de dois anos lectivos e programas aprovados por despacho do Chefe do Estado-Maior da Força Aérea, adequados às necessidades de formação cultural e técnica dos oficiais dos quadros permanentes.
 
 3 - As condições de admissão e frequência dos CFO são as estabelecidas neste diploma, podendo ser completadas ou regulamentadas por despacho do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 4.º Ao [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho, são aditados os artigos 11.º-A, 17.º-A, 17.º-B e 17.º-C, com a seguinte redacção:
+Art. 4.º Ao [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho, são aditados os artigos 11.º-A, 17.º-A, 17.º-B e 17.º-C, com a seguinte redacção:
 
-###### Art. 11.º-A - 1 - A informação periódica dos sargentos destina-se essencialmente a:
+Art. 11.º-A - 1 - A informação periódica dos sargentos destina-se essencialmente a:
 
 a) Dar continuidade ao processo apreciativo dos sargentos;
 
@@ -302,7 +331,7 @@ O segundo informador, sempre que o houver, deverá pronunciar-se claramente, por
 
 5 - A regulamentação da matéria prescrita neste artigo constará de portaria do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 17.º-A - 1 - Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção, são elementos de apreciação:
+Art. 17.º-A - 1 - Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção, são elementos de apreciação:
 
 a) As informações a que se refere o artigo 11.º-A;
 
@@ -314,7 +343,7 @@ c) Outros documentos, quer constem do processo individual do sargento, quer nele
 
 3 - A verificação da 4.ª condição geral de promoção baseia-se nas inspecções médicas e na prestação de provas físicas, de harmonia com legislação específica.
 
-###### Art. 17.º-B - 1 - O sargento que não satisfaça à 1.ª ou 2.ª condições gerais de promoção deixará de estar no activo.
+Art. 17.º-B - 1 - O sargento que não satisfaça à 1.ª ou 2.ª condições gerais de promoção deixará de estar no activo.
 
 2 - O sargento que não satisfaça à 3.ª condição geral de promoção ficará excluído da promoção pelo prazo mínimo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da condição 15) da alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353).
 
@@ -322,7 +351,7 @@ c) Outros documentos, quer constem do processo individual do sargento, quer nele
 
 4 - Ao sargento que não satisfaça à 4.ª condição geral de promoção será aplicável o disposto nos artigos 12.º ou 15.º do [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353).
 
-###### Art. 17.º-C - 1 - Quando houver dúvidas sobre se o sargento satisfaz à 1.ª e 2.ª condições gerais de promoção deverá o mesmo ser submetido a apreciação em conselho superior de disciplina da Força Aérea, para efeitos do respectivo parecer.
+Art. 17.º-C - 1 - Quando houver dúvidas sobre se o sargento satisfaz à 1.ª e 2.ª condições gerais de promoção deverá o mesmo ser submetido a apreciação em conselho superior de disciplina da Força Aérea, para efeitos do respectivo parecer.
 
 2 - Nenhum sargento pode ser dado como não satisfazendo à 3.ª condição geral de promoção sem parecer da comissão técnica da Força Aérea nesse sentido.
 
@@ -334,12 +363,12 @@ c) Outros documentos, quer constem do processo individual do sargento, quer nele
 
 6 - A comissão técnica da Força Aérea na apreciação dos casos que lhe forem presentes dará o seu parecer com base em todos os documentos submetidos e os que entender juntar ao processo, podendo ainda ouvir pessoalmente o sargento e quem mais entenda útil antes de emitir parecer.
 
-###### Art. 5.º As alterações aos Decretos-Leis n.os [35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353) e [134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), se compatíveis com as disposições legais vigentes, serão publicadas em portaria do Chefe do Estado-Maior da Força Aérea por forma a manter a estrutura dos diplomas harmonizada no seu conjunto.
+Art. 5.º As alterações aos Decretos-Leis n.os [35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353) e [134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), se compatíveis com as disposições legais vigentes, serão publicadas em portaria do Chefe do Estado-Maior da Força Aérea por forma a manter a estrutura dos diplomas harmonizada no seu conjunto.
 
 Visto e aprovado em Conselho da Revolução em 18 de Março de 1981.
 
-**Promulgado em 25 de Março de 1981.**
+Promulgado em 25 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

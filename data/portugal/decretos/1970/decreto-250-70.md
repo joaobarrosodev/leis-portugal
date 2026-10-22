@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/250-1970-142506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89c954f06f703c278de6a8277533bd51f34ad96837c127f49660fd43c041ee18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55e91252beab00009c0feecac47001e7ac8b21e4b165067e4c46613def8300d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:41Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +91,15 @@ Por motivo de urgência, nos termos do disposto no § 1.º do artigo 150.º da C
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O tabaco manipulado e a cerveja, quando importados no distrito de Cabinda ao abrigo do Decreto-Lei n.º 48991, de 5 de Março de 1969, ficam sujeitos ao pagamento dos impostos de produção e consumo vigentes no restante território da província.
+Artigo 1.º O tabaco manipulado e a cerveja, quando importados no distrito de Cabinda ao abrigo do Decreto-Lei n.º 48991, de 5 de Março de 1969, ficam sujeitos ao pagamento dos impostos de produção e consumo vigentes no restante território da província.
 
-###### Art. 2.º A exportação do distrito de Cabinda para os territórios vizinhos das mercadorias referidas no artigo 1.º dá lugar à devolução dos impostos de produção e consumo que hajam suportado.
+Art. 2.º A exportação do distrito de Cabinda para os territórios vizinhos das mercadorias referidas no artigo 1.º dá lugar à devolução dos impostos de produção e consumo que hajam suportado.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Maio de 1970.**
+Promulgado em 20 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

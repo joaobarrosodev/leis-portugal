@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16400/17251731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1980-472487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7955bea393e40769b7d7186d0d05c866d2e72e642eb625701018bccc46498ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7223420337c90d089efe050dd3bb68bdde593f3cc8444175cbf824aab1c5a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento
+- Ministério da Justiça
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:347953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459894:por
+  label: "Aumentado um lugar ao quadro de pessoal da Secretaria-Geral aprovado pelo Dec Lei 497/79, de 21-Dez, na redacção\
+    \ do art. 2.º do presente diploma, pela Port.1064/80.15.12.1980.PCM, DR.IS [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1980-459894
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:457177:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério da Justiça, constante do presente diploma, pela PORT.1097/80.27.12.1980.PCM,\
+    \ DR.IS [298] de 27.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1097-1980-457177
+  date: '1980-12-27'
+- type: amended_by
+  target: pt:dre:393050:por
+  label: Substituído o quadro de pessoal da Secretaria-Geral constante do mapa I anexo ao presente diploma, pelo(a) Decreto-Lei
+    n.º 151/82 - Diário da República n.º 100/1982, Série I de 1982-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1982-393050
+  date: '1982-04-30'
+- type: amended_by
+  target: pt:dre:374262:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos e Planeamento, aprovado pelo presente diploma, alterado pela\
+    \ Port 1064/80 de 15-Dez, pela PORT.854/82.09.09.1982.MFP, DR.IS [209] de 09.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/854-1982-374262
+  date: '1982-09-09'
+- type: amended_by
+  target: pt:dre:320560:por
+  label: "Extinto, com a entrada em vigor do diploma orgânico do serviço ou entidade que lhe suceder nas competências, o Gabinete\
+    \ de Estudos e Planeamento pelo DEC LEI.146/2000.2000.07.18.MJ,DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2000-320560
+  date: '2000-07-18'
+- type: cites
+  target: pt:dre:231157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663908:por
+  label: "Revogados os arts. 1º 2º e nº 2 do art 17º, pelo DEC LEI.250/91.16.07.1991.MJ, DR.IS-A [[161]] de 16.07.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1991-663908
+  date: '1991-07-16'
+- type: repealed_by
+  target: pt:dre:347953:por
+  label: "Revogado pelo DEC LEI.89/2001.2001.03.23.MJ, DR.IS-A [70] de 2001/MAR/23\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2001-347953
+  date: '2001-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:41Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +173,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º A Secretaria-Geral do Ministério da Justiça é um órgão de coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
+Art. 4.º A Secretaria-Geral do Ministério da Justiça é um órgão de coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
 
 a) Propor e acompanhar a execução de medidas tendentes ao funcionamento integrado dos serviços, tendo em vista a sua eficácia económica e social;
 
@@ -130,9 +197,9 @@ i) Prestar assistência às delegações e missões de países estrangeiros em P
 
 j) Assegurar, em geral, o normal funcionamento do Ministério em tudo o que não seja da competência específica dos restantes serviços.
 
-###### Art. 2.º Os artigos 3.º a 7.º e 11.º a 13.º do [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 3.º a 7.º e 11.º a 13.º do [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Compete à Direcção de Serviços de Gestão e Administração:
+Art. 3.º - 1 - Compete à Direcção de Serviços de Gestão e Administração:
 
 a) Prestar apoio técnico-administrativo nos domínios da administração dos recursos humanos, financeiros e patrimoniais;
 
@@ -146,7 +213,7 @@ a) Repartição de Administração de Pessoal e Expediente;
 
 b) Repartição de Administração Financeira e Patrimonial.
 
-###### Art. 4.º Compete à Repartição de Administração de Pessoal e Expediente:
+Art. 4.º Compete à Repartição de Administração de Pessoal e Expediente:
 
 a) Assegurar o expediente relativo ao provimento, transferência, promoção, exoneração, demissão e aposentação do pessoal dos serviços centrais do Ministério;
 
@@ -164,7 +231,7 @@ g) Organizar e conservar o arquivo administrativo e assegurar o serviço de repr
 
 h) Transmitir aos organismos e serviços dedentes do Ministério normas e instruções genéricas.
 
-###### Art. 5.º - 1 - A Repartição Administrativa de Pessoal e Expediente compreende os seguintes serviços:
+Art. 5.º - 1 - A Repartição Administrativa de Pessoal e Expediente compreende os seguintes serviços:
 
 a) Secção de Administração do Pessoal;
 
@@ -172,7 +239,7 @@ b) Secção de Expediente.
 
 2 - À Secção de Administração do Pessoal e à Secção de Expediente incumbe o desempenho das competências referidas, respectivamente, nas alíneas a) a c) e nas alíneas d) a h) do artigo anterior.
 
-###### Art. 6.º - 1 - Compete à Repartição de Administração Financeira e Patrimonial:
+Art. 6.º - 1 - Compete à Repartição de Administração Financeira e Patrimonial:
 
 a) Elaborar o orçamento do Ministério e as respectivas alterações, bem como acompanhar e fiscalizar a sua execução;
 
@@ -188,7 +255,7 @@ f) Assegurar a gestão, conservação e segurança das instalações dos serviç
 
 g) Providenciar pela eficiência das comunicações internas e externas.
 
-###### Art. 7.º - 1 - A Repartição de Administração Financeira e Patrimonial compreende os seguintes serviços:
+Art. 7.º - 1 - A Repartição de Administração Financeira e Patrimonial compreende os seguintes serviços:
 
 a) Secção de Administração Financeira;
 
@@ -198,19 +265,19 @@ b) Secção de Administração Patrimonial.
 
 ...
 
-###### Art. 11.º - 1 - O pessoal da Secretaria-Geral é o constante do quadro I anexo ao presente diploma, que substitui o constante do mapa II anexo ao [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro.
+Art. 11.º - 1 - O pessoal da Secretaria-Geral é o constante do quadro I anexo ao presente diploma, que substitui o constante do mapa II anexo ao [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro.
 
 2 - O quadro da Secretaria-Geral pode ser alterado por portaria dos Ministros da Justiça e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### Art. 12.º - 1 - Compete ao secretário-geral orientar e coordenar superiormente os serviços, distribuir o pessoal, gerir os recursos comuns do Ministério e submeter a despacho do Ministro da Justiça os assuntos que dele careçam.
+Art. 12.º - 1 - Compete ao secretário-geral orientar e coordenar superiormente os serviços, distribuir o pessoal, gerir os recursos comuns do Ministério e submeter a despacho do Ministro da Justiça os assuntos que dele careçam.
 
 2 - O cargo de secretário-geral pode ser exercido pelo director-geral do Gabinete de Estudos e Planeamento.
 
-###### Art. 13.º - 1 - O secretário-geral pode receber delegação de competência para despachar assuntos de gestão corrente no domínio das atribuições do Ministério.
+Art. 13.º - 1 - O secretário-geral pode receber delegação de competência para despachar assuntos de gestão corrente no domínio das atribuições do Ministério.
 
 2 - O secretário-geral pode delegar, mediante autorização do Ministro da Justiça, nos directores-gerais ou equiparados a gestão de parte ou da totalidade dos recursos comuns do Ministério afectos aos respectivos serviços.
 
-###### Art. 3.º - 1 - O Gabinete de Estudos e Planeamento do Ministério da Justiça, abreviadamente designado por GEP, é um órgão de estudo, planeamento, coordenação e apoio técnico.
+Art. 3.º - 1 - O Gabinete de Estudos e Planeamento do Ministério da Justiça, abreviadamente designado por GEP, é um órgão de estudo, planeamento, coordenação e apoio técnico.
 
 2 - Como órgão sectorial de planeamento, incumbe ao GEP:
 
@@ -242,7 +309,7 @@ d) Participar em reuniões nacionais ou internacionais sobre temas ligados aos f
 
 e) Definir procedimentos e coordenar, supervisionar e controlar a organização do ficheiro central de pessoas colectivas e entidades equiparadas.
 
-###### Art. 4.º - 1 - O GEP integra os seguintes serviços:
+Art. 4.º - 1 - O GEP integra os seguintes serviços:
 
 a) Direcção de Serviços de Planeamento e Coordenação;
 
@@ -252,7 +319,7 @@ c) Repartição Administrativa.
 
 2 - Na dependência do GEP e coordenadas pelo respectivo director-geral, funcionam ainda a Divisão de Organização e Recursos Humanos e a Divisão de Informação e Documentação.
 
-###### Art. 5.º - 1 - A Direcção de Serviços de Planeamento e Coordenação compreende os seguintes serviços:
+Art. 5.º - 1 - A Direcção de Serviços de Planeamento e Coordenação compreende os seguintes serviços:
 
 a) Divisão de Planeamento e Programação;
 
@@ -300,7 +367,7 @@ i) Estudar e propor as acções necessárias ao aperfeiçoamento da produção e
 
 j) Colaborar na ligação com os demais serviços do Ministério, com os órgãos de planeamento e com o Sistema Estatístico Nacional.
 
-###### Art. 6.º - 1 - A Direcção de Serviços de Utilização da Informática compreende os seguintes serviços:
+Art. 6.º - 1 - A Direcção de Serviços de Utilização da Informática compreende os seguintes serviços:
 
 a) Divisão de Estudos, Coordenação e Contrôle da Utilização da Informática;
 
@@ -340,7 +407,7 @@ g) Receber do centro processador, conferir a exactidão e expedir para os intere
 
 3 - As comunicações a que se refere o artigo 20.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), de 9 de Novembro, passam a ser efectuadas à Divisão do Ficheiro Central de Pessoas Colectivas do GEP.
 
-###### Art. 7.º Compete à Repartição Administrativa:
+Art. 7.º Compete à Repartição Administrativa:
 
 a) Assegurar a gestão administrativa do pessoal do GEP;
 
@@ -362,7 +429,7 @@ i) Providenciar pela eficiência das comunicações;
 
 j) Assegurar o serviço de reprografia e de microfilmagem.
 
-###### Art. 8.º - 1 - A Repartição Administrativa integra as seguintes secções:
+Art. 8.º - 1 - A Repartição Administrativa integra as seguintes secções:
 
 a) Secretaria;
 
@@ -370,7 +437,7 @@ b) Serviços Gerais.
 
 2 - À Secretaria e à Secção dos Serviços Gerais incumbe exercer as competências referidas, respectivamente, nas alíneas a) a f) e nas alíneas g) a j) do artigo anterior.
 
-###### Art. 9.º Compete à Divisão de Organização e Recursos Humanos:
+Art. 9.º Compete à Divisão de Organização e Recursos Humanos:
 
 a) Estudar e divulgar as técnicas de previsão e de planificação na gestão administrativa;
 
@@ -390,7 +457,7 @@ h) Colaborar com os departamentos competentes no estudo das carreiras e quadros 
 
 i) Elaborar e participar na elaboração de planos sistemáticos de formação, reciclagem e aperfeiçoamento de pessoal e acompanhar a sua execução.
 
-###### Art. 10.º Compete à Divisão de Informação e Documentação:
+Art. 10.º Compete à Divisão de Informação e Documentação:
 
 a) Integrar-se nas estruturas nacionais de informação científica e técnica e coordenar as actividades do Ministério em matéria de informação científica e técnica e do seu correspondente tratamento automático;
 
@@ -408,7 +475,7 @@ g) Assegurar a ligação com organismos estrangeiros e internacionais com vista 
 
 h) Assegurar, no que respeita ao Ministério da Justiça e sem prejuízo das atribuições legais de outras entidades, as relações internacionais.
 
-###### Art. 11.º - 1 - Junto do GEP funcionam:
+Art. 11.º - 1 - Junto do GEP funcionam:
 
 a) A Comissão de Planeamento do Ministério da Justiça;
 
@@ -416,46 +483,46 @@ b) A Comissão Consultiva de Estatística do Ministério da Justiça.
 
 2 - A composição, atribuições e competência dos órgãos previstos no número anterior são definidas por portaria do Ministro da Justiça.
 
-###### Art. 12.º - 1 - O GEP é dirigido por um director-geral.
+Art. 12.º - 1 - O GEP é dirigido por um director-geral.
 
 2 - No exercício da sua competência, o director-geral é coadjuvado por um subdirector-geral, que o substitui nas suas faltas e impedimentos.
 
-###### Art. 13.º - 1 - O GEP dispõe do pessoal constante do quadro II anexo ao presente diploma, que substitui os constantes do mapa I anexo ao [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, e do quadro III anexo à [Portaria n.º 726/79](https://diariodarepublica.pt/dr/detalhe/portaria/726-1979-231157), de 31 de Dezembro.
+Art. 13.º - 1 - O GEP dispõe do pessoal constante do quadro II anexo ao presente diploma, que substitui os constantes do mapa I anexo ao [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, e do quadro III anexo à [Portaria n.º 726/79](https://diariodarepublica.pt/dr/detalhe/portaria/726-1979-231157), de 31 de Dezembro.
 
 2 - O quadro do GEP pode ser alterado por portaria dos Ministros da Justiça e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### Art. 14.º O regime de pessoal e as normas de provimento dos lugares do quadro a que se refere o artigo anterior são os referidos no [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro.
+Art. 14.º O regime de pessoal e as normas de provimento dos lugares do quadro a que se refere o artigo anterior são os referidos no [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro.
 
-###### Art. 15.º - 1 - O Gabinete do Registo Nacional é integrado no Gabinete de Estudos e Planeamento, que passa a exercer todas as atribuições legalmente cometidas ao Gabinete do Registo Nacional, substituindo-se-lhe em todos os seus direitos e obrigações.
+Art. 15.º - 1 - O Gabinete do Registo Nacional é integrado no Gabinete de Estudos e Planeamento, que passa a exercer todas as atribuições legalmente cometidas ao Gabinete do Registo Nacional, substituindo-se-lhe em todos os seus direitos e obrigações.
 
 2 - Por força do disposto no número anterior, todas as referências ao Gabinete do Registo Nacional, ao respectivo director ou ao seu pessoal passam a entender-se como feitas ao GEP, ao seu director-geral ou ao seu pessoal.
 
-###### Art. 16.º - 1 - O pessoal da Secretaria-Geral e do Gabinete do Registo Nacional transita para os novos quadros com expressa salvaguarda de todos os seus direitos e regalias, incluindo, desde que não haja mudança de carreira e de área funcional, a contagem de tempo de serviço na categoria.
+Art. 16.º - 1 - O pessoal da Secretaria-Geral e do Gabinete do Registo Nacional transita para os novos quadros com expressa salvaguarda de todos os seus direitos e regalias, incluindo, desde que não haja mudança de carreira e de área funcional, a contagem de tempo de serviço na categoria.
 
 2 - A distribuição pelos novos quadros do pessoal a que se refere o número anterior será efectuada de harmonia com as regras estabelecidas no artigo 19.º do [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro.
 
-###### Art. 17.º - 1 - As dotações orçamentais do Gabinete do Registo Nacional passam a integrar o orçamento do Gabinete de Estudos e Planeamento.
+Art. 17.º - 1 - As dotações orçamentais do Gabinete do Registo Nacional passam a integrar o orçamento do Gabinete de Estudos e Planeamento.
 
 2 - O Ministro da Justiça pode determinar que os encargos de aquisição, construção, remodelação, conservação e equipamento de edifícios destinados a instalação de serviços centrais do Ministério da Justiça sejam suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 18.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro das Finanças e do Plano ou o membro do Governo que tiver a seu cargo a Administração Pública, quando estejam em causa matérias das respectivas competências.
+Art. 18.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro das Finanças e do Plano ou o membro do Governo que tiver a seu cargo a Administração Pública, quando estejam em causa matérias das respectivas competências.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 7 de Julho de 1980.**
+Promulgado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro I a que se refere o artigo 11.º
 
 Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16400/17251731.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16400/17251731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16400/17251731.pdf)
 
 Quadro II a que se refere o artigo 13.º
 
 Gabinete de Estudos e Planeamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16400/17251731.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16400/17251731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16400/17251731.pdf)

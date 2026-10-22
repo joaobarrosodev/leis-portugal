@@ -49,36 +49,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49035-1969-201197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8805a7cd6f613a1827efca049a12f9351b311790016a83b34bc781a6f5061db2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af21e0543207efc7cac094bbebb1ea6c2af5057fe3965fcf43169a08bb40c7e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito
+- Estabelecimento Hospitalar
+- Pessoa Coletiva de Utilidade Pública
+- Prescrição
+- Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:31Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +102,14 @@ Considerando que, neste curto espaço de tempo, não foi possível, por insufici
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Aos créditos dos estabelecimentos oficiais de assistência ou tratamento, relativamente aos serviços prestados e, bem assim, aos mesmos créditos de que sejam titulares pessoas colectivas de utilidade pública, constituídos anteriormente a 1 de Junho de 1967, só é aplicável o Código Civil, no que se refere à respectiva prescrição, a partir de 1 de Junho de 1969.
+Artigo 1.º Aos créditos dos estabelecimentos oficiais de assistência ou tratamento, relativamente aos serviços prestados e, bem assim, aos mesmos créditos de que sejam titulares pessoas colectivas de utilidade pública, constituídos anteriormente a 1 de Junho de 1967, só é aplicável o Código Civil, no que se refere à respectiva prescrição, a partir de 1 de Junho de 1969.
 
-###### Art. 2.º O presente decreto-lei entra imediatamente em vigor.
+Art. 2.º O presente decreto-lei entra imediatamente em vigor.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancela de Abreu.
 
-**Promulgado em 26 de Maio de 1969.**
+Promulgado em 26 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

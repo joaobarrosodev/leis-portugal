@@ -49,36 +49,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43468-1961-631625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75f654a82256378250d332bd87e4c31a85cad942cb76e10ad2fea85053f6f51a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd4c86cc3e180338005a0e788b6577c274aa3da0652d78b71980e59b4d4a9e09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Agência Geral do Ultramar
+- Criação de Lugares
+- Definição de Competências
+- Orgânica
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:25Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +126,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 4) do artigo 2.º do [Decreto n.º 41407](https://diariodarepublica.pt/dr/detalhe/decreto/41407-1957-252394), de 28 de Novembro de 1957, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 4) do artigo 2.º do [Decreto n.º 41407](https://diariodarepublica.pt/dr/detalhe/decreto/41407-1957-252394), de 28 de Novembro de 1957, passa a ter a seguinte redacção:
 
 4) Repartição dos Serviços Técnicos.
 
 § único. É acrescido na alínea A) do mapa n.º 14 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, um lugar de chefe de repartição.
 
-###### Art. 2.º O artigo 13.º do Decreto n.º 41401, de 28 de Novembro de 1957, passa a ter a seguinte redacção:
+Art. 2.º O artigo 13.º do Decreto n.º 41401, de 28 de Novembro de 1957, passa a ter a seguinte redacção:
 
-###### Art. 13.º À Repartição dos Serviços Técnicos são atribuídos:
+Art. 13.º À Repartição dos Serviços Técnicos são atribuídos:
 
 1. ...
 
@@ -117,29 +146,29 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Os outros serviços técnicos de que seja encarregada e para que esteja habilitada.
 
-###### Art. 3.º O lugar de chefe da Repartição dos Serviços Técnicos será provido por livre escolha do Ministro do Ultramar em diplomado com um curso superior adaptado ao exercício da função.
+Art. 3.º O lugar de chefe da Repartição dos Serviços Técnicos será provido por livre escolha do Ministro do Ultramar em diplomado com um curso superior adaptado ao exercício da função.
 
-###### Art. 4.º É criado no quadro privativo da Agência-Geral do Ultramar, a que se refere a alínea a) do mapa n.º 14 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, um lugar de tesoureiro-pagador.
+Art. 4.º É criado no quadro privativo da Agência-Geral do Ultramar, a que se refere a alínea a) do mapa n.º 14 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, um lugar de tesoureiro-pagador.
 
 § único. O lugar de tesoureiro-pagador será provido por livre escolha do Ministro do Ultramar de entre os segundos-oficiais de qualquer quadro do Ministério do Ultramar, organismos dependentes e províncias ultramarinas que tenham desempenhado as funções de tesoureiros ou pagadores, com boas informações de serviço.
 
-###### Art. 5.º O tesoureiro-pagador deverá prestar, no acto da posse, uma caução na importância de 25000$00, em dinheiro, ou constituir hipoteca de bens imóveis até àquele montante a favor do conselho administrativo da Agência-Geral do Ultramar.
+Art. 5.º O tesoureiro-pagador deverá prestar, no acto da posse, uma caução na importância de 25000$00, em dinheiro, ou constituir hipoteca de bens imóveis até àquele montante a favor do conselho administrativo da Agência-Geral do Ultramar.
 
-###### Art. 6.º A categoria do lugar de tesoureiro-pagador é incluída na letra L do mapa I do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 6.º A categoria do lugar de tesoureiro-pagador é incluída na letra L do mapa I do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 7.º Os encargos resultantes dos artigos anteriores serão satisfeitos pelo orçamento privativo da Agência-Geral do Ultramar.
+Art. 7.º Os encargos resultantes dos artigos anteriores serão satisfeitos pelo orçamento privativo da Agência-Geral do Ultramar.
 
 § único. No corrente ano económico os referidos encargos poderão ser satisfeitos pelas sobras que houver nas verbas para pessoal dos quadros da referida Agência, ou, na sua falta, por meio de reforço das mesmas verbas, com contrapartida nos saldo dos exercícios findos.
 
-###### Art. 8.º É criado o lugar de director adjunto do Centro de Informação e Turismo de Angola, a prover por livre escolha do Ministro do Ultramar de entre as pessoas que tenham revelado competência para o seu desempenho e de preferência que possuam um curso superior.
+Art. 8.º É criado o lugar de director adjunto do Centro de Informação e Turismo de Angola, a prover por livre escolha do Ministro do Ultramar de entre as pessoas que tenham revelado competência para o seu desempenho e de preferência que possuam um curso superior.
 
-###### Art. 9.º O lugar a que se refere o artigo anterior considera-se incluído no mapa anexo ao Decreto n.º 42194, de 27 de Março de 1959, e terá a mesma categoria fixada para o respectivo director pelo [Decreto n.º 42351](https://diariodarepublica.pt/dr/detalhe/decreto/42351-1959-433041), de 2 de Julho de 1959.
+Art. 9.º O lugar a que se refere o artigo anterior considera-se incluído no mapa anexo ao Decreto n.º 42194, de 27 de Março de 1959, e terá a mesma categoria fixada para o respectivo director pelo [Decreto n.º 42351](https://diariodarepublica.pt/dr/detalhe/decreto/42351-1959-433041), de 2 de Julho de 1959.
 
-###### Art. 10.º O encargo resultante da execução do artigo 8.º deste diploma será satisfeito pelo orçamento do referido Centro, ficando o governador-geral autorizado a abrir os créditos necessários.
+Art. 10.º O encargo resultante da execução do artigo 8.º deste diploma será satisfeito pelo orçamento do referido Centro, ficando o governador-geral autorizado a abrir os créditos necessários.
 
-###### Art. 11.º No provimento de todos os lugares a que se refere o presente diploma é aplicável o disposto no § único do artigo 158.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
+Art. 11.º No provimento de todos os lugares a que se refere o presente diploma é aplicável o disposto no § único do artigo 158.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

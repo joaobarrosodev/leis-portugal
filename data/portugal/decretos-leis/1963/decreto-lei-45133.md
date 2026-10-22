@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/07/16400/09500950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,40 +50,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45133-1963-693043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c238066744f5f2c9bbd61d841a676e76225833d3e9c10ffb7ce25b1b783541dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 950d8beef10b67e9c03588794088501a194c2f0ecfa4022eee8a35de4222de9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- BENS Imóveis do Estado
+- Prédio Rústico
+- Rescisão de Contrato
 relationships:
 - type: amended_by
   target: pt:dre:637402:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675400:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:637402:por
+  label: "Revogado, a partir de 07.09.2007, pelo DEC LEI.280/2007.07.08.2007.MFAP, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-2007-637402
+  date: '2007-08-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:39Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +122,12 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os corpos administrativos podem, mediante autorização do Ministro do Interior, despedir os arrendatários dos seus prédios, rústicos, urbanos ou mistos, quando deles necessitem para instalação dos próprios serviços ou de serviços do Estado cuja instalação constitua seu encargo, ou quando tenham de ser demolidos para execução de planos de urbanização, devidamente aprovados.
+Artigo 1.º Os corpos administrativos podem, mediante autorização do Ministro do Interior, despedir os arrendatários dos seus prédios, rústicos, urbanos ou mistos, quando deles necessitem para instalação dos próprios serviços ou de serviços do Estado cuja instalação constitua seu encargo, ou quando tenham de ser demolidos para execução de planos de urbanização, devidamente aprovados.
 
 § único. Nos casos a que se refere este artigo aplica-se o disposto nos artigos 2.º e seguintes do [Decreto-Lei n.º 23465](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23465-1934-675400), de 18 de Janeiro de 1934.
 
-###### Art. 2.º O disposto no artigo 8.º do [Decreto-Lei n.º 23465](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23465-1934-675400) passa a ser extensivo à ocupação de bens imóveis dos corpos administrativos.
+Art. 2.º O disposto no artigo 8.º do [Decreto-Lei n.º 23465](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23465-1934-675400) passa a ser extensivo à ocupação de bens imóveis dos corpos administrativos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

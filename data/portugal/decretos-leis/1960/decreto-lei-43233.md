@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43233-1960-513656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96e597bacc6df49159672d947d5cf80566c2dc9de340e4c1106e3ce08269e466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4ba04fa5a9dfffb3aa509194c769b73d03de40476301a57733f96b5a2d73ee8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Câmara Municipal
+- Contribuições e Impostos
+- Lisboa
+- Transmissão da Propriedade
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:01Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +101,10 @@ Nestas circunstâncias:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os actos pelos quais a Câmara Municipal de Lisboa transmita à Sociedade do Jardim Zoológico e de Aclimação em Portugal, Lda., com sede em Lisboa, duas parcelas de terreno, uma com a área de 10420 m2, proveniente da antiga Quinta de Barbacena, e outra com a área de 880 m2, esta proveniente da serventia de ligação da Estrada de Benfica à chamada Quinta das Laranjeiras, são isentos de quaisquer impostos e emolumentos.
+Artigo 1.º Os actos pelos quais a Câmara Municipal de Lisboa transmita à Sociedade do Jardim Zoológico e de Aclimação em Portugal, Lda., com sede em Lisboa, duas parcelas de terreno, uma com a área de 10420 m2, proveniente da antiga Quinta de Barbacena, e outra com a área de 880 m2, esta proveniente da serventia de ligação da Estrada de Benfica à chamada Quinta das Laranjeiras, são isentos de quaisquer impostos e emolumentos.
 
-###### Art. 2.º O presente decreto-lei entra imediatamente em vigor.
+Art. 2.º O presente decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

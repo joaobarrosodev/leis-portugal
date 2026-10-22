@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46268-1965-237138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51528a4b4c0bfdd950743a3617c91c76e753551a840c507152d26d01b9bba9ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7df042d6567c67b11621378dc5790976328181c763a928d17d4ace059607b2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Lisboa
+- PSP
+- Reembolso
+- Serviços Sociais
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:46Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +96,9 @@ Tornando-se, por outro lado, necessário fixar as condições em que aquele reem
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam os Serviços Sociais da Polícia de Segurança Pública autorizados a utilizar um edifício pertencente à Câmara Municipal de Lisboa, sito em Palhavã, junto à Avenida de Columbano Bordalo Pinheiro, devendo o conselho administrativo daqueles Serviços Sociais reembolsar a Câmara Municipal de Lisboa da importância de 482749$90 despendida com a adaptação do imóvel a posto clínico destinado àquela instituição.
+Artigo 1.º Ficam os Serviços Sociais da Polícia de Segurança Pública autorizados a utilizar um edifício pertencente à Câmara Municipal de Lisboa, sito em Palhavã, junto à Avenida de Columbano Bordalo Pinheiro, devendo o conselho administrativo daqueles Serviços Sociais reembolsar a Câmara Municipal de Lisboa da importância de 482749$90 despendida com a adaptação do imóvel a posto clínico destinado àquela instituição.
 
-###### Art. 2.º O reembolso efectuar-se-á pela forma seguinte:
+Art. 2.º O reembolso efectuar-se-á pela forma seguinte:
 
 a) O conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública pagará à Câmara Municipal de Lisboa logo após a conclusão das obras a quantia de 241375$00;
 
@@ -101,7 +106,7 @@ b) A quantia restante será reembolsada em dez anuidades, com início no ano seg
 
 § único. Se durante o período de amortização a Câmara Municipal de Lisboa necessitar do edifício referido no artigo 1.º, os Serviços Sociais da Polícia de Segurança Pública ficam desobrigados do pagamento das anuidades ainda não liquidadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

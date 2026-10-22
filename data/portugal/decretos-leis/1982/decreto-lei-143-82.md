@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1982-606683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0de6987d4401bb0781eceb6e0fa0a6900238aac39b559ae6fa68826ba55bffa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9855ebaf2cdf87e03d5e4166c119d94b379d8190329149d44521d6db52af14bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Geodesia
+- Instituto Geográfico e Cadastral
+relationships:
+- type: cites
+  target: pt:dre:159295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637743:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS ART 1 A 18, 26 E 28 PELA LEI 172/95 DE 18-JUL DR.IS-A [164]\0A [164]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-18'
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:11Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +114,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Competência do Instituto Geográfico e Cadastral
 
-###### Artigo 1.º Compete exclusivamente ao instituto Geográfico e Cadastral a elaboração e conservação de toda a cartografia básica, em várias escalas, para a construção da Carta Cadastral do País, nos seus aspectos geométrico e de avaliação.
+Artigo 1.º Compete exclusivamente ao instituto Geográfico e Cadastral a elaboração e conservação de toda a cartografia básica, em várias escalas, para a construção da Carta Cadastral do País, nos seus aspectos geométrico e de avaliação.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 (Delimitação e demarcação de prédios rústicos)
 
-###### Art. 2.º O início das operações de levantamento cadastral e de revisão em cada concelho será anunciado pelo Instituto Geográfico e Cadastral por meio de editais, com a antecedência de 6 meses.
+Art. 2.º O início das operações de levantamento cadastral e de revisão em cada concelho será anunciado pelo Instituto Geográfico e Cadastral por meio de editais, com a antecedência de 6 meses.
 
-###### Art. 3.º Os proprietários ou usufrutuários de prédios rústicos deverão proceder à sua demarcação nos prazos indicados nos editais a que se refere o artigo anterior, segundo as instruções a que o Instituto Geográfico e Cadastral dará a mesma publicidade.
+Art. 3.º Os proprietários ou usufrutuários de prédios rústicos deverão proceder à sua demarcação nos prazos indicados nos editais a que se refere o artigo anterior, segundo as instruções a que o Instituto Geográfico e Cadastral dará a mesma publicidade.
 
-###### Art. 4.º Os peritos cadastrais comunicarão, por escrito, aos proprietários que não houverem demarcado os seus prédios o prazo em que o devem fazer e aplicarão, por prédio, uma multa de quantitativo a fixar pela seguinte forma:
+Art. 4.º Os peritos cadastrais comunicarão, por escrito, aos proprietários que não houverem demarcado os seus prédios o prazo em que o devem fazer e aplicarão, por prédio, uma multa de quantitativo a fixar pela seguinte forma:
 
 Prédios com área inferior a 1 ha - 1000$00;
 
@@ -118,13 +136,13 @@ Prédios com área superior a 10 ha e inferior a 100 ha - 5000$00;
 
 Prédios com área superior a 100 ha - 10000$00.
 
-###### Art. 5.º - 1 - Os peritos cadastrais avisarão, também por escrito, os proprietários ou usufrutuários de prédios que julguem deficientemente demarcados de que devem completar a sua demarcação e fixarão o prazo para o fazer.
+Art. 5.º - 1 - Os peritos cadastrais avisarão, também por escrito, os proprietários ou usufrutuários de prédios que julguem deficientemente demarcados de que devem completar a sua demarcação e fixarão o prazo para o fazer.
 
 2 - Consideram-se deficientemente demarcados os prédios cuja demarcação não obedeça às instruções referidas na parte final do artigo 3.º
 
-###### Art. 6.º Se, expirados os prazos a que se referem os artigos anteriores, não estiver feita a demarcação, será aplicada a multa de 1000$00 por cada marco ou inscrição que faltar e fixado novo prazo para se efectuar ou completar a demarcação.
+Art. 6.º Se, expirados os prazos a que se referem os artigos anteriores, não estiver feita a demarcação, será aplicada a multa de 1000$00 por cada marco ou inscrição que faltar e fixado novo prazo para se efectuar ou completar a demarcação.
 
-###### Art. 7.º - 1 - Se, expirado este novo prazo, ainda se não tiver efectuado ou completado a demarcação, o instituto Geográfico e Cadastral substituir-se-á aos proprietários faltosos, procedendo, para efeitos meramente fiscais, à respectiva demarcação por meio de estacas, mediante informação dos proprietários interessados ou informações locais, ficando os proprietários obrigados a substituí-las por marcos no prazo de 15 dias.
+Art. 7.º - 1 - Se, expirado este novo prazo, ainda se não tiver efectuado ou completado a demarcação, o instituto Geográfico e Cadastral substituir-se-á aos proprietários faltosos, procedendo, para efeitos meramente fiscais, à respectiva demarcação por meio de estacas, mediante informação dos proprietários interessados ou informações locais, ficando os proprietários obrigados a substituí-las por marcos no prazo de 15 dias.
 
 2 - O não cumprimento do estipulado no número anterior constitui uma agravante, sendo, por isso, onerada a multa em 2000$00 por cada marco em falta.
 
@@ -132,7 +150,7 @@ Prédios com área superior a 100 ha - 10000$00.
 
 4 - Todos os erros que possam resultar desta operação atribuem-se exclusivamente aos proprietários faltosos que lhes deram origem.
 
-###### Art. 8.º - 1 - Se a falta ou deficiência de demarcação resultar de desacordo entre proprietários confinantes, o Instituto Geográfico e Cadastral substituir-se-á aos proprietários faltosos, procedendo à respectiva demarcação de acordo com as seguintes regras:
+Art. 8.º - 1 - Se a falta ou deficiência de demarcação resultar de desacordo entre proprietários confinantes, o Instituto Geográfico e Cadastral substituir-se-á aos proprietários faltosos, procedendo à respectiva demarcação de acordo com as seguintes regras:
 
 a) Atender-se-á à posse em que estejam os confinantes ou ao que resultar de outros meios de prova;
 
@@ -140,25 +158,25 @@ b) Se a questão não puder ser resolvida pela posse ou por outro meio de prova,
 
 2 - A demarcação efectuada nos termos do número anterior valerá apenas para efeitos fiscais e prevalecerá até que seja exibida cópia da sentença, com trânsito em julgado, proferida na acção que ponha termo ao litígio ou até que as partes apresentem declaração de terem chegado a acordo quanto à forma de procederem à demarcação dos seus prédios.
 
-###### Art. 9.º - 1 - Os prédios rústicos serão inscritos em nome dos respectivos proprietários que resultarem do acto de levantamento.
+Art. 9.º - 1 - Os prédios rústicos serão inscritos em nome dos respectivos proprietários que resultarem do acto de levantamento.
 
 2 - Os prédios de que não se possa conhecer os proprietários serão provisoriamente inscritos como bens nacionais, até que se possa conhecer, através de qualquer meio legal de prova, a quem efectivamente pertencem.
 
 #### SECÇÃO II — (Delimitação e demarcação de circunscrições administrativas)
 
-###### Art. 10.º - 1 - Com a antecedência que julgar conveniente, o Instituto Geográfico e Cadastral oficiará às câmaras municipais respectivas convidando-as a proceder à delimitação e demarcação dos territórios das freguesias que integram o concelho sob sua jurisdição e fornecerá as normas a que devem obedecer os marcos.
+Art. 10.º - 1 - Com a antecedência que julgar conveniente, o Instituto Geográfico e Cadastral oficiará às câmaras municipais respectivas convidando-as a proceder à delimitação e demarcação dos territórios das freguesias que integram o concelho sob sua jurisdição e fornecerá as normas a que devem obedecer os marcos.
 
 2 - Logo que efectuada a comunicação referida no artigo anterior, poderá a câmara municipal, alegando falta de meios técnicos ou quaisquer outros motivos, solicitar de imediato ao Instituto Geográfico e Cadastral que tome a seu cargo as operações de delimitação e demarcação dos territórios das suas freguesias.
 
 3 - No caso de a demarcação ser efectuada pelo Instituto Geográfico e Cadastral a pedido das câmaras municipais interessadas, será apresentada a cada uma destas a conta das despesas feitas com as operações de demarcação e delimitação, com a indicação da quota-parte que a cada uma delas é imputada, devendo estas proceder de imediato ao seu pagamento, sob pena de serem cobradas coercivamente como dividas à Fazenda Nacional, quando não pagas voluntariamente.
 
-###### Art. 11.º - 1 - No caso de delimitação feita pelos próprios órgãos autárquicos, o perito cadastral oficiará, na devida altura, às juntas de freguesia interessadas, indicando as datas das operações de verificação das linhas de delimitação dos seus territórios e convidando-as a nomear delegados para assistir a tais operações.
+Art. 11.º - 1 - No caso de delimitação feita pelos próprios órgãos autárquicos, o perito cadastral oficiará, na devida altura, às juntas de freguesia interessadas, indicando as datas das operações de verificação das linhas de delimitação dos seus territórios e convidando-as a nomear delegados para assistir a tais operações.
 
 2 - Nas datas estabelecidas no número anterior, o perito cadastral procederá, com o concurso dos delegados das juntas de freguesia e com a assistência de um informador escolhido para o efeito, ao reconhecimento da linha de delimitação dos territórios ou circunscrições em causa.
 
 3 - Se as linhas de delimitação não forem definidas por um número suficiente de marcos, o perito mandará colocar estacas de madeira nos locais julgados convenientes, que serão substituídas pelas autarquias interessadas por marcos estáveis, fixando para o efeito um prazo, findo o qual a deficiência será suprida pelo Instituto Geográfico e Cadastral, sendo as respectivas despesas da responsabilidade daquelas entidades autárquicas e cobradas coercivamente, como dívidas à Fazenda Nacional, quando não pagas voluntariamente.
 
-###### Art. 12.º - 1 - Se a demarcação dos territórios das freguesias for efectuada pelo Instituto Geográfico e Cadastral nos termos previstos no n.º 2 do artigo 10.º, o perito começará por solicitar à câmara municipal interessada e às câmaras municipais dos concelhos confinantes todos os elementos de facto e de direito que interessem às operações a executar.
+Art. 12.º - 1 - Se a demarcação dos territórios das freguesias for efectuada pelo Instituto Geográfico e Cadastral nos termos previstos no n.º 2 do artigo 10.º, o perito começará por solicitar à câmara municipal interessada e às câmaras municipais dos concelhos confinantes todos os elementos de facto e de direito que interessem às operações a executar.
 
 2 - De posse dos elementos referidos no número anterior, o perito do Instituto Geográfico e Cadastral procederá à definição no terreno dos limites que daí resultarem, materializando-os quando forem incertos, ouvindo, neste caso, previamente, os delegados das juntas de freguesia interessadas.
 
@@ -166,33 +184,33 @@ No caso de não haver acordo dos delegados, o perito estabelecerá um limite pro
 
 3 - No caso de acordo, as autarquias locais em causa providenciarão no sentido de a solução adoptada pelo perito do Instituto Geográfico e Cadastral ser consagrada através de diploma legal.
 
-###### Art. 13.º - 1 - No caso de as câmaras municipais não poderem fornecer os elementos de facto e de direito referidos no n.º 1 do artigo anterior, o perito do Instituto Geográfico e Cadastral presumirá que os limites administrativos coincidem com as áreas de jurisdição das repartições de finanças e das conservatórias do registo predial.
+Art. 13.º - 1 - No caso de as câmaras municipais não poderem fornecer os elementos de facto e de direito referidos no n.º 1 do artigo anterior, o perito do Instituto Geográfico e Cadastral presumirá que os limites administrativos coincidem com as áreas de jurisdição das repartições de finanças e das conservatórias do registo predial.
 
 2 - No caso previsto no número anterior, o perito cadastral, de acordo com as informações que puder colher, procurará materializar no terreno, com o concurso dos delegados das juntas de freguesia interessadas, a linha do território ou circunscrição em causa, tomando nota do desenvolvimento da mesma e do nome dos proprietários e demais elementos de identificação dos prédios que com ela confinam.
 
 3 - Ultimadas as operações referidas no número anterior, o perito procurará confirmar, através de consulta às descrições matriciais e registrais e demais elementos pertinentes que existam nas repartições públicas, se a delimitação efectuada se encontra correcta.
 
-###### Art. 14.º - 1 - Estudados e analisados estes elementos, o perito do Instituto Geográfico e Cadastral, em reunião para o efeito convocada, informará os delegados das juntas de freguesia interessadas das conclusões a que chegou e das possíveis alterações a introduzir na linha de delimitação entretanto assinalada, de forma a fazer coincidir os limites fiscais e administrativos dos territórios em causa, informando-os, ao mesmo tempo, que a subordinação dos limites fiscais aos administrativos só tem de ceder perante os casos excepcionais do artigo 156.º do Código da Contribuição Predial e Imposto sobre a Indústria Agrícola.
+Art. 14.º - 1 - Estudados e analisados estes elementos, o perito do Instituto Geográfico e Cadastral, em reunião para o efeito convocada, informará os delegados das juntas de freguesia interessadas das conclusões a que chegou e das possíveis alterações a introduzir na linha de delimitação entretanto assinalada, de forma a fazer coincidir os limites fiscais e administrativos dos territórios em causa, informando-os, ao mesmo tempo, que a subordinação dos limites fiscais aos administrativos só tem de ceder perante os casos excepcionais do artigo 156.º do Código da Contribuição Predial e Imposto sobre a Indústria Agrícola.
 
 2 - Em seguida, com o concurso dos delegados das juntas de freguesia, o perito procederá às correcções que se impuserem.
 
-###### Art. 15.º Terminadas as operações de delimitação e demarcação de cada freguesia, o perito convocará uma reunião de delegados das juntas de freguesia, aos quais fornecerá, no acto de convocação, cópias das memórias descritivas e plantas da demarcação efectuada e a reunião terminará por redacção de uma acta final, de acordo com o modelo a fornecer pelo Instituto Geográfico e Cadastral, a qual deverá ser assinada por todos os presentes.
+Art. 15.º Terminadas as operações de delimitação e demarcação de cada freguesia, o perito convocará uma reunião de delegados das juntas de freguesia, aos quais fornecerá, no acto de convocação, cópias das memórias descritivas e plantas da demarcação efectuada e a reunião terminará por redacção de uma acta final, de acordo com o modelo a fornecer pelo Instituto Geográfico e Cadastral, a qual deverá ser assinada por todos os presentes.
 
-###### Art. 16.º No caso de não haver acordo, o facto será mencionado na acta e o perito optará por uma linha de delimitação para efeitos puramente fiscais. Esse facto constará obrigatoriamente da acta.
+Art. 16.º No caso de não haver acordo, o facto será mencionado na acta e o perito optará por uma linha de delimitação para efeitos puramente fiscais. Esse facto constará obrigatoriamente da acta.
 
-###### Art. 17.º Com base nos elementos extraídos dos documentos mencionados no artigo 15.º, as autarquias locais interessadas tomarão a iniciativa de promover a publicação do diploma legal que sancione a delimitação e demarcação efectuadas.
+Art. 17.º Com base nos elementos extraídos dos documentos mencionados no artigo 15.º, as autarquias locais interessadas tomarão a iniciativa de promover a publicação do diploma legal que sancione a delimitação e demarcação efectuadas.
 
-###### Art. 18.º Ao Governo, através do Ministro da Administração Interna, compete obrigatoriamente desencadear as acções tendentes à fixação integral dos limites das freguesias de cada município, imediatamente após a conclusão das operações cadastrais concelhias, tomando por base as memórias descritivas e as plantas de delimitação territorial utilizadas nos trabalhos do cadastro geométrico da propriedade rústica, ouvidas as autarquias nos termos legais. Só após a fixação legal dos limites das circunscrições administrativas serão estes considerados na organização das matrizes e registos prediais.
+Art. 18.º Ao Governo, através do Ministro da Administração Interna, compete obrigatoriamente desencadear as acções tendentes à fixação integral dos limites das freguesias de cada município, imediatamente após a conclusão das operações cadastrais concelhias, tomando por base as memórias descritivas e as plantas de delimitação territorial utilizadas nos trabalhos do cadastro geométrico da propriedade rústica, ouvidas as autarquias nos termos legais. Só após a fixação legal dos limites das circunscrições administrativas serão estes considerados na organização das matrizes e registos prediais.
 
 ### CAPÍTULO III — Sinalização geodésica e cadastral
 
-###### Art. 19.º - 1 - O Instituto Geográfico e Cadastral, sempre que necessitar de construir marcos geodésicos, de triangulação cadastral de 1.ª ordem ou outras referências, estabelecerá contactos, através dos seus funcionários e agentes, com o proprietário do terreno a ocupar ou o seu representante, procurando ouvir as suas razões, de forma que a construção se efectue em local que menos gravoso se torne ao prédio, mas sempre sem prejuízo da função normal do sinal a construir.
+Art. 19.º - 1 - O Instituto Geográfico e Cadastral, sempre que necessitar de construir marcos geodésicos, de triangulação cadastral de 1.ª ordem ou outras referências, estabelecerá contactos, através dos seus funcionários e agentes, com o proprietário do terreno a ocupar ou o seu representante, procurando ouvir as suas razões, de forma que a construção se efectue em local que menos gravoso se torne ao prédio, mas sempre sem prejuízo da função normal do sinal a construir.
 
 2 - No caso de ser exigido o pagamento do terreno ocupado, a indemnização será fixada por comum acordo ou, na falta deste, o valor do terreno por unidade de superfície será, para efeitos de cálculo de indemnização devida, o de igual unidade registada na matriz predial.
 
 3 - A sinalização referida no n.º 1 poderá recair sobre edifícios de qualquer natureza e, neste caso, a implantação dos respectivos sinais deverá ter em linha de conta a segurança e utilização normal dos mesmos edifícios e a indemnização a que houver lugar será fixada por acordo entre as partes interessadas e, na falta deste, por meio de peritagem, requerida nos termos legais.
 
-###### Art. 20.º - 1 - O Instituto Geográfico e Cadastral procederá, por intermédio dos seus funcionários e agentes, ao corte das árvores que impeçam a execução dos trabalhos de observação, mediante indemnização previamente acordada com os proprietários dos terrenos ou seus representantes, a qual será submetida à aprovação do director-geral.
+Art. 20.º - 1 - O Instituto Geográfico e Cadastral procederá, por intermédio dos seus funcionários e agentes, ao corte das árvores que impeçam a execução dos trabalhos de observação, mediante indemnização previamente acordada com os proprietários dos terrenos ou seus representantes, a qual será submetida à aprovação do director-geral.
 
 2 - Não sendo possível chegar a acordo, proceder-se-á ao corte imediato das árvores, por forma a não prejudicar o andamento dos trabalhos, e a indemnização será fixada pelo tribunal da respectiva comarca, nos termos da legislação aplicável.
 
@@ -200,9 +218,9 @@ No caso de não haver acordo dos delegados, o perito estabelecerá um limite pro
 
 4 - As pessoas que pretenderem impedir a execução dos actos previstos nos números anteriores ficarão sujeitas à multa de 1500$00, além das demais responsabilidades legais a que a oposição possa dar lugar.
 
-###### Art. 21.º Todo aquele que danificar ou destruir marcos geodésicos e, bem assim, deslocar, danificar ou arrancar marcas de nivelamento ou de gravimetria ou marcos cadastrais de carácter provisório ou permanente fica, além da responsabilidade criminal que lhe couber pelo facto, sujeito ao pagamento da importância do custo da sua reparação, recolocação ou reconstrução, acrescido de multa de 1000$00 a 10000$00, a fixar pelo Instituto Geográfico e Cadastral.
+Art. 21.º Todo aquele que danificar ou destruir marcos geodésicos e, bem assim, deslocar, danificar ou arrancar marcas de nivelamento ou de gravimetria ou marcos cadastrais de carácter provisório ou permanente fica, além da responsabilidade criminal que lhe couber pelo facto, sujeito ao pagamento da importância do custo da sua reparação, recolocação ou reconstrução, acrescido de multa de 1000$00 a 10000$00, a fixar pelo Instituto Geográfico e Cadastral.
 
-###### Art. 22.º - 1 - Construídos os marcos geodésicos, de triangulação cadastral ou outras referências a que alude o artigo 19.º fica vedado ao proprietário ou usufrutuário dos terrenos situados dentro da zona de respeito fazer plantações, construções e outras obras ou trabalhos de qualquer natureza que impeçam a visibilidade das direcções constantes das minutas da triangulação revista.
+Art. 22.º - 1 - Construídos os marcos geodésicos, de triangulação cadastral ou outras referências a que alude o artigo 19.º fica vedado ao proprietário ou usufrutuário dos terrenos situados dentro da zona de respeito fazer plantações, construções e outras obras ou trabalhos de qualquer natureza que impeçam a visibilidade das direcções constantes das minutas da triangulação revista.
 
 2 - Em caso de infracção do disposto no número anterior, serão embargadas as obras entretanto realizadas ou destruídas as plantações feitas em contravenção à proibição estabelecida, sem direito a qualquer indemnização.
 
@@ -210,30 +228,30 @@ No caso de não haver acordo dos delegados, o perito estabelecerá um limite pro
 
 4 - Em qualquer caso, esta zona de respeito será constituída por uma zona circunjacente ao sinal, nunca inferior a 15 m de raio.
 
-###### Art. 23.º Nenhum projecto de obras ou plano de arborização, dentro da zona de respeito, deve ser iniciado sem prévia autorização do Instituto Geográfico e Cadastral.
+Art. 23.º Nenhum projecto de obras ou plano de arborização, dentro da zona de respeito, deve ser iniciado sem prévia autorização do Instituto Geográfico e Cadastral.
 
-###### Art. 24.º Fica vedada a qualquer entidade pública ou particular a utilização de marcos geodésicos, de triangulação cadastral ou outras referências que impeçam ou dificultem a normal função daqueles sinais.
+Art. 24.º Fica vedada a qualquer entidade pública ou particular a utilização de marcos geodésicos, de triangulação cadastral ou outras referências que impeçam ou dificultem a normal função daqueles sinais.
 
-###### Art. 25.º A vigilância para assegurar a conservação e intangibilidade dos marcos geodésicos, de triangulação cadastral ou outras referências é confiada aos funcionários e agentes do Instituto Geográfico e Cadastral, bem como a todos os agentes e autoridades, que denunciarão os infractores ao referido Instituto, que tomará, no caso, as providências que se impuserem.
+Art. 25.º A vigilância para assegurar a conservação e intangibilidade dos marcos geodésicos, de triangulação cadastral ou outras referências é confiada aos funcionários e agentes do Instituto Geográfico e Cadastral, bem como a todos os agentes e autoridades, que denunciarão os infractores ao referido Instituto, que tomará, no caso, as providências que se impuserem.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 26.º Os direitos dos funcionários encarregados da organização do cadastro e dos membros das juntas cadastrais são os que vêm referidos no artigo 85.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
+Art. 26.º Os direitos dos funcionários encarregados da organização do cadastro e dos membros das juntas cadastrais são os que vêm referidos no artigo 85.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
 
-###### Art. 27.º As formalidades a observar no levantamento dos autos pelas infracções contempladas no presente diploma e a forma de cobrança das respectivas multas são reguladas pelo disposto no artigo 86.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
+Art. 27.º As formalidades a observar no levantamento dos autos pelas infracções contempladas no presente diploma e a forma de cobrança das respectivas multas são reguladas pelo disposto no artigo 86.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
 
-###### Art. 28.º As regras contidas neste diploma e referentes à falta ou deficiência de demarcação de prédios rústicos são igualmente aplicáveis nas fases subsequentes da conservação e revisão do cadastro geométrico da propriedade rústica.
+Art. 28.º As regras contidas neste diploma e referentes à falta ou deficiência de demarcação de prédios rústicos são igualmente aplicáveis nas fases subsequentes da conservação e revisão do cadastro geométrico da propriedade rústica.
 
-###### Art. 29.º O presente diploma prevalece sobre quaisquer disposições legais que versem sobre a matéria nele regulada.
+Art. 29.º O presente diploma prevalece sobre quaisquer disposições legais que versem sobre a matéria nele regulada.
 
-###### Art. 30.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano, ouvido o Instituto Geográfico e Cadastral, ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Administração Interna, quando for caso disso.
+Art. 30.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano, ouvido o Instituto Geográfico e Cadastral, ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Administração Interna, quando for caso disso.
 
-###### Art. 31.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 31.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Abril de 1982.**
+Promulgado em 14 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

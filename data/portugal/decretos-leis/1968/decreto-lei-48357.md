@@ -46,40 +46,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27819396b1cd7120ef471042b94503a0690845fafbbb33762e734145e09fbf79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20868cb742a4671dff1d84974cc151572070aa2429e07807ded23e1d0326fdbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Estatuto Hospitalar
+- Gestão Hospitalar
+- Médico
+- Pessoal de Saúde
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:490426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198898:por
+  label: "Tornado extensivo às comissões inter-hospitalares o disposto no art. 50º do Estatuto pelo DEC LEI.49176.06.08.1969.MSA,\
+    \ DG.IS [183] de 06.08.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49176-1969-198898
+  date: '1969-08-06'
+- type: amended_by
+  target: pt:dre:216351:por
+  label: "Alargado o âmbito de aplicação do Estatuto pelo DEC LEI.49459.1969.12.24.MSA DG.IS [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49459-1969-216351
+  date: '1969-12-24'
+- type: amended_by
+  target: pt:dre:227386:por
+  label: "Tornado extensivo, na parte referente às carreiras de pessoal médico, aos Hospitais das Universidades de Luanda\
+    \ e de Lourenço Marques o Estatuto Hospitalar, promulgado pelo presente diploma, pelo DEC LEI.44/70.31.01.1970.MU, DG.IS\
+    \ [26] de 31.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1970-227386
+  date: '1970-01-31'
+- type: amended_by
+  target: pt:dre:147443:por
+  label: "Alterado o quadro tipo anexo ao Estatuto Hospitalar pelo DEC LEI.498/70.24.10.1970.MSA, DG.IS [247] de 24.10.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-1970-147443
+  date: '1970-10-24'
+- type: amended_by
+  target: pt:dre:643336:por
+  label: "Alterado o quadro tipo anexo ao Estatuto Hospitalar, aprovado pelo presente diploma, pelo DEC LEI.275/71.22.06.1971.MSA,\
+    \ DG.IS [145] de 22.06.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1971-643336
+  date: '1971-06-22'
+- type: amended_by
+  target: pt:dre:681228:por
+  label: "Aumentado o quadro tipo anexo ao Estatuto Hospitalar, aprovado pelo presente diploma, na redacção do Dec Lei 498/70,\
+    \ de 24-Out, Dec Lei 275/71, de 22-Jun e nº3 do art. 71º do Dec Lei 413/71, de 27-Set, pelo DEC LEI.160/72.13.05.1972.MSA,\
+    \ DG.IS [113] de 13.05.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1972-681228
+  date: '1972-05-13'
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693016:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:492675:por
+  label: "Revogados os nºs 1 e 2 do art. 49º pelo DEC LEI.5/77.05.01.1977.MAS, DR.IS [3] de 05.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1977-492675
+  date: '1977-01-05'
+- type: repealed_by
+  target: pt:dre:378964:por
+  label: "Revogado o n.º 1 do artigo 58.º do Estatuto, pelo DEC LEI.301/79.18.08.1979.PCM, DR.IS [190] de 18.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1979-378964
+  date: '1979-08-18'
+- type: repealed_by
+  target: pt:dre:353350:por
+  label: "Revogado o art. 8.º pelo DEC LEI.284/99.1999.07.26.MS DR.S-A [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1999-353350
+  date: '1999-07-26'
+- type: repealed_by
+  target: pt:dre:490426:por
+  label: "Revogado, a partir de 28.09.2009, o nº4 do art. 56º e os arts. 83º e 84º pelo DEC LEI.253/2009.23.09.2009.MS, DR.IS\
+    \ [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-2009-490426
+  date: '2009-09-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:10Z'
   warnings: []
   errors: []
 ---
@@ -200,11 +288,11 @@ Estatuto Hospitalar
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. A organização hospitalar estabelecida pela [Lei n.º 2011](https://diariodarepublica.pt/dr/detalhe/lei/2011-1946-339424), de 2 de Abril de 1946, constitui um sistema unitário, coordenado e funcionalmente integrado, composto pelos estabelecimentos e serviços gerais e especializados de medicina curativa e de reabilitação directamente dependentes do Ministério da Saúde e Assistência, quer pertençam ao Estado e outras entidades públicas, quer às Misericórdias e demais instituições de assistência particular.
+Artigo 1.º - 1. A organização hospitalar estabelecida pela [Lei n.º 2011](https://diariodarepublica.pt/dr/detalhe/lei/2011-1946-339424), de 2 de Abril de 1946, constitui um sistema unitário, coordenado e funcionalmente integrado, composto pelos estabelecimentos e serviços gerais e especializados de medicina curativa e de reabilitação directamente dependentes do Ministério da Saúde e Assistência, quer pertençam ao Estado e outras entidades públicas, quer às Misericórdias e demais instituições de assistência particular.
 
 2. Só a esses estabelecimentos e serviços se aplica o disposto no presente diploma.
 
-###### Art. 2.º - 1. Para efeitos de organização hospitalar, o território metropolitano divide-se em zonas, regiões e sub-regiões.
+Art. 2.º - 1. Para efeitos de organização hospitalar, o território metropolitano divide-se em zonas, regiões e sub-regiões.
 
 2. Cada uma daquelas divisões constitui unidade funcional, provida de meios de acção quantitativa e qualitativamente adequados à área e população que servem.
 
@@ -212,13 +300,13 @@ Estatuto Hospitalar
 
 4. Esta unidade de acção exercer-se-á com salvaguarda da natureza das Misericórdias e demais instituições de assistência particular, de harmonia com o disposto na legislação vigente e no presente diploma e seus regulamentos.
 
-###### Art. 3.º - 1. As zonas hospitalares constituem unidades tècnicamente equipadas, por forma que, em princípio, possam assegurar autònomamente toda a assistência exigida pelas áreas respectivas.
+Art. 3.º - 1. As zonas hospitalares constituem unidades tècnicamente equipadas, por forma que, em princípio, possam assegurar autònomamente toda a assistência exigida pelas áreas respectivas.
 
 2. As regiões hospitalares são divisões intermédias, as quais devem assegurar à população que servem assistência médica de natureza geral e de especialidades correntes.
 
 3. As sub-regiões hospitalares são as divisões primárias da organização, estabelecidas com o objectivo de garantir assistência médica de natureza geral a toda a população.
 
-###### Art. 4.º - 1. A divisão territorial, para efeitos de organização hospitalar, é válida e uniforme tanto para os estabelecimentos e serviços gerais como para os especializados.
+Art. 4.º - 1. A divisão territorial, para efeitos de organização hospitalar, é válida e uniforme tanto para os estabelecimentos e serviços gerais como para os especializados.
 
 2. Pode haver estabelecimentos especializados cuja área territorial abranja mais do que uma região ou mais do que uma zona.
 
@@ -228,7 +316,7 @@ Estatuto Hospitalar
 
 #### SECÇÃO II — Dos elementos constitutivos da organização hospitalar
 
-###### Art. 5.º - 1. A organização hospitalar é constituída pelos seguintes estabelecimentos ou serviços:
+Art. 5.º - 1. A organização hospitalar é constituída pelos seguintes estabelecimentos ou serviços:
 
 a) Hospitais gerais e especializados;
 
@@ -244,17 +332,17 @@ e) Postos de consulta e de socorros.
 
 3. Os hospitais especializados integram-se na organização hospitalar, para efeitos de actuação coordenada, mas sem prejuízo da sua situação dentro dos institutos ou entidades a que pertençam e do regime legal estabelecido na legislação própria.
 
-###### Art. 6.º A criação, extinção ou transformação de estabelecimentos ou serviços hospitalares são da competência ou dependem da autorização do Ministro da Saúde e Assistência, conforme forem oficiais ou particulares.
+Art. 6.º A criação, extinção ou transformação de estabelecimentos ou serviços hospitalares são da competência ou dependem da autorização do Ministro da Saúde e Assistência, conforme forem oficiais ou particulares.
 
-###### Art. 7.º - 1. Os estabelecimentos e serviços hospitalares podem ser centrais, regionais e sub-regionais conforme a área territorial de cuja assistência assumem a responsabilidade.
+Art. 7.º - 1. Os estabelecimentos e serviços hospitalares podem ser centrais, regionais e sub-regionais conforme a área territorial de cuja assistência assumem a responsabilidade.
 
 2. Esta classificação, se não constar do diploma orgânico do estabelecimento ou serviço, será atribuída em despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo.
 
-###### Art. 8.º - 1. Os estabelecimentos e serviços pertencentes ao Estado ou à mesma instituição podem constituir grupos ou centros hospitalares com administração central comum, atribuindo-se, em regulamento, a cada uma das unidades agrupadas ou integradas, quando se trate de serviços oficiais, a autonomia administrativa que for julgada conveniente.
+Art. 8.º - 1. Os estabelecimentos e serviços pertencentes ao Estado ou à mesma instituição podem constituir grupos ou centros hospitalares com administração central comum, atribuindo-se, em regulamento, a cada uma das unidades agrupadas ou integradas, quando se trate de serviços oficiais, a autonomia administrativa que for julgada conveniente.
 
 2. O diploma orgânico do centro ou grupo deve indicar a forma de participação dos estabelecimentos e serviços na administração central e os poderes desta.
 
-###### Art. 9.º - 1. O transporte de doentes para os locais onde devam ser assistidos, bem como o regresso, são considerados actividade de interesse público. As ambulâncias terrestres e áreas dos estabelecimentos e serviços a que este diploma se refere, ou de entidades que recebam comparticipação do Ministério da Saúde e Assistência, deverão harmonizar a sua actividade de acordo com a orientação do mesmo Ministério.
+Art. 9.º - 1. O transporte de doentes para os locais onde devam ser assistidos, bem como o regresso, são considerados actividade de interesse público. As ambulâncias terrestres e áreas dos estabelecimentos e serviços a que este diploma se refere, ou de entidades que recebam comparticipação do Ministério da Saúde e Assistência, deverão harmonizar a sua actividade de acordo com a orientação do mesmo Ministério.
 
 2. A coordenação das ambulâncias é realizada, nas regiões, pelos hospitais regionais e, nas zonas, pelas respectivas direcções ou pelos hospitais centrais.
 
@@ -262,7 +350,7 @@ e) Postos de consulta e de socorros.
 
 4. Os estabelecimentos e serviços hospitalares podem abonar aos doentes gratuitos e porcionistas que tiverem alta as despesas de transporte para regresso ao domicílio, devendo ser reembolsados deste encargo pelas câmaras municipais respectivas, nos termos estabelecidos para o pagamento dos demais encargos camarários.
 
-###### Art. 10.º - 1. Podem ser criados serviços complementares da organização hospitalar com o objectivo de realizar determinados fins de interesse ou utilização comum aos estabelecimentos e serviços da mesma organização.
+Art. 10.º - 1. Podem ser criados serviços complementares da organização hospitalar com o objectivo de realizar determinados fins de interesse ou utilização comum aos estabelecimentos e serviços da mesma organização.
 
 2. Estes serviços terão o regime de serviços públicos ou das pessoas colectivas de utilidade pública administrativa, conforme for julgado conveniente em cada caso.
 
@@ -272,45 +360,45 @@ e) Postos de consulta e de socorros.
 
 5. Os estabelecimentos e serviços que, através do Ministério de Saúde e Assistência, recebam directa ou indirectamente financiamento do Estado podem ser obrigatòriamente incluídos no esquema dos serviços complementares da organização hospitalar.
 
-###### Art. 11.º - 1. Junto dos hospitais, e dentro dos orçamentos dos serviços, podem instalar-se, sempre que possível e necessário, lares para receber doentes provenientes de outras localidades e que estejam a ser assistidos em regime ambulatório.
+Art. 11.º - 1. Junto dos hospitais, e dentro dos orçamentos dos serviços, podem instalar-se, sempre que possível e necessário, lares para receber doentes provenientes de outras localidades e que estejam a ser assistidos em regime ambulatório.
 
 2. Estes lares constituem extensão para-hospitalar e dependem dos hospitais a que estão anexos, podendo funcionar em colaboração financeira com entidades particulares, ou financeira e técnica com o Instituto de Assistência à Família, quando nisso houver conveniência.
 
 #### SECÇÃO III — Princípios orientadores da organização hospitalar
 
-###### Art. 12.º - 1. São de interesse público as actividades exercidas pela organização hospitalar, pelo que lhes são devidas as correspondentes protecções, isenções e regalias e impostas as limitações previstas nas leis.
+Art. 12.º - 1. São de interesse público as actividades exercidas pela organização hospitalar, pelo que lhes são devidas as correspondentes protecções, isenções e regalias e impostas as limitações previstas nas leis.
 
 2. Os estabelecimentos e serviços hospitalares oficiais gozam de todas as isenções e regalias inerentes à sua condição de serviços públicos. Os demais gozam das isenções e regalias próprias das instituições de assistência particular.
 
-###### Art. 13.º - 1. Os estabelecimentos e serviços que constituem a organização hospitalar ordenam-se segundo a hierarquia técnica dos seus esquemas de serviços, são complementares uns dos outros, prestam-se cooperação mútua e devem actuar de modo coordenado.
+Art. 13.º - 1. Os estabelecimentos e serviços que constituem a organização hospitalar ordenam-se segundo a hierarquia técnica dos seus esquemas de serviços, são complementares uns dos outros, prestam-se cooperação mútua e devem actuar de modo coordenado.
 
 2. Dentro de cada divisão territorial, os estabelecimentos e serviços de grau superior têm responsabilidade de apoio em relação aos de grau inferior.
 
-###### Art. 14.º - 1. A acção dos estabelecimentos e serviços hospitalares é de natureza simultâneamente médica e social.
+Art. 14.º - 1. A acção dos estabelecimentos e serviços hospitalares é de natureza simultâneamente médica e social.
 
 2. A acção médica é destinada principalmente à cura e reabilitação dos doentes, sem prejuízo da acção preventiva que aqueles estabelecimentos e serviços devam exercer. A acção social tem principalmente em vista estabelecer as relações entre as necessidades pessoais ou familiares e os casos de doença, a fim de serem tidos em conta no tratamento e no regresso dos doentes ao meio social; visa igualmente promover e facilitar o contacto dos doentes e suas famílias com os serviços exteriores cuja intervenção seja aconselhável para resolver ou debelar os seus estados de necessidade.
 
 3. Os hospitais sub-regionais, quando funcionem também como centros de saúde, podem ter acção fundamentalmente preventiva. O estatuto destes hospitais-centros de saúde será determinado, em cada caso, por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 15.º A reabilitação dos doentes, seja física ou psíquica, deve ter normalmente início nos serviços de carácter predominantemente curativo, a completar, quando necessário, em estabelecimentos ou serviços destinados a essa função.
+Art. 15.º A reabilitação dos doentes, seja física ou psíquica, deve ter normalmente início nos serviços de carácter predominantemente curativo, a completar, quando necessário, em estabelecimentos ou serviços destinados a essa função.
 
-###### Art. 16.º - 1. Os hospitais que forem designados escolares devem organizar-se por forma a assegurar às Faculdades de Medicina as condições necessárias ao ensino e à investigação, na parte que lhes respeita.
+Art. 16.º - 1. Os hospitais que forem designados escolares devem organizar-se por forma a assegurar às Faculdades de Medicina as condições necessárias ao ensino e à investigação, na parte que lhes respeita.
 
 2. Os mesmos hospitais e os outros estabelecimentos e serviços hospitalares, no nível respectivo e de acordo com a sua natureza, devem cooperar com os demais serviços ou estabelecimentos destinados à formação ou aperfeiçoamento dos profissionais de saúde e assistência.
 
 3. Na falta ou insuficiência de estabelecimentos adequados, podem ser criados nos hospitais cursos de formação de profissionais auxiliares de medicina ou de pessoal administrativo que sejam indispensáveis. Podem sempre organizar-se estágios de aperfeiçoamento para todas as profissões hospitalares.
 
-###### Art. 17.º - 1. Devem ser estabelecidas normas que favoreçam a cooperação entre a clínica privada e a realizada em estabelecimentos ou serviços de natureza hospitalar.
+Art. 17.º - 1. Devem ser estabelecidas normas que favoreçam a cooperação entre a clínica privada e a realizada em estabelecimentos ou serviços de natureza hospitalar.
 
 2. Quando as circunstâncias o aconselhem, pode autorizar-se que os meios de trabalho existentes nos estabelecimentos ou serviços hospitalares sejam facultados, mediante regulamentação adequada, aos médicos pertencentes ou não aos respectivos quadros, para assistir aos seus doentes privados.
 
-###### Art. 18.º - 1. É dever de todos os hospitais, que para tanto tenham condições, a colaboração na investigação das ciências médicas sociais e de administração hospitalar.
+Art. 18.º - 1. É dever de todos os hospitais, que para tanto tenham condições, a colaboração na investigação das ciências médicas sociais e de administração hospitalar.
 
 2. Para este efeito, devem ser tomadas disposições, no que respeita à organização de serviços e quadros de pessoal, podendo criar-se nos hospitais centros ou institutos de investigação. Estes centros ou institutos serão criados, nos hospitais oficiais, mediante portaria conjunta dos Ministros das Finanças e da Saúde e Assistência e, nos demais casos, mediante despacho do Ministro da Saúde e Assistência. Tratando-se de centro ou instituto a criar num hospital escolar, a respectiva portaria será também assinada pelo Ministro da Educação Nacional.
 
 3. Com o mesmo propósito, podem ser autorizados acordos de cooperação entre os serviços hospitalares e as instituições científicas ou organizações que se proponham realizar estudos de interesse geral, sobretudo quando sejam de molde a beneficiar a assistência hospitalar.
 
-###### Art. 19.º - 1. Os estabelecimentos e serviços hospitalares devem colaborar nos planos gerais de prevenção de doenças, através dos serviços de tratamento ou diagnóstico de que disponham.
+Art. 19.º - 1. Os estabelecimentos e serviços hospitalares devem colaborar nos planos gerais de prevenção de doenças, através dos serviços de tratamento ou diagnóstico de que disponham.
 
 2. A colaboração dos estabelecimentos e serviços hospitalares na prevenção da doença inclui a obrigação de promoverem a educação sanitária dos doentes e dos seus familiares, sobretudo através dos serviços ambulatórios e domiciliários, bem como a do pessoal ao seu serviço, podendo também abranger o encargo de executarem ou auxiliarem a executar exames periódicos da população, nos termos estabelecidos pelo Ministro da Saúde e Assistência.
 
@@ -318,7 +406,7 @@ e) Postos de consulta e de socorros.
 
 4. Devem também ser tomadas medidas para facilitar o trabalho dos hospitais sub-regionais de menor dimensão como centros de saúde e para estabelecer planos de acção integrada nos domínios da medicina curativa e da saúde pública.
 
-###### Art. 20.º - 1. A assistência hospitalar obedece às directrizes seguintes:
+Art. 20.º - 1. A assistência hospitalar obedece às directrizes seguintes:
 
 a) O seu fim primário é o tratamento e a reabilitação dos doentes, sem prejuízo da acção preventiva que devam exercer e do disposto na alínea g) quanto às necessidades de ensino;
 
@@ -336,7 +424,7 @@ g) A prioridade na admissão aos cuidados hospitalares deve basear-se em critér
 
 h) A assistência hospitalar não termina, necessàriamente, com a alta dos doentes. Os serviços hospitalares devem procurar, tanto quanto possível, manter com eles contacto até que voltem à vida activa e, mesmo depois disso, para efectuar as revisões ou questionários indispensáveis ao conhecimento da evolução do processo clínico.
 
-###### Art. 21.º - 1. O acesso aos cuidados hospitalares deve ser facilitado a todos quanto deles necessitem, através de medidas que se proponham:
+Art. 21.º - 1. O acesso aos cuidados hospitalares deve ser facilitado a todos quanto deles necessitem, através de medidas que se proponham:
 
 a) Manter, quando necessário, centrais destinadas a orientar os doentes para os serviços mais adequados às suas situações clínicas;
 
@@ -346,7 +434,7 @@ c) Evitar que os encargos com a assistência excedam, para os doentes e respecti
 
 d) Promover a ligação entre a organização hospitalar dependente do Ministério da Saúde e Assistência e os serviços médicos que pertençam ou dependam de outros Ministérios.
 
-###### Art. 22.º - 1. Podem os serviços hospitalares de determinada área estabelecer entre si acordos de cooperação, os quais só serão válidos depois de aprovados pelo Ministro da Saúde e Assistência.
+Art. 22.º - 1. Podem os serviços hospitalares de determinada área estabelecer entre si acordos de cooperação, os quais só serão válidos depois de aprovados pelo Ministro da Saúde e Assistência.
 
 2. A cooperação objecto dos acordos pode incidir sobre:
 
@@ -366,7 +454,7 @@ f) Quaisquer outras matérias de interesse comum.
 
 ### CAPÍTULO II — Do planeamento hospitalar
 
-###### Art. 23.º - 1. Em matéria de planeamento hospitalar, compete ao Ministério da Saúde e Assistência, pela Direcção-Geral dos Hospitais:
+Art. 23.º - 1. Em matéria de planeamento hospitalar, compete ao Ministério da Saúde e Assistência, pela Direcção-Geral dos Hospitais:
 
 a) Verificar, de modo sistemático e permanente, as necessidades da população em serviços hospitalares e prever a sua evolução;
 
@@ -386,7 +474,7 @@ e) Facilitar o desenvolvimento da complementaridade dos serviços.
 
 4. Podem ser criados, para efeito de planeamento hospitalar, grupos constituídos por técnicos, funcionando junto da Direcção-Geral dos Hospitais ou da Comissão de Construções Hospitalares, nos termos a definir em portaria do Ministro da Saúde e Assistência ou dos Ministros das Obras Públicas e da Saúde e Assistência, assinada também pelo Ministro das Finanças, quando envolver encargos não previstos no orçamento daqueles serviços.
 
-###### Art. 24.º - 1. À mesma Direcção-Geral compete, ainda, no que respeita à organização hospitalar:
+Art. 24.º - 1. À mesma Direcção-Geral compete, ainda, no que respeita à organização hospitalar:
 
 a) Autorizar a criação, extinção ou transformação de unidades hospitalares, qualquer que seja a sua natureza ou dimensão, verificando a sua conformidade com os planos gerais de cobertura hospitalar;
 
@@ -402,7 +490,7 @@ f) Prestar assistência técnica às administrações no estudo das matérias re
 
 2. Das decisões da Direcção-Geral dos Hospitais quanto à matéria contida nas alíneas a) a c), cabe recurso para o Ministro da Saúde e Assistência.
 
-###### Art. 25.º - 1. A Direcção-Geral dos Hospitais deve publicar o inventário geral da organização hospitalar e revê-lo periòdicamente.
+Art. 25.º - 1. A Direcção-Geral dos Hospitais deve publicar o inventário geral da organização hospitalar e revê-lo periòdicamente.
 
 2. Este inventário deve conter a enumeração e descrição técnica dos estabelecimentos e serviços que actualmente integram a organização hospitalar e daqueles que vierem a ser criados, para o que serão fornecidos aquela Direcção-Geral os elementos de informação necessários.
 
@@ -416,43 +504,43 @@ c) Fazer parte das organizações complementares, nos termos dos respectivos dip
 
 d) Ser designados para comissões e convocados para reuniões destinadas ao estudo de assuntos de interesse hospitalar.
 
-###### Art. 26.º Só podem usar a designação de «hospital» os estabelecimentos que sejam inscritos como tais no inventário geral da organização hospitalar.
+Art. 26.º Só podem usar a designação de «hospital» os estabelecimentos que sejam inscritos como tais no inventário geral da organização hospitalar.
 
 ### CAPÍTULO III — Do regime jurídico dos estabelecimentos e serviços hospitalares e sua administração
 
-###### Art. 27.º - 1. Os hospitais gerais oficiais gozam de personalidade jurídica e de autonomia administrativa, nos termos deste diploma e seus regulamentos.
+Art. 27.º - 1. Os hospitais gerais oficiais gozam de personalidade jurídica e de autonomia administrativa, nos termos deste diploma e seus regulamentos.
 
 2. Os hospitais e serviços especializados oficiais têm personalidade jurídica e autonomia administrativa, se lhes forem concedidos nos diplomas orgânicos ou, posteriormente, nos termos da legislação vigente ou em portaria do Ministro da Saúde e Assistência.
 
 3. Os demais estabelecimentos e serviços hospitalares continuam a reger-se pela legislação própria das instituições a que pertencem, sob a tutela administrativa do Ministério da Saúde e Assistência, exercida através das Direcções-Gerais da Assistência e dos Hospitais.
 
-###### Art. 28.º - 1. Os orçamentos dos hospitais administrados por Misericórdias ou outras instituições de assistência particular devem apresentar-se, tanto quanto possível, separados e em anexo aos orçamentos gerais dessas instituições, dos quais apenas devem constar os totais das receitas e despesas previstas para os referidos hospitais. Esta separação é obrigatória quanto aos hospitais centrais e regionais.
+Art. 28.º - 1. Os orçamentos dos hospitais administrados por Misericórdias ou outras instituições de assistência particular devem apresentar-se, tanto quanto possível, separados e em anexo aos orçamentos gerais dessas instituições, dos quais apenas devem constar os totais das receitas e despesas previstas para os referidos hospitais. Esta separação é obrigatória quanto aos hospitais centrais e regionais.
 
 2. Estes orçamentos devem obedecer às regras estabelecidas pelo Ministro da Saúde e Assistência e serão aprovados pela Direcção-Geral da Assistência, ouvida a Direcção-Geral dos Hospitais.
 
 3. O Ministro da Saúde e Assistência pode chamar a si a aprovação destes orçamentos, quando o entender.
 
-###### Art. 29.º Em casos excepcionais, devidamente comprovados pelas administrações dos serviços, com parecer da Direcção-Geral dos Hospitais e autorização dos Ministros das Finanças e da Saúde e Assistência, podem ser processados, liquidados e pagos, em conta das dotações respectivas do orçamento do ano que estiver correndo, encargos contraídos em anos anteriores.
+Art. 29.º Em casos excepcionais, devidamente comprovados pelas administrações dos serviços, com parecer da Direcção-Geral dos Hospitais e autorização dos Ministros das Finanças e da Saúde e Assistência, podem ser processados, liquidados e pagos, em conta das dotações respectivas do orçamento do ano que estiver correndo, encargos contraídos em anos anteriores.
 
-###### Art. 30.º - 1. Os Ministros das Finanças e da Saúde e Assistência podem autorizar os estabelecimentos e serviços hospitalares oficiais a contrair empréstimos destinados a antecipar receitas, até 70 por cento dos créditos, por cobrar, dos estabelecimentos interessados.
+Art. 30.º - 1. Os Ministros das Finanças e da Saúde e Assistência podem autorizar os estabelecimentos e serviços hospitalares oficiais a contrair empréstimos destinados a antecipar receitas, até 70 por cento dos créditos, por cobrar, dos estabelecimentos interessados.
 
 2. No que respeita às Misericórdias e demais instituições de assistência particular, mantém-se em vigor a legislação que lhes é própria, quanto a empréstimos.
 
-###### Art. 31.º Os serviços e estabelecimentos hospitalares, oficiais ou particulares, quando encerrem as gerências com saldo positivo de exploração, devem constituir fundos de reserva para manutenção e remodelação das instalações e manutenção e substituição do apetrechamento, nos termos que vierem a ser fixados em despacho do Ministro da Saúde e Assistência.
+Art. 31.º Os serviços e estabelecimentos hospitalares, oficiais ou particulares, quando encerrem as gerências com saldo positivo de exploração, devem constituir fundos de reserva para manutenção e remodelação das instalações e manutenção e substituição do apetrechamento, nos termos que vierem a ser fixados em despacho do Ministro da Saúde e Assistência.
 
-###### Art. 32.º - 1. As receitas dos hospitais geridos por Misericórdias e demais instituições de assistência particular que excederem as suas necessidades normais de administração devem ser utilizadas na valorização dos respectivos estabelecimentos.
+Art. 32.º - 1. As receitas dos hospitais geridos por Misericórdias e demais instituições de assistência particular que excederem as suas necessidades normais de administração devem ser utilizadas na valorização dos respectivos estabelecimentos.
 
 2. Quando se verifique que as Misericórdias ou outras instituições de assistência particular realizam, nos seus estabelecimentos hospitalares, despesas vultosas de carácter extraordinário, com prejuízo do pagamento dos encargos correntes, o Ministro da Saúde e Assistência pode determinar, por despacho, a aplicação de um programa de pagamento de débitos, com estreita limitação dos gastos de natureza extraordinária.
 
-###### Art. 33.º - 1. O financiamento dos estabelecimentos, serviços e instituições dependentes do Ministério da Saúde e Assistência que visem actividades hospitalares continuam a reger-se pelo disposto no [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, em tudo o que não estiver expressamente previsto no presente diploma.
+Art. 33.º - 1. O financiamento dos estabelecimentos, serviços e instituições dependentes do Ministério da Saúde e Assistência que visem actividades hospitalares continuam a reger-se pelo disposto no [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, em tudo o que não estiver expressamente previsto no presente diploma.
 
 2. As câmaras municipais escriturarão as derramas referidas no artigo 34.º do decreto-lei citado no número anterior em rubrica especial da sua contabilidade e enviarão anualmente, até 31 de Março, à Direcção-Geral dos Hospitais e à Direcção-Geral das Contribuições e Impostos mapas demonstrativos da aplicação, no ano anterior, das derramas cobradas. Os saldos que transitem de um ano para o outro devem ser escriturados na mesma rubrica e só poderão ter aplicação no pagamento dos encargos de natureza daqueles para cuja cobertura foram autorizadas ou dos decorrentes da execução do [Decreto-Lei n.º 46069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46069-1964-535873), de 9 de Dezembro de 1964.
 
-###### Art. 34.º - 1. Os subsídios do Tesouro destinados a comparticipar nos encargos de sustentação dos hospitais gerais centrais, nos termos dos artigos 8.º, alínea c), 25.º, n.º 2, e 26.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), devem ser inscritos no Orçamento Geral do Estado numa verba global, competindo a sua repartição ao Ministro da Saúde e Assistência.
+Art. 34.º - 1. Os subsídios do Tesouro destinados a comparticipar nos encargos de sustentação dos hospitais gerais centrais, nos termos dos artigos 8.º, alínea c), 25.º, n.º 2, e 26.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), devem ser inscritos no Orçamento Geral do Estado numa verba global, competindo a sua repartição ao Ministro da Saúde e Assistência.
 
 2. Se a evolução da situação financeira dos hospitais o aconselhar, o Ministro das Finanças, ouvido o Ministro da Saúde e Assistência, pode determinar que se individualizem, no Orçamento Geral do Estado, as dotações e subsídios dos hospitais gerais centrais.
 
-###### Art. 35.º - 1. Em ordem a conseguir a maior eficiência técnica e social, os estabelecimentos e serviços hospitalares devem organizar-se e ser administrados em termos de gestão empresarial, garantindo à colectividade o mínimo custo económico no seu funcionamento.
+Art. 35.º - 1. Em ordem a conseguir a maior eficiência técnica e social, os estabelecimentos e serviços hospitalares devem organizar-se e ser administrados em termos de gestão empresarial, garantindo à colectividade o mínimo custo económico no seu funcionamento.
 
 2. Nesse sentido, cabe-lhes:
 
@@ -468,13 +556,13 @@ d) Efectuar a vigilância permanente da gerência, de modo a manter saneada a si
 
 ### CAPÍTULO IV — Dos órgãos de administração e de direcção técnica dos estabelecimentos e serviços hospitalares
 
-###### Art. 36.º - 1. Nos hospitais há órgãos de administração e de direcção técnica, podendo ser, uns e outros, individuais ou colegiais.
+Art. 36.º - 1. Nos hospitais há órgãos de administração e de direcção técnica, podendo ser, uns e outros, individuais ou colegiais.
 
 2. Os órgãos colegiais de administração têm funções deliberativas e consultivas e neles devem estar representados, nos termos do Regulamento Geral dos Hospitais, os principais departamentos ou sectores.
 
 3. Nos órgãos colegiais de direcção técnica haverá, quando se julgue conveniente, representantes dos serviços de saúde da área respectiva. Em cada um dos hospitais escolares haverá ainda representação da respectiva Faculdade de Medicina.
 
-###### Art. 37.º - 1. Aos órgãos de administração e de direcção técnica será conferida a competência necessária para a realização dos fins próprios dos estabelecimentos ou serviços a que pertencem.
+Art. 37.º - 1. Aos órgãos de administração e de direcção técnica será conferida a competência necessária para a realização dos fins próprios dos estabelecimentos ou serviços a que pertencem.
 
 2. Entre os deveres destes órgãos destacam-se os seguintes:
 
@@ -488,15 +576,15 @@ d)A legalidade da efectivação das despesas e da admissão do pessoal, nomeadam
 
 e) A disciplina do pessoal e o rendimento do seu trabalho.
 
-###### Art. 38.º - 1. Nas Misericórdias e demais instituições particulares de assistência a administração dos hospitais cabe aos órgãos estatutários, em colaboração estreita com os administradores e directores clínicos, podendo ser atribuídos deveres específicos e correspondentes competências às mesas ou direcções e aos provedores ou presidentes.
+Art. 38.º - 1. Nas Misericórdias e demais instituições particulares de assistência a administração dos hospitais cabe aos órgãos estatutários, em colaboração estreita com os administradores e directores clínicos, podendo ser atribuídos deveres específicos e correspondentes competências às mesas ou direcções e aos provedores ou presidentes.
 
 2. Tratando-se de hospitais centrais, os deveres e competências a que se refere o número anterior poderão ser atribuídos, sob a orientação do provedor ou de quem o represente, a órgãos específicos de organização hospitalar, sem prejuízo de se manter a superior administração da instituição.
 
-###### Art. 39.º Os directores clínicos, os conselhos técnicos e as comissões médicas podem solicitar aos provedores que submetam a despacho superior o seu parecer em relação a quaisquer decisões ou deliberações de carácter técnico que considerem lesivas dos interesses hospitalares. Os despachos que a este respeito proferir o Ministro da Saúde e Assistência ou, por delegação sua, o director-geral dos Hospitais, não admitem recurso.
+Art. 39.º Os directores clínicos, os conselhos técnicos e as comissões médicas podem solicitar aos provedores que submetam a despacho superior o seu parecer em relação a quaisquer decisões ou deliberações de carácter técnico que considerem lesivas dos interesses hospitalares. Os despachos que a este respeito proferir o Ministro da Saúde e Assistência ou, por delegação sua, o director-geral dos Hospitais, não admitem recurso.
 
 ### CAPÍTULO V — Dos serviços e seu funcionamento
 
-###### Art. 40.º - 1. Os estabelecimentos hospitalares organizam-se em serviços que devem constituir um conjunto actuando coordenada e integradamente, sob a responsabilidade dos órgãos de administração e de direcção técnica.
+Art. 40.º - 1. Os estabelecimentos hospitalares organizam-se em serviços que devem constituir um conjunto actuando coordenada e integradamente, sob a responsabilidade dos órgãos de administração e de direcção técnica.
 
 2. Os serviços classificam-se em dois grupos:
 
@@ -506,17 +594,17 @@ b) Serviços de apoio geral.
 
 3 Nos hospitais escolares, quando houver que proceder à alteração dos esquemas dos serviços de acção médica, será sempre ouvida a respectiva Faculdade de Medicina.
 
-###### Art. 41.º - 1. Sem prejuízo da autonomia e da responsabilidade técnica atribuída a cada serviço, todos ficam sujeitos à orientação geral que superiormente for definida através dos órgãos de administração e de direcção técnica dos estabelecimentos hospitalares a que pertençam.
+Art. 41.º - 1. Sem prejuízo da autonomia e da responsabilidade técnica atribuída a cada serviço, todos ficam sujeitos à orientação geral que superiormente for definida através dos órgãos de administração e de direcção técnica dos estabelecimentos hospitalares a que pertençam.
 
 2. Os serviços respondem pelos resultados do exercício da sua actividade perante os órgãos de administração e direcção técnica dos respectivos estabelecimentos, competindo a cada um conseguir a máxima eficiência com o mais económico aproveitamento dos meios de acção postos ao seu dispor.
 
-###### Art. 42.º - 1. Para cada serviço deve haver sempre um director, chefe ou encarregado que o oriente, em ordem a obter o maior rendimento possível.
+Art. 42.º - 1. Para cada serviço deve haver sempre um director, chefe ou encarregado que o oriente, em ordem a obter o maior rendimento possível.
 
 2. Os directores, chefes e encarregados representam a Administração junto do serviço de cuja eficiência, economia e disciplina são responsáveis.
 
-###### Art. 43.º Para estabelecer, a título normal, a ligação entre os serviços que em cada hospital actuem em matéria de interesse comum devem ser constituídos grupos ou comissões interserviços, permanentes ou eventuais.
+Art. 43.º Para estabelecer, a título normal, a ligação entre os serviços que em cada hospital actuem em matéria de interesse comum devem ser constituídos grupos ou comissões interserviços, permanentes ou eventuais.
 
-###### Art. 44.º - 1. Os serviços clínicos devem funcionar sempre que possível, em regime de presença médica constante, constituindo-se os turnos de pessoal que para isso sejam necessários.
+Art. 44.º - 1. Os serviços clínicos devem funcionar sempre que possível, em regime de presença médica constante, constituindo-se os turnos de pessoal que para isso sejam necessários.
 
 2. A adopção do regime de presença médica constante deve fazer-se gradualmente, à medida que as instalações e as dotações dos serviços em pessoal e em material o permitam.
 
@@ -524,9 +612,9 @@ b) Serviços de apoio geral.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 45.º O pessoal hospitalar exerce uma função de interesse público, só devendo ser admitidos nos respectivos quadros quem reúna condições de idoneidade moral e profissional adequadas ao exercício daquelas funções.
+Art. 45.º O pessoal hospitalar exerce uma função de interesse público, só devendo ser admitidos nos respectivos quadros quem reúna condições de idoneidade moral e profissional adequadas ao exercício daquelas funções.
 
-###### Art. 46.º - 1. O pessoal trabalha em tempo completo ou em tempo parcial, conforme for mais conveniente para os interesses dos estabelecimentos e serviços, devendo, todavia, o horário ser, tanto quanto possível, em tempo completo.
+Art. 46.º - 1. O pessoal trabalha em tempo completo ou em tempo parcial, conforme for mais conveniente para os interesses dos estabelecimentos e serviços, devendo, todavia, o horário ser, tanto quanto possível, em tempo completo.
 
 2. A aplicação do regime de tempo completo para pessoal médico será autorizada, caso a caso, pelo Ministro da Saúde e Assistência, à medida que sejam atingidas as indispensáveis condições de pessoal, de material e de meios financeiros.
 
@@ -534,13 +622,13 @@ b) Serviços de apoio geral.
 
 4. Quando as circunstâncias o justifiquem e os interessados derem a sua anuência, podem ser estabelecidos horários de trabalho com períodos suplementares, mediante pagamento adequado, até ao limite máximo de um terço do vencimento correspondente ao tempo de serviço completo.
 
-###### Art. 47.º - 1. As remunerações do pessoal hospitalar devem ser estabelecidas tendo em atenção a hierarquia de cada grau profissional, a preparação que lhe é exigida, o horário de trabalho a que fica submetido, os riscos profissionais, os requisitos de acesso ou promoção e ainda a categoria do estabelecimento ou serviço.
+Art. 47.º - 1. As remunerações do pessoal hospitalar devem ser estabelecidas tendo em atenção a hierarquia de cada grau profissional, a preparação que lhe é exigida, o horário de trabalho a que fica submetido, os riscos profissionais, os requisitos de acesso ou promoção e ainda a categoria do estabelecimento ou serviço.
 
 2. Em termos a regulamentar, serão concedidos subsídios de fixação a médicos e enfermeiros, em localidades mais desfavorecidas e, bem assim, incentivos de produtividade, ouvido o Ministro das Finanças.
 
 3. Também, em regulamento, pode ser estabelecida a forma de classificar o trabalho dos funcionários e empregados e a influência que essa classificação deve ter nos acessos e promoções.
 
-###### Art. 48.º - 1. O pessoal que intervenha directamente na assistência prestada pode receber, além da sua remuneração, as verbas que lhe sejam destinadas, nos termos do artigo 17.º, do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
+Art. 48.º - 1. O pessoal que intervenha directamente na assistência prestada pode receber, além da sua remuneração, as verbas que lhe sejam destinadas, nos termos do artigo 17.º, do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
 
 2. Das verbas de pessoal referidas no número anterior pode ser retirada uma quota fixa para assegurar o nível de vencimentos adequado ao pessoal da assistência directa.
 
@@ -550,13 +638,13 @@ b) Serviços de apoio geral.
 
 5. Para efeitos do disposto neste artigo, é criado desde já o fundo de compensação hospitalar, com autonomia administrativa, a gerir pela Direcção-Geral dos Hospitais. O fundo terá um regulamento e os seus encargos de administração serão suportados pelo mesmo fundo.
 
-###### Art. 49.º - 1. O limite máximo de idade para admissão de pessoal médico, mesmo em lugares de acesso, nos estabelecimentos e serviços hospitalares é de 55 anos.
+Art. 49.º - 1. O limite máximo de idade para admissão de pessoal médico, mesmo em lugares de acesso, nos estabelecimentos e serviços hospitalares é de 55 anos.
 
 2. Para pessoal de enfermagem e técnico auxiliar este limite é de 40 anos.
 
 3. Podem ser admitidos nos referidos estabelecimentos e serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos. Este limite baixa para 16 anos em relação às categorias de aprendizes.
 
-###### Art. 50.º - 1. O provimento do pessoal dos estabelecimentos e serviços hospitalares oficiais cabe ao Ministro da Saúde e Assistência.
+Art. 50.º - 1. O provimento do pessoal dos estabelecimentos e serviços hospitalares oficiais cabe ao Ministro da Saúde e Assistência.
 
 2. As administrações podem admitir pessoal, em regime de prestação de serviços ou de assalariamento, em caso de urgência ou para tarefas eventuais, pelo período máximo de 30 dias, ao fim do qual o pessoal deve ser dispensado. No caso de ser indispensável a sua permanência ao serviço para além desse período, poderá o pessoal ser contratado ou manter-se o assalariamento mediante despacho do Ministro da Saúde e Assistência.
 
@@ -564,7 +652,7 @@ b) Serviços de apoio geral.
 
 4. O primeiro provimento é feito em regime provisório, pelo prazo de três anos, salvo se houver disposição legal que disponha diferentemente. Findo o período provisório e se o serviço prestado for classificado de bom, o provimento pode ser convertido em definitivo.
 
-###### Art. 51.º - 1. O provimento do pessoal dos hospitais e serviços pertencentes a Misericórdias ou outras instituições de assistência particular cabe aos órgãos de administração respectivos, observados os requisitos que forem estabelecidos no Regulamento Geral dos Hospitais e nas instruções complementares.
+Art. 51.º - 1. O provimento do pessoal dos hospitais e serviços pertencentes a Misericórdias ou outras instituições de assistência particular cabe aos órgãos de administração respectivos, observados os requisitos que forem estabelecidos no Regulamento Geral dos Hospitais e nas instruções complementares.
 
 2. É aplicável ao primeiro provimento deste pessoal o disposto no n.º 4 do artigo anterior.
 
@@ -572,17 +660,17 @@ b) Serviços de apoio geral.
 
 4. O provimento do administrador e do director clínico carece de confirmação do Ministro da Saúde e Assistência.
 
-###### Art. 52.º - 1. A decisão sobre os pedidos de exoneração e as dispensas de pessoal cabe às entidades que tenham competência para o respectivo provimento.
+Art. 52.º - 1. A decisão sobre os pedidos de exoneração e as dispensas de pessoal cabe às entidades que tenham competência para o respectivo provimento.
 
 2. As decisões impondo a demissão do pessoal referido no n.º 4 do artigo anterior carecem igualmente de confirmação.
 
-###### Art. 53.º - 1. Os funcionários do Ministério da Saúde e Assistência, devidamente autorizados, podem, em comissão de serviço, ser contratados pelas mesas ou direcções das Misericórdias e demais instituições de assistência particular para exercer funções, por tempo limitado, nos seus estabelecimentos e serviços hospitalares, desde que não prejudiquem direitos de outros servidores.
+Art. 53.º - 1. Os funcionários do Ministério da Saúde e Assistência, devidamente autorizados, podem, em comissão de serviço, ser contratados pelas mesas ou direcções das Misericórdias e demais instituições de assistência particular para exercer funções, por tempo limitado, nos seus estabelecimentos e serviços hospitalares, desde que não prejudiquem direitos de outros servidores.
 
 2. Aos funcionários em comissão são garantidos todo os direitos no lugar de origem, incluindo os de acesso, e de subscritores da Caixa Geral de Aposentações, continuando a descontar para a mesma Caixa enquanto durar a comissão.
 
 3. Os empregados das Misericórdias e demais instituições de assistência particular com provimento definitivo podem ser nomeados para serviços do Ministério da Saúde e Assistência, em regime de comissão de serviço, nos termos do n.º 1, mantendo todos os direitos do lugar de origem, incluindo os de acesso e de subscritores da Caixa de Previdência do Pessoal da Assistência.
 
-###### Art. 54.º - 1. O desempenho de funções hospitalares fica sujeito às seguintes incompatibilidades:
+Art. 54.º - 1. O desempenho de funções hospitalares fica sujeito às seguintes incompatibilidades:
 
 a) Direcção ou chefia de mais de um serviço, dentro do mesmo hospital ou em vários hospitais;
 
@@ -600,11 +688,11 @@ d) Exercício de mais de dois cargos médicos, farmacêuticos ou de enfermagem e
 
 5. Quando os hospitais facultem aos médicos que neles trabalham a possibilidade de aí poderem exercer toda a sua actividade clínica, a incompatibilidade referida na alínea b) do n.º 1 torna-se extensiva à propriedade ou sociedade, bem como à prestação de serviços em casas de saúde.
 
-###### Art. 55.º - 1. Os actuais servidores hospitalares abrangidos por alguma das incompatibilidades estabelecidas no artigo anterior devem optar, por escrito e dentro de seis meses, pela actividade que mais lhes interessa, para o que serão pessoalmente notificados pelas administrações. Exceptuam-se os casos previstos na alínea b) do n.º 1 e no n.º 3, cujas determinações se aplicarão apenas, para futuro, sem prejuízo do número seguinte.
+Art. 55.º - 1. Os actuais servidores hospitalares abrangidos por alguma das incompatibilidades estabelecidas no artigo anterior devem optar, por escrito e dentro de seis meses, pela actividade que mais lhes interessa, para o que serão pessoalmente notificados pelas administrações. Exceptuam-se os casos previstos na alínea b) do n.º 1 e no n.º 3, cujas determinações se aplicarão apenas, para futuro, sem prejuízo do número seguinte.
 
 2. As autorizações para acumular cargos, nos casos em que a lei o permite, dependem sempre da compatibilidade de horários e do não prejuízo para o serviço.
 
-###### Art. 56.º - 1. O pessoal dos hospitais e serviços da organização hospitalar, bem como todos os que ali exerçam funções por eles remunerados, temporárias ou permanentes, ficam sujeitos ao regime disciplinar dos servidores civis do Estado.
+Art. 56.º - 1. O pessoal dos hospitais e serviços da organização hospitalar, bem como todos os que ali exerçam funções por eles remunerados, temporárias ou permanentes, ficam sujeitos ao regime disciplinar dos servidores civis do Estado.
 
 2. A este regime podem ser introduzidas alterações no Regulamento Geral dos Hospitais, no que respeita aos estabelecimentos das Misericórdias e demais instituições de assistência particular, para o adaptar à natureza específica dos mesmos.
 
@@ -612,11 +700,11 @@ d) Exercício de mais de dois cargos médicos, farmacêuticos ou de enfermagem e
 
 4. O pessoal religioso tem estatuto especial.
 
-###### Art. 57.º - 1. Todo o pessoal hospitalar é obrigado a guardar segredo de ofício relativamente aos factos de que tenha conhecimento no exercício das suas funções, nos mesmos termos que vigorarem para o pessoal médico.
+Art. 57.º - 1. Todo o pessoal hospitalar é obrigado a guardar segredo de ofício relativamente aos factos de que tenha conhecimento no exercício das suas funções, nos mesmos termos que vigorarem para o pessoal médico.
 
 2. O pessoal dos serviços administrativos tem, além disso, o dever do segredo de ofício próprio dos assuntos com que trabalha.
 
-###### Art. 58.º - 1. A fim de permitir a estruturação e funcionamento das carreiras hospitalares previstas na base XXV da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, e a necessária intercomunicação entre os quadros dos estabelecimentos oficiais e dos pertencentes a Misericórdias e demais instituições de assistência particular, a aposentação, abono de família e demais regalias sociais relativas ao pessoal dos hospitais gerais e das maternidades oficiais abrangido pelas carreiras de que trata a secção II deste capítulo serão assegurados através da Caixa de Previdência dos Empregados da Assistência, nos termos a fixar em despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
+Art. 58.º - 1. A fim de permitir a estruturação e funcionamento das carreiras hospitalares previstas na base XXV da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, e a necessária intercomunicação entre os quadros dos estabelecimentos oficiais e dos pertencentes a Misericórdias e demais instituições de assistência particular, a aposentação, abono de família e demais regalias sociais relativas ao pessoal dos hospitais gerais e das maternidades oficiais abrangido pelas carreiras de que trata a secção II deste capítulo serão assegurados através da Caixa de Previdência dos Empregados da Assistência, nos termos a fixar em despacho conjunto dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
 
 2. O disposto no número anterior não se aplica aos funcionários que actualmente se encontram inscritos na Caixa Geral de Aposentações. Quando estes funcionários sejam transferidos do quadro de um estabelecimento oficial para outro pertencente a uma Misericórdia ou outra instituição de assistência particular, continuarão a descontar para a Caixa Geral de Aposentações e a manter todos os seus direitos como se se mantivessem em funções oficiais.
 
@@ -624,33 +712,33 @@ d) Exercício de mais de dois cargos médicos, farmacêuticos ou de enfermagem e
 
 4. O disposto neste artigo pode mandar ser aplicado aos médicos dos demais estabelecimentos e serviços abrangidos pelo presente diploma, mediante portaria conjunta dos Ministros das Finanças, das Corporações e Previdência Social e da Saúde e Assistência.
 
-###### Art. 59.º Os quadros do pessoal dos estabelecimentos e serviços oficiais são fixados em portarias conjuntas dos Ministros das Finanças e da Saúde e Assistência, devendo observar-se, no que respeita às carreiras hospitalares, as categorias e vencimentos que para elas estiverem fixadas.
+Art. 59.º Os quadros do pessoal dos estabelecimentos e serviços oficiais são fixados em portarias conjuntas dos Ministros das Finanças e da Saúde e Assistência, devendo observar-se, no que respeita às carreiras hospitalares, as categorias e vencimentos que para elas estiverem fixadas.
 
-###### Art. 60.º - 1. Os quadros do pessoal dos estabelecimentos hospitalares pertencentes a Misericórdias e demais instituições de assistência particular são fixados, sob proposta das mesas ou direcções, em despacho do Ministro da Saúde e Assistência, que pode delegar essa competência, anualmente, no director-geral dos Hospitais.
+Art. 60.º - 1. Os quadros do pessoal dos estabelecimentos hospitalares pertencentes a Misericórdias e demais instituições de assistência particular são fixados, sob proposta das mesas ou direcções, em despacho do Ministro da Saúde e Assistência, que pode delegar essa competência, anualmente, no director-geral dos Hospitais.
 
 2. Esses quadros devem obedecer, igualmente, no que respeita às carreiras hospitalares, às categorias e vencimentos que para elas estiverem estabelecidos.
 
-###### Art. 61.º - 1. Os quadros devem ser revistos de três em três anos, de harmonia com o disposto nos artigos 59.º e 60.º
+Art. 61.º - 1. Os quadros devem ser revistos de três em três anos, de harmonia com o disposto nos artigos 59.º e 60.º
 
 2. Quando se realizem as revisões previstas no número anterior, o pessoal ao serviço, qualquer que seja o regime em que se encontre, poderá ser colocado nos quadros dos respectivos estabelecimentos ou serviços, desde que possua as correspondentes habilitações legais.
 
 3. A colocação será feita, com ressalva dos direitos adquiridos, por despacho do Ministro da Saúde e Assistência e, tratando-se de estabelecimentos ou serviços oficiais, com dispensa de visto do Tribunal de Contas, diploma e posse, devendo, no entanto, o despacho ser publicado no Diário do Governo.
 
-###### Art. 62.º Os quadros previstos entrarão em vigor:
+Art. 62.º Os quadros previstos entrarão em vigor:
 
 a) Quanto aos estabelecimentos e serviços oficiais, no primeiro dia do mês seguinte àquele em que for publicada a portaria;
 
 b) Nos demais casos, no primeiro dia do mês seguinte à recepção, pelas respectivas Misericórdias e demais instituições de assistência particular, da comunicação do despacho.
 
-###### Art. 63.º - 1. O tempo de serviço prestado pelos serventuários nas categorias e quadros em que se encontrem à data da revisão dos quadros será contado, quando transitarem para os novos quadros e qualquer que seja a forma de provimento, para todos os efeitos, incluindo os de acesso e aposentação, mas, quanto a estes, só em caso de se efectuarem os devidos descontos nas condições legais.
+Art. 63.º - 1. O tempo de serviço prestado pelos serventuários nas categorias e quadros em que se encontrem à data da revisão dos quadros será contado, quando transitarem para os novos quadros e qualquer que seja a forma de provimento, para todos os efeitos, incluindo os de acesso e aposentação, mas, quanto a estes, só em caso de se efectuarem os devidos descontos nas condições legais.
 
 2. O disposto neste artigo aplica-se igualmente aos serventuários na situação de além do quadro.
 
-###### Art. 64.º - 1. Salvaguardadas as exigências da eficiência assistencial e as regras estabelecidas sobre incompatibilidades, a direcção dos serviços de acção médica dos hospitais escolares deve ser confiada, em regime de acumulação e independentemente de autorização do Conselho de Ministros, aos professores ou encarregados de regência das disciplinas que lhes correspondam no plano de estudos da respectiva Faculdade de Medicina.
+Art. 64.º - 1. Salvaguardadas as exigências da eficiência assistencial e as regras estabelecidas sobre incompatibilidades, a direcção dos serviços de acção médica dos hospitais escolares deve ser confiada, em regime de acumulação e independentemente de autorização do Conselho de Ministros, aos professores ou encarregados de regência das disciplinas que lhes correspondam no plano de estudos da respectiva Faculdade de Medicina.
 
 2. Quando assim não aconteça, as nomeações serão sempre interinas.
 
-###### Art. 65.º - 1. É criado o conselho de disciplina hospitalar, destinado a informar os processos disciplinares mandados instaurar, nos termos do artigo 56.º, contra o pessoal dirigente e os médicos que trabalham em estabelecimentos ou serviços dependentes do Ministério da Saúde e Assistência, podendo ordenar as diligências complementares que considere necessárias.
+Art. 65.º - 1. É criado o conselho de disciplina hospitalar, destinado a informar os processos disciplinares mandados instaurar, nos termos do artigo 56.º, contra o pessoal dirigente e os médicos que trabalham em estabelecimentos ou serviços dependentes do Ministério da Saúde e Assistência, podendo ordenar as diligências complementares que considere necessárias.
 
 2. O conselho é presidido por um juiz, a designar pelo Ministro da Saúde e Assistência, com a concordância do Ministro da Justiça, que exercerá o seu cargo em acumulação, e terá por vogais dois médicos de categoria não inferior a director de serviço e dois funcionários administrativos de categoria igual ou superior a administrador de hospital.
 
@@ -658,29 +746,29 @@ b) Nos demais casos, no primeiro dia do mês seguinte à recepção, pelas respe
 
 4. O juiz presidente e os vogais terão direito a gratificações a estabelecer por despacho dos Ministros das Finanças e da Saúde e Assistência.
 
-###### Art. 66.º - 1. O regime de faltas e licenças é o aplicável aos servidores civis do Estado.
+Art. 66.º - 1. O regime de faltas e licenças é o aplicável aos servidores civis do Estado.
 
 2. Pode o Ministro da Saúde e Assistência estabelecer para o pessoal técnico e oficinal e equiparado regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, por forma a adaptá-los às exigências particulares das respectivas actividades e à necessidade de garantir a continuidade do serviço.
 
 3. A verificação da doença, para efeitos de justificação de faltas e concessão de licenças ou outros previstos na lei, é feita pelos serviços de saúde ou por médicos dos próprios estabelecimentos e pelos delegados e subdelegados de saúde, quando necessário.
 
-###### Art. 67.º - 1. Nos hospitais centrais e regionais e nos sub-regionais onde se justifique deve funcionar um serviço de saúde do pessoal, ao qual incumbe efectuar os exames de vigilância sanitária do pessoal, verificar as condições sanitárias dos locais de trabalho, ordenar o internamento ou tratamento ambulatório dos funcionários ou empregados doentes e verificar a doença para efeito de justificação de faltas, concessão de licenças ou quaisquer regalias.
+Art. 67.º - 1. Nos hospitais centrais e regionais e nos sub-regionais onde se justifique deve funcionar um serviço de saúde do pessoal, ao qual incumbe efectuar os exames de vigilância sanitária do pessoal, verificar as condições sanitárias dos locais de trabalho, ordenar o internamento ou tratamento ambulatório dos funcionários ou empregados doentes e verificar a doença para efeito de justificação de faltas, concessão de licenças ou quaisquer regalias.
 
 2. Este serviço pode ser assegurado por um ou mais médicos do quadro, mediante gratificação a fixar pelo Ministro da Saúde e Assistência ou, tratando-se de estabelecimentos oficiais, pelos Ministros das Finanças e da Saúde e Assistência.
 
 3. Em cada serviço de saúde deve haver uma junta médica para apreciar os recursos que sejam apresentado pelos interessados, em termos legais, ou para revisão de decisões clínicas, quando ordenada pela administração.
 
-###### Art. 68.º - 1. As administrações podem propor ao Ministro facilidades para o aperfeiçoamento profissional dos empregados, nomeadamente pela atribuição de bolsas de estudo no País ou no estrangeiro, de acordo com normas superiormente aprovadas.
+Art. 68.º - 1. As administrações podem propor ao Ministro facilidades para o aperfeiçoamento profissional dos empregados, nomeadamente pela atribuição de bolsas de estudo no País ou no estrangeiro, de acordo com normas superiormente aprovadas.
 
 2. O pessoal cuja preparação for, no todo ou em parte, feita a expensas do Tesouro poderá ficar sujeito à obrigação de continuar ao serviço por prazo não superior a três anos. A falta de cumprimento dessa obrigação constituirá em responsabilidade civil, pelos vencimentos, abonos e demais despesas feitas, sem prejuízo de outras sanções que ao caso couber.
 
 3. Quando houver cursos de aperfeiçoamento, os empregados convocados ou autorizados a participar neles têm direito a transportes e ajudas de custo, nos termos a determinar em cada caso.
 
-###### Art. 69.º Em tudo o que não se encontrar previsto neste Estatuto e no Regulamento Geral dos Hospitais, será aplicável ao pessoal hospitalar dos estabelecimentos e serviços oficiais o regime geral do pessoal do Ministério da Saúde e Assistência.
+Art. 69.º Em tudo o que não se encontrar previsto neste Estatuto e no Regulamento Geral dos Hospitais, será aplicável ao pessoal hospitalar dos estabelecimentos e serviços oficiais o regime geral do pessoal do Ministério da Saúde e Assistência.
 
 #### SECÇÃO II — Das carreiras hospitalares e da Intercomunicação dos quadros
 
-###### Art. 70.º - 1. O Ministro da Saúde e Assistência promoverá a criação de carreiras profissionais de âmbito metropolitano, nos casos que julgar conveniente, estabelecendo as condições de intercomunicação dos quadros de ingresso e promoção do pessoal, sem prejuízo do disposto no artigo 64.º
+Art. 70.º - 1. O Ministro da Saúde e Assistência promoverá a criação de carreiras profissionais de âmbito metropolitano, nos casos que julgar conveniente, estabelecendo as condições de intercomunicação dos quadros de ingresso e promoção do pessoal, sem prejuízo do disposto no artigo 64.º
 
 2. O pessoal universitário que trabalhe nos hospitais não fica abrangido pelas carreiras médicas.
 
@@ -690,7 +778,7 @@ b) Nos demais casos, no primeiro dia do mês seguinte à recepção, pelas respe
 
 5. A aplicação das regras que estabelecem as carreiras realizar-se-á gradualmente, na medida em que se forem reunindo as indispensáveis condições de pessoal, de material e de meios financeiros.
 
-###### Art. 71.º - 1. Nas carreiras deve haver concursos de habilitação e de provimento.
+Art. 71.º - 1. Nas carreiras deve haver concursos de habilitação e de provimento.
 
 2. Os concursos de habilitação tanto podem facultar títulos e categorias profissionais com validade perante todos os estabelecimentos e serviços hospitalares como título válido apenas para o preenchimento das vagas ocorridas em determinado estabelecimento ou serviço.
 
@@ -698,7 +786,7 @@ b) Nos demais casos, no primeiro dia do mês seguinte à recepção, pelas respe
 
 4. As regras a que devem obedecer estes concursos serão fixadas pelo Ministério da Saúde e Assistência.
 
-###### Art. 72.º - 1. São desde já estabelecidas as seguintes carreiras de pessoal hospitalar:
+Art. 72.º - 1. São desde já estabelecidas as seguintes carreiras de pessoal hospitalar:
 
 a) Pessoal superior de administração;
 
@@ -708,13 +796,13 @@ c) Pessoal farmacêutico.
 
 2. O desenvolvimento destas carreiras constará do Regulamento Geral dos Hospitais, obedecendo, quanto aos estabelecimentos e serviços gerais centrais, quer do Estado, quer particulares, às categorias e vencimentos fixados no quadro anexo. Este quadro, com as necessárias adaptações, servirá igualmente para as carreiras médicas dos demais estabelecimentos e serviços abrangidos pelo presente diploma, quando vierem a ser estruturadas.
 
-###### Art. 73.º - 1. Os quadros dos estabelecimentos e serviços da organização hospitalar, sejam oficiais ou particulares, gerais ou especializados, podem ser intercomunicantes, na parte abrangida por carreiras, permitindo-se, entre eles, acessos, transferências e equiparações, conforme for estabelecido em regulamento.
+Art. 73.º - 1. Os quadros dos estabelecimentos e serviços da organização hospitalar, sejam oficiais ou particulares, gerais ou especializados, podem ser intercomunicantes, na parte abrangida por carreiras, permitindo-se, entre eles, acessos, transferências e equiparações, conforme for estabelecido em regulamento.
 
 2. Podem ser estabelecidos quadros comuns a toda a organização, para determinados cargos hospitalares, nos termos do artigo anterior.
 
-###### Art. 74.º O estatuto e as carreiras do pessoal de enfermagem para os estabelecimentos e serviços dependentes do Ministério da Saúde e Assistência constam de diploma próprio.
+Art. 74.º O estatuto e as carreiras do pessoal de enfermagem para os estabelecimentos e serviços dependentes do Ministério da Saúde e Assistência constam de diploma próprio.
 
-###### Art. 75.º - 1. É permitida a transferência de funcionários ou empregados entre os vários estabelecimentos e serviços da organização hospitalar, desde que não haja concurso de habilitação ou de provimento com validade restrita a um ou mais quadros e se verifique uma das seguintes condições:
+Art. 75.º - 1. É permitida a transferência de funcionários ou empregados entre os vários estabelecimentos e serviços da organização hospitalar, desde que não haja concurso de habilitação ou de provimento com validade restrita a um ou mais quadros e se verifique uma das seguintes condições:
 
 a) Serem ambos os estabelecimentos ou serviços oficiais ou particulares;
 
@@ -724,23 +812,23 @@ b) Tratar-se de lugar abrangido por uma carreira hospitalar.
 
 3. No caso de Misericórdias e demais instituições de assistência particular, a transferência só pode efectivar-se depois de acordo entre as respectivas mesas ou direcções.
 
-###### Art. 76.º - 1. Para os estabelecimentos e serviços oficiais podem ser determinados, pelo Ministro da Saúde e Assistência, concursos genéricos de habilitação para categorias profissionais não organizadas em carreira hospitalar.
+Art. 76.º - 1. Para os estabelecimentos e serviços oficiais podem ser determinados, pelo Ministro da Saúde e Assistência, concursos genéricos de habilitação para categorias profissionais não organizadas em carreira hospitalar.
 
 2. Os lugares correspondentes a estes concursos só podem ser preenchidos, mediante concurso documental, entre os aprovados no concurso de habilitação.
 
 ### CAPÍTULO VII — Da prestação da assistência
 
-###### Art. 77.º - 1. Os estabelecimentos e serviços da organização hospitalar são abertos a todos os doentes, seja qual for a sua condição social e económica, dentro das prioridades impostas pelas funções de cada estabelecimento, pela gravidade do estado clínico dos enfermos e pelas áreas geográficas que servem.
+Art. 77.º - 1. Os estabelecimentos e serviços da organização hospitalar são abertos a todos os doentes, seja qual for a sua condição social e económica, dentro das prioridades impostas pelas funções de cada estabelecimento, pela gravidade do estado clínico dos enfermos e pelas áreas geográficas que servem.
 
 2. Os cuidados a prestar aos doentes podem sê-lo em regime de internamento ou semi-internamento, de consultas externas, de assistência domiciliária ou no local da catástrofe ou do sinistro.
 
-###### Art. 78.º - 1. Nas direcções das zonas hospitalares, ou junto dos hospitais centrais, pode haver centrais de orientação, às quais compete encaminhar os doentes para os estabelecimentos ou serviços adequados à sua situação clínica e facilitar-lhes aí a admissão.
+Art. 78.º - 1. Nas direcções das zonas hospitalares, ou junto dos hospitais centrais, pode haver centrais de orientação, às quais compete encaminhar os doentes para os estabelecimentos ou serviços adequados à sua situação clínica e facilitar-lhes aí a admissão.
 
 2. Nos hospitais regionais a orientação dos doentes fica a cargo do director clínico e o expediente corre pela secretaria.
 
 3. Nos hospitais centrais os serviços de admissão devem estar em ligação com as centrais de orientação de doentes, às quais darão toda a cooperação possível.
 
-###### Art. 79.º - 1. A admissão dos doentes nos hospitais pode ser:
+Art. 79.º - 1. A admissão dos doentes nos hospitais pode ser:
 
 a) Ordinária ou de urgência;
 
@@ -748,7 +836,7 @@ b) A pedido ou compulsiva.
 
 2. Os funcionários ou empregados hospitalares que ordenem ou autorizem admissões fora dos termos que tiverem sido prescritos, bem como os que prestem assistência a indivíduos admitidos irregularmente, desde que tenham conhecimento do facto e não hajam formulado oposição nos termos legais, além da responsabilidade disciplinar, ficam obrigados a idemnizar o estabelecimento pelas despesas feitas com os doentes.
 
-###### Art. 80.º - 1. Os doentes devem ser tratados com delicadeza e urbanidade e respeitados no seu decoro e pudor, devendo os serviços actuar, ainda, de modo a facultar-lhes diagnósticos e tratamento cientificamente correctos, dentro das disponibilidades materiais e de pessoal.
+Art. 80.º - 1. Os doentes devem ser tratados com delicadeza e urbanidade e respeitados no seu decoro e pudor, devendo os serviços actuar, ainda, de modo a facultar-lhes diagnósticos e tratamento cientificamente correctos, dentro das disponibilidades materiais e de pessoal.
 
 2. Os doentes podem recusar a assistência, salvo quando a lei dispuser o contrário. Este direito não pode ser exercido pelo representante ou tutor do assistido.
 
@@ -756,7 +844,7 @@ b) A pedido ou compulsiva.
 
 4. Aos doentes deve também ser concedida assistência religiosa, sempre que a solicitem.
 
-###### Art. 81.º São deveres dos doentes:
+Art. 81.º São deveres dos doentes:
 
 a) Colaborar com os médicos e pessoal de assistência no estudo e tratamento da sua doença, cumprindo as prescrições e sujeitando-se à terapêutica que for instituída, sem prejuízo do disposto no n.º 3 do artigo anterior;
 
@@ -764,51 +852,51 @@ b) Aceitar as regras da organização hospitalar e a disciplina interna dos hosp
 
 c) Não deteriorar os bens da hospital e satisfazer os pagamentos legalmente exigíveis.
 
-###### Art. 82.º - 1. Antes de qualquer operação, deve o médico responsável obter o consentimento do doente, ou o dos seus pais ou tutores, se o doente for menor, salvo nos casos de extrema urgência.
+Art. 82.º - 1. Antes de qualquer operação, deve o médico responsável obter o consentimento do doente, ou o dos seus pais ou tutores, se o doente for menor, salvo nos casos de extrema urgência.
 
 2. Os prognósticos graves podem ser legìtimamente ocultados aos doentes; os prognósticos fatais só lhes podem ser revelados pelo médico responsável, com as precauções aconselhadas pelo exacto conhecimento da seu temperamento e índole moral; mas, em regra, devem uns e outros ser revelados à família.
 
 3. Todas as dúvidas sobre deontologia médica devem ser submetidas ao director clínico, que decidirá, ouvindo, se necessário, a comissão médica.
 
-###### Art. 83.º - 1. A assistência religiosa católica aos doentes em tratamento nos hospitais é assegurada nos termos da concordata com a Santa Sé.
+Art. 83.º - 1. A assistência religiosa católica aos doentes em tratamento nos hospitais é assegurada nos termos da concordata com a Santa Sé.
 
 2. Devem ser dadas todas as facilidades a doentes de fé não católica para a assistência religiosa que solicitarem.
 
-###### Art. 84.º - 1. Os encargos da assistência continuam a ser liquidados e pagos de harmonia com o disposto no [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
+Art. 84.º - 1. Os encargos da assistência continuam a ser liquidados e pagos de harmonia com o disposto no [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
 
 2. Quanto aos hospitais escolares, os encargos resultantes da assistência prestada por interesse científico e os resultantes da utilização de serviços comuns dos edifícios hospitalares serão objecto de acordo a celebrar entre os Ministérios das Finanças, da Educação Nacional e da Saúde e Assistência.
 
 ### CAPÍTULO VIII — Disposições gerais
 
-###### Art. 85.º - 1. A ligação entre a organização hospitalar metropolitana e a do ultramar, assim como a colaboração que podem prestar-se mùtuamente, serão estabelecidas por acordo entre os Ministérios interessados.
+Art. 85.º - 1. A ligação entre a organização hospitalar metropolitana e a do ultramar, assim como a colaboração que podem prestar-se mùtuamente, serão estabelecidas por acordo entre os Ministérios interessados.
 
 2. As normas de colaboração entre a organização hospitalar metropolitana e os serviços médicos dependentes de outros Ministérios serão fixadas em portarias conjuntas dos Ministros respectivos.
 
 3. Podem ser celebrados acordos de cooperação entre a organização hospitalar e os serviços médicos referidos no número anterior, ou das instituições de previdência, os quais serão válidos depois de aprovados pelos Ministros respectivos.
 
-###### Art. 86.º - 1. Em caso de calamidade ou grande desastre, as casas de saúde, postos médicos e de enfermagem, assim como os meios disponíveis de transporte de doentes, podem ser chamados a colaborar com os estabelecimentos e serviços da organização hospitalar, sob a orientação das autoridades hospitalares competentes.
+Art. 86.º - 1. Em caso de calamidade ou grande desastre, as casas de saúde, postos médicos e de enfermagem, assim como os meios disponíveis de transporte de doentes, podem ser chamados a colaborar com os estabelecimentos e serviços da organização hospitalar, sob a orientação das autoridades hospitalares competentes.
 
 2. Nos casos referidos neste artigo, compete ao director-geral dos Hospitais ou aos directores das zonas hospitalares assumir a direcção de emergência de todos os meios hospitalares civis disponíveis e coordená-los com os restantes meios existentes que forem necessários, enquanto superiormente não sejam tomadas outras providências.
 
-###### Art. 87.º A Direcção-Geral dos Hospitais elaborará regras uniformes de estatística hospitalar, nos termos previstos na legislação própria do Instituto Nacional de Estatística.
+Art. 87.º A Direcção-Geral dos Hospitais elaborará regras uniformes de estatística hospitalar, nos termos previstos na legislação própria do Instituto Nacional de Estatística.
 
-###### Art. 88.º - 1. Será publicado pela Direcção-Geral dos Hospitais o anuário hospitalar, no qual se referirão os índices que documentam o funcionamento dos estabelecimentos e serviços hospitalares.
+Art. 88.º - 1. Será publicado pela Direcção-Geral dos Hospitais o anuário hospitalar, no qual se referirão os índices que documentam o funcionamento dos estabelecimentos e serviços hospitalares.
 
 2. Será igualmente organizado um glossário de nomenclatura hospitalar, para uniformizar a terminologia técnica e administrativa a usar nos hospitais.
 
-###### Art. 89.º - 1. A construção, grande ampliação ou remodelação de edifícios para estabelecimentos e serviços hospitalares devem obedecer a planos gerais de prioridades baseados em critérios objectivos, nos quais se atenderá ao estado das instalações, às necessidades das populações e às possibilidades de melhor utilização.
+Art. 89.º - 1. A construção, grande ampliação ou remodelação de edifícios para estabelecimentos e serviços hospitalares devem obedecer a planos gerais de prioridades baseados em critérios objectivos, nos quais se atenderá ao estado das instalações, às necessidades das populações e às possibilidades de melhor utilização.
 
 2. Esses planos devem apreciar globalmente a situação de todos os estabelecimentos e serviços, independentemente da sua localização.
 
-###### Art. 90.º - 1. As administrações dos hospitais oficiais podem efectuar directamente obras de reparação ou beneficiação nos seus estabelecimentos, bem como obras relativas à instalação ou remodelação dos equipamentos, desde que não ultrapassem 200 contos e o dispêndio se comporte nos orçamentos privativos.
+Art. 90.º - 1. As administrações dos hospitais oficiais podem efectuar directamente obras de reparação ou beneficiação nos seus estabelecimentos, bem como obras relativas à instalação ou remodelação dos equipamentos, desde que não ultrapassem 200 contos e o dispêndio se comporte nos orçamentos privativos.
 
 2. Essas obras, quando envolvam alteração da orgânica dos serviços, carecem de autorização da Direcção-Geral dos Hospitais.
 
-###### Art. 91.º - 1. Para execução do disposto no presente decreto-lei serão publicados pelo Ministério da Saúde e Assistência os necessários regulamentos.
+Art. 91.º - 1. Para execução do disposto no presente decreto-lei serão publicados pelo Ministério da Saúde e Assistência os necessários regulamentos.
 
 2. O Regulamento Geral dos Hospitais constará de decreto regulamentar. Neste Regulamento serão estabelecidas as normas relativas à classificação e funções dos hospitais, composição e competência dos órgãos de administração e direcção técnica, esquema interno de serviços e regras para o seu funcionamento, estatuto, horário e carreiras do pessoal em tudo o que não constar do presente decreto-lei e, finalmente, as regras orientadoras da assistência aos doentes.
 
-###### Art. 92.º - 1. O presente diploma entra em vigor no dia 1 do próximo mês de Julho.
+Art. 92.º - 1. O presente diploma entra em vigor no dia 1 do próximo mês de Julho.
 
 2. A partir da data referida no número anterior, consideram-se alteradas as designações e remunerações das categorias inscritas nos quadros dos estabelecimentos aos quais se aplica o quadro anexo.
 
@@ -816,7 +904,7 @@ c) Não deteriorar os bens da hospital e satisfazer os pagamentos legalmente exi
 
 4. As colocações do pessoal que mude de categoria serão efectuadas pelo Ministro da Saúde e Assistência, mediante despacho publicado no Diário do Governo, independentemente de demais formalidades.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -824,6 +912,6 @@ Quadro-tipo a que se refere o artigo 72.º
 
 Hospitais gerais centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/04/10100/05990612.pdf))](https://files.diariodarepublica.pt/1s/1968/04/10100/05990612.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/04/10100/05990612.pdf)
 
 Ministério da Saúde e Assistência, 27 de Abril de 1968. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

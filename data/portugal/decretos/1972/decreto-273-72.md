@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/273-1972-676013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3d292375b61e7a66192d80bb5c143ad0298b2b5fc65ac8b5141619cc6e5bb9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 461c261ec3b3a55d01847138589df59fa27a6512160b399d84b34eab8fd1ad33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Reguladora das Oleaginosas e Óleos Vegetais
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:186361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:46Z'
   warnings: []
   errors: []
 ---
@@ -91,26 +101,26 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O n.º 1.º do artigo 15.º e o artigo 16.º do [Decreto n.º 30021](https://diariodarepublica.pt/dr/detalhe/decreto/30021-1939-186361), de 3 de Novembro de 1939, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1.º do artigo 15.º e o artigo 16.º do [Decreto n.º 30021](https://diariodarepublica.pt/dr/detalhe/decreto/30021-1939-186361), de 3 de Novembro de 1939, passam a ter a seguinte redacção:
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 1.º As taxas cobradas sobre os produtos sujeitos à disciplina do organismo;
 
-###### Art. 16.º O quantitativo das taxas, as bases de incidência, isenções, formas e prazos de liquidação e cobrança serão estabelecidos em portaria conjunta do Ministro das Finanças e do Secretário de Estado do Comércio.
+Art. 16.º O quantitativo das taxas, as bases de incidência, isenções, formas e prazos de liquidação e cobrança serão estabelecidos em portaria conjunta do Ministro das Finanças e do Secretário de Estado do Comércio.
 
 ...
 
-###### Art. 2.º - 1. A Comissão Reguladora das Oleaginosas e Óleos Vegetais tem competência para emitir certificados de produção, de venda, de preços, de qualidade e de origem e boletins de análise relativamente aos produtos sujeitos à sua disciplina económica.
+Art. 2.º - 1. A Comissão Reguladora das Oleaginosas e Óleos Vegetais tem competência para emitir certificados de produção, de venda, de preços, de qualidade e de origem e boletins de análise relativamente aos produtos sujeitos à sua disciplina económica.
 
 2. Os documentos referidos no número anterior deste artigo serão devidamente autenticados, nos termos do artigo 37.º do Decreto-Lei n.º 30021.
 
-###### Art. 3.º A falta de entrega ou a entrega fora do prazo das declarações e outros elementos necessários à cobrança das taxas ou à omissão dos certificados a que se refere o artigo antecedente, bem como as inexactidões ou omissões que nos mesmos se verifiquem, constituem infracção disciplinar, punível nos termos do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 3.º A falta de entrega ou a entrega fora do prazo das declarações e outros elementos necessários à cobrança das taxas ou à omissão dos certificados a que se refere o artigo antecedente, bem como as inexactidões ou omissões que nos mesmos se verifiquem, constituem infracção disciplinar, punível nos termos do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 Marcello Caetano - João Augusto Dias Rosas - Valentim Xavier Pintado.
 
-**Promulgado em 18 de Julho de 1972.**
+Promulgado em 18 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

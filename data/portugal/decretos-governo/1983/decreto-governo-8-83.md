@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/8-1983-307779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3aedfa5a3ee99643af7ed70b5c5066ae545cf0a75e7eb1f7c1e8caa92700cd20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09c6386cbe9b613a772ea7f62832b0a11dbb8e5abd9e4307f5316ae77041b9ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Imóvel Classificado
+- Interesse Público
+relationships:
+- type: amended_by
+  target: pt:dre:66751606:por
+  label: Torna público a desclassificação do «Edifício situado no Campo dos Mártires da Pátria, 22 a 24», classificado pelo
+    presente diploma, pelo(a) Portaria n.º 184/2015 - Diário da República n.º 52/2015, Série II de 2015-03-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2015-66751606
+  date: '2015-03-16'
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:33Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +114,7 @@ de 24 de Janeiro
 
 Em conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, o n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, o n.º 1 do artigo 1.º e o n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, a alínea a) do artigo 2.º e a alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, e o artigo 3.º do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São classificados como de interesse público os seguintes imóveis:
+Artigo 1.º São classificados como de interesse público os seguintes imóveis:
 
 Distrito de Braga:
 
@@ -250,7 +278,7 @@ Concelho de Vila Real:
 
 Igreja de Nossa Senhora de Guadalupe, incluindo as 2 pedras tumulares, datadas dos séculos XVI e XVII, que se encontram na sua nave, na freguesia de Mouçós.
 
-###### Art. 2.º São classificados como valores concelhios os seguintes imóveis:
+Art. 2.º São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Braga:
 
@@ -320,8 +348,8 @@ Cruzeiro situado na rua principal de Sezures.
 
 Francisco José Pereira Pinto Balsemão - Francisco António Lucas Pires.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

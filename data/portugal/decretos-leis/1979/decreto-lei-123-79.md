@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1979-383203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b4909c0cf5ae6d12255334c075b9e0e0652f81fb42869903710fecd61745581
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41c03e993456a94864c7b8f59ed3b0081fd3b2f6bfe67ccca8f7d42712c1d7cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exército
+- Força Aérea
+- Militar
+- Pensão de Reforma
+- Pensão de Reserva
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:141220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:34Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +113,14 @@ de 10 de Maio
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º As pensões de reserva e de reforma dos sargentos abrangidos pelo artigo 19.º do [Decreto-Lei n.º 941/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/941-1976-390839), de 31 de Dezembro, e anteriormente pelos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 361/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1970-141220), de 1 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 208/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1975-158392), de 18 de Abril, e [Decreto-Lei n.º 428/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1976-427079), de 2 de Junho, devem ser calculadas tendo em conta o tempo de serviço prestado por aqueles militares quando se encontravam na situação de reforma antes da sua passagem à situação de reserva.
+Artigo 1.º As pensões de reserva e de reforma dos sargentos abrangidos pelo artigo 19.º do [Decreto-Lei n.º 941/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/941-1976-390839), de 31 de Dezembro, e anteriormente pelos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 361/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1970-141220), de 1 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 208/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1975-158392), de 18 de Abril, e [Decreto-Lei n.º 428/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1976-427079), de 2 de Junho, devem ser calculadas tendo em conta o tempo de serviço prestado por aqueles militares quando se encontravam na situação de reforma antes da sua passagem à situação de reserva.
 
-###### Art. 2.º Para o efeito do artigo anterior, os militares a quem venha a ser contado o tempo relativo ao serviço prestado como reformados indemnizarão a Caixa Geral de Aposentações nos termos do n.º 1 do artigo 13.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, devendo, neste caso, a dívida ser apurada em função dos vencimentos que na reserva corresponderiam ao seu posto.
+Art. 2.º Para o efeito do artigo anterior, os militares a quem venha a ser contado o tempo relativo ao serviço prestado como reformados indemnizarão a Caixa Geral de Aposentações nos termos do n.º 1 do artigo 13.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, devendo, neste caso, a dívida ser apurada em função dos vencimentos que na reserva corresponderiam ao seu posto.
 
 Visto e aprovado em Conselho da Revolução em 30 de Março de 1979.
 
-**Promulgado em 4 de Abril de 1979.**
+Promulgado em 4 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

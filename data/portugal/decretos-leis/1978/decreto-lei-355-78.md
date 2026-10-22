@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27200/24882489.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1978-326771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72b9e5706447b56e80a4fd8ceb6ee40d1fad7efc6b95369b15d171d5c2470c7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16d6c033577c5c28205ea358eb1878cb6175c2eef323e627fbc3501621bedcae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Indemnização
+- Nacionalização
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:43Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +123,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Quem pretender pagar dívidas de impostos directos referentes a obrigações fiscais nascidas antes de 1 de Janeiro de 1977, nos termos do artigo 30.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e da [Lei n.º 28/78](https://diariodarepublica.pt/dr/detalhe/lei/28-1978-295125), de 9 de Junho, deverá apresentar, no prazo de sessenta dias a contar da publicação deste diploma, um requerimento na repartição de finanças onde foram liquidados ou, no caso de se encontrarem na fase de cobrança coerciva, nos respectivos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto.
+Artigo 1.º - 1 - Quem pretender pagar dívidas de impostos directos referentes a obrigações fiscais nascidas antes de 1 de Janeiro de 1977, nos termos do artigo 30.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e da [Lei n.º 28/78](https://diariodarepublica.pt/dr/detalhe/lei/28-1978-295125), de 9 de Junho, deverá apresentar, no prazo de sessenta dias a contar da publicação deste diploma, um requerimento na repartição de finanças onde foram liquidados ou, no caso de se encontrarem na fase de cobrança coerciva, nos respectivos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto.
 
 2 - Se a dívida de impostos directos ainda não estiver à cobrança no prazo previsto no número anterior, o requerimento será apresentado até ao fim do prazo de pagamento à boca do cofre.
 
 3 - Nesse requerimento deverão os interessados identificar todos os títulos, quotas ou bens nacionalizados ou expropriados que conferem direito às indemnizações previstas na lei.
 
-###### Art. 2.º - 1 - A apresentação do requerimento referido no artigo anterior terá como efeito a prorrogação do prazo de pagamento até trinta dias após a data em que os títulos representativos do direito à indemnização sejam colocados à disposição dos respectivos titulares ou a suspensão do processo de execução durante o mesmo prazo, se os impostos se encontrarem em cobrança coerciva.
+Art. 2.º - 1 - A apresentação do requerimento referido no artigo anterior terá como efeito a prorrogação do prazo de pagamento até trinta dias após a data em que os títulos representativos do direito à indemnização sejam colocados à disposição dos respectivos titulares ou a suspensão do processo de execução durante o mesmo prazo, se os impostos se encontrarem em cobrança coerciva.
 
 2 - Se no prazo de trinta dias, a contar da data da colocação dos títulos à disposição dos titulares, a tornar público por aviso da Junta do Crédito Público, os contribuintes não efectuarem o pagamento de impostos com esses títulos, terá o mesmo de ser pago em numerário.
 
@@ -116,21 +137,21 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 4 - No caso de o valor dos títulos recebidos ser inferior ao montante dos impostos liquidados, adicionado dos correspondentes juros de mora e de outros encargos que acresçam àqueles, o prazo considera-se prorrogado enquanto o contribuinte tiver títulos a receber, observando-se o disposto nos números anteriores.
 
-###### Art. 3.º O valor dos títulos dados em pagamento será determinado pela seguinte forma:
+Art. 3.º O valor dos títulos dados em pagamento será determinado pela seguinte forma:
 
 a) Os títulos pertencentes às classes I a III definidas no quadro referido no artigo 19.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, serão recebidos pelo seu valor nominal;
 
 b) Os títulos pertencentes às classes IV e seguintes, pelo valor que resultar da actualização, reportada ao final do período de pagamento fixado na legislação respectiva, nas condições previstas no n.º 1 do artigo 29.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309).
 
-###### Art. 4.º O pagamento de impostos previsto no presente decreto-lei só pode ser efectuado com títulos de valor igual ou inferior ao montante da dívida, devendo a diferença ser paga em numerário.
+Art. 4.º O pagamento de impostos previsto no presente decreto-lei só pode ser efectuado com títulos de valor igual ou inferior ao montante da dívida, devendo a diferença ser paga em numerário.
 
-###### Art. 5.º O pagamento deverá ser feito, mediante o endosso, a favor do tesoureiro da Fazenda Pública, dos títulos emitidos pela Junta do Crédito Público.
+Art. 5.º O pagamento deverá ser feito, mediante o endosso, a favor do tesoureiro da Fazenda Pública, dos títulos emitidos pela Junta do Crédito Público.
 
-###### Art. 6.º - 1 - As tesourarias da Fazenda Pública procederão, semanalmente, à passagem de fundos dos títulos para o cofre distrital, com as mesmas formalidades aplicáveis às passagens de fundos em dinheiro.
+Art. 6.º - 1 - As tesourarias da Fazenda Pública procederão, semanalmente, à passagem de fundos dos títulos para o cofre distrital, com as mesmas formalidades aplicáveis às passagens de fundos em dinheiro.
 
 2 - As direcções de finanças enviarão, mensalmente, para a Direcção-Geral do Tesouro, como transferência de fundos, os títulos recebidos das tesourarias.
 
-###### Art. 7.º - 1 - Os contribuintes que, posteriormente à entrada em vigor da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e antes de terem obtido a entrega dos títulos representativos do direito a indemnização, nos termos da mesma lei, efectuaram o pagamento de impostos abrangidos pelo seu artigo 30.º poderão requerer ao Ministro das Finanças e do Plano a aquisição desses títulos por parte do Estado.
+Art. 7.º - 1 - Os contribuintes que, posteriormente à entrada em vigor da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e antes de terem obtido a entrega dos títulos representativos do direito a indemnização, nos termos da mesma lei, efectuaram o pagamento de impostos abrangidos pelo seu artigo 30.º poderão requerer ao Ministro das Finanças e do Plano a aquisição desses títulos por parte do Estado.
 
 2 - A aquisição será efectuada pelo valor dos títulos determinado nos termos do artigo 3.º do presente diploma e apenas dos que perfaçam um valor não superior à quantia paga.
 
@@ -138,18 +159,18 @@ b) Os títulos pertencentes às classes IV e seguintes, pelo valor que resultar 
 
 4 - O requerimento, com a informação referida no número anterior, será enviado à Direcção-Geral do Tesouro, a fim de ser submetido à apreciação do Ministro das Finanças e do Plano.
 
-###### Art. 8.º Os títulos adquiridos nos termos do artigo anterior serão registados diariamente no livro de registo dos documentos de despesa pagos e transferidos semanalmente para a direcção de finanças respectiva, como passagem de fundos, separada, em condições análogas às passagens de fundos em documentos de despesa pagos.
+Art. 8.º Os títulos adquiridos nos termos do artigo anterior serão registados diariamente no livro de registo dos documentos de despesa pagos e transferidos semanalmente para a direcção de finanças respectiva, como passagem de fundos, separada, em condições análogas às passagens de fundos em documentos de despesa pagos.
 
-###### Art. 9.º A Direcção-Geral do Tesouro assegurará na Junta do Crédito Público o assentamento das cautelas a favor da Fazenda Nacional e promoverá a entrega dos títulos no Banco de Portugal para integração na carteira de títulos do Estado com as formalidades regulamentares próprias da movimentação daquela carteira de títulos.
+Art. 9.º A Direcção-Geral do Tesouro assegurará na Junta do Crédito Público o assentamento das cautelas a favor da Fazenda Nacional e promoverá a entrega dos títulos no Banco de Portugal para integração na carteira de títulos do Estado com as formalidades regulamentares próprias da movimentação daquela carteira de títulos.
 
-###### Art. 10.º A regularização dos títulos recebidos na Direcção-Geral do Tesouro será efectuada em termos análogos aos previstos pelos artigos 14.º e 15.º do Decreto com força de lei n.º 19968, de 29 de Junho de 1931, para os títulos de anulação, para o que fica criada a rubrica «Títulos - Indemnizações», a inserir na classe VII de operações de tesouraria.
+Art. 10.º A regularização dos títulos recebidos na Direcção-Geral do Tesouro será efectuada em termos análogos aos previstos pelos artigos 14.º e 15.º do Decreto com força de lei n.º 19968, de 29 de Junho de 1931, para os títulos de anulação, para o que fica criada a rubrica «Títulos - Indemnizações», a inserir na classe VII de operações de tesouraria.
 
-###### Art. 11.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 11.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 10 de Novembro de 1978.**
+Promulgado em 10 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

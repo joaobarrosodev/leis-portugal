@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1971-642723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aaf6f61e4971128a22e822d5f50f72f3b72eb961341cb13beacd5396d9fec78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63dc89c221fdf51953c664400b6691dc2518152cc398168ac498be27c2be8688
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Infracção Antieconómica
+- Multa
+- Proteção do Consumidor
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:27Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +99,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1. A pena complementar de multa relativa a cada infracção será graduada nos termos seguintes:
+Art. 5.º - 1. A pena complementar de multa relativa a cada infracção será graduada nos termos seguintes:
 
 a) No crime de especulação, terá como limite mínimo o triplo do lucro ilegítimo que se obteve ou tentou obter, mas em nenhum caso será inferior a 300$00;
 
@@ -103,7 +111,7 @@ c) Em qualquer dos casos, não será superior a 3000000$00.
 
 2. ...
 
-###### Art. 2.º Os limites das penas de multa adiante indicadas, estabelecidas no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), são elevados nos seguintes termos:
+Art. 2.º Os limites das penas de multa adiante indicadas, estabelecidas no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), são elevados nos seguintes termos:
 
 a) Para 500$00, o limite mínimo das penas de multa estabelecidas nos artigos 15.º, 16.º, n.º 1, 22.º, n.º 1, 23.º, n.º 2, 26.º, n.º 2, 27.º, n.º 3, 28.º e 30.º, n.º 2;
 
@@ -121,10 +129,10 @@ g) Para 60000$00, o limite máximo das penas de multa estabelecidas nos artigos 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 8 de Julho de 1971.**
+Promulgado em 8 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

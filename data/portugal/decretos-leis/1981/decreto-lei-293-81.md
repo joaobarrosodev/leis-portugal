@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23800/27612767.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1981-561853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b960df6e05f77137c59a980b10edbf0ae146af4248584f14d5dcd52934c434d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eaa865c04cff8a561a68d2b62f670616e58d7e32e2f54ff7da77171ea24b60b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Máquinas de Jogo
 relationships:
 - type: amended_by
   target: pt:dre:326929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312644:por
+  label: "Alterados os arts. 2º, 6º, 9º,13º 14º, 16º, 19º, 20º, 22º 29º e 31º e revogado o art. 30º, pelo DEC LEI.142/83.1983.03.29.MAI\
+    \ DR.IS [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1983-312644
+  date: '1983-03-29'
+- type: cites
+  target: pt:dre:388175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677577:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:328845:por
+  label: "Revogado pelo DEC LEI.21/85.17.01.1985.MFP, DR.IS [14] de 17.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1985-328845
+  date: '1985-01-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:13Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +124,9 @@ Introdução de um sistema de controle do pagamento de direitos e demais imposi�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A exploração e a prática dos jogos oferecidos por máquinas de tipo Flipper regem-se pelo disposto no presente diploma.
+Artigo 1.º A exploração e a prática dos jogos oferecidos por máquinas de tipo Flipper regem-se pelo disposto no presente diploma.
 
-###### Art. 2.º - 1 - Os jogos oferecidos por máquinas de tipo Flipper são jogos cujos resultados dependem da pontuação obtida por uma esfera que, de forma aleatória, toca dispositivos diferentemente pontuados, procurando o utente mantê-la em movimento por intermédio do accionamento de alavancas geralmente designadas por flippers.
+Art. 2.º - 1 - Os jogos oferecidos por máquinas de tipo Flipper são jogos cujos resultados dependem da pontuação obtida por uma esfera que, de forma aleatória, toca dispositivos diferentemente pontuados, procurando o utente mantê-la em movimento por intermédio do accionamento de alavancas geralmente designadas por flippers.
 
 2 - Os jogos referidos no número anterior desenrolam-se através de aparelhos eléctricos ou mecânicos, cujos bónus, se os houver, são atribuídos automaticamente, e dispõem designadamente de:
 
@@ -126,17 +146,17 @@ g) 1 ranhura para introdução das moedas ou fichas no depósito e 1 receptácul
 
 3 - Poderão ficar sujeitos ao regime instituído pelo presente diploma, através de despacho do Ministro da Administração Interna, outras máquinas de jogos cujas características venham a divergir das indicadas nos números anteriores, desde que o Conselho de Inspecção de Jogos, em parecer fundamentado, conclua tratar-se de aparelho em que o funcionamento e o processo de obter o resultado final sejam idênticos aos das máquinas de tipo Flipper.
 
-###### Art. 3.º - 1 - Compete ao Ministro da Administração Interna a concessão de autorização para a exploração e a prática dos jogos objecto do presente diploma.
+Art. 3.º - 1 - Compete ao Ministro da Administração Interna a concessão de autorização para a exploração e a prática dos jogos objecto do presente diploma.
 
 2 - Considera-se desde já delegada nos governadores civis dos distritos onde se localize a exploração das máquinas de jogo de tipo Flipper a concessão, caso a caso, da autorização referida no número anterior.
 
-###### Art. 4.º A autorização para a exploração das máquinas de tipo Flipper fica dependente do registo prévio das mesmas pelos respectivos proprietários.
+Art. 4.º A autorização para a exploração das máquinas de tipo Flipper fica dependente do registo prévio das mesmas pelos respectivos proprietários.
 
-###### Art. 5.º - 1 - O registo previsto no artigo anterior é feito obrigatoriamente no governo civil do distrito onde se pretenda efectuar a respectiva exploração.
+Art. 5.º - 1 - O registo previsto no artigo anterior é feito obrigatoriamente no governo civil do distrito onde se pretenda efectuar a respectiva exploração.
 
 2 - Nos casos de exploração em pavilhões ambulantes autorizados a funcionar com carácter transitório e por tempo pré-determinado em feiras e outros locais públicos, o registo previsto no número anterior será feito no governo civil do distrito onde se situar o domicílio ou a sede do proprietário da máquina.
 
-###### Art. 6.º - 1 - O requerimento do registo é formulado em relação a cada máquina, acompanhado de impresso do modelo I anexo ao presente diploma, preenchido e apresentado em duplicado, sendo este último devolvido ao apresentante depois de assinado e autenticado com selo branco.
+Art. 6.º - 1 - O requerimento do registo é formulado em relação a cada máquina, acompanhado de impresso do modelo I anexo ao presente diploma, preenchido e apresentado em duplicado, sendo este último devolvido ao apresentante depois de assinado e autenticado com selo branco.
 
 2 - No acto do registo serão apostos no impresso destinado ao efeito a indicação do distrito, o ano e um número de ordem de registo correspondente a cada máquina.
 
@@ -146,17 +166,17 @@ g) 1 ranhura para introdução das moedas ou fichas no depósito e 1 receptácul
 
 5 - Em caso de extravio do título de registo poderá ser requerida a emissão de 2.ª via mediante o pagamento da taxa prevista no artigo 10.º, n.º 4.
 
-###### Art. 7.º - 1 - Sempre que uma máquina de tipo Flipper já registada seja transferida para distrito diferente, é obrigatório novo registo.
+Art. 7.º - 1 - Sempre que uma máquina de tipo Flipper já registada seja transferida para distrito diferente, é obrigatório novo registo.
 
 2 - No acto de registo referido no n.º 1 é obrigatória a apresentação do documento comprovativo do registo anterior, o qual será cancelado a pedido do governo civil do distrito da nova localização da máquina.
 
-###### Art. 8.º - 1 - Sempre que uma máquina de tipo Flipper seja transferida para proprietário diferente do que fez o registo da mesma é obrigatório o averbamento dessa transferência no respectivo título de registo.
+Art. 8.º - 1 - Sempre que uma máquina de tipo Flipper seja transferida para proprietário diferente do que fez o registo da mesma é obrigatório o averbamento dessa transferência no respectivo título de registo.
 
 2 - A transferência de local de exploração dentro do mesmo distrito implica igualmente a obrigatoriedade de averbamento no referido título.
 
 3 - O pedido de averbamento será acompanhado do impresso modelo III anexo ao presente diploma, preenchido e apresentado em duplicado, sendo este último devolvido ao apresentante depois de assinado e autenticado com selo branco.
 
-###### Art. 9.º É condição necessária da efectivação do registo a exibição nesse acto dos seguintes documentos:
+Art. 9.º É condição necessária da efectivação do registo a exibição nesse acto dos seguintes documentos:
 
 a) Máquinas importadas:
 
@@ -174,7 +194,7 @@ b) Máquinas produzidas ou montadas no País:
 
 3) Factura ou guia de remessa que contenha elementos identificativos, nomeadamente número de fabrico, da máquina objecto de registo.
 
-###### Art. 10.º - 1 - O primeiro acto de registo de cada máquina está sujeito ao pagamento da taxa de 5000$00.
+Art. 10.º - 1 - O primeiro acto de registo de cada máquina está sujeito ao pagamento da taxa de 5000$00.
 
 2 - Os actos de registo decorrentes de transferência da máquina para distrito diferente daquele em que foi feito o primeiro estão sujeitos ao pagamento da taxa de 1000$00.
 
@@ -182,9 +202,9 @@ b) Máquinas produzidas ou montadas no País:
 
 4 - A emissão de vias do título de registo fica sujeita ao pagamento da taxa de 1000$00.
 
-###### Art. 11.º - O produto das taxas referidas no artigo anterior constitui receita do governo civil do distrito em que é feito o registo.
+Art. 11.º - O produto das taxas referidas no artigo anterior constitui receita do governo civil do distrito em que é feito o registo.
 
-###### Art. 12.º - 1 - A autorização de exploração prevista neste diploma será requerida por escrito pelo explorador directo da máquina de jogo.
+Art. 12.º - 1 - A autorização de exploração prevista neste diploma será requerida por escrito pelo explorador directo da máquina de jogo.
 
 2 - Do requerimento devem constar os seguintes elementos:
 
@@ -194,7 +214,7 @@ b) Designação da máquina, respectivo número de registo e indicação do seu 
 
 c) Período de validade requerido para a autorização de exploração.
 
-###### Art. 13.º - 1 - Os pedidos de autorização ou suas renovações devem ser acompanhados dos seguintes documentos:
+Art. 13.º - 1 - Os pedidos de autorização ou suas renovações devem ser acompanhados dos seguintes documentos:
 
 a) Título de registo;
 
@@ -202,7 +222,7 @@ b) Documento comprovativo do pagamento da contribuição industrial.
 
 2 - A renovação de autorização deve ser requerida durante o mês de Janeiro de cada ano.
 
-###### Art. 14.º - 1 - A autorização de exploração poderá ter qualquer dos seguintes períodos de validade:
+Art. 14.º - 1 - A autorização de exploração poderá ter qualquer dos seguintes períodos de validade:
 
 a) Um ano;
 
@@ -212,17 +232,17 @@ c) Três meses.
 
 2 - O período de validade da autorização cessará, em qualquer caso, no final de cada ano civil.
 
-###### Art. 15.º A concessão da autorização prevista no artigo 3.º depende da verificação dos seguintes condicionamentos:
+Art. 15.º A concessão da autorização prevista no artigo 3.º depende da verificação dos seguintes condicionamentos:
 
 a) Registo prévio de cada máquina a explorar;
 
 b) Número não superior a 2 máquinas nos estabelecimentos que não se dediquem exclusivamente à exploração de jogos.
 
-###### Art. 16.º O governo civil emitirá, após o pagamento da taxa referida no artigo 19.º, documento comprovativo da concessão da autorização para exploração de cada máquina de tipo Flipper, do qual constará obrigatoriamente o número de registo, nomes do proprietário e explorador directo, o local de exploração e o termo de validade da mesma.
+Art. 16.º O governo civil emitirá, após o pagamento da taxa referida no artigo 19.º, documento comprovativo da concessão da autorização para exploração de cada máquina de tipo Flipper, do qual constará obrigatoriamente o número de registo, nomes do proprietário e explorador directo, o local de exploração e o termo de validade da mesma.
 
-###### Art. 17.º A prática de jogos em máquinas de tipo Flipper é interdita a menores de 18 anos.
+Art. 17.º A prática de jogos em máquinas de tipo Flipper é interdita a menores de 18 anos.
 
-###### Art. 18. Nos locais onde se explorem máquinas de jogos de tipo Flipper será obrigatoriamente afixado, em lugar bem visível, um quadro donde constem os seguintes elementos:
+Art. 18. Nos locais onde se explorem máquinas de jogos de tipo Flipper será obrigatoriamente afixado, em lugar bem visível, um quadro donde constem os seguintes elementos:
 
 a) Número de registo das máquinas;
 
@@ -232,7 +252,7 @@ c) Prazo de validade de autorização de exploração de cada máquina;
 
 d) Idade mínima para a prática dos jogos (18 anos).
 
-###### Art. 19.º - 1 - Pela concessão da autorização da exploração de máquinas eléctricas de tipo Flipper, bem como pela sua renovação, são devidas as seguintes taxas, de acordo com a respectiva validade e por cada máquina objecto de autorização:
+Art. 19.º - 1 - Pela concessão da autorização da exploração de máquinas eléctricas de tipo Flipper, bem como pela sua renovação, são devidas as seguintes taxas, de acordo com a respectiva validade e por cada máquina objecto de autorização:
 
 Autorização por um ano - 30000$00;
 
@@ -242,19 +262,19 @@ Autorização por três meses - 7500$00.
 
 2 - As taxas referidas no número anterior constituem receita dos governos civis.
 
-###### Art. 20.º - 1 - A falta de registo pelos proprietários das máquinas eléctricas de tipo Flipper será punida com multa de 10000$00 e registo compulsório, com agravamento de 100% da taxa de registo.
+Art. 20.º - 1 - A falta de registo pelos proprietários das máquinas eléctricas de tipo Flipper será punida com multa de 10000$00 e registo compulsório, com agravamento de 100% da taxa de registo.
 
 2 - A desconformidade entre os elementos constantes do título de registo e a situação real da máquina de tipo Flipper em exploração por não cumprimento do disposto nos n.os 1 e 2 do artigo 8.º deste diploma será punida com multa de 10000$00 e regularização compulsória do título de registo, com agravamento de 100% da respectiva taxa.
 
-###### Art. 21.º A falsificação do título de registo será punida com multa de 15000$00, apreensão da máquina e sujeição a procedimento criminal pelo crime previsto no artigo 216.º do Código Penal.
+Art. 21.º A falsificação do título de registo será punida com multa de 15000$00, apreensão da máquina e sujeição a procedimento criminal pelo crime previsto no artigo 216.º do Código Penal.
 
-###### Art. 22.º - 1 - A exploração de máquinas eléctricas de tipo Flipper sem a autorização prevista no artigo 3.º será punida com multa de 30000$00 por cada máquina não autorizada.
+Art. 22.º - 1 - A exploração de máquinas eléctricas de tipo Flipper sem a autorização prevista no artigo 3.º será punida com multa de 30000$00 por cada máquina não autorizada.
 
 2 - A reincidência será punida com multa agravada de 100% e apreensão da máquina.
 
-###### Art. 23.º As máquinas apreendidas nos termos do presente diploma reverterão a favor do Estado.
+Art. 23.º As máquinas apreendidas nos termos do presente diploma reverterão a favor do Estado.
 
-###### Art. 24.º - 1 - A exploração de máquinas em desconformidade com as condições da autorização concedida será punida nos seguintes termos:
+Art. 24.º - 1 - A exploração de máquinas em desconformidade com as condições da autorização concedida será punida nos seguintes termos:
 
 a) Por exploração de máquinas em número superior ao permitido - multa de 5000$00 por cada máquina que exceda esse número;
 
@@ -268,7 +288,7 @@ a) Com a multa agravada de 100% e o encerramento do estabelecimento, se este se 
 
 b) Com a multa agravada de 100%, cassação das autorizações de exploração e apreensão das máquinas, no caso de o estabelecimento não se dedicar exclusivamente à exploração de jogos.
 
-###### Art. 25.º - 1 - A prática de jogos em máquinas eléctricas de tipo Flipper por pessoas de idade inferior ao mínimo previsto no artigo 17.º sujeita o explorador das mesmas a multa de 5000$00.
+Art. 25.º - 1 - A prática de jogos em máquinas eléctricas de tipo Flipper por pessoas de idade inferior ao mínimo previsto no artigo 17.º sujeita o explorador das mesmas a multa de 5000$00.
 
 2 - A reincidência na infracção prevista no número anterior será punida com multa agravada de 50%.
 
@@ -278,40 +298,40 @@ a) Com a multa agravada de 100% e o encerramento do estabelecimento, se este se 
 
 b) Com a multa agravada de 100%, cassação das autorizações de exploração e apreensão das máquinas, no caso de o estabelecimento não se dedicar exclusivamente à exploração de jogos.
 
-###### Art. 26.º Para efeitos deste diploma, considera-se reincidência a prática de infracção idêntica a outra cometida anteriormente, antes de decorrido um ano contado da data da punição.
+Art. 26.º Para efeitos deste diploma, considera-se reincidência a prática de infracção idêntica a outra cometida anteriormente, antes de decorrido um ano contado da data da punição.
 
-###### Art. 27.º - 1 - A importância das multas cobradas por contravenção às disposições deste diploma dará entrada nos cofres do Estado.
+Art. 27.º - 1 - A importância das multas cobradas por contravenção às disposições deste diploma dará entrada nos cofres do Estado.
 
 2 - Das multas cobradas não cabe qualquer percentagem aos autuantes.
 
-###### Art. 28.º Compete às autoridades policiais, designadamente à Guarda Nacional Republicana, à Guarda Fiscal e à Polícia de Segurança Pública, fiscalizar o cumprimento do disposto no presente diploma.
+Art. 28.º Compete às autoridades policiais, designadamente à Guarda Nacional Republicana, à Guarda Fiscal e à Polícia de Segurança Pública, fiscalizar o cumprimento do disposto no presente diploma.
 
-###### Art. 29.º As máquinas eléctricas de tipo Flipper registadas provisoriamente nos termos do [Despacho Normativo n.º 92/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1981-388175), de 13 de Março, que preencham todos os requisitos estabelecidos para o registo definitivo previstos no artigo 9.º deste diploma devem ser registadas pelos proprietários, no prazo de noventa dias a contar da data da entrada em vigor do presente diploma, mediante o pagamento da taxa fixada no n.º 1 do artigo 10.º
+Art. 29.º As máquinas eléctricas de tipo Flipper registadas provisoriamente nos termos do [Despacho Normativo n.º 92/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1981-388175), de 13 de Março, que preencham todos os requisitos estabelecidos para o registo definitivo previstos no artigo 9.º deste diploma devem ser registadas pelos proprietários, no prazo de noventa dias a contar da data da entrada em vigor do presente diploma, mediante o pagamento da taxa fixada no n.º 1 do artigo 10.º
 
-###### Art. 30.º - 1 - As máquinas eléctricas de tipo Flipper registadas provisoriamente nos termos do [Despacho Normativo n.º 92/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1981-388175), de 13 de Março, que não preencham os requisitos previstos para o registo definitivo fixados no artigo 9.º deste diploma apenas poderão ser objecto de registo definitivo durante o prazo de noventa dias a contar da data da entrada em vigor do presente diploma, mediante o pagamento pelo proprietário da quantia de 60000$00.
+Art. 30.º - 1 - As máquinas eléctricas de tipo Flipper registadas provisoriamente nos termos do [Despacho Normativo n.º 92/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1981-388175), de 13 de Março, que não preencham os requisitos previstos para o registo definitivo fixados no artigo 9.º deste diploma apenas poderão ser objecto de registo definitivo durante o prazo de noventa dias a contar da data da entrada em vigor do presente diploma, mediante o pagamento pelo proprietário da quantia de 60000$00.
 
 2 - Da importância referida no número anterior reverterão 5000$00 para o governo civil em que é feito o registo e o restante para o Estado.
 
 3 - Decorrido o prazo referido no n.º 1, sem que tenha sido observada a regra estabelecida no mesmo para o registo definitivo da máquina de tipo Flipper, o proprietário desta será punido pela infracção com multa de 10000$00 e apreensão da mesma máquina.
 
-###### Art. 31.º - 1 - As taxas fixadas no artigo 19. para a concessão de autorizações de exploração serão aplicadas a partir de 1 de Janeiro de 1982, mantendo-se entretanto em vigor a fixada no [Despacho Normativo n.º 106/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1980-677577), de 27 de Março.
+Art. 31.º - 1 - As taxas fixadas no artigo 19. para a concessão de autorizações de exploração serão aplicadas a partir de 1 de Janeiro de 1982, mantendo-se entretanto em vigor a fixada no [Despacho Normativo n.º 106/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1980-677577), de 27 de Março.
 
 2 - O montante das taxas previstas no presente diploma poderá ser revisto anualmente por despacho do Ministro da Administração Interna.
 
-###### Art. 32.º As dúvidas e os casos omissos que surgirem na aplicação do presente diploma serão resolvidos por despacho do Ministro da Administração Interna, ouvido o Conselho de Inspecção de Jogos.
+Art. 32.º As dúvidas e os casos omissos que surgirem na aplicação do presente diploma serão resolvidos por despacho do Ministro da Administração Interna, ouvido o Conselho de Inspecção de Jogos.
 
-###### Art. 33.º Os modelos anexos ao presente diploma são exclusivo da Imprensa Nacional-Casa da Moeda.
+Art. 33.º Os modelos anexos ao presente diploma são exclusivo da Imprensa Nacional-Casa da Moeda.
 
-###### Art. 34.º São revogados os Despachos Normativos n.os [106/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1980-677577), de 27 de Março, e [92/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1981-388175), de 13 de Março.
+Art. 34.º São revogados os Despachos Normativos n.os [106/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1980-677577), de 27 de Março, e [92/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1981-388175), de 13 de Março.
 
-###### Art. 35.º Os governos civis promoverão as medidas necessárias à execução do presente diploma.
+Art. 35.º Os governos civis promoverão as medidas necessárias à execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Setembro de 1981.**
+Promulgado em 25 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/23800/27612767.pdf))](https://files.diariodarepublica.pt/1s/1981/10/23800/27612767.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/23800/27612767.pdf)

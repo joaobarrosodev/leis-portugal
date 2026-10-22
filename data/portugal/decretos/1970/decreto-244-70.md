@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/244-1970-142481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d92435fb097372f87c29b7770d906b0fe101bb3a1a80e80cff82fe87f2be255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04c7a22978b218138a20b703eb39f9d559a41e819f29a091a0b286e19ba000cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:37Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Nestes termos, por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. À posse de terrenos situados na área do foral dos municípios da província de Angola, não pertencentes ao domínio público municipal, são reconhecidos todos os efeitos jurídicos sancionados no Código Civil, desde que se encontre titulada por meio de registo inscrito na competente conservatória do registo predial há mais de quinze anos, à data da publicação do presente diploma, e sem prejuízo das situações constantes do cadastro municipal devidamente organizado.
+Artigo 1.º - 1. À posse de terrenos situados na área do foral dos municípios da província de Angola, não pertencentes ao domínio público municipal, são reconhecidos todos os efeitos jurídicos sancionados no Código Civil, desde que se encontre titulada por meio de registo inscrito na competente conservatória do registo predial há mais de quinze anos, à data da publicação do presente diploma, e sem prejuízo das situações constantes do cadastro municipal devidamente organizado.
 
 2. As câmaras municipais que ainda não tenham organizado os serviços de cadastro geométrico dos terrenos situados na área do seu foral devem dispor no sentido de os terem em efectivo e adequado funcionamento, no prazo de um ano, a partir da data da publicação deste decreto.
 
@@ -109,7 +109,7 @@ c) O município quanto aos restantes.
 
 5. De futuro, as câmaras municipais não farão alienações de terreno que não estejam identificadas pelo cadastro geométrico.
 
-###### Art. 2.º - 1. São as câmaras municipais autorizadas a instituir um imposto sobre os proprietários inscritos no registo predial de terrenos situados nas áreas do foral urbanizadas há mais de um ano e que os não tenham ocupados com edificações urbanas competentemente aprovadas até aos limites seguintes:
+Art. 2.º - 1. São as câmaras municipais autorizadas a instituir um imposto sobre os proprietários inscritos no registo predial de terrenos situados nas áreas do foral urbanizadas há mais de um ano e que os não tenham ocupados com edificações urbanas competentemente aprovadas até aos limites seguintes:
 
 a) Terrenos sem área registada e enquanto esta não for determinada pelo cadastro geométrico municipal:
 
@@ -157,9 +157,9 @@ No 5.º ano e cada um dos seguintes ... 50000$00
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Maio de 1970.**
+Promulgado em 11 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

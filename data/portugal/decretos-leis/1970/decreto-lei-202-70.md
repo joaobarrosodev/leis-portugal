@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/05/10900/05930594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o nome do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1970-142084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c46c700df9688b0b4962533ee58c44f6510abe818e5ee941a5db4300c2c4740c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 747ae4cb83c32e18939a132e38cc1489d3b878880c4033c18fd9ea079ed03ba8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estandarte Nacional
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:198095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382625:por
+  label: "Aditado um nº 3 ao art. 1º e alterado o art. 2º, pelo DEC.33/79.1979.04.21.CR, DR.IS [93]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/33-1979-382625
+  date: '1979-04-21'
+- type: amended_by
+  target: pt:dre:531824:por
+  label: "Alterada a redacção da al. a) do nº 1 do art. 1º, pelo DEC LEI.8/84.1984.01.06.MDN, DR.IS [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-1984-531824
+  date: '1984-01-06'
+- type: repealed_by
+  target: pt:dre:382662:por
+  label: "Revogados os anexos a) e b) referidos no art. 8º, pelo DEC.43/79.1979.05.22.CR, DR.IS [117], que são substituídos\
+    \ pelo anexo ao referido diploma)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43-1979-382662
+  date: '1979-05-22'
+- type: repealed_by
+  target: pt:dre:198095:por
+  label: "Revogado pelo DEC LEI.46/92.1992.04.04.MDN, DR.IS-A [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1992-198095
+  date: '1992-04-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:30Z'
   warnings: []
   errors: []
 ---
@@ -141,15 +164,15 @@ Em anexo, publicam-se o modelo do estandarte (anexo A) e a respectiva descriçã
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 11 de Março de 1970.**
+Promulgado em 11 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 9 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
-## Anexo A — [([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/10900/05930594.pdf))](https://files.diariodarepublica.pt/1s/1970/05/10900/05930594.pdf)
+## Anexo A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/10900/05930594.pdf)
 
 ## Anexo B — Descrição heráldica
 

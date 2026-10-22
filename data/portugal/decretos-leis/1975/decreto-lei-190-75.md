@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1975-161891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1addc23d98e1898819af9ba10c99bf92a17fc6876558eeafa709ff8d0eb9261b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92f7284abc69c5393ff9c7ff1cdd3b2bf4d5054ee26a9ebd4117777648b45f24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Pessoal Militarizado
+- Quadro de Pessoal
+- Serviços de Polícia e dos Transportes da Marinha
 relationships:
 - type: amended_by
   target: pt:dre:431390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502192:por
+  label: "Substituído pelo DEC LEI.282/76.20.04.1976.CR, DR.IS [93] de 20.04.1976, nos termos do seu artigo 31.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1976-502192
+  date: '1976-04-20'
+- type: cites
+  target: pt:dre:146259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:307474:por
+  label: Rectificados os artigos 12.º e 13.º pela DECL.DD8551.08.09.1975.CR, DG.IS [207] de 08.09.1975
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-307474
+  date: '1975-09-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:39Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +118,11 @@ Considerando ainda ser vantajoso que determinadas funções, desempenhadas por m
 
 Usando da faculdade conferida pelo artigo 1.º, n.º 1, da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado o quadro do pessoal dos serviços de polícia e de transportes da Marinha (QPSPTM), constituído por pessoal militarizado.
+Artigo 1.º - 1. É criado o quadro do pessoal dos serviços de polícia e de transportes da Marinha (QPSPTM), constituído por pessoal militarizado.
 
 2. O QPSPTM é único, sendo o pessoal que o integra distribuído pelos organismos da Marinha, conforme as necessidades de serviço.
 
-###### Art. 2.º - 1. O QPSPTM compreende os seguintes grupos:
+Art. 2.º - 1. O QPSPTM compreende os seguintes grupos:
 
 a) Grupo 1 - Corpo de Polícia Marítima;
 
@@ -118,31 +140,31 @@ d) Grupo 4 - Troço do mar.
 
 5. Quando, de acordo com o n.º 2 do artigo 14.º, todo o pessoal que ingressar nos grupos 1 e 3 tiver recebido a mesma preparação, e naqueles não existir qualquer elemento que tenha sido transferido ao abrigo do artigo 22.º, será esse pessoal integrado num único grupo.
 
-###### Art. 3.º As categorias do pessoal do QPSPTM são as indicadas no quadro anexo a este diploma, as quais poderão ser alteradas por decreto referenciado pelo Ministro das Finanças.
+Art. 3.º As categorias do pessoal do QPSPTM são as indicadas no quadro anexo a este diploma, as quais poderão ser alteradas por decreto referenciado pelo Ministro das Finanças.
 
-###### Art. 4.º - 1. Os grupos que constituem o QPSPTM exercem a autoridade que lhes é conferida pela legislação em vigor.
+Art. 4.º - 1. Os grupos que constituem o QPSPTM exercem a autoridade que lhes é conferida pela legislação em vigor.
 
 2. O pessoal do QPSPTM fica sujeito ao foro militar e à disciplina militar, na parte aplicável a militares, atentas às equivalências estabelecidas no quadro anexo a este decreto-lei.
 
 3. O referido pessoal fica sujeito, no âmbito do respectivo quadro, às disposições do Regulamento de Continências e Honras Militares e presta continência militar aos oficiais superiores das forças armadas e aos respectivos superiores hierárquicos.
 
-###### Art. 5.º O pessoal do QPSPTM é obrigado ao uso de uniformes, nas condições que forem estabelecidas em regulamento a aprovar por portaria do Chefe do Estado-Maior da Armada.
+Art. 5.º O pessoal do QPSPTM é obrigado ao uso de uniformes, nas condições que forem estabelecidas em regulamento a aprovar por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 6.º O pessoal do QPSPTM tem direito ao uso e porte de arma nas mesmas condições que as estabelecidas para os militares da Armada.
+Art. 6.º O pessoal do QPSPTM tem direito ao uso e porte de arma nas mesmas condições que as estabelecidas para os militares da Armada.
 
-###### Art. 7.º - 1. Compete à Direcção do Serviço de Pessoal tratar dos assuntos relativos ao pessoal do QPSPTM, designadamente no que respeita a admissão, promoção, movimento e registo.
+Art. 7.º - 1. Compete à Direcção do Serviço de Pessoal tratar dos assuntos relativos ao pessoal do QPSPTM, designadamente no que respeita a admissão, promoção, movimento e registo.
 
 2. Compete à mesma Direcção distribuir aquele pessoal pelos organismos da Marinha, de acordo com as lotações que forem estabelecidas por despacho do Chefe do Estado-Maior da Armada.
 
 3. Parte das atribuições a que se refere este artigo podem ser conferidas, relativamente ao pessoal que constitui cada um dos grupos do n.º 1 do artigo 2.º, ao oficial que comandar ou dirigir superiormente o pessoal desse grupo, em condições a definir por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 8.º - 1. O ingresso em cada um dos grupos referidos no n.º 1 do artigo 2.º realiza-se mediante concurso, observadas as disposições legais em vigor, e de acordo com instruções aprovadas por despacho do Chefe do Estado-Maior da Armada.
+Art. 8.º - 1. O ingresso em cada um dos grupos referidos no n.º 1 do artigo 2.º realiza-se mediante concurso, observadas as disposições legais em vigor, e de acordo com instruções aprovadas por despacho do Chefe do Estado-Maior da Armada.
 
 2. As habilitações mínimas referidas no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, podem ser substituídas por habilitações adquiridas nos estabelecimentos de ensino da Marinha.
 
 3. Aos concursos referidos no n.º 1 deste artigo poderão ser admitidos indivíduos do sexo feminino, devendo definir-se, por despacho do Chefe do Estado-Maior da Armada, quais os grupos em que tais indivíduos poderão ser admitidos, bem como as suas funções e efectivos.
 
-###### Art. 9.º - 1. O ingresso no grupo 1 - Corpo de Polícia Marítima - efectua-se na categoria de agente de 3.ª classe.
+Art. 9.º - 1. O ingresso no grupo 1 - Corpo de Polícia Marítima - efectua-se na categoria de agente de 3.ª classe.
 
 2. A promoção de agente de 3.ª classe a agente de 2.ª classe realiza-se por diuturnidade, após quatro anos de serviço efectivo naquela categoria.
 
@@ -154,7 +176,7 @@ d) Grupo 4 - Troço do mar.
 
 6. As restantes promoções realizam-se por antiguidade.
 
-###### Art. 10.º - 1. O ingresso no grupo 2 - Corpo de Polícia dos Estabelecimentos da Marinha - efectua-se na categoria de guarda auxiliar.
+Art. 10.º - 1. O ingresso no grupo 2 - Corpo de Polícia dos Estabelecimentos da Marinha - efectua-se na categoria de guarda auxiliar.
 
 2. A promoção a guarda de 3.ª classe efectua-se por concurso entre os guardas auxiliares.
 
@@ -168,7 +190,7 @@ d) Grupo 4 - Troço do mar.
 
 7. As restantes promoções realizam-se por antiguidade.
 
-###### Art. 11.º - 1. O ingresso no grupo 3 - Cabos-de-mar - efectua-se na categoria de cabo-de-mar de 3.ª classe.
+Art. 11.º - 1. O ingresso no grupo 3 - Cabos-de-mar - efectua-se na categoria de cabo-de-mar de 3.ª classe.
 
 2. A promoção de cabo-de-mar de 3.ª classe a cabo-de-mar de 2.ª classe realiza-se por diuturnidade, após quatro anos de serviço efectivo naquela categoria.
 
@@ -176,7 +198,7 @@ d) Grupo 4 - Troço do mar.
 
 4. As restantes promoções realizam-se por antiguidade.
 
-###### Art. 12.º - 1. O ingresso no grupo 4 - Troço do mar - efectua-se nas categorias de ajudante de manobra, de ajudante de maquinaria e de ajudante de electricista.
+Art. 12.º - 1. O ingresso no grupo 4 - Troço do mar - efectua-se nas categorias de ajudante de manobra, de ajudante de maquinaria e de ajudante de electricista.
 
 2. As promoções a sota-patrão de costa de 2.ª classe, a maquinista de 3.ª classe e a electricista de 3.ª classe realizam-se por concurso entre, respectivamente, os ajudantes de manobra, os ajudantes de maquinistas e os ajudantes de electricista.
 
@@ -186,25 +208,25 @@ d) Grupo 4 - Troço do mar.
 
 5. As promoções a cabo da ponte, maquinista-chefe e electricista-chefe realizam-se por concurso entre, respectivamente, os patrões de costa, maquinistas de 1.ª classe e electricistas de 1.ª classe com, pelo menos, dois anos de serviço efectivo nestas categorias.
 
-###### Art. 13.º - 1. O funcionamento dos concursos referidos nos artigos anteriores, respectivos programas e formas de classificação e as condições gerais e especiais de promoção serão fixados por portaria do Chefe do Estado-Maior da Armada.
+Art. 13.º - 1. O funcionamento dos concursos referidos nos artigos anteriores, respectivos programas e formas de classificação e as condições gerais e especiais de promoção serão fixados por portaria do Chefe do Estado-Maior da Armada.
 
 2. Os indivíduos que reprovem por três vezes nos concursos a que se referem os n.os 3 do artigo 9.º, 4 do artigo 10.º, 3 do artigo 11.º e 4 do artigo 12.º não poderão voltar a concorrer.
 
-###### Art. 14.º - 1. Os indivíduos que ingressem no QPSPTM receberão instrução profissional adequada às funções que vão desempenhar.
+Art. 14.º - 1. Os indivíduos que ingressem no QPSPTM receberão instrução profissional adequada às funções que vão desempenhar.
 
 2. A instrução profissional após o ingresso nos grupos 1 e 3 será ministrada de forma que o pessoal possa vir a servir indiferentemente em qualquer dos grupos, tendo em vista o disposto no n.º 5 do artigo 2.º
 
 3. O pessoal do grupo XII (mateiros) e os guardas de museu do grupo XXII, do quadro do pessoal civil do Ministério da Marinha (QPCMM), que, nos termos do artigo 22.º, sejam transferidos para o grupo 2 do QPSPTM receberão a instrução profissional que for considerada necessária para a sua integração no referido grupo.
 
-###### Art. 15.º A prestação de serviço do pessoal do QPSPTM é feita, no que se refere a horários, em condições idênticas às do pessoal militar da Armada.
+Art. 15.º A prestação de serviço do pessoal do QPSPTM é feita, no que se refere a horários, em condições idênticas às do pessoal militar da Armada.
 
-###### Art. 16.º - 1. O pessoal do QPSPTM tem direito a vencimentos de quantitativos iguais aos soldos, ordenados e prés dos militares da Armada dos quadros permanentes, segundo a equiparação do quadro anexo a este diploma.
+Art. 16.º - 1. O pessoal do QPSPTM tem direito a vencimentos de quantitativos iguais aos soldos, ordenados e prés dos militares da Armada dos quadros permanentes, segundo a equiparação do quadro anexo a este diploma.
 
 2. O regime de diuturnidades do mesmo pessoal será igual ao do pessoal das forças militarizadas, tendo em conta a correspondência dos respectivos vencimentos de base.
 
 3. A contagem do tempo de serviço para abono de diuturnidades é feita a partir da data de ingresso no QPSPTM ou, quando se trate de indivíduos provenientes dos quadros permanentes da Armada, do Exército ou da Força Aérea, do QPCMM ou dos quadros da Polícia de Segurança Pública, da Guarda Nacional Republicana ou da Guarda Fiscal, a partir da data do primeiro ingresso nestes quadros.
 
-###### Art. 17.º - 1. O pessoal do QPSPTM, além dos abonos e subsídios comuns a todos os servidores do Estado, tem direito mais aos seguintes:
+Art. 17.º - 1. O pessoal do QPSPTM, além dos abonos e subsídios comuns a todos os servidores do Estado, tem direito mais aos seguintes:
 
 a) Gratificação especial de serviço;
 
@@ -224,19 +246,19 @@ e) Auxílio para alimentação.
 
 5. O auxílio para alimentação é concedido nas condições fixadas para o pessoal das forças militarizadas.
 
-###### Art. 18.º - 1. Ao pessoal do QPSPTM são atribuídas regalias idênticas às estabelecidas para o pessoal da Armada em tudo o que respeita a assistência médica e medicamentosa, utilização dos estabelecimentos da Marinha de apoio social e benefícios de natureza análoga.
+Art. 18.º - 1. Ao pessoal do QPSPTM são atribuídas regalias idênticas às estabelecidas para o pessoal da Armada em tudo o que respeita a assistência médica e medicamentosa, utilização dos estabelecimentos da Marinha de apoio social e benefícios de natureza análoga.
 
 2. Quando o pessoal do QPSPTM preste serviço em situações onde não seja praticável a assistência referida no número anterior no âmbito militar, poderá optar pela assistência no âmbito da Assistência na Doença aos Servidores Civis do Estado, nos termos da legislação vigente.
 
-###### Art. 19.º Os regimes de licenças e de informações do pessoal do QPSPTM são idênticos aos estabelecidos para os militares da Armada.
+Art. 19.º Os regimes de licenças e de informações do pessoal do QPSPTM são idênticos aos estabelecidos para os militares da Armada.
 
-###### Art. 20.º O bilhete de identidade e outros documentos relativos à situação do pessoal do QPSPTM serão estabelecidos por portaria do Chefe do Estado-Maior da Armada.
+Art. 20.º O bilhete de identidade e outros documentos relativos à situação do pessoal do QPSPTM serão estabelecidos por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 21.º - 1. Os elementos do QPSPTM são abatidos a este quadro em condições análogas àquelas em que os militares da Armada são demitidos ou transferidos para os quadros de complemento.
+Art. 21.º - 1. Os elementos do QPSPTM são abatidos a este quadro em condições análogas àquelas em que os militares da Armada são demitidos ou transferidos para os quadros de complemento.
 
 2. Os indivíduos a que se refere o número anterior são incluídos na reserva marítima nas condições estabelecidas na legislação das reservas da Marinha.
 
-###### Art. 22.º - 1. São extintas as categorias dos actuais grupos IX, X, XI, XII e XIV e a de guarda de museu do grupo XXII do QPCMM.
+Art. 22.º - 1. São extintas as categorias dos actuais grupos IX, X, XI, XII e XIV e a de guarda de museu do grupo XXII do QPCMM.
 
 2. O pessoal actualmente incluído nas categorias extintas nos termos do número anterior ingressa em novas categorias, mantendo a sua antiguidade relativa, de acordo com o sistema seguinte:
 
@@ -256,7 +278,7 @@ e) As restantes categorias ingressam nas novas categorias de igual designação.
 
 3. O ingresso nas novas categorias constará da lista aprovada pelo Chefe do Estado-Maior da Armada a publicar no Diário do Governo, depois de anotada pela Direcção-Geral do Tribunal de Contas.
 
-###### Art. 23.º - 1. A aposentação e a respectiva contagem de tempo e os limites de idade do pessoal do QPSPTM processam-se em condições iguais e pela forma estabelecida para o pessoal das forças da Guarda Fiscal.
+Art. 23.º - 1. A aposentação e a respectiva contagem de tempo e os limites de idade do pessoal do QPSPTM processam-se em condições iguais e pela forma estabelecida para o pessoal das forças da Guarda Fiscal.
 
 2. Mantém-se transitoriamente em vigor o disposto nos n.os 2 e 3 do artigo 16.º do [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), de 14 de Dezembro.
 
@@ -264,26 +286,26 @@ e) As restantes categorias ingressam nas novas categorias de igual designação.
 
 4. O acréscimo da contagem de tempo resultante do disposto no n.º 1 sujeita os subscritores da Caixa Geral de Aposentações ao pagamento de quotas, nos termos da legislação em vigor.
 
-###### Art. 24.º O Chefe do Estado-Maior da Armada fixará, por decreto referendado pelo Ministro das Finanças, os efectivos, para cada categoria, dos grupos de pessoal do QPSPTM.
+Art. 24.º O Chefe do Estado-Maior da Armada fixará, por decreto referendado pelo Ministro das Finanças, os efectivos, para cada categoria, dos grupos de pessoal do QPSPTM.
 
-###### Art. 25.º Para o pessoal transferido do QPCMM para o QPSPTM, ao abrigo do artigo 22.º, serão considerados válidos os concursos realizados no âmbito do primeiro daqueles quadros para efeitos de ascensão de categorias, bem como os prazos de validade que tenham sido estabelecidos para os mesmos concursos.
+Art. 25.º Para o pessoal transferido do QPCMM para o QPSPTM, ao abrigo do artigo 22.º, serão considerados válidos os concursos realizados no âmbito do primeiro daqueles quadros para efeitos de ascensão de categorias, bem como os prazos de validade que tenham sido estabelecidos para os mesmos concursos.
 
-###### Art. 26.º As alterações introduzidas pelo presente diploma vigoram a partir de 1 de Janeiro de 1975, sendo provisoriamente os efectivos das categorias do QPSPTM os correspondentes aos das categorias extintas nos termos do artigo 22.º e devendo, no corrente ano, o aumento de encargos resultantes ser suportado por verba global a inscrever no orçamento da Marinha.
+Art. 26.º As alterações introduzidas pelo presente diploma vigoram a partir de 1 de Janeiro de 1975, sendo provisoriamente os efectivos das categorias do QPSPTM os correspondentes aos das categorias extintas nos termos do artigo 22.º e devendo, no corrente ano, o aumento de encargos resultantes ser suportado por verba global a inscrever no orçamento da Marinha.
 
-###### Art. 27.º As dúvidas e os casos omissos suscitados na aplicação deste diploma são esclarecidos por despacho do Chefe do Estado-Maior da Armada e, sendo necessário, do Ministério das Finanças.
+Art. 27.º As dúvidas e os casos omissos suscitados na aplicação deste diploma são esclarecidos por despacho do Chefe do Estado-Maior da Armada e, sendo necessário, do Ministério das Finanças.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - Victor Manuel Rodrigues Alves - José da Silva Lopes.
 
-**Promulgado em 13 de Março de 1975.**
+Promulgado em 13 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 QUADRO
 
 (A que se referem os artigos 3.º, 4.º e 16.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/04/08600/05380541.pdf))](https://files.diariodarepublica.pt/1s/1975/04/08600/05380541.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/08600/05380541.pdf)
 
-**O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo. - O Chefe do Estado-Maior do Exército, Carlos Alberto Idães Soares Fabião. - O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias. - O Ministro da Defesa Nacional, Victor Manuel Rodrigues Alves. - O Ministro das Finanças, José da Silva Lopes.**
+O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo. - O Chefe do Estado-Maior do Exército, Carlos Alberto Idães Soares Fabião. - O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias. - O Ministro da Defesa Nacional, Victor Manuel Rodrigues Alves. - O Ministro das Finanças, José da Silva Lopes.

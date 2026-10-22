@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/462-1972-686245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 922998c620d747d99d3bea0089b9af12fb4a181136d931fb08b4189cbfd3d639
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fbb8ad7f52cf69ea1ff7805882f76e5d88a8cca7565e5c5fc17c3964db8efbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,28 @@ relationships:
   target: pt:dre:465456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:171574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486753:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:40Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +104,17 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Ao presidente do conselho administrativo dos Cofres Gerais de Justiça, além de dirigir as sessões do conselho, incumbe dar execução às deliberações tomadas, dar despacho ao expediente, superintender nos serviços de secretaria e remeter, para aprovação, ao Conselho Superior Judiciário do Ultramar o projecto de orçamento para o ano imediato proposto pelo conselho administrativo.
+Artigo 1.º Ao presidente do conselho administrativo dos Cofres Gerais de Justiça, além de dirigir as sessões do conselho, incumbe dar execução às deliberações tomadas, dar despacho ao expediente, superintender nos serviços de secretaria e remeter, para aprovação, ao Conselho Superior Judiciário do Ultramar o projecto de orçamento para o ano imediato proposto pelo conselho administrativo.
 
-###### Art. 2.º - 1. Os Cofres Gerais de Justiça de Angola e Moçambique terão secretarias privativas, directamente chefiadas por um secretário, com o pessoal constante do mapa anexo a este diploma.
+Art. 2.º - 1. Os Cofres Gerais de Justiça de Angola e Moçambique terão secretarias privativas, directamente chefiadas por um secretário, com o pessoal constante do mapa anexo a este diploma.
 
 2. As alterações futuras na qualificação do pessoal serão feitas pelo Ministro do Ultramar, mas os governos das províncias, sob proposta dos conselhos administrativos, poderão aumentar o número de unidades pertencentes ao quadro privativo.
 
 3. Para a execução de trabalhos com carácter eventual poderá o conselho administrativo, mediante prévia aprovação do Conselho Superior Judiciário do Ultramar, contratar pessoal especializado, nos termos da alínea e) do artigo 45.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 3.º Nas outras províncias, os serviços de secretaria serão desempenhados pelo escrivão mais antigo da comarca da capital, em acumulação com as suas funções próprias, podendo ser contratado, com a autorização do Conselho Superior Judiciário do Ultramar, pessoal auxiliar com a capacidade para o exercício da função pública estabelecida na lei geral.
+Art. 3.º Nas outras províncias, os serviços de secretaria serão desempenhados pelo escrivão mais antigo da comarca da capital, em acumulação com as suas funções próprias, podendo ser contratado, com a autorização do Conselho Superior Judiciário do Ultramar, pessoal auxiliar com a capacidade para o exercício da função pública estabelecida na lei geral.
 
-###### Art. 4.º - 1. As secretarias dos Cofres Gerais de Justiça em Angola e Moçambique serão constituídas por duas secções.
+Art. 4.º - 1. As secretarias dos Cofres Gerais de Justiça em Angola e Moçambique serão constituídas por duas secções.
 
 2. Competirá à 1.ª secção:
 
@@ -148,9 +160,9 @@ j) Lavrar os actos de entrega e recepção nos termos do Regulamento para Atribu
 
 4. A distribuição do pessoal pelas secções será feita pelo presidente do conselho administrativo, de harmonia com as necessidades do serviço.
 
-###### Art. 5.º Nas outras províncias, as atribuições referidas nos n.os 2 e 3 do artigo anterior pertencerão ao secretário e ao pessoal auxiliar nos termos que forem determinados pelo presidente do conselho administrativo.
+Art. 5.º Nas outras províncias, as atribuições referidas nos n.os 2 e 3 do artigo anterior pertencerão ao secretário e ao pessoal auxiliar nos termos que forem determinados pelo presidente do conselho administrativo.
 
-###### Art. 6.º Incumbirá, especialmente, ao secretário:
+Art. 6.º Incumbirá, especialmente, ao secretário:
 
 a) Dirigir os serviços de secretaria e distribuir pelos funcionários as tarefas a executar;
 
@@ -172,63 +184,63 @@ i) Encerrar o livro de ponto;
 
 j) As demais funções que lhe venham a ser fixadas no regulamento do Cofre.
 
-###### Art. 7.º - 1. O secretário, nas suas faltas e impedimentos, será substituído, em Angola e Moçambique, pelo chefe de secção, e este, pelo primeiro-oficial mais antigo.
+Art. 7.º - 1. O secretário, nas suas faltas e impedimentos, será substituído, em Angola e Moçambique, pelo chefe de secção, e este, pelo primeiro-oficial mais antigo.
 
 2. Nas restantes províncias, pelo escrivão que lhe suceder em antiguidade na categoria, e na sua falta, pelo substituto legal nas mesmas condições.
 
-###### Art. 8.º Os funcionários de secretaria terão todos os direitos e regalias dos funcionários públicos e as gratificações fixadas no mapa anexo a este diploma, sendo as despesas com os seus vencimentos e abonos suportadas pelo Cofre.
+Art. 8.º Os funcionários de secretaria terão todos os direitos e regalias dos funcionários públicos e as gratificações fixadas no mapa anexo a este diploma, sendo as despesas com os seus vencimentos e abonos suportadas pelo Cofre.
 
-###### Art. 9.º O conselho administrativo dos Cofres Gerais de Justiça de Angola e Moçambique deixa de ser remunerado por senhas de presença, passando os seus membros a perceber as gratificações mensais seguintes:
+Art. 9.º O conselho administrativo dos Cofres Gerais de Justiça de Angola e Moçambique deixa de ser remunerado por senhas de presença, passando os seus membros a perceber as gratificações mensais seguintes:
 
 Presidente ... 2500$00
 
 Vogais ... 2000$00
 
-###### Art. 10.º - 1. Os lugares de secretário e de chefe de secção serão providos, mediante concurso documental, por indivíduos que possuam as condições gerais de provimento na função pública e as habilitações especialmente requeridas para o cargo ou por funcionários públicos de categoria não inferior a primeiro-oficial, com boas informações e experiência em serviços de contabilidade ou de fiscalização das contas públicas.
+Art. 10.º - 1. Os lugares de secretário e de chefe de secção serão providos, mediante concurso documental, por indivíduos que possuam as condições gerais de provimento na função pública e as habilitações especialmente requeridas para o cargo ou por funcionários públicos de categoria não inferior a primeiro-oficial, com boas informações e experiência em serviços de contabilidade ou de fiscalização das contas públicas.
 
 2. Poderão também esses lugares ser providos, em comissão, por funcionários judiciais de categoria não inferior a escrivão de direito de 1.ª classe ou contador.
 
 3. No caso do número anterior, será assegurada pelo Cofre Geral de Justiça, além da remuneração certa, a participação emolumentar correspondente ao limite da sua categoria no quadro de origem.
 
-###### Art. 11.º - 1. O lugar de encarregado geral do depósito será provido por escolha, mediante proposta do presidente do conselho administrativo, entre indivíduos com a habilitação mínima do ciclo preparatório ou equivalente.
+Art. 11.º - 1. O lugar de encarregado geral do depósito será provido por escolha, mediante proposta do presidente do conselho administrativo, entre indivíduos com a habilitação mínima do ciclo preparatório ou equivalente.
 
 2. Terá o vencimento inicial correspondente a terceiro-oficial, mas, decorridos cinco e dez anos de serviço efectivo, com boas informações, ascenderá, respectivamente, às categorias de segundo-oficial e primeiro-oficial.
 
-###### Art. 12.º - 1. Os funcionários que actualmente prestam serviço no Cofre Geral de Justiça e satisfaçam os requisitos gerais para o exercício da função pública, excepto a idade, poderão transitar, por simples deliberação do conselho administrativo, para a categoria correspondente aos vencimentos que vêm auferindo.
+Art. 12.º - 1. Os funcionários que actualmente prestam serviço no Cofre Geral de Justiça e satisfaçam os requisitos gerais para o exercício da função pública, excepto a idade, poderão transitar, por simples deliberação do conselho administrativo, para a categoria correspondente aos vencimentos que vêm auferindo.
 
 2. Os funcionários que não transitarem nos termos do número anterior continuarão a prestar serviço na secretaria do Cofre, com direito à remuneração que vêm auferindo, mas serão colocados nas primeiras vagas correspondentes às suas categorias que se abrirem em qualquer dos serviços da província, integrados no Cofre Geral de Justiça, quando não deverem ser dispensados no termo dos respectivos contratos.
 
-###### Art. 13.º - 1. O primeiro provimento dos lugares de secretário será feito pelo Ministro do Ultramar, sob proposta do Conselho Superior Judiciário do Ultramar, ouvido o conselho administrativo do respectivo Cofre Geral de Justiça.
+Art. 13.º - 1. O primeiro provimento dos lugares de secretário será feito pelo Ministro do Ultramar, sob proposta do Conselho Superior Judiciário do Ultramar, ouvido o conselho administrativo do respectivo Cofre Geral de Justiça.
 
 2. O primeiro provimento dos lugares de chefe de secção e dos lugares que não forem preenchidos nos termos do n.º 1 do artigo anterior far-se-á, por proposta do presidente do conselho administrativo, entre indivíduos que reúnam as condições gerais de nomeação ou sejam funcionários públicos com categoria não inferior a terceiro-oficial ou equivalente e boas informações.
 
-###### Art. 14.º Os concursos para ajudantes de escrivão abertos antes da publicação do presente diploma regem-se pela legislação em vigor à data da respectiva abertura e os candidatos que neles forem aprovados serão nomeados para vagas de ajudante de escrivão de 2.ª classe.
+Art. 14.º Os concursos para ajudantes de escrivão abertos antes da publicação do presente diploma regem-se pela legislação em vigor à data da respectiva abertura e os candidatos que neles forem aprovados serão nomeados para vagas de ajudante de escrivão de 2.ª classe.
 
-###### Art. 15.º Aos concursos para ajudantes de escrivão de 2.ª classe poderão ser admitidos os escrivães-contadores dos julgados municipais de 2.ª classe habilitados, pelo menos, com o ciclo preparatório do curso secundário e com mais de um ano de serviço efectivo e boas informações.
+Art. 15.º Aos concursos para ajudantes de escrivão de 2.ª classe poderão ser admitidos os escrivães-contadores dos julgados municipais de 2.ª classe habilitados, pelo menos, com o ciclo preparatório do curso secundário e com mais de um ano de serviço efectivo e boas informações.
 
-###### Art. 16.º O provimento dos lugares de ajudante de escrivão de 2.ª classe, na falta de indivíduos habilitados com concurso, poderá ser feito em escriturários-dactilógrafos de 1.ª classe dos tribunais judiciais da metrópole com, pelo menos, dois anos de serviço na classe e classificação não inferior à de Bom.
+Art. 16.º O provimento dos lugares de ajudante de escrivão de 2.ª classe, na falta de indivíduos habilitados com concurso, poderá ser feito em escriturários-dactilógrafos de 1.ª classe dos tribunais judiciais da metrópole com, pelo menos, dois anos de serviço na classe e classificação não inferior à de Bom.
 
-###### Art. 17.º Quando parecer mais conveniente aos interesses dos serviços de justiça, abrir-se-á concurso de provas práticas para provimento dos lugares de oficial de diligências.
+Art. 17.º Quando parecer mais conveniente aos interesses dos serviços de justiça, abrir-se-á concurso de provas práticas para provimento dos lugares de oficial de diligências.
 
-###### Art. 18.º As funções de escrivão dos julgados municipais de 1.ª classe são exercidas por ajudantes de escrivão, de preferência designados entre os de classe mais elevada ou de maior antiguidade na categoria.
+Art. 18.º As funções de escrivão dos julgados municipais de 1.ª classe são exercidas por ajudantes de escrivão, de preferência designados entre os de classe mais elevada ou de maior antiguidade na categoria.
 
-###### Art. 19.º Os Cofres Gerais de Justiça em Angola e Moçambique abonam a participação emolumentar mensal de 2000$00 aos ajudantes em serviço efectivo de escrivães dos julgados municipais de 1.ª classe, acrescendo aos emolumentos percebidos até o limite legal, que se considerará, todavia, atingido com a dedução daquele abono.
+Art. 19.º Os Cofres Gerais de Justiça em Angola e Moçambique abonam a participação emolumentar mensal de 2000$00 aos ajudantes em serviço efectivo de escrivães dos julgados municipais de 1.ª classe, acrescendo aos emolumentos percebidos até o limite legal, que se considerará, todavia, atingido com a dedução daquele abono.
 
-###### Art. 20.º Independentemente dos casos especialmente regulados, na falta ou impedimento de qualquer funcionário é este substituído, enquanto não for superiormente providenciado, por provisão e pela forma determinada pelo presidente do tribunal ou pelo juiz mais antigo na classe, em relação às secretarias comuns a vários tribunais, podendo inclusivamente prover-se interinamente o lugar a substituir em pessoa estranha ao quadro que satisfaça os requisitos gerais para o exercício da função pública.
+Art. 20.º Independentemente dos casos especialmente regulados, na falta ou impedimento de qualquer funcionário é este substituído, enquanto não for superiormente providenciado, por provisão e pela forma determinada pelo presidente do tribunal ou pelo juiz mais antigo na classe, em relação às secretarias comuns a vários tribunais, podendo inclusivamente prover-se interinamente o lugar a substituir em pessoa estranha ao quadro que satisfaça os requisitos gerais para o exercício da função pública.
 
-###### Art. 21.º Nos quadros do pessoal de secretaria de cada um dos tribunais de polícia do ultramar passa a existir um escrivão de direito da classe correspondente à da comarca da sua sede, deixando tais funções de ser exercidas em acumulação.
+Art. 21.º Nos quadros do pessoal de secretaria de cada um dos tribunais de polícia do ultramar passa a existir um escrivão de direito da classe correspondente à da comarca da sua sede, deixando tais funções de ser exercidas em acumulação.
 
-###### Art. 22.º - 1. É criado, no quadro do pessoal do Tribunal da Relação de Lourenço Marques, directamente subordinado ao presidente, o lugar de bibliotecário-documentalista, com a categoria da letra F.
+Art. 22.º - 1. É criado, no quadro do pessoal do Tribunal da Relação de Lourenço Marques, directamente subordinado ao presidente, o lugar de bibliotecário-documentalista, com a categoria da letra F.
 
 2. O lugar será provido por diplomado com curso superior adequado, de preferência em Direito, sob proposta do presidente da Relação.
 
 3. A regulamentação dos serviços da biblioteca e bem assim o seu quadro de pessoal técnico e administrativo serão aprovados por diploma do Governo-Geral.
 
-###### Art. 23.º - 1. É anexado à comarca da Matola o Julgado Municipal da Moamba, que deixa de fazer parte da comarca de Lourenço Marques.
+Art. 23.º - 1. É anexado à comarca da Matola o Julgado Municipal da Moamba, que deixa de fazer parte da comarca de Lourenço Marques.
 
 2. É anexado à comarca de Lourenço Marques o Julgado Municipal de Maputo, que deixa de fazer parte da comarca da Matola.
 
-###### Art. 24.º - 1. Quando o serviço judicial dos tribunais administrativos de Angola e Moçambique se encontre consideràvelmente aglomerado, poderão ser designados juízes-adjuntos, indispensáveis à pronta normalização do serviço, os juizes desembargadores ou de direito do quadro do ultramar ou mesmo da metrópole que se encontrem em comissão militar no ultramar e sejam para isso autorizados pelo comando-chefe.
+Art. 24.º - 1. Quando o serviço judicial dos tribunais administrativos de Angola e Moçambique se encontre consideràvelmente aglomerado, poderão ser designados juízes-adjuntos, indispensáveis à pronta normalização do serviço, os juizes desembargadores ou de direito do quadro do ultramar ou mesmo da metrópole que se encontrem em comissão militar no ultramar e sejam para isso autorizados pelo comando-chefe.
 
 2. A designação será feita por períodos renováveis de um ano e, quando seja caso disso, ùnicamente pelo período por que durar a comissão militar.
 
@@ -244,9 +256,9 @@ Vogais ... 2000$00
 
 8. A renovação dos períodos de serviço extraordinário regulado neste preceito só será admitida em circunstâncias excepcionais, precedendo parecer favorável do Conselho Superior Judiciário do Ultramar, mediante proposta fundamentada do presidente do Tribunal.
 
-###### Art. 25.º Quando o serviço de secretaria de alguma das secções dos tribunais administrativos estiver consideràvelmente aglomerado, poderá ser contratado, fora dos quadros e por período não superior a um ano, o pessoal que se repute necessário para a normalização dos serviços, suportando o encargo o Cofre Geral de Justiça.
+Art. 25.º Quando o serviço de secretaria de alguma das secções dos tribunais administrativos estiver consideràvelmente aglomerado, poderá ser contratado, fora dos quadros e por período não superior a um ano, o pessoal que se repute necessário para a normalização dos serviços, suportando o encargo o Cofre Geral de Justiça.
 
-###### Art. 26.º - 1. A participação emolumentar dos funcionários de justiça é integrada mensalmente, não podendo, em cada mês, exceder os limites legalmente estabelecidos, salvo relativamente ao último mês do ano, em que os meses deficitários serão compensados com os excedentes de outros meses do mesmo ano.
+Art. 26.º - 1. A participação emolumentar dos funcionários de justiça é integrada mensalmente, não podendo, em cada mês, exceder os limites legalmente estabelecidos, salvo relativamente ao último mês do ano, em que os meses deficitários serão compensados com os excedentes de outros meses do mesmo ano.
 
 2. A participação emolumentar correspondente ao subsídio de renda de casa consiste ùnicamente na diferença entre o abonado pelo orçamento geral da província e o correspondente a 95 por cento do atribuído à categoria fixada na lei como limite da participação emolumentar.
 
@@ -258,13 +270,13 @@ Vogais ... 2000$00
 
 6. Nos processos crimes instruídos pela Polícia Judiciária ou julgados pelos tribunais de polícia, a percentagem do imposto de justiça que pela legislação em vigor é destinada aos Cofres Gerais de Justiça será repartida entre o Cofre da Polícia Judiciária instituído pelo artigo 12.º do [Decreto n.º 43742](https://diariodarepublica.pt/dr/detalhe/decreto/43742-1961-171574), de 21 de Junho de 1961, cabendo a este a percentagem de 10 por cento e ao Cofre Geral de Justiça os 5 por cento restantes da referida participação, acrescendo ainda àquele Cofre a receita proveniente da aplicação de multas, nas mesmas condições e percentagens.
 
-###### Art. 27.º - 1. A participação emolumentar fixa de 4000$00 mensais para cada um dos magistrados de carreira, judiciais e do Ministério Público, dos ajudantes do procurador da República e inspectores da Polícia Judiciária constitui encargo dos Cofres Gerais de Justiça, que só será satisfeito, porém, quando tenha cabimento dentro das receitas ordinárias de cada ano.
+Art. 27.º - 1. A participação emolumentar fixa de 4000$00 mensais para cada um dos magistrados de carreira, judiciais e do Ministério Público, dos ajudantes do procurador da República e inspectores da Polícia Judiciária constitui encargo dos Cofres Gerais de Justiça, que só será satisfeito, porém, quando tenha cabimento dentro das receitas ordinárias de cada ano.
 
 2. Na falta de cabimento integral para todos os que a esta participação tenham direito, nos termos do número anterior, proceder-se-á a rateio da verba disponível entre todos e em partes iguais.
 
 3. As gratificações actualmente atribuídas a magistrados pelo exercício de comissões ordinárias de serviço serão revistas e actualizadas pelas províncias, logo que para isso existam disponibilidades orçamentais.
 
-###### Art. 28.º - 1. A licença graciosa dos funcionários dos quadros ultramarinos deixa de abranger os magistrados judiciais e do Ministério Público do ultramar.
+Art. 28.º - 1. A licença graciosa dos funcionários dos quadros ultramarinos deixa de abranger os magistrados judiciais e do Ministério Público do ultramar.
 
 2. Logo que os magistrados referidos no número anterior e os inspectores superiores de justiça completem o segundo exercício do ano judicial em efectivo serviço no ultramar, terão direito ao gozo das férias grandes judiciais na metrópole ou noutra província ultramarina, com passagens pagas ao magistrado e às pessoas de família referidas no artigo 231.º do Estatuto do Funcionalismo Ultramarino, por conta do Estado.
 
@@ -284,15 +296,15 @@ Vogais ... 2000$00
 
 10. São supletivamente aplicáveis as disposições relativas à licença graciosa dos funcionários em geral, devendo, no tocante ao cumprimento do artigo 232.º do Estatuto do Funcionalismo Ultramarino, ter-se em consideração a natureza e especial fim do direito consignado no presente preceito e aplicar o artigo 233.º do mesmo diploma, graduando os magistrados imediatamente a seguir à alínea c), quando não caibam nas alíneas anteriores.
 
-###### Art. 29.º - 1. O disposto no artigo anterior não é aplicável aos magistrados que actualmente se encontrem em gozo de licença graciosa e que a poderão completar, nem aos que, pela lei anterior, já tenham completado o tempo necessário à aquisição do direito à licença graciosa, desde que a requeiram no prazo de sessenta dias, a partir da data da publicação deste decreto.
+Art. 29.º - 1. O disposto no artigo anterior não é aplicável aos magistrados que actualmente se encontrem em gozo de licença graciosa e que a poderão completar, nem aos que, pela lei anterior, já tenham completado o tempo necessário à aquisição do direito à licença graciosa, desde que a requeiram no prazo de sessenta dias, a partir da data da publicação deste decreto.
 
 2. Aos magistrados que se encontrem aguardando o seu lugar na escala de prioridades a que se refere o artigo 232.º do Estatuto do Funcionalismo Ultramarino e requeiram a concessão de passagens nos termos do número anterior é imediatamente aplicável o disposto no n.º 10 do artigo antecedente.
 
 3. Quando o cônjuge do magistrado seja funcionário sujeito ao Estatuto do Funcionalismo Ultramarino, poderá renunciar ao direito a licenças graciosas, optando pela submissão ao regime de férias do marido, mediante requerimento apresentado nos próprios serviços, considerando-se, quanto aos serviços de educação, que a opção jamais poderá prejudicar o retorno ao serviço no início do ano escolar.
 
-###### Art. 30.º Quando os magistrados e funcionários de justiça dos quadros das províncias ultramarinas se desloquem dentro destas em funções de inspecção ou superintendência que determinem a necessidade de despesas de instalação superiores ao montante da ajuda de custo legal, os Cofres Gerais de Justiça abonarão a diferença despendida dentro de limites que para as respectivas categorias vierem a ser fixados.
+Art. 30.º Quando os magistrados e funcionários de justiça dos quadros das províncias ultramarinas se desloquem dentro destas em funções de inspecção ou superintendência que determinem a necessidade de despesas de instalação superiores ao montante da ajuda de custo legal, os Cofres Gerais de Justiça abonarão a diferença despendida dentro de limites que para as respectivas categorias vierem a ser fixados.
 
-###### Art. 31.º - 1. Os juízes dos Tribunais da Relação de Luanda e Lourenço Marques passam a ficar agrupados em duas secções, a 1.ª constituída por quatro juizes, e a 2.ª, por três.
+Art. 31.º - 1. Os juízes dos Tribunais da Relação de Luanda e Lourenço Marques passam a ficar agrupados em duas secções, a 1.ª constituída por quatro juizes, e a 2.ª, por três.
 
 2. O primeiro agrupamento será realizado pelo presidente do respectivo tribunal e será renovado, por sorteio, na primeira sessão do mês de Dezembro, em reunião conjunta das secções, após completados três anos sobre o primeiro agrupamento.
 
@@ -300,17 +312,17 @@ Vogais ... 2000$00
 
 4. O Conselho Superior Judiciário do Ultramar poderá autorizar a mudança de secção ou a permuta entre juízes de secções diferentes quando razões ponderosas os justifiquem.
 
-###### Art. 32.º - 1. Os presidentes dos tribunais da Relação deixam de intervir como adjuntos nos processos que vierem a ser conclusos após a entrada em vigor do presente diploma.
+Art. 32.º - 1. Os presidentes dos tribunais da Relação deixam de intervir como adjuntos nos processos que vierem a ser conclusos após a entrada em vigor do presente diploma.
 
 2. Quando, no domínio de uma questão de direito, se não puder formar a maioria requerida pela lei de processo para haver vencimento, terá o presidente voto de desempate.
 
 3. A fixação dos quadros de administradores de falências, atribuída aos presidentes das Relações pela legislação em vigor, deverá ser entendida como envolvendo a obrigação de concretamente designarem os indivíduos que os deverão compor e de sobre eles exercer o poder disciplinar respectivo e de providenciar sobre a sua substituição no quadro.
 
-###### Art. 33.º O n.º 3 do artigo 709.º do Código de Processo Civil passa a ter, para os processos julgados nas comarcas do ultramar, a seguinte redacção:
+Art. 33.º O n.º 3 do artigo 709.º do Código de Processo Civil passa a ter, para os processos julgados nas comarcas do ultramar, a seguinte redacção:
 
 3. A discussão é dirigida pelo presidente, bastando dois votos conformes para haver vencimento em questões de direito; porém, quanto à matéria de facto, são necessários três votos conformes, aplicando-se o n.º 2 do artigo 728.º sempre que não houver conformidade de votos dos juízes que tenham visto o processo.
 
-###### Art. 34.º - 1. Enquanto não forem instituídas no ultramar comissões corporativas com estrutura e organização idênticas às estabelecidas para a metrópole, não terá aplicação, no ultramar, o artigo 85.º do Código de Processo do Trabalho, seguindo-se quanto aos litígios a que tal preceito se refere o processo estabelecido no artigo 81.º e seguintes.
+Art. 34.º - 1. Enquanto não forem instituídas no ultramar comissões corporativas com estrutura e organização idênticas às estabelecidas para a metrópole, não terá aplicação, no ultramar, o artigo 85.º do Código de Processo do Trabalho, seguindo-se quanto aos litígios a que tal preceito se refere o processo estabelecido no artigo 81.º e seguintes.
 
 2. No caso de anormal aglomeração de pedidos de tentativa de conciliação a cargo dos agentes do Ministério Público junto dos Tribunais do Trabalho de Luanda e de Lourenço Marques, poderá o Governador-Geral, mediante proposta do procurador da República, autorizar que, pelo período de um ano, um ou ambos os delegados do procurador da República junto das varas cíveis das respectivas comarcas exerçam as funções de agente do Ministério Público junto do Tribunal do Trabalho, em acumulação com as suas funções e cumulativamente com o titular do lugar, sendo pela acumulação remunerados nos termos do artigo 60.º do Estatuto do Funcionalismo Ultramarino.
 
@@ -320,14 +332,14 @@ Vogais ... 2000$00
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Novembro de 1972.**
+Promulgado em 3 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/26800/16761680.pdf))](https://files.diariodarepublica.pt/1s/1972/11/26800/16761680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/26800/16761680.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

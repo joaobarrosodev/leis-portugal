@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 11/1974, 1º Suplemento, Série I de 1974-01-14
   number: '11'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 42-(23) a 42-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/01101/00230028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1974-283574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e234e15586a223d32d5fa320ed9d03f4ca3a60d624f58aaed80eb593683282af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb9d7fca0bf7c3eac4ab18534283f232de05768dcd8110ccd6c475f1974d922e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Portos
+- Extinção de Serviços
+- Junta Autónoma do Porto da Figueira da Foz
+- Junta Autónoma do Porto de Angra do Heroísmo
+- Junta Autónoma do Porto de Aveiro
+- Junta Autónoma do Porto de Setúbal
+- Junta Autónoma dos Portos do Arquipélago da Madeira
+- Junta Autónoma dos Portos do Barlavento do Algarve
+- Junta Autónoma dos Portos do Centro
+- Junta Autónoma dos Portos do Distrito de Ponta Delgada
+- Junta Autónoma dos Portos do Norte
+- Junta Autónoma dos Portos do Sotavento do Algarve
+- Orgânica
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:235947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229124:por
+  label: "Prorrogada para 01.01.1975 a entrada em vigor do presente diploma pelo DEC LEI.294/74.29.06.1974.MESA, DG.IS [150-Supl]\
+    \ de 29.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1974-229124
+  date: '1974-06-29'
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:235947:por
+  label: "Revogado o presente diploma, com a alteração constante do Dec lei 294/74 de 29-Jun, pelo DEC LEI.805/74.31.12.1974.MESA,\
+    \ DG.IS [303-6ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/805-1974-235947
+  date: '1974-12-31'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:06Z'
   warnings: []
   errors: []
 ---
@@ -433,8 +505,8 @@ O presente diploma entrará em vigor no dia 1 de Julho de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 11 de Janeiro de 1974.**
+Promulgado em 11 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

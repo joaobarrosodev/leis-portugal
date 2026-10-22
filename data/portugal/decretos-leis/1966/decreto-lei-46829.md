@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b278fe6318a0e84ba58f34f98ceb72a0db2520155b9e9db5b0994b29413bc026
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1ab414582cf877928150bf3773fa923b4e95e0bdbbf5f010cf08165b8a02f54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão Permanente para a Aplicação dos Direitos Anti-dumping e Compensadores
+- Concorrência
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral das Alfândegas
+- Direitos Anti-dumping
+- Exportação
+- Importação
+- Política de Preços
 relationships:
 - type: amended_by
   target: pt:dre:253414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502800:por
+  label: "Alterada a composição da Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores criada e\
+    \ constituída pelo art. 10º do presente diploma pelo DEC LEI.249/76.07.04.1976.MCOME, DG.IS [83] de 07.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-1976-502800
+  date: '1976-04-07'
+- type: amended_by
+  target: pt:dre:253414:por
+  label: "Alterada a composição da Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores criada e\
+    \ constituída pelo 10º do presente diploma pelo DEC LEI.247/77.11.06.1977.MCT, DR.IS [134] de 11.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1977-253414
+  date: '1977-06-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:54Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +127,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Se da prática do dumping em relação a uma dada mercadoria ou mercadorias de uma dada natureza, importadas no continente e ilhas adjacentes ou nas províncias ultramarinas resultarem ou puderem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou o atraso considerável na instalação de um novo ramo da produção em território nacional, as importações dessa mercadoria ou de mercadorias dessa natureza podem ser sujeitas, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, a um direito especial denominado direito anti-dumping, de montante não superior à margem de dumping.
+Artigo 1.º Se da prática do dumping em relação a uma dada mercadoria ou mercadorias de uma dada natureza, importadas no continente e ilhas adjacentes ou nas províncias ultramarinas resultarem ou puderem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou o atraso considerável na instalação de um novo ramo da produção em território nacional, as importações dessa mercadoria ou de mercadorias dessa natureza podem ser sujeitas, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, a um direito especial denominado direito anti-dumping, de montante não superior à margem de dumping.
 
-###### Art. 2.º Se da concessão de subsídios em relação a uma mercadoria ou mercadorias de uma dada natureza, importadas no continente e ilhas adjacentes ou nas províncias ultramarinas, resultarem ou puderem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou o atraso considerável na instalação de um novo ramo de produção em território nacional, as importações dessa mercadoria ou de mercadorias dessa natureza podem ser sujeitas, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, a um direito especial denominado direito compensador, de montante não superior ao subsídio concedido.
+Art. 2.º Se da concessão de subsídios em relação a uma mercadoria ou mercadorias de uma dada natureza, importadas no continente e ilhas adjacentes ou nas províncias ultramarinas, resultarem ou puderem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou o atraso considerável na instalação de um novo ramo de produção em território nacional, as importações dessa mercadoria ou de mercadorias dessa natureza podem ser sujeitas, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, a um direito especial denominado direito compensador, de montante não superior ao subsídio concedido.
 
-###### Art. 3.º Além dos casos referidos nos artigos 1.º e 2.º, poderão também ser sujeitos a direitos anti-dumping ou a direitos compensadores, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, determinada mercadoria ou mercadorias de uma determinada natureza, importadas no território do continente e ilhas adjacentes ou nas províncias ultramarinas, a respeito das quais se haja averiguado respectivamente a prática de dumping ou a concessão de subsídios, desde que, sem quebra de outros compromissos internacionais, o Governo Português tenha acordado na aplicação de tais direitos com governos de outros países, numa base de reciprocidade, a fim de compensar um dumping ou um subsídio de que resultem ou possam vir a resultar prejuízos importantes para os ramos da produção desses países que exportem a mercadoria em causa para o território do continente e ilhas adjacentes ou das províncias ultramarinas.
+Art. 3.º Além dos casos referidos nos artigos 1.º e 2.º, poderão também ser sujeitos a direitos anti-dumping ou a direitos compensadores, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, determinada mercadoria ou mercadorias de uma determinada natureza, importadas no território do continente e ilhas adjacentes ou nas províncias ultramarinas, a respeito das quais se haja averiguado respectivamente a prática de dumping ou a concessão de subsídios, desde que, sem quebra de outros compromissos internacionais, o Governo Português tenha acordado na aplicação de tais direitos com governos de outros países, numa base de reciprocidade, a fim de compensar um dumping ou um subsídio de que resultem ou possam vir a resultar prejuízos importantes para os ramos da produção desses países que exportem a mercadoria em causa para o território do continente e ilhas adjacentes ou das províncias ultramarinas.
 
-###### Art. 4.º Para efeitos do presente decreto-lei, considera-se que se pratica o dumping na importação de uma mercadoria em território nacional quando o preço de exportação dessa mercadoria é inferior ao valor normal comparável da mesma mercadoria, entendendo-se por valor normal comparável:
+Art. 4.º Para efeitos do presente decreto-lei, considera-se que se pratica o dumping na importação de uma mercadoria em território nacional quando o preço de exportação dessa mercadoria é inferior ao valor normal comparável da mesma mercadoria, entendendo-se por valor normal comparável:
 
 a) O preço comparável, praticado em operações comerciais normais, para mercadorias idênticas ou similares, destinadas ao consumo interno no país exportador;
 
@@ -125,9 +147,9 @@ b) Ou, na ausência de um tal preço no mercado interno do país exportador:
 
 § 2.º No caso de importações provenientes ou originárias de países cujo comércio é objecto de um monopólio de Estado completo ou quase completo e onde os preços internos são fixados pelo Estado, se for julgado que o preço a que se refere a alínea a) do presente artigo é pouco significativo, pode recorrer-se, em substituição, ao preço comparável, praticado no comércio por grosso, em operações comerciais normais, em relação a mercadorias idênticas ou similares, produzidas em terceiros países e destinadas ao respectivo consumo interno.
 
-###### Art. 5.º Para efeitos do presente decreto-lei, por margem de dumping na importação de uma mercadoria em que se pratica o dumping entende-se a diferença entre o valor normal e o preço de exportação comparável dessa mercadoria.
+Art. 5.º Para efeitos do presente decreto-lei, por margem de dumping na importação de uma mercadoria em que se pratica o dumping entende-se a diferença entre o valor normal e o preço de exportação comparável dessa mercadoria.
 
-###### Art. 6.º Para efeitos do presente decreto-lei, considera-se que há subsídio na importação de uma mercadoria em território nacional sempre que o governo do país de origem ou de proveniência dessa mercadoria, ou qualquer organismo dependente desse governo, haja concedido, directa ou indirectamente, quaisquer prémios, bonificações ou vantagens financeiras à produção, à transformação, à compra, à venda, à importação ou à exportação da referida mercadoria, incluindo:
+Art. 6.º Para efeitos do presente decreto-lei, considera-se que há subsídio na importação de uma mercadoria em território nacional sempre que o governo do país de origem ou de proveniência dessa mercadoria, ou qualquer organismo dependente desse governo, haja concedido, directa ou indirectamente, quaisquer prémios, bonificações ou vantagens financeiras à produção, à transformação, à compra, à venda, à importação ou à exportação da referida mercadoria, incluindo:
 
 a) Qualquer redução especial ou subsídio relativo ao custo de transporte dessa mercadoria;
 
@@ -139,7 +161,7 @@ c) Qualquer perda suportada na venda da mercadoria em questão pelo governo do p
 
 § 2.º Nos casos em que não tenha havido possibilidades de obter resultados satisfatórios com os esforços desenvolvidos para averiguar sobre o montante real dos subsídios concedidos a uma mercadoria importada em território nacional, poder-se-á, para efeitos do presente decreto-lei, fixar o montante desses subsídios numa importância estimada indirectamente por processos que sejam considerados justificados.
 
-###### Art. 7.º Um direito anti-dumping ou um direito compensador pode ser instituído, conforme for considerado mais justificado em face das circunstâncias de cada caso, em relação:
+Art. 7.º Um direito anti-dumping ou um direito compensador pode ser instituído, conforme for considerado mais justificado em face das circunstâncias de cada caso, em relação:
 
 a) A uma determinada importação ou a um conjunto de importações especificadas;
 
@@ -147,11 +169,11 @@ b) Às importações de uma dada mercadoria ou de mercadorias de uma dada nature
 
 c) Às importações de uma dada mercadoria ou de mercadorias de uma dada natureza originárias ou provenientes de um determinado país ou grupo de países.
 
-###### Art. 8.º Os direitos anti-dumping ou compensadores a que se referem os artigos 1.º, 2.º e 3.º, respectivamente, serão cobrados pelas alfândegas do continente e ilhas adjacentes ou das províncias ultramarinas juntamente com os direitos normalmente devidos e serão exigíveis mesmo em relação a mercadorias que, em virtude de qualquer disposição legal, estejam isentas do pagamento dos direitos aduaneiros normais.
+Art. 8.º Os direitos anti-dumping ou compensadores a que se referem os artigos 1.º, 2.º e 3.º, respectivamente, serão cobrados pelas alfândegas do continente e ilhas adjacentes ou das províncias ultramarinas juntamente com os direitos normalmente devidos e serão exigíveis mesmo em relação a mercadorias que, em virtude de qualquer disposição legal, estejam isentas do pagamento dos direitos aduaneiros normais.
 
-###### Art. 9.º Nos casos em que a demora na recolha e análise dos elementos e provas definitivas sobre a prática do dumping e a determinação da respectiva margem ou sobre a existência de subsídios e a averiguação do respectivo montante possa causar ou vir a causar prejuízos importantes para produções estabelecidas em território nacional ou o atraso considerável na instalação de um novo ramo da produção em território nacional poderá, mediante portaria a publicar pelo Ministério das Finanças ou do Ultramar, ser exigida pelas alfândegas, em relação às mercadorias de que se trate ou a mercadorias dessa natureza, uma caução, sob a forma de depósito ou garantia bancária, para assegurar o pagamento de eventuais direitos anti-dumping ou compensadores que venham a ser instituídos sobre as referidas mercadorias, desde que já haja boas razões para supor que em relação a tais mercadorias se pratica o dumping ou se concedem subsídios.
+Art. 9.º Nos casos em que a demora na recolha e análise dos elementos e provas definitivas sobre a prática do dumping e a determinação da respectiva margem ou sobre a existência de subsídios e a averiguação do respectivo montante possa causar ou vir a causar prejuízos importantes para produções estabelecidas em território nacional ou o atraso considerável na instalação de um novo ramo da produção em território nacional poderá, mediante portaria a publicar pelo Ministério das Finanças ou do Ultramar, ser exigida pelas alfândegas, em relação às mercadorias de que se trate ou a mercadorias dessa natureza, uma caução, sob a forma de depósito ou garantia bancária, para assegurar o pagamento de eventuais direitos anti-dumping ou compensadores que venham a ser instituídos sobre as referidas mercadorias, desde que já haja boas razões para supor que em relação a tais mercadorias se pratica o dumping ou se concedem subsídios.
 
-###### Art. 10.º É criada na Direcção-Geral das Alfândegas uma Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores, com representantes dos Ministérios das Finanças, da Justiça, da Economia e do Ultramar, a qual terá por funções:
+Art. 10.º É criada na Direcção-Geral das Alfândegas uma Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores, com representantes dos Ministérios das Finanças, da Justiça, da Economia e do Ultramar, a qual terá por funções:
 
 a) Receber e estudar todos os requerimentos solicitando a aplicação de direitos anti-dumping e compensadores no continente e ilhas adjacentes;
 
@@ -161,25 +183,25 @@ c) Obter directamente ou por intermédio dos seus membros todas as provas, infor
 
 § único. Nos casos em que se trate de estudar e propor soluções sobre a aplicação de direitos anti-dumping ou compensadores, nos termos do artigo 3.º do presente decreto-lei, será agregado à Comissão a que se refere o presente artigo um representante do Ministério dos Negócios Estrangeiros.
 
-###### Art. 11.º Todo o importador de mercadorias sujeitas a direitos anti-dumping ou compensadores, em virtude de um decreto publicado nos termos dos artigos 1.º, 2.º e 3.º, pode requerer ao Ministro das Finanças ou ao Ministro do Ultramar a modificação ou abolição do decreto que instituiu tais direitos, desde que apresente provas válidas de que não existe a prática de dumping ou a concessão de subsídios ou de que existe um excesso dos direitos anti-dumping ou compensadores sobre a margem de dumping ou sobre o subsídio concedido.
+Art. 11.º Todo o importador de mercadorias sujeitas a direitos anti-dumping ou compensadores, em virtude de um decreto publicado nos termos dos artigos 1.º, 2.º e 3.º, pode requerer ao Ministro das Finanças ou ao Ministro do Ultramar a modificação ou abolição do decreto que instituiu tais direitos, desde que apresente provas válidas de que não existe a prática de dumping ou a concessão de subsídios ou de que existe um excesso dos direitos anti-dumping ou compensadores sobre a margem de dumping ou sobre o subsídio concedido.
 
-###### Art. 12.º A decisão a respeito de um requerimento apresentado nos termos do artigo anterior será tomada pelo Ministro das Finanças, depois de consultada a Comissão Permanente para Aplicação de Direitos Anti-Dumping ou Compensadores, ou pelo Ministro do Ultramar.
+Art. 12.º A decisão a respeito de um requerimento apresentado nos termos do artigo anterior será tomada pelo Ministro das Finanças, depois de consultada a Comissão Permanente para Aplicação de Direitos Anti-Dumping ou Compensadores, ou pelo Ministro do Ultramar.
 
-###### Art. 13.º O Ministro das Finanças, por sua iniciativa ou por proposta da Comissão Permanente para Aplicação dos Direitos Anti-Dumping e Compensadores, ou o Ministro do Ultramar, por proposta dos governadores das províncias ultramarinas, poderá determinar, quando o entender necessário, a inspecção e a verificação à escrita, registos, correspondência e toda a documentação dos importadores de mercadorias sujeitas a averiguações quanto à prática de dumping ou à concessão de subsídios ou dos comerciantes e industriais que tenham adquirido essas mercadorias, devendo no despacho respectivo designar os peritos para o efeito, os quais serão assistidos por um membro da Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores ou por um funcionário dos governos das províncias ultramarinas de que se trate.
+Art. 13.º O Ministro das Finanças, por sua iniciativa ou por proposta da Comissão Permanente para Aplicação dos Direitos Anti-Dumping e Compensadores, ou o Ministro do Ultramar, por proposta dos governadores das províncias ultramarinas, poderá determinar, quando o entender necessário, a inspecção e a verificação à escrita, registos, correspondência e toda a documentação dos importadores de mercadorias sujeitas a averiguações quanto à prática de dumping ou à concessão de subsídios ou dos comerciantes e industriais que tenham adquirido essas mercadorias, devendo no despacho respectivo designar os peritos para o efeito, os quais serão assistidos por um membro da Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores ou por um funcionário dos governos das províncias ultramarinas de que se trate.
 
-###### Art. 14.º Toda a pessoa, singular ou colectiva, seja ou não interessada nas averiguações feitas para determinar a existência e o montante do dumping praticado ou dos subsídios concedidos em relação a mercadorias importadas em território nacional, tem o dever de prestar à Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores ou aos governos das províncias ultramarinas onde a mercadoria foi importada a colaboração que for julgada necessária para a descoberta da verdade, devendo, nomeadamente, apresentar-lhe todas as provas, informações ou documentos que lhe sejam por ela requisitados.
+Art. 14.º Toda a pessoa, singular ou colectiva, seja ou não interessada nas averiguações feitas para determinar a existência e o montante do dumping praticado ou dos subsídios concedidos em relação a mercadorias importadas em território nacional, tem o dever de prestar à Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores ou aos governos das províncias ultramarinas onde a mercadoria foi importada a colaboração que for julgada necessária para a descoberta da verdade, devendo, nomeadamente, apresentar-lhe todas as provas, informações ou documentos que lhe sejam por ela requisitados.
 
-###### Art. 15.º A falta de cumprimento do estabelecido no artigo anterior, bem como a apresentação de declarações, provas, informações ou documentos que contenham inexactidões ou falsidades por negligência ou má fé que originem prejuízos para a descoberta da verdade, constituirá um crime contra a economia nacional, que será punido nos termos dos números seguintes:
+Art. 15.º A falta de cumprimento do estabelecido no artigo anterior, bem como a apresentação de declarações, provas, informações ou documentos que contenham inexactidões ou falsidades por negligência ou má fé que originem prejuízos para a descoberta da verdade, constituirá um crime contra a economia nacional, que será punido nos termos dos números seguintes:
 
 1.º A pessoa singular será punida com a pena de prisão de três dias a dois anos, acrescida da multa de 50000$00 a 200000$00;
 
 2.º A pessoa colectiva será punida com uma multa de 50000$00 a 200000$00 e os membros dos seus corpos gerentes com a pena de prisão de três dias a dois anos.
 
-###### Art. 16.º A preparação e o julgamento dos processos pela infracção a que se referem os artigos 14.º e 15.º do presente decreto-lei competem aos tribunais comuns e são regulados pelo Código de Processo Penal e legislação complementar, devendo, independentemente do seu conhecimento oficioso, a Comissão para a Aplicação dos Direitos Anti-Dumping e Compensadores, ou o governo da província ultramarina onde a mercadoria for importada, comunicar à autoridade instrutora competente todos os factos do seu conhecimento que possam integrar a infracção.
+Art. 16.º A preparação e o julgamento dos processos pela infracção a que se referem os artigos 14.º e 15.º do presente decreto-lei competem aos tribunais comuns e são regulados pelo Código de Processo Penal e legislação complementar, devendo, independentemente do seu conhecimento oficioso, a Comissão para a Aplicação dos Direitos Anti-Dumping e Compensadores, ou o governo da província ultramarina onde a mercadoria for importada, comunicar à autoridade instrutora competente todos os factos do seu conhecimento que possam integrar a infracção.
 
-###### Art. 17.º O Governo fará publicar em decreto regulamentar as disposições necessárias à execução do presente decreto-lei.
+Art. 17.º O Governo fará publicar em decreto regulamentar as disposições necessárias à execução do presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
 

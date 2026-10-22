@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24400/35263527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1980-462808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73728ca549b447a86e48f9526920317f41957a2943c27fae764eb4ba492fd8f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dea50b402611e9f6fb3f6f75ffd0f632999573be81c30b49e469f08b9bba0bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artes Marciais
+- Comissão Directiva das Artes Marciais
+- Ministério da Defesa Nacional
 relationships:
 - type: amended_by
   target: pt:dre:662764:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 4 PELO DEC LEI 23/82 DE 30-JAN DR.IS [25], ALTERADO PELO MESMO DIPLOMA, O ART 10 DO DEC LEI 105/72\
+    \ DE 30-MAR, NA REDAC&#199;&#195;O CONSTANTE DO PRESENTE DIPLOMA SUBSTITU&#205;DAS POR MINISTRO DA QUALIDADE DE VIDA TODAS\
+    \ AS REFER&#202;NCIAS QUE NO DEC LEI 105/72 DE 30-MAR (COM ALTERA&#199;&#213;ES INTRODUZIDAS PELO PRESENTE DIPLOMA) SAO\
+    \ FEITAS AOS MINISTROS DA DEFESA NACIONAL E DA EDUCA&#199;&#195;O E CIENCIA, PELO REFERIDO DEC LEI 23/82 DE 30-JAN \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-01-30'
+- type: cites
+  target: pt:dre:272864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662764:por
+  label: "Revogado pelo DEC LEI.69/87.09.02.1987.MEC, DR.IS [33] de 09.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1987-662764
+  date: '1987-02-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:54Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +132,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, n.º 3 do artigo 15.º e 18.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), de 30 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, n.º 3 do artigo 15.º e 18.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), de 30 de Março, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - O ensino, a aprendizagem e a prática das artes marciais apenas serão autorizados aos indivíduos que satisfaçam as condições de aptidão estabelecidas nas normas regulamentares.
+Art. 2.º - 1 - O ensino, a aprendizagem e a prática das artes marciais apenas serão autorizados aos indivíduos que satisfaçam as condições de aptidão estabelecidas nas normas regulamentares.
 
 2 - ...
 
-###### Art. 5.º - 1 - A CDAM é constituída por um presidente, um vice-presidente, um secretário-geral, um vogal do Ministério da Administração Interna e outro do Ministério da Justiça.
+Art. 5.º - 1 - A CDAM é constituída por um presidente, um vice-presidente, um secretário-geral, um vogal do Ministério da Administração Interna e outro do Ministério da Justiça.
 
 2 - A CDAM é apoiada por um conselho consultivo, cuja composição, atribuições e funcionamento serão estabelecidos nas normas regulamentares.
 
@@ -118,7 +146,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Por despacho do Ministro da Educação e Ciência, sob proposta do presidente da CDAM, poderão ser nomeados os inspectores considerados necessários para as acções de fiscalização dos centros.
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 a) ...
 
@@ -138,7 +166,7 @@ h) ...
 
 i) Propor ao Ministro da Educação e Ciência as providências convenientes para a execução do presente diploma e das respectivas normas regulamentares, incluindo a criação das delegações de âmbito regional previstas no artigo 11.º
 
-###### Art. 7.º - 1 - O presidente da CDAM é nomeado por portaria do Ministro da Educação e Ciência.
+Art. 7.º - 1 - O presidente da CDAM é nomeado por portaria do Ministro da Educação e Ciência.
 
 2 - O vice-presidente e o secretário-geral são nomeados por despacho do Ministro da Educação e Ciência, mediante proposta do presidente.
 
@@ -148,11 +176,11 @@ i) Propor ao Ministro da Educação e Ciência as providências convenientes par
 
 5 - A escolha dos candidatos aos cargos de presidente, vice-presidente e secretário-geral deve obrigatoriamente incidir sobre personalidades de reconhecida competência no campo das artes marciais, devendo, para o efeito, ser ouvido o conselho consultivo.
 
-###### Art. 8.º Os membros da CDAM são remunerados por gratificação mensal, a fixar em despacho conjunto do Ministro da Educação e Ciência e do Ministro das Finanças e do Plano.
+Art. 8.º Os membros da CDAM são remunerados por gratificação mensal, a fixar em despacho conjunto do Ministro da Educação e Ciência e do Ministro das Finanças e do Plano.
 
-###### Art. 9.º Das deliberações da CDAM caberá recurso para o Ministro da Educação e Ciência.
+Art. 9.º Das deliberações da CDAM caberá recurso para o Ministro da Educação e Ciência.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -166,34 +194,34 @@ c) ...
 
 4 - Os fundos da CDAM são administrados pelo seu presidente, sendo o seu movimento processado pela Secretaria-Geral do Ministério da Educação e Ciência, em livros próprios.
 
-###### Art. 11.º - 1 - Mediante portaria, poderão ser criadas delegações da CDAM, de âmbito regional, para o exercício das funções que esta lhes atribuir.
+Art. 11.º - 1 - Mediante portaria, poderão ser criadas delegações da CDAM, de âmbito regional, para o exercício das funções que esta lhes atribuir.
 
 2 - Nas Regiões Autónomas dos Açores e da Madeira, a portaria bem como o despacho de nomeação dos seus membros serão conjuntos do Ministro da Educação e Ciência e do Ministro da República respectivo.
 
 3 - Poderá ser atribuída autonomia financeira às delegações de âmbito regional.
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - ...
 
 3 - A Comissão Directiva das Artes Marciais dará sempre parecer sobre as razões justificativas da qualificação, como prática de artes marciais, das actividades exercidas pelos arguidos.
 
-###### Art. 18.º As normas regulamentares para a execução do presente diploma serão estabelecidas em portaria do Ministro da Educação e Ciência, mantendo-se em vigor, no aplicável, a Portaria n.º 813/76, de 17 de Novembro, e demais legislação existente.
+Art. 18.º As normas regulamentares para a execução do presente diploma serão estabelecidas em portaria do Ministro da Educação e Ciência, mantendo-se em vigor, no aplicável, a Portaria n.º 813/76, de 17 de Novembro, e demais legislação existente.
 
-###### Art. 2.º São revogados o n.º 2 do artigo 16.º e os artigos 19.º e 20.º
+Art. 2.º São revogados o n.º 2 do artigo 16.º e os artigos 19.º e 20.º
 
-###### Art. 3.º Todas as referências que no [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), de 30 de Março, são feitas ao Ministro da Defesa Nacional são substituídas por Ministro da Educação e Ciência.
+Art. 3.º Todas as referências que no [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), de 30 de Março, são feitas ao Ministro da Defesa Nacional são substituídas por Ministro da Educação e Ciência.
 
-###### Art. 4.º O Ministro da Educação e Ciência poderá delegar, total ou parcialmente, no Secretário de Estado da Juventude e Desportos as competências que neste diploma lhe são cometidas.
+Art. 4.º O Ministro da Educação e Ciência poderá delegar, total ou parcialmente, no Secretário de Estado da Juventude e Desportos as competências que neste diploma lhe são cometidas.
 
-###### Art. 5.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Ciência, ouvida a CDAM.
+Art. 5.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Ciência, ouvida a CDAM.
 
-###### Art. 6.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 7 de Outubro de 1980.**
+Promulgado em 7 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

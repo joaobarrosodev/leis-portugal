@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/196-1973-422011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc14d83eb71e3f6e8f5fa71e1bc1ad2ea6b873c8ccdb7501998cc44365cc1824
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2046b43ffd70c8e077a8cadd36ab87920b09130ab520b750c0f1291991725480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Justiça
+- Ministro da Justiça
+- Pessoal de Gabinete
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:365881:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365881:por
+  label: Revogados os arts. 1.º a 10.º do presente diploma, pelo(a) Decreto-Lei n.º 497/79 - Diário da República n.º 293/1979,
+    Série I de 1979-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1979-365881
+  date: '1979-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:07Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +112,9 @@ REGULAMENTO DO GABINETE DO MINISTRO E DA SECRETARIA-GERAL DO MINISTÉRIO DA JUST
 
 ### CAPÍTULO I — Gabinete do Ministro
 
-###### Artigo 1.º Junto do Ministro da Justiça funciona o respectivo Gabinete, que será constituído por elementos da sua livre escolha e confiança.
+Artigo 1.º Junto do Ministro da Justiça funciona o respectivo Gabinete, que será constituído por elementos da sua livre escolha e confiança.
 
-###### Art. 2.º Ao Gabinete do Ministro incumbe:
+Art. 2.º Ao Gabinete do Ministro incumbe:
 
 a) Ocupar-se dos assuntos relacionados com a actividade oficial do Ministro;
 
@@ -106,13 +124,13 @@ c) Distribuir pelos respectivos serviços, directamente ou por intermédio da Se
 
 d) Executar os demais serviços determinados pelo Ministro.
 
-###### Art. 3.º No Gabinete haverá um arquivo especialmente destinado à guarda dos documentos classificados como confidenciais.
+Art. 3.º No Gabinete haverá um arquivo especialmente destinado à guarda dos documentos classificados como confidenciais.
 
 ### CAPÍTULO II — Secretaria-Geral
 
 #### SECÇÃO I — Estrutura e competência
 
-###### Art. 4.º A Secretaria-Geral do Ministério da Justiça é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
+Art. 4.º A Secretaria-Geral do Ministério da Justiça é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
 
 a) Colaborar com os órgãos da Presidência do Conselho e de outros departamentos no estudo e execução das providências de âmbito geral pertinentes à reforma administrativa;
 
@@ -124,7 +142,7 @@ d) Desempenhar as funções de utilidade comum aos diversos órgãos e serviços
 
 e) Assegurar o expediente do Gabinete do Ministro em tudo o que se não compreenda na competência privativa do Gabinete.
 
-###### Art. 5.º Para o exercício das suas atribuições compete especialmente à Secretaria-Geral:
+Art. 5.º Para o exercício das suas atribuições compete especialmente à Secretaria-Geral:
 
 a) Promover a aplicação, relativamente aos organismos dependentes do Ministério, das providências de ordem geral que pelo Governo sejam aprovadas no sentido da gradual realização da reforma administrativa;
 
@@ -150,41 +168,41 @@ j) Tomar a seu cargo a guarda, conservação e administração do edifício ocup
 
 m) Transmitir aos organismos e serviços dependentes do Ministério as normas e instruções genéricas emanadas do Ministro.
 
-###### Art. 6.º - 1. A Secretaria-Geral desempenhará as suas funções em estreita ligação e cooperação com a Secretaria-Geral da Presidência do Conselho e com as secretarias-gerais dos outros Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
+Art. 6.º - 1. A Secretaria-Geral desempenhará as suas funções em estreita ligação e cooperação com a Secretaria-Geral da Presidência do Conselho e com as secretarias-gerais dos outros Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
 
 2. A Secretaria-Geral deverá manter idêntica ligação e cooperação com as direcções-gerais e mais organismos do Ministério, designadamente com os serviços de pessoal e de organização que neles funcionem.
 
 #### SECÇÃO II — Pessoal
 
-###### Art. 7.º - 1. Ao secretário-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução e, bem assim, proceder à distribuição do pessoal.
+Art. 7.º - 1. Ao secretário-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução e, bem assim, proceder à distribuição do pessoal.
 
 2. Nas suas faltas ou impedimentos, o secretário-geral será substituído, relativamente às funções de representação oficial do Ministério da Justiça, pelo director-geral que o Ministro designar e, na falta de designação, pelo director-geral mais antigo.
 
-###### Art. 8.º - 1. O secretário-geral poderá receber delegação de competência para despachar assuntos relativos às funções de administração geral que corram pela Secretaria-Geral ou pelos outros serviços centrais do Ministério.
+Art. 8.º - 1. O secretário-geral poderá receber delegação de competência para despachar assuntos relativos às funções de administração geral que corram pela Secretaria-Geral ou pelos outros serviços centrais do Ministério.
 
 2. Para efeitos do disposto no número anterior, consideram-se funções de administração geral as relativas à gestão do pessoal, do material e dos recursos orçamentais e outras que constituam simples meio de permitir o exercício das atribuições específicas.
 
-###### Art. 9.º - 1. Ao adjunto do secretário-geral compete coadjuvar o secretário-geral no exercício das respectivas funções, nos termos por este determinados, e substituí-lo, nas suas faltas e impedimentos, sem prejuízo do disposto no n.º 2 do artigo 7.º
+Art. 9.º - 1. Ao adjunto do secretário-geral compete coadjuvar o secretário-geral no exercício das respectivas funções, nos termos por este determinados, e substituí-lo, nas suas faltas e impedimentos, sem prejuízo do disposto no n.º 2 do artigo 7.º
 
 2. O adjunto será substituído, nas suas faltas ou impedimentos, pelo funcionário designado pelo secretário-geral.
 
-###### Art. 10.º Ao bibliotecário-arquivista compete em especial organizar e garantir o funcionamento da biblioteca e do centro de documentação dos serviços centrais e orientar tecnicamente as bibliotecas dos restantes sectores do Ministério.
+Art. 10.º Ao bibliotecário-arquivista compete em especial organizar e garantir o funcionamento da biblioteca e do centro de documentação dos serviços centrais e orientar tecnicamente as bibliotecas dos restantes sectores do Ministério.
 
 ### CAPÍTULO III — Disposições gerais
 
-###### Art. 11.º - 1. O secretário-geral, os directores-gerais e os dirigentes equiparados dos serviços referidos no artigo 1.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, tomam posse perante o Ministro.
+Art. 11.º - 1. O secretário-geral, os directores-gerais e os dirigentes equiparados dos serviços referidos no artigo 1.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, tomam posse perante o Ministro.
 
 2. Os restantes funcionários dos serviços centrais tomam posse perante o secretário-geral.
 
-###### Art. 12.º As nomeações em comissão de serviço de funcionários do Ministério da Justiça para cargos dependentes do mesmo Ministério podem não abrir vaga nos quadros de origem sempre que as conveniências do serviço o exijam e desde que as comissões sejam por prazo não superior a dois anos.
+Art. 12.º As nomeações em comissão de serviço de funcionários do Ministério da Justiça para cargos dependentes do mesmo Ministério podem não abrir vaga nos quadros de origem sempre que as conveniências do serviço o exijam e desde que as comissões sejam por prazo não superior a dois anos.
 
-###### Art. 13.º - 1. Nas carreiras de oficiais administrativos, não havendo funcionários em condições de ser providos em lugares de primeiro-oficial ou segundo-oficial, as vagas respectivas poderão ser directamente preenchidas por indivíduos com curso superior adequado.
+Art. 13.º - 1. Nas carreiras de oficiais administrativos, não havendo funcionários em condições de ser providos em lugares de primeiro-oficial ou segundo-oficial, as vagas respectivas poderão ser directamente preenchidas por indivíduos com curso superior adequado.
 
 2. Na falta de candidatos habilitados com o concurso para terceiro-oficial, poderão as vagas existentes ser providas, interinamente, por quem satisfaça as demais condições legais, mantendo-se a interinidade até haver provimento efectivo.
 
-###### Art. 14.º Quando a escolha de pessoal além dos quadros recair em funcionários do Ministério da Justiça, o provimento do respectivo pessoal técnico ou administrativo será feito em comissão de serviço e os correspondentes encargos poderão ser suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 14.º Quando a escolha de pessoal além dos quadros recair em funcionários do Ministério da Justiça, o provimento do respectivo pessoal técnico ou administrativo será feito em comissão de serviço e os correspondentes encargos poderão ser suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 15.º Sem prejuízo dos requisitos exigidos especialmente na lei, o Ministro da Justiça poderá determinar, em despacho, que o provimento provisório ou em regime de estágio, o provimento definitivo e a promoção dependam:
+Art. 15.º Sem prejuízo dos requisitos exigidos especialmente na lei, o Ministro da Justiça poderá determinar, em despacho, que o provimento provisório ou em regime de estágio, o provimento definitivo e a promoção dependam:
 
 a) De concurso documental ou de prestação de provas;
 
@@ -194,7 +212,7 @@ c) De aprovação em exame médico, designadamente para apurar as condições ps
 
 d) De requisitos especiais, nomeadamente quanto ao sexo e à idade, desde que as características dos respectivos cargos os imponham.
 
-###### Art. 16.º Os concursos de prestação de provas obedecerão às seguintes regras:
+Art. 16.º Os concursos de prestação de provas obedecerão às seguintes regras:
 
 a) Serão abertos por aviso publicado no Diário do Governo e, quando se torne necessário, por outros meios de publicidade, neles se fazendo a indicação dos documentos que devem instruir os requerimentos e do prazo da sua apresentação nos serviços;
 
@@ -204,36 +222,36 @@ c) Os interessados poderão,, no prazo de quinze dias, apresentar as suas reclam
 
 d) Concluídas as provas, o júri atribuirá aos aprovados as notas de Muito bom, Bom com distinção, Bom e Suficiente.
 
-###### Art. 17.º - 1. Os candidatos que à data do concurso forem funcionários do Ministério da Justiça são dispensados de apresentar os documentos exigidos.
+Art. 17.º - 1. Os candidatos que à data do concurso forem funcionários do Ministério da Justiça são dispensados de apresentar os documentos exigidos.
 
 2. Quando se trate de funcionários de outro serviço do Estado ou de indivíduos que já se hajam candidatado a um concurso, os documentos exigidos poderão ser substituídos por certificado comprovativo da sua apresentação.
 
-###### Art. 18.º - 1. O programa geral das provas, a forma de as prestar, a constituição do júri e as demais regras dos concursos serão estabelecidas em despacho ministerial.
+Art. 18.º - 1. O programa geral das provas, a forma de as prestar, a constituição do júri e as demais regras dos concursos serão estabelecidas em despacho ministerial.
 
 2. O prazo de validade dos concursos, inicialmente previsto, pode ser encurtado, também por despacho do Ministro, quando as conveniências do serviço o justifiquem.
 
-###### Art. 19.º - 1. Os candidatos que faltem a qualquer prova têm a faculdade de justificar a falta, nas vinte e quatro horas imediatas, por meio de requerimento dirigido ao presidente do júri, no qual aduzirão as razões da não comparência.
+Art. 19.º - 1. Os candidatos que faltem a qualquer prova têm a faculdade de justificar a falta, nas vinte e quatro horas imediatas, por meio de requerimento dirigido ao presidente do júri, no qual aduzirão as razões da não comparência.
 
 2. Se o motivo invocado for o de doença, deve o requerimento ser acompanhado do respectivo atestado médico, sem prejuízo de poder ser ordenada a verificação da doença, nos termos do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
 
 3. O presidente do júri, se considerar justificada a falta, designará novo dia para a prestação da prova.
 
-###### Art. 20.º Todos os funcionários são obrigados a executar os serviços de que forem incumbidos por determinação superior, de acordo com a sua categoria, aptidão e habilitações.
+Art. 20.º Todos os funcionários são obrigados a executar os serviços de que forem incumbidos por determinação superior, de acordo com a sua categoria, aptidão e habilitações.
 
-###### Art. 21.º À Secretaria-Geral, bem como às direcções-gerais e aos serviços equiparados, referidos no artigo 1.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), são aplicáveis as normas da lei geral relativas às direcções-gerais.
+Art. 21.º À Secretaria-Geral, bem como às direcções-gerais e aos serviços equiparados, referidos no artigo 1.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), são aplicáveis as normas da lei geral relativas às direcções-gerais.
 
-###### Art. 22.º Com vista a promover a constante actualização e o melhor rendimento dos órgãos e serviços integrados no âmbito do Ministério da Justiça, poderá o Ministro, em simples despacho, determinar as alterações que repute convenientes no regime interno do seu funcionamento, desde que não esteja fixado por diploma legislativo,
+Art. 22.º Com vista a promover a constante actualização e o melhor rendimento dos órgãos e serviços integrados no âmbito do Ministério da Justiça, poderá o Ministro, em simples despacho, determinar as alterações que repute convenientes no regime interno do seu funcionamento, desde que não esteja fixado por diploma legislativo,
 
-###### Art. 23.º Serão resolvidas por despacho do Ministro da Justiça as dúvidas que se suscitem na execução do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588) e dos correspondentes diplomas regulamentares.
+Art. 23.º Serão resolvidas por despacho do Ministro da Justiça as dúvidas que se suscitem na execução do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588) e dos correspondentes diplomas regulamentares.
 
-###### Art. 24.º - 1. O presente capítulo é aplicável a todos os serviços referidos no artigo 1.º do Decreto-Lei n.º, 523/72.
+Art. 24.º - 1. O presente capítulo é aplicável a todos os serviços referidos no artigo 1.º do Decreto-Lei n.º, 523/72.
 
 2. À Procuradoria-Geral da República, às repartições administrativas das relações, à Polícia Judiciária e aos institutos de medicina legal são igualmente de aplicar, com as devidas adaptações, os artigos 12.º a sem prejuízo do regime estabelecido no artigo 22.º, relativamente a todos os órgãos e serviços integrados no Ministério da Justiça.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 14 de Abril de 1973.**
+Promulgado em 14 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

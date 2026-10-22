@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/17400/19211923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1980-470392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 147fb3643310893dafb9d609e934604873f36f9677e99b4fe37de403fd44458b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76839119e31ed69cf2a7436a4e5dd0f77b65a57fab3663d7f62303b7ba134b9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Permanente da Produção Transformação e Comércio do Tomate
+- Conselho Técnico da Produção Transformação e Comércio do Tomate
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Legume de Fruto
+- Ministério do Comércio e Turismo
+- Tomate
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580157:por
+  label: "Alterado o art. 2º pelo DEC LEI.212/81.13.07.1981.MCT, DR.IS [158] de 13.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1981-580157
+  date: '1981-07-13'
+- type: amended_by
+  target: pt:dre:325508:por
+  label: "Alterados os arts. 1.º, 2.º (o último na redacção do Dec Lei 212/81, de 13-Jul) e 5.º pelo DEC LEI.104/85.10.04.1985.MA,\
+    \ DR.IS [83] de 10.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1985-325508
+  date: '1985-04-10'
+- type: amended_by
+  target: pt:dre:376841:por
+  label: Determinada a assunção pelo INGA das atribuições e competências conferidas ao extinto organismo de coordenação económica,
+    Junta Nacional das Frutas, relativamente à Comissão Permanente da Produção, Transformação e Comércio do Tomate, a que
+    se refere o presente diploma, com a redacção constante dos Dec Lei 212/81 de 13-Jul e 104/85 de 10-Abr, e cujo regulamento
+    consta da Port 668/81 de 05-Ago, pelo DEC LEI.282/88.12.08.1988.MAPA, DR.IS [186] de 12.08.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1988-376841
+  date: '1988-08-12'
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Determinada a transferência para a DGMAIAA das atribuições e competências conferidas ao extinto organismo de coordenação
+    económica, Junta Nacional das Frutas, relativamente à Comissão Permanente da Produção, Transformação e Comércio do Tomate,
+    a que se refere o presente diploma, com a redacção constante dos Dec Lei 212/81 de 13-Jul e 104/85 de 10-Abr, e cujo regulamento
+    consta da Port 668/81 de 05-Ago, pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:58Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +152,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Comissão Permanente da Produção, Transformação e Comércio do Tomate)
 
 É criada na dependência directa do Ministério do Comércio e Turismo a Comissão Permanente da Produção, Transformação e Comércio do Tomate, adiante designada por Comissão.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Composição)
 
@@ -135,7 +184,7 @@ Um, a Associação Nacional dos Industriais de Tomate.
 
 3 - As nomeações e designações dos membros da Comissão deverão ser feitas dentro do prazo de quinze dias, a contar da data da publicação do presente diploma.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Atribuições)
 
@@ -143,7 +192,7 @@ Um, a Associação Nacional dos Industriais de Tomate.
 
 2 - À Comissão incumbe, em particular, como tarefa prioritária e de acordo com as orientações fixadas pelo Governo, propor superiormente, no prazo de quarenta e cinco dias contados a partir da data da recepção pela Comissão das referidas linhas de orientação, um sistema de auxílio à produção de concentrado de tomate da campanha de 1980.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência)
 
@@ -161,13 +210,13 @@ e) Elaborar as propostas de sistemas concretos de auxílio à produção de conc
 
 f) Elaborar, tendo em atenção a regulamentação internacional existente e, particularmente, a legislação comunitária na matéria, as propostas de normas de classificação, de qualidade, de embalagem e de etiquetagem aplicáveis aos produtos do sector do tomate.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Regulamento)
 
 O regime de funcionamento da Comissão será definido por regulamento, a aprovar por portaria do Ministro do Comércio e Turismo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Conselho Técnico da Produção, Transformação e Comércio do Tomate)
 
@@ -175,8 +224,8 @@ O regime de funcionamento da Comissão será definido por regulamento, a aprovar
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

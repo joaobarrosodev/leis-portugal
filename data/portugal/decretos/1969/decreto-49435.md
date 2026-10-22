@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49435-1969-217357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f26d0f09803def087b0cfb668dcfa86b044201e16e4c9a35de75bd4e971a174
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53944cd13b401a425848f109b7ebc7f0846bb09c37084fe402c06ac339626a67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:505055:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:47Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Tendo em vista o disposto no artigo 6.º do Decreto-Lei n º 48234, de 31 de Jan
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério da Marinha, pela Direcção das Construções Navais, a celebrar contratos para a construção de quinze lanchas de desembarque médias, incluindo os respectivos equipamentos, e para a aquisição de material de apetrechamento, nomeadamente sobresselentes, até ao montante de 50000 contos.
+Artigo 1.º É autorizado o Ministério da Marinha, pela Direcção das Construções Navais, a celebrar contratos para a construção de quinze lanchas de desembarque médias, incluindo os respectivos equipamentos, e para a aquisição de material de apetrechamento, nomeadamente sobresselentes, até ao montante de 50000 contos.
 
-###### Art. 2.º - 1. A totalidade dos pagamentos a efectuar em cada ano não poderá exceder:
+Art. 2.º - 1. A totalidade dos pagamentos a efectuar em cada ano não poderá exceder:
 
 ... Contos
 
@@ -101,12 +105,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 2. A importância limite fixada para 1971 será acrescida do saldo não utilizado no ano anterior, procedendo-se de forma idêntica se a completa efectivação das despesas vier a ter lugar posteriormente a 1971.
 
-###### Art. 3.º A despesa de que trata o presente diploma constitui encargo da verba «Encargos Gerais da Nação - Despesa extraordinária - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente» a inscrever no Orçamento Geral do Estado de cada um dos anos referidos no artigo 2.º deste diploma.
+Art. 3.º A despesa de que trata o presente diploma constitui encargo da verba «Encargos Gerais da Nação - Despesa extraordinária - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente» a inscrever no Orçamento Geral do Estado de cada um dos anos referidos no artigo 2.º deste diploma.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 28 de Novembro de 1969.**
+Promulgado em 28 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

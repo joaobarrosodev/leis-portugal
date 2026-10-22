@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15900/16301634.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1980-471942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9adcc9bcc2c8b5d0d86c008ed9c92c9dbc90c9f06f5b49cd14605ac2cf83afd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07267d0b3ea443d611eff6e6aa62522c29065a63d7b0c6577911895e01fc6259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fazenda Pública
+- Tesouraria
+- Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335253:por
+  label: Alterados os arts. 5º e 10º pelo DEC LEI.36/90.26.01.1990.MF, DR.IS [[22]] de 26.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1990-335253
+  date: '1990-01-26'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:28Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +132,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As repartições de finanças criadas pela [Portaria n.º 419/77](https://diariodarepublica.pt/dr/detalhe/portaria/419-1977-250437), de 12 de Julho, entrarão em funcionamento em data a fixar, caso a caso, pelo Ministro das Finanças e do Plano, ouvida a Direcção-Geral das Contribuições e Impostos.
+Artigo 1.º - 1 - As repartições de finanças criadas pela [Portaria n.º 419/77](https://diariodarepublica.pt/dr/detalhe/portaria/419-1977-250437), de 12 de Julho, entrarão em funcionamento em data a fixar, caso a caso, pelo Ministro das Finanças e do Plano, ouvida a Direcção-Geral das Contribuições e Impostos.
 
 2 - As tesourarias da Fazenda Pública criadas pela [Portaria n.º 508/78](https://diariodarepublica.pt/dr/detalhe/portaria/508-1978-329992), de 5 de Setembro, para funcionarem junto das repartições de finanças referidas no número anterior, entrarão em funcionamento em data a fixar, caso a caso, pelo Ministro das Finanças e do Plano, ouvida a Direcção-Geral do Tesouro.
 
-###### Art. 2.º - 1 - Enquanto não houver instalações próprias que permitam o funcionamento integral dos serviços referidos no artigo anterior, poderá o Ministro das Finanças e do Plano, ouvidas a Direcção-Geral das Contribuições e Impostos e a Direcção-Geral do Tesouro, permitir, caso a caso, que no mesmo local funcionem duas repartições de finanças, com independência de serviços e separação efectiva de funcionários, a que poderá competir apenas uma tesouraria da Fazenda Pública de 1.ª classe, que assegurará o movimento global das repartições de finanças transitoriamente agrupadas.
+Art. 2.º - 1 - Enquanto não houver instalações próprias que permitam o funcionamento integral dos serviços referidos no artigo anterior, poderá o Ministro das Finanças e do Plano, ouvidas a Direcção-Geral das Contribuições e Impostos e a Direcção-Geral do Tesouro, permitir, caso a caso, que no mesmo local funcionem duas repartições de finanças, com independência de serviços e separação efectiva de funcionários, a que poderá competir apenas uma tesouraria da Fazenda Pública de 1.ª classe, que assegurará o movimento global das repartições de finanças transitoriamente agrupadas.
 
 2 - Dentro das possibilidades das instalações comuns, serão individualizadas as repartições de finanças, de forma a permitir a sua rápida identificação.
 
@@ -110,23 +144,23 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Enquanto se verificar a situação prevista no presente artigo, a tesouraria da Fazenda Pública que funcionar junto do grupo de repartições de finanças terá a designação correspondente à dos bairros ou repartições de finanças que serve cumulativamente.
 
-###### Art. 3.º - 1 - As repartições de finanças e as tesourarias da Fazenda Pública constituem ordens paralelas de serviços independentes entre si, mas ligados por uma relação jurídica interorgânica, através da qual as tesourarias da Fazenda Pública são constituídas por aquelas no dever funcional de cobrança.
+Art. 3.º - 1 - As repartições de finanças e as tesourarias da Fazenda Pública constituem ordens paralelas de serviços independentes entre si, mas ligados por uma relação jurídica interorgânica, através da qual as tesourarias da Fazenda Pública são constituídas por aquelas no dever funcional de cobrança.
 
 2 - A relação jurídica interorgânica e de débito entre cada grupo de repartições de finanças a que se refere o presente diploma e a tesouraria da Fazenda Pública que funcionar transitoriamente junto do grupo será estabelecida em termos a definir por despacho do Ministro das Finanças e do Plano, ouvidas a Direcção-Geral das Contribuições e Impostos e a Direcção-Geral do Tesouro.
 
 3 - Para os efeitos do disposto no número anterior, será elaborada apenas uma conta de gerência, embora abrangendo o movimento global da tesouraria da Fazenda Pública que funciona transitoriamente junto do grupo, sem prejuízo da adopção dos adequados processos contabilísticos, sempre que possível discriminados.
 
-###### Art. 4.º Enquanto não for publicada a portaria de contingentação do quadro geral do pessoal das tesourarias da Fazenda Pública, nos termos do artigo 6.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, fica o director-geral do Tesouro autorizado a proceder à contingentação provisória das tesourarias da Fazenda Pública previstas no presente diploma, com observância das seguintes regras:
+Art. 4.º Enquanto não for publicada a portaria de contingentação do quadro geral do pessoal das tesourarias da Fazenda Pública, nos termos do artigo 6.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, fica o director-geral do Tesouro autorizado a proceder à contingentação provisória das tesourarias da Fazenda Pública previstas no presente diploma, com observância das seguintes regras:
 
 a) Em cada tesouraria da Fazenda Pública previstas no presente diploma deverá existir, além de um tesoureiro da Fazenda Pública de 1.ª classe, a quem será confiada a gerência da respectiva tesouraria, com a designação de tesoureiro-gerente, um tesoureiro da Fazenda Pública de 2.ª classe, substituto legal do primeiro, com a designação de tesoureiro-subgerente, sem prejuízo das situações previstas no artigo 88.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro;
 
 b) Em cada tesouraria da Fazenda Pública prevista no presente diploma deverão existir ainda tesoureiros-ajudantes de qualquer classe, indistintamente, em número a fixar, tendo em conta, em cada tesouraria, os documentos e papéis movimentados, qualquer que seja a sua natureza, os valores selados vendidos, os fundos arrecadados, as características específicas de cada tesouraria, particularmente daquelas que funcionem transitoriamente junto de cada grupo de repartições de finanças.
 
-###### Art. 5.º - 1 - Independentemente da contingentação fixada nos termos do artigo anterior ou do artigo 6.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, poderá o director-geral do Tesouro, por conveniência de serviço e mediante acordo expresso dos interessados e parecer favorável do respectivo superior hierárquico, deslocar pessoal do quadro geral das tesourarias da Fazenda Pública do respectivo local de trabalho para desempenhar funções compatíveis com a sua categoria, por período não superior a um ano, com direito às remunerações inerentes ao lugar de origem, às ajudas de custo e a transporte correspondente ao início e ao fim da deslocação, nos termos da lei geral.
+Art. 5.º - 1 - Independentemente da contingentação fixada nos termos do artigo anterior ou do artigo 6.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, poderá o director-geral do Tesouro, por conveniência de serviço e mediante acordo expresso dos interessados e parecer favorável do respectivo superior hierárquico, deslocar pessoal do quadro geral das tesourarias da Fazenda Pública do respectivo local de trabalho para desempenhar funções compatíveis com a sua categoria, por período não superior a um ano, com direito às remunerações inerentes ao lugar de origem, às ajudas de custo e a transporte correspondente ao início e ao fim da deslocação, nos termos da lei geral.
 
 2 - O pessoal referido no número anterior mantêm, durante o período em que estiver deslocado, o direito à colocação dos lugares de origem.
 
-###### Art. 6.º - 1 - A colocação do pessoal dirigente necessário ao funcionamento das tesourarias da Fazenda Pública previstas no presente diploma far-se-á de acordo com o disposto nos números seguintes.
+Art. 6.º - 1 - A colocação do pessoal dirigente necessário ao funcionamento das tesourarias da Fazenda Pública previstas no presente diploma far-se-á de acordo com o disposto nos números seguintes.
 
 2 - Os lugares de tesoureiro da Fazenda Pública com funções de gerência (tesoureiros-gerentes) serão preenchidos nos seguintes termos:
 
@@ -146,7 +180,7 @@ d) Os tesoureiros da Fazenda Pública colocados como tesoureiros-gerentes nos co
 
 6 - Sempre que a tesouraria da Fazenda Pública em que estejam colocados os tesoureiros-subgerentes a que se refere o artigo 88.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, seja extinta ou desdobrada, os respectivos tesoureiros-subgerentes beneficiam das condições de preferência estabelecidas nas alíneas a), b), c) e d) do n.º 2 para sua colocação como tesoureiros-subgerentes, nas tesourarias da Fazenda Pública que eventualmente venham a ocupar as mesmas instalações ou que resultem do desdobramento daquelas.
 
-###### Art. 7.º - 1 - Se a colocação do pessoal técnico exactor necessário ao funcionamento das tesourarias da Fazenda Pública previstas no presente diploma tiver lugar antes da entrada em vigor do novo regime de responsabilidade civil e financeira do pessoal das tesourarias da Fazenda Pública, nos termos previstos no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, os lugares de tesoureiro-ajudante serão preenchidos nos seguintes termos:
+Art. 7.º - 1 - Se a colocação do pessoal técnico exactor necessário ao funcionamento das tesourarias da Fazenda Pública previstas no presente diploma tiver lugar antes da entrada em vigor do novo regime de responsabilidade civil e financeira do pessoal das tesourarias da Fazenda Pública, nos termos previstos no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, os lugares de tesoureiro-ajudante serão preenchidos nos seguintes termos:
 
 a) Os tesoureiros-ajudantes colocados em tesourarias da Fazenda Pública em cujas instalações venham a funcionar alguma das tesourarias previstas no presente diploma transitarão sem mais formalidades e com salvaguarda de todos os direitos adquiridos para as novas tesourarias;
 
@@ -172,9 +206,9 @@ d) Se, após os movimentos referidos no número anterior, houver lugares de teso
 
 e) Se, após o movimento referido na alínea anterior, as dotações do pessoal de cada tesouraria da Fazenda Pública ficarem por preencher, aplicar-se-á o disposto no artigo 91.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
 
-###### Art. 8.º O disposto nos artigos 6.º e 7.º do presente diploma é aplicável no futuro a todas as situações em que se verifique a extinção ou desdobramento de tesourarias da Fazenda Pública.
+Art. 8.º O disposto nos artigos 6.º e 7.º do presente diploma é aplicável no futuro a todas as situações em que se verifique a extinção ou desdobramento de tesourarias da Fazenda Pública.
 
-###### Art. 9.º - 1 - As admissões de tesoureiros-ajudantes estagiários, nos termos do n.º 1 do artigo 91.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, recairão, independentemente de quaisquer outros requisitos e formalidades além do diploma individual de provimento visado pelo Tribunal de Contas, indistintamente, sobre:
+Art. 9.º - 1 - As admissões de tesoureiros-ajudantes estagiários, nos termos do n.º 1 do artigo 91.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, recairão, independentemente de quaisquer outros requisitos e formalidades além do diploma individual de provimento visado pelo Tribunal de Contas, indistintamente, sobre:
 
 a) Indivíduos que reúnam as condições estabelecidas no n.º 1 do artigo 37.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro;
 
@@ -184,7 +218,7 @@ b) Antigos propostos, auxiliares de tesouraria e ajudantes de tesoureiro que se 
 
 3 - Os tesoureiros-ajudantes estagiários que venham a ser admitidos nos termos do n.º 1 ficam em tudo sujeitos ao disposto no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, designadamente nos n.os 2 e 3 do artigo 91.º e n.º 5 do artigo 84.º, quanto a tesoureiros-ajudantes.
 
-###### Art. 10.º - 1 - Sempre que, em tesourarias da Fazenda Pública de 1.ª e 2.ª classes, os lugares de tesoureiros-subgerentes se encontrarem vagos e se verificarem as situações previstas nos n.os 1 e 2 do artigo 74.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, a sua gerência será confiada aos tesoureiros-ajudantes, à excepção dos estagiários que se encontrem nas situações de preferência previstas no artigo 54.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
+Art. 10.º - 1 - Sempre que, em tesourarias da Fazenda Pública de 1.ª e 2.ª classes, os lugares de tesoureiros-subgerentes se encontrarem vagos e se verificarem as situações previstas nos n.os 1 e 2 do artigo 74.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, a sua gerência será confiada aos tesoureiros-ajudantes, à excepção dos estagiários que se encontrem nas situações de preferência previstas no artigo 54.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
 
 2 - Aos tesoureiros-ajudantes que venham a ser investidos em gerência de tesourarias da Fazenda Pública de 1.ª e 2.ª classes nos termos do número anterior é aplicável o disposto no n.º 3 do artigo 53.º e n.os 3 a 7 do artigo 74.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
 
@@ -202,9 +236,9 @@ b) Indivíduos que reúnam as condições previstas no n.º 1 do artigo 37.º do
 
 7 - Os ajudantes de tesoureiros interinos que venham a ser nomeados nos termos do número anterior têm, enquanto durar o provimento interino, para todos os efeitos legais, a categoria de tesoureiro-ajudante estagiário, ficando, no que não seja incompatível com a natureza interina do provimento, sujeitos ao disposto no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, quanto a tesoureiros-ajudantes.
 
-###### Art. 11.º Os provimentos de tesoureiros-gerentes interinos, de tesoureiros-subgerentes interinos e tesoureiros-ajudantes, qualquer que seja a sua categoria e natureza do provimento, estão sujeitos ao disposto na alínea a) do § 1.º e no § 2.º do artigo 24.º do Decreto-Lei n.º 22257, de 27 de Fevereiro de 1933.
+Art. 11.º Os provimentos de tesoureiros-gerentes interinos, de tesoureiros-subgerentes interinos e tesoureiros-ajudantes, qualquer que seja a sua categoria e natureza do provimento, estão sujeitos ao disposto na alínea a) do § 1.º e no § 2.º do artigo 24.º do Decreto-Lei n.º 22257, de 27 de Fevereiro de 1933.
 
-###### Art. 12.º - 1 - Sempre que as necessidades de serviço e a comodidade dos contribuintes e demais utilizadores dos serviços das tesourarias da Fazenda Pública o justificarem, poderão ser criadas delegações das tesourarias da Fazenda Pública, cujo âmbito de competência será definido, caso a caso, por despacho do Ministro das Finanças e do Plano, sob proposta da Direcção-Geral do Tesouro.
+Art. 12.º - 1 - Sempre que as necessidades de serviço e a comodidade dos contribuintes e demais utilizadores dos serviços das tesourarias da Fazenda Pública o justificarem, poderão ser criadas delegações das tesourarias da Fazenda Pública, cujo âmbito de competência será definido, caso a caso, por despacho do Ministro das Finanças e do Plano, sob proposta da Direcção-Geral do Tesouro.
 
 2 - As delegações das tesourarias da Fazenda Pública dependem hierárquica e funcionalmente das tesourarias da Fazenda Pública da área em que se situam, ficando os seus funcionários hierárquica e funcionalmente subordinados ao respectivo tesoureiro-gerente, ou quem as suas vezes fizer.
 
@@ -216,15 +250,15 @@ b) Indivíduos que reúnam as condições previstas no n.º 1 do artigo 37.º do
 
 6 - As delegações das tesourarias da Fazenda Pública só poderão iniciar o seu funcionamento após a entrada em vigor do novo regime de responsabilidade civil e financeira do pessoal das tesourarias da Fazenda Pública, nos termos previstos pelo [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
 
-###### Art. 13.º - 1 - As delegações das tesourarias da Fazenda Pública funcionarão em locais definidos, caso a caso, no despacho que autorizar a sua criação.
+Art. 13.º - 1 - As delegações das tesourarias da Fazenda Pública funcionarão em locais definidos, caso a caso, no despacho que autorizar a sua criação.
 
 2 - Nas delegações das tesourarias da Fazenda Pública deverá existir, além de um cofre monobloco, todo o equipamento e material necessário ao seu funcionamento e à segurança dos fundos e valores nelas movimentados e dos funcionários que nelas sejam colocados, mediante parecer prévio favorável do Gabinete Técnico de Instalações e Segurança das Tesourarias da Fazenda Pública.
 
-###### Art. 14.º - 1 - As delegações das tesourarias da Fazenda Pública poderão funcionar apenas em determinadas épocas do ano ou em determinados períodos de expediente, devendo o respectivo horário de expediente ser fixado, caso a caso, por despacho do Ministro das Finanças e do Plano, sob proposta da Direcção-Geral do Tesouro.
+Art. 14.º - 1 - As delegações das tesourarias da Fazenda Pública poderão funcionar apenas em determinadas épocas do ano ou em determinados períodos de expediente, devendo o respectivo horário de expediente ser fixado, caso a caso, por despacho do Ministro das Finanças e do Plano, sob proposta da Direcção-Geral do Tesouro.
 
 2 - Os funcionários do quadro geral das tesourarias da Fazenda Pública colocados em delegações consideram-se, para todos os efeitos, como afectos à contingentação do pessoal de cada tesouraria da Fazenda Pública.
 
-###### Art. 15.º - 1 - Os recebedores de Fazenda de 1.ª, 2.ª e 3.ª classes da ex-administração ultramarina destacados ou requisitados do Serviço Central de Pessoal em tesourarias da Fazenda Pública à data da publicação do presente diploma poderão requerer, no prazo de cento e oitenta dias, o seu provimento e colocação, como tesoureiros da Fazenda Pública de 1.ª, 2.ª e 3.ª classes, nas vagas supervenientes aos movimentos previstos no artigo 87.º do Decreto-Lei 519-A1/79, de 29 de Dezembro, com preferência absoluta sobre os demais candidatos.
+Art. 15.º - 1 - Os recebedores de Fazenda de 1.ª, 2.ª e 3.ª classes da ex-administração ultramarina destacados ou requisitados do Serviço Central de Pessoal em tesourarias da Fazenda Pública à data da publicação do presente diploma poderão requerer, no prazo de cento e oitenta dias, o seu provimento e colocação, como tesoureiros da Fazenda Pública de 1.ª, 2.ª e 3.ª classes, nas vagas supervenientes aos movimentos previstos no artigo 87.º do Decreto-Lei 519-A1/79, de 29 de Dezembro, com preferência absoluta sobre os demais candidatos.
 
 2 - O disposto no artigo 89.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, aplica-se a todos os candidatos aprovados no último concurso para tesoureiros da Fazenda Pública de 3.ª classe, que, no caso de já terem sido nomeados e colocados em vagas correspondentes à classe a que se candidataram à data da publicação do presente diploma, poderão requerer a revogação da sua nomeação como tesoureiros da Fazenda Pública de 3.ª classe para desempenharem funções como tesoureiros encarregados de gerência de uma tesouraria da Fazenda Pública de 3.ª classe e, simultaneamente, requerer a sua nomeação como tesoureiros da Fazenda Pública de 3.ª classe para desempenharem as funções de tesoureiros-subgerentes na tesouraria da Fazenda Pública de 2.ª classe em que estavam colocados como ajudantes de tesoureiro à data da realização do respectivo concurso.
 
@@ -236,14 +270,14 @@ b) Indivíduos que reúnam as condições previstas no n.º 1 do artigo 37.º do
 
 6 - É revogado o n.º 11 do artigo 18.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
 
-###### Art. 16.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, ouvidas a Direcção-Geral do Tesouro e ou a Direcção-Geral das Contribuições e Impostos sempre que estiverem em causa matérias das suas atribuições.
+Art. 16.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, ouvidas a Direcção-Geral do Tesouro e ou a Direcção-Geral das Contribuições e Impostos sempre que estiverem em causa matérias das suas atribuições.
 
-###### Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 2 de Julho de 1980.**
+Promulgado em 2 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

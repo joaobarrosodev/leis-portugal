@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1977, 2º Suplemento, Série I de 1977-12-30
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3122-(8) a 3122-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-a-1977-176480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3401b15c47e27c323ffb36230483e08e766ec5091bf93fc5fba0463743910e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0eea9ecea8b3c7607fa17c8b9e11eb904c627ab16d681d8aa378a6652e3e57d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alteração Orçamental
+- Execução do Orçamento
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:176481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586023:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:06Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +145,7 @@ Despesas orçamentais
 
 Classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf)
 
 QUADRO II
 
@@ -124,7 +153,7 @@ Despesas orçamentais
 
 Classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf)
 
 Verifica-se, assim, que as inscrições e reforços de verbas a que se procedeu têm contrapartida em anulações de despesas pelo mesmo montante global.
 
@@ -150,7 +179,7 @@ QUADRO III
 
 Investimentos do Plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30102/00080010.pdf)
 
 Aproveitou-se ainda para inserir algumas alterações relativas a pequenas transferências de verbas que implicam modificação dos valores constantes das classificações orgânica e ou funcional.
 
@@ -164,31 +193,31 @@ Em execução da [Lei n.º 87/77](https://diariodarepublica.pt/dr/detalhe/lei/87
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Execução das alterações ao Orçamento Geral do Estado)
 
 Pelo presente diploma são postas em execução as alterações ao Orçamento Geral do Estado para 1977, decorrentes dos documentos n.os 1 e 2 anexos à [Lei n.º 87/77](https://diariodarepublica.pt/dr/detalhe/lei/87-1977-176481), de 30 de Dezembro.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Publicação das alterações orçamentais)
 
 As alterações orçamentais referidas no artigo anterior serão publicadas no Diário da República, por simples declaração da Direcção-Geral da Contabilidade Pública.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Utilização das verbas alteradas)
 
 É autorizada a utilização das verbas resultantes das alterações referidas no artigo 1.º, antes da sua publicação nos termos do artigo anterior.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Fundamento legal de despesas)
 
 O presente diploma constitui fundamento legal bastante de todas as despesas, não previstas em lei anterior, realizadas por conta das inscrições ou reforços de verbas provenientes das alterações orçamentais referidas no artigo 1.º deste decreto-lei.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Alteração dos prazos previstos no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381))
 
@@ -198,7 +227,7 @@ a) Termina em 31 de Dezembro o prazo para a sua prévia autorização por parte 
 
 b) A entrada das folhas, requisições e outros documentos de levantamento de fundos dos cofres do Estado nas correspondentes delegações da Direcção-Geral da Contabilidade Pública verificar-se-á, impreterivelmente, até 7 de Janeiro seguinte.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Subsídios)
 
@@ -206,19 +235,19 @@ b) A entrada das folhas, requisições e outros documentos de levantamento de fu
 
 2 - É igualmente autorizado o aumento do subsídio não reembolsável atribuído no corrente ano à Empresa Pública do Cachão até ao quantitativo de 20000000$00.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Dotações a utilizar pela Direcção-Geral da Extensão Educativa)
 
 É autorizada a Direcção-Geral da Extensão Educativa a utilizar, no corrente ano e sem necessidade das alterações previstas no artigo 39.º do [Decreto-Lei n.º 478/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1977-280737), de 15 de Novembro, as dotações consignadas no vigente orçamento do Ministério da Educação e Investigação Científica ao Fundo de Apoio aos Organismos Juvenis e à Direcção-Geral da Educação Permanente.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Vigência do [Decreto-Lei n.º 334-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-a-1977-586022))
 
 Mantêm-se em vigor as disposições do [Decreto-Lei n.º 334-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-a-1977-586022), de 12 de Agosto, que não forem contrariadas pelo presente diploma.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Efeitos deste decreto-lei)
 
@@ -226,8 +255,8 @@ O presente diploma produz efeitos a partir do dia 1 de Dezembro do ano corrente.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 28 de Dezembro de 1977.**
+Promulgado em 28 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

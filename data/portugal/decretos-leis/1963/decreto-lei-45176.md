@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45176-1963-693406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af5af6d5da0389aea6333b796fcbca9583f6e61247c5b7bff4e52141c5bf092c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5e51969146a1af48a60619b21ab14cf3a148d3488af8c5919df7e3182f6e028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contentor
+- Controlo Aduaneiro
+- Convenção
+- Genebra
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:54Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +89,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção aduaneira relativa aos contentores, celebrada em Genebra a 18 de Maio de 1956, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção aduaneira relativa aos contentores, celebrada em Genebra a 18 de Maio de 1956, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -388,7 +393,7 @@ e) Les containers seront présentés tous les deux ans aux autorités compétent
 
 f) L'agrément deviendra caduc lorsque les caractéristiques essentielles du container seront modifiées ou en cas de chagement de propriétaire.
 
-2. Nonobstant les dispositions du paragraphe 1 cidessus, les containers acheminés uniquement par chemin de fer et appartenant à une administration de chemins de fer membre de l'Union international des chemins de fer (U. I. C.) ou immatriculés par elle pourront être agréés et vérifiés périodiquement par cette administration, à moins que les autorités compétentes du pays de ladite administration n'en disposent autrement, et le fait que ces containers sont conformes aux conditions techniques prévues dans le Règlement sera indiqué par la présence du signe [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf))](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf) sur une face extérieure des containers. Aucun certificat d'agrément ne sera délivré pour les containers ainsi marqués.
+2. Nonobstant les dispositions du paragraphe 1 cidessus, les containers acheminés uniquement par chemin de fer et appartenant à une administration de chemins de fer membre de l'Union international des chemins de fer (U. I. C.) ou immatriculés par elle pourront être agréés et vérifiés périodiquement par cette administration, à moins que les autorités compétentes du pays de ladite administration n'en disposent autrement, et le fait que ces containers sont conformes aux conditions techniques prévues dans le Règlement sera indiqué par la présence du signe [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf) sur une face extérieure des containers. Aucun certificat d'agrément ne sera délivré pour les containers ainsi marqués.
 
 CONVENTION DOUANIÈRE RELATIVE AUX CONTAINERS
 
@@ -416,7 +421,7 @@ CERTIFICAT D'AGRÉMENT
 
 9 Dimensions extérieures en centimètres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf))](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf)
 
 10 Caractéristiques essentielles de construction (nature des matériaux, nature de la construction, parties renforcées, boulons rivés ou soudés, etc.)...
 
@@ -712,7 +717,7 @@ e) Cada dois anos os contentores serão apresentados às autoridades competentes
 
 f) A aprovação caducará logo que se tenham verificado modificações nas características essenciais do contentor ou no caso de transferência de proprietário.
 
-2. Não obstante as disposições contidas no parágrafo precedente, os contentores transportados sòmente por via férrea e pertencentes ou registados em nome de uma administração de caminhos de ferro membro da União Internacional dos Caminhos de Ferro (U. I. C.) poderão ser aprovados e periòdicamente inspeccionados pela dita administração, a menos que as autoridades competentes do país em que esta administração tem a sua sede determinem o contrário, e o facto de que tais contentores satisfazem às condições técnicas especificadas nas regras será indicado pela aposição do sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf))](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf) no lado exterior dos contentores. Não se exigirão certificados de aprovação aos contentores que levem este sinal.
+2. Não obstante as disposições contidas no parágrafo precedente, os contentores transportados sòmente por via férrea e pertencentes ou registados em nome de uma administração de caminhos de ferro membro da União Internacional dos Caminhos de Ferro (U. I. C.) poderão ser aprovados e periòdicamente inspeccionados pela dita administração, a menos que as autoridades competentes do país em que esta administração tem a sua sede determinem o contrário, e o facto de que tais contentores satisfazem às condições técnicas especificadas nas regras será indicado pela aposição do sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf) no lado exterior dos contentores. Não se exigirão certificados de aprovação aos contentores que levem este sinal.
 
 CONVENÇÃO ADUANEIRA RELATIVA AOS CONTENTORES
 
@@ -740,7 +745,7 @@ CERTIFICADO DE APROVAÇÃO
 
 9 Dimensões exteriores em centímetros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf))](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/18200/10411051.pdf)
 
 10 Principais características de construçao (natureza dos materiais, natureza da construção, partes reforçadas, parafusos voltados ou soldados, etc.) ...
 

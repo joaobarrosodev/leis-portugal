@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45833-1964-579489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eb1bc09f3641ec3febf53f0fcbeac2a852f3ecadaffc25be1eae1326d09c89d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47a9638708eb2a2b99bd8c5b6788f43b89c544cb82539036594bb557e57cfa61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de Solos
+- Câmara Municipal
+- Direcção Geral da Fazenda Pública
+- Estabelecimento Prisional
+- GNR
+- Quartel
+- Rede de Estradas
+- Urbanismo
+- Vila Real de Santo António
+relationships:
+- type: cites
+  target: pt:dre:160484:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:02Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +103,7 @@ Considerando que a ampliação da área do terreno resultou de uma remodelação
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo único. É a Direcção-Geral da Fazenda Pública autorizada a ceder, a título definitivo, à Câmara Municipal de Vila Real de Santo António, mediante o pagamento da importância de 8156$00, uma parcela de terreno das matas nacionais, também denominadas «Dunas», com a área de 8156 m2, situada no concelho de Vila Real de Santo António, confrontando do norte e nascente com terrenos municipais, do sul com estrada municipal n.º 511 e do poente com matas nacionais, demarcada na planta anexa a este diploma e que dele fica fazendo parte integrante.
+Artigo único. É a Direcção-Geral da Fazenda Pública autorizada a ceder, a título definitivo, à Câmara Municipal de Vila Real de Santo António, mediante o pagamento da importância de 8156$00, uma parcela de terreno das matas nacionais, também denominadas «Dunas», com a área de 8156 m2, situada no concelho de Vila Real de Santo António, confrontando do norte e nascente com terrenos municipais, do sul com estrada municipal n.º 511 e do poente com matas nacionais, demarcada na planta anexa a este diploma e que dele fica fazendo parte integrante.
 
 § 1.º A referida parcela destina-se a ser utilizada na construção do edifício da cadeia comarcã, quartel da Guarda Nacional Republicana e seus arruamentos de acesso.
 
@@ -98,10 +111,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A cessão é isenta de impostos e efectuar-se-á por meio de auto, a lavrar na Repartição de Finanças de Vila Real de Santo António.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17500/09330934.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17500/09330934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17500/09330934.pdf)
 
 Ministério das Finanças, 27 de Julho de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.

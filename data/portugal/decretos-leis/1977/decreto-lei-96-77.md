@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06400/05450546.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b555a8d64c25696fa9d1a375f41061eb54858932eb4dc15de207e92e81c87428
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d49eae2d087e0eaddc29fb847796ca2b02abe558a4f1a4209ccdde58aa1d018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva de Estatística
+- Conselho Nacional de Estatística
+- Definição de Competências
+- Instituto Nacional de Estatística
+- Orgânica
+- Presidente
+- Primeiro-ministro
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285902:por
+  label: Declarada inconstitucional, com força obrigatória geral, a norma do art. 1.º, na sua aplicação à Região Autónoma
+    da Madeira, pelo(a) Resolução n.º 224/77 - Diário da República n.º 215/1977, Série I de 1977-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/224-1977-285902
+  date: '1977-09-16'
+- type: amended_by
+  target: pt:dre:329840:por
+  label: Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do art. 1.º do presente diploma,
+    com relação à Região Autónoma dos Açores pelo(a) Resolução n.º 136/78 - Diário da República n.º 208/1978, Série I de 1978-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/136-1978-329840
+  date: '1978-09-09'
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:26Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +135,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 a) ...
 
@@ -126,7 +159,7 @@ i) ...
 
 j) Promover a colaboração dos serviços, empresas públicas e empresas nacionalizadas tuteladas pelos diversos Ministérios com os serviços produtores de estatísticas.
 
-###### Art. 4.º - 1. O Conselho Nacional de Estatística, presidido pelo Primeiro-Ministro ou pelo membro do Governo em que ele delegar, é composto pelos seguintes vogais:
+Art. 4.º - 1. O Conselho Nacional de Estatística, presidido pelo Primeiro-Ministro ou pelo membro do Governo em que ele delegar, é composto pelos seguintes vogais:
 
 a) O presidente do conselho de direcção do Instituto Nacional de Estatística;
 
@@ -146,17 +179,17 @@ b) Os vogais a que se referem as alíneas c) e d) são, por inerência, os direc
 
 5. A constituição do Conselho poderá ser alterada mediante portaria do Primeiro-Ministro.
 
-###### Art. 5.º Os vogais do Conselho e respectivos suplentes têm direito ao abono das despesas de transporte e ajudas de custo quando tenham de deslocar-se no exercício das suas funções.
+Art. 5.º Os vogais do Conselho e respectivos suplentes têm direito ao abono das despesas de transporte e ajudas de custo quando tenham de deslocar-se no exercício das suas funções.
 
-###### Art. 6.º O Conselho poderá confiar o estudo de determinados problemas, mediante remuneração, a especialistas de reconhecida competência e a comissões ou grupos de trabalho constituídos por alguns dos seus membros ou especialistas, devendo o mandato, constituição, regras de funcionamento e condições de remuneração ser estabelecidos em despacho do Primeiro-Ministro.
+Art. 6.º O Conselho poderá confiar o estudo de determinados problemas, mediante remuneração, a especialistas de reconhecida competência e a comissões ou grupos de trabalho constituídos por alguns dos seus membros ou especialistas, devendo o mandato, constituição, regras de funcionamento e condições de remuneração ser estabelecidos em despacho do Primeiro-Ministro.
 
-###### Art. 7.º - 1. Funcionará em cada Ministério e em cada Secretaria de Estado não integrada em qualquer Ministério uma comissão consultiva de estatística, a que presidirá o respectivo representante no Conselho Nacional de Estatística e cuja composição será determinada pelo respectivo Ministro ou Secretário de Estado.
+Art. 7.º - 1. Funcionará em cada Ministério e em cada Secretaria de Estado não integrada em qualquer Ministério uma comissão consultiva de estatística, a que presidirá o respectivo representante no Conselho Nacional de Estatística e cuja composição será determinada pelo respectivo Ministro ou Secretário de Estado.
 
 2. Junto do Departamento Central de Planeamento, sob a presidência do respectivo director, funcionará uma comissão consultiva de estatística, que incluirá representantes dos órgãos de planeamento regionais do continente, cuja composição será determinada por despacho do Ministro da Tutela dos órgãos de planeamento.
 
 3. Em cada região autónoma funcionará uma comissão consultiva de estatística, presidida pelo respectivo vogal no Conselho, cuja composição será determinada por despacho do Presidente do Governo de cada região, mas que incluirá sempre representação das delegações regionais do INE.
 
-###### Art. 8.º - 1. Compete às comissões consultivas de estatística:
+Art. 8.º - 1. Compete às comissões consultivas de estatística:
 
 a) Preparar os estudos e mais elementos destinados ao Conselho Nacional de Estatística para o desempenho das funções a que se referem as alíneas a) e b) do artigo 3.º;
 
@@ -170,18 +203,18 @@ e) Dinamizar a colaboração dos serviços nelas representados com os serviços 
 
 2. Suprimido.
 
-###### Art. 9.º É aplicável aos membros das comissões consultivas de estatística o disposto no artigo 5.º, mas as despesas correspondentes constituirão encargos do respectivo Ministério, Secretaria de Estado ou Governo de região autónoma.
+Art. 9.º É aplicável aos membros das comissões consultivas de estatística o disposto no artigo 5.º, mas as despesas correspondentes constituirão encargos do respectivo Ministério, Secretaria de Estado ou Governo de região autónoma.
 
-###### Art. 2.º O Instituto Nacional de Estatística apoiará as actividades do Conselho através de um serviço especialmente criado para o efeito no âmbito da Divisão de Coordenação Estatística.
+Art. 2.º O Instituto Nacional de Estatística apoiará as actividades do Conselho através de um serviço especialmente criado para o efeito no âmbito da Divisão de Coordenação Estatística.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 262/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1974-476293), de 20 de Junho.
+Art. 3.º É revogado o [Decreto-Lei n.º 262/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1974-476293), de 20 de Junho.
 
-###### Art. 4.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 4.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 5 de Março de 1977.**
+Promulgado em 5 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

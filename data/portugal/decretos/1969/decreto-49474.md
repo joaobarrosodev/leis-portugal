@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49474-1969-212992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f69f12a73ebf118cbcbca936b807554c6a7a26543c82b0d825506c0581cc418c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ede176f3003ab0d17708e93b1d19cb59a60ead490010380e351920efd030103e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488099:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:06Z'
   warnings: []
   errors: []
 ---
@@ -96,27 +108,27 @@ Ao abrigo do disposto no artigo 11.º, n.º 1, do [Decreto-Lei n.º 49408](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disposições do [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, serão aplicadas às empresas concessionárias, subconcessionárias e arrendatárias do serviço público dos transportes ferroviários, com as adaptações constantes dos artigos do presente decreto.
+Artigo 1.º As disposições do [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, serão aplicadas às empresas concessionárias, subconcessionárias e arrendatárias do serviço público dos transportes ferroviários, com as adaptações constantes dos artigos do presente decreto.
 
-###### Art. 2.º - 1. A admissão nas categorias dos quadros permanentes da empresa para que se exija qualificação ou preparação técnicas pode ficar dependente de estágio prévio, com a duração que for estabelecida na respectiva convenção colectiva de trabalho.
+Art. 2.º - 1. A admissão nas categorias dos quadros permanentes da empresa para que se exija qualificação ou preparação técnicas pode ficar dependente de estágio prévio, com a duração que for estabelecida na respectiva convenção colectiva de trabalho.
 
 2. O estágio referido no número anterior será considerado período experimental.
 
-###### Art. 3.º - 1. O pessoal admitido com carácter eventual adquire, ao fim de um ano de serviço consecutivo, a qualidade de permanente desde que se encontrem observadas as demais condições de admissão previstas na respectiva convenção colectiva de trabalho.
+Art. 3.º - 1. O pessoal admitido com carácter eventual adquire, ao fim de um ano de serviço consecutivo, a qualidade de permanente desde que se encontrem observadas as demais condições de admissão previstas na respectiva convenção colectiva de trabalho.
 
 2. Entende-se por trabalho consecutivo, para efeitos do número anterior, o trabalho decorrente durante um ano, com o máximo de trinta faltas, das quais não poderão ser injustificadas mais de vinte.
 
 3. Os trabalhadores eventuais têm os mesmos direitos e obrigações que a lei geral estabelece para os permanentes, devendo ser preferidos pela entidade patronal nas admissões ao quadro permanente, salvo quando motivos ponderosos impuserem o contrário.
 
-###### Art. 4.º O disposto no artigo anterior não se aplica ao pessoal admitido para a realização de trabalhos determinados, qualquer que seja a sua natureza e duração, o qual fica sujeito às normas reguladoras dos contratos a prazo.
+Art. 4.º O disposto no artigo anterior não se aplica ao pessoal admitido para a realização de trabalhos determinados, qualquer que seja a sua natureza e duração, o qual fica sujeito às normas reguladoras dos contratos a prazo.
 
-###### Art. 5.º A empresa pode utilizar para a substituição das guardas de passagem de nível, nos seus descansos semanais, férias, períodos de doença ou outras ausências, pessoal feminino contratado diàriamente para o efeito.
+Art. 5.º A empresa pode utilizar para a substituição das guardas de passagem de nível, nos seus descansos semanais, férias, períodos de doença ou outras ausências, pessoal feminino contratado diàriamente para o efeito.
 
-###### Art. 6.º - 1. Os agentes devem cumprir integral e diligentemente as ordens e instruções recebidas em tudo quanto se destine a assegurar o funcionamento normal do serviço público ferroviário.
+Art. 6.º - 1. Os agentes devem cumprir integral e diligentemente as ordens e instruções recebidas em tudo quanto se destine a assegurar o funcionamento normal do serviço público ferroviário.
 
 2. Os agentes devem igualmente cumprimento às ordens ou instruções que reputem contrárias aos seus direitos, podendo, contudo, apresentar posteriormente reclamação pelas vias competentes.
 
-###### Art. 7.º - 1. A empresa pode, de harmonia com as necessidades do serviço, transferir e deslocar os agentes, devendo atender, sempre que possível, às conveniências destes.
+Art. 7.º - 1. A empresa pode, de harmonia com as necessidades do serviço, transferir e deslocar os agentes, devendo atender, sempre que possível, às conveniências destes.
 
 2. Os agentes têm direito a rescindir o contrato sem aviso prévio quando a transferência se dê para localidade diferente daquela em que prestavam serviço, desde que provem que tal transferência lhes causa grave prejuízo.
 
@@ -126,9 +138,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 5. A transferência dá aos agentes direito a utilizar os meios de transporte da empresa.
 
-###### Art. 8.º Quando as necessidades do serviço o imponham, pode o agente de categoria superior ocupar outra inferior pelo tempo estritamente necessário, sem perda da retribuição inerente à sua categoria.
+Art. 8.º Quando as necessidades do serviço o imponham, pode o agente de categoria superior ocupar outra inferior pelo tempo estritamente necessário, sem perda da retribuição inerente à sua categoria.
 
-###### Art. 9.º - 1. As sanções disciplinares aplicáveis aos agentes são as seguintes:
+Art. 9.º - 1. As sanções disciplinares aplicáveis aos agentes são as seguintes:
 
 a) Repreensão simples;
 
@@ -152,44 +164,44 @@ j) Despedimento.
 
 2. As sanções disciplinares de multa e suspensão não podem exceder em cada ano civil vinte dias de multa e trinta dias de suspensão.
 
-###### Art. 10.º As multas aplicadas como sanções disciplinares reverterão exclusivamente para o património da Caixa de Previdência e Abono de Família dos Ferroviários.
+Art. 10.º As multas aplicadas como sanções disciplinares reverterão exclusivamente para o património da Caixa de Previdência e Abono de Família dos Ferroviários.
 
-###### Art. 11.º O registo das sanções disciplinares aplicadas aos agentes constará das respectivas matrículas, que poderão ser examinadas pelas entidades competentes sempre que estas o requeiram.
+Art. 11.º O registo das sanções disciplinares aplicadas aos agentes constará das respectivas matrículas, que poderão ser examinadas pelas entidades competentes sempre que estas o requeiram.
 
-###### Art. 12.º Para o serviço de estações e dos comboios, as convenções colectivas de trabalho poderão estabelecer regimes especiais de prestação de trabalho nos dias feriados e de descanso semanal e respectiva retribuição.
+Art. 12.º Para o serviço de estações e dos comboios, as convenções colectivas de trabalho poderão estabelecer regimes especiais de prestação de trabalho nos dias feriados e de descanso semanal e respectiva retribuição.
 
-###### Art. 13.º Só se considera trabalho extraordinário do pessoal o que, como tal, for previsto no acordo colectivo de trabalho, atendendo às características especiais da exploração.
+Art. 13.º Só se considera trabalho extraordinário do pessoal o que, como tal, for previsto no acordo colectivo de trabalho, atendendo às características especiais da exploração.
 
-###### Art. 14.º Os agentes são obrigados a prestar o trabalho extraordinário que for imposto pelas necessidades do serviço público em que colaboram, a menos que sejam superiormente dispensados por motivos atendíveis.
+Art. 14.º Os agentes são obrigados a prestar o trabalho extraordinário que for imposto pelas necessidades do serviço público em que colaboram, a menos que sejam superiormente dispensados por motivos atendíveis.
 
-###### Art. 15.º - 1. O serviço ferroviário é considerado de laboração contínua e o trabalho nocturno não dá direito a retribuição extraordinária quando tenha carácter normal e não represente agravamento excepcional do esforço exigido aos agentes que o executam.
+Art. 15.º - 1. O serviço ferroviário é considerado de laboração contínua e o trabalho nocturno não dá direito a retribuição extraordinária quando tenha carácter normal e não represente agravamento excepcional do esforço exigido aos agentes que o executam.
 
 2. Não se aplica o disposto no número anterior ao pessoal dos escritórios, a não ser que estes estejam ligados a serviços que utilizem equipamentos especiais, quando a rentabilidade desses equipamentos justifique a organização de turnos.
 
-###### Art. 16.º Os agentes que, pela função que exercem, estejam isentos de horário de trabalho não têm direito a retribuição especial por esse facto.
+Art. 16.º Os agentes que, pela função que exercem, estejam isentos de horário de trabalho não têm direito a retribuição especial por esse facto.
 
-###### Art. 17.º - 1. O trabalho extraordinário será retribuído com o acréscimo de 25 por cento sobre a retribuição horária normal e o trabalho prestado em dias de descanso com o acréscimo de 50 por cento sobre a retribuição diária normal.
+Art. 17.º - 1. O trabalho extraordinário será retribuído com o acréscimo de 25 por cento sobre a retribuição horária normal e o trabalho prestado em dias de descanso com o acréscimo de 50 por cento sobre a retribuição diária normal.
 
 2. As percentagens fixadas não são passíveis de desconto para o Fundo Nacional de Abono de Família e revertem integralmente a favor dos agentes.
 
-###### Art. 18.º O regime de faltas ao serviço, justificadas ou não, e suas consequências, será fixado na respectiva convenção colectiva de trabalho.
+Art. 18.º O regime de faltas ao serviço, justificadas ou não, e suas consequências, será fixado na respectiva convenção colectiva de trabalho.
 
-###### Art. 19.º A empresa pode despedir os agentes eventuais ou do quadro permanente nos termos da lei geral.
+Art. 19.º A empresa pode despedir os agentes eventuais ou do quadro permanente nos termos da lei geral.
 
-###### Art. 20.º Os certificados passados pela empresa concessionária, a pedido dos agentes, regular-se-ão pelo disposto na convenção colectiva de trabalho.
+Art. 20.º Os certificados passados pela empresa concessionária, a pedido dos agentes, regular-se-ão pelo disposto na convenção colectiva de trabalho.
 
-###### Art. 21.º Os agentes femininos terão os acessos inerentes aos quadros a que pertençam, com as excepções que forem estabelecidas, resultantes da disciplina e natureza do trabalho.
+Art. 21.º Os agentes femininos terão os acessos inerentes aos quadros a que pertençam, com as excepções que forem estabelecidas, resultantes da disciplina e natureza do trabalho.
 
-###### Art. 22.º - 1. A empresa pode descontar na retribuição mensal devida aos seus agentes quaisquer empréstimos solicitados ou o valor de fornecimentos de géneros, artigos e combustíveis requisitados pelos interessados.
+Art. 22.º - 1. A empresa pode descontar na retribuição mensal devida aos seus agentes quaisquer empréstimos solicitados ou o valor de fornecimentos de géneros, artigos e combustíveis requisitados pelos interessados.
 
 2. A empresa deverá fixar para cada nível de retribuição o montante máximo autorizado para as requisições e empréstimos.
 
-###### Art. 23.º Fica revogado o [Decreto n.º 47472](https://diariodarepublica.pt/dr/detalhe/decreto/47472-1966-488099), de 31 de Dezembro de 1966.
+Art. 23.º Fica revogado o [Decreto n.º 47472](https://diariodarepublica.pt/dr/detalhe/decreto/47472-1966-488099), de 31 de Dezembro de 1966.
 
 Marcello Caetano - Fernando Alberto de Oliveira - José João Gonçalves de Proença.
 
-**Promulgado em 12 de Dezembro de 1969.**
+Promulgado em 12 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

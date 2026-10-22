@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22600/22152216.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1976-409159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3d91e001c6f54cc137d0c13fee32a30adc5f0006182b934fb3b42e70b71a6f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a004f9ae895e9dd59f793e0a51331a25429ad6555c1bbd67695338b329e8ebb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gestão de Recursos Humanos
+- Marinha
+- Militar
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220077:por
+  label: "Alterados os valores constantes no Mapa I anexo ao Dec Lei 48349, de 24-Abr 1968, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.279/86.05.09.1986.MDN, DR.IS [204] de 05.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-1986-220077
+  date: '1986-09-05'
+- type: cites
+  target: pt:dre:273609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:38Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +120,7 @@ Nestes termos:
 
 Usando dos poderes conferidos pela alínea a) do n.º 1 do artigo 148.º da Constituição, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os efectivos do quadro do activo dos oficiais da Armada da classe de fuzileiros, constantes da [Portaria n.º 23501](https://diariodarepublica.pt/dr/detalhe/portaria/23501-1968-273609), de 24 de Julho de 1968, são aumentados de:
+Artigo 1.º Os efectivos do quadro do activo dos oficiais da Armada da classe de fuzileiros, constantes da [Portaria n.º 23501](https://diariodarepublica.pt/dr/detalhe/portaria/23501-1968-273609), de 24 de Julho de 1968, são aumentados de:
 
 Capitães-de-mar-e-guerra - 1.
 
@@ -110,24 +130,24 @@ Capitães-tenentes - 7.
 
 Primeiros-tenentes - 13.
 
-###### Art. 2.º - 1. O preenchimento dos lugares em aberto no quadro da classe de oficiais fuzileiros à data do início da vigência do presente diploma, que não possam ser preenchidos por oficiais que pertencem a esta classe, far-se-á, excepcionalmente, por concurso aberto aos oficiais das classes a definir em despacho do Chefe do Estado-Maior da Armada e que obedeçam às condições aí igualmente fixadas.
+Art. 2.º - 1. O preenchimento dos lugares em aberto no quadro da classe de oficiais fuzileiros à data do início da vigência do presente diploma, que não possam ser preenchidos por oficiais que pertencem a esta classe, far-se-á, excepcionalmente, por concurso aberto aos oficiais das classes a definir em despacho do Chefe do Estado-Maior da Armada e que obedeçam às condições aí igualmente fixadas.
 
 2. O ingresso na classe de oficiais fuzileiros, nos moldes previstos no número anterior, far-se-á no posto que os concorrentes possuíam à data de abertura do concurso, ocupando no quadro desse posto o lugar que lhes competir pela sua antiguidade relativa.
 
 3. Se entre a data da abertura do concurso e o ingresso na classe de fuzileiros couber promoção no seu quadro de origem a qualquer oficial concorrente, seguir-se-á o procedimento previsto no artigo 13.º do Estatuto do Oficial da Armada.
 
-###### Art. 3.º Até que se tenham verificado as admissões no quadro da classe de oficiais fuzileiros de que trata o artigo anterior, são suspensas as promoções nesse quadro, com excepção daquelas que resultem de vacaturas ocorridas em data anterior à da entrada em vigor do presente diploma.
+Art. 3.º Até que se tenham verificado as admissões no quadro da classe de oficiais fuzileiros de que trata o artigo anterior, são suspensas as promoções nesse quadro, com excepção daquelas que resultem de vacaturas ocorridas em data anterior à da entrada em vigor do presente diploma.
 
-###### Art. 4.º O ingresso na classe de oficiais fuzileiros, nos termos previstos no Estatuto do Oficial da Armada, fica igualmente suspenso até que se tenham verificado as admissões de que trata o artigo 2.º
+Art. 4.º O ingresso na classe de oficiais fuzileiros, nos termos previstos no Estatuto do Oficial da Armada, fica igualmente suspenso até que se tenham verificado as admissões de que trata o artigo 2.º
 
-###### Art. 5.º As dúvidas e casos omissos que se verifiquem na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior da Armada.
+Art. 5.º As dúvidas e casos omissos que se verifiquem na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior da Armada.
 
-###### Art. 6.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 13 de Setembro de 1976.**
+Promulgado em 13 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

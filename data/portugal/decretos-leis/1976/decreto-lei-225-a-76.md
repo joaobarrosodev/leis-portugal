@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 77/1976, 1º Suplemento, Série I de 1976-03-31
   number: '77'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 638-(1) a 638-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07701/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-a-1976-281818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47c15a5e2564674aae72eb999eef4619609f25b5cebf9650123d5cd957e586c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31ff1978353521588011c8f29a4c57a98cd769a6c470ec0f87e4a63465115415
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desalojado
+- Licença de Aluguer
+- Licença de Transporte
+- Transporte de Passageiros
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482616:por
+  label: "Alteradoo nº3 do art. 2º e o nº 3 do art. 3º pelo DEC LEI.716-D/76.08.10.1976.MTC, DR.IS [236-Supl] de 08.10.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/716-d-1976-482616
+  date: '1976-10-08'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:307257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507064:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:04Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +150,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Aos cidadãos portugueses regressados das ex-colónias que exerciam a indústria de aluguer em veículos ligeiros de passageiros são atribuídas 650 licenças para a sua reintegração no sector.
+Artigo 1.º Aos cidadãos portugueses regressados das ex-colónias que exerciam a indústria de aluguer em veículos ligeiros de passageiros são atribuídas 650 licenças para a sua reintegração no sector.
 
-###### Art. 2.º - 1. A atribuição destas licenças será efectuada excepcionalmente através da DGTT, mediante requerimento que deverá obedecer ao modelo anexo, após a prova da autenticidade da licença exibida e de acordo com a lista nominal elaborada pelos representantes dos industriais mandatados para o efeito.
+Art. 2.º - 1. A atribuição destas licenças será efectuada excepcionalmente através da DGTT, mediante requerimento que deverá obedecer ao modelo anexo, após a prova da autenticidade da licença exibida e de acordo com a lista nominal elaborada pelos representantes dos industriais mandatados para o efeito.
 
 2. Os industriais abrangidos pelo presente diploma apenas podem beneficiar da atribuição de uma licença, independentemente do número de licenças que possuíam nas ex-colónias.
 
@@ -131,33 +160,33 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. A lista nominal a que se refere o n.º 1 deverá, ainda, ter em conta, se for caso disso, a residência e a antiguidade no exercício da actividade dos requerentes, devidamente comprovadas.
 
-###### Art. 3.º - 1. Das referidas licenças serão atribuídas até 250 nos distritos de Lisboa e Porto e nos concelhos de Setúbal, Almada, Barreiro e Seixal.
+Art. 3.º - 1. Das referidas licenças serão atribuídas até 250 nos distritos de Lisboa e Porto e nos concelhos de Setúbal, Almada, Barreiro e Seixal.
 
 2. A atribuição de licenças nas áreas referidas no número anterior, bem como nas sedes de distrito, efectuar-se-á sem prejuízo das vagas existentes.
 
 3. Nos casos excepcionais em que nas áreas abrangidas pelo disposto no número anterior seja necessário proceder ao aumento do contingente de veículos ligeiros de aluguer publicado no Diário do Governo, 2.ª série, n.º 64, de 16 de Março de 1976, o referido aumento contemplará igual número de industriais das ex-colónias e de motoristas profissionais.
 
-###### Art. 4.º A falta de documentação comprovativa do exercício da indústria poderá ser suprida por declaração abonada por dois industriais de transportes em veículos ligeiros de passageiros nas ex-colónias, com a sua situação devidamente legalizada, nas condições previstas no presente diploma.
+Art. 4.º A falta de documentação comprovativa do exercício da indústria poderá ser suprida por declaração abonada por dois industriais de transportes em veículos ligeiros de passageiros nas ex-colónias, com a sua situação devidamente legalizada, nas condições previstas no presente diploma.
 
-###### Art. 5.º - 1. Serão canceladas as licenças concedidas com fundamento em declarações falsas ou pressupostos afectados por erro.
+Art. 5.º - 1. Serão canceladas as licenças concedidas com fundamento em declarações falsas ou pressupostos afectados por erro.
 
 2. Os infractores serão sempre punidos com multa de 10000$00.
 
 3. Serão também punidos nos termos dos números antecedentes os industriais de transportes a que se refere o artigo anterior que tenham prestado declarações falsas em qualquer processo de licenciamento.
 
-###### Art. 6.º A faculdade conferida aos sindicatos de transportes rodoviários e às câmaras municipais no n.º 2 do artigo 3.º do [Decreto-Lei n.º 512/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1975-307257), de 20 de Setembro, com a redacção que lhe foi introduzida pelo [Decreto-Lei n.º 99/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1976-507064), de 2 de Fevereiro, passa a abranger igualmente os centros urbanos cujo desenvolvimento económico justifique a alteração dos critérios de prioridade na atribuição de licenças de aluguer.
+Art. 6.º A faculdade conferida aos sindicatos de transportes rodoviários e às câmaras municipais no n.º 2 do artigo 3.º do [Decreto-Lei n.º 512/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1975-307257), de 20 de Setembro, com a redacção que lhe foi introduzida pelo [Decreto-Lei n.º 99/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1976-507064), de 2 de Fevereiro, passa a abranger igualmente os centros urbanos cujo desenvolvimento económico justifique a alteração dos critérios de prioridade na atribuição de licenças de aluguer.
 
-###### Art. 7.º Os industriais das ex-colónias abrangidos pelo disposto no presente diploma ficam excluídos do âmbito da aplicação do [Decreto-Lei n.º 83/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1976-506868), de 28 de Janeiro.
+Art. 7.º Os industriais das ex-colónias abrangidos pelo disposto no presente diploma ficam excluídos do âmbito da aplicação do [Decreto-Lei n.º 83/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1976-506868), de 28 de Janeiro.
 
-###### Art. 8.º O presente diploma entra em vigor na data da sua publicação.
+Art. 8.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - José Augusto Fernandes.
 
-**Promulgado em 31 de Março de 1976.**
+Promulgado em 31 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Requerimento a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 225-A/76
 
@@ -189,4 +218,4 @@ C) Bilhete de identidade.
 
 (nota 2) - Para as cidades de Lisboa e Porto basta citar as respectivas cidades.
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

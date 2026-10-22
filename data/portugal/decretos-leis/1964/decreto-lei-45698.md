@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/04/10300/06040620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03eaf4d24cd617b7b074b7d0476c369a0c22a696c368092a7d435050e1818807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f564b68e530eb95ea9e29ed6561d732fd3641bda65e5fb790023f6180e11778f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Código das Custas Judiciais do Trabalho
+- Código de Processo do Trabalho
+- Código do Processo Civil
+- Custas Judiciais
+- Direito do Trabalho
+- Fundo de Desemprego
+- Fundo de Garantia de Despesas de Emergência
+- Fundo Nacional de Abono de Família
+- Imposto de Justiça
+- Imposto do SELO
+- Isenção Fiscal
+- Preço
+- Processo Laboral
+- Profissão Independente
+- Receita Própria
+- Receita Pública
+- Recurso
+- Remuneração Acessória
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:324328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315119:por
+  label: "Alterados os arts. 8º, 9º, 18º, 33º, 37º, 62º, 93º e 98º do Código das Custas Judiciais do Trabalho pelo DEC LEI.47850.19.08.1967.MCPS,\
+    \ DG.IS [193] de 19.08.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47850-1967-315119
+  date: '1967-08-19'
+- type: amended_by
+  target: pt:dre:632249:por
+  label: "Alterados os arts. 27º, 33º, 42º, 43º, 65º, 68º, 98º, 104º, 106º, 118º, 122º, 134º, 135º, 138º, 140º, 141º, 142º,\
+    \ 143º, 144º, 145º, 146º e 147º do Código das Custas Judiciais do Trabalho, com a redacção conferida no Dec Lei 47850\
+    \ de 19-Ago de 1967, pelo DEC LEI.562/71.17.12.1971.MCPS, DG.IS [294] de 17.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/562-1971-632249
+  date: '1971-12-17'
+- type: amended_by
+  target: pt:dre:506869:por
+  label: "Alterados os arts. 37º, 39º, 43º, 46º, 50º, 56º, 57º, 84º, 105º, 112º, 118º, 122º, 123º, 128º, 133º, 134º, 135º,\
+    \ 138º, 150º e 153º do Código das Custas Judiciais do Trabalho, com a redacção conferida nos Dec Lei 47850 de 19-Ago de\
+    \ 1967 e 562/71 de 17-Dez, pelo DEC LEI.85/76.28.01.1976.MT, DG.IS [23] de 28.01.1976, que substituiu por Cofre dos Tribunais\
+    \ do Trabalho a expressão Fundo de Garantia de Despesas de Emergência contida no referido código \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1976-506869
+  date: '1976-01-28'
+- type: amended_by
+  target: pt:dre:328034:por
+  label: "Integrado no Cofre Geral dos Tribunais o Cofre dos Tribunais do Trabalho (antigo Fundo de Garantia de Despesas de\
+    \ Emergência) criado pelo art. 150º do Código das Custas Judiciais do Trabalho aprovado pelo presente diploma, com a redacção\
+    \ conferida pelo Dec Lei 85/76 de 28-Jan, pelo DEC LEI.308/78.19.10.1978.MJ, DR.IS [241] de 19.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1978-328034
+  date: '1978-10-19'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324328:por
+  label: "Revogado, e sua legislação complementar, pelo DEC LEI.118/85.19.04.1985.MJ, DR.IS [91] de 19.04.1985\0985\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1985-324328
+  date: '1985-04-19'
 article_structure:
-  article_count: 2
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:58Z'
   warnings: []
   errors: []
 ---
@@ -176,25 +269,25 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código das Custas Judiciais do Trabalho, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código das Custas Judiciais do Trabalho, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O Código das Custas Judiciais do Trabalho regula o regime de custas a que estão sujeitos os processos nos tribunais do trabalho, e de harmonia com as suas disposições serão ainda contadas as custas relativas a diligências ordenadas ou requisitadas a outros tribunais.
+Art. 2.º O Código das Custas Judiciais do Trabalho regula o regime de custas a que estão sujeitos os processos nos tribunais do trabalho, e de harmonia com as suas disposições serão ainda contadas as custas relativas a diligências ordenadas ou requisitadas a outros tribunais.
 
-###### Art. 3.º Os processos no Supremo Tribunal Administrativo, secção do contencioso do trabalho e previdência social, regulam-se, quanto a custas, pelo que estiver determinado na respectiva tabela de custas, com ressalva do que no artigo 28.º do Código das Custas Judiciais do Trabalho se estabelece.
+Art. 3.º Os processos no Supremo Tribunal Administrativo, secção do contencioso do trabalho e previdência social, regulam-se, quanto a custas, pelo que estiver determinado na respectiva tabela de custas, com ressalva do que no artigo 28.º do Código das Custas Judiciais do Trabalho se estabelece.
 
-###### Art. 4.º Em tudo quanto no presente código não se prevê e não seja incompatível com qualquer das suas disposições, aplicar-se-ão, subsidiàriamente, conforme os casos, o Código das Custas Judiciais e a tabela geral do imposto do selo e seu regulamento, com a respectiva legislação complementar.
+Art. 4.º Em tudo quanto no presente código não se prevê e não seja incompatível com qualquer das suas disposições, aplicar-se-ão, subsidiàriamente, conforme os casos, o Código das Custas Judiciais e a tabela geral do imposto do selo e seu regulamento, com a respectiva legislação complementar.
 
-###### Art. 5.º As importâncias depositadas na Caixa Geral de Depósitos, Crédito e Previdência e suas agências ou filiais em conta dos tribunais do trabalho, das tesourarias dos tribunais do trabalho e do Fundo de Garantia de Despesas de Emergência vencem os mesmos juros que os depósitos dos tribunais comuns.
+Art. 5.º As importâncias depositadas na Caixa Geral de Depósitos, Crédito e Previdência e suas agências ou filiais em conta dos tribunais do trabalho, das tesourarias dos tribunais do trabalho e do Fundo de Garantia de Despesas de Emergência vencem os mesmos juros que os depósitos dos tribunais comuns.
 
-###### Art. 6.º - 1. As tesourarias judiciais só entrarão em funcionamento 60 dias após a entrada em vigor do presente diploma, e nessa data será igualmente iniciado o novo sistema de escrituração e o registo das importâncias relativas aos processos.
+Art. 6.º - 1. As tesourarias judiciais só entrarão em funcionamento 60 dias após a entrada em vigor do presente diploma, e nessa data será igualmente iniciado o novo sistema de escrituração e o registo das importâncias relativas aos processos.
 
 2. Os modelos dos livros mencionados no Código das Custas Judiciais do Trabalho serão aprovados por despacho do Ministro das Corporações e Previdência Social, sob proposta da Inspecção-Geral dos Tribunais do Trabalho.
 
-###### Art. 7.º Todas as alterações que de futuro se façam sobre a matéria do Código das Custas Judiciais do Trabalho deverão ser inscritas no lugar próprio deste diploma, mediante a substituição das disposições alteradas, a supressão das que devem ser eliminadas ou o adicionamento das que se mostrem necessárias.
+Art. 7.º Todas as alterações que de futuro se façam sobre a matéria do Código das Custas Judiciais do Trabalho deverão ser inscritas no lugar próprio deste diploma, mediante a substituição das disposições alteradas, a supressão das que devem ser eliminadas ou o adicionamento das que se mostrem necessárias.
 
-###### Art. 8.º O código começará a vigorar em todo o continente e ilhas adjacentes em 1 de Maio de 1964 e aplica-se a todos os processos pendentes.
+Art. 8.º O código começará a vigorar em todo o continente e ilhas adjacentes em 1 de Maio de 1964 e aplica-se a todos os processos pendentes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -202,19 +295,19 @@ CÓDIGO DAS CUSTAS JUDICIAIS DO TRABALHO
 
 I
 
-# Parte cível
+## Parte cível
 
 ## TÍTULO I — Das custas
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. Os processos cíveis, salvo os excepcionalmente isentos por lei, estão sujeitos a custas.
+Artigo 1.º - 1. Os processos cíveis, salvo os excepcionalmente isentos por lei, estão sujeitos a custas.
 
 2. As custas compreendem o imposto de justiça, o imposto do selo e os encargos.
 
 3. As custas não podem ser objecto de transacção diversa da realizada acerca do pedido e, em caso de desistência depois de contestada a acção, são devidas na proporção de metade por ambas as partes.
 
-###### Art. 2.º São isentos de custas nos processos em que intervenham ou sejam partes:
+Art. 2.º São isentos de custas nos processos em que intervenham ou sejam partes:
 
 a) As entidades referidas no artigo 3.º do Código das Custas Judiciais nas condições ali expressas;
 
@@ -230,13 +323,13 @@ f) As Casas do Povo e as Casas dos Pescadores;
 
 g) Quaisquer outras entidades por lei especialmente isentas.
 
-###### Art. 3.º - 1. Nos processos de liquidação e partilha dos bens das instituições de previdência e organismos corporativos não haverá lugar ao pagamento de custas, sendo apenas devidos os encargos relativos à remuneração dos liquidatários ou peritos, ao custo da publicação de anúncios, despesas com correios e telégrafo e verbete estatístico.
+Art. 3.º - 1. Nos processos de liquidação e partilha dos bens das instituições de previdência e organismos corporativos não haverá lugar ao pagamento de custas, sendo apenas devidos os encargos relativos à remuneração dos liquidatários ou peritos, ao custo da publicação de anúncios, despesas com correios e telégrafo e verbete estatístico.
 
 2. Os encargos referidos no número anterior serão suportados pelo património liquidando.
 
 ### CAPÍTULO II — Do valor dos processos
 
-###### Art. 4.º - 1. A determinação do valor dos processos para efeitos de custas faz-se de harmonia com o preceituado no Código das Custas Judiciais, com ressalva do que no artigo 118.º do Código de Processo do Trabalho se estabelece quanto ao valor dos emergentes de acidente de trabalho e doença profissional.
+Art. 4.º - 1. A determinação do valor dos processos para efeitos de custas faz-se de harmonia com o preceituado no Código das Custas Judiciais, com ressalva do que no artigo 118.º do Código de Processo do Trabalho se estabelece quanto ao valor dos emergentes de acidente de trabalho e doença profissional.
 
 2. As acções e recursos a que se referem as secções I, II, III e IV do capítulo II do título VI do Código de Processo do Trabalho consideram-se sempre de valor igual à alçada do tribunal do trabalho.
 
@@ -244,11 +337,11 @@ g) Quaisquer outras entidades por lei especialmente isentas.
 
 #### SECÇÃO I — Nos tribunais arbitrais
 
-###### Art. 5.º O imposto de justiça, nos processos perante os tribunais arbitrais, é igual ao fixado no artigo seguinte, salvo se, como tribunal arbitral, funcionar alguma comissão corporativa, nos termos do artigo 15.º do Código de Processo do Trabalho. Nesse caso observar-se-á o que estiver determinado no respectivo regulamento.
+Art. 5.º O imposto de justiça, nos processos perante os tribunais arbitrais, é igual ao fixado no artigo seguinte, salvo se, como tribunal arbitral, funcionar alguma comissão corporativa, nos termos do artigo 15.º do Código de Processo do Trabalho. Nesse caso observar-se-á o que estiver determinado no respectivo regulamento.
 
 #### SECÇÃO II — Nos tribunais do trabalho
 
-###### Art. 6.º - 1. As taxas do imposto de justiça aplicáveis nos processos cíveis, incluindo os recursos de revisão e de oposição de terceiro, são as seguintes:
+Art. 6.º - 1. As taxas do imposto de justiça aplicáveis nos processos cíveis, incluindo os recursos de revisão e de oposição de terceiro, são as seguintes:
 
 a) Nos processos de valor não superior a 30000$00:
 
@@ -272,7 +365,7 @@ Sobre o acrescido além de 200000$00 aplicam-se as taxas estabelecidas na alíne
 
 3. Nos processos em que tenha intervindo o tribunal colectivo, ao imposto de justiça fixado em função do valor da causa acresce sempre o de 300$00, salvo se a audiência se não realizar por motivos imputáveis ao tribunal.
 
-###### Art. 7.º O imposto de justiça, salvo o que no artigo precedente se dispõe quanto ao processo sumaríssimo, é reduzido:
+Art. 7.º O imposto de justiça, salvo o que no artigo precedente se dispõe quanto ao processo sumaríssimo, é reduzido:
 
 a) A um sexto, nas acções que terminem antes de proferido despacho que ordene a citação do réu;
 
@@ -280,27 +373,27 @@ b) A metade, nas acções que terminem depois do despacho que ordene a citação
 
 c) A dois terços, nas secções que terminem com o despacho saneador ou depois deste proferido, mas antes de ser designado dia para o julgamento, no processo ordinário, e até ao dia para ele designado, no sumário.
 
-###### Art. 8.º - 1. Nas execuções, incluindo as instauradas por custas e quantias a estas equiparadas, em dívida, quer no tribunal do trabalho, quer no tribunal de recurso, o imposto é igual a metade do fixado no artigo 6.º para as acções do mesmo valor.
+Art. 8.º - 1. Nas execuções, incluindo as instauradas por custas e quantias a estas equiparadas, em dívida, quer no tribunal do trabalho, quer no tribunal de recurso, o imposto é igual a metade do fixado no artigo 6.º para as acções do mesmo valor.
 
 2. Se à execução for deduzida oposição, aplicam-se a todo o processo, incluindo a oposição, as taxas do imposto fixado no artigo 6.º
 
 3. Quando a oposição se não refira a toda a quantia exequenda, o imposto é calculado, quanto à parte em relação à qual tenha havido oposição, de harmonia com o preceituado no n.º 2 e, segundo o disposto no n.º 1, na parte restante.
 
-###### Art. 9.º Nas vendas judiciais, adjudicações e remições de bens imobiliários e mobiliários observar-se-á o disposto, respectivamente, nos artigos 24.º e 25.º do Código das Custas Judiciais, mas o imposto, quanto ao primeiro, é calculado de harmonia com as taxas do artigo 6.º do presente diploma.
+Art. 9.º Nas vendas judiciais, adjudicações e remições de bens imobiliários e mobiliários observar-se-á o disposto, respectivamente, nos artigos 24.º e 25.º do Código das Custas Judiciais, mas o imposto, quanto ao primeiro, é calculado de harmonia com as taxas do artigo 6.º do presente diploma.
 
-###### Art. 10.º - 1. Nos depósitos e levantamentos de valor superior a 200$00, efectuados em processos de qualquer natureza e salvo o que na alínea e) do artigo 15.º deste diploma se dispõe, o imposto será igual a um sexto do correspondente às acções do mesmo valor. Nos de quantias inferiores a 200$00 apenas são devidos os selos e encargos.
+Art. 10.º - 1. Nos depósitos e levantamentos de valor superior a 200$00, efectuados em processos de qualquer natureza e salvo o que na alínea e) do artigo 15.º deste diploma se dispõe, o imposto será igual a um sexto do correspondente às acções do mesmo valor. Nos de quantias inferiores a 200$00 apenas são devidos os selos e encargos.
 
 2. As custas referidas no número precedente não podem em qualquer caso exceder 15 por cento das quantias a levantar ou a depositar.
 
-###### Art. 11.º Nas reclamações de decisões disciplinares a que se referem os artigos 161.º e seguintes do Código de Processo do Trabalho o imposto é fixado pelo tribunal entre 100$00 e 2000$00.
+Art. 11.º Nas reclamações de decisões disciplinares a que se referem os artigos 161.º e seguintes do Código de Processo do Trabalho o imposto é fixado pelo tribunal entre 100$00 e 2000$00.
 
-###### Art. 12.º O imposto de justiça nas acções previstas no artigo 154.º do Código de Processo do Trabalho que sigam os termos de processo comum é calculado de harmonia com as taxas do artigo 6.º
+Art. 12.º O imposto de justiça nas acções previstas no artigo 154.º do Código de Processo do Trabalho que sigam os termos de processo comum é calculado de harmonia com as taxas do artigo 6.º
 
-###### Art. 13.º Nas acções destinadas à convocação de assembleias gerais ou de órgãos equivalentes o imposto de justiça é fixado entre 100$00 e 1000$00.
+Art. 13.º Nas acções destinadas à convocação de assembleias gerais ou de órgãos equivalentes o imposto de justiça é fixado entre 100$00 e 1000$00.
 
-###### Art. 14.º Nas acções de impugnação de deliberações de assembleias gerais ou de órgãos equivalentes aplica-se o imposto de justiça de 200$00 a 3000$00.
+Art. 14.º Nas acções de impugnação de deliberações de assembleias gerais ou de órgãos equivalentes aplica-se o imposto de justiça de 200$00 a 3000$00.
 
-###### Art. 15.º - 1. Nos processos emergentes de acidente de trabalho ou doença profissional são devidas as seguintes taxas de imposto de justiça:
+Art. 15.º - 1. Nos processos emergentes de acidente de trabalho ou doença profissional são devidas as seguintes taxas de imposto de justiça:
 
 a) Nas acções destinadas à efectivação dos direitos dos sinistrados, dos doentes ou dos beneficiários legais referidos no artigo 16.º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), as fixadas no artigo 6.º, incidindo sobre o valor do processo.
 
@@ -328,7 +421,7 @@ g) No incidente de remição de pensões, 3 por cento do capital remido.
 
 6. Se ao autor for reconhecido o direito a pensão ou indemnização diferente da tomada em consideração na fixação do valor da causa, será este, para efeito de custas, rectificado após a decisão daquela e segundo os seus elementos, para, de harmonia com ele, ser calculado o imposto de justiça.
 
-###### Art. 16.º - 1. As entidades referidas no artigo 5.º do [Decreto n.º 27649](https://diariodarepublica.pt/dr/detalhe/decreto/27649-1937-419412), de 12 de Abril de 1937, não isentas de custas, pagarão a taxa de $50 por cada participação de acidente de trabalho ou de doença profissional incluída nos mapas mencionados no § único do mesmo artigo.
+Art. 16.º - 1. As entidades referidas no artigo 5.º do [Decreto n.º 27649](https://diariodarepublica.pt/dr/detalhe/decreto/27649-1937-419412), de 12 de Abril de 1937, não isentas de custas, pagarão a taxa de $50 por cada participação de acidente de trabalho ou de doença profissional incluída nos mapas mencionados no § único do mesmo artigo.
 
 2. O pagamento é feito por estampilhas fiscais apostas e inutilizadas no exemplar dos mapas destinado ao tribunal, sem o que eles não serão recebidos.
 
@@ -336,23 +429,23 @@ g) No incidente de remição de pensões, 3 por cento do capital remido.
 
 Para este efeito, os secretários-gerais, nos tribunais de Lisboa e Porto, farão apresentar na tesouraria da 1.ª vara, depois de conferido, o exemplar dos mapas destinado ao tribunal.
 
-###### Art. 17.º O imposto de justiça devido nos processos especiais não expressamente previstos neste diploma será de um terço do correspondente a uma acção do mesmo valor.
+Art. 17.º O imposto de justiça devido nos processos especiais não expressamente previstos neste diploma será de um terço do correspondente a uma acção do mesmo valor.
 
-###### Art. 18.º - 1. Na interposição de qualquer recurso ordinário, ainda que não chegue a subir ao tribunal superior, nos actos e incidentes processados por apenso e nos que tiverem lugar antes de iniciado ou depois de findo o processo a que digam respeito, nos de falsidade, habilitação e liquidação, quer instaurados na pendência da acção, quer posteriormente, o imposto de justiça é igual a um sexto do devido a final no processo, sem prejuízo do disposto no artigo 25.º
+Art. 18.º - 1. Na interposição de qualquer recurso ordinário, ainda que não chegue a subir ao tribunal superior, nos actos e incidentes processados por apenso e nos que tiverem lugar antes de iniciado ou depois de findo o processo a que digam respeito, nos de falsidade, habilitação e liquidação, quer instaurados na pendência da acção, quer posteriormente, o imposto de justiça é igual a um sexto do devido a final no processo, sem prejuízo do disposto no artigo 25.º
 
 2. O imposto referido no número anterior é reduzido a um oitavo se o recurso, acto ou incidente findarem antes do seu termo normal e pode ser elevado até metade do devido numa acção de igual valor se a complexidade do recurso, acto ou incidente o justificar.
 
-###### Art. 19.º Não são, em regra, passíveis de imposto de justiça os actos ou incidentes não abrangidos pelo artigo anterior e não previstos neste diploma, mas o tribunal pode tributá-los a título excepcional, atendendo ao carácter anómalo que apresentem e aos princípios que regem a condenação em custas, dentro, todavia, dos limites referidos naquela disposição.
+Art. 19.º Não são, em regra, passíveis de imposto de justiça os actos ou incidentes não abrangidos pelo artigo anterior e não previstos neste diploma, mas o tribunal pode tributá-los a título excepcional, atendendo ao carácter anómalo que apresentem e aos princípios que regem a condenação em custas, dentro, todavia, dos limites referidos naquela disposição.
 
-###### Art. 20.º No processo de excepção de incompetência relativa observar-se-á, quanto ao imposto de justiça, o seguinte:
+Art. 20.º No processo de excepção de incompetência relativa observar-se-á, quanto ao imposto de justiça, o seguinte:
 
 a) Se a excepção improceder, o réu paga o que for fixado entre um décimo e um quarto do correspondente ao processo em que for deduzida;
 
 b) Se a excepção proceder, não há lugar a imposto, salvo na hipótese do artigo 113.º do Código de Processo Civil, em que é devido o máximo do imposto indicado na alínea anterior.
 
-###### Art. 21.º Nenhum imposto é devido pelo requerimento de prossecução de processo parado mais de dois meses por culpa das partes e por tal motivo contado; mas o processo não poderá prosseguir sem que sejam pagas as custas contadas, que, todavia, serão levadas em consideração na conta final do processo.
+Art. 21.º Nenhum imposto é devido pelo requerimento de prossecução de processo parado mais de dois meses por culpa das partes e por tal motivo contado; mas o processo não poderá prosseguir sem que sejam pagas as custas contadas, que, todavia, serão levadas em consideração na conta final do processo.
 
-###### Art. 22.º - 1. Nas cartas precatórias e comunicações equivalentes expedidas para diligências que não sejam simples citações, notificações ou afixações de editais, observar-se-á, quanto a imposto de justiça, o seguinte:
+Art. 22.º - 1. Nas cartas precatórias e comunicações equivalentes expedidas para diligências que não sejam simples citações, notificações ou afixações de editais, observar-se-á, quanto a imposto de justiça, o seguinte:
 
 I - Quando cumpridas pelos tribunais do trabalho, não é devido imposto.
 
@@ -368,13 +461,13 @@ c) Tiver emanado de acção sumaríssima de valor não superior a 1000$00 e seus
 
 2. Quando, sendo devido imposto, este não tenha sido fixado no tribunal deprecado, será o mesmo calculado pelo mínimo.
 
-###### Art. 23.º - 1. As cartas rogatórias expedidas para diligências que não sejam simples citações, notificações ou afixações de editais não estão sujeitas a imposto de justiça. Quando, porém, requeridas por quem não esteja isento de custas, não serão passadas sem que seja feito depósito da importância necessária à sua tradução, quando exigida, e do custo provável do seu cumprimento no país de destino, segundo a informação prèviamente obtida da respectiva representação diplomática em Portugal.
+Art. 23.º - 1. As cartas rogatórias expedidas para diligências que não sejam simples citações, notificações ou afixações de editais não estão sujeitas a imposto de justiça. Quando, porém, requeridas por quem não esteja isento de custas, não serão passadas sem que seja feito depósito da importância necessária à sua tradução, quando exigida, e do custo provável do seu cumprimento no país de destino, segundo a informação prèviamente obtida da respectiva representação diplomática em Portugal.
 
 2. Nas cartas rogatórias recebidas para as diligências indicadas no número anterior observar-se-á o regime de reciprocidade. E, se, no país de origem, as rogatórias recebidas de Portugal estiverem sujeitas a custas, aquelas pagarão imposto a fixar entre 100$00 e 500$00.
 
 3. Nas cartas recebidas para citações, notificações ou afixações de editais, apenas são devidos os encargos, ressalvado, porém, o regime de reciprocidade quanto à sua isenção.
 
-###### Art. 24.º - 1. São isentos de imposto os adiamentos ordenados por motivos respeitantes ao próprio tribunal, devendo, porém, os motivos constar especificada e claramente da acta, auto ou termo.
+Art. 24.º - 1. São isentos de imposto os adiamentos ordenados por motivos respeitantes ao próprio tribunal, devendo, porém, os motivos constar especificada e claramente da acta, auto ou termo.
 
 2. Nos outros adiamentos é devido um terço do imposto aplicável a final no processo, que ficará a cargo da parte que o tenha requerido, daquela em relação à qual ocorra o facto que determine o adiamento ou da que dê motivo a que a parte contrária o requeira ou, ainda, da que assuma posição que implique a determinação do adiamento pelo tribunal.
 
@@ -382,7 +475,7 @@ c) Tiver emanado de acção sumaríssima de valor não superior a 1000$00 e seus
 
 4. O imposto devido pelos adiamentos ocorridos no tribunal deprecado, em cuja fixação se observará o preceituado no n.º 2, é liquidado e pago no tribunal deprecante nos termos do número anterior, logo que a deprecada seja junta no processo.
 
-###### Art. 25.º - 1. O imposto de justiça, salvo o que no n.º 2 se dispõe, não pode ser inferior às seguintes importâncias:
+Art. 25.º - 1. O imposto de justiça, salvo o que no n.º 2 se dispõe, não pode ser inferior às seguintes importâncias:
 
 a) Em qualquer processo - 75$00.
 
@@ -390,23 +483,23 @@ b) Nas cartas precatórias ou comunicações equivalentes abrangidas pelo artigo
 
 2. Nas acções com processo comum que sigam a forma sumaríssima, nos incidentes de remição obrigatória de pensões e nas vendas, arrematações ou remições de bens, o imposto de justiça devido no tribunal não pode ser inferior a 30$00.
 
-###### Art. 26.º Atendendo ao grau de capacidade económica do responsável pelas custas, ao seu comportamento no processo, à especial complexidade deste e à proporção entre o valor do pedido e o da procedência, pode o imposto de justiça, ressalvados os mínimos fixados no artigo anterior, ser reduzido até 50 por cento ou elevado até ao dobro do que, normalmente, corresponda ao processo, acto ou incidente, podendo ainda o juiz, a requerimento do autor, isentá-lo do imposto de justiça sempre que tenha obtido vencimento, pelo menos, em metade do pedido.
+Art. 26.º Atendendo ao grau de capacidade económica do responsável pelas custas, ao seu comportamento no processo, à especial complexidade deste e à proporção entre o valor do pedido e o da procedência, pode o imposto de justiça, ressalvados os mínimos fixados no artigo anterior, ser reduzido até 50 por cento ou elevado até ao dobro do que, normalmente, corresponda ao processo, acto ou incidente, podendo ainda o juiz, a requerimento do autor, isentá-lo do imposto de justiça sempre que tenha obtido vencimento, pelo menos, em metade do pedido.
 
-###### Art. 27.º - 1. As custas, nas acções declarativas ou executivas, nos processos especiais e nos incidentes, não podem exceder 75 por cento do respectivo valor. Sempre que excedam tal limite, far-se-á rateio nos termos gerais.
+Art. 27.º - 1. As custas, nas acções declarativas ou executivas, nos processos especiais e nos incidentes, não podem exceder 75 por cento do respectivo valor. Sempre que excedam tal limite, far-se-á rateio nos termos gerais.
 
 2. O disposto no número anterior não tem aplicação às execuções de valor não superior a 3000$00.
 
 #### SECÇÃO III — No tribunal de recurso
 
-###### Art. 28.º Nos processos de revisão e confirmação de sentenças de tribunais estrangeiros e nas acções directamente intentadas perante a secção do contencioso do trabalho e previdência social do Supremo Tribunal Administrativo, o imposto de justiça é igual ao fixado no artigo 6.º
+Art. 28.º Nos processos de revisão e confirmação de sentenças de tribunais estrangeiros e nas acções directamente intentadas perante a secção do contencioso do trabalho e previdência social do Supremo Tribunal Administrativo, o imposto de justiça é igual ao fixado no artigo 6.º
 
 #### SECÇÃO IV — Do destino do imposto de justiça
 
-###### Art. 29.º O imposto de justiça, que é sempre arredondado por excesso, para escudos, constitui, nos tribunais do trabalho, integralmente, receita do Estado ou das juntas gerais, conforme o tribunal tenha a sua sede no continente ou nas ilhas adjacentes, sem prejuízo do que nos artigos subsequentes se dispõe.
+Art. 29.º O imposto de justiça, que é sempre arredondado por excesso, para escudos, constitui, nos tribunais do trabalho, integralmente, receita do Estado ou das juntas gerais, conforme o tribunal tenha a sua sede no continente ou nas ilhas adjacentes, sem prejuízo do que nos artigos subsequentes se dispõe.
 
-###### Art. 30.º O imposto de justiça a que se refere a parte II do n.º 1 do artigo 22.º e os encargos devidos no tribunal deprecado que ao mesmo acrescem são remetidos àquele tribunal, a fim de, ali, lhes ser dado destino de harmonia com a respectiva legislação.
+Art. 30.º O imposto de justiça a que se refere a parte II do n.º 1 do artigo 22.º e os encargos devidos no tribunal deprecado que ao mesmo acrescem são remetidos àquele tribunal, a fim de, ali, lhes ser dado destino de harmonia com a respectiva legislação.
 
-###### Art. 31.º O imposto de justiça, nos tribunais arbitrais do trabalho, salvo o que no artigo 8.º se dispõe, é dividido pela forma seguinte:
+Art. 31.º O imposto de justiça, nos tribunais arbitrais do trabalho, salvo o que no artigo 8.º se dispõe, é dividido pela forma seguinte:
 
 a) Se o processo for preparado pelo juiz do tribunal do trabalho:
 
@@ -424,23 +517,23 @@ Para cada um dos outros árbitros, 20 partes.
 
 ### CAPÍTULO IV — Do imposto do selo
 
-###### Art. 32.º Salvo o que nos artigos seguintes se prescreve, o regime do imposto do selo a que estão sujeitos os processos nos tribunais do trabalho é o estabelecido no Código das Custas Judiciais.
+Art. 32.º Salvo o que nos artigos seguintes se prescreve, o regime do imposto do selo a que estão sujeitos os processos nos tribunais do trabalho é o estabelecido no Código das Custas Judiciais.
 
-###### Art. 33.º O montante do imposto do selo acompanha, em cada processo, acto ou incidente, a redução ou o aumento do respectivo imposto de justiça e está sujeito aos limites mínimos deste.
+Art. 33.º O montante do imposto do selo acompanha, em cada processo, acto ou incidente, a redução ou o aumento do respectivo imposto de justiça e está sujeito aos limites mínimos deste.
 
-###### Art. 34.º - 1. São isentos do imposto do selo os processos de acidente de trabalho e de doença profissional na fase conciliatória, os incidentes de remição obrigatória de pensões e as acções declarativas de processo comum de valor não superior a 5000$00.
+Art. 34.º - 1. São isentos do imposto do selo os processos de acidente de trabalho e de doença profissional na fase conciliatória, os incidentes de remição obrigatória de pensões e as acções declarativas de processo comum de valor não superior a 5000$00.
 
 2. Nas acções declarativas de processo comum, com forma sumaríssima, de valor superior a 5000$00, remetidas aos tribunais do trabalho nos termos do artigo 85.º do respectivo código de processo, o imposto do selo abrange todo o processado e é devido na proporção do vencimento.
 
-###### Art. 35.º A proporcionalidade prevista na última parte do n.º 2 do artigo anterior aplica-se em todos os casos em que uma das partes não isenta de imposto do selo litigue com outra que isenta esteja.
+Art. 35.º A proporcionalidade prevista na última parte do n.º 2 do artigo anterior aplica-se em todos os casos em que uma das partes não isenta de imposto do selo litigue com outra que isenta esteja.
 
-###### Art. 36.º As certidões dos autos de conciliação mencionadas no artigo 21.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, as certidões de decisões em que sejam impostas multas nos termos do artigo 17.º do mesmo diploma, as certidões a que aludem as alíneas d) e e) do artigo 86.º do Código de Processo do Trabalho, e bem assim os requerimentos iniciais das acções executivas fundadas nos referidos títulos, podem ser escritas em papel comum, devendo, porém, o respectivo imposto do selo ser liquidado e pago a final no processo.
+Art. 36.º As certidões dos autos de conciliação mencionadas no artigo 21.º do [Decreto-Lei n.º 43179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43179-1960-514838), de 23 de Setembro de 1960, as certidões de decisões em que sejam impostas multas nos termos do artigo 17.º do mesmo diploma, as certidões a que aludem as alíneas d) e e) do artigo 86.º do Código de Processo do Trabalho, e bem assim os requerimentos iniciais das acções executivas fundadas nos referidos títulos, podem ser escritas em papel comum, devendo, porém, o respectivo imposto do selo ser liquidado e pago a final no processo.
 
 ### CAPÍTULO V — Dos encargos
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 37.º Os encargos compreendidos nas custas são:
+Art. 37.º Os encargos compreendidos nas custas são:
 
 a) Por cada vinte folhas, ou fracção, de papel comum incorporado, a quantia de 15$00.
 
@@ -466,49 +559,49 @@ l) O custo do verbete estatístico;
 
 m) A percentagem para o Fundo de Garantia de Despesas de Emergência.
 
-###### Art. 38.º Os encargos, salvo excepções neste diploma previstas, constituem sempre um acréscimo ao imposto de justiça e seguem idêntico regime quanto à responsabilidade pelo seu pagamento.
+Art. 38.º Os encargos, salvo excepções neste diploma previstas, constituem sempre um acréscimo ao imposto de justiça e seguem idêntico regime quanto à responsabilidade pelo seu pagamento.
 
-###### Art. 39.º Os encargos respeitantes a correio e telégrafo, verbete estatístico e papel revertem a favor do Estado ou, nas ilhas adjacentes, da respectiva junta geral.
+Art. 39.º Os encargos respeitantes a correio e telégrafo, verbete estatístico e papel revertem a favor do Estado ou, nas ilhas adjacentes, da respectiva junta geral.
 
-###### Art. 40.º O papel despendido nas cartas precatórias cumpridas pelos tribunais comuns é liquidado a favor do tribunal deprecado de harmonia com a alínea b) do artigo 65.º do Código das Custas Judiciais, salvo tratando-se de cartas precatórias para simples citação, notificação ou qualquer outro acto avulso, em que não haverá lugar à contagem do papel.
+Art. 40.º O papel despendido nas cartas precatórias cumpridas pelos tribunais comuns é liquidado a favor do tribunal deprecado de harmonia com a alínea b) do artigo 65.º do Código das Custas Judiciais, salvo tratando-se de cartas precatórias para simples citação, notificação ou qualquer outro acto avulso, em que não haverá lugar à contagem do papel.
 
-###### Art. 41.º O custo dos anúncios que hajam de ser pagos pelo Estado ou junta geral não pode exceder o que, de harmonia com o artigo 66.º do Código das Custas Judiciais, estiver estabelecido para os tribunais comuns.
+Art. 41.º O custo dos anúncios que hajam de ser pagos pelo Estado ou junta geral não pode exceder o que, de harmonia com o artigo 66.º do Código das Custas Judiciais, estiver estabelecido para os tribunais comuns.
 
 Se a empresa proprietária do jornal recusar a publicação pelo preço indicado, apenas se afixarão editais.
 
-###### Art. 42.º - 1. As custas de parte compreendem tudo o que esta despendeu com o processo ou porção do processo a que se refere a condenação e de que tenha direito a ser indemnizada.
+Art. 42.º - 1. As custas de parte compreendem tudo o que esta despendeu com o processo ou porção do processo a que se refere a condenação e de que tenha direito a ser indemnizada.
 
 2. São, para todos os efeitos, equiparadas às custas de parte as remunerações, indemnizações, percentagens, contribuições, quotizações e quaisquer outras verbas que, por força da lei, devam ser incluídas na conta, quando devidas por quem não esteja isento de custas, e, bem assim, a indemnização a que se refere o artigo 60.º deste diploma.
 
-###### Art. 43.º A percentagem para o Fundo de Garantia de Despesas de Emergência é de 1,5 por cento, incidindo sobre o total liquidado em cada conta ou liquidação, e tem arredondamento para escudos.
+Art. 43.º A percentagem para o Fundo de Garantia de Despesas de Emergência é de 1,5 por cento, incidindo sobre o total liquidado em cada conta ou liquidação, e tem arredondamento para escudos.
 
-###### Art. 44.º Com ressalva das excepções neste diploma previstas, os encargos que, segundo o Código das Custas Judiciais, constituem despesa do Cofre Geral dos Tribunais, serão suportados pelo Estado ou pela respectiva junta geral, se o tribunal tiver sede nas ilhas adjacentes, que da respectiva importância será reembolsado.
+Art. 44.º Com ressalva das excepções neste diploma previstas, os encargos que, segundo o Código das Custas Judiciais, constituem despesa do Cofre Geral dos Tribunais, serão suportados pelo Estado ou pela respectiva junta geral, se o tribunal tiver sede nas ilhas adjacentes, que da respectiva importância será reembolsado.
 
 #### SECÇÃO II — Da remuneração das pessoas que intervêm acidentalmente nos processos
 
-###### Art. 45.º Nos processos emergentes de acidentes de trabalho ou de doenças profissionais não é aplicável, quanto a exames médicos, o disposto no artigo 69.º do Código das Custas Judiciais, observando-se o preceituado nos artigos seguintes.
+Art. 45.º Nos processos emergentes de acidentes de trabalho ou de doenças profissionais não é aplicável, quanto a exames médicos, o disposto no artigo 69.º do Código das Custas Judiciais, observando-se o preceituado nos artigos seguintes.
 
-###### Art. 46.º O perito do tribunal, o médico especializado que o substituir e os peritos nomeados pelo Ministério Público, pelo juiz e pelo sinistrado ou doente para intervir nos segundos exames, têm cada um, como remuneração, a quantia de 40$00 por cada exame em que intervenham.
+Art. 46.º O perito do tribunal, o médico especializado que o substituir e os peritos nomeados pelo Ministério Público, pelo juiz e pelo sinistrado ou doente para intervir nos segundos exames, têm cada um, como remuneração, a quantia de 40$00 por cada exame em que intervenham.
 
-###### Art. 47.º Independentemente do disposto no artigo anterior, o tribunal pode arbitrar ao perito especializado uma remuneração complementar até 400$00.
+Art. 47.º Independentemente do disposto no artigo anterior, o tribunal pode arbitrar ao perito especializado uma remuneração complementar até 400$00.
 
-###### Art. 48.º O perito do tribunal ou o médico especializado têm direito à remuneração de 100$00 a 400$00, fixada pelo tribunal, por cada parecer que, a requisição deste, elaborem sobre matéria da sua competência.
+Art. 48.º O perito do tribunal ou o médico especializado têm direito à remuneração de 100$00 a 400$00, fixada pelo tribunal, por cada parecer que, a requisição deste, elaborem sobre matéria da sua competência.
 
-###### Art. 49.º O disposto nos artigos 46.º, 47.º e 48.º é aplicável aos exames requisitados aos Serviços Médico-Sociais ou a quaisquer estabelecimentos ou serviços, a favor dos quais, salvo o disposto no artigo 53.º, se contarão os respectivos emolumentos.
+Art. 49.º O disposto nos artigos 46.º, 47.º e 48.º é aplicável aos exames requisitados aos Serviços Médico-Sociais ou a quaisquer estabelecimentos ou serviços, a favor dos quais, salvo o disposto no artigo 53.º, se contarão os respectivos emolumentos.
 
-###### Art. 50.º - 1. As importâncias referidas nos artigos 46.º a 49.º entram em regra de custas, são devidas mesmo que não haja lugar a imposto de justiça e são pagas pela entidade responsável pelas consequências do acidente de trabalho ou da doença profissional.
+Art. 50.º - 1. As importâncias referidas nos artigos 46.º a 49.º entram em regra de custas, são devidas mesmo que não haja lugar a imposto de justiça e são pagas pela entidade responsável pelas consequências do acidente de trabalho ou da doença profissional.
 
 2. Não se consideram exames, para efeito de remuneração, aqueles em que se não observe o disposto no artigo 104.º do Código de Processo do Trabalho.
 
-###### Art. 51.º Nas autópsias, cada perito haverá importância igual à fixada para os mesmos serviços nos tribunais comuns.
+Art. 51.º Nas autópsias, cada perito haverá importância igual à fixada para os mesmos serviços nos tribunais comuns.
 
-###### Art. 52.º - 1. Nos processos emergentes de acidentes de trabalho ou de doenças profissionais são da conta da entidade patronal ou seguradora, a quem será exigido o correspondente preparo, todas as despesas efectuadas em consequência de autópsias ou outras diligências necessárias para o diagnóstico clínico do sinistrado ou doente.
+Art. 52.º - 1. Nos processos emergentes de acidentes de trabalho ou de doenças profissionais são da conta da entidade patronal ou seguradora, a quem será exigido o correspondente preparo, todas as despesas efectuadas em consequência de autópsias ou outras diligências necessárias para o diagnóstico clínico do sinistrado ou doente.
 
 2. No caso de recusa das entidades referidas no número anterior, as aludidas despesas serão suportadas pelo Fundo de Garantia de Despesas de Emergência e entram em regra de custas, pelo dobro, a favor do mesmo Fundo.
 
-###### Art. 53.º Nos tribunais do trabalho não tem aplicação o artigo 73.º do Código das Custas Judiciais, salvo tratando-se de exames ou outros serviços requisitados a estabelecimentos dependentes do Ministério da Justiça. Os emolumentos relativos a exames realizados em outros estabelecimentos oficiais do Estado serão contados a favor deste, a menos que a respectiva importância tenha sido abonada pelo Fundo de Garantia, nos termos do artigo 52.º, caso em que é de observar o seu n.º 2.
+Art. 53.º Nos tribunais do trabalho não tem aplicação o artigo 73.º do Código das Custas Judiciais, salvo tratando-se de exames ou outros serviços requisitados a estabelecimentos dependentes do Ministério da Justiça. Os emolumentos relativos a exames realizados em outros estabelecimentos oficiais do Estado serão contados a favor deste, a menos que a respectiva importância tenha sido abonada pelo Fundo de Garantia, nos termos do artigo 52.º, caso em que é de observar o seu n.º 2.
 
-###### Art. 54.º - 1. Por cada citação, notificação ou afixação de editais efectuada por funcionários estranhos aos quadros dos tribunais do trabalho é devida a quantia de 15$00, além das despesas de transporte ou importância de caminhos a que haja lugar.
+Art. 54.º - 1. Por cada citação, notificação ou afixação de editais efectuada por funcionários estranhos aos quadros dos tribunais do trabalho é devida a quantia de 15$00, além das despesas de transporte ou importância de caminhos a que haja lugar.
 
 2. Quando as diligências sejam requisitadas às autoridades administrativas ou policiais, o emolumento mencionado no número anterior será contado sempre a favor da pessoa que tenha realizado a diligência.
 
@@ -516,13 +609,13 @@ Se a empresa proprietária do jornal recusar a publicação pelo preço indicado
 
 4. Não podem contar-se mais de cinco diligências efectuadas na mesma localidade em cumprimento do mesmo despacho.
 
-###### Art. 55.º A indemnização a que se refere o artigo 72.º do Código das Custas Judiciais será paga a final pelo vencido não isento de custas, a menos que à parte que requereu a notificação da testemunha tenha sido exigido o preparo. Neste caso, o pagamento far-se-á no final da diligência e entrará em regra de custas.
+Art. 55.º A indemnização a que se refere o artigo 72.º do Código das Custas Judiciais será paga a final pelo vencido não isento de custas, a menos que à parte que requereu a notificação da testemunha tenha sido exigido o preparo. Neste caso, o pagamento far-se-á no final da diligência e entrará em regra de custas.
 
 #### SECÇÃO III — Dos caminhos e despesas de deslocação
 
-###### Art. 56.º Os peritos, louvados e técnicos que não sejam de fora da comarca sede do tribunal ou vara, os juízes de paz e respectivos funcionários, os agentes administrativos ou policiais, terão direito a receber, além da respectiva remuneração, a importância de 1$20 por cada quilómetro percorrido desde o local da sua residência até àquele em que se realize a diligência, e vice-versa.
+Art. 56.º Os peritos, louvados e técnicos que não sejam de fora da comarca sede do tribunal ou vara, os juízes de paz e respectivos funcionários, os agentes administrativos ou policiais, terão direito a receber, além da respectiva remuneração, a importância de 1$20 por cada quilómetro percorrido desde o local da sua residência até àquele em que se realize a diligência, e vice-versa.
 
-###### Art. 57.º - 1. Em quaisquer diligências realizadas fora do tribunal, são pagas as despesas de transporte aos magistrados e funcionários que nelas intervenham.
+Art. 57.º - 1. Em quaisquer diligências realizadas fora do tribunal, são pagas as despesas de transporte aos magistrados e funcionários que nelas intervenham.
 
 2. Nos actos não presididos pelo juiz ou pelo Ministério Público, só são pagas aos funcionários as despesas correspondentes ao meio de transporte que o chefe de secretaria haja determinado, tendo em atenção as necessidades do serviço, a comodidade dos funcionários e a maior economia. Em caso algum as respectivas despesas podem ser superiores a 1$20 por quilómetro percorrido.
 
@@ -536,25 +629,25 @@ Quando, por qualquer motivo, a diligência se não realize à primeira tentativa
 
 6. Nenhum abono para deslocações a realizar dentro da área coberta por transportes colectivos pode ser concedido aos funcionários a que tenha sido fornecido, para os mesmos, bilhete de assinatura.
 
-###### Art. 58.º - 1. Nas diligências deprecadas aos tribunais de comarca observar-se-á, quanto a despesas de transporte, o determinado no Código das Custas Judiciais, mas a respectiva importância só pode ser incluída na conta se da deprecada constar a declaração do respectivo chefe de secretaria acerca da sua exactidão.
+Art. 58.º - 1. Nas diligências deprecadas aos tribunais de comarca observar-se-á, quanto a despesas de transporte, o determinado no Código das Custas Judiciais, mas a respectiva importância só pode ser incluída na conta se da deprecada constar a declaração do respectivo chefe de secretaria acerca da sua exactidão.
 
 2. Nas diligências requisitadas às autoridades administrativas ou policiais observar-se-á, na parte aplicável, o disposto no número anterior, devendo a declaração acerca da exactidão da despesa ser feita pelo superior hierárquico do funcionário ou agente que tenha intervindo na diligência.
 
-###### Art. 59.º O disposto no artigo 77.º do Código das Custas Judiciais só terá aplicação desde que para a diligência tenha sido efectuado preparo.
+Art. 59.º O disposto no artigo 77.º do Código das Custas Judiciais só terá aplicação desde que para a diligência tenha sido efectuado preparo.
 
 Quando a comparência tiver sido oficiosamente determinada, as despesas de deslocação são pagas a final.
 
-###### Art. 60.º - 1. O tribunal pode arbitrar, a favor dos autores que obtenham a procedência de, pelo menos, metade do pedido, indemnização suficiente para pagamento das despesas de transporte com a sua deslocação a diligências a que, necessàriamente, devam assistir, ou de testemunhas que tenham de apresentar, e das remunerações por uns e outras perdidas por motivo da deslocação.
+Art. 60.º - 1. O tribunal pode arbitrar, a favor dos autores que obtenham a procedência de, pelo menos, metade do pedido, indemnização suficiente para pagamento das despesas de transporte com a sua deslocação a diligências a que, necessàriamente, devam assistir, ou de testemunhas que tenham de apresentar, e das remunerações por uns e outras perdidas por motivo da deslocação.
 
 2. Quando as diligências tenham sido adiadas por motivo imputável aos réus, a indemnização prevista no número anterior será sempre arbitrada pelo tribunal e incluída na conta do incidente.
 
-###### Art. 61.º Sempre que qualquer pessoa utilize meio de deslocação fornecido pelo tribunal ou pelas partes, perde o direito a despesas de transporte.
+Art. 61.º Sempre que qualquer pessoa utilize meio de deslocação fornecido pelo tribunal ou pelas partes, perde o direito a despesas de transporte.
 
 #### SECÇÃO IV — Da procuradoria
 
-###### Art. 62.º A procuradoria é calculada nos termos do artigo 85.º do Código das Custas Judiciais e não pode exceder 10 por cento do valor da acção ou da execução.
+Art. 62.º A procuradoria é calculada nos termos do artigo 85.º do Código das Custas Judiciais e não pode exceder 10 por cento do valor da acção ou da execução.
 
-###### Art. 63.º A procuradoria é contada a título de imposto de justiça:
+Art. 63.º A procuradoria é contada a título de imposto de justiça:
 
 a) Quando a parte vencedora for representada ou patrocinada pelo Ministério Público;
 
@@ -566,25 +659,25 @@ d) Em quaisquer acções ou processos em que a parte vencedora não esteja repre
 
 #### SECÇÃO V — Dos actos avulsos
 
-###### Art. 64.º Nos casos previstos no artigo 88.º do Código das Custas Judiciais, a quantia correspondente a cada diligência é de 15$00, devendo ter-se em conta o preceituado nos n.os 2 a 6 do artigo 57.º e no artigo 65.º
+Art. 64.º Nos casos previstos no artigo 88.º do Código das Custas Judiciais, a quantia correspondente a cada diligência é de 15$00, devendo ter-se em conta o preceituado nos n.os 2 a 6 do artigo 57.º e no artigo 65.º
 
-###### Art. 65.º O emolumento previsto no artigo anterior, relativo às diligências realizadas por funcionários dos tribunais do trabalho, e os referentes à confiança de processos, a certidões, translados, cartas de sentença ou de arrematação e a buscas, constituem integralmente receita do Estado ou das juntas gerais e serão pagos por meio de guia e registados no livro a que se refere a alínea j) do artigo 144.º
+Art. 65.º O emolumento previsto no artigo anterior, relativo às diligências realizadas por funcionários dos tribunais do trabalho, e os referentes à confiança de processos, a certidões, translados, cartas de sentença ou de arrematação e a buscas, constituem integralmente receita do Estado ou das juntas gerais e serão pagos por meio de guia e registados no livro a que se refere a alínea j) do artigo 144.º
 
 ### CAPÍTULO VI — Da garantia das custas
 
 #### SECÇÃO I — Dos preparos
 
-###### Art. 66.º Nos tribunais do trabalho observar-se-á, quanto a preparos, o que nos artigos seguintes se dispõe.
+Art. 66.º Nos tribunais do trabalho observar-se-á, quanto a preparos, o que nos artigos seguintes se dispõe.
 
-###### Art. 67.º Na fase declarativa de todos os processos cíveis, exceptuados os sumaríssimos, os de previdência social e de acidente de trabalho ou doença profissional, as partes pagam, a título de preparo inicial, 10 por cento do imposto que, a final, seja devido no processo.
+Art. 67.º Na fase declarativa de todos os processos cíveis, exceptuados os sumaríssimos, os de previdência social e de acidente de trabalho ou doença profissional, as partes pagam, a título de preparo inicial, 10 por cento do imposto que, a final, seja devido no processo.
 
-###### Art. 68.º Em todos os processos cíveis, salvo os de previdência social, de acidente de trabalho ou doença profissional, cada uma das partes fará preparo para julgamento no montante de 15 por cento do imposto de justiça devido, a final, no processo.
+Art. 68.º Em todos os processos cíveis, salvo os de previdência social, de acidente de trabalho ou doença profissional, cada uma das partes fará preparo para julgamento no montante de 15 por cento do imposto de justiça devido, a final, no processo.
 
 Se o imposto for variável, o preparo é calculado pela sua taxa mínima.
 
-###### Art. 69.º Às partes não isentas de custas pode ser exigido preparo para diligências por elas requeridas ou em que tenham interesse, o qual é fixado pelo tribunal em quantitativo equivalente ao custo provável da diligência, de harmonia com o cálculo feito no respectivo processo. Verificando-se que no cálculo do custo da diligência houve erro por deficiência, pode o juiz determinar que o preparo seja reforçado.
+Art. 69.º Às partes não isentas de custas pode ser exigido preparo para diligências por elas requeridas ou em que tenham interesse, o qual é fixado pelo tribunal em quantitativo equivalente ao custo provável da diligência, de harmonia com o cálculo feito no respectivo processo. Verificando-se que no cálculo do custo da diligência houve erro por deficiência, pode o juiz determinar que o preparo seja reforçado.
 
-###### Art. 70.º - 1. Os preparos a que se referem os artigos 67.º e 68.º são pagos por estampilhas fiscais, inutilizadas, nos casos do artigo 67.º, nos respectivos articulados, e, no do artigo 68.º, junto da cota, para esse efeito, lançada no processo.
+Art. 70.º - 1. Os preparos a que se referem os artigos 67.º e 68.º são pagos por estampilhas fiscais, inutilizadas, nos casos do artigo 67.º, nos respectivos articulados, e, no do artigo 68.º, junto da cota, para esse efeito, lançada no processo.
 
 2. Os preparos a que se refere o artigo 68.º, salvo no caso regulado no número seguinte, efectuam-se no prazo de cinco dias, a contar da notificação do designado para a audiência de discussão e julgamento.
 
@@ -592,57 +685,57 @@ Se o imposto for variável, o preparo é calculado pela sua taxa mínima.
 
 4. Os preparos para diligências são feitos em prazo fixado pelo tribunal, devendo a sua importância ser depositada, nos tribunais de Lisboa e Porto, na respectiva tesouraria e, nos restantes, em mão do escrivão ou chefe de secretaria do respectivo processo.
 
-###### Art. 71.º - 1. Sempre que haja aditamentos ao pedido inicialmente formulado, os preparos são reforçados no montante equivalente.
+Art. 71.º - 1. Sempre que haja aditamentos ao pedido inicialmente formulado, os preparos são reforçados no montante equivalente.
 
 2. Deduzida a reconvenção, o novo valor do processo que dela resulta deve ser considerado para o efeito de preparos, salvo quanto ao preparo inicialmente feito pelo autor.
 
-###### Art. 72.º - 1. Os preparos são arredondados, por excesso, para escudos e entram em regra de custas, devendo os iniciais e para julgamento ser abatidos ao imposto de justiça.
+Art. 72.º - 1. Os preparos são arredondados, por excesso, para escudos e entram em regra de custas, devendo os iniciais e para julgamento ser abatidos ao imposto de justiça.
 
 2. Se o vencido for isento de custas, a restituição dos preparos ao vencedor abrange apenas as importâncias que se encontrem depositadas.
 
-###### Art. 73.º A falta de preparo inicial importará para o autor o não prosseguimento da acção e a extinção da instância ao fim de 30 dias, após o recebimento da petição ou requerimento de aditamento, se entretanto o preparo não for efectuado ou reforçado, e para o réu a ineficácia da oposição oferecida, que será desentranhada do processo.
+Art. 73.º A falta de preparo inicial importará para o autor o não prosseguimento da acção e a extinção da instância ao fim de 30 dias, após o recebimento da petição ou requerimento de aditamento, se entretanto o preparo não for efectuado ou reforçado, e para o réu a ineficácia da oposição oferecida, que será desentranhada do processo.
 
-###### Art. 74.º - 1. O não pagamento de preparo para diligências ou do seu reforço tem como consequência a não realização destas, a menos que a parte contrária, para tal convidada, o efectue no prazo que lhe for designado.
+Art. 74.º - 1. O não pagamento de preparo para diligências ou do seu reforço tem como consequência a não realização destas, a menos que a parte contrária, para tal convidada, o efectue no prazo que lhe for designado.
 
 2. Se a diligência tiver sido oficiosamente determinada, a importância a despender poderá ser adiantada pelo Fundo de Garantia de Despesas de Emergência.
 
 3. Quando se verifiquem as hipóteses previstas no n.º 2 e na parte final do n.º 1, a quantia despendida será levada em regra de custas a favor de quem a suportou, salvo se no primeiro caso a parte que fez o preparo vier a ser o responsável pela totalidade das custas.
 
-###### Art. 75.º A falta de preparo para julgamento inibe a parte de produzir qualquer espécie de prova, não sendo atendida a que anteriormente à audiência de julgamento possa ter produzido, a menos que até ao início desta audiência, que por essa razão não pode ser adiada, efectue o preparo, acrescido da respectiva importância em dobro. O acrescido reverte integralmente para o Estado, e não é abatido ao imposto de justiça.
+Art. 75.º A falta de preparo para julgamento inibe a parte de produzir qualquer espécie de prova, não sendo atendida a que anteriormente à audiência de julgamento possa ter produzido, a menos que até ao início desta audiência, que por essa razão não pode ser adiada, efectue o preparo, acrescido da respectiva importância em dobro. O acrescido reverte integralmente para o Estado, e não é abatido ao imposto de justiça.
 
-###### Art. 76.º Não estão sujeitos a preparo, além das pessoas isentas de custas, os funcionários nos recursos de decisões que lhes imponham qualquer penalidade e nas reclamações da conta.
+Art. 76.º Não estão sujeitos a preparo, além das pessoas isentas de custas, os funcionários nos recursos de decisões que lhes imponham qualquer penalidade e nas reclamações da conta.
 
-###### Art. 77.º Quando haja vários autores ou vários réus e forem distintas as petições ou oposições formuladas, cada um deles efectuará por inteiro os preparos fixados neste diploma; mas os preparos para julgamento limitar-se-ão ao que se reputar necessário para, adicionado aos preparos iniciais, garantir a totalidade das custas.
+Art. 77.º Quando haja vários autores ou vários réus e forem distintas as petições ou oposições formuladas, cada um deles efectuará por inteiro os preparos fixados neste diploma; mas os preparos para julgamento limitar-se-ão ao que se reputar necessário para, adicionado aos preparos iniciais, garantir a totalidade das custas.
 
-###### Art. 78.º - 1. Qualquer pessoa pode efectuar o pagamento de preparos que a outrem incumba, nas condições e prazos que ao responsável seria lícito fazê-lo, ficando com o direito de regresso contra o devedor, salvo demonstrando-se que o pagamento foi feito de má fé.
+Art. 78.º - 1. Qualquer pessoa pode efectuar o pagamento de preparos que a outrem incumba, nas condições e prazos que ao responsável seria lícito fazê-lo, ficando com o direito de regresso contra o devedor, salvo demonstrando-se que o pagamento foi feito de má fé.
 
 2. Se o preparo for efectuado pela parte contrária, será o facto considerado no processo, a fim de a respectiva quantia lhe poder ser levada a custas de parte.
 
 Se vier a provar-se que esse pagamento foi feito de má fé, o montante do preparo será perdido a favor do Estado e não será tomado em consideração na conta.
 
-###### Art. 79.º - 1. Os preparos são feitos no tribunal onde corre o processo a que respeitam.
+Art. 79.º - 1. Os preparos são feitos no tribunal onde corre o processo a que respeitam.
 
 2. Os preparos para diligências, a realizar por carta precatória, efectuam-se sempre no tribunal deprecado, para o que se fará constar daquela o nome e residência das partes a fim de poder ser observado o disposto na segunda parte do n.º 1 do artigo 74.º
 
 #### SECÇÃO II — Disposições gerais
 
-###### Art. 80.º Os empregados e assalariados que tenham a qualidade de autores podem obter certidões e outros documentos extraídos dos processos e executar decisões independentemente do prévio pagamento de custas.
+Art. 80.º Os empregados e assalariados que tenham a qualidade de autores podem obter certidões e outros documentos extraídos dos processos e executar decisões independentemente do prévio pagamento de custas.
 
 Quando estas sejam da responsabilidade de empregados e assalariados a quem seja reconhecido crédito sobre o réu capaz de garanti-las, observar-se-á o disposto no artigo 96.º
 
-###### Art. 81.º - 1. Os recursos interpostos por empregados e assalariados com a qualidade de autores podem subir ao tribunal superior, desde que se mostrem pagas as custas da sua responsabilidade, ou quando o seu crédito sobre o réu, reconhecido por sentença, embora sem trânsito em julgado, seja de montante superior àquelas.
+Art. 81.º - 1. Os recursos interpostos por empregados e assalariados com a qualidade de autores podem subir ao tribunal superior, desde que se mostrem pagas as custas da sua responsabilidade, ou quando o seu crédito sobre o réu, reconhecido por sentença, embora sem trânsito em julgado, seja de montante superior àquelas.
 
 2. Se o pagamento prévio das custas for dispensado com fundamento na existência de crédito do autor sobre o réu, observar-se-á, no que respeita ao pagamento daquele, o disposto no artigo 96.º, devendo a advertência ali prevista ser feita no acto da notificação do despacho que julgue interposto o recurso.
 
-###### Art. 82.º Quando qualquer processo haja de ser remetido para tribunal diferente daquele a que esteja afecto, por virtude da procedência da excepção de incompetência, não há lugar ao prévio pagamento das custas.
+Art. 82.º Quando qualquer processo haja de ser remetido para tribunal diferente daquele a que esteja afecto, por virtude da procedência da excepção de incompetência, não há lugar ao prévio pagamento das custas.
 
 ### CAPÍTULO VII — Da conta das custas
 
-###### Art. 83.º - 1. As contas são feitas pelos funcionários a quem o Estatuto dos Tribunais do Trabalho para isso atribua competência; porém, as das certidões ou documentos passados pelos secretários-gerais sê-lo-ão pelo chefe da secretaria da 1.ª vara.
+Art. 83.º - 1. As contas são feitas pelos funcionários a quem o Estatuto dos Tribunais do Trabalho para isso atribua competência; porém, as das certidões ou documentos passados pelos secretários-gerais sê-lo-ão pelo chefe da secretaria da 1.ª vara.
 
 2. Na elaboração da conta, além das pertinentes normas do Código das Custas Judiciais, observar-se-á o preceituado nos artigos seguintes.
 
-###### Art. 84.º - 1. Além da procuradoria e das custas de parte, são sempre incluídas na conta, nos termos do artigo 129.º do Código das Custas Judiciais:
+Art. 84.º - 1. Além da procuradoria e das custas de parte, são sempre incluídas na conta, nos termos do artigo 129.º do Código das Custas Judiciais:
 
 a) A indemnização a que se refere o artigo 60.º;
 
@@ -658,13 +751,13 @@ e) As contribuições devidas a instituições de previdência, por diferenças 
 
 3. A percentagem para o Fundo de Desemprego e para as instituições de previdência da responsabilidade dos empregados ou assalariados ser-lhes-á descontada na quantia que lhes for devida.
 
-###### Art. 85.º A parte a que, nas custas e multas judiciais, tenham direito o Conselho Geral da Ordem dos Advogados e as Caixas de Previdência da Ordem dos Advogados ou da Câmara dos Solicitadores deve ser devidamente discriminada na conta e escriturada no livro de pagamentos.
+Art. 85.º A parte a que, nas custas e multas judiciais, tenham direito o Conselho Geral da Ordem dos Advogados e as Caixas de Previdência da Ordem dos Advogados ou da Câmara dos Solicitadores deve ser devidamente discriminada na conta e escriturada no livro de pagamentos.
 
-###### Art. 86.º O prazo para a contagem, em caso de recurso que não seja de agravo a subir em separado, é de cinco dias após a apresentação da última alegação.
+Art. 86.º O prazo para a contagem, em caso de recurso que não seja de agravo a subir em separado, é de cinco dias após a apresentação da última alegação.
 
-###### Art. 87.º A conta dos papéis avulsos indicará claramente a respectiva taxa, o imposto do selo relativo ao papel e demais quantias que revertem para o Estado ou junta geral, além das despesas de transporte a que haja lugar, e, por extenso, o custo total.
+Art. 87.º A conta dos papéis avulsos indicará claramente a respectiva taxa, o imposto do selo relativo ao papel e demais quantias que revertem para o Estado ou junta geral, além das despesas de transporte a que haja lugar, e, por extenso, o custo total.
 
-###### Art. 88.º Se da reforma da conta resultar a necessidade de qualquer reposição por parte do Estado, das juntas gerais ou de outras entidades que já tenham recebido as custas, será a importância da reposição descontada, nos tribunais em que não há tesouraria judicial, nas quantias que noutro processo caibam à entidade devedora, registando-se o facto nos respectivos processos e livro de pagamentos.
+Art. 88.º Se da reforma da conta resultar a necessidade de qualquer reposição por parte do Estado, das juntas gerais ou de outras entidades que já tenham recebido as custas, será a importância da reposição descontada, nos tribunais em que não há tesouraria judicial, nas quantias que noutro processo caibam à entidade devedora, registando-se o facto nos respectivos processos e livro de pagamentos.
 
 Nos tribunais com tesouraria judicial observar-se-á o disposto no n.º 1 do artigo 141.º do Código das Custas Judiciais.
 
@@ -672,39 +765,39 @@ Nos tribunais com tesouraria judicial observar-se-á o disposto no n.º 1 do art
 
 #### SECÇÃO I — Do pagamento coercivo
 
-###### Art. 89.º - 1. As execuções por custas, multas, indemnizações ou por importâncias equiparadas a custas de parte seguem por apenso ao processo em que teve lugar o aviso para o seu pagamento.
+Art. 89.º - 1. As execuções por custas, multas, indemnizações ou por importâncias equiparadas a custas de parte seguem por apenso ao processo em que teve lugar o aviso para o seu pagamento.
 
 2. Tratando-se de custas em dívida no tribunal superior, a execução terá por base certidões da conta ou liquidação e a sua apensação ao respectivo processo faz-se apenas quando este baixar.
 
 3. Se as custas disserem respeito a actos ou papéis avulsos, estes, ou a certidão daqueles, devem ser entregues pela secretaria ao Ministério Público, a fim de, com base neles, promover a respectiva execução.
 
-###### Art. 90.º - 1. Decorrido o prazo de pagamento voluntário das custas, multas, indemnizações ou importâncias equiparadas a custas de parte sem que o mesmo se tenha efectuado, o Ministério Público nomeia logo bens à penhora.
+Art. 90.º - 1. Decorrido o prazo de pagamento voluntário das custas, multas, indemnizações ou importâncias equiparadas a custas de parte sem que o mesmo se tenha efectuado, o Ministério Público nomeia logo bens à penhora.
 
 2. O requerimento de nomeação dá início ao processo e deve ser instruído, nos casos dos n.os 2 e 3 do artigo anterior, com os documentos aí referidos.
 
 3. Se o Ministério Público não dispuser de elementos para indicar os bens sobre que há-de recair a penhora, pode requerer que esta incida sobre os que forem encontrados ao executado.
 
-###### Art. 91.º Os processos de execução por custas seguem os termos do processo de execução baseada em sentença de condenação em quantia certa, previsto no Código de Processo do Trabalho, com as modificações constantes dos artigos seguintes.
+Art. 91.º Os processos de execução por custas seguem os termos do processo de execução baseada em sentença de condenação em quantia certa, previsto no Código de Processo do Trabalho, com as modificações constantes dos artigos seguintes.
 
-###### Art. 92.º Efectuada a penhora, será o despacho que a ordenou notificado, oficiosamente, ao executado e ao seu cônjuge, pelo funcionário que a ela proceder, no próprio acto da sua realização, se estiverem presentes, ou nas 24 horas subsequentes, em caso contrário.
+Art. 92.º Efectuada a penhora, será o despacho que a ordenou notificado, oficiosamente, ao executado e ao seu cônjuge, pelo funcionário que a ela proceder, no próprio acto da sua realização, se estiverem presentes, ou nas 24 horas subsequentes, em caso contrário.
 
-###### Art. 93.º Recaindo a penhora em bens comuns e sendo executado apenas um dos cônjuges, não será o outro notificado, mas citado, nos prazos e condições estabelecidos no artigo anterior, com o mínimo de dilação aplicável, quando por deprecada, para os fins e efeitos do n.º 3 do artigo 825.º do Código de Processo Civil.
+Art. 93.º Recaindo a penhora em bens comuns e sendo executado apenas um dos cônjuges, não será o outro notificado, mas citado, nos prazos e condições estabelecidos no artigo anterior, com o mínimo de dilação aplicável, quando por deprecada, para os fins e efeitos do n.º 3 do artigo 825.º do Código de Processo Civil.
 
-###### Art. 94.º O executado tem o prazo de cinco dias para deduzir a oposição e nesta não só pode invocar circunstâncias destinadas a infirmar a penhora, como alegar quaisquer factos que, nos termos do artigo 813.º do Código de Processo Civil, constituam fundamento de oposição à execução baseada em sentença.
+Art. 94.º O executado tem o prazo de cinco dias para deduzir a oposição e nesta não só pode invocar circunstâncias destinadas a infirmar a penhora, como alegar quaisquer factos que, nos termos do artigo 813.º do Código de Processo Civil, constituam fundamento de oposição à execução baseada em sentença.
 
-###### Art. 95.º O duplicado da oposição do executado é entregue pela secretaria, independentemente de despacho, ao exequente, dentro de 48 horas, e a partir da entrega se inicia o prazo de cinco dias para aquele responder à respectiva matéria.
+Art. 95.º O duplicado da oposição do executado é entregue pela secretaria, independentemente de despacho, ao exequente, dentro de 48 horas, e a partir da entrega se inicia o prazo de cinco dias para aquele responder à respectiva matéria.
 
 Junta ao processo a resposta, ou expirado o prazo para a sua apresentação, é o processo concluso e o juiz decidirá, podendo, no entanto, proceder a quaisquer diligências probatórias que repute indispensáveis.
 
-###### Art. 96.º - 1. Quando as custas em dívida sejam da responsabilidade dos autores com a qualidade de empregados ou assalariados é dispensada a sua execução enquanto não findar a da sentença em que lhes tenha sido reconhecido crédito sobre o réu capaz de garanti-las.
+Art. 96.º - 1. Quando as custas em dívida sejam da responsabilidade dos autores com a qualidade de empregados ou assalariados é dispensada a sua execução enquanto não findar a da sentença em que lhes tenha sido reconhecido crédito sobre o réu capaz de garanti-las.
 
 2. No caso previsto no número anterior, sòmente o depósito da quantia exequenda no processo desobriga o executado, que desse facto deve ser advertido no momento da notificação da penhora. Ao exequente apenas será entregue o que sobejar, depois de pagas todas as quantias da sua responsabilidade nas custas da acção.
 
-###### Art. 97.º Nas execuções por custas não serão publicados anúncios.
+Art. 97.º Nas execuções por custas não serão publicados anúncios.
 
 #### SECÇÃO II — Do rateio
 
-###### Art. 98.º Quando haja de proceder-se a rateio, os pagamentos são feitos pela ordem seguinte:
+Art. 98.º Quando haja de proceder-se a rateio, os pagamentos são feitos pela ordem seguinte:
 
 a) O imposto do selo;
 
@@ -716,33 +809,33 @@ d) A procuradoria, as custas de parte e as importâncias a estas equiparadas.
 
 II
 
-# Parte penal
+## Parte penal
 
 ### CAPÍTULO I — Do imposto de justiça
 
-###### Art. 99.º - 1. O arguido em processo penal da competência dos tribunais do trabalho, pagará, em caso de condenação em 1.ª instância, imposto de justiça de 125$00 a 5000$00.
+Art. 99.º - 1. O arguido em processo penal da competência dos tribunais do trabalho, pagará, em caso de condenação em 1.ª instância, imposto de justiça de 125$00 a 5000$00.
 
 2. Se a condenação respeitar a mais de uma infracção, o imposto não pode ser inferior a 250$00.
 
 3. Na fixação do imposto deve atender-se à situação económica do infractor, ao grau da sua culpabilidade na infracção, à complexidade do processo e ao seu comportamento neste.
 
-###### Art. 100.º - 1. No caso do pagamento voluntário da multa, em juízo ou fora dele, mas havendo já processo pendente, é sempre devido o mínimo do imposto referido no n.º 1 do artigo 99.º, independentemente do número de infracções a que o pagamento respeite.
+Art. 100.º - 1. No caso do pagamento voluntário da multa, em juízo ou fora dele, mas havendo já processo pendente, é sempre devido o mínimo do imposto referido no n.º 1 do artigo 99.º, independentemente do número de infracções a que o pagamento respeite.
 
 2. Se o pagamento não abranger todas as infracções de que o arguido era acusado e este vier a ser condenado, ainda que só em relação a uma delas, o imposto devido, em tal caso, nunca poderá ser inferior ao mínimo indicado no n.º 2 do artigo 99.º
 
-###### Art. 101.º Em qualquer incidente estranho ao andamento normal do processo é devido, por quem o tenha levantado e nele venha a decair, se não for o Ministério Público, imposto de justiça a fixar entre o mínimo de 50$00 e o máximo de 500$00.
+Art. 101.º Em qualquer incidente estranho ao andamento normal do processo é devido, por quem o tenha levantado e nele venha a decair, se não for o Ministério Público, imposto de justiça a fixar entre o mínimo de 50$00 e o máximo de 500$00.
 
-###### Art. 102.º - 1. Sem prejuízo dos mínimos fixados para o imposto de justiça, este, na decisão final do processo, dos seus incidentes ou recursos, não pode exceder o máximo da multa aplicável à infracção.
+Art. 102.º - 1. Sem prejuízo dos mínimos fixados para o imposto de justiça, este, na decisão final do processo, dos seus incidentes ou recursos, não pode exceder o máximo da multa aplicável à infracção.
 
 2. Se o processo, incidente ou recurso disser respeito a mais de uma infracção, o limite referido no número anterior é determinado pela infracção a que corresponda multa mais elevada.
 
-###### Art. 103.º O imposto devido pela interposição de qualquer recurso é fixado em 200$00, e, quanto ao seu pagamento, observar-se-á, com as necessárias adaptações, o disposto nos n.os 1 e 2 do artigo 192.º do Código das Custas Judiciais.
+Art. 103.º O imposto devido pela interposição de qualquer recurso é fixado em 200$00, e, quanto ao seu pagamento, observar-se-á, com as necessárias adaptações, o disposto nos n.os 1 e 2 do artigo 192.º do Código das Custas Judiciais.
 
-###### Art. 104.º O imposto de justiça crime bem como as verbas mencionadas na alínea c) do artigo 190.º do Código das Custas Judiciais constituem integralmente receita do Estado ou das juntas gerais e são pagas por guia.
+Art. 104.º O imposto de justiça crime bem como as verbas mencionadas na alínea c) do artigo 190.º do Código das Custas Judiciais constituem integralmente receita do Estado ou das juntas gerais e são pagas por guia.
 
 ### CAPÍTULO II — Das custas
 
-###### Art. 105.º - 1. As custas em processo penal compreendem:
+Art. 105.º - 1. As custas em processo penal compreendem:
 
 a) A verba relativa ao papel comum incorporado no processo;
 
@@ -778,7 +871,7 @@ n) A percentagem para o Fundo de Garantia.
 
 ### CAPÍTULO III — Do rateio
 
-###### Art. 106.º Se for instaurada execução para cobrança de multa, imposto de justiça e custas e o produto dos bens apreendidos ao devedor for insuficiente para integral satisfação da quantia exequenda e das custas da execução, nos pagamentos observar-se-á a seguinte ordem:
+Art. 106.º Se for instaurada execução para cobrança de multa, imposto de justiça e custas e o produto dos bens apreendidos ao devedor for insuficiente para integral satisfação da quantia exequenda e das custas da execução, nos pagamentos observar-se-á a seguinte ordem:
 
 1. As multas susceptíveis de conversão em prisão;
 
@@ -796,7 +889,7 @@ n) A percentagem para o Fundo de Garantia.
 
 ### CAPÍTULO IV — Do destino do imposto de justiça e das multas
 
-###### Art. 107.º - 1. O imposto de justiça de natureza criminal bem como as multas impostas em processo penal que, por lei, não tenham destino especial, têm o destino que lhes é fixado pela legislação anteriormente em vigor.
+Art. 107.º - 1. O imposto de justiça de natureza criminal bem como as multas impostas em processo penal que, por lei, não tenham destino especial, têm o destino que lhes é fixado pela legislação anteriormente em vigor.
 
 2. Se o pagamento do imposto e multa referido no número anterior for requerido nos tribunais comuns, será a importância respectiva remetida ao tribunal do trabalho competente, a fim de, aí, lhe ser dado o destino legal.
 
@@ -804,19 +897,19 @@ III
 
 Das multas
 
-###### Art. 108.º As multas a impor nos processos cíveis e criminais da competência dos tribunais do trabalho serão fixadas entre os seguintes limites:
+Art. 108.º As multas a impor nos processos cíveis e criminais da competência dos tribunais do trabalho serão fixadas entre os seguintes limites:
 
 a) Aos litigantes de má fé, de 100$00 a 20000$00;
 
 b) Em quaisquer outros casos não especialmente regulados, de 50$00 a 1000$00.
 
-###### Art. 109.º Quando em qualquer diploma legal ou convencional se não fixe o montante de quaisquer multas por eles criadas, será o seu quantitativo determinado segundo o estabelecido na alínea b) do artigo anterior.
+Art. 109.º Quando em qualquer diploma legal ou convencional se não fixe o montante de quaisquer multas por eles criadas, será o seu quantitativo determinado segundo o estabelecido na alínea b) do artigo anterior.
 
-###### Art. 110.º As multas referidas no artigo 108.º revertem para o Estado, ou junta geral das ilhas adjacentes, e para a Caixa de Previdência da Ordem dos Advogados, na proporção de dois terços para os primeiros e de um terço para a segunda.
+Art. 110.º As multas referidas no artigo 108.º revertem para o Estado, ou junta geral das ilhas adjacentes, e para a Caixa de Previdência da Ordem dos Advogados, na proporção de dois terços para os primeiros e de um terço para a segunda.
 
-###### Art. 111.º As multas a que se refere o artigo 109.º têm o destino para elas indicado no diploma que as criou. Nada se dizendo, revertem integralmente para o Estado.
+Art. 111.º As multas a que se refere o artigo 109.º têm o destino para elas indicado no diploma que as criou. Nada se dizendo, revertem integralmente para o Estado.
 
-###### Art. 112.º - 1. As multas impostas aos litigantes de má fé em processos emergentes de acidentes de trabalho ou de doenças profissionais e as aplicadas nos termos do n.º 1 do artigo 134.º do Código de Processo do Trabalho, desde que a sua cobrança, através do processo de execução, não seja possível por não terem sido encontrados bens ao responsável, são convertidas em prisão, à razão de 20$00 por dia. O tempo de prisão, porém, não pode exceder 60 dias.
+Art. 112.º - 1. As multas impostas aos litigantes de má fé em processos emergentes de acidentes de trabalho ou de doenças profissionais e as aplicadas nos termos do n.º 1 do artigo 134.º do Código de Processo do Trabalho, desde que a sua cobrança, através do processo de execução, não seja possível por não terem sido encontrados bens ao responsável, são convertidas em prisão, à razão de 20$00 por dia. O tempo de prisão, porém, não pode exceder 60 dias.
 
 2. A imposição de multa às partes em processos emergentes de acidentes de trabalho ou doenças profissionais, nos termos do artigo 134.º do Código de Processo do Trabalho, não obsta a que, em caso de reicindência, contra elas sejam processados mandados de captura a fim de comparecerem em juízo, sempre que a comparência do faltoso seja indispensável à marcha do processo.
 
@@ -828,51 +921,51 @@ Depósitos, pagamentos e serviços de tesouraria
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 113.º Nos tribunais em que não haja tesouraria, todos os depósitos ou pagamentos de importâncias relativas a processos que constituam receita do Estado ou das juntas gerais, do Fundo Comum das Comissões Corporativas, do Fundo Nacional do Abono de Família, do Fundo Comum das Casas do Povo, do Fundo Comum das Casas dos Pescadores, das instituições de previdência e abono de família, exceptuando as da Ordem dos Advogados e da Câmara dos Solicitadores, devem ser feitos directamente pelas partes, mediante guias para tal fim passadas pela respectiva secretaria ou secção de processos, de harmonia com o disposto nos artigos seguintes.
+Art. 113.º Nos tribunais em que não haja tesouraria, todos os depósitos ou pagamentos de importâncias relativas a processos que constituam receita do Estado ou das juntas gerais, do Fundo Comum das Comissões Corporativas, do Fundo Nacional do Abono de Família, do Fundo Comum das Casas do Povo, do Fundo Comum das Casas dos Pescadores, das instituições de previdência e abono de família, exceptuando as da Ordem dos Advogados e da Câmara dos Solicitadores, devem ser feitos directamente pelas partes, mediante guias para tal fim passadas pela respectiva secretaria ou secção de processos, de harmonia com o disposto nos artigos seguintes.
 
-###### Art. 114.º O pagamento do imposto de justiça e de outras quantias devidas ao Estado e às juntas gerais é feito mediante guias, em triplicado, se houver de fazer-se nas tesourarias da Fazenda Pública ou na daqueles corpos administrativos, e em quadruplicado, se no Banco de Portugal.
+Art. 114.º O pagamento do imposto de justiça e de outras quantias devidas ao Estado e às juntas gerais é feito mediante guias, em triplicado, se houver de fazer-se nas tesourarias da Fazenda Pública ou na daqueles corpos administrativos, e em quadruplicado, se no Banco de Portugal.
 
 O triplicado ou quadruplicado da guia, conforme os casos, deve ser restituído ao tribunal, após o pagamento, a fim de ser junto ao respectivo processo.
 
-###### Art. 115.º - 1. As importâncias destinadas ao Fundo Nacional do Abono de Família e às outras entidades referidas no artigo 113.º e ali não exceptuadas são depositadas na Caixa Geral de Depósitos, Crédito e Previdência, mediante guias em quadruplicado.
+Art. 115.º - 1. As importâncias destinadas ao Fundo Nacional do Abono de Família e às outras entidades referidas no artigo 113.º e ali não exceptuadas são depositadas na Caixa Geral de Depósitos, Crédito e Previdência, mediante guias em quadruplicado.
 
 Dois exemplares das guias, após o seu pagamento, devem ser restituídos ao tribunal, a fim de um ser junto ao processo e o outro remetido ao seu destino.
 
 2. No pagamento de quantias destinadas ao Fundo de Desemprego observar-se-á o disposto no artigo 7.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, devendo um exemplar das guias ser junto ao processo.
 
-###### Art. 116.º Os exemplares das guias a restituir pelos interessados ao tribunal devem ter aposta, em caracteres bem visíveis, indicação nesse sentido e, tratando-se de receitas do Estado, em todos se mencionará a data em que passam a vencer juros de mora.
+Art. 116.º Os exemplares das guias a restituir pelos interessados ao tribunal devem ter aposta, em caracteres bem visíveis, indicação nesse sentido e, tratando-se de receitas do Estado, em todos se mencionará a data em que passam a vencer juros de mora.
 
-###### Art. 117.º No pagamento de indemnizações a empregados ou assalaria dos observar-se-á o disposto no artigo 190.º do Código de Processo do Trabalho.
+Art. 117.º No pagamento de indemnizações a empregados ou assalaria dos observar-se-á o disposto no artigo 190.º do Código de Processo do Trabalho.
 
-###### Art. 118.º Não podem ser entregues guias para os fins dos artigos 114.º e 115.º sem se mostrar efectuado o depósito, na secretaria ou secção, das restantes importâncias em dívida.
+Art. 118.º Não podem ser entregues guias para os fins dos artigos 114.º e 115.º sem se mostrar efectuado o depósito, na secretaria ou secção, das restantes importâncias em dívida.
 
-###### Art. 119.º O depósito de contribuições destinadas às instituições referidas no artigo 115.º tem de ser feito simultâneamente com o da multa respeitante à infracção, nunca podendo ser passadas guias para pagamento desta sem que, havendo contribuições em dívida, o seu pagamento ou depósito se mostre efectuado.
+Art. 119.º O depósito de contribuições destinadas às instituições referidas no artigo 115.º tem de ser feito simultâneamente com o da multa respeitante à infracção, nunca podendo ser passadas guias para pagamento desta sem que, havendo contribuições em dívida, o seu pagamento ou depósito se mostre efectuado.
 
-###### Art. 120.º O imposto de justiça respeitante a cartas precatórias cumpridas nos tribunais comuns é remetido ao tribunal deprecado de harmonia com o disposto no artigo 30.º
+Art. 120.º O imposto de justiça respeitante a cartas precatórias cumpridas nos tribunais comuns é remetido ao tribunal deprecado de harmonia com o disposto no artigo 30.º
 
-###### Art. 121.º O chefe de secretaria ou o escrivão, conforme os casos, passará sempre documento comprovativo do recebimento das importâncias que lhe devam ser entregues e que não tenham de ser pagas directamente pelas partes por meio de guia, devendo um dos talões ser arquivado e o outro junto ao processo.
+Art. 121.º O chefe de secretaria ou o escrivão, conforme os casos, passará sempre documento comprovativo do recebimento das importâncias que lhe devam ser entregues e que não tenham de ser pagas directamente pelas partes por meio de guia, devendo um dos talões ser arquivado e o outro junto ao processo.
 
-###### Art. 122.º As importâncias recebidas pela secretaria ou secção, salvo nos casos previstos nos artigos 126.º e 127.º, são entregues aos interessados, dentro de dez dias após o pagamento efectuado nos termos dos artigos 114.º e 115.º ou, se a ele não houver lugar, a partir do seu recebimento em juízo ou do rateio, conforme os casos.
+Art. 122.º As importâncias recebidas pela secretaria ou secção, salvo nos casos previstos nos artigos 126.º e 127.º, são entregues aos interessados, dentro de dez dias após o pagamento efectuado nos termos dos artigos 114.º e 115.º ou, se a ele não houver lugar, a partir do seu recebimento em juízo ou do rateio, conforme os casos.
 
-###### Art. 123.º Se não for possível efectuar a entrega prevista no artigo anterior dentro do prazo ali fixado, a secretaria, ou secção, avisará o interessado, por postal registado, para vir receber nos prazos indicados nas alíneas a), b) e c) do artigo 138.º, sob pena de a respectiva importância ter o destino ali previsto, observando-se no mais, com as necessárias adaptações, o determinado naquela disposição legal.
+Art. 123.º Se não for possível efectuar a entrega prevista no artigo anterior dentro do prazo ali fixado, a secretaria, ou secção, avisará o interessado, por postal registado, para vir receber nos prazos indicados nas alíneas a), b) e c) do artigo 138.º, sob pena de a respectiva importância ter o destino ali previsto, observando-se no mais, com as necessárias adaptações, o determinado naquela disposição legal.
 
-###### Art. 124.º Se tiver ocorrido o falecimento do destinatário da importância a entregar, observar-se-á o disposto no artigo 139.º
+Art. 124.º Se tiver ocorrido o falecimento do destinatário da importância a entregar, observar-se-á o disposto no artigo 139.º
 
-###### Art. 125.º - 1. Na ocasião da entrega das importâncias a secretaria ou secção cobrará recibo e, sendo caso disso, colocará e inutilizará na folha do processo a tal destinada o respectivo selo de recibo.
+Art. 125.º - 1. Na ocasião da entrega das importâncias a secretaria ou secção cobrará recibo e, sendo caso disso, colocará e inutilizará na folha do processo a tal destinada o respectivo selo de recibo.
 
 2. Para efeitos do disposto no número anterior, os processos devem ter uma folha destinada exclusivamente a nela serem lavrados os termos de entrega das importâncias a pagar.
 
-###### Art. 126.º - 1. As importâncias respeitantes a outro tribunal são transferidas no prazo de três dias a favor do respectivo tesoureiro, por meio de cheque gratuito da Caixa Geral de Depósitos, Crédito e Previdência, o qual será remetido ao agente do Ministério Público acompanhado de nota elucidativa. O ofício de remessa é assinado pelo agente do Ministério Público e o talão de requisição do cheque junto ao respectivo processo.
+Art. 126.º - 1. As importâncias respeitantes a outro tribunal são transferidas no prazo de três dias a favor do respectivo tesoureiro, por meio de cheque gratuito da Caixa Geral de Depósitos, Crédito e Previdência, o qual será remetido ao agente do Ministério Público acompanhado de nota elucidativa. O ofício de remessa é assinado pelo agente do Ministério Público e o talão de requisição do cheque junto ao respectivo processo.
 
 2. O disposto no número anterior é aplicável às importâncias pertencentes a repartições, organismos corporativos e funcionários estranhos aos tribunais com sede ou residência fora da área do concelho do tribunal. Os cheques, neste caso, são passados em nome do respectivo destinatário.
 
 3. As importâncias pertencentes aos tribunais das execuções fiscais do concelho sede do tribunal serão entregues na secretaria daqueles tribunais por guia em duplicado, na qual se discrimine a proveniência e destino das respectivas quantias, cobrando-se recibo.
 
-###### Art. 127.º - 1. As importâncias contadas a favor do conselho geral da Ordem dos Advogados, da Caixa de Previdência da mesma Ordem ou da Caixa de Previdência da Câmara dos Solicitadores são remetidas até ao dia 5 de cada mês ao presidente do conselho geral e aos presidentes das direcções das caixas, respectivamente, por meio de cheque gratuito da Caixa Geral de Depósitos, Crédito e Previdência, acompanhado de ofício do Ministério Público em que se mencionem o número e montante do cheque, bem como o mês a que respeitam.
+Art. 127.º - 1. As importâncias contadas a favor do conselho geral da Ordem dos Advogados, da Caixa de Previdência da mesma Ordem ou da Caixa de Previdência da Câmara dos Solicitadores são remetidas até ao dia 5 de cada mês ao presidente do conselho geral e aos presidentes das direcções das caixas, respectivamente, por meio de cheque gratuito da Caixa Geral de Depósitos, Crédito e Previdência, acompanhado de ofício do Ministério Público em que se mencionem o número e montante do cheque, bem como o mês a que respeitam.
 
 2. Para efeito do disposto no número anterior, as importâncias serão escrituradas no livro «Pagamentos» e os respectivos montantes apurados no fim de cada mês.
 
-###### Art. 128.º - 1. Para efeito de realização de pagamentos, o juiz determinará, em face do movimento do tribunal, a quantia que, das importâncias recebidas nos termos do artigo 121.º, os chefes de secretaria ou escrivães podem conservar em seu poder.
+Art. 128.º - 1. Para efeito de realização de pagamentos, o juiz determinará, em face do movimento do tribunal, a quantia que, das importâncias recebidas nos termos do artigo 121.º, os chefes de secretaria ou escrivães podem conservar em seu poder.
 
 A quantia retida em caso algum pode exceder 3000$00 e a fixação do seu montante deve constar de ordem de serviço.
 
@@ -880,23 +973,23 @@ A quantia retida em caso algum pode exceder 3000$00 e a fixação do seu montant
 
 3. Os cheques e os recibos para levantamento dos depósitos são gratuitos e assinados pelo presidente do tribunal e pelo chefe da secretaria ou escrivão, conforme os casos.
 
-###### Art. 129.º - 1. As importâncias destinadas a correios e telégrafos serão distribuídas, nos tribunais com mais de uma vara, às secretarias das respectivas varas, a fim de com elas serem satisfeitas as correspondentes despesas.
+Art. 129.º - 1. As importâncias destinadas a correios e telégrafos serão distribuídas, nos tribunais com mais de uma vara, às secretarias das respectivas varas, a fim de com elas serem satisfeitas as correspondentes despesas.
 
 2. As secções de processo apresentarão, por termo no processo ou por relação diária, às secretarias os documentos carecidos de qualquer quantia para a sua expedição. Esta será feita pela secretaria, que no dia imediato fará entregar nas secções os recibos correspondentes aos documentos expedidos, contabilizando em livro adequado as despesas efectuadas.
 
 3. O disposto no número anterior será também observado, com as necessárias adaptações, nos tribunais com secretaria constituída por uma só secção.
 
-###### Art. 130.º A secretaria ou secção, depois de efectuados todos os pagamentos em cada processo, fá-lo-á com vista ao agente do Ministério Público, a fim de este magistrado promover o que tiver por conveniente ou lançar a declaração de estarem cumpridas todas as disposições legais quanto aos actos posteriores à conta e feitos os lançamentos nos respectivos livros.
+Art. 130.º A secretaria ou secção, depois de efectuados todos os pagamentos em cada processo, fá-lo-á com vista ao agente do Ministério Público, a fim de este magistrado promover o que tiver por conveniente ou lançar a declaração de estarem cumpridas todas as disposições legais quanto aos actos posteriores à conta e feitos os lançamentos nos respectivos livros.
 
 ### CAPÍTULO II — Disposições especiais para os tribunais de Lisboa e Porto
 
-###### Art. 131.º - 1. O recebimento de preparos, custas, receitas do Estado, multas, seja qual for o seu destino, e de quaisquer outras importâncias relativas a processos, actos e papéis avulsos e respectivos pagamentos, nos tribunais de Lisboa e Porto, são feitos nas respectivas tesourarias judiciais.
+Art. 131.º - 1. O recebimento de preparos, custas, receitas do Estado, multas, seja qual for o seu destino, e de quaisquer outras importâncias relativas a processos, actos e papéis avulsos e respectivos pagamentos, nos tribunais de Lisboa e Porto, são feitos nas respectivas tesourarias judiciais.
 
 2. Do preceituado no número anterior exceptuam-se os preparos que a lei manda efectuar por meio de selo, nos termos do artigo 70.º, e bem assim o produto das arrematações, as cauções e quaisquer outras importâncias estranhas aos encargos judiciais, que, salvo disposição especial, são depositadas na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 132.º Para efeitos do disposto no artigo anterior, às secções centrais de cada uma das varas dos tribunais de Lisboa e Porto incumbe o serviço da respectiva tesouraria, sendo-lhe aplicável o que sobre tal matéria e com as necessárias adaptações se dispõe no Estatuto Judiciário, designadamente nos artigos 323.º, 324.º e 325.º
+Art. 132.º Para efeitos do disposto no artigo anterior, às secções centrais de cada uma das varas dos tribunais de Lisboa e Porto incumbe o serviço da respectiva tesouraria, sendo-lhe aplicável o que sobre tal matéria e com as necessárias adaptações se dispõe no Estatuto Judiciário, designadamente nos artigos 323.º, 324.º e 325.º
 
-###### Art. 133.º - 1. Logo que se inicie o decurso de algum prazo para depósito de preparos para diligências ou custas, pagamento destas ou de multas, seja qual for a sua espécie, ou ainda de imposto de justiça criminal, a secção de processos entrega na tesouraria, por termo, as guias indispensáveis para esse depósito ou pagamento.
+Art. 133.º - 1. Logo que se inicie o decurso de algum prazo para depósito de preparos para diligências ou custas, pagamento destas ou de multas, seja qual for a sua espécie, ou ainda de imposto de justiça criminal, a secção de processos entrega na tesouraria, por termo, as guias indispensáveis para esse depósito ou pagamento.
 
 2. Em casos em que a lei autorize o interessado a solicitar guias para qualquer depósito ou pagamento, são estas imediatamente passadas e entregues na tesouraria.
 
@@ -904,7 +997,7 @@ A quantia retida em caso algum pode exceder 3000$00 e a fixação do seu montant
 
 O funcionário que receber as referidas importâncias é considerado, para todos os efeitos, depositário judicial das mesmas.
 
-###### Art. 134.º - 1. As guias para depósitos e pagamentos na tesouraria são passadas em duplicado, ficando, depois de efectuado o depósito ou pagamento, um dos exemplares em poder do tesoureiro e sendo o outro devolvido à secção, a fim de ser junto ao respectivo processo. As guias relativas ao depósito de preparos para diligências têm um triplicado destinado a ser arquivado na secção.
+Art. 134.º - 1. As guias para depósitos e pagamentos na tesouraria são passadas em duplicado, ficando, depois de efectuado o depósito ou pagamento, um dos exemplares em poder do tesoureiro e sendo o outro devolvido à secção, a fim de ser junto ao respectivo processo. As guias relativas ao depósito de preparos para diligências têm um triplicado destinado a ser arquivado na secção.
 
 2. Das guias constará, além das importâncias devidas:
 
@@ -920,21 +1013,21 @@ e) O número e folha do livro «Contas Correntes - Processos» correspondente à
 
 3. Quando se trate de primeiros depósitos, as referências indicadas na alínea e) serão apostas pelo tesoureiro, que também mencionará na guia o nome de quem a tiver pago, quando, não sendo a pessoa indicada na guia, tenha interesse em tal menção.
 
-###### Art. 135.º - 1. Até às 12 horas do primeiro dia útil seguinte àquele em que tenham sido recebidas as importâncias das guias mencionadas no artigo 133.º ou em que termine o prazo para pagamento ou depósito nelas mencionado, sem que estes se tenham efectuado, a tesouraria devolverá às secções os duplicados ou triplicados das guias, ou todos os seus exemplares, se não tiverem sido pagas.
+Art. 135.º - 1. Até às 12 horas do primeiro dia útil seguinte àquele em que tenham sido recebidas as importâncias das guias mencionadas no artigo 133.º ou em que termine o prazo para pagamento ou depósito nelas mencionado, sem que estes se tenham efectuado, a tesouraria devolverá às secções os duplicados ou triplicados das guias, ou todos os seus exemplares, se não tiverem sido pagas.
 
 2. Em caso de urgência, o interessado pode fazer juntar ao processo, logo após o pagamento, a nota-recibo passada pelo tesoureiro.
 
 3. As secções farão imediatamente os processos conclusos, sempre que não tenha sido rigorosamente observado o disposto no n.º 1.
 
-###### Art. 136.º - 1. O tesoureiro depositará, no primeiro dia útil imediato, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do juiz da respectiva vara, todas as importâncias recebidas na tesouraria no dia anterior.
+Art. 136.º - 1. O tesoureiro depositará, no primeiro dia útil imediato, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do juiz da respectiva vara, todas as importâncias recebidas na tesouraria no dia anterior.
 
 2. Exceptuam-se do disposto no n.º 1 os preparos para diligências ou actos avulsos e, bem assim, o custo dos actos ou papéis avulsos, os quais ficam em caixa na tesouraria a fim de, oportunamente quanto aos preparos, e no fim do mês quanto ao custo dos actos e papéis avulsos, ser dado o destino legal.
 
-###### Art. 137.º - 1. Cada vara tem com a Caixa Geral de Depósitos, Crédito e Previdência uma conta referente a depósitos de processos sob a rubrica «Tesouraria da ... vara do Tribunal do Trabalho de ...».
+Art. 137.º - 1. Cada vara tem com a Caixa Geral de Depósitos, Crédito e Previdência uma conta referente a depósitos de processos sob a rubrica «Tesouraria da ... vara do Tribunal do Trabalho de ...».
 
 2. Os cheques para levantamento dos depósitos são assinados pelo juiz da vara e pelo tesoureiro.
 
-###### Art. 138.º - 1. As secções de processos avisarão, por postal registado, os titulares dos cheques de valor superior ao custo do aviso do correio que, até ao dia 15 do mês em que foram emitidos, se não tenham apresentado a recebê-los, de que devem fazê-lo nos seguintes prazos, contados da data do aviso, sob pena de a respectiva importância prescrever a favor do Fundo de Garantia de Despesas de Emergência:
+Art. 138.º - 1. As secções de processos avisarão, por postal registado, os titulares dos cheques de valor superior ao custo do aviso do correio que, até ao dia 15 do mês em que foram emitidos, se não tenham apresentado a recebê-los, de que devem fazê-lo nos seguintes prazos, contados da data do aviso, sob pena de a respectiva importância prescrever a favor do Fundo de Garantia de Despesas de Emergência:
 
 a) Um mês, se residirem no continente;
 
@@ -944,11 +1037,11 @@ c) Três meses, se residirem em alguma província ultramarina ou no estrangeiro.
 
 2. O recibo do registo do correio é junto ao livro «Pagamentos» e a despesa anotada no cheque para ser descontada no seu montante e paga ao Estado.
 
-###### Art. 139.º Se ocorrer o falecimento do destinatário do cheque, observa-se o artigo 237.º do Código das Custas Judiciais, devendo a transferência da sua importância ser feita para o Fundo de Garantia de Despesas de Emergência e a reclamação do seu pagamento apresentada ao conselho administrativo do mesmo Fundo.
+Art. 139.º Se ocorrer o falecimento do destinatário do cheque, observa-se o artigo 237.º do Código das Custas Judiciais, devendo a transferência da sua importância ser feita para o Fundo de Garantia de Despesas de Emergência e a reclamação do seu pagamento apresentada ao conselho administrativo do mesmo Fundo.
 
-###### Art. 140.º No primeiro dia útil de cada mês, as secções de processos entregarão na tesouraria os cheques prescritos a favor do Fundo de Garantia de Despesas de Emergência no mês anterior, bem como os que neste Fundo devam ser depositados.
+Art. 140.º No primeiro dia útil de cada mês, as secções de processos entregarão na tesouraria os cheques prescritos a favor do Fundo de Garantia de Despesas de Emergência no mês anterior, bem como os que neste Fundo devam ser depositados.
 
-###### Art. 141.º Recebido o cheque mensal de levantamento a que se refere o artigo 234.º do Código das Custas Judiciais, o tesoureiro efectuará os pagamentos pela forma seguinte:
+Art. 141.º Recebido o cheque mensal de levantamento a que se refere o artigo 234.º do Código das Custas Judiciais, o tesoureiro efectuará os pagamentos pela forma seguinte:
 
 a) As importâncias relativas ao conselho geral da Ordem dos Advogados, à Caixa de Previdência da Ordem dos Advogados e da Câmara dos Solicitadores serão, no Tribunal de Lisboa, entregues, mediante guia em cujo duplicado se cobrará recibo, às respectivas entidades e, no do Porto, remetidas, até ao dia 5 de cada mês, ao presidente do conselho geral ou aos presidentes das direcções daquelas caixas, por meio de cheque gratuito da Caixa Geral de Depósitos, Crédito e Previdência acompanhado de ofício do Ministério Público em que se mencionem o número e montante do cheque e o mês a que respeita;
 
@@ -964,9 +1057,9 @@ f) As restantes importâncias são pagas mediante a entrega dos respectivos cheq
 
 2. O tesoureiro, à medida que vá efectuando os depósitos e pagamentos, lançará, no extracto recebido da secção, a data dos mesmos e bem assim a dos cheques de transferência passados e respectivo número.
 
-###### Art. 142.º Com o extracto do livro de pagamentos, cada secção entregará ao tesoureiro uma relação em duplicado, por cada instituição de previdência, na qual se identifiquem os processos e se especifique a natureza das receitas cobradas. Cada relação será acompanhada dos verbetes a que se refere o artigo 16.º do [Decreto-Lei n.º 38538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38538-1951-593371), de 24 de Novembro de 1951, devidamente preenchidos, os quais serão remetidos pelo tesoureiro à respectiva instituição.
+Art. 142.º Com o extracto do livro de pagamentos, cada secção entregará ao tesoureiro uma relação em duplicado, por cada instituição de previdência, na qual se identifiquem os processos e se especifique a natureza das receitas cobradas. Cada relação será acompanhada dos verbetes a que se refere o artigo 16.º do [Decreto-Lei n.º 38538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38538-1951-593371), de 24 de Novembro de 1951, devidamente preenchidos, os quais serão remetidos pelo tesoureiro à respectiva instituição.
 
-###### Art. 143.º Os preparos para diligências serão movimentados pela seguinte forma:
+Art. 143.º Os preparos para diligências serão movimentados pela seguinte forma:
 
 a) Logo após a diligência ou audiência a que se destinam, a secção de processos elabora a respectiva nota ou relação, que é visada pelo juiz.
 
@@ -978,7 +1071,7 @@ c) A nota ou relação é passada em triplicado, sendo um dos exemplares destina
 
 ### CAPÍTULO III — Dos livros
 
-###### Art. 144.º - 1. Nas tesourarias existirão obrigatòriamente os seguintes livros:
+Art. 144.º - 1. Nas tesourarias existirão obrigatòriamente os seguintes livros:
 
 a) «Caixa», no qual são debitadas todas as importâncias recebidas, seja qual for a sua natureza ou proveniência, e creditados todos os depósitos e pagamentos efectuados;
 
@@ -1006,15 +1099,15 @@ m) «Correios e Telégrafo», no qual se debitam as importâncias recebidas e se
 
 2. O registo de receitas avulsas relativas a actos praticados nas secretarias gerais é feito no livro a que se refere a alínea j) pertencente à tesouraria da 1.ª vara.
 
-###### Art. 145.º O saldo dos livros «Caixas», «Processos» e «Diligências» é apurado mensalmente.
+Art. 145.º O saldo dos livros «Caixas», «Processos» e «Diligências» é apurado mensalmente.
 
-###### Art. 146.º Em cada secção de processos haverá, para registo do seu movimento com a tesouraria, os seguintes livros:
+Art. 146.º Em cada secção de processos haverá, para registo do seu movimento com a tesouraria, os seguintes livros:
 
 a) «Processos», no qual são creditadas, logo que devolvidas pela tesouraria as respectivas guias com a nota de pagas, as importâncias referentes a custas, e debitado, no último dia de cada mês, o total das custas pagas, constantes do livro de pagamentos;
 
 b) «Pagamentos», no qual são lançadas as custas, logo que pagas, e as importâncias dos rateios, logo que efectuados, referentes a qualquer processo, com indicação do número e natureza deste, número da conta e da folha do livro onde se encontre a respectiva conta corrente, e todos os pagamentos a efectuar.
 
-###### Art. 147.º - 1. Nos tribunais em que não exista tesouraria judicial haverá os seguintes livros:
+Art. 147.º - 1. Nos tribunais em que não exista tesouraria judicial haverá os seguintes livros:
 
 a) Na secretaria, os referidos nas alíneas g), j) e m) do artigo 144.º;
 
@@ -1024,9 +1117,9 @@ b) Em cada secção de processos, os mencionados nas alíneas a), c), d), f), h)
 
 3. No livro a que se refere a alínea f) do artigo 144.º apenas são debitadas as receitas cobradas para o Fundo e creditados os depósitos feitos na sua conta.
 
-###### Art. 148.º Além dos livros referidos nos artigos anteriores, haverá os que a prática aconselhe como necessários; e todos terão termos de abertura e encerramento assinados pelo juíz, que também rubricará as respectivas folhas.
+Art. 148.º Além dos livros referidos nos artigos anteriores, haverá os que a prática aconselhe como necessários; e todos terão termos de abertura e encerramento assinados pelo juíz, que também rubricará as respectivas folhas.
 
-###### Art. 149.º Os livros de escrituração, guias, notas, cheques e todas as operações de tesouraria são isentos de selo.
+Art. 149.º Os livros de escrituração, guias, notas, cheques e todas as operações de tesouraria são isentos de selo.
 
 V
 
@@ -1034,11 +1127,11 @@ Do Fundo de Garantia de Despesas de Emergência
 
 ### CAPÍTULO I — Administração e regalias
 
-###### Art. 150.º - 1. O Fundo de Garantia de Despesas de Emergência é gerido por um conselho administrativo constituído pelo inspector-geral, que servirá de presidente, por um dos inspectores e por um dos adjuntos da Inspecção-Geral dos Tribunais do Trabalho, designados estes dois, por triénios, por despacho do Ministro das Corporações e Previdência Social.
+Art. 150.º - 1. O Fundo de Garantia de Despesas de Emergência é gerido por um conselho administrativo constituído pelo inspector-geral, que servirá de presidente, por um dos inspectores e por um dos adjuntos da Inspecção-Geral dos Tribunais do Trabalho, designados estes dois, por triénios, por despacho do Ministro das Corporações e Previdência Social.
 
 2. O exercício das funções de membros do conselho é gratuito e a sua responsabilidade solidária pelo uso dado às receitas do Fundo.
 
-###### Art. 151.º O Fundo de Garantia de Despesas de Emergência goza das seguintes isenções:
+Art. 151.º O Fundo de Garantia de Despesas de Emergência goza das seguintes isenções:
 
 a) De imposto do selo e de quaisquer outros impostos em todos os serviços e, designadamente, nos relativos a cobranças, arrecadação e movimentação das suas receitas e despesas;
 
@@ -1046,7 +1139,7 @@ b) De prémios, descontos ou percentagens, pelos depósitos, guarda, transferên
 
 ### CAPÍTULO II — Receitas e encargos
 
-###### Art. 152.º Constituem receita do Fundo de Garantia de Despesas de Emergência:
+Art. 152.º Constituem receita do Fundo de Garantia de Despesas de Emergência:
 
 a) A percentagem a que se refere o artigo 43.º;
 
@@ -1060,7 +1153,7 @@ e) Os juros vencidos pelas importâncias depositadas na Caixa Geral de Depósito
 
 f) Quaisquer outras importâncias que lhe venham a ser atribuídas.
 
-###### Art. 153.º - 1. São encargos do Fundo de Garantia de Despesas de Emergência:
+Art. 153.º - 1. São encargos do Fundo de Garantia de Despesas de Emergência:
 
 a) As despesas com a realização de exames especializados a sinistrados e doentes, ou de autópsias quando, não estando definida a responsabilidade, os indigitados responsáveis recusem o encargo e o tribunal não disponha, no momento, de outro meio para lhes fazer face;
 
@@ -1076,19 +1169,19 @@ f) Quaisquer outras despesas de manifesta utilidade para o bom andamento dos pro
 
 2. Das despesas previstas neste artigo será lavrada cota no processo, a fim de, ao elaborar-se a conta, serem nesta incluídas a favor do Fundo, nos termos prescritos neste diploma, a menos que, por lei, aos beneficiados com a despesa não seja reconhecido o direito à mesma.
 
-###### Art. 154.º De todas as importâncias despendidas nos termos do artigo anterior, cobrar-se-á recibo no qual se identifique o processo, a secção a que ele pertence e a pessoa a quem foi paga.
+Art. 154.º De todas as importâncias despendidas nos termos do artigo anterior, cobrar-se-á recibo no qual se identifique o processo, a secção a que ele pertence e a pessoa a quem foi paga.
 
 Nos recibos será aposto o visto do Ministério Público, sem o que não terão validade como documento justificativo da despesa.
 
 ### CAPÍTULO III — Da prestação de contas e seu julgamento
 
-###### Art. 155.º - 1. Cada tribunal ou vara prestará contas trimestralmente ao conselho administrativo das importâncias deste recebidas, sem o que não lhe serão enviadas as quantias necessárias para reconstituição das dotações seguintes.
+Art. 155.º - 1. Cada tribunal ou vara prestará contas trimestralmente ao conselho administrativo das importâncias deste recebidas, sem o que não lhe serão enviadas as quantias necessárias para reconstituição das dotações seguintes.
 
 2. Para efeitos do número anterior será organizado um processo do qual conste, em forma de conta corrente, a quantia recebida do Fundo para constituição ou reconstituição da dotação trimestral, as despesas realizadas por força da mesma, por parcelas individuais, com referência aos correspondentes documentos, e o saldo que transita para o trimestre imediato. Os documentos de despesa serão integrados no processo e, neste, deverá fazer-se ainda referência ao número e data do cheque recebido do Fundo.
 
 3. O Ministério Público aporá sempre no processo o seu visto de conformidade da conta corrente com os registos dos respectivos livros.
 
-###### Art. 156.º - 1. O conselho administrativo aprecia as contas conhecendo da legalidade e da correcta aplicação da importância concedida ao tribunal e, se a considerar devidamente aplicada, lançará no processo a nota de aprovação, com indicação da sessão em que o foi.
+Art. 156.º - 1. O conselho administrativo aprecia as contas conhecendo da legalidade e da correcta aplicação da importância concedida ao tribunal e, se a considerar devidamente aplicada, lançará no processo a nota de aprovação, com indicação da sessão em que o foi.
 
 Em caso contrário, fará os reparos que julgue convenientes, chamando a atenção do respectivo juiz para as irregularidades que encontre.
 
@@ -1096,7 +1189,7 @@ Em caso contrário, fará os reparos que julgue convenientes, chamando a atenç�
 
 ### CAPÍTULO IV — Da escrituração e movimentação
 
-###### Art. 157.º - 1. Na Inspecção-Geral dos Tribunais do Trabalho haverá, para uso do conselho administrativo do Fundo de Garantia de Despesas de Emergência, os seguintes livros:
+Art. 157.º - 1. Na Inspecção-Geral dos Tribunais do Trabalho haverá, para uso do conselho administrativo do Fundo de Garantia de Despesas de Emergência, os seguintes livros:
 
 a) «Actas», destinado ao seu registo;
 
@@ -1112,21 +1205,21 @@ f) Quaisquer outros que a prática aconselhe.
 
 2. Todos os livros terão termos de abertura e encerramento e as suas folhas, numeradas, serão rubricadas pelo inspector-geral dos Tribunais do Trabalho.
 
-###### Art. 158.º Os cheques para movimentação do Fundo de Garantia de Despesas de Emergência por parte do conselho administrativo são assinados pelo presidente e por um dos vogais.
+Art. 158.º Os cheques para movimentação do Fundo de Garantia de Despesas de Emergência por parte do conselho administrativo são assinados pelo presidente e por um dos vogais.
 
-###### Art. 159.º Até ao dia 10 de Janeiro de cada ano, o conselho administrativo fixará as dotações atribuídas pelo Fundo de Garantia a cada tribunal, tendo em conta o movimento deste, as suas necessidades prováveis e o uso dado à dotação no ano pretérito, e comunicá-la-á, por ofício, ao respectivo juiz, a favor do qual emitirá os necessários cheques.
+Art. 159.º Até ao dia 10 de Janeiro de cada ano, o conselho administrativo fixará as dotações atribuídas pelo Fundo de Garantia a cada tribunal, tendo em conta o movimento deste, as suas necessidades prováveis e o uso dado à dotação no ano pretérito, e comunicá-la-á, por ofício, ao respectivo juiz, a favor do qual emitirá os necessários cheques.
 
-###### Art. 160.º O custo dos livros e do material de expediente do conselho administrativo é suportado pelas receitas do Fundo de Garantia.
+Art. 160.º O custo dos livros e do material de expediente do conselho administrativo é suportado pelas receitas do Fundo de Garantia.
 
-###### Art. 161.º No prazo de vinte dias após a entrada em vigor do presente diploma, a Caixa Geral de Depósitos, Crédito e Previdência transferirá para a conta do Fundo de Garantia de Despesas de Emergência todas as importâncias que nos seus cofres se encontrem depositadas à ordem dos tribunais do trabalho, por força do disposto no § 1.º do artigo 55.º da tabela das custas nos tribunais do trabalho, aprovada pelo [Decreto-Lei n.º 30911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30911-1940-167392), de 23 de Novembro de 1940, na redacção do artigo 1.º do [Decreto-Lei n.º 37910](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37910-1950-481125), de 1 de Agosto de 1950, e comunicará ao conselho administrativo daquele Fundo as importâncias para este transitadas em relação a cada tribunal. A comunicação servirá de base aos registos a fazer nos livros previstos nas alíneas b) e c) do artigo 157.º
+Art. 161.º No prazo de vinte dias após a entrada em vigor do presente diploma, a Caixa Geral de Depósitos, Crédito e Previdência transferirá para a conta do Fundo de Garantia de Despesas de Emergência todas as importâncias que nos seus cofres se encontrem depositadas à ordem dos tribunais do trabalho, por força do disposto no § 1.º do artigo 55.º da tabela das custas nos tribunais do trabalho, aprovada pelo [Decreto-Lei n.º 30911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30911-1940-167392), de 23 de Novembro de 1940, na redacção do artigo 1.º do [Decreto-Lei n.º 37910](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37910-1950-481125), de 1 de Agosto de 1950, e comunicará ao conselho administrativo daquele Fundo as importâncias para este transitadas em relação a cada tribunal. A comunicação servirá de base aos registos a fazer nos livros previstos nas alíneas b) e c) do artigo 157.º
 
 VI
 
-# Parte final
+## Parte final
 
 ### CAPÍTULO ÚNICO — Disposição transitória
 
-###### Art. 162.º - 1. Logo que entre em vigor este diploma, nos tribunais de Lisboa e Porto apurar-se-ão, por cada secção e vara, os saldos do livro «Contas Correntes - Processos», e com esses saldos serão abertas as contas do livro a que se refere a alínea a) do artigo 146.º, e com o total deles, por cada vara, o livro indicado na alínea b) do artigo 144.º
+Art. 162.º - 1. Logo que entre em vigor este diploma, nos tribunais de Lisboa e Porto apurar-se-ão, por cada secção e vara, os saldos do livro «Contas Correntes - Processos», e com esses saldos serão abertas as contas do livro a que se refere a alínea a) do artigo 146.º, e com o total deles, por cada vara, o livro indicado na alínea b) do artigo 144.º
 
 2. Nas varas onde se verificar a existência em depósito na Caixa Geral de Depósitos, Crédito e Previdência de quantia superior ao total daqueles saldos, será o excesso escriturado em livro especial e procurar-se-á determinar a sua proveniência.
 

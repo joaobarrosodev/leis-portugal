@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1977-141644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95678e1ee1abe39e857125a5e5690319a3260712c419078870ddab9fa2e55664
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf9401a89694c33d46bbb4e3d655bd603c4084c91f73c4570eec4fb8e1f1966c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Europa
+- Criação de Serviços
+- Estrasburgo
+- Ministério dos Negócios Estrangeiros
+- Missão Permanente de Portugal no Conselho da Europa
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:600331:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650356:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:36Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +115,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada em Estrasburgo uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá a representação de Portugal junto do Conselho da Europa.
+Artigo 1.º É criada em Estrasburgo uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá a representação de Portugal junto do Conselho da Europa.
 
-###### Art. 2.º A missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e ser-lhe-ão aplicadas as disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, o preceituado nos artigos 4.º a 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
+Art. 2.º A missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e ser-lhe-ão aplicadas as disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, o preceituado nos artigos 4.º a 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
 
-###### Art. 3.º A missão permanente terá a composição que for determinada em portaria dos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
+Art. 3.º A missão permanente terá a composição que for determinada em portaria dos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
 
-###### Art. 4.º Enquanto não forem inscritas no orçamento as dotações necessárias para o pagamento dos encargos decorrentes do presente decreto-lei, serão eles satisfeitos por força das disponibilidades existentes nas dotações de vencimentos e representação certa e permanente de pessoal dos quadros aprovados por lei e das disponibilidades das verbas de natureza correspondente inscritas no orçamento do Ministério dos Negócios Estrangeiros para pagamento das despesas dos «Serviços externos do Ministério e missões diplomáticas e consulados».
+Art. 4.º Enquanto não forem inscritas no orçamento as dotações necessárias para o pagamento dos encargos decorrentes do presente decreto-lei, serão eles satisfeitos por força das disponibilidades existentes nas dotações de vencimentos e representação certa e permanente de pessoal dos quadros aprovados por lei e das disponibilidades das verbas de natureza correspondente inscritas no orçamento do Ministério dos Negócios Estrangeiros para pagamento das despesas dos «Serviços externos do Ministério e missões diplomáticas e consulados».
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - José Manuel de Medeiros Ferreira.
 
-**Promulgado em 14 de Fevereiro de 1977.**
+Promulgado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

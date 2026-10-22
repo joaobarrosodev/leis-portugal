@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1978-329833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 727adfc9fce889c1ec586bd1a39092bb3be6146fa0bb1784adb9f6f85c9cffd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f508605e3092c93cbdf4a1fb1d84ccb274efa7ffa57d9ea83790196858e3f89f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Activo Imobilizado Corpóreo
+- Análise Económica
+- Contribuição Industrial
+- Contribuições e Impostos
+- Empresa Privada
+- Gestão do Património
+- Gestão Financeira
+- Saneamento Económico e Financeiro
 relationships:
 - type: amended_by
   target: pt:dre:382999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382999:por
+  label: "Alterado o n.º 3 do anexo ao Decreto-Lei n.º 126/77, de 2-Abr, na redacção do presente diploma, pelo DEC LEI.66/79.30.03.1979.MFP,\
+    \ DR.IS [75] de 30.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1979-382999
+  date: '1979-03-30'
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294729:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:33Z'
   warnings: []
   errors: []
 ---
@@ -105,29 +135,29 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 5.º e o n.º 2 do artigo 6.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 5.º e o n.º 2 do artigo 6.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 ...
 
 3 - Os bens reavaliados figurarão em mapas autónomos, do modelo n.º 7, a que se refere a alínea c) do artigo 46.º do Código da Contribuição Industrial, com menção ao presente diploma, na parte superior, e, quanto aos bens que não estavam ainda totalmente amortizados, na coluna (4), do valor de reavaliação, e na coluna (9), do valor das amortizações actualizadas feitas nos exercícios anteriores.
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 ...
 
 2 - Na falta de reinvestimento, nos termos do número anterior, será a reavaliação considerada nula para efeito de determinação da matéria colectável, nos termos do Código da Contribuição Industrial.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, os artigos 6.º-A e 6.º-B, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, os artigos 6.º-A e 6.º-B, com a seguinte redacção:
 
-###### Art. 6.º-A - 1 - Os movimentos resultantes da reavaliação são registados a débito e a crédito de uma subconta denominada «Reserva de reavaliação - [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril».
+Art. 6.º-A - 1 - Os movimentos resultantes da reavaliação são registados a débito e a crédito de uma subconta denominada «Reserva de reavaliação - [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril».
 
 2 - O saldo da subconta mencionada no número anterior, excepto nos casos de dissolução da empresa, só pode ser utilizado para aumento de capital e cobertura de prejuízos, sendo qualquer outra utilização considerada como proveito para efeitos fiscais no exercício em que a mesma se verificar, sem prejuízo da multa cominada no artigo 6.º-B.
 
-###### Art. 6.º-B - A infracção ao disposto no n.º 2 do artigo anterior será punida com multa de 20000$00 a 500000$00, a aplicar nos termos do Código de Processo das Contribuições e Impostos, na qual incorrerão solidariamente entre si o contribuinte, os directores, administradores, gerentes e membros do conselho fiscal, em exercício ao tempo em que foi cometida a infracção.
+Art. 6.º-B - A infracção ao disposto no n.º 2 do artigo anterior será punida com multa de 20000$00 a 500000$00, a aplicar nos termos do Código de Processo das Contribuições e Impostos, na qual incorrerão solidariamente entre si o contribuinte, os directores, administradores, gerentes e membros do conselho fiscal, em exercício ao tempo em que foi cometida a infracção.
 
-###### Art. 3.º As regras 1, 2, 3 e 7 constantes do anexo ao diploma referido no artigo anterior passam a ter a seguinte redacção:
+Art. 3.º As regras 1, 2, 3 e 7 constantes do anexo ao diploma referido no artigo anterior passam a ter a seguinte redacção:
 
 1. As reavaliações dos bens integrantes dos activos imobilizados corpóreos das empresas têm por objectivo evidenciar as respectivas mais-valias resultantes da desvalorização monetária e/ou das valorizações intrínsecas desses mesmos bens, podendo ser usados nessas reavaliações os seguintes critérios:
 
@@ -151,8 +181,8 @@ c) Para os bens totalmente amortizados, o critério estabelecido na regra 5.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 17 de Agosto de 1978.**
+Promulgado em 17 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

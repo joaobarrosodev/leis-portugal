@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49174-1969-198896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8593199dc77ab69ec663d445b3419c33f8f0cf9e327fe5d6a48899c33cc869d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6eda4cbeca623aa4d2bf769c247e94d8bd0ae62bccb7b4c7b99e4d2cf7cc9eeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Direcção Geral dos Serviços Pecuários
+- Gratificação
+- Remuneração Acessória
+- Veterinário
+relationships:
+- type: cites
+  target: pt:dre:261964:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:20Z'
   warnings: []
   errors: []
 ---
@@ -85,20 +94,20 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968, passa a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º É aplicável ao complemento de vencimento dos subintendentes de pecuária o regime prescrito no § 1.º do artigo 527.º do Código Administrativo.
 
 § 2.º Havendo lugar ao aumento do complemento de vencimento do subintendente de pecuária, por virtude de mudança da ordem administrativa do concelho, será o excesso transitòriamente pago pelas disponibilidades das dotações para pessoal dos quadros da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 2.º Os efeitos do disposto no § 1.º do artigo 6.º do [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968, na redacção que lhe é dada pelo presente diploma, reportam-se a 1 de Março de 1969.
+Art. 2.º Os efeitos do disposto no § 1.º do artigo 6.º do [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968, na redacção que lhe é dada pelo presente diploma, reportam-se a 1 de Março de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 24 de Julho de 1969.**
+Promulgado em 24 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1970-147664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dc00ff8392ae8a823d61111c14309e694071d53725721b5db6b91846161d579
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c846c2948d8515c2d5fb0c6439922a49cfbab7f66192a84dd22e45a3fb7c905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Capital Social
+- Companhia de Diamantes de Angola
+- Contrato
+- Estatuto
+relationships:
+- type: cites
+  target: pt:dre:390438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681206:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146898:por
+  label: "Rectificada a base VI anexa pela RECT.DD420.28.11.1970.PC, DG.IS [277] de 28.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-146898
+  date: '1970-11-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:08Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +113,17 @@ Considerando que as sugestões apresentadas estão de acordo com o interesse da 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato em conformidade com as bases anexas a este decreto-lei, que dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o mencionado contrato.
+Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato em conformidade com as bases anexas a este decreto-lei, que dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o mencionado contrato.
 
-###### Art. 2.º A Companhia fica isenta de quaisquer taxas, contribuições e impostos pelo contrato a que se refere o artigo anterior e operações a praticar em seu cumprimento, nas quais se inclui a substituição dos actuais títulos por outros dos quais conste o seu novo valor nominal.
+Art. 2.º A Companhia fica isenta de quaisquer taxas, contribuições e impostos pelo contrato a que se refere o artigo anterior e operações a praticar em seu cumprimento, nas quais se inclui a substituição dos actuais títulos por outros dos quais conste o seu novo valor nominal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
@@ -111,7 +133,7 @@ BASE I
 
 O capital da Companhia de Diamantes de Angola, de 294100000$00, representado por 1730000 acções do valor nominal de 170$00, é aumentado para 865000000$00, pela elevação do seu valor nominal para 500$00, transferindo-se com esse fim 570900000$00 da conta «Vendas de diamantes a apurar», existente no balanço da Companhia relativo ao ano de 1969, para a conta do capital e ficando o corpo do artigo 5.º dos estatutos com a redacção seguinte:
 
-###### Art. 5.º O capital da Companhia é de 865000000$00, dividido em 1730000 acções do valor nominal do 500$00 cada uma.
+Art. 5.º O capital da Companhia é de 865000000$00, dividido em 1730000 acções do valor nominal do 500$00 cada uma.
 
 BASE II
 
@@ -139,7 +161,7 @@ BASE V
 
 O artigo 30.º dos estatutos passará a ter a redacção seguinte:
 
-###### Art. 30.º Em caso de liquidação da Companhia, a assembleia geral extraordinária que a determinar nomeará os liquidatários e fixará a sua remuneração. Extinto o passivo, pagas as despesas de liquidação, transferidos para os accionistas os bens, valores e direitos representativos das reservas e provisões constituídas pela aplicação de lucros àqueles pertencentes e reembolsado o capital, o activo líquido existente será repartido, por metade, entre a província de Angola e as accionistas.
+Art. 30.º Em caso de liquidação da Companhia, a assembleia geral extraordinária que a determinar nomeará os liquidatários e fixará a sua remuneração. Extinto o passivo, pagas as despesas de liquidação, transferidos para os accionistas os bens, valores e direitos representativos das reservas e provisões constituídas pela aplicação de lucros àqueles pertencentes e reembolsado o capital, o activo líquido existente será repartido, por metade, entre a província de Angola e as accionistas.
 
 BASE VI
 
@@ -147,4 +169,4 @@ Para o cálculo da parte das lucros pertencentes à província de Angola nos ter
 
 § único. Às receitas da Companhia incluídas na formação dos lucros em que a província de Angola deva participar continuarão a aplicar-se as disposições constantes do corpo da base XIII anexa ao [Decreto-Lei n.º 27898](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27898-1937-428459), de 28 de Julho de 1937, e dos n.os 1.º e 3.º e § 1.º da mesma base e do correspondente artigo 13.º e seus n.os 1.º e 3.º e § 1.º do contrato de 31 de Julho de 1937.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

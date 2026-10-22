@@ -49,36 +49,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1976-427118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45ea02c87bf046bf6c08c0332cb5c505dbf5a072026d91ff9191fa56df98c2d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73e5edd93332000f696fbd9bc728e5f27608a36ae3fc49365b6fafebe812f7ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Chefe do Estado Maior do Exército
+- Exército
+- Militar
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:22Z'
   warnings: []
   errors: []
 ---
@@ -105,18 +114,18 @@ Considerando a necessidade urgente de para o período de transição, em que se 
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 15 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Chefe do Estado-Maior do Exército pode, em despacho fundamentado, dispensar do ano de comando previsto nas condições especiais de promoção, ouvido o conselho da respectiva arma ou serviço, os oficiais indicados para promoção ao posto imediato e que, por existência de vacatura, não seja possível virem a satisfazer aquela condição sem prejuízo de demora.
+Artigo 1.º O Chefe do Estado-Maior do Exército pode, em despacho fundamentado, dispensar do ano de comando previsto nas condições especiais de promoção, ouvido o conselho da respectiva arma ou serviço, os oficiais indicados para promoção ao posto imediato e que, por existência de vacatura, não seja possível virem a satisfazer aquela condição sem prejuízo de demora.
 
-###### Art. 2.º O mesmo oficial só poderá beneficiar por uma vez do constante no artigo anterior, o qual será aplicável até 31 de Dezembro de 1978.
+Art. 2.º O mesmo oficial só poderá beneficiar por uma vez do constante no artigo anterior, o qual será aplicável até 31 de Dezembro de 1978.
 
-###### Art. 3.º A condição prevista na alínea b) do n.º 2 do artigo 78.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (E. O. E.), é, para os oficiais que a tenham obtido até 20 de Novembro de 1974, considerada equivalente à expressa na alínea a) do mesmo número e artigo.
+Art. 3.º A condição prevista na alínea b) do n.º 2 do artigo 78.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (E. O. E.), é, para os oficiais que a tenham obtido até 20 de Novembro de 1974, considerada equivalente à expressa na alínea a) do mesmo número e artigo.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 2 de Junho de 1976.**
+Promulgado em 2 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 300/1975, 2º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2160-(10) a 2160-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30002/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/749-1975-355278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9632bee9cbe08f4d8a21228acdaf481844e21ec70bd8b1f78ec19fac0bfe63b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ff6678e3d3d8a4681f5dd88d0ea7e4be146d71fa41ecd4717cd0826321e23ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Formas de Provimento
+- Inspecção de Seguros
+- Pessoal Administrativo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459074:por
+  label: "Alterado o mapa anexo ao presente diploma, pela PORT.1027/80.03.12.1980.PCM, DR.IS [279] de 03.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1027-1980-459074
+  date: '1980-12-03'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:11Z'
   warnings: []
   errors: []
 ---
@@ -96,26 +116,26 @@ Convindo aproveitar a oportunidade para publicar desde já algumas outras dispos
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O preenchimento das vagas dos lugares de acesso do quadro da Inspecção de Seguros, que para os efeitos legais se publica em anexo com as alterações resultantes do presente diploma, será feito entre o pessoal actualmente em serviço na mencionada Inspecção, com dispensa de concurso e do tempo de serviço prestado, observando-se, porém, os demais requisitos legais.
+Artigo 1.º O preenchimento das vagas dos lugares de acesso do quadro da Inspecção de Seguros, que para os efeitos legais se publica em anexo com as alterações resultantes do presente diploma, será feito entre o pessoal actualmente em serviço na mencionada Inspecção, com dispensa de concurso e do tempo de serviço prestado, observando-se, porém, os demais requisitos legais.
 
-###### Art. 2.º O pessoal em regime eventual presentemente em serviço, desde que possua as necessárias habilitações, será nomeado para os lugares do quadro, com dispensa de concurso e quaisquer formalidades, salvo o visto do Tribunal de Contas.
+Art. 2.º O pessoal em regime eventual presentemente em serviço, desde que possua as necessárias habilitações, será nomeado para os lugares do quadro, com dispensa de concurso e quaisquer formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 3.º No quadro da Inspecção de Seguros serão criados mais quatro lugares de segundos-oficiais, reduzindo a três o número de terceiros-oficiais logo que os actualmente em serviço sejam promovidos àquela categoria.
+Art. 3.º No quadro da Inspecção de Seguros serão criados mais quatro lugares de segundos-oficiais, reduzindo a três o número de terceiros-oficiais logo que os actualmente em serviço sejam promovidos àquela categoria.
 
-###### Art. 4.º No quadro da Inspecção de Seguros será criado mais um lugar de escriturário-dactilógrafo a preencher pelo pessoal eventual que actualmente desempenha funções na Inspecção.
+Art. 4.º No quadro da Inspecção de Seguros será criado mais um lugar de escriturário-dactilógrafo a preencher pelo pessoal eventual que actualmente desempenha funções na Inspecção.
 
-###### Art. 5.º Fica o Ministro das Finanças autorizado a tomar as providências necessárias à execução deste decreto-lei.
+Art. 5.º Fica o Ministro das Finanças autorizado a tomar as providências necessárias à execução deste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 19 de Dezembro de 1975.**
+Promulgado em 19 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30002/00100011.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30002/00100011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30002/00100011.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29300/19761985.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,176 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a787a73d896f7be02612a86bcb28bc762aefe7af5a8ebd651ed630c473cdff4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 294f748dd22fbfd765ca13c7eab442429683cd9a8d7617083b51d1bf6750f0b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Justiça
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252251:por
+  label: "Alterado o mapa V anexo ao presente diploma, pela PORT.264/77.1977.05.13.PCM, DR.IS [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-1977-252251
+  date: '1977-05-13'
+- type: amended_by
+  target: pt:dre:252446:por
+  label: "Alterada a alínea g) do n.º 1 do artigo 53.º, pelo DEC LEI.234/77.02.06.1977.MJ, DR.IS [128] de 02.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1977-252446
+  date: '1977-06-02'
+- type: amended_by
+  target: pt:dre:329438:por
+  label: "Aumentadas unidades ao quadro de pessoal da Direcção-Geral dos Registos e do Notariado, aprovado pelo presente diploma,\
+    \ pela Port.574/78.21.09.1978.MFP, DR.IS [218] de 21.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/574-1978-329438
+  date: '1978-09-21'
+- type: amended_by
+  target: pt:dre:325762:por
+  label: "Alterado o nº 1 do art. 21º e substituído o mapa V anexo pelo DEC LEI.347/78.17.11.1978.MJ, DR.IS [265] de 17.11.197\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1978-325762
+  date: '1978-11-17'
+- type: amended_by
+  target: pt:dre:365881:por
+  label: Alterados os arts. 4º e 5º e substituído o mapa constante do Anexo II do presente diploma, pelo(a) Decreto-Lei n.º
+    497/79 - Diário da República n.º 293/1979, Série I de 1979-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1979-365881
+  date: '1979-12-21'
+- type: amended_by
+  target: pt:dre:231157:por
+  label: "Aumentados lugares ao quadro de pessoal da Direcção-Geral dos Serviços Tutelares de Menores, aprovado pelo presente\
+    \ diploma, na redacção da Port 255/77, de 12-Mai e do Dec Lei 234/77, de 02-Jun, pela Port.726/79.31.12.1979.PCM, DR.IS\
+    \ [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/726-1979-231157
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:460473:por
+  label: "Alterado o mapa VI anexo ao presente diploma pela PORT.696/80.22.09.1980.PCM, DR.IS [219] de 22.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/696-1980-460473
+  date: '1980-09-22'
+- type: amended_by
+  target: pt:dre:459894:por
+  label: "Aumentados lugares ao quadro de pessoal da Direcção-Geral dos Registos e do Notariado, aprovado pelo presente diploma,\
+    \ na redacção da Port 574/78, de 21-Set, pela Port.1064/80.15.12.1980.PCM, DR.IS [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1980-459894
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:389868:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral dos Registos e do Notariado, aprovado pelo presente\
+    \ diploma pela PORT.129/81.08.01.1981.PCM, DR.IS [22] de 27.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/129-1981-389868
+  date: '1981-01-08'
+- type: amended_by
+  target: pt:dre:576553:por
+  label: "Substituído o mapa V anexo ao presente diploma, na redacção da Portaria 264/77, de 13 de Maio, e do Decreto-Lei\
+    \ 389/80, de 22 de Fevereiro, pela PORT.678/81.07.08.1981.MJ, DR.IS [180] de 07.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/678-1981-576553
+  date: '1981-08-07'
+- type: amended_by
+  target: pt:dre:564039:por
+  label: "Substituído o quadro de pessoal constante do anexo IV, com a redacção conferida nas Portarias n.os 574/78, de 21\
+    \ de Setembro, e 1064/80, de 15 de Dezembro, pela PORT.890/81.06.10.1981.MJ, DR.IS [229] de 06.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-1981-564039
+  date: '1981-10-06'
+- type: amended_by
+  target: pt:dre:394090:por
+  label: "Alterado o mapa anexo ao presente diploma, na redacção da Port 574/78, de 21-Set, da Port 1064/80, de 15-Dez e da\
+    \ Port 129/81, de 27-Jan, pela PORT.720/82.23.07.1982.MFP, DR.IS [168] de 23.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1982-394090
+  date: '1982-07-23'
+- type: amended_by
+  target: pt:dre:221089:por
+  label: "Alterado pelo DEC LEI.371/86.1986.11.05.PCM, DR.IS [255], retirando da tutela do Ministério da Justiça e passando\
+    \ para a tutela da Presidência do Conselho de Ministros, o Gabinete de Apoio Técnico Legislativo, criado pelo Dec Lei\
+    \ 245/84, de 19-Jul\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1986-221089
+  date: '1986-11-05'
+- type: amended_by
+  target: pt:dre:300011:por
+  label: Criada a Direcção de Serviços de Identificação Civil na Direcção-Geral dos Registos e do Notariado, cuja orgânica
+    consta do presente diploma, pelo DEC LEI.148/93.03.05.1993.MJ, DR.IS-A [102] de 03.05.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1993-300011
+  date: '1993-05-03'
+- type: amended_by
+  target: pt:dre:545645:por
+  label: "Extintos, sendo objecto de fusão os Serviços Sociais do Ministério da Justiça, cujas atribuições são integradas\
+    \ na Secretaria-Geral e nos Serviços Sociais da Administração Pública, no âmbito do Ministério das Finanças e da Administração\
+    \ Pública, nos termos da al. c) do nº 3 do art. 27º.DEC LEI.206/2006.27.10.2006.MJ, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2006-545645
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:421060:por
+  label: "Rectificados os mapas VI e VII pela RECT.DD352.29.06.1973.PC, DG.IS [151] de 29.06.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-421060
+  date: '1973-06-29'
+- type: repealed_by
+  target: pt:dre:563002:por
+  label: "Revogados os artigos 16.º a 25.º, 51.º, 62.º e 66.º, e na parte respeitante à Direcção-Geral dos Serviços Prisionais,\
+    \ e os artigos 53.º, 59.º, 61.º, 63.º a 65.º, 67.º e 69.º, pelo DEC LEI.268/81.16.09.1981.MJ, DR.IS [213] de 16.09.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1981-563002
+  date: '1981-09-16'
+- type: repealed_by
+  target: pt:dre:607277:por
+  label: "Revogados os arts. 6º a 8º pelo DEC LEI.99/82.07.04.1982.MJ, DR.IS [81] de 07.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1982-607277
+  date: '1982-04-07'
+- type: repealed_by
+  target: pt:dre:393050:por
+  label: "Revogado o art. 5.º pelo DEC LEI.151/82.30.04.1982.MJ, DR.IS [100] de 30.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1982-393050
+  date: '1982-04-30'
+- type: repealed_by
+  target: pt:dre:524225:por
+  label: "Revogados os arts. 9º a 15º, pelo DEC LEI.40/94.1994.02.11.MJ, DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1994-524225
+  date: '1994-02-11'
+- type: repealed_by
+  target: pt:dre:320560:por
+  label: "Revogado pelo DEC LEI.146/2000.2000.07.18.MJ,DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2000-320560
+  date: '2000-07-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:05Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +268,7 @@ I
 
 Estrutura do Ministério
 
-###### Artigo 1.º O Ministério da Justiça compreende, além do Gabinete do Ministro:
+Artigo 1.º O Ministério da Justiça compreende, além do Gabinete do Ministro:
 
 a) A Secretaria-Geral;
 
@@ -152,17 +288,17 @@ h) A Direcção de Serviços dos Cofres;
 
 i) Os Serviços Sociais.
 
-###### Art. 2.º - 1. Para coordenação das actividades dos diversos órgãos e serviços do Ministério da Justiça haverá ainda um Conselho dos Directores-Gerais.
+Art. 2.º - 1. Para coordenação das actividades dos diversos órgãos e serviços do Ministério da Justiça haverá ainda um Conselho dos Directores-Gerais.
 
 2. O Conselho será presidido pelo Ministro e terá como vogais permanentes o secretário-geral e todos os directores-gerais, podendo ainda participar nas suas reuniões funcionários de outras categorias, quando tal se mostre conveniente.
 
-###### Art. 3.º Os tribunais, o Conselho Superior Judiciário, a Procuradoria-Geral da República e outros serviços do Ministério Público, e ainda os serviços médico-legais, que se integram no âmbito do Ministério da Justiça, são objecto de estatuto especial.
+Art. 3.º Os tribunais, o Conselho Superior Judiciário, a Procuradoria-Geral da República e outros serviços do Ministério Público, e ainda os serviços médico-legais, que se integram no âmbito do Ministério da Justiça, são objecto de estatuto especial.
 
 II
 
 Secretaria-Geral
 
-###### Art. 4.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
+Art. 4.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
 
 a) Colaborar com os órgãos da Presidência do Conselho e de outros departamentos no estudo e execução das providências de âmbito geral pertinentes à reforma administrativa;
 
@@ -174,7 +310,7 @@ d) Desempenhar as funções de utilidade comum aos diversos órgãos e serviços
 
 e) Assegurar o expediente do Gabinete do Ministro em tudo o que se não compreenda na competência privativa dos membros do Gabinete.
 
-###### Art. 5.º - 1. A orientação técnica e administrativa da Secretaria-Geral compete ao secretário-geral.
+Art. 5.º - 1. A orientação técnica e administrativa da Secretaria-Geral compete ao secretário-geral.
 
 2. Enquanto o movimento dos serviços o não justifique, o lugar de secretário-geral será desempenhado pelo director-geral dos Serviços Judiciários.
 
@@ -182,17 +318,17 @@ III
 
 Direcção-Geral dos Serviços Judiciários
 
-###### Art. 6.º - 1. À Direcção-Geral dos Serviços Judiciários incumbe superintender, do ponto de vista administrativo, na organização e funcionamento das instituições judiciárias e efectuar os estudos relativos ao seu funcionamento.
+Art. 6.º - 1. À Direcção-Geral dos Serviços Judiciários incumbe superintender, do ponto de vista administrativo, na organização e funcionamento das instituições judiciárias e efectuar os estudos relativos ao seu funcionamento.
 
 2. O disposto no número anterior não prejudica as atribuições específicas do Conselho Superior Judiciário e da Procuradoria-Geral da República.
 
-###### Art. 7.º São serviços centrais da Direcção-Geral:
+Art. 7.º São serviços centrais da Direcção-Geral:
 
 a) Os serviços técnicos;
 
 b) Os serviços de administração.
 
-###### Art. 8.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos serviços de administração da justiça.
+Art. 8.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos serviços de administração da justiça.
 
 2. Os serviços de administração têm por finalidade dar execução às matérias atinentes aos organismos e serviços indicados no artigo 3.º, que respeitem à gestão do pessoal, do material e dos recursos orçamentais, e outras que constituam simples meio de permitir o exercício de atribuições especificas.
 
@@ -200,11 +336,11 @@ IV
 
 Direcção-Geral dos Registos e do Notariado
 
-###### Art. 9.º A Direcção-Geral dos Registos e do Notariado tem por atribuições orientar os serviços dos registos civil, predial, comercial e de propriedade automóvel, os serviços do notariado e de identificação, superintender na sua organização e funcionamento, e ainda efectuar os estudos relativos ao aperfeiçoamento dos mesmos serviços.
+Art. 9.º A Direcção-Geral dos Registos e do Notariado tem por atribuições orientar os serviços dos registos civil, predial, comercial e de propriedade automóvel, os serviços do notariado e de identificação, superintender na sua organização e funcionamento, e ainda efectuar os estudos relativos ao aperfeiçoamento dos mesmos serviços.
 
-###### Art. 10.º A Direcção-Geral dispõe de serviços centrais e de serviços externos.
+Art. 10.º A Direcção-Geral dispõe de serviços centrais e de serviços externos.
 
-###### Art. 11.º - 1. Os serviços centrais abrangem:
+Art. 11.º - 1. Os serviços centrais abrangem:
 
 a) Os serviços técnicos;
 
@@ -214,31 +350,31 @@ c) Os serviços de administração.
 
 2. Junto dos serviços centrais funciona o conselho técnico.
 
-###### Art. 12.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos, serviços dos registos civil, predial, comercial e de propriedade automóvel, bem como dos serviços do notariado e de identificação.
+Art. 12.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos, serviços dos registos civil, predial, comercial e de propriedade automóvel, bem como dos serviços do notariado e de identificação.
 
 2. Aos serviços de, inspecção cabe fiscalizar a actuação técnica e administrativa dos serviços externos.
 
 3. Os serviços de administração têm por finalidade dar execução a todas as matérias atinentes aos serviços externos que respeitem à gestão do pessoal, do material e dos recursos orçamentais, e outras que constituam simples meio de permitir o exercício de atribuições específicas.
 
-###### Art. 13.º Ao conselho técnico incumbe, em especial, apreciar os processos de inspecção, classificar os funcionários, e ainda emitir parecer sobre reclamações hierárquicas e outros assuntos relativos às funções específicas da Direcção-Geral.
+Art. 13.º Ao conselho técnico incumbe, em especial, apreciar os processos de inspecção, classificar os funcionários, e ainda emitir parecer sobre reclamações hierárquicas e outros assuntos relativos às funções específicas da Direcção-Geral.
 
-###### Art. 14.º - 1. Do conselho técnico, constituído por três secções, fazem parte o director-geral, como presidente, os inspectores superiores, como vogais permanentes, e três vogais nomeados trienalmente pelo Ministro da Justiça, para cada uma das secções, de entre conservadores e notários.
+Art. 14.º - 1. Do conselho técnico, constituído por três secções, fazem parte o director-geral, como presidente, os inspectores superiores, como vogais permanentes, e três vogais nomeados trienalmente pelo Ministro da Justiça, para cada uma das secções, de entre conservadores e notários.
 
 2. Os membros do conselho terão direito a senhas de presença, e ainda a transporte e ajudas de custo quando não residam em Lisboa, constituindo as respectivas despesas encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 15.º Os serviços externos compreendem a Conservatória dos Registos Centrais, os serviços dos registos civil, predial, comercial e de propriedade automóvel e os serviços do notariado e de identificação.
+Art. 15.º Os serviços externos compreendem a Conservatória dos Registos Centrais, os serviços dos registos civil, predial, comercial e de propriedade automóvel e os serviços do notariado e de identificação.
 
 V
 
 Direcção-Geral dos Serviços Prisionais
 
-###### Art. 16.º À Direcção-Geral dos Serviços Prisionais incumbe orientar os serviços de detenção e de execução de penas e medidas de segurança, superintender na sua organização e funcionamento, e efectuar os estudos referentes à prevenção do crime e o tratamento dos delinquentes.
+Art. 16.º À Direcção-Geral dos Serviços Prisionais incumbe orientar os serviços de detenção e de execução de penas e medidas de segurança, superintender na sua organização e funcionamento, e efectuar os estudos referentes à prevenção do crime e o tratamento dos delinquentes.
 
-###### Art. 17.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos, dispondo ainda do Fundo de Fomento e Patronato Prisional.
+Art. 17.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos, dispondo ainda do Fundo de Fomento e Patronato Prisional.
 
 2. A Direcção-Geral goza de autonomia administrativa relativamente às verbas destinadas à realização das obras da sua competência e às do Fundo de Fomento e Patronato Prisional.
 
-###### Art. 18.º - 1. Os serviços centrais abrangem:
+Art. 18.º - 1. Os serviços centrais abrangem:
 
 a) Os serviços técnicos;
 
@@ -246,43 +382,43 @@ b) Os serviços de administração.
 
 2. Junto dos serviços centrais funcionam o conselho técnico e o conselho administrativo.
 
-###### Art. 19.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos serviços de detenção e de execução de penas e medidas de segurança, o estudo da prevenção do crime e do tratamento dos delinquentes, bem como a fiscalização da actuação técnica dos serviços externos.
+Art. 19.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos serviços de detenção e de execução de penas e medidas de segurança, o estudo da prevenção do crime e do tratamento dos delinquentes, bem como a fiscalização da actuação técnica dos serviços externos.
 
 2. Os serviços de administração têm por finalidade dar execução a todas as matérias atinentes aos serviços externos que respeitem à gestão do pessoal, do material e dos recursos orçamentais, e outras que constituam simples meio de permitir o exercício de atribuições especificas, incumbindo-lhes igualmente a fiscalização da actuação administrativa dos serviços externos.
 
-###### Art. 20.º Ao conselho técnico incumbe, em especial, apreciar os processos de inspecção, classificar os funcionários e emitir parecer sobre assuntos relativos às funções específicas da Direcção-Geral.
+Art. 20.º Ao conselho técnico incumbe, em especial, apreciar os processos de inspecção, classificar os funcionários e emitir parecer sobre assuntos relativos às funções específicas da Direcção-Geral.
 
-###### Art. 21.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o inspector superior e o adjunto do director-geral, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre os directores e médicos dos estabelecimentos prisionais.
+Art. 21.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o inspector superior e o adjunto do director-geral, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre os directores e médicos dos estabelecimentos prisionais.
 
 2. Os membros do conselho terão direito a senhas de presença, e ainda a transporte e ajudas de custo quando não residam em Lisboa, constituindo as respectivas despesas encargo do Fundo de Fomento e Patronato Prisional.
 
-###### Art. 22.º Ao conselho administrativo cabe superintender nas matérias relacionadas com as receitas próprias dos estabelecimentos, administra as verbas destinadas à realização das obras da sua competência e zelar pelos
+Art. 22.º Ao conselho administrativo cabe superintender nas matérias relacionadas com as receitas próprias dos estabelecimentos, administra as verbas destinadas à realização das obras da sua competência e zelar pelos
 
 interesses do Fundo de Fomento e Patronato Prisional.
 
-###### Art. 23.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta com o acordo do Ministro da Justiça.
+Art. 23.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta com o acordo do Ministro da Justiça.
 
 2. Os membros do conselho terão direito a uma gratificação, de montante a fixar pelos Ministros da Justiça e das Finanças, que constituirá encargo do Fundo de Fomento e Patronato Prisional.
 
-###### Art. 24.º - 1. Os serviços externos compreendem os estabelecimentos prisionais, os campos e brigadas de trabalho e os institutos de criminologia.
+Art. 24.º - 1. Os serviços externos compreendem os estabelecimentos prisionais, os campos e brigadas de trabalho e os institutos de criminologia.
 
 2. Os anexos psiquiátricos fazem parte dos estabelecimentos junto dos quais funcionam.
 
-###### Art. 25.º O Fundo de Fomento e Patronato Prisional destina-se a arrecadar as receitas e a satisfazer os encargos, relacionados com os serviços prisionais, estabelecidos em regulamento.
+Art. 25.º O Fundo de Fomento e Patronato Prisional destina-se a arrecadar as receitas e a satisfazer os encargos, relacionados com os serviços prisionais, estabelecidos em regulamento.
 
 VI
 
 Direcção-Geral dos Serviços Tutelares de Menores
 
-###### Art. 26.º À Direcção-Geral dos Serviços Tutelares de Menores incumbe orientar os serviços de execução de medidas decretadas pelos tribunais tutelares de menores, superintender na sua organização e funcionamento, e ainda efectuar os estudos referentes à inadaptação social, protecção e defesa dos menores.
+Art. 26.º À Direcção-Geral dos Serviços Tutelares de Menores incumbe orientar os serviços de execução de medidas decretadas pelos tribunais tutelares de menores, superintender na sua organização e funcionamento, e ainda efectuar os estudos referentes à inadaptação social, protecção e defesa dos menores.
 
-###### Art. 27.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos.
+Art. 27.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos.
 
 2. É também a Direcção-Geral órgão da Federação Nacional das Instituições de Protecção à Infância.
 
 3. A Direcção-Geral goza de autonomia administrativa relativamente às verbas destinadas à realização das obras da sua competência e aos fundos da Federação Nacional das Instituições de Protecção à Infância.
 
-###### Art. 28.º - 1. Os serviços centrais abrangem:
+Art. 28.º - 1. Os serviços centrais abrangem:
 
 a) Os serviços técnicos;
 
@@ -290,25 +426,25 @@ b) Os serviços de administração.
 
 2. Junto dos serviços centrais funcionam o conselho técnico e o conselho administrativo.
 
-###### Art. 29.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos serviços de execução de medidas decretadas pelos tribunais tutelares de menores, o estudo da inadaptação social, protecção e defesa dos menores, bem como a fiscalização da actuação técnica e administrativa dos serviços externos.
+Art. 29.º - 1. Aos serviços técnicos incumbe o estudo e execução das matérias relativas às funções específicas dos serviços de execução de medidas decretadas pelos tribunais tutelares de menores, o estudo da inadaptação social, protecção e defesa dos menores, bem como a fiscalização da actuação técnica e administrativa dos serviços externos.
 
 2. Os serviços de administração têm por finalidade dar execução a todas as matérias atinentes aos serviços externos que respeitem à gestão do pessoal, do material e dos recursos orçamentais, e outras que constituam simples meio de permitir o exercício de atribuições específicas.
 
-###### Art. 30.º Ao conselho técnico incumbe, em especial, apreciar os processos de inspecção, classificar os funcionários e emitir parecer sobre assuntos relativos às funções específicas da Direcção-Geral.
+Art. 30.º Ao conselho técnico incumbe, em especial, apreciar os processos de inspecção, classificar os funcionários e emitir parecer sobre assuntos relativos às funções específicas da Direcção-Geral.
 
-###### Art. 31.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o adjunto do director-geral e o chefe da Repartição dos Serviços de Administração, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre directores e médicos dos estabelecimentos tutelares de menores.
+Art. 31.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o adjunto do director-geral e o chefe da Repartição dos Serviços de Administração, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre directores e médicos dos estabelecimentos tutelares de menores.
 
 2. Os membros do conselho terão direito a senhas de presença, e ainda a transporte e ajudas de custo quando não residam em Lisboa, constituindo as respectivas despesas encargo da Federação Nacional das Instituições de Protecção à Infância.
 
-###### Art. 32.º Ao conselho administrativo cabe superintender nas matérias relacionadas com as receitas próprias dos estabelecimentos, administrar as verbas destinadas à realização das obras da sua competência e zelar pelos interesses da Federação Nacional das Instituições de Protecção à Infância.
+Art. 32.º Ao conselho administrativo cabe superintender nas matérias relacionadas com as receitas próprias dos estabelecimentos, administrar as verbas destinadas à realização das obras da sua competência e zelar pelos interesses da Federação Nacional das Instituições de Protecção à Infância.
 
-###### Art. 33.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta com o acordo do Ministro da Justiça.
+Art. 33.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta com o acordo do Ministro da Justiça.
 
 2. Os membros do conselho terão direito a uma gratificação, de montante a fixar pelos Ministros da Justiça e das Finanças, que constituirá encargo da Federação Nacional das Instituições de Protecção à Infância.
 
-###### Art. 34.º Os serviços externos são constituídos pelos estabelecimentos tutelares de menores.
+Art. 34.º Os serviços externos são constituídos pelos estabelecimentos tutelares de menores.
 
-###### Art. 35.º - 1. A Federação Nacional das Instituições de Protecção à Infância é uma pessoa colectiva de direito público, que representa, no Pais e no plano internacional, a união moral e jurídica de todos os serviços e instituições oficiais e particulares que cooperem na defesa e protecção da infância.
+Art. 35.º - 1. A Federação Nacional das Instituições de Protecção à Infância é uma pessoa colectiva de direito público, que representa, no Pais e no plano internacional, a união moral e jurídica de todos os serviços e instituições oficiais e particulares que cooperem na defesa e protecção da infância.
 
 2. Cabe ainda à Federação aplicar os rendimentos do seu património na satisfação das despesas próprias e das relacionadas com os serviços tutelares de menores, nos termos estabelecidos em regulamento.
 
@@ -316,17 +452,17 @@ VII
 
 Instituto de Formação Profissional
 
-###### Art. 36.º O Instituto de Formação Profissional tem por objectivo assegurar a preparação e aperfeiçoamento profissional do funcionalismo do Ministério da Justiça, podendo nele ser organizados, nas condições a estabelecer em regulamento, cursos destinados a substituir os concursos de prestação de provas, sem prejuízo das habilitações legalmente exigidas para o exercício dos cargos.
+Art. 36.º O Instituto de Formação Profissional tem por objectivo assegurar a preparação e aperfeiçoamento profissional do funcionalismo do Ministério da Justiça, podendo nele ser organizados, nas condições a estabelecer em regulamento, cursos destinados a substituir os concursos de prestação de provas, sem prejuízo das habilitações legalmente exigidas para o exercício dos cargos.
 
-###### Art. 37.º As funções docentes no Instituto são asseguradas, em regime de tarefa ou de prestação de serviços eventuais, por professores do ensino superior, funcionários do Ministério da Justiça, magistrados judiciais ou do Ministério Público, de qualquer classe ou categoria, e outros técnicos de reconhecida competência, nacionais ou estrangeiros.
+Art. 37.º As funções docentes no Instituto são asseguradas, em regime de tarefa ou de prestação de serviços eventuais, por professores do ensino superior, funcionários do Ministério da Justiça, magistrados judiciais ou do Ministério Público, de qualquer classe ou categoria, e outros técnicos de reconhecida competência, nacionais ou estrangeiros.
 
 VIII
 
 Centro de Informática
 
-###### Art. 38.º Ao Centro de Informática incumbe promover o processamento automático da informação correspondente às matérias das atribuições do Ministério da Justiça e prestar apoio técnico destinado a ampliar a utilização da informática nos serviços.
+Art. 38.º Ao Centro de Informática incumbe promover o processamento automático da informação correspondente às matérias das atribuições do Ministério da Justiça e prestar apoio técnico destinado a ampliar a utilização da informática nos serviços.
 
-###### Art. 39.º O Centro de Informática compreende:
+Art. 39.º O Centro de Informática compreende:
 
 a) Os serviços de análise e programação;
 
@@ -334,7 +470,7 @@ b) Os serviços de exploração;
 
 c) Os serviços de administração.
 
-###### Art. 40.º - 1. Aos serviços de análise e programação cabe assegurar a análise das aplicações executadas pelo Centro, definir e elaborar a programação necessária para o seu correcto desenvolvimento e manutenção, bem como prestar apoio técnico aos estudos dos projectos de aplicação.
+Art. 40.º - 1. Aos serviços de análise e programação cabe assegurar a análise das aplicações executadas pelo Centro, definir e elaborar a programação necessária para o seu correcto desenvolvimento e manutenção, bem como prestar apoio técnico aos estudos dos projectos de aplicação.
 
 2. Aos serviços de exploração incumbe executar as operações necessárias à eficiente utilização dos computadores e demais equipamento electrónico, promover a correcta entrada dos dados, tomar as providências requeridas para a guarda e processamento da informação e ainda controlar a obtenção dos dados em harmonia com as especificações aprovadas.
 
@@ -344,55 +480,55 @@ IX
 
 Direcção de Serviços dos Cofres
 
-###### Art. 41.º À Direcção de Serviços dos Cofres incumbe administrar as receitas do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 41.º À Direcção de Serviços dos Cofres incumbe administrar as receitas do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 42.º A Direcção de Serviços dos Cofres goza de autonomia administrativa e financeira nos termos da lei em vigor.
+Art. 42.º A Direcção de Serviços dos Cofres goza de autonomia administrativa e financeira nos termos da lei em vigor.
 
 X
 
 Serviços Sociais
 
-###### Art. 43.º Os Serviços Sociais têm por fim auxiliar a satisfação das necessidades de ordem económica, social e cultural dos funcionários do Ministério e desenvolver os laços de solidariedade entre eles.
+Art. 43.º Os Serviços Sociais têm por fim auxiliar a satisfação das necessidades de ordem económica, social e cultural dos funcionários do Ministério e desenvolver os laços de solidariedade entre eles.
 
-###### Art. 44.º - 1. Os Serviços Sociais são dotados de personalidade jurídica e gozam de autonomia administrativa e financeira.
+Art. 44.º - 1. Os Serviços Sociais são dotados de personalidade jurídica e gozam de autonomia administrativa e financeira.
 
 2. Os Serviços Sociais estão isentos de custas e selos. nos processos em que intervenham, e de quaisquer emolumentos, taxas, prémios, contribuições ou impostos, beneficiando também de todas as facilidades conferidas por lei às instituições oficiais de assistência.
 
-###### Art. 45.º Os Serviços Sociais não dispõem de pessoal próprio e o seu funcionamento será assegurado pelos funcionários do quadro da Direcção de Serviços dos Cofres.
+Art. 45.º Os Serviços Sociais não dispõem de pessoal próprio e o seu funcionamento será assegurado pelos funcionários do quadro da Direcção de Serviços dos Cofres.
 
 XI
 
 Pessoal
 
-###### Art. 46.º - 1. Os quadros do pessoal pago pelo Orçamento Geral do Estado constam dos mapas anexos ao presente diploma e leis especiais.
+Art. 46.º - 1. Os quadros do pessoal pago pelo Orçamento Geral do Estado constam dos mapas anexos ao presente diploma e leis especiais.
 
 2. Os quadros do pessoal de carácter permanente, pago pelos orçamentos de receitas próprias dos estabelecimentos prisionais e tutelares de menores, e respectivas remunerações, são fixados pelo Ministro da Justiça, de harmonia . com os princípios consignados no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 3. O disposto nos números antecedentes não prejudica o que se acha especialmente previsto na lei quanto ao pessoal além dos quadros dos estabelecimentos prisionais.
 
-###### Art. 47.º O número de lugares das carreiras de educadores, orientadores sociais e pessoal de vigilância, constantes dos mapas anexos a que se refere o artigo anterior, poderá ser alterado, mediante despacho dos Ministros da Justiça e das Finanças, à medida que as necessidades dos serviços o justifiquem.
+Art. 47.º O número de lugares das carreiras de educadores, orientadores sociais e pessoal de vigilância, constantes dos mapas anexos a que se refere o artigo anterior, poderá ser alterado, mediante despacho dos Ministros da Justiça e das Finanças, à medida que as necessidades dos serviços o justifiquem.
 
-###### Art. 48.º O pessoal do Ministério pode ser organizado em quadros únicos, nas condições a fixar em decreto do Ministro da Justiça.
+Art. 48.º O pessoal do Ministério pode ser organizado em quadros únicos, nas condições a fixar em decreto do Ministro da Justiça.
 
-###### Art. 49.º - 1. O Ministro poderá autorizar que seja contratado além dos quadros pessoal técnico ou administrativo, destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 49.º - 1. O Ministro poderá autorizar que seja contratado além dos quadros pessoal técnico ou administrativo, destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2. Poderá, contudo, ser prestada, mediante acto médico, a actividade dos médicos que se não revista de carácter regular.
 
-###### Art. 50.º - 1. É permitida a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições do Ministério da Justiça.
+Art. 50.º - 1. É permitida a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições do Ministério da Justiça.
 
 2. A duração, termos e remuneração dos contratos de prestação de serviços, bem como dos estudos, inquéritos e trabalhos de carácter eventual, previstos no número anterior, serão estabelecidos por despacho ministerial.
 
 3. As remunerações fixadas nos termos do número antecedente serão pagas por força de verba global a inscrever para tal fim no orçamento do Gabinete do Ministro.
 
-###### Art. 51.º - 1. Os directores dos estabelecimentos prisionais, campos e brigadas de trabalho podem, mediante autorização do Ministro da Justiça, admitir assalariados eventuais para colaborarem na vigilância dos reclusos.
+Art. 51.º - 1. Os directores dos estabelecimentos prisionais, campos e brigadas de trabalho podem, mediante autorização do Ministro da Justiça, admitir assalariados eventuais para colaborarem na vigilância dos reclusos.
 
 2. As remunerações dos assalariados admitidos são satisfeitas em conta das disponibilidades da verba do pessoal de vigilância, até ao limite das respectivas vagas, ou das verbas destinadas às obras ou às actividades económicas.
 
 3. O serviço dos assalariados é equiparado, na forma de prestação, ao dos guardas dos serviços prisionais.
 
-###### Art. 52.º O pessoal técnico, administrativo e auxiliar pode, sempre que conveniente e por determinação do Ministro da Justiça, ser transferido para serviço diverso, caso haja vaga na respectiva categoria.
+Art. 52.º O pessoal técnico, administrativo e auxiliar pode, sempre que conveniente e por determinação do Ministro da Justiça, ser transferido para serviço diverso, caso haja vaga na respectiva categoria.
 
-###### Art. 53.º - 1. Independentemente dos lugares que por sua natureza pressupõem habilitação especial, para admissão aos lugares abaixo indicados são exigíveis as seguintes habilitações:
+Art. 53.º - 1. Independentemente dos lugares que por sua natureza pressupõem habilitação especial, para admissão aos lugares abaixo indicados são exigíveis as seguintes habilitações:
 
 a) Dirigentes de categoria igual ou superior à letra F ou remunerados por gratificação, e técnicos de categoria igual ou superior letra J ou remunerados por gratificação - curso superior adequado;
 
@@ -410,13 +546,13 @@ g) Mestres de carpinteiros, marceneiros, serralheiros, electricistas, artes grá
 
 2. Um dos lugares de director de estabelecimento prisional pode ser provido em oficial das forças armadas, no activo ou na reserva.
 
-###### Art. 54.º - 1. Salvo o disposto em lei especial, o provimento dos lugares de categoria igual ou inferior à letra S é feito por contrato e o dos lugares de categoria superior mediante nomeação.
+Art. 54.º - 1. Salvo o disposto em lei especial, o provimento dos lugares de categoria igual ou inferior à letra S é feito por contrato e o dos lugares de categoria superior mediante nomeação.
 
 2. As nomeações para os lugares de ingresso têm carácter provisório durante dois anos, prorrogáveis por mais um ano; findo o período inicial ou a sua prorrogação, o funcionário é provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
-###### Art. 55.º Quando se mostre conveniente, os lugares do pessoal dirigente e técnico podem também ser providos em comissão de serviço.
+Art. 55.º Quando se mostre conveniente, os lugares do pessoal dirigente e técnico podem também ser providos em comissão de serviço.
 
-###### Art. 56.º - 1. Salvo o disposto em lei especial, para cargos dependentes do Ministério da Justiça as nomeações em comissão de serviço serão por tempo indeterminado.
+Art. 56.º - 1. Salvo o disposto em lei especial, para cargos dependentes do Ministério da Justiça as nomeações em comissão de serviço serão por tempo indeterminado.
 
 2. Se o provimento recair em funcionário público ou administrativo, as nomeações abrem vaga nos quadros de origem, mas os funcionários podem regressar aos mesmos, a seu pedido, desde que neles haja vaga.
 
@@ -428,11 +564,11 @@ g) Mestres de carpinteiros, marceneiros, serralheiros, electricistas, artes grá
 
 6. Quando a nomeação seja para lugares integrados em carreiras, os comissionados são também abrangidos nas promoções da respectiva carreira.
 
-###### Art. 57.º - 1. Se a nomeação em comissão de serviço, para cargos dependentes do Ministério da Justiça, recair em magistrados ou funcionários do mesmo Ministério, os comissionados conservam todos os direitos e regalias do quadro de origem, como se nele exercessem funções, e podem optar pelos respectivos vencimentos e outros abonos.
+Art. 57.º - 1. Se a nomeação em comissão de serviço, para cargos dependentes do Ministério da Justiça, recair em magistrados ou funcionários do mesmo Ministério, os comissionados conservam todos os direitos e regalias do quadro de origem, como se nele exercessem funções, e podem optar pelos respectivos vencimentos e outros abonos.
 
 2. Para efeitos do disposto no número anterior, os emolumentos variáveis são calculados com base na média anual da participação líquida apurada no triénio imediatamente anterior ao início da comissão de serviço, e, se o ordenado do cargo de origem exceder o correspondente ao cargo da comissão, a diferença é suportada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 58.º - 1. Os funcionários do Ministério da Justiça podem ser nomeados, mediante autorização do Ministro, para o desempenho de comissões temporárias de serviço público, nos termos da lei.
+Art. 58.º - 1. Os funcionários do Ministério da Justiça podem ser nomeados, mediante autorização do Ministro, para o desempenho de comissões temporárias de serviço público, nos termos da lei.
 
 2. É considerado, para todos os efeitos, como prestado nos quadros a que pertençam o tempo de serviço prestado pelos comissionados, bem como o que respeite ao exercício de funções governamentais, de chefe de gabinete ou secretário de membros do Governo, de deputado ou de governador civil.
 
@@ -440,66 +576,66 @@ g) Mestres de carpinteiros, marceneiros, serralheiros, electricistas, artes grá
 
 4. Os magistrados judiciais e do Ministério Público continuam, porém, sujeitos ao regime estabelecido no Estatuto Judiciário.
 
-###### Art. 59.º Nos estabelecimentos prisionais e tutelares de menores, terão direito a gratificação de chefia, a fixar por despacho dos Ministros da Justiça e das Finanças, os oficiais administrativos que, por despacho do Ministro da Justiça, sejam designados chefes de secretaria, de contabilidade e de economato.
+Art. 59.º Nos estabelecimentos prisionais e tutelares de menores, terão direito a gratificação de chefia, a fixar por despacho dos Ministros da Justiça e das Finanças, os oficiais administrativos que, por despacho do Ministro da Justiça, sejam designados chefes de secretaria, de contabilidade e de economato.
 
-###### Art. 60.º Aos funcionários dos serviços prisionais e dos serviços tutelares de menores que prestem funções em campos ou brigadas de trabalho, bem como em quaisquer actividades estranhas às suas atribuições normais, e fora do horário normal, pode ser atribuída uma gratificação, a fixar pelo Ministro da Justiça, e paga, consoante os casos, pelos orçamentos da obra, das receitas próprias dos estabelecimentos, do Fundo de Fomento e Patronato Prisional ou da Federação Nacional das Instituições de Protecção à Infância.
+Art. 60.º Aos funcionários dos serviços prisionais e dos serviços tutelares de menores que prestem funções em campos ou brigadas de trabalho, bem como em quaisquer actividades estranhas às suas atribuições normais, e fora do horário normal, pode ser atribuída uma gratificação, a fixar pelo Ministro da Justiça, e paga, consoante os casos, pelos orçamentos da obra, das receitas próprias dos estabelecimentos, do Fundo de Fomento e Patronato Prisional ou da Federação Nacional das Instituições de Protecção à Infância.
 
-###### Art. 61.º Aos funcionários encarregados das tesourarias dos conselhos administrativos das Direcções-Gerais dos Serviços Prisionais e dos Serviços Tutelares de Menores, bem como das tesourarias dos estabelecimentos prisionais e tutelares de menores, será concedido um abono para falhas, nos termos do artigo 17.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 61.º Aos funcionários encarregados das tesourarias dos conselhos administrativos das Direcções-Gerais dos Serviços Prisionais e dos Serviços Tutelares de Menores, bem como das tesourarias dos estabelecimentos prisionais e tutelares de menores, será concedido um abono para falhas, nos termos do artigo 17.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 62.º O pessoal de vigilância dos serviços prisionais tem direito ao subsídio diário de alimentação que anualmente for fixado por despacho dos Ministros da Justiça e das Finanças.
+Art. 62.º O pessoal de vigilância dos serviços prisionais tem direito ao subsídio diário de alimentação que anualmente for fixado por despacho dos Ministros da Justiça e das Finanças.
 
-###### Art. 63.º Os médicos que pretendam prestar menos de trinta e seis horas de serviço por semana ou acumular as suas funções com outro cargo público podem passar a regime de tempo parcial, mediante autorização do Ministro da Justiça.
+Art. 63.º Os médicos que pretendam prestar menos de trinta e seis horas de serviço por semana ou acumular as suas funções com outro cargo público podem passar a regime de tempo parcial, mediante autorização do Ministro da Justiça.
 
-###### Art. 64.º Os médicos, farmacêuticos, pessoal de enfermagem e dos serviços auxiliares de diagnóstico e terapêutica que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas terão direito à remuneração complementar que legalmente se encontrar estabelecida para as mesmas categorias de pessoal dos serviços do Ministério da Saúde e Assistência.
+Art. 64.º Os médicos, farmacêuticos, pessoal de enfermagem e dos serviços auxiliares de diagnóstico e terapêutica que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas terão direito à remuneração complementar que legalmente se encontrar estabelecida para as mesmas categorias de pessoal dos serviços do Ministério da Saúde e Assistência.
 
-###### Art. 65.º O pessoal de enfermagem habilitado com alguma das especialidades legalmente reconhecidas tem direito a um acréscimo de 20 por cento das suas remunerações quando colocado em exercício efectivo dessas especialidades.
+Art. 65.º O pessoal de enfermagem habilitado com alguma das especialidades legalmente reconhecidas tem direito a um acréscimo de 20 por cento das suas remunerações quando colocado em exercício efectivo dessas especialidades.
 
-###### Art. 66.º A assistência religiosa na Prisão-Sanatório da Guarda pode ser remunerada mediante gratificação, a fixar por despacho dos Ministros da Justiça e das Finanças.
+Art. 66.º A assistência religiosa na Prisão-Sanatório da Guarda pode ser remunerada mediante gratificação, a fixar por despacho dos Ministros da Justiça e das Finanças.
 
-###### Art. 67.º Os motoristas dos serviços tutelares de menores e os guardas motoristas dos serviços prisionais têm direito a fardamento, nos termos do artigo 34.º do [Decreto-Lei n.º 40876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40876-1956-298634), de 24 de Novembro de 1956.
+Art. 67.º Os motoristas dos serviços tutelares de menores e os guardas motoristas dos serviços prisionais têm direito a fardamento, nos termos do artigo 34.º do [Decreto-Lei n.º 40876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40876-1956-298634), de 24 de Novembro de 1956.
 
-###### Art. 68.º O plano de fardamento do pessoal de vigilância dos serviços prisionais, incluindo o dos guardas motoristas, será aprovado pelo Ministro da Justiça.
+Art. 68.º O plano de fardamento do pessoal de vigilância dos serviços prisionais, incluindo o dos guardas motoristas, será aprovado pelo Ministro da Justiça.
 
-###### Art. 69.º Têm residência obrigatória junto dos estabelecimentos prisionais e tutelares de menores os directores, os chefes de secretaria e de economato, os enfermeiros, o pessoal de vigilância, os motoristas e outros funcionários que, por determinação do Ministro da Justiça, mediante proposta da respectiva Direcção-Geral, devam ser considerados em serviço permanente.
+Art. 69.º Têm residência obrigatória junto dos estabelecimentos prisionais e tutelares de menores os directores, os chefes de secretaria e de economato, os enfermeiros, o pessoal de vigilância, os motoristas e outros funcionários que, por determinação do Ministro da Justiça, mediante proposta da respectiva Direcção-Geral, devam ser considerados em serviço permanente.
 
 XII
 
 Disposições finais e transitórias
 
-###### Art. 70.º A redacção dos preceitos legais que insiram designações alteradas pelo presente diploma considera-se modificada por forma a que neles figurem as novas designações adoptadas.
+Art. 70.º A redacção dos preceitos legais que insiram designações alteradas pelo presente diploma considera-se modificada por forma a que neles figurem as novas designações adoptadas.
 
-###### Art. 71.º - 1. Os dirigentes dos serviços mencionados no artigo 1.º podem receber delegação de competência do Ministro da Justiça para despachar assuntos relativos às funções de administração que corram pelos respectivos serviços.
+Art. 71.º - 1. Os dirigentes dos serviços mencionados no artigo 1.º podem receber delegação de competência do Ministro da Justiça para despachar assuntos relativos às funções de administração que corram pelos respectivos serviços.
 
 2. Pelo que respeita às funções específicas, a delegação de competência é também admitida, quanto à prática dos actos mais correntes ou repetidos e ainda dos especialmente previstos nos regulamentos do presente diploma.
 
-###### Art. 72.º O primeiro provimento dos lugares dos quadros constantes dos mapas anexos pode ser feito directamente para qualquer das categorias ou classes e sem dependência do tempo de serviço prestado em categoria anterior.
+Art. 72.º O primeiro provimento dos lugares dos quadros constantes dos mapas anexos pode ser feito directamente para qualquer das categorias ou classes e sem dependência do tempo de serviço prestado em categoria anterior.
 
-###### Art. 73.º - 1. O actual pessoal de enfermagem que não possua os cursos correspondentes às funções que exerce continuará a perceber as remunerações que presentemente aufere.
+Art. 73.º - 1. O actual pessoal de enfermagem que não possua os cursos correspondentes às funções que exerce continuará a perceber as remunerações que presentemente aufere.
 
 2. Os enfermeiros habilitados com o curso de auxiliar de enfermagem terão, porém, direito à remuneração correspondente a auxiliar de enfermagem de 1.ª classe.
 
-###### Art. 74.º Extinguir-se-ão, à medida que vagarem, os actuais cargos que ultrapassem o número de lugares previstos nos mapas anexos.
+Art. 74.º Extinguir-se-ão, à medida que vagarem, os actuais cargos que ultrapassem o número de lugares previstos nos mapas anexos.
 
-###### Art. 75.º - 1. A colocação dos actuais funcionários nos lugares correspondentes dos mapas anexos far-se-á mediante publicação no Diário do Governo de listas nominativas assinadas pelo Ministro da Justiça, considerando-se providos nos novos cargos sem dependência de outra formalidade que não seja a anotação pelo Tribunal de Contas.
+Art. 75.º - 1. A colocação dos actuais funcionários nos lugares correspondentes dos mapas anexos far-se-á mediante publicação no Diário do Governo de listas nominativas assinadas pelo Ministro da Justiça, considerando-se providos nos novos cargos sem dependência de outra formalidade que não seja a anotação pelo Tribunal de Contas.
 
 2. Se, por qualquer motivo, aos funcionários incluídos nas listas nominativas vierem a corresponder remunerações inferiores ás que auferiam anteriormente, a diferença deverá ser-lhes abonada, nos termos da parte final do n.º 2 do artigo 57.º
 
 3. Os funcionários pagos pelo Orçamento Geral do Estado que vierem a ser colocados em lugares pagos pelos orçamentos de receitas próprias dos estabelecimentos conservam as regalias a que tinham direito à data da publicação do presente diploma.
 
-###### Art. 76.º O Ministro da Justiça fará publicar os regulamentos necessários à execução do presente diploma; enquanto não forem publicados, observar-se-ão, com as indispensáveis adaptações, os preceitos legais vigentes.
+Art. 76.º O Ministro da Justiça fará publicar os regulamentos necessários à execução do presente diploma; enquanto não forem publicados, observar-se-ão, com as indispensáveis adaptações, os preceitos legais vigentes.
 
-###### Art. 77.º - 1. O presente diploma entra em vigor no dia 1 de Janeiro de 1973.
+Art. 77.º - 1. O presente diploma entra em vigor no dia 1 de Janeiro de 1973.
 
 2. As listas nominativas a que se refere o artigo 75.º podem, contudo, ser publicadas antes da entrada em vigor deste decreto-lei e, se o não forem, as remunerações dos actuais funcionários serão satisfeitas pelas dotações consignadas a vencimentos e salários dos respectivos quadros do Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 2 de Dezembro de 1972.**
+Promulgado em 2 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29300/19761985.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29300/19761985.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29300/19761985.pdf)
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20800/25842584.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1980-464030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4567356596a22ba9a9023dc69edb840b0896204e8495a466b689aafc9ce6946
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de306a21d6d354b3b5891bb54d22abd238acbc98f644704059a59edcf1d465ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684231:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:36Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +111,16 @@ Considerando que, apesar do disposto no artigo 8.º do [Decreto-Lei n.º 290/75]
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Consideram-se regularizados, para todos os efeitos legais, incluindo abono de vencimentos, os provimentos de todos aqueles que entraram em exercício de funções como directores das escolas do magistério primário, independentemente de despacho de nomeação e demais formalidades legais, desde o início do ano lectivo de 1974/1975 até ao final do ano lectivo de 1978/1979. A regularização abrange o período em que as mesmas funções foram exercidas.
+Artigo 1.º - 1 - Consideram-se regularizados, para todos os efeitos legais, incluindo abono de vencimentos, os provimentos de todos aqueles que entraram em exercício de funções como directores das escolas do magistério primário, independentemente de despacho de nomeação e demais formalidades legais, desde o início do ano lectivo de 1974/1975 até ao final do ano lectivo de 1978/1979. A regularização abrange o período em que as mesmas funções foram exercidas.
 
 2 - Consideram-se também regularizados os abonos efectuados no período referido no número anterior, da gratificação mensal de 2000$00, prevista no [Decreto-Lei n.º 102/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1973-684231), de 13 de Março.
 
-###### Art. 2.º Considera-se, para todos os efeitos legais, como tendo cessado, a partir de 1 de Outubro de 1979, o abono das gratificações a que se refere o n.º 2 do artigo anterior, de acordo com o disposto no artigo 7.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+Art. 2.º Considera-se, para todos os efeitos legais, como tendo cessado, a partir de 1 de Outubro de 1979, o abono das gratificações a que se refere o n.º 2 do artigo anterior, de acordo com o disposto no artigo 7.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro. - Vítor Pereira Crespo.
 
-**Promulgado em 27 de Agosto de 1980.**
+Promulgado em 27 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

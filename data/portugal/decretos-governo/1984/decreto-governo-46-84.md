@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/46-1984-382270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4fa1ef154f907a2a86ff997ecbedb10b46e23ab06dca17e81881a87748fed3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ec8ed7e2f1edad469dfc4a3a6e538c9e4c8e53d6d616e5d6833b1e495ae9fc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Científica
+- Cooperação Técnica
+- Cooperante
+- Forças Armadas
+- Lisboa
+- Portugal
+relationships:
+- type: corrected_by
+  target: pt:dre:308124:por
+  label: Rectificado pela DECL.DD5368.12.09.1984.PCM, DR.IS [227]Supl de 29.09.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-308124
+  date: '1984-09-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:11Z'
   warnings: []
   errors: []
 ---
@@ -87,35 +100,35 @@ de 7 de Agosto
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional n.º 2 ao Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República de Cabo Verde, assinado em 30 de Novembro de 1979, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Protocolo Adicional n.º 2 ao Acordo de Cooperação Científica e Técnica entre a República Portuguesa e a República de Cabo Verde, assinado em 30 de Novembro de 1979, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1984. - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.
 
-**Assinado em 24 de Julho de 1984.**
+Assinado em 24 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Julho de 1984.**
+Referendado em 25 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Protocolo Adicional n.º 2 ao Acordo de Cooperação Científica e Técnica entre Portugal e Cabo Verde
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Quando a execução das tarefas de cooperação solicitadas por uma Parte à outra for do âmbito das Forças Armadas e envolver a deslocação de pessoal destas para o Estado solicitante, o Estado solicitado, para prestar e coordenar as referidas tarefas de cooperação, poderá estabelecer no Estado solicitante uma missão militar integrada na embaixada e na dependência do embaixador.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Ao pessoal cooperante a que se refere o artigo precedente serão aplicáveis as disposições previstas na Convenção de Viena sobre Relações Diplomáticas para os Membros do Pessoal Administrativo e Técnico das Missões Diplomáticas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Não serão aplicáveis a este pessoal cooperante as disposições do Acordo de Cooperação Científica e Técnica referentes ao Estatuto do Cooperante.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Serão previamente notificadas ao Estado solicitante com uma antecedência mínima de 30 dias:
 
@@ -123,13 +136,13 @@ a) A nomeação dos membros da missão, a sua chegada e partida definitiva e o t
 
 b) A chegada e partida de pessoas pertencentes aos agregados familiares dos membros da missão, bem como quaisquer alterações entretanto verificadas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - O presente Protocolo entrará em vigor 30 dias após a respectiva assinatura e terá a duração de 3 anos, renováveis por períodos iguais e sucessivos, se não for denunciado por qualquer das Partes.
 
 2 - A denúncia deverá ser notificada com antecedência nunca inferior a 180 dias relativamente aos termos do período inicial ou das renovações.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 O suporte dos encargos financeiros decorrentes da aplicação do presente Protocolo será acordado entre os respectivos Governos, no âmbito do Acordo de Cooperação Científica e Técnica em vigor.
 

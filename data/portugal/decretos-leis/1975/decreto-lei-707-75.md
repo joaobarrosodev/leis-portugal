@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29200/20892091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/707-1975-310999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04c5f59abbd69b228b33231fafbf963d198c10683606df6f3ce2d14ae65b68e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 800409b85f123fd5a77dd6f709efb8d058718c91b624102c7f077e25ddf2e0d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aposentação
+- Extinção de Serviços
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Quadro Geral de Adidos
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:475707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:29Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +116,7 @@ Considerando a necessidade de estabelecer as regras a que deverá obedecer a int
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Destino do pessoal das corporações)
 
@@ -107,7 +128,7 @@ b) Aposentação;
 
 c) Ingresso no quadro geral de adidos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Destino dos funcionários em regime de requisição)
 
@@ -117,7 +138,7 @@ c) Ingresso no quadro geral de adidos.
 
 3. Os funcionários a que se refere o número anterior deverão, logo que possível, ser integrados nos quadros, designadamente, quando os serviços forem objecto de reorganização.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Aposentação dos funcionários do Estado que prestam serviço nas corporações)
 
@@ -129,13 +150,13 @@ b) Estarem requisitados há quinze ou mais anos nas corporações.
 
 2. Os funcionários que se encontrem nas condições referidas no número anterior poderão optar pela remuneração que auferiam na corporação requisitante, para base do cálculo da pensão de aposentação, a qual nunca poderá ultrapassar, ao ser-lhes atribuída, o montante mensal de 13900$00.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Proibição de acumulações e caducidade dos contratos de trabalho)
 
 Salvo os casos de acumulação a que entretanto tenha sido posto termo, caducam, a partir da data da entrada em vigor deste diploma, os contratos de trabalho celebrados entre as corporações e os seus trabalhadores que acumulem funções retribuídas com qualquer cargo, também remunerado, do Estado ou dele dependente, nomeadamente, das autarquias locais, organismos de coordenação económica, instituições de previdência e quaisquer outras pessoas colectivas de utilidade pública administrativa.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Ingresso no quadro geral de adidos)
 
@@ -147,13 +168,13 @@ Salvo os casos de acumulação a que entretanto tenha sido posto termo, caducam,
 
 4. O pessoal que já se encontra a prestar serviço em regime de destacamento em serviços ou organismos públicos, considerar-se-á em regime de requisição a partir da data da entrada em vigor do presente diploma, sem prejuízo do disposto no n.º 1 deste artigo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Inscrição na Caixa Geral de Aposentações)
 
 O pessoal a que se refere o artigo anterior fica inscrito na Caixa Geral de Aposentações a partir da entrada em vigor deste diploma, sendo-lhe aplicável o disposto no n.º 3 do artigo 53.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, relativo ao Estatuto da Aposentação, com dispensa do requisito fixado no artigo 4.º do mesmo diploma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Aspectos financeiros)
 
@@ -165,25 +186,25 @@ b) Funcionários que se encontrem destacados e que, nos termos do n.º 4 do arti
 
 2. Serão satisfeitas pela Direcção-Geral da Função Pública as remunerações do pessoal que permaneça na disponibilidade.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Providências orçamentais)
 
-**O Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública, adoptará, no prazo de trinta dias, as providências necessárias à boa execução deste diploma, designadamente, introduzindo as alterações indispensáveis no Orçamento Geral do Estado.**
+O Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública, adoptará, no prazo de trinta dias, as providências necessárias à boa execução deste diploma, designadamente, introduzindo as alterações indispensáveis no Orçamento Geral do Estado.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Antiguidade dos agentes)
 
 Para efeitos de antiguidade dos agentes a que se refere este diploma, será levado em linha de conta o tempo de serviço prestado nas corporações.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Resolução de dúvidas e casos omissos)
 
 As dúvidas, bem como os casos omissos suscitados na execução deste diploma, serão esclarecidos por despacho dos Ministros interessados.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Entrada em vigor)
 
@@ -191,14 +212,14 @@ Este diploma entra em vigor em 1 de Dezembro de 1975.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - João Pedro Tomás Rosa.
 
-**Promulgado em 11 de Dezembro de 1975.**
+Promulgado em 11 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tabela de equivalências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29200/20892091.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29200/20892091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29200/20892091.pdf)
 
-**O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro do Trabalho, João Pedro Tomás Rosa.**
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro do Trabalho, João Pedro Tomás Rosa.

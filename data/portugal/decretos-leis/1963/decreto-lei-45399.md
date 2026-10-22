@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 281/1963, 1º Suplemento, Série I de 1963-11-30
   number: '281'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1850 - 1887
   pdf_url: https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf
 entry_into_force_dates: []
@@ -46,40 +46,348 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72bd8cb9198ac21b0aba3e468c0bfbc5e45185e8e23931266ae4c6ef657aecf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a5c30221b57069812c61f353fa2292319f2fd7ea67a75e4bba95386f66fab89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
+- Impresso
+- Isenção Fiscal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:612871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537212:por
+  label: "Aditada a al. z) ao nº1 do art. 8º do Código do Imposto Complementar, aprovado pelo presente diploma, pelo DEC LEI.45977.19.10.1964.MF,\
+    \ DG.IS [245] de 19.10.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45977-1964-537212
+  date: '1964-10-19'
+- type: amended_by
+  target: pt:dre:294480:por
+  label: "Alterado o art. 33º do Código do Imposto Complementar, aprovado pelo presente diploma, pelo DEC LEI.46369.07.06.1965.MF,\
+    \ DG.IS [127] de 07.06.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46369-1965-294480
+  date: '1965-06-07'
+- type: amended_by
+  target: pt:dre:390272:por
+  label: "Alterada a al. n) do nº 1º do art. 8º e suprimida a al. o) do nº 1º do art. 8º do Código, pelo DEC LEI.47914.07.09.1967.MF,\
+    \ DG.IS [209] de 07.09.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47914-1967-390272
+  date: '1967-09-07'
+- type: amended_by
+  target: pt:dre:234926:por
+  label: "Alterados os arts. 15º, 29º e 85º do Código do Imposto Complementar, aprovado pelo presente diploma, pelo DEC LEI.48316.05.04.1968.MF,\
+    \ DG.IS [82] de 05.04.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48316-1968-234926
+  date: '1968-04-05'
+- type: amended_by
+  target: pt:dre:213067:por
+  label: "Dada nova redacção aos arts. 33º e 124º do Código do Imposto Complementar pelo DEC LEI.49483.30.12.1969.MF, DG.IS\
+    \ [303] de 30.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49483-1969-213067
+  date: '1969-12-30'
+- type: amended_by
+  target: pt:dre:632018:por
+  label: "Aditados um nº 1º ao art. 8º e um § único ao art. 111º do Código do Imposto Complementar pelo DEC LEI.542/71.06.12.1971.MF,\
+    \ DG.IS [285] de 06.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/542-1971-632018
+  date: '1971-12-06'
+- type: amended_by
+  target: pt:dre:407906:por
+  label: "Alterado o artigo 33.º do Código, pelo DEC LEI.718/73.31.12.1973.MF, DG.IS [302] de 31.12.1973, nos termos do seu\
+    \ artigo 8.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/718-1973-407906
+  date: '1973-12-31'
+- type: amended_by
+  target: pt:dre:401755:por
+  label: "Alterada a tabela das taxas do imposto complementar, secção A, a que se refere o art. 33º (na redacção dada pelo\
+    \ Dec Lei 718/73 de 31-Dez) do Código do Imposto Complementar pelo DEC LEI.375/74.20.08.1974.MF, DG.IS [193-Supl] de 20.08.1974\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1974-401755
+  date: '1974-08-20'
+- type: amended_by
+  target: pt:dre:355305:por
+  label: "Alterados os arts. 16º, 41º, 43º, 44º, 55º, 56º, 61º, 62º, 69º, 83º, 84º, 85º, 88º, 89º, 91º, 92º, 93º, 96º, 97º,\
+    \ 100º, 102º, 103º, 104º, 106º, 107º, 161º, aditados os arts. 86º-A, 93º-A, 94º-A, 97º-A.«, 97º-B, 103º-A, 103º-B, 105º-A,\
+    \ 106º-A, 108º-A, 108º-B, 160º-A e eliminados os arts. 98º, 99º, 101º e 108º do Código do Imposto Complementar, pelo DEC\
+    \ LEI.756/75.31.12.1975.MF, DG.IS [300]3ºSupl de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/756-1975-355305
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:281826:por
+  label: "Eliminados os arts. 66º, 93º-A, 108º-A e o § 1º do art. 124º e dada nova redacção aos arts. 4º, 7º, 8º, 9º, 11º,\
+    \ 14º, 15º, 16º, 17º, 18º, 21º, 22º, 23º, 24º, 25º, 26º, 27º, 29º, 30º, 35º, 39º, 40º, 45º, 47º, 48º, 49º, 50º, 51º, 59º,\
+    \ 64º, 65º, 93º, 97º-B, 103º-A, 107º, 111º, 125º e 126º, todos do Código do Imposto Complementar aprovado pelo presente\
+    \ dploma, com a redacção conferida no Dec Lei 756/75 de 31-Dez, e aditados ao mesmo Código os seguintes arts.: 8º-A, 25º-A,\
+    \ 30º-A, 68º-A e 150º-A, pelo DEC LEI.225-C/76.31.03.1976.MF, DG.IS [77-2ºSupl] de 31.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-c-1976-281826
+  date: '1976-03-31'
+- type: amended_by
+  target: pt:dre:427810:por
+  label: Substituidas a declaração modelo n.º 1 e a relação modelo n.º 5 anexas ao Código do Imposto Complementar pelo(a)
+    Declaração - Diário da República n.º 107/1976, Série I de 1976-05-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427810
+  date: '1976-05-07'
+- type: amended_by
+  target: pt:dre:430006:por
+  label: "Alterados os arts. 14º, 30º, 33º, 37º, 94º e aditada al. z) ao nº 1 do art. 8º todos do Código, pelo DEC LEI.667/76.1976.08.05.MF,\
+    \ DR.IS [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/667-1976-430006
+  date: '1976-08-05'
+- type: amended_by
+  target: pt:dre:140075:por
+  label: "Alterados os arts. 111º, 113º, 158º e revogados os arts. 128º a 141º e 151º a 153º do Código pelo DEC LEI.150/77.1977.04.13.MF,\
+    \ DR.IS [86] de 13.04.1977 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1977-140075
+  date: '1977-04-13'
+- type: amended_by
+  target: pt:dre:253192:por
+  label: "Alterados os arts. 3º, 84º e 124º do Código, pela LEI.40/77.1977.06.17.AR, DR.IS [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-1977-253192
+  date: '1977-06-17'
+- type: amended_by
+  target: pt:dre:286091:por
+  label: "Alterados os arts. 24º, 25º, 25º-A, 26º, 27º, 65º e 125º e aditados os arts. 21º-A e 25º-B ao Código do Imposto\
+    \ Complementar, pelo DEC LEI.390/77.15.09.1977.MF, DR.IS [214] de 15.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1977-286091
+  date: '1977-09-15'
+- type: amended_by
+  target: pt:dre:533775:por
+  label: "Alterados os arts. 8º, 11º, 28º, 29º, 85º, 86º, 88º e 91º do Código do Imposto Complementar pelo DEC LEI.172-A/78.1978.07.07.MFP,DR.IS\
+    \ [154]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-a-1978-533775
+  date: '1978-07-07'
+- type: amended_by
+  target: pt:dre:325327:por
+  label: "Alterado o corpo do art. 102º do Código do Imposto Complementar, aprovado no presente diploma, com a redacção constante\
+    \ do Dec lei 756/75 de 31-Dez, pelo DEC LEI.429/78.1978.12.27.MFP,DR.IS [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/429-1978-325327
+  date: '1978-12-27'
+- type: amended_by
+  target: pt:dre:377903:por
+  label: "Alterado o art. 3º pelo DEC LEI.275/79.1979.08.06.MFP,DR.IS [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1979-377903
+  date: '1979-08-06'
+- type: amended_by
+  target: pt:dre:364105:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma contida no art. 7º do Dec Lei 667/76 de\
+    \ 05-Ago, na parte em que dá nova redacção ao art. 33º do Código do Imposto Complementar, pela RES.307/79.1979.10.17.CR,DR.IS\
+    \ [248] de 26/Out/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/307-1979-364105
+  date: '1979-10-17'
+- type: amended_by
+  target: pt:dre:324951:por
+  label: "Alterados os arts. 2º, 4º, 7º, 8º, 8º-A, 11º, 12º, 14º, 15º, 16º, 17º, 18º, 19º, 20º, 28º, 29º, 33º, 38º, 86º, 86º-A,\
+    \ 94º e 96º e aditados os arts. 56º-A, 56º-B, 64º-A, 68º-B e 72º-A ao Código pelo DEC LEI.183-F/80.1980.06.09.MFP,DR.IS\
+    \ [132]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-f-1980-324951
+  date: '1980-06-09'
+- type: amended_by
+  target: pt:dre:574685:por
+  label: "Alterados os arts. 29º, 33º, 56º-A e 56º-B do Código do Imposto Complementar pelo DEC LEI.136/81.1981.05.29.MFP,DR.IS\
+    \ [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1981-574685
+  date: '1981-05-29'
+- type: amended_by
+  target: pt:dre:158425:por
+  label: "Alteradas as als c), d) e e) do nº 1 do art. 8º do Código do Imposto Complementar pelo DEC LEI.260-B/81.1981.09.02.MFP,DR.IS\
+    \ [201]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-b-1981-158425
+  date: '1981-09-02'
+- type: amended_by
+  target: pt:dre:392410:por
+  label: "Alterados o corpo e o § 7º do art. 11º, a al c) do art. 17º, as als b) e f) do art. 28º, o corpo e o nº 4 da al\
+    \ a) do art. 29º, a al b), o nº 1 da al f) e o § 1º do art. 30º, a tabela das taxas do art. 33º, o corpo do art. 44º,\
+    \ o § 2º do art. 56º, o § 1º do art. 62º, o § 2º do art. 84º e o § 2º do art. 94º e aditados o § 6º-A ao art. 11º, o §\
+    \ único ao art. 59º e o § único ao art. 106º-A do Código do Imposto Complementar pelo DEC LEI.196/82.1982.05.21.MFP,DR.IS\
+    \ [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1982-392410
+  date: '1982-05-21'
+- type: amended_by
+  target: pt:dre:401324:por
+  label: "Alterados os arts. 8º, 11º, 15º, 21º-A, 25º-A, 28º, 29º, 30º, 33º, 88º, 103º-B, 124º e 125º e eliminado o § único\
+    \ do art. 103º-B do Código do Imposto Complementar pelo DEC LEI.119-J/83.1983.02.28.MFP,DR.IS [48]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-j-1983-401324
+  date: '1983-02-28'
+- type: amended_by
+  target: pt:dre:143302:por
+  label: "Alterados os arts. 2º, 3º, 7º, 11º, 14º, 17º, 22º, 23º, 24º, 25º, 25º-A, 25º-B, 28º, 29º, 30º, 33º, 48º, 88º, 92º,\
+    \ 100º, 113º e 125º e aditados os arts. 15º-A, 15º-B e 15º-C ao Código do Imposto Complementar pelo DEC LEI.192/84.1984.06.11.PCM,DR.IS\
+    \ [135]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1984-143302
+  date: '1984-06-11'
+- type: amended_by
+  target: pt:dre:477170:por
+  label: "Alterados os arts. 2º, 3º, 11º, 14º, 15º, 15º-A, 22º, 29º, 30º, 33º, 84º e 91º do Código do Imposto Complementar\
+    \ pelo DEC LEI.115-D/85.1985.04.18.MFP.DR.IS [90]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-d-1985-477170
+  date: '1985-04-18'
+- type: amended_by
+  target: pt:dre:173753:por
+  label: "Alterados os arts. 3º, 8º, 11º, 14º, 15º, 23º, 25º-B, 28º, 29º, 33º, 39º, 47º, 83º, 88º, 94º e 161º e aditados os\
+    \ arts. 39º-A e 160º-B ao Código do Imposto Complementar pelo DEC LEI.112/86.1986.05.21.MF,DR.IS [116]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-1986-173753
+  date: '1986-05-21'
+- type: amended_by
+  target: pt:dre:219140:por
+  label: "Alterado o art. 30º do Código do Imposto Complementar pelo DEC LEI.258/86.1986.08.28.MF,DR.IS [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1986-219140
+  date: '1986-08-28'
+- type: amended_by
+  target: pt:dre:662275:por
+  label: "Alterados os arts. 8º, 11º, 15º, 29º, 30º, 33º, 39º-A, 43º e 61º e aditado o art. 25º-C ao Código do Imposto Complementar\
+    \ pelo DEC LEI.135/87.1987.03.19.MF,DR.IS [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1987-662275
+  date: '1987-03-19'
+- type: amended_by
+  target: pt:dre:662751:por
+  label: "Alterada a al. c) do art. 28.º e revogado o n.º 13 do art. 85.º, pela LEI.2/88.1988.01.26.AR DR.IS [21]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1988-662751
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:285751:por
+  label: "Alterados os arts. 3º e 124º e aditado o art. 24º-A ao Código do Imposto Complementar pelo DEC LEI.93/88.1988.03.21.MF,DR.IS\
+    \ [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1988-285751
+  date: '1988-03-21'
+- type: amended_by
+  target: pt:dre:612871:por
+  label: Alterados os arts. 11.º e 33.º do Código do Imposto Complementar aprovado pelo presente diploma pelo(a) Decreto-Lei
+    n.º 66/89 - Diário da República n.º 51/1989, Série I de 1989-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1989-612871
+  date: '1989-03-02'
+- type: cites
+  target: pt:dre:145867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:683445:por
+  label: "Rectificado pela RECT.DD658.17.12.1963.PC, DG.IS [295] de 17.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1963-683445
+  date: '1963-12-02'
+- type: repealed_by
+  target: pt:dre:364293:por
+  label: "Revogados os arts. 56º-A e 68º-B do Código do IMposto Complementar pelo DEC LEI.426/79.1979.10.25.MF,DR.IS [247]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/426-1979-364293
+  date: '1979-10-25'
 article_structure:
-  article_count: 2
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:09Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +396,9 @@ validation:
 
 Usando da autorização concedida pelo artigo 4.º da [Lei n.º 2117](https://diariodarepublica.pt/dr/detalhe/lei/2117-1962-155400), de 19 de Dezembro de 1962, e da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Imposto Complementar, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código do Imposto Complementar, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes decorridos 30 dias sobre a data da sua publicação.
+Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes decorridos 30 dias sobre a data da sua publicação.
 
 § 1.º O primeiro lançamento do imposto complementar nos termos do código efectuar-se-á em 1964 e terá por base os rendimentos do ano anterior.
 
@@ -98,39 +406,39 @@ Usando da autorização concedida pelo artigo 4.º da [Lei n.º 2117](https://di
 
 § 3.º Os rendimentos da exploração de espectáculos e divertimentos públicos só ficam sujeitos a imposto complementar, nos termos do código, depois de revisto o respectivo regime tributário.
 
-###### Art. 3.º Enquanto não for revisto o regime geral da prestação de serviço ao Estado e às autarquias locais, como se prevê no [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, as importâncias referidas na alínea b) da regra 4.ª do artigo 15.º do código entrarão no englobamento apenas para determinação das taxas a aplicar aos restantes rendimentos e da sujeição do contribuinte ao imposto.
+Art. 3.º Enquanto não for revisto o regime geral da prestação de serviço ao Estado e às autarquias locais, como se prevê no [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, as importâncias referidas na alínea b) da regra 4.ª do artigo 15.º do código entrarão no englobamento apenas para determinação das taxas a aplicar aos restantes rendimentos e da sujeição do contribuinte ao imposto.
 
 § 1.º O excesso, se o houver, das importâncias referidas neste artigo sobre a soma das deduções efectuadas, nos termos das alíneas a) ou b) do artigo 29.º do código e da parte correspondente na dedução a que se refere a primeira parte desse mesmo artigo, será deduzido ao rendimento colectável apurado, nos termos do artigo 31.º
 
 § 2.º Na aplicação das taxas, a importância do excesso referido no parágrafo anterior será deduzida na fracção do rendimento a que é de aplicar a taxa média, computando-se o excedente, se o houver, na fracção sobre que é de aplicar a taxa normal.
 
-###### Art. 4.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
+Art. 4.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
 
-###### Art. 5.º É abolido o imposto a que se refere o artigo 35.º do Código Civil, não sendo exigível o imposto relativo a situações verificadas antes da entrada em vigor deste diploma.
+Art. 5.º É abolido o imposto a que se refere o artigo 35.º do Código Civil, não sendo exigível o imposto relativo a situações verificadas antes da entrada em vigor deste diploma.
 
-###### Art. 6.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessàrios à execução dos serviços de que trata o mesmo código.
+Art. 6.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessàrios à execução dos serviços de que trata o mesmo código.
 
-###### Art. 7.º No ano de 1964 os prazos estabelecidos nos artigos 45.º, 47.º e 49.º do código são prorrogados até 20 de Novembro, devendo a cobrança do imposto complementar, secção A, efectuar-se no mês de Dezembro.
+Art. 7.º No ano de 1964 os prazos estabelecidos nos artigos 45.º, 47.º e 49.º do código são prorrogados até 20 de Novembro, devendo a cobrança do imposto complementar, secção A, efectuar-se no mês de Dezembro.
 
-###### Art. 8.º Os registos de acções ao portador e de títulos estrangeiros feitos anteriormente à entrada em vigor do código, nos termos da legislação anterior, consideram-se válidos para efeitos do código.
+Art. 8.º Os registos de acções ao portador e de títulos estrangeiros feitos anteriormente à entrada em vigor do código, nos termos da legislação anterior, consideram-se válidos para efeitos do código.
 
-###### Art. 9.º Os livros de registo de acções ao portador de títulos estrangeiros em uso à data da entrada em vigor do código poderão continuar a ser utilizados até final.
+Art. 9.º Os livros de registo de acções ao portador de títulos estrangeiros em uso à data da entrada em vigor do código poderão continuar a ser utilizados até final.
 
-###### Art. 10.º Os proprietários de acções e obrigações nominativas emitidas por sociedades com sede no continente ou ilhas adjacentes, bem como de acções ao portador registadas nos termos da legislação em vigor, ficam obrigados a comunicar à sociedade emissora, até 29 de Fevereiro de 1964, a sua residência ou sede, quando diferente da que consta dos registos.
+Art. 10.º Os proprietários de acções e obrigações nominativas emitidas por sociedades com sede no continente ou ilhas adjacentes, bem como de acções ao portador registadas nos termos da legislação em vigor, ficam obrigados a comunicar à sociedade emissora, até 29 de Fevereiro de 1964, a sua residência ou sede, quando diferente da que consta dos registos.
 
 § único. O disposto neste artigo é extensivo aos proprietários de obrigações nominativas emitidas por sociedades concessionárias estrangeiras que estejam nas condições do [Decreto-Lei n.º 41223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41223-1957-280064), de 7 de Agosto de 1957.
 
-###### Art. 11.º Até ao dia 29 de Fevereiro de 1964 deverão os proprietários de títulos estrangeiros registados nos termos da legislação em vigor comunicar à respectiva direcção de finanças a sua residência ou sede, quando diferente da que consta do registo.
+Art. 11.º Até ao dia 29 de Fevereiro de 1964 deverão os proprietários de títulos estrangeiros registados nos termos da legislação em vigor comunicar à respectiva direcção de finanças a sua residência ou sede, quando diferente da que consta do registo.
 
 § único. Aos contribuintes que observem o disposto neste artigo não serão aplicadas as multas estabelecidas na legislação em vigor em que porventura tenham incorrido por falta de comunicação da mudança da sua residência ou sede.
 
-###### Art. 12.º Nas relações a apresentar em 1964 e em 1965, nos termos do artigo 24.º do código, não serão incluídos os juros de obrigações vencidos, respectivamente, em 1963 e 1964.
+Art. 12.º Nas relações a apresentar em 1964 e em 1965, nos termos do artigo 24.º do código, não serão incluídos os juros de obrigações vencidos, respectivamente, em 1963 e 1964.
 
-###### Art. 13.º A falta das comunicações exigidas pelos artigos 10.º e 11.º é punida com a multa de 100$00 a 10000$00, a qual substituirá quaisquer penas estabelecidas na legislação em vigor para a falta de idênticas comunicações.
+Art. 13.º A falta das comunicações exigidas pelos artigos 10.º e 11.º é punida com a multa de 100$00 a 10000$00, a qual substituirá quaisquer penas estabelecidas na legislação em vigor para a falta de idênticas comunicações.
 
-###### Art. 14.º Por infracções ao disposto no código cometidas até 31 de Dezembro de 1964 só poderá ser instaurado processo de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
+Art. 14.º Por infracções ao disposto no código cometidas até 31 de Dezembro de 1964 só poderá ser instaurado processo de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -214,15 +522,15 @@ Por muito vasta, porém, que tenha sido a reforma, a verdade é que ainda fica u
 
 Código do Imposto Complementar
 
-###### Artigo 1.º O imposto complementar incide sobre o rendimento global das pessoas singulares e das pessoas colectivas, nos termos estabelecidos no presente código, e divide-se em duas secções: A e B.
+Artigo 1.º O imposto complementar incide sobre o rendimento global das pessoas singulares e das pessoas colectivas, nos termos estabelecidos no presente código, e divide-se em duas secções: A e B.
 
-# PARTE I — Imposto complementar - Secção A
+## PARTE I — Imposto complementar - Secção A
 
 ### CAPÍTULO I — Incidência
 
-###### Art. 2.º O imposto complementar, secção A, é devido pelas pessoas singulares residentes no território do continente e ilhas adjacentes e pelas que, residindo fora deste território, nele obtenham rendimentos.
+Art. 2.º O imposto complementar, secção A, é devido pelas pessoas singulares residentes no território do continente e ilhas adjacentes e pelas que, residindo fora deste território, nele obtenham rendimentos.
 
-###### Art. 3.º O rendimento global das pessoas singulares é a soma dos rendimentos a seguir mencionados, deduzida dos competentes encargos:
+Art. 3.º O rendimento global das pessoas singulares é a soma dos rendimentos a seguir mencionados, deduzida dos competentes encargos:
 
 1.º Rendimentos dos prédios rústicos e urbanos;
 
@@ -240,7 +548,7 @@ Código do Imposto Complementar
 
 § 2.º Os dividendos e juros das acções e obrigações ao portador não registadas ficam sujeitos ao regime estabelecido no artigo 124.º
 
-###### Art. 4.º Consideram-se residentes no território do continente e ilhas adjacentes as pessoas que no ano a que respeitam os rendimentos:
+Art. 4.º Consideram-se residentes no território do continente e ilhas adjacentes as pessoas que no ano a que respeitam os rendimentos:
 
 1.º Tenham residido permanentemente nesse território ou nele tenham permanecido mais de 180 dias, seguidos ou interpolados;
 
@@ -250,13 +558,13 @@ Código do Imposto Complementar
 
 § único. Serão sempre havidas como residentes com o chefe da família as pessoas que constituem o respectivo agregado familiar, entendendo-se como tais, além dele, o cônjuge não separado judicialmente de pessoas e bens, e os seus filhos e enteados menores, não emancipados, que não tenham rendimentos ou que, tendo-os, a administração pertença, no todo ou em parte, ao chefe da família ou ao outro cônjuge não separado judicialmente de pessoas e bens.
 
-###### Art. 5.º Consideram-se produzidos no território do continente e ilhas adjacentes, para efeitos do § 1.º do artigo 3.º, os rendimentos cujo devedor tenha aí a sua residência ou sede efectiva, ou cujo pagamento deva imputar-se a estabelecimento estável situado no mesmo território, bem como as remunerações pagas pelo Estado ao seu pessoal em serviço no estrangeiro.
+Art. 5.º Consideram-se produzidos no território do continente e ilhas adjacentes, para efeitos do § 1.º do artigo 3.º, os rendimentos cujo devedor tenha aí a sua residência ou sede efectiva, ou cujo pagamento deva imputar-se a estabelecimento estável situado no mesmo território, bem como as remunerações pagas pelo Estado ao seu pessoal em serviço no estrangeiro.
 
 § único. Entende-se por estabelecimento estável qualquer instalação fixa onde a empresa exerça toda ou parte da sua actividade.
 
-###### Art. 6.º Os rendimentos das sociedades civis não constituídas sob forma comercial pertencerão aos sócios conformemente à sua participação nos lucros.
+Art. 6.º Os rendimentos das sociedades civis não constituídas sob forma comercial pertencerão aos sócios conformemente à sua participação nos lucros.
 
-###### Art. 7.º Para efeitos do imposto complementar, são atribuídos ao chefe da família:
+Art. 7.º Para efeitos do imposto complementar, são atribuídos ao chefe da família:
 
 a) Os rendimentos comuns do casal;
 
@@ -266,7 +574,7 @@ c) Os rendimentos dos filhos e enteados menores, não emancipados, de que seja a
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 8.º São isentos de imposto:
+Art. 8.º São isentos de imposto:
 
 1.º Tratando-se de rendimentos sujeitos a impostos parcelares no território do continente e ilhas adjacentes ou aí produzidos:
 
@@ -334,15 +642,15 @@ a) As importâncias referidas na alínea c) do número anterior;
 
 b) Os rendimentos referidos na alínea h) do n.º 1.º, bem como os subsídios referidos na alínea l) do mesmo número, atribuídos a servidores de estados estrangeiros ou de pessoas colectivas com atribuições equivalentes às das entidades nacionais mencionadas na mesma alínea.
 
-###### Art. 9.º São também isentos de imposto os rendimentos produzidos no ultramar ou no estrangeiro auferidos pelo pessoal das missões diplomáticas e consulares estrangeiras, quando haja reciprocidade de tratamento.
+Art. 9.º São também isentos de imposto os rendimentos produzidos no ultramar ou no estrangeiro auferidos pelo pessoal das missões diplomáticas e consulares estrangeiras, quando haja reciprocidade de tratamento.
 
-###### Art. 10.º As isenções constantes de acordos entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
+Art. 10.º As isenções constantes de acordos entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
 
 § único. Tratando-se de concessionárias, a isenção limitar-se-á aos rendimentos provenientes do objecto da concessão.
 
 ### CAPÍTULO III — Determinação da matéria colectável
 
-###### Art. 11.º Os titulares de rendimentos abrangidos pelo artigo 3.º apresentarão, durante o mês de Julho, na repartição de finanças do concelho ou bairro da sua residência ou, residindo fora do território do continente e ilhas adjacentes, na Repartição de Finanças do 3.º bairro fiscal de Lisboa, a declaração modelo n.º 1, quando os rendimentos não isentos do ano anterior, apurados de harmonia com o disposto nos artigos 15.º e 17.º, excedam no total os seguintes quantitativos:
+Art. 11.º Os titulares de rendimentos abrangidos pelo artigo 3.º apresentarão, durante o mês de Julho, na repartição de finanças do concelho ou bairro da sua residência ou, residindo fora do território do continente e ilhas adjacentes, na Repartição de Finanças do 3.º bairro fiscal de Lisboa, a declaração modelo n.º 1, quando os rendimentos não isentos do ano anterior, apurados de harmonia com o disposto nos artigos 15.º e 17.º, excedam no total os seguintes quantitativos:
 
 1.º Tratando-se de contribuintes com residência no território do continente e ilhas adjacentes:
 
@@ -366,13 +674,13 @@ Se a não apresentarem, compete ao chefe da repartição de finanças mandar not
 
 § 6.º Embora não tenha havido alteração nos elementos declarados, será sempre obrigatória a apresentação da declaração no ano seguinte aquele em que se verifique aumento dos rendimentos para além dos limites fixados no presente artigo, desde que no ano anterior a este último ano os rendimentos não tenham atingido os referidos limites.
 
-###### Art. 12.º A declaração a que se refere o artigo precedente será assinada pelo contribuinte ou pelo seu representante legal ou mandatário.
+Art. 12.º A declaração a que se refere o artigo precedente será assinada pelo contribuinte ou pelo seu representante legal ou mandatário.
 
 § único. Serão recusadas as declarações que não estiverem devidamente assinadas, sem prejuízo das sanções estabelecidas para a falta da sua apresentação.
 
-###### Art. 13.º Quando as declarações não forem consideradas claras, as repartições de finanças notificarão os contribuintes para prestarem por escrito, no prazo que lhes for fixado, não superior a quinze dias, os esclarecimentos indispensáveis.
+Art. 13.º Quando as declarações não forem consideradas claras, as repartições de finanças notificarão os contribuintes para prestarem por escrito, no prazo que lhes for fixado, não superior a quinze dias, os esclarecimentos indispensáveis.
 
-###### Art. 14.º À declaração de que trata o artigo 11.º deverá o contribuinte juntar:
+Art. 14.º À declaração de que trata o artigo 11.º deverá o contribuinte juntar:
 
 1.º As declarações e demais elementos a que estaria obrigado com vista à determinação da matéria colectável dos impostos parcelares, se deles não estivesse isento, no caso do § 4.º do artigo 11.º;
 
@@ -384,7 +692,7 @@ Se a não apresentarem, compete ao chefe da repartição de finanças mandar not
 
 § 2.º É dispensada a junção de qualquer dos documentos a que alude o n.º 3.º, quando já conste do processo do contribuinte a sua apresentação em ano anterior.
 
-###### Art. 15.º A determinação dos rendimentos referidos no artigo 3.º far-se-á de harmonia com as regras seguintes:
+Art. 15.º A determinação dos rendimentos referidos no artigo 3.º far-se-á de harmonia com as regras seguintes:
 
 1.ª Os rendimentos dos prédios rústicos e dos prédios urbanos serão os colectáveis nos termos da parte I do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, observando-se, porém, no seu apuramento:
 
@@ -418,13 +726,13 @@ c) As importâncias dos abonos relativos à situação de reserva, das pensões 
 
 § 2.º Os rendimentos não compreendidos no parágrafo anterior e isentos dos impostos parcelares serão determinados segundo as regras estabelecidas nos respectivos códigos para a determinação dos rendimentos tributáveis.
 
-###### Art. 16.º Os rendimentos em moeda ultramarina ou estrangeira, bem como os rendimentos em géneros, não sujeitos a impostos parcelares, serão reduzidos a escudos com observância das seguintes regras:
+Art. 16.º Os rendimentos em moeda ultramarina ou estrangeira, bem como os rendimentos em géneros, não sujeitos a impostos parcelares, serão reduzidos a escudos com observância das seguintes regras:
 
 1.ª Tratando-se de rendimentos em moeda ultramarina ou estrangeira, a sua equivalência em escudos será estabelecida pela cotação média do trimestre anterior ao da liquidação;
 
 2.ª Tratando-se de rendimentos em géneros, a redução a dinheiro far-se-á pelo preço médio do ano anterior ao da liquidação, segundo o que constar do registo da repartição de finanças ou, na sua falta, da estiva camarária.
 
-###### Art. 17.º Serão havidos como rendimentos do mesmo ano e englobados em nome do seu titular ou do chefe da família:
+Art. 17.º Serão havidos como rendimentos do mesmo ano e englobados em nome do seu titular ou do chefe da família:
 
 a) Os rendimentos relativos a esse ano, quando se trate dos mencionados nas regras 1.ª, 2.ª e 3.ª do artigo 15.º, ou da regra 5.ª, mas sujeitos ao imposto de capitais, secção A;
 
@@ -440,7 +748,7 @@ d) Os rendimentos nesse ano produzidos, quando se trate dos mencionados na regra
 
 § 3.º No caso de o contribuinte só por virtude de julgamento do pleito ficar obrigado à apresentação da declaração modelo n.º 1, será esta entregue, com referência aos anos em falta, dentro do prazo referido no parágrafo anterior.
 
-###### Art. 18.º Nos casos de constituição, interrupção ou dissolução da sociedade conjugal observar-se-ão estas regras:
+Art. 18.º Nos casos de constituição, interrupção ou dissolução da sociedade conjugal observar-se-ão estas regras:
 
 1.ª Os rendimentos da mulher referentes ao ano do casamento, a considerar no englobamento em nome do marido, são apenas os correspondentes ao período decorrido desde a data do casamento até ao fim do ano, devendo os correspondentes ao período anterior ser englobados em nome da mulher ou do chefe da família de que fazia parte anteriormente ao casamento, conforme o caso;
 
@@ -450,9 +758,9 @@ d) Os rendimentos nesse ano produzidos, quando se trate dos mencionados na regra
 
 4.ª No caso de divórcio ou separação judicial de pessoas e bens, serão englobados em nome do antigo chefe da família os rendimentos do dissolvido agregado familiar relativos ao período decorrido de 1 de Janeiro até à data do trânsito em julgado da respectiva decisão judicial, bem como os seus rendimentos próprios e os dos filhos menores, não emancipados, de que seja administrador, referentes ao período decorrido desde aquela última data até ao fim do ano, devendo englobar-se em nome do outro cônjuge os seus rendimentos próprios e os dos filhos menores, não emancipados, de que seja administrador, respeitantes a esse mesmo período.
 
-###### Art. 19.º Ocorrendo o falecimento de qualquer pessoa, os rendimentos relativos aos bens transmitidos ou pertencentes ao cônjuge sobrevivo e correspondentes ao período posterior à data do óbito serão considerados, a partir de então, nos englobamentos a efectuar em nome das pessoas que os passaram a auferir, procedendo-se, na falta de partilha até ao fim do ano a que os rendimentos respeitam, à sua divisão pelos sucessores e cônjuge sobrevivo, se o houver, segundo a sua quota ideal nos referidos bens.
+Art. 19.º Ocorrendo o falecimento de qualquer pessoa, os rendimentos relativos aos bens transmitidos ou pertencentes ao cônjuge sobrevivo e correspondentes ao período posterior à data do óbito serão considerados, a partir de então, nos englobamentos a efectuar em nome das pessoas que os passaram a auferir, procedendo-se, na falta de partilha até ao fim do ano a que os rendimentos respeitam, à sua divisão pelos sucessores e cônjuge sobrevivo, se o houver, segundo a sua quota ideal nos referidos bens.
 
-###### Art. 20.º Sempre que, para efeitos deste imposto, os rendimentos devam repartir-se por mais de um período, a fim de serem imputados ao respectivo titular ou ao chefe da família, observar-se-á o seguinte:
+Art. 20.º Sempre que, para efeitos deste imposto, os rendimentos devam repartir-se por mais de um período, a fim de serem imputados ao respectivo titular ou ao chefe da família, observar-se-á o seguinte:
 
 a) Os rendimentos do trabalho, bem como as pensões e rendas temporárias ou vitalícias pagas por sociedades de seguros, são considerados como respeitando ao período em que foram recebidos ou postos à disposição dos seus titulares;
 
@@ -462,19 +770,19 @@ c) Os rendimentos não compreendidos nas alíneas anteriores são considerados c
 
 § único. As importâncias das proveniências referidas na alínea a), não recebidas nem postas à disposição dos seus titulares até à data em que tiver ocorrido qualquer dos factos previstos nas regras 2.ª e 3.ª do artigo 18.º, não serão consideradas para efeitos de imposto complementar na medida em que constituírem objecto de transmissão por morte.
 
-###### Art. 21.º Os chefes das repartições de finanças que, pelos elementos em seu poder, tenham conhecimento de que quaisquer rendimentos abrangidos pelo artigo 3.º, sujeitos a impostos parcelares no respectivo concelho ou bairro, pertencem a contribuintes que nele não têm residência remeterão anualmente, durante o mês de Julho, à repartição de finanças do concelho ou bairro competente, para o englobamento, notas individuais, que deverão conter discriminadamente os rendimentos relativos ao ano anterior e respectivas colectas e adicionais.
+Art. 21.º Os chefes das repartições de finanças que, pelos elementos em seu poder, tenham conhecimento de que quaisquer rendimentos abrangidos pelo artigo 3.º, sujeitos a impostos parcelares no respectivo concelho ou bairro, pertencem a contribuintes que nele não têm residência remeterão anualmente, durante o mês de Julho, à repartição de finanças do concelho ou bairro competente, para o englobamento, notas individuais, que deverão conter discriminadamente os rendimentos relativos ao ano anterior e respectivas colectas e adicionais.
 
 § único. Quando os elementos a incluir nas notas só possam ser apurados posteriormente a 15 de Julho, a remessa efectuar-se-á dentro do prazo de 15 dias a contar da data em que se tornou possível o apuramento.
 
-###### Art. 22.º Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades que processem folhas para o abono de importâncias abrangidas pelas alíneas b) e c) da regra 4.ª do artigo 15.º, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias, enviarão, até ao dia 31 de Março de cada ano, à repartição de finanças do concelho ou bairro em cuja área fique situado o serviço ou entidade, relações nominais modelo n.º 2, em duplicado.
+Art. 22.º Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades que processem folhas para o abono de importâncias abrangidas pelas alíneas b) e c) da regra 4.ª do artigo 15.º, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias, enviarão, até ao dia 31 de Março de cada ano, à repartição de finanças do concelho ou bairro em cuja área fique situado o serviço ou entidade, relações nominais modelo n.º 2, em duplicado.
 
 § único. As relações serão organizadas por concelhos ou bairros e ordem alfabética dos beneficiários dos abonos, contendo cada uma os que residirem no mesmo concelho ou bairro, e delas deverão constar as importâncias, líquidas de descontos obrigatórios, cujo pagamento tenha sido autorizado no ano anterior.
 
-###### Art. 23.º As entidades que paguem, ou ponham à disposição dos respectivos beneficiários, pensões ou rendas abrangidas pelas regras 6.ª e 7.ª do artigo 15.º, bem como remunerações pela prestação de serviços fora do continente e ilhas adjacentes, apresentarão, até 31 de Março de cada ano, na repartição de finanças do concelho ou bairro da respectiva residência ou sede, relações nominais modelo n.º 3, em duplicado.
+Art. 23.º As entidades que paguem, ou ponham à disposição dos respectivos beneficiários, pensões ou rendas abrangidas pelas regras 6.ª e 7.ª do artigo 15.º, bem como remunerações pela prestação de serviços fora do continente e ilhas adjacentes, apresentarão, até 31 de Março de cada ano, na repartição de finanças do concelho ou bairro da respectiva residência ou sede, relações nominais modelo n.º 3, em duplicado.
 
 § único. As relações serão organizadas por concelhos ou bairros e ordem alfabética dos beneficiários dos abonos, contendo cada uma os que residirem no mesmo concelho ou bairro, delas devendo constar as importâncias que lhes foram pagas ou postas à sua disposição durante o ano anterior.
 
-###### Art. 24.º As sociedades e quaisquer outras entidades emissoras de acções e obrigações apresentarão, até 31 de Março de cada ano, na repartição de finanças do concelho ou bairro da sua sede, relações nominais modelo n.º 4, em duplicado, organizadas em face dos livros de registo dos títulos nominativos e dos livros de registo dos títulos ao portador a que se refere o artigo 113.º, contendo:
+Art. 24.º As sociedades e quaisquer outras entidades emissoras de acções e obrigações apresentarão, até 31 de Março de cada ano, na repartição de finanças do concelho ou bairro da sua sede, relações nominais modelo n.º 4, em duplicado, organizadas em face dos livros de registo dos títulos nominativos e dos livros de registo dos títulos ao portador a que se refere o artigo 113.º, contendo:
 
 a) Nome e residência ou sede dos proprietários de títulos nominativos e de títulos ao portador registados;
 
@@ -494,15 +802,15 @@ c) Importância do dividendo atribuído no ano anterior ou do juro vencido no me
 
 § 6.º Dos livros de registo das acções e obrigações nominativas constará obrigatòriamente, para efeitos do disposto neste artigo, a residência ou sede dos proprietários dos títulos, devendo a actualização do registo ser feita mediante comunicação escrita destes últimos à entidade emissora, dentro dos quinze dias seguintes ao da mudança de residência ou sede.
 
-###### Art. 25.º As entidades que hajam procedido à liquidação de juros, não isentos do imposto complementar, por depósitos a prazo, apresentarão, até ao dia 31 de Março de cada ano, na repartição de finanças do concelho ou bairro da sua sede, relações nominais modelo n.º 5, em duplicado, organizadas nos termos do § único do artigo 23.º e com indicação dos juros pagos ou postos à disposição dos depositantes no ano anterior, sejam estes pessoas singulares ou colectivas.
+Art. 25.º As entidades que hajam procedido à liquidação de juros, não isentos do imposto complementar, por depósitos a prazo, apresentarão, até ao dia 31 de Março de cada ano, na repartição de finanças do concelho ou bairro da sua sede, relações nominais modelo n.º 5, em duplicado, organizadas nos termos do § único do artigo 23.º e com indicação dos juros pagos ou postos à disposição dos depositantes no ano anterior, sejam estes pessoas singulares ou colectivas.
 
-###### Art. 26.º As direcções de finanças enviarão, até 31 de Julho de cada ano, à repartição de finanças competente para o englobamento dos respectivos rendimentos, notas individuais, em duplicado, dos proprietários de títulos estrangeiros registados, das quais constarão os rendimentos, convertidos em escudos de harmonia com o disposto na alínea a) do artigo 16.º, a que os mesmos tiveram direito no ano anterior.
+Art. 26.º As direcções de finanças enviarão, até 31 de Julho de cada ano, à repartição de finanças competente para o englobamento dos respectivos rendimentos, notas individuais, em duplicado, dos proprietários de títulos estrangeiros registados, das quais constarão os rendimentos, convertidos em escudos de harmonia com o disposto na alínea a) do artigo 16.º, a que os mesmos tiveram direito no ano anterior.
 
 § único. A extracção das notas deverá fazer-se em relação a todos os títulos e seus proprietários constantes do respectivo registo à data de 31 de Dezembro do ano anterior.
 
-###### Art. 27.º As repartições de finanças que receberem as relações a que se referem os artigos 22.º a 25.º, respeitantes a contribuintes com residência ou sede fora da área do respectivo concelho ou bairro, remetê-las-ão, até ao fim do mês seguinte, às repartições de finanças competentes para o englobamento.
+Art. 27.º As repartições de finanças que receberem as relações a que se referem os artigos 22.º a 25.º, respeitantes a contribuintes com residência ou sede fora da área do respectivo concelho ou bairro, remetê-las-ão, até ao fim do mês seguinte, às repartições de finanças competentes para o englobamento.
 
-###### Art. 28.º Para determinação do rendimento global líquido, ao total das importâncias apuradas nos termos do artigo 15.º serão deduzidos, quando ainda o não tenham sido, os seguintes encargos:
+Art. 28.º Para determinação do rendimento global líquido, ao total das importâncias apuradas nos termos do artigo 15.º serão deduzidos, quando ainda o não tenham sido, os seguintes encargos:
 
 a) As colectas e adicionais respeitantes aos rendimentos englobados;
 
@@ -522,7 +830,7 @@ f) Os lucros entregues pelo contribuinte à pessoa ou pessoas que tiver interess
 
 § 3.º As importâncias mencionadas no presente artigo são as que tiverem sido pagas ou despendidas no ano a que respeitam os rendimentos englobados, com exclusão das colectas e adicionais, que serão as que tiverem recaído sobre aqueles rendimentos.
 
-###### Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 20 por cento dos rendimentos do trabalho, apurados nos termos da regra 4.ª do artigo 15.º, com o máximo de 20000$00, as seguintes importâncias:
+Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 20 por cento dos rendimentos do trabalho, apurados nos termos da regra 4.ª do artigo 15.º, com o máximo de 20000$00, as seguintes importâncias:
 
 a) Tratando-se de contribuintes residentes no continente ou ilhas adjacentes:
 
@@ -546,7 +854,7 @@ b) Tratando-se de contribuintes não residentes no continente ou ilhas adjacente
 
 § 2.º As deduções relativas aos cônjuges e aos filhos e enteados reportar-se-ão à situação dessas pessoas em 30 de Junho do ano a que respeita o rendimento.
 
-###### Art. 30.º Para se obter o rendimento colectável, ao rendimento global líquido dos contribuintes residentes no continente ou ilhas adjacentes ainda se deduzirão, sendo caso disso:
+Art. 30.º Para se obter o rendimento colectável, ao rendimento global líquido dos contribuintes residentes no continente ou ilhas adjacentes ainda se deduzirão, sendo caso disso:
 
 a) As quotizações facultativas para instituições de previdência pagas pelos titulares dos rendimentos englobados;
 
@@ -564,79 +872,79 @@ e) As importâncias que, até 20 por cento do rendimento global líquido, o cont
 
 § 3.º As importâncias a deduzir são as que tiverem sido pagas ou despendidas no ano a que respeitam os rendimentos.
 
-###### Art. 31.º Ao rendimento global líquido dos contribuintes não residentes no continente ou ilhas adjacentes far-se-ão as deduções do artigo anterior, com excepção das previstas nas alíneas a) e b).
+Art. 31.º Ao rendimento global líquido dos contribuintes não residentes no continente ou ilhas adjacentes far-se-ão as deduções do artigo anterior, com excepção das previstas nas alíneas a) e b).
 
-###### Art. 32.º O pessoal das missões diplomáticas e consulares estrangeiras que aproveitar da isenção do artigo 9.º ùnicamente beneficiará das deduções concedidas nos artigos anteriores aos não residentes no continente ou ilhas adjacentes.
+Art. 32.º O pessoal das missões diplomáticas e consulares estrangeiras que aproveitar da isenção do artigo 9.º ùnicamente beneficiará das deduções concedidas nos artigos anteriores aos não residentes no continente ou ilhas adjacentes.
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf))](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf)
 
 § único. Aos rendimentos até 50000$00, ou cujo quantitativo coincida com o limite superior de algum dos escalões da tabela, aplicar-se-á a correspondente taxa da coluna (B); quanto aos restantes rendimentos dividir-se-á o seu quantitativo em duas partes, uma igual ao limite do maior dos escalões que nele couber, à qual se aplicará a taxa da mesma coluna correspondente a esse escalão, e outra, igual ao excedente, a que se aplicará a taxa da coluna (A) respeitante ao escalão imediatamente superior.
 
-###### Art. 34.º Os contribuintes a que se referem as Leis n.os 62073, de 23 de Dezembro de 1954, e 2081, de 4 de Junho de 1956, beneficiam da redução a metade do imposto complementar correspondente aos rendimentos que hajam aproveitado da redução a metade das taxas das contribuições predial e industrial, nos termos, respectivamente, do artigo 221.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e do artigo 82.º do Código da Contribuição Industrial.
+Art. 34.º Os contribuintes a que se referem as Leis n.os 62073, de 23 de Dezembro de 1954, e 2081, de 4 de Junho de 1956, beneficiam da redução a metade do imposto complementar correspondente aos rendimentos que hajam aproveitado da redução a metade das taxas das contribuições predial e industrial, nos termos, respectivamente, do artigo 221.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e do artigo 82.º do Código da Contribuição Industrial.
 
-###### Art. 35.º Na mesma base em que tiver sido reduzido o imposto sobre a indústria agrícola ou a contribuição industrial, nos termos, respectivamente, do artigo 350.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e do artigo 83.º do Código da Contribuição Industrial, será reduzido o imposto complementar relativo ao correspondente rendimento.
+Art. 35.º Na mesma base em que tiver sido reduzido o imposto sobre a indústria agrícola ou a contribuição industrial, nos termos, respectivamente, do artigo 350.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e do artigo 83.º do Código da Contribuição Industrial, será reduzido o imposto complementar relativo ao correspondente rendimento.
 
-###### Art. 36.º Sobre este imposto não recai qualquer adicional.
+Art. 36.º Sobre este imposto não recai qualquer adicional.
 
 ### CAPÍTULO V — Liquidação
 
-###### Art. 37.º O englobamento dos rendimentos de cada contribuinte e a liquidação do respectivo imposto são da competência da repartição de finanças em que deve ser entregue, nos termos do artigo 11.º, a declaração modelo n.º 1.
+Art. 37.º O englobamento dos rendimentos de cada contribuinte e a liquidação do respectivo imposto são da competência da repartição de finanças em que deve ser entregue, nos termos do artigo 11.º, a declaração modelo n.º 1.
 
-###### Art. 38.º O imposto será liquidado ao titular do rendimento a ele sujeito ou ao chefe do agregado familiar, consoante o caso.
+Art. 38.º O imposto será liquidado ao titular do rendimento a ele sujeito ou ao chefe do agregado familiar, consoante o caso.
 
-###### Art. 39.º O rendimento colectável será apurado num verbete de englobamento e transportado, em seguida, para o verbete individual de lançamento.
+Art. 39.º O rendimento colectável será apurado num verbete de englobamento e transportado, em seguida, para o verbete individual de lançamento.
 
-###### Art. 40.º Quando no englobamento se compreendam rendimentos produzidos nas províncias ultramarinas e que aí hajam sido tributados em imposto complementar ou imposto correspondente, será deduzido ao imposto calculado nos termos do presente código o que se prove ter sido liquidado nas referidas províncias relativamente àqueles rendimentos.
+Art. 40.º Quando no englobamento se compreendam rendimentos produzidos nas províncias ultramarinas e que aí hajam sido tributados em imposto complementar ou imposto correspondente, será deduzido ao imposto calculado nos termos do presente código o que se prove ter sido liquidado nas referidas províncias relativamente àqueles rendimentos.
 
 § 1.º Os documentos comprovativos da liquidação dos impostos a que se refere este artigo deverão ser entregues com a declaração modelo n.º 1.
 
 § 2.º Fica salvo o direito à anulação, por via contenciosa, do imposto liquidado em excesso, quando a prova só possa ser produzida posteriormente à liquidação.
 
-###### Art. 41.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do § 1.º do artigo 17.º
+Art. 41.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do § 1.º do artigo 17.º
 
-###### Art. 42.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
+Art. 42.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
 
-###### Art. 43.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 10$00.
+Art. 43.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 10$00.
 
-###### Art. 44.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 44.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. O juro será contado dia a dia, desde o termo do prazo para a apresentação da declaração até à data em que vier a ser suprida ou corrigida a falta.
 
-###### Art. 45.º A liquidação do imposto far-se-á anualmente nos verbetes de lançamento, até 20 de Setembro do ano seguinte àquele a que respeita, preenchendo-se seguidamente o índice dos verbetes e relação para descarga dos documentos de cobrança.
+Art. 45.º A liquidação do imposto far-se-á anualmente nos verbetes de lançamento, até 20 de Setembro do ano seguinte àquele a que respeita, preenchendo-se seguidamente o índice dos verbetes e relação para descarga dos documentos de cobrança.
 
-###### Art. 46.º Depois de concluído o lançamento do imposto, deverão extrair-se os conhecimentos de cobrança e dois exemplares de uma certidão na qual serão mencionados o número e montante das colectas.
+Art. 46.º Depois de concluído o lançamento do imposto, deverão extrair-se os conhecimentos de cobrança e dois exemplares de uma certidão na qual serão mencionados o número e montante das colectas.
 
-###### Art. 47.º Até ao dia 20 de Setembro a repartição de finanças remeterá aos contribuintes, pelo correio e em sobrescrito fechado, uma nota demonstrativa da liquidação efectuada, a qual conterá a indicação do mês em que o imposto deverá ser pago.
+Art. 47.º Até ao dia 20 de Setembro a repartição de finanças remeterá aos contribuintes, pelo correio e em sobrescrito fechado, uma nota demonstrativa da liquidação efectuada, a qual conterá a indicação do mês em que o imposto deverá ser pago.
 
-###### Art. 48.º Na repartição de finanças competente para o englobamento dos rendimentos e liquidação do imposto organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 1, no qual serão incorporados os elementos que lhe respeitem, com excepção do verbete de lançamento.
+Art. 48.º Na repartição de finanças competente para o englobamento dos rendimentos e liquidação do imposto organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 1, no qual serão incorporados os elementos que lhe respeitem, com excepção do verbete de lançamento.
 
 ### CAPÍTULO VI — Cobrança
 
-###### Art. 49.º Os conhecimentos de cobrança serão entregues até 20 de Setembro ao tesoureiro da Fazenda Pública, que anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
+Art. 49.º Os conhecimentos de cobrança serão entregues até 20 de Setembro ao tesoureiro da Fazenda Pública, que anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
 
-###### Art. 50.º O imposto deverá ser pago durante o mês de Outubro do ano seguinte àquele a que respeita.
+Art. 50.º O imposto deverá ser pago durante o mês de Outubro do ano seguinte àquele a que respeita.
 
-###### Art. 51.º Nos casos em que a liquidação não possa fazer-se no prazo estabelecido no artigo 45.º, bem como quando se proceda a liquidação por omissão ao lançamento ou a liquidação adicional nos termos do artigo 42.º, o contribuinte será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
+Art. 51.º Nos casos em que a liquidação não possa fazer-se no prazo estabelecido no artigo 45.º, bem como quando se proceda a liquidação por omissão ao lançamento ou a liquidação adicional nos termos do artigo 42.º, o contribuinte será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
 
 § 1.º Se o não fizer, proceder-se-á a cobrança virtual, sem prejuízo do direito de reclamação e impugnação, devendo o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.
 
 § 2.º No acto da notificação entregar-se-á ao contribuinte a nota a que se refere o artigo 47.º
 
-###### Art. 52.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora.
+Art. 52.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora.
 
-###### Art. 53.º Passados 60 dias sobre o vencimento do imposto sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo.
+Art. 53.º Passados 60 dias sobre o vencimento do imposto sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo.
 
-###### Art. 54.º Os conhecimentos de cobrança deverão ser autenticados com o selo branco da respectiva direcção de finanças, ou com o carimbo em uso nos serviços mecanográficos, quando processados mecânicamente.
+Art. 54.º Os conhecimentos de cobrança deverão ser autenticados com o selo branco da respectiva direcção de finanças, ou com o carimbo em uso nos serviços mecanográficos, quando processados mecânicamente.
 
-###### Art. 55.º Para pagamento do imposto complementar, a Fazenda Nacional goza do privilégio referido no artigo 885.º do Código Civil.
+Art. 55.º Para pagamento do imposto complementar, a Fazenda Nacional goza do privilégio referido no artigo 885.º do Código Civil.
 
 ### CAPÍTULO VII — Fiscalização
 
-###### Art. 56.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+Art. 56.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Os agentes do Ministério Público das Contribuições e Impostos poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativos, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
 
@@ -644,23 +952,23 @@ e) As importâncias que, até 20 por cento do rendimento global líquido, o cont
 
 § 3.º As autoridades civis ou militares deverão prestar aos funcionários de finanças todo o auxílio que estes lhes requererem para efeito da fiscalização a seu cargo.
 
-###### Art. 57.º Os chefes das repartições de finanças, sempre que tenham conhecimento da existência de sociedades unipessoais com sede na área do seu concelho ou bairro, comunicarão o facto ao agente do Ministério Público junto do tribunal competente, para os efeitos do artigo 230.º, n.º 1, alínea e), do Estatuto Judiciário.
+Art. 57.º Os chefes das repartições de finanças, sempre que tenham conhecimento da existência de sociedades unipessoais com sede na área do seu concelho ou bairro, comunicarão o facto ao agente do Ministério Público junto do tribunal competente, para os efeitos do artigo 230.º, n.º 1, alínea e), do Estatuto Judiciário.
 
 ### CAPÍTULO VIII — Reclamações e recursos
 
-###### Art. 58.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 58.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 § único. A reclamação ou impugnação deverá circunscrever-se à liquidação do imposto complementar, não podendo delas conhecer-se na parte em que tenham por fundamento erro na determinação da matéria colectável dos impostos parcelares.
 
-###### Art. 59.º As anulações dos impostos parcelares importam, quando for caso disso, a consequente anulação oficiosa do imposto complementar, em face dos elementos existentes na repartição de finanças liquidadora ou a esta obrigatòriamente enviados pelo serviço que deles disponha.
+Art. 59.º As anulações dos impostos parcelares importam, quando for caso disso, a consequente anulação oficiosa do imposto complementar, em face dos elementos existentes na repartição de finanças liquidadora ou a esta obrigatòriamente enviados pelo serviço que deles disponha.
 
-###### Art. 60.º A anulação do imposto. complementar, seja qual for o seu fundamento, será concedida pela diferença entre o imposto liquidado e o que resultar da nova liquidação, havendo-a.
+Art. 60.º A anulação do imposto. complementar, seja qual for o seu fundamento, será concedida pela diferença entre o imposto liquidado e o que resultar da nova liquidação, havendo-a.
 
-###### Art. 61.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança ou sobre o pagamento eventual.
+Art. 61.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança ou sobre o pagamento eventual.
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 10$00.
 
-###### Art. 62.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto complementar arrecadado por cobrança virtual.
+Art. 62.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto complementar arrecadado por cobrança virtual.
 
 § 1.º Contar-se-ão juros de 4 por cento ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
@@ -668,9 +976,9 @@ e) As importâncias que, até 20 por cento do rendimento global líquido, o cont
 
 ### CAPÍTULO IX — Penalidades
 
-###### Art. 63.º As transgressões serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 63.º As transgressões serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 64.º A falta ou inexactidão das declarações modelo n.º 1 a que se referem os artigos 11.º e 17.º, § 3.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 20000$00, havendo simples negligência, e com multa igual ao dobro do imposto que deixou de ser liquidado, no mínimo de 200$00, havendo dolo.
+Art. 64.º A falta ou inexactidão das declarações modelo n.º 1 a que se referem os artigos 11.º e 17.º, § 3.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 20000$00, havendo simples negligência, e com multa igual ao dobro do imposto que deixou de ser liquidado, no mínimo de 200$00, havendo dolo.
 
 Iguais penas se aplicarão à falta ou inexactidão das declarações e elementos a que se refere o n.º 1.º do artigo 14.º, bem como às omissões neles praticadas.
 
@@ -678,67 +986,67 @@ Iguais penas se aplicarão à falta ou inexactidão das declarações e elemento
 
 § 2.º No caso do § 4.º do artigo 11.º, só se entenderá ter havido falta de apresentação da declaração quando seja manifesto que o contribuinte não podia deixar de presumir que o seu rendimento total excedia o correspondente limite, nos termos do mesmo artigo.
 
-###### Art. 65.º A falta ou inexactidão das relações ou comunicações a que aludem os artigos 22.º a 25.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 10000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 70.º
+Art. 65.º A falta ou inexactidão das relações ou comunicações a que aludem os artigos 22.º a 25.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 10000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 70.º
 
-###### Art. 66.º A falta da declaração de que trata o § 2.º do artigo 17.º será punida com multa igual ao triplo do imposto devido, no mínimo de 100$00.
+Art. 66.º A falta da declaração de que trata o § 2.º do artigo 17.º será punida com multa igual ao triplo do imposto devido, no mínimo de 100$00.
 
-###### Art. 67.º A inobservância do disposto na primeira parte do § 6.º do artigo 24.º fará incorrer a entidade emissora na multa de 100$00 a 1000$00 por cada accionista ou obrigacionista em relação ao qual se verifique a falta.
+Art. 67.º A inobservância do disposto na primeira parte do § 6.º do artigo 24.º fará incorrer a entidade emissora na multa de 100$00 a 1000$00 por cada accionista ou obrigacionista em relação ao qual se verifique a falta.
 
-###### Art. 68.º A falta da comunicação exigida na segunda parte do § 6.º do artigo 24.º será punida com multa de 100$00 a 1000$00.
+Art. 68.º A falta da comunicação exigida na segunda parte do § 6.º do artigo 24.º será punida com multa de 100$00 a 1000$00.
 
-###### Art. 69.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, exigidas nos termos dos §§ 1.º e 2.º do artigo 56.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
+Art. 69.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, exigidas nos termos dos §§ 1.º e 2.º do artigo 56.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
 
-###### Art. 70.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+Art. 70.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
-###### Art. 71.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 1000$00.
+Art. 71.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 1000$00.
 
-###### Art. 72.º As multas cujo quantitativo apenas dependa do montante do imposto não poderão exceder 1000000$00.
+Art. 72.º As multas cujo quantitativo apenas dependa do montante do imposto não poderão exceder 1000000$00.
 
-###### Art. 73.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 73.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
 § 1.º A responsabilidade solidária prevista neste artigo só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou o acto delituosos.
 
 § 2.º Após a extinção das pessoas colectivas, responderão solidàriamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 74.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
+Art. 74.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
 
 § único. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
 
-###### Art. 75.º As multas serão impostas mediante processo de transgressão.
+Art. 75.º As multas serão impostas mediante processo de transgressão.
 
-###### Art. 76.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
+Art. 76.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
 
-###### Art. 77.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
+Art. 77.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
 
-###### Art. 78.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
+Art. 78.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
 
-###### Art. 79.º Serão admitidas denúncias perante as repartições e direcções de finanças, os serviços centrais e os de prevenção e fiscalização tributária, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
+Art. 79.º Serão admitidas denúncias perante as repartições e direcções de finanças, os serviços centrais e os de prevenção e fiscalização tributária, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
 
 § 1.º Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
 
 § 2.º A denúncia ficará secreta, salvo se, sendo destituída de fundamento, tiver sido feita dolosamente, caso em que, a requerimento do denunciado, lhe será comunicado o nome do denunciante e o conteúdo da denúncia.
 
-###### Art. 80.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
+Art. 80.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
 
-###### Art. 81.º Nos casos de pagamento espontâneo da multa nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 81.º Nos casos de pagamento espontâneo da multa nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
 § único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
 
-###### Art. 82.º Se a transgressão for praticada com dolo e o quantitativo dos rendimentos ocultados ou a multa aplicada exceder 100000$00, será dada publicidade à condenação ao transgressor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
+Art. 82.º Se a transgressão for praticada com dolo e o quantitativo dos rendimentos ocultados ou a multa aplicada exceder 100000$00, será dada publicidade à condenação ao transgressor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
 
 § 1.º O extracto será organizado pelo tribunal e publicado, a expensas do infractor, em um dos diários ou, não os havendo, em um dos periódicos do concelho onde o infractor residir e, além disso, na segunda ou terceira página de dois diários de grande circulação, um de Lisboa e outro do Porto, entrando as despesas da publicação em regra de custas.
 
 § 2.º Do extracto deverá constar a identificação do infractor, a natureza da transgressão, as circunstâncias mais reprováveis em que foi cometida e a importância do rendimento ocultado.
 
-# PARTE II — Imposto complementar - Secção B
+## PARTE II — Imposto complementar - Secção B
 
 ### CAPÍTULO I — Incidência
 
-###### Art. 83.º O imposto complementar, secção B, é devido pelas sociedades comerciais ou civis sob forma comercial, quando tenham sede no continente ou ilhas adjacentes, e pelas demais pessoas colectivas nacionais ou estrangeiras.
+Art. 83.º O imposto complementar, secção B, é devido pelas sociedades comerciais ou civis sob forma comercial, quando tenham sede no continente ou ilhas adjacentes, e pelas demais pessoas colectivas nacionais ou estrangeiras.
 
 § único. As sociedades com sede no estrangeiro ou nas províncias ultramarinas, que tenham direcção efectiva no continente ou ilhas adjacentes, serão consideradas, para efeitos deste imposto, como tendo aqui a sua sede.
 
-###### Art. 84.º O rendimento global das pessoas colectivas é a soma dos rendimentos sujeitos, no continente ou ilhas adjacentes, aos seguintes impostos parcelares:
+Art. 84.º O rendimento global das pessoas colectivas é a soma dos rendimentos sujeitos, no continente ou ilhas adjacentes, aos seguintes impostos parcelares:
 
 a) Contribuição predial;
 
@@ -756,7 +1064,7 @@ e) Imposto sobre espectáculos e divertimentos públicos.
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 85.º São isentos de imposto:
+Art. 85.º São isentos de imposto:
 
 1.º O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendida a Santa Casa da Misericórdia de Lisboa e os órgãos de coordenação da assistência;
 
@@ -792,15 +1100,15 @@ e) Imposto sobre espectáculos e divertimentos públicos.
 
 § único. Na hipótese prevista na última parte do n.º 3.º, a mera aprovação dos estatutos não confere, só por si, isenção de imposto, devendo cada caso ser submetido à apreciação do Ministro das Finanças, que, ouvida a Direcção-Geral das Contribuições e Impostos, e conforme as circunstâncias, definirá em despacho publicado no Diário do Governo a amplitude da respectiva isenção.
 
-###### Art. 86.º Às pessoas colectivas aproveitam igualmente as isenções estabelecidas para as pessoas singulares no n.º 1.º do artigo 8.º, salvo as das alíneas e), h), i), j), l), m), x) e z), e no artigo 10.º
+Art. 86.º Às pessoas colectivas aproveitam igualmente as isenções estabelecidas para as pessoas singulares no n.º 1.º do artigo 8.º, salvo as das alíneas e), h), i), j), l), m), x) e z), e no artigo 10.º
 
-###### Art. 87.º Ficam também isentas todas as pessoas colectivas cujo rendimento colectável, apurado nos termos do artigo 91.º, não seja superior a 2500$00.
+Art. 87.º Ficam também isentas todas as pessoas colectivas cujo rendimento colectável, apurado nos termos do artigo 91.º, não seja superior a 2500$00.
 
 § único. Quando o rendimento exceda o limite da isenção, por todo ele se pagará imposto, mas sem que a importância deste possa ser maior que o excesso.
 
 ### CAPÍTULO III — Determinação da matéria colectável
 
-###### Art. 88.º As sociedades e demais pessoas colectivas referidas no artigo 83.º que, relativamente ao ano anterior, tenham ficado sujeitas a qualquer dos impostos mencionados no artigo 84.º, apresentarão, de 1 a 15 de Outubro, na repartição de finanças do concelho ou bairro da sua sede a declaração modelo n.º 6, em duplicado.
+Art. 88.º As sociedades e demais pessoas colectivas referidas no artigo 83.º que, relativamente ao ano anterior, tenham ficado sujeitas a qualquer dos impostos mencionados no artigo 84.º, apresentarão, de 1 a 15 de Outubro, na repartição de finanças do concelho ou bairro da sua sede a declaração modelo n.º 6, em duplicado.
 
 § 1.º Se a pessoa colectiva tiver sede fora do território do continente e ilhas adjacentes, a declaração será apresentada na repartição de finanças do concelho ou bairro onde existir a sua representação permanente, e, na falta desta, na Repartição de Finanças do 3.º bairro fiscal de Lisboa.
 
@@ -808,31 +1116,31 @@ e) Imposto sobre espectáculos e divertimentos públicos.
 
 § 3.º Apresentada uma declaração, o contribuinte só terá de renová-la nos anos em que houver alteração nos elementos declarados, incluindo aquele em que deixou de ser tributado em todas as contribuições e impostos parcelares que constavam da sua última declaração.
 
-###### Art. 89.º À declaração de que trata o artigo anterior deverá o contribuinte, se beneficiar da isenção de qualquer dos impostos parcelares e não estiver determinada a respectiva matéria colectável, juntar as declarações e demais elementos a que estaria obrigado na falta daquela isenção.
+Art. 89.º À declaração de que trata o artigo anterior deverá o contribuinte, se beneficiar da isenção de qualquer dos impostos parcelares e não estiver determinada a respectiva matéria colectável, juntar as declarações e demais elementos a que estaria obrigado na falta daquela isenção.
 
 § único. Os documentos referidos neste artigo farão parte integrante da declaração modelo n.º 6.
 
-###### Art. 90.º É aplicável à declaração de que trata o artigo 88.º o disposto nos artigos 12.º e 13.º
+Art. 90.º É aplicável à declaração de que trata o artigo 88.º o disposto nos artigos 12.º e 13.º
 
-###### Art. 91.º Na determinação do rendimento colectável observar-se-á o seguinte:
+Art. 91.º Na determinação do rendimento colectável observar-se-á o seguinte:
 
 1.º Os rendimentos referidos no artigo 84.º serão determinados segundo as regras 1.ª, 2.ª, 3.ª e 5.ª do artigo 15.º deste diploma, com observância do preceituado nos seus §§ 1.º e 2.º, e englobados nos termos do artigo 17.º, devendo abater-se aos mesmos rendimentos a importância dos impostos parcelares que sobre eles tiverem recaído;
 
 2.º Tratando-se de contribuintes tributados em contribuição industrial, grupo A, não serão de considerar, para apuramento da matéria colectável deste imposto, os rendimentos correspondentes às contribuições e impostos deduzidos à colecta daquela contribuição nos termos das alíneas a) e b) e § 2.º do artigo 89.º do Código da Contribuição Industrial.
 
-###### Art. 92.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos §§ 1.º, 2.º e 3.º do artigo 17.º, devendo considerar-se substituída pela do modelo n.º 6 a declaração modelo n.º 1 a que ali se faz referência.
+Art. 92.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos §§ 1.º, 2.º e 3.º do artigo 17.º, devendo considerar-se substituída pela do modelo n.º 6 a declaração modelo n.º 1 a que ali se faz referência.
 
-###### Art. 93.º Os chefes das repartições de finanças que, pelos elementos em seu poder, tenham conhecimento de que quaisquer rendimentos abrangidos pelo artigo 84.º, sujeitos a impostos parcelares no respectivo concelho ou bairro, pertencem a uma pessoa colectiva que tem fora dele a sua sede remeterão anualmente até 15 de Outubro, à repartição de finanças do concelho ou bairro competente para o englobamento, notas individuais que deverão conter discriminadamente os rendimentos relativos ao ano anterior e correspondentes colectas e adicionais.
+Art. 93.º Os chefes das repartições de finanças que, pelos elementos em seu poder, tenham conhecimento de que quaisquer rendimentos abrangidos pelo artigo 84.º, sujeitos a impostos parcelares no respectivo concelho ou bairro, pertencem a uma pessoa colectiva que tem fora dele a sua sede remeterão anualmente até 15 de Outubro, à repartição de finanças do concelho ou bairro competente para o englobamento, notas individuais que deverão conter discriminadamente os rendimentos relativos ao ano anterior e correspondentes colectas e adicionais.
 
 § único. Quando os elementos a incluir nas notas só possam ser apurados posteriormente a 15 de Outubro, a remessa efectuar-se-á dentro do prazo de 15 dias a contar da data em que se tornou possível o apuramento.
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 94.º As taxas do imposto complementar, secção B, são as seguintes:
+Art. 94.º As taxas do imposto complementar, secção B, são as seguintes:
 
 a) Para as sociedades em geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf))](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf)
 
 b) Para as sociedades de simples administração de bens - as taxas constantes da alínea a) elevadas ao dobro;
 
@@ -844,95 +1152,95 @@ c) Para as pessoas colectivas não sociedades - as taxas constantes da alínea a
 
 § 3.º As sociedades a que respeita o parágrafo anterior deixarão de ser consideradas de simples administração de bens logo que a média dos rendimentos relativos a três anos seguidos se torne inferior a 60 por cento da dos proveitos ou ganhos.
 
-###### Art. 95.º Sobre este imposto não recai qualquer adicional.
+Art. 95.º Sobre este imposto não recai qualquer adicional.
 
 ### CAPÍTULO V — Liquidação
 
-###### Art. 96.º O englobamento dos rendimentos de cada contribuinte e a liquidação do imposto são da competência da repartição de finanças onde, nos termos do artigo 88.º, deva ser entregue a declaração modelo n.º 6.
+Art. 96.º O englobamento dos rendimentos de cada contribuinte e a liquidação do imposto são da competência da repartição de finanças onde, nos termos do artigo 88.º, deva ser entregue a declaração modelo n.º 6.
 
-###### Art. 97.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos artigos 39.º, 41.º a 44.º e 46.º
+Art. 97.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos artigos 39.º, 41.º a 44.º e 46.º
 
-###### Art. 98.º A liquidação do imposto far-se-á anualmente nos verbetes de lançamento, até 20 de Novembro do ano seguinte àquele a que respeita, preenchendo-se seguidamente o índice dos verbetes e relação para descarga dos documentos de cobrança.
+Art. 98.º A liquidação do imposto far-se-á anualmente nos verbetes de lançamento, até 20 de Novembro do ano seguinte àquele a que respeita, preenchendo-se seguidamente o índice dos verbetes e relação para descarga dos documentos de cobrança.
 
-###### Art. 99.º Até ao dia 20 de Novembro a repartição de finanças remeterá aos contribuintes, pelo correio e em sobrescrito fechado, uma nota demonstrativa da liquidação efectuada, a qual conterá a indicação do mês em que o imposto deverá ser pago.
+Art. 99.º Até ao dia 20 de Novembro a repartição de finanças remeterá aos contribuintes, pelo correio e em sobrescrito fechado, uma nota demonstrativa da liquidação efectuada, a qual conterá a indicação do mês em que o imposto deverá ser pago.
 
-###### Art. 100.º Na repartição de finanças competente para o englobamento dos rendimentos e liquidação do imposto organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 6, no qual serão incorporados os elementos que lhe respeitem, com excepção do verbete de lançamento.
+Art. 100.º Na repartição de finanças competente para o englobamento dos rendimentos e liquidação do imposto organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 6, no qual serão incorporados os elementos que lhe respeitem, com excepção do verbete de lançamento.
 
 ### CAPÍTULO VI — Cobrança
 
-###### Art. 101.º Os conhecimentos de cobrança serão entregues até 20 de Novembro ao tesoureiro da Fazenda Pública, que anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
+Art. 101.º Os conhecimentos de cobrança serão entregues até 20 de Novembro ao tesoureiro da Fazenda Pública, que anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
 
-###### Art. 102.º O imposto deverá ser pago durante o mês de Dezembro do ano seguinte àquele a que respeita.
+Art. 102.º O imposto deverá ser pago durante o mês de Dezembro do ano seguinte àquele a que respeita.
 
-###### Art. 103.º Nos casos em que a liquidação não possa fazer-se no prazo estabelecido no artigo 98.º, bem como quando se proceda à liquidação por omissão ao lançamento ou a liquidação adicional nos termos dos artigos 42.º e 97.º, observar-se-á o disposto no artigo 51.º, entregando-se ao contribuinte, no acto da notificação, a nota a que se refere o artigo 99.º
+Art. 103.º Nos casos em que a liquidação não possa fazer-se no prazo estabelecido no artigo 98.º, bem como quando se proceda à liquidação por omissão ao lançamento ou a liquidação adicional nos termos dos artigos 42.º e 97.º, observar-se-á o disposto no artigo 51.º, entregando-se ao contribuinte, no acto da notificação, a nota a que se refere o artigo 99.º
 
-###### Art. 104.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos artigos 52.º a 55.º
+Art. 104.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos artigos 52.º a 55.º
 
 ### CAPÍTULO VII — Fiscalização
 
-###### Art. 105.º Na fiscalização do cumprimento das obrigações impostas na parte II deste código observar-se-á o disposto no artigo 56.º
+Art. 105.º Na fiscalização do cumprimento das obrigações impostas na parte II deste código observar-se-á o disposto no artigo 56.º
 
 ### CAPÍTULO VIII — Reclamações e recursos
 
-###### Art. 106.º É aplicável a este imposto o preceituado para o da secção A nos artigos 58.º a 62.º
+Art. 106.º É aplicável a este imposto o preceituado para o da secção A nos artigos 58.º a 62.º
 
 ### CAPÍTULO IX — Penalidades
 
-###### Art. 107.º A falta ou inexactidão das declarações a que se referem o artigo 88.º e o § 3.º do artigo 17.º, aplicável por força do artigo 92.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 20000$00, havendo simples negligência, e com multa igual ao dobro do imposto que deixou de ser liquidado, no mínimo de 200$00, havendo dolo.
+Art. 107.º A falta ou inexactidão das declarações a que se referem o artigo 88.º e o § 3.º do artigo 17.º, aplicável por força do artigo 92.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 20000$00, havendo simples negligência, e com multa igual ao dobro do imposto que deixou de ser liquidado, no mínimo de 200$00, havendo dolo.
 
 Iguais penas se aplicarão à falta ou inexactidão das declarações e elementos a que se refere o artigo 89.º, bem como às omissões neles praticadas.
 
 § único. Consideram-se sempre dolosas as omissões ou indicações inexactas que prejudiquem o correcto englobamento dos rendimentos, quando as infracções do contribuinte e das entidades referidas nos artigos 24.º e 25.º forem coincidentes.
 
-###### Art. 108.º A falta da declaração de que trata o § 2.º do artigo 17.º, exigível por força do disposto no artigo 92.º, será punida com multa igual ao triplo do imposto devido, no mínimo de 100$00.
+Art. 108.º A falta da declaração de que trata o § 2.º do artigo 17.º, exigível por força do disposto no artigo 92.º, será punida com multa igual ao triplo do imposto devido, no mínimo de 100$00.
 
-###### Art. 109.º As disposições dos artigos 63.º, 69.º, 70.º e 72.º a 82.º são igualmente aplicáveis quando se trate de transgressões relativas ao imposto complementar, secção B.
+Art. 109.º As disposições dos artigos 63.º, 69.º, 70.º e 72.º a 82.º são igualmente aplicáveis quando se trate de transgressões relativas ao imposto complementar, secção B.
 
-###### Art. 110.º Por qualquer infracção não especialmente prevenida será aplicada a multa de 100$00 a 1000$00.
+Art. 110.º Por qualquer infracção não especialmente prevenida será aplicada a multa de 100$00 a 1000$00.
 
-# PARTE III — Do regime especial das acções e obrigações
+## PARTE III — Do regime especial das acções e obrigações
 
 ### CAPÍTULO I — Títulos nacionais
 
-###### Art. 111.º As acções e obrigações ao portador emitidas por sociedades ou quaisquer outras entidades com sede no País, bem como as obrigações emitidas por sociedades concessionárias estrangeiras equiparadas às emitidas por sociedades nacionais, nos termos do [Decreto-Lei n.º 41223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41223-1957-280064), de 7 de Agosto de 1957, poderão ser registadas, a pedido dos seus possuidores, e para efeitos tributários, na sede da entidade emissora ou, sendo esta situada fora do território do continente e ilhas adjacentes, na sua representação permanente.
+Art. 111.º As acções e obrigações ao portador emitidas por sociedades ou quaisquer outras entidades com sede no País, bem como as obrigações emitidas por sociedades concessionárias estrangeiras equiparadas às emitidas por sociedades nacionais, nos termos do [Decreto-Lei n.º 41223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41223-1957-280064), de 7 de Agosto de 1957, poderão ser registadas, a pedido dos seus possuidores, e para efeitos tributários, na sede da entidade emissora ou, sendo esta situada fora do território do continente e ilhas adjacentes, na sua representação permanente.
 
-###### Art. 112.º O registo a que se refere o artigo anterior será efectuado em presença de declaração modelo n.º 7, apresentada em duplicado, com a assinatura do possuidor dos títulos reconhecida por notário no original.
+Art. 112.º O registo a que se refere o artigo anterior será efectuado em presença de declaração modelo n.º 7, apresentada em duplicado, com a assinatura do possuidor dos títulos reconhecida por notário no original.
 
 § 1.º Quando o declarante seja comerciante, poderá o reconhecimento notarial ser substituído pela aposição do carimbo ou selo branco em uso no seu estabelecimento.
 
 § 2.º O duplicado será restituído ao apresentante, depois de anotado com o número do registo e a data em que este se efectuou, devendo a anotação ser assinada por um dos administradores, directores ou gerentes da entidade emissora e a assinatura ser autenticada com o respectivo selo branco ou carimbo.
 
-###### Art. 113.º O registo será efectuado em livros, modelo n.º 8, um para as acções, outro para as obrigações, isentos de imposto do selo.
+Art. 113.º O registo será efectuado em livros, modelo n.º 8, um para as acções, outro para as obrigações, isentos de imposto do selo.
 
 § único. Os livros deverão ser apresentados na repartição de finanças do concelho ou bairro da sede da entidade ou da sua representação permanente no continente ou ilhas adjacentes, antes de utilizados, para que o respectivo chefe assine os termos de abertura e encerramento, numere as folhas e as rubrique.
 
-###### Art. 114.º Sempre que se verifique a transferência entre vivos de títulos ao portador registados nos termos do artigo 111.º, o alienante comunicará o facto à entidade emitente, apresentando, no prazo de quinze dias a contar da data em que tiver ocorrido, a declaração modelo n.º 9, em duplicado.
+Art. 114.º Sempre que se verifique a transferência entre vivos de títulos ao portador registados nos termos do artigo 111.º, o alienante comunicará o facto à entidade emitente, apresentando, no prazo de quinze dias a contar da data em que tiver ocorrido, a declaração modelo n.º 9, em duplicado.
 
 § único. No caso de adjudicação ou venda dos títulos em processo judicial será dispensada a declaração, competindo ao respectivo escrivão fazer a comunicação a que se refere este artigo.
 
-###### Art. 115.º Quando os títulos registados forem transmitidos por morte, deverão os sucessores na sua propriedade comunicar o facto à entidade emitente, apresentando, no prazo de 60 dias a contar da data em que tiverem ficado determinados os novos possuidores, a declaração modelo n.º 9, em duplicado.
+Art. 115.º Quando os títulos registados forem transmitidos por morte, deverão os sucessores na sua propriedade comunicar o facto à entidade emitente, apresentando, no prazo de 60 dias a contar da data em que tiverem ficado determinados os novos possuidores, a declaração modelo n.º 9, em duplicado.
 
 § único. Apresentada a declaração por qualquer dos sucessores na propriedade dos títulos, ficarão os outros dispensados de a fazer.
 
-###### Art. 116.º Verificando-se a extinção do usufruto sobre títulos registados, o antigo usufrutuário, ou o proprietário, se aquele não sobreviver, será obrigado a comunicar o facto, apresentando à entidade emissora, dentro de 60 dias, a declaração modelo n.º 9, em duplicado.
+Art. 116.º Verificando-se a extinção do usufruto sobre títulos registados, o antigo usufrutuário, ou o proprietário, se aquele não sobreviver, será obrigado a comunicar o facto, apresentando à entidade emissora, dentro de 60 dias, a declaração modelo n.º 9, em duplicado.
 
-###### Art. 117.º Em face das comunicações a que se referem os artigos 114.º a 116.º, ou em consequência do processo de transgressão por falta delas, proceder-se-á ao cancelamento dos registos, se não tiver sido já efectuado por força de novo registo.
+Art. 117.º Em face das comunicações a que se referem os artigos 114.º a 116.º, ou em consequência do processo de transgressão por falta delas, proceder-se-á ao cancelamento dos registos, se não tiver sido já efectuado por força de novo registo.
 
 § único. O pedido de registo pelos novos titulares, antes de decorridos os prazos previstos nos mencionados artigos, dispensa a apresentação das declarações.
 
-###### Art. 118.º A transformação em nominativos dos títulos ao portador registados importará para a entidade emissora a obrigação de cancelar imediatamente o registo.
+Art. 118.º A transformação em nominativos dos títulos ao portador registados importará para a entidade emissora a obrigação de cancelar imediatamente o registo.
 
-###### Art. 119.º Além de nos casos previstos nos artigos anteriores, o cancelamento do registo poderá ser efectuado a todo o tempo em face da declaração modelo n.º 9, que deverá ser assinada pelo respectivo titular e apresentada em duplicado.
+Art. 119.º Além de nos casos previstos nos artigos anteriores, o cancelamento do registo poderá ser efectuado a todo o tempo em face da declaração modelo n.º 9, que deverá ser assinada pelo respectivo titular e apresentada em duplicado.
 
-###### Art. 120.º Os possuidores de títulos ao portador registados participarão por escrito à entidade emissora todas as mudanças de residência ou sede, dentro do prazo de quinze dias a contar da data em que o facto tiver ocorrido.
+Art. 120.º Os possuidores de títulos ao portador registados participarão por escrito à entidade emissora todas as mudanças de residência ou sede, dentro do prazo de quinze dias a contar da data em que o facto tiver ocorrido.
 
 § único. A nova residência ou sede será averbada no registo.
 
-###### Art. 121.º Os registos, cancelamentos e averbamentos deverão ser efectuados no prazo de cinco dias a contar da data do recebimento das respectivas declarações, ou participações, pela entidade emitente.
+Art. 121.º Os registos, cancelamentos e averbamentos deverão ser efectuados no prazo de cinco dias a contar da data do recebimento das respectivas declarações, ou participações, pela entidade emitente.
 
-###### Art. 122.º Pelos registos, cancelamentos e averbamentos de que tratam os artigos anteriores não poderá ser cobrada qualquer comissão ou remuneração.
+Art. 122.º Pelos registos, cancelamentos e averbamentos de que tratam os artigos anteriores não poderá ser cobrada qualquer comissão ou remuneração.
 
-###### Art. 123.º Quando os interessados não tenham a sua residência ou sede no concelho em que devem ser apresentadas as declarações e participações referidas nos artigos 112.º, 114.º a 116.º, 119.º e 120.º, poderão estas ser entregues na repartição de finanças do concelho ou bairro em cuja área tenham a residência ou sede.
+Art. 123.º Quando os interessados não tenham a sua residência ou sede no concelho em que devem ser apresentadas as declarações e participações referidas nos artigos 112.º, 114.º a 116.º, 119.º e 120.º, poderão estas ser entregues na repartição de finanças do concelho ou bairro em cuja área tenham a residência ou sede.
 
 § 1.º No caso previsto neste artigo, a declaração será feita em triplicado, devendo um dos exemplares ser restituído ao apresentante, depois de averbado com o recibo dos outros dois, os quais serão remetidos, no primeiro dia útil seguinte, à entidade competente para o registo, cancelamento ou averbamento.
 
@@ -940,13 +1248,13 @@ Iguais penas se aplicarão à falta ou inexactidão das declarações e elemento
 
 A anotação será assinada e autenticada nos termos do § 2.º do artigo 112.º
 
-###### Art. 124.º Os rendimentos, líquidos do imposto de capitais, secção B, das acções e obrigações ao portador não registadas ficarão sujeitos a imposto complementar pela taxa de 20 por cento.
+Art. 124.º Os rendimentos, líquidos do imposto de capitais, secção B, das acções e obrigações ao portador não registadas ficarão sujeitos a imposto complementar pela taxa de 20 por cento.
 
 § 1.º Se a entidade emissora tiver a sua sede nas províncias ultramarinas, ficarão apenas sujeitos ao imposto os rendimentos pagos no continente ou ilhas adjacentes, e por uma taxa igual à diferença entre a taxa fixada neste artigo e a do imposto complementar ou equivalente, a que tenham sido sujeitos no ultramar como rendimentos de títulos ao portador não registados.
 
 § 2.º Para efeitos do presente artigo, atender-se-á, consoante o caso, à situação em que os títulos se encontrem à data do vencimento dos juros das obrigações, à da aprovação das contas de gerência ou à da colocação dos dividendos à disposição dos seus titulares, se esta tiver tido lugar antes daquela aprovação.
 
-###### Art. 125.º O imposto devido nos termos do artigo anterior será entregue pelas entidades a que incumbe o pagamento dos rendimentos, na tesouraria da Fazenda Pública do concelho ou bairro da sua sede ou representação permanente no território do continente e ilhas adjacentes, dentro do prazo estabelecido para a entrega do imposto de capitais, secção B, referente aos mesmos rendimentos, ou até ao fim do mês seguinte àquele em que se tiver efectuado o pagamento, quando se trate de rendimentos não sujeitos a este imposto.
+Art. 125.º O imposto devido nos termos do artigo anterior será entregue pelas entidades a que incumbe o pagamento dos rendimentos, na tesouraria da Fazenda Pública do concelho ou bairro da sua sede ou representação permanente no território do continente e ilhas adjacentes, dentro do prazo estabelecido para a entrega do imposto de capitais, secção B, referente aos mesmos rendimentos, ou até ao fim do mês seguinte àquele em que se tiver efectuado o pagamento, quando se trate de rendimentos não sujeitos a este imposto.
 
 § único. A entrega far-se-á por meio de guia modelo n.º 10 processada em triplicado pelas entidades responsáveis, com as indicações seguintes:
 
@@ -958,13 +1266,13 @@ c) Importância do imposto a pagar;
 
 d) Data do vencimento dos juros das obrigações, da aprovação das contas de gerência, ou da colocação dos dividendos à disposição dos seus titulares, se esta tiver tido lugar antes daquela aprovação.
 
-###### Art. 126.º As entidades que procedam ao pagamento de importâncias sujeitas a imposto nos termos do artigo 124.º ficam obrigadas a efectuar sempre o desconto nos rendimentos respectivos.
+Art. 126.º As entidades que procedam ao pagamento de importâncias sujeitas a imposto nos termos do artigo 124.º ficam obrigadas a efectuar sempre o desconto nos rendimentos respectivos.
 
-###### Art. 127.º O duplicado das declarações ou participações a que se referem os artigos 114.º a 116.º, 119.º e 120.º será sempre restituído pelas entidades a que forem dirigidas, depois de averbado com a nota de ter sido efectuada a operação e sua data, devendo a anotação ser assinada e autenticada nos termos do § 2.º do artigo 112.º
+Art. 127.º O duplicado das declarações ou participações a que se referem os artigos 114.º a 116.º, 119.º e 120.º será sempre restituído pelas entidades a que forem dirigidas, depois de averbado com a nota de ter sido efectuada a operação e sua data, devendo a anotação ser assinada e autenticada nos termos do § 2.º do artigo 112.º
 
 ### CAPÍTULO II — Títulos estrangeiros
 
-###### Art. 128.º Os títulos da dívida pública de países estrangeiros e as acções e obrigações emitidas por sociedades ou outras entidades com sede no estrangeiro serão obrigatòriamente registados nas direcções de finanças, quando se encontrem no continente ou ilhas adjacentes e pertençam a pessoas que aí tenham residência ou sede.
+Art. 128.º Os títulos da dívida pública de países estrangeiros e as acções e obrigações emitidas por sociedades ou outras entidades com sede no estrangeiro serão obrigatòriamente registados nas direcções de finanças, quando se encontrem no continente ou ilhas adjacentes e pertençam a pessoas que aí tenham residência ou sede.
 
 § 1.º Exceptuam-se do disposto neste artigo as obrigações equiparadas às emitidas por sociedades nacionais, nos termos do [Decreto-Lei n.º 41223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41223-1957-280064), de 7 de Agosto de 1957.
 
@@ -974,15 +1282,15 @@ d) Data do vencimento dos juros das obrigações, da aprovação das contas de g
 
 § 4.º Dispensar-se-á a apresentação dos títulos quando estes se encontrem depositados em estabelecimento de crédito, e a declaração seja confirmada por um dos seus administradores, directores ou gerentes, com a assinatura autenticada mediante o respectivo selo branco ou carimbo.
 
-###### Art. 129.º Se os proprietários dos títulos não procederem ao seu registo dentro do prazo referido no artigo anterior, e os mesmos títulos se encontrarem, dados em garantia, em poder de outras pessoas, a declaração modelo n.º 12 poderá ser feita por estas, indicando-se nela a situação em que se acham os títulos e o nome e residência ou sede do seu proprietário.
+Art. 129.º Se os proprietários dos títulos não procederem ao seu registo dentro do prazo referido no artigo anterior, e os mesmos títulos se encontrarem, dados em garantia, em poder de outras pessoas, a declaração modelo n.º 12 poderá ser feita por estas, indicando-se nela a situação em que se acham os títulos e o nome e residência ou sede do seu proprietário.
 
-###### Art. 130.º A competência para o registo de títulos possuídos em comum por comproprietários residentes em mais de um distrito pertence à direcção de finanças daquele em que residam os comproprietários da maior parte.
+Art. 130.º A competência para o registo de títulos possuídos em comum por comproprietários residentes em mais de um distrito pertence à direcção de finanças daquele em que residam os comproprietários da maior parte.
 
 § único. Sendo igual a parte pertencente aos comproprietários residentes em distritos diferentes, será o registo efectuado, à escolha dos interessados, na direcção de finanças de um dos distritos da sua residência.
 
-###### Art. 131.º Os títulos estrangeiros que estejam depositados no território do continente e ilhas adjacentes, mas pertençam a pessoas com residência ou sede fora dele, deverão, quando transmitidos a favor de pessoas com residência ou com sede no dito território, ser registados pelo depositário antes da sua entrega aos adquirentes.
+Art. 131.º Os títulos estrangeiros que estejam depositados no território do continente e ilhas adjacentes, mas pertençam a pessoas com residência ou sede fora dele, deverão, quando transmitidos a favor de pessoas com residência ou com sede no dito território, ser registados pelo depositário antes da sua entrega aos adquirentes.
 
-###### Art. 132.º No caso de transmissão entre vivos de títulos registados, será apresentada na direcção de finanças em que existir o registo, dentro do prazo de quinze dias a contar da data em que o facto tiver ocorrido, declaração modelo n.º 13, em triplicado, assinada pelo alienante e pelo adquirente.
+Art. 132.º No caso de transmissão entre vivos de títulos registados, será apresentada na direcção de finanças em que existir o registo, dentro do prazo de quinze dias a contar da data em que o facto tiver ocorrido, declaração modelo n.º 13, em triplicado, assinada pelo alienante e pelo adquirente.
 
 § 1.º Se os títulos se encontrarem na posse de credor pignoratício e forem por este vendidos por falta do cumprimento da obrigação, será a declaração assinada por aquele e pelo comprador, nela se indicando a pessoa em cujo nome o registo se encontra feito e os nomes e residência ou sede dos adquirentes dos títulos.
 
@@ -992,7 +1300,7 @@ d) Data do vencimento dos juros das obrigações, da aprovação das contas de g
 
 § 4.º No caso de adjudicação ou venda dos títulos em processo judicial, a declaração será apresentada também em duplicado, mas assinada apenas pelo adquirente, competindo ao respectivo escrivão comunicar o facto dentro de quinze dias à direcção de finanças em que os títulos estiverem registados.
 
-###### Art. 133.º Quando os títulos estrangeiros registados forem transmitidos por morte, deverá o sucessor apresentar na direcção de finanças em que os títulos se encontrem registados, dentro do prazo de 60 dias a contar da data em que tiver ficado determinada a sua propriedade, a declaração modelo n.º 14, em duplicado, com indicação do nome e residência da pessoa de quem provieram os títulos.
+Art. 133.º Quando os títulos estrangeiros registados forem transmitidos por morte, deverá o sucessor apresentar na direcção de finanças em que os títulos se encontrem registados, dentro do prazo de 60 dias a contar da data em que tiver ficado determinada a sua propriedade, a declaração modelo n.º 14, em duplicado, com indicação do nome e residência da pessoa de quem provieram os títulos.
 
 § 1.º A declaração será acompanhada de certidão da escritura de partilha ou outro documento em que se mostre definida a propriedade dos títulos.
 
@@ -1002,17 +1310,17 @@ d) Data do vencimento dos juros das obrigações, da aprovação das contas de g
 
 § 4.º Quando todos os herdeiros ou legatários tenham a residência ou sede fora do território do continente e ilhas adjacentes, dispensar-se-á a junção do documento referido no § 1.º, devendo, neste caso, a declaração ser apresentada no prazo de 60 dias a contar da data do óbito do titular do registo.
 
-###### Art. 134.º Verificando-se a extinção do usufruto sobre títulos estrangeiros registados, deverá o proprietário apresentar na direcção de finanças em que existir o registo, dentro do prazo de 60 dias a contar da data em que o facto tiver ocorrido, declaração modelo n.º 15, em duplicado, com indicação do nome do ex-usufrutuário.
+Art. 134.º Verificando-se a extinção do usufruto sobre títulos estrangeiros registados, deverá o proprietário apresentar na direcção de finanças em que existir o registo, dentro do prazo de 60 dias a contar da data em que o facto tiver ocorrido, declaração modelo n.º 15, em duplicado, com indicação do nome do ex-usufrutuário.
 
 § único. Residindo o proprietário fora do território do continente e ilhas adjacentes, será a declaração apresentada pelo ex-usufrutuário ou, sendo este falecido, pela pessoa a quem incumbir o encargo de cabeça-de-casal.
 
-###### Art. 135.º Se os novos proprietários dos títulos tiverem a sua residência ou sede no continente ou ilhas adjacentes, mas em distrito diferente daquele em cuja direcção de finanças os títulos se encontram registados, serão apresentados mais dois exemplares das declarações de que tratam os artigos 132.º e 133.º, os quais, depois de averbados com a nota de cancelamento do registo, serão remetidos à direcção de finanças do distrito da residência ou sede do adquirinte, para efeitos do registo em seu nome.
+Art. 135.º Se os novos proprietários dos títulos tiverem a sua residência ou sede no continente ou ilhas adjacentes, mas em distrito diferente daquele em cuja direcção de finanças os títulos se encontram registados, serão apresentados mais dois exemplares das declarações de que tratam os artigos 132.º e 133.º, os quais, depois de averbados com a nota de cancelamento do registo, serão remetidos à direcção de finanças do distrito da residência ou sede do adquirinte, para efeitos do registo em seu nome.
 
 Anàlogamente se procederá quanto à declaração de que trata o artigo anterior, se o proprietário residir ou tiver a sede em distrito diferente daquele em que os títulos se encontram registados.
 
 § único. Registados novamente os títulos, a respectiva direcção de finanças remeterá ao adquirente, pelo correio e sob registo, um dos exemplares da declaração devidamente averbado.
 
-###### Art. 136.º Sempre que os proprietários dos títulos estrangeiros registados mudem a sua residência ou sede, deverão participar o facto, dentro dos quinze dias seguintes, à direcção de finanças em que os títulos se encontram registados, no caso de a nova residência ou sede se situar dentro do mesmo distrito ou fora do território do continente e ilhas adjacentes, e à direcção de finanças do distrito da nova residência ou sede, quando situada esta no referido território, mas em distrito diferente do da anterior.
+Art. 136.º Sempre que os proprietários dos títulos estrangeiros registados mudem a sua residência ou sede, deverão participar o facto, dentro dos quinze dias seguintes, à direcção de finanças em que os títulos se encontram registados, no caso de a nova residência ou sede se situar dentro do mesmo distrito ou fora do território do continente e ilhas adjacentes, e à direcção de finanças do distrito da nova residência ou sede, quando situada esta no referido território, mas em distrito diferente do da anterior.
 
 § 1.º Nos casos de mudança de residência ou sede dentro da área do mesmo distrito ou para fora do território do continente e ilhas adjacentes, a participação será feita em duplicado e em papel comum, procedendo-se, no primeiro caso, ao averbamento da nova residência ou sede nos registos, e, no segundo, ao seu cancelamento.
 
@@ -1020,13 +1328,13 @@ Anàlogamente se procederá quanto à declaração de que trata o artigo anterio
 
 § 3.º No caso do parágrafo anterior, a direcção de finanças do distrito da nova residência ou sede enviará, para efeitos de cancelamento, à direcção de finanças em que o registo se encontrava efectuado, um exemplar da declaração devidamente averbado com a nota do novo registo, e acompanhado do exemplar restituído nos termos do § único do artigo 138.º
 
-###### Art. 137.º Quando os títulos registados forem resgatados, amortizados ou transferidos para fora do território do continente e ilhas adjacentes, deverá o seu proprietário apresentar na respectiva direcção de finanças, no prazo de 30 dias, a declaração modelo n.º 17, em duplicado, acompanhada de documento comprovativo da realização daquelas operações, em face do que se cancelará o registo.
+Art. 137.º Quando os títulos registados forem resgatados, amortizados ou transferidos para fora do território do continente e ilhas adjacentes, deverá o seu proprietário apresentar na respectiva direcção de finanças, no prazo de 30 dias, a declaração modelo n.º 17, em duplicado, acompanhada de documento comprovativo da realização daquelas operações, em face do que se cancelará o registo.
 
-###### Art. 138.º Sempre que haja lugar ao cancelamento do registo, será apresentado, juntamente com a declaração ou participação que lhe dá origem, o exemplar da declaração em poder do interessado, no qual se procederá à inutilização dos números dos títulos cujo registo foi cancelado.
+Art. 138.º Sempre que haja lugar ao cancelamento do registo, será apresentado, juntamente com a declaração ou participação que lhe dá origem, o exemplar da declaração em poder do interessado, no qual se procederá à inutilização dos números dos títulos cujo registo foi cancelado.
 
 § único. Havendo lugar ao cancelamento do registo de todos os títulos incluídos numa mesma declaração, o respectivo exemplar será restituído pelo interessado, para ser arquivado na direcção de finanças.
 
-###### Art. 139.º Sempre que os interessados não tenham a sua residência ou sede no concelho capital do distrito em cuja direcção de finanças devam apresentar as declarações e participações a que se referem os artigos 128.º a 137.º, poderão estas ser entregues na repartição de finanças do concelho ou bairro em que tenham residência ou sede, que se encarregará da remessa àquela direcção de finanças.
+Art. 139.º Sempre que os interessados não tenham a sua residência ou sede no concelho capital do distrito em cuja direcção de finanças devam apresentar as declarações e participações a que se referem os artigos 128.º a 137.º, poderão estas ser entregues na repartição de finanças do concelho ou bairro em que tenham residência ou sede, que se encarregará da remessa àquela direcção de finanças.
 
 § 1.º No caso previsto neste artigo, será entregue mais um exemplar da declaração ou participação, para ser restituído ao apresentante, depois de averbado com o recibo dos restantes, os quais serão remetidos, no primeiro dia útil seguinte, à direcção de finanças competente para o registo, cancelamento ou averbamento.
 
@@ -1034,66 +1342,66 @@ Anàlogamente se procederá quanto à declaração de que trata o artigo anterio
 
 § 3.º Quando os títulos tenham sido apresentados com a declaração, serão restituídos ao apresentante logo que conferidos na repartição de finanças.
 
-###### Art. 140.º As assinaturas dos declarantes nas declarações modelos n.os 12 a 17 serão reconhecidas por notário, podendo o reconhecimento ser substituído pela apresentação do bilhete de identidade dos interessados, de cujo número e data, bem como da repartição onde foi passado, se fará na declaração o competente averbamento, ou, tratando-se de comerciantes, pela aposição do respectivo selo branco ou carimbo.
+Art. 140.º As assinaturas dos declarantes nas declarações modelos n.os 12 a 17 serão reconhecidas por notário, podendo o reconhecimento ser substituído pela apresentação do bilhete de identidade dos interessados, de cujo número e data, bem como da repartição onde foi passado, se fará na declaração o competente averbamento, ou, tratando-se de comerciantes, pela aposição do respectivo selo branco ou carimbo.
 
 § único. No caso de os títulos estarem depositados em estabelecimentos de crédito, será dispensada a autenticação referida neste artigo, desde que a declaração seja confirmada nos termos do § 4.º do artigo 128.º
 
 ### CAPÍTULO III — Fiscalização
 
-###### Art. 141.º Não poderão ser pagos nem negociados juros ou outros rendimentos de títulos estrangeiros nas condições do artigo 128.º, sem que estes se mostrem registados nos termos do presente código.
+Art. 141.º Não poderão ser pagos nem negociados juros ou outros rendimentos de títulos estrangeiros nas condições do artigo 128.º, sem que estes se mostrem registados nos termos do presente código.
 
-###### Art. 142.º Na fiscalização do cumprimento das obrigações impostas na parte III deste código observar-se-á o disposto no artigo 56.º
+Art. 142.º Na fiscalização do cumprimento das obrigações impostas na parte III deste código observar-se-á o disposto no artigo 56.º
 
 ### CAPÍTULO IV — Reclamações e recursos
 
-###### Art. 143.º Os titulares dos rendimentos, bem como as entidades responsáveis pela entrega do imposto de que trata o artigo 124.º, poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 143.º Os titulares dos rendimentos, bem como as entidades responsáveis pela entrega do imposto de que trata o artigo 124.º, poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 § único. Os prazos para as reclamações e impugnações, quando apresentadas pelos titulares dos rendimentos, contam-se a partir da data em que se verificou o recebimento do rendimento sobre que incidiu o imposto, e, quando apresentadas pelas entidades responsáveis pela entrega, a partir da data em que esta tenha ocorrido.
 
-###### Art. 144.º Anulada a liquidação, por decisão da entidade ou tribunal competente, cora trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto complementar arrecadado por cobrança virtual.
+Art. 144.º Anulada a liquidação, por decisão da entidade ou tribunal competente, cora trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto complementar arrecadado por cobrança virtual.
 
 ### CAPÍTULO V — Penalidades
 
-###### Art. 145.º As entidades que, não se encontrando reconhecida ou autenticada a assinatura do declarante, nos termos do artigo 112.º e seu § 1.º, dêem andamento a qualquer declaração para registo de títulos nacionais ao portador, incorrerão na multa de 100$00 a 10000$00.
+Art. 145.º As entidades que, não se encontrando reconhecida ou autenticada a assinatura do declarante, nos termos do artigo 112.º e seu § 1.º, dêem andamento a qualquer declaração para registo de títulos nacionais ao portador, incorrerão na multa de 100$00 a 10000$00.
 
-###### Art. 146.º A infracção ao disposto nos artigos 114.º, 115.º, 116.º e 120.º será punida com a multa de 100$00 a 10000$00 aplicável a cada infractor.
+Art. 146.º A infracção ao disposto nos artigos 114.º, 115.º, 116.º e 120.º será punida com a multa de 100$00 a 10000$00 aplicável a cada infractor.
 
-###### Art. 147.º A inobservância do disposto nos artigos 112.º, § 2.º, 121.º, 122.º, 123.º, § 2.º, e 127.º importa a aplicação da multa de 500$00 a 20000$00.
+Art. 147.º A inobservância do disposto nos artigos 112.º, § 2.º, 121.º, 122.º, 123.º, § 2.º, e 127.º importa a aplicação da multa de 500$00 a 20000$00.
 
-###### Art. 148.º A entrega do imposto fora do prazo fixado no artigo 125.º, mas dentro dos dez dias seguintes, será punida com multa de 100$00 a 10000$00.
+Art. 148.º A entrega do imposto fora do prazo fixado no artigo 125.º, mas dentro dos dez dias seguintes, será punida com multa de 100$00 a 10000$00.
 
-###### Art. 149.º A falta, total ou parcial, da entrega do imposto até ao último dos dez dias referidos no artigo anterior será punida com multa igual ao dobro do quantitativo em dívida, no mínimo de 200$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal, se houver abuso de confiança.
+Art. 149.º A falta, total ou parcial, da entrega do imposto até ao último dos dez dias referidos no artigo anterior será punida com multa igual ao dobro do quantitativo em dívida, no mínimo de 200$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal, se houver abuso de confiança.
 
 § único. Quando a infracção prevista no corpo deste artigo seja acompanhada de falta do desconto prescrito no artigo 126.º, à multa nele cominada acrescerá, pela primeira vez, a de 250$00 a 5000$00 e, no caso de repetição dentro de cinco anos, a de 2500$00 a 50000$00.
 
-###### Art. 150.º A infracção ao disposto no artigo 126.º, quando, não obstante, se proceda à entrega do imposto, será punida, pela primeira vez, com multa de 100$00 a 10000$00, e, no caso de repetição dentro de cinco anos, com a de 5000$00 a 100000$00.
+Art. 150.º A infracção ao disposto no artigo 126.º, quando, não obstante, se proceda à entrega do imposto, será punida, pela primeira vez, com multa de 100$00 a 10000$00, e, no caso de repetição dentro de cinco anos, com a de 5000$00 a 100000$00.
 
-###### Art. 151.º A infracção ao disposto nos artigos 128.º e 131.º será punida com a multa de 10 por cento do valor nominal dos títulos, no mínimo de 1000$00 e no máximo de 1000000$00.
+Art. 151.º A infracção ao disposto nos artigos 128.º e 131.º será punida com a multa de 10 por cento do valor nominal dos títulos, no mínimo de 1000$00 e no máximo de 1000000$00.
 
-###### Art. 152.º A infracção ao disposto nos artigos 132.º, 133.º, 134.º e 136.º será punida com a multa de 100$00 a 10000$00.
+Art. 152.º A infracção ao disposto nos artigos 132.º, 133.º, 134.º e 136.º será punida com a multa de 100$00 a 10000$00.
 
-###### Art. 153.º O não cumprimento do disposto no artigo 141.º será punido com a multa de 500$00 a 20000$00.
+Art. 153.º O não cumprimento do disposto no artigo 141.º será punido com a multa de 500$00 a 20000$00.
 
-###### Art. 154.º Por qualquer indicação inexacta ou omissão nas declarações ou participações exigidas na parte III deste código será paga a multa de 100$00 a 20000$00.
+Art. 154.º Por qualquer indicação inexacta ou omissão nas declarações ou participações exigidas na parte III deste código será paga a multa de 100$00 a 20000$00.
 
-###### Art. 155.º As disposições dos artigos 63.º, 69.º, 70.º e 72.º a 82.º são igualmente aplicáveis quando se trate de infracções ao disposto na parte III deste código.
+Art. 155.º As disposições dos artigos 63.º, 69.º, 70.º e 72.º a 82.º são igualmente aplicáveis quando se trate de infracções ao disposto na parte III deste código.
 
-###### Art. 156.º Por qualquer infracção não especialmente prevenida será aplicada a multa de 100$00 a 1000$00.
+Art. 156.º Por qualquer infracção não especialmente prevenida será aplicada a multa de 100$00 a 1000$00.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 157.º Tratando-se de títulos objecto de usufruto, os respectivos usufrutuários terão os direitos e obrigações que nos capítulos anteriores se estabelecem para os proprietários.
+Art. 157.º Tratando-se de títulos objecto de usufruto, os respectivos usufrutuários terão os direitos e obrigações que nos capítulos anteriores se estabelecem para os proprietários.
 
-###### Art. 158.º Dos livros de registo modelos n.os 8 e 11 serão extraídos verbetes para a formação de índices, por ordem alfabética, dos nomes dos proprietários dos títulos, segundo os modelos n.os 18 e 19.
+Art. 158.º Dos livros de registo modelos n.os 8 e 11 serão extraídos verbetes para a formação de índices, por ordem alfabética, dos nomes dos proprietários dos títulos, segundo os modelos n.os 18 e 19.
 
-###### Art. 159.º As direcções e repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, participações, comunicações, notas e relações que lhes forem remetidas em duplicado.
+Art. 159.º As direcções e repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, participações, comunicações, notas e relações que lhes forem remetidas em duplicado.
 
-###### Art. 160.º As declarações, participações, comunicações, relações e outros documentos a apresentar nas direcções e repartições de finanças pelos contribuintes e outras entidades particulares podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
+Art. 160.º As declarações, participações, comunicações, relações e outros documentos a apresentar nas direcções e repartições de finanças pelos contribuintes e outras entidades particulares podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
 
-###### Art. 161.º As disposições dos dois artigos anteriores aplicar-se-ão igualmente em matéria de imposto complementar, secções A e B.
+Art. 161.º As disposições dos dois artigos anteriores aplicar-se-ão igualmente em matéria de imposto complementar, secções A e B.
 
 Ministério das Finanças, 30 de Novembro de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf))](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/28101/18501887.pdf)
 
 Ministério das Finanças, 30 de Novembro de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.

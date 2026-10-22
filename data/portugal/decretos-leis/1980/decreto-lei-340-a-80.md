@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 200/1980, 1º Suplemento, Série I de 1980-08-30
   number: '200'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2476-(1) a 2476-(111)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-a-1980-668309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a59a6130f64d1519c45aef74f5d0be75f1a7cfbd75f07ca332c51761f859f1a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b925b5c55c5f5bcded3b054734a90e33fcbb58d8110ccebf6c8161708b42b92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Plano Económico
+- Plano Económico e Social
+- Política Económica
+- Política Social
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:14Z'
   warnings: []
   errors: []
 ---
@@ -90,23 +127,23 @@ de 30 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado o Plano para 1980, elaborado de harmonia com as Grandes Opções constantes da [Lei n.º 9/80](https://diariodarepublica.pt/dr/detalhe/lei/9-1980-474706), de 28 de Maio.
+Artigo 1.º - 1 - É aprovado o Plano para 1980, elaborado de harmonia com as Grandes Opções constantes da [Lei n.º 9/80](https://diariodarepublica.pt/dr/detalhe/lei/9-1980-474706), de 28 de Maio.
 
 2 - O texto designado «Plano para 1980» faz parte integrante do presente diploma.
 
-###### Art. 2.º Os serviços da Administração Pública, as empresas públicas e demais institutos públicos ficam obrigados a dar execução ao Plano.
+Art. 2.º Os serviços da Administração Pública, as empresas públicas e demais institutos públicos ficam obrigados a dar execução ao Plano.
 
-###### Art. 3.º Serão elaborados pelos serviços competentes relatórios de execução do Plano relativamente ao 1.º semestre e ao ano de 1980.
+Art. 3.º Serão elaborados pelos serviços competentes relatórios de execução do Plano relativamente ao 1.º semestre e ao ano de 1980.
 
-###### Art. 4.º O presente diploma produz efeitos a partir da entrada em vigor da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio.
+Art. 4.º O presente diploma produz efeitos a partir da entrada em vigor da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 27 de Agosto de 1980.**
+Promulgado em 27 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Plano para 1980
 
@@ -264,37 +301,37 @@ QUADRO 1
 
 Despesa interna
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 QUADRO 2
 
 Produto interno bruto a custo de factores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 QUADRO 3
 
 Formação bruta de capital fixo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 QUADRO 4
 
 Poupança (preços correntes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 QUADRO 5
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 QUADRO 6
 
 Equilíbrio financeiro da economia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 II - Finanças públicas
 
@@ -338,13 +375,13 @@ QUADRO 7
 
 Sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 QUADRO 8
 
 Evolução das principais rubricas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 No conjunto de dispêndios públicos, o total a afectar a despesas de carácter reprodutivo, incluindo os «empréstimos concedidos» (nestes se englobando as dotações de capital estatutário de empresas públicas, que, atingindo 19 milhões de contos, em 1980, significam um acréscimo de 7 milhões de contos, ou seja, +60%), representará aproximadamente 17%, valor idêntico, portanto, ao de 1979.
 
@@ -1458,11 +1495,11 @@ O quadro I resume, por Ministérios da tutela, a forma como se processa quer a d
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
 
 IX - Programa de Investimentos e Despesas de Desenvolvimento da Administração Central
 
@@ -1478,4 +1515,4 @@ Num e noutro caso a distribuição mencionada traduz as prioridades adoptadas pe
 
 Assim, os investimentos em sectores sociais atingem mais de metade do montante global, destacando-se aí os sectores de habitação e urbanismo, educação e saúde; nos sectores produtivos, que correspondem a cerca de 15% do total de investimentos, o destaque nítido é para os sectores da agricultura e da pesca, que representam cerca de 86% do total daqueles sectores; por último, nos sectores de infra-estruturas, o grande peso dos investimentos tem lugar no domínio dos transportes e comunicações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20001/00010111.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/115-1971-445914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bba1b92bdd477aa1ef90b8d62f3ee724ce9dbc917c428383edf1cca8b42933e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a8f16a55b0d0ff0415b7d10d28cb0b81d4c0ee4d3e75598f3d52011300ff4c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:45Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +92,20 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta Provincial de Electrificação de Angola a contratar com o Banco de Fomento Nacional um empréstimo até ao montante de 70 milhões de escudos angolanos, destinado à execução dos trabalhos de construção da linha de alta tensão Matala-Jamba-Tchamutete e estações terminais.
+Artigo 1.º É autorizada a Junta Provincial de Electrificação de Angola a contratar com o Banco de Fomento Nacional um empréstimo até ao montante de 70 milhões de escudos angolanos, destinado à execução dos trabalhos de construção da linha de alta tensão Matala-Jamba-Tchamutete e estações terminais.
 
-###### Art. 2.º O empréstimo terá um período de utilização máximo de dois anos e será amortizável nos cinco anos subsequentes. A taxa de juro será de 7,5 por cento ao ano, a incidir dia a dia sobre o capital utilizado e efectivamente em dívida. Quanto às demais condições, observar-se-á o estipulado no contrato a celebrar.
+Art. 2.º O empréstimo terá um período de utilização máximo de dois anos e será amortizável nos cinco anos subsequentes. A taxa de juro será de 7,5 por cento ao ano, a incidir dia a dia sobre o capital utilizado e efectivamente em dívida. Quanto às demais condições, observar-se-á o estipulado no contrato a celebrar.
 
-###### Art. 3.º É autorizado o Governo-Geral de Angola a dar o aval da província ao Banco de Fomento Nacional em garantia das responsabilidades assumidas pela Junta Provincial de Electrificação de Angola na execução da presente operação.
+Art. 3.º É autorizado o Governo-Geral de Angola a dar o aval da província ao Banco de Fomento Nacional em garantia das responsabilidades assumidas pela Junta Provincial de Electrificação de Angola na execução da presente operação.
 
-###### Art. 4.º Todos os encargos resultantes da celebração do contrato constituirão despesa obrigatória e preferencial da Junta Provincial de Electrificação de Angola, devendo, em sua consequência, serem anualmente inscritas no seu orçamento privativo as verbas indispensáveis à sua liquidação.
+Art. 4.º Todos os encargos resultantes da celebração do contrato constituirão despesa obrigatória e preferencial da Junta Provincial de Electrificação de Angola, devendo, em sua consequência, serem anualmente inscritas no seu orçamento privativo as verbas indispensáveis à sua liquidação.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

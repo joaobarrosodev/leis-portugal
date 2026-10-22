@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49329-1969-215510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb342006752a537372a3b06b5417d1d26f8cbb42b1c290d725b617b437f152db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe02b468d7fd7c433e20ad0fa6c825e6524ecb0f815d905be1e022ee21d105de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390054:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:49Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É alterada da seguinte forma a distribuição dos encargos fixada no artigo 2.º do [Decreto n.º 47870](https://diariodarepublica.pt/dr/detalhe/decreto/47870-1967-390054), de 30 de Agosto de 1967:
+Artigo único. É alterada da seguinte forma a distribuição dos encargos fixada no artigo 2.º do [Decreto n.º 47870](https://diariodarepublica.pt/dr/detalhe/decreto/47870-1967-390054), de 30 de Agosto de 1967:
 
 1969 ... 8259306$80
 
@@ -99,8 +107,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 15 de Outubro de 1969.**
+Promulgado em 15 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

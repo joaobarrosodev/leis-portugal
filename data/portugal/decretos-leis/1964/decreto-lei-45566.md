@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45566-1964-469612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bad8511309704c41a5f93da8d923286a676f3ed5eaa723587be36c02d7148ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5211a974d39e90358d29443beb70bedd6161617d7ef2412b8b2177f6ce5b5b63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral dos Correios Telégrafos e Telefones
+- Autorização de Despesas
+- Congresso Postal Universal
+- Gestão Financeira
+- Gestão Orçamental
+- União Postal Universal
+- Viena
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:02Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +97,11 @@ Nestes termos, tornando-se necessário facultar à Administração-Geral dos Cor
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizada a Administração-Geral dos Correios, Telégrafos e Telefones a custear, por conta de verbas a inscrever nos seus orçamentos, as despesas a efectuar durante a sua gerência da Conferência Europeia das Administrações dos Correios e Telecomunicações e, bem assim, a comparticipar, conforme resolução da referida Conferência, nas despesas do XV Congresso da União Postal Universal, a efectuar em 1964.
+Artigo único. É autorizada a Administração-Geral dos Correios, Telégrafos e Telefones a custear, por conta de verbas a inscrever nos seus orçamentos, as despesas a efectuar durante a sua gerência da Conferência Europeia das Administrações dos Correios e Telecomunicações e, bem assim, a comparticipar, conforme resolução da referida Conferência, nas despesas do XV Congresso da União Postal Universal, a efectuar em 1964.
 
 § único. Para os fins consignados no corpo deste artigo, poderá o Ministro das Comunicações, se o julgar conveniente, delegar no correio-mor a sua competência legal relativa a autorização de despesas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

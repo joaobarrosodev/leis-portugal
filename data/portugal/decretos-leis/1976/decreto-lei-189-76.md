@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06200/05160526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1976-501469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 349712ee54a25c883cff0cd102006b252454a9a1c0f2233ac91ddf12671d5226
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c30e6507467a0e99b61db188264c50a9af608146fe598b7738703dcfa86d216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- RTP
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:539803:por
+  label: Rectificado pela DECL.DD8693.01.04.1976.PCM, DG.IS [78]Supl de 01.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-539803
+  date: '1976-04-01'
+- type: repealed_by
+  target: pt:dre:166630:por
+  label: "Revogado o Estatuto aprovado no presente diploma, com excepção dos conselhos de informação a que se refere o artigo\
+    \ 39.º da Constituição, pelo DEC LEI.91-A/77.11.03.1977.PCM, DR.IS [59]2ºSupl de 11.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-a-1977-166630
+  date: '1977-03-11'
+- type: repealed_by
+  target: pt:dre:277173:por
+  label: "Revogados os arts. 32.º, 35.º e 36.º pela LEI.78/77.1977.10.25.AR DR.IS [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/78-1977-277173
+  date: '1977-10-25'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:27Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +146,21 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado o Estatuto da Empresa Pública Radiotelevisão Portuguesa, E. P., criada pelo [Decreto-Lei n.º 674-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-d-1975-302485), de 2 de Dezembro, cujo texto faz parte do presente decreto-lei.
+Artigo único. É aprovado o Estatuto da Empresa Pública Radiotelevisão Portuguesa, E. P., criada pelo [Decreto-Lei n.º 674-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-d-1975-302485), de 2 de Dezembro, cujo texto faz parte do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António de Almeida Santos.
 
-**Promulgado em 27 de Fevereiro de 1976.**
+Promulgado em 27 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ESTATUTO DA EMPRESA PÚBLICA RADIOTELEVISÃO PORTUGUESA, E. P.
 
 ### CAPÍTULO I — Denominação, sede, natureza, objecto, atribuições, deveres e direitos
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Denominação e natureza jurídica)
 
@@ -128,25 +168,25 @@ ESTATUTO DA EMPRESA PÚBLICA RADIOTELEVISÃO PORTUGUESA, E. P.
 
 2 - A Radiotelevisão Portuguesa, E. P., pode ser designada abreviadamente por RTP. Sempre que no presente Estatuto forem usadas estas iniciais é aquela empresa pública que se considera mencionada.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Sede, delegações e instalações)
 
 A RTP tem sede em Lisboa e poderá estabelecer e encerrar as delegações e instalações que considere necessárias à prossecução dos seus fins em qualquer ponto do território nacional ou no estrangeiro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Atribuições)
 
 A RTP tem por atribuição fundamental prestar ao povo português o serviço público de televisão.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Emissões sonoras e de televisão sob forma especial)
 
 A RTP pode efectuar emissões exclusivamente sonoras, utilizando para o efeito as frequências dos seus emissores ou outras que lhe sejam atribuídas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Deveres fundamentais em matéria de programação)
 
@@ -162,7 +202,7 @@ c) A RTP procederá à prospecção e à selecção crítica dos programas estra
 
 d) A RTP procurará manter relações com a UER, a UNESCO e outras organizações internacionais e com entidades estrangeiras ligadas à produção de programas.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Poderes em matéria de programação)
 
@@ -174,7 +214,7 @@ d) A RTP procurará manter relações com a UER, a UNESCO e outras organizaçõe
 
 4 - O Governo, através do Ministério da Comunicação Social, poderá utilizar até uma hora por semana de tempo de antena para emissão de reportagens filmadas ou outros filmes de interesse para a sua acção governativa.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Outros poderes)
 
@@ -184,7 +224,7 @@ d) A RTP procurará manter relações com a UER, a UNESCO e outras organizaçõe
 
 3 - A RTP gozará de protecção de servidão para os seus centros radioeléctricos, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Capacidade de direito privado)
 
@@ -208,7 +248,7 @@ g) Prestação de serviços de consultoria técnica;
 
 h) Prestação de serviços, na medida das suas disponibilidades, no domínio da formação profissional e cooperação com entidades oficiais ou particulares que mantenham cursos profissionais, nomeadamente os que abranjam temas televisivos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Dever de prestação de informações)
 
@@ -218,19 +258,19 @@ Os órgãos de gestão e fiscalização da RTP têm o dever de informar oficiosa
 
 #### SECÇÃO I — Disposições preliminares
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Indicação dos órgãos)
 
 Os órgãos da RTP são a assembleia de televisão, o conselho de administração, o conselho fiscal e o conselho de informação.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Requisitos dos respectivos membros)
 
 Os membros dos órgãos da RTP devem ser cidadãos portugueses no pleno gozo dos seus direitos civis e políticos.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Duração do mandato. Substituições)
 
@@ -242,7 +282,7 @@ Os membros dos órgãos da RTP devem ser cidadãos portugueses no pleno gozo dos
 
 4 - Tanto nos casos de substituição definitiva como nos de substituição temporária o substituto é designado pela mesma forma por que tiver sido designado o substituído e cessa funções no termo do período para que este tiver sido eleito ou nomeado, salvo se, no caso de substituição temporária, o substituído regressar antes daquele termo ao exercício de funções.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Posse)
 
@@ -250,7 +290,7 @@ Os membros dos órgãos da RTP devem ser cidadãos portugueses no pleno gozo dos
 
 2 - Enquanto se não verificar a designação ou a posse dos membros designados para um dado mandato mantêm-se em funções os do mandato anterior.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Casos e forma de destituição dos membros dos órgãos)
 
@@ -264,7 +304,7 @@ Os membros dos órgãos da RTP devem ser cidadãos portugueses no pleno gozo dos
 
 5 - Os membros dos órgãos da RTP poderão livremente e a todo o tempo ser destituídos e substituídos pela entidade competente para a sua eleição ou nomeação, independentemente da invocação de qualquer causa justificativa ou de qualquer procedimento.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Deliberações)
 
@@ -276,7 +316,7 @@ Os membros dos órgãos da RTP devem ser cidadãos portugueses no pleno gozo dos
 
 4 - As deliberações ficarão a constar de acta em que se consigne se foram tomadas por unanimidade ou por maioria e só pela acta ou respectiva certidão poderão ser comprovadas. Não é permitido o registo na acta de declarações de voto divergentes da proposta que obtiver vencimento, apenas sendo consentida a menção de quem votou contra a proposta vencedora, a menos que, a título excepcional, e em casos devidamente justificados, a mesa, ou quem dirigir a sessão, autorize aquele registo.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Recurso das deliberações)
 
@@ -290,7 +330,7 @@ Os membros dos órgãos da RTP devem ser cidadãos portugueses no pleno gozo dos
 
 #### SECÇÃO II — Assembleia de televisão
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Composição)
 
@@ -316,7 +356,7 @@ i) Três elementos a designar pelo Conselho da Revolução.
 
 2 - Em todos os casos de eleição prevista no número antecedente, a mesma terá lugar por voto directo e secreto.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Competência)
 
@@ -346,7 +386,7 @@ l) Exercer as demais funções que lhe caibam, nos termos deste Estatuto e da le
 
 2 - Ao eleger a comissão de programas e a comissão de remunerações a assembleia de televisão designará desde logo o respectivo presidente.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Regime de sessões)
 
@@ -364,7 +404,7 @@ l) Exercer as demais funções que lhe caibam, nos termos deste Estatuto e da le
 
 7 - A impossibilidade ocasional da eleição ou nomeação de um máximo de 25% da totalidade dos membros da assembleia de televisão não impedirá o válido funcionamento desta, valendo o quórum previsto neste diploma em relação ao número efectivamente eleito e nomeado.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Remunerações e abonos)
 
@@ -374,7 +414,7 @@ l) Exercer as demais funções que lhe caibam, nos termos deste Estatuto e da le
 
 #### SECÇÃO III — Conselho de administração
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Composição)
 
@@ -386,7 +426,7 @@ l) Exercer as demais funções que lhe caibam, nos termos deste Estatuto e da le
 
 4 - O outro vogal será eleito pela assembleia de trabalhadores da RTP, devendo a escolha recair entre pessoas qualificadas para o exercício do cargo.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Competência do conselho de administração)
 
@@ -412,7 +452,7 @@ h) Desempenhar as demais funções que lhe sejam atribuídas pela lei, por este 
 
 3 - O conselho de administração poderá delegar, no todo ou em parte, a execução das suas deliberações num ou mais dos seus membros, num director-geral ou num conselho de directores. Em caso de falta de delegação, a função executiva competirá ao presidente.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Vinculação da empresa em actos e documentos)
 
@@ -420,13 +460,13 @@ h) Desempenhar as demais funções que lhe sejam atribuídas pela lei, por este 
 
 2 - Os actos e documentos de mero expediente podem ser assinados apenas por um dos administradores, pelo director-geral ou por directores de serviço ou equiparados devidamente autorizados pelo conselho de administração.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Regime de sessões)
 
 O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente sempre que seja convocado pelo seu presidente, por sua iniciativa, ou a pedido de dois dos seus membros ou do conselho fiscal.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Remuneração e mais condições do exercício de funções)
 
@@ -444,7 +484,7 @@ O conselho de administração reúne ordinariamente uma vez por semana e extraor
 
 #### SECÇÃO IV — Conselho fiscal
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Composição)
 
@@ -456,7 +496,7 @@ O conselho de administração reúne ordinariamente uma vez por semana e extraor
 
 4 - O outro vogal será eleito pela assembleia dos trabalhadores da RTP, devendo a escolha recair entre pessoas qualificadas para o exercício do cargo, nomeadamente entre técnicos de contas.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Competência)
 
@@ -486,25 +526,25 @@ l) Exercer quaisquer outras funções que lhe sejam atribuídas pela lei ou por 
 
 2 - Às reuniões do conselho de administração assistirá, sempre que o presidente deste o solicite, ou sempre que o conselho fiscal o entenda, a totalidade ou, pelo menos, um dos membros deste conselho.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Dever de fundamentação)
 
 As recusas de visto do conselho fiscal e os votos discordantes dos seus membros serão sempre fundamentados.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Reuniões)
 
 O conselho fiscal terá uma reunião ordinária mensal e as reuniões extraordinárias que forem convocadas pelo presidente, por ambos os vogais ou pelo conselho de administração.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Regime de delegação)
 
 A assistência às reuniões do conselho de administração e as demais funções que cabem ao conselho fiscal poderão ser asseguradas, quando susceptíveis disso, em regime de delegação em um ou dois dos seus membros, conforme a conveniência do serviço e segundo a escala que, para esse efeito, for estabelecida pelo próprio conselho.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Remunerações e mais condições do exercício de funções)
 
@@ -514,7 +554,7 @@ A assistência às reuniões do conselho de administração e as demais funçõe
 
 #### SECÇÃO V — Conselho de informação
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Composição)
 
@@ -524,7 +564,7 @@ A assistência às reuniões do conselho de administração e as demais funçõe
 
 3 - Na sua primeira reunião os membros designados escolherão de entre si um para presidente.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Competência)
 
@@ -546,7 +586,7 @@ f) Dar parecer à assembleia de televisão sobre as linhas gerais da programaç�
 
 g) Pronunciar-se sobre assuntos da sua competência acerca dos quais seja ouvido pela assembleia de televisão, pelo conselho de administração e pela comissão de programas.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Faculdades e prerrogativas)
 
@@ -556,13 +596,13 @@ g) Pronunciar-se sobre assuntos da sua competência acerca dos quais seja ouvido
 
 3 - Para o cabal desempenho das suas funções poderá o conselho de informação requisitar ao conselho de administração o pessoal técnico e de secretaria de que necessitar, justificando a requisição. Cabe ao conselho de administração considerar ou não justificada a requisição de mais de cinco elementos.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Reuniões)
 
 O conselho de informação terá as reuniões que forem convocadas pelo respectivo presidente, oficiosamente ou a pedido de um terço dos seus membros.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Remuneração e mais condições do exercício de funções)
 
@@ -574,7 +614,7 @@ O conselho de informação terá as reuniões que forem convocadas pelo respecti
 
 ### CAPÍTULO III — Comissão de programas
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Composição)
 
@@ -584,7 +624,7 @@ O conselho de informação terá as reuniões que forem convocadas pelo respecti
 
 3 - O conselho de administração poderá, em resultado de processo disciplinar, destituir qualquer membro da comissão de programas. Da deliberação do conselho de administração caberá recurso para o Ministro da Comunicação Social, a interpor no prazo e nos termos dos n.os 3 e 4 do artigo 16.º, cujo despacho é, por seu turno, susceptível de recurso, nos termos gerais.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Competência)
 
@@ -604,7 +644,7 @@ e) Dar parecer à assembleia de televisão sobre as linhas gerais da programaç�
 
 f) Pronunciar-se sobre assuntos da sua competência acerca dos quais seja ouvida por qualquer dos órgãos da RTP.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Reuniões)
 
@@ -614,7 +654,7 @@ f) Pronunciar-se sobre assuntos da sua competência acerca dos quais seja ouvida
 
 3 - Aplica-se às deliberações do plenário da comissão de programas o disposto no n.º 4 do artigo 15.º
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Remunerações)
 
@@ -624,13 +664,13 @@ f) Pronunciar-se sobre assuntos da sua competência acerca dos quais seja ouvida
 
 ### CAPÍTULO IV — Pessoal da empresa
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Aplicabilidade das leis do trabalho)
 
 As relações entre a RTP e os trabalhadores ao seu serviço reger-se-ão pelas leis do trabalho e pelo disposto neste Estatuto, sendo-lhes, nomeadamente, aplicável o regime jurídico do contrato de trabalho e da duração do trabalho, com as adaptações que vierem a ser feitas por decreto.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Comissões de serviço)
 
@@ -642,7 +682,7 @@ As relações entre a RTP e os trabalhadores ao seu serviço reger-se-ão pelas 
 
 4 - O vencimento dos trabalhadores em comissão de serviço constituirá encargo da entidade para que se encontrem a exercer efectivamente funções.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Deveres especiais)
 
@@ -652,13 +692,13 @@ As relações entre a RTP e os trabalhadores ao seu serviço reger-se-ão pelas 
 
 3 - Constituirá desobediência, para os efeitos da alínea a) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 372-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-a-1975-151932), de 16 de Julho, com a redacção dada pelo [Decreto-Lei n.º 84/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1976-506865), de 28 de Janeiro, a violação intencional do disposto nos números antecedentes.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Formação profissional)
 
 A RTP promoverá e assegurará a formação profissional dos seus trabalhadores, nomeadamente através da frequência de cursos ministrados por escolas ou organizações nacionais ou internacionais ou por empresas estrangeiras de televisão, de acordo com planos de carreira a estabelecer.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Princípios a observar nas admissões)
 
@@ -666,19 +706,19 @@ A RTP promoverá e assegurará a formação profissional dos seus trabalhadores,
 
 2 - Deve ter-se presente na admissão de novos trabalhadores a necessidade de evitar o domínio da televisão por grupos ideológicos, políticos ou culturais.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Fiscalização do Ministério do Trabalho. Responsabilidade contravencional)
 
 O trabalho na RTP fica sujeito à fiscalização do Ministério do Trabalho.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Sujeição ao foro do trabalho)
 
 As relações de trabalho no âmbito da RTP ficam sujeitas à jurisdição dos tribunais do trabalho.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Previdência e abono de família)
 
@@ -686,13 +726,13 @@ Aplicam-se à RTP e aos seus trabalhadores as pertinentes disposições legais e
 
 ### CAPÍTULO V — Assembleia de trabalhadores, comissões e subcomissões de trabalhadores
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Composição da assembleia de trabalhadores da RTP)
 
 A assembleia de trabalhadores da RTP é constituída por todos os seus trabalhadores efectivos.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Competência)
 
@@ -716,13 +756,13 @@ g) Pronunciar-se sobre os assuntos relativamente aos quais lhe seja solicitado p
 
 3 - As deliberações da assembleia de trabalhadores são vinculativas para os seus próprios membros e a infracção delas é passível de procedimento disciplinar. Os órgãos da empresa deverão tomar em consideração nas suas deliberações as recomendações que a assembleia de trabalhadores emitir.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Comissão de trabalhadores)
 
 Haverá uma comissão de trabalhadores, com a composição, competência e modo de funcionamento definidos pela assembleia de trabalhadores, dentro dos limites da competência desta.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Subcomissões de trabalhadores e outras subcomissões com funções especializadas)
 
@@ -730,7 +770,7 @@ Haverá uma comissão de trabalhadores, com a composição, competência e modo 
 
 2 - Poderão também ser criadas subcomissões com funções específicas e especializadas, nomeadamente nos domínios da higiene e segurança no trabalho e dos serviços sociais.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Reuniões e forma de deliberação)
 
@@ -742,7 +782,7 @@ Haverá uma comissão de trabalhadores, com a composição, competência e modo 
 
 4 - Do resultado das votações referidas no n.º 2 do artigo 50.º, com exclusão da alínea f), lavrar-se-á acta, assinada nos termos do regulamento da assembleia, de que igualmente se fará entrega imediata, por decalque ou fotocópia, ao conselho fiscal.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Recursos)
 
@@ -756,7 +796,7 @@ Haverá uma comissão de trabalhadores, com a composição, competência e modo 
 
 ### CAPÍTULO VI — Gestão patrimonial e financeira da empresa
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Princípio fundamental e receitas)
 
@@ -774,7 +814,7 @@ d) Doações ou deixas de que porventura venha a beneficiar.
 
 3 - A RTP procurará constituir um fundo de reserva para renovação de equipamento e, até onde lhe for possível, para melhoria de instalações.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Aquisição e conservação do património)
 
@@ -784,13 +824,13 @@ d) Doações ou deixas de que porventura venha a beneficiar.
 
 3 - A RTP adquirirá na indústria nacional todo o material a que se refere o anterior n.º 1, desde que por ela seja oferecido com garantia de qualidade, a prazos de entrega satisfatórios e a preços que no local da produção não excedam em 15% o custo do congénere material estrangeiro posto no País e despachado com isenção de direitos.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Taxa de televisão)
 
 A taxa de televisão deverá assegurar à RTP condições de efectiva autonomia financeira, sem prejuízo de eventuais subsídios do Estado, em princípio reembolsáveis, para renovação de equipamento ou para novas instalações.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Obtenção de crédito)
 
@@ -800,7 +840,7 @@ A taxa de televisão deverá assegurar à RTP condições de efectiva autonomia 
 
 3 - A RTP pode adquirir obrigações próprias.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Regras orçamentais)
 
@@ -814,7 +854,7 @@ A taxa de televisão deverá assegurar à RTP condições de efectiva autonomia 
 
 5 - A abertura de créditos especiais e o reforço de dotações orçamentais, com compensação em excesso de receitas a cobrar, serão autorizadas por deliberação do conselho de administração, com parecer favorável do conselho fiscal.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Contabilidade)
 
@@ -822,7 +862,7 @@ A taxa de televisão deverá assegurar à RTP condições de efectiva autonomia 
 
 2 - Os livros de escrita principais terão termos de abertura e encerramento assinados e rubricados em todas as folhas pelo presidente do conselho de administração ou, em sua delegação, por um administrador ou pelo director dos respectivos serviços, dispensando-se quaisquer outras formalidades de legalização.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Resultados)
 
@@ -836,7 +876,7 @@ c) Para reservas especiais, as percentagens que forem julgadas convenientes.
 
 2 - No caso de a conta saldar com prejuízo que não possa ser suportado pela reserva geral, será esse prejuízo levado à conta do exercício seguinte.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Organização e apresentação anual de elementos de escrita, relatórios e pareceres)
 
@@ -846,7 +886,7 @@ c) Para reservas especiais, as percentagens que forem julgadas convenientes.
 
 3 - O inventário e a conta de exploração, baseada na receita e na despesa liquidadas, estarão patentes para consulta dos membros da assembleia de televisão de 15 a 31 de Março, podendo os referidos membros solicitar aos serviços todos os esclarecimentos que acerca desses documentos julguem necessários.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Publicações)
 
@@ -854,7 +894,7 @@ O balanço e a conta de ganhos e perdas, depois de aprovados, serão publicados,
 
 ### CAPÍTULO VII — Disposições supletivas e transitórias
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Período transitório até à normalidade da vida constitucional)
 
@@ -866,7 +906,7 @@ O balanço e a conta de ganhos e perdas, depois de aprovados, serão publicados,
 
 4 - O mandato dos membros referidos nos n.os 1 e 2 cessará com a entrada em funções dos correspondentes membros que vierem a ser designados pela via normal prevista neste Estatuto.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Disposições legais supletivas)
 
@@ -876,4 +916,4 @@ a) As normas que regem para a generalidade das empresas públicas e cuja aplica�
 
 b) As normas legais que regem as sociedades comerciais em forma de sociedade anónima de responsabilidade limitada, na medida em que não forem incompatíveis com a natureza de empresa pública da RTP.
 
-**O Ministro da Comunicação Social, António de Almeida Santos.**
+O Ministro da Comunicação Social, António de Almeida Santos.

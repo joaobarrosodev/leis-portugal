@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27100/16341634.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49392-1969-217087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce4b087fef529335acb326f56c93752cbef51105840d22c3493b851b4c6495bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41390a94c0dc9a23178b09a2db4dcebc6aa3a6beaf2f99756f729cdec15009df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Fundo Especial de Transportes Terrestres
+- Investimento
+- Obras Públicas
+- Segurança Rodoviária
+- Serviço Público
+- Trânsito
+- Transporte
 relationships:
 - type: amended_by
   target: pt:dre:631264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:331617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:631264:por
+  label: "Revogado pelo DEC LEI.488/71.1971.11.09.MOP DG.IS [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/488-1971-631264
+  date: '1971-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:43Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +108,14 @@ Reconhecendo-se a conveniência de alargar o dispositivo legal do Fundo Especial
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Ao artigo 23.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, alterado pelos Decretos-Leis n.os 44497, de 6 de Agosto de 1962, 45096, de 29 de Junho de 1963, e 48937, de 27 de Março de 1969, é aditado o seguinte número:
+Artigo único. Ao artigo 23.º do [Decreto-Lei n.º 38247](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38247-1951-331617), de 9 de Maio de 1951, alterado pelos Decretos-Leis n.os 44497, de 6 de Agosto de 1962, 45096, de 29 de Junho de 1963, e 48937, de 27 de Março de 1969, é aditado o seguinte número:
 
 9.º A suportar encargos com realizações destinadas a promover a melhoria da segurança e das condições do trânsito rodoviário.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 7 de Novembro de 1969.**
+Promulgado em 7 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

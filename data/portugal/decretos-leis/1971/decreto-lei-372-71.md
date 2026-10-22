@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1971-630055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d6c2dcc1176066adefc437012290f58e4150df52d5658c1d61d187acaed4fb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eabc3a763187e181273823e1d0f758f4b0288b2582cd7268e4553e6b74fc0b91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Governo
+- Conselho Económico e Social
+- Conselho Legislativo
+- Eleição
+- Ultramar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:49Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +101,16 @@ Por motivo de urgência e nos termos do § 1.º do artigo 150.º da Constituiç�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É adiada a realização das eleições dos vogais dos conselhos legislativos, conselhos económicos e sociais e de governo das províncias ultramarinas, e prorrogado o mandato dos actuais vogais eleitos até à publicação de novos preceitos sobre a composição dos referidos conselhos.
+Artigo 1.º É adiada a realização das eleições dos vogais dos conselhos legislativos, conselhos económicos e sociais e de governo das províncias ultramarinas, e prorrogado o mandato dos actuais vogais eleitos até à publicação de novos preceitos sobre a composição dos referidos conselhos.
 
-###### Art. 2.º Sem prejuízo do disposto no artigo anterior, os governadores-gerais poderão promover a substituição dos vogais dos conselhos económicos e sociais por si designados ou nomeados logo que findo o mandato destes, de harmonia com os respectivos estatutos político-administrativos.
+Art. 2.º Sem prejuízo do disposto no artigo anterior, os governadores-gerais poderão promover a substituição dos vogais dos conselhos económicos e sociais por si designados ou nomeados logo que findo o mandato destes, de harmonia com os respectivos estatutos político-administrativos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Agosto de 1971.**
+Promulgado em 19 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

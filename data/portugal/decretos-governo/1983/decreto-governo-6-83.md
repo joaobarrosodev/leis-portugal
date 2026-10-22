@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/6-1983-307791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38634b85c8f7e861b72c908c1f2234eac9510f42e86935830f821bf80fd68b36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b890b0f09f479db2d67130c6354a6da652466c582aaf0a6029e20f6cf369880
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caldas da Rainha
+- Depósito Franco
+relationships:
+- type: cites
+  target: pt:dre:161148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:09Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +104,7 @@ Considerando que, por escritura notarial, foram introduzidas modificações no p
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os n.os 1 e 3 do artigo 1.º do [Decreto n.º 107/71](https://diariodarepublica.pt/dr/detalhe/decreto/107-1971-445881), de 29 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 1 e 3 do artigo 1.º do [Decreto n.º 107/71](https://diariodarepublica.pt/dr/detalhe/decreto/107-1971-445881), de 29 de Março, passam a ter a seguinte redacção:
 
 1 - É autorizada a firma EUROAUDIO - Material para Gravação, Lda., a estabelecer um depósito franco nas suas instalações fabris, situadas no lugar de Pedrógão, concelho das Caldas da Rainha.
 
@@ -98,12 +112,12 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 3 - Neste depósito franco a empresa propõe-se fabricar e montar cassettes, fitas de gravar de qualquer espécie, rádio, televisão, vídeo, material eléctrico e electrónico, gravação de som e respectivos acessórios.
 
-###### Art. 2.º Ficam revogados os Decretos n.os [405/72](https://diariodarepublica.pt/dr/detalhe/decreto/405-1972-690050), de 25 de Outubro, e [144/75](https://diariodarepublica.pt/dr/detalhe/decreto/144-1975-161148), de 20 de Março.
+Art. 2.º Ficam revogados os Decretos n.os [405/72](https://diariodarepublica.pt/dr/detalhe/decreto/405-1972-690050), de 25 de Outubro, e [144/75](https://diariodarepublica.pt/dr/detalhe/decreto/144-1975-161148), de 20 de Março.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 6 de Janeiro de 1983.**
+Promulgado em 6 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

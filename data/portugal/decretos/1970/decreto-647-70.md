@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/647-1970-146198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97cb1aed4a261bf5549c2377defca081076a7dc7f0f6b6c03854f92c417d3b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d5b5406d981adcb76424b1f24fb1106c00e25e3d133a53872b77f87b7f351ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651088:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:03Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +139,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos Gerais da Nação
 
@@ -149,7 +197,7 @@ Ministério das Obras Públicas
 
 No capítulo 15.º:
 
-###### Artigo 123.º «Educação e investigação ligada ao ensino», n.º 1) «Instalações e apetrechamento inicial»:
+Artigo 123.º «Educação e investigação ligada ao ensino», n.º 1) «Instalações e apetrechamento inicial»:
 
 Da alínea 3 «Edifícios do ensino superior e investigação» ... -12000000$00
 
@@ -157,93 +205,93 @@ Da alínea 4 «Instalações e apetrechamento inicial respeitante à acção soc
 
 Para a alínea 1 «Edifícios do ensino primário ([Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, e [Decreto-Lei n.º 49070](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49070-1969-199871), de 20 de Junho de 1969)» ... +15000000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 159335650$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 159335650$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º «Serviço da Secretaria de Estado da Informação e Turismo»:
+Capítulo 8.º «Serviço da Secretaria de Estado da Informação e Turismo»:
 
-###### Artigo 134.º, n.º 1) «Semoventes» ... 4000$00
+Artigo 134.º, n.º 1) «Semoventes» ... 4000$00
 
-###### Artigo 136.º, n.º 2) «Artigos de expediente ...» ... 30000$00
+Artigo 136.º, n.º 2) «Artigos de expediente ...» ... 30000$00
 
-###### Artigo 138.º, n.º 2) «Telefones» ... 30000$00
+Artigo 138.º, n.º 2) «Telefones» ... 30000$00
 
-### Capítulo 9.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
+Capítulo 9.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
 
-###### Artigo 152.º, n.º 3), alínea 2 «Subsídios aos Serviços Sociais das Forças Armadas» ... 5000000$00
+Artigo 152.º, n.º 3), alínea 2 «Subsídios aos Serviços Sociais das Forças Armadas» ... 5000000$00
 
-### Capítulo 15.º «III Plano de Fomento»:
+Capítulo 15.º «III Plano de Fomento»:
 
-###### Artigo 355.º «Turismo», n.º 3) «Indústria hoteleira e similares» ... 60000000$00
+Artigo 355.º «Turismo», n.º 3) «Indústria hoteleira e similares» ... 60000000$00
 
 ... 65064000$00
 
 Ministério das Finanças
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 20.º, n.º 2) «De semoventes», alínea 1) «Veículos com motor» ... 7500$00
+Artigo 20.º, n.º 2) «De semoventes», alínea 1) «Veículos com motor» ... 7500$00
 
 Secretaria de Estado do Tesouro
 
-### Capítulo 7.º «Direcção-Geral da Fazenda Pública - Tesourarias dos concelhos e bairros»:
+Capítulo 7.º «Direcção-Geral da Fazenda Pública - Tesourarias dos concelhos e bairros»:
 
-###### Artigo 94.º «Outros encargos»:
+Artigo 94.º «Outros encargos»:
 
 N.º 2) «Subsídios a cofres ou organizações, metropolitanas, ultramarinas ou estrangeiras»:
 
 Alínea 4 «Subsídio à Câmara Municipal de S. Pedro do Sul» (g) ... 10000$00
 
-### Capítulo 14.º «Direcção-Geral das Contribuições e Impostos»:
+Capítulo 14.º «Direcção-Geral das Contribuições e Impostos»:
 
-###### Artigo 162.º «Remunerações certas ao pessoal em exercício»:
+Artigo 162.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal do quadros aprovados por lei»:
 
 (Durante três meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29700/19361939.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29700/19361939.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29700/19361939.pdf)
 
 Ministério do Interior
 
-### Capítulo 5.º «Polícia de Segurança Pública»:
+Capítulo 5.º «Polícia de Segurança Pública»:
 
-###### Artigo 71.º, n.º 1) «Serviços clínicos ...» ... 2000000$00
+Artigo 71.º, n.º 1) «Serviços clínicos ...» ... 2000000$00
 
-###### Artigo 72.º, n.º 3) «Transportes» ... 130000$00
+Artigo 72.º, n.º 3) «Transportes» ... 130000$00
 
 ... 2130000$00
 
 Ministério da Justiça
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 3.º, n.º 1) «Ajudas de custo», alínea 1) «Pela deslocação do Ministro ...» ... 8000$00
+Artigo 3.º, n.º 1) «Ajudas de custo», alínea 1) «Pela deslocação do Ministro ...» ... 8000$00
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Colónia Penal do Bié»:
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Colónia Penal do Bié»:
 
-###### Artigo 326.º, n.º 1) «De imóveis», alínea 2 «Prédios urbanos» ... 17000$00
+Artigo 326.º, n.º 1) «De imóveis», alínea 2 «Prédios urbanos» ... 17000$00
 
 ... 25000$00
 
 Ministério do Exército
 
-### Capítulo 6.º «Regiões militares e comandos territoriais independentes - Região Militar de Coimbra»:
+Capítulo 6.º «Regiões militares e comandos territoriais independentes - Região Militar de Coimbra»:
 
 Despesas com o pessoal
 
-###### Artigo 277.º - A «Remunerações acidentais»:
+Artigo 277.º - A «Remunerações acidentais»:
 
 N.º 1) «Despesas de representação do comandante da Região» ... (a) 2250$00
 
 Despesas com o material
 
-###### Artigo 277.º - B «Despesas de conservação e aproveitamento do material»:
+Artigo 277.º - B «Despesas de conservação e aproveitamento do material»:
 
 N.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 45000$00
 
-###### Artigo 277.º - C «Material de consumo corrente»:
+Artigo 277.º - C «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 15000$00
 
@@ -251,7 +299,7 @@ N.º 2) «Artigos de expediente e diverso material não especificado» ... 20000
 
 Pagamento de serviços e diversos encargos
 
-###### Artigo 277.º - D «Despesas de higiene, saúde e conforto»:
+Artigo 277.º - D «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Luz, aquecimento, água, lavagem e limpeza» ... 60000$00
 
@@ -259,23 +307,23 @@ N.º 1) «Luz, aquecimento, água, lavagem e limpeza» ... 60000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços internos»:
+Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços internos»:
 
-###### Artigo 25.º, n.º 1) «Correios ...» ... 200000$00
+Artigo 25.º, n.º 1) «Correios ...» ... 200000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 53.º, n.º 1) «De imóveis», alínea 29 «Outros edifícios públicos» ... 24600$00
+Artigo 53.º, n.º 1) «De imóveis», alínea 29 «Outros edifícios públicos» ... 24600$00
 
 Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Pecuários - Serviços centrais»:
+Capítulo 5.º «Direcção-Geral dos Serviços Pecuários - Serviços centrais»:
 
-###### Artigo 72.º «Aquisições de utilização permanente»:
+Artigo 72.º «Aquisições de utilização permanente»:
 
 N.º 3) «Imóveis»:
 
@@ -283,95 +331,95 @@ Alínea 1 «Prédios urbanos» ... 25450000$00
 
 Secretaria de Estado da Indústria
 
-### Capítulo 13.º «Gabinete do Secretário de Estado»:
+Capítulo 13.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 259.º, n.º 1) «Pagamento de serviços ...» ... 370000$00
+Artigo 259.º, n.º 1) «Pagamento de serviços ...» ... 370000$00
 
 ... 25820000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 9.º, n.º 1), alínea 1 «Subsídio especial para reajustamento de vencimentos, ...» ... 65000000$00
+Artigo 9.º, n.º 1), alínea 1 «Subsídio especial para reajustamento de vencimentos, ...» ... 65000000$00
 
 ... 159335650$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 9.º, artigo 296.º «Reembolso do valor dos autofinanciamentos destinados a empreendimentos integrados no III Plano de Fomento»:
+Capítulo 9.º, artigo 296.º «Reembolso do valor dos autofinanciamentos destinados a empreendimentos integrados no III Plano de Fomento»:
 
 «Do Fundo de Turismo» ... 20000000$00
 
-### Capítulo 9.º, artigo 297.º «Receita proveniente do empréstimo emitido pelo Fundo de Turismo para investimentos do III Plano de Fomento» ... 40000000$00
+Capítulo 9.º, artigo 297.º «Receita proveniente do empréstimo emitido pelo Fundo de Turismo para investimentos do III Plano de Fomento» ... 40000000$00
 
 ... 60000000$00
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º, artigo 136.º, n.º 1) ... 30000$00
+Capítulo 8.º, artigo 136.º, n.º 1) ... 30000$00
 
-### Capítulo 8.º, artigo 141.º, n.º 3) ... 34000$00
+Capítulo 8.º, artigo 141.º, n.º 3) ... 34000$00
 
 ... 64000$00
 
 Ministério das Finanças
 
-### Capítulo 2.º, artigo 25.º, n.º 5) ... 7500$00
+Capítulo 2.º, artigo 25.º, n.º 5) ... 7500$00
 
-### Capítulo 4.º, artigo 47.º ... 9000000$00
+Capítulo 4.º, artigo 47.º ... 9000000$00
 
-### Capítulo 12.º, artigo 151.º, n.º 1) ... 69050000$00
+Capítulo 12.º, artigo 151.º, n.º 1) ... 69050000$00
 
-### Capítulo 14.º, artigo 162.º, n.º 1) ... 912300$00
+Capítulo 14.º, artigo 162.º, n.º 1) ... 912300$00
 
-### Capítulo 19.º, artigo 223.º, n.º 1) ... 10000$00
+Capítulo 19.º, artigo 223.º, n.º 1) ... 10000$00
 
-### Capítulo 19.º, artigo 228.º, n.º 1) ... 24600$00
+Capítulo 19.º, artigo 228.º, n.º 1) ... 24600$00
 
 ... 79004400$00
 
 Ministério do Interior
 
-### Capítulo 5.º, artigo 65.º, n.º 1) «Disponibilidade» ... 2130000$00
+Capítulo 5.º, artigo 65.º, n.º 1) «Disponibilidade» ... 2130000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º, artigo 47.º, n.º 1) ... 8000$00
+Capítulo 3.º, artigo 47.º, n.º 1) ... 8000$00
 
-### Capítulo 4.º, artigo 330.º, n.º 1) ... 17000$00
+Capítulo 4.º, artigo 330.º, n.º 1) ... 17000$00
 
 ... 25000$00
 
 Ministério do Exército
 
-### Capítulo 8.º, artigo 343.º, n.º 1), alínea 1 «Disponibilidade» ... 142250$00
+Capítulo 8.º, artigo 343.º, n.º 1), alínea 1 «Disponibilidade» ... 142250$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 5.º, artigo 37.º, n.º 2) ... 200000$00
+Capítulo 5.º, artigo 37.º, n.º 2) ... 200000$00
 
 Ministério da Economia
 
-### Capítulo 4.º, artigo 35.º, n.º 1) ... 6400000$00
+Capítulo 4.º, artigo 35.º, n.º 1) ... 6400000$00
 
-### Capítulo 4.º, artigo 35.º, n.º 2) ... 1000000$00
+Capítulo 4.º, artigo 35.º, n.º 2) ... 1000000$00
 
-### Capítulo 5.º, artigo 69.º, n.º 1) ... 5000000$00
+Capítulo 5.º, artigo 69.º, n.º 1) ... 5000000$00
 
-### Capítulo 6.º, artigo 164.º, n.º 1) ... 2000000$00
+Capítulo 6.º, artigo 164.º, n.º 1) ... 2000000$00
 
-### Capítulo 7.º, artigo 176.º, n.º 1) ... 3000000$00
+Capítulo 7.º, artigo 176.º, n.º 1) ... 3000000$00
 
-### Capítulo 18.º, artigo 326.º, n.º 4) ... 370000$00
+Capítulo 18.º, artigo 326.º, n.º 4) ... 370000$00
 
 ... 17770000$00
 
 ... 159335650$00
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento de Encargos Gerais da Nação:
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento de Encargos Gerais da Nação:
 
 A observação (b) aposta à dotação do capítulo 15.º, artigo 355.º, n.º 3), é alterada para:
 
@@ -381,8 +429,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Dezembro de 1970.**
+Promulgado em 12 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,36 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1972-691625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 797e264ae3ed8c536ed1a96c895b490e9667a7c131e014c43ad822e25c94eb45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b8a549b0d7c2715e08bc7c0e3a112e59b7d700f80e343a7c7d8327d3d7e4496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Geral
+- Definição de Competências
+- Direção
+- Estatuto
+- Organismo Corporativo
+relationships:
+- type: cites
+  target: pt:dre:200809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666347:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:09Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +149,7 @@ Nestes termos, ouvidas as corporações:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Noção)
 
@@ -124,7 +161,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Acerca da existência das relações de afinidade referida no número anterior deverão ser ouvidas a corporação ou corporações interessadas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Atribuições)
 
@@ -156,7 +193,7 @@ j) Criar e manter serviços de interesse ou utilização comum, mediante delega�
 
 4. As federações e uniões realizam as suas atribuições em harmonia com os princípios fundamentais que regem a organização corporativa.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Área)
 
@@ -166,7 +203,7 @@ j) Criar e manter serviços de interesse ou utilização comum, mediante delega�
 
 3. Excepcionalmente, a área das federações e uniões poderá ser alterada mediante portaria do Ministro das Corporações e Previdência Social, ouvidas as corporações e demais organismos corporativos interessados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Constituição)
 
@@ -174,7 +211,7 @@ j) Criar e manter serviços de interesse ou utilização comum, mediante delega�
 
 2. A iniciativa a que se refere o número anterior pode ser fomentada e apoiada pelas corporações.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Reconhecimento)
 
@@ -188,7 +225,7 @@ j) Criar e manter serviços de interesse ou utilização comum, mediante delega�
 
 5. Dos estatutos constarão as normas necessárias à organização e funcionamento das federações e uniões.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Regime de integração)
 
@@ -196,7 +233,7 @@ j) Criar e manter serviços de interesse ou utilização comum, mediante delega�
 
 2. Aos membros das direcções dos organismos corporativos primários que por qualquer forma contribuírem para o não cumprimento dos deveres decorrentes da integração referida no n.º 1 é aplicável o disposto no § 2.º do artigo 21.º do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457), de 23 de Setembro de 1933, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 49058](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49058-1969-200809), de 14 de Junho de 1969.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Órgãos)
 
@@ -208,13 +245,13 @@ j) Criar e manter serviços de interesse ou utilização comum, mediante delega�
 
 4. O mandato dos membros dos órgãos nas federações e uniões terá a duração de três anos.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Contribuições)
 
 Compete aos conselhos gerais fixar, de acordo com os estatutos, as contribuições a pagar pelos organismos integradas, até ao máximo de 20 por cento das respectivas receitas de quotização de sócios e contribuintes.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Extinção)
 
@@ -224,7 +261,7 @@ a) De deliberação do conselho geral, tomada por maioria de dois terços dos se
 
 b) De deliberação do Conselho Corporativo, quando se desviem dos seus fins ou não possam dar cumprimento aos deveres impostos por lei.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Normas subsidiárias)
 
@@ -232,7 +269,7 @@ b) De deliberação do Conselho Corporativo, quando se desviem dos seus fins ou 
 
 2. O disposto no número anterior aplicar-se-á igualmente quanto aos actos dos dirigentes.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Âmbito de aplicação)
 
@@ -240,8 +277,8 @@ As federações de grémios da lavoura e as federações de Casas do Povo contin
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 6 de Outubro de 1972.**
+Promulgado em 6 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

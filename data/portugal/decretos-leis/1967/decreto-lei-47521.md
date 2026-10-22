@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47521-1967-500906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6211dfea4f0d62ff95110f3bc242370c16be8d1227106e761937d8a02b7b644b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bced0ae4815e99448b8e272c3d09af2ee5f631bdf2ce2aef939fee4bfc1a5581
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Industrial
+- Indústria Siderúrgica
+- Isenção Fiscal
+- Seixal
+- Siderurgia Nacional
+relationships:
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:05Z'
   warnings: []
   errors: []
 ---
@@ -112,23 +129,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Governo autorizado, pelos Ministros das Finanças, do Ultramar e da Economia, a conceder à Siderurgia Nacional, S. A. R. L., autorização para ampliação das suas instalações siderúrgicas no Seixal, nas condições do presente diploma.
+Artigo 1.º Fica o Governo autorizado, pelos Ministros das Finanças, do Ultramar e da Economia, a conceder à Siderurgia Nacional, S. A. R. L., autorização para ampliação das suas instalações siderúrgicas no Seixal, nas condições do presente diploma.
 
-###### Art. 2.º A licença de ampliação será concedida com o exclusivo fabrico na metrópole, pelo período de quinze anos, a contar da data da licença, considerando-se prorrogado até final deste período o exclusivo concedido, nos termos da base VII da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, pelo alvará n.º 13, de 18 de Fevereiro de 1955.
+Art. 2.º A licença de ampliação será concedida com o exclusivo fabrico na metrópole, pelo período de quinze anos, a contar da data da licença, considerando-se prorrogado até final deste período o exclusivo concedido, nos termos da base VII da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, pelo alvará n.º 13, de 18 de Fevereiro de 1955.
 
-###### Art. 3.º O Governo concederá a isenção de direitos de importação para todo o material destinado às ampliações, observado o disposto no artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
+Art. 3.º O Governo concederá a isenção de direitos de importação para todo o material destinado às ampliações, observado o disposto no artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
 
-###### Art. 4.º À Siderurgia Nacional, S. A. R. L., são concedidas, pelo período de quinze anos, a contar da data do despacho que conceder a licença referida no artigo 1.º do presente diploma, as seguintes isenções:
+Art. 4.º À Siderurgia Nacional, S. A. R. L., são concedidas, pelo período de quinze anos, a contar da data do despacho que conceder a licença referida no artigo 1.º do presente diploma, as seguintes isenções:
 
 a) De impostos ou taxas do Estado e dos corpos administrativos devidos pelos seus rendimentos provenientes do exercício da actividade siderúrgica, bem como do imposto de mais-valias devido pelos ganhos referidos n.º 2.º do artigo 1.º do Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965;
 
 b) De sisa pelas aquisições de prédios urbanos ou de terrenos para a sua construção destinados à ampliação prevista neste decreto-lei.
 
-###### Art. 5.º É concedida à Siderurgia Nacional, S. A. R. L., ou à empresa financiadora, isenção do imposto de capitais pelos juros provenientes da operação de empréstimo para financiamento da ampliação referida no artigo 1.º
+Art. 5.º É concedida à Siderurgia Nacional, S. A. R. L., ou à empresa financiadora, isenção do imposto de capitais pelos juros provenientes da operação de empréstimo para financiamento da ampliação referida no artigo 1.º
 
-###### Art. 6.º O Governo proporcionará à Siderurgia Nacional, S. A. R. L., a protecção adequada contra a concorrência de fabricantes de produtos siderúrgicos similares de origem estrangeira que for compatível com as obrigações assumidas pelo País em convenções internacionais.
+Art. 6.º O Governo proporcionará à Siderurgia Nacional, S. A. R. L., a protecção adequada contra a concorrência de fabricantes de produtos siderúrgicos similares de origem estrangeira que for compatível com as obrigações assumidas pelo País em convenções internacionais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.
 

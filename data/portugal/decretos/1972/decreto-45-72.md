@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cf89599e95c49b672a5006bfa509ec1e4903ceb7b1cfa7695844eed81add6eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d99a4b96780e06ecefbb045b31875cb699b5548606da98e5ee96aec2f1131ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Transitária
+- Circulação de Mercadorias
+- Circulação de Pessoas
+- Regulamento dos Transportes Internacionais Rodoviários
+- Transporte de Passageiros
+- Transporte Internacional
+- Transporte Público
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:392444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções previstas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA, DG.IS [294] de\
+    \ 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: amended_by
+  target: pt:dre:392444:por
+  label: "Alterado o montante das multas previsto nos nºs. 1, 2 e 3 do art. 89º e no art. 90º, DEC LEI.186/82.1982.05.15.MHOPT\
+    \ DR.IS [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1982-392444
+  date: '1982-05-15'
+- type: cites
+  target: pt:dre:140546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO NA PARTE APLICÁVEL AOS TRANSPORTES DE MERCADORIAS, PELO DECRETO LEI 279-A/92, PUBLICADO NO DR.IS-A, 290SUPL.\0\
+    290SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-12-17'
 article_structure:
   article_count: 98
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:32Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +292,7 @@ O disposto nesta secção é aplicável apenas aos transportes que, nos termos d
 
 ##### SUBSECÇÃO I — Transportes de passageiros
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições comuns
 
@@ -332,11 +366,11 @@ d) Efeitos da perda, por qualquer dos sócios, da qualidade de concessionário d
 
 3. Sem prejuízo do disposto no artigo 29.º, os veículos a utilizar na realização de transportes internacionais de passageiros deverão ser da propriedade das empresas que os explorem, salvo em casos excepcionais e mediante prévia autorização da Direcção-Geral de Transportes Terrestres.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Transportes não turísticos
 
-##### SUBDIVISÃO I
+SUBDIVISÃO I
 
 Transportes regulares
 
@@ -382,7 +416,7 @@ Transportes regulares
 
 As condições de exploração dos transportes regulares concorrentes serão objecto de acordos a celebrar entre as empresas referidas no artigo 16.º e a concessionária da rede ferroviária nacional, homologados pela Direcção-Geral de Transportes Terrestres, podendo esta, na falta do acordo ou quando ele não for homologado, definir tais condições.
 
-##### SUBDIVISÃO II
+SUBDIVISÃO II
 
 Transportes ocasionais
 
@@ -416,7 +450,7 @@ d) Os transportes com origem ou destino em portos ou aeroportos no caso de desvi
 
 2. No caso da alínea d) do número anterior, o transportador deve apresentar na fronteira uma declaração da entidade transportadora marítima ou aérea, com a lista nominativa dos passageiros e mencionando os locais para onde e donde foram desviados os serviços, visada pela autoridade portuária ou aeroportuária.
 
-##### SUBDIVISÃO III
+SUBDIVISÃO III
 
 Transportes turísticos
 
@@ -588,7 +622,7 @@ Sob reserva de reciprocidade, os transportes em trânsito, de passageiros ou de 
 
 ##### SUBSECÇÃO I — Transportes não turísticos
 
-##### DIVISÃO I
+DIVISÃO I
 
 Transportes regulares
 
@@ -610,7 +644,7 @@ Cada linha de transporte regular internacional com origem, destino ou pontos de 
 
 2. Os passageiros tomados em território português só poderão ser largados uma vez atravessada a fronteira.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Transportes ocasionais
 
@@ -652,7 +686,7 @@ e) Os transportes que comportem entrada em carga e saída em vazio.
 
 3. Sob reserva de reciprocidade, será sempre concedida a autorização a que se refere o n.º 1 deste artigo quando os passageiros tenham entrado em território português em veículo pertencente à empresa requerente.
 
-##### SUBSECCÃO II
+SUBSECCÃO II
 
 Transportes turísticos
 
@@ -1090,8 +1124,8 @@ Até que seja constituída, numa determinada região, a empresa regional a que s
 
 Marcello Caetano - Rui Alves da Silva Sanches - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Janeiro de 1972.**
+Promulgado em 26 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

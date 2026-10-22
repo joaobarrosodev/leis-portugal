@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1979, 9º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 3478-(209) a 3478-(215)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30009/02090215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/535-1979-231306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d8cb5be1f92f675549f2008d97f2496a8c76525ee398c391cfb25ebbc8aaf16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91d29925c345778c0f27b6e0b6cba5873b0de2ce7be7e8988ee1303422408407
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Gestão do Património
+- Gestão Financeira
+- Investigação Científica e Tecnológica
+- Museu
+- Museu Nacional de Etnologia
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reintegração de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:607130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:607130:por
+  label: "Revogado o presente diploma e transferido o património do Instituto-Museu Nacional de Etnologia para o Instituto\
+    \ de Investigação Científica Tropical, pelo DEC LEI.105/82.08.04.1982.MEU, DR.IS [[82]] de 08.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1982-607130
+  date: '1982-04-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:00Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +147,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — (Criação e atribuições)
 
-###### Artigo 1.º - 1 - É criado, na dependência directa do Secretário de Estado da Ciência, Instituto-Museu Nacional de Etnologia, adiante designado por IMNE.
+Artigo 1.º - 1 - É criado, na dependência directa do Secretário de Estado da Ciência, Instituto-Museu Nacional de Etnologia, adiante designado por IMNE.
 
 2 - O IMNE é dotado de personalidade jurídica e goza de autonomia administrativa patrimonial e financeira.
 
-###### Art. 2.º - 1 - O IMNE é um organismo científico no âmbito disciplinar da etnologia e antropologia cultural ou social, exercendo as suas actividades básicas nos domínios da investigação e da museologia relativamente às culturas ou segmentos de culturas de quaisquer grupos étnicos ou sociais de todo o Mundo, podendo ainda realizar acções no domínio do apoio ao ensino.
+Art. 2.º - 1 - O IMNE é um organismo científico no âmbito disciplinar da etnologia e antropologia cultural ou social, exercendo as suas actividades básicas nos domínios da investigação e da museologia relativamente às culturas ou segmentos de culturas de quaisquer grupos étnicos ou sociais de todo o Mundo, podendo ainda realizar acções no domínio do apoio ao ensino.
 
 2 - No domínio da investigação, compete fundamentalmente ao IMNE levar a efeito estudos teóricos das culturas mencionadas no número anterior.
 
@@ -136,7 +173,7 @@ b) Colaborar com os estabelecimentos de ensino superior na organização e efect
 
 #### SECÇÃO I — Órgãos
 
-###### Art. 3.º São órgãos do IMNE:
+Art. 3.º São órgãos do IMNE:
 
 a) O director;
 
@@ -144,7 +181,7 @@ b) O conselho cultural;
 
 c) O conselho administrativo.
 
-###### Art. 4.º Compete ao director:
+Art. 4.º Compete ao director:
 
 a) Dirigir e orientar a acção do IMNE e gerir o pessoal dos diversos serviços;
 
@@ -164,11 +201,11 @@ h) Representar o IMNE em juízo e fora dele;
 
 i) Autorizar a realização de despesas nos termos por lei permitidos aos dirigentes dos serviços dotados de autonomia administrativa e financeira.
 
-###### Art. 5.º - 1 - O director será coadjuvado por um subdirector, no qual poderá delegar algumas das suas competências e que o deverá substituir nas suas faltas e impedimentos.
+Art. 5.º - 1 - O director será coadjuvado por um subdirector, no qual poderá delegar algumas das suas competências e que o deverá substituir nas suas faltas e impedimentos.
 
 2 - Na ausência simultânea do director e do subdirector, serão eles substituídos pelo director do Centro ou pelo director do Museu, conforme designação do director.
 
-###### Art. 6.º - 1 - O conselho cultural é um órgão interno de consulta sobre as linhas gerais de planeamento e gestão científicos e culturais do IMNE, visando especialmente a coordenação das actividades do Centro e do Museu.
+Art. 6.º - 1 - O conselho cultural é um órgão interno de consulta sobre as linhas gerais de planeamento e gestão científicos e culturais do IMNE, visando especialmente a coordenação das actividades do Centro e do Museu.
 
 2 - O conselho cultural será constituído pelos seguintes membros:
 
@@ -184,7 +221,7 @@ e) Três personalidades de reconhecida competência nomeadas pelo Secretário de
 
 3 - A constituição do conselho poderá ser alterada por despacho do Secretário de Estado da Ciência.
 
-###### Art. 7.º Ao conselho cultural compete pronunciar-se sobre todas as questões que lhe sejam postas pelo director e será obrigatoriamente ouvido sobre os assuntos seguintes:
+Art. 7.º Ao conselho cultural compete pronunciar-se sobre todas as questões que lhe sejam postas pelo director e será obrigatoriamente ouvido sobre os assuntos seguintes:
 
 a) Linhas gerais de planeamento e gestão globais do IMNE, em particular da investigação e da museologia;
 
@@ -194,7 +231,7 @@ c) Proposta de aquisição de espécies etnográficas destinadas às colecções
 
 d) Propostas de aceitação de doações, legados e depósitos de peças destinadas ao Museu ou aos serviços em geral.
 
-###### Art. 8.º - 1 - O conselho cultural é presidido pelo director do IMNE e reunirá ordinariamente cada dois meses e extraordinariamente sempre que for convocado pelo director, por iniciativa deste ou a solicitação da maioria dos seus membros.
+Art. 8.º - 1 - O conselho cultural é presidido pelo director do IMNE e reunirá ordinariamente cada dois meses e extraordinariamente sempre que for convocado pelo director, por iniciativa deste ou a solicitação da maioria dos seus membros.
 
 2 - As deliberações serão tomadas por maioria de votos dos membros presentes, tendo o director voto de qualidade.
 
@@ -206,7 +243,7 @@ b) Personalidades nacionais e estrangeiras de reconhecida competência científi
 
 4 - O secretariado do conselho cultural ficará a cargo do chefe da Repartição Administrativa.
 
-###### Art. 9.º - 1 - O conselho administrativo é constituído pelo director, que preside, e pelos seguintes vogais:
+Art. 9.º - 1 - O conselho administrativo é constituído pelo director, que preside, e pelos seguintes vogais:
 
 a) Subdirector do IMNE;
 
@@ -218,7 +255,7 @@ d) Chefe da Repartição Administrativa.
 
 2 - O director, que terá voto de qualidade, poderá convocar para as sessões do conselho administrativo, sem direito a voto, quaisquer funcionários do IMNE especialmente qualificados nas matérias a apreciar.
 
-###### Art. 10.º Ao conselho administrativo compete:
+Art. 10.º Ao conselho administrativo compete:
 
 a) Autorizar a realização de despesas, nos termos permitidos por lei, aos órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira;
 
@@ -238,7 +275,7 @@ h) Apreciar as contas de gerência a submeter anualmente ao Tribunal de Contas.
 
 #### SECÇÃO II — Serviços
 
-###### Art. 11.º O IMNE compreende os seguintes serviços:
+Art. 11.º O IMNE compreende os seguintes serviços:
 
 a) Centro de Etnologia, abreviadamente designado por Centro;
 
@@ -248,7 +285,7 @@ c) Divisão de Documentação e Informação;
 
 d) Repartição Administrativa.
 
-###### Art. 12.º - 1 - O Centro constitui uma direcção de serviços, integrando o pessoal científico de que o IMNE dispõe para as suas actividades de investigação, agrupadas em núcleos mediante despacho do director.
+Art. 12.º - 1 - O Centro constitui uma direcção de serviços, integrando o pessoal científico de que o IMNE dispõe para as suas actividades de investigação, agrupadas em núcleos mediante despacho do director.
 
 2 - O Centro prestará estreita colaboração ao Museu, que utilizará os dados e resultados dos trabalhos de investigação do Centro como base das suas actividades fundamentais de recolha e escolha de temas, estudo e realização de exposições.
 
@@ -266,7 +303,7 @@ e) Colaborar com os estabelecimentos de ensino superior na organização e efect
 
 f) Emitir propostas fundamentadas sobre a admissão e promoções de pessoal de investigação.
 
-###### Art. 13.º - 1 - O Museu integrará o pessoal científico adstrito às actividades e investigação museológicas, além de serviços de apoio, nomeadamente os de acção educativa, conservação e restauro
+Art. 13.º - 1 - O Museu integrará o pessoal científico adstrito às actividades e investigação museológicas, além de serviços de apoio, nomeadamente os de acção educativa, conservação e restauro
 
 2 - A superintendência no funcionamento do Museu caberá a um director de serviços.
 
@@ -292,7 +329,7 @@ h) Promover e organizar a investigação nos domínio específicos da museulogia
 
 i) Elaborar planos de preparação de monitores e do pessoal auxiliar do IMNE sobre as matérias relacionadas com o seu património museológico.
 
-###### Art. 14.º À Divisão de Documentação e Informação compete:
+Art. 14.º À Divisão de Documentação e Informação compete:
 
 a) Organizar e gerir a biblioteca do IMNE;
 
@@ -316,13 +353,13 @@ j) Organizar os processos de impressão, difusão e comercialização das public
 
 l) Reproduzir em meios áudio-visuais toda a informação necessária aos serviços do IMNE, no âmbito das acções formativas e de animação cultural, bem como nas de realizações de seminários, conferências, colóquios e debates.
 
-###### Art. 15.º - 1 - À Repartição Administrativa competirá assegurar o expediente geral, a gestão do pessoal, a contabilidade, o património e economato e os demais serviços comuns.
+Art. 15.º - 1 - À Repartição Administrativa competirá assegurar o expediente geral, a gestão do pessoal, a contabilidade, o património e economato e os demais serviços comuns.
 
 2 - A Repartição é integrada por três secções, cujas designações, atribuições e competências serão definidas no diploma regulamentar a que se refere o n.º 1 do artigo 21.º
 
 ### CAPÍTULO III — (Gestão financeira e patrimonial)
 
-###### Art. 16.º - 1 - O IMNE arrecadará e administrará as suas receitas e, por meio delas, satisfará os encargos resultantes da sua actividade, observando os preceitos legais.
+Art. 16.º - 1 - O IMNE arrecadará e administrará as suas receitas e, por meio delas, satisfará os encargos resultantes da sua actividade, observando os preceitos legais.
 
 2 - Além das dotações inscritas no Orçamento Geral do Estado, constituem receitas do IMNE:
 
@@ -342,27 +379,27 @@ g) Quaisquer outras receitas permitidas por lei.
 
 3 - Os saldos anuais das dotações orçamentais e receitas próprias do IMNE podem ser despendidos nos anos económicos seguintes.
 
-###### Art. 17.º - 1 - As receitas referidas nas alíneas do n.º 2 do artigo 16.º serão entregues nos cofres da tesouraria e escrituradas em conta de ordem do orçamento da Secretaria de Estado da Ciência mediante guias passadas pelo IMNE ou por outras entidades legalmente competentes.
+Art. 17.º - 1 - As receitas referidas nas alíneas do n.º 2 do artigo 16.º serão entregues nos cofres da tesouraria e escrituradas em conta de ordem do orçamento da Secretaria de Estado da Ciência mediante guias passadas pelo IMNE ou por outras entidades legalmente competentes.
 
 2 - Um exemplar da referida guia averbada de pagamento será enviado à 1.ª Delegação da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 18.º - 1 - O património do IMNE é constituído pelos bens e direitos recebidos ou adquiridos para ou no exercício da sua actividade.
+Art. 18.º - 1 - O património do IMNE é constituído pelos bens e direitos recebidos ou adquiridos para ou no exercício da sua actividade.
 
 2 - Os órgãos do IMNE podem administrar e dispor dos bens que integrem o seu património de acordo com as normas que regulam o domínio privado do Estado.
 
-###### Art. 19.º O IMNE pode promover directamente a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe sejam afectas.
+Art. 19.º O IMNE pode promover directamente a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe sejam afectas.
 
-###### Art. 20.º O IMNE pode enviar missões ao estrangeiro, mediante prévia autorização ministerial, para se ocuparem de actividades relacionadas com as suas atribuições.
+Art. 20.º O IMNE pode enviar missões ao estrangeiro, mediante prévia autorização ministerial, para se ocuparem de actividades relacionadas com as suas atribuições.
 
 ### CAPÍTULO IV — (Pessoal)
 
-###### Art. 21.º - 1 - Os quadros de pessoal do IMNE serão estabelecidos por decreto do Ministro das Finanças e dos Secretários de Estado da Ciência e da Administração Pública.
+Art. 21.º - 1 - Os quadros de pessoal do IMNE serão estabelecidos por decreto do Ministro das Finanças e dos Secretários de Estado da Ciência e da Administração Pública.
 
 2 - O mesmo diploma definirá também as normas a que deverão obedecer o recrutamento e o provimento do pessoal e, bem assim, a forma de integração do pessoal que de outros organismos venha a transitar para o IMNE.
 
 3 - Sem prejuízo do disposto nos números anteriores, o quadro do IMNE fica desde já dotado com o pessoal constante do mapa anexo.
 
-###### Art. 22.º - 1 - O recrutamento e o provimento do pessoal dirigente, com excepção do chefe de repartição, serão feitos de harmonia com os preceitos aplicáveis do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e o disposto seguidamente:
+Art. 22.º - 1 - O recrutamento e o provimento do pessoal dirigente, com excepção do chefe de repartição, serão feitos de harmonia com os preceitos aplicáveis do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e o disposto seguidamente:
 
 a) O lugar de director deverá recair em personalidade de reconhecido mérito e competência nos domínios da investigação científica, etnológica e museológica;
 
@@ -378,29 +415,29 @@ e) O lugar de chefe da Divisão de Documentação e Informação será provido n
 
 3 - As propostas do director para provimento dos lugares considerados nas alíneas c) a e) do número anterior serão precedidas de parecer do conselho cultural, desde que este esteja constituído, baseado na apreciação do currículo e merecimento dos trabalhos realizados pelos propostos.
 
-###### Art. 23.º O lugar de chefe de repartição será provido por escolha do Secretário de Estado da Ciência de entre indivíduos diplomados com curso superior adequado ou de entre chefes de secção de serviços dependentes da Secretaria de Estado ou, na falta destes, de outros serviços públicos, num e noutro caso com reconhecida experiência administrativa e, pelo menos, três anos de bom e efectivo serviço na categoria.
+Art. 23.º O lugar de chefe de repartição será provido por escolha do Secretário de Estado da Ciência de entre indivíduos diplomados com curso superior adequado ou de entre chefes de secção de serviços dependentes da Secretaria de Estado ou, na falta destes, de outros serviços públicos, num e noutro caso com reconhecida experiência administrativa e, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-###### Art. 24.º Os lugares de chefe de secção serão providos por escolha do Secretário de Estado da Ciência de entre os primeiros-oficiais de serviços dependentes do Ministério com três anos de bom e efectivo serviço nessa categoria, ou de entre diplomados com curso superior.
+Art. 24.º Os lugares de chefe de secção serão providos por escolha do Secretário de Estado da Ciência de entre os primeiros-oficiais de serviços dependentes do Ministério com três anos de bom e efectivo serviço nessa categoria, ou de entre diplomados com curso superior.
 
-###### Art. 25.º - 1 - As nomeações para os cargos a que se referem os artigos 23.º e 24.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
+Art. 25.º - 1 - As nomeações para os cargos a que se referem os artigos 23.º e 24.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
 
 2 - Findo o período referido, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
-###### Art. 26.º - 1 - Se a nomeação para qualquer dos cargos a que se refere o artigo anterior recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por mais um ano, podendo, todavia, converter-se em definitiva após o primeiro período de bom e efectivo serviço.
+Art. 26.º - 1 - Se a nomeação para qualquer dos cargos a que se refere o artigo anterior recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por mais um ano, podendo, todavia, converter-se em definitiva após o primeiro período de bom e efectivo serviço.
 
 2 - Enquanto se mantiver a situação referida no número anterior, o lugar correspondente no quadro de origem do funcionário que nela se encontrar poderá ser provido interinamente.
 
-###### Art. 27.º - 1 - O Secretário de Estado da Ciência poderá, por despacho, transferir para o IMNE pessoal de outros serviços ou organismos dependentes do Ministério, assim como autorizar o destacamento do que se mostre indispensável ao funcionamento dos serviços.
+Art. 27.º - 1 - O Secretário de Estado da Ciência poderá, por despacho, transferir para o IMNE pessoal de outros serviços ou organismos dependentes do Ministério, assim como autorizar o destacamento do que se mostre indispensável ao funcionamento dos serviços.
 
 2 - O pessoal referido no número anterior conserva todas as regalias e direitos que tenha adquirido no lugar de origem e, no caso de destacamento, por ele continuará a ser abonado da respectiva remuneração.
 
-###### Art. 28.º O Ministro da Cultura e da Ciência poderá autorizar que, por força de verbas especialmente inscritas para pagamento de remunerações, seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 28.º O Ministro da Cultura e da Ciência poderá autorizar que, por força de verbas especialmente inscritas para pagamento de remunerações, seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
-###### Art. 29.º Pode ser autorizada por despacho ministerial a realização de trabalhos eventuais por quaisquer pessoas de reconhecida competência, em regime de prestação de serviço.
+Art. 29.º Pode ser autorizada por despacho ministerial a realização de trabalhos eventuais por quaisquer pessoas de reconhecida competência, em regime de prestação de serviço.
 
 ### CAPÍTULO V — (Disposições finais e transitórias)
 
-###### Art. 30.º - 1 - Serão extintos, a partir da data da entrada em vigor do diploma previsto no n.º 1 do artigo 21.º:
+Art. 30.º - 1 - Serão extintos, a partir da data da entrada em vigor do diploma previsto no n.º 1 do artigo 21.º:
 
 a) O Centro de Estudos de Etnologia, criado por despacho do Ministro da Educação Nacional de 2 de Abril de 1945, presentemente na dependência do Instituto Nacional de Investigação Científica;
 
@@ -420,22 +457,22 @@ d) O Museu de Arte Popular, criado pelo [Decreto-Lei n.º 33820](https://diariod
 
 6 - Mediante despacho ministerial, os bens pertencentes a outros organismos, com o acordo desses organismos, podem ser transferidos para o IMNE, desde que tal se considere conveniente.
 
-###### Art. 31.º Enquanto não for possível o funcionamento do conselho cultural e do conselho administrativo com a maioria dos seus membros, conforme previsto nos artigos 6.º e 9.º do presente diploma, o Ministro da Cultura e da Ciência regulará, por despacho, a forma como se fará a sua substituição.
+Art. 31.º Enquanto não for possível o funcionamento do conselho cultural e do conselho administrativo com a maioria dos seus membros, conforme previsto nos artigos 6.º e 9.º do presente diploma, o Ministro da Cultura e da Ciência regulará, por despacho, a forma como se fará a sua substituição.
 
-###### Art. 32.º Em casos devidamente fundamentados, em virtude da especificidade de formação exigida no domínio de actividade do IMNE, designadamente nos campos da etnologia e museologia, poderão ser admitidos indivíduos não vinculados à função pública, nos termos a definir no decreto regulamentar a que se refere o n.º 1 do artigo 21.º
+Art. 32.º Em casos devidamente fundamentados, em virtude da especificidade de formação exigida no domínio de actividade do IMNE, designadamente nos campos da etnologia e museologia, poderão ser admitidos indivíduos não vinculados à função pública, nos termos a definir no decreto regulamentar a que se refere o n.º 1 do artigo 21.º
 
-###### Art. 33.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Ciência ou por despacho conjunto do Ministro das Finanças e dos Secretários de Estado da Ciência e da Administração Pública, consoante a sua natureza.
+Art. 33.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Ciência ou por despacho conjunto do Ministro das Finanças e dos Secretários de Estado da Ciência e da Administração Pública, consoante a sua natureza.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Adérito de Oliveira Sedas Nunes
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo ao Decreto-Lei n.º 535/79, a que se refere o n.º 3 do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02090215.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02090215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02090215.pdf)
 
-**O Ministro da Cultura e da Ciência, Adérito de Oliveira Sedas Nunes.**
+O Ministro da Cultura e da Ciência, Adérito de Oliveira Sedas Nunes.

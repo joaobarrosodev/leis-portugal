@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48843-1969-526992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9312d41ed48dd7469d85829048ddaeca1765bfbf7f531d6e5d15c84e6fb9296e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ad35cc9da727ba4fe1d31e26bae8a88dc78a791b7f44e9483ee8e3942418cee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Expropriação
+- Utilidade Pública
+- VILA NOVA de Famalicão
+- Zona Industrial
+relationships:
+- type: cites
+  target: pt:dre:152096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:19Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É declarada a utilidade pública e a urgência da expropriação requerida pela Sociedade Têxtil Manuel Gonçalves, S. A. R. L., de duas parcelas de terreno necessárias à ampliação das suas instalações fabris, e cujas descrições são as seguintes:
+Artigo 1.º É declarada a utilidade pública e a urgência da expropriação requerida pela Sociedade Têxtil Manuel Gonçalves, S. A. R. L., de duas parcelas de terreno necessárias à ampliação das suas instalações fabris, e cujas descrições são as seguintes:
 
 Parcela de terreno, com a área de 6710 m2, situada no lugar de Vilar, freguesia de S. Cosme do Vale, concelho de Vila Nova de Famalicão, pertencente de raiz a D. Balbina Rosa Sampaio Porto e marido, José Gomes da Costa, residentes no lugar da Igreja, freguesia de S. Martinho do Vale, concelho de Vila Nova de Famalicão, e de que são usufrutuários Dr. Manuel Faria Sampaio e esposa, D. Maria Pinto de Sousa, residentes na Rua do Barão de Trovisqueira, Vila Nova de Famalicão, e D. Maria de Lurdes Sampaio Porto, residente no lugar da Pedra, freguesia de S. Cosme do Vale, concelho de Vila Nova de Famalicão, e confrontante a nascente com Sociedade Têxtil Manuel Gonçalves, S. A. R. L., a sul com estrada municipal, a poente com o rio Pelhe e Sociedade Têxtil Manuel Gonçalves, S. A. R. L., e a norte com Francisco Pereira; está registada na Conservatória do Registo Predial de Vila Nova de Famalicão, a fl. 165 do livro B-22, sob o n.º 6077, e inscrita na matriz respectiva sob o artigo 953;
 
@@ -106,13 +122,13 @@ A fl. 23 do livro G-13, sob o n.º 4604, a inscrição de foro anual em favor de
 
 A fl. 104 do livro G-8, sob o n.º 3325, a inscrição de foro anual a favor de Manuel José da Costa Marques.
 
-###### Art. 2.º No processo de expropriação serão observados os trâmites prescritos na legislação geral sobre expropriações por utilidade pública.
+Art. 2.º No processo de expropriação serão observados os trâmites prescritos na legislação geral sobre expropriações por utilidade pública.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Rafael Amaro da Costa.
 
-**Promulgado em 9 de Janeiro de 1969.**
+Promulgado em 9 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

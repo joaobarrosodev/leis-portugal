@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/562-1971-632249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 307e8ba21d8b56ff6dea1f01aef48bdad5b806dd1f56b3906dea213238fed2dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3eaddc358863d42f4c8183141be52b7f13082441caee6df7d05553f550dcaa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais do Trabalho
+- Contabilidade Pública
+- Custas Judiciais
+- Fundo de Garantia de Despesas de Emergência
+- Imposto do SELO
+- Isenção Fiscal
+- Processo Civil
+- Processo Laboral
+- Receita Pública
+- Transferência de Verbas
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:506869:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506869:por
+  label: "Alterados os arts. 43º, 118º, 122º, 134º, 135º, e 138º do Código das Custas Judiciais do Trabalho aprovado pelo\
+    \ Dec Lei 45698 de 30-Abr de 1964, com a redação constante do presente diploma, pelo DEC LEI.85/76.28.01.1976.MT, DG.IS\
+    \ [23] de 28.01.1976, que substituiu por Cofre dos Tribunais do Trabalho a expressão Fundo de Garantia de Despesas de\
+    \ Emergência contida no referido código \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1976-506869
+  date: '1976-01-28'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506869:por
+  label: "Revogado o art. 2º pelo DEC LEI.85/76.28.01.1976.MT, DG.IS [23] de 28.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1976-506869
+  date: '1976-01-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:19Z'
   warnings: []
   errors: []
 ---
@@ -114,39 +158,39 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 27.º, 33.º, 42.º, 43.º, 65.º, 68.º, 98.º, 104.º, 106.º, 118.º, 122.º, 134.º, 135.º, 138.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º e 147.º do Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 27.º, 33.º, 42.º, 43.º, 65.º, 68.º, 98.º, 104.º, 106.º, 118.º, 122.º, 134.º, 135.º, 138.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º e 147.º do Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, passam a ter a seguinte redacção:
 
-###### Art. 27.º - 1. As custas, nas acções declarativas ou executivas, nos processos especiais e nos incidentes, não podem exceder 75 por cento de respectivo valor. Sempre que excedam tal limite, far-se-á rateio, obedecendo à ordem estabelecida no artigo 98.º
+Art. 27.º - 1. As custas, nas acções declarativas ou executivas, nos processos especiais e nos incidentes, não podem exceder 75 por cento de respectivo valor. Sempre que excedam tal limite, far-se-á rateio, obedecendo à ordem estabelecida no artigo 98.º
 
 2. O disposto no número anterior não tem aplicação às execuções de valor não superior a 3000$00 e seus incidentes.
 
 ...
 
-###### Art. 33.º O montante do imposto do selo está sujeito aos limites mínimos do imposto de justiça, não pode exceder o montante deste e acompanha a sua redução ou o seu aumento, em cada processo, acto ou incidente.
+Art. 33.º O montante do imposto do selo está sujeito aos limites mínimos do imposto de justiça, não pode exceder o montante deste e acompanha a sua redução ou o seu aumento, em cada processo, acto ou incidente.
 
 ...
 
-###### Art. 42.º - 1. ...
+Art. 42.º - 1. ...
 
 2. São equiparadas às custas de parte, para efeitos de execução, as remunerações, indemnizações, percentagens, contribuições, quotizações e quaisquer outras verbas que, por força da lei, devam ser incluídas na conta, quando devidas por quem não esteja isento de custas, e bem assim a indemnização a que se refere o artigo 60.º deste diploma.
 
-###### Art. 43.º - 1. ...
+Art. 43.º - 1. ...
 
 2. A percentagem prevista no número anterior pode ser aumentada por meio de portaria do Ministro das Corporações e Previdência Social, na medida em que o equilíbrio financeiro do Fundo o for exigindo, até ao limite máximo de 5 por cento, sob proposta fundamentada do conselho administrativo do mesmo Fundo.
 
 ...
 
-###### Art. 65.º O emolumento previsto no artigo anterior, relativo às diligências realizadas por funcionários dos tribunais do trabalho, e os referentes à confiança de processos, a certidões, traslados, cartas de sentença ou de arrematação e a buscas, constituem integralmente receita do Estado ou das juntas gerais e serão pagos por meio de guia e registados no livro a que se refere a alínea c) do artigo 144.º
+Art. 65.º O emolumento previsto no artigo anterior, relativo às diligências realizadas por funcionários dos tribunais do trabalho, e os referentes à confiança de processos, a certidões, traslados, cartas de sentença ou de arrematação e a buscas, constituem integralmente receita do Estado ou das juntas gerais e serão pagos por meio de guia e registados no livro a que se refere a alínea c) do artigo 144.º
 
 ...
 
-###### Art. 68.º Em todos os processos cíveis, salvo os de previdência social, qualquer que seja a sua forma processual, de acidente de trabalho ou doença profissional, cada uma das partes fará preparo para julgamento no montante de 15 por cento do imposto de justiça, devido, a final, no processo.
+Art. 68.º Em todos os processos cíveis, salvo os de previdência social, qualquer que seja a sua forma processual, de acidente de trabalho ou doença profissional, cada uma das partes fará preparo para julgamento no montante de 15 por cento do imposto de justiça, devido, a final, no processo.
 
 Se o imposto for favorável, o preparo será calculado pela sua taxa mínima.
 
 ...
 
-###### Art. 98.º Quando haja de se proceder a rateio, os pagamentos serão feitos pela ordem seguinte:
+Art. 98.º Quando haja de se proceder a rateio, os pagamentos serão feitos pela ordem seguinte:
 
 a) O imposto de selo;
 
@@ -158,9 +202,9 @@ d) A procuradoria, as custas de parte, as importâncias referidas no artigo 84.�
 
 ...
 
-###### Art. 104.º O imposto de justiça crime, bem como as verbas mencionadas no artigo 89.º de Código das Custas Judiciais, constituem integralmente receita do Estado ou das juntas gerais e são pagos por guia.
+Art. 104.º O imposto de justiça crime, bem como as verbas mencionadas no artigo 89.º de Código das Custas Judiciais, constituem integralmente receita do Estado ou das juntas gerais e são pagos por guia.
 
-###### Art. 106.º - 1. ...
+Art. 106.º - 1. ...
 
 2. ...
 
@@ -176,7 +220,7 @@ d) A procuradoria, as custas de parte, as importâncias referidas no artigo 84.�
 
 ...
 
-###### Art. 118.º - 1. ...
+Art. 118.º - 1. ...
 
 2. Quando for requerido o pagamento das contribuições em prestações, será entregue ao requerente, no próprio acto do depósito previsto na alínea b) do n.º 2 do artigo 185.º do Código de Processo do Trabalho, uma nota recibo, isenta de selo.
 
@@ -192,15 +236,15 @@ b) Nos tribunais em que exista tesouraria, a secção remeterá logo o processo 
 
 ...
 
-###### Art. 122.º As importâncias recebidas pela secretaria ou secção, salvo nos casos previstos na alínea a) do n.º 2 do artigo 118.º e nos artigos 126.º e 127.º, são entregues aos interessados, dentro de dez dias após o pagamento efectuado nos termos dos artigos 114.º e 115.º ou, se a ele não houver lugar, a partir do seu recebimento em juízo ou de rateio, conforme os casos.
+Art. 122.º As importâncias recebidas pela secretaria ou secção, salvo nos casos previstos na alínea a) do n.º 2 do artigo 118.º e nos artigos 126.º e 127.º, são entregues aos interessados, dentro de dez dias após o pagamento efectuado nos termos dos artigos 114.º e 115.º ou, se a ele não houver lugar, a partir do seu recebimento em juízo ou de rateio, conforme os casos.
 
 ...
 
-###### Art. 134.º - 1. As guias para depósitos de qualquer natureza e pagamentos na secretaria, funcionando como tesouraria, são passadas em duplicado pelas secções de processos, ficando, depois de efectuado o depósito, um exemplar em poder do tesoureiro e sendo o outro devolvido à secção, a fim de ser junto ao respectivo processo. As guias, quando não pagas, são devolvidas à secção de processos com a sobrecarga de «Não paga» e juntas aos processos a que respeitem.
+Art. 134.º - 1. As guias para depósitos de qualquer natureza e pagamentos na secretaria, funcionando como tesouraria, são passadas em duplicado pelas secções de processos, ficando, depois de efectuado o depósito, um exemplar em poder do tesoureiro e sendo o outro devolvido à secção, a fim de ser junto ao respectivo processo. As guias, quando não pagas, são devolvidas à secção de processos com a sobrecarga de «Não paga» e juntas aos processos a que respeitem.
 
 2. ...
 
-###### Art. 135.º - 1. Até às 12 horas do primeiro dia útil seguinte àquele em que tenham sido recebidas as importâncias das guias mencionadas no artigo 133.º ou em que termine o prazo para pagamento ou depósito nelas mencionado, sem que estes se tenham efectuado, a tesouraria devolverá às secções os duplicados das guias, ou todos os seus exemplares, se não tiverem sido pagas.
+Art. 135.º - 1. Até às 12 horas do primeiro dia útil seguinte àquele em que tenham sido recebidas as importâncias das guias mencionadas no artigo 133.º ou em que termine o prazo para pagamento ou depósito nelas mencionado, sem que estes se tenham efectuado, a tesouraria devolverá às secções os duplicados das guias, ou todos os seus exemplares, se não tiverem sido pagas.
 
 2. ...
 
@@ -208,7 +252,7 @@ b) Nos tribunais em que exista tesouraria, a secção remeterá logo o processo 
 
 ...
 
-###### Art. 138.º - 1. As secretarias avisarão, por postal registado, os titulares dos cheques de valor superior ao custo do aviso do correio que até ao dia 15 do mês em que foram emitidos se não tenham apresentado a recebê-los de que devem fazê-lo nos seguintes prazos, contados da data do aviso, sob pena de a respectiva importância prescrever a favor do Fundo de Garantia de Despesas de Emergência:
+Art. 138.º - 1. As secretarias avisarão, por postal registado, os titulares dos cheques de valor superior ao custo do aviso do correio que até ao dia 15 do mês em que foram emitidos se não tenham apresentado a recebê-los de que devem fazê-lo nos seguintes prazos, contados da data do aviso, sob pena de a respectiva importância prescrever a favor do Fundo de Garantia de Despesas de Emergência:
 
 a) Um mês, se residirem no continente;
 
@@ -222,9 +266,9 @@ c) Três meses, se residirem em alguma província ultramarina ou no estrangeiro.
 
 ...
 
-###### Art. 140.º As secretarias depositarão na conta do Fundo de Garantia de Despesas de Emergência todos os cheques prescritos no mês anterior, bem como os que neste Fundo devam ser depositados.
+Art. 140.º As secretarias depositarão na conta do Fundo de Garantia de Despesas de Emergência todos os cheques prescritos no mês anterior, bem como os que neste Fundo devam ser depositados.
 
-###### Art. 141.º - 1. A secretaria, depois de achados os totais e efectuada a verificação, passará os cheques necessários e apresentará tudo ao juiz; este, verificada a conformidade, assinará os cheques, mandará apor-lhes o selo branco e rubricará nos livros a sua nota de verificação, após o que o tesoureiro procederá aos respectivos pagamentos pela forma seguinte:
+Art. 141.º - 1. A secretaria, depois de achados os totais e efectuada a verificação, passará os cheques necessários e apresentará tudo ao juiz; este, verificada a conformidade, assinará os cheques, mandará apor-lhes o selo branco e rubricará nos livros a sua nota de verificação, após o que o tesoureiro procederá aos respectivos pagamentos pela forma seguinte:
 
 a) ...
 
@@ -240,11 +284,11 @@ f) ...
 
 2. O tesoureiro, à medida que vá efectuando os depósitos e pagamentos, lançará no livro «Pagamentos» a data dos mesmos e, bem assim, a dos cheques de transferência passados e respectivos números.
 
-###### Art. 142.º Cada secção entregará ao tesoureiro uma relação em duplicado por cada instituição de previdência, na qual se identifiquem os processos e se especifique a natureza das receitas cobradas.
+Art. 142.º Cada secção entregará ao tesoureiro uma relação em duplicado por cada instituição de previdência, na qual se identifiquem os processos e se especifique a natureza das receitas cobradas.
 
 A relação será acompanhada dos verbetes a que se refere o artigo 16.º do [Decreto-Lei n.º 35538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35538-1946-339019), de 24 de Novembro de 1951, devidamente preenchidos, os quais serão remetidos pelo tesoureiro à respectiva instituição.
 
-###### Art. 143.º Os preparos para diligências serão movimentados pela forma seguinte:
+Art. 143.º Os preparos para diligências serão movimentados pela forma seguinte:
 
 a) Logo após a diligência ou audiência a que se destinam, a secção de processos elabora a respectiva nota ou relação, que deve contar os números do livro e folhas do «Contas Correntes - Processo», correspondentes ao depósito efectuado e que é visada pelo juiz.
 
@@ -254,7 +298,7 @@ b) Se oito dias após a audiência ou diligência os interessados não se aprese
 
 c) A nota ou relação é passada em duplicado, sendo um dos exemplares destinado ao processo e outro à tesouraria.
 
-###### Art. 144.º - 1. Nas tesourarias existirão obrigatòriamente os seguintes livros:
+Art. 144.º - 1. Nas tesourarias existirão obrigatòriamente os seguintes livros:
 
 a) «Caixa», no qual são debitados os totais das importâncias recebidas, seja qual for a sua natureza ou proveniência, e creditados, por totais, os depósitos e pagamentos efectuados, com a indicação expressa de saldo diário;
 
@@ -270,9 +314,9 @@ f) «Diligências», no qual são creditados, com referência ao processo, os pr
 
 2. O registo de receitas avulsas relativas a actos praticados nas secretarias gerais é feita no livro a que se refere a alínea c) pertencente à tesouraria da 1.ª Vara.
 
-###### Art. 145.º O saldo do livro «Diligências» é apurado mensalmente.
+Art. 145.º O saldo do livro «Diligências» é apurado mensalmente.
 
-###### Art. 146.º - 1. Em cada secção de processos haverá um livro «Contas Correntes - Processos», no qual são creditados diàriamente, numa folha para cada processo e em colunas separadas, as quantias recebidas de custas pagas e de preparos para diligências e debitadas as importâncias dos pagamentos de custas a efectuar e das diligências pagas. O débito do pagamento de custas é escriturado quando tiver lugar a remessa de processo à secretaria para lançamento no livro «Pagamentos» ou quando aquele transitar para outra secção, vara ou juízo. Quando se tratar do pagamento de preparos para diligências, a secção de processos levará a quantia a débito pelo duplicado da nota ou relação que a secretaria devolverá após o pagamento e lançamento no livro «Pagamentos».
+Art. 146.º - 1. Em cada secção de processos haverá um livro «Contas Correntes - Processos», no qual são creditados diàriamente, numa folha para cada processo e em colunas separadas, as quantias recebidas de custas pagas e de preparos para diligências e debitadas as importâncias dos pagamentos de custas a efectuar e das diligências pagas. O débito do pagamento de custas é escriturado quando tiver lugar a remessa de processo à secretaria para lançamento no livro «Pagamentos» ou quando aquele transitar para outra secção, vara ou juízo. Quando se tratar do pagamento de preparos para diligências, a secção de processos levará a quantia a débito pelo duplicado da nota ou relação que a secretaria devolverá após o pagamento e lançamento no livro «Pagamentos».
 
 2. Cada secção organizará diàriamente, para ser entregue ao Ministério Público, relação das importâncias creditadas no livro «Contas Correntes - Processos», com a indicação de processo a que respeitam.
 
@@ -282,7 +326,7 @@ f) «Diligências», no qual são creditados, com referência ao processo, os pr
 
 5. Em face da cota referida no número anterior, a secção a que o processo ficar pertencendo lançará as importâncias indicadas no livro «Contas Correntes - Processos».
 
-###### Art. 147.º - 1. Nos tribunais em que não exista tesouraria judicial haverá os seguintes livros:
+Art. 147.º - 1. Nos tribunais em que não exista tesouraria judicial haverá os seguintes livros:
 
 a) Na secretaria, os referidos nas alíneas c), d) e e) do artigo 144.º;
 
@@ -290,24 +334,24 @@ b) Em cada secção de processos, os mencionados nas alíneas a) e b) do artigo 
 
 2. Nos tribunais cuja secretaria seja composta de uma só secção haverá os livros mencionados nas alíneas a) e b) de número anterior, a cargo do respectivo chefe.
 
-###### Art. 2.º Com excepção das execuções, nos processos em que não haja preparos ou divisão de custas, estas são lançadas apenas no livro «Pagamentos» logo que sejam pagas.
+Art. 2.º Com excepção das execuções, nos processos em que não haja preparos ou divisão de custas, estas são lançadas apenas no livro «Pagamentos» logo que sejam pagas.
 
-###### Art. 3.º Na elaboração da conta dos processos cíveis observar-se-á, na parte aplicável, o disposto no artigo 11.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
+Art. 3.º Na elaboração da conta dos processos cíveis observar-se-á, na parte aplicável, o disposto no artigo 11.º do [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
 
-###### Art. 4.º O encargo a que se refere a alínea c) do artigo 258.º do Código das Custas Judiciais, na parte relativa aos magistrados, ficará, com as necessárias adaptações, a cargo do Fundo criado pelo Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964.
+Art. 4.º O encargo a que se refere a alínea c) do artigo 258.º do Código das Custas Judiciais, na parte relativa aos magistrados, ficará, com as necessárias adaptações, a cargo do Fundo criado pelo Código das Custas Judiciais do Trabalho, aprovado pelo [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964.
 
-###### Art. 5.º As instituições de previdência, reconhecidas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e suas uniões, federações ou institutos; são isentos de custas em todos os processos em que intervenham ou sejam partes.
+Art. 5.º As instituições de previdência, reconhecidas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e suas uniões, federações ou institutos; são isentos de custas em todos os processos em que intervenham ou sejam partes.
 
-###### Art. 6.º Não é aplicável ao regime de custas nos tribunais do trabalho o [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
+Art. 6.º Não é aplicável ao regime de custas nos tribunais do trabalho o [Decreto-Lei n.º 49213](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886), de 29 de Agosto de 1969.
 
-###### Art. 7.º Os modelos dos livros mencionados neste diploma serão aprovados, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, que aprovou o Código das Custas Judiciais do Trabalho, no prazo de sessenta dias, a contar da publicação do presente diploma.
+Art. 7.º Os modelos dos livros mencionados neste diploma serão aprovados, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, que aprovou o Código das Custas Judiciais do Trabalho, no prazo de sessenta dias, a contar da publicação do presente diploma.
 
-###### Art. 8.º As alterações dos artigos 118.º, n.os 2 e 3, 134.º, 135.º, 138.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º e 147.º do Código das Custas Judiciais do Trabalho e o artigo 2.º deste diploma entrarão em vigor no prazo de noventa dias, a contar da sua publicação.
+Art. 8.º As alterações dos artigos 118.º, n.os 2 e 3, 134.º, 135.º, 138.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º e 147.º do Código das Custas Judiciais do Trabalho e o artigo 2.º deste diploma entrarão em vigor no prazo de noventa dias, a contar da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Dezembro de 1971.**
+Promulgado em 10 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

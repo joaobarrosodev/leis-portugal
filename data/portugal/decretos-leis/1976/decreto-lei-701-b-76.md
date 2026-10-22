@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 229/1976, 1º Suplemento, Série I de 1976-09-29
   number: '229'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2238-(8) a 2238-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22901/00080034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,174 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-b-1976-223433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0760c586015ac69ec83d21e175cb6d1b3f82d97b00bb27a24863f1e1a1066e29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e15d4f9af43dadc37014b1669442c52494c606576b40bffbaf131b78a82239e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Campanha Eleitoral
+- Eleição Autárquica
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:515638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382605:por
+  label: "Alterados os artigos 4.º, 5.º, 13.º, 15.º, 17.º, 18.º, 101.º, 148.º e 151.º, pelo DEC LEI.757/76.21.10.1976.MAI,\
+    \ DR.IS [247]Supl de 21.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/757-1976-382605
+  date: '1976-10-21'
+- type: amended_by
+  target: pt:dre:436672:por
+  label: "Alterados os artigos 17.º, 19.º, 23.º e 82.º, pelo DEC LEI.765-A/76.22.10.1976.MAI, DR.IS [248]Supl de 22.10.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/765-a-1976-436672
+  date: '1976-10-22'
+- type: amended_by
+  target: pt:dre:558989:por
+  label: "Alterado o artigo 95.º, pelo DEC LEI.841-A/76.07.12.1976.MAI, DR.IS [285]Supl de 07.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/841-a-1976-558989
+  date: '1976-12-07'
+- type: amended_by
+  target: pt:dre:408111:por
+  label: Ratificado pelo(a) Resolução n.º 4/76 - Diário da República n.º 286/1976, Série I de 1976-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/4-1976-408111
+  date: '1976-12-09'
+- type: amended_by
+  target: pt:dre:367606:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade das normas constantes dos n.os 2 a 8 do artigo 66.º\
+    \ e 2 do artigo 68.º, pela RES.328/79.14.11.1979.CR, DR.IS [269] de 21.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/328-1979-367606
+  date: '1979-11-14'
+- type: amended_by
+  target: pt:dre:626985:por
+  label: "Atribuídas ao Tribunal Constitucional, em plenário, as competências da Comissão Nacional de Eleições previstas no\
+    \ n.º 2 do artigo 16.º e ao Tribunal Constitucional as competências dos tribunais da relação previstas nos artigos 25.º\
+    \ e 28.º e n.º 2 do artigo 83.º pela LEI.28/82.15.11.1982.AR, DR.IS [264-Supl] de 15.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-1982-626985
+  date: '1982-11-15'
+- type: amended_by
+  target: pt:dre:583200:por
+  label: "Alterados os arts. 14.º, 16.º, 17.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º, 27.º, 28.º, 70.º, 77.º e 149.º e aditados\
+    \ os arts. 16.º-A e 149.º-A pela LEI.14-B/85.1985.07.10.AR DR.IS [156]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-b-1985-583200
+  date: '1985-07-10'
+- type: amended_by
+  target: pt:dre:286732:por
+  label: "Alterado o art. 70º, na redacção da Lei 14-B/85, de 10-Jul, pelo DEC LEI.55/88.1988.02.26.PCM, DR.IS [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1988-286732
+  date: '1988-02-26'
+- type: amended_by
+  target: pt:dre:541443:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes da al. c) do art. 3º, na parte\
+    \ em que estabelecem a incapacidade eleitoral activa dos definitivamente condenados a pena de prisão por crime doloso,\
+    \ pelo AC.748/93.1993.11.23.TCS, DR.IS-A [298] de 23/Dez/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/748-1993-541443
+  date: '1993-11-23'
+- type: amended_by
+  target: pt:dre:230521:por
+  label: "Alterados os arts. 3º, 4º, 14º, 18º, 30º, 34º, 41º, 50º, 66º, 70º, 77º, 78º, 79º, 84º, 85º, 92º e 96º, e aditados\
+    \ os arts. 41º-A, 66º-A , 66º-B, 66º-C e 73º-A pela LEI.9/95.1995.04.07.AR, DR.IS-A [83]\0A [83]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-1995-230521
+  date: '1995-04-07'
+- type: amended_by
+  target: pt:dre:241645:por
+  label: "Alterados os arts. 1º, 2º, 4º e 30º, e aditados os arts. 2º-A e 18º-A pela LEI.50/96.1996.09.04.AR, DR.IS-A [205]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-1996-241645
+  date: '1996-09-04'
+- type: amended_by
+  target: pt:dre:649170:por
+  label: "Alterado o nº 3 do artº 18º, na redacção do Dec Lei 757/76 de 21-Out, pela Lei.110/97.1997.09.16.AR DR.IS-A [214]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-1997-649170
+  date: '1997-09-16'
+- type: amended_by
+  target: pt:dre:515638:por
+  label: "Alterado o art. 66º-A e a epigrafe do art. 66º-B (aditados pela Lei 9/95, de 07-Abr) pela LEI ORG.2/2001.2001.08.25.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2001-515638
+  date: '2001-08-25'
+- type: cites
+  target: pt:dre:144462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:409483:por
+  label: Rectificado pela DECL.DD8158.20.10.1976.PCM, DR.IS [246] de 20.10.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-409483
+  date: '1976-10-20'
+- type: corrected_by
+  target: pt:dre:492447:por
+  label: "Rectificado pela RECT.DD68.23.12.1976.PCM, DR.IS [7] de 10.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-492447
+  date: '1976-12-23'
+- type: repealed_by
+  target: pt:dre:662558:por
+  label: "Revogado o art. 51.º, pela LEI.31/91.1991.07.20.AR, DR.IS-A [165]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-1991-662558
+  date: '1991-07-20'
+- type: repealed_by
+  target: pt:dre:428825:por
+  label: "Revogados os arts. 62º a 65º e 119º a 121º pela LEI.72/93.1993.11.30.AR, DR.IS-A [280]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-1993-428825
+  date: '1993-11-30'
+- type: repealed_by
+  target: pt:dre:524039:por
+  label: "Revogado bem como todas as disposições que o alterou pela LEI ORG.1/2001.2001.08.14.AR DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2001-524039
+  date: '2001-08-14'
 article_structure:
   article_count: 0
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:45Z'
   warnings: []
   errors: []
 ---
@@ -1162,7 +1296,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna, antes ou depois
 
 ###### ARTIGO 136.º — (Recusa de receber reclamações, protestos ou contraprotestos)
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber a reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber a reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.
 
 ###### ARTIGO 137.º — (Obstrução dos candidatos ou dos delegados das listas)
 
@@ -1272,11 +1406,11 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 27 de Setembro de 1976.**
+Promulgado em 27 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — TELEGRAMA
 
@@ -1290,6 +1424,6 @@ Delego em ... (nome completo do representante), recenseado na freguesa ..., exer
 
 Nota. - Não será considerada válida a nomeação de representante feita por telegrama com quaisquer outros elementos, nem por qualquer outra forma.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/09/22901/00080034.pdf))](https://files.diariodarepublica.pt/1s/1976/09/22901/00080034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/09/22901/00080034.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

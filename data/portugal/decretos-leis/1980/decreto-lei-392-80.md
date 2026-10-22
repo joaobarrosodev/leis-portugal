@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22100/28932898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1980-461850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4dd711d9a78e41cb18aae9f809dfc4c0813e15ed9add047c5cb00dadc842d0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69c60aac49614d915c296c582c7f79e441f6939cb01450d83db99881712b5521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Junta Central das Casas do Povo
 relationships:
 - type: amended_by
   target: pt:dre:151919:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:194021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473324:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:462390:por
+  label: Rectificado pela DECL.DD6846.16.10.1980.PCM, DR.IS [249] de 27.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462390
+  date: '1980-10-16'
+- type: corrected_by
+  target: pt:dre:390378:por
+  label: Rectificado pela DECL.DD6241.18.12.1980.PCM, DR.IS [12] de 15.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-390378
+  date: '1980-12-18'
+- type: corrected_by
+  target: pt:dre:570348:por
+  label: Rectificado pela DECL.DD6197.18.12.1980.PCM, DR.IS [7] de 09.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-570348
+  date: '1980-12-18'
+- type: repealed_by
+  target: pt:dre:151919:por
+  label: "Revogado pelo DEC LEI.185/85.29.05.1985.MTSS, DR.IS [123] de 29.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1985-151919
+  date: '1985-05-29'
 article_structure:
-  article_count: 29
+  article_count: 28
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:59Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +150,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o estatuto a seguir publicado, que faz parte integrante deste decreto-lei e pelo qual passa a reger-se a Junta Central das Casas do Povo.
+Artigo 1.º É aprovado o estatuto a seguir publicado, que faz parte integrante deste decreto-lei e pelo qual passa a reger-se a Junta Central das Casas do Povo.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 34373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34373-1945-240607), de 10 de Janeiro de 1945, bem como a legislação complementar, em tudo quanto contrarie ou esteja prejudicado pelo presente diploma.
+Art. 2.º É revogado o [Decreto-Lei n.º 34373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34373-1945-240607), de 10 de Janeiro de 1945, bem como a legislação complementar, em tudo quanto contrarie ou esteja prejudicado pelo presente diploma.
 
-###### Art. 3.º São revogadas as disposições legais e estatuárias porque se regem as Casas do Povo que resultem prejudicadas pelo presente estatuto ou que o contrariem.
+Art. 3.º São revogadas as disposições legais e estatuárias porque se regem as Casas do Povo que resultem prejudicadas pelo presente estatuto ou que o contrariem.
 
-###### Art. 4.º O presente diploma entra em vigor sessenta dias após a data da sua publicação.
+Art. 4.º O presente diploma entra em vigor sessenta dias após a data da sua publicação.
 
 ESTATUTO
 
@@ -404,8 +442,8 @@ As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por 
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 11 de Setembro de 1980.**
+Promulgado em 11 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

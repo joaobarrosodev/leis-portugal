@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1971-445895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d98d38c62fa479311b8a22208283fb9ae651f12f80d13e5b4edc4f0ddde7b67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77e043c9d99d00cad7fa62495eb82425cb9ff0fd561d43e2637d51acb40b8a17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Oceano Atlântico
+- Pesca
+- Portugal
+- Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:58Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +92,15 @@ de 31 de Março
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. aprovado, para adesão, o Protocolo à Convenção Internacional das Pescarias do Noroeste do Atlântico Relativo à Participação nos Comités e a Medidas de Regulamentação, concluído em Washington em 1 de Outubro de 1969, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. aprovado, para adesão, o Protocolo à Convenção Internacional das Pescarias do Noroeste do Atlântico Relativo à Participação nos Comités e a Medidas de Regulamentação, concluído em Washington em 1 de Outubro de 1969, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 15 de Março de 1971.**
+Promulgado em 15 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Protocol to the International Convention for the Northwest Atlantic Fisheries Relating to Panel Membership and to Regulatory Measures
 
@@ -171,25 +176,25 @@ Protocolo à Convenção Internacional das Pescarias do Noroeste do Atlântico R
 
 Os Governos Partes da Convenção Internacional das Pescarias do Noroeste do Atlântico, assinada em Washington a 8 de Fevereiro de 1949, que, tal como emendada, aqui será designada por Convenção, desejando estabelecer uma base mais apropriada para a determinação da composição dos comités estabelecidos pela Convenção, e desejando dar maior flexibilidade às espécies de medidas de regulamentação das pescarias que possam ser propostas pela Comissão Internacional das Pescarias do Noroeste do Atlântico, acordam no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 O n.º 2 do artigo IV da Convenção será emendado, passando a ter a seguinte redacção:
 
 2. A representação nos comités será revista anualmente pela Comissão, que poderá, após consulta prévia ao respectivo comité, determinar a representação em cada comité com base na exploração real e corrente das exigências de peixes na subárea a que se refere ou com base na exploração das focas normais da Gronelândia e das focas de capuz (harp and hood seals) na área da Convenção, excepto no caso de cada Governo Contratante com costa adjacente a uma subárea, o qual terá o direito de representação no respectivo comité.
 
-ARTIGO II
+###### ARTIGO II
 
 O n.º 2 do artigo VII da Convenção será emendado, passando a ter a seguinte redacção:
 
 2. Cada comité poderá, baseado em investigações científicas e considerações económicas e técnicas, fazer recomendações à Comissão para uma acção conjunta dos Governos Contratantes dentro do âmbito do n.º 1 do artigo VIII.
 
-ARTIGO III
+###### ARTIGO III
 
 O n.º 1 do artigo VIII da Convenção será emendado, passando a ter a seguinte redacção:
 
 1. A Comissão poderá, sob recomendação de um ou mais comités, e baseada em investigações científicas e considerações económicas e técnicas, transmitir propostas apropriadas ao Governo depositário para a actuação conjunta dos Governos Contratantes, com o fim de alcançar a utilização óptima das existências daquelas espécies de peixes que sustentam as pescarias internacionais na área da Convenção.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1. Este Protocolo estará aberto à assinatura e ratificação ou aprovação ou adesão de qualquer dos Governos Partes da Convenção.
 
@@ -199,7 +204,7 @@ ARTIGO IV
 
 4. O Governo dos Estados Unidos da América informará os Governos que tenham assinado ou aderido à Convenção de todas as ratificações ou aprovações depositadas e adesões recebidas e da data em que este Protocolo entrará em vigor.
 
-ARTIGO V
+###### ARTIGO V
 
 1. O original deste Protocolo será depositado junto do Governo dos Estados Unidos da América, o qual enviará cópias certificadas do mesmo a todos os Governos signatários ou aderentes à Convenção.
 

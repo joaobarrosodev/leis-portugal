@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1976-501216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4be5d5b7382aa8948439ce342e1927c2ae825554a6076b58329bdae8a097c52e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f41ed7cf878af8de2355139e279e5150eaa59f184d6881d0ba38ce681304c479
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Classificação de Aeroportos
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:636700:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:01Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +100,16 @@ Nestas circunstâncias, parece justificar-se plenamente a sua classificação co
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Aeroporto do Porto é classificado como de 1.ª classe.
+Artigo 1.º O Aeroporto do Porto é classificado como de 1.ª classe.
 
-###### Art. 2.º É alterado, de harmonia com o preceituado no artigo anterior, o quadro do mapa II anexo ao [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
+Art. 2.º É alterado, de harmonia com o preceituado no artigo anterior, o quadro do mapa II anexo ao [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - José Augusto Fernandes.
 
-**Promulgado em 18 de Março de 1976.**
+Promulgado em 18 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

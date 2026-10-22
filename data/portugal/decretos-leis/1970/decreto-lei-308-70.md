@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1970-140116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f126ade8db4a909f2847710a9d0846b07f7792111feceae3355399757248b2f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18eeddecd27ecfea2576ba2cd39579a06a451eba5ddce8ce3e057450d4d75ad5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Coimbra
+- Criação de Serviços
+- Estabelecimento Hospitalar
+- Hospital Geral da Colónia Portuguesa do Brasil
+- Hospital Sanatório da Colónia Portuguesa do Brasil
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:10Z'
   warnings: []
   errors: []
 ---
@@ -95,19 +112,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado na Quinta dos Vales, em Coimbra, o Hospital Geral da Colónia Portuguesa do Brasil, que sucede, com todos os direitos e obrigações, ao Hospital-Sanatório da Colónia Portuguesa do Brasil.
+Artigo 1.º É criado na Quinta dos Vales, em Coimbra, o Hospital Geral da Colónia Portuguesa do Brasil, que sucede, com todos os direitos e obrigações, ao Hospital-Sanatório da Colónia Portuguesa do Brasil.
 
-###### Art. 2.º - 1. O Hospital Geral da Colónia Portuguesa do Brasil, adiante designado abreviadamente por Hospital, integra-se na organização hospitalar como hospital oficial central e fica dependente da Direcção-Geral dos Hospitais, de acordo com o estatuto promulgado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, e Regulamento Geral dos Hospitais, aprovado pelo [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), da mesma data.
+Art. 2.º - 1. O Hospital Geral da Colónia Portuguesa do Brasil, adiante designado abreviadamente por Hospital, integra-se na organização hospitalar como hospital oficial central e fica dependente da Direcção-Geral dos Hospitais, de acordo com o estatuto promulgado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, e Regulamento Geral dos Hospitais, aprovado pelo [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), da mesma data.
 
 2. Além das funções assistenciais que lhe forem atribuídas, cabe a este Hospital cooperar com os Hospitais da Universidade de Coimbra, nos termos que vierem a ser definidos, por forma a assegurar à Faculdade de Medicina de Coimbra as condições necessárias ao ensino clínico e investigação.
 
 3. O Hospital manterá obrigatòriamente no seu esquema de serviço um sector de pneumotisiologia.
 
-###### Art. 3.º - 1. O Hospital é dotado de personalidade jurídica e de autonomia técnica e administrativa, sem prejuízo da orientação e coordenação da Direcção-Geral dos Hospitais, podendo receber heranças, legados e doações, possuir bens próprios e administrar as suas receitas.
+Art. 3.º - 1. O Hospital é dotado de personalidade jurídica e de autonomia técnica e administrativa, sem prejuízo da orientação e coordenação da Direcção-Geral dos Hospitais, podendo receber heranças, legados e doações, possuir bens próprios e administrar as suas receitas.
 
 2. Goza igualmente de todas as regalias e isenções concedidas aos estabelecimentos oficiais de saúde e assistência.
 
-###### Art. 4.º O Hospital tem como receitas próprias:
+Art. 4.º O Hospital tem como receitas próprias:
 
 a) Os subsídios do Estado;
 
@@ -121,20 +138,20 @@ e) Os espólios dos doentes falecidos e objectos abandonados não reclamados no 
 
 f) Outras receitas legalmente admitidas.
 
-###### Art. 5.º - 1. É aplicável ao Hospital, desde a entrada em vigor deste diploma, o regime de instalação previsto nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+Art. 5.º - 1. É aplicável ao Hospital, desde a entrada em vigor deste diploma, o regime de instalação previsto nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
 
 2. Enquanto durar aquele regime, a administração do Hospital é confiada a uma comissão instaladora, cujos primeiros membros são os actuais componentes do Conselho Administrativo do Hospital-Sanatório.
 
-###### Art. 6.º Em tudo quanto não esteja especialmente previsto neste diploma, o Hospital rege-se pelo disposto no Estatuto Hospitalar e Regulamento Geral dos Hospitais.
+Art. 6.º Em tudo quanto não esteja especialmente previsto neste diploma, o Hospital rege-se pelo disposto no Estatuto Hospitalar e Regulamento Geral dos Hospitais.
 
-###### Art. 7.º - 1. Este decreto-lei entra em vigor em 1 de Janeiro de 1971.
+Art. 7.º - 1. Este decreto-lei entra em vigor em 1 de Janeiro de 1971.
 
 2. Fica desde já autorizado o conselho administrativo do Hospital-Sanatório a iniciar as obras de adaptação e a promover tudo o mais que for necessário à nova finalidade do estabelecimento.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 17 de Junho de 1970.**
+Promulgado em 17 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

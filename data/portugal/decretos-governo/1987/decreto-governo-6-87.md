@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/6-1987-663286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 730c617c076bee5c9b27ec77879f42b94cff8a6fcb8513ce53d97557b81a5d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2580f771231b7a64f38f4b9352ce832078034401a6aef85e9148737c8af0c85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ATUM
+- Convenção
+- Espécie Protegida
+- Oceano Atlântico
+- Portugal
+- RIO de Janeiro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:24Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +93,19 @@ de 28 de Janeiro
 
 O Governo decreta, no termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo Adicional de 1984 à Convenção Internacional para a Conservação do Atum no Atlântico, concluída no Rio de Janeiro em 14 de Maio de 1966, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para adesão, o Protocolo Adicional de 1984 à Convenção Internacional para a Conservação do Atum no Atlântico, concluída no Rio de Janeiro em 14 de Maio de 1966, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1986. - Aníbal António Cavaco Silva - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Lino Dias Miguel - Vasco Joaquim Rocha Vieira.
 
-**Assinado em 7 de Janeiro de 1987.**
+Assinado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOL ATTACHED TO THE FINAL ACT OF THE CONFERENCE OF PLENIPOTENTIARIES OF THE STATES PARTIES TO THE INTERNATIONAL CONVENTION FOR THE CONSERVATION OF ATLANTIC TUNAS.
 
@@ -141,7 +147,7 @@ PROTOCOLO APENSO À ACTA FINAL DA CONFERÊNCIA DE PLENIPOTENCIÁRIOS DOS ESTADOS
 
 I) Os artigos XIV, XV e XVI da Convenção Internacional para a Conservação dos Tunídeos do Atlântico passam a ter a seguinte redacção:
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - A presente Convenção fica aberta à assinatura do governo de qualquer Estado que seja membro da Organização das Nações Unidas ou de qualquer outro dos seus organismos especializados. Os governos que não tenham assinado a Convenção poderão aderir-lhe em qualquer momento.
 
@@ -155,11 +161,11 @@ ARTIGO XIV
 
 6 - A partir do momento em que as organizações previstas no parágrafo 4 deste Protocolo se tornem Partes Contratantes da presente Convenção, os Estados membros destas organizações, e os Estados que lhes venham aderir, deixarão de ser Partes desta Convenção. Para este efeito, estes Estados comunicarão, por escrito, ao director-geral da Organização das Nações Unidas para a Alimentação e a Agricultura a sua retirada da Convenção.
 
-ARTIGO XV
+###### ARTIGO XV
 
 O director-geral da Organização das Nações Unidas para a Alimentação e a Agricultura comunicará a todos os governos mencionados no parágrafo 1 do artigo XIV e a todas as organizações mencionadas no parágrafo 4 do mesmo artigo os depósitos dos instrumentos de ratificação, de aprovação, de confirmação oficial ou de adesão, a data de entrada em vigor da Convenção, as propostas de emendas à Convenção, as notificações de aceitação de emendas à Convenção, a entrada em vigor de tais emendas e as notificações de retirada da Convenção.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 O texto original da presente Convenção será depositado junto do director-geral da Organização das Nações Unidas para a Alimentação e a Agricultura, o qual enviará cópias autenticadas aos governos mencionados no parágrafo 1 do artigo XIV e às organizações mencionadas no parágrafo 4 do mesmo artigo.
 

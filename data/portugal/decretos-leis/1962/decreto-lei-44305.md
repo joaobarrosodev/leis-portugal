@@ -47,40 +47,259 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44305-1962-516068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 358a326f0904082d9330753eed6a4066faf1305ccda76ddb1cc6bd5ec17b251a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39d734e727d449e7569e4535159dfc58fabd47930e12d36b4329ec1a6828f643
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
+- Imposto Profissional
+- Profissão Independente
 relationships:
 - type: amended_by
   target: pt:dre:285746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:432797:por
+  label: "Alterados os arts. 10º, § único do art. 12º, arts. 15º e 24º, § 3º do art. 31º, § 1.º do art. 54º, art. 55º, § 1º\
+    \ do art. 57º, art. 73.º, § 1.º do art. 74º e art. 79.º, suprimido o § único do art. 36º e alterada a rubrica «Enfermeiros\
+    \ e parteiras: Enfermeiros;Parteiras;» da tabela anexa ao Código do Imposto Profissional, aprovado pelo presente diploma,\
+    \ pelo DEC LEI.45400.30.11.1963.MF, DG.IS [281-Supl] de 30.11.1963\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45400-1963-432797
+  date: '1963-11-30'
+- type: amended_by
+  target: pt:dre:582821:por
+  label: "Adicionada à tabela anexa ao Código do Imposto Profissional a actividade de «Editor de obras da sua autoria» e substituídas\
+    \ quanto às profissões de médicos radiologistas e despachantes oficiais, as percentagens constantes da mesma tabela do\
+    \ Código do Imposto Profissional aprovado pelo presente diploma, pelo DEC LEI.45705.02.05.1964.MF, DG.IS [105] de 02.05.1964\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45705-1964-582821
+  date: '1964-05-02'
+- type: amended_by
+  target: pt:dre:537212:por
+  label: "Aditada a al. i) ao art. 4º do Código do Imposto Profissional, aprovado pelo presente diploma, pelo DEC LEI.45977.19.10.1964.MF,\
+    \ DG.IS [245] de 19.10.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45977-1964-537212
+  date: '1964-10-19'
+- type: amended_by
+  target: pt:dre:294480:por
+  label: "Alterados os arts 2.º, 9.º, 10.º, 11.º, § 2.º, 15.º, § 1.º, 20.º, § 2.º, 24.º, § 4.º, e 61.º do Código do Imposto\
+    \ Profissional, aprovado pelo presente diploma, pelo DEC LEI.46369.07.06.1965.MF, DG.IS [127] de 07.06.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46369-1965-294480
+  date: '1965-06-07'
+- type: amended_by
+  target: pt:dre:234926:por
+  label: "Alterado o art. 4º do Código do Imposto Profissional, aprovado pelo presente diploma, pelo DEC LEI.48316.05.04.1968.MF,\
+    \ DG.IS [82] de 05.04.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48316-1968-234926
+  date: '1968-04-05'
+- type: amended_by
+  target: pt:dre:263069:por
+  label: "Dada nova redacção ao art. 23º do Código do Imposto Profissional pelo DEC LEI.48700.23.11.1968.MF, DG.IS [276] de\
+    \ 23.11.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48700-1968-263069
+  date: '1968-11-23'
+- type: amended_by
+  target: pt:dre:213067:por
+  label: "Eliminado o art. 22º e dada nova redacção aos arts. 1º, 5º, 21º, 26º, 27º, 28º, 29º e 68º do Código do Imposto Profissional\
+    \ pelo DEC LEI.49483.30.12.1969.MF, DG.IS [303] de 30.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49483-1969-213067
+  date: '1969-12-30'
+- type: amended_by
+  target: pt:dre:142369:por
+  label: "Alterado o § 2.º do art. 1.º, o § 1.º do art. 2.º e o art. 26.º do Código do Imposto Profissional, aprovado pelo\
+    \ presente diploma, pelo DEC LEI.237/70.25.05.1970.MF, DG.IS [122] de 25.05.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1970-142369
+  date: '1970-05-25'
+- type: amended_by
+  target: pt:dre:165978:por
+  label: "Alterado o art. 24º do Código do Imposto Profissional pelo DEC LEI.624/71.31.12.1971.MF, DG.IS [304] de 31.12.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/624-1971-165978
+  date: '1971-12-31'
+- type: amended_by
+  target: pt:dre:665131:por
+  label: "Alterados os arts. 23º e 24º pelo DEC LEI.575/72.1972.12.30.MF,DG.IS [302]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/575-1972-665131
+  date: '1972-12-30'
+- type: amended_by
+  target: pt:dre:407906:por
+  label: "Alterado o artigo 21.º e revogados os artigos 23.º e 24.º do Código, pelo DEC LEI.718/73.31.12.1973.MF, DG.IS [302]\
+    \ de 31.12.1973, nos termos do seu artigo 2.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/718-1973-407906
+  date: '1973-12-31'
+- type: amended_by
+  target: pt:dre:401755:por
+  label: "Elevado o limite de isenção fixado no art. 5º, alteradas as taxas do imposto fixadas no art. 21º e substituída a\
+    \ tabela das actividades exercidas por conta própria, a que se referem a al.c) do do art. 2º e os arts. 10º e 31º, todos\
+    \ do Código do Imposto Profissional pelo DEC LEI.375/74.20.08.1974.MF, DG.IS [193-Supl] de 20.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1974-401755
+  date: '1974-08-20'
+- type: amended_by
+  target: pt:dre:158395:por
+  label: "Alterados os arts. 1º, 3º, 5º, 6º a 12º, 14º a 18º, 20º, 21º, 26º, 27º, 29º a 33º, 37º, 47º, 49º, 50º, 53º, 55º,\
+    \ 59º, 61º, 62º, 68º e 83º; eliminados o § 4º do art. 2º, a al. g) e o § 1º do art. 4º e o art. 28º; e substituída a tabela\
+    \ (na versão introduzida pelo art. 8º do Dec Lei 375/74 de 20-Ago) referida na al. c) do art. 2º, no art. 10º e no art.\
+    \ 31º, todos do Código do Imposto Profissional pelo DEC LEI.209/75.18.04.1975.MF, DG.IS [91] de 18.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1975-158395
+  date: '1975-04-18'
+- type: amended_by
+  target: pt:dre:427440:por
+  label: "Alterados os arts. 3º, 5º, 8º, 9º, 10º, 19º, 20º, 31º, 61º e 62º, aditado o art. 54º-A e, substituída a tabela referida\
+    \ na al. c) do art. 2º, 10º e 31º, todos do Código aprovado no presente diploma, com a redacção conferida no Dec Lei 209/75\
+    \ de 18-Abr, pelo DEC LEI.312/76.28.04.1976.MF, DR.IS [100] de 28.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-1976-427440
+  date: '1976-04-28'
+- type: amended_by
+  target: pt:dre:430006:por
+  label: "Alterados os arts. 13º e 21º do Código, pelo DEC LEI.667/76.1976.08.05.MF, DR.IS [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/667-1976-430006
+  date: '1976-08-05'
+- type: amended_by
+  target: pt:dre:426136:por
+  label: Alterados os arts. 1.º (com a redação dada pelo Dec Lei 237/70 de 25-mai), 5.º (com a redação dada pelos Dec Lei
+    209/75 de 18-abr e 312/76 de 28-abr), 7.º, 15.º, 21.º (com a redação dada pelos Dec Lei 718/73 de 31-dez e 667/76 de 05-ago),
+    38.º, 57.º, 66.º e 67.º, revogado o art. 31.º, e substituída a tabela anexa (referida na al. c) do n.º 2 e no art.10.º)
+    do Código do Imposto Profissional, aprovado pelo presente diploma, e aditado o art. 7º-A ao mesmo Código pelo DEC LEI.138/78.12.06.1978.MFP,
+    DR.IS [133-2ºSupl] de 12.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1978-426136
+  date: '1978-06-12'
+- type: amended_by
+  target: pt:dre:383612:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade de normas constante da alínea e) do parágrafo 2.º\
+    \ do artigo 1.º do Código do Imposto Profissional aprovado pelo presente diploma, com a redacção conferida pelo Decreto-Lei\
+    \ 138/78 de 12 de Junho, pela RES.62/79.03.03.1979.CR, DR.IS [52] de 03.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/62-1979-383612
+  date: '1979-03-03'
+- type: amended_by
+  target: pt:dre:377568:por
+  label: "Alterados os artigos 1.º, 3.º, 5.º e 55.º do Código do Imposto Profissional, aprovado pelo presente diploma, pelo\
+    \ DEC LEI.297/79.17.08.1979.MFP, DR.IS [189] de 17.08.1979\079\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-1979-377568
+  date: '1979-08-17'
+- type: amended_by
+  target: pt:dre:256641:por
+  label: "Alterado o art. 10º e aditado o art. 7.º-B ao Código do Imposto Profissional, aprovado pelo presente diploma pelo\
+    \ DEC LEI.374-E/79.10.09.1979.MF, DR.IS [209-Supl] de 10.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-e-1979-256641
+  date: '1979-09-10'
+- type: amended_by
+  target: pt:dre:324949:por
+  label: "Alterados os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º-A, 7.º-B, 8.º, 10.º, 21.º, 55.º e 59.º do Código, pelo DEC\
+    \ LEI.183-D/80.09.06.1980.MFP, DR.IS [132]2ºSupl de 09.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-d-1980-324949
+  date: '1980-06-09'
+- type: amended_by
+  target: pt:dre:567899:por
+  label: Alterado o art. 29.º do Código do Imposto Profissional, aprovado pelo presente diploma, pelo(a) Decreto-Lei n.º 324/81
+    - Diário da República n.º 279/1981, Série I de 1981-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1981-567899
+  date: '1981-12-04'
+- type: amended_by
+  target: pt:dre:392414:por
+  label: "Alterados os arts. 2º, 3º, 5º, 20º, 21º, 27º, 28º, 38º, 47º, 55º, 57º e 59º assim como a tabela anexa, e eliminada\
+    \ a al. e) do § 2º do art. 1º todos do Código do Imposto Profissional aprovado no presente diploma, com a redacção conferida\
+    \ nos Dec Lei 237/70 de 25-Mai, 209/75 de 18-Abr, 312/76 de 28-Abr, 667/76 de 05-Ago, 138/78 de 12-Jun, 297/79 de 17-Ago,\
+    \ e 183-D/80 de 09-Jun, e aditados uma um nº 1 ao art. 10º e os arts. 79º-A e 84º-A ao citado Código, pelo DEC LEI.198/82.21.05.1982.MFP,\
+    \ DR.IS [115] de 21.05.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1982-392414
+  date: '1982-05-21'
+- type: amended_by
+  target: pt:dre:669086:por
+  label: "Alterados os artigos 5.º, 7.º, 13.º, 15.º, 17.º, 20.º, 21.º, 28.º, 29.º, 32.º, 34.º, 40.º, 44.º, 45.º, 47.º, 49.º,\
+    \ 59.º, aditados os artigos 6.º-A, 27.º-A, 43.º-A, 44.º-A, 45.º-A e 54.º-B e criadas as declarações modelos n.º 1, n.º\
+    \ 5 e n.º 5-A do Código, sendo o artigo 45.º-A integrado no capítulo VII «Fiscalização», pelo DEC LEI.180/84.25.05.1984.MFP,\
+    \ DR.IS [121]Supl de 25.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1984-669086
+  date: '1984-05-25'
+- type: amended_by
+  target: pt:dre:406137:por
+  label: "Alterados os arts. 6º, 11º, 52º, 64º e 83º e aditados os arts. 10º-A e 50º-A ao Código do Imposto Profissional,\
+    \ aprovado pelo presente diploma, pelo DEC LEI.413/87.31.12.1987.MF, DR.IS [300]5SUPL de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1987-406137
+  date: '1987-12-31'
+- type: amended_by
+  target: pt:dre:406157:por
+  label: "Aditado ao artigo 3.º a alínea i) e ao artigo 29.º a alínea d) e o § 3.º, e revogadas as alíneas a), b), c) e g)\
+    \ e os §§ 1.º e 3.º do artigo 4.º do Código, pelo DEC LEI.415/87.31.12.1987.MF, DR.IS [300]8ºSupl de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1987-406157
+  date: '1987-12-31'
+- type: amended_by
+  target: pt:dre:662751:por
+  label: "Substituída a Tabela do Imposto Profissional, pela LEI.2/88.1988.01.26.AR DR.IS [21]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1988-662751
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:285746:por
+  label: "Alterados os arts. 1º, 5º, 6º, 8º, 10º, 21º, 61º e 83º do Código do Imposto Profissional, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.98/88.22.03.1988.MF, DR.IS [68] de 22.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1988-285746
+  date: '1988-03-22'
+- type: cites
+  target: pt:dre:160170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590108:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:32Z'
   warnings: []
   errors: []
 ---
@@ -89,37 +308,37 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Imposto Profissional, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código do Imposto Profissional, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes no dia 1 de Janeiro de 1963.
+Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes no dia 1 de Janeiro de 1963.
 
 § único. Os rendimentos provenientes de actividades ou situações que não eram tributadas ficam sujeitos ao imposto quando pagos ou atribuídos desde a entrada em vigor do código.
 
-###### Art. 3.º Os contribuintes que exerçam profissões constantes da tabela anexa ao código e que já queiram adoptar em 1963 o regime previsto no seu artigo 8.º devem apresentar até 31 de Dezembro de 1962 a declaração a que se refere o artigo 9.º do mesmo código.
+Art. 3.º Os contribuintes que exerçam profissões constantes da tabela anexa ao código e que já queiram adoptar em 1963 o regime previsto no seu artigo 8.º devem apresentar até 31 de Dezembro de 1962 a declaração a que se refere o artigo 9.º do mesmo código.
 
-###### Art. 4.º É abolido, a partir de 1 de Janeiro de 1963, o imposto de rendimento da classe B.
+Art. 4.º É abolido, a partir de 1 de Janeiro de 1963, o imposto de rendimento da classe B.
 
-###### Art. 5.º Os contribuintes que exerçam profissões que não figuram na tabela anexa ao código e que vinham sendo tributados em imposto profissional - profissões liberais - nos termos da legislação actual passam a estar sujeitos a contribuição industrial a partir de 1 de Janeiro de 1963.
+Art. 5.º Os contribuintes que exerçam profissões que não figuram na tabela anexa ao código e que vinham sendo tributados em imposto profissional - profissões liberais - nos termos da legislação actual passam a estar sujeitos a contribuição industrial a partir de 1 de Janeiro de 1963.
 
-###### Art. 6.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
+Art. 6.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
 
-###### Art. 7.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessários à execução dos serviços de que trata o mesmo código.
+Art. 7.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessários à execução dos serviços de que trata o mesmo código.
 
-###### Art. 8.º O rendimento colectável, a tributar em 1963, dos contribuintes constantes da tabela anexa e que, segundo a legislação em vigor, deveriam ser incluídos no lançamento para esse ano será determinado nos termos dos artigos 7.º e seguintes do código, mas deduzido do imposto profissional - profissões liberais - que tiver sido ou ainda houver de ser liquidado àqueles contribuintes pelo exercício da sua actividade em 1962.
+Art. 8.º O rendimento colectável, a tributar em 1963, dos contribuintes constantes da tabela anexa e que, segundo a legislação em vigor, deveriam ser incluídos no lançamento para esse ano será determinado nos termos dos artigos 7.º e seguintes do código, mas deduzido do imposto profissional - profissões liberais - que tiver sido ou ainda houver de ser liquidado àqueles contribuintes pelo exercício da sua actividade em 1962.
 
 § único. Não se cobrará imposto pelo rendimento dos contribuintes falecidos até 31 de Dezembro de 1962 ou que cessarem a sua actividade até 30 de Novembro deste ano, dispensando-se em tais casos a declaração a que se refere o artigo 6.º do código.
 
-###### Art. 9.º Os rendimentos pagos ou atribuídos a empregados por conta de outrem e assalariados até 31 de Dezembro de 1962, e que a esse tempo ainda não tenham sido tributados, sê-lo-ão nos termos da legislação em vigor, devendo a declaração de tais rendimentos ser feita durante o mês de Janeiro de 1963, para se proceder ao lançamento do competente imposto dentro dos prazos estabelecidos no código.
+Art. 9.º Os rendimentos pagos ou atribuídos a empregados por conta de outrem e assalariados até 31 de Dezembro de 1962, e que a esse tempo ainda não tenham sido tributados, sê-lo-ão nos termos da legislação em vigor, devendo a declaração de tais rendimentos ser feita durante o mês de Janeiro de 1963, para se proceder ao lançamento do competente imposto dentro dos prazos estabelecidos no código.
 
 § único. O disposto neste artigo não prejudica o que se encontra preceituado nos artigos 72.º e 73.º do [Decreto n.º 16731](https://diariodarepublica.pt/dr/detalhe/decreto/16731-1929-275435), de 13 de Abril de 1929, no § 3.º do artigo 10.º do [Decreto-Lei n.º 33735](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33735-1944-550250), de 26 de Junho de 1944, e no artigo 4.º do [Decreto-Lei n.º 34353](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34353-1944-568686), de 30 de Dezembro de 1944, quanto à forma e prazos de pagamento do imposto nos casos aí previstos.
 
-###### Art. 10.º Não será exigido em 1963 o cumprimento da obrigação estabelecida no artigo 47.º do código.
+Art. 10.º Não será exigido em 1963 o cumprimento da obrigação estabelecida no artigo 47.º do código.
 
-###### Art. 11.º As entidades mencionadas no artigo 51.º do código deverão enviar, durante o mês de Janeiro de 1963, à secção de finanças da área da sua sede uma relação nominal de todas as inscrições em vigor em 31 de Dezembro de 1962, organizada por concelhos ou bairros e ordem alfabética, com indicação dos domicílios, dos locais dos consultórios ou escritórios e das especialidades profissionais. Esta relação substitui, em 1963, a prevista no referido artigo 51.º
+Art. 11.º As entidades mencionadas no artigo 51.º do código deverão enviar, durante o mês de Janeiro de 1963, à secção de finanças da área da sua sede uma relação nominal de todas as inscrições em vigor em 31 de Dezembro de 1962, organizada por concelhos ou bairros e ordem alfabética, com indicação dos domicílios, dos locais dos consultórios ou escritórios e das especialidades profissionais. Esta relação substitui, em 1963, a prevista no referido artigo 51.º
 
-###### Art. 12.º Por infracções ao disposto no código cometidas durante o ano de 1963 só poderão ser levantados autos de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
+Art. 12.º Por infracções ao disposto no código cometidas durante o ano de 1963 só poderão ser levantados autos de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -167,7 +386,7 @@ Dado, porém, que muitos contribuintes hão-de encontrar dificuldade em preenche
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º O imposto profissional incide sobre os rendimentos do trabalho em dinheiro ou em espécie, de natureza contratual ou não, periódicos ou ocasionais, fixos ou variáveis, seja qual for a sua proveniência ou o local, moeda e forma estipulada para o seu cálculo e pagamento.
+Artigo 1.º O imposto profissional incide sobre os rendimentos do trabalho em dinheiro ou em espécie, de natureza contratual ou não, periódicos ou ocasionais, fixos ou variáveis, seja qual for a sua proveniência ou o local, moeda e forma estipulada para o seu cálculo e pagamento.
 
 § 1.º Constituem rendimentos do trabalho todas as respectivas remunerações, quer percebidas a título de ordenados, vencimentos, salários, soldadas ou honorários, quer a título de avenças, senhas de presença, gratificações, luvas, percentagens, comissões, corretagens, participações, subsídios, prémios, ou a qualquer outro.
 
@@ -181,7 +400,7 @@ c) As importâncias que os donos de firmas em nome individual escriturem na cont
 
 § 3.º Para efeitos da alínea b) do parágrafo anterior, consideram-se verbas para representação, viagens ou deslocações as concedidas para tais fins e de que não se tenham prestado contas até ao termo do exercício.
 
-###### Art. 2.º Os rendimentos mencionados no artigo anterior são sujeitos a imposto quando auferidos por pessoas singulares, nacionais ou estrangeiras, que no continente ou ilhas adjacentes:
+Art. 2.º Os rendimentos mencionados no artigo anterior são sujeitos a imposto quando auferidos por pessoas singulares, nacionais ou estrangeiras, que no continente ou ilhas adjacentes:
 
 a) Exerçam qualquer actividade por conta de outrem;
 
@@ -193,7 +412,7 @@ c) Exerçam por conta própria alguma das actividades constantes da tabela anexa
 
 § 2.º Compreendem-se na alínea b) tanto os originários titulares dos direitos como os sucessivos adquirentes, mas apenas quando os rendimentos respeitem a registos de propriedade feitos no continente ou ilhas, ou, não tendo sido feito registo ou praticada formalidade equivalente, o contribuinte aí resida.
 
-###### Art. 3.º Não constituem matéria colectável:
+Art. 3.º Não constituem matéria colectável:
 
 a) Os subsídios eventuais destinados a despesas com assistência médica ou hospitalização do próprio contribuinte, quando devidamente documentadas;
 
@@ -207,7 +426,7 @@ e) Os rendimentos das empresas individuais que, embora abrangidos pelo artigo 1.
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 4.º Estão isentos de imposto profissional:
+Art. 4.º Estão isentos de imposto profissional:
 
 a) Os servidores do Estado e de qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendida a Santa Casa da Misericórdia de Lisboa e os órgãos de coordenação da assistência, com excepção dos comissários e delegados do Governo;
 
@@ -227,23 +446,23 @@ h) Os vencimentos e quaisquer outras remunerações auferidos pela prestação d
 
 § único. Estas isenções respeitam aos rendimentos derivados exclusivamente do exercício das respectivas actividades e do múnus espiritual quanto aos eclesiásticos.
 
-###### Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 18000$00.
+Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 18000$00.
 
 § único. Quando o rendimento exceda o limite da isenção, por todo ele se pagará imposto, mas sem que a importância deste possa ser maior que o excesso.
 
 ### CAPÍTULO III — Determinação da matéria colectável
 
-###### Art. 6.º As pessoas sujeitas a imposto apresentarão, durante o mês de Janeiro de cada ano, uma declaração, conforme o modelo n.º 1, de todas as remunerações ou rendimentos por elas recebidos ou postos à sua disposição no ano antecedente, quando superiores a 18000$00. Sendo caso disso, a declaração deverá especificar o valor das remunerações em espécie, alimentação ou aposentadoria e ser acompanhada dos documentos referidos na alínea a) do artigo 3.º e na primeira parte do § único do artigo 10.º, devidamente classificados e relacionados, os quais serão restituídos ao contribuinte depois de verificada a sua conformidade.
+Art. 6.º As pessoas sujeitas a imposto apresentarão, durante o mês de Janeiro de cada ano, uma declaração, conforme o modelo n.º 1, de todas as remunerações ou rendimentos por elas recebidos ou postos à sua disposição no ano antecedente, quando superiores a 18000$00. Sendo caso disso, a declaração deverá especificar o valor das remunerações em espécie, alimentação ou aposentadoria e ser acompanhada dos documentos referidos na alínea a) do artigo 3.º e na primeira parte do § único do artigo 10.º, devidamente classificados e relacionados, os quais serão restituídos ao contribuinte depois de verificada a sua conformidade.
 
 § 1.º A declaração será entregue em duplicado na secção de finanças do concelho ou bairro da área do domicílio do contribuinte, quando este o tenha no continente ou ilhas. Não tendo aí domicílio, mas apenas escritório, consultório ou estabelecimento, a declaração será entregue na secção de finanças da respectiva área. Em todos os mais casos, a entrega far-se-á na Secção de Finanças do 3.º bairro fiscal de Lisboa.
 
 § 2.º No caso de falecimento do contribuinte, a declaração incumbirá ao cabeça-de-casal, o qual, porém, ficará dela dispensado se tiver sido feita, nos devidos termos, por qualquer interessado.
 
-###### Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração referida no artigo anterior, sem prejuízo do disposto nos artigos 11.º e 12.º
+Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração referida no artigo anterior, sem prejuízo do disposto nos artigos 11.º e 12.º
 
 § único. Quando as remunerações sejam estipuladas em moeda ultramarina ou estrangeira, a sua equivalência em escudos será estabelecida pelas cotações à data do vencimento.
 
-###### Art. 8.º Para o efeito do preenchimento da declaração modelo n.º 1, os contribuintes que exerçam profissões constantes da tabela anexa poderão passar recibos, em impressos modelo n.º 2, de todas as importâncias cobradas dos seus clientes, mencionando nessa declaração a respectiva soma.
+Art. 8.º Para o efeito do preenchimento da declaração modelo n.º 1, os contribuintes que exerçam profissões constantes da tabela anexa poderão passar recibos, em impressos modelo n.º 2, de todas as importâncias cobradas dos seus clientes, mencionando nessa declaração a respectiva soma.
 
 § 1.º Os recibos serão impressos e autenticados na Casa da Moeda, devendo esta imprimir, além de recibos não selados, outros com a taxa de 1$00, a levar em conta no pagamento do respectivo imposto do selo.
 
@@ -251,7 +470,7 @@ h) Os vencimentos e quaisquer outras remunerações auferidos pela prestação d
 
 § 3.º Os talões dos recibos terão de ser conservados em boa ordem durante os cinco anos civis subsequentes.
 
-###### Art. 9.º Os contribuintes que optem pelo regime previsto no artigo anterior deverão apresentar, na secção de finanças competente segundo o § 1.º do artigo 6.º, a declaração modelo n.º 4, em duplicado, nos seguintes prazos:
+Art. 9.º Os contribuintes que optem pelo regime previsto no artigo anterior deverão apresentar, na secção de finanças competente segundo o § 1.º do artigo 6.º, a declaração modelo n.º 4, em duplicado, nos seguintes prazos:
 
 a) Até ao fim do mês seguinte ao do início da actividade, quando desejem ficar desde logo sujeitos a tal regime;
 
@@ -259,7 +478,7 @@ b) Até 31 de Dezembro do ano anterior àquele em que queiram adoptá-lo, nos re
 
 § único. A declaração produzirá efeitos por anos civis enquanto não for denunciada pelo contribuinte mediante participação modelo n.º 5, a apresentar até 31 de Dezembro.
 
-###### Art. 10.º No apuramento do rendimento colectável dos contribuintes constantes da tabela anexa que, para o exercício regular da sua actividade, careçam de instalação fixa e permanente, e a tenham, serão deduzidos às receitas os seguintes encargos:
+Art. 10.º No apuramento do rendimento colectável dos contribuintes constantes da tabela anexa que, para o exercício regular da sua actividade, careçam de instalação fixa e permanente, e a tenham, serão deduzidos às receitas os seguintes encargos:
 
 1.º Despesas com:
 
@@ -277,7 +496,7 @@ e) Seguros conexos com o exercício da actividade.
 
 § único. As despesas mencionadas no n.º 1.º serão deduzidas pelos mínimos estabelecidos na tabela anexa ou pelas importâncias que o contribuinte prove documentalmente ter pago quando excedam aqueles mínimos ou na tabela não figurem quaisquer quantitativos; as referidas no n.º 2.º sê-lo-ão pelo produto da aplicação, ao rendimento ilíquido anual, das percentagens indicadas na mesma tabela.
 
-###### Art. 11.º As declarações dos contribuintes serão verificadas em cada concelho ou bairro por uma comissão, à qual pertencerá fixar a matéria colectável quando nelas reconheça quaisquer faltas, insuficiências ou inexactidões.
+Art. 11.º As declarações dos contribuintes serão verificadas em cada concelho ou bairro por uma comissão, à qual pertencerá fixar a matéria colectável quando nelas reconheça quaisquer faltas, insuficiências ou inexactidões.
 
 § 1.º A comissão será constituída pela forma seguinte:
 
@@ -293,15 +512,15 @@ Um delegado da respectiva categoria de contribuintes, designado pelo organismo c
 
 § 3.º Quando o organismo corporativo ou profissional não fizer a comunicação, será notificada a câmara municipal para, no prazo de oito dias, designar os delegados de entre os contribuintes da mesma categoria.
 
-###### Art. 12.º O rendimento colectável dos contribuintes que constam da tabela anexa e não tenham optado pelo regime estabelecido no artigo 8.º será sempre fixado pela confissão referida no artigo anterior, com respeito, porém, do disposto no artigo 31.º e seus parágrafos.
+Art. 12.º O rendimento colectável dos contribuintes que constam da tabela anexa e não tenham optado pelo regime estabelecido no artigo 8.º será sempre fixado pela confissão referida no artigo anterior, com respeito, porém, do disposto no artigo 31.º e seus parágrafos.
 
 § único. Quando os contribuintes exerçam a actividade fora do concelho ou bairro do seu domicílio, a secção de finanças competente para a liquidação do imposto requisitará às dos concelhos ou bairros onde a actividade é exercida as informações necessárias para habilitar a comissão a fixar o rendimento.
 
-###### Art. 13.º O apuramento do rendimento colectável nos termos dos artigos anteriores deverá ficar concluído até 31 de Março e será patente aos contribuintes, na secção de finanças, de 1 a 15 de Abril, anunciando-se o facto por meio de editais, tempestivamente afixados.
+Art. 13.º O apuramento do rendimento colectável nos termos dos artigos anteriores deverá ficar concluído até 31 de Março e será patente aos contribuintes, na secção de finanças, de 1 a 15 de Abril, anunciando-se o facto por meio de editais, tempestivamente afixados.
 
 § único. Qualquer contribuinte poderá, durante esse prazo, tomar conhecimento dos rendimentos respeitantes aos que exerçam a mesma profissão ou actividade. Art. 14.º Quando a matéria colectável não tenha sido fixada pela comissão referida no artigo 11.º e se verifique erro imputável aos serviços, a secção de finanças procederá oficiosamente à necessária correcção.
 
-###### Art. 15.º Da fixação da matéria colectável nos termos dos artigos 11.º e 12.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo chefe distrital do serviço de prevenção e repressão, reclamar, de 1 a 15 de Abril, para uma comissão distrital assim constituída:
+Art. 15.º Da fixação da matéria colectável nos termos dos artigos 11.º e 12.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo chefe distrital do serviço de prevenção e repressão, reclamar, de 1 a 15 de Abril, para uma comissão distrital assim constituída:
 
 Presidente - o director de finanças.
 
@@ -315,17 +534,17 @@ Dois delegados da respectiva categoria de contribuintes, designados pelo organis
 
 § 2.º Quando o organismo corporativo ou profissional não fizer a comunicação, será notificada a junta distrital para, no prazo de oito dias, designar os delegados de entre os contribuintes da mesma categoria.
 
-###### Art. 16.º Sendo reclamante a Fazenda Nacional, o contribuinte será notificado para alegar dentro de cinco dias o que tiver por conveniente, entregando-se-lhe cópia da reclamação.
+Art. 16.º Sendo reclamante a Fazenda Nacional, o contribuinte será notificado para alegar dentro de cinco dias o que tiver por conveniente, entregando-se-lhe cópia da reclamação.
 
-###### Art. 17.º As reclamações deverão ser remetidas à comissão distrital no prazo de dez dias depois da sua apresentação, acompanhadas dos processos individuais dos contribuintes, dos elementos de fiscalização existentes e, bens assim, de quaisquer outros documentos ou informações considerados úteis ao esclarecimento dos factos.
+Art. 17.º As reclamações deverão ser remetidas à comissão distrital no prazo de dez dias depois da sua apresentação, acompanhadas dos processos individuais dos contribuintes, dos elementos de fiscalização existentes e, bens assim, de quaisquer outros documentos ou informações considerados úteis ao esclarecimento dos factos.
 
 § 1.º O director de finanças deverá tomar as providências necessárias para que a apreciação das reclamações e a sua devolução às secções de finanças respectivas se faça até 15 de Maio.
 
 § 2.º Quando a reclamação do contribuinte for totalmente desatendida, a comissão distrital fixará, a título de custas, um agravamento à verba principal da colecta, graduado conforme as circunstâncias, mas nunca superior a 5 por cento.
 
-###### Art. 18.º As comissões referidas nos artigos 11.º e 15.º poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais, os elementos de que precisem para a fixação dos rendimentos ou apreciação das reclamações.
+Art. 18.º As comissões referidas nos artigos 11.º e 15.º poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais, os elementos de que precisem para a fixação dos rendimentos ou apreciação das reclamações.
 
-###### Art. 19.º As deliberações das comissões serão tomadas por maioria, tendo o respectivo presidente voto de qualidade no caso de empate.
+Art. 19.º As deliberações das comissões serão tomadas por maioria, tendo o respectivo presidente voto de qualidade no caso de empate.
 
 § 1.º Os delegados dos contribuintes intervirão apenas nas deliberações relativas às categorias que representem.
 
@@ -333,7 +552,7 @@ Dois delegados da respectiva categoria de contribuintes, designados pelo organis
 
 § 3.º Das reuniões lavrar-se-ão actas avulsas que conterão as deliberações tomadas e os respectivos fundamentos.
 
-###### Art. 20.º O rendimento colectável fixado pelas comissões não é susceptível de impugnação contenciosa.
+Art. 20.º O rendimento colectável fixado pelas comissões não é susceptível de impugnação contenciosa.
 
 § 1.º No caso de preterição de formalidades legais, poderão os contribuintes recorrer da deliberação de qualquer das comissões perante o contencioso das contribuições e impostos.
 
@@ -341,15 +560,15 @@ Dois delegados da respectiva categoria de contribuintes, designados pelo organis
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 21.º A taxa do imposto é de 8 por cento, salvo nos casos previstos nos artigos seguintes.
+Art. 21.º A taxa do imposto é de 8 por cento, salvo nos casos previstos nos artigos seguintes.
 
-###### Art. 22.º Quando os rendimentos colectáveis anuais não ultrapassem 300000$00, a taxa será reduzida a:
+Art. 22.º Quando os rendimentos colectáveis anuais não ultrapassem 300000$00, a taxa será reduzida a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf))](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf)
 
 § único. Em caso algum poderá ser liquidado imposto que deixe ao contribuinte rendimento líquido menor do que aquele que lhe ficaria se o seu rendimento colectável correspondesse ao limite máximo do escalão imediatamente inferior.
 
-###### Art. 23.º Tratando-se de remunerações escrituradas a favor de donos de firmas em nome individual, ou atribuídas por qualquer título a sócios administradores ou gerentes, membros do conselho fiscal, mesa da assembleia geral ou demais órgãos das sociedades, ou a sócios que exerçam nelas quaisquer outros cargos que, por disposição estatutária, tenham de pertencer-lhes, aplicar-se-ão as seguintes taxas:
+Art. 23.º Tratando-se de remunerações escrituradas a favor de donos de firmas em nome individual, ou atribuídas por qualquer título a sócios administradores ou gerentes, membros do conselho fiscal, mesa da assembleia geral ou demais órgãos das sociedades, ou a sócios que exerçam nelas quaisquer outros cargos que, por disposição estatutária, tenham de pertencer-lhes, aplicar-se-ão as seguintes taxas:
 
 1.º Sobre as verbas a que se refere o § 3.º do artigo 1.º, a taxa da contribuição industrial;
 
@@ -361,13 +580,13 @@ b) A taxa do imposto profissional sobre 120000$00 e a taxa da contribuição ind
 
 § único. A discriminação a que se referem as alíneas do n.º 2.º será feita em relação às remunerações advindas de cada empresa, mas serão tomados em conjunto, para efeitos dos artigos anteriores, os rendimentos do contribuinte que devam ser tributados pela taxa do imposto profissional.
 
-###### Art. 24.º Sobre este imposto não recai qualquer adicional para o Estado.
+Art. 24.º Sobre este imposto não recai qualquer adicional para o Estado.
 
 ### CAPÍTULO V — Liquidação
 
-###### Art. 25.º A competência para a liquidação do imposto pertence à secção de finanças do concelho ou bairro onde, nos termos do § 1.º do artigo 6.º, deva ser entregue a declaração modelo n.º 1.
+Art. 25.º A competência para a liquidação do imposto pertence à secção de finanças do concelho ou bairro onde, nos termos do § 1.º do artigo 6.º, deva ser entregue a declaração modelo n.º 1.
 
-###### Art. 26.º As pessoas a que competir o pagamento ou entrega de rendimentos ou remunerações tributados pelo artigo 1.º deverão deduzir-lhes, na altura da sua atribuição ou pagamento aos contribuintes abrangidos pelas alíneas a) e b) do artigo 2.º, a importância de 1 por cento nos seguintes casos:
+Art. 26.º As pessoas a que competir o pagamento ou entrega de rendimentos ou remunerações tributados pelo artigo 1.º deverão deduzir-lhes, na altura da sua atribuição ou pagamento aos contribuintes abrangidos pelas alíneas a) e b) do artigo 2.º, a importância de 1 por cento nos seguintes casos:
 
 a) Quando a remuneração anual ajustada exceda o limite de 18000$00;
 
@@ -377,23 +596,23 @@ c) Quando, não havendo remuneração anual ajustada, ao contribuinte sejam atri
 
 § único. Verificando-se a hipótese da alínea b) ou c) a primeira dedução a efectuar será calculada sobre todos os rendimentos ou remunerações pagos ou atribuídos até então.
 
-###### Art. 27.º As pessoas que contratarem artistas de teatro, bailado, cinema, variedades, rádio, televisão ou circo e, bem assim, músicos, cantores, conferencistas, cientistas, técnicos, toureiros ou desportistas, não domiciliados no continente ou ilhas, deduzirão às remunerações que lhes atribuírem ou pagarem:
+Art. 27.º As pessoas que contratarem artistas de teatro, bailado, cinema, variedades, rádio, televisão ou circo e, bem assim, músicos, cantores, conferencistas, cientistas, técnicos, toureiros ou desportistas, não domiciliados no continente ou ilhas, deduzirão às remunerações que lhes atribuírem ou pagarem:
 
 a) A importância correspondente ao imposto que lhes competir nos termos dos artigos 21.º e 22.º, tratando-se de contribuintes domiciliados nas províncias ultramarinas;
 
 b) A mesma importância, no mínimo de 5 por cento, tratando-se de quaisquer outros contribuintes, e ainda que as respectivas remunerações não excedam 18000$00.
 
-###### Art. 28.º As sociedades de seguros que reconheçam dificuldade em preencher, na parte respeitante às comissões de angariação, as relações modelo n.º 8 a que se refere o artigo 47.º poderão dispensar-se de o fazer, mediante o pagamento ao Estado da importância correspondente a 2 por cento da totalidade das comissões que atribuírem em cada mês, sendo-lhes, porém, vedado deduzi-la aos angariadores.
+Art. 28.º As sociedades de seguros que reconheçam dificuldade em preencher, na parte respeitante às comissões de angariação, as relações modelo n.º 8 a que se refere o artigo 47.º poderão dispensar-se de o fazer, mediante o pagamento ao Estado da importância correspondente a 2 por cento da totalidade das comissões que atribuírem em cada mês, sendo-lhes, porém, vedado deduzi-la aos angariadores.
 
-###### Art. 29.º As importâncias referidas nos artigos antecedentes serão entregues nos cofres do Estado, por meio de guia modelo n.º 6, durante o mês seguinte àquele em que as remunerações foram pagas ou postas à disposição dos interessados.
+Art. 29.º As importâncias referidas nos artigos antecedentes serão entregues nos cofres do Estado, por meio de guia modelo n.º 6, durante o mês seguinte àquele em que as remunerações foram pagas ou postas à disposição dos interessados.
 
 A entrega será feita na tesouraria da Fazenda Pública do concelho ou bairro da residência ou sede da entidade a que competir, quando a tenha no continente ou ilhas. Não tendo aí residência ou sede, mas apenas escritório, estabelecimento ou qualquer outra forma de representação, a entrega será feita na tesouraria da respectiva área. Nos demais casos, efectuar-se-á na tesouraria do 3.º bairro fiscal de Lisboa.
 
 § único. Os donos de firmas em nome individual deverão entregar, nos mesmos termos, 1 por cento das importâncias que contabilizarem a título de remuneração do seu trabalho, quando excedam 18000$00 anuais.
 
-###### Art. 30.º A secção de finanças competente para a liquidação do imposto organizará verbetes individuais em que serão escrituradas, perante as relações a que aludem os artigos 47.º e 52.º, as importâncias entregues nos cofres do Estado e que foram deduzidas ao abrigo dos artigos 26.º e 27.º e § único do artigo anterior.
+Art. 30.º A secção de finanças competente para a liquidação do imposto organizará verbetes individuais em que serão escrituradas, perante as relações a que aludem os artigos 47.º e 52.º, as importâncias entregues nos cofres do Estado e que foram deduzidas ao abrigo dos artigos 26.º e 27.º e § único do artigo anterior.
 
-###### Art. 31.º Os contribuintes que exerçam por sua conta, e com carácter de profissão, qualquer das actividades abrangidas pela tabela anexa serão colectados, segundo o local do exercício, em função dos rendimentos líquidos mínimos nela estabelecidos, ou dos rendimentos determinados nos termos dos artigos 7.º e seguintes, quando superiores.
+Art. 31.º Os contribuintes que exerçam por sua conta, e com carácter de profissão, qualquer das actividades abrangidas pela tabela anexa serão colectados, segundo o local do exercício, em função dos rendimentos líquidos mínimos nela estabelecidos, ou dos rendimentos determinados nos termos dos artigos 7.º e seguintes, quando superiores.
 
 § 1.º Se o contribuinte exercer profissionalmente, por sua conta, mais de uma actividade abrangida pela tabela, ou a mesma ou mais de uma actividade em várias localidades, o rendimento líquido mínimo a considerar será o mais elevado dos que lhe competirem.
 
@@ -403,61 +622,61 @@ A entrega será feita na tesouraria da Fazenda Pública do concelho ou bairro da
 
 § 4.º De igual modo se procederá relativamente aos contribuintes que iniciarem a actividade, embora desde logo com carácter de profissão, depois de terminado o 1.º trimestre do ano, salvo tratando-se dos mencionados no § 2.º que só iniciarem profissionalmente a respectiva actividade depois de decorridos os cinco anos.
 
-###### Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias que porventura já tenham sido deduzidas a cada contribuinte, ou entregues, nos termos dos artigos 26.º e 27.º e § único do artigo 29.º, e fazer-se a liquidação pela diferença, se a houver.
+Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias que porventura já tenham sido deduzidas a cada contribuinte, ou entregues, nos termos dos artigos 26.º e 27.º e § único do artigo 29.º, e fazer-se a liquidação pela diferença, se a houver.
 
-###### Art. 33.º Quando no apuramento do rendimento colectável se verificar que as remunerações das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º não ultrapassam 18000$00, restituir-se-ão as importâncias que houverem sido deduzidas e entregues ao Estado nos termos dos artigos 26.º, 27.º e 29.º, mediante título de anulação a processar oficiosamente a favor dos contribuintes, cujo recebimento a dinheiro será documentado com o certificado da importância entregue.
+Art. 33.º Quando no apuramento do rendimento colectável se verificar que as remunerações das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º não ultrapassam 18000$00, restituir-se-ão as importâncias que houverem sido deduzidas e entregues ao Estado nos termos dos artigos 26.º, 27.º e 29.º, mediante título de anulação a processar oficiosamente a favor dos contribuintes, cujo recebimento a dinheiro será documentado com o certificado da importância entregue.
 
 § único. Não se fará anulação oficiosa aos contribuintes referidos na alínea b) do artigo 27.º
 
-###### Art. 34.º Na secção de finanças competente para a liquidação deverá organizar-se um processo por cada contribuinte, em que se incorporem as declarações modelos n.º 1 e 4, assim como os demais elementos individuais respeitantes a este imposto.
+Art. 34.º Na secção de finanças competente para a liquidação deverá organizar-se um processo por cada contribuinte, em que se incorporem as declarações modelos n.º 1 e 4, assim como os demais elementos individuais respeitantes a este imposto.
 
-###### Art. 35.º Se, por omissão ao lançamento, deixar de liquidar-se imposto, a liquidação poderá ainda fazer-se até passados cinco anos sobre aquele a que o rendimento colectável respeitar.
+Art. 35.º Se, por omissão ao lançamento, deixar de liquidar-se imposto, a liquidação poderá ainda fazer-se até passados cinco anos sobre aquele a que o rendimento colectável respeitar.
 
 § único. Verificada a omissão, proceder-se-á à determinação do rendimento e à liquidação do imposto, observando-se as disposições anteriores com as necessárias adaptações.
 
-###### Art. 36.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a secção de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do prazo estabelecido no artigo anterior.
+Art. 36.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a secção de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do prazo estabelecido no artigo anterior.
 
 § único. A liquidação adicional, quando vise a corrigir o prejuízo resultante de erro de direito, ou de omissão imputável à Fazenda, só poderá ter lugar dentro do prazo em que a esta é permitido recorrer extraordinàriamente da primeira liquidação.
 
-###### Art. 37.º Não se procederá a qualquer liquidação, ainda que adicional, nem a anulação oficiosa, quando o seu quantitativo for inferior a 10$00.
+Art. 37.º Não se procederá a qualquer liquidação, ainda que adicional, nem a anulação oficiosa, quando o seu quantitativo for inferior a 10$00.
 
-###### Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. O juro será contado dia a dia, desde o termo do prazo para a apresentação da declaração até à data em que a mesma vier a ser feita, corrigida ou suprida.
 
 ### CAPÍTULO VI — Cobrança
 
-###### Art. 39.º Os conhecimentos de cobrança serão entregues até 20 de Junho ao tesoureiro da Fazenda Pública, que expedirá até ao dia 26 os avisos para pagamento à boca do cofre.
+Art. 39.º Os conhecimentos de cobrança serão entregues até 20 de Junho ao tesoureiro da Fazenda Pública, que expedirá até ao dia 26 os avisos para pagamento à boca do cofre.
 
 § único. Independentemente da expedição dos avisos, o tesoureiro anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na secção de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
 
-###### Art. 40.º O imposto liquidado nos termos do artigo 32.º deverá ser pago durante o mês de Julho, cobrando-se conjuntamente a importância do agravamento a que se refere o § 2.º do artigo 17.º
+Art. 40.º O imposto liquidado nos termos do artigo 32.º deverá ser pago durante o mês de Julho, cobrando-se conjuntamente a importância do agravamento a que se refere o § 2.º do artigo 17.º
 
-###### Art. 41.º Nos casos dos artigos 35.º e 36.º o contribuinte será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
+Art. 41.º Nos casos dos artigos 35.º e 36.º o contribuinte será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
 
 Se o não fizer proceder-se-á a cobrança virtual, sem prejuízo do direito de reclamação, devendo o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.
 
-###### Art. 42.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora.
+Art. 42.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora.
 
-###### Art. 43.º Passados 60 dias sobre o vencimento do imposto sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo.
+Art. 43.º Passados 60 dias sobre o vencimento do imposto sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo.
 
-###### Art. 44.º A responsabilidade pelo pagamento pertence:
+Art. 44.º A responsabilidade pelo pagamento pertence:
 
 a) Às pessoas referidas no artigo 2.º, pela diferença entre o montante do imposto e as importâncias que foram deduzidas, ou o deviam ter sido nos termos dos artigos 26.º e 27.º;
 
 b) Às entidades a que incumbem as deduções previstas nos mencionados artigos, até ao limite das importâncias que foram ou deviam ter sido deduzidas, e, subsidiàriamente, às pessoas sujeitas ao imposto, mas quanto a estas apenas relativamente à diferença entre o que tenha sido deduzido e o que devesse tê-lo sido.
 
-###### Art. 45.º Se o contribuinte cessar a sua actividade e quiser pagar imediatamente o imposto devido até então, este será logo liquidado para cobrança eventual, com base nos rendimentos constantes de declaração modelo n.º 1 a apresentar para esse efeito, sem prejuízo, porém, quer de rectificação ulterior dessa declaração, quer do cumprimento do disposto no artigo 6.º relativamente a rendimentos que só venham a ser-lhe pagos ou atribuídos nos anos subsequentes.
+Art. 45.º Se o contribuinte cessar a sua actividade e quiser pagar imediatamente o imposto devido até então, este será logo liquidado para cobrança eventual, com base nos rendimentos constantes de declaração modelo n.º 1 a apresentar para esse efeito, sem prejuízo, porém, quer de rectificação ulterior dessa declaração, quer do cumprimento do disposto no artigo 6.º relativamente a rendimentos que só venham a ser-lhe pagos ou atribuídos nos anos subsequentes.
 
 § único. No caso de falecimento do contribuinte, a faculdade concedida neste artigo poderá ser usada por qualquer interessado.
 
 ### CAPÍTULO VII — Fiscalização
 
-###### Art. 46.º As entidades mencionadas nos artigos 26.º e 27.º deverão possuir registos donde constem, quanto a cada um dos contribuintes abrangidos pelas alíneas a) e b) do artigo 2.º, todas as remunerações que lhes pagaram ou puseram à sua disposição, com indicação dos nomes completos e domicílio dos beneficiários e dos períodos a que tais remunerações respeitam.
+Art. 46.º As entidades mencionadas nos artigos 26.º e 27.º deverão possuir registos donde constem, quanto a cada um dos contribuintes abrangidos pelas alíneas a) e b) do artigo 2.º, todas as remunerações que lhes pagaram ou puseram à sua disposição, com indicação dos nomes completos e domicílio dos beneficiários e dos períodos a que tais remunerações respeitam.
 
 § único. Na escrituração de tais registos não serão permitidos atrasos superiores a 90 dias.
 
-###### Art. 47.º Durante o mês de Janeiro de cada ano, as pessoas referidas no artigo anterior deverão apresentar, na secção de finanças do concelho ou bairro a que alude o artigo 29.º, relações nominais, em triplicado, conforme o modelo n.º 8, das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º a quem hajam feito, no ano anterior, dedução nas remunerações ou rendimentos que lhes pagaram ou atribuíram.
+Art. 47.º Durante o mês de Janeiro de cada ano, as pessoas referidas no artigo anterior deverão apresentar, na secção de finanças do concelho ou bairro a que alude o artigo 29.º, relações nominais, em triplicado, conforme o modelo n.º 8, das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º a quem hajam feito, no ano anterior, dedução nas remunerações ou rendimentos que lhes pagaram ou atribuíram.
 
 As relações serão organizadas por concelhos ou bairros e ordem alfabética dos contribuintes, contendo cada uma os que residirem no mesmo concelho ou bairro, e delas deverão constar as remunerações ou rendimentos ilíquidos e as importâncias deduzidas, cumprindo à secção de finanças conferir o total das deduções aí indicado com as guias modelo n.º 6 a que se refere o artigo 29.º
 
@@ -467,13 +686,13 @@ As relações serão organizadas por concelhos ou bairros e ordem alfabética do
 
 § 3.º As sociedades de seguros que optarem pelo regime estabelecido no artigo 28.º apenas ficarão dispensadas de mencionar nas relações os elementos respeitantes às comissões de angariação.
 
-###### Art. 48.º Na secção de finanças do concelho ou bairro referido no artigo 29.º será organizada, relativamente a cada uma das entidades mencionadas no artigo anterior, uma conta corrente e um processo das relações modelo n.º 8, guias modelo n.º 6 das entregas na tesouraria da Fazenda Pública do mesmo concelho ou bairro e demais documentos relacionados com as deduções e entregas feitas por cada uma daquelas entidades.
+Art. 48.º Na secção de finanças do concelho ou bairro referido no artigo 29.º será organizada, relativamente a cada uma das entidades mencionadas no artigo anterior, uma conta corrente e um processo das relações modelo n.º 8, guias modelo n.º 6 das entregas na tesouraria da Fazenda Pública do mesmo concelho ou bairro e demais documentos relacionados com as deduções e entregas feitas por cada uma daquelas entidades.
 
-###### Art. 49.º Os chefes, directores ou administradores dos serviços públicos civis e militares, das pessoas colectivas de utilidade pública administrativa, organismos corporativos e, bem assim, de quaisquer outras entidades públicas ou de sociedades e associações privadas comunicarão à secção de finanças do concelho ou bairro da respectiva sede, durante o mês de Janeiro, as remunerações que por eles foram pagas ou atribuídas, no ano anterior, as pessoas abrangidas pela alínea c) do artigo 2.º
+Art. 49.º Os chefes, directores ou administradores dos serviços públicos civis e militares, das pessoas colectivas de utilidade pública administrativa, organismos corporativos e, bem assim, de quaisquer outras entidades públicas ou de sociedades e associações privadas comunicarão à secção de finanças do concelho ou bairro da respectiva sede, durante o mês de Janeiro, as remunerações que por eles foram pagas ou atribuídas, no ano anterior, as pessoas abrangidas pela alínea c) do artigo 2.º
 
 A comunicação será feita por meio de notas, em duplicado, organizadas por concelhos ou bairros e ordem alfabética dos contribuintes, contendo cada uma os que residirem no mesmo concelho ou bairro.
 
-###### Art. 50.º As entidades referidas no artigo anterior deverão ainda comunicar, durante o mês de Janeiro, à secção de finanças da área respectiva, os factos de que tenham conhecimento através de elementos existentes nas suas repartições, estabelecimentos ou organizações e que hajam produzido ou sejam susceptíveis de produzir rendimentos a pessoas abrangidas pela alínea c) do artigo 2.º, designadamente os seguintes:
+Art. 50.º As entidades referidas no artigo anterior deverão ainda comunicar, durante o mês de Janeiro, à secção de finanças da área respectiva, os factos de que tenham conhecimento através de elementos existentes nas suas repartições, estabelecimentos ou organizações e que hajam produzido ou sejam susceptíveis de produzir rendimentos a pessoas abrangidas pela alínea c) do artigo 2.º, designadamente os seguintes:
 
 a) Intervenção em quaisquer processos judiciais ou administrativos e elaboração de projectos de obras, com indicação dos respectivos valores, havendo-os ou sendo conhecidos;
 
@@ -485,13 +704,13 @@ d) Cedência de locais para exposição de obras de arte e realização de conce
 
 § único. Da comunicação deverão constar os honorários, preços ou remunerações, quando conhecidos, assim como os nomes e residências dos beneficiários.
 
-###### Art. 51.º As Ordens dos Advogados, dos Engenheiros e dos Médicos, a Câmara dos Solicitadores e os demais organismos em que seja obrigatória a inscrição para o exercício de actividades abrangidas pela tabela anexa deverão enviar à secção de finanças da área da sua sede, durante o mês de Janeiro, uma relação nominal das inscrições feitas e canceladas no ano anterior, com a indicação dos domicílios, dos locais dos consultórios ou escritórios e das especialidades profissionais.
+Art. 51.º As Ordens dos Advogados, dos Engenheiros e dos Médicos, a Câmara dos Solicitadores e os demais organismos em que seja obrigatória a inscrição para o exercício de actividades abrangidas pela tabela anexa deverão enviar à secção de finanças da área da sua sede, durante o mês de Janeiro, uma relação nominal das inscrições feitas e canceladas no ano anterior, com a indicação dos domicílios, dos locais dos consultórios ou escritórios e das especialidades profissionais.
 
-###### Art. 52.º Para efeitos do disposto no artigo 30.º, as secções de finanças que receberem os elementos a que se referem os artigos 47.º, 49.º e 50.º, respeitantes a contribuintes de outros concelhos ou bairros, remetê-los-ão, até ao dia 5 de Fevereiro, às secções de finanças competentes para a liquidação.
+Art. 52.º Para efeitos do disposto no artigo 30.º, as secções de finanças que receberem os elementos a que se referem os artigos 47.º, 49.º e 50.º, respeitantes a contribuintes de outros concelhos ou bairros, remetê-los-ão, até ao dia 5 de Fevereiro, às secções de finanças competentes para a liquidação.
 
-###### Art. 53.º Instaurado procedimento executivo com base em falta de pagamento de imposto por contribuinte constante da tabela anexa, o juiz das execuções fiscais, decorridos dez dias sobre a citação sem terem sido deduzidos oposição ou embargos ou requerida a suspensão da execução nos termos legais, comunicará o facto ao respectivo organismo corporativo ou profissional, quando o haja, para que este imediatamente suspenda o contribuinte do exercício das suas funções até satisfazer o débito ou estar assegurado o pagamento.
+Art. 53.º Instaurado procedimento executivo com base em falta de pagamento de imposto por contribuinte constante da tabela anexa, o juiz das execuções fiscais, decorridos dez dias sobre a citação sem terem sido deduzidos oposição ou embargos ou requerida a suspensão da execução nos termos legais, comunicará o facto ao respectivo organismo corporativo ou profissional, quando o haja, para que este imediatamente suspenda o contribuinte do exercício das suas funções até satisfazer o débito ou estar assegurado o pagamento.
 
-###### Art. 54.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+Art. 54.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Os chefes de repartição da Direcção-Geral, os directores de finanças, os chefes dos serviços de prevenção e repressão e os chefes das secções de finanças poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativos, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
 
@@ -505,13 +724,13 @@ d) Cedência de locais para exposição de obras de arte e realização de conce
 
 ### CAPÍTULO VIII — Reclamações e recursos
 
-###### Art. 55.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, com os fundamentos e nos termos estabelecidos na legislação do contencioso das contribuições e impostos.
+Art. 55.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, com os fundamentos e nos termos estabelecidos na legislação do contencioso das contribuições e impostos.
 
 § único. O prazo de reclamação ordinária para anulação do excesso de imposto deduzido e entregue nos termos dos artigos 27.º, alínea b), e 29.º será contado a partir de 1 de Janeiro do ano seguinte àquele em que as remunerações foram pagas ou atribuídas.
 
-###### Art. 56.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
+Art. 56.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
 
-###### Art. 57.º Anulada a liquidação, quer oficiosamente, quer por decisão dos tribunais com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto profissional, arrecadado por cobrança virtual.
+Art. 57.º Anulada a liquidação, quer oficiosamente, quer por decisão dos tribunais com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto profissional, arrecadado por cobrança virtual.
 
 § 1.º Contar-se-ão juros de 4 por cento ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em reclamação ou recurso da liquidação, de que nesta houve erro de facto imputável aos serviços.
 
@@ -519,77 +738,77 @@ d) Cedência de locais para exposição de obras de arte e realização de conce
 
 Penalidades
 
-###### Art. 58.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 58.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 59.º A falta ou inexactidão das declarações ou relações a que aludem os artigos 6.º e 47.º, bem como as omissões nelas praticadas, serão punidas, no caso de simples negligência, com multa de 100$00 a 20000$00, não podendo esta, porém, exceder o quantitativo do imposto não liquidado. Havendo dolo, a multa será igual ao dobro do imposto não liquidado, mas no mínimo de 200$00.
+Art. 59.º A falta ou inexactidão das declarações ou relações a que aludem os artigos 6.º e 47.º, bem como as omissões nelas praticadas, serão punidas, no caso de simples negligência, com multa de 100$00 a 20000$00, não podendo esta, porém, exceder o quantitativo do imposto não liquidado. Havendo dolo, a multa será igual ao dobro do imposto não liquidado, mas no mínimo de 200$00.
 
 § único. Considera-se dolosa a omissão de remunerações ou a sua indicação por quantitativos inexactos, quando as infracções do contribuinte e das entidades referidas nos artigos 26.º e 27.º forem coincidentes.
 
-###### Art. 60.º O não cumprimento do disposto no artigo 46.º e seu § único será punido com multa de 500$00 a 20000$00.
+Art. 60.º O não cumprimento do disposto no artigo 46.º e seu § único será punido com multa de 500$00 a 20000$00.
 
-###### Art. 61.º O não cumprimento do disposto no artigo 8.º e seu § 3.º, quando tenha havido opção pelo regime nele previsto, será punido com multa de 750$00 a 30000$00.
+Art. 61.º O não cumprimento do disposto no artigo 8.º e seu § 3.º, quando tenha havido opção pelo regime nele previsto, será punido com multa de 750$00 a 30000$00.
 
-###### Art. 62.º A recusa de apresentação dos talões dos recibos passados ou das cadernetas a que se referem os §§ 2.º e 3.º do artigo 8.º, bem como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com multa de 1500$00 a 60000$00.
+Art. 62.º A recusa de apresentação dos talões dos recibos passados ou das cadernetas a que se referem os §§ 2.º e 3.º do artigo 8.º, bem como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com multa de 1500$00 a 60000$00.
 
-###### Art. 63.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, exigidas nos termos dos §§ 1.º e 2.º do artigo 54.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
+Art. 63.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, exigidas nos termos dos §§ 1.º e 2.º do artigo 54.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
 
-###### Art. 64.º A falta ou inexactidão das comunicações ou informações a que aludem os artigos 18.º, 49.º e 50.º e o § 4.º do artigo 54.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 10000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 69.º
+Art. 64.º A falta ou inexactidão das comunicações ou informações a que aludem os artigos 18.º, 49.º e 50.º e o § 4.º do artigo 54.º, bem como as omissões nelas praticadas, serão punidas com multa de 100$00 a 10000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 69.º
 
-###### Art. 65.º Não sendo feitas as deduções previstas nos artigos 26.º e 27.º, aplicar-se-á multa de 100$00 a 10000$00, salvo se houver lugar à multa estabelecida no artigo 59.º
+Art. 65.º Não sendo feitas as deduções previstas nos artigos 26.º e 27.º, aplicar-se-á multa de 100$00 a 10000$00, salvo se houver lugar à multa estabelecida no artigo 59.º
 
-###### Art. 66.º A falta de entrega nos cofres do Estado das importâncias deduzidas nos termos dos artigos 26.º e 27.º, ou a entrega de quantia inferior à descontada, será punida com multa igual ao dobro do quantitativo em falta, no mínimo de 200$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal se houver abuso de confiança.
+Art. 66.º A falta de entrega nos cofres do Estado das importâncias deduzidas nos termos dos artigos 26.º e 27.º, ou a entrega de quantia inferior à descontada, será punida com multa igual ao dobro do quantitativo em falta, no mínimo de 200$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal se houver abuso de confiança.
 
-###### Art. 67.º A entrega nos cofres do Estado, fora do prazo legal, das importâncias deduzidas nos termos dos artigos 26.º e 27.º será punida com multa igual a essas importâncias no mínimo de 100$00.
+Art. 67.º A entrega nos cofres do Estado, fora do prazo legal, das importâncias deduzidas nos termos dos artigos 26.º e 27.º será punida com multa igual a essas importâncias no mínimo de 100$00.
 
-###### Art. 68.º As multas cominadas nos dois artigos anteriores serão também aplicáveis às sociedades de seguros que, tendo optado pelo regime estabelecido no artigo 28.º, não entregarem nos cofres do Estado a importância de 2 por cento da totalidade das comissões, entregarem menos ou fizerem a entrega fora do prazo legal.
+Art. 68.º As multas cominadas nos dois artigos anteriores serão também aplicáveis às sociedades de seguros que, tendo optado pelo regime estabelecido no artigo 28.º, não entregarem nos cofres do Estado a importância de 2 por cento da totalidade das comissões, entregarem menos ou fizerem a entrega fora do prazo legal.
 
-###### Art. 69.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+Art. 69.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
-###### Art. 70.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 1000$00.
+Art. 70.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 1000$00.
 
-###### Art. 71.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 71.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
 § 1.º A responsabilidade solidária prevista neste artigo só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou o acto delituosos.
 
 § 2.º Após a extinção das pessoas colectivas, responderão solidàriamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 72.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
+Art. 72.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
 
 § único. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
 
-###### Art. 73.º As multas serão impostas mediante auto de transgressão levantado e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
+Art. 73.º As multas serão impostas mediante auto de transgressão levantado e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
 
-###### Art. 74.º Só poderá ser levantado auto de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
+Art. 74.º Só poderá ser levantado auto de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
 
 § 1.º Ainda que extinto o procedimento para aplicação da multa, levantar-se-á auto para exigência do imposto devido relativamente aos últimos cinco anos.
 
 § 2.º Se o processo de transgressão estiver parado durante cinco anos ficará extinto o procedimento para a aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
 
-###### Art. 75.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
+Art. 75.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
 
-###### Art. 76.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
+Art. 76.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
 
-###### Art. 77.º Serão admitidas denúncias, perante as secções e direcções de finanças e serviços centrais e de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
+Art. 77.º Serão admitidas denúncias, perante as secções e direcções de finanças e serviços centrais e de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
 
 § 1.º Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
 
 § 2.º A denúncia ficará secreta, salvo se, sendo destituída de fundamento, tiver sido feita dolosamente, caso em que, a requerimento do denunciado, lhe será comunicado o nome do denunciante e o conteúdo da denúncia.
 
-###### Art. 78.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
+Art. 78.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
 
-###### Art. 79.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade, revertendo integralmente para o Estado.
+Art. 79.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade, revertendo integralmente para o Estado.
 
 § 1.º Se o auto de transgressão ainda não tiver sido levantado, sê-lo-á no caso de multa variável entre limites.
 
 § 2.º Não se considerará voluntário o pedido de pagamento da multa feito posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
 
-###### Art. 80.º Havendo falsificação ou viciação previstas nos artigos 62.º e 63.º, o tribunal participá-lo-á, nos oito dias seguintes ao trânsito em julgado da decisão, ao agente do Ministério Público competente, nos termos e para efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
+Art. 80.º Havendo falsificação ou viciação previstas nos artigos 62.º e 63.º, o tribunal participá-lo-á, nos oito dias seguintes ao trânsito em julgado da decisão, ao agente do Ministério Público competente, nos termos e para efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
 
-###### Art. 81.º A condenação por transgressão dos preceitos deste diploma, fora do caso contemplado no artigo anterior, de contribuinte que exerça actividade abrangida pela tabela anexa e enquadrada por organismo corporativo ou profissional será participada a este para efeito da aplicação das sanções disciplinares que no caso couberem.
+Art. 81.º A condenação por transgressão dos preceitos deste diploma, fora do caso contemplado no artigo anterior, de contribuinte que exerça actividade abrangida pela tabela anexa e enquadrada por organismo corporativo ou profissional será participada a este para efeito da aplicação das sanções disciplinares que no caso couberem.
 
 A participação competirá ao chefe da secção de finanças e deverá ser feita nos oito dias seguintes ao do trânsito em julgado da sentença ou do recebimento do processo.
 
-###### Art. 82.º Se a transgressão for praticada com dolo e o quantitativo dos rendimentos ocultados exceder 100000$00, será dada publicidade à condenação do transgressor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
+Art. 82.º Se a transgressão for praticada com dolo e o quantitativo dos rendimentos ocultados exceder 100000$00, será dada publicidade à condenação do transgressor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
 
 § 1.º O extracto será organizado pelo tribunal e publicado, a expensas do infractor, em um dos diárias ou, não os havendo, em um dos periódicos do concelho onde o infractor residir e, além disso, na segunda ou terceira página de dois diários de grande circulação, um de Lisboa e outro do Porto, entrando as despesas da publicação em regra de custas.
 
@@ -597,13 +816,13 @@ A participação competirá ao chefe da secção de finanças e deverá ser feit
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 83.º As secções de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações ou participações a que se referem o § 1.º do artigo 6.º, o artigo 9.º e seu § único e o artigo 47.º
+Art. 83.º As secções de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações ou participações a que se referem o § 1.º do artigo 6.º, o artigo 9.º e seu § único e o artigo 47.º
 
-###### Art. 84.º As declarações, relações, participações, comunicações e outros documentos a apresentar nas secções de finanças pelos contribuintes, patrões, empresas, serviços públicos e demais entidades podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
+Art. 84.º As declarações, relações, participações, comunicações e outros documentos a apresentar nas secções de finanças pelos contribuintes, patrões, empresas, serviços públicos e demais entidades podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
 
 § único. Os documentos referidos neste artigo deverão ser assinados pelas pessoas a que incumba a sua apresentação ou pelos seus representantes legais ou mandatários.
 
-###### Art. 85.º As secções de finanças que estiverem de posse das relações a que alude o artigo 47.º serão obrigadas a passar, a simples rogo dos contribuintes, certificados das importâncias entregues nos cofres do Estado, por conta do imposto que lhes compita, nos termos do artigo 29.º
+Art. 85.º As secções de finanças que estiverem de posse das relações a que alude o artigo 47.º serão obrigadas a passar, a simples rogo dos contribuintes, certificados das importâncias entregues nos cofres do Estado, por conta do imposto que lhes compita, nos termos do artigo 29.º
 
 § 1.º Enquanto não forem apresentadas as relações, cumpre passar os certificados às entidades que procederam à dedução dessas importâncias.
 
@@ -613,12 +832,12 @@ Ministério das Finanças, 27 de Abril de 1962. - O Ministro das Finanças, Ant�
 
 Tabela das actividades exercidas por conta própria a que alude a alínea c) do artigo 2.º do Código do Imposto Profissional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf))](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf)
 
 Ministério das Finanças, 27 de Abril de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
 Do Modelo n.º 1 ao Modelo n.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf))](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/04/09500/05600574.pdf)
 
 Ministério das Finanças, 27 de Abril de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.

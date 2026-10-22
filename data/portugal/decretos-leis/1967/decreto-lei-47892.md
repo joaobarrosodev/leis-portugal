@@ -50,36 +50,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47892-1967-390474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54f2d9b62f7adae1525b6f4e1f562f5932fddbda24d3835a4d4d12e9ecd578c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a0ba8f76fd2daac2d7f29ca3d3f68e4925a3ff517a958595d994e0c4998a520
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento de Água
+- Alcochete
+- Almada
+- Barreiro
+- Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira
+- Comissão de Fiscalização das Águas de Lisboa
+- Direcção Geral dos Serviços de Urbanização
+- Moita
+- Montijo
+- Obras Particulares
+- Palmela
+- POÇO
+- Seixal
+- Sesimbra
+relationships:
+- type: cites
+  target: pt:dre:432216:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:14Z'
   warnings: []
   errors: []
 ---
@@ -96,68 +114,68 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na área dos concelhos de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal carece de prévia licença a abertura de poços e furos de captação de água com profundidade superior a 50 m e a execução de quaisquer obras ou trabalhos destinados a alterar as condições de captação dos poços e furos existentes, desde que resulte ser excedida aquela profundidade.
+Artigo 1.º Na área dos concelhos de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal carece de prévia licença a abertura de poços e furos de captação de água com profundidade superior a 50 m e a execução de quaisquer obras ou trabalhos destinados a alterar as condições de captação dos poços e furos existentes, desde que resulte ser excedida aquela profundidade.
 
 § único. Exceptuam-se as captações de água executadas pelas câmaras municipais ou pelas federações de municípios, para abastecimento público, e as realizadas pelo Estado.
 
-###### Art. 2.º A licença deve ser pedida em requerimento dirigido ao Ministro das Obras Públicas e apresentado na Direcção-Geral dos Serviços de Urbanização.
+Art. 2.º A licença deve ser pedida em requerimento dirigido ao Ministro das Obras Públicas e apresentado na Direcção-Geral dos Serviços de Urbanização.
 
 § 1.º O requerimento, assinado pelo proprietário do terreno onde se pretende executar a captação de água subterrânea e com a assinatura reconhecida por notário, será acompanhado de uma memória descritiva, em triplicado, contendo os seguintes elementos: localização do poço ou furo (lugar, freguesia, concelho e planta em escala não inferior a 1:25000 ou indicação das respectivas coordenadas); tipo de captação e profundidade prevista; caudal pretendido e finalidade a que se destina.
 
 § 2.º A Direcção-Geral dos Serviços de Urbanização poderá exigir a apresentação de outros elementos que julgar indispensáveis à apreciação do pedido.
 
-###### Art. 3.º A. licença incluirá as seguintes condições:
+Art. 3.º A. licença incluirá as seguintes condições:
 
 a) Na execução do poço ou furo, seja qual for a sua finalidade, deverá proceder-se de modo que não possa haver poluição química ou bacteriológica da água, quer por infiltração de águas de superfície ou de escorrências, quer por mistura com águas subterrâneas de má qualidade;
 
 b) Os poços ou furos de pesquisa e captação de águas repuxantes serão obrigatòriamente munidos de dispositivos que impeçam o desperdício de água.
 
-###### Art. 4.º O titular da licença e as entidades citadas no § único do artigo 1.º são obrigados a enviar à Direcção-Geral dos Serviços de Urbanização, no prazo de 60 dias, a contar do termo dos trabalhos, relatório com a exacta situação do poço ou furo de captação, identificada com os elementos de localização referidos no § 1.º do artigo 2.º, diâmetros e profundidade máxima atingida, profundidades a que foram encontradas as formações aquíferas, níveis hidrostáticos, caudais extraídos e respectivos níveis hidrodinâmicos, corte geológico, com indicação das camadas atravessadas, e boletim da análise química sumária da água.
+Art. 4.º O titular da licença e as entidades citadas no § único do artigo 1.º são obrigados a enviar à Direcção-Geral dos Serviços de Urbanização, no prazo de 60 dias, a contar do termo dos trabalhos, relatório com a exacta situação do poço ou furo de captação, identificada com os elementos de localização referidos no § 1.º do artigo 2.º, diâmetros e profundidade máxima atingida, profundidades a que foram encontradas as formações aquíferas, níveis hidrostáticos, caudais extraídos e respectivos níveis hidrodinâmicos, corte geológico, com indicação das camadas atravessadas, e boletim da análise química sumária da água.
 
 § único. A análise química será feita em qualquer laboratório oficial, sendo gratuita no laboratório da Direcção-Geral dos Serviços de Urbanização.
 
-###### Art. 5.º No prazo de seis meses, a contar da data da publicação do presente diploma, os proprietários de todos os poços ou furos de captação de água existentes na área dos concelhos referidos no artigo 1.º e que excedam o limite de profundidade indicado no mesmo artigo são obrigados a manifestá-los na Direcção-Geral dos Serviços de Urbanização, ou na Direcção Distrital de Urbanização, em impresso que para o efeito lhes será fornecido.
+Art. 5.º No prazo de seis meses, a contar da data da publicação do presente diploma, os proprietários de todos os poços ou furos de captação de água existentes na área dos concelhos referidos no artigo 1.º e que excedam o limite de profundidade indicado no mesmo artigo são obrigados a manifestá-los na Direcção-Geral dos Serviços de Urbanização, ou na Direcção Distrital de Urbanização, em impresso que para o efeito lhes será fornecido.
 
-###### Art. 6.º As licenças para a abertura ou para a execução de obras ou trabalhos em furos ou poços supõem-se sempre concedidas sem prejuízo dos direitos dos proprietários que possam utilizar o mesmo manancial subterrâneo.
+Art. 6.º As licenças para a abertura ou para a execução de obras ou trabalhos em furos ou poços supõem-se sempre concedidas sem prejuízo dos direitos dos proprietários que possam utilizar o mesmo manancial subterrâneo.
 
-###### Art. 7.º No caso de insuficiência das reservas aquíferas subterrâneas para satisfação das necessidades de todos os proprietários que delas se podem servir, será convenientemente reduzida a extracção dos furos e poços que excedam o limite de profundidade indicado no artigo 1.º, tendo em atenção a área de cada proprietário e o uso dado à água extraída.
+Art. 7.º No caso de insuficiência das reservas aquíferas subterrâneas para satisfação das necessidades de todos os proprietários que delas se podem servir, será convenientemente reduzida a extracção dos furos e poços que excedam o limite de profundidade indicado no artigo 1.º, tendo em atenção a área de cada proprietário e o uso dado à água extraída.
 
 § único. Para a determinação dos volumes de água a reduzir na extracção de cada furo ou poço são aplicáveis os princípios que regulam a divisão das águas superficiais.
 
-###### Art. 8.º Reconhecendo-se que da redução da capacidade de um furo ou poço, determinada pela insuficiência das reservas aquíferas, resulta para o seu proprietário dano grave, poderá ser autorizado a manter o volume da sua extracção, mas, para tal, fica obrigado a indemnizar aqueles que com isso sofram prejuízo.
+Art. 8.º Reconhecendo-se que da redução da capacidade de um furo ou poço, determinada pela insuficiência das reservas aquíferas, resulta para o seu proprietário dano grave, poderá ser autorizado a manter o volume da sua extracção, mas, para tal, fica obrigado a indemnizar aqueles que com isso sofram prejuízo.
 
-###### Art. 9.º Se se suscitarem questões a respeito do disposto nos artigos 6.º, 7.º e 8.º do presente decreto-lei e os interessados recorrerem aos tribunais, o juiz, quer se trate de águas subterrâneas públicas ou particulares, nomeará sempre para perito um engenheiro da Direcção-Geral dos Serviços de Urbanização.
+Art. 9.º Se se suscitarem questões a respeito do disposto nos artigos 6.º, 7.º e 8.º do presente decreto-lei e os interessados recorrerem aos tribunais, o juiz, quer se trate de águas subterrâneas públicas ou particulares, nomeará sempre para perito um engenheiro da Direcção-Geral dos Serviços de Urbanização.
 
-###### Art. 10.º Salvo ocorrendo caso fortuito ou de força maior, e sem prejuízo da aplicação de outras leis, gerais ou especiais, a infracção ao disposto no presente decreto-lei será punível nos termos dos artigos seguintes.
+Art. 10.º Salvo ocorrendo caso fortuito ou de força maior, e sem prejuízo da aplicação de outras leis, gerais ou especiais, a infracção ao disposto no presente decreto-lei será punível nos termos dos artigos seguintes.
 
-###### Art. 11.º A falta de cumprimento do disposto no artigo 1.º será punida com multa de 1000$00 a 20000$00.
+Art. 11.º A falta de cumprimento do disposto no artigo 1.º será punida com multa de 1000$00 a 20000$00.
 
-###### Art. 12.º A falta de cumprimento do disposto nos artigos 4.º e 5.º será punida com multa de 5000$00, acrescida de 100$00 por cada dia de demora.
+Art. 12.º A falta de cumprimento do disposto nos artigos 4.º e 5.º será punida com multa de 5000$00, acrescida de 100$00 por cada dia de demora.
 
-###### Art. 13.º O proprietário de poço ou furo que não satisfaça às condições da licença referidas no artigo 3.º, e as não cumpra na prazo que for fixado pela Direcção-Geral dos Serviços de Urbanização, incorre na multa de 5000$00.
+Art. 13.º O proprietário de poço ou furo que não satisfaça às condições da licença referidas no artigo 3.º, e as não cumpra na prazo que for fixado pela Direcção-Geral dos Serviços de Urbanização, incorre na multa de 5000$00.
 
 A Direcção-Geral dos Serviços de Urbanização fixará novo prazo, em segunda notificação, e se esta não for acatada promoverá os trabalhos necessários, cobrando do transgressor as despesas feitas, pelo processo das execuções fiscais, seguindo-se o prescrito nos §§ 1.º e 2.º do artigo 16.º
 
-###### Art. 14.º A fiscalização das disposições deste decreto-lei compete à Guarda Nacional Republicana, Polícia de Segurança Pública, autoridades administrativas do concelho onde a transgressão se verificar e aos funcionários das Direcções-Gerais dos Serviços de Urbanização e dos Serviços Hidráulicos.
+Art. 14.º A fiscalização das disposições deste decreto-lei compete à Guarda Nacional Republicana, Polícia de Segurança Pública, autoridades administrativas do concelho onde a transgressão se verificar e aos funcionários das Direcções-Gerais dos Serviços de Urbanização e dos Serviços Hidráulicos.
 
-###### Art. 15.º O auto de transgressão será enviado à Direcção-Geral dos Serviços de Urbanização, que fixará a multa e o remeterá à secretaria da câmara municipal do concelho onde a transgressão se tiver verificado e aí o auto aguardará, por dez dias, o pagamento voluntário da multa.
+Art. 15.º O auto de transgressão será enviado à Direcção-Geral dos Serviços de Urbanização, que fixará a multa e o remeterá à secretaria da câmara municipal do concelho onde a transgressão se tiver verificado e aí o auto aguardará, por dez dias, o pagamento voluntário da multa.
 
 Findo este prazo sem que o pagamento seja efectuado, será o auto enviado a juízo dentro de cinco dias.
 
 § único. Nos autos de transgressão levantados por infracção ao disposto nos artigos 1.º e 4.º é dispensada a indicação de testemunhas sempre que as circunstâncias de verificação da transgressão não permitam indicá-las; estes autos farão fé em juízo até prova em contrário.
 
-###### Art. 16.º Todas as obras que forem feitas sem licença, quando esta deva ser pedida, ou que o forem por modo diferente das condições em que aquela licença é concedida, serão desmanchadas por conta e à custa dos transgressores, aos quais, pela Direcção-Geral dos Serviços de Urbanização, será feita a intimação legal para a demolição, marcando-se-lhes um prazo para a execução. Se, findo esse prazo, a intimação não for cumprida e as obras desfeitas, serão essas obras mandadas desmanchar por aquela Direcção-Geral, sem mais intimação nem processo, e as despesas feitas com tais demolições serão cobradas dos transgressores pelo processo das execuções fiscais, se voluntàriamente as não quiserem pagar no prazo que lhes for designado pela mesma Direcção-Geral.
+Art. 16.º Todas as obras que forem feitas sem licença, quando esta deva ser pedida, ou que o forem por modo diferente das condições em que aquela licença é concedida, serão desmanchadas por conta e à custa dos transgressores, aos quais, pela Direcção-Geral dos Serviços de Urbanização, será feita a intimação legal para a demolição, marcando-se-lhes um prazo para a execução. Se, findo esse prazo, a intimação não for cumprida e as obras desfeitas, serão essas obras mandadas desmanchar por aquela Direcção-Geral, sem mais intimação nem processo, e as despesas feitas com tais demolições serão cobradas dos transgressores pelo processo das execuções fiscais, se voluntàriamente as não quiserem pagar no prazo que lhes for designado pela mesma Direcção-Geral.
 
 § 1.º Para efeito do disposto neste artigo, será levantado um auto em que se declare o estado da obra e as condições da licença que o transgressor não satisfez; este auto será imediatamente remetido à Direcção-Geral dos Serviços de Urbanização e é independente do auto a que se refere o artigo anterior.
 
 § 2.º Os autos levantados nos termos do parágrafo anterior servirão de base ao processo de execução fiscal, quando acompanhados do despacho que fixe o montante das despesas efectuadas com a demolição da obra e de certidão de que não foram pagas.
 
-###### Art. 17.º As multas aplicadas nos termos dos artigos anteriores constituem receita do Estado.
+Art. 17.º As multas aplicadas nos termos dos artigos anteriores constituem receita do Estado.
 
-###### Art. 18.º Por diploma referendado pelo Ministro das Obras Públicas, as disposições da presente decreto-lei poderão ser tornadas aplicáveis a outros concelhos do continente e ilhas adjacentes não abrangidos pela disciplina a que se referem os Decretos-Lei n.os 30448, 33158 e 43371, respectivamente de 18 de Maio de 1940, de 21 de Outubro de 1943 e de 3 de Dezembro de 1960.
+Art. 18.º Por diploma referendado pelo Ministro das Obras Públicas, as disposições da presente decreto-lei poderão ser tornadas aplicáveis a outros concelhos do continente e ilhas adjacentes não abrangidos pela disciplina a que se referem os Decretos-Lei n.os 30448, 33158 e 43371, respectivamente de 18 de Maio de 1940, de 21 de Outubro de 1943 e de 3 de Dezembro de 1960.
 
-###### Art. 19.º A Comissão de Fiscalização das Águas de Lisboa e a Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira darão conhecimento à Direcção-Geral dos Serviços de Urbanização, no prazo fixado no artigo 5.º, da localização e características de todos os poços e furos de captação de água por esses organismos licenciados e, bem assim, no prazo de 30 dias, das daqueles que por seu intermédio vieram a ser autorizados.
+Art. 19.º A Comissão de Fiscalização das Águas de Lisboa e a Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira darão conhecimento à Direcção-Geral dos Serviços de Urbanização, no prazo fixado no artigo 5.º, da localização e características de todos os poços e furos de captação de água por esses organismos licenciados e, bem assim, no prazo de 30 dias, das daqueles que por seu intermédio vieram a ser autorizados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

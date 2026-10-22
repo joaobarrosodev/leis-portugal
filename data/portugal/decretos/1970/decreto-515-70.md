@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/515-1970-147842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69f9c5beba8287290450446e8e27efaf1e15f3f09521e00d0c2e960f7c88db0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feb48fad454c7209df7f4916867f292a2ee0ecebcf858fbf51cf4383301fd95d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:59Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +95,13 @@ Assim:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Nas reuniões do senado universitário a presidência cabe ao reitor da Universidade ou, na sua falta, a um dos vice-reitores, por ordem de nomeação; na falta destes, preside o professor catedrático mais antigo.
+Artigo 1.º - 1. Nas reuniões do senado universitário a presidência cabe ao reitor da Universidade ou, na sua falta, a um dos vice-reitores, por ordem de nomeação; na falta destes, preside o professor catedrático mais antigo.
 
 2. Serve de secretário do senado o secretário da Universidade e, na sua falta, o funcionário que legalmente o substitua na secretaria.
 
-###### Art. 2.º O senado reúne na sala da Universidade para tal habitualmente destinada ou noutra que o reitor escolher e anunciar na convocação.
+Art. 2.º O senado reúne na sala da Universidade para tal habitualmente destinada ou noutra que o reitor escolher e anunciar na convocação.
 
-###### Art. 3.º - 1. O senado não pode funcionar em primeira convocação sem que esteja presente a maioria dos seus membros.
+Art. 3.º - 1. O senado não pode funcionar em primeira convocação sem que esteja presente a maioria dos seus membros.
 
 2. Se à hora fixada não houver quórum, o reitor, ou quem suas vezes fizer, fará lavrar no livro de actas um termo, assinado por ele e pelo secretário, indicando os nomes dos vogais que compareceram e dos que deixaram de o fazer com ou sem justificação.
 
@@ -111,19 +111,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 5. A todos os vogais que faltarem sem motivo justificado a reunião do senado será descontado um dia de vencimentos.
 
-###### Art. 4.º - 1. As reuniões do senado são ordinárias e extraordinárias; as primeiras realizam-se durante o ano escolar, no principio de cada mês; as segundas quando for oportuno, por iniciativa do reitor ou a requerimento de cinco dos seus membros em que se indique o assunto a tratar.
+Art. 4.º - 1. As reuniões do senado são ordinárias e extraordinárias; as primeiras realizam-se durante o ano escolar, no principio de cada mês; as segundas quando for oportuno, por iniciativa do reitor ou a requerimento de cinco dos seus membros em que se indique o assunto a tratar.
 
 2. Os avisos convocatórios serão distribuídos com, pelo menos, três dias de antecedência, salvo caso de urgência.
 
 3. Na convocação devem mencionar-se os assuntos que no senado hajam de ser objecto de deliberação.
 
-###### Art. 5.º As reuniões do senado são sempre secretas, cumprindo aos seus membros conservar em sigilo as discussões havidas e as deliberações tomadas.
+Art. 5.º As reuniões do senado são sempre secretas, cumprindo aos seus membros conservar em sigilo as discussões havidas e as deliberações tomadas.
 
-###### Art. 6.º Ao reitor pertence convocar, adiar, abrir, suspender e encerrar as reuniões do senado, dar e retirar a palavra aos seus membros, dirigir as discussões e submeter os assuntos a votação.
+Art. 6.º Ao reitor pertence convocar, adiar, abrir, suspender e encerrar as reuniões do senado, dar e retirar a palavra aos seus membros, dirigir as discussões e submeter os assuntos a votação.
 
-###### Art. 7.º A ordem do dia não pode ser alterada na reunião e as deliberações não podem ser tomadas antes de as reuniões do senado terem sido formalmente abertas pelo presidente nem depois de elas terem por este sido suspensas ou encerradas.
+Art. 7.º A ordem do dia não pode ser alterada na reunião e as deliberações não podem ser tomadas antes de as reuniões do senado terem sido formalmente abertas pelo presidente nem depois de elas terem por este sido suspensas ou encerradas.
 
-###### Art. 8.º - 1. As votações do senado podem ser nominais, nos casos comuns, e secretas, quando se trate de assuntos de carácter pessoal.
+Art. 8.º - 1. As votações do senado podem ser nominais, nos casos comuns, e secretas, quando se trate de assuntos de carácter pessoal.
 
 2. Nas votações, a chamada será feita pela ordem inversa das precedências, votando o presidente no final.
 
@@ -135,17 +135,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 6. É lícito aos membros do senado escusar-se de votar; o voto com lista branca equivale, nas votações secretas, a escusa.
 
-###### Art. 9.º Os membros do senado não podem assistir a reuniões ou a parte daquelas em que, segundo a lei, não devam tomar parte, nem àquelas em que estejam directamente interessados ou que digam respeito a seus parentes consanguíneos ou afins até ao 2.º grau; em tais casos, os membros nessas condições não entram no cálculo do quórum.
+Art. 9.º Os membros do senado não podem assistir a reuniões ou a parte daquelas em que, segundo a lei, não devam tomar parte, nem àquelas em que estejam directamente interessados ou que digam respeito a seus parentes consanguíneos ou afins até ao 2.º grau; em tais casos, os membros nessas condições não entram no cálculo do quórum.
 
-###### Art. 10.º - 1. Quando no decurso de uma reunião se verificar falta de número, a discussão da ordem do dia prosseguirá e só se não farão as votações se o presidente considerar justificadas as ausências e se não houver prejuízos graves no adiamento desses actos.
+Art. 10.º - 1. Quando no decurso de uma reunião se verificar falta de número, a discussão da ordem do dia prosseguirá e só se não farão as votações se o presidente considerar justificadas as ausências e se não houver prejuízos graves no adiamento desses actos.
 
 2. Para efeito das votações adiadas, o senado poderá funcionar na reunião seguinte, conforme o disposto no n.º 3 do artigo 3.º
 
-###### Art. 11.º Esgotada a matéria da ordem do dia, pode o presidente conceder a palavra a qualquer dos membros do senado para tratar de assunto pertinente às suas atribuições e competência.
+Art. 11.º Esgotada a matéria da ordem do dia, pode o presidente conceder a palavra a qualquer dos membros do senado para tratar de assunto pertinente às suas atribuições e competência.
 
-###### Art. 12.º Compete à presidência providenciar por que os oradores se não afastem da matéria em discussão nem abordem assuntos estranhos às atribuições e competência do órgão eu perturbem os trabalhos, podendo, em caso de necessidade, retirar a palavra aos que, depois de advertidos, persistirem no procedimento irregular.
+Art. 12.º Compete à presidência providenciar por que os oradores se não afastem da matéria em discussão nem abordem assuntos estranhos às atribuições e competência do órgão eu perturbem os trabalhos, podendo, em caso de necessidade, retirar a palavra aos que, depois de advertidos, persistirem no procedimento irregular.
 
-###### Art. 13.º - 1. De tudo o que ocorrer nas reuniões do senado se lavrará acta em livro especial, numerado e rubricado pelo reitor, que assinará os termos de abertura e encerramento.
+Art. 13.º - 1. De tudo o que ocorrer nas reuniões do senado se lavrará acta em livro especial, numerado e rubricado pelo reitor, que assinará os termos de abertura e encerramento.
 
 2. A acta será redigida e subscrita pelo secretário e submetida pelo presidente a aprovação do senado na reunião seguinte, posto o que será por ele assinada.
 
@@ -153,12 +153,12 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Qualquer membro do senado tem o direito de fazer constar da acta o seu voto e os motivos que o determinaram, contanto que estes tenham sido expressos durante a discussão e a votação não haja sido secreta.
 
-###### Art. 14.º As disposições deste decreto são aplicáveis ao conselho universitário da Universidade Técnica de Lisboa e, com as necessárias adaptações, em tudo quanto não esteja diversamente regulado, às assembleias gerais das Universidades e aos conselhos das Faculdades e escolas superiores.
+Art. 14.º As disposições deste decreto são aplicáveis ao conselho universitário da Universidade Técnica de Lisboa e, com as necessárias adaptações, em tudo quanto não esteja diversamente regulado, às assembleias gerais das Universidades e aos conselhos das Faculdades e escolas superiores.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 21 de Outubro de 1970.**
+Promulgado em 21 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

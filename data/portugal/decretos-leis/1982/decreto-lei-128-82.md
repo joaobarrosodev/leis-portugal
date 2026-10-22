@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09400/09810983.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1982-606557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e29ee11c60e371f455767207ecf389e293f84e0adbf597af3a1e8d481064580
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3dc165cb49ec93d612beb755bd221be9bbca89335460ed8b423663ac49daa8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Cobrança de Impostos
+- Código da Contribuição Industrial
+- Contribuição Industrial
+- Obrigações do Tesouro
+- Taxa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171525:por
+  label: "Alterados os arts. 66º, 100º e 101º do Código da Contribuição Industrial aprovado pelo Dec Lei 45103 de 17-Mar de\
+    \ 1963, com a redacção conferida no presente diploma, pelo DEC LEI.474/85.11.11.1985.MFP, DR.IS [259] de 11.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-1985-171525
+  date: '1985-11-11'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232737:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:52Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +131,9 @@ Usando da autorização legislativa concedida pelas alíneas b) e d) a j) do n.�
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 23.º, 37.º, 66.º, 80.º, 89.º, 93.º, 100.º, 101.º, 138.º e 140.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 23.º, 37.º, 66.º, 80.º, 89.º, 93.º, 100.º, 101.º, 138.º e 140.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 1.º ...
 
@@ -126,7 +153,7 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 § 2.º ...
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 a) ...
 
@@ -144,7 +171,7 @@ f) As reintegrações de viaturas ligeiras de passageiros na parte correspondent
 
 § 2.º ...
 
-###### Art. 66.º ...
+Art. 66.º ...
 
 a) ...
 
@@ -154,13 +181,13 @@ b) ...
 
 § 2.º Para efeitos da fixação dos lucros tributáveis dos contribuintes do grupo B sem contabilidade regularmente organizada e dos contribuintes do grupo C, será de tomar em conta como remuneração normal do trabalho do contribuinte e dos seus familiares não empregados ou assalariados importância não superior a 140000$00 anuais por cada um.
 
-###### Art. 80.º ...
+Art. 80.º ...
 
 a) 30% sobre a parte do rendimento colectável não superior a 3000000$00;
 
 b) 40% sobre a parte do rendimento colectável superior a 3000000$00.
 
-###### Art. 89.º ...
+Art. 89.º ...
 
 a) ...
 
@@ -168,11 +195,11 @@ b) ...
 
 § único. Se o contribuinte beneficiar de isenção ou redução de taxa relativamente a algum dos impostos referidos neste artigo, deduzir-se-á também quantia equivalente à importância do benefício, salvo tratando-se de qualquer das isenções dos n.os 1.º, 3.º, 6.º e 7.º do artigo 9.º e do n.º 9.º do artigo 10.º, ambos do Código do Imposto de Capitais.
 
-###### Art. 93.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerá o juro de 18% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 93.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerá o juro de 18% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. ...
 
-###### Art. 100.º ...
+Art. 100.º ...
 
 a) ...
 
@@ -186,7 +213,7 @@ d) Até 20 de Julho os relativos à contribuição industrial, grupo C.
 
 § 2.º ...
 
-###### Art. 101.º ...
+Art. 101.º ...
 
 a) ...
 
@@ -208,7 +235,7 @@ e) No caso de contribuição industrial do grupo C de montante igual ou superior
 
 § 5.º ...
 
-###### Art. 138.º ...
+Art. 138.º ...
 
 § 1.º ...
 
@@ -222,22 +249,22 @@ Recebidos os pareceres ou, na sua falta, decorrido que seja o prazo estabelecido
 
 § 5.º Quando o recurso for desatentido em mais de 25% do valor contestado, poderá o Ministro das Finanças e do Plano fixar, a título de custas, um agravamento à colecta da contribuição industrial a liquidar adicionalmente, graduado conforme as circunstâncias, mas nunca superior a 5%.
 
-###### Art. 140.º ...
+Art. 140.º ...
 
 § 1.º Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando paga a contribuição, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
 § 2.º ...
 
-###### Art. 2.º É fixada em 10% a taxa da contribuição industrial estabelecida no artigo 7.º do [Decreto-Lei n.º 503-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-b-1976-232737), de 30 de Junho.
+Art. 2.º É fixada em 10% a taxa da contribuição industrial estabelecida no artigo 7.º do [Decreto-Lei n.º 503-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-b-1976-232737), de 30 de Junho.
 
-###### Art. 3.º - 1 - As alterações introduzidas nos artigos 37.º, 66.º, 80.º, 100.º, 101.º e 138.º do Código da Contribuição Industrial, bem como a taxa a que se refere o artigo 2.º deste decreto-lei, são aplicáveis à liquidação da contribuição industrial relativa aos exercícios respeitantes aos anos de 1981 e seguintes, com excepção da contribuição industrial que respeita a cessações de actividade já liquidada à data da entrada em vigor deste diploma.
+Art. 3.º - 1 - As alterações introduzidas nos artigos 37.º, 66.º, 80.º, 100.º, 101.º e 138.º do Código da Contribuição Industrial, bem como a taxa a que se refere o artigo 2.º deste decreto-lei, são aplicáveis à liquidação da contribuição industrial relativa aos exercícios respeitantes aos anos de 1981 e seguintes, com excepção da contribuição industrial que respeita a cessações de actividade já liquidada à data da entrada em vigor deste diploma.
 
 2 - A alteração introduzida no artigo 23.º é aplicável aos rendimentos de títulos da dívida pública auferidos durante o exercício de 1981, mas apenas à parte desses rendimentos que exceda 20000 contos.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Abril de 1982.**
+Promulgado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

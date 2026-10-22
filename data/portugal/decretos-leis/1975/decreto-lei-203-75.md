@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08800/05720572.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1975-162078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15948bcca2f09e991a141e242cdf22826f213dee0738819478c946440b497c64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69c0f297d8d0a1a35e1704b31549e28f9fb0d54043e9157efb7953aec9f963a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Ministro da Educação e Cultura
+- Monitor
+- Recrutamento de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:50Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +103,20 @@ Tornando-se necessário adoptar algumas providências sobre a remuneração e o 
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os monitores serão remunerados por gratificação, de montante a fixar por despacho do Ministro da Educação e Cultura, ouvido o Ministro das Finanças, qualquer que seja o estabelecimento de ensino para que tiverem sido contratados.
+Artigo 1.º Os monitores serão remunerados por gratificação, de montante a fixar por despacho do Ministro da Educação e Cultura, ouvido o Ministro das Finanças, qualquer que seja o estabelecimento de ensino para que tiverem sido contratados.
 
-###### Art. 2.º Os monitores destinados às disciplinas do ciclo básico das Faculdades de Medicina poderão ser recrutados entre os alunos com aprovação na disciplina a que se destinam, ou, tratando-se de disciplinas integradas em grupo, entre alunos com aprovação em todas as disciplinas desse grupo.
+Art. 2.º Os monitores destinados às disciplinas do ciclo básico das Faculdades de Medicina poderão ser recrutados entre os alunos com aprovação na disciplina a que se destinam, ou, tratando-se de disciplinas integradas em grupo, entre alunos com aprovação em todas as disciplinas desse grupo.
 
-###### Art. 3.º Nas disciplinas de línguas vivas a contratação de monitores pode fazer-se independentemente das limitações constantes do artigo 8.º do Decreto n.º 132/70.
+Art. 3.º Nas disciplinas de línguas vivas a contratação de monitores pode fazer-se independentemente das limitações constantes do artigo 8.º do Decreto n.º 132/70.
 
-###### Art. 4.º É extensiva ao ensino superior não universitário a possibilidade de contratar monitores.
+Art. 4.º É extensiva ao ensino superior não universitário a possibilidade de contratar monitores.
 
-###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+Art. 5.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Manuel Rodrigues de Carvalho.
 
-**Promulgado em 2 de Abril de 1975.**
+Promulgado em 2 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

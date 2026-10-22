@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 150/1981, 1º Suplemento, Série I de 1981-07-03
   number: '150'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1574-(3) a 1574-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15001/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-c-1981-669091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc3c7141c4110df02cee8d96e17828246d3ea68d503f005b56c5ac09a805bfdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2841642617fb323beedee7a9e5954fe41d705bbeee7bb99f915168433b3f0acd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Cortiça
+- Exploração Agrícola
+- Montado de Sobro
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375234:por
+  label: "Dada nova redacção ao presente diploma, pela LEI.26/82.1982.09.23.AR DR.IS [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-1982-375234
+  date: '1982-09-23'
+- type: cites
+  target: pt:dre:250387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179847:por
+  label: Revogado pelo(a) Decreto-Lei n.º 312/85 - Diário da República n.º 174/1985, Série I de 1985-07-31, sem prejuízo do
+    disposto no art 11.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-1985-179847
+  date: '1985-07-31'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO DEC LEI 312/85 DE 31-JUL DR.IS [174]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-07-31'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:20Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +152,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Ficam sujeitos à disciplina do presente diploma os órgãos e departamentos do Estado e as entidades singulares ou colectivas, gestores em nome próprio ou por conta alheia de explorações agrícolas com montado de sobro situadas em prédios rústicos abrangidos pelas medidas previstas na [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, no tocante às operações de extracção, comercialização e transporte de cortiça amadia, bem como a todas as demais operações inerentes à cultura suberícola.
+Artigo 1.º - 1 - Ficam sujeitos à disciplina do presente diploma os órgãos e departamentos do Estado e as entidades singulares ou colectivas, gestores em nome próprio ou por conta alheia de explorações agrícolas com montado de sobro situadas em prédios rústicos abrangidos pelas medidas previstas na [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, no tocante às operações de extracção, comercialização e transporte de cortiça amadia, bem como a todas as demais operações inerentes à cultura suberícola.
 
 2 - O presente diploma não se aplica a prédios que correspondam a áreas de reserva entregues à data do cumprimento do contrato de comercialização da cortiça, independentemente de terem sido observadas as normas aqui prescritas.
 
 3 - O disposto no número anterior implica a extinção das obrigações decorrentes do contrato, ficando o comprador investido no direito de exigir a restituição dos pagamentos efectuados nos termos da alínea c) do artigo 4.º do presente diploma.
 
-###### Art. 2.º - 1 - As entidades referidas no artigo anterior ficam sujeitas às seguintes obrigações:
+Art. 2.º - 1 - As entidades referidas no artigo anterior ficam sujeitas às seguintes obrigações:
 
 a) Cumprir as directrizes dos serviços competentes do Ministério da Agricultura e Pescas relativamente a todas as operações culturais e de exploração dos montados de sobro;
 
@@ -123,9 +170,9 @@ c) Não efectuar nem permitir que se efectue o levantamento de quaisquer quantid
 
 3 - A falta de envio da declaração de previsão de extracção no prazo legal é punida com multa de 500$00 a 5000$00, se a falta se verificar pela primeira vez, e com a multa de 5000$00 a 10000$00, no caso de a falta se verificar pela segunda ou mais vezes, não sendo aplicável a cada entidade mais que uma multa por ano por infracção desta natureza.
 
-###### Art. 3.º As aquisições de cortiça compreendidas no âmbito deste decreto-lei serão precedidas de concursos públicos, a abrir pelo Instituto de Gestão e Estruturação Fundiária, devendo ser fixados por portaria do Ministro da Agricultura e Pescas as normas e regulamentos desses concursos, bem como as regras relativas ao formalismo dos respectivos processos.
+Art. 3.º As aquisições de cortiça compreendidas no âmbito deste decreto-lei serão precedidas de concursos públicos, a abrir pelo Instituto de Gestão e Estruturação Fundiária, devendo ser fixados por portaria do Ministro da Agricultura e Pescas as normas e regulamentos desses concursos, bem como as regras relativas ao formalismo dos respectivos processos.
 
-###### Art. 4.º Os adquirentes de cortiça amadia ficam sujeitos às seguintes obrigações:
+Art. 4.º Os adquirentes de cortiça amadia ficam sujeitos às seguintes obrigações:
 
 a) Celebrar o contrato de compra e venda de cortiça amadia nos termos que vierem a ser fixados de acordo com o artigo 3.º;
 
@@ -135,7 +182,7 @@ c) Proceder aos pagamentos contratualmente acordados, por depósito na Caixa Ger
 
 d) Só levantar a cortiça amadia que corresponda às autorizações emitidas pelo Instituto de Gestão e Estruturação Fundiária.
 
-###### Art. 5.º - 1 - Do produto da venda da cortiça amadia a que se referem os artigos anteriores retirar-se-ão as importâncias correspondentes à liquidação dos encargos com:
+Art. 5.º - 1 - Do produto da venda da cortiça amadia a que se referem os artigos anteriores retirar-se-ão as importâncias correspondentes à liquidação dos encargos com:
 
 a) Operações de extracção e empilhamento da cortiça;
 
@@ -157,7 +204,7 @@ b) Cobertura de:
 
 5 - Compete aos Ministros da Agricultura e Pescas, da Indústria e Energia e do Comércio e Turismo fixar anualmente por despacho conjunto as percentagens destinadas à cobertura das despesas referidas na subalínea 2) da alínea b) do n.º 2.
 
-###### Art. 6.º - 1 - Ao Instituto de Gestão e Estruturação Fundiária cabe:
+Art. 6.º - 1 - Ao Instituto de Gestão e Estruturação Fundiária cabe:
 
 a) Proceder, de acordo com o artigo 3.º à venda de cortiça amadia, bocados incluídos, provenientes dos montados de sobro das explorações agrícolas situadas nos prédios rústicos referidos no artigo 1.º;
 
@@ -177,7 +224,7 @@ g) Efectuar, para cada contrato, a distribuição das verbas a que se refere o a
 
 3 - Se existirem reservas demarcadas, pedidos de reserva ou propostas de declaração de não expropriabilidade, deverá a quantia referida no número anterior ser entregue aos interessados a partir do momento da entrega da área de reserva ou da desocupação dos prédios em causa, comprovada pela competente direcção regional de agricultura.
 
-###### Art. 7.º - 1 - À Direcção-Geral do Ordenamento e Gestão Florestal compete organizar o Corpo de Assistência Técnica e de Fiscalização com funcionários do seu quadro de pessoal, responsabilizando-se pela sua eficiente actuação, por forma a cumprir as funções que lhe são cometidas neste diploma.
+Art. 7.º - 1 - À Direcção-Geral do Ordenamento e Gestão Florestal compete organizar o Corpo de Assistência Técnica e de Fiscalização com funcionários do seu quadro de pessoal, responsabilizando-se pela sua eficiente actuação, por forma a cumprir as funções que lhe são cometidas neste diploma.
 
 2 - Ao Corpo de Assistência Técnica e de Fiscalização compete:
 
@@ -191,32 +238,32 @@ d) Exigir às entidades referidas no artigo 1.º deste diploma prova do envio da
 
 e) Levantar autos de notícia relativos às infracções do disposto neste diploma.
 
-###### Art. 8.º - 1 - É proibido o levantamento e transporte de cortiça amadia dos prédios rústicos citados no artigo 1.º sem emissão prévia da autorização pelo Instituto de Gestão e Estruturação Fundiária.
+Art. 8.º - 1 - É proibido o levantamento e transporte de cortiça amadia dos prédios rústicos citados no artigo 1.º sem emissão prévia da autorização pelo Instituto de Gestão e Estruturação Fundiária.
 
 2 - A autorização a que se refere o número anterior deverá ser apresentada pelo adquirente à entidade a que se refere o artigo 1.º, sendo aquela datada e assinada por qualquer dos seus representantes legais antes que se permita o levantamento do montante de cortiça amadia mencionado na autorização.
 
 3 - O adquirente deverá devolver ao Instituto de Gestão e Estruturação Fundiária as autorizações já utilizadas, no prazo de cinco dias, contado a partir da data da sua utilização, sem o que não lhe serão concedidas novas autorizações, independentemente dos depósitos já efectuados.
 
-###### Art. 9.º - 1 - As infracções do disposto no presente diploma constituem contravenção punível com a pena de multa de 1000$00 a 10000$00.
+Art. 9.º - 1 - As infracções do disposto no presente diploma constituem contravenção punível com a pena de multa de 1000$00 a 10000$00.
 
 2 - Os autos de notícia a que se refere a alínea e) do n.º 2 do artigo 7.º serão apreciados pelo Instituto de Gestão e Estruturação Fundiária, competindo-lhe graduar a multa de acordo com o disposto no artigo 553.º do Código do Processo Penal e notificar os transgressores, por carta registada com aviso de recepção, para procederem ao pagamento das multas, querendo, no prazo de quinze dias, contado a partir da data de assinatura do aviso de recepção.
 
 3 - Decorrido o prazo de pagamento voluntário, se este não for efectuado, o Instituto de Gestão e Estruturação Fundiária remeterá o processo ao tribunal competente.
 
-###### Art. 10.º O produto das multas reverterá integralmente para o Estado.
+Art. 10.º O produto das multas reverterá integralmente para o Estado.
 
-###### Art. 11.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 11.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 12.º - 1 - Os contratos de comercialização da cortiça amadia das campanhas corticeiras de 1977, 1978, 1979 e 1980 serão tratados de acordo com o disposto nos Decretos-Leis n.os [260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387), de 21 de Junho, [98/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1980-299002) e [99/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1980-298999), de 5 de Maio.
+Art. 12.º - 1 - Os contratos de comercialização da cortiça amadia das campanhas corticeiras de 1977, 1978, 1979 e 1980 serão tratados de acordo com o disposto nos Decretos-Leis n.os [260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387), de 21 de Junho, [98/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1980-299002) e [99/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1980-298999), de 5 de Maio.
 
 2 - Por despacho conjunto dos Ministros das Finanças e do Plano, da Agricultura e Pescas e do Comércio e Turismo serão atribuídas ao Instituto de Gestão e Estruturação Fundiária as atribuições e competências que nos termos do número anterior eram cometidas ao Instituto dos Produtos Florestais relativamente aos processos das campanhas de 1977 a 1980 em que se reconheça vantagem na respectiva transferência.
 
-###### Art. 13.º Sem prejuízo do disposto no artigo anterior, são revogados os Decretos-Leis n.os [98/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1980-299002) e [99/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1980-298999), de 5 de Maio.
+Art. 13.º Sem prejuízo do disposto no artigo anterior, são revogados os Decretos-Leis n.os [98/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1980-299002) e [99/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1980-298999), de 5 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 2 de Julho de 1981.**
+Promulgado em 2 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

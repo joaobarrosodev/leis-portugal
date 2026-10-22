@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27000/14071408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/640-1974-466046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1fd9c2ef17564345baceb9f97225e967da20a9408cbfe736d0e2c3c91b6f018
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e59b6934735a6b528b409e1cecd17dfdaf591e2d4c7f23b629699d30d2e8d122
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada a não vigência do presente diploma pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS [115] de 16.06.2011, nos\
+    \ termos do seu art. 1.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:275266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:53Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +107,9 @@ de 20 de Novembro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 33.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passa a ter a redacção seguinte:
+Artigo 1.º O artigo 33.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passa a ter a redacção seguinte:
 
-###### Art. 33.º ...
+Art. 33.º ...
 
 § 1.º (Igual ao § único.)
 
@@ -101,18 +117,18 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 § 3.º O quadro do serviço diplomático considerar-se-á aumentado de tantos lugares de embaixador quantos os embaixadores escolhidos pelo Conselho de Ministros, nos termos do § 1.º deste artigo.
 
-###### Art. 2.º - 1. O quadro do pessoal especializado do Ministério dos Negócios Estrangeiros é aumentado de dezasseis unidades, sendo quatro de conselheiros de imprensa, quatro de adidos de imprensa e oito de conselheiros sociais.
+Art. 2.º - 1. O quadro do pessoal especializado do Ministério dos Negócios Estrangeiros é aumentado de dezasseis unidades, sendo quatro de conselheiros de imprensa, quatro de adidos de imprensa e oito de conselheiros sociais.
 
 2. No ano económico em curso os abonos de representação a atribuir aos funcionários referidos no número anterior serão fixados por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
 
-###### Art. 3.º Até à realização das necessárias alterações orçamentais, os encargos decorrentes do presente diploma serão satisfeitos de conta das disponibilidades das dotações inscritas para pessoal no orçamento do Ministério dos Negócios Estrangeiros.
+Art. 3.º Até à realização das necessárias alterações orçamentais, os encargos decorrentes do presente diploma serão satisfeitos de conta das disponibilidades das dotações inscritas para pessoal no orçamento do Ministério dos Negócios Estrangeiros.
 
-###### Art. 4.º Fica revogado o [Decreto-Lei n.º 1/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1970-275266), de 2 de Janeiro.
+Art. 4.º Fica revogado o [Decreto-Lei n.º 1/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1970-275266), de 2 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Soares.
 
-**Promulgado em 13 de Novembro de 1974.**
+Promulgado em 13 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

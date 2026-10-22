@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1973-684796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1624349f97b2393f7411a7ee6f2668df33dfa2ea270408e1d6c5969c806b3d0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5ff7b12a60a996f8e46a7db3047b76f879b8e518feceeea20915d2be1fdba18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Interpretação do Direito
+- Nomeação
+- Pessoal Assalariado
+- Pessoal Civil
+- Pessoal Contratado
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684271:por
+  label: "Rectificado o art. 2º pela RECT.DD320.14.03.1973.PC, DG.IS [62] de 14.03.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-684271
+  date: '1973-03-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:18Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +105,18 @@ Mostrando-se conveniente esclarecer dúvidas suscitadas na interpretação do [D
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os ordenados previstos para as categorias constantes do mapa do pessoal civil dos ministérios civis e do mapa do pessoal civil dos departamentos militares, anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, respeitam apenas a servidores providos mediante nomeação ou contrato.
+Artigo 1.º Os ordenados previstos para as categorias constantes do mapa do pessoal civil dos ministérios civis e do mapa do pessoal civil dos departamentos militares, anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, respeitam apenas a servidores providos mediante nomeação ou contrato.
 
-###### Art. 2.º O disposto nos artigos 34.º e 47.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) não obsta a que sejam providos por assalariamento servidores de algumas das categorias referidas no número anterior, desde que a seu respeito as leis orgânicas dos serviços expressamente prevejam essa forma de provimento, ficando em tais casos a fixação e actualização dos respectivos salários sujeitas às regras definidas no mesmo diploma para o pessoal assalariado.
+Art. 2.º O disposto nos artigos 34.º e 47.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) não obsta a que sejam providos por assalariamento servidores de algumas das categorias referidas no número anterior, desde que a seu respeito as leis orgânicas dos serviços expressamente prevejam essa forma de provimento, ficando em tais casos a fixação e actualização dos respectivos salários sujeitas às regras definidas no mesmo diploma para o pessoal assalariado.
 
-###### Art. 3.º Este decreto-lei tem carácter interpretativo.
+Art. 3.º Este decreto-lei tem carácter interpretativo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 16 de Fevereiro de 1973.**
+Promulgado em 16 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

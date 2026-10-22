@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/429-1971-632923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27fdd6c3e6c1153bb894e7ff642a38b68c69e7d74396aabe043dbb26e18df0eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc919d28b59749604ed5b09b00eb2909a463aad825130d13a2109e711448fcf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:31Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +113,7 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério das Obras Públicas, créditos especiais no montante de 10709782$80, destinados a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério das Obras Públicas, créditos especiais no montante de 10709782$80, destinados a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
 
 ### CAPÍTULO 11.º-A — Direcção-Geral das Construções Hospitalares
 
@@ -97,13 +121,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Despesas com o pessoal:
 
-###### Artigo 111.º-A «Remunerações certas ao pessoal em exercício»:
+Artigo 111.º-A «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante seis meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/23900/15241526.pdf))](https://files.diariodarepublica.pt/1s/1971/10/23900/15241526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/23900/15241526.pdf)
 
 N.º 2) «Pessoal contratado não pertencente aos quadros» ... 250000$0
 
@@ -113,11 +137,11 @@ Gratificações aos vogais não funcionários da Direcção-Geral das Construç�
 
 N.º 4) «Pessoal assalariado» ... 150000$00
 
-###### Artigo 111.º-B «Remunerações acidentais»:
+Artigo 111.º-B «Remunerações acidentais»:
 
 N.º 1) «Remunerações por horas extraordinárias» ... 50000$00
 
-###### Artigo 111.º-C «Outras despesas com o pessoal»:
+Artigo 111.º-C «Outras despesas com o pessoal»:
 
 N.º 1) «Ajudas de custo» ... 200000$00
 
@@ -131,7 +155,7 @@ N.º 3) «Fardamentos, resguardos e calçado» ... 40000$00
 
 Despesas com o material:
 
-###### Artigo 111-D «Construções e obras novas»:
+Artigo 111-D «Construções e obras novas»:
 
 N.º 1) «Para pagamento de todas as despesas relativas a estudos e projectos de construções não especialmente datadas» ... (ver nota b) (ver nota c) 500000$00 N.º 2) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal»:
 
@@ -139,11 +163,11 @@ Alínea 1 «Hospitais de Lisboa» ... (ver nota d) 471982$80
 
 ... 971982$80
 
-###### Artigo 111.º-E «Aquisições de utilização permanente»:
+Artigo 111.º-E «Aquisições de utilização permanente»:
 
 N.º 1) «Móveis» ... (ver nota b) 500000$00
 
-###### Artigo 111.º-F «Despesas de conservação e aproveitamento do material»:
+Artigo 111.º-F «Despesas de conservação e aproveitamento do material»:
 
 Despesas a efectuar com a conservação, reparação e melhoramentos ou restauro:
 
@@ -159,7 +183,7 @@ N.º 3) «De móveis» ... 20000$00
 
 ... (ver nota b) 170000$00
 
-###### Artigo 111.º-G «Material de consumo corrente»:
+Artigo 111.º-G «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 30000$00
 
@@ -171,11 +195,11 @@ N.º 2) «Artigos de expediente e diverso material não especificado» ... 40000
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 111.º-H «Despesas de higiene, saúde e conforto»:
+Artigo 111.º-H «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Luz, aquecimento, água, lavagem e limpeza» ... 100000$00
 
-###### Artigo 111.º-I «Despesas de comunicações»:
+Artigo 111.º-I «Despesas de comunicações»:
 
 N.º 1) «Correios e telégrafos» ... 20000$00
 
@@ -185,11 +209,11 @@ N.º 3) «Transportes» ... 100000$00
 
 ... 270000$00
 
-###### Artigo 111.º-J «Encargos das instalações»:
+Artigo 111.º-J «Encargos das instalações»:
 
 N.º 1) «Rendas de casa» ... 550000$00
 
-###### Artigo 111.º-L «Encargos administrativos»:
+Artigo 111.º-L «Encargos administrativos»:
 
 N.º 1) «Publicidade e propaganda, incluindo a publicação do Boletim»: ... 25000$00
 
@@ -207,7 +231,7 @@ N.º 3) «Abono de família» ... 15000$00
 
 ... 110000$00
 
-###### Artigo 111.º-M «Outros encargos»:
+Artigo 111.º-M «Outros encargos»:
 
 N.º 1) «Para pagamento de encargos com missões de estudo no ultramar, estágios e participação em congressos no estrangeiro» ... 20000$00
 
@@ -221,11 +245,11 @@ N.º 1) «Para pagamento de encargos com missões de estudo no ultramar, estági
 
 (nota d) Verba sujeita a duplo cabimento.
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas:
 
-### Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 471982$80
+Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 471982$80
 
-### Capítulo 7.º, artigo 180.º-A «Reembolso, pelo Fundo de Desemprego, das despesas com a Direcção-Geral das Construções Hospitalares» ... 10237800$00
+Capítulo 7.º, artigo 180.º-A «Reembolso, pelo Fundo de Desemprego, das despesas com a Direcção-Geral das Construções Hospitalares» ... 10237800$00
 
 ... 10709782$80
 
@@ -233,8 +257,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 23 de Setembro de 1971.**
+Promulgado em 23 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

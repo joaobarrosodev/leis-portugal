@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14100/14441446.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1981-578303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77408fc8b439e96e35ddb82bcaa9d270c4721ddf55ac9cffde4501dcf7e71c4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a7be73d6416c63effeec7b762ff671700f2b4f5a8aabd078361fe5a0bafac61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estado Maior da Força Aérea
+- Força Aérea
+- Quadro Permanente da Força Aérea
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:170480:por
+  label: "Suspensa temporariamente a aplicação das condições estabelecidas na al. b) do n.º 1 do art. 27.º e na al. b) do\
+    \ n.º 1 do art. 28.º-B do Dec Lei 134/78, de 06-Jun, na redacção do presente diploma, pelo DEC LEI.489/85.26.11.1985.MDN,\
+    \ DR.IS [272] de 26.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/489-1985-170480
+  date: '1985-11-26'
+- type: cites
+  target: pt:dre:294745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:00Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +129,11 @@ Considerando a necessidade de conciliar as disposições relativas à carreira d
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. As disposições do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho, abaixo mencionadas passam a ter a seguinte redacção:
+Artigo único. As disposições do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho, abaixo mencionadas passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 18.º - 1 - São condições especiais de promoção aos diferentes postos, além da posse dos níveis de qualificação e de responsabilidade indicados no artigo 11.º, as seguintes:
+Art. 18.º - 1 - São condições especiais de promoção aos diferentes postos, além da posse dos níveis de qualificação e de responsabilidade indicados no artigo 11.º, as seguintes:
 
 a) ...
 
@@ -139,7 +171,7 @@ f) ...
 
 ...
 
-###### Art. 21.º - 1 - Nas promoções dos sargentos aos diferentes postos são utilizadas as modalidades de promoção a seguir indicadas:
+Art. 21.º - 1 - Nas promoções dos sargentos aos diferentes postos são utilizadas as modalidades de promoção a seguir indicadas:
 
 a) Escolha - nas promoções a sargento-chefe e a sargento-mor, com ressalva do disposto no n.º 2;
 
@@ -157,11 +189,11 @@ d) ...
 
 ...
 
-###### Art. 26.º - 1 - O curso de qualificação e promoção a sargento-ajudante visará proporcionar a todos os primeiros-sargentos a aquisição das capacidades de supervisão e de execução técnica da especialidade definidas pelos níveis de qualificação e responsabilidade atribuídos ao posto de sargento-ajudante.
+Art. 26.º - 1 - O curso de qualificação e promoção a sargento-ajudante visará proporcionar a todos os primeiros-sargentos a aquisição das capacidades de supervisão e de execução técnica da especialidade definidas pelos níveis de qualificação e responsabilidade atribuídos ao posto de sargento-ajudante.
 
 2 - O curso referido no n.º 1 é, simultaneamente, condição de acesso ao nível de qualificação avançada da especialidade e de promoção a sargento-ajudante.
 
-###### Art. 27.º - 1 - Podem ser admitidos ao curso de qualificação e promoção a sargento-ajudante, segundo critério a definir pelo Chefe do Estado-Maior da Força Aérea (CEMFA), os primeiros-sargentos que satisfaçam as seguintes condições:
+Art. 27.º - 1 - Podem ser admitidos ao curso de qualificação e promoção a sargento-ajudante, segundo critério a definir pelo Chefe do Estado-Maior da Força Aérea (CEMFA), os primeiros-sargentos que satisfaçam as seguintes condições:
 
 a) ...
 
@@ -171,7 +203,7 @@ c) ...
 
 2 - A nomeação para o curso referido no número anterior é feita por antiguidade, pelo Subchefe do Estado-Maior da Força Aérea para o pessoal (SCEMFA/Pes), tendo em conta o plano de qualificação elaborado nos termos do artigo 29.º e o disposto no artigo 35.º
 
-###### Art. 28.º - 1 - Salvo o disposto no n.º 2, serão excluídos definitivamente da nomeação a que se refere o n.º 2 do artigo 27.º os primeiros-sargentos que:
+Art. 28.º - 1 - Salvo o disposto no n.º 2, serão excluídos definitivamente da nomeação a que se refere o n.º 2 do artigo 27.º os primeiros-sargentos que:
 
 a) ...
 
@@ -181,11 +213,11 @@ c) ...
 
 2 - Os primeiros-sargentos anteriormente abrangidos pela exclusão definitiva da nomeação para a frequência do curso de promoção a sargento-ajudante (CPS) a que se referia o artigo 28.º agora alterado podem candidatar-se à frequência do CQPSA.
 
-###### Art. 28.º-A - 1 - O curso de qualificação e promoção a sargento-chefe (CQPSC) visará, primordialmente, proporcionar aos sargentos-ajudantes a aquisição das capacidades de supervisão e de gestão definidas pelos níveis de qualificação e responsabilidade atribuídos aos postos de sargento-chefe e sargento-mor.
+Art. 28.º-A - 1 - O curso de qualificação e promoção a sargento-chefe (CQPSC) visará, primordialmente, proporcionar aos sargentos-ajudantes a aquisição das capacidades de supervisão e de gestão definidas pelos níveis de qualificação e responsabilidade atribuídos aos postos de sargento-chefe e sargento-mor.
 
 2 - O curso referido no n.º 1 é, simultaneamente, condição de acesso ao nível de responsabilidade de chefia da especialidade e de promoção a sargento-chefe.
 
-###### Art. 28.º-B - 1 - Podem ser admitidos ao curso de qualificação e promoção a sargento-chefe (CQPSC), segundo critério a definir pelo Chefe do Estado-Maior da Força Aérea, os sargentos-ajudantes que satisfaçam as seguintes condições:
+Art. 28.º-B - 1 - Podem ser admitidos ao curso de qualificação e promoção a sargento-chefe (CQPSC), segundo critério a definir pelo Chefe do Estado-Maior da Força Aérea, os sargentos-ajudantes que satisfaçam as seguintes condições:
 
 a) Possuir boas qualidades militares, intelectuais e morais, atestadas pelo comandante ou chefe da unidade ou órgão em que estiver colocado;
 
@@ -195,7 +227,7 @@ c) Ter, no mínimo, um ano de serviço como sargento-ajudante.
 
 2 - A nomeação para o curso referido no número anterior é feita por antiguidade pelo Subchefe do Estado-Maior da Força Aérea para o pessoal, mediante parecer da comissão técnica da Força Aérea (CTFA) homologado pelo Chefe do Estado-Maior da Força Aérea, de entre os sargentos-ajudantes que tiverem apresentado declaração em como desejam frequentá-lo.
 
-###### Art. 28.º-C - Serão excluídos definitivamente da nomeação a que se refere o n.º 2 do artigo 28.º-B os sargentos-ajudantes que:
+Art. 28.º-C - Serão excluídos definitivamente da nomeação a que se refere o n.º 2 do artigo 28.º-B os sargentos-ajudantes que:
 
 a) Após terem sido nomeados desistam duas vezes do ingresso no curso;
 
@@ -207,9 +239,9 @@ d) Tenham optado, em anos anteriores, pela frequência do curso de formação de
 
 e) Tenham sido excluídos definitivamente da nomeação para o CPSA, nas condições então estabelecidas no artigo 28.º em relação aos cursos realizados entre 1977 e 1981.
 
-###### Art. 29.º Os cursos de qualificação serão frequentados pelos sargentos dos QP sempre que seja julgado conveniente e necessário para manutenção ou alteração dos níveis de qualificação a que se refere o artigo 11.º
+Art. 29.º Os cursos de qualificação serão frequentados pelos sargentos dos QP sempre que seja julgado conveniente e necessário para manutenção ou alteração dos níveis de qualificação a que se refere o artigo 11.º
 
-###### Art. 32.º - 1 - As condições de admissão aos cursos de formação de oficiais dos QP são as seguintes:
+Art. 32.º - 1 - As condições de admissão aos cursos de formação de oficiais dos QP são as seguintes:
 
 a) ...
 
@@ -227,7 +259,7 @@ b) ...
 
 4 - ...
 
-###### Art. 33.º São excluídos da nomeação para os cursos de formação de oficiais dos QP a que se refere a alínea b) do n.º 1 do artigo 32.º os sargentos que:
+Art. 33.º São excluídos da nomeação para os cursos de formação de oficiais dos QP a que se refere a alínea b) do n.º 1 do artigo 32.º os sargentos que:
 
 a) ...
 
@@ -237,7 +269,7 @@ c) ...
 
 d) Tenham optado em anos anteriores pela frequência do CQPSC ou pelo CPSA realizado entre 1977 e 1981 e sido nomeados, mesmo que não tenham iniciado ou concluído esse curso, salvo se tal houver ocorrido por razões de serviço ou de saúde, justificadas pela junta de saúde da Força Aérea.
 
-###### Art. 36.º
+Art. 36.º
 
 ...
 
@@ -261,8 +293,8 @@ i) No que concerne à carreira dos sargentos músicos, as disposições do prese
 
 Visto e aprovado em Conselho da Revolução em 27 de Maio de 1981.
 
-**Promulgado em 3 de Junho de 1981.**
+Promulgado em 3 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

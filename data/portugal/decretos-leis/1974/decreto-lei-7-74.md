@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/01/01000/00340039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1974-408349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99aaa93401ee70e7043184120a6d457ab371911a32d844515402d2c47d6ad017
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41e8e084d81c37f79e11b6a59b759ba4234e9d9adf6991a8b5e17b693f20ae92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AGA
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:448494:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:560234:por
+  label: "Determinada a transição para a Direcção-Geral da Fiscalização Económica (DGFE) das competências em matéria de fiscalização\
+    \ preventiva e repressiva de infracções antieconómicas e contra a saúde pública detidas pela Administração-Geral do Açúcar\
+    \ e do Álcool, cujas atribuições constam do Estatuto aprovado e publicado no presente diploma, pelo DEC LEI.329-D/74.10.07.1974.MCE,\
+    \ DG.IS [159-3ºSupl] de 10.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-d-1974-560234
+  date: '1974-07-10'
+- type: cites
+  target: pt:dre:141252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477364:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448494:por
+  label: "Revogado pelo DEC LEI.33/78.1978.02.14.MCT, DR.IS [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1978-448494
+  date: '1978-02-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:32Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +147,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O estatuto da empresa pública Administração-Geral do Açúcar e do Álcool (A. G. A.) passa a ser o que consta em anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º O estatuto da empresa pública Administração-Geral do Açúcar e do Álcool (A. G. A.) passa a ser o que consta em anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º A partir da entrada em vigor do presente diploma, é cometida à A. G. A. a execução do disposto no § 4.º do artigo 10.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363), de 24 de Novembro de 1966, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 354/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1970-141252), de 28 de Julho, na parte que se refere ao Grémio dos Armazenistas de Mercearia.
+Art. 2.º A partir da entrada em vigor do presente diploma, é cometida à A. G. A. a execução do disposto no § 4.º do artigo 10.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363), de 24 de Novembro de 1966, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 354/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1970-141252), de 28 de Julho, na parte que se refere ao Grémio dos Armazenistas de Mercearia.
 
-###### Art. 3.º As dúvidas que se suscitarem na aplicação do estatuto da A. G. A. serão resolvidas por portaria do Ministro da Economia.
+Art. 3.º As dúvidas que se suscitarem na aplicação do estatuto da A. G. A. serão resolvidas por portaria do Ministro da Economia.
 
-###### Art. 4.º Ficam revogados por este diploma os Decretos-Leis n.os 48332 e 425/72, respectivamente de 15 de Abril de 1968 e 31 de Outubro.
+Art. 4.º Ficam revogados por este diploma os Decretos-Leis n.os 48332 e 425/72, respectivamente de 15 de Abril de 1968 e 31 de Outubro.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 4 de Janeiro de 1974.**
+Promulgado em 4 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ESTATUTO DA ADMINISTRAÇÃO-GERAL DO AÇÚCAR E DO ÁLCOOL
 
@@ -122,11 +169,11 @@ I
 
 Denominação, sede e atribuições
 
-###### Artigo 1.º - 1. A Administração-Geral do Açúcar e do Álcool (A. G. A.) é uma pessoa jurídica de direito público, dotada de autonomia administrativa e financeira, que tem por atribuições orientar, coordenar e fiscalizar a produção e comércio do açúcar, bem como das aguardentes de origem não vínica, dos licores e de outras bebidas espirituosas e exercer o exclusivo da produção e distribuição do álcool, fiscalizando a sua comercialização e destino.
+Artigo 1.º - 1. A Administração-Geral do Açúcar e do Álcool (A. G. A.) é uma pessoa jurídica de direito público, dotada de autonomia administrativa e financeira, que tem por atribuições orientar, coordenar e fiscalizar a produção e comércio do açúcar, bem como das aguardentes de origem não vínica, dos licores e de outras bebidas espirituosas e exercer o exclusivo da produção e distribuição do álcool, fiscalizando a sua comercialização e destino.
 
 2. A A. G. A. tem a sede em Lisboa e a sua acção exerce-se em todo o território do continente e ilhas adjacentes.
 
-###### Art. 2.º - 1. Para o desempenho das suas atribuições, compete, em especial, à A. G. A.:
+Art. 2.º - 1. Para o desempenho das suas atribuições, compete, em especial, à A. G. A.:
 
 1.º Orientar e fiscalizar a produção, o comércio e o destino dos produtos abrangidos pelas suas atribuições;
 
@@ -166,7 +213,7 @@ Denominação, sede e atribuições
 
 2. A A. G. A. deverá, dentro do âmbito das suas atribuições, promover o estudo dos problemas económicos e técnicos suscitados pela produção, comércio e consumo dos produtos abrangidos na sua actividade e respectivas matérias-primas e propor as providências que considere convenientes.
 
-###### Art. 3.º - 1. O exclusivo da A. G. A. referido no artigo 1.º compreende a aquisição por qualquer forma ou a requisição de todas as matérias-primas legalmente destinadas à produção de álcool, o ciclo de produção deste e a sua distribuição aos industriais utilizadores e aos retalhistas.
+Art. 3.º - 1. O exclusivo da A. G. A. referido no artigo 1.º compreende a aquisição por qualquer forma ou a requisição de todas as matérias-primas legalmente destinadas à produção de álcool, o ciclo de produção deste e a sua distribuição aos industriais utilizadores e aos retalhistas.
 
 2. São vedadas a quaisquer outras entidades a detenção, laboração e comércio das matérias-primas a que se refere o número anterior, de aguardentes destinadas ao fabrico de álcool e dos álcoois, desde que os factos se não produzam nos termos do presente diploma.
 
@@ -178,7 +225,7 @@ II
 
 Órgãos
 
-###### Art. 4.º - 1. São órgãos da A. G. A.:
+Art. 4.º - 1. São órgãos da A. G. A.:
 
 a) O conselho de administração;
 
@@ -190,7 +237,7 @@ d) O conselho geral.
 
 2. O Ministro da Economia exerce sobre a. A. G. A. poderes de inspecção e os demais conferidos por lei.
 
-###### Art. 5.º - 1. O conselho de administração será nomeado pelo Ministro da Economia e terá a seguinte composição:
+Art. 5.º - 1. O conselho de administração será nomeado pelo Ministro da Economia e terá a seguinte composição:
 
 a) O administrador-geral, que presidirá;
 
@@ -214,7 +261,7 @@ h) Dois vogais membros da direcção.
 
 4. As entidades representadas no conselho de administração designarão, pelo mesmo modo por que forem designados os vogais, outros tantos suplentes, que serão chamados a substituí-los nas suas faltas e impedimentos.
 
-###### Art. 6.º - 1. Compete ao conselho de administração:
+Art. 6.º - 1. Compete ao conselho de administração:
 
 a) Discutir e votar a proposta do orçamento anual apresentada pela direcção;
 
@@ -236,7 +283,7 @@ i) Autorizar os empréstimos a contrair em estabelecimentos bancários;
 
 j) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pela direcção.
 
-###### Art. 7.º - 1. O conselho de administração reunirá sempre que for convocado pelo presidente, por sua iniciativa ou por solicitação de qualquer vogal.
+Art. 7.º - 1. O conselho de administração reunirá sempre que for convocado pelo presidente, por sua iniciativa ou por solicitação de qualquer vogal.
 
 2. As reuniões poderão celebrar-se desde que estejam presentes o presidente e cinco vogais.
 
@@ -244,7 +291,7 @@ j) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pela direcçã
 
 4. No caso de o presidente considerar certa deliberação nociva ao interesse público, suspendê-la-á para a submeter, no prazo de quarenta e oito horas, à apreciação do Ministro da Economia, que manterá ou não a sua suspensão.
 
-###### Art. 8.º - 1. A direcção é composta pelo administrador-geral e por dois administradores livremente nomeados pelo Ministro da Economia por períodos de cinco anos, renováveis.
+Art. 8.º - 1. A direcção é composta pelo administrador-geral e por dois administradores livremente nomeados pelo Ministro da Economia por períodos de cinco anos, renováveis.
 
 2. Os lugares referidos no número anterior podem ser providos por funcionários do Estado, dos seus institutos públicos e das autarquias locais, aplicando-se-lhes nesse caso o disposto nos §§ 1.º e 2.º do artigo 14.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936.
 
@@ -282,13 +329,13 @@ f) Delegar nos administradores, permanente ou temporariamente, qualquer dos seus
 
 5. A A. G. A. fica obrigada pela assinatura ou mediante a outorga de dois membros da direcção.
 
-###### Art. 9.º - 1. O conselho fiscal será nomeado pelo Ministro da Economia e será composto por um juiz conselheiro do Tribunal de Contas, que presidirá, por um representante da Direcção-Geral da Contabilidade Pública, ambos designados pelo Ministro das Finanças, e por um representante do Sindicato Nacional dos Comercialistas, todos com mandato trienal renovável.
+Art. 9.º - 1. O conselho fiscal será nomeado pelo Ministro da Economia e será composto por um juiz conselheiro do Tribunal de Contas, que presidirá, por um representante da Direcção-Geral da Contabilidade Pública, ambos designados pelo Ministro das Finanças, e por um representante do Sindicato Nacional dos Comercialistas, todos com mandato trienal renovável.
 
 2. Competem ao conselho fiscal os poderes atribuídos pela lei aos conselhos fiscais das sociedades anónimas.
 
 3. Os membros do conselho fiscal têm direito a uma gratificação mensal a fixar pelo Ministro da Economia.
 
-###### Art. 10.º - 1. O conselho geral é composto:
+Art. 10.º - 1. O conselho geral é composto:
 
 a) Pelo presidente do conselho fiscal, que presidirá;
 
@@ -304,7 +351,7 @@ c) Pelos vogais do conselho fiscal.
 
 5. O relatório, as contas e o parecer do conselho fiscal serão publicados na 3.ª série do Diário do Governo.
 
-###### Art. 11.º - 1. Compete especialmente ao Ministro da Economia, por si ou pelos Secretários de Estado do Comércio e da Indústria, conforme os casos, o seguinte:
+Art. 11.º - 1. Compete especialmente ao Ministro da Economia, por si ou pelos Secretários de Estado do Comércio e da Indústria, conforme os casos, o seguinte:
 
 a) Definir o regime a vigorar para cada campanha relativamente ao açúcar, de acordo com o condicionalismo legal aplicável;
 
@@ -328,7 +375,7 @@ III
 
 Funcionamento
 
-###### Art. 12.º - 1. Na sua gestão económica e financeira, a A. G. A. reger-se-á pelas normas aplicáveis às empresas comerciais, podendo ter participação accionista e de gerência noutras empresas.
+Art. 12.º - 1. Na sua gestão económica e financeira, a A. G. A. reger-se-á pelas normas aplicáveis às empresas comerciais, podendo ter participação accionista e de gerência noutras empresas.
 
 2. A contabilidade da A. G. A. será organizada de acordo com as práticas do comércio e as disposições legais a este aplicáveis, sob a responsabilidade de perito contabilista legalmente habilitado.
 
@@ -338,7 +385,7 @@ Funcionamento
 
 5. Poderá o conselho geral, quando o julgar oportuno e sem prejuízo para a gestão financeira da A. G. A., conceder participação, até 10%, dos saldos positivos, aos membros da direcção da empresa e ao seu pessoal.
 
-###### Art. 13.º - 1. Ao pessoal da A. G. A. aplica-se a legislação reguladora do contrato de trabalho com empresas privadas.
+Art. 13.º - 1. Ao pessoal da A. G. A. aplica-se a legislação reguladora do contrato de trabalho com empresas privadas.
 
 2. Poderão ser requisitados para o quadro da A. G. A. funcionários do Estado, dos seus institutos públicos e das autarquias locais, aplicando-se-lhes nesse caso o mesmo regime a que se refere o n.º 2 do artigo 8.º deste diploma.
 
@@ -346,17 +393,17 @@ Funcionamento
 
 4. Os litígios entre a A. G. A. e os seus emprega dos são da competência dos tribunais do trabalho.
 
-###### Art. 14.º - 1. Das deliberações definitivas e executórias dos órgãos da A. G. A. cabe recurso para o Supremo Tribunal Administrativo, nos mesmos termos em que o cabe das deliberações dos órgãos dirigentes dos serviços personalizados do Estado dotados de autonomia administrativa.
+Art. 14.º - 1. Das deliberações definitivas e executórias dos órgãos da A. G. A. cabe recurso para o Supremo Tribunal Administrativo, nos mesmos termos em que o cabe das deliberações dos órgãos dirigentes dos serviços personalizados do Estado dotados de autonomia administrativa.
 
 2. Das deliberações do conselho geral que declarem os membros da direcção responsáveis pelo pagamento de quantia certa podem os interessados recorrer para o Tribunal de Contas.
 
-###### Art. 15.º - 1. São considerados administrativos unicamente os contratos de empreitada de obras públicas, de arrendamento de bens imobiliários para instalação de serviços ou depósitos e de fornecimento contínuo celebrados pela A. G. A. com outras entidades.
+Art. 15.º - 1. São considerados administrativos unicamente os contratos de empreitada de obras públicas, de arrendamento de bens imobiliários para instalação de serviços ou depósitos e de fornecimento contínuo celebrados pela A. G. A. com outras entidades.
 
 2. Todos os restantes contratos seguirão o regime do direito comum, pertencendo o seu contencioso aos tribunais judiciais.
 
-###### Art. 16.º A A. G. A. goza da isenção de todas as contribuições, impostos e taxas, gerais ou especiais, ordinárias ou extraordinárias, nos mesmos termos que o Estado.
+Art. 16.º A A. G. A. goza da isenção de todas as contribuições, impostos e taxas, gerais ou especiais, ordinárias ou extraordinárias, nos mesmos termos que o Estado.
 
-###### Art. 17.º - 1. As receitas e as despesas derivadas das funções conferidas à A. G. A. no que respeita à produção e comercialização do açúcar no continente serão, respectivamente, arrecadadas e suportadas pelo Fundo de Abastecimento.
+Art. 17.º - 1. As receitas e as despesas derivadas das funções conferidas à A. G. A. no que respeita à produção e comercialização do açúcar no continente serão, respectivamente, arrecadadas e suportadas pelo Fundo de Abastecimento.
 
 2. Até ao dia 15 do mês seguinte àquele a que respeitarem, a A. G. A. deverá remeter ao Fundo de Abastecimento os elementos relativos às receitas e despesas a que se refere o número anterior.
 
@@ -364,19 +411,19 @@ IV
 
 Fundos permanentes
 
-###### Art. 18.º - 1. A A. G. A. constituirá um fundo de capital, um fundo de reserva e um Fundo de Compensação do Açúcar e do Álcool.
+Art. 18.º - 1. A A. G. A. constituirá um fundo de capital, um fundo de reserva e um Fundo de Compensação do Açúcar e do Álcool.
 
 2. O conselho de administração poderá instituir outros fundos, permanentes ou temporários, e regulamentar a sua formação e aplicação, desde que esteja garantida a dotação dos fundos obrigatórios.
 
-###### Art. 19.º - 1. O fundo de capital destina-se aos investimentos a realizar nas instalações e no equipamento da A. G. A. e a financiar as operações exigidas pelo desempenho das suas atribuições.
+Art. 19.º - 1. O fundo de capital destina-se aos investimentos a realizar nas instalações e no equipamento da A. G. A. e a financiar as operações exigidas pelo desempenho das suas atribuições.
 
 2. Ao fundo de capital serão atribuídos 25% dos saldos de gerência da A. G. A. até ser atingida a importância máxima de 150000000$00.
 
-###### Art. 20.º - 1. O fundo de reserva destina-se a complemento do fundo de capital para financiamento das operações que competem à A. G. A.
+Art. 20.º - 1. O fundo de reserva destina-se a complemento do fundo de capital para financiamento das operações que competem à A. G. A.
 
 2. Logo que ao fundo de capital tenham sido atribuídos 150000000$00, serão obrigatoriamente atribuídos a fundo de reserva 25% da importância dos saldos de gerência da A. G. A.
 
-###### Art. 21.º - 1. O Fundo de Compensação do Açúcar e do Álcool destina-se a estabelecer o equilíbrio do sistema dos preços diferenciados a praticar nas operações da A. G. A., e a compensá-los entre si, bem como a suportar as despesas com a acção de reestruturação dos sectores da competência da A. G. A.
+Art. 21.º - 1. O Fundo de Compensação do Açúcar e do Álcool destina-se a estabelecer o equilíbrio do sistema dos preços diferenciados a praticar nas operações da A. G. A., e a compensá-los entre si, bem como a suportar as despesas com a acção de reestruturação dos sectores da competência da A. G. A.
 
 2. A constituição e utilização deste Fundo serão reguladas por portaria do Ministro da Economia.
 
@@ -386,21 +433,21 @@ V
 
 Disciplina e fiscalização
 
-###### Art. 22.º - 1. Os industriais produtores e refinadores de açúcar, os fabricantes, preparadores, armazenistas, importadores e exportadores de aguardentes de origem não vínica, de licores e de outras bebidas espirituosas, os produtores e destiladores de matérias-primas legalmente destinadas à produção de álcool e os industriais de rectificação deste produto são obrigatoriamente inscritos em registo especial, a cargo da A. G. A.
+Art. 22.º - 1. Os industriais produtores e refinadores de açúcar, os fabricantes, preparadores, armazenistas, importadores e exportadores de aguardentes de origem não vínica, de licores e de outras bebidas espirituosas, os produtores e destiladores de matérias-primas legalmente destinadas à produção de álcool e os industriais de rectificação deste produto são obrigatoriamente inscritos em registo especial, a cargo da A. G. A.
 
 2. Em portaria do Ministro da Economia, poderá tornar-se extensiva a obrigatoriedade da inscrição a que se refere o número anterior a outras actividades industriais que utilizem como matérias-primas açúcar, melaços ou álcool, bem como a armazenistas dos mesmos produtos.
 
 3. As entidades inscritas no registo a que se referem os números anteriores deverão fornecer à A. G. A. os elementos de informação solicitados pelos seus serviços, facultar a estes a inspecção das suas instalações e o exame da sua escrita e manter, quando lhes for exigido, o inventário das suas existências ou contas correntes, para verificação do movimento dos produtos utilizados ou fabricados e seu destino.
 
-###### Art. 23.º - 1. As infracções das obrigações prescritas neste estatuto ou seus regulamentos serão punidas nos termos da legislação aplicável às infracções disciplinares contra a economia nacional, independentemente de qualquer outra sanção que ao caso couber, nos termos de lei geral ou especial.
+Art. 23.º - 1. As infracções das obrigações prescritas neste estatuto ou seus regulamentos serão punidas nos termos da legislação aplicável às infracções disciplinares contra a economia nacional, independentemente de qualquer outra sanção que ao caso couber, nos termos de lei geral ou especial.
 
 2. Compete à direcção da A. G. A., precedendo processo com audiência do arguido, a aplicação das sanções previstas na primeira parte do número anterior.
 
-###### Art. 24.º - 1. Todos os produtores de figo industrial e de outras matérias-primas legalmente destinadas à produção de álcool são obrigados a manifestar essas matérias-primas em impressos da A. G. A., nos termos e prazos que esta estabelecer.
+Art. 24.º - 1. Todos os produtores de figo industrial e de outras matérias-primas legalmente destinadas à produção de álcool são obrigados a manifestar essas matérias-primas em impressos da A. G. A., nos termos e prazos que esta estabelecer.
 
 2. As matérias-primas constantes do manifesto só poderão ser vendidas à A. G. A., que as adquirirá nos termos legais, ou utilizadas mediante autorização e fiscalização da A. G. A.
 
-###### Art. 25.º - 1. São punidas nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, as infracções do disposto nos n.os 2 e 3 do artigo 3.º, bem como do artigo 24.º
+Art. 25.º - 1. São punidas nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, as infracções do disposto nos n.os 2 e 3 do artigo 3.º, bem como do artigo 24.º
 
 2. É punido nos termos do artigo 3.º do [Decreto-Lei n.º 340/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1973-421273), de 6 de Julho, o funcionamento das caldeiras de destilação destinadas à laboração dos produtos abrangidos pela competência da A. G. A. fora dos períodos que esta fixar.
 
@@ -408,17 +455,17 @@ Disciplina e fiscalização
 
 4. As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) são aplicáveis à instrução preparatória e julgamento das infracções previstas neste artigo, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
 
-###### Art. 26.º Os laboratórios da A. G. A. são, para todos os efeitos, considerados oficiais, tendo o mesmo carácter e fazendo fé em juízo os boletins ou certificados de análise e outros documentos emanados dos mesmos.
+Art. 26.º Os laboratórios da A. G. A. são, para todos os efeitos, considerados oficiais, tendo o mesmo carácter e fazendo fé em juízo os boletins ou certificados de análise e outros documentos emanados dos mesmos.
 
-###### Art. 27.º Aos membros da direcção e aos funcionários da fiscalização da A. G. A. é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
+Art. 27.º Aos membros da direcção e aos funcionários da fiscalização da A. G. A. é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
 
-###### Art. 28.º - 1. Os funcionários da fiscalização da A. G. A. são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Ministro da Economia, têm o direito de uso e porte de arma de defesa, mediante requisição da A. G. A., podendo igualmente requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
+Art. 28.º - 1. Os funcionários da fiscalização da A. G. A. são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Ministro da Economia, têm o direito de uso e porte de arma de defesa, mediante requisição da A. G. A., podendo igualmente requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
 
 2. A fiscalização deverá efectuar-se em todos os locais onde se exerçam as actividades relacionadas com as atribuições da A. G. A. ou os respectivos produtos e subprodutos se encontrem à venda, armazenados, em trânsito ou em laboração.
 
-###### Art. 29.º Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
+Art. 29.º Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
 
-###### Art. 30.º - 1. Sempre que verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete, os funcionários devem levantar auto de notícia.
+Art. 30.º - 1. Sempre que verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete, os funcionários devem levantar auto de notícia.
 
 2. O cumprimento do dever de levantar auto de notícia e de lhe dar seguimento não depende de ordem expressa, considerando-se os funcionários da fiscalização permanentemente em serviço para o efeito, os quais incorrem em responsabilidade disciplinar e criminal, nos termos do artigo 168.º do Código de Processo Penal, se não derem aos autos o destino legal.
 
@@ -426,16 +473,16 @@ Disciplina e fiscalização
 
 4. Do auto de notícia constará a apreensão dos géneros e artigos que forem objecto de infracções, sempre que a ela haja lugar.
 
-###### Art. 31.º Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja de sua competência devem ser imediatamente participados às autoridades competentes.
+Art. 31.º Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja de sua competência devem ser imediatamente participados às autoridades competentes.
 
-###### Art. 32.º Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, de que tomem conhecimento no exercício das suas funções.
+Art. 32.º Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, de que tomem conhecimento no exercício das suas funções.
 
-###### Art. 33.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que, depois de identificados os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
+Art. 33.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que, depois de identificados os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
 
-###### Art. 34.º Os que se recusarem a prestar aos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
+Art. 34.º Os que se recusarem a prestar aos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
 
-###### Art. 35.º Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
+Art. 35.º Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
 
-###### Art. 36.º Em portaria do Ministro da Economia serão estabelecidas as normas regulamentares que se tornarem necessárias para a execução deste diploma.
+Art. 36.º Em portaria do Ministro da Economia serão estabelecidas as normas regulamentares que se tornarem necessárias para a execução deste diploma.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

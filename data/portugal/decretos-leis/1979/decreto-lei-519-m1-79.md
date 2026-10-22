@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 299/1979, 4º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3446-(96) a 3446-(96)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29904/00960096.pdf
 entry_into_force_dates: []
@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m1-1979-157062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e93a14891aa57db019cc135868fb2ee52894b17a0c98a316b0b1239f2a4e756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad43e9f8986be451a735400d07f9e4f3af3c48e7fca626317d408df04adb1991
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Docente Universitária
+- Ensino Superior
+- Escola Superior de Medicina Dentária
+- Lisboa
+- Ministro da Educação
+- Nomeação
+- Pessoal Docente
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:335876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428012:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:21Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +112,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Poderá, excepcionalmente e durante o período de instalação das Escolas Superiores de Medicina Dentária de Lisboa e Porto, o Ministro da Educação, mediante parecer favorável do respectivo conselho científico, ou, na sua inexistência, de uma comissão de especialistas por si designada, nomear, como professor associado, individualidades especialmente qualificadas em determinadas áreas científicas.
+Artigo 1.º - 1 - Poderá, excepcionalmente e durante o período de instalação das Escolas Superiores de Medicina Dentária de Lisboa e Porto, o Ministro da Educação, mediante parecer favorável do respectivo conselho científico, ou, na sua inexistência, de uma comissão de especialistas por si designada, nomear, como professor associado, individualidades especialmente qualificadas em determinadas áreas científicas.
 
 2 - O Ministro da Educação fixará por despacho a afectação dos lugares de professor, constante de quadros anexos, a uma disciplina ou um grupo de disciplinas, sob proposta das comissões instaladoras das escolas e mediante parecer favorável do Conselho Nacional do Ensino Superior.
 
-###### Art. 2.º As individualidades a que se refere o artigo 1.º serão nomeadas por um período de dois anos prorrogável por igual período.
+Art. 2.º As individualidades a que se refere o artigo 1.º serão nomeadas por um período de dois anos prorrogável por igual período.
 
-###### Art. 3.º - 1 - Até noventa dias do termo de cada período de dois anos, referido no artigo anterior, os professores a que se refere o presente diploma deverão apresentar ao conselho científico, quando exista, um relatório pormenorizado da actividade pedagógica e científica que hajam desenvolvido nesses períodos com indicação dos trabalhos realizados e publicados, das dissertações efectuadas sob a sua orientação, bem como de quaisquer outros documentos relevantes para a apreciação daquele relatório curricular.
+Art. 3.º - 1 - Até noventa dias do termo de cada período de dois anos, referido no artigo anterior, os professores a que se refere o presente diploma deverão apresentar ao conselho científico, quando exista, um relatório pormenorizado da actividade pedagógica e científica que hajam desenvolvido nesses períodos com indicação dos trabalhos realizados e publicados, das dissertações efectuadas sob a sua orientação, bem como de quaisquer outros documentos relevantes para a apreciação daquele relatório curricular.
 
 2 - No caso de não existir conselho científico o relatório referido no número anterior será apresentado ao Ministro da Educação, o qual designará, no prazo de trinta dias após a recepção do relatório, uma comissão de especialistas.
 
@@ -116,28 +132,28 @@ b) Aptidão pedagógica;
 
 c) Actualização e assiduidade no ensino.
 
-###### Art. 4.º Findo o prazo de quatro anos a que se refere o artigo 2.º do presente diploma, os professores a que se refere o presente decreto-lei podem ser nomeados definitivamente, desde que seja proferido parecer favorável do conselho científico ou da comissão de especialistas referida no n.º 2 do artigo anterior no exercício da competência prevista no n.º 3 do mesmo artigo.
+Art. 4.º Findo o prazo de quatro anos a que se refere o artigo 2.º do presente diploma, os professores a que se refere o presente decreto-lei podem ser nomeados definitivamente, desde que seja proferido parecer favorável do conselho científico ou da comissão de especialistas referida no n.º 2 do artigo anterior no exercício da competência prevista no n.º 3 do mesmo artigo.
 
-###### Art. 5.º - 1 - Poderá ser dispensado o parecer referido no artigo 1.º do presente decreto-lei em relação a individualidades que à data da publicação do presente diploma exerçam funções docentes como equiparados a professor auxiliar nas Escolas Superiores de Medicina Dentária de Lisboa e Porto.
+Art. 5.º - 1 - Poderá ser dispensado o parecer referido no artigo 1.º do presente decreto-lei em relação a individualidades que à data da publicação do presente diploma exerçam funções docentes como equiparados a professor auxiliar nas Escolas Superiores de Medicina Dentária de Lisboa e Porto.
 
 2 - As individualidades referidas no número anterior serão providas mediante lista nominativa publicada no Diário da República, com dispensa de quaisquer outras formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 6.º As dúvidas resultantes da aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Educação.
+Art. 6.º As dúvidas resultantes da aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Educação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro anexo da Escola Superior de Medicina Dentária de Lisboa, a que se refere o n.º 2 do artigo 1.º do Decreto-Lei n.º 519-M1/79, de 29 de Dezembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29904/00960096.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29904/00960096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29904/00960096.pdf)
 
 Quadro anexo da Escola Superior de Medicina Dentária de Porto, a que se refere o n.º 2 do artigo 1.º do Decreto-Lei n.º 519-M1/79, de 29 de Dezembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29904/00960096.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29904/00960096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29904/00960096.pdf)
 
-**O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.**
+O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.

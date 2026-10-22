@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30100/30873094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1977-276624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ffe0053190505292da979bc638546744d992a90c44ce8c4a0fec55dcca979fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7be67079a65f345c840bc51e95908e59fff9d3b88cf06823e77127f522b220aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Comissão de Fiscalização
+- Conselho de Administração
+- Criação de Empresas
+- Definição de Competências
+- Empresa Pública
+- Integração de Trabalhadores
+- Mobilidade de Pessoal
+- Petroquímica e GAS de Portugal
+- Presidente
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:312055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446521:por
+  label: Rectificado pela DECL.DD7584.17.02.1978.PCM, DR.IS [40] de 17.02.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-446521
+  date: '1978-02-17'
 article_structure:
   article_count: 52
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:56Z'
   warnings: []
   errors: []
 ---
@@ -100,35 +138,35 @@ Considerando o disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 260/76](ht
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É instituída a Empresa de Petroquímica e Gás, E. P., abreviadamente designada por EPG, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas de direito privado.
+Artigo 1.º - 1 - É instituída a Empresa de Petroquímica e Gás, E. P., abreviadamente designada por EPG, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas de direito privado.
 
 2 - A EPG é uma pessoa colectiva dotada de autonomia administrativa, financeira e patrimonial, sem prejuízo da tutela a exercer pelo Governo, nos termos da lei e dos estatutos.
 
-###### Art. 2.º - 1 - Salvo lei geral em contrário, é transferida para a EPG, na data de entrada em vigor deste diploma, a universalidade dos direitos e obrigações da empresa nacionalizada Sociedade Portuguesa de Petroquímica, S. A. R. L., a que se refere o artigo 3.º do [Decreto-Lei n.º 457/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1975-314914), de 22 de Agosto.
+Art. 2.º - 1 - Salvo lei geral em contrário, é transferida para a EPG, na data de entrada em vigor deste diploma, a universalidade dos direitos e obrigações da empresa nacionalizada Sociedade Portuguesa de Petroquímica, S. A. R. L., a que se refere o artigo 3.º do [Decreto-Lei n.º 457/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1975-314914), de 22 de Agosto.
 
 2 - A transmissão a que se refere o número anterior opera-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo o de registo.
 
 3 - Em caso de dúvida, servirá de título bastante para as transmissões a simples declaração feita pela EPG, e confirmada pela Direcção-Geral do Património, de que os bens se incluem entre os referidos no citado [Decreto-Lei n.º 457/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1975-314914).
 
-###### Art. 3.º - 1 - Transitarão para a EPG, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste diploma estiverem ao serviço da Sociedade Portuguesa de Petroquímica, S. A. R. L.
+Art. 3.º - 1 - Transitarão para a EPG, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste diploma estiverem ao serviço da Sociedade Portuguesa de Petroquímica, S. A. R. L.
 
 2 - Manter-se-ão inalteráveis, pela transferência, as posições, direitos e obrigações que os trabalhadores detinham nos quadros de origem.
 
-###### Art. 4.º Os poderes de tutela do Governo sobre a EPG serão exercidos pelo Ministro da Indústria e Tecnologia.
+Art. 4.º Os poderes de tutela do Governo sobre a EPG serão exercidos pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 5.º Considera-se extinta, a partir da entrada em vigor deste diploma, a Sociedade Portuguesa de Petroquímica, S. A. R. L.
+Art. 5.º Considera-se extinta, a partir da entrada em vigor deste diploma, a Sociedade Portuguesa de Petroquímica, S. A. R. L.
 
-###### Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um Ministério.
+Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um Ministério.
 
-###### Art. 7.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa.
 
-**Promulgado em 20 de Dezembro de 1977.**
+Promulgado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA EPG - EMPRESA DE PETROQUÍMICA E GÁS, E. P.
 
@@ -174,7 +212,9 @@ O capital estatutário será fixado nos termos do [Decreto-Lei n.º 490/76](http
 
 ### CAPÍTULO II — Dos órgãos da Empresa
 
-#### SECÇÃO I — Artigo 7.º
+#### SECÇÃO I
+
+###### Artigo 7.º
 
 (Órgãos da Empresa)
 
@@ -638,4 +678,4 @@ Os trabalhadores da EPG exercerão através dos seus órgãos representativos to
 
 A Empresa fica sujeita à tributação directa e indirecta, nos termos gerais do direito fiscal.
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.**
+O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.

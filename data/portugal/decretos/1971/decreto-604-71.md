@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/604-1971-165860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25c9fba0b96e3a2bf82ff92a87c80c7ac48e3b42fefa2d746fb71d9104930173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c77eac93197ed629db304215227e0908313a49751bee72e3bd0907bdc92ffff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:51Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério do Interior
 
@@ -108,17 +124,17 @@ Do artigo 879.º, n.º 3) «Pessoal assalariado» ... -75800$00
 
 Para o artigo 880.º, n.º 1) «Gratificações pela acumulação do serviço de regências» ... +75800$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 33484531$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 33484531$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 2.º «Presidência do Conselho - Junta Nacional de Investigação Científica e Tecnológica»:
+Capítulo 2.º «Presidência do Conselho - Junta Nacional de Investigação Científica e Tecnológica»:
 
-###### Artigo 77.º, n.º 1) «Para pagamento dos encargos essenciais de qualquer natureza da Junta, ...» ... 2000000$00
+Artigo 77.º, n.º 1) «Para pagamento dos encargos essenciais de qualquer natureza da Junta, ...» ... 2000000$00
 
-### Capítulo 10.º «Secretaria de Estado da Aeronáutica - Gabinete do Secretário de Estado»:
+Capítulo 10.º «Secretaria de Estado da Aeronáutica - Gabinete do Secretário de Estado»:
 
-###### Artigo 180.º, n.º 1) «Pagamento de serviços ...», alínea 1 «Adidos aeronáuticos em»:
+Artigo 180.º, n.º 1) «Pagamento de serviços ...», alínea 1 «Adidos aeronáuticos em»:
 
 Rio de Janeiro ... 6250$00
 
@@ -128,55 +144,55 @@ Washington ... 21081$60
 
 Ministério do Exército
 
-### Capítulo 3.º «Serviços de instrução - Fundo de Instrução do Exército»:
+Capítulo 3.º «Serviços de instrução - Fundo de Instrução do Exército»:
 
-###### Artigo 193.º, n.º 1) «Participações em cobranças ...», alínea 1 «Encargos de carácter educativo ...» ... 1500000$00
+Artigo 193.º, n.º 1) «Participações em cobranças ...», alínea 1 «Encargos de carácter educativo ...» ... 1500000$00
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços do Pessoal - Serviço do pessoal - Sargentos e praças do activo»:
+Capítulo 3.º «Superintendência dos Serviços do Pessoal - Serviço do pessoal - Sargentos e praças do activo»:
 
-###### Artigo 43.º, n.º 2) «Alimentação», alínea 1 «Rações ...» ... 4000000$00
+Artigo 43.º, n.º 2) «Alimentação», alínea 1 «Rações ...» ... 4000000$00
 
-### Capítulo 10.º «Arsenal do Alfeite»:
+Capítulo 10.º «Arsenal do Alfeite»:
 
-###### Artigo 298.º «Material e outras despesas» ... 10000000$00
+Artigo 298.º «Material e outras despesas» ... 10000000$00
 
-### Capítulo 11.º «Abono de família aos funcionários»:
+Capítulo 11.º «Abono de família aos funcionários»:
 
-###### Artigo 300.º «Despesas com o abono de família aos funcionários ...» ... 600000$00
+Artigo 300.º «Despesas com o abono de família aos funcionários ...» ... 600000$00
 
-### Capítulo 2.º «Despesas de anos económicos findos»:
+Capítulo 2.º «Despesas de anos económicos findos»:
 
-###### Artigo 301.º «Despesas de anos económicos findos» ... 500000$00
+Artigo 301.º «Despesas de anos económicos findos» ... 500000$00
 
 ... 15100000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 23.º, n.º 3) «Pagamento de serviços ...», alínea 1 «Exames e concursos» ... 4000000$00
+Artigo 23.º, n.º 3) «Pagamento de serviços ...», alínea 1 «Exames e concursos» ... 4000000$00
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Estabelecimentos diversos
 
 Instituto Português de Oncologia de Francisco Gentil
 
-###### Artigo 516.º, n.º 2) «Subsídios a cofres ...»:
+Artigo 516.º, n.º 2) «Subsídios a cofres ...»:
 
 Alínea 3 «Centro Anticanceroso de Coimbra» ... 988200$00
 
 Alínea 4 «Reforço do orçamento das receitas próprias» ... 9800000$00
 
-### Capítulo 8.º «Serviços do ciclo preparatório do ensino secundário - Escolas preparatórias»:
+Capítulo 8.º «Serviços do ciclo preparatório do ensino secundário - Escolas preparatórias»:
 
-###### Artigo 1001.º, n.º 1) «Móveis»:
+Artigo 1001.º, n.º 1) «Móveis»:
 
 Escola Preparatória do Prof. Mendes dos Remédios, Nisa ... 5500$00
 
-###### Artigo 1002.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos»:
+Artigo 1002.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos»:
 
 Escola Preparatória de D. Nuno Álvares Pereira, Montalegre ... 48200$00
 
@@ -184,51 +200,51 @@ Escola Preparatória de D. Nuno Álvares Pereira, Montalegre ... 48200$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 6.º «Direcção-Geral do Trabalho e Corporações»:
+Capítulo 6.º «Direcção-Geral do Trabalho e Corporações»:
 
 Inspecção do Trabalho
 
-###### Artigo 86.º, n.º 1) «Luz, ...» ... 15300$00
+Artigo 86.º, n.º 1) «Luz, ...» ... 15300$00
 
 ... 33484531$60
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 4.º, artigo 91.º «Fundo de Instrução do Exército» ... 1500000$00
+Capítulo 4.º, artigo 91.º «Fundo de Instrução do Exército» ... 1500000$00
 
-### Capítulo 7.º, artigo 171.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 10000000$00
+Capítulo 7.º, artigo 171.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 10000000$00
 
-### Capítulo 7.º, artigo 172.º «Reembolso das despesas com a alimentação dos oficiais, sargentos e praças da Armada» ... 4000000$00
+Capítulo 7.º, artigo 172.º «Reembolso das despesas com a alimentação dos oficiais, sargentos e praças da Armada» ... 4000000$00
 
 ... 15500000$00
 
 Encargos Gerais da Nação
 
-### Capítulo 10.º, artigo 183.º, n.º 1) ... 2027331$60
+Capítulo 10.º, artigo 183.º, n.º 1) ... 2027331$60
 
 Ministério da Marinha
 
-### Capítulo 3.º, artigo 38.º, n.º 1), alínea 1 ... 500000$00
+Capítulo 3.º, artigo 38.º, n.º 1), alínea 1 ... 500000$00
 
-### Capítulo 3.º, artigo 41.º, n.º 1) ... 600000$00
+Capítulo 3.º, artigo 41.º, n.º 1) ... 600000$00
 
 ... 1100000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 6.º, artigo 936.º, n.º 1), alínea 1 ... 14788200$00
+Capítulo 6.º, artigo 936.º, n.º 1), alínea 1 ... 14788200$00
 
-### Capítulo 8.º, artigo 1002.º, n.º 1), alínea 1 ... 48200$00
+Capítulo 8.º, artigo 1002.º, n.º 1), alínea 1 ... 48200$00
 
-### Capítulo 8.º, artigo 1007.º, n.º 1) - Escola Preparatória do Prof. Mendes dos Remédios, Nisa ... 5500$00
+Capítulo 8.º, artigo 1007.º, n.º 1) - Escola Preparatória do Prof. Mendes dos Remédios, Nisa ... 5500$00
 
 ... 14841900$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 4.º, artigo 33.º, n.º 1) ... 15300$00
+Capítulo 4.º, artigo 33.º, n.º 1) ... 15300$00
 
 ... 33484531$60
 
@@ -236,8 +252,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Dezembro de 1971.**
+Promulgado em 22 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

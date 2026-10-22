@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27300/17491756.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc5fc2b3119ac627c5a2cdb11ad2155c44d8d64be5cdc3460bbd58b26918d09a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da1dabea0aaa8d95fa71cbcac58987ee2d03ec80fe1fbb3bc5df95260be005b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Solos
+- Construção Civil
+- Expropriação
+- Plano de Urbanização
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:141048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159761:por
+  label: "Alterado o art. 7º pelo DEC LEI.56/75.13.02.1975.MJ, DG.IS [37] de 13.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1975-159761
+  date: '1975-02-13'
+- type: cites
+  target: pt:dre:201462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506836:por
+  label: "Revogados os arts. 13º a 18º pelo DEC LEI.71/76.27.01.1976.MJ, DG.IS [22] de 27.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1976-506836
+  date: '1976-01-27'
+- type: repealed_by
+  target: pt:dre:409292:por
+  label: "Revogados os arts. 1º a 12º e 19º a 56º, pelo DEC LEI.794/76.05.11.1976.MHUC, DR.IS [259] de 05.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/794-1976-409292
+  date: '1976-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:39Z'
   warnings: []
   errors: []
 ---
@@ -172,11 +200,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Medidas preventivas
 
-###### Artigo 1.º - 1. O Governo poderá estabelecer, por decreto, para toda a área que se presuma vir a ser abrangida por um plano de urbanização, ou apenas para algumas das suas parcelas, medidas destinadas a evitar a alteração das circunstâncias e condições existentes que possa comprometer a execução do plano ou torná-la mais difícil e onerosa.
+Artigo 1.º - 1. O Governo poderá estabelecer, por decreto, para toda a área que se presuma vir a ser abrangida por um plano de urbanização, ou apenas para algumas das suas parcelas, medidas destinadas a evitar a alteração das circunstâncias e condições existentes que possa comprometer a execução do plano ou torná-la mais difícil e onerosa.
 
 2. O recurso às medidas preventivas deve ser limitado aos casos em que fundadamente se receie que os prejuízos resultantes da possível alteração das circunstâncias locais sejam socialmente mais relevantes do que os inerentes à adopção das medidas.
 
-###### Art. 2.º - 1. As medidas preventivas previstas no artigo anterior podem abranger a proibição, ou a dependência de autorização ou de outro condicionamento, dos actos ou actividades seguintes:
+Art. 2.º - 1. As medidas preventivas previstas no artigo anterior podem abranger a proibição, ou a dependência de autorização ou de outro condicionamento, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -190,25 +218,25 @@ e) Derrube de árvores, em maciço, nas áreas a definir em cada caso.
 
 2. As medidas preventivas abrangerão apenas os actos que se mostrem com interesse para os objectivos a atingir, podendo, dentro dos tipos genéricos previstos no número anterior, limitar-se a certas espécies de actos ou actividades.
 
-###### Art. 3.º - 1. O prazo de vigência das medidas preventivas será fixado no decreto que as estabelecer, não podendo exceder dois anos.
+Art. 3.º - 1. O prazo de vigência das medidas preventivas será fixado no decreto que as estabelecer, não podendo exceder dois anos.
 
 2. O mesmo prazo poderá ser prorrogado por período não excedente a metade da sua duração inicial, quando tal se mostre necessário.
 
 3. O regime das medidas preventivas considerar-se-á abolido, independentemente do decurso do prazo para ele fixado, logo que seja aprovado e se torne executório o plano para cujo estudo tenha sido estabelecido.
 
-###### Art. 4.º - 1. Decorrido o prazo de vigência das medidas preventivas sem que se tenha tornado executório o plano, poderão ser estabelecidas normas de carácter provisório, de harmonia com as directrizes fundamentais já delineadas.
+Art. 4.º - 1. Decorrido o prazo de vigência das medidas preventivas sem que se tenha tornado executório o plano, poderão ser estabelecidas normas de carácter provisório, de harmonia com as directrizes fundamentais já delineadas.
 
 2. As normas provisórias a que se refere o número anterior carecem de aprovação pelas entidades competentes para aprovar os próprios planos e são obrigatórias nos mesmos termos destes.
 
-###### Art. 5.º - 1. As obras e os trabalhos efectuados com inobservância das medidas preventivas estabelecidas podem ser embargados e demolidos à custa dos proprietários e sem direito a qualquer indemnização.
+Art. 5.º - 1. As obras e os trabalhos efectuados com inobservância das medidas preventivas estabelecidas podem ser embargados e demolidos à custa dos proprietários e sem direito a qualquer indemnização.
 
 2. Na falta de pagamento voluntário das despesas, proceder-se-á à cobrança coerciva, servindo de título executivo certidão, passada pelos serviços, donde conste o quantitativo global das despesas.
 
 ### CAPÍTULO II — Valor dos terrenos para eleitos de expropriação
 
-###### Art. 6.º Para efeito de expropriação, os terrenos classificam-se em terrenos para construção e terrenos para outros fins.
+Art. 6.º Para efeito de expropriação, os terrenos classificam-se em terrenos para construção e terrenos para outros fins.
 
-###### Art. 7.º - 1. Considera-se terreno para construção aquele que, podendo ser utilizado para esse fim no estado actual e em face dos regulamentos em vigor, independentemente de quaisquer projectos, planos ou estudos que por alguma forma alterem essa possibilidade, pertença a aglomerado urbano e seja marginado por via pública urbana pavimentada e que disponha de infra-estruturas urbanísticas correspondentes às que sirvam o aglomerado, ou, quando este apresente zonas diferenciadas, às que sirvam as zonas em que as construções irão integrar-se.
+Art. 7.º - 1. Considera-se terreno para construção aquele que, podendo ser utilizado para esse fim no estado actual e em face dos regulamentos em vigor, independentemente de quaisquer projectos, planos ou estudos que por alguma forma alterem essa possibilidade, pertença a aglomerado urbano e seja marginado por via pública urbana pavimentada e que disponha de infra-estruturas urbanísticas correspondentes às que sirvam o aglomerado, ou, quando este apresente zonas diferenciadas, às que sirvam as zonas em que as construções irão integrar-se.
 
 2. Para o efeito do número anterior, consideram-se infra-estruturas urbanísticas a iluminação pública adequada ao serviço urbano e as redes de abastecimento domiciliário de água e electricidade e de drenagem de esgoto.
 
@@ -216,9 +244,9 @@ e) Derrube de árvores, em maciço, nas áreas a definir em cada caso.
 
 4. A profundidade do terreno para construção em relação ao alinhamento da via pública será fixada em função da edificabilidade permitida, com o limite, porém, de 50 m.
 
-###### Art. 8.º O valor dos terrenos para construção, quando não seja aplicável o disposto nos artigos 10.º a 12.º, será calculado em função do seu valor real e corrente, atendendo-se, porém, ao volume e tipo de construção ou construções que seja possível erigir no terreno, num aproveitamento econòmicamente normal, no estado actual, em face do desenvolvimento local e dos regulamentos em vigor, não devendo ter-se em conta, para o efeito, quaisquer projectos, planos ou estudos que por alguma forma alterem essa possibilidade.
+Art. 8.º O valor dos terrenos para construção, quando não seja aplicável o disposto nos artigos 10.º a 12.º, será calculado em função do seu valor real e corrente, atendendo-se, porém, ao volume e tipo de construção ou construções que seja possível erigir no terreno, num aproveitamento econòmicamente normal, no estado actual, em face do desenvolvimento local e dos regulamentos em vigor, não devendo ter-se em conta, para o efeito, quaisquer projectos, planos ou estudos que por alguma forma alterem essa possibilidade.
 
-###### Art. 9.º - 1. O valor dos terrenos não considerados para construção será calculado em função do rendimento possível dos mesmos, atendendo exclusivamente ao seu destino como prédios rústicos e ao seu estado no momento da expropriação, devendo tomar-se em conta, porém, a natureza do terreno e do subsolo, a configuração do imóvel e as suas condições de acesso, o clima da região, os frutos pendentes e outras circunstâncias objectivas, susceptíveis de influir no seu valor, desde que respeitem àquele destino.
+Art. 9.º - 1. O valor dos terrenos não considerados para construção será calculado em função do rendimento possível dos mesmos, atendendo exclusivamente ao seu destino como prédios rústicos e ao seu estado no momento da expropriação, devendo tomar-se em conta, porém, a natureza do terreno e do subsolo, a configuração do imóvel e as suas condições de acesso, o clima da região, os frutos pendentes e outras circunstâncias objectivas, susceptíveis de influir no seu valor, desde que respeitem àquele destino.
 
 2. O valor dos terrenos não considerados para construção que, pelas suas condições, sejam insusceptíveis de rendimento como prédios rústicos não poderá exceder o valor correspondente aos terrenos de mais baixo rendimento da mesma zona ou região.
 
@@ -226,7 +254,7 @@ e) Derrube de árvores, em maciço, nas áreas a definir em cada caso.
 
 4. No caso de expropriação não sistemática, destinada a obras de urbanização ou abertura de grandes vias de comunicação, ao valor real do prédio serão adicionados 20 por cento de mais-valia quando das obras a realizar resulte a transformação das faixas adjacentes ou de outros prédios da mesma área em terrenos para construção, de acordo com o respectivo plano ou projecto.
 
-###### Art. 10.º - 1. Para efeitos de expropriação e mediante resolução do Conselho de Ministros, poderá o Governo fixar limites aos valores dos terrenos para construção, nas regiões ou localidades em que os preços do mercado se mostrem influenciados por factores de especulação e afastados dos valores socialmente justos.
+Art. 10.º - 1. Para efeitos de expropriação e mediante resolução do Conselho de Ministros, poderá o Governo fixar limites aos valores dos terrenos para construção, nas regiões ou localidades em que os preços do mercado se mostrem influenciados por factores de especulação e afastados dos valores socialmente justos.
 
 2. Os limites previstos no número anterior terão em conta as possibilidades de edificação e a adequada relação entre os valores do terreno e da construção e serão definidos pelo Conselho de Ministros mediante a fixação de percentagens, sobre o custo provável da construção possível, aplicáveis aos diferentes condicionalismos, em que se atenda, designadamente, aos tipos e categorias das construções, à categoria dos aglomerados urbanos, à situação dos terrenos e às demais circunstâncias pertinentes.
 
@@ -234,7 +262,7 @@ e) Derrube de árvores, em maciço, nas áreas a definir em cada caso.
 
 4. Os quadros das percentagens limite serão revistos sempre que se mostre conveniente.
 
-###### Art. 11.º O valor dos terrenos para construção situados em regiões ou localidades para as quais tenham sido estabelecidos limites ao abrigo do artigo anterior será calculado, em princípio, em função do seu valor real e corrente, mas não poderá exceder, em qualquer caso, o valor proporcional ao custo provável da construção que neles seja possível, determinado nos termos seguintes:
+Art. 11.º O valor dos terrenos para construção situados em regiões ou localidades para as quais tenham sido estabelecidos limites ao abrigo do artigo anterior será calculado, em princípio, em função do seu valor real e corrente, mas não poderá exceder, em qualquer caso, o valor proporcional ao custo provável da construção que neles seja possível, determinado nos termos seguintes:
 
 a) Calcula-se primeiramente o volume e o tipo de construção ou construções que será possível erigir no terreno, de harmonia com o disposto no artigo 8.º;
 
@@ -244,7 +272,7 @@ c) O valor máximo do terreno será o correspondente à percentagem, sobre aquel
 
 d) Se o custo da construção dever ser sensìvelmente agravado pelas especiais condições do local, a importância do acréscimo daí resultante será abatida ao valor máximo a atribuir ao terreno.
 
-###### Art. 12.º - 1. O Ministro das Obras Públicas poderá fixar, mediante portaria:
+Art. 12.º - 1. O Ministro das Obras Públicas poderá fixar, mediante portaria:
 
 a) Coeficientes máximos de ocupação do solo, para o cálculo a que se referem o artigo 8.º e a alínea a) do artigo anterior, pela indicação, conforme as zonas, do volume útil máximo de construção por cada metro quadrado cuja ocupação seja possível pelos regulamentos em vigor;
 
@@ -256,7 +284,7 @@ b) Preços médios de construção, para o cálculo a que se refere a alínea b)
 
 ### CAPÍTULO III — Pagamento em prestações e em espécie das indemnizações por expropriação
 
-###### Art. 13.º - 1. As pessoas colectivas de direito público poderão efectuar em prestações o pagamento das indemnizações devidas por expropriação por utilidade pública.
+Art. 13.º - 1. As pessoas colectivas de direito público poderão efectuar em prestações o pagamento das indemnizações devidas por expropriação por utilidade pública.
 
 2. O pagamento em prestações não poderá ser imposto, porém, para indemnizações que respeitem:
 
@@ -272,19 +300,19 @@ d) À caducidade, por efeito de expropriação e nos termos da lei, de arrendame
 
 4. Para os efeitos do disposto no número anterior atender-se-á à totalidade que cada expropriado tiver direito a receber pelo conjunto dos prédios objecto da expropriação.
 
-###### Art. 14.º O pagamento em prestações pode abranger a totalidade ou apenas uma parte dos quantitativos das indemnizações e será efectuado no prazo máximo de dez anos, graduado de acordo com as circunstâncias e tendo especialmente em conta o respectivo montante.
+Art. 14.º O pagamento em prestações pode abranger a totalidade ou apenas uma parte dos quantitativos das indemnizações e será efectuado no prazo máximo de dez anos, graduado de acordo com as circunstâncias e tendo especialmente em conta o respectivo montante.
 
-###### Art. 15.º As quantias em dívida vencem juros, pagáveis anual ou semestralmente, e quando o devedor seja o Estado serão representadas por títulos de dívida pública amortizável, negociáveis nos termos comuns.
+Art. 15.º As quantias em dívida vencem juros, pagáveis anual ou semestralmente, e quando o devedor seja o Estado serão representadas por títulos de dívida pública amortizável, negociáveis nos termos comuns.
 
-###### Art. 16.º As autarquias locais e os serviços autónomos só podem efectuar o pagamento em prestações com autorização do Governo.
+Art. 16.º As autarquias locais e os serviços autónomos só podem efectuar o pagamento em prestações com autorização do Governo.
 
-###### Art. 17.º Os créditos respeitantes ao pagamento em prestações a realizar por autarquias locais ou serviços autónomos serão garantidos nos termos que forem definidos na autorização concedida pelo Governo, designadamente:
+Art. 17.º Os créditos respeitantes ao pagamento em prestações a realizar por autarquias locais ou serviços autónomos serão garantidos nos termos que forem definidos na autorização concedida pelo Governo, designadamente:
 
 a) Por consignação de determinadas espécies de receitas do devedor;
 
 b) Por aval do Estado ou de outra entidade, podendo o Estado substituir o aval pela entrega ao expropriado de títulos de dívida pública amortizável.
 
-###### Art. 18.º - 1. As indemnizações por expropriação por utilidade pública podem ser satisfeitas, total ou parcialmente, pela entrega de bens aos expropriados, ou pela constituição, a favor dos mesmos, de direitos de superfície.
+Art. 18.º - 1. As indemnizações por expropriação por utilidade pública podem ser satisfeitas, total ou parcialmente, pela entrega de bens aos expropriados, ou pela constituição, a favor dos mesmos, de direitos de superfície.
 
 2. Nos casos de caducidade de arrendamento, as indemnizações podem também ser substituídas, total ou parcialmente, pela cedência de outros terrenos ou locais, em regime de arrendamento, para a continuação das explorações.
 
@@ -294,25 +322,25 @@ b) Por aval do Estado ou de outra entidade, podendo o Estado substituir o aval p
 
 #### SECÇÃO 1.ª — Princípios gerais
 
-###### Art. 19.º Os terrenos necessários à expansão, renovação ou criação de aglomerados urbanos podem ser obtidos através dos meios já estabelecidos na lei ou das medidas previstas nos artigos 24.º a 42.º
+Art. 19.º Os terrenos necessários à expansão, renovação ou criação de aglomerados urbanos podem ser obtidos através dos meios já estabelecidos na lei ou das medidas previstas nos artigos 24.º a 42.º
 
-###### Art. 20.º A expansão dos aglomerados urbanos em nítido desenvolvimento e a criação de novos aglomerados devem processar-se, sempre que seja possível, através da expropriação sistemática, com apropriação definitiva dos terrenos pela Administração, nos termos dos artigos 24.º a 32.º
+Art. 20.º A expansão dos aglomerados urbanos em nítido desenvolvimento e a criação de novos aglomerados devem processar-se, sempre que seja possível, através da expropriação sistemática, com apropriação definitiva dos terrenos pela Administração, nos termos dos artigos 24.º a 32.º
 
-###### Art. 21.º - 1. As autarquias locais podem escolher, consoante as circunstâncias, as medidas ou processos mais adequados para a obtenção dos terrenos necessários aos fins a que se refere o artigo 19.º
+Art. 21.º - 1. As autarquias locais podem escolher, consoante as circunstâncias, as medidas ou processos mais adequados para a obtenção dos terrenos necessários aos fins a que se refere o artigo 19.º
 
 2. O Governo, porém, assegurados os meios financeiros necessários, tem a faculdade de impor o uso da expropriação sistemática para os aglomerados ou zonas de aglomerados em que tal se justifique, designadamente para a execução de planos, de âmbito nacional ou regional, que exijam o desenvolvimento desses aglomerados ou zonas.
 
-###### Art. 22.º - 1. A Administração pode expropriar por utilidade pública os terrenos necessários à criação ou ampliação de zonas ou parques industriais.
+Art. 22.º - 1. A Administração pode expropriar por utilidade pública os terrenos necessários à criação ou ampliação de zonas ou parques industriais.
 
 2. Os terrenos referidos no número anterior, depois de dotados de infra-estruturas adequadas, podem ser cedidos pela Administração para o estabelecimento e funcionamento de instalações industriais, públicas ou privadas.
 
-###### Art. 23.º O Conselho de Ministros pode atribuir carácter urgente, para efeitos de aplicação do processo previsto na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969, às expropriações de móveis necessários à realização de empreendimentos no sector urbanização-habitação, desde que se verifiquem os requisitos a que se referem as alíneas a) e c) do artigo 1.º da citada lei.
+Art. 23.º O Conselho de Ministros pode atribuir carácter urgente, para efeitos de aplicação do processo previsto na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969, às expropriações de móveis necessários à realização de empreendimentos no sector urbanização-habitação, desde que se verifiquem os requisitos a que se referem as alíneas a) e c) do artigo 1.º da citada lei.
 
 #### SECÇÃO 2.ª — Expropriação sistemática com apropriação definitiva dos terrenos pela Administração
 
-###### Art. 24.º Nos casos em que seja decidida a utilização da expropriação sistemática observar-se-ão as disposições constantes da presente secção.
+Art. 24.º Nos casos em que seja decidida a utilização da expropriação sistemática observar-se-ão as disposições constantes da presente secção.
 
-###### Art. 25.º - 1. A urbanização deve ser planeada, decidida e orientada pela Administração, através dos órgãos centrais e locais competentes.
+Art. 25.º - 1. A urbanização deve ser planeada, decidida e orientada pela Administração, através dos órgãos centrais e locais competentes.
 
 2. Para o estudo e execução dos planos e dos empreendimentos neles compreendidos poderá a Administração recorrer, porém, à colaboração de outras entidades, incluindo particulares, em especial:
 
@@ -322,57 +350,57 @@ b) Ceder a outras entidades, incluindo particulares, os terrenos necessários à
 
 c) Confiar a outras entidades, incluindo particulares, a realização, sem encargos para ela ou com a sua participação, das obras de urbanização projectadas para determinados terrenos já adquiridos, construindo e explorando essas entidades todos ou parte dos edifícios a erigir na área, ou cedendo o direito de superfície que lhes tenha sido atribuído relativamente a todos ou parte dos respectivos lotes.
 
-###### Art. 26.º - 1. A Administração procederá à aquisição das áreas a utilizar na expansão dos aglomerados, mas a aquisição deve ser feita progressivamente, de harmonia com as necessidades de execução dos planos e das suas sucessivas fases.
+Art. 26.º - 1. A Administração procederá à aquisição das áreas a utilizar na expansão dos aglomerados, mas a aquisição deve ser feita progressivamente, de harmonia com as necessidades de execução dos planos e das suas sucessivas fases.
 
 2. Para esse efeito, devem as mesmas áreas ser objecto de declaração de utilidade pública de expropriação, consoante as necessidades de execução das diversas fases dos planos, sem prejuízo do recurso à expropriação diferida ou por zonas, nos termos do artigo 6.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, quando se mostre conveniente.
 
 3. A implantação das infra-estruturas urbanísticas deve ser devidamente coordenada com as sucessivas aquisições de terrenos, por forma a não possibilitar, antecipada e desnecessàriamente, a qualificação como terrenos para construção de áreas ainda não adquiridas pela Administração.
 
-###### Art. 27.º - 1. Para cada plano ou cada uma das suas fases será fixada, de harmonia com as circunstâncias, a percentagem de lotes de terreno destinados à habitação económica, com indicação dos respectivos tipos ou categorias e as correspondentes rendas máximas.
+Art. 27.º - 1. Para cada plano ou cada uma das suas fases será fixada, de harmonia com as circunstâncias, a percentagem de lotes de terreno destinados à habitação económica, com indicação dos respectivos tipos ou categorias e as correspondentes rendas máximas.
 
 2. Serão fixados pelo Conselho de Ministros, com observância do disposto nos n.os 3 e 4 do artigo 10.º, os quadros dos tipos ou categorias dos fogos de habitação económica e as correspondentes rendas máximas.
 
-###### Art. 28.º Os terrenos adquiridos para fins de urbanização não podem ser alienados, salvo autorização do Governo, quando tal se justifique, devendo ser cedido o direito à utilização, mediante a constituição do direito de superfície, dos terrenos destinados aos empreendimentos que não devam ser realizados pela Administração.
+Art. 28.º Os terrenos adquiridos para fins de urbanização não podem ser alienados, salvo autorização do Governo, quando tal se justifique, devendo ser cedido o direito à utilização, mediante a constituição do direito de superfície, dos terrenos destinados aos empreendimentos que não devam ser realizados pela Administração.
 
-###### Art. 29.º - 1. O direito de superfície será constituído por prazo entre quarenta e setenta anos, consoante as circunstâncias e conveniências, designadamente as características dos edifícios a erigir.
+Art. 29.º - 1. O direito de superfície será constituído por prazo entre quarenta e setenta anos, consoante as circunstâncias e conveniências, designadamente as características dos edifícios a erigir.
 
 2. O prazo será prorrogado pelos períodos que forem convencionados, salvo nos casos em que se estabeleça o contrário ou quando a Administração, findo o prazo, necessitar do terreno para obras de renovação urbana.
 
-###### Art. 30.º - 1. Na constituição do direito de superfície será sempre fixado prazo para a conclusão das construções a erigir e serão adoptadas as providências que se mostrem adequadas para evitar a especulação na alienação do direito.
+Art. 30.º - 1. Na constituição do direito de superfície será sempre fixado prazo para a conclusão das construções a erigir e serão adoptadas as providências que se mostrem adequadas para evitar a especulação na alienação do direito.
 
 2. Para fins do disposto na última parte do número anterior, poderá convencionar-se, designadamente, a atribuição à Administração, de preferência, em primeiro lugar, na alienação do direito, a sua proibição durante certo prazo e a sujeição da mesma autorização da Administração.
 
-###### Art. 31.º Quando os superficiários fiquem obrigados ao pagamento de prestações periódicas, serão as mesmas revistas, salvo estipulação em contrário, sempre que se verifique:
+Art. 31.º Quando os superficiários fiquem obrigados ao pagamento de prestações periódicas, serão as mesmas revistas, salvo estipulação em contrário, sempre que se verifique:
 
 a) Qualquer prorrogação do prazo;
 
 b) Alteração das condições de utilização ou aproveitamento do terreno, por modificação das normas regulamentares do plano de ocupação do solo.
 
-###### Art. 32.º Os superficiários terão direito a indemnização pela extinção do direito de superfície quando assim for convencionado no título de constituição.
+Art. 32.º Os superficiários terão direito a indemnização pela extinção do direito de superfície quando assim for convencionado no título de constituição.
 
 #### SECÇÃO 3.ª — Associação da Administração com os proprietários
 
-###### Art. 33.º - 1. A Administração pode obter as áreas a utilizar nas operações de expansão ou renovação urbana ou de criação de novos aglomerados mediante a sua associação com os respectivos proprietários, nos termos dos artigos seguintes.
+Art. 33.º - 1. A Administração pode obter as áreas a utilizar nas operações de expansão ou renovação urbana ou de criação de novos aglomerados mediante a sua associação com os respectivos proprietários, nos termos dos artigos seguintes.
 
 2. As operações de associação serão orientadas de forma que cada uma delas abranja áreas com a amplitude e a diversidade de utilizações suficientes para se obter a possível igualdade de tratamento entre os proprietários das respectivas zonas.
 
-###### Art. 34.º - 1. A participação da Administração será constituída pelos imóveis que possuir na área e pelo capital que investir nas infra-estruturas urbanísticas necessárias.
+Art. 34.º - 1. A participação da Administração será constituída pelos imóveis que possuir na área e pelo capital que investir nas infra-estruturas urbanísticas necessárias.
 
 2. As participações dos proprietários da área serão constituídas pelos respectivos imóveis, cujos valores serão determinados, na falta de acordo entre eles e a Administração, segundo os termos aplicáveis do processo de expropriação por utilidade pública.
 
 3. Mediante convenção, as participações da Administração e dos proprietários poderão ainda ser integradas por outros valores, tais como os investimentos feitos pelos últimos em infra-estruturas urbanísticas.
 
-###### Art. 35.º Os imóveis cujos proprietários não queiram fazer parte da associação serão expropriados e integram-se na participação da Administração.
+Art. 35.º Os imóveis cujos proprietários não queiram fazer parte da associação serão expropriados e integram-se na participação da Administração.
 
-###### Art. 36.º Os imóveis serão transferidos para a posse da Administração à medida que forem sendo fixados os respectivos valores, a fim de a mesma proceder aos trabalhos de urbanização necessários e ao loteamento adequado às construções a erigir para a execução do plano.
+Art. 36.º Os imóveis serão transferidos para a posse da Administração à medida que forem sendo fixados os respectivos valores, a fim de a mesma proceder aos trabalhos de urbanização necessários e ao loteamento adequado às construções a erigir para a execução do plano.
 
-###### Art. 37.º Efectuados os trabalhos de urbanização, procederá a Administração à cedência dos terrenos para a realização dos empreendimentos projectados, com observância do disposto nos artigos 43.º a 46.º
+Art. 37.º Efectuados os trabalhos de urbanização, procederá a Administração à cedência dos terrenos para a realização dos empreendimentos projectados, com observância do disposto nos artigos 43.º a 46.º
 
-###### Art. 38.º - 1. O produto da cedência dos terrenos será partilhado entre os interessados na associação, proporcionalmente às respectivas participações.
+Art. 38.º - 1. O produto da cedência dos terrenos será partilhado entre os interessados na associação, proporcionalmente às respectivas participações.
 
 2. Os terrenos necessários às infra-estruturas urbanísticas ficarão a pertencer à Administração, sendo o respectivo custo suportado também proporcionalmente por todos os associados.
 
-###### Art. 39.º - 1. As operações de associação da Administração com os proprietários poderão ter também por finalidade a realização dos trabalhos de urbanização e a partilha, entre os interessados, dos lotes de terreno resultantes.
+Art. 39.º - 1. As operações de associação da Administração com os proprietários poderão ter também por finalidade a realização dos trabalhos de urbanização e a partilha, entre os interessados, dos lotes de terreno resultantes.
 
 2. Neste caso, concluídos os trabalhos, serão avaliados os lotes constituídos e distribuídos os mesmos, proporcionalmente ao valor das participações.
 
@@ -380,13 +408,13 @@ b) Alteração das condições de utilização ou aproveitamento do terreno, por
 
 #### SECÇÃO 4.ª — Direito de preferência da Administração na alienação de terrenos e edifícios
 
-###### Art. 40.º Por decreto, poderá ser concedido às autarquias locais direito de preferência nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados em áreas compreendidas num plano de renovação urbana devidamente aprovado e que sejam necessários para a execução desse plano.
+Art. 40.º Por decreto, poderá ser concedido às autarquias locais direito de preferência nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados em áreas compreendidas num plano de renovação urbana devidamente aprovado e que sejam necessários para a execução desse plano.
 
-###### Art. 41.º - 1. O direito de preferência a que se refere o artigo anterior pode ser exercido com a declaração de não aceitação do preço convencionado.
+Art. 41.º - 1. O direito de preferência a que se refere o artigo anterior pode ser exercido com a declaração de não aceitação do preço convencionado.
 
 2. Neste caso, a transmissão para o preferente será feita pelo preço que vier a ser fixado mediante os termos aplicáveis do processo de expropriação por utilidade pública, se o transmitente não concordar, por sua vez, com o oferecido pelo preferente.
 
-###### Art. 42.º - 1. Os notários não poderão celebrar escritura de transmissão a título oneroso de bens sujeitos ao direito de preferência previsto no artigo 40.º sem a prova de haverem sido cumpridas as formalidades legais estabelecidas para a manifestação de vontade sobre o exercício daquele direito.
+Art. 42.º - 1. Os notários não poderão celebrar escritura de transmissão a título oneroso de bens sujeitos ao direito de preferência previsto no artigo 40.º sem a prova de haverem sido cumpridas as formalidades legais estabelecidas para a manifestação de vontade sobre o exercício daquele direito.
 
 2. O disposto no número anterior é extensivo à prática, por outras entidades, de actos que envolvam a transmissão a título oneroso de bens sujeitos ao direito de preferência.
 
@@ -394,39 +422,39 @@ b) Alteração das condições de utilização ou aproveitamento do terreno, por
 
 ### CAPÍTULO V — Cedência de terrenos pela Administração
 
-###### Art. 43.º - 1. Os terrenos destinados a edifícios ou instalações de interesse público e aos empreendimentos relativos à habitação económica serão cedidos independentemente de hasta pública, mediante ajuste ou acordo directo entre a Administração e os respectivos promotores.
+Art. 43.º - 1. Os terrenos destinados a edifícios ou instalações de interesse público e aos empreendimentos relativos à habitação económica serão cedidos independentemente de hasta pública, mediante ajuste ou acordo directo entre a Administração e os respectivos promotores.
 
 2. Os terrenos destinados aos restantes empreendimentos serão cedidos mediante hasta pública.
 
 3. O Governo regulamentará os processos a utilizar para a designação dos particulares a quem deva ser confiada a realização de empreendimentos de habitação económica.
 
-###### Art. 44.º - 1. Os terrenos destinados a edifícios ou instalações de interesse público e a empreendimentos relativos à habitação económica devem ser cedidos por preços que, no conjunto, não sejam lucrativos para a Administração, atendendo aos custos de aquisição, acrescidos dos custos dos estudos e da realização dos trabalhos de urbanização e dos inerentes encargos, calculados em relação a toda a zona.
+Art. 44.º - 1. Os terrenos destinados a edifícios ou instalações de interesse público e a empreendimentos relativos à habitação económica devem ser cedidos por preços que, no conjunto, não sejam lucrativos para a Administração, atendendo aos custos de aquisição, acrescidos dos custos dos estudos e da realização dos trabalhos de urbanização e dos inerentes encargos, calculados em relação a toda a zona.
 
 2. O preço de cedência dos mesmos terrenos pode variar em função das finalidades e dos objectivos específicos dos diversos empreendimentos.
 
-###### Art. 45.º - 1. Estão sujeitos a homologação da Administração central os programas ou esquemas de distribuição de lotes de terrenos relativos, a planos ou projectos, a executar pelas autarquias locais, que revistam interesse geral ou regional, bem como as bases ou condições gerais a observar na cedência dos lotes por ajuste ou acordo directo com os promotores dos empreendimentos.
+Art. 45.º - 1. Estão sujeitos a homologação da Administração central os programas ou esquemas de distribuição de lotes de terrenos relativos, a planos ou projectos, a executar pelas autarquias locais, que revistam interesse geral ou regional, bem como as bases ou condições gerais a observar na cedência dos lotes por ajuste ou acordo directo com os promotores dos empreendimentos.
 
 2. Enquanto não existirem, no sector da habitação, planos ou programas de âmbito nacional ou regional, pode o Governo, sempre que o julgue conveniente, impor a homologação a que se refere o número anterior para a execução de planos municipais.
 
-###### Art. 46.º A cedência de terrenos adquiridos pelas autarquias locais sem utilização de expropriação sistemática pode ser efectuada segundo os regimes previstos no artigo 27.º e nos artigos 28.º a 32.º
+Art. 46.º A cedência de terrenos adquiridos pelas autarquias locais sem utilização de expropriação sistemática pode ser efectuada segundo os regimes previstos no artigo 27.º e nos artigos 28.º a 32.º
 
 ### CAPÍTULO VI — Restrições à urbanização por particulares
 
-###### Art. 47.º A realização por particulares de operações de urbanização só pode ser autorizada fora das áreas sujeitas ao regime de expropriação sistemática.
+Art. 47.º A realização por particulares de operações de urbanização só pode ser autorizada fora das áreas sujeitas ao regime de expropriação sistemática.
 
-###### Art. 48.º - 1. As operações de loteamento urbano não podem ser autorizadas, ainda que correspondam a empreendimentos previstos em planos de urbanização aprovados, desde que a sua imediata realização seja prejudicial à conveniente programação da execução do plano, do desenvolvimento ordenado da região ou de planos de interesse geral.
+Art. 48.º - 1. As operações de loteamento urbano não podem ser autorizadas, ainda que correspondam a empreendimentos previstos em planos de urbanização aprovados, desde que a sua imediata realização seja prejudicial à conveniente programação da execução do plano, do desenvolvimento ordenado da região ou de planos de interesse geral.
 
 2. Compete ao Governo estabelecer as restrições necessárias à execução do disposto na parte final do número anterior, quando não tenham sido convenientemente definidas as normas regulamentares de planos de interesse regional ou geral.
 
-###### Art. 49.º - 1. Aos requerentes de licenças de operações de loteamento podem ser impostas a observância de rendas máximas em certa percentagem dos fogos permitidos e a programação da respectiva construção.
+Art. 49.º - 1. Aos requerentes de licenças de operações de loteamento podem ser impostas a observância de rendas máximas em certa percentagem dos fogos permitidos e a programação da respectiva construção.
 
 2. A percentagem e as categorias dos fogos a sujeitar a rendas máximas e os quantitativos destas serão fixados de acordo com as necessidades da região, dentro dos limites a definir pelo Governo.
 
 ### CAPÍTULO VII — Normas sobre financiamento das operações de urbanização
 
-###### Art. 50.º Será atribuído ao Fundo de Fomento da Habitação o financiamento do estudo e execução de operações ou trabalhos de urbanização, incluindo a renovação de aglomerados.
+Art. 50.º Será atribuído ao Fundo de Fomento da Habitação o financiamento do estudo e execução de operações ou trabalhos de urbanização, incluindo a renovação de aglomerados.
 
-###### Art. 51.º - 1. Para os fins deste diploma serão receitas do Fundo de Fomento da Habitação, entre outras:
+Art. 51.º - 1. Para os fins deste diploma serão receitas do Fundo de Fomento da Habitação, entre outras:
 
 a) Dotações e subsídios concedidos pelo Estado e por outras pessoas colectivas de direito público;
 
@@ -444,7 +472,7 @@ f) O produto das taxas e dos encargos de mais-valia que lhe forem consignados.
 
 3. Poderão ser transferidos para o Fundo os imóveis do domínio privado do Estado que se mostrem convenientes para a prossecução dos mesmos fins.
 
-###### Art. 52.º As disponibilidades do Fundo serão aplicadas:
+Art. 52.º As disponibilidades do Fundo serão aplicadas:
 
 a) À concessão de subsídios aos municípios e a outras entidades para o estudo e execução de operações ou trabalhos previstos no artigo 50.º;
 
@@ -460,7 +488,7 @@ f) À satisfação dos encargos inerentes à administração do Fundo e à conve
 
 g) À satisfação de outros encargos que sejam legalmente previstos.
 
-###### Art. 53.º - 1. Nos municípios que sejam sede de distrito e em todos aqueles cujas sedes ou outros aglomerados tenham mais de 10000 habitantes ficarão consignados à satisfação dos encargos com o estudo e realização de projectos relativos a operações e trabalhos de urbanização a cargo da autarquia as seguintes receitas:
+Art. 53.º - 1. Nos municípios que sejam sede de distrito e em todos aqueles cujas sedes ou outros aglomerados tenham mais de 10000 habitantes ficarão consignados à satisfação dos encargos com o estudo e realização de projectos relativos a operações e trabalhos de urbanização a cargo da autarquia as seguintes receitas:
 
 a) Subsídios e empréstimos do fundo autónomo a que se refere o artigo 50.º;
 
@@ -484,7 +512,7 @@ d) À amortização dos empréstimos contraídos para os mesmos fins e ao pagame
 
 3. A consignação de receitas a que se referem os números anteriores pode ser aplicada a quaisquer outros municípios, por iniciativa do respectivo corpo administrativo ou determinação do Governo.
 
-###### Art. 54.º - 1. Será criada uma taxa sobre as construções e ampliações de edifícios de qualquer natureza, devida pelo beneficiário da licença de construção.
+Art. 54.º - 1. Será criada uma taxa sobre as construções e ampliações de edifícios de qualquer natureza, devida pelo beneficiário da licença de construção.
 
 2. Ficarão isentas da taxa a que se refere o número anterior:
 
@@ -504,11 +532,11 @@ d) As obras cujo custo provável seja determinado em quantia inferior a 100000$0
 
 ### CAPÍTULO VIII — Restrições à demolição de edifícios
 
-###### Art. 55.º A demolição de edifícios destinados a habitação, quando não integrada em operações de renovação urbana coordenada, será restringida, nas localidades onde tal se justifique, tendo em conta a conveniência de evitar a inutilização dos que ofereçam razoáveis condições de habitabilidade ou possibilidade de económica beneficiação e substituições com reduzido saldo económico-social.
+Art. 55.º A demolição de edifícios destinados a habitação, quando não integrada em operações de renovação urbana coordenada, será restringida, nas localidades onde tal se justifique, tendo em conta a conveniência de evitar a inutilização dos que ofereçam razoáveis condições de habitabilidade ou possibilidade de económica beneficiação e substituições com reduzido saldo económico-social.
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 56.º - 1. A competência atribuída ao Governo e ao Conselho de Ministros pelo presente diploma, salvo no artigo 23.º, será exercida por um conselho restrito, composto pelo Presidente do Conselho e pelos Ministros do Interior, da Justiça, das Obras Públicas e das Corporações e Previdência Social.
+Art. 56.º - 1. A competência atribuída ao Governo e ao Conselho de Ministros pelo presente diploma, salvo no artigo 23.º, será exercida por um conselho restrito, composto pelo Presidente do Conselho e pelos Ministros do Interior, da Justiça, das Obras Públicas e das Corporações e Previdência Social.
 
 2. Nas deliberações previstas nos artigos 16.º e 17.º e no n.º 3 do artigo 53.º intervirá também o Ministro das Finanças.
 
@@ -516,8 +544,8 @@ d) As obras cujo custo provável seja determinado em quantia inferior a 100000$0
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 19 de Novembro de 1970.**
+Promulgado em 19 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

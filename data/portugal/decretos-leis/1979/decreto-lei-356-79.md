@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/20100/21482149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1979-370068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d78adaba159a1b78d360204217420b8c9cc975f98b9878781d3af8c45668561a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50dc6b5ca068b33062c5d3b1e7cb1d0cc9045af2e4d6557068730641cd74bc90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ACTO Administrativo
+- Administração Pública
+- Legalidade Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:384849:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:418042:por
+  label: Declarada a inconstitucionalidade das normas do art. 1.º pelo(a) Acórdão n.º 266/87 - Diário da República n.º 197/1987,
+    Série I de 1987-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/266-1987-418042
+  date: '1987-08-28'
+- type: cites
+  target: pt:dre:408541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:676849:por
+  label: "Revogado pelo DEC LEI.502-E/79.22.12.1979.PCM, DR.IS [294-2.º Supl] de 22.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/502-e-1979-676849
+  date: '1979-12-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:17Z'
   warnings: []
   errors: []
 ---
@@ -101,14 +119,14 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 de artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os actos de transferência ou exoneração de funcionários da Administração Pública, de institutos autónomos ou de empresas públicas, quando praticados legalmente no uso de poderes discricionários, independentemente de qualquer ilícito disciplinar, e se refiram a funcionários nomeados discricionariamente, consideram-se suficientemente fundamentados quando o fundamento invocado for o da conveniência de serviço.
+Artigo 1.º Os actos de transferência ou exoneração de funcionários da Administração Pública, de institutos autónomos ou de empresas públicas, quando praticados legalmente no uso de poderes discricionários, independentemente de qualquer ilícito disciplinar, e se refiram a funcionários nomeados discricionariamente, consideram-se suficientemente fundamentados quando o fundamento invocado for o da conveniência de serviço.
 
-###### Art. 2.º O presente diploma vale como lei interpretativa do [Decreto-Lei n.º 256-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-a-1977-408541), de 17 de Junho.
+Art. 2.º O presente diploma vale como lei interpretativa do [Decreto-Lei n.º 256-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-a-1977-408541), de 17 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

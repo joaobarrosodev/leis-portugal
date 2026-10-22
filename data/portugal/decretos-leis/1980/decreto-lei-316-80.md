@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19100/22852287.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1980-471146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 836dc0fd2fbf024502834b8af0e5e4c7fb7e71f8989d582046cca62777720df7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 234d8b588a05371b2ab2f621056a00f49023583e11f9720123badfdfe8b5b508
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral da Emigração
+- Extinção de Serviços
+- Instituto de Apoio à Emigração e às Comunidades Portuguesas
+- Instituto de Emigração
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389857:por
+  label: "Dada nova redação ao nº 1 do art. 4º deste diploma, que introduziu alterações ao Dec Lei 763/74 de 30-Dez, pelo\
+    \ DEC LEI.12/81.27.01.1981.MNE, DR.IS [22] de 27.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1981-389857
+  date: '1981-01-27'
+- type: cites
+  target: pt:dre:256809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46] e revogada a demais legislação complementar ao presente\
+    \ diploma, relativa ao Instituto de Apoio à Emigração Comunidades Portuguesas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:51Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +131,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto de Emigração, criado pelo [Decreto-Lei n.º 763/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/763-1974-256809), de 30 de Dezembro, passa a denominar-se Instituto de Apoio à Emigração e às Comunidades Portuguesas, sem alteração do respectivo estatuto.
+Artigo 1.º O Instituto de Emigração, criado pelo [Decreto-Lei n.º 763/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/763-1974-256809), de 30 de Dezembro, passa a denominar-se Instituto de Apoio à Emigração e às Comunidades Portuguesas, sem alteração do respectivo estatuto.
 
-###### Art. 2.º São atribuições do Instituto:
+Art. 2.º São atribuições do Instituto:
 
 a) Manter e reforçar os laços de solidariedade entre Portugal e os cidadãos portugueses radicados no estrangeiro, apoiando e assistindo os emigrantes e seus familiares no domínio sócio-cultural;
 
@@ -138,13 +165,13 @@ o) Facilitar as relações e contactos entre os emigrantes ou seus familiares e 
 
 p) Cobrar as receitas que lhe são atribuídas por lei e superintender na elaboração do seu orçamento e contas.
 
-###### Art. 3.º O Instituto é gerido pela direcção, junto da qual funciona um conselho administrativo.
+Art. 3.º O Instituto é gerido pela direcção, junto da qual funciona um conselho administrativo.
 
-###### Art. 4.º - 1 - A direcção é composta pelo presidente do Instituto, coadjuvado por dois vice-presidentes.
+Art. 4.º - 1 - A direcção é composta pelo presidente do Instituto, coadjuvado por dois vice-presidentes.
 
 2 - Na falta ou impedimento do presidente, assume a presidência o vice-presidente, designado para o efeito pelo presidente ou, na falta de designação, o mais antigo.
 
-###### Art. 5.º Compete à direcção:
+Art. 5.º Compete à direcção:
 
 a) Dirigir os serviços e actividades do Instituto;
 
@@ -158,7 +185,7 @@ e) Cumprir e fazer cumprir as leis e regulamentos;
 
 f) Dar balanço, mensalmente, às disponibilidades do Instituto.
 
-###### Art. 6.º Compete ao presidente do Instituto:
+Art. 6.º Compete ao presidente do Instituto:
 
 a) Convocar e presidir às reuniões da direcção e coordenar as actividades do Instituto;
 
@@ -174,9 +201,9 @@ f) Decidir dos autos de transgressão nos casos expressamente referidos na lei;
 
 g) Contratar o pessoal cuja admissão não dependa de despacho superior.
 
-###### Art. 7.º O conselho administrativo é composto pelo vice-presidente, designado para o efeito pelo presidente, pelo director de Serviços de Coordenação Económica e Financeira e por um representante do Ministério das Finanças e do Plano, a designar pelo respectivo Ministro.
+Art. 7.º O conselho administrativo é composto pelo vice-presidente, designado para o efeito pelo presidente, pelo director de Serviços de Coordenação Económica e Financeira e por um representante do Ministério das Finanças e do Plano, a designar pelo respectivo Ministro.
 
-###### Art. 8.º Compete ao conselho administrativo:
+Art. 8.º Compete ao conselho administrativo:
 
 a) Assegurar que as verbas do Instituto se apliquem ao fim a que se destinam;
 
@@ -184,14 +211,14 @@ b) Fiscalizar a regularidade da cobrança das receitas e a realização das desp
 
 c) Emitir parecer sobre os projectos de orçamento e contas de gerência.
 
-###### Art. 9.º Enquanto não for regulamentada a estrutura orgânica do Instituto de Apoio à Emigração e às Comunidades Portuguesas, podem ser introduzidas as alterações entendidas convenientes na estrutura orgânica estabelecida no [Decreto-Lei n.º 763/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/763-1974-256809), de 30 de Dezembro, por portaria do Ministro dos Negócios Estrangeiros, do Ministro das Finanças e do Plano e do membro do Governo responsável pela função pública.
+Art. 9.º Enquanto não for regulamentada a estrutura orgânica do Instituto de Apoio à Emigração e às Comunidades Portuguesas, podem ser introduzidas as alterações entendidas convenientes na estrutura orgânica estabelecida no [Decreto-Lei n.º 763/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/763-1974-256809), de 30 de Dezembro, por portaria do Ministro dos Negócios Estrangeiros, do Ministro das Finanças e do Plano e do membro do Governo responsável pela função pública.
 
-###### Art. 10.º É extinta a Direcção-Geral da Emigração, cujos serviços, pessoal e património passam, sem dependência de qualquer formalidade ou visto do Tribunal de Contas, para o Instituto de Apoio à Emigração e às Comunidades Portuguesas.
+Art. 10.º É extinta a Direcção-Geral da Emigração, cujos serviços, pessoal e património passam, sem dependência de qualquer formalidade ou visto do Tribunal de Contas, para o Instituto de Apoio à Emigração e às Comunidades Portuguesas.
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Agosto de 1980.**
+Promulgado em 4 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 231/1971, 1º Suplemento, Série I de 1971-09-30
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1468-(5) a 1468-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/23101/00050007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/420-1971-311997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d755a06a533330634bd08128e6a7693e829ad03fcbe5d225a5fd2408e2e0384
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f584584c23d1ef3d1a0f3e149d5785c12828a708b508de516d0ff13c66c4f966
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,36 @@ relationships:
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:273636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º 119/2009, de 30 de\
+    \ Dezembro), pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação\
+    \ [prevista no art. 4.º] se manter transitoriamente em vigor as disposições procedimentais do presente diploma que não\
+    \ contrariem o disposto no Código aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:26Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +139,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Âmbito
 
-###### Artigo 1.º - 1. São abrangidos pelo presente diploma os pescadores e auxiliares de pesca, sócios efectivos das Casas dos Pescadores, os quais se classificam nos seguintes grupos de beneficiários:
+Artigo 1.º - 1. São abrangidos pelo presente diploma os pescadores e auxiliares de pesca, sócios efectivos das Casas dos Pescadores, os quais se classificam nos seguintes grupos de beneficiários:
 
 1.º Os que exercem a profissão ao serviço de armadores de pesca ou outras entidades particulares, em terra, ou no mar, bem como os assalariados das campanhas de pesca.
 
@@ -129,7 +149,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Contribuições
 
-###### Art. 2.º - 1. Salvo o disposto no número seguinte, os beneficiários e as entidades ao serviço das quais exercem a actividade profissional contribuirão para a Junta Central das Casas dos Pescadores, respectivamente, com 5,5 e 15 por cento das retribuições por aqueles recebidas.
+Art. 2.º - 1. Salvo o disposto no número seguinte, os beneficiários e as entidades ao serviço das quais exercem a actividade profissional contribuirão para a Junta Central das Casas dos Pescadores, respectivamente, com 5,5 e 15 por cento das retribuições por aqueles recebidas.
 
 2. Enquanto não for viável a elaboração de folhas de soldadas, as contribuições relativas aos beneficiários abrangidos pelo 2.º grupo do artigo anterior serão de 8,2 por cento do produto bruto de pesca realizada pelas respectivas companhas.
 
@@ -139,19 +159,19 @@ Contribuições
 
 5. As percentagens mencionadas nos n.os 1 e 2 poderão ser alteradas por despacho do Ministro das Corporações e Previdência Social, mediante proposta da Direcção-Geral da Previdência e Habitações Económicas e parecer do Conselho Superior da Acção Social.
 
-###### Art. 3.º - 1. Os contribuintes são responsáveis perante a Junta Central pelas contribuições devidas pelos trabalhadores em relação ao tempo em que estiverem ao seu serviço.
+Art. 3.º - 1. Os contribuintes são responsáveis perante a Junta Central pelas contribuições devidas pelos trabalhadores em relação ao tempo em que estiverem ao seu serviço.
 
 2. Sobre as remunerações pagas aos beneficiários deverá ser efectuado pelas entidades patronais o desconto correspondente à parte por eles devida à Junta Central.
 
 3. Aqueles descontos, conjuntamente com a parte que couber ao contribuinte, serão entregues nos prazos e pela forma a estabelecer no regulamento previsto no artigo 12.º
 
-###### Art. 4.º - 1. Expirados os prazos fixados para o pagamento das contribuições, serão devidos juros de mora, a cargo dos contribuintes, revertendo as respectivas importâncias para o fundo de assistência e acção social referido no artigo 17.º
+Art. 4.º - 1. Expirados os prazos fixados para o pagamento das contribuições, serão devidos juros de mora, a cargo dos contribuintes, revertendo as respectivas importâncias para o fundo de assistência e acção social referido no artigo 17.º
 
 2. O juro de mora é de 0,5 por cento em relação a cada um dos meses seguintes àqueles em que devia ser feito o pagamento das contribuições até ao mês, inclusive, em que este pagamento seja efectuado.
 
 Esquema das prestações
 
-###### Art. 5.º - 1. A Junta Central concederá os seguintes benefícios, nos termos do regime geral das caixas sindicais de previdência:
+Art. 5.º - 1. A Junta Central concederá os seguintes benefícios, nos termos do regime geral das caixas sindicais de previdência:
 
 a) Na doença (incluindo a tuberculose), prestações em espécie aos beneficiários e pensionistas e respectivos familiares;
 
@@ -165,29 +185,29 @@ e) Por morte dos beneficiários, subsídio pecuniário aos seus familiares.
 
 2. Para a concessão das prestações pecuniárias aos beneficiários pertencentes ao 2.º grupo do artigo 1.º ser-lhes-ão atribuídos salários convencionais, devendo as receitas resultantes das contribuições fixadas no n.º 2 do artigo 2.º corresponder globalmente a taxa não inferior à adoptada para o 1.º grupo, a incidir sobre aqueles salários.
 
-###### Art. 6.º Em relação aos beneficiários cujas actividades estejam sujeitas a períodos de defesa ou de inactividade, serão aplicadas regras análogas às estabelecidas para o pessoal da indústria de conservas de peixe.
+Art. 6.º Em relação aos beneficiários cujas actividades estejam sujeitas a períodos de defesa ou de inactividade, serão aplicadas regras análogas às estabelecidas para o pessoal da indústria de conservas de peixe.
 
 Assistência e acção social
 
-###### Art. 7.º - 1. Em complemento do esquema de prestações previsto no artigo 5.º e sem prejuízo da prioridade das acções respectivas, a Junta Central prosseguirá na realização de outros empreendimentos que tenham em vista a promoção e a segurança social da população piscatória.
+Art. 7.º - 1. Em complemento do esquema de prestações previsto no artigo 5.º e sem prejuízo da prioridade das acções respectivas, a Junta Central prosseguirá na realização de outros empreendimentos que tenham em vista a promoção e a segurança social da população piscatória.
 
 2. A promoção social será incrementada através das obras existentes ou a criar, cuja organização e actividade serão orientadas também no sentido de estimular as capacidades produtivas.
 
-###### Art. 8.º A Junta Central concederá aos beneficiários vítimas de contingências anormais auxílios e subsídios pecuniários em harmonia com as possibilidades do Fundo de assistência e acção social.
+Art. 8.º A Junta Central concederá aos beneficiários vítimas de contingências anormais auxílios e subsídios pecuniários em harmonia com as possibilidades do Fundo de assistência e acção social.
 
-###### Art. 9.º A acção social a realizar pela Junta Central tem em vista a valorização das populações dedicadas a actividades cuja finalidade seja a exploração da fauna ou da flora marítimas e consistirá, designadamente, na criação, manutenção e desenvolvimento de estabelecimentos que tenham por fim a protecção, educação e formação profissional.
+Art. 9.º A acção social a realizar pela Junta Central tem em vista a valorização das populações dedicadas a actividades cuja finalidade seja a exploração da fauna ou da flora marítimas e consistirá, designadamente, na criação, manutenção e desenvolvimento de estabelecimentos que tenham por fim a protecção, educação e formação profissional.
 
-###### Art. 10.º A Junta Central continuará a prestar assistência aos pescadores e familiares que não beneficiem do regime de previdência, segundo os graus de carência e as disponibilidades do Fundo de assistência e acção social.
+Art. 10.º A Junta Central continuará a prestar assistência aos pescadores e familiares que não beneficiem do regime de previdência, segundo os graus de carência e as disponibilidades do Fundo de assistência e acção social.
 
 Gestão
 
-###### Art. 11.º Os regimes regulados no presente decreto serão geridos pela Junta Central, em colaboração com as Casas dos Pescadores, que actuarão como delegações administrativas da mesma Junta.
+Art. 11.º Os regimes regulados no presente decreto serão geridos pela Junta Central, em colaboração com as Casas dos Pescadores, que actuarão como delegações administrativas da mesma Junta.
 
-###### Art. 12.º No prazo de noventa dias, a Junta Central submeterá à aprovação do Ministro das Corporações e Previdência Social, através da Direcção-Geral da Previdência e Habitações Económicas, regulamento elaborado em conformidade com o disposto no presente diploma.
+Art. 12.º No prazo de noventa dias, a Junta Central submeterá à aprovação do Ministro das Corporações e Previdência Social, através da Direcção-Geral da Previdência e Habitações Económicas, regulamento elaborado em conformidade com o disposto no presente diploma.
 
 Regime transitório
 
-###### Art. 13.º - 1. Decorridos quatro anos após a entrada em vigor do presente decreto, o sistema que institui será modificado por forma a corresponder integralmente ao regime geral das caixas sindicais de previdência, com as adaptações consideradas indispensáveis aos meios piscatórios, assumindo a Junta Central a competência e as funções de uma caixa de previdência e abono de família, coordenando a sua acção com a Federação das Caixas de Previdência e Abono de Família para a realização dos fins que esta entidade prossegue e enquadrando-se os beneficiários na Caixa Nacional de Pensões, quanto às modalidades de invalidez, velhice e morte.
+Art. 13.º - 1. Decorridos quatro anos após a entrada em vigor do presente decreto, o sistema que institui será modificado por forma a corresponder integralmente ao regime geral das caixas sindicais de previdência, com as adaptações consideradas indispensáveis aos meios piscatórios, assumindo a Junta Central a competência e as funções de uma caixa de previdência e abono de família, coordenando a sua acção com a Federação das Caixas de Previdência e Abono de Família para a realização dos fins que esta entidade prossegue e enquadrando-se os beneficiários na Caixa Nacional de Pensões, quanto às modalidades de invalidez, velhice e morte.
 
 2. Findo o prazo estabelecido no número anterior ou se as circunstâncias o permitirem antes do termo desse prazo, aos beneficiários referidos no artigo 1.º é reconhecido o direito à concessão de pensões de sobrevivência em termos análogos aos do regime das caixas sindicais de previdência.
 
@@ -195,7 +215,7 @@ Regime transitório
 
 Regime financeiro
 
-###### Art. 14.º As receitas da Junta Central destinadas à realização dos fins previstos neste diploma são constituídas por:
+Art. 14.º As receitas da Junta Central destinadas à realização dos fins previstos neste diploma são constituídas por:
 
 a) Contribuições sobre as retribuições;
 
@@ -217,7 +237,7 @@ i) Benefícios prescritos;
 
 j) Outras receitas.
 
-###### Art. 15.º As despesas classificam-se nas seguintes rubricas:
+Art. 15.º As despesas classificam-se nas seguintes rubricas:
 
 a) Pensões de invalidez;
 
@@ -243,9 +263,9 @@ l) Outras despesas.
 
 Fundos
 
-###### Art. 16.º Além do fundo de reserva destinado a assegurar a cobertura actuarial dos compromissos diferidos e a constituir garantia contra emergências imprevistas nas demais modalidades, a Junta Central criará outros fundos que considere necessários para a total realização dos objectivos previstos neste diploma.
+Art. 16.º Além do fundo de reserva destinado a assegurar a cobertura actuarial dos compromissos diferidos e a constituir garantia contra emergências imprevistas nas demais modalidades, a Junta Central criará outros fundos que considere necessários para a total realização dos objectivos previstos neste diploma.
 
-###### Art. 17.º - 1. Os encargos resultantes das actividades a exercer no âmbito da assistência e acção social serão suportados pelo Fundo de assistência e acção social.
+Art. 17.º - 1. Os encargos resultantes das actividades a exercer no âmbito da assistência e acção social serão suportados pelo Fundo de assistência e acção social.
 
 2. No decurso do período referido no n.º 1 do artigo 13.º constituem receitas do Fundo de assistência e acção social a parcela da contribuição global correspondente a 2,5 por cento das retribuições, os saldos das rubricas de abono de família e prestações complementares, de doença e de maternidade, os rendimentos dos fundos de reserva e os subsídios e outras receitas consignados no Regulamento da Junta Central.
 
@@ -253,16 +273,16 @@ Fundos
 
 Coordenação de regimes
 
-###### Art. 18.º Será regulada por despacho do Ministro das Corporações e Previdência Social a coordenação dos regimes de previdência dos pescadores com o regime das caixas sindicais de previdência e os regimes especiais de previdência e abono de família dos trabalhadores rurais, no sentido da conservação dos direitos adquiridos e em formação ao abrigo desses diferentes regimes.
+Art. 18.º Será regulada por despacho do Ministro das Corporações e Previdência Social a coordenação dos regimes de previdência dos pescadores com o regime das caixas sindicais de previdência e os regimes especiais de previdência e abono de família dos trabalhadores rurais, no sentido da conservação dos direitos adquiridos e em formação ao abrigo desses diferentes regimes.
 
 Penalidades
 
-###### Art. 19.º À falta do cumprimento das obrigações impostas às entidades patronais e aos beneficiários ao abrigo do disposto no presente diploma, são aplicáveis as sanções previstas no [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, competindo à Junta Central aplicar essas penalidades, bem como promover a cobrança judicial das contribuições não pagas nos devidos prazos.
+Art. 19.º À falta do cumprimento das obrigações impostas às entidades patronais e aos beneficiários ao abrigo do disposto no presente diploma, são aplicáveis as sanções previstas no [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, competindo à Junta Central aplicar essas penalidades, bem como promover a cobrança judicial das contribuições não pagas nos devidos prazos.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 18 de Setembro de 1971.**
+Promulgado em 18 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

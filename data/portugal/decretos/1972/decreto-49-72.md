@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49-1972-398101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab0bfed4153fe143e2679115de289709068e7718e110bcf2d4a36f2d2e8ac4c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53c8b8fdb0e1f7e933ac93d36760e9bf323aff3e77eb34511f1062fb38c44c58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:198969:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:57Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +98,18 @@ Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição
 
 Usando da faculdade conferida pela parte final do § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto n.º 49157](https://diariodarepublica.pt/dr/detalhe/decreto/49157-1969-198969), de 28 de Julho de 1969, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto n.º 49157](https://diariodarepublica.pt/dr/detalhe/decreto/49157-1969-198969), de 28 de Julho de 1969, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1. A idade mínima exigida para a matrícula no ensino liceal extraordinário é de 16 anos para o 2.º ciclo e de 18 anos para o 3.º ciclo, já completos ou a completar até 31 de Dezembro do ano a que respeita a matrícula.
+Art. 3.º - 1. A idade mínima exigida para a matrícula no ensino liceal extraordinário é de 16 anos para o 2.º ciclo e de 18 anos para o 3.º ciclo, já completos ou a completar até 31 de Dezembro do ano a que respeita a matrícula.
 
 2. As habilitações exigidas para a matrícula no ano inicial dos ciclos são as legalmente estabelecidas para o ensino liceal normal.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Janeiro de 1972.**
+Promulgado em 28 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

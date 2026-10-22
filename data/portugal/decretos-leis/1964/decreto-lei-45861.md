@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45861-1964-580108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b68ae5d451903c0ced49b1f8780e59a1042d5eeabe7dada8b1a3a248f144ef78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83fe474b1b6a62f57e33f35c23b3bcc056f7d20cfcef778e7b325319e5a7f585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Ensino Superior Militar
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:590728:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:12Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +99,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º Enquanto as instalações da Academia Militar se encontrarem divididas por dois aquartelamentos e se mantiverem as actuais exigências criadas pelo substancial aumento do número de alunos, dentro do espírito determinado no artigo 69.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, observar-se-á o seguinte:
+Artigo 1.º Enquanto as instalações da Academia Militar se encontrarem divididas por dois aquartelamentos e se mantiverem as actuais exigências criadas pelo substancial aumento do número de alunos, dentro do espírito determinado no artigo 69.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, observar-se-á o seguinte:
 
 a) É individualizado a cargo de director do serviço de instrução que pelo artigo 2.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, é exercido, por acumulação, pelo 2.º comandante da Academia;
 
@@ -112,18 +119,18 @@ O comandante do 1.º batalhão de alunos é o comandante do aquartelamento da Am
 
 O cargo de comandante do 2.º batalhão de alunos passa a ser desempenhado pelo tenente-coronel ou major designado como comandante do corpo de alunos no artigo 39.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728).
 
-###### Art. 2.º Ao director do serviço de instrução passam a competir todas as missões que pelo [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728) são atribuídas ao 2.º comandante, no que respeita a instrução. Quando chefiando missões ou comandando destacamentos, tem sobre os alunos a competência disciplinar do comandante do corpo de alunos e as suas decisões de natureza disciplinar não carecem de homologação.
+Art. 2.º Ao director do serviço de instrução passam a competir todas as missões que pelo [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728) são atribuídas ao 2.º comandante, no que respeita a instrução. Quando chefiando missões ou comandando destacamentos, tem sobre os alunos a competência disciplinar do comandante do corpo de alunos e as suas decisões de natureza disciplinar não carecem de homologação.
 
-###### Art. 3.º Ao comandante do corpo de alunos, além das missões que lhe são atribuídas pelos artigos 38.º, 39.º e 46.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), passa a competir a orientação e coordenação da acção dos dois batalhões de alunos, auxiliado por um adjunto nomeado de entre os mestres de educação física, por acumulação de funções.
+Art. 3.º Ao comandante do corpo de alunos, além das missões que lhe são atribuídas pelos artigos 38.º, 39.º e 46.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), passa a competir a orientação e coordenação da acção dos dois batalhões de alunos, auxiliado por um adjunto nomeado de entre os mestres de educação física, por acumulação de funções.
 
-###### Art. 4.º Os comandantes de batalhão têm a competência disciplinar referida no § 2.º do artigo 69.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728) e as suas decisões de natureza disciplinar não carecem de homologação.
+Art. 4.º Os comandantes de batalhão têm a competência disciplinar referida no § 2.º do artigo 69.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728) e as suas decisões de natureza disciplinar não carecem de homologação.
 
-###### Art. 5.º O director do serviço de instrução e o comandante do corpo de alunos são nomeados pelo Ministro do Exército, mediante proposta do comandante da Academia Militar, e têm direito às gratificações escolares que a seguir se indicam:
+Art. 5.º O director do serviço de instrução e o comandante do corpo de alunos são nomeados pelo Ministro do Exército, mediante proposta do comandante da Academia Militar, e têm direito às gratificações escolares que a seguir se indicam:
 
 a) Director do serviço de instrução - gratificação igual à de professor catedrático;
 
 b) Comandante do corpo de alunos - gratificação igual à de professor adjunto.
 
-###### Art. 6.º No corrente ano os encargos resultantes da aplicação do presente diploma serão liquidados pelos saldos das verbas do pessoal dos quadros aprovados por lei, consignados no Orçamento ordinário à Academia Militar. Publique-se e cumpra-se como nele se contém.
+Art. 6.º No corrente ano os encargos resultantes da aplicação do presente diploma serão liquidados pelos saldos das verbas do pessoal dos quadros aprovados por lei, consignados no Orçamento ordinário à Academia Militar. Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galeão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

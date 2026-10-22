@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/370-1971-630245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3c12251164f0754060e4e2ec1bd82e6777c3b8ca1a4f45a47e98f5ec5999ef9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b79fd53f6a47a175d620262e09adce7fb029943170d7a0c87897eb4660c960f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:57Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +94,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os rendimentos a que se refere o Decreto de 3 de Outubro de 1903, relativos a uma parcela da Mata dos Pinheiros situada a sul da estrada nacional n.º 1 e à totalidade da Mata de Quintas, anteriormente pertencentes às freguesias de Marrazes e Pousos, respectivamente, actualmente incluídos na área da freguesia de Santa Eufémia, do concelho e distrito de Leiria, passam a constituir receita desta freguesia.
+Artigo único. Os rendimentos a que se refere o Decreto de 3 de Outubro de 1903, relativos a uma parcela da Mata dos Pinheiros situada a sul da estrada nacional n.º 1 e à totalidade da Mata de Quintas, anteriormente pertencentes às freguesias de Marrazes e Pousos, respectivamente, actualmente incluídos na área da freguesia de Santa Eufémia, do concelho e distrito de Leiria, passam a constituir receita desta freguesia.
 
 Marcello Caetano - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 17 de Agosto de 1971.**
+Promulgado em 17 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

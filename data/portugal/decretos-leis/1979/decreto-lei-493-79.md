@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29300/32883290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1979-365885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d726e225a8833e2e4f28ec4d3261a22f32924bcdd72c74f22f7115ca3f17b34f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 985cd28f38851732dab1d2cc89dd0bb5dd9080cbdc909c6033834a6d7f7a4e28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Formas de Provimento
+- Gabinete de Planeamento
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:185752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356135:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:43Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +119,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Criação do Gabinete de Planeamento
 
@@ -107,13 +127,13 @@ Criação do Gabinete de Planeamento
 
 2 - A direcção do Gabinete de Planeamento será confiada a um director de serviços.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Atribuições
 
 Ao Gabinete de Planeamento compete centralizar as propostas e informações recebidas dos demais serviços da DGEMN e proceder à respectiva análise e tratamento, visando não só o planeamento e o contrôle das actividades da DGEMN, mas também a obtenção de dados necessários à tomada de decisões no campo de construção dos edifícios públicos e de conservação de monumentos nacionais.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Estrutura
 
@@ -125,7 +145,7 @@ b) Centro de Estudos e Estatística.
 
 2 - O apoio administrativo do Gabinete de Planeamento será prestado por uma secção administrativa.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Atribuições da Divisão de Planeamento
 
@@ -137,7 +157,7 @@ b) Elaborar e manter actualizados os planos de intervenções no campo de acçã
 
 c) Elaborar os programas anuais e plurianuais de investimentos e seus reajustamentos e controlar globalmente a sua execução física e financeira, em colaboração com o Gabinete de Planeamento e Contrôle do MHOP e segundo as orientações que a este compete transmitir.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Atribuições do Centro de Estudos e Estatística
 
@@ -151,7 +171,7 @@ c) Organizar e coordenar a estatística que satisfaça as necessidades do Gabine
 
 2 - O Centro de Estudos e Estatística é chefiado por um chefe de divisão.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Criação de carreiras e aumento do quadro de pessoal
 
@@ -159,13 +179,13 @@ Criação de carreiras e aumento do quadro de pessoal
 
 2 - O quadro de pessoal da DGEMN é aumentado dos lugares constantes do mapa anexo a este diploma e que dele faz parte integrante.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Provimento de pessoal
 
 Ao provimento nos cargos dirigentes e lugares a que se refere o n.º 2 do artigo 6.º aplicam-se os respectivos regimes jurídicos em vigor.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Primeiro provimento
 
@@ -187,19 +207,19 @@ c) Entre o pessoal da mesma categoria e letra contratados ou assalariados além 
 
 d) Entre os funcionários da mesma categoria e letra, requisitados ou destacados do quadro geral de adidos, por essa ordem, e tendo em atenção as regras da parte final da alínea b).
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Encargos emergentes
 
 Os encargos com o pessoal emergentes da publicação deste diploma poderão ser satisfeitos durante o ano de 1979 pelas disponibilidades das dotações orçamentais consignadas ao pagamento de remunerações certas e permanentes do pessoal do quadro da Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Dúvidas na aplicação deste diploma
 
 As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministério da Habitação e Obras Públicas e do Secretário de Estado da Administração Pública, e ainda do Ministro das Finanças quando estiver em causa matéria de carácter financeiro ou normas de contabilidade pública.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Vigência deste diploma
 
@@ -207,14 +227,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo. - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
 
-**Promulgado em 13 de Dezembro de 1979.**
+Promulgado em 13 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29300/32883290.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29300/32883290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29300/32883290.pdf)
 
-**O Ministro da Habitação e Obras Públicas, Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.**
+O Ministro da Habitação e Obras Públicas, Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 278/1975, 2º Suplemento, Série I de 1975-12-02
   number: '278'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1940-(3) a 1940-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/27802/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-c-1975-302484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6b734f4f991196844962480bf24723524755afe0f01ea39b321c340582658aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d5139bc424a6438998d6db0ebe27dee21cbda22f6ba3960cb5d30cd2e9537d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Empresa Pública
+- Nacionalização
+- Personalidade Jurídica
+- Radiodifusão
+- RDP
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355347:por
+  label: "Prorrogado por sessenta dias o prazo previsto no nº 1 do art. 4º pelo DEC LEI.786/75.31.12.1975.MCS, DG.IS [300-7ºSupl]\
+    \ de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/786-1975-355347
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:507648:por
+  label: "Alterado o artigo 3.º e substituída a denominação da empresa pública nos restantes, pelo DEC LEI.153/76.23.02.1976.MCS,\
+    \ DG.IS [45] de 23.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-1976-507648
+  date: '1976-02-23'
+- type: amended_by
+  target: pt:dre:531791:por
+  label: Transformada em sociedade anónima de capitais exclusivamente públicos, com a denominação de Radiodifusão Portuguesa,
+    S. A. (RDP, S. A.) a Radiodifusão Portuguesa, E. P. (RDP, E. P.), criada como empresa pública pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 2/94 - Diário da República n.º 7/1994, Série I-A de 1994-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1994-531791
+  date: '1994-01-10'
+- type: repealed_by
+  target: pt:dre:393219:por
+  label: "Revogado o artigo 6.º pelo DEC LEI.17/79.08.02.1979.MCS, DR.IS [33] de 08.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1979-393219
+  date: '1979-02-08'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:00Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +164,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São nacionalizadas as posições sociais no capital das seguintes sociedades que no território continental português exercem a actividade de radiodifusão:
+Artigo 1.º - 1. São nacionalizadas as posições sociais no capital das seguintes sociedades que no território continental português exercem a actividade de radiodifusão:
 
 a) Rádio Clube Português, S. A. R. L.;
 
@@ -147,15 +182,15 @@ e) Alfabeta - Rádio e Publicidade, S. A. R. L.
 
 4. Por radiodifusão, para o efeito do presente diploma, entende-se qualquer transmissão unilateral de informação, por meio de suportes radioeléctricos, destinada à recepção directa pelo público em geral, excluída do âmbito deste diploma a Televisão.
 
-###### Art. 2.º - 1. A nacionalização decretada assegura aos titulares dos bens nacionalizados o direito a uma indemnização, a definir quanto ao montante e forma de pagamento, na falta de acordo, em diploma legal a publicar no prazo de cento e oitenta dias, a contar da publicação deste decreto-lei.
+Art. 2.º - 1. A nacionalização decretada assegura aos titulares dos bens nacionalizados o direito a uma indemnização, a definir quanto ao montante e forma de pagamento, na falta de acordo, em diploma legal a publicar no prazo de cento e oitenta dias, a contar da publicação deste decreto-lei.
 
 2. Em caso de acordo, poderá a indemnização que vier a ser fixada ser total ou parcialmente liquidada por dação em pagamento, após prévia avaliação, de bens, valores e em geral elementos do estabelecimento comercial de que se trate, não afectos aos respectivos postos emissores e retransmissores.
 
 3. Na fixação da indemnização a que eventualmente venham a ter direito os titulares de posições sociais em sociedades accionistas da RTP - Radiotelevisão Portuguesa, S. A. R. L., será tomado em conta o resultado do inquérito à licitude dos lucros auferidos por aquelas sociedades, previsto no artigo 2.º do diploma que nacionaliza as respectivas posições sociais na RTP.
 
-###### Art. 3.º É criada uma empresa pública denominada «Empresa Pública de Radiodifusão», por abreviatura EPR, com o objectivo do exercício público de radiodifusão.
+Art. 3.º É criada uma empresa pública denominada «Empresa Pública de Radiodifusão», por abreviatura EPR, com o objectivo do exercício público de radiodifusão.
 
-###### Art. 4.º - 1. A Empresa Pública referida no artigo antecedente é dotada de personalidade jurídica, com autonomia administrativa e financeira, e reger-se-á por estatuto próprio, a aprovar pelo Governo dentro do prazo de trinta dias, a contar da entrada em vigor do presente diploma.
+Art. 4.º - 1. A Empresa Pública referida no artigo antecedente é dotada de personalidade jurídica, com autonomia administrativa e financeira, e reger-se-á por estatuto próprio, a aprovar pelo Governo dentro do prazo de trinta dias, a contar da entrada em vigor do presente diploma.
 
 2. No estatuto previsto no número antecedente deverão ser salvaguardados:
 
@@ -165,7 +200,7 @@ b) A representação dos trabalhadores nos órgãos de gestão e fiscalização 
 
 c) A representação dos radiouvintes num órgão de base cuja composição reflicta o pluralismo das correntes políticas e dos credos religiosos.
 
-###### Art. 5.º - 1. São transferidos para a Empresa Pública os valores activos e passivos, os direitos e as obrigações que constituem a universalidade da concessão e do património afectos à exploração da actividade de radiodifusão das empresas colectivas ou individuais agora nacionalizadas ou já pertencentes ao Estado, sem dependência de qualquer formalidade, à excepção dos actos de registo que no caso couberem.
+Art. 5.º - 1. São transferidos para a Empresa Pública os valores activos e passivos, os direitos e as obrigações que constituem a universalidade da concessão e do património afectos à exploração da actividade de radiodifusão das empresas colectivas ou individuais agora nacionalizadas ou já pertencentes ao Estado, sem dependência de qualquer formalidade, à excepção dos actos de registo que no caso couberem.
 
 2. São, nomeadamente, transmitidas as posições contratuais, e de entre estas as emergentes de contratos de trabalho, sem prejuízo do disposto no artigo 8.º deste diploma.
 
@@ -173,28 +208,28 @@ c) A representação dos radiouvintes num órgão de base cuja composição refl
 
 4. O acto de publicação do presente diploma acarretará a automática dissolução das sociedades cuja universalidade de bens, direitos e obrigações são transferidos para a titularidade daquela Empresa.
 
-###### Art. 6.º - 1. Até à designação e tomada de posse dos corpos sociais estabelecidos no estatuto previsto no antecedente artigo 4.º, a Empresa Pública de Radiodifusão será administrada e dirigida por uma comissão administrativa, constituída por cinco membros, um dos quais desempenhará as funções de presidente, outro de vice-presidente, a nomear pelo Governo, sob proposta do Ministro da Comunicação Social, podendo dela fazer parte todos ou alguns dos actuais administradores da Emissora Nacional, os quais continuarão em exercício de funções até à nomeação daquela comissão, e com a competência da mesma.
+Art. 6.º - 1. Até à designação e tomada de posse dos corpos sociais estabelecidos no estatuto previsto no antecedente artigo 4.º, a Empresa Pública de Radiodifusão será administrada e dirigida por uma comissão administrativa, constituída por cinco membros, um dos quais desempenhará as funções de presidente, outro de vice-presidente, a nomear pelo Governo, sob proposta do Ministro da Comunicação Social, podendo dela fazer parte todos ou alguns dos actuais administradores da Emissora Nacional, os quais continuarão em exercício de funções até à nomeação daquela comissão, e com a competência da mesma.
 
 2. A comissão administrativa prevista no número antecedente exercerá, directamente ou por delegação, a plenitude das funções actualmente pertencentes a todos os corpos ou órgãos, administrativos, directivos ou outros, da Emissora Nacional e das empresas individuais ou colectivas nacionalizadas pelo presente diploma, os quais se consideram automaticamente dissolvidos. A sua competência ir-se-á esgotando, por substituição, à medida que entrarem em funções os corpos ou órgãos estabelecidos no estatuto da Empresa Pública.
 
 3. Até à nomeação da comissão administrativa, as estações de radiodifusão ocupadas por forças militares ou militarizadas, ou sob o seu contrôle, continuarão em idêntico regime, salvo determinação em contrário do Conselho da Revolução ou do Governo.
 
-###### Art. 7.º A comissão administrativa exercerá as suas funções com a preocupação de assegurar uma informação, o mais possível objectiva, verdadeira e pluralista, ao serviço do povo, cujos sentimentos, preferências e necessidades deverá procurar auscultar e satisfazer.
+Art. 7.º A comissão administrativa exercerá as suas funções com a preocupação de assegurar uma informação, o mais possível objectiva, verdadeira e pluralista, ao serviço do povo, cujos sentimentos, preferências e necessidades deverá procurar auscultar e satisfazer.
 
-###### Art. 8.º - 1. São automaticamente rescindidas, a partir da entrada em vigor deste diploma, todas as concessões ou licenças de exploração da actividade de radiodifusão, tendo os respectivos titulares, no caso da sua não convalidação pela comissão administrativa prevista no anterior artigo 6.º, direito a uma indemnização a fixar nos termos do artigo 2.º, quando legalmente se mostre devida nos termos gerais de direito.
+Art. 8.º - 1. São automaticamente rescindidas, a partir da entrada em vigor deste diploma, todas as concessões ou licenças de exploração da actividade de radiodifusão, tendo os respectivos titulares, no caso da sua não convalidação pela comissão administrativa prevista no anterior artigo 6.º, direito a uma indemnização a fixar nos termos do artigo 2.º, quando legalmente se mostre devida nos termos gerais de direito.
 
 2. No uso da faculdade de convalidação, prevista no número antecedente, a comissão administrativa procurará conciliar os interesses dos actuais concessionários e titulares do direito de antena, e respectivas posições contratuais, com o interesse da nova Empresa Pública em recuperar a plena disponibilidade do direito de emissão a tempo inteiro, adoptando, em cada caso, a solução mais conveniente, sempre que possível com salvaguarda, directa ou compensatória, dos direitos dos profissionais vinculados por contrato de trabalho aos actuais concessionários.
 
-###### Art. 9.º O Governo nomeará, sob proposta do Ministro da Comunicação Social, uma comissão instaladora da Empresa Pública de Radiodifusão, a qual coordenará, em colaboração com a comissão administrativa prevista no artigo 6.º, os actos de execução do presente diploma e da portaria que o regulamentar, a publicar pelo Ministro da Comunicação Social.
+Art. 9.º O Governo nomeará, sob proposta do Ministro da Comunicação Social, uma comissão instaladora da Empresa Pública de Radiodifusão, a qual coordenará, em colaboração com a comissão administrativa prevista no artigo 6.º, os actos de execução do presente diploma e da portaria que o regulamentar, a publicar pelo Ministro da Comunicação Social.
 
-###### Art. 10.º As dúvidas que suscitar a interpretação do disposto no presente diploma, serão esclarecidas por despacho do Ministro da Comunicação Social, que de igual modo integrará as respectivas lacunas.
+Art. 10.º As dúvidas que suscitar a interpretação do disposto no presente diploma, serão esclarecidas por despacho do Ministro da Comunicação Social, que de igual modo integrará as respectivas lacunas.
 
-###### Art. 11.º O presente diploma entra em vigor na data da publicação.
+Art. 11.º O presente diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - António de Almeida Santos.
 
-**Promulgado em 2 de Dezembro de 1975.**
+Promulgado em 2 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

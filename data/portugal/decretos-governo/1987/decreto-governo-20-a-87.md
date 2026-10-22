@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 134/1987, 1º Suplemento, Série I de 1987-06-12
   number: '134'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2308-(2) a 2308-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13401/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/20-a-1987-241775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fa8e6af63cb9949594993bdf069b603e1ca4b1b579d9f97a49fa11c56cb598e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5450423948e00c1fcdf7d29ca934dad15f8e33331f891f7922c6c9f436757525
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro das Taipas
+- Criação de Serviços
+- Droga
+- Lisboa
+- Toxicodependente
 relationships:
 - type: amended_by
   target: pt:dre:516491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516491:por
+  label: "Revogado pelo DEC LEI.43/94.1994.02.17.MS, DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1994-516491
+  date: '1994-02-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:09Z'
   warnings: []
   errors: []
 ---
@@ -111,28 +129,28 @@ Ao abrigo do disposto no artigo 78.º do [Decreto-Lei n.º 413/71](https://diari
 
 O Governo decreta, nos termos do artigo 202.º, alínea g), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado em Lisboa o Centro das Taipas, unidade de saúde destinada ao tratamento, recuperação e reinserção social dos toxicodependentes, dotado de personalidade jurídica e autonomia administrativa e financeira.
+Artigo 1.º - 1 - É criado em Lisboa o Centro das Taipas, unidade de saúde destinada ao tratamento, recuperação e reinserção social dos toxicodependentes, dotado de personalidade jurídica e autonomia administrativa e financeira.
 
 2 - O Centro fica dependente da Administração Regional de Saúde de Lisboa.
 
-###### Art. 2.º O Centro das Taipas entra em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e da demais legislação aplicável, e é dirigido por uma comissão instaladora, a nomear por despacho do Ministro da Saúde.
+Art. 2.º O Centro das Taipas entra em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e da demais legislação aplicável, e é dirigido por uma comissão instaladora, a nomear por despacho do Ministro da Saúde.
 
-###### Art. 3.º Ao pessoal do Centro das Taipas é aplicável o regime geral da função pública, sem prejuízo dos regimes específicos estabelecidos para carreiras determinadas.
+Art. 3.º Ao pessoal do Centro das Taipas é aplicável o regime geral da função pública, sem prejuízo dos regimes específicos estabelecidos para carreiras determinadas.
 
-###### Art. 4.º A comissão instaladora proporá superiormente, para aprovação do Ministro da Saúde, os regulamentos considerados necessários para o funcionamento do Centro.
+Art. 4.º A comissão instaladora proporá superiormente, para aprovação do Ministro da Saúde, os regulamentos considerados necessários para o funcionamento do Centro.
 
-###### Art. 5.º Os encargos decorrentes da aplicação do presente diploma são suportados pelo orçamento do Serviço Nacional de Saúde, através de verba a transferir para a Administração Regional de Saúde de Lisboa pelo Departamento de Gestão Financeira dos Serviços de Saúde.
+Art. 5.º Os encargos decorrentes da aplicação do presente diploma são suportados pelo orçamento do Serviço Nacional de Saúde, através de verba a transferir para a Administração Regional de Saúde de Lisboa pelo Departamento de Gestão Financeira dos Serviços de Saúde.
 
-###### Art. 6.º Dentro dos princípios definidos no presente diploma, poderão ser criados, no âmbito de outras administrações regionais de saúde, centros especializados no tratamento, recuperação e reinserção social de toxicodependentes, mediante portaria a aprovar pelos Ministros das Finanças e da Saúde.
+Art. 6.º Dentro dos princípios definidos no presente diploma, poderão ser criados, no âmbito de outras administrações regionais de saúde, centros especializados no tratamento, recuperação e reinserção social de toxicodependentes, mediante portaria a aprovar pelos Ministros das Finanças e da Saúde.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Assinado em 4 de Junho de 1987.**
+Assinado em 4 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Junho de 1987.**
+Referendado em 8 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

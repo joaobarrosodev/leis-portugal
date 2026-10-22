@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/09/20900/12151216.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44563-1962-159547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 316cd470233c770b84b45f2d06f12a4f43e309030bf8bb6ebbe4dd18a9618f67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5da9915c66acadfafa549d8cc808fe58acc33d473431ed78a73137cad0beafe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Força Aérea
+- Marinha
+- Militar
+- Pessoal Civil
+- Quadro de Pessoal
+- Quadro não Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:181630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:295076:por
+  label: "Alterada a al. b) do nº I do art. 5.º do Dec Lei 41492, de 31-Dez de 1957, na redacção do presente diploma, pelo\
+    \ Dec Lei.46345.21.05.1965.PCM, DG.IS [113] de 21.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46345-1965-295076
+  date: '1965-05-21'
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342607:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:295076:por
+  label: "Revogado pelo DEC LEI.46345.21.05.1965.PC, DG.IS [113] de 21.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46345-1965-295076
+  date: '1965-05-21'
+- type: repealed_by
+  target: pt:dre:181630:por
+  label: "Revogado o artigo 2.º do presente diploma pelo Dec Lei.550-E/76.12.07.1976.CR, DR.IS [161-Supl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-e-1976-181630
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:04Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +123,9 @@ Tornando-se necessário providenciar no sentido do regular funcionamento dos ser
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A alínea b) do n.º I) do artigo 5.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, passa a ter a redacção que segue:
+Artigo 1.º A alínea b) do n.º I) do artigo 5.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, passa a ter a redacção que segue:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 b) Engenheiros:
 
@@ -108,11 +139,11 @@ b) Engenheiros:
 
 ...
 
-###### Art. 2.º A coluna «Engenheiros» do mapa I referido no artigo 1.º do [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, passa a ser a seguinte:
+Art. 2.º A coluna «Engenheiros» do mapa I referido no artigo 1.º do [Decreto-Lei n.º 42066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42066-1958-342607), de 29 de Dezembro de 1958, passa a ser a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/20900/12151216.pdf))](https://files.diariodarepublica.pt/1s/1962/09/20900/12151216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/20900/12151216.pdf)
 
-###### Art. 3.º Independentemente dos sistemas normais de recrutamento e nos anos de 1962 e 1963, pode ser autorizado o ingresso no quadro de oficiais engenheiros de armamento referido no artigo 2.º:
+Art. 3.º Independentemente dos sistemas normais de recrutamento e nos anos de 1962 e 1963, pode ser autorizado o ingresso no quadro de oficiais engenheiros de armamento referido no artigo 2.º:
 
 a) Mediante autorização do Secretário de Estado da Aeronáutica, de oficiais engenheiros aeronáuticos e electrotécnicos da Força Aérea, após conveniente habilitação;
 
@@ -120,8 +151,8 @@ b) Mediante autorização do Secretário de Estado da Aeronáutica e o acordo do
 
 § único. As condições de ingresso no quadro de oficiais engenheiros de armamento, referido no corpo deste artigo, serão estabelecidas em portaria do Secretário de Estado da Aeronáutica.
 
-###### Art. 4.º O presente diploma entra em vigor em 1 de Janeiro de 1963.
+Art. 4.º O presente diploma entra em vigor em 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Kaulza Oliveira de Arriaga.

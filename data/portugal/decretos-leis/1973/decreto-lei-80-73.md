@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2993abcd73774399bbe090785f57981fb93eb8453d7f0585726516e667f68e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1161e85d04ca8d673a16340d251936239f344579f098235a2a28cc1499f38270
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação de Obras Públicas
+- Comércio
+- Compensação Financeira
+- Conselho Superior de Obras Públicas e Transportes
+- Contrato de Concessão
+- CP
+- Direcção Geral dos Transportes Terrestres
+- Fundo Especial de Transportes Terrestres
+- Infraestrutura dos Transportes
+- Política de Transportes
+- Preço
+- Rede Ferroviária
+- TAXA de Prestação de Serviços
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:311606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:07Z'
   warnings: []
   errors: []
 ---
@@ -181,11 +223,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I - Da rode ferroviária do continente
 
-###### Artigo 1.º - 1. A rede ferroviária do continente é constituída pelas linhas férreas e ramais de interesse público que na data de entrada em vigor do presente diploma constituam objecto da concessão única regulada pelo [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616), de 9 de Maio de 1951, bem como pelas linhas e ramais que nela venham a ser ulteriormente integrados, nos termos do n.º 1 do artigo 3.º
+Artigo 1.º - 1. A rede ferroviária do continente é constituída pelas linhas férreas e ramais de interesse público que na data de entrada em vigor do presente diploma constituam objecto da concessão única regulada pelo [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616), de 9 de Maio de 1951, bem como pelas linhas e ramais que nela venham a ser ulteriormente integrados, nos termos do n.º 1 do artigo 3.º
 
 2. Poderão ser igualmente integradas na rede ferroviária concedida as infra-estruturas de outros modos de transporte terrestre que a concessionária seja autorizada a explorar ao abrigo do disposto no n.º 1 do artigo 12.º, desde que apresentem analogia técnica com o transporte ferroviário.
 
-###### Art. 2.º - 1. A rede ferroviária do continente será objecto de permanente actualização, em conformidade com os interesses da colectividade, tendo em consideração os progressos técnicos e as necessidades comerciais da concessionária, mediante:
+Art. 2.º - 1. A rede ferroviária do continente será objecto de permanente actualização, em conformidade com os interesses da colectividade, tendo em consideração os progressos técnicos e as necessidades comerciais da concessionária, mediante:
 
 a) A construção de novas linhas e ramais;
 
@@ -201,19 +243,19 @@ b) Às necessidades de transporte a que se pretenda ocorrer e à melhor forma de
 
 3. Os planos referidos no n.º 2 serão elaborados por iniciativa do Governo ou da concessionária, carecendo, em qualquer caso, da aprovação daquele.
 
-###### Art. 3.º - 1. A integração de novas linhas ou ramais na rede ferroviária far-se-á por decreto dos Ministros das Finanças, da Economia e das Comunicações.
+Art. 3.º - 1. A integração de novas linhas ou ramais na rede ferroviária far-se-á por decreto dos Ministros das Finanças, da Economia e das Comunicações.
 
 2.º A supressão a que se refere a alínea c) do n.º 1 do artigo anterior far-se-á, ouvido o Conselho Superior de Obras Públicas e Transportes, por decreto do Ministro das Comunicações, do qual constarão as condições em que se há-de proceder ao levantamento das vias e dos demais equipamentos fixos e os prazos em que se extinguem os condicionamentos ferroviários, designadamente servidões, determinados pela sua existência, nas zonas abrangidas e confinantes com os respectivos traçados.
 
 II - Da exploração ferroviária
 
-###### Art. 4.º - 1. A organização e exploração dos transportes na rede ferroviária constitui um serviço público, explorado em regime de concessão única outorgada por contrato.
+Art. 4.º - 1. A organização e exploração dos transportes na rede ferroviária constitui um serviço público, explorado em regime de concessão única outorgada por contrato.
 
 2. As obrigações e condicionamentos impostos à empresa concessionária, quanto à exploração do serviço concedido, deverão progressivamente assemelhar-se, tanto quanto possível, aos que impendam sobre as demais empresas que com ela concorram no mercado dos transportes.
 
 3. A exploração ferroviária far-se-á, sem prejuízo das obrigações de serviço público a que se refere o número anterior, aplicando os métodos seguidos na gestão industrial e comercial privada.
 
-###### Art. 5.º - 1. A exploração ferroviária deverá concentrar-se nos tipos de serviço que constituam a vocação económica do caminho de ferro e nos itinerários cujo tráfego real ou potencial justifique a sua utilização.
+Art. 5.º - 1. A exploração ferroviária deverá concentrar-se nos tipos de serviço que constituam a vocação económica do caminho de ferro e nos itinerários cujo tráfego real ou potencial justifique a sua utilização.
 
 2. Tendo em vista o disposto no número anterior, constituirão sectores prioritários no transporte de passageiros:
 
@@ -231,7 +273,7 @@ b) O transporte em vagão especialmente adaptado ou utilizando os equipamentos d
 
 4. A reconversão da actual exploração ferroviária, de acordo com o disposto nos números anteriores, far-se-á de forma gradual e contínua e em articulação com as adaptações que se mostrarem aconselháveis na organização e funcionamento de outros modos de transporte.
 
-###### Art. 6.º - 1. Tendo em vista a execução do disposto no n.º 1 do artigo anterior, a concessionária poderá ser autorizada a cessar, temporária ou definitivamente, parcial ou totalmente, a exploração das linhas ou ramais que não se revele comercialmente viável nem justificável por superiores motivos de interesse público.
+Art. 6.º - 1. Tendo em vista a execução do disposto no n.º 1 do artigo anterior, a concessionária poderá ser autorizada a cessar, temporária ou definitivamente, parcial ou totalmente, a exploração das linhas ou ramais que não se revele comercialmente viável nem justificável por superiores motivos de interesse público.
 
 2. A cessação da exploração ferroviária referida no número anterior será decidida tendo em conta:
 
@@ -247,7 +289,7 @@ e) As possibilidades de substituição económica e eficiente por transportes ro
 
 3. A execução do disposto nos números anteriores far-se-á por despacho do Ministro das Comunicações, exarado sobre proposta fundamentada da concessionária.
 
-###### Art. 7.º - 1. A exploração comercial das estações será adaptada em conformidade com o disposto no artigo 5.º
+Art. 7.º - 1. A exploração comercial das estações será adaptada em conformidade com o disposto no artigo 5.º
 
 2. Poderão ser encerradas ao tráfego, total ou parcialmente, temporária ou definitivamente, as estações cuja exploração se não revele comercialmente viável nem justificável por superiores motivos de interesse público.
 
@@ -255,7 +297,7 @@ e) As possibilidades de substituição económica e eficiente por transportes ro
 
 4. Sempre que superiores motivos de interesse público o justifiquem, poderá a Direcção-Geral de Transportes Terrestres fixar a data de encerramento das estações ou adiá-lo.
 
-###### Art. 8.º - 1. Do contrato de concessão única constarão as condições básicas da exploração do serviço concedido.
+Art. 8.º - 1. Do contrato de concessão única constarão as condições básicas da exploração do serviço concedido.
 
 2. Em diploma especial definir-se-á o regime da exploração e polícia do caminho de ferro, abrangendo nomeadamente as relações entre a empresa concessionária e o público em geral, os proprietários dos terrenos confinantes com a via férrea e demais instalações, os passageiros, os expedidores e os consignatários, bem como a guarda e vigilância do caminho de ferro.
 
@@ -265,7 +307,7 @@ e) As possibilidades de substituição económica e eficiente por transportes ro
 
 III - Dos preços e demais condições do transporte ferroviário
 
-###### Art. 9.º - 1. Os preços a cobrar pela realização, na rede ferroviária, de transportes e operações acessórias deverão ter em conta, tanto quanto possível, os custos de produção da empresa concessionária e a situação do mercado de transportes.
+Art. 9.º - 1. Os preços a cobrar pela realização, na rede ferroviária, de transportes e operações acessórias deverão ter em conta, tanto quanto possível, os custos de produção da empresa concessionária e a situação do mercado de transportes.
 
 2. Os Ministros das Finanças, da Economia e das Comunicações fixarão, em portaria conjunta, os limites máximos e mínimos dentro dos quais devem situar-se os preços do transporte ferroviário de passageiros e mercadorias.
 
@@ -281,7 +323,7 @@ III - Dos preços e demais condições do transporte ferroviário
 
 8. Exceptuam-se do disposto no n.º 2 os preços de transporte internacional de passageiros e mercadorias, que serão os resultantes de convenções celebradas entre a concessionária e as demais empresas ferroviárias e não carecem da aprovação do Governo, devendo, em qualquer caso, ser comunicados à Direcção-Geral de Transportes Terrestres.
 
-###### Art. 10.º - 1. Por portaria conjunta dos Ministros das Finanças e das Comunicações serão definidos os transportes ferroviários cujos preços deverão ficar sujeitos à aprovação do Governo.
+Art. 10.º - 1. Por portaria conjunta dos Ministros das Finanças e das Comunicações serão definidos os transportes ferroviários cujos preços deverão ficar sujeitos à aprovação do Governo.
 
 2. A execução do disposto no número anterior carecerá de prévia audiência do Ministério da Economia no que se refere aos transportes de mercadorias.
 
@@ -291,7 +333,7 @@ III - Dos preços e demais condições do transporte ferroviário
 
 IV - Da articulação dos transportes ferroviários com outros meios de transporte
 
-###### Art. 11.º - 1. A fim de integrar a exploração ferroviária no sistema de transportes, o Governo estimulará e facilitará o estabelecimento de formas de complementaridade técnica e funcional do transporte ferroviário com outros modos de transporte, nomeadamente através de:
+Art. 11.º - 1. A fim de integrar a exploração ferroviária no sistema de transportes, o Governo estimulará e facilitará o estabelecimento de formas de complementaridade técnica e funcional do transporte ferroviário com outros modos de transporte, nomeadamente através de:
 
 a) Contratos plurianuais de prestação de serviços de transporte a entidades que movimentam grandes volumes de tráfego;
 
@@ -305,21 +347,21 @@ d) Outras formas contratuais ou institucionais de colaboração, tais como acord
 
 3. Os acordos de repartição de tráfego e os contratos de serviço combinado carecem da aprovação do Ministro das Comunicações, o qual, na sua falta ou quando não forem aprovados, poderá definir supletivamente os esquemas que julgue adequados.
 
-###### Art. 12.º - 1. O Governo poderá autorizar a concessionária ferroviária, mediante proposta fundamentada desta, a explorar transportes por via terrestre ou fluvial, destinados a completar os serviços de transporte ferroviário existentes e com eles devidamente coordenados, sempre que tal exploração se justifique do ponto de vista da melhor satisfação das necessidades de transporte público, podendo também impor à concessionária a exploração desses transportes, quando assim o exija o interesse público.
+Art. 12.º - 1. O Governo poderá autorizar a concessionária ferroviária, mediante proposta fundamentada desta, a explorar transportes por via terrestre ou fluvial, destinados a completar os serviços de transporte ferroviário existentes e com eles devidamente coordenados, sempre que tal exploração se justifique do ponto de vista da melhor satisfação das necessidades de transporte público, podendo também impor à concessionária a exploração desses transportes, quando assim o exija o interesse público.
 
 2. A exploração de transportes colectivos rodoviários de passageiros pela concessionária só poderá ser autorizada na medida em que as exigências do tráfego e a conveniência da coordenação dos transportes rodoviários e ferroviários o aconselhe.
 
 3. A autorização da exploração dos serviços a que se refere o número anterior será precedida da audiência do Conselho Superior de Obras Públicas e Transportes, sempre que o Ministro das Comunicações o julgue conveniente.
 
-###### Art. 13.º Sempre que a concessionária ferroviária seja autorizada a cessar, nos termos do artigo 6.º, a exploração de linhas férreas ou ramais, deverá estabelecer serviços de transportes de passageiros e mercadorias em substituição dos serviços ferroviários, nos termos fixados no contrato de concessão.
+Art. 13.º Sempre que a concessionária ferroviária seja autorizada a cessar, nos termos do artigo 6.º, a exploração de linhas férreas ou ramais, deverá estabelecer serviços de transportes de passageiros e mercadorias em substituição dos serviços ferroviários, nos termos fixados no contrato de concessão.
 
-###### Art. 14.º - 1. O desenvolvimento da exploração dos serviços de transporte a que se referem os artigos 12.º e 13.º e respectivas operações acessórias reger-se-ão pelas disposições legais e regulamentares aplicáveis aos meios de transporte utilizados.
+Art. 14.º - 1. O desenvolvimento da exploração dos serviços de transporte a que se referem os artigos 12.º e 13.º e respectivas operações acessórias reger-se-ão pelas disposições legais e regulamentares aplicáveis aos meios de transporte utilizados.
 
 2. O disposto nos artigos 12.º e 13.º não prejudica a aplicação do regime de liberdade de transporte sempre e na medida em que tal regime esteja estabelecido.
 
 V - Do financiamento dos investimentos e da exploração ferroviária
 
-###### Art. 15.º - 1. Competirá ao Estado, nos termos que se revelarem mais adequados, suportar os encargos com a construção de novas linhas férreas.
+Art. 15.º - 1. Competirá ao Estado, nos termos que se revelarem mais adequados, suportar os encargos com a construção de novas linhas férreas.
 
 2. A construção abrange não só as linhas férreas e respectivas obras de arte, como também os edifícios das estações, o equipamento de sinalização, o material fixo de telecomunicações e ainda, quando se preveja a circulação de comboios de tracção eléctrica, o equipamento fixo de alta tensão destinado a alimentação dos comboios, incluindo as subestações de transformação.
 
@@ -333,7 +375,7 @@ b) Empréstimos concedidos pelo Estado em condições compatíveis com os prazos
 
 5. Aos financiamentos a que se refere a alínea a) do n.º 3 poderá ser concedido o aval do Estado, nos termos da legislação aplicável.
 
-###### Art. 16.º - 1. Tendo em conta o disposto no n.º 2 do artigo 4.º, o Estado compensará a concessionária ferroviária sempre que:
+Art. 16.º - 1. Tendo em conta o disposto no n.º 2 do artigo 4.º, o Estado compensará a concessionária ferroviária sempre que:
 
 a) Por imposição do interesse público, a concessionária tenha de manter equipamentos ou prestar serviços em condições ou a preços incompatíveis com uma gestão comercial equilibrada;
 
@@ -349,7 +391,7 @@ b) A concessionária suporte encargos anormais que não estejam sujeitas as empr
 
 6. Os programas a que se refere o número anterior carecem de aprovação por despacho conjunto dos Ministros das Finanças e das Comunicações.
 
-###### Art. 17.º - 1. Para facilitar as operações financeiras previstas nos artigos anteriores e obviar aos encargos ou prestar os auxílios ali referidos e, bem assim, aos resultantes da revisão do contrato de concessão única a que se refere o artigo 19.º, o Governo utilizará o Fundo Especial de Transportes Terrestres e quaisquer outros meios que julgue adequados.
+Art. 17.º - 1. Para facilitar as operações financeiras previstas nos artigos anteriores e obviar aos encargos ou prestar os auxílios ali referidos e, bem assim, aos resultantes da revisão do contrato de concessão única a que se refere o artigo 19.º, o Governo utilizará o Fundo Especial de Transportes Terrestres e quaisquer outros meios que julgue adequados.
 
 2. A fim de habilitar o Fundo Especial de Transportes Terrestres com os recursos indispensáveis à satisfação dos encargos resultantes do disposto no número anterior, fica o Ministro das Finanças autorizado a conceder ao Fundo, na medida em que as disponibilidades do Tesouro o permitam, a quota-parte deste na cobrança dos impostos ferroviários, de camionagem, de circulação e de compensação.
 
@@ -361,19 +403,19 @@ b) A concessionária suporte encargos anormais que não estejam sujeitas as empr
 
 VI - Disposições gerais e transitórias
 
-###### Art. 18.º Sempre que o tráfego o justifique, a concessionária ferroviária ou as empresas que careçam de acesso ao caminho de ferro poderão pedir a expropriação por utilidade pública dos imóveis ou direitos a eles relativos necessários à construção e exploração de ramais particulares, nos termos da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, e legislação complementar.
+Art. 18.º Sempre que o tráfego o justifique, a concessionária ferroviária ou as empresas que careçam de acesso ao caminho de ferro poderão pedir a expropriação por utilidade pública dos imóveis ou direitos a eles relativos necessários à construção e exploração de ramais particulares, nos termos da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, e legislação complementar.
 
-###### Art. 19.º - 1. O contrato de concessão única celebrado nos termos das bases anexas ao [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616), de 9 de Maio de 1951, será revisto tendo em conta as disposições deste diploma.
+Art. 19.º - 1. O contrato de concessão única celebrado nos termos das bases anexas ao [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616), de 9 de Maio de 1951, será revisto tendo em conta as disposições deste diploma.
 
 2. Na revisão a que se refere o número anterior proceder-se-á às demais alterações do mesmo contrato que se mostrem necessárias para o saneamento financeiro da empresa concessionária, para a conveniente reconversão dos serviços por ela prestados, no quadro da política geral de transportes, e para a reorganização da sua gestão técnica e comercial.
 
-###### Art. 20.º - 1. O Regulamento para a Exploração e Polícia dos Caminhos de Ferro, aprovado pelo [Decreto-Lei n.º 39780](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39780-1954-638760), de 21 de Agosto de 1954, e alterado pelo [Decreto-Lei n.º 48594](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48594-1968-264553), de 26 de Setembro de 1968, será revisto no sentido do seu ajustamento às novas condições da exploração ferroviária.
+Art. 20.º - 1. O Regulamento para a Exploração e Polícia dos Caminhos de Ferro, aprovado pelo [Decreto-Lei n.º 39780](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39780-1954-638760), de 21 de Agosto de 1954, e alterado pelo [Decreto-Lei n.º 48594](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48594-1968-264553), de 26 de Setembro de 1968, será revisto no sentido do seu ajustamento às novas condições da exploração ferroviária.
 
 2. A legislação vigente sobre preços e condições do transporte ferroviário será revista, dentro do prazo de um ano, tendo em vista a sua adaptação ao disposto no capítulo III do presente diploma.
 
 3. As disposições contidas no [Decreto-Lei n.º 27665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27665-1937-419843), de 24 de Abril de 1937, alterado pelo [Decreto-Lei n.º 48047](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48047-1967-401003), de 20 de Novembro de 1967, ficarão revogadas à medida que for dada execução ao disposto nos artigos 9.º e 10.º
 
-###### Art. 21.º - 1. Fica revogado o Decreto com força de lei n.º 18190, de 28 de Março de 1930.
+Art. 21.º - 1. Fica revogado o Decreto com força de lei n.º 18190, de 28 de Março de 1930.
 
 2. São extintos os condicionamentos ferroviários existentes nas zonas abrangidas por linhas ainda não construídas e que não hajam sido incluídas na concessão aprovada pelo [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616), constantes do Plano Geral da Rede Ferroviária, aprovado pelo Decreto com força de lei n.º 18190.
 
@@ -389,10 +431,10 @@ VI - Disposições gerais e transitórias
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 21 de Fevereiro de 1973.**
+Promulgado em 21 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

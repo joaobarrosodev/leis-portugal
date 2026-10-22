@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30000/21582159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/744-1975-316698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c449d44c62741a72fea594f37763f19d5c88dea032be81995e35f5610109052c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ced9a1dd7e3d3e80bb43391d2eadffdb6e2f3cc92abf1f034eb2ad26cf90f1cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Carne
+- Controlo Sanitário
+- Definição de Competências
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Produto Cárneo
+- Remuneração Acessória
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:666744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:408338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:666744:por
+  label: Revogados, a partir de 01.12.1993, os arts. 3.º e 6.º do Dec Lei 661/74 de 26-nov, na redação dada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 365/93 - Diário da República n.º 248/1993, Série I-A de 1993-10-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1993-666744
+  date: '1993-10-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:07Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +124,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º e 6.º do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º e 6.º do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1. Por delegação da Direcção-Geral dos Serviços Pecuários, cabe obrigatoriamente às câmaras municipais assegurar a inspecção hígio-sanitária nos matadouros, casas de matança e outros locais e, bem assim, em qualquer fase do circuito de preparação, distribuição, armazenamento e comercialização da carne, subprodutos e despojos.
+Art. 3.º - 1. Por delegação da Direcção-Geral dos Serviços Pecuários, cabe obrigatoriamente às câmaras municipais assegurar a inspecção hígio-sanitária nos matadouros, casas de matança e outros locais e, bem assim, em qualquer fase do circuito de preparação, distribuição, armazenamento e comercialização da carne, subprodutos e despojos.
 
 2. Nos matadouros industriais com características que possibilitem a sua integração na rede nacional a inspecção hígio-sanitária deverá ser efectuada, sempre que possível, por elementos do corpo de inspectores da sanidade pecuária.
 
 ...
 
-###### Art. 6.º - 1. Cessam todos os impostos e taxas cobrados pelas câmaras municipais que derivam das competências atribuídas no Código Administrativo ou que correspondam aos serviços prestados nos matadouros e casas de matança, bem como ao transporte e conservação da carne, subprodutos e despojos.
+Art. 6.º - 1. Cessam todos os impostos e taxas cobrados pelas câmaras municipais que derivam das competências atribuídas no Código Administrativo ou que correspondam aos serviços prestados nos matadouros e casas de matança, bem como ao transporte e conservação da carne, subprodutos e despojos.
 
 2. Exceptuam-se do disposto no número anterior as taxas de inspecção sanitária de carnes verdes, refrigeradas ou congeladas, que terão os valores máximos de $20 e $60 por quilograma de carne, consoante o serviço de inspecção seja efectuado, respectivamente, dentro ou fora da sede do partido veterinário.
 
@@ -119,8 +146,8 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 18 de Dezembro de 1975.**
+Promulgado em 18 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

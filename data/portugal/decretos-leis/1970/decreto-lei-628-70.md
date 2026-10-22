@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1970-146043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad4f26af0149ebb062130365988ca7fb595b6b79246f7e2aa32fca1ed19cc09b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41fb2beeef1045dea4c65cba8c5815ef320a0b77cde0e5581750ba04d37cd3d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças
+- Ministério do Ultramar
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:281447:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:04Z'
   warnings: []
   errors: []
 ---
@@ -88,18 +96,18 @@ de 21 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério do Ultramar, um crédito especial, no montante de 310000000$00, destinado a reforçar a verba inscrita no artigo 131.º «Auxílios financeiros às províncias ultramarinas», capítulo 17.º «III Plano de Fomento», do orçamento em vigor do segundo dos aludidos Ministérios.
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério do Ultramar, um crédito especial, no montante de 310000000$00, destinado a reforçar a verba inscrita no artigo 131.º «Auxílios financeiros às províncias ultramarinas», capítulo 17.º «III Plano de Fomento», do orçamento em vigor do segundo dos aludidos Ministérios.
 
-###### Art. 2.º Para contrapartida do crédito aberto no artigo precedente, é adicionada igual quantia à verba inscrita no capítulo 9.º, artigo 293.º «Produto da emissão de títulos nos termos do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960», do orçamento das receitas para o actual ano económico.
+Art. 2.º Para contrapartida do crédito aberto no artigo precedente, é adicionada igual quantia à verba inscrita no capítulo 9.º, artigo 293.º «Produto da emissão de títulos nos termos do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960», do orçamento das receitas para o actual ano económico.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 14 de Dezembro de 1970.**
+Promulgado em 14 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

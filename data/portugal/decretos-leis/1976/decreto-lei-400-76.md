@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12300/11881192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1976-426953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60c3860512898b54f218109557a785474addd9aabef9a221fd98c5deb3c13036
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cdc6b9bf4f1d01030efa926256a3ef780a1169208604a526eb7f697877fcbd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Instituto Nacional de Seguros
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:397311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141627:por
+  label: "Dada nova redacção ao nº 3 do art. 11º pelo DEC LEI.73/77.28.02.1977.MF, DR.IS [49] de 28.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1977-141627
+  date: '1977-02-28'
+- type: amended_by
+  target: pt:dre:383589:por
+  label: "Dada nova redacção ao artigo 8.º do Estatuto pelo DEC LEI.161/79.30.05.1979.MFP, DR.IS [124] de 30.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1979-383589
+  date: '1979-05-30'
+- type: cites
+  target: pt:dre:241196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397311:por
+  label: Revogado o Estatuto do Instituto Nacional de Seguros, aprovado pelo presente diploma, pelo(a) Decreto-Lei n.º 302/82
+    - Diário da República n.º 174/1982, Série I de 1982-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-1982-397311
+  date: '1982-07-30'
 article_structure:
   article_count: 35
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:28Z'
   warnings: []
   errors: []
 ---
@@ -440,8 +463,8 @@ A Comissão Instaladora do Instituto Nacional de Seguros (CIINS) é dissolvida n
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 17 de Maio de 1976.**
+Promulgado em 17 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

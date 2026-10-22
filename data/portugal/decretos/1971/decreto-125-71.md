@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/125-1971-445703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53cdd20bdfa7f54f82f35154427be5284c644af885ea9bb2eb463f37c206b2d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b080b2be85f9aaaf35a51a3d7acf9109750569068b5180309281ad8e73a8f48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:47Z'
   warnings: []
   errors: []
 ---
@@ -114,11 +118,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Natureza, fins e atribuições
 
-###### Artigo 1.º É criada em Cabo Verde, e na dependência directa do governador, a Junta Autónoma das Instalações de Dessalinização de Água, organismo com personalidade jurídica e autonomia administrativa e financeira, a quem compete toda a jurisdição sobre as instalações de dessalinização de água do arquipélago, com excepção das que não dependam da administração provincial.
+Artigo 1.º É criada em Cabo Verde, e na dependência directa do governador, a Junta Autónoma das Instalações de Dessalinização de Água, organismo com personalidade jurídica e autonomia administrativa e financeira, a quem compete toda a jurisdição sobre as instalações de dessalinização de água do arquipélago, com excepção das que não dependam da administração provincial.
 
-###### Art. 2.º A Junta tem por fins coordenar as actividades provinciais relacionadas com o estudo, construção e exploração de instalações de dessalinização de águas para quaisquer fins, manter as instalações em serviço e administrar os correspondentes sistemas de fornecimento de água.
+Art. 2.º A Junta tem por fins coordenar as actividades provinciais relacionadas com o estudo, construção e exploração de instalações de dessalinização de águas para quaisquer fins, manter as instalações em serviço e administrar os correspondentes sistemas de fornecimento de água.
 
-###### Art. 3.º Constituem atribuições da Junta:
+Art. 3.º Constituem atribuições da Junta:
 
 a) Administrar os serviços públicos de fornecimento de água dessalinizada, de distribuição urbana ou de provimento industrial ou agrícola;
 
@@ -140,7 +144,7 @@ i) Emitir pareceres e realizar trabalhos que lhe sejam cometidos, dentro da sua 
 
 ### CAPÍTULO II — Dos órgãos da Junta
 
-###### Art. 4.º - 1. São órgãos da Junta Autónoma das Instalações de Dessalinização de Água:
+Art. 4.º - 1. São órgãos da Junta Autónoma das Instalações de Dessalinização de Água:
 
 a) O presidente da Junta;
 
@@ -166,9 +170,9 @@ d) Os presidentes das câmaras municipais dos concelhos onde haja serviços de d
 
 7. No caso de falta, ausência ou impedimento, serão os vogais substituídos pelos seus substitutos legais na função principal.
 
-###### Art. 5.º Ao conselho administrativo cabe deliberar, de acordo com as leis e regulamentos aplicáveis e com as normas de trabalho aprovadas pelo governador, sobre todos os assuntos da competência da Junta.
+Art. 5.º Ao conselho administrativo cabe deliberar, de acordo com as leis e regulamentos aplicáveis e com as normas de trabalho aprovadas pelo governador, sobre todos os assuntos da competência da Junta.
 
-###### Art. 6.º - 1. O conselho administrativo reúne obrigatòriamente, em sessão ordinária, duas vezes por ano, sendo uma para apreciar o orçamento ordinário e outra para apreciar as contas da gerência; além das sessões ordinárias, terá as reuniões extraordinárias que forem determinadas pelo seu presidente ou requeridas pela maioria dos vogais, não só para os fins indicados no artigo 8.º, como para quaisquer outros objectivos prèviamente consignados na ordem do dia.
+Art. 6.º - 1. O conselho administrativo reúne obrigatòriamente, em sessão ordinária, duas vezes por ano, sendo uma para apreciar o orçamento ordinário e outra para apreciar as contas da gerência; além das sessões ordinárias, terá as reuniões extraordinárias que forem determinadas pelo seu presidente ou requeridas pela maioria dos vogais, não só para os fins indicados no artigo 8.º, como para quaisquer outros objectivos prèviamente consignados na ordem do dia.
 
 2. As reuniões são convocadas pelo presidente com, pelo menos, oito dias de antecedência, devendo os avisos convocatórios indicar os assuntos a tratar.
 
@@ -176,11 +180,11 @@ d) Os presidentes das câmaras municipais dos concelhos onde haja serviços de d
 
 4. Antes da ordem do dia, poderão os vogais apresentar propostas, as quais deverão ser incluídas na ordem do dia de reuniões ulteriores, salvo quando tratem de assuntos urgentes, como tal reconhecidos pela maioria dos vogais presentes, caso em que a discussão será imediata.
 
-###### Art. 7.º - 1. As deliberações do conselho administrativo serão tomadas pela maioria absoluta de votos, tendo o presidente apenas voto de qualidade.
+Art. 7.º - 1. As deliberações do conselho administrativo serão tomadas pela maioria absoluta de votos, tendo o presidente apenas voto de qualidade.
 
 2. Os vogais são solidàriamente responsáveis pela execução das funções atribuídas ao conselho administrativo.
 
-###### Art. 8.º Compete especialmente ao conselho administrativo:
+Art. 8.º Compete especialmente ao conselho administrativo:
 
 a) Apreciar os orçamentos ordinários e suplementares, a submeter superiormente;
 
@@ -220,9 +224,9 @@ i) Admitir e dispensar pessoal assalariado de carácter permanente;
 
 j) Proceder a balanços à tesouraria, armazéns e depósitos de materiais, quando julgar conveniente.
 
-###### Art. 9.º Servirá de secretário do conselho administrativo um funcionário da Junta designado pelo conselho administrativo por proposta do presidente.
+Art. 9.º Servirá de secretário do conselho administrativo um funcionário da Junta designado pelo conselho administrativo por proposta do presidente.
 
-###### Art. 10.º Compete ao presidente do conselho administrativo:
+Art. 10.º Compete ao presidente do conselho administrativo:
 
 a) Convocar as reuniões do conselho administrativo;
 
@@ -232,17 +236,17 @@ c) Despachar a correspondência dirigida ao conselho administrativo;
 
 d) Outorgar nos contratos em que a Junta seja parte.
 
-###### Art. 11.º Compete ao vice-presidente do conselho administrativo:
+Art. 11.º Compete ao vice-presidente do conselho administrativo:
 
 a) Coadjuvar o presidente no desempenho do cargo deste;
 
 b) Substituir o presidente nas suas faltas, ausências ou impedimentos.
 
-###### Art. 12.º - 1. O presidente da Junta é o órgão executivo das deliberações do conselho administrativo a quem compete dirigir e assegurar a unidade e a coordenação dos serviços da Junta.
+Art. 12.º - 1. O presidente da Junta é o órgão executivo das deliberações do conselho administrativo a quem compete dirigir e assegurar a unidade e a coordenação dos serviços da Junta.
 
 2. O presidente da Junta terá dois adjuntos, aos quais compete a chefia das divisões administrativa e técnica.
 
-###### Art. 13.º Compete especialmente ao presidente da Junta:
+Art. 13.º Compete especialmente ao presidente da Junta:
 
 a) Submeter directamente ao governador todos os assuntos que lhe devam ser presentes;
 
@@ -272,11 +276,11 @@ m) Aprovar as escalas de serviço;
 
 n) Resolver os assuntos que, embora da competência do conselho administrativo, não possam, por urgentes, aguardar a reunião daquele, ao qual, no entanto, deverão ser presentes na primeira reunião ulterior.
 
-###### Art. 14.º Nas suas faltas, ausências ou impedimentos, será o presidente da Junta substituído pelo vice-presidente do conselho administrativo.
+Art. 14.º Nas suas faltas, ausências ou impedimentos, será o presidente da Junta substituído pelo vice-presidente do conselho administrativo.
 
 ### CAPÍTULO III — Dos serviços e do pessoal da Junta
 
-###### Art. 15.º - 1. Os serviços da Junta compreendem os serviços centrais, com sede no Mindelo, e os serviços externos, constituídos por delegações correspondentes a instalações de dessalinização.
+Art. 15.º - 1. Os serviços da Junta compreendem os serviços centrais, com sede no Mindelo, e os serviços externos, constituídos por delegações correspondentes a instalações de dessalinização.
 
 2. Aos serviços centrais compete enquadrar e coordenar todas as actividades da Junta e estabelecer e assistir as delegações, designadamente através dos quadros do pessoal.
 
@@ -284,7 +288,7 @@ n) Resolver os assuntos que, embora da competência do conselho administrativo, 
 
 4. A instalação de dessalinização do Mindelo depende directamente dos serviços centrais, sem constituir delegação.
 
-###### Art. 16.º Os serviços centrais compreendem:
+Art. 16.º Os serviços centrais compreendem:
 
 A) Divisão administrativa:
 
@@ -310,23 +314,23 @@ d) Oficinas e parque;
 
 e) Distribuição de água.
 
-###### Art. 17.º O pessoal da Junta é o que consta do mapa anexo a este diploma.
+Art. 17.º O pessoal da Junta é o que consta do mapa anexo a este diploma.
 
-###### Art. 18.º Quando as necessidades dos serviços o justificarem, poderá ser admitido pessoal eventual, que será abonado por verbas inscritas globalmente, para o efeito, no orçamento da Junta.
+Art. 18.º Quando as necessidades dos serviços o justificarem, poderá ser admitido pessoal eventual, que será abonado por verbas inscritas globalmente, para o efeito, no orçamento da Junta.
 
-###### Art. 19.º O âmbito de cada departamento referido no artigo 16.º e a admissão, promoção e movimento do pessoal serão definidos no regulamento da Junta.
+Art. 19.º O âmbito de cada departamento referido no artigo 16.º e a admissão, promoção e movimento do pessoal serão definidos no regulamento da Junta.
 
-###### Art. 20.º O quadro privativo, constante do mapa anexo a este diploma, poderá ser alterado por diploma legislativo, mediante proposta do conselho administrativo fundamentada nas necessidades dos serviços.
+Art. 20.º O quadro privativo, constante do mapa anexo a este diploma, poderá ser alterado por diploma legislativo, mediante proposta do conselho administrativo fundamentada nas necessidades dos serviços.
 
 ### CAPÍTULO IV — Dos meios financeiros e da administração
 
-###### Art. 21.º - 1. A administração financeira da Junta tem por base o orçamento próprio e será regulada de harmonia com a legislação dos organismos dotados de autonomia administrativa e financeira.
+Art. 21.º - 1. A administração financeira da Junta tem por base o orçamento próprio e será regulada de harmonia com a legislação dos organismos dotados de autonomia administrativa e financeira.
 
 2. A importância correspondente ao orçamento da Junta será inscrita no orçamento geral da província, nos termos do artigo 22.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930.
 
 3. A Junta enviará todos os anos, no prazo legal, ao Tribunal Administrativo, para julgamento, as contas da gerência acompanhadas dos justificativos.
 
-###### Art. 22.º - 1. As receitas da Junta são classificadas em ordinárias e extraordinárias.
+Art. 22.º - 1. As receitas da Junta são classificadas em ordinárias e extraordinárias.
 
 2. São receitas ordinárias:
 
@@ -360,15 +364,15 @@ e) O produto de indemnizações por danos e prejuízos;
 
 f) Outras receitas permitidas por lei.
 
-###### Art. 23.º Os saldos das receitas referidas no artigo 22.º podem ser despendidos pela Junta nos anos económicos seguintes àqueles a que disserem respeito.
+Art. 23.º Os saldos das receitas referidas no artigo 22.º podem ser despendidos pela Junta nos anos económicos seguintes àqueles a que disserem respeito.
 
-###### Art. 24.º A Junta arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos que legalmente lhe caibam.
+Art. 24.º A Junta arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos que legalmente lhe caibam.
 
-###### Art. 25.º Logo que haja dotação orçamental correspondente, o conselho administrativo requisitará à Repartição dos Serviços de Fazenda, com regularidade adequada às necessidades, as importâncias que forem precisas, por conta das dotações consignadas à Junta no orçamento geral da província; essas requisições, depois de visadas pela mesma Repartição, serão expedidas com os competentes autorizações de pagamento para o Banco Nacional Ultramarino, como caixa do Tesouro, sendo as respectivas importâncias levantadas pela Junta e por ela depositadas, à sua ordem, no mesmo Banco.
+Art. 25.º Logo que haja dotação orçamental correspondente, o conselho administrativo requisitará à Repartição dos Serviços de Fazenda, com regularidade adequada às necessidades, as importâncias que forem precisas, por conta das dotações consignadas à Junta no orçamento geral da província; essas requisições, depois de visadas pela mesma Repartição, serão expedidas com os competentes autorizações de pagamento para o Banco Nacional Ultramarino, como caixa do Tesouro, sendo as respectivas importâncias levantadas pela Junta e por ela depositadas, à sua ordem, no mesmo Banco.
 
-###### Art. 26.º Os levantamentos de fundos serão feitos por meio de cheques. Os pagamentos serão também efectuados, em regra, por meio de cheques, e estes entregues em troca dos competentes recibos, devidamente legalizados.
+Art. 26.º Os levantamentos de fundos serão feitos por meio de cheques. Os pagamentos serão também efectuados, em regra, por meio de cheques, e estes entregues em troca dos competentes recibos, devidamente legalizados.
 
-###### Art. 27.º - 1. As despesas da Junta são classificadas em fixas e variáveis.
+Art. 27.º - 1. As despesas da Junta são classificadas em fixas e variáveis.
 
 2. São despesas fixas as remunerações do pessoal permanente.
 
@@ -384,21 +388,21 @@ d) A amortização de empréstimos e os encargos de quaisquer operações financ
 
 e) As despesas eventuais não especificadas.
 
-###### Art. 28.º A Junta deverá aplicar directamente nas suas despesas o produto total das receitas, de acordo com o orçamento aprovado.
+Art. 28.º A Junta deverá aplicar directamente nas suas despesas o produto total das receitas, de acordo com o orçamento aprovado.
 
-###### Art. 29.º Compete ao conselho administrativo estabelecer o regime dos balanços, quer à tesouraria, quer às demais existências de valores nas instalações da Junta, sem prejuízo de outros balanços que o presidente da Junta, como presidente do conselho administrativo, julgue conveniente efectuar.
+Art. 29.º Compete ao conselho administrativo estabelecer o regime dos balanços, quer à tesouraria, quer às demais existências de valores nas instalações da Junta, sem prejuízo de outros balanços que o presidente da Junta, como presidente do conselho administrativo, julgue conveniente efectuar.
 
-###### Art. 30.º - 1. No orçamento das despesas da Junta serão inscritas anualmente, sob as designações «Fundo de reserva», «Fundo de conservação», «Fundo de renovação» e «Fundo de melhoramentos», as verbas obtidas por distribuição dos saldos líquidos da gerência, nas proporções que forem fixadas pelo governador, sob proposta do conselho administrativo.
+Art. 30.º - 1. No orçamento das despesas da Junta serão inscritas anualmente, sob as designações «Fundo de reserva», «Fundo de conservação», «Fundo de renovação» e «Fundo de melhoramentos», as verbas obtidas por distribuição dos saldos líquidos da gerência, nas proporções que forem fixadas pelo governador, sob proposta do conselho administrativo.
 
 2. O Fundo de reserva destina-se a cobrir situações deficitárias de emergência e só poderá ser utilizado mediante despacho do governador da província, sob proposta do conselho administrativo; o Fundo de conservação destina-se a assegurar o bom estado e eficiência dos equipamentos; o Fundo de renovação destina-se a assegurar as substituições de equipamentos, e o Fundo de melhoramentos destina-se a novas obras e à aquisição de novos equipamentos.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 31.º - 1. O presidente, os vogais e o secretário do conselho administrativo terão direito a senhas de presença, cujos quantitativos serão fixados pelo governador, mediante proposta do conselho administrativo, e não poderão exceder o limite máximo legalmente estabelecido para os servidores do Estado.
+Art. 31.º - 1. O presidente, os vogais e o secretário do conselho administrativo terão direito a senhas de presença, cujos quantitativos serão fixados pelo governador, mediante proposta do conselho administrativo, e não poderão exceder o limite máximo legalmente estabelecido para os servidores do Estado.
 
 2. Os funcionários indicados no n.º 1, quando em serviço se desloquem da localidade em que residem, terão direito a transportes e a ajudas de custo, nos termos do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 32.º O pessoal da Junta, além das remunerações certas normais e especiais que lhe são atribuídas, terá direito aos seguintes abonos e gratificações cujos montantes serão fixados pelo governador da província, mediante proposta do conselho administrativo:
+Art. 32.º O pessoal da Junta, além das remunerações certas normais e especiais que lhe são atribuídas, terá direito aos seguintes abonos e gratificações cujos montantes serão fixados pelo governador da província, mediante proposta do conselho administrativo:
 
 a) Abono para falhas de tesoureiro;
 
@@ -406,9 +410,9 @@ b) Remuneração por trabalhos extraordinários;
 
 c) Subsídio diário ao pessoal técnico, por equiparação com o pessoal das mesmas categorias da Repartição de Obras Públicas e Transportes.
 
-###### Art. 33.º A Junta pode, quando devidamente autorizada pelo Governo da província, negociar empréstimos ou outras operações financeiras destinadas a custear a execução de obras ou empreendimentos.
+Art. 33.º A Junta pode, quando devidamente autorizada pelo Governo da província, negociar empréstimos ou outras operações financeiras destinadas a custear a execução de obras ou empreendimentos.
 
-###### Art. 34.º - 1. Em tudo o que respeitar às matérias versadas no capítulo III deste diploma, e que não se encontre expressamente contemplado, fica o pessoal da Junta sujeito ao disposto no Estatuto do Funcionalismo Ultramarino e demais legislação aplicável, designadamente quanto a provimentos.
+Art. 34.º - 1. Em tudo o que respeitar às matérias versadas no capítulo III deste diploma, e que não se encontre expressamente contemplado, fica o pessoal da Junta sujeito ao disposto no Estatuto do Funcionalismo Ultramarino e demais legislação aplicável, designadamente quanto a provimentos.
 
 2. Os funcionários da Junta terão todos os direitos e deveres dos funcionários públicos da província de Cabo Verde.
 
@@ -422,23 +426,23 @@ c) Subsídio diário ao pessoal técnico, por equiparação com o pessoal das me
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 35.º No prazo de seis meses sobre a data da entrada em vigor deste diploma, a Junta submeterá à aprovação do Governo da província o regulamento interno a que se refere o artigo 19.º
+Art. 35.º No prazo de seis meses sobre a data da entrada em vigor deste diploma, a Junta submeterá à aprovação do Governo da província o regulamento interno a que se refere o artigo 19.º
 
-###### Art. 36.º Os quadros do pessoal deverão ser preenchidos gradualmente, consoante as necessidades do serviço.
+Art. 36.º Os quadros do pessoal deverão ser preenchidos gradualmente, consoante as necessidades do serviço.
 
-###### Art. 37.º Os primeiros provimentos dos lugares de adjunto poderão recair em funcionários dos quadros do Ministério ou das províncias, com dispensa das habilitações correspondentes à categoria, mas especialmente qualificados para os cargos a desempenhar, desde que tenham mais de cinco anos de exercício da função pública.
+Art. 37.º Os primeiros provimentos dos lugares de adjunto poderão recair em funcionários dos quadros do Ministério ou das províncias, com dispensa das habilitações correspondentes à categoria, mas especialmente qualificados para os cargos a desempenhar, desde que tenham mais de cinco anos de exercício da função pública.
 
-###### Art. 38.º Enquanto a Junta não dispuser de casas próprias, o conselho administrativo proporá superiormente subsídios de renda de casa para serem abonados aos funcionários que tenham direito a residência.
+Art. 38.º Enquanto a Junta não dispuser de casas próprias, o conselho administrativo proporá superiormente subsídios de renda de casa para serem abonados aos funcionários que tenham direito a residência.
 
-###### Art. 39.º Fica o governador de Cabo Verde autorizado a abrir os créditos necessários à execução do presente diploma.
+Art. 39.º Fica o governador de Cabo Verde autorizado a abrir os créditos necessários à execução do presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Março de 1971.**
+Promulgado em 26 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 
@@ -496,4 +500,4 @@ Quadro do pessoal assalariado permanente
 
 1 servente ... Y
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

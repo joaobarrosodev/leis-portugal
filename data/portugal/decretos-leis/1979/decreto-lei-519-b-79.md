@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 298/1979, 2º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3414-(6) a 3414-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29802/00060007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-b-1979-510043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e3dad063ecf83d71e11485ad79bb2ddaba4479a6447aeef30262ce21846b57b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b630ad26ef649f925a8d52b4666d0902801f5215c21ebce60db828b0677ddde1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Caixa Geral de Aposentações
+- Cálculo de Pensões
+- Diuturnidades
+- Função Pública
+- Montepio dos Servidores do Estado
+- Pensões
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299001:por
+  label: "Alterado o n.º 4 pelo DEC LEI.95/80.1980.05.05.PCM DR.IS [103]SUPLM\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1980-299001
+  date: '1980-05-05'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678780:por
+  label: Rectificado pela DECL.DD6756.21.02.1980.PCM, DR.IS [54] de 05.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678780
+  date: '1980-02-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:56Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +128,24 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As pensões definitivas ou transitórias de aposentação calculadas antes do dia 1 de Outubro de 1979 serão corrigidas fazendo intervir, na respectiva base de cálculo, o aumento de 250$00 fixado para as diuturnidades pelo n.º 1 do artigo 10.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, de acordo com os anos de serviço contados na fixação das pensões.
+Artigo 1.º - 1 - As pensões definitivas ou transitórias de aposentação calculadas antes do dia 1 de Outubro de 1979 serão corrigidas fazendo intervir, na respectiva base de cálculo, o aumento de 250$00 fixado para as diuturnidades pelo n.º 1 do artigo 10.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, de acordo com os anos de serviço contados na fixação das pensões.
 
 2 - O disposto no número anterior aplica-se, com as devidas adaptações, às pensões de sobrevivência.
 
 3 - Os pensionistas do Montepio dos Servidores do Estado, abrangidos pelo Decreto n.º 24046, de 21 de Junho de 1934, poderão igualmente ver aumentadas as suas pensões unitárias em metade do valor do aumento das diuturnidades correspondentes ao tempo de serviço prestado pelo autor da pensão durante o qual contribuiu.
 
-###### Art. 2.º As pensões pagas através da Caixa Geral de Aposentações ou do Montepio dos Servidores do Estado em cujo encargo o Estado não comparticipe poderão ser corrigidas de acordo com este diploma, mediante decisão das entidades competentes.
+Art. 2.º As pensões pagas através da Caixa Geral de Aposentações ou do Montepio dos Servidores do Estado em cujo encargo o Estado não comparticipe poderão ser corrigidas de acordo com este diploma, mediante decisão das entidades competentes.
 
-###### Art. 3.º É revogado o n.º 2 do artigo 10.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
+Art. 3.º É revogado o n.º 2 do artigo 10.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 4.º O disposto no presente diploma produz efeitos a partir de 1 de Janeiro de 1980: ou
+Art. 4.º O disposto no presente diploma produz efeitos a partir de 1 de Janeiro de 1980: ou
 
-###### Art. 4.º O disposto no presente diploma produz efeitos desde 1 de Outubro de 1979.
+Art. 4.º O disposto no presente diploma produz efeitos desde 1 de Outubro de 1979.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

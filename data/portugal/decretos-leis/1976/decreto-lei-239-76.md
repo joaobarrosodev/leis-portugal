@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08200/06810686.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1976-502825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9da9840d135d683633b1e9315669f10ecb55d6934060a6878a2c99237f1d83c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa5d6ce9a0c59e6d4e7398abdbd7e2f9d64de6fd7549461c57db388c9d684d8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Investimentos Estrangeiros
+- Estatuto
+- Instituto de Investimento Estrangeiro
+- Investimento Estrangeiro
 relationships:
 - type: amended_by
   target: pt:dre:659717:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482615:por
+  label: "Prorrogado até 31.12.1976 o prazo para o registo dos investimentos directos ou reinvestimentos estrangeiros a que\
+    \ se referem o nº1 do art. 10º e o art. 32º do presente diploma, pelo DEC LEI.716-C/76.08.10.1976.MPCE, DR.IS [236-Supl]\
+    \ de 08.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/716-c-1976-482615
+  date: '1976-10-08'
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:427827:por
+  label: Rectificado pela DECL.DD8843.13.05.1976.PCM, DR.IS [112] de 13.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427827
+  date: '1976-05-13'
+- type: corrected_by
+  target: pt:dre:427096:por
+  label: Rectificado pela DECL.DD8953.12.06.1976.PCM, DR.IS [137] de 12.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427096
+  date: '1976-06-12'
+- type: repealed_by
+  target: pt:dre:659717:por
+  label: "Revogado pelo DEC LEI.348/77.24.08.1977.MPCE, DR.IS [195]Supl de 24.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/348-1977-659717
+  date: '1977-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:26Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +162,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O investimento directo estrangeiro em Portugal deve subordinar-se:
+Artigo 1.º O investimento directo estrangeiro em Portugal deve subordinar-se:
 
 a) Aos princípios informadores do Estado em matéria política económica;
 
@@ -140,7 +170,7 @@ b) Ao plano económico e aos diplomas que o concretizam;
 
 c) Às regras constantes deste decreto-lei, que, juntamente com as disposições que o regulamentarem, constituem o Código de Investimentos Estrangeiros.
 
-###### Art. 2.º Para efeitos do presente diploma considera-se:
+Art. 2.º Para efeitos do presente diploma considera-se:
 
 a) Investimento directo estrangeiro. - Todas as contribuições provenientes do estrangeiro, efectuadas por pessoas singulares ou colectivas estrangeiras, quer para actividade empresarial própria, quer para o capital de sociedades constituídas ou a constituir em Portugal, desde que se destinem a apoiar o desenvolvimento económico e social do País e qualquer que seja a forma que assumam, desde que autorizada na lei. Considera-se igualmente investimento directo estrangeiro o investimento em moeda nacional proveniente de recursos com direito a serem transferidos para O exterior, nos termos do presente diploma;
 
@@ -150,9 +180,9 @@ c) Entidade competente. - O Instituto do Investimento Estrangeiro.
 
 ### CAPÍTULO II — Regime de autorizações
 
-###### Art. 3.º Os investimentos directos estrangeiros deverão ser objecto de avaliação, autorização e registo, de acordo com as disposições do presente capítulo.
+Art. 3.º Os investimentos directos estrangeiros deverão ser objecto de avaliação, autorização e registo, de acordo com as disposições do presente capítulo.
 
-###### Art. 4.º - 1. Os projectos de investimento directo estrangeiro, uma vez aprovados os respectivos estudos de viabilidade técnica e comercial, deverão ser objecto de apreciação global, tendo em conta, entre outros, os seguintes factores:
+Art. 4.º - 1. Os projectos de investimento directo estrangeiro, uma vez aprovados os respectivos estudos de viabilidade técnica e comercial, deverão ser objecto de apreciação global, tendo em conta, entre outros, os seguintes factores:
 
 a) Criação de novos empregos;
 
@@ -180,7 +210,7 @@ m) Reduzida poluição industrial.
 
 2. Não será concedida autorização quando o investimento se traduza por mera aquisição ou absorção de partes sociais ou empresas já constituídas, por parte de entidade estrangeira, salvo se daí resultarem programas de aperfeiçoamento tecnológico, aumento de produtividade, expansão da actividade produtiva ou reestruturação financeira significativa e que sejam considerados de interesse para a economia nacional.
 
-###### Art. 5.º Para efeitos de autorização, estabelecem-se dois regimes distintos:
+Art. 5.º Para efeitos de autorização, estabelecem-se dois regimes distintos:
 
 1. Regime geral, que goza dos incentivos e está sujeito às condições genéricas atribuídas às empresas nacionais;
 
@@ -188,19 +218,19 @@ m) Reduzida poluição industrial.
 
 3. As autorizações para os projectos submetidos ao regime geral serão dadas pela entidade competente, sendo as autorizações ao abrigo do regime contratual das atribuições do Conselho de Ministros, qualificando-se os contratos em causa como contratos administrativos.
 
-###### Art. 6.º - 1. A autorização dos projectos de investimento directo estrangeiro, feita a sua avaliação nos termos do artigo 4.º, será objecto de formalização em documento oficial, que incorporará as condições específicas de cada caso, bem como implicará a autorização de todos os departamentos do Estado interessados.
+Art. 6.º - 1. A autorização dos projectos de investimento directo estrangeiro, feita a sua avaliação nos termos do artigo 4.º, será objecto de formalização em documento oficial, que incorporará as condições específicas de cada caso, bem como implicará a autorização de todos os departamentos do Estado interessados.
 
 2. Para o efeito, a entidade competente obterá, junto dos departamentos de Estado respectivos, os pareceres técnicos sobre o projecto, bem como as autorizações necessárias ao cumprimento das disposições legais em vigor, que condicionem, em geral, a realização de projectos de investimento do mesmo tipo.
 
-###### Art. 7.º Os investimentos directos estrangeiros, depois de devidamente avaliados e autorizados nos termos dos artigos anteriores, serão objecto de registo pela entidade competente.
+Art. 7.º Os investimentos directos estrangeiros, depois de devidamente avaliados e autorizados nos termos dos artigos anteriores, serão objecto de registo pela entidade competente.
 
-###### Art. 8.º - 1. A entidade competente pronunciar-se-á sobre os projectos que lhe forem submetidos no prazo de noventa dias.
+Art. 8.º - 1. A entidade competente pronunciar-se-á sobre os projectos que lhe forem submetidos no prazo de noventa dias.
 
 2. O prazo referido no número anterior poderá ser prorrogado por despacho ministerial, por períodos de noventa dias, por uma única vez, se se tratar de projectos admitidos ao regime geral, e por duas vezes, se se tratar de projectos admitidos ao regime contratual.
 
 3. Se nenhuma resposta for dada, no termo dos prazos mencionados, aos pedidos sujeitos ao regime geral, a autorização considerar-se-á automaticamente concedida.
 
-###### Art. 9.º - 1. Os investimentos directos realizados, a partir da entrada em vigor deste diploma, por entidades estrangeiras são permitidos em todos os sectores, excepto nos que interessem à defesa do Estado e nos que a seguir se referem:
+Art. 9.º - 1. Os investimentos directos realizados, a partir da entrada em vigor deste diploma, por entidades estrangeiras são permitidos em todos os sectores, excepto nos que interessem à defesa do Estado e nos que a seguir se referem:
 
 a) Serviços públicos, designadamente águas, saneamento, electricidade, gás, telefones, correios, telecomunicações e transportes internos;
 
@@ -216,15 +246,15 @@ e) Sectores nacionalizados, à data da publicação deste decreto.
 
 3. Nos casos da alínea e) do n.º 1, pode o Conselho de Ministros, quando o interesse da economia nacional o aconselhar, permitir a participação minoritária de capital estrangeiro.
 
-###### Art. 10.º - 1. Todo o investimento ou reinvestimento estrangeiro está sujeito a registo.
+Art. 10.º - 1. Todo o investimento ou reinvestimento estrangeiro está sujeito a registo.
 
 2. Nas empresas sujeitas ao regime contratual, o plano de reinvestimento poderá ser fixado no documento de autorização.
 
 ### CAPÍTULO III — Garantias
 
-###### Art. 11.º O Estado garantirá a protecção e segurança dos bens e direitos resultantes dos investimentos directos estrangeiros, os quais beneficiarão de um tratamento justo e, salvo o disposto no presente diploma, de condições iguais às estabelecidas na lei portuguesa para as empresas nacionais.
+Art. 11.º O Estado garantirá a protecção e segurança dos bens e direitos resultantes dos investimentos directos estrangeiros, os quais beneficiarão de um tratamento justo e, salvo o disposto no presente diploma, de condições iguais às estabelecidas na lei portuguesa para as empresas nacionais.
 
-###### Art. 12.º - 1. A expropriação de bens ou direitos adquiridos através do investimento directo estrangeiro apenas poderá efectuar-se com fundamento em utilidade pública, mediante justa indemnização, a qual será fixada por comissão arbitral, nos termos do n.º 3, e será liquidada sem demoras injustificadas e sem discriminação em relação aos bens de nacionais.
+Art. 12.º - 1. A expropriação de bens ou direitos adquiridos através do investimento directo estrangeiro apenas poderá efectuar-se com fundamento em utilidade pública, mediante justa indemnização, a qual será fixada por comissão arbitral, nos termos do n.º 3, e será liquidada sem demoras injustificadas e sem discriminação em relação aos bens de nacionais.
 
 2. A nacionalização de empresas com participação de capital estrangeiro, nos termos deste Código, confere ao investidor estrangeiro direito a uma justa compensação, fixada por uma comissão arbitral nos termos do n.º 3.
 
@@ -234,7 +264,7 @@ Da decisão da comissão arbitral há recurso, a interpor pelo investidor estran
 
 4. O produto da indemnização é transferível no prazo máximo de um ano, a contar da data da fixação definitiva da indemnização.
 
-###### Art. 13.º - 1. O Estado garante a transferência para o exterior de dividendos e lucros, depois de deduzidas as amortizações legais, proporcionalmente ao valor da participação estrangeira na empresa.
+Art. 13.º - 1. O Estado garante a transferência para o exterior de dividendos e lucros, depois de deduzidas as amortizações legais, proporcionalmente ao valor da participação estrangeira na empresa.
 
 2. As transferências anuais de lucros são garantidas até ao limite de 12% do montante de capital investido, excepto se se tratar de empresas exportadoras em que o limite é de 20%, desde que exportem mais de 50% da sua produção anual e que o saldo cambial positivo anual gerado pela sua actividade o comporte.
 
@@ -242,7 +272,7 @@ Para além dos referidos limites, a transferência fica sujeita à apreciação 
 
 3. Para efeitos do número anterior, define-se como capital investido o capital importado, acrescido dos lucros que tenham sido reinvestidos.
 
-###### Art. 14.º - 1. É permitida a reexportação do produto da venda ou liquidação de investimentos directos estrangeiros, incluindo as mais-valias, depois de pagos os respectivos impostos e desde que tenham decorrido, pelo menos, cinco anos sobre a data da importação.
+Art. 14.º - 1. É permitida a reexportação do produto da venda ou liquidação de investimentos directos estrangeiros, incluindo as mais-valias, depois de pagos os respectivos impostos e desde que tenham decorrido, pelo menos, cinco anos sobre a data da importação.
 
 2. No caso previsto no n.º 1 deste artigo, a reexportação respectiva só será autorizada, desde que tenha sido feita comunicação à entidade competente, com uma antecedência de três meses.
 
@@ -250,31 +280,31 @@ Para além dos referidos limites, a transferência fica sujeita à apreciação 
 
 4. Não se aplicará o disposto no número anterior no caso de venda a outro investidor estrangeiro, autorizada nos termos do artigo 15.º, desde que o pagamento se efectue em moeda estrangeira.
 
-###### Art. 15.º - 1. A transmissão de acções, participações ou direitos de um investidor estrangeiro a outro investidor estrangeiro deve ser previamente autorizada, ficando o novo titular sub-rogado nos direitos e obrigações estabelecidos neste diploma e nos existentes à data da autorização.
+Art. 15.º - 1. A transmissão de acções, participações ou direitos de um investidor estrangeiro a outro investidor estrangeiro deve ser previamente autorizada, ficando o novo titular sub-rogado nos direitos e obrigações estabelecidos neste diploma e nos existentes à data da autorização.
 
 2. Nas empresas com participação de capital estrangeiro e capital nacional (público ou privado) a parte portuguesa terá sempre direito de opção, em caso de cessão ou liquidação da participação estrangeira, nas mesmas condições do adquirente estrangeiro.
 
-###### Art. 16.º O investidor estrangeiro tem direito a remeter para o exterior as importâncias referidas nos artigos 13.º e 14.º, à taxa de câmbio em vigor no momento da transferência. Para esse efeito terá pleno acesso ao mercado de divisas.
+Art. 16.º O investidor estrangeiro tem direito a remeter para o exterior as importâncias referidas nos artigos 13.º e 14.º, à taxa de câmbio em vigor no momento da transferência. Para esse efeito terá pleno acesso ao mercado de divisas.
 
-###### Art. 17.º - 1. As autorizações de transferências, referidas neste diploma, poderão ser suspensas por período a decidir pelo Conselho de Ministros, em caso de desequilíbrio perigoso da balança de pagamentos ou se as transferências provocarem graves perturbações económicas e financeiras ao País.
+Art. 17.º - 1. As autorizações de transferências, referidas neste diploma, poderão ser suspensas por período a decidir pelo Conselho de Ministros, em caso de desequilíbrio perigoso da balança de pagamentos ou se as transferências provocarem graves perturbações económicas e financeiras ao País.
 
 2. Se se verificar qualquer das situações mencionadas no número anterior, e tendo em consideração o valor global das transferências a efectuar, o Conselho de Ministros determinará a fracção desse valor que poderá ser anualmente transferida, e que nunca deverá ser inferior a 20% do montante dos valores a liquidar.
 
 3. Tendo em conta os compromissos internacionalmente assumidos e a situação da balança de pagamentos do País, cabe à entidade competente, com audição prévia do Banco de Portugal, apreciar os pedidos de transferência que excedam os limites previstos nos artigos 13.º, n.º 2, e 14.º, n.º 3.
 
-###### Art. 18.º Os investimentos directos estrangeiros em Portugal beneficiam de todos os incentivos previstos na legislação portuguesa para as empresas nacionais.
+Art. 18.º Os investimentos directos estrangeiros em Portugal beneficiam de todos os incentivos previstos na legislação portuguesa para as empresas nacionais.
 
-###### Art. 19.º - 1. Os investimentos directos estrangeiros sujeitos ao regime contratual poderão beneficiar de incentivos adicionais.
+Art. 19.º - 1. Os investimentos directos estrangeiros sujeitos ao regime contratual poderão beneficiar de incentivos adicionais.
 
 2. Para os efeitos do n.º 1, ter-se-ão em conta, entre outros aspectos, o cumprimento das condições constantes no artigo 4.º
 
 3. No caso dos benefícios acordados nos termos do n.º 2, a sua atribuição efectiva ficará dependente do real cumprimento das condições particulares fixadas na autorização.
 
-###### Art. 20.º - 1. As empresas com capital estrangeiro terão acesso ao crédito interno a curto prazo em igualdade de circunstâncias com as restantes empresas.
+Art. 20.º - 1. As empresas com capital estrangeiro terão acesso ao crédito interno a curto prazo em igualdade de circunstâncias com as restantes empresas.
 
 2. Para os efeitos do número anterior, entende-se por crédito a curto prazo o concedido por período não superior a doze meses.
 
-###### Art. 21.º O acesso ao crédito interno a médio prazo será sujeito às seguintes regras:
+Art. 21.º O acesso ao crédito interno a médio prazo será sujeito às seguintes regras:
 
 a) Se a participação estrangeira na sociedade não exceder 25% do respectivo capital, a empresa poderá recorrer ao financiamento a prazo médio, nos mesmos termos das empresas nacionais;
 
@@ -286,11 +316,11 @@ d) Para importâncias superiores àquelas percentagens, ou para acesso a crédit
 
 ### CAPÍTULO IV — Das relações de trabalho
 
-###### Art. 22.º As empresas estrangeiras ou as empresas constituídas de acordo com a lei portuguesa, com totalidade ou maioria de capital estrangeiro, podem admitir pessoal de nacionalidade estrangeira, como administradores, directores, gerentes, auditores, consultores, inspectores e técnicos especializados de qualquer natureza, devendo, no entanto, apresentar, no pedido de autorização, um plano de formação de quadros nacionais e de preenchimento progressivo de um número considerado adequado de lugares de direcção técnica e administrativa por elementos portugueses.
+Art. 22.º As empresas estrangeiras ou as empresas constituídas de acordo com a lei portuguesa, com totalidade ou maioria de capital estrangeiro, podem admitir pessoal de nacionalidade estrangeira, como administradores, directores, gerentes, auditores, consultores, inspectores e técnicos especializados de qualquer natureza, devendo, no entanto, apresentar, no pedido de autorização, um plano de formação de quadros nacionais e de preenchimento progressivo de um número considerado adequado de lugares de direcção técnica e administrativa por elementos portugueses.
 
-###### Art. 23.º A remuneração de elementos de nacionalidade estrangeira que trabalhem em empresas com capital estrangeiro e residam em Portugal por período inferior a cinco anos é livremente transferível até 70% do respectivo valor, mediante notificação à entidade competente, e não está sujeita aos montantes do salário máximo nacional.
+Art. 23.º A remuneração de elementos de nacionalidade estrangeira que trabalhem em empresas com capital estrangeiro e residam em Portugal por período inferior a cinco anos é livremente transferível até 70% do respectivo valor, mediante notificação à entidade competente, e não está sujeita aos montantes do salário máximo nacional.
 
-###### Art. 24.º Os elementos de nacionalidade estrangeira, nos termos do artigo anterior, terão ainda os seguintes direitos:
+Art. 24.º Os elementos de nacionalidade estrangeira, nos termos do artigo anterior, terão ainda os seguintes direitos:
 
 a) Liberdade de transferir as economias realizadas com o produto do exercício da sua actividade profissional no País, ao fim de três anos de estada;
 
@@ -298,9 +328,9 @@ b) Liberdade de transferir igualmente os seus bens de uso pessoal ou familiar, a
 
 ### CAPÍTULO V — Das transferências de tecnologia
 
-###### Art. 25.º A celebração de acordos de ligação entre empresas nacionais e estrangeiras, bem como contratos de importação de tecnologia, deverão depender de autorização prévia da entidade competente.
+Art. 25.º A celebração de acordos de ligação entre empresas nacionais e estrangeiras, bem como contratos de importação de tecnologia, deverão depender de autorização prévia da entidade competente.
 
-###### Art. 26.º Sob a designação de transferência de tecnologia consideram-se abrangidos todos os actos ou transacções que respeitem a:
+Art. 26.º Sob a designação de transferência de tecnologia consideram-se abrangidos todos os actos ou transacções que respeitem a:
 
 a) Atribuição de direitos de uso de patentes ou quaisquer outras formas de propriedade industrial;
 
@@ -314,9 +344,9 @@ e) Treino e formação profissional;
 
 f) Quaisquer outros tipos de assistência técnica.
 
-###### Art. 27.º Os acordos ou contratos de fornecimento de assistência técnica serão objecto de registo pela entidade competente.
+Art. 27.º Os acordos ou contratos de fornecimento de assistência técnica serão objecto de registo pela entidade competente.
 
-###### Art. 28.º Nos contratos de importação de tecnologia, nomeadamente nos que regulam as relações entre empresas estrangeiras e as respectivas filiais no País, não serão em regra permitidas as seguintes cláusulas:
+Art. 28.º Nos contratos de importação de tecnologia, nomeadamente nos que regulam as relações entre empresas estrangeiras e as respectivas filiais no País, não serão em regra permitidas as seguintes cláusulas:
 
 a) As que façam depender a aplicação de tecnologia da obrigatoriedade de adquirir, de uma parte determinada, bens de capital, produtos intermédios e outras tecnologias;
 
@@ -334,9 +364,9 @@ g) As que imponham a predominância das versões em língua estrangeira dos mesm
 
 ### CAPÍTULO VI — Do Instituto do Investimento Estrangeiro
 
-###### Art. 29.º Para coordenar, orientar e supervisar o investimento directo estrangeiro em Portugal, será criado, na dependência do Ministro responsável pelo planeamento, o Instituto do Investimento Estrangeiro.
+Art. 29.º Para coordenar, orientar e supervisar o investimento directo estrangeiro em Portugal, será criado, na dependência do Ministro responsável pelo planeamento, o Instituto do Investimento Estrangeiro.
 
-###### Art. 30.º Competirá ao Instituto do Investimento Estrangeiro:
+Art. 30.º Competirá ao Instituto do Investimento Estrangeiro:
 
 a) Propor ao Governo as decisões sobre a autorização dos investimentos directos estrangeiros, nos termos do presente diploma e respectiva legislação complementar;
 
@@ -350,7 +380,7 @@ e) Autorizar e fiscalizar os acordos de cooperação tecnológica e manter um re
 
 f) Propor ao Governo as normas regulamentares do presente diploma.
 
-###### Art. 31.º Para o desempenho das suas atribuições deverá o Instituto do Investimento estrangeiro:
+Art. 31.º Para o desempenho das suas atribuições deverá o Instituto do Investimento estrangeiro:
 
 a) Coligir e compilar todos os elementos de informação, dados estatísticos, legislação e outros, necessários ao bom desempenho da sua missão;
 
@@ -358,30 +388,30 @@ b) Manter contactos estreitos com as empresas estrangeiras e com as entidades no
 
 ### CAPÍTULO VII — Disposições diversas
 
-###### Art. 32.º - 1. A entidade competente procederá ao registo dos investimentos directos estrangeiros já existentes no País, que se passam a submeter ao presente diploma.
+Art. 32.º - 1. A entidade competente procederá ao registo dos investimentos directos estrangeiros já existentes no País, que se passam a submeter ao presente diploma.
 
 2. Os autores de investimentos directos estrangeiros existentes à data da entrada em vigor do presente diploma devem, no prazo de três meses a partir daquela data, requerer o registo a que alude o número anterior.
 
 3. As empresas com capital estrangeiro existentes à data da entrada em vigor do presente diploma devem, no prazo de três meses, requerer, o registo referido no n.º 1.
 
-###### Art. 33.º As empresas sujeitas ao presente diploma são obrigadas a fornecer à entidade competente toda a informação que facilite a sua aplicação.
+Art. 33.º As empresas sujeitas ao presente diploma são obrigadas a fornecer à entidade competente toda a informação que facilite a sua aplicação.
 
-###### Art. 34.º - 1. As empresas a que se refere o presente diploma estão sujeitas às demais obrigações contidas na lei portuguesa.
+Art. 34.º - 1. As empresas a que se refere o presente diploma estão sujeitas às demais obrigações contidas na lei portuguesa.
 
 2. As transgressões ao disposto no presente decreto-lei ou a violação das obrigações resultantes dos contratos a que se refere o artigo 5.º, n.º 2, serão punidas pela entidade competente com a privação, total ou parcial, dos direitos e incentivos concedidos e os negócios jurídicos - ou as cláusulas dos mesmos - que transgridam tais normas serão nulos e de nenhum efeito.
 
-###### Art. 35.º - 1. É proibida a prática de facturação que permita a saída ilegal de capitais ou iluda as obrigações legais a que a empresa está sujeita, incluindo as de carácter fiscal.
+Art. 35.º - 1. É proibida a prática de facturação que permita a saída ilegal de capitais ou iluda as obrigações legais a que a empresa está sujeita, incluindo as de carácter fiscal.
 
 2. A entidade competente poderá proceder às inspecções necessárias, com vista a apurar a existência de eventual sub ou sobrefacturação.
 
-###### Art. 36.º Os conflitos e controvérsias nascidos da interpretação e aplicação do presente decreto-lei estão sujeitos à lei portuguesa e serão resolvidos pelos tribunais portugueses, nos termos fixados no documento de autorização.
+Art. 36.º Os conflitos e controvérsias nascidos da interpretação e aplicação do presente decreto-lei estão sujeitos à lei portuguesa e serão resolvidos pelos tribunais portugueses, nos termos fixados no documento de autorização.
 
-###### Art. 37.º No prazo de três meses, a contar da data da entrada em vigor deste decreto-lei, será regulamentada a criação dos órgãos responsáveis pela sua aplicação. Até essa data, a responsabilidade pela aplicação deste diploma cabe ao Banco de Portugal.
+Art. 37.º No prazo de três meses, a contar da data da entrada em vigor deste decreto-lei, será regulamentada a criação dos órgãos responsáveis pela sua aplicação. Até essa data, a responsabilidade pela aplicação deste diploma cabe ao Banco de Portugal.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

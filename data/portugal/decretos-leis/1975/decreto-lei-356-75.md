@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/15500/09430944.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1975-336763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 134d193b5844c77202b6efed360c6d3aa418e067bb361ef00bb35ae0a91627c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 837e5c54ac30337e973bbf7ddc5e549de568f085d077f69ba36aa0511b083094
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Agrícola
+- Exploração Agrícola
+- Licenciamento
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:378946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:378946:por
+  label: "Revogado pelo DEC LEI.308/79.20.08.1979.PCM, DR.IS [191] de 20.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1979-378946
+  date: '1979-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:37Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +107,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, 3.º, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Nos solos classificados nas classes de capacidade de uso definidas pelo SROA como sendo A, B, A/B e ainda na subclasse Ch, independentemente da sua localização, ficam proibidas todas as construções com qualquer finalidade bem como aterros, escavações ou qualquer outro processo de inutilização desses solos, incluindo vias de comunicação e outras infra-estruturas públicas.
+Artigo 1.º - 1. Nos solos classificados nas classes de capacidade de uso definidas pelo SROA como sendo A, B, A/B e ainda na subclasse Ch, independentemente da sua localização, ficam proibidas todas as construções com qualquer finalidade bem como aterros, escavações ou qualquer outro processo de inutilização desses solos, incluindo vias de comunicação e outras infra-estruturas públicas.
 
 2. Exceptuam-se as construções de finalidade exclusivamente agrícola quando integradas em explorações que laborem nesses terrenos, carecendo essas construções de prévia aprovação dos seus projectos pelos serviços competentes da Secretaria de Estado da Agricultura e Secretaria de Estado do Ambiente.
 
-###### Art. 2.º Enquanto não for completado para todo o País (continente e ilhas adjacentes) o levantamento cartográfico das classes de capacidade de uso do solo, em curso no SROA, serão obrigatoriamente sujeitos à aprovação do serviço competente do Ministério da Agricultura (SROA), pela entidade centralizadora dos processos de licenciamento respectivos, todos os projectos de construção, urbanização, vias de comunicação, aterros ou escavações previstos para zonas rurais ou urbanas, quando não disponham de planos de urbanização aprovados superiormente.
+Art. 2.º Enquanto não for completado para todo o País (continente e ilhas adjacentes) o levantamento cartográfico das classes de capacidade de uso do solo, em curso no SROA, serão obrigatoriamente sujeitos à aprovação do serviço competente do Ministério da Agricultura (SROA), pela entidade centralizadora dos processos de licenciamento respectivos, todos os projectos de construção, urbanização, vias de comunicação, aterros ou escavações previstos para zonas rurais ou urbanas, quando não disponham de planos de urbanização aprovados superiormente.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Fernando Oliveira Baptista - José Augusto Fernandes
 
-**Promulgado em 19 de Junho de 1975.**
+Promulgado em 19 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

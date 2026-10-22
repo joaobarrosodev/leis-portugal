@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/12100/07270727.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1975-335952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c8677e89466d7ef0402bf01c36b5d85d2b2520a5fb7f630f7f5afb5e533ce15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b60b9b05dd576a43ffa758c2c28bf49093a5c609fd9881de7444d143fd9e7b2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Estado Maior General das Forças Armadas
+- Forças Armadas
+- Gestão do Património
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336076:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:46Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +113,16 @@ Atendendo a que foram por essa medida atingidos bens de militares dos três ramo
 
 Nos termos do disposto na Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É cometida ao Estado-Maior-General das Forças Armadas, através da sua Direcção de Administração e Finanças, a gestão dos bens congelados nos termos do [Decreto-Lei n.º 147-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-d-1975-335974), de 21 de Março.
+Artigo 1.º É cometida ao Estado-Maior-General das Forças Armadas, através da sua Direcção de Administração e Finanças, a gestão dos bens congelados nos termos do [Decreto-Lei n.º 147-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-d-1975-335974), de 21 de Março.
 
-###### Art. 2.º No prazo de dez dias, a contar da publicação do presente diploma, a Direcção de Administração e Finanças proporá ao Conselho da Revolução os princípios a que devem obedecer a gestão dos bens e a atribuição aos familiares dos seus proprietários de parte deles ou dos respectivos rendimentos, conforme o disposto no artigo 3.º do [Decreto-Lei n.º 147-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-d-1975-335974), de 21 de Março, bem como quaisquer outras medidas consideradas convenientes.
+Art. 2.º No prazo de dez dias, a contar da publicação do presente diploma, a Direcção de Administração e Finanças proporá ao Conselho da Revolução os princípios a que devem obedecer a gestão dos bens e a atribuição aos familiares dos seus proprietários de parte deles ou dos respectivos rendimentos, conforme o disposto no artigo 3.º do [Decreto-Lei n.º 147-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-d-1975-335974), de 21 de Março, bem como quaisquer outras medidas consideradas convenientes.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 20 de Maio de 1975.**
+Promulgado em 20 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

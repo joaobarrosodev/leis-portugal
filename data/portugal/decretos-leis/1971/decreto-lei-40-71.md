@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1971-446875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5caaa5cfce0b0199c4e93ec083c613f98c4d47dd17f80a8350ce235cb8e4cde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5e7363e6fd4efd0fa9493c5b871428052a3e27581d512be76a8d8a9bd889481
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Ponta Delgada
+- SETE Cidades
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:59Z'
   warnings: []
   errors: []
 ---
@@ -95,26 +98,26 @@ Considerando que se verificam todas as demais condições referidas no artigo 9.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho e distrito autónomo de Ponta Delgada a freguesia de Sete Cidades, com sede na povoação do mesmo nome.
+Artigo 1.º É criada no concelho e distrito autónomo de Ponta Delgada a freguesia de Sete Cidades, com sede na povoação do mesmo nome.
 
-###### Art. 2.º A freguesia de Sete Cidades é classificada de 2.ª ordem.
+Art. 2.º A freguesia de Sete Cidades é classificada de 2.ª ordem.
 
-###### Art. 3.º Os limites da nova freguesia são definidos por uma linha coincidente com o chamado Caminho da Cumieira e que, começando a norte no local onde o referido Caminho atravessa o Pico do Cedro, progride no sentido da marcha dos ponteiros do relógio, passando pela Canada do Cedro, Canada das Amoreiras, Chã da Marcela e Lomba do Carvalho e continuando pelos lugares denominados Baltasar, Espigão Grande e Pico da Cruz, para confrontar, a partir da Grota do Inferno, com os actuais limites da freguesia de Santo António, e, passando pelas Varandas, seguir a actual delimitação da freguesia de Feteiras, progredindo pelos lugares de Pico do Ferreiro, Pedra Aguda e Fonte da Serra, após o que passa a confrontar com a freguesia de Candelária nos seus limites presentes, seguindo pelo Portal do Vento, Pico do Casal e Vista do Rei, continuando pelos lugares de Piquinhos, Pico do Faial, Pico da Guiné, Multas, Lomba da Várzea, Pico das Moças e Pico das Fontainhas até tocar no cimo do Torrão Branco, prosseguindo até ao ponto inicial da presente descrição.
+Art. 3.º Os limites da nova freguesia são definidos por uma linha coincidente com o chamado Caminho da Cumieira e que, começando a norte no local onde o referido Caminho atravessa o Pico do Cedro, progride no sentido da marcha dos ponteiros do relógio, passando pela Canada do Cedro, Canada das Amoreiras, Chã da Marcela e Lomba do Carvalho e continuando pelos lugares denominados Baltasar, Espigão Grande e Pico da Cruz, para confrontar, a partir da Grota do Inferno, com os actuais limites da freguesia de Santo António, e, passando pelas Varandas, seguir a actual delimitação da freguesia de Feteiras, progredindo pelos lugares de Pico do Ferreiro, Pedra Aguda e Fonte da Serra, após o que passa a confrontar com a freguesia de Candelária nos seus limites presentes, seguindo pelo Portal do Vento, Pico do Casal e Vista do Rei, continuando pelos lugares de Piquinhos, Pico do Faial, Pico da Guiné, Multas, Lomba da Várzea, Pico das Moças e Pico das Fontainhas até tocar no cimo do Torrão Branco, prosseguindo até ao ponto inicial da presente descrição.
 
-###### Art. 4.º - 1. A eleição da Junta de Freguesia de Sete Cidades realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Ponta Delgada e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral das freguesias de Ginetes, Mosteiros, Bretanha e Remédios.
+Art. 4.º - 1. A eleição da Junta de Freguesia de Sete Cidades realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Ponta Delgada e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral das freguesias de Ginetes, Mosteiros, Bretanha e Remédios.
 
 2. A Junta eleita, nos termos do n.º 1, servirá até final do quadriénio em curso.
 
 3. A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Ponta Delgada.
 
-###### Art. 5.º A Câmara Municipal de Ponta Delgada procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
+Art. 5.º A Câmara Municipal de Ponta Delgada procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltazar Leite Rebelo de Sousa.
 
-**Promulgado em 8 de Fevereiro de 1971.**
+Promulgado em 8 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16300/13191320.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5c2b6d8bcf3a7daee209a293f48efa6e7d2fff3e5739601503aff0105668cb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4555ab94acbc0070b72ddc3b17c0cf828bcf0435da8f516f7b5c4b59f5623dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Ensino Superior
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:58Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +115,7 @@ Atendendo a que, sem prejuízo do que futuramente se vier a determinar quanto à
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São reconhecidas como válidas as experiências pedagógicas levadas a cabo, ao abrigo do disposto no [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março, nos estabelecimentos de ensino superior abaixo indicados, ficando, por consequência, neles instituídos os seguintes cursos de bacharelato:
+Artigo 1.º São reconhecidas como válidas as experiências pedagógicas levadas a cabo, ao abrigo do disposto no [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março, nos estabelecimentos de ensino superior abaixo indicados, ficando, por consequência, neles instituídos os seguintes cursos de bacharelato:
 
 1 - Universidade de Aveiro:
 
@@ -202,16 +223,16 @@ Produção Agrícola;
 
 Produção Florestal.
 
-###### Art. 2.º - 1 - A partir do ano lectivo de 1978-1979 não são permitidas matrículas ou transferências nos e para os cursos referidos no artigo anterior, sem prejuízo, quando tal se justifique, da sua reformulação em cursos de licenciatura na mesma área científica e da criação de novos cursos.
+Art. 2.º - 1 - A partir do ano lectivo de 1978-1979 não são permitidas matrículas ou transferências nos e para os cursos referidos no artigo anterior, sem prejuízo, quando tal se justifique, da sua reformulação em cursos de licenciatura na mesma área científica e da criação de novos cursos.
 
 2 - Os mesmos cursos deixarão de ser ministrados no final do ano lectivo de 1980-1981.
 
-###### Art. 3.º As dúvidas resultantes da interpretação ou aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado do Ensino Superior.
+Art. 3.º As dúvidas resultantes da interpretação ou aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado do Ensino Superior.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 30 de Junho de 1978.**
+Promulgado em 30 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

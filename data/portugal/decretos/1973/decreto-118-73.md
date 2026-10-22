@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/118-1973-684188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7977a9cc859f64ebc9ad32bcf3138d2c95e6efc40ca958e8ef3ac96641240b50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc47e497b03e363fdacb7c3c0473e297ff714fb6576daef30c75630f667cce38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:31Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É criado o Conselho do Espectáculo Público, que será presidido por um secretário provincial designado pelo Governador-Geral, tendo como vice-presidente o director do Centro de Informação e Turismo de Angola e como vogais:
+Artigo 1.º - 1. É criado o Conselho do Espectáculo Público, que será presidido por um secretário provincial designado pelo Governador-Geral, tendo como vice-presidente o director do Centro de Informação e Turismo de Angola e como vogais:
 
 a) O chefe dos Serviços de Espectáculos;
 
@@ -126,7 +138,7 @@ g) Dois representantes da imprensa.
 
 5. De todas as sessões serão lavradas actas, que serão submetidas à homologação do Governador-Geral.
 
-###### Art. 2.º Compete ao Conselho do Espectáculo emitir parecer sobre:
+Art. 2.º Compete ao Conselho do Espectáculo emitir parecer sobre:
 
 a) Matérias do âmbito dos Serviços de Espectáculos, nos termos que vierem a ser estabelecidos em regulamento;
 
@@ -136,11 +148,11 @@ c) Os orçamentos ordinários e suplementares e os relatórios e contas de gerê
 
 d) Qualquer outro assunto que o seu presidente entenda dever submeter à sua apreciação.
 
-###### Art. 3.º - 1. É criado no Centro de Informação e Turismo de Angola o Fundo do Espectáculo Público, destinado a assegurar os meios necessários ao fomento e valorização do espectáculo público.
+Art. 3.º - 1. É criado no Centro de Informação e Turismo de Angola o Fundo do Espectáculo Público, destinado a assegurar os meios necessários ao fomento e valorização do espectáculo público.
 
 2. O Fundo do Espectáculo Público goza de autonomia administrativa e financeira.
 
-###### Art. 4.º - 1. O Fundo do Espectáculo Público será gerido por um conselho administrativo, com a seguinte composição:
+Art. 4.º - 1. O Fundo do Espectáculo Público será gerido por um conselho administrativo, com a seguinte composição:
 
 a) O director do Centro de Informação e Turismo de Angola, que presidirá;
 
@@ -154,7 +166,7 @@ d) Um funcionário dos Serviços de Espectáculos, de categoria não inferior a 
 
 3. O representante dos Serviços de Finanças será remunerado, nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 5.º - 1. Ao conselho administrativo compete:
+Art. 5.º - 1. Ao conselho administrativo compete:
 
 a) Administrar as verbas inscritas no orçamento do Fundo do Espectáculo Público e autorizar a realização de despesas nos termos da legislação aplicável;
 
@@ -172,11 +184,11 @@ g) Apresentar, para resolução do Governador-Geral, as propostas de ordem finan
 
 2. O conselho administrativo pode delegar no presidente a resolução dos assuntos da sua competência que entenda conveniente e os poderes consignados na alínea c), até um montante a fixar em regulamento.
 
-###### Art. 6.º - 1. Nas sessões do conselho administrativo apenas serão tratados os assuntos da sua competência que hajam sido mencionados na respectiva convocatória, a enviar com a antecedência mínima de quarenta e oito horas.
+Art. 6.º - 1. Nas sessões do conselho administrativo apenas serão tratados os assuntos da sua competência que hajam sido mencionados na respectiva convocatória, a enviar com a antecedência mínima de quarenta e oito horas.
 
 2. Sempre que no decorrer das sessões o conselho reconheça urgência em tratar de qualquer assunto em especial, pode ele ser discutido e resolvido.
 
-###### Art. 7.º - 1. O conselho administrativo só poderá deliberar quando estiver presente a maioria dos seus membros.
+Art. 7.º - 1. O conselho administrativo só poderá deliberar quando estiver presente a maioria dos seus membros.
 
 2. As resoluções serão tomadas por maioria de votos, sendo estes nominais e tendo o presidente voto de qualidade.
 
@@ -186,13 +198,13 @@ g) Apresentar, para resolução do Governador-Geral, as propostas de ordem finan
 
 5. As resoluções sobre assuntos de administração financeira tomadas contra o parecer do representante dos Serviços de Finanças também só adquirirão força executiva depois de confirmadas pelo Governador-Geral, a quem serão presentes para decisão.
 
-###### Art. 8.º - 1. As receitas do Fundo do Espectáculo Público serão depositadas no Instituto de Crédito de Angola, em conta especial, e o seu levantamento só poderá ser efectuado mediante a assinatura do presidente do conselho administrativo, ou de quem as suas vezes fizer, e de um membro do mesmo conselho.
+Art. 8.º - 1. As receitas do Fundo do Espectáculo Público serão depositadas no Instituto de Crédito de Angola, em conta especial, e o seu levantamento só poderá ser efectuado mediante a assinatura do presidente do conselho administrativo, ou de quem as suas vezes fizer, e de um membro do mesmo conselho.
 
 2. O conselho administrativo poderá manter em cofre um fundo de maneio para satisfação de despesas correntes, de quantitativo a fixar por despacho do Governador-Geral.
 
 3. Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou por quem as suas vezes fizer, e por um membro do mesmo conselho.
 
-###### Art. 9.º Constituem receitas do Fundo do Espectáculo Público:
+Art. 9.º Constituem receitas do Fundo do Espectáculo Público:
 
 a) Dotação consignada no orçamento geral da província;
 
@@ -210,13 +222,13 @@ g) Percentagem, não superior a 10 por cento, sobre o preço de cada bilhete de 
 
 h) Quaisquer outras receitas resultantes da administração do Fundo ou que por diploma legal venham a ser-lhe atribuídas.
 
-###### Art. 10.º - 1. O serviço de contabilidade e o expediente do Fundo do Espectáculo Público serão assegurados pelo Centro de Informação e Turismo.
+Art. 10.º - 1. O serviço de contabilidade e o expediente do Fundo do Espectáculo Público serão assegurados pelo Centro de Informação e Turismo.
 
 2. Ao pessoal do Centro de Informação e Turismo que assegure os serviços referidos no número anterior poderá ser atribuída uma gratificação mensal a fixar em regulamento.
 
-###### Art. 11.º O orçamento e contas do Fundo do Espectáculo Público de Angola são obrigatoriamente integrados no orçamento geral do Estado de Angola, nos termos do artigo 22.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 15 de Janeiro de 1930.
+Art. 11.º O orçamento e contas do Fundo do Espectáculo Público de Angola são obrigatoriamente integrados no orçamento geral do Estado de Angola, nos termos do artigo 22.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 15 de Janeiro de 1930.
 
-###### Art. 12.º - 1. A assistência financeira do Fundo do Espectáculo Público poderá revestir as seguintes formas:
+Art. 12.º - 1. A assistência financeira do Fundo do Espectáculo Público poderá revestir as seguintes formas:
 
 a) Empréstimos;
 
@@ -228,13 +240,13 @@ c) Subsídios.
 
 3. A assistência financeira do Fundo do Espectáculo Público pode acumular-se com qualquer outra, pública ou privada.
 
-###### Art. 13.º Apenas poderão beneficiar da assistência financeira do Fundo do Espectáculo Público as entidades que ofereçam garantias suficientes de solvabilidade ou de realização dos objectivos para que foi concedida.
+Art. 13.º Apenas poderão beneficiar da assistência financeira do Fundo do Espectáculo Público as entidades que ofereçam garantias suficientes de solvabilidade ou de realização dos objectivos para que foi concedida.
 
-###### Art. 14.º Nenhuma entidade poderá beneficiar de nova assistência financeira do Fundo do Espectáculo Público se não tiver cumprido as obrigações assumidas no ano antecedente ou não justificar cabalmente o seu não cumprimento.
+Art. 14.º Nenhuma entidade poderá beneficiar de nova assistência financeira do Fundo do Espectáculo Público se não tiver cumprido as obrigações assumidas no ano antecedente ou não justificar cabalmente o seu não cumprimento.
 
-###### Art. 15.º A falta de pagamento, por parte das empresas, das remunerações acordadas para todo o período legal de vigência dos contratos, não obsta ao deferimento de assistência financeira, mas impede a sua efectivação até total cumprimento.
+Art. 15.º A falta de pagamento, por parte das empresas, das remunerações acordadas para todo o período legal de vigência dos contratos, não obsta ao deferimento de assistência financeira, mas impede a sua efectivação até total cumprimento.
 
-###### Art. 16.º - 1. Na concessão e fixação do montante dos benefícios requeridos pelas entidades organizadoras e exploradoras de espectáculos públicos atender-se-á, especialmente, ao seguinte:
+Art. 16.º - 1. Na concessão e fixação do montante dos benefícios requeridos pelas entidades organizadoras e exploradoras de espectáculos públicos atender-se-á, especialmente, ao seguinte:
 
 a) Qualidade do repertório;
 
@@ -260,28 +272,28 @@ b) O tratar-se de empresa que, tendo beneficiado de assistência financeira no a
 
 c) O compromisso de realização de espectáculos programados em diversas localidades da província ou de outro território nacional.
 
-###### Art. 17.º Poderão ser atribuídos, anualmente, prémios de qualidade às empresas cinematográficas e teatrais, intérpretes, encenadores e autores, conforme vier a ser estabelecido em regulamento.
+Art. 17.º Poderão ser atribuídos, anualmente, prémios de qualidade às empresas cinematográficas e teatrais, intérpretes, encenadores e autores, conforme vier a ser estabelecido em regulamento.
 
-###### Art. 18.º - 1. Os empréstimos vencerão a taxa de juro anual que for fixada por despacho do Governador-Geral, ouvida a Direcção Provincial dos Serviços de Finanças.
+Art. 18.º - 1. Os empréstimos vencerão a taxa de juro anual que for fixada por despacho do Governador-Geral, ouvida a Direcção Provincial dos Serviços de Finanças.
 
 2. As obrigações para com o Fundo do Espectáculo Público serão caucionadas por qualquer das garantias indicadas no artigo 623.º do Código Civil.
 
-###### Art. 19.º - 1. As garantias previstas na alínea b) do n.º 1 do artigo 12.º serão prestadas ao Instituto de Crédito de Angola ou a quaisquer instituições de crédito, públicas ou privadas, nacionais ou estrangeiras, para assegurar o cumprimento de obrigações assumidas para os fins consignados neste decreto.
+Art. 19.º - 1. As garantias previstas na alínea b) do n.º 1 do artigo 12.º serão prestadas ao Instituto de Crédito de Angola ou a quaisquer instituições de crédito, públicas ou privadas, nacionais ou estrangeiras, para assegurar o cumprimento de obrigações assumidas para os fins consignados neste decreto.
 
 2. Estas garantias poderão assumir, de entre as formas admitidas em direito, as que forem anualmente autorizadas pelo Governo-Geral da província, mediante proposta do conselho administrativo do Fundo do Espectáculo Público e ouvido, em relação às que lhe hajam de ser prestadas, o Instituto de Crédito de Angola.
 
-###### Art. 20.º - 1. Quando o cumprimento das obrigações emergentes dos contratos de assistência financeira for garantido por penhor de bens afectos à actividade do espectáculo, a entidade assistida pelo Fundo do Espectáculo Público ficará depositária daqueles bens.
+Art. 20.º - 1. Quando o cumprimento das obrigações emergentes dos contratos de assistência financeira for garantido por penhor de bens afectos à actividade do espectáculo, a entidade assistida pelo Fundo do Espectáculo Público ficará depositária daqueles bens.
 
 2. A garantia referida no número anterior subsistirá até pagamento integral dos débitos correspondentes.
 
-###### Art. 21.º Este decreto entrará em vigor, com o respectivo regulamento, a publicar pelo Governo-Geral do Estado de Angola, no prazo de cento e oitenta dias.
+Art. 21.º Este decreto entrará em vigor, com o respectivo regulamento, a publicar pelo Governo-Geral do Estado de Angola, no prazo de cento e oitenta dias.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 13 de Março de 1973.**
+Promulgado em 13 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

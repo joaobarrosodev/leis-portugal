@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44557-1962-159708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5799304f5859dfb988d6864e8e2971b258f3d481ccd21793363a7c125d2767c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 516a82363be7002ceff147f1c02797d51f32df5672d464163e3f7c2960f1fc55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Classificação de Concelhos
+- Criação de Municípios
+- Organização Territorial
+- Vendas Novas
+relationships:
+- type: cites
+  target: pt:dre:182396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681775:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:02Z'
   warnings: []
   errors: []
 ---
@@ -106,32 +122,32 @@ Considerando que, além de se verificarem todas as condições referidas no arti
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o concelho de Vendas Novas, com sede na vila do mesmo nome.
+Artigo 1.º É criado o concelho de Vendas Novas, com sede na vila do mesmo nome.
 
 § único. O novo concelho é classificado de rural de 3.ª ordem.
 
-###### Art. 2.º Os limites do concelho de Vendas Novas são definidos por uma linha que, partindo do marco MF5-15, ponto comum das linhas divisórias das freguesias de Canha, do concelho do Montijo, e de Lavre, do concelho de Montemor-o-Novo, e do novo concelho, segue, para nascente, pela estrema norte das herdades da Casa de Bragança denominadas Vale de Águia, até ao marco MF14; desvia-se para sul e continua até alcançar o marco MF25-13, junto à ribeira de Canha; prossegue, sensìvelmente para nascente, pelo eixo desta ribeira, até atingir o extremo norte da linha de separação entre as herdades de Confreiria e Tramagueira; inflecte para sueste, progredindo pelos limites comuns às mencionadas herdades e às de Chaminé e de Marinha e Monte Novo, até atingir, depois de atravessar a estrada nacional n.º 4, o ponto mais a sul dos mesmos limites; desviando-se para oeste, continua pelo limite sul da herdade de Chaminé, até ao ponto onde se encontram as linhas de separação desta última herdade e das de Caeiras e Catalão; inflectindo para sudoeste, progride pelos limites das referidas herdades de Catalão e de Caeiras, atravessando a linha férrea do Sul, até encontrar a estrema da herdade de Defesa Grande; continua pela linha de separação das ditas herdades de Catalão e Defesa Grande, avançando depois, pela estrema sul da herdade de Atalaia, até atingir o marco MF15-23; daqui segue, sensìvelmente para oeste, pelo limite sul da herdade de Aguda Velha e, inflectindo para sudoeste, continua pelas estremas das herdades de Vale de Figueira e da Hortinha, até ao marco TC40-118,76, na linha de separação entre esta herdade e a de Campo Maior; inflectindo para noroeste e depois para oeste e para sudoeste, prossegue pelos limites sul das herdades da Hortinha, da Charnequinha, dos Foros da Afeiteira, da Afeiteira e de Mares, onde encontra o marco TCB13-101,84; deste marco segue para sudoeste, pelas estremas da referida herdade de Mares e das de Palheirão e de Moinhola, até ao ponto que serve de limite comum entre a mencionada herdade de Moinhola e as de Bem Calado e de Quinta de Sousa; deste ponto progride, com a direcção sul, pela estrema nascente da herdade de Quinta de Sousa; atravessando a ribeira de Cabrela e passando pelo marco TC106,08 (Galinheiro), até atingir o marco MF11-26, situado na linha divisória do concelho de Alcácer do Sal; desviando-se para oeste, continua pela estrema sul da herdade de Quinta de Sousa, que coincide com os limite entre os concelhos de Vendas Novas e de Alcácer do Sal, passando pelos marcos MF12-25 e MF13-22, até alcançar, no ponto de encontro das linhas divisórias dos concelhos de Alcácer do Sal, Palmela e Vendas Novas, o marco 1-14-23; deste marco prossegue, com a direcção norte, pelas estremas poente da já referida herdade de Quinta de Sousa (Sesmaria das Malhadinhas) - passando a acompanhar os limites entre os concelhos de Palmela e Vendas Novas - e da herdade de Moinhola, atravessando a ribeira de Marateca, até encontrar o marco MF15-1A; segue, ainda para norte, pelo limite do lado poente da herdade do Vale, até ao marco MF2A-36-16, onde se encontram as linhas limite dos concelhos de Palmela, Montijo e Vendas Novas; continua, com a direcção nordeste e coincidindo, agora, com os limites do concelho do Montijo, pelas estremas das herdades do Vale e de Espirra, encontra o marco MF11-17 e prossegue pelas das herdades de Piçarras e Besteiros, até atingir o marco MF18-10; com a mesma direcção, progride pelo limite noroeste da herdade de Carvalhais, até encontrar, pouco depois de se cruzar com a linha férrea do Sul; o marco MF9-19; daqui segue, sempre para noroeste, pela estrema das herdades da Casa de Bragança (Vidigal), passando pelos marcos MF8-20 e MF7-21 e, alcançado este, desvia-se para norte, continuando até ao marco MF6-22; orientando-se novamente para noroeste, segue pela linha de separação entre as ditas herdades da Casa de Bragança (Vale de Águia) e a de Carvalho, esta situada na freguesia de Canha, do concelho do Montijo, até encontrar, finalmente, o marco MF5-15, atingindo, assim, o ponto onde se iniciou a descrição e que constitui limite comum dos concelhos do Montijo, Montemor-o-Novo e Vendas Novas.
+Art. 2.º Os limites do concelho de Vendas Novas são definidos por uma linha que, partindo do marco MF5-15, ponto comum das linhas divisórias das freguesias de Canha, do concelho do Montijo, e de Lavre, do concelho de Montemor-o-Novo, e do novo concelho, segue, para nascente, pela estrema norte das herdades da Casa de Bragança denominadas Vale de Águia, até ao marco MF14; desvia-se para sul e continua até alcançar o marco MF25-13, junto à ribeira de Canha; prossegue, sensìvelmente para nascente, pelo eixo desta ribeira, até atingir o extremo norte da linha de separação entre as herdades de Confreiria e Tramagueira; inflecte para sueste, progredindo pelos limites comuns às mencionadas herdades e às de Chaminé e de Marinha e Monte Novo, até atingir, depois de atravessar a estrada nacional n.º 4, o ponto mais a sul dos mesmos limites; desviando-se para oeste, continua pelo limite sul da herdade de Chaminé, até ao ponto onde se encontram as linhas de separação desta última herdade e das de Caeiras e Catalão; inflectindo para sudoeste, progride pelos limites das referidas herdades de Catalão e de Caeiras, atravessando a linha férrea do Sul, até encontrar a estrema da herdade de Defesa Grande; continua pela linha de separação das ditas herdades de Catalão e Defesa Grande, avançando depois, pela estrema sul da herdade de Atalaia, até atingir o marco MF15-23; daqui segue, sensìvelmente para oeste, pelo limite sul da herdade de Aguda Velha e, inflectindo para sudoeste, continua pelas estremas das herdades de Vale de Figueira e da Hortinha, até ao marco TC40-118,76, na linha de separação entre esta herdade e a de Campo Maior; inflectindo para noroeste e depois para oeste e para sudoeste, prossegue pelos limites sul das herdades da Hortinha, da Charnequinha, dos Foros da Afeiteira, da Afeiteira e de Mares, onde encontra o marco TCB13-101,84; deste marco segue para sudoeste, pelas estremas da referida herdade de Mares e das de Palheirão e de Moinhola, até ao ponto que serve de limite comum entre a mencionada herdade de Moinhola e as de Bem Calado e de Quinta de Sousa; deste ponto progride, com a direcção sul, pela estrema nascente da herdade de Quinta de Sousa; atravessando a ribeira de Cabrela e passando pelo marco TC106,08 (Galinheiro), até atingir o marco MF11-26, situado na linha divisória do concelho de Alcácer do Sal; desviando-se para oeste, continua pela estrema sul da herdade de Quinta de Sousa, que coincide com os limite entre os concelhos de Vendas Novas e de Alcácer do Sal, passando pelos marcos MF12-25 e MF13-22, até alcançar, no ponto de encontro das linhas divisórias dos concelhos de Alcácer do Sal, Palmela e Vendas Novas, o marco 1-14-23; deste marco prossegue, com a direcção norte, pelas estremas poente da já referida herdade de Quinta de Sousa (Sesmaria das Malhadinhas) - passando a acompanhar os limites entre os concelhos de Palmela e Vendas Novas - e da herdade de Moinhola, atravessando a ribeira de Marateca, até encontrar o marco MF15-1A; segue, ainda para norte, pelo limite do lado poente da herdade do Vale, até ao marco MF2A-36-16, onde se encontram as linhas limite dos concelhos de Palmela, Montijo e Vendas Novas; continua, com a direcção nordeste e coincidindo, agora, com os limites do concelho do Montijo, pelas estremas das herdades do Vale e de Espirra, encontra o marco MF11-17 e prossegue pelas das herdades de Piçarras e Besteiros, até atingir o marco MF18-10; com a mesma direcção, progride pelo limite noroeste da herdade de Carvalhais, até encontrar, pouco depois de se cruzar com a linha férrea do Sul; o marco MF9-19; daqui segue, sempre para noroeste, pela estrema das herdades da Casa de Bragança (Vidigal), passando pelos marcos MF8-20 e MF7-21 e, alcançado este, desvia-se para norte, continuando até ao marco MF6-22; orientando-se novamente para noroeste, segue pela linha de separação entre as ditas herdades da Casa de Bragança (Vale de Águia) e a de Carvalho, esta situada na freguesia de Canha, do concelho do Montijo, até encontrar, finalmente, o marco MF5-15, atingindo, assim, o ponto onde se iniciou a descrição e que constitui limite comum dos concelhos do Montijo, Montemor-o-Novo e Vendas Novas.
 
-###### Art. 3.º O concelho de Vendas Novas é constituído por uma só freguesia, com o mesmo nome e sede na vila de Vendas Novas.
+Art. 3.º O concelho de Vendas Novas é constituído por uma só freguesia, com o mesmo nome e sede na vila de Vendas Novas.
 
-###### Art. 4.º O território da antiga freguesia de Vendas Novas, do concelho de Montemor-o-Novo, que não fica incluído na circunscrição administrativa definida no artigo 2.º, é anexado à freguesia de Cabrela, do mencionado concelho.
+Art. 4.º O território da antiga freguesia de Vendas Novas, do concelho de Montemor-o-Novo, que não fica incluído na circunscrição administrativa definida no artigo 2.º, é anexado à freguesia de Cabrela, do mencionado concelho.
 
-###### Art. 5.º A designação dos vogais do primeiro conselho municipal e a eleição da câmara municipal, bem como a constituição desta, e a eleição do procurador ao conselho do distrito terão lugar nas datas ou dentro dos prazos fixados no Código Administrativo.
+Art. 5.º A designação dos vogais do primeiro conselho municipal e a eleição da câmara municipal, bem como a constituição desta, e a eleição do procurador ao conselho do distrito terão lugar nas datas ou dentro dos prazos fixados no Código Administrativo.
 
 § 1.º A competência do presidente da câmara, no que respeita a convocações, eleições e verificação de poderes, será exercida, para efeito do disposto neste artigo, pelo governador civil do distrito ou seu delegado.
 
 § 2.º O conselho municipal e a câmara municipal servirão até final do quadriénio em curso.
 
-###### Art. 6.º (transitório). Depois de efectuada a delimitação da área abrangida pelos concelhos de Montemor-o-Novo e de Vendas Novas e determinados os elementos de tributação das várias contribuições e impostos sobre que recaem os adicionais a que se refere o artigo 706.º do Código Administrativo, com a alteração resultante do [Decreto-Lei n.º 39911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39911-1954-681775), de 19 de Novembro de 1954, a divisão dos adicionais cobrados no ano de 1963 pelo concelho de Montemor-o-Novo será feita proporcionalmente pelos dois concelhos, com base nos elementos que a cada um ficarem competindo em resultado daquela delimitação.
+Art. 6.º (transitório). Depois de efectuada a delimitação da área abrangida pelos concelhos de Montemor-o-Novo e de Vendas Novas e determinados os elementos de tributação das várias contribuições e impostos sobre que recaem os adicionais a que se refere o artigo 706.º do Código Administrativo, com a alteração resultante do [Decreto-Lei n.º 39911](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39911-1954-681775), de 19 de Novembro de 1954, a divisão dos adicionais cobrados no ano de 1963 pelo concelho de Montemor-o-Novo será feita proporcionalmente pelos dois concelhos, com base nos elementos que a cada um ficarem competindo em resultado daquela delimitação.
 
-###### Art. 7.º (transitório). O produto da derrama autorizada, para 1963, à Câmara Municipal de Montemor-o-Novo, nos termos dos artigos 18.º do [Decreto-Lei n.º 36448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36448-1947-182396), de 1 de Agosto de 1947, e 22.º do [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954, e na parte que respeitar a contribuintes colectados no concelho criado pelo presente diploma, será directamente entregue à Câmara Municipal de Vendas Novas.
+Art. 7.º (transitório). O produto da derrama autorizada, para 1963, à Câmara Municipal de Montemor-o-Novo, nos termos dos artigos 18.º do [Decreto-Lei n.º 36448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36448-1947-182396), de 1 de Agosto de 1947, e 22.º do [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954, e na parte que respeitar a contribuintes colectados no concelho criado pelo presente diploma, será directamente entregue à Câmara Municipal de Vendas Novas.
 
-###### Art. 8.º (transitório). Compete ao Ministro do Interior proceder à primeira nomeação para o cargo de chefe de secretaria da Câmara Municipal de Vendas Novas, devendo a Direcção-Geral de Administração Política e Civil tomar as providências necessárias para que o titular do referido cargo entre em exercício no início do mês de Janeiro de 1963.
+Art. 8.º (transitório). Compete ao Ministro do Interior proceder à primeira nomeação para o cargo de chefe de secretaria da Câmara Municipal de Vendas Novas, devendo a Direcção-Geral de Administração Política e Civil tomar as providências necessárias para que o titular do referido cargo entre em exercício no início do mês de Janeiro de 1963.
 
-###### Art. 9.º (transitório). A Câmara Municipal de Vendas Novas procederá, até 31 de Janeiro de 1963, à elaboração e aprovação do orçamento ordinário para o ano de 1963, dispensando-se a intervenção do conselho municipal quanto às respectivas bases e ao plano anual de actividade.
+Art. 9.º (transitório). A Câmara Municipal de Vendas Novas procederá, até 31 de Janeiro de 1963, à elaboração e aprovação do orçamento ordinário para o ano de 1963, dispensando-se a intervenção do conselho municipal quanto às respectivas bases e ao plano anual de actividade.
 
-###### Art. 10.º Salvo o disposto nos artigos 5.º a 8.º, o presente decreto-lei só produzirá efeitos a partir de 1 de Janeiro de 1963.
+Art. 10.º Salvo o disposto nos artigos 5.º a 8.º, o presente decreto-lei só produzirá efeitos a partir de 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

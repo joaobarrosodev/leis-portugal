@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12800/10061006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1978-294732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f94e0ea1d8dee0d0dacde4b60bf0bd43eca49f7ec46cf735c7e1766fe97e13c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7660964ed1a54df58075eff5f079b08f5bc76e5c67a5cc9859319fcad6bf30a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento
+- Pagamento
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:448532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:02Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +107,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 31.º da Tabela de Emolumentos do Notariado, anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 31.º da Tabela de Emolumentos do Notariado, anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 31.º
 
@@ -126,12 +139,12 @@ a) As habilitações respeitantes a heranças diferentes;
 
 b) As partilhas de herança diferentes, salvo se os seus autores forem marido e mulher.
 
-###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Dias dos Santos Pais.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.

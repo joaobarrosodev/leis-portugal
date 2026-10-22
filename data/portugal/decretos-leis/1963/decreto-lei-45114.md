@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45114-1963-693212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad28ef4dce7f2bd2ea739c47a2a2129f5ea95e0a40e609e25d8fedf5ca31841c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec0ef1ed7676fe62f358cfb788122d5f15413b79ba3c3d15cc7fe1551db81fd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arborização
+- Baldio
+- Figueiró dos Vinhos
+- Miranda do Corvo
+- Ordenamento do Território
+- Penela
+- Política de Solos
+- Política Florestal
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:941702857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:941702857:por
+  label: Excluída do regime florestal parcial uma parcela de terreno com a área de 1812 m2 integrada no perímetro florestal
+    de Alge pelo(a) Decreto n.º 9/2025 - Diário da República n.º 205/2025, Série I de 2025-10-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/9-2025-941702857
+  date: '2025-10-23'
+- type: cites
+  target: pt:dre:365973:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:30Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +115,11 @@ Atendendo ao parecer favorável do Conselho Técnico dos Serviços Florestais;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São submetidos ao regime florestal parcial os terrenos baldios municipais do concelho de Penela situados nas freguesias de Espinhal e Santa Eufémia; os baldios municipais do concelho de Miranda do Corvo situados na freguesia de Miranda do Corvo; os baldios paroquiais de Vila Nova, também do concelho de Miranda do Corvo, e os baldios paroquiais da freguesia de Campelo, do concelho de Figueiró dos Vinhos, cuja área total é de 1658 ha.
+Artigo 1.º São submetidos ao regime florestal parcial os terrenos baldios municipais do concelho de Penela situados nas freguesias de Espinhal e Santa Eufémia; os baldios municipais do concelho de Miranda do Corvo situados na freguesia de Miranda do Corvo; os baldios paroquiais de Vila Nova, também do concelho de Miranda do Corvo, e os baldios paroquiais da freguesia de Campelo, do concelho de Figueiró dos Vinhos, cuja área total é de 1658 ha.
 
-###### Art. 2.º A arborização destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos entre este e os corpos administrativos será feita proporcionalmente às despesas custeadas pelo Estado e ao valor atribuído aos terrenos, o qual foi arbitrado, por hectare, em 700$00 para os baldios da Câmara Municipal de Penela, 550$00 para os da Câmara Municipal de Miranda do Corvo e Junta de Freguesia de Vila Nova e 500$00 para os da Junta de Freguesia de Campelo.
+Art. 2.º A arborização destes baldios efectuar-se-á por conta do Estado e a partilha dos lucros líquidos entre este e os corpos administrativos será feita proporcionalmente às despesas custeadas pelo Estado e ao valor atribuído aos terrenos, o qual foi arbitrado, por hectare, em 700$00 para os baldios da Câmara Municipal de Penela, 550$00 para os da Câmara Municipal de Miranda do Corvo e Junta de Freguesia de Vila Nova e 500$00 para os da Junta de Freguesia de Campelo.
 
-###### Art. 3.º Aos povos limítrofes é reconhecido, dentro deste perímetro florestal, sem prejuízo dos trabalhos que se efectuarem e segundo as prescrições a estabelecer, o direito de:
+Art. 3.º Aos povos limítrofes é reconhecido, dentro deste perímetro florestal, sem prejuízo dos trabalhos que se efectuarem e segundo as prescrições a estabelecer, o direito de:
 
 a) Apascentação de gados;
 
@@ -114,16 +133,16 @@ e) Aproveitamento das águas para o respectivo abastecimento, sem prejuízo das 
 
 f) Utilização de serventias indispensáveis ao trânsito de pessoas, veículos e gados nos caminhos existentes, cujo traçado, no entanto, poderá ser alterado conforme se julgar conveniente.
 
-###### Art. 4.º A fim de assegurarem a continuidade do perímetro e a rectificação das suas estremas, poderão os serviços florestais, tendo em vista a eliminação dos prédios particulares que nele existam encravados:
+Art. 4.º A fim de assegurarem a continuidade do perímetro e a rectificação das suas estremas, poderão os serviços florestais, tendo em vista a eliminação dos prédios particulares que nele existam encravados:
 
 a) Propor às câmaras municipais a sua troca, que se realizará com dispensa das formalidades prescritas no Código Administrativo, por terrenos baldios situados na periferia do perímetro;
 
 b) Adquiri-los por compra ou expropriação, só podendo esta efectuar-se quando se não chegue a acordo quanto à sua aquisição por compra ou troca.
 
-###### Art. 5.º Estes baldios ficam a constituir o perímetro florestal de Alge.
+Art. 5.º Estes baldios ficam a constituir o perímetro florestal de Alge.
 
-###### Art. 6.º A arborização será levada a efeito em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
+Art. 6.º A arborização será levada a efeito em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Luís Le Cocq de Albuquerque de Azevedo Coutinho.

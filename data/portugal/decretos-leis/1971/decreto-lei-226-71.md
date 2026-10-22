@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1971-643940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02cf4916dab1b967c7571b226a1371a19c3f702fb5d2a1648827ad34be308fd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c5da425b49e7d23fe4df8c9c6517e272fe483bb0ec3bd4e1f481f9274961c23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:437048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:48Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +92,16 @@ de 28 de Maio
 
 Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 6.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, passa a ter a seguinte redacção:
+Artigo único. O artigo 6.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 6.º No domínio da habitação, os Serviços Sociais da Guarda Nacional Republicana terão em vista proporcionar alojamento aos agregados familiares dos beneficiários em condições compatíveis com a sua capacidade económica e posição social. Promover-se-á a construção de casas económicas destinadas a ocupação em regime de arrendamento.
+Art. 6.º No domínio da habitação, os Serviços Sociais da Guarda Nacional Republicana terão em vista proporcionar alojamento aos agregados familiares dos beneficiários em condições compatíveis com a sua capacidade económica e posição social. Promover-se-á a construção de casas económicas destinadas a ocupação em regime de arrendamento.
 
 § único. Aos beneficiários dos Serviços Sociais da Guarda Nacional Republicana que não disponham de habitação permanente em casa própria ou em casa por conta do Estado, ou, ainda, que não habitem casas fornecidas por organismos oficiais, segundo qualquer das modalidades de casas económicas ou de renda económica, é facultada a possibilidade de habitação por conta dos Serviços Sociais da Guarda Nacional Republicana, mediante renda módica.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 19 de Maio de 1971.**
+Promulgado em 19 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

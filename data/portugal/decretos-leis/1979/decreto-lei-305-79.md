@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19000/19971998.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1979-378968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66c1e9cfc77302ce51defb5b83e395b33680590aa46dcc0a85cd5f14af9b6bf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9456e009e554391a4444b020ed2be9e579381be2ba4e9cd7f4e49d2674dab0bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Escola de Condução
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:375664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428031:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553008:por
+  label: "Revogado pelo DEC LEI.6/82.12.01.1982.MHOPT, DR.IS [9] de 12.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1982-553008
+  date: '1982-01-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:34Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 6.º, 7.º, 8.º e 11.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 6.º, 7.º, 8.º e 11.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, passam a ter a seguinte redacção:
 
 ###### ARTIGO 1.º — (Do regime de ensino de condução automóvel)
 
@@ -168,7 +184,7 @@ b) Suspensão da actividade de instrutor e de director por período de três mes
 
 4 - ...
 
-###### Art. 2.º - 1 - A existência de duas ou mais condenações, dentro de cinco anos, por infracções aos Decretos-Leis n.os [364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031) e [366/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1977-286512) e ao presente diploma e respectivos regulamentos de que sejam autores os proprietários, directores ou instrutores, poderá determinar o cancelamento definitivo dos alvarás e licenças concedidos, ou a sua negação quando requeridos.
+Art. 2.º - 1 - A existência de duas ou mais condenações, dentro de cinco anos, por infracções aos Decretos-Leis n.os [364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031) e [366/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1977-286512) e ao presente diploma e respectivos regulamentos de que sejam autores os proprietários, directores ou instrutores, poderá determinar o cancelamento definitivo dos alvarás e licenças concedidos, ou a sua negação quando requeridos.
 
 2 - Será igualmente cancelado o alvará à escola de condução cujo proprietário, sócio ou gerente, pelo seu comportamento, comprometa, por forma relevante, a idoneidade moral e profissional, pressuposto da concessão da licença a que se referem os n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031).
 
@@ -180,14 +196,14 @@ b) Suspensão da actividade de instrutor e de director por período de três mes
 
 diploma, nos Decretos-Leis n.os [364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), [366/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1977-286512) e seus regulamentos, que serão anotadas no cadastro a que se refere o artigo 16.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031).
 
-###### Art. 3.º Por portaria do Ministro dos Transportes e Comunicações, serão aprovados os regulamentos necessários à boa execução do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, e do presente diploma.
+Art. 3.º Por portaria do Ministro dos Transportes e Comunicações, serão aprovados os regulamentos necessários à boa execução do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, e do presente diploma.
 
-###### Art. 4.º Este diploma entra em vigor trinta dias após a sua publicação.
+Art. 4.º Este diploma entra em vigor trinta dias após a sua publicação.
 
 Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia - José Ricardo Marques da Costa.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

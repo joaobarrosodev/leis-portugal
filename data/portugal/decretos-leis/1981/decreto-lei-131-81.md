@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12200/12251228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1981-574693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97eb4e990eacf7d72a7e6b1eb5968610b76330d11b550941736fa059c00aec02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fd22e2605754577685512020cf19ef5fd9a7838799455edf1ae41cf0e695bb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Habitação
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:24Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +136,13 @@ Usando da autorização legislativa concedida pelas alíneas a) a c) e e) do art
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É prorrogado até à entrada em vigor do sistema de incentivos que vier a ser estabelecido no uso da autorização legislativa conferida pelo artigo 35.º da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, o regime previsto quanto à aquisição de casas para habitação, nos artigos 1.º a 3.º do [Decreto-Lei n.º 472/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1974-618082), de 20 de Setembro, com as alterações introduzidas pelo artigo 2.º do [Decreto-Lei n.º 738-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/738-c-1975-402877), de 30 de Dezembro, e pelo n.º 2 do artigo 33.º do [Decreto-Lei n.º 183-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-a-1980-324943), de 9 de Junho, considerando-se reportadas até àquele momento todas as datas que se referem à caducidade do regime ou à fiscalização do seu condicionalismo.
+Artigo 1.º É prorrogado até à entrada em vigor do sistema de incentivos que vier a ser estabelecido no uso da autorização legislativa conferida pelo artigo 35.º da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, o regime previsto quanto à aquisição de casas para habitação, nos artigos 1.º a 3.º do [Decreto-Lei n.º 472/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1974-618082), de 20 de Setembro, com as alterações introduzidas pelo artigo 2.º do [Decreto-Lei n.º 738-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/738-c-1975-402877), de 30 de Dezembro, e pelo n.º 2 do artigo 33.º do [Decreto-Lei n.º 183-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-a-1980-324943), de 9 de Junho, considerando-se reportadas até àquele momento todas as datas que se referem à caducidade do regime ou à fiscalização do seu condicionalismo.
 
-###### Art. 2.º Não beneficia de isenção do imposto sobre as sucessões e doações a transmissão gratuita dos títulos emitidos, nos termos das Leis n.os [80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e [36/80](https://diariodarepublica.pt/dr/detalhe/lei/36-1980-470267), de 31 de Julho.
+Art. 2.º Não beneficia de isenção do imposto sobre as sucessões e doações a transmissão gratuita dos títulos emitidos, nos termos das Leis n.os [80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e [36/80](https://diariodarepublica.pt/dr/detalhe/lei/36-1980-470267), de 31 de Julho.
 
-###### Art. 3.º É alterada a redacção do n.º 11 do artigo 13.º, do § 1.º do artigo 14.º, dos §§ 1.º e 2.º do artigo 19.º e das regras 4.ª e 5.ª do seu § 3.º, da regra 7.ª do § 3.º do artigo 20.º, do artigo 35.º, do corpo do artigo 86.º e seus §§ 1.º a 3.º, do n.º 3.º do artigo 87.º, dos artigos 91.º e 101.º, do § 1.º do artigo 111.º, do artigo 118.º, do § 3.º do artigo 120.º, do artigo 127.º, do corpo do artigo 131.º, do artigo 179.º, aditando-se ainda ao artigo 31.º as regras 13.ª a 17.ª e ao artigo 149.º o § único e suprimindo-se o n.º 8.º do artigo 79.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, pela forma que segue:
+Art. 3.º É alterada a redacção do n.º 11 do artigo 13.º, do § 1.º do artigo 14.º, dos §§ 1.º e 2.º do artigo 19.º e das regras 4.ª e 5.ª do seu § 3.º, da regra 7.ª do § 3.º do artigo 20.º, do artigo 35.º, do corpo do artigo 86.º e seus §§ 1.º a 3.º, do n.º 3.º do artigo 87.º, dos artigos 91.º e 101.º, do § 1.º do artigo 111.º, do artigo 118.º, do § 3.º do artigo 120.º, do artigo 127.º, do corpo do artigo 131.º, do artigo 179.º, aditando-se ainda ao artigo 31.º as regras 13.ª a 17.ª e ao artigo 149.º o § único e suprimindo-se o n.º 8.º do artigo 79.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, pela forma que segue:
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 ...
 
@@ -119,13 +152,13 @@ Esta isenção abrange o resgate de servidões ou quaisquer encargos que onerem 
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 § 1.º Quando o terreno for transmitido ou o direito de superfície for constituído antes de terminada a construção do edifício, o direito à isenção caberá ou transferir-se-á ao adquirente, contando-se os dois anos do começo das obras, se o alheador não tinha direito à isenção, ou da data em que este adquiriu o terreno, no caso contrário.
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § 1.º O valor dos bens comprados ao Estado ou às autarquias locais, bem como o dos adquiridos mediante arrematação judicial ou administrativa, será o respectivo preço; o dos expropriados por utilidade pública será o montante da indemnização, salvo se esta for estabelecida por acordo ou transacção.
 
@@ -165,7 +198,7 @@ b) Na constituição do direito de superfície, bem como na transmissão deste d
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 3.º ...
 
@@ -177,7 +210,7 @@ b) Nos demais casos, o valor da propriedade do solo será determinado nos termos
 
 ...
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 13.ª O valor matricial da propriedade do solo, quando o direito de superfície for perpétuo, será o correspondente a 20% do valor do terreno;
 
@@ -189,9 +222,9 @@ b) Nos demais casos, o valor da propriedade do solo será determinado nos termos
 
 17.ª O valor do terreno de prédio rústico sujeito a direito de superfície é o correspondente a 20% do valor da matriz.
 
-###### Art. 35.º É também de 1%, desde que o prédio já esteja construído, a taxa da sisa pela constituição ou pela primeira transmissão do direito de superfície, nas mesmas condições do artigo anterior, consoante o prédio tenha sido construído, respectivamente, pelo dono do terreno ou pelo superficiário.
+Art. 35.º É também de 1%, desde que o prédio já esteja construído, a taxa da sisa pela constituição ou pela primeira transmissão do direito de superfície, nas mesmas condições do artigo anterior, consoante o prédio tenha sido construído, respectivamente, pelo dono do terreno ou pelo superficiário.
 
-###### Art. 86.º Feita ou reformada a liquidação, os contribuintes, seus representantes legais ou mandatários serão dela notificados, e sê-lo-ão pessoalmente ou pela forma prevista no artigo 114.º se estiverem no continente ou nas Regiões Autónomas dos Açores e da Madeira e for conhecido o lugar onde se encontrem.
+Art. 86.º Feita ou reformada a liquidação, os contribuintes, seus representantes legais ou mandatários serão dela notificados, e sê-lo-ão pessoalmente ou pela forma prevista no artigo 114.º se estiverem no continente ou nas Regiões Autónomas dos Açores e da Madeira e for conhecido o lugar onde se encontrem.
 
 § 1.º Se qualquer contribuinte ou seu representante estiver em concelho diferente do da repartição de finanças que liquidou o imposto, será a notificação requisitada à repartição de finanças respectiva.
 
@@ -201,39 +234,39 @@ b) Nos demais casos, o valor da propriedade do solo será determinado nos termos
 
 ...
 
-###### Art. 87.º ...
+Art. 87.º ...
 
 3.º Bens mencionados nos n.os 1.º e 7.º e última parte do n.º 4.º do artigo 79.º
 
 ...
 
-###### Art. 91.º No caso de ficar sem efeito a redução da sisa, nos termos do artigo 38.º, § 2.º, ou a isenção ou redução da sisa e do imposto sobre as sucessões e doações, nos termos dos artigos 16.º e seu § 1.º, 16.º-A e 17.º, deverão as pessoas ou entidades sujeitas ao seu pagamento solicitar, dentro de trinta dias, a respectiva liquidação, salvo quando for de observar o § 2.º do artigo 16.º-A, em que a liquidação será pedida antes da nova aquisição.
+Art. 91.º No caso de ficar sem efeito a redução da sisa, nos termos do artigo 38.º, § 2.º, ou a isenção ou redução da sisa e do imposto sobre as sucessões e doações, nos termos dos artigos 16.º e seu § 1.º, 16.º-A e 17.º, deverão as pessoas ou entidades sujeitas ao seu pagamento solicitar, dentro de trinta dias, a respectiva liquidação, salvo quando for de observar o § 2.º do artigo 16.º-A, em que a liquidação será pedida antes da nova aquisição.
 
 ...
 
-###### Art. 101.º Se o contribuinte desistir da avaliação ou o valor resultante for igual ao por ele contestado, ser-lhe-á exigido, como custas, o imposto de justiça e o imposto do selo fixado no primeiro escalão da tabela I referida no artigo anterior.
+Art. 101.º Se o contribuinte desistir da avaliação ou o valor resultante for igual ao por ele contestado, ser-lhe-á exigido, como custas, o imposto de justiça e o imposto do selo fixado no primeiro escalão da tabela I referida no artigo anterior.
 
 ...
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 § 1.º Não poderá efectuar-se liquidação adicional da sisa quando o seu quantitativo seja inferior a 200$00, nem do imposto sobre as sucessões e doações quando dela resulte importância inferior a 100$00 por cada conhecimento que for de processar.
 
 ...
 
-###### Art. 118.º Nas arrematações de bens do Estado, quando for autorizado o pagamento do preço em prestações semestrais, a sisa poderá ser paga em prestações cobráveis nos mesmos prazos e que vencerão o juro anual de 12%.
+Art. 118.º Nas arrematações de bens do Estado, quando for autorizado o pagamento do preço em prestações semestrais, a sisa poderá ser paga em prestações cobráveis nos mesmos prazos e que vencerão o juro anual de 12%.
 
 Nenhuma das prestações poderá ser inferior a 1000$00, e vencida e não paga qualquer delas considerar-se-ão logo vencidas todas as restantes.
 
 ...
 
-###### Art. 120.º ...
+Art. 120.º ...
 
 § 3.º Nenhuma prestação deverá ser inferior a 1000$00, acrescendo à primeira as fracções resultantes do arredondamento em escudos de todas elas, e o imposto correspondente à transmissão de móveis, quando não seja prestada caução nos termos do parágrafo anterior.
 
 ...
 
-###### Art. 127.º Para efeitos do disposto no artigo 121.º, o chefe da repartição de finanças fará liquidação do desconto no processo, observando-se ainda o seguinte:
+Art. 127.º Para efeitos do disposto no artigo 121.º, o chefe da repartição de finanças fará liquidação do desconto no processo, observando-se ainda o seguinte:
 
 1.º Tratando-se de desconto pelo pagamento de pronto das prestações, será aquele averbado no respectivo conhecimento, com indicação do seu montante e do mês em que poderá ser aproveitado, nos termos do § único do citado artigo 121.º, procedendo-se ao respectivo crédito através da relação modelo n.º 27 anexa ao Regulamento Geral da Administração Pública, que será documentada com certificado das importâncias deduzidas, assinado pelo chefe da repartição de finanças e pelo tesoureiro.
 
@@ -243,26 +276,26 @@ Nenhuma das prestações poderá ser inferior a 1000$00, e vencida e não paga q
 
 ...
 
-###### Art. 131.º Quando for devida sisa ou houver isenção desta, nos termos do artigo 11.º, n.º 21.º, os notários e outros funcionários que desempenhem funções notariais não poderão lavrar as escrituras sem que lhes seja apresentado, respectivamente, o correspondente conhecimento para efeitos do artigo 62.º do Código do Notariado ou o duplicado da declaração mencionada no artigo 15.º-B, que serão arquivados.
+Art. 131.º Quando for devida sisa ou houver isenção desta, nos termos do artigo 11.º, n.º 21.º, os notários e outros funcionários que desempenhem funções notariais não poderão lavrar as escrituras sem que lhes seja apresentado, respectivamente, o correspondente conhecimento para efeitos do artigo 62.º do Código do Notariado ou o duplicado da declaração mencionada no artigo 15.º-B, que serão arquivados.
 
 Caso se alegue extravio, os referidos documentos poderão ser substituídos, conforme os casos, por certidão do pagamento da sisa contendo o teor do termo de declaração prestada ou da guia apresentada para efeitos da liquidação ou por certidão do teor da declaração entregue para efeitos da isenção.
 
 ...
 
-###### Art. 149.º ...
+Art. 149.º ...
 
 § único. Tendo sido liquidado imposto superior ou desconto inferior ao devido por erro imputável aos serviços, não se procederá a anulação oficiosa quando o seu montante seja inferior a 200$00 no caso de sisa ou a 100$00 por cada conhecimento que for de processar tratando-se de imposto sobre as sucessões e doações.
 
 ...
 
-###### Art. 179.º Independentemente da anulação da liquidação, o Ministro das Finanças e do Plano poderá ordenar a restituição da sisa ou do imposto sobre as sucessões e doações, pagos nos últimos cinco anos, quando os considere indevidamente cobrados, observando-se o disposto no corpo do artigo 155.º
+Art. 179.º Independentemente da anulação da liquidação, o Ministro das Finanças e do Plano poderá ordenar a restituição da sisa ou do imposto sobre as sucessões e doações, pagos nos últimos cinco anos, quando os considere indevidamente cobrados, observando-se o disposto no corpo do artigo 155.º
 
-###### Art. 4.º As alterações introduzidas no artigo 118.º, bem como no § 3.º do artigo 120.º e no artigo 127.º, aplicam-se, respectivamente, às arrematações efectuadas posteriormente à data da entrada em vigor deste decreto-lei e às liquidações de imposto que, na mesma data, não tiverem ainda sido notificadas aos interessados.
+Art. 4.º As alterações introduzidas no artigo 118.º, bem como no § 3.º do artigo 120.º e no artigo 127.º, aplicam-se, respectivamente, às arrematações efectuadas posteriormente à data da entrada em vigor deste decreto-lei e às liquidações de imposto que, na mesma data, não tiverem ainda sido notificadas aos interessados.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Maio de 1981.**
+Promulgado em 14 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

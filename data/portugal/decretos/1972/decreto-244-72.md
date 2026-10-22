@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/244-1972-674823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 322c3b451de8b690c1fd0c713e9e26f385c68e657455364b249e7e474f4bff57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5315deefb91572963afd793a855f5679c194e6fbaf48738ba17b429548610fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:36Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +93,17 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir indicados, crédito especiais, no montante de 166489149$10, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir indicados, crédito especiais, no montante de 166489149$10, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério da Justiça
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
 Polícia Judiciária
 
 Quadro único
 
-###### Artigo 129.º «Vencimentos e salários»:
+Artigo 129.º «Vencimentos e salários»:
 
 N.º 1) «Vencimentos»:
 
@@ -107,9 +111,9 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 (Durante oito meses e vinte e sete dias)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/07/16900/09240924.pdf))](https://files.diariodarepublica.pt/1s/1972/07/16900/09240924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/07/16900/09240924.pdf)
 
-###### Artigo 130.º «Gratificações certas e permanentes»:
+Artigo 130.º «Gratificações certas e permanentes»:
 
 1 director (durante oito meses e vinte e sete dias) ... 8900$00
 
@@ -117,9 +121,9 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 Ministério das Obras Públicas
 
-### Capítulo 12.º «Direcção-Geral das Construções Hospitalares»:
+Capítulo 12.º «Direcção-Geral das Construções Hospitalares»:
 
-###### Artigo 242.º «Bens duradouros»:
+Artigo 242.º «Bens duradouros»:
 
 N.º 3) «Outros bens duradouros»:
 
@@ -127,30 +131,30 @@ Alínea 2 «Hospitais Civis de Lisboa» ... (20) 209794$00
 
 Ministério das Comunicações
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 251.º «Aeroporto de Lisboa» ... 164631705$10
+Artigo 251.º «Aeroporto de Lisboa» ... 164631705$10
 
 ... 166489149$10
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 1647650$00
+Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 1647650$00
 
-### Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» .... 209794$00
+Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» .... 209794$00
 
-### Capítulo 15.º, artigo 332.º «Aeroporto de Lisboa» ... 164631705$10
+Capítulo 15.º, artigo 332.º «Aeroporto de Lisboa» ... 164631705$10
 
 ... 166489149$10
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 8 de Julho de 1972.**
+Promulgado em 8 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

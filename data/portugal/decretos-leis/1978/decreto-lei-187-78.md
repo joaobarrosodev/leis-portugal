@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1978-297413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 726df08eb48d0db04aa3817a8b651d537e0c859d71e0f860e90480d7171622f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eac74b541f30486988f7616eb978de9263d31e9fe56472211378a9d176bb42e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Direitos Aduaneiros
+- Importação
+- Pauta dos Direitos de Importação
+- Tabaco
+relationships:
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:05Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +98,16 @@ Considerando-se que o uso de uma percentagem para o cálculo do peso líquido tr
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O § 3.º do artigo 2.º do Decreto-Lei n.º 41397, de 26 de Novembro de 1957, passa a ter a seguinte redacção:
+Artigo 1.º O § 3.º do artigo 2.º do Decreto-Lei n.º 41397, de 26 de Novembro de 1957, passa a ter a seguinte redacção:
 
 § 3.º A determinação do peso líquido tributável do tabaco em folha será feita descontando-se do respectivo peso bruto as seguintes taras: para caixas de madeira, 16,5%; para barricas, 13%; para fardos envolvidos em casca de palmeira, revestidos ou não de grossaria, 10%; para fardos envolvidos em esteira, ou somente em grossaria, 2%.
 
-###### Art. 2.º No artigo 37.º das Instruções Preliminares da Pauta de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, na rubrica respeitante ao tabaco em folha, são incluídas as «caixas de madeira» com a percentagem de 16,5.
+Art. 2.º No artigo 37.º das Instruções Preliminares da Pauta de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, na rubrica respeitante ao tabaco em folha, são incluídas as «caixas de madeira» com a percentagem de 16,5.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 28 de Junho de 1978.**
+Promulgado em 28 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

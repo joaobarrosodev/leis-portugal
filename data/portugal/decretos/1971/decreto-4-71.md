@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4-1971-300189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e40bfc8db20523c093700861a5389b69c13ca8eea291ea8a1dc29c1e54d514fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46cf04139bb5b83a50305e65e9d801b57da6bb724d8745d3629176a19137decc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:480112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486492:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:16Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +108,9 @@ Ouvidos o Conselho Ultramarino e os governadores das províncias;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Serviço Meteorológico de cada uma das províncias ultramarinas é constituído pelo estabelecimento central e pelos estabelecimentos externos.
+Artigo 1.º O Serviço Meteorológico de cada uma das províncias ultramarinas é constituído pelo estabelecimento central e pelos estabelecimentos externos.
 
-###### Art. 2.º - 1. Nos estabelecimentos centrais dos Serviços Meteorológicos de Angola e de Moçambique funcionam a Direcção do Serviço, a Repartição de Coordenação e Intercâmbio, a Repartição de Rede Meteorológica, a Repartição de Exploração Meteorológica, a Repartição de Estudos Meteorológicos, a Repartição de Geofísica, a Repartição de Material e os Serviços Administrativos.
+Art. 2.º - 1. Nos estabelecimentos centrais dos Serviços Meteorológicos de Angola e de Moçambique funcionam a Direcção do Serviço, a Repartição de Coordenação e Intercâmbio, a Repartição de Rede Meteorológica, a Repartição de Exploração Meteorológica, a Repartição de Estudos Meteorológicos, a Repartição de Geofísica, a Repartição de Material e os Serviços Administrativos.
 
 2. À Repartição de Coordenação e Intercâmbio compete estudar o aproveitamento do pessoal técnico e os assuntos referentes às relações com os organismos internacionais e participação nas suas actividades, superintender na biblioteca, promover a realização de reuniões científicas do pessoal e de utilizadores da informação meteorológica e geofísica, coordenar a execução e assegurar a distribuição das publicações do Serviço.
 
@@ -118,29 +126,29 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 8. Aos Serviços Administrativos compete assegurar o expediente geral, o cadastro do pessoal, a contabilidade e a tesouraria.
 
-###### Art. 3.º No estabelecimento central dos serviços meteorológicos das províncias ultramarinas não referidas no artigo anterior funcionam a chefia do serviço, a secretaria e as secções que as funções do serviço justifiquem, as quais serão fixadas por portaria do governador da província respectiva, sob proposta do director ou chefe do serviço meteorológico.
+Art. 3.º No estabelecimento central dos serviços meteorológicos das províncias ultramarinas não referidas no artigo anterior funcionam a chefia do serviço, a secretaria e as secções que as funções do serviço justifiquem, as quais serão fixadas por portaria do governador da província respectiva, sob proposta do director ou chefe do serviço meteorológico.
 
-###### Art. 4.º Os estabelecimentos externos dos serviços meteorológicos das províncias ultramarinas são os observatórios, os centros meteorológicos e as estações e postos meteorológicos, aerológicos, geofísicos e astronómicos.
+Art. 4.º Os estabelecimentos externos dos serviços meteorológicos das províncias ultramarinas são os observatórios, os centros meteorológicos e as estações e postos meteorológicos, aerológicos, geofísicos e astronómicos.
 
-###### Art. 5.º Os meteorologistas-directores dos Serviços Meteorológicos de Angola e de Moçambique serão substituídos nas suas faltas ou impedimentos pelos meteorologistas-subdirectores dos mesmos Serviços, nos quais poderão delegar, sob a sua responsabilidade, uma parte das respectivas funções.
+Art. 5.º Os meteorologistas-directores dos Serviços Meteorológicos de Angola e de Moçambique serão substituídos nas suas faltas ou impedimentos pelos meteorologistas-subdirectores dos mesmos Serviços, nos quais poderão delegar, sob a sua responsabilidade, uma parte das respectivas funções.
 
-###### Art. 6.º Os chefes das repartições do estabelecimento central dos Serviços Meteorológicos de Angola e de Moçambique, os chefes das secções e da secretaria do estabelecimento central dos serviços meteorológicos das outras províncias ultramarinas e os chefes dos estabelecimentos externos são designados pelo governador da província respectiva, sob proposta do director ou chefe do serviço meteorológico.
+Art. 6.º Os chefes das repartições do estabelecimento central dos Serviços Meteorológicos de Angola e de Moçambique, os chefes das secções e da secretaria do estabelecimento central dos serviços meteorológicos das outras províncias ultramarinas e os chefes dos estabelecimentos externos são designados pelo governador da província respectiva, sob proposta do director ou chefe do serviço meteorológico.
 
-###### Art. 7.º - 1. No estabelecimento central e nos estabelecimentos externos, quando houver nisso conveniência, funcionarão estágios para recrutamento e para actualização de conhecimentos de funcionários dos quadros do pessoal técnico.
+Art. 7.º - 1. No estabelecimento central e nos estabelecimentos externos, quando houver nisso conveniência, funcionarão estágios para recrutamento e para actualização de conhecimentos de funcionários dos quadros do pessoal técnico.
 
 2. Os estágios são ministrados por professores, um dos quais será o chefe do estágio, e por instrutores, coadjuvados por um secretário, todos eles designados pelo governador da província respectiva, sob proposta do director ou do chefe do serviço meteorológico.
 
 3. Os professores dos estágios são recrutados entre os funcionários do quadro comum do pessoal técnico superior, e os instrutores e os secretários, entre os funcionários dos quadros do pessoal técnico subalterno ou auxiliar e do pessoal administrativo.
 
-###### Art. 8.º - 1. Os quadros do pessoal dos serviços meteorológicos das províncias ultramarinas são os que constam da tabela I anexa ao presente decreto. Os vencimentos respectivos são os das categorias indicadas na mesma tabela.
+Art. 8.º - 1. Os quadros do pessoal dos serviços meteorológicos das províncias ultramarinas são os que constam da tabela I anexa ao presente decreto. Os vencimentos respectivos são os das categorias indicadas na mesma tabela.
 
 2. Os lugares dos quadros do pessoal dos serviços meteorológicos das províncias ultramarinas não incluídos na tabela II anexa ao presente decreto só serão preenchidos a partir de 1973, à medida que as possibilidades financeiras da província o permitam e as necessidades do serviço o exigirem.
 
-###### Art. 9.º - 1. Os lugares do quadro comum do pessoal técnico superior serão providos, em regra, por nomeação em comissão de meteorologistas do Serviço Meteorológico Nacional.
+Art. 9.º - 1. Os lugares do quadro comum do pessoal técnico superior serão providos, em regra, por nomeação em comissão de meteorologistas do Serviço Meteorológico Nacional.
 
 2. Quando as necessidades do serviço o justifiquem, os lugares referidos no n.º 1 deste artigo poderão eventualmente ser providos, em regime de contrato, por meteorologistas do Serviço Meteorológico Nacional ou por outros indivíduos de reconhecida competência profissional, nas condições que forem fixadas pelo Ministro do Ultramar.
 
-###### Art. 10.º - 1. Os lugares do pessoal técnico subalterno e do pessoal administrativo de cada um dos quadros privativos serão providos em regime de nomeação, e os do pessoal técnico auxiliar, em regime de contrato.
+Art. 10.º - 1. Os lugares do pessoal técnico subalterno e do pessoal administrativo de cada um dos quadros privativos serão providos em regime de nomeação, e os do pessoal técnico auxiliar, em regime de contrato.
 
 2. As condições de recrutamento, ingresso e promoção do pessoal técnico subalterno e do pessoal técnico auxiliar serão fixadas pelos governadores das respectivas províncias, sob proposta do director ou chefe do serviço meteorológico e ouvida a Direcção-Geral do Serviço Meteorológico Nacional.
 
@@ -148,19 +156,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Quando as necessidades do serviço o justifiquem, os lugares do pessoal técnico subalterno poderão ser providos por nomeação em comissão de funcionários do Serviço Meteorológico Nacional, ou por contrato de pessoa de reconhecida competência profissional.
 
-###### Art. 11.º Poderão ser contratados, pelas disponibilidades do respectivo quadro, funcionários em número não superior às vagas nele existentes.
+Art. 11.º Poderão ser contratados, pelas disponibilidades do respectivo quadro, funcionários em número não superior às vagas nele existentes.
 
-###### Art. 12.º - 1. Os Serviços Meteorológicos de Angola e de Moçambique poderão recorrer a consultores de formação universitária, estranhos àqueles Serviços, necessários para apoio às suas actividades em domínios especializados.
+Art. 12.º - 1. Os Serviços Meteorológicos de Angola e de Moçambique poderão recorrer a consultores de formação universitária, estranhos àqueles Serviços, necessários para apoio às suas actividades em domínios especializados.
 
 2. Os consultores perceberão as gratificações fixadas para cada caso pelo governador da província, sob proposta do director do serviço meteorológico, as quais são acumuláveis com quaisquer outras remunerações. O número de consultores será o que anualmente constar do respectivo orçamento.
 
-###### Art. 13.º - 1. Ao pessoal dos serviços meteorológicos são atribuídas as gratificações mensais indicadas na tabela III anexa ao presente decreto.
+Art. 13.º - 1. Ao pessoal dos serviços meteorológicos são atribuídas as gratificações mensais indicadas na tabela III anexa ao presente decreto.
 
 2. As gratificações referidas no n.º 1 deste artigo são acumuláveis com quaisquer outras gratificações, subsídios ou abonos.
 
 3. Nos termos da legislação em vigor, os governadores das províncias poderão fixar gratificações a outras categorias de agentes pertencentes aos quadros privativos do serviço meteorológico das províncias respectivas.
 
-###### Art. 14.º - 1. Os quantitativos do subsídio diário a abonar ao pessoal técnico dos serviços meteorológicos das províncias ultramarinas são os fixados na tabela IV anexa ao presente decreto.
+Art. 14.º - 1. Os quantitativos do subsídio diário a abonar ao pessoal técnico dos serviços meteorológicos das províncias ultramarinas são os fixados na tabela IV anexa ao presente decreto.
 
 2. O abono do subsídio diário acarreta a proibição de qualquer actividade particular.
 
@@ -168,25 +176,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. O subsídio diário a que se refere o n.º 1 deste artigo é acumulável com quaisquer gratificações, subsídios ou abonos, incluindo ajudas de custo, e será abonado sempre que o funcionário tenha direito ao vencimento base e complementar.
 
-###### Art. 15.º - 1. O trabalho prestado pelo pessoal dos serviços meteorológicos entre as 20 e as 8 horas do tempo legal (trabalho nocturno) dá direito às gratificações que constam da tabela V anexa ao presente decreto.
+Art. 15.º - 1. O trabalho prestado pelo pessoal dos serviços meteorológicos entre as 20 e as 8 horas do tempo legal (trabalho nocturno) dá direito às gratificações que constam da tabela V anexa ao presente decreto.
 
 2. Quando o trabalho for só de observações de superfície e com balão-piloto às horas sinópticas, o cômputo das gratificações é feito considerando o tempo da observação igual a uma hora completa de trabalho.
 
 3. As gratificações por trabalho nocturno referidas no n.º 1 deste artigo são acumuláveis com quaisquer outras gratificações, subsídios ou abonos, incluindo as remunerações por trabalho extraordinário.
 
-###### Art. 16.º - 1. A duração do trabalho normal do pessoal que trabalhar em regime de turnos nos estabelecimentos de funcionamento permanente, isto é, incluindo domingos e dias feriados, é de trinta e seis horas por semana, sendo reduzida de seis horas por cada feriado que coincidir com um dia útil da semana.
+Art. 16.º - 1. A duração do trabalho normal do pessoal que trabalhar em regime de turnos nos estabelecimentos de funcionamento permanente, isto é, incluindo domingos e dias feriados, é de trinta e seis horas por semana, sendo reduzida de seis horas por cada feriado que coincidir com um dia útil da semana.
 
 2. Sem prejuízo das disposições sobre remuneração por trabalho extraordinário por outros serviços especiais eventualmente fixadas pelos governos das respectivas províncias nos termos da legislação em vigor, será considerado trabalho extraordinário o que for executado além do tempo fixado no n.º 1 do presente artigo pelo pessoal nele referido, o qual será remunerado na base do valor da hora de trabalho correspondente à categoria do funcionário a que respeitar, não podendo, contudo, perceber em cada mês mais de um terço do respectivo vencimento mensal.
 
-###### Art. 17.º As gratificações especiais anuais aos encarregados de posto são as que constam da tabela VI anexa ao presente decreto.
+Art. 17.º As gratificações especiais anuais aos encarregados de posto são as que constam da tabela VI anexa ao presente decreto.
 
-###### Art. 18.º Os governadores das províncias ultramarinas poderão fixar gratificações especiais a pessoas estranhas ao respectivo serviço meteorológico provincial por trabalhos de assistência técnica a material e outros considerados de interesse.
+Art. 18.º Os governadores das províncias ultramarinas poderão fixar gratificações especiais a pessoas estranhas ao respectivo serviço meteorológico provincial por trabalhos de assistência técnica a material e outros considerados de interesse.
 
-###### Art. 19.º Aos funcionários técnicos dos serviços meteorológicos das províncias ultramarinas é atribuído o direito a casa do Estado, quanto possível na proximidade dos estabelecimentos em que estiverem colocados.
+Art. 19.º Aos funcionários técnicos dos serviços meteorológicos das províncias ultramarinas é atribuído o direito a casa do Estado, quanto possível na proximidade dos estabelecimentos em que estiverem colocados.
 
-###### Art. 20.º A natureza e localização dos estabelecimentos de cada um dos serviços, com excepção dos postos, serão fixados pelo Ministro do Ultramar, ouvida a Direcção-Geral do Serviço Meteorológico Nacional. O número de encarregados de posto será fixado anualmente, para cada um dos serviços, no diploma que aprovar o respectivo orçamento.
+Art. 20.º A natureza e localização dos estabelecimentos de cada um dos serviços, com excepção dos postos, serão fixados pelo Ministro do Ultramar, ouvida a Direcção-Geral do Serviço Meteorológico Nacional. O número de encarregados de posto será fixado anualmente, para cada um dos serviços, no diploma que aprovar o respectivo orçamento.
 
-###### Art. 21.º - 1 (transitório). Os actuais agentes dos serviços meteorológicos das províncias ultramarinas, referidos a seguir, manter-se-ão nos seus actuais lugares e situações, continuando a ser remunerados por conta das verbas que até aqui suportaram os respectivos encargos, até que seja dada execução ao disposto a seguir para cada caso:
+Art. 21.º - 1 (transitório). Os actuais agentes dos serviços meteorológicos das províncias ultramarinas, referidos a seguir, manter-se-ão nos seus actuais lugares e situações, continuando a ser remunerados por conta das verbas que até aqui suportaram os respectivos encargos, até que seja dada execução ao disposto a seguir para cada caso:
 
 a) O meteorologista-adjunto de 1.ª classe do Serviço Meteorológico de Macau passar a designar-se meteorologista-adjunto;
 
@@ -230,24 +238,24 @@ t) O actual servente de 2.ª classe do quadro do pessoal assalariado do Serviço
 
 3. Se da aplicação do disposto no n.º 1 do presente artigo resultar para alguns agentes diminuição de vencimentos ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para que transitarem, os seus actuais vencimentos e outras regalias inerentes.
 
-###### Art. 22.º (transitório). Sem prejuízo do disposto no artigo 21.º, o primeiro provimento das vagas do quadro privativo da província, incluindo o pessoal contratado e assalariado, resultantes da execução do presente diploma, poderá ser feito por escolha entre funcionários do serviço que à data da publicação do diploma exerçam funções de idêntica natureza, independentemente do tempo de serviço prestado na actual categoria.
+Art. 22.º (transitório). Sem prejuízo do disposto no artigo 21.º, o primeiro provimento das vagas do quadro privativo da província, incluindo o pessoal contratado e assalariado, resultantes da execução do presente diploma, poderá ser feito por escolha entre funcionários do serviço que à data da publicação do diploma exerçam funções de idêntica natureza, independentemente do tempo de serviço prestado na actual categoria.
 
-###### Art. 23.º A execução deste diploma fica dependente das possibilidades financeiras das respectivas províncias, efectuando-se à medida que forem sendo orçamentadas as verbas necessárias. Contudo, ficam os governadores provinciais desde já autorizados a abrir os créditos necessários, com contrapartida nos recursos orçamentais.
+Art. 23.º A execução deste diploma fica dependente das possibilidades financeiras das respectivas províncias, efectuando-se à medida que forem sendo orçamentadas as verbas necessárias. Contudo, ficam os governadores provinciais desde já autorizados a abrir os créditos necessários, com contrapartida nos recursos orçamentais.
 
-###### Art. 24.º O [Decreto n.º 38041](https://diariodarepublica.pt/dr/detalhe/decreto/38041-1950-486492), de 8 de Novembro de 1950, fica revogado a partir da entrada em vigor do presente diploma.
+Art. 24.º O [Decreto n.º 38041](https://diariodarepublica.pt/dr/detalhe/decreto/38041-1950-486492), de 8 de Novembro de 1950, fica revogado a partir da entrada em vigor do presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, com excepção do de Cabo Verde. - J. da Silva Cunha.
 
 Da TABELA I à TABELA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/01/00700/00240030.pdf))](https://files.diariodarepublica.pt/1s/1971/01/00700/00240030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/01/00700/00240030.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

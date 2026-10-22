@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10
   number: '209'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2258-(47) a 2258-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20901/00470048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-f-1979-256642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8766dc3f66da26afd447c91174162b0354cff4fbd3ad51b0360a6b62548fb65c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f546f1035f57b4a208869119a301abf29e018daa56569118deb6cba24d2435
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Programa
+- Incentivos Fiscais
+- Indústria de Conservas
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:37Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +118,14 @@ Sendo necessário conceder, às empresas de conservas de peixe que celebraram co
 
 O Governo decreta, ao abrigo da autorização que lhe foi concedida pelo artigo único da [Lei n.º 33/79](https://diariodarepublica.pt/dr/detalhe/lei/33-1979-276587), de 7 de Setembro, e nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Às empresas do sector das conservas de peixe que procederam à sua reorganização e concentração de acordo com as orientações e com a aprovação do Governo e que não tenham requerido em devido tempo a concessão dos incentivos fiscais previstos nos contratos que celebraram com o Estado é concedido o prazo de trinta dias, contados a partir da data da publicação do presente diploma, para que os requeiram.
+Artigo 1.º Às empresas do sector das conservas de peixe que procederam à sua reorganização e concentração de acordo com as orientações e com a aprovação do Governo e que não tenham requerido em devido tempo a concessão dos incentivos fiscais previstos nos contratos que celebraram com o Estado é concedido o prazo de trinta dias, contados a partir da data da publicação do presente diploma, para que os requeiram.
 
-###### Art. 2.º Os requerimentos referidos no artigo anterior serão apresentados em conformidade com o disposto na base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e legislação complementar, designadamente no artigo 10.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, e na alínea a) do n.º 2 da [Portaria n.º 249/74](https://diariodarepublica.pt/dr/detalhe/portaria/249-1974-411811), de 5 de Abril, especificando os incentivos requeridos, os quais se consideram incluídos na classe D, assim como os compromissos assumidos por cada um dos requerentes.
+Art. 2.º Os requerimentos referidos no artigo anterior serão apresentados em conformidade com o disposto na base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e legislação complementar, designadamente no artigo 10.º do [Decreto-Lei n.º 74/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928), de 28 de Fevereiro, e na alínea a) do n.º 2 da [Portaria n.º 249/74](https://diariodarepublica.pt/dr/detalhe/portaria/249-1974-411811), de 5 de Abril, especificando os incentivos requeridos, os quais se consideram incluídos na classe D, assim como os compromissos assumidos por cada um dos requerentes.
 
 Visto e aprovado em Conselho de Ministros de 7 Setembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço.
 
-**Promulgado em 10 de Setembro de 1979.**
+Promulgado em 10 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

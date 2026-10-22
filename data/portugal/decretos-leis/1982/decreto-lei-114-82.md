@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08400/08630866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1982-607364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da56dda5b5992cb8c0712187df6d4667763ebbca24ed1634f749bcd53da346ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 476ce7643a7ed635a7b84114dd961b9efb75e33ba4b56670ebf0fac0202b64c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Braga
+- Criação de Serviços
+- Ensino Artístico
+- Escola de Música de Calouste Gulbenkian
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:645304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378152:por
+  label: "Alterados os arts. 4.º, 10.º, 11.º, 14.º, 17.º, 19.º, 24.º, 25.º, 27.º e 28.º e revogados os arts. 6.º, 7.º, 8.º,\
+    \ 18.º e 26.º, pelo DEC LEI.437/82.30.10.1982.ME, DR.IS [252] de 30.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/437-1982-378152
+  date: '1982-10-30'
+- type: cites
+  target: pt:dre:286332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395759:por
+  label: Rectificado pela DECL.DD3497.1982.05.31.PCM DR.IS [135] DE 15/JUN/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395759
+  date: '1982-05-31'
+- type: repealed_by
+  target: pt:dre:645304:por
+  label: "Revogado pelo DEC LEI.352/93.07.10.1993.ME, DR.IS-A [235] de 07.10.1993, a partir da entrada em vigor dos regulamentos\
+    \ a que se refere o seu artigo 17.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-1993-645304
+  date: '1993-10-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:36Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +155,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada na cidade de Braga a Escola de Música de Calouste Gulbenkian, adiante designada por Escola, a qual sucede à Escola Piloto de Educação Artística de Braga.
+Artigo 1.º - 1 - É criada na cidade de Braga a Escola de Música de Calouste Gulbenkian, adiante designada por Escola, a qual sucede à Escola Piloto de Educação Artística de Braga.
 
 2 - A Escola constitui um estabelecimento especializado no ensino da música, podendo também ministrar outros cursos e disciplinas afins.
 
@@ -124,29 +167,29 @@ b) Preparatório;
 
 c) Secundário.
 
-###### Art. 2.º - 1 - A Escola assegurará, de acordo com as suas disponibilidades e através dos respectivos professores, o ensino da música e de disciplinas afins em jardins-de-infância e escolas do ensino primário e ainda em outras instituições que ministrem estes ensinos.
+Art. 2.º - 1 - A Escola assegurará, de acordo com as suas disponibilidades e através dos respectivos professores, o ensino da música e de disciplinas afins em jardins-de-infância e escolas do ensino primário e ainda em outras instituições que ministrem estes ensinos.
 
 2 - As regras a que obedecerá o disposto no número anterior constarão de portaria do Ministro da Educação e das Universidades.
 
-###### Art. 3.º - 1 - Os planos de curso da Escola serão estabelecidos por portaria do Ministro da Educação e das Universidades.
+Art. 3.º - 1 - Os planos de curso da Escola serão estabelecidos por portaria do Ministro da Educação e das Universidades.
 
 2 - A portaria referida no número anterior conterá também as regras respeitantes às matrículas dos alunos.
 
-###### Art. 4.º - 1 - Pedagogicamente, no que respeita aos ensinos referidos no n.º 3 do artigo 1.º deste decreto-lei, a Escola depende, respectivamente, das Direcções-Gerais do Ensino Básico e do Ensino Secundário.
+Art. 4.º - 1 - Pedagogicamente, no que respeita aos ensinos referidos no n.º 3 do artigo 1.º deste decreto-lei, a Escola depende, respectivamente, das Direcções-Gerais do Ensino Básico e do Ensino Secundário.
 
 2 - No que se refere ao ensino da música e cursos afins a Escola depende, em termos pedagógicos, do Gabinete Coordenador do Ensino Artístico.
 
-###### Art. 5.º A Escola goza de autonomia administrativa em termos idênticos aos estabelecidos para as escolas preparatórias e secundárias.
+Art. 5.º A Escola goza de autonomia administrativa em termos idênticos aos estabelecidos para as escolas preparatórias e secundárias.
 
-###### Art. 6.º Caberá ao Gabinete Coordenador do Ensino Artístico transmitir à Escola as medidas de carácter pedagógico estabelecidas pelas direcções-gerais de ensino, informando estas das dificuldades surgidas no seu cumprimento e aplicação à Escola e propondo as medidas julgadas convenientes.
+Art. 6.º Caberá ao Gabinete Coordenador do Ensino Artístico transmitir à Escola as medidas de carácter pedagógico estabelecidas pelas direcções-gerais de ensino, informando estas das dificuldades surgidas no seu cumprimento e aplicação à Escola e propondo as medidas julgadas convenientes.
 
-###### Art. 7.º Para efeitos do disposto nos artigos 4.º e 6.º deste decreto-lei, as direcções-gerais de ensino e o Gabinete Coordenador do Ensino Artístico estabelecerão, entre si, as regras de actuação de cada um dos respectivos serviços.
+Art. 7.º Para efeitos do disposto nos artigos 4.º e 6.º deste decreto-lei, as direcções-gerais de ensino e o Gabinete Coordenador do Ensino Artístico estabelecerão, entre si, as regras de actuação de cada um dos respectivos serviços.
 
-###### Art. 8.º - 1 - A orientação pedagógica do ensino da música e cursos afins ministrados na Escola compete ao Gabinete Coordenador do Ensino Artístico.
+Art. 8.º - 1 - A orientação pedagógica do ensino da música e cursos afins ministrados na Escola compete ao Gabinete Coordenador do Ensino Artístico.
 
 2 - Para efeitos do disposto no número anterior, poderá o Gabinete Coordenador do Ensino Artístico propor ao Ministro da Educação e das Universidades o destacamento de professores dos estabelecimentos oficiais de ensino da música, tendo em vista aquela orientação.
 
-###### Art. 9.º Os órgãos directivos da Escola são:
+Art. 9.º Os órgãos directivos da Escola são:
 
 a) Director;
 
@@ -156,7 +199,7 @@ c) Conselho pedagógico;
 
 d) Conselho administrativo.
 
-###### Art. 10.º - 1 - O director será designado por despacho do Ministro da Educação e das Universidades de entre personalidades com reconhecida competência no campo da música.
+Art. 10.º - 1 - O director será designado por despacho do Ministro da Educação e das Universidades de entre personalidades com reconhecida competência no campo da música.
 
 2 - Se o director designado for professor de outro estabelecimento oficial de ensino, exercerá as suas funções em regime de requisição.
 
@@ -164,13 +207,13 @@ d) Conselho administrativo.
 
 4 - Caso o director, referido no número anterior, não possua licenciatura ou equivalente, caber-lhe-á o vencimento de professor efectivo na 3.ª fase.
 
-###### Art. 11.º - 1 - O subdirector será um professor profissionalizado do ensino básico ou do ensino secundário, com habilitação de grau superior e de reconhecida competência pedagógica, nomeado por despacho do Ministro da Educação e das Universidades sob proposta do director da Escola.
+Art. 11.º - 1 - O subdirector será um professor profissionalizado do ensino básico ou do ensino secundário, com habilitação de grau superior e de reconhecida competência pedagógica, nomeado por despacho do Ministro da Educação e das Universidades sob proposta do director da Escola.
 
 2 - Se o subdirector designado for professor de outro estabelecimento oficial de ensino, exercerá as suas funções em regime de requisição.
 
-###### Art. 12.º Aos restantes órgãos directivos aplica-se a legislação em vigor para os ensinos preparatório e secundário, com as adaptações julgadas necessárias.
+Art. 12.º Aos restantes órgãos directivos aplica-se a legislação em vigor para os ensinos preparatório e secundário, com as adaptações julgadas necessárias.
 
-###### Art. 13.º Para além dos órgãos referidos no artigo 9.º, existirá ainda na Escola o conselho orientador, com funções coordenadoras e consultivas, e ao qual, nomeadamente, compete:
+Art. 13.º Para além dos órgãos referidos no artigo 9.º, existirá ainda na Escola o conselho orientador, com funções coordenadoras e consultivas, e ao qual, nomeadamente, compete:
 
 a) Dar parecer e propor as medidas necessárias à coordenação entre o ensino da música e os restantes ensinos ministrados na Escola;
 
@@ -178,7 +221,7 @@ b) Detectar as tendências vocacionais para o estudo da música dos alunos da Es
 
 c) Dar parecer, sempre que solicitado pelo conselho pedagógico, no âmbito das alíneas anteriores, às questões por este apresentadas.
 
-###### Art. 14.º - 1 - O conselho orientador é composto por:
+Art. 14.º - 1 - O conselho orientador é composto por:
 
 a) O director da Escola, que presidirá;
 
@@ -192,9 +235,9 @@ e) 3 professores, sendo um do ensino primário, outro do ensino preparatório e 
 
 2 - Os professores referidos na alínea e) do número anterior serão recrutados de preferência de entre os docentes que possuam o curso de perito orientador.
 
-###### Art. 15.º Os quadros do pessoal docente, técnico, administrativo e auxiliar de apoio da Escola serão estabelecidos por portaria do Ministro de Estado e das Finanças e do Plano, do Ministro da Educação e das Universidades e do membro do Governo que tiver a seu cargo a função pública.
+Art. 15.º Os quadros do pessoal docente, técnico, administrativo e auxiliar de apoio da Escola serão estabelecidos por portaria do Ministro de Estado e das Finanças e do Plano, do Ministro da Educação e das Universidades e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 16.º - 1 - O quadro de pessoal técnico da Escola, a estabelecer nos termos do artigo anterior, integrará 1 lugar de bibliotecário e arquivista musical, a preencher nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 16 de Agosto.
+Art. 16.º - 1 - O quadro de pessoal técnico da Escola, a estabelecer nos termos do artigo anterior, integrará 1 lugar de bibliotecário e arquivista musical, a preencher nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 16 de Agosto.
 
 2 - O quadro de pessoal técnico integrará:
 
@@ -208,9 +251,9 @@ c) 2 lugares de acompanhador musical.
 
 4 - As normas a que se subordinarão os concursos referidos no número anterior serão objecto de portaria conjunta do Ministro da Educação e das Universidades e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 17.º Ao provimento no quadro do pessoal docente dos ensinos preparatório e secundário aplicam-se as disposições legais em vigor.
+Art. 17.º Ao provimento no quadro do pessoal docente dos ensinos preparatório e secundário aplicam-se as disposições legais em vigor.
 
-###### Art. 18.º - 1 - Sem prejuízo do disposto no artigo 24.º do presente diploma, os lugares do quadro do ensino primário serão providos por concurso documental, regulamentado por portaria do Ministro da Educação e das Universidades, ao qual se poderão candidatar os professores que, cumulativamente, reúnam as seguintes condições:
+Art. 18.º - 1 - Sem prejuízo do disposto no artigo 24.º do presente diploma, os lugares do quadro do ensino primário serão providos por concurso documental, regulamentado por portaria do Ministro da Educação e das Universidades, ao qual se poderão candidatar os professores que, cumulativamente, reúnam as seguintes condições:
 
 Professor com prática pedagógica de qualidade reconhecida pela Direcção-Geral do Ensino Básico, ouvida a Inspecção-Geral de Ensino;
 
@@ -220,48 +263,48 @@ Professor com mais de 5 anos de serviço docente bem qualificado.
 
 2 - Terão preferência no provimento de lugares de professor do ensino primário os docentes que durante o período de experiência pedagógica a que se refere o artigo 24.º tenham exercido funções na Escola, desde que haja informação positiva sobre o seu trabalho.
 
-###### Art. 19.º - 1 - Os lugares de professor do quadro para o ensino da música e dos cursos afins são providos por concursos de provas públicas.
+Art. 19.º - 1 - Os lugares de professor do quadro para o ensino da música e dos cursos afins são providos por concursos de provas públicas.
 
 2 - A título excepcional, os lugares poderão ainda ser providos por convite do conselho pedagógico.
 
 3 - As regras a que se subordinam o concurso e o convite referidos nos números anteriores serão estabelecidas por portaria do Ministro da Educação e das Universidades.
 
-###### Art. 20.º Os vencimentos dos professores referidos no artigo anterior são os consignados na legislação em vigor para os professores dos estabelecimentos oficiais do ensino da música, ficando os mesmos sujeitos à carreira que vier a ser estabelecida para estes docentes.
+Art. 20.º Os vencimentos dos professores referidos no artigo anterior são os consignados na legislação em vigor para os professores dos estabelecimentos oficiais do ensino da música, ficando os mesmos sujeitos à carreira que vier a ser estabelecida para estes docentes.
 
-###### Art. 21.º Os professores do ensino da música e cursos afins em serviço na Escola poderão, de acordo com as respectivas habilitações, prestar serviço em mais de um grau de ensino, de acordo com regras a estabelecer por despacho do Ministro da Educação e das Universidades.
+Art. 21.º Os professores do ensino da música e cursos afins em serviço na Escola poderão, de acordo com as respectivas habilitações, prestar serviço em mais de um grau de ensino, de acordo com regras a estabelecer por despacho do Ministro da Educação e das Universidades.
 
-###### Art. 22.º - 1 - O ensino da música na Escola poderá ser ministrado por professores em situação de acumulação com outra função docente exercida em estabelecimentos oficiais ou particulares de qualquer grau de ensino.
+Art. 22.º - 1 - O ensino da música na Escola poderá ser ministrado por professores em situação de acumulação com outra função docente exercida em estabelecimentos oficiais ou particulares de qualquer grau de ensino.
 
 2 - Aos professores na situação referida no número anterior não poderá ser distribuído na escola e no regime de acumulação um horário superior a 11 horas semanais.
 
-###### Art. 23.º O regime das colocações especiais previstas no presente diploma é o estabelecido no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+Art. 23.º O regime das colocações especiais previstas no presente diploma é o estabelecido no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 24.º - 1 - Por um período de 4 anos, a contar de 1 de Outubro de 1982, a Escola funcionará em regime de experiência pedagógica.
+Art. 24.º - 1 - Por um período de 4 anos, a contar de 1 de Outubro de 1982, a Escola funcionará em regime de experiência pedagógica.
 
 2 - No período referido no número anterior proceder-se-á à avaliação da experiência de acordo com regras a estabelecer em portaria do Ministro da Educação e das Universidades, que terá por base propostas fundamentadas das direcções-gerais de ensino, do Gabinete Coordenador do Ensino Artístico e da Escola.
 
 3 - No termo da experiência serão introduzidas ao presente diploma as alterações resultantes daquela experiência, as quais constarão de portaria conjunta do Ministro de Estado e das Finanças e do Plano, do Ministro da Educação e das Universidades e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 25.º Enquanto durar o período da experiência pedagógica referido no n.º 1 do artigo anterior, a Escola será dirigida por uma comissão instaladora, presidida de preferência por uma entidade de reconhecida competência no campo da música, aplicando-se em tudo o mais o disposto na [Portaria n.º 561/77](https://diariodarepublica.pt/dr/detalhe/portaria/561-1977-286332), de 8 de Setembro.
+Art. 25.º Enquanto durar o período da experiência pedagógica referido no n.º 1 do artigo anterior, a Escola será dirigida por uma comissão instaladora, presidida de preferência por uma entidade de reconhecida competência no campo da música, aplicando-se em tudo o mais o disposto na [Portaria n.º 561/77](https://diariodarepublica.pt/dr/detalhe/portaria/561-1977-286332), de 8 de Setembro.
 
-###### Art. 26.º - 1 - No período em que decorrer a experiência pedagógica não é permitido o provimento dos lugares do quadro de pessoal docente do ensino primário.
+Art. 26.º - 1 - No período em que decorrer a experiência pedagógica não é permitido o provimento dos lugares do quadro de pessoal docente do ensino primário.
 
 2 - No período referido no número anterior, os professores do ensino primário serão colocados na Escola em regime de destacamento, sob proposta da Direcção-Geral do Ensino Básico, ouvida a comissão instaladora.
 
-###### Art. 27.º Durante o período da experiência pedagógica a Escola reger-se-á por um regulamento elaborado sob proposta da comissão instaladora a que se refere o artigo 25.º, aprovado por despacho ministerial, ouvidas as direcções-gerais de ensino, a Direcção-Geral de Pessoal e o Gabinete Coordenador do Ensino Artístico.
+Art. 27.º Durante o período da experiência pedagógica a Escola reger-se-á por um regulamento elaborado sob proposta da comissão instaladora a que se refere o artigo 25.º, aprovado por despacho ministerial, ouvidas as direcções-gerais de ensino, a Direcção-Geral de Pessoal e o Gabinete Coordenador do Ensino Artístico.
 
-###### Art. 28.º Os encargos resultantes da aplicação deste diploma serão suportados:
+Art. 28.º Os encargos resultantes da aplicação deste diploma serão suportados:
 
 1) Para o corrente ano, por dotações inscritas no orçamento das escolas secundárias;
 
 2) Para os anos económicos de 1983 e seguintes, por verbas inscritas no cap. 12 do orçamento do Ministério da Educação e das Universidades.
 
-###### Art. 29.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano, do Ministro da Educação e das Universidades e do membro do Governo que tiver a seu cargo a função pública.
+Art. 29.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano, do Ministro da Educação e das Universidades e do membro do Governo que tiver a seu cargo a função pública.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

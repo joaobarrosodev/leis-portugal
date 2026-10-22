@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/114-1972-397570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b34a58418f5bbe4fbbe26bca9190100f16e3339a6d8355055055961be84203df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df22f598b1baa57178c6867e2577e93ea60ec162798de357892c98599c4b4fc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:501992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:35Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +108,13 @@ Por motivo de urgência, tendo em vista o disposto no § 3.º do artigo 136.º d
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 626.º e 627.º das Pautas Preferenciais de Angola e Moçambique passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 626.º e 627.º das Pautas Preferenciais de Angola e Moçambique passam a ter a seguinte redacção:
 
-###### Artigo 626.º Ladrilhos de asfalto, de barro vidrado, de grés cerâmico, de cimento ou de cal hidráulica.
+Artigo 626.º Ladrilhos de asfalto, de barro vidrado, de grés cerâmico, de cimento ou de cal hidráulica.
 
-###### Artigo 627.º Ladrilhos não especificados.
+Artigo 627.º Ladrilhos não especificados.
 
-###### Art. 2.º - 1. É inserida nos índices daquelas Pautas a seguinte especificação:
+Art. 2.º - 1. É inserida nos índices daquelas Pautas a seguinte especificação:
 
 Ladrilhos não especificados ... 627.º
 
@@ -150,24 +162,24 @@ Cerâmicos e similares:
 
 Ladrilhos, mosaicos e fragmentos de mosaico de qualquer matéria, colados ou não a papel.
 
-###### Art. 3.º - 1. Na sinopse do índice remìssivo da Pauta Preferencial de Moçambique é eliminada a palavra «mosaicos» de todas as referências que constam do seu artigo 626.º
+Art. 3.º - 1. Na sinopse do índice remìssivo da Pauta Preferencial de Moçambique é eliminada a palavra «mosaicos» de todas as referências que constam do seu artigo 626.º
 
 2. Da mesma sinopse e relativamente ao artigo 627.º são eliminadas as actuais especificações, que serão substituídas pela seguinte:
 
 Ladrilhos não especificados.
 
-###### Art. 4.º - 1. É extensiva aos materiais destinados a serem incorporados em tanques para armazenamento de amoníaco a montar ou construir nos portos ultramarinos, incluindo o equipamento acessório indispensável ao seu funcionamento, a disposição constante do artigo 3.º do [Decreto n.º 43081](https://diariodarepublica.pt/dr/detalhe/decreto/43081-1960-501992), de 19 de Julho de 1960, condicionada à apresentação da prova a que se refere o artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Art. 4.º - 1. É extensiva aos materiais destinados a serem incorporados em tanques para armazenamento de amoníaco a montar ou construir nos portos ultramarinos, incluindo o equipamento acessório indispensável ao seu funcionamento, a disposição constante do artigo 3.º do [Decreto n.º 43081](https://diariodarepublica.pt/dr/detalhe/decreto/43081-1960-501992), de 19 de Julho de 1960, condicionada à apresentação da prova a que se refere o artigo 9.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
 2. O disposto no n.º 1 deste artigo aplica-se aos despachos pendentes de liquidação e pagamento.
 
-###### Art. 5.º As listas elaboradas ao abrigo do n.º 1 do artigo 1.º e do n.º 2 do artigo 2.º do [Decreto n.º 456/71](https://diariodarepublica.pt/dr/detalhe/decreto/456-1971-633730) são válidas para efeitos de promoção, nos termos do mesmo diploma, em relação às vagas que ocorrerem nos quadros aduaneiros das províncias ultramarinas até 31 de Dezembro de 1972.
+Art. 5.º As listas elaboradas ao abrigo do n.º 1 do artigo 1.º e do n.º 2 do artigo 2.º do [Decreto n.º 456/71](https://diariodarepublica.pt/dr/detalhe/decreto/456-1971-633730) são válidas para efeitos de promoção, nos termos do mesmo diploma, em relação às vagas que ocorrerem nos quadros aduaneiros das províncias ultramarinas até 31 de Dezembro de 1972.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Março de 1972.**
+Promulgado em 24 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS ROPRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS ROPRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

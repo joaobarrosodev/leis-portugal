@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26200/17901790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/620-1975-310580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58d5fd5aa4fcf124297f6eb99d788990fe848a3ef2976fe0947bc8159b685df0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86e668a7c156b14cb0bc8233d07b50a5d3066ff70f9d07c482006abb3d9d1aaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Especialidade Militar
+- Exército
+- Forças Armadas
+- Militar
+- Recrutamento Militar
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:23Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +113,18 @@ Tendo em vista o melhor funcionamento de determinados órgãos e unidades, e, ai
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os militares que pretendam frequentar especialidades do Exército, a indicar, concretamente, por portaria do Chefe do Estado-Maior do Exército, terão preferência na selecção para essas especialidades, mediante declaração individual apresentada no acto da inspecção ou da incorporação.
+Artigo 1.º Os militares que pretendam frequentar especialidades do Exército, a indicar, concretamente, por portaria do Chefe do Estado-Maior do Exército, terão preferência na selecção para essas especialidades, mediante declaração individual apresentada no acto da inspecção ou da incorporação.
 
-###### Art. 2.º Estes militares cumprirão, no mínimo, vinte e quatro meses de serviço efectivo, podendo, no entanto, esse serviço ser prorrogado por períodos consecutivos de um ano, a partir do fim daquele período, até ao máximo de três, a pedido do próprio e desde que haja conveniência para o serviço.
+Art. 2.º Estes militares cumprirão, no mínimo, vinte e quatro meses de serviço efectivo, podendo, no entanto, esse serviço ser prorrogado por períodos consecutivos de um ano, a partir do fim daquele período, até ao máximo de três, a pedido do próprio e desde que haja conveniência para o serviço.
 
-###### Art. 3.º Aos especialistas em causa será atribuído subsídio de prorrogação de tempo de serviço, bem como condições especiais de promoção, a definir por portaria do Chefe do Estado-Maior do Exército.
+Art. 3.º Aos especialistas em causa será atribuído subsídio de prorrogação de tempo de serviço, bem como condições especiais de promoção, a definir por portaria do Chefe do Estado-Maior do Exército.
 
-###### Art. 4.º O presente diploma entra em vigor a partir de 1 de Janeiro de 1976.
+Art. 4.º O presente diploma entra em vigor a partir de 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 4 de Novembro de 1975.**
+Promulgado em 4 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

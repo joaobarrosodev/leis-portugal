@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 285/1974, 1º Suplemento, Série I de 1974-12-07
   number: '285'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1534-(5) a 1534-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/28501/00050006.pdf
 entry_into_force_dates: []
@@ -47,40 +47,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7ab2e12c13c79e1827641ee1d765054d660933db659bfad11a8e94fa04506de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f15a1144b38dfc13a15af03af4c80f4e1dc19b6a98e4c90026780c49b927a5df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Comissão Coordenadora
+- Comissão Instaladora
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Hospital Central
+- Hospital Distrital
+- Integração de Serviços
+- Integração de Trabalhadores
+- Pessoa Coletiva de Utilidade Pública
+- Receita Própria
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1017369019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310594:por
+  label: "Tornada extensiva aos hospitais concelhios a aplicação das disposições constantes dos arts. 1.º a 7.º do presente\
+    \ diploma, pelo DEC LEI.618/75.1975.11.11.MAS DG.IS [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/618-1975-310594
+  date: '1975-11-11'
+- type: amended_by
+  target: pt:dre:562271:por
+  label: "Devolvida a gestão do Hospital do Conde de Ferreira à Santa Casa da Misericórdia do Porto, pelo DEC LEI.232/95.1995.09.12.MS,\
+    \ DR.IS-A [211] de 12.09.1995\0995\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1995-562271
+  date: '1995-09-12'
+- type: amended_by
+  target: pt:dre:543059:por
+  label: "Extinto, sendo objeto de fusão com a Administração Regional de Saúde do Norte, I. P. (ARSN, I. P.), o Hospital Distrital\
+    \ de Braga (também designado por Hospital de São Marcos), integrado na rede de estabelecimentos hospitalares de gestão\
+    \ pública pelo presente diploma, e determinado que a ARSN lhe suceda na totalidade das suas atribuições e competências\
+    \ e em todos os direitos e obrigações que subsistam na sua titularidade, pela PORT.40/2012.10.02.2012.MF, DR.IS [30] de\
+    \ 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-2012-543059
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:175790:por
+  label: "Extinto, sendo objeto de fusão com a Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P. (ARSLVT, I.\
+    \ P.), o Hospital Reynaldo dos Santos, integrado na rede de estabelecimentos hospitalares de gestão pública pelo presente\
+    \ diploma, e determinado que a ARSLVT lhe suceda na totalidade das atribuições e competências, direitos e obrigações que\
+    \ subsistam na sua titularidade, assumindo todas as posições jurídicas de que seja titular, pelo DEC LEI.219/2012.09.10.2012.MS,\
+    \ DR.IS [195] de 09.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2012-175790
+  date: '2012-10-09'
+- type: cites
+  target: pt:dre:411319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684867:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:679633:por
+  label: "Revogado o nº 2 do art. 5º pelo DEC LEI.14/80.26.02.1980.PCM, DR.IS [47] de 26.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1980-679633
+  date: '1980-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:35Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +153,19 @@ Considerando que a normalização do funcionamento dos hospitais impõe a adopç
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os hospitais centrais e distritais pertencentes a pessoas colectivas de utilidade pública administrativa mantêm a autonomia administrativa e financeira que lhes foi conferida pelo [Decreto-Lei n.º 162/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1974-411319), de 20 de Abril, e passam a ser administrados por comissões, nomeadas pelo Secretário de Estado da Saúde e perante ele responsáveis.
+Artigo 1.º Os hospitais centrais e distritais pertencentes a pessoas colectivas de utilidade pública administrativa mantêm a autonomia administrativa e financeira que lhes foi conferida pelo [Decreto-Lei n.º 162/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1974-411319), de 20 de Abril, e passam a ser administrados por comissões, nomeadas pelo Secretário de Estado da Saúde e perante ele responsáveis.
 
-###### Art. 2.º Os estabelecimentos referidos no artigo anterior passam a reger-se pela legislação em vigor para os serviços hospitalares oficiais e ficam a funcionar no regime estabelecido nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 2.º Os estabelecimentos referidos no artigo anterior passam a reger-se pela legislação em vigor para os serviços hospitalares oficiais e ficam a funcionar no regime estabelecido nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 3.º - 1. Ao pessoal dos estabelecimentos abrangidos pelo presente diploma passa a ser aplicável o regime jurídico do pessoal dos estabelecimentos e serviços hospitalares oficiais, observando-se, pelo que respeita ao regime de previdência, o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 35/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1973-684867), de 6 de Fevereiro.
+Art. 3.º - 1. Ao pessoal dos estabelecimentos abrangidos pelo presente diploma passa a ser aplicável o regime jurídico do pessoal dos estabelecimentos e serviços hospitalares oficiais, observando-se, pelo que respeita ao regime de previdência, o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 35/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1973-684867), de 6 de Fevereiro.
 
 2. Em relação ao pessoal religioso actualmente em serviço mantém-se o regime especial a que se referem os artigos 16.º e 33.º do Decreto-Lei n.º 48358, de 27 de Abril de 1968, enquanto não for definido o seu estatuto.
 
 3. Os acordos com ordens religiosas a que se refere o artigo 33.º do Decreto-Lei n.º 48358 deverão ser aprovados pelo Ministério dos Assuntos Sociais.
 
-###### Art. 4.º A integração em carreiras hospitalares do pessoal actualmente em serviço nos estabelecimentos a que se refere o presente diploma e que ainda não se encontra integrado terá lugar segundo normas a definir pelo Ministério dos Assuntos Sociais.
+Art. 4.º A integração em carreiras hospitalares do pessoal actualmente em serviço nos estabelecimentos a que se refere o presente diploma e que ainda não se encontra integrado terá lugar segundo normas a definir pelo Ministério dos Assuntos Sociais.
 
-###### Art. 5.º - 1. Quando proprietárias dos edifícios onde estão instalados os estabelecimentos hospitalares abrangidos pelo presente decreto-lei, as pessoas colectivas de utilidade pública administrativa referidas no artigo 1.º mantêm esse direito.
+Art. 5.º - 1. Quando proprietárias dos edifícios onde estão instalados os estabelecimentos hospitalares abrangidos pelo presente decreto-lei, as pessoas colectivas de utilidade pública administrativa referidas no artigo 1.º mantêm esse direito.
 
 2. A cedência dos edifícios referidos no número anterior é feita a título gratuito.
 
@@ -113,11 +173,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 4. No caso de os edifícios deixarem de ser utilizados para fins de saúde pública, serão entregues às pessoas colectivas de utilidade pública administrativa suas proprietárias, com todas as benfeitorias que lhes tenham sido introduzidas.
 
-###### Art. 6.º - 1. As receitas próprias das pessoas colectivas de utilidade pública administrativa utilizadas até à data da publicação do presente decreto-lei na manutenção dos estabelecimentos hospitalares a que se reporta o artigo 1.º poderão passar a financiar outras actividades que se integrem na política social aprovada pelo Governo e que se dirijam em especial às populações de menores recursos.
+Art. 6.º - 1. As receitas próprias das pessoas colectivas de utilidade pública administrativa utilizadas até à data da publicação do presente decreto-lei na manutenção dos estabelecimentos hospitalares a que se reporta o artigo 1.º poderão passar a financiar outras actividades que se integrem na política social aprovada pelo Governo e que se dirijam em especial às populações de menores recursos.
 
 2. Os bens afectos aos hospitais, recebidos através de legados pios, que não constituam parte integrante daqueles, nem sejam indispensáveis ao seu adequado funcionamento, continuam a ser administrados pelas pessoas colectivas de utilidade pública administrativa suas proprietárias, a quem caberá a obrigação de assegurar o cumprimento dos encargos que os oneram.
 
-###### Art. 7.º - 1. Os estabelecimentos hospitalares abrangidos pelo presente decreto-lei terão como receitas:
+Art. 7.º - 1. Os estabelecimentos hospitalares abrangidos pelo presente decreto-lei terão como receitas:
 
 a) O rendimento dos serviços de saúde;
 
@@ -129,7 +189,7 @@ d) Quaisquer receitas que expressamente lhes forem consignadas.
 
 2. Os encargos da Secretaria de Estado da Saúde com a manutenção dos hospitais centrais e distritais, de acordo com o número anterior, serão suportados pelas dotações normalmente consignadas para o efeito no orçamento da Direcção-Geral dos Hospitais.
 
-###### Art. 8.º De modo a assegurar a adequada execução das disposições deste diploma é constituída uma Comissão Coordenadora dos Hospitais Distritais, que funcionará durante um período de cento e oitenta dias, prorrogáveis por igual período por despacho do Ministro dos Assuntos Sociais, com a seguinte composição:
+Art. 8.º De modo a assegurar a adequada execução das disposições deste diploma é constituída uma Comissão Coordenadora dos Hospitais Distritais, que funcionará durante um período de cento e oitenta dias, prorrogáveis por igual período por despacho do Ministro dos Assuntos Sociais, com a seguinte composição:
 
 a) Um presidente designado pelo Secretário de Estado da Saúde;
 
@@ -143,12 +203,12 @@ e) Dois representantes das Misericórdias, eleitos entre as Misericórdias que p
 
 f) Dois representantes dos utentes, a indicar pelas autarquias locais dos distritos em que os referidos hospitais se encontram localizados.
 
-###### Art. 9.º O regime previsto neste diploma é aplicável a cada hospital a partir da data da posse da respectiva comissão instaladora.
+Art. 9.º O regime previsto neste diploma é aplicável a cada hospital a partir da data da posse da respectiva comissão instaladora.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 5 de Dezembro de 1974.**
+Promulgado em 5 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

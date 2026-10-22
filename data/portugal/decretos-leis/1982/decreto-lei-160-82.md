@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10500/11741174.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1982-392778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57d12bec453e2e9af1d01e1a653f301fed19ac5c4b6c08fc7ddb51f36c4dac24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c4337c031195370fb0a2682c0633f4605e6ffaf2e99722dea766c04c98a4c85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Funcionário Público
+- Instituto Geográfico e Cadastral
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:29Z'
   warnings: []
   errors: []
 ---
@@ -102,12 +127,12 @@ Considerando ainda que tal situação se afigura manifestamente injusta e que s�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Aos funcionários integrados na carreira de topógrafo pela [Portaria n.º 713/80](https://diariodarepublica.pt/dr/detalhe/portaria/713-1980-461839), de 24 de Setembro, que à data da entrada em vigor do [Decreto-Lei n.º 513/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1980-462273), de 28 de Outubro, se encontrassem no exercício efectivo de funções de topógrafos-geómetras e possuíssem como habilitação o curso complementar dos liceus e aproveitamento em disciplina de topografia professada em curso superior é permitida a mudança para a carreira de topógrafo-geómetra em categoria remunerada pela mesma letra de vencimento, ou por letra de vencimento imediatamente superior quando não se verifique coincidência de remuneração.
+Artigo único. Aos funcionários integrados na carreira de topógrafo pela [Portaria n.º 713/80](https://diariodarepublica.pt/dr/detalhe/portaria/713-1980-461839), de 24 de Setembro, que à data da entrada em vigor do [Decreto-Lei n.º 513/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1980-462273), de 28 de Outubro, se encontrassem no exercício efectivo de funções de topógrafos-geómetras e possuíssem como habilitação o curso complementar dos liceus e aproveitamento em disciplina de topografia professada em curso superior é permitida a mudança para a carreira de topógrafo-geómetra em categoria remunerada pela mesma letra de vencimento, ou por letra de vencimento imediatamente superior quando não se verifique coincidência de remuneração.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 26 de Abril de 1982.**
+Promulgado em 26 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

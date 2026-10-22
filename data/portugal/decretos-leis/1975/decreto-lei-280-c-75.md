@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 129/1975, 3º Suplemento, Série I de 1975-06-05
   number: '129'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 782-(5) a 782-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/12903/00050006.pdf
 entry_into_force_dates: []
@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-c-1975-559037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84827958a14cd9abac9e7648db629be73639ea5ff50ff0d3130614d586596087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f82b1e202c46d06778c12d0227376ba1a198bcb37be938a5764d480820ebaefa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Nacionalização
+- Stal-sociedade Torrejana de Automóveis
+- Transferência de Pessoal
+- Transporte Público
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:14Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +103,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São nacionalizadas as seguintes empresas:
+Artigo 1.º - 1. São nacionalizadas as seguintes empresas:
 
 a) Do grupo João Belo:
 
@@ -224,24 +229,24 @@ j) Arboricultora, Lda.
 
 3. A nacionalização produz efeitos a partir de 1 de Junho.
 
-###### Art. 2.º O Estado pagará às entidades privadas titulares de acções ou quotas representativas do capital social das empresas referidas no artigo 1.º, contra a entrega dos respectivos títulos, uma indemnização a definir, quanto ao montante, prazo e forma de pagamento, em diploma a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+Art. 2.º O Estado pagará às entidades privadas titulares de acções ou quotas representativas do capital social das empresas referidas no artigo 1.º, contra a entrega dos respectivos títulos, uma indemnização a definir, quanto ao montante, prazo e forma de pagamento, em diploma a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
 
-###### Art. 3.º - 1. As empresas a que se refere o presente diploma serão reestruturadas e regidas por um estatuto a definir por diploma legal no prazo de cento e oitenta dias a contar da data referida no n.º 2 do artigo 1.º
+Art. 3.º - 1. As empresas a que se refere o presente diploma serão reestruturadas e regidas por um estatuto a definir por diploma legal no prazo de cento e oitenta dias a contar da data referida no n.º 2 do artigo 1.º
 
 2. Até à promulgação do estatuto referido no número anterior, as empresas serão geridas por comissões administrativas nomeadas por resolução do Conselho de Ministros sob proposta do Ministro dos Transportes e Comunicações.
 
 3. Consideram-se designados para as comissões administrativas, até deliberação em contrário, os membros das comissões administrativas ou administradores por parte do Estado, nomeados pelo Governo para algumas das empresas referidas no n.º 1 do artigo 1.º
 
-###### Art. 4.º A universalidade dos bens, direitos e obrigações que integram o activo e o passivo das empresas a que se refere este diploma é transferida para o Estado.
+Art. 4.º A universalidade dos bens, direitos e obrigações que integram o activo e o passivo das empresas a que se refere este diploma é transferida para o Estado.
 
-###### Art. 5.º As empresas nacionalizadas assumirão em todos os actos praticados e contratos celebrados pelas empresas cujo património adquiram por força do presente diploma a posição jurídica e contratual que estas detiverem à data do início da eficácia da nacionalização.
+Art. 5.º As empresas nacionalizadas assumirão em todos os actos praticados e contratos celebrados pelas empresas cujo património adquiram por força do presente diploma a posição jurídica e contratual que estas detiverem à data do início da eficácia da nacionalização.
 
-###### Art. 6.º O pessoal que estiver ao serviço das empresas referidas no artigo 1.º transitará automaticamente para as empresas nacionalizadas.
+Art. 6.º O pessoal que estiver ao serviço das empresas referidas no artigo 1.º transitará automaticamente para as empresas nacionalizadas.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 5 de Junho de 1975.**
+Promulgado em 5 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

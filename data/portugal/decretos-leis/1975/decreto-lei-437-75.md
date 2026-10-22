@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18800/11781185.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1975-314626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ecd423a3dd1449192406df3d37ffadf68da3416c2078536fd4c0915ee61ba4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38c176d72a1111cc3d10874e4568f92b26298270ed9660d3d2a938608ecbd51f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extradição
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:496490:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324341:por
+  label: "Alterado o nº 1 do art. 9º pelo DEC LEI.130/85.26.04.1985.MJ, DR.IS [96] de 26.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1985-324341
+  date: '1985-04-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "E DECLARADA INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL DA NORMA CONSTANTE, DO ART 33 NUM 2 PELO AC DO TCS\
+    \ 54/87 DE 17-MAR DR.IS [63].19950201 - AC 637/94 DE 12-DEZ 1994 DO TCS (PROC 363/94) DR.IS [27] DE 01/FEV/1995.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-03-17'
+- type: amended_by
+  target: pt:dre:147213:por
+  label: "Declarada a inconstitucionalidade (parcial), com força obrigatória geral, da norma constante do art 4º., nº. 1,\
+    \ al a), (em vigor no território de Macau), pelo AC.1146/96.1996.11.12.TCS (Procº. nº. 338/94) DR.IS-A [294], de 20/Dez/1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/1146-1996-147213
+  date: '1996-11-12'
+- type: repealed_by
+  target: pt:dre:496490:por
+  label: "Revogado, a partir de 01.05.1991, pelo DEC LEI.43/91.22.01.1991.MJ, DR.IS-A [18] de 22.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1991-496490
+  date: '1991-01-22'
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:46Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +277,7 @@ O extraditado que, depois de entregue ao Estado requerente, se evadir antes de e
 
 ### CAPÍTULO II — Processos da extradição
 
-# PARTE I — Extradição passiva
+## PARTE I — Extradição passiva
 
 ###### ARTIGO 19.º — (Via a adoptar)
 
@@ -440,7 +465,7 @@ Sem prejuízo do disposto no artigo 14.º, a prisão subsiste no caso de recurso
 
 3. Pode deixar de ser atendido novo pedido de extradição da pessoa que tenha deixado de ser removida no prazo referido neste preceito.
 
-# PARTE II — Detenção antecipada
+## PARTE II — Detenção antecipada
 
 ###### ARTIGO 39.º — (Pedido de detenção provisória)
 
@@ -480,7 +505,7 @@ Quando confirmada, a detenção é imediatamente comunicada ao Ministro da Justi
 
 A concessão da liberdade provisória mediante caução, quando admitida nos casos previstos nos artigos 39.º e 42.º, é da competência do tribunal da relação junto de que funciona o procurador da República a cuja ordem o detido se encontra.
 
-# PARTE III — Recaptura do extraditado
+## PARTE III — Recaptura do extraditado
 
 ###### ARTIGO 44.º — (Pedido de recaptura)
 
@@ -506,7 +531,7 @@ A concessão da liberdade provisória mediante caução, quando admitida nos cas
 
 2. Se a oposição à reentrega for julgada procedente e se verificar o caso da alínea a) do n.º 1 do artigo 4.º ou se tratar de um nacional português, proceder-se-á nos termos do n.º 2 do mesmo artigo.
 
-# PARTE IV — Trânsito
+## PARTE IV — Trânsito
 
 ###### ARTIGO 47.º — (Via e conteúdo do pedido)
 
@@ -520,7 +545,7 @@ A concessão da liberdade provisória mediante caução, quando admitida nos cas
 
 2. As condições em que o trânsito se processará e a autoridade que nele superintenderá devem constar da decisão que o autorizar.
 
-# PARTE V — Extradição activa
+## PARTE V — Extradição activa
 
 ###### ARTIGO 49.º — (Competência e processo)
 
@@ -530,7 +555,7 @@ A concessão da liberdade provisória mediante caução, quando admitida nos cas
 
 3. Compete à Procuradoria-Geral da República organizar o processo, com base em requerimento do representante do Ministério Público junto do tribunal respectivo.
 
-# PARTE VI — Disposição real
+## PARTE VI — Disposição real
 
 ###### ARTIGO 50.º — (Lei subsidiária. Gratuitidade. Férias)
 
@@ -540,8 +565,8 @@ A concessão da liberdade provisória mediante caução, quando admitida nos cas
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 4 de Agosto de 1975.**
+Promulgado em 4 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

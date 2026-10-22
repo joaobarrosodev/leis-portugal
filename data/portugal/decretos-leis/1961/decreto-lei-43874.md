@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/08/19600/10571062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0c61f614f0203235b9a530d964385e89ea3cc814a528bed0f5593c084dc1f16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28a30219e99cc987e7dfa214a7670f0f3f174c588bf095ac2c5d13e75d1ee8d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algodão
+- Angola.Colónia Portuguesa
+- Café
+- Cereal
+- Comissão Interministerial do Café
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Economia
+- Direcção Geral do Comércio
+- Extinção de Serviços
+- Instituto do Algodão
+- Instituto do Café
+- Instituto dos Cereais
+- Integração de Serviços
+- Junta de Exportação do Algodão
+- Junta de Exportação do Algodão Colonial
+- Junta de Exportação do Café
+- Junta de Exportação dos Cereais
+- Madeira.ilha Adjacente
+- Ministério do Ultramar
+- Moçambique
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:464045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298026:por
+  label: "Extintas as taxas referidas no § 1º do art. 24º pelo DEC LEI.163/78.06.07.1978.MFP, DR.IS [153] de 06.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1978-298026
+  date: '1978-07-06'
+- type: amended_by
+  target: pt:dre:464045:por
+  label: Extintos a Comissão Interministerial do Café e o Fundo de Fomento e de Propaganda do Café e revogado o presente diploma
+    pelo DEC LEI.367/80.10.09.1980.MNE, DR.IS [209] de 10.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1980-464045
+  date: '1980-09-10'
+- type: cites
+  target: pt:dre:194025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431814:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:11Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +202,7 @@ Assim, se nos reportarmos ao período de 1957 a 1959, poderemos verificar que o 
 
 Aliás, esta evolução apreende-se com maior clareza do seguinte mapa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/19600/10571062.pdf))](https://files.diariodarepublica.pt/1s/1961/08/19600/10571062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/19600/10571062.pdf)
 
 Este movimento das receitas tem uma correspondência nas despesas que não será possível patentear muito concretamente num simples mapa global. Mas o exame de todos os elementos leva às seguintes conclusões: que a actividade da Junta de Exportação do Algodão se realiza em Angola e Moçambique ou por causa da produção nestas duas províncias; que a actividade da Junta de Exportação dos Cereais se tem restringido essencialmente à província de Angola; que a actuação da junta de Exportação do Café se tem realizado principalmente em Angola ou por causa da produção desta província.
 
@@ -201,7 +270,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintos em 31 de Dezembro de 1961 os seguintes organismos de coordenação económica:
+Artigo 1.º São extintos em 31 de Dezembro de 1961 os seguintes organismos de coordenação económica:
 
 Junta de Exportação do Algodão, criada pelo [Decreto n.º 28697](https://diariodarepublica.pt/dr/detalhe/decreto/28697-1938-367178), de 25 de Maio de 1938;
 
@@ -209,7 +278,7 @@ Junta de Exportação dos Cereais, criada pelo [Decreto-Lei n.º 28899](https://
 
 Junta de Exportação do Café, criada pelo [Decreto-Lei n.º 30714](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30714-1940-194025), de 29 de Agosto de 1940.
 
-###### Art. 2.º De harmonia com diplomas que nesta mesma data se publicam são criados os seguintes organismos de coordenação económica, que sucedem às respectivas Juntas:
+Art. 2.º De harmonia com diplomas que nesta mesma data se publicam são criados os seguintes organismos de coordenação económica, que sucedem às respectivas Juntas:
 
 Instituto do Algodão de Angola, com sede em Luanda;
 
@@ -219,19 +288,19 @@ Instituto dos Cereais de Angola, com sede em Luanda;
 
 Instituto do Café de Angola, com sede em Luanda.
 
-###### Art. 3.º Os actuais serviços da Junta de Exportação do Algodão, da Junta de Exportação dos Cereais e da Junta de Exportação do Café existentes na província de Angola são integrados respectivamente no Instituto do Algodão de Angola, no Instituto dos Cereais de Angola e no Instituto do Café de Angola.
+Art. 3.º Os actuais serviços da Junta de Exportação do Algodão, da Junta de Exportação dos Cereais e da Junta de Exportação do Café existentes na província de Angola são integrados respectivamente no Instituto do Algodão de Angola, no Instituto dos Cereais de Angola e no Instituto do Café de Angola.
 
-###### Art. 4.º Os actuais serviços da Junta de Exportação do Algodão existentes na província de Moçambique, incluindo o Centro de Investigação Científica Algodoeira, são integrados no Instituto do Algodão de Moçambique.
+Art. 4.º Os actuais serviços da Junta de Exportação do Algodão existentes na província de Moçambique, incluindo o Centro de Investigação Científica Algodoeira, são integrados no Instituto do Algodão de Moçambique.
 
-###### Art. 5.º Os serviços dos organismos de coordenação económica agora extintos existentes nas províncias ultramarinas onde não seja criado um instituto correspondente poderão ser integrados na administração pública provincial, ou extintos, nos termos que forem definidos por diploma legislativo dos respectivos governos provinciais.
+Art. 5.º Os serviços dos organismos de coordenação económica agora extintos existentes nas províncias ultramarinas onde não seja criado um instituto correspondente poderão ser integrados na administração pública provincial, ou extintos, nos termos que forem definidos por diploma legislativo dos respectivos governos provinciais.
 
 § 1.º Ficam os órgãos legislativos da província de Moçambique autorizados a criar um Instituto dos Cereais, ou a proceder à remodelação do Grémio dos Produtores de Cereais do distrito da Beira, nos moldes dos institutos, atribuindo-lhe a superintendência das necessidades provinciais no sector dos cereais e integrando no organismo criado os serviços da Junta de Exportação dos Cereais ali existentes. A importação dos cereais necessários ao consumo da província será feita, mediante concurso público, pelo organismo que vier a ser criado.
 
 § 2.º Constitui receita do organismo referido no parágrafo anterior a diferença de preço entre o cereal local e o cereal exótico, deduzido das despesas da sua importação, conservação e distribuição, e da taxa de laboração da indústria de moagem, que será a mesma quer se trate de cereal local ou importado.
 
-###### Art. 6.º As delegações da Junta de Exportação dos Cereais e da Junta de Exportação do Café existentes na ilha da Madeira são extintas.
+Art. 6.º As delegações da Junta de Exportação dos Cereais e da Junta de Exportação do Café existentes na ilha da Madeira são extintas.
 
-###### Art. 7.º O pessoal que presta serviço na metrópole, nos organismos de coordenação económica agora extintos, e que não deva regressar aos seus quadros de origem transita para os organismos de coordenação económica das províncias ultramarinas, na categoria e com os vencimentos que lhe corresponderem por aplicação analógica do Estatuto do Funcionalismo Ultramarino, nos seguintes termos:
+Art. 7.º O pessoal que presta serviço na metrópole, nos organismos de coordenação económica agora extintos, e que não deva regressar aos seus quadros de origem transita para os organismos de coordenação económica das províncias ultramarinas, na categoria e com os vencimentos que lhe corresponderem por aplicação analógica do Estatuto do Funcionalismo Ultramarino, nos seguintes termos:
 
 a) O Pessoal da Junta de Exportação dos Cereais transita para o Instituto dos Cereais de Angola;
 
@@ -241,15 +310,15 @@ c) O pessoal da Junta de Exportação do Algodão transita para o Instituto do A
 
 § único. O Ministro do Ultramar fixará por despacho o prazo em que estes servidores devem requerer a sua colocação nos Institutos referidos, determinando, igualmente, os critérios que presidirão a uma distribuição equilibrada dos servidores da Junta de Exportação do Algodão pelo Instituto do Algodão de Angola e pelo Instituto do Algodão de Moçambique.
 
-###### Art. 8.º O novo enquadramento do pessoal existente nos organismos agora criados, quer se trate dos servidores provenientes da metrópole, quer dos servidores transferidos das delegações do ultramar, nos termos dos artigos 3.º e 4.º deste diploma, far-se-á tendo em conta:
+Art. 8.º O novo enquadramento do pessoal existente nos organismos agora criados, quer se trate dos servidores provenientes da metrópole, quer dos servidores transferidos das delegações do ultramar, nos termos dos artigos 3.º e 4.º deste diploma, far-se-á tendo em conta:
 
 1.º A garantia das categorias que possuem nos quadros actuais das Juntas de Exportação;
 
 2.º A regularização formal dos respectivos provimentos através de contratos ou de alvarás conforme se trate de pessoal contratado ou de pessoal assalariado.
 
-###### Art. 9.º Os servidores dos organismos de coordenação económica com sede no ultramar são considerados funcionários públicos ultramarinos quanto a todos os direitos e obrigações.
+Art. 9.º Os servidores dos organismos de coordenação económica com sede no ultramar são considerados funcionários públicos ultramarinos quanto a todos os direitos e obrigações.
 
-###### Art. 10.º Ter-se-ão em conta as seguintes regras quanto ao destino do activo e do passivo dos organismos de coordenação económica extintos por este diploma:
+Art. 10.º Ter-se-ão em conta as seguintes regras quanto ao destino do activo e do passivo dos organismos de coordenação económica extintos por este diploma:
 
 1.º Nas províncias onde os serviços transitem para as respectivas administrações provinciais ou para organismos a criar pelos órgãos legislativos locais verificar-se-á o mesmo com os bens e os encargos existentes;
 
@@ -265,31 +334,31 @@ c) O pessoal da Junta de Exportação do Algodão transita para o Instituto do A
 
 § 2.º Compete à Delegação Comercial do Ultramar a representação legal dos organismos de coordenação económica existentes no ultramar, ficando à sua guarda e administração o respectivo património existente na metrópole, de acordo com o disposto no corpo deste artigo. A Delegação Comercial do Ultramar deverá denunciar os contratos de arrendamento dos imóveis que não interessem à realização dos fins dos Institutos que sucedem às Juntas, ocupando apenas aqueles para os quais obtiver expressa autorização do Ministério do Ultramar.
 
-###### Art. 11.º A coordenação e a representação dos organismos de coordenação económica com sede no ultramar realizar-se-ão:
+Art. 11.º A coordenação e a representação dos organismos de coordenação económica com sede no ultramar realizar-se-ão:
 
 a) No plano superior do Governo Central, por intermédio dos serviços da Direcção-Geral de Economia do Ultramar, conforme for determinado pelo Ministro do Ultramar;
 
 b) No plano provincial, através do conselho económico, na directa dependência do governador-geral.
 
-###### Art. 12.º Compete especialmente aos inspectores superiores ele economia do Ministério do Ultramar, na dependência do director-geral, o estudo e a fiscalização tendentes à valorização dos organismos de coordenação económica com sede no ultramar. Compete ainda à Direcção-Geral de Economia, do Ministério do Ultramar, assegurar, com a colaboração dos Institutos, a representação dos interesses dos vários sectores nos organismos internacionais, designadamente no Conselho Internacional do Trigo, no Acordo Internacional de Whasington, na Organização Interafricana do Café e no Comité Consultivo Internacional do Algodão.
+Art. 12.º Compete especialmente aos inspectores superiores ele economia do Ministério do Ultramar, na dependência do director-geral, o estudo e a fiscalização tendentes à valorização dos organismos de coordenação económica com sede no ultramar. Compete ainda à Direcção-Geral de Economia, do Ministério do Ultramar, assegurar, com a colaboração dos Institutos, a representação dos interesses dos vários sectores nos organismos internacionais, designadamente no Conselho Internacional do Trigo, no Acordo Internacional de Whasington, na Organização Interafricana do Café e no Comité Consultivo Internacional do Algodão.
 
-###### Art. 13.º As funções de comercialização e abastecimento desempenhadas pelas Juntas agora extintas, relativamente à metrópole, passarão a estar a cargo dos serviços que forem designados por portaria do Secretário de Estado do Comércio, o qual, em tudo o que não estiver previsto neste decreto, definirá as regras a observar pelas actividades interessadas.
+Art. 13.º As funções de comercialização e abastecimento desempenhadas pelas Juntas agora extintas, relativamente à metrópole, passarão a estar a cargo dos serviços que forem designados por portaria do Secretário de Estado do Comércio, o qual, em tudo o que não estiver previsto neste decreto, definirá as regras a observar pelas actividades interessadas.
 
 § único. Haverá representantes do Ministério do Ultramar e dos organismos de coordenação económica com sede no ultramar, nos organismos de coordenação económica da metrópole ou outros serviços ocupados com a comercialização e o abastecimento público da metrópole, quanto aos mesmos produtos, pessoal que será designado pelo Ministro do Ultramar de entre os funcionários que constituem o serviço a que se refere a alínea a) do artigo 11.º deste diploma.
 
-###### Art. 14.º As políticas relacionadas com a propaganda externa, expansão comercial e acordos internacionais relativamente ao café, ao algodão e aos cereais do ultramar serão fixadas por acordo entre os Ministérios interessados.
+Art. 14.º As políticas relacionadas com a propaganda externa, expansão comercial e acordos internacionais relativamente ao café, ao algodão e aos cereais do ultramar serão fixadas por acordo entre os Ministérios interessados.
 
-###### Art. 15.º As despesas de instalação dos Institutos serão suportadas pelos saldos dos exercícios findos das Juntas a que sucedem.
+Art. 15.º As despesas de instalação dos Institutos serão suportadas pelos saldos dos exercícios findos das Juntas a que sucedem.
 
 § único. Os trabalhos de instalação efectuar-se-ão de forma que no primeiro dia, útil de Janeiro de 1962 se encontrem instalados e em funcionamento os organismos de coordenação económica a que se refere o artigo 2.º deste diploma.
 
-###### Art. 16.º O Ministro do Ultramar resolverá por portaria todas as dúvidas suscitadas com a extinção das Juntas do Algodão, dos Cereais e do Café e com a transferência dos seus bens, utilidades ou serviços para os Institutos agora criados.
+Art. 16.º O Ministro do Ultramar resolverá por portaria todas as dúvidas suscitadas com a extinção das Juntas do Algodão, dos Cereais e do Café e com a transferência dos seus bens, utilidades ou serviços para os Institutos agora criados.
 
-###### Art. 17.º É extinto o regime instituído pelo [Decreto-Lei n.º 27552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27552-1937-418205), de 5 de Março de 1937, embora continuem em vigor no ultramar os diplomas legais cuja vigência tornou extensiva. São revogados os artigos 33.º e 61.º a 65.º do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955.
+Art. 17.º É extinto o regime instituído pelo [Decreto-Lei n.º 27552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27552-1937-418205), de 5 de Março de 1937, embora continuem em vigor no ultramar os diplomas legais cuja vigência tornou extensiva. São revogados os artigos 33.º e 61.º a 65.º do [Decreto-Lei n.º 40405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40405-1955-247422), de 24 de Novembro de 1955.
 
-###### Art. 18.º Os Institutos a que se refere este diploma podem corresponder-se directamente com todos os organismos oficiais e deverão permutar com os organismos de coordenação económica da metrópole, com a devida antecedência, todos os elementos de informação que interessem à defesa dos interesses que respectivamente representam, designadamente no que respeita às estimativas de produção e preços. No período transitório que decorrerá até à extinção das Juntas ficam estas obrigadas a fornecer à Secretaria de Estado do Comércio todos os elementos que lhe forem solicitados para execução do novo ordenamento dos serviços.
+Art. 18.º Os Institutos a que se refere este diploma podem corresponder-se directamente com todos os organismos oficiais e deverão permutar com os organismos de coordenação económica da metrópole, com a devida antecedência, todos os elementos de informação que interessem à defesa dos interesses que respectivamente representam, designadamente no que respeita às estimativas de produção e preços. No período transitório que decorrerá até à extinção das Juntas ficam estas obrigadas a fornecer à Secretaria de Estado do Comércio todos os elementos que lhe forem solicitados para execução do novo ordenamento dos serviços.
 
-###### Art. 19.º É criada, junto da Direcção-Geral de Economia, do Ministério do Ultramar, a Comissão Interministerial do Café, que será presidida pelo respectivo director-geral e terá os seguintes vogais:
+Art. 19.º É criada, junto da Direcção-Geral de Economia, do Ministério do Ultramar, a Comissão Interministerial do Café, que será presidida pelo respectivo director-geral e terá os seguintes vogais:
 
 1) Um representante do Ministério dos Negócios Estrangeiros;
 
@@ -297,7 +366,7 @@ b) No plano provincial, através do conselho económico, na directa dependência
 
 3) Um representante da Junta de Investigações do Ultramar.
 
-###### Art. 20.º Compete à Comissão Interministerial do Café estudar os problemas suscitados pela propaganda interna e externa, expansão comercial e acordos comerciais relacionados com o café, fiscalizar a execução das políticas fixadas e, especificadamente, o seguinte:
+Art. 20.º Compete à Comissão Interministerial do Café estudar os problemas suscitados pela propaganda interna e externa, expansão comercial e acordos comerciais relacionados com o café, fiscalizar a execução das políticas fixadas e, especificadamente, o seguinte:
 
 1) Coordenar os serviços interessados na economia do café;
 
@@ -311,7 +380,7 @@ b) No plano provincial, através do conselho económico, na directa dependência
 
 6) Dar parecer sobre todos os assuntos que o Ministério do Ultramar e a Secretaria de Estado do Comércio mandem submeter à sua apreciação.
 
-###### Art. 21.º O expediente da Comissão Interministerial do Café será assegurado pela Direcção-Geral de Economia, do Ministério do Ultramar, competindo especialmente aos organismos abaixo indicados as seguintes obrigações:
+Art. 21.º O expediente da Comissão Interministerial do Café será assegurado pela Direcção-Geral de Economia, do Ministério do Ultramar, competindo especialmente aos organismos abaixo indicados as seguintes obrigações:
 
 1) Compete à Direcção-Geral de Economia, do Ministério do Ultramar, com a participação dos institutos que vierem a ser criados e em íntima colaboração com o Ministério dos Negócios Estrangeiros, assegurar o cumprimento das nossas obrigações internacionais no domínio do café, nos termos do artigo 12.º deste decreto;
 
@@ -321,21 +390,21 @@ b) No plano provincial, através do conselho económico, na directa dependência
 
 4) Compete à Junta de Investigações do Ultramar superintender nos estudos de ecologia, taxonomia, anatomia, genética e citologia do cafeeiro, bem como nos estudos resultantes de compromissos internacionais, desde que uns e outros não possam ser realizados directamente pelos Institutos, aos quais prestará sempre a colaboração necessária.
 
-###### Art. 22.º As propostas da Comissão Interministerial do Café, que serão submetidas a despacho pelo seu presidente, consideram-se executivas desde que sejam homologadas pelo Ministro do Ultramar e Secretário de Estado do Comércio.
+Art. 22.º As propostas da Comissão Interministerial do Café, que serão submetidas a despacho pelo seu presidente, consideram-se executivas desde que sejam homologadas pelo Ministro do Ultramar e Secretário de Estado do Comércio.
 
-###### Art. 23.º Passam a depender respectivamente dos serviços de agricultura das províncias de Cabo Verde e S. Tomé e Príncipe as actuais delegações da Junta de Exportação do Café, transferindo-se para as províncias os direitos e obrigações previstos ou emergentes da execução do [Decreto-Lei n.º 42390](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42390-1959-431814), de 15 de Julho de 1959. Compete aos governadores regular, por portaria, o funcionamento dos serviços.
+Art. 23.º Passam a depender respectivamente dos serviços de agricultura das províncias de Cabo Verde e S. Tomé e Príncipe as actuais delegações da Junta de Exportação do Café, transferindo-se para as províncias os direitos e obrigações previstos ou emergentes da execução do [Decreto-Lei n.º 42390](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42390-1959-431814), de 15 de Julho de 1959. Compete aos governadores regular, por portaria, o funcionamento dos serviços.
 
 § único. O Instituto do Café de Angola prestará aos governos das respectivas províncias o auxílio técnico que lhe for solicitado ou que for determinado pelo Ministro do Ultramar.
 
-###### Art. 24.º Passam a constituir receitas dos Institutos previstos no presente diploma e do Fundo de Fomento e Propaganda do Café as taxas, sobretaxas e comissões actualmente cobradas pelas Juntas extintas e pelo Fundo de Propaganda do Café.
+Art. 24.º Passam a constituir receitas dos Institutos previstos no presente diploma e do Fundo de Fomento e Propaganda do Café as taxas, sobretaxas e comissões actualmente cobradas pelas Juntas extintas e pelo Fundo de Propaganda do Café.
 
 § 1.º Passa a ser cobrada pelas alfândegas da metrópole a taxa de $20 por quilograma de café de qualquer qualidade ou origem que nela for importado, fixada por despacho de 29 de Novembro de 1941.
 
 § 2.º O Ministro do Ultramar definirá, por portaria, a forma de cobrança e destino das receitas previstas no corpo deste artigo e seu § 1.º
 
-###### Art. 25.º Passam a constituir receita das províncias de Cabo Verde e de S. Tomé e Príncipe, respectivamente, o produto da cobrança das taxas referidas no n.º 1.º do artigo 18.º do [Decreto-Lei n.º 30714](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30714-1940-194025), de 29 de Agosto de 1940, assim como os das taxas de que tratam os artigos 42.º e 72.º do [Decreto n.º 31221](https://diariodarepublica.pt/dr/detalhe/decreto/31221-1941-416978), de 16 de Abril de 1941, cujas importâncias serão consignadas às despesas com o fomento da produção do café na respectiva província, além dos subsídios que para tal fim forem também consignados pelo Ministro do Ultramar.
+Art. 25.º Passam a constituir receita das províncias de Cabo Verde e de S. Tomé e Príncipe, respectivamente, o produto da cobrança das taxas referidas no n.º 1.º do artigo 18.º do [Decreto-Lei n.º 30714](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30714-1940-194025), de 29 de Agosto de 1940, assim como os das taxas de que tratam os artigos 42.º e 72.º do [Decreto n.º 31221](https://diariodarepublica.pt/dr/detalhe/decreto/31221-1941-416978), de 16 de Abril de 1941, cujas importâncias serão consignadas às despesas com o fomento da produção do café na respectiva província, além dos subsídios que para tal fim forem também consignados pelo Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

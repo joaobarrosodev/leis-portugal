@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 133/1978, 2º Suplemento, Série I de 1978-06-12
   number: '133'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1054-(48) a 1054-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13302/00480054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1978-426141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22f7a34b82a248664cb11ea2103d63e050ac2e89a95a226b4652fe0551fe9ff4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 322407cd4b6a627352fb6ec39fd75c433a55b6c6dfcf9a0aed5ed83e417be943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Avaliação do Património
+- Cobrança de Impostos
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Predial
+- Definição de Competências
+- Habitação
+- Imposto sobre a Indústria Agrícola
+- Instituto Geográfico e Cadastral
+- Isenção Fiscal
+- Junta Cadastral Concelhia
+- Prédio Rústico
+- Prédio Urbano
+- Presidente
+- Remuneração
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574570:por
+  label: "Dada nova redacção ao art. 195º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola aprovado\
+    \ pelo Dec Lei 45104 de 01-Jul de 1963, com as alterações constantes do presente diploma, pelo DEC LEI.138/81.30.05.1981.MFP,\
+    \ DR.IS [124] de 30.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1981-574570
+  date: '1981-05-30'
+- type: amended_by
+  target: pt:dre:392811:por
+  label: "Dada nova redacção ao art. 89º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola aprovado\
+    \ pelo Dec Lei 45104 de 01-Jul de 1963, com a redacção constante do presente diploma, pelo DEC LEI.154/82.05.05.1982.MFP,\
+    \ DR.IS [103] de 05.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1982-392811
+  date: '1982-05-05'
+- type: amended_by
+  target: pt:dre:462035:por
+  label: "Remetidas para a Direcção-Geral das Contribuições e Impostos as referências feitas ao Instituto Português de Cartografia\
+    \ e Cadastro nos arts. 69º, 72º, 74º, 75º, 89º e 112º do Código da Contribuição Predial e do Imposto sobre a Indústria\
+    \ Agrícola aprovado pelo Dec Lei 45104 de 01-Jul de 1963, com as alterações constantes do presente diploma, pelo DEC LEI.172/95.18.07.1995.MPLAT,\
+    \ DR.IS-A [164] de 18.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1995-462035
+  date: '1995-07-18'
+- type: cites
+  target: pt:dre:317159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:533779:por
+  label: Rectificado pela DECL.DD8708.07.07.1978.PCM, DR.IS [154]Supl de 07.07.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-533779
+  date: '1978-07-07'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:12Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +154,9 @@ Aproveita-se a oportunidade para modificar alguns preceitos do respectivo Códig
 
 Nestes termos, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditados os artigos 219.º-A, 219.º-B e 260.º-A ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, passando os seus artigos 7.º, 8.º, 12.º, 17.º, 22.º, 44.º, 46.º, 49.º, 50.º, 53.º, 59.º, 66.º a 70.º, 72.º a 78.º, 80.º, 89.º a 91.º, 94.º, 95.º, 103.º, 112.º, 114.º, 123.º, 144.º, 151.º, 190.º, 195.º, 220.º, 277.º, 289.º, 298.º, 301.º e 304.º a ter a seguinte redacção:
+Artigo 1.º São aditados os artigos 219.º-A, 219.º-B e 260.º-A ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, passando os seus artigos 7.º, 8.º, 12.º, 17.º, 22.º, 44.º, 46.º, 49.º, 50.º, 53.º, 59.º, 66.º a 70.º, 72.º a 78.º, 80.º, 89.º a 91.º, 94.º, 95.º, 103.º, 112.º, 114.º, 123.º, 144.º, 151.º, 190.º, 195.º, 220.º, 277.º, 289.º, 298.º, 301.º e 304.º a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 ...
 
@@ -112,11 +172,11 @@ Nestes termos, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 2
 
 ...
 
-###### Art. 8.º O direito às isenções a que aludem os n.os 1.º, 2.º, 6.º e 8.º do artigo anterior será reconhecido oficiosamente, sempre que se verifique inscrição na matriz em nome das entidades neles referidas, e o direito às restantes isenções do mesmo artigo, com excepção das dos n.os 3.º e 11.º, será reconhecido pelo chefe da repartição de finanças da área da situação dos prédios, a pedido dos proprietários, em requerimento devidamente documentado.
+Art. 8.º O direito às isenções a que aludem os n.os 1.º, 2.º, 6.º e 8.º do artigo anterior será reconhecido oficiosamente, sempre que se verifique inscrição na matriz em nome das entidades neles referidas, e o direito às restantes isenções do mesmo artigo, com excepção das dos n.os 3.º e 11.º, será reconhecido pelo chefe da repartição de finanças da área da situação dos prédios, a pedido dos proprietários, em requerimento devidamente documentado.
 
 ...
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
@@ -138,7 +198,7 @@ c) Se o proprietário só ulteriormente adquirir a qualidade de funcionário pú
 
 ...
 
-###### Art. 17.º Os rendimentos dos prédios urbanos construídos de novo, na parte destinada a habitação, serão isentos temporariamente de harmonia com o rendimento colectável resultante da renda anual estabelecida nos contratos, quando arrendados os prédios ou as suas habitações, ou o resultante do valor locativo, quando não arrendados, variando o período da isenção, por escalões, na razão inversa do rendimento e tendo em atenção as localidades da situação dos prédios e o número de compartimentos de cada habitação.
+Art. 17.º Os rendimentos dos prédios urbanos construídos de novo, na parte destinada a habitação, serão isentos temporariamente de harmonia com o rendimento colectável resultante da renda anual estabelecida nos contratos, quando arrendados os prédios ou as suas habitações, ou o resultante do valor locativo, quando não arrendados, variando o período da isenção, por escalões, na razão inversa do rendimento e tendo em atenção as localidades da situação dos prédios e o número de compartimentos de cada habitação.
 
 § 1.º A duração das isenções constará de tabela aprovada pelo Ministro das Finanças e do Plano, ouvido o Ministério da Habitação e das Obras Públicas, e será fixada entre quatro e doze anos, tendo em conta, designadamente, as circunstâncias seguintes:
 
@@ -154,37 +214,37 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 ...
 
-###### Art. 22.º As isenções referidas nos artigos 17.º e 21.º caducam, independentemente de quaisquer formalidades, em relação às habitações da unidade isenta que tenham sido arrendadas por mais do que a renda ou o valor locativo em que assentou a concessão do benefício.
+Art. 22.º As isenções referidas nos artigos 17.º e 21.º caducam, independentemente de quaisquer formalidades, em relação às habitações da unidade isenta que tenham sido arrendadas por mais do que a renda ou o valor locativo em que assentou a concessão do benefício.
 
 ...
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 § 1.º Normalmente escolher-se-ão por cada classe das parcelas e das árvores dispersas parcelas ou árvores tipo, para confronto, no serviço de distribuição de todas as da freguesia ou da zona de freguesia.
 
 ...
 
-###### Art. 46.º As parcelas escolhidas para tipo procurarão objectivar as variações dos limites de produtividade da respectiva classe, não devendo a escolha recair sobre parcelas de terreno heterogéneo.
+Art. 46.º As parcelas escolhidas para tipo procurarão objectivar as variações dos limites de produtividade da respectiva classe, não devendo a escolha recair sobre parcelas de terreno heterogéneo.
 
 ...
 
-###### Art. 49.º A distribuição das parcelas e árvovores dispersas será feita em cada freguesia por um perito, com a colaboração facultativa dos membros da junta cadastral concelhia e dos interessados.
+Art. 49.º A distribuição das parcelas e árvovores dispersas será feita em cada freguesia por um perito, com a colaboração facultativa dos membros da junta cadastral concelhia e dos interessados.
 
 § único. A nomeação dos peritos distribuidores recairá em engenheiros agrónomos, engenheiros silvicultores ou regentes agrícolas.
 
-###### Art. 50.º No serviço de distribuição, o perito será acompanhado de um informador por ele esescolhido de entre os nomes de uma lista tríplice, organizada e apresentada pela junta de freguesia.
+Art. 50.º No serviço de distribuição, o perito será acompanhado de um informador por ele esescolhido de entre os nomes de uma lista tríplice, organizada e apresentada pela junta de freguesia.
 
 § único. Se nenhuma das pessoas incluídas na lista revelar idoneidade para o exercício das funções ou a lista não tiver sido apresentada em devido tempo, o perito escolherá livremente quem possa desempenhá-las.
 
 ...
 
-###### Art. 53.º Quando, no acto da distribuição, o perito encontrar uma ou mais parcelas ou árvores em circunstâncias excepcionais, não previstas no momento em que se tenham organizado os quadros de qualificação e classificação e de tarifas e que influam no seu rendimento, mencionará esse facto no registo e proporá à junta cadastral concelhia as alterações a efectuar, devendo a mesma junta pronunciar-se sobre essa proposta.
+Art. 53.º Quando, no acto da distribuição, o perito encontrar uma ou mais parcelas ou árvores em circunstâncias excepcionais, não previstas no momento em que se tenham organizado os quadros de qualificação e classificação e de tarifas e que influam no seu rendimento, mencionará esse facto no registo e proporá à junta cadastral concelhia as alterações a efectuar, devendo a mesma junta pronunciar-se sobre essa proposta.
 
 § único. Quando se encontrarem já organizados os quadros referidos no corpo deste artigo e os mesmos houverem subido ao Conselho de Cadastro, a junta enviará a este Conselho a proposta com o seu parecer.
 
 ...
 
-###### Art. 59.º ...
+Art. 59.º ...
 
 § 1.º O montante dos encargos a que se referem as alíneas a) e b) do n.º 1.º será fixado segundo os usos locais, a sua real constatação e tendo em conta os preços de custo dos factores na exploração.
 
@@ -192,25 +252,25 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 ...
 
-###### Art. 66.º As despesas de administração serão as relativas à direcção da exploração, devendo exprimir-se em percentagem calculada sobre a soma das restantes despesas; esta percentagem não poderá ser superior a 5%.
+Art. 66.º As despesas de administração serão as relativas à direcção da exploração, devendo exprimir-se em percentagem calculada sobre a soma das restantes despesas; esta percentagem não poderá ser superior a 5%.
 
-###### Art. 67.º A taxa de juro correspondente ao capital de exploração será a dos empréstimos dos organismos oficiais para fins da respectiva cultura, com o limite máximo de 7%.
+Art. 67.º A taxa de juro correspondente ao capital de exploração será a dos empréstimos dos organismos oficiais para fins da respectiva cultura, com o limite máximo de 7%.
 
-###### Art. 68.º O lucro da exploração, para efeito da determinação da renda fundiária, será convencional e fixado em 10% do rendimento líquido cadastral da cultura.
+Art. 68.º O lucro da exploração, para efeito da determinação da renda fundiária, será convencional e fixado em 10% do rendimento líquido cadastral da cultura.
 
-###### Art. 69.º ...
+Art. 69.º ...
 
 ...
 
 § 3.º O rendimento colectável das edificações localizadas em prédios rústicos e que não forem classificadas pelos serviços do Instituto Geográfico e Cadastral como dependências agrícolas será determinado por inspecção directa pelas comissões de avaliação concelhias referidas no artigo 131.º; todavia, tais edificações poderão, a requerimento do contribuinte e confirmada a sua utilização exclusiva como dependências agrícolas, ser como tal inscritas na matriz predial rústica.
 
-###### Art. 70.º ...
+Art. 70.º ...
 
 § único. A tarifa de qualquer qualidade e classe não poderá ser inferior à estimada para a pastagem espontânea capaz de ser produzida nessa terra.
 
 ...
 
-###### Art. 72.º Os quadros de qualificação e classificação e de tarifas serão organizados, dentro dos prazos fixados pelo Instituto Geográfico e Cadastral, pelo presidente da junta cadastral concelhia, com a colaboração dos membros da junta.
+Art. 72.º Os quadros de qualificação e classificação e de tarifas serão organizados, dentro dos prazos fixados pelo Instituto Geográfico e Cadastral, pelo presidente da junta cadastral concelhia, com a colaboração dos membros da junta.
 
 § 1.º Sempre que possível, a organização dos quadros far-se-á por regiões, abrangendo um ou vários concelhos com características ecológicas e económicas homogéneas, que serão definidas pelos serviços técnicos de avaliação do Instituto Geográfico e Cadastral, depois de ouvido o Conselho de Cadastro.
 
@@ -220,15 +280,15 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 § 4.º As tarifas serão calculadas tomando para padrão o tipo de exploração mais generalizado, tanto técnica como economicamente.
 
-###### Art. 73.º Para a execução do disposto no artigo anterior, o presidente ou os presidentes, com a colaboração de um dos vogais de cada junta cadastral por estas escolhido, o concurso de informadores locais e a assistência facultativa dos membros das juntas de freguesia respectivas, estudarão os terrenos e colherão as informações necessárias, tendo em atenção o disposto nos artigos 41.º e 46.º
+Art. 73.º Para a execução do disposto no artigo anterior, o presidente ou os presidentes, com a colaboração de um dos vogais de cada junta cadastral por estas escolhido, o concurso de informadores locais e a assistência facultativa dos membros das juntas de freguesia respectivas, estudarão os terrenos e colherão as informações necessárias, tendo em atenção o disposto nos artigos 41.º e 46.º
 
-###### Art. 74.º Por aviso-circular, a junta cadastral concelhia convocará a câmara municipal, os organismos regionais da lavoura e as juntas de freguesia, convidando ainda as entidades e as pessoas que melhor entender para, em reunião conjunta, a esclarecerem e apresentarem as sugestões que julgarem convenientes acerca dos elementos mencionados no artigo anterior.
+Art. 74.º Por aviso-circular, a junta cadastral concelhia convocará a câmara municipal, os organismos regionais da lavoura e as juntas de freguesia, convidando ainda as entidades e as pessoas que melhor entender para, em reunião conjunta, a esclarecerem e apresentarem as sugestões que julgarem convenientes acerca dos elementos mencionados no artigo anterior.
 
 § 1.º A câmara municipal, os organismos regionais da lavoura e as juntas de freguesia poderão fazer-se representar por qualquer dos seus membros.
 
 ...
 
-###### Art. 75.º O presidente da junta cadastral concelhia, tomando em consideração todos os elementos obtidos nos termos dos artigos anteriores, organizará um projecto de quadros de qualificação e classificação e de tarifas, que, depois de apreciado pelos membros da junta cadastral concelhia, enviará ao Instituto Geográfico e Cadastral.
+Art. 75.º O presidente da junta cadastral concelhia, tomando em consideração todos os elementos obtidos nos termos dos artigos anteriores, organizará um projecto de quadros de qualificação e classificação e de tarifas, que, depois de apreciado pelos membros da junta cadastral concelhia, enviará ao Instituto Geográfico e Cadastral.
 
 § único. ...
 
@@ -236,31 +296,31 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 4.º Sugerir alterações aos processos usados na elaboração dos quadros de qualificação e classificação e de tarifas.
 
-###### Art. 76.º O presidente da junta cadastral concelhia, não concordando com as observações feitas ou se o achar conveniente, justificará em relatório anexo as opções tomadas para, em última instância, serem julgadas pelo Conselho de Cadastro.
+Art. 76.º O presidente da junta cadastral concelhia, não concordando com as observações feitas ou se o achar conveniente, justificará em relatório anexo as opções tomadas para, em última instância, serem julgadas pelo Conselho de Cadastro.
 
 § único. Sobre estes mesmos assuntos, poder-se-ão pronunciar os membros da junta cadastral concelhia no acto da reclamação dos quadros de qualificação e classificação e de tarifas.
 
-###### Art. 77.º O presidente da junta cadastral concelhia elaborará os quadros de qualificação e classificação e de tarifas com as alterações eventualmente introduzidas no projecto e expedirá aviso aos restantes membros da junta para que possam examinar os mesmos quadros e deles reclamar.
+Art. 77.º O presidente da junta cadastral concelhia elaborará os quadros de qualificação e classificação e de tarifas com as alterações eventualmente introduzidas no projecto e expedirá aviso aos restantes membros da junta para que possam examinar os mesmos quadros e deles reclamar.
 
 § único. Os membros da junta cadastral concelhia, no acto da reclamação e para a fundamentar, poderão juntar ao processo os documentos que entenderem.
 
-###### Art. 78.º Sempre que as circunstâncias o aconselhem, poderá ser previamente presente à aprovação do Conselho de Cadastro, para cada freguesia, o quadro de qualificação e classificação, independentemente da aprovação final do quadro de tarifas.
+Art. 78.º Sempre que as circunstâncias o aconselhem, poderá ser previamente presente à aprovação do Conselho de Cadastro, para cada freguesia, o quadro de qualificação e classificação, independentemente da aprovação final do quadro de tarifas.
 
 ...
 
-###### Art. 80.º Junto do Instituto Geográfico e Cadastral continuará a funcionar o Conselho de Cadastro, com a constituição, atribuições e competência definidas em legislação própria.
+Art. 80.º Junto do Instituto Geográfico e Cadastral continuará a funcionar o Conselho de Cadastro, com a constituição, atribuições e competência definidas em legislação própria.
 
 § único. As juntas cadastrais concelhias, na qualidade de organismos destinados a colaborar na organização do cadastro, dependem do Instituto Geográfico e Cadastral e, no desempenho das suas funções, devem seguir as normas e critérios pelo mesmo estabelecidos.
 
 ...
 
-###### Art. 89.º A junta cadastral concelhia é composta por sete membros, nomeados pelo Instituto Geográfico e Cadastral. O presidente é escolhido pelo mesmo Instituto; o secretário, funcionário da repartição de finanças da sede do concelho, é escolhido pelo director de finanças; três vogais são indicados, respectivamente, pela câmara municipal, pela lavoura regional e pelo Ministério da Agricultura e Pescas; os dois restantes vogais, em representação dos contribuintes das freguesias, serão escolhidos pelos outros membros da junta cadastral concelhia.
+Art. 89.º A junta cadastral concelhia é composta por sete membros, nomeados pelo Instituto Geográfico e Cadastral. O presidente é escolhido pelo mesmo Instituto; o secretário, funcionário da repartição de finanças da sede do concelho, é escolhido pelo director de finanças; três vogais são indicados, respectivamente, pela câmara municipal, pela lavoura regional e pelo Ministério da Agricultura e Pescas; os dois restantes vogais, em representação dos contribuintes das freguesias, serão escolhidos pelos outros membros da junta cadastral concelhia.
 
 § 1.º A nomeação dos presidentes das juntas cadastrais concelhias deverá recair em engenheiros agrónomos ou silvicultores.
 
 § 2.º A indicação do vogal por parte do Ministério da Agricultura e Pescas deverá recair num técnico dos serviços oficiais regionais.
 
-###### Art. 90.º A junta cadastral concelhia deverá:
+Art. 90.º A junta cadastral concelhia deverá:
 
 1.º Apreciar, para cada freguesia, os quadros de qualificação e classificação e de tarifas.
 
@@ -268,7 +328,7 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 § único. Os membros da junta cadastral concelhia poderão reclamar dos quadros de qualificação e classificação e de tarifas perante o Conselho de Cadastro.
 
-###### Art. 91.º A junta cadastral concelhia reunir-se-á em sessão, com a maioria dos seus membros, quando o julgar conveniente, mesmo sem a presença do presidente, assumindo neste caso a orientação dos trabalhos o vogal indicado pelo Ministério da Agricultura e Pescas.
+Art. 91.º A junta cadastral concelhia reunir-se-á em sessão, com a maioria dos seus membros, quando o julgar conveniente, mesmo sem a presença do presidente, assumindo neste caso a orientação dos trabalhos o vogal indicado pelo Ministério da Agricultura e Pescas.
 
 § 1.º No caso de ausência do secretário, o presidente, ou, na falta deste, o vogal do Ministério da Agricultura e Pescas, designará de entre os vogais presentes quem deva exercer essas funções.
 
@@ -276,15 +336,15 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 ...
 
-###### Art. 94.º O presidente da junta cadastral concelhia reclamará oficiosamente para o Conselho de Cadastro da organização dos quadros de qualificação e classificação e de tarifas, sempre que deles não tenha havido reclamação por parte dos membros da junta cadastral concelhia.
+Art. 94.º O presidente da junta cadastral concelhia reclamará oficiosamente para o Conselho de Cadastro da organização dos quadros de qualificação e classificação e de tarifas, sempre que deles não tenha havido reclamação por parte dos membros da junta cadastral concelhia.
 
-###### Art. 95.º A junta cadastral concelhia, quando o entenda necessário, requisitará o auxílio da autoridade policial e solicitará a colaboração dos funcionários das repartições de finanças, podendo convidar para assistirem às sessões os vereadores da câmara municipal e os proprietários que julgue mais indicados para a esclarecerem.
+Art. 95.º A junta cadastral concelhia, quando o entenda necessário, requisitará o auxílio da autoridade policial e solicitará a colaboração dos funcionários das repartições de finanças, podendo convidar para assistirem às sessões os vereadores da câmara municipal e os proprietários que julgue mais indicados para a esclarecerem.
 
 § único. A junta cadastral concelhia ou os peritos do Instituto Geográfico e Cadastral poderão solicitar à junta de freguesia informações e esclarecimentos sobre assuntos relacionados com as operações cadastrais, assim como pedir para organizar a lista tríplice a que se refere o artigo 50.º
 
 ...
 
-###### Art. 97.º Os membros da junta cadastral concelhia poderão reclamar, perante o Conselho de Cadastro, dos quadros de qualificação e classificação e de tarifas de todas as freguesias do concelho, no prazo de dez dias, a contar da data da recepção do aviso a que se refere o artigo 77.º
+Art. 97.º Os membros da junta cadastral concelhia poderão reclamar, perante o Conselho de Cadastro, dos quadros de qualificação e classificação e de tarifas de todas as freguesias do concelho, no prazo de dez dias, a contar da data da recepção do aviso a que se refere o artigo 77.º
 
 § 1.º Este prazo poderá ser prorrogado, a pedido dos interessados, por períodos cuja soma não exceda vinte dias.
 
@@ -292,21 +352,21 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 ...
 
-###### Art. 103.º Os termos do processo de reclamação, incluindo as guias de depósito prévio a efectuar na Caixa Geral de Depósitos pelos reclamantes, serão escritos em papel de formato legal e isentos de imposto do selo.
+Art. 103.º Os termos do processo de reclamação, incluindo as guias de depósito prévio a efectuar na Caixa Geral de Depósitos pelos reclamantes, serão escritos em papel de formato legal e isentos de imposto do selo.
 
 ...
 
-###### Art. 112.º ...
+Art. 112.º ...
 
 § único. As remunerações e abonos dos membros das juntas cadastrais concelhias e dos informadores regionais serão fixados por despacho do Ministro das Finanças e do Plano, por proposta do Instituto Geográfico e Cadastral.
 
 ...
 
-###### Art. 114.º Quando um prédio, ou parte dele, for arrendado por quantia inferior a dois terços da última renda anual convencionada, ou do valor locativo, se não se encontrava anteriormente em regime de arrendamento, ter-se-á como não arrendado para efeito de contribuição predial, salvo se tiver ocorrido uma baixa geral do nível das rendas ou o arrendamento tiver resultado de facto anómalo, a comprovar pelo contribuinte.
+Art. 114.º Quando um prédio, ou parte dele, for arrendado por quantia inferior a dois terços da última renda anual convencionada, ou do valor locativo, se não se encontrava anteriormente em regime de arrendamento, ter-se-á como não arrendado para efeito de contribuição predial, salvo se tiver ocorrido uma baixa geral do nível das rendas ou o arrendamento tiver resultado de facto anómalo, a comprovar pelo contribuinte.
 
 ...
 
-###### Art. 123.º ...
+Art. 123.º ...
 
 § 1.º As divisões ou andares não arrendados durante todo ou parte do ano a que o lançamento respeite, e que não devam considerar-se devolutos nos termos do artigo 120.º, serão inscritos no respectivo verbete pelos correspondentes valores locativos que constem da matriz.
 
@@ -314,7 +374,7 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 ...
 
-###### Art. 144.º ...
+Art. 144.º ...
 
 ...
 
@@ -322,13 +382,13 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 ...
 
-###### Art. 151.º ...
+Art. 151.º ...
 
 § único. Se, depois de ouvida a fiscalização, esta não atribuir ao prédio rendimento superior a 500$00, o chefe da repartição de finanças poderá dispensar a sua avaliação, observando neste caso o disposto no § único do artigo 129.º
 
 ...
 
-###### Art. 190.º ...
+Art. 190.º ...
 
 § 1.º Os peritos que procedam às alterações previstas neste artigo poderão, quando se justifique, actualizar a planta cadastral para além das alterações requeridas, com excepção de estremas com outros proprietários.
 
@@ -340,19 +400,19 @@ e) Características das habitações e sua adaptação às necessidades familiar
 
 ...
 
-###### Art. 195.º Até ao fim do mês de Janeiro do ano seguinte àquele em que as parcelas dos prédios rústicos tenham deixado de ser aplicadas às culturas constantes da respectiva inscrição matricial, ou os limites dos prédios hajam sido modificados, deverão os titulares do direito aos rendimentos apresentar, quanto a cada prédio, na repartição de finanças competente, declaração das alterações ocorridas, a fim de se promover, sem demora, nova distribuição das parcelas.
+Art. 195.º Até ao fim do mês de Janeiro do ano seguinte àquele em que as parcelas dos prédios rústicos tenham deixado de ser aplicadas às culturas constantes da respectiva inscrição matricial, ou os limites dos prédios hajam sido modificados, deverão os titulares do direito aos rendimentos apresentar, quanto a cada prédio, na repartição de finanças competente, declaração das alterações ocorridas, a fim de se promover, sem demora, nova distribuição das parcelas.
 
 ...
 
-###### Art. 219.º-A. É permitido deduzir ao rendimento colectável dos imóveis classificados como monumentos nacionais ou de interesse público, nos termos do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, o custo das obras de conservação determinadas pelo artigo 44.º do mesmo diploma, com a redacção dada pelo artigo único do [Decreto-Lei n.º 116-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-b-1976-317159), de 9 de Fevereiro, na parte em que não for subsidiado pelo Estado.
+Art. 219.º-A. É permitido deduzir ao rendimento colectável dos imóveis classificados como monumentos nacionais ou de interesse público, nos termos do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, o custo das obras de conservação determinadas pelo artigo 44.º do mesmo diploma, com a redacção dada pelo artigo único do [Decreto-Lei n.º 116-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-b-1976-317159), de 9 de Fevereiro, na parte em que não for subsidiado pelo Estado.
 
-###### Art. 219.º-B. Para o efeito do disposto no artigo anterior só são dedutíveis os custos das obras ordenadas pelas entidades competentes e por elas fiscalizadas, efectivamente pagas pelos proprietários ou usufrutuários, devendo a dedução ser solicitada ao chefe da repartição de finanças da respectiva área até 31 de Janeiro do ano seguinte ao do pagamento, em requerimento acompanhado dos documentos comprovativos das despesas feitas, devidamente autenticados por aquelas entidades.
+Art. 219.º-B. Para o efeito do disposto no artigo anterior só são dedutíveis os custos das obras ordenadas pelas entidades competentes e por elas fiscalizadas, efectivamente pagas pelos proprietários ou usufrutuários, devendo a dedução ser solicitada ao chefe da repartição de finanças da respectiva área até 31 de Janeiro do ano seguinte ao do pagamento, em requerimento acompanhado dos documentos comprovativos das despesas feitas, devidamente autenticados por aquelas entidades.
 
 § 1.º No caso de os custos das obras feitas excederem o rendimento colectável do prédio no ano em que forem pagos, permitir-se-á o reporte, para o ano ou anos seguintes, do excedente dos custos.
 
 § 2.º Não se considera efectivamente suportado pelo contribuinte o custo dos encargos quando tenha sido requerido ou outorgado subsídio do Estado e enquanto não estiver decidido qual a parte do custo que será definitivamente suportada pelo contribuinte, devendo, nestes casos, o requerimento para a dedução ser apresentado até 31 de Janeiro do ano seguinte ao da solução da pendência.
 
-###### Art. 220.º A taxa da contribuição predial rústica é de 10%; a da contribuição predial urbana é de 13%, exceptuados os casos previstos no § 1.º do presente artigo.
+Art. 220.º A taxa da contribuição predial rústica é de 10%; a da contribuição predial urbana é de 13%, exceptuados os casos previstos no § 1.º do presente artigo.
 
 § 1.º As taxas da contribuição predial urbana, quando o correspondente valor locativo ou a renda recebida dos prédios situados no território do continente e das Regiões Autónomas dos Açores e da Madeira exceda o quantitativo global de 360000$00 por cada titular do direito ao respectivo rendimento, serão as seguintes:
 
@@ -378,23 +438,23 @@ b) Os rendimentos dos prédios urbanos isentos de contribuição serão consider
 
 ...
 
-###### Art. 260.º-A. Os chefes das secretarias das câmaras municipais e, em Lisboa e Porto, as direcções de serviços competentes remeterão, no princípio de cada trimestre, aos chefes das repartições de finanças da situação dos prédios, relações separadas de todas as licenças concedidas no trimestre anterior, relativas a prédios urbanos, distinguindo: as de habitação ou ocupação; as de construção, reedificação, modificação ou ampliação; as de demolição, e as de quaisquer outras obras.
+Art. 260.º-A. Os chefes das secretarias das câmaras municipais e, em Lisboa e Porto, as direcções de serviços competentes remeterão, no princípio de cada trimestre, aos chefes das repartições de finanças da situação dos prédios, relações separadas de todas as licenças concedidas no trimestre anterior, relativas a prédios urbanos, distinguindo: as de habitação ou ocupação; as de construção, reedificação, modificação ou ampliação; as de demolição, e as de quaisquer outras obras.
 
 ...
 
-###### Art. 277.º ...
+Art. 277.º ...
 
 § único. Estas reclamações poderão ser apresentadas verbalmente no prazo previsto no artigo 151.º e nas condições ali estabelecidas e poderão ser resolvidas de harmonia com o disposto no § único do mesmo artigo.
 
 ...
 
-###### Art. 289.º ...
+Art. 289.º ...
 
 § único. Contra as decisões referidas neste artigo poderão os contribuintes deduzir impugnação, nos termos do Código de Processo das Contribuições e Impostos, no prazo de oito dias, com excepção das relativas a reclamação com fundamento no erro das características agrárias dos prédios previsto no n.º 10.º do artigo 269.º, hipótese em que os contribuintes podem recorrer, no prazo de quinze dias, para o Conselho de Cadastro.
 
 ...
 
-###### Art. 298.º Se o contribuinte declarar, nos termos dos artigos 116.º e 117.º, renda inferior à convencionada, o arrendatário ou sublocatário ficam desobrigados do pagamento de qualquer renda até que o locador ou sublocador procedam, junto da repartição de finanças competente, à correcção da sua declaração, em termos de se tornar inteiramente exacta.
+Art. 298.º Se o contribuinte declarar, nos termos dos artigos 116.º e 117.º, renda inferior à convencionada, o arrendatário ou sublocatário ficam desobrigados do pagamento de qualquer renda até que o locador ou sublocador procedam, junto da repartição de finanças competente, à correcção da sua declaração, em termos de se tornar inteiramente exacta.
 
 ...
 
@@ -402,26 +462,26 @@ b) Os rendimentos dos prédios urbanos isentos de contribuição serão consider
 
 ...
 
-###### Art. 301.º A falta de apresentação das declarações a que se referem os artigos 213.º e 214.º é punida com multa igual à contribuição predial correspondente aos meses que tenham decorrido depois de findos os prazos estabelecidos nos citados artigos, até ao mês, inclusive, em que as reclarações forem apresentadas, ou igual à que seria de liquidar se o prédio não gozasse de isenção.
+Art. 301.º A falta de apresentação das declarações a que se referem os artigos 213.º e 214.º é punida com multa igual à contribuição predial correspondente aos meses que tenham decorrido depois de findos os prazos estabelecidos nos citados artigos, até ao mês, inclusive, em que as reclarações forem apresentadas, ou igual à que seria de liquidar se o prédio não gozasse de isenção.
 
 § único. A entrega das declarações referidas nos artigos 213.º e 214.º fora dos prazos ali estabelecidos, mas antes de iniciado procedimento para aplicação das multas, ou no caso de já terem sido apresentados os elementos a que se refere o artigo 116.º, é punida com multa igual a metade da contribuição calculada na mesma base definida no corpo do presente artigo.
 
 ...
 
-###### Art. 304.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 200$00 a 10000$00.
+Art. 304.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 200$00 a 10000$00.
 
-###### Art. 2.º São revogados os artigos 87.º e 88.º do Código da Contribuição Predial do Imposto sobre a Indústria Agrícola.
+Art. 2.º São revogados os artigos 87.º e 88.º do Código da Contribuição Predial do Imposto sobre a Indústria Agrícola.
 
-###### Art. 3.º - 1 - As alterações introduzidas pelo artigo 1.º do presente decreto-lei ao artigo 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola são aplicáveis aos rendimentos dos anos de 1977 e seguintes.
+Art. 3.º - 1 - As alterações introduzidas pelo artigo 1.º do presente decreto-lei ao artigo 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola são aplicáveis aos rendimentos dos anos de 1977 e seguintes.
 
 2 - Relativamente às liquidações da contribuição predial urbana do ano de 1977, nas quais não tenha sido possível observar o disposto nos §§ 1.º e 3.º do artigo 220.º do Código, segundo a redacção dada pelo presente decreto-lei, deverão os serviços promover, oficiosamente, as respectivas rectificações.
 
-###### Art. 4.º O disposto nos artigos 219.º-A e 219.º-B do Código, aditados pelo artigo 1.º deste decreto-lei, é aplicável às obras de conservação efectuadas desde o ano de 1976, devendo, para o efeito, a dedução ser requerida durante o mês de Janeiro de 1979.
+Art. 4.º O disposto nos artigos 219.º-A e 219.º-B do Código, aditados pelo artigo 1.º deste decreto-lei, é aplicável às obras de conservação efectuadas desde o ano de 1976, devendo, para o efeito, a dedução ser requerida durante o mês de Janeiro de 1979.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 6 de Junho de 1978.**
+Promulgado em 6 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

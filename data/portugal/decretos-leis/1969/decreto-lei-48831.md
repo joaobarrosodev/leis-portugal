@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48831-1969-241620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a31a4eb2763aec841e9ba05ff15ac2c8993e171a070f8b1e6502b58054c86ad1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d90e2cbe51355132ab133877ccf3936a7886499b696b0b28f5aab3c2ec11a686
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cancro
+- Coimbra
+- Encargo do Estado
+- Fundação Calouste Gulbenkian
+- Instituto Português de Oncologia de Francisco Gentil
+- Liga Portuguesa contra o Cancro
+- Lisboa
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:488849:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:527782:por
+  label: "Rectificado o mapa nº2 anexo ao presente diploma, pela RECT.DD504.07.02.1969.PC, DG.IS [32] de 07.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-527782
+  date: '1969-02-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:09Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +116,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. A distribuição dos encargos pelo Estado e pelas entidades doadoras e o escalonamento anual da despesa a que se refere o artigo 3.º do [Decreto-Lei n.º 46867](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46867-1966-488849), de 10 de Fevereiro de 1966, passarão a obedecer às indicações dos mapas anexos ao presente decreto-lei, que substituirão os anteriores para todos os efeitos.
+Artigo único. A distribuição dos encargos pelo Estado e pelas entidades doadoras e o escalonamento anual da despesa a que se refere o artigo 3.º do [Decreto-Lei n.º 46867](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46867-1966-488849), de 10 de Fevereiro de 1966, passarão a obedecer às indicações dos mapas anexos ao presente decreto-lei, que substituirão os anteriores para todos os efeitos.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Dezembro de 1968.**
+Promulgado em 30 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -117,12 +134,12 @@ MAPA N.º 1
 
 Financiamento geral das obras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/00500/00190020.pdf))](https://files.diariodarepublica.pt/1s/1969/01/00500/00190020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/00500/00190020.pdf)
 
 MAPA N.º 2
 
 Programa geral do financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/00500/00190020.pdf))](https://files.diariodarepublica.pt/1s/1969/01/00500/00190020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/00500/00190020.pdf)
 
 Ministérios das Finanças, das Obras Públicas, da Educação Nacional e da Saúde e Assistência, 30 de Dezembro de 1968. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches. - O Ministro da Educação Nacional, José Hermano Saraiva. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.

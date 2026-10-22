@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/680-1974-466205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad53903576f008062a2c64e7bec2222d32399287dbea25943b66453954a060a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 595b1419dcf28c792f1850375ead289afbe148ea66093f11af30e9207bea3856
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Orgânica
+- Reforma Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:20Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +93,9 @@ de 30 de Novembro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 472.º, 474.º, 476.º e 524.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 472.º, 474.º, 476.º e 524.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 472.º Para ser nomeado ajudante de despachante oficial é necessário apresentar na direcção da respectiva alfândega:
+Art. 472.º Para ser nomeado ajudante de despachante oficial é necessário apresentar na direcção da respectiva alfândega:
 
 1.º Requerimento seu, acompanhado de outro do despachante oficial;
 
@@ -116,7 +123,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ...
 
-###### Art. 474.º Para ser nomeado praticante é necessário apresentar na direcção da respectiva alfândega os documentos referidos nos n.os 1.º a 10.º do artigo 472.º
+Art. 474.º Para ser nomeado praticante é necessário apresentar na direcção da respectiva alfândega os documentos referidos nos n.os 1.º a 10.º do artigo 472.º
 
 § 1.º Os praticantes, além de poderem apresentar nos serviços os diversos documentos do expediente aduaneiro, poderão auxiliar os ajudantes de despachantes nas diligências em que estes intervenham, sendo-lhes, no entanto, vedado assinar os respectivos documentos e, sem a presença daqueles, interferir em actos inerentes à classificação das mercadorias.
 
@@ -124,26 +131,26 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ...
 
-###### Art. 476.º Quando se trate de novas nomeações, os ajudantes de despachante oficial e os praticantes devem apresentar os documentos referidos nos n.os 1.º, 3.º, 4.º, 5.º, 7.º, 8.º e 10.º do artigo 472.º e documento comprovativo de terem satisfeito as prescrições da Lei do Recrutamento e Serviço Militar, quando em nomeação anterior ainda não tenha sido presente.
+Art. 476.º Quando se trate de novas nomeações, os ajudantes de despachante oficial e os praticantes devem apresentar os documentos referidos nos n.os 1.º, 3.º, 4.º, 5.º, 7.º, 8.º e 10.º do artigo 472.º e documento comprovativo de terem satisfeito as prescrições da Lei do Recrutamento e Serviço Militar, quando em nomeação anterior ainda não tenha sido presente.
 
 ...
 
-###### Art. 524.º Os despachantes oficiais devem ter residência permanente na localidade onde exercerem normalmente as funções dos seus cargos.
+Art. 524.º Os despachantes oficiais devem ter residência permanente na localidade onde exercerem normalmente as funções dos seus cargos.
 
 § 1.º Os directores das alfândegas podem autorizar os despachantes oficiais a residirem em localidade diversa da indicada no corpo deste artigo quando a facilidade de comunicação permita rápida deslocação entre a residência e a sede da estância aduaneira e a distância entre os dois locais não seja superior a 30 km.
 
 § 2.º A inobservância do disposto neste artigo e seu § 1.º implica a eliminação do respectivo quadro.
 
-###### Art. 2.º Aos praticantes de despachante nomeados ao abrigo de disposições legais anteriores às deste diploma poderão ser passadas cédulas de ajudante, com dispensa do requisito do n.º 9.º do artigo 472.º, desde que completem um mínimo de cinco anos de serviço como praticantes.
+Art. 2.º Aos praticantes de despachante nomeados ao abrigo de disposições legais anteriores às deste diploma poderão ser passadas cédulas de ajudante, com dispensa do requisito do n.º 9.º do artigo 472.º, desde que completem um mínimo de cinco anos de serviço como praticantes.
 
-###### Art. 3.º Os requerimentos para nomeação de ajudantes e praticantes poderão seguir os seus trâmites ao abrigo da legislação em vigor à data da sua apresentação nos serviços, tendo os interessados o prazo de sessenta dias para cumprimento dos trâmites necessários a essa nomeação.
+Art. 3.º Os requerimentos para nomeação de ajudantes e praticantes poderão seguir os seus trâmites ao abrigo da legislação em vigor à data da sua apresentação nos serviços, tendo os interessados o prazo de sessenta dias para cumprimento dos trâmites necessários a essa nomeação.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 26 de Novembro de 1974.**
+Promulgado em 26 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

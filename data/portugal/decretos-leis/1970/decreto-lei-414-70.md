@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/08/19800/11401141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1970-138836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d242ef2447a19c6dd379c565c0297b265760251416ede625a26d23a5a89e6512
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cbb89ed5cf58ca90f3ee2d26510fdbadc65e375c8fc640cba55cb4f4061ba08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Fazenda Pública
+- Nomeação
+- Pessoal de Inspecção
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:486488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:263560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:486488:por
+  label: "Revogado pelo DEC LEI.186/98.1998.07.07.MF, DR.IS-A [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1998-486488
+  date: '1998-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:12Z'
   warnings: []
   errors: []
 ---
@@ -115,9 +137,9 @@ c) Proporcionar a possibilidade de se utilizarem temporàriamente os serviços d
 
 Nestes termos, e usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal da Direcção-Geral da Fazenda Pública é acrescido dos lugares constantes do mapa anexo a este diploma.
+Artigo 1.º O quadro do pessoal da Direcção-Geral da Fazenda Pública é acrescido dos lugares constantes do mapa anexo a este diploma.
 
-###### Art. 2.º - 1. Os lugares de inspector superior serão providos, por escolha do Secretário de Estado do Tesouro:
+Art. 2.º - 1. Os lugares de inspector superior serão providos, por escolha do Secretário de Estado do Tesouro:
 
 Em comissão de serviço:
 
@@ -129,44 +151,44 @@ b) Entre indivíduos de reconhecida competência diplomados com um curso superio
 
 2. Quando o provimento a que se refere o presente artigo recair em indivíduo que já tenha a qualidade de funcionário, ser-lhe-á aplicável o regime estabelecido no n.º 3 do artigo 6.º do presente diploma; quando recair em indivíduo não funcionário, o mesmo poderá tornar-se definitivo no fim de dois anos de bom e efectivo serviço.
 
-###### Art. 3.º Quando as circunstâncias o aconselharem, pode o Secretário de Estado do Tesouro nomear inspectores, nos termos do artigo anterior, considerando-se para todos os efeitos legais preenchidas as vagas correspondentes de inspector superior.
+Art. 3.º Quando as circunstâncias o aconselharem, pode o Secretário de Estado do Tesouro nomear inspectores, nos termos do artigo anterior, considerando-se para todos os efeitos legais preenchidas as vagas correspondentes de inspector superior.
 
-###### Art. 4.º - 1. Compete aos inspectores superiores coadjuvar o director-geral e desempenhar as funções que por este lhe forem designadas.
+Art. 4.º - 1. Compete aos inspectores superiores coadjuvar o director-geral e desempenhar as funções que por este lhe forem designadas.
 
 2. Por despacho do Secretário de Estado do Tesouro, será um dos inspectores superiores designado adjunto do director-geral, competindo-lhe, além das funções referidas no número anterior, substituir o director-geral nas suas faltas ou impedimentos.
 
-###### Art. 5.º - 1. Os lugares de técnicos de 1.ª e 2.ª classe serão providos, mediante concurso documental, por nomeação do Secretário de Estado do Tesouro, sobre proposta do director-geral, entre diplomados com um curso superior adequado ao exercício das respectivas funções, conforme as necessidades do serviço.
+Art. 5.º - 1. Os lugares de técnicos de 1.ª e 2.ª classe serão providos, mediante concurso documental, por nomeação do Secretário de Estado do Tesouro, sobre proposta do director-geral, entre diplomados com um curso superior adequado ao exercício das respectivas funções, conforme as necessidades do serviço.
 
 2. Quando as circunstâncias o aconselharem, pode o número de técnicos de 2.ª classe ser aumentado, não se preenchendo, consequentemente, igual número de lugares de técnico de 1.ª classe.
 
 3. Os informadores do serviço externo serão nomeados entre indivíduos habilitados com um curso médio ou entre primeiros-oficiais do quadro da Direcção-Geral da Fazenda Pública.
 
-###### Art. 6.º - 1. As nomeações a que se refere o artigo anterior terão carácter provisório durante dois anos, findos os quais o funcionário poderá ser provido definitivamente se tiver bom e efectivo serviço.
+Art. 6.º - 1. As nomeações a que se refere o artigo anterior terão carácter provisório durante dois anos, findos os quais o funcionário poderá ser provido definitivamente se tiver bom e efectivo serviço.
 
 2. Se, porém, a nomeação recair em funcionário público, será feita em comissão de serviço pelo prazo de um ano, prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após dois anos de bom e efectivo serviço.
 
 3. Após dois anos de exercício do cargo, considera-se aberta vaga no quadro donde procede o funcionário; poderá este, no entanto, regressar ao mesmo quadro, a seu pedido, desde que se encontre vago o cargo que desempenhava ou outro de categoria equivalente.
 
-###### Art. 7.º Compete aos técnicos efectuar os estudos da sua especialidade em processos ou documentos que versem matérias das atribuições da Direcção-Geral, emitir os respectivos pareceres e, bem assim, elaborar e praticar quaisquer outros trabalhos ou diligências de que forem especialmente incumbidos.
+Art. 7.º Compete aos técnicos efectuar os estudos da sua especialidade em processos ou documentos que versem matérias das atribuições da Direcção-Geral, emitir os respectivos pareceres e, bem assim, elaborar e praticar quaisquer outros trabalhos ou diligências de que forem especialmente incumbidos.
 
-###### Art. 8.º Salvo o que for determinado pelos respectivos superiores hierárquicos, compete aos informadores do serviço externo efectuar todo o serviço externo indispensável ao regular seguimento dos assuntos cujo estudo cabe aos serviços centrais.
+Art. 8.º Salvo o que for determinado pelos respectivos superiores hierárquicos, compete aos informadores do serviço externo efectuar todo o serviço externo indispensável ao regular seguimento dos assuntos cujo estudo cabe aos serviços centrais.
 
-###### Art. 9.º Pelo Ministro das Finanças serão fixadas, por despacho, as gratificações a que tenham direito, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, os funcionários do quadro técnico e os que desempenhem funções de direcção ou chefia.
+Art. 9.º Pelo Ministro das Finanças serão fixadas, por despacho, as gratificações a que tenham direito, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, os funcionários do quadro técnico e os que desempenhem funções de direcção ou chefia.
 
-###### Art. 10.º Os actuais lugares de chefe de repartição, chefe de secção e oficial da Direcção-Geral da Fazenda Pública terão, para todos os efeitos, inclusive no que respeita a vencimentos, categoria igual à dos funcionários que na Direcção-Geral das Contribuições e Impostos exerçam presentemente idênticas funções.
+Art. 10.º Os actuais lugares de chefe de repartição, chefe de secção e oficial da Direcção-Geral da Fazenda Pública terão, para todos os efeitos, inclusive no que respeita a vencimentos, categoria igual à dos funcionários que na Direcção-Geral das Contribuições e Impostos exerçam presentemente idênticas funções.
 
-###### Art. 11.º É revogado o artigo 7.º do [Decreto-Lei n.º 37249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37249-1948-355138), de 28 de Dezembro de 1948.
+Art. 11.º É revogado o artigo 7.º do [Decreto-Lei n.º 37249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37249-1948-355138), de 28 de Dezembro de 1948.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 12 de Agosto de 1970.**
+Promulgado em 12 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa anexo ao Decreto-Lei n.º 414/70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/08/19800/11401141.pdf))](https://files.diariodarepublica.pt/1s/1970/08/19800/11401141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/19800/11401141.pdf)
 
 Ministério das Finanças 12 de Agosto de 1970. - O Ministro das Finanças, João Augusto Dias Rosas.

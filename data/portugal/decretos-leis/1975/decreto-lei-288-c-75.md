@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 134/1975, 3º Suplemento, Série I de 1975-06-12
   number: '134'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 810-(5) a 810-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13403/00050010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-c-1975-318698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 136149460f4192dd58c29c7d4027b76985c6211289396b7e9fff61c1dca589f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c6bffc9a8606f98758e80ae742fdfe215de9ef217b60f4d840ff35cbbb21154
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- Transporte de Mercadorias
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314955:por
+  label: "Transferida para a Rodoviária Nacional a universalidade dos bens, direitos e obrigações activos e passivos das empresas\
+    \ nacionalizadas, integrantes do grupo Camionagem Esteves, pelo DEC LEI.469/75.28.08.1975.MTC, DG.IS [198] de 28.08.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/469-1975-314955
+  date: '1975-08-28'
+- type: amended_by
+  target: pt:dre:313844:por
+  label: "Transformada em Sociedade Anónima a Empresa Pública Rodoviária Nacional, criada no presente diploma, e cujos Estatutos\
+    \ constam do Dec Lei 427-J/76 de 01-Jun, pelo DEC LEI.12/90.1990.01.06.MOPTC, DR.IS [5]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1990-313844
+  date: '1990-01-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:23Z'
   warnings: []
   errors: []
 ---
@@ -112,45 +135,45 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a empresa Rodoviária Nacional, a qual fica dotada de personalidade jurídica e autonomia administrativa e financeira.
+Artigo 1.º É criada a empresa Rodoviária Nacional, a qual fica dotada de personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 2.º - 1. A Rodoviária Nacional tem como objecto a exploração dos transportes públicos rodoviários, de mercadorias e de passageiros, afectos às empresas rodoviárias nacionalizadas, bem como dos que de futuro lhe venham a ser atribuídos.
+Art. 2.º - 1. A Rodoviária Nacional tem como objecto a exploração dos transportes públicos rodoviários, de mercadorias e de passageiros, afectos às empresas rodoviárias nacionalizadas, bem como dos que de futuro lhe venham a ser atribuídos.
 
 2. Poderá ainda a Rodoviária Nacional exercer a actividade de fabrico e reparação de material rodoviário, directamente ou negociando para o efeito contratos com outras empresas, bem como outras actividades complementares à actividade transportadora.
 
-###### Art. 3.º A Rodoviária Nacional participará nos operadores regionais de transportes, nos termos e para os fins que vierem a ser definidos.
+Art. 3.º A Rodoviária Nacional participará nos operadores regionais de transportes, nos termos e para os fins que vierem a ser definidos.
 
-###### Art. 4.º É transferida para a RN a universalidade dos bens e direitos afectos às empresas transportadoras rodoviárias que vierem a ser nacionalizadas.
+Art. 4.º É transferida para a RN a universalidade dos bens e direitos afectos às empresas transportadoras rodoviárias que vierem a ser nacionalizadas.
 
-###### Art. 5.º O Ministro dos Transportes e Comunicações definirá em portaria o processo administrativo a utilizar na concessão e licenciamento de novos serviços.
+Art. 5.º O Ministro dos Transportes e Comunicações definirá em portaria o processo administrativo a utilizar na concessão e licenciamento de novos serviços.
 
-###### Art. 6.º É aplicável ao trabalho prestado na Rodoviária Nacional a legislação em vigor sobre contrato individual de trabalho, bem como as convenções de trabalho negociadas no sector dos transportes.
+Art. 6.º É aplicável ao trabalho prestado na Rodoviária Nacional a legislação em vigor sobre contrato individual de trabalho, bem como as convenções de trabalho negociadas no sector dos transportes.
 
-###### Art. 7.º A RN será regida pelos estatutos anexos ao presente decreto-lei, que dele fazem parte integrante.
+Art. 7.º A RN será regida pelos estatutos anexos ao presente decreto-lei, que dele fazem parte integrante.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Francisco José Cruz Pereira de Moura - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso - Álvaro Augusto Veiga de Oliveira - José Inácio da Costa Martins.
 
-**Promulgado em 8 de Agosto de 1975.**
+Promulgado em 8 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## Anexo ao Decreto-Lei n.º 288-C/75
+Anexo ao Decreto-Lei n.º 288-C/75
 
 ESTATUTO DA EMPRESA RODOVIÁRIA NACIONAL
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º - 1. A Rodoviária Nacional constitui uma empresa do Estado e adopta a abreviatura de RN.
+Artigo 1.º - 1. A Rodoviária Nacional constitui uma empresa do Estado e adopta a abreviatura de RN.
 
 2. A empresa Rodoviária Nacional, RN, é dotada de autonomia administrativa e financeira e património próprio.
 
 3. A empresa tem a sua sede em Lisboa, podendo, no entanto, estabelecer qualquer espécie de representação em outras localidades do País ou no estrangeiro.
 
-###### Art. 2.º - 1. São atribuições da RN:
+Art. 2.º - 1. São atribuições da RN:
 
 a) A exploração dos transportes públicos rodoviários, de mercadorias e passageiros, afectos às empresas nacionalizadas;
 
@@ -170,11 +193,11 @@ d) Constituir sociedades ou participar em sociedades já constituídas, mediante
 
 e) Celebrar com outras empresas de transporte os acordos que se revelem vantajosos para melhor satisfazer as necessidades do público e as exigências do serviço de que está incumbida.
 
-###### Art. 3.º A empresa estabelecerá, em regulamentos internos, sujeitos à homologação do Ministro dos Transportes e Comunicações, as normas necessárias ao seu bom funcionamento.
+Art. 3.º A empresa estabelecerá, em regulamentos internos, sujeitos à homologação do Ministro dos Transportes e Comunicações, as normas necessárias ao seu bom funcionamento.
 
 ### CAPÍTULO II — Da organização interna
 
-###### Art. 4.º - 1. São órgãos da empresa RN:
+Art. 4.º - 1. São órgãos da empresa RN:
 
 a) O conselho geral;
 
@@ -188,7 +211,7 @@ d) Os conselhos de planeamento e contrôle.
 
 #### SECÇÃO I — Do conselho geral
 
-###### Art. 5.º - 1. O conselho geral é o órgão ao qual compete definir as grandes linhas da gestão económica e financeira da empresa e fiscalizar superiormente a sua actividade.
+Art. 5.º - 1. O conselho geral é o órgão ao qual compete definir as grandes linhas da gestão económica e financeira da empresa e fiscalizar superiormente a sua actividade.
 
 2. O conselho geral é constituído por:
 
@@ -206,7 +229,7 @@ f) O director-geral.
 
 3. Os membros do conselho geral, com excepção do director-geral, são nomeados pela entidade que representam.
 
-###### Art. 6.º O conselho geral reunirá:
+Art. 6.º O conselho geral reunirá:
 
 a) Ordinariamente, de três em três meses;
 
@@ -214,9 +237,9 @@ b) Extraordinariamente, por convocação do presidente, sob proposta de qualquer
 
 #### SECÇÃO II — Do conselho executivo
 
-###### Art. 7.º O conselho executivo é constituído pelo director-geral e por quatro directores-gerais-adjuntos.
+Art. 7.º O conselho executivo é constituído pelo director-geral e por quatro directores-gerais-adjuntos.
 
-###### Art. 8.º - 1. Competem ao conselho executivo todos os poderes necessários para assegurar o funcionamento da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste diploma atribuídos a outras entidades ou a outros órgãos da empresa.
+Art. 8.º - 1. Competem ao conselho executivo todos os poderes necessários para assegurar o funcionamento da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste diploma atribuídos a outras entidades ou a outros órgãos da empresa.
 
 2. Compete ainda ao conselho executivo:
 
@@ -228,15 +251,15 @@ c) Arrecadar as receitas e autorizar o pagamento de despesas relativas a todos o
 
 d) Publicar anualmente um relatório de gerência relativo ao ano económico anterior.
 
-###### Art. 9.º O conselho executivo poderá delegar, no todo ou em parte, em qualquer dos seus membros ou no conselho de directores os poderes que lhe serão conferidos.
+Art. 9.º O conselho executivo poderá delegar, no todo ou em parte, em qualquer dos seus membros ou no conselho de directores os poderes que lhe serão conferidos.
 
-###### Art. 10.º Os membros do conselho executivo são nomeados pelo Primeiro-Ministro, sob proposta do Ministro dos Transportes e Comunicações.
+Art. 10.º Os membros do conselho executivo são nomeados pelo Primeiro-Ministro, sob proposta do Ministro dos Transportes e Comunicações.
 
-###### Art. 11.º A posse dos membros do conselho executivo é conferida pelo Ministro dos Transportes e Comunicações.
+Art. 11.º A posse dos membros do conselho executivo é conferida pelo Ministro dos Transportes e Comunicações.
 
-###### Art. 12.º Os vencimentos dos membros do conselho executivo serão fixados por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações.
+Art. 12.º Os vencimentos dos membros do conselho executivo serão fixados por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações.
 
-###### Art. 13.º - 1. O director-geral preside ao conselho executivo e ao conselho de directores e é membro do conselho geral.
+Art. 13.º - 1. O director-geral preside ao conselho executivo e ao conselho de directores e é membro do conselho geral.
 
 2. O director-geral é nomeado nos termos do artigo 10.º do presente diploma.
 
@@ -244,7 +267,7 @@ d) Publicar anualmente um relatório de gerência relativo ao ano económico ant
 
 4. O vencimento do director-geral é fixado de acordo com o disposto no artigo 12.º deste diploma.
 
-###### Art. 14.º Compete ao director-geral:
+Art. 14.º Compete ao director-geral:
 
 1.º Orientar e coordenar os serviços de gestão da empresa;
 
@@ -274,17 +297,17 @@ d) Publicar anualmente um relatório de gerência relativo ao ano económico ant
 
 14.º Adjudicar e mandar executar obras e adquirir materiais, máquinas, aparelhos e outros fornecimentos e autorizar quaisquer outras despesas, dentro dos limites orçamentais.
 
-###### Art. 15.º - 1. O director-geral pode delegar nos directores-gerais-adjuntos qualquer dos poderes da sua competência.
+Art. 15.º - 1. O director-geral pode delegar nos directores-gerais-adjuntos qualquer dos poderes da sua competência.
 
 2. Nas suas faltas e impedimentos, o director-geral é substituído pelos directores-gerais-adjuntos, por ordem de antiguidade ou, quando hajam sido designados na mesma data, pela ordem que seja determinada pelo Ministro dos Transportes e Comunicações.
 
 #### SECÇÃO III — Do conselho de directores
 
-###### Art. 16.º - 1. O conselho de directores é constituído pelos membros do conselho executivo e pelos directores das unidades de exploração.
+Art. 16.º - 1. O conselho de directores é constituído pelos membros do conselho executivo e pelos directores das unidades de exploração.
 
 2. O conselho de directores é presidido pelo director-geral.
 
-###### Art. 17.º Ao conselho de directores compete coordenar e planear a execução das linhas de gestão económica e financeira da empresa e, nomeadamente:
+Art. 17.º Ao conselho de directores compete coordenar e planear a execução das linhas de gestão económica e financeira da empresa e, nomeadamente:
 
 a) Emitir parecer sobre as propostas do conselho executivo que visem alteração de taxas do sistema tarifário;
 
@@ -292,15 +315,15 @@ b) Propor ao conselho executivo as providências que entenda necessárias para a
 
 c) Pronunciar-se sobre quaisquer problemas que lhe sejam submetidos pelo conselho executivo.
 
-###### Art. 18.º - 1. O conselho de directores pode delegar, no todo ou em parte, em qualquer dos seus membros um ou mais dos poderes que integram a sua competência.
+Art. 18.º - 1. O conselho de directores pode delegar, no todo ou em parte, em qualquer dos seus membros um ou mais dos poderes que integram a sua competência.
 
 2. O instrumento de delegação de poderes estabelecerá os termos e os limites dos poderes delegados.
 
-###### Art. 19.º Os directores das unidades de exploração serão nomeados por despacho do Ministro dos Transportes e Comunicações, sob proposta do director-geral, ouvidos os representantes dos trabalhadores.
+Art. 19.º Os directores das unidades de exploração serão nomeados por despacho do Ministro dos Transportes e Comunicações, sob proposta do director-geral, ouvidos os representantes dos trabalhadores.
 
-###### Art. 20.º A posse dos directores das unidades de exploração é conferida pelo director-geral.
+Art. 20.º A posse dos directores das unidades de exploração é conferida pelo director-geral.
 
-###### Art. 21.º - 1. O conselho de directores reunirá:
+Art. 21.º - 1. O conselho de directores reunirá:
 
 a) Ordinariamente, uma vez por mês;
 
@@ -312,7 +335,7 @@ b) Extraordinariamente, sob proposta de qualquer membro.
 
 Dos conselhos de planeamento e «contrôle»
 
-###### Art. 22.º - 1. O conselho executivo da RN apoiar-se-á em órgãos consultivos, chamados «conselhos de planeamento e contrôle», a constituir nas regiões onde não existam operadores únicos ou onde se preveja que eles não venham a ser criados.
+Art. 22.º - 1. O conselho executivo da RN apoiar-se-á em órgãos consultivos, chamados «conselhos de planeamento e contrôle», a constituir nas regiões onde não existam operadores únicos ou onde se preveja que eles não venham a ser criados.
 
 2. Os conselhos de planeamento e contrôle terão ampla representatividade das autarquias locais, dos trabalhadores da RN e dos utentes.
 
@@ -320,21 +343,21 @@ Dos conselhos de planeamento e «contrôle»
 
 #### SECÇÃO V — Da comissão verificadora de contas
 
-###### Art. 23.º - 1. O Ministro das Finanças nomeará até 31 de Março de cada ano uma comissão verificadora de contas da empresa.
+Art. 23.º - 1. O Ministro das Finanças nomeará até 31 de Março de cada ano uma comissão verificadora de contas da empresa.
 
 2. A presidência da comissão a que se refere o número anterior compete ao representante do Ministro das Finanças no conselho geral.
 
 #### SECÇÃO VI — Disposições comuns
 
-###### Art. 24.º Os membros dos órgãos da RN são investidos, a título precário, por tempo indeterminado.
+Art. 24.º Os membros dos órgãos da RN são investidos, a título precário, por tempo indeterminado.
 
-###### Art. 25.º No caso de ser designado para exercer funções em algum dos órgãos da RN um funcionário público, este considerar-se-á em regime de comissão de serviço, sendo-lhe contado esse tempo para todos os efeitos, incluindo a aposentação e a sobrevivência.
+Art. 25.º No caso de ser designado para exercer funções em algum dos órgãos da RN um funcionário público, este considerar-se-á em regime de comissão de serviço, sendo-lhe contado esse tempo para todos os efeitos, incluindo a aposentação e a sobrevivência.
 
-###### Art. 26.º - 1. No caso de ser designado para qualquer dos órgãos da RN um trabalhador das empresas rodoviárias existentes, manterá este todos os direitos inerentes ao cargo de origem, não podendo ser por qualquer forma prejudicado pelo exercício das novas funções.
+Art. 26.º - 1. No caso de ser designado para qualquer dos órgãos da RN um trabalhador das empresas rodoviárias existentes, manterá este todos os direitos inerentes ao cargo de origem, não podendo ser por qualquer forma prejudicado pelo exercício das novas funções.
 
 2. Os membros dos órgãos da RN que antes da designação para tal cargo forem beneficiários da Previdência mantêm os mesmos direitos, competindo o pagamento das contribuições à empresa e ao beneficiário, segundo o regime geral.
 
-###### Art. 27.º - 1. O modo de funcionamento do conselho geral, do conselho executivo e do conselho de directores processar-se-á de acordo com o estatuído nos números seguintes.
+Art. 27.º - 1. O modo de funcionamento do conselho geral, do conselho executivo e do conselho de directores processar-se-á de acordo com o estatuído nos números seguintes.
 
 2. As deliberações são tomadas por maioria dos membros presentes, possuindo o presidente voto de qualidade.
 
@@ -358,17 +381,17 @@ b) Em folhas soltas, manuscritas ou dactilografadas, que serão arquivadas por o
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 28.º - 1. O trabalho prestado à empresa fica sujeito ao regime jurídico geral que regula a relação de trabalho, com as especialidades constantes dos números e artigos seguintes.
+Art. 28.º - 1. O trabalho prestado à empresa fica sujeito ao regime jurídico geral que regula a relação de trabalho, com as especialidades constantes dos números e artigos seguintes.
 
 2. Outros regimes especiais que de futuro haja que introduzir, exigidos pelas características próprias do serviço da empresa, constarão de decretos regulamentares referendados pelos Ministros dos Transportes e Comunicações e do Trabalho.
 
-###### Art. 29.º Podem exercer funções na empresa, em comissão de serviço, funcionários do Estado, dos institutos públicos ou das autarquias locais, que manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação e sobrevivência, considerando-se todo o período da comissão como prestado nesse mesmo quadro.
+Art. 29.º Podem exercer funções na empresa, em comissão de serviço, funcionários do Estado, dos institutos públicos ou das autarquias locais, que manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação e sobrevivência, considerando-se todo o período da comissão como prestado nesse mesmo quadro.
 
-###### Art. 30.º Os trabalhadores, através dos seus organismos representativos, serão ouvidos para a nomeação dos directores das unidades de exploração e demais chefes de departamentos, aos quais compete a direcção colegial das unidades.
+Art. 30.º Os trabalhadores, através dos seus organismos representativos, serão ouvidos para a nomeação dos directores das unidades de exploração e demais chefes de departamentos, aos quais compete a direcção colegial das unidades.
 
 ### CAPÍTULO IV — Da gestão financeira e patrimonial
 
-###### Art. 31.º - 1. Os Ministros para o Planeamento e Coordenação Económica e dos Transportes e Comunicações fixarão, em portaria conjunta, os limites máximos e mínimos dentro dos quais devem situar-se os preços do transporte rodoviário de passageiros, mercadorias e operações acessórias.
+Art. 31.º - 1. Os Ministros para o Planeamento e Coordenação Económica e dos Transportes e Comunicações fixarão, em portaria conjunta, os limites máximos e mínimos dentro dos quais devem situar-se os preços do transporte rodoviário de passageiros, mercadorias e operações acessórias.
 
 2. Compete à empresa, dentro dos limites referidos no n.º 1, estabelecer e diferenciar livremente os preços de transporte de passageiros, mercadorias e operações acessórias.
 
@@ -376,7 +399,7 @@ b) Em folhas soltas, manuscritas ou dactilografadas, que serão arquivadas por o
 
 4. As demais condições de transporte, quer de passageiros, quer de mercadorias, são estabelecidas de forma genérica nas tarifas, as quais serão aprovadas por despacho do Ministro dos Transportes e Comunicações e publicado na 2.ª série do Diário do Governo.
 
-###### Art. 32.º - 1. As tarifas são fixadas, tendo em atenção a utilidade social, assegurando o equilíbrio económico entre as receitas e os encargos.
+Art. 32.º - 1. As tarifas são fixadas, tendo em atenção a utilidade social, assegurando o equilíbrio económico entre as receitas e os encargos.
 
 2. No cálculo das tarifas ter-se-á em conta, designadamente:
 
@@ -390,9 +413,9 @@ d) A necessidade de crescimento e inovação tecnológica.
 
 3. Na fixação de tarifas relativas aos serviços internacionais serão também tomadas em consideração as disposições aplicáveis dos tratados, convenções e acordos em vigor.
 
-###### Art. 33.º A empresa pode celebrar contratos especiais de transporte de passageiros ou mercadorias em que se estabeleçam preços e demais condições de transporte diferentes dos referidos no artigo anterior.
+Art. 33.º A empresa pode celebrar contratos especiais de transporte de passageiros ou mercadorias em que se estabeleçam preços e demais condições de transporte diferentes dos referidos no artigo anterior.
 
-###### Art. 34.º - 1. A gestão financeira e patrimonial da RN será disciplinada pelas seguintes previsões:
+Art. 34.º - 1. A gestão financeira e patrimonial da RN será disciplinada pelas seguintes previsões:
 
 a) Programa de desenvolvimento e financeiro plurianual;
 
@@ -406,11 +429,11 @@ c) Orçamento anual.
 
 4. O orçamento será ordinário e extraordinário, prevendo-se no primeiro a conta de lucros e perdas, que tomará em consideração as previsões da conta de exploração, e no segundo as contas de estabelecimento e renovação.
 
-###### Art. 35.º - 1. Os programas, os orçamentos anuais e a contabilidade da RN serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
+Art. 35.º - 1. Os programas, os orçamentos anuais e a contabilidade da RN serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
 
 2. Na execução do orçamento e na contabilidade assegurar-se-á a fiscalização da arrecadação das receitas e da regularidade das despesas.
 
-###### Art. 36.º - 1. O orçamento será executado de modo que na efectivação das despesas se respeite o princípio da autorização dependente de cabimento na dotação orçamental.
+Art. 36.º - 1. O orçamento será executado de modo que na efectivação das despesas se respeite o princípio da autorização dependente de cabimento na dotação orçamental.
 
 2. O conselho executivo pode autorizar as transferências de verbas orçamentais que não se destinem a fins acessórios da exploração.
 
@@ -418,18 +441,18 @@ c) Orçamento anual.
 
 4. Depende também de deliberação do conselho executivo a transferência de verbas que reforcem dotações orçamentais destinadas a fins acessórios da exploração, nomeadamente fins sociais, culturais, beneficentes ou de previdência e de publicidade.
 
-###### Art. 37.º Nos cargos financeiros contabilizar-se-ão apenas juros, taxas, comissões e outras despesas respeitantes aos empréstimos contraídos, devendo as amortizações financeiras dos empréstimos ser levadas à conta de tesouraria.
+Art. 37.º Nos cargos financeiros contabilizar-se-ão apenas juros, taxas, comissões e outras despesas respeitantes aos empréstimos contraídos, devendo as amortizações financeiras dos empréstimos ser levadas à conta de tesouraria.
 
-###### Art. 38.º Se das receitas e despesas mencionadas nos artigos anteriores resultar um saldo positivo de exercício, será o mesmo aplicado na constituição de um fundo de autofinanciamento.
+Art. 38.º Se das receitas e despesas mencionadas nos artigos anteriores resultar um saldo positivo de exercício, será o mesmo aplicado na constituição de um fundo de autofinanciamento.
 
-###### Art. 39.º As disponibilidades que se não encontrem aplicadas e não sejam necessárias aos serviços de tesouraria podem aplicar-se na constituição de depósitos a prazo em instituições de crédito do Estado.
+Art. 39.º As disponibilidades que se não encontrem aplicadas e não sejam necessárias aos serviços de tesouraria podem aplicar-se na constituição de depósitos a prazo em instituições de crédito do Estado.
 
-###### Art. 40.º - 1. A empresa elaborará mensalmente um balancete da situação.
+Art. 40.º - 1. A empresa elaborará mensalmente um balancete da situação.
 
 2. Anualmente serão elaborados, com referência a 31 de Dezembro, o balanço e a conta de ganhos e perdas.
 
 3. Compete ao Governo aprovar até 31 de Março os documentos a que se refere o número anterior, os quais serão seguidamente publicados no Diário do Governo e num dos jornais diários de maior circulação, sendo também feita publicação em folheto avulso, com tiragem não inferior a 3000 exemplares, para distribuição gratuita.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/13403/00050010.pdf))](https://files.diariodarepublica.pt/1s/1975/06/13403/00050010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/13403/00050010.pdf)
 
-**O Ministro dos Transportes e Comunicações, Álvaro Augusto Veiga de Oliveira.**
+O Ministro dos Transportes e Comunicações, Álvaro Augusto Veiga de Oliveira.

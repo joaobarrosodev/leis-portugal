@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08500/08020802.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1977-139897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5779659ee78a959930640c654f92a315eaf0889df2a147fd86e738f4adf9c8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84cefb8a1ff20b251458c3a8ccbf12a7263796f8344357aba77d08a9830874d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Força Paramilitar
+- Funcionário Público
+- GNR
+- Guarda Fiscal
+- PSP
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:465430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465432:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:07Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +117,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os soldos a abonar mensalmente aos oficiais em serviço na Guarda Nacional Republicana (GNR), Guarda Fiscal (GF) e Polícia de Segurança Pública (PSP) serão dos quantitativos fixados para os oficiais das forças armadas.
+Artigo 1.º - 1. Os soldos a abonar mensalmente aos oficiais em serviço na Guarda Nacional Republicana (GNR), Guarda Fiscal (GF) e Polícia de Segurança Pública (PSP) serão dos quantitativos fixados para os oficiais das forças armadas.
 
 2. Os comandantes de divisão isolada, secção e adjuntos dos comandos distritais da PSP, quando oficiais subalternos, serão abonados do vencimento de primeiro-comissário.
 
@@ -126,16 +147,16 @@ Guarda e soldado ... 6500$00
 
 Guarda e soldado provisórios ... 5800$00
 
-###### Art. 2.º O disposto no n.º 1 do artigo 4.º dos Decretos-Leis n.os [615/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1974-465430) e [617/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/617-1974-465432), de 14 de Novembro, será tornado extensivo a todos os militares na situação de reserva.
+Art. 2.º O disposto no n.º 1 do artigo 4.º dos Decretos-Leis n.os [615/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1974-465430) e [617/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/617-1974-465432), de 14 de Novembro, será tornado extensivo a todos os militares na situação de reserva.
 
-###### Art. 3.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho dos Ministros das respectivas pastas, devendo, contudo, os assuntos ser sempre presentes ao Ministro das Finanças quando envolverem encargos financeiros.
+Art. 3.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho dos Ministros das respectivas pastas, devendo, contudo, os assuntos ser sempre presentes ao Ministro das Finanças quando envolverem encargos financeiros.
 
-###### Art. 4.º O presente decreto-lei produzirá efeitos desde 1 de Janeiro de 1977.
+Art. 4.º O presente decreto-lei produzirá efeitos desde 1 de Janeiro de 1977.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 30 de Março de 1977.**
+Promulgado em 30 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48156-1967-401520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75971c7c297c95ae765bb7934c42e2f3b67289ba48aca4b9796761e1de5ef356
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63cc6190823df82c744ab07182da0e54b9cc03fb1d5038c16bb6d43fb660c7aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Aeronáutica
+- Definição de Competências
+- Inspecção Geral da Força Aérea
+- Orgânica
+- Reestruturação de Serviços
+- Secretaria de Estado da Aeronáutica
 relationships:
 - type: amended_by
   target: pt:dre:376598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:43Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +107,15 @@ Considerando que a criação destes órgãos implica uma reorganização, em atr
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Secretaria de Estado da Aeronáutica compreende, além dos outros órgãos já existentes, os seguintes:
+Artigo 1.º A Secretaria de Estado da Aeronáutica compreende, além dos outros órgãos já existentes, os seguintes:
 
 A Inspecção-Geral da Força Aérea;
 
 O Conselho Superior de Disciplina da Força Aérea.
 
-###### Art. 2.º A Inspecção-Geral da Força Aérea, directamente dependente do chefe do Estado-Maior da Força Aérea, é um órgão de análise e fiscalização, sem carácter executivo, do funcionamento da Força Aérea.
+Art. 2.º A Inspecção-Geral da Força Aérea, directamente dependente do chefe do Estado-Maior da Força Aérea, é um órgão de análise e fiscalização, sem carácter executivo, do funcionamento da Força Aérea.
 
-###### Art. 3.º À Inspecção-Geral da Força Aérea compete:
+Art. 3.º À Inspecção-Geral da Força Aérea compete:
 
 a) Fiscalizar o cumprimento das disposições legais e regulamentares respeitantes à Força Aérea e das decisões do Secretário de Estado da Aeronáutica e do chefe do Estado-Maior da Força Aérea;
 
@@ -109,7 +123,7 @@ b) Propor medidas tendentes ao constante aperfeiçoamento da Força Aérea.
 
 § único. O inspector-geral da Força Aérea apresentará ao Secretário de Estado da Aeronáutica, através do chefe do Estado-Maior da Força Aérea, ou a este, relatórios da actividade levada a efeito.
 
-###### Art. 4.º A Inspecção-Geral da Força Aérea compreende:
+Art. 4.º A Inspecção-Geral da Força Aérea compreende:
 
 a) O general inspector-geral;
 
@@ -119,9 +133,9 @@ c) O ajudante de campo do inspector-geral;
 
 d) Pessoal necessário para assegurar o serviço de secretaria e arquivo.
 
-###### Art. 5.º Por diplomas especiais será fixado o quadro de pessoal e regulamentado o funcionamento da Inspecção-Geral da Força Aérea, sem prejuízo do disposto na parte final do artigo 69.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956.
+Art. 5.º Por diplomas especiais será fixado o quadro de pessoal e regulamentado o funcionamento da Inspecção-Geral da Força Aérea, sem prejuízo do disposto na parte final do artigo 69.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956.
 
-###### Art. 6.º Ao Conselho Superior de Disciplina da Força Aérea compete:
+Art. 6.º Ao Conselho Superior de Disciplina da Força Aérea compete:
 
 a) Julgar da capacidade profissional dos oficiais e aspirantes a oficial que revelem falta de energia, decisão ou de outros dotes militares ou qualidades essenciais para o exercício das suas funções;
 
@@ -141,7 +155,7 @@ e) Dar parecer sobre assuntos relativos a promoções, nomeadamente os que sejam
 
 f) Dar parecer sobre propostas relativas à concessão de medalhas quando, de acordo com a lei, devam ser por este Conselho examinadas ou que do antecedente competia à Comissão Técnica da Força Aérea apreciar.
 
-###### Art. 7.º O Conselho Superior de Disciplina da Força Aérea é constituído por cinco oficiais generais da Força Aérea, um dos quais, pelo menos, deve obrigatòriamente ser general, um oficial superior piloto aviador e um oficial superior de qualquer quadro, mais moderno do que aquele, podendo uns e outros ser do activo ou da reserva, competindo-lhes as seguintes funções:
+Art. 7.º O Conselho Superior de Disciplina da Força Aérea é constituído por cinco oficiais generais da Força Aérea, um dos quais, pelo menos, deve obrigatòriamente ser general, um oficial superior piloto aviador e um oficial superior de qualquer quadro, mais moderno do que aquele, podendo uns e outros ser do activo ou da reserva, competindo-lhes as seguintes funções:
 
 a) Presidente, ao general mais antigo;
 
@@ -155,11 +169,11 @@ d) Secretário, sem voto, ao oficial superior de qualquer quadro.
 
 § 2.º Os membros do Supremo Tribunal Militar não podem fazer parte do Conselho Superior de Disciplina da Força Aérea.
 
-###### Art. 8.º O Conselho Superior de Disciplina da Força Aérea será mandado convocar pelo Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe e do Estado-Maior da Força Aérea ou do presidente daquele Conselho.
+Art. 8.º O Conselho Superior de Disciplina da Força Aérea será mandado convocar pelo Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe e do Estado-Maior da Força Aérea ou do presidente daquele Conselho.
 
-###### Art. 9.º Os artigos 2.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º e seus parágrafos do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41310, 45668 e 45752, respectivamente de 8 de Outubro de 1957, de 18 de Abril de 1964 e de 4 de Junho de 1964, passam a ter a redacção que se segue:
+Art. 9.º Os artigos 2.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º e seus parágrafos do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41310, 45668 e 45752, respectivamente de 8 de Outubro de 1957, de 18 de Abril de 1964 e de 4 de Junho de 1964, passam a ter a redacção que se segue:
 
-###### Art. 2.º A Secretaria de Estado da Aeronáutica superintende na administração, manutenção e preparação da Força Aérea, assim como no planeamento das operações aéreas, compreendendo:
+Art. 2.º A Secretaria de Estado da Aeronáutica superintende na administração, manutenção e preparação da Força Aérea, assim como no planeamento das operações aéreas, compreendendo:
 
 O Gabinete do Secretário de Estado da Aeronáutica;
 
@@ -175,7 +189,7 @@ A Comissão Técnica da Força Aérea.
 
 ...
 
-###### Art. 18.º O Conselho Superior da Aeronáutica é um órgão consultivo, carecendo os seus pareceres de homologação do Ministro da Defesa Nacional, ouvido o Secretário de Estado da Aeronáutica.
+Art. 18.º O Conselho Superior da Aeronáutica é um órgão consultivo, carecendo os seus pareceres de homologação do Ministro da Defesa Nacional, ouvido o Secretário de Estado da Aeronáutica.
 
 § 1.º O Conselho Superior da Aeronáutica é obrigatòriamente consultado sobre as altas questões respeitantes à doutrina de emprego, à organização, à constituição e à preparação da Força Aérea e relativas à mobilização de pessoal, material e infra-estruturas e organismos necessários à mesma Força Aérea, em caso de emergência ou de guerra.
 
@@ -195,7 +209,7 @@ f) Dar parecer acerca da graduação no posto de brigadeiro.
 
 § 3.º Ao Conselho Superior da Aeronáutica compete igualmente dar pareceres sobre questões que o Ministro da Defesa Nacional ou o Secretário de Estado da Aeronáutica entendam submeter à sua apreciação e não devam, pela sua natureza, ser examinados por outros órgãos.
 
-###### Art. 19.º O Conselho Superior da Aeronáutica tem a seguinte constituição:
+Art. 19.º O Conselho Superior da Aeronáutica tem a seguinte constituição:
 
 Presidente - Chefe do Estado-Maior General da Forças Armadas.
 
@@ -223,13 +237,13 @@ Outros generais do activo da Força Aérea, quando o presidente os mandar convoc
 
 § 4.º O expediente e o arquivo do Conselho Superior da Aeronáutica são assegurados pelo Gabinete da Chefia do Estado-Maior da Força Aérea.
 
-###### Art. 20.º O Conselho Superior da Aeronáutica reúne por determinação do Ministro da Defesa Nacional ou do Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior General das Forças Armadas ou do chefe do Estado-Maior da Força Aérea.
+Art. 20.º O Conselho Superior da Aeronáutica reúne por determinação do Ministro da Defesa Nacional ou do Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior General das Forças Armadas ou do chefe do Estado-Maior da Força Aérea.
 
-**O Ministro da Defesa Nacional ou o Secretário de Estado da Aeronáutica podem presidir às reuniões do Conselho Superior da Aeronáutica.**
+O Ministro da Defesa Nacional ou o Secretário de Estado da Aeronáutica podem presidir às reuniões do Conselho Superior da Aeronáutica.
 
 Sempre que o Ministro da Defesa Nacional presida às reuniões do Conselho Superior da Aeronáutica, nelas deve participar também o Secretário de Estado da Aeronáutica.
 
-###### Art. 21.º A Comissão Técnica da Força Aérea é um órgão consultivo, carecendo os seus pareceres de homologação do Secretário de Estado da Aeronáutica.
+Art. 21.º A Comissão Técnica da Força Aérea é um órgão consultivo, carecendo os seus pareceres de homologação do Secretário de Estado da Aeronáutica.
 
 § 1.º A Comissão Técnica da Força Aérea é obrigatòriamente consultada sobre todos os assuntos, em especial os de natureza técnica, importantes para a eficiência da Força Aérea e que não tenham de ser examinados pelo Conselho Superior da Aeronáutica.
 
@@ -247,7 +261,7 @@ e) Dar parecer sobre a escolha dos concorrentes a nomear para a frequência da E
 
 § 3.º À Comissão Técnica da Força Aérea compete igualmente dar pareceres sobre questões que o Secretário de estado da Aeronáutica entenda submeter à sua apreciação e não devam, pela sua natureza, ser examinados por outros órgãos.
 
-###### Art. 22.º A Comissão Técnica da Força Aérea tem a seguinte constituição:
+Art. 22.º A Comissão Técnica da Força Aérea tem a seguinte constituição:
 
 Presidente - Chefe do Estado-Maior da Força Aérea.
 
@@ -273,9 +287,9 @@ Directores dos Serviços da Força Aérea.
 
 § 3.º Durante as reuniões desempenha as funções de secretário o chefe do Gabinete da Chefia do Estado-Maior da Força Aérea, cabendo a este assegurar o expediente e o arquivo da Comissão Técnica da Força Aérea.
 
-###### Art. 23.º A Comissão Técnica da Força Aérea reúne por determinação do Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior da Força Aérea. O Secretário de Estado da Aeronáutica pode presidir às reuniões da Comissão Técnica da Força Aérea.
+Art. 23.º A Comissão Técnica da Força Aérea reúne por determinação do Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior da Força Aérea. O Secretário de Estado da Aeronáutica pode presidir às reuniões da Comissão Técnica da Força Aérea.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Alberto de Oliveira.
 

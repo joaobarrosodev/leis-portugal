@@ -50,36 +50,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1971-632912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84317db02f6f6321e087c00af19cf61bcb2dc88efac13c450854c9415984011b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d058524368046620dafca1acd484b48d93586d837cf7047aa33a90341acb5ed3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Transporte
+- Bagagem
+- Berna
+- Convenção
+- Indemnização
+- Reclamação
+- Responsabilidade Civil
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:10Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +100,7 @@ de 7 de Outubro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único - 1. São aprovados, para ratificação, a Convenção Adicional à Convenção Internacional Relativa ao Transporte de Passageiros e Bagagens por Caminho de Ferro (CIV), de 25 de Fevereiro de 1961, relativa à responsabilidade do caminho de ferro pela morte e ferimentos dos passageiros, e seus Protocolos A e B, bem como a Acta final da Conferência extraordinária reunida com o fim de designar os membros da Comissão Administrativa da Repartição Central dos Transportes Internacionais por Caminho de Ferro e de adoptar aquela Convenção Adicional, que teve lugar em Berna, de 21 a 26 de Fevereiro de 1966.
+Artigo único - 1. São aprovados, para ratificação, a Convenção Adicional à Convenção Internacional Relativa ao Transporte de Passageiros e Bagagens por Caminho de Ferro (CIV), de 25 de Fevereiro de 1961, relativa à responsabilidade do caminho de ferro pela morte e ferimentos dos passageiros, e seus Protocolos A e B, bem como a Acta final da Conferência extraordinária reunida com o fim de designar os membros da Comissão Administrativa da Repartição Central dos Transportes Internacionais por Caminho de Ferro e de adoptar aquela Convenção Adicional, que teve lugar em Berna, de 21 a 26 de Fevereiro de 1966.
 
 2. Em conformidade com o § 2.º do artigo 1.º da referida Convenção Adicional, esta é aprovada com a seguinte declaração:
 
@@ -100,11 +110,11 @@ O Governo Português reserva-se o direito de não aplicar a presente Convenção
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convention additionnelle à la Convention internationale concernant le transport des voyageurs et des bagages par chemins de fer (CIV) du 25 février 1961, relative à la responsabilité du chemin de fer pour la mort et les blessures de voyageurs.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,200 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c548187b5a8bb860261cff6674e026845a5a3b27ee9daf8ca60a6f272746768
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c07053b15c7bf4d88d0cc6bc4149e3eba70acc5c8051c37a58f1bb80a7a5cf62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Habitação e Obras Públicas
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563639:por
+  label: "Alterado o quadro de pessoal aprovado pelo Decreto-Lei 519-Z/79, de 29 de Dezembro, na redacção do presente diploma,\
+    \ pela PORT.871/81.28.09.1981.MFP, DR.IS [223] de 28.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/871-1981-563639
+  date: '1981-09-28'
+- type: amended_by
+  target: pt:dre:406159:por
+  label: Alterado o mapa II anexo pelo(a) Decreto-Lei n.º 207-B/82 - Diário da República n.º 118/1982, 1º Suplemento, Série
+    I de 1982-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-b-1982-406159
+  date: '1982-05-25'
+- type: cites
+  target: pt:dre:139239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685590:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:471344:por
+  label: Rectificado pela DECL.DD6970.15.07.1980.PCM, DR.IS [161] de 15.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471344
+  date: '1980-07-15'
+- type: corrected_by
+  target: pt:dre:470413:por
+  label: Rectificada a Declaração DD6970, de 15 de Julho de 1980, que rectificou o presente diploma, pela DECL.DD6935.09.08.1980.PCM,
+    DR.IS [183] de 09.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470413
+  date: '1980-08-09'
+- type: repealed_by
+  target: pt:dre:442320:por
+  label: "Revogados os artigos 60.º e 65.º pelo DEC LEI.360/83.14.09.1983.PCM, DR.IS [212] de 14.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1983-442320
+  date: '1983-09-14'
+- type: repealed_by
+  target: pt:dre:221729:por
+  label: "Revogado o disposto no art. 70.º do presente diploma, nas matérias que forem incompatíveis com a natureza de carreira\
+    \ horizontal reconhecida pelo mesmo diploma, aos fiéis de armazém, pelo DEC LEI.338/86.02.10.1986.MOPTC, DR.IS [227] de\
+    \ 02.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1986-221729
+  date: '1986-10-02'
+- type: repealed_by
+  target: pt:dre:618935:por
+  label: "Revogados os artigos 27.º e 39.º pelo DEC LEI.236/89.26.07.1989.MOPTC, DR.IS [170] de 26.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1989-618935
+  date: '1989-07-26'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 5
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 44
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:20Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +342,7 @@ Os encargos emergentes da execução deste diploma serão custeados no corrente 
 
 Artigos 21.º a 29.º, inclusive, 31.º, 32.º e 35.º a 40.º, inclusive, do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, com as alterações introduzidas pelos Decretos-Leis n.os 31935 e 41106, de 23 de Março de 1942 e 13 de Maio de 1957, respectivamente;
 
-###### Artigo 3.º do [Decreto-Lei n.º 27695](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27695-1937-426148), de 13 de Maio de 1937, com as alterações introduzidas pelo [Decreto-Lei n.º 47514](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47514-1967-500731), de 26 de Janeiro de 1967;
+Artigo 3.º do [Decreto-Lei n.º 27695](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27695-1937-426148), de 13 de Maio de 1937, com as alterações introduzidas pelo [Decreto-Lei n.º 47514](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47514-1967-500731), de 26 de Janeiro de 1967;
 
 Decreto-Lei n.º 27770, de 23 de Junho de 1937;
 
@@ -196,7 +356,7 @@ Decreto-Lei n.º 27770, de 23 de Junho de 1937;
 
 Artigos 2.º, 3.º, alíneas d), e), f), g), i), l), m), 4.º a 10.º, inclusive, e 13.º e 14.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968, com as alterações introduzidas pelos Decretos-Leis n.os 48943 e 372/70, de 28 de Março de 1969 e de 11 de Agosto, respectivamente, e pelo [Decreto n.º 14/77](https://diariodarepublica.pt/dr/detalhe/decreto/14-1977-141377), de 12 de Fevereiro;
 
-###### Artigo 4.º do [Decreto-Lei n.º 49283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49283-1969-216112), de 4 de Outubro de 1969, com as alterações introduzidas pelo [Decreto-Lei n.º 372/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1970-139239), de 11 de Agosto;
+Artigo 4.º do [Decreto-Lei n.º 49283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49283-1969-216112), de 4 de Outubro de 1969, com as alterações introduzidas pelo [Decreto-Lei n.º 372/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1970-139239), de 11 de Agosto;
 
 Artigos 6.º, n.º 4, 29.º e 31.º a 34.º, inclusive, do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro;
 
@@ -204,13 +364,13 @@ Artigos 3.º e 4.º do [Decreto-Lei n.º 525/72](https://diariodarepublica.pt/dr
 
 Artigos 20.º a 22.º, inclusive, do [Decreto-Lei n.º 605/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1972-163788), de 30 de Dezembro;
 
-###### Artigo 1.º do [Decreto-Lei n.º 118/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1975-160715), de 8 de Março;
+Artigo 1.º do [Decreto-Lei n.º 118/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1975-160715), de 8 de Março;
 
 [Decreto-Lei n.º 458/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1975-314915), de 22 de Agosto;
 
-###### Artigo 9.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro;
+Artigo 9.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro;
 
-###### Artigo 7.º, n.os 2 e 3, do [Decreto-Lei n.º 117-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-e-1976-183070), de 10 de Fevereiro;
+Artigo 7.º, n.os 2 e 3, do [Decreto-Lei n.º 117-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-e-1976-183070), de 10 de Fevereiro;
 
 Artigos 11.º e 13.º a 21.º, inclusive, do [Decreto-Lei n.º 195/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1977-252196), de 14 de Maio;
 
@@ -238,7 +398,7 @@ a) Departamentos comuns ao MHOP e ao Ministério dos Transportes e Comunicaçõe
 
 b) Serviços públicos autónomos sob tutela do MHOP.
 
-# PARTE I — Espécies de pessoal
+## PARTE I — Espécies de pessoal
 
 ###### ARTIGO 2.º — (Pessoal dos quadros)
 
@@ -268,7 +428,7 @@ b) Serviços públicos autónomos sob tutela do MHOP.
 
 2 - O destacamento e a requisição efectuar-se-ão por despacho do Ministro da Habitação e Obras Públicas, por sua iniciativa ou por proposta dos órgãos dirigentes dos respectivos serviços, com o acordo do Ministro de quem os indivíduos a destacar ou requisitar dependam, aplicando-se, no restante, o regime estabelecido na legislação do serviço de origem ou, quando esta seja omissa, o regime estabelecido nos artigos 86.º a 89.º, inclusive, deste diploma.
 
-# PARTE II — Quadros de pessoal
+## PARTE II — Quadros de pessoal
 
 ## TÍTULO I — Disposições gerais
 
@@ -818,7 +978,7 @@ O provimento do pessoal dirigente será efectuado nos termos da lei geral, com e
 
 3 - O pessoal de provimento definitivo conservará esta situação na respectiva carreira, independentemente do quadro em que preste serviço.
 
-# PARTE III — Movimento do pessoal
+## PARTE III — Movimento do pessoal
 
 ### CAPÍTULO I — Colocação do pessoal
 
@@ -900,7 +1060,7 @@ O destacamento e a requisição dependerão do acordo do interessado e processar
 
 2 - Quando o destacamento ou a requisição se façam para localidade diferente daquela em que o interessado se encontra colocado, este tem direito aos subsídios referidos no artigo 80.º, que constituirão encargo do organismo para onde for destacado ou requisitado.
 
-# PARTE IV — Formação profissional
+## PARTE IV — Formação profissional
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -994,7 +1154,7 @@ Com vista à formação permanente do pessoal, serão promovidos cursos em colab
 
 2 - Cada lição proferida pelos monitores será remunerada nos quantitativos que vierem a ser fixados por despacho conjunto dos Ministros da Habitação e Obras Públicas, das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, nos termos da lei geral.
 
-# PARTE V — Concursos
+## PARTE V — Concursos
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1100,7 +1260,7 @@ e) Frequência, com aproveitamento, de cursos e estágios adequados ao exercíci
 
 2 - No caso de se verificar igual classificação no conjunto das provas prestadas por dois ou mais concorrentes, atender-se-á, com vista a estabelecer a ordem relativa da sua classificação final, aos factores referidos no artigo anterior, consoante a natureza do respectivo concurso, e cuja ponderação será fixada em regulamento.
 
-# PARTE VI — Classificações de serviço
+## PARTE VI — Classificações de serviço
 
 ###### ARTIGO 113.º — (Classificação de serviço anual)
 
@@ -1124,7 +1284,7 @@ O mérito profissional dos funcionários e agentes, com excepção dos órgãos 
 
 Das classificações de serviço será dado conhecimento aos interessados, que delas poderão reclamar para a própria entidade que deu a classificação ou recorrer para o Ministro, cabendo, das decisões deste, recurso contencioso nos termos da lei geral.
 
-# PARTE VII — Disposições diversas
+## PARTE VII — Disposições diversas
 
 ###### ARTIGO 117.º — (Direitos e deveres gerais e especiais)
 
@@ -1162,20 +1322,20 @@ As funções de encarregado de refeitório serão desempenhadas por um segundo-o
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o artigo 2.º do regime do pessoal anexo ao Decreto-Lei n.º 183/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf))](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf)
 
 Mapa II a que se refere o artigo 1.º do Decreto-Lei n.º 183/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf))](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf)
 
 Mapa III a que se refere o artigo 1.º do Decreto-Lei n.º 183/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf))](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/12900/13101335.pdf)

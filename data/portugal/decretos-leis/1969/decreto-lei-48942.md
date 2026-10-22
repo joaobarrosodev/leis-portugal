@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48942-1969-526035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 010ac695230621754c8a3ed38dcc576561366ec80dffdc4951268d5a343e4c69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da911b193e3ad878755a676f39c04557347c6928bf2d7056a64c41e5428a9cf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Deslocação em Serviço
+- Militar
+- Ministro do Ultramar
+- Pessoal Civil
+- Presidência da República
+- Presidente do Conselho de Ministros
+- Remuneração
+- Subsídio
+- Ultramar
+- Viagem Oficial
+relationships:
+- type: cites
+  target: pt:dre:217761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313994:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:55Z'
   warnings: []
   errors: []
 ---
@@ -85,31 +104,31 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Chefe do Estado, quando se deslocar ao ultramar, indicará o pessoal civil e militar da Presidência da República e de qualquer Ministério e as restantes pessoas que o hão-de acompanhar.
+Artigo 1.º O Chefe do Estado, quando se deslocar ao ultramar, indicará o pessoal civil e militar da Presidência da República e de qualquer Ministério e as restantes pessoas que o hão-de acompanhar.
 
 § 1.º Na província ultramarina onde se encontrar poderá o Chefe do Estado designar oficiais das forças armadas, qualquer que seja a sua situação na província, para seus ajudantes e oficiais às ordens e indicar para o seu serviço na província quaisquer funcionários dela.
 
 § 2.º Tem aplicação aos oficiais referidos no parágrafo anterior o disposto no § 2.º do artigo 4.º do [Decreto-Lei n.º 32057](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32057-1942-313994), de 2 de Junho de 1942.
 
-###### Art. 2.º Quando o Presidente do Conselho de Ministros se deslocar ao ultramar, indicará as pessoas que o hão-de acompanhar.
+Art. 2.º Quando o Presidente do Conselho de Ministros se deslocar ao ultramar, indicará as pessoas que o hão-de acompanhar.
 
-###### Art. 3.º Ao Ministro do Ultramar, quando acompanhar o Chefe do Estado, aplicar-se-á o disposto no artigo 4.º e seu § 2.º do [Decreto-Lei n.º 32057](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32057-1942-313994), de 2 de Junho de 1942.
+Art. 3.º Ao Ministro do Ultramar, quando acompanhar o Chefe do Estado, aplicar-se-á o disposto no artigo 4.º e seu § 2.º do [Decreto-Lei n.º 32057](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32057-1942-313994), de 2 de Junho de 1942.
 
-###### Art. 4.º O Conselho de Ministros fixará a verba necessária para despesas extraordinárias de deslocação do Chefe do Estado ou do Presidente do Conselho de Ministros durante as suas visitas ao ultramar.
+Art. 4.º O Conselho de Ministros fixará a verba necessária para despesas extraordinárias de deslocação do Chefe do Estado ou do Presidente do Conselho de Ministros durante as suas visitas ao ultramar.
 
-###### Art. 5.º Além de todas as passagens e das ajudas de custo de embarque, abonadas nos termos gerais da legislação em vigor, o Ministro do Ultramar e os funcionários civis e militares que acompanharem o Chefe do Estado, o Presidente do Conselho de Ministros e o referido Ministro têm direito durante as viagens e estadas no ultramar a todos os vencimentos dos seus cargos na metrópole e ao subsídio diário que for estabelecido pelo Conselho de Ministros.
+Art. 5.º Além de todas as passagens e das ajudas de custo de embarque, abonadas nos termos gerais da legislação em vigor, o Ministro do Ultramar e os funcionários civis e militares que acompanharem o Chefe do Estado, o Presidente do Conselho de Ministros e o referido Ministro têm direito durante as viagens e estadas no ultramar a todos os vencimentos dos seus cargos na metrópole e ao subsídio diário que for estabelecido pelo Conselho de Ministros.
 
 § único. No caso de o Chefe do Estado ou o Presidente do Conselho de Ministros se fazerem acompanhar por um médico, terá este direito a passagens e à remuneração, ajuda de custo de embarque e subsídio diário que for fixado pelo Conselho de Ministros. As restantes pessoas da comitiva do Chefe do Estado ou do Presidente do Conselho de Ministros terão direito a passagens.
 
-###### Art. 6.º Todas as despesas a que se referem os artigos 4.º e 5.º serão suportadas pelo orçamento metropolitano.
+Art. 6.º Todas as despesas a que se referem os artigos 4.º e 5.º serão suportadas pelo orçamento metropolitano.
 
-###### Art. 7.º Fica revogado o [Decreto-Lei n.º 39629](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39629-1954-217761), de 3 de Maio de 1954.
+Art. 7.º Fica revogado o [Decreto-Lei n.º 39629](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39629-1954-217761), de 3 de Maio de 1954.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Março de 1969.**
+Promulgado em 19 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Março de 1969 - AMÉRICO DEUS RODRIGUES THOMAZ.
 

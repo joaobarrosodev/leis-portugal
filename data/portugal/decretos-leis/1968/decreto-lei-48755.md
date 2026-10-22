@@ -48,40 +48,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cf3c9d77b7b74bd5c29a0817a200f2f23ffa3d104879b7d891ef483c61dba9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f1094b8620a55f3d408672b75fdca621f4762c7be7591ccf0c3931344a74fca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Aposentação
+- Caixa Geral de Aposentações
+- Código Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral dos Serviços Pecuários
+- Formas de Provimento
+- Gratificação
+- Indemnização
+- Junta Geral
+- Junta Nacional dos Produtos Pecuários
+- Madeira.ilha Adjacente
+- Remuneração
+- Remuneração Acessória
+- Tempo de Serviço
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:312423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198896:por
+  label: "Introduzidos os §§ 1º(este com efeitos a partir de 01.03.1969) e 2º ao art. 6º pelo DEC LEI.49174.06.08.1969.MI,\
+    \ DG.IS [183] de 06.08.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49174-1969-198896
+  date: '1969-08-06'
+- type: amended_by
+  target: pt:dre:312423:por
+  label: "Extintas as subintendências de pecuária criadas neste diploma pelo DEC LEI.143/83.30.03.1983.MFP, DR.IS [74] de\
+    \ 30.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1983-312423
+  date: '1983-03-30'
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527074:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:45Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +147,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Em cada concelho do continente e das ilhas adjacentes onde exista partido veterinário funcionará uma subintendência de pecuária.
+Artigo 1.º Em cada concelho do continente e das ilhas adjacentes onde exista partido veterinário funcionará uma subintendência de pecuária.
 
 § único. Quando dois ou mais partidos veterinários estiverem providos nos termos dos §§ 1.º a 3.º do artigo 152.º do Código Administrativo, haverá uma só subintendência de pecuária para os concelhos associados.
 
-###### Art. 2.º Cada subintendência de pecuária estará a cargo de um subintendente de pecuária, nomeado pelo Secretário de Estado da Agricultura.
+Art. 2.º Cada subintendência de pecuária estará a cargo de um subintendente de pecuária, nomeado pelo Secretário de Estado da Agricultura.
 
 § único. Nos concelhos em que exista mais do que um partido veterinário e o volume de serviço o justifique, poderá o Secretário de Estado da Agricultura nomear tantos subintendentes de pecuária quantos os partidos.
 
-###### Art. 3.º Nos concelhos onde não exista partido veterinário municipal ou onde este se encontre vago, as funções de subintendente de pecuária serão exercidas pelo subintendente de pecuária que for designado pelo director-geral dos Serviços Pecuários, tendo em conta as necessidades do serviço e os meios de comunicação existentes.
+Art. 3.º Nos concelhos onde não exista partido veterinário municipal ou onde este se encontre vago, as funções de subintendente de pecuária serão exercidas pelo subintendente de pecuária que for designado pelo director-geral dos Serviços Pecuários, tendo em conta as necessidades do serviço e os meios de comunicação existentes.
 
-###### Art. 4.º Compete aos subintendentes de pecuária coadjuvar os intendentes de pecuária em tudo o que respeita à saúde dos animais e ao fomento pecuário, bem como à higiene pública, nos termas das leis e regulamentos em vigor, desempenhando, para o efeito, as funções que lhes forem determinadas pela Direcção-Geral dos Serviços Pecuários.
+Art. 4.º Compete aos subintendentes de pecuária coadjuvar os intendentes de pecuária em tudo o que respeita à saúde dos animais e ao fomento pecuário, bem como à higiene pública, nos termas das leis e regulamentos em vigor, desempenhando, para o efeito, as funções que lhes forem determinadas pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 5.º As funções de subintendente de pecuária serão exercidas pelo veterinário municipal do respectivo partido veterinário.
+Art. 5.º As funções de subintendente de pecuária serão exercidas pelo veterinário municipal do respectivo partido veterinário.
 
-###### Art. 6.º Os veterinários municipais perceberão mensalmente, pelo exercício das funções de subintendente de pecuária, complemento de vencimento, pago por dotação a considerar na verba do pessoal dos quadros aprovados por lei, da Direcção-Geral dos Serviços Pecuários, na seguinte conformidade:
+Art. 6.º Os veterinários municipais perceberão mensalmente, pelo exercício das funções de subintendente de pecuária, complemento de vencimento, pago por dotação a considerar na verba do pessoal dos quadros aprovados por lei, da Direcção-Geral dos Serviços Pecuários, na seguinte conformidade:
 
 Subintendente de pecuária em concelhos de 1.ª ordem - 1800$00;
 
@@ -130,35 +171,35 @@ Subintendente de pecuária em concelhos de 3.ª ordem - 1300$00.
 
 § único. Havendo lugar ao aumento do complemento de vencimento do subintendente de pecuária por virtude de mudança da ordem administrativa do concelho, será o excesso transitòriamente pago pelas disponibilidades das dotações para pessoal dos quadros da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 7.º A concessão de quaisquer licenças aos veterinários municipais e a justificação de quaisquer outras faltas ao serviço produz efeitos relativamente ao cargo do subintendente de pecuária.
+Art. 7.º A concessão de quaisquer licenças aos veterinários municipais e a justificação de quaisquer outras faltas ao serviço produz efeitos relativamente ao cargo do subintendente de pecuária.
 
 § único. A licença graciosa ou ilimitada carece de parecer favorável da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 8.º Para efeitos de aposentação dos subintendentes de pecuária será contado o tempo de serviço prestado como veterinário municipal anteriormente à nomeação para aquele cargo.
+Art. 8.º Para efeitos de aposentação dos subintendentes de pecuária será contado o tempo de serviço prestado como veterinário municipal anteriormente à nomeação para aquele cargo.
 
 § único. A indemnização à Caixa Geral de Aposentações relativa àquela contagem será calculada em função do vencimento do cargo de subintendente de pecuária, com observância das disposições aplicáveis do artigo 12.º e seus §§ 1.º e 2.º do Decreto n.º 26503, de 6 de Abril de 1936, e artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
 
-###### Art. 9.º Os subintendentes de Pecuária e veterinários municipais serão sempre aposentados, simultâneamente, pelos dois cargos.
+Art. 9.º Os subintendentes de Pecuária e veterinários municipais serão sempre aposentados, simultâneamente, pelos dois cargos.
 
-###### Art. 10.º Os serviços mandados executar pela Direcção-Geral dos Serviços Pecuários que tenham carácter de campanhas que obriguem a intervenções repetidas em tempo predeterminado, serão remunerados nos termos que forem fixados por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças.
+Art. 10.º Os serviços mandados executar pela Direcção-Geral dos Serviços Pecuários que tenham carácter de campanhas que obriguem a intervenções repetidas em tempo predeterminado, serão remunerados nos termos que forem fixados por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças.
 
-###### Art. 11.º Para todos os efeitos legais, designadamente para atribuição de quaisquer abonos ou regalias e para determinação dos descontos obrigatórios que lhes competirem, quando uns e outros estejam relacionados com escalões de vencimentos, considera-se remuneração dos subintendentes de pecuária e veterinários municipais o somatório do ordenado e complemento de vencimento auferido pelo desempenho dos mencionados cargos.
+Art. 11.º Para todos os efeitos legais, designadamente para atribuição de quaisquer abonos ou regalias e para determinação dos descontos obrigatórios que lhes competirem, quando uns e outros estejam relacionados com escalões de vencimentos, considera-se remuneração dos subintendentes de pecuária e veterinários municipais o somatório do ordenado e complemento de vencimento auferido pelo desempenho dos mencionados cargos.
 
-###### Art. 12.º Salvo nos casos em que haja lugar ao abono referido no artigo 10.º deste diploma, todas as deslocações que os subintendentes de pecuária sejam abrigados a efectuar no exercício das suas funções darão direito ao abono para despesas de transportes e a ajudas de custo, de harmonia com os preceitos gerais aplicáveis à generalidade dos servidores do Estado.
+Art. 12.º Salvo nos casos em que haja lugar ao abono referido no artigo 10.º deste diploma, todas as deslocações que os subintendentes de pecuária sejam abrigados a efectuar no exercício das suas funções darão direito ao abono para despesas de transportes e a ajudas de custo, de harmonia com os preceitos gerais aplicáveis à generalidade dos servidores do Estado.
 
-###### Art. 13.º Constitui encargo das juntas gerais dos distritos autónomos das ilhas adjacentes o pagamento dos complementos de vencimentos e demais abonos a que tenham direito os subintendentes de pecuária dos mesmos distritos.
+Art. 13.º Constitui encargo das juntas gerais dos distritos autónomos das ilhas adjacentes o pagamento dos complementos de vencimentos e demais abonos a que tenham direito os subintendentes de pecuária dos mesmos distritos.
 
-###### Art. 14.º Os poderes conferidos neste decreto-lei à Direcção-Geral dos Serviços Pecuários competem, nas ilhas adjacentes, às respectivos juntas gerais.
+Art. 14.º Os poderes conferidos neste decreto-lei à Direcção-Geral dos Serviços Pecuários competem, nas ilhas adjacentes, às respectivos juntas gerais.
 
-###### Art. 15.º A subintendente de pecuária compete, na área do partido veterinário onde tenha fixada a sua residência oficial, o desempenho das funções de subdelegado da Junta Nacional dos Produtos Pecuários sempre que nessa área exista subdelegação deste organismo.
+Art. 15.º A subintendente de pecuária compete, na área do partido veterinário onde tenha fixada a sua residência oficial, o desempenho das funções de subdelegado da Junta Nacional dos Produtos Pecuários sempre que nessa área exista subdelegação deste organismo.
 
 § 1.º A Junta Nacional dos Produtos Pecuários depositará nos cofres do Estado e nos das juntas gerais dos distritos autónomos o valor das gratificações que correspondam às funções de subdelegado, a que se refere o corpo deste artigo, respectivamente no continente e nas ilhas adjacentes.
 
 § 2.º Aqueles depósitos serão efectuados até ao dia 10 do mês seguinte àquele a que essas gratificações respeitam, mediante guias a emitir pela Direcção-Geral dos Serviços Pecuários, no que se refere ao continente, e pelas juntas gerais dos distritos autónomos, no que se refere às ilhas adjacentes.
 
-###### Art. 16.º Consideram-se providos a partir do início da vigência deste decreto-lei nos cargos de subintendente de pecuária, independentemente de quaisquer formalidades, incluindo o visto do Tribunal de Contas, os veterinários municipais constantes da relação que entretanto será publicada pela Secretaria de Estado da Agricultura.
+Art. 16.º Consideram-se providos a partir do início da vigência deste decreto-lei nos cargos de subintendente de pecuária, independentemente de quaisquer formalidades, incluindo o visto do Tribunal de Contas, os veterinários municipais constantes da relação que entretanto será publicada pela Secretaria de Estado da Agricultura.
 
-###### Art. 17.º O capítulo V da tabela A anexa ao Código Administrativo passa a ter a seguinte redacção:
+Art. 17.º O capítulo V da tabela A anexa ao Código Administrativo passa a ter a seguinte redacção:
 
 Ordenados do pessoal maior dos serviços especiais:
 
@@ -174,17 +215,17 @@ Nos concelhos de 3.ª ordem ... 2700$00
 
 ...
 
-###### Art. 18.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Ministro do Interior e do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças quando se trate de matéria de natureza financeira.
+Art. 18.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Ministro do Interior e do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças quando se trate de matéria de natureza financeira.
 
-###### Art. 19.º Ficam revogados o artigo 9.º do [Decreto-Lei n.º 37051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37051-1948-372262), de 9 de Setembro de 1948, e o [Decreto-Lei n.º 39122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39122-1953-527074), de 4 de Março de 1953.
+Art. 19.º Ficam revogados o artigo 9.º do [Decreto-Lei n.º 37051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37051-1948-372262), de 9 de Setembro de 1948, e o [Decreto-Lei n.º 39122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39122-1953-527074), de 4 de Março de 1953.
 
-###### Art. 20.º Este decreto-lei entra em vigor no dia 1 do mês seguinte àquele em que se completarem sessenta dias após a sua publicação. Entretanto serão publicadas, para entrarem em vigor na mesma data, as alterações orçamentais necessárias à execução deste diploma, as quais poderão ter lugar mediante simples decreto referendado pelo Ministro das Finanças e o Secretário de Estado da Agricultura.
+Art. 20.º Este decreto-lei entra em vigor no dia 1 do mês seguinte àquele em que se completarem sessenta dias após a sua publicação. Entretanto serão publicadas, para entrarem em vigor na mesma data, as alterações orçamentais necessárias à execução deste diploma, as quais poderão ter lugar mediante simples decreto referendado pelo Ministro das Finanças e o Secretário de Estado da Agricultura.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - João José Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado.
 
-**Promulgado em 30 de Novembro de 1968.**
+Promulgado em 30 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

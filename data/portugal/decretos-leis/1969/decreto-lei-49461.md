@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/30100/18401841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49461-1969-212869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdbd8205fab7e24a737727dd860c7404ed6ceb35b7bc693a067ac94967120bd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5115724f8124493d38332a76e069b5dbd02f79150101bbbad232a4b9e6aa669
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direção
+- Gestão Financeira
+- Instituto de Altos Estudos de Defesa Nacional
+- Presidência do Conselho
+- Secretariado Geral da Defesa Nacional
 relationships:
 - type: amended_by
   target: pt:dre:181629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:401543:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181629:por
+  label: "Revogado pelo DEC LEI.550-D/76.12.07.1976.CR, DR.IS [161]Supl de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-d-1976-181629
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:09Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +106,9 @@ Considerando a conveniência de dar mais eficiente estrutura ao Instituto de Alt
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 5.º e seus §§ 1.º, 2.º e 3.º e 12.º do [Decreto-Lei n.º 48146](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48146-1967-401543), de 23 de Dezembro de 1967, passam a ter a seguinte redacção:
+Artigo único. Os artigos 5.º e seus §§ 1.º, 2.º e 3.º e 12.º do [Decreto-Lei n.º 48146](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48146-1967-401543), de 23 de Dezembro de 1967, passam a ter a seguinte redacção:
 
-###### Art. 5.º A direcção do I. A. E. D. N. é exercida por um conselho de cinco membros, dos quais três oficiais generais do activo ou da reserva, um por cada ramo das forças armadas, e dois civis, dos quais um professor catedrático, embaixador, ministro plenipotenciário ou director-geral, e outro escolhido de entre dirigentes ou empregados superiores de empresas privadas.
+Art. 5.º A direcção do I. A. E. D. N. é exercida por um conselho de cinco membros, dos quais três oficiais generais do activo ou da reserva, um por cada ramo das forças armadas, e dois civis, dos quais um professor catedrático, embaixador, ministro plenipotenciário ou director-geral, e outro escolhido de entre dirigentes ou empregados superiores de empresas privadas.
 
 § 1.º Dos oficiais generais, um será o director do Instituto e outro o regente de estudos, e, dos civis, um será o subdirector do Instituto.
 
@@ -103,7 +118,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 12.º Constituem receitas do I. A. E. D. N.:
+Art. 12.º Constituem receitas do I. A. E. D. N.:
 
 a) A dotação que lhe for consignada no Orçamento Geral do Estado;
 
@@ -119,9 +134,9 @@ d) Quaisquer outras permitidas por lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 17 de Dezembro de 1969.**
+Promulgado em 17 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

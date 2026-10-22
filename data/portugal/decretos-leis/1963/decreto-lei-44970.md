@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac9a9fc52ecc305b1bfc3fab7f8bc5619dea5c5095f6f2a4df6f065b600b86e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bb29bc14867b69b803f06c7ae88cc2f589c954ad405572f246866d57fb76d07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embaixada
+- Extinção de Lugares
+- Ministério da Cultura
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Diplomático
+- Washington
+relationships:
+- type: cites
+  target: pt:dre:151102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521613:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:40Z'
   warnings: []
   errors: []
 ---
@@ -85,31 +116,31 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho do Ministério será composto pelo secretário-geral, que presidirá, pelos directores-gerais e adjuntos dos directores-gerais e terá como secretário, sem voto, o chefe da Repartição dos Serviços Administrativos.
+Artigo 1.º O Conselho do Ministério será composto pelo secretário-geral, que presidirá, pelos directores-gerais e adjuntos dos directores-gerais e terá como secretário, sem voto, o chefe da Repartição dos Serviços Administrativos.
 
-###### Art. 2.º Os serviços de relações públicas, criados pelo artigo 4.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960, passam a ser designados por «serviços de informação».
+Art. 2.º Os serviços de relações públicas, criados pelo artigo 4.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960, passam a ser designados por «serviços de informação».
 
-###### Art. 3.º Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea c) do artigo 76.º do Regulamento do Ministério, pode o Ministro promover para essas vagas os conselheiros de legação ou cônsules-gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e já possuam, à data da promoção acima referida, parte do terceiro estágio que lhes falte completar.
+Art. 3.º Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea c) do artigo 76.º do Regulamento do Ministério, pode o Ministro promover para essas vagas os conselheiros de legação ou cônsules-gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e já possuam, à data da promoção acima referida, parte do terceiro estágio que lhes falte completar.
 
 § único. Fica revogado o artigo 13.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960.
 
-###### Art. 4.º A primeira nomeação para o lugar criado pelo artigo 5.º do [Decreto-Lei n.º 44526](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44526-1962-163631), de 21 de Agosto de 1962, é de livre escolha do Governo através do Ministro dos Negócios Estrangeiros, sendo suficientes, independentemente do reconhecimento da equiparação, as habilitações que forem apresentadas, desde que aceites pelo Ministro dos Negócios Estrangeiros.
+Art. 4.º A primeira nomeação para o lugar criado pelo artigo 5.º do [Decreto-Lei n.º 44526](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44526-1962-163631), de 21 de Agosto de 1962, é de livre escolha do Governo através do Ministro dos Negócios Estrangeiros, sendo suficientes, independentemente do reconhecimento da equiparação, as habilitações que forem apresentadas, desde que aceites pelo Ministro dos Negócios Estrangeiros.
 
 § único. Fica revogado o § único do artigo 5.º do [Decreto-Lei n.º 44526](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44526-1962-163631), de 21 de Agosto de 1962.
 
-###### Art. 5.º Aos ministros plenipotenciários de 2.ª classe do quadro da Secretaria de Estado, criados pelo artigo 17.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960, são aplicáveis as disposições do artigo 112.º do Regulamento do Ministério.
+Art. 5.º Aos ministros plenipotenciários de 2.ª classe do quadro da Secretaria de Estado, criados pelo artigo 17.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960, são aplicáveis as disposições do artigo 112.º do Regulamento do Ministério.
 
-###### Art. 6.º É aumentado o quadro do pessoal privativo da Secretaria de Estado de um lugar de primeiro-oficial, um de arquivista, dois de escriturário e dois de dactilógrafo e o quadro do pessoal menor de um contínuo de 2.ª classe.
+Art. 6.º É aumentado o quadro do pessoal privativo da Secretaria de Estado de um lugar de primeiro-oficial, um de arquivista, dois de escriturário e dois de dactilógrafo e o quadro do pessoal menor de um contínuo de 2.ª classe.
 
-###### Art. 7.º É extinto o lugar de adido ultramarino junto da Embaixada de Portugal em Washington, criado pelo artigo 10.º do [Decreto-Lei n.º 40403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40403-1955-247420), de 24 de Novembro de 1955.
+Art. 7.º É extinto o lugar de adido ultramarino junto da Embaixada de Portugal em Washington, criado pelo artigo 10.º do [Decreto-Lei n.º 40403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40403-1955-247420), de 24 de Novembro de 1955.
 
-###### Art. 8.º As disposições do artigo 9.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960, são aplicáveis aos licenciados pelo Instituto Superior de Ciências Sociais e Política Ultramarina.
+Art. 8.º As disposições do artigo 9.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960, são aplicáveis aos licenciados pelo Instituto Superior de Ciências Sociais e Política Ultramarina.
 
-###### Art. 9.º É revogado o artigo 143.º do [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, tornando-se aplicável ao pessoal do quadro privativo da Secretaria de Estado o regime estabelecido no corpo do artigo 14.º do [Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938, com a nova redacção que a este foi dada pelo artigo 1.º do [Decreto-Lei n.º 41507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41507-1958-521613), de 17 de Janeiro de 1958.
+Art. 9.º É revogado o artigo 143.º do [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, tornando-se aplicável ao pessoal do quadro privativo da Secretaria de Estado o regime estabelecido no corpo do artigo 14.º do [Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938, com a nova redacção que a este foi dada pelo artigo 1.º do [Decreto-Lei n.º 41507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41507-1958-521613), de 17 de Janeiro de 1958.
 
-###### Art. 10.º As despesas resultantes da execução deste diploma serão satisfeitas no ano corrente pelas sobras de quaisquer das verbas de pessoal dos quadros deste Ministério.
+Art. 10.º As despesas resultantes da execução deste diploma serão satisfeitas no ano corrente pelas sobras de quaisquer das verbas de pessoal dos quadros deste Ministério.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

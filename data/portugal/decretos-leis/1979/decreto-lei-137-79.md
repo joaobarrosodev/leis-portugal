@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11400/09710976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1979-382611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da0601656a8bea096a0673bbd669ffbf2a11487e4db44828a27cac884cc9fb5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f3c19a6142c05b22130d74aafb491ab82abf59db8c921b7baefa972ae0b304d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Investimento
+- Regime Jurídico
+- Sociedade de Investimento
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:463994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365136:por
+  label: "Alterado o n.º 5 do art. 2.º, o n.º 2 do art. 4.º, as als. b), c) e d) do n.º 1 do art. 5.º, os n.ºs. 3, 4 e 6 do\
+    \ art. 8.º, o art. 9.º, os n.ºs. 1 e 2 do art. 12.º, a al. a) do art. 14.º, aditado um art. 1.º-A e os n.ºs. 6 e 7 ao\
+    \ art. 2.º, e revogadas as als. b) e f) do art. 11.º, pela LEI.64/79.1979.10.04.AR DR.IS [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-1979-365136
+  date: '1979-10-04'
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675603:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:381119:por
+  label: Rectificado pela DECL.DD7466.26.06.1979.PCM, DR.IS [145] de 26.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-381119
+  date: '1979-06-26'
+- type: repealed_by
+  target: pt:dre:463994:por
+  label: "Revogado pelo DEC LEI.342/80.02.09.1980.MFP, DR.IS [202] de 02.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1980-463994
+  date: '1980-09-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:45Z'
   warnings: []
   errors: []
 ---
@@ -324,8 +357,8 @@ d) Os n.os 3 e 4 do artigo 8.º
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto. - Manuel Jacinto Nunes.
 
-**Promulgado em 10 de Maio de 1979.**
+Promulgado em 10 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

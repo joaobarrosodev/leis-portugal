@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1975-314590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c9cce815c5e0231e20c171696d40d06efafea222aac7176bbdca05498af1a60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f2a87f1897558097a0a28432cdb8d787ae4e8bcad33fe61d5f02f0aa8b5befc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Magistrado Judicial
+- Nomeação
+- Presidente
+- Procurador Geral da República
+- Reintegração de Pessoal
+- Supremo Tribunal Administrativo
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:24Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +107,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Quando os cargos de procurador-geral da República e presidente do Supremo Tribunal Administrativo sejam desempenhados por magistrados que, aquando da nomeação para tais lugares e por força dela, pediram a exoneração da magistratura judicial, podem estes a todo o tempo requerer o reingresso nesta magistratura.
+Artigo 1.º - 1. Quando os cargos de procurador-geral da República e presidente do Supremo Tribunal Administrativo sejam desempenhados por magistrados que, aquando da nomeação para tais lugares e por força dela, pediram a exoneração da magistratura judicial, podem estes a todo o tempo requerer o reingresso nesta magistratura.
 
 2. O requerimento para o reingresso na magistratura judicial será em ambos os casos dirigido ao Ministro da Justiça, que, quando se tratar do procurador-geral da República, o submeterá, devidamente informado, à apreciação do Conselho de Ministros.
 
 3. O tempo de serviço prestado no desempenho dos cargos a que o n.º 1 se reporta contará por inteiro, como se o magistrado o tivesse prestado na magistratura judicial, indo ocupar o lugar na ordem de antiguidade que lhe competiria se não tivesse interrompido o exercício da função judicial, nomeadamente sem prejuízo das promoções a que entretanto tivesse direito.
 
-###### Art. 2.º O artigo 2.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1958, passa a ter a seguinte redacção.
+Art. 2.º O artigo 2.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1958, passa a ter a seguinte redacção.
 
 ###### Artigo 2.º ...
 
@@ -109,8 +121,8 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Francisco Salgado Zenha.
 
-**Promulgado em 29 de Julho de 1975.**
+Promulgado em 29 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

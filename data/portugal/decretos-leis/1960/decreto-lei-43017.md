@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43017-1960-503630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be270162f8c15f53a523cb9a85fa01e21a9b11ea648da06284950f519fee63e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 545cbd1cd4724e8ba442677a152c7e492a3c187442f02c872e1cebcb6a0592a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exército
+- Força Aérea
+- Militar
+- Pensão de Reforma
+- Pensão de Reserva
+relationships:
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:41Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +106,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. A redacção do artigo 2.º do [Decreto-Lei n.º 41654](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41654-1958-353704), de 28 de Maio de 1958, é substituída, para todos os efeitos, pela seguinte:
+Artigo único. A redacção do artigo 2.º do [Decreto-Lei n.º 41654](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41654-1958-353704), de 28 de Maio de 1958, é substituída, para todos os efeitos, pela seguinte:
 
-###### Art. 2.º As pensões de reforma devidas aos militares são sempre proporcionais ao número de anos de serviço prestado e calculadas pela seguinte fórmula:
+Art. 2.º As pensões de reforma devidas aos militares são sempre proporcionais ao número de anos de serviço prestado e calculadas pela seguinte fórmula:
 
 P = V x (n/40)
 
@@ -109,6 +130,6 @@ O valor de g será igual à gratificação anual de serviço aéreo que tal pess
 
 § 5.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo intervirá para a formação da mesma média, não sendo, porém, feita a adição referida no § 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

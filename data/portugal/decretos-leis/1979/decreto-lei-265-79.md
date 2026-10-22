@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 176/1979, 1º Suplemento, Série I de 1979-08-01
   number: '176'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1770-(5) a 1770-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17601/00050036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1979-396771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c6102976a5b68fafeb63943695efab52792c37460ebe3f376149cac068a516d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d98209e1c5a134747f883045ab33f9da4af5413f273ca64c92ffaa2d1f95e2f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Assistência Religiosa
+- Assistência Social
+- Crime
+- Direcção Geral dos Serviços Prisionais
+- Direito Penal
+- Direitos do Homem
+- Ensino
+- Estabelecimento Prisional
+- Execução de Penas
+- Formação Profissional
+- Ministério da Justiça
+- Pessoal de Vigilância
+- Prisão Preventiva
+- Queixa
+- Recluso
+- Recurso
+- Sanção Disciplinar
+- Sanção Penal
+- Tribunal de Execução das Penas
 relationships:
 - type: amended_by
   target: pt:dre:491690:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678426:por
+  label: Alterados os arts. 8.º, 12.º, 15.º, 24.º, 26.º, 40.º, 69.º, 71.º, 83.º, 102.º, 104.º, 113.º, 125.º, 126.º, 132.º,
+    136.º, 144.º, 173.º, 174.º, 183.º, 199.º e 210.º; alterado o título V; aditados os arts. 62.º-A, 62.º-B e 216.º-A; e revogados
+    os arts. 78.º e 109.º pelo DEC LEI.49/80.22.03.1980.MJ, DR.IS [69] de 22.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1980-678426
+  date: '1980-03-22'
+- type: amended_by
+  target: pt:dre:177671:por
+  label: "Alterado o artigo 210.º pelo DEC LEI.414/85.18.10.1985.MJ, DR.IS [240] de 18.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1985-177671
+  date: '1985-10-18'
+- type: amended_by
+  target: pt:dre:513632:por
+  label: "Extintos os institutos de criminologia referidos no artigo 200.º, e revogada a legislação a eles referente, pelo\
+    \ DEC LEI.96/95.10.05.1995.MJ, DR.IS-A [108] de 10.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1995-513632
+  date: '1995-05-10'
+- type: cites
+  target: pt:dre:409310:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491690:por
+  label: "Revogado, a partir de 10.04.2010, pela LEI.115/2009.12.10.2009.AR, DR.IS [197] de 12.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/115-2009-491690
+  date: '2009-10-12'
 article_structure:
   article_count: 227
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:56Z'
   warnings: []
   errors: []
 ---
@@ -2276,7 +2323,7 @@ A assistência social especializada em matéria criminal será regulada em diplo
 
 ###### Artigo 224.º — Decretos, regulamentos e instruções
 
-**O Ministro da Justiça, ouvida a Direcção-Geral dos Serviços Prisionais, publicará decretos, regulamentos e instruções que forem necessários para esclarecimento e para inteira execução deste diploma.**
+O Ministro da Justiça, ouvida a Direcção-Geral dos Serviços Prisionais, publicará decretos, regulamentos e instruções que forem necessários para esclarecimento e para inteira execução deste diploma.
 
 ###### Artigo 225.º — Normas de direito em vigor
 
@@ -2292,8 +2339,8 @@ Este diploma entrará em vigor em 1 de Janeiro de 1980.
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1979. - Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia.
 
-**Promulgado em 12 de Julho de 1979.**
+Promulgado em 12 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

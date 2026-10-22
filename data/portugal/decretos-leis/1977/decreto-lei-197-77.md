@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11400/10851091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1977-252069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 960090043994c71717d34cafe1ceb1e803eeaddb2d58c56a7d012de1711595ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5138d22d4cce74df252e205b639a203e049d0a3f921ffc5f77cb5f8f5880c47a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Administração Pública
+- Função Pública
+- Funcionário Público
+- Prestações Complementares
+- Prestações da Segurança Social
+- Regime Geral da Segurança Social
+- Subsídio de Aleitação
+- Subsídio de Casamento
+- Subsídio de Funeral
+- Subsídio de Nascimento
 relationships:
 - type: amended_by
   target: pt:dre:158179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434604:por
+  label: "Extinto, relativamente aos ascendentes e equiparados, o direito ao abono de família estabelecido no art. 2º do presente\
+    \ diploma pelo DEC LEI.180-D/78.15.07.1978.MAS, DR.IS [161-2.º Supl] de 15.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-d-1978-434604
+  date: '1978-07-15'
+- type: amended_by
+  target: pt:dre:385049:por
+  label: Alterado o art. 4.º pelo(a) Decreto-Lei n.º 148/84 - Diário da República n.º 108/1984, Série I de 1984-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1984-385049
+  date: '1984-05-10'
+- type: amended_by
+  target: pt:dre:616265:por
+  label: "Alterado o art 6º pelo DEC LEI.142/91.1991.04.10.MESS, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1991-616265
+  date: '1991-04-10'
+- type: cites
+  target: pt:dre:165982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474564:por
+  label: "Revogados os artigos 1.º e 2.º, n.º 4 do artigo 6.º, artigos 8.º e 9.º, n.ºs 1 e 3 do artigo 12.º e artigos 25.º\
+    \ a 32.º, pelo DEC LEI.170/80.29.05.1980.PCM, DR.IS [124] de 29.05.1980, salvo o disposto no seu artigo 15.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1980-474564
+  date: '1980-05-29'
+- type: repealed_by
+  target: pt:dre:158179:por
+  label: Revogado pelo DEC LEI.133-B/97.1997.05.30.MSSS DR.IS-A [124]Supl, mantendo-se, contudo, transitoriamente em vigor
+    as normas reguladoras da atribuição dos subsídios de casamento, nascimento e funeral de beneficiário, relativas aos eventos
+    ocorridos no âmbito do presente diploma e requeridos na vigência da lei nova.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-b-1997-158179
+  date: '1997-05-30'
 article_structure:
   article_count: 43
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:58Z'
   warnings: []
   errors: []
 ---
@@ -446,8 +510,8 @@ Ficam revogados a partir da data da entrada em vigor deste decreto-lei os Decret
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 18 de Abril de 1977.**
+Promulgado em 18 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

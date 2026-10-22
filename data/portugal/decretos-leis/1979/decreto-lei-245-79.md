@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17000/16871690.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1979-381294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6972ce185b08e21d229818aa8c3af7aa4248c24fbe53fd4cadee8a04c6a7eb4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afc6f3f3e0daa212d3d57ed93732b10cae612db38afc2c2021ff603f2fae1492
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Comércio
+- Contra-ordenação
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:612417:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366450:por
+  label: "Alterado o n.º 3 do art. 1.º do Regulamento aprovado pelo presente diploma, pela PORT.683/79.14.12.1979.MIND, DR.IS\
+    \ [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-1979-366450
+  date: '1979-12-14'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612417:por
+  label: "Revogado, a partir de 21.08.1989, pelo DEC LEI.53/89.22.02.1989.MAPA, DR.IS [44] de 22.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1989-612417
+  date: '1989-02-22'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:35Z'
   warnings: []
   errors: []
 ---
@@ -102,21 +133,21 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 É aprovado o Regulamento do Café e Seus Sucedâneos, que segue em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º A partir da entrada em vigor do Regulamento agora aprovado fica revogada toda a legislação que contraria as disposições nele contidas.
+Art. 2.º A partir da entrada em vigor do Regulamento agora aprovado fica revogada toda a legislação que contraria as disposições nele contidas.
 
-###### Art. 3.º Todas as modificações que se fizerem à matéria constante do Regulamento anexo serão nele mandadas inserir no lugar próprio, mediante portaria dos Ministérios da Indústria e Tecnologia ou do Comércio e Turismo, de acordo com o respectivo âmbito de competência.
+Art. 3.º Todas as modificações que se fizerem à matéria constante do Regulamento anexo serão nele mandadas inserir no lugar próprio, mediante portaria dos Ministérios da Indústria e Tecnologia ou do Comércio e Turismo, de acordo com o respectivo âmbito de competência.
 
-###### Art. 4.º O Regulamento anexo entrará em vigor nos termos gerais, com excepção do disposto no artigo 3.º, na alínea a) do n.º 2 do artigo 5.º e nas alíneas a) a d) do n.º 3 deste mesmo artigo, bem como no n.º 3 do artigo 6.º, que só se tornará obrigatório cento e oitenta dias após a publicação do presente diploma.
+Art. 4.º O Regulamento anexo entrará em vigor nos termos gerais, com excepção do disposto no artigo 3.º, na alínea a) do n.º 2 do artigo 5.º e nas alíneas a) a d) do n.º 3 deste mesmo artigo, bem como no n.º 3 do artigo 6.º, que só se tornará obrigatório cento e oitenta dias após a publicação do presente diploma.
 
-###### Art. 5.º No que se refere à alínea c) do n.º 3 do artigo 5.º e no período transitório de cento e oitenta dias, é permitido o uso das embalagens que vinham sendo utilizadas, devendo, no entanto, ser aposto carimbo ou sobrecarga rectificando os teores inscritos nas embalagens, no caso de existirem alterações.
+Art. 5.º No que se refere à alínea c) do n.º 3 do artigo 5.º e no período transitório de cento e oitenta dias, é permitido o uso das embalagens que vinham sendo utilizadas, devendo, no entanto, ser aposto carimbo ou sobrecarga rectificando os teores inscritos nas embalagens, no caso de existirem alterações.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979. - Carlos Alberto da Mota Pinto - Álvaro Roque de Pinho Bissaia Barreto - Abel Pinto Repolho Correia
 
-**Promulgado em 8 de Julho de 1979.**
+Promulgado em 8 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DO CAFÉ E SEUS SUCEDÂNEOS
 

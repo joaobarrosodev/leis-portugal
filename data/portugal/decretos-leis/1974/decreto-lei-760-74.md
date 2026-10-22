@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 302/1974, 1º Suplemento, Série I de 1974-12-30
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1646-(3) a 1646-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30201/00030007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86968fef17105a00be50f02df66c8f762543c8f56227ff923cd786b32f243056
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f89f57d89640c57e18aeb4adf353b0cacbec28850fd88301a69d7b0548f25a91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ministério do Trabalho
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:621349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:473324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:336989:por
+  label: "Revogado pelo DEC LEI.367/75.12.07.1975.PCM, DG.IS [159] de 12.07.1975, na parte em que contrariar aquele diploma.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1975-336989
+  date: '1975-07-12'
+- type: repealed_by
+  target: pt:dre:621349:por
+  label: "Revogado pelo DEC LEI.47/78.21.03.1978.MT, DR.IS [67]Supl de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1978-621349
+  date: '1978-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:12Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +130,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São atribuições do Ministério do Trabalho estudar e definir a política do trabalho e participar activamente no estudo e definição da política do emprego e da emigração, visando a melhoria das condições de vida das camadas trabalhadoras mais desfavorecidas de harmonia com as realidades económicas nacionais, e promover a sua execução, designadamente no sentido de melhorar progressivamente as condições jurídicas e materiais de trabalho, da expansão do emprego e da protecção e apoio aos trabalhadores emigrantes, assegurando a observância das correspondentes disposições reguladoras e estabelecendo as adequadas formas de articulação com a actividade de outros departamentos do Estado.
+Artigo 1.º São atribuições do Ministério do Trabalho estudar e definir a política do trabalho e participar activamente no estudo e definição da política do emprego e da emigração, visando a melhoria das condições de vida das camadas trabalhadoras mais desfavorecidas de harmonia com as realidades económicas nacionais, e promover a sua execução, designadamente no sentido de melhorar progressivamente as condições jurídicas e materiais de trabalho, da expansão do emprego e da protecção e apoio aos trabalhadores emigrantes, assegurando a observância das correspondentes disposições reguladoras e estabelecendo as adequadas formas de articulação com a actividade de outros departamentos do Estado.
 
-###### Art. 2.º O Ministério do Trabalho compreende as Secretarias de Estado do Trabalho, do Emprego e da Emigração, criadas, a primeira e a terceira, pelo [Decreto-Lei n.º 235/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1974-622588), de 3 de Junho, e, a segunda, pelo [Decreto-Lei n.º 341/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1974-621369), de 18 de Julho, e terá a orgânica constante do presente diploma.
+Art. 2.º O Ministério do Trabalho compreende as Secretarias de Estado do Trabalho, do Emprego e da Emigração, criadas, a primeira e a terceira, pelo [Decreto-Lei n.º 235/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1974-622588), de 3 de Junho, e, a segunda, pelo [Decreto-Lei n.º 341/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1974-621369), de 18 de Julho, e terá a orgânica constante do presente diploma.
 
-###### Art. 3.º Na dependência directa do Ministro, além do Gabinete, funcionam os seguintes órgãos de concepção, coordenação e apoio da actividade de todo o Ministério:
+Art. 3.º Na dependência directa do Ministro, além do Gabinete, funcionam os seguintes órgãos de concepção, coordenação e apoio da actividade de todo o Ministério:
 
 a) Inspecção-Geral do Ministério do Trabalho;
 
@@ -130,37 +156,37 @@ i) Serviço de Estatística;
 
 j) Secretaria-Geral.
 
-###### Art. 4.º À Inspecção-Geral do Ministério do Trabalho incumbe exercer, nos termos e condições a definir pelo Ministro, acção fiscalizadora sobre o funcionamento dos órgãos e serviços.
+Art. 4.º À Inspecção-Geral do Ministério do Trabalho incumbe exercer, nos termos e condições a definir pelo Ministro, acção fiscalizadora sobre o funcionamento dos órgãos e serviços.
 
-###### Art. 5.º - 1. O Conselho Consultivo é um órgão colegial de composição interministerial, ao qual incumbe prestar ao Ministro o apoio necessário à definição das linhas gerais da acção do Ministério, sempre que impliquem a articulação com outros departamentos governativos.
+Art. 5.º - 1. O Conselho Consultivo é um órgão colegial de composição interministerial, ao qual incumbe prestar ao Ministro o apoio necessário à definição das linhas gerais da acção do Ministério, sempre que impliquem a articulação com outros departamentos governativos.
 
 2. O Conselho será constituído por representantes dos Ministérios do Trabalho, dos Assuntos Sociais, do Equipamento Social e do Ambiente, da Economia, das Finanças e da Educação e Cultura.
 
 3. Deverão ainda participar nos trabalhos do Conselho representantes de outros Ministérios, sempre que sejam tratados assuntos com eles relacionados.
 
-###### Art. 6.º O Conselho Coordenador é um órgão colegial composto pelo secretário-geral, pelos directores-gerais e equiparados e pelos directores dos órgãos de concepção, coordenação e apoio, ao qual compete cooperar na definição de linhas gerais de acção do Ministério, coordenar a preparação dos respectivos planos globais e apreciar a sua execução, bem como fomentar a articulação dos vários órgãos e serviços.
+Art. 6.º O Conselho Coordenador é um órgão colegial composto pelo secretário-geral, pelos directores-gerais e equiparados e pelos directores dos órgãos de concepção, coordenação e apoio, ao qual compete cooperar na definição de linhas gerais de acção do Ministério, coordenar a preparação dos respectivos planos globais e apreciar a sua execução, bem como fomentar a articulação dos vários órgãos e serviços.
 
-###### Art. 7.º O Gabinete Jurídico colabora com o Ministério Público na defesa dos interesses do Ministério junto dos tribunais, prepara projectos de diplomas legais e elabora os pareceres jurídicos que lhe forem solicitados pelo Ministro ou pelos Secretários de Estado.
+Art. 7.º O Gabinete Jurídico colabora com o Ministério Público na defesa dos interesses do Ministério junto dos tribunais, prepara projectos de diplomas legais e elabora os pareceres jurídicos que lhe forem solicitados pelo Ministro ou pelos Secretários de Estado.
 
-###### Art. 8.º - 1. Ao Gabinete de Estudos, Planeamento e Organização incumbe efectuar estudos, preparar relatórios de conjuntura, elaborar projectos do plano e programas de acção nos domínios da política do trabalho, do emprego e da emigração e desempenhar as funções gerais de planeamento previstas na legislação em vigor.
+Art. 8.º - 1. Ao Gabinete de Estudos, Planeamento e Organização incumbe efectuar estudos, preparar relatórios de conjuntura, elaborar projectos do plano e programas de acção nos domínios da política do trabalho, do emprego e da emigração e desempenhar as funções gerais de planeamento previstas na legislação em vigor.
 
 2. Ao Gabinete de Estudos, Planeamento e Organização compete também o estudo, coordenação e planeamento em matéria de organização administrativa, de modo a garantir uma adequação permanente das estruturas às exigências decorrentes da execução dos planos do Ministério e, bem assim, a apresentação de propostas de medidas de política e de gestão de pessoal.
 
-###### Art. 9.º Ao Gabinete de Comunicação Social compete assegurar e fomentar as relações com os meios de comunicação social em tudo o que respeite à actividade do Ministério e proceder à recolha, selecção e difusão de informações noticiosas com interesse para os serviços.
+Art. 9.º Ao Gabinete de Comunicação Social compete assegurar e fomentar as relações com os meios de comunicação social em tudo o que respeite à actividade do Ministério e proceder à recolha, selecção e difusão de informações noticiosas com interesse para os serviços.
 
-###### Art. 10.º - 1. Ao Serviço de Relações Internacionais compete estabelecer, manter e desenvolver contactos com organizações internacionais e entidades estrangeiras públicas ou privadas, com vista à cooperação no domínio dos problemas de trabalho, de emprego e de emigração.
+Art. 10.º - 1. Ao Serviço de Relações Internacionais compete estabelecer, manter e desenvolver contactos com organizações internacionais e entidades estrangeiras públicas ou privadas, com vista à cooperação no domínio dos problemas de trabalho, de emprego e de emigração.
 
 2. As atribuições previstas no número anterior serão exercidas em conjunção com os serviços competentes e com o Ministério dos Negócios Estrangeiros.
 
-###### Art. 11.º Ao Serviço de Informação Científica e Técnica compete promover a pesquisa, aquisição, tratamento e difusão de informação científica e técnica conforme a natureza dos Serviços e os programas de acção do Ministério; constituir e gerir o correspondente banco de dados, e editar e difundir a informação proveniente dos serviços, de acordo com o plano anual de publicações do Ministério.
+Art. 11.º Ao Serviço de Informação Científica e Técnica compete promover a pesquisa, aquisição, tratamento e difusão de informação científica e técnica conforme a natureza dos Serviços e os programas de acção do Ministério; constituir e gerir o correspondente banco de dados, e editar e difundir a informação proveniente dos serviços, de acordo com o plano anual de publicações do Ministério.
 
-###### Art. 12.º Ao Serviço de Estatística compete recolher, tratar e difundir a informação estatística complementar da fornecida pelo INE necessária à actividade dos serviços e gerir o respectivo banco de dados.
+Art. 12.º Ao Serviço de Estatística compete recolher, tratar e difundir a informação estatística complementar da fornecida pelo INE necessária à actividade dos serviços e gerir o respectivo banco de dados.
 
-###### Art. 13.º A Secretaria-Geral é um órgão de apoio técnico-administrativo ao qual compete a execução de expediente geral do Ministério, registo e arquivo do mesmo; o serviço de recrutamento, situação, cadastro e movimento do pessoal do Ministério e a elaboração e execução do orçamento.
+Art. 13.º A Secretaria-Geral é um órgão de apoio técnico-administrativo ao qual compete a execução de expediente geral do Ministério, registo e arquivo do mesmo; o serviço de recrutamento, situação, cadastro e movimento do pessoal do Ministério e a elaboração e execução do orçamento.
 
-###### Art. 14.º Na dependência do Ministro funcionarão ainda o Gabinete de Gestão do Fundo de Desemprego, de composição interministerial, e o Fundo de Desenvolvimento da Mão-de-Obra.
+Art. 14.º Na dependência do Ministro funcionarão ainda o Gabinete de Gestão do Fundo de Desemprego, de composição interministerial, e o Fundo de Desenvolvimento da Mão-de-Obra.
 
-###### Art. 15.º - 1. Compõem a Secretaria de Estado do Trabalho, além do Gabinete do Secretário de Estado, os seguintes serviços:
+Art. 15.º - 1. Compõem a Secretaria de Estado do Trabalho, além do Gabinete do Secretário de Estado, os seguintes serviços:
 
 a) A Inspecção-Geral do Trabalho;
 
@@ -170,13 +196,13 @@ c) A Direcção-Geral das Relações Colectivas de Trabalho.
 
 2. O Secretário de Estado do Trabalho participa na definição da política do trabalho e orienta superiormente a sua execução, através dos órgãos referidos no número anterior, e exerce a competência que lhe for delegada pelo Ministro do Trabalho.
 
-###### Art. 16.º À Inspecção-Geral do Trabalho incumbe velar pelo cumprimento das normas reguladoras das relações de trabalho, nos termos da respectiva legislação e, em cooperação com os serviços especializados, participar na reformulação da legislação laboral.
+Art. 16.º À Inspecção-Geral do Trabalho incumbe velar pelo cumprimento das normas reguladoras das relações de trabalho, nos termos da respectiva legislação e, em cooperação com os serviços especializados, participar na reformulação da legislação laboral.
 
-###### Art. 17.º Compete à Direcção-Geral do Trabalho o registo das convenções colectivas de trabalho e dos estatutos das associações de classe, nos termos das respectivas legislações; o estudo das condições de trabalho, a elaboração de pareceres e a prestação de apoio técnico sobre assuntos da sua competência.
+Art. 17.º Compete à Direcção-Geral do Trabalho o registo das convenções colectivas de trabalho e dos estatutos das associações de classe, nos termos das respectivas legislações; o estudo das condições de trabalho, a elaboração de pareceres e a prestação de apoio técnico sobre assuntos da sua competência.
 
-###### Art. 18.º Compete à Direcção-Geral das Relações Colectivas de Trabalho assegurar e coordenar as intervenções do Ministério no âmbito do sistema das relações colectivas e dos conflitos colectivos de trabalho, em conformidade com a respectiva legislação.
+Art. 18.º Compete à Direcção-Geral das Relações Colectivas de Trabalho assegurar e coordenar as intervenções do Ministério no âmbito do sistema das relações colectivas e dos conflitos colectivos de trabalho, em conformidade com a respectiva legislação.
 
-###### Art. 19.º - 1. Compõem a Secretaria de Estado do Emprego, além do Gabinete do Secretário de Estado, os seguintes serviços:
+Art. 19.º - 1. Compõem a Secretaria de Estado do Emprego, além do Gabinete do Secretário de Estado, os seguintes serviços:
 
 a) A Direcção-Geral do Emprego;
 
@@ -184,11 +210,11 @@ b) A Direcção-Geral de Promoção do Emprego.
 
 2. O Secretário de Estado do Emprego participa na definição da política do emprego e orienta superiormente a sua execução, através da actuação dos órgãos referidos no número anterior, e exerce a competência que lhe for delegada pelo Ministro do Trabalho.
 
-###### Art. 20.º À Direcção-Geral do Emprego incumbe recolher e difundir informações sobre o mercado de emprego, promover o ajustamento entre a procura e oferta de emprego, bem como acção de orientação e formação profissional extra-escolar, e ainda administrar e gerir o sistema de protecção no desemprego.
+Art. 20.º À Direcção-Geral do Emprego incumbe recolher e difundir informações sobre o mercado de emprego, promover o ajustamento entre a procura e oferta de emprego, bem como acção de orientação e formação profissional extra-escolar, e ainda administrar e gerir o sistema de protecção no desemprego.
 
-###### Art. 21.º À Direcção-Geral de Promoção do Emprego incumbe, em articulação com outras entidades, desencadear as actuações necessárias ao estudo e realização de empreendimentos geradores de empregos, apoiar iniciativas com incidência na criação ou manutenção de postos de trabalho, bem como intervir em situações de risco eminente de desemprego e participar na aplicação das soluções encontradas.
+Art. 21.º À Direcção-Geral de Promoção do Emprego incumbe, em articulação com outras entidades, desencadear as actuações necessárias ao estudo e realização de empreendimentos geradores de empregos, apoiar iniciativas com incidência na criação ou manutenção de postos de trabalho, bem como intervir em situações de risco eminente de desemprego e participar na aplicação das soluções encontradas.
 
-###### Art. 22.º - 1. Compõem a Secretaria de Estado da Emigração, além do Gabinete do Secretário de Estado, os seguintes serviços:
+Art. 22.º - 1. Compõem a Secretaria de Estado da Emigração, além do Gabinete do Secretário de Estado, os seguintes serviços:
 
 a) A Direcção-Geral da Emigração;
 
@@ -196,15 +222,15 @@ b) O Instituto de Emigração.
 
 2. O Secretário de Estado da Emigração participa na definição da política de emigração e orienta superiormente a sua execução, através da actuação dos órgãos referidos no número anterior, e exerce a competência que lhe for delegada pelo Ministro do Trabalho.
 
-###### Art. 23.º Compete à Direcção-Geral da Emigração, em coordenação com os departamentos interessados, promover a actuação da política social e cultural relativa aos emigrantes, velar pela defesa dos seus direitos no domínio do trabalho, emprego, formação profissional e segurança social, e bem assim assegurar as tarefas administrativas decorrentes do processo emigratório.
+Art. 23.º Compete à Direcção-Geral da Emigração, em coordenação com os departamentos interessados, promover a actuação da política social e cultural relativa aos emigrantes, velar pela defesa dos seus direitos no domínio do trabalho, emprego, formação profissional e segurança social, e bem assim assegurar as tarefas administrativas decorrentes do processo emigratório.
 
-###### Art. 24.º Ao Instituto da Emigração, dotado de autonomia administrativa e financeira, compete a execução e coordenação da política da emigração no exterior, em articulação com o Ministério dos Negócios Estrangeiros e com os organismos estrangeiros e internacionais competentes.
+Art. 24.º Ao Instituto da Emigração, dotado de autonomia administrativa e financeira, compete a execução e coordenação da política da emigração no exterior, em articulação com o Ministério dos Negócios Estrangeiros e com os organismos estrangeiros e internacionais competentes.
 
-###### Art. 25.º - 1. O funcionamento dos órgãos referidos no artigo 3.º será regulamentado por portaria do Ministro do Trabalho, sem prejuízo dos quadros de pessoal que vierem a ser legalmente estabelecidos.
+Art. 25.º - 1. O funcionamento dos órgãos referidos no artigo 3.º será regulamentado por portaria do Ministro do Trabalho, sem prejuízo dos quadros de pessoal que vierem a ser legalmente estabelecidos.
 
 2. O funcionamento dos órgãos referidos no artigo 14.º será regulamentado por diploma autónomo.
 
-###### Art. 26.º - 1. Serão criados à medida que forem publicados os diplomas orgânicos das respectivas Secretarias de Estado os lugares de:
+Art. 26.º - 1. Serão criados à medida que forem publicados os diplomas orgânicos das respectivas Secretarias de Estado os lugares de:
 
 a) Inspector-geral do Trabalho;
 
@@ -222,46 +248,46 @@ g) Presidente do Instituto de Emigração;
 
 2. Para cobertura dos encargos resultantes da criação dos lugares referidos no número anterior, será estabelecida no corrente ano, por despacho conjunto do Ministro do Trabalho e do Ministro das Finanças, uma dotação especial proveniente do Fundo de Desemprego.
 
-###### Art. 27.º Os órgãos e serviços previstos nos artigos 15.º, 19.º e 22.º serão estruturados pelos diplomas orgânicos respeitantes a cada uma das Secretarias de Estado que os agrupam, sem prejuízo da regulamentação específica que eventualmente se julgue necessária.
+Art. 27.º Os órgãos e serviços previstos nos artigos 15.º, 19.º e 22.º serão estruturados pelos diplomas orgânicos respeitantes a cada uma das Secretarias de Estado que os agrupam, sem prejuízo da regulamentação específica que eventualmente se julgue necessária.
 
-###### Art. 28.º É extinto o Instituto Nacional do Trabalho e Previdência.
+Art. 28.º É extinto o Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 29.º A Secretaria-Geral do extinto Ministério das Corporações e Segurança Social é integrada na Secretaria-Geral do Ministério do Trabalho.
+Art. 29.º A Secretaria-Geral do extinto Ministério das Corporações e Segurança Social é integrada na Secretaria-Geral do Ministério do Trabalho.
 
-###### Art. 30.º O Serviço de Relações Internacionais da Direcção-Geral do Trabalho e Corporações é integrado no Serviço de Relações Internacionais do Ministério do Trabalho.
+Art. 30.º O Serviço de Relações Internacionais da Direcção-Geral do Trabalho e Corporações é integrado no Serviço de Relações Internacionais do Ministério do Trabalho.
 
-###### Art. 31.º A Inspecção do Trabalho é integrada na Inspecção-Geral do Trabalho.
+Art. 31.º A Inspecção do Trabalho é integrada na Inspecção-Geral do Trabalho.
 
-###### Art. 32.º O Gabinete de Planeamento do extinto Ministério das Corporações e Segurança Social é integrado no Gabinete de Estudos, Planeamento e Organização do Ministério do Trabalho, sem prejuízo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 488/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1974-473324), de 26 de Setembro.
+Art. 32.º O Gabinete de Planeamento do extinto Ministério das Corporações e Segurança Social é integrado no Gabinete de Estudos, Planeamento e Organização do Ministério do Trabalho, sem prejuízo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 488/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1974-473324), de 26 de Setembro.
 
-###### Art. 33.º O pessoal e meios técnicos do Fundo de Desenvolvimento da Mão-de-Obra adstritos aos serviços de informação e documentação ficam integrados no Serviço de Informação Científica e Técnica do Ministério do Trabalho.
+Art. 33.º O pessoal e meios técnicos do Fundo de Desenvolvimento da Mão-de-Obra adstritos aos serviços de informação e documentação ficam integrados no Serviço de Informação Científica e Técnica do Ministério do Trabalho.
 
-###### Art. 34.º O pessoal e meios técnicos do Fundo de Desenvolvimento da Mão-de-Obra adstritos aos Serviços de Estatística ficam integrados no Serviço de Estatística do Ministério do Trabalho.
+Art. 34.º O pessoal e meios técnicos do Fundo de Desenvolvimento da Mão-de-Obra adstritos aos Serviços de Estatística ficam integrados no Serviço de Estatística do Ministério do Trabalho.
 
-###### Art. 35.º O Gabinete de Organização do extinto Ministério das Corporações e Segurança Social é integrado no Gabinete de Estudos, Planeamento e Organização do Ministério do Trabalho.
+Art. 35.º O Gabinete de Organização do extinto Ministério das Corporações e Segurança Social é integrado no Gabinete de Estudos, Planeamento e Organização do Ministério do Trabalho.
 
-###### Art. 36.º Enquanto não for legalmente definido e preenchido por nomeação ou provimento individual o quadro de pessoal do Ministério do Trabalho, os meios técnicos e os funcionários ou servidores do INTP e dos serviços do extinto Ministério das Corporações e Segurança Social que transitaram para o Ministério do Trabalho manterão, provisoriamente, a situação anterior.
+Art. 36.º Enquanto não for legalmente definido e preenchido por nomeação ou provimento individual o quadro de pessoal do Ministério do Trabalho, os meios técnicos e os funcionários ou servidores do INTP e dos serviços do extinto Ministério das Corporações e Segurança Social que transitaram para o Ministério do Trabalho manterão, provisoriamente, a situação anterior.
 
-###### Art. 37.º - 1. Os restantes órgãos e serviços existentes no Ministério do Trabalho à data da publicação deste decreto-lei serão extintos ou integrados em órgãos ou serviços nele previstos, através dos diplomas a que se refere o artigo 27.º
+Art. 37.º - 1. Os restantes órgãos e serviços existentes no Ministério do Trabalho à data da publicação deste decreto-lei serão extintos ou integrados em órgãos ou serviços nele previstos, através dos diplomas a que se refere o artigo 27.º
 
 2. Até à sua extinção ou reorganização, todos os órgãos ou serviços actualmente existentes continuarão em funcionamento de harmonia com a respectiva legislação.
 
-###### Art. 38.º Os quadros de pessoal necessários ao funcionamento dos serviços e as regras de gestão e administração de pessoal serão regulados em diploma autónomo.
+Art. 38.º Os quadros de pessoal necessários ao funcionamento dos serviços e as regras de gestão e administração de pessoal serão regulados em diploma autónomo.
 
-###### Art. 39.º O Fundo de Desenvolvimento da Mão-de-Obra continuará a suportar todos os encargos que lhe estão actualmente cometidos.
+Art. 39.º O Fundo de Desenvolvimento da Mão-de-Obra continuará a suportar todos os encargos que lhe estão actualmente cometidos.
 
-###### Art. 40.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decretos referendados pelos Ministros das Finanças e do Trabalho.
+Art. 40.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decretos referendados pelos Ministros das Finanças e do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Inácio da Costa Martins.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Organograma do Ministério do Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30201/00030007.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30201/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30201/00030007.pdf)
 
-**O Ministro do Trabalho, José Inácio da Costa Martins.**
+O Ministro do Trabalho, José Inácio da Costa Martins.

@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47730-1967-312819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43f78f22b41a2bf0a084a2d8eaee42687fdf33973cf56466502142dade282fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad9e43dcc08220fa477e17884a69244fb18b4a7ca2c9bba7b635a3f2ccf61986
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Comissariado do Desemprego
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral dos Serviços Hidráulicos
+- Financiamento
+- Subsídio
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:19Z'
   warnings: []
   errors: []
 ---
@@ -90,12 +96,12 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Comissariado do Desemprego a conceder à Direcção-Geral dos Serviços Hidráulicos, para reforço das dotações do Plano Intercalar de Fomento consignadas à conclusão da 1.ª fase do Plano de rega do Alentejo, um subsídio reembolsável da importância de 33453000$00.
+Artigo 1.º É autorizado o Comissariado do Desemprego a conceder à Direcção-Geral dos Serviços Hidráulicos, para reforço das dotações do Plano Intercalar de Fomento consignadas à conclusão da 1.ª fase do Plano de rega do Alentejo, um subsídio reembolsável da importância de 33453000$00.
 
 § único. O reembolso deste subsídio será efectuado em cinco anuidades, a partir de 1968, por força das dotações beneficiadas.
 
-###### Art. 2.º O quantitativo do subsídio a conceder pelo Comissariado do Desemprego dará entrada nos cofres do Estado mediante guia de receita passada pela 8.ª Repartição da Direcção-Geral da Contabilidade Pública, servindo de contrapartida à abertura de crédito especial para reforço da respectiva dotação do Plano de rega do Alentejo.
+Art. 2.º O quantitativo do subsídio a conceder pelo Comissariado do Desemprego dará entrada nos cofres do Estado mediante guia de receita passada pela 8.ª Repartição da Direcção-Geral da Contabilidade Pública, servindo de contrapartida à abertura de crédito especial para reforço da respectiva dotação do Plano de rega do Alentejo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

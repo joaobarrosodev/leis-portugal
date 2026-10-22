@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16500/13481348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1978-297425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7ee54f2d9524f0b48390bf14e3cce4f7ce616d3b497f30d23a60177370ebde8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f564a92a73507a538c48e3568b096cacb796255f76299a6348dd96e42e37c38d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Formas de Provimento
+- Gabinete de Apoio Pessoal
+- Governador Civil
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:621936:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428218:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621936:por
+  label: "Revogado pelo DEC LEI.399-B/84.28.12.1984.PCM, DR.IS [299]Supl de 28.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-b-1984-621936
+  date: '1984-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:12Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +116,27 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os governadores civis têm direito a um gabinete de apoio pessoal constituído por um adjunto e um secretário.
+Artigo 1.º Os governadores civis têm direito a um gabinete de apoio pessoal constituído por um adjunto e um secretário.
 
-###### Art. 2.º - 1 - Os membros do referido gabinete são providos livremente pelo respectivo governador civil, considerando-se para todos os efeitos em exercício de funções desde a data do despacho que os tiver nomeado.
+Art. 2.º - 1 - Os membros do referido gabinete são providos livremente pelo respectivo governador civil, considerando-se para todos os efeitos em exercício de funções desde a data do despacho que os tiver nomeado.
 
 2 - Quando sejam funcionários, exercerão os seus cargos em comissão de serviço, com a faculdade de optar pelos abonos, vencimentos e gratificações correspondentes aos cargos de origem.
 
-###### Art. 3.º - 1 - O vencimento dos elementos dos gabinetes de apoio dos governadores civis é o constante do quadro anexo.
+Art. 3.º - 1 - O vencimento dos elementos dos gabinetes de apoio dos governadores civis é o constante do quadro anexo.
 
 2 - Os membros dos referidos gabinetes não podem beneficiar de quaisquer gratificações ou abonos suplementares, nomeadamente por trabalho extraordinário.
 
-###### Art. 4.º Os elementos dos gabinetes de apoio aos governadores civis, quando exonerados das suas funções por força da exoneração destes, ficam com direito ao abono estabelecido no n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1976-428218), de 19 de Maio, com as limitações estabelecidas pelo n.º 3 do mesmo artigo.
+Art. 4.º Os elementos dos gabinetes de apoio aos governadores civis, quando exonerados das suas funções por força da exoneração destes, ficam com direito ao abono estabelecido no n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1976-428218), de 19 de Maio, com as limitações estabelecidas pelo n.º 3 do mesmo artigo.
 
-###### Art. 5.º As verbas destinadas a suportar as despesas de funcionamento dos gabinetes de apoio criados pelo presente diploma serão transferidas, no corrente ano, do orçamento do Ministério da Administração Interna, o qual será, para o efeito, convenientemente reforçado.
+Art. 5.º As verbas destinadas a suportar as despesas de funcionamento dos gabinetes de apoio criados pelo presente diploma serão transferidas, no corrente ano, do orçamento do Ministério da Administração Interna, o qual será, para o efeito, convenientemente reforçado.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Jaime José Matos da Gama.
 
-**Promulgado em 3 de Julho de 1978.**
+Promulgado em 3 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o n.º 1 do artigo 3.º
 
@@ -126,4 +144,4 @@ Adjunto ... H
 
 Secretário ... L
 
-**O Ministro da Administração Interna, Jaime José Matos da Gama.**
+O Ministro da Administração Interna, Jaime José Matos da Gama.

@@ -48,40 +48,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3494d0c71d950ba567cd8cb56939f2afee3529cfe23f2f20a5b774aa4f1c9f34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af27fdd875a0937b374195a6038d4cdf4bc12f45dced6ece4ae2b29d85dadcb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissariado do Desemprego
+- Fiscalização
+- Fundo de Desemprego
+- Patronato
+- Quotização
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:385977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:142369:por
+  label: "Fixada em 1,5 por cento a taxa a que se refere o art. 1.º do presente diploma pelo DEC LEI.237/70.25.05.1970.MF,\
+    \ DG.IS [122] de 25.05.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1970-142369
+  date: '1970-05-25'
+- type: amended_by
+  target: pt:dre:573958:por
+  label: "Fixada a quotização a que alude o art. 2º e revogada a al. d) do art. 4º e a al. b) do art. 5º pelo DEC LEI.169-C/75.31.03.1975.MT,\
+    \ DG.IS [75-3SUPL] de 31.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-c-1975-573958
+  date: '1975-03-31'
+- type: amended_by
+  target: pt:dre:430776:por
+  label: "Substituídos os modelos de guias publicados em anexo ao presente diploma, pelo DEC LEI.612/76.26.07.1976.MT, DR.IS\
+    \ [173] de 26.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/612-1976-430776
+  date: '1976-07-26'
+- type: amended_by
+  target: pt:dre:381131:por
+  label: ALTERADA A TAXA DE COMPENSACAO PELA MORA PREVISTA NO PARAG ÚNICO DO ART 14, BEM COMO A MULTA PREVISTA NO PARAG ÚNICO
+    DO ART 6, PELO DEC LEI 190/79 DE 23-JUN DR.IS [143]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1979-381131
+  date: '1979-06-23'
+- type: amended_by
+  target: pt:dre:682057:por
+  label: "Alterados os arts. 6º, 7º, 8º e 10º, e revogado o art. 9º pelo DEC LEI.67/80.09.04.1980.MT, DR.IS [83] de 09.04.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1980-682057
+  date: '1980-04-09'
+- type: amended_by
+  target: pt:dre:451840:por
+  label: "Alterados os arts. 7º, 10º e 12º pelo DEC LEI.240/83.09.06.1983.MFP, DR.IS [132] de 09.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1983-451840
+  date: '1983-06-09'
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598347:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:20Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +167,7 @@ Ponderadas as circunstâncias expostas e com vista a dar-lhes a solução que re
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Todas as pessoas, singulares ou colectivas, nacionais ou estrangeiras, que exerçam, no continente da República ou ilhas adjacentes, actividade com fim lucrativo na qual ocupem um ou mais empregados, assalariados ou quaisquer outros servidores concorrerão, em cada mês, para o Fundo de Desemprego, com 1 por cento das importâncias que despenderem em ordenados, salários, vencimentos, gratificações, percentagens, subsídios, prémios, diuturnidades e outras remunerações fixas ou eventuais, em dinheiro, géneros, alimentação, habitação, ou por qualquer outro meio.
+Artigo 1.º Todas as pessoas, singulares ou colectivas, nacionais ou estrangeiras, que exerçam, no continente da República ou ilhas adjacentes, actividade com fim lucrativo na qual ocupem um ou mais empregados, assalariados ou quaisquer outros servidores concorrerão, em cada mês, para o Fundo de Desemprego, com 1 por cento das importâncias que despenderem em ordenados, salários, vencimentos, gratificações, percentagens, subsídios, prémios, diuturnidades e outras remunerações fixas ou eventuais, em dinheiro, géneros, alimentação, habitação, ou por qualquer outro meio.
 
 § 1.º Os valores das remunerações em géneros, alimentação ou habitação, previstos no corpo deste artigo, serão os que constarem das respectivas convenções colectivas de trabalho ou que forem fixados por despacho proferido pelo Ministro das Corporações e Previdência Social, para efeitos de desconto para as instituições de previdência ou de abono de família.
 
@@ -114,7 +179,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º Os proprietários rústicos e urbanos que, por administração directa, realizem obras de construção ou de reconstrução nos seus prédios estão sempre sujeitos à quotização de 1 por cento para o Fundo de Desemprego a que se refere este artigo.
 
-###### Art. 2.º Todos os que prestem o seu trabalho ou a sua actividade a quaisquer pessoas mediante remuneração, sejam quais forem a sua natureza e o seu fim, concorrerão, em cada mês, para o Fundo de Desemprego, com 2 por cento dos ordenados e demais meios de retribuição indicados no artigo 1.º
+Art. 2.º Todos os que prestem o seu trabalho ou a sua actividade a quaisquer pessoas mediante remuneração, sejam quais forem a sua natureza e o seu fim, concorrerão, em cada mês, para o Fundo de Desemprego, com 2 por cento dos ordenados e demais meios de retribuição indicados no artigo 1.º
 
 § 1.º Para determinação dos valores das remunerações em géneros, alimentação ou habitação seguir-se-á o disposto no § 1.º do artigo anterior.
 
@@ -126,9 +191,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5.º Tratando-se de pessoal inscrito em caixas sindicais de previdência ou caixas de reforma ou previdência, sujeito ao desconto de 0,5 por cento, nos termos do § 1.º do artigo 6.º do [Decreto-Lei n.º 37426](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37426-1949-259756), de 23 de Maio de 1949, a quotização a que se refere o corpo deste artigo é reduzida a 1,5 por cento, na parte das remunerações sobre que incidir aquela percentagem.
 
-###### Art. 3.º Os proprietários rústicos e urbanos concorrerão para o Fundo de Desemprego com 2 por cento de adicional sobre a importância da respectiva contribuição predial.
+Art. 3.º Os proprietários rústicos e urbanos concorrerão para o Fundo de Desemprego com 2 por cento de adicional sobre a importância da respectiva contribuição predial.
 
-###### Art. 4.º Exceptuam-se do disposto no artigo 1.º:
+Art. 4.º Exceptuam-se do disposto no artigo 1.º:
 
 a) As empresas para cujos serviços ou fornecimentos estiver estabelecida remuneração em tarifas fixadas ou aprovadas pelo Governo ou corpos administrativos e que nos últimos dois anos não hajam tido lucros;
 
@@ -150,7 +215,7 @@ i) As pensões do pessoal aposentado ou reformado;
 
 j) As remunerações isentas por lei especial.
 
-###### Art. 5.º Exceptuam-se do disposto no artigo 2.º:
+Art. 5.º Exceptuam-se do disposto no artigo 2.º:
 
 a) Os empregados ou assalariados com menos de quatro dias de trabalho semanal no conjunto da sua actividade, prestada para uma só ou para mais do que uma entidade patronal, qualquer que seja o número diário de horas de trabalho prestado;
 
@@ -178,11 +243,11 @@ l) As remunerações isentas por lei especial.
 
 § 2.º As dúvidas relativas à classificação dos trabalhadores serão esclarecidas pelo Ministério das Corporações e Previdência Social.
 
-###### Art. 6.º É da exclusiva responsabilidade das entidades pagadoras de remunerações passíveis de imposto para o Fundo de Desemprego a liquidação, a cobrança e o posterior pagamento das quotizações impostas nos termos dos artigos 1.º e 2.º do presente decreto-lei. A quotização a que se refere o artigo 2.º deverá ser descontada no acto do pagamento das respectivas remunerações e depositada pela entidade pagadora, juntamente com a quotização a que se refere o artigo 1.º, nos termos do artigo 7.º
+Art. 6.º É da exclusiva responsabilidade das entidades pagadoras de remunerações passíveis de imposto para o Fundo de Desemprego a liquidação, a cobrança e o posterior pagamento das quotizações impostas nos termos dos artigos 1.º e 2.º do presente decreto-lei. A quotização a que se refere o artigo 2.º deverá ser descontada no acto do pagamento das respectivas remunerações e depositada pela entidade pagadora, juntamente com a quotização a que se refere o artigo 1.º, nos termos do artigo 7.º
 
 § único. As entidades responsáveis pela liquidação e cobrança das quotizações nos termos deste artigo que não tenham efectuado o pagamento para o Fundo de Desemprego das importâncias das quotizações obrigatòriamente impostas nos termos do presente decreto-lei ou que tenham pago importância inferior à efectivamente devida incorrerão numa multa igual a duas vezes o valor das quotizações em dívida, mas nunca inferior a 200$00, multa que será elevada ao dobro em caso de reincidência.
 
-###### Art. 7.º A liquidação e a cobrança das quotizações para o Fundo de Desemprego devem ser efectuadas mensalmente, e o seu pagamento será também feito mensalmente e pela forma seguinte:
+Art. 7.º A liquidação e a cobrança das quotizações para o Fundo de Desemprego devem ser efectuadas mensalmente, e o seu pagamento será também feito mensalmente e pela forma seguinte:
 
 a) Até à importância de 500$00, por meio de estampilhas fiscais com a sobrecarga «Desemprego», apostas num dos exemplares da guia conforme modelo A anexo a este decreto-lei e devidamente inutilizadas pela entidade responsável com rubrica ou carimbo e data;
 
@@ -200,37 +265,37 @@ b) Além de 500$00, em dinheiro, mediante guias conforme modelo B anexo a este d
 
 § 6.º O pagamento das quotizações para o Fundo de Desemprego por forma diferente do que fica estabelecido faz incorrer os responsáveis na multa de 200$00 a 1000$00, segundo a importância das respectivas quotizações, elevada ao dobro em caso de reincidência.
 
-###### Art. 8.º As importâncias em dinheiro arrecadadas nas tesourarias da Fazenda Pública por meio de guia modelo B, bem como as resultantes do produto da venda das estampilhas fiscais com a sobrecarga «Desemprego» e do adicional à contribuição predial a que se refere o artigo 3.º, serão escrituradas como «Operações de tesouraria» e transferidas mensalmente para a Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Comissariado do Desemprego.
+Art. 8.º As importâncias em dinheiro arrecadadas nas tesourarias da Fazenda Pública por meio de guia modelo B, bem como as resultantes do produto da venda das estampilhas fiscais com a sobrecarga «Desemprego» e do adicional à contribuição predial a que se refere o artigo 3.º, serão escrituradas como «Operações de tesouraria» e transferidas mensalmente para a Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Comissariado do Desemprego.
 
 § único. As estampilhas fiscais com a sobrecarga «Desemprego» são fornecidas pela Casa da Moeda às tesourarias da Fazenda Pública e pela sua venda ou revenda não serão abonadas quaisquer percentagens aos tesoureiros da Fazenda Pública nem aos revendedores de valores selados.
 
-###### Art. 9.º As secções de finanças enviarão ao Comissariado do Desemprego, até ao dia 10 de cada mês, as guias de pagamento das quotizações para o Fundo de Desemprego, modelos A e B, que nelas tenham dado entrada no mês anterior, devidamente relacionadas e acompanhadas da guia de depósito, na Caixa Geral de Depósitos, Crédito e Previdência, das importâncias arrecadadas, para aquele Fundo, durante o mesmo mês.
+Art. 9.º As secções de finanças enviarão ao Comissariado do Desemprego, até ao dia 10 de cada mês, as guias de pagamento das quotizações para o Fundo de Desemprego, modelos A e B, que nelas tenham dado entrada no mês anterior, devidamente relacionadas e acompanhadas da guia de depósito, na Caixa Geral de Depósitos, Crédito e Previdência, das importâncias arrecadadas, para aquele Fundo, durante o mesmo mês.
 
 § único. Mensalmente as direcções de finanças enviarão ao Comissariado do Desemprego um mapa demonstrativo das importâncias arrecadadas e transferidas para a Caixa Geral de Depósitos, Crédito e Previdência consignadas ao mesmo Comissariado.
 
-###### Art. 10.º Para efeitos da fiscalização da liquidação, cobrança e pagamento das quotizações destinadas ao Fundo de Desemprego, os administradores, directores, gerentes, chefes de serviço ou encarregados da contabilidade de qualquer entidade pagadora de remunerações são obrigados a facultar ao Comissariado do Desemprego, ou seus agentes munidos de credencial bastante, os elementos de escrituração comercial indispensáveis àquela fiscalização.
+Art. 10.º Para efeitos da fiscalização da liquidação, cobrança e pagamento das quotizações destinadas ao Fundo de Desemprego, os administradores, directores, gerentes, chefes de serviço ou encarregados da contabilidade de qualquer entidade pagadora de remunerações são obrigados a facultar ao Comissariado do Desemprego, ou seus agentes munidos de credencial bastante, os elementos de escrituração comercial indispensáveis àquela fiscalização.
 
 § 1.º Independentemente do disposto no corpo deste artigo, todas as repartições ou estabelecimentos do Estado e dos corpos administrativos deverão facultar ao Comissariado do Desemprego os elementos que por este lhes forem solicitados para efeito da fiscalização ali referida.
 
 § 2.º Todos aqueles que se recusem ou por qualquer forma se eximam ao cumprimento da obrigação imposta no corpo deste artigo incorrem na multa de 500$00 a 5000$00, a fixar pelo comissário do Desemprego. No caso de reincidência, os infractores incorrerão, além da multa em dobro, na pena de crime de desobediência do artigo 188.º do Código Penal. A falsidade das declarações será punida nos termos da lei penal.
 
-###### Art. 11.º Quando não for possível determinar o valor das importâncias sobre que devem incidir as percentagens referidas nos artigos 1.º e 2.º por falta dos elementos referidos no artigo 10.º, ou estes forem suspeitos de falsidade, o montante daquelas importâncias será fixado pelo Comissariado do Desemprego, tomando por base os salários e ordenados correntes ou estabelecidos por despacho ministerial ou convenção colectiva de trabalho.
+Art. 11.º Quando não for possível determinar o valor das importâncias sobre que devem incidir as percentagens referidas nos artigos 1.º e 2.º por falta dos elementos referidos no artigo 10.º, ou estes forem suspeitos de falsidade, o montante daquelas importâncias será fixado pelo Comissariado do Desemprego, tomando por base os salários e ordenados correntes ou estabelecidos por despacho ministerial ou convenção colectiva de trabalho.
 
 § único. Quando se trate de execução de obras públicas ou particulares e não seja possível conhecer o montante das importâncias a que se refere o corpo deste artigo, as quotizações para o Fundo de Desemprego serão determinadas na base do valor atribuído para mão-de-obra nos respectivos orçamentos, e, na falta ou insuficiência destes, aquelas quotizações serão fixadas pelo Comissariado do Desemprego através dos elementos informativos que puder obter.
 
-###### Art. 12.º Quando os agentes do Comissariado do Desemprego verificarem alguma infracção ao disposto no § 2.º do artigo 10.º, elaborarão relatório circunstanciado onde identificarão o infractor pelo nome, estado, profissão, residência e naturalidade, o qual será submetido à apreciação e despacho do comissário, que promoverá as diligências convenientes para inteiro esclarecimento da ocorrência e definição das responsabilidades do seu autor.
+Art. 12.º Quando os agentes do Comissariado do Desemprego verificarem alguma infracção ao disposto no § 2.º do artigo 10.º, elaborarão relatório circunstanciado onde identificarão o infractor pelo nome, estado, profissão, residência e naturalidade, o qual será submetido à apreciação e despacho do comissário, que promoverá as diligências convenientes para inteiro esclarecimento da ocorrência e definição das responsabilidades do seu autor.
 
 § 1.º Quando se trate de contravenções previstas no corpo deste artigo e a que corresponda sòmente pena de multa, o comissário mandará levantar auto de transgressão, fixando a multa correspondente, o qual será remetido ao tribunal judicial competente depois de ter aguardado na secção de finanças respectiva, durante o prazo de dez dias, o pagamento voluntário da multa.
 
 § 2.º No caso de à infracção corresponder outra pena além da multa, o comissário mandará remeter directamente ao tribunal judicial competente a respectiva participação, acompanhada dos elementos probatórios de que dispuser.
 
-###### Art. 13.º Sempre que os agentes do Comissariado do Desemprego, em serviço de fiscalização, verifiquem qualquer facto que possa constituir infracção em matéria de liquidação, cobrança e pagamento das quotizações para o Fundo de Desemprego elaborarão um relatório em que farão menção expressa desse facto e do nome, estado, profissão, residência e naturalidade do seu autor. Esse relatório será submetido a apreciação e despacho do comissário, que mandará proceder às diligências que entender por convenientes para inteiro esclarecimento dos factos, quando aqueles relatórios forem insuficientes ou obscuros.
+Art. 13.º Sempre que os agentes do Comissariado do Desemprego, em serviço de fiscalização, verifiquem qualquer facto que possa constituir infracção em matéria de liquidação, cobrança e pagamento das quotizações para o Fundo de Desemprego elaborarão um relatório em que farão menção expressa desse facto e do nome, estado, profissão, residência e naturalidade do seu autor. Esse relatório será submetido a apreciação e despacho do comissário, que mandará proceder às diligências que entender por convenientes para inteiro esclarecimento dos factos, quando aqueles relatórios forem insuficientes ou obscuros.
 
-###### Art. 14.º Quando se reconheça, em face dos elementos constantes dos relatórios e averiguações complementares a que se refere o artigo anterior, que não foram pagas as quotizações devidas para o Fundo de Desemprego, o Comissariado procederá à liquidação do montante das quotizações em dívida, e notificará a entidade responsável pelo seu pagamento, nos termos do artigo 6.º, para, dentro do prazo de dez dias, satisfazer o seu débito ou apresentar a sua reclamação nos termos do artigo 15.º
+Art. 14.º Quando se reconheça, em face dos elementos constantes dos relatórios e averiguações complementares a que se refere o artigo anterior, que não foram pagas as quotizações devidas para o Fundo de Desemprego, o Comissariado procederá à liquidação do montante das quotizações em dívida, e notificará a entidade responsável pelo seu pagamento, nos termos do artigo 6.º, para, dentro do prazo de dez dias, satisfazer o seu débito ou apresentar a sua reclamação nos termos do artigo 15.º
 
 § único. As liquidações a que se refere o corpo deste artigo não poderão ultrapassar os últimos cinco anos, e serão acrescidas de uma taxa de 10 por cento como compensação da mora no seu pagamento.
 
-###### Art. 15.º Sem prejuízo de quaisquer outros meios de defesa que a lei lhe confira, poderá o infractor, notificado nos termos do artigo anterior, apresentar a sua reclamação ao comissário do Desemprego, o qual, depois de ouvir os serviços respectivos, apreciará e resolverá a reclamação por simples despacho.
+Art. 15.º Sem prejuízo de quaisquer outros meios de defesa que a lei lhe confira, poderá o infractor, notificado nos termos do artigo anterior, apresentar a sua reclamação ao comissário do Desemprego, o qual, depois de ouvir os serviços respectivos, apreciará e resolverá a reclamação por simples despacho.
 
 § único. Só podem servir de fundamento à reclamação de que trata o corpo deste artigo os factos seguintes:
 
@@ -248,11 +313,11 @@ f) Duplicação de colecta;
 
 g) Prescrição da dívida reclamada.
 
-###### Art. 16.º Podem os contribuintes do Fundo de Desemprego ou os seus representantes requerer, dentro do prazo de 90 dias, a contar do respectivo pagamento, a restituição das importâncias que, por erro de liquidação, tenham pago a mais para aquele Fundo.
+Art. 16.º Podem os contribuintes do Fundo de Desemprego ou os seus representantes requerer, dentro do prazo de 90 dias, a contar do respectivo pagamento, a restituição das importâncias que, por erro de liquidação, tenham pago a mais para aquele Fundo.
 
 § único. Os requerentes deverão instruir os seus pedidos com os elementos probatórios que entenderem convenientes, os quais ficam, porém, sujeitos a confirmação posterior pelos serviços competentes do Comissariado do Desemprego.
 
-###### Art. 17.º Findo o prazo fixado no artigo 14.º, se a entidade responsável pelo pagamento das quotizações não tiver efectuado o pagamento do seu débito, ou não tiver sido julgada procedente a sua reclamação, será a respectiva importância imediatamente acrescida da multa cominada no § único do artigo 6.º, extraindo-se certidão do respectivo processo, a qual terá força executiva para efeitos do artigo 35.º do Código das Execuções Fiscais.
+Art. 17.º Findo o prazo fixado no artigo 14.º, se a entidade responsável pelo pagamento das quotizações não tiver efectuado o pagamento do seu débito, ou não tiver sido julgada procedente a sua reclamação, será a respectiva importância imediatamente acrescida da multa cominada no § único do artigo 6.º, extraindo-se certidão do respectivo processo, a qual terá força executiva para efeitos do artigo 35.º do Código das Execuções Fiscais.
 
 § 1.º A certidão a que se refere o corpo deste artigo será remetida pelo Comissariado do Desemprego aos tribunais das execuções fiscais da área do domicílio do devedor, e nos concelhos de Lisboa e Porto aos tribunais privativos da 1.ª instância do contencioso das contribuições e impostos, aos quais competirá a cobrança coerciva das quotizações, multas e demais quantias em dívida ao Fundo de Desemprego.
 
@@ -260,26 +325,26 @@ g) Prescrição da dívida reclamada.
 
 § 3.º O resultado das execuções será sempre comunicado ao Comissariado do Desemprego, com indicação da data do depósito na Caixa Geral de Depósitos, Crédito e Previdência quando a cobrança tiver sido efectuada.
 
-###### Art. 18.º As transgressões ao disposto no artigo 7.º e seus parágrafos serão participadas aos tribunais do contencioso das contribuições e impostos, aos quais competirá conhecer e julgar essas transgressões.
+Art. 18.º As transgressões ao disposto no artigo 7.º e seus parágrafos serão participadas aos tribunais do contencioso das contribuições e impostos, aos quais competirá conhecer e julgar essas transgressões.
 
-###### Art. 19.º Sobre as multas fixadas neste diploma não incidirá qualquer adicional.
+Art. 19.º Sobre as multas fixadas neste diploma não incidirá qualquer adicional.
 
-###### Art. 20.º O Ministro das Finanças resolverá todas as dúvidas que se levantarem sobre a interpretação das disposições respeitantes a liquidação, cobrança e pagamento das quotizações para o Fundo de Desemprego, exceptuando o que diga respeito à classificação dos trabalhadores para efeitos da aplicação das isenções estabelecidas no artigo 5.º
+Art. 20.º O Ministro das Finanças resolverá todas as dúvidas que se levantarem sobre a interpretação das disposições respeitantes a liquidação, cobrança e pagamento das quotizações para o Fundo de Desemprego, exceptuando o que diga respeito à classificação dos trabalhadores para efeitos da aplicação das isenções estabelecidas no artigo 5.º
 
-###### Art. 21.º É criada na Repartição Central do Comissariado do Desemprego uma secção de estatística e alterada a designação da secção de arquivo da referida repartição para secção de inscrição e informação, sendo o quadro do pessoal de chefia correspondentemente acrescido de um lugar de chefe de secção, cujo provimento será feito nos termos do artigo 2.º do [Decreto-Lei n.º 36183](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36183-1947-414614), de 17 de Março de 1947.
+Art. 21.º É criada na Repartição Central do Comissariado do Desemprego uma secção de estatística e alterada a designação da secção de arquivo da referida repartição para secção de inscrição e informação, sendo o quadro do pessoal de chefia correspondentemente acrescido de um lugar de chefe de secção, cujo provimento será feito nos termos do artigo 2.º do [Decreto-Lei n.º 36183](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36183-1947-414614), de 17 de Março de 1947.
 
-###### Art. 22.º Ficam expressamente revogados os artigos 20.º a 37.º do [Decreto n.º 21699](https://diariodarepublica.pt/dr/detalhe/decreto/21699-1932-598347), de 19 de Setembro de 1932.
+Art. 22.º Ficam expressamente revogados os artigos 20.º a 37.º do [Decreto n.º 21699](https://diariodarepublica.pt/dr/detalhe/decreto/21699-1932-598347), de 19 de Setembro de 1932.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
 Modelo A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/14400/07560760.pdf))](https://files.diariodarepublica.pt/1s/1963/06/14400/07560760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/14400/07560760.pdf)
 
 Modelo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/14400/07560760.pdf))](https://files.diariodarepublica.pt/1s/1963/06/14400/07560760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/06/14400/07560760.pdf)
 
 Ministério das Obras Públicas, 20 de Junho de 1963. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/05800/04840486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1976-507435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bcd3491312ab8ebea4412ddde6baa2322919b693c3a49ff8b63e79315a56561
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c676c04f0c2dd41a13f85963430192c6ecc6a560a59f417828d1b03dc191daec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cooperação Técnica
+- Cooperante
+- Estatuto
+- Palop
+relationships:
+- type: repealed_by
+  target: pt:dre:179050:por
+  label: "REVOGADO PELO DECRETO LEI 363/85, PUBLICADO NO DR.IS, 208, DE 850910.\0910.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/363-1985-179050
+- type: repealed_by
+  target: pt:dre:179050:por
+  label: "Revogado pelo DEC LEI.363/85.10.09.1985.MNE, DR.IS [208] de 10.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/363-1985-179050
+  date: '1985-09-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:19Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +107,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Art. 1.º - 1. No âmbito das relações de cooperação entre o Estado Português e os novos Estados de expressão portuguesa, cabe àquele, através do Ministério da Cooperação ou das pessoas ou organismos que este designar, incentivar e promover a adesão e recrutamento de cooperantes qualificados, de entre os quais o Estado solicitante terá o direito de seleccionar aqueles cuja cooperação deseje.
+Art. 1.º - 1. No âmbito das relações de cooperação entre o Estado Português e os novos Estados de expressão portuguesa, cabe àquele, através do Ministério da Cooperação ou das pessoas ou organismos que este designar, incentivar e promover a adesão e recrutamento de cooperantes qualificados, de entre os quais o Estado solicitante terá o direito de seleccionar aqueles cuja cooperação deseje.
 
 2. Na sua acção de incentivação e promoção tendente à adesão e recrutamento de pessoal cooperante, as entidades portuguesas referidas no número anterior poderão dirigir-se directamente, e mesmo solicitar a indicação de cooperantes, a todos os organismos estatais, paraestatais, sindicatos e quaisquer outros, recorrer à publicidade que entendam conveniente, através dos órgãos da comunicação social, e ainda aceitar a inscrição directa de cooperantes que reúnam os requisitos exigidos para a prestação de cooperação.
 
 3. A obrigação que, nos termos do n.º 1, recai sobre o Estado Português não impede que o Estado solicitante da cooperação individualize os cooperantes que deseja, sem prejuízo, porém, do que vai disposto no artigo seguinte.
 
-###### Art. 2.º - 1. Só pode ser cooperante, para os efeitos deste diploma, quem, para tal, obtiver autorização do Estado Português, devendo ser fundamentada a sua denegação.
+Art. 2.º - 1. Só pode ser cooperante, para os efeitos deste diploma, quem, para tal, obtiver autorização do Estado Português, devendo ser fundamentada a sua denegação.
 
 2. Poderão ser cooperantes tanto trabalhadores da função pública como meros particulares, empregados ou não por conta de outrem.
 
@@ -110,7 +123,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. Verificando-se recusa injustificada nos casos dos dois números anteriores, decidirá o Ministro da Cooperação, depois de ouvidos o trabalhador da função pública ou empregado, a entidade de que ele dependa ou a empresa a cujo serviço se encontre, e de colher as informações que considerar necessárias.
 
-###### Art. 3.º - 1. Entre cada cooperante, o Estado Português e o Estado solicitante da cooperação celebrar-se-á um contrato único, que será obrigatoriamente reduzido a escrito, e do qual constarão os direitos e as obrigações a que cada um dos três outorgantes fica vinculado e em que se inserirão cláusulas sobre as seguintes matérias:
+Art. 3.º - 1. Entre cada cooperante, o Estado Português e o Estado solicitante da cooperação celebrar-se-á um contrato único, que será obrigatoriamente reduzido a escrito, e do qual constarão os direitos e as obrigações a que cada um dos três outorgantes fica vinculado e em que se inserirão cláusulas sobre as seguintes matérias:
 
 Objecto do contrato;
 
@@ -148,15 +161,15 @@ Dúvidas sobre a interpretação ou execução das disposições contratuais.
 
 4. Na assinatura do contrato, vinculará o Estado Português o Ministro da Cooperação ou a pessoa que este designar, e o Estado solicitante da cooperação ficará vinculado pela assinatura de quem para tal se ache indicado, em documento previamente arquivado no Ministério da Cooperação.
 
-###### Art. 4.º - 1. O início da prestação do serviço do cooperante ao Estado solicitante é contado, no silêncio do contrato, desde a data do seu desembarque neste Estado, para onde o cooperante deverá seguir, logo que para tal receba ordem do Estado Português e pela via que este lhe indicar.
+Art. 4.º - 1. O início da prestação do serviço do cooperante ao Estado solicitante é contado, no silêncio do contrato, desde a data do seu desembarque neste Estado, para onde o cooperante deverá seguir, logo que para tal receba ordem do Estado Português e pela via que este lhe indicar.
 
 2. Quando o contrato for omisso sobre tal matéria, serão de conta do Estado Português as despesas do transporte, para o Estado solicitante, do cooperante e das pessoas do seu agregado com direito a acompanhá-lo.
 
 3. Desde a data da assinatura do contrato até à da chegada ao Estado solicitante, e em relação ao número de dias que mediar entre uma e outra, suportará o Estado Português a responsabilidade do pagamento das importâncias a que o cooperante tenha direito pelo contrato, incluindo a remuneração e o seu complemento.
 
-###### Art. 5.º Os actos administrativos necessários para efeitos de cooperação, como sejam requisições, elaboração de contratos, abonos de passagens e outros, caberão ao departamento competente da Secretaria de Estado da Cooperação.
+Art. 5.º Os actos administrativos necessários para efeitos de cooperação, como sejam requisições, elaboração de contratos, abonos de passagens e outros, caberão ao departamento competente da Secretaria de Estado da Cooperação.
 
-###### Art. 6.º - 1. Competirá ainda à Secretaria de Estado da Cooperação:
+Art. 6.º - 1. Competirá ainda à Secretaria de Estado da Cooperação:
 
 a) O pagamento, em fracções mensais, do complemento da remuneração a que tiver direito o cooperante, de acordo com o artigo 10.º;
 
@@ -176,11 +189,11 @@ b) Em relação aos cooperantes abrangidos na alínea c), a remuneração que co
 
 5. Para cobertura dos encargos referidos no presente artigo, bem como das despesas de transporte a que os cooperantes tiverem direito para si e seus familiares, serão atribuídas à Secretaria de Estado da Cooperação as verbas necessárias, inscrevendo-se anualmente o seu montante no Orçamento Geral do Estado, e cabendo a administração dessas verbas ao organismo competente.
 
-###### Art. 7.º - 1. Se o cooperante pretender a prorrogação do contrato para além do seu período inicial de vigência, deverá comunicá-lo à embaixada de Portugal no país a que presta a cooperação, a qual promoverá o necessário junto do Ministério da Cooperação, para que este, ouvidos o departamento público ou a entidade patronal a que o cooperante se encontra vinculado, autorize ou recuse a prorrogação pretendida.
+Art. 7.º - 1. Se o cooperante pretender a prorrogação do contrato para além do seu período inicial de vigência, deverá comunicá-lo à embaixada de Portugal no país a que presta a cooperação, a qual promoverá o necessário junto do Ministério da Cooperação, para que este, ouvidos o departamento público ou a entidade patronal a que o cooperante se encontra vinculado, autorize ou recuse a prorrogação pretendida.
 
 2. Em caso de prorrogação do período contratual, o respectivo documento será lavrado em triplicado no Estado solicitante, ficando o Estado Português vinculado pela assinatura do embaixador ou de quem o substituir, e o exemplar destinado ao Estado Português será remetido pela embaixada ao Ministro da Cooperação, através do Ministério dos Negócios Estrangeiros.
 
-###### Art. 8.º - 1. O cooperante manterá a situação jurídica que possuía à data em que se vinculou à cooperação.
+Art. 8.º - 1. O cooperante manterá a situação jurídica que possuía à data em que se vinculou à cooperação.
 
 2. O tempo de serviço prestado pelo cooperante ao Estado solicitante é contado, para efeitos de antiguidade e promoção, como se tivesse sido prestado no exercício do cargo que o cooperante desempenhava à data da celebração do respectivo contrato.
 
@@ -190,13 +203,13 @@ b) Em relação aos cooperantes abrangidos na alínea c), a remuneração que co
 
 5. O cooperante não abrangido pelos n.os 2 e 4, se vier a ingressar na função pública, terá direito à contagem do tempo de serviço prestado como cooperante, mediante o pagamento dos descontos respectivos, nos termos da lei geral.
 
-###### Art. 9.º Quaisquer direitos, regalias ou facilidades especiais a atribuir ao cooperante serão definidos por despacho do Ministro da Cooperação e, quando se trate de trabalhadores da função pública, por despacho conjunto deste e do Ministro titular da pasta que superintenda no organismo estatal ou paraestatal em que o cooperante preste serviço, e ainda do Ministro das Finanças, se necessário.
+Art. 9.º Quaisquer direitos, regalias ou facilidades especiais a atribuir ao cooperante serão definidos por despacho do Ministro da Cooperação e, quando se trate de trabalhadores da função pública, por despacho conjunto deste e do Ministro titular da pasta que superintenda no organismo estatal ou paraestatal em que o cooperante preste serviço, e ainda do Ministro das Finanças, se necessário.
 
-###### Art. 10.º O complemento da remuneração a fixar aos cooperantes, da responsabilidade do Estado Português, será estabelecido por despacho conjunto dos Ministros da Cooperação e das Finanças.
+Art. 10.º O complemento da remuneração a fixar aos cooperantes, da responsabilidade do Estado Português, será estabelecido por despacho conjunto dos Ministros da Cooperação e das Finanças.
 
-###### Art. 11.º O suporte financeiro para as acções de cooperação a desenvolver no ano corrente será dado pelas dotações próprias do Orçamento Geral do Estado para 1976.
+Art. 11.º O suporte financeiro para as acções de cooperação a desenvolver no ano corrente será dado pelas dotações próprias do Orçamento Geral do Estado para 1976.
 
-###### Art. 12.º - 1. Fica a Secretaria de Estado da Cooperação autorizada a requisitar à Direcção-Geral de Fazenda, do Ministério da Cooperação, as verbas que tenham sido destinadas a acções de cooperação, bem como a:
+Art. 12.º - 1. Fica a Secretaria de Estado da Cooperação autorizada a requisitar à Direcção-Geral de Fazenda, do Ministério da Cooperação, as verbas que tenham sido destinadas a acções de cooperação, bem como a:
 
 a) Abrir contas na Caixa Geral de Depósitos, onde se depositarão todas as importâncias recebidas para acções de cooperação;
 
@@ -206,12 +219,12 @@ c) Requisição das passagens necessárias para as deslocações dos cooperantes
 
 2. Deverá ser apresentada à Direcção-Geral de Fazenda conta justificativa das verbas requisitadas.
 
-###### Art. 13.º Quaisquer dúvidas surgidas na interpretação do presente diploma e os casos omissos serão resolvidos, consoante as hipóteses, ou por despacho do Ministro da Cooperação ou por despacho conjunto deste e do Ministro competente, em razão da matéria a esclarecer.
+Art. 13.º Quaisquer dúvidas surgidas na interpretação do presente diploma e os casos omissos serão resolvidos, consoante as hipóteses, ou por despacho do Ministro da Cooperação ou por despacho conjunto deste e do Ministro competente, em razão da matéria a esclarecer.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 27 de Fevereiro de 1976.**
+Promulgado em 27 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

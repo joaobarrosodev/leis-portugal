@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/142-1972-680256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9a16d0be915414c225482616944fa7b05301f4b4822028c48e76d9909d03206
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f78406784d03398900db2b9aa6ebd8bb14622cce26cf6b348c442c30096f2f92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Hospitalar de Coimbra
+- Definição de Competências
+- Gestão Administrativa
+- Gestão Financeira
+- Integração de Trabalhadores
+- Orgânica
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:140116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445370:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:50Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +111,7 @@ Regulamento do Centro Hospitalar de Coimbra
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. O Centro Hospitalar de Coimbra é constituído pelos estabelecimentos seguintes:
+Artigo 1.º - 1. O Centro Hospitalar de Coimbra é constituído pelos estabelecimentos seguintes:
 
 a) Hospital Geral da Colónia Portuguesa do Brasil;
 
@@ -104,7 +123,7 @@ d) Hospital Ortopédico e de Recuperação da Gala.
 
 2. Poderão ser integrados no Centro outros estabelecimentos, nos termos previstos no n.º 6 do artigo 2.º do [Decreto-Lei n.º 93/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1971-445370), de 22 de Março.
 
-###### Art. 2.º São funções específicas de cada estabelecimento:
+Art. 2.º São funções específicas de cada estabelecimento:
 
 a) Do Hospital Geral da Colónia Portuguesa do Brasil, a assistência geral e especializada, em nível de hospital central, incluindo um sector de pneumotisiologia;
 
@@ -114,15 +133,15 @@ c) Do Hospital Pediátrico de Celas, a assistência médica e cirúrgica à inf�
 
 d) Do Hospital Ortopédico e de Recuperação da Gala, a assistência a doentes de foro ortopédico e traumatológico, a reabilitação de diminuídos físicos e a preparação do respectivo pessoal técnico.
 
-###### Art. 3.º A área de influência de cada um dos estabelecimentos integrados corresponde, nos termos estabelecidos na lei, à região do Centro do País.
+Art. 3.º A área de influência de cada um dos estabelecimentos integrados corresponde, nos termos estabelecidos na lei, à região do Centro do País.
 
-###### Art. 4.º O Centro faz parte do sistema nacional hospitalar e colaborará com todos os restantes serviços nos programas tendentes à melhoria do nível de saúde da população.
+Art. 4.º O Centro faz parte do sistema nacional hospitalar e colaborará com todos os restantes serviços nos programas tendentes à melhoria do nível de saúde da população.
 
-###### Art. 5.º Cada estabelecimento integrado no Centro constitui uma unidade funcional, responsável pelo exercício das funções que lhe cabem, de acordo com o grau de autonomia que lhe for concedido.
+Art. 5.º Cada estabelecimento integrado no Centro constitui uma unidade funcional, responsável pelo exercício das funções que lhe cabem, de acordo com o grau de autonomia que lhe for concedido.
 
 ### CAPÍTULO II — Da direcção e administração
 
-###### Art. 6.º - 1. São órgãos de administração do Centro:
+Art. 6.º - 1. São órgãos de administração do Centro:
 
 a) O conselho de administração;
 
@@ -132,7 +151,7 @@ b) O conselho de direcção.
 
 3. Cada um dos estabelecimentos integrados terá uma direcção.
 
-###### Art. 7.º - 1. O conselho de administração é presidido pelo director do Centro e tem como vogais:
+Art. 7.º - 1. O conselho de administração é presidido pelo director do Centro e tem como vogais:
 
 a) O director clínico e o administrador do Centro;
 
@@ -154,7 +173,7 @@ g) Um representante da Câmara Municipal de Coimbra;
 
 4. O presidente pode convocar para o conselho os funcionários cujo parecer entenda vantajoso e, bem assim, determinar a constituição de grupos de trabalhos para estudo de problemas específicos.
 
-###### Art. 8.º - 1. O conselho de direcção é presidido pelo director do Centro e tem como vogais o director clínico e o administrador.
+Art. 8.º - 1. O conselho de direcção é presidido pelo director do Centro e tem como vogais o director clínico e o administrador.
 
 2. O conselho de direcção responde pela realização dos fins do Centro, competindo-lhe orientar, coordenar e fiscalizar o funcionamento dos estabelecimentos e serviços e promover a actualização das respectivas estruturas orgânicas.
 
@@ -166,7 +185,7 @@ g) Um representante da Câmara Municipal de Coimbra;
 
 6. A nomeação e competência do administrador do Centro regula-se pelo disposto no artigo 89.º do Regulamento Geral dos Hospitais.
 
-###### Art. 9.º - 1. O conselho técnico é presidido pelo director do Centro e tem como vogais:
+Art. 9.º - 1. O conselho técnico é presidido pelo director do Centro e tem como vogais:
 
 a) Os membros do conselho de direcção;
 
@@ -192,7 +211,7 @@ j) O chefe dos serviços de instalação e equipamentos.
 
 3. Ao funcionamento, competência e repartição dos vogais pelo conselho técnico, aplica-se o disposto nos n.os 2, 3 e 4 do artigo 86.º do Regulamento Geral dos Hospitais.
 
-###### Art. 10.º - 1. A direcção de cada um dos estabelecimentos integrados é constituída pelo director clínico e pelo administrador desse estabelecimento, e é responsável pela orientação, coordenação e eficiência dos respectivos serviços e pela repartição que lhe cabe na acção conjunta do Centro.
+Art. 10.º - 1. A direcção de cada um dos estabelecimentos integrados é constituída pelo director clínico e pelo administrador desse estabelecimento, e é responsável pela orientação, coordenação e eficiência dos respectivos serviços e pela repartição que lhe cabe na acção conjunta do Centro.
 
 2. Em especial, compete a cada direcção:
 
@@ -214,27 +233,27 @@ h) Instalar um sistema regular de avaliação do funcionamento dos serviços;
 
 i) Elaborar o relatório anual de actividades.
 
-###### Art. 11.º - 1. O director clínico de cada estabelecimento é nomeado pelo Ministro da Saúde e Assistência de entre os directores de serviço de acção médica.
+Art. 11.º - 1. O director clínico de cada estabelecimento é nomeado pelo Ministro da Saúde e Assistência de entre os directores de serviço de acção médica.
 
 2. O director clínico do Hospital Pediátrico de Celas será nomeado nos termos do número anterior, ouvido o Ministro da Educação Nacional.
 
 3. Para o desempenho de funções de cooperação com os Hospitais da Universidade de Coimbra, por forma a assegurar à Faculdade de Medicina de Coimbra as condições necessárias ao ensino clínico e à investigação, previstas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 308/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1970-140116), de 2 de Julho, aplicável por força do n.º 5 do artigo 2.º do [Decreto-Lei n.º 93/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1971-445370), de 22 de Março, a direcção clínica de um dos serviços a criar no Hospital Pediátrico de Celas será confiada, por inerência, ao professor ou encarregado da regência da disciplina de Pediatria e Puericultura da Faculdade de Medicina de Coimbra.
 
-###### Art. 12.º - 1. Os lugares de administrador de cada um dos estabelecimentos integrados são providos nos termos previstos no Regulamento Geral dos Hospitais.
+Art. 12.º - 1. Os lugares de administrador de cada um dos estabelecimentos integrados são providos nos termos previstos no Regulamento Geral dos Hospitais.
 
 2. Podem ficar a cargo de um só administrador a Obra de Assistência Materno-Infantil do Dr. Bissaia Barreto e o Hospital Pediátrico de Celas.
 
-###### Art. 13.º A substituição dos directores clínicos e administradores, nas suas faltas e impedimentos, é regulada por despacho do Ministro da Saúde e Assistência.
+Art. 13.º A substituição dos directores clínicos e administradores, nas suas faltas e impedimentos, é regulada por despacho do Ministro da Saúde e Assistência.
 
 ### CAPÍTULO III — Do regime financeiro
 
-###### Art. 14.º - 1. O regime financeiro do Centro é o estabelecido pelo [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1968.
+Art. 14.º - 1. O regime financeiro do Centro é o estabelecido pelo [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1968.
 
 2. A cobrança de receitas e o pagamento de despesas podem ser feitos pela direcção do Centro ou pelas direcções dos estabelecimentos integrados, conforme for decidido por despacho do Ministro da Saúde e Assistência.
 
 3. As receitas e despesas são imputadas aos serviços que lhes dão origem, mesmo quando sejam cobradas ou pagas centralizadamente.
 
-###### Art. 15.º Constituem receitas do Centro:
+Art. 15.º Constituem receitas do Centro:
 
 a) As quantias cobradas em pagamento dos serviços prestados;
 
@@ -248,11 +267,11 @@ e) O produto da venda de bens inutilizados;
 
 f) Outras receitas legalmente admitidas.
 
-###### Art. 16.º São despesas do Centro todas as necessárias ao seu funcionamento e à realização das suas finalidades legais.
+Art. 16.º São despesas do Centro todas as necessárias ao seu funcionamento e à realização das suas finalidades legais.
 
 ### CAPÍTULO IV — Dos serviços
 
-###### Art. 17.º - 1. No Centro Hospitalar de Coimbra haverá serviços centrais e serviços privativos de cada estabelecimento integrado.
+Art. 17.º - 1. No Centro Hospitalar de Coimbra haverá serviços centrais e serviços privativos de cada estabelecimento integrado.
 
 2. Os serviços centrais podem ter postos ou secções nos diversos estabelecimentos.
 
@@ -260,7 +279,7 @@ f) Outras receitas legalmente admitidas.
 
 4. Os postos ou secções dos serviços centralizados são dirigidos pelos órgãos centrais, mas através dos órgãos privativos dos estabelecimentos.
 
-###### Art. 18.º - 1. O esquema de serviços do Centro e de cada um dos estabelecimentos integrados corresponde ao que é próprio dos hospitais centrais, com as devidas adaptações, e será fixado nos termos da alínea d) do artigo 24.º do Estatuto Hospitalar.
+Art. 18.º - 1. O esquema de serviços do Centro e de cada um dos estabelecimentos integrados corresponde ao que é próprio dos hospitais centrais, com as devidas adaptações, e será fixado nos termos da alínea d) do artigo 24.º do Estatuto Hospitalar.
 
 2. Todos os serviços, centralizados ou privativos, coordenarão a sua actividade em ordem a conseguir o máximo de eficiência para o conjunto e para cada um dos referidos estabelecimentos.
 
@@ -268,7 +287,7 @@ f) Outras receitas legalmente admitidas.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 19.º - 1. O quadro de pessoal será um só para o Centro e todos os seus estabelecimentos.
+Art. 19.º - 1. O quadro de pessoal será um só para o Centro e todos os seus estabelecimentos.
 
 2. Por portaria do Ministro da Saúde e Assistência será feita a repartição de lugares pelos serviços centrais e pelos privativos de cada estabelecimento.
 
@@ -276,37 +295,37 @@ f) Outras receitas legalmente admitidas.
 
 4. Ao pessoal médico da Faculdade de Medicina de Coimbra que trabalha no Hospital Pediátrico de Celas será aplicado o regime estabelecido para os hospitais escolares.
 
-###### Art. 20.º - 1. Os concursos de provimento e acesso são organizados nos serviços centrais.
+Art. 20.º - 1. Os concursos de provimento e acesso são organizados nos serviços centrais.
 
 2. Os júris serão constituídos, sempre que possível, por elementos de vários estabelecimentos integrados.
 
-###### Art. 21.º - 1. Podem ser delegados poderes disciplinares nos directores de cada estabelecimento, em termos a fixar por despacho do Ministro da Saúde e Assistência.
+Art. 21.º - 1. Podem ser delegados poderes disciplinares nos directores de cada estabelecimento, em termos a fixar por despacho do Ministro da Saúde e Assistência.
 
 2. Nos mesmos termos, pode ser delegada a competência para a justificação de faltas e concessão de licenças.
 
-###### Art. 22.º - 1. A distribuição de competências e responsabilidades por cada posto de trabalho constará de provisão interna, a emitir pela direcção.
+Art. 22.º - 1. A distribuição de competências e responsabilidades por cada posto de trabalho constará de provisão interna, a emitir pela direcção.
 
 2. Haverá um sistema permanente de avaliação de pessoal, segundo normas a aprovar pela Direcção-Geral dos Hospitais.
 
 ### CAPÍTULO VI — Da prestação da assistência
 
-###### Art. 23.º - 1. A prestação da assistência obedecerá às regras estabelecidas no Estatuto Hospitalar e no Regulamento Geral dos Hospitais.
+Art. 23.º - 1. A prestação da assistência obedecerá às regras estabelecidas no Estatuto Hospitalar e no Regulamento Geral dos Hospitais.
 
 2. Quando houver acordos celebrados com organismos de previdência ou seguro, observar-se-ão as cláusulas aí estabelecidas.
 
-###### Art. 24.º - 1. A admissão dos doentes nos diversos estabelecimentos cabe aos respectivos serviços médicos e de acolhimento.
+Art. 24.º - 1. A admissão dos doentes nos diversos estabelecimentos cabe aos respectivos serviços médicos e de acolhimento.
 
 2. Os doentes internados em qualquer dos estabelecimentos podem ser transferidos para outro, mediante acordo entre os serviços interessados.
 
 3. O processo clínico e administrativo dos doentes transferidos acompanha-os, evitando-se a renovação das peças que o compõem.
 
-###### Art. 25.º - 1. O Hospital Geral da Colónia Portuguesa do Brasil actuará em coordenação com os Hospitais da Universidade de Coimbra, especialmente com o seu serviço de urgência.
+Art. 25.º - 1. O Hospital Geral da Colónia Portuguesa do Brasil actuará em coordenação com os Hospitais da Universidade de Coimbra, especialmente com o seu serviço de urgência.
 
 2. O Hospital Ortopédico e de Recuperação da Gala procurará estabelecer com os restantes estabelecimentos um esquema de acção conjunta, que permita iniciar o processo de reabilitação dos doentes o mais precocemente possível.
 
 3. A Obra de Assistência Materno-Infantil do Dr. Bissaia Barreto e o Hospital Pediátrico de Celas estabelecerão ligação técnica directa, com o objectivo de cooperarem em todos os domínios da competência específica de cada um.
 
-###### Art. 26.º - 1. O Centro colaborará nos planos gerais de saúde aprovados superiormente e neles desempenhará as funções que lhe forem atribuídas.
+Art. 26.º - 1. O Centro colaborará nos planos gerais de saúde aprovados superiormente e neles desempenhará as funções que lhe forem atribuídas.
 
 2. Os diversos estabelecimentos colaborarão na acção preventiva, de acordo com as instruções emitidas pela Direcção-Geral de Saúde.
 
@@ -314,20 +333,20 @@ f) Outras receitas legalmente admitidas.
 
 ### CAPÍTULO VII — Disposições transitórias
 
-###### Art. 27.º - 1. Durante o período de instalação, a comissão instaladora tomará as providências indispensáveis à regulamentação interna dos serviços e preparará o projecto de regulamento definitivo, a publicar depois de findo esse período.
+Art. 27.º - 1. Durante o período de instalação, a comissão instaladora tomará as providências indispensáveis à regulamentação interna dos serviços e preparará o projecto de regulamento definitivo, a publicar depois de findo esse período.
 
 2. Os regulamentos internos, durante o período de instalação, carecem de homologação da Direcção-Geral dos Hospitais.
 
-###### Art. 28.º - 1. A comissão instaladora do Centro substitui a direcção em todas as funções que legalmente pertençam a esta.
+Art. 28.º - 1. A comissão instaladora do Centro substitui a direcção em todas as funções que legalmente pertençam a esta.
 
 2. Os restantes órgãos previstos neste Regulamento devem ser, desde já, constituídos e postos em funcionamento.
 
-###### Art. 29.º Na parte não contida no [Decreto-Lei n.º 93/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1971-445370) e neste Regulamento aplicar-se-á o disposto no Estatuto Hospitalar e no Regulamento Geral dos Hospitais.
+Art. 29.º Na parte não contida no [Decreto-Lei n.º 93/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1971-445370) e neste Regulamento aplicar-se-á o disposto no Estatuto Hospitalar e no Regulamento Geral dos Hospitais.
 
 Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.

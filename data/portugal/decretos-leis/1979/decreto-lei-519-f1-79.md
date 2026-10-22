@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 4º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3446-(82) a 3446-(83)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29904/00820083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f1-1979-157056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b147fa0f2c4bf079364e415aa2acd595a40a0124f38758308f1ab37cdf433656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 997f96bd46e2416fcd63606f64c08a45d04a9329df1bebfda592017b0d98097b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Medicina Legal
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:336546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670073:por
+  label: "Revogado pelo DEC LEI.387-C/87.29.12.1987.MJ, DR.IS [298]Supl de 29.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-c-1987-670073
+  date: '1987-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:09Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +109,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 373/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1975-336546), de 17 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 373/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1975-336546), de 17 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - Encontrando-se vago o lugar de professor catedrático, as funções de director serão sucessivamente desempenhadas:
 
@@ -116,21 +127,21 @@ b) Em regime de substituição, por directores de serviços.
 
 4 - Quando os directores de serviços substituírem os directores ou os subdirectores dos institutos, nos termos da alínea b) do n.º 2 e da alínea h) do n.º 3, continuarão a perceber os seus vencimentos e terão direito ao abono das gratificações fixadas para aqueles cargos.
 
-###### Art. 2.º - 1 - Sem prejuízo das normas respeitantes aos excedentes de pessoal na função pública, poderá ser contratado pessoal, em regime de prestação de serviços, para o desempenho de tarefas que não possam ser asseguradas pelo pessoal dos quadros.
+Art. 2.º - 1 - Sem prejuízo das normas respeitantes aos excedentes de pessoal na função pública, poderá ser contratado pessoal, em regime de prestação de serviços, para o desempenho de tarefas que não possam ser asseguradas pelo pessoal dos quadros.
 
 2 - A realização de estudos, inquéritos e de outros trabalhos de carácter eventual necessários ao bom desempenho das perícias médico-legais poderá ser confiada, mediante contrato de prestação de serviços, a entidades nacionais ou estrangeiras.
 
 3 - Os contratos de prestação de serviços referidos nos números anteriores serão obrigatoriamente reduzidos a escrito, deles constando o prazo, a remuneração, as condições de rescisão e a menção de que não conferem, em caso algum, a qualidade de funcionário ou agente administrativo.
 
-###### Art. 3.º - 1 - Com o acordo do Ministro da Educação poderá o Ministro da Justiça, sob proposta fundamentada dos respectivos directores, autorizar, por despacho, que os docentes da cadeira de Medicina Legal e Toxicologia Forense exerçam, em regime de acumulação, funções da sua especialidade.
+Art. 3.º - 1 - Com o acordo do Ministro da Educação poderá o Ministro da Justiça, sob proposta fundamentada dos respectivos directores, autorizar, por despacho, que os docentes da cadeira de Medicina Legal e Toxicologia Forense exerçam, em regime de acumulação, funções da sua especialidade.
 
 2 - Os docentes a que se refere o número anterior perceberão 60% do vencimento atribuído ao cargo acumulado, sem prejuízo dos limites legalmente estabelecidos.
 
-###### Art. 4.º Os serviços periciais de medicina forense que exijam conhecimentos particulares de alguma especialidade médica poderão ser efectuados por quaisquer estabelecimentos de saúde que disponham de pessoal médico da especialidade em causa.
+Art. 4.º Os serviços periciais de medicina forense que exijam conhecimentos particulares de alguma especialidade médica poderão ser efectuados por quaisquer estabelecimentos de saúde que disponham de pessoal médico da especialidade em causa.
 
-###### Art. 5.º Para efeitos de aposentação, ao pessoal que desempenhe funções técnicas nos institutos de medicina legal são concedidos 20% de tempo de serviço acrescido.
+Art. 5.º Para efeitos de aposentação, ao pessoal que desempenhe funções técnicas nos institutos de medicina legal são concedidos 20% de tempo de serviço acrescido.
 
-###### Art. 6.º As notas ao quadro anexo ao [Decreto-Lei n.º 373/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1975-336546), de 17 de Julho, passam a ter a seguinte redacção:
+Art. 6.º As notas ao quadro anexo ao [Decreto-Lei n.º 373/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1975-336546), de 17 de Julho, passam a ter a seguinte redacção:
 
 (a) Têm direito à gratificação mensal de 4000$00.
 
@@ -138,8 +149,8 @@ b) Em regime de substituição, por directores de serviços.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - Pedro de Lemos e Sousa Macedo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 26 de Dezembro de 1979.**
+Promulgado em 26 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

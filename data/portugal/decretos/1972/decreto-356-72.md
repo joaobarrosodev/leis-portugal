@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/09/21900/13491352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/356-1972-689049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8a30e5b6a5513f298befda6abf40c992aef355e21ee6f3d06417fd684e32d74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c71514a93cd0266a4bd3ab61d6847b90aa0797746fe3b8319b9911942d8a5c03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Economia
+- Ministério das Finanças
+- Regulamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:632932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379735:por
+  label: "Substituído e revogado o disposto no art. 6.º do regulamento do presente diploma, pelo DN.267/82.23.11.1982.MFP,\
+    \ DR.IS [279] de 03.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/267-1982-379735
+  date: '1982-11-23'
+- type: amended_by
+  target: pt:dre:660904:por
+  label: "Aditado o art. 6º-A, pelo DN.24/84.1984.01.30.MFPDR.IS [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-1984-660904
+  date: '1984-01-30'
+- type: amended_by
+  target: pt:dre:327130:por
+  label: "Alterado o nº 1 do art. 6º-A, pelo DN.11/85.1985.02.22.MFP, DR.IS [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-1985-327130
+  date: '1985-02-22'
+- type: amended_by
+  target: pt:dre:221300:por
+  label: "Alterado o nº 1 do art. 27º, pelo DR.69/86.1986.12.05.MF, DR.IS [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/69-1986-221300
+  date: '1986-12-05'
+- type: amended_by
+  target: pt:dre:620346:por
+  label: "Alterado o nº 1º do art. 6º-A, pelo DN.50/89.1989.06.12.MF, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/50-1989-620346
+  date: '1989-06-12'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678605:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632932:por
+  label: "Revogado pelo DEC LEI.537/99.1999.12.13.MF,DR.IS-A [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/537-1999-632932
+  date: '1999-12-13'
 article_structure:
-  article_count: 2
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:42Z'
   warnings: []
   errors: []
 ---
@@ -92,25 +151,25 @@ Com fundamento nos Decretos-Leis n.os 48687, de 15 de Novembro de 1968, e 120/71
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento dos Serviços Sociais dos Ministérios das Finanças e da Economia, anexo ao presente diploma.
+Artigo 1.º É aprovado o Regulamento dos Serviços Sociais dos Ministérios das Finanças e da Economia, anexo ao presente diploma.
 
-###### Art. 2.º Este decreto revoga o Regulamento aprovado por portaria de 17 de Fevereiro de 1969, publicado no Diário do Governo, 2.ª série, de 22 de Fevereiro de 1969.
+Art. 2.º Este decreto revoga o Regulamento aprovado por portaria de 17 de Fevereiro de 1969, publicado no Diário do Governo, 2.ª série, de 22 de Fevereiro de 1969.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 6 de Setembro de 1972.**
+Promulgado em 6 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DOS SERVIÇOS SOCIAIS DOS MINISTÉRIOS DAS FINANÇAS E DA ECONOMIA
 
 ### CAPÍTULO I — Da denominação e fins
 
-###### Artigo 1.º Os Serviços Sociais dos Ministérios das Finanças e da Economia, criados pelo [Decreto-Lei n.º 120/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1971-445917), de 3 de Abril, têm por fim auxiliar a satisfação de necessidades de ordem económica, social e cultural dos servidores dos dois Ministérios e de desenvolver os laços de solidariedade entre eles.
+Artigo 1.º Os Serviços Sociais dos Ministérios das Finanças e da Economia, criados pelo [Decreto-Lei n.º 120/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1971-445917), de 3 de Abril, têm por fim auxiliar a satisfação de necessidades de ordem económica, social e cultural dos servidores dos dois Ministérios e de desenvolver os laços de solidariedade entre eles.
 
-###### Art. 2.º - 1. A acção dos Serviços Sociais será, fundamentalmente, exercida nos seguintes domínios:
+Art. 2.º - 1. A acção dos Serviços Sociais será, fundamentalmente, exercida nos seguintes domínios:
 
 a) Abastecimento de produtos necessários à economia familiar;
 
@@ -124,15 +183,15 @@ d) Colónias de férias e casas de repouso.
 
 3. A acção dos Serviços Sociais poderá abranger outros benefícios em favor dos servidores dos dois Ministérios e seus agregados familiares, desde que se enquadrem nos fins estabelecidos no artigo 1.º e sejam superiormente aprovados.
 
-###### Art. 3.º Para assegurar a concessão e fruição de benefícios ao maior número de funcionários, poderão ser criadas delegações dos Serviços Sociais onde tal se justifique.
+Art. 3.º Para assegurar a concessão e fruição de benefícios ao maior número de funcionários, poderão ser criadas delegações dos Serviços Sociais onde tal se justifique.
 
-###### Art. 4.º Para o bom desempenho das suas finalidades, os Serviços Sociais poderão promover a colaboração com outras instituições similares, em realizações de interesse comum.
+Art. 4.º Para o bom desempenho das suas finalidades, os Serviços Sociais poderão promover a colaboração com outras instituições similares, em realizações de interesse comum.
 
 ### CAPÍTULO II — Dos beneficiários
 
 #### SECÇÃO I — Das condições de admissão
 
-###### Art. 5.º - 1. Podem ser beneficiários dos Serviços Sociais todos os servidores dos Ministérios das Finanças e da Economia que se encontrem em qualquer das seguintes situações:
+Art. 5.º - 1. Podem ser beneficiários dos Serviços Sociais todos os servidores dos Ministérios das Finanças e da Economia que se encontrem em qualquer das seguintes situações:
 
 a) Servidores que exerçam funções de carácter permanente, seja qual for a forma de provimento;
 
@@ -146,13 +205,13 @@ d) Servidores a aguardar aposentação ou aposentados, com excepção dos que o 
 
 3. Em caso de falecimento do beneficiário, o cônjuge e os familiares a que se refere o número precedente manterão as regalias que vinham usufruindo, enquanto obedecerem às normas a estabelecer nos termos do número anterior.
 
-###### Art. 6.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação do funcionário, serviço a que pertence, categoria e composição do agregado familiar.
+Art. 6.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação do funcionário, serviço a que pertence, categoria e composição do agregado familiar.
 
 2. As propostas serão autenticadas pelo chefe de serviço respectivo e acompanhadas dos elementos de comprovação que se tornem necessários.
 
 3. A qualidade de beneficiário provar-se-á por cartão de identidade, de modelo a aprovar pela direcção.
 
-###### Art. 7.º - 1. As disposições deste Regulamento poderão abranger o pessoal dos organismos de coordenação económica e o dos organismos corporativos, dependentes do Ministério da Economia, à medida que assim seja determinado por despacho dos Ministros das Finanças e da Economia.
+Art. 7.º - 1. As disposições deste Regulamento poderão abranger o pessoal dos organismos de coordenação económica e o dos organismos corporativos, dependentes do Ministério da Economia, à medida que assim seja determinado por despacho dos Ministros das Finanças e da Economia.
 
 2. Os despachos referidos no número anterior serão publicados no Diário do Governo.
 
@@ -160,13 +219,13 @@ d) Servidores a aguardar aposentação ou aposentados, com excepção dos que o 
 
 #### SECÇÃO II — Dos direitos e deveres
 
-###### Art. 8.º São direitos dos beneficiários:
+Art. 8.º São direitos dos beneficiários:
 
 a) Usufruir das regalias que lhes sejam concedidas pelos Serviços Sociais, nos termos regulamentares;
 
 b) Formular, por escrito, à direcção as sugestões que julguem convenientes para melhor funcionamento dos serviços.
 
-###### Art. 9.º São deveres dos beneficiários:
+Art. 9.º São deveres dos beneficiários:
 
 a) Pagar pontualmente as quotizações que lhes sejam atribuídas;
 
@@ -178,7 +237,7 @@ d) Responder com exactidão aos questionários que lhes sejam dirigidos pelos Se
 
 #### SECÇÃO III — Das quotizações
 
-###### Art. 10.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com as seguintes quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969:
+Art. 10.º - 1. Os beneficiários contribuirão para os encargos dos Serviços Sociais com as seguintes quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969:
 
 Até 2400$00 ... 5$00
 
@@ -200,7 +259,7 @@ Acima de 9400$00 ... 20$00
 
 #### SECÇÃO IV — Da suspensão de direitos ou cancelamento de inscrições
 
-###### Art. 11.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
+Art. 11.º - 1. Serão suspensos dos benefícios dos Serviços Sociais:
 
 a) Os funcionários na situação de licença ilimitada;
 
@@ -214,7 +273,7 @@ e) Os beneficiários que cedam em favor de terceiros quaisquer vantagens ou aux�
 
 2. As penas aplicadas em consequência das infracções previstas na alínea d) do n.º 1 vão de um mês a um ano, conforme a gravidade da infracção.
 
-###### Art. 12.º - 1. Será cancelada a inscrição nos Serviços Sociais:
+Art. 12.º - 1. Será cancelada a inscrição nos Serviços Sociais:
 
 a) Aos beneficiários que se encontrem em atraso de pagamento de quotas pelo período de seis meses;
 
@@ -228,15 +287,15 @@ d) Aos beneficiários que pratiquem infracções de especial gravidade contra os
 
 3. Da penalidade aplicada pela direcção, nos termos da alínea d) do n.º 1, cabem recursos para os Ministros das Finanças e da Economia.
 
-###### Art. 13.º Exceptuam-se do disposto na alínea a) do artigo 11.º e na alínea b) do artigo 12.º os funcionários em licença ilimitada, ou desligados do serviço, por motivo de doença, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, cujas situações serão superiormente reguladas, mediante proposta da direcção, consoante as circunstâncias de cada caso.
+Art. 13.º Exceptuam-se do disposto na alínea a) do artigo 11.º e na alínea b) do artigo 12.º os funcionários em licença ilimitada, ou desligados do serviço, por motivo de doença, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, cujas situações serão superiormente reguladas, mediante proposta da direcção, consoante as circunstâncias de cada caso.
 
-###### Art. 14.º Na concessão de regalias pelos Serviços Sociais poderão ser tomados em consideração os rendimentos do agregado familiar ou o facto de os interessados já serem abrangidos por qualquer outro sistema de benefícios.
+Art. 14.º Na concessão de regalias pelos Serviços Sociais poderão ser tomados em consideração os rendimentos do agregado familiar ou o facto de os interessados já serem abrangidos por qualquer outro sistema de benefícios.
 
 ### CAPÍTULO III — Dos órgãos directivos
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 15.º - 1. A direcção dos Serviços Sociais é constituída por um presidente, um vice-presidente e cinco vogais.
+Art. 15.º - 1. A direcção dos Serviços Sociais é constituída por um presidente, um vice-presidente e cinco vogais.
 
 2. O presidente e o vice-presidente são de livre nomeação dos Ministros das Finanças e da Economia, de entre funcionários de ambos os Ministérios com a categoria de director-geral.
 
@@ -246,7 +305,7 @@ d) Aos beneficiários que pratiquem infracções de especial gravidade contra os
 
 5. As nomeações dos vogais serão feitas também pelos Ministros das Finanças e da Economia.
 
-###### Art. 16.º - 1. Compete à direcção:
+Art. 16.º - 1. Compete à direcção:
 
 a) Representar os Serviços Sociais em todos os actos em que estes tenham de intervir;
 
@@ -272,9 +331,9 @@ i) Praticar os demais actos necessários à boa execução dos fins dos Serviço
 
 4. Sempre que o presidente o entenda conveniente, poderá votar as deliberações da direcção, que ficarão suspensas até resolução ministerial.
 
-###### Art. 17.º Sem prejuízo do que fica estabelecido no presente Regulamento sobre delegação de poderes, para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção, ou do vice-presidente, no seu impedimento, e de um vogal.
+Art. 17.º Sem prejuízo do que fica estabelecido no presente Regulamento sobre delegação de poderes, para obrigar os Serviços Sociais são necessárias as assinaturas do presidente da direcção, ou do vice-presidente, no seu impedimento, e de um vogal.
 
-###### Art. 18.º Compete especialmente ao presidente da direcção:
+Art. 18.º Compete especialmente ao presidente da direcção:
 
 a) Presidir às reuniões da direcção, orientando a ordem dos trabalhos;
 
@@ -288,9 +347,9 @@ e) Propor a convocação do conselho consultivo para reunir extraordinàriamente
 
 f) Apresentar a despacho ministerial todos os assuntos que careçam de resolução superior.
 
-###### Art. 19.º Compete especialmente ao vice-presidente coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos.
+Art. 19.º Compete especialmente ao vice-presidente coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos.
 
-###### Art. 20.º Aos vogais da direcção compete essencialmente:
+Art. 20.º Aos vogais da direcção compete essencialmente:
 
 a) Estudar e informar os assuntos a seu cargo, respeitantes às actividades dos diversos pelouros dos Serviços Sociais;
 
@@ -300,27 +359,27 @@ c) Superintender nos pelouros para que forem designados por despacho do presiden
 
 #### SECÇÃO II — Do conselho consultivo
 
-###### Art. 21.º - 1. O conselho consultivo é constituído por um funcionário de cada uma das Secretarias de Estado dos Ministérios das Finanças e da Economia de categoria não inferior a chefe de repartição ou equivalente, nomeados pelos Ministros das Finanças e da Economia, por indicação dos respectivos Secretários de Estado.
+Art. 21.º - 1. O conselho consultivo é constituído por um funcionário de cada uma das Secretarias de Estado dos Ministérios das Finanças e da Economia de categoria não inferior a chefe de repartição ou equivalente, nomeados pelos Ministros das Finanças e da Economia, por indicação dos respectivos Secretários de Estado.
 
 2. Os membros do conselho consultivo elegerão entre eles o presidente.
 
-###### Art. 22.º Compete ao conselho consultivo:
+Art. 22.º Compete ao conselho consultivo:
 
 a) Pronunciar-se sobre os assuntos de interesse para os objectivos dos Serviços Sociais que lhe sejam submetidos por determinação dos Ministros das Finanças e da Economia ou por iniciativa da direcção;
 
 b) Apresentar sugestões tendentes a fomentar ou aperfeiçoar as actividades dos Serviços Sociais.
 
-###### Art. 23.º - 1. O conselho consultivo terá uma sessão ordinária por trimestre e as extraordinárias que o presidente entender convenientes.
+Art. 23.º - 1. O conselho consultivo terá uma sessão ordinária por trimestre e as extraordinárias que o presidente entender convenientes.
 
 2. Às sessões do conselho consultivo poderão assistir o presidente, o vice-presidente ou os vogais da direcção cuja presença se torne aconselhável.
 
 #### SECÇÃO III — Da comissão verificadora de contas
 
-###### Art. 24.º - 1. A comissão verificadora de contas é formada por um representante de cada Secretaria de Estado, indicado pelos respectivos Secretários de Estado e nomeados pelos Ministros das Finanças e da Economia.
+Art. 24.º - 1. A comissão verificadora de contas é formada por um representante de cada Secretaria de Estado, indicado pelos respectivos Secretários de Estado e nomeados pelos Ministros das Finanças e da Economia.
 
 2. Os Ministros das Finanças e da Economia designarão o presidente de entre os representantes citados neste artigo.
 
-###### Art. 25.º Incumbe à comissão verificadora de contas:
+Art. 25.º Incumbe à comissão verificadora de contas:
 
 a) Efectuar os exames e conferências que se tornem necessários para o bom desempenho da sua missão;
 
@@ -328,13 +387,13 @@ b) Pronunciar-se sobre os assuntos que lhe sejam postos pela direcção, em mat�
 
 c) Elaborar parecer, que acompanhará o relatório e contas de gerência anuais, a apresentar pela direcção à aprovação dos Ministros das Finanças e da Economia.
 
-### CAPITULO IV
+CAPITULO IV
 
 Dos serviços e do pessoal
 
-###### Art. 26.º Os Serviços Sociais dos Ministérios das Finanças e da Economia terão os serviços gerais, de secretaria, contabilidade, estatística e tesouraria, que forem necessários às suas funções e os serviços especiais exigidos pelas actividades referidas no artigo 2.º
+Art. 26.º Os Serviços Sociais dos Ministérios das Finanças e da Economia terão os serviços gerais, de secretaria, contabilidade, estatística e tesouraria, que forem necessários às suas funções e os serviços especiais exigidos pelas actividades referidas no artigo 2.º
 
-###### Art. 27.º - 1. O funcionamento dos Serviços Sociais será assegurado por funcionários de serviços e organismos dependentes dos Ministérios das Finanças e da Economia, sob algumas das seguintes modalidades:
+Art. 27.º - 1. O funcionamento dos Serviços Sociais será assegurado por funcionários de serviços e organismos dependentes dos Ministérios das Finanças e da Economia, sob algumas das seguintes modalidades:
 
 a) Em regime de comissão de serviço por tempo indeterminado, sem perda dos direitos inerentes aos cargos de origem, designadamente quanto a antiguidades, promoção e aposentação;
 
@@ -342,11 +401,11 @@ b) Em regime de acumulação, sem prejuízo das funções principais, sendo em t
 
 2. A direcção poderá propor aos Ministros das Finanças e da Economia que seja contratado ou assalariado o pessoal indispensável ao eficiente prosseguimento das finalidades dos Serviços Sociais.
 
-###### Art. 28.º Serão fixadas por despacho dos Ministros das Finanças e da Economia as remunerações dos órgãos directivos.
+Art. 28.º Serão fixadas por despacho dos Ministros das Finanças e da Economia as remunerações dos órgãos directivos.
 
 ### CAPÍTULO V — Das receitas e despesas
 
-###### Art. 29.º - 1. Constituem receitas dos Serviços Sociais:
+Art. 29.º - 1. Constituem receitas dos Serviços Sociais:
 
 a) As quotizações a que se refere o artigo 10.º do presente Regulamento;
 
@@ -362,17 +421,17 @@ f) Quaisquer outras receitas que lhes sejam atribuídas.
 
 2. As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência à ordem da direcção e movimentadas por meio de cheques, assinados por dois membros da direcção nos termos do artigo 17.º
 
-###### Art. 30.º - 1. As despesas dos Serviços Sociais serão as que resultem da execução dos diplomas que os regulam, em conformidade com os orçamentos superiormente aprovados.
+Art. 30.º - 1. As despesas dos Serviços Sociais serão as que resultem da execução dos diplomas que os regulam, em conformidade com os orçamentos superiormente aprovados.
 
 2. A direcção pode delegar em qualquer dos seus membros a realização de despesas de natureza corrente.
 
-###### Art. 31.º Os Serviços Sociais terão os seguintes fundos:
+Art. 31.º Os Serviços Sociais terão os seguintes fundos:
 
 a) Fundo de reserva geral constituído por uma percentagem sobre lucros a estabelecer pelos Ministros das Finanças e da Economia;
 
 b) Fundos de reserva especiais, que a direcção julgue conveniente estabelecer, com autorização ministerial.
 
-###### Art. 32.º - 1. As contas anuais serão submetidas à aprovação dos Ministros das Finanças e da Economia até 31 de Maio do ano seguinte, acompanhadas do parecer da comissão verificadora.
+Art. 32.º - 1. As contas anuais serão submetidas à aprovação dos Ministros das Finanças e da Economia até 31 de Maio do ano seguinte, acompanhadas do parecer da comissão verificadora.
 
 2. A aprovação a que se refere este artigo corresponde, para efeito de prestação e julgamento de contas, a quitação dos directores, sem prejuízo de revisão a determinar pelos Ministros das Finanças e da Economia, nos casos admitidos no artigo 6.º do [Decreto-Lei n.º 29174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29174-1938-348761), de 24 de Novembro de 1938.
 
@@ -380,7 +439,7 @@ b) Fundos de reserva especiais, que a direcção julgue conveniente estabelecer,
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 33.º Dependem de despacho dos Ministros das Finanças e da Economia:
+Art. 33.º Dependem de despacho dos Ministros das Finanças e da Economia:
 
 a) A aquisição, construção ou grande beneficiação de imóveis;
 
@@ -398,18 +457,18 @@ g) Os contratos de arrendamento para instalação dos serviços;
 
 h) Outros actos ou despesas que os Ministros determinem devam ser submetidos à sua prévia autorização.
 
-###### Art. 34.º Os livros de actas da direcção e do conselho consultivo e os livros principais de contabilidade serão autenticados pelo presidente da comissão verificadora de contas.
+Art. 34.º Os livros de actas da direcção e do conselho consultivo e os livros principais de contabilidade serão autenticados pelo presidente da comissão verificadora de contas.
 
-###### Art. 35.º - 1. As actividades das organizações de pessoal existentes nos serviços ou estabelecimentos dependentes dos Ministérios das Finanças e da Economia poderão ser integradas ou coordenadas pelos Serviços Sociais, de forma a evitarem-se duplicações de benefícios.
+Art. 35.º - 1. As actividades das organizações de pessoal existentes nos serviços ou estabelecimentos dependentes dos Ministérios das Finanças e da Economia poderão ser integradas ou coordenadas pelos Serviços Sociais, de forma a evitarem-se duplicações de benefícios.
 
 2. De futuro não poderão ser criados junto dos serviços dos Ministérios das Finanças e da Economia novas organizações de pessoal de fins análogos aos dos Serviços Sociais.
 
 3. As organizações referidas no n.º 1 deverão fornecer os elementos que a direcção dos Serviços Sociais solicitar.
 
-###### Art. 36.º - 1. A direcção dos Serviços Sociais submeterá à consideração superior as alterações ao presente Regulamento que a experiência torne aconselháveis.
+Art. 36.º - 1. A direcção dos Serviços Sociais submeterá à consideração superior as alterações ao presente Regulamento que a experiência torne aconselháveis.
 
 2. As dúvidas suscitadas na execução deste Regulamento e os casos omissos serão resolvidos por despacho dos Ministros das Finanças e da Economia, sob proposta da direcção.
 
-###### Art. 37.º Este Regulamento entra imediatamente em vigor.
+Art. 37.º Este Regulamento entra imediatamente em vigor.
 
-**O Ministro das Finanças e da Economia, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças e da Economia, Manuel Artur Cotta Agostinho Dias.

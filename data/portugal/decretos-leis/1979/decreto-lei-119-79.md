@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10300/08320834.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1979-383069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50688ba5401004bb21573336f85de37029a4a2987f42062b136473479dfad517
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f92f80a48ac3c8877f4c1ae000b7ec4163ba163b077c720b4d6c612b7449e7db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Comércio
+- Cortiça
+- Expropriação
+- Montado de Sobro
+- Nacionalização
+- Património do Estado
+- Prédio Rústico
+- Transporte
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380712:por
+  label: "Dada nova redacção ao n.º 1 do art. 10.º pelo DEC LEI.209/79.11.07.1979.PCM, DR.IS [158] de 11.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1979-380712
+  date: '1979-07-11'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:250387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:29Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +126,7 @@ Entretanto, para que as acções a desenvolver sejam concertadas ao nível globa
 
 Nestes termos o Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os órgãos ou entidades singulares ou colectivas gestores em nome ou por conta própria ou alheia, nos termos do artigo 50.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, de prédios nacionalizados ou expropriados que contenham montados de sobro, ficam sujeitos às seguintes obrigações:
+Artigo 1.º Os órgãos ou entidades singulares ou colectivas gestores em nome ou por conta própria ou alheia, nos termos do artigo 50.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, de prédios nacionalizados ou expropriados que contenham montados de sobro, ficam sujeitos às seguintes obrigações:
 
 a) Cumprir as directrizes dimanadas dos serviços competentes do Ministério da Agricultura e Pescas, relativamente a todas as operações de cultura e exploração dos montados de sobro;
 
@@ -110,7 +138,7 @@ d) Promover o normal empilhamento de todas as cortiças extraídas;
 
 e) Não efectuar nem permitir que se efectue o levantamento de quaisquer quantidades de cortiça, de que são considerados fiéis depositários, sem autorização escrita do Instituto dos Produtos Florestais.
 
-###### Art. 2.º - 1 - Os negócios jurídicos que tenham por objecto a cortiça proveniente dos montados a que se refere o artigo anterior só podem ser celebrados com a presença e parecer favorável de um representante do Estado designado pela comissão coordenadora prevista no artigo 11.º do presente diploma de entre os que vierem a ser nomeados para o efeito por despacho do Ministro da Agricultura e Pescas.
+Art. 2.º - 1 - Os negócios jurídicos que tenham por objecto a cortiça proveniente dos montados a que se refere o artigo anterior só podem ser celebrados com a presença e parecer favorável de um representante do Estado designado pela comissão coordenadora prevista no artigo 11.º do presente diploma de entre os que vierem a ser nomeados para o efeito por despacho do Ministro da Agricultura e Pescas.
 
 2 - Os negócios jurídicos a que se refere o número anterior são obrigatoriamente reduzidos a escrito.
 
@@ -122,7 +150,7 @@ e) Não efectuar nem permitir que se efectue o levantamento de quaisquer quantid
 
 6 - O adquirente da cortiça deverá enviar ao Instituto dos Produtos Florestais, no prazo de quinze dias a contar da respectiva celebração, um exemplar do documento que titule o negócio jurídico.
 
-###### Art. 3.º O produto da venda da cortiça a que se referem os artigos anteriores terá a seguinte distribuição e destino:
+Art. 3.º O produto da venda da cortiça a que se referem os artigos anteriores terá a seguinte distribuição e destino:
 
 a) 50% para os órgãos ou entidades referidas no artigo 1.º deste diploma para cobrir despesas de extracção, empilhamento e seguro das cortiças, administração e tratamento dos montados;
 
@@ -130,7 +158,7 @@ b) 25% para despesas com acções de investigação e desenvolvimento da suberic
 
 c) 25% para pagamento de acções decorrentes da Reforma Agrária.
 
-###### Art. 4.º - 1 - A parcela correspondente às despesas da extracção, empilhamento e seguro das cortiças, a fixar anualmente, por arroba, por despacho do Ministro da Agricultura e Pescas, será entregue directamente pelo adquirente da cortiça aos órgãos ou entidades referidos no artigo 1.º deste diploma, devendo ser feita prova desse pagamento perante o Instituto dos Produtos Florestais pelo respectivo recibo legal ou cópia autenticada.
+Art. 4.º - 1 - A parcela correspondente às despesas da extracção, empilhamento e seguro das cortiças, a fixar anualmente, por arroba, por despacho do Ministro da Agricultura e Pescas, será entregue directamente pelo adquirente da cortiça aos órgãos ou entidades referidos no artigo 1.º deste diploma, devendo ser feita prova desse pagamento perante o Instituto dos Produtos Florestais pelo respectivo recibo legal ou cópia autenticada.
 
 2 - As quantias restantes serão depositadas pelo adquirente na Caixa Geral de Depósitos, de acordo com o que tiver ficado estipulado no negócio jurídico, à ordem do Instituto dos Produtos Florestais.
 
@@ -138,13 +166,13 @@ c) 25% para pagamento de acções decorrentes da Reforma Agrária.
 
 4 - O adquirente da cortiça fará prova, perante o Instituto dos Produtos Florestais, no prazo referido no n.º 5 do artigo 2.º do presente diploma, do pagamento e dos depósitos referidos nos n.os 1 e 2 deste artigo.
 
-###### Art. 5.º - 1 - É proibido o levantamento de cortiça sem prévia autorização do Instituto dos Produtos Florestais.
+Art. 5.º - 1 - É proibido o levantamento de cortiça sem prévia autorização do Instituto dos Produtos Florestais.
 
 2 - A autorização a que se refere o número anterior apenas será concedida depois de feita prova bastante do cumprimento das obrigações previstas neste diploma quanto à celebração do negócio jurídico e actos ulteriores.
 
-###### Art. 6.º O trânsito de cortiça só é permitido desde que o respectivo transportador seja portador de documento probatório da autorização prevista no artigo anterior.
+Art. 6.º O trânsito de cortiça só é permitido desde que o respectivo transportador seja portador de documento probatório da autorização prevista no artigo anterior.
 
-###### Art. 7.º No caso de as cortiças produzidas em montados de sobro contidos nas explorações agrícolas consideradas no artigo 1.º deste diploma serem destinadas a unidades de tratamento industrial nas mesmas integradas, a disciplina estabelecida nos artigos anteriores diferirá nos seguintes pontos:
+Art. 7.º No caso de as cortiças produzidas em montados de sobro contidos nas explorações agrícolas consideradas no artigo 1.º deste diploma serem destinadas a unidades de tratamento industrial nas mesmas integradas, a disciplina estabelecida nos artigos anteriores diferirá nos seguintes pontos:
 
 a) Às obrigações e penalidades cometidas aos compradores ficam sujeitos os responsáveis pelas unidades de tratamento industrial;
 
@@ -156,7 +184,7 @@ d) Da sucessão dos depósitos referidos na alínea anterior dependerá o escalo
 
 e) O valor das cortiças será estabelecido na base da média dos preços que tenham sido praticados, na respectiva campanha, no concelho e seus limítrofes, em que se situa o montado em causa.
 
-###### Art. 8.º - 1 - São aplicáveis à cortiça proveniente de estabelecimentos agrícolas do sector privado as disposições da alínea b) do artigo 1.º, dos n.os 2 e 6 do artigo 2.º e do n.º 1 do artigo 5.º deste diploma.
+Art. 8.º - 1 - São aplicáveis à cortiça proveniente de estabelecimentos agrícolas do sector privado as disposições da alínea b) do artigo 1.º, dos n.os 2 e 6 do artigo 2.º e do n.º 1 do artigo 5.º deste diploma.
 
 2 - A autorização do Instituto dos Produtos Florestais para levantamento da cortiça depende da observância do disposto nos n.os 2 e 6 do artigo 2.º deste diploma.
 
@@ -164,11 +192,11 @@ e) O valor das cortiças será estabelecido na base da média dos preços que te
 
 4 - Se a cortiça tiver sido criada em montados pertença de industrial corticeiro e se se destinar à sua própria laboração, o documento referido no n.º 1 deste artigo será substituído por prova daquele facto, através de declaração quantificada.
 
-###### Art. 9.º - 1 - É criada pelo Instituto dos Produtos Florestais uma conta especial na Caixa Geral de Depósitos para movimentar os depósitos referidos no artigo 3.º deste diploma.
+Art. 9.º - 1 - É criada pelo Instituto dos Produtos Florestais uma conta especial na Caixa Geral de Depósitos para movimentar os depósitos referidos no artigo 3.º deste diploma.
 
 2 - O Ministro da Agricultura e Pescas fixará anualmente a distribuição das quantias arrecadadas, nos termos das alíneas b) e c) desse artigo 3.º
 
-###### Art. 10.º - 1 - As infracções às disposições constantes do presente diploma são punidas com a sanção prevista no n.º 2 do artigo 15.º do [Decreto-Lei n.º 260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387) - multa até 2000000$00.
+Art. 10.º - 1 - As infracções às disposições constantes do presente diploma são punidas com a sanção prevista no n.º 2 do artigo 15.º do [Decreto-Lei n.º 260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387) - multa até 2000000$00.
 
 2 - Levantado o auto de notícia, que fará fé em juízo nos termos do artigo 169.º do Código de Processo Penal, que será remetido à comissão criada pelo artigo 11.º deste diploma, a qual notificará o transgressor por carta registada com aviso de recepção para, querendo, no prazo de dez dias, proceder ao pagamento voluntário da multa.
 
@@ -176,7 +204,7 @@ e) O valor das cortiças será estabelecido na base da média dos preços que te
 
 4 - As infracções ao n.º 1 do artigo 5.º deste diploma, além da sanção prevista no n.º 1 deste artigo fazem incorrer os responsáveis no crime de desobediência qualificada.
 
-###### Art. 11.º - 1 - É criada, com o fim de assegurar a aplicação do disposto neste diploma e de propor as medidas de carácter administrativo ou legislativo que essa aplicação aconselhe, uma comissão coordenadora, constituída por quatro membros, sendo dois designados pelo Ministro da Agricultura e Pescas e dois pelo Ministro do Comércio e Turismo.
+Art. 11.º - 1 - É criada, com o fim de assegurar a aplicação do disposto neste diploma e de propor as medidas de carácter administrativo ou legislativo que essa aplicação aconselhe, uma comissão coordenadora, constituída por quatro membros, sendo dois designados pelo Ministro da Agricultura e Pescas e dois pelo Ministro do Comércio e Turismo.
 
 2 - A comissão, que funcionará no Instituto dos Produtos Florestais, escolherá, de entre os seus membros, o respectivo presidente.
 
@@ -194,14 +222,14 @@ c) Proceder ao acompanhamento do processo de extracção, empilhamento, venda e 
 
 d) Levantar autos de notícia relativamente às infracções ao disposto neste diploma.
 
-###### Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo.
+Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo.
 
-###### Art. 13.º Este diploma entra em vigor no dia imediato ao da sua publicação e sem prejuízo da matéria ressalvada no [Decreto-Lei n.º 260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387), de 21 de Junho, que revoga toda a legislação que o contrarie, excepto no que se refere aos processos em curso relativos às cortiças extraídas nas campanhas de 1977 e 1978.
+Art. 13.º Este diploma entra em vigor no dia imediato ao da sua publicação e sem prejuízo da matéria ressalvada no [Decreto-Lei n.º 260/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1977-250387), de 21 de Junho, que revoga toda a legislação que o contrarie, excepto no que se refere aos processos em curso relativos às cortiças extraídas nas campanhas de 1977 e 1978.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - Abel Pinto Repolho Correia.
 
-**Promulgado em 23 de Abril de 1979.**
+Promulgado em 23 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

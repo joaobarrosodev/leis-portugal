@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29300/32973302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,117 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e44ff234d58cd255613bfa70cee99c455ca6727ceee3acbf346d07d1d677de0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfda251603d06c6446f88c5e1ba3f21f33df7dc9978bf60ce54693429209d3d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Justiça
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:663908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459894:por
+  label: "Aumentado um lugar ao quadro de pessoal da Secretaria-Geral aprovado pelo presente diploma, na redacção do art.\
+    \ 2.º do Dec Lei 238/80, de 13-Jul, pela Port.1064/80.15.12.1980.PCM, DR.IS [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1980-459894
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:608510:por
+  label: "Alterado o quadro de pessoal pela PORT.332/82.1982.04.01.MFP, DR.IS [76] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/332-1982-608510
+  date: '1982-04-01'
+- type: cites
+  target: pt:dre:161174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692463:por
+  label: Rectificado pela DECL.DD6611.04.01.1980.PCM, DR.IS [11] de 14.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692463
+  date: '1980-01-04'
+- type: corrected_by
+  target: pt:dre:692580:por
+  label: Rectificado pela DECL.DD6643.14.01.1980.PCM, DR.IS [24] de 29.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692580
+  date: '1980-01-14'
+- type: repealed_by
+  target: pt:dre:663908:por
+  label: "Revogados os arts. 8º a 10º e 14º, 15º, nºs. 1 e 2 do art.16º, arts. 17º e 18º pelo DEC LEI.250/91.16.07.1991.MJ,\
+    \ DR.IS-A [[161]] de 16.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1991-663908
+  date: '1991-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:48Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +179,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º e 5.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º e 5.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 4.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
+Art. 4.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
 
 a) Propor, coordenar e acompanhar a execução das medidas tendentes ao aperfeiçoamento da orgânica do Ministério, ao desenvolvimento dos recursos humanos, à modernização e racionalização administrativa e ao funcionamento integrado dos serviços, tendo em vista a sua eficácia económica e social;
 
@@ -126,7 +203,7 @@ i) Prestar assistência às delegações e missões de países estrangeiros em P
 
 j) Assegurar, em geral, o normal funcionamento do Ministério em tudo o que não seja da competência específica dos restantes serviços.
 
-###### Art. 5.º - 1 - Cabe ao secretário-geral representar o Ministério, enquanto órgão da Administração Pública, na falta ou impedimento do Ministro.
+Art. 5.º - 1 - Cabe ao secretário-geral representar o Ministério, enquanto órgão da Administração Pública, na falta ou impedimento do Ministro.
 
 2 - O secretário-geral é substituído nas suas faltas e impedimentos:
 
@@ -134,7 +211,7 @@ a) Nas funções a que se refere o número anterior, bem como na representação
 
 b) Na orientação técnica e administrativa da Secretaria-Geral, pelo secretário-geral-adjunto.
 
-###### Art. 2.º - 1 - A Secretaria-Geral do Ministério da Justiça passa a integrar os seguintes serviços:
+Art. 2.º - 1 - A Secretaria-Geral do Ministério da Justiça passa a integrar os seguintes serviços:
 
 a) Direcção de Serviços de Gestão e Administração;
 
@@ -142,7 +219,7 @@ b) Direcção de Serviços de Manutenção do Património.
 
 2 - A competência dos serviços referidos no número anterior é a que consta dos artigos seguintes.
 
-###### Art. 3.º - 1 - Compete à Direcção de Serviços de Gestão e Administração:
+Art. 3.º - 1 - Compete à Direcção de Serviços de Gestão e Administração:
 
 a) Prestar o apoio técnico nos domínios do pessoal e da informação;
 
@@ -160,7 +237,7 @@ a) Divisão de Documentação e de Gestão de Recursos Humanos;
 
 b) Repartição de Administração Financeira e de Assuntos Gerais.
 
-###### Art. 4.º Compete à Divisão de Documentação e de Gestão de Recursos Humanos:
+Art. 4.º Compete à Divisão de Documentação e de Gestão de Recursos Humanos:
 
 a) Assegurar o funcionamento da biblioteca, difundindo informação actual de carácter técnico e jurídico;
 
@@ -182,7 +259,7 @@ i) Instruir os processos de admissão do pessoal;
 
 j) Elaborar o cadastro de todo o pessoal do Ministério, mantendo-o actualizado.
 
-###### Art. 5.º - 1 - Compete à Repartição de Administração Financeira e de Assuntos Gerais:
+Art. 5.º - 1 - Compete à Repartição de Administração Financeira e de Assuntos Gerais:
 
 a) Elaborar o orçamento do Ministério, assegurando a execução e a fiscalização do seu cumprimento;
 
@@ -200,7 +277,7 @@ a) Secção de Administração Financeira;
 
 b) Secção de Assuntos Gerais.
 
-###### Art. 6.º Compete à Secção de Administração Financeira:
+Art. 6.º Compete à Secção de Administração Financeira:
 
 a) Elaborar o orçamento do Ministério e assegurar a sua execução;
 
@@ -210,7 +287,7 @@ c) Assegurar o aprovisionamento de bens de consumo corrente aos diversos serviç
 
 d) Propor as medidas que considerar aconselháveis para a racionalização e eficácia dos serviços no sector orçamental.
 
-###### Art. 7.º Compete à Secção de Assuntos Gerais:
+Art. 7.º Compete à Secção de Assuntos Gerais:
 
 a) Assegurar a expedição de toda a correspondência e demais documentos, com vista a evitar a multiplicação de circuitos de informação;
 
@@ -224,7 +301,7 @@ e) Assegurar, no que respeita ao Ministério da Justiça, o expediente relativo 
 
 f) Prestar assistência às delegações e missões de países estrangeiros em Portugal em assuntos relacionados com o Ministério da Justiça.
 
-###### Art. 8.º - 1 - Compete à Direcção de Serviços de Manutenção e Património:
+Art. 8.º - 1 - Compete à Direcção de Serviços de Manutenção e Património:
 
 a) Assegurar a gestão técnica e a manutenção das instalações dos serviços do Ministério, incluindo os que funcionam no seu âmbito;
 
@@ -244,7 +321,7 @@ a) Divisão de Estudos e Projectos;
 
 b) Divisão de Obras e Manutenção.
 
-###### Art. 9.º Compete à Divisão de Estudos e Projectos:
+Art. 9.º Compete à Divisão de Estudos e Projectos:
 
 a) Elaborar e promover a execução de estudos e projectos de conservação ou de remodelação de edifícios;
 
@@ -252,7 +329,7 @@ b) Elaborar estudos técnicos, programas e normas relativas a construções e el
 
 c) Elaborar estudos técnicos com vista à implantação dos diversos serviços.
 
-###### Art. 10.º Compete à Divisão de Obras e Manutenção:
+Art. 10.º Compete à Divisão de Obras e Manutenção:
 
 a) Estudar e assegurar a gestão do património do Ministério, zelando pela manutenção das instalações dos seus serviços;
 
@@ -262,39 +339,39 @@ c) Planear, dirigir e executar obras, nos casos em que a sua realização deva c
 
 d) Proceder ao levantamento dos edifícios ocupados pelos serviços, com vista à constituição do cadastro do património imobiliário do Ministério, mantendo-o actualizado na parte que lhe é atribuível.
 
-###### Art. 11.º - 1 - O pessoal da Secretaria-Geral do Ministério da Justiça é o constante do quadro anexo ao presente diploma, que substitui o constante do mapa II anexo ao [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro.
+Art. 11.º - 1 - O pessoal da Secretaria-Geral do Ministério da Justiça é o constante do quadro anexo ao presente diploma, que substitui o constante do mapa II anexo ao [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro.
 
 2 - São aplicáveis ao pessoal referido no número anterior as regras constantes dos subsequentes artigos 12.º a 18.º
 
-###### Art. 12.º Ao secretário-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução e, bem assim, proceder à distribuição do pessoal pelos serviços.
+Art. 12.º Ao secretário-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução e, bem assim, proceder à distribuição do pessoal pelos serviços.
 
-###### Art. 13.º O secretário-geral poderá receber delegação de competência para despachar assuntos relativos às funções de administração geral que corram pela Secretaria-Geral, entendendo-se como tais as relativas à gestão do pessoal, do material e dos recursos orçamentais, bem como outras que constituam simples meio de permitir o exercício das suas atribuições específicas.
+Art. 13.º O secretário-geral poderá receber delegação de competência para despachar assuntos relativos às funções de administração geral que corram pela Secretaria-Geral, entendendo-se como tais as relativas à gestão do pessoal, do material e dos recursos orçamentais, bem como outras que constituam simples meio de permitir o exercício das suas atribuições específicas.
 
-###### Art. 14.º Ao secretário-geral-adjunto, equiparado a subdirector-geral, compete coadjuvar o secretário-geral no exercício das suas funções e substituí-lo nos termos da lei orgânica do Ministério.
+Art. 14.º Ao secretário-geral-adjunto, equiparado a subdirector-geral, compete coadjuvar o secretário-geral no exercício das suas funções e substituí-lo nos termos da lei orgânica do Ministério.
 
-###### Art. 15.º - 1 - O pessoal dirigente é provido nos termos da lei geral.
+Art. 15.º - 1 - O pessoal dirigente é provido nos termos da lei geral.
 
 2 - Os chefes de repartição são providos de entre chefes de secção com pelo menos três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado.
 
 3 - Os chefes de secção são providos de entre primeiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria.
 
-###### Art. 16.º - 1 - O pessoal técnico superior é provido, nos termos da lei geral, de entre licenciados com cursos adequados de reconhecida competência.
+Art. 16.º - 1 - O pessoal técnico superior é provido, nos termos da lei geral, de entre licenciados com cursos adequados de reconhecida competência.
 
 2 - O pessoal técnico superior da área de engenharia e arquitectura deverá possuir especiais qualificações e experiência no domínio da construção e manutenção dos edifícios de tribunais e de outros serviços que funcionam no âmbito do Ministério da Justiça.
 
 3 - O pessoal técnico superior de biblioteca, arquivo e documentação é provido nos termos das disposições gerais que regulam a respectiva carreira.
 
-###### Art. 17.º - 1 - Os lugares de tradutor-correspondente-intérprete são providos de entre indivíduos habilitados com o curso complementar do ensino secundário que falem e escrevam correctamente duas ou mais línguas estrangeiras.
+Art. 17.º - 1 - Os lugares de tradutor-correspondente-intérprete são providos de entre indivíduos habilitados com o curso complementar do ensino secundário que falem e escrevam correctamente duas ou mais línguas estrangeiras.
 
 2 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe são providos, respectivamente, de entre técnicos auxiliares de 1.ª e de 2.ª classes, com um mínimo de três anos de bom e efectivo serviço na categoria, sendo estes últimos providos de entre indivíduos habilitados com o curso geral do ensino secundário ou habilitação equivalente.
 
 3 - Os lugares das carreiras de fiscal técnico de obras, desenhador, oficial administrativo, auxiliar técnico de biblioteca, documentação e arquivo e escriturário-dactilógrafo são providos nos termos da lei geral.
 
-###### Art. 18.º - 1 - Os lugares de mecânico electricista e encadernador e de pessoal auxiliar são providos nos termos da lei geral.
+Art. 18.º - 1 - Os lugares de mecânico electricista e encadernador e de pessoal auxiliar são providos nos termos da lei geral.
 
 2 - Os lugares de operador de reprografia de 1.ª e de 2.ª classes são providos, respectivamente, de entre operadores de reprografia de 2.ª e de 3.ª classes, com um mínimo de três anos de bom e efectivo serviço na categoria, podendo ingressar na categoria de operador de reprografia de 3.ª classe os indivíduos com a escolaridade obrigatória, mediante prestação de provas.
 
-###### Art. 19.º - 1 - Até 31 de Dezembro de 1979, o provimento do quadro anexo ao presente diploma poderá fazer-se de entre o pessoal que à data da entrada em vigor deste diploma se encontre vinculado a qualquer título ao Ministério da Justiça, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:
+Art. 19.º - 1 - Até 31 de Dezembro de 1979, o provimento do quadro anexo ao presente diploma poderá fazer-se de entre o pessoal que à data da entrada em vigor deste diploma se encontre vinculado a qualquer título ao Ministério da Justiça, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -316,26 +393,26 @@ d) Para categoria correspondente às funções que o funcionário ou agente actu
 
 7 - Quando pela aplicação das normas constantes do presente diploma puder resultar para o funcionário ou agente provimento em categoria remunerada por letra de vencimento inferior à que já detém, aquele manterá a actual designação funcional e respectiva remuneração, extinguindo-se os correspondentes lugares à medida que vagarem.
 
-###### Art. 20.º Nos serviços referidos no artigo 24.º do [Decreto n.º 196/73](https://diariodarepublica.pt/dr/detalhe/decreto/196-1973-422011), de 3 de Maio, as vagas de terceiro-oficial existentes poderão ser preenchidas de acordo com a regra constante do n.º 3 do artigo anterior, dentro do condicionalismo temporal referido no n.º 1 do mesmo artigo.
+Art. 20.º Nos serviços referidos no artigo 24.º do [Decreto n.º 196/73](https://diariodarepublica.pt/dr/detalhe/decreto/196-1973-422011), de 3 de Maio, as vagas de terceiro-oficial existentes poderão ser preenchidas de acordo com a regra constante do n.º 3 do artigo anterior, dentro do condicionalismo temporal referido no n.º 1 do mesmo artigo.
 
-###### Art. 21.º O encargo resultante da execução do presente diploma será suportado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, na medida em que exceda as dotações orçamentais previstas e enquanto o Orçamento Geral do Estado não se encontrar devidamente dotado.
+Art. 21.º O encargo resultante da execução do presente diploma será suportado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, na medida em que exceda as dotações orçamentais previstas e enquanto o Orçamento Geral do Estado não se encontrar devidamente dotado.
 
-###### Art. 22.º São revogados os artigos 1.º a 10.º do Decreto-Lei n.º 196/73, de 3 de Maio, e o [Decreto-Lei n.º 96/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1978-296239), de 13 de Setembro, bem como, no que diz respeito à Secretaria-Geral do Ministério da Justiça, os Decretos-Leis n.os [150/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1975-161174), de 22 de Março, e [200/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1976-501430), de 19 de Março.
+Art. 22.º São revogados os artigos 1.º a 10.º do Decreto-Lei n.º 196/73, de 3 de Maio, e o [Decreto-Lei n.º 96/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1978-296239), de 13 de Setembro, bem como, no que diz respeito à Secretaria-Geral do Ministério da Justiça, os Decretos-Leis n.os [150/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1975-161174), de 22 de Março, e [200/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1976-501430), de 19 de Março.
 
-###### Art. 23.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro das Finanças ou o Secretário de Estado da Administração Pública quando estejam em causa matérias da respectiva competência.
+Art. 23.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o Ministro das Finanças ou o Secretário de Estado da Administração Pública quando estejam em causa matérias da respectiva competência.
 
-###### Art. 24.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 24.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - Pedro de Lemos e Sousa Macedo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro anexo a que se refere o artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29300/32973302.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29300/32973302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29300/32973302.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro da Justiça, Pedro de Lemos e Sousa Macedo. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro da Justiça, Pedro de Lemos e Sousa Macedo. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

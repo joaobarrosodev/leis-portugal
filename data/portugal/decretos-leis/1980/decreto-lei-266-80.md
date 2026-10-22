@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18100/20832084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1980-470447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f619b3cc449401407b507dae9a7406bac864a39305afb6fbb22910867b83bdcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44dfc5d6eb15bb956b14b1eed66938430e61caec6663a2aa0a28f3ef63f61936
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Definição de Competências
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Petróleo
+- Prospecção de Petróleo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471966:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.1990.05.02.MIE DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:08Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +123,7 @@ Considerando, por outro lado, a oportunidade em introduzir algumas modificaçõe
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os n.os 2 e 3 (aditado) do artigo 3.º e os n.os 2 e 3 (aditado) do artigo 5.º, todos do [Decreto-Lei n.º 96/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1974-412440), de 13 de Março, passam a ter, respectivamente, a redacção que segue:
+Artigo 1.º Os n.os 2 e 3 (aditado) do artigo 3.º e os n.os 2 e 3 (aditado) do artigo 5.º, todos do [Decreto-Lei n.º 96/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1974-412440), de 13 de Março, passam a ter, respectivamente, a redacção que segue:
 
 ###### Artigo 3.º
 
@@ -118,7 +141,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - No caso de o concessionário pretender que, após o decurso do prazo inicial, a prorrogação seguinte respeite apenas a blocos, até um máximo de 50% do respectivo número inicial, dentro de cujos limites se inscrevam áreas definitivamente demarcadas para exploração ou provisoriamente para desenvolvimento, o mesmo deverá requerer, em substituição das seguintes, uma prorrogação por trinta e seis anos, até ao referido máximo de 50% do número inicial de blocos de cada área concedida.
 
-###### Art. 2.º A alínea a) do artigo 9.º do [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661), de 30 de Setembro de 1967, passa a ter redacção seguinte:
+Art. 2.º A alínea a) do artigo 9.º do [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661), de 30 de Setembro de 1967, passa a ter redacção seguinte:
 
 ###### Artigo 9.º — (Renúncia do concessionário)
 
@@ -128,7 +151,7 @@ a) Durante o prazo inicial do contrato tornar-se-á efectiva três meses depois 
 
 b) ...
 
-###### Art. 3.º Os n.os 2 e 3 (aditado) do artigo 11.º e a alínea a) do n.º 2 do artigo 92.º, todos do [Decreto-Lei n.º 543/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1974-471966), de 16 de Outubro, passam a ter a redacção seguinte:
+Art. 3.º Os n.os 2 e 3 (aditado) do artigo 11.º e a alínea a) do n.º 2 do artigo 92.º, todos do [Decreto-Lei n.º 543/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1974-471966), de 16 de Outubro, passam a ter a redacção seguinte:
 
 ###### Artigo 11.º — (Prazos e termos das prorrogações ordinárias)
 
@@ -154,8 +177,8 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1980. - Francisco Sá Carneiro - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 21 de Julho de 1980.**
+Promulgado em 21 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

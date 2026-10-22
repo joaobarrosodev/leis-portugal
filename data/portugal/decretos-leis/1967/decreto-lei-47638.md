@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47638-1967-509657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dea9d5e34dd5f8fe8ffa78b51153d2b8d3cd071c41df018dc27292ad5ed117c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a9f0853d23c147cf7247102311a01d410500bbc49591ec1c77b4efca1ecaa2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- CABO Verde.Colónia Portuguesa
+- Comércio Externo
+- Extinção de Serviços
+- Junta de Comércio Externo
+- Moçambique.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:257031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653697:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:48Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +106,15 @@ Ouvidos os Governos das províncias ultramarinas;
 
 Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintas as juntas de comércio externo criadas pelo [Decreto-Lei n.º 40568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40568-1956-257031), de 12 de Abril de 1956, e pelo [Decreto n.º 41038](https://diariodarepublica.pt/dr/detalhe/decreto/41038-1957-653697), de 21 de Março de 1957.
+Artigo 1.º São extintas as juntas de comércio externo criadas pelo [Decreto-Lei n.º 40568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40568-1956-257031), de 12 de Abril de 1956, e pelo [Decreto n.º 41038](https://diariodarepublica.pt/dr/detalhe/decreto/41038-1957-653697), de 21 de Março de 1957.
 
-###### Art. 2.º As atribuições até agora entregues às juntas de comércio externo são integradas nos serviços provinciais de economia, conforme o Ministro do Ultramar dispuser em decreto, que providenciará também quanto ao destino do pessoal e do património das extintas juntas.
+Art. 2.º As atribuições até agora entregues às juntas de comércio externo são integradas nos serviços provinciais de economia, conforme o Ministro do Ultramar dispuser em decreto, que providenciará também quanto ao destino do pessoal e do património das extintas juntas.
 
-###### Art. 3.º São revogados o [Decreto-Lei n.º 40568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40568-1956-257031), de 12 de Abril de 1956, o [Decreto n.º 41038](https://diariodarepublica.pt/dr/detalhe/decreto/41038-1957-653697), de 21 de Março de 1957, e a legislação complementar reguladora do funcionamento das juntas de comércio externo criadas por aqueles diplomas.
+Art. 3.º São revogados o [Decreto-Lei n.º 40568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40568-1956-257031), de 12 de Abril de 1956, o [Decreto n.º 41038](https://diariodarepublica.pt/dr/detalhe/decreto/41038-1957-653697), de 21 de Março de 1957, e a legislação complementar reguladora do funcionamento das juntas de comércio externo criadas por aqueles diplomas.
 
-###### Art. 4.º O presente diploma entra em vigor 60 dias depois da sua publicação no Diário do Governo.
+Art. 4.º O presente diploma entra em vigor 60 dias depois da sua publicação no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Abril de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

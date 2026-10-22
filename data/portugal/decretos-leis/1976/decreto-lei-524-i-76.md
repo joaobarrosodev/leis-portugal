@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 155/1976, 3º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1476-(19) a 1476-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00190020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-i-1976-353910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5513cd7bd916b2690cf41807372efe5336d9c193a3b8493f7e7e8c0d1886a836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c140ee4f68db311e472e56397758ac7bb902e815459d3eb52c36e41586ede526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Cidade da Praia
+- Convenção
+- Investimento
+- Plano de Fomento
+- Portugal
+- Rectificação de TIPO de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:27Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +104,15 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde Respeitante a Obras e Investimentos Iniciados na Vigência do Plano de Fomento em Cabo Verde assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde Respeitante a Obras e Investimentos Iniciados na Vigência do Plano de Fomento em Cabo Verde assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Ernesto Augusto de Melo Antunes - Vítor Manuel Ribeiro Constâncio.
 
-**Assinado em 5 de Julho de 1976.**
+Assinado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E REPÚBLICA DE CABO VERDE RESPEITANTE A OBRAS E INVSTIMENTOS INICIADOS NA VIGÊNCIA DO PLANO DE FOMENTO EM CABO VERDE.
 
@@ -115,11 +128,11 @@ Considerando o espírito informador dos Acordos já estabelecidos sobre coopera�
 
 Acordam as Partes contratantes no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O Governo Português declara assumir as responsabilidades com os encargos financeiros decorrentes das obras e investimentos em causa.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O Governo Português compromete-se a proceder à liquidação dos encargos referidos, nos seguintes termos:
 
@@ -147,11 +160,11 @@ Total ... 192
 
 4 - Relativamente às obras do Hospital de S. Vicente, considerando que são executadas por empreiteiro cabo-verdiano, um terço do respectivo montante global será adiantado mediante solicitação do Governo de Cabo Verde; os restantes dois terços serão liquidados mediante solicitação fundamentada do Governo de Cabo Verde.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Quanto à solicitação relativa ao sistema de telecomunicações, o Governo Português aceita assumir um encargo suplementar até ao montante de 16000 contos se a obra a que se destina vier a ser executada por empresa portuguesa, precedendo acordo do Governo Português nos termos do respectivo contrato.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O presente Acordo entra em vigor na data da sua assinatura.
 

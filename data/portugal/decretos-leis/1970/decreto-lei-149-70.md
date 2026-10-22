@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1970-225857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b50d6af4b7ba77d53607250f241ed9d204e2b677fa59783463bf8d81c586d91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5440b628ac7d615ee1abe88ec86ec3dee579e749315d00f4c5a2026398ec418e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Graduação Militar
+- Militar
+- Promoção Profissional
+- Serviço Militar
+relationships:
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:59Z'
   warnings: []
   errors: []
 ---
@@ -92,23 +101,23 @@ Devendo neste caso a escolha para o preenchimento dos diversos graus hierárquic
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Poderão ser graduados pelos comandantes-chefes, dentro dos quadros orgânicos e dos efectivos autorizados, nos postos para que tenham revelado especial aptidão, os militares ou elementos das milícias designados para fazerem parte de unidades que venham a ser constituídas nas províncias ultramarinas onde existam operações militares ou de polícia.
+Artigo 1.º - 1. Poderão ser graduados pelos comandantes-chefes, dentro dos quadros orgânicos e dos efectivos autorizados, nos postos para que tenham revelado especial aptidão, os militares ou elementos das milícias designados para fazerem parte de unidades que venham a ser constituídas nas províncias ultramarinas onde existam operações militares ou de polícia.
 
 2. O comandante-chefe poderá, sempre que reconhecer terem-se alterado as condições que regularam as graduações anteriores, fazer a sua revisão, por assim o aconselharem as normas disciplinares ou o melhor rendimento operacional.
 
 3. A graduação seguirá as normas decorrentes do artigo 43.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968. Porém, quer a graduação, quer a sua perda, devem ter a sanção do titular do departamento das forças armadas a que o militar pertença ou venha a pertencer, efectuando-se o processamento através do Secretariado-Geral da Defesa Nacional.
 
-###### Art. 2.º Os militares que nos termos do artigo 1.º tenham sido graduados em postos para que não possuíam as habilitações legais correspondentes às tropas regulares e que deixem de fazer parte, por qualquer razão, das unidades referidas naquele artigo, perderão a graduação recebida, retomando a efectividade do posto que anteriormente possuíam.
+Art. 2.º Os militares que nos termos do artigo 1.º tenham sido graduados em postos para que não possuíam as habilitações legais correspondentes às tropas regulares e que deixem de fazer parte, por qualquer razão, das unidades referidas naquele artigo, perderão a graduação recebida, retomando a efectividade do posto que anteriormente possuíam.
 
-###### Art. 3.º O pessoal graduado nos termos do artigo 1.º perceberá os vencimentos e abonos correspondentes aos dos militares de idênticas hierarquias àquelas em que se encontram graduados, dos quadros do serviço geral do Exército.
+Art. 3.º O pessoal graduado nos termos do artigo 1.º perceberá os vencimentos e abonos correspondentes aos dos militares de idênticas hierarquias àquelas em que se encontram graduados, dos quadros do serviço geral do Exército.
 
-###### Art. 4.º À graduação nos postos ou à sua perda corresponde, a partir da data da publicação em Ordem, a alteração dos vencimentos e abonos para os níveis correspondentes.
+Art. 4.º À graduação nos postos ou à sua perda corresponde, a partir da data da publicação em Ordem, a alteração dos vencimentos e abonos para os níveis correspondentes.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Abril de 1970**
+Promulgado em 1 de Abril de 1970
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

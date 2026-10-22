@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49286-1969-216115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32288b04958b616c061e092d8e171a832e21d4a09e533a337996159bfd71c406
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30a73a0723e8b0076c9185f29fa2f5d42cd4e61807875deaff9199d6f3946559
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:213670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504512:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:31Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +107,17 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo § 1.º do n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aprovados o regulamento e o quadro de pessoal do Gabinete de Estudos dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, que vão anexos ao presente decreto.
+Artigo 1.º São aprovados o regulamento e o quadro de pessoal do Gabinete de Estudos dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, que vão anexos ao presente decreto.
 
-###### Art. 2.º Observadas as condições legais relativas a cada forma de provimento, os lugares do quadro referido no artigo anterior serão providos em comissão ordinária por funcionários dos actuais quadros dos Serviços ou por contrato.
+Art. 2.º Observadas as condições legais relativas a cada forma de provimento, os lugares do quadro referido no artigo anterior serão providos em comissão ordinária por funcionários dos actuais quadros dos Serviços ou por contrato.
 
-###### Art. 3.º O pessoal a que se refere o artigo anterior, com mais de um ano de efectivo serviço e boas informações, tem preferência, por ordem de antiguidade e com dispensa de concurso, no ingresso em lugares de nomeação das mesmas categorias e especialidade que venham a ser criados no Gabinete de Estudos.
+Art. 3.º O pessoal a que se refere o artigo anterior, com mais de um ano de efectivo serviço e boas informações, tem preferência, por ordem de antiguidade e com dispensa de concurso, no ingresso em lugares de nomeação das mesmas categorias e especialidade que venham a ser criados no Gabinete de Estudos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Setembro de 1969.**
+Promulgado em 19 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -113,9 +125,9 @@ Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
 REGULAMENTO DO GABINETE DE ESTUDOS DOS SERVIÇOS DE PORTOS, CAMINHOS DE FERRO E TRANSPORTES DE ANGOLA
 
-###### Artigo 1.º O Gabinete de Estudos dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, abreviadamente designado por Gabinete de Estudos, tem por fim definir, estudar e planear as medidas de carácter técnico e económico que, em cada momento, melhor possam contribuir para o aumento da produtividade dos Serviços. Dentro destas atribuições, compete ao Gabinete de Estudos realizar ou promover estudos de especial interesse para aqueles Serviços, quer de carácter técnico-económico, quer de organização e aperfeiçoamento, e abrangendo, nomeadamente, as seguintes matérias: estrutura dos serviços e planeamento da sua acção; métodos de gestão; organização científica do trabalho nos sectores industriais e administrativos; colheita de dados; métodos de selecção e aperfeiçoamento do pessoal.
+Artigo 1.º O Gabinete de Estudos dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, abreviadamente designado por Gabinete de Estudos, tem por fim definir, estudar e planear as medidas de carácter técnico e económico que, em cada momento, melhor possam contribuir para o aumento da produtividade dos Serviços. Dentro destas atribuições, compete ao Gabinete de Estudos realizar ou promover estudos de especial interesse para aqueles Serviços, quer de carácter técnico-económico, quer de organização e aperfeiçoamento, e abrangendo, nomeadamente, as seguintes matérias: estrutura dos serviços e planeamento da sua acção; métodos de gestão; organização científica do trabalho nos sectores industriais e administrativos; colheita de dados; métodos de selecção e aperfeiçoamento do pessoal.
 
-###### Art. 2.º O Gabinete de Estudos, que depende directamente do director dos Serviços, deverá, para cumprimento das suas atribuições:
+Art. 2.º O Gabinete de Estudos, que depende directamente do director dos Serviços, deverá, para cumprimento das suas atribuições:
 
 1.º Submeter ao director dos Serviços, para apreciação e aprovação do conselho de administração, os estudos realizados e as respectivas conclusões;
 
@@ -137,7 +149,7 @@ REGULAMENTO DO GABINETE DE ESTUDOS DOS SERVIÇOS DE PORTOS, CAMINHOS DE FERRO E 
 
 10.º Utilizar equipamentos modernos (máquinas, aparelhos e unidades periféricas), designadamente os destinados a estudos de organização do trabalho, processamento da informação e de dados, formação do pessoal, psicologia aplicada e medicina no trabalho e documentação, os quais, por serem de evolução rápida, exigem estudos, renovações e melhoramentos frequentes.
 
-###### Art. 3.º O Gabinete de Estudos poderá ainda:
+Art. 3.º O Gabinete de Estudos poderá ainda:
 
 1.º Organizar estágios, cursos de formação, de aperfeiçoamento ou de especialização, remunerados ou não, e, sempre que o considere conveniente, propor que tais cursos sejam tornados extensivos a outros departamentos dos Serviços;
 
@@ -149,7 +161,7 @@ REGULAMENTO DO GABINETE DE ESTUDOS DOS SERVIÇOS DE PORTOS, CAMINHOS DE FERRO E 
 
 5.º Propor superiormente contratos com empresas privadas ou organismos oficiais para o estudo, assistência ou execução de tarefas ou trabalhos específicos no domínio da sua actividade, incluindo a selecção e formação de pessoal, quando não possam ser realizados pelo próprio Gabinete, pertencendo-lhe nesses casos a fiscalização da execução das condições contratuais em representação da administração.
 
-###### Art. 4.º O Gabinete de Estudos compreende os seguintes departamentos:
+Art. 4.º O Gabinete de Estudos compreende os seguintes departamentos:
 
 1.º Divisões especializadas:
 
@@ -173,7 +185,7 @@ b) Serviço de documentação.
 
 § 2.º Os departamentos do Gabinete de Estudos compreenderão centros, secções e subsecções cujo número e natureza de actividades serão fixados mediante proposta do director do Gabinete de Estudos, submetida à aprovação do conselho de administração por intermédio do director dos Serviços.
 
-###### Art. 5.º As divisões especializadas terão as seguintes atribuições:
+Art. 5.º As divisões especializadas terão as seguintes atribuições:
 
 1.º Divisão de Análise, Planeamento e Acompanhamento:
 
@@ -223,7 +235,7 @@ b) Determinar os custos das várias unidades de trabalho relativas ao transporte
 
 c) Estudar a estrutura do orçamento da receita e da tabela da despesa da administração, fornecer directivas para a sua elaboração e dar parecer sobre o respectivo projecto, sempre que necessário.
 
-###### Art. 6.º Os serviços gerais terão as seguintes atribuições:
+Art. 6.º Os serviços gerais terão as seguintes atribuições:
 
 1.º Serviço administrativo:
 
@@ -247,7 +259,7 @@ c) Levar a efeito a publicação de documentação técnico-económica de intere
 
 d) Organizar e manter em funcionamento, no próprio Gabinete e em outros sectores da administração, bibliotecas de consulta e apoio.
 
-###### Art. 7.º Ao director do Gabinete de Estudos compete:
+Art. 7.º Ao director do Gabinete de Estudos compete:
 
 1.º Dirigir e coordenar as actividades do Gabinete, imprimindo-lhe orientação técnica, por forma a serem realizados os seus objectivos;
 
@@ -277,35 +289,35 @@ d) Organizar e manter em funcionamento, no próprio Gabinete e em outros sectore
 
 14.º Submeter a despacho do director dos Serviços os assuntos cuja resolução não seja da sua competência.
 
-###### Art. 8.º O director do Gabinete poderá exercer, cumulativa e temporàriamente, as funções de chefe de qualquer departamento do Gabinete, mas sem direito a remuneração adicional.
+Art. 8.º O director do Gabinete poderá exercer, cumulativa e temporàriamente, as funções de chefe de qualquer departamento do Gabinete, mas sem direito a remuneração adicional.
 
-###### Art. 9.º Ao director do Gabinete de Estudos é atribuída a competência a que se refere o n.º 9.º, tendo em vista o disposto no n.º 10.º do artigo 57.º do Regulamento Geral da Administração do Património dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, aprovado pela [Portaria n.º 4429](https://diariodarepublica.pt/dr/detalhe/portaria/4429-1925-213670), de 13 de Julho de 1943, como ordenador de despesa.
+Art. 9.º Ao director do Gabinete de Estudos é atribuída a competência a que se refere o n.º 9.º, tendo em vista o disposto no n.º 10.º do artigo 57.º do Regulamento Geral da Administração do Património dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, aprovado pela [Portaria n.º 4429](https://diariodarepublica.pt/dr/detalhe/portaria/4429-1925-213670), de 13 de Julho de 1943, como ordenador de despesa.
 
-###### Art. 10.º As despesas serão processadas pela Divisão de Finanças e Aprovisionamentos, considerando-se incluído o Gabinete de Estudos, para o efeito no n.º 8.º do artigo 16.º do Regulamento referido no artigo anterior.
+Art. 10.º As despesas serão processadas pela Divisão de Finanças e Aprovisionamentos, considerando-se incluído o Gabinete de Estudos, para o efeito no n.º 8.º do artigo 16.º do Regulamento referido no artigo anterior.
 
-###### Art. 11.º Os projectos de recomendações ou regras a emitir pelo Gabinete de Estudos serão dados a conhecer aos órgãos a que disserem respeito, os quais devem, no prazo que lhes for fixado pelo director dos Serviços, apresentar as objecções que se lhes oferecerem.
+Art. 11.º Os projectos de recomendações ou regras a emitir pelo Gabinete de Estudos serão dados a conhecer aos órgãos a que disserem respeito, os quais devem, no prazo que lhes for fixado pelo director dos Serviços, apresentar as objecções que se lhes oferecerem.
 
 Findo esse prazo, as recomendações ou regras em causa e as eventuais objecções serão submetidas à apreciação do conselho de administração, que sobre elas decidirá.
 
-###### Art. 12.º Para realização das funções que competem ao Gabinete de Estudos, o director dos Serviços de Portos, Caminhos de Ferro e Transportes assegurará a conveniente colaboração dos órgãos dos Serviços, concedendo as necessárias facilidades.
+Art. 12.º Para realização das funções que competem ao Gabinete de Estudos, o director dos Serviços de Portos, Caminhos de Ferro e Transportes assegurará a conveniente colaboração dos órgãos dos Serviços, concedendo as necessárias facilidades.
 
-###### Art. 13.º No orçamento de despesa do Gabinete de Estudos, para cada ano económico, serão inscritas todas as verbas, quer para pessoal, quer para material, julgadas necessárias ao cabal cumprimento das competências e atribuições definidas nos artigos 2.º e 3.º do presente diploma.
+Art. 13.º No orçamento de despesa do Gabinete de Estudos, para cada ano económico, serão inscritas todas as verbas, quer para pessoal, quer para material, julgadas necessárias ao cabal cumprimento das competências e atribuições definidas nos artigos 2.º e 3.º do presente diploma.
 
-###### Art. 14.º O orçamento do Gabinete de Estudos será submetido à aprovação do conselho de administração e fará parte integrante do orçamento de despesa da Direcção dos Serviços para o ano económico a que diz respeito.
+Art. 14.º O orçamento do Gabinete de Estudos será submetido à aprovação do conselho de administração e fará parte integrante do orçamento de despesa da Direcção dos Serviços para o ano económico a que diz respeito.
 
-###### Art. 15.º O pessoal do Gabinete de Estudos será o constante do mapa anexo ao presente decreto, que fica aumentado aos quadros do pessoal privativo dos Serviços de Portos, Caminhos de Ferro e Transportes.
+Art. 15.º O pessoal do Gabinete de Estudos será o constante do mapa anexo ao presente decreto, que fica aumentado aos quadros do pessoal privativo dos Serviços de Portos, Caminhos de Ferro e Transportes.
 
 § único. Os serventes e contínuos necessários ao funcionamento do Gabinete serão fornecidos pela Direcção dos Serviços, que, para o efeito, os poderá assalariar expressamente.
 
-###### Art. 16.º Observados os preceitos legais aplicáveis, o preenchimento dos lugares do quadro do Gabinete de Estudos far-se-á por escolha entre indivíduos que possuam as qualificações necessárias para o exercício das respectivas funções.
+Art. 16.º Observados os preceitos legais aplicáveis, o preenchimento dos lugares do quadro do Gabinete de Estudos far-se-á por escolha entre indivíduos que possuam as qualificações necessárias para o exercício das respectivas funções.
 
 § único. Os lugares de categoria igual ou superior à da letra G só poderão ser preenchidos por indivíduos habilitados com curso superior.
 
-###### Art. 17.º O artigo 5.º e seu § único do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são aplicáveis também ao pessoal do Gabinete de Estudos.
+Art. 17.º O artigo 5.º e seu § único do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são aplicáveis também ao pessoal do Gabinete de Estudos.
 
-###### Art. 18.º Para a realização de estudos ou trabalhos que excedam as suas possibilidades, o Gabinete de Estudos poderá propor o recurso a pessoal ou organizações nacionais ou estrangeiras, mediante adequada remuneração.
+Art. 18.º Para a realização de estudos ou trabalhos que excedam as suas possibilidades, o Gabinete de Estudos poderá propor o recurso a pessoal ou organizações nacionais ou estrangeiras, mediante adequada remuneração.
 
-###### Art. 19.º Serão extintos, à medida que vagarem, os seguintes lugares do quadro privativo:
+Art. 19.º Serão extintos, à medida que vagarem, os seguintes lugares do quadro privativo:
 
 1 chefe de secretaria (mecanografia) ... J
 
@@ -323,14 +335,14 @@ Findo esse prazo, as recomendações ou regras em causa e as eventuais objecçõ
 
 3 dactilógrafas (perfuração) ... U
 
-###### Art. 20.º Os lugares previstos no mapa anexo ao presente diploma só serão preenchidos quando orçamentados e à medida que as disponibilidades financeiras o permitam.
+Art. 20.º Os lugares previstos no mapa anexo ao presente diploma só serão preenchidos quando orçamentados e à medida que as disponibilidades financeiras o permitam.
 
-###### Art. 21.º O presente Regulamento e o quadro do Gabinete, após um ano da sua entrada em vigor, deverão ser revistos e reajustados, de acordo com a experiência adquirida, por forma a facultar ao Gabinete de Estudos os meios mais convenientes para poder alcançar os objectivos que lhe competem.
+Art. 21.º O presente Regulamento e o quadro do Gabinete, após um ano da sua entrada em vigor, deverão ser revistos e reajustados, de acordo com a experiência adquirida, por forma a facultar ao Gabinete de Estudos os meios mais convenientes para poder alcançar os objectivos que lhe competem.
 
 Ministério do Ultramar, 19 de Setembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Mapa a que se refere o artigo 15.º do Regulamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/10/23300/13421345.pdf))](https://files.diariodarepublica.pt/1s/1969/10/23300/13421345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/10/23300/13421345.pdf)
 
 Ministério do Ultramar, 19 de Setembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

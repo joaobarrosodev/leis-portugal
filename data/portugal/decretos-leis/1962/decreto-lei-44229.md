@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44229-1962-518180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cab4f7b659c05aba1cfbfe5c7c7a3b0ed608133f996815029905470271c5b4a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 653f0ebd714c25c2a6234c4ed867d2f2fd271ff18e49e133cfba48069164691a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Contribuição Industrial
+- Convenção
+- Dupla Tributação
+- Empresa Estrangeira
+- Imposto Complementar
+- Imposto sobre o Rendimento
+- Lisboa
+- Marinha Mercante
+- Portugal
+- Reino Unido
+- Transporte Aéreo
+- Transporte Marítimo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:03Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +99,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre o Governo Português e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte para evitar dupla tributação dos rendimentos provenientes dos transportes aéreos e marítimos, assinado em Lisboa a 31 de Julho de 1961, cujo texto, em português e inglês, vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo entre o Governo Português e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte para evitar dupla tributação dos rendimentos provenientes dos transportes aéreos e marítimos, assinado em Lisboa a 31 de Julho de 1961, cujo texto, em português e inglês, vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -102,15 +115,13 @@ Desejando firmar um acordo para evitar a dupla tributação dos rendimentos prov
 
 Acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 (1) O Governo de Portugal isentará de impostos portugueses todos os lucros e rendimentos obtidos pelas entidades do Reino Unido que exploram navios ou aviões, quer estes sejam propriedade das mesmas entidades ou por elas fretados.
 
 (2) O Governo do Reino Unido isentará de impostos britânicos todos os lucros e rendimentos obtidos pelas entidades portuguesas que exploram navios ou aviões, quer estes sejam propriedade das mesmas entidades ou por elas fretados.
 
-ARTIGO II
-
-No presente Acordo
+###### ARTIGO II — No presente Acordo
 
 (a) O termo «Portugal» abrange Portugal continental e ilhas adjacentes;
 
@@ -124,19 +135,19 @@ No presente Acordo
 
 (f) O termo «entidades portuguesas» abrange o Governo de Portugal, indivíduos residentes em Portugal e não residentes no Reino Unido, assim como companhias e sociedades dirigidas e geridas em Portugal.
 
-ARTIGO III
+###### ARTIGO III
 
 (1) Este Acordo pode ser tornado extensivo a qualquer província ultramarina portuguesa ou a qualquer território, cujas relações internacionais sejam da responsabilidade do Governo do Reino Unido, sujeito às condições (incluindo condições relativas ao termo) que possam ser acordadas entre as Partes Contratantes por meio de Notas, que serão trocadas para esse fim.
 
 (2) Enquanto o Acordo não for tornado extensivos colónia de Adem, o Governo Português não fará incidir impostos portugueses sobre os lucros dos armadores que não são residentes em Portugal, mas são residentes em Adem, na medida em que em Adem os lucros dos armadores não residentes são isentos por lei de quaisquer impostos sobre lucros ou rendimentos ali aplicados, contanto que o país ao qual o armador não residente pertence estenda uma isenção semelhante aos armadores que não são residentes naquele país, mas são residentes no Reino Unido ou em Adem.
 
-ARTIGO IV
+###### ARTIGO IV
 
 (1) O presente Acordo será ratificado e os instrumentos de ratificação serão trocados em Lisboa tão cedo quanto possível.
 
 (2) Este Acordo entrará em vigor logo que se troquem os instrumentos de ratificação e aplicar-se-á a todos os lucros e rendimentos obtidos a partir do dia 1 de Abril de 1952.
 
-ARTIGO V
+###### ARTIGO V
 
 (1) Este Acordo continuará em vigor indefinidamente, mas poderá ser denunciado por qualquer das Partes Contratantes por aviso prévio de seis meses, transmitido por escrito à outra Parte Contratante.
 

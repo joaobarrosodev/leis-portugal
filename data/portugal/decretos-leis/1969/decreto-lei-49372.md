@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49372-1969-215767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 280668c126effc5f9df8a2221d1727578a05ccb733812024f1d5f8d40dbd560a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26d35a5a40113c002b79529510a57e4339ab82e00d804135539e8163e45df31f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Braga
+- Coimbra
+- Covilhã
+- Estatuto
+- Funchal
+- Leiria
+- Lisboa
+- Orgânica
+- Ponta Delgada
+- Porto
+- Setúbal
+- Tomar
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:686061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:686061:por
+  label: "Alterados o § único do art. 2º e o nº 2 do art. 5º do Estatuto dos Tribunais do Trabalho aprovado pelo Dec Lei 41745\
+    \ de 21-Jul de 1958, com a redacção constante do presente diploma, pelo DEC LEI.455/72.14.11.1972.MCPS, DG.IS [265] de\
+    \ 14.11.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/455-1972-686061
+  date: '1972-11-14'
+- type: cites
+  target: pt:dre:235168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:37Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +142,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º e 5.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, e com alterações posteriores, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º e 5.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, e com alterações posteriores, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § único. Os Tribunais do Trabalho de Lisboa e Porto são constituídos por oito e cinco varas, respectivamente, o de Braga por três varas e os de Aveiro, Coimbra, Covilhã, Leiria, Setúbal e Tomar por duas varas.
 
 ...
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 1.º ...
 
@@ -122,14 +162,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. ...
 
-###### Art. 2.º Na repartição dos processos pendentes na área de jurisdição do Tribunal do Trabalho da Covilhã observar-se-á o disposto no artigo 162.º do Estatuto dos Tribunais do Trabalho.
+Art. 2.º Na repartição dos processos pendentes na área de jurisdição do Tribunal do Trabalho da Covilhã observar-se-á o disposto no artigo 162.º do Estatuto dos Tribunais do Trabalho.
 
-###### Art. 3.º Os encargos a que der lugar a execução do presente diploma serão reembolsados ao Estado trimestralmente pela receita prevista no artigo 152.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, mediante competente guia passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e das Corporações e Previdência Social.
+Art. 3.º Os encargos a que der lugar a execução do presente diploma serão reembolsados ao Estado trimestralmente pela receita prevista no artigo 152.º do [Decreto-Lei n.º 45698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45698-1964-582811), de 30 de Abril de 1964, mediante competente guia passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e das Corporações e Previdência Social.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 29 de Outubro de 1969.**
+Promulgado em 29 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

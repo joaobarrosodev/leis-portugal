@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45142-1963-693026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d633ec00c97cdb1d88a5f627bad7a3f458ad91e13ea19d6c5b06473797c3e7f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 263119cb8c4743437ba04c55e1b20b778b9513bf6c78466804393a103083a69d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Dívida Pública
+- Junta de Crédito Público
+- Obrigações do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:40Z'
   warnings: []
   errors: []
 ---
@@ -97,38 +112,38 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 3 1/2 por cento, 1963», até à importância total nominal de 1 milhão de contos.
+Artigo 1.º É autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 3 1/2 por cento, 1963», até à importância total nominal de 1 milhão de contos.
 
-###### Art. 2.º O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, desdobrar-se-á em séries de 100000 contos, autorizando-se desde já a emissão da obrigação geral correspondente às cinco primeiras séries, no total de 500000 contos.
+Art. 2.º O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, desdobrar-se-á em séries de 100000 contos, autorizando-se desde já a emissão da obrigação geral correspondente às cinco primeiras séries, no total de 500000 contos.
 
 § único. As restantes séries poderão ser emitidas sucessiva ou simultâneamente, conforme for determinado no diploma ou diplomas que autorizarem a emissão das respectivas obrigações gerais.
 
-###### Art. 3.º A representação do empréstimo far-se-á em títulos de cupão de 1 ou de 10 obrigações do valor nominal de 1000$00, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
+Art. 3.º A representação do empréstimo far-se-á em títulos de cupão de 1 ou de 10 obrigações do valor nominal de 1000$00, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
 
-###### Art. 4.º Quando os tomadores do empréstimo pretenderem receber os títulos já invertidos em certificados de dívida inscrita de qualquer montante, as futuras operações de reversão ficam isentas do pagamento de emolumentos e da taxa de 3$00 a que se referem os n.os I e IX da tabela anexa ao [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
+Art. 4.º Quando os tomadores do empréstimo pretenderem receber os títulos já invertidos em certificados de dívida inscrita de qualquer montante, as futuras operações de reversão ficam isentas do pagamento de emolumentos e da taxa de 3$00 a que se referem os n.os I e IX da tabela anexa ao [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
-###### Art. 5.º Os títulos de cupão deste e de quaisquer outros empréstimos que forem entregues na Junta do Crédito Público para inversão em dívida inscrita e se apresentarem em bom estado poderão deixar de ser inutilizados, sendo a isenção prevista no artigo anterior extensiva a todas as operações de reversão em que a Junta possa restituir aos portadores os mesmos títulos de cupão, sem necessidade de imprimir novos títulos.
+Art. 5.º Os títulos de cupão deste e de quaisquer outros empréstimos que forem entregues na Junta do Crédito Público para inversão em dívida inscrita e se apresentarem em bom estado poderão deixar de ser inutilizados, sendo a isenção prevista no artigo anterior extensiva a todas as operações de reversão em que a Junta possa restituir aos portadores os mesmos títulos de cupão, sem necessidade de imprimir novos títulos.
 
-###### Art. 6.º As obrigações de cada série serão obrigatòriamente amortizadas ao par em quinze anuidades iguais, devendo a primeira amortização ter lugar seis anos depois da data da respectiva emissão.
+Art. 6.º As obrigações de cada série serão obrigatòriamente amortizadas ao par em quinze anuidades iguais, devendo a primeira amortização ter lugar seis anos depois da data da respectiva emissão.
 
 § único. A primeira amortização, relativa às obrigações das cinco primeiras séries, far-se-á em 15 de Outubro de 1969.
 
-###### Art. 7.º O juro das obrigações será de 3 1/2 por cento ao ano, pagável aos trimestres, em 15 de Janeiro, 15 de Abril, 15 de Julho e 15 de Outubro.
+Art. 7.º O juro das obrigações será de 3 1/2 por cento ao ano, pagável aos trimestres, em 15 de Janeiro, 15 de Abril, 15 de Julho e 15 de Outubro.
 
 Os primeiros juros das cinco primeiras séries cuja emissão é autorizada por este diploma vencem-se em 15 de Outubro de 1963, só sendo devidos a partir da data em que as respectivas importâncias entrarem na posse do Estado.
 
-###### Art. 8.º Os títulos ou certificados representativos das séries a emitir poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de um ano.
+Art. 8.º Os títulos ou certificados representativos das séries a emitir poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de um ano.
 
 § único. No caso de serem entregues aos portadores certificados de dívida inscrita provisórios, é indispensável a indicação nos mesmos dos números dos títulos neles representados.
 
-###### Art. 9.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, assim como dos referidos no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, que lhes forem aplicáveis.
+Art. 9.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, assim como dos referidos no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, que lhes forem aplicáveis.
 
-###### Art. 10.º Poderá o Ministro das Finanças contratar com a Caixa Geral de Depósitos, Crédito e Previdência ou com outras instituições de crédito nacionais a colocação total ou parcial dos títulos, ou fazê-la por subscrição pública ou por venda no mercado. O encargo efectivo do empréstimo, excluídas as despesas da sua representação, não deverá, porém, exceder 3 3/4 por cento.
+Art. 10.º Poderá o Ministro das Finanças contratar com a Caixa Geral de Depósitos, Crédito e Previdência ou com outras instituições de crédito nacionais a colocação total ou parcial dos títulos, ou fazê-la por subscrição pública ou por venda no mercado. O encargo efectivo do empréstimo, excluídas as despesas da sua representação, não deverá, porém, exceder 3 3/4 por cento.
 
-###### Art. 11.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este decreto-lei.
+Art. 11.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este decreto-lei.
 
-###### Art. 12.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+Art. 12.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças inscritas nos orçamentos dos anos económicos em que tiverem lugar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

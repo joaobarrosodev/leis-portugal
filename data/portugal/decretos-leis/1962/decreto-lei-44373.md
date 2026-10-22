@@ -49,40 +49,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44373-1962-164228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 366110ab6d0999f6b67d256cfc78da36007336b840ca8bc419f0c1b8fa5a70e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a8fe7dbe770af8ddd3c90b58fbe007f30026debb2b651b8eadff851fb626d6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Artesanato
+- Direitos de Importação
+- Importação
+- Isenção Fiscal
+- Madeira.ilha Adjacente
+- Pauta Aduaneira
+- Pedra Preciosa
+- Regime Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:272386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272386:por
+  label: "Introduzidas na lista anexa ao Dec Lei 47958, de 25-Set de 1967, as mercadorias abrangidas pela nota aditada ao\
+    \ artigo 38.11.02 da pauta dos direitos de importação pelo presente diploma, pelo DEC LEI.48424.08.06.1968.MF, DG.IS [137]\
+    \ de 08.06.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48424-1968-272386
+  date: '1968-06-08'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:04Z'
   warnings: []
   errors: []
 ---
@@ -111,26 +155,26 @@ De harmonia com o que fica exposto;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A lista a que se refere o § 4.º do artigo 3.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, é a que segue anexa a este diploma e baixa assinada pelo Ministro das Finanças.
+Artigo 1.º A lista a que se refere o § 4.º do artigo 3.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, é a que segue anexa a este diploma e baixa assinada pelo Ministro das Finanças.
 
 § único. Em tudo que não seja contrariado pelas condições especiais mencionadas nesta lista, vigoram, quanto ao processo da isenção, as disposições dos artigos 5.º e 6.º do decreto-lei referido no corpo do artigo.
 
-###### Art. 2.º Independentemente das ressalvas feitas nos artigos 1.º e 2.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), são mantidas as seguintes isenções de direitos de importação:
+Art. 2.º Independentemente das ressalvas feitas nos artigos 1.º e 2.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), são mantidas as seguintes isenções de direitos de importação:
 
 a) As referidas no [Decreto n.º 30290](https://diariodarepublica.pt/dr/detalhe/decreto/30290-1940-189141), de 13 de Fevereiro de 1940, relativas a materiais para a manufactura dos bordados da Madeira e dos Açores;
 
 b) As referidas no [Decreto-Lei n.º 41004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41004-1957-652964), de 15 de Fevereiro de 1957, relativas a diamantes não lapidados.
 
-###### Art. 3.º Na pauta dos direitos de importação é introduzida a seguinte nota à subposição 38.11.02:
+Art. 3.º Na pauta dos direitos de importação é introduzida a seguinte nota à subposição 38.11.02:
 
 Os produtos abrangidos nesta subposição ficam sujeitos à taxa na pauta mínima de 15 por cento ad valorem quando a Inspecção-Geral dos Produtos Agrícolas e Industriais, ouvido o parecer do Laboratório de Fitofarmacologia, informar que são indispensáveis à defesa da agricultura e silvicultura nacionais e não são produzidos no país em boas condições de qualidade.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Lista aprovada pelo artigo 1.º do Decreto-Lei n.º 44373, respeitante às entidades mencionadas no § 4.º do artigo 3.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/05/12200/07690770.pdf))](https://files.diariodarepublica.pt/1s/1962/05/12200/07690770.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/05/12200/07690770.pdf)
 
 Ministério das Finanças, 29 de Maio de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.

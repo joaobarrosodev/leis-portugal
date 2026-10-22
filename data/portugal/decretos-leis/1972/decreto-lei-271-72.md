@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1972-675603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e8bd1fe18a8c93d67c1d1f00b4c901bc4b8573ac44b18faf92a09030331b4c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3ef962571b6770b64482e152ddfc3214a7ee0b1d109a49fb7c55904a33c9edb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regime Jurídico
+- Sociedade de Investimento
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:382611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684983:por
+  label: "Prorrogado até 31.12.1973 o prazo fixado no nº 1 do art. 14º pelo DEC LEI.36/73.07.02.1973.MJ, DG.IS [32] de 07.02.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1973-684983
+  date: '1973-02-07'
+- type: amended_by
+  target: pt:dre:325547:por
+  label: "Prorrogado até 31.12.1974 o prazo referido no nº 1 do artº 14º pelo DEC LEI.93/74.1974.03.09.MJ, DG.IS [58]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1974-325547
+  date: '1974-03-09'
+- type: amended_by
+  target: pt:dre:236077:por
+  label: "Prorrogado até 31.12.1975, o prazo a que se referem os nºs. 2 e 4 do art. 14º do presente diploma, pelo DEC LEI.778/74.31.12.1974.MF,\
+    \ DG.IS [303-2ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/778-1974-236077
+  date: '1974-12-31'
+- type: cites
+  target: pt:dre:236711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382611:por
+  label: "Revogado o artigo 3.º e 4.º, a alínea c) do n.º 2 do artigo 5.º, bem como as alíneas a), b) e c) do seu n.º 3, os\
+    \ nºs 2 e 3 do artigo 6.º, os nºs 3 e 4 do artigo 8.º, os artigos 11.º, 12.º, 13.º, 14.º, 15.º e 16.º, pelo DEC LEI.137/79.18.05.1979.MFP,\
+    \ DR.IS [114] de 18.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1979-382611
+  date: '1979-05-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:29Z'
   warnings: []
   errors: []
 ---
@@ -304,8 +340,8 @@ e) Nos artigos 75.º a 77.º do [Decreto-Lei n.º 42641](https://diariodarepubli
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 20 de Julho de 1972.**
+Promulgado em 20 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

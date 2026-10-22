@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 126/1976, 3º Suplemento, Série I de 1976-05-29
   number: '126'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1224-(5) a 1224-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12603/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-c-1976-301012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21ea50ef6128c5819bbe8e3d6de10d84d76763c0804b2639902801a86c251037
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae77a3d31b5295172dd93342f0a896032b77d03839956726e7e3f2167c344360
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Licenciamento
+- Petróleo
+- Prorrogação de Prazo
+- Prospecção de Petróleo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:49Z'
   warnings: []
   errors: []
 ---
@@ -109,20 +125,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Relativamente às concessões do direito de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental portuguesa, vigentes na data da publicação do presente diploma e salvo as referidas no número seguinte, é acrescido de dezoito meses o prazo inicial das mesmas.
+Artigo 1.º - 1. Relativamente às concessões do direito de prospecção, pesquisa, desenvolvimento e exploração de petróleo na plataforma continental portuguesa, vigentes na data da publicação do presente diploma e salvo as referidas no número seguinte, é acrescido de dezoito meses o prazo inicial das mesmas.
 
 2. Relativamente às concessões atribuídas por contratos assinados em 31 de Agosto de 1973, é igualmente acrescido de dezoito meses o período de três anos a que se refere a obrigação de executar trabalhos mínimos obrigatórios.
 
 3. O prazo inicial das concessões, bem como o período de execução de trabalhos mínimos obrigatórios a que se referem, respectivamente, os n.os 1 e 2, passam a entender-se, para todos os efeitos, com o acréscimo estabelecido neste diploma.
 
-###### Art. 2.º O disposto no artigo anterior não prejudica o regime de prorrogações fixado na lei e nos contratos para as concessões nele referidas.
+Art. 2.º O disposto no artigo anterior não prejudica o regime de prorrogações fixado na lei e nos contratos para as concessões nele referidas.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 29 de Maio de 1976.**
+Promulgado em 29 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

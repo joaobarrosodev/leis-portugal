@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 251/1978, 1º Suplemento, Série I de 1978-10-31
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2294-(2) a 2294-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/25101/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-b-1978-213244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80d55cfe8e88f1446be742cb22e9d049dfe16c6577ce8d102923e5166db2ce79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8d9a3f492ff441ffaa274fcafb4015ddfa4744207a56b3cb8ff851755f9fd6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dotação Orçamental
+- Gestão Financeira
+- Gestão Orçamental
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332190:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:08Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +115,9 @@ Assim:
 
 Ao abrigo do artigo 18.º da [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica proibida a utilização das disponibilidades existentes, em 31 de Outubro, nos duodécimos das dotações corrigidas do Orçamento Geral do Estado em vigor ou dos orçamentos dos serviços e fundos autónomos também para o corrente ano, sujeitos ao visto do Ministro das Finanças e do Plano.
+Artigo 1.º Fica proibida a utilização das disponibilidades existentes, em 31 de Outubro, nos duodécimos das dotações corrigidas do Orçamento Geral do Estado em vigor ou dos orçamentos dos serviços e fundos autónomos também para o corrente ano, sujeitos ao visto do Ministro das Finanças e do Plano.
 
-###### Art. 2.º Não se consideram abrangidas pela proibição determinada no artigo anterior as disponibilidades existentes nas dotações respeitantes ao pagamento dos seguintes encargos:
+Art. 2.º Não se consideram abrangidas pela proibição determinada no artigo anterior as disponibilidades existentes nas dotações respeitantes ao pagamento dos seguintes encargos:
 
 a) Despesas com o pessoal a suportar pelas dotações cujos códigos de classificação económica vão de 01.00 «Remunerações certas e permanentes» a 18.00 «Classes inactivas - Despesas diversas»;
 
@@ -110,16 +127,16 @@ c) Despesas com os investimentos do Plano especificadas em programas aprovados e
 
 d) Despesas de carácter urgente e inadiável devidamente justificadas e fundamentadas com a aprovação do Ministro da pasta respectiva, constantes de propostas dos serviços, a remeter às competentes delegações da Direcção-Geral da Contabilidade Pública, para apreciação do Ministro das Finanças e do Plano.
 
-###### Art. 3.º As disponibilidades efectivamente verificadas no Orçamento Geral do Estado, nos termos do artigo 1.º, poderão, para casos excepcionais, ser utilizadas pelo Ministro das Finanças e do Plano, para inscrições ou reforços de verbas, resultantes de despesas inadiáveis, não previstas ou insuficientemente dotadas no referido orçamento.
+Art. 3.º As disponibilidades efectivamente verificadas no Orçamento Geral do Estado, nos termos do artigo 1.º, poderão, para casos excepcionais, ser utilizadas pelo Ministro das Finanças e do Plano, para inscrições ou reforços de verbas, resultantes de despesas inadiáveis, não previstas ou insuficientemente dotadas no referido orçamento.
 
-###### Art. 4.º A aplicação do presente diploma às forças armadas será feita de harmonia com o que vier a ser, sobre a matéria, deliberado pelo Conselho da Revolução.
+Art. 4.º A aplicação do presente diploma às forças armadas será feita de harmonia com o que vier a ser, sobre a matéria, deliberado pelo Conselho da Revolução.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes.
 
-**Promulgado em 27 de Outubro de 1978.**
+Promulgado em 27 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

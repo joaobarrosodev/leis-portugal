@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19100/22872288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1980-471137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47e583d1d55b96b21ce3d38ecde9f2ca893820a3c02917740a6f174fcd4d8385
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fc95f5736280e9f9909850f1ffb0f0fec162df1f63bbe01f4080fba5131b248
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Angola
+- Banco de Portugal
+- Banco Nacional Ultramarino
+- Extinção de Serviços
+- Fundo Monetário da ZONA do Escudo
+- Gestão Financeira
+- Mobilização de Títulos
+- Obrigações do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:158612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502798:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:51Z'
   warnings: []
   errors: []
 ---
@@ -96,32 +130,32 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É extinto o Fundo Monetário da Zona do Escudo, a seguir designado por Fundo, devendo proceder-se à sua liquidação.
+Artigo 1.º - 1 - É extinto o Fundo Monetário da Zona do Escudo, a seguir designado por Fundo, devendo proceder-se à sua liquidação.
 
 2 - Os títulos representativos do capital do Fundo (a seguir designados por títulos) que foram subscritos pela Fazenda Nacional e pelo Banco de Portugal, Banco Nacional Ultramarino e Banco de Angola, mas cujo valor não chegou a ser realizado, são anulados, ficando extintos os direitos e obrigações decorrentes dessa subscrição.
 
-###### Art. 2.º As disponibilidades provenientes da liquidação do Fundo serão distribuídas pelos portadores dos títulos referidos no n.º 1 do artigo 28.º do Decreto-Lei n.º 553/71, de 15 de Dezembro, proporcionalmente ao respectivo valor e para resgate dos mesmos.
+Art. 2.º As disponibilidades provenientes da liquidação do Fundo serão distribuídas pelos portadores dos títulos referidos no n.º 1 do artigo 28.º do Decreto-Lei n.º 553/71, de 15 de Dezembro, proporcionalmente ao respectivo valor e para resgate dos mesmos.
 
-###### Art. 3.º Os títulos averbados em nome do Banco de Portugal, do Banco Nacional Ultramarino e do Banco de Angola que não puderem ser resgatados por força do disposto no artigo anterior sê-lo-ão por aplicação da necessária parcela do saldo activo, proveniente da revalorização da reserva de ouro do Banco de Portugal, prevista na alínea a) do artigo 2.º do [Decreto-Lei n.º 107/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1980-475295), de 10 de Maio.
+Art. 3.º Os títulos averbados em nome do Banco de Portugal, do Banco Nacional Ultramarino e do Banco de Angola que não puderem ser resgatados por força do disposto no artigo anterior sê-lo-ão por aplicação da necessária parcela do saldo activo, proveniente da revalorização da reserva de ouro do Banco de Portugal, prevista na alínea a) do artigo 2.º do [Decreto-Lei n.º 107/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1980-475295), de 10 de Maio.
 
-###### Art. 4.º Em contrapartida da responsabilidade assumida pelo Estado no resgate do capital do Fundo, transmitem-se para o Estado os créditos correspondentes aos empréstimos automáticos e especiais, concedidos pelo Fundo nos termos, respectivamente, do artigo 8.º e dos artigos 31.º e 34.º do [Decreto n.º 553/71](https://diariodarepublica.pt/dr/detalhe/decreto/553-1971-158612), de 15 de Dezembro.
+Art. 4.º Em contrapartida da responsabilidade assumida pelo Estado no resgate do capital do Fundo, transmitem-se para o Estado os créditos correspondentes aos empréstimos automáticos e especiais, concedidos pelo Fundo nos termos, respectivamente, do artigo 8.º e dos artigos 31.º e 34.º do [Decreto n.º 553/71](https://diariodarepublica.pt/dr/detalhe/decreto/553-1971-158612), de 15 de Dezembro.
 
-###### Art. 5.º O saldo credor existente na conta do Banco de Portugal «Fundo cambial, província de Timor, c/reserva, c/escudos» será transferido para a conta corrente do Tesouro Público no Banco de Portugal.
+Art. 5.º O saldo credor existente na conta do Banco de Portugal «Fundo cambial, província de Timor, c/reserva, c/escudos» será transferido para a conta corrente do Tesouro Público no Banco de Portugal.
 
-###### Art. 6.º A Secretaria de Estado do Tesouro e o Banco de Portugal adoptarão as providências necessárias ao cumprimento do disposto nos artigos anteriores.
+Art. 6.º A Secretaria de Estado do Tesouro e o Banco de Portugal adoptarão as providências necessárias ao cumprimento do disposto nos artigos anteriores.
 
-###### Art. 7.º Os livros de actas e mais documentação relativa ao extinto Fundo Monetário da Zona do Escudo ficam à guarda do Banco de Portugal, sendo-lhe considerado aplicável o regime estabelecido pela [Portaria n.º 206/76](https://diariodarepublica.pt/dr/detalhe/portaria/206-1976-502798), de 7 de Abril.
+Art. 7.º Os livros de actas e mais documentação relativa ao extinto Fundo Monetário da Zona do Escudo ficam à guarda do Banco de Portugal, sendo-lhe considerado aplicável o regime estabelecido pela [Portaria n.º 206/76](https://diariodarepublica.pt/dr/detalhe/portaria/206-1976-502798), de 7 de Abril.
 
-###### Art. 8.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 8.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 9.º São revogados o [Decreto-Lei n.º 478/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266), de 6 de Novembro, e o [Decreto n.º 553/71](https://diariodarepublica.pt/dr/detalhe/decreto/553-1971-158612), de 15 de Dezembro.
+Art. 9.º São revogados o [Decreto-Lei n.º 478/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266), de 6 de Novembro, e o [Decreto n.º 553/71](https://diariodarepublica.pt/dr/detalhe/decreto/553-1971-158612), de 15 de Dezembro.
 
-###### Art. 10.º O disposto no presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O disposto no presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 5 de Agosto de 1980.**
+Promulgado em 5 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

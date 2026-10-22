@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 296/1979, 1º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3350-(11) a 3350-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29601/00110015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-n-1979-430017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92079fc22bdfa20bd1d8fdb1c727a9e557be484271a42f1b9ed5ede833932cf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3153f6a0510f98e75f2b7eff6fa79054fe61937abf1ea3e86690f6228e5df0a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho Diretivo
+- Criação de Serviços
+- Definição de Competências
+- Gestão Financeira
+- Grupo de Estudos Básicos de Economia Industrial
+- INEC
+- Integração de Serviços
+- Orgânica
+- Secretaria de Estado do Plano
 relationships:
 - type: amended_by
   target: pt:dre:457463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457463:por
+  label: Revogado, a partir de 06.11.1980, pelo(a) Decreto-Lei n.º 526/80 - Diário da República n.º 256/1980, Série I de 1980-11-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1980-457463
+  date: '1980-11-05'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:33Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +134,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Criação, natureza e atribuições
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Criação e natureza)
 
@@ -119,7 +142,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - O Instituto é dotado de personalidade jurídica, autonomia administrativa e financeira e reger-se-á pelo disposto no presente diploma e seus regulamentos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Atribuições)
 
@@ -141,7 +164,7 @@ g) Prestar serviços nos domínios das suas especialidades e promover a divulga�
 
 h) Promover a difusão dos seus trabalhos por meios convenientes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Articulação com o Instituto Nacional de Estatística)
 
@@ -151,19 +174,19 @@ h) Promover a difusão dos seus trabalhos por meios convenientes.
 
 3 - Os funcionários e agentes do Instituto ficam submetidos às disposições legais que salvaguardam a confidencialidade dos dados estatísticos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Acordos de cooperação)
 
 Para os efeitos da alínea f) do artigo 2.º, o Instituto poderá celebrar com outras entidades acordos específicos de cooperação sujeitos à homologação do Ministro responsável pelo Plano.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Solicitação de elementos e informações a outras entidades públicas)
 
 No desempenho das suas atribuições, o Instituto Nacional de Economia Quantitativa poderá solicitar dos serviços e institutos públicos e corpos administrativos os elementos e informações necessários.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Instituição de bolsas, prémios e outras formas de recompensa ou distinção)
 
@@ -171,7 +194,7 @@ O Instituto Nacional de Economia Quantitativa poderá instituir bolsas, prémios
 
 ### CAPÍTULO II — Organização interna
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Órgãos)
 
@@ -183,13 +206,13 @@ b) O conselho orientador;
 
 c) O conselho administrativo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Constituição do conselho directivo)
 
 O conselho directivo é constituído pelo director, subdirector e secretário do Instituto.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Competência do conselho directivo)
 
@@ -215,7 +238,7 @@ i) Determinar o que for necessário ao bom funcionamento e regularidade dos serv
 
 2 - Sem prejuízo do disposto no artigo 11.º, o conselho directivo poderá delegar em qualquer dos seus membros o exercício de alguns poderes específicos incluídos nas competências referidas no número anterior, devendo os limites e condições dessa delegação ser definidos em acta.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Competências específicas dos membros do conselho directivo)
 
@@ -245,7 +268,7 @@ b) Coordenar a elaboração dos documentos a submeter ao conselho directivo, ao 
 
 c) Desempenhar as demais funções que lhe sejam cometidas por lei ou por mandato expresso do conselho directivo.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Constituição do conselho orientador)
 
@@ -269,7 +292,7 @@ g) Entidades, até ao máximo de três, nomeadas pelo Ministro responsável pelo
 
 3 - Os membros do conselho orientador escolhem entre os membros não natos o seu presidente, cujo mandato terá a duração de dois anos, renováveis.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Competência do conselho orientador)
 
@@ -285,7 +308,7 @@ d) Pronunciar-se sobre programas de formação externa a realizar pelo Instituto
 
 e) Pronunciar-se sobre os restantes assuntos que lhe forem submetidos pelo conselho directivo ou pelo Ministro responsável pelo Plano para resolução.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Competência do presidente do conselho orientador)
 
@@ -297,13 +320,13 @@ b) Presidir às comissões de bolsas, prémios e outras formas de recompensa a q
 
 c) Promover as diligências necessárias à elaboração de um relatório de prestação de contas das actividades do Instituto no ano precedente e submetê-lo ao conselho orientador;
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Constituição do conselho administrativo)
 
 O conselho administrativo é constituído pelo director, pelo secretário e pelo responsável pelos serviços administrativos, com a assistência de um representante do Tribunal de Contas.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Competência do conselho administrativo)
 
@@ -321,13 +344,13 @@ e) Autorizar a realização de despesas até ao montante que a lei fixa para os 
 
 f) Submeter anualmente a conta de gerência ao Tribunal de Contas.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Participação dos trabalhadores)
 
 A participação dos trabalhadores na gestão dos assuntos do Instituto que digam respeito à sua situação jurídico-profissional far-se-á de harmonia com os princípios que vierem a ser definidos na lei geral aplicável.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Regulamento)
 
@@ -335,7 +358,7 @@ Serão regulamentados por decreto do Ministro da Coordenação Económica e do P
 
 ### CAPÍTULO III — Gestão financeira
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Instrumentos de gestão)
 
@@ -345,7 +368,7 @@ a) Programa anual de trabalho;
 
 b) Orçamento privativo anual e suas actualizações.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Receitas)
 
@@ -361,13 +384,13 @@ d) Quaisquer outras receitas que por lei, contrato ou qualquer outro título lhe
 
 2 - A movimentação de receitas, a organização dos orçamentos e a prestação e publicidade das contas de gerência ficam sujeitas ao estabelecido na lei geral aplicável, designadamente no [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Fixação de tarifas de serviços prestados)
 
 As tarifas praticadas pelo Instituto serão fixadas pelo Ministro responsável pelo Plano, sob proposta do conselho directivo, tendo em atenção os meios humanos e materiais mobilizados em cada caso, os custos indirectos de funcionamento, as condições da prestação de serviços e o valor corrente da prestação de serviços de idêntica qualificação.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Celebração de contratos)
 
@@ -375,13 +398,13 @@ As tarifas praticadas pelo Instituto serão fixadas pelo Ministro responsável p
 
 2 - Os indivíduos contratados nos termos do número anterior não adquirem a qualidade de agentes administrativos nem ficam submetidos ao Estatuto do Funcionalismo Público.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Requisição de fundos)
 
 O conselho directivo requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais consignadas ao Instituto.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Contabilidade)
 
@@ -391,14 +414,14 @@ O conselho directivo requisitará mensalmente, nos termos da lei vigente, à del
 
 3 - As normas internas de contabilidade constarão de regulamento próprio a aprovar por despacho conjunto do Ministro das Finanças e do Ministro responsável pelo Plano.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 As dúvidas que ocorram na aplicação do presente diploma serão resolvidas por despacho do Ministro responsável pelo Plano, do Ministro das Finanças e do Secretário de Estado da Administração Pública, de acordo com as respectivas competências.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

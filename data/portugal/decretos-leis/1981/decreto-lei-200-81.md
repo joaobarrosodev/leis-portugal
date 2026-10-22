@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1981-580296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81aeaca29c688371684b1b90dd7ea80fc86b54a696c4ca69382b350db39fccfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8e2d36ed5b8becc57f1f4c61395dbce357ac48b4b96918dd95a8fb697f7f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Doença Profissional
+- Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412832:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:33Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +122,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Caixa Nacional de Seguros de Doenças Profissionais abrangerá a cobertura do risco das doenças profissionais a que estão sujeitos os trabalhadores por conta de outrem, ao serviço de qualquer actividade, beneficiários de regimes de previdência, salvo o disposto no artigo 4.º
+Artigo 1.º - 1 - A Caixa Nacional de Seguros de Doenças Profissionais abrangerá a cobertura do risco das doenças profissionais a que estão sujeitos os trabalhadores por conta de outrem, ao serviço de qualquer actividade, beneficiários de regimes de previdência, salvo o disposto no artigo 4.º
 
 2 - O disposto no número anterior é aplicável aos trabalhadores abrangidos pela Caixa de Abono de Família dos Empregados Bancários.
 
-###### Art. 2.º - 1 - O financiamento da cobertura do risco de doença profissional será assegurado por contribuições das entidades patronais abrangidas pelos regimes de previdência.
+Art. 2.º - 1 - O financiamento da cobertura do risco de doença profissional será assegurado por contribuições das entidades patronais abrangidas pelos regimes de previdência.
 
 2 - A taxa normal das contribuições referidas no número anterior será fixada por portaria do Ministro das Finanças e do Plano e Ministro dos Assuntos Sociais e não poderá exceder 1% do total das retribuições efectivamente devidas ou convencionalmente atribuídas aos seus trabalhadores, sobre o qual incidem as contribuições para a Previdência.
 
@@ -115,34 +134,34 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - As importâncias correspondentes às contribuições previstas nos n.os 2 e 3 serão afectas à Caixa Nacional de Seguros de Doenças Profissionais.
 
-###### Art. 3.º - 1 - As importâncias que resultam da aplicação da taxa normal de contribuição a que todas as empresas estão sujeitas serão pagas conjuntamente com as contribuições para a Previdência e às mesmas entidades a que esse pagamento seja feito.
+Art. 3.º - 1 - As importâncias que resultam da aplicação da taxa normal de contribuição a que todas as empresas estão sujeitas serão pagas conjuntamente com as contribuições para a Previdência e às mesmas entidades a que esse pagamento seja feito.
 
 2 - As entidades a que se refere o n.º 2 do artigo 1.º pagarão directamente à Caixa Nacional de Seguros de Doenças Profissionais as importâncias correspondentes às contribuições previstas no presente diploma.
 
-###### Art. 4.º A Caixa Nacional de Seguros de Doenças Profissionais abrangerá, nos termos deste decreto-lei, a cobertura do risco das doenças profissionais a que estão sujeitos os trabalhadores por conta de outrem, beneficiários do regime especial de previdência dos rurais, quando entrar em vigor o diploma que alterar o sistema de contribuições daquele regime.
+Art. 4.º A Caixa Nacional de Seguros de Doenças Profissionais abrangerá, nos termos deste decreto-lei, a cobertura do risco das doenças profissionais a que estão sujeitos os trabalhadores por conta de outrem, beneficiários do regime especial de previdência dos rurais, quando entrar em vigor o diploma que alterar o sistema de contribuições daquele regime.
 
-###### Art. 5.º - 1 - Os trabalhadores independentes poderão inscrever-se facultativamente no regime de protecção contra a doença profissional mediante o pagamento das importâncias correspondentes à taxa fixada nos termos do n.º 2 do artigo 2.º e calculada sobre as remunerações convencionais sujeitas a contribuições para a Previdência.
+Art. 5.º - 1 - Os trabalhadores independentes poderão inscrever-se facultativamente no regime de protecção contra a doença profissional mediante o pagamento das importâncias correspondentes à taxa fixada nos termos do n.º 2 do artigo 2.º e calculada sobre as remunerações convencionais sujeitas a contribuições para a Previdência.
 
 2 - Os trabalhadores independentes inscritos no regime de protecção contra a doença profissional pagarão directamente à Caixa Nacional de Seguros de Doenças Profissionais as importâncias referidas no número anterior.
 
-###### Art. 6.º - 1 - Quando se verificar, em determinada empresa, a existência de um risco superior ao normal, o Ministro dos Assuntos Sociais poderá agravar por despacho a respectiva taxa, sob proposta da Caixa Nacional de Seguros de Doenças Profissionais.
+Art. 6.º - 1 - Quando se verificar, em determinada empresa, a existência de um risco superior ao normal, o Ministro dos Assuntos Sociais poderá agravar por despacho a respectiva taxa, sob proposta da Caixa Nacional de Seguros de Doenças Profissionais.
 
 2 - Poderá, no entanto, ser determinado por despacho do Ministro dos Assuntos Sociais, e sob proposta da Caixa Nacional de Seguros de Doenças Profissionais, o desagravamento da taxa referida no número anterior, se se verificar a aplicação de medidas de prevenção excepcionais pela empresa.
 
 3 - A Caixa Nacional de Seguros de Doenças Profissionais receberá directamente as importâncias correspondentes ao agravamento da taxa referida nos números anteriores.
 
-###### Art. 7.º O regime de protecção contra as doenças profissionais continuará a ser provisoriamente o estabelecido na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, e legislação complementar.
+Art. 7.º O regime de protecção contra as doenças profissionais continuará a ser provisoriamente o estabelecido na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, e legislação complementar.
 
-###### Art. 8.º Nos contratos de seguro que cobrem a responsabilidade pelos encargos legais provenientes de acidentes de trabalho, as cláusulas respeitantes a doenças profissionais que ainda subsistam extinguir-se-ão na data da entrada em vigor do presente diploma.
+Art. 8.º Nos contratos de seguro que cobrem a responsabilidade pelos encargos legais provenientes de acidentes de trabalho, as cláusulas respeitantes a doenças profissionais que ainda subsistam extinguir-se-ão na data da entrada em vigor do presente diploma.
 
-###### Art. 9.º As disposições do presente decreto-lei respeitantes ao pagamento de contribuições e à fixação de taxas substituem, para todos os efeitos, os esquemas de contribuições em vigor para as empresas abrangidas pela Caixa Nacional de Seguros de Doenças Profissionais, quer ao abrigo dos respectivos despachos de integração, quer dos Despachos Normativos n.os [107/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/107-1978-295975) e [162/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/162-1978-297011), publicados, respectivamente, no Diário da República, 1.ª série, n.º 109, de 12 de Maio, e no Diário da República, 1.ª série, n.º 171, de 27 de Julho.
+Art. 9.º As disposições do presente decreto-lei respeitantes ao pagamento de contribuições e à fixação de taxas substituem, para todos os efeitos, os esquemas de contribuições em vigor para as empresas abrangidas pela Caixa Nacional de Seguros de Doenças Profissionais, quer ao abrigo dos respectivos despachos de integração, quer dos Despachos Normativos n.os [107/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/107-1978-295975) e [162/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/162-1978-297011), publicados, respectivamente, no Diário da República, 1.ª série, n.º 109, de 12 de Maio, e no Diário da República, 1.ª série, n.º 171, de 27 de Julho.
 
-###### Art. 10.º O presente diploma entra em vigor no dia um do terceiro mês seguinte ao da data da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia um do terceiro mês seguinte ao da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Julho de 1981.**
+Promulgado em 1 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

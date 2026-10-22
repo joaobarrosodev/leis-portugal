@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43751-1961-171540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4f23f40fddfa40535a7dd09a30bf7ab099ea7288a1136cebccfbdb329ee8597
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c35489ae4eaeeb335e4961914e3a94cb7db4bd08f4af56b19dbd065858535f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade Bancária
+- Banco de Portugal
+- Contrato
+- Definição de Competências
+- Ministro das Finanças
+relationships:
+- type: cites
+  target: pt:dre:530865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689792:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:17Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +111,10 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro das Finanças a, em nome e representação do Estado, contratar com o Banco de Portugal, representado pelo seu governador, para tanto habilitado por deliberação do respectivo conselho geral, a manutenção, pelo prazo de um ano, contado de 1 de Julho de 1961, do privilégio concedido ao Banco de Portugal pelo contrato de 10 de Dezembro de 1887, sucessivamente renovado pelos de 4 de Dezembro de 1891, de 29 de Abril de 1918 e de 29 de Junho de 1931, este com as alterações que lhe foram introduzidas pelos de 10 de Novembro de 1932, de 19 de Março de 1936, de 1 de Maio e de 14 de Outubro de 1940, de 21 de Setembro de 1943, de 3 de Abril de 1946, de 1 de Setembro de 1949, de 31 de Outubro de 1951, de 26 de Outubro e de 29 de Novembro de 1960, para, assim, se manterem, durante o dito prazo, as funções do Banco de Portugal como banco emissor, central e de reserva, segundo as normas que permanecem em inteiro vigor, pelas quais se regem aquele privilégio e funções.
+Artigo 1.º É autorizado o Ministro das Finanças a, em nome e representação do Estado, contratar com o Banco de Portugal, representado pelo seu governador, para tanto habilitado por deliberação do respectivo conselho geral, a manutenção, pelo prazo de um ano, contado de 1 de Julho de 1961, do privilégio concedido ao Banco de Portugal pelo contrato de 10 de Dezembro de 1887, sucessivamente renovado pelos de 4 de Dezembro de 1891, de 29 de Abril de 1918 e de 29 de Junho de 1931, este com as alterações que lhe foram introduzidas pelos de 10 de Novembro de 1932, de 19 de Março de 1936, de 1 de Maio e de 14 de Outubro de 1940, de 21 de Setembro de 1943, de 3 de Abril de 1946, de 1 de Setembro de 1949, de 31 de Outubro de 1951, de 26 de Outubro e de 29 de Novembro de 1960, para, assim, se manterem, durante o dito prazo, as funções do Banco de Portugal como banco emissor, central e de reserva, segundo as normas que permanecem em inteiro vigor, pelas quais se regem aquele privilégio e funções.
 
-###### Art. 2.º O presente decreto-lei entra imediatamente em vigor.
+Art. 2.º O presente decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

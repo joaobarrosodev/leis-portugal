@@ -48,36 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1971-445763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b586ea1923c5bb6ebddb4dff6077edf8ad2fc0ca164381cb31188bedef61c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b9e50715d12257f7e16d3b975945a2e9dafe8d11afa49650340e4f063c3e46c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção Financeira
+- Alienação de BENS
+- Alienação de Participação Social
+- Autarquia Local
+- Benefícios Fiscais
+- Código do Imposto de Mais-valias
+- Contribuição Industrial
+- Contribuição Predial
+- Convenção
+- Dupla Tributação
+- Empresa
+- Estudante
+- Evasão Fiscal
+- França
+- Funcionário Diplomático
+- Imposto Complementar
+- Imposto Profissional
+- Imposto sobre a Indústria Agrícola
+- Isenção Fiscal
+- Juros
+- Lucro
+- Paris
+- Pensionista
+- Pessoa Coletiva
+- Pessoa Singular
+- Pessoal Consular
+- Pessoal Docente
+- Portugal
+- Prédio Urbano
+- Remuneração
+- Rendimento
+- Tributação
+relationships:
+- type: cites
+  target: pt:dre:150556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642230:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:56Z'
   warnings: []
   errors: []
 ---
@@ -88,33 +132,33 @@ de 26 de Março
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção entre Portugal e a França para Evitar a Dupla Tributação e Estabelecer Regras de Assistência Administrativa Recíproca em Matéria de Impostos sobre o Rendimento, assinada em Paris em 14 de Janeiro de 1971, cujos textos em português e francês vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção entre Portugal e a França para Evitar a Dupla Tributação e Estabelecer Regras de Assistência Administrativa Recíproca em Matéria de Impostos sobre o Rendimento, assinada em Paris em 14 de Janeiro de 1971, cujos textos em português e francês vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convenção entre Portugal e a França para Evitar a Dupla Tributação e Estabelecer Regras de Assistência Administrativa Recíproca em Matéria de Impostos sobre o Rendimento.
 
 Preâmbulo
 
-**O Presidente da República Portuguesa e o Presidente da República Francesa, desejosos de evitar, na medida do possível, a dupla tributação e de estabelecer regras de assistência administrativa recíproca em matéria de impostos sobre o rendimento, decidiram concluir uma convenção fiscal e designaram para tal efeito como plenipotenciários:**
+O Presidente da República Portuguesa e o Presidente da República Francesa, desejosos de evitar, na medida do possível, a dupla tributação e de estabelecer regras de assistência administrativa recíproca em matéria de impostos sobre o rendimento, decidiram concluir uma convenção fiscal e designaram para tal efeito como plenipotenciários:
 
-**O Presidente da República Portuguesa: S. Ex.ª o Sr. Dr. Marcello Mathias, embaixador extraordinário e plenipotenciário de Portugal em Paris,**
+O Presidente da República Portuguesa: S. Ex.ª o Sr. Dr. Marcello Mathias, embaixador extraordinário e plenipotenciário de Portugal em Paris,
 
-**O Presidente da República Francesa: o Sr. Gilbert de Chambrun, ministro plenipotenciário, director das Convenções Administrativas e Assuntos Consulares do Ministério dos Negócios Estrangeiros, os quais, depois de haverem trocado os seus plenos poderes e os terem achado em boa e devida forma, acordaram nas disposições seguintes:**
+O Presidente da República Francesa: o Sr. Gilbert de Chambrun, ministro plenipotenciário, director das Convenções Administrativas e Assuntos Consulares do Ministério dos Negócios Estrangeiros, os quais, depois de haverem trocado os seus plenos poderes e os terem achado em boa e devida forma, acordaram nas disposições seguintes:
 
 ### CAPÍTULO I — Âmbito da aplicação da Convenção
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Esta Convenção aplica-se às pessoas residentes de um ou de ambos os Estados Contratantes.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. Esta Convenção aplica-se aos impostos sobre o rendimento exigidos por cada um dos Estados Contratantes e suas autarquias locais, seja qual for o sistema usado para a sua percepção.
 
@@ -156,7 +200,7 @@ b) Relativamente a Portugal:
 
 ### CAPÍTULO II — Definições
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 1. Nesta Convenção, a não ser que o contexto exija interpretação diferente:
 
@@ -178,7 +222,7 @@ f) A expressão «autoridades competentes» significa:
 
 2. Para a aplicação da Convenção por um Estado Contratante, qualquer expressão não definida de outro modo terá, a não ser que o contexto exija interpretação diferente, o significado que lhe é atribuído pela legislação desse Estado relativa aos impostos que são objecto da Convenção.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. Para efeitos desta Convenção, a expressão «residente de um Estado Contratante» significa qualquer pessoa que, por virtude da legislação desse Estado, está aí sujeita a imposto devido ao seu domicílio, à sua residência, ao local de direcção ou a qualquer outro critério de natureza similar.
 
@@ -194,7 +238,7 @@ d) Se for nacional de ambos os Estados Contratantes ou se não for nacional de n
 
 3. Quando, por virtude do disposto no n.º 1, uma pessoa, que não seja uma pessoa singular, for residente de ambos os Estados Contratantes, será considerada residente do Estado Contratante em que estiver situada a sua direcção efectiva.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. Para efeitos desta Convenção, a expressão «estabelecimento estável» significa uma instalação fixa onde a empresa exerça toda ou parte da sua actividade.
 
@@ -236,7 +280,7 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 ### CAPÍTULO III — Tribulação dos rendimentos
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. Os rendimentos provenientes de bens imobiliários podem ser tributados no Estado Contratante em que esses bens estiverem situados.
 
@@ -246,7 +290,7 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 4. O disposto nos n.os 1 e 3 aplica-se igualmente aos rendimentos provenientes dos bens imobiliários de uma empresa e aos rendimentos dos bens imobiliários utilizados para o exercício de profissões liberais.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. Os lucros de uma empresa de um Estado Contratante só podem ser tributados nesse Estado, a não ser que a empresa exerça a sua actividade no outro Estado Contratante por meio de um estabelecimento estável aí situado. Se a empresa exercer a sua actividade deste modo, os seus lucros podem ser tributados no outro Estado, mas ùnicamente na medida em que forem imputáveis a esse estabelecimento estável.
 
@@ -260,13 +304,13 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 6. Quando os lucros compreendam elementos do rendimento especialmente tratados noutros artigos desta Convenção, as respectivas disposições não serão afectadas pelas deste artigo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. Os lucros provenientes da exploração de navios ou aeronaves no tráfego internacional só podem ser tributados no Estado Contratante em que estiver situada a direcção efectiva da empresa.
 
 2. Se a direcção efectiva de uma empresa de navegação marítima se situar a bordo de um navio, a direcção efectiva considera-se situada no Estado Contratante em que se encontra o porto onde esse navio estiver registado, ou, na falta do porto de registo, no Estado Contratante de que é residente a pessoa que explora o navio.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Quando:
 
@@ -276,7 +320,7 @@ b) As mesmas pessoas participarem, directa ou indirectamente, na direcção, no 
 
 e, em ambos os casos, as duas empresas, nas suas relações comerciais ou financeiras estiverem ligadas por condições aceites ou impostas que difiram das que seriam estabelecidas entre empresas independentes, os lucros que, se não existissem essas condições, teriam sido obtidos por uma das empresas, mas não o foram por causa dessas condições, podem ser incluídos nos lucros dessa empresa e, consequentemente, tributados.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1. Uma sociedade residente de um Estado Contratante que tenha um estabelecimento estável no outro Estado Contratante poderá ser submetida ao imposto exigido pelas distribuições de lucros, previsto pela legislação interna desse outro Estado, sendo aplicável a taxa que resultar da aplicação do disposto no n.º 2 do artigo 11.º
 
@@ -284,7 +328,7 @@ Todavia, a fracção das distribuições de lucros efectivamente passível do im
 
 2. Uma sociedade residente de um Estado Contratante não poderá ser submetida no outro Estado à retenção prevista no n.º 1, por virtude da sua participação na gestão ou no capital de uma sociedade residente do outro Estado Contratante ou em virtude de qualquer outra relação com esta sociedade, mas os lucros distribuídos por esta última sociedade e sujeitos à retenção, sendo caso disso, serão aumentados, para efeitos do lançamento de tal retenção, de todos os lucros ou vantagens que a primeira sociedade tiver obtido indirectamente, nas condições previstas no artigo 9.º, sendo evitada a dupla tributação relativamente a esses lucros e vantagens, de acordo com as disposições do artigo 24.º
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1. Os dividendos pagos por uma sociedade residente de um Estado Contratante a um residente do outro Estado Contratante podem ser tributados nesse outro Estado.
 
@@ -300,7 +344,7 @@ São também tratados como dividendos os rendimentos atribuídos ao partícipe e
 
 5. Sempre que os dividendos distribuídos por uma sociedade residente da França dêem lugar à percepção do imposto antecipado mobiliário (précompte mobilier), os beneficiários desses dividendos residentes de Portugal poderão obter o reembolso desse imposto antecipado com dedução da retenção na fonte relativa ao montante das importâncias reembolsadas, exigida de acordo com as disposições deste artigo.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. Os juros provenientes de um Estado Contratante e pagos a um residente do outro Estado Contratante podem ser tributados nesse outro Estado.
 
@@ -314,7 +358,7 @@ São também tratados como dividendos os rendimentos atribuídos ao partícipe e
 
 6. Quando, devido a relações especiais existentes entre o devedor e o credor ou entre ambos e qualquer outra pessoa, o montante dos juros pagos, tendo em conta o crédito pelo qual são pagos, exceder o montante que seria acordado entre o devedor e o credor, na ausência de tais relações, as disposições deste artigo são aplicáveis apenas a este último montante. Neste caso, o excesso pode continuar a ser tributado de acordo com a legislação de cada Estado Contratante, tendo em conta as outras disposições desta Convenção.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1. As redevances provenientes de um Estado Contratante e pagas a um residente do outro Estado Contratante podem ser tributadas nesse outro Estado.
 
@@ -328,7 +372,7 @@ São também tratados como dividendos os rendimentos atribuídos ao partícipe e
 
 6. Quando, devido a relações especiais existentes entre o devedor e o beneficiário ou entre ambos e qualquer outra pessoa, o montante das redevances pagas, tendo em conta a prestação pela qual são pagas, exceder o montante que seria acordado entre o devedor e o beneficiário na ausência de tais relações, as disposições deste artigo são aplicáveis apenas a este último montante. Neste caso, o excesso pode continuar a ser tributado de acordo com a legislação de cada Estado Contratante, tendo em conta as outras disposições desta Convenção.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1. Os ganhos provenientes da alienação de bens imobiliários, conforme são definidos no artigo 6.º, podem ser tributados no Estado Contratante em que tais bens estiverem situados.
 
@@ -342,13 +386,13 @@ As mais-valias realizadas no momento da alienação de partes sociais ou acçõe
 
 4. As disposições deste artigo não impedem a cobrança do imposto português relativo aos ganhos provenientes da incorporação de reservas no capital das sociedades com sede ou direcção efectiva em Portugal ou da emissão de acções com reserva de preferência para os sócios de tais sociedades.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1. Os rendimentos obtidos por um residente de um Estado Contratante pelo exercício de uma profissão liberal ou de outras actividades independentes de carácter similar só podem ser tributados nesse Estado, a não ser que esse residente disponha, de forma habitual no outro Estado Contratante, de uma instalação fixa para o exercício das suas actividades. Se dispuser dessa instalação, os rendimentos podem ser tributados no outro Estado, mas ùnicamente na medida em que forem imputáveis a essa instalação fixa.
 
 2. A expressão «profissões liberais» abrange em especial as actividades independentes de carácter científico, literário, artístico, educativo ou pedagógico, bem como as actividades independentes de médicos, advogados, engenheiros, arquitectos, dentistas e contabilistas.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 1. Com ressalva do disposto nos artigos 17.º, 18.º, 20.º, 21.º e 22.º, os salários, ordenados e remunerações similares obtidos de um emprego por um residente de um Estado Contratante só podem ser tributados nesse Estado, a não ser que o emprego seja exercido no outro Estado Contratante. Se o emprego for aí exercido, as remunerações correspondentes podem ser tributadas nesse outro Estado.
 
@@ -362,45 +406,45 @@ c) As remunerações não forem suportadas por um estabelecimento estável ou po
 
 3. Não obstante as disposições anteriores deste artigo, as remunerações de um emprego exercido a bordo de um navio ou de uma aeronave no tráfego internacional podem ser tributadas no Estado Contratante em que estiver situada a direcção efectiva da empresa.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Quaisquer remunerações, fixas ou variáveis, obtidas pelos administradores, membros do conselho fiscal e sócios gerentes de uma sociedade em virtude do exercício do seu mandato continuam sujeitas ao disposto na lei interna de cada Estado.
 
 No caso de se verificar dupla tributação, esta será evitada segundo o estabelecido no artigo 24.º
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1. Não obstante o disposto nos artigos 15.º e 16.º, os rendimentos obtidos pelos profissionais do espectáculo, tais como artistas de teatro, cinema, rádio ou televisão e música, bem como pelos desportistas, provenientes das suas actividades pessoais exercidas nessa qualidade, podem ser tributados no Estado Contratante de que o beneficiário for residente.
 
 2. Estes rendimentos podem, porém, ser tributados igualmente no Estado Contratante em que essas actividades forem exercidas, e segundo a respectiva legislação, sendo neste caso a dupla tributação evitada segundo o estabelecido no artigo 24.º
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Com ressalva do disposto no n.º 1 do artigo 20.º, pensões e remunerações similares pagas a um residente de um Estado Contratante em consequência de um emprego anterior só podem ser tributadas nesse Estado.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1. As remunerações, incluindo as pensões, pagas por um Estado Contratante ou por uma das suas autarquias locais, quer directamente, quer através de fundos por eles constituídos, a uma pessoa singular em consequência de serviços prestados a esse Estado ou a essa autarquia, no exercício de funções públicas, podem ser tributadas nesse Estado. Esta disposição não se aplica, porém, no caso de as remunerações serem atribuídas a pessoas que tenham a nacionalidade do outro Estado sem serem ao mesmo tempo nacionais do primeiro Estado; neste caso, as remunerações só podem ser tributadas no Estado de que tais pessoas são residentes.
 
 2. O disposto nos artigos 16.º, 17.º e 19.º aplica-se às remunerações ou pensões pagas em consequência de serviços prestados em relação com uma actividade comercial ou industrial exercida por um dos Estados Contratantes ou por uma das suas autarquias locais.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Uma pessoa que se dedica ao ensino (enseignant) ou um professor que é, ou foi antes, residente de um Estado Contratante e que se desloca ao outro Estado com vista a nele ensinar, durante um período não excedente a dois anos, num estabelecimento pertencente ao Estado, a uma pessoa colectiva de direito público ou a uma pessoa colectiva sem fins lucrativos é isento de imposto em ambos os Estados pelas remunerações recebidas em consequência deste ensino que tiveram a sua fonte nesse outro Estado.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1. As importâncias que um estudante ou um estagiário, que é, ou foi antes, residente de um Estado Contratante e que permanece no outro Estado Contratante com o único fim de aí prosseguir os seus estudos ou a sua formação, recebe para fazer face às despesas com a sua manutenção, estudos ou formação, não são tributadas nesse outro Estado, desde que provenham de fontes situadas fora dele.
 
 2. Os estudantes de uma Universidade ou outro estabelecimento de ensino superior ou técnico de um Estado Contratante que tenham um emprego no outro Estado Contratante com vista a obter uma formação prática relativa aos seus estudos não são tributados nesse outro Estado pelas remunerações desse emprego, desde que a respectiva duração não exceda um ano e o quantitativo desta remuneração não seja superior a 10000 francos ou ao seu equivalente em escudos.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Os elementos do rendimento de um residente de um Estado Contratante não expressamente mencionados nos artigos anteriores só podem ser tributados nesse Estado desde que estejam nele sujeitos a imposto em conformidade com a respectiva legislação fiscal.
 
 ### CAPÍTULO IV — Disposições para eliminar as duplas tributações
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 A dupla tributação será evitada do modo seguinte:
 
@@ -440,7 +484,7 @@ b) A fracção do imposto português sobre o rendimento, calculado antes da dedu
 
 ### CAPÍTULO V — Disposições diversas
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 1. Os nacionais de um Estado Contratante não ficarão sujeitos no outro Estado Contratante a nenhuma tributação ou obrigação com ela conexa diferentes ou mais gravosas do que aquelas a que estejam ou possam estar sujeitos os nacionais desse Estado que se encontrem na mesma situação.
 
@@ -460,7 +504,7 @@ Esta disposição não poderá ser interpretada no sentido de obrigar um Estado 
 
 5. O termo «tributação» designa no presente artigo os impostos de qualquer natureza ou denominação.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 1. Quando um residente de um Estado Contratante considerar que as medidas tomadas por um Estado Contratante ou por ambos os Estados Contratantes conduzem ou conduzirão, em relação a si, a uma tributação não conforme com esta Convenção, poderá, independentemente dos recursos estabelecidos pela legislação nacional desses Estados, submeter o seu caso à apreciação da autoridade competente do Estado Contratante de que é residente.
 
@@ -472,7 +516,7 @@ O pedido deverá ser apresentado dentro de dois anos, a contar da data em que o 
 
 4. As autoridades competentes dos Estados Contratantes poderão comunicar directamente entre si a fim de chegarem a acordo nos termos indicados nos números anteriores. Se se afigurar que tal acordo poderá ser facilitado por troca de impressões orais, essas trocas de impressões poderão efectuar-se no seio de uma comissão composta por representantes das autoridades competentes dos Estados Contratantes.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 1. Os Estados Contratantes obrigam-se, mediante reciprocidade, a trocar as informações úteis para assegurar o lançamento e cobrança regulares dos impostos abrangidos por esta Convenção, bem como a aplicação, no que respeita a esses impostos, das disposições legais relativas à repressão da fraude fiscal. Todas as informações deste modo trocadas serão consideradas secretas e só poderão ser comunicadas às pessoas ou autoridades encarregadas do lançamento ou da cobrança dos impostos abrangidos por esta Convenção.
 
@@ -484,27 +528,27 @@ b) De fornecer informações que não possam ser obtidas com base na sua legisla
 
 c) De transmitir informações reveladoras de segredos comerciais, industriais ou profissionais ou de processos comerciais ou informações cuja comunicação seria contrária à ordem pública.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 O disposto na presente Convenção não prejudicará os privilégios fiscais de que beneficiem os funcionários diplomáticos ou consulares, em virtude de regras gerais do direito internacional ou de disposições de acordos especiais.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 1. Esta Convenção poderá tornar-se extensiva, nos termos presentes ou com as necessárias modificações, aos territórios do ultramar da República Francesa e a qualquer parte do território de Portugal não abrangido pela alínea b) do n.º 1 do artigo 3.º que exijam impostos de carácter análogo àqueles a que se aplica a Convenção. Tal extensão tornar-se-á efectiva, na data, com as modificações e nas condições, incluindo as relativas à cessação de aplicação, fixadas de comum acordo entre os Estados Contratantes por troca de notas diplomáticas ou segundo outro procedimento conforme com as respectivas disposições constitucionais.
 
 2. A não ser que outra coisa seja convencionada entre os dois Estados Contratantes, quando a Convenção for denunciada por um deles, segundo o artigo 33.º, deixará de se aplicar, nas condições previstas nesse artigo, a todo o território ou parte de território a que, de acordo com este artigo, se tenha tornado extensiva.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 As autoridades competentes dos Estados Contratantes determinarão as modalidades de aplicação da presente Convenção.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Se, em virtude de modificações da legislação fiscal de um dos Estados Contratantes ou em virtude de extensão por força do disposto no artigo 29.º, parecer oportuno adaptar certos artigos da Convenção sem afectar os princípios gerais desta, poderão fazer-se de comum acordo os ajustamentos necessários por trocas de notas diplomáticas ou segundo outro procedimento conforme com as respectivas disposições constitucionais.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 1. A presente Convenção será ratificada e os instrumentos de ratificação serão trocados em Lisboa o mais cedo possível.
 
@@ -516,7 +560,7 @@ b) Quanto aos demais impostos, aos impostos lançados sobre rendimentos relativo
 
 3. O disposto no artigo 8.º aplicar-se-á aos impostos lançados sobre rendimentos relativos ao ano de 1963 e aos seguintes.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 A presente Convenção estará em vigor indefinidamente.
 

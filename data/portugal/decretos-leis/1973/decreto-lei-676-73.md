@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/676-1973-411174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38af3c3c9d4ea01aa21cf26ffbc69700585ba87c1e6150326d1b1eb2bd9c78b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b786091a6ed4d952c4bd3c706844395af1a4f919d7fc13bd6faf6699050756e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Público
+- Contrato de Concessão
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Hipismo
+- Ministério das Obras Públicas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:40Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 20 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministério das Obras Públicas a abrir concurso público para a concessão da exploração do Hipódromo do Vale do Jamor, nos termos do presente diploma e do caderno de encargos anexo.
+Artigo 1.º Fica autorizado o Ministério das Obras Públicas a abrir concurso público para a concessão da exploração do Hipódromo do Vale do Jamor, nos termos do presente diploma e do caderno de encargos anexo.
 
-###### Art. 2.º Compete ao Conselho de Ministros adjudicar a concessão, cuja outorga será autorizada por decreto referendado pelos Ministros da Justiça, das Finanças, das Obras Públicas e da Educação Nacional, tendo anexo o texto do respectivo contrato.
+Art. 2.º Compete ao Conselho de Ministros adjudicar a concessão, cuja outorga será autorizada por decreto referendado pelos Ministros da Justiça, das Finanças, das Obras Públicas e da Educação Nacional, tendo anexo o texto do respectivo contrato.
 
-###### Art. 3.º - 1. A aprovação de projectos de quaisquer obras que a concessionária pretenda realizar compete ao Ministro das Obras Públicas, ouvida a Direcção-Geral dos Edifícios e Monumentos Nacionais, considerando-se concedida se o respectivo despacho definitivo não for proferido no prazo de sessenta dias, a contar da data da recepção do requerimento ou dos documentos que posteriormente hajam sido juntos.
+Art. 3.º - 1. A aprovação de projectos de quaisquer obras que a concessionária pretenda realizar compete ao Ministro das Obras Públicas, ouvida a Direcção-Geral dos Edifícios e Monumentos Nacionais, considerando-se concedida se o respectivo despacho definitivo não for proferido no prazo de sessenta dias, a contar da data da recepção do requerimento ou dos documentos que posteriormente hajam sido juntos.
 
 2. A utilização de instalações realizadas pela concessionária depende de licença, precedendo vistoria a realizar pela Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 4.º - 1. Compete ao Governo, mediante proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
+Art. 4.º - 1. Compete ao Governo, mediante proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
 
 2.º Os regulamentos de exploração podem cominar a aplicação de multas até 5000$00, cujo produto reverterá para o Estado.
 
-###### Art. 5.º - 1. A concessionária gozará relativamente ao objecto da concessão, dos seguintes benefícios:
+Art. 5.º - 1. A concessionária gozará relativamente ao objecto da concessão, dos seguintes benefícios:
 
 a) Isenção de todos os impostos e taxas devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de dez anos, a contar da data da celebração do contrato;
 
@@ -109,11 +114,11 @@ b) Isenção de direitos de importação relativos aos materiais e equipamentos 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 5 de Dezembro de 1973.**
+Promulgado em 5 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 CONCURSO PÚBLICO PARA A CONCESSÃO DA CONSERVAÇÃO E EXPLORAÇÃO DO HIPÓDROMO DO VALE DO JAMOR
 
@@ -289,4 +294,4 @@ BASE XVIII
 
 Todos os diferendos que se levantem entre o Governo e a concessionária sobre o contrato de concessão serão resolvidos por um tribunal arbitral, constituído por três membros, um nomeado pelo Governo, outro pela empresa concessionária e o terceiro por acordo entre as partes ou, na falta de acordo, por designação do presidente do Supremo Tribunal de Justiça.
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

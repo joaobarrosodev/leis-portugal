@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1973-411298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b8a944106bbdbd3b13167fe9f4ae598a1abeaf337b7226912ac28b1a1e0142
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c93c437554d886fca0725ed97c3b11ba781e71492440010ff84d89902e6a8613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Empréstimo
+- Governador
+- Moçambique.Colónia Portuguesa
+- Obrigações
+relationships:
+- type: cites
+  target: pt:dre:176305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684584:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:32Z'
   warnings: []
   errors: []
 ---
@@ -95,21 +108,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É elevada para 1450000 contos a importância total nominal do empréstimo autorizado pelo [Decreto-Lei n.º 49414](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49414-1969-176305), de 24 de Novembro de 1969.
+Artigo 1.º É elevada para 1450000 contos a importância total nominal do empréstimo autorizado pelo [Decreto-Lei n.º 49414](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49414-1969-176305), de 24 de Novembro de 1969.
 
-###### Art. 2.º O empréstimo continuará a regular-se pelas disposições contidas no [Decreto-Lei n.º 49414](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49414-1969-176305), com as alterações introduzidas pelo presente diploma.
+Art. 2.º O empréstimo continuará a regular-se pelas disposições contidas no [Decreto-Lei n.º 49414](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49414-1969-176305), com as alterações introduzidas pelo presente diploma.
 
-###### Art. 3.º - 1. O montante do acréscimo de 250000 contos, autorizado pelo presente decreto-lei, desdobrar-se-á em duas séries de 100000 contos e numa terceira série de 50000 contos.
+Art. 3.º - 1. O montante do acréscimo de 250000 contos, autorizado pelo presente decreto-lei, desdobrar-se-á em duas séries de 100000 contos e numa terceira série de 50000 contos.
 
 2. A última série do empréstimo, de 50000 contos, deverá ser obrigatoriamente amortizada ao par por sorteio, em oito anuidades de 6250 contos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 5 de Dezembro de 1973.**
+Promulgado em 5 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - B. Rebelo de Sousa.
 

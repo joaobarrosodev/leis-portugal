@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1977-250419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a38490bb2cde52f671f949d0e8090f696db24a1722850e9ef99a5384e8b41b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 467e913cbb2b0ffd2a5f6e674b356254d0dbd50afcdcd4d8c4ab73b577070730
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Guarda Fiscal
+- Pessoal Civil
+- PSP
+- Subsídio de Alimentação
+- Subsídio de Alojamento
+relationships:
+- type: cites
+  target: pt:dre:665713:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:09Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +106,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Têm direito ao abono de alimentação e alojamento por conta do Estado os oficiais, comissários, agentes, sargentos e praças em serviço na GNR, GF e PSP nas seguintes situações:
+Artigo 1.º Têm direito ao abono de alimentação e alojamento por conta do Estado os oficiais, comissários, agentes, sargentos e praças em serviço na GNR, GF e PSP nas seguintes situações:
 
 a) Quando em situação de diligência, na frequência e no exercício das funções de directores, instrutores e monitores de cursos, escolas, estágios ou outras modalidades de instrução que funcionem nas escolas, centros de instrução, unidades e estabelecimentos próprios da corporação ou dependentes de outros Ministérios;
 
@@ -108,36 +118,36 @@ d) Durante o tempo em que estiverem com baixa aos hospitais e enfermarias;
 
 e) Quando, presos, se encontrem nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952.
 
-###### Art. 2.º Têm direito apenas ao abono de alimentação os oficiais, comissários, agentes, sargentos e praças quando, em exercício ou fazendo parte de destacamentos de ordem pública, sejam obrigados a permanecer fora dos quartéis por períodos que abranjam qualquer refeição.
+Art. 2.º Têm direito apenas ao abono de alimentação os oficiais, comissários, agentes, sargentos e praças quando, em exercício ou fazendo parte de destacamentos de ordem pública, sejam obrigados a permanecer fora dos quartéis por períodos que abranjam qualquer refeição.
 
-###### Art. 3.º Têm direito ao abono de almoço os oficiais, comissários, agentes, sargentos e praças que prestam serviço nos dois períodos de trabalho, de duração nunca inferior ao horário estabelecido.
+Art. 3.º Têm direito ao abono de almoço os oficiais, comissários, agentes, sargentos e praças que prestam serviço nos dois períodos de trabalho, de duração nunca inferior ao horário estabelecido.
 
-###### Art. 4.º Ao pessoal civil das forças de segurança (GNR, GF e PSP) é conferido o direito ao abono de alimentação por conta do Estado em condições idênticas às do restante pessoal daquelas forças.
+Art. 4.º Ao pessoal civil das forças de segurança (GNR, GF e PSP) é conferido o direito ao abono de alimentação por conta do Estado em condições idênticas às do restante pessoal daquelas forças.
 
-###### Art. 5.º A alimentação normal por conta do Estado é constituída por uma ração de víveres, decomposta em três refeições confeccionadas.
+Art. 5.º A alimentação normal por conta do Estado é constituída por uma ração de víveres, decomposta em três refeições confeccionadas.
 
-###### Art. 6.º - 1. As rações de víveres destinadas à alimentação dos oficiais, comissários, agentes, sargentos e praças em situações especiais, com direito ao abono de alimentação em espécie, serão fixadas por despacho conjunto dos Ministros da Administração Interna e das Finanças, mediante proposta dos comandantes-gerais daquelas corporações.
+Art. 6.º - 1. As rações de víveres destinadas à alimentação dos oficiais, comissários, agentes, sargentos e praças em situações especiais, com direito ao abono de alimentação em espécie, serão fixadas por despacho conjunto dos Ministros da Administração Interna e das Finanças, mediante proposta dos comandantes-gerais daquelas corporações.
 
 2. São consideradas situações alimentares especiais as inerentes a regimes dietéticos hospitalares e quaisquer outras que circunstâncias extraordinárias justifiquem.
 
-###### Art. 7.º - 1 A alimentação por conta do Estado é fornecida em espécie.
+Art. 7.º - 1 A alimentação por conta do Estado é fornecida em espécie.
 
 2. Quando não for possível o fornecimento de alimentação em espécie, o seu abono poderá ter lugar a dinheiro, depois de autorizado pelos comandantes-gerais da GNR, GF ou PSP, sob proposta devidamente fundamentada.
 
 3. Os quantitativos a abonar a dinheiro e em espécie serão fixados anualmente por despacho conjunto dos Ministros da Administração Interna e das Finanças, mediante proposta dos comandantes-gerais daquelas corporações.
 
-###### Art. 8.º O pessoal impedido nas messes tem direito a alimentação em espécie por conta do Estado e ao abono em numerário de 50% da verba diária fixada.
+Art. 8.º O pessoal impedido nas messes tem direito a alimentação em espécie por conta do Estado e ao abono em numerário de 50% da verba diária fixada.
 
-###### Art. 9.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho conjunto dos Ministros da Administração Interna e das Finanças.
+Art. 9.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho conjunto dos Ministros da Administração Interna e das Finanças.
 
-###### Art. 10.º Os comandos-gerais da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública difundirão as instruções necessárias para a execução deste diploma para as respectivas corporações.
+Art. 10.º Os comandos-gerais da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública difundirão as instruções necessárias para a execução deste diploma para as respectivas corporações.
 
-###### Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 11.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 18 de Junho de 1977.**
+Promulgado em 18 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

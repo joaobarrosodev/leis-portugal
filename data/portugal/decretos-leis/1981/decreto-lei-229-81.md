@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1981-579715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0a2626f90c72bb96c7d8ef008a3fb9eb459245a24c35b75b38415c921339554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ec221c3834bc6a2722a14fc8781a2bd4183da157e5353442c6568f8b37908db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Ensino Particular e Cooperativo
+- Inspecção Geral do Ensino
+- Ministério da Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:230890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685013:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:564981:por
+  label: Rectificado pela DECL 6390.26.08.1981.PCM, DR.IS [204] de 05.09.1981�1
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-564981
+  date: '1981-08-26'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:00Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +148,9 @@ Considerando, finalmente, que, por ter sido inviável, no plano prático, a apli
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A alínea c) do n.º 1 do artigo 6.º, o n.º 1 do artigo 16.º, o artigo 33.º, o n.º 1 do artigo 34.º, os n.os 1, 3, 7 e 9 do artigo 39.º, o n.º 1 do artigo 41.º, o n.º 1 do artigo 42.º, os n.os 4, 6 e 8 do artigo 45.º, o n.º 1 do artigo 54.º e o artigo 59.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 253/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1980-472132), de 25 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º A alínea c) do n.º 1 do artigo 6.º, o n.º 1 do artigo 16.º, o artigo 33.º, o n.º 1 do artigo 34.º, os n.os 1, 3, 7 e 9 do artigo 39.º, o n.º 1 do artigo 41.º, o n.º 1 do artigo 42.º, os n.os 4, 6 e 8 do artigo 45.º, o n.º 1 do artigo 54.º e o artigo 59.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 253/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1980-472132), de 25 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 ...
 
@@ -108,21 +158,21 @@ c) Usar da competência disciplinar, incluindo a delegada pelo n.º 4 do artigo 
 
 ...
 
-###### Art. 16.º - 1 - São desde já criadas as delegações de Lisboa, do Porto, de Coimbra e de Évora.
+Art. 16.º - 1 - São desde já criadas as delegações de Lisboa, do Porto, de Coimbra e de Évora.
 
 ...
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 ...
 
 4 - A distribuição dos quadros de pessoal pelo departamento central e cada uma das delegações regionais, no que não for previsto neste diploma, será fixada por portaria do Ministro da Educação e Ciência, sob proposta do inspector-geral, considerando o disposto no n.º 3 do artigo 15.º
 
-###### Art. 34.º - 1 - São abatidos aos quadros constantes dos Decretos-Leis n.os [44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), [45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008) e [47/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013), todos de 12 de Fevereiro, e [552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, os lugares de inspector superior, inspector-chefe, inspector orientador de 1.ª classe, inspector orientador de 2.ª classe, inspector de 1.ª classe e inspector de 2.ª classe.
+Art. 34.º - 1 - São abatidos aos quadros constantes dos Decretos-Leis n.os [44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), [45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008) e [47/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1973-685013), todos de 12 de Fevereiro, e [552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, os lugares de inspector superior, inspector-chefe, inspector orientador de 1.ª classe, inspector orientador de 2.ª classe, inspector de 1.ª classe e inspector de 2.ª classe.
 
 ...
 
-###### Art. 39.º - 1 - Os lugares de pessoal técnico de inspecção integram-se em duas carreiras distintas, a pedagógica e a administrativo-financeira, e serão providos de acordo com o estabelecido nas alíneas seguintes:
+Art. 39.º - 1 - Os lugares de pessoal técnico de inspecção integram-se em duas carreiras distintas, a pedagógica e a administrativo-financeira, e serão providos de acordo com o estabelecido nas alíneas seguintes:
 
 a) ...
 
@@ -138,15 +188,15 @@ a) ...
 
 9 - O ingresso no curso referido na alínea e) do n.º 1 far-se-á mediante concurso público, com aviso e regulamento a publicar no Diário da República.
 
-###### Art. 41.º - 1 - A todo o pessoal inspectivo oriundo da função docente é permitido optar entre o vencimento que lhe compete nos termos do mapa I anexo ao presente diploma e o que lhe competiria se estivesse em exercício efectivo de funções docentes.
+Art. 41.º - 1 - A todo o pessoal inspectivo oriundo da função docente é permitido optar entre o vencimento que lhe compete nos termos do mapa I anexo ao presente diploma e o que lhe competiria se estivesse em exercício efectivo de funções docentes.
 
 ...
 
-###### Art. 42.º - 1 - Um mínimo de 50% dos lugares de pessoal técnico superior constantes do mapa I anexo a este decreto-lei será afecto ao Gabinete jurídico e, nesses casos, o seu provimento recairá em licenciados em Direito.
+Art. 42.º - 1 - Um mínimo de 50% dos lugares de pessoal técnico superior constantes do mapa I anexo a este decreto-lei será afecto ao Gabinete jurídico e, nesses casos, o seu provimento recairá em licenciados em Direito.
 
 ...
 
-###### Art. 45.º - 1 - ...
+Art. 45.º - 1 - ...
 
 ...
 
@@ -160,13 +210,13 @@ a) ...
 
 8 - Os professores do ensino primário ou as educadoras de infância destacados em funções inspectivas ou inspectivas e pedagógicas na Direcção-Geral de Pessoal, na Direcção-Geral do Ensino Básico ou na Inspecção-Geral do Ensino Particular poderão ser providos definitivamente no lugar de inspector da Inspecção-Geral desde que sejam aprovados em curso específico de formação em serviço, a regulamentar por despacho ministerial.
 
-###### Art. 54.º - 1 - Sob proposta do inspector-geral, o Ministro da Educação e Ciência poderá autorizar que, até ao provimento dos lugares constantes do mapa referido no artigo anterior, para o exercício de funções inspectivas sejam requisitados, nos termos do disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, professores habilitados com Exame de Estado ou equivalente.
+Art. 54.º - 1 - Sob proposta do inspector-geral, o Ministro da Educação e Ciência poderá autorizar que, até ao provimento dos lugares constantes do mapa referido no artigo anterior, para o exercício de funções inspectivas sejam requisitados, nos termos do disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, professores habilitados com Exame de Estado ou equivalente.
 
 ...
 
-###### Art. 59.º - Até ao provimento dos lugares constantes dos mapas II e III, por despacho do Ministro da Educação e Ciência, sob proposta do inspector-geral baseada em necessidades dos serviços, poderão ser destacados para a Inspecção-Geral funcionários dos serviços centrais ou externos do Ministério, desde que haja concordância dos interessados.
+Art. 59.º - Até ao provimento dos lugares constantes dos mapas II e III, por despacho do Ministro da Educação e Ciência, sob proposta do inspector-geral baseada em necessidades dos serviços, poderão ser destacados para a Inspecção-Geral funcionários dos serviços centrais ou externos do Ministério, desde que haja concordância dos interessados.
 
-###### Art. 2.º - 1 - Os quadros e as carreiras do pessoal da Inspecção-Geral do Ensino a que se refere o artigo 33.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, e que constam dos mapas I, II e III, anexos a esse decreto-lei, passam a ser os constantes dos mapas I, II e III anexos ao presente diploma, do qual fazem parte integrante.
+Art. 2.º - 1 - Os quadros e as carreiras do pessoal da Inspecção-Geral do Ensino a que se refere o artigo 33.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, e que constam dos mapas I, II e III, anexos a esse decreto-lei, passam a ser os constantes dos mapas I, II e III anexos ao presente diploma, do qual fazem parte integrante.
 
 2 - As formas de recrutamento e os regimes de provimento e progressão quanto às novas carreiras introduzidas nos quadros referidos no número anterior serão os estabelecidos, conforme os casos, ou na lei geral ou no artigo 35.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
 
@@ -176,36 +226,36 @@ a) Se o tempo de serviço anteriormente prestado em funções inspectivas ou ins
 
 b) Se o tempo de serviço anteriormente prestado em funções inspectivas ou inspectivas e pedagógicas no Ministério da Educação e Ciência ou nos Serviços de Educação das ex-colónias portuguesas não exceder o tempo mínimo exigido para a progressão normal, só é contado na categoria para que transita o serviço efectivamente nela prestado.
 
-###### Art. 3.º - 1 - Os lugares de inspector superior criados pelo [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, passam a designar-se por inspector-coordenador-chefe, a que corresponde a letra B.
+Art. 3.º - 1 - Os lugares de inspector superior criados pelo [Decreto-Lei n.º 552/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482), de 31 de Dezembro, passam a designar-se por inspector-coordenador-chefe, a que corresponde a letra B.
 
 2 - Os inspectores superiores providos naqueles lugares transitam imediatamente para as novas categorias independentemente de quaisquer formalidades legais, excepto o visto do Tribunal de Contas.
 
-###### Art. 4.º - 1 - O prazo a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, é considerado, relativamente à Inspecção-Geral do Ensino, até 31 de Dezembro de 1981.
+Art. 4.º - 1 - O prazo a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, é considerado, relativamente à Inspecção-Geral do Ensino, até 31 de Dezembro de 1981.
 
 2 - A aplicação do n.º 2 do artigo 2.º citado no número anterior é condicionada pelas disponibilidades orçamentais para o presente ano económico e respeita, em exclusivo, ao pessoal das categorias referidas no artigo 49.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, que à data da publicação do presente diploma preste serviço com carácter permanente na Inspecção-Geral, a qualquer título, nomeadamente por destacamento.
 
-###### Art. 5.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, consoante a sua natureza.
+Art. 5.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, consoante a sua natureza.
 
-###### Art. 6.º São revogados o artigo 11.º e o n.º 2 do artigo 17.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
+Art. 6.º São revogados o artigo 11.º e o n.º 2 do artigo 17.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Julho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 15 de Julho de 1981.**
+Promulgado em 15 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o artigo 33.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, com as alterações introduzidas pelo artigo 2.º do Decreto-Lei n.º 229/81.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf)
 
 Mapa II a que se refere o artigo 33.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, com as alterações introduzidas pelo artigo 2.º do Decreto-Lei n.º 229/81.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf)
 
 Mapa III a que se refere o artigo 33.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, com as alterações introduzidas pelo artigo 2.º do Decreto-Lei n.º 229/81.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16900/19111914.pdf)
 
-**O Ministro da Educação e Ciência, Vítor Pereira Crespo.**
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

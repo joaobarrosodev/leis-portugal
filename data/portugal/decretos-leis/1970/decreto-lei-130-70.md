@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d234b7a5915028205abf919f17da3f1c331f192b60d8453d8cd2b7c2cc34601
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e49bb598384d58ef7a609eda670bd1e0a4ae98a11bab4970a1a40f56c471c6df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Câmara Municipal
+- Código Administrativo
+- Função Pública
+- Madeira.ilha Adjacente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:49Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +102,7 @@ Tornando-se necessário dar nova redacção a algumas disposições da tabela A 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A alínea A) do capítulo IV da tabela A anexa ao Código Administrativo passa a ter a seguinte redacção:
+Artigo 1.º A alínea A) do capítulo IV da tabela A anexa ao Código Administrativo passa a ter a seguinte redacção:
 
 1.ª categoria:
 
@@ -114,7 +128,7 @@ Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, não habi
 
 ...
 
-###### Art. 2.º - 1. Os quadros do pessoal das intendências de pecuária e das inspecções de saúde dos distritos autónomos das ilhas adjacentes, que fazem parte do mapa a que se refere o artigo 1.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro de 1970, passam a ter a seguinte redacção:
+Art. 2.º - 1. Os quadros do pessoal das intendências de pecuária e das inspecções de saúde dos distritos autónomos das ilhas adjacentes, que fazem parte do mapa a que se refere o artigo 1.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro de 1970, passam a ter a seguinte redacção:
 
 Distrito do Funchal
 
@@ -208,12 +222,12 @@ Distrito da Horta
 
 5. Preparadores ... 3200$00
 
-###### Art. 3.º O presente decreto-lei considera-se em vigor desde o dia 1 de Janeiro de 1970.
+Art. 3.º O presente decreto-lei considera-se em vigor desde o dia 1 de Janeiro de 1970.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Março de 1970.**
+Promulgado em 11 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46564-1965-510585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a9383752b92864247ef433f0da5e8f8a95535dba69d5266f6f5d72111c1ce7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c01f99726bc45e43e24dc09101fe35e1f115039546d94d0fbde94f6044ddc91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentação
+- Cálculo de Pensões
+- Força Aérea
+- Forças Armadas
+- Gratificação
+- Militar
+- Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
+- Subsídio
+- Tropa Paraquedista
+relationships:
+- type: cites
+  target: pt:dre:437047:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:49Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +104,7 @@ O [Decreto-Lei n.º 42792](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As pensões de reforma, de reforma extraordinária e de invalidez do pessoal especializado em pára-quedismo que tenha servido nas tropas pára-quedistas serão proporcionais ao serviço aéreo prestado.
+Artigo 1.º As pensões de reforma, de reforma extraordinária e de invalidez do pessoal especializado em pára-quedismo que tenha servido nas tropas pára-quedistas serão proporcionais ao serviço aéreo prestado.
 
 § 1.º As pensões referidas no corpo deste artigo são calculadas de acordo com a legislação vigente para o quadro e ramo das Forças Armadas a que o militar pertencer na data do cálculo da pensão, às quais serão adicionados os quantitativos seguintes:
 
@@ -107,14 +122,14 @@ sendo g o grau de incapacidade, G a gratificação anual de serviço aéreo que 
 
 § 2.º Os quantitativos do parágrafo anterior não são acumuláveis com outros de idêntica natureza, que correspondam a outras gratificações de serviço aéreo ou a gratificações de imersão, a que o militar tenha também direito na sua qualidade de pessoal navegante da Força Aérea, das guarnições de submersíveis ou de mergulhador militar, optando-se pelo quantitativo maior.
 
-###### Art. 2.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo do pessoal especializado em pára-quedismo intervirá para formação da mesma média, não sendo de adicionar à pensão, nos termos referidos no artigo anterior.
+Art. 2.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo do pessoal especializado em pára-quedismo intervirá para formação da mesma média, não sendo de adicionar à pensão, nos termos referidos no artigo anterior.
 
-###### Art. 3.º As disposições do presente diploma são também aplicáveis aos militares especializados em pára-quedismo que hajam passado às situações de reforma e de reforma extraordinária ou sofrido incapacidade determinante da pensão de invalidez, antes da vigência deste diploma.
+Art. 3.º As disposições do presente diploma são também aplicáveis aos militares especializados em pára-quedismo que hajam passado às situações de reforma e de reforma extraordinária ou sofrido incapacidade determinante da pensão de invalidez, antes da vigência deste diploma.
 
 § 1.º A retroactividade referida no corpo deste artigo só poderá importar a revisão das pensões já concedidas se essa revisão for requerida no prazo de 80 dias, contados do início da vigência deste diploma.
 
 § 2.º Os quantitativos a que se refere o § 1.º do artigo 1.º só serão devidos a partir da data em que for requerida a revisão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.

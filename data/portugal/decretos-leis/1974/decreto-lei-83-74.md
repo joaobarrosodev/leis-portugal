@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05300/03110312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1974-412787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a09496fbd7cf4641232b797108a896dc4e06c6d847185108c25551b0adaf110b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81fc7ae9e824917c32a85d40de34be14e1e07026e46bc9b9e719ec11cc897d5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Comissão
+- Comissão Coordenadora
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Junta de Acção Social
+- Lisboa
+- Porto
+- Previdência Social
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:232301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358116:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:58Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +131,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Plano de Formação Social e Corporativa, criado pela [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, compreende, além dos objectivos previstos na base I da referida lei, a definição das linhas gerais dos programas de promoção e acção social e a coordenação da respectiva execução.
+Artigo 1.º O Plano de Formação Social e Corporativa, criado pela [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, compreende, além dos objectivos previstos na base I da referida lei, a definição das linhas gerais dos programas de promoção e acção social e a coordenação da respectiva execução.
 
-###### Art. 2.º - 1. A Junta da Acção Social, a que presidirá o Ministro das Corporações e Segurança Social, será composta por um vice-presidente e pelos vogais da comissão executiva, por um representante da Corporação da Assistência, por um representante das restantes corporações, pelo presidente da 3.ª secção do Conselho Superior da Acção Social, pelos directores-gerais do Ministério das Corporações e Segurança Social, pelo provedor da Santa Casa da Misericórdia de Lisboa, pelo presidente da direcção da F. N. A. T., pelo presidente da direcção da Federação das Caixas de Previdência e Abono de Família, pelo presidente da direcção do Instituto de Obras Sociais, pelo presidente da Junta Central das Casas dos Pescadores, pelo vice-presidente da Junta Central das Casas do Povo, pelo director do Fundo de Desenvolvimento da Mão-de-Obra, pelo chefe dos Serviços de Acção Social, pelo director do Instituto da Família e Acção Social, por um representante do Ministério da Educação Nacional, por um representante do Ministério da Saúde, por um representante da Secretaria de Estado da Agricultura, por um representante da Secretaria de Estado do Urbanismo e Habitação e por um representante das comissões consultivas regionais de planeamento, designado pelo Presidente do Conselho.
+Art. 2.º - 1. A Junta da Acção Social, a que presidirá o Ministro das Corporações e Segurança Social, será composta por um vice-presidente e pelos vogais da comissão executiva, por um representante da Corporação da Assistência, por um representante das restantes corporações, pelo presidente da 3.ª secção do Conselho Superior da Acção Social, pelos directores-gerais do Ministério das Corporações e Segurança Social, pelo provedor da Santa Casa da Misericórdia de Lisboa, pelo presidente da direcção da F. N. A. T., pelo presidente da direcção da Federação das Caixas de Previdência e Abono de Família, pelo presidente da direcção do Instituto de Obras Sociais, pelo presidente da Junta Central das Casas dos Pescadores, pelo vice-presidente da Junta Central das Casas do Povo, pelo director do Fundo de Desenvolvimento da Mão-de-Obra, pelo chefe dos Serviços de Acção Social, pelo director do Instituto da Família e Acção Social, por um representante do Ministério da Educação Nacional, por um representante do Ministério da Saúde, por um representante da Secretaria de Estado da Agricultura, por um representante da Secretaria de Estado do Urbanismo e Habitação e por um representante das comissões consultivas regionais de planeamento, designado pelo Presidente do Conselho.
 
 2. Poderão também fazer parte da Junta da Acção Social representantes de outros departamentos ministeriais ou de quaisquer outros serviços ou instituições relacionados com a promoção e o equipamento social, mediante despacho conjunto do respectivo Ministro e do Ministro das Corporações e Segurança Social.
 
-###### Art. 3.º A comissão executiva da Junta da Acção Social será constituída pelo vice-presidente e por quatro vogais, sendo dois designados pelo Ministro das Corporações e Segurança Social e sendo os outros dois, por inerência de funções, o director do Centro de Estudos Sociais e Corporativos e o director do Serviço Social Corporativo e do Trabalho.
+Art. 3.º A comissão executiva da Junta da Acção Social será constituída pelo vice-presidente e por quatro vogais, sendo dois designados pelo Ministro das Corporações e Segurança Social e sendo os outros dois, por inerência de funções, o director do Centro de Estudos Sociais e Corporativos e o director do Serviço Social Corporativo e do Trabalho.
 
-###### Art. 4.º - 1. A execução das deliberações da Junta da Acção Social no domínio das actividades de promoção e acção social cabe à comissão executiva.
+Art. 4.º - 1. A execução das deliberações da Junta da Acção Social no domínio das actividades de promoção e acção social cabe à comissão executiva.
 
 2. Para efeito do número anterior, a comissão executiva funcionará, sob a presidência do Ministro das Corporações e Segurança Social, com o director do Instituto da Família e Acção Social e os representantes dos departamentos ministeriais a que se refere o n.º 1 do artigo 2.º do presente diploma.
 
 3. O apoio técnico e administrativo da coordenação das actividades de promoção e acção social será assegurado, junto da comissão executiva, por um secretariado.
 
-###### Art. 5.º - 1. São criadas em cada distrito comissões para a promoção e acção social, presididas pelos governadores civis e compostas pelos representantes distritais dos serviços responsáveis pelas acções de promoção e equipamento social.
+Art. 5.º - 1. São criadas em cada distrito comissões para a promoção e acção social, presididas pelos governadores civis e compostas pelos representantes distritais dos serviços responsáveis pelas acções de promoção e equipamento social.
 
 2. Compete às comissões distritais, de acordo com as linhas gerais definidas pela Junta da Acção Social, elaborar anualmente os programas de coordenação das actividades de promoção e acção social, assegurar a realização desses programas e submeter à apreciação da Junta relatórios sobre a sua actuação.
 
@@ -130,14 +155,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. O funcionamento das comissões distritais e das comissões especializadas obedecerá a regulamentos aprovados pelo Ministro das Corporações e Segurança Social.
 
-###### Art. 6.º É extinta a Comissão Coordenadora do Serviço Social Corporativo e do Trabalho, cujas atribuições passam a ser exercidas pela Junta da Acção Social.
+Art. 6.º É extinta a Comissão Coordenadora do Serviço Social Corporativo e do Trabalho, cujas atribuições passam a ser exercidas pela Junta da Acção Social.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 20 de Fevereiro de 1974.**
+Promulgado em 20 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

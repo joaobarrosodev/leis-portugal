@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11600/10561066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1980-474126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59c6c937c198d116e9cd6d421a528ba5a4296d3aecf7bd293045ed013d97bc00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4db76867d2bc1a606575266b40fb7d69e8a139df344ef1182f7f5ea8e77852cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Organização e Recursos Humanos
+- Ministério dos Assuntos Sociais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:240834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390212:por
+  label: "Alargada a área de recrutamento para o cargo de chefe de Divisão, pela PORT.81/81.19.01.1981.PCM, DR.IS [15] de\
+    \ 19.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-1981-390212
+  date: '1981-01-19'
+- type: amended_by
+  target: pt:dre:568503:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Organização e Recursos Humanos, constante do anexo do presente\
+    \ diploma, pela PORT.993/81.20.11.1981.MFP, DR.IS [268] de 20.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/993-1981-568503
+  date: '1981-11-20'
+- type: amended_by
+  target: pt:dre:397170:por
+  label: "Criado um lugar de assessor no quadro de pessoal aprovado pelo presente diploma, pela PORT.752/82.04.08.1982.MFP,\
+    \ DR.IS [178] de 04.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-1982-397170
+  date: '1982-08-04'
+- type: amended_by
+  target: pt:dre:396573:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Organização e Recursos Humanos, da Secretaria de Estado da segurança\
+    \ Social, aprovadopelo presente diploma pela PORT.811/82.27.08.1982.MFP, DR.IS [198] de 27.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/811-1982-396573
+  date: '1982-08-27'
+- type: amended_by
+  target: pt:dre:308560:por
+  label: "Alargada a área de recrutamento para o cargo de Chefe de Divisão pela PORT.107/83.1983.01.31.MAS DR.IS [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/107-1983-308560
+  date: '1983-01-31'
+- type: amended_by
+  target: pt:dre:240834:por
+  label: Alterado o Quadro de Pessoal da ex-Direcção-Geral da Organização e Recursos Humanos, do Ministério do Emprego e da
+    Segurança Social, aprovado pelo presente diploma, pelo(a) Despacho Normativo n.º 164/92 - Diário da República n.º 204/1992,
+    Série I-B de 1992-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/164-1992-240834
+  date: '1992-09-04'
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454307:por
+  label: "Revogado pelo DEC LEI.346/83.27.07.1983.MFP, DR.IS [171] de 27.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/346-1983-454307
+  date: '1983-07-27'
 article_structure:
   article_count: 48
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:32Z'
   warnings: []
   errors: []
 ---
@@ -272,17 +340,17 @@ d) A Direcção de Serviços Administrativos, que compreende:
 
 A Repartição do Registo Central de Pessoal, que é constituída por:
 
-#### Secção de Colheita de Dados;
+Secção de Colheita de Dados;
 
-#### Secção de Codificação de Dados;
+Secção de Codificação de Dados;
 
 A Repartição dos Serviços Administrativos, que é constituída por:
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
-#### Secção de Contabilidade e Economato;
+Secção de Contabilidade e Economato;
 
 Centro Gráfico.
 
@@ -684,12 +752,12 @@ O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 9 de Maio de 1980.**
+Promulgado em 9 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMAHO EANES.**
+O Presidente da República, ANTÓNIO RAMAHO EANES.
 
 Quadro de pessoal a que se refere o artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11600/10561066.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11600/10561066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11600/10561066.pdf)

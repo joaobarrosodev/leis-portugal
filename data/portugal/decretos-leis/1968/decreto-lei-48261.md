@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04600/02960298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48261-1968-235153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fb466ecbbca12e3361f0d0888f2edfb872598fdf9f4cdfb904975211ebee907
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecef390f60f5a908f3ace7841fc9da335744e37bc3d716fa5435c96fa714b055
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenista
+- Comércio
+- Definição de Competências
+- Fiscalização
+- Profissão Comercial
+- Regime Jurídico
+- Retalhista
+- Secretário de Estado do Comércio
+- Sociedade Comercial
+- Venda Ambulante
+- Vendedor
 relationships:
 - type: amended_by
   target: pt:dre:448927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448927:por
+  label: "Revogado pelo DEC LEI.22/78.25.01.1978.MCT, DR.IS [21] de 25.01.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-1978-448927
+  date: '1978-01-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:29Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +130,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Ficam sujeitos ao regime fixado neste diploma as pessoas singulares e as sociedades comerciais que, no continente, exerçam as actividades de exportador, importador, armazenista, retalhista, vendedor ambulante, feirante, negociante e agente comercial, bem como os sócios de responsabilidade ilimitada, gerentes, directores e administradores das mesmas sociedades.
+Artigo 1.º - 1. Ficam sujeitos ao regime fixado neste diploma as pessoas singulares e as sociedades comerciais que, no continente, exerçam as actividades de exportador, importador, armazenista, retalhista, vendedor ambulante, feirante, negociante e agente comercial, bem como os sócios de responsabilidade ilimitada, gerentes, directores e administradores das mesmas sociedades.
 
 2. São considerados:
 
@@ -132,13 +152,13 @@ h) Agentes comerciais - os que, possuindo organização comercial, se ocupam da 
 
 3. O disposto neste diploma será aplicado oportunamente às ilhas adjacentes, mediante portaria.
 
-###### Art. 2.º - 1. O exercício de qualquer das actividades indicadas no artigo anterior depende de autorização prévia da Corporação do Comércio.
+Art. 2.º - 1. O exercício de qualquer das actividades indicadas no artigo anterior depende de autorização prévia da Corporação do Comércio.
 
 2. A autorização será dada para o exercício de uma ou mais actividades, especificando-se, dentro de cada uma delas, os produtos ou grupos de produtos abrangidos, salvo se se tratar de ramo de comércio indiferenciado.
 
 3. A autorização será comprovada por certificado emitido pela Corporação a favor do requerente.
 
-###### Art. 3.º A autorização só deve ser recusada quando se verifique algum dos seguintes fundamentos:
+Art. 3.º A autorização só deve ser recusada quando se verifique algum dos seguintes fundamentos:
 
 a) Falta de capacidade comercial, nos termos do Código Comercial;
 
@@ -156,7 +176,7 @@ g) Condenação em medida de segurança de interdição do exercício de qualque
 
 h) Falta de documento comprovativo do cumprimento das obrigações fiscais inerentes à actividade a desempenhar.
 
-###### Art. 4.º - 1. O requerimento, destinado a obter a autorização a que se refere o artigo 2.º, indicará a actividade que se pretende exercer e, não sendo o ramo de comércio indiferenciado, a individualização dos produtos ou grupos de produtos a que respeita.
+Art. 4.º - 1. O requerimento, destinado a obter a autorização a que se refere o artigo 2.º, indicará a actividade que se pretende exercer e, não sendo o ramo de comércio indiferenciado, a individualização dos produtos ou grupos de produtos a que respeita.
 
 2. O requerimento será acompanhado de certidão do registo comercial e de documento comprovativo do cumprimento das obrigações fiscais inerentes à respectiva actividade.
 
@@ -166,17 +186,17 @@ h) Falta de documento comprovativo do cumprimento das obrigações fiscais inere
 
 5. Se a certidão do registo comercial for negativa, o requerente deverá juntar uma declaração, com a assinatura reconhecida por notário, da qual conste que é civilmente capaz e não está proibido de exercer o comércio.
 
-###### Art. 5.º - 1. O requerimento será entregue no organismo corporativo que represente a actividade a exercer.
+Art. 5.º - 1. O requerimento será entregue no organismo corporativo que represente a actividade a exercer.
 
 2. Não havendo organismo corporativo primário constituído, o requerimento a que se alude neste artigo será entregue na Corporação do Comércio.
 
-###### Art. 6.º - 1. O organismo corporativo competente organizará o respectivo processo e enviá-lo-á, dentro de cinco dias, a partir da entrega do requerimento, à Corporação do Comércio.
+Art. 6.º - 1. O organismo corporativo competente organizará o respectivo processo e enviá-lo-á, dentro de cinco dias, a partir da entrega do requerimento, à Corporação do Comércio.
 
 2. A Corporação do Comércio deverá tomar uma decisão, concedendo ou negando autorização, num prazo que não exceda 40 dias, contados da data da entrega do requerimento no organismo corporativo ou na Corporação.
 
 3. Se não for emitido o certificado a favor do requerente ou não lhe for notificada a decisão da Corporação do Comércio a negar-lhe a autorização, dentro do prazo fixado no número anterior, entende-se que o interessado está definitivamente autorizado a exercer a actividade, funcionando como certificado, para todos os efeitos, o duplicado do requerimento, devidamente rubricado pelo organismo onde foi entregue.
 
-###### Art. 7.º A autorização será revogada e cassado o certificado:
+Art. 7.º A autorização será revogada e cassado o certificado:
 
 a) Por morte da pessoa ou dissolução da sociedade;
 
@@ -186,27 +206,27 @@ c) Quando falte ou seja cancelada a inscrição nos organismos de coordenação 
 
 d) Quando a actividade deixe de ser exercida durante três anos consecutivos.
 
-###### Art. 8.º A autorização será suspensa e apreendido o certificado:
+Art. 8.º A autorização será suspensa e apreendido o certificado:
 
 a) Quando se verifique algum dos fundamentos referidos nas alíneas f) a h) do artigo 3.º;
 
 b) Quando seja suspensa a inscrição nos organismos de coordenação económica e corporativos correspondente à actividade ou ramo de comércio exercidos, sempre que a inscrição respectiva for obrigatória.
 
-###### Art. 9.º O cancelamento ou a suspensão da inscrição nos organismos de coordenação económica e corporativos, a que se referem as alíneas c) do artigo 7.º e b) do artigo 8.º, produzem apenas efeitos quanto à actividade ou ramo de comércio a que respeite a inscrição.
+Art. 9.º O cancelamento ou a suspensão da inscrição nos organismos de coordenação económica e corporativos, a que se referem as alíneas c) do artigo 7.º e b) do artigo 8.º, produzem apenas efeitos quanto à actividade ou ramo de comércio a que respeite a inscrição.
 
-###### Art. 10.º - 1. Das decisões da Corporação do Comércio que negarem a autorização prevista neste decreto-lei, que a revogarem ou suspenderem cabe recurso para o Secretário de Estado do Comércio, a interpor no prazo de 30 dias.
+Art. 10.º - 1. Das decisões da Corporação do Comércio que negarem a autorização prevista neste decreto-lei, que a revogarem ou suspenderem cabe recurso para o Secretário de Estado do Comércio, a interpor no prazo de 30 dias.
 
 2. A petição de recurso deverá ser apresentada directamente na Secretaria de Estado do Comércio.
 
 3. Das decisões do Secretário de Estado do Comércio é admissível recurso para o Supremo Tribunal Administrativo, nos termos da lei geral.
 
-###### Art. 11.º Os tribunais remeterão oficiosamente à Corporação do Comércio cópia das decisões declaratórias de falência ou insolvência ou que apliquem a pena prevista na alínea e) do artigo 3.º ou a medida de segurança a que alude a alínea g) do mesmo artigo.
+Art. 11.º Os tribunais remeterão oficiosamente à Corporação do Comércio cópia das decisões declaratórias de falência ou insolvência ou que apliquem a pena prevista na alínea e) do artigo 3.º ou a medida de segurança a que alude a alínea g) do mesmo artigo.
 
-###### Art. 12.º Os organismos de coordenação económica e corporativos remeterão oficiosamente à Corporação do Comércio cópia das decisões que apliquem as sanções a que se referem os n.os 6.º e 7.º do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 12.º Os organismos de coordenação económica e corporativos remeterão oficiosamente à Corporação do Comércio cópia das decisões que apliquem as sanções a que se referem os n.os 6.º e 7.º do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 13.º As entidades abrangidas por este diploma deverão comunicar imediatamente ao organismo corporativo respectivo ou à Corporação do Comércio quaisquer factos que, nos termos dos artigos 7.º e 8.º, impliquem a revogação ou suspensão da autorização.
+Art. 13.º As entidades abrangidas por este diploma deverão comunicar imediatamente ao organismo corporativo respectivo ou à Corporação do Comércio quaisquer factos que, nos termos dos artigos 7.º e 8.º, impliquem a revogação ou suspensão da autorização.
 
-###### Art. 14.º - 1. Às entidades mencionadas no artigo 1.º que, à data da publicação deste diploma, exerçam alguma das actividades a que o mesmo se refere será passado o certificado a que alude o artigo 2.º, desde que seja requerido no prazo de seis meses, a contar da entrada em vigor do presente decreto-lei.
+Art. 14.º - 1. Às entidades mencionadas no artigo 1.º que, à data da publicação deste diploma, exerçam alguma das actividades a que o mesmo se refere será passado o certificado a que alude o artigo 2.º, desde que seja requerido no prazo de seis meses, a contar da entrada em vigor do presente decreto-lei.
 
 2. O requerimento deverá ser entregue no organismo corporativo primário respectivo ou, na sua falta, na Corporação do Comércio, e ser acompanhado de documento comprovativo do pagamento da contribuição industrial ou do imposto profissional, consoante os casos.
 
@@ -214,15 +234,15 @@ b) Quando seja suspensa a inscrição nos organismos de coordenação económica
 
 4. Enquanto não houver notificação da recusa homologada nos termos do número anterior ou a Corporação do Comércio não passar o certificado a que se refere este artigo, funcionará como tal, para todos os efeitos, o duplicado do requerimento, devidamente rubricado pelo organismo onde foi entregue.
 
-###### Art. 15.º Constitui infracção punível, nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, o exercício das actividades a que se refere este diploma por parte de entidades que não se encontrem munidas do certificado previsto no artigo 2.º ou do duplicado do requerimento respectivo, nos termos do n.º 3 do artigo 6.º e do n.º 4 do artigo 14.º, bem como o não cumprimento do disposto no artigo 13.º
+Art. 15.º Constitui infracção punível, nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, o exercício das actividades a que se refere este diploma por parte de entidades que não se encontrem munidas do certificado previsto no artigo 2.º ou do duplicado do requerimento respectivo, nos termos do n.º 3 do artigo 6.º e do n.º 4 do artigo 14.º, bem como o não cumprimento do disposto no artigo 13.º
 
-###### Art. 16.º - 1. Em regulamentos próprios de cada ramo de comércio serão fixadas condições técnicas, económicas e financeiras uniformes para todos os que se dedicam ao exercício da mesma actividade.
+Art. 16.º - 1. Em regulamentos próprios de cada ramo de comércio serão fixadas condições técnicas, económicas e financeiras uniformes para todos os que se dedicam ao exercício da mesma actividade.
 
 2. Os regulamentos a que se refere este artigo constarão de decreto e, não sendo de iniciativa do Governo, poderão ser propostos pela Corporação do Comércio, ouvidos os organismos corporativos interessados.
 
 3. Os regulamentos não podem condicionar a concessão da autorização prevista no artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Fevereiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
 

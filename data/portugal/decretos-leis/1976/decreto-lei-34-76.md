@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01400/00790080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1976-506047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94c3f817b3a7ec4c3eafb4762f4acec8b45fc269b811d99ce938d7824137e325
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03f88116dd059e17bf5cd66610514eb45ff6944116e571cc4015ab1b5c6380fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Fazenda Pública
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430594:por
+  label: "Mantido o disposto no artigo 3.º, com respeito aos quadros da Direcção-Geral do Tesouro, pelo DEC LEI.564/76.17.07.1976.MF,\
+    \ DR.IS [166] de 17.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1976-430594
+  date: '1976-07-17'
+- type: amended_by
+  target: pt:dre:430595:por
+  label: "Mantido em relação à Direcção-Geral do Património, o disposto no art. 3º do presente diploma, pelo DEC LEI.562/76.17.07.1976.MF,\
+    \ DR.IS [166] de 17.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/562-1976-430595
+  date: '1976-07-17'
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:43Z'
   warnings: []
   errors: []
 ---
@@ -98,32 +124,32 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os funcionários do quadro da Direcção-Geral da Fazenda Pública que à data da entrada em vigor do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, ocupavam os lugares de chefe de secção, primeiro, segundo e terceiro-oficial, escriturário-dactilógrafo de 1.ª e 2.ª classes e, ainda, os de escriturário-paleógrafo de 1.ª e 2.ª classes do Arquivo Histórico e, bem assim, o de escriturário-dactilógrafo de 1.ª classe da Biblioteca do Palácio Nacional de Mafra, ainda não reclassificados, nos termos daquele diploma, passam a ocupar, sem quaisquer formalidades, salvo o visto do Tribunal de Contas, os novos lugares com a correspondência aos lugares actuais que figuram no mapa I em anexo.
+Artigo 1.º Os funcionários do quadro da Direcção-Geral da Fazenda Pública que à data da entrada em vigor do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, ocupavam os lugares de chefe de secção, primeiro, segundo e terceiro-oficial, escriturário-dactilógrafo de 1.ª e 2.ª classes e, ainda, os de escriturário-paleógrafo de 1.ª e 2.ª classes do Arquivo Histórico e, bem assim, o de escriturário-dactilógrafo de 1.ª classe da Biblioteca do Palácio Nacional de Mafra, ainda não reclassificados, nos termos daquele diploma, passam a ocupar, sem quaisquer formalidades, salvo o visto do Tribunal de Contas, os novos lugares com a correspondência aos lugares actuais que figuram no mapa I em anexo.
 
-###### Art. 2.º Os candidatos aprovados no último concurso para primeiros-oficiais, quer já reclassificados em secretários de Fazenda de 2.ª classe, quer promovidos àquela categoria depois da entrada em vigor do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, são reclassificados em secretários de Fazenda de 1.ª classe, sem mais formalidades, além do visto do Tribunal de Contas.
+Art. 2.º Os candidatos aprovados no último concurso para primeiros-oficiais, quer já reclassificados em secretários de Fazenda de 2.ª classe, quer promovidos àquela categoria depois da entrada em vigor do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, são reclassificados em secretários de Fazenda de 1.ª classe, sem mais formalidades, além do visto do Tribunal de Contas.
 
-###### Art. 3.º É garantida a incorporação nos quadros da Direcção-Geral da Fazenda Pública aos funcionários que se encontrem actualmente na situação de licença ilimitada, observadas as condições estabelecidas na lei geral, ou destacados noutros serviços do Estado, ficando com direito à colocação na categoria que lhes couber nos termos do artigo 1.º
+Art. 3.º É garantida a incorporação nos quadros da Direcção-Geral da Fazenda Pública aos funcionários que se encontrem actualmente na situação de licença ilimitada, observadas as condições estabelecidas na lei geral, ou destacados noutros serviços do Estado, ficando com direito à colocação na categoria que lhes couber nos termos do artigo 1.º
 
-###### Art. 4.º O mapa II anexo ao [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054) é substituído pelo mapa II anexo ao presente diploma.
+Art. 4.º O mapa II anexo ao [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054) é substituído pelo mapa II anexo ao presente diploma.
 
-###### Art. 5.º Este diploma tem efeitos retroactivos, exclusivamente para contagem de antiguidade, nos termos do n.º 1 do artigo 36.º do referido [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054).
+Art. 5.º Este diploma tem efeitos retroactivos, exclusivamente para contagem de antiguidade, nos termos do n.º 1 do artigo 36.º do referido [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054).
 
-###### Art. 6.º Ficam alteradas as disposições, ou a parte delas, do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), que forem incompatíveis com o presente diploma.
+Art. 6.º Ficam alteradas as disposições, ou a parte delas, do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), que forem incompatíveis com o presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 12 de Janeiro de 1976.**
+Promulgado em 12 de Janeiro de 1976.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01400/00790080.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01400/00790080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01400/00790080.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01400/00790080.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01400/00790080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01400/00790080.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

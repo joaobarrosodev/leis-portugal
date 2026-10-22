@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47919-1967-390782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe553637e9d67b0ab918ba47eabf1aeeedbf719093d44dc14c3951e5a20947cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0c1519263f50d945ae24adaca2bd2f464561bf69bd973da72cb4f874ca8e551
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mercado Cambial
+- Operação Cambial
 relationships:
 - type: amended_by
   target: pt:dre:451790:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451790:por
+  label: "Revogado pelo DEC LEI.227/83.27.05.1983.MFP, DR.IS [122] de 27.05.1983, sem prejuízo do disposto nos seus n.os 2\
+    \ e 3 do artigo 47.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1983-451790
+  date: '1983-05-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:33Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +120,7 @@ Ouvido o Conselho de Ministros para os Assuntos Económicos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Para efeitos do disposto no [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, e no [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), da mesma data, e, bem assim, da legislação e da regulamentação que os completarem, são havidas como residentes em território nacional:
+Artigo 1.º - 1. Para efeitos do disposto no [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, e no [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), da mesma data, e, bem assim, da legislação e da regulamentação que os completarem, são havidas como residentes em território nacional:
 
 a) As pessoas singulares, de nacionalidade portuguesa ou estrangeira, que residam em qualquer território nacional há mais de um ano;
 
@@ -112,7 +136,7 @@ c) As sucursais, agências e quaisquer outras formas de representação num terr
 
 5. Os residentes em território nacional ficarão sujeitos ao regime que legalmente for aplicável no território em que os mesmos residentes pretendam efectuar operações cambiais.
 
-###### Art. 2.º - 1. Para efeitos do disposto no [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962, e da legislação e regulamentação que o completarem, são havidas como residentes em determinado território nacional:
+Art. 2.º - 1. Para efeitos do disposto no [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962, e da legislação e regulamentação que o completarem, são havidas como residentes em determinado território nacional:
 
 a) As pessoas singulares, de nacionalidade portuguesa ou estrangeira, que nesse território residam há mais de um ano;
 
@@ -128,15 +152,15 @@ c) As sucursais, agências e quaisquer outras formas de representação nesse te
 
 5. As pessoas colectivas que tenham o seu domicílio em determinado território nacional, mas exerçam noutro ou noutros territórios as suas actividades, serão havidas como residentes naquele território nacional em que exerçam a parte principal das mesmas actividades, excepto se forem bancos emissores. Em caso de dúvida, será a residência determinada por despacho conjunto dos Ministros das Finanças e do Ultramar, a publicar no Diário do Governo e no Boletim Oficial de cada uma das províncias ultramarinas.
 
-###### Art. 3.º - 1. As pessoas singulares que, possuindo a qualidade de residente num determinado território nacional por virtude do disposto no artigo 2.º do presente diploma, se encontrem temporàriamente noutro território nacional, poderão utilizar, sem necessidade de autorização especial e prévia, as disponibilidades que legalmente tenham constituído, em seu nome e à sua ordem, no segundo território, mas sòmente para pagamentos neste território nacional.
+Art. 3.º - 1. As pessoas singulares que, possuindo a qualidade de residente num determinado território nacional por virtude do disposto no artigo 2.º do presente diploma, se encontrem temporàriamente noutro território nacional, poderão utilizar, sem necessidade de autorização especial e prévia, as disponibilidades que legalmente tenham constituído, em seu nome e à sua ordem, no segundo território, mas sòmente para pagamentos neste território nacional.
 
 2. As pessoas singulares referidas no número precedente, para a realização de quaisquer operações cambiais ou de pagamentos interterritoriais no território em que se encontram temporàriamente, carecerão sempre de autorização especial e prévia da entidade competente, nos termos da legislação em vigor nesse território, excepto quando se trate de ordens de pagamento emitidas a seu favor do estrangeiro ou do território em que tiverem a qualidade de residente.
 
 3. As transgressões ao disposto no presente artigo serão puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-###### Art. 4.º São revogados os §§ 2.º e 3.º do artigo 1.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), o § único do artigo 1.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462) e os §§ 3.º, 4.º e 5.º do artigo 1.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463).
+Art. 4.º São revogados os §§ 2.º e 3.º do artigo 1.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), o § único do artigo 1.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462) e os §§ 3.º, 4.º e 5.º do artigo 1.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

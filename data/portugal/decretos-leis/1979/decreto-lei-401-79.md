@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21900/24822485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b88072863f67737aa6e64d11a2551b7856de13fa899513ec4a8890f92d6770f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f27850abe8718636afc6b8e8f76945231b99ffdc36b4455c59efa9492d26e6e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança
+- Definição de Competências
+- RTP
+- Taxa
+- TAXA de Televisão
+- Televisão
 relationships:
 - type: amended_by
   target: pt:dre:508236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366457:por
+  label: "Prorrogado, até 31 de Dezembro de 1979, o prazo fixado no art. 33º do presente diploma, pelo DEC LEI.483/79.14.12.1979.MCS,\
+    \ DR.IS [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/483-1979-366457
+  date: '1979-12-14'
+- type: amended_by
+  target: pt:dre:379110:por
+  label: "Alterado o art. 13º pelo DEC LEI.472/82.16.12.1982.PCM, DR.IS [289] de 16.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1982-379110
+  date: '1982-12-16'
+- type: amended_by
+  target: pt:dre:283083:por
+  label: Alterados os arts. 3.º, 8.º, 9.º e 13.º e aditados os arts. 13.º-A e 13.º-B pelo(a) Decreto-Lei n.º 38/88 - Diário
+    da República n.º 31/1988, Série I de 1988-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1988-283083
+  date: '1988-02-06'
+- type: amended_by
+  target: pt:dre:332973:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do art. 25º pelo AC.72/90.02.04.1990.TCS,
+    DR.IS [77] de 02.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/72-1990-332973
+  date: '1990-04-02'
+- type: cites
+  target: pt:dre:427833:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508236:por
+  label: "Revogado pelo DEC LEI.53/91.26.01.1991.PCM, DR.IS-A [22] de 26.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1991-508236
+  date: '1991-01-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:07Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +142,7 @@ O sistema ora proposto permitirá, porém, não só um efectivo e individualizad
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito)
 
@@ -112,13 +150,13 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 2 - Exceptua-se do número anterior a recepção feita por aparelhos existentes em embarcações, aeronaves, veículos automóveis ou de outra natureza que se encontrem em trânsito e não estejam registados em Portugal.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Definição)
 
 Para efeitos do presente diploma, considera-se aparelho televisivo ou simplesmente televisor qualquer instalação receptora de televisão ou dispositivo ou conjunto de dispositivos que sirvam para a recepção de emissões de imagens e respectivas emissões sonoras complementares.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Registo)
 
@@ -126,13 +164,13 @@ Para efeitos do presente diploma, considera-se aparelho televisivo ou simplesmen
 
 2 - A cada registo será atribuído um número, averbado em documento emitido pela Radiotelevisão Portuguesa, E. P., que deverá acompanhar sempre o televisor.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Responsáveis pelo registo)
 
 O registo dos televisores compete aos fabricantes, montadores e, relativamente aos aparelhos importados, à alfândega.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Movimento de televisores)
 
@@ -140,19 +178,19 @@ O registo dos televisores compete aos fabricantes, montadores e, relativamente a
 
 2 - As alfândegas preencherão igualmente o título mencionado no número anterior quanto aos televisores importados e aos que entrem como bagagem.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Transacção de televisores)
 
 Os importadores, vendedores, grossistas, revendedores e, de uma forma geral, quaisquer outros intervenientes na cadeia de comercialização e ou de movimentação de televisores são obrigados a comunicar à RTP, pela forma a estabelecer por via regulamentar, a transmissão dos televisores que alienem e a identificação dos respectivos adquirentes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Cancelamento do registo)
 
 Quando da transmissão entre particulares, inutilização total ou saída para o estrangeiro de televisor, a pessoa em nome de quem o mesmo se encontra registado deverá requerer à Radiotelevisão Portuguesa, E. P., o cancelamento do respectivo registo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Taxas de utilização)
 
@@ -160,7 +198,7 @@ Quando da transmissão entre particulares, inutilização total ou saída para o
 
 2 - A taxa considera-se vencida a partir do mês seguinte ao da aquisição do televisor.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Modalidades de pagamento)
 
@@ -168,19 +206,19 @@ Quando da transmissão entre particulares, inutilização total ou saída para o
 
 2 - A taxa de utilização será de valor diferente consoante a capacidade de recepção das imagens pelo televisor seja só a preto e branco ou a cores.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Aluguer, empréstimo ou colocação à experiência)
 
 Só podem ser alugados, emprestados ou colocados à experiência televisores que tenham a respectiva taxa de utilização em dia.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Transmissão de televisores)
 
 Em caso de transmissão, a qualquer título, de um televisor, o titular do respectivo registo é obrigado a comunicar à RTP essa transmissão e a identificação do novo detentor, continuando, caso contrário, a ser ele o responsável pelo pagamento da taxa do referido aparelho.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Televisores não registados)
 
@@ -188,7 +226,7 @@ Em caso de transmissão, a qualquer título, de um televisor, o titular do respe
 
 2 - Caso não seja possível determinar a data da aquisição ou início da posse do televisor, presume-se que o seu detentor o possui, a qualquer título, há cinco anos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Isenções)
 
@@ -214,13 +252,13 @@ g) Os incapazes para o trabalho, desde que sejam pobres, quanto a um televisor d
 
 4 - As isenções previstas neste artigo não prejudicam a obrigatoriedade do registo fixado no artigo 3.º do presente diploma.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Agentes de fiscalização)
 
 A fiscalização do cumprimento das disposições deste diploma compete a agentes da Radiotelevisão Portuguesa, E. P., devidamente identificados e credenciados.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Aparelhos detectores)
 
@@ -232,7 +270,7 @@ A fiscalização do cumprimento das disposições deste diploma compete a agente
 
 4 - Se, no prazo de trinta dias após a detecção, não for feito voluntariamente o registo exigido no número anterior, a RTP procederá, oficiosamente, ao registo do aparelho detectado e à cobrança das respectivas taxas, sem prejuízo do disposto no artigo 12.º, n.º 2.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Auto de notícia)
 
@@ -240,37 +278,37 @@ A fiscalização do cumprimento das disposições deste diploma compete a agente
 
 2 - Os autos de notícia das infracções ao presente diploma serão levantados nos termos e com os efeitos referidos no Código de Processo Penal.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Auxílio das autoridades)
 
 Os agentes da Radiotelevisão Portuguesa, E. P., em caso de necessidade, podem recorrer ao auxílio ou intervenção das autoridades administrativas ou policiais para o cumprimento de diligências que hajam sido incumbidos de realizar.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Preenchimento de dados)
 
 Os adquirentes que, dolosamente, fornecerem de forma errada os dados relativos aos registos de televisão serão punidos com a multa de 2000$00 a 5000$00.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Anuidades irregularmente transaccionadas)
 
 As entidades referidas nos artigos 5.º e 6.º que transaccionarem televisores sem remeterem pontualmente à Radiotelevisão Portuguesa, E. P., os elementos exigidos nesses artigos ou os hajam preenchido culposamente por forma irregular serão punidas com a muita de 5000$00 a 10000$00.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Reparadores)
 
 As entidades que aceitarem para reparação televisores não acompanhados do título de registo referido no n.º 2 do artigo 3.º do presente diploma serão punidas com a multa de 2500$00 a 5000$00 por cada aparelho em relação ao qual se verifique a falta.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Televisores não registados)
 
 O detentor, a qualquer título, de televisor, ainda que o mesmo não se encontre em estado de imediato funcionamento, que não esteja devidamente registado será punido com a multa de 5000$00 a 10000$00.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Valor das multas)
 
@@ -278,7 +316,7 @@ O detentor, a qualquer título, de televisor, ainda que o mesmo não se encontre
 
 2 - Quando aplicadas por via judicial, as multas serão graduadas em função do grau de culpabilidade e reincidência do infractor.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Cobrança de multas)
 
@@ -290,7 +328,7 @@ b) Na Radiotelevisão Portuguesa, E. P., qualquer sua delegação ou estação d
 
 2 - Se, no prazo previsto na alínea b) do número anterior, o infractor não pagar a multa, será notificado pela RTP para a pagar no prazo de cinco dias, findo o qual será o auto remetido ao tribunal competente para julgamento.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Sobretaxa)
 
@@ -298,13 +336,13 @@ b) Na Radiotelevisão Portuguesa, E. P., qualquer sua delegação ou estação d
 
 2 - O pagamento das quantias atrás previstas pode ser feito, voluntariamente, pelo utente devedor até ao fim do mês indicado em 2.º aviso a remeter pela RTP, prazo findo o qual as quantias correspondentes às taxas em dívida vencerão juros de mora à taxa legal, a partir da data do respectivo vencimento.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Cobrança coerciva)
 
 São competentes para a cobrança coerciva das taxas e sobretaxas em dívida, bem como para a aplicação de multas, quando não pagas voluntariamente, os tribunais comuns da comarca do domicílio ou sede dos infractores.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Reclamações)
 
@@ -314,25 +352,25 @@ São competentes para a cobrança coerciva das taxas e sobretaxas em dívida, be
 
 3 - O depósito referido no n.º 1 ficará perdido para a Radiotelevisão Portuguesa, E. P., se a reclamação e ou o recurso não for provido.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Prescrição)
 
 Os créditos da Radiotelevisão Portuguesa, E. P., correspondentes a cada taxa de utilização prescrevem no prazo de cinco anos.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Certidões mecanográficas)
 
 As certidões mecanográficas emitidas pela RTP, donde constem as importâncias em dívida das taxas de utilização, constituirão títulos com força executiva, nos termos e para os efeitos do disposto no artigo 45.º, n.º 1, do Código de Processo Civil.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Destino das multas)
 
 O montante das multas aplicadas nos termos deste diploma reverterá para os cofres do Estado.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Restituição de taxas)
 
@@ -340,13 +378,13 @@ O montante das multas aplicadas nos termos deste diploma reverterá para os cofr
 
 2 - Findo o referido prazo, aquelas importâncias presumem-se como pagamento adiantado da taxa seguinte do subscritor em causa.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Contravenções)
 
 As contravenções do regime fixado neste diploma a que não corresponda pena especial serão punidas com a multa de 5000$00 por cada infracção.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Regime de transição)
 
@@ -354,13 +392,13 @@ As contravenções do regime fixado neste diploma a que não corresponda pena es
 
 2 - A Radiotelevisão Portuguesa, E. P., promoverá junto das entidades competentes as diligências necessárias à substituição do sistema vigente.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Período transitório de registos)
 
 Os detentores de televisores não licenciados à data da entrada em vigor deste diploma, desde que procedam voluntariamente ao respectivo registo no prazo de sessenta dias, estão isentos das taxas devidas anteriores ao registo.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Diploma regulamentar)
 
@@ -370,8 +408,8 @@ Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Daniel Proença de Carvalho.
 
-**Promulgado em 6 de Setembro de 1979.**
+Promulgado em 6 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

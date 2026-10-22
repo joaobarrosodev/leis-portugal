@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49464-1969-212872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2b2d67ccbcd87dd74c7e01d5b27d4088ca8f0d64dcb8dd3873386ffcad4e63d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a36a8d8f660ecdcb7c03ae81016dda190c7b359db15b4613a2af01940c82ce48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Aquisição de Bens e Serviços
+- Comissão Executiva
+- Definição de Competências
+- Empreitada de Obras Públicas
+- Junta Geral
+- Madeira.ilha Adjacente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:11Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +94,15 @@ Reconhecendo-se a conveniência de alargar a competência das comissões executi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O n.º 5.º do artigo 26.º e os n.os 1.º e 5.º do artigo 36.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passam a ter a seguinte redacção:
+Artigo único. O n.º 5.º do artigo 26.º e os n.os 1.º e 5.º do artigo 36.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passam a ter a seguinte redacção:
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 5.º Aprovar as empreitadas de valor superior a 500000$00 e os contratos de fornecimento por tempo superior a um ano;
 
 ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 1.º Adquirir bens mobiliários e os imobiliários de valor até 500000$00;
 
@@ -105,9 +112,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 17 de Dezembro de 1969.**
+Promulgado em 17 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

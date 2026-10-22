@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/07900/06380642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69e74491ed1536236d4de174a7bdbe6868a2ed606eff67b37de18fadb5b0b6a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9221c218d9a985a389aa19e2607c0f5d4a9d8ee98e895c704a5ac792f3a46e38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:161479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375202:por
+  label: "Alterada a redacção do art. 11º pelo DEC LEI.405/82.25.09.1982.MCCC, DR.IS [223] de 25.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1982-375202
+  date: '1982-09-25'
+- type: amended_by
+  target: pt:dre:663496:por
+  label: "Acrescentado um lugar de assessor a extinguir quando vagar, ao quadro de pessoal aprovado pelo presente diploma,\
+    \ pela PORT.28/87.1987.01.15.MF DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-1987-663496
+  date: '1987-01-15'
+- type: amended_by
+  target: pt:dre:662933:por
+  label: "Extinto o Instituto Português do Livro, criado na alínea h), n.º 1 do artigo 3.º, pelo DEC LEI.71/87.11.02.1987.MEC,\
+    \ DR.IS [35] de 11.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1987-662933
+  date: '1987-02-11'
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Extinto o Gabinete das Relações Culturais e Internacionais pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: amended_by
+  target: pt:dre:161479:por
+  label: "Totalmente revogado pelo DEC LEI.165/97.1997.06.28.MC, DR.IS-A [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-1997-161479
+  date: '1997-06-28'
+- type: cites
+  target: pt:dre:147398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:462778:por
+  label: Rectificado pela DECL.DD6828.06.10.1980.PCM, DR.IS [245] de 22.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462778
+  date: '1980-10-06'
+- type: repealed_by
+  target: pt:dre:410289:por
+  label: "Revogado pelo DEC LEI.106-H/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-h-1992-410289
+  date: '1992-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:17Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +179,9 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Natureza e atribuição
 
-###### Artigo 1.º A Secretaria de Estado da Cultura é o departamento governamental que tem como objectivos a orientação e definição da política nacional de cultura e a condução e execução, em concordância com as directrizes do Ministério dos Negócios Estrangeiros, das actividades externas nesse domínio, coordenando as acções que se compreendem no sector.
+Artigo 1.º A Secretaria de Estado da Cultura é o departamento governamental que tem como objectivos a orientação e definição da política nacional de cultura e a condução e execução, em concordância com as directrizes do Ministério dos Negócios Estrangeiros, das actividades externas nesse domínio, coordenando as acções que se compreendem no sector.
 
-###### Art. 2.º São atribuições da Secretaria de Estado da Cultura:
+Art. 2.º São atribuições da Secretaria de Estado da Cultura:
 
 a) Inventariar, conservar e utilizar o património cultural, garantindo a sua sobrevivência e estimulando a investigação em todos os domínios com eles relacionados;
 
@@ -122,7 +197,7 @@ f) Estabelecer e estreitar sistemas de relações culturais com todos os países
 
 ### CAPÍTULO II — Estrutura orgânica
 
-###### Art. 3.º - 1 - A Secretaria de Estado da Cultura compreende os seguintes órgãos e serviços:
+Art. 3.º - 1 - A Secretaria de Estado da Cultura compreende os seguintes órgãos e serviços:
 
 a) Conselho de Directores-Gerais;
 
@@ -156,7 +231,7 @@ p) Comissão de Classificação dos Espectáculos.
 
 2 - A Secretaria de Estado da Cultura disporá de delegações regionais.
 
-###### Art. 4.º - 1 - O Conselho de Directores-Gerais será constituído por:
+Art. 4.º - 1 - O Conselho de Directores-Gerais será constituído por:
 
 a) Directores-gerais ou equiparados;
 
@@ -166,7 +241,7 @@ b) Os dirigentes dos restantes órgãos e serviços referidos nos n.os 1 e 2 do 
 
 3 - Ao Conselho de Directores-Gerais cabe recolher informação e apresentar propostas relativas a uma eficiente articulação do funcionamento e das actividades dos diversos órgãos e serviços, bem como emitir pareceres em matéria específica ou generalizada da vida cultural do País.
 
-###### Art. 5.º A Direcção-Geral dos Serviços Centrais é o órgão de administração geral da Secretaria de Estado, ao qual compete:
+Art. 5.º A Direcção-Geral dos Serviços Centrais é o órgão de administração geral da Secretaria de Estado, ao qual compete:
 
 a) Administrar o pessoal e exercer a acção disciplinar, efectuando inquéritos e instruindo processos, quando superiormente determinado;
 
@@ -176,7 +251,7 @@ c) Organizar e manter o arquivo da documentação administrativa;
 
 d) Exercer a administração financeira e patrimonial da Secretaria de Estado e organizar o projecto do respectivo orçamento.
 
-###### Art. 6.º Ao Gabinete de Planeamento compete:
+Art. 6.º Ao Gabinete de Planeamento compete:
 
 a) Elaborar os diagnósticos do sector que fundamentem os respectivos planos de desenvolvimento e colaborar com outros departamentos da Secretaria de Estado da Cultura na realização de estudos da mesma natureza necessários ao desempenho das suas atribuições;
 
@@ -192,7 +267,7 @@ f) Pronunciar-se sobre todos os assuntos de natureza jurídica que lhe sejam sub
 
 g) Colaborar na preparação e redacção dos projectos de diplomas quando lhe for determinado.
 
-###### Art. 7.º - 1 - O Gabinete de Organização e Pessoal é um serviço de apoio técnico nos domínios da organização administrativa e do pessoal, tendo em atenção a sua modernização.
+Art. 7.º - 1 - O Gabinete de Organização e Pessoal é um serviço de apoio técnico nos domínios da organização administrativa e do pessoal, tendo em atenção a sua modernização.
 
 2 - Compete ao Gabinete, no âmbito da organização:
 
@@ -208,9 +283,9 @@ b) Apoiar as acções de formação e aperfeiçoamento do pessoal.
 
 4 - O Gabinete de Organização e Pessoal manterá estreita colaboração com os órgãos competentes da Secretaria de Estado da Reforma Administrativa.
 
-###### Art. 8.º O Fundo de Fomento Cultural funciona na dependência directa do Secretário de Estado da Cultura, competindo-lhe prestar apoio financeiro às actividades de conservação, criação, promoção e difusão dos diversos ramos da cultura, designadamente através da concessão de subsídios e bolsas.
+Art. 8.º O Fundo de Fomento Cultural funciona na dependência directa do Secretário de Estado da Cultura, competindo-lhe prestar apoio financeiro às actividades de conservação, criação, promoção e difusão dos diversos ramos da cultura, designadamente através da concessão de subsídios e bolsas.
 
-###### Art. 9.º Compete ao Instituto Português do Património Cultural, nomeadamente:
+Art. 9.º Compete ao Instituto Português do Património Cultural, nomeadamente:
 
 a) Planear e promover a pesquisa, cadastro, inventariação, classificação, recuperação, conservação, protecção e salvaguarda dos bens que, pelo seu valor histórico, artístico, arqueológico, bibliográfico e documental, etnográfico ou paisagístico, constituam elementos do património cultural do País;
 
@@ -224,7 +299,7 @@ e) Superintender nas bibliotecas, arquivos e museus dependentes da Secretaria de
 
 f) Organizar e promover planos de aquisições para museus, bibliotecas e arquivos.
 
-###### Art. 10.º - 1 - Compete ao Instituto Português de Cinema:
+Art. 10.º - 1 - Compete ao Instituto Português de Cinema:
 
 a) Fomentar a cultura cinematográfica em geral e, particularmente, o cinema português como seu instrumento;
 
@@ -242,7 +317,7 @@ g) Apoiar a formação profissional e a investigação no campo do cinema.
 
 2 - A competência do Instituto Português de Cinema relativamente às relações internacionais a que se referem as alíneas c) e d) do número anterior exercer-se-á sem prejuízo das atribuições cometidas ao Gabinete das Relações Culturais Internacionais.
 
-###### Art. 11.º - 1 - Compete ao Instituto Português do Livro zelar pela defesa e expansão do livro enquanto instrumento de cultura e designadamente:
+Art. 11.º - 1 - Compete ao Instituto Português do Livro zelar pela defesa e expansão do livro enquanto instrumento de cultura e designadamente:
 
 a) Promover o conhecimento e a divulgação das obras de cultura e dos escritores nacionais;
 
@@ -250,11 +325,11 @@ b) Incrementar meios de interacção da criação literária das diversas áreas
 
 2 - Ao Instituto ficará vedado o exercício de actividades editoriais próprias, sem prejuízo de poder subsidiar ou comparticipar no custo de edições de obras de reconhecido interesse cultural.
 
-###### Art. 12.º - 1 - Compete à Direcção-Geral da Acção Cultural criar as condições necessárias ao desenvolvimento das potencialidades de expressão artística individual ou colectiva e promover o acesso da população às manifestações de carácter cultural.
+Art. 12.º - 1 - Compete à Direcção-Geral da Acção Cultural criar as condições necessárias ao desenvolvimento das potencialidades de expressão artística individual ou colectiva e promover o acesso da população às manifestações de carácter cultural.
 
 2 - O Fundo de Teatro passa a depender da Direcção-Geral da Acção Cultural.
 
-###### Art. 13.º Compete à Direcção-Geral dos Espectáculos e do Direito de Autor:
+Art. 13.º Compete à Direcção-Geral dos Espectáculos e do Direito de Autor:
 
 a) Superintender e inspeccionar os espectáculos e divertimentos públicos e recintos a eles destinados;
 
@@ -266,7 +341,7 @@ d) Garantir a protecção administrativa aos actores de obras editadas gráfica 
 
 e) Manter a agenda cronológica da queda das obras no domínio público.
 
-###### Art. 14.º Compete ao Gabinete das Relações Culturais Internacionais:
+Art. 14.º Compete ao Gabinete das Relações Culturais Internacionais:
 
 a) Estudar, coordenar e participar na execução dos projectos e programas de acção cultural da Secretaria de Estado da Cultura no estrangeiro;
 
@@ -278,7 +353,7 @@ d) Representar a Secretaria de Estado da Cultura nos actos referentes aos acordo
 
 e) Promover e organizar, respeitando a orientação do Ministério dos Negócios Estrangeiros, reuniões e missões de carácter cultural no País e no estrangeiro.
 
-###### Art. 15.º Compete ao Teatro Nacional de S. Carlos, especialmente:
+Art. 15.º Compete ao Teatro Nacional de S. Carlos, especialmente:
 
 a) Promover e difundir a cultura artística nos domínios lírico, musical e coreográfico;
 
@@ -286,7 +361,7 @@ b) Preservar e enriquecer a sua função de teatro de ópera;
 
 c) Alargar e aprofundar o conhecimento do património cultural nos domínios que lhe são adstritos.
 
-###### Art. 16.º Compete ao Teatro Nacional de D. Maria II, especialmente:
+Art. 16.º Compete ao Teatro Nacional de D. Maria II, especialmente:
 
 a) Difundir a cultura teatral portuguesa;
 
@@ -296,7 +371,7 @@ c) Estimular a divulgação de novos originais portugueses, aos quais dará nece
 
 d) Apresentar ciclos de peças que documentem períodos bem determinados da evolução teatral, tanto nacional como estrangeira.
 
-###### Art. 17.º Compete à Cinemateca Portuguesa, nomeadamente:
+Art. 17.º Compete à Cinemateca Portuguesa, nomeadamente:
 
 a) Coleccionar, preservar e receber em depósito, ou através de aquisição, filmes nacionais e estrangeiros ou suas cópias;
 
@@ -304,9 +379,9 @@ b) Promover a difusão dos filmes referidos na alínea anterior;
 
 c) Colaborar com os organismos internacionais que se dedicam à defesa dos arquivos e museus cinematográficos e estabelecer intercâmbio com os mesmos e instituições afins.
 
-###### Art. 18.º Compete à Comissão de Classificação dos Espectáculos classificar todos os espectáculos nos termos estabelecidos na legislação em vigor.
+Art. 18.º Compete à Comissão de Classificação dos Espectáculos classificar todos os espectáculos nos termos estabelecidos na legislação em vigor.
 
-###### Art. 19.º - 1 - Às delegações regionais compete, especialmente:
+Art. 19.º - 1 - Às delegações regionais compete, especialmente:
 
 a) Representar a Secretaria de Estado da Cultura na respectiva área de actuação;
 
@@ -314,9 +389,9 @@ b) Articular com os serviços centrais as medidas necessárias a uma progressiva
 
 2 - As delegações regionais serão criadas por decreto regulamentar, que definirá a respectiva área geográfica de actuação e, bem assim, a composição dos conselhos regionais que junto deles funcionarão.
 
-###### Art. 20.º A estrutura, atribuições e competência dos órgãos e serviços previstos no artigo 3.º, bem como os quadros e o regime de pessoal, constarão de diplomas próprios.
+Art. 20.º A estrutura, atribuições e competência dos órgãos e serviços previstos no artigo 3.º, bem como os quadros e o regime de pessoal, constarão de diplomas próprios.
 
-###### Art. 21.º - 1 - Os serviços da Secretaria de Estado da Cultura manterão estreita relação entre si no exercício das respectivas competências.
+Art. 21.º - 1 - Os serviços da Secretaria de Estado da Cultura manterão estreita relação entre si no exercício das respectivas competências.
 
 2 - A acção dos serviços será conjunta na realização de projectos comuns.
 
@@ -324,7 +399,7 @@ b) Articular com os serviços centrais as medidas necessárias a uma progressiva
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 22.º - 1 - São criados ou mantidos os lugares de:
+Art. 22.º - 1 - São criados ou mantidos os lugares de:
 
 a) Director-geral dos Serviços Centrais;
 
@@ -356,7 +431,7 @@ n) Presidente da Comissão de Classificação dos Espectáculos.
 
 3 - O Gabinete de Organização e Pessoal é dirigido por um director de serviços.
 
-###### Art. 23.º O primeiro provimento dos lugares dos quadros a aprovar pelos diplomas referidos no artigo 20.º será feito com a ordem de prioridade seguinte:
+Art. 23.º O primeiro provimento dos lugares dos quadros a aprovar pelos diplomas referidos no artigo 20.º será feito com a ordem de prioridade seguinte:
 
 a) Pessoal já pertencente a quadros e que preste serviço na Secretaria de Estado da Cultura à data da publicação deste diploma;
 
@@ -364,7 +439,7 @@ b) Pessoal contratado além do quadro e em regime de prestação eventual de ser
 
 c) Outro pessoal que preste serviço na Secretaria de Estado da Cultura, a qualquer título, há mais de um ano.
 
-###### Art. 24.º - 1 - A integração do pessoal nos quadros a que se refere o artigo anterior será feita nos seguintes termos:
+Art. 24.º - 1 - A integração do pessoal nos quadros a que se refere o artigo anterior será feita nos seguintes termos:
 
 a) Em categoria idêntica à que o funcionário ou agente possui;
 
@@ -378,23 +453,23 @@ d) Em categoria correspondente à das funções que o funcionário ou agente act
 
 3 - As integrações previstas no n.º 1 não poderão prejudicar os funcionários dos quadros em igualdade de condições, nomeadamente quanto a habilitações e tempo de serviço.
 
-###### Art. 25.º Observar-se-á, quanto aos funcionários adidos que vierem a ser integrados nos quadros da Secretaria de Estado, o disposto no n.º 2 do artigo 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), de 31 de Agosto, e no n.º 3 do artigo 3.º do [Decreto-Lei n.º 175/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797), de 13 de Julho.
+Art. 25.º Observar-se-á, quanto aos funcionários adidos que vierem a ser integrados nos quadros da Secretaria de Estado, o disposto no n.º 2 do artigo 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), de 31 de Agosto, e no n.º 3 do artigo 3.º do [Decreto-Lei n.º 175/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797), de 13 de Julho.
 
-###### Art. 26.º - 1 - O provimento nas carreiras técnicas e técnica superior, salvaguardado o acesso à categoria de assessor, poderá fazer-se de entre indivíduos sem habilitações adequadas, desde que de reconhecida competência e mérito cultural, devendo o despacho de nomeação ser acompanhado, para publicação, do currículo do nomeado.
+Art. 26.º - 1 - O provimento nas carreiras técnicas e técnica superior, salvaguardado o acesso à categoria de assessor, poderá fazer-se de entre indivíduos sem habilitações adequadas, desde que de reconhecida competência e mérito cultural, devendo o despacho de nomeação ser acompanhado, para publicação, do currículo do nomeado.
 
 2 - Os indivíduos providos ao abrigo do número anterior não poderão exceder 40% dos lugares previstos.
 
-###### Art. 27.º O pessoal que não esteja integrado nos quadros e que opte pela categoria actual, não se submetendo às normas de primeiro provimento para integração nos quadros a definir pelos diplomas previstos no artigo 21.º, ficará na situação de contratado além do quadro em categoria idêntica à que actualmente possui.
+Art. 27.º O pessoal que não esteja integrado nos quadros e que opte pela categoria actual, não se submetendo às normas de primeiro provimento para integração nos quadros a definir pelos diplomas previstos no artigo 21.º, ficará na situação de contratado além do quadro em categoria idêntica à que actualmente possui.
 
-###### Art. 28.º Quando pela aplicação das normas constantes do presente diploma puder resultar para o funcionário ou agente provimento em categoria remunerada por letra de vencimento inferior à que já detém, aquele manterá a actual designação funcional e respectiva remuneração, extinguindo-se os correspondentes lugares à medida que vagarem.
+Art. 28.º Quando pela aplicação das normas constantes do presente diploma puder resultar para o funcionário ou agente provimento em categoria remunerada por letra de vencimento inferior à que já detém, aquele manterá a actual designação funcional e respectiva remuneração, extinguindo-se os correspondentes lugares à medida que vagarem.
 
-###### Art. 29.º - 1 - Os processos individuais e demais documentos relativos aos funcionários e agentes a que se referem os artigos 23.º a 26.º que tenham exercido funções em outros serviços do Estado ou em institutos públicos serão requisitados para fazer parte dos arquivos dos órgãos ou serviços da Secretaria de Estado da Cultura onde aqueles estejam ou venham a ser integrados.
+Art. 29.º - 1 - Os processos individuais e demais documentos relativos aos funcionários e agentes a que se referem os artigos 23.º a 26.º que tenham exercido funções em outros serviços do Estado ou em institutos públicos serão requisitados para fazer parte dos arquivos dos órgãos ou serviços da Secretaria de Estado da Cultura onde aqueles estejam ou venham a ser integrados.
 
 2 - Dos processos individuais e demais documentos relativos aos funcionários e agentes que exerçam ou venham a exercer funções em regime de requisição ou de comissão de serviço, oriundos de outros serviços do Estado ou de institutos públicos, serão extraídas fotocópias, devidamente certificadas, para fazerem parte dos arquivos dos órgãos ou serviços da Secretaria de Estado da Cultura onde exerçam ou venham a exercer os seus cargos.
 
-###### Art. 30.º O pessoal da Secretaria de Estado da Cultura será distribuído pelos respectivos serviços consoante as suas necessidades e mediante despacho do Secretário de Estado da Cultura.
+Art. 30.º O pessoal da Secretaria de Estado da Cultura será distribuído pelos respectivos serviços consoante as suas necessidades e mediante despacho do Secretário de Estado da Cultura.
 
-###### Art. 31.º - 1 - Para ocorrer a necessidades extraordinárias de serviço, o Secretário de Estado da Cultura poderá autorizar a admissão de pessoal, mediante contrato além do quadro, ou em regime de prestação eventual de serviço, ou por requisição a outros serviços do Estado e a entidades públicas ou privadas, abonando-o, quando for caso disso, por conta das dotações orçamentais especialmente inscritas para o efeito das disponibilidades existentes.
+Art. 31.º - 1 - Para ocorrer a necessidades extraordinárias de serviço, o Secretário de Estado da Cultura poderá autorizar a admissão de pessoal, mediante contrato além do quadro, ou em regime de prestação eventual de serviço, ou por requisição a outros serviços do Estado e a entidades públicas ou privadas, abonando-o, quando for caso disso, por conta das dotações orçamentais especialmente inscritas para o efeito das disponibilidades existentes.
 
 2 - O Secretário de Estado da Cultura poderá autorizar a celebração de contratos escritos, nos termos da lei geral, com entidades ou indivíduos estranhos à Secretaria de Estado da Cultura para a realização de estudos ou trabalhos.
 
@@ -408,26 +483,26 @@ d) Em categoria correspondente à das funções que o funcionário ou agente act
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 32.º Serão gradualmente transferidos para a Secretaria de Estado da Cultura os órgãos, serviços ou atribuições do Ministério das Finanças e do Plano e de outros departamentos do Estado que, por natureza, se enquadrem no seu âmbito de actividade, de acordo com os respectivos Ministros.
+Art. 32.º Serão gradualmente transferidos para a Secretaria de Estado da Cultura os órgãos, serviços ou atribuições do Ministério das Finanças e do Plano e de outros departamentos do Estado que, por natureza, se enquadrem no seu âmbito de actividade, de acordo com os respectivos Ministros.
 
-###### Art. 33.º São extintas a Direcção-Geral do Património Cultural e a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural.
+Art. 33.º São extintas a Direcção-Geral do Património Cultural e a Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural.
 
-###### Art. 34.º Enquanto não for publicada legislação sobre quadros e regime de pessoal, os serviços continuarão a reger-se pelas disposições que actualmente lhes são aplicáveis.
+Art. 34.º Enquanto não for publicada legislação sobre quadros e regime de pessoal, os serviços continuarão a reger-se pelas disposições que actualmente lhes são aplicáveis.
 
-###### Art. 35.º As alterações decorrentes do presente diploma e os despachos que venham a ser proferidos no seu âmbito não poderão prejudicar os direitos e regalias do pessoal em serviço ou vinculado aos diversos organismos da Secretaria de Estado da Cultura.
+Art. 35.º As alterações decorrentes do presente diploma e os despachos que venham a ser proferidos no seu âmbito não poderão prejudicar os direitos e regalias do pessoal em serviço ou vinculado aos diversos organismos da Secretaria de Estado da Cultura.
 
-###### Art. 36.º - 1 - As dúvidas suscitadas pela aplicação do presente diploma e, bem assim, as que resultem da aglutinação ou extinção de serviços serão resolvidas por despacho do Primeiro-Ministro, ou despacho conjunto deste e de outros membros do Governo, quando estiverem em causa matérias das respectivas competências.
+Art. 36.º - 1 - As dúvidas suscitadas pela aplicação do presente diploma e, bem assim, as que resultem da aglutinação ou extinção de serviços serão resolvidas por despacho do Primeiro-Ministro, ou despacho conjunto deste e de outros membros do Governo, quando estiverem em causa matérias das respectivas competências.
 
 2 - A competência atribuída no número anterior ao Primeiro-Ministro pode ser delegada no Secretário de Estado da Cultura.
 
-###### Art. 37.º São revogados o [Decreto-Lei n.º 498-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-c-1979-197079), de 21 de Dezembro, o [Decreto-Lei n.º 513-J1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-j1-1979-147398), de 27 de Dezembro, o [Decreto-Lei n.º 519-Z1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z1-1979-157048), de 29 de Dezembro, e o [Decreto-Lei n.º 533/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1979-231300), de 31 de Dezembro.
+Art. 37.º São revogados o [Decreto-Lei n.º 498-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-c-1979-197079), de 21 de Dezembro, o [Decreto-Lei n.º 513-J1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-j1-1979-147398), de 27 de Dezembro, o [Decreto-Lei n.º 519-Z1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z1-1979-157048), de 29 de Dezembro, e o [Decreto-Lei n.º 533/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1979-231300), de 31 de Dezembro.
 
-###### Art. 38.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 38.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 26 de Março de 1980.**
+Promulgado em 26 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

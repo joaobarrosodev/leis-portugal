@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/09/22600/13081309.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49265-1969-214263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 776a8a5e735d66246e442b82cd3c29cb0b42481ae308bc5bb176ab0341049652
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8dd84010881d5ceeaadd598874083d82f2ad632021e22f4c957e09e18aa1446
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:397904:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:397904:por
+  label: Revogado, a partir de 16.08.1982, pelo DEC LEI.316/82.11.08.1982.PCM, DR.IS [184] de 11.08.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1982-397904
+  date: '1982-08-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:55Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +106,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada a medalha de Mérito Turístico, destinada a galardoar as pessoas singulares e colectivas, nacionais ou estrangeiras, que tenham prestado serviços relevantes ao turismo nacional.
+Artigo 1.º - 1. É criada a medalha de Mérito Turístico, destinada a galardoar as pessoas singulares e colectivas, nacionais ou estrangeiras, que tenham prestado serviços relevantes ao turismo nacional.
 
 2. A insígnia da medalha é do modelo anexo a este diploma.
 
-###### Art. 2.º - 1. A medalha de Mérito Turístico compreende os seguintes graus:
+Art. 2.º - 1. A medalha de Mérito Turístico compreende os seguintes graus:
 
 1.º grau - medalha de ouro;
 
@@ -114,11 +120,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 2. Os diversos graus serão conferidos, independentemente da hierarquia ou categoria dos galardoados, de acordo com a importância dos serviços prestados e méritos revelados.
 
-###### Art. 3.º A concessão da medalha de ouro compete ao Presidente do Conselho, sob proposta do Secretário de Estado da Informação e Turismo, e a das medalhas de prata e de cobre ao Secretário de Estado, sendo as respectivas decisões publicadas no Diário do Governo.
+Art. 3.º A concessão da medalha de ouro compete ao Presidente do Conselho, sob proposta do Secretário de Estado da Informação e Turismo, e a das medalhas de prata e de cobre ao Secretário de Estado, sendo as respectivas decisões publicadas no Diário do Governo.
 
-###### Art. 4.º Da concessão da medalha será passado um diploma pela Secretaria de Estado da Informação e Turismo, autenticado com o respectivo selo branco.
+Art. 4.º Da concessão da medalha será passado um diploma pela Secretaria de Estado da Informação e Turismo, autenticado com o respectivo selo branco.
 
-###### Art. 5.º - 1. Perdem o direito ao uso da medalha de Mérito Turístico:
+Art. 5.º - 1. Perdem o direito ao uso da medalha de Mérito Turístico:
 
 a) As pessoas singulares que sejam condenadas por crimes que impliquem a incapacidade para provimento em cargos públicos ou que sofram qualquer sanção por actos dolosos ofensivos do prestígio do País ou do turismo nacional;
 
@@ -128,21 +134,21 @@ b) As pessoas colectivas que sejam objecto de grave sanção por infracção rel
 
 3. O despacho será averbado no registo a que se refere o artigo seguinte.
 
-###### Art. 6.º - 1. Os processos e demais expediente respeitantes à medalha de Mérito Turístico correrão pela Direcção-Geral do Turismo.
+Art. 6.º - 1. Os processos e demais expediente respeitantes à medalha de Mérito Turístico correrão pela Direcção-Geral do Turismo.
 
 2. Na mesma Direcção-Geral será organizado um registo das entidades galardoadas com aquela medalha.
 
-###### Art. 7.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
+Art. 7.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 17 de Setembro de 1969.**
+Promulgado em 17 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/22600/13081309.pdf))](https://files.diariodarepublica.pt/1s/1969/09/22600/13081309.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/22600/13081309.pdf)
 
 Observações
 

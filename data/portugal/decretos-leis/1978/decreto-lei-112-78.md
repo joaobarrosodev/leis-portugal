@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/12200/09400940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1978-294547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4475692584dd3e6baaa8b32738110496bb1c39cb69df7e461f0ee694c25c5745
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c0f3bebc3b2113399ccd48b69623f96f402847cb89e869bf9ae49cdd3b8b22c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centralcer
+- Conselho de Administração
+- Empresa Pública
+- Estatuto
+- Unicer
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:276643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446544:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382668:por
+  label: Revogados os arts. 1.º e 2.º, na redação que conferiram ao n.º 1 do art. 6.º dos estatutos da Unicer-União de Cervejas,
+    E. P. e a n.º 1 do art. 6.º dos estatutos da Centralcer - Central de Cervejas, E. P., aprovados pelo Dec Lei 531/77 de
+    30-dez, pelo DEC LEI.95/79.20.04.1979.MIT, DR.IS [92] de 20.04.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1979-382668
+  date: '1979-04-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:42Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +121,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 6.º dos estatutos da Unicer - União de Cervejas, E. P., aprovados pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 6.º dos estatutos da Unicer - União de Cervejas, E. P., aprovados pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - O conselho de gerência é composto por um número ímpar de membros, não superior a sete.
+Art. 6.º - 1 - O conselho de gerência é composto por um número ímpar de membros, não superior a sete.
 
 2 - ...
 
 3 - ...
 
-###### Art. 2.º O artigo 6.º dos estatutos da Centralcer - Central de Cervejas, E. P., aprovados pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 6.º dos estatutos da Centralcer - Central de Cervejas, E. P., aprovados pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - O conselho de gerência é composto por um número ímpar de membros, não superior a sete.
+Art. 6.º - 1 - O conselho de gerência é composto por um número ímpar de membros, não superior a sete.
 
 2 - ...
 
@@ -113,8 +139,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Carlos Montês Melancia.
 
-**Promulgado em 10 de Maio de 1978.**
+Promulgado em 10 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

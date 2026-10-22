@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04100/03420346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1976-507469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 272b16629c2529f342c5437615141b69061b2daf0be7b09a83eb483e5f9a7544
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3d7c8f9add49cc4dad820d9369e9de97b759e05910db21f2fdd3b8498a9ea5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Coordenação Comercial
+- Direcção Geral de Coordenação Económica
+- Direcção Geral de Fiscalização Económica
+- Direcção Geral de Preços
+- Direcção Geral do Comércio Alimentar
+- Direcção Geral do Comércio Interno
+- Direcção Geral do Comércio não Alimentar
+- Ministério do Comércio Interno
+- Orgânica
+- Secretaria de Estado do Comércio Alimentar
+- Secretaria de Estado do Comércio não Alimentar
+- Subsecretário de Estado para a Defesa do Consumidor
+- Subsecretário de Estado para o Fomento Cooperativo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:305809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:37Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +149,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO COMÉRCIO INTERNO
 
 #### SECÇÃO I — Atribuições e estrutura
 
-###### Artigo 1.º O Ministério do Comércio Interno (MCI), criado pelo [Decreto-Lei n.º 412-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-b-1975-305809), de 7 de Agosto, é o departamento governamental encarregado de orientar e disciplinar o comércio interno, os preços e o abastecimento público, cabendo-lhe prosseguir as seguintes atribuições:
+Artigo 1.º O Ministério do Comércio Interno (MCI), criado pelo [Decreto-Lei n.º 412-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-b-1975-305809), de 7 de Agosto, é o departamento governamental encarregado de orientar e disciplinar o comércio interno, os preços e o abastecimento público, cabendo-lhe prosseguir as seguintes atribuições:
 
 a) Definir e executar a política de preços em colaboração com os Ministérios de tutela da produção dos bens e serviços no mercado interno;
 
@@ -126,11 +169,11 @@ h) Fomentar a constituição de cooperativas de distribuição e de consumo;
 
 i) Exercer todas as demais funções do Governo relativas à distribuição, aos preços e ao abastecimento público, desde que não sejam expressamente atribuídas a outro departamento ou entidade.
 
-###### Art. 2.º - 1. O MCI compreende a Secretaria de Estado do Comércio Alimentar e a Secretaria de Estado do Comércio não Alimentar.
+Art. 2.º - 1. O MCI compreende a Secretaria de Estado do Comércio Alimentar e a Secretaria de Estado do Comércio não Alimentar.
 
 2. São criados no MCI os cargos de Subsecretário de Estado para a Defesa do Consumidor e de Subsecretário de Estado para o Fomento Cooperativo.
 
-###### Art. 3.º - 1. Compete ao Ministro do Comércio Interno:
+Art. 3.º - 1. Compete ao Ministro do Comércio Interno:
 
 a) Definir e fazer executar a política do Ministério;
 
@@ -150,7 +193,7 @@ g) Praticar os actos relativos ao provimento, à carreira e à disciplina dos fu
 
 3. No exercício das funções de coordenação referidas na alínea e) do n.º 1 deste artigo, pode o Ministro do Comércio Interno avocar alguma ou algumas das competências dos Secretários de Estado relativamente aos serviços ou organismos a seu cargo.
 
-###### Art. 4.º São serviços directamente dependentes do Ministro, além do Gabinete:
+Art. 4.º São serviços directamente dependentes do Ministro, além do Gabinete:
 
 a) Os seguintes órgãos de concepção, coordenação e apoio da actividade do Ministério:
 
@@ -166,13 +209,13 @@ b) A Direcção-Geral de Coordenação Comercial;
 
 c) A Direcção-Geral de Fiscalização Económica.
 
-###### Art. 5.º Junto do MCI funciona um auditor jurídico.
+Art. 5.º Junto do MCI funciona um auditor jurídico.
 
 #### SECÇÃO II — Órgãos de concepção, coordenação e apoio da actividade do Ministério
 
 ##### SUBSECÇÃO I — Gabinete de Planeamento
 
-###### Art. 6.º Ao Gabinete de Planeamento (GP) compete:
+Art. 6.º Ao Gabinete de Planeamento (GP) compete:
 
 a) Prestar apoio técnico ao Ministro, Secretários e Subsecretários de Estado em todas as matérias relacionadas com o planeamento dos sectores abrangidos na acção do MCI;
 
@@ -190,11 +233,11 @@ g) Assegurar as ligações do Ministério com outros Gabinetes de Planeamento, e
 
 h) Promover o aperfeiçoamento das técnicas de planeamento e da informação estatística em relação ao sector.
 
-###### Art. 7.º A organização e o funcionamento do GP, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, responsável pelo Planeamento, da Administração Interna e do Comércio Interno.
+Art. 7.º A organização e o funcionamento do GP, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, responsável pelo Planeamento, da Administração Interna e do Comércio Interno.
 
 ##### SUBSECÇÃO II — Gabinete de Apoio Técnico
 
-###### Art. 8.º - 1. Ao Gabinete de Apoio Técnico (GAT) incumbe realizar os estudos de ordem genérica ou específica que lhe forem determinados pelo Ministro sobre matérias contidas no âmbito da acção do Ministério.
+Art. 8.º - 1. Ao Gabinete de Apoio Técnico (GAT) incumbe realizar os estudos de ordem genérica ou específica que lhe forem determinados pelo Ministro sobre matérias contidas no âmbito da acção do Ministério.
 
 2. Para assegurar o desempenho das atribuições do GAT, o Ministro do Comércio Interno poderá destacar funcionários dos serviços e organismos do MCI, bem como requisitar, até ao limite de três elementos, pessoal técnico de outros Ministérios, com o acordo dos titulares das respectivas pastas, para exercer os cargos em comissão de serviço, por tempo indeterminado, ou de empresas dos sectores nacionalizado ou privado, nos termos da legislação aplicável.
 
@@ -202,19 +245,19 @@ h) Promover o aperfeiçoamento das técnicas de planeamento e da informação es
 
 ##### SUBSECÇÃO III — Gabinete de Comunicação Social
 
-###### Art. 9.º - 1. Ao Gabinete de Comunicação Social (GCS) compete assegurar e fomentar as relações com os meios de comunicação social em tudo o que respeita à actividade do Ministério e proceder à recolha, selecção e difusão de informações com interesse para os serviços.
+Art. 9.º - 1. Ao Gabinete de Comunicação Social (GCS) compete assegurar e fomentar as relações com os meios de comunicação social em tudo o que respeita à actividade do Ministério e proceder à recolha, selecção e difusão de informações com interesse para os serviços.
 
 2. A organização e o funcionamento do GCS, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna e do Comércio Interno.
 
 ##### SUBSECÇÃO IV — Secretaria-Geral
 
-###### Art. 10.º - 1. A Secretaria-Geral compreende serviços de interesse comum a todo o Ministério, designadamente serviços jurídicos, de pessoal, contabilidade, arquivo e expediente geral.
+Art. 10.º - 1. A Secretaria-Geral compreende serviços de interesse comum a todo o Ministério, designadamente serviços jurídicos, de pessoal, contabilidade, arquivo e expediente geral.
 
 2. As atribuições, a organização e o funcionamento da Secretaria-Geral, bem como o respectivo quadro de pessoal e formas de provimento, são os constantes do respectivo regulamento, aprovado pelo [Decreto n.º 660/75](https://diariodarepublica.pt/dr/detalhe/decreto/660-1975-309762), de 21 de Novembro.
 
 #### SECÇÃO III — Direcção-Geral de Coordenação Comercial
 
-###### Art. 11.º - 1. À Direcção-Geral de Coordenação Comercial (DGCC) incumbe:
+Art. 11.º - 1. À Direcção-Geral de Coordenação Comercial (DGCC) incumbe:
 
 a) Coordenar os programas de abastecimento de produtos básicos, sem prejuízo da competência do Ministério do Comércio Externo relacionada com as operações de importação e exportação;
 
@@ -238,19 +281,19 @@ j) Realizar todas as demais tarefas, no campo específico das suas atribuições
 
 2. Transitam para a DGCC as competências legalmente atribuídas à Direcção-Geral do Comércio Interno em tudo quanto não seja contrariado pelo presente diploma.
 
-###### Art. 12.º A organização e o funcionamento da DGCC, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna e do Comércio Interno.
+Art. 12.º A organização e o funcionamento da DGCC, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna e do Comércio Interno.
 
 #### SECÇÃO IV — Direcção-Geral de Fiscalização Económica
 
-###### Art. 13.º As atribuições, a organização e o funcionamento da Direcção-Geral de Fiscalização Económica (DGFE), bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna, do Comércio Interno e da Justiça.
+Art. 13.º As atribuições, a organização e o funcionamento da Direcção-Geral de Fiscalização Económica (DGFE), bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna, do Comércio Interno e da Justiça.
 
 #### SECÇÃO V — Auditor jurídico
 
-###### Art. 14.º Ao auditor jurídico compete pronunciar-se sobre os assuntos que lhe sejam submetidos pelo Ministro do Comércio Interno, mediante a elaboração de informações, pareceres e projectos legislativos, bem como intervir em quaisquer sindicâncias, inquéritos ou averiguações de que seja incumbido pelo Ministro.
+Art. 14.º Ao auditor jurídico compete pronunciar-se sobre os assuntos que lhe sejam submetidos pelo Ministro do Comércio Interno, mediante a elaboração de informações, pareceres e projectos legislativos, bem como intervir em quaisquer sindicâncias, inquéritos ou averiguações de que seja incumbido pelo Ministro.
 
-###### Art. 15.º O auditor jurídico é designado nos termos da lei geral e depende hierarquicamente do procurador-geral da República.
+Art. 15.º O auditor jurídico é designado nos termos da lei geral e depende hierarquicamente do procurador-geral da República.
 
-###### Art. 16.º - 1. Os vencimentos do auditor jurídico serão suportados por verbas inscritas no orçamento do Ministério do Comércio Interno.
+Art. 16.º - 1. Os vencimentos do auditor jurídico serão suportados por verbas inscritas no orçamento do Ministério do Comércio Interno.
 
 2. A Secretaria-Geral do MCI prestará ao auditor jurídico todo o apoio administrativo necessário ao desempenho das suas funções.
 
@@ -258,7 +301,7 @@ j) Realizar todas as demais tarefas, no campo específico das suas atribuições
 
 #### SECÇÃO I — Serviços e organismos dependentes da Secretaria de Estado do Comércio Alimentar
 
-###### Art. 17.º - 1. Na Secretaria de Estado do Comércio Alimentar, além do Gabinete do Secretário de Estado, integra-se a Direcção-Geral do Comércio Alimentar (DGCA).
+Art. 17.º - 1. Na Secretaria de Estado do Comércio Alimentar, além do Gabinete do Secretário de Estado, integra-se a Direcção-Geral do Comércio Alimentar (DGCA).
 
 2. Sem prejuízo da sua subordinação ao Ministério do Comércio Externo, no que diz respeito ao exercício da competência relacionada com o comércio externo e enquanto não for efectivada a sua reorganização, ficam dependentes da Secretaria de Estado do Comércio Alimentar os seguintes organismos:
 
@@ -282,11 +325,11 @@ i) Federação dos Vinicultores do Dão.
 
 #### SECÇÃO II — Direcção-Geral do Comércio Alimentar
 
-###### Art. 18.º - 1. A actuação da DGCA exerce-se no domínio dos bens agro-pecuários e da pesca que, em natureza ou por transformação, se destinam à alimentação humana ou animal, bem como no dos serviços alimentares.
+Art. 18.º - 1. A actuação da DGCA exerce-se no domínio dos bens agro-pecuários e da pesca que, em natureza ou por transformação, se destinam à alimentação humana ou animal, bem como no dos serviços alimentares.
 
 2. Nos domínios referidos no número anterior, são atribuições da DGCA elaborar os estudos e desenvolver as acções conducentes a assegurar uma adequada política de preços e de circuitos de comercialização.
 
-###### Art. 19.º Nos domínios a que se refere o artigo anterior, compete à DGCA:
+Art. 19.º Nos domínios a que se refere o artigo anterior, compete à DGCA:
 
 a) Propor a consagração legal de regimes de preços de bens e serviços, bem como a adopção de critérios gerais na formação dos preços;
 
@@ -308,21 +351,21 @@ i) Intervir em matéria de licenciamento das empresas e marcas comerciais;
 
 j) Realizar todas as demais tarefas, no campo específico das suas funções, de que seja superiormente incumbida.
 
-###### Art. 20.º A organização e o funcionamento da DGCA, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna e do Comércio Interno.
+Art. 20.º A organização e o funcionamento da DGCA, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna e do Comércio Interno.
 
 ### CAPÍTULO III — Secretaria de Estado do Comércio não Alimentar
 
 #### SECÇÃO I — Serviços dependentes da Secretaria de Estado do Comércio não Alimentar
 
-###### Art. 21.º Na Secretaria de Estado do Comércio não Alimentar, além do Gabinete do Secretário de Estado, integra-se a Direcção-Geral do Comércio não Alimentar (DGCnA).
+Art. 21.º Na Secretaria de Estado do Comércio não Alimentar, além do Gabinete do Secretário de Estado, integra-se a Direcção-Geral do Comércio não Alimentar (DGCnA).
 
 #### SECÇÃO II — Direcção-Geral do Comércio não Alimentar
 
-###### Art. 22.º - 1. A actuação da DGCnA exerce-se no domínio dos bens e serviços não referidos no n.º 1 do artigo 18.º
+Art. 22.º - 1. A actuação da DGCnA exerce-se no domínio dos bens e serviços não referidos no n.º 1 do artigo 18.º
 
 2. No domínio referido no número anterior, são atribuições da DGCnA elaborar os estudos e desenvolver as acções conducentes a assegurar uma adequada política de preços e de circuitos de comercialização.
 
-###### Art. 23.º - 1. Nos domínios a que se refere o artigo anterior, compete à DGCnA:
+Art. 23.º - 1. Nos domínios a que se refere o artigo anterior, compete à DGCnA:
 
 a) Propor a consagração legal de regimes de preços de bens e serviços, bem como a adopção de critérios gerais na formação dos preços;
 
@@ -348,38 +391,38 @@ j) Realizar todas as demais tarefas, no campo específico das suas funções, de
 
 3. Transitoriamente, em relação aos preços e comércio dos bens e serviços que, nos termos da legislação sobre preços, se integram cumulativamente na esfera de acção do MCI e de outros departamentos governamentais, a competência da DGCnA será exercida em ligação com a desses departamentos.
 
-###### Art. 24.º A organização e o funcionamento da DGCnA, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna e do Comércio Interno.
+Art. 24.º A organização e o funcionamento da DGCnA, bem como o respectivo quadro de pessoal e formas de provimento, constarão de decreto referendado pelos Ministros das Finanças, da Administração Interna e do Comércio Interno.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 25.º - 1. O pessoal dos quadros ou contratado além dos quadros das Direcções-Gerais de Preços e do Comércio Interno, com excepção dos directores-gerais e subdirectores-gerais, poderá ser distribuído, com as suas actuais categorias, pelos lugares dos quadros do GP, DGCC, DGCA e DGCnA, mediante lista ou listas nominativas, aprovadas por despacho do Ministro do Comércio Interno, visadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
+Art. 25.º - 1. O pessoal dos quadros ou contratado além dos quadros das Direcções-Gerais de Preços e do Comércio Interno, com excepção dos directores-gerais e subdirectores-gerais, poderá ser distribuído, com as suas actuais categorias, pelos lugares dos quadros do GP, DGCC, DGCA e DGCnA, mediante lista ou listas nominativas, aprovadas por despacho do Ministro do Comércio Interno, visadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
 
 2. Os directores de serviço, técnicos principais e técnicos de 1.ª classe dos quadros ou contratados além dos quadros das Direcções-Gerais de Preços e do Comércio Interno que não forem incluídos nas listas a que se refere o número anterior serão distribuídos, com as suas actuais categorias, pelo GP, DGCC, DGCA e DGCnA pela forma e com os efeitos referidos na parte final do número anterior, considerando-se os respectivos quadros acrescentados de tantos lugares quanto o número de funcionários, extinguindo-se esses lugares quando vagarem.
 
-###### Art. 26.º O activo e o passivo das Direcções-Gerais de Preços e do Comércio Interno, bem como quaisquer valores e direitos, incluindo os emergentes de contratos de arrendamento, serão transferidos, mediante despacho do Ministro do Comércio Interno, a publicar no Diário do Governo, para o GP, DGCC, DGCA e DGCnA.
+Art. 26.º O activo e o passivo das Direcções-Gerais de Preços e do Comércio Interno, bem como quaisquer valores e direitos, incluindo os emergentes de contratos de arrendamento, serão transferidos, mediante despacho do Ministro do Comércio Interno, a publicar no Diário do Governo, para o GP, DGCC, DGCA e DGCnA.
 
-###### Art. 27.º Enquanto não for dada execução ao disposto nos artigos 25.º e 26.º, o Ministro do Comércio Interno poderá, por despacho, afectar provisoriamente ao GP e às DGCC, DGCA e DGCnA os meios humanos e materiais de que dispõem as Direcções-Gerais de Preços e do Comércio Interno.
+Art. 27.º Enquanto não for dada execução ao disposto nos artigos 25.º e 26.º, o Ministro do Comércio Interno poderá, por despacho, afectar provisoriamente ao GP e às DGCC, DGCA e DGCnA os meios humanos e materiais de que dispõem as Direcções-Gerais de Preços e do Comércio Interno.
 
-###### Art. 28.º - 1. São extintas as Direcções-Gerais de Preços e do Comércio Interno após se terem efectivado as transferências a que se referem os artigos 25.º e 26.º
+Art. 28.º - 1. São extintas as Direcções-Gerais de Preços e do Comércio Interno após se terem efectivado as transferências a que se referem os artigos 25.º e 26.º
 
 2. As datas efectivas de extinção daquelas Direcções-Gerais serão determinadas por despacho do Ministro do Comércio Interno, a publicar no Diário do Governo, o qual poderá igualmente regular quaisquer condições especiais relativas a essas extinções, para além do que se dispõe no presente diploma.
 
-###### Art. 29.º - 1. Até à sua extinção definitiva, a Comissão de Coordenação Económica fica directamente dependente do Ministro do Comércio Interno.
+Art. 29.º - 1. Até à sua extinção definitiva, a Comissão de Coordenação Económica fica directamente dependente do Ministro do Comércio Interno.
 
 2. Até à sua extinção definitiva, a Comissão Reguladora dos Produtos Químicos e Farmacêuticos fica dependente do Secretário de Estado do Comércio não Alimentar.
 
-###### Art. 30.º Enquanto não for publicado o diploma a que se refere o artigo 13.º, a DGFE regular-se-á pelo disposto no [Decreto-Lei n.º 329-D/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-d-1974-560234), de 10 de Julho, e demais legislação aplicável.
+Art. 30.º Enquanto não for publicado o diploma a que se refere o artigo 13.º, a DGFE regular-se-á pelo disposto no [Decreto-Lei n.º 329-D/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-d-1974-560234), de 10 de Julho, e demais legislação aplicável.
 
-###### Art. 31.º Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 31.º Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 32.º Fica revogado o [Decreto-Lei n.º 645/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/645-1975-310273), de 15 de Novembro.
+Art. 32.º Fica revogado o [Decreto-Lei n.º 645/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/645-1975-310273), de 15 de Novembro.
 
-###### Art. 33.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio Interno, com o acordo do Ministro das Finanças, quando estiverem em causa matéria de carácter financeiro ou regras de contabilidade pública.
+Art. 33.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro do Comércio Interno, com o acordo do Ministro das Finanças, quando estiverem em causa matéria de carácter financeiro ou regras de contabilidade pública.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 9 de Fevereiro de 1976.**
+Promulgado em 9 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

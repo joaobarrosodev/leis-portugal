@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10200/09810982.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1977-251653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bc773ce3bd5a245b9b5c2352e813f59af60774ed3c215410d069bce9364df57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e83e711f99293d3c52b4a9baf3077b33458271df3f74f0ded232bf42ad8fb4f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Oncologia
+- Coimbra
+- Criação de Serviços
+- Gestão Administrativa
+- Gestão Orçamental
+- Instituto Português de Oncologia de Francisco Gentil
+- Porto
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:375007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576311:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:38Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +120,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados, com sede em Coimbra e no Porto, Centros Regionais do Instituto Português de Oncologia de Francisco Gentil.
+Artigo 1.º São criados, com sede em Coimbra e no Porto, Centros Regionais do Instituto Português de Oncologia de Francisco Gentil.
 
-###### Art. 2.º - 1. A acção dos Centros ora criados na luta contra o cancro estende-se genericamente às zonas centro e norte do País, respectivamente, tal como estiverem definidas por lei.
+Art. 2.º - 1. A acção dos Centros ora criados na luta contra o cancro estende-se genericamente às zonas centro e norte do País, respectivamente, tal como estiverem definidas por lei.
 
 2. A zona sul do País manter-se-á afecta ao Centro Regional de Lisboa.
 
 3. Os fins para que são criados estes Centros são, na parte aplicável, os fixados no artigo 4.º do [Decreto n.º 9333](https://diariodarepublica.pt/dr/detalhe/decreto/9333-1923-375007), de 29 de Dezembro de 1923.
 
-###### Art. 3.º - 1. Aos mesmos Centros é concedida autonomia administrativa, técnica e científica, sem prejuízo da necessária acção coordenadora, que, em relação àqueles dois últimos aspectos, será exercida pelo Instituto Português de Oncologia de Francisco Gentil.
+Art. 3.º - 1. Aos mesmos Centros é concedida autonomia administrativa, técnica e científica, sem prejuízo da necessária acção coordenadora, que, em relação àqueles dois últimos aspectos, será exercida pelo Instituto Português de Oncologia de Francisco Gentil.
 
 2. São autorizados aqueles Centros Regionais a arrecadar as suas receitas próprias e a afectá-las à satisfação das despesas que houverem de realizar, com observância dos preceitos legais aplicáveis, devendo anualmente submeter os respectivos orçamentos privativos à aprovação do Ministério da Educação e Investigação Científica.
 
-###### Art. 4.º É reconhecida a utilidade pública aos referidos Centros Regionais, nos termos da [Lei n.º 1920](https://diariodarepublica.pt/dr/detalhe/lei/1920-1935-576311), de 15 de Junho de 1922.
+Art. 4.º É reconhecida a utilidade pública aos referidos Centros Regionais, nos termos da [Lei n.º 1920](https://diariodarepublica.pt/dr/detalhe/lei/1920-1935-576311), de 15 de Junho de 1922.
 
-###### Art. 5.º - 1. A orgânica interna de cada um destes Centros, bem como a sua coordenação a nível nacional, serão definidas no estatuto do Instituto Português de Oncologia de Francisco Gentil.
+Art. 5.º - 1. A orgânica interna de cada um destes Centros, bem como a sua coordenação a nível nacional, serão definidas no estatuto do Instituto Português de Oncologia de Francisco Gentil.
 
 2. Até à aprovação e publicação do referido estatuto, cada um daqueles Centros é dirigido por uma comissão instaladora, que disporá da competência para a prática de actos referentes:
 
@@ -126,7 +148,7 @@ c) Ao cabal exercício de outras competências que, por delegação, lhes vierem
 
 4. Os membros das comissões instaladoras ficam, na falta de disposição especial em contrário, sujeitos às regras e princípios gerais vigentes em matéria de acumulação.
 
-###### Art. 6.º - 1. Os quadros do pessoal dos Centros agora criados, que constituirão encargos do Orçamento Geral do Estado, serão aprovados por portaria aprovada pelos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica, no prazo de noventa dias a contar da data da publicação do presente diploma.
+Art. 6.º - 1. Os quadros do pessoal dos Centros agora criados, que constituirão encargos do Orçamento Geral do Estado, serão aprovados por portaria aprovada pelos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica, no prazo de noventa dias a contar da data da publicação do presente diploma.
 
 2. O pessoal em serviço naqueles Centros à data da aprovação dos respectivos quadros será provido em lugares de categoria, tanto quanto possível, correspondente às funções que estiver a desempenhar.
 
@@ -136,16 +158,16 @@ c) Ao cabal exercício de outras competências que, por delegação, lhes vierem
 
 5. Enquanto não forem publicadas as listas referidas no n.º 3 deste artigo, os servidores do Estado que estiverem a prestar serviço nos Centros de Coimbra e do Porto do Instituto Português de Oncologia de Francisco Gentil mantêm as categorias que possuírem, com todos os direitos e deveres que, por lei, lhes sejam reconhecidos.
 
-###### Art. 7.º Os Centros agora criados ficarão sujeitos à legislação em vigor aplicável ao Instituto Português de Oncologia de Francisco Gentil.
+Art. 7.º Os Centros agora criados ficarão sujeitos à legislação em vigor aplicável ao Instituto Português de Oncologia de Francisco Gentil.
 
-###### Art. 8.º Os encargos resultantes da criação destes Centros serão suportados pelas dotações que estão consignadas no Orçamento Geral do Estado ao Instituto Português de Oncologia de Francisco Gentil e afectas aos Centros Anticancerosos de Coimbra e do Porto.
+Art. 8.º Os encargos resultantes da criação destes Centros serão suportados pelas dotações que estão consignadas no Orçamento Geral do Estado ao Instituto Português de Oncologia de Francisco Gentil e afectas aos Centros Anticancerosos de Coimbra e do Porto.
 
-###### Art. 9.º O presente diploma entra em vigor no primeiro dia do mês imediatamente subsequente ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no primeiro dia do mês imediatamente subsequente ao da sua publicação.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 18 de Abril de 1977.**
+Promulgado em 18 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

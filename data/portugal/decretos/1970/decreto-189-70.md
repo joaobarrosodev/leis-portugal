@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/189-1970-141860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72a0f8f3c0f275642eed73d337f27a35f3cec5d7ee688c0080505fa06caee054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeb96a5b920852517eb3c83589414643782cf387dae3a3bf1866c8ad83c82089
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:04Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a emissão de 150000 moedas de prata, serrilhadas, do toque de 650 milésimas, valor facial de 50$00, diâmetro de 34 mm e peso de 18 g, destinadas à província de S. Tomé e Príncipe.
+Artigo 1.º É autorizada a emissão de 150000 moedas de prata, serrilhadas, do toque de 650 milésimas, valor facial de 50$00, diâmetro de 34 mm e peso de 18 g, destinadas à província de S. Tomé e Príncipe.
 
 § 1.º A moeda terá numa face ao centro, lado a lado, os brasões das cidades de S. Tomé e Santo António sobrepostos a uma rosa-dos-ventos, cujo ponto norte é representado por uma flor-de-lis, tendo por baixo uma faixa de ondas representando o mar, e na orla, as legendas «S. Tomé e Príncipe - V Centenário» e as datas «1470-1970».
 
@@ -100,13 +100,13 @@ A outra face terá ao centro uma cruz de Cristo e as cinco quinas sobrepostas, e
 
 § 2.º Esta moeda terá a tolerância de 5 milésimos para mais ou para menos, no toque e no peso.
 
-###### Art. 2.º Na Repartição Provincial dos Serviços de Fazenda e Contabilidade de S. Tomé e Príncipe será aberta uma conta de operações de tesouraria sobre a epígrafe «Cunhagem de moeda divisionária», pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e despesas de amoedação.
+Art. 2.º Na Repartição Provincial dos Serviços de Fazenda e Contabilidade de S. Tomé e Príncipe será aberta uma conta de operações de tesouraria sobre a epígrafe «Cunhagem de moeda divisionária», pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e despesas de amoedação.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 21 de Abril de 1970.**
+Promulgado em 21 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1981-578571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a5dc8a162dabe7e24550fa379de20938f7760ec1d0c77033f8bd6a271d67e57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86077f833fc985bcfb84cf76541994c7b651b61c7c7b5c3898b62108db349435
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Particular
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:226595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250433:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:12Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +109,16 @@ Considerando finalmente que, relativamente ao biénio de 1981-1983, a limitaçã
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os professores do ensino particular que, nos termos do estabelecido no [Decreto-Lei n.º 431-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-a-1980-250433), de 1 de Outubro, se candidatarem à profissionalização em exercício a realizar nos anos lectivos de 1981-1982 e 1982-1983, serão convocados para a referida profissionalização de acordo com a lista ordenada elaborada ao abrigo do n.º 3 do artigo 17.º do referido decreto-lei, consoante as necessidades do ensino, as possibilidades técnicas de que o Ministério da Educação e Ciência disponha e as capacidades das respectivas escolas particulares.
+Artigo 1.º - 1 - Os professores do ensino particular que, nos termos do estabelecido no [Decreto-Lei n.º 431-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-a-1980-250433), de 1 de Outubro, se candidatarem à profissionalização em exercício a realizar nos anos lectivos de 1981-1982 e 1982-1983, serão convocados para a referida profissionalização de acordo com a lista ordenada elaborada ao abrigo do n.º 3 do artigo 17.º do referido decreto-lei, consoante as necessidades do ensino, as possibilidades técnicas de que o Ministério da Educação e Ciência disponha e as capacidades das respectivas escolas particulares.
 
 2 - Os professores referidos no número anterior serão convocados independentemente da classificação profissional do último professor convocado para a profissionalização em exercício no ensino oficial no respectivo grupo, subgrupo e disciplina, não lhes sendo aplicável o disposto na segunda parte do n.º 4 do artigo 17.º do [Decreto-Lei n.º 431-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-a-1980-250433).
 
-###### Art. 2.º As referências feitas no [Decreto-Lei n.º 431-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-a-1980-250433) aos Decretos-Leis n.os 519-T1/79, de 29 de Dezembro, e 15/79, de 7 de Fevereiro, devem ser consideradas como sendo feitas, respectivamente, aos Decretos-Leis n.os [580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595) e [581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), ambos de 31 de Dezembro.
+Art. 2.º As referências feitas no [Decreto-Lei n.º 431-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-a-1980-250433) aos Decretos-Leis n.os 519-T1/79, de 29 de Dezembro, e 15/79, de 7 de Fevereiro, devem ser consideradas como sendo feitas, respectivamente, aos Decretos-Leis n.os [580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595) e [581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), ambos de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 17 de Junho de 1981.**
+Promulgado em 17 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

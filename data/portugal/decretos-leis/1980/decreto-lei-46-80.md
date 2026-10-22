@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1980-678378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b124db846cb8d3578e33cf9ccdeb1daa6ed9ca56deeba391d2bd23f42ff75bbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a032d836f5c2dc801fbf5772252cba56289ad152463259bf6ea2be4eb19b059
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Viabilização
+relationships:
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:10Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +103,18 @@ Dado, ainda, que a experiência tem mostrado, designadamente no que respeita aos
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - No processo de contrato de viabilização é fixado um prazo de quinze dias, a contar do envio do parecer técnico da instituição de crédito nacional maior credora da empresa proponente às restantes instituições de crédito envolvidas, para ser reunido o indispensável consenso destas quanto à sua intervenção na celebração e execução do contrato.
+Artigo 1.º - 1 - No processo de contrato de viabilização é fixado um prazo de quinze dias, a contar do envio do parecer técnico da instituição de crédito nacional maior credora da empresa proponente às restantes instituições de crédito envolvidas, para ser reunido o indispensável consenso destas quanto à sua intervenção na celebração e execução do contrato.
 
 2 - Na impossibilidade de, no prazo referido no número anterior, as diversas instituições bancárias intervenientes chegarem a um consenso, o banco líder comunicará, de imediato, ao Ministério das Finanças e do Plano a matéria sobre a qual não foi possível obter o acordo das partes e os argumentos expendidos por cada uma das partes discordantes.
 
 3 - Não havendo dúvidas quanto à classificação provisória da empresa fora do grau E, no prazo máximo de quinze dias após a recepção da comunicação referida no número anterior, o Ministro das Finanças e do Plano, ouvida a Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., determinará, por despacho, a intervenção de cada uma das instituições de crédito no contrato de viabilização a celebrar.
 
-###### Art. 2.º Nos processos de acordo de saneamento económico-financeiro, na hipótese de as diversas instituições de crédito não conseguirem acordar entre si a forma de intervenção durante o prazo de trinta dias de que dispõe a comissão de apreciação para a elaboração do seu relatório final, o Ministro das Finanças e do Plano, ouvida esta comissão, determinará a referida intervenção, por despacho, a exarar no prazo de quinze dias.
+Art. 2.º Nos processos de acordo de saneamento económico-financeiro, na hipótese de as diversas instituições de crédito não conseguirem acordar entre si a forma de intervenção durante o prazo de trinta dias de que dispõe a comissão de apreciação para a elaboração do seu relatório final, o Ministro das Finanças e do Plano, ouvida esta comissão, determinará a referida intervenção, por despacho, a exarar no prazo de quinze dias.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1980. - Francisco Sá Carneiro - Aníbal António Cavaco Silva.
 
-**Promulgado em 12 de Março de 1980.**
+Promulgado em 12 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

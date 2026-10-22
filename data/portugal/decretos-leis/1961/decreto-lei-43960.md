@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43960-1961-183611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f321c6ba930722d04e1bf65b3de95381684b3b9aead8f4252788c119caaeeca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d13e17639f8f3b699811befe03c822afddac4013972e986b74c49a3a61b71243
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Estabelecimento Prisional
+- Guarda Prisional
+- Peniche
+- Pessoal Operário
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:35Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +104,11 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São criados na Cadeia do Forte de Peniche um lugar de electricista e um lugar de fiel de armazém, com as remunerações correspondentes respectivamente às letras S e U do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Artigo 1.º - 1. São criados na Cadeia do Forte de Peniche um lugar de electricista e um lugar de fiel de armazém, com as remunerações correspondentes respectivamente às letras S e U do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
 2. São criados no mesmo estabelecimento prisional um lugar de serventuário, com o salário diário de 44$00, e um lugar de cozinheiro, com o salário diário de 38$00.
 
-###### Art. 2.º O quadro único dos guardas da metrópole, a que se refere a alínea a) do artigo 3.º do [Decreto-Lei n.º 42537](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42537-1959-429819), de 28 de Setembro de 1959, é aumentado com as unidades seguintes:
+Art. 2.º O quadro único dos guardas da metrópole, a que se refere a alínea a) do artigo 3.º do [Decreto-Lei n.º 42537](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42537-1959-429819), de 28 de Setembro de 1959, é aumentado com as unidades seguintes:
 
 1 guarda de 1.ª classe.
 
@@ -100,14 +118,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6 guardas auxiliares.
 
-###### Art. 3.º Os encargos resultantes da execução do presente diploma serão suportados no presente ano económico pelas disponibilidades das dotações inscritas no capítulo IV, artigos 165.º, n.º 1), e 307.º, n.º 1), do actual orçamento do Ministério da Justiça.
+Art. 3.º Os encargos resultantes da execução do presente diploma serão suportados no presente ano económico pelas disponibilidades das dotações inscritas no capítulo IV, artigos 165.º, n.º 1), e 307.º, n.º 1), do actual orçamento do Ministério da Justiça.
 
-###### Art. 4.º O artigo 141.º do [Decreto-Lei n.º 26643](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26643-1936-361367), de 28 de Maio de 1936; passa a ler a redacção que se segue:
+Art. 4.º O artigo 141.º do [Decreto-Lei n.º 26643](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26643-1936-361367), de 28 de Maio de 1936; passa a ler a redacção que se segue:
 
-###### Art. 141.º O regime prisional será o dos correspondentes estabelecimentos prisionais comuns, com as adaptações impostas pela personalidade dos delinquentes e pelas especiais exigências de disciplina ou segurança de cada estabelecimento.
+Art. 141.º O regime prisional será o dos correspondentes estabelecimentos prisionais comuns, com as adaptações impostas pela personalidade dos delinquentes e pelas especiais exigências de disciplina ou segurança de cada estabelecimento.
 
 § único. É aplicável aos presos a que se refere esta secção o disposto no artigo 26.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços de Governo da República, 12 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela. - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

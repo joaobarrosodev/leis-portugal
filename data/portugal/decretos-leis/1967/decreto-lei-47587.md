@@ -48,40 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df529f371324d240f65f7178c518296e0d550b497fb95d0f4e0c02990345fc55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6038669d55310d0c5f7374757999f05043f9d18453dbd310afc089184ee0e84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Pedagogia Moderna
 relationships:
 - type: amended_by
   target: pt:dre:519418:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:254634:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:30Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ Considerando que a legislação vigente não regula as experiências pedagógica
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro da Educação Nacional pode determinar ou autorizar a realização de experiências pedagógicas em estabelecimentos de ensino público dependentes do respectivo Ministério, para além dos casos e limites em que essa realização já é possível segundo a legislação vigente.
+Artigo 1.º - 1. O Ministro da Educação Nacional pode determinar ou autorizar a realização de experiências pedagógicas em estabelecimentos de ensino público dependentes do respectivo Ministério, para além dos casos e limites em que essa realização já é possível segundo a legislação vigente.
 
 2. As experiências podem consistir, inclusivamente, no funcionamento experimental de novos tipos de estabelecimentos de ensino (escolas-piloto).
 
@@ -104,11 +111,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Na fórmula «experiências pedagógicas» consideram-se abrangidos os «ensaios de novos métodos didácticos», referidos autònomamente no artigo 9.º, n.º 1, do [Decreto-Lei n.º 41273](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41273-1957-254634), de 17 de Setembro de 1957.
 
-###### Art. 2.º O Ministro da Educação Nacional fixará em despacho, caso a caso, as regras a que devem obedecer as experiências, podendo, para isso, dentro do âmbito destas, introduzir nos regimes gerais em vigor as modificações ou adaptações que se tornem necessárias, designadamente sobre planos de estudo, programas, textos, métodos e condições de ensino, administração escolar, horários, exames e acesso aos estudos subsequentes.
+Art. 2.º O Ministro da Educação Nacional fixará em despacho, caso a caso, as regras a que devem obedecer as experiências, podendo, para isso, dentro do âmbito destas, introduzir nos regimes gerais em vigor as modificações ou adaptações que se tornem necessárias, designadamente sobre planos de estudo, programas, textos, métodos e condições de ensino, administração escolar, horários, exames e acesso aos estudos subsequentes.
 
-###### Art. 3.º O Ministro pode mandar colaborar nas experiências agentes ou auxiliares de ensino de outros estabelecimentos dependentes do Ministério da Educação Nacional, seja qual for a modalidade do seu provimento, dispensando-os total ou parcialmente das funções próprias e continuando as remunerações correspondentes ao desempenho efectivo destas a ser abonadas pelos respectivos serviços.
+Art. 3.º O Ministro pode mandar colaborar nas experiências agentes ou auxiliares de ensino de outros estabelecimentos dependentes do Ministério da Educação Nacional, seja qual for a modalidade do seu provimento, dispensando-os total ou parcialmente das funções próprias e continuando as remunerações correspondentes ao desempenho efectivo destas a ser abonadas pelos respectivos serviços.
 
-###### Art. 4.º - 1. As escolas-piloto serão criadas nos termos aplicáveis aos estabelecimentos do mesmo grau pertencentes à rede escolar, devendo no acto da criação fixar-se o prazo do seu funcionamento.
+Art. 4.º - 1. As escolas-piloto serão criadas nos termos aplicáveis aos estabelecimentos do mesmo grau pertencentes à rede escolar, devendo no acto da criação fixar-se o prazo do seu funcionamento.
 
 2. Findo esse prazo, o Ministro da Educação Nacional decidirá se a escola-piloto deve ou não integrar-se na rede escolar e, em caso afirmativo, operará a integração por simples despacho.
 
@@ -116,9 +123,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. As escolas-piloto conferem habilitações com valor oficial.
 
-###### Art. 5.º Quando assim se mostre conveniente, também poderá ser autorizada a realização de experiências pedagógicas, nos termos dos artigos 1.º e 2.º, em estabelecimento ou estabelecimentos de ensino particular que assim o solicitem e ofereçam as necessárias garantias, dispondo, nomeadamente, dos meios humanos e materiais indispensáveis para o efeito.
+Art. 5.º Quando assim se mostre conveniente, também poderá ser autorizada a realização de experiências pedagógicas, nos termos dos artigos 1.º e 2.º, em estabelecimento ou estabelecimentos de ensino particular que assim o solicitem e ofereçam as necessárias garantias, dispondo, nomeadamente, dos meios humanos e materiais indispensáveis para o efeito.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

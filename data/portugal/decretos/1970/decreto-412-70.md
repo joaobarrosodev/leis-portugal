@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/412-1970-138856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 352763c1a9e366d4b757274f7d22c82eeac8097768d41d8007944804c9cadda5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acee100347ea55ec850757525d75e9f43b48c3cf3c6ab2246b454b85c54f6f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:58Z'
   warnings: []
   errors: []
 ---
@@ -99,27 +103,27 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Das áreas de jurisdição portuária
 
-###### Artigo 1.º - 1. São criadas nas províncias ultramarinas áreas de jurisdição portuária, que abrangem toda a faixa costeira correspondente ao domínio público marítimo, os estuários dos rios e todos os portos de cada província.
+Artigo 1.º - 1. São criadas nas províncias ultramarinas áreas de jurisdição portuária, que abrangem toda a faixa costeira correspondente ao domínio público marítimo, os estuários dos rios e todos os portos de cada província.
 
 2. Nas províncias de governo-geral a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes procederá, de acordo com as directrizes fixadas pelo governo da província, ao parcelamento da área de jurisdição respectiva a atribuir a cada uma das administrações portuárias em que a província será dividida.
 
 3. Nas províncias de governo simples a área de jurisdição portuária será atribuída a uma única administração portuária.
 
-###### Art. 2.º - 1. As áreas de jurisdição portuária serão convenientemente delimitadas e definidas em plantas à escala apropriada, tanto nas províncias de governo-geral com nas de governo simples.
+Art. 2.º - 1. As áreas de jurisdição portuária serão convenientemente delimitadas e definidas em plantas à escala apropriada, tanto nas províncias de governo-geral com nas de governo simples.
 
 2. As áreas de jurisdição portuária, depois de aprovadas pelo governador da província, serão publicadas no respectivo Boletim Oficial.
 
 3. As áreas de jurisdição, a delimitar nos estuários que interessem aos portos neles instalados, serão definidas tendo em atenção os vários interesses, e, assim, em cada caso, será ouvida a entidade que superintende na província nos problemas fluviais, devendo, em Angola e Moçambique, tal delimitação ser feita depois de o assunto ser analisado e estabelecido acordo entre a Direcção dos Serviços Hidráulicos e a Direcção dos Serviços de Portos, Caminhos de ferro e Transportes.
 
-###### Art. 3.º - 1. Nas áreas da sua jurisdição as administrações portuárias superintenderão sobre todos os problemas de técnica portuária e marítima, de estuários, portos e litorais, sem prejuízo da actuação de outros serviços públicos que abranjam a mesma área, tais como judiciais, militares, da marinha, aduaneiros, sanitários e outros.
+Art. 3.º - 1. Nas áreas da sua jurisdição as administrações portuárias superintenderão sobre todos os problemas de técnica portuária e marítima, de estuários, portos e litorais, sem prejuízo da actuação de outros serviços públicos que abranjam a mesma área, tais como judiciais, militares, da marinha, aduaneiros, sanitários e outros.
 
 2. Nenhuma obra terrestre ou marítima poderá ser executada, nem aprovada, numa área de jurisdição portuária sem parecer favorável da administração portuária que superintenda na área respectiva, devendo, em caso de divergência, ser o assunto submetido à apreciação e resolução do governo da província.
 
-###### Art. 4.º As áreas de jurisdição portuária serão revistas sempre que as circunstâncias o exijam, fazendo-se nova publicação no Boletim Oficial da respectiva província, com as alterações introduzidas, depois de aprovadas pelo governador da província.
+Art. 4.º As áreas de jurisdição portuária serão revistas sempre que as circunstâncias o exijam, fazendo-se nova publicação no Boletim Oficial da respectiva província, com as alterações introduzidas, depois de aprovadas pelo governador da província.
 
 Das zonas portuárias
 
-###### Art. 5.º - 1. Dentro da área de jurisdição de cada administração portuária serão definidos, para os vários portos que na mesma se incluam, os limites das respectivas zonas portuárias, cuja publicação será feita no Boletim Oficial, após aprovação do governador da província.
+Art. 5.º - 1. Dentro da área de jurisdição de cada administração portuária serão definidos, para os vários portos que na mesma se incluam, os limites das respectivas zonas portuárias, cuja publicação será feita no Boletim Oficial, após aprovação do governador da província.
 
 2. As zonas portuárias compreenderão a zona de exploração e a zona de expansão.
 
@@ -127,23 +131,23 @@ Das zonas portuárias
 
 4. A zona de expansão constituirá uma área de reserva, destinada a ocorrer às necessidades de desenvolvimento do porto previsíveis a longo prazo (até trinta anos).
 
-###### Art. 6.º - 1. As administrações portuárias elaborarão para cada porto, de acordo com a sua importância relativa e com base nas suas perspectivas de desenvolvimento a longo prazo, os respectivos planos gerais, que deverão conter o zonamento das várias actividades, a distribuição das instalações marítimas e terrestres, o arranjo dos terraplenos e a distribuição dos acessos, sendo esses planos traçados em plantas de escala conveniente.
+Art. 6.º - 1. As administrações portuárias elaborarão para cada porto, de acordo com a sua importância relativa e com base nas suas perspectivas de desenvolvimento a longo prazo, os respectivos planos gerais, que deverão conter o zonamento das várias actividades, a distribuição das instalações marítimas e terrestres, o arranjo dos terraplenos e a distribuição dos acessos, sendo esses planos traçados em plantas de escala conveniente.
 
 2. Os planos gerais dos portos, depois de aprovados pelo Ministro do Ultramar, serão publicados no Diário do Governo e no Boletim Oficial da respectiva província.
 
 3. Os planos gerais e, se necessário, os limites das zonas portuárias em que eles se inserem serão revistos de dez em dez anos ou sempre que as circunstâncias o exijam, fazendo-se nova publicação no Diário do Governo e no Boletim Oficial da respectiva província, com as alterações introduzidas, depois de aprovadas pelo Ministro do Ultramar.
 
-###### Art. 7.º - 1. As zonas portuárias abrangerão todos os terrenos necessários à exploração e expansão portuárias, quer sejam do domínio público, quer do privado, e, neste caso, quer sejam de entidades públicas, quer de particulares -
+Art. 7.º - 1. As zonas portuárias abrangerão todos os terrenos necessários à exploração e expansão portuárias, quer sejam do domínio público, quer do privado, e, neste caso, quer sejam de entidades públicas, quer de particulares -
 
 2. A inclusão nas zonas portuárias de terrenos de domínio privado, de autarquias locais ou de particulares não prejudica os direitos das entidades proprietárias à sua utilização, com as limitações deste diploma, nem às indemnizações legais, em caso de expropriação.
 
-###### Art. 8.º É interdita a instalação e o exercício, nas zonas portuárias, de actividades privadas diferentes das que regularmente forem consideradas adstritas à função económica dos portos.
+Art. 8.º É interdita a instalação e o exercício, nas zonas portuárias, de actividades privadas diferentes das que regularmente forem consideradas adstritas à função económica dos portos.
 
-###### Art. 9.º - 1. Entendem-se como reservados desde a publicação do diploma que aprove os planos gerais todos os terrenos vagos que façam parte das respectivas zonas portuárias.
+Art. 9.º - 1. Entendem-se como reservados desde a publicação do diploma que aprove os planos gerais todos os terrenos vagos que façam parte das respectivas zonas portuárias.
 
 2. Consideram-se transferidos para o domínio público afecto às administrações portuárias, também a partir da mesma publicação, os terrenos do domínio público do Estado ou autarquias locais que estejam incluídos nas zonas portuárias.
 
-###### Art. 10.º - 1. A jurisdição das administrações portuárias exerce-se sem prejuízo da de outros serviços públicos que abranjam a mesma área, competindo-lhes, porém, exclusivamente:
+Art. 10.º - 1. A jurisdição das administrações portuárias exerce-se sem prejuízo da de outros serviços públicos que abranjam a mesma área, competindo-lhes, porém, exclusivamente:
 
 a) Regular os serviços públicos de abastecimento nas zonas de exploração dos portos, embora estes serviços continuem sujeitos às condições técnicas definidas na legislação geral aplicável;
 
@@ -159,13 +163,13 @@ e) De uma maneira geral, superintender em todos os serviços relativos à explor
 
 Dos processos de licenciamento
 
-###### Art. 11.º As administrações portuárias deverão dar prévio conhecimento aos serviços de marinha e às autoridades sanitárias dos processos de licenciamento de construção de obras terrestres ou marítimas, relacionadas ou não com o tráfego, a conceder ou autorizar uma área de jurisdição do porto, sem embargo de lhes cumprir ter em conta os interesses das fiscalizações sanitária, aduaneira e marítima e de estarem sujeitas às prescrições que regulam, na matéria, o exercício da jurisdição dessas autoridades, competindo ao governo da província a apreciação e resolução do assunto em caso de divergência.
+Art. 11.º As administrações portuárias deverão dar prévio conhecimento aos serviços de marinha e às autoridades sanitárias dos processos de licenciamento de construção de obras terrestres ou marítimas, relacionadas ou não com o tráfego, a conceder ou autorizar uma área de jurisdição do porto, sem embargo de lhes cumprir ter em conta os interesses das fiscalizações sanitária, aduaneira e marítima e de estarem sujeitas às prescrições que regulam, na matéria, o exercício da jurisdição dessas autoridades, competindo ao governo da província a apreciação e resolução do assunto em caso de divergência.
 
-###### Art. 12.º - 1. As licenças de ocupação passadas ao abrigo da alínea d) do n.º 1 do artigo 10.º serão sempre a título precário.
+Art. 12.º - 1. As licenças de ocupação passadas ao abrigo da alínea d) do n.º 1 do artigo 10.º serão sempre a título precário.
 
 2. A cessação da ocupação antes dos prazos previstos na licença só poderá, no entanto, ser determinada por violação das condições da licença ou por absoluta necessidade do terreno para a exploração do porto, dando neste último caso ao ocupante o direito de ser indemnizado pelas benfeitorias que não puder ou não for autorizado a levantar.
 
-###### Art. 13.º Das condições da licença de ocupação deverão obrigatoriamente constar:
+Art. 13.º Das condições da licença de ocupação deverão obrigatoriamente constar:
 
 a) O objecto da licença;
 
@@ -185,15 +189,15 @@ h) O regime de taxas a aplicar.
 
 Disposições finais
 
-###### Art. 14.º Enquanto não forem aprovadas as áreas de jurisdição das várias administrações portuárias e os planos gerais de cada porto, consideram-se como zonas portuárias os terrenos para o efeito já reservados pela legislação em vigor.
+Art. 14.º Enquanto não forem aprovadas as áreas de jurisdição das várias administrações portuárias e os planos gerais de cada porto, consideram-se como zonas portuárias os terrenos para o efeito já reservados pela legislação em vigor.
 
-###### Art. 15.º Em todos os casos omissos observar-se-á, na medida aplicável, o disposto nas leis e regulamentos sobre recintos portuários e ferroviários.
+Art. 15.º Em todos os casos omissos observar-se-á, na medida aplicável, o disposto nas leis e regulamentos sobre recintos portuários e ferroviários.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 8 de Agosto de 1970.**
+Promulgado em 8 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

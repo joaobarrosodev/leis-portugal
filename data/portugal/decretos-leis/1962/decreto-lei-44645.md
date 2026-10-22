@@ -48,40 +48,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b93881664036b664ac66875ee9822958d895d6cc016dbf69a1ed4df3366e80e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd730556d36b6e6b1acf1b7b9a0f2d3b492b094bc18869c9d41b5df1f1dedb60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Aquisição de Imóveis
+- Auto-construção
+- Câmara Municipal
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Contribuição Predial
+- Habitação
+- Habitação Social
+- Isenção Fiscal
+- Junta de Freguesia
 relationships:
 - type: amended_by
   target: pt:dre:619336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488174:por
+  label: "Alterado o § 2º do art. 6º do presente diploma, pelo DEC LEI.46869.11.02.1966.MI, DG.IS [35] de 11.02.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46869-1966-488174
+  date: '1966-02-11'
+- type: amended_by
+  target: pt:dre:141399:por
+  label: "Alterados o art. 1º, assim como os prazos referidos no §1º do art. 6º e do art. 7º pelo DEC LEI.53/77.16.02.1977.MHUC,\
+    \ DR.IS [39] de 16.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1977-141399
+  date: '1977-02-16'
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615631:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:44Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +145,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam as câmaras municipais e as juntas de freguesia autorizadas a vender a chefes de família que se encontrem em qualquer das situações previstas no artigo 256.º do Código Administrativo, independentemente de hasta pública, lotes de terreno de que disponham ou que adquiram para esse efeito, com destino à construção da sua própria habitação.
+Artigo 1.º Ficam as câmaras municipais e as juntas de freguesia autorizadas a vender a chefes de família que se encontrem em qualquer das situações previstas no artigo 256.º do Código Administrativo, independentemente de hasta pública, lotes de terreno de que disponham ou que adquiram para esse efeito, com destino à construção da sua própria habitação.
 
 § 1.º Na atribuição dos terrenos observar-se-ão as normas estabelecidas nos artigos 2.º a 4.º do [Decreto n.º 35106](https://diariodarepublica.pt/dr/detalhe/decreto/35106-1945-465634), de 6 de Novembro de 1945, sendo de 60 dias, porém, o prazo para a apresentação dos requerimentos dos interessados.
 
@@ -108,7 +153,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A reversão opera-se por declaração judicial, para a qual são competentes os tribunais comuns.
 
-###### Art. 2.º Das condições da venda de terrenos nos termos do presente diploma deverão constar:
+Art. 2.º Das condições da venda de terrenos nos termos do presente diploma deverão constar:
 
 a) A identificação do terreno a alienar e as características gerais da habitação a construir;
 
@@ -122,17 +167,17 @@ e) A obrigatoriedade de construção dentro do prazo fixado no § 2.º do artigo
 
 f) As restrições à livre usufruição da casa a construir, impostas nos artigos 7.º e 8.º
 
-###### Art. 3.º Sempre que os terrenos a alienar ao abrigo deste diploma se situem em sede do concelho ou em outra zona sujeita a plano de urbanização e expansão, não poderá proceder-se à sua venda antes de a Direcção-Geral dos Serviços de Urbanização se pronunciar favoràvelmente quanto à aplicação que se lhes pretende dar, salvo se esta estiver prevista em plano devidamente aprovado.
+Art. 3.º Sempre que os terrenos a alienar ao abrigo deste diploma se situem em sede do concelho ou em outra zona sujeita a plano de urbanização e expansão, não poderá proceder-se à sua venda antes de a Direcção-Geral dos Serviços de Urbanização se pronunciar favoràvelmente quanto à aplicação que se lhes pretende dar, salvo se esta estiver prevista em plano devidamente aprovado.
 
 § 1.º O disposto neste artigo é igualmente aplicável a todos os casos de que resulte a constituição de novos núcleos habitacionais, devendo, nesses casos, o processo a submeter à apreciação da Direcção-Geral dos Serviços de Urbanização incluir o respectivo plano urbanístico.
 
 § 2.º Quando a Direcção-Geral não tenha manifestado a sua oposição dentro dos 60 dias posteriores àquele em que for recebida a respectiva petição, instruída com planta dos terrenos, entender-se-á que concede o seu acordo.
 
-###### Art. 4.º É também permitido às câmaras municipais e às juntas de freguesia conceder o direito de superfície segundo o regime prescrito nos artigos anteriores, adoptando-se, em tudo quanto não estiver ali previsto, o disposto na lei geral.
+Art. 4.º É também permitido às câmaras municipais e às juntas de freguesia conceder o direito de superfície segundo o regime prescrito nos artigos anteriores, adoptando-se, em tudo quanto não estiver ali previsto, o disposto na lei geral.
 
-###### Art. 5.º Para a construção de casas ao abrigo deste diploma poderão as câmaras municipais e, a pedido destas, o Ministério das Obras Públicas, conceder assistência técnica, incluindo o fornecimento de projectos-tipo das habitações.
+Art. 5.º Para a construção de casas ao abrigo deste diploma poderão as câmaras municipais e, a pedido destas, o Ministério das Obras Públicas, conceder assistência técnica, incluindo o fornecimento de projectos-tipo das habitações.
 
-###### Art. 6.º Ficam as câmaras municipais e o Ministério das Obras Públicas, dentro das disponibilidades do Fundo de Desemprego e das dotações especiais que forem para esse fim inscritas no Orçamento Geral do Estado, autorizados a conceder aos beneficiários do regime deste diploma subsídios reembolsáveis até à importância global de 1/4 do custo das casas a construir, segundo os projectos aprovados, incluindo o preço do terreno.
+Art. 6.º Ficam as câmaras municipais e o Ministério das Obras Públicas, dentro das disponibilidades do Fundo de Desemprego e das dotações especiais que forem para esse fim inscritas no Orçamento Geral do Estado, autorizados a conceder aos beneficiários do regime deste diploma subsídios reembolsáveis até à importância global de 1/4 do custo das casas a construir, segundo os projectos aprovados, incluindo o preço do terreno.
 
 § 1.º O reembolso será efectuado no período máximo de dez anos, a partir do termo do prazo fixado para a construção das casas, mediante prestações mensais, sem incidência de juro.
 
@@ -142,13 +187,13 @@ f) As restrições à livre usufruição da casa a construir, impostas nos artig
 
 § 4.º Os créditos provenientes dos subsídios gozam de privilégio imobiliário, com preferência a quaisquer outros.
 
-###### Art. 7.º São nulas e de nenhum efeito as vendas, as trocas e os correspondentes contratos-promessa que tenham por objecto terrenos adquiridos ou casas construídas nos termos deste diploma, celebrados dentro dos dez anos posteriores à data em que as casas forem consideradas em condições de habitabilidade.
+Art. 7.º São nulas e de nenhum efeito as vendas, as trocas e os correspondentes contratos-promessa que tenham por objecto terrenos adquiridos ou casas construídas nos termos deste diploma, celebrados dentro dos dez anos posteriores à data em que as casas forem consideradas em condições de habitabilidade.
 
-###### Art. 8.º São também nulos e de nenhum efeito os contratos de arrendamento das casas construídas segundo o regime deste diploma quando celebrados antes de findo o período mencionado no artigo anterior.
+Art. 8.º São também nulos e de nenhum efeito os contratos de arrendamento das casas construídas segundo o regime deste diploma quando celebrados antes de findo o período mencionado no artigo anterior.
 
 § único. Exceptuam-se os casos em que o arrendamento tenha sido expressamente consentido pela câmara municipal, atendendo a circunstâncias especiais. A autorização será condicionada nos termos que se julguem convenientes, designadamente no que respeita à renda, em cuja fixação se levará em conta o benefício concedido ao proprietário pelo Estado e pelo corpo administrativo.
 
-###### Art. 9.º São punidos como especulação:
+Art. 9.º São punidos como especulação:
 
 a) A cedência da ocupação de terrenos adquiridos ou de casas construídas ao abrigo deste diploma, por qualquer acordo que tenha por fim infringir as proibições estabelecidas nos artigos 7.º e 8.º;
 
@@ -156,13 +201,13 @@ b) O recebimento de renda superior à fixada pela câmara municipal nos arrendam
 
 § único. A pena complementar de multa será graduada entre o dobro e o décuplo das quantias ilegìtimamente recebidas.
 
-###### Art. 10.º Em conformidade com o disposto no artigo 3.º do [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, o corpo do artigo 14.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, que aquele diploma aprovou, passa a ter a redacção seguinte:
+Art. 10.º Em conformidade com o disposto no artigo 3.º do [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, o corpo do artigo 14.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, que aquele diploma aprovou, passa a ter a redacção seguinte:
 
-###### Art. 14.º As isenções previstas nos n.os 8.º e 9.º do artigo 11.º não prejudicam a liquidação e pagamento da sisa, nos termos gerais, salvo se o terreno se destinar à construção de casas de renda económica ou para alojamentos de famílias carecidas de recursos, respectivamente nos termos da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e do Decreto-Lei n.º 44645, de 25 de Outubro de 1962, bem como se o adquirente for instituição de previdência social, Casa do Povo, Casa dos Pescadores, e suas federações, a Junta Central das Casas dos Pescadores, ou cooperativa de construção com estatutos aprovados pelo Ministro das Finanças.
+Art. 14.º As isenções previstas nos n.os 8.º e 9.º do artigo 11.º não prejudicam a liquidação e pagamento da sisa, nos termos gerais, salvo se o terreno se destinar à construção de casas de renda económica ou para alojamentos de famílias carecidas de recursos, respectivamente nos termos da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, e do Decreto-Lei n.º 44645, de 25 de Outubro de 1962, bem como se o adquirente for instituição de previdência social, Casa do Povo, Casa dos Pescadores, e suas federações, a Junta Central das Casas dos Pescadores, ou cooperativa de construção com estatutos aprovados pelo Ministro das Finanças.
 
 Cem excepção das habitações construídas ao abrigo da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, do Decreto-Lei n.º 44645, de 25 de Outubro de 1962, e das destinadas a pescadores, a isenção só será reconhecida se o prédio estiver concluído e considerado apto para habitação dentro de dois anos a contar da aquisição do terreno, ou da constituição do direito da superfície, e se o rendimento colectável do prédio ou da parte destinada a habitação ficar temporàriamente isento de contribuição predial.
 
-###### Art. 11.º As casas construídas ao abrigo deste diploma gozam de isenção de contribuição predial pelo período de quinze anos, a contar da data a que se refere o artigo 7.º
+Art. 11.º As casas construídas ao abrigo deste diploma gozam de isenção de contribuição predial pelo período de quinze anos, a contar da data a que se refere o artigo 7.º
 
 São também isentas de taxa ou de quaisquer outros encargos ou imposições, incluindo o selo, as licenças para construção, as vistorias e as licenças para habitação respeitantes às mesmas casas.
 
@@ -172,12 +217,12 @@ São também isentas de taxa ou de quaisquer outros encargos ou imposições, in
 
 § 3.º Os benefícios previstos na segunda parte deste artigo, com excepção do imposto do selo, serão concedidos pela câmara municipal mediante pedido formulado em papel comum, de formato legal. A isenção do imposto do selo será consequência do deferimento do pedido, na parte que compete à apreciação da câmara municipal.
 
-###### Art. 12.º A requerimento dos interessados e mediante informação favorável do presidente da câmara municipal, poderá o Ministro das Obras Públicas, quando a situação económica dos requerentes e o tipo das casas a construir o justifique, tornar extensivas as disposições dos artigos 5.º a 8.º deste diploma às casas que se pretenda edificar em terrenos que não sejam adquiridos nos termos do artigo 1.º
+Art. 12.º A requerimento dos interessados e mediante informação favorável do presidente da câmara municipal, poderá o Ministro das Obras Públicas, quando a situação económica dos requerentes e o tipo das casas a construir o justifique, tornar extensivas as disposições dos artigos 5.º a 8.º deste diploma às casas que se pretenda edificar em terrenos que não sejam adquiridos nos termos do artigo 1.º
 
 § único. A extensão prevista no corpo deste artigo implica o benefício das isenções concedidas no artigo anterior, devendo, para esse efeito, os requerimentos previstos nos §§ 1.º e 3.º do mesmo preceito ser instruídos com certidão ou fotocópia do despacho do Ministro das Obras Públicas que tiver decidido tal extensão.
 
-###### Art. 13.º A dispensa de hasta pública, prevista no corpo do artigo 1.º, e o disposto nos §§ 2.º e 3.º do mesmo artigo e no artigo 3.º e seus parágrafos aplicam-se às casas a construir nos termos da alínea c) do n.º 2 e da parte final do n.º 4 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.
+Art. 13.º A dispensa de hasta pública, prevista no corpo do artigo 1.º, e o disposto nos §§ 2.º e 3.º do mesmo artigo e no artigo 3.º e seus parágrafos aplicam-se às casas a construir nos termos da alínea c) do n.º 2 e da parte final do n.º 4 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

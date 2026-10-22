@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15800/16801684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1981-580160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65dda08dbb11dcc08905f0b7ef3bcb9e53e640bc64fcded6e4a26f8d7552e935
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcd8bb2cd283c9b1a1c3cbad3c7d1305d26721892497fa3bcee8f23aafa55b26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Comissão Consultiva
+- Conselho Administrativo
+- Definição de Competências
+- Diretor
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Teatro Nacional de DONA Maria II
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308275:por
+  label: "Alterado o quadro de pessoal pela PORT.48/83.1983.01.17.MFP DR.IS [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/48-1983-308275
+  date: '1983-01-17'
+- type: amended_by
+  target: pt:dre:373413:por
+  label: "Alterado o art. 19º pelo DEC LEI.231/88.05.07.1988.PCM, DR.IS [153] de 05.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1988-373413
+  date: '1988-07-05'
+- type: amended_by
+  target: pt:dre:564998:por
+  label: "Alterados os arts. 4º, 7º, 19º e 20º e o quadro de pessoal pelo DEC LEI.378/90.03.12.1990.MF, DR.IS [278] de 03.12.1990\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/378-1990-564998
+  date: '1990-12-03'
+- type: cites
+  target: pt:dre:279586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:531395:por
+  label: "Revogado pelo DEC LEI.7/94.1994.01.12.PCM, DR.IS-A [9], com excepção dos arts. 13º, 28º e 41º, que se mantem em\
+    \ vigor com as necessárias adaptações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1994-531395
+  date: '1994-01-12'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:40Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +146,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Teatro Nacional de D. Maria II, adiante designado por Teatro Nacional, é uma pessoa colectiva de direito público, dotada de autonomia administrativa, prosseguindo fins de índole cultural.
+Artigo 1.º O Teatro Nacional de D. Maria II, adiante designado por Teatro Nacional, é uma pessoa colectiva de direito público, dotada de autonomia administrativa, prosseguindo fins de índole cultural.
 
-###### Art. 2.º São atribuições do Teatro Nacional:
+Art. 2.º São atribuições do Teatro Nacional:
 
 a) Defender e difundir a cultura teatral portuguesa, na salvaguarda e expansão da língua pátria e na preservação do património artístico, bem como formar e estimular novas gerações de dramaturgos, actores, encenadores, decoradores e técnicos de teatro;
 
@@ -126,7 +166,7 @@ f) Apresentar as obras teatrais mais relevantes do património universal, cláss
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 3.º O Teatro Nacional dispõe dos seguintes órgãos:
+Art. 3.º O Teatro Nacional dispõe dos seguintes órgãos:
 
 a) Director;
 
@@ -134,7 +174,7 @@ b) Comissão consultiva;
 
 c) Conselho administrativo.
 
-###### Art. 4.º - 1 - Compete ao director:
+Art. 4.º - 1 - Compete ao director:
 
 a) Elaborar os planos de actividade do Teatro Nacional e fixar a programação de cada temporada, ouvida a comissão consultiva;
 
@@ -150,13 +190,13 @@ e) Presidir ao conselho administrativo e à comissão consultiva.
 
 3 - O director e o subdirector são, para todos os efeitos, equiparados, respectivamente, a director-geral e a subdirector-geral.
 
-###### Art. 5.º - 1 - A comissão consultiva é constituída pelo director, por um representante da Secretaria de Estado da Cultura, por um actor eleito em escrutínio secreto pelo elenco artístico do Teatro Nacional e por dois vogais nomeados, sob proposta do director, pelo membro do Governo responsável pelo sector da cultura de entre individualidades de reconhecido mérito ligadas à actividade cultural ou teatral.
+Art. 5.º - 1 - A comissão consultiva é constituída pelo director, por um representante da Secretaria de Estado da Cultura, por um actor eleito em escrutínio secreto pelo elenco artístico do Teatro Nacional e por dois vogais nomeados, sob proposta do director, pelo membro do Governo responsável pelo sector da cultura de entre individualidades de reconhecido mérito ligadas à actividade cultural ou teatral.
 
 2 - Os membros da comissão consultiva que não forem funcionários públicos têm direito a uma gratificação a fixar por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pelo sector da cultura.
 
 3 - A nomeação dos membros da comissão consultiva que não sejam membros natos será feita pelo prazo de dois anos, renováveis.
 
-###### Art. 6.º - 1 - Compete à comissão consultiva:
+Art. 6.º - 1 - Compete à comissão consultiva:
 
 a) Emitir parecer sobre a programação e os planos de actividade do Teatro Nacional;
 
@@ -166,9 +206,9 @@ c) Pronunciar-se sobre quaisquer assuntos que lhe sejam submetidos pelo director
 
 2 - A comissão consultiva reunirá ordinariamente antes do início e no termo da temporada e, extraordinariamente, sempre que seja convocado pelo director.
 
-###### Art. 7.º O conselho administrativo é constituído pelo director e pelo administrador do Teatro Nacional e por um vogal designado pelo membro do Governo responsável pelo sector da cultura.
+Art. 7.º O conselho administrativo é constituído pelo director e pelo administrador do Teatro Nacional e por um vogal designado pelo membro do Governo responsável pelo sector da cultura.
 
-###### Art. 8.º Compete ao conselho administrativo:
+Art. 8.º Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento do Teatro Nacional com base nas dotações consignadas no Orçamento Geral do Estado e propor as alterações orçamentais consideradas necessárias;
 
@@ -186,7 +226,7 @@ g) Prestar anualmente contas da sua gerência ao Tribunal de Contas.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 9.º O Teatro Nacional compreende os seguintes serviços:
+Art. 9.º O Teatro Nacional compreende os seguintes serviços:
 
 a) Serviços artísticos;
 
@@ -198,11 +238,11 @@ d) Biblioteca de teatro;
 
 e) Gabinete de informação e relações públicas.
 
-###### Art. 10.º Aos serviços artísticos incumbe a criação, coordenação e representação de espectáculos e o apoio às demais actividades exercidas pelo Teatro Nacional.
+Art. 10.º Aos serviços artísticos incumbe a criação, coordenação e representação de espectáculos e o apoio às demais actividades exercidas pelo Teatro Nacional.
 
-###### Art. 11.º Os serviços artísticos compreendem o elenco da Companhia do Teatro Nacional, o encenador, autor musical, cenógrafo, figurinistas e outros colaboradores, cujas atribuições serão fixadas no regulamento interno do Teatro Nacional, a aprovar por despacho do membro do Governo responsável pelo sector da cultura.
+Art. 11.º Os serviços artísticos compreendem o elenco da Companhia do Teatro Nacional, o encenador, autor musical, cenógrafo, figurinistas e outros colaboradores, cujas atribuições serão fixadas no regulamento interno do Teatro Nacional, a aprovar por despacho do membro do Governo responsável pelo sector da cultura.
 
-###### Art. 12.º - 1 - Os actores que constituem o elenco artístico do Teatro Nacional têm o dever de lhe dedicar todo o seu valor e probidade e respeitar a distribuição, estudo e representação dos papéis que lhes forem atribuídos.
+Art. 12.º - 1 - Os actores que constituem o elenco artístico do Teatro Nacional têm o dever de lhe dedicar todo o seu valor e probidade e respeitar a distribuição, estudo e representação dos papéis que lhes forem atribuídos.
 
 2 - Sem prejuízo dos trabalhos do Teatro Nacional, e mediante prévia autorização escrita do director, os actores podem eventualmente tomar parte em filmes, gravações de rádio ou televisão, mas não poderão actuar em espectáculos alheios ao Teatro Nacional, salvo o disposto nos números seguintes ou os casos especiais previstos no regulamento interno.
 
@@ -212,25 +252,25 @@ e) Gabinete de informação e relações públicas.
 
 5 - Nos casos previstos nos n.os 3 e 4, os artistas terão de optar entre as remunerações auferidas no Teatro Nacional e as que lhe forem oferecidas pelas companhias ou grupos em que vão actuar.
 
-###### Art. 13.º - 1 - A direcção dos ensaios e dos espectáculos está a cargo do encenador, escolhido pelo director do Teatro Nacional para cada uma das peças a levar à cena.
+Art. 13.º - 1 - A direcção dos ensaios e dos espectáculos está a cargo do encenador, escolhido pelo director do Teatro Nacional para cada uma das peças a levar à cena.
 
 2 - O encenador dispõe de total independência artística e escolhe o elenco artístico e todos os seus colaboradores, nomeadamente o figurinista, cenógrafo e autor musical, sendo as respectivas remunerações e outras condições fixadas de comum acordo com o director do Teatro Nacional.
 
-###### Art. 14.º Aos serviços técnicos incumbe a produção e montagem de espectáculos teatrais, a organização e realização dos ensaios, a coordenação e fiscalização dos trabalhos de palco e sala de ensaios, competindo-lhes ainda apoiar as demais actividades e funções exercidas pelo Teatro Nacional.
+Art. 14.º Aos serviços técnicos incumbe a produção e montagem de espectáculos teatrais, a organização e realização dos ensaios, a coordenação e fiscalização dos trabalhos de palco e sala de ensaios, competindo-lhes ainda apoiar as demais actividades e funções exercidas pelo Teatro Nacional.
 
-###### Art. 15.º - 1 - Os serviços técnicos compreendem a direcção de produção e a direcção de cena.
+Art. 15.º - 1 - Os serviços técnicos compreendem a direcção de produção e a direcção de cena.
 
 2 - A direcção de produção integra os sectores de marcenaria e carpintaria, luminotécnica, sonoplastia, cenografia, guarda-roupa e adereços.
 
 3 - A direcção de cena abrange os sectores de operação de espectáculos, nomeadamente mecânica e electrónica de cena, luz, som, contra-regra, ponto e auxiliares de camarim, palco e varanda.
 
-###### Art. 16.º - 1 - Os serviços da direcção de produção são chefiados pelo director de produção, que assegura a montagem dos espectáculos, segundo as indicações do encenador e seus colaboradores.
+Art. 16.º - 1 - Os serviços da direcção de produção são chefiados pelo director de produção, que assegura a montagem dos espectáculos, segundo as indicações do encenador e seus colaboradores.
 
 2 - Os serviços da direcção de cena são chefiados pelo director de cena, que assegura a disciplina e coordenação dos trabalhos de palco e sala de ensaios, a fiscalização das representações, a organização dos ensaios, a direcção dos remontes e a elaboração das tabelas de serviços diárias.
 
-###### Art. 17.º A definição da estrutura e atribuição dos serviços técnicos, bem como a hierarquização do respectivo pessoal, serão fixadas no regulamento interno do Teatro Nacional.
+Art. 17.º A definição da estrutura e atribuição dos serviços técnicos, bem como a hierarquização do respectivo pessoal, serão fixadas no regulamento interno do Teatro Nacional.
 
-###### Art. 18.º Aos serviços administrativos e financeiros compete:
+Art. 18.º Aos serviços administrativos e financeiros compete:
 
 a) A administração de pessoal;
 
@@ -248,13 +288,13 @@ g) A organização dos serviços de expediente geral e arquivo;
 
 h) Assegurar, no âmbito das suas atribuições, todo o apoio necessário ao funcionamento dos restantes serviços do Teatro Nacional.
 
-###### Art. 19.º Os serviços administrativos e financeiros são dirigidos pelo administrador do Teatro Nacional e compreendem uma repartição de contabilidade e finanças e uma repartição de administração geral.
+Art. 19.º Os serviços administrativos e financeiros são dirigidos pelo administrador do Teatro Nacional e compreendem uma repartição de contabilidade e finanças e uma repartição de administração geral.
 
-###### Art. 20.º - 1 - Compete ao administrador, de acordo com a orientação do director, assegurar o funcionamento dos serviços administrativos e financeiros e da biblioteca, dirigir o respectivo pessoal e dar execução às deliberações do conselho administrativo.
+Art. 20.º - 1 - Compete ao administrador, de acordo com a orientação do director, assegurar o funcionamento dos serviços administrativos e financeiros e da biblioteca, dirigir o respectivo pessoal e dar execução às deliberações do conselho administrativo.
 
 2 - Compete ainda ao administrador, em colaboração com o director de produção e o director de cena, superintender na organização e funcionamento dos serviços técnicos, em tudo o que respeite a assuntos de natureza administrativa e financeira.
 
-###### Art. 21.º Compete à repartição de contabilidade e finanças:
+Art. 21.º Compete à repartição de contabilidade e finanças:
 
 a) Elaborar as propostas de orçamento para cada ano económico e as respectivas alterações;
 
@@ -272,7 +312,7 @@ g) Proceder à inventariação dos bens do Teatro Nacional e sua permanente actu
 
 h) Promover a armazenagem e conservação de todos os materiais adquiridos e de retorno de cena, nomeadamente adereços, cenários e guarda-roupa.
 
-###### Art. 22.º A repartição de contabilidade e finanças compreende:
+Art. 22.º A repartição de contabilidade e finanças compreende:
 
 a) Secção de contabilidade, a que competem as funções previstas nas alíneas a), b) e c) do artigo anterior;
 
@@ -282,7 +322,7 @@ c) Secção de património e aprovisionamento, a que competem as funções previ
 
 d) Bilheteira, a que compete proceder à venda de bilhetes dos espectáculos, elaborar as folhas diárias e entregar na tesouraria as respectivas receitas.
 
-###### Art. 23.º Compete à repartição de administração geral:
+Art. 23.º Compete à repartição de administração geral:
 
 a) Assegurar a execução de todos os actos relativos à situação do pessoal do Teatro Nacional e organizar os respectivos processos individuais;
 
@@ -296,7 +336,7 @@ e) Assegurar o expediente e respectivo arquivo;
 
 f) Organizar e superintender nos serviços auxiliares de sala e na conservação e limpeza das instalações.
 
-###### Art. 24.º A repartição de administração geral compreende:
+Art. 24.º A repartição de administração geral compreende:
 
 a) Secção de pessoal, a que competem as funções previstas nas alíneas a) e b) do artigo anterior;
 
@@ -304,11 +344,11 @@ b) Secção de expediente geral e arquivo, a que competem as funções previstas
 
 c) Serviços auxiliares de sala, a que compete assegurar a conveniente organização, disciplina e boa apresentação dos porteiros, arrumadores e restante pessoal de sala.
 
-###### Art. 25.º - 1 - A biblioteca de teatro constitui um serviço de apoio geral, aberto a todos os colaboradores do Teatro Nacional e ao público interessado.
+Art. 25.º - 1 - A biblioteca de teatro constitui um serviço de apoio geral, aberto a todos os colaboradores do Teatro Nacional e ao público interessado.
 
 2 - A utilização da biblioteca será objecto de regulamentação interna, a fixar pelo director do Teatro Nacional.
 
-###### Art. 26.º - 1 - Ao gabinete de informação e relações públicas incumbe:
+Art. 26.º - 1 - Ao gabinete de informação e relações públicas incumbe:
 
 a) Preparar e executar as acções de informação do público e dos meios de comunicação social sobre as actividades do Teatro Nacional;
 
@@ -322,7 +362,7 @@ e) Apoiar as actividades de difusão e animação cultural promovidas pelo Teatr
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 27.º - 1 - Constituem receitas do Teatro Nacional:
+Art. 27.º - 1 - Constituem receitas do Teatro Nacional:
 
 a) Os subsídios, comparticipações e liberalidades que lhe sejam concedidos;
 
@@ -340,58 +380,58 @@ f) Quaisquer outras receitas não proibidas por lei.
 
 ### CAPÍTULO IV — Regime de pessoal
 
-###### Art. 28.º - 1 - O pessoal artístico e técnico especializado de teatro, bem como o pessoal de bilheteira, dos serviços auxiliares de sala e dos camarins, será admitido em regime de contrato de trabalho, mediante despacho do membro do Governo responsável pelo sector da cultura.
+Art. 28.º - 1 - O pessoal artístico e técnico especializado de teatro, bem como o pessoal de bilheteira, dos serviços auxiliares de sala e dos camarins, será admitido em regime de contrato de trabalho, mediante despacho do membro do Governo responsável pelo sector da cultura.
 
 2 - O pessoal a que se refere o número anterior beneficia do regime geral da Previdência e não fica abrangido pelo Estatuto da Função Pública.
 
-###### Art. 29.º O Teatro Nacional é dotado do quadro de pessoal, sujeito ao regime da função pública, constante do mapa anexo ao presente diploma.
+Art. 29.º O Teatro Nacional é dotado do quadro de pessoal, sujeito ao regime da função pública, constante do mapa anexo ao presente diploma.
 
-###### Art. 30.º O preenchimento dos lugares do quadro será feito mediante despacho do membro do Governo responsável pelo sector da cultura, de acordo com as normas estabelecidas na lei geral e nos artigos seguintes.
+Art. 30.º O preenchimento dos lugares do quadro será feito mediante despacho do membro do Governo responsável pelo sector da cultura, de acordo com as normas estabelecidas na lei geral e nos artigos seguintes.
 
-###### Art. 31.º O lugar de administrador será provido em comissão de serviço, por tempo indeterminado, de entre indivíduos de reconhecida competência.
+Art. 31.º O lugar de administrador será provido em comissão de serviço, por tempo indeterminado, de entre indivíduos de reconhecida competência.
 
-###### Art. 32.º O lugar de chefe de repartição será provido de entre chefes de secção com mais de três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior.
+Art. 32.º O lugar de chefe de repartição será provido de entre chefes de secção com mais de três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior.
 
-###### Art. 33.º O lugar de chefe de secção será provido de entre primeiros-oficiais ou técnicos auxiliares principais com mais de três anos de bom e efectivo serviço na categoria que tenham manifestado capacidade para o exercício de funções de coordenação e de chefia.
+Art. 33.º O lugar de chefe de secção será provido de entre primeiros-oficiais ou técnicos auxiliares principais com mais de três anos de bom e efectivo serviço na categoria que tenham manifestado capacidade para o exercício de funções de coordenação e de chefia.
 
-###### Art. 34.º - 1 - Os lugares de técnico auxiliar principal e de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com um mínimo de três anos de bom e efectivo serviço na categoria.
+Art. 34.º - 1 - Os lugares de técnico auxiliar principal e de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com um mínimo de três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 35.º - 1 - Os lugares de fiel de armazém principal e de 1.ª classe serão providos, respectivamente, de entre fiéis de armazém de 1.ª classe e de 2.ª classe com cinco anos de permanência na categoria e classificação de serviço não inferior a Bom.
+Art. 35.º - 1 - Os lugares de fiel de armazém principal e de 1.ª classe serão providos, respectivamente, de entre fiéis de armazém de 1.ª classe e de 2.ª classe com cinco anos de permanência na categoria e classificação de serviço não inferior a Bom.
 
 2 - Os lugares de fiel de armazém de 2.ª classe serão providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
 3 - A carreira de fiel de armazém é considerada carreira horizontal.
 
-###### Art. 36.º As nomeações terão carácter provisório durante um ano, findo o qual serão convertidas em definitivas, se os funcionários tiverem revelado aptidão para o cargo, sendo exonerados no caso contrário.
+Art. 36.º As nomeações terão carácter provisório durante um ano, findo o qual serão convertidas em definitivas, se os funcionários tiverem revelado aptidão para o cargo, sendo exonerados no caso contrário.
 
-###### Art. 37.º - 1 - Se a nomeação para qualquer dos lugares do quadro recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos, ou converter-se em definitiva após um ano de bom e efectivo serviço.
+Art. 37.º - 1 - Se a nomeação para qualquer dos lugares do quadro recair em funcionário público ou administrativo, poderá ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos, ou converter-se em definitiva após um ano de bom e efectivo serviço.
 
 2 - O tempo de serviço prestado em regime de comissão de serviço considera-se, para todos os efeitos, como prestado no quadro de origem.
 
 3 - O lugar do quadro de origem do funcionário nomeado em comissão de serviço só abrirá vaga quando a nomeação vier a converter-se em definitiva, podendo, entretanto, ser provido interinamente.
 
-###### Art. 38.º Quando se reconheça ser absolutamente indispensável, poderá o Teatro Nacional admitir, temporariamente, pessoal além do quadro em regime de contrato, nos termos da lei geral, mediante despacho do membro do Governo responsável pelo sector da cultura, sem prejuízo das normas sobre excedentes de pessoal.
+Art. 38.º Quando se reconheça ser absolutamente indispensável, poderá o Teatro Nacional admitir, temporariamente, pessoal além do quadro em regime de contrato, nos termos da lei geral, mediante despacho do membro do Governo responsável pelo sector da cultura, sem prejuízo das normas sobre excedentes de pessoal.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 39.º A transição para os novos lugares do quadro do pessoal que presta serviço no Teatro Nacional ficará dependente dos requisitos habilitacionais legalmente exigidos e far-se-á para categoria idêntica à que já possui ou para categoria correspondente às funções que desempenha, remunerada pela mesma letra de vencimento ou pela letra de vencimento imediatamente superior.
+Art. 39.º A transição para os novos lugares do quadro do pessoal que presta serviço no Teatro Nacional ficará dependente dos requisitos habilitacionais legalmente exigidos e far-se-á para categoria idêntica à que já possui ou para categoria correspondente às funções que desempenha, remunerada pela mesma letra de vencimento ou pela letra de vencimento imediatamente superior.
 
-###### Art. 40.º O pessoal actualmente em serviço no Teatro Nacional em regime de função pública que não puder ser integrado nos lugares do quadro poderá manter-se na mesma situação ou transitar para o regime definido no artigo 28.º
+Art. 40.º O pessoal actualmente em serviço no Teatro Nacional em regime de função pública que não puder ser integrado nos lugares do quadro poderá manter-se na mesma situação ou transitar para o regime definido no artigo 28.º
 
-###### Art. 41.º Os contratos de trabalho do pessoal referido no artigo 28.º, bem como os demais actos jurídicos relativos à sua situação, não carecem de visto do Tribunal de Contas nem de publicação no Diário da República.
+Art. 41.º Os contratos de trabalho do pessoal referido no artigo 28.º, bem como os demais actos jurídicos relativos à sua situação, não carecem de visto do Tribunal de Contas nem de publicação no Diário da República.
 
-###### Art. 42.º Até à posse dos órgãos do Teatro Nacional previstos no artigo 3.º, manter-se-ão em funções os membros da actual direcção, cuja competência continuará a ser a estabelecida no [Decreto-Lei n.º 507/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1977-279586), de 14 de Dezembro.
+Art. 42.º Até à posse dos órgãos do Teatro Nacional previstos no artigo 3.º, manter-se-ão em funções os membros da actual direcção, cuja competência continuará a ser a estabelecida no [Decreto-Lei n.º 507/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1977-279586), de 14 de Dezembro.
 
-###### Art. 43.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do membro do Governo responsável pelo sector da cultura ou por despacho deste e dos Ministros das Finanças e do Plano e da Reforma Administrativa, consoante a natureza das matérias em causa.
+Art. 43.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do membro do Governo responsável pelo sector da cultura ou por despacho deste e dos Ministros das Finanças e do Plano e da Reforma Administrativa, consoante a natureza das matérias em causa.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 30 de Junho de 1981.**
+Promulgado em 30 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/15800/16801684.pdf))](https://files.diariodarepublica.pt/1s/1981/07/15800/16801684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/15800/16801684.pdf)

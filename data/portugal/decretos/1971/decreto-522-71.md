@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/522-1971-631798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c553d075f8f249f96abacae87175b406f56cba09077a090a3f6d12ce73f9f983
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12c8fbae24cfaac0c03e1076ec38bd564c735949476c3633160e1d9df2f75648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:11Z'
   warnings: []
   errors: []
 ---
@@ -89,25 +105,25 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do orçamento de Encargos Gerais da Nação, um crédito especial no montante de 2512000$00, destinado a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do orçamento de Encargos Gerais da Nação, um crédito especial no montante de 2512000$00, destinado a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 4.º «Instituto Nacional de Estatística»:
+Capítulo 4.º «Instituto Nacional de Estatística»:
 
-###### Artigo 91.º «Remunerações certas ao pessoal em exercício»:
+Artigo 91.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/27600/18201820.pdf))](https://files.diariodarepublica.pt/1s/1971/11/27600/18201820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/27600/18201820.pdf)
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 2.º Para compensação do crédito designado no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Encargos Gerais da Nação
 
-### Capítulo 4.º, artigo 91.º, n.º 1) ... 1350000$00
+Capítulo 4.º, artigo 91.º, n.º 1) ... 1350000$00
 
-### Capítulo 4.º, artigo 91.º, n.º 2), alínea 2 ... 1162000$00
+Capítulo 4.º, artigo 91.º, n.º 2), alínea 2 ... 1162000$00
 
 ... 2512000$00
 
@@ -115,8 +131,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Novembro de 1971.**
+Promulgado em 10 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

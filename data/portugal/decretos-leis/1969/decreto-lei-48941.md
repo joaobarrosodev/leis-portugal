@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48941-1969-526034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eab5fef57d1963ca5b9463e858f12e25c0ae96d067bb5545273f3d48720306f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4e74e1fd1ef03d884c02a36c9f468cdd352c343976a39b4b9f3a9bef72d9e03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- EFTA
+- Importação
+- Lista
+- Mercadoria
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:514597:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:54Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +99,20 @@ Tendo em vista as disposições da Convenção que instituiu a Associação Euro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Nos termos do preceituado no § 5.º do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre, os direitos que ainda subsistem para as mercadorias mencionadas na lista anexa ao presente decreto-lei, quando importadas em condições de beneficiarem do tratamento pautal previsto naquela Convenção, serão eliminados por reduções anuais de 10 por cento do direito de base, a que se refere o artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
+Artigo único. Nos termos do preceituado no § 5.º do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre, os direitos que ainda subsistem para as mercadorias mencionadas na lista anexa ao presente decreto-lei, quando importadas em condições de beneficiarem do tratamento pautal previsto naquela Convenção, serão eliminados por reduções anuais de 10 por cento do direito de base, a que se refere o artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
 
 § único. A primeira das reduções anuais referidas no corpo deste artigo entra em vigor em 1 de Março de 1969 e será de 20 por cento; as subsequentes reduções entrarão em vigor em 1 de Janeiro dos anos seguintes e serão de 10 por cento cada uma.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 21 de Março de 1969.**
+Promulgado em 21 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Março de 1969 - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Lista das mercadorias submetidas ao regime do § 5.º do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/03/07400/03380338.pdf))](https://files.diariodarepublica.pt/1s/1969/03/07400/03380338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/03/07400/03380338.pdf)
 
 Ministério das Finanças, 21 de Março de 1969. - O Ministro das Finanças, João Augusto Dias Rosas.

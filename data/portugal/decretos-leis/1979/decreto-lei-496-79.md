@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29300/32953297.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1979-365880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d46490f4f24fccc33166935a3a7398f403e68a0f14f0d89bb54ddf4b4e3de313
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75bfa27b5756fbe3eb59d51fede4c029c7a480a28953e5c24a0ae6a022d166bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Regime de Instalação
+- Secretaria de Estado da Saúde
+- Serviço de Informática da Saúde
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660282:por
+  label: "Prorrogado até 30-Jun o prazo do regime de instalação previsto no presente diploma, pelo DEC LEI.17/84.1984.01.14.PCM,\
+    \ DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1984-660282
+  date: '1984-01-14'
+- type: amended_by
+  target: pt:dre:417185:por
+  label: "Prorrogado, até 31.12.1987, o prazo do regime de instalação em que se encontra o Serviço de Informática da Saúde,\
+    \ pelo DEC LEI.300/87.01.08.1987.MS, DR.IS [175] de 01.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1987-417185
+  date: '1987-08-01'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:48Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +142,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Criação e natureza)
 
@@ -108,7 +150,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Até à reorganização do Ministério dos Assuntos Sociais e respectivas Secretarias de Estado, o Serviço de Informática da Saúde funcionará na dependência directa do Secretário de Estado da Saúde.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Regime aplicável)
 
@@ -116,7 +158,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - A actividade do Serviço de Informática da Saúde subordinar-se-á aos planos e regras que vierem a ser estabelecidos para o sector público no campo da informática, desenvolvendo a sua actividade em permanente colaboração com a Direcção-Geral da Organização Administrativa.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Atribuições)
 
@@ -136,7 +178,7 @@ f) Promover a regionalização da exploração dos meios de tratamento automáti
 
 g) Incrementar a concepção e manutenção de aplicações pertinentes ao sector e promover a utilização progressiva de aplicações normalizadas de acordo com o planeamento feito.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência)
 
@@ -160,13 +202,13 @@ h) Difundir documentação especializada no domínio da informática;
 
 i) Elaborar um relatório anual sobre as principais realizações e as questões levantadas no sector no domínio da informática.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Integração dos centros)
 
 São desde já integrados no Serviço de Informática da Saúde, sem prejuízo dos legítimos interesses das instituições suas detentoras, os Centros Mecanográficos Hospitalares de Coimbra e Porto, pertencentes actualmente ao Serviço de Utilização Comum dos Hospitais (SUCH), o Centro de Informática do Serviço de Luta Antituberculosa (SLAT), nos termos do artigo 11.º do [Decreto-Lei n.º 260/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1975-335954), de 26 de Maio, e os Centros de Informática dos Hospitais Civis de Lisboa e do Hospital Geral de Santo António.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Regime do pessoal)
 
@@ -182,7 +224,7 @@ São desde já integrados no Serviço de Informática da Saúde, sem prejuízo d
 
 6 - Quando as nomeações do pessoal forem efectuadas em comissão de serviço ou em regime de requisição, o tempo de serviço prestado no Serviço de Informática da Saúde contará para todos os efeitos. incluindo os de acesso nas carreiras a que pertençam.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Receitas e despesas)
 
@@ -202,7 +244,7 @@ f) Outras receitas que lhe sejam legalmente atribuídas.
 
 2 - As receitas referidas nas alíneas do número anterior serão entregues nos cofres do Estado e escrituradas como contas de ordem, podendo o Serviço de Informática da Saúde aplicar em anos futuros os respectivos saldos não utilizados.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Regime de instalação)
 
@@ -212,7 +254,7 @@ f) Outras receitas que lhe sejam legalmente atribuídas.
 
 3 - A comissão instaladora instituirá, durante o período de instalação, órgãos consultivos, constituídos por representantes dos utilizadores, quer a nível central, quer a nível regional.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Mapas de pessoal)
 
@@ -224,7 +266,7 @@ f) Outras receitas que lhe sejam legalmente atribuídas.
 
 4 - Na elaboração do mapa de pessoal a que se refere o número anterior será tido em consideração o que sobre carreiras de pessoal de informática se encontra estabelecido na Administração Pública.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Transferência de bens patrimoniais)
 
@@ -232,8 +274,8 @@ São transferidos, a partir da data da publicação do presente decreto-lei, do 
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 11 de Dezembro de 1979.**
+Promulgado em 11 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47711-1967-313193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 013203c1f1a9f2b139cb7de13bc166b6415322c287e630b32e28dc920e7a48f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b33b596b32f03fa8ff1168bac5a09b06bee6bffe1df2fa5c9606616f90aca523
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Expropriação
+- Fundição de Oeiras - Fundição e Construções Mecânicas
+- Oeiras
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:152096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:13Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +110,12 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É declarada a utilidade pública e a urgência da expropriação requerida pela firma Cometna - Companhia Metalúrgica Nacional, S. A. R. L., de uma parcela de terreno necessária para o prolongamento das naves de fundição das suas instalações fabris e cuja descrição é a seguinte:
+Artigo 1.º É declarada a utilidade pública e a urgência da expropriação requerida pela firma Cometna - Companhia Metalúrgica Nacional, S. A. R. L., de uma parcela de terreno necessária para o prolongamento das naves de fundição das suas instalações fabris e cuja descrição é a seguinte:
 
 Parcela de terreno, com a área de 415 m2, na qual se encontram implantados dois prédios urbanos, sita na Reboleira, freguesia da Amadora, pertencente a Francisco Dores Pereira e Maria Luísa Duarte Pereira, e confrontante por todos os lados com terrenos da Cometna - Companhia Metalúrgica Nacional, S. A. R. L.; está omissa na Conservatória do Registo Predial de Sintra e correspondem-lhe na matriz predial da freguesia da Amadora as inscrições feitas sob os artigos 2358 e 350.
 
-###### Art. 2.º No processo de expropriação serão observados os trâmites prescritos na legislação geral sobre expropriações por utilidade pública.
+Art. 2.º No processo de expropriação serão observados os trâmites prescritos na legislação geral sobre expropriações por utilidade pública.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.

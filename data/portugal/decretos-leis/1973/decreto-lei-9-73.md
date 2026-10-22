@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1973-288456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f6a972b9f9ac7b1938351a149d1f02e03bebdf70768f4dbe987b65e257b630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b39921b2f6c86e18dd91419dac9c594b9f3e5b6d8dd0de41a48f3bf85e404baa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento de Água
+- Angola.Colónia Portuguesa
+- Benefícios Fiscais
+- Capital Social
+- Conselho Fiscal
+- Contrato de Concessão
+- Criação de Empresas
+- Definição de Competências
+- Distribuição de Energia Elétrica
+- Empresa
+- Energia Elétrica
+- Garantia
+- Política de Solos
+- Sociedade Anónima
+- Sociedade de Responsabilidade Limitada
+relationships:
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:10Z'
   warnings: []
   errors: []
 ---
@@ -101,61 +120,61 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Estado Português de Angola participará na constituição de uma sociedade de economia mista, a denominar-se Sociedade de Fomento do Quicuchi, S. A. R. L., com os terrenos do Quicuchi e Calumbo, que constituem reservas do Estado, situados no concelho de Viana, distrito de Luanda, os quais constituirão a sua comparticipação no capital social da referida Sociedade, nos termos do presente decreto-lei e das bases do contrato de concessão anexas, que, para todos os efeitos, se consideram como fazendo dele parte integrante.
+Artigo 1.º O Estado Português de Angola participará na constituição de uma sociedade de economia mista, a denominar-se Sociedade de Fomento do Quicuchi, S. A. R. L., com os terrenos do Quicuchi e Calumbo, que constituem reservas do Estado, situados no concelho de Viana, distrito de Luanda, os quais constituirão a sua comparticipação no capital social da referida Sociedade, nos termos do presente decreto-lei e das bases do contrato de concessão anexas, que, para todos os efeitos, se consideram como fazendo dele parte integrante.
 
-###### Art. 2.º - 1. São também autorizados a participar na sociedade de economia mista os Municípios de Luanda, Viana e Cacuaco e a Junta Provincial de Povoamento de Angola.
+Art. 2.º - 1. São também autorizados a participar na sociedade de economia mista os Municípios de Luanda, Viana e Cacuaco e a Junta Provincial de Povoamento de Angola.
 
 2. Fica o Governador-Geral autorizado a permitir a participação de outras entidades públicas de Angola na Sociedade, ponderado o seu carácter regional ou as conveniências dos esquemas de financiamento.
 
-###### Art. 3.º - 1. Os terrenos das reservas do Quicuchi e Calumbo, que por força deste decreto-lei e sem exigência de quaisquer outras formalidades são integrados no património privado da Sociedade de Fomento do Quicuchi, S. A. R. L., encontram-se definidos no mapa que se publica anexo a este diploma e têm a área de 30000 ha.
+Art. 3.º - 1. Os terrenos das reservas do Quicuchi e Calumbo, que por força deste decreto-lei e sem exigência de quaisquer outras formalidades são integrados no património privado da Sociedade de Fomento do Quicuchi, S. A. R. L., encontram-se definidos no mapa que se publica anexo a este diploma e têm a área de 30000 ha.
 
 2. Para efeito da sua integração no património privado da Sociedade, é atribuído aos terrenos das reservas do Quicuchi e Calumbo o valor de 20000 contos, recebendo o Estado Português de Angola, em compensação, acções da Sociedade de Fomento do Quicuchi, S. A. R. L., de igual montante.
 
 3. A participação deste Estado no capital da Sociedade não sofrerá, de futuro, qualquer redução no caso de reversão para o mesmo de áreas das reservas do Quicuchi e Calumbo, agora integradas na Sociedade, por não cumprimento de obrigações de aproveitamento dentro de prazos estabelecidos ou por aplicação a fins diversos dos previstos nos planos superiormente aprovados.
 
-###### Art. 4.º - 1. São concedidos à Sociedade de Fomento do Quicuchi, S. A. R. L., os exclusivos de exploração da rede de abastecimento de água bruta e potável dentro da área das actuais reservas do Quicuchi e Calumbo.
+Art. 4.º - 1. São concedidos à Sociedade de Fomento do Quicuchi, S. A. R. L., os exclusivos de exploração da rede de abastecimento de água bruta e potável dentro da área das actuais reservas do Quicuchi e Calumbo.
 
 2. A Sociedade fica também autorizada a explorar, em regime de exclusivo, dentro da mesma área, a rede eléctrica para iluminação e força motriz, mediante contrato a estabelecer com a Sonefe - Sociedade Nacional de Estudo e Financiamento de Empreendimentos Ultramarinos, S. A. R. L.
 
 3. A Sociedade poderá solicitar a concessão do exclusivo de abastecimento de águas a outras áreas, bem como a exploração de outros exclusivos, ajustados às suas finalidades, na área das actuais reservas do Quicuchi e Calumbo.
 
-###### Art. 5.º - 1. A Sociedade servirá a conveniente integração do desenvolvimento regional na política de fomento económico-social de Angola, promovendo a realização de projectos de valorização hidroagrícola, agro-pecuária, de urbanização, industriais e recreativos nas áreas da sua intervenção.
+Art. 5.º - 1. A Sociedade servirá a conveniente integração do desenvolvimento regional na política de fomento económico-social de Angola, promovendo a realização de projectos de valorização hidroagrícola, agro-pecuária, de urbanização, industriais e recreativos nas áreas da sua intervenção.
 
 2. A actuação da Sociedade poderá estender-se a outras áreas ou abranger outros sectores, obtido o acordo do Governo-Geral.
 
-###### Art. 6.º - 1. A Sociedade obriga-se a intervir no ordenamento e promoção sócio-económica das populações rurais existentes na área das reservas, de acordo com programas elaborados e submetidos à aprovação do Governo-Geral.
+Art. 6.º - 1. A Sociedade obriga-se a intervir no ordenamento e promoção sócio-económica das populações rurais existentes na área das reservas, de acordo com programas elaborados e submetidos à aprovação do Governo-Geral.
 
 2. Para boa execução desta obrigação, a Sociedade, em colaboração com a Junta Provincial de Povoamento de Angola, elaborará após a sua constituição um recenseamento das populações rurais existentes nas referidas reservas de povoamento.
 
-###### Art. 7.º - 1. No contrato administrativo de concessão outorgará, por parte do respectivo Estado, o Governador-Geral.
+Art. 7.º - 1. No contrato administrativo de concessão outorgará, por parte do respectivo Estado, o Governador-Geral.
 
 2. Os poderes do concedente, no que respeita ao objecto da concessão, serão igualmente exercidos pelo Governador-Geral, que mandará ouvir, conforme a natureza dos interesses em jogo, as instâncias competentes.
 
-###### Art. 8.º - 1. A aprovação dos projectos de aproveitamento referidos no n.º 1 do artigo 5.º deste diploma pertence ao Governador-Geral, obtido o parecer dos serviços competentes.
+Art. 8.º - 1. A aprovação dos projectos de aproveitamento referidos no n.º 1 do artigo 5.º deste diploma pertence ao Governador-Geral, obtido o parecer dos serviços competentes.
 
 2. Se no prazo de cento e vinte dias, a contar da entrega pela Sociedade dos respectivos projectos, não recair sobre os mesmos despacho definitivo, consideram-se aprovados.
 
-###### Art. 9.º Compete à câmara municipal do concelho onde se localizar a obra a atribuição de licenças de construção, de harmonia com os planos de urbanização e os projectos aprovados, devendo o respectivo alvará ser expedido no prazo de cinco dias.
+Art. 9.º Compete à câmara municipal do concelho onde se localizar a obra a atribuição de licenças de construção, de harmonia com os planos de urbanização e os projectos aprovados, devendo o respectivo alvará ser expedido no prazo de cinco dias.
 
-###### Art. 10.º O prazo das concessões de exploração em exclusivo atribuídas pelo presente decreto-lei é de setenta e cinco anos, contados a partir da data da celebração do respectivo contrato.
+Art. 10.º O prazo das concessões de exploração em exclusivo atribuídas pelo presente decreto-lei é de setenta e cinco anos, contados a partir da data da celebração do respectivo contrato.
 
-###### Art. 11.º - 1. Os limites máximos das taxas e dos preços a cobrar, relativos aos vários serviços explorados na zona da concessão, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo-Geral, sob proposta da concessionária.
+Art. 11.º - 1. Os limites máximos das taxas e dos preços a cobrar, relativos aos vários serviços explorados na zona da concessão, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo-Geral, sob proposta da concessionária.
 
 2. Se o Governo-Geral não se pronunciar definitivamente no prazo de sessenta dias, a contar da apresentação das propostas de fixação ou alteração de taxas e das regras de aplicação, consideram-se as mesmas aprovadas.
 
-###### Art. 12.º - 1. Compete ao Governo-Geral, sob proposta da concessionária, aprovar os regulamentos necessários à exploração das concessões.
+Art. 12.º - 1. Compete ao Governo-Geral, sob proposta da concessionária, aprovar os regulamentos necessários à exploração das concessões.
 
 2. Consideram-se aprovados os regulamentos apresentados pela concessionária, decorridos noventa dias a partir da sua apresentação, se o Governo-Geral não se pronunciar definitivamente sobre o seu conteúdo.
 
-###### Art. 13.º Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de penas de multas até 500$00, acrescidas de um terço por cada reincidência, cujo produto reverterá para o Estado Português de Angola.
+Art. 13.º Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de penas de multas até 500$00, acrescidas de um terço por cada reincidência, cujo produto reverterá para o Estado Português de Angola.
 
-###### Art. 14.º A Sociedade gozará, quanto às actividades objecto de concessão, dos benefícios seguintes:
+Art. 14.º A Sociedade gozará, quanto às actividades objecto de concessão, dos benefícios seguintes:
 
 a) Isenção de direitos de importação relativos aos materiais e equipamentos destinados definitivamente às obras, instalações e apetrechamentos;
 
 b) Concessão do regime de importação temporária para os equipamentos, ferramentas e utensílios destinados à execução de obras e trabalhos preliminares pelo período reputado indispensável.
 
-###### Art. 15.º - 1. A Sociedade constituir-se-á com um capital social inicial de 100000000$00, elevável, por simples deliberação do conselho de administração, até 250000000$00.
+Art. 15.º - 1. A Sociedade constituir-se-á com um capital social inicial de 100000000$00, elevável, por simples deliberação do conselho de administração, até 250000000$00.
 
 2. A participação do sector público, do Banco de Angola, do Banco de Fomento Nacional e da Sociedade Financeira Portuguesa, S. A. R. L., no capital social inicial traduzir-se-á, em seu conjunto, pelo menos em 51000000$00.
 
@@ -165,43 +184,43 @@ b) Concessão do regime de importação temporária para os equipamentos, ferram
 
 5. O Estado Português de Angola goza do direito de preferência no rateio dos aumentos de capital social que couberem aos entes públicos e às instituições de crédito referidas no n.º 2 deste artigo, não subscritos por estas pessoas jurídicas.
 
-###### Art. 16.º - 1. As acções da Sociedade de Fomento do Quicuchi, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis, com excepção das acções dos entes públicos, que, enquanto se mantiverem na sua posse, serão sempre nominativas.
+Art. 16.º - 1. As acções da Sociedade de Fomento do Quicuchi, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis, com excepção das acções dos entes públicos, que, enquanto se mantiverem na sua posse, serão sempre nominativas.
 
 2. As autarquias locais não poderão negociar as acções que possuam na Sociedade.
 
 3. O Estado Português de Angola goza do direito de preferência na negociação das acções dos outros entes públicos.
 
-###### Art. 17.º - 1. O conselho de administração da Sociedade será constituído por cinco administradores, três em representação dos accionistas referidos no n.º 2 do artigo 15.º e dois em representação dos restantes accionistas do sector privado.
+Art. 17.º - 1. O conselho de administração da Sociedade será constituído por cinco administradores, três em representação dos accionistas referidos no n.º 2 do artigo 15.º e dois em representação dos restantes accionistas do sector privado.
 
 2. Na representação dos accionistas referidos no n.º 2 do artigo 15.º haverá um administrador por parte do Estado Português de Angola, outro pelas autarquias locais e o terceiro escolhido pelos restantes accionistas.
 
 3. Os outros dois administradores serão eleitos em assembleia geral restrita, constituída apenas pelos restantes accionistas do sector privado.
 
-###### Art. 18.º O mandato de todos os administradores terá a duração de três anos, sendo admitida a recondução expressa do administrador pelo Estado Português de Angola e a reeleição dos restantes administradores.
+Art. 18.º O mandato de todos os administradores terá a duração de três anos, sendo admitida a recondução expressa do administrador pelo Estado Português de Angola e a reeleição dos restantes administradores.
 
-###### Art. 19.º O administrador por parte do Estado Português de Angola tem todos os direitos e obrigações que o [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, atribui aos administradores nomeados pelo Governo e presidirá ao conselho de administração da Sociedade.
+Art. 19.º O administrador por parte do Estado Português de Angola tem todos os direitos e obrigações que o [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, atribui aos administradores nomeados pelo Governo e presidirá ao conselho de administração da Sociedade.
 
-###### Art. 20.º - 1. O administrador por parte das autarquias locais será eleito em reunião dos representantes destas, expressamente realizada para tal fim, devendo a escolha recair sobre indivíduo com residência habitual no distrito de Luanda.
+Art. 20.º - 1. O administrador por parte das autarquias locais será eleito em reunião dos representantes destas, expressamente realizada para tal fim, devendo a escolha recair sobre indivíduo com residência habitual no distrito de Luanda.
 
 2. O número de votos de cada representante das autarquias, na reunião a que se refere o número anterior, será proporcional às acções que estas dispuserem na Sociedade.
 
 3. A iniciativa da organização da assembleia eleitoral destinada à escolha do administrador por parte das autarquias caberá ao Município de Viana.
 
-###### Art. 21.º - 1. O conselho fiscal da Sociedade será composto por três membros efectivos e dois suplentes.
+Art. 21.º - 1. O conselho fiscal da Sociedade será composto por três membros efectivos e dois suplentes.
 
 2. Os membros do conselho fiscal, efectivos e suplentes, serão eleitos em assembleia geral, com excepção do presidente, que é designado pelo Governo-Geral.
 
 3. O Governo-Geral não participará na assembleia geral a que se refere o n.º 2 deste artigo.
 
-###### Art. 22.º A empresa de economia mista Sociedade de Fomento do Quicuchi, S. A. R. L., terá a sua sede no distrito de Luanda.
+Art. 22.º A empresa de economia mista Sociedade de Fomento do Quicuchi, S. A. R. L., terá a sua sede no distrito de Luanda.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Dezembro de 1972.**
+Promulgado em 29 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado Português de Angola. - J. da Silva Cunha.
 
@@ -473,8 +492,8 @@ BASE XXII
 
 3. O tribunal julgará segundo a equidade, e das suas decisões não cabe recurso.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/01/00600/00260032.pdf))](https://files.diariodarepublica.pt/1s/1973/01/00600/00260032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/01/00600/00260032.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

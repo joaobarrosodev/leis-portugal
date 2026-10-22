@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/438-1970-149240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19dbdb08890935df76000f535af03cf25a060e36e021d510069f159abc70cd48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfe85c7d41202a431c9a1a58ba902099b41bc4f5302c4d963f27101026336da0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:19Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +100,11 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada em Luanda uma escola preparatória do ensino secundário de frequência mista.
+Artigo 1.º É criada em Luanda uma escola preparatória do ensino secundário de frequência mista.
 
-###### Art. 2.º Compete ao Governo-Geral de Angola fixar o número de turmas da escola.
+Art. 2.º Compete ao Governo-Geral de Angola fixar o número de turmas da escola.
 
-###### Art. 3.º Os quadros do pessoal docente do ciclo preparatório do ensino secundário da província são acrescidos das seguintes unidades:
+Art. 3.º Os quadros do pessoal docente do ciclo preparatório do ensino secundário da província são acrescidos das seguintes unidades:
 
 A. Quadro comum:
 
@@ -118,16 +126,16 @@ Educação Física - 2.
 
 Trabalhos Manuais - 4.
 
-###### Art. 4.º Ficam os órgãos legislativos da província autorizados a criar os lugares dos quadros de secretaria e de pessoal contratado e assalariado necessário ao funcionamento da escola.
+Art. 4.º Ficam os órgãos legislativos da província autorizados a criar os lugares dos quadros de secretaria e de pessoal contratado e assalariado necessário ao funcionamento da escola.
 
-###### Art. 5.º A execução do disposto neste diploma fica condicionada pela existência de disponibilidades orçamentais.
+Art. 5.º A execução do disposto neste diploma fica condicionada pela existência de disponibilidades orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Setembro de 1970.**
+Promulgado em 4 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

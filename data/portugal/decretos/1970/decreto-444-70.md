@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 221/1970, 1º Suplemento, Série I de 1970-09-23
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1356-(4) a 1356-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/09/22101/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/444-1970-666346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c722cea40567ebcaa3378f9675291b33c912a89e7be450cce4cdd6ccd9e4c02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 635982ba3c8596ca3c1f7491751b85d4dc94cffb4638e67aa17dd6072c749369
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:324937:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214875:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451834:por
+  label: "Revogado pelo DEC LEI.251/83.11.06.1983.MAS, DR.IS [133] de 11.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1983-451834
+  date: '1983-06-11'
+- type: repealed_by
+  target: pt:dre:324937:por
+  label: "Revogado pelo DEC LEI.81/85.28.03.1985.MFP, DR.IS [73] de 28.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1985-324937
+  date: '1985-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:22Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +126,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. O regime especial de abono de família regulado pelo [Decreto n.º 49216](https://diariodarepublica.pt/dr/detalhe/decreto/49216-1969-214875), de 30 de Agosto de 1969, será tornado extensivo, por despacho do Ministro das Corporações e Previdência Social, nos termos do [Decreto-Lei n.º 283/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1970-140845), de 19 de Junho de 1970:
+Artigo 1.º - 1. O regime especial de abono de família regulado pelo [Decreto n.º 49216](https://diariodarepublica.pt/dr/detalhe/decreto/49216-1969-214875), de 30 de Agosto de 1969, será tornado extensivo, por despacho do Ministro das Corporações e Previdência Social, nos termos do [Decreto-Lei n.º 283/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1970-140845), de 19 de Junho de 1970:
 
 a) Na qualidade de beneficiários, aos arrendatários de prédios rústicos que o explorem regularmente para fins agrícolas, pecuários ou florestais, utilizando exclusiva ou predominantemente trabalho próprio ou de pessoas do seu agregado familiar, e sejam chefes de família ou maiores de 18 anos;
 
@@ -114,24 +134,24 @@ b) Na qualidade de contribuintes, aos senhorios dos mesmos prédios.
 
 2. O agregado familiar do arrendatário compreende os parentes, afins ou outras pessoas ao seu serviço que com ele vivam habitualmente em comunhão de mesa, bens e habitação.
 
-###### Art. 2.º O disposto no artigo 1.º não é aplicável:
+Art. 2.º O disposto no artigo 1.º não é aplicável:
 
 a) Aos arrendatários de prédios rústicos pertencentes a pessoas do seu agregado familiar;
 
 b) Aos arrendatários cujo rendimento proveniente da actividade agrícola exercida nessa qualidade não constitua o seu meio normal de vida.
 
-###### Art. 3.º - 1. As contribuições devidas pelos senhorios como contribuintes são as estabelecidas em relação aos trabalhadores permanentes.
+Art. 3.º - 1. As contribuições devidas pelos senhorios como contribuintes são as estabelecidas em relação aos trabalhadores permanentes.
 
 2. Se o arrendatário tiver vários senhorios, no mesmo ou em diferentes prédios rústicos, será devida apenas uma contribuição, ficando aqueles solidàriamente responsáveis pelo seu pagamento.
 
 3. Nas relações entre si, os vários senhorios obrigados por força do disposto no número anterior comparticipam, na falta de expresso acordo, em parte iguais na dívida de contribuições.
 
-###### Art. 4.º O enquadramento como beneficiários, previsto no presente diploma, não dispensa os arrendatários da obrigatoriedade do pagamento de contribuições patronais em relação a trabalhadores ao seu serviço que não façam parte do respectivo agregado familiar.
+Art. 4.º O enquadramento como beneficiários, previsto no presente diploma, não dispensa os arrendatários da obrigatoriedade do pagamento de contribuições patronais em relação a trabalhadores ao seu serviço que não façam parte do respectivo agregado familiar.
 
 Marcello Caetano - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 21 de Setembro de 1970.**
+Promulgado em 21 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

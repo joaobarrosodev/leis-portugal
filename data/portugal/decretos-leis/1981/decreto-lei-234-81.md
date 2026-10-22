@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/17600/19831995.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,140 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1981-576950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 327c17874cdf76ac599a8dd51f3062310eb623b7c4135e322f8b78e0d665c6a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3639366847c067f929628a2fd4ea5a62eb5252c94ee7e9aa91b8080312a5e3ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Criação de Serviços
+- INEM
+- Ministério dos Assuntos Sociais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:546002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392443:por
+  label: "Alterada a alínea a) do n.º 1 do art. 29.º pelo DEC LEI.179/82.15.05.1982.MAS, DR.IS [110] de 15.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1982-392443
+  date: '1982-05-15'
+- type: amended_by
+  target: pt:dre:380878:por
+  label: "Alterado o quadro de pessoal pela Port 1182/82.1982.12.23.MFP, DR.IS [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1182-1982-380878
+  date: '1982-12-23'
+- type: amended_by
+  target: pt:dre:452559:por
+  label: "Alterado o quadro de pessoal pela Port 738/83.1983.06.29.MFP, DR.IS [147] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/738-1983-452559
+  date: '1983-06-29'
+- type: amended_by
+  target: pt:dre:218739:por
+  label: Alterado o quadro de pessoal aprovado pelo presente diploma, pelo(a) Portaria n.º 408/86 - Diário da República n.º
+    171/1986, Série I de 1986-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/408-1986-218739
+  date: '1986-07-28'
+- type: amended_by
+  target: pt:dre:666322:por
+  label: Alterada a al. a) do nº1 do art. 29º pelo DEC LEI.171/87.20.04.1987.MF, DR.IS [91] de 20.04.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1987-666322
+  date: '1987-04-20'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal do Instituto Nacional de Emergência Médica, aprovado pelo presente diploma e alterado
+    pelas Ports 1182/82, de 23-dez, 738/83, de 29-jun, 807-X1/83, de 30-jul, e 408/86, de 28-jul, pelo(a) Portaria n.º 147/88
+    - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:609801:por
+  label: Alterado o quadro de pessoal aprovado pelo presente diploma, alterado pelas Ports 1182/82, de 23-dez, 738/83, de
+    29-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, e 147/88, de 09-mar, pelo(a) Portaria n.º 387/89 - Diário da República
+    n.º 126/1989, Série I de 1989-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1989-609801
+  date: '1989-06-02'
+- type: amended_by
+  target: pt:dre:302875:por
+  label: Dada nova redacção aos arts. 2.º a 5.º, 7.º, 9.º, 11.º, 14.º a 16.º, 19.º e 42.º e revogados os arts. 8.º e 10.º
+    pelo(a) Decreto-Lei n.º 326/91 - Diário da República n.º 200/1991, Série I-A de 1991-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-1991-302875
+  date: '1991-08-31'
+- type: amended_by
+  target: pt:dre:599122:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, na parte relativa às áreas funcionais de
+    biblioteca e documentação e de arquivo, aprovado pelo presente diploma e alterado pelas Ports n.ºs 1182/82, de 23-dez,
+    738/83, de 19-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, 147/88, de 09-mar, e 387/89, de 02-jun, pelo(a) Portaria n.º
+    1088/92 - Diário da República n.º 274/1992, Série I-B de 1992-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-1992-599122
+  date: '1992-11-26'
+- type: amended_by
+  target: pt:dre:375976:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, aprovada pelo presente e alterado pelas
+    Ports n.ºs1182/82, de 23-dez, 738/83, de 29-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, 147/88, de 09-mar, 387/89, de
+    02-jun, e 1088/92, de 26-nov, pelo(a) Portaria n.º 649/93 - Diário da República n.º 157/1993, Série I-B de 1993-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1993-375976
+  date: '1993-07-07'
+- type: amended_by
+  target: pt:dre:1216830:por
+  label: "Alterado o quadro de pessoal pela Port 164/94IIS.1994.11.14.MF, DR.IIS [282] de 07/Dez/1994 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-1994-1216830
+  date: '1994-11-14'
+- type: amended_by
+  target: pt:dre:1216831:por
+  label: "Alterado o quadro de pessoal pela Port 165/94IIS.1994.11.14.MF, DR.IIS [282] de 07/Dez/1994 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-1994-1216831
+  date: '1994-11-14'
+- type: amended_by
+  target: pt:dre:383022:por
+  label: "Substituido o quadro de pessoal pela Port 295/97.1997.05.05.PCM, DR.IS-B [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1997-383022
+  date: '1997-05-05'
+- type: cites
+  target: pt:dre:397153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631660:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:563435:por
+  label: Rectificado pela DECL.DD6406.07.09.1981.PCM, DR.IS [217] de 21.09.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-563435
+  date: '1981-09-07'
+- type: repealed_by
+  target: pt:dre:651282:por
+  label: "Revogado, com as alterações introduzidas pelo Dec Lei 326/91, de 31-Ago, pelo DEC LEI.167/2003.2003.07.29.MS DR.IS-A\
+    \ [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2003-651282
+  date: '2003-07-29'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:08Z'
   warnings: []
   errors: []
 ---
@@ -904,14 +1004,14 @@ O disposto no presente diploma poderá ser aplicado às regiões autónomas, med
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Julho de 1981.**
+Promulgado em 21 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17600/19831995.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17600/19831995.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17600/19831995.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/10/24500/17261732.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faec153f3fa2826e165535d4635584422d125d0f0f21755f57127f4a06763116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bc1fc65d0c758311e1cdb8fb8c272e78c682ba84b4c2933365aafba84176072
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Escola Naval
+- Marinha
+- Militar
+- Oficial do Quadro Permanente
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:278508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200268:por
+  label: "Alterado o corpo do art. 1º, a al. d) do § único do art. 2º, o art. 3º, as als. a), c) e d) do corpo do art. 5º\
+    \ e o corpo do art. 7º, bem como os modelos nºs. 8, 9 e 10 e acrescentado o modelo nº11 ao presente diploma, pelo DEC\
+    \ LEI.49076.24.06.1969.MMAR, DG.IS [146] de 24.06.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49076-1969-200268
+  date: '1969-06-24'
+- type: cites
+  target: pt:dre:448498:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278508:por
+  label: Revogado a partir de 01.03.1978 pelo DEC LEI.399-A/77.22.09.1977.CR, DR.IS [220] de 22.09.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1977-278508
+  date: '1977-09-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:47Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +114,7 @@ Considerando que as disposições inseridas no Estatuto dos Oficiais das Forças
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O bilhete de identidade dos militares da Armada dos quadros do activo, dos oficiais da reserva da Armada com direito a pensão (RAa), dos oficiais reformados e dos auditores de Marinha substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.
+Artigo 1.º O bilhete de identidade dos militares da Armada dos quadros do activo, dos oficiais da reserva da Armada com direito a pensão (RAa), dos oficiais reformados e dos auditores de Marinha substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.
 
 § único. Os quadros do activo a que se refere o corpo deste artigo englobam:
 
@@ -102,7 +124,7 @@ b) Os cadetes que frequentam a Escola Naval para ingressarem no quadro referido 
 
 c) Os sargentos e praças do activo.
 
-###### Art. 2.º O bilhete de identidade dos militares da Armada dos quadros das reservas da Armada sem direito a pensão (RAb), naval, marítima e legionária, não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil e só é válido enquanto os referidos militares se encontrem na situação de efectividade de serviço.
+Art. 2.º O bilhete de identidade dos militares da Armada dos quadros das reservas da Armada sem direito a pensão (RAb), naval, marítima e legionária, não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil e só é válido enquanto os referidos militares se encontrem na situação de efectividade de serviço.
 
 § único. Os quadros a que se refere o corpo deste artigo englobam:
 
@@ -114,9 +136,9 @@ c) Os sargentos e praças das reservas da Armada sem direito a pensão (RAb);
 
 d) Os sargentos e praças das reservas marítima e legionária.
 
-###### Art. 3.º O bilhete de identidade dos sargentos e praças da reserva da Armada com direito a pensão (RAa) e reformados não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
+Art. 3.º O bilhete de identidade dos sargentos e praças da reserva da Armada com direito a pensão (RAa) e reformados não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
 
-###### Art. 4.º O bilhete de identidade referido nos artigos anteriores é dos modelos a seguir indicados, anexos a este diploma:
+Art. 4.º O bilhete de identidade referido nos artigos anteriores é dos modelos a seguir indicados, anexos a este diploma:
 
 N.º 1 - Oficiais do quadro de oficiais do activo;
 
@@ -140,7 +162,7 @@ N.º 10 - Sargentos e praças das reservas da Armada sem direito a pensão (RAb)
 
 § único. O bilhete de identidade a que se refere este artigo pode ser protegido por invólucro apropriado de modelo aprovado por despacho do Ministro da Marinha.
 
-###### Art. 5.º Os cartões de bilhete de identidade dos modelos estabelecidos pelo artigo anterior são das cores seguintes:
+Art. 5.º Os cartões de bilhete de identidade dos modelos estabelecidos pelo artigo anterior são das cores seguintes:
 
 a) Branco, para os modelos n.os 1, 2, 3, 7 e 8;
 
@@ -152,7 +174,7 @@ d) Amarelo, para o modelo n.º 9.
 
 § único. A faixa encarnada do modelo n.º 4 é horizontal, colocada a meio do cartão e com a largura de 1,5 cm.
 
-###### Art. 6.º As fotografias para os bilhetes de identidade a que se referem os artigos 1.º, 2.º e 3.º são de meio corpo, tiradas a três quartos.
+Art. 6.º As fotografias para os bilhetes de identidade a que se referem os artigos 1.º, 2.º e 3.º são de meio corpo, tiradas a três quartos.
 
 § único. As fotografias a que se refere este artigo são tiradas, no que respeita a militares, com o boné na cabeça e com os seguintes uniformes:
 
@@ -162,7 +184,7 @@ b) Sargentos - N.º 2, de maneira que as divisas e distintivos sejam bem visíve
 
 c) Praças - N.º 2.
 
-###### Art. 7.º Os bilhetes de identidade de que trata este diploma são distribuídos pela Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) e autenticados com o selo branco da repartição respectiva.
+Art. 7.º Os bilhetes de identidade de que trata este diploma são distribuídos pela Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) e autenticados com o selo branco da repartição respectiva.
 
 § 1.º O bilhete de identidade dos militares é obrigatòriamente renovado:
 
@@ -172,26 +194,26 @@ b) Quando se verifique mudança de quadro.
 
 § 2.º Nas circunstâncias do parágrafo anterior, o bilhete que foi substituído deve ser entregue na respectiva repartição da Direcção do Serviço do Pessoal.
 
-###### Art. 8.º Os indivíduos que, por mudança de situação, percam o direito ao bilhete de identidade a que se refere este diploma deverão entregá-lo na respectiva repartição da Direcção do Serviço do Pessoal.
+Art. 8.º Os indivíduos que, por mudança de situação, percam o direito ao bilhete de identidade a que se refere este diploma deverão entregá-lo na respectiva repartição da Direcção do Serviço do Pessoal.
 
 § único. Em relação aos militares falecidos deve a competente repartição da Direcção do Serviço do Pessoal solicitar das famílias a entrega dos bilhetes de identidade.
 
-###### Art. 9.º O bilhete de identidade a que se refere este diploma é de uso obrigatório.
+Art. 9.º O bilhete de identidade a que se refere este diploma é de uso obrigatório.
 
-###### Art. 10.º O bilhete de identidade actualmente em uso pode ser utilizado até que a promoção ou mudança de quadro dos respectivos titulares torne necessária a sua substituição.
+Art. 10.º O bilhete de identidade actualmente em uso pode ser utilizado até que a promoção ou mudança de quadro dos respectivos titulares torne necessária a sua substituição.
 
-###### Art. 11.º Os oficiais dos quadros permanentes, nos termos estabelecidos no Estatuto dos Oficiais das Forças Armadas, os auditores de marinha, os cadetes do activo e os sargentos do activo beneficiam das reduções nos transportes colectivos (terrestres, fluviais, marítimos ou aéreos) que forem concedidas pelas empresas concessionárias ou a estas impostas pelo Governo.
+Art. 11.º Os oficiais dos quadros permanentes, nos termos estabelecidos no Estatuto dos Oficiais das Forças Armadas, os auditores de marinha, os cadetes do activo e os sargentos do activo beneficiam das reduções nos transportes colectivos (terrestres, fluviais, marítimos ou aéreos) que forem concedidas pelas empresas concessionárias ou a estas impostas pelo Governo.
 
 § único. Nos bilhetes de identidade dos indivíduos citados no corpo deste artigo deverão figurar os elementos julgados convenientes respeitantes às reduções referidas neste artigo.
 
-###### Art. 12.º São revogados pelo presente diploma os Decretos-Leis n.os 37692 e 41104, de, respectivamente, 28 de Dezembro de 1949 e 11 de Maio de 1957, o [Decreto n.º 24623](https://diariodarepublica.pt/dr/detalhe/decreto/24623-1934-448498), de 1 de Novembro de 1934, e as Portarias n.os 18903 e 19128, de, respectivamente, 22 de Dezembro de 1961 e 13 de Abril de 1962.
+Art. 12.º São revogados pelo presente diploma os Decretos-Leis n.os 37692 e 41104, de, respectivamente, 28 de Dezembro de 1949 e 11 de Maio de 1957, o [Decreto n.º 24623](https://diariodarepublica.pt/dr/detalhe/decreto/24623-1934-448498), de 1 de Novembro de 1934, e as Portarias n.os 18903 e 19128, de, respectivamente, 22 de Dezembro de 1961 e 13 de Abril de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Do MODELO N.º 1 ao MODELO N.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/24500/17261732.pdf))](https://files.diariodarepublica.pt/1s/1966/10/24500/17261732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/24500/17261732.pdf)
 
 Ministério da Marinha, 21 de Outubro de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

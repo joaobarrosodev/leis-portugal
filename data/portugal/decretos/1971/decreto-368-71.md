@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/368-1971-630238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 499f5273589f260a1a19de5b72aa2e9e14c5210b48fed9b6959599933e39b211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd200b141a1a9e04adecb78cd27d0d666ee15a2a53e4b7e603cbb947dd7a0f03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445918:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:54Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +110,14 @@ Nestes termos, por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O preceituado no artigo 28.º de diploma orgânico aprovado pelo [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro, e no artigo 33.º dos diplomas orgânicos aprovados pelos Decretos n.os [422/70](https://diariodarepublica.pt/dr/detalhe/decreto/422-1970-148830), de 4 de Setembro, e [121/71](https://diariodarepublica.pt/dr/detalhe/decreto/121-1971-445918), de 3 de Abril, deve interpretar-se no sentido fixado ao artigo 166.º do Estatuto do Funcionalismo Ultramarino pelo artigo único do [Decreto n.º 356/70](https://diariodarepublica.pt/dr/detalhe/decreto/356-1970-141251), de 28 de Julho, de que não têm direito a diuturnidade os funcionários que ocupam lugares que fazem parte de uma carreira, mesmo que esses lugares, por se situarem no topo da carreira, não confiram a expectativa de acesso a uma situação de categoria superior.
+Artigo único. O preceituado no artigo 28.º de diploma orgânico aprovado pelo [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro, e no artigo 33.º dos diplomas orgânicos aprovados pelos Decretos n.os [422/70](https://diariodarepublica.pt/dr/detalhe/decreto/422-1970-148830), de 4 de Setembro, e [121/71](https://diariodarepublica.pt/dr/detalhe/decreto/121-1971-445918), de 3 de Abril, deve interpretar-se no sentido fixado ao artigo 166.º do Estatuto do Funcionalismo Ultramarino pelo artigo único do [Decreto n.º 356/70](https://diariodarepublica.pt/dr/detalhe/decreto/356-1970-141251), de 28 de Julho, de que não têm direito a diuturnidade os funcionários que ocupam lugares que fazem parte de uma carreira, mesmo que esses lugares, por se situarem no topo da carreira, não confiram a expectativa de acesso a uma situação de categoria superior.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Agosto de 1971.**
+Promulgado em 12 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

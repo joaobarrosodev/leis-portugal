@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 82/1975, 2º Suplemento, Série I de 1975-04-08
   number: '82'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 528-(3) a 528-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08202/00030004.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-a-1975-688866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aeedd3b3519c9d88fac613fbd4c363a44f69d19b06af8602a0a08a74f8d8058
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 695030362c4489f9cb0cee900c485870c175016e73ce20c2a966f24980599bfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direito de Voto
+- Eleição Legislativa
+- Lei Eleitoral
+- Militar
+- Parlamentar
+- Sistema Eleitoral
+relationships:
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:37Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +104,9 @@ Considerando o disposto no n.º 11 do artigo 1.º da Lei Constitucional n.º 3/7
 
 Nos termos da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São alterados os artigos 82.º e 139.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados os artigos 82.º e 139.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, que passam a ter a seguinte redacção:
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Pessoalidade de voto)
 
@@ -112,7 +122,7 @@ Nos termos da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revol
 
 6 - No acto da votação, o representante, apresentando-se perante a mesa, deverá identificar-se ao presidente, nos termos da legislação eleitoral, exibindo também a procuração do representado e o documento autenticado pela autoridade hierarquicamente superior comprovativo da impossibilidade de exercício do direito de voto. O presidente da mesa, depois de apreciar a regularidade formal destes documentos e de reconhecer o votante como o representante validamente nomeado, dirá o nome do representado em voz alta e entregará o boletim de voto ao representante. Os nomes dos eleitores que votaram através de representante constarão obrigatoriamente da acta das operações eleitorais.
 
-###### ARTIGO 139.º
+ARTIGO 139.º
 
 (Violação da capacidade eleitoral)
 
@@ -122,14 +132,14 @@ Nos termos da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revol
 
 3 - Aquele que dolosamente violar o disposto no artigo 82.º será punido com prisão maior de dois a oito anos e multa de 5000$00 a 20000$00.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Arnão Metelo.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 7 de Abril de 1975.**
+Promulgado em 7 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

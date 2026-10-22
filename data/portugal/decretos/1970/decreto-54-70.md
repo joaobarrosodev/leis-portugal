@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/54-1970-227665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c98b4fa057037ebaf2aaf1a8dba82390c79bcce006a9674c4997e49190ecd96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d470e737f01362bfeb3202652efbeaf65c380295e1884039d64411e7a5dbc4f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:04Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +97,15 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 2.º do Diploma Legislativo Ministerial n.º 10, publicado no Boletim Oficial de Angola, 1.ª série, n.º 21, de 30 de Maio de 1967, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do Diploma Legislativo Ministerial n.º 10, publicado no Boletim Oficial de Angola, 1.ª série, n.º 21, de 30 de Maio de 1967, passa a ter a seguinte redacção:
 
-###### Art. 2.º A competência concedida ao presidente da Junta Provincial de Povoamento, ou quem suas vezes fizer, para outorgar nos contratos a que se refere o artigo anterior, pode ser delegada, para cada caso ou a título permanente, conforme for fixado no despacho de delegação, nos funcionários da Junta ou dos organismos colaborantes que directamente intervierem na sua celebração.
+Art. 2.º A competência concedida ao presidente da Junta Provincial de Povoamento, ou quem suas vezes fizer, para outorgar nos contratos a que se refere o artigo anterior, pode ser delegada, para cada caso ou a título permanente, conforme for fixado no despacho de delegação, nos funcionários da Junta ou dos organismos colaborantes que directamente intervierem na sua celebração.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Janeiro de 1970.**
+Promulgado em 30 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

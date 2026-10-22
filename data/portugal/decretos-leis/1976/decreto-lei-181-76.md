@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/05800/04870488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1976-507431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 238e7588fa358aeeaa4dc50b0c3f6e88dcdc1094d1222fc388f6a6c0727a5564
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7056eace9c9e6c01c8750f18c80729c95d82c52891d53ed7e1b64a8332d9dd90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo Penal
+- Código Penal
+- Comunicação Social
+- Crime
+- Direito à Informação
+- Direito da Informação
+- Imprensa
+- Jornalismo
+- Jornalista
+- Lei de Imprensa
+- Liberdade de Imprensa
+- Processo Judicial
+- Processo Penal
+- Responsabilidade Criminal
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:196218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447353:por
+  label: "Aditado um n.º 4 ao artigo 52.º do Decreto-Lei n.º 85-C/75, de 26 de Fevereiro, na redacção do presente diploma,\
+    \ pela LEI.13/78.21.03.1978.AR, DR.IS [67] de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-1978-447353
+  date: '1978-03-21'
+- type: amended_by
+  target: pt:dre:529473:por
+  label: "Alterados os arts. 16.º, 26.º, 33.º, 53.º, o art. 36.º (na redacção constante do Dec Lei 377/88 de 24-Out DR.IS\
+    \ [246]), o art. 68.º (na redacção constante do Dec Lei 377/88 de 24-Out DR.IS [246] e do presente diplomar) revogado\
+    \ o art. 52.º (na redacção constante do presente diploma e do Dec Lei 377/88 de 24-Out DR.IS [246]) aditados os arts.\
+    \ 36.º-A, 36.º-B, 36.º-C, 36.º-D e 36.º-E e actualizadas as multas estabelecidas, com excepção da prevista no n.º 2 do\
+    \ art. 33.º todos do Dec Lei 85-C/75 de 26-Fev DG.IS [48]2ºSupl, pela LEI.15/95.1995.05.25.AR DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-1995-529473
+  date: '1995-05-25'
+- type: cites
+  target: pt:dre:168803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312667:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:196218:por
+  label: "Revogado pela LEI.2/99.1999.01.13.AR, DR.IS-A [10][\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1999-196218
+  date: '1999-01-13'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:20Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +145,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 37.º, 39.º, 43.º, 52.º e 68.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 37.º, 39.º, 43.º, 52.º e 68.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 37.º — (Forma do processo)
 
@@ -158,14 +201,14 @@ b) A proibição de continuação de qualquer forma de publicação ou venda dos
 
 c) A apreensão de quaisquer publicações que se encontrem suspensas por decisão judicial e que, não obstante, continuem a ser publicadas ou difundidas ou que tenham servido de instrumento para a comissão dos delitos previstos no artigo 66.º, desde que suficientemente indicados.
 
-###### Art. 2.º Ficam revogados os artigos 40.º, 41.º, 42.º, 44.º, 45.º, 46.º, 47.º e 48.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro.
+Art. 2.º Ficam revogados os artigos 40.º, 41.º, 42.º, 44.º, 45.º, 46.º, 47.º e 48.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António de Almeida Santos.
 
-**Promulgado em 3 de Março de 1976.**
+Promulgado em 3 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

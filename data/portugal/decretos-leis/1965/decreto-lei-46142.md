@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46142-1965-226580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eec59f18e505ce5c94d13cf4d5c042e52045712781d16eb67b0d3c96b13c1c3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e01f0dd7c2ce6cbe71f1ff7d12f70d06cdac8bf7d962349a16b9a364c4dbb055
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Lista
+- Mercadoria
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:477836:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292107:por
+  label: "Alterada a numeração dos actuais arts. 87.02.13 e 87.02.14, para, respectivamente, arts. 87.02.14 e 87.02. 15, assim\
+    \ como é alterada a numeração dos arts. 87.02.11 e 87.02.12, com nova redacção para, respectivamente, arts. 87.02.12 e\
+    \ 87.02.13 todos da lista anexa ao presente diploma, pelo DEC LEI.46463.30.07.1965.MF, DG.IS [169] de 30.07.1965\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46463-1965-292107
+  date: '1965-07-30'
+- type: amended_by
+  target: pt:dre:510034:por
+  label: "Passado a 33.06.03, o nº do art. 33.06.02 da lista anexa ao presente diploma, pelo DEC LEI.46540.17.09.1965.MF,\
+    \ DG.IS [211] de 17.09.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46540-1965-510034
+  date: '1965-09-17'
+- type: amended_by
+  target: pt:dre:477836:por
+  label: "Substituída a lista anexa ao presente diploma, na redacção do Dec Lei 46463, de 30-Jul de 1965, pelo DEC LEI.47417.26.12.1966.MF,\
+    \ DG.IS [298] de 26.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47417-1966-477836
+  date: '1966-12-26'
+- type: cites
+  target: pt:dre:192851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:52Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +120,11 @@ Tendo em vista as alterações introduzidas pelos Decretos-Leis n.os 46118 e 461
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A lista de direitos fiscais que segue junta ao presente diploma, e vai assinada pelo Ministro das Finanças, deverá substituir a lista anexa ao [Decreto-Lei n.º 44861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44861-1963-192851), de 21 de Janeiro de 1963.
+Artigo 1.º A lista de direitos fiscais que segue junta ao presente diploma, e vai assinada pelo Ministro das Finanças, deverá substituir a lista anexa ao [Decreto-Lei n.º 44861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44861-1963-192851), de 21 de Janeiro de 1963.
 
-###### Art. 2.º As taxas mencionadas na lista junta consideram-se aplicáveis a partir de 31 de Dezembro de 1964.
+Art. 2.º As taxas mencionadas na lista junta consideram-se aplicáveis a partir de 31 de Dezembro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -106,6 +134,6 @@ Lista dos direitos fiscais
 
 (Artigo 6.º da Convenção da Associação Europeia do Comércio Livre)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/01/00100/00010008.pdf))](https://files.diariodarepublica.pt/1s/1965/01/00100/00010008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/01/00100/00010008.pdf)
 
 Ministério das Finanças, 2 de Janeiro de 1965. - O Ministro das Finanças, António Manuel Pinto Barbosa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/163-1970-225821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d481d6aaa9ce143541fbda932814b96dc46bc7d704bc8cab8735d8c9bccfaf16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d6d9a3be4c5dc5c6efb05af86a377f1c75afda0de6cf9ae54f9e15649ee4cca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510465:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:52Z'
   warnings: []
   errors: []
 ---
@@ -95,31 +127,31 @@ Disposições especiais
 
 A) Guiné
 
-###### Artigo 1.º A gratificação atribuída ao desempenho do cargo de conservador do Museu da Guiné, constante do mapa III anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, é elevada para 1500$00 mensais.
+Artigo 1.º A gratificação atribuída ao desempenho do cargo de conservador do Museu da Guiné, constante do mapa III anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, é elevada para 1500$00 mensais.
 
-###### Art. 2.º - 1. Os actuais escrivães das execuções fiscais do quadro auxiliar e especial de recebedores de Fazenda, incluídos no grupo S do artigo 91.º do Estatuto do Funcionalismo Ultramarino, e os escriturários de 1.ª classe contratados dos mesmos serviços, com, pelo menos, três anos no cargo e boas informações de serviço, poderão ingressar na categoria de aspirante do quadro privativo dos Serviços de Fazenda e Contabilidade, independentemente do grau de habilitações literárias que possuam.
+Art. 2.º - 1. Os actuais escrivães das execuções fiscais do quadro auxiliar e especial de recebedores de Fazenda, incluídos no grupo S do artigo 91.º do Estatuto do Funcionalismo Ultramarino, e os escriturários de 1.ª classe contratados dos mesmos serviços, com, pelo menos, três anos no cargo e boas informações de serviço, poderão ingressar na categoria de aspirante do quadro privativo dos Serviços de Fazenda e Contabilidade, independentemente do grau de habilitações literárias que possuam.
 
 2. Os funcionários investidos no cargo de aspirante, nos termos deste artigo, não poderão ascender a categoria superior à de segundo-oficial, salvo se possuírem as habilitações exigidas pelo artigo 3.º do [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947.
 
 B) S. Tomé e Príncipe
 
-###### Art. 3.º O artigo 31.º do [Decreto n.º 48530](https://diariodarepublica.pt/dr/detalhe/decreto/48530-1968-276041), de 16 de Agosto de 1968, passa a ter a seguinte redacção:
+Art. 3.º O artigo 31.º do [Decreto n.º 48530](https://diariodarepublica.pt/dr/detalhe/decreto/48530-1968-276041), de 16 de Agosto de 1968, passa a ter a seguinte redacção:
 
-###### Art. 31.º O lugar de chefe da Missão poderá ser provido:
+Art. 31.º O lugar de chefe da Missão poderá ser provido:
 
 a) Em comissão por um médico dos quadros dos serviços de saúde e assistência do ultramar que se reconheça possuir os conhecimentos necessários para o desempenho do cargo;
 
 b) Por contrato, da livre escolha do Ministro do Ultramar, de entre médicos com as qualificações necessárias para o desempenho do cargo.
 
-###### Art. 4.º O mapa I anexo ao [Decreto n.º 48530](https://diariodarepublica.pt/dr/detalhe/decreto/48530-1968-276041), de 16 de Agosto de 1968, passa a ter a seguinte constituição:
+Art. 4.º O mapa I anexo ao [Decreto n.º 48530](https://diariodarepublica.pt/dr/detalhe/decreto/48530-1968-276041), de 16 de Agosto de 1968, passa a ter a seguinte constituição:
 
 Quadro do pessoal técnico superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/08700/04720473.pdf))](https://files.diariodarepublica.pt/1s/1970/04/08700/04720473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/08700/04720473.pdf)
 
 C) Angola
 
-###### Art. 5.º - 1. São atribuídas as seguintes gratificações especiais mensais aos funcionários que exerçam funções de fiscalização nos Serviços de Espectáculos da província:
+Art. 5.º - 1. São atribuídas as seguintes gratificações especiais mensais aos funcionários que exerçam funções de fiscalização nos Serviços de Espectáculos da província:
 
 a) Pessoal dos Serviços Centrais, em Luanda ... 1500$00
 
@@ -131,7 +163,7 @@ c) Subdelegados dos concelhos ... 750$00
 
 D) Moçambique
 
-###### Art. 6.º Aos funcionários que exerçam funções de tesoureiro nos hospitais centrais dos Serviços de Saúde e Assistência de Moçambique são atribuídas as seguintes gratificações mensais para falhas:
+Art. 6.º Aos funcionários que exerçam funções de tesoureiro nos hospitais centrais dos Serviços de Saúde e Assistência de Moçambique são atribuídas as seguintes gratificações mensais para falhas:
 
 a) Tesoureiro do Hospital Central de Miguel Bombarda, em Lourenço Marques ... 500$00
 
@@ -139,11 +171,11 @@ b) Tesoureiros dos Hospitais Centrais da Beira e Nampula ... 300$00
 
 E) Macau
 
-###### Art. 7.º É aumentada de $300000 a dotação global para aposentações, pensões, jubilações e reformas do capitulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1970.
+Art. 7.º É aumentada de $300000 a dotação global para aposentações, pensões, jubilações e reformas do capitulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1970.
 
-###### Art. 8.º É revogado o artigo 168.º do [Decreto n.º 27294](https://diariodarepublica.pt/dr/detalhe/decreto/27294-1936-323900), de 30 de Novembro de 1936.
+Art. 8.º É revogado o artigo 168.º do [Decreto n.º 27294](https://diariodarepublica.pt/dr/detalhe/decreto/27294-1936-323900), de 30 de Novembro de 1936.
 
-###### Art. 9.º - 1. O quadro do pessoal docente do Liceu do Infante D. Henrique é aumentado dos seguintes lugares:
+Art. 9.º - 1. O quadro do pessoal docente do Liceu do Infante D. Henrique é aumentado dos seguintes lugares:
 
 Um de professor do 2.º grupo.
 
@@ -153,37 +185,37 @@ Um de professor do 8.º grupo.
 
 2. A dotação dos referidos lugares só se efectuará à medida que as disponibilidades orçamentais o permitirem.
 
-###### Art. 10.º A actual designação de encarregado do farol de Ká-Hó e o correspondente quantitativo, constantes do mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, passam, a partir de 1 de Janeiro do corrente ano, a ser os seguintes:
+Art. 10.º A actual designação de encarregado do farol de Ká-Hó e o correspondente quantitativo, constantes do mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, passam, a partir de 1 de Janeiro do corrente ano, a ser os seguintes:
 
 Encarregado de farolins ... 190$00
 
-###### Art. 11.º É aplicável ao pessoal da Polícia Marítima e Fiscal dos Serviços de Marinha o disposto nos artigos 3.º e 4.º do [Decreto n.º 47217](https://diariodarepublica.pt/dr/detalhe/decreto/47217-1966-480163), de 24 de Setembro de 1966.
+Art. 11.º É aplicável ao pessoal da Polícia Marítima e Fiscal dos Serviços de Marinha o disposto nos artigos 3.º e 4.º do [Decreto n.º 47217](https://diariodarepublica.pt/dr/detalhe/decreto/47217-1966-480163), de 24 de Setembro de 1966.
 
-###### Art. 12.º São atribuídas as seguintes gratificações especiais mensais aos funcionários da Administração do Concelho das Ilhas que desempenhem funções, em regime de acumulação, na Delegacia Marítima das Ilhas:
+Art. 12.º São atribuídas as seguintes gratificações especiais mensais aos funcionários da Administração do Concelho das Ilhas que desempenhem funções, em regime de acumulação, na Delegacia Marítima das Ilhas:
 
 Ao administrador do concelho, como delegado marítimo ... 570$00
 
 Ao secretário, como escrivão ... 332$00
 
-###### Art. 13.º Fica o Governo da província autorizado a remodelar o quadro de pessoal assalariado dos Serviços de Saúde e Assistência de forma a integrar nele o pessoal assalariado eventual que ali presta serviço, fixando-lhe as respectivas remunerações de acordo com o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 13.º Fica o Governo da província autorizado a remodelar o quadro de pessoal assalariado dos Serviços de Saúde e Assistência de forma a integrar nele o pessoal assalariado eventual que ali presta serviço, fixando-lhe as respectivas remunerações de acordo com o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 14.º Fica o Governo da província autorizado a remodelar o quadro de pessoal assalariado dos Serviços de Obras Públicas e Transportes de forma a integrar nele o pessoal assalariado eventual que ali preste serviço, fixando-lhe as respectivas remunerações de acordo com o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 14.º Fica o Governo da província autorizado a remodelar o quadro de pessoal assalariado dos Serviços de Obras Públicas e Transportes de forma a integrar nele o pessoal assalariado eventual que ali preste serviço, fixando-lhe as respectivas remunerações de acordo com o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 II
 
 Disposições comuns
 
-###### Art. 15.º É atribuída aos médicos-chefes do Serviço de Combate à Lepra das províncias de Angola e de Moçambique a gratificação mensal, por risco de contágio, de 3000$00, inacumulável com o abono da gratificação, prevista nos mapas V e VI anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, para os médicos leprólogos dos Serviços de Saúde e Assistência das referidas províncias.
+Art. 15.º É atribuída aos médicos-chefes do Serviço de Combate à Lepra das províncias de Angola e de Moçambique a gratificação mensal, por risco de contágio, de 3000$00, inacumulável com o abono da gratificação, prevista nos mapas V e VI anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, para os médicos leprólogos dos Serviços de Saúde e Assistência das referidas províncias.
 
-###### Art. 16.º São revogados os §§ 2.º e 3.º do artigo 63.º do Regulamento das Inspecções Provinciais de Fazenda e Contabilidade de Angola e Moçambique, aprovado pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958.
+Art. 16.º São revogados os §§ 2.º e 3.º do artigo 63.º do Regulamento das Inspecções Provinciais de Fazenda e Contabilidade de Angola e Moçambique, aprovado pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958.
 
-###### Art. 17.º O artigo 1.º do [Decreto n.º 48432](https://diariodarepublica.pt/dr/detalhe/decreto/48432-1968-272238), de 14 de Junho de 1968, passa a ter a seguinte redacção:
+Art. 17.º O artigo 1.º do [Decreto n.º 48432](https://diariodarepublica.pt/dr/detalhe/decreto/48432-1968-272238), de 14 de Junho de 1968, passa a ter a seguinte redacção:
 
-###### Artigo 1.º É atribuída ao director de 3.ª classe do quadro comum de Fazenda do ultramar incumbido das funções referidas no § único do artigo 2.º do [Decreto n.º 46558](https://diariodarepublica.pt/dr/detalhe/decreto/46558-1965-510465), de 29 de Setembro de 1965, gratificação especial mensal de 1500$00.
+Artigo 1.º É atribuída ao director de 3.ª classe do quadro comum de Fazenda do ultramar incumbido das funções referidas no § único do artigo 2.º do [Decreto n.º 46558](https://diariodarepublica.pt/dr/detalhe/decreto/46558-1965-510465), de 29 de Setembro de 1965, gratificação especial mensal de 1500$00.
 
-###### Art. 18.º São revogadas as alíneas a) a c) do artigo 1.º do [Decreto n.º 48432](https://diariodarepublica.pt/dr/detalhe/decreto/48432-1968-272238), de 14 de Junho de 1968.
+Art. 18.º São revogadas as alíneas a) a c) do artigo 1.º do [Decreto n.º 48432](https://diariodarepublica.pt/dr/detalhe/decreto/48432-1968-272238), de 14 de Junho de 1968.
 
-###### Art. 19.º - 1. Sempre que num concurso para preenchimento de lugares nos quadros técnicos do ultramar. comuns ou privativos, para os quais se exija curso superior ou médio, não haja candidatos ou o seu número seja insuficiente para provimento das vagas existentes, poderão, tanto as que assim resultem como as que se verifiquem no prazo de dois anos, contados da publicação da respectiva lista definitiva dos candidatos admitidos ou da declaração da sua falta, ser preenchidas por contrato, com dispensa de concurso.
+Art. 19.º - 1. Sempre que num concurso para preenchimento de lugares nos quadros técnicos do ultramar. comuns ou privativos, para os quais se exija curso superior ou médio, não haja candidatos ou o seu número seja insuficiente para provimento das vagas existentes, poderão, tanto as que assim resultem como as que se verifiquem no prazo de dois anos, contados da publicação da respectiva lista definitiva dos candidatos admitidos ou da declaração da sua falta, ser preenchidas por contrato, com dispensa de concurso.
 
 2. Tratando-se de quadros comuns, os contratos serão autorizados pelo Ministro do Ultramar, mediante proposta ou acordo do governador da província; os contratos para os quadros privativos serão autorizados pelo governador da respectiva província.
 
@@ -191,9 +223,9 @@ Disposições comuns
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Abril de 1970.**
+Promulgado em 3 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

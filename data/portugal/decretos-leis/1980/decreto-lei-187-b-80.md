@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 135/1980, 1º Suplemento, Série I de 1980-06-14
   number: '135'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1380-(2) a 1380-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13501/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-b-1980-647320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb31122f7eb9be7fdcf7e0de20f1f6870ebbcdc442c265e2534668881221d942
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e148c884041098283af3cb1e5ff00a2ff3461b862eb9ae2d1c89e48aebfa06ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Convenção
+- Direitos Aduaneiros
+- EFTA
+- Pauta Aduaneira
+- Portugal
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:32Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Considerando o disposto na Decisão do Conselho da Associação Europeia de Com�
 
 Usando da autorização conferida pela alínea a) do artigo 22.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ficam sujeitos, até 31 de Dezembro de 1982, às taxas da área pautal da CEE e da AECL, em vigor em 31 de Dezembro de 1979, os produtos a seguir indicados:
+Artigo 1.º Ficam sujeitos, até 31 de Dezembro de 1982, às taxas da área pautal da CEE e da AECL, em vigor em 31 de Dezembro de 1979, os produtos a seguir indicados:
 
 1) Os produtos originários da Comunidade Económica Europeia:
 
@@ -108,12 +124,12 @@ b) Mencionados na alínea d) do parágrafo 1 do artigo 2.º do Protocolo Complem
 
 4) Os produtos originários da CEE e da AECL referidos, respectivamente, na alínea e) do parágrafo 1 do artigo 2.º do Protocolo Complementar entre Portugal e a CEE e no anexo III à Decisão do Conselho da Associação Europeia de Comércio Livre n.º 12/79, de 13 de Dezembro.
 
-###### Art. 2.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1980.
+Art. 2.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1980.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 13 de Junho de 1980.**
+Promulgado em 13 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

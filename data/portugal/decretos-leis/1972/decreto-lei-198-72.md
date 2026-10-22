@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1972-682610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff2c1fe7ff10590c1f8112ed896afffb23d4f60b1efeb702dc14fa836acdb58a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3efeead9a953ddda8b1910b4e29968a05622133cd59db98bf2c42dce46667ee3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Ajudas de Custo
+- Força Aérea
+- Marinha
+- Militar
+- Subsídio de Viagem
+relationships:
+- type: cites
+  target: pt:dre:173360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398834:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:49Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +110,14 @@ Atendendo a que o § 2.º do artigo 1.º deste diploma foi alterado pelo [Decret
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São consideradas extensivas ao pessoal militar em serviço nas forças navais e aéreas ultramarinas as disposições do § 2.º do artigo 1.º do [Decreto-Lei n.º 41566](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41566-1958-304750), de 21 de Março de 1958, com a redacção do [Decreto-Lei n.º 73/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1972-398834), sendo a competência para as determinar do Ministro da Marinha ou Secretário de Estado da Aeronáutica, conforme o ramo das forças armadas a que pertencer o militar.
+Artigo único. São consideradas extensivas ao pessoal militar em serviço nas forças navais e aéreas ultramarinas as disposições do § 2.º do artigo 1.º do [Decreto-Lei n.º 41566](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41566-1958-304750), de 21 de Março de 1958, com a redacção do [Decreto-Lei n.º 73/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1972-398834), sendo a competência para as determinar do Ministro da Marinha ou Secretário de Estado da Aeronáutica, conforme o ramo das forças armadas a que pertencer o militar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Junho de 1972.**
+Promulgado em 7 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

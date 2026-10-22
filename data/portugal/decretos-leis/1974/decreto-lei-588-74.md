@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/25800/13371338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1974-471518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3460154bf5d4cafc4663974e618614ff21f2edd33622003a0cd7a36e66ad89f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18d29897315c94464f7f13d0678b296accc0cbcb3b5abc14e3e3a19dd6867c3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Figueira da Foz
+- Hospital Distrital
+- Hospital Ortopédico e de Recuperação
+- Instalação de Serviços
+- Integração de Trabalhadores
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:16Z'
   warnings: []
   errors: []
 ---
@@ -103,29 +119,29 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Hospital Ortopédico e de Recuperação da Gala é desvinculado do Centro Hospitalar de Coimbra e convertido em hospital distrital polivalente, com área de influência a definir oportunamente, e passa a ter a designação de Hospital Distrital da Figueira da Foz.
+Artigo 1.º - 1. O Hospital Ortopédico e de Recuperação da Gala é desvinculado do Centro Hospitalar de Coimbra e convertido em hospital distrital polivalente, com área de influência a definir oportunamente, e passa a ter a designação de Hospital Distrital da Figueira da Foz.
 
 2. O estabelecimento hospitalar pertencente à Santa Casa da Misericórdia da Figueira da Foz deixa de desempenhar as funções de hospital distrital logo que para o novo estabelecimento sejam transferidos todos os serviços.
 
 3. Para o novo Hospital Distrital transitam igualmente todos os serviços que funcionam na Casa da Mãe da Figueira da Foz.
 
-###### Art. 2.º - 1. O novo Hospital Distrital da Figueira da Foz é dotado de personalidade jurídica e de autonomia administrativa nos termos do n.º 1 do artigo 27.º do Estatuto Hospitalar.
+Art. 2.º - 1. O novo Hospital Distrital da Figueira da Foz é dotado de personalidade jurídica e de autonomia administrativa nos termos do n.º 1 do artigo 27.º do Estatuto Hospitalar.
 
 2. O esquema de serviço do novo Hospital será elaborado tendo em conta o seu carácter polivalente e de harmonia com os padrões gerais definidos para os hospitais distritais.
 
-###### Art. 3.º - 1. O Hospital Distrital da Figueira da Foz entra em regime de instalação nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 3.º - 1. O Hospital Distrital da Figueira da Foz entra em regime de instalação nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 2. Até que sejam publicadas normas definitivas de funcionamento, serão aprovados, por despacho ministerial, os regulamentos parcelares que se revelem necessários.
 
-###### Art. 4.º Constituem património do novo Hospital:
+Art. 4.º Constituem património do novo Hospital:
 
 a) O activo e passivo do Hospital Ortopédico e de Recuperação da Gala, incluindo os subsídios expressamente atribuídos ao Centro Hospitalar de Coimbra e consignados ao referido estabelecimento;
 
 b) O activo e passivo da Casa da Mãe.
 
-###### Art. 5.º O regime financeiro é o aplicável aos demais hospitais distritais oficiais.
+Art. 5.º O regime financeiro é o aplicável aos demais hospitais distritais oficiais.
 
-###### Art. 6.º - 1. O pessoal que presta serviço no Hospital da Santa Casa da Misericórdia da Figueira da Foz poderá ser admitido em lugares do mapa do pessoal do novo Hospital desde que habilitado com os requisitos legais indispensáveis, à excepção do da idade.
+Art. 6.º - 1. O pessoal que presta serviço no Hospital da Santa Casa da Misericórdia da Figueira da Foz poderá ser admitido em lugares do mapa do pessoal do novo Hospital desde que habilitado com os requisitos legais indispensáveis, à excepção do da idade.
 
 2. Ao pessoal integrado no novo estabelecimento ao abrigo do número anterior será contado, para efeitos de antiguidade e acesso, o serviço anteriormente prestado.
 
@@ -133,12 +149,12 @@ b) O activo e passivo da Casa da Mãe.
 
 4. O pessoal que presta serviço no Centro Hospitalar de Coimbra e que, encontrando-se no Hospital Ortopédico e de Recuperação, desejar prestar serviço no Hospital Distrital trasita para os lugares idênticos do mapa deste último, sem interrupção de direitos e obrigações.
 
-###### Art. 7.º O pessoal manter-se-á inscrito na Caixa de Previdência dos Empregados de Assistência, salvo se, não se achando abrangido pelo disposto no artigo 58.º do Estatuto Hospitalar e preenchendo os requisitos de inscrição na Caixa Geral de Aposentações, optar por esta, no prazo de noventa dias, a partir da admissão no novo Hospital.
+Art. 7.º O pessoal manter-se-á inscrito na Caixa de Previdência dos Empregados de Assistência, salvo se, não se achando abrangido pelo disposto no artigo 58.º do Estatuto Hospitalar e preenchendo os requisitos de inscrição na Caixa Geral de Aposentações, optar por esta, no prazo de noventa dias, a partir da admissão no novo Hospital.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 21 de Outubro de 1974.**
+Promulgado em 21 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

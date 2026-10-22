@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16000/15291532.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/547-1976-430446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 770fa0186266ee5e1428d5b5e5801c595fd2640b3c03366925d12c2fe8da60c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b555efb7eb2846f4a1538b1d91c8016a86f6412ece18c796771b248850044d5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Conselho Técnico
+- Criação de Serviços
+- Definição de Competências
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Extinção de Serviços
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto de Assistência aos Doentes de Hansen
+- Instituto de Assistência aos Leprosos
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231286:por
+  label: "Extinto o Instituto de Assistência aos Doentes de Hansen criado no presente diploma e revogados os arts. 1º, 2º\
+    \ e 3º do mesmo pelo DEC LEI.530/79.31.12.1979.PCM, DR.IS [300-4.º Supl] de 31.12.1979 (Mantidas em vigor as normas revogadas,\
+    \ conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1979-231286
+  date: '1979-12-31'
+- type: cites
+  target: pt:dre:171366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:156815:por
+  label: "Revogados os arts. 26º e 27 pelo DEC LEI.519-O2/79.29.12.1979.PCM, DR.IS [299-14º Supl] de 29.12.1979 (Mantidas\
+    \ em vigor as normas revogadas, conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-o2-1979-156815
+  date: '1979-12-29'
+- type: repealed_by
+  target: pt:dre:405702:por
+  label: "Revogados os arts 12º a 25º, 32º e 33º pelo DEC LEI.74-C/84.1984.03.02.PCM DR.IS [53]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-c-1984-405702
+  date: '1984-03-02'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:46Z'
   warnings: []
   errors: []
 ---
@@ -115,49 +187,49 @@ Usando da faculdade conferida pelo artigo 201.º, n.º 1, alínea a), da Constit
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. A luta contra a doença de Hansen abrange aspectos educativos, profilácticos, terapêuticos e de reabilitação.
+Artigo 1.º - 1. A luta contra a doença de Hansen abrange aspectos educativos, profilácticos, terapêuticos e de reabilitação.
 
 2. O fim em vista é a erradicação da doença no território português, devendo, para isso, actuar-se de acordo com os critérios científicos internacionalmente preconizados, adaptando-se as fases de luta aos progressos no conhecimento da doença.
 
-###### Art. 2.º Os factores básicos na luta contra a doença de Hansen são o rastreio precoce e tratamento dos doentes, a observação e vigilância dos seus contactos, a procura de melhoria das condições de vida dos doentes e a sua reintegração social, a par da generalização do conhecimento da doença entre os médicos e outros trabalhadores de saúde pública e a população em geral.
+Art. 2.º Os factores básicos na luta contra a doença de Hansen são o rastreio precoce e tratamento dos doentes, a observação e vigilância dos seus contactos, a procura de melhoria das condições de vida dos doentes e a sua reintegração social, a par da generalização do conhecimento da doença entre os médicos e outros trabalhadores de saúde pública e a população em geral.
 
-###### Art. 3.º As medidas profilácticas deverão incidir particularmente nos familiares dos doentes e outros conviventes do agregado habitacional.
+Art. 3.º As medidas profilácticas deverão incidir particularmente nos familiares dos doentes e outros conviventes do agregado habitacional.
 
-###### Art. 4.º O diagnóstico da doença de Hansen e a classificação das suas formas deverão basear-se em critérios clínicos, baciloscópicos, histopatológicos e imunológicos.
+Art. 4.º O diagnóstico da doença de Hansen e a classificação das suas formas deverão basear-se em critérios clínicos, baciloscópicos, histopatológicos e imunológicos.
 
-###### Art. 5.º - 1. Os doentes devem ser tratados regularmente e vigiados periodicamente, de preferência em regime ambulatório, reservando-se o internamento para aqueles que o necessitem por razões especificamente técnicas, médicas ou sociais.
+Art. 5.º - 1. Os doentes devem ser tratados regularmente e vigiados periodicamente, de preferência em regime ambulatório, reservando-se o internamento para aqueles que o necessitem por razões especificamente técnicas, médicas ou sociais.
 
 2. A observação e vigilância deverá ser efectuada em consultas diferenciadas que se apoiam nos serviços de saúde existentes.
 
 3. O Ministério Público, ou a autoridade sanitária, podem requerer ao juiz do tribunal da comarca territorialmente competente o internamento compulsivo em estabelecimento hospitalar dos doentes que, por negligência ou recusa, não cumpram as prescrições terapêuticas ou as indicações consideradas indispensáveis para a defesa da saúde pública.
 
-###### Art. 6.º - 1. O internamento será limitado ao período estritamente necessário à resolução das situações específicas que o determinaram e deverá efectuar-se, sempre que possível, nas enfermarias de dermatologia ou de doenças infecto-contagiosas dos hospitais gerais que apoiam as consultas.
+Art. 6.º - 1. O internamento será limitado ao período estritamente necessário à resolução das situações específicas que o determinaram e deverá efectuar-se, sempre que possível, nas enfermarias de dermatologia ou de doenças infecto-contagiosas dos hospitais gerais que apoiam as consultas.
 
 2. O internamento de doentes de Hansen no Hospital de Rovisco Pais deverá ser reservado para os casos em que o mesmo se justifica por razões predominantemente sociais ou para os doentes cuja vigilância e tratamento está a cargo da respectiva consulta.
 
-###### Art. 7.º O diagnóstico da doença de Hansen não deverá interferir com a vida social e familiar dos doentes, apenas podendo condicionar a sua actividade profissional ou quando haja risco evidente para a saúde pública.
+Art. 7.º O diagnóstico da doença de Hansen não deverá interferir com a vida social e familiar dos doentes, apenas podendo condicionar a sua actividade profissional ou quando haja risco evidente para a saúde pública.
 
-###### Art. 8.º Deverá ser promovido o apoio assistencial e social de forma a permitir medidas profilácticas e sanitárias correctas que compreendam, inclusivamente, a melhoria das condições de higiene habitacional dos doentes.
+Art. 8.º Deverá ser promovido o apoio assistencial e social de forma a permitir medidas profilácticas e sanitárias correctas que compreendam, inclusivamente, a melhoria das condições de higiene habitacional dos doentes.
 
-###### Art. 9.º As crianças familiares dos doentes deverão ser objecto de medidas profilácticas activas, não sendo admissíveis medidas que impliquem o afastamento dessas crianças do seu agregado familiar ou qualquer outra forma de segregação.
+Art. 9.º As crianças familiares dos doentes deverão ser objecto de medidas profilácticas activas, não sendo admissíveis medidas que impliquem o afastamento dessas crianças do seu agregado familiar ou qualquer outra forma de segregação.
 
-###### Art. 10.º A doença de Hansen é de notificação obrigatória, nos termos da legislação em vigor.
+Art. 10.º A doença de Hansen é de notificação obrigatória, nos termos da legislação em vigor.
 
-###### Art. 11.º Os serviços e estabelecimentos oficiais ou particulares que admitam doentes de Hansen em regime de internamento ou de tratamento ambulatório deverão participar ao Instituto de Assistência aos Doentes de Hansen, a que se refere o artigo seguinte, as admissões e altas que neles ocorram, com indicação do lugar da residência dos doentes e das pessoas que com eles convivam.
+Art. 11.º Os serviços e estabelecimentos oficiais ou particulares que admitam doentes de Hansen em regime de internamento ou de tratamento ambulatório deverão participar ao Instituto de Assistência aos Doentes de Hansen, a que se refere o artigo seguinte, as admissões e altas que neles ocorram, com indicação do lugar da residência dos doentes e das pessoas que com eles convivam.
 
 ### CAPÍTULO II — Organização
 
-###### Art. 12.º - 1. A organização e coordenação da luta contra a doença de Hansen é da responsabilidade do Instituto de Assistência aos Doentes de Hansen, competindo a sua execução aos serviços e estabelecimentos indicados na secção III deste capítulo.
+Art. 12.º - 1. A organização e coordenação da luta contra a doença de Hansen é da responsabilidade do Instituto de Assistência aos Doentes de Hansen, competindo a sua execução aos serviços e estabelecimentos indicados na secção III deste capítulo.
 
 2. Junto do Instituto de Assistência aos Doentes de Hansen funciona o conselho técnico.
 
 #### SECÇÃO I — Instituto de Assistência aos Doentes de Hansen
 
-###### Art. 13.º O Instituto de Assistência aos Doentes de Hansen, seguidamente designado apenas por Instituto, goza de autonomia administrativa e depende da Direcção-Geral de Saúde.
+Art. 13.º O Instituto de Assistência aos Doentes de Hansen, seguidamente designado apenas por Instituto, goza de autonomia administrativa e depende da Direcção-Geral de Saúde.
 
-###### Art. 14.º Na parte em que não contrariem o disposto no presente diploma, são aplicáveis ao Instituto as disposições dos Decretos-Leis n.os [413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738) e [414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
+Art. 14.º Na parte em que não contrariem o disposto no presente diploma, são aplicáveis ao Instituto as disposições dos Decretos-Leis n.os [413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738) e [414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
 
-###### Art. 15.º - 1. O Instituto tem como receitas:
+Art. 15.º - 1. O Instituto tem como receitas:
 
 a) Comparticipações do Estado;
 
@@ -165,9 +237,9 @@ b) Rendimento dos bens próprios.
 
 2. O Instituto tem capacidade para aceitar heranças, doações e legados.
 
-###### Art. 16.º Ao Instituto compete, de uma forma geral, orientar e promover a execução e fiscalizar a acção educativa, profiláctica, terapêutica e de recuperação no combate à doença de Hansen, criando e apoiando os serviços e estabelecimentos necessários à observação, vigilância, tratamento e internamento de doentes.
+Art. 16.º Ao Instituto compete, de uma forma geral, orientar e promover a execução e fiscalizar a acção educativa, profiláctica, terapêutica e de recuperação no combate à doença de Hansen, criando e apoiando os serviços e estabelecimentos necessários à observação, vigilância, tratamento e internamento de doentes.
 
-###### Art. 17.º Ao Instituto compete em especial:
+Art. 17.º Ao Instituto compete em especial:
 
 a) Promover estudos sobre a doença de Hansen;
 
@@ -185,9 +257,9 @@ g) Prestar assistência aos doentes de Hansen e a suas famílias;
 
 h) Propor as providências que forem preconizadas pelo conselho técnico, conducentes à maior eficiência da luta contra a doença de Hansen e à assistência a prestar aos doentes e suas famílias.
 
-###### Art. 18.º A direcção do Instituto será exercida pelo inspector superior de Medicina Social, da Direcção-Geral de Saúde.
+Art. 18.º A direcção do Instituto será exercida pelo inspector superior de Medicina Social, da Direcção-Geral de Saúde.
 
-###### Art. 19.º Ao director do Instituto compete em especial:
+Art. 19.º Ao director do Instituto compete em especial:
 
 a) Orientar e dirigir a luta contra a doença de Hansen;
 
@@ -199,7 +271,7 @@ d) Aprovar o parecer do conselho técnico sobre o plano de actividades do Instit
 
 #### SECÇÃO II — Conselho técnico
 
-###### Art. 20.º - 1. Ao conselho técnico compete elaborar as normas a que deverão subordinar-se as actividades da luta contra a doença de Hansen e em especial:
+Art. 20.º - 1. Ao conselho técnico compete elaborar as normas a que deverão subordinar-se as actividades da luta contra a doença de Hansen e em especial:
 
 a) Elaborar os pareceres que lhe forem solicitados pelo Secretário de Estado da Saúde ou pela Direcção-Geral de Saúde;
 
@@ -221,9 +293,9 @@ h) Incentivar e orientar a publicação de trabalhos e estudos respeitantes à d
 
 3. A execução das deliberações do conselho é assegurada pelo Instituto.
 
-###### Art. 21.º Ficam tecnicamente subordinados ao conselho técnico, por intermédio do Instituto, todos os serviços e estabelecimentos, existentes ou a criar, que tenham por finalidade a assistência aos doentes de Hansen.
+Art. 21.º Ficam tecnicamente subordinados ao conselho técnico, por intermédio do Instituto, todos os serviços e estabelecimentos, existentes ou a criar, que tenham por finalidade a assistência aos doentes de Hansen.
 
-###### Art. 22.º - 1. O conselho técnico é constituído por três membros, sendo um deles o director do Instituto, como representante da Direcção-Geral de Saúde, que presidirá; a nomeação dos dois outros será feita pelo Secretário de Estado da Saúde, sob proposta da referida Direcção-Geral.
+Art. 22.º - 1. O conselho técnico é constituído por três membros, sendo um deles o director do Instituto, como representante da Direcção-Geral de Saúde, que presidirá; a nomeação dos dois outros será feita pelo Secretário de Estado da Saúde, sob proposta da referida Direcção-Geral.
 
 2. O conselho convocará, quando o achar conveniente, outras individualidades.
 
@@ -231,19 +303,19 @@ h) Incentivar e orientar a publicação de trabalhos e estudos respeitantes à d
 
 4. O conselho designará o seu secretário de entre os funcionários do Instituto ou dos serviços dele dependentes.
 
-###### Art. 23.º O conselho técnico reger-se-á internamente por um regulamento a aprovar.
+Art. 23.º O conselho técnico reger-se-á internamente por um regulamento a aprovar.
 
-###### Art. 24.º - 1. Os membros do conselho técnico exercerão as suas funções gratuitamente.
+Art. 24.º - 1. Os membros do conselho técnico exercerão as suas funções gratuitamente.
 
 2. Aos membros do conselho e ao secretário poderão ser abonadas senhas de presença.
 
 3. Nas suas deslocações, os membros do conselho terão direito ao pagamento do transporte e ao abono de ajudas de custo correspondentes aos vencimentos dos cargos que exercem.
 
-###### Art. 25.º As despesas resultantes do funcionamento do conselho técnico serão suportadas pelas verbas para tal fim consignadas no orçamento do Instituto.
+Art. 25.º As despesas resultantes do funcionamento do conselho técnico serão suportadas pelas verbas para tal fim consignadas no orçamento do Instituto.
 
 #### SECÇÃO III — Serviços e estabelecimentos
 
-###### Art. 26.º A assistência aos doentes de Hansen e a suas famílias será prestada pelos seguintes serviços e estabelecimentos:
+Art. 26.º A assistência aos doentes de Hansen e a suas famílias será prestada pelos seguintes serviços e estabelecimentos:
 
 a) Centros de saúde, consultas diferenciadas e hospitais gerais;
 
@@ -253,7 +325,7 @@ c) Serviços itinerantes.
 
 ##### SUBSECÇÃO I — Centros de saúde e consultas diferenciadas
 
-###### Art. 27.º Aos centros de saúde e consultas diferenciadas compete:
+Art. 27.º Aos centros de saúde e consultas diferenciadas compete:
 
 1.º A assistência clínica a doentes
 
@@ -271,13 +343,13 @@ c) Serviços itinerantes.
 
 ##### SUBSECÇÃO II — Hospital do Rovisco Pais
 
-###### Art. 28.º - 1. O Hospital de Rovisco Pais goza de autonomia administrativa e depende da orientação do Instituto no sector afecto à luta contra a doença de Hansen.
+Art. 28.º - 1. O Hospital de Rovisco Pais goza de autonomia administrativa e depende da orientação do Instituto no sector afecto à luta contra a doença de Hansen.
 
 2. As instalações do Hospital não necessárias ao objectivo indicado no n.º 1, bem como os fins assistenciais a que se destinam, serão oportunamente definidas.
 
-###### Art. 29.º Ao Hospital de Rovisco Pais, na parte afecta à doença de Hansen, aplica-se a legislação relativa aos hospitais oficiais especializados.
+Art. 29.º Ao Hospital de Rovisco Pais, na parte afecta à doença de Hansen, aplica-se a legislação relativa aos hospitais oficiais especializados.
 
-###### Art. 30.º - 1. O Hospital de Rovisco Pais, no sector afecto à luta contra a doença de Hansen, tem como receitas:
+Art. 30.º - 1. O Hospital de Rovisco Pais, no sector afecto à luta contra a doença de Hansen, tem como receitas:
 
 a) Comparticipações do Estado;
 
@@ -285,7 +357,7 @@ b) Rendimento dos bens próprios.
 
 2. O Hospital tem capacidade para aceitar heranças, doações e legados e pode receber subsídios do Estado, das autarquias locais ou de outras entidades, destinados aos objectivos específicos do sector.
 
-###### Art. 31.º No domínio do combate à doença de Hansen, incumbe ao Hospital de Rovisco Pais:
+Art. 31.º No domínio do combate à doença de Hansen, incumbe ao Hospital de Rovisco Pais:
 
 a) O tratamento, em regime de internamento, de doentes de Hansen, nos termos do n.º 2 do artigo 6.º;
 
@@ -295,23 +367,23 @@ c) Prestar colaboração a todos os outros serviços e estabelecimentos, designa
 
 ##### SUBSECÇÃO III — Serviço, itinerantes
 
-###### Art. 32.º Sob orientação do Instituto, serão organizados serviços itinerantes, aos quais compete:
+Art. 32.º Sob orientação do Instituto, serão organizados serviços itinerantes, aos quais compete:
 
 1.º O apoio directo na execução das tarefas sanitárias dos órgãos periféricos e a fiscalização das mesmas;
 
 2.º Desenvolver acção sanitária onde não houver órgãos periféricos especializados.
 
-###### Art. 33.º As autoridades sanitárias deverão assegurar aos serviços itinerantes a colaboração e o auxílio de que os mesmos careçam para o bom desempenho da sua missão.
+Art. 33.º As autoridades sanitárias deverão assegurar aos serviços itinerantes a colaboração e o auxílio de que os mesmos careçam para o bom desempenho da sua missão.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 34.º - 1. É extinto o Instituto de Assistência aos Leprosos, sucedendo-lhe, na totalidade de todos os seus direitos e nas obrigações, o Instituto de Assistência aos Doentes de Hansen, criado por este diploma.
+Art. 34.º - 1. É extinto o Instituto de Assistência aos Leprosos, sucedendo-lhe, na totalidade de todos os seus direitos e nas obrigações, o Instituto de Assistência aos Doentes de Hansen, criado por este diploma.
 
 2. O pessoal que presta serviço no Instituto de Assistência aos Leprosos, agora extinto, transita para o Instituto de Assistência aos Doentes de Hansen.
 
 3. Sem prejuízo da sua integração futura nos vencimentos do pessoal, nos termos do artigo 6.º, n.º 1, do [Decreto-Lei n.º 294/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469), de 16 de Junho, manter-se-á, a título provisório, o abono das gratificações previstas no § único do artigo 35.º do [Decreto-Lei n.º 36450](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36450-1947-182400) e no § 3.º do artigo 14.º do [Decreto n.º 36451](https://diariodarepublica.pt/dr/detalhe/decreto/36451-1947-182401), ambos de 2 de Agosto de 1947.
 
-###### Art. 35.º São revogados os seguintes diplomas legais:
+Art. 35.º São revogados os seguintes diplomas legais:
 
 a) [Decreto-Lei n.º 29122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29122-1938-349507), de 15 de Novembro de 1938;
 
@@ -321,12 +393,12 @@ c) [Decreto n.º 36451](https://diariodarepublica.pt/dr/detalhe/decreto/36451-19
 
 d) [Decreto-Lei n.º 43756](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43756-1961-171366), de 28 de Junho de 1961.
 
-###### Art. 36.º No prazo de cento e vinte dias, a partir da publicação deste decreto-lei, serão aprovadas as normas regulamentares a que nele se faz referência.
+Art. 36.º No prazo de cento e vinte dias, a partir da publicação deste decreto-lei, serão aprovadas as normas regulamentares a que nele se faz referência.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 30 de Junho de 1976.**
+Promulgado em 30 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

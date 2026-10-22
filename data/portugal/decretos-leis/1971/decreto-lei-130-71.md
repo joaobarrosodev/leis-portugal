@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1971-445694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1068aa8b3e47d9418da20300b396176f3e901864d6ebd7312e94196452dcb9b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ef27307ac3e323088c042ced48b67c416896e57576569339faf9ae6c0daa8b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Construções Hospitalares
+- Conselho Superior de Obras Públicas
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral das Construções Hospitalares
+- Estabelecimento Hospitalar
+- Extinção de Serviços
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:463991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339424:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:08Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +132,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no Ministério das Obras Públicas a Direcção-Geral das Construções Hospitalares, para a qual transitam a competência e as atribuições da Comissão de Construções Hospitalares, que é extinta.
+Artigo 1.º É criada no Ministério das Obras Públicas a Direcção-Geral das Construções Hospitalares, para a qual transitam a competência e as atribuições da Comissão de Construções Hospitalares, que é extinta.
 
-###### Art. 2.º Compete à Direcção-Geral das Construções Hospitalares o estudo, projecto, construção, ampliação, adaptação, restauro, conservação e apetrechamento dos estabelecimentos hospitalares, das escolas de enfermagem, das residências de enfermeiras e de outros estabelecimentos oficiais que prossigam actividades de saúde pública de idêntica índole, gerais ou especializadas, de acordo com os planos e programas elaborados pelo Ministério da Saúde e Assistência.
+Art. 2.º Compete à Direcção-Geral das Construções Hospitalares o estudo, projecto, construção, ampliação, adaptação, restauro, conservação e apetrechamento dos estabelecimentos hospitalares, das escolas de enfermagem, das residências de enfermeiras e de outros estabelecimentos oficiais que prossigam actividades de saúde pública de idêntica índole, gerais ou especializadas, de acordo com os planos e programas elaborados pelo Ministério da Saúde e Assistência.
 
-###### Art. 3.º - 1. A Direcção-Geral das Construções Hospitalares disporá dos seguintes serviços técnicos e administrativos:
+Art. 3.º - 1. A Direcção-Geral das Construções Hospitalares disporá dos seguintes serviços técnicos e administrativos:
 
 1) Gabinete de Estudos e Planeamento;
 
@@ -149,7 +170,7 @@ b) Secção de Expediente Geral e Pessoal.
 
 2. O Ministro das Obras Públicas determinará, por despacho, os distritos abrangidos por cada direcção externa.
 
-###### Art. 4.º - 1. Junto da Direcção-Geral das Construções Hospitalares funcionará um conselho orientador, com a seguinte constituição:
+Art. 4.º - 1. Junto da Direcção-Geral das Construções Hospitalares funcionará um conselho orientador, com a seguinte constituição:
 
 a) O director-geral, que servirá de presidente;
 
@@ -185,17 +206,17 @@ n) O chefe da Repartição dos Serviços Administrativos, que servirá de secret
 
 4. Os vogais do conselho, com excepção dos funcionários da Direcção-Geral das Construções Hospitalares, têm direito a uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
 
-###### Art. 5.º O quadro do pessoal da Direcção-Geral das Construções Hospitalares será o constante do mapa anexo a este diploma.
+Art. 5.º O quadro do pessoal da Direcção-Geral das Construções Hospitalares será o constante do mapa anexo a este diploma.
 
-###### Art. 6.º É aumentado de duas unidades o número de lugares de engenheiro inspector-geral de obras públicas do quadro do Conselho Superior de Obras Públicas.
+Art. 6.º É aumentado de duas unidades o número de lugares de engenheiro inspector-geral de obras públicas do quadro do Conselho Superior de Obras Públicas.
 
-###### Art. 7.º Para além dos previstos no artigo 3.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968, são providos por escolha do Ministro das Obras Públicas os seguintes lugares:
+Art. 7.º Para além dos previstos no artigo 3.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968, são providos por escolha do Ministro das Obras Públicas os seguintes lugares:
 
 a) Subdirector-geral - entre os directores de serviços, os engenheiros chefes de divisão e os engenheiros-chefes do quadro;
 
 b) Chefe da Divisão de Equipamento Médico - entre médicos-chefes de 1.ª classe ou de 2.ª classe do quadro ou entre médicos de reconhecida competência estranhos ao quadro.
 
-###### Art. 8.º - 1. O primeiro provimento dos lugares do quadro aprovado por este diploma poderá ser feito:
+Art. 8.º - 1. O primeiro provimento dos lugares do quadro aprovado por este diploma poderá ser feito:
 
 a) De entre funcionários vitalícios e contratados dos quadros do Ministério;
 
@@ -207,34 +228,34 @@ b) De entre pessoal que à data da publicação deste diploma e há mais de trê
 
 4. A colocação do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 9.º - 1. Para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
+Art. 9.º - 1. Para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
 
 2. O Ministro das Obras Públicas poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários em número suficiente com o tempo mínimo de serviço referido na disposição anterior.
 
-###### Art. 10.º - 1. O pessoal contratado nos termos da legislação própria da Comissão de Construções Hospitalares que não ingresse no quadro da Direcção-Geral das Construções Hospitalares transita para esta na situação que presentemente ocupa, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os respectivos contratos.
+Art. 10.º - 1. O pessoal contratado nos termos da legislação própria da Comissão de Construções Hospitalares que não ingresse no quadro da Direcção-Geral das Construções Hospitalares transita para esta na situação que presentemente ocupa, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os respectivos contratos.
 
 2. Por igual forma se consideram válidos os contratos de prestação de serviço.
 
-###### Art. 11.º O primeiro provimento dos lugares de chefe de secção que se apresentem vagos na lista de pessoal a publicar no Diário do Governo, nos termos do n.º 2 do artigo 8.º, poderá ser feito, sem prejuízo do disposto na legislação em vigor em matéria de habilitações, por escolha do Ministro das Obras Públicas, entre primeiros-oficiais dos serviços do Ministério, de nomeação vitalícia ou contratados, de comprovado valor profissional e com mais de dez anos de efectivo serviço desde o acesso a lugar não inferior a terceiro-oficial.
+Art. 11.º O primeiro provimento dos lugares de chefe de secção que se apresentem vagos na lista de pessoal a publicar no Diário do Governo, nos termos do n.º 2 do artigo 8.º, poderá ser feito, sem prejuízo do disposto na legislação em vigor em matéria de habilitações, por escolha do Ministro das Obras Públicas, entre primeiros-oficiais dos serviços do Ministério, de nomeação vitalícia ou contratados, de comprovado valor profissional e com mais de dez anos de efectivo serviço desde o acesso a lugar não inferior a terceiro-oficial.
 
-###### Art. 12.º Os encargos resultantes do presente diploma serão suportados de acordo com o disposto no artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
+Art. 12.º Os encargos resultantes do presente diploma serão suportados de acordo com o disposto no artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
 
-###### Art. 13.º Cumprido que seja o disposto no n.º 2 do artigo 8.º, e enquanto não se concretizem as necessárias providências de carácter orçamental, poderão ser utilizadas, na satisfação dos encargos resultantes do presente diploma, as disponibilidades das verbas orçamentais que vêm suportando os encargos da Comissão de Construções Hospitalares, bem como, em relação aos encargos resultantes do disposto no artigo 6.º, as disponibilidades existentes na verba orçamental consignada ao pagamento do pessoal do quadro do Conselho Superior de Obras Públicas.
+Art. 13.º Cumprido que seja o disposto no n.º 2 do artigo 8.º, e enquanto não se concretizem as necessárias providências de carácter orçamental, poderão ser utilizadas, na satisfação dos encargos resultantes do presente diploma, as disponibilidades das verbas orçamentais que vêm suportando os encargos da Comissão de Construções Hospitalares, bem como, em relação aos encargos resultantes do disposto no artigo 6.º, as disponibilidades existentes na verba orçamental consignada ao pagamento do pessoal do quadro do Conselho Superior de Obras Públicas.
 
-###### Art. 14.º - 1. Este decreto-lei entra em vigor no dia 1 de Maio de 1971, transitando nessa data para a Direcção-Geral das Construções Hospitalares as obras a cargo da Comissão, bem como todos os seus bens patrimoniais.
+Art. 14.º - 1. Este decreto-lei entra em vigor no dia 1 de Maio de 1971, transitando nessa data para a Direcção-Geral das Construções Hospitalares as obras a cargo da Comissão, bem como todos os seus bens patrimoniais.
 
 2. As obras a cargo de outros organismos do Ministério transitarão à medida que for determinado pelo Ministro das Obras Públicas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 24 de Março de 1971.**
+Promulgado em 24 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 5.º do Decreto-Lei n.º 130/71
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/04/08100/04860488.pdf))](https://files.diariodarepublica.pt/1s/1971/04/08100/04860488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/04/08100/04860488.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

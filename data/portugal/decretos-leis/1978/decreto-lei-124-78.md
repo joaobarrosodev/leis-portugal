@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12700/10001001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1978-294728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 588eb54c31dfbf64b9affc3bee215f34570928165bd6b5e6f5ea75078f374114
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a873288d41a7b40aa0fb82b8d1c4ace5966d8905064bdc2c2fb5facd9409e58c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Accionista
+- Bolsa de Valores
+- Lucro
+- Pagamento
+- Publicitação
+- Sociedade Anónima
+- Sociedade em Comandita
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573708:por
+  label: "Alterado o nº 1 do artigo 1º pelo DEC LEI.122/81.23.05.1981.MFP, DR.IS [118] de 23.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1981-573708
+  date: '1981-05-23'
+- type: cites
+  target: pt:dre:140075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:297461:por
+  label: Rectificado pela DECL.DD7615.24.07.1978.PCM, DR.IS [168] de 24.07.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-297461
+  date: '1978-07-24'
+- type: repealed_by
+  target: pt:dre:618877:por
+  label: "Revogado o artigo 2.º pelo DEC LEI.243/89.05.08.1989.MF, DR.IS [179] de 05.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1989-618877
+  date: '1989-08-05'
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83]Supl de 10.04.1991, a partir da data da sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:56Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +145,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As sociedades anónimas ou em comandita por acções, com sede em Portugal, deverão proceder à publicação, no Boletim de Cotações da Bolsa de Valores de Lisboa, da data a partir da qual são colocados à disposição dos respectivos accionistas os rendimentos a que tiverem direito.
+Artigo 1.º - 1 - As sociedades anónimas ou em comandita por acções, com sede em Portugal, deverão proceder à publicação, no Boletim de Cotações da Bolsa de Valores de Lisboa, da data a partir da qual são colocados à disposição dos respectivos accionistas os rendimentos a que tiverem direito.
 
 2 - A publicação a que se refere o número anterior deverá ser feita com a antecedência mínima de vinte dias em relação à data nele indicada.
 
-###### Art. 2.º O Banco de Portugal procederá à publicação, no Boletim de Cotações referido no n.º 1 do artigo anterior, da data a partir da qual ficarão ao dispor dos respectivos accionistas ou obrigacionistas os rendimentos a que tiverem direito os titulares dos valores a que se referem os artigos 2.º e 34.º, n.º 1, do [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril.
+Art. 2.º O Banco de Portugal procederá à publicação, no Boletim de Cotações referido no n.º 1 do artigo anterior, da data a partir da qual ficarão ao dispor dos respectivos accionistas ou obrigacionistas os rendimentos a que tiverem direito os titulares dos valores a que se referem os artigos 2.º e 34.º, n.º 1, do [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril.
 
-###### Art. 3.º Os processos por infracção ao artigo 1.º obedecerão ao disposto nos artigos 92.º e 97.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e legislação complementar, fixando-se a multa entre 1000$00 e 50000$00.
+Art. 3.º Os processos por infracção ao artigo 1.º obedecerão ao disposto nos artigos 92.º e 97.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e legislação complementar, fixando-se a multa entre 1000$00 e 50000$00.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.

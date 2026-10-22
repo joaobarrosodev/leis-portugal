@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/28900/23002302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48116-1967-400651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec96a7207a25390fb4f54610d0e0ce512dd124637ec0847ce0e8063617c18667
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bf2f2c1181e23b49aee575254f8c87ae8b67a8714082532ca4730790257208d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Técnico
+- Diretor
+- Orgânica
+- Presidência do Conselho
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:430865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535215:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430865:por
+  label: "Revogado pelo DEC LEI.633/76.28.07.1976.MTC, DR.IS [175] de 28.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/633-1976-430865
+  date: '1976-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:37Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +117,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 16.º e 17.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 16.º e 17.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, passam a ter a seguinte redacção:
 
-###### Art. 16.º Os lugares de meteorologista-chefe e de 1.ª classe serão providos por promoção de funcionários das categorias imediatamente inferiores. A promoção a meteorologista-chefe far-se-á por escolha e a promoção a meteorologista de 1.ª classe far-se-á alternadamente por escolha e por antiguidade. A promoção a meteorologista investigador principal far-se-á por concurso, em condições a fixar por portaria do Ministro das Comunicações, a que poderão apresentar-se os meteorologistas com um mínimo de dez anos de bom e efectivo serviço, contados desde a admissão ao quadro do pessoal técnico superior do Serviço.
+Art. 16.º Os lugares de meteorologista-chefe e de 1.ª classe serão providos por promoção de funcionários das categorias imediatamente inferiores. A promoção a meteorologista-chefe far-se-á por escolha e a promoção a meteorologista de 1.ª classe far-se-á alternadamente por escolha e por antiguidade. A promoção a meteorologista investigador principal far-se-á por concurso, em condições a fixar por portaria do Ministro das Comunicações, a que poderão apresentar-se os meteorologistas com um mínimo de dez anos de bom e efectivo serviço, contados desde a admissão ao quadro do pessoal técnico superior do Serviço.
 
-###### Art. 17.º Os meteorologistas de 2.ª classe serão recrutados por concurso documental, a que poderão apresentar-se os indivíduos que tenham concluído com aproveitamento o estágio para meteorologista.
+Art. 17.º Os meteorologistas de 2.ª classe serão recrutados por concurso documental, a que poderão apresentar-se os indivíduos que tenham concluído com aproveitamento o estágio para meteorologista.
 
-###### Art. 2.º O artigo 14.º e o § 3.º do artigo 18.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, passam a ter a seguinte redacção:
+Art. 2.º O artigo 14.º e o § 3.º do artigo 18.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 14.º O pessoal que consta da tabela anexa ao presente diploma destina-se à execução dos trabalhos que competem ao Serviço Meteorológico Nacional no continente, nos Açores, na Madeira e em Cabo Verde.
+Art. 14.º O pessoal que consta da tabela anexa ao presente diploma destina-se à execução dos trabalhos que competem ao Serviço Meteorológico Nacional no continente, nos Açores, na Madeira e em Cabo Verde.
 
 § 1.º As nomeações em comissão para os lugares dos quadros dos serviços meteorológicos das províncias ultramarinas serão pelo prazo de dois anos, contados da data de entrada no desempenho das respectivas funções, podendo o funcionário ser reconduzido por três períodos sucessivos de dois anos cada um.
 
@@ -116,15 +139,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 6.º Finda a situação de destacado, o funcionário será colocado na actividade do quadro. Se não houver vaga na sua categoria e classe, ficará supranumerário até que se dê a primeira e será pago pelas disponibilidades das dotações do pessoal dos quadros ou por força de dotações especialmente inscritas para este fim.
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 § 3.º Os indivíduos habilitados com o estágio poderão ser colocados nos serviços como meteorologistas auxiliares. Perceberão um subsídio mensal de importância igual ao vencimento dos funcionários do grupo K, a pagar pelas disponibilidades das dotações do pessoal dos quadros, e terão direito aos abonos atribuídos aos mesmos funcionários, nas mesmas condições, a pagar pelas respectivas dotações orçamentais.
 
-###### Art. 3.º O artigo 3.º do [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, passa a ter a seguinte redacção:
+Art. 3.º O artigo 3.º do [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, passa a ter a seguinte redacção:
 
-###### Art. 3.º O lugar de engenheiro electrotécnico será provido para a 2.ª classe por concurso documental, a que poderão apresentar-se os indivíduos diplomados com o respectivo curso. A promoção à classe superior far-se-á por arrastamento pelo meteorologista imediatamente mais antigo de igual classe, satisfeitas as condições de promoção.
+Art. 3.º O lugar de engenheiro electrotécnico será provido para a 2.ª classe por concurso documental, a que poderão apresentar-se os indivíduos diplomados com o respectivo curso. A promoção à classe superior far-se-á por arrastamento pelo meteorologista imediatamente mais antigo de igual classe, satisfeitas as condições de promoção.
 
-###### Art. 4.º A tabela a que se refere o artigo 13.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, tal como publicada em anexo ao [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, é substituída, na parte relativa a pessoal técnico superior, pela tabela anexa ao presente diploma, relativa a pessoal técnico superior e médio.
+Art. 4.º A tabela a que se refere o artigo 13.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, tal como publicada em anexo ao [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, é substituída, na parte relativa a pessoal técnico superior, pela tabela anexa ao presente diploma, relativa a pessoal técnico superior e médio.
 
 § 1.º Nos novos lugares criados pelo presente diploma, no ano de 1967 só poderão ser providos três lugares de meteorologista de 1.ª classe por promoção, oito lugares de meteorologista de 2.ª classe, por promoção ou admissão, e cinco lugares de previsor; no ano de 1968, um lugar de meteorologista de 2.ª classe e um lugar de previsor; no ano de 1969, dois lugares de meteorologista de 2.ª classe; no ano de 1970, um lugar de meteorologista investigador principal. Os restantes novos lugares serão providos posteriormente, conforme as dotações orçamentais em cada ano.
 
@@ -134,9 +157,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Os meteorologistas na situação de supranumerários à data da publicação do presente diploma manter-se-ão nesta situação, como necessário para permitir a execução do disposto nos parágrafos anteriores.
 
-###### Art. 5.º Os previsores serão recrutados por concurso documental, a que poderão apresentar-se os indivíduos que tenham completado com aproveitamento o estágio para previsor.
+Art. 5.º Os previsores serão recrutados por concurso documental, a que poderão apresentar-se os indivíduos que tenham completado com aproveitamento o estágio para previsor.
 
-###### Art. 6.º O recrutamento de estagiários para previsor far-se-á por concurso documental, a que poderão apresentar-se os indivíduos com a habilitação mínima correspondente às disciplinas que constituam os dois primeiros anos de um curso universitário de ciências físicas e ainda, condicionalmente, aqueles a quem faltar aprovação em duas das referidas disciplinas.
+Art. 6.º O recrutamento de estagiários para previsor far-se-á por concurso documental, a que poderão apresentar-se os indivíduos com a habilitação mínima correspondente às disciplinas que constituam os dois primeiros anos de um curso universitário de ciências físicas e ainda, condicionalmente, aqueles a quem faltar aprovação em duas das referidas disciplinas.
 
 § 1.º Os estágios realizar-se-ão normalmente em Lisboa, com a duração que for fixada para cada caso.
 
@@ -146,17 +169,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Poderão ser dispensados em qualquer altura os estagiários para previsor e os previsores auxiliares que não haja conveniência em manter no estágio ou nos serviços.
 
-###### Art. 7.º Os serviços da Direcção-Geral designados como «divisões» no artigo 7.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, com a nova redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, passam a designar-se «direcções de serviço».
+Art. 7.º Os serviços da Direcção-Geral designados como «divisões» no artigo 7.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946, com a nova redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964, passam a designar-se «direcções de serviço».
 
-###### Art. 8.º É revogado o artigo 32.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946.
+Art. 8.º É revogado o artigo 32.º do [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), de 29 de Agosto de 1946.
 
-###### Art. 9.º É revogado o § único do artigo 2.º do [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964.
+Art. 9.º É revogado o § único do artigo 2.º do [Decreto-Lei n.º 46099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46099-1964-535215), de 23 de Dezembro de 1964.
 
-###### Art. 10.º O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 10.º O presente diploma entrará em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 § único. Os encargos resultantes das alterações introduzidas pelo presente diploma até final do corrente ano serão satisfeitos pelas disponibilidades das dotações inscritas no capítulo 5.º do Ministério das Comunicações para remunerações certas e acidentais ao pessoal em exercício, convenientemente reforçadas se vierem a mostrar-se insuficientes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

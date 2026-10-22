@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1973-675471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db545564f7d008ea5154ddcd216c6fcd7f4cebb6d1a1790a164f3f75322f6afb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 943f9304332b647df3b17719da1fbec4af5fe5eb42d640844f58bf598ac8d5bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Indústria de Conservas
+- Peixe
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:359350:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes dos arts. 1º, 2º, 3º, 6º, 7º e 8º do presente diploma pelo DEC LEI.485/88.1988.12.30.MF,DR.IS\
+    \ [301]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:19Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +118,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Às empresas que se constituírem no prazo de um ano, a contar da data de entrada em vigor do presente diploma, para explorar a indústria de conservas de peixe em azeite ou molhos e resultem da fusão de outras que exerçam essa actividade, bem como às que as incorporem nesse prazo, serão concedidos os seguintes benefícios:
+Artigo 1.º - 1. Às empresas que se constituírem no prazo de um ano, a contar da data de entrada em vigor do presente diploma, para explorar a indústria de conservas de peixe em azeite ou molhos e resultem da fusão de outras que exerçam essa actividade, bem como às que as incorporem nesse prazo, serão concedidos os seguintes benefícios:
 
 a) Isenção de sisa para as transmissões resultantes dos actos de fusão ou de incorporação;
 
@@ -118,9 +132,9 @@ d) Um subsídio único, a pagar pelo Fundo Corporativo, de 40$00, por caixa de c
 
 3. A importância do subsídio a que se refere a alínea d) do n.º 1 será obrigatoriamente investida na empresa que resultar da concentração.
 
-###### Art. 2.º Os ganhos resultantes das fusões ou incorporações referidas no artigo anterior são isentos de imposto de mais-valias.
+Art. 2.º Os ganhos resultantes das fusões ou incorporações referidas no artigo anterior são isentos de imposto de mais-valias.
 
-###### Art. 3.º - 1. Os benefícios estabelecidos na alínea a) do n.º 1 do artigo 1.º e no artigo 2.º só poderão ser concedidos se as empresas que resultarem das concentrações demonstrarem viabilidade económica e financeira.
+Art. 3.º - 1. Os benefícios estabelecidos na alínea a) do n.º 1 do artigo 1.º e no artigo 2.º só poderão ser concedidos se as empresas que resultarem das concentrações demonstrarem viabilidade económica e financeira.
 
 2. Os benefícios estabelecidos nas alíneas b) e c) do n.º 1 do artigo 1.º só poderão ser concedidos se as empresas que resultarem das concentrações preencherem as seguintes condições:
 
@@ -138,13 +152,13 @@ d) Identificarem, na sua escrituração, a natureza da aplicação das verbas qu
 
 5. Para efeito da concessão dos benefícios a que se referem os n.os 1 a 3, poderá ser exigido às empresas que resultarem das concentrações o compromisso de substituírem ou modernizarem parte do seu equipamento, nas condições que vierem a ser determinadas em despacho conjunto dos Secretários de Estado do Comércio e da Indústria.
 
-###### Art. 4.º As empresas que resultarem das concentrações de outras cuja produção efectiva média anual nos últimos dez anos anteriores à fusão ou incorporação tenha atingido um mínimo de 150000 caixas, calculado na base de 1/4 club 30 mm, poderão beneficiar do aval do Fundo de Fomento de Exportação, mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, nas cautelas de penhor respeitantes às conservas de fabricação própria depositadas em regime de armazéns gerais.
+Art. 4.º As empresas que resultarem das concentrações de outras cuja produção efectiva média anual nos últimos dez anos anteriores à fusão ou incorporação tenha atingido um mínimo de 150000 caixas, calculado na base de 1/4 club 30 mm, poderão beneficiar do aval do Fundo de Fomento de Exportação, mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, nas cautelas de penhor respeitantes às conservas de fabricação própria depositadas em regime de armazéns gerais.
 
-###### Art. 5.º - 1. Quando a fusão ou incorporação forem acompanhadas de cessação de laboração de unidades fabris, os benefícios estabelecidos neste diploma para as empresas resultantes das concentrações não prejudicarão os que venham a ser estabelecidos em despacho conjunto dos Secretários de Estado do Comércio, da Indústria e do Trabalho e Previdência Social pela cessação da laboração, a suportar pelo Fundo Corporativo e pelo Fundo de Desenvolvimento da Mão-de-Obra.
+Art. 5.º - 1. Quando a fusão ou incorporação forem acompanhadas de cessação de laboração de unidades fabris, os benefícios estabelecidos neste diploma para as empresas resultantes das concentrações não prejudicarão os que venham a ser estabelecidos em despacho conjunto dos Secretários de Estado do Comércio, da Indústria e do Trabalho e Previdência Social pela cessação da laboração, a suportar pelo Fundo Corporativo e pelo Fundo de Desenvolvimento da Mão-de-Obra.
 
 2. No caso previsto no número anterior, as importâncias atribuídas às empresas nele referidas, em consequência da cessação de laboração de unidades fabris, serão nelas obrigatoriamente investidas, com observância do estabelecido neste diploma relativamente ao subsídio previsto na alínea d) do n.º 1 do artigo 1.º
 
-###### Art. 6.º - 1. Aos agrupamentos constituídos sob forma de sociedade comercial por empresas que explorem a indústria de conservas de peixe em azeite ou molhos, com o objectivo de adquirirem matérias-primas e equipamentos para os seus associados e de comercializarem as conservas de peixe em azeite ou molhos por eles fabricados, e que disponham para venda de um mínimo de 250000 caixas, na base de 1/4 club 30 mm, serão concedidos os seguintes benefícios:
+Art. 6.º - 1. Aos agrupamentos constituídos sob forma de sociedade comercial por empresas que explorem a indústria de conservas de peixe em azeite ou molhos, com o objectivo de adquirirem matérias-primas e equipamentos para os seus associados e de comercializarem as conservas de peixe em azeite ou molhos por eles fabricados, e que disponham para venda de um mínimo de 250000 caixas, na base de 1/4 club 30 mm, serão concedidos os seguintes benefícios:
 
 a) Redução a um terço da taxa da contribuição industrial relativamente aos lucros imputáveis à sua actividade, durante o período de cinco anos, a contar da data da respectiva constituição;
 
@@ -156,19 +170,19 @@ d) Concessão de aval pelo Fundo de Fomento de Exportação, mediante despacho d
 
 2. As empresas agrupadas nos termos deste artigo beneficiarão da redução de 50 por cento da taxa da contribuição industrial sobre os lucros imputáveis ao exercício da indústria de fabrico de conservas de peixe em azeite ou molhos, durante o período de cinco anos, a contar da data da sua entrada para o agrupamento.
 
-###### Art. 7.º - 1. Os benefícios estabelecidos no artigo precedente só poderão ser concedidos se as entidades que pretendam constituir os agrupamentos nele referidos submeterem à aprovação prévia do Secretário de Estado do Comércio as normas por que se regerão e estas forem aprovadas.
+Art. 7.º - 1. Os benefícios estabelecidos no artigo precedente só poderão ser concedidos se as entidades que pretendam constituir os agrupamentos nele referidos submeterem à aprovação prévia do Secretário de Estado do Comércio as normas por que se regerão e estas forem aprovadas.
 
 2. Desde que razões ponderosas impeçam a constituição de agrupamentos com a dimensão prevista no n.º 1 do artigo precedente, poderão ser concedidos os benefícios nele estabelecidos aos agrupamentos que se constituam com menos dimensão, nas condições a fixar em portaria conjunta do Ministro das Finanças e do Secretário de Estado do Comércio.
 
 3. No caso referido no número precedente, aplicar-se-á o disposto no n.º 2 do artigo anterior.
 
-###### Art. 8.º - 1. Os benefícios fiscais previstos neste diploma serão concedidos por despacho do Ministro das Finanças, ouvidos os Secretários de Estado do Comércio e da Indústria, e o subsídio a que se refere a alínea d) do n.º 1 do artigo 1.º, bem como a participação nas despesas previstas na alínea c) do n.º 1 do artigo 6.º, por despacho do Secretário de Estado do Comércio.
+Art. 8.º - 1. Os benefícios fiscais previstos neste diploma serão concedidos por despacho do Ministro das Finanças, ouvidos os Secretários de Estado do Comércio e da Indústria, e o subsídio a que se refere a alínea d) do n.º 1 do artigo 1.º, bem como a participação nas despesas previstas na alínea c) do n.º 1 do artigo 6.º, por despacho do Secretário de Estado do Comércio.
 
 2. Nos casos previstos no número anterior, os benefícios são concedidos a requerimento das empresas e agrupamentos interessados, acompanhado dos elementos de prova das condições de que se faz depender a concessão dos benefícios.
 
 3. Os despachos a que se refere o n.º 1 serão proferidos depois de os requerimentos se encontrarem devidamente informados pelos serviços competentes, que verificarão se foram observadas as condições estabelecidas e se não se mostre desvirtuado o fim que determinou a concessão dos benefícios previstos neste diploma.
 
-###### Art. 9.º - 1. Os serviços competentes do Ministério da Economia fiscalizarão a observância pelas empresas e agrupamentos do disposto no presente diploma.
+Art. 9.º - 1. Os serviços competentes do Ministério da Economia fiscalizarão a observância pelas empresas e agrupamentos do disposto no presente diploma.
 
 2. Sem prejuízo do disposto no número seguinte, quando as empresas ou agrupamentos não cumprirem o estatuído neste decreto-lei, os compromissos assumidos quanto à substituição ou modernização do equipamento, ou as normas aprovadas para regerem os agrupamentos, o que imediatamente será comunicado pelos serviços referidos no número anterior às entidades interessadas, cessarão os benefícios estabelecidos neste diploma, com exclusão do previsto no artigo 2.º, devendo proceder-se à liquidação dos impostos que não tenham sido liquidados e à restituição das importâncias correspondentes aos subsídios recebidos ou despesas comparticipadas.
 
@@ -180,10 +194,10 @@ d) Concessão de aval pelo Fundo de Fomento de Exportação, mediante despacho d
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMIÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMIÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

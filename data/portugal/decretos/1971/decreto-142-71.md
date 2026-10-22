@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/142-1971-445714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae69f6bab8031f4f804c038976f3eb59abe3e8b28c993ec213e633bbf3d4d374
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80cca91517ed3d700a5421ed729af92dcf40664e684ecf67dda0cf0bfe41a447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:56Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ Nestes termos, sob proposta do Governo da província ultramarina de Cabo Verde;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição e seu § 1.º, por motivo de urgência, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o governador da província ultramarina de Cabo Verde, mediante proposta fundamentada do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, a atribuir subsídios diários ao pessoal técnico e especializado dos mesmos Serviços, independentemente de quaisquer outros abonos, gratificações ou senhas de presença a que tenham direito, dentro dos seguintes limites:
+Artigo 1.º - 1. É autorizado o governador da província ultramarina de Cabo Verde, mediante proposta fundamentada do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, a atribuir subsídios diários ao pessoal técnico e especializado dos mesmos Serviços, independentemente de quaisquer outros abonos, gratificações ou senhas de presença a que tenham direito, dentro dos seguintes limites:
 
 a) Pessoal técnico com curso superior - 70$00 a 150$00;
 
@@ -108,23 +116,23 @@ c) Outro pessoal técnico - 20$00 a 70$00.
 
 4. Não tem direito ao abono de subsídio diário o pessoal técnico assalariado.
 
-###### Art. 2.º - 1. Aos funcionários dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde serão abonadas as gratificações, abonos para falhas e senhas de presença constantes do quadro I anexo a este decreto.
+Art. 2.º - 1. Aos funcionários dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde serão abonadas as gratificações, abonos para falhas e senhas de presença constantes do quadro I anexo a este decreto.
 
 2. As gratificações aos chefes de estações de 3.ª classe, variáveis entre 100$00 e 300$00 mensais, consoante os serviços que desempenham e o seu movimento, serão fixadas por portaria do Governo da província, sob proposta do conselho de administração dos Serviços dos Correios, Telégrafos e Telefones.
 
-###### Art. 3.º - 1. Aos funcionários que receberem as gratificações, abonos para falhas e senhas de presença previstos no artigo 2.º não serão abonadas as gratificações e abonos para falhas referidos nos artigos 382.º e 383.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
+Art. 3.º - 1. Aos funcionários que receberem as gratificações, abonos para falhas e senhas de presença previstos no artigo 2.º não serão abonadas as gratificações e abonos para falhas referidos nos artigos 382.º e 383.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
 2. As senhas de presença atribuídas aos membros do conselho de administração dos Serviços dos Correios, Telégrafos e Telefones são sempre devidas, independentemente de quaisquer gratificações ou subsídios diários a que os mesmos tenham direito, não podendo exceder quatro em cada mês.
 
-###### Art. 4.º Ao delegado dos Serviços de Fazenda e Contabilidade será abonada a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
+Art. 4.º Ao delegado dos Serviços de Fazenda e Contabilidade será abonada a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Março de 1971.**
+Promulgado em 26 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 
@@ -134,6 +142,6 @@ Gratificações, abonos para falhas e senhas de presença
 
 (artigo 2.º do Decreto n.º 142/71)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/04/08700/05200520.pdf))](https://files.diariodarepublica.pt/1s/1971/04/08700/05200520.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/04/08700/05200520.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49291-1969-215919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56af247c0de4f7a08369b1344538e0602d9c141c938e25da503fb5aca98f9611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94fbdf9eda692311520876f345078e9a1086185463279bb22b5ecfffbfa47da2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Importação
+- Indústria Têxtil
+- Isenção Fiscal
+- Pauta dos Direitos de Importação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:08Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +94,7 @@ Considerando-se justificável conceder benefício semelhante aos fabricantes nac
 
 Usando da faculdade conferida pela 1.ª parte do 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aditada à posição 84.38 da pauta de importação a seguinte nota:
+Artigo 1.º É aditada à posição 84.38 da pauta de importação a seguinte nota:
 
 84.38 ...
 
@@ -107,12 +112,12 @@ As partes, peças separadas e acessórios que forem desviados da aplicação aci
 
 Os fabricantes deverão registar em livro próprio as quantidades importadas e o número de máquinas fabricadas, facultando ao exame da fiscalização aduaneira todos os elementos que se tornem necessários à averiguação dessas aplicações e à conferência das existências.
 
-###### Art. 2.º O regime do artigo anterior aplica-se a todas as mercadorias importadas por ele abrangidas e cujos direitos se encontrem garantidos.
+Art. 2.º O regime do artigo anterior aplica-se a todas as mercadorias importadas por ele abrangidas e cujos direitos se encontrem garantidos.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 26 de Setembro de 1969.**
+Promulgado em 26 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

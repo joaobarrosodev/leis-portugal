@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/868-1976-416436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a31a363682f439ba43cdecfdaa6c1e48fd568a6b64d5119fa9a5aa3f489e9f97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a833b8c5b9229f6d4f641d9370f93c886bb8e31a509f620aba6399f5bd6221b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alverca do Ribatejo
+- Arquivo Histórico da Força Aérea
+- Chefe do Estado Maior da Força Aérea
+- Criação de Serviços
+- Definição de Competências
+- Força Aérea
+- Museu do Ar
+- Orçamento
+- Património
+- Pessoal Civil
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Receita
 relationships:
 - type: amended_by
   target: pt:dre:566858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389442:por
+  label: "Alterado o quadro I anexo ao Dec Lei 54/76 de 22-Jan, com as alterações constantes do presente diploma, pelo DEC\
+    \ LEI.66/81.04.04.1981.CR, DR.IS [79] de 04.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1981-389442
+  date: '1981-04-04'
+- type: amended_by
+  target: pt:dre:566858:por
+  label: "Alterado o art. 10.º pelo DEC LEI.271/98.1998.09.02.MDN DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-1998-566858
+  date: '1998-09-02'
+- type: cites
+  target: pt:dre:143542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:09Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +124,19 @@ Tornando-se necessário criar uma legislação referente ao Museu do Ar:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O Museu do Ar, criado pelo [Decreto-Lei n.º 48248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48248-1968-143542), de 21 de Fevereiro de 1968, é um organismo do Estado-Maior da Força Aérea e fica instalado na área atribuída ao Depósito Geral de Material da Força Aérea, em Alverca, onde se encontra desde 1969.
+Artigo 1.º - 1. O Museu do Ar, criado pelo [Decreto-Lei n.º 48248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48248-1968-143542), de 21 de Fevereiro de 1968, é um organismo do Estado-Maior da Força Aérea e fica instalado na área atribuída ao Depósito Geral de Material da Força Aérea, em Alverca, onde se encontra desde 1969.
 
 2. Os terrenos anexos, fronteiros ao edifício, onde existe o monumento dos mortos ao serviço do Ar e a lápida comemorativa da 1.ª Travessia Aérea do Atlântico Sul, «nocturna», são destinados à exposição de aviões.
 
 3. Por despacho do Chefe do Estado-Maior da Força Aérea, poderão ser criadas noutros locais secções do Museu do Ar, às quais este prestará apoio, tanto no aspecto técnico como no artístico.
 
-###### Art. 2.º - 1. O Museu do Ar tem como finalidade a conservação, segurança e exposição de objectos de valor histórico, artístico e documental, aviões ou miniaturas dos mesmos que se consiga e convenha reunir e preservar por constituírem valiosa contribuição para a história da aviação nacional e como documentário dos processos de navegação aérea criados por portugueses.
+Art. 2.º - 1. O Museu do Ar tem como finalidade a conservação, segurança e exposição de objectos de valor histórico, artístico e documental, aviões ou miniaturas dos mesmos que se consiga e convenha reunir e preservar por constituírem valiosa contribuição para a história da aviação nacional e como documentário dos processos de navegação aérea criados por portugueses.
 
 2. O Museu deverá também conter o Arquivo Histórico da Aviação Militar, com todos os documentos que se consiga obter e funcionará em biblioteca própria a organizar devidamente.
 
 3. O Museu funcionará ainda como centro de estudos culturais e histórico-aeronáuticos, podendo nele realizar-se exposições de qualquer espécie, nacionais ou estrangeiras, de interesse para o efeito, bem como conferências e sessões de divulgação cultural.
 
-###### Art. 3.º O recheio do Museu será constituído:
+Art. 3.º O recheio do Museu será constituído:
 
 a) Pelos objectos e documentos já expostos ou armazenados nas suas instalações;
 
@@ -114,31 +146,31 @@ c) Pelos objectos e documentos pertencentes a unidades, estabelecimentos e órg�
 
 d) Pelos móveis, livros e demais utensílios necessários ao seu funcionamento, bem como uma biblioteca.
 
-###### Art. 4.º - 1. A cedência, por empréstimo, dos objectos e documentos do Museu só pode efectuar-se mediante despacho do Chefe do Estado-Maior da Força Aérea, no caso de exposições em que a representação da Força Aérea ou do País o exija, desde que a direcção do Museu considere que os mesmos podem ser deslocados sem riscos para a sua conservação e a entidade cessionária dê as necessárias garantias quanto a transporte, guarda e conservação.
+Art. 4.º - 1. A cedência, por empréstimo, dos objectos e documentos do Museu só pode efectuar-se mediante despacho do Chefe do Estado-Maior da Força Aérea, no caso de exposições em que a representação da Força Aérea ou do País o exija, desde que a direcção do Museu considere que os mesmos podem ser deslocados sem riscos para a sua conservação e a entidade cessionária dê as necessárias garantias quanto a transporte, guarda e conservação.
 
 2. Havendo em reserva objectos repetidos ou dispensáveis, poderão ser cedidos por empréstimo, mediante informação favorável da direcção do Museu, sancionada por despacho do Chefe do Estado-Maior da Força Aérea.
 
 3. Os objectos a que se refere o número anterior podem ser confiados a unidades ou estabelecimentos da Força Aérea, para decorarem as respectivas instalações, continuando a pertencer ao património do Museu, que fiscalizará a sua conveniente conservação.
 
-###### Art. 5.º A aquisição de quaisquer bens para o Museu é isenta de pagamento de direitos ou impostos.
+Art. 5.º A aquisição de quaisquer bens para o Museu é isenta de pagamento de direitos ou impostos.
 
-###### Art. 6.º - 1. A direcção do Museu do Ar deverá ser constituída por um director, oficial da Força Aérea na situação de reserva ou do activo, por acumulação, de posto não inferior a coronel, por um subdirector, oficial superior da Força Aérea do activo ou da reserva, havendo conveniência que, pelo menos, um desses oficiais se especialize em museologia, fazendo o curso apropriado, e por um consultor técnico, oficial ou engenheiro delegado das Oficinas Gerais de Material Aeronáutico.
+Art. 6.º - 1. A direcção do Museu do Ar deverá ser constituída por um director, oficial da Força Aérea na situação de reserva ou do activo, por acumulação, de posto não inferior a coronel, por um subdirector, oficial superior da Força Aérea do activo ou da reserva, havendo conveniência que, pelo menos, um desses oficiais se especialize em museologia, fazendo o curso apropriado, e por um consultor técnico, oficial ou engenheiro delegado das Oficinas Gerais de Material Aeronáutico.
 
 2. Nas suas ausências e impedimentos o director será substituído pelo subdirector.
 
-###### Art. 7.º O director do Museu poderá aceitar, em nome do Estado, todos os objectos de interesse histórico, artístico ou documental para serem expostos no Museu, quando a transmissão se faça a título gratuito e livre de quaisquer encargos.
+Art. 7.º O director do Museu poderá aceitar, em nome do Estado, todos os objectos de interesse histórico, artístico ou documental para serem expostos no Museu, quando a transmissão se faça a título gratuito e livre de quaisquer encargos.
 
-###### Art. 8.º O Museu disporá de uma secretaria, de uma biblioteca, de um gabinete de investigação, de oficinas e de outros órgãos de apoio necessários ao desempenho da sua missão, os quais serão definidos no regulamento do Museu do Ar.
+Art. 8.º O Museu disporá de uma secretaria, de uma biblioteca, de um gabinete de investigação, de oficinas e de outros órgãos de apoio necessários ao desempenho da sua missão, os quais serão definidos no regulamento do Museu do Ar.
 
-###### Art. 9.º A administração de todos os bens, receitas e dotações do Museu do Ar será feita através do conselho administrativo do Estado-Maior da Força Aérea.
+Art. 9.º A administração de todos os bens, receitas e dotações do Museu do Ar será feita através do conselho administrativo do Estado-Maior da Força Aérea.
 
-###### Art. 10.º - 1. Além das verbas que lhe forem atribuídas pelo orçamento da Força Aérea, constituem receitas do Museu os donativos ou legados, bem como o produto de entradas e das vendas de publicações e fotografias.
+Art. 10.º - 1. Além das verbas que lhe forem atribuídas pelo orçamento da Força Aérea, constituem receitas do Museu os donativos ou legados, bem como o produto de entradas e das vendas de publicações e fotografias.
 
 2. O material que não tenha interesse museológico será considerado inútil e, por proposta do director do Museu, com a aprovação do Chefe do Estado-Maior da Força Aérea, cedido a outros estabelecimentos ou vendido em hasta pública.
 
-###### Art. 11.º A administração das receitas do Museu e dos bens que lhe forem afectos e, bem assim, o pagamento das suas despesas deverão obedecer às leis reguladoras da contabilidade pública e ao regulamento dos conselhos administrativos da Força Aérea.
+Art. 11.º A administração das receitas do Museu e dos bens que lhe forem afectos e, bem assim, o pagamento das suas despesas deverão obedecer às leis reguladoras da contabilidade pública e ao regulamento dos conselhos administrativos da Força Aérea.
 
-###### Art. 12.º - 1. O Museu do Ar passará a dispor do seguinte quadro de pessoal civil:
+Art. 12.º - 1. O Museu do Ar passará a dispor do seguinte quadro de pessoal civil:
 
 1 mestre - letra L;
 
@@ -154,14 +186,14 @@ d) Pelos móveis, livros e demais utensílios necessários ao seu funcionamento,
 
 2. Este pessoal é aumentado aos quadros de pessoal civil da Força Aérea autorizados pelo [Decreto-Lei n.º 54/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1976-506003), de 22 de Janeiro.
 
-###### Art. 13.º O regulamento do Museu do Ar será estabelecido por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 13.º O regulamento do Museu do Ar será estabelecido por despacho do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 14.º Este diploma revoga o [Decreto-Lei n.º 48248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48248-1968-143542), de 21 de Fevereiro de 1968.
+Art. 14.º Este diploma revoga o [Decreto-Lei n.º 48248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48248-1968-143542), de 21 de Fevereiro de 1968.
 
 Visto e aprovado em Conselho da Revolução, 3 de Novembro de 1976.
 
-**Promulgado em 14 de Novembro de 1976.**
+Promulgado em 14 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

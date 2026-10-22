@@ -49,36 +49,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46407-1965-295667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0becb124c837081c513e333de296a9b40e2d9b30046ff25f26a932c1980c2966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18be80ec9afc5240664a0cfaaa6841a96403e5d3dd49f47880db19a55cdc7976
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- AVAL do Estado
+- Empréstimo
+- Financiamento
+- Fundo de Renovação da Marinha Mercante
+- Junta Nacional da Marinha Mercante
+- Marinha Mercante
+relationships:
+- type: cites
+  target: pt:dre:150556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429464:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:47Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +118,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É mantido, anexo à Junta Nacional da Marinha Mercante e com os objectivos e a constituição estabelecidos nos artigos 2.º a 10.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959, o Fundo de Renovação da Marinha Mercante.
+Artigo 1.º É mantido, anexo à Junta Nacional da Marinha Mercante e com os objectivos e a constituição estabelecidos nos artigos 2.º a 10.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959, o Fundo de Renovação da Marinha Mercante.
 
-###### Art. 2.º Para efeitos dos financiamentos aos armadores que tenham unidades a construir dentro do Plano Intercalar de Fomento, é o Fundo autorizado a contrair, nos anos de 1965 a 1967, um empréstimo interno amortizável, no máximo de 300000000$00, denominado «Empréstimo de renovação da marinha mercante - Plano Intercalar de Fomento».
+Art. 2.º Para efeitos dos financiamentos aos armadores que tenham unidades a construir dentro do Plano Intercalar de Fomento, é o Fundo autorizado a contrair, nos anos de 1965 a 1967, um empréstimo interno amortizável, no máximo de 300000000$00, denominado «Empréstimo de renovação da marinha mercante - Plano Intercalar de Fomento».
 
 § 1.º O empréstimo será emitido por séries de obrigações, em montante e condições a fixar pelos Ministros das Finanças e da Marinha, sob proposta da comissão administrativa.
 
@@ -109,38 +128,38 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º O Fundo poderá antecipar a amortização das obrigações em qualquer altura, mediante prévia autorização dos Ministros das Finanças e da Marinha.
 
-###### Art. 3.º Às obrigações do empréstimo será dado o aval do Estado.
+Art. 3.º Às obrigações do empréstimo será dado o aval do Estado.
 
-###### Art. 4.º O Governo poderá conceder a redução do imposto de capitais relativamente aos juros das obrigações representativas deste empréstimo.
+Art. 4.º O Governo poderá conceder a redução do imposto de capitais relativamente aos juros das obrigações representativas deste empréstimo.
 
-###### Art. 5.º O Fundo fica autorizado a realizar com a Caixa Geral de Depósitos, Crédito e Previdência, ou com as demais instituições de crédito nacionais, quaisquer contratos para a colocação das obrigações, ou a fazer esta colocação por subscrição pública ou venda no mercado, podendo, porém, o Estado tomar para si a totalidade ou parte da emissão.
+Art. 5.º O Fundo fica autorizado a realizar com a Caixa Geral de Depósitos, Crédito e Previdência, ou com as demais instituições de crédito nacionais, quaisquer contratos para a colocação das obrigações, ou a fazer esta colocação por subscrição pública ou venda no mercado, podendo, porém, o Estado tomar para si a totalidade ou parte da emissão.
 
-###### Art. 6.º A concessão de financiamentos aos armadores, as condições financeiras dos mesmos e as garantias a prestar ao Fundo regular-se-ão pelos termos estabelecidos nos artigos 15.º a 20.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959.
+Art. 6.º A concessão de financiamentos aos armadores, as condições financeiras dos mesmos e as garantias a prestar ao Fundo regular-se-ão pelos termos estabelecidos nos artigos 15.º a 20.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959.
 
-###### Art. 7.º O Fundo de Renovação da Marinha Mercante poderá ainda, nas circunstâncias especiais que forem reconhecidas pelos Ministros das Finanças e da Marinha como justificadas, realizar com outras entidades administrativas dependentes do Governo, nos termos em que a sua legislação própria o admita, operações de antecipação dos seus recursos para a execução dos seus planos de financiamento.
+Art. 7.º O Fundo de Renovação da Marinha Mercante poderá ainda, nas circunstâncias especiais que forem reconhecidas pelos Ministros das Finanças e da Marinha como justificadas, realizar com outras entidades administrativas dependentes do Governo, nos termos em que a sua legislação própria o admita, operações de antecipação dos seus recursos para a execução dos seus planos de financiamento.
 
 § único. As condições financeiras e o prazo destas antecipações serão estabelecidos ou aprovados em despacho conjunto dos referidos Ministros e daquele a que estiver subordinada a entidade mutuante a que o Fundo recorrer.
 
-###### Art. 8.º Quando o Fundo usar da faculdade conferida pelo artigo anterior, será diferido, de período igual ao prazo das antecipações, o início do pagamento dos empréstimos realizados aos armadores, continuando o referido pagamento a fazer-se no número de anuidades estabelecido para o reembolso das obrigações emitidas pelo Fundo.
+Art. 8.º Quando o Fundo usar da faculdade conferida pelo artigo anterior, será diferido, de período igual ao prazo das antecipações, o início do pagamento dos empréstimos realizados aos armadores, continuando o referido pagamento a fazer-se no número de anuidades estabelecido para o reembolso das obrigações emitidas pelo Fundo.
 
 § 1.º Durante o mesmo período, os empréstimos vencerão juro de taxa igual à que o Fundo pagar à entidade mutuante.
 
 § 2.º As garantias a prestar ao Fundo pelos armadores, nos termos do artigo 6.º do presente diploma, cobrirão também o período a que se refere o corpo deste artigo.
 
-###### Art. 9.º O Fundo poderá ainda, para realização dos seus planos de financiamento, celebrar operações e acordos de crédito externo, incluindo contratos de compra, intervindo numas e noutros como mutuário, avalista e principal pagador ou simples avalista, mas o total das responsabilidades que assim assumir não poderá exceder o montante fixado para as fontes de financiamento da mesma natureza daqueles planos e deverá ser coberto pelas garantias a que se refere o artigo 6.º do presente diploma.
+Art. 9.º O Fundo poderá ainda, para realização dos seus planos de financiamento, celebrar operações e acordos de crédito externo, incluindo contratos de compra, intervindo numas e noutros como mutuário, avalista e principal pagador ou simples avalista, mas o total das responsabilidades que assim assumir não poderá exceder o montante fixado para as fontes de financiamento da mesma natureza daqueles planos e deverá ser coberto pelas garantias a que se refere o artigo 6.º do presente diploma.
 
 § único. As condições e prazos das responsabilidades a assumir pelo Fundo serão fixados, para cada caso, por despacho conjunto dos Ministros das Finanças e da Marinha.
 
-###### Art. 10.º O Governo poderá conceder a redução do imposto de capitais relativamente aos juros das operações referidas nos artigos 8.º e 9.º do presente diploma.
+Art. 10.º O Governo poderá conceder a redução do imposto de capitais relativamente aos juros das operações referidas nos artigos 8.º e 9.º do presente diploma.
 
-###### Art. 11.º Serão também observadas no triénio de 1965 a 1967 as disposições dos artigos 21.º a 23.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959.
+Art. 11.º Serão também observadas no triénio de 1965 a 1967 as disposições dos artigos 21.º a 23.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959.
 
-###### Art. 12.º Poderão os Ministros das Finanças e da Marinha, sob proposta da comissão administrativa, nomear um administrador para qualquer empresa beneficiária de financiamentos do Fundo, quando se verifique que estes excedem 50 por cento do capital realizado, o qual ficará com as atribuições, direitos e deveres consignados no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956.
+Art. 12.º Poderão os Ministros das Finanças e da Marinha, sob proposta da comissão administrativa, nomear um administrador para qualquer empresa beneficiária de financiamentos do Fundo, quando se verifique que estes excedem 50 por cento do capital realizado, o qual ficará com as atribuições, direitos e deveres consignados no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956.
 
 § único. Os administradores assim nomeados entrarão imediatamente em exercício.
 
-###### Art. 13.º Ficam os Ministérios das Finanças e da Marinha autorizados a tomar todas as medidas necessárias à execução deste decreto-lei.
+Art. 13.º Ficam os Ministérios das Finanças e da Marinha autorizados a tomar todas as medidas necessárias à execução deste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

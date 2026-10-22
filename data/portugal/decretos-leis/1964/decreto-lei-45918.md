@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45918-1964-537455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5d6ee05a1f98c168563258078ddbd673318772079b279f13954f1fae8fb6720
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9d440aa9aed5d59c5f642f6249bad16db620e3541cf72eb70cd26f5911df94d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bolsa de Estudos
+- Carreira Docente Universitária
+- Doutoramento
+- Formação Profissional
+- Instituto de ALTA Cultura
+- Pessoal Docente
+- Qualificação Profissional
+relationships:
+- type: cites
+  target: pt:dre:149463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368623:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:32Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +119,7 @@ Nestes termos:
 
 Usando da faculdade, conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Quando um segundo-assistente do ensino superior tenha sido impedido de realizar o seu doutoramento ou agregação dentro do prazo estabelecido no artigo único do [Decreto-Lei n.º 35964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35964-1946-149463), de 20 de Novembro de 1946, em razão de excepcional acumulação de serviço, e dê garantias de vir a efectuá-lo em espaço de tempo razoável, o Instituto de Alta Cultura conceder-lhe-á, em princípio, uma bolsa, para o efeito.
+Artigo 1.º - 1. Quando um segundo-assistente do ensino superior tenha sido impedido de realizar o seu doutoramento ou agregação dentro do prazo estabelecido no artigo único do [Decreto-Lei n.º 35964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35964-1946-149463), de 20 de Novembro de 1946, em razão de excepcional acumulação de serviço, e dê garantias de vir a efectuá-lo em espaço de tempo razoável, o Instituto de Alta Cultura conceder-lhe-á, em princípio, uma bolsa, para o efeito.
 
 2. O candidato deve reunir, além dos requisitos enunciados no número anterior, as condições gerais de que depende a concessão de bolsas, nomeadamente quanto à carência ou insuficiência de recursos económicos.
 
@@ -128,10 +143,10 @@ d) Declaração onde o candidato especifique, sob compromisso de honra, a sua si
 
 8. Este deve levar ao conhecimento do Instituto todas as circunstâncias que possam interessar para os fins do disposto no número precedente.
 
-###### Art. 2.º - 1. Se um segundo-assistente do ensino superior for atingido no decurso do ano escolar pelo limite fixado no artigo único do [Decreto-Lei n.º 35964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35964-1946-149463), o Ministro da Educação Nacional poderá autorizá-lo a permanecer no exercício do cargo até o termo do ano, mediante proposta fundamentada do director da escola.
+Art. 2.º - 1. Se um segundo-assistente do ensino superior for atingido no decurso do ano escolar pelo limite fixado no artigo único do [Decreto-Lei n.º 35964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35964-1946-149463), o Ministro da Educação Nacional poderá autorizá-lo a permanecer no exercício do cargo até o termo do ano, mediante proposta fundamentada do director da escola.
 
 2. Para efeito do preceituado no número anterior, considera-se como termo do ano escolar o do serviço de exames da chamada normal da época de Outubro.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de, Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

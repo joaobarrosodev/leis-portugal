@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/721-1973-407938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34edd808eaf1c44f9b8cf17659129a3c3e684c2c589fc7036a4998e9bc5741a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a6f2bee45db471a7f01ed64e455a68abdafbfca67d76c8ee22dce3a0e1e1c70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Fundação Salazar
+- Habitação Social
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:198744:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:02Z'
   warnings: []
   errors: []
 ---
@@ -92,29 +100,29 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Fundação Salazar, instituição particular de utilidade pública geral, com sede em Lisboa, constituída em 31 de Julho de 1969, dotada de personalidade jurídica, rege-se, pelos estatutos anexos ao presente diploma, e que dele fazem parte integrante, e subsidiariamente pela legislação aplicável.
+Artigo 1.º - 1. A Fundação Salazar, instituição particular de utilidade pública geral, com sede em Lisboa, constituída em 31 de Julho de 1969, dotada de personalidade jurídica, rege-se, pelos estatutos anexos ao presente diploma, e que dele fazem parte integrante, e subsidiariamente pela legislação aplicável.
 
 2. A Fundação poderá criar delegações em qualquer parte do território nacional.
 
-###### Art. 2.º A Fundação Salazar tem por objectivo facultar habitação em boas condições económicas àqueles que, devido aos seus reduzidos recursos, não possam por outra forma consegui-la.
+Art. 2.º A Fundação Salazar tem por objectivo facultar habitação em boas condições económicas àqueles que, devido aos seus reduzidos recursos, não possam por outra forma consegui-la.
 
-###### Art. 3.º O património da Fundação é constituído pelos bens e valores referidos no artigo 5.º dos estatutos.
+Art. 3.º O património da Fundação é constituído pelos bens e valores referidos no artigo 5.º dos estatutos.
 
-###### Art. 4.º A administração da Fundação incumbe a um conselho administrativo composto por três a cinco membros.
+Art. 4.º A administração da Fundação incumbe a um conselho administrativo composto por três a cinco membros.
 
-###### Art. 5.º O exame anual do inventário do património e do balanço das receitas e despesas de harmonia com os fins estatutários, pertence a uma comissão revisora de contas composta pelo director-geral da Contabilidade Pública, que presidirá, director-geral da Assistência Social e mais três membros designados nos termos do n.º 1 do artigo 10.º dos estatutos.
+Art. 5.º O exame anual do inventário do património e do balanço das receitas e despesas de harmonia com os fins estatutários, pertence a uma comissão revisora de contas composta pelo director-geral da Contabilidade Pública, que presidirá, director-geral da Assistência Social e mais três membros designados nos termos do n.º 1 do artigo 10.º dos estatutos.
 
-###### Art. 6.º É aplicável às casas construídas pela Fundação em qualquer parte do território português o disposto no artigo 12.º do Decreto-Lei n.º 35106, de 6 de Novembro de 1945.
+Art. 6.º É aplicável às casas construídas pela Fundação em qualquer parte do território português o disposto no artigo 12.º do Decreto-Lei n.º 35106, de 6 de Novembro de 1945.
 
-###### Art. 7.º A Fundação Salazar continua a beneficiar do regime fiscal instituído no [Decreto-Lei n.º 49164](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49164-1969-198744), de 2 de Agosto de 1969, o qual será extensivo ao ultramar, nos termos a definir pelo Ministro respectivo.
+Art. 7.º A Fundação Salazar continua a beneficiar do regime fiscal instituído no [Decreto-Lei n.º 49164](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49164-1969-198744), de 2 de Agosto de 1969, o qual será extensivo ao ultramar, nos termos a definir pelo Ministro respectivo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 28 de Dezembro de 1973.**
+Promulgado em 28 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Rebelo de Sousa.
 
@@ -122,13 +130,13 @@ ESTATUTOS DA FUNDAÇÃO SALAZAR
 
 ### CAPÍTULO I — Denominação, constituição e fins
 
-###### Artigo 1.º A Fundação Salazar, criada como consequência do apelo feito pelo Presidente da República, Almirante Américo Deus Rodrigues Tomás, rege-se pelos presentes estatutos e em tudo o que nele seja omisso pela legislação aplicável.
+Artigo 1.º A Fundação Salazar, criada como consequência do apelo feito pelo Presidente da República, Almirante Américo Deus Rodrigues Tomás, rege-se pelos presentes estatutos e em tudo o que nele seja omisso pela legislação aplicável.
 
-###### Art. 2.º A Fundação é uma instituição particular de utilidade pública geral, dotada de personalidade jurídica, com sede em Lisboa, podendo, contudo, criar delegações em quaisquer outros pontos do território nacional.
+Art. 2.º A Fundação é uma instituição particular de utilidade pública geral, dotada de personalidade jurídica, com sede em Lisboa, podendo, contudo, criar delegações em quaisquer outros pontos do território nacional.
 
-###### Art. 3.º A Fundação tem por objectivo facultar habitação em boas condições económicas, higiénicas e morais àqueles que, devido aos seus fracos recursos, não possam por outra forma consegui-la.
+Art. 3.º A Fundação tem por objectivo facultar habitação em boas condições económicas, higiénicas e morais àqueles que, devido aos seus fracos recursos, não possam por outra forma consegui-la.
 
-###### Art. 4.º Em conformidade com o seu objectivo, a Fundação propõe-se:
+Art. 4.º Em conformidade com o seu objectivo, a Fundação propõe-se:
 
 a) Promover a construção de casas, quer directamente, quer em colaboração ou através de entidades públicas, designadamente do Fundo de Fomento da Habitação;
 
@@ -136,9 +144,9 @@ b) Exercer, junto das famílias que ocupem as suas habitações, todas aquelas a
 
 ### CAPÍTULO II — Do património e receitas
 
-###### Art. 5.º O património da Fundação é constituído por todos os bens já adquiridos e a adquirir.
+Art. 5.º O património da Fundação é constituído por todos os bens já adquiridos e a adquirir.
 
-###### Art. 6.º Constituem receitas da Fundação:
+Art. 6.º Constituem receitas da Fundação:
 
 a) Os donativos, heranças ou legados com que for contemplada;
 
@@ -148,31 +156,31 @@ c) O produto de festas, subscrições ou outras iniciativas;
 
 d) Os subsídios do Estado ou de quaisquer outras pessoas colectivas de direito público.
 
-###### Art. 7.º A Fundação poderá adquirir quaisquer bens móveis ou imóveis a título gratuito ou oneroso, e bem assim onerá-los ou aliená-los.
+Art. 7.º A Fundação poderá adquirir quaisquer bens móveis ou imóveis a título gratuito ou oneroso, e bem assim onerá-los ou aliená-los.
 
 ### CAPÍTULO III — Administração e fiscalização
 
-###### Art. 8.º São órgãos da Fundação:
+Art. 8.º São órgãos da Fundação:
 
 a) Conselho administrativo;
 
 b) Comissão revisora de contas.
 
-###### Art. 9.º - 1. A Fundação terá, em cargo vitalício, um presidente de honra, sendo o primeiro o seu instituidor, Almirante Américo Deus Rodrigues Tomás.
+Art. 9.º - 1. A Fundação terá, em cargo vitalício, um presidente de honra, sendo o primeiro o seu instituidor, Almirante Américo Deus Rodrigues Tomás.
 
 2. O presidente de honra poderá indicar por escrito ao conselho administrativo o nome da pessoa que lhe deverá suceder nesse cargo e ainda o nome de outra, para a hipótese de a primeira não poder ou não desejar aceitar.
 
-###### Art. 10.º Ao presidente de honra compete:
+Art. 10.º Ao presidente de honra compete:
 
 1. Designar no fim de cada triénio ou substituir, quando entender, os membros do conselho administrativo, bem como três membros da comissão revisora de contas, cujos mandatos podem ser renovados;
 
 2. Convocar e presidir às reuniões desses órgãos, sempre que o desejar.
 
-###### Art. 11.º - 1. O conselho administrativo compõe-se de três a cinco membros, um dos quais, designado pelo presidente de honra, será o presidente, com voto de qualidade.
+Art. 11.º - 1. O conselho administrativo compõe-se de três a cinco membros, um dos quais, designado pelo presidente de honra, será o presidente, com voto de qualidade.
 
 2. O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente de honra, ou o presidente do próprio conselho, ou dois dos seus membros, assim o desejem.
 
-###### Art. 12.º Ao conselho administrativo competem os mais amplos poderes para a representação da Fundação, gerência e disposição do respectivo património, e especialmente:
+Art. 12.º Ao conselho administrativo competem os mais amplos poderes para a representação da Fundação, gerência e disposição do respectivo património, e especialmente:
 
 1.º Elaborar anualmente as contas de gerência e submetê-las à aprovação da comissão revisora de contas;
 
@@ -190,13 +198,13 @@ b) Comissão revisora de contas.
 
 8.º Representar a instituição em juízo e fora dele por um dos seus membros.
 
-###### Art. 13.º Para obrigar a Fundação, excepto em actos de mero expediente, será necessária a assinatura do presidente do conselho administrativo ou de dois administradores, podendo, contudo, uma destas assinaturas ser substituída pela de um procurador para tanto credenciado.
+Art. 13.º Para obrigar a Fundação, excepto em actos de mero expediente, será necessária a assinatura do presidente do conselho administrativo ou de dois administradores, podendo, contudo, uma destas assinaturas ser substituída pela de um procurador para tanto credenciado.
 
-###### Art. 14.º - 1. A comissão revisora de contas é composta por cinco membros: o director-geral da Contabilidade Pública, que presidirá, o director-geral da Assistência Social e mais três membros designados pelo presidente de honra.
+Art. 14.º - 1. A comissão revisora de contas é composta por cinco membros: o director-geral da Contabilidade Pública, que presidirá, o director-geral da Assistência Social e mais três membros designados pelo presidente de honra.
 
 2. A comissão revisora de contas reúne-se pelo menos trimestralmente ou sempre que for convocada pelo presidente de honra, pelo seu próprio presidente ou pelo presidente do conselho administrativo.
 
-###### Art. 15.º À comissão revisora de contas compete:
+Art. 15.º À comissão revisora de contas compete:
 
 1. Apreciar e deliberar sobre as contas anuais de gerência que lhe forem submetidas em cumprimento do n.º 1 do artigo 12.º;
 
@@ -204,6 +212,6 @@ b) Comissão revisora de contas.
 
 3. Prestar ao conselho administrativo toda a colaboração que este lhe pedir, designadamente em relação à gerência dos bens da Fundação.
 
-###### Art. 16.º Aos membros do conselho administrativo ou da comissão revisora de contas que tenham de se deslocar em serviço da Fundação poderão ser abonadas as despesas respectivas.
+Art. 16.º Aos membros do conselho administrativo ou da comissão revisora de contas que tenham de se deslocar em serviço da Fundação poderão ser abonadas as despesas respectivas.
 
-**O Ministro das Corporações e Segurança Social, Joaquim Dias da Silva Pinto.**
+O Ministro das Corporações e Segurança Social, Joaquim Dias da Silva Pinto.

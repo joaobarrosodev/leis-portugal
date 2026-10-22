@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21100/26282629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1980-460797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 795754b902f5db419310c40ccda96edf482aba7a678fa310b10e59983080fbdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf8c765a39f79e59424e2b657f7af4eab30e1df8eecb36bfcaee516ef848e98a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Instituto Português de Ensino à Distância
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:357130:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157039:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357130:por
+  label: "Revogado pelo DEC LEI.444/88.02.12.1988.ME, DR.IS [278] de 02.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1988-357130
+  date: '1988-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:46Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +112,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 2.º, o n.º 1 do artigo 5.º e os artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 519-V1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-v1-1979-157039), de 29 de Dezembro, passam a ter a redacção seguinte:
+Artigo único. O artigo 2.º, o n.º 1 do artigo 5.º e os artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 519-V1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-v1-1979-157039), de 29 de Dezembro, passam a ter a redacção seguinte:
 
-###### Art. 2.º São atribuições do Instituto:
+Art. 2.º São atribuições do Instituto:
 
 1) Projectar, conceber e propor os planos de estudo, programas, conteúdos e métodos pedagógicos adequados ao ensino a distância de:
 
@@ -120,7 +132,7 @@ e) Cursos de actualização e de especialização de conhecimentos para diplomad
 
 3) Projectar os objectivos, propor a mobilização dos meios materiais, formar o pessoal e preparar os dispositivos legais necessários para a criação da Universidade Aberta.
 
-###### Art. 5.º - 1 - O Conselho Pedagógico-Científico do Instituto será constituído pelo presidente do Instituto e pelos seguintes vogais:
+Art. 5.º - 1 - O Conselho Pedagógico-Científico do Instituto será constituído pelo presidente do Instituto e pelos seguintes vogais:
 
 a) Responsável pelo núcleo de estudos de pedagogia do ensino a distância;
 
@@ -140,7 +152,7 @@ h) Director do Gabinete Coordenador de Ingresso no Ensino Superior.
 
 2 - ...
 
-###### Art. 7.º - 1 - O cargo de presidente do Instituto será provido em comissão de serviço por despacho conjunto do Primeiro-Ministro e do Ministro da Educação e Ciência de entre professores universitários.
+Art. 7.º - 1 - O cargo de presidente do Instituto será provido em comissão de serviço por despacho conjunto do Primeiro-Ministro e do Ministro da Educação e Ciência de entre professores universitários.
 
 2 - O presidente do Instituto terá vencimento e categoria equivalente à de director-geral.
 
@@ -158,7 +170,7 @@ h) Director do Gabinete Coordenador de Ingresso no Ensino Superior.
 
 9 - Os membros do Conselho Pedagógico-Científico do Instituto terão direito a uma gratificação idêntica à fixada para os membros das comissões instaladoras das Universidades.
 
-###### Art. 8.º - 1 - O Instituto poderá afectar às actividades de organização, formação, investigação e leccionação de ensino a distância o pessoal docente, investigador e técnico considerado necessário para o cumprimento dos seus objectivos.
+Art. 8.º - 1 - O Instituto poderá afectar às actividades de organização, formação, investigação e leccionação de ensino a distância o pessoal docente, investigador e técnico considerado necessário para o cumprimento dos seus objectivos.
 
 2 - O pessoal docente, investigador e técnico desempenhará as suas funções em regime de acumulação, destacamento, serviço prestado em instituição diferente ou simples aquisição de serviços, sob proposta do Conselho Pedagógico-Científico e despacho do Ministro da Educação e Ciência.
 
@@ -166,14 +178,14 @@ h) Director do Gabinete Coordenador de Ingresso no Ensino Superior.
 
 4 - Sempre que as circunstâncias o exijam, o provimento do pessoal docente, investigador e técnico do Instituto será feito por conveniência urgente de serviço.
 
-###### Art. 9.º - 1 - A associação funcional entre o Instituto e o Gabinete Coordenador de Ingresso no Ensino Superior é considerada globalmente como um estabelecimento de ensino, sem prejuízo da autonomia administrativa deste Gabinete.
+Art. 9.º - 1 - A associação funcional entre o Instituto e o Gabinete Coordenador de Ingresso no Ensino Superior é considerada globalmente como um estabelecimento de ensino, sem prejuízo da autonomia administrativa deste Gabinete.
 
 2 - Todas as despesas com pessoal, independentemente da respectiva forma de provimento, resultantes da execução do presente diploma são suportadas inteiramente pelo Gabinete Coordenador de Ingresso no Ensino Superior, sem prejuízo das dotações próprias destinadas a pagamento do pessoal do seu quadro.
 
 Visto e aprovado em Conselho de Ministros, 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 25 de Agosto de 1980.**
+Promulgado em 25 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 286/1976, 1º Suplemento, Série I de 1976-12-09
   number: '286'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2700-(1) a 2700-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/28601/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/843-b-1976-399195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a4a95d7b4350393af3afd859101d93bb2517967422b1af7fc04f69a5444f355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a87e685b6ec09e146a491a7fe9bf1d093f0278c2601fd4bef8e4f740eec18e80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Científica
+- Comissão Directiva
+- Definição de Competências
+- Ensino Superior
+- Faculdade de Direito
+- Pessoal Docente
+- Reestruturação de Serviços
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139725:por
+  label: "Determinada a manutenção em funções da Comissão de Reestruturação da Faculdade de Direito da Universidade de Lisboa,\
+    \ referida no art. 4º, até que seja declarado o encerramento do processo, pelo DEC LEI.125/77.01.04.1977.MECI, DR.IS [77]\
+    \ de 01.04.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1977-139725
+  date: '1977-04-01'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:55Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +119,11 @@ Julga-se necessário e urgente encetar o processo dessa reestruturação, em ter
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Será constituída uma comissão, composta por especialistas de reconhecida competência, para estudar e propor as medidas necessárias à reestruturação da Faculdade de Direito da Universidade de Lisboa, tendo em vista assegurar ao ensino professado nessa escola o indispensável nível científico e técnico, de acordo com as actuais exigências da sociedade portuguesa.
+Artigo 1.º - 1. Será constituída uma comissão, composta por especialistas de reconhecida competência, para estudar e propor as medidas necessárias à reestruturação da Faculdade de Direito da Universidade de Lisboa, tendo em vista assegurar ao ensino professado nessa escola o indispensável nível científico e técnico, de acordo com as actuais exigências da sociedade portuguesa.
 
 2. Os membros da comissão de reestruturação serão designados por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 2.º - 1. No desempenho das funções que são cometidas à comissão de reestruturação cabe, designadamente, propor:
+Art. 2.º - 1. No desempenho das funções que são cometidas à comissão de reestruturação cabe, designadamente, propor:
 
 a) O plano de estudos do curso geral de Direito e dos cursos de pós-graduação a instituir;
 
@@ -112,26 +137,26 @@ e) Os meios de que deve ser dotada a biblioteca da Faculdade, de forma a torná-
 
 2. Sempre que circunstâncias especiais o justifiquem, pode ainda a comissão propor ao Ministério da Educação e Investigação Científica que sejam suspensos das funções que exercem, sem prejuízo da vigência dos respectivos contratos até ao seu termo legal, os equiparados a professor ou assistentes que não preencham os requisitos decorrentes dos critérios legais de recrutamento referidos na alínea c) do n.º 1.
 
-###### Art. 3.º Nos estudos a realizar a comissão procurará recolher sugestões e colaboração adequada dos estudantes de Direito e de entidades especialmente qualificados para se pronunciarem sobre a reestruturação do curso de Direito.
+Art. 3.º Nos estudos a realizar a comissão procurará recolher sugestões e colaboração adequada dos estudantes de Direito e de entidades especialmente qualificados para se pronunciarem sobre a reestruturação do curso de Direito.
 
-###### Art. 4.º No prazo de noventa dias, contados da data da sua nomeação, a comissão de reestruturação apresentará ao Ministro da Educação e Investigação Científica o relatório e as conclusões finais do seu estudo.
+Art. 4.º No prazo de noventa dias, contados da data da sua nomeação, a comissão de reestruturação apresentará ao Ministro da Educação e Investigação Científica o relatório e as conclusões finais do seu estudo.
 
-###### Art. 5.º - 1. O processo de reestruturação da Faculdade de Direito da Universidade de Lisboa não prejudicará a frequência e o aproveitamento dos estudantes nela inscritos no corrente ano lectivo.
+Art. 5.º - 1. O processo de reestruturação da Faculdade de Direito da Universidade de Lisboa não prejudicará a frequência e o aproveitamento dos estudantes nela inscritos no corrente ano lectivo.
 
 2. Enquanto não for ultimado o referido processo não será aplicável à Faculdade o [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, com excepção das normas do capítulo I deste decreto que regulam a assembleia geral da escola.
 
 3. O Ministro da Educação e Investigação Científica designará, por despacho, uma comissão encarregada de assegurar a gestão da mesma escola até ao termo do processo de reestruturação.
 
-###### Art. 6.º São consideradas serviço docente, para todos os efeitos legais, as funções desempenhadas na comissão de reestruturação por aqueles dos seus membros que forem professores ou assistentes universitários.
+Art. 6.º São consideradas serviço docente, para todos os efeitos legais, as funções desempenhadas na comissão de reestruturação por aqueles dos seus membros que forem professores ou assistentes universitários.
 
-###### Art. 7.º As dúvidas surgidas na interpretação e aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 7.º As dúvidas surgidas na interpretação e aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Cardia.
 
-**Promulgado em 3 de Dezembro de 1976.**
+Promulgado em 3 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

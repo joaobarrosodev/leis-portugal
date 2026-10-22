@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1979-370049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 789b03726f90bfb5d9fa0aed4e3b2bfa58420bac42878ab0021591dbb2ab7caf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcc361d62e5d2118c83fda7aa61b4dd797a6bbafabe19418a50d3d33ee5f2d3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Quadro de Pessoal
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:421824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:12Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +105,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal das assessorias jurídicas criadas pelo [Decreto-Lei n.º 380/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1973-421824), de 25 de Julho, nas Universidades de Coimbra, Lisboa, Porto e Técnica de Lisboa passa a ser o constante do mapa anexo ao presente diploma.
+Artigo 1.º O quadro do pessoal das assessorias jurídicas criadas pelo [Decreto-Lei n.º 380/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1973-421824), de 25 de Julho, nas Universidades de Coimbra, Lisboa, Porto e Técnica de Lisboa passa a ser o constante do mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1 - O provimento dos lugares agora criados será feito por nomeação provisória ou em comissão de serviço durante o período de um ano.
+Art. 2.º - 1 - O provimento dos lugares agora criados será feito por nomeação provisória ou em comissão de serviço durante o período de um ano.
 
 2 - Findo o prazo referido no número anterior o funcionário:
 
@@ -107,9 +117,9 @@ b) Será exonerado ou regressará ao lugar de origem.
 
 3 - Para efeitos do disposto no n.º 2 será contado o tempo de serviço prestado na situação de contratado além do quadro em categoria idêntica à do provimento em causa.
 
-###### Art. 3.º Para satisfazer necessidades transitórias que não possam ser asseguradas pelo pessoal permanente, poderá ser contratado pessoal além do quadro.
+Art. 3.º Para satisfazer necessidades transitórias que não possam ser asseguradas pelo pessoal permanente, poderá ser contratado pessoal além do quadro.
 
-###### Art. 4.º A nomeação do pessoal previsto no mapa anexo ao presente diploma far-se-á nos termos seguintes:
+Art. 4.º A nomeação do pessoal previsto no mapa anexo ao presente diploma far-se-á nos termos seguintes:
 
 a) Técnico de 2.ª classe, mediante concurso documental de entre indivíduos habilitados com a licenciatura em Direito;
 
@@ -119,22 +129,22 @@ c) Técnico principal, mediante concurso documental de entre técnicos de 1.ª c
 
 d) Assessor, mediante prova de apreciação curricular e discussão de trabalho apresentado para o efeito de entre técnicos principais licenciados em Direito com três anos de bom e efectivo serviço.
 
-###### Art. 5.º - 1 - O pessoal licenciado em Direito em serviço nas Universidades poderá ser provido em lugares do quadro criado pelo presente diploma, mediante despacho do Ministro da Educação e Investigação Científica, visado pelo Tribunal de Contas, considerando-se investido nos respectivos lugares a partir da data da publicação do despacho no Diário da República, com dispensa de qualquer outra formalidade.
+Art. 5.º - 1 - O pessoal licenciado em Direito em serviço nas Universidades poderá ser provido em lugares do quadro criado pelo presente diploma, mediante despacho do Ministro da Educação e Investigação Científica, visado pelo Tribunal de Contas, considerando-se investido nos respectivos lugares a partir da data da publicação do despacho no Diário da República, com dispensa de qualquer outra formalidade.
 
 2 - O pessoal em serviço nas assessorias jurídicas, nos termos do Decreto-Lei n.º 380/13, de 25 de Julho, que não for provido em lugares do quadro ficará na situação de supranumerário, sendo os respectivos lugares extintos à medida que vagarem.
 
-###### Art. 6.º Os encargos com remunerações certas e permanentes resultantes da execução do presente diploma serão satisfeitos no corrente ano económico por conta das disponibilidades apuradas nas dotações respectivas inscritas a favor de cada uma das Universidades.
+Art. 6.º Os encargos com remunerações certas e permanentes resultantes da execução do presente diploma serão satisfeitos no corrente ano económico por conta das disponibilidades apuradas nas dotações respectivas inscritas a favor de cada uma das Universidades.
 
-###### Art. 7.º As dúvidas resultantes da aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica em conjunto com o Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando for caso disso.
+Art. 7.º As dúvidas resultantes da aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica em conjunto com o Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando for caso disso.
 
-###### Art. 8.º Fica revogada toda a legislação em contrário, nomeadamente o n.º 4 do artigo 3.º do [Decreto-Lei n.º 380/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1973-421824).
+Art. 8.º Fica revogada toda a legislação em contrário, nomeadamente o n.º 4 do artigo 3.º do [Decreto-Lei n.º 380/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1973-421824).
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1979. - Carlos Alberto da Mota Pinto - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes - João Pinto Ribeiro.
 
-**Promulgado em 13 de Agosto de 1979.**
+Promulgado em 13 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/20000/21402141.pdf))](https://files.diariodarepublica.pt/1s/1979/08/20000/21402141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/20000/21402141.pdf)

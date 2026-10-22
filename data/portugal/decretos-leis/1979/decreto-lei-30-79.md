@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/04700/02920300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1979-393660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d470f70c883d338cb3d8d6f73c115cb7fa8e222f95aa8d6a981f76c1f4c976b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42df21390c679ff99a117f4848ff1b4bf07d77f1302bfb0d95e60433efc02bd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa de Electricidade da Madeira
+- Empresa Pública
+- Estatuto
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ARTIGOS 23 E 24 DOS ESTATUTOS E TRANSFERIDOS PARA O GOVERNO REGIONAL DA MADEIRA OS PODERES ATRIBUIDOS\
+    \ AOS VARIOS MINISTÉRIOS NOS MESMOS ESTATUTOS, PELO DECRETO LEI 31/79, DE 24 DE FEVEREIRO, PUBLICADO NO DR.IS, 47.\0O\
+    \ DR.IS, 47."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-02-24'
+- type: cites
+  target: pt:dre:408298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:26Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +134,25 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - É aprovado o estatuto da Empresa de Electricidade da Madeira, E. P., que faz parte integrante do presente diploma.
+Artigo 1.º - É aprovado o estatuto da Empresa de Electricidade da Madeira, E. P., que faz parte integrante do presente diploma.
 
-###### Art. 2.º A Empresa de Electricidade da Madeira, E. P., abreviadamente designada por EEM, empresa pública criada pelo [Decreto-Lei n.º 12/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298), de 17 de Janeiro, reger-se-á pela legislação aplicável às empresas públicas, pelo estatuto anexo, em tudo o que não contrariar aquela legislação, e, subsidiariamente, pelas normas de direito privado.
+Art. 2.º A Empresa de Electricidade da Madeira, E. P., abreviadamente designada por EEM, empresa pública criada pelo [Decreto-Lei n.º 12/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298), de 17 de Janeiro, reger-se-á pela legislação aplicável às empresas públicas, pelo estatuto anexo, em tudo o que não contrariar aquela legislação, e, subsidiariamente, pelas normas de direito privado.
 
-###### Art. 3.º Os poderes de tutela do Governo sobre a EEM são exercidos pelo Ministério da Indústria e Tecnologia, nos termos do [Decreto-Lei n.º 58/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1978-446953), de 1 de Abril.
+Art. 3.º Os poderes de tutela do Governo sobre a EEM são exercidos pelo Ministério da Indústria e Tecnologia, nos termos do [Decreto-Lei n.º 58/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1978-446953), de 1 de Abril.
 
-###### Art. 4.º As dúvidas que se suscitarem na execução do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e do Ministro ou Ministros competentes em razão da matéria.
+Art. 4.º As dúvidas que se suscitarem na execução do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e do Ministro ou Ministros competentes em razão da matéria.
 
-###### Art. 5.º Ficam expressamente revogados os Decretos-Leis n.os [12/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298), de 17 de Janeiro, e [583/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1974-471511), de 5 de Novembro, excepto o artigo 1.º do diploma citado em primeiro lugar.
+Art. 5.º Ficam expressamente revogados os Decretos-Leis n.os [12/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298), de 17 de Janeiro, e [583/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1974-471511), de 5 de Novembro, excepto o artigo 1.º do diploma citado em primeiro lugar.
 
-###### Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 12 de Fevereiro de 1979.**
+Promulgado em 12 de Fevereiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA EMPRESA DE ELECTRICIDADE DA MADEIRA, E. P. (EEM)
 
@@ -124,7 +160,7 @@ ESTATUTO DA EMPRESA DE ELECTRICIDADE DA MADEIRA, E. P. (EEM)
 
 #### SECÇÃO I — Da denominação, natureza e sede
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Denominação e natureza)
 
@@ -132,7 +168,7 @@ ESTATUTO DA EMPRESA DE ELECTRICIDADE DA MADEIRA, E. P. (EEM)
 
 2 - A capacidade jurídica da EEM abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objectivo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Sede e representação)
 
@@ -140,13 +176,13 @@ A EEM tem sede no Funchal, podendo descentralizar os seus estabelecimentos, serv
 
 #### SECÇÃO II — Do objecto
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Objecto principal)
 
 A EEM tem por objecto principal o estabelecimento e exploração do serviço público de produção, transporte e distribuição de energia eléctrica em todo o território do arquipélago da Madeira.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Objecto acessório)
 
@@ -158,13 +194,13 @@ A EEM tem por objecto principal o estabelecimento e exploração do serviço pú
 
 #### SECÇÃO III — Do capital estatutário
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Capital estatutário)
 
 O capital estatutário será fixado nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, por despacho dos Ministros das Finanças e do Plano e da Tutela, sob proposta do conselho de gerência da EEM, a apresentar no prazo de noventa dias a contar da data da publicação deste estatuto.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Modificações no capital estatutário)
 
@@ -174,7 +210,7 @@ O capital estatutário será fixado nos termos do [Decreto-Lei n.º 490/76](http
 
 #### SECÇÃO IV — Do património
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Constituição do património)
 
@@ -182,13 +218,13 @@ O capital estatutário será fixado nos termos do [Decreto-Lei n.º 490/76](http
 
 2 - Designadamente, constituem património da EEM os postos de transformação, as redes de transporte e distribuição de energia eléctrica e de iluminação pública e suas partes integrantes, componentes ou acessórias e ainda levadas e outras obras de captação de água de qualquer modo afectos à sua actividade.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Responsabilidade por dívidas)
 
 Pelas dívidas da EEM responde exclusivamente o seu património.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Receitas)
 
@@ -212,7 +248,7 @@ g) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou qu
 
 #### SECÇÃO I — Disposições preliminares
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Órgãos da Empresa)
 
@@ -226,13 +262,13 @@ c) A comissão de fiscalização.
 
 #### SECÇÃO II — Do conselho de gerência
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Composição)
 
 O conselho de gerência é composto por três administradores.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Forma de nomeação)
 
@@ -240,7 +276,7 @@ O conselho de gerência é composto por três administradores.
 
 2 - As propostas de nomeação de administradores serão precedidas de audiência dos trabalhadores da Empresa.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Mandato)
 
@@ -252,25 +288,25 @@ O conselho de gerência é composto por três administradores.
 
 4 - O exercício do mandato não depende de prestação de caução.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Regalias gerais)
 
 Os administradores terão direito às regalias sociais asseguradas aos trabalhadores da Empresa.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Abonos e despesas de deslocações)
 
 Os administradores terão direito ao abono de ajudas de custo em vigor na Empresa e ao pagamento das despesas de transporte.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Responsabilidade pela condução da gestão)
 
 Para além da responsabilidade civil em que, nos termos da lei, se constituam perante terceiros ou perante a Empresa e de responsabilidade criminal em que incorram, os administradores respondem pela condução da gestão exclusivamente perante o Governo.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Competência do conselho de gerência)
 
@@ -316,7 +352,7 @@ s) Nomear os representantes da Empresa em sociedades de que seja sócia e fixar 
 
 3 - Nos casos em que a lei ou o presente estatuto sujeitem o exercício destas competências à orientação do Governo, deverá o conselho de gerência submeter as suas deliberações à aprovação governamental.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Presidente do conselho de gerência)
 
@@ -330,7 +366,7 @@ c) Exercer voto de qualidade.
 
 2 - Nas suas faltas ou impedimentos o presidente do conselho de gerência será substituído pelo administrador designado pelo conselho de gerência.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Reuniões)
 
@@ -342,7 +378,7 @@ c) Exercer voto de qualidade.
 
 4 - Consideram-se regularmente convocados os administradores que hajam assinado o aviso convocatório, assistido a qualquer reunião em que, na sua presença, tenham sido fixadas a data e a hora da reunião ou que hajam sido avisados por qualquer outra forma previamente acordada.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Deliberações)
 
@@ -352,7 +388,7 @@ c) Exercer voto de qualidade.
 
 3 - Das reuniões serão obrigatoriamente lavradas actas.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Suspensão da executoriedade das deliberações)
 
@@ -366,7 +402,7 @@ b) Se verifique terem sido tomadas sem a presença de todos os membros em exerc�
 
 3 - As deliberações suspensas com fundamento na alínea b) do n.º 1 serão reapreciadas na sessão seguinte do conselho de gerência.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Termos em que a Empresa se obriga)
 
@@ -380,7 +416,7 @@ c) Pela assinatura de procurador legalmente constituído, no âmbito dos poderes
 
 #### SECÇÃO III — Do conselho geral
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Composição)
 
@@ -402,7 +438,7 @@ g) Dois representantes dos trabalhadores da Empresa.
 
 2 - Quando a natureza dos assuntos a tratar o aconselhe, o presidente, por sua iniciativa ou a requerimento de um terço dos membros do conselho, pode convidar a tomar parte nas reuniões, sem direito a voto, pessoas de reconhecida competência nas matérias a discutir.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Forma de nomeação)
 
@@ -418,7 +454,7 @@ d) Os referidos na alínea f) do mesmo número pelas respectivas autarquias loca
 
 e) Os referidos na alínea g) pela forma que for estabelecida em despacho do Ministro da Tutela, ouvidos os trabalhadores da Empresa.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Competência)
 
@@ -440,7 +476,7 @@ e) Eleger o vice-presidente e o secretário do conselho.
 
 4 - Os documentos referidos na alínea c) do n.º 1 serão enviados ao conselho geral até 15 de Março de cada ano.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Reuniões)
 
@@ -450,7 +486,7 @@ e) Eleger o vice-presidente e o secretário do conselho.
 
 #### SECÇÃO IV — Da comissão de fiscalização
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Composição)
 
@@ -462,13 +498,13 @@ e) Eleger o vice-presidente e o secretário do conselho.
 
 4 - Ao mandato dos membros da comissão de fiscalização aplica-se, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 13.º
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Remunerações, abonos e despesas de deslocação)
 
 1 - As remunerações dos membros da comissão de fiscalização, na falta de disposição legal sobre a matéria, serão fixadas pelo Ministro das Finanças e do Plano e da Tutela.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Competência da comissão de fiscalização)
 
@@ -500,7 +536,7 @@ j) Pronunciar-se sobre qualquer assunto de interesse para a Empresa que seja sub
 
 4 - Sempre que o conselho de gerência não estabelecer prazo mais dilatado, os pareceres a que se refere este artigo serão emitidos pela comissão de fiscalização no prazo de cinco dias, salvo se estes respeitarem aos actos de que trata a alínea g) do n.º 1 deste artigo, caso em que o prazo será de quinze dias.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Reuniões)
 
@@ -508,7 +544,7 @@ j) Pronunciar-se sobre qualquer assunto de interesse para a Empresa que seja sub
 
 2 - À convocação da comissão de fiscalização aplica-se, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 19.º deste estatuto.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Deliberações)
 
@@ -516,7 +552,7 @@ j) Pronunciar-se sobre qualquer assunto de interesse para a Empresa que seja sub
 
 2 - As deliberações da comissão de fiscalização ficam sujeitas ao estabelecido no artigo 20.º na parte aplicável.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Assistência às reuniões do conselho de gerência)
 
@@ -524,7 +560,7 @@ j) Pronunciar-se sobre qualquer assunto de interesse para a Empresa que seja sub
 
 2 - Fora do caso previsto no número precedente, os membros da comissão de fiscalização poderão assistir individual ou conjuntamente, às reuniões do conselho de gerência, sempre que o presidente deste o entenda conveniente.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Presidente da comissão de fiscalização)
 
@@ -532,7 +568,7 @@ Aplica-se ao presidente da comissão de fiscalização, com as necessárias adap
 
 ### CAPÍTULO III — Intervenção do Governo
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Do Ministro da Indústria e Tecnologia)
 
@@ -554,7 +590,7 @@ g) Fixar as remunerações dos membros dos órgãos da empresa, na ausência de 
 
 h) Exercer quaisquer outros poderes que lhe sejam conferidos por lei ou pelo presente estatuto.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Dos Ministros das Finanças e do Plano e da Indústria e Tecnologia)
 
@@ -566,19 +602,19 @@ b) Autorizar a emissão de obrigações;
 
 c) Autorizar a aquisição ou alienação de participações no capital de sociedades.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Dos Ministros do Trabalho e da Indústria e Tecnologia)
 
 Compete aos Ministros do Trabalho e da Indústria e Tecnologia aprovar o estatuto do pessoal, ouvido o Governo Regional da Madeira e os representantes dos trabalhadores.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Fixação de preços)
 
 Compete, em conjunto, aos Ministros da Tutela e do Comércio e Turismo, ouvido o Governo Regional da Madeira, fixar a política de preços de venda de energia e serviços pela EEM, designadamente fixar as tarifas de venda de energia eléctrica.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Sujeição ao planeamento económico nacional e regional)
 
@@ -586,7 +622,7 @@ Na elaboração dos planos de actividade e financeiros da empresa, o conselho de
 
 ### CAPÍTULO IV — Da gestão patrimonial e financeira
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Disposição e administração do bens)
 
@@ -596,7 +632,7 @@ Na elaboração dos planos de actividade e financeiros da empresa, o conselho de
 
 3 - É da exclusiva competência da EEM a cobrança das suas receitas, bem como a realização de todas as despesas inerentes à prossecução do seu objecto.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Princípios básicos da gestão)
 
@@ -606,7 +642,7 @@ Na elaboração dos planos de actividade e financeiros da empresa, o conselho de
 
 3 - Os recursos da empresa devem ser aproveitados nos termos que melhor sirvam a economia de exploração, com vista a atingir o máximo de eficácia na sua contribuição para o desenvolvimento económico-social.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Instrumentos de gestão previsional)
 
@@ -620,7 +656,7 @@ c) Plano anual de actividades e financeiro;
 
 d) Orçamentos anuais, individualizando, pelo menos, os de exploração e de investimento, e suas actualizações.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Amortizações, reintegrações e reavaliações)
 
@@ -630,7 +666,7 @@ d) Orçamentos anuais, individualizando, pelo menos, os de exploração e de inv
 
 3 - A EEM deve proceder periodicamente à reavaliação do activo imobilizado, em ordem a obter uma mais exacta correspondência entre os valores patrimoniais e contabilísticos.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Aplicação de resultados)
 
@@ -654,7 +690,7 @@ g) Outras aplicações.
 
 3 - Na elaboração da proposta de aplicação do resultado do exercício, o conselho de gerência deverá ter em conta as necessidades de retenção de excedentes na empresa para fazer face ao reembolso de financiamentos contraídos e ao autofinanciamento de investimentos programados, bem como à compensação dos efeitos desfavoráveis da inflação monetária.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Reservas e fundos)
 
@@ -668,13 +704,13 @@ c) Fundo para fins sociais;
 
 d) Reserva para remuneração do capital estatutário.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Relatório do conselho de gerência e documentos do prestação de contas)
 
 Serão elaborados, com referência a 31 de Dezembro de cada ano, um relatório do conselho de gerência, dando conta da forma como foram atingidos os objectivos da empresa e avaliando a eficiência desta nos vários aspectos da sua actuação, e, bem assim os documentos da prestação de contas exigidos pelo plano fiscal de contabilidade e demais legislação aplicável.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Isenção de formalidades)
 
@@ -682,13 +718,13 @@ Serão elaborados, com referência a 31 de Dezembro de cada ano, um relatório d
 
 2 - Os contratos de arrendamento cuja celebração se mostre necessária à actividade da empresa estão isentos de todas as formalidades exigidas para o arrendamento de imóveis destinados ao serviço do Estado.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Cadastro)
 
 O cadastro dos bens da empresa e do domínio público a cargo dela será actualizado até 31 de Dezembro de cada ano.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Arquivo)
 
@@ -700,7 +736,7 @@ O cadastro dos bens da empresa e do domínio público a cargo dela será actuali
 
 4 - As fotocópias autenticadas dos documentos arquivados têm a mesma força probatória que os originais, mesmo quando se trate de ampliações de microfilmes.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Aprovação de contas)
 
@@ -712,7 +748,7 @@ O cadastro dos bens da empresa e do domínio público a cargo dela será actuali
 
 #### SECÇÃO I — Do pessoal
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Regime jurídico do pessoal)
 
@@ -724,7 +760,7 @@ b) Pelos instrumentos de regulamentação colectiva de trabalho que forem aplic�
 
 c) Pelas demais normas que integram o estatuto do pessoal da empresa, elaborado pelo conselho de gerência.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Comissão de serviço)
 
@@ -736,25 +772,25 @@ c) Pelas demais normas que integram o estatuto do pessoal da empresa, elaborado 
 
 4 - O vencimento dos trabalhadores em comissão de serviço constituirá encargo da entidade para a qual o serviço for prestado.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Trabalhadores nomeados para cargos nos órgãos da empresa)
 
 A situação dos trabalhadores da EEM que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que termine o seu mandato caso o seu desempenho implique cessação das funções normais.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Regime de providência do pessoal)
 
 Ao pessoal da empresa é aplicável o regime geral de previdência.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Regime fiscal do pessoal)
 
 Os rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação, nos mesmos termos que os trabalhadores das empresas privadas.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Intervenção dos trabalhadores na gestão)
 
@@ -762,10 +798,10 @@ Os trabalhadores da EEM exercerão todos os direitos respeitantes ao contrôle d
 
 #### SECÇÃO II — Do regime fiscal da empresa
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Regime fiscal)
 
 1 - A EEM fica sujeita ao regime fiscal estabelecido na lei para as empresas concessionárias de produção, transporte e distribuição de energia eléctrica.
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.

@@ -49,40 +49,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45699-1964-582812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 254184b5a9c9877b7ac74268f9dfd7a8535ea552d9ec31ef88909772844ba52b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15abf6e7be19315badf262add1c2a95fcac53ece854e0cde32d4f36b645bf679
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angra do Heroísmo
+- Estatuto
+- Horta
+- Processo Laboral
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:335736:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:352516:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335736:por
+  label: "Revogado o art. 1º e o nº1 do art. 2º pelo DEC LEI.298/75.19.06.1975.MT, DG.IS [139] de 19.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1975-335736
+  date: '1975-06-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:00Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +105,16 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É fixado em 30000$00, para todos os tribunais do trabalho, o valor previsto no corpo dos artigos 7.º e 23.º do estatuto aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958.
+Artigo 1.º É fixado em 30000$00, para todos os tribunais do trabalho, o valor previsto no corpo dos artigos 7.º e 23.º do estatuto aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958.
 
-###### Art. 2.º - 1. Os juízes dos tribunais de Angra do Heroísmo e da Horta só têm competência para julgar as acções cíveis de valor até 10000$00, observando-se, nas de valor superior, o disposto no n.º 2 do artigo 16.º do Código de Processo do Trabalho.
+Art. 2.º - 1. Os juízes dos tribunais de Angra do Heroísmo e da Horta só têm competência para julgar as acções cíveis de valor até 10000$00, observando-se, nas de valor superior, o disposto no n.º 2 do artigo 16.º do Código de Processo do Trabalho.
 
 2. O conhecimento dos processos de natureza penal é da competência do Tribunal do Trabalho de Ponta Delgada.
 
 3. Nas acções cíveis da competência destes tribunais não se observará o disposto no artigo 179.º daquele código.
 
-###### Art. 3.º É revogado o § único do artigo 6.º do referido estatuto.
+Art. 3.º É revogado o § único do artigo 6.º do referido estatuto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República 30 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

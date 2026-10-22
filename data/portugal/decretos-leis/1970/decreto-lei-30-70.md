@@ -51,40 +51,162 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b08fef539aef7a20995dec518165de5d8944432d1af30de5aca8550f9f7519c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19c5434271f54d509a7b94ccd2896fa4df8b5de8955bdcbd2e99128b7ff927c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Câmara Municipal
+- Código Administrativo
+- Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+- Função Pública
+- Funchal
+- Governo Civil
+- Lisboa
+- Madeira.ilha Adjacente
+- Organização Territorial
+- Porto
+- Porto Santo
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:382996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229149:por
+  label: "Alterado o mapa do pessoal vitalício e contratado dos quadros das juntas gerais dos distritos autónomos das ilhas\
+    \ adjacentes, aprovados pelo presente diploma, pelo DEC LEI.130/70.25.03.1970.MI, DG.IS [71] de 25.03.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1970-229149
+  date: '1970-03-25'
+- type: amended_by
+  target: pt:dre:446896:por
+  label: "Alterado o 460º do Código Administrativo, aprovado pelo Dec lei 31095, de 31-Dez de 1940, na redacção do presente\
+    \ diploma, pelo DEC LEI.48/71.22.02.1971.MI, DG.IS [44] de 22.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1971-446896
+  date: '1971-02-22'
+- type: amended_by
+  target: pt:dre:681212:por
+  label: "Alterado o art. 485º do Código Administrativo, aprovado pelo Dec Lei 31095, de 31-Dez, de 1940, na redacção do presente\
+    \ diploma, pelo DEC LEI.163/72.15.05.1972.MI, DG.IS [114] de 15.05.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1972-681212
+  date: '1972-05-15'
+- type: amended_by
+  target: pt:dre:411328:por
+  label: "Dada nova redacção aos arts. 479º e 485º e revogada a al. e) do art. 488º do Código Administrativo aprovado pelo\
+    \ Dec Lei 31095 de 31-Dez de 1940, com as alterações constantes do presente diploma, pelo DEC LEI.156/74.19.04.1974.MI,\
+    \ DG.IS [92] de 19.04.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-1974-411328
+  date: '1974-04-19'
+- type: amended_by
+  target: pt:dre:472892:por
+  label: "Alterados nº I da tabela A anexa ao Código Administrativo, aprovado pelo Dec Lei 31095 de 31-Dez de 1940, com a\
+    \ redacção conferida no presente diploma, pelo DEC LEI.530/74.09.10.1974.MAI, DG.IS [235] de 09.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1974-472892
+  date: '1974-10-09'
+- type: amended_by
+  target: pt:dre:139941:por
+  label: "Extinto o quadro de pessoal criado pelo art. 20º do presente diploma, pelo DEC LEI.157/77.1977.04.16.PCM, DR.IS\
+    \ [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1977-139941
+  date: '1977-04-16'
+- type: amended_by
+  target: pt:dre:382996:por
+  label: "Dada nova redacção ao Cap. I da tabela A anexa ao Código Administrativo aprovado pelo Decreto-Lei n.º 31095, de\
+    \ 31 de Dezembro de 1940, alterado pelo presente diploma, pelo DEC LEI.67/79.30.03.1979.MAI, DR.IS [75] de 30.03.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1979-382996
+  date: '1979-03-30'
+- type: cites
+  target: pt:dre:149855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686262:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:05Z'
   warnings: []
   errors: []
 ---
@@ -139,15 +261,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aprovadas, em nova redacção, a tabela A anexa ao Código Administrativo e a tabela anexa ao Estatuto dos Distritos Autónomos das Ilhas Adjacentes, bem como o mapa do pessoal vitalício e contratado dos quadros das juntas gerais dos mesmos distritos.
+Artigo 1.º São aprovadas, em nova redacção, a tabela A anexa ao Código Administrativo e a tabela anexa ao Estatuto dos Distritos Autónomos das Ilhas Adjacentes, bem como o mapa do pessoal vitalício e contratado dos quadros das juntas gerais dos mesmos distritos.
 
-###### Art. 2.º São autorizados os corpos administrativos e os conselhos de administração dos serviços municipalizados a actualizar, com efeitos a partir de 1 de Janeiro de 1970, as remunerações do pessoal assalariado dos quadros, bem como as de funcionários que não estejam estabelecidas por lei, até aos quantitativos que resultarem das regras fixadas nos artigos 5.º a 7.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, para actualização dos ordenados e salários do pessoal civil do Estado de categoria ou classes idênticas ou equiparadas.
+Art. 2.º São autorizados os corpos administrativos e os conselhos de administração dos serviços municipalizados a actualizar, com efeitos a partir de 1 de Janeiro de 1970, as remunerações do pessoal assalariado dos quadros, bem como as de funcionários que não estejam estabelecidas por lei, até aos quantitativos que resultarem das regras fixadas nos artigos 5.º a 7.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, para actualização dos ordenados e salários do pessoal civil do Estado de categoria ou classes idênticas ou equiparadas.
 
-###### Art. 3.º - 1. O aumento de remunerações resultante dos artigos anteriores fica condicionado à observância do disposto no artigo 676.º do Código Administrativo.
+Art. 3.º - 1. O aumento de remunerações resultante dos artigos anteriores fica condicionado à observância do disposto no artigo 676.º do Código Administrativo.
 
 2. Em casos devidamente justificados, poderá o Ministro do Interior autorizar que o aumento tenha lugar quando a despesa orçada com o pessoal não exceda 60 por cento da receita ordinária e própria efectivamente arrecadada no ano anterior.
 
-###### Art. 4.º - 1. Os funcionários actualmente providos em cargos do quadro geral administrativo consideram-se pertencentes às classes e categorias que lhes cabem, segundo o mapa anexo a este diploma, sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 47398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47398-1966-477850), de 22 de Dezembro de 1966, e no n.º 2 do artigo 2.º, com as necessárias adaptações, e no artigo 3.º do Decreto-Lei n.º 49322, de 27 de Outubro de 1969.
+Art. 4.º - 1. Os funcionários actualmente providos em cargos do quadro geral administrativo consideram-se pertencentes às classes e categorias que lhes cabem, segundo o mapa anexo a este diploma, sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 47398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47398-1966-477850), de 22 de Dezembro de 1966, e no n.º 2 do artigo 2.º, com as necessárias adaptações, e no artigo 3.º do Decreto-Lei n.º 49322, de 27 de Outubro de 1969.
 
 2. Os tesoureiros das câmaras municipais dos concelhos de 3.ª ordem consideram-se promovidos à 4.ª classe da 2.ª categoria, com efeitos a partir de 1 de Janeiro de 1970, e independentemente de qualquer formalidade.
 
@@ -155,25 +277,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O disposto no número anterior é aplicável aos funcionários aprovados em concurso de habilitação para as classes que presentemente correspondem aos cargos ali referidos, incluindo os concursos cujos processos estão a decorrer, bem como aos funcionários do quadro interno da Direcção-Geral de Administração Política e Civil.
 
-###### Art. 5.º - 1. Os aspirantes dos quadros privativos das secretarias dos governos civis, administrações de bairro e corpos administrativos consideram-se investidos nas funções de escriturários-dactilógrafos de 1.ª classe, independentemente de qualquer formalidade.
+Art. 5.º - 1. Os aspirantes dos quadros privativos das secretarias dos governos civis, administrações de bairro e corpos administrativos consideram-se investidos nas funções de escriturários-dactilógrafos de 1.ª classe, independentemente de qualquer formalidade.
 
 2. Nas mesmas funções se consideram providos, e também independentemente de qualquer formalidade, os escriturários de 2.ª classe existentes em 1 de Janeiro de 1970 nos quadros privativos das secretarias dos governos civis e dos corpos administrativos.
 
 3. Os cargos de escriturário-dactilógrafo de 2.ª classe actualmente providos pelos funcionários a que se refere o número anterior apenas serão preenchidos à medida que for ocorrendo a vacatura, no mesmo quadro, de lugares de escriturário-dactilógrafo de 1.ª classe, cujo número é transitòriamente aumentado nos termos da mencionada disposição.
 
-###### Art. 6.º Os actuais escriturários-dactilógrafos das Câmaras Municipais de Lisboa e Porto, bem como os dactilógrafos dos quadros privativos das secretarias dos Governos Civis de Lisboa e Porto e das administrações de bairro consideram-se providos em cargo de escriturário-dactilógrafo de 2.ª classe, independentemente de qualquer formalidade.
+Art. 6.º Os actuais escriturários-dactilógrafos das Câmaras Municipais de Lisboa e Porto, bem como os dactilógrafos dos quadros privativos das secretarias dos Governos Civis de Lisboa e Porto e das administrações de bairro consideram-se providos em cargo de escriturário-dactilógrafo de 2.ª classe, independentemente de qualquer formalidade.
 
-###### Art. 7.º - 1. Os indivíduos aprovados em concurso para o cargo de aspirante ou de escriturário de 2.ª classe consideram-se aptos a ser providos em lugares de escriturário-dactilógrafo de 1.ª classe e de escriturário-dactilógrafo de 2.ª classe, respectivamente.
+Art. 7.º - 1. Os indivíduos aprovados em concurso para o cargo de aspirante ou de escriturário de 2.ª classe consideram-se aptos a ser providos em lugares de escriturário-dactilógrafo de 1.ª classe e de escriturário-dactilógrafo de 2.ª classe, respectivamente.
 
 2. Os concursos para o preenchimento dos cargos de aspirante que se encontrem abertos à data da publicação do presente diploma, ou cujos processos estejam correndo seus trâmites, considerar-se-ão, independentemente de qualquer formalidade, como reportando-se a cargos de escriturário-dactilógrafo de 1.ª classe.
 
 3. Os concursos para o preenchimento dos cargos de escriturário de 2.ª classe e de dactilógrafo que se encontram abertos à data da publicação do presente diploma, ou cujos processos estejam correndo seus trâmites, considerar-se-ão, independentemente de qualquer formalidade, como reportando-se a cargos de escriturário-dactilógrafo de 2.ª classe.
 
-###### Art. 8.º Quando, nos termos do artigo 17.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, forem apreciados estudos ou sugestões que interessem aos serviços dos governos civis, corpos administrativos ou administrações de bairro, da comissão referida no n.º 2 do mesmo preceito fará parte um representante da Direcção-Geral de Administração Política e Civil.
+Art. 8.º Quando, nos termos do artigo 17.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, forem apreciados estudos ou sugestões que interessem aos serviços dos governos civis, corpos administrativos ou administrações de bairro, da comissão referida no n.º 2 do mesmo preceito fará parte um representante da Direcção-Geral de Administração Política e Civil.
 
-###### Art. 9.º Os artigos 5.º, 455.º, 460.º, 461.º, 466.º, 468.º, 469.º, 470.º, 471.º, 472.º, 475.º, 476.º, 477.º, 478.º, 479.º, 484.º, 485.º, 488.º, 489.º, 536.º, 620.º, 624.º, 625.º, 626.º, 627.º, 634.º, 650.º, 651.º, 652.º, 653.º, 654.º, 655.º, 656.º, 657.º, 658.º, 661.º, 663.º, 692.º e 795.º do Código Administrativo passam a ter a seguinte redacção:
+Art. 9.º Os artigos 5.º, 455.º, 460.º, 461.º, 466.º, 468.º, 469.º, 470.º, 471.º, 472.º, 475.º, 476.º, 477.º, 478.º, 479.º, 484.º, 485.º, 488.º, 489.º, 536.º, 620.º, 624.º, 625.º, 626.º, 627.º, 634.º, 650.º, 651.º, 652.º, 653.º, 654.º, 655.º, 656.º, 657.º, 658.º, 661.º, 663.º, 692.º e 795.º do Código Administrativo passam a ter a seguinte redacção:
 
-###### Art. 5.º Os distritos podem ser de 1.ª e 2.ª ordem.
+Art. 5.º Os distritos podem ser de 1.ª e 2.ª ordem.
 
 § 1.º São de 1.ª ordem os distritos de Lisboa e do Porto.
 
@@ -181,13 +303,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 455.º O pessoal maior das secretarias dos governos civis e administrações de bairros e das secretarias e tesourarias das câmaras municipais e juntas distritais constitui três categorias, compreendendo a primeira três classes, a segunda quatro classes e a última duas classes.
+Art. 455.º O pessoal maior das secretarias dos governos civis e administrações de bairros e das secretarias e tesourarias das câmaras municipais e juntas distritais constitui três categorias, compreendendo a primeira três classes, a segunda quatro classes e a última duas classes.
 
 § único. A distribuição dos funcionários pelas diferentes categorias e classes faz-se pela forma constante do mapa anexo a este Código.
 
 ...
 
-###### Art. 460.º São requisitos essenciais para admissão aos concursos:
+Art. 460.º São requisitos essenciais para admissão aos concursos:
 
 1.º ...
 
@@ -217,7 +339,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 6.º A falsidade das declarações a que se referem os §§ 1.º e 2.º deste artigo será punida com prisão até um ano, salvo se se provar que resultou de negligência, caso em que a pena a aplicar será a de multa até 1000$00.
 
-###### Art. 461.º Sempre que seja permitido a funcionários requerer a admissão a concurso, entender-se-á que se trata de funcionários na efectividade de serviço, salvo se estiverem em qualquer das situações previstas no n.º 4.º do artigo 521.º e na alínea b) do artigo 522.º, e, se for caso disso, com provimento definitivo.
+Art. 461.º Sempre que seja permitido a funcionários requerer a admissão a concurso, entender-se-á que se trata de funcionários na efectividade de serviço, salvo se estiverem em qualquer das situações previstas no n.º 4.º do artigo 521.º e na alínea b) do artigo 522.º, e, se for caso disso, com provimento definitivo.
 
 § 1.º O candidato reprovado em concurso de promoção só pode ser admitido a novo concurso decorrido o prazo de um ou três anos sobre a data da última prova, conforme se tratar de primeira ou segunda reprovação; o candidato reprovado em três concursos de promoção não poderá ser admitido a novo concurso.
 
@@ -225,19 +347,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 466.º Prestadas as provas práticas por todos os concorrentes admitidos, o júri elaborará a proposta graduada dos candidatos, adoptando a classificação de 0 a 20, e apresentá-la-á ao Ministro do Interior ou ao corpo administrativo, conforme os casos, para efeito do respectivo provimento.
+Art. 466.º Prestadas as provas práticas por todos os concorrentes admitidos, o júri elaborará a proposta graduada dos candidatos, adoptando a classificação de 0 a 20, e apresentá-la-á ao Ministro do Interior ou ao corpo administrativo, conforme os casos, para efeito do respectivo provimento.
 
 § único. ...
 
 ...
 
-###### Art. 468.º ...
+Art. 468.º ...
 
 § 1.º Os candidatos aprovados poderão desistir do provimento na vaga para que sejam chamados, passando, nesse caso, para o último lugar da lista de classificação; a segunda desistência implica a perda dos direitos resultantes da aprovação no concurso.
 
 § 2.º A desistência deverá ser manifestada por escrito, mas, se o não for, resultará do facto de não serem apresentados os documentos a que se refere o § 3.º do artigo 460.º no prazo ali fixado.
 
-###### Art. 469.º O provimento faz-se por contrato.
+Art. 469.º O provimento faz-se por contrato.
 
 § 1.º Os contratos de provimento, salvo se preceitos especiais estabelecerem regime diverso, consideram-se celebrados com sujeição às seguintes normas gerais:
 
@@ -253,33 +375,33 @@ e) A mesma entidade poderá ainda rescindir o contrato a todo o tempo, por conve
 
 § 2.º A celebração do contrato, com a aceitação das normas gerais e das cláusulas especiais constantes do termo de posse, considera-se efectuada mediante a assinatura deste termo.
 
-###### Art. 470.º O ingresso nos quadros privativos dá-se pelo cargo de escriturário-dactilógrafo de 2.ª classe.
+Art. 470.º O ingresso nos quadros privativos dá-se pelo cargo de escriturário-dactilógrafo de 2.ª classe.
 
-###### Art. 471.º A promoção à classe de escriturário-dactilógrafo de 1.ª classe faz-se mediante concurso entre os escriturários-dactilógrafos de 2.ª classe do mesmo quadro, com o mínimo de um ano de bom e efectivo serviço, e, no caso de se tratar de quadro de corpo administrativo, poderão ainda concorrer os propostos de tesoureiro e seus auxiliares que exerçam as funções com carácter de permanência, hajam sido providos com menos de 35 anos de idade, satisfaçam aos demais requisitos do artigo 460.º deste Código e tenham mais de dois anos de bom e efectivo serviço.
+Art. 471.º A promoção à classe de escriturário-dactilógrafo de 1.ª classe faz-se mediante concurso entre os escriturários-dactilógrafos de 2.ª classe do mesmo quadro, com o mínimo de um ano de bom e efectivo serviço, e, no caso de se tratar de quadro de corpo administrativo, poderão ainda concorrer os propostos de tesoureiro e seus auxiliares que exerçam as funções com carácter de permanência, hajam sido providos com menos de 35 anos de idade, satisfaçam aos demais requisitos do artigo 460.º deste Código e tenham mais de dois anos de bom e efectivo serviço.
 
 § único. Se o concurso ficar deserto, nenhum dos candidatos obtiver aprovação ou o número de candidatos aprovados se revelar insuficiente para preencher as vagas que se verificarem dentro do prazo da respectiva validade, abrir-se-á novo concurso, a que poderão também candidatar-se funcionários nas condições do corpo deste artigo, mas pertencentes a outros quadros privativos das secretarias dos governos civis, administrações de bairro e corpos administrativos, bem como indivíduos estranhos aos quadros, com a habilitação do 2.º ciclo dos liceus ou equivalente.
 
-###### Art. 472.º O recrutamento dos funcionários do quadro geral administrativo é feito mediante concurso de habilitação e concurso de provimento.
+Art. 472.º O recrutamento dos funcionários do quadro geral administrativo é feito mediante concurso de habilitação e concurso de provimento.
 
 ...
 
-###### Art. 475.º O júri do concurso de habilitação para o quadro geral administrativo será constituído pelo director-geral de Administração Política e Civil ou seu delegado, que presidirá, e por um secretário de governo civil e um chefe de secretaria de câmara municipal, ou um funcionário da Direcção-Geral de Administração Política e Civil, designados pelo Ministro do Interior.
+Art. 475.º O júri do concurso de habilitação para o quadro geral administrativo será constituído pelo director-geral de Administração Política e Civil ou seu delegado, que presidirá, e por um secretário de governo civil e um chefe de secretaria de câmara municipal, ou um funcionário da Direcção-Geral de Administração Política e Civil, designados pelo Ministro do Interior.
 
-###### Art. 476.º Só podem ser admitidos ao concurso de habilitação para o quadro geral administrativo:
+Art. 476.º Só podem ser admitidos ao concurso de habilitação para o quadro geral administrativo:
 
 1.º Os escriturários-datilógrafos de 1.ª classe que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço na categoria;
 
 2.º Os indivíduos que possuam a habilitação mínima do 2.º ciclo do ensino liceal ou equiparada.
 
-###### Art. 477.º ...
+Art. 477.º ...
 
 § 1.º ...
 
 § 2.º Consideram-se aptos a ser providos nas vagas que venham a dar-se em qualquer dos cargos de 4.ª classe da 2.ª categoria todos os candidatos aprovados, preferindo-se, porém, os que tiverem melhor classificação.
 
-###### Art. 478.º Os candidatos aprovados no concurso de admissão ao quadro geral administrativo ingressarão nele à medida que forem sendo providos em cargos da 4.ª classe da 2.ª categoria.
+Art. 478.º Os candidatos aprovados no concurso de admissão ao quadro geral administrativo ingressarão nele à medida que forem sendo providos em cargos da 4.ª classe da 2.ª categoria.
 
-###### Art. 479.º ...
+Art. 479.º ...
 
 § 1.º Para o efeito do disposto neste artigo, os cargos de terceiro-oficial, segundo-oficial e primeiro-oficial consideram-se correspondentes, respectivamente, à 4.ª, 3.ª e 2.ª classe da 2.ª categoria do quadro geral dos serviços externos.
 
@@ -289,13 +411,13 @@ e) A mesma entidade poderá ainda rescindir o contrato a todo o tempo, por conve
 
 ...
 
-###### Art. 484.º Os júris dos concursos de promoção serão constituídos:
+Art. 484.º Os júris dos concursos de promoção serão constituídos:
 
 1.º Tratando-se de concurso de promoção de uma para outra classe, dentro da 2.ª categoria, pelo director-geral de Administração Política e Civil ou seu delegado, que presidirá, e por um secretário de governo civil e um chefe de secretaria de câmara municipal, ou um funcionário da Direcção-Geral de Administração Política e Civil, designados pelo Ministro do Interior.
 
 2.º ...
 
-###### Art. 485.º Só podem ser admitidos aos concursos de habilitação para promoção:
+Art. 485.º Só podem ser admitidos aos concursos de habilitação para promoção:
 
 1.º Tratando-se de promoção à 2.ª ou 1.ª classe da 2.ª categoria, os funcionários do quadro geral administrativo dos serviços externos e do quadro interno da Direcção-Geral de Administração Política e Civil, com a habilitação mínima do 2.º ciclo dos liceus ou equivalente, pertencentes às classes imediatamente inferiores e que tenham dois anos, pelo menos, de bom e efectivo serviço na respectiva classe, bem como os licenciados em Direito, ainda que estranhos aos quadros;
 
@@ -313,7 +435,7 @@ c) Os licenciados em Direito com informação final mínima de Bom.
 
 ...
 
-###### Art. 488.º ...
+Art. 488.º ...
 
 § 1.º ...
 
@@ -325,7 +447,7 @@ c) Os licenciados em Direito com informação final mínima de Bom.
 
 § 5.º Não poderão ser admitidos aos concursos de provimento de lugares de chefia os funcionários que tiverem habilitações inferiores ao 2.º ciclo dos liceus ou equivalente, bem como os que, embora com essas habilitações, tiverem menos de cinco anos de bom e efectivo serviço no quadro geral administrativo ou em quadros privativos, salvo se forem diplomados com curso superior.
 
-###### Art. 489.º ...
+Art. 489.º ...
 
 § 1.º Nos lugares de chefe de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem e de chefes de secretaria das juntas distritais com sede em Lisboa e Porto só poderão ser providos funcionários da 1.ª classe da 2.ª categoria do quadro geral administrativo, ou habilitados com o respectivo concurso, na falta de candidatos habilitados com concurso para a 1.ª categoria.
 
@@ -335,7 +457,7 @@ c) Os licenciados em Direito com informação final mínima de Bom.
 
 ...
 
-###### Art. 536.º O abono de ajuda de custo será feito nos termos seguintes:
+Art. 536.º O abono de ajuda de custo será feito nos termos seguintes:
 
 1.º As deslocações por tempo igual ou inferior a quatro horas não dão direito ao abono de ajuda de custo;
 
@@ -353,7 +475,7 @@ Mais de doze horas com dormida ... 100
 
 ...
 
-###### Art. 620.º ...
+Art. 620.º ...
 
 § 1.º Nos concursos para provimento de cargos dos serviços especiais observar-se-ão as normas aplicáveis dos concursos respeitantes aos funcionários de carteira, designadamente quanto a publicação das listas dos candidatos e entrega de documentos.
 
@@ -361,21 +483,21 @@ Mais de doze horas com dormida ... 100
 
 ...
 
-###### Art. 624.º ...
+Art. 624.º ...
 
 § único. Os médicos municipais serão remunerados por gratificação, sem prejuízo dos direitos que lhes caibam como funcionários vitalícios.
 
-###### Art. 625.º São aplicáveis aos funcionários vitalícios dos serviços especiais as disposições sobre posse, deveres, faltas, licenças, situações, vencimentos, antiguidade, aposentações e disciplina dos funcionários de secretaria e tesouraria que forem compatíveis com a natureza das suas funções e bem assim os requisitos enumerados nos n.os 1.º a 6.º e 8.º do artigo 460.º e ainda a posse das habilitações mínimas exigidas para o cargo a prover.
+Art. 625.º São aplicáveis aos funcionários vitalícios dos serviços especiais as disposições sobre posse, deveres, faltas, licenças, situações, vencimentos, antiguidade, aposentações e disciplina dos funcionários de secretaria e tesouraria que forem compatíveis com a natureza das suas funções e bem assim os requisitos enumerados nos n.os 1.º a 6.º e 8.º do artigo 460.º e ainda a posse das habilitações mínimas exigidas para o cargo a prover.
 
 § único. ...
 
-###### Art. 626.º Aos contratos para provimento dos cargos dos serviços especiais aplica-se o disposto nos §§ 1.º e 2.º do artigo 469.º deste Código, sem prejuízo do preceituado no artigo 628.º
+Art. 626.º Aos contratos para provimento dos cargos dos serviços especiais aplica-se o disposto nos §§ 1.º e 2.º do artigo 469.º deste Código, sem prejuízo do preceituado no artigo 628.º
 
-###### Art. 627.º São requisitos essenciais da capacidade para contratar, por parte do candidato a funcionário, os indicados nos n.os 1.º a 6.º e 8.º do artigo 460.º e ainda a posse das habilitações mínimas exigidas para o cargo a prover.
+Art. 627.º São requisitos essenciais da capacidade para contratar, por parte do candidato a funcionário, os indicados nos n.os 1.º a 6.º e 8.º do artigo 460.º e ainda a posse das habilitações mínimas exigidas para o cargo a prover.
 
 ...
 
-###### Art. 634.º Ao concurso poderão candidatar-se licenciados e doutores em Medicina por qualquer das Universidades portuguesas que satisfaçam aos requisitos dos n.os 1.º a 6.º e 8.º do artigo 460.º, estejam inscritos na Ordem dos Médicos e possuam aprovação no curso de Medicina Sanitária.
+Art. 634.º Ao concurso poderão candidatar-se licenciados e doutores em Medicina por qualquer das Universidades portuguesas que satisfaçam aos requisitos dos n.os 1.º a 6.º e 8.º do artigo 460.º, estejam inscritos na Ordem dos Médicos e possuam aprovação no curso de Medicina Sanitária.
 
 ...
 
@@ -383,19 +505,19 @@ Mais de doze horas com dormida ... 100
 
 ### CAPÍTULO I — Da composição do quadro e forma de provimento
 
-###### Art. 650.º Em cada governo civil e administração de bairro haverá um quadro privativo de pessoal auxiliar, cujos lugares serão providos por contrato.
+Art. 650.º Em cada governo civil e administração de bairro haverá um quadro privativo de pessoal auxiliar, cujos lugares serão providos por contrato.
 
-###### Art. 651.º Em cada distrito ou concelho haverá um quadro de pessoal auxiliar, especializado e operário, com a composição fixada pelo respectivo corpo administrativo.
+Art. 651.º Em cada distrito ou concelho haverá um quadro de pessoal auxiliar, especializado e operário, com a composição fixada pelo respectivo corpo administrativo.
 
 § único. Nos distritos ou concelhos onde a complexidade de serviços e o número de serventuários o justifique poderá desdobrar-se o quadro a que este artigo se refere em dois ou mais quadros distintos.
 
-###### Art. 652.º Os cargos que poderão ser incluídos nos quadros a que se refere o artigo anterior e a forma do respectivo provimento serão os determinados pelo Ministro do Interior.
+Art. 652.º Os cargos que poderão ser incluídos nos quadros a que se refere o artigo anterior e a forma do respectivo provimento serão os determinados pelo Ministro do Interior.
 
-###### Art. 653.º No pessoal auxiliar, especializado e operário só os contratados são considerados funcionários administrativos.
+Art. 653.º No pessoal auxiliar, especializado e operário só os contratados são considerados funcionários administrativos.
 
-###### Art. 654.º Ao provimento por contrato aplica-se o disposto nos §§ 1.º e 2.º do artigo 469.º
+Art. 654.º Ao provimento por contrato aplica-se o disposto nos §§ 1.º e 2.º do artigo 469.º
 
-###### Art. 655.º ...
+Art. 655.º ...
 
 § 1.º Os candidatos deverão provar a posse dos requisitos exigidos nos n.os 1.º a 6.º e 8.º do artigo 460.º, excepto, quanto à idade, aqueles que já forem assalariados dos quadros, desde que neles tenham ingressado com menos de 35 anos.
 
@@ -417,9 +539,9 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 § 6.º No caso previsto na alínea c) do parágrafo anterior é dispensada autorização do Governo e os reformados ou reservistas continuarão a perceber a pensão na totalidade, acrescida de 2/3 do ordenado do cargo em que forem providos.
 
-###### Art. 656.º Ao pessoal contratado do quadro do pessoal auxiliar, especializado e operário é aplicável, com as necessárias adaptações, o disposto nos artigos 625.º e 630.º
+Art. 656.º Ao pessoal contratado do quadro do pessoal auxiliar, especializado e operário é aplicável, com as necessárias adaptações, o disposto nos artigos 625.º e 630.º
 
-###### Art. 657.º O pessoal auxiliar, especializado e operário é obrigado a prestar quarenta e oito horas de serviço normal em cada semana, nos termos do horário que for estabelecido pela entidade de que dependa.
+Art. 657.º O pessoal auxiliar, especializado e operário é obrigado a prestar quarenta e oito horas de serviço normal em cada semana, nos termos do horário que for estabelecido pela entidade de que dependa.
 
 § 1.º Exceptua-se do disposto no corpo deste artigo o pessoal cujo horário de trabalho deva coincidir com o do funcionamento normal dos serviços de secretaria.
 
@@ -427,19 +549,19 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 § 3.º A remuneração por trabalho extraordinário, devidamente autorizado, será, por cada hora, de 1/8 de remuneração diária, ou de 1/6 da mesma remuneração no caso do § 1.º, não podendo, porém, atribuir-se em cada mês mais de 1/3 da remuneração principal.
 
-###### Art. 658.º Os corpos administrativos, além dos assalariados dos quadros, destinados a assegurar as necessidades normais dos serviços, podem empregar assalariados para prestação de serviços eventuais.
+Art. 658.º Os corpos administrativos, além dos assalariados dos quadros, destinados a assegurar as necessidades normais dos serviços, podem empregar assalariados para prestação de serviços eventuais.
 
 ...
 
-###### Art. 661.º No assalariamento só é permitido o mero ajuste verbal para lugares que não pertençam aos quadros, e a remuneração será, nesses casos, obrigatòriamente referida a cada dia último de trabalho ou em relação a cada semana, considerando-se, nesta hipótese, como salário o quociente da divisão da retribuição acordada pelo número de dias úteis.
+Art. 661.º No assalariamento só é permitido o mero ajuste verbal para lugares que não pertençam aos quadros, e a remuneração será, nesses casos, obrigatòriamente referida a cada dia último de trabalho ou em relação a cada semana, considerando-se, nesta hipótese, como salário o quociente da divisão da retribuição acordada pelo número de dias úteis.
 
 ...
 
-###### Art. 663.º Em tudo o mais não previsto nos artigos anteriores aplicar-se-á, com as devidas adaptações, o disposto nos artigos 655.º e 657.º deste Código e na legislação especial referida no artigo 1153.º do Código Civil.
+Art. 663.º Em tudo o mais não previsto nos artigos anteriores aplicar-se-á, com as devidas adaptações, o disposto nos artigos 655.º e 657.º deste Código e na legislação especial referida no artigo 1153.º do Código Civil.
 
 ...
 
-###### Art. 692.º ...
+Art. 692.º ...
 
 § 1.º ...
 
@@ -449,21 +571,21 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 ...
 
-###### Art. 795.º ...
+Art. 795.º ...
 
 § único. Constituem ainda receita do Estado 10 por cento da receita ordinária e própria dos cofres privativos, percentagem que será entregue pelo secretário do governo civil, por meio de guia, em duas prestações, a primeira, respeitante à receita arrecadada no 1.º semestre de cada ano, até 15 de Julho seguinte, e a segunda, relativa à receita arrecadada no 2.º semestre, até 15 de Janeiro.
 
-###### Art. 10.º É aditado ao Código Administrativo o artigo 488.º-A, com a redacção seguinte:
+Art. 10.º É aditado ao Código Administrativo o artigo 488.º-A, com a redacção seguinte:
 
-###### Art. 488.º-A Na falta de candidatos nas condições do artigo anterior, e sempre que o imponha a urgência no recrutamento, o Ministro do Interior pode prover livremente, por licenciados em Direito com a informação final mínima de Bom e que satisfaçam aos requisitos gerais do artigo 460.º, os cargos da 2.ª categoria e das 2.ª e 3.ª classes da 1.ª categoria do quadro geral administrativo, bem como os de secretário do governo civil dos distritos insulares.
+Art. 488.º-A Na falta de candidatos nas condições do artigo anterior, e sempre que o imponha a urgência no recrutamento, o Ministro do Interior pode prover livremente, por licenciados em Direito com a informação final mínima de Bom e que satisfaçam aos requisitos gerais do artigo 460.º, os cargos da 2.ª categoria e das 2.ª e 3.ª classes da 1.ª categoria do quadro geral administrativo, bem como os de secretário do governo civil dos distritos insulares.
 
 § 1.º Quando a nomeação feita nos termos do corpo deste artigo recair em indivíduo que já pertença ao quadro geral, aplica-se ao provimento o disposto no § 1.º do artigo 480.º, mantendo-se, entretanto, o funcionário na classe a que pertencia, mas com direito aos vencimentos do cargo que ocupe.
 
 § 2.º Findo o período de três anos, se o funcionário tiver dado provas de aptidão e zelo, o provimento será convertido em definitivo; no caso contrário, será provido compulsivamente em lugar da respectiva classe.
 
-###### Art. 11.º Os artigos 103.º, 104.º e 116.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passam a ter a seguinte redacção:
+Art. 11.º Os artigos 103.º, 104.º e 116.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passam a ter a seguinte redacção:
 
-###### Art. 103.º O quadro-tipo do pessoal maior das secretarias das câmaras dos concelhos rurais de 3.ª ordem será, salvo o que vai disposto para o concelho do Corvo, constituído por um chefe de secretaria, um escriturário-dactilógrafo de 1.ª classe e um escriturário-dactilógrafo de 2.ª classe.
+Art. 103.º O quadro-tipo do pessoal maior das secretarias das câmaras dos concelhos rurais de 3.ª ordem será, salvo o que vai disposto para o concelho do Corvo, constituído por um chefe de secretaria, um escriturário-dactilógrafo de 1.ª classe e um escriturário-dactilógrafo de 2.ª classe.
 
 § 1.º Nos concelhos cuja receita ordinária média nos últimos três anos seja superior a 500000$00 poderá o governador do distrito autorizar, quando o movimento da secretaria o justifique, a criação de mais um lugar de escriturário-dactilógrafo de 2.ª classe.
 
@@ -471,13 +593,13 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 § 3.º Nos concelhos em que o pessoal actualmente existente exceder o quadro serão os funcionários excedentes considerados escriturários-dactilógrafos de 2.ª classe supranumerários, extinguindo-se os lugares à medida que vagarem.
 
-###### Art. 104.º O quadro-tipo do pessoal maior das secretarias das câmaras municipais dos concelhos rurais de 2.ª ordem será de um chefe de secretaria, dois escriturários-dactilógrafos de 1.ª classe e três escriturários-dactilógrafos de 2.ª classe.
+Art. 104.º O quadro-tipo do pessoal maior das secretarias das câmaras municipais dos concelhos rurais de 2.ª ordem será de um chefe de secretaria, dois escriturários-dactilógrafos de 1.ª classe e três escriturários-dactilógrafos de 2.ª classe.
 
 § único. ...
 
 ...
 
-###### Art. 116.º ...
+Art. 116.º ...
 
 § 1.º ...
 
@@ -487,25 +609,25 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 § 4.º ...
 
-###### Art. 12.º Os artigos 19.º, 23.º e 24.º do [Decreto-Lei n.º 45248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232), de 16 de Setembro de 1963, passam a ter a seguinte redacção:
+Art. 12.º Os artigos 19.º, 23.º e 24.º do [Decreto-Lei n.º 45248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232), de 16 de Setembro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 19.º O preenchimento de lugares de escriturário-dactilógrafo de 2.ª classe das Câmaras Municipais de Lisboa e do Porto será feito mediante concurso de provas públicas, entre indivíduos que possuam a habilitação correspondente à escolaridade obrigatória segundo a idade do candidato.
+Art. 19.º O preenchimento de lugares de escriturário-dactilógrafo de 2.ª classe das Câmaras Municipais de Lisboa e do Porto será feito mediante concurso de provas públicas, entre indivíduos que possuam a habilitação correspondente à escolaridade obrigatória segundo a idade do candidato.
 
 ...
 
-###### Art. 23.º Os lugares de terceiro-oficial são providos mediante concurso de provas públicas, a que podem candidatar-se escriturários-dactilógrafos de 1.ª classe que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço nessa categoria, e indivíduos estranhos ao quadro, com a habilitação mínima do 2.º ciclo do ensino liceal ou equiparada.
+Art. 23.º Os lugares de terceiro-oficial são providos mediante concurso de provas públicas, a que podem candidatar-se escriturários-dactilógrafos de 1.ª classe que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço nessa categoria, e indivíduos estranhos ao quadro, com a habilitação mínima do 2.º ciclo do ensino liceal ou equiparada.
 
 § único. Os escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem a habilitação referida na parte final do corpo deste artigo não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem tal habilitação.
 
-###### Art. 24.º Os lugares de escriturário-dactilógrafo de 1.ª classe são providos, mediante concurso de provas públicas, de entre os escriturários-dactilógrafos de 2.ª classe com o mínimo de dois anos de bom e efectivo serviço.
+Art. 24.º Os lugares de escriturário-dactilógrafo de 1.ª classe são providos, mediante concurso de provas públicas, de entre os escriturários-dactilógrafos de 2.ª classe com o mínimo de dois anos de bom e efectivo serviço.
 
-###### Art. 13.º Os artigos 4.º e 5.º do [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988), e 14 de Setembro de 1967, passam a ter a seguinte redacção:
+Art. 13.º Os artigos 4.º e 5.º do [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988), e 14 de Setembro de 1967, passam a ter a seguinte redacção:
 
-###### Art. 4.º O tesoureiro, além do respectivo ordenado e de gratificação de montante igual ao da atribuída aos tesoureiros das câmaras municipais dos concelhos de 1.ª ordem, perceberá mais um abono mensal para falhas, de importância igual à máxima que estiver estabelecida para os referidos funcionários municipais.
+Art. 4.º O tesoureiro, além do respectivo ordenado e de gratificação de montante igual ao da atribuída aos tesoureiros das câmaras municipais dos concelhos de 1.ª ordem, perceberá mais um abono mensal para falhas, de importância igual à máxima que estiver estabelecida para os referidos funcionários municipais.
 
 § único. O tesoureiro é obrigado a prestar caução, do valor de 15000$00, mediante depósito de dinheiro ou de títulos da dívida pública fundada, primeira hopoteca sobre prédios urbanos ou seguro de caução.
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 § 1.º Verificando-se impedimento do tesoureiro por período superior a trinta dias, ou a vacatura do cargo, a gerência da tesouraria será, transitòriamente, confiada ao proposto, sem dependência de nomeação e de posse, lavrando-se apenas termo de transição. O proposto assumirá a gerência da tesouraria logo que nesse sentido receba ordem do secretário do governo civil e tenha prestado caução, nos termos do § único do artigo anterior, devendo ser abonado, a partir de então, dos vencimentos que correspondem ao cargo de tesoureiro.
 
@@ -515,27 +637,27 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 § 4.º Sempre que o movimento da tesouraria o justifique, poderá o secretário do governo civil, sob proposta do tesoureiro, mandar destacar um ou mais escriturários-dactilógrafos para ali prestarem serviço.
 
-###### Art. 14.º O artigo 28.º do [Decreto n.º 27759](https://diariodarepublica.pt/dr/detalhe/decreto/27759-1937-426479), de 16 de Junho de 1937, passa a ter a redacção seguinte:
+Art. 14.º O artigo 28.º do [Decreto n.º 27759](https://diariodarepublica.pt/dr/detalhe/decreto/27759-1937-426479), de 16 de Junho de 1937, passa a ter a redacção seguinte:
 
-###### Art. 28.º O programa das provas dos concursos de promoção às 3.ª, 2.ª e 1.ª classes da 2.ª categoria é idêntico ao fixado nas alíneas b) e c) do artigo 16.º e da parte aplicável do artigo 17.º, graduando-se a dificuldade dos pontos conforme a categoria dos cargos.
+Art. 28.º O programa das provas dos concursos de promoção às 3.ª, 2.ª e 1.ª classes da 2.ª categoria é idêntico ao fixado nas alíneas b) e c) do artigo 16.º e da parte aplicável do artigo 17.º, graduando-se a dificuldade dos pontos conforme a categoria dos cargos.
 
-###### Art. 15.º - 1. São alteradas as designações dos lugares dos quadros das juntas gerais dos distritos autónomos seguidamente indicados, considerando-se neles providos, sem dependência de quaisquer formalidades, os seus actuais titulares:
+Art. 15.º - 1. São alteradas as designações dos lugares dos quadros das juntas gerais dos distritos autónomos seguidamente indicados, considerando-se neles providos, sem dependência de quaisquer formalidades, os seus actuais titulares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01300/00750088.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01300/00750088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01300/00750088.pdf)
 
 2. Os lugares de auxiliar de campo de 2.ª classe, auxiliar de campo de 3.ª classe, contínuo de 2.ª classe e motorista de 2.ª classe que ficarem a existir para além do número estabelecido no respectivo mapa, anexo a este diploma, consideram-se supranumerários e serão extintos à medida que vagarem.
 
-###### Art. 16.º O produto das taxas previstas no capítulo XIV da tabela a que se refere o artigo 1.º do [Decreto-Lei n.º 49438](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49438-1969-217367), de 11 de Dezembro de 1969, constitui integralmente receita das câmaras municipais dos concelhos onde sejam cobradas.
+Art. 16.º O produto das taxas previstas no capítulo XIV da tabela a que se refere o artigo 1.º do [Decreto-Lei n.º 49438](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49438-1969-217367), de 11 de Dezembro de 1969, constitui integralmente receita das câmaras municipais dos concelhos onde sejam cobradas.
 
-###### Art. 17.º - 1. Os emolumentos por actos notariais praticados pelos notários privativos das câmaras municipais que excedam o limite estabelecido no artigo 6.º do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963, constituem receita da respectiva câmara municipal.
+Art. 17.º - 1. Os emolumentos por actos notariais praticados pelos notários privativos das câmaras municipais que excedam o limite estabelecido no artigo 6.º do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963, constituem receita da respectiva câmara municipal.
 
 2. Mantém-se em vigor o disposto no § único do artigo 28.º do [Decreto-Lei n.º 45248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232), de 16 de Setembro de 1963.
 
-###### Art. 18.º As deliberações dos corpos administrativos e dos conselhos de administração dos serviços municipalizados que fixem ordenados ou salários não excedentes aos máximos estabelecidos pelo Ministro do Interior, por despacho genérico, não carecem, para se tornarem executórias, da aprovação a que se refere o artigo 8.º do [Decreto-Lei n.º 40014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40014-1954-674849), de 31 de Dezembro de 1954.
+Art. 18.º As deliberações dos corpos administrativos e dos conselhos de administração dos serviços municipalizados que fixem ordenados ou salários não excedentes aos máximos estabelecidos pelo Ministro do Interior, por despacho genérico, não carecem, para se tornarem executórias, da aprovação a que se refere o artigo 8.º do [Decreto-Lei n.º 40014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40014-1954-674849), de 31 de Dezembro de 1954.
 
-###### Art. 19.º É aplicável aos serviços dos governos civis, das autarquias locais e das administrações de bairro, com as necessárias adaptações, o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
+Art. 19.º É aplicável aos serviços dos governos civis, das autarquias locais e das administrações de bairro, com as necessárias adaptações, o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
 
-###### Art. 20.º - 1. No Governo Civil do Distrito Autónomo do Funchal é criado um quadro especial de pessoal destinado à guarda e conservação do edifício do Palácio de S. Lourenço, bem como do respectivo mobiliário e dos jardins anexos, com a seguinte composição:
+Art. 20.º - 1. No Governo Civil do Distrito Autónomo do Funchal é criado um quadro especial de pessoal destinado à guarda e conservação do edifício do Palácio de S. Lourenço, bem como do respectivo mobiliário e dos jardins anexos, com a seguinte composição:
 
 1 conservador;
 
@@ -551,7 +673,7 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 4. Os actuais assalariados que desempenham funções, a título eventual, correspondentes às dos referidos cargos podem ser neles providos independentemente dos requisitos de habilitações literárias e de idade.
 
-###### Art. 21.º - 1. O quadro do pessoal auxiliar do Governo Civil do Distrito Autónomo do Funchal passa a ser constituído como segue:
+Art. 21.º - 1. O quadro do pessoal auxiliar do Governo Civil do Distrito Autónomo do Funchal passa a ser constituído como segue:
 
 1 telefonista de 2.ª classe;
 
@@ -563,9 +685,9 @@ d) Serem praças ou agentes dos organismos indicados na alínea anterior, em act
 
 2. No lugar de contínuo de 2.ª classe, agora criado, poderá ser provido, independentemente dos requisitos de habilitações literárias e de idade, o assalariado que, a título eventual, já vem desempenhando tais funções; no cargo de porteiro de 1.ª classe considera-se investido, independentemente de quaisquer formalidades, o actual porteiro assalariado.
 
-###### Art. 22.º O governador do Distrito Autónomo do Funchal pode escolher para secretário um funcionário do quadro da secretaria do respectivo governo civil de categoria não superior à de segundo-oficial.
+Art. 22.º O governador do Distrito Autónomo do Funchal pode escolher para secretário um funcionário do quadro da secretaria do respectivo governo civil de categoria não superior à de segundo-oficial.
 
-###### Art. 23.º O complemento de vencimento dos veterinários municipais a abonar pelo exercício de funções de subintendente de pecuária, nos termos do artigo 6.º do [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968, passa a ser dos seguintes quantitativos:
+Art. 23.º O complemento de vencimento dos veterinários municipais a abonar pelo exercício de funções de subintendente de pecuária, nos termos do artigo 6.º do [Decreto-Lei n.º 48755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48755-1968-261964), de 11 de Dezembro de 1968, passa a ser dos seguintes quantitativos:
 
 Subintendente de pecuária em concelhos de 1.ª ordem - 2600$00;
 
@@ -573,29 +695,29 @@ Subintendente de pecuária em concelhos de 2.ª ordem - 2200$00;
 
 Subintendente de pecuária em concelhos de 3.ª ordem - 2000$00.
 
-###### Art. 24.º O lugar de chefe da Secretaria-Geral do Ministério do Interior passa a designar-se por «chefe dos Serviços Administrativos (chefe de secção)», com remuneração correspondente à letra J do grupo de ordenados do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 24.º O lugar de chefe da Secretaria-Geral do Ministério do Interior passa a designar-se por «chefe dos Serviços Administrativos (chefe de secção)», com remuneração correspondente à letra J do grupo de ordenados do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 25.º Continuam em vigor o artigo 22.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, o artigo 20.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, e o artigo 36.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), da mesma data, em tudo quanto não ficou previsto nos artigos antecedentes.
+Art. 25.º Continuam em vigor o artigo 22.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, o artigo 20.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, e o artigo 36.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), da mesma data, em tudo quanto não ficou previsto nos artigos antecedentes.
 
-###### Art. 26.º É abolido o subsídio eventual de custo de vida a que se refere o [Decreto n.º 47171](https://diariodarepublica.pt/dr/detalhe/decreto/47171-1966-479660), de 30 de Agosto de 1966.
+Art. 26.º É abolido o subsídio eventual de custo de vida a que se refere o [Decreto n.º 47171](https://diariodarepublica.pt/dr/detalhe/decreto/47171-1966-479660), de 30 de Agosto de 1966.
 
-###### Art. 27.º - 1. Os encargos que resultam para o Estado da publicação do presente diploma serão satisfeitos, no ano de 1970, pelas sobras das verbas dos artigos 36.º e 45.º do capítulo 3.º do orçamento do Ministério do Interior.
+Art. 27.º - 1. Os encargos que resultam para o Estado da publicação do presente diploma serão satisfeitos, no ano de 1970, pelas sobras das verbas dos artigos 36.º e 45.º do capítulo 3.º do orçamento do Ministério do Interior.
 
 2. Para que possam fazer face aos encargos que lhes cabem, ficam os corpos administrativos autorizados a elaborar, no ano de 1970, um orçamento suplementar para além dos permitidos pelo § 1.º do artigo 680.º do Código Administrativo.
 
-###### Art. 28.º (transitório) - 1. Os funcionários do quadro geral administrativo que, à data da publicação deste diploma, se encontrem a desempenhar as funções de tesoureiro dos Governos Civis de Lisboa e do Porto poderão ser providos nos respectivos cargos, independentemente de concurso.
+Art. 28.º (transitório) - 1. Os funcionários do quadro geral administrativo que, à data da publicação deste diploma, se encontrem a desempenhar as funções de tesoureiro dos Governos Civis de Lisboa e do Porto poderão ser providos nos respectivos cargos, independentemente de concurso.
 
 2. Os ordenados a abonar aos funcionários a que se refere o número anterior serão os correspondentes à categoria e classe a que efectivamente pertençam.
 
-###### Art. 29.º Fica revogada a legislação em contrário, designadamente o artigo 6.º do [Decreto-Lei n.º 35927](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35927-1946-149855), de 1 de Novembro de 1946, o [Decreto-Lei n.º 38764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38764-1952-561459), de 27 de Maio de 1952, o [Decreto-Lei n.º 44200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44200-1962-518788), de 21 de Fevereiro de 1962, o artigo 6.º do [Decreto-Lei n.º 45230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262), de 6 de Setembro de 1963, e o artigo 13.º do [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988), de 14 de Setembro de 1967.
+Art. 29.º Fica revogada a legislação em contrário, designadamente o artigo 6.º do [Decreto-Lei n.º 35927](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35927-1946-149855), de 1 de Novembro de 1946, o [Decreto-Lei n.º 38764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38764-1952-561459), de 27 de Maio de 1952, o [Decreto-Lei n.º 44200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44200-1962-518788), de 21 de Fevereiro de 1962, o artigo 6.º do [Decreto-Lei n.º 45230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262), de 6 de Setembro de 1963, e o artigo 13.º do [Decreto-Lei n.º 47935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47935-1967-390988), de 14 de Setembro de 1967.
 
-###### Art. 30.º O presente decreto-lei considera-se em vigor desde o dia 1 de Janeiro de 1970, sem prejuízo da validade dos actos praticados, depois dessa data, de harmonia com as normas legais agora substituídas.
+Art. 30.º O presente decreto-lei considera-se em vigor desde o dia 1 de Janeiro de 1970, sem prejuízo da validade dos actos praticados, depois dessa data, de harmonia com as normas legais agora substituídas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 7 de Janeiro de 1970.**
+Promulgado em 7 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -1285,7 +1407,7 @@ Estação Agrária (ver nota d):
 
 3 mestres de vala de 2.ª classe, a ... 2200$00
 
-#### Secção de Conservação e Reparação de Edifícios:
+Secção de Conservação e Reparação de Edifícios:
 
 1 engenheiro civil, chefe (ver nota e) ... 7800$00
 

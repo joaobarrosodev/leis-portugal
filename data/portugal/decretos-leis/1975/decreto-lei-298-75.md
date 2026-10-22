@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13900/08380838.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1975-335736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ee42fbc85fbb9f349fae21b0d8d4e148e7321c23d2407bc8cfb25216afd46d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfd1ce6653d762c5495bd3889fd728728e27947964266ce777c380848930b6e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo do Trabalho
+- Processo Laboral
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:352516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582812:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:34Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +114,21 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 3.º da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O valor da alçada dos tribunais do trabalho passa a ser o fixado para a alçada do tribunal de comarca.
+Artigo 1.º - 1. O valor da alçada dos tribunais do trabalho passa a ser o fixado para a alçada do tribunal de comarca.
 
 2. Não há alçada nos processos a que se referem os artigos 154.º a 173.º do Código de Processo do Trabalho.
 
-###### Art. 2.º - 1. Se o valor da causa exceder 100000$00, empregar-se-á o processo ordinário; se o não exceder, empregar-se-á o processo sumário, salvo se o processo a empregar for o sumaríssimo, nos termos do artigo 85.º do Código de Processo do Trabalho.
+Art. 2.º - 1. Se o valor da causa exceder 100000$00, empregar-se-á o processo ordinário; se o não exceder, empregar-se-á o processo sumário, salvo se o processo a empregar for o sumaríssimo, nos termos do artigo 85.º do Código de Processo do Trabalho.
 
 2. Em processo sumário, se o valor da causa exceder o da alçada, e pelo réu for deduzida excepção ou reconvenção, poderá o autor responder à matéria destas no prazo de cinco dias.
 
 3. No caso de reconvenção a que se refere o número anterior, pode cada uma das partes oferecer três testemunhas para prova dela e da respectiva defesa.
 
-###### Art. 3.º - 1. É fixado em 100000$00 o valor previsto no artigo 23.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, actualizado pelo artigo 1.º do [Decreto-Lei n.º 45699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45699-1964-582812), de 30 de Abril de 1964.
+Art. 3.º - 1. É fixado em 100000$00 o valor previsto no artigo 23.º do Estatuto dos Tribunais do Trabalho, aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958, actualizado pelo artigo 1.º do [Decreto-Lei n.º 45699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45699-1964-582812), de 30 de Abril de 1964.
 
 2. A requerimento de qualquer das partes, durante a fase dos articulados, pode o tribunal colectivo intervir no processo sumário, sempre que a causa esteja fora da alçada do tribunal do trabalho.
 
-###### Art. 4.º Em todos os processos pendentes sob a forma de processo ordinário que, por força da aplicação imediata deste diploma, devam seguir a forma de processo sumário observar-se-á o seguinte:
+Art. 4.º Em todos os processos pendentes sob a forma de processo ordinário que, por força da aplicação imediata deste diploma, devam seguir a forma de processo sumário observar-se-á o seguinte:
 
 a) Se já tiver decorrido a fase dos articulados, deverá o juiz proferir despacho a designar dia para julgamento, nos termos do artigo 81.º do Código de Processo do Trabalho, e mandará notificar as partes para, no prazo de oito dias, exercerem, querendo, a faculdade consignada no n.º 2 do artigo anterior e oferecerem os meios de prova a que se refere o artigo 82.º daquele Código, seguindo-se até final o que demais se dispõe para o processo sumário;
 
@@ -122,14 +138,14 @@ c) Tendo já sido proferido o despacho a ordenar a citação do réu e não have
 
 d) Mantêm-se as faculdades de recurso que coubessem à data da propositura da acção.
 
-###### Art. 5.º São revogados o artigo 1.º e o n.º 1 do artigo 2.º do [Decreto-Lei n.º 45699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45699-1964-582812), de 30 de Abril de 1964, e o n.º 2 do artigo 48.º do Código de Processo do Trabalho.
+Art. 5.º São revogados o artigo 1.º e o n.º 1 do artigo 2.º do [Decreto-Lei n.º 45699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45699-1964-582812), de 30 de Abril de 1964, e o n.º 2 do artigo 48.º do Código de Processo do Trabalho.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - José Inácio da Costa Martins.
 
-**Promulgado em 11 de Junho de 1975.**
+Promulgado em 11 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

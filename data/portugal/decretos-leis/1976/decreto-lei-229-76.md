@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/07800/06510654.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1976-500742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 238077be5a065f417f7bd2d84774209416348c49f5e5fd67743ed96749f82ba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ee1364f9597f19d6f975b2c720f25abd95ee0662b3d7d14f16b9c029e538d1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Equipamento Eléctrico
+- Indústria da Construção
+- Licenciamento
+- Obras Particulares
+- Regulamento de Licenças para Instalações Eléctricas
 relationships:
 - type: amended_by
   target: pt:dre:457674:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:502046:por
+  label: Rectificado pela DECL.DD8797.23.04.1976.PCM, DR.IS [96] de 23.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502046
+  date: '1976-04-23'
+- type: repealed_by
+  target: pt:dre:457674:por
+  label: "Revogado pelo DEC LEI.517/80.31.10.1980.MIE, DR.IS [253] de 31.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/517-1980-457674
+  date: '1980-10-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:12Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +124,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Para instrução do processo de qualquer obra sujeita a licenciamento municipal, o requerente deverá, juntamente com o pedido de licença, apresentar uma declaração respeitante às instalações eléctricas de que a obra será dotada.
+Artigo 1.º - 1. Para instrução do processo de qualquer obra sujeita a licenciamento municipal, o requerente deverá, juntamente com o pedido de licença, apresentar uma declaração respeitante às instalações eléctricas de que a obra será dotada.
 
 2. O disposto no número anterior apenas será aplicável às instalações de serviço particular de 2.º e 5.º categorias definidas no Regulamento de Licenças para Instalações Eléctricas.
 
 3. A declaração a que se refere o n.º 1 do artigo, feita em duplicado em impresso próprio («Ficha electrotécnica» - Anexo 1), poderá ser assinada pelo técnico responsável pelo projecto de arquitectura.
 
-###### Art. 2.º Para as obras, a que se refere o artigo anterior, em que a potência total das respectivas instalações eléctricas, calculadas de acordo com o Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica e com o Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas, aprovados pelo [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro, exceder 20 KVA deverá ser apresentado, juntamente com a declaração a que se refere o artigo anterior ou em data posterior, o projecto das instalações eléctricas, de cuja aprovação dependerá a concessão da licença municipal de construção.
+Art. 2.º Para as obras, a que se refere o artigo anterior, em que a potência total das respectivas instalações eléctricas, calculadas de acordo com o Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica e com o Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas, aprovados pelo [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro, exceder 20 KVA deverá ser apresentado, juntamente com a declaração a que se refere o artigo anterior ou em data posterior, o projecto das instalações eléctricas, de cuja aprovação dependerá a concessão da licença municipal de construção.
 
-###### Art. 3.º - 1. O projecto das instalações eléctricas a que se refere o artigo anterior será constituído por uma memória descritiva e justificativa e por peças desenhadas.
+Art. 3.º - 1. O projecto das instalações eléctricas a que se refere o artigo anterior será constituído por uma memória descritiva e justificativa e por peças desenhadas.
 
 2. A memória descritiva e justificativa do projecto deverá conter todos os elementos e esclarecimentos necessários para darem uma ideia perfeita e exacta da natureza, importância, função e características das instalações, nomeadamente:
 
@@ -128,13 +156,13 @@ c) Alçados, cortes ou desenhos de pormenor eventualmente necessários para o co
 
 d) Esquemas eléctricos dos quadros com a indicação das características dos aparelhos.
 
-###### Art. 4.º Para as instalações eléctricas de 2.º categoria, além dos elementos referidos no artigo anterior, o projecto deverá incluir alçados e cortes (pelo menos em duas posições ortogonais), em escala não inferior a 1:50, das dependências onde serão estabelecidas as subestações, postos de corte ou postos de transformação, mostrando o equipamento a instalar, sua disposição, dimensões, afastamentos entre apoios, etc., de forma a poder verificar-se se são observadas as disposições do respectivo regulamento de segurança.
+Art. 4.º Para as instalações eléctricas de 2.º categoria, além dos elementos referidos no artigo anterior, o projecto deverá incluir alçados e cortes (pelo menos em duas posições ortogonais), em escala não inferior a 1:50, das dependências onde serão estabelecidas as subestações, postos de corte ou postos de transformação, mostrando o equipamento a instalar, sua disposição, dimensões, afastamentos entre apoios, etc., de forma a poder verificar-se se são observadas as disposições do respectivo regulamento de segurança.
 
-###### Art. 5.º - 1. Os projectos deverão ser elaborados e assinados por técnicos que, para o efeito, deverão estar inscritos na Direcção-Geral dos Serviços Eléctricos, inscrição esta que deverá ser feita nos moldes previstos no Regulamento de Licenças para Instalações Eléctricas.
+Art. 5.º - 1. Os projectos deverão ser elaborados e assinados por técnicos que, para o efeito, deverão estar inscritos na Direcção-Geral dos Serviços Eléctricos, inscrição esta que deverá ser feita nos moldes previstos no Regulamento de Licenças para Instalações Eléctricas.
 
 2. Os projectos apenas poderão ser assinados por engenheiros electrotécnicos ou por engenheiros técnicos com a especialidade de electrotecnia.
 
-###### Art. 6.º - 1. Os projectos serão entregues na câmara municipal correspondente, em triplicado, sendo dois exemplares selados em cada uma das folhas do texto e dos desenhos.
+Art. 6.º - 1. Os projectos serão entregues na câmara municipal correspondente, em triplicado, sendo dois exemplares selados em cada uma das folhas do texto e dos desenhos.
 
 2. Recebido o projecto, a câmara municipal remeterá dois dos exemplares, sendo um o não selado, às entidades seguintes:
 
@@ -150,9 +178,9 @@ b) No caso de instalações de 5.º categoria: ao distribuidor de energia a cuja
 
 6. A câmara municipal juntará o exemplar do projecto aprovado pela entidade competente, e por esta a ela remetido, ao exemplar do projecto de construção destinado a ser entregue ao requerente aquando da concessão da respectiva licença de construção.
 
-###### Art. 7.º O disposto nos artigos anteriores não será aplicável às instalações provisórias.
+Art. 7.º O disposto nos artigos anteriores não será aplicável às instalações provisórias.
 
-###### Art. 8.º - 1. A execução das instalações eléctricas não poderá ser iniciada sem que seja apresentado ao distribuidor de energia, a cuja rede de distribuição serão ligadas essas instalações, um termo de responsabilidade, redigido de acordo com o anexo II.
+Art. 8.º - 1. A execução das instalações eléctricas não poderá ser iniciada sem que seja apresentado ao distribuidor de energia, a cuja rede de distribuição serão ligadas essas instalações, um termo de responsabilidade, redigido de acordo com o anexo II.
 
 2. O termo de responsabilidade deverá ser entregue pela entidade a que competirá a execução das instalações e será assinado por qualquer dos técnicos seguintes, os quais deverão estar inscritos de acordo com o disposto no n.º 1 do artigo 5.º:
 
@@ -162,23 +190,23 @@ b) Um engenheiro técnico com a especialidade de electrotecnia;
 
 c) Um electricista com a categoria de oficial, tendo o curso de electricista ou montador electricista de uma escola industrial portuguesa, no caso de instalações eléctricas de potência total instalada não superior a 100 KVA, calculada de acordo com os regulamentos de segurança aplicáveis.
 
-###### Art. 9.º - 1. No caso de instalações de 2.ª categoria e de instalações de 5.ª categoria que incluam elevadores eléctricos ou locais sujeitos a risco de explosão, a aprovação das instalações e consequente efectivação dos contratos de fornecimento de energia e colocação dos contadores ficará dependente da entrega de um termo de responsabilidade pela respectiva exploração, redigido de acordo com o anexo III e passado por qualquer dos técnicos indicados no n.º 2 do artigo anterior e nas condições fixadas no mesmo artigo.
+Art. 9.º - 1. No caso de instalações de 2.ª categoria e de instalações de 5.ª categoria que incluam elevadores eléctricos ou locais sujeitos a risco de explosão, a aprovação das instalações e consequente efectivação dos contratos de fornecimento de energia e colocação dos contadores ficará dependente da entrega de um termo de responsabilidade pela respectiva exploração, redigido de acordo com o anexo III e passado por qualquer dos técnicos indicados no n.º 2 do artigo anterior e nas condições fixadas no mesmo artigo.
 
 2. Para as instalações estabelecidas em locais sujeitos a risco de explosão não serão permitidos como técnicos responsáveis os referidos na alínea c) do n.º 2 do artigo anterior.
 
-###### Art. 10.º O termo de responsabilidade a que se refere o artigo 8.º caducará na data de ligação à rede de distribuição das instalações a que o mesmo se refere.
+Art. 10.º O termo de responsabilidade a que se refere o artigo 8.º caducará na data de ligação à rede de distribuição das instalações a que o mesmo se refere.
 
-###### Art. 11.º O valor de 50 kW referido no § 1.º do artigo 32.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, passa a ser de 20 KVA.
+Art. 11.º O valor de 50 kW referido no § 1.º do artigo 32.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, passa a ser de 20 KVA.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 18 de Março de 1976.**
+Promulgado em 18 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1976/04/07800/06510654.pdf))](https://files.diariodarepublica.pt/1s/1976/04/07800/06510654.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1976/04/07800/06510654.pdf)
 
 ## ANEXO II — Termo de responsabilidade
 
@@ -208,4 +236,4 @@ Data ...
 
 Este termo deve ser feito em papel selado e assinado pelo próprio sobre uma estampilha fiscal de 80$00.
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1981-579738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b529af67ea19639510ac41893a3e1c76039e87d53816fe0eaa9b95d7f4b3bf2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 399d50951d4fdedd63102dd9f4daf3d8f105a290a7622b514bd483adf1b843ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conservação e Restauro
+- Edifício Público
+- Obras Públicas
+relationships:
+- type: corrected_by
+  target: pt:dre:576357:por
+  label: Retificado o art. 6.º pelo(a) Declaração - Diário da República n.º 184/1981, Série I de 1981-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-576357
+  date: '1981-08-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:55Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +103,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os encargos com a manutenção e fruição das partes de utilização comum de cada edifício ou conjunto de edifícios de estrutura unitária que sejam propriedade do Estado ou que este detenha a qualquer título e se encontrem afectos a entidades ou serviços públicos distintos serão repartidos segundo critérios de proporcionalidade estabelecidos em função da área de utilização autónoma de cada entidade ou serviço utente.
+Artigo 1.º - 1 - Os encargos com a manutenção e fruição das partes de utilização comum de cada edifício ou conjunto de edifícios de estrutura unitária que sejam propriedade do Estado ou que este detenha a qualquer título e se encontrem afectos a entidades ou serviços públicos distintos serão repartidos segundo critérios de proporcionalidade estabelecidos em função da área de utilização autónoma de cada entidade ou serviço utente.
 
 2 - Quando houver partes de utilização comum que sirvam apenas alguns dos utentes, as despesas dessas partes deverão ser repartidas entre os que delas se servem.
 
-###### Art. 2.º São consideradas partes de utilização comum, nomeadamente:
+Art. 2.º São consideradas partes de utilização comum, nomeadamente:
 
 a) O telhado e os terraços de cobertura;
 
@@ -111,13 +119,13 @@ d) As entradas, vestíbulos, escadas e corredores, incluindo os respectivos elem
 
 e) As instalações gerais de água, electricidade, aquecimento, ar condicionado e semelhantes.
 
-###### Art. 3.º A administração das partes de utilização comum será atribuída a uma das entidades ou serviços públicos utentes, sendo as respectivas funções definidas por regulamento.
+Art. 3.º A administração das partes de utilização comum será atribuída a uma das entidades ou serviços públicos utentes, sendo as respectivas funções definidas por regulamento.
 
-###### Art. 4.º A entidade ou o serviço encarregado da administração contabilizará os encargos comuns e informará mensalmente os restantes utentes dos montantes despendidos.
+Art. 4.º A entidade ou o serviço encarregado da administração contabilizará os encargos comuns e informará mensalmente os restantes utentes dos montantes despendidos.
 
-###### Art. 5.º Sem prejuízo de outras formas de compensação que se revelarem adequadas, poderá ser constituído na entidade ou serviço encarregado da administração um fundo com dotações próprias através do qual aquela entidade ou serviço pagará os encargos comuns, processando seguidamente notas de despesa correspondentes à parte proporcional estipulada para cada entidade ou serviço utente, a fim de ser reembolsado, no prazo de trinta dias, do respectivo montante.
+Art. 5.º Sem prejuízo de outras formas de compensação que se revelarem adequadas, poderá ser constituído na entidade ou serviço encarregado da administração um fundo com dotações próprias através do qual aquela entidade ou serviço pagará os encargos comuns, processando seguidamente notas de despesa correspondentes à parte proporcional estipulada para cada entidade ou serviço utente, a fim de ser reembolsado, no prazo de trinta dias, do respectivo montante.
 
-###### Art. 6.º Serão aprovados por despacho do Ministro ou Ministros que superintendam ou tutelem as entidades ou os serviços utentes:
+Art. 6.º Serão aprovados por despacho do Ministro ou Ministros que superintendam ou tutelem as entidades ou os serviços utentes:
 
 a) A definição dos encargos considerados comuns além dos descritos no artigo 2.º;
 
@@ -127,14 +135,14 @@ c) A designação da entidade ou serviço encarregado da administração;
 
 d) O regulamento previsto no artigo 3.º
 
-###### Art. 7.º As disposições deste decreto-lei não prejudicam as obrigações dos senhorios, no caso de se tratar de prédios tomados de arrendamento pelo Estado.
+Art. 7.º As disposições deste decreto-lei não prejudicam as obrigações dos senhorios, no caso de se tratar de prédios tomados de arrendamento pelo Estado.
 
-###### Art. 8.º Este diploma não prejudica a atribuição dos poderes de administração do conjunto imobiliário a entidades especialmente vocacionadas para o efeito, designadamente as secretarias-gerais.
+Art. 8.º Este diploma não prejudica a atribuição dos poderes de administração do conjunto imobiliário a entidades especialmente vocacionadas para o efeito, designadamente as secretarias-gerais.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Julho de 1981.**
+Promulgado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

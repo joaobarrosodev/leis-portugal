@@ -48,40 +48,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0fcc4f435b399e040c1173e5db34ae208103f4de38113239578790ed0a8badf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c14fbcb8a131dd23098ddb1938a82054b8679ffad51a4e065a7ba4ba32f915b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Carne
+- Comissão Nacional do FRIO
+- Comissão Permanente da Indústria de Abate
+- Controlo Sanitário
+- Definição de Competências
+- Fundo de Abastecimento
+- Matadouro
+- Política Alimentar
+- Política Industrial
 relationships:
 - type: amended_by
   target: pt:dre:666744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:560233:por
+  label: "Extinta a Comissão Nacional do Frio criada neste diploma pelo DEC LEI.329-C/74.10.07.1974.MCE, DG.IS [159-3ºSupl]\
+    \ de 10.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-c-1974-560233
+  date: '1974-07-10'
+- type: amended_by
+  target: pt:dre:585845:por
+  label: "Extinta a Comissão Permanente da Indústria do Abate, e determinada a transferência das suas funções para a Direcção-Geral\
+    \ dos Serviços Pecuários e pela Junta Nacional dos Produtos Pecuários, pelo DEC LEI.539/74.12.10.1974.MECO, DG.IS [238-Supl]\
+    \ de 12.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/539-1974-585845
+  date: '1974-10-12'
+- type: amended_by
+  target: pt:dre:308567:por
+  label: "Alterado relativamente ao Fundo de Abastecimento pelo DEC LEI.51/83.1983.01.31.MFP DR.IS [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1983-308567
+  date: '1983-01-31'
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:666744:por
+  label: Revogado, a partir de 01.12.1993, o art. 16.º do presente diploma pelo(a) Decreto-Lei n.º 365/93 - Diário da República
+    n.º 248/1993, Série I-A de 1993-10-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1993-666744
+  date: '1993-10-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:57Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +166,7 @@ I
 
 Carnes
 
-###### Artigo 1.º - 1. Passam a regular-se por este diploma as actividades industriais e comerciais que tenham por objecto os seguintes produtos, importados ou não, desde que se destinem à alimentação humana:
+Artigo 1.º - 1. Passam a regular-se por este diploma as actividades industriais e comerciais que tenham por objecto os seguintes produtos, importados ou não, desde que se destinem à alimentação humana:
 
 a) Carnes frescas, refrigeradas e congeladas;
 
@@ -134,7 +176,7 @@ c) Banha, toucinho e outras gorduras animais comestíveis.
 
 2. O disposto no número precedente não se aplica, porém, às actividades industriais e comerciais que tenham por objecto os produtos avícolas, que continuam a regular-se pela legislação em vigor.
 
-###### Art. 2.º - 1. É livre a circulação dos produtos compreendidos no n.º 1 do artigo anterior, não podendo ser estabelecidas restrições de qualquer natureza que não estejam previstas no presente decreto-lei ou não sejam exigidas em virtude de medidas higio-sanitárias.
+Art. 2.º - 1. É livre a circulação dos produtos compreendidos no n.º 1 do artigo anterior, não podendo ser estabelecidas restrições de qualquer natureza que não estejam previstas no presente decreto-lei ou não sejam exigidas em virtude de medidas higio-sanitárias.
 
 2. Para se aplicar o disposto no número anterior relativamente aos produtos que não sejam pré-embalados é necessário:
 
@@ -154,7 +196,7 @@ b) Marcas sanitárias apostas nas carnes, nos termos do regulamento previsto na 
 
 4. A aplicação do disposto no n.º 1 relativamente aos produtos pré-embalados depende da satisfação das condições estabelecidas no regulamento previsto na alínea b) do n.º 1 do artigo 21.º
 
-###### Art. 3.º - 1. Os subsídios destinados a fomentar a criação de gado e a beneficiar o preço da carne e que possam ser pagos nos matadouros só são atribuíveis, salvo o disposto nos n.os 3 e 4, relativamente aos produtos que satisfaçam o disposto nas alíneas a) e c) do n.º 2 do artigo anterior e provenham de matadouros a que se refere o artigo 6.º
+Art. 3.º - 1. Os subsídios destinados a fomentar a criação de gado e a beneficiar o preço da carne e que possam ser pagos nos matadouros só são atribuíveis, salvo o disposto nos n.os 3 e 4, relativamente aos produtos que satisfaçam o disposto nas alíneas a) e c) do n.º 2 do artigo anterior e provenham de matadouros a que se refere o artigo 6.º
 
 2. Os subsídios referidos no número precedente só são pagos nos matadouros onde se haja verificado o abate, desde que, quanto aos primeiros, estejam em funcionamento os respectivos postos de recepção de gado e, quanto aos segundos, os correspondentes entrepostos frigoríficos de distribuição ou centros rurais de recepção e distribuição, criados no artigo 9.º
 
@@ -162,7 +204,7 @@ b) Marcas sanitárias apostas nas carnes, nos termos do regulamento previsto na 
 
 4. Quando o gado beneficie de subsídios ou de preços de garantia, poderá, porém, a Comissão Permanente da Indústria de Abate determinar que, observadas as condições estabelecidas nas alíneas a) e c) do n.º 2 do artigo anterior, o pagamento dos subsídios ao gado ou à carne tenha lugar em matadouros industriais de carácter privado mencionados no mesmo artigo, desde que o gado seja recebido exclusivamente por intermédio das associações regionais da lavoura.
 
-###### Art. 4.º - 1. Só podem ser preparados e pré-embalados os produtos compreendidos no n.º 1 do artigo 1.º, desde que satisfaçam os requisitos estabelecidos nas alíneas a), b) e c) e, se for caso disso, na alínea d) do n.º 2 do artigo 2.º
+Art. 4.º - 1. Só podem ser preparados e pré-embalados os produtos compreendidos no n.º 1 do artigo 1.º, desde que satisfaçam os requisitos estabelecidos nas alíneas a), b) e c) e, se for caso disso, na alínea d) do n.º 2 do artigo 2.º
 
 2. A preparação e pré-embalagem das carnes de bovinos deverão ser efectuadas, com obediência ao estabelecido no regulamento previsto na alínea b) do n.º 1 do artigo 21.º:
 
@@ -174,7 +216,7 @@ a) Noutros locais, a título excepcional.
 
 4. O regulamento referido na alínea b) do n.º 1 do artigo 21.º estabelecerá o meio de provar o cumprimento do disposto no n.º 2 do presente artigo.
 
-###### Art. 5.º - 1. É criada a categoria extra de carne de bovinos provenientes de animais de características a definir em normas de classificação de carcaças, aprovadas por despacho do Secretário de Estado da Agricultura.
+Art. 5.º - 1. É criada a categoria extra de carne de bovinos provenientes de animais de características a definir em normas de classificação de carcaças, aprovadas por despacho do Secretário de Estado da Agricultura.
 
 2. Em despacho conjunto dos Secretários de Estado da Agricultura e do Comércio será fixado o regime de preços, não prejudicando estes os subsídios que, directa ou indirectamente, respeitem à produção de gado ou à carne.
 
@@ -184,15 +226,15 @@ II
 
 Matadouros
 
-###### Art. 6.º Só poderão beneficiar do disposto no presente diploma os matadouros que compreendam instalações próprias para refrigeração e congelação e respectivos armazéns frigoríficos, bem como para preparação de subprodutos, e que satisfaçam os demais requisitos a estabelecer em portaria do Ministro da Economia, sob proposta da Comissão Permanente da Indústria de Abate.
+Art. 6.º Só poderão beneficiar do disposto no presente diploma os matadouros que compreendam instalações próprias para refrigeração e congelação e respectivos armazéns frigoríficos, bem como para preparação de subprodutos, e que satisfaçam os demais requisitos a estabelecer em portaria do Ministro da Economia, sob proposta da Comissão Permanente da Indústria de Abate.
 
-###### Art. 7.º Às entidades que pretendam instalar matadouros com as características referidas no artigo anterior poderão ser concedidos, pelo Fundo de Abastecimento, financiamentos e comparticipações, de acordo com o que for fixado em portaria conjunta dos Secretários de Estado da Agricultura e do Comércio, obtida a concordância do Ministro das Finanças.
+Art. 7.º Às entidades que pretendam instalar matadouros com as características referidas no artigo anterior poderão ser concedidos, pelo Fundo de Abastecimento, financiamentos e comparticipações, de acordo com o que for fixado em portaria conjunta dos Secretários de Estado da Agricultura e do Comércio, obtida a concordância do Ministro das Finanças.
 
 III
 
 Recepção e distribuição
 
-###### Art. 8.º - 1. As entidades que explorem os matadouros referidos no artigo 6.º estabelecerão e manterão em permanente funcionamento postos de recepção de gado, no mínimo, de um por cada concelho.
+Art. 8.º - 1. As entidades que explorem os matadouros referidos no artigo 6.º estabelecerão e manterão em permanente funcionamento postos de recepção de gado, no mínimo, de um por cada concelho.
 
 2. Nos postos referidos no número precedente será obrigatòriamente recebido o gado para abate e feita a respectiva avaliação.
 
@@ -200,7 +242,7 @@ Recepção e distribuição
 
 4. No caso previsto no número precedente, a Comissão Permanente da Indústria de Abate poderá dispensar a existência de postos de recepção no correspondente concelho.
 
-###### Art. 9.º - 1. São criados centros rurais de recepção e distribuição e entrepostos frigoríficos de distribuição dos produtos compreendidos no n.º 1 do artigo 1.º, bem como de fruta, legumes e peixe.
+Art. 9.º - 1. São criados centros rurais de recepção e distribuição e entrepostos frigoríficos de distribuição dos produtos compreendidos no n.º 1 do artigo 1.º, bem como de fruta, legumes e peixe.
 
 2. As condições a que deverão obedecer a instalação e o funcionamento dos centros e entrepostos referidos no número precedente serão reguladas, com observância do disposto nos n.os 3, 4 e 5, em portaria conjunta dos Ministros do Interior e da Economia.
 
@@ -210,13 +252,13 @@ Recepção e distribuição
 
 5. A aprovação referida no n.º 3 deverá ser concedida sem prejuízo do prazo indicado no número anterior, cujo disposto será igualmente aplicável se essa aprovação não for concedida.
 
-###### Art. 10.º - 1. O Fundo de Desemprego e o Fundo de Abastecimento comparticiparão, com as importâncias, respectivamente, de 40 por cento e de 20 por cento do seu custo, na instalação dos centros referidos nos n.os 3 e 4 do artigo anterior.
+Art. 10.º - 1. O Fundo de Desemprego e o Fundo de Abastecimento comparticiparão, com as importâncias, respectivamente, de 40 por cento e de 20 por cento do seu custo, na instalação dos centros referidos nos n.os 3 e 4 do artigo anterior.
 
 2. O Fundo de Melhoramentos Agrícolas poderá financiar parte do custo dos centros referidos no número precedente não comparticipado, sendo o crédito assegurado por meio de garantia real sobre o edifício e equipamento dos centros.
 
 3. Podem ser concedidos financiamentos e comparticipações pelo Fundo de Abastecimento para instalação de entrepostos frigoríficos, conforme o que for estabelecido em portaria conjunta dos Secretários de Estado da Agricultura e do Comércio, obtida a concordância do Ministro das Finanças.
 
-###### Art. 11.º - 1. As carnes compreendidas na alínea a) do n.º 1 do artigo 1.º que não sejam pré-embaladas e provenham dos matadouros a que se refere a alínea b) do n.º 2 do artigo 2.º são obrigatòriamente transaccionadas em cada concelho através dos centros rurais de recepção e distribuição ou dos entrepostos frigoríficos de distribuição.
+Art. 11.º - 1. As carnes compreendidas na alínea a) do n.º 1 do artigo 1.º que não sejam pré-embaladas e provenham dos matadouros a que se refere a alínea b) do n.º 2 do artigo 2.º são obrigatòriamente transaccionadas em cada concelho através dos centros rurais de recepção e distribuição ou dos entrepostos frigoríficos de distribuição.
 
 2. Não obstante o disposto no número anterior, a Comissão Permanente da Indústria de Abate estabelecerá as condições em que podem ser adquiridas directamente dos matadouros nele referidos:
 
@@ -230,7 +272,7 @@ IV
 
 Comissão Nacional do Frio
 
-###### Art. 12.º - 1. É criada no Ministério da Economia a Comissão Nacional do Frio, com as seguintes funções:
+Art. 12.º - 1. É criada no Ministério da Economia a Comissão Nacional do Frio, com as seguintes funções:
 
 a) Dar parecer sobre o uso do frio na conservação dos produtos alimentares;
 
@@ -252,7 +294,7 @@ f) Assegurar a representação nacional nas organizações internacionais do fri
 
 5. O Ministro da Economia pode delegar nos respectivos Secretários de Estado a competência para despachar os assuntos relativos à Comissão Nacional do Frio.
 
-###### Art. 13.º - 1. A Comissão Nacional do Frio é presidida por um inspector-geral de Economia, designado pelo Ministro da Economia, e constituída por representantes:
+Art. 13.º - 1. A Comissão Nacional do Frio é presidida por um inspector-geral de Economia, designado pelo Ministro da Economia, e constituída por representantes:
 
 a) Do Departamento da Defesa Nacional;
 
@@ -294,7 +336,7 @@ V
 
 Comissão Permanente da Indústria de Abate
 
-###### Art. 14.º - 1. É criada na Secretaria de Estado da Agricultura a Comissão Permanente da Indústria de Abate, com as seguintes funções:
+Art. 14.º - 1. É criada na Secretaria de Estado da Agricultura a Comissão Permanente da Indústria de Abate, com as seguintes funções:
 
 a) Impulsionar e actualizar, mediante os necessários estudos, a rede de matadouros, definindo a sua prioridade, e acompanhar a sua execução;
 
@@ -308,7 +350,7 @@ e) Formular as sugestões convenientes à expansão das indústrias de carne, be
 
 2. Para o desempenho das suas funções, a Comissão Permanente da Indústria de Abate pode corresponder-se directamente com quaisquer serviços ou entidades.
 
-###### Art. 15.º - 1. A Comissão Permanente da Indústria de Abate é presidida por um inspector-geral de Economia, designado pelo Ministro da Economia, e constituída por representantes dos seguintes serviços e entidades:
+Art. 15.º - 1. A Comissão Permanente da Indústria de Abate é presidida por um inspector-geral de Economia, designado pelo Ministro da Economia, e constituída por representantes dos seguintes serviços e entidades:
 
 a) Direcção-Geral de Administração Política e Civil;
 
@@ -328,7 +370,7 @@ VI
 
 Disposições gerais
 
-###### Art. 16.º - 1. É criado na Direcção-Geral dos Serviços Pecuários um corpo de inspectores de sanidade pecuária, a quem competirá, além do referido no artigo 2.º, desempenhar, relativamente aos matadouros referidos no artigo 6.º:
+Art. 16.º - 1. É criado na Direcção-Geral dos Serviços Pecuários um corpo de inspectores de sanidade pecuária, a quem competirá, além do referido no artigo 2.º, desempenhar, relativamente aos matadouros referidos no artigo 6.º:
 
 a) A inspecção e exame previstos no artigo 9.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957;
 
@@ -342,7 +384,7 @@ d) A fiscalização da execução dos regulamentos a que se refere o artigo 21.�
 
 3. Constituem receita geral do Estado as taxas cobradas pelos serviços prestados pelos inspectores de sanidade pecuária, conforme forem aprovadas em portaria conjunta do Ministro das Finanças e do Secretário de Estado da Agricultura.
 
-###### Art. 17.º - 1. A não observância do disposto nos n.os 1 e 2 do artigo 4.º, no n.º 3 do artigo 5.º e n.º 3 do artigo 11.º será punida nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 17.º - 1. A não observância do disposto nos n.os 1 e 2 do artigo 4.º, no n.º 3 do artigo 5.º e n.º 3 do artigo 11.º será punida nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 2. A inobservância do disposto no n.º 1 do artigo 11.º, fora dos casos previstos no n.º 2 do mesmo artigo, será punida nos termos do artigo 30.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
@@ -350,25 +392,25 @@ d) A fiscalização da execução dos regulamentos a que se refere o artigo 21.�
 
 4. Às penalidades previstas neste artigo acrescerá a apreensão dos produtos objecto da infracção.
 
-###### Art. 18.º - 1. Os matadouros municipais poderão ser integrados ou transformados em centros rurais de recepção e distribuição, em postos de recepção de gado ou, eventualmente, em entrepostos frigoríficos de distribuição.
+Art. 18.º - 1. Os matadouros municipais poderão ser integrados ou transformados em centros rurais de recepção e distribuição, em postos de recepção de gado ou, eventualmente, em entrepostos frigoríficos de distribuição.
 
 2. A integração e a transformação previstas no número anterior far-se-ão nas condições que forem estabelecidas conjuntamente pela Comissão Nacional do Frio e pela Comissão Permanente da Indústria de Abate, com a aprovação dos Ministros do Interior e da Economia.
 
 3. Da instalação de centros rurais de recepção e distribuição e de entrepostos frigoríficos de distribuição, bem como da integração ou transformação de matadouros previstas no n.º 1, resultará para as respectivas câmaras municipais o direito de cobrarem as taxas por serviços prestados naqueles centros e entrepostos aprovadas em portaria conjunta dos Ministros do Interior e das Finanças.
 
-###### Art. 19.º - 1. O exclusivo previsto no n.º 3.º do artigo 47.º do Código Administrativo e a municipalização da venda de carnes prevista no n.º 5.º do artigo 164.º do mesmo Código não são permitidos nos concelhos onde existam centros rurais de recepção e distribuição ou entrepostos frigoríficos de distribuição.
+Art. 19.º - 1. O exclusivo previsto no n.º 3.º do artigo 47.º do Código Administrativo e a municipalização da venda de carnes prevista no n.º 5.º do artigo 164.º do mesmo Código não são permitidos nos concelhos onde existam centros rurais de recepção e distribuição ou entrepostos frigoríficos de distribuição.
 
 2. A Comissão Permanente da Indústria de Abate estabelecerá, com a aprovação dos Ministros do Interior e da Economia, as condições em que se poderão manter as municipalizações e os exclusivos da venda de carnes existentes à data da publicação deste diploma.
 
 3. Sem prejuízo do disposto no n.º 1, a Comissão Permanente da Indústria de Abate fixará, com a aprovação dos Ministros do Interior e da Economia, as condições em que podem ser estabelecidos exclusivos e municipalizações da venda de carnes posteriormente à data referida no número precedente.
 
-###### Art. 20.º - 1. As condições a que deverá obedecer a instalação e o funcionamento dos estabelecimentos frigoríficos portuários de pescado e centrais horto-fruteiras serão reguladas, respectivamente, por portaria conjunta dos Ministros da Marinha e da Economia e portaria do Ministro da Economia.
+Art. 20.º - 1. As condições a que deverá obedecer a instalação e o funcionamento dos estabelecimentos frigoríficos portuários de pescado e centrais horto-fruteiras serão reguladas, respectivamente, por portaria conjunta dos Ministros da Marinha e da Economia e portaria do Ministro da Economia.
 
 2. Podem ser concedidos financiamentos e comparticipações pelo Fundo de Abastecimento para a instalação dos estabelecimentos referidos no número precedente, conforme o que for estabelecido em portaria conjunta do Ministro da Marinha e do Secretário de Estado do Comércio, obtida a concordância do Ministro das Finanças.
 
 3. O disposto no número anterior aplica-se às centrais horto-fruteiras, sendo, porém, a portaria dos Secretários de Estado da Agricultura e do Comércio.
 
-###### Art. 21.º - 1. O Secretário de Estado da Agricultura publicará, dentro do prazo de noventa dias, a partir da entrada em vigor deste diploma, os seguintes regulamentos:
+Art. 21.º - 1. O Secretário de Estado da Agricultura publicará, dentro do prazo de noventa dias, a partir da entrada em vigor deste diploma, os seguintes regulamentos:
 
 a) Regulamento das Condições Higiénicas de Transporte, Distribuição e Venda de Carnes e de Seus Produtos;
 
@@ -378,12 +420,12 @@ c) Regulamento da Inspecção Sanitária dos Animais de Talho, Suas Carnes, Subp
 
 2. Nos Regulamentos indicados no número precedente, poderão ser estabelecidas multas até 50000$00, a que poderá acrescer a apreensão dos produtos objecto de infracção às normas neles estabelecidas.
 
-###### Art. 22.º O regime estabelecido nos artigos 1.º a 5.º e 11.º aplicar-se-á à medida que entrarem em funcionamento os matadouros referidos no artigo 6.º e em relação às respectivas áreas de influência definidas pela Comissão Permanente da Indústria de Abate, cabendo a esta Comissão fixar o regime transitório relativo à transação de carnes nos concelhos compreendidos nessas áreas, enquanto neles não estiverem instalados os centros rurais de recepção e distribuição ou entrepostos frigoríficos de distribuição.
+Art. 22.º O regime estabelecido nos artigos 1.º a 5.º e 11.º aplicar-se-á à medida que entrarem em funcionamento os matadouros referidos no artigo 6.º e em relação às respectivas áreas de influência definidas pela Comissão Permanente da Indústria de Abate, cabendo a esta Comissão fixar o regime transitório relativo à transação de carnes nos concelhos compreendidos nessas áreas, enquanto neles não estiverem instalados os centros rurais de recepção e distribuição ou entrepostos frigoríficos de distribuição.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Maio de 1971.**
+Promulgado em 10 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

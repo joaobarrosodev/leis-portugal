@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43285-1960-514426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35416ddaf5e49856028b6b7d33c2644e70b5424e39f476ed58103f93c490fb76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b05b3b2faf40693e5e614030b7b3e894b76a83b359c9f511b5015b40d05c0187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Função Pública
+- Funcionário Público
+- Pensão de Aposentação
+- Pensão de Reforma
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:11Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +116,18 @@ Reconhecendo-se que o disposto no artigo 3.º do [Decreto-Lei n.º 40872](https:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sem prejuízo do disposto no artigo 5.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o artigo 9.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, passa a ter a seguinte redacção:
+Artigo 1.º Sem prejuízo do disposto no artigo 5.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o artigo 9.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, passa a ter a seguinte redacção:
 
-###### Art. 9.º Os aposentados e reformados não podem de futuro voltar à actividade no Estado, corpos administrativos e organismos de coordenação económica ou prestar-lhes serviço remunerado a qualquer título fora dos casos que estejam exceptuados por resolução do Conselho de Ministros.
+Art. 9.º Os aposentados e reformados não podem de futuro voltar à actividade no Estado, corpos administrativos e organismos de coordenação económica ou prestar-lhes serviço remunerado a qualquer título fora dos casos que estejam exceptuados por resolução do Conselho de Ministros.
 
 § 1.º Consideram-se submetidos à mesma regra os aguardando aposentação ou reforma, nos termos do artigo 14.º do [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de 24 de Novembro de 1947.
 
 § 2.º A contravenção do disposto neste artigo, ainda que em situações remuneradas por força de verbas globais não destinadas exclusivamente a pessoal, além de implicar procedimento disciplinar, sujeita solidàriamente os responsáveis à reposição do que tiver sido pago.
 
-###### Art. 2.º Consideram-se cargos permanentes, para efeitos do disposto no artigo 23.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, não apenas os lugares desempenhados em quadros devidamente aprovados, como também aqueles em que o provimento seja efectuado por período superior a um ano, desde que sejam igualmente retribuídos por força de dotações inscritas expressamente para pessoal, com exclusão dos previstos nos artigos 71.º e 404.º do Código Administrativo.
+Art. 2.º Consideram-se cargos permanentes, para efeitos do disposto no artigo 23.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, não apenas os lugares desempenhados em quadros devidamente aprovados, como também aqueles em que o provimento seja efectuado por período superior a um ano, desde que sejam igualmente retribuídos por força de dotações inscritas expressamente para pessoal, com exclusão dos previstos nos artigos 71.º e 404.º do Código Administrativo.
 
-###### Art. 3.º É revogado a partir de 1 de Novembro do corrente ano o disposto no artigo 3.º do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
+Art. 3.º É revogado a partir de 1 de Novembro do corrente ano o disposto no artigo 3.º do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
 
-**Publique-se e cumpra-se, como nele se contém.**
+Publique-se e cumpra-se, como nele se contém.
 
 Paços do Governo da República, 3 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

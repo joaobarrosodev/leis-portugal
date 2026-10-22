@@ -47,40 +47,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bc0a531ff08fe8bd140772ec807055ede12b07c81bf93b7fbbf9d41fe46d5ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cadacaa91c0e95a504d564287c435c3cd410da9eca279c4e581c2b31a20bb00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Energia Elétrica
+- Equipamento Eléctrico
+- Regulamento de Licenças para Instalações Eléctricas
 relationships:
 - type: amended_by
   target: pt:dre:520208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611079:por
+  label: "Alterado o nº 3 do art. 18º e al. c) do nº 1 do art. 27º, pela PORT.344/89.1989.05.13.MIE, DR.IS [110]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1989-611079
+  date: '1989-05-13'
+- type: amended_by
+  target: pt:dre:597570:por
+  label: "Alterado, a partir de 01.02.1993, o nº 1 do art. 13º do Regulamento de Licenças para Instalações Eléctricas, aprovado\
+    \ pelo Dec Lei 26852, de 30-Jul 1936, na redacção do presente diploma, pelo DEC LEI.272/92.03.12.1992.MIE, DR.IS-A [279]\
+    \ de 03.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1992-597570
+  date: '1992-12-03'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção aos artigos 61.º, 63.º, 65.º, 67.º e 68.º do Regulamento aprovado pelo Decreto-Lei 26852, de\
+    \ 30 de Julho de 1936, na redacção do presente diploma, pela LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: amended_by
+  target: pt:dre:520208:por
+  label: "Alterados os arts. 8º, 9º, 13º, 18º, 27º, 32º, 39º, 41º e 42º e revogados a al. e) do nº 1 e o nº 4 do art. 9º,\
+    \ o art. 11º e os nºs 8 e 9 do art. 41º, todos do Regulamento de licenças para Instalações Eléctricas aprovado pelo Dec\
+    \ Lei 26852 de 30-Jul 1936, com a redacção conferida mo presente diploma, pelo DEC LEI.101/2007.02.04.2007.MEI, DR.IS\
+    \ [65] de 02.04.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2007-520208
+  date: '2007-04-02'
+- type: cites
+  target: pt:dre:195638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662150:por
+  label: "Revogado o nº 7 do art. 41º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo Dec Lei 26852\
+    \ de 30-Jun 1936, na redacção constante do presente diploma, pelo DEC LEI.131/87.1987.03.17.MIC, DR.IS [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1987-662150
+  date: '1987-03-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:11Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +164,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 9.º, 11.º, 13.º, 15.º, 16.º, 17.º, 18.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 61.º, 63.º, 65.º, 67.º, 68.º e 78.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, passam a ter a redacção que consta do anexo.
+Artigo 1.º Os artigos 8.º, 9.º, 11.º, 13.º, 15.º, 16.º, 17.º, 18.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 41.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 61.º, 63.º, 65.º, 67.º, 68.º e 78.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, passam a ter a redacção que consta do anexo.
 
-###### Art. 2.º - 1. Os planos de urbanização de aglomerados populacionais ou as suas ampliações deverão incluir sempre as infra-estruturas de abastecimento de energia eléctrica sob a forma do projecto ou anteprojecto, incluindo os corredores de acesso para linhas eléctricas de alta tensão destinadas a alimentação dos aglomerados.
+Art. 2.º - 1. Os planos de urbanização de aglomerados populacionais ou as suas ampliações deverão incluir sempre as infra-estruturas de abastecimento de energia eléctrica sob a forma do projecto ou anteprojecto, incluindo os corredores de acesso para linhas eléctricas de alta tensão destinadas a alimentação dos aglomerados.
 
 Na elaboração do anteprojecto deverá ouvir-se o distribuidor público, que dará o seu parecer por escrito.
 
@@ -111,33 +174,33 @@ Na elaboração do anteprojecto deverá ouvir-se o distribuidor público, que da
 
 3. A Direcção-Geral dos Serviços de Urbanização, antes de proceder à apreciação dos planos referidos no n.º 1, ouvirá a Direcção-Geral dos Serviços Eléctricos, que deverá emitir o seu parecer. Considera-se como parecer concordante a falta de resposta no prazo de quarenta e cinco dias.
 
-###### Art. 3.º - 1. Por portaria do Ministro da Indústria e Tecnologia poderão ser alteradas disposições do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, com vista à simplificação dos trâmites processuais, desde que não ofendam os direitos de terceiros.
+Art. 3.º - 1. Por portaria do Ministro da Indústria e Tecnologia poderão ser alteradas disposições do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, com vista à simplificação dos trâmites processuais, desde que não ofendam os direitos de terceiros.
 
 2. Igualmente, por portaria do Ministro da Indústria e Tecnologia, poderá ser descentralizada e regionalizada a apreciação e decisão dos processos relativos ao licenciamento de instalações eléctricas.
 
-###### Art. 4.º - 1. As vistorias e inspecções periódicas a cargo das direcções de fiscalização eléctrica e dos distribuidores públicos de energia eléctrica podem ser delegadas em associações profissionais de capacidade e idoneidade reconhecidas pela Direcção-Geral dos Serviços Eléctricos.
+Art. 4.º - 1. As vistorias e inspecções periódicas a cargo das direcções de fiscalização eléctrica e dos distribuidores públicos de energia eléctrica podem ser delegadas em associações profissionais de capacidade e idoneidade reconhecidas pela Direcção-Geral dos Serviços Eléctricos.
 
 2. O exercício da actividade das associações profissionais de fiscalização e inspecção eléctricas será regulado por diploma conjunto dos Ministérios da Indústria e Tecnologia e do Trabalho.
 
 3. A Direcção-Geral dos Serviços Eléctricos inscreverá, em cadastro especial, as associações profissionais acima referidas e controlará a sua actividade.
 
-###### Art. 5.º Aos distribuidores e outras entidades que, como delegados destes ou da Direcção-Geral dos Serviços Eléctricos, efectuarem vistorias regulamentares será aplicável a doutrina do § único do artigo 31.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
+Art. 5.º Aos distribuidores e outras entidades que, como delegados destes ou da Direcção-Geral dos Serviços Eléctricos, efectuarem vistorias regulamentares será aplicável a doutrina do § único do artigo 31.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
 
-###### Art. 6.º Quando forem modificadas as características eléctricas de qualquer instalação eléctrica de serviço público, e daí resultarem alterações noutras a ela ligadas e pertencentes a outras entidades, não poderão aos proprietários das últimas ser imputados quaisquer encargos com a respectiva alteração.
+Art. 6.º Quando forem modificadas as características eléctricas de qualquer instalação eléctrica de serviço público, e daí resultarem alterações noutras a ela ligadas e pertencentes a outras entidades, não poderão aos proprietários das últimas ser imputados quaisquer encargos com a respectiva alteração.
 
-###### Art. 7.º As multas que constam do [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, são multiplicadas por dez, à excepção dos artigos 61.º, 63.º, 65.º, 67.º e 68.º, já actualizadas no presente diploma, e serão aplicadas pelo director-geral dos Serviços Eléctricos ou pelos serviços em que este delegar.
+Art. 7.º As multas que constam do [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, são multiplicadas por dez, à excepção dos artigos 61.º, 63.º, 65.º, 67.º e 68.º, já actualizadas no presente diploma, e serão aplicadas pelo director-geral dos Serviços Eléctricos ou pelos serviços em que este delegar.
 
-###### Art. 8.º Aos processos pendentes aplica-se o regime previsto neste diploma.
+Art. 8.º Aos processos pendentes aplica-se o regime previsto neste diploma.
 
-###### Art. 9.º Ficam revogados o artigo 4.º do [Decreto-Lei n.º 40722](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40722-1956-232502), de 2 de Agosto de 1956, e o § único do artigo 38.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936.
+Art. 9.º Ficam revogados o artigo 4.º do [Decreto-Lei n.º 40722](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40722-1956-232502), de 2 de Agosto de 1956, e o § único do artigo 38.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 26 de Maio de 1976.**
+Promulgado em 26 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 REGULAMENTO DE LICENÇAS PARA INSTALAÇÕES ELÉCTRICAS
 
@@ -145,11 +208,11 @@ Alterações
 
 ...
 
-###### Art. 8.º - 1.ª Com excepção ao referido nos artigos 27.º e 28.º, as instalações eléctricas de serviço público necessitam de licença para o seu estabelecimento, concedida pelo director-geral dos Serviços Eléctricos.
+Art. 8.º - 1.ª Com excepção ao referido nos artigos 27.º e 28.º, as instalações eléctricas de serviço público necessitam de licença para o seu estabelecimento, concedida pelo director-geral dos Serviços Eléctricos.
 
 2. O licenciamento das centrais nucleares reger-se-á por legislação específica.
 
-###### Art. 9.º - 1. As instalações eléctricas de serviço particular de 1.º categoria carecem de licença de estabelecimento, concedida pelo director-geral dos Serviços Eléctricos, à excepção das seguintes:
+Art. 9.º - 1. As instalações eléctricas de serviço particular de 1.º categoria carecem de licença de estabelecimento, concedida pelo director-geral dos Serviços Eléctricos, à excepção das seguintes:
 
 a) As centrais termoeléctricas e eólicas de potência não superior a 50 kVA;
 
@@ -169,7 +232,7 @@ e) Instalações de baixa tensão, nas condições indicadas na alínea b) do ar
 
 ...
 
-###### Art. 11.º - 1. As instalações eléctricas de 3.º categoria não carecem de licença dada pela Direcção-Geral dos Serviços Eléctricos, mas ficam permanentemente sujeitas à sua fiscalização e só podem ser exploradas depois de obtida a respectiva licença da Direcção-Geral dos Espectáculos, a qual só será concedida sob parecer favorável da Direcção-Geral dos Serviços Eléctricos.
+Art. 11.º - 1. As instalações eléctricas de 3.º categoria não carecem de licença dada pela Direcção-Geral dos Serviços Eléctricos, mas ficam permanentemente sujeitas à sua fiscalização e só podem ser exploradas depois de obtida a respectiva licença da Direcção-Geral dos Espectáculos, a qual só será concedida sob parecer favorável da Direcção-Geral dos Serviços Eléctricos.
 
 2. Para esse efeito, a Direcção-Geral dos Espectáculos enviará um exemplar do projecto à Direcção-Geral dos Serviços Eléctricos e solicitará a realização das vistorias que forem necessárias.
 
@@ -177,23 +240,23 @@ e) Instalações de baixa tensão, nas condições indicadas na alínea b) do ar
 
 ...
 
-###### Art. 13.º - 1. As instalações eléctricas de 5.ª categoria não necessitam de licença para o estabelecimento, mas ficam permanentemente sujeitas à fiscalização técnica do Governo, bem como à fiscalização exercida pelo respectivo distribuidor público, o qual deverá proceder à vistoria dessas instalações antes da sua entrada em exploração.
+Art. 13.º - 1. As instalações eléctricas de 5.ª categoria não necessitam de licença para o estabelecimento, mas ficam permanentemente sujeitas à fiscalização técnica do Governo, bem como à fiscalização exercida pelo respectivo distribuidor público, o qual deverá proceder à vistoria dessas instalações antes da sua entrada em exploração.
 
 2. Os elevadores eléctricos, escadas e tapetes rolantes destinados ao transporte de pessoas, ou semelhantes, não poderão entrar em exploração antes de terem sido vistoriados pela respectiva direcção de fiscalização eléctrica.
 
 ...
 
-###### Art. 15.º - 1. Salvo o caso previsto no n.º 2 do artigo 16.º, o pedido de licença para o estabelecimento de uma instalação eléctrica de serviço público será feito em requerimento, em papel selado, dirigido ao director-geral dos Serviços Eléctricos, e deverá ser acompanhado do respectivo projecto, que compreenderá todos os elementos necessários para dar uma ideia perfeita e exacta da natureza, importância e função da mesma instalação, e serão elaborados em conformidade com a natureza, importância e destino das instalações projectadas.
+Art. 15.º - 1. Salvo o caso previsto no n.º 2 do artigo 16.º, o pedido de licença para o estabelecimento de uma instalação eléctrica de serviço público será feito em requerimento, em papel selado, dirigido ao director-geral dos Serviços Eléctricos, e deverá ser acompanhado do respectivo projecto, que compreenderá todos os elementos necessários para dar uma ideia perfeita e exacta da natureza, importância e função da mesma instalação, e serão elaborados em conformidade com a natureza, importância e destino das instalações projectadas.
 
 2. A pormenorização dos documentos e a forma de apresentação constarão de portaria ministerial.
 
-###### Art. 16.º - 1. Os requerimentos, acompanhados dos respectivos projectos, serão entregues na Direcção-Geral dos Serviços Eléctricos, em Lisboa, ou nas direcções de fiscalização eléctrica, que os remeterão à Direcção-Geral.
+Art. 16.º - 1. Os requerimentos, acompanhados dos respectivos projectos, serão entregues na Direcção-Geral dos Serviços Eléctricos, em Lisboa, ou nas direcções de fiscalização eléctrica, que os remeterão à Direcção-Geral.
 
 2. Se se tratar de redes de tracção eléctrica urbana, o requerimento, acompanhado do projecto, em sextuplicado, será dirigido ao director-geral dos Transportes Terrestres, que remeterá à Direcção-Geral dos Serviços Eléctricos três exemplares do projecto com o respectivo parecer.
 
 3. Além destes documentos, sempre que, para a execução das instalações, seja necessária a ocupação de quaisquer domínios públicos ou particulares e as instalações não gozem de declaração de utilidade pública, deverá o requerente apresentar declaração escrita em papel selado e reconhecida por notário público, de que se obriga a obter as autorizações para a ocupação desses domínios, dadas pelos proprietários ou entidades competentes ou seus legítimos representantes, e de que só depois de obtidas essas autorizações procederá à montagem da instalação projectada.
 
-###### Art. 17.º - 1. O projecto deve ser acompanhado de um termo de responsabilidade pela sua elaboração, assinado por um engenheiro electrotécnico ou engenheiro técnico da especialidade de electrotecnia.
+Art. 17.º - 1. O projecto deve ser acompanhado de um termo de responsabilidade pela sua elaboração, assinado por um engenheiro electrotécnico ou engenheiro técnico da especialidade de electrotecnia.
 
 2. Todas as peças do projecto serão rubricadas pelo técnico responsável, à excepção da última peça escrita, onde deverá constar a assinatura, o nome por extenso e as referências da inscrição na Direcção-Geral dos Serviços Eléctricos.
 
@@ -205,7 +268,7 @@ e) Instalações de baixa tensão, nas condições indicadas na alínea b) do ar
 
 6. O termo de responsabilidade pode dizer respeito à elaboração do projecto e à exploração das instalações e referir-se ao conjunto das instalações do requerente ou a parte desse conjunto. Nestes dois últimos casos é dispensável a apresentação de um termo de responsabilidade por cada pedido.
 
-###### Art. 18.º - 1. Após a recepção do projecto, a Direcção-Geral dos Serviços Eléctricos verificará se ele se apresenta instruído com os documentos e esclarecimentos essenciais de apreciação, exigindo, na sua falta, que lhe sejam apresentados pelo requerente, e procederá ao seu estudo.
+Art. 18.º - 1. Após a recepção do projecto, a Direcção-Geral dos Serviços Eléctricos verificará se ele se apresenta instruído com os documentos e esclarecimentos essenciais de apreciação, exigindo, na sua falta, que lhe sejam apresentados pelo requerente, e procederá ao seu estudo.
 
 A Direcção-Geral dos Serviços Eléctricos poderá mandar introduzir no projecto as modificações que julgar indispensáveis para garantir a segurança da instalação e do público ou para fazer respeitar as disposições de segurança fixadas nos respectivos regulamentos. Se as modificações forem de pequena importância, não justificando a exigência da substituição ou alteração do projecto, poderão ser impostas na licença sob a forma de cláusulas, que serão comunicadas ao interessado ou anotadas no próprio projecto e nas respectivas cópias, o que, em qualquer dos casos, obrigará o requerente a observá-las escrupulosamente.
 
@@ -229,7 +292,7 @@ A Direcção-Geral dos Serviços Eléctricos poderá mandar introduzir no projec
 
 ...
 
-###### Art. 26.º - 1. Desde a data em que se iniciarem os trabalhos de estabelecimento, e até terem decorrido trinta dias sobre a data em que for feita pela fiscalização técnica do Governo a vistoria de uma instalação eléctrica, poderão os proprietários dos terrenos ou edifícios onde tenham sido colocados apoios das linhas de alta ou baixa tensão, e que por este facto se sintam prejudicados, apresentar as suas reclamações devidamente fundamentadas na Direcção-Geral dos Serviços Eléctricos, que procederá ao seu estudo e proporá superiormente as medidas que julgar necessárias para as atender, se forem justificadas.
+Art. 26.º - 1. Desde a data em que se iniciarem os trabalhos de estabelecimento, e até terem decorrido trinta dias sobre a data em que for feita pela fiscalização técnica do Governo a vistoria de uma instalação eléctrica, poderão os proprietários dos terrenos ou edifícios onde tenham sido colocados apoios das linhas de alta ou baixa tensão, e que por este facto se sintam prejudicados, apresentar as suas reclamações devidamente fundamentadas na Direcção-Geral dos Serviços Eléctricos, que procederá ao seu estudo e proporá superiormente as medidas que julgar necessárias para as atender, se forem justificadas.
 
 2. Estas reclamações serão feitas em papel selado.
 
@@ -237,7 +300,7 @@ A Direcção-Geral dos Serviços Eléctricos poderá mandar introduzir no projec
 
 4. Se se provar que o titular da licença de estabelecimento ocupou quaisquer domínios públicos ou particulares para o estabelecimento de uma instalação eléctrica que não seja de utilidade pública, sem ter obtido previamente as autorizações a que se refere o n.º 3 do artigo 16.º, será obrigado a desmontar ou desviar as linhas estabelecidas nesses domínios, no prazo máximo de quinze dias, a contar da intimação que nesse sentido lhe for feita, sem prejuízo das indemnizações devidas pelos danos de qualquer espécie que dessa ocupação tenham resultado.
 
-###### Art. 27.º - 1. Não carecem de licença de estabelecimento as instalações eléctricas a seguir indicadas, desde que não sejam comparticipadas pelo Estado, com o condicionamento indicado no n.º 2:
+Art. 27.º - 1. Não carecem de licença de estabelecimento as instalações eléctricas a seguir indicadas, desde que não sejam comparticipadas pelo Estado, com o condicionamento indicado no n.º 2:
 
 a) Linhas de alta tensão subterrâneas, de tensão nominal inferior a 60 kV, e suas modificações;
 
@@ -269,7 +332,7 @@ j) As instalações indicadas nos n.os 2 e 4 do artigo 9.º, quando de serviço 
 
 6. Para a abertura à exploração deverá o interessado, após a conclusão dos trabalhos, requerer a vistoria como prescreve o artigo 41.º, salvo se se tratar de instalações abrangidas pelo n.º 4.
 
-###### Art. 28.º - 1. Não necessitam de licença prévia para o estabelecimento nem para a exploração:
+Art. 28.º - 1. Não necessitam de licença prévia para o estabelecimento nem para a exploração:
 
 a) A substituição de transformadores de potência em postos de transformação ou subestações, desde que a nova potência não seja superior à autorizada ou a instalação esteja prevista para a nova potência e conste do projecto aprovado, e pequenas modificações com deslocação ou substituição do equipamento, desde que não diminua a segurança da instalação;
 
@@ -287,7 +350,7 @@ e) Substituição de aparelhos de medida, incluindo os respectivos transformador
 
 4. Os distribuidores deverão manter nos seus arquivos, devidamente actualizadas, as plantas das suas redes de distribuição de energia eléctrica em baixa tensão. Quando instalarem um novo posto de transformação para servir a rede de distribuição, carecendo ou não de licença de estabelecimento, terão de incluir no projecto as canalizações principais da rede de distribuição que assegurem a sua inserção na rede existente.
 
-###### Art. 29.º - 1. Com o fim de ser dispensada em todos os projectos a que se refere o artigo 15.º a inclusão dos desenhos, descrições, cálculos, etc., que sejam comuns a diversas instalações, poderão os distribuidores e os fabricantes de equipamentos e materiais para instalações eléctricas requerer a aprovação de um projecto de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.
+Art. 29.º - 1. Com o fim de ser dispensada em todos os projectos a que se refere o artigo 15.º a inclusão dos desenhos, descrições, cálculos, etc., que sejam comuns a diversas instalações, poderão os distribuidores e os fabricantes de equipamentos e materiais para instalações eléctricas requerer a aprovação de um projecto de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.
 
 2. O projecto a que se refere o número anterior será elaborado de acordo com o artigo 15.º, na parte aplicável, e será apresentado em triplicado se as instalações do requerente se situarem apenas dentro da área de uma direcção de fiscalização. Se a zona abrangida pelas instalações disser respeito a mais de uma direcção de fiscalização, o número de exemplares do projecto será aumentado em conformidade.
 
@@ -295,15 +358,15 @@ e) Substituição de aparelhos de medida, incluindo os respectivos transformador
 
 4. A aprovação do projecto das instalações tipo e dos elementos tipo das instalações compete ao director-geral dos Serviços Eléctricos.
 
-###### Art. 30.º - 1. Depois de comprovado o pagamento da respectiva taxa de compensação por meio de apresentação de duplicado da respectiva guia, a Repartição de Licenciamento enviará ao requerente um exemplar do projecto da instalação tipo ou dos elementos tipo das instalações devidamente visado.
+Art. 30.º - 1. Depois de comprovado o pagamento da respectiva taxa de compensação por meio de apresentação de duplicado da respectiva guia, a Repartição de Licenciamento enviará ao requerente um exemplar do projecto da instalação tipo ou dos elementos tipo das instalações devidamente visado.
 
 2. A partir da data em que lhe for dado conhecimento da aprovação do projecto das instalações tipo ou dos elementos tipo de instalações, poderá o requerente dispensar-se da apresentação daqueles elementos nos projectos que acompanhem os pedidos de licença de novas instalações.
 
-###### Art. 31.º - 1. Quando se tratar de instalações de certa importância ou cuja execução seja de justificada urgência, poderá o pedido de licença de estabelecimento a que se refere o artigo 15.º ser antecedido da apresentação de um requerimento solicitando autorização preliminar de estabelecimento, o qual será acompanhado de um anteprojecto da instalação, com base no qual pode ser autorizado o início dos trabalhos.
+Art. 31.º - 1. Quando se tratar de instalações de certa importância ou cuja execução seja de justificada urgência, poderá o pedido de licença de estabelecimento a que se refere o artigo 15.º ser antecedido da apresentação de um requerimento solicitando autorização preliminar de estabelecimento, o qual será acompanhado de um anteprojecto da instalação, com base no qual pode ser autorizado o início dos trabalhos.
 
 2. A autorização a que se refere o número anterior será sempre dada com a condição implícita de serem respeitados os legítimos direitos de terceiros, as disposições regulamentares de segurança e outras que se julguem de considerar na concessão da licença de estabelecimento.
 
-###### Art. 32.º - 1. O pedido de licença de estabelecimento de uma instalação eléctrica de serviço particular de 1.º categoria, que dela careça, será feito em requerimento, em papel selado, dirigido ao director-geral dos Serviços Eléctricos e acompanhado do respectivo projecto, em triplicado, elaborado e instruído de maneira análoga à fixada para as instalações de serviço público no artigo 15.º, observando-se o disposto no n.º 1 do artigo 16.º
+Art. 32.º - 1. O pedido de licença de estabelecimento de uma instalação eléctrica de serviço particular de 1.º categoria, que dela careça, será feito em requerimento, em papel selado, dirigido ao director-geral dos Serviços Eléctricos e acompanhado do respectivo projecto, em triplicado, elaborado e instruído de maneira análoga à fixada para as instalações de serviço público no artigo 15.º, observando-se o disposto no n.º 1 do artigo 16.º
 
 2. O projecto será acompanhado de um termo de responsabilidade pela sua elaboração prestado por um engenheiro electrotécnico ou engenheiro técnico de electrotecnia, de acordo com o disposto no artigo 17.º
 
@@ -311,7 +374,7 @@ e) Substituição de aparelhos de medida, incluindo os respectivos transformador
 
 ...
 
-###### Art. 41.º - 1. Findos os trabalhos de estabelecimento de uma instalação eléctrica de serviço público, exceptuando as abrangidas pelo n.º 4 do artigo 27.º e artigo 28.º, de uma instalação eléctrica de serviço particular de 1.ª e 2.ª categorias ou ainda de uma instalação de 5.ª categoria abrangida pelo n.º 2 do artigo 13.º, deverá o seu proprietário solicitar a sua vistoria mediante requerimento dirigido à respectiva direcção de fiscalização eléctrica.
+Art. 41.º - 1. Findos os trabalhos de estabelecimento de uma instalação eléctrica de serviço público, exceptuando as abrangidas pelo n.º 4 do artigo 27.º e artigo 28.º, de uma instalação eléctrica de serviço particular de 1.ª e 2.ª categorias ou ainda de uma instalação de 5.ª categoria abrangida pelo n.º 2 do artigo 13.º, deverá o seu proprietário solicitar a sua vistoria mediante requerimento dirigido à respectiva direcção de fiscalização eléctrica.
 
 2. Quando a instalação eléctrica puder entrar parcialmente em exploração, poderão aceitar-se pedidos de vistoria parcelares, quando devidamente justificados.
 
@@ -329,7 +392,7 @@ e) Substituição de aparelhos de medida, incluindo os respectivos transformador
 
 9. Recebidos os pedidos mencionados no número anterior, os distribuidores públicos de energia enviarão um exemplar dos desenhos à Direcção dos Serviços Radioeléctricos dos Correios e Telecomunicações de Portugal, que oportunamente procederá à vistoria, verificando se as instalações em causa produzem interferências na recepção radiotelegráfica, radiotelefónica ou de radiodifusão, procedendo de acordo com as disposições do [Decreto n.º 35447](https://diariodarepublica.pt/dr/detalhe/decreto/35447-1946-235509), de 8 de Janeiro de 1946. A Direcção dos Serviços Radioeléctricos imporá ao instalador as cláusulas que julgue convenientes com conhecimento ao distribuidor e aplicará as penalidades correspondentes. No caso de não ser possível tecnicamente eliminar as interferências, ou se tal eliminação se tornar demasiado demorada com prejuízo da recepção radioeléctrica, a Direcção dos Serviços Radioeléctricos informará o distribuidor para mandar desligar a instalação perturbadora até ao cumprimento das cláusulas, dando do facto conhecimento à respectiva direcção de fiscalização eléctrica.
 
-###### Art. 42.º - 1. Os requerimentos de vistoria referentes a instalações eléctricas de serviço público, ou de serviço particular de 1.º e 2.º categorias, deverão ser acompanhados de um termo de responsabilidade pela sua exploração, dispensando a sua apresentação se o termo de responsabilidade pela elaboração do projecto abranger também a responsabilidade pela exploração.
+Art. 42.º - 1. Os requerimentos de vistoria referentes a instalações eléctricas de serviço público, ou de serviço particular de 1.º e 2.º categorias, deverão ser acompanhados de um termo de responsabilidade pela sua exploração, dispensando a sua apresentação se o termo de responsabilidade pela elaboração do projecto abranger também a responsabilidade pela exploração.
 
 2. A responsabilidade pela exploração das instalações deve ser assumida por um engenheiro electrotécnico ou engenheiro técnico da especialidade de electrotecnia. Para instalações de tensão até 30 kV e potência até 250 kVA o termo de responsabilidade pode ser assinado por um montador electricista com o curso das escolas industriais ou equivalente.
 
@@ -339,7 +402,7 @@ e) Substituição de aparelhos de medida, incluindo os respectivos transformador
 
 5. Se o pedido de vistoria não for acompanhado do termo de responsabilidade, no caso de este ter sido apresentado anteriormente, deverá o requerimento ser assinado também pelo técnico responsável.
 
-###### Art. 43.º - 1. O director da fiscalização eléctrica respectiva mandará proceder à vistoria, na qual se verificará se o estabelecimento da instalação satisfaz a todas as prescrições de segurança regulamentares e regras da técnica, fazendo-se as medições e ensaios necessários para apreciar devidamente as condições do seu funcionamento e de segurança na exploração, devendo os funcionários que procederem à vistoria elaborar um relatório, do qual constarão os resultados das medidas e ensaios efectuados, bem como o seu parecer e propostas fundamentadas sobre o assunto, tendo especialmente em vista a segurança das pessoas ou coisas e a da exploração, não só da instalação vistoriada, mas também das outras instalações, eléctricas ou não, preexistentes.
+Art. 43.º - 1. O director da fiscalização eléctrica respectiva mandará proceder à vistoria, na qual se verificará se o estabelecimento da instalação satisfaz a todas as prescrições de segurança regulamentares e regras da técnica, fazendo-se as medições e ensaios necessários para apreciar devidamente as condições do seu funcionamento e de segurança na exploração, devendo os funcionários que procederem à vistoria elaborar um relatório, do qual constarão os resultados das medidas e ensaios efectuados, bem como o seu parecer e propostas fundamentadas sobre o assunto, tendo especialmente em vista a segurança das pessoas ou coisas e a da exploração, não só da instalação vistoriada, mas também das outras instalações, eléctricas ou não, preexistentes.
 
 2. Tratando-se de instalações eléctricas de serviço público, se a vistoria não for efectuada nos trinta dias seguintes ao pedido de vistoria, poderá o requerente dar início à exploração, dando disso conhecimento à direcção de fiscalização eléctrica respectiva e enviando cópia à Repartição de Licenciamento.
 
@@ -355,11 +418,11 @@ e) Substituição de aparelhos de medida, incluindo os respectivos transformador
 
 8. As vistorias, quer sejam efectuadas por pessoal da direcção de fiscalização eléctrica, quer por pessoal dos distribuidores públicos, deverão ser efectuadas na companhia do técnico responsável da respectiva instalação eléctrica ou de um seu delegado devidamente qualificado.
 
-###### Art. 44.º - 1. Se no decorrer dos trabalhos de estabelecimento de uma instalação eléctrica ou depois da sua conclusão os Correios e Telecomunicações de Portugal verificarem qualquer falta de cumprimento das normas técnicas relativas a interferências com as linhas de telecomunicação, deverão comunicá-la à Direcção-Geral dos Serviços Eléctricos, a fim de serem tomadas as necessárias providências, com vista à eliminação de anomalias.
+Art. 44.º - 1. Se no decorrer dos trabalhos de estabelecimento de uma instalação eléctrica ou depois da sua conclusão os Correios e Telecomunicações de Portugal verificarem qualquer falta de cumprimento das normas técnicas relativas a interferências com as linhas de telecomunicação, deverão comunicá-la à Direcção-Geral dos Serviços Eléctricos, a fim de serem tomadas as necessárias providências, com vista à eliminação de anomalias.
 
 2. A doutrina do número anterior é igualmente aplicável a outras instalações de serviço público a cargo do Estado.
 
-###### Art. 45.º - 1. Vistoriada a instalação, se ela for encontrada em boas condições de segurança e de acordo com o projecto aprovado ou apresentado, o técnico que tiver efectuado a vistoria passará imediatamente a licença de exploração.
+Art. 45.º - 1. Vistoriada a instalação, se ela for encontrada em boas condições de segurança e de acordo com o projecto aprovado ou apresentado, o técnico que tiver efectuado a vistoria passará imediatamente a licença de exploração.
 
 2. Se a instalação apresentar deficiências que não colidam com a segurança das pessoas, ou não estiver concluída de acordo com o projecto aprovado ou apresentado, o técnico que tiver efectuado a vistoria autorizará provisoriamente a exploração. Para evitar as deficiências, o técnico imporá, no acto da vistoria ou posteriormente, as cláusulas que julgar necessárias para garantir a protecção das pessoas e coisas, a segurança da exploração da instalação vistoriada e de outras com ela relacionadas e a salvaguarda do interesse colectivo, fixando um prazo suficiente para a execução dos trabalhos.
 
@@ -369,29 +432,29 @@ e) Substituição de aparelhos de medida, incluindo os respectivos transformador
 
 5. A requerimento do interessado, poderá ser concedida a prorrogação do prazo indicado no n.º 2 para cumprimento das cláusulas, quando devidamente justificado.
 
-###### Art. 46.º - 1. Se no acto da vistoria às instalações de serviço público que não tenham sido objecto de licença de estabelecimento o técnico encarregado da vistoria não entregar o projecto visado à entidade interessada, ser-lhe-á o mesmo enviado no prazo de trinta dias.
+Art. 46.º - 1. Se no acto da vistoria às instalações de serviço público que não tenham sido objecto de licença de estabelecimento o técnico encarregado da vistoria não entregar o projecto visado à entidade interessada, ser-lhe-á o mesmo enviado no prazo de trinta dias.
 
 2. Para as instalações já vistoriadas e em exploração à data da publicação deste decreto-lei, e cujo relatório de vistoria tenha sido enviado à Repartição de Licenciamento, a licença de exploração será concedida por esta Repartição e comunicada, por ofício, à entidade interessada.
 
 Para as restantes instalações já vistoriadas aplicar-se-á o regime do artigo anterior.
 
-###### Art. 47.º - 1. Para as instalações eléctricas de serviço particular de 2.º categoria cuja vistoria tenha sido delegada no respectivo distribuidor proceder-se-á de forma análoga ao indicado no artigo 45.º, dando conhecimento à respectiva direcção de fiscalização.
+Art. 47.º - 1. Para as instalações eléctricas de serviço particular de 2.º categoria cuja vistoria tenha sido delegada no respectivo distribuidor proceder-se-á de forma análoga ao indicado no artigo 45.º, dando conhecimento à respectiva direcção de fiscalização.
 
 2. O distribuidor só ligará à sua rede a instalação se ela satisfizer ao prescrito no n.º 4 do artigo 45.º e discriminará todas as deficiências verificadas, devolvendo o projecto que anteriormente lhe fora remetido pela direcção de fiscalização eléctrica, que oportunamente efectuará a vistoria.
 
 ...
 
-###### Art. 61.º - 1. A falta de remessa do projecto a que se refere o n.º 3 do artigo 27.º ou a falta da comunicação a que se refere o n.º 3 do artigo 28.º dará lugar à aplicação da multa de 500$00, que, em caso de reincidência, será elevada até 5000$00.
+Art. 61.º - 1. A falta de remessa do projecto a que se refere o n.º 3 do artigo 27.º ou a falta da comunicação a que se refere o n.º 3 do artigo 28.º dará lugar à aplicação da multa de 500$00, que, em caso de reincidência, será elevada até 5000$00.
 
 2. A falta de apresentação dentro do prazo do elemento a que se refere o n.º 4 do artigo 27.º dará lugar à aplicação da multa de 1000$00, que, em caso de reincidência, pode ser elevada até 10000$00.
 
 ...
 
-###### Art. 63.º Se no estabelecimento de uma instalação eléctrica não forem cumpridas as cláusulas que tenham sido impostas pela Direcção-Geral dos Serviços Eléctricos, nos termos do n.º 1 do artigo 18.º, o infractor será punido com a multa de 2000$00 por cada cláusula que não tiver sido cumprida. Estas cláusulas serão novamente impostas pelo respectivo director de fiscalização eléctrica juntamente com aquelas cuja necessidade tenha sido demonstrada pela vistoria.
+Art. 63.º Se no estabelecimento de uma instalação eléctrica não forem cumpridas as cláusulas que tenham sido impostas pela Direcção-Geral dos Serviços Eléctricos, nos termos do n.º 1 do artigo 18.º, o infractor será punido com a multa de 2000$00 por cada cláusula que não tiver sido cumprida. Estas cláusulas serão novamente impostas pelo respectivo director de fiscalização eléctrica juntamente com aquelas cuja necessidade tenha sido demonstrada pela vistoria.
 
 ...
 
-###### Art. 65.º - 1. A entidade exploradora de uma instalação eléctrica de serviço público ou de uma instalação eléctrica de serviço particular de 1.º, 2.º ou 3.º categoria que tenha sido legalmente estabelecida, mas que se encontre em exploração antes de efectuada a vistoria, ou à qual tenha sido recusada a autorização provisória para a exploração a que se refere o n.º 3 do artigo 45.º, incorrerá numa pena de multa, que será graduada conforme a importância da instalação, não sendo nunca inferior a 2000$00 nem superior a 20000$00 se a instalação for de serviço público, e não sendo inferior a 1000$00 nem superior a 10000$00 se a instalação for de serviço particular.
+Art. 65.º - 1. A entidade exploradora de uma instalação eléctrica de serviço público ou de uma instalação eléctrica de serviço particular de 1.º, 2.º ou 3.º categoria que tenha sido legalmente estabelecida, mas que se encontre em exploração antes de efectuada a vistoria, ou à qual tenha sido recusada a autorização provisória para a exploração a que se refere o n.º 3 do artigo 45.º, incorrerá numa pena de multa, que será graduada conforme a importância da instalação, não sendo nunca inferior a 2000$00 nem superior a 20000$00 se a instalação for de serviço público, e não sendo inferior a 1000$00 nem superior a 10000$00 se a instalação for de serviço particular.
 
 2. O infractor será intimado a suspender a exploração da sua instalação até que tenha obtido a respectiva autorização nos termos deste Regulamento.
 
@@ -399,9 +462,9 @@ Para as restantes instalações já vistoriadas aplicar-se-á o regime do artigo
 
 ...
 
-###### Art. 67.º O distribuidor público de energia eléctrica que ligar ou permitir a ligação à sua rede de uma instalação de 2.ª ou 3.ª categoria, sem ter obtido previamente a necessária autorização da respectiva direcção de fiscalização eléctrica, será punido com a multa de 2000$00.
+Art. 67.º O distribuidor público de energia eléctrica que ligar ou permitir a ligação à sua rede de uma instalação de 2.ª ou 3.ª categoria, sem ter obtido previamente a necessária autorização da respectiva direcção de fiscalização eléctrica, será punido com a multa de 2000$00.
 
-###### Art. 68.º - 1. A falta de cumprimento de quaisquer cláusulas impostas à entidade exploradora de uma instalação eléctrica, nos termos do artigo 45.º, quer essa imposição tenha resultado da primeira vistoria dessa instalação, quer seja consequência de uma revistoria realizada em outra qualquer ocasião, dará lugar, se a instalação for de serviço público, à aplicação de uma multa de 200$00 por cada cláusula que não tiver sido cumprida ou que o tenha sido de modo incompleto ou ineficaz, não devendo, em todo o caso, a multa ser inferior a 500$00 nem superior a 5000$00. Aplicada a multa, o director da fiscalização eléctrica fixará à entidade exploradora, para o cumprimento das cláusulas em falta, um novo prazo que seja suficiente para a execução de todos os trabalhos impostos.
+Art. 68.º - 1. A falta de cumprimento de quaisquer cláusulas impostas à entidade exploradora de uma instalação eléctrica, nos termos do artigo 45.º, quer essa imposição tenha resultado da primeira vistoria dessa instalação, quer seja consequência de uma revistoria realizada em outra qualquer ocasião, dará lugar, se a instalação for de serviço público, à aplicação de uma multa de 200$00 por cada cláusula que não tiver sido cumprida ou que o tenha sido de modo incompleto ou ineficaz, não devendo, em todo o caso, a multa ser inferior a 500$00 nem superior a 5000$00. Aplicada a multa, o director da fiscalização eléctrica fixará à entidade exploradora, para o cumprimento das cláusulas em falta, um novo prazo que seja suficiente para a execução de todos os trabalhos impostos.
 
 2. Se este prazo também não for respeitado, será o infractor considerado como reincidente e ser-lhe-á aplicada uma nova multa de 500$00 por cada cláusula, com o mínimo de 1000$00 e o máximo de 10000$00, seguida da fixação de um terceiro e último prazo.
 
@@ -415,8 +478,8 @@ Para as restantes instalações já vistoriadas aplicar-se-á o regime do artigo
 
 ...
 
-###### Art. 78.º - 1. As dúvidas que se suscitarem na aplicação deste Regulamento serão resolvidas por despacho do Ministro da Indústria e Tecnologia, mediante proposta do director-geral dos Serviços Eléctricos.
+Art. 78.º - 1. As dúvidas que se suscitarem na aplicação deste Regulamento serão resolvidas por despacho do Ministro da Indústria e Tecnologia, mediante proposta do director-geral dos Serviços Eléctricos.
 
 ...
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

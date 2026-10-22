@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1981-567469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3f25ac73279e509fbc5cc01b801073377a2bc39df17f0806a407f20799a04c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 020fb5e5ba942118e50fc8acf6c0315981a95aea4c21c3661af521835ccd1177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Pessoal Dirigente
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:428029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580164:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:48Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +106,22 @@ Considerando, finalmente, que importa integrar no actual quadro geral dos direct
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os directores e subdirectores do Instituto do Presidente Sidónio Pais passam a ser nomeados em regime de comissão de serviço, nos termos dos artigos 18.º e 19.º do [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164).
+Artigo 1.º - 1 - Os directores e subdirectores do Instituto do Presidente Sidónio Pais passam a ser nomeados em regime de comissão de serviço, nos termos dos artigos 18.º e 19.º do [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164).
 
 2 - Aos directores e subdirectores do referido Instituto providos definitivamente nos respectivos cargos à data da entrada em vigor deste diploma aplica-se o regime previsto no [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164) para os directores de distrito escolar e seus adjuntos providos definitivamente naqueles cargos à data da entrada em vigor do mencionado diploma.
 
-###### Art. 2.º - 1 - Aos directores do Instituto do Presidente Sidónio Pais compete o vencimento da letra D do funcionalismo público, atribuída aos directores escolares pelo [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164).
+Art. 2.º - 1 - Aos directores do Instituto do Presidente Sidónio Pais compete o vencimento da letra D do funcionalismo público, atribuída aos directores escolares pelo [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164).
 
 2 - Aos subdirectores do Instituto referido no número anterior compete o vencimento da letra E do funcionalismo público, atribuída aos subdirectores escolares pelo [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164).
 
-###### Art. 3.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa.
+Art. 3.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação e o disposto no artigo 2.º produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164).
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação e o disposto no artigo 2.º produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164).
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo.
 
-**Promulgado em 21 de Novembro de 1981.**
+Promulgado em 21 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

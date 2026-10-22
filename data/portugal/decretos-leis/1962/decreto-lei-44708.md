@@ -48,36 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44708-1962-155832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6afa907739e2a6e24157456fd22d4a42406932d80c7916f107a848e96130a1e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a9d96222d7f5d50bf92d496201860bcf557518c3d06aae682f6e914a06493cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Construção Naval
+- Contrato de Concessão
+- Definição de Competências
+- Indústria da Construção Naval
+- Isenção Fiscal
+- Licenciamento
+- Lisnave
+- Ministro da Economia
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:02Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +132,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Governo, pelo Ministério da Economia, a conceder à sociedade Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., licença para construir e explorar um estaleiro naval de construção e reparação de embarcações nacionais e estrangeiras na área do porto de Lisboa, nas condições do presente diploma.
+Artigo 1.º Fica autorizado o Governo, pelo Ministério da Economia, a conceder à sociedade Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., licença para construir e explorar um estaleiro naval de construção e reparação de embarcações nacionais e estrangeiras na área do porto de Lisboa, nas condições do presente diploma.
 
-###### Art. 2.º São criadas no porto de Lisboa, entre Cacilhas e a Base Naval de Lisboa, no Alfeite, zonas reservadas exclusivamente para a construção e protecção e para a futura expansão desse estaleiro.
+Art. 2.º São criadas no porto de Lisboa, entre Cacilhas e a Base Naval de Lisboa, no Alfeite, zonas reservadas exclusivamente para a construção e protecção e para a futura expansão desse estaleiro.
 
-###### Art. 3.º Essas zonas são definidas pelos limites indicados na planta anexa a este decreto-lei, como segue:
+Art. 3.º Essas zonas são definidas pelos limites indicados na planta anexa a este decreto-lei, como segue:
 
 Uma zona para a construção, confinando a oeste com a actual margem do rio Tejo entre Cacilhas e o Caramujo, a sul com a bacia da Base Naval e a norte e leste com o rio.
 
@@ -122,13 +144,13 @@ Uma zona de protecção, no rio.
 
 Três zonas para expansão, constituídas pelos terrenos pertencentes à Administração-Geral do Porto de Lisboa existentes de cada lado da estrada n.º 10 entre Cacilhas e o Caramujo.
 
-###### Art. 4.º A Lisnave fará à sua custa, na zona de construção, os aterros, docas, cais, molhes e outras obras da mesma natureza, à medida que se tornem necessárias de acordo com as fases de realização do estaleiro.
+Art. 4.º A Lisnave fará à sua custa, na zona de construção, os aterros, docas, cais, molhes e outras obras da mesma natureza, à medida que se tornem necessárias de acordo com as fases de realização do estaleiro.
 
 § 1.º A Administração-Geral do Porto de Lisboa regulará a utilização da zona de protecção a fim de que possa ser aproveitada para complemento da actividade do estaleiro, ficando a cargo da Lisnave as dragagens necessárias para esse aproveitamento.
 
 § 2.º A utilização das três zonas de expansão referidas no artigo 3.º terá de fazer-se de forma a garantir boas condições de circulação no troço da estrada nacional n.º 10 que lhes está adjacente. A Administração-Geral do Porto de Lisboa ajustará oportunamente com o Ministério das Obras Públicas as disposições a tomar para esse efeito.
 
-###### Art. 5.º Os locais de qualquer das zonas onde a Lisnave necessitar fazer obras para a construção ou expansão do estaleiro serão desafectados do domínio público e vendidos à Lisnave, a requerimento desta sociedade, embora sobre eles se mantenha a jurisdição da Administração-Geral do Porto de Lisboa.
+Art. 5.º Os locais de qualquer das zonas onde a Lisnave necessitar fazer obras para a construção ou expansão do estaleiro serão desafectados do domínio público e vendidos à Lisnave, a requerimento desta sociedade, embora sobre eles se mantenha a jurisdição da Administração-Geral do Porto de Lisboa.
 
 § 1.º As áreas fluviais e os terrenos de qualquer das zonas serão vendidos ao preço e nas condições que forem acordados entre a Administração-Geral do Porto de Lisboa e a Lisnave e aprovados em Conselho de Ministros.
 
@@ -136,56 +158,56 @@ Três zonas para expansão, constituídas pelos terrenos pertencentes à Adminis
 
 § 3.º As desafectações feitas ao abrigo deste decreto ficam dispensadas das formalidades impostas pela legislação em vigor.
 
-###### Art. 6.º Os locais vendidos à Lisnave ao abrigo deste diploma reverterão para o Estado se aquela sociedade deixar de exercer a sua actividade tanto de reparação como de construção de navios naqueles locais.
+Art. 6.º Os locais vendidos à Lisnave ao abrigo deste diploma reverterão para o Estado se aquela sociedade deixar de exercer a sua actividade tanto de reparação como de construção de navios naqueles locais.
 
-###### Art. 7.º Se esta reversão tiver lugar depois de decorridos dez anos de exploração do estaleiro, o Estado, através do Ministério das Comunicações, indemnizará a Lisnave por todas as obras portuárias fixas, edifícios e equipamentos, uns e outros indispensáveis ao funcionamento das docas existentes nos locais revertidos. A indemnização será estabelecida pelo justo valor dessas obras, edifícios e equipamentos à data da reversão, consideradas as amortizações técnicas normais.
+Art. 7.º Se esta reversão tiver lugar depois de decorridos dez anos de exploração do estaleiro, o Estado, através do Ministério das Comunicações, indemnizará a Lisnave por todas as obras portuárias fixas, edifícios e equipamentos, uns e outros indispensáveis ao funcionamento das docas existentes nos locais revertidos. A indemnização será estabelecida pelo justo valor dessas obras, edifícios e equipamentos à data da reversão, consideradas as amortizações técnicas normais.
 
 § único. A avaliação desses bens será efectuada por uma comissão composta por três peritos, sendo um nomeado pelo Ministro das Comunicações, outro pela Lisnave e o terceiro por acordo entre os dois e, na falta de acordo, pelo presidente do Supremo Tribunal de Justiça.
 
-###### Art. 8.º As zonas indicadas no artigo 2.º serão demarcadas em carta do porto de Lisboa à escala de 1:2500.
+Art. 8.º As zonas indicadas no artigo 2.º serão demarcadas em carta do porto de Lisboa à escala de 1:2500.
 
-###### Art. 9.º É concedida à sociedade Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., isenção de quaisquer taxas ou impostos do Estado e dos corpos administrativos, salvo o imposto do selo, pelo período de quinze anos, a contar do começo da exploração.
+Art. 9.º É concedida à sociedade Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., isenção de quaisquer taxas ou impostos do Estado e dos corpos administrativos, salvo o imposto do selo, pelo período de quinze anos, a contar do começo da exploração.
 
-###### Art. 10.º As embarcações que venham a Lisboa exclusivamente para reparar ou desmanchar e as que forem construídas pela Lisnave nos seus estaleiros serão isentas do pagamento de quaisquer taxas de porto.
+Art. 10.º As embarcações que venham a Lisboa exclusivamente para reparar ou desmanchar e as que forem construídas pela Lisnave nos seus estaleiros serão isentas do pagamento de quaisquer taxas de porto.
 
-###### Art. 11.º Sem prejuízo das disposições do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, os materiais e equipamentos destinados à construção e apetrechamento do estaleiro naval serão isentos de direitos de importação, por despacho do Ministro das Finanças, depois de ouvido o Ministério da Economia sobre se os mesmos têm aplicação na construção e apetrechamento do referido estaleiro e se nele serão utilizados sob fiscalização dos seus serviços competentes.
+Art. 11.º Sem prejuízo das disposições do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, os materiais e equipamentos destinados à construção e apetrechamento do estaleiro naval serão isentos de direitos de importação, por despacho do Ministro das Finanças, depois de ouvido o Ministério da Economia sobre se os mesmos têm aplicação na construção e apetrechamento do referido estaleiro e se nele serão utilizados sob fiscalização dos seus serviços competentes.
 
 § único. Para efeito do disposto neste artigo deve a entidade interessada, ao requerer ao Ministro das Finanças a isenção de direitos, fazer acompanhar o seu pedido de lista, em triplicado, do material que deseja importar, suas características essenciais, preço e despesas acessórias, incluindo direitos de importação.
 
-###### Art. 12.º Os materiais e equipamentos a que se refere o artigo antecedente, quando desviados do destino ou aplicação por virtude dos quais beneficiaram da isenção de direitos, serão considerados em descaminho de direitos.
+Art. 12.º Os materiais e equipamentos a que se refere o artigo antecedente, quando desviados do destino ou aplicação por virtude dos quais beneficiaram da isenção de direitos, serão considerados em descaminho de direitos.
 
 § único. Aos serviços competentes do Ministério da Economia cumpre fazer comunicação imediata à Direcção-Geral das Alfândegas sempre que tenham conhecimento de desvios de destino ou aplicação dos materiais ou equipamentos importados com isenção de direitos ao abrigo do artigo anterior.
 
-###### Art. 13.º Os aparelhos, máquinas e materiais destinados à construção de embarcações para o estrangeiro têm despacho de reexportação.
+Art. 13.º Os aparelhos, máquinas e materiais destinados à construção de embarcações para o estrangeiro têm despacho de reexportação.
 
 § 1.º Os direitos de importação correspondentes serão garantidos por depósito ou fiança, até que a alfândega verifique a aplicação dos aparelhos, máquinas e materiais e o ulterior destino das embarcações.
 
 § 2.º A autorização para despacho das mercadorias a que se refere o presente artigo será concedida pela alfândega desde que o Ministro das Finanças tenha autorizado prèviamente a aplicação, para a construção, do regime estabelecido.
 
-###### Art. 14.º Os aprestos, sobresselentes e os aparelhos, máquinas e materiais destinados à reparação de embarcações de nacionalidade estrangeira têm também despacho de reexportação.
+Art. 14.º Os aprestos, sobresselentes e os aparelhos, máquinas e materiais destinados à reparação de embarcações de nacionalidade estrangeira têm também despacho de reexportação.
 
-###### Art. 15.º Cumpre aos directores das alfândegas adoptar as necessárias medidas de fiscalização, a fim de evitar que os aparelhos, máquinas e materiais despachados ao abrigo dos artigos 13.º e 14.º tenham aplicação diversa daquela que foi declarada pelo interessado.
+Art. 15.º Cumpre aos directores das alfândegas adoptar as necessárias medidas de fiscalização, a fim de evitar que os aparelhos, máquinas e materiais despachados ao abrigo dos artigos 13.º e 14.º tenham aplicação diversa daquela que foi declarada pelo interessado.
 
-###### Art. 16.º Sempre que se prove que os aparelhos, máquinas e materiais despachados ao abrigo dos artigos 13.º e 14.º deste diploma tiveram destino diferente do que lhes foi autorizado será instaurado o correspondente processo fiscal por descaminho de direitos.
+Art. 16.º Sempre que se prove que os aparelhos, máquinas e materiais despachados ao abrigo dos artigos 13.º e 14.º deste diploma tiveram destino diferente do que lhes foi autorizado será instaurado o correspondente processo fiscal por descaminho de direitos.
 
-###### Art. 17.º Os aparelhos, máquinas e materiais substituídos ou os que sobejarem dos trabalhos realizados, quando tenham valor para direitos, podem, com a autorização da alfândega, ter os seguintes destinos: ser despachados para consumo ou reexportados; dar entrada em depósitos fiscalizados, acompanhados da competente guia, cobrando-se recibo que ficará junto ao processo do navio; ficar a bordo como sobresselentes, se a alfândega não vir nisso inconveniente fiscal, sendo logo inscritos na respectiva lista regulamentar.
+Art. 17.º Os aparelhos, máquinas e materiais substituídos ou os que sobejarem dos trabalhos realizados, quando tenham valor para direitos, podem, com a autorização da alfândega, ter os seguintes destinos: ser despachados para consumo ou reexportados; dar entrada em depósitos fiscalizados, acompanhados da competente guia, cobrando-se recibo que ficará junto ao processo do navio; ficar a bordo como sobresselentes, se a alfândega não vir nisso inconveniente fiscal, sendo logo inscritos na respectiva lista regulamentar.
 
-###### Art. 18.º Logo que fiquem concluídos os trabalhos de construção de cada embarcação deverá o estaleiro naval, por intermédio do seu serviço competente, participar à alfândega em declaração assinada, indicando a quantidade e a qualidade de quaisquer materiais que porventura hajam sobejado.
+Art. 18.º Logo que fiquem concluídos os trabalhos de construção de cada embarcação deverá o estaleiro naval, por intermédio do seu serviço competente, participar à alfândega em declaração assinada, indicando a quantidade e a qualidade de quaisquer materiais que porventura hajam sobejado.
 
 § único. Recebida a referida declaração realizar-se-á imediatamente, ex officio, a verificação da aplicação dos materiais, em face dos talões das guias de reexportação respectivas, devendo ser exarado na aludida declaração o resultado da verificação efectuada.
 
-###### Art. 19.º As embarcações construídas com destino ao estrangeiro, não obstante o regime aduaneiro a que ficaram sujeitos os aparelhos, máquinas e materiais nelas empregados, serão isentas de direitos de exportação.
+Art. 19.º As embarcações construídas com destino ao estrangeiro, não obstante o regime aduaneiro a que ficaram sujeitos os aparelhos, máquinas e materiais nelas empregados, serão isentas de direitos de exportação.
 
-###### Art. 20.º As actividades do actual estaleiro naval da Administração-Geral do Porto de Lisboa e a do novo estaleiro deverão ser coordenadas no sentido da desejada unidade de exploração, através de acordo a estabelecer para tal fim entre as respectivas empresas.
+Art. 20.º As actividades do actual estaleiro naval da Administração-Geral do Porto de Lisboa e a do novo estaleiro deverão ser coordenadas no sentido da desejada unidade de exploração, através de acordo a estabelecer para tal fim entre as respectivas empresas.
 
 Para tanto, fica a Administração-Geral do Porto de Lisboa, mediante aprovação do Ministro das Comunicações, autorizada a alterar o actual contrato de exploração do seu estaleiro naval, permitindo que a Lisnave possa tomar de traspasse a concessão do referido estaleiro ou contratar ou acordar com a actual concessionária a exploração, administração ou gerência do citado estaleiro, sem haver pròpriamente traspasse da concessão.
 
-###### Art. 21.º Fica revogado o Decreto nº 29603, de 16 de Maio de 1939.
+Art. 21.º Fica revogado o Decreto nº 29603, de 16 de Maio de 1939.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/26700/15371540.pdf))](https://files.diariodarepublica.pt/1s/1962/11/26700/15371540.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/26700/15371540.pdf)
 
 Ministérios das Finanças, da Marinha, da Economia e das Comunicações, 20 de Novembro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

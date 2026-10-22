@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1971-642956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 097962001623446c22fa4f98711d4f9edda38716500abf317b5f94a1a3cded6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0df7a415757296f09b2c9891a21d71ae786822266377a100a1a07a84f860583
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Serra da Estrela
+- Turismo
+- Turistrela
 relationships:
 - type: amended_by
   target: pt:dre:221287:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:34Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ A existência de uma concessão em exclusivo e as particularidades de uma empres
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É outorgada a Turismo da Serra da Estrela, Turistrela, S. A. R. L., empresa de economia mista, a constituir de acordo com a [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, a concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela.
+Artigo 1.º É outorgada a Turismo da Serra da Estrela, Turistrela, S. A. R. L., empresa de economia mista, a constituir de acordo com a [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, a concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela.
 
 Art.2.º - 1. São aprovadas as bases do respectivo contrato de concessão do exclusivo, anexas ao presente decreto-lei, que, para todos os efeitos, são consideradas como fazendo dele parte integrante.
 
@@ -112,33 +124,33 @@ Art.2.º - 1. São aprovadas as bases do respectivo contrato de concessão do ex
 
 5. Poderão ainda ser integradas na zona do exclusivo, se nisso acordarem o Estado e a concessionária, determinadas áreas e os estabelecimentos que interessem ao exercício de actividades relacionadas com a exploração do turismo na serra da Estrela.
 
-###### Art. 3.º - 1. No contrato administrativo de concessão outorgará, por parte do Estado, o Secretário de Estado da Informação e Turismo.
+Art. 3.º - 1. No contrato administrativo de concessão outorgará, por parte do Estado, o Secretário de Estado da Informação e Turismo.
 
 2. Os poderes do concedente no que respeita ao objecto desta concessão serão igualmente exercidos pelo Secretário de Estado da Informação e Turismo, depois de ouvidos, conforme a natureza dos interesses em jogo, os Ministérios competentes.
 
-###### Art. 4.º - 1. A aprovação dos planos de urbanização das áreas incluídas na zona da concessão, e de que obrigatóriamente deverão constar as localizações dos conjuntos turísticos, pertence conjuntamente ao Ministério das Obras Públicas e ao Secretário de Estado da Informação e Turismo, ouvidas as instâncias competentes.
+Art. 4.º - 1. A aprovação dos planos de urbanização das áreas incluídas na zona da concessão, e de que obrigatóriamente deverão constar as localizações dos conjuntos turísticos, pertence conjuntamente ao Ministério das Obras Públicas e ao Secretário de Estado da Informação e Turismo, ouvidas as instâncias competentes.
 
 2. Se no prazo de cento e vinte dias a contar da entrega, pela empresa concessionária, dos respectivos projectos de planos de urbanização, não recair sobre os mesmos despacho definitivo, consideram-se estes aprovados.
 
-###### Art. 5.º - 1. A aprovação dos projectos das obras integradas nos conjuntos turísticos é da competência da Direcção-Geral do Turismo, com audiência prévia e vinculante de outras entidades ou serviços a que, nos termos da lei, houver lugar.
+Art. 5.º - 1. A aprovação dos projectos das obras integradas nos conjuntos turísticos é da competência da Direcção-Geral do Turismo, com audiência prévia e vinculante de outras entidades ou serviços a que, nos termos da lei, houver lugar.
 
 2. Se a Direcção-Geral do Turismo não se pronunciar definitivamente no prazo de cento e vinte dias, a contar da apresentação dos projectos, considerar-se-ão os mesmos aprovados.
 
-###### Art. 6.º Compete à câmara municipal do concelho onde se localizar a obra a atribuição das licenças de construção, de harmonia com os planos de urbanização e os projectos aprovados, devendo o respectivo alvará ser expedido no prazo de cinco dias.
+Art. 6.º Compete à câmara municipal do concelho onde se localizar a obra a atribuição das licenças de construção, de harmonia com os planos de urbanização e os projectos aprovados, devendo o respectivo alvará ser expedido no prazo de cinco dias.
 
-###### Art. 7.º O prazo da presente concessão é de sessenta anos, contados a partir da data da celebração do respectivo contrato.
+Art. 7.º O prazo da presente concessão é de sessenta anos, contados a partir da data da celebração do respectivo contrato.
 
-###### Art. 8.º - 1. Os limites máximos das taxas e dos preços a cobrar, relativos aos vários serviços explorados na zona da concessão, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo nos termos legais, sob proposta da concessionária.
+Art. 8.º - 1. Os limites máximos das taxas e dos preços a cobrar, relativos aos vários serviços explorados na zona da concessão, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo nos termos legais, sob proposta da concessionária.
 
 2. Se o Governo não se pronunciar definitivamente, no prazo de sessenta dias, a contar da apresentação das propostas de fixação ou alteração de taxas e das regras de aplicação, consideram-se as mesmas aprovadas.
 
-###### Art. 9.º - 1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
+Art. 9.º - 1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
 
 2. Consideram-se aprovados os regulamentos apresentados pela concessionária, decorridos noventa dias a partir da apresentação, se o Governo não se pronunciar definitivamente sobre o seu conteúdo.
 
-###### Art. 10.º Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de penas de multas até 500$00, acrescidos de um terço por cada reincidência, cujo produto reverterá para o Estado.
+Art. 10.º Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de penas de multas até 500$00, acrescidos de um terço por cada reincidência, cujo produto reverterá para o Estado.
 
-###### Art. 11.º - 1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:
+Art. 11.º - 1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:
 
 a) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;
 
@@ -148,7 +160,7 @@ c) Concessão do regime de importação temporária para os equipamentos, ferram
 
 2. A isenção prevista na alínea a) do n.º 1 deste artigo não abrange o imposto de transacções nem o imposto extraordinário para defesa e valorização do ultramar.
 
-###### Art. 12.º - 1. A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., constituir-se-á com um capital social inicial de 60000000$00, elevável, por simples deliberação do conselho de administração, até 120000000$00.
+Art. 12.º - 1. A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., constituir-se-á com um capital social inicial de 60000000$00, elevável, por simples deliberação do conselho de administração, até 120000000$00.
 
 2. A participação do sector público e do sector privado no capital social inicial traduzir-se-á, respectivamente, em 31000000$00 e 29000000$00.
 
@@ -162,25 +174,25 @@ c) Concessão do regime de importação temporária para os equipamentos, ferram
 
 7. O Fundo de Turismo goza do direito de preferência no rateio dos aumentos de capital social que couberem aos entes públicos e por estes não subscritos.
 
-###### Art. 13.º - 1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.
+Art. 13.º - 1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.
 
 2. A Comissão Regional de Turismo da Serra da Estrela e as autarquias locais não poderão negociar as acções que possuam na sociedade.
 
-###### Art. 14.º - 1. O conselho de administração da sociedade será constituído por cinco administradores, três em representação do sector público e dois em representação do sector privado.
+Art. 14.º - 1. O conselho de administração da sociedade será constituído por cinco administradores, três em representação do sector público e dois em representação do sector privado.
 
 2. Na representação do sector público haverá um administrador pelo Fundo de Turismo, outro pela Comissão Regional de Turismo da Serra da Estrela e o terceiro pelas câmaras municipais e juntas de freguesia.
 
 3. Os dois administradores pelo sector privado serão eleitos em assembleia geral constituída apenas pelos accionistas deste sector.
 
-###### Art. 15.º - 1. O administrador por parte do Fundo de Turismo será nomeado pela comissão administrativa do Fundo e terá todos os direitos e obrigações que o [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, atribui aos administradores nomeados pelo Governo.
+Art. 15.º - 1. O administrador por parte do Fundo de Turismo será nomeado pela comissão administrativa do Fundo e terá todos os direitos e obrigações que o [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, atribui aos administradores nomeados pelo Governo.
 
 2. O Fundo de Turismo terá um administrador na sociedade enquanto dispuser na mesma uma participação accionista de pelo menos 10 por cento do capital social.
 
 3. Enquanto existir na empresa um administrador pelo Fundo de Turismo o Estado não usará da faculdade do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), quanto à nomeação de administradores pelo Governo.
 
-###### Art. 16.º A Comissão Regional de Turismo da Serra da Estrela nomeará, em reunião extraordinária especialmente convocada pelo seu presidente para esse fim, o administrador que a representará na sociedade, devendo a escolha recair sobre um indivíduo com residência habitual na região de turismo.
+Art. 16.º A Comissão Regional de Turismo da Serra da Estrela nomeará, em reunião extraordinária especialmente convocada pelo seu presidente para esse fim, o administrador que a representará na sociedade, devendo a escolha recair sobre um indivíduo com residência habitual na região de turismo.
 
-###### Art. 17.º - 1. O administrador por parte das câmaras municipais e juntas de freguesia será eleito em reunião de representantes destas autarquias locais expressamente realizadas para esse fim, devendo a escolha recair sobre indivíduo com residência habitual na região de turismo.
+Art. 17.º - 1. O administrador por parte das câmaras municipais e juntas de freguesia será eleito em reunião de representantes destas autarquias locais expressamente realizadas para esse fim, devendo a escolha recair sobre indivíduo com residência habitual na região de turismo.
 
 2. O número de votos de cada representante das câmaras municipais e das juntas de freguesia na reunião eleitoral será proporcional às acções que dispuserem na sociedade.
 
@@ -194,31 +206,31 @@ Art.18.º - 1. O mandato dos administradores por parte do sector público tem a 
 
 2. É admitida a recondução expressa do administrador pelo Fundo de Turismo e a reeleição dos administradores pela Comissão Regional de Turismo e pelas câmaras municipais e juntas de freguesia.
 
-###### Art. 19.º O presidente do conselho administrativo será designado pelo Secretário de Estado da Informação e Turismo, de entre os administradores que tenham residência habitual na área da região de turismo.
+Art. 19.º O presidente do conselho administrativo será designado pelo Secretário de Estado da Informação e Turismo, de entre os administradores que tenham residência habitual na área da região de turismo.
 
-###### Art. 20.º - 1. O conselho fiscal da sociedade será composto por três membros efectivos e um suplente.
+Art. 20.º - 1. O conselho fiscal da sociedade será composto por três membros efectivos e um suplente.
 
 2. O presidente do conselho fiscal será nomeado pelo Secretário de Estado da Informação e Turismo entre os indivíduos com residência habitual na região de turismo.
 
 3. Os restantes vogais do conselho fiscal serão eleitos em assembleia constituída por todos os accionistas, com excepção do Fundo de Turismo.
 
-###### Art. 21.º A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., terá a sua sede na Covilhã.
+Art. 21.º A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., terá a sua sede na Covilhã.
 
 Visto o aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 12 de Julho de 1971.**
+Promulgado em 12 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/17600/11001106.pdf))](https://files.diariodarepublica.pt/1s/1971/07/17600/11001106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/17600/11001106.pdf)
 
-**O Presidente do Conselho, Marcello Caetano.**
+O Presidente do Conselho, Marcello Caetano.
 
-## Anexo ao Decreto-Lei n.º 325/71
+Anexo ao Decreto-Lei n.º 325/71
 
 Bases do contrato da concessão a Turismo da Serra da Estrela, Turistrela, S. A. R. L., do exclusivo da exploração do turismo e dos desportos na serra da Estrela.
 
@@ -538,4 +550,4 @@ BASE XXX
 
 3. O tribunal julgará segundo a equidade, e das suas decisões não cabe recurso.
 
-**O Presidente do Conselho, Marcello Caetano.**
+O Presidente do Conselho, Marcello Caetano.

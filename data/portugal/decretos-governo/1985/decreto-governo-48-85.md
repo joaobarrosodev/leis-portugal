@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/48-1985-170487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 255653aee3728983aa9be0047af3c50b3acef3054d79fcbd74d92d6935baac83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cbf81bdc4f6d735bcae1216dad8ad3dbbbeb718f10cc438101231a80c7d0394
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Portugal
+- TIR
+- Transporte de Mercadorias
+relationships:
+- type: cites
+  target: pt:dre:452546:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:29Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Considerando que a Convenção Aduaneira Relativa ao Transporte Internacional de
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. O texto em francês e a respectiva tradução em português da Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias Efectuado ao abrigo de Cadernetas TIR (Convenção TIR- 1975), aprovada para adesão pelo [Decreto n.º 102/78](https://diariodarepublica.pt/dr/detalhe/decreto/102-1978-452546), de 20 de Setembro, são alterados pela forma seguinte:
+Artigo único. O texto em francês e a respectiva tradução em português da Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias Efectuado ao abrigo de Cadernetas TIR (Convenção TIR- 1975), aprovada para adesão pelo [Decreto n.º 102/78](https://diariodarepublica.pt/dr/detalhe/decreto/102-1978-452546), de 20 de Setembro, são alterados pela forma seguinte:
 
 Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR (Convention TIR).
 
@@ -116,12 +124,12 @@ Se a garantia for posta em causa relativamente a mercadorias não enumeradas na 
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Alípio Barrosa Pereira Dias - Carlos Montez Melancia.
 
-**Assinado em 5 de Novembro de 1985.**
+Assinado em 5 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1985.**
+Referendado em 12 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

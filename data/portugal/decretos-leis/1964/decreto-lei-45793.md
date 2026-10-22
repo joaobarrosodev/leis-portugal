@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45793-1964-578094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 865e8e75344bf8fc6e5a087e96173c20d36314814ff5cb29ad87e64ee516282a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 922359e3a172926fa12e99a574b0ab8436eb91e0d1f3dc577e90138558cc7cff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arborização
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Administrativo
+- Definição de Competências
+- Exploração Florestal
+- Formas de Provimento
+- Fundo de Fomento Florestal e Aquícola
+- Mobilidade de Pessoal
+- Orgânica
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:163836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683441:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:41Z'
   warnings: []
   errors: []
 ---
@@ -91,31 +118,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ao Fundo de Fomento Florestal e Aquícola, dotado de autonomia administrativa e financeira, nos termos do artigo 1.º do [Decreto-Lei n.º 44481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44481-1962-163836), de 26 de Julho de 1962, compete arrecadar todas as receitas e outros recursos que lhe estejam ou venham a estar consignados e movimentar os seus fundos pela sua tesouraria privativa.
+Artigo 1.º Ao Fundo de Fomento Florestal e Aquícola, dotado de autonomia administrativa e financeira, nos termos do artigo 1.º do [Decreto-Lei n.º 44481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44481-1962-163836), de 26 de Julho de 1962, compete arrecadar todas as receitas e outros recursos que lhe estejam ou venham a estar consignados e movimentar os seus fundos pela sua tesouraria privativa.
 
 § único. As receitas e demais recursos a que se refere o corpo deste artigo fazem parte do património do Fundo de Fomento Florestal e Aquícola e serão depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência, e a sua movimentação far-se-á por cheques assinados pelo presidente e por um dos vogais do conselho administrativo.
 
-###### Art. 2.º Quando, por força de outras disposições legais, alguns dos meios financeiros a que se refere o artigo anterior devam ser cobrados por outros serviços ou organismos, designadamente os tribunais, serão por eles depositados na Caixa Geral dos Depósitos, Crédito e Previdência, à ordem do Fundo de Fomento Florestal e Aquícola, até ao fim do mês seguinte ao da sua cobrança.
+Art. 2.º Quando, por força de outras disposições legais, alguns dos meios financeiros a que se refere o artigo anterior devam ser cobrados por outros serviços ou organismos, designadamente os tribunais, serão por eles depositados na Caixa Geral dos Depósitos, Crédito e Previdência, à ordem do Fundo de Fomento Florestal e Aquícola, até ao fim do mês seguinte ao da sua cobrança.
 
-###### Art. 3.º O Fundo de Fomento Florestal e Aquícola prestará contas da sua gerência perante o Tribunal de Contas.
+Art. 3.º O Fundo de Fomento Florestal e Aquícola prestará contas da sua gerência perante o Tribunal de Contas.
 
 § único. As receitas não aplicadas em cada ano transitarão para o ano imediato.
 
-###### Art. 4.º Os rendimentos que possam resultar da acção do Fundo, designadamente os juros e outros encargos dos empréstimos concedidos ao abrigo do artigo 3.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, constituem suas receitas próprias.
+Art. 4.º Os rendimentos que possam resultar da acção do Fundo, designadamente os juros e outros encargos dos empréstimos concedidos ao abrigo do artigo 3.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, constituem suas receitas próprias.
 
-###### Art. 5.º Poderão ser abrangidos no âmbito da acção do Fundo de Fomento Florestal e Aquícola, nos termos a fixar em regulamento, os trabalhos de recuperação dos povoamentos florestais existentes e a subvenção de obras de protecção contra fogos nas zonas abrangidas por planos de arborização.
+Art. 5.º Poderão ser abrangidos no âmbito da acção do Fundo de Fomento Florestal e Aquícola, nos termos a fixar em regulamento, os trabalhos de recuperação dos povoamentos florestais existentes e a subvenção de obras de protecção contra fogos nas zonas abrangidas por planos de arborização.
 
-###### Art. 6.º Sobre o montante das despesas relativas à execução dos trabalhos de arborização e de recuperação de povoamentos existentes financiados pelo Fundo poderão incidir determinadas taxas, a fixar em regulamento, debitando-se ao mutuário, como empréstimo, as verbas correspondentes.
+Art. 6.º Sobre o montante das despesas relativas à execução dos trabalhos de arborização e de recuperação de povoamentos existentes financiados pelo Fundo poderão incidir determinadas taxas, a fixar em regulamento, debitando-se ao mutuário, como empréstimo, as verbas correspondentes.
 
 § único. As verbas a que se refere o corpo deste artigo destinam-se à atribuição de prémios de rendimento e à cobertura de encargos imprevisíveis de planeamento, de direcção técnica, execução e fiscalização, bem como dos que respeitam a infra-estruturas e a trabalhos de protecção contra fogos.
 
-###### Art. 7.º Nas zonas em que se defina prioridade de actuação do Fundo, poderá este proceder a levantamentos destinados ao cadastro geométrico, sob a superintendência do Instituto Geográfico e Cadastral, desde que o trabalho não possa ser executado por este Instituto no prazo que o Fundo tiver por conveniente.
+Art. 7.º Nas zonas em que se defina prioridade de actuação do Fundo, poderá este proceder a levantamentos destinados ao cadastro geométrico, sob a superintendência do Instituto Geográfico e Cadastral, desde que o trabalho não possa ser executado por este Instituto no prazo que o Fundo tiver por conveniente.
 
 § único. Ao Fundo e seus funcionários, cabem, para este efeito, competência e iguais direitos aos concedidos ao Instituto Geográfico e Cadastral e seus funcionários.
 
-###### Art. 8.º Os elementos do corpo de guardas florestais que prestem serviço na dependência do Fundo, servindo o regime florestal parcial obrigatório previsto no artigo 10.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, ficam para todos os efeitos legais investidos dos poderes e competência próprios dos agentes da polícia florestal a que se refere o regulamento aprovado pelo [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 29 de Novembro de 1954.
+Art. 8.º Os elementos do corpo de guardas florestais que prestem serviço na dependência do Fundo, servindo o regime florestal parcial obrigatório previsto no artigo 10.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, ficam para todos os efeitos legais investidos dos poderes e competência próprios dos agentes da polícia florestal a que se refere o regulamento aprovado pelo [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 29 de Novembro de 1954.
 
-###### Art. 9.º O pessoal indispensável à execução dos serviços do Fundo, que não for assalariado ou contratado, nos termos do artigo 16.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, poderá ser requisitado a quaisquer serviços do Estado ou dos organismos de coordenação económica, sejam quais forem as situações em que nuns e noutros prestem serviço.
+Art. 9.º O pessoal indispensável à execução dos serviços do Fundo, que não for assalariado ou contratado, nos termos do artigo 16.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, poderá ser requisitado a quaisquer serviços do Estado ou dos organismos de coordenação económica, sejam quais forem as situações em que nuns e noutros prestem serviço.
 
 § 1.º Os servidores requisitados abrem vaga nos quadros de que provenham, mas podem a todo o tempo regressar aos mesmos se assim o requererem ou por decisão ministerial. Caso não haja vaga, devem ser-lhes abonadas, pelo Fundo, as remunerações a que tenham direito em tais serviços, até que neles reingressem.
 
@@ -123,34 +150,34 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º É extensivo aos servidores do Fundo, na situação de requisitados, o disposto no artigo 8.º do [Decreto-Lei n.º 44481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44481-1962-163836), de 26 de Julho de 1962.
 
-###### Art. 10.º O contrato de pessoal fica apenas sujeito a despacho do Ministro da Economia ou do Secretário de Estado da Agricultura, nos termos do artigo 16.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, com dispensa de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
+Art. 10.º O contrato de pessoal fica apenas sujeito a despacho do Ministro da Economia ou do Secretário de Estado da Agricultura, nos termos do artigo 16.º do [Decreto-Lei n.º 45443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45443-1963-683441), de 16 de Dezembro de 1963, com dispensa de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
 
 § único. As portarias de nomeação do pessoal requisitado serão sòmente anotadas pelo Tribunal de Contas.
 
-###### Art. 11.º As gratificações que sejam fixadas aos membros do conselho administrativo do Fundo, ou a quaisquer dos seus servidores, são acumuláveis com outras remunerações auferidas do Estado, dentro dos limites estabelecidos pelo [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 11.º As gratificações que sejam fixadas aos membros do conselho administrativo do Fundo, ou a quaisquer dos seus servidores, são acumuláveis com outras remunerações auferidas do Estado, dentro dos limites estabelecidos pelo [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
 § único. Aos membros da comissão consultiva serão atribuídas senhas de presença de valor a fixar por despacho do Ministro da Economia, com o acordo do Ministro das Finanças.
 
-###### Art. 12.º O presidente do conselho administrativo e demais servidores do Fundo cuja acção decorra constante ou periòdicamente no campo perceberão, em substituição das ajudas de custo, um subsídio de campo, a definir em regulamento.
+Art. 12.º O presidente do conselho administrativo e demais servidores do Fundo cuja acção decorra constante ou periòdicamente no campo perceberão, em substituição das ajudas de custo, um subsídio de campo, a definir em regulamento.
 
 § único. Independentemente do subsídio de campo a que se refere o corpo deste artigo, ao presidente do conselho administrativo e demais servidores do Fundo é reconhecido o direito ao abono de despesas de transportes segundo normas a fixar por despacho conjunto dos Ministros das Finanças e da Economia.
 
-###### Art. 13.º Aos membros do conselho administrativo e da comissão consultiva, com excepção do presidente, é reconhecido o direito ao abono de despesas de transporte e de ajudas de custo, nas suas deslocações em serviço, segundo normas a fixar por despacho conjunto dos Ministros das Finanças e da Economia.
+Art. 13.º Aos membros do conselho administrativo e da comissão consultiva, com excepção do presidente, é reconhecido o direito ao abono de despesas de transporte e de ajudas de custo, nas suas deslocações em serviço, segundo normas a fixar por despacho conjunto dos Ministros das Finanças e da Economia.
 
-###### Art. 14.º Ao pessoal em serviço do Fundo poderão ser atribuídos prémios de rendimento a fixar, em cada ano, pelo conselho administrativo, segundo normas aprovadas por despacho ministerial.
+Art. 14.º Ao pessoal em serviço do Fundo poderão ser atribuídos prémios de rendimento a fixar, em cada ano, pelo conselho administrativo, segundo normas aprovadas por despacho ministerial.
 
-###### Art. 15.º Ao tesoureiro do Fundo será exigida caução de quantitativo a fixar por despacho do Secretário de Estado da Agricultura, sob proposta do conselho administrativo.
+Art. 15.º Ao tesoureiro do Fundo será exigida caução de quantitativo a fixar por despacho do Secretário de Estado da Agricultura, sob proposta do conselho administrativo.
 
-###### Art. 16.º Ao pessoal menor em serviço do Fundo poderá ser fornecido fardamento.
+Art. 16.º Ao pessoal menor em serviço do Fundo poderá ser fornecido fardamento.
 
-###### Art. 17.º Ao pessoal em serviço do Fundo são aplicáveis as disposições legais concernentes aos funcionários públicos, designadamente as que se relacionam com o regime disciplinar e com o da aposentação.
+Art. 17.º Ao pessoal em serviço do Fundo são aplicáveis as disposições legais concernentes aos funcionários públicos, designadamente as que se relacionam com o regime disciplinar e com o da aposentação.
 
 § único. Para efeitos do disposto no corpo deste artigo, o presidente do conselho administrativo goza da competência disciplinar atribuída aos directores-gerais.
 
-###### Art. 18.º Ficam revogados os artigos 2.º, 3.º, 4.º, 5.º e 9.º do [Decreto-Lei n.º 44481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44481-1962-163836), de 26 de Julho de 1962.
+Art. 18.º Ficam revogados os artigos 2.º, 3.º, 4.º, 5.º e 9.º do [Decreto-Lei n.º 44481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44481-1962-163836), de 26 de Julho de 1962.
 
-###### Art. 19.º Este decreto-lei entra imediatamente em vigor.
+Art. 19.º Este decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho.

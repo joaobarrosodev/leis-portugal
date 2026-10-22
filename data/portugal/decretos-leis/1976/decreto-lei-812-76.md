@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26200/25542554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/812-1976-407303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86bb781bf08674c36f38728dc40a50ee4e881834cdac994353481e1e1da8570d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2de92193d167b5202d6b51fa21cdba9f99e4a15ee31cfbe8e7fc78b83f8aa82f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Ensino Superior
+- Formas de Provimento
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621119:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:25Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +116,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Expirados os prazos de nomeação de professores catedráticos e extraordinários fixados nos n.os 3 e 4 do artigo 12.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, serão aqueles providos definitivamente, caso se verifiquem as seguintes condições:
+Artigo 1.º - 1. Expirados os prazos de nomeação de professores catedráticos e extraordinários fixados nos n.os 3 e 4 do artigo 12.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, serão aqueles providos definitivamente, caso se verifiquem as seguintes condições:
 
 a) Não serem abrangidos por qualquer disposição de incompatibilidade por motivo de acumulação com outros cargos ou funções;
 
@@ -114,28 +132,28 @@ b) Não haver parecer contrário, baseado em relatório enviado à Direcção-Ge
 
 6. Expirado o período referido no número anterior sem que sejam enviados os documentos ali mencionados, os interessados poderão requerer, no prazo de sessenta dias, a sua nomeação definitiva ao Ministro da Educação e Investigação Científica, que decidirá, com base em parecer emitido, no prazo de sessenta dias, por uma comissão de especialistas, designada para o efeito.
 
-###### Art. 2.º - 1. No caso de os professores abrangidos pelas disposições do artigo anterior se encontrarem em comissão de serviço à data do término dos prazos referidos no n.º 1 do artigo anterior, podem tanto a escola de origem como o interessado requerer à Direcção-Geral do Ensino Superior que a contagem daqueles prazos, para efeitos de provimento definitivo na escola de origem, seja interrompida durante o período da comissão de serviço.
+Art. 2.º - 1. No caso de os professores abrangidos pelas disposições do artigo anterior se encontrarem em comissão de serviço à data do término dos prazos referidos no n.º 1 do artigo anterior, podem tanto a escola de origem como o interessado requerer à Direcção-Geral do Ensino Superior que a contagem daqueles prazos, para efeitos de provimento definitivo na escola de origem, seja interrompida durante o período da comissão de serviço.
 
 2. O requerimento da escola deverá ser apresentado no prazo referido no n.º 5 do artigo 1.º; o requerimento do interessado deverá ser apresentado até quinze dias depois de lhe serem comunicados o relatório e parecer referidos na alínea b) do n.º 1 do artigo anterior.
 
-###### Art. 3.º - 1. As escolas superiores em que prestem serviço professores de outras escolas nas condições indicadas no artigo anterior podem propor, com a anuência dos interessados, a transferência para elas e o provimento definitivo daqueles professores, desde que aí exerçam há mais de um ano.
+Art. 3.º - 1. As escolas superiores em que prestem serviço professores de outras escolas nas condições indicadas no artigo anterior podem propor, com a anuência dos interessados, a transferência para elas e o provimento definitivo daqueles professores, desde que aí exerçam há mais de um ano.
 
 2. Para efeitos do disposto no número anterior, deverão as escolas proponentes apresentar relatório justificativo que inclua não só pareceres dos órgãos científicos, como ainda parecer e relatório solicitados à escola de origem, que deverão ser por esta enviados no prazo referido no n.º 5 do artigo 1.º
 
-###### Art. 4.º Os professores não providos definitivamente por não se verificar a condição prevista na alínea b) do n.º 1 do artigo 1.º e que tenham interposto recurso ou requerimento, nos termos dos n.os 4 e 6 do artigo 1.º manterão os seus direitos e obrigações até ser proferido despacho.
+Art. 4.º Os professores não providos definitivamente por não se verificar a condição prevista na alínea b) do n.º 1 do artigo 1.º e que tenham interposto recurso ou requerimento, nos termos dos n.os 4 e 6 do artigo 1.º manterão os seus direitos e obrigações até ser proferido despacho.
 
-###### Art. 5.º - 1. O presente diploma é aplicável aos casos em que os prazos referidos no n.º 1 do artigo 1.º expiraram antes da sua entrada em vigor e não houve provimento definitivo.
+Art. 5.º - 1. O presente diploma é aplicável aos casos em que os prazos referidos no n.º 1 do artigo 1.º expiraram antes da sua entrada em vigor e não houve provimento definitivo.
 
 2. Para efeitos de aplicação do número anterior, as escolas dispõem de um prazo de noventa dias, a contar da data da entrada em vigor do presente diploma, para apresentar os pareceres e relatórios referidos na alínea b) do n.º 1 do artigo 1.º
 
 3. Os professores abrangidos pelas condições referidas no n.º 1 podem requerer ao Ministro da Educação e Investigação Científica a entrada em funções até decisão definitiva.
 
-###### Art. 6.º Este diploma entra em vigor na data da sua publicação.
+Art. 6.º Este diploma entra em vigor na data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 28 de Outubro de 1976.**
+Promulgado em 28 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/578-1971-632219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd61084560dcc6d7a53f53dab229ac02464e366d2716c0cca735fa78f044334a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d543743d46f776378b25500876038cd8675409eee000b1e04651a472aa8ad465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:36Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +97,9 @@ Importa, pois, dar a estas formas de recrutamento um carácter de estabilidade, 
 
 Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 65.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Junho de 1963, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 65.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Junho de 1963, passa a ter a seguinte redacção:
 
-###### Artigo 65.º A admissão de indivíduos prevista no artigo anterior será feita nos termos seguintes:
+Artigo 65.º A admissão de indivíduos prevista no artigo anterior será feita nos termos seguintes:
 
 a) Para os lugares de aspirante e escriturário-dactilógrafo, ou que por lei devam ser providos em funcionários destas categorias, entre candidatos aprovados em concursos de ingresso nas categorias respectivas e pela ordem da lista correspondente;
 
@@ -103,9 +107,9 @@ b) Para os outros lugares, entre pessoas que disponham dos requisitos estabeleci
 
 § único. Os indivíduos admitidos nos termos da alínea a) entram com a categoria de aspirante estagiário e escriturário de 2.ª classe, respectivamente, e manter-se-ão ao serviço quando se verificar a cessação dos motivos que originaram a admissão; se, neste caso, não couberem no número de vagas existentes serão considerados além do quadro e distribuídos, por despacho do director-geral, pelos serviços onde a sua actuação seja mais necessária e eficiente até ao ingresso no respectivo quadro, que será feito por ordem da entrada ao serviço, nos termos deste artigo.
 
-###### Art. 2.º É revogado o artigo 67.º da Organização da Direcção-Geral das Contribuições e Impostos.
+Art. 2.º É revogado o artigo 67.º da Organização da Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 3.º (transitório) - 1. Os indivíduos que à data da publicação deste diploma desempenhem ou estejam autorizados a desempenhar provisòriamente funções de ajudantes de verificadores, aspirantes estagiários ou escriturários-dactilógrafos e os que, tendo exercido tais funções com boa informação, delas tenham sido dispensados há menos de cento e oitenta dias serão admitidos a um concurso extraordinário para efeitos da alínea a) do artigo 65.º da Organização, se não tiverem sido aprovados em concurso ordinário.
+Art. 3.º (transitório) - 1. Os indivíduos que à data da publicação deste diploma desempenhem ou estejam autorizados a desempenhar provisòriamente funções de ajudantes de verificadores, aspirantes estagiários ou escriturários-dactilógrafos e os que, tendo exercido tais funções com boa informação, delas tenham sido dispensados há menos de cento e oitenta dias serão admitidos a um concurso extraordinário para efeitos da alínea a) do artigo 65.º da Organização, se não tiverem sido aprovados em concurso ordinário.
 
 2. Os candidatos que no concurso extraordinário obtiverem aprovação serão incluídos, conforme a sua classificação, nas listas dos respectivos concursos normais em vigor e mantidos ao serviço até à sua nomeação definitiva.
 
@@ -115,8 +119,8 @@ b) Para os outros lugares, entre pessoas que disponham dos requisitos estabeleci
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Dezembro de 1971.**
+Promulgado em 10 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

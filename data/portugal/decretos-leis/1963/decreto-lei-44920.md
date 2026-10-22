@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44920-1963-194016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30c164558ca4301b9a70145134255ea70b3f9386a9a4ebfec42b505b13b28063
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93eed7179de0c58db3367df36d1983e5c4479f77676cd92e2fd9e856fa8bffe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil Internacional
+- Convenção
+- Navegação Aérea
+- Portugal
+- Roma
+- Transporte Aéreo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:19Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +91,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo relativo a uma emenda à Convenção da aviação civil internacional [artigo 48, (a)], assinado em Roma em 15 de Setembro de 1962, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Protocolo relativo a uma emenda à Convenção da aviação civil internacional [artigo 48, (a)], assinado em Roma em 15 de Setembro de 1962, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -163,9 +169,9 @@ Os instrumentos de ratificação serão depositados junto da Organização da Av
 
 O presente Protocolo entrará em vigor no dia do depósito do 66.º instrumento de ratificação em relação aos Estados que o tenham ratificado;
 
-**O secretário-geral notificará imediatamente a todos os Estados Contratantes a data do depósito de cada instrumento de ratificação do mesmo Protocolo;**
+O secretário-geral notificará imediatamente a todos os Estados Contratantes a data do depósito de cada instrumento de ratificação do mesmo Protocolo;
 
-**O secretário-geral notificará imediatamente todos os Estados partes na mencionada Convenção ou que a assinaram a data em que o mesmo Protocolo entrará em vigor;**
+O secretário-geral notificará imediatamente todos os Estados partes na mencionada Convenção ou que a assinaram a data em que o mesmo Protocolo entrará em vigor;
 
 O presente Protocolo entrará em vigor, em relação a todo o Estado Contratante que a tenha ratificado depois da data mencionada, a partir do momento em que mesmo Estado tenha depositado o seu instrumento de ratificação junto da Organização da Aviação Civil Internacional.
 

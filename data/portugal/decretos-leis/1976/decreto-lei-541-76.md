@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15900/15151516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1976-431456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9d46eec9c4f26d566f1fa687fb256c23ecdd974393635f4a2a3fa43fe20743c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f98dbcccf7a6f9449d0e5a7cc574f04fec91333347e2781dc7411f130dc2263
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Denominação de Instituição
+- Instituto de ALTA Cultura
+- Instituto de Cultura Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:300396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392608:por
+  label: "Determinada a integração do Instituto da Cultura Portuguesa redenominado pelo presente diploma e previsto na orgânica\
+    \ do Ministério da Cultura e da Ciência, aprovada pelo Decreto-Lei 498-C/79 de 21 de Dezembro, pelo DEC.7/79.27.01.1979.PCM,\
+    \ DR.IS [23] de 27.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/7-1979-392608
+  date: '1979-01-27'
+- type: amended_by
+  target: pt:dre:300396:por
+  label: Extinto, a partir de 20.07.1992, o Instituto de Cultura e Língua Portuguesa - ICALP (primeiramente criado como Instituto
+    de Cultura Portuguesa - Icap - pelo presente diploma e redenominado pelo Dec Lei 50/80 de 22-Mar) pelo DEC LEI.135/92.15.07.1992.ME,
+    DR.IS-A [161] de 15.07.1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1992-300396
+  date: '1992-07-15'
+- type: cites
+  target: pt:dre:411374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427383:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:42Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +121,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo para valer como lei, o seguinte:
 
-###### Artigo único. O Instituto de Alta Cultura passa a ser designado por Instituto de Cultura Portuguesa.
+Artigo único. O Instituto de Alta Cultura passa a ser designado por Instituto de Cultura Portuguesa.
 
 Visto e aprovado em Conselho de Ministros - Vasco Fernando Leote de Almeida e Costa - Ernesto Augusto de Melo Antunes - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 29 de Junho de 1976.**
+Promulgado em 29 de Junho de 1976.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12400/12421246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,139 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d9c558b323144075bb2a49d56cd944df85699db93cab747fb0981e34733cb50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be38705ec27c912d8e47347169da22a46b5ec92412898c6573314ddfc3e96ec6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Função Pública
+- Mobilidade de Pessoal
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:561660:por
+  label: "Alterado o art. 8º, o nº 3 do art. 15º, e aditado o art. 20º-A, pelo DEC LEI.285/81.1981.10.09.MFP, DR.IS [232]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1981-561660
+  date: '1981-10-09'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678041:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:392861:por
+  label: "Revogados os arts. 1º a 4º, 7º e 12º a 17º, pelo DEC LEI.165/82.1982.05.10.MFP, DR.IS [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-1982-392861
+  date: '1982-05-10'
+- type: repealed_by
+  target: pt:dre:392862:por
+  label: "Revogados os arts. 5º, 6º, 9º, 10º, 11º e 18º, e os arts. 8º e 20º-A, com a redacção dada pelo Dec Lei 285/81, de\
+    \ 09-Out, pelo DEC LEI.166/82.1982.05.10.MAI, DR.IS [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1982-392862
+  date: '1982-05-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:32Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +228,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação)
 
@@ -137,7 +236,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - A aplicação do diploma à administração regional e local far-se-á de acordo com a lei do orçamento.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Diplomas orgânicos e de alteração de quadros de pessoal)
 
@@ -145,7 +244,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Os pareceres referidos no número anterior deverão ser proferidos no prazo de quinze dias após a sua entrada nos respectivos departamentos, findo o qual se considera como emitido parecer favorável.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Alteração a diplomas orgânicos)
 
@@ -157,7 +256,7 @@ b) Quando se trate da institucionalização de serviços em regime de instalaç�
 
 2 - Para efeitos do número anterior, consideram-se diplomas orgânicos os referidos no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Alteração dos quadros de pessoal)
 
@@ -171,7 +270,7 @@ a) Promoções automáticas ou reclassificações de pessoal não justificáveis
 
 b) Integração directa em lugares do quadro de pessoal contratado a prazo certo ou admitido sem observância das formalidades legais.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Admissões na função pública)
 
@@ -187,7 +286,7 @@ b) Integração directa em lugares do quadro de pessoal contratado a prazo certo
 
 6 - Quando os serviços se encontrem em regime de instalação, a admissão de pessoal não vinculado está ainda condicionada à aprovação prévia do respectivo mapa de pessoal por despacho conjunto dos Ministros da pasta, das Finanças e do Plano e da Reforma Administrativa.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Excepção às regras de admissão de pessoal não vinculado à função pública)
 
@@ -203,7 +302,7 @@ d) Magistrados do Tribunal de Contas e dos tribunais administrativos e fiscais;
 
 e) Lugares dos quadros dos tribunais e da Polícia Judiciária.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Condicionamento de requisições)
 
@@ -217,13 +316,13 @@ e) Lugares dos quadros dos tribunais e da Polícia Judiciária.
 
 5 - A requisição para lugares de gabinetes ministeriais previstos no [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, para lugares do gabinete e da Casa Civil do Presidente da República a que se refere o [Decreto-Lei n.º 675/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1976-408756), de 31 de Agosto, e para os auditores de justiça referidos no [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, não está sujeita ao disposto no presente artigo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Condicionamento da admissão de pessoal em empresas públicas)
 
 A admissão de pessoal em lugares permanentes de empresas públicas fica condicionada à inexistência de disponibilidades no quadro geral de adidos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Contratos de pessoal fora dos quadros)
 
@@ -247,13 +346,13 @@ c) A existência de verba de pessoal adequado no orçamento do serviço.
 
 4 - O disposto neste artigo não é aplicável ao pessoal eventual recrutado localmente pelos postos diplomáticos ou consulares ou outros serviços no estrangeiro.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Inexistência dos actos e responsabilidade dos agentes)
 
 Os actos dos funcionários ou agentes praticados com inobservância do disposto no presente diploma são considerados juridicamente inexistentes, sem prejuízo da responsabilidade em que aqueles incorram nos termos da lei.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Contrato de tarefa)
 
@@ -261,7 +360,7 @@ Os actos dos funcionários ou agentes praticados com inobservância do disposto 
 
 2 - Os contratos a que se refere o número anterior só poderão ser realizados para a execução de trabalhos de carácter excepcional e estão sujeitos ao regime previsto na lei geral quanto a despesas públicas em matéria de aquisição de serviços.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Programação de efectivos)
 
@@ -269,7 +368,7 @@ Os actos dos funcionários ou agentes praticados com inobservância do disposto 
 
 2 - O Ministério da Reforma Administrativa deverá remeter ao Ministério das Finanças e do Plano o respectivo parecer até 31 de Julho seguinte.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Permuta de funcionários)
 
@@ -277,7 +376,7 @@ Os actos dos funcionários ou agentes praticados com inobservância do disposto 
 
 2 - Quando os funcionários pertencerem a Ministérios diferentes, a permuta carece de despacho conjunto dos dois Ministros.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Destacamento e transferência)
 
@@ -289,7 +388,7 @@ Os actos dos funcionários ou agentes praticados com inobservância do disposto 
 
 4 - Poderão também os funcionários e agentes de um Ministério ser destacados ou transferidos para outro, com a sua anuência e mediante a autorização do Ministro de que dependam e despacho do Ministro a que pertença o serviço para o qual são destacados ou transferidos, mas a sua transferência pressupõe a existência de vagas e está sujeita ao regime geral em matéria de visto e posse.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Concursos)
 
@@ -323,7 +422,7 @@ b) Ao preenchimento de lugares expressamente criados para a integração de adid
 
 c) Ao preenchimento de lugares de auditor de justiça e dos quadros da Polícia Judiciária.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Termos dos concursos)
 
@@ -339,13 +438,13 @@ b) Não só para tais vagas, mas também para as que vierem a verificar-se dentr
 
 4 - Em caso de igualdade de classificação, e em cada grupo, será dada preferência aos funcionários ou agentes já pertencentes ao serviço.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Processo individual)
 
 Sempre que se verifique a integração de funcionários ou agentes em novo serviço, deverá o serviço de origem remeter ao serviço de destino, no prazo de trinta dias, o respectivo processo individual devidamente actualizado.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Suspensão temporária de admissões)
 
@@ -367,7 +466,7 @@ e) Serviços em regime de instalação há menos de seis anos;
 
 f) Casos de interesse público como tal reconhecidos pelo Ministro da pasta e pelos Ministros das Finanças e do Plano e da Reforma Administrativa.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Revogação e regulamentação)
 
@@ -385,13 +484,13 @@ e) O [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 f) O [Decreto-Lei n.º 286/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1980-470793), de 16 de Agosto.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Prevalência do diploma)
 
 O disposto no presente diploma prevalece sobre quaisquer disposições especiais dos diversos serviços, à excepção dos Decretos-Leis n.os [472/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1980-462018), de 14 de Outubro, e [135/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1980-474125), de 20 de Maio.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Dúvidas)
 
@@ -399,8 +498,8 @@ As dúvidas resultantes da aplicação do presente diploma serão resolvidas por
 
 Visto e aprovado em Conselho de Ministros. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 19 de Maio de 1981.**
+Promulgado em 19 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44761-1962-155598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ccdace30ade825e518ad7ada2f5dfa061680c0d5486a0c5e87a32002b414a39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53d8de23d8dd5f58baa2cd56bf616d2838b68dc0035e211b79f942f4f01bd084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Criação de Serviços
+- Direcção Geral das Contribuições e Impostos
+- Quadro de Pessoal
+- Serviço de Finanças
+- Vendas Novas
+relationships:
+- type: cites
+  target: pt:dre:159708:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:23Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +97,7 @@ Tendo sido criado pelo [Decreto-Lei n.º 44557](https://diariodarepublica.pt/dr/
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o concelho fiscal de 3.ª classe de Vendas Novas, constituído nos precisos termos do [Decreto-Lei n.º 44557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44557-1962-159708), de 7 de Setembro de 1962.
+Artigo 1.º É criado o concelho fiscal de 3.ª classe de Vendas Novas, constituído nos precisos termos do [Decreto-Lei n.º 44557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44557-1962-159708), de 7 de Setembro de 1962.
 
 § 1.º Para a instalação dos serviços, tomará a Direcção-Geral das Contribuições e Impostos as providências necessárias, observando-se, na parte aplicável, as disposições do Decreto n.º 28476, de 18 de Fevereiro de 1938.
 
@@ -95,13 +105,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Até à realização do novo ajustamento geral das verbas destinadas à remuneração de auxiliares e propostos de 3.ª classe, o abono ao proposto a que se refere o § 2.º deste artigo será o fixado no § único do artigo 2.º do Decreto-Lei n.º 42529, de 22 de Setembro de 1959.
 
-###### Art. 2.º É aumentado o quadro da Direcção-Geral das Contribuições e Impostos de um secretário de finanças de 3.ª classe, um aspirante e dois escriturários de 2.ª classe para a nova secção de finanças.
+Art. 2.º É aumentado o quadro da Direcção-Geral das Contribuições e Impostos de um secretário de finanças de 3.ª classe, um aspirante e dois escriturários de 2.ª classe para a nova secção de finanças.
 
-###### Art. 3.º A Direcção-Geral da Contabilidade Pública tomará as providências indispensáveis para que no orçamento do próximo ano económico, nos vencimentos orçamentais atribuídos ao pessoal dos quadros das Direcções-Gerais da Fazenda Pública e das Contribuições e Impostos, sejam feitas as necessárias rectificações, para efeitos das respectivas remunerações.
+Art. 3.º A Direcção-Geral da Contabilidade Pública tomará as providências indispensáveis para que no orçamento do próximo ano económico, nos vencimentos orçamentais atribuídos ao pessoal dos quadros das Direcções-Gerais da Fazenda Pública e das Contribuições e Impostos, sejam feitas as necessárias rectificações, para efeitos das respectivas remunerações.
 
-###### Art. 4.º Este decreto-lei entra em vigor no dia 1 de Janeiro de 1963.
+Art. 4.º Este decreto-lei entra em vigor no dia 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

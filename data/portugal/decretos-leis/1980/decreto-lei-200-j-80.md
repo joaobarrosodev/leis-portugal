@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(11) a 1456-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00110012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-j-1980-226046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d08abd35a193d0bb62bb0d89508d3a6d22db7d82f7b0429d9a6a39e46123359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aac0853c20605cad9d3b6cb1b976b3b87b355d7d4e1c2333ca7ccfe83d704527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação de Docentes
+- Definição de Competências
+- Ensino Superior
+- Instituto Universitário
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Reitor
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419614:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:02Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +118,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Compete aos reitores das Universidades e Institutos Universitários autorizar, prorrogar, renovar e rescindir, nos termos legais, os contratos de assistentes estagiários, assistentes, assistentes convidados, leitores e leitores convidados, ainda que em regime de acumulação.
+Artigo 1.º - 1 - Compete aos reitores das Universidades e Institutos Universitários autorizar, prorrogar, renovar e rescindir, nos termos legais, os contratos de assistentes estagiários, assistentes, assistentes convidados, leitores e leitores convidados, ainda que em regime de acumulação.
 
 2 - Compete igualmente aos reitores autorizar a admissão de monitores em regime de prestação eventual de serviços.
 
@@ -107,16 +128,16 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Se a comunicação a que se refere o número anterior não for feita dentro do prazo estabelecido, considera-se que, para todos os efeitos legais e nomeadamente para aplicação do disposto no artigo 2.º do [Decreto-Lei n.º 417/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1973-419614), de 21 de Agosto, o proposto entrou em funções dez dias antes da data da recepção da comunicação.
 
-###### Art. 2.º Os reitores das Universidades e Institutos Universitários poderão delegar as competências atribuídas pelo presente diploma nos vice-reitores, não podendo estes subdelegá-las.
+Art. 2.º Os reitores das Universidades e Institutos Universitários poderão delegar as competências atribuídas pelo presente diploma nos vice-reitores, não podendo estes subdelegá-las.
 
-###### Art. 3.º As escolas enviarão à Direcção-Geral do Ensino Superior, por intermédio dos reitores, até 31 de Dezembro de cada ano, mapas de quocientes da relação docente/discente, com indicação da distribuição do serviço docente pelo pessoal das categorias referidas no n.º 1 do artigo 1.º
+Art. 3.º As escolas enviarão à Direcção-Geral do Ensino Superior, por intermédio dos reitores, até 31 de Dezembro de cada ano, mapas de quocientes da relação docente/discente, com indicação da distribuição do serviço docente pelo pessoal das categorias referidas no n.º 1 do artigo 1.º
 
-###### Art. 4.º O Ministro da Educação e Ciência fixará em portaria os quocientes máximos da relação docente/discente, tendo em conta o número de docentes e de alunos e o número de disciplinas e sua natureza, bem como as possibilidades de distribuição de serviço docente.
+Art. 4.º O Ministro da Educação e Ciência fixará em portaria os quocientes máximos da relação docente/discente, tendo em conta o número de docentes e de alunos e o número de disciplinas e sua natureza, bem como as possibilidades de distribuição de serviço docente.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
 
-**Promulgado em 24 de Junho de 1980.**
+Promulgado em 24 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

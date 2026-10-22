@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/27900/40424042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1980-459067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96000566bc2d9900c01f9556432b19058c1a5e9d9e06b145d89694bc110a1c5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aae4cafa41c7466cf13016d72d9b4500a625517979bfd1130d3d07f0bd70b320
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diretor
+- Exército
+- Forças Armadas
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:390833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479897:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:44Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +110,14 @@ Tornando-se necessário considerar, no âmbito do [Decreto-Lei n.º 43458](https
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos cargos militares enunciados no n.º 3 do artigo 2.º do [Decreto-Lei n.º 43458](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43458-1960-479897), de 31 de Dezembro de 1960, são aditados os de director do Departamento de Instrução, director do Departamento de Operações e director do Departamento de Finanças, criados pelo [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro.
+Artigo 1.º Aos cargos militares enunciados no n.º 3 do artigo 2.º do [Decreto-Lei n.º 43458](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43458-1960-479897), de 31 de Dezembro de 1960, são aditados os de director do Departamento de Instrução, director do Departamento de Operações e director do Departamento de Finanças, criados pelo [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro.
 
-###### Art. 2.º O disposto neste diploma produz efeitos a partir de 1 de Janeiro de 1980.
+Art. 2.º O disposto neste diploma produz efeitos a partir de 1 de Janeiro de 1980.
 
 Visto e aprovado em Conselho da Revolução em 2 de Março de 1979.
 
-**Promulgado em 1 de Outubro de 1980.**
+Promulgado em 1 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro.

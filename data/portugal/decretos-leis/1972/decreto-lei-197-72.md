@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1972-682599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa33e04018b645e840c953a43ef5e93d8523d7a894d5cbb746a4b4c1d1a8843a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0fea9e9ec2eb6bd2cfeb5eb6645d2f3913c8d971196aaa996ee60894034ee19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Equipamento Militar
+- Exército
+- Força Aérea
+- Gestão Financeira
+- Secretaria de Estado da Aeronáutica
+relationships:
+- type: cites
+  target: pt:dre:140111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525258:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:48Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +113,7 @@ Havendo necessidade de prosseguir com o reequipamento extraordinário do Exérci
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo a contrair encargos até ao montante de 1500000 contos para continuação do reequipamento extraordinário do Exército e da Aeronáutica.
+Artigo 1.º - 1. É autorizado o Governo a contrair encargos até ao montante de 1500000 contos para continuação do reequipamento extraordinário do Exército e da Aeronáutica.
 
 2. A distribuição da importância referida no número anterior será determinada pelo Ministro da Defesa Nacional, ao qual serão submetidos, para aprovação, pelo Ministério do Exército e pela Secretaria de Estado da Aeronáutica, os planos estabelecendo a ordem de prioridade das aquisições a realizar.
 
@@ -97,14 +121,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Poderá o saldo que se verificar no encerramento das contas de 1973 e 1974 transitar para os orçamentos do ano ou anos seguintes, independentemente do preceituado na primeira parte do artigo 6.º, n.º 1, do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.
 
-###### Art. 2.º - 1. À execução dos planos referidos no presente diploma é aplicável o estabelecido nos artigos 2.º a 4.º do [Decreto-Lei n.º 48894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48894-1969-525258), de 6 de Março de 1969, substituindo-se por 1972 o ano de 1969 indicado naquelas disposições, conjugado com o artigo único do [Decreto-Lei n.º 306/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1970-140111), de 2 de Julho.
+Art. 2.º - 1. À execução dos planos referidos no presente diploma é aplicável o estabelecido nos artigos 2.º a 4.º do [Decreto-Lei n.º 48894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48894-1969-525258), de 6 de Março de 1969, substituindo-se por 1972 o ano de 1969 indicado naquelas disposições, conjugado com o artigo único do [Decreto-Lei n.º 306/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1970-140111), de 2 de Julho.
 
 2. Na comissão referida na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 48368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48368-1968-274856), de 14 de Maio de 1968, continuarão a ter assento mais dois membros, um designado pelo Ministro da Economia e outro pelo Ministro do Ultramar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 7 de Junho de 1972.**
+Promulgado em 7 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

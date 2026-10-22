@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/12900/12381239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1976-427076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0bccac4daee17bba7546f906391b2160df471dc9116cc546f47cb1876dfe13a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 685b82f9ad34fadb9d36b1bf34c34fc69033b8b9c20d9a1d456f5d754b8de0fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Cobrança de Impostos
+- Despesas Públicas
+- Estabelecimentos Fabris das Forças Armadas
+- Gestão Orçamental
+- Ministério das Finanças
+- Sobretaxa de Importação
+- Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:02Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +105,20 @@ de 2 de Junho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1 alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Ministério das Finanças a conceder, no ano de 1976, um subsídio não reembolsável de 137000000$00 aos estabelecimentos fabris militares.
+Artigo 1.º - 1. É autorizado o Ministério das Finanças a conceder, no ano de 1976, um subsídio não reembolsável de 137000000$00 aos estabelecimentos fabris militares.
 
 2. O subsídio a atribuir a cada estabelecimento fabril será fixado por despacho do Chefe do Estado-Maior-General das Forças Armadas, ouvida a Comissão de Coordenação dos Estabelecimentos Fabris Militares.
 
-###### Art. 2.º Para execução do disposto no artigo anterior, é aberto no Ministério das Finanças um crédito especial da quantia de 137000000$00, a inscrever no orçamento da Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea para o ano corrente, sob o capítulo 1.º, artigo 16.º, n.º 3 «Estabelecimentos fabris militares».
+Art. 2.º Para execução do disposto no artigo anterior, é aberto no Ministério das Finanças um crédito especial da quantia de 137000000$00, a inscrever no orçamento da Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea para o ano corrente, sob o capítulo 1.º, artigo 16.º, n.º 3 «Estabelecimentos fabris militares».
 
-###### Art. 3.º Para compensação do crédito aludido no artigo precedente, é aumentada igual quantia à verba descrita no capítulo 2.º, grupo 1, artigo 15.º «Sobretaxa de importação», do vigente orçamento das receitas do Estado.
+Art. 3.º Para compensação do crédito aludido no artigo precedente, é aumentada igual quantia à verba descrita no capítulo 2.º, grupo 1, artigo 15.º «Sobretaxa de importação», do vigente orçamento das receitas do Estado.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 22 de Maio de 1976.**
+Promulgado em 22 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

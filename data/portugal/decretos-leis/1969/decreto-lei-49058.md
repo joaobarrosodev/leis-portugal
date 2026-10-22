@@ -49,36 +49,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49058-1969-200809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42e3a71a73dd707bbafca86dafad81869dd41eb027d4f608b8d7054a45a067a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adf2ba5975b5723e86590f9205e9bac5db01d27f54985b0e77b261d245ea1cab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Corpos Gerentes
+- Eleição
+- Fiscalização
+- Infracção Disciplinar
+- Instituto Nacional do Trabalho e Previdência
+- Multa
+- Sindicato
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: pt:dre:158237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:40Z'
   warnings: []
   errors: []
 ---
@@ -177,17 +234,17 @@ Ouvida a Câmara Corporativa;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º a 5.º, 10.º, 15.º, 20.º e 21.º do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457), de 23 de Setembro de 1933, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º a 5.º, 10.º, 15.º, 20.º e 21.º do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457), de 23 de Setembro de 1933, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Os sindicatos são organismos representativos de trabalhadores que exercem a mesma profissão ou profissões conexas ou afins, por conta de outrem ou com carácter autónomo, constituídos por iniciativa dos interessados, e têm por fim, exclusivamente, o estudo e a defesa dos seus direitos e interesses profissionais nos aspectos moral, social e económico.
+Artigo 1.º Os sindicatos são organismos representativos de trabalhadores que exercem a mesma profissão ou profissões conexas ou afins, por conta de outrem ou com carácter autónomo, constituídos por iniciativa dos interessados, e têm por fim, exclusivamente, o estudo e a defesa dos seus direitos e interesses profissionais nos aspectos moral, social e económico.
 
 § 1.º Para efeito de enquadramento sindical, a definição das profissões terá, em princípio, por fundamento o uso de iguais técnicas ou conhecimentos de base.
 
 § 2.º A caracterização das profissões como conexas ou afins terá por fundamento a concorrência para uma mesma produção ou a laboração de idêntica matéria-prima e considerará as correlações estabelecidas na classificação dos ramos da actividade económica ou na classificação técnica das actividades profissionais adoptadas no País.
 
-###### Art. 2.º Cada sindicato adoptará denominação que não seja susceptível de estabelecer confusão com a de outros já existentes, formada pela designação das profissões que enquadra e da área que abrange.
+Art. 2.º Cada sindicato adoptará denominação que não seja susceptível de estabelecer confusão com a de outros já existentes, formada pela designação das profissões que enquadra e da área que abrange.
 
-###### Art. 3.º A organização, o âmbito profissional e a área dos sindicatos são os fixados nos seus estatutos, em coordenação com os dos restantes organismos integrados na mesma corporação e de acordo com as exigências das respectivas profissões.
+Art. 3.º A organização, o âmbito profissional e a área dos sindicatos são os fixados nos seus estatutos, em coordenação com os dos restantes organismos integrados na mesma corporação e de acordo com as exigências das respectivas profissões.
 
 § 1.º Quando, na mesma área, a adopção de um dos critérios de enquadramento estabelecidos no artigo 1.º puder vir a envolver a representação, por um sindicato, de profissionais já enquadrados em sindicatos diversos por força de outro daqueles critérios, competirá ao Instituto Nacional do Trabalho e Previdência definir, ouvidos esses sindicatos e os interessados naquele enquadramento, a solução mais conforme ao bem comum e que assegure mais eficaz representação.
 
@@ -197,7 +254,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Os sindicatos das profissões liberais abrangidas pelo parágrafo anterior que exijam preparação universitária podem adoptar, mediante deliberação do Conselho Corporativo, a designação de «ordens».
 
-###### Art. 4.º Os sindicatos deverão ter dimensão e capacidade financeira bastantes para assegurar convenientemente a representação dos trabalhadores enquadrados e desempenhar as funções que lhes cabem em virtude do disposto na lei e nos estatutos.
+Art. 4.º Os sindicatos deverão ter dimensão e capacidade financeira bastantes para assegurar convenientemente a representação dos trabalhadores enquadrados e desempenhar as funções que lhes cabem em virtude do disposto na lei e nos estatutos.
 
 § 1.º As profissões que, em consequência do estabelecido no corpo deste artigo, não possam agrupar-se em sindicatos autónomos, devem incorporar-se no organismo que com elas tiver maior correlação, constituindo um núcleo profissional nos termos do parágrafo seguinte.
 
@@ -205,7 +262,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Os núcleos terão a estrutura e o regime que forem fixados nos estatutos do respectivo sindicato.
 
-###### Art. 5.º Dentro da sua área, os sindicatos poderão organizar secções locais destinadas a abranger as zonas com maior número de trabalhadores e secções femininas para estudo das condições de trabalho das mulheres. Poderão também as direcções dos sindicatos ou das suas secções nomear delegados nas localidades ou junto das empresas em que forem considerados necessários e delegadas para se ocuparem dos problemas relativos ao trabalho feminino.
+Art. 5.º Dentro da sua área, os sindicatos poderão organizar secções locais destinadas a abranger as zonas com maior número de trabalhadores e secções femininas para estudo das condições de trabalho das mulheres. Poderão também as direcções dos sindicatos ou das suas secções nomear delegados nas localidades ou junto das empresas em que forem considerados necessários e delegadas para se ocuparem dos problemas relativos ao trabalho feminino.
 
 § 1.º As secções terão as atribuições, a extensão e o regime fixados nos respectivos regulamentos.
 
@@ -215,11 +272,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 10.º Os sindicatos exercem a sua actividade no plano nacional, com respeito pelos superiores interesses da Nação, o bem comum, o disposto nas leis e a função que lhes cabe desempenhar na organização corporativa.
+Art. 10.º Os sindicatos exercem a sua actividade no plano nacional, com respeito pelos superiores interesses da Nação, o bem comum, o disposto nas leis e a função que lhes cabe desempenhar na organização corporativa.
 
 § único. A inscrição dos sindicatos em organismos internacionais da sua especialidade e a representação em reuniões e outras manifestações internacionais serão asseguradas directamente ou por intermédio dos organismos corporativos de grau superior em que aqueles se integram, conforme for considerado mais conveniente e mediante acordo do Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 15.º Os estatutos dos sindicatos conterão as normas necessárias para a realização dos seus objectivos, de harmonia com o disposto nos parágrafos seguintes, e nomeadamente as respeitantes a:
+Art. 15.º Os estatutos dos sindicatos conterão as normas necessárias para a realização dos seus objectivos, de harmonia com o disposto nos parágrafos seguintes, e nomeadamente as respeitantes a:
 
 a) Nome, sede e âmbito do organismo;
 
@@ -273,7 +330,7 @@ Qualquer sócio ou o Instituto Nacional do Trabalho e Previdência poderão reme
 
 ...
 
-###### Art. 20.º A dissolução de um sindicato pode resultar de resolução da respectiva assembleia geral ou de deliberação do Conselho Corporativo quando o organismo se desviar do fim para que foi instituído ou não puder cumprir os deveres impostos por lei.
+Art. 20.º A dissolução de um sindicato pode resultar de resolução da respectiva assembleia geral ou de deliberação do Conselho Corporativo quando o organismo se desviar do fim para que foi instituído ou não puder cumprir os deveres impostos por lei.
 
 § 1.º A resolução da assembleia geral pode ser impugnada, e da deliberação do Conselho Corporativo cabe recurso para o Supremo Tribunal Administrativo.
 
@@ -281,7 +338,7 @@ Qualquer sócio ou o Instituto Nacional do Trabalho e Previdência poderão reme
 
 § 3.º Nos casos previstos no § 1.º, se não for requerida ou se for indeferida a suspensão da deliberação impugnada ou da executoriedade do acto recorrido, o juiz do tribunal do trabalho por onde corra o processo de liquidação condicionará a actividade dos liquidatários à conservação dos bens do sindicato até à decisão definitiva.
 
-###### Art. 21.º A fiscalização dos actos dos membros dos corpos gerentes dos sindicatos compete às respectivas assembleias gerais no que respeita à observância dos estatutos, mas cabe aos tribunais do trabalho conhecer e julgar das transgressões ao disposto neste decreto-lei.
+Art. 21.º A fiscalização dos actos dos membros dos corpos gerentes dos sindicatos compete às respectivas assembleias gerais no que respeita à observância dos estatutos, mas cabe aos tribunais do trabalho conhecer e julgar das transgressões ao disposto neste decreto-lei.
 
 § 1.º Ao Instituto Nacional do Trabalho e Previdência, por sua iniciativa ou a requerimento de qualquer sócio, compete a participação das transgressões, que seguem os termos estabelecidos no Código de Processo do Trabalho.
 
@@ -299,18 +356,18 @@ Qualquer sócio ou o Instituto Nacional do Trabalho e Previdência poderão reme
 
 § 8.º A comissão promoverá a realização de novas eleições no prazo máximo de seis meses, tendo o mandato dos corpos gerentes eleitos a duração normal fixada nos estatutos, contado, para o efeito, como completo o ano em que a eleição se realizar. Nos casos em que a comissão tenha sido nomeada por efeito de suspensão nos termos do § 5.º, o prazo começará a contar-se a partir do momento em que se torne certo, por sentença com trânsito em julgado, o impedimento definitivo de metade dos membros da direcção.
 
-###### Art. 2.º O capítulo IV do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457) passa a ter por título: «Da dissolução dos sindicatos, das infracções e das penas».
+Art. 2.º O capítulo IV do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457) passa a ter por título: «Da dissolução dos sindicatos, das infracções e das penas».
 
-###### Art. 3.º Deixam de se aplicar aos sindicatos o [Decreto-Lei n.º 31946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31946-1942-166451), de 31 de Março de 1942, e o [Decreto-Lei n.º 32820](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32820-1943-397704), de 2 de Junho de 1943, e são revogados o [Decreto n.º 23340](https://diariodarepublica.pt/dr/detalhe/decreto/23340-1933-326488), de 12 de Dezembro de 1933, o Decreto-Lei n.º 25116, de 12 de Março de 1935, o [Decreto-Lei n.º 27228](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27228-1936-322956), de 23 de Novembro de 1936, e o [Decreto-Lei n.º 42522](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42522-1959-429414), de 23 de Setembro de 1959, com excepção do seu artigo 7.º, na medida em que dispõe para os restantes organismos corporativos.
+Art. 3.º Deixam de se aplicar aos sindicatos o [Decreto-Lei n.º 31946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31946-1942-166451), de 31 de Março de 1942, e o [Decreto-Lei n.º 32820](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32820-1943-397704), de 2 de Junho de 1943, e são revogados o [Decreto n.º 23340](https://diariodarepublica.pt/dr/detalhe/decreto/23340-1933-326488), de 12 de Dezembro de 1933, o Decreto-Lei n.º 25116, de 12 de Março de 1935, o [Decreto-Lei n.º 27228](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27228-1936-322956), de 23 de Novembro de 1936, e o [Decreto-Lei n.º 42522](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42522-1959-429414), de 23 de Setembro de 1959, com excepção do seu artigo 7.º, na medida em que dispõe para os restantes organismos corporativos.
 
-###### Art. 4.º - 1. As incapacidades a que se refere o § 3.º do artigo 15.º do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457), segundo a redacção do presente diploma, são as constantes do artigo 2.º da [Lei n.º 2015](https://diariodarepublica.pt/dr/detalhe/lei/2015-1946-158237), de 28 de Maio de 1946.
+Art. 4.º - 1. As incapacidades a que se refere o § 3.º do artigo 15.º do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457), segundo a redacção do presente diploma, são as constantes do artigo 2.º da [Lei n.º 2015](https://diariodarepublica.pt/dr/detalhe/lei/2015-1946-158237), de 28 de Maio de 1946.
 
 2. Consideram-se entidades competentes para os efeitos do § 6.º do mesmo artigo 15.º as que, como tais, forem designadas por lei ou, na falta dessa designação, pelo Instituto Nacional do Trabalho e Previdência.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 28 de Maio de 1969.**
+Promulgado em 28 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

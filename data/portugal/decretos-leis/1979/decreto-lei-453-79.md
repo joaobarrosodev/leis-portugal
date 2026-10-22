@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26600/29582958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1979-367807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8639a7773c5f0310c38135bc0200e9da4b2721ca43bf54b3a1a8105e89a93eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4ff8caf3c30c590d247c6feb7b74045336f3863c3ca67345d66cc507e07febc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Contrato de Viabilização
+- Cooperativa
+- Saneamento Económico e Financeiro
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383620:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:02Z'
   warnings: []
   errors: []
 ---
@@ -96,14 +122,14 @@ Excluem-se, no entanto, dado o regime especial a que estão submetidas, as coope
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O disposto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, no [Decreto-Lei n.º 120/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1978-294551), de 1 de Junho, e legislação complementar, é aplicável às cooperativas de actividade industrial que por despacho conjunto dos Secretários de Estado das Finanças e das Indústrias Extractivas e Transformadoras sejam autorizadas a celebrar contratos de viabilização.
+Artigo 1.º O disposto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, no [Decreto-Lei n.º 120/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1978-294551), de 1 de Junho, e legislação complementar, é aplicável às cooperativas de actividade industrial que por despacho conjunto dos Secretários de Estado das Finanças e das Indústrias Extractivas e Transformadoras sejam autorizadas a celebrar contratos de viabilização.
 
-###### Art. 2.º O presente diploma não é aplicável às cooperativas abrangidas pelo n.º 1 do artigo 1.º da [Lei n.º 68/78](https://diariodarepublica.pt/dr/detalhe/lei/68-1978-328452), de 16 de Outubro.
+Art. 2.º O presente diploma não é aplicável às cooperativas abrangidas pelo n.º 1 do artigo 1.º da [Lei n.º 68/78](https://diariodarepublica.pt/dr/detalhe/lei/68-1978-328452), de 16 de Outubro.
 
 Visto e aprovado em Conselho de Ministros. -Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Fernando Henrique Marques Videira.
 
-**Promulgado em 30 de Outubro de 1979.**
+Promulgado em 30 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

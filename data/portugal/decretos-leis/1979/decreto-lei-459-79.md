@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e31a226aa5ba0499787ebd80e97ce4c4565754f3d227d0f3eb0f2c1fea12d6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5effcced8d0a3cda1e25add468012c11f7090469b052d860459ed5f5f6e177d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Doença Profissional
+- Indemnização
 relationships:
 - type: amended_by
   target: pt:dre:633541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 2 PELO DECRETO LEI 231/80, DE 16 DE JULHO, PUBLICADO NO DR.IS, 162.\0PUBLICADO NO DR.IS, 162."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-07-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL DAS NORMAS DO ARTIGO 2, NA REDACÇÃO QUE LHE FOI DADA
+    PELO ARTIGO ÚNICO DO DECRETO LEI 231/80, DE 16 DE JULHO, E DO NUMERO 1 ALÍNEA B), PARTE FINAL DO DESPACHO 180/81, DE 21
+    DE JULHO, PELO ACÓRDÃO 12/88, DE 30 DE JANEIRO, PUBLICADO NO DR.IS, 25.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-01-30'
+- type: amended_by
+  target: pt:dre:282876:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, do art. 2.º pelo(a) Acórdão n.º 12/88 - Diário da
+    República n.º 25/1988, Série I de 1988-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/12-1988-282876
+  date: '1988-01-30'
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:08Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +137,13 @@ Nestes termos:
 
 O Governo decreta nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 50.º, 64.º e 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 50.º, 64.º e 65.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 50.º - 1 - Relativamente a todas as incapacidades temporárias e às permanentes inferiores a 50%, na retribuição base diária somente se atenderá a 70% da parte excedente a 1/30 do salário mínimo nacional.
+Art. 50.º - 1 - Relativamente a todas as incapacidades temporárias e às permanentes inferiores a 50%, na retribuição base diária somente se atenderá a 70% da parte excedente a 1/30 do salário mínimo nacional.
 
 2 - Em relação às pensões devidas por incapacidades permanentes iguais ou superiores a 50%, ou por morte, na retribuição base diária apenas se atenderá a 80% da parte excedente a 1/30 do salário mínimo nacional.
 
-###### Art. 64.º - 1 - Serão obrigatoriamente remidas as pensões devidas a sinistrados e ascendentes que, cumulativamente, correspondam a desvalorizações não superiores a 10% e não excedam o valor da pensão calculada com base numa desvalorização de 10% sobre o salário mínimo nacional.
+Art. 64.º - 1 - Serão obrigatoriamente remidas as pensões devidas a sinistrados e ascendentes que, cumulativamente, correspondam a desvalorizações não superiores a 10% e não excedam o valor da pensão calculada com base numa desvalorização de 10% sobre o salário mínimo nacional.
 
 2 - Poderão ser, a requerimento dos pensionistas ou das entidades responsáveis e com autorização do tribunal competente, remidas as pensões devidas a sinistrados e ascendentes que, cumulativamente, correspondam a desvalorizações superiores a 10% e inferiores a 20% e não excedam o valor da pensão calculada com base numa desvalorização de 20% sobre o salário mínimo nacional e desde que haja uma comprovada aplicação útil do capital de remição.
 
@@ -124,14 +153,14 @@ O Governo decreta nos termos da alínea a) do n.º 1 do artigo 201.º da Constit
 
 5 - Pode ser autorizado o pagamento em prestações da parte do capital a receber pelo pensionista, havendo acordo das partes e garantia do respectivo pagamento integral, pela forma que o juiz determinar.
 
-###### Art. 65.º O capital da remição será igual a 95% do valor actual da pensão vitalícia remível.
+Art. 65.º O capital da remição será igual a 95% do valor actual da pensão vitalícia remível.
 
-###### Art. 2.º O presente diploma legislativo produz os seus efeitos a partir do dia 1 de Outubro de 1979, sendo apenas aplicável às incapacidades e remições a partir desta data.
+Art. 2.º O presente diploma legislativo produz os seus efeitos a partir do dia 1 de Outubro de 1979, sendo apenas aplicável às incapacidades e remições a partir desta data.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 8 de Novembro de 1979.**
+Promulgado em 8 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/19200/12111211.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1975-314912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bc75c669a64b5487a8799374c11f4c3942b79cf35af04e88c0e35fd5b0fd9ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef363e6ea1866aaf52e46c6800b06d637300b0c95a9fe89f75eacece6eb9ec17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Regime Jurídico
+- Venda a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:367609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:631441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633724:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:367609:por
+  label: "Revogado pelo DEC LEI.457/79.1979.11.21.MF DR.IS [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1979-367609
+  date: '1979-11-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:57Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +114,27 @@ Considerando a necessidade de reforçar os meios de fiscalização directa e ind
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 11.º, 12.º e 13.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 11.º, 12.º e 13.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. ...
 
 3. O Governo, em portaria dos Ministros das Finanças e para o Planeamento e Coordenação Económica, poderá dispensar, abaixo de determinado montante, a redução a escrito do contrato de venda a prestações.
 
-###### Art. 3.º - 1. (O actual corpo do artigo.)
+Art. 3.º - 1. (O actual corpo do artigo.)
 
 2. Tais títulos poderão ser impressos em papel contínuo para computador desde que selados pela Casa da Moeda, podendo as assinaturas do sacador e do endossante ser apostas mecanicamente.
 
 3. Estes títulos de crédito não podem ser objecto de reforma em qualquer instituição de crédito, nem de desconto directo ou indirecto no Banco de Portugal ou servirem de caução a operações de empréstimo pelo mesmo Banco a outras instituições de crédito ou instituições parabancárias.
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. ...
 
 3. Apenas o exemplar do contrato que fica na posse do vendedor carece de ser selado.
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. ...
 
@@ -126,7 +142,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 11.º - 1. ...
+Art. 11.º - 1. ...
 
 2. O crédito a que alude o número anterior não pode ser concedido por prazos superiores aos que vierem a ser determinados de acordo com a alínea c) do n.º 1 do artigo 7.º do presente diploma.
 
@@ -138,7 +154,7 @@ b) Se os contratos celebrados foram celebrados com observância das disposiçõe
 
 4. O Ministro das Finanças, sob proposta do Banco de Portugal e ouvido o Ministro para o Planeamento e Coordenação Económica, poderá estabelecer, mediante portaria, limites aos créditos a conceder por instituições de crédito e parabancárias, que tenham por objecto o financiamento das operações de venda a prestações reguladas pelo presente decreto-lei e, bem assim, o das importações dos bens referidos no artigo 1.º
 
-###### Art. 12.º - 1. A falta de livro de registo de vendas a prestações é punida com multa de 5000$00 a 1000000$00.
+Art. 12.º - 1. A falta de livro de registo de vendas a prestações é punida com multa de 5000$00 a 1000000$00.
 
 2. A falta de inscrição no registo especial a que se refere o artigo 9.º, quando exigida, é punida com multa de 5000$00 a 50000$00.
 
@@ -148,20 +164,20 @@ b) Se os contratos celebrados foram celebrados com observância das disposiçõe
 
 5. Por qualquer infracção ao regime estabelecido no presente diploma não especialmente prevista nos números anteriores, e sem prejuízo do disposto no n.º 2 do artigo 2.º e n.º 2 do artigo 5.º, será aplicada multa até metade do montante total do contrato de venda a prestações, a qual não poderá, contudo, ser inferior a 5000$00 nem superior a 100000$00.
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. O exercício das atribuições a que se refere o número anterior fica sujeito ao disposto nos artigos 6.º e seguintes do [Decreto-Lei n.º 452/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1971-633724), de 27 de Outubro.
 
-###### Art. 2.º - 1. A competência atribuída ao Ministro da Economia no artigo 7.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, passa para o Ministro para o Planeamento e Coordenação Económica.
+Art. 2.º - 1. A competência atribuída ao Ministro da Economia no artigo 7.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, passa para o Ministro para o Planeamento e Coordenação Económica.
 
 2. A competência atribuída nos artigos 9.º e 13.º do referido diploma à Inspecção-Geral das Actividades Económicas é, respectivamente, transferida para a Direcção-Geral do Comércio Interno e Direcção-Geral da Fiscalização Económica.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 4 de Agosto de 1975.**
+Promulgado em 4 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46895-1966-490380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 610db027591722aae97c08160078e1ed9b734dc594f72ff2ebdfeff49d733a4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37fb3418c73df2af5d27f1c2bb57b2e3ca776be9ea4970b3c4392288d590b415
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Coimbra
+- Criação de Lugares
+- Criação de Serviços
+- Lisboa
+- Porto
+- Quadro de Pessoal
+- Tesouraria da Fazenda Pública
+relationships:
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:20Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +123,11 @@ Aproveitando ainda a oportunidade para regular pela via legislativa o regime de 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada uma tesouraria da Fazenda Pública junta de cada Repartição Central de Finanças de Lisboa e Porto e da 2.ª Repartição de Finanças do concelho de Coimbra, regulada pelas disposições legais em vigor nas demais tesourarias e gerida por um tesoureiro de 1.ª classe, em tudo equiparado aos restantes que prestam serviço nas mesmas cidades.
+Artigo 1.º É criada uma tesouraria da Fazenda Pública junta de cada Repartição Central de Finanças de Lisboa e Porto e da 2.ª Repartição de Finanças do concelho de Coimbra, regulada pelas disposições legais em vigor nas demais tesourarias e gerida por um tesoureiro de 1.ª classe, em tudo equiparado aos restantes que prestam serviço nas mesmas cidades.
 
-###### Art. 2.º O quadro privativo das tesourarias da Fazenda Pública é aumentado de três tesoureiros e de três propostos de 1.ª classe.
+Art. 2.º O quadro privativo das tesourarias da Fazenda Pública é aumentado de três tesoureiros e de três propostos de 1.ª classe.
 
-###### Art. 3.º Para remuneração do respectivo pessoal auxiliar são fixadas as seguintes dotações:
+Art. 3.º Para remuneração do respectivo pessoal auxiliar são fixadas as seguintes dotações:
 
 Tesouraria junto da Repartição Central de Lisboa ... 133344$00
 
@@ -110,15 +137,15 @@ Tesouraria junto da 2.ª Repartição de Finanças do concelho de Coimbra ... 59
 
 ficando desta forma alterada a relação anexa ao [Decreto-Lei n.º 45463](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45463-1963-680624), de 26 de Dezembro de 1963.
 
-###### Art. 4.º O Ministro das Finanças poderá, por portaria publicada no Diário do Governo, criar ou suprimir as tesourarias da Fazenda Pública que a organização dos serviços da Direcção-Geral das Contribuições e Impostos venha a justificar, bem como, do mesmo modo, e sempre que as necessidades o exijam, alterar as dotações para pessoal auxiliar das tesourarias da Fazenda Pública em geral.
+Art. 4.º O Ministro das Finanças poderá, por portaria publicada no Diário do Governo, criar ou suprimir as tesourarias da Fazenda Pública que a organização dos serviços da Direcção-Geral das Contribuições e Impostos venha a justificar, bem como, do mesmo modo, e sempre que as necessidades o exijam, alterar as dotações para pessoal auxiliar das tesourarias da Fazenda Pública em geral.
 
-###### Art. 5.º Aos propostos e auxiliares das tesourarias da Fazenda Pública é aplicável o regime de faltas e licenças estabelecido no [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
+Art. 5.º Aos propostos e auxiliares das tesourarias da Fazenda Pública é aplicável o regime de faltas e licenças estabelecido no [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
 
-###### Art. 6.º É dada a nova redacção seguinte ao corpo do artigo 21.º do [Decreto-Lei n.º 37249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37249-1948-355138), de 28 de Dezembro de 1948:
+Art. 6.º É dada a nova redacção seguinte ao corpo do artigo 21.º do [Decreto-Lei n.º 37249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37249-1948-355138), de 28 de Dezembro de 1948:
 
-###### Art. 21.º Os tesoureiros da Fazenda Pública terão propostos de sua livre escolha e responsabilidade, nomeados entre indivíduos do sexo masculino, maiores ou emancipados, de idade não superior a 35 anos, quando de primeira nomeação, habilitados, pelo menos, com o 2.º ciclo dos liceus ou sua equivalência.
+Art. 21.º Os tesoureiros da Fazenda Pública terão propostos de sua livre escolha e responsabilidade, nomeados entre indivíduos do sexo masculino, maiores ou emancipados, de idade não superior a 35 anos, quando de primeira nomeação, habilitados, pelo menos, com o 2.º ciclo dos liceus ou sua equivalência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor - Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

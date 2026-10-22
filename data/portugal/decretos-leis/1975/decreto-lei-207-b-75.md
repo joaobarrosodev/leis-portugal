@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 90/1975, 2º Suplemento, Série I de 1975-04-17
   number: '90'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 584-(3) a 584-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/09002/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-b-1975-146910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00bafcbbccda13c8aa4188e80b4c1aa2e817841403b46dd522582194fb9cfad1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d5e4a3bf63550b65a1579d8950579159189a6af89a1f65330dc3203cef508bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Patronato
+- Sabotagem Económica
 relationships:
 - type: amended_by
   target: pt:dre:141647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:175813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534410:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:141647:por
+  label: "Revogado pelo DEC LEI.65/77.24.02.1977.MIT, DR.IS [46] de 24.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1977-141647
+  date: '1977-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:01Z'
   warnings: []
   errors: []
 ---
@@ -98,28 +113,28 @@ Considerando ainda que é dever do Conselho da Revolução, de acordo com o disp
 
 Nos termos do artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É vedado aos administradores, directores, mandatários, gerentes ou quaisquer pessoas responsáveis pela gestão das empresas a que se referem os anexos 4 e 5 do [Decreto-Lei n.º 203-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-c-1975-534410), de 15 de Abril, acordarem ou prometerem quaisquer alterações aos salários, remunerações, regalias e quaisquer outros benefícios em vigor nas respectivas empresas.
+Artigo 1.º - 1. É vedado aos administradores, directores, mandatários, gerentes ou quaisquer pessoas responsáveis pela gestão das empresas a que se referem os anexos 4 e 5 do [Decreto-Lei n.º 203-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-c-1975-534410), de 15 de Abril, acordarem ou prometerem quaisquer alterações aos salários, remunerações, regalias e quaisquer outros benefícios em vigor nas respectivas empresas.
 
 2. São nulos e de nenhum efeito os acordos e promessas já celebrados desde que tenham ocorrido em data posterior a 15 de Abril de 1975.
 
 3. As dúvidas resultantes da aplicação do n.º 1 poderão ser resolvidas, a pedido de qualquer das partes interessadas, por decisão do Conselho de Ministros, que poderá delegar essa competência.
 
-###### Art. 2.º Os contratos colectivos de trabalho cujo campo de aplicação se estenda a trabalhadores das empresas referidas no artigo 1.º e cujo período de vigência entretanto termine serão apresentados, para estudo, ao Ministério do Trabalho.
+Art. 2.º Os contratos colectivos de trabalho cujo campo de aplicação se estenda a trabalhadores das empresas referidas no artigo 1.º e cujo período de vigência entretanto termine serão apresentados, para estudo, ao Ministério do Trabalho.
 
-###### Art. 3.º - 1. Constitui crime de sabotagem económica a prática de algum dos factores mencionados no n.º 1 do artigo 1.º
+Art. 3.º - 1. Constitui crime de sabotagem económica a prática de algum dos factores mencionados no n.º 1 do artigo 1.º
 
 2. Os administradores, directores, mandatários ou gerentes que infrinjam o disposto no n.º 1 do artigo 1.º serão punidos com pena de prisão maior de dois a oito anos e multa de 1000000$00 a 100000000$00.
 
-###### Art. 4.º - 1. Os arguidos do crime previsto e punido no artigo anterior serão detidos até que o respectivo processo seja enviado aos tribunais comuns para julgamento.
+Art. 4.º - 1. Os arguidos do crime previsto e punido no artigo anterior serão detidos até que o respectivo processo seja enviado aos tribunais comuns para julgamento.
 
 2. No regime de prisão preventiva aplicar-se-á o que se encontra estabelecido para o foro militar.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 17 de Abril de 1975.**
+Promulgado em 17 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/424-1972-690851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63b73a7bd8e947b185ff01bf96b23d53310c5fc4540f2c9d6278f83e23d52647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 576b3ab0d18dd8e80a712ffa4522e87ef4a628171e7022a4d63f7b67079136ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215138:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:17Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +104,9 @@ Diploma orgânico dos Serviços de Planeamento e Integração Económica de Moç
 
 ### CAPÍTULO I — Atribuições e competência
 
-###### Artigo 1.º Os Serviços de Planeamento e Integração Económica de Moçambique são o sector da administração pública que dá execução à política de desenvolvimento económico e social superiormente definida, em especial através da preparação, elaboração e acompanhamento dos planos de fomento.
+Artigo 1.º Os Serviços de Planeamento e Integração Económica de Moçambique são o sector da administração pública que dá execução à política de desenvolvimento económico e social superiormente definida, em especial através da preparação, elaboração e acompanhamento dos planos de fomento.
 
-###### Art. 2.º Compete aos Serviços de Planeamento e Integração Económica:
+Art. 2.º Compete aos Serviços de Planeamento e Integração Económica:
 
 a) Preparar os anteprojectos dos planos de fomento e programas sectoriais e regionais da província, de acordo com a orientação que for estabelecida pelo Conselho de Ministros para os Assuntos Económicos, e elaborar os respectivos projectos de programas anuais de execução, bem como preparar as propostas de alteração dos mesmos;
 
@@ -134,7 +138,7 @@ n) Assegurar a ligação da Comissão Técnica de Planeamento e Integração Eco
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 3.º - 1. Os Serviços de Planeamento e Integração Económica constituem uma direcção de serviços, compreendendo:
+Art. 3.º - 1. Os Serviços de Planeamento e Integração Económica constituem uma direcção de serviços, compreendendo:
 
 a) Serviço de Planeamento Global;
 
@@ -148,9 +152,9 @@ e) Repartição Administrativa.
 
 2. Do regulamento dos Serviços, que será aprovado por portaria, constarão o número, orgânica e funções dos departamentos por que venham a repartir-se os serviços referidos nas alíneas a) a c) do número anterior.
 
-###### Art. 4.º Os Serviços de Planeamento e Integração Económica serão dirigidos por um director provincial, que será coadjuvado nas suas funções pelos inspectores provinciais.
+Art. 4.º Os Serviços de Planeamento e Integração Económica serão dirigidos por um director provincial, que será coadjuvado nas suas funções pelos inspectores provinciais.
 
-###### Art. 5.º - 1. Cada um dos serviços referidos nas alíneas a) a c) do n.º 1 do artigo 3.º será chefiado por um técnico-director.
+Art. 5.º - 1. Cada um dos serviços referidos nas alíneas a) a c) do n.º 1 do artigo 3.º será chefiado por um técnico-director.
 
 2. Os departamentos por que venham a repartir-se os serviços mencionados no número anterior serão chefiados por especialistas.
 
@@ -158,7 +162,7 @@ e) Repartição Administrativa.
 
 #### SECÇÃO II — Serviço de Planeamento Global
 
-###### Art. 6.º Compete ao Serviço de Planeamento Global:
+Art. 6.º Compete ao Serviço de Planeamento Global:
 
 a) Promover a realização, segundo a orientação superiormente definida, dos estudos respeitantes à determinação dos objectivos e instrumentos da política de desenvolvimento económico-social da província;
 
@@ -184,7 +188,7 @@ l) Apreciar e informar os pedidos de aval e as ofertas e pedidos de financiament
 
 #### SECÇÃO III — Serviço de Planeamento Sectorial
 
-###### Art. 7.º Compete ao Serviço do Planeamento Sectorial:
+Art. 7.º Compete ao Serviço do Planeamento Sectorial:
 
 a) Colaborar na elaboração dos planos de desenvolvimento sócio-económico, segundo uma óptica sectorial, e proceder ao acompanhamento da sua execução material;
 
@@ -198,7 +202,7 @@ e) Colaborar com os gabinetes de estudos das secretarias provinciais e outros or
 
 #### SECÇÃO IV — Serviço de Planeamento Regional
 
-###### Art. 8.º Compete ao Serviço de Planeamento Regional:
+Art. 8.º Compete ao Serviço de Planeamento Regional:
 
 a) Assegurar a ligação dos Serviços com as comissões consultivas regionais de planeamento;
 
@@ -206,19 +210,19 @@ b) Preparar, em colaboração com as comissões consultivas regionais de planeam
 
 c) Estabelecer a coordenação entre as programas regionais aprovados, tendo em vista a sua integração nos planos globais de desenvolvimento, e acompanhar a sua execução.
 
-###### Art. 9.º Quando a interesse e relevância dos planos de desenvolvimento regional o justifiquem, o Serviço de Planeamento Regional poderá ter delegações permanentes junto das comissões consultivas regionais de planeamento, cabendo ao Governador-Geral definir, por despacho, a composição e atribuições dessas delegações.
+Art. 9.º Quando a interesse e relevância dos planos de desenvolvimento regional o justifiquem, o Serviço de Planeamento Regional poderá ter delegações permanentes junto das comissões consultivas regionais de planeamento, cabendo ao Governador-Geral definir, por despacho, a composição e atribuições dessas delegações.
 
 #### SECÇÃO V — Centro de Documentação Técnico-Económica
 
-###### Art. 10.º - 1. Ao Centro de Documentação Técnico-Económica compete reunir e divulgar todos os estudos, publicações, estatísticas e demais documentação técnico-económica produzidos pelo sector público e privado, com interesse para um melhor conhecimento da problemática do desenvolvimento económico-social.
+Art. 10.º - 1. Ao Centro de Documentação Técnico-Económica compete reunir e divulgar todos os estudos, publicações, estatísticas e demais documentação técnico-económica produzidos pelo sector público e privado, com interesse para um melhor conhecimento da problemática do desenvolvimento económico-social.
 
 2. Compete igualmente ao Centro de Documentação o trabalho de reprodução, impressão gráfica e distribuição de todas as publicações dos Serviços.
 
-###### Art. 11.º O Centro de Documentação a que se refere o artigo anterior será organizado e mantido em colaboração com os serviços provinciais de agricultura, indústria, comércio e estatística e outros serviços e entidades interessados da província.
+Art. 11.º O Centro de Documentação a que se refere o artigo anterior será organizado e mantido em colaboração com os serviços provinciais de agricultura, indústria, comércio e estatística e outros serviços e entidades interessados da província.
 
 #### SECÇÃO VI — Repartição Administrativa
 
-###### Art. 12.º Compete à Repartição, Administrativa:
+Art. 12.º Compete à Repartição, Administrativa:
 
 a) Organizar os processos e o expediente relativos ao provimento, promoção, transferência, exoneração, aposentação, licenças a demais situações do pessoal;
 
@@ -234,15 +238,15 @@ f) Realizar o expediente inerente à totalidade das funções dos Serviços.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 13.º - 1. Os Serviços de Planeamento e Integração Económica terão o pessoal constante do mapa I, anexo ao presente diploma.
+Art. 13.º - 1. Os Serviços de Planeamento e Integração Económica terão o pessoal constante do mapa I, anexo ao presente diploma.
 
 2. Salvo na parte respeitante ao pessoal de direcção e chefia, o número de lugares dos diversos cargos constante do mapa referido no número anterior pode ser alterado por diploma legislativo ou decreto provincial.
 
-###### Art. 14.º - 1. Para ocorrer a necessidades eventuais ou extraordinárias de serviço, poderá o director dos Serviços propor a admissão, a título eventual, para além do quadro, de pessoal técnico, administrativo ou auxiliar, com designações iguais às do quadro.
+Art. 14.º - 1. Para ocorrer a necessidades eventuais ou extraordinárias de serviço, poderá o director dos Serviços propor a admissão, a título eventual, para além do quadro, de pessoal técnico, administrativo ou auxiliar, com designações iguais às do quadro.
 
 2. Mediante proposta do director dos Serviços, aprovada pelo Governador-Geral, poderá também ser confiada a entidades especializadas, ou a técnicos especialistas em regime de contrato ou tarefa, a execução dos estudos, inquéritos e trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas aos Serviços de Planeamento e Integração Económica.
 
-###### Art. 15.º Compete ao director dos Serviços:
+Art. 15.º Compete ao director dos Serviços:
 
 a) Dirigir e coordenar superiormente os serviços;
 
@@ -260,7 +264,7 @@ g) Propor a constituição de grupos de trabalho ou a elaboração de estudos t�
 
 h) Propor a realização de acções de formação e aperfeiçoamento com vista à actualização dos quadros e simplificação de processos administrativos.
 
-###### Art. 16.º Compete aos inspectores provinciais:
+Art. 16.º Compete aos inspectores provinciais:
 
 a) Elaborar os estudos, relatórios, pareceres e outros trabalhos que superiormente lhes sejam determinados;
 
@@ -272,57 +276,57 @@ d) Representar os Serviços nos conselhos ou comissões de outros serviços, em 
 
 e) Representar os Serviços nos conselhos a que se refere o artigo 35.º do presente diploma.
 
-###### Art. 17.º O cargo de director provincial será provido por nomeação, em comissão, pelo Ministro do Ultramar, sob proposta do Governador-Geral, ou, ouvido este, de entre os técnicos do quadro de direcção e chefia dos Serviços ou de entre indivíduos licenciados com curso superior adequado às respectivas funções e cuja especialização e curriculum o justifiquem.
+Art. 17.º O cargo de director provincial será provido por nomeação, em comissão, pelo Ministro do Ultramar, sob proposta do Governador-Geral, ou, ouvido este, de entre os técnicos do quadro de direcção e chefia dos Serviços ou de entre indivíduos licenciados com curso superior adequado às respectivas funções e cuja especialização e curriculum o justifiquem.
 
-###### Art. 18.º Os cargos de inspector provincial serão providas pelo Ministro do Ultramar, por nomeação ou em comissão, sob proposta do Governador-Geral, ou, ouvido este, de entre os técnicos do quadro de direcção e chefia dos Serviços ou de entre indivíduos licenciados com um curso superior adequados às respectivas funções e cuja especialização e curriculum o justifiquem.
+Art. 18.º Os cargos de inspector provincial serão providas pelo Ministro do Ultramar, por nomeação ou em comissão, sob proposta do Governador-Geral, ou, ouvido este, de entre os técnicos do quadro de direcção e chefia dos Serviços ou de entre indivíduos licenciados com um curso superior adequados às respectivas funções e cuja especialização e curriculum o justifiquem.
 
-###### Art. 19.º Os cargos de técnico-director serão providos pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, de entre os especialistas do quadro dos serviços ou de entre indivíduos com um curso superior adequado às respectivas funções e cuja especialização e curriculum o justifiquem.
+Art. 19.º Os cargos de técnico-director serão providos pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, de entre os especialistas do quadro dos serviços ou de entre indivíduos com um curso superior adequado às respectivas funções e cuja especialização e curriculum o justifiquem.
 
-###### Art. 20.º Os cargos do pessoal técnico de formação universitária serão providos pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, de entre licenciados com curso superior adequado.
+Art. 20.º Os cargos do pessoal técnico de formação universitária serão providos pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, de entre licenciados com curso superior adequado.
 
-###### Art. 21.º O cargo de chefe da Repartição Administrativa será provido pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, de entre diplomados com curso superior adequado.
+Art. 21.º O cargo de chefe da Repartição Administrativa será provido pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, de entre diplomados com curso superior adequado.
 
-###### Art. 22.º O cargo de adjunto documentalista será provido pelo Ministério do Ultramar, sob proposta do Governador-Geral, ou, ouvido este, de entre indivíduos que tenham como habilitações mínimas o 3.º ciclo dos liceus ou equivalente e conhecimentos especializados de francês e inglês, ou de entre indivíduos com o 2.º ciclo dos liceus ou equivalente, conhecimentos especializados de francês e inglês e que tenham exercido funções de técnico de documentação, por um período mínimo de cinco anos, em centros de documentação.
+Art. 22.º O cargo de adjunto documentalista será provido pelo Ministério do Ultramar, sob proposta do Governador-Geral, ou, ouvido este, de entre indivíduos que tenham como habilitações mínimas o 3.º ciclo dos liceus ou equivalente e conhecimentos especializados de francês e inglês, ou de entre indivíduos com o 2.º ciclo dos liceus ou equivalente, conhecimentos especializados de francês e inglês e que tenham exercido funções de técnico de documentação, por um período mínimo de cinco anos, em centros de documentação.
 
-###### Art. 23.º Os cargos de assistente técnico de 1.ª e 2.ª classes serão providos pelo Ministro do Ultramar, sob proposta do Governador-Geral, ou, ouvido este, de entre indivíduos que possuam como habilitações mínimas um curso médio ou que exerçam já funções de assistente técnico noutros organismos da província.
+Art. 23.º Os cargos de assistente técnico de 1.ª e 2.ª classes serão providos pelo Ministro do Ultramar, sob proposta do Governador-Geral, ou, ouvido este, de entre indivíduos que possuam como habilitações mínimas um curso médio ou que exerçam já funções de assistente técnico noutros organismos da província.
 
-###### Art. 24.º O cargo de adjunto do chefe da Repartição Administrativa será provido pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, por escolha, de entre os chefes de secção dos respectivos Serviços.
+Art. 24.º O cargo de adjunto do chefe da Repartição Administrativa será provido pelo Ministro do Ultramar, por nomeação, sob proposta do Governador-Geral, ou, ouvido este, por escolha, de entre os chefes de secção dos respectivos Serviços.
 
-###### Art. 25.º O cargo de assistente técnico desenhador será provido pelo Ministro do Ultramar, por nomeação, mediante proposta do Governador-Geral, ou, ouvido este, de entre desenhadores de 1.ª classe ou de entre indivíduos com a habilitação mínima do 2º ciclo liceal ou equivalente e três anos de efectivo serviço como desenhador, cujo curriculum o justifique.
+Art. 25.º O cargo de assistente técnico desenhador será provido pelo Ministro do Ultramar, por nomeação, mediante proposta do Governador-Geral, ou, ouvido este, de entre desenhadores de 1.ª classe ou de entre indivíduos com a habilitação mínima do 2º ciclo liceal ou equivalente e três anos de efectivo serviço como desenhador, cujo curriculum o justifique.
 
-###### Art. 26.º Os cargos de auxiliar documentalista de 1.ª classe serão providos pelo Ministro do Ultramar, por nomeação, precedida de concurso de provas práticas entre auxiliares documentalistas de 2.ª classe com três anos de bom e efectivo serviço e indivíduos que possuam o 3.º ciclo liceal ou habilitação equivalente e bons conhecimentos de francês e inglês.
+Art. 26.º Os cargos de auxiliar documentalista de 1.ª classe serão providos pelo Ministro do Ultramar, por nomeação, precedida de concurso de provas práticas entre auxiliares documentalistas de 2.ª classe com três anos de bom e efectivo serviço e indivíduos que possuam o 3.º ciclo liceal ou habilitação equivalente e bons conhecimentos de francês e inglês.
 
-###### Art. 27.º Os cargos de chefe de secção serão providos pelo Ministro do Ultramar, por nomeação, precedida de concurso de provas práticas entre os primeiros-oficiais dos respectivos serviços com três anos de bom e efectivo serviço na categoria, podendo o Governador-Geral, quando houver conveniência para os Serviços, autorizar à admissão ao concurso de primeiros-oficiais de outros serviços públicos da província, nas mesmas condições.
+Art. 27.º Os cargos de chefe de secção serão providos pelo Ministro do Ultramar, por nomeação, precedida de concurso de provas práticas entre os primeiros-oficiais dos respectivos serviços com três anos de bom e efectivo serviço na categoria, podendo o Governador-Geral, quando houver conveniência para os Serviços, autorizar à admissão ao concurso de primeiros-oficiais de outros serviços públicos da província, nas mesmas condições.
 
-###### Art. 28.º Os cargos de auxiliar documentalista de 2.ª classe serão providos, mediante concurso de provas práticas, de entre indivíduos que possuam o 3.º ciclo liceal ou equivalente e bons conhecimentos de francês e inglês.
+Art. 28.º Os cargos de auxiliar documentalista de 2.ª classe serão providos, mediante concurso de provas práticas, de entre indivíduos que possuam o 3.º ciclo liceal ou equivalente e bons conhecimentos de francês e inglês.
 
-###### Art. 29.º O cargo de operador-chefe de reprodução será provido por nomeação do Governador-Geral, sob proposta do director dos Serviços, de entre os operadores de reprodução dos mesmos Serviços ou de entre indivíduos com a habilitação mínima do ciclo preparatório ou equivalente e cuja aptidão profissional o justifique.
+Art. 29.º O cargo de operador-chefe de reprodução será provido por nomeação do Governador-Geral, sob proposta do director dos Serviços, de entre os operadores de reprodução dos mesmos Serviços ou de entre indivíduos com a habilitação mínima do ciclo preparatório ou equivalente e cuja aptidão profissional o justifique.
 
-###### Art. 30.º Os cargos de operador de reprodução serão providos por nomeação do Governador-Geral, mediante proposta do director dos Serviços, de entre indivíduos com a habilitação mínima do ciclo preparatório ou equivalente e cuja aptidão profissional o justifique.
+Art. 30.º Os cargos de operador de reprodução serão providos por nomeação do Governador-Geral, mediante proposta do director dos Serviços, de entre indivíduos com a habilitação mínima do ciclo preparatório ou equivalente e cuja aptidão profissional o justifique.
 
-###### Art. 31.º O provimento dos restantes lugares far-se-á de acordo com as normas estabelecidas no Estatuto de Funcionalismo Ultramarino.
+Art. 31.º O provimento dos restantes lugares far-se-á de acordo com as normas estabelecidas no Estatuto de Funcionalismo Ultramarino.
 
-###### Art. 32.º - 1.º Um dos inspectores provinciais, a designar por despacho do Governador-Geral, acumulará com as suas funções as de director dos Serviços, nas ausências, faltas ou impedimentos deste.
+Art. 32.º - 1.º Um dos inspectores provinciais, a designar por despacho do Governador-Geral, acumulará com as suas funções as de director dos Serviços, nas ausências, faltas ou impedimentos deste.
 
 2. Na falta de designação, o director dos Serviços será substituído pelo mais antigo dos inspectores provinciais.
 
-###### Art. 33.º Ao pessoal dos Serviços de Planeamento e Integração Económica a que se refere o mapa II, anexo ao presente diploma, serão atribuídas as gratificações mensais nele fixadas.
+Art. 33.º Ao pessoal dos Serviços de Planeamento e Integração Económica a que se refere o mapa II, anexo ao presente diploma, serão atribuídas as gratificações mensais nele fixadas.
 
-###### Art. 34.º - 1. Ao pessoal referido no mapa III, anexo ao presente diploma, será atribuído o subsídio diário aí fixado.
+Art. 34.º - 1. Ao pessoal referido no mapa III, anexo ao presente diploma, será atribuído o subsídio diário aí fixado.
 
 2. O subsídio diário será acumulável com quaisquer outros abonos e gratificações, sendo devido sempre que haja lugar ao pagamento do vencimento complementar.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 35.º Os serviços de Planeamento e Integração Económica passam a estar representados pelo director ou pelos inspectores provinciais nos conselhos de administração e conselhos gerais dos organismos de coordenação económica, serviços autónomos com actividade incluída nos planos de fomento e fundos em relação aos quais seja, por despacho do Governador-Geral, considerado conveniente assegurar a representação daqueles Serviços.
+Art. 35.º Os serviços de Planeamento e Integração Económica passam a estar representados pelo director ou pelos inspectores provinciais nos conselhos de administração e conselhos gerais dos organismos de coordenação económica, serviços autónomos com actividade incluída nos planos de fomento e fundos em relação aos quais seja, por despacho do Governador-Geral, considerado conveniente assegurar a representação daqueles Serviços.
 
-###### Art. 36.º - 1. As sessões da Comissão Técnica de Planeamento e Integração Económica poderão, consoante a natureza dos assuntos a tratar, ser plenárias ou restritas.
+Art. 36.º - 1. As sessões da Comissão Técnica de Planeamento e Integração Económica poderão, consoante a natureza dos assuntos a tratar, ser plenárias ou restritas.
 
 2. Tratando-se de sessões restritas, a ordem do dia será enviada a todos os membros da Comissão, com indicação daqueles cuja presença se considera necessária.
 
-###### Art. 37.º No Conselho Coordenador de Planeamento e Integração Económica os bancos de investimento estarão representados por um vogal.
+Art. 37.º No Conselho Coordenador de Planeamento e Integração Económica os bancos de investimento estarão representados por um vogal.
 
-###### Art. 38.º O pessoal do actual quadro dos Serviços de Planeamento e Integração Económica transita, independentemente de visto e posse e de quaisquer outras formalidades, para os lugares a que se refere o mapa I, anexo ao presente diploma, pela seguinte forma:
+Art. 38.º O pessoal do actual quadro dos Serviços de Planeamento e Integração Económica transita, independentemente de visto e posse e de quaisquer outras formalidades, para os lugares a que se refere o mapa I, anexo ao presente diploma, pela seguinte forma:
 
 a) Para adjunto do chefe da Repartição Administrativa, o actual chefe de secretaria;
 
@@ -338,26 +342,26 @@ f) Para operador de reprodução, o escriturário de 1.ª classe que opera com o
 
 g) Para lugares de idêntica categoria e designação, o restante pessoal.
 
-###### Art. 39.º O provimento dos lugares do quadro do pessoal administrativo dos Serviços de Planeamento e Integração Económica que ficarem vagos após a transição prevista no artigo anterior será feito mediante concurso de provas práticas, a que poderão concorrer todos os candidatos de categoria imediatamente inferior que possuam as habilitações legais.
+Art. 39.º O provimento dos lugares do quadro do pessoal administrativo dos Serviços de Planeamento e Integração Económica que ficarem vagos após a transição prevista no artigo anterior será feito mediante concurso de provas práticas, a que poderão concorrer todos os candidatos de categoria imediatamente inferior que possuam as habilitações legais.
 
-###### Art. 40.º Fica o Governador-Geral de Moçambique autorizado a abrir os créditos necessários à execução deste diploma, podendo, entretanto, os encargos dele resultantes ser suportados pelas disponibilidades da verba de «Pessoal dos quadros aprovados por lei», atribuída no orçamento geral vigente aos Serviços de Planeamento e Integração Económica.
+Art. 40.º Fica o Governador-Geral de Moçambique autorizado a abrir os créditos necessários à execução deste diploma, podendo, entretanto, os encargos dele resultantes ser suportados pelas disponibilidades da verba de «Pessoal dos quadros aprovados por lei», atribuída no orçamento geral vigente aos Serviços de Planeamento e Integração Económica.
 
-###### Art. 41.º As dúvidas que surgirem na aplicação deste decreto serão resolvidas por despacho do Ministro do Ultramar.
+Art. 41.º As dúvidas que surgirem na aplicação deste decreto serão resolvidas por despacho do Ministro do Ultramar.
 
-###### Art. 42.º Este decreto entra imediatamente em vigor.
+Art. 42.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Outubro de 1972.**
+Promulgado em 20 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.
 
 Do MAPA I ao MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/10/25400/15711575.pdf))](https://files.diariodarepublica.pt/1s/1972/10/25400/15711575.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/10/25400/15711575.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

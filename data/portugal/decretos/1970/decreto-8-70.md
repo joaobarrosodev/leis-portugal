@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-1970-275254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6443543a4d94fd95f9af33c6e9461e7da3e2ea3b26d9911b84bc6fac177c0fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcf97a7d0b73daa474e747676f7ecadf8c49a4eb31be99d2c1ff8c9b676d16a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:27Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +98,25 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No Ministério das Corporações e Previdência Social é criado, nos termos e para os efeitos previstos no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, o Gabinete de Planeamento, órgão técnico directamente dependente do Ministro e destinado a assegurar e coordenar a actuação do Ministério na preparação e execução dos planos de fomento e a estabelecer as convenientes ligações com os órgãos centrais e interministeriais de planeamento.
+Artigo 1.º No Ministério das Corporações e Previdência Social é criado, nos termos e para os efeitos previstos no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, o Gabinete de Planeamento, órgão técnico directamente dependente do Ministro e destinado a assegurar e coordenar a actuação do Ministério na preparação e execução dos planos de fomento e a estabelecer as convenientes ligações com os órgãos centrais e interministeriais de planeamento.
 
-###### Art. 2.º - 1. Além das funções previstas no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), compete também ao Gabinete de Planeamento garantir a representação do Ministério em grupos ou comissões incumbidos de tarefas de planeamento ou com elas relacionados.
+Art. 2.º - 1. Além das funções previstas no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), compete também ao Gabinete de Planeamento garantir a representação do Ministério em grupos ou comissões incumbidos de tarefas de planeamento ou com elas relacionados.
 
 2. Para o desempenho das funções do Gabinete deverá assegurar-se perfeita articulação com as actividades públicas e privadas intervenientes na programação do desenvolvimento do sector, bem como com a Comissão Consultiva de Estatística do Ministério, criada nos termos do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), de 29 de Março de 1966.
 
-###### Art. 3.º - 1. Os programas de trabalho anuais do Gabinete de Planeamento deverão incluir os estudos e outras iniciativas que o Gabinete se proponha levar a efeito para o desempenho das respectivas funções, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
+Art. 3.º - 1. Os programas de trabalho anuais do Gabinete de Planeamento deverão incluir os estudos e outras iniciativas que o Gabinete se proponha levar a efeito para o desempenho das respectivas funções, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
 
 2. Em relação a todas as actividades relacionadas com os órgãos centrais e interministeriais de planeamento, o Secretariado Técnico da Presidência do Conselho deverá proporcionar as orientações necessárias quanto a normas de trabalho e prazos de realização.
 
-###### Art. 4.º O director do Gabinete poderá solicitar aos serviços do Ministério, instituições de previdência social, organismos corporativos e entidades públicas e privadas ligadas a iniciativas abrangidas pelos planos de fomento para o sector todas as informações e elementos necessários ao desempenho das suas funções.
+Art. 4.º O director do Gabinete poderá solicitar aos serviços do Ministério, instituições de previdência social, organismos corporativos e entidades públicas e privadas ligadas a iniciativas abrangidas pelos planos de fomento para o sector todas as informações e elementos necessários ao desempenho das suas funções.
 
-###### Art. 5.º - 1. O quadro do pessoal dirigente e técnico do Gabinete de Planeamento é o constante do mapa anexo ao presente diploma e será preenchido de harmonia com o disposto nos artigos 3.º, 12.º e 13.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
+Art. 5.º - 1. O quadro do pessoal dirigente e técnico do Gabinete de Planeamento é o constante do mapa anexo ao presente diploma e será preenchido de harmonia com o disposto nos artigos 3.º, 12.º e 13.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
 
 2. No recrutamento e formação do pessoal técnico deverá procurar assegurar-se a necessária especialização nas diferentes funções de planeamento, nomeadamente a análise e projecção do desenvolvimento do sector, a programação sectorial de investimentos e medidas de política, a preparação e avaliação de projectos e o contrôle e acompanhamento conjuntural da execução material e financeira dos programas.
 
 3. Os lugares de especialista e de técnico de 1.ª podem ser transformados, com carácter transitório, em lugares de, respectivamente, técnico de 1.ª e técnico de 2.ª (letra H).
 
-###### Art. 6.º - 1. Junto do Gabinete de Planeamento é constituído um conselho consultivo, nos termos e com as funções previstas nas alíneas c), d) e e) do artigo 2.º, no n.º 2 do artigo 4.º e no artigo 9.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), e composto, além dos membros do Gabinete, por representantes das seguintes entidades:
+Art. 6.º - 1. Junto do Gabinete de Planeamento é constituído um conselho consultivo, nos termos e com as funções previstas nas alíneas c), d) e e) do artigo 2.º, no n.º 2 do artigo 4.º e no artigo 9.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), e composto, além dos membros do Gabinete, por representantes das seguintes entidades:
 
 a) Direcção-Geral do Trabalho e Corporações;
 
@@ -144,7 +152,7 @@ n) Caixa Central de Segurança Social dos Trabalhadores Migrantes.
 
 5. Os membros do conselho e as entidades chamadas ou convidadas a participar nas reuniões terão direito a senhas de presença por reunião em que participem.
 
-###### Art. 7.º - 1. Os núcleos de planeamento previstos nos artigos 4.º, 10.º e 11.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) serão constituídos, em cada direcção-geral ou serviço, pelo respectivo representante no conselho consultivo e pelos técnicos que tenham a seu cargo os problemas de planeamento e elaboração de projectos de investimentos.
+Art. 7.º - 1. Os núcleos de planeamento previstos nos artigos 4.º, 10.º e 11.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) serão constituídos, em cada direcção-geral ou serviço, pelo respectivo representante no conselho consultivo e pelos técnicos que tenham a seu cargo os problemas de planeamento e elaboração de projectos de investimentos.
 
 2. Serão desde já constituídos núcleos de planeamento nos seguintes departamentos do Ministério:
 
@@ -156,14 +164,14 @@ c) Fundo de Desenvolvimento da Mão-de-Obra.
 
 Marcello Caetano - João Augusto Dias Rosas - José João Gonçalves de Proença.
 
-**Promulgado em 31 de Dezembro de 1969.**
+Promulgado em 31 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa anexo ao Decreto n.º 8/70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/00400/00170018.pdf))](https://files.diariodarepublica.pt/1s/1970/01/00400/00170018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/00400/00170018.pdf)
 
 João Augusto Dias Rosas - José João Gonçalves de Proença.

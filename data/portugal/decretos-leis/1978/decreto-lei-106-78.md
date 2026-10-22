@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/11900/09240927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83b8b9854fda62a4fe821f39ca12b852c6f1502554f42bc91b6accdb34fe3c91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b89cc845753868ff07a49199c51000a0e06164eb12d0388aa65a849d4f78e431
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono para Falhas
+- ADSE
+- Aprendizagem
+- Comissão Instaladora
+- Comparticipação do Estado
+- Extinção de Lugares
+- Função Pública
+- Funcionário Público
+- Gratificação
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Remuneração
+- Remuneração Acessória
+- Senha de Presença
+- Sistema Retributivo
+- Subsídio de Férias
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324723:por
+  label: Alterado o n.º 1 do art. 1.º do presente diploma, pelo(a) Portaria n.º 738/78 - Diário da República n.º 286/1978,
+    Série I de 1978-12-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/738-1978-324723
+  date: '1978-12-14'
+- type: amended_by
+  target: pt:dre:383405:por
+  label: Alterados os n.ºs 2 e 4 do art. 10.º pelo DEC LEI.169/79.06.06.1979.PCM, DR.IS [130] de 06.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1979-383405
+  date: '1979-06-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:250452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430819:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:378358:por
+  label: "Revogado o nº 1 do art. 4º, pelo DEC LEI.265/88.1988.07.28.MF, DR.IS [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1988-378358
+  date: '1988-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:36Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +180,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da Administração Pública Central e das administrações regional e local e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passa a ser a seguinte:
+Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da Administração Pública Central e das administrações regional e local e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passa a ser a seguinte:
 
 A ... 24000$00
 
@@ -178,7 +228,7 @@ U ... 6800$00
 
 3 - O disposto no n.º 1 é aplicável, na medida das disponibilidades financeiras, ao pessoal dos Cofres Gerais dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça, bem como ao das pessoas colectivas de direito privado e utilidade pública administrativa com fins de saúde e assistência, mediante despacho conjunto dos Ministros das Finanças e do Plano e da Reforma Administrativa e dos demais Ministros competentes.
 
-###### Art. 2.º - 1 - Os vencimentos dos aprendizes e praticantes que não estejam incluídos nas letras da tabela constante do artigo anterior são fixados nos seguintes termos:
+Art. 2.º - 1 - Os vencimentos dos aprendizes e praticantes que não estejam incluídos nas letras da tabela constante do artigo anterior são fixados nos seguintes termos:
 
 a) No 1.º ano de aprendizagem ou de prática ... 4800$00
 
@@ -194,11 +244,11 @@ d) A partir do 4.º ano, o vencimento correspondente à letra U.
 
 4 - Sem prejuízo das remunerações superiores já praticadas, a remuneração mensal dos trabalhadores rurais ao serviço da Administração Pública Central e das administrações regional e local é fixada de harmonia com o salário corrente na região, não podendo em caso algum ser inferior ao salário mínimo nacional garantido aos trabalhadores rurais.
 
-###### Art. 3.º - 1 - O disposto nos artigos anteriores produz efeitos desde 1 de Janeiro de 1978.
+Art. 3.º - 1 - O disposto nos artigos anteriores produz efeitos desde 1 de Janeiro de 1978.
 
 2 - Os abonos correspondentes aos efeitos retroactivos do presente diploma poderão ser pagos em prestações até ao final do ano em curso, mediante regras a estabelecer por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 4.º - 1 - Aos cargos de chefe de secção e de chefe de repartição da Administração Pública Central e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passam a corresponder respectivamente as letras I e E da tabela referida no n.º 1 do artigo 1.º
+Art. 4.º - 1 - Aos cargos de chefe de secção e de chefe de repartição da Administração Pública Central e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos passam a corresponder respectivamente as letras I e E da tabela referida no n.º 1 do artigo 1.º
 
 2 - Por portaria conjunta dos Ministros das Finanças e do Plano, da Reforma Administrativa e demais Ministros competentes, poderão ser alteradas as letras atribuídas às categorias de pessoal dirigente que tenham designações especiais anteriormente equiparadas às categorias de chefe de secção e de repartição.
 
@@ -210,7 +260,7 @@ d) A partir do 4.º ano, o vencimento correspondente à letra U.
 
 6 - O disposto nos números anteriores será aplicável à administração local, com as necessárias adaptações, mediante decreto dos Ministros das Finanças e do Plano, da Administração Interna e da Reforma Administrativa.
 
-###### Art. 5.º - 1 - É proibida a criação, aumento ou extensão de remunerações acessórias, salvo em casos devidamente fundamentados, mediante decreto-lei da iniciativa do Ministro da Reforma Administrativa, sob parecer prévio da Comissão Interministerial para as Remunerações Acessórias.
+Art. 5.º - 1 - É proibida a criação, aumento ou extensão de remunerações acessórias, salvo em casos devidamente fundamentados, mediante decreto-lei da iniciativa do Ministro da Reforma Administrativa, sob parecer prévio da Comissão Interministerial para as Remunerações Acessórias.
 
 2 - É ainda proibida a extensão das remunerações acessórias ao pessoal dos serviços que sejam criados ou integrados em departamentos em cujo âmbito as mesmas venham sendo praticadas.
 
@@ -226,7 +276,7 @@ d) A partir do 4.º ano, o vencimento correspondente à letra U.
 
 8 - O disposto no presente artigo prevalece sobre toda e qualquer disposição especial em contrário.
 
-###### Art. 6.º - 1 - As gratificações que constituem única forma de remuneração do exercício de cargos ou de funções serão alteradas a partir de 1 de Janeiro de 1978, de acordo com os critérios seguintes:
+Art. 6.º - 1 - As gratificações que constituem única forma de remuneração do exercício de cargos ou de funções serão alteradas a partir de 1 de Janeiro de 1978, de acordo com os critérios seguintes:
 
 a) Se se tratar de trabalho a tempo parcial, a respectiva remuneração será calculada nos termos do artigo 7.º, tendo por base o vencimento da categoria a que correspondem as funções exercidas;
 
@@ -234,15 +284,15 @@ b) Se se tratar de exercício de funções sem sujeição a horário determinado
 
 2 - A fixação ou alteração das gratificações devidas por funções exercidas em acumulação ou no âmbito de comissões ou grupos de trabalho poderá ser feita mediante despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e dos demais Ministros competentes.
 
-###### Art. 7.º - 1 - Para todos os efeitos legais, o valor da hora de trabalho é calculado na base da fórmula (V x 12)/(52 x n), sendo V a remuneração mensal e n o número de horas correspondentes ao horário normal semanal.
+Art. 7.º - 1 - Para todos os efeitos legais, o valor da hora de trabalho é calculado na base da fórmula (V x 12)/(52 x n), sendo V a remuneração mensal e n o número de horas correspondentes ao horário normal semanal.
 
 2 - A fórmula referida no número anterior servirá de base de cálculo de qualquer outra fracção de tempo de trabalho.
 
-###### Art. 8.º As senhas de presença só poderão ser abonadas por reuniões realizadas fora das horas normais de serviço, sendo o seu quantitativo fixado em 250$00 por sessão.
+Art. 8.º As senhas de presença só poderão ser abonadas por reuniões realizadas fora das horas normais de serviço, sendo o seu quantitativo fixado em 250$00 por sessão.
 
-###### Art. 9.º O abono para falhas será uniformizado mediante portaria dos Ministros das Finanças e do Plano e da Reforma Administrativa, tendo em conta os valores movimentados.
+Art. 9.º O abono para falhas será uniformizado mediante portaria dos Ministros das Finanças e do Plano e da Reforma Administrativa, tendo em conta os valores movimentados.
 
-###### Art. 10.º - 1 - Aos funcionários e agentes que aufiram vencimento segundo a tabela prevista no n.º 1 do artigo 1.º é proibido o exercício cumulativo do seu cargo ou função com o de membro de conselho de gerência, de administração ou comissão administrativa, consoante os casos, de empresas públicas, nacionalizadas, intervencionadas e de economia mista.
+Art. 10.º - 1 - Aos funcionários e agentes que aufiram vencimento segundo a tabela prevista no n.º 1 do artigo 1.º é proibido o exercício cumulativo do seu cargo ou função com o de membro de conselho de gerência, de administração ou comissão administrativa, consoante os casos, de empresas públicas, nacionalizadas, intervencionadas e de economia mista.
 
 2 - A remuneração dos funcionários e agentes que sejam membros das comissões de fiscalização ou conselhos fiscais das empresas referidas no número anterior não poderá exceder 50% do quantitativo atribuído ao respectivo presidente.
 
@@ -252,9 +302,9 @@ b) Se se tratar de exercício de funções sem sujeição a horário determinado
 
 5 - Ao disposto no presente artigo é aplicável o estabelecido no n.º 8 do artigo 5.º
 
-###### Art. 11.º Aos membros das comissões instaladoras de quaisquer organismos ou serviços públicos não poderão ser abonadas remunerações mensais superiores às da letra A da tabela prevista no n.º 1 do artigo 1.º
+Art. 11.º Aos membros das comissões instaladoras de quaisquer organismos ou serviços públicos não poderão ser abonadas remunerações mensais superiores às da letra A da tabela prevista no n.º 1 do artigo 1.º
 
-###### Art. 12.º - 1 - A comparticipação da ADSE é fixada:
+Art. 12.º - 1 - A comparticipação da ADSE é fixada:
 
 a) Na assistência médica, em 250$00 por consulta;
 
@@ -264,22 +314,22 @@ b) Na assistência medicamentosa, em 75% e 60%, respectivamente nos medicamentos
 
 3 - A ADSE poderá ser autorizada, mediante despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e dos Assuntos Sociais, a celebrar contratos com estabelecimentos hospitalares do sector privado ou cooperativo, para efeitos da prestação de assistência aos seus beneficiários, em regime de internamento ou de socorros urgentes.
 
-###### Art. 13.º - 1 - A partir da entrada em vigor do presente diploma é proibido o recrutamento de paquetes, ficando extintos os lugares existentes e não preenchidos.
+Art. 13.º - 1 - A partir da entrada em vigor do presente diploma é proibido o recrutamento de paquetes, ficando extintos os lugares existentes e não preenchidos.
 
 2 - Os lugares preenchidos extinguir-se-ão à medida que vagarem.
 
-###### Art. 14.º - 1 - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentadas para pagamento dos respectivos vencimentos.
+Art. 14.º - 1 - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentadas para pagamento dos respectivos vencimentos.
 
 2 - Os orçamentos suplementares, eventualmente elaborados para este efeito, não contarão para o limite estabelecido no artigo 8.º do [Decreto-Lei n.º 585/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1976-430819), de 22 de Julho.
 
-###### Art. 15.º O subsídio de férias a abonar ao pessoal previsto no presente diploma será pago, no corrente ano, durante o mês de Julho.
+Art. 15.º O subsídio de férias a abonar ao pessoal previsto no presente diploma será pago, no corrente ano, durante o mês de Julho.
 
-###### Art. 16.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Reforma Administrativa, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
+Art. 16.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Reforma Administrativa, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 17 de Maio de 1978.**
+Promulgado em 17 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

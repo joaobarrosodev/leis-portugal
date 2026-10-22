@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/208-1972-673999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b92164efb228c996ed4cf22ed9c34fdbd415fc5aba8ccf1b31e5487be62487d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42ca6415d1b26b70d4d043bc2cf9e639d4b4581cafa3465865645be576dabfe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:20Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Durante o prazo de um ano fica proibida, na área da cidade de Lisboa representada na planta anexa a este diploma, a prática dos actos ou actividades seguintes:
+Artigo 1.º - 1. Durante o prazo de um ano fica proibida, na área da cidade de Lisboa representada na planta anexa a este diploma, a prática dos actos ou actividades seguintes:
 
 a) Construção, reconstrução ou ampliação de edifícios ou outras instalações;
 
@@ -98,16 +102,16 @@ b) Derrube de árvores, em maciços de qualquer área.
 
 2. aplicável às medidas preventivas a que se refere o número antecedente o disposto nos artigos 3.º a 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro.
 
-###### Art. 2.º O presente decreto entra imediatamente em vigor.
+Art. 2.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 29 de Maio de 1972.**
+Promulgado em 29 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/06/14400/08050805.pdf))](https://files.diariodarepublica.pt/1s/1972/06/14400/08050805.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/06/14400/08050805.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

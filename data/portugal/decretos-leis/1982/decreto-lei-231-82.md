@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13700/17151722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,132 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1982-395887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 143d3a8db1c69ae082d742fb00f36535b6130c4e64ec17d9a8473b22c41c2d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cee049bf9a6e98a6db85c5f8ba1701ebdb37b6a26ace2f628b9af09fc210530f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Crédito Agrícola
+- Cooperativa Agrícola
+- Cooperativa de Crédito
+- Crédito Agrícola
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:693844:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328856:por
+  label: "Prorrogado por mais dois anos o período de funcionamento da comissão criada pelo art. 2º do presente diploma, pelo\
+    \ DEC LEI.26/85.1985.01.18.MFP, DR.IS [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1985-328856
+  date: '1985-01-18'
+- type: amended_by
+  target: pt:dre:179830:por
+  label: "Dada nova redacção aos arts. 31º e 36º do anexo ao presente diploma, pelo DEC LEI.316/85.1985.08.02.MFP, DR.IS [137]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1985-179830
+  date: '1985-08-02'
+- type: amended_by
+  target: pt:dre:287165:por
+  label: "Alterada a redacção do art. 47º do anexo ao presente diploma pelo DEC LEI.87/88.1988.03.10.MF, DR.IS [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-1988-287165
+  date: '1988-03-10'
+- type: cites
+  target: pt:dre:143086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689439:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394140:por
+  label: Rectificado pela DECL.DD872.1982.07.12.PCM, DR.IS [166]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394140
+  date: '1982-07-12'
+- type: repealed_by
+  target: pt:dre:693844:por
+  label: "Revogado, a partir de 10.12.1991, pelo DEC LEI.24/91.1991.01.11.MF, DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-1991-693844
+  date: '1991-01-11'
 article_structure:
-  article_count: 58
+  article_count: 57
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:36Z'
   warnings: []
   errors: []
 ---
@@ -136,13 +228,13 @@ Quanto à caixa central, espera-se ter criado um adequado instrumento de gestão
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola anexo ao presente diploma e do qual faz parte integrante.
+Artigo 1.º É aprovado o Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola anexo ao presente diploma e do qual faz parte integrante.
 
-###### Art. 2.º - 1 - É criada um comissão que funcionará sob a presidência do Banco de Portugal e à qual competirá acompanhar regularmente, durante 2 anos, a aplicação deste diploma e propor ao Governo, pelo Ministério das Finanças e do Plano, os diplomas regulamentares e outros que se mostrem necessários.
+Art. 2.º - 1 - É criada um comissão que funcionará sob a presidência do Banco de Portugal e à qual competirá acompanhar regularmente, durante 2 anos, a aplicação deste diploma e propor ao Governo, pelo Ministério das Finanças e do Plano, os diplomas regulamentares e outros que se mostrem necessários.
 
 2 - A constituição da comissão a que se refere o número anterior será decidida por despacho do Ministro de Estado e das Finanças e do Plano, sob proposta do Banco de Portugal.
 
-###### Art. 3.º - 1 - O disposto nos artigos 8.º e 9.º do anexo não prejudica as situações constituídas à data da publicação do presente diploma.
+Art. 3.º - 1 - O disposto nos artigos 8.º e 9.º do anexo não prejudica as situações constituídas à data da publicação do presente diploma.
 
 2 - As acções pendentes nos tribunais de execuções fiscais para cobrança coerciva dos créditos das caixas de crédito agrícola mútuo à data da entrada em vigor do presente diploma seguirão nesses tribunais os seus termos até final.
 
@@ -162,23 +254,23 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 10 - As assembleias gerais das caixas de crédito agrícola mútuo actualmente geridas nor comissões administrativas reunirão no prazo de 180 dias a contar da data da entrada em vigor do presente diploma, a fim de elegerem os titulares dos cargos sociais, cessando o mandato dessas comissões administrativas logo que os novos titulares tomem posse dos cargos.
 
-###### Art. 4.º Mantêm-se em vigor todas as isenções fiscais previstas nas leis relativas às caixas de crédito agrícola mútuo e às suas operações.
+Art. 4.º Mantêm-se em vigor todas as isenções fiscais previstas nas leis relativas às caixas de crédito agrícola mútuo e às suas operações.
 
-###### Art. 5.º Sem prejuízo do disposto nos artigos 3.º e 4.º deste diploma, fica revogada toda a legislação em contrário, designadamente a [Lei n.º 215](https://diariodarepublica.pt/dr/detalhe/lei/215-1914-479437), de 30 de Junho de 1914, o [Decreto n.º 4022](https://diariodarepublica.pt/dr/detalhe/decreto/4022-1918-403875), de 29 de Março de 1918, o regulamento aprovado pelo [Decreto n.º 5219](https://diariodarepublica.pt/dr/detalhe/decreto/5219-1919-207643), de 6 de Janeiro de 1919, o [Decreto n.º 9883](https://diariodarepublica.pt/dr/detalhe/decreto/9883-1924-543477), de 2 de Julho de 1924, o [Decreto n.º 11797](https://diariodarepublica.pt/dr/detalhe/decreto/11797-1926-153947), de 29 de Junho de 1926, o [Decreto n.º 12821](https://diariodarepublica.pt/dr/detalhe/decreto/12821-1926-143086), de 14 de Dezembro de 1926, o [Decreto n.º 13734](https://diariodarepublica.pt/dr/detalhe/decreto/13734-1927-689439), de 6 de Junho de 1927, o [Decreto n.º 14207](https://diariodarepublica.pt/dr/detalhe/decreto/14207-1927-682655), de 1 de Setembro de 1927, o [Decreto n.º 15935](https://diariodarepublica.pt/dr/detalhe/decreto/15935-1928-608958), de 8 de Setembro de 1928, o [Decreto-Lei n.º 29063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29063-1938-351966), de 17 de Outubro de 1938, e o [Decreto-Lei n.º 69/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1981-389042), de 7 de Abril.
+Art. 5.º Sem prejuízo do disposto nos artigos 3.º e 4.º deste diploma, fica revogada toda a legislação em contrário, designadamente a [Lei n.º 215](https://diariodarepublica.pt/dr/detalhe/lei/215-1914-479437), de 30 de Junho de 1914, o [Decreto n.º 4022](https://diariodarepublica.pt/dr/detalhe/decreto/4022-1918-403875), de 29 de Março de 1918, o regulamento aprovado pelo [Decreto n.º 5219](https://diariodarepublica.pt/dr/detalhe/decreto/5219-1919-207643), de 6 de Janeiro de 1919, o [Decreto n.º 9883](https://diariodarepublica.pt/dr/detalhe/decreto/9883-1924-543477), de 2 de Julho de 1924, o [Decreto n.º 11797](https://diariodarepublica.pt/dr/detalhe/decreto/11797-1926-153947), de 29 de Junho de 1926, o [Decreto n.º 12821](https://diariodarepublica.pt/dr/detalhe/decreto/12821-1926-143086), de 14 de Dezembro de 1926, o [Decreto n.º 13734](https://diariodarepublica.pt/dr/detalhe/decreto/13734-1927-689439), de 6 de Junho de 1927, o [Decreto n.º 14207](https://diariodarepublica.pt/dr/detalhe/decreto/14207-1927-682655), de 1 de Setembro de 1927, o [Decreto n.º 15935](https://diariodarepublica.pt/dr/detalhe/decreto/15935-1928-608958), de 8 de Setembro de 1928, o [Decreto-Lei n.º 29063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29063-1938-351966), de 17 de Outubro de 1938, e o [Decreto-Lei n.º 69/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1981-389042), de 7 de Abril.
 
-###### Art. 6.º As caixas agrícolas e suas organizações de grau superior deverão adaptar os seus estatutos ao disposto no Código Cooperativo e no presente diploma até ao dia 31 de Dezembro de 1982.
+Art. 6.º As caixas agrícolas e suas organizações de grau superior deverão adaptar os seus estatutos ao disposto no Código Cooperativo e no presente diploma até ao dia 31 de Dezembro de 1982.
 
-###### Art. 7.º O presente diploma e seu anexo entram em vigor 30 dias após a sua publicação.
+Art. 7.º O presente diploma e seu anexo entram em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 27 de Maio de 1982.**
+Promulgado em 27 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo a que se refere o artigo 1.º
+Anexo a que se refere o artigo 1.º
 
 REGIME JURÍDICO DO CRÉDITO AGRÍCOLA MÚTUO E DAS COOPERATIVAS DE CRÉDITO AGRÍCOLA
 

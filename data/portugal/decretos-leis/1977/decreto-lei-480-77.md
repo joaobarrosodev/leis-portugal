@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26400/27242726.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1977-280742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec0daa234b34760ae1c7e20db4d04708d1ddeb2434c72371b71669ac4dfcdbab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c6f9b98ccda4c3cb6bdd1c0995419b67e19687aae49b0fbacae002bf064b070
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Medicina de Reabilitação do Alcoitão
+- Direcção Geral dos Hospitais
+- Estabelecimento Hospitalar
+- Hospital Ortopédico de Santana
+- Lisboa
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:681594:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:296256:por
+  label: Clarificado o disposto no n.º 1 do art. 4.º e nos n.ºs 1 e 2 do art. 11.º pelo(a) Despacho Normativo n.º 110/78 -
+    Diário da República n.º 111/1978, Série I de 1978-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/110-1978-296256
+  date: '1978-05-15'
+- type: amended_by
+  target: pt:dre:396534:por
+  label: "Alterado no que respeita à dependência do Hospital de Sant´ana, pelo DEC LEI.341/82.25.08.1982.MAS, DR.IS [196]\
+    \ de 25.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/341-1982-396534
+  date: '1982-08-03'
+- type: cites
+  target: pt:dre:146055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684867:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 274/91 DE 07-AGO DR.IS-A [180]\0[180]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-07'
+- type: repealed_by
+  target: pt:dre:681594:por
+  label: "Revogado pelo DEC LEI.274/91.07.08.1991.MS, DR.IS-A [180] de 07.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-1991-681594
+  date: '1991-08-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:55Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +179,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Hospital de Sant'Ana, na Parede, e o Centro de Medicina de Reabilitação, em Alcoitão, estabelecimentos pertencentes à Santa Casa da Misericórdia de Lisboa, passam a depender da Direcção-Geral dos Hospitais e a reger-se, em todos os aspectos do seu funcionamento, pela legislação vigente para os estabelecimentos hospitalares oficiais.
+Artigo 1.º O Hospital de Sant'Ana, na Parede, e o Centro de Medicina de Reabilitação, em Alcoitão, estabelecimentos pertencentes à Santa Casa da Misericórdia de Lisboa, passam a depender da Direcção-Geral dos Hospitais e a reger-se, em todos os aspectos do seu funcionamento, pela legislação vigente para os estabelecimentos hospitalares oficiais.
 
-###### Art. 2.º Os referidos hospitais mantêm a qualificação de centrais, são dotados de personalidade jurídica e de autonomia administrativa e financeira e funcionarão em regime de instalação, nos termos dos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 2.º Os referidos hospitais mantêm a qualificação de centrais, são dotados de personalidade jurídica e de autonomia administrativa e financeira e funcionarão em regime de instalação, nos termos dos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 3.º - 1 - A escola de reabilitação, criada nos termos da [Portaria n.º 22034](https://diariodarepublica.pt/dr/detalhe/portaria/22034-1966-471574), de 4 de Junho de 1966, é dotada de autonomia administrativa relativamente ao Centro de Medicina de Reabilitação, em termos que serão objecto de regulamento a aprovar por portaria do Ministro dos Assuntos Sociais.
+Art. 3.º - 1 - A escola de reabilitação, criada nos termos da [Portaria n.º 22034](https://diariodarepublica.pt/dr/detalhe/portaria/22034-1966-471574), de 4 de Junho de 1966, é dotada de autonomia administrativa relativamente ao Centro de Medicina de Reabilitação, em termos que serão objecto de regulamento a aprovar por portaria do Ministro dos Assuntos Sociais.
 
 2 - O actual regime da escola mantém-se enquanto não for aprovado o regulamento a que se refere o número anterior.
 
-###### Art. 4.º - 1 - É aplicável ao pessoal dos estabelecimentos a que se refere este diploma, sem perda de direitos adquiridos, o regime jurídico do pessoal dos hospitais oficiais, observando-se, pelo que respeita ao regime de previdência, o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 35/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1973-684867), de 6 de Fevereiro.
+Art. 4.º - 1 - É aplicável ao pessoal dos estabelecimentos a que se refere este diploma, sem perda de direitos adquiridos, o regime jurídico do pessoal dos hospitais oficiais, observando-se, pelo que respeita ao regime de previdência, o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 35/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1973-684867), de 6 de Fevereiro.
 
 2 - O pessoal do quadro da Santa Casa da Misericórdia de Lisboa actualmente colocado e em exercício de funções no Hospital de Sant'Ana ou no Centro de Medicina de Reabilitação será incluído, com a actual categoria, nos respectivos mapas de pessoal a aprovar pelo Ministro dos Assuntos Sociais, nos termos do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e independentemente de quaisquer formalidades.
 
@@ -121,7 +199,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Mantêm-se, quanto aos contribuintes da Caixa Geral de Aposentações do Pessoal da Misericórdia de Lisboa, instituída pelo [Decreto n.º 3379](https://diariodarepublica.pt/dr/detalhe/decreto/3379-1917-495559), de 22 de Setembro de 1917, as obrigações e direitos inerentes.
 
-###### Art. 5.º - 1 - O pessoal a que se referem os n.os 2 e 3 do artigo anterior será integrado, findo o regime de instalação, mediante listas nominativas e independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República:
+Art. 5.º - 1 - O pessoal a que se referem os n.os 2 e 3 do artigo anterior será integrado, findo o regime de instalação, mediante listas nominativas e independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República:
 
 a) Em lugares dos quadros dos hospitais a que se refere o presente diploma para os quais possuam as habilitações legais;
 
@@ -129,15 +207,15 @@ b) Nos lugares que ocuparem durante o regime de instalação, quando não se ver
 
 2 - Os lugares a que se refere a alínea b) do número anterior considerar-se-ão extintos à medida que vagarem.
 
-###### Art. 6.º Ao pessoal poderão ser fornecidos uniformes e batas, de harmonia com o que for estabelecido em regulamento a aprovar pelo Ministro dos Assuntos Sociais.
+Art. 6.º Ao pessoal poderão ser fornecidos uniformes e batas, de harmonia com o que for estabelecido em regulamento a aprovar pelo Ministro dos Assuntos Sociais.
 
-###### Art. 7.º - 1 - Aplicam-se à Santa Casa da Misericórdia de Lisboa e aos estabelecimentos a que se refere o presente diploma as normas dos artigos 5.º e 6.º do [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), de 7 de Dezembro, com as reservas expressas nos n.os 2 e 3 deste artigo.
+Art. 7.º - 1 - Aplicam-se à Santa Casa da Misericórdia de Lisboa e aos estabelecimentos a que se refere o presente diploma as normas dos artigos 5.º e 6.º do [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), de 7 de Dezembro, com as reservas expressas nos n.os 2 e 3 deste artigo.
 
 2 - A disposição do número anterior, na medida em que remete para o artigo 5.º do [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), aplica-se exclusivamente aos edifícios em que funcionem serviços essistenciais e de apoio geral ou que sejam utilizados para alojamento do pessoal hospitalar.
 
 3 - A Santa Casa da Misericórdia de Lisboa poderá construir, dentro do perímetro do Hospital de Sant'Ana e do Centro de Medicina de Reabilitação, quaisquer edifícios necessários ou convenientes à sua acção, observando os condicionalismos das respectivas zonas de protecção e ouvindo previamente a Direcção-Geral dos Hospitais.
 
-###### Art. 8.º - 1 - Os estabelecimentos hospitalares de que trata o presente decreto-lei terão como receitas:
+Art. 8.º - 1 - Os estabelecimentos hospitalares de que trata o presente decreto-lei terão como receitas:
 
 a) O rendimento dos serviços;
 
@@ -157,13 +235,13 @@ e) Quaisquer outras receitas que expressamente lhes forem atribuídas.
 
 5 - Após a aprovação do primeiro orçamento ordinário, os estabelecimentos ficarão sujeitos ao regime geral de autorização e contrôle de despesas.
 
-###### Art. 9.º Os estabelecimentos hospitalares a que se refere o presente diploma podem usar da faculdade prevista no artigo 50.º, n.º 1, do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, sem dependência da autorização ministerial, mas os acordos só serão válidos depois de homologados pelo Ministro dos Assuntos Sociais.
+Art. 9.º Os estabelecimentos hospitalares a que se refere o presente diploma podem usar da faculdade prevista no artigo 50.º, n.º 1, do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, sem dependência da autorização ministerial, mas os acordos só serão válidos depois de homologados pelo Ministro dos Assuntos Sociais.
 
-###### Art. 10.º - 1- O Hospital de Sant'Ana e o Centro de Medicina de Reabilitação poderão constituir entre si, ou com outros estabelecimentos, serviços ou instituições hospitalares, grupo hospitalar dotado de personalidade jurídica e autonomia administrativa e financeira, mediante despacho do Ministro dos Assuntos Sociais em que se estabeleçam as entidades abrangidas, os objectivos, as normas de organização e a competência dos órgãos de administração.
+Art. 10.º - 1- O Hospital de Sant'Ana e o Centro de Medicina de Reabilitação poderão constituir entre si, ou com outros estabelecimentos, serviços ou instituições hospitalares, grupo hospitalar dotado de personalidade jurídica e autonomia administrativa e financeira, mediante despacho do Ministro dos Assuntos Sociais em que se estabeleçam as entidades abrangidas, os objectivos, as normas de organização e a competência dos órgãos de administração.
 
 2 - Os mesmos estabelecimentos hospitalares poderão celebrar acordos, sujeitos a homologação ministerial, com outras entidades oficiais, ainda que de natureza diferente, visando a utilização comum de serviços ou equipamentos.
 
-###### Art. 11.º - 1 - O regime previsto neste diploma é aplicável a cada um dos estabelecimentos a que respeita desde a data em que se verifiquem as seguintes condições:
+Art. 11.º - 1 - O regime previsto neste diploma é aplicável a cada um dos estabelecimentos a que respeita desde a data em que se verifiquem as seguintes condições:
 
 a) Posse da comissão instaladora;
 
@@ -171,12 +249,12 @@ b) Aprovação do mapa de pessoal.
 
 2 - As condições a que se refere o número anterior deverão estar cumpridas no prazo máximo de trinta dias, a contar da data da publicação deste diploma.
 
-###### Art. 12.º Por despacho do Ministro dos Assuntos Sociais, através da Direcção-Geral dos Hospitais, serão tomadas providências relativamente à formação de pessoal técnico e de enfermagem, de reabilitação, compreendendo a realização de novas acções, a conclusão das iniciadas pela Santa Casa da Misericórdia de Lisboa anteriormente à entrada em vigor do presente diploma e, quanto a estas, a revisão, com a participação da Santa Casa da Misericórdia de Lisboa, do estatuto do bolseiro em correspondência com as modificações do regime dos hospitais operadas por este diploma.
+Art. 12.º Por despacho do Ministro dos Assuntos Sociais, através da Direcção-Geral dos Hospitais, serão tomadas providências relativamente à formação de pessoal técnico e de enfermagem, de reabilitação, compreendendo a realização de novas acções, a conclusão das iniciadas pela Santa Casa da Misericórdia de Lisboa anteriormente à entrada em vigor do presente diploma e, quanto a estas, a revisão, com a participação da Santa Casa da Misericórdia de Lisboa, do estatuto do bolseiro em correspondência com as modificações do regime dos hospitais operadas por este diploma.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 2 de Novembro de 1977.**
+Promulgado em 2 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

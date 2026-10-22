@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23300/32193219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1980-462217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4caf104c01ea3ca9c68404b37dba52d06a32066f5b38757546ec7ecca3d8c19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 141ebbae32f46f506f986921f8af368521a969a287d2b97fd285494d33f9f5a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Jogos de Fortuna e Azar
+- Tróia
+- Turismo
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:228458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:463868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228458:por
+  label: "Revogado pelo DEC LEI.162/86.26.06.1986.MF, DR.IS [144] de 26.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-1986-228458
+  date: '1986-06-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:58Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +117,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 24/80](https://diariodarepublica.pt/dr/detalhe/lei/24-1980-472095), de 26 de Julho, o seguinte:
 
-###### Artigo único. É aplicável à zona de jogo permanente de Tróia o regime tributário definido no capítulo V do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, sendo o imposto especial liquidado da seguinte forma:
+Artigo único. É aplicável à zona de jogo permanente de Tróia o regime tributário definido no capítulo V do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, sendo o imposto especial liquidado da seguinte forma:
 
 1 - Quanto ao artigo 35.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840):
 
@@ -114,8 +137,8 @@ Bancas duplas - 2,5%.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 23 de Setembro de 1980.**
+Promulgado em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

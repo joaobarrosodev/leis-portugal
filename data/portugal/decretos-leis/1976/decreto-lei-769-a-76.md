@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 249/1976, 1º Suplemento, Série I de 1976-10-23
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2420-(1) a 2420-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24901/00010006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f124f71b472f4b784ec1344f539583f746740f6c882ced60ad07f8ece545b831
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd774070279422d13374b665c769a28991e7bddd5287ec331c7b6de289773fd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Gestão Escolar
 relationships:
 - type: amended_by
   target: pt:dre:371038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298233:por
+  label: "Alterado o nº 1 do artigo 48º pelo DEC LEI.157/78.01.07.1978.MEC, DR.IS [149] de 01.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1978-298233
+  date: '1978-07-01'
+- type: amended_by
+  target: pt:dre:682231:por
+  label: Declarada com força obrigatória geral a inconstitucionalidade da norma constante da al. a) do art. 43.º pelo(a) Resolução
+    n.º 117/80 - Diário da República n.º 80/1980, Série I de 1980-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/117-1980-682231
+  date: '1980-04-05'
+- type: amended_by
+  target: pt:dre:460805:por
+  label: "Alterados os arts. 22º, 23º, 24º, 25º, 26º, 27º, 28º, 29º e 31º pelo DEC LEI.376/80.12.09.1980.MECI, DR.IS [211]\
+    \ de 12.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1980-460805
+  date: '1980-09-12'
+- type: amended_by
+  target: pt:dre:579118:por
+  label: "Alterado o art. 23.º do presente diploma, na redacção do Decreto-Lei n.º 376/80, de 12-Set. pelo DEC LEI.160/81.11.06.1981.MECI,\
+    \ DR.IS [133] de 11.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1981-579118
+  date: '1981-06-11'
+- type: amended_by
+  target: pt:dre:183005:por
+  label: "Alterado o nº 4 do artigo 6º pelo DEC LEI.241/85.08.07.1985.ME, DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1985-183005
+  date: '1985-07-08'
+- type: amended_by
+  target: pt:dre:665772:por
+  label: Alterado o nº 1 do art. 48º do presente diploma, com as alterações que lhe foram introduzidas pelo art. 1.º do Dec
+    Lei 157/78, de 1-jul, pelo(a) Decreto-Lei n.º 197/87 - Diário da República n.º 99/1987, Série I de 1987-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1987-665772
+  date: '1987-04-30'
+- type: cites
+  target: pt:dre:251992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408676:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612219:por
+  label: "Revogado pelo DEC LEI.172/91.10.05.1991.ME, DR.IS-A [107] de 10.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1991-612219
+  date: '1991-05-10'
+- type: repealed_by
+  target: pt:dre:155636:por
+  label: "Revogado pelo DEC LEI.115-A/98.1998.05.04.ME, DR.IS-A [102]Supl de 04/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-a-1998-155636
+  date: '1998-05-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:42Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +155,7 @@ I
 
 Órgãos
 
-###### Artigo 1.º Os órgãos de cada estabelecimento de ensino preparatório e secundário responsáveis pelo seu funcionamento são os seguintes:
+Artigo 1.º Os órgãos de cada estabelecimento de ensino preparatório e secundário responsáveis pelo seu funcionamento são os seguintes:
 
 a) Conselho directivo;
 
@@ -113,17 +167,17 @@ II
 
 Conselho directivo
 
-###### Art. 2.º O conselho directivo de cada estabelecimento de ensino será constituído por três ou por cinco representantes do pessoal docente, conforme se trate de estabelecimentos cuja frequência não exceda mil alunos ou ultrapasse este número, dois representantes dos alunos e um representante do pessoal não docente, eleitos segundo as normas constantes do presente decreto-lei.
+Art. 2.º O conselho directivo de cada estabelecimento de ensino será constituído por três ou por cinco representantes do pessoal docente, conforme se trate de estabelecimentos cuja frequência não exceda mil alunos ou ultrapasse este número, dois representantes dos alunos e um representante do pessoal não docente, eleitos segundo as normas constantes do presente decreto-lei.
 
-###### Art. 3.º A representação do pessoal docente no conselho directivo incluirá, pelo menos, dois professores profissionalizados, salvo nos estabelecimentos de ensino onde os não haja, o que será comunicado à respectiva direcção-geral de ensino, para efeitos do n.º 4 do artigo 6.º
+Art. 3.º A representação do pessoal docente no conselho directivo incluirá, pelo menos, dois professores profissionalizados, salvo nos estabelecimentos de ensino onde os não haja, o que será comunicado à respectiva direcção-geral de ensino, para efeitos do n.º 4 do artigo 6.º
 
-###### Art. 4.º - 1. A representação de alunos no conselho directivo verificar-se-á nos estabelecimentos de ensino secundário que ministrem cursos complementares.
+Art. 4.º - 1. A representação de alunos no conselho directivo verificar-se-á nos estabelecimentos de ensino secundário que ministrem cursos complementares.
 
 2. Os discentes só poderão ser representados por alunos dos cursos complementares.
 
-###### Art. 5.º Nos casos em que não haja representação de alunos, o conselho poderá convidar delegados destes a participar em determinadas sessões, sem direito a voto deliberativo.
+Art. 5.º Nos casos em que não haja representação de alunos, o conselho poderá convidar delegados destes a participar em determinadas sessões, sem direito a voto deliberativo.
 
-###### Art. 6.º - 1. O conselho directivo escolherá, de entre os seus membros docentes, um presidente, um vice-presidente e um secretário.
+Art. 6.º - 1. O conselho directivo escolherá, de entre os seus membros docentes, um presidente, um vice-presidente e um secretário.
 
 2. Nos conselhos directivos com cinco membros docentes, dois deles serão vogais.
 
@@ -133,25 +187,25 @@ Conselho directivo
 
 5. A natureza do destacamento dos docentes profissionalizados referidos no número anterior será definida no despacho de nomeação.
 
-###### Art. 7.º A eleição dos representantes do pessoal docente para o conselho directivo far-se-á de entre todos os docentes em serviço no estabelecimento, os quais, para o efeito, se reunirão em assembleia eleitoral, nos termos do artigo 38.º do presente diploma.
+Art. 7.º A eleição dos representantes do pessoal docente para o conselho directivo far-se-á de entre todos os docentes em serviço no estabelecimento, os quais, para o efeito, se reunirão em assembleia eleitoral, nos termos do artigo 38.º do presente diploma.
 
-###### Art. 8.º Os representantes dos alunos no conselho directivo serão eleitos de entre os alunos abrangidos no n.º 2 do artigo 4.º pelos delegados de todas as turmas do estabelecimento, nos termos do artigo 39.º
+Art. 8.º Os representantes dos alunos no conselho directivo serão eleitos de entre os alunos abrangidos no n.º 2 do artigo 4.º pelos delegados de todas as turmas do estabelecimento, nos termos do artigo 39.º
 
-###### Art. 9.º O representante do pessoal não docente será eleito de entre e por todos os elementos do pessoal técnico, administrativo e auxiliar do estabelecimento, os quais, para o efeito, se reunirão em assembleia eleitoral, nos termos do artigo 38.º
+Art. 9.º O representante do pessoal não docente será eleito de entre e por todos os elementos do pessoal técnico, administrativo e auxiliar do estabelecimento, os quais, para o efeito, se reunirão em assembleia eleitoral, nos termos do artigo 38.º
 
-###### Art. 10.º - 1. Nos estabelecimentos de ensino onde funcionem cursos nocturnos será eleita uma comissão constituída por dois docentes, eleitos por e entre os que exercem funções naqueles cursos, e por dois alunos, eleitos por e entre os respectivos alunos, nos termos, respectivamente, dos artigos 38.º e 39.º
+Art. 10.º - 1. Nos estabelecimentos de ensino onde funcionem cursos nocturnos será eleita uma comissão constituída por dois docentes, eleitos por e entre os que exercem funções naqueles cursos, e por dois alunos, eleitos por e entre os respectivos alunos, nos termos, respectivamente, dos artigos 38.º e 39.º
 
 2. O presidente do conselho directivo, ou o seu delegado, ouvirá obrigatoriamente a comissão em tudo o que respeita ao funcionamento dos cursos nocturnos.
 
 3. O delegado referido no número anterior será um dos membros do conselho directivo a quem tenha sido distribuída essa função.
 
-###### Art. 11.º - 1. Até à regulamentação dos órgãos previstos no presente diploma, competirá ao conselho directivo, pelos seus membros docentes, exercer todas as funções que, nos estatutos dos respectivos graus e ramos de ensino e legislação complementar, são atribuídas aos cargos directivos, e que não sejam alteradas pelo presente decreto-lei.
+Art. 11.º - 1. Até à regulamentação dos órgãos previstos no presente diploma, competirá ao conselho directivo, pelos seus membros docentes, exercer todas as funções que, nos estatutos dos respectivos graus e ramos de ensino e legislação complementar, são atribuídas aos cargos directivos, e que não sejam alteradas pelo presente decreto-lei.
 
 2. Para os efeitos do número anterior, serão distribuídas funções a cada um dos membros, os quais serão responsáveis pelo seu desempenho.
 
-###### Art. 12.º O conselho directivo poderá criar as comissões e grupos de trabalho que entender necessários para o tratamento de assuntos internos da vida do estabelecimento, competindo-lhe definir as respectivas composição, mandato, prazos e normas de funcionamento, no quadro da legislação em vigor.
+Art. 12.º O conselho directivo poderá criar as comissões e grupos de trabalho que entender necessários para o tratamento de assuntos internos da vida do estabelecimento, competindo-lhe definir as respectivas composição, mandato, prazos e normas de funcionamento, no quadro da legislação em vigor.
 
-###### Art. 13.º Compete ao presidente do conselho directivo:
+Art. 13.º Compete ao presidente do conselho directivo:
 
 a) Presidir às reuniões dos conselhos directivo, pedagógico e administrativo;
 
@@ -163,27 +217,27 @@ d) Decidir em todos os assuntos que lhe sejam delegados pelo conselho ou em situ
 
 e) Submeter à apreciação superior os assuntos que excedam a competência do conselho directivo.
 
-###### Art. 14.º - 1. Compete ao vice-presidente do conselho directivo coadjuvar o presidente e substituí-lo nas suas faltas ou impedimentos.
+Art. 14.º - 1. Compete ao vice-presidente do conselho directivo coadjuvar o presidente e substituí-lo nas suas faltas ou impedimentos.
 
 2. O presidente do conselho directivo poderá, a título permanente, delegar no vice-presidente a competência para presidir ao conselho administrativo.
 
 3. Sempre que se verificar a delegação de competência referida no número anterior, o conselho directivo dará dela conhecimento à Direcção-Geral de Pessoal e Administração e à 10.ª Delegação da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 15.º Ao secretário compete secretariar as reuniões do conselho directivo, servir como vice-presidente do conselho administrativo e desempenhar outras funções que lhe forem atribuídas pelo conselho directivo.
+Art. 15.º Ao secretário compete secretariar as reuniões do conselho directivo, servir como vice-presidente do conselho administrativo e desempenhar outras funções que lhe forem atribuídas pelo conselho directivo.
 
-###### Art. 16.º - 1. Durante o ano lectivo, o conselho directivo terá reuniões ordinárias mensais.
+Art. 16.º - 1. Durante o ano lectivo, o conselho directivo terá reuniões ordinárias mensais.
 
 2. As reuniões extraordinárias do conselho serão convocadas, por escrito, pelo presidente, por sua iniciativa ou de pelo menos metade dos seus membros, com a antecedência mínima de quarenta e oito horas, sendo a convocatória acompanhada da respectiva agenda de trabalhos.
 
 3. Em caso de emergência o conselho poderá reunir-se com dispensa das condições fixadas no número anterior, desde que tenha sido assegurada pelo presidente a convocação de todos os seus membros.
 
-###### Art. 17.º - 1. O conselho directivo só poderá deliberar estando presente uma maioria dos seus membros docentes.
+Art. 17.º - 1. O conselho directivo só poderá deliberar estando presente uma maioria dos seus membros docentes.
 
 2. As decisões do conselho serão tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 18.º As actas das reuniões do conselho poderão ser consultadas a requerimento de qualquer elemento do estabelecimento, exceptuadas as que relatem assuntos que o conselho directivo entender de carácter confidencial.
+Art. 18.º As actas das reuniões do conselho poderão ser consultadas a requerimento de qualquer elemento do estabelecimento, exceptuadas as que relatem assuntos que o conselho directivo entender de carácter confidencial.
 
-###### Art. 19.º - 1. Os membros do conselho directivo serão individual e solidariamente responsáveis perante o Estado pelo cumprimento da lei e das normas regulamentares em vigor.
+Art. 19.º - 1. Os membros do conselho directivo serão individual e solidariamente responsáveis perante o Estado pelo cumprimento da lei e das normas regulamentares em vigor.
 
 2. Ficarão isentos de responsabilidade civil, disciplinar e criminal inerentes às deliberações do conselho os ausentes e os membros presentes que, não concordando com as resoluções tomadas, o tenham manifestado em declaração de voto.
 
@@ -191,43 +245,43 @@ e) Submeter à apreciação superior os assuntos que excedam a competência do c
 
 4. Aos membros do conselho directivo que sejam menores não emancipados aplicar-se-á o regime da lei geral.
 
-###### Art. 20.º - 1. O Ministro da Educação e Investigação Científica determinará, por portaria, a redução de tempo de serviço de que beneficiará o conselho directivo, relativamente aos seus membros docentes.
+Art. 20.º - 1. O Ministro da Educação e Investigação Científica determinará, por portaria, a redução de tempo de serviço de que beneficiará o conselho directivo, relativamente aos seus membros docentes.
 
 2. O conselho distribuirá entre os seus membros docentes as horas equivalentes a serviço docente determinadas pela portaria referida no número anterior.
 
 3. Será vedada aos membros docentes do conselho directivo a prestação de serviço docente extraordinário, exceptuados casos de força maior expressamente autorizados por despacho ministerial.
 
-###### Art. 21.º O tempo de serviço prestado em reuniões ou actividades do conselho directivo pelo representante de pessoal não docente será contabilizado para efeitos de cumprimento do seu horário normal de trabalho.
+Art. 21.º O tempo de serviço prestado em reuniões ou actividades do conselho directivo pelo representante de pessoal não docente será contabilizado para efeitos de cumprimento do seu horário normal de trabalho.
 
 III
 
 Conselho pedagógico
 
-###### Art. 22.º O conselho pedagógico será constituído pelo presidente do conselho directivo, por um professor delegado de cada grupo, subgrupo, disciplina ou especialidade e por delegados dos alunos, um por cada ano.
+Art. 22.º O conselho pedagógico será constituído pelo presidente do conselho directivo, por um professor delegado de cada grupo, subgrupo, disciplina ou especialidade e por delegados dos alunos, um por cada ano.
 
-###### Art. 23.º - 1. Os professores delegados de cada grupo, subgrupo, disciplina ou especialidade serão eleitos pelos respectivos docentes.
+Art. 23.º - 1. Os professores delegados de cada grupo, subgrupo, disciplina ou especialidade serão eleitos pelos respectivos docentes.
 
 2. Os delegados referidos no número anterior serão professores profissionalizados, salvo quando os não houver no estabelecimento de ensino, caso em que competirá ao conselho directivo a sua designação, ouvidos os respectivos conselhos a que se refere o n.º 1 do artigo 25.º
 
 3. Os professores mencionados no número anterior não poderão fazer parte do conselho directivo.
 
-###### Art. 24.º Ao conselho pedagógico incumbe a orientação pedagógica do estabelecimento de ensino, promovendo a cooperação entre todos os membros da escola, de modo a garantir adequado nível de ensino e conveniente formação dos alunos.
+Art. 24.º Ao conselho pedagógico incumbe a orientação pedagógica do estabelecimento de ensino, promovendo a cooperação entre todos os membros da escola, de modo a garantir adequado nível de ensino e conveniente formação dos alunos.
 
-###### Art. 25.º - 1. Para o exercício das suas atribuições, o conselho pedagógico apoiar-se-á, nomeadamente, nos docentes organizados em conselhos de grupo, subgrupo, disciplina ou especialidade e, ainda, de ano e de turma.
+Art. 25.º - 1. Para o exercício das suas atribuições, o conselho pedagógico apoiar-se-á, nomeadamente, nos docentes organizados em conselhos de grupo, subgrupo, disciplina ou especialidade e, ainda, de ano e de turma.
 
 2. Os conselhos referidos no número anterior serão presididos por professores eleitos anualmente de entre os docentes profissionalizados, salvo onde os não haja, caso em que caberá ao conselho directivo a sua nomeação, ouvidos os respectivos conselhos.
 
-###### Art. 26.º Compete aos conselhos de docentes de grupo, subgrupo, disciplina ou especialidade estudar, propor e aplicar, de forma coordenada, as soluções mais adequadas ao ensino das respectivas disciplinas ou especialidades, bem como dar parecer e desenvolver actividades que lhe sejam solicitadas pelos conselhos directivo ou pedagógico.
+Art. 26.º Compete aos conselhos de docentes de grupo, subgrupo, disciplina ou especialidade estudar, propor e aplicar, de forma coordenada, as soluções mais adequadas ao ensino das respectivas disciplinas ou especialidades, bem como dar parecer e desenvolver actividades que lhe sejam solicitadas pelos conselhos directivo ou pedagógico.
 
-###### Art. 27.º Compete aos conselhos de docentes de ano ou de turma dar parecer sobre todas as questões de natureza pedagógica e disciplinar que a esses anos ou turmas digam respeito.
+Art. 27.º Compete aos conselhos de docentes de ano ou de turma dar parecer sobre todas as questões de natureza pedagógica e disciplinar que a esses anos ou turmas digam respeito.
 
-###### Art. 28.º Quando os conselhos de ano ou de turma se reunirem para tratar de questões de natureza disciplinar, serão presididos pelo presidente do conselho pedagógico, deles fazendo parte dois representantes dos alunos do respectivo ano ou turma e, ainda, um representante dos encarregados de educação, este sem voto deliberativo.
+Art. 28.º Quando os conselhos de ano ou de turma se reunirem para tratar de questões de natureza disciplinar, serão presididos pelo presidente do conselho pedagógico, deles fazendo parte dois representantes dos alunos do respectivo ano ou turma e, ainda, um representante dos encarregados de educação, este sem voto deliberativo.
 
-###### Art. 29.º - 1. Compete ao professor delegado no conselho pedagógico de cada grupo, subgrupo, disciplina ou especialidade coordenar e orientar os trabalhos de quantos exerçam a docência nesse grupo, subgrupo, disciplina ou especialidade, bem como a direcção de instalações próprias e a responsabilidade, perante o conselho directivo, pelo património que lhe esteja confiado.
+Art. 29.º - 1. Compete ao professor delegado no conselho pedagógico de cada grupo, subgrupo, disciplina ou especialidade coordenar e orientar os trabalhos de quantos exerçam a docência nesse grupo, subgrupo, disciplina ou especialidade, bem como a direcção de instalações próprias e a responsabilidade, perante o conselho directivo, pelo património que lhe esteja confiado.
 
 2. Nos casos em que reconheça conveniente, o conselho directivo pode atribuir a responsabilidade da direcção de instalações próprias a um outro professor, ouvida a comissão dos docentes da respectiva disciplina ou disciplinas.
 
-###### Art. 30.º - 1. O conselho pedagógico reunirá ordinariamente uma vez por mês durante o ano lectivo, podendo, porém, reunir-se nas condições previstas no n.º 3 do artigo 16.º
+Art. 30.º - 1. O conselho pedagógico reunirá ordinariamente uma vez por mês durante o ano lectivo, podendo, porém, reunir-se nas condições previstas no n.º 3 do artigo 16.º
 
 2. As decisões do conselho pedagógico serão tomadas por maioria, tendo o presidente, em caso de empate, voto de qualidade.
 
@@ -235,7 +289,7 @@ Conselho pedagógico
 
 4. O presidente do conselho pedagógico poderá usar do direito de veto suspensivo quando as deliberações contrariarem as disposições legais e ou directivas do Ministério da Educação e Investigação Científica.
 
-###### Art. 31.º - 1. Se, em qualquer reunião do conselho, o número de alunos exceder o número de professores, a mesma não terá carácter deliberativo.
+Art. 31.º - 1. Se, em qualquer reunião do conselho, o número de alunos exceder o número de professores, a mesma não terá carácter deliberativo.
 
 2. Os alunos membros do conselho pedagógico não terão direito a assistir às reuniões em que se tratem assuntos de carácter confidencial, nomeadamente em tudo que possa representar sigilo de exames.
 
@@ -243,7 +297,7 @@ IV
 
 Conselho administrativo
 
-###### Art. 32.º - 1. O conselho administrativo será constituído por um presidente, um vice-presidente e um secretário.
+Art. 32.º - 1. O conselho administrativo será constituído por um presidente, um vice-presidente e um secretário.
 
 2. As funções de presidente do conselho administrativo serão desempenhadas pelo presidente do conselho directivo ou pelo seu vice-presidente, quando tal competência lhe for delegada nos termos definidos no n.º 2 do artigo 14.º
 
@@ -251,7 +305,7 @@ Conselho administrativo
 
 4. O chefe da secretaria exercerá as funções de secretário.
 
-###### Art. 33.º - 1. Compete ao conselho administrativo:
+Art. 33.º - 1. Compete ao conselho administrativo:
 
 a) Estabelecer as regras a que deve obedecer a administração do estabelecimento, de acordo com as leis gerais da contabilidade pública e a orientação da Direcção-Geral de Pessoal e Administração;
 
@@ -267,7 +321,7 @@ f) Aceitar as liberalidades feitas a favor dos serviços ou estabelecimentos de 
 
 2. As liberalidades referidas na alínea f) do número anterior, quando envolvam obrigações para os serviços ou estabelecimentos de ensino, carecem de autorização superior.
 
-###### Art. 34.º - 1. O conselho administrativo reunirá, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes.
+Art. 34.º - 1. O conselho administrativo reunirá, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes.
 
 2. As sessões são convocadas pelo presidente com, pelo menos, quarenta e oito horas de antecedência, salvo casos de especial urgência.
 
@@ -275,13 +329,13 @@ f) Aceitar as liberalidades feitas a favor dos serviços ou estabelecimentos de 
 
 4. As deliberações serão tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 35.º - 1. As deliberações e pareceres do conselho administrativo serão sempre exarados em acta.
+Art. 35.º - 1. As deliberações e pareceres do conselho administrativo serão sempre exarados em acta.
 
 2. As deliberações do conselho administrativo só obrigam, para todos os efeitos, aqueles que as tenham votado, ficando isentos das respectivas responsabilidades civis e disciplinares os que não tenham concordado com as resoluções tomadas por maioria, desde que, para o efeito, tenham exarado a competente declaração de voto.
 
 3. Sem prejuízo do disposto no número anterior, os membros do conselho administrativo responderão solidariamente pela administração do estabelecimento de ensino.
 
-###### Art. 36.º - 1. O presidente do conselho administrativo pode suspender a execução de qualquer deliberação do mesmo conselho desde que a considere ilegal ou inconveniente.
+Art. 36.º - 1. O presidente do conselho administrativo pode suspender a execução de qualquer deliberação do mesmo conselho desde que a considere ilegal ou inconveniente.
 
 2. Quando usar deste direito, o presidente submeterá à apreciação do director-geral de Pessoal e Administração, dentro das quarenta e oito horas subsequentes, os motivos da suspensão.
 
@@ -293,9 +347,9 @@ V
 
 Eleições
 
-###### Art. 37.º Todas as eleições previstas no presente diploma serão realizadas por escrutínio secreto.
+Art. 37.º Todas as eleições previstas no presente diploma serão realizadas por escrutínio secreto.
 
-###### Art. 38.º - 1. As assembleias eleitorais previstas neste decreto-lei serão convocadas pelo presidente do conselho directivo ou por quem as suas vezes fizer.
+Art. 38.º - 1. As assembleias eleitorais previstas neste decreto-lei serão convocadas pelo presidente do conselho directivo ou por quem as suas vezes fizer.
 
 2. As convocatórias mencionarão as normas práticas do processo eleitoral, locais de afixação das listas de candidatos, hora e local ou locais do escrutínio, devendo ser afixadas, com a antecedência de sete dias, nos lugares habituais.
 
@@ -329,7 +383,7 @@ Eleições
 
 17. O Ministro da Educação e Investigação Científica poderá designar, por despacho, um seu delegado para acompanhar o processo eleitoral, o qual assumirá a presidência da respectiva assembleia.
 
-###### Art. 39.º - 1. O delegado de turma será eleito de entre e pelos alunos da mesma.
+Art. 39.º - 1. O delegado de turma será eleito de entre e pelos alunos da mesma.
 
 2. Os delegados de turma reunir-se-ão em assembleia a fim de escolher os representantes dos discentes aos conselhos directivo e pedagógico, respeitando o disposto no artigo 38.º
 
@@ -337,13 +391,13 @@ Eleições
 
 4. Os delegados às comissões de turma reunidas nos termos do artigo 28.º serão eleitos de entre e por todos os alunos de cada turma.
 
-###### Art. 40.º Os encarregados de educação serão indicados pela associação respectiva, com respeito pelo disposto nos artigos 37.º e 43.º do presente diploma.
+Art. 40.º Os encarregados de educação serão indicados pela associação respectiva, com respeito pelo disposto nos artigos 37.º e 43.º do presente diploma.
 
-###### Art. 41.º - 1. Por despacho ministerial, a proferir no prazo máximo de quinze dias úteis a contar da data em que for recebida a documentação a que alude o n.º 16 do artigo 38.º, será declarada a validade da eleição do conselho directivo, uma vez verificada a observância das disposições legais aplicáveis.
+Art. 41.º - 1. Por despacho ministerial, a proferir no prazo máximo de quinze dias úteis a contar da data em que for recebida a documentação a que alude o n.º 16 do artigo 38.º, será declarada a validade da eleição do conselho directivo, uma vez verificada a observância das disposições legais aplicáveis.
 
 2. O prazo previsto no número anterior poderá ser excedido quando se tenham verificado as observações previstas na segunda parte do n.º 16 do artigo 38.º
 
-###### Art. 42.º - 1. O conselho directivo tomará posse no prazo máximo de sete dias após a data da recepção da comunicação do despacho a que se refere o n.º 1 do artigo 41.º
+Art. 42.º - 1. O conselho directivo tomará posse no prazo máximo de sete dias após a data da recepção da comunicação do despacho a que se refere o n.º 1 do artigo 41.º
 
 2. A entrada em funções dos membros do conselho directivo terá lugar com dispensa de todas as formalidades legais e a posse produzirá, só por si, todos os efeitos.
 
@@ -353,23 +407,23 @@ Eleições
 
 5. Desde que, por duas vezes, seja recusada a homologação do conselho directivo proposto ou este não seja constituído dentro do prazo previsto no artigo 48.º, aplicar-se-á o disposto no n.º 4 do artigo 6.º deste decreto-lei.
 
-###### Art. 43.º Não são elegíveis para os órgãos previstos no presente decreto-lei:
+Art. 43.º Não são elegíveis para os órgãos previstos no presente decreto-lei:
 
 a) As pessoas comprovadamente feridas de incapacidade eleitoral nos termos do artigo 308.º da Constituição da República;
 
 b) As pessoas que tenham sofrido há menos de três anos alguma das penas previstas no artigo 11.º do Estatuto Disciplinar dos Funcionários Civis do Estado.
 
-###### Art. 44.º Não são elegíveis para os conselhos directivo e pedagógico os alunos repetentes ou os que não se encontrem matriculados em todas as disciplinas do ano que frequentam.
+Art. 44.º Não são elegíveis para os conselhos directivo e pedagógico os alunos repetentes ou os que não se encontrem matriculados em todas as disciplinas do ano que frequentam.
 
-###### Art. 45.º - 1. Os membros do conselho directivo manter-se-ão em funções durante dois anos, excepto no que respeita aos discentes, eleitos anualmente, e sem prejuízo do que se dispõe nos números seguintes.
+Art. 45.º - 1. Os membros do conselho directivo manter-se-ão em funções durante dois anos, excepto no que respeita aos discentes, eleitos anualmente, e sem prejuízo do que se dispõe nos números seguintes.
 
 2. Sempre que derem entrada nos estágios pedagógicos, forem transferidos para outro estabelecimento de ensino ou, por qualquer motivo, abandonarem as suas funções no estabelecimento de ensino, os membros do conselho directivo serão substituídos por meio de eleição individual, respeitando-se no mais o disposto nos artigos 37.º e 38.º
 
 3. Quando a substituição dos membros de um conselho directivo, excluindo os alunos, atingir mais de 50% dos elementos que inicialmente o constituíam, realizar-se-á nova eleição global, nos termos do presente diploma.
 
-###### Art. 46.º Os membros do conselho pedagógico serão eleitos, anualmente, nos termos do presente diploma.
+Art. 46.º Os membros do conselho pedagógico serão eleitos, anualmente, nos termos do presente diploma.
 
-###### Art. 47.º - 1. Por motivos de força maior, qualquer dos membros dos órgãos previstos neste diploma poderá pedir a sua resignação.
+Art. 47.º - 1. Por motivos de força maior, qualquer dos membros dos órgãos previstos neste diploma poderá pedir a sua resignação.
 
 2. A resignação terá de ser aceite pelo conselho directivo, havendo sempre recurso para o Ministro da Educação e Investigação Científica.
 
@@ -377,54 +431,54 @@ b) As pessoas que tenham sofrido há menos de três anos alguma das penas previs
 
 4. A substituição e homologação de qualquer dos membros dos órgãos previstos neste diploma será feita de acordo com o disposto nos artigos 38.º e 39.º
 
-###### Art. 48.º - 1. As eleições do pessoal docente e não docente serão realizadas entre os dias 1 e 15 de Outubro.
+Art. 48.º - 1. As eleições do pessoal docente e não docente serão realizadas entre os dias 1 e 15 de Outubro.
 
 2. As eleições dos representantes dos discentes serão realizadas até 30 de Outubro.
 
-###### Art. 49.º - 1. Os diferentes cargos previstos neste diploma serão de aceitação obrigatória.
+Art. 49.º - 1. Os diferentes cargos previstos neste diploma serão de aceitação obrigatória.
 
 2. Podem, no entanto, em casos excepcionais devidamente justificados, as entidades a quem compete a escolha dos elementos para os diferentes cargos aceitar justificações de escusa para o desempenho dos mesmos.
 
-###### Art. 50.º - 1. Nas secções situadas fora das localidades das respectivas sedes serão constituídos conselhos directivos e pedagógicos nos termos do presente diploma.
+Art. 50.º - 1. Nas secções situadas fora das localidades das respectivas sedes serão constituídos conselhos directivos e pedagógicos nos termos do presente diploma.
 
 2. O procedimento previsto no artigo anterior não afectará a dependência administrativa em que a secção se encontra do estabelecimento sede.
 
-###### Art. 51.º - 1. Nos casos em que funcionem nas mesmas instalações dois ou mais estabelecimentos, o conselho directivo será originário do estabelecimento titular das instalações.
+Art. 51.º - 1. Nos casos em que funcionem nas mesmas instalações dois ou mais estabelecimentos, o conselho directivo será originário do estabelecimento titular das instalações.
 
 2. O estabelecimento em regime de utilização de instalações de outro estabelecimento estará representado por um dos seus membros no conselho directivo.
 
 3. Procedimento idêntico ao mencionado no número anterior será adoptado no caso de secções que funcionem nas localidades dos respectivos estabelecimentos sede.
 
-###### Art. 52.º O conselho directivo dos estabelecimentos de ensino manterá estreitos contactos de cooperação com as associações de estudantes e de encarregados de educação.
+Art. 52.º O conselho directivo dos estabelecimentos de ensino manterá estreitos contactos de cooperação com as associações de estudantes e de encarregados de educação.
 
 VI
 
 Disposições finais e transitórias
 
-###### Art. 53.º O desempenho dos cargos previstos no presente diploma não poderá ser considerado motivo justificativo de falta às restantes actividades escolares.
+Art. 53.º O desempenho dos cargos previstos no presente diploma não poderá ser considerado motivo justificativo de falta às restantes actividades escolares.
 
-###### Art. 54.º O Ministro da Educação e Investigação Científica poderá, no caso de grave infracção às disposições legais, destituir o conselho directivo e nomear representação sua que se manterá em funções até à tomada de posse do conselho directivo eleito conforme o disposto neste decreto-lei.
+Art. 54.º O Ministro da Educação e Investigação Científica poderá, no caso de grave infracção às disposições legais, destituir o conselho directivo e nomear representação sua que se manterá em funções até à tomada de posse do conselho directivo eleito conforme o disposto neste decreto-lei.
 
-###### Art. 55.º - 1. A entrada em funções dos órgãos previstos no presente diploma verificar-se-á, em todos os estabelecimentos de ensino preparatório e secundário, até 31 de Dezembro de 1976.
+Art. 55.º - 1. A entrada em funções dos órgãos previstos no presente diploma verificar-se-á, em todos os estabelecimentos de ensino preparatório e secundário, até 31 de Dezembro de 1976.
 
 2. O prazo fixado no número anterior poderá ser prorrogado por despacho ministerial.
 
 3. Os conselhos directivos e os encarregados de direcção em funções aquando da publicação do presente diploma manter-se-ão até à data da entrada em funções nos novos órgãos previstos neste decreto-lei e por ele se regerão.
 
-###### Art. 56.º - 1. Até 1 de Março de 1977 serão aprovados, por meio de portarias do Ministro da Educação e Investigação Científica, os regulamentos do funcionamento interno dos conselhos directivo e pedagógico previstos neste diploma.
+Art. 56.º - 1. Até 1 de Março de 1977 serão aprovados, por meio de portarias do Ministro da Educação e Investigação Científica, os regulamentos do funcionamento interno dos conselhos directivo e pedagógico previstos neste diploma.
 
 2. Os regulamentos mencionados no número anterior serão elaborados com base em propostas escritas a apresentar pelos diferentes estabelecimentos nas respectivas direcções-gerais de ensino.
 
-###### Art. 57.º Ficam revogados os artigos 2.º a 9.º do Decreto-Lei n.º 513/73, de 10 de Outubro, assim como todos os artigos dos estatutos do ensino preparatório, liceal e técnico contrários ao disposto neste decreto-lei.
+Art. 57.º Ficam revogados os artigos 2.º a 9.º do Decreto-Lei n.º 513/73, de 10 de Outubro, assim como todos os artigos dos estatutos do ensino preparatório, liceal e técnico contrários ao disposto neste decreto-lei.
 
-###### Art. 58.º As dúvidas relativas à execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 58.º As dúvidas relativas à execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 59.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 59.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 18 de Outubro de 1976.**
+Promulgado em 18 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

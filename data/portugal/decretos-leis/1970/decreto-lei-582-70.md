@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27300/17681772.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78987b5057f5ae4e0d89ea39df9f5fd9825d2522cc2edf3e0de536046fcd2a88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09e6ce4568828c99b6c6c7d0d37234e21948e9d103c6e9f2a751a0b3fa06eec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Construção Civil
+- Empreiteiro de Obras Públicas
+- Obras Públicas
+- Orgânica
+- Senha de Presença
 relationships:
 - type: amended_by
   target: pt:dre:285742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666330:por
+  label: "Alterado o artigo 36.º pelo DEC LEI.177/87.20.04.1987.MOPTC, DR.IS [91] de 20.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1987-666330
+  date: '1987-04-20'
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319744:por
+  label: "Revogados os artigos 15.º a 22.º, pelo DEC LEI.400/82.23.09.1982.MJ, DR.IS [221]Supl de 23.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1982-319744
+  date: '1982-09-23'
+- type: repealed_by
+  target: pt:dre:285742:por
+  label: "Revogado o presente diploma a partir de 01.08.1988, com excepção dos arts. 1º a 3º, nº 1 do art. 10º e art. 36º,\
+    \ pelo DEC LEI.100/88.23.03.1988.MOPTC, DR.IS [69] de 23.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1988-285742
+  date: '1988-03-23'
+- type: repealed_by
+  target: pt:dre:285743:por
+  label: "Revogados os artigos 1.º a 3.º, o n.º 1 do artigo 10.º e o artigo 36.º, pelo DEC LEI.99/88.23.03.1988.MOPTC, DR.IS\
+    \ [69] de 23.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1988-285743
+  date: '1988-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:44Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +146,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Comissão criada no Ministério das Obras Públicas pelo artigo 1.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, alterado pelo artigo 1.º do [Decreto-Lei n.º 45041](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45041-1963-627642), de 23 de Maio de 1963, passa a denominar-se Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil e terá a seguinte composição:
+Artigo 1.º - 1. A Comissão criada no Ministério das Obras Públicas pelo artigo 1.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, alterado pelo artigo 1.º do [Decreto-Lei n.º 45041](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45041-1963-627642), de 23 de Maio de 1963, passa a denominar-se Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil e terá a seguinte composição:
 
 a) O presidente do Conselho Superior de Obras Públicas, que presidirá;
 
@@ -138,7 +182,7 @@ o) Um secretário, sem direito a voto.
 
 3. Os representantes dos municípios serão designados por períodos de dois anos em reunião dos representantes das câmaras municipais interessadas, especialmente convocados para o efeito pelo Ministro das Obras Públicas.
 
-###### Art. 2.º - 1. Além dos poderes que lhe foram conferidos pelo artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), compete à Comissão:
+Art. 2.º - 1. Além dos poderes que lhe foram conferidos pelo artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), compete à Comissão:
 
 1.º Conceder alvarás de industriais da construção civil às empresas que o requeiram e que satisfaçam as condições exigidas no presente diploma;
 
@@ -148,7 +192,7 @@ o) Um secretário, sem direito a voto.
 
 2. A Comissão poderá delegar no presidente e nos vice-presidentes os poderes que lhe são atribuídos pelo referido artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) e por este artigo para suspender os alvarás dos empreiteiros de obras públicas e dos industriais da construção civil por períodos não superiores a três meses.
 
-###### Art. 3.º - 1. A Comissão funcionará por meio de duas secções distintas, tendo cada uma o seu vice-presidente.
+Art. 3.º - 1. A Comissão funcionará por meio de duas secções distintas, tendo cada uma o seu vice-presidente.
 
 2. A 1.ª secção, a que pertencerão os vogais indicados nas alíneas c) a f) e h) a l) do artigo 1.º, terá a competência prevista no artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279).
 
@@ -158,7 +202,7 @@ o) Um secretário, sem direito a voto.
 
 5. As sessões de qualquer das secções serão secretariadas pelo secretário da Comissão.
 
-###### Art. 4.º - 1. As obras de construção civil, quer novas, quer de reconstrução, ampliação, alteração, reparação ou demolição de edificações, a fazer por conta de entidades particulares, de valor superior a 250 contos, só poderão ser executadas por industriais da construção civil devidamente inscritos e classificados nos termos deste diploma ou por quem possua o correspondente alvará de empreiteiro de obras públicas.
+Art. 4.º - 1. As obras de construção civil, quer novas, quer de reconstrução, ampliação, alteração, reparação ou demolição de edificações, a fazer por conta de entidades particulares, de valor superior a 250 contos, só poderão ser executadas por industriais da construção civil devidamente inscritos e classificados nos termos deste diploma ou por quem possua o correspondente alvará de empreiteiro de obras públicas.
 
 2. Exceptuam-se do disposto no número anterior:
 
@@ -170,9 +214,9 @@ b) As obras que consistam em construções ligeiras de um só piso respeitantes 
 
 4. As obras que se não integrem nas subcategorias referidas no artigo 6.º e de valor superior a 250 contos só poderão ser executadas por empreiteiros de obras públicas como tal inscritos na categoria ou subcategoria em que as mesmas se enquadrem e na classe correspondente ao seu valor.
 
-###### Art. 5.º Quando as suas características o justificarem, poderão as obras a que se refere o artigo anterior ser executadas por empresas estrangeiras especializadas, mediante prévia autorização do Ministro das Obras Públicas, depois de ouvida a Comissão.
+Art. 5.º Quando as suas características o justificarem, poderão as obras a que se refere o artigo anterior ser executadas por empresas estrangeiras especializadas, mediante prévia autorização do Ministro das Obras Públicas, depois de ouvida a Comissão.
 
-###### Art. 6.º - 1. As obras referidas no artigo 4.º constituem uma categoria única - construção civil - e distribuir-se-ão nas seguintes subcategorias:
+Art. 6.º - 1. As obras referidas no artigo 4.º constituem uma categoria única - construção civil - e distribuir-se-ão nas seguintes subcategorias:
 
 1.ª Demolições e terraplanagens;
 
@@ -214,7 +258,7 @@ b) As obras que consistam em construções ligeiras de um só piso respeitantes 
 
 4. A inscrição numa subcategoria habilita o industrial a executar todos os trabalhos que na mesma se enquadrem.
 
-###### Art. 7.º - 1. Dentro da categoria e de cada uma das subcategorias previstas no artigo anterior haverá as seguintes classes:
+Art. 7.º - 1. Dentro da categoria e de cada uma das subcategorias previstas no artigo anterior haverá as seguintes classes:
 
 1.ª Obras de valor superior a 250000$00 até 1000000$00;
 
@@ -232,11 +276,11 @@ b) As obras que consistam em construções ligeiras de um só piso respeitantes 
 
 2. O valor total dos trabalhos a executar simultâneamente por cada industrial inscrito nas classes 1.ª a 6.ª não poderá, sem autorização da Comissão, exceder dez vezes o limite da classe mais elevada que lhe tenha sido atribuída.
 
-###### Art. 8.º - 1. O alvará só será concedido quando na direcção técnica da empresa, e prestando os seus serviços exclusivamente a esta, haja indivíduo com as habilitações mínimas que venham a fixar-se no regulamento do presente diploma, de acordo com a subcategoria e classe da inscrição solicitada.
+Art. 8.º - 1. O alvará só será concedido quando na direcção técnica da empresa, e prestando os seus serviços exclusivamente a esta, haja indivíduo com as habilitações mínimas que venham a fixar-se no regulamento do presente diploma, de acordo com a subcategoria e classe da inscrição solicitada.
 
 2. Também em diploma regulamentar, fixar-se-á o quadro mínimo do pessoal técnico permanente exigível às empresas e o que for de acrescentar-lhe quando estas tiverem obras simultâneas, especificando-se quais os diplomados desse quadro que não poderão pertencer a outro da mesma natureza de outra empresa ou entidade.
 
-###### Art. 9.º - 1. As empresas que pretenderem obter alvará requerê-lo-ão à Comissão de Inscrição, instruindo o pedido com os seguintes documentos:
+Art. 9.º - 1. As empresas que pretenderem obter alvará requerê-lo-ão à Comissão de Inscrição, instruindo o pedido com os seguintes documentos:
 
 1.º Certidão de inscrição no grémio regional dos industriais da construção civil e obras públicas respectivo;
 
@@ -262,13 +306,13 @@ b) As obras que consistam em construções ligeiras de um só piso respeitantes 
 
 4. Os quadros técnicos permanentes dos industriais da construção civil, como tal inscritos e classificados, não poderão incluir diplomados com a categoria de engenheiro, arquitecto, agente técnico de engenharia e construtor civil que exerçam funções de carácter permanente em serviço do Estado, das autarquias locais e dos organismos de coordenação económica, desde que tais serviços normalmente e de modo directo ou indirecto interfiram com a actividade do tipo de empresa em causa.
 
-###### Art. 10.º - 1. Organizado o processo, a Comissão colherá todos os elementos de informação sobre o pedido que julgar úteis, consultando quaisquer organismos públicos ou entidades particulares e, em todos os casos, o grémio regional dos industriais da construção civil e obras públicas respectivo e os sindicatos nacionais dos operários interessados.
+Art. 10.º - 1. Organizado o processo, a Comissão colherá todos os elementos de informação sobre o pedido que julgar úteis, consultando quaisquer organismos públicos ou entidades particulares e, em todos os casos, o grémio regional dos industriais da construção civil e obras públicas respectivo e os sindicatos nacionais dos operários interessados.
 
 2. Findo o prazo de quinze dias após a última das consultas, a Comissão, em decisão fundamentada, deliberará recusar ou conceder o alvará ou alvarás requeridos, fixando, neste caso, as subcategorias e classes em que a empresa ficará inscrita.
 
-###### Art. 11.º Não serão concedidos alvarás às empresas que não tiverem idoneidade moral; às que não exibam o certificado de registo criminal referido no n.º 7.º do artigo 9.º livre de qualquer condenação por factos comprovativos de falta de idoneidade moral ou profissional; às que tiverem sido declaradas em estado de falência ou às quais haja sido concedida concordata preventiva de falência, enquanto não forem reabilitadas; e ainda às que não demonstrarem possuírem meios de acção suficientes e organização bastante para a inscrição na classe mínima da subcategoria para que é pedido o alvará.
+Art. 11.º Não serão concedidos alvarás às empresas que não tiverem idoneidade moral; às que não exibam o certificado de registo criminal referido no n.º 7.º do artigo 9.º livre de qualquer condenação por factos comprovativos de falta de idoneidade moral ou profissional; às que tiverem sido declaradas em estado de falência ou às quais haja sido concedida concordata preventiva de falência, enquanto não forem reabilitadas; e ainda às que não demonstrarem possuírem meios de acção suficientes e organização bastante para a inscrição na classe mínima da subcategoria para que é pedido o alvará.
 
-###### Art. 12.º - 1. Quando se trate de obras sujeitas ao condicionamento previsto neste diploma, ao requerimento a que se refere o n.º 3 do artigo 5.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril de 1970, deverá ser junta estimativa do custo total da obra subscrita pelo técnico responsável pelo respectivo projecto.
+Art. 12.º - 1. Quando se trate de obras sujeitas ao condicionamento previsto neste diploma, ao requerimento a que se refere o n.º 3 do artigo 5.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril de 1970, deverá ser junta estimativa do custo total da obra subscrita pelo técnico responsável pelo respectivo projecto.
 
 2. Antes de iniciar a obra ou cada uma das fases da obra, o titular da respectiva licença deverá comunicar à câmara municipal a empresa ou empresas encarregadas da sua realização, especificando a natureza e valor dos trabalhos que cada uma delas realizará e identificando o alvará ou alvarás que habilitam a proceder à sua execução, quando exigíveis.
 
@@ -282,11 +326,11 @@ a) Os que, dolosamente, declararem ou contribuírem que seja declarado valor da 
 
 b) O dono da obra abrangida pelo disposto no artigo 4.º, sempre que o executor não seja o que for por ele indicado.
 
-###### Art. 13.º Aplicar-se-á o preceituado no artigo 165.º do Regulamento Geral das Edificações Urbanas quanto às obras executadas com infracção do disposto neste diploma.
+Art. 13.º Aplicar-se-á o preceituado no artigo 165.º do Regulamento Geral das Edificações Urbanas quanto às obras executadas com infracção do disposto neste diploma.
 
-###### Art. 14.º A responsabilidade pela execução das obras referidas no artigo 4.º deste diploma incumbe aos industriais da construção civil ou aos empreiteiros de obras públicas que forem titulares dos alvarás a cujo abrigo elas sejam feitas.
+Art. 14.º A responsabilidade pela execução das obras referidas no artigo 4.º deste diploma incumbe aos industriais da construção civil ou aos empreiteiros de obras públicas que forem titulares dos alvarás a cujo abrigo elas sejam feitas.
 
-###### Art. 15.º - 1. Será aplicada a pena de prisão e multa correspondente aos industriais da construção civil, seus directores técnicos e demais empregados, sempre que, com propósito doloso, ordenem, autorizem ou pratiquem actos com infracção do prescrito no respectivo projecto e caderno de encargos e em disposições de interesse e ordem pública dos regulamentos aplicáveis, designadamente os seguintes:
+Art. 15.º - 1. Será aplicada a pena de prisão e multa correspondente aos industriais da construção civil, seus directores técnicos e demais empregados, sempre que, com propósito doloso, ordenem, autorizem ou pratiquem actos com infracção do prescrito no respectivo projecto e caderno de encargos e em disposições de interesse e ordem pública dos regulamentos aplicáveis, designadamente os seguintes:
 
 1.º Confecção de argamassas e betões que não satisfaçam as condições fixadas nos respectivos regulamentos e cadernos de encargos, ou o seu uso em quantidades ou proporções diversas das neles estabelecidas;
 
@@ -306,29 +350,29 @@ b) Aos donos das obras e seus representantes que ordenem ou autorizem os citados
 
 3. Para os efeitos do disposto nos números anteriores, o dolo consiste no conhecimento de que os materiais ou processos de construção usados não satisfazem os requisitos exigidos pelos regulamentos da construção ou as condições normais de estabilidade e segurança da obra.
 
-###### Art. 16.º Se dos factos previstos no artigo anterior resultar acidente que provoque doença ou impossibilidade de trabalho em qualquer pessoa, a pena aplicável será a de prisão de três meses a dois anos e multa correspondente.
+Art. 16.º Se dos factos previstos no artigo anterior resultar acidente que provoque doença ou impossibilidade de trabalho em qualquer pessoa, a pena aplicável será a de prisão de três meses a dois anos e multa correspondente.
 
-###### Art. 17.º - 1. Se do acidente resultar para o ofendido cortamento, privação, aleijão ou inabilitação de algum membro ou órgão essencial do corpo ou se o mesmo ficar privado da razão ou impossibilitado por toda a vida de trabalhar, a pena será a de prisão maior de dois a oito anos.
+Art. 17.º - 1. Se do acidente resultar para o ofendido cortamento, privação, aleijão ou inabilitação de algum membro ou órgão essencial do corpo ou se o mesmo ficar privado da razão ou impossibilitado por toda a vida de trabalhar, a pena será a de prisão maior de dois a oito anos.
 
 2. Será aplicada a mesma pena agravada se do acidente resultar a morte do sinistrado.
 
-###### Art. 18.º As penas cominadas nos artigos anteriores serão igualmente aplicáveis quando os factos neles previstos resultarem da subtracção de quaisquer elementos da construção depois de feita a vistoria da fiscalização.
+Art. 18.º As penas cominadas nos artigos anteriores serão igualmente aplicáveis quando os factos neles previstos resultarem da subtracção de quaisquer elementos da construção depois de feita a vistoria da fiscalização.
 
-###### Art. 19.º Se os actos previstos no artigo 15.º forem praticados por negligência, imperícia, inconsideração ou falta de destreza e deles resultar acidente que seja causa da morte ou de ofensas corporais em qualquer pessoa, os donos das obras, os industriais, seus directores técnicos e demais empregados que ordenem esses actos, os autorizem ou executem, ou, tendo deles perfeito conhecimento, os não evitem, serão punidos nos termos dos artigos 368.º e 369.º do Código Penal.
+Art. 19.º Se os actos previstos no artigo 15.º forem praticados por negligência, imperícia, inconsideração ou falta de destreza e deles resultar acidente que seja causa da morte ou de ofensas corporais em qualquer pessoa, os donos das obras, os industriais, seus directores técnicos e demais empregados que ordenem esses actos, os autorizem ou executem, ou, tendo deles perfeito conhecimento, os não evitem, serão punidos nos termos dos artigos 368.º e 369.º do Código Penal.
 
-###### Art. 20.º Na graduação das penas previstas nos artigos 15.º, 16.º, 17.º e 18.º deste diploma atender-se-á fundamentalmente ao benefício que o infractor obteria com a prática do acto e à gravidade das consequências dos acidentes.
+Art. 20.º Na graduação das penas previstas nos artigos 15.º, 16.º, 17.º e 18.º deste diploma atender-se-á fundamentalmente ao benefício que o infractor obteria com a prática do acto e à gravidade das consequências dos acidentes.
 
-###### Art. 21.º Quando do acidente resultar para alguém doença ou impossibilidade para o trabalho com duração não superior a dez dias, poderá haver perdão do ofendido quanto às ofensas corporais recebidas, sem prejuízo, porém, do disposto no artigo 15.º deste decreto-lei.
+Art. 21.º Quando do acidente resultar para alguém doença ou impossibilidade para o trabalho com duração não superior a dez dias, poderá haver perdão do ofendido quanto às ofensas corporais recebidas, sem prejuízo, porém, do disposto no artigo 15.º deste decreto-lei.
 
-###### Art. 22.º Se o industrial da construção civil for uma sociedade, a responsabilidade penal imputar-se-á aos respectivos sócios gerentes ou administradores que no acto hajam intervindo, aos quais serão aplicadas individualmente as penas cominadas neste decreto-lei.
+Art. 22.º Se o industrial da construção civil for uma sociedade, a responsabilidade penal imputar-se-á aos respectivos sócios gerentes ou administradores que no acto hajam intervindo, aos quais serão aplicadas individualmente as penas cominadas neste decreto-lei.
 
-###### Art. 23.º O disposto nos artigos 15.º, 16.º, 17.º, 18.º e 19.º não isenta os seus autores da responsabilidade civil por prejuízos ou danos causados a terceiros.
+Art. 23.º O disposto nos artigos 15.º, 16.º, 17.º, 18.º e 19.º não isenta os seus autores da responsabilidade civil por prejuízos ou danos causados a terceiros.
 
-###### Art. 24.º - 1. Logo que os serviços de uma câmara municipal verifiquem a prática de qualquer dos factos dolosos referidos nos artigos 15.º, 16.º, 17.º, 18.º e 19.º em obras executadas no respectivo concelho, deverão imediatamente levantar auto de ocorrência, devidamente testemunhado, que será enviado à Comissão e ao agente do Ministério Público competente para que promova a instrução do respectivo processo crime.
+Art. 24.º - 1. Logo que os serviços de uma câmara municipal verifiquem a prática de qualquer dos factos dolosos referidos nos artigos 15.º, 16.º, 17.º, 18.º e 19.º em obras executadas no respectivo concelho, deverão imediatamente levantar auto de ocorrência, devidamente testemunhado, que será enviado à Comissão e ao agente do Ministério Público competente para que promova a instrução do respectivo processo crime.
 
 2. Deverão os mesmos serviços proceder por idêntica forma sempre que se verifique, em qualquer obra, que o industrial inscrito que figura como seu executante apenas actua como interposta pessoa de um industrial não inscrito, a fim de ao primeiro ser aplicada a penalidade fixada no artigo 29.º e de o Ministério Público promover a este último processo crime por exercício ilegal da profissão.
 
-###### Art. 25.º As câmaras municipais enviarão mensalmente à Comissão, em impresso fornecido por esta e relativamente a cada uma das obras referidas no artigo 4.º concluídas no mês anterior, verbete, devidamente preenchido e em duplicado, do qual constará:
+Art. 25.º As câmaras municipais enviarão mensalmente à Comissão, em impresso fornecido por esta e relativamente a cada uma das obras referidas no artigo 4.º concluídas no mês anterior, verbete, devidamente preenchido e em duplicado, do qual constará:
 
 a) Natureza da obra e sua localização;
 
@@ -340,37 +384,37 @@ d) Nome e morada do industrial ou industriais que a executaram;
 
 e) Informação sucinta sobre a forma como decorreu a execução da obra, com indicação dos incidentes que nela se verificaram.
 
-###### Art. 26.º - 1. Os industriais inscritos são obrigados a participar à comissão qualquer alteração nos seus meios de acção que possa importar variação na categoria ou redução nas classes atribuídas aos respectivos alvarás.
+Art. 26.º - 1. Os industriais inscritos são obrigados a participar à comissão qualquer alteração nos seus meios de acção que possa importar variação na categoria ou redução nas classes atribuídas aos respectivos alvarás.
 
 2. A participação deverá ser confirmada pelo grémio regional dos industriais da construção civil e obras públicas respectivo.
 
-###### Art. 27.º Os alvarás concedidos serão modificados de acordo com a situação resultante do cumprimento do artigo anterior e ainda quando os seus titulares o requeiram, seguindo-se neste caso os termos aplicáveis dos artigos 9.º e 10.º
+Art. 27.º Os alvarás concedidos serão modificados de acordo com a situação resultante do cumprimento do artigo anterior e ainda quando os seus titulares o requeiram, seguindo-se neste caso os termos aplicáveis dos artigos 9.º e 10.º
 
-###### Art. 28.º - 1. Serão suspensos os alvarás dos industriais relativamente nos quais deixe de verificar-se qualquer das condições de que, de acordo com este diploma e seu regulamento, dependa a concessão do alvará e enquanto não se achar sanado o motivo que originar a suspensão.
+Art. 28.º - 1. Serão suspensos os alvarás dos industriais relativamente nos quais deixe de verificar-se qualquer das condições de que, de acordo com este diploma e seu regulamento, dependa a concessão do alvará e enquanto não se achar sanado o motivo que originar a suspensão.
 
 2. Os industriais inscritos são obrigados, sob pena de serem suspensos os respectivos alvarás, a apresentar em Fevereiro de cada ano, em modelos exclusivos da Imprensa Nacional e para cada alvará concedido, relação dos trabalhos concluídos no ano anterior ou em curso no final do mesmo ano e que se enquadrem na respectiva inscrição, com a indicação da sua natureza, valor, localização administrativa, designação e endereço das entidades públicas ou particulares que lhes adjudicaram, ou declaração de que não efectuaram quaisquer trabalhos.
 
 3. Os empreiteiros de obras públicas, como tais inscritos e classificados independentemente do cumprimento do disposto no artigo 29.º e seu § único do regulamento do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), ficam sujeitos ao disposto no n.º 1 deste artigo no respeitante a obras de construção civil que executarem por conta de particulares.
 
-###### Art. 29.º - 1. Serão cassados os alvarás dos empreiteiros a quem venha a reconhecer-se falta de idoneidade moral ou profissional, e bem assim os que, sem motivo que a Comissão considere justificado, se mantenham suspensos por mais de seis meses.
+Art. 29.º - 1. Serão cassados os alvarás dos empreiteiros a quem venha a reconhecer-se falta de idoneidade moral ou profissional, e bem assim os que, sem motivo que a Comissão considere justificado, se mantenham suspensos por mais de seis meses.
 
 2. Se durante o período da suspensão o empreiteiro incorrer em qualquer falta prevista neste decreto-lei ou no seu regulamento, a suspensão do alvará converter-se-á em cassação.
 
-###### Art. 30.º No caso de falecimento de industriais inscritos em nome individual, permitir-se-á a conclusão das obras em curso, desde que os seus herdeiros comprovem dispor dos necessários meios técnicos e financeiros.
+Art. 30.º No caso de falecimento de industriais inscritos em nome individual, permitir-se-á a conclusão das obras em curso, desde que os seus herdeiros comprovem dispor dos necessários meios técnicos e financeiros.
 
-###### Art. 31.º - 1. A concessão dos alvarás, suas modificações, cassações e suspensões e a cessação destas serão publicadas no Diário do Governo.
+Art. 31.º - 1. A concessão dos alvarás, suas modificações, cassações e suspensões e a cessação destas serão publicadas no Diário do Governo.
 
 2. A suspensão do alvará por mais de seis meses e a sua cassação são fundamento de rescisão por parte do dono da obra do contrato celebrado com o respectivo titular e em curso de execução, sem direito a qualquer indemnização para o industrial.
 
-###### Art. 32.º - 1. Das deliberações da Comissão poderá reclamar-se para a própria Comissão.
+Art. 32.º - 1. Das deliberações da Comissão poderá reclamar-se para a própria Comissão.
 
 2. Das deliberações tomadas sobre as reclamações haverá recurso para o Ministro das Obras Públicas.
 
-###### Art. 33.º - 1. Passados cento e oitenta dias sobre a entrada em vigor deste diploma, as obras referidas no artigo 4.º e abrangidas pelas subcategorias previstas no artigo 6.º só poderão ser executadas por industriais da construção civil ou empreiteiros de obras públicas, uns e outros titulares dos respectivos alvarás, nelas devidamente inscritos e classificados.
+Art. 33.º - 1. Passados cento e oitenta dias sobre a entrada em vigor deste diploma, as obras referidas no artigo 4.º e abrangidas pelas subcategorias previstas no artigo 6.º só poderão ser executadas por industriais da construção civil ou empreiteiros de obras públicas, uns e outros titulares dos respectivos alvarás, nelas devidamente inscritos e classificados.
 
 2. O disposto no número antecedente não prejudica as actividades decorrentes da execução de obras cujo início se verificou antes de terminado o prazo nele fixado.
 
-###### Art. 34.º - 1. Será cobrada pela passagem dos alvarás de industriais da construção civil a taxa de 0,05 por mil sobre a importância do limite inferior da classe concedida, de harmonia com o disposto no artigo 7.º, com o mínimo de 250$00.
+Art. 34.º - 1. Será cobrada pela passagem dos alvarás de industriais da construção civil a taxa de 0,05 por mil sobre a importância do limite inferior da classe concedida, de harmonia com o disposto no artigo 7.º, com o mínimo de 250$00.
 
 2. Em caso de alteração de alvará inicial, será cobrada taxa no valor da diferença entre as que corresponderem, nos termos do número anterior, à nova e à anterior classe, com o mínimo de 150$00.
 
@@ -378,22 +422,22 @@ e) Informação sucinta sobre a forma como decorreu a execução da obra, com in
 
 4. A cobrança das taxas a que se refere este artigo será feita por meio de selo a fixar no documento do alvará.
 
-###### Art. 35.º - 1. A cobrança coerciva das taxas a que se refere o artigo anterior é da competência dos juízos fiscais.
+Art. 35.º - 1. A cobrança coerciva das taxas a que se refere o artigo anterior é da competência dos juízos fiscais.
 
 2. As certidões passadas pela secretaria da Comissão com elementos extraídos dos respectivos processos servirão de base às execuções e serão, para tal efeito, enviadas pelo presidente ao Tribunal de 1.ª Instância das Contribuições e Impostos em Lisboa ou Porto e ao chefe da repartição de finanças nos restantes concelhos do País, consoante as regras da competência.
 
 3. No caso de o devedor residir no estrangeiro, será competente para a execução o Tribunal das Contribuições e Impostos de Lisboa.
 
-###### Art. 36.º Os membros da Comissão e os seus substitutos têm direito ao abono de senhas de presença de 150$00 por cada sessão a que assistirem, bem como a transporte de 1.ª classe e a ajudas de custo correspondentes à respectiva categoria ou, não se tratando de funcionários, às das categorias C a F da tabela anexa à [Portaria n.º 23745](https://diariodarepublica.pt/dr/detalhe/portaria/23745-1968-262813), de 4 de Dezembro de 1968.
+Art. 36.º Os membros da Comissão e os seus substitutos têm direito ao abono de senhas de presença de 150$00 por cada sessão a que assistirem, bem como a transporte de 1.ª classe e a ajudas de custo correspondentes à respectiva categoria ou, não se tratando de funcionários, às das categorias C a F da tabela anexa à [Portaria n.º 23745](https://diariodarepublica.pt/dr/detalhe/portaria/23745-1968-262813), de 4 de Dezembro de 1968.
 
-###### Art. 37.º O regulamento deste decreto-lei será aprovado por portaria do Ministro das Obras Públicas.
+Art. 37.º O regulamento deste decreto-lei será aprovado por portaria do Ministro das Obras Públicas.
 
-###### Art. 38.º O presente diploma entra em vigor no dia 1 de Janeiro de 1971.
+Art. 38.º O presente diploma entra em vigor no dia 1 de Janeiro de 1971.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 19 de Novembro de 1970.**
+Promulgado em 19 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

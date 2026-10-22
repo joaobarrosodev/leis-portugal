@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43628-1961-569558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3793177d414a0b6cfce4c6043a8f4debf3c0ee60394fccbfea6172f871a54e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67c3c0173ae7ff43b9a238025cbf9581470c1336687b1a6ddeeb8486b502e3e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditor
+- Auditoria Administrativa
+- Concurso
+- Recrutamento de Pessoal
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605115:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:38Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +109,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os concursos para auditores administrativos serão abertos quando o Presidente do Conselho o determinar.
+Artigo 1.º Os concursos para auditores administrativos serão abertos quando o Presidente do Conselho o determinar.
 
 § único. A abertura do concurso será anunciada pelo presidente do Supremo Tribunal Administrativo, por aviso publicado ao Diário do Governo.
 
-###### Art. 2.º Serão admitidos aos concursos:
+Art. 2.º Serão admitidos aos concursos:
 
 a) Os funcionários a que se refere o corpo do artigo 800.º do Código Administrativo;
 
@@ -104,29 +121,29 @@ b) Os diplomados com o curso complementar de Ciências Político-Económicas das
 
 § único. Na hipótese prevista no § único do artigo 800.º do Código Administrativo será alargada a admissão ao concurso, nos termos previstos nesse preceito.
 
-###### Art. 3.º O júri do concurso será composto pelo presidente do Supremo Tribunal Administrativo, que servirá de presidente, dois juízes da 1.ª secção do mesmo tribunal e um professor de Ciências Políticas de qualquer das Faculdades de Direito, nomeados pelo Presidente do Conselho.
+Art. 3.º O júri do concurso será composto pelo presidente do Supremo Tribunal Administrativo, que servirá de presidente, dois juízes da 1.ª secção do mesmo tribunal e um professor de Ciências Políticas de qualquer das Faculdades de Direito, nomeados pelo Presidente do Conselho.
 
 § único. Os membros do júri terão direito à gratificação de 200$00 por cada dia de serviço prestado, além das ajudas de custo e abono de despesas de transporte a que haja lugar.
 
 Estas despesas constituem encargo do cofre do Supremo Tribunal Administrativo.
 
-###### Art. 4.º Os requerimentos de admissão ao concurso serão dirigidos ao presidente do Supremo Tribunal Administrativo e apresentados na respectiva secretaria no prazo de quinze dias, a contar da data da publicação do aviso de abertura.
+Art. 4.º Os requerimentos de admissão ao concurso serão dirigidos ao presidente do Supremo Tribunal Administrativo e apresentados na respectiva secretaria no prazo de quinze dias, a contar da data da publicação do aviso de abertura.
 
 § único. Cada concorrente, dentro do prazo fixado no corpo deste artigo e sob pena de não ser admitido, depositará a quantia de 250$00 no cofre do referido Tribunal e mediante guias passadas pela respectiva secretaria.
 
-###### Art. 5.º Os requerimentos serão acompanhados da declaração a que se refere o artigo 1.º do [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), de 14 de Setembro de 1936, e ainda dos documentos comprovativos dos requisitos constantes do artigo 2.º
+Art. 5.º Os requerimentos serão acompanhados da declaração a que se refere o artigo 1.º do [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), de 14 de Setembro de 1936, e ainda dos documentos comprovativos dos requisitos constantes do artigo 2.º
 
 § único. Os concorrentes poderão juntar, além dos documentos exigidos no corpo deste artigo, quaisquer outros que se destinem a provar os cargos já exercidos ou outros motivos de preferência legal.
 
-###### Art. 6.º Findo o prazo para a apresentação dos requerimentos será organizada e publicada a lista provisória dos candidatos admitidos e excluídos, com indicação dos motivos de exclusão.
+Art. 6.º Findo o prazo para a apresentação dos requerimentos será organizada e publicada a lista provisória dos candidatos admitidos e excluídos, com indicação dos motivos de exclusão.
 
 § 1.º No prazo de dez dias, a contar da publicação, poderão os interessados apresentar qualquer reclamação ou juntar documentos em falta.
 
 § 2.º Decorrido o prazo fixado no parágrafo anterior e decididas as reclamações apresentadas será organizada e publicada a lista dos candidatos admitidos, com o anúncio do dia, hora e local em que terá início a prestação de provas.
 
-###### Art. 7.º O concurso constará de duas provas, uma escrita e outra oral.
+Art. 7.º O concurso constará de duas provas, uma escrita e outra oral.
 
-###### Art. 8.º A prova escrita versará sobre direito administrativo e consistirá:
+Art. 8.º A prova escrita versará sobre direito administrativo e consistirá:
 
 a) Na resolução fundamentada de uma questão contenciosa;
 
@@ -138,7 +155,7 @@ b) Na resolução de uma outra questão, sob a forma de despacho ou sentença, d
 
 § 3.º Para a resolução de cada ponto será concedido o tempo de cinco horas.
 
-###### Art. 9.º A prova oral constará de três interrogatórios, sendo um de direito administrativo, outro sobre processo do contencioso administrativo e outro sobre direito e processo civil.
+Art. 9.º A prova oral constará de três interrogatórios, sendo um de direito administrativo, outro sobre processo do contencioso administrativo e outro sobre direito e processo civil.
 
 § 1.º Os pontos para as provas orais, em número de 6 por cada interrogatório, serão publicados no Diário do Governo com a antecedência mínima de 30 dias.
 
@@ -148,19 +165,19 @@ b) Na resolução de uma outra questão, sob a forma de despacho ou sentença, d
 
 § 4.º As provas orais serão públicas, mas nenhum concorrente poderá ouvi-las antes de ter prestado a sua, no respectivo interrogatório.
 
-###### Art. 10.º O apuramento dos concorrentes será feito por maioria de votos do júri, pertencendo ao presidente voto de qualidade, e a classificação dos aprovados far-se-á pela atribuição das notas de Bom e Muito bom.
+Art. 10.º O apuramento dos concorrentes será feito por maioria de votos do júri, pertencendo ao presidente voto de qualidade, e a classificação dos aprovados far-se-á pela atribuição das notas de Bom e Muito bom.
 
 § 1.º Do resultado de cada concurso será imediatamente lavrado termo, assinado por todo o júri, em livro próprio da presidência do Supremo Tribunal Administrativo.
 
 § 2.º A classificação dos concorrentes será publicada no Diário do Governo.
 
-###### Art. 11.º Além das preferências já estabelecidas na lei, quer com carácter geral, quer na alínea c) do § único do artigo 15.º do [Decreto n.º 16044](https://diariodarepublica.pt/dr/detalhe/decreto/16044-1928-605115), de 16 de Outubro de 1928, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 34850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34850-1945-521831), de 21 de Agosto de 1945, nas nomeações dos candidatos aprovados no concurso, e em igualdade de circunstâncias, atender-se-á sucessivamente:
+Art. 11.º Além das preferências já estabelecidas na lei, quer com carácter geral, quer na alínea c) do § único do artigo 15.º do [Decreto n.º 16044](https://diariodarepublica.pt/dr/detalhe/decreto/16044-1928-605115), de 16 de Outubro de 1928, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 34850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34850-1945-521831), de 21 de Agosto de 1945, nas nomeações dos candidatos aprovados no concurso, e em igualdade de circunstâncias, atender-se-á sucessivamente:
 
 a) Às funções já desempenhadas e às respectivas classificações e informações de serviço;
 
 b) Aos trabalhos publicados pelos candidatos.
 
-###### Art. 12.º Os concorrentes que não compareçam a qualquer das provas poderão solicitar a justificação da falta nas 24 horas seguintes, por meio de requerimento dirigido ao presidente do júri.
+Art. 12.º Os concorrentes que não compareçam a qualquer das provas poderão solicitar a justificação da falta nas 24 horas seguintes, por meio de requerimento dirigido ao presidente do júri.
 
 § 1.º A justificação apenas poderá ser pedida uma vez e fundar-se-á em doença ou outro motivo grave, sendo obrigatória, naquele caso, a junção de atestado médico.
 
@@ -168,11 +185,11 @@ b) Aos trabalhos publicados pelos candidatos.
 
 § 3.º Se a justificação for aceite, o presidente designará logo dia e hora para a prestação da prova.
 
-###### Art. 13.º Os concursos têm o prazo de validade de três anos, a contar da publicação da respectiva classificação.
+Art. 13.º Os concursos têm o prazo de validade de três anos, a contar da publicação da respectiva classificação.
 
-###### Art. 14.º Serão resolvidas pelo júri quaisquer dúvidas que se suscitarem a respeito da prestação de provas.
+Art. 14.º Serão resolvidas pelo júri quaisquer dúvidas que se suscitarem a respeito da prestação de provas.
 
-###### Art. 15.º Aos concursos documentais para os lugares de agente do Ministério Público junto das auditorias administrativas serão admitidos:
+Art. 15.º Aos concursos documentais para os lugares de agente do Ministério Público junto das auditorias administrativas serão admitidos:
 
 a) Os funcionários da 3.ª classe da 1.ª categoria do quadro geral administrativo dos serviços externos do Ministério do Interior;
 
@@ -182,8 +199,8 @@ c) Os doutores em Direito;
 
 d) Os diplomados com o curso complementar de Ciências Político-Económicas das Faculdades de Direito, desde que tenham concluído o curso com a classificação mínima de 14 valores.
 
-###### Art. 16.º Com excepção dos artigos 2.º e 15.º e do § único do artigo 3.º, constituem matéria regulamentar as disposições deste diploma, podendo ser alteradas por simples decreto.
+Art. 16.º Com excepção dos artigos 2.º e 15.º e do § único do artigo 3.º, constituem matéria regulamentar as disposições deste diploma, podendo ser alteradas por simples decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

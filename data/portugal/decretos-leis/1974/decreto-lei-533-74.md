@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23600/11951202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1974-472719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56536bfdabdf8e246dc1e5123bee0f10931a3334142580c600465bbf267f06a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27bfaa040bd67f28f50c8aadd442e12c2ca203c528447ba37b8e26b80303e47e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Condicionamento Industrial
+- Definição de Competências
+- Direcção Geral da Indústria Transformadora
+- Estabelecimento Industrial
+- Indústria
+- Licenciamento
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:157059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335716:por
+  label: Tornados extensivos a Macau e a Timor os arts. 1.º e 45.º do presente diploma, pelo(a) Portaria n.º 369/75 - Diário
+    do Governo n.º 137/1975, Série I de 1975-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-1975-335716
+  date: '1975-06-17'
+- type: amended_by
+  target: pt:dre:501584:por
+  label: "Incluída a lapidação e polimento de diamantes no quadro II anexo pelo DEC LEI.186/76.11.03.1976.MF, DG.IS [60] de\
+    \ 11.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1976-501584
+  date: '1976-03-11'
+- type: amended_by
+  target: pt:dre:501636:por
+  label: Integrada a indústria de reconstrução de pneus, inserta no subgrupo 3551.2 da revisão I da classificação das actividades
+    económicas (CAE), no quadro II anexo pelo(a) Decreto n.º 194/76 - Diário do Governo n.º 64/1976, Série I de 1976-03-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/194-1976-501636
+  date: '1976-03-16'
+- type: amended_by
+  target: pt:dre:299442:por
+  label: Alterados os quadros I e II anexos ao presente diploma, pelo(a) Decreto n.º 83/78 - Diário da República n.º 197/1978,
+    Série I de 1978-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/83-1978-299442
+  date: '1978-08-28'
+- type: cites
+  target: pt:dre:139398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686584:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157059:por
+  label: "Revogado pelo DEC LEI.519-I1/79.29.12.1979.MIND, DR.IS [299-4ºSupl] de 29.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-i1-1979-157059
+  date: '1979-12-29'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:46Z'
   warnings: []
   errors: []
 ---
@@ -121,19 +186,19 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Abolição dos regimes de condicionamento nacional e autorização discricionária)
 
 São abolidos os regimes de condicionamento nacional e de autorização prévia discricionária criados, respectivamente, pelos Decretos-Leis n.os 46666, de 24 de Novembro de 1965, e 75/74, de 28 de Fevereiro.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Princípio da liberdade de acesso)
 
 Salvas as excepções previstas na lei, é livre a instalação de unidades industriais, sem prejuízo da obediência à regulamentação vigente sobre higiene, segurança e salubridade e da observância das normas de qualidade obrigatórias.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Normas a observar na localização de unidades industriais)
 
@@ -141,7 +206,7 @@ Salvas as excepções previstas na lei, é livre a instalação de unidades indu
 
 2. É livre a mudança de local das unidades industriais, sem prejuízo das obrigações decorrentes dos concursos públicos ou assumidas nos termos do artigo 7.º e da observância da legislação do trabalho, ordenamento do território e protecção do ambiente.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Indústrias sujeitas a legislação especial)
 
@@ -161,7 +226,7 @@ e) Fabricação de óleos e massas lubrificantes.
 
 ### CAPÍTULO II — Indústrias de acesso limitado
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Realização prévia de concurso público)
 
@@ -169,19 +234,19 @@ e) Fabricação de óleos e massas lubrificantes.
 
 2. A abertura do concurso, os requisitos a satisfazer pelos interessados, os prazos para apresentação e execução das propostas serão determinados em despacho do Secretário de Estado da Indústria e Energia, que fixará, igualmente, quaisquer outras regras que se mostrem necessárias, nomeadamente quanto à titularidade e transmissibilidade do capital social.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Dispensa de realização de concurso público)
 
 O Governo poderá, independentemente da realização prévia de concurso público, decidir, por decreto, a instalação de novas unidades industriais para exploração de actividades incluídas no quadro I, desde que nas respectivas empresas o sector público detenha a maioria do capital social.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Acordos entre o Governo e as empresas)
 
 Os objectivos a atingir e as condições a observar na exploração de actividades industriais incluídas no quadro I poderão ser acordados entre o Governo e a empresa interessada, nomeadamente através do estabelecimento de contratos-programa.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Ampliações)
 
@@ -189,7 +254,7 @@ Os objectivos a atingir e as condições a observar na exploração de actividad
 
 2. Se em resultado da ampliação ou substituição pretendidas se presumir que a capacidade final instalada excederá em mais de 25% a capacidade instalada, a ampliação ou substituição em causa serão consideradas como instalação de uma nova unidade.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Cadastro)
 
@@ -211,7 +276,7 @@ Os objectivos a atingir e as condições a observar na exploração de actividad
 
 ### CAPÍTULO III — Acesso sujeito à satisfação de requisitos
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Fixação de requisitos específicos)
 
@@ -221,7 +286,7 @@ Os objectivos a atingir e as condições a observar na exploração de actividad
 
 3. Os despachos a que se refere o número anterior serão revistos periodicamente a fim de serem adaptados à evolução tecnológica, aos progressos na especialização produtiva e às modificações na situação dos mercados.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Apresentação de requerimento)
 
@@ -245,25 +310,25 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 6. No requerimento indicar-se-ão em nota todos os documentos que o acompanham.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Ampliação e modificação do equipamento produtivo)
 
 As unidades industriais em relação às quais já tenha sido comprovada a observância dos requisitos técnicos, económicos e financeiros fixados para a respectiva actividade industrial poderão proceder, independentemente de autorização, à ampliação do equipamento produtivo ou à sua modificação desde que destas não resulte inobservância dos respectivos requisitos.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Obrigatoriedade da instalação por sociedades)
 
 As novas unidades afectas a indústrias incluídas no quadro II só poderão ser instaladas por sociedades comerciais.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Casos de indeferimento)
 
 O requerimento será indeferido quando não seja explícito quanto à actividade a exercer, se refira a indústria incluída no quadro I ou quando a memória descritiva não contiver as indicações exigidas no n.º 3 do artigo 11.º
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Publicação do despacho)
 
@@ -271,7 +336,7 @@ O requerimento será indeferido quando não seja explícito quanto à actividade
 
 2. Consideram-se deferidos os requerimentos que não tiverem obtido despacho no prazo de quarenta e cinco dias, a contar da data da sua apresentação.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Comprovação da observância dos requisitos)
 
@@ -287,7 +352,7 @@ O requerimento será indeferido quando não seja explícito quanto à actividade
 
 6. Se a segunda vistoria concluir estarem cumpridos os requisitos técnicos exigíveis, será imediatamente autorizado o início da laboração pela forma prescrita no número anterior; caso contrário, será impedida a laboração, para o que serão selados os maquinismos instalados.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Competência para a verificação dos requisitos técnicos)
 
@@ -295,13 +360,13 @@ O requerimento será indeferido quando não seja explícito quanto à actividade
 
 2. A Direcção-Geral da Indústria Transformadora quando entender desnecessária a realização, por técnicos dos seus serviços, da vistoria para verificação dos requisitos técnicos poderá cometer o respectivo encargo à Direcção-Geral da Qualidade Industrial.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Validade dos despachos de deferimento)
 
 Os despachos de deferimento são válidos relativamente aos requisitos fixados à data em que forem proferidos, podendo o prazo para a execução da instalação requerida ser prorrogado se esses requisitos tiverem entretanto sido modificados.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Prazo para a instalação)
 
@@ -313,15 +378,15 @@ Os despachos de deferimento são válidos relativamente aos requisitos fixados �
 
 4. Se a unidade industrial não for instalada dentro do prazo inicialmente fixado ou prorrogado, caducará o direito à instalação.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Delegação de competência)
 
-**O Secretário de Estado da Indústria e Energia poderá delegar no director-geral da Indústria Transformadora a competência para apreciar e decidir os requerimentos para instalação de unidades industriais, relativamente às actividades incluídas no quadro II.**
+O Secretário de Estado da Indústria e Energia poderá delegar no director-geral da Indústria Transformadora a competência para apreciar e decidir os requerimentos para instalação de unidades industriais, relativamente às actividades incluídas no quadro II.
 
 ### CAPÍTULO IV — Do acesso às restantes actividades industriais
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Formalidades a observar na instalação, modificação de equipamento e transferência de local)
 
@@ -337,13 +402,13 @@ Os despachos de deferimento são válidos relativamente aos requisitos fixados �
 
 ## TÍTULO II — Da fiscalização e penalidades
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Competência)
 
 A fiscalização do cumprimento do disposto neste decreto-lei compete às Direcções-Gerais da Indústria Transformadora e da Qualidade Industrial, sem prejuízo da competência atribuída a outros serviços em domínios específicos.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Autos de notícia)
 
@@ -353,7 +418,7 @@ A fiscalização do cumprimento do disposto neste decreto-lei compete às Direc�
 
 3. A Direcção-Geral da Indústria Transformadora notificará o arguido do levantamento do auto por meio de carta registada com aviso de recepção, podendo aquele apresentar a sua defesa no prazo de quinze dias, a contar da data da notificação.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Penalidades no caso de instalação com violação das normas aplicáveis)
 
@@ -361,25 +426,25 @@ A fiscalização do cumprimento do disposto neste decreto-lei compete às Direc�
 
 2. A inobservância dos requisitos fixados ao abrigo do n.º 2 do artigo 10.º será punida com multa de 10000$00 a 1000000$00, podendo, ainda, ser decretado o encerramento da respectiva unidade, quando a especial gravidade da infracção o justificar.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Penalidades no caso de outras infracções)
 
 O não cumprimento de qualquer das obrigações decorrentes do presente diploma e não enquadráveis nos n.os 1 e 2 do artigo anterior será punido com a multa de 1000$00 a 10000$00.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Graduação das multas)
 
 As multas previstas nos artigos 24.º e 25.º serão graduadas de acordo com a natureza da infracção, designadamente a ausência de dolo, o prejuízo ou risco de prejuízo dela derivados para a economia nacional, os antecedentes do infractor e a sua capacidade económica.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Competência para aplicação das multas)
 
 A competência para aplicação das multas previstas nos artigos 24.º e 25.º cabe, respectivamente, ao Secretário de Estado da Indústria e Energia e ao director-geral da Indústria Transformadora.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Responsabilidade solidária)
 
@@ -387,13 +452,13 @@ A competência para aplicação das multas previstas nos artigos 24.º e 25.º c
 
 2. No caso de extinção da pessoa colectiva ou da sociedade respondem solidariamente pela multa as pessoas referidas no número anterior.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Cobrança coerciva das multas)
 
 Se o transgressor não pagar a multa aplicada nos termos dos artigos anteriores dentro do prazo de dez dias, a contar da notificação do despacho definitivo, remeter-se-á ao competente tribunal das contribuições e impostos, para cobrança coerciva, certidão de que constem os elementos referidos no artigo 156.º do Código do Processo das Contribuições e Impostos.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Apreensão de produtos e aposição de selos)
 
@@ -409,7 +474,7 @@ Se o transgressor não pagar a multa aplicada nos termos dos artigos anteriores 
 
 6. Proferido o despacho ordenando a desselagem, deverão os serviços dar-lhe imediato cumprimento.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Colaboração das autoridades administrativas ou policiais)
 
@@ -417,7 +482,7 @@ As autoridades administrativas ou policiais, quando solicitadas pelo director-ge
 
 ## TÍTULO IV — Disposições gerais
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Caução)
 
@@ -427,7 +492,7 @@ As autoridades administrativas ou policiais, quando solicitadas pelo director-ge
 
 3. A caução cessa com a completa instalação da unidade industrial e será declarada perdida a favor do Estado se, por força do disposto no n.º 4 do artigo 19.º o respectivo direito tiver caducado ou se o decreto ou despacho que autorizou a instalação da nova unidade for revogado nos termos da primeira parte do n.º 1 do artigo seguinte.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Revogação do despacho que tiver deferido a instalação)
 
@@ -435,7 +500,7 @@ As autoridades administrativas ou policiais, quando solicitadas pelo director-ge
 
 2. A revogação do despacho que autorizou a instalação será comunicada ao interessado e publicada no Boletim da Direcção-Geral da Indústria Transformadora.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Transmissão do direito à instalação de unidades industriais)
 
@@ -447,19 +512,19 @@ As autoridades administrativas ou policiais, quando solicitadas pelo director-ge
 
 ## TÍTULO V — Disposições finais e transitórias
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Alteração dos quadros)
 
 Os quadros I e II anexos a este diploma poderão ser alterados por decreto referendado pelo Ministro da Economia e pelo Secretário de Estado da Indústria e Energia.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Alterações de trâmites processuais)
 
 Os trâmites processuais relativos à instalação de unidades para exploração de indústrias incluídas no quadro II poderão ser alterados por decreto referendado pelo Secretário de Estado da Indústria e Energia.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Recurso)
 
@@ -467,25 +532,25 @@ Os trâmites processuais relativos à instalação de unidades para exploração
 
 2. Dos despachos do director-geral da Indústria Transformadora proferidos em execução deste decreto-lei cabe sempre recurso hierárquico nos termos da lei administrativa.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Normas internas)
 
 Serão estabelecidas por despacho do Secretário de Estado da Indústria e Energia, sob proposta da Direcção-Geral da Indústria Transformadora, as normas internas necessárias à execução deste decreto-lei.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Obrigatoriedade do fornecimento de informações)
 
 A Direcção-Geral da Indústria Transformadora poderá em qualquer momento exigir às empresas o fornecimento dos elementos necessários para verificar o cumprimento das condições, genérica ou individualmente estabelecidas, relativamente à sua actividade industrial.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 («Boletim da Direcção-Geral da Indústria Transformadora»)
 
 A Direcção-Geral da Indústria Transformadora publicará, com a periodicidade que for julgada conveniente, um boletim, no qual serão feitas todas as publicações referidas neste diploma.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Unidades já instaladas que não satisfaçam os requisitos específicos)
 
@@ -497,7 +562,7 @@ A Direcção-Geral da Indústria Transformadora publicará, com a periodicidade 
 
 4. Se no caso do número anterior se verificar que da substituição resulta aumento de capacidade superior a 25%, a Direcção-Geral da Qualidade Industrial sustará o andamento do processo para verificação das condições de higiene, salubridade e segurança e comunicará o facto à Direcção-Geral da Indústria Transformadora.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Pedidos de autorização pendentes)
 
@@ -507,19 +572,19 @@ A Direcção-Geral da Indústria Transformadora publicará, com a periodicidade 
 
 3. Consideram-se deferidos os pedidos de autorização respeitantes a indústrias não incluídas nos quadros I e II pendentes à data da publicação deste decreto-lei, os quais serão arquivados sem prejuízo da competente anotação para efeitos do licenciamento previsto no Regulamento de Instalação e Laboração dos Estabelecimentos Industriais.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Regime transitório)
 
 Enquanto não forem publicados os despachos de fixação de requisitos específicos previstos no n.º 2 do artigo 10.º os requerimentos para a instalação de unidades afectas a indústrias incluídas no quadro II serão sempre deferidos, sendo os requisitos a observar em cada caso fixados no respectivo despacho.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Esclarecimento de dúvida)
 
 As dúvidas que se suscitarem na interpretação deste diploma serão resolvidas por despacho do Secretário de Estado da Indústria e Energia.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Revogações)
 
@@ -527,18 +592,18 @@ São revogados os Decretos-Leis n.os 46666, de 24 de Novembro de 1965, [481/72](
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 1 de Outubro de 1974.**
+Promulgado em 1 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/23600/11951202.pdf))](https://files.diariodarepublica.pt/1s/1974/10/23600/11951202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/23600/11951202.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/23600/11951202.pdf))](https://files.diariodarepublica.pt/1s/1974/10/23600/11951202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/23600/11951202.pdf)
 
 Vasco dos Santos Gonçalves - António de Almeida Santos - Emílio Rui da Veiga Peixoto Vilar.

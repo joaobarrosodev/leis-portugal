@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/20100/21502150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1979-370067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 506ec3e3c36280e69f87af628f9de17a3557a28dcc3da6abb6dc0965c120f7b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2345202c6b86fc9e0d64e7388506832554d45efa7a23da1bdaecf7abc0da0e9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando de Polícia
+- Conselho Administrativo
+- Presidente
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:17Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +110,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As funções de presidente do conselho administrativo passam a competir aos 2.os comandantes nos comandos onde esse cargo foi ou venha a ser criado e provido.
+Artigo 1.º As funções de presidente do conselho administrativo passam a competir aos 2.os comandantes nos comandos onde esse cargo foi ou venha a ser criado e provido.
 
-###### Art. 2.º Nos comandos distritais da Polícia de Segurança Pública do continente e das regiões autónomas, as funções de tesoureiro podem ser desempenhadas por um comissário ou por qualquer chefe de esquadra ou subchefe para isso designado pelo respectivo comandante.
+Art. 2.º Nos comandos distritais da Polícia de Segurança Pública do continente e das regiões autónomas, as funções de tesoureiro podem ser desempenhadas por um comissário ou por qualquer chefe de esquadra ou subchefe para isso designado pelo respectivo comandante.
 
-###### Art. 3.º Exceptuam-se do disposto nos artigos anteriores os casos em que a lei prevê que as funções consideradas sejam desempenhadas por um elemento para o efeito especialmente nomeado.
+Art. 3.º Exceptuam-se do disposto nos artigos anteriores os casos em que a lei prevê que as funções consideradas sejam desempenhadas por um elemento para o efeito especialmente nomeado.
 
-###### Art. 4.º Fica revogada toda a legislação que contrarie o disposto neste decreto-lei.
+Art. 4.º Fica revogada toda a legislação que contrarie o disposto neste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

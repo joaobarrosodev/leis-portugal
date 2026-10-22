@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29600/20162018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1972-685617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eb8c80998e01eed672ea086abc86cade3680048661399d49088c1b1e9bb95d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edd2903c63464c715a4d40d84e5be0208198a730f40ea0e4c115ef40aeb8931e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Formas de Provimento
+- Presidência do Conselho
+- Presidente
+- Secretaria Geral
+- Secretário
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:585845:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:585845:por
+  label: "Extinto o Conselho Nacional de Produtividade e revogado o presente diploma pelo DEC LEI.539/74.12.10.1974.MECO,\
+    \ DG.IS [238-Supl] de 12.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/539-1974-585845
+  date: '1974-10-12'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:15Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +134,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I
 
-###### Artigo 1.º - 1. É criado o Conselho Nacional de Produtividade, destinado a coordenar, acompanhar e promover os programas, estudos e acções conducentes ao incremento da produtividade em todos os sectores de actividade, como meio de desenvolvimento económico e social do País.
+Artigo 1.º - 1. É criado o Conselho Nacional de Produtividade, destinado a coordenar, acompanhar e promover os programas, estudos e acções conducentes ao incremento da produtividade em todos os sectores de actividade, como meio de desenvolvimento económico e social do País.
 
 2. O Conselho Nacional de Produtividade, que adiante se designa abreviadamente por Conselho, depende directamente da Presidência do Conselho.
 
-###### Art. 2.º Compete especialmente ao Conselho:
+Art. 2.º Compete especialmente ao Conselho:
 
 a) Elaborar e submeter à aprovação do Governo, em íntima ligação com os planos de fomento, programas nacionais de produtividade, em que se definam os objectivos e políticas a prosseguir para o incremento da produtividade em todos os sectores de actividade e as acções a realizar para esse fim;
 
@@ -140,7 +162,7 @@ j) Manter relações com instituições estrangeiras ou internacionais similares
 
 k) Promover ou realizar quaisquer outras actividades conducentes ao prosseguimento das suas finalidades.
 
-###### Art. 3.º - 1. O Conselho tem um presidente, um secretário e os seguintes vogais permanentes:
+Art. 3.º - 1. O Conselho tem um presidente, um secretário e os seguintes vogais permanentes:
 
 a) Um representante de cada um dos seguintes departamentos ou organismos:
 
@@ -188,7 +210,7 @@ d) Representantes de outras instituições ou organizações, públicas ou priva
 
 5. A constituição do Conselho poderá ser alterada mediante portaria do Presidente do Conselho.
 
-###### Art. 4.º - 1. O lugar de presidente do Conselho Nacional de Produtividade é provido em comissão de serviço, pelo prazo de três anos, prorrogável por iguais períodos, por escolha do Presidente do Conselho.
+Art. 4.º - 1. O lugar de presidente do Conselho Nacional de Produtividade é provido em comissão de serviço, pelo prazo de três anos, prorrogável por iguais períodos, por escolha do Presidente do Conselho.
 
 2. Quando o provimento recair em funcionário público e este não exerça o cargo em regime de acumulação, dar-se-á vaga no quadro de origem logo que o exercício das funções se prolongue para além de um ano, mas o funcionário poderá regressar ao mesmo quadro, a seu pedido, desde que nele tenha vaga.
 
@@ -196,7 +218,7 @@ d) Representantes de outras instituições ou organizações, públicas ou priva
 
 4. O lugar de presidente do Conselho Nacional de Produtividade tem a categoria correspondente à letra B do quadro, constante do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969; quando, porém, não seja exercido em regime de ocupação exclusiva, designadamente no caso de acumulação com outras funções públicas, será remunerado mediante gratificação, de quantitativo a fixar pelo Presidente do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 5.º - 1. Os vogais do Conselho Nacional de Produtividade são designados pelo Presidente do Conselho, pelo prazo de três anos, prorrogável por iguais períodos, mediante propostas:
+Art. 5.º - 1. Os vogais do Conselho Nacional de Produtividade são designados pelo Presidente do Conselho, pelo prazo de três anos, prorrogável por iguais períodos, mediante propostas:
 
 a) Dos membros do Governo que superintendam nos departamentos ou serviços indicados na alínea a) do n.º 1 do artigo 3.º;
 
@@ -206,7 +228,7 @@ c) Do presidente do Conselho Nacional de Produtividade, no caso da alínea d).
 
 2. Os vogais podem ser substituídos a todo o tempo.
 
-###### Art. 6.º - 1. Compete ao presidente do Conselho Nacional de Produtividade:
+Art. 6.º - 1. Compete ao presidente do Conselho Nacional de Produtividade:
 
 a) Orientar e coordenar a acção do Conselho;
 
@@ -218,7 +240,7 @@ d) Apresentar ao Presidente do Conselho os programas a que se refere a alínea a
 
 2. O presidente poderá delegar a presidência das sessões restritas em qualquer dos vogais que nelas tomem parte.
 
-###### Art. 7.º - 1. O lugar de secretário do Conselho tem a categoria correspondente à letra D do quadro constante do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) e é provido nos termos estabelecidos nos n.os 1 a 3 do artigo 4.º
+Art. 7.º - 1. O lugar de secretário do Conselho tem a categoria correspondente à letra D do quadro constante do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) e é provido nos termos estabelecidos nos n.os 1 a 3 do artigo 4.º
 
 2. Compete ao secretário do Conselho:
 
@@ -230,16 +252,16 @@ c) Assistir às reuniões, sem direito de voto, e elaborar as respectivas actas;
 
 d) Promover todo o expediente relativo ao funcionamento do Conselho.
 
-###### Art. 8.º Os vogais do Conselho, bem como os participantes nas suas reuniões ao abrigo do n.º 3 do artigo 3.º, têm direito ao abono, nos termos da lei, de senhas de presença, transportes e ajudas de custo.
+Art. 8.º Os vogais do Conselho, bem como os participantes nas suas reuniões ao abrigo do n.º 3 do artigo 3.º, têm direito ao abono, nos termos da lei, de senhas de presença, transportes e ajudas de custo.
 
-###### Art. 9.º O Conselho Nacional de Produtividade funcionará junto da Secretaria-Geral da Presidência do Conselho, que assegurará as instalações e o apoio burocrático necessários.
+Art. 9.º O Conselho Nacional de Produtividade funcionará junto da Secretaria-Geral da Presidência do Conselho, que assegurará as instalações e o apoio burocrático necessários.
 
-###### Art. 10.º Os encargos com a constituição e o funcionamento do Conselho Nacional de Produtividade serão suportados pelas verbas do orçamento da Secretaria-Geral da Presidência do Conselho, no qual se inscreverão anualmente as dotações necessárias, cabendo aos serviços administrativos daquela Secretaria-Geral processar e pagar as despesas que, com visto do presidente do Conselho Nacional de Produtividade, tenham cabimento nas referidas dotações.
+Art. 10.º Os encargos com a constituição e o funcionamento do Conselho Nacional de Produtividade serão suportados pelas verbas do orçamento da Secretaria-Geral da Presidência do Conselho, no qual se inscreverão anualmente as dotações necessárias, cabendo aos serviços administrativos daquela Secretaria-Geral processar e pagar as despesas que, com visto do presidente do Conselho Nacional de Produtividade, tenham cabimento nas referidas dotações.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Mota Pereira de Campos.
 
-**Promulgado em 15 de Dezembro de 1972.**
+Promulgado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

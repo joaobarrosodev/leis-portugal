@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1981-389861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eec79a31e6118fc0b035fbb4c204d9411fb45891058eaa081cddbe1b739cc927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a62ac5be1d059ee483ced7c5e0c13ce7ad79607855c197cd72377a92d784622
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Geral de Aposentações
+- Montepio dos Servidores do Estado
+- Porto
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:310594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679633:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:04Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +125,22 @@ Importa por isso regulamentar aquela situação, pondo fim à incerteza quanto a
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal abrangido pelo Regulamento das Aposentações dos Empregados da Santa Casa da Misericórdia do Porto que à data da entrada em vigor do presente diploma presta serviço nos estabelecimentos oficializados que pertenceram à Santa Casa da Misericórdia do Porto é obrigatoriamente inscrito na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado.
+Artigo 1.º O pessoal abrangido pelo Regulamento das Aposentações dos Empregados da Santa Casa da Misericórdia do Porto que à data da entrada em vigor do presente diploma presta serviço nos estabelecimentos oficializados que pertenceram à Santa Casa da Misericórdia do Porto é obrigatoriamente inscrito na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado.
 
-###### Art. 2.º O pessoal a que se refere o artigo anterior fica abrangido pelos estatutos de aposentação e de pensão de sobrevivência em vigor para a função pública, sendo-lhe contado, para o efeito, todo o tempo de contribuição para o regime especial estabelecido pelo Regulamento das Aposentações dos Empregados da Santa Casa da Misericórdia do Porto.
+Art. 2.º O pessoal a que se refere o artigo anterior fica abrangido pelos estatutos de aposentação e de pensão de sobrevivência em vigor para a função pública, sendo-lhe contado, para o efeito, todo o tempo de contribuição para o regime especial estabelecido pelo Regulamento das Aposentações dos Empregados da Santa Casa da Misericórdia do Porto.
 
-###### Art. 3.º - 1 - A repartição dos encargos com as pensões dos trabalhadores a que se refere o artigo 1.º efectuar-se-á, com as devidas adaptações, em conformidade com o estabelecido no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, nomeadamente nos artigos 3.º 6.º e 9.º
+Art. 3.º - 1 - A repartição dos encargos com as pensões dos trabalhadores a que se refere o artigo 1.º efectuar-se-á, com as devidas adaptações, em conformidade com o estabelecido no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, nomeadamente nos artigos 3.º 6.º e 9.º
 
 2 - Na negociação do acordo com a Santa Casa da Misericórdia do Porto relativo à indemnização a outorgar a esta instituição, nos termos previstos pelo [Decreto-Lei n.º 14/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1980-679633), de 26 de Fevereiro, serão tidos em atenção, para efeitos de adequada compensação, os encargos referidos no número anterior, a satisfazer pela mesma instituição.
 
-###### Art. 4.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública.
+Art. 4.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 5.º O presente diploma entra em vigor trinta dias após a data da sua publicação.
+Art. 5.º O presente diploma entra em vigor trinta dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 15 de Janeiro de 1981.**
+Promulgado em 15 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

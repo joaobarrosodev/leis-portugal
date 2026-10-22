@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1980-677455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2b3d22d5a0e3c6c251598e84b5d942cc66b01d13e6d8c6a42092fea1de5e477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d24f07d9c767c4620883cf3ab30e609a01711b85f34a300b1df52abf3c06116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Geral
+- Reserva Natural das Dunas de são Jacinto
+relationships:
+- type: cites
+  target: pt:dre:383646:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:39Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +99,14 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 2 do artigo 11.º do [Decreto-Lei n.º 41/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1979-383646), de 6 de Março, passa a ter a seguinte redacção:
+Artigo único. O n.º 2 do artigo 11.º do [Decreto-Lei n.º 41/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1979-383646), de 6 de Março, passa a ter a seguinte redacção:
 
 Do conselho geral farão parte, além do director, que presidirá, e de um vogal da comissão científica, um representante indicado por cada uma das seguintes entidades: Câmara Municipal de Aveiro, Direcção-Geral do Ordenamento e Gestão Florestal, Direcção-Geral do Planeamento Urbanístico, Junta Autónoma do Porto de Aveiro (Direcção-Geral de Portos), Direcção-Geral dos Serviços de Fomento Marítimo, Direcção-Geral de Pescas, Direcção-Geral do Turismo, Instituto de Gestão e Estruturação Fundiária e Junta de Freguesia de S. Jacinto.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 18 de Março de 1980.**
+Promulgado em 18 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

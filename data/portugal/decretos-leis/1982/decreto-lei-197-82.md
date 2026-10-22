@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11500/13471349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1982-392407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91c62a825292d048ba693b14c95cd24de6193e9a4613af3ec8af8580e3c33f62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3dacf9f3b3dc06a59ae024fd7cdc0bd0916569f772e53efbf32416aef8b72ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Capitais
+- Imposto de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579479:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:00Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +118,9 @@ No uso da autorização legislativa concedida pelo artigo 17.º da [Lei n.º 40/
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 9.º, 10.º, 14.º, 21.º, 38.º, 40.º e 65.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 9.º, 10.º, 14.º, 21.º, 38.º, 40.º e 65.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 1.º Os lucros e os adiantamentos por conta de lucros, seja qual for a sua natureza, espécie ou designação, colocados à disposição dos sócios das sociedades comerciais ou civis sob a forma comercial, bem como os juros concedidos nos termos do § 2.º do artigo 192.º do Código Comercial;
 
@@ -132,7 +148,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § único. Tratando-se de qualquer das contas correntes referidas no n.º 6.º deste artigo estabelecidas entre sociedades comerciais ou civis sob a forma comercial e os respectivos sócios, incumbe aos interessados fazer a prova da natureza das operações que originaram os lançamentos, sob pena de ficarem sujeitas a imposto, nos termos do n.º 1.º do mesmo artigo, as importâncias lançadas a favor dos sócios.
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 1.º ...
 
@@ -148,7 +164,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 7.º ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 1.º ...
 
@@ -172,7 +188,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 11.º ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 § 1.º ...
 
@@ -180,7 +196,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 3.º ...
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 § 1.º ...
 
@@ -192,11 +208,11 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 5.º Tratando-se dos rendimentos a que se refere o n.º 11.º do artigo 6.º, a taxa será de 12%.
 
-###### Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. ...
 
-###### Art. 40.º ...
+Art. 40.º ...
 
 § único. ...
 
@@ -208,17 +224,17 @@ c) ...
 
 d) ...
 
-###### Art. 65.º ...
+Art. 65.º ...
 
 § 1.º Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
 § 2.º ...
 
-###### Art. 2.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º, ambos do Código do Imposto de Capitais, não terão aplicação aos rendimentos respeitantes ao ano de 1982.
+Art. 2.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º, ambos do Código do Imposto de Capitais, não terão aplicação aos rendimentos respeitantes ao ano de 1982.
 
-###### Art. 3.º O preceituado no n.º 9.º do artigo 6.º, com a redacção que lhe foi dada por este diploma, é aplicável, com as adaptações que eventualmente se mostrem necessárias, aos lucros derivados dos contratos de conta em participação celebrados ao abrigo da legislação anterior ao [Decreto-Lei n.º 231/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1981-579479), de 28 de Julho.
+Art. 3.º O preceituado no n.º 9.º do artigo 6.º, com a redacção que lhe foi dada por este diploma, é aplicável, com as adaptações que eventualmente se mostrem necessárias, aos lucros derivados dos contratos de conta em participação celebrados ao abrigo da legislação anterior ao [Decreto-Lei n.º 231/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1981-579479), de 28 de Julho.
 
-###### Art. 4.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 2 - As alterações introduzidas no n.º 1.º do artigo 6.º do Código do Imposto de Capitais são igualmente aplicáveis aos adiantamentos por conta de lucros efectuados anteriormente à entrada em vigor deste diploma e que subsistam como tais para além dos 4 meses imediatos a essa entrada em vigor, caso em que o imposto devido será entregue, com observância do preceituado no artigo 40.º e seu § único, até ao fim do mês seguinte ao do termo daquele período de 4 meses.
 
@@ -226,8 +242,8 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Maio de 1982.**
+Promulgado em 5 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

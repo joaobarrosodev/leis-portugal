@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1976-502239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16bc682033f261204cc0f20938b257bdde2892f6ccd922f5946868987a386a0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18d19a53942da85a4e507b2dbac107658502d70f970a6b98ba6e0e77f05c2d44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Estatuto dos Refugiados
+- Genebra
+- Nova Iorque
+- ONU
+- Portugal
+- Refugiado
+relationships:
+- type: cites
+  target: pt:dre:162164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514795:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:00Z'
   warnings: []
   errors: []
 ---
@@ -89,24 +104,24 @@ Tendo o [Decreto-Lei n.º 43201](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No que respeita às obrigações assumidas pelo Governo Português em virtude da Convenção Relativa ao Estatuto dos Refugiados, a expressão «acontecimentos ocorridos antes de 1 de Janeiro de 1951», que figura no seu artigo 1.º, secção A, será compreendida como referente aos «acontecimentos ocorridos antes de 1 de Janeiro de 1951 na Europa ou noutros lugares», devendo fazer-se em conformidade, nos termos do artigo 1.º, secção B (2), da Convenção, a modificação da declaração efectuada no momento da adesão.
+Artigo 1.º No que respeita às obrigações assumidas pelo Governo Português em virtude da Convenção Relativa ao Estatuto dos Refugiados, a expressão «acontecimentos ocorridos antes de 1 de Janeiro de 1951», que figura no seu artigo 1.º, secção A, será compreendida como referente aos «acontecimentos ocorridos antes de 1 de Janeiro de 1951 na Europa ou noutros lugares», devendo fazer-se em conformidade, nos termos do artigo 1.º, secção B (2), da Convenção, a modificação da declaração efectuada no momento da adesão.
 
-###### Art. 2.º - 1. As restrições enunciadas no artigo 3.º do [Decreto-Lei n.º 43201](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43201-1960-514795) são levantadas e substituídas pela seguinte reserva:
+Art. 2.º - 1. As restrições enunciadas no artigo 3.º do [Decreto-Lei n.º 43201](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43201-1960-514795) são levantadas e substituídas pela seguinte reserva:
 
 Em todos os casos em que a Convenção confere aos refugiados o tratamento mais favorável concedido aos nacionais de um país estrangeiro, esta cláusula não será interpretada de maneira a compreender o regime concedido aos nacionais do Brasil.
 
 2. A alteração mencionada no número anterior será comunicada ao órgão depositário, nos termos do artigo 42, n.º 2, da Convenção.
 
-###### Art. 3.º A adesão ao Protocolo de Nova Iorque, de 31 de Janeiro de 1967, adicional à Convenção, será acompanhada da seguinte reserva: nos termos do artigo VII, n.º 1, do Protocolo, declara-se que, em todos os casos em que se confere aos refugiados o tratamento mais favorável concedido aos nacionais de um país estrangeiro, esta cláusula não será interpretada de maneira a compreender o regime concedido aos nacionais do Brasil ou aos nacionais de outros países com os quais Portugal possa vir a estabelecer relações de comunidade.
+Art. 3.º A adesão ao Protocolo de Nova Iorque, de 31 de Janeiro de 1967, adicional à Convenção, será acompanhada da seguinte reserva: nos termos do artigo VII, n.º 1, do Protocolo, declara-se que, em todos os casos em que se confere aos refugiados o tratamento mais favorável concedido aos nacionais de um país estrangeiro, esta cláusula não será interpretada de maneira a compreender o regime concedido aos nacionais do Brasil ou aos nacionais de outros países com os quais Portugal possa vir a estabelecer relações de comunidade.
 
-###### Art. 4.º Este decreto entra em vigor na data da sua publicação.
+Art. 4.º Este decreto entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernandes Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 3 de Abril de 1976.**
+Promulgado em 3 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,40 +47,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44724-1962-155472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0140842bda8710f51765f01a51f8de1ab01f80b20b0e2c5c7b7fde7908c9709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b889efcd3af739df133be108c4c7e9d87656ab73f0aa27c6d50c7d638f7f534
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Aéreo
+- Conselho Administrativo
+- Definição de Competências
+- Estado Maior da Força Aérea
+- Força Aérea
+- Orgânica
+- Serviço de Intendência e Contabilidade da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:327584:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473327:por
+  label: "Alterado o § 1.º do art. 46º do Dec Lei 40949, de 28-Dez, 1956, na redacção do presente diploma, pelo DEC LEI.486/74.26.09.1974.CCEMFA,\
+    \ DG.IS [225] de 26.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1974-473327
+  date: '1974-09-26'
+- type: amended_by
+  target: pt:dre:461429:por
+  label: "Alterados os arts. 54º e 55º do Dec Lei 40949, de 28-Dez, de 1956, na redacção do presente diploma, pelo DEC LEI.741/74.27.12.1974.CCEMFA,\
+    \ DG.IS [300] de 27.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/741-1974-461429
+  date: '1974-12-27'
+- type: amended_by
+  target: pt:dre:507576:por
+  label: "Extintos a partir de 11.11.1975 o Comando da 2ª Região Aérea e as unidades, órgãos e serviços da Força Aérea localizados\
+    \ em Angola, assim como, a partir de 27.03.1975, o Aeródromo de Trânsito nº 2, com sede em São Tomé, dependente daquele\
+    \ Comando, previsto no Dec lei 40949 de 28-Dez de 1956, com as alterações que lhe foram introduzidas pelo presente diploma,\
+    \ pelo DEC LEI.141/76.19.02.1976.CR, DG.IS [42] de 19.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1976-507576
+  date: '1976-02-19'
+- type: amended_by
+  target: pt:dre:507585:por
+  label: "Extinto a partir de 21.06.1975 o Comando da 3ª Região Aérea e as unidades, órgãos e serviços da Força Aérea localizados\
+    \ em Moçambique, previstos no Dec Lei 40949 de 28-Dez de 1956, com as alterações constantes do presente diploma, pelo\
+    \ DEC LEI.140/76.19.02.1976.CR, DG.IS [42] de 19.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1976-507585
+  date: '1976-02-19'
+- type: amended_by
+  target: pt:dre:297036:por
+  label: "Extinta a Zona Aérea dos Açores, criada no Decreto-Lei n.º 40949, de 28 de Dezembro de 1956, alterado no presente\
+    \ diploma, pelo DEC LEI.212/78.28.07.1978.CR, DR.IS [172] de 28.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1978-297036
+  date: '1978-07-28'
+- type: amended_by
+  target: pt:dre:327584:por
+  label: "Extinto o Comando da 1ª Região Aérea previsto no Dec Lei 40949 de 28-Dez de 1956, com as alterações constantes do\
+    \ presente diploma, pelo DEC LEI.317/78.02.11.1978.CR, DR.IS [252] de 02.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-1978-327584
+  date: '1978-11-02'
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342473:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:10Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +149,9 @@ Tornando-se necessário providenciar no sentido de regular o funcionamento dos s
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 46.º, os §§ 1.º e 2.º do artigo 48.º e os artigos 54.º e 55.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41758 e 42074, respectivamente de 25 de Julho de 1958 e de 31 de Dezembro de 1958, passam a ter as redacções que seguem:
+Artigo 1.º O artigo 46.º, os §§ 1.º e 2.º do artigo 48.º e os artigos 54.º e 55.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41758 e 42074, respectivamente de 25 de Julho de 1958 e de 31 de Dezembro de 1958, passam a ter as redacções que seguem:
 
-###### Art. 46.º O serviço de intendência e contabilidade compreende:
+Art. 46.º O serviço de intendência e contabilidade compreende:
 
 a) Uma direcção e inspecção;
 
@@ -135,7 +193,7 @@ Uma secretaria e arquivo.
 
 ...
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § 1.º O conselho administrativo do Estado-Maior da Força Aérea exerce a sua acção em relação às verbas gerais da Força Aérea não especialmente consignadas a outros conselhos administrativos e em relação às verbas privativas do Gabinete do Secretário de Estado da Aeronáutica, do Estado-Maior da Força Aérea, das Direcções dos Serviços de Comunicações e Tráfego Aéreo, de Recrutamento e Instrução e de Saúde e das unidades subordinadas àquelas direcções que não possuam conselhos administrativos próprios.
 
@@ -143,7 +201,7 @@ Uma secretaria e arquivo.
 
 ...
 
-###### Art. 54.º Em tempo de paz as regiões aéreas referidas nos artigos anteriores compreendem:
+Art. 54.º Em tempo de paz as regiões aéreas referidas nos artigos anteriores compreendem:
 
 a) 1.ª região aérea:
 
@@ -179,7 +237,7 @@ As bases aéreas e os aeródromos-bases operacionais localizados em Moçambique,
 
 Os aeródromos de manobra, de trânsito e de recurso localizados em Moçambique, Índia Porguesa, Timor e Macau.
 
-###### Art. 55.º Em tempo de paz as zonas aéreas dos Açores e de Cabo Verde e Guiné compreendem:
+Art. 55.º Em tempo de paz as zonas aéreas dos Açores e de Cabo Verde e Guiné compreendem:
 
 a) Zona aérea dos Açores:
 
@@ -199,9 +257,9 @@ Unidades de detecção, alerta e conduta da intercepção localizadas em Cabo Ve
 
 As bases aéreas e os aeródromos-bases operacionais localizados em Cabo Verde e na Guiné; Os aeródromos de manobra, de trânsito e de recurso localizados em Cabo Verde e na Guiné.
 
-###### Art. 2.º As alíneas a) e b) do artigo 30.º e os artigos 32.º, 33.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º e 45.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, alterado pelo [Decreto-Lei n.º 42074](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42074-1958-342473), de 31 de Dezembro de 1958, passam a ter as redacções que seguem:
+Art. 2.º As alíneas a) e b) do artigo 30.º e os artigos 32.º, 33.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 44.º e 45.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, alterado pelo [Decreto-Lei n.º 42074](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42074-1958-342473), de 31 de Dezembro de 1958, passam a ter as redacções que seguem:
 
-###### Art. 30.º As unidades da Força Aérea destinam-se essencialmente a constituir órgãos de execução dos serviços e a prover à defesa aérea e à cooperação aeroterrestre e aeronaval, compreendendo:
+Art. 30.º As unidades da Força Aérea destinam-se essencialmente a constituir órgãos de execução dos serviços e a prover à defesa aérea e à cooperação aeroterrestre e aeronaval, compreendendo:
 
 a) Unidades terrestres:
 
@@ -227,9 +285,9 @@ Aeródromos logísticos, de manobra, de trânsito e de recurso para utilização
 
 ...
 
-###### Art. 32.º Na dependência do mesmo director serão constituídas as bases aéreas necessárias para enquadramento normal de unidades aéreas de instrução e para integração de escolas, a fixar em portaria do Secretário de Estado da Aeronáutica.
+Art. 32.º Na dependência do mesmo director serão constituídas as bases aéreas necessárias para enquadramento normal de unidades aéreas de instrução e para integração de escolas, a fixar em portaria do Secretário de Estado da Aeronáutica.
 
-###### Art. 33.º Na dependência do director do Serviço de Material são constituídos:
+Art. 33.º Na dependência do director do Serviço de Material são constituídos:
 
 O Depósito Geral de Material da Força Aérea, para requisição, recepção, armazenagem, distribuição e inventário do material da Força Aérea;
 
@@ -245,7 +303,7 @@ Na dependência dos depósitos de material da Força Aérea n.os 2 e 3 e das Ofi
 
 ...
 
-###### Art. 35.º Na dependência do director do Serviço de Intendência e Contabilidade são constituídos:
+Art. 35.º Na dependência do director do Serviço de Intendência e Contabilidade são constituídos:
 
 O Depósito Geral de Intendência da Força Aérea, para requisição, recepção, armazenagem, distribuição e inventário dos meios de intendência da Força Aérea;
 
@@ -255,38 +313,38 @@ Na dependência do Depósito Geral de Intendência da Força Aérea poderão con
 
 § único. Na dependência dos depósitos de intendência da Forca Aérea n.os 2 e 3 poderão constituir-se, nas 2.ª e 3.ª regiões aéreas, depósitos secundários, a fixar em portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
 
-###### Art. 36.º Na dependência do comandante da 1.ª região aérea e constituído um grupo de detecção, alerta e conduta da intercepção para a defesa aérea de Portugal continental.
+Art. 36.º Na dependência do comandante da 1.ª região aérea e constituído um grupo de detecção, alerta e conduta da intercepção para a defesa aérea de Portugal continental.
 
 Na dependência dos comandantes das zonas aéreas dos Açores e de Cabo Verde e Guiné serão constituídas as unidades de detecção, alerta e conduta da intercepção necessárias, a fixar em portaria do Secretário de Estado da Aeronáutica.
 
-###### Art. 37.º Na dependência dos comandantes das 2.ª e 3.ª regiões aéreas serão constituídas as unidades de detecção, alerta e conduta da intercepção necessárias, a fixar em portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
+Art. 37.º Na dependência dos comandantes das 2.ª e 3.ª regiões aéreas serão constituídas as unidades de detecção, alerta e conduta da intercepção necessárias, a fixar em portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
 
-###### Art. 38.º Na dependência do comandante da 1.ª região aérea serão constituídas as bases aéreas e os aeródromos bases operacionais e os aeródromos de manobra e de trânsito necessários, a fixar em portaria do Secretário de Estado da Aeronáutica.
+Art. 38.º Na dependência do comandante da 1.ª região aérea serão constituídas as bases aéreas e os aeródromos bases operacionais e os aeródromos de manobra e de trânsito necessários, a fixar em portaria do Secretário de Estado da Aeronáutica.
 
 Na dependência dos comandantes das zonas aéreas dos Açores e de Cabo Verde e Guiné serão constituídas as bases aéreas e aeródromos-bases operacionais e os aeródromos de manobra e de trânsito necessários, a fixar em portaria do Secretário de Estado da Aeronáutica.
 
-###### Art. 39.º Na dependência dos comandantes das 2.ª e 3.ª regiões aéreas serão constituídas as bases aéreas e aeródromos-bases operacionais e os aeródromos de manobra e de trânsito necessários, a fixar em portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
+Art. 39.º Na dependência dos comandantes das 2.ª e 3.ª regiões aéreas serão constituídas as bases aéreas e aeródromos-bases operacionais e os aeródromos de manobra e de trânsito necessários, a fixar em portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
 
-###### Art. 40.º Na dependência dos comandantes das regiões e zonas aéreas serão, na medida das possibilidades, preparados aeródromos de recurso que possam, em tempo de paz, servir também os interesses civis.
+Art. 40.º Na dependência dos comandantes das regiões e zonas aéreas serão, na medida das possibilidades, preparados aeródromos de recurso que possam, em tempo de paz, servir também os interesses civis.
 
 § único. Os aeródromos referidos no corpo deste artigo poderão ser entregues para conservação e utilização de organismos oficiais da aeronáutica civil.
 
-###### Art. 41.º Serão constituídas as escolas necessárias, a fixar em portaria do Secretário de Estado da Aeronáutica.
+Art. 41.º Serão constituídas as escolas necessárias, a fixar em portaria do Secretário de Estado da Aeronáutica.
 
-###### Art. 42.º Serão constituídas as unidades aéreas de instrução necessárias, a fixar em portaria do Secretário de Estado da Aeronáutica.
+Art. 42.º Serão constituídas as unidades aéreas de instrução necessárias, a fixar em portaria do Secretário de Estado da Aeronáutica.
 
-###### Art. 43.º Serão constituídas na 1.ª região aérea as unidades aéreas operacionais necessárias, a fixar em documento subscrito pelo Secretário de Estado da Aeronáutica.
+Art. 43.º Serão constituídas na 1.ª região aérea as unidades aéreas operacionais necessárias, a fixar em documento subscrito pelo Secretário de Estado da Aeronáutica.
 
 Serão constituídas nas 2.ª e 3.ª regiões aéreas as unidades aéreas operacionais necessárias, a fixar em documento subscrito pelos Ministro do Ultramar e Secretário de Estado da Aeronáutica.
 
-###### Art. 44.º As designações, a localização e os efectivos do centro de recrutamento de pessoal na 1.ª região aérea, das unidades referidas no artigo 32.º, do Depósito Geral de Material da Força Aérea, das Oficinas Gerais de Material Aeronáutico, do aeródromo logístico que serve estes Depósitos e Oficinas, dos depósitos secundários e oficinas secundárias de material a constituir na 1.ª região aérea, do Parque de Equipamento de Obras, do Depósito Geral de Intendência da Força Aérea, dos depósitos secundários de intendência a constituir na 1.ª região aérea, do grupo de detecção, alerta e conduta da intercepção e das unidades referidas nos artigos 38.º, 41.º e 42.º, serão fixados em portarias do Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
+Art. 44.º As designações, a localização e os efectivos do centro de recrutamento de pessoal na 1.ª região aérea, das unidades referidas no artigo 32.º, do Depósito Geral de Material da Força Aérea, das Oficinas Gerais de Material Aeronáutico, do aeródromo logístico que serve estes Depósitos e Oficinas, dos depósitos secundários e oficinas secundárias de material a constituir na 1.ª região aérea, do Parque de Equipamento de Obras, do Depósito Geral de Intendência da Força Aérea, dos depósitos secundários de intendência a constituir na 1.ª região aérea, do grupo de detecção, alerta e conduta da intercepção e das unidades referidas nos artigos 38.º, 41.º e 42.º, serão fixados em portarias do Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
 
 As designações, a localização e os efectivos dos centros de recrutamento de pessoal nas 2.ª e 3.ª regiões aéreas, dos depósitos de material da Força Aérea n.os 2 e 3, dos depósitos secundários e oficinas secundárias de material a constituir nas 2.ª e 3.ª regiões aéreas, dos depósitos de intendência da Força Aérea n.os 2 e 3, dos depósitos secundários de intendência a constituir nas 2.ª e 3.ª regiões aéreas e das unidades referidas nos artigos 37.º e 39.º, serão fixados em portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
 
-###### Art. 45.º As designações, a localização e os efectivos das unidades referidas no artigo 43.º, a constituir na 1.ª região aérea, serão fixados em documento subscrito pelo Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
+Art. 45.º As designações, a localização e os efectivos das unidades referidas no artigo 43.º, a constituir na 1.ª região aérea, serão fixados em documento subscrito pelo Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
 
 As designações, a localização e os efectivos das unidades referidas no artigo 43.º, a constituir nas 2.ª e 3.ª regiões aéreas, serão fixados em documento subscrito pelos Ministro do Ultramar e Secretário de Estado da Aeronáutica.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Kaulza Oliveira de Arriaga.

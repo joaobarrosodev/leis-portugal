@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45991-1964-537056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a11bc5ec390f71c48dc6fbb83a6b7316daf25dc72f4efaf9d70410355b597d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5ef85916ff2698931159230f347023dd5440a5dded31e8115f32e356d73bf7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Convenção
+- Espanha
+- Expropriação
+- Lisboa
+- Portugal
+- Recursos Hídricos
+- RIO Douro
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:525260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:525260:por
+  label: "Tornadas extensivas à execução do aproveitamento hidroeléctrico do rio Salas, as disposições aplicáveis ao Convénio\
+    \ aprovado pelo presente diploma, pelo DEC LEI.48896.06.03.1969.MNE, DG.IS [55] de 06.03.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48896-1969-525260
+  date: '1969-03-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:56Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +104,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do nº 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ser ratificado, o Convénio luso-espanhol para regular o aproveitamento hidroeléctrico dos troços internacionais do rio Douro e dos seus afluentes, assinado em Lisboa no dia 16 de Julho de 1964, e o seu Protocolo adicional, assinado também na mesma cidade e na mesma data, cujos textos em português vêm a seguir.
+Artigo único. É aprovado, para ser ratificado, o Convénio luso-espanhol para regular o aproveitamento hidroeléctrico dos troços internacionais do rio Douro e dos seus afluentes, assinado em Lisboa no dia 16 de Julho de 1964, e o seu Protocolo adicional, assinado também na mesma cidade e na mesma data, cujos textos em português vêm a seguir.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -143,7 +158,7 @@ Cada Estado realizará, directamente ou mediante concessões outorgadas nos term
 
 No caso de se efectuarem as obras por concessão, a empresa ou empresas concessionárias de cada zona deverão constituir-se nos termos das leis internas do Estado concedente e só poderão transferir os seus direitos a outra empresa da mesma natureza.
 
-**O presidente e a maioria dos vogais do conselho de administração de cada empresa têm de ser forçosamente nacionais do Estado que tenha outorgado a concessão.**
+O presidente e a maioria dos vogais do conselho de administração de cada empresa têm de ser forçosamente nacionais do Estado que tenha outorgado a concessão.
 
 Estes conselhos terão a sede e celebrarão as reuniões em território do Estado a cuja jurisdição esteja submetida a respectiva empresa.
 
@@ -335,7 +350,7 @@ Feito em Lisboa, em dois exemplares, nas línguas portuguesa e espanhola, fazend
 
 Por Portugal:
 
-**O Ministro dos Negócios Estrangeiros, A. Franco Nogueira.**
+O Ministro dos Negócios Estrangeiros, A. Franco Nogueira.
 
 Por Espanha:
 
@@ -361,7 +376,7 @@ d) A Comissão Internacional terá a função fiscalizadora destas derivações,
 
 Por Portugal:
 
-**O Ministro dos Negócios Estrangeiros, A. Franco Nogueira.**
+O Ministro dos Negócios Estrangeiros, A. Franco Nogueira.
 
 Por Espanha:
 

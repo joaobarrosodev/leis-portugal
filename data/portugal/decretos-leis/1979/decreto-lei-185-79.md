@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14000/13431349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23383b23c1712788b99e4887519b2ae41cd165c1c13522326f5e55133216a362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d6e3da3ec92498dc053ebf8ae0578e55820cb8ed53d5c2cab87a44f06a5c68b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- Comissão para a Integração Europeia
+- Conselho de Ministros para a Integração Europeia
+- Gabinete para a Integração Europeia
+- Grupo de Delegados Permanentes
+- Secretariado para a Integração Europeia
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678243:por
+  label: "Alterada a composição da comissão,pela RES.99/80.19.03.1980.PCM, DR.IS [66] de 19.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/99-1980-678243
+  date: '1980-03-19'
+- type: amended_by
+  target: pt:dre:469776:por
+  label: "Substituído o quadro de pessoal do Secretariado para a Integração Europeia, aprovado pelo Dec Lei 306/77, de 03-Ago,\
+    \ DR.IS [178] e confirmado pelo art. 27.º do presente diploma, pelo quadro V anexo à PORT.547/80.1980.08.28.PCM, DR.IS\
+    \ [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1980-469776
+  date: '1980-08-28'
+- type: amended_by
+  target: pt:dre:567906:por
+  label: "Alterado pela RES.244/81.1981.10.29.PCM DR.IS [277] DE 02/DEZ/1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/244-1981-567906
+  date: '1981-10-29'
+- type: amended_by
+  target: pt:dre:396569:por
+  label: "Alterada a composição da comissão aprovado pelo presente diploma pela RES.142/82.20.07.1982.PCM, DR.IS [195] de\
+    \ 24.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/142-1982-396569
+  date: '1982-07-20'
+- type: amended_by
+  target: pt:dre:378510:por
+  label: "Alterada a composição da Comissão para a Integração Europeia, prevista no presente diploma, pela RES.199/82.28.09.1982.PCM,\
+    \ DR.IS [255] de 04.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/199-1982-378510
+  date: '1982-09-28'
+- type: amended_by
+  target: pt:dre:546605:por
+  label: "Extinto o Secretariado para a Integração Europeia, criado pelo Dec Lei 306/77, de 03-Ago, e a funcionar nos termos\
+    \ do presente diploma, pelo DEC LEI.526/85.1985.12.31.MNE, DR.IS [301]8ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1985-546605
+  date: '1985-12-31'
+- type: amended_by
+  target: pt:dre:527206:por
+  label: "Extinto o Gabinete para a Integração Europeia do Ministério das Finanças, criado pelo presente diploma, pelo DEC\
+    \ LEI.97-A/86.16.05.1986.MF, DR.IS [112-Supl] de 16.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-a-1986-527206
+  date: '1986-05-16'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:251436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546605:por
+  label: "Revogados os arts. 17º a 19º e 27º a 34º, pelo DEC LEI.526/85.1985.12.31.MNE, DR.IS [301]8ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1985-546605
+  date: '1985-12-31'
+- type: repealed_by
+  target: pt:dre:546606:por
+  label: "Revogado, com excepção dos artigos 17.º a 19.º e 27.º a 34.º, pelo DEC LEI.527/85.31.12.1985.MNE, DR.IS [301]8ºSupl\
+    \ de 31.12.1985, sem prejuízo do disposto no seu artigo 7.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/527-1985-546606
+  date: '1985-12-31'
 article_structure:
   article_count: 42
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:30Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +196,7 @@ Cabe ao Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europ
 
 ###### Artigo 5.º — (Competência do Ministro dos Negócios Estrangeiros)
 
-**O Ministro dos Negócios Estrangeiros, além de ser informado regular e directamente das actividades desenvolvidas pela Comissão para a Integração Europeia através do seu representante nesta, promoverá aos níveis apropriados, no âmbito de acção da sua competência própria, as iniciativas que, no processo das negociações, assumem expressão política, e que não poderão ser consideradas isoladamente da política externa portuguesa no seu conjunto.**
+O Ministro dos Negócios Estrangeiros, além de ser informado regular e directamente das actividades desenvolvidas pela Comissão para a Integração Europeia através do seu representante nesta, promoverá aos níveis apropriados, no âmbito de acção da sua competência própria, as iniciativas que, no processo das negociações, assumem expressão política, e que não poderão ser consideradas isoladamente da política externa portuguesa no seu conjunto.
 
 ### CAPÍTULO II — Comissão para a Integração Europeia
 
@@ -424,8 +496,8 @@ Este diploma entra em vigor no dia da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 6 de Junho de 1979.**
+Promulgado em 6 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

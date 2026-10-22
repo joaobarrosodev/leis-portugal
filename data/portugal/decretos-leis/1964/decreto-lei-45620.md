@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45620-1964-470796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95f89cb59082a9d97ad2720d448cca0697bf0ee199a3942ed63aaa986e3d3e64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbde28e11b89ba2ca4042af1981b103b8180433b1603ee3a9bb84904e143fdbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Comércio
+- Crime
+- Definição de Competências
+- Embalagem
+- Fabrico Industrial
+- Fiscalização
+- Milho
+- Secretário de Estado do Comércio
 relationships:
 - type: amended_by
   target: pt:dre:238645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685803:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:238645:por
+  label: "Revogado, com excepção do art. 2º, pelo DEC LEI.46257.19.03.1965.MECO, DG.IS [66] de 19.03.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46257-1965-238645
+  date: '1965-03-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:22Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +136,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O óleo de gérmen de milho, é considerado directamente comestível.
+Artigo 1.º O óleo de gérmen de milho, é considerado directamente comestível.
 
 § único. Dá-se o nome de óleo de gérmen de milho, ou simplesmente de óleo de milho, à gordura do gérmen da semente de Zea mays, L.
 
-###### Art. 2.º Por portaria do Secretário de Estado do Comércio, ouvidas a Direcção-Geral de Saúde, a Inspecção-Geral dos Produtos Agrícolas e Industriais, o Instituto Português de Conservas de Peixe, a Junta Nacional do Azeite e entidades representativas da indústria, o óleo de gérmen de milho poderá ser considerado comestível para os efeitos previstos no artigo 5.º do [Decreto n.º 17774](https://diariodarepublica.pt/dr/detalhe/decreto/17774-1929-289418), de 18 de Dezembro de 1929.
+Art. 2.º Por portaria do Secretário de Estado do Comércio, ouvidas a Direcção-Geral de Saúde, a Inspecção-Geral dos Produtos Agrícolas e Industriais, o Instituto Português de Conservas de Peixe, a Junta Nacional do Azeite e entidades representativas da indústria, o óleo de gérmen de milho poderá ser considerado comestível para os efeitos previstos no artigo 5.º do [Decreto n.º 17774](https://diariodarepublica.pt/dr/detalhe/decreto/17774-1929-289418), de 18 de Dezembro de 1929.
 
-###### Art. 3.º Para o efeito estabelecido no artigo 1.º, o óleo de gérmen de milho terá de obedecer às seguintes condições:
+Art. 3.º Para o efeito estabelecido no artigo 1.º, o óleo de gérmen de milho terá de obedecer às seguintes condições:
 
 1.ª Ser extraído apenas por processos mecânicos e tratamentos de decantação, lavagem, centrifugação e filtração, sem que intervenham quaisquer substâncias além da água;
 
 2.ª Ser refinado sem intervenção de solventes ou quaisquer outras operações, além da desmucilaginização pelo fosfato trissódico, neutralização por lixívia alcalina aquosa, com subsequente lavagem pela água, descoloração por terras e carvão activados, desodorização pelo vapor de água e filtração.
 
-###### Art. 4.º Enquanto não forem fixadas as bases oficiais da apreciação e classificação a que deverá obedecer o óleo de gérmen de milho destinado a fins alimentares, propostas pela Comissão Técnica dos Métodos Químico-Analíticos, nos termos do artigo 2.º do [Decreto-Lei n.º 34630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34630-1945-529191), de 24 de Novembro de 1949, e do n.º 6.º da [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950, seguir-se-ão, a título provisório, as seguintes:
+Art. 4.º Enquanto não forem fixadas as bases oficiais da apreciação e classificação a que deverá obedecer o óleo de gérmen de milho destinado a fins alimentares, propostas pela Comissão Técnica dos Métodos Químico-Analíticos, nos termos do artigo 2.º do [Decreto-Lei n.º 34630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34630-1945-529191), de 24 de Novembro de 1949, e do n.º 6.º da [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950, seguir-se-ão, a título provisório, as seguintes:
 
 a) Aspecto: limpido;
 
@@ -132,7 +170,7 @@ i) Índice do iodo (Hanus): 103 a 128;
 
 j) Investigação de gordura semi-sicativa: positiva.
 
-###### Art. 5.º Não é permitido:
+Art. 5.º Não é permitido:
 
 1.º Extrair ou refinar óleo de gérmen de milho para fins alimentares fora das condições estabelecidas no artigo 3.º;
 
@@ -158,22 +196,22 @@ e) Quando destinado a fins industriais, não possua características organolépt
 
 7.º Anunciar ou comerciar óleo de gérmen de milho com referência expressa, directa ou indirecta, a virtudes terapêuticas ou dietéticas, sem o visto da Direcção-Geral de Saúde.
 
-###### Art. 6.º As condições a que devem obedecer a extracção e a refinação de óleo de gérmen de milho destinado a fins dietéticos serão reguladas por portaria conjunta dos Ministros da Economia e da Saúde e Assistência.
+Art. 6.º As condições a que devem obedecer a extracção e a refinação de óleo de gérmen de milho destinado a fins dietéticos serão reguladas por portaria conjunta dos Ministros da Economia e da Saúde e Assistência.
 
-###### Art. 7.º As infracções ao disposto nas alíneas e) a j) do artigo 4.º serão punidas nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 7.º As infracções ao disposto nas alíneas e) a j) do artigo 4.º serão punidas nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 8.º As infracções ato disposto nos n.os 1.º, 2.º e 3.º do artigo 5.º serão punidas com prisão de três dias a seis meses e multa. Se, no caso de infracção dolosa, o produto resultar nocivo para a saúde do consumidor, a pena será de prisão por três dias a dois anos e multa, ficando o infractor sujeito à aplicação de medida de segurança, nos termos do n.º 2 do artigo 9.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1947.
+Art. 8.º As infracções ato disposto nos n.os 1.º, 2.º e 3.º do artigo 5.º serão punidas com prisão de três dias a seis meses e multa. Se, no caso de infracção dolosa, o produto resultar nocivo para a saúde do consumidor, a pena será de prisão por três dias a dois anos e multa, ficando o infractor sujeito à aplicação de medida de segurança, nos termos do n.º 2 do artigo 9.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1947.
 
-###### Art. 9.º As infracções ao disposto nas alíneas a) e b ) do n.º 4.º do artigo 5.º serão punidas nos termos do artigo 16.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 9.º As infracções ao disposto nas alíneas a) e b ) do n.º 4.º do artigo 5.º serão punidas nos termos do artigo 16.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 10.º As infracções ao disposto nos n.os 5.º e 6.º do artigo 5.º serão punidas com multa de 500$00 a 10000$00.
+Art. 10.º As infracções ao disposto nos n.os 5.º e 6.º do artigo 5.º serão punidas com multa de 500$00 a 10000$00.
 
-###### Art. 11.º As infracções ao disposto nas alíneas a) a d) do artigo 4.º e nas alíneas c) e e) do n.º 4.º do artigo 5.º serão punidas nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 11.º As infracções ao disposto nas alíneas a) a d) do artigo 4.º e nas alíneas c) e e) do n.º 4.º do artigo 5.º serão punidas nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 12.º As infracções ao disposto no n.º 7.º da artigo 5.º serão punidas com a multa de 200$00 a 5000$00.
+Art. 12.º As infracções ao disposto no n.º 7.º da artigo 5.º serão punidas com a multa de 200$00 a 5000$00.
 
-###### Art. 13.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão aplicáveis à preparação e julgamento das infracções a que se refere este diploma, bem como à graduação de responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
+Art. 13.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão aplicáveis à preparação e julgamento das infracções a que se refere este diploma, bem como à graduação de responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Armando Ramos de Paula Coelho.

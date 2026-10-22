@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1970-141383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe284c755b5bb439880d2b450467b41643dff2a27d084ead14524c7df95e67e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b398ab8849ca8afb97f684611addf839b3491cdba7d4f3a6a30be1aa78404529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cessão de Imóveis
+- Compensação Financeira
+- Definição de Competências
+- Instalação de Serviços
+- Isenção Fiscal
+- Lisboa
+- Moeda Comemorativa
+- Santa Casa da Misericórdia
+- Sociedade de Ciências Medicas
+relationships:
+- type: cites
+  target: pt:dre:245519:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:35Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +108,22 @@ Considerando que a Santa Casa é proprietária do prédio sito na Avenida da Rep
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Santa Casa da Misericórdia de Lisboa a ceder, a título definitivo, à Sociedade de Ciências Médicas de Lisboa o 1.º e 2.º andares, avaliados em 1800000$00, do prédio recentemente construído na Avenida da República, 34, 34-A e 34-B, em Lisboa, descrito na 2.ª Conservatória de Registo Predial de Lisboa sob o n.º 13435, a fl. 136, do livro B-45, e registado sob o artigo 648 na matriz predial de S. Sebastião da Pedreira.
+Artigo 1.º É autorizada a Santa Casa da Misericórdia de Lisboa a ceder, a título definitivo, à Sociedade de Ciências Médicas de Lisboa o 1.º e 2.º andares, avaliados em 1800000$00, do prédio recentemente construído na Avenida da República, 34, 34-A e 34-B, em Lisboa, descrito na 2.ª Conservatória de Registo Predial de Lisboa sob o n.º 13435, a fl. 136, do livro B-45, e registado sob o artigo 648 na matriz predial de S. Sebastião da Pedreira.
 
-###### Art. 2.º Os andares objecto da cessão destinam-se à instalação da sede da Sociedade de Ciências Médicas de Lisboa.
+Art. 2.º Os andares objecto da cessão destinam-se à instalação da sede da Sociedade de Ciências Médicas de Lisboa.
 
-###### Art. 3.º Pela cessão, a Sociedade pagará à Misericórdia, no acto da escritura a celebrar, a compensação de 1000000$00, que, para o efeito, vai receber da Fundação Calouste Gulbenkian.
+Art. 3.º Pela cessão, a Sociedade pagará à Misericórdia, no acto da escritura a celebrar, a compensação de 1000000$00, que, para o efeito, vai receber da Fundação Calouste Gulbenkian.
 
-###### Art. 4.º Nos casos de dissolução ou extinção da Sociedade de Ciências Médicas, de paralisação das suas actividades sociais por período superior a cinco anos, devidamente verificada pelo Governo, ou de a Sociedade por qualquer outro motivo deixar de utilizar os andares para sua sede, reverterão estes para o domínio e posse da Misericórdia de Lisboa, que restituirá à Fundação Calouste Gulbenkian o montante da compensação por ela paga, deduzida, por cada ano ou fracção de ano de utilização dos andares pela Sociedade, uma quantia igual a 4 por cento do valor total daquela compensação.
+Art. 4.º Nos casos de dissolução ou extinção da Sociedade de Ciências Médicas, de paralisação das suas actividades sociais por período superior a cinco anos, devidamente verificada pelo Governo, ou de a Sociedade por qualquer outro motivo deixar de utilizar os andares para sua sede, reverterão estes para o domínio e posse da Misericórdia de Lisboa, que restituirá à Fundação Calouste Gulbenkian o montante da compensação por ela paga, deduzida, por cada ano ou fracção de ano de utilização dos andares pela Sociedade, uma quantia igual a 4 por cento do valor total daquela compensação.
 
-###### Art. 5.º É reservada à Santa Casa da Misericórdia de Lisboa a administração do prédio, incluídos os bens comuns, a que se refere o [Decreto-Lei n.º 40333](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40333-1955-245519), de 14 de Outubro de 1955.
+Art. 5.º É reservada à Santa Casa da Misericórdia de Lisboa a administração do prédio, incluídos os bens comuns, a que se refere o [Decreto-Lei n.º 40333](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40333-1955-245519), de 14 de Outubro de 1955.
 
-###### Art. 6.º A cessão é isenta de impostos e efectivar-se-á por escritura pública.
+Art. 6.º A cessão é isenta de impostos e efectivar-se-á por escritura pública.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 28 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 28 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Agosto de 1970. - MARCELLO CAETANO.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 247/1977, 2º Suplemento, Série I de 1977-10-25
   number: '247'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2584-(4) a 2584-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24702/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-d-1977-582384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61a1c22e9f832356a9a9f6d502c2f46b2cda1a645f47ae990a3a6db9bb4169d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c106c7e67559fdfb26c32b9b58247764b8863a84bfaab4a58affc4ff6e1c2a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circunscrição Florestal
+- Definição de Competências
+- Direcção Geral dos Recursos Florestais
+- Exploração Florestal
+- Fiscalização
+- Multa
+- Ordenamento Florestal
+- Política Florestal
+- Prazo
+- Regime Florestal
 relationships:
 - type: amended_by
   target: pt:dre:374799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425560:por
+  label: "Suspensa a aplicação pelo DEC LEI.79/78.1978.04.27.MAP, DR.IS [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1978-425560
+  date: '1978-04-27'
+- type: cites
+  target: pt:dre:408721:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:468836:por
+  label: Rectificado pela DECL.DD7508.11.01.1978.PCM, DR.IS [9] de 11.01.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-468836
+  date: '1978-01-11'
+- type: repealed_by
+  target: pt:dre:374799:por
+  label: "Revogado pelo DEC LEI.173/88.17.05.1988.MAPA, DR.IS [114] de 17.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1988-374799
+  date: '1988-05-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:18Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +135,11 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 51/77](https://diariodarepublica.pt/dr/detalhe/lei/51-1977-408721), de 26 de Julho, o Governo decreta, nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O corte ou arranque de árvores das espécies florestais com diâmetro à altura do peito (diâmetro medido a 1,30 m a contar do solo - dap) superior a 10 cm ou com perímetro à altura do peito (pap) superior a 31,5 cm dependem de autorização da circunscrição florestal da respectiva região.
+Artigo 1.º - 1 - O corte ou arranque de árvores das espécies florestais com diâmetro à altura do peito (diâmetro medido a 1,30 m a contar do solo - dap) superior a 10 cm ou com perímetro à altura do peito (pap) superior a 31,5 cm dependem de autorização da circunscrição florestal da respectiva região.
 
 2 - Não carecem da autorização referida no número anterior os cortes ou arranques que não ultrapassem, por ano e exploração, 19 árvores com dap superior a 10 cm, desde que destas não mais de 9 tenham dap superior a 15 cm, nem mais de 4 dap superior a 20 cm, e nenhuma dap superior a 40 cm.
 
-###### Art. 2.º - 1 - O pedido de autorização referido no artigo anterior, a formular em impresso próprio fornecido pelos serviços, deverá ser dirigido à circunscrição ou administração florestal da respectiva região e ser assinado pelo responsável ou responsáveis pela exploração onde se pretenda efectuar a operação.
+Art. 2.º - 1 - O pedido de autorização referido no artigo anterior, a formular em impresso próprio fornecido pelos serviços, deverá ser dirigido à circunscrição ou administração florestal da respectiva região e ser assinado pelo responsável ou responsáveis pela exploração onde se pretenda efectuar a operação.
 
 2 - Aquele pedido deverá conter a designação da entidade gestora da exploração, a identificação do prédio ou prédios, a localização da área ou áreas onde a operação irá ter lugar, a natureza do corte que se pretende efectuar - desbaste ou corte final -, sua justificação e número de árvores a abater.
 
@@ -126,7 +155,7 @@ a) Por desbaste, qualquer corte natural que for executado durante a fase de cres
 
 b) Por corte final, qualquer corte que for executado no fim do ciclo económico dos povoamentos florestais, manchas, faixas ou cortinas arbóreas.
 
-###### Art. 3.º - 1 - O arvoredo a abater deverá estar assinalado à data do pedido de autorização da entidade responsável pela exploração.
+Art. 3.º - 1 - O arvoredo a abater deverá estar assinalado à data do pedido de autorização da entidade responsável pela exploração.
 
 2 - Exceptuam-se do disposto no número anterior os casos seguintes:
 
@@ -134,15 +163,15 @@ a) Tratar-se de corte final que remova todas as árvores de uma determinada áre
 
 b) Ser solicitada, juntamente com o pedido de autorização à circunscrição florestal da região, a marcação das árvores a abater, operação a que este serviço procederá no prazo máximo de sessenta dias.
 
-###### Art. 4.º - 1 - Decorrido o prazo de trinta dias após o envio do pedido de autorização do corte ou arranque referido no n.º 1 do artigo 2.º sem que seja comunicada ao responsável pela gestão qualquer decisão, o corte considera-se autorizado, exceptuando os casos previstos no n.º 3 do artigo 2.º e na alínea b) do n.º 2 do artigo 3.º para os quais o prazo será de sessenta dias.
+Art. 4.º - 1 - Decorrido o prazo de trinta dias após o envio do pedido de autorização do corte ou arranque referido no n.º 1 do artigo 2.º sem que seja comunicada ao responsável pela gestão qualquer decisão, o corte considera-se autorizado, exceptuando os casos previstos no n.º 3 do artigo 2.º e na alínea b) do n.º 2 do artigo 3.º para os quais o prazo será de sessenta dias.
 
 2 - Tratando-se de explorações submetidas a planos de ordenamento aprovados pela Direcção-Geral dos Recursos Florestais, os cortes nele previstos não carecem de autorização especial, mas devem ser previamente comunicados a esta Direcção-Geral, com indicação do número de árvores a abater por classes de diâmetro de 5 cm.
 
-###### Art. 5.º - 1 - A circunscrição florestal da região deverá ordenar a suspensão de quaisquer operações efectuadas em contravenção das disposições anteriores ou quando não sejam cumpridas as determinações resultantes de vistoria feita pelos seus serviços ou por técnicos em que a delegue.
+Art. 5.º - 1 - A circunscrição florestal da região deverá ordenar a suspensão de quaisquer operações efectuadas em contravenção das disposições anteriores ou quando não sejam cumpridas as determinações resultantes de vistoria feita pelos seus serviços ou por técnicos em que a delegue.
 
 2 - Para além do disposto no número anterior, a circunscrição florestal da região deverá ordenar a suspensão de desramações, cortes de talhadia e monda das suas varas sempre que tecnicamente mal conduzidas.
 
-###### Art. 6.º As infracções ao disposto no presente diploma são puníveis com as seguintes multas:
+Art. 6.º As infracções ao disposto no presente diploma são puníveis com as seguintes multas:
 
 a) Por falta de pedido de autorização de operações de corte ou arranque ou da comunicação prevista no n.º 2 do artigo 4.º - 1000$00;
 
@@ -152,14 +181,14 @@ c) Por não cumprimento do disposto no n.º 5 do artigo 2.º - 2000$00/hectare e
 
 d) Por não cumprimento das orientações dadas pela circunscrição florestal da região para a condução das operações referidas no n.º 2 do artigo 5.º - 10$00 a 20$00/árvore.
 
-###### Art. 7.º A circunscrição florestal da região fará a fiscalização e procede à aplicação, liquidação e cobrança das multas, revertendo o seu produto para os cofres do Estado.
+Art. 7.º A circunscrição florestal da região fará a fiscalização e procede à aplicação, liquidação e cobrança das multas, revertendo o seu produto para os cofres do Estado.
 
-###### Art. 8.º O presente diploma não se aplica aos montados de sobro e de azinho.
+Art. 8.º O presente diploma não se aplica aos montados de sobro e de azinho.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Miguel Morais Barreto.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

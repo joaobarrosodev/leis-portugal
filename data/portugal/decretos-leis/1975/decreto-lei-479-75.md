@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/20300/12831285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1975-307589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acce7a10f159b7282a479a1dcb01c71c758fb6a1c62eb020aef00267f1a8048e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afee3b5e1616886270365b1423084167ff51d06c3890fdd6cd6cecf1f48eb23a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério para o Planeamento e Coordenação Económica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278707:por
+  label: "Alterados os quadros I e II anexos pelo presente diploma, pelo DR.66/77.1977.09.29.PCM DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/66-1977-278707
+  date: '1977-09-29'
+- type: amended_by
+  target: pt:dre:459589:por
+  label: "Substituído o quadro de pessoal da Secretaria-Geral e da Auditoria Jurídica (este último a partir da entrada em\
+    \ vigor do Dec Lei 191-C/79 de 25-Jun e até total integração do pessoal no quadro aprovado pelo Dec Lei 162/80 de 28-Mai)\
+    \ pela PORT.1089/80.1980.12.22.PCM DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1089-1980-459589
+  date: '1980-12-22'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:366840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468070:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:311808:por
+  label: "Rectificada a alínea c) do n.º 1 do artigo 6.º, o n.º 2 do artigo 11.º, o n.º 3 do artigo 12.º, o artigo 14.º e\
+    \ os anexos I e II, pela RECT.DD156.10.10.1975.PCM, DG.IS [235] de 10.10.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-311808
+  date: '1975-10-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:24Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +134,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Serviços e atribuições
 
-###### Artigo 1.º São atribuições do Ministério para o Planeamento e Coordenação Económica:
+Artigo 1.º São atribuições do Ministério para o Planeamento e Coordenação Económica:
 
 1) Promover a elaboração do plano de desenvolvimento nacional em colaboração com os departamentos públicos e órgãos de representação profissional e regional;
 
@@ -112,15 +146,15 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5) Participar na elaboração de esquemas legais da execução do plano que permitam uma rápida e eficaz intervenção do Estado no sector económico.
 
-###### Art. 2.º O Ministério para o Planeamento e Coordenação Económica, criado pelo artigo 2.º, n.º 1, do [Decreto-Lei n.º 158-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-a-1975-366840), de 26 de Março, compreende as seguintes Secretarias de Estado;
+Art. 2.º O Ministério para o Planeamento e Coordenação Económica, criado pelo artigo 2.º, n.º 1, do [Decreto-Lei n.º 158-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-a-1975-366840), de 26 de Março, compreende as seguintes Secretarias de Estado;
 
 a) Secretaria de Estado do Planeamento Económico;
 
 b) Secretaria de Estado do Planeamento dos Recursos Humanos.
 
-###### Art. 3.º Aos Secretários de Estado do Planeamento Económico e dos Recursos Humanos, para além do exercício das atribuições que lhes são próprias, compete coadjuvar o Ministro para o Planeamento e Coordenação Económica, mediante o exercício da competência que para tal lhes for delegada.
+Art. 3.º Aos Secretários de Estado do Planeamento Económico e dos Recursos Humanos, para além do exercício das atribuições que lhes são próprias, compete coadjuvar o Ministro para o Planeamento e Coordenação Económica, mediante o exercício da competência que para tal lhes for delegada.
 
-###### Art. 5.º - 1. Dependem directamente do Ministro para o Planeamento e Coordenação Económica:
+Art. 5.º - 1. Dependem directamente do Ministro para o Planeamento e Coordenação Económica:
 
 a) Gabinete do Ministro;
 
@@ -130,7 +164,7 @@ c) Gabinete de Comunicação Social.
 
 2. Enquanto não for reformulada a orgânica e redefinidas as atribuições do Conselho Superior de Economia, fica este organismo na directa dependência do Ministro para o Planeamento e Coordenação Económica.
 
-###### Art. 6.º - 1. Ao Gabinete Jurídico do Ministério para o Planeamento e Coordenação Económica compete:
+Art. 6.º - 1. Ao Gabinete Jurídico do Ministério para o Planeamento e Coordenação Económica compete:
 
 a) Realizar toda a actividade de investigação jurídica que lhe seja cometida, particularmente em matéria de direito económico;
 
@@ -144,13 +178,13 @@ a) Organizar e manter actualizado um ficheiro de legislação e jurisprudência 
 
 b) Promover a recolha de informação e documentação jurídica respeitante às suas atribuições.
 
-###### Art. 7.º Ao Gabinete de Comunicação Social compete:
+Art. 7.º Ao Gabinete de Comunicação Social compete:
 
 a) Assegurar e fomentar, em colaboração com o Ministério da Comunicação Social, as relações com os meios de comunicação Social em tudo o que respeita à actividade do Ministério;
 
 b) Proceder à recolha, selecção e difusão de informações noticiosas com interesse para os serviços.
 
-###### Art. 8.º - 1. Ficam na dependência deste Ministério os organismos seguintes:
+Art. 8.º - 1. Ficam na dependência deste Ministério os organismos seguintes:
 
 a) Secretariado Técnico do Planeamento, que passará a designar-se Departamento Central de Planeamento;
 
@@ -164,7 +198,7 @@ e) Centro de Estudos de Planeamento.
 
 2. A orgânica do Departamento Central de Planeamento e do Centro de Estudos de Planeamento será reestruturada mediante decreto, a referendar pelos Ministros para o Planeamento e Coordenação Económica e das Finanças.
 
-###### Art. 9.º - 1. São criados, no âmbito deste Ministério, os seguintes serviços;
+Art. 9.º - 1. São criados, no âmbito deste Ministério, os seguintes serviços;
 
 a) Instituto do Investimento Estrangeiro;
 
@@ -180,7 +214,7 @@ c) Identificar as áreas e sectores que sejam considerados prioritários para o 
 
 d) Propor os critérios que devem presidir à negociação das operações de investimento, em termos de condições gerais e faseamento.
 
-###### Art. 10.º - 1. A Secretaria-Geral do Ministério compreende os seguintes serviços:
+Art. 10.º - 1. A Secretaria-Geral do Ministério compreende os seguintes serviços:
 
 a) Direcção dos Serviços Administrativos;
 
@@ -190,46 +224,46 @@ b) Direcção dos Serviços Sociais.
 
 ### CAPÍTULO II — Do pessoal
 
-###### Art. 11.º - 1. O pessoal administrativo e auxiliar da Secretaria-Geral constante do mapa anexo II será provido, por escolha do Ministro, de entre os indivíduos que à data da publicação do presente diploma prestem serviço, a qualquer título, no Ministério para o Planeamento e Coordenação Económica e que venham a integrar uma lista nominativa a elaborar para o efeito, e a publicar no Diário do Governo, independentemente de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
+Art. 11.º - 1. O pessoal administrativo e auxiliar da Secretaria-Geral constante do mapa anexo II será provido, por escolha do Ministro, de entre os indivíduos que à data da publicação do presente diploma prestem serviço, a qualquer título, no Ministério para o Planeamento e Coordenação Económica e que venham a integrar uma lista nominativa a elaborar para o efeito, e a publicar no Diário do Governo, independentemente de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
 
 2. O pessoal dirigente da Secretaria-Geral, constante do mapa referido no número anterior, será provido, por escolha do Ministro, de entre indivíduos habilitados com o curso superior.
 
 3. Os funcionários referidos no n.º 1 consideram-se no exercício das suas funções a partir da data da publicação da lista nominativa no Diário do Governo.
 
-###### Art. 12.º - 1. O Gabinete Jurídico disporá do pessoal dirigente e técnico constante do mapa anexo I.
+Art. 12.º - 1. O Gabinete Jurídico disporá do pessoal dirigente e técnico constante do mapa anexo I.
 
 2. O pessoal referido no número anterior será provido, por escolha do Ministro, de entre licenciados em Direito de reconhecida competência.
 
 3. Os funcionários providos ao abrigo do n.º 2 poderão tomar posse ou entrar no exercício das suas funções, e iniciar-se-á o processamento das correspondentes remunerações, independentemente do visto do Tribunal de Contas e da publicação dos diplomas de provimento, desde que deles conste o reconhecimento da urgente conveniência de serviço.
 
-###### Art. 13.º - 1. A fim de ocorrer a necessidades eventuais ou extraordinárias dos serviços, poderá o Ministro autorizar a contratação de pessoal técnico e administrativo além do quadro.
+Art. 13.º - 1. A fim de ocorrer a necessidades eventuais ou extraordinárias dos serviços, poderá o Ministro autorizar a contratação de pessoal técnico e administrativo além do quadro.
 
 2. As remunerações do pessoal a contratar nos termos do número anterior serão processadas por disponibilidades de vencimentos ou por força das verbas especialmente inscritas para vencimentos e salários.
 
-###### Art. 14.º - O cumprimento das atribuições previstas no artigo 7.º será garantido por profissionais da comunicação social, a requisitar para o efeito, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 719/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/719-1974-468070), de 18 de Dezembro.
+Art. 14.º - O cumprimento das atribuições previstas no artigo 7.º será garantido por profissionais da comunicação social, a requisitar para o efeito, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 719/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/719-1974-468070), de 18 de Dezembro.
 
-###### Art. 15.º - A organização e funcionamento dos vários serviços e organismos previstos no presente decreto-lei, bem como os seus quadros e regime de pessoal e formas de provimento, serão regulados por decretos, a referendar pelos Ministros para o Planeamento e Coordenação Económica e das Finanças, na parte em que o não forem pelo presente diploma.
+Art. 15.º - A organização e funcionamento dos vários serviços e organismos previstos no presente decreto-lei, bem como os seus quadros e regime de pessoal e formas de provimento, serão regulados por decretos, a referendar pelos Ministros para o Planeamento e Coordenação Económica e das Finanças, na parte em que o não forem pelo presente diploma.
 
-###### Art. 16.º As dúvidas suscitadas na execução do presente diploma serão esclarecidas por despacho do Ministro para Planeamento e Coordenação Económica.
+Art. 16.º As dúvidas suscitadas na execução do presente diploma serão esclarecidas por despacho do Ministro para Planeamento e Coordenação Económica.
 
-###### Art. 17.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 17.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 18.º O presente diploma entra imediatamente em vigor.
+Art. 18.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 27 de Agosto de 1975.**
+Promulgado em 27 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO I — Mapa do pessoal a que se refere o artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/20300/12831285.pdf))](https://files.diariodarepublica.pt/1s/1975/09/20300/12831285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/20300/12831285.pdf)
 
 ## ANEXO II — Mapa do pessoal a que se refere o artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/20300/12831285.pdf))](https://files.diariodarepublica.pt/1s/1975/09/20300/12831285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/20300/12831285.pdf)
 
-**O Ministro para o Planeamento e Coordenação Económica, Mário Luís de Silva Murteira.**
+O Ministro para o Planeamento e Coordenação Económica, Mário Luís de Silva Murteira.

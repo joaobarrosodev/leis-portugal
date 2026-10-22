@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/25600/26482652.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1977-277975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 405a3b2a7e19b2141025d6447512075815f7bf08bd43b40ce1d67bf3984278a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d42e97f2d06383703f7f6fc91dc7d7c8e64414e2004b27a142976d4d98c22d54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Superficie
+- Gabinete da Área de Sines
+- Santiago do Cacém
+- Sines
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:175372:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:35Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +112,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 93/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1975-175372), de 28 de Fevereiro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 93/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1975-175372), de 28 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 4.º O perímetro urbano do aglomerado urbano de Sines é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
+Art. 4.º O perímetro urbano do aglomerado urbano de Sines é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
 
 Limites:
 
@@ -112,7 +126,7 @@ Sul - linha que margina imediatamente a norte a via n.º R-53, entre o ponto sit
 
 Poente - linha definida pela perpendicular à via n.º R-53 que passa por um ponto 50 m a poente do Largo da Senhora das Salvas e situado no eixo da Rua do Forte, segue-o até encontrar o prolongamento das traseiras dos edifícios com fachada N. E. do Largo da Senhora das Salvas, segue o citado prolongamento, contorna as traseiras dos prédios de fachada S. E. do mesmo largo, continuando depois pela Estrada aos Estaleiros e seu prolongamento S. E.-N. W. até encontrar o limite de segurança sul dos oleodutos.
 
-###### Art. 5.º O perímetro urbano do aglomerado urbano de Porto Covo é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
+Art. 5.º O perímetro urbano do aglomerado urbano de Porto Covo é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
 
 Limites:
 
@@ -124,7 +138,7 @@ Sul - linha partindo de um ponto distante 90 m a sul do eixo da estrada municipa
 
 Poente - linha partindo da Travessa de Vasco da Gama e correspondente à faixa do domínio marítimo, a qual se passa a delimitar do seguinte modo, acompanha os limites sul e poente da parcela 1 do prédio rústico inscrito na matriz cadastral de Sines sob o artigo 32 da secção EE até ao eixo da Rua de Vasco da Gama, acompanha-o para poente, donde inflecte perpendicularmente para norte durante 50 m até encontrar um ponto distante 120 m a poente do caminho de acesso às moradias turísticas, permanecendo paralela a este acesso e distância, acompanhando depois o limite poente das moradias turísticas, ou dos seus logradouros, até encontrar a linha de água que as limita imediatamente a norte.
 
-###### Art. 6.º O perímetro urbano do aglomerado urbano de Santiago do Cacém é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
+Art. 6.º O perímetro urbano do aglomerado urbano de Santiago do Cacém é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
 
 Limites:
 
@@ -138,10 +152,10 @@ Poente - linha paralela ao eixo da estrada nacional n.º 261-3, distando 50 m pa
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás.
 
-**Promulgado em 18 de Outubro de 1977.**
+Promulgado em 18 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/25600/26482652.pdf))](https://files.diariodarepublica.pt/1s/1977/11/25600/26482652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25600/26482652.pdf)

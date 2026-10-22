@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1970-228816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd8efd924f97f393036676e745f24bf7f6a0176b6712138596e311d80fb97643
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c75d2d919c34e01fc7539eb371610127a9050c5df2752f25aa59bbe98324783
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Condicionamento Industrial
+relationships:
+- type: cites
+  target: pt:dre:163452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:47Z'
   warnings: []
   errors: []
 ---
@@ -95,25 +104,25 @@ Nestas circunstâncias, ouvido o Conselho de Ministros para os Assuntos Económi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 5.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 5.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, passa a ter a seguinte redacção:
 
 3. Exceptuam-se do disposto no n.º 1 deste artigo os actos referidos na alínea d) do n.º 1 do artigo 1.º, quando tenham de efectuar-se no mesmo território, para cujo licenciamento terão competência o Secretário de Estado da Indústria ou os governadores das províncias ultramarinas, consoante se trate, respectivamente, de estabelecimentos instalados no continente e ilhas adjacentes ou nas mesmas províncias.
 
-###### Art. 2.º O artigo 26.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, passa a ter a seguinte redacção:
+Art. 2.º O artigo 26.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, passa a ter a seguinte redacção:
 
 ###### ARTIGO 26.º — (Processo especial para transferência do local)
 
 Os pedidos de licença relativos aos actos referidos na alínea d) do n.º 1 do artigo 1.º, quando tenham de efectuar-se num mesmo território, seguirão o processo estabelecido na secção III do presente capítulo para o condicionamento territorial, ainda que aqueles actos respeitem a indústrias sujeitas a condicionamento nacional.
 
-###### Art. 3.º Ao quadro I anexo ao [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, referido no n.º 2 do seu artigo 2.º, é acrescentada, no local apropriado, a seguinte rubrica:
+Art. 3.º Ao quadro I anexo ao [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, referido no n.º 2 do seu artigo 2.º, é acrescentada, no local apropriado, a seguinte rubrica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/03/06700/03300330.pdf))](https://files.diariodarepublica.pt/1s/1970/03/06700/03300330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/03/06700/03300330.pdf)
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Março de 1970.**
+Promulgado em 11 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

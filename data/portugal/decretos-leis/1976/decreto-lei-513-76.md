@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15400/14671468.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1976-431398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0068690bc78bc8f0d91fb30ba2ce6dc153cb33475c35c8633fec68fa19f58c2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a1ae505c417833d6e00779e9a3913255bf3b4ee85b7a4a8971e03efa4ff9720
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Previdência Social
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:17Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +113,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Ficam isentos do pagamento de juros de mora os contribuintes do regime geral de Previdência que à data da publicação do presente diploma tenham pago as respectivas contribuições ou venham a proceder ao seu pagamento no prazo de sessenta dias a contar dessa data.
+Artigo 1.º - 1. Ficam isentos do pagamento de juros de mora os contribuintes do regime geral de Previdência que à data da publicação do presente diploma tenham pago as respectivas contribuições ou venham a proceder ao seu pagamento no prazo de sessenta dias a contar dessa data.
 
 2. No caso de os processos estarem em curso no tribunal, ficarão os contribuintes igualmente isentos das respectivas custas desde que se verifiquem as condições previstas no número anterior.
 
 3. Em nenhum caso haverá lugar à restituição de custas, multas ou juros de mora já pagos.
 
-###### Art. 2.º - 1. São amnistiadas as transgressões resultantes da falta de entrega das folhas de ordenados ou salários e cometidas até à data da publicação do presente diploma pelos contribuintes do regime geral de Previdência, desde que a sua entrega se verifique no prazo de trinta dias a contar dessa data.
+Art. 2.º - 1. São amnistiadas as transgressões resultantes da falta de entrega das folhas de ordenados ou salários e cometidas até à data da publicação do presente diploma pelos contribuintes do regime geral de Previdência, desde que a sua entrega se verifique no prazo de trinta dias a contar dessa data.
 
 2. Em nenhum caso haverá lugar à restituição de multas já pagas.
 
-###### Art. 3.º - 1. As caixas poderão conceder aos contribuintes do regime geral de Previdência que tenham contribuições em dívida à data da publicação do presente diploma o seu pagamento em prestações, bem como das respectivas multas e juros de mora vencidos.
+Art. 3.º - 1. As caixas poderão conceder aos contribuintes do regime geral de Previdência que tenham contribuições em dívida à data da publicação do presente diploma o seu pagamento em prestações, bem como das respectivas multas e juros de mora vencidos.
 
 2. O pagamento poderá ser realizado num máximo de quarenta e oito prestações mensais e iguais.
 
@@ -124,14 +135,14 @@ Usando da faculdade conferida pelo artigo 3.º, 1, alínea 3), da Lei Constituci
 
 6. Os requerimentos referidos no n.º 3 serão apresentados no prazo de sessenta dias a contar da publicação do presente diploma.
 
-###### Art. 4.º Em relação aos processos actualmente pendentes em tribunal contra contribuintes que requeiram às caixas o pagamento das contribuições em prestações, deverão as caixas requerer a suspensão da instância, desde que os valores relativos às contribuições, às multas e aos juros de mora constem dos despachos referidos no n.º 4 do artigo anterior.
+Art. 4.º Em relação aos processos actualmente pendentes em tribunal contra contribuintes que requeiram às caixas o pagamento das contribuições em prestações, deverão as caixas requerer a suspensão da instância, desde que os valores relativos às contribuições, às multas e aos juros de mora constem dos despachos referidos no n.º 4 do artigo anterior.
 
-###### Art. 5.º A regularização do pagamento das contribuições do regime geral de Previdência devidas pelas empresas nacionalizadas e pelas empresas assistidas pelo Estado ou com a sua intervenção ao abrigo do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, e legislação subsequente será feita de acordo com despachos emanados dos Ministérios da Tutela, das Finanças e dos Assuntos Sociais.
+Art. 5.º A regularização do pagamento das contribuições do regime geral de Previdência devidas pelas empresas nacionalizadas e pelas empresas assistidas pelo Estado ou com a sua intervenção ao abrigo do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, e legislação subsequente será feita de acordo com despachos emanados dos Ministérios da Tutela, das Finanças e dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 21 de Junho de 1976.**
+Promulgado em 21 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

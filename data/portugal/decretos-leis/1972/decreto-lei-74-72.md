@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1972-398828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3dda4e4664452b070af746acffde73fdf0806c402a5ed4af8a9e53921a1b362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d136444733663527def8e6e836680e2116b64338a5c9e7aa0c174d2c9164f33e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Aviação Civil
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Geral da Aeronáutica Civil
+- Ministro das Comunicações
+- SATA
+- Sociedade de Responsabilidade Limitada
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:476118:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476118:por
+  label: "Prorrogada, até ao dia anterior àquele em que começou a produzir efeitos o contrato de concessão a que se refere\
+    \ o art. 1º do presente diploma, a isenção concedida à SATA, Lda. no Dec 47179 de 06-Set de 1966, pelo DEC LEI.276/74.24.06.1974.MCE,\
+    \ DG.IS [145] de 24.06.1974\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1974-476118
+  date: '1974-06-24'
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:38Z'
   warnings: []
   errors: []
 ---
@@ -99,27 +131,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Comunicações autorizado, nos termos das bases anexas a este decreto-lei e que dele fazem parte integrante, a contratar a concessão do serviço público de transporte aéreo de passageiros, carga e correio definido nas mesmas bases.
+Artigo 1.º Fica o Ministro das Comunicações autorizado, nos termos das bases anexas a este decreto-lei e que dele fazem parte integrante, a contratar a concessão do serviço público de transporte aéreo de passageiros, carga e correio definido nas mesmas bases.
 
-###### Art. 2.º A concessionária será uma empresa nacional, nos termos da lei aplicável, revestirá a forma de sociedade anónima de responsabilidade limitada e terá a sua sede em qualquer localidade do arquipélago dos Açores.
+Art. 2.º A concessionária será uma empresa nacional, nos termos da lei aplicável, revestirá a forma de sociedade anónima de responsabilidade limitada e terá a sua sede em qualquer localidade do arquipélago dos Açores.
 
-###### Art. 3.º - 1. O Governo nomeará um delegado, ao qual será aplicável o disposto no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, quanto aos delegados do Governo.
+Art. 3.º - 1. O Governo nomeará um delegado, ao qual será aplicável o disposto no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, quanto aos delegados do Governo.
 
 2. Qualquer accionista que possuir um número de acções representando, pelo menos, 30 por cento do capital social terá direito a nomear um administrador, que exercerá o mandato pelo mesmo período que os demais administradores e poderá ser reconduzido. No entanto, os administradores referidos neste número cessarão imediatamente as suas funções no caso de o accionista que os tiver nomeado deixar de possuir o número mínimo de acções que lhe deu tal direito.
 
-###### Art. 4.º Os membros do conselho de administração elegerão entre si um presidente, com voto de qualidade, mas a nomeação só produzirá efeito depois de homologada pelo Governo.
+Art. 4.º Os membros do conselho de administração elegerão entre si um presidente, com voto de qualidade, mas a nomeação só produzirá efeito depois de homologada pelo Governo.
 
-###### Art. 5.º - 1. Os accionistas da sociedade concessionária que forem concessionários de serviço público de transportes aéreos não estarão sujeitos aos limites do § 3.º do artigo 183.º do Código Comercial.
+Art. 5.º - 1. Os accionistas da sociedade concessionária que forem concessionários de serviço público de transportes aéreos não estarão sujeitos aos limites do § 3.º do artigo 183.º do Código Comercial.
 
 2. O regime do número anterior será também aplicável à sociedade concessionária em relação às suas participações accionistas noutras empresas de transportes aéreos ou que explorem actividades acessórias do transporte aéreo.
 
-###### Art. 6.º Competirá ao Governo, pelo Ministro das Comunicações:
+Art. 6.º Competirá ao Governo, pelo Ministro das Comunicações:
 
 a) A integração de novas linhas na concessão;
 
 b) A aprovação dos planos de reequipamento da concessionária e do tipo e características das aeronaves a utilizar nos serviços por ela assegurados.
 
-###### Art. 7.º Competirá exclusivamente à Direcção-Geral da Aeronáutica Civil:
+Art. 7.º Competirá exclusivamente à Direcção-Geral da Aeronáutica Civil:
 
 a) A aprovação do tipo e características do equipamento de voo não abrangido na alínea b) do artigo anterior e do equipamento terrestre destinado a servir-lhe de apoio ou a ser utilizado nas instalações aeroportuárias;
 
@@ -127,7 +159,7 @@ b) A fiscalização do funcionamento do serviço concedido;
 
 c) A aprovação do regime de exploração dos serviços concedidos ou dos que funcionem mediante simples autorização.
 
-###### Art. 8.º - 1. O transporte aéreo de pessoas, carga ou correio efectuado por entidade não legalmente autorizada a fazê-lo, ou sem subordinação aos limites da respectiva licença ou, finalmente, com violação do exclusivo concedido por lei ou contrato de concessão, constitui acto de concorrência desleal e como tal será punido nos termos do artigo 213.º do [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940, sendo, porém, multiplicados pelo factor 50 os valores aí fixados. As penas serão elevadas ao dobro em caso de reincidência.
+Art. 8.º - 1. O transporte aéreo de pessoas, carga ou correio efectuado por entidade não legalmente autorizada a fazê-lo, ou sem subordinação aos limites da respectiva licença ou, finalmente, com violação do exclusivo concedido por lei ou contrato de concessão, constitui acto de concorrência desleal e como tal será punido nos termos do artigo 213.º do [Decreto n.º 30679](https://diariodarepublica.pt/dr/detalhe/decreto/30679-1940-192654), de 24 de Agosto de 1940, sendo, porém, multiplicados pelo factor 50 os valores aí fixados. As penas serão elevadas ao dobro em caso de reincidência.
 
 2. A aplicação das penas cominadas não isenta os infractores da obrigação de reparar as perdas e danos causados. A respectiva indemnização será fixada, salvo prova em contrário, em 50000$00.
 
@@ -135,11 +167,11 @@ c) A aprovação do regime de exploração dos serviços concedidos ou dos que f
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 23 de Fevereiro de 1972.**
+Promulgado em 23 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -385,7 +417,7 @@ BASE XXII
 
 O contrato de concessão começará a produzir efeitos a partir do primeiro dia do mês seguinte àquele em que for celebrado.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.
 
 Quadro a que se refere a base I
 
@@ -399,4 +431,4 @@ As linhas que constituem o objecto da presente concessão são as seguintes:
 
 4. Terceira - Faial - Terceira.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

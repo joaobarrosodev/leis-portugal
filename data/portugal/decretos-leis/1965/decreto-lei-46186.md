@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46186-1965-238788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d7f4599a12d65beeea5f5849737cba17a690cdaac836abadf6852bcee198f74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25e527a0f88d9647f4ce60614d7fd0f6e5057220418055fd35a5f655d96d01b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Londres
+- Poluição
+- Poluição Marinha
+- Portugal
+- Proteção do Ambiente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:08Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +91,7 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção internacional para a prevenção da poluição do mar pelos óleos, assinada em Londres a 12 de Maio de 1954, modificada pelas alterações de 13 de Abril de 1962, com a seguinte reserva:
+Artigo único. É aprovada, para adesão, a Convenção internacional para a prevenção da poluição do mar pelos óleos, assinada em Londres a 12 de Maio de 1954, modificada pelas alterações de 13 de Abril de 1962, com a seguinte reserva:
 
 Não se consideram abrangidos pelas disposições do artigo 7.º os navios que, tendo mais de 16 anos de idade à data da entrada em vigor da Convenção relativamente a Portugal, não estejam em condições de passar a próxima reclassificação («to comply with the next special survey»).
 
@@ -761,15 +767,15 @@ REGISTRE DES HYDROCARBURES
 
 I) Navires-citernes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf))](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
 
 II) Autres navires
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf))](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
 
 III) S'applique a tous les navires
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf))](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
 
 CONVENÇÃO INTERNACIONAL PARA A PREVENÇÃO DA POLUIÇÃO DAS ÁGUAS DO MAR PELOS ÓLEOS, 1954, COM AS MODIFICAÇÕES INTRODUZIDAS EM 13 DE ABRIL DE 1962.
 
@@ -1387,12 +1393,12 @@ b) Qualquer declaração relativa a este parágrafo deverá ser feita sob a form
 
 I) Para navios-tanques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf))](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
 
 II) Para navios que não sejam navios-tanques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf))](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
 
 III) Para todos os navios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf))](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/03500/01560176.pdf)

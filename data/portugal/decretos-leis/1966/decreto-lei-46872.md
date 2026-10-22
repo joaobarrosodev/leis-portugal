@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/02/03800/02390240.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46872-1966-488323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee218320a1d83343fe78655525f2aef676fbd251adb1f3906b2b69b80f9224d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b80bcf4724c84714b4e220d815ee3b3088d75e441437a34a986a10ebfe96828
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Consultivo
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral do Trabalho e Corporações
+- Fundo de Desenvolvimento da Mão-de-obra
+- Reconversão Profissional
+- Serviço de Reabilitação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:176290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176290:por
+  label: "Revogado pelo DEC LEI.49409.24.11.1969.MCPS, DG.IS [275] de 24.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49409-1969-176290
+  date: '1969-11-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:10Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +130,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado na Direcção-Geral do Trabalho e Corporações, do Ministério das Corporações e Previdência Social, o Serviço de Reabilitação Profissional (S. R. P.), com a finalidade de assegurar a recuperação e readaptação profissional dos trabalhadores que sofram de diminuição física.
+Artigo 1.º É criado na Direcção-Geral do Trabalho e Corporações, do Ministério das Corporações e Previdência Social, o Serviço de Reabilitação Profissional (S. R. P.), com a finalidade de assegurar a recuperação e readaptação profissional dos trabalhadores que sofram de diminuição física.
 
-###### Art. 2.º O S. R. P., considerado como pessoa moral, com capacidade jurídica, fica dependente, em tudo quanto respeita à política de emprego, do Fundo de Desenvolvimento da Mão-de-Obra e deve actuar na mais estreita colaboração com os organismos corporativos representativos das entidades patronais e dos trabalhadores, instituições de previdência e departamentos oficiais ou particulares aos quais a sua acção possa interessar.
+Art. 2.º O S. R. P., considerado como pessoa moral, com capacidade jurídica, fica dependente, em tudo quanto respeita à política de emprego, do Fundo de Desenvolvimento da Mão-de-Obra e deve actuar na mais estreita colaboração com os organismos corporativos representativos das entidades patronais e dos trabalhadores, instituições de previdência e departamentos oficiais ou particulares aos quais a sua acção possa interessar.
 
-###### Art. 3.º No âmbito das suas atribuições, compete, nomeadamente, ao S. R. P., ponderadas, segundo a conjuntura do momento, as necessidades e conveniências das empresas e dos trabalhadores e sem prejuízo das atribuições legalmente conferidas a outros departamentos do Estado em matéria de mão-de-obra:
+Art. 3.º No âmbito das suas atribuições, compete, nomeadamente, ao S. R. P., ponderadas, segundo a conjuntura do momento, as necessidades e conveniências das empresas e dos trabalhadores e sem prejuízo das atribuições legalmente conferidas a outros departamentos do Estado em matéria de mão-de-obra:
 
 a) Assegurar a adaptação ou readaptação profissional dos trabalhadores que, em consequência de uma diminuição física, delas necessitem;
 
@@ -124,35 +148,35 @@ e) Instalar e manter centros oficinais especialmente equipados para o exercício
 
 f) Promover, junto das empresas e pelos meios mais adequados, a difusão e a consciencialização dos princípios de recuperação profissional.
 
-###### Art. 4.º - 1. Para a consecução das suas finalidades, o S. R. P. disporá de instalações próprias providas de pessoal especializado e equipadas de acordo com os requisitos da técnica da reeducação profissional.
+Art. 4.º - 1. Para a consecução das suas finalidades, o S. R. P. disporá de instalações próprias providas de pessoal especializado e equipadas de acordo com os requisitos da técnica da reeducação profissional.
 
 2. O S. R. P. utilizará, sempre que possível e com as convenientes adaptações, os centros e a técnica de ensino da formação profissional acelerada, podendo igualmente celebrar acordos com os serviços hospitalares e de recuperação funcional, de forma a assegurar continuidade no processo de reabilitação.
 
-###### Art. 5.º - 1. A direcção do S. R. P. será composta de um director e dois adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
+Art. 5.º - 1. A direcção do S. R. P. será composta de um director e dois adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
 
 O restante pessoal será contratada de acordo com as necessidades.
 
 2. Ao provimento dos cargos de director e adjuntos da direcção do S. R. P. é extensivo o disposto no [Decreto-Lei n.º 37743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37743-1950-659680), de 23 de Janeiro de 1950.
 
-###### Art. 6.º - 1. Em colaboração com a direcção funcionará um conselho consultivo composto por representantes dos Ministérios interessados nas actividades do S. R. P., bem como por representantes das instituições de previdência e das corporações, nos termos que forem designados em despacho do Ministro das Corporações e Previdência Social.
+Art. 6.º - 1. Em colaboração com a direcção funcionará um conselho consultivo composto por representantes dos Ministérios interessados nas actividades do S. R. P., bem como por representantes das instituições de previdência e das corporações, nos termos que forem designados em despacho do Ministro das Corporações e Previdência Social.
 
 2. O conselho consultivo será Presidido pelo director-geral do Trabalho e Corporações, que poderá fazer-se representar pelo director do S. R. P.
 
-###### Art. 7.º A direcção do S. R. P. elaborará os regulamentos necessários ao seu bom funcionamento, os quais serão submetidos à aprovação do Ministro das Corporações e Previdência Social, depois de ouvido o conselho consultivo.
+Art. 7.º A direcção do S. R. P. elaborará os regulamentos necessários ao seu bom funcionamento, os quais serão submetidos à aprovação do Ministro das Corporações e Previdência Social, depois de ouvido o conselho consultivo.
 
-###### Art. 8.º Nos regulamentos definir-se-ão as condições de admissão dos trabalhadores nos vários centros do S. R. P., bem como o regime de funcionamento dos mesmos centros.
+Art. 8.º Nos regulamentos definir-se-ão as condições de admissão dos trabalhadores nos vários centros do S. R. P., bem como o regime de funcionamento dos mesmos centros.
 
-###### Art. 9.º Durante os estágios de formação e de reeducação profissional serão atribuídos, quando devidamente autorizados, subsídios aos trabalhadores para a sua manutenção.
+Art. 9.º Durante os estágios de formação e de reeducação profissional serão atribuídos, quando devidamente autorizados, subsídios aos trabalhadores para a sua manutenção.
 
-###### Art. 10.º As despesas de instalação e de funcionamento do S. R. P. ficam a cargo do Fundo de Desenvolvimento da Mão-de-Obra, instituído pelo [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962.
+Art. 10.º As despesas de instalação e de funcionamento do S. R. P. ficam a cargo do Fundo de Desenvolvimento da Mão-de-Obra, instituído pelo [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962.
 
-###### Art. 11.º O S. R. P. pode, ainda, utilizar, quando devidamente autorizado, outras verbas que lhe sejam destinadas por entidades públicas ou particulares.
+Art. 11.º O S. R. P. pode, ainda, utilizar, quando devidamente autorizado, outras verbas que lhe sejam destinadas por entidades públicas ou particulares.
 
-###### Art. 12.º O S. R. P. elaborará em cada ano o programa de acção a prosseguir no ano seguinte, o qual será submetido à aprovação do Ministro das Corporações e Previdência Social, que fixará, para o efeito, a dotação que deverá ser atribuída pelo Fundo de Desenvolvimento da Mão-de-Obra.
+Art. 12.º O S. R. P. elaborará em cada ano o programa de acção a prosseguir no ano seguinte, o qual será submetido à aprovação do Ministro das Corporações e Previdência Social, que fixará, para o efeito, a dotação que deverá ser atribuída pelo Fundo de Desenvolvimento da Mão-de-Obra.
 
-###### Art. 13.º Considera-se revogada a alínea c) do artigo 3.º do [Decreto n.º 44538](https://diariodarepublica.pt/dr/detalhe/decreto/44538-1962-165444), de 23 de Agosto de 1962.
+Art. 13.º Considera-se revogada a alínea c) do artigo 3.º do [Decreto n.º 44538](https://diariodarepublica.pt/dr/detalhe/decreto/44538-1962-165444), de 23 de Agosto de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Fevereiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

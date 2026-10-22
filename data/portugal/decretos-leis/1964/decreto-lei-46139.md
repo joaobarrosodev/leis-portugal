@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 305/1964, 1º Suplemento, Série I de 1964-12-31
   number: '305'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1977 - 2015
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/30501/19772015.pdf
 entry_into_force_dates: []
@@ -48,40 +48,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46139-1964-355113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d71285366dc2a7ab23f3f4b5ae6d2785204e5921fd3822d03dcce004dabd9b31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8de98792a0509fb3a674760c06dd941fed5cce6d3db2511fe9b0c53b938b1345
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Autarquia Local
+- Circunscrição Administrativa
+- Código Administrativo
+- Concelho
+- Freguesia
+- Gestão Administrativa
+- Madeira.ilha Adjacente
+- Metrópole
+- Organização Territorial
 relationships:
 - type: amended_by
   target: pt:dre:477350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:149855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648771:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:294369:por
+  label: "Rectificado o mapa das circunscrições administrativas anexo ao presente diploma, pela RECT.DD752.01.06.1965.PC,\
+    \ DG.IS [122] de 01.06.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-294369
+  date: '1965-06-01'
+- type: corrected_by
+  target: pt:dre:512603:por
+  label: "Rectificado o mapa das circunscrições administrativas anexo ao presente diploma, pela RECT.DD585.17.11.1965.PC,\
+    \ DG.IS [261] de 17.11.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-512603
+  date: '1965-11-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:49Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +128,25 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 458.º do Código Administrativo passa a ter a seguinte redacção:
+Artigo 1.º O artigo 458.º do Código Administrativo passa a ter a seguinte redacção:
 
-###### Art. 458.º O quadro-tipo do pessoal de cada secretaria e tesouraria é o descrito no mapa anexo a este código.
+Art. 458.º O quadro-tipo do pessoal de cada secretaria e tesouraria é o descrito no mapa anexo a este código.
 
 § 1.º Os corpos administrativos deliberarão sobre a fixação dos seus quadros, podendo adoptar quadros mais reduzidos do que o quadro-tipo.
 
 § 2.º Em caso de imperiosa necessidade do serviço poderá o Ministro do Interior, a requerimento do respectivo corpo administrativo e sob proposta do governador civil do distrito, permitir que seja fixado o quadro do pessoal com um número de funcionários superior ao do quadro existente, podendo mesmo exceder o quadro-tipo.
 
-###### Art. 2.º Na revisão da classificação dos concelhos e freguesias prevista no artigo 6.º do Código Administrativo será mantida a classificação actual dos concelhos que tenham deixado de satisfazer aos requisitos para tal classificação em virtude do disposto no artigo 3.º do Código Administrativo, na redacção que lhe foi dada pelo [Decreto-Lei n.º 39447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771), de 23 de Novembro de 1953, sem prejuízo do regime estabelecido no artigo 4.º do mesmo decreto-lei.
+Art. 2.º Na revisão da classificação dos concelhos e freguesias prevista no artigo 6.º do Código Administrativo será mantida a classificação actual dos concelhos que tenham deixado de satisfazer aos requisitos para tal classificação em virtude do disposto no artigo 3.º do Código Administrativo, na redacção que lhe foi dada pelo [Decreto-Lei n.º 39447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771), de 23 de Novembro de 1953, sem prejuízo do regime estabelecido no artigo 4.º do mesmo decreto-lei.
 
-###### Art. 3.º Os concelhos e freguesias do continente e das ilhas adjacentes e a sua classificação, revista nos termos do artigo 6.º do Código Administrativo e do artigo anterior, são os constantes dos mapas anexos a este diploma.
+Art. 3.º Os concelhos e freguesias do continente e das ilhas adjacentes e a sua classificação, revista nos termos do artigo 6.º do Código Administrativo e do artigo anterior, são os constantes dos mapas anexos a este diploma.
 
-###### Art. 4.º Até 31 de Dezembro de 1967 as câmaras municipais dos concelhos que mudam de ordem conservam a sua actual composição.
+Art. 4.º Até 31 de Dezembro de 1967 as câmaras municipais dos concelhos que mudam de ordem conservam a sua actual composição.
 
-###### Art. 5.º Os funcionários providos em cargos dos concelhos que mudam de ordem mantêm a categoria e classe em que actualmente se encontram, podendo, no entanto, continuar nos mesmos cargos se neles tiverem sido providos anteriormente a 1937.
+Art. 5.º Os funcionários providos em cargos dos concelhos que mudam de ordem mantêm a categoria e classe em que actualmente se encontram, podendo, no entanto, continuar nos mesmos cargos se neles tiverem sido providos anteriormente a 1937.
 
-###### Art. 6.º Os funcionários que à data da publicação do presente diploma hajam sido aprovados em concurso de promoção à classe correspondente à dos lugares em que estão providos, tendo em conta a nova ordem dos respectivos concelhos, consideram-se desde já promovidos à classe imediatamente superior desde que não tenha caducado o prazo de validade do referido concurso.
+Art. 6.º Os funcionários que à data da publicação do presente diploma hajam sido aprovados em concurso de promoção à classe correspondente à dos lugares em que estão providos, tendo em conta a nova ordem dos respectivos concelhos, consideram-se desde já promovidos à classe imediatamente superior desde que não tenha caducado o prazo de validade do referido concurso.
 
-###### Art. 7.º Os funcionários providos depois de 1 de Janeiro de 1937 em cargos a que corresponda classe ou categoria superior àquela a que pertençam são obrigados a apresentar-se ao primeiro concurso de promoção para a classe imediatamente superior; se forem aprovados, consideram-se desde logo promovidos e podem manter-se nos cargos que ocupam, mas, se não se apresentarem a prestar provas ou forem reprovados, serão opositores obrigatórios em todos os concursos para provimento de lugares da sua categoria e classe até obterem colocação, no caso de pertencerem ao quadro geral, e serão providos na primeira vaga de aspirante que ocorra no respectivo quadro se fizerem parte dos quadros privativos.
+Art. 7.º Os funcionários providos depois de 1 de Janeiro de 1937 em cargos a que corresponda classe ou categoria superior àquela a que pertençam são obrigados a apresentar-se ao primeiro concurso de promoção para a classe imediatamente superior; se forem aprovados, consideram-se desde logo promovidos e podem manter-se nos cargos que ocupam, mas, se não se apresentarem a prestar provas ou forem reprovados, serão opositores obrigatórios em todos os concursos para provimento de lugares da sua categoria e classe até obterem colocação, no caso de pertencerem ao quadro geral, e serão providos na primeira vaga de aspirante que ocorra no respectivo quadro se fizerem parte dos quadros privativos.
 
 § 1.º Quando se verifique a hipótese prevista no artigo 5.º do [Decreto-Lei n.º 29996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29996-1939-186158), de 24 de Outubro de 1939, aplicável por força do preceituado no artigo 6.º do [Decreto-Lei n.º 35927](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35927-1946-149855), de 1 de Novembro de 1946, observar-se-á o disposto na última parte do corpo deste artigo se o funcionário não obtiver no prazo de um ano provimento em lugar da sua classe.
 
@@ -116,7 +154,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Aos funcionários a que se refere o parágrafo anterior aplica-se o regime prescrito na segunda parte do § 3.º do artigo único do [Decreto-Lei n.º 44200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44200-1962-518788), de 21 de Fevereiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -128,13 +166,13 @@ Continente
 
 Concelhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/30501/19772015.pdf))](https://files.diariodarepublica.pt/1s/1964/12/30501/19772015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/30501/19772015.pdf)
 
 Ilhas adjacentes
 
 Concelhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/30501/19772015.pdf))](https://files.diariodarepublica.pt/1s/1964/12/30501/19772015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/30501/19772015.pdf)
 
 Continente
 

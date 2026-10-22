@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16400/10011002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1975-336536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c211b01104707cffa3aa57f5f660545562248a56f3f3c6d2b97e4490ba268604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 501363e49ddbb64ab660bd1bd838017336d28f4dda3e83ab49d74ed5c34fa5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- IAPMEI
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:354114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 387/88 DE 25-OUT DR.IS [247].\0247]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-10-25'
+- type: repealed_by
+  target: pt:dre:354114:por
+  label: "Revogado pelo DEC LEI.387/88.25.10.1988.MIE, DR.IS [247] de 25.10.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-1988-354114
+  date: '1988-10-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:53Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +119,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada uma delegação em Coimbra do Instituto de Apoio às Pequenas e Médias Empresas Industriais, criada pelo [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro.
+Artigo 1.º - 1. É criada uma delegação em Coimbra do Instituto de Apoio às Pequenas e Médias Empresas Industriais, criada pelo [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), de 7 de Fevereiro.
 
 2. Poderão ser criadas outras delegações, sempre que tal for considerado indispensável, por despacho do Ministro da Indústria e Tecnologia e sob proposta do conselho de administração do Instituto.
 
-###### Art. 2.º O quadro do pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais passa a ser o constante do quadro anexo ao presente diploma.
+Art. 2.º O quadro do pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais passa a ser o constante do quadro anexo ao presente diploma.
 
-###### Art. 3.º Os lugares do quadro do Instituto, com excepção dos de presidente e vice-presidente, preenchidos nos termos do n.º 1 do artigo 15.º do mencionado [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), serão providos de harmonia com as seguintes condições:
+Art. 3.º Os lugares do quadro do Instituto, com excepção dos de presidente e vice-presidente, preenchidos nos termos do n.º 1 do artigo 15.º do mencionado [Decreto-Lei n.º 51/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1975-159907), serão providos de harmonia com as seguintes condições:
 
 a) Directores de serviço e chefes de divisão nomeados de entre licenciados com curso superior adequado ao desempenho das respectivas funções;
 
@@ -130,19 +151,19 @@ l) Operadores de repografia de 1.ª classe e de 2.ª classe, por promoção, res
 
 m) Operadores de repografia de 3.ª classe, motoristas, telefonistas e contínuos, por concurso de prestação de provas, de entre indivíduos que possuam a escolaridade obrigatória.
 
-###### Art. 4.º - 1. Os primeiros provimentos dos lugares do quadro do Instituto serão efectuados com pessoal que se encontre a exercer funções em serviços ou institutos públicos, ainda que na situação de destacado ou de prestação de serviços.
+Art. 4.º - 1. Os primeiros provimentos dos lugares do quadro do Instituto serão efectuados com pessoal que se encontre a exercer funções em serviços ou institutos públicos, ainda que na situação de destacado ou de prestação de serviços.
 
 2. O pessoal a que se refere o número anterior transitará para o quadro do Instituto mediante lista ou listas nominativas, aprovadas pelo Ministro da Indústria e Tecnologia, anotadas pelo Tribunal de Contas e publicadas no Diário do Governo, considerando-se investidos nos respectivos lugares a partir da data da publicação dessas listas com dispensa de quaisquer outros requisitos ou formalidades legais.
 
-###### Art. 5.º Poderá ser contratado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente com observância do disposto no [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro.
+Art. 5.º Poderá ser contratado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente com observância do disposto no [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho.
 
-**Promulgado em 14 de Julho de 1975.**
+Promulgado em 14 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro anexo
 

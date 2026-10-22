@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/24-1985-183416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36a88cdb5ec99e569f2e61474a0f5ca09ab2a1fb3a5801b4673738b317313a92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e8d13447ca1cd676411ffeba134550064d15f3f44096331ee84ce6ec030ad9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Mar
+- Poluição Marinha
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:06Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 15 de Julho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovadas para adesão as Emendas de 1969 à Convenção Internacional para a Prevenção da Poluição das Águas do Mar pelos óleos, de 1954, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
+Artigo único. São aprovadas para adesão as Emendas de 1969 à Convenção Internacional para a Prevenção da Poluição das Águas do Mar pelos óleos, de 1954, cujo texto em inglês e respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - José de Almeida Serra.
 
-**Assinado em 3 de Julho de 1985.**
+Assinado em 3 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Julho de 1985.**
+Referendado em 5 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 RESOLUÇÃO A. 175 (VI)
 
@@ -145,7 +149,7 @@ Convida todos os Governos interessados a aceitar as Emendas o mais breve possív
 
 Emendas à Convenção Internacional para a Prevenção de Poluição dez Águas de Mar pelos Óleos, 1954, e aos seus anexos
 
-ARTIGO I
+###### ARTIGO I
 
 O actual texto do número 1) é substituído pelo seguinte:
 
@@ -171,7 +175,7 @@ O actual texto do número 1) é substituído pelo seguinte:
 
 «Navio» significa uma embarcação de qualquer tipo, utilizada na navegação marítima, incluindo construções flutuantes que, com motor próprio ou rebocadas por outras, efectuem uma viagem por mar; e «navio-tanque» significa um navio no qual a maior parte do espaço para carga foi construída ou adaptada para o carregamento de líquidos a granel e que, de momento, apenas transporta óleo nos espaços destinados à carga.
 
-ARTIGO III
+###### ARTIGO III
 
 O actual texto do artigo III é substituído pelo seguinte:
 
@@ -203,17 +207,17 @@ i) A descarga de lastro proveniente de um tanque de carga que tenha sido limpo d
 
 ii) A descarga de óleos ou de misturas oleosas provenientes das cavernas da casa das máquinas, a qual se rege pelas disposições da alínea a) do presente artigo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 É suprimida a alínea c).
 
-ARTIGO V
+###### ARTIGO V
 
 O actual texto do artigo V é substituído pelo seguinte:
 
 O artigo III não se aplica às descargas de misturas oleosas provenientes das cavernas de um navio durante o período de doze meses a contar da data da entrada em vigor da presente Convenção no território de que esse navio depende nos termos do número 1) do artigo II.
 
-ARTIGO VII
+###### ARTIGO VII
 
 O actual texto do artigo VII é substituído pelo seguinte:
 
@@ -221,7 +225,7 @@ O actual texto do artigo VII é substituído pelo seguinte:
 
 2) Evitar-se-á, se possível, o transporte de água de lastro nos tanques de combustível.
 
-ARTIGO IX
+###### ARTIGO IX
 
 Os actuais textos dos números 1) e 2) são substituídos pelos seguintes:
 
@@ -261,7 +265,7 @@ iv) Descarga para o mar das águas das cavernas contendo óleos acumulados nas c
 
 No caso de descarga ou fuga de óleos ou misturas oleosas nos termos do artigo IV, serão consignados no livro do registo de óleos as circunstâncias e os motivos da descarga ou da fuga.
 
-ARTIGO X
+###### ARTIGO X
 
 O actual texto do número 2) é substituído pelo seguinte:
 

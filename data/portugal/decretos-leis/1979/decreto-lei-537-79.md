@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1979, 10º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 3478-(229) a 3478-(254)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30010/02290254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1979-230900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ceb437c6bf9c71175e2471d30c07a0bb1b79424d27c2953d26860ea7444113ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c5d2453d868175f80de40f0f4af3352ace4777d399981f9196727d08e5c01da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Código de Processo do Trabalho
+- Despedimento
+- Direito do Trabalho
+- Incapacidade Física
+- Indemnização
+- Multa
+- Pensão de Invalidez
+- Processo Civil
+- Processo Disciplinar
+- Processo Judicial
+- Processo Laboral
+- Processo Penal
+- Recurso
+- Trabalhador
+- Trabalho
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:329610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472099:por
+  label: "Prorrogada a data de entrada em vigor pela LEI.26/80.1980.07.26.AR, DR.IS [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-1980-472099
+  date: '1980-07-26'
+- type: amended_by
+  target: pt:dre:568102:por
+  label: "Prorrogada a data de entrada em vigor do Código de Processo do Trabalho aprovado pelo presente diploma, pela LEI.48/80.1980.12.26.AR\
+    \ DR.IS [297]4ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-1980-568102
+  date: '1980-12-26'
+- type: cites
+  target: pt:dre:167391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329610:por
+  label: "Revogado pelo DEC LEI.272-A/81.30.09.1981.MJ, DR.IS [225]Supl de 30.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-a-1981-329610
+  date: '1981-09-30'
 article_structure:
-  article_count: 198
-  section_count: 61
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 197
+  section_count: 64
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:01Z'
   warnings: []
   errors: []
 ---
@@ -180,23 +237,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Código de Processo do Trabalho, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código de Processo do Trabalho, que faz parte do presente decreto-lei.
 
-###### Art. 2.º As alterações que se façam sobre matéria do Código de Processo do Trabalho devem ser inscritas no lugar próprio deste diploma, mediante substituição dos artigos alterados, supressão das disposições a eliminar ou aditamento de novos preceitos.
+Art. 2.º As alterações que se façam sobre matéria do Código de Processo do Trabalho devem ser inscritas no lugar próprio deste diploma, mediante substituição dos artigos alterados, supressão das disposições a eliminar ou aditamento de novos preceitos.
 
-###### Art. 3.º Este diploma entra em vigor em 8 de Abril de 1980.
+Art. 3.º Este diploma entra em vigor em 8 de Abril de 1980.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Código de Processo do Trabalho
 
-# LIVRO I — Da acção
+## LIVRO I — Da acção
 
 ## TÍTULO I — Da acção em geral
 
@@ -928,7 +985,9 @@ O regime do julgamento dos recursos é o que resulta, com as necessárias adapta
 
 ## TÍTULO V — Processo de execução
 
-### CAPÍTULO I — Título executivo
+### CAPÍTULO I
+
+## Título executivo
 
 ###### Artigo 95.º — (Espécie de títulos executivos)
 
@@ -1594,7 +1653,7 @@ A liquidação e a partilha dos bens de instituições de previdência ou de org
 
 Em tudo o que não vai previsto nesta secção deve observar-se, na parte aplicável, o processo especial da liquidação em benefício de sócios, regulado no Código de Processo Civil.
 
-# LIVRO II — Do processo penal
+## LIVRO II — Do processo penal
 
 ## TÍTULO I — Da acção
 
@@ -1716,4 +1775,4 @@ Sendo o julgamento feito pelo juiz singular, só é admissível recurso da decis
 
 Às hipóteses não directamente previstas é aplicável, com as necessárias adaptações, o regime de processo de transgressão.
 
-**O Ministro da Justiça, Pedro de Lemos e Sousa Macedo.**
+O Ministro da Justiça, Pedro de Lemos e Sousa Macedo.

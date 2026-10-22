@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42972-1960-505405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15bb9073b71cb12e17c3e1aba8b5dd0fad289b53f059b4e5a0b984a646703df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d99e19d286336042892097b2a1d54b43ab0c219dd4bd275fdc7b55701d6c1718
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola do Magistério Primário
+- Pessoal Docente
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:439795:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:19Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +99,8 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os professores das escolas do magistério primário nomeados no corrente ano lectivo para o exercício das funções consideradas no [Decreto-Lei n.º 42624](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42624-1959-439795), de 31 de Outubro de 1959, serão abonados dos vencimentos correspondentes às suas funções desde a data da entrada em exercício, ainda que esta se haja verificado anteriormente à entrada em vigor do referido decreto-lei.
+Artigo único. Os professores das escolas do magistério primário nomeados no corrente ano lectivo para o exercício das funções consideradas no [Decreto-Lei n.º 42624](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42624-1959-439795), de 31 de Outubro de 1959, serão abonados dos vencimentos correspondentes às suas funções desde a data da entrada em exercício, ainda que esta se haja verificado anteriormente à entrada em vigor do referido decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo.

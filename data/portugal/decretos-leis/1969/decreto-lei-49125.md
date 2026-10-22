@@ -49,36 +49,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49125-1969-199588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2b4c9ad589c8cf8583ad061b43d16396288c575749f9359ed302f91927e7dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b671b7977e33bf5ddac772f0ade0f1fa4f1ff57ab6d7193f70eea086437c6c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Cemitério
+- França
+- Guerra
+- Ministério do Exército
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:181448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:03Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +102,18 @@ Nos termos do artigo 3.º do referido decreto-lei, foi o aludido quadro preenchi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério do Exército a pagar a remuneração mensal de 4000$00 ao guarda do cemitério português de Richebourg l'Avoué, primeiro-cabo n.º 176/56/Rd, Francisco dos Santos Duarte, desde o dia 18 de Outubro de 1962 até à data da publicação da sua nomeação no Diário do Governo e nos anos futuros.
+Artigo 1.º É autorizado o Ministério do Exército a pagar a remuneração mensal de 4000$00 ao guarda do cemitério português de Richebourg l'Avoué, primeiro-cabo n.º 176/56/Rd, Francisco dos Santos Duarte, desde o dia 18 de Outubro de 1962 até à data da publicação da sua nomeação no Diário do Governo e nos anos futuros.
 
 § 1.º Os encargos resultantes da aplicação do disposto neste artigo, na parte relativa a anos anteriores ao da publicação da nomeação no Diário do Governo, e que não tenham sido ainda satisfeitos, sê-lo-ão por conta da verba do orçamento do Ministério do Exército destinada a «Despesas de anos económicos findos».
 
 § 2.º São consideradas legalizadas as despesas respeitantes a abonos satisfeitos em 1963.
 
-###### Art. 2.º A inscrição do referido guarda na Caixa Geral de Aposentações é reportada à data de 18 de Outubro de 1962.
+Art. 2.º A inscrição do referido guarda na Caixa Geral de Aposentações é reportada à data de 18 de Outubro de 1962.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 4 de Julho de 1969.**
+Promulgado em 4 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

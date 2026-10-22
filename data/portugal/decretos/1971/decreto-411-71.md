@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/411-1971-632736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c58c1f72d14be48f73d33c151adb205d0951464ebc93426269300936052c3e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd608edb9e27124b141654822b6229163c62975aef8e639adf53973b9f8b773e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:21Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ Nestes termos, considerando o disposto na base XXXIII da [Lei n.º 2144](https:/
 
 Usando da faculdade conferida pelo n.º 3 do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O n.º 2 do artigo 58.º do [Decreto n.º 445/70](https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342), de 23 de Setembro, passa a ter a seguinte redacção:
+Artigo único. O n.º 2 do artigo 58.º do [Decreto n.º 445/70](https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342), de 23 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 58.º - 1. ...
 
@@ -110,8 +122,8 @@ Usando da faculdade conferida pelo n.º 3 do artigo 109.º da Constituição, o 
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 6 de Setembro de 1971.**
+Promulgado em 6 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

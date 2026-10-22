@@ -47,40 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/604-1975-312418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db57859493ffef91d2201a2d63f2a411fd6f0a5fbad99dcf24740b8a8195d8a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0c80836000217110b0b22ac443d2be8b182120662de4bda5ee36779fe874cef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Certidão
+- Emolumento
+- Identificação Civil
+- Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:409296:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:08Z'
   warnings: []
   errors: []
 ---
@@ -109,21 +114,21 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Em todos os casos em que seja exigível certidão de narrativa simples de registo de nascimento poderá o interessado fazê-las substituir por pública-forma do bilhete de identidade válido ou de cédula pessoal, desde que estes contenham os elementos para o efeito necessários.
+Artigo 1.º Em todos os casos em que seja exigível certidão de narrativa simples de registo de nascimento poderá o interessado fazê-las substituir por pública-forma do bilhete de identidade válido ou de cédula pessoal, desde que estes contenham os elementos para o efeito necessários.
 
-###### Art. 2.º A pública-forma a que alude o artigo anterior será exarada por qualquer cartório notarial ou conservatória do registo civil sobre impresso que obedecerá ao modelo anexo ao presente diploma, o qual será preenchido pelo requerente, ainda que não seja o titular do bilhete de identidade ou da cédula pessoal exibidos.
+Art. 2.º A pública-forma a que alude o artigo anterior será exarada por qualquer cartório notarial ou conservatória do registo civil sobre impresso que obedecerá ao modelo anexo ao presente diploma, o qual será preenchido pelo requerente, ainda que não seja o titular do bilhete de identidade ou da cédula pessoal exibidos.
 
-###### Art. 3.º - 1. Pela extracção da pública-forma nos termos deste decreto-lei será cobrado o emolumento único de 10$00, acrescido do custo do impresso bem como da taxa de reembolso e do selo previsto na Tabela Geral do Imposto do Selo.
+Art. 3.º - 1. Pela extracção da pública-forma nos termos deste decreto-lei será cobrado o emolumento único de 10$00, acrescido do custo do impresso bem como da taxa de reembolso e do selo previsto na Tabela Geral do Imposto do Selo.
 
 2. A pedido do requerente, deverá o funcionário preencher o impresso a que alude o artigo 2.º, cobrando-se então a mais o emolumento de 7$50.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 17 de Outubro de 1975.**
+Promulgado em 17 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO — Modelo de impresso a que se refere o artigo 2.º do presente diploma
 
@@ -165,4 +170,4 @@ O ... (ver nota 7)
 
 (nota 8) Assinatura do funcionário.
 
-**O Ministro da Justiça, João de Deus Pinheiro Farinha.**
+O Ministro da Justiça, João de Deus Pinheiro Farinha.

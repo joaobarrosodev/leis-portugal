@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 173/1975, 1º Suplemento, Série I de 1975-07-29
   number: '173'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1052-(61) a 1052-(63)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/17301/00610063.pdf
 entry_into_force_dates: []
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-b-1975-346076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54a8894f7c7b416455d5b51788596bd11ceeddbbef8432827b335c0a995d863c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03106f03da6d9f8357866c3955b63586e9b96d77dd42f5e46c182c1cb7058f80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa Agrícola
+- Crédito Agrícola
+- Crédito Agrícola de Emergência
+- Exploração Agrícola
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:278704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264717:por
+  label: "Alterado o artigo 3.º pelo DEC LEI.541-B/75.27.09.1975.MAP, DG.IS [224]2ºSupl de 27.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/541-b-1975-264717
+  date: '1975-09-27'
+- type: amended_by
+  target: pt:dre:502790:por
+  label: "Alterado o artigo 2.º pelo DEC LEI.262/76.08.04.1976.MAP, DG.IS [84] de 08.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1976-502790
+  date: '1976-04-08'
+- type: cites
+  target: pt:dre:154874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:428837:por
+  label: Rectificado pela DECL.DD8633.28.08.1975.PCM, DG.IS [198]2ºSupl de 28.08.1975
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-428837
+  date: '1975-08-28'
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º pela LEI.77/77.1977.09.29.PCM DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:14Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +151,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As explorações agrícolas ou pecuárias geridas por trabalhadores rurais e pequenos agricultores sob forma cooperativa e bem assim quaisquer outras entidades de natureza associativa de objecto e composição social equiparáveis poderão beneficiar da assistência técnica e financeira do Estado, mesmo antes da sua definitiva regularização estatutária e legal, desde que tenham sido reconhecidas como unidades colectivas de produção, nos termos previstos neste diploma.
+Artigo 1.º As explorações agrícolas ou pecuárias geridas por trabalhadores rurais e pequenos agricultores sob forma cooperativa e bem assim quaisquer outras entidades de natureza associativa de objecto e composição social equiparáveis poderão beneficiar da assistência técnica e financeira do Estado, mesmo antes da sua definitiva regularização estatutária e legal, desde que tenham sido reconhecidas como unidades colectivas de produção, nos termos previstos neste diploma.
 
-###### Art. 2.º O reconhecimento das unidades colectivas de produção compete ao Secretário de Estado da Estruturação Agrária, sob proposta do Centro Regional da Reforma Agrária, devidamente informada com parecer técnico dos serviços competentes do Ministério, verificados os seguintes requisitos:
+Art. 2.º O reconhecimento das unidades colectivas de produção compete ao Secretário de Estado da Estruturação Agrária, sob proposta do Centro Regional da Reforma Agrária, devidamente informada com parecer técnico dos serviços competentes do Ministério, verificados os seguintes requisitos:
 
 1) Requerimento a pedir o reconhecimento dirigido ao Secretário de Estado da Estruturação Agrária;
 
@@ -121,19 +167,19 @@ c) A identificação de todos os interessados, com indicação da profissão exe
 
 3) Plano de produção.
 
-###### Art. 3.º - 1. As unidades colectivas de produção poderão beneficiar de crédito para melhoramentos agrícolas e fundo de maneio, nas mesmas condições das cooperativas agrícolas, e ainda do crédito agrícola de emergência, nos termos do [Decreto-Lei n.º 25/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1975-159562), de 23 de Maio.
+Art. 3.º - 1. As unidades colectivas de produção poderão beneficiar de crédito para melhoramentos agrícolas e fundo de maneio, nas mesmas condições das cooperativas agrícolas, e ainda do crédito agrícola de emergência, nos termos do [Decreto-Lei n.º 25/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1975-159562), de 23 de Maio.
 
 2. Os serviços competentes do Ministério da Agricultura e Pescas ficam a dispor dos poderes necessários para acompanhar a gestão do crédito concedido e velar pela sua correcta aplicação.
 
-###### Art. 4.º Para a utilização do crédito agrícola de emergência, as unidades peticionárias poderão abrir nas entidades intermediárias referidas no [Decreto-Lei n.º 251/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1975-336081) uma conta corrente, em montante justificado pelo plano de produção e autorizado pelo Serviço de Crédito de Emergência.
+Art. 4.º Para a utilização do crédito agrícola de emergência, as unidades peticionárias poderão abrir nas entidades intermediárias referidas no [Decreto-Lei n.º 251/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1975-336081) uma conta corrente, em montante justificado pelo plano de produção e autorizado pelo Serviço de Crédito de Emergência.
 
-###### Art. 5.º O artigo 1.º, os §§ 1.º, 2.º, 3.º e 4.º do artigo 10.º e o artigo 20.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passam a ter a seguinte redacção:
+Art. 5.º O artigo 1.º, os §§ 1.º, 2.º, 3.º e 4.º do artigo 10.º e o artigo 20.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passam a ter a seguinte redacção:
 
-###### Artigo 1.º A assistência técnica e financeira a prestar pelo Estado, nos termos da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, visa a execução em propriedades rústicas de melhoramentos fundiários de reconhecido interesse económico e social que tenham por fim manter ou aumentar a capacidade produtiva da terra, facilitar a sua exploração ou valorizar os produtos agrícolas e ainda a obtenção de fundos de maneio necessários à gestão da empresa agrícola.
+Artigo 1.º A assistência técnica e financeira a prestar pelo Estado, nos termos da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, visa a execução em propriedades rústicas de melhoramentos fundiários de reconhecido interesse económico e social que tenham por fim manter ou aumentar a capacidade produtiva da terra, facilitar a sua exploração ou valorizar os produtos agrícolas e ainda a obtenção de fundos de maneio necessários à gestão da empresa agrícola.
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 1.º Estes empréstimos podem ser concedidos com garantia hipotecária ou fiança bancária ou, no caso de cooperativas ou empresas agrícolas submetidas ao regime de intervenção estatal, com consignação de receitas e penhor, sendo neste último caso aplicável o regime estabelecido no artigo 1.º e seus parágrafos do [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939.
 
@@ -147,16 +193,16 @@ Neste último caso o devedor fica fiel depositário dos bens dados em penhor, n�
 
 ...
 
-###### Art. 20.º As condições gerais dos empréstimos, incluindo taxas de juros e prazos, serão fixadas de harmonia com critérios a estabelecer pelo Banco de Portugal, sob proposta do Ministério da Agricultura e Pescas.
+Art. 20.º As condições gerais dos empréstimos, incluindo taxas de juros e prazos, serão fixadas de harmonia com critérios a estabelecer pelo Banco de Portugal, sob proposta do Ministério da Agricultura e Pescas.
 
-###### Art. 6.º As dúvidas suscitadas na interpretação e execução do presente diploma, nomeadamente nos critérios a seguir na fixação da taxa de juros e prazos, serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 6.º As dúvidas suscitadas na interpretação e execução do presente diploma, nomeadamente nos critérios a seguir na fixação da taxa de juros e prazos, serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 7.º Este decreto-lei entra imediatamente em vigor.
+Art. 7.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - Fernando Oliveira Baptista.
 
-**Promulgado em 30 de Julho de 1975.**
+Promulgado em 30 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

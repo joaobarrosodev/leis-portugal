@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/00300/00140014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1977-492684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1eb42e3dc85000f449e1bc317bcdb21d73a49556aa6e7cea9671a609df57e50e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c803d9bb5625c333448f3159147359ed10ec22a6311d50dc9de63d540fa8de0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ALTO Comissário para os Desalojados
+- Comissariado para os Desalojados
+- Comissário
+- Diretor
+- Formas de Provimento
+- Instituto de Apoio ao Retorno de Nacionais
+- Nomeação
+- Pessoal Dirigente
+- Subdiretor
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:161489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:34Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +128,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1. O Alto-Comissário é nomeado por despacho do Primeiro-Ministro, perante quem toma posse.
+Art. 3.º - 1. O Alto-Comissário é nomeado por despacho do Primeiro-Ministro, perante quem toma posse.
 
 2. O Comissário e Subcomissário são nomeados por despacho do Primeiro-Ministro, sob proposta do Alto-Comissário, e perante ele tomam posse.
 
@@ -107,18 +138,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. O Subcomissário, que será nomeado em comissão de serviço, tem categoria correspondente à letra A da tabela inserta no artigo 1.º do [Decreto-Lei n.º 506/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272), de 18 de Setembro.
 
-###### Art. 2.º Os artigos 14.º e 19.º do [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489), de 31 de Março, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 14.º e 19.º do [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489), de 31 de Março, passam a ter a seguinte redacção:
 
-###### Art. 14.º Os lugares de director e de subdirector serão providos pelo Primeiro-Ministro, sob proposta do Alto-Comissário para os Desalojados, e exercidos em comissão de serviço.
+Art. 14.º Os lugares de director e de subdirector serão providos pelo Primeiro-Ministro, sob proposta do Alto-Comissário para os Desalojados, e exercidos em comissão de serviço.
 
-###### Art. 19.º O pessoal do Instituto será provido pelo Alto-Comissário para os Desalojados e recrutado, sempre que possível, de entre funcionários adidos, nos termos do artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
+Art. 19.º O pessoal do Instituto será provido pelo Alto-Comissário para os Desalojados e recrutado, sempre que possível, de entre funcionários adidos, nos termos do artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
 
-###### Art. 3.º O presente diploma produz efeitos desde 10 de Setembro de 1976.
+Art. 3.º O presente diploma produz efeitos desde 10 de Setembro de 1976.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 20 de Dezembro de 1976.**
+Promulgado em 20 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

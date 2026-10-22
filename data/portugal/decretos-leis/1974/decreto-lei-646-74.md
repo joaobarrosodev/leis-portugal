@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27100/14141415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/646-1974-466041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba993cb4de7d66844d15d1d8c7b102646a8d17f6b7d07d1a40eaa7c2901c91f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 866ecb1c1a93d7ec594454e6371739494371982b553b28bafe90e4c2c56cb74a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior General das Forças Armadas
+- Definição de Competências
+- Força Aérea
+- Forças Armadas
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:657447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480767:por
+  label: "Alterados os nºs 3 e 4 do art. 2º pelo DEC LEI.1/76.02.01.1976.CR, DG.IS [1] de 02.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-1976-480767
+  date: '1976-01-02'
+- type: cites
+  target: pt:dre:411350:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657447:por
+  label: "Revogado pelo DEC LEI.51/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1993-657447
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:55Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +114,7 @@ Tornando-se, consequentemente, necessário proceder à reorganização da Força
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Força Aérea, como ramo das forças armadas, tem por missão fundamental cooperar na defesa militar da Nação, competindo-lhe especialmente:
+Artigo 1.º - 1. A Força Aérea, como ramo das forças armadas, tem por missão fundamental cooperar na defesa militar da Nação, competindo-lhe especialmente:
 
 a) Aprontar as forças aéreas necessárias para a realização efectiva:
 
@@ -144,7 +164,7 @@ j) Oficinas Gerais de Material Aeronáutico;
 
 l) Museu do Ar.
 
-###### Art. 2.º - 1. O Chefe do Estado-Maior da Força Aérea (CEMFA), na imediata dependência do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA), é investido de autoridade para conduzir superiormente todos os assuntos e actividades que à Força Aérea competem e é responsável pela sua eficiência.
+Art. 2.º - 1. O Chefe do Estado-Maior da Força Aérea (CEMFA), na imediata dependência do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA), é investido de autoridade para conduzir superiormente todos os assuntos e actividades que à Força Aérea competem e é responsável pela sua eficiência.
 
 2. O CEMFA tem, em relação aos organismos que constituem a Força Aérea, a competência legislativa, administrativa e financeira que compete ao cargo de ministro.
 
@@ -154,7 +174,7 @@ l) Museu do Ar.
 
 5. O CEMFA dispõe, como órgão de apoio directo, do gabinete do CEMFA.
 
-###### Art. 3.º - 1. O Estado-Maior da Força Aérea é um órgão de apoio do CEMFA com funções de execução do planeamento, direcção e contrôle das actividades correntes da Força Aérea.
+Art. 3.º - 1. O Estado-Maior da Força Aérea é um órgão de apoio do CEMFA com funções de execução do planeamento, direcção e contrôle das actividades correntes da Força Aérea.
 
 2. O Estado-Maior da Força Aérea compreende:
 
@@ -166,7 +186,7 @@ c) Órgãos de apoio geral.
 
 3. Compete ao CEMFA a definição, em portaria, da organização interna e das funções específicas do Estado-Maior da Força Aérea.
 
-###### Art. 4.º - 1. A Inspecção-Geral da Força Aérea é um órgão de análise e contrôle superior, sem carácter executivo, do funcionamento da Força Aérea. Compete-lhe fiscalizar o cumprimento das disposições legais e regulamentares respeitantes à Força Aérea e das decisões do CEMFA e propor medidas tendentes ao constante aperfeiçoamento da Força Aérea.
+Art. 4.º - 1. A Inspecção-Geral da Força Aérea é um órgão de análise e contrôle superior, sem carácter executivo, do funcionamento da Força Aérea. Compete-lhe fiscalizar o cumprimento das disposições legais e regulamentares respeitantes à Força Aérea e das decisões do CEMFA e propor medidas tendentes ao constante aperfeiçoamento da Força Aérea.
 
 2. A Inspecção-Geral da Força Aérea compreende:
 
@@ -180,7 +200,7 @@ d) Órgãos de apoio geral.
 
 3. Compete ao CEMFA a definição, em portaria, das funções específicas e organização interna da Inspecção-Geral da Força Aérea.
 
-###### Art. 5.º - 1. O Gabinete de Planeamento e Administração da Força Aérea, criado por este diploma, é um órgão consultivo do CEMFA destinado ao estudo de planos e programas de evolução da Força Aérea, com vista à sua adaptação às necessidades futuras inerentes ao cumprimento da missão, e ao estudo da aplicação dos recursos atribuídos à Força Aérea por forma a promover o seu melhor aproveitamento.
+Art. 5.º - 1. O Gabinete de Planeamento e Administração da Força Aérea, criado por este diploma, é um órgão consultivo do CEMFA destinado ao estudo de planos e programas de evolução da Força Aérea, com vista à sua adaptação às necessidades futuras inerentes ao cumprimento da missão, e ao estudo da aplicação dos recursos atribuídos à Força Aérea por forma a promover o seu melhor aproveitamento.
 
 2. O Gabinete de Planeamento e Administração da Força Aérea compreende:
 
@@ -192,14 +212,14 @@ c) Órgãos de apoio geral.
 
 3. Compete ao CEMFA a definição, em portaria, das funções e organização interna do Gabinete de Planeamento e Administração.
 
-###### Art. 6.º - 1. Com as alterações decorrentes do presente diploma é mantida a legislação anteriormente publicada em relação a organismos e actividades da Secretaria de Estado da Aeronáutica.
+Art. 6.º - 1. Com as alterações decorrentes do presente diploma é mantida a legislação anteriormente publicada em relação a organismos e actividades da Secretaria de Estado da Aeronáutica.
 
 2. Os ajustamentos que se revelem necessários nos diplomas orgânicos da Força Aérea serão regulados por portaria do CEMFA.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 7 de Novembro de 1974.**
+Promulgado em 7 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

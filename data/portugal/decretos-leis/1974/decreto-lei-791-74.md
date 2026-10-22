@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 6º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 1670-(118) a 1670-(120)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30306/01180120.pdf
 entry_into_force_dates: []
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/791-1974-235936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a16af701d00ee2826fd59255be6bee794d661d9a48dadfb252ac547b66123009
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21c735269f67f388c8b63a6fd97c14cbdb6912b0cee388bdeb6c26496a2c7f28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Gabinete Coordenador para a Cooperação
+- Orgânica
+- Presidência da República
 relationships:
 - type: amended_by
   target: pt:dre:283712:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:501459:por
+  label: "Integrado no Ministério da Cooperação o Gabinete Coordenador para a Cooperação, criado pelo presente diploma, pelo\
+    \ DEC LEI.532-A/75.25.09.1975.PCM, DG.IS [222-2ºSupl] de 25.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/532-a-1975-501459
+  date: '1975-09-25'
+- type: amended_by
+  target: pt:dre:283712:por
+  label: "Extinto, a partir de 03.01.1984, o Gabinete Coordenador para a Cooperação, pelo DEC LEI.439-A/83.23.12.1983.PCM,\
+    \ DR.IS [294-Supl] de 23.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/439-a-1983-283712
+  date: '1983-12-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:37Z'
   warnings: []
   errors: []
 ---
@@ -194,10 +210,10 @@ Sobre proposta da direcção do Gabinete, o Presidente da República poderá aut
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos.

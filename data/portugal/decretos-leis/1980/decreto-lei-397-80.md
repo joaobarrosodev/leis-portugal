@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1980-461816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 374e9dbc990326ebf815fe421971aafd894d559c64db49344bd7d7ac33378838
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35c91b33a0dc0ba2532beeb8bb729336c7e7b6166a68392a017ef4129bd9371e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- PSP
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513436:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:04Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +103,16 @@ Tendo-se reconhecido a conveniência de complementar e de alterar algumas normas
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É acrescentado ao artigo 21.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, a seguinte alínea:
+Artigo 1.º É acrescentado ao artigo 21.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, a seguinte alínea:
 
 l) Quaisquer outros emolumentos.
 
-###### Art. 2.º São revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 43421](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), de 22 de Dezembro de 1960, cujas disposições sobre a competência de autorização de despesas na referida instituição passaram a ser abrangidas pelo [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho.
+Art. 2.º São revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 43421](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), de 22 de Dezembro de 1960, cujas disposições sobre a competência de autorização de despesas na referida instituição passaram a ser abrangidas pelo [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 21 de Agosto de 1980.**
+Promulgado em 21 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

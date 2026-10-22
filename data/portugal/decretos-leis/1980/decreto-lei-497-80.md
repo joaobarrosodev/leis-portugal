@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1980-462423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf5ed4facf2de03559e09fe793bc1b6dde90c47870b235ece9443fdbbbc73a00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0925a250ff770875cbab0ee68fd0481a2a72ff6dc54f4a8c6114408bdb22663
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Centro Nacional de Reconhecimento e Ordenamento Agrário
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:680640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:680640:por
+  label: "Extinto o Centro Nacional de Reconhecimento e Ordenamento Agrário, pelo LEI.101/93.02.04.1993.MA, DR.IS-A [78] de\
+    \ 02.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-1993-680640
+  date: '1993-04-02'
+- type: amended_by
+  target: pt:dre:680642:por
+  label: "Extinto o Centro Nacional de Reconhecimento e Ordenamento Agrário, pelo DEC LEI.94/93.02.04.1993.MA, DR.IS-A [78]\
+    \ de 02.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1993-680642
+  date: '1993-04-02'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402718:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:153129:por
+  label: "Revogado pelo DEC LEI.5-A/88.14.01.1988.MAPA, DR.IS [11]2ºSupl de 14.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1988-153129
+  date: '1988-01-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:45Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +146,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 01.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para um novo serviço do Instituto Nacional de Investigação Agrária, designado por Centro Nacional de Reconhecimento e Ordenamento Agrário (CNROA), equiparado, para a todos os efeitos legais, a estação nacional de I-D, as atribuições relativas às actividades científicas de reconhecimento e ordenamento agrário, até agora cometidas à Direcção-Geral de Hidráulica e Engenharia Agrícola.
+Artigo 1.º São transferidas para um novo serviço do Instituto Nacional de Investigação Agrária, designado por Centro Nacional de Reconhecimento e Ordenamento Agrário (CNROA), equiparado, para a todos os efeitos legais, a estação nacional de I-D, as atribuições relativas às actividades científicas de reconhecimento e ordenamento agrário, até agora cometidas à Direcção-Geral de Hidráulica e Engenharia Agrícola.
 
-###### Art. 2.º O CNROA tem atribuições de investigação e desenvolvimento experimental no domínio do reconhecimento das potencialidades e do ordenamento agrário do território, com maior incidência no estudo e cartografia dos solos, sua utilização actual e capacidade de utilização intrínseca, conducentes ao melhor aproveitamento do meio agro-ecológico e à defesa e melhoramento dos solos.
+Art. 2.º O CNROA tem atribuições de investigação e desenvolvimento experimental no domínio do reconhecimento das potencialidades e do ordenamento agrário do território, com maior incidência no estudo e cartografia dos solos, sua utilização actual e capacidade de utilização intrínseca, conducentes ao melhor aproveitamento do meio agro-ecológico e à defesa e melhoramento dos solos.
 
-###### Art. 3.º O CNROA compreende os departamentos de:
+Art. 3.º O CNROA compreende os departamentos de:
 
 a) Génese, Classificação e Cartografia dos Solos;
 
@@ -126,7 +162,7 @@ d) Ordenamento Agrário;
 
 e) Cartografia e Estatística.
 
-###### Art. 4.º Ao Departamento de Génese, Classificação e Cartografia dos Solos compete:
+Art. 4.º Ao Departamento de Génese, Classificação e Cartografia dos Solos compete:
 
 a) Estudar os solos nos seus aspectos morfológicos, físicos, químicos e genéticos e elaborar a Carta dos Solos de Portugal;
 
@@ -144,7 +180,7 @@ g) Participar em estudos necessários a planos de urbanização e de ordenamento
 
 h) Proceder de modo sistemático à colheita de perfis típicos das diversas unidades pedológicas (monolitos) com o objectivo de se constituir uma colecção representativa.
 
-###### Art. 5.º Ao Departamento de Defesa e Melhoramento do Solo compete:
+Art. 5.º Ao Departamento de Defesa e Melhoramento do Solo compete:
 
 a) Promover e colaborar em acções tendentes à defesa do solo, propondo as medidas legislativas convenientes;
 
@@ -158,7 +194,7 @@ e) Efectuar a caracterização dos solos a submeter a beneficiação por regadio
 
 f) Dar parecer sobre estudos de caracterização dos solos a submeter a projectos de beneficiação sob financiamento do Estado, a pedido dos organismos e entidades competentes.
 
-###### Art. 6.º Ao Departamento de Agro-Ecologia e Reconhecimento da Utilização do Solo compete:
+Art. 6.º Ao Departamento de Agro-Ecologia e Reconhecimento da Utilização do Solo compete:
 
 a) Caracterizar e delimitar cartograficamente zonas naturais e estações ecológicas por integração de todas as informações com significado ecológico;
 
@@ -166,7 +202,7 @@ b) Elaborar e actualizar a Carta Agrícola e Florestal de Portugal por reconheci
 
 c) Efectuar o levantamento de cartas de utilização actual ou específica do solo em escalas diversas.
 
-###### Art. 7.º Ao Departamento de Ordenamento Agrário compete:
+Art. 7.º Ao Departamento de Ordenamento Agrário compete:
 
 a) Executar, por integração dos elementos disponíveis, a carta síntese de ordenamento agrário (Carta de Ordenamento Agrário de Portugal);
 
@@ -174,7 +210,7 @@ b) Efectuar cartas de ordenamento agrário pormenorizadas de áreas envolvidas e
 
 c) Executar, com a colaboração de outros serviços do Ministério da Agricultura e Pescas, cartas de ordenamento de componentes ecológicos e sócio-económicos (cartas de avaliação agrária), nas escalas que se entendam convenientes.
 
-###### Art. 8.º Ao Departamento de Cartografia e Estatística compete:
+Art. 8.º Ao Departamento de Cartografia e Estatística compete:
 
 a) Assegurar a publicação das cartas elaboradas pelos diversos departamentos do CNROA e, conforme decisão superior, por outros organismos do Ministério da Agricultura e Pescas;
 
@@ -202,13 +238,13 @@ m) Garantir o armazenamento em boas condições dos trabalhos publicados e a pub
 
 n) Propor a venda ou cedência das diversas cartas e outras publicações.
 
-###### Art. 9.º O CNROA é dirigido por um director, equiparado, para todos os efeitos legais, a director de serviços.
+Art. 9.º O CNROA é dirigido por um director, equiparado, para todos os efeitos legais, a director de serviços.
 
-###### Art. 10.º Os chefes de departamento serão designados nos termos do n.º 4 do artigo 86.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
+Art. 10.º Os chefes de departamento serão designados nos termos do n.º 4 do artigo 86.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
 
-###### Art. 11.º São transferidas para o Centro Nacional de Reconhecimento e Ordenamento Agrário as atribuições anteriormente cometidas ao ex-Serviço de Reconhecimento e Ordenamento Agrário, que o [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, fez transitar para a Direcção-Geral de Hidráulica e Engenharia Agrícola, e ao ex-Departamento de Geografia Agrária da Estação Agronómica Nacional, presentemente incluído no Departamento de Pedologia desta Estação.
+Art. 11.º São transferidas para o Centro Nacional de Reconhecimento e Ordenamento Agrário as atribuições anteriormente cometidas ao ex-Serviço de Reconhecimento e Ordenamento Agrário, que o [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, fez transitar para a Direcção-Geral de Hidráulica e Engenharia Agrícola, e ao ex-Departamento de Geografia Agrária da Estação Agronómica Nacional, presentemente incluído no Departamento de Pedologia desta Estação.
 
-###### Art. 12.º Por força do disposto no artigo 3.º, são introduzidas as seguintes alterações na orgânica da Direcção-Geral de Hidráulica e Engenharia Agrícola, estabelecida pelo Decreto Regulamentar n.º 39-/79, de 31 de Julho:
+Art. 12.º Por força do disposto no artigo 3.º, são introduzidas as seguintes alterações na orgânica da Direcção-Geral de Hidráulica e Engenharia Agrícola, estabelecida pelo Decreto Regulamentar n.º 39-/79, de 31 de Julho:
 
 a) É extinta a Direcção de Serviços de Solos e Agro-Ecologia;
 
@@ -216,34 +252,34 @@ b) É criada na Direcção de Serviços de Hidráulica Agrícola uma Divisão de
 
 c) À Divisão de Cartografia da Direcção de Serviços de Cartografia e Cálculo deixa de competir a preparação das folhas da Carta Agrícola e Florestal, da Carta dos Solos de Portugal e da Carta de Capacidade de Uso dos Solos.
 
-###### Art. 13.º - 1 - O contingente de pessoal do Instituto Nacional de Investigação Agrária constante do mapa anexo ao [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho, é aumentado das unidades constantes do mapa I anexo a este diploma.
+Art. 13.º - 1 - O contingente de pessoal do Instituto Nacional de Investigação Agrária constante do mapa anexo ao [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho, é aumentado das unidades constantes do mapa I anexo a este diploma.
 
 2 - São abatidas no contingente de pessoal da Direcção-Geral de Hidráulica e Engenharia Agrícola constante do mapa anexo ao [Decreto Regulamentar n.º 39-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718), de 31 de Julho, as unidades enumeradas no mapa II anexo a este diploma.
 
 3 - O pessoal necessário ao funcionamento do CNROA e que à data da entrada em vigor deste diploma se encontra colocado e a prestar serviço nas Direcções de Serviços de Solos e Agro-Ecologia e de Cartografia e Cálculo, da Direcção-Geral de Hidráulica e Engenharia Agrícola, transita, mediante despacho do Ministro da Agricultura e Pescas, para o Instituto Nacional de Investigação Agrária.
 
-###### Art. 14.º Todo o equipamento, maquinaria e material de transporte afecto, presentemente, à Direcção de Serviços de Solos e Agro-Ecologia, bem como o que se encontra a cargo da Direcção de Serviços de Cartografia e Cálculo, que se relacione com as tarefas cometidas ao Departamento de Cartografia e Estatística do CNROA, e ainda toda a documentação e trabalhos publicados, especificamente o contingente de cartas em armazém, transitam para o Instituto Nacional de Investigação Agrária mediante relações de cadastro devidamente discriminadas e autenticadas.
+Art. 14.º Todo o equipamento, maquinaria e material de transporte afecto, presentemente, à Direcção de Serviços de Solos e Agro-Ecologia, bem como o que se encontra a cargo da Direcção de Serviços de Cartografia e Cálculo, que se relacione com as tarefas cometidas ao Departamento de Cartografia e Estatística do CNROA, e ainda toda a documentação e trabalhos publicados, especificamente o contingente de cartas em armazém, transitam para o Instituto Nacional de Investigação Agrária mediante relações de cadastro devidamente discriminadas e autenticadas.
 
-###### Art. 15.º As instalações onde funcionava o ex-Serviço de Reconhecimento e Ordenamento Agrário passam para a total responsabilidade do Instituto Nacional de Investigação Agrária, cabendo a este organismo a satisfação de todos os encargos a elas inerentes a partir da vigência deste diploma.
+Art. 15.º As instalações onde funcionava o ex-Serviço de Reconhecimento e Ordenamento Agrário passam para a total responsabilidade do Instituto Nacional de Investigação Agrária, cabendo a este organismo a satisfação de todos os encargos a elas inerentes a partir da vigência deste diploma.
 
-###### Art. 16.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas disponibilidades das verbas orçamentadas para a Direcção-Geral de Hidráulica e Engenharia Agrícola, que servirão de contrapartida às inscrições que se mostrem necessárias no orçamento do Instituto Nacional de Investigação Agrária.
+Art. 16.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas disponibilidades das verbas orçamentadas para a Direcção-Geral de Hidráulica e Engenharia Agrícola, que servirão de contrapartida às inscrições que se mostrem necessárias no orçamento do Instituto Nacional de Investigação Agrária.
 
-###### Art. 17.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Agricultura e Pescas e do membro do Governo que tiver a seu cargo a função pública, quando estiverem em causa matérias das respectivas competências.
+Art. 17.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Agricultura e Pescas e do membro do Governo que tiver a seu cargo a função pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 18.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação, efectuando-se a sua execução de harmonia com a orientação que vier a ser definida por despacho do Ministro da Agricultura e Pescas.
+Art. 18.º O presente diploma entrará em vigor no dia seguinte ao da sua publicação, efectuando-se a sua execução de harmonia com a orientação que vier a ser definida por despacho do Ministro da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
 
-**Promulgado em 10 de Outubro de 1980.**
+Promulgado em 10 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o n.º 1 do artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf)
 
 Mapa II a que se refere o n.º 2 do artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24300/34813485.pdf)

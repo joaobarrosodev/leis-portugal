@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26900/29892991.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1979-367609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ad3500ab75c36232e8395a19dc409b07b21267cabac0ade21b2ec0469f75da6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 015fe9a852e47810db1a627e395d47e3411765906be0884e1ec09a8320b14834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Regime Jurídico
+- TAXA de JURO
+- Venda a Prestações
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "910921 - REVOGADOS OS ARTIGOS 1 A 3, 5 A 8, 11 E 12, NUMEROS 5 E 6 DO ARTIGO 13 E ARTIGO 15 PELO DECRETO LEI 359/91,\
+    \ PUBLICADO NO DR. IS-A, 218. R\0218. R\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:517181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389025:por
+  label: "Alterado o art. 13.º, pelo DEC LEI.67/81.1981.04.06.MFP DR.IS [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1981-389025
+  date: '1981-04-06'
+- type: amended_by
+  target: pt:dre:218901:por
+  label: "Alterado o art. 7.º, pelo DEC LEI.227/86.1986.08.13.MF DR.IS [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1986-218901
+  date: '1986-08-13'
+- type: cites
+  target: pt:dre:314912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633724:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517181:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 67/81, de 06-abr, Dec Lei 227/86, de 13-ago, e Dec Lei 359/91,\
+    \ de 21-set, pelo DEC LEI.63/94.1994.02.28.MF, DR.IS-A [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-1994-517181
+  date: '1994-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:07Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +137,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As vendas a prestações realizadas por comerciantes, no exercício do seu comércio, de coisas móveis corpóreas não consumíveis, produzidas em território nacional ou importadas do estrangeiro, que vierem a ser designadas pelo Governo nos termos do artigo 8.º deste diploma ficam sujeitas às disposições seguintes.
+Artigo 1.º - 1 - As vendas a prestações realizadas por comerciantes, no exercício do seu comércio, de coisas móveis corpóreas não consumíveis, produzidas em território nacional ou importadas do estrangeiro, que vierem a ser designadas pelo Governo nos termos do artigo 8.º deste diploma ficam sujeitas às disposições seguintes.
 
 2 - Fica igualmente sujeito aos preceitos do presente diploma, com as necessárias adaptações, o fornecimento de serviços com pagamento a prestações que vierem a ser designados pelo Governo nos termos do referido artigo 8.º
 
-###### Art. 2.º - 1 - O contrato de venda a prestações deve ser reduzido a escrito, em pelo menos dois exemplares, assinados pelos contraentes, e dele deverá constar:
+Art. 2.º - 1 - O contrato de venda a prestações deve ser reduzido a escrito, em pelo menos dois exemplares, assinados pelos contraentes, e dele deverá constar:
 
 a) A identificação dos contraentes e a indicação do seu domicílio ou sede social;
 
@@ -128,17 +169,17 @@ l) A data e o lugar do contrato.
 
 3 - O Governo, em portaria do Ministro das Finanças, poderá dispensar, em relação a certas coisas ou abaixo de determinado montante, a redução a escrito do contrato de venda a prestações e a inscrição no livro a que se refere o artigo 9.º
 
-###### Art. 3.º - 1 - Às prestações que se seguirem ao desembolso inicial pode corresponder a emissão de títulos de crédito, devendo neles ser aposta a declaração de que respeitam a uma operação de venda a prestações e a identificação desta, bem como a indicação da prestação a que correspondem.
+Art. 3.º - 1 - Às prestações que se seguirem ao desembolso inicial pode corresponder a emissão de títulos de crédito, devendo neles ser aposta a declaração de que respeitam a uma operação de venda a prestações e a identificação desta, bem como a indicação da prestação a que correspondem.
 
 2 - Tais títulos poderão ser impressos em papel contínuo para computador, desde que selados pela Casa da Moeda, podendo as assinaturas do sacador e do endossante ser apostas mecanicamente.
 
-###### Art. 4.º - 1 - Um dos exemplares do título do contrato deve ser entregue ao comprador.
+Art. 4.º - 1 - Um dos exemplares do título do contrato deve ser entregue ao comprador.
 
 2 - O outro exemplar deve ser arquivado pelo vendedor e servirá de base à anotação do contrato no livro de registo de vendas a prestações.
 
 3 - Apenas o exemplar do contrato que fica na posse do vendedor carece de ser selado.
 
-###### Art. 5.º - 1 - O desembolso inicial deve ser realizado o mais tardar até à data da entrega da coisa.
+Art. 5.º - 1 - O desembolso inicial deve ser realizado o mais tardar até à data da entrega da coisa.
 
 2 - Se o vendedor entregar a coisa sem ter recebido o desembolso inicial, perde o direito de exigir o montante deste, e a obrigação de pagamento do comprador ficará reduzida ao restante do preço, conservando ele o direito de realizar o pagamento nos prazos convencionados.
 
@@ -146,13 +187,13 @@ l) A data e o lugar do contrato.
 
 4 - Sempre que a entrega pelo comprador de uma ou mais coisas seja admitida pelo vendedor como forma de pagamento, o respectivo valor será considerado como parte integrante do desembolso inicial.
 
-###### Art. 6.º - 1 - O comprador tem o direito de antecipar o pagamento de uma ou mais prestações do preço da compra, sendo-lhe devida a redução do respectivo montante, calculada à taxa básica de desconto do Banco de Portugal vigente à data da antecipação, se outra mais favorável não for convencionada entre as partes.
+Art. 6.º - 1 - O comprador tem o direito de antecipar o pagamento de uma ou mais prestações do preço da compra, sendo-lhe devida a redução do respectivo montante, calculada à taxa básica de desconto do Banco de Portugal vigente à data da antecipação, se outra mais favorável não for convencionada entre as partes.
 
 2 - A antecipação entende-se sempre reportada à última ou às últimas prestações vincendas.
 
-###### Art. 7.º As sobretaxas de juro e demais encargos mencionados na alínea h) do n.º 1 do artigo 2.º, obrigatoriamente comprovados perante o comprador, só podem ser repercutidos pelo vendedor sobre o comprador, e sem quaisquer acréscimos, quando tenham sido total ou parcialmente mobilizados, sob qualquer forma em uma ou mais instituições de crédito, os títulos emitidos nos termos do artigo 3.º ou os contratos e outros instrumentos legais representativos da venda a prestações.
+Art. 7.º As sobretaxas de juro e demais encargos mencionados na alínea h) do n.º 1 do artigo 2.º, obrigatoriamente comprovados perante o comprador, só podem ser repercutidos pelo vendedor sobre o comprador, e sem quaisquer acréscimos, quando tenham sido total ou parcialmente mobilizados, sob qualquer forma em uma ou mais instituições de crédito, os títulos emitidos nos termos do artigo 3.º ou os contratos e outros instrumentos legais representativos da venda a prestações.
 
-###### Art. 8.º - 1 - O Governo, em portaria do Ministro das Finanças, determinará:
+Art. 8.º - 1 - O Governo, em portaria do Ministro das Finanças, determinará:
 
 a) As categorias de coisas móveis corpóreas não consumíveis, bem como os serviços com pagamento a prestações, que ficam sujeitos ao regime do presente diploma;
 
@@ -170,13 +211,13 @@ b) O número máximo de prestações por que pode repartir-se o pagamento e o va
 
 c) O valor mínimo das operações que ficam sujeitas ao regime deste diploma.
 
-###### Art. 9.º Os comerciantes que realizem vendas a prestações devem ter um livro de registos dessas vendas, legalizado nos termos do artigo 32.º do Código Comercial, onde serão anotados cronologicamente todos os contratos de vendas a prestações por eles efectuadas.
+Art. 9.º Os comerciantes que realizem vendas a prestações devem ter um livro de registos dessas vendas, legalizado nos termos do artigo 32.º do Código Comercial, onde serão anotados cronologicamente todos os contratos de vendas a prestações por eles efectuadas.
 
-###### Art. 10.º Os Ministros das Finanças e do Comércio e Turismo poderão determinar, em portaria, que os comerciantes que realizem vendas a prestações se inscrevam num registo especial, a organizar na Direcção-Geral da Coordenação Comercial.
+Art. 10.º Os Ministros das Finanças e do Comércio e Turismo poderão determinar, em portaria, que os comerciantes que realizem vendas a prestações se inscrevam num registo especial, a organizar na Direcção-Geral da Coordenação Comercial.
 
-###### Art. 11.º A publicidade do preço das coisas oferecidas para venda a prestações deve indicar o preço da venda a contado e o preço total da venda a prestações.
+Art. 11.º A publicidade do preço das coisas oferecidas para venda a prestações deve indicar o preço da venda a contado e o preço total da venda a prestações.
 
-###### Art. 12.º - 1 - Além das instituições de crédito, somente as instruções parabancárias que se constituam nos termos legais e nos precisos termos das respectivas autorizações poderão conceder crédito às entidades a que alude o artigo 1.º do presente diploma com vista ao financiamento das operações de vendas a prestações pelas mesmas realizadas.
+Art. 12.º - 1 - Além das instituições de crédito, somente as instruções parabancárias que se constituam nos termos legais e nos precisos termos das respectivas autorizações poderão conceder crédito às entidades a que alude o artigo 1.º do presente diploma com vista ao financiamento das operações de vendas a prestações pelas mesmas realizadas.
 
 2 - O crédito a que alude o número anterior não pode ser concedido por prazos superiores aos que vierem a ser determinados de acordo com a alínea c) do n.º 1 do artigo 8.º do presente diploma.
 
@@ -188,7 +229,7 @@ b) Se os contratos celebrados o foram com observância das disposições legais 
 
 4 - O Ministro das Finanças, sob proposta do Banco de Portugal, poderá estabelecer, mediante portaria, limites aos créditos a conceder por instituições de crédito e parabancárias que tenham por objecto o financiamento das operações de venda a prestações reguladas pelo presente decreto-lei e, bem assim, o das importações dos bens referidos no artigo 1.º
 
-###### Art. 13.º- 1 - A falta de livro de registo de vendas a prestações é punida com multa de 10000$00 a 1000000$00.
+Art. 13.º- 1 - A falta de livro de registo de vendas a prestações é punida com multa de 10000$00 a 1000000$00.
 
 2 - A falta de inscrição no registo especial a que se refere o artigo 9.º, quando exigida, é punida com multa de 10000$00 a 100000$00.
 
@@ -200,20 +241,20 @@ b) Se os contratos celebrados o foram com observância das disposições legais 
 
 6 - A infracção ao disposto no artigo 7.º obriga à restituição ao comprador da importância que lhe tenha sido indevidamente imputada a título de repercussão e é punida com multa não inferior ao dobro daquela importância nem superior ao máximo fixado no n.º 1 deste artigo.
 
-###### Art. 14.º - 1 - Cabe à Direcção-Geral de Fiscalização Económica velar pelo cumprimento do disposto neste diploma e na respectiva legislação complementar e proceder a inquérito preliminar relativo às transgressões a que se reportam os n.os 1, 2, 3, 5 e 6 do artigo 13.º
+Art. 14.º - 1 - Cabe à Direcção-Geral de Fiscalização Económica velar pelo cumprimento do disposto neste diploma e na respectiva legislação complementar e proceder a inquérito preliminar relativo às transgressões a que se reportam os n.os 1, 2, 3, 5 e 6 do artigo 13.º
 
 2 - O exercício das atribuições a que se refere o número anterior fica sujeito ao disposto nos artigos 6.º e seguintes do [Decreto-Lei n.º 452/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1971-633724), de 27 de Outubro.
 
-###### Art. 15.º As disposições deste diploma são aplicáveis, com as devidas adaptações, a todos os contratos pelos quais se pretenda obter resultado equivalente ao da venda a prestações, designadamente ao contrato de aluguer de uma coisa com a cláusula de que ela se tornará propriedade do locatário depois de satisfeitos todos os alugueres pactuados.
+Art. 15.º As disposições deste diploma são aplicáveis, com as devidas adaptações, a todos os contratos pelos quais se pretenda obter resultado equivalente ao da venda a prestações, designadamente ao contrato de aluguer de uma coisa com a cláusula de que ela se tornará propriedade do locatário depois de satisfeitos todos os alugueres pactuados.
 
-###### Art. 16.º São revogados os Decretos-Leis n.os [490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441) e [451/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1975-314912), de 11 de Novembro e 21 de Agosto, respectivamente.
+Art. 16.º São revogados os Decretos-Leis n.os [490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441) e [451/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1975-314912), de 11 de Novembro e 21 de Agosto, respectivamente.
 
-###### Art. 17.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 17.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Outubro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 8 de Novembro de 1979.**
+Promulgado em 8 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

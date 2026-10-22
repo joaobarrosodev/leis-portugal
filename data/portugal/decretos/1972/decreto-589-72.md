@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/589-1972-665129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d495ebef838190713a986201ec07304fe1a4e6777521f4b07b61f2f6cb7162e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aee4227da5ec995e8d4b11d34b8642f0bb4e454ca2c95f4462bc5b4da964b194
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 1
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:48Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +114,7 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição Política e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Fica o Governador de S. Tomé e Príncipe autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 4900000$00, destinado a reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1972, tomando como contrapartida os saldos das contas de exercícios findos:
+Artigo 1.º Fica o Governador de S. Tomé e Príncipe autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 4900000$00, destinado a reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1972, tomando como contrapartida os saldos das contas de exercícios findos:
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
@@ -102,25 +126,25 @@ Liceu Nacional de D. João II
 
 Despesas com o pessoal:
 
-###### Artigo 80.º «Remunerações acidentais»:
+Artigo 80.º «Remunerações acidentais»:
 
 3) Pessoal docente eventual a admitir conforme as necessidades de serviço, nos termos dos artigos 20.º e 22.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 31 de Outubro de 1959 ... 250000$00
 
 Escola Técnica de Silva Cunha
 
-###### Artigo 87.º «Remunerações acidentais»:
+Artigo 87.º «Remunerações acidentais»:
 
 3) Pessoal docente eventual ... 250000$00
 
 Escola Preparatória de Pedro Álvares Cabral
 
-###### Artigo 94.º «Remunerações acidentais»:
+Artigo 94.º «Remunerações acidentais»:
 
 3) Pessoal docente eventual ... 700000$00
 
 Ensino primário
 
-###### Artigo 103.º «Remunerações acidentais»:
+Artigo 103.º «Remunerações acidentais»:
 
 1) Pessoal docente eventual a admitir nos termos dos artigos 20.º e 22.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961 ... 350000$00
 
@@ -130,11 +154,11 @@ Repartição Provincial dos Serviços de Saúde e Assistência
 
 Despesas com o material:
 
-###### Artigo 154.º «Material de consumo corrente» ... 90000$00
+Artigo 154.º «Material de consumo corrente» ... 90000$00
 
 Pagamento de serviços:
 
-###### Artigo 155.º «Despesas de higiene, saúde e conforto»:
+Artigo 155.º «Despesas de higiene, saúde e conforto»:
 
 1) Aquisição, conserto e lavagem de roupas ... 100000$00
 
@@ -144,7 +168,7 @@ Pagamento de serviços:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 339.º «Despesas de comunicações fora da província»:
+Artigo 339.º «Despesas de comunicações fora da província»:
 
 1) Portes de correio e telégrafos:
 
@@ -154,7 +178,7 @@ b) Telégrafos ... 70000$00
 
 4) Direitos de transportes aéreos ... 170000$00
 
-###### Artigo 340.º «Deslocações do pessoal»:
+Artigo 340.º «Deslocações do pessoal»:
 
 2) Ajudas de custo e subsídio inerentes às deslocações fora da província:
 
@@ -172,7 +196,7 @@ b) Por quaisquer outros motivos:
 
 2.º A pagar na província ... 200000$00
 
-###### Artigo 341.º «Diversas despesas»:
+Artigo 341.º «Diversas despesas»:
 
 4) Passagens a estudantes nos termos do [Decreto n.º 45653](https://diariodarepublica.pt/dr/detalhe/decreto/45653-1964-471773), de 1 de Abril de 1964, e [Decreto n.º 46953](https://diariodarepublica.pt/dr/detalhe/decreto/46953-1966-487928), de 1 de Abril de 1966:
 
@@ -186,11 +210,11 @@ b) Não especificadas:
 
 11) Despesas de carácter reservado ... 50000$00
 
-###### Artigo 342.º «Abono de família» ... 700000$00
+Artigo 342.º «Abono de família» ... 700000$00
 
 ... 4900000$00
 
-###### Art. 2.º - 1. O § 1.º do artigo 91.º do Estatuto da Polícia de Segurança Pública de Angola, aprovado pelo [Decreto n.º 47360](https://diariodarepublica.pt/dr/detalhe/decreto/47360-1966-477306), de 2 de Dezembro de 1966, passa a ter a seguinte redacção:
+Art. 2.º - 1. O § 1.º do artigo 91.º do Estatuto da Polícia de Segurança Pública de Angola, aprovado pelo [Decreto n.º 47360](https://diariodarepublica.pt/dr/detalhe/decreto/47360-1966-477306), de 2 de Dezembro de 1966, passa a ter a seguinte redacção:
 
 ###### Artigo 91.º ...
 
@@ -204,19 +228,19 @@ esquadra (gratificação de serviço) ... 200$00
 
 Aos subchefes-ajudantes, primeiros e segundos-subchefes, tratadores de cães e cavalos, guardas de 1.ª e 2.ª classes e condutores de viaturas automóveis (gratificação de serviço) ... 150$00.
 
-###### Art. 3.º Ao mapa anexo ao [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, referente ao quadro comum administrativo, de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social do ultramar, são aditadas cinco unidades de fisioterapeutas e uma de terapeuta ocupacional para o Estado de Moçambique.
+Art. 3.º Ao mapa anexo ao [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, referente ao quadro comum administrativo, de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social do ultramar, são aditadas cinco unidades de fisioterapeutas e uma de terapeuta ocupacional para o Estado de Moçambique.
 
-###### Art. 4.º Aos órgãos legislativos da província de Macau é atribuída competência para fixar gratificações aos professores que forem nomeados para a regência da disciplina de Inglês no curso de Língua Chinesa.
+Art. 4.º Aos órgãos legislativos da província de Macau é atribuída competência para fixar gratificações aos professores que forem nomeados para a regência da disciplina de Inglês no curso de Língua Chinesa.
 
-###### Art. 5.º É atribuída ao director de 3.ª classe do quadro comum dos serviços de finanças do ultramar incumbido, na província de Timor, das funções referidas no § único do artigo 9.º do [Decreto n.º 47807](https://diariodarepublica.pt/dr/detalhe/decreto/47807-1967-314407), de 21 de Julho de 1967, a gratificação especial mensal de 1500$00.
+Art. 5.º É atribuída ao director de 3.ª classe do quadro comum dos serviços de finanças do ultramar incumbido, na província de Timor, das funções referidas no § único do artigo 9.º do [Decreto n.º 47807](https://diariodarepublica.pt/dr/detalhe/decreto/47807-1967-314407), de 21 de Julho de 1967, a gratificação especial mensal de 1500$00.
 
-###### Art. 6.º - 1. Nos orçamentos gerais de todas as províncias ultramarinas serão anualmente inscritos subsídios destinados a custear as despesas de funcionamento do Instituto de Higiene e Medicina Tropical.
+Art. 6.º - 1. Nos orçamentos gerais de todas as províncias ultramarinas serão anualmente inscritos subsídios destinados a custear as despesas de funcionamento do Instituto de Higiene e Medicina Tropical.
 
 2. O montante dos referidos subsídios será fixado, para cada ano, por despacho do Ministro do Ultramar, em face de proposta a apresentar pelo Instituto.
 
 3. Os saldos das verbas inscritas nos orçamentos do ano de 1972 como contribuição para a Escola Nacional de Saúde Pública e de Medicina Tropical serão entregues ao Instituto de Higiene e Medicina Tropical.
 
-###### Art. 7.º - 1. É criado na província de Macau um fundo especial denominado «Fundo de Fiscalização de Armas e Munições», destinado a custear os encargos com os serviços de fiscalização, incluindo abonos e gratificações ao pessoal e outras despesas relacionadas com a execução do Regulamento de Armas e Munições.
+Art. 7.º - 1. É criado na província de Macau um fundo especial denominado «Fundo de Fiscalização de Armas e Munições», destinado a custear os encargos com os serviços de fiscalização, incluindo abonos e gratificações ao pessoal e outras despesas relacionadas com a execução do Regulamento de Armas e Munições.
 
 2. As receitas do Fundo serão definidas no Regulamento de Armas e Munições.
 
@@ -226,8 +250,8 @@ Aos subchefes-ajudantes, primeiros e segundos-subchefes, tratadores de cães e c
 
 Marcello Caetano - Joaquim Moreia da Silva Cunha.
 
-**Promulgado em 20 de Dezembro de 1972.**
+Promulgado em 20 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

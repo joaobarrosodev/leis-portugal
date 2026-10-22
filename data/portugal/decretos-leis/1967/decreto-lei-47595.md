@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47595-1967-503389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ee7551f2661f0e0ea3e29b207185f98fc22340fdec2c37c148989dacee4d969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff93301b21ff07fe17c46580a124fffb7dcfd7d585bcb651fb15024d7af7b64a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artes de Pesca
+- Criação de Serviços
+- Definição de Competências
+- Espanha
+- Pesca
+- Portugal
+- Regulamento de Pesca
+- RIO Minho
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:32Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +92,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento de Pesca no Rio Minho, cujos textos, em português e respectiva tradução para espanhol, vão anexos ao presente decreto-lei, e que entrará em vigor em data a acordar pelos Governos Português e Espanhol.
+Artigo único. É aprovado o Regulamento de Pesca no Rio Minho, cujos textos, em português e respectiva tradução para espanhol, vão anexos ao presente decreto-lei, e que entrará em vigor em data a acordar pelos Governos Português e Espanhol.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortes - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -96,33 +104,33 @@ REGULAMENTO DE PESCA NO RIO MINHO
 
 ### CAPÍTULO I — Do exercício da pesca
 
-###### Artigo 1.º A pesca no rio Minho, na parte em que este rio serve de fronteira entre Portugal e Espanha, será indistintamente exercida pelos súbditos portugueses e pelos súbditos espanhóis, mediante observância dos preceitos estabelecidos neste regulamento.
+Artigo 1.º A pesca no rio Minho, na parte em que este rio serve de fronteira entre Portugal e Espanha, será indistintamente exercida pelos súbditos portugueses e pelos súbditos espanhóis, mediante observância dos preceitos estabelecidos neste regulamento.
 
-###### Art. 2.º Não será permitido aos pescadores de um dos países pescar na margem da terra firme do outro.
+Art. 2.º Não será permitido aos pescadores de um dos países pescar na margem da terra firme do outro.
 
 § 1.º Entende-se por terra firme, para efeitos deste regulamento o terreno da margem do rio que não fique coberto ou circundado de água na máxima baixa-mar, bem como as ilhas que, no Tratado de Limites, são atribuídas a Portugal ou à Espanha.
 
 § 2.º No que se refere a certos areinhos que ora possuem condições para serem considerados margem de terra firme ora perdem essas condições, os capitães dos Portos de Caminha e de Tui reunir-se-ão, por iniciativa de qualquer deles, anualmente, no mês de Agosto e durante a baixa-mar da maior maré, a fim de verificarem se há ou não alterações em relação ao ano antecedente, mantendo-se, em caso negativo, o regime de pesca até aí em vigor.
 
-###### Art. 3.º O emprego de embarcações no exercício da pesca no rio Minho está dependente de prévia inscrição na capitania do respectivo porto e de licença concedida pela mesma capitania.
+Art. 3.º O emprego de embarcações no exercício da pesca no rio Minho está dependente de prévia inscrição na capitania do respectivo porto e de licença concedida pela mesma capitania.
 
-###### Art. 4.º Da licença referida no artigo anterior constarão fotografia, nome e apelidos do patrão, número e letras de identificação da embarcação, número de tripulantes e a data em que a mesma foi passada. A licença poderá ser emitida em qualquer época do ano e só será válida até ao dia 14 de Fevereiro do ano seguinte.
+Art. 4.º Da licença referida no artigo anterior constarão fotografia, nome e apelidos do patrão, número e letras de identificação da embarcação, número de tripulantes e a data em que a mesma foi passada. A licença poderá ser emitida em qualquer época do ano e só será válida até ao dia 14 de Fevereiro do ano seguinte.
 
-###### Art. 5.º Depende de licença individual, concedida pela respectiva capitania, o exercício da pesca por parte de patrões de embarcações e ainda por quaisquer indivíduos não subordinados a patrões, seja qual for a arte que utilizem. Quando o exercício da pesca se efectue com carácter desportivo, utilizando cana ou artes similares, bastará que o interessado disponha de licença de pesca passada pelas autoridades do país a que pertence.
+Art. 5.º Depende de licença individual, concedida pela respectiva capitania, o exercício da pesca por parte de patrões de embarcações e ainda por quaisquer indivíduos não subordinados a patrões, seja qual for a arte que utilizem. Quando o exercício da pesca se efectue com carácter desportivo, utilizando cana ou artes similares, bastará que o interessado disponha de licença de pesca passada pelas autoridades do país a que pertence.
 
-###### Art. 6.º Só poderá ser patrão de embarcação de pesca quem a competente autoridade marítima considere suficientemente idóneo.
+Art. 6.º Só poderá ser patrão de embarcação de pesca quem a competente autoridade marítima considere suficientemente idóneo.
 
-###### Art. 7.º Os titulares das licenças referidas nos artigos anteriores são obrigados a apresentá-las às formas de fiscalização da pesca de qualquer dos dois países sempre que estas o exijam.
+Art. 7.º Os titulares das licenças referidas nos artigos anteriores são obrigados a apresentá-las às formas de fiscalização da pesca de qualquer dos dois países sempre que estas o exijam.
 
-###### Art. 8.º Todas as embarcações terão pintados em ambas as amuras, de maneira bem visível, o seu número de polícia e as letras de identificação, de altura não inferior a 20 cm: as portuguesas em branco sobre fundo negro e as espanholas em negro sobre fundo branco.
+Art. 8.º Todas as embarcações terão pintados em ambas as amuras, de maneira bem visível, o seu número de polícia e as letras de identificação, de altura não inferior a 20 cm: as portuguesas em branco sobre fundo negro e as espanholas em negro sobre fundo branco.
 
-###### Art. 9.º Os patrões de embarcações e de pesqueiros são obrigados a fornecer os elementos e informações que lhes sejam pedidos pelas autoridades competentes.
+Art. 9.º Os patrões de embarcações e de pesqueiros são obrigados a fornecer os elementos e informações que lhes sejam pedidos pelas autoridades competentes.
 
-###### Art. 10.º Só será permitida a pesca com cana ou artes similares a quem se encontre munido da licença de pesca individual prevista no artigo 5.º e observe, além disso, as normas legais que regulam este processo de pesca nas águas interiores de cada um dos países.
+Art. 10.º Só será permitida a pesca com cana ou artes similares a quem se encontre munido da licença de pesca individual prevista no artigo 5.º e observe, além disso, as normas legais que regulam este processo de pesca nas águas interiores de cada um dos países.
 
 ### CAPÍTULO II — Das artes de pesca
 
-###### Art. 11.º As redes e demais aparelhos permitidos no exercício da pesca no troço internacional do rio Minho são os seguintes:
+Art. 11.º As redes e demais aparelhos permitidos no exercício da pesca no troço internacional do rio Minho são os seguintes:
 
 1.º Algerife. - Será usada na pesca do salmão e do sável. A malha molhada desta rede não poderá ter menos de 59 mm de lado e as dimensões da rede não poderão exceder 150 m de comprimento e 120 malhas de altura;
 
@@ -142,7 +150,7 @@ REGULAMENTO DE PESCA NO RIO MINHO
 
 ### CAPÍTULO III — Das épocas e locais da pesca
 
-###### Art. 12.º Só é permitido o exercício da pesca:
+Art. 12.º Só é permitido o exercício da pesca:
 
 a) Com redes de algerife e de tresmalho e com botirão e cabaceira, desde 15 de Fevereiro a 15 de Junho;
 
@@ -158,7 +166,7 @@ f) É proibido o emprego de redes nos estuários ou lugares de confluência do r
 
 ### CAPÍTULO IV — Do defeso das espécies e das suas dimensões mínimas
 
-###### Art. 13.º Os períodos do defeso da pesca no troço internacional do rio Minho são os seguintes:
+Art. 13.º Os períodos do defeso da pesca no troço internacional do rio Minho são os seguintes:
 
 a) Dos salmonídeos, desde 16 de Junho a 14 de Fevereiro. Exceptua-se a pesca com cana e anzol e com linhas de um só anzol, que poderá exercer-se, quanto às mesmas espécies, até 30 de Setembro. Neste caso, os exemplares capturados a partir de 1 de Agosto em Portugal e de 15 do mesmo mês em Espanha não poderão ser objecto de comércio até ao dia 1 de Março em Portugal e ao primeiro domingo de Março em Espanha;
 
@@ -168,7 +176,7 @@ c) Da lampreia, desde 16 de Maio a 31 de Janeiro;
 
 d) Da solha e mugem, desde 16 de Janeiro a 31 de Agosto.
 
-###### Art. 14.º São proibidos a pesca, o comércio e o transporte de peixes de dimensões inferiores às seguintes:
+Art. 14.º São proibidos a pesca, o comércio e o transporte de peixes de dimensões inferiores às seguintes:
 
 ... Centímetros
 
@@ -184,25 +192,25 @@ Outras espécies ... 10
 
 § único. Para determinação das dimensões do peixe, será este medido da extremidade anterior da cabeça até ao ponto médio da parte posterior da barbatana caudal estendida, devendo ser lançado à água aquele que não atinja os limites fixados neste artigo.
 
-###### Art. 15.º Para venda e transporte do salmão pescado no troço internacional do rio Minho é condição indispensável que o peixe seja acompanhado de guia passada, gratuitamente, pelas autoridades respectivas.
+Art. 15.º Para venda e transporte do salmão pescado no troço internacional do rio Minho é condição indispensável que o peixe seja acompanhado de guia passada, gratuitamente, pelas autoridades respectivas.
 
 ### CAPÍTULO V — Dos lanços
 
-###### Art. 16.º Os lanços com rede algerife terão lugar entre o nascer e o pôr do Sol e com rede de tresmalho entre o pôr e o nascer do Sol.
+Art. 16.º Os lanços com rede algerife terão lugar entre o nascer e o pôr do Sol e com rede de tresmalho entre o pôr e o nascer do Sol.
 
 § único. As redes e aparelhos permitidos por este regulamento e não compreendidos neste artigo poderão empregar-se de dia e de noite, contanto que não prejudiquem a faina do algerife e do tresmalho.
 
-###### Art. 17.º As redes de tresmalho e lampreeira não poderão calar-se a menos de 25 m umas das outras. A mesma regra se observará a respeito das outras artes que trabalham juntas.
+Art. 17.º As redes de tresmalho e lampreeira não poderão calar-se a menos de 25 m umas das outras. A mesma regra se observará a respeito das outras artes que trabalham juntas.
 
-###### Art. 18.º proibido, em qualquer caso, obstruir com redes todo o curso do rio, devendo ficar livre, pelo menos, a terça parte, a fim de permitir a circulação das espécies.
+Art. 18.º proibido, em qualquer caso, obstruir com redes todo o curso do rio, devendo ficar livre, pelo menos, a terça parte, a fim de permitir a circulação das espécies.
 
-###### Art. 19.º Sempre que se aproxime alguma embarcação que, em virtude do seu calado, não possa desviar-se do canal de navegação, as redes que porventura prejudiquem a livre passagem serão levantadas com a necessária antecipação. Esta disposição não abrange as embarcações de recreio, as quais aguardarão que termine o lanço da rede.
+Art. 19.º Sempre que se aproxime alguma embarcação que, em virtude do seu calado, não possa desviar-se do canal de navegação, as redes que porventura prejudiquem a livre passagem serão levantadas com a necessária antecipação. Esta disposição não abrange as embarcações de recreio, as quais aguardarão que termine o lanço da rede.
 
 ### CAPÍTULO VI — Dos turnos
 
-###### Art. 20.º Entende-se por cobrada o agrupamento de embarcações de pesca que trabalham em comum, com rede algerife. Nenhuma embarcação poderá pescar com algerife sem pertencer a uma cobrada.
+Art. 20.º Entende-se por cobrada o agrupamento de embarcações de pesca que trabalham em comum, com rede algerife. Nenhuma embarcação poderá pescar com algerife sem pertencer a uma cobrada.
 
-###### Art. 21.º Quando concorram ao mesmo porto de pesca internacional uma cobrada portuguesa e outra espanhola, a pesca com rede algerife será submetida às regras seguintes:
+Art. 21.º Quando concorram ao mesmo porto de pesca internacional uma cobrada portuguesa e outra espanhola, a pesca com rede algerife será submetida às regras seguintes:
 
 a) O primeiro lanço pertencerá à cobrada que primeiro houver chegado ao porto.
 
@@ -222,9 +230,9 @@ g) Não terá direito a pôr-se em turno a embarcação que não tenha a bordo o
 
 § único. Se duas cobradas, em portos fronteiros, não puderem calar as suas redes ao mesmo tempo por causa da pouca largura do rio, fá-lo-ão alternadamente, nos termos do preceituado neste artigo.
 
-###### Art. 22.º Não é permitida a pesca simultânea de duas cobradas da mesma nação no mesmo porto de pesca.
+Art. 22.º Não é permitida a pesca simultânea de duas cobradas da mesma nação no mesmo porto de pesca.
 
-###### Art. 23.º Aos capitães dos Portos de Caminha e de Tui compete, relativamente às localidades compreendidas nas respectivas áreas de jurisdição:
+Art. 23.º Aos capitães dos Portos de Caminha e de Tui compete, relativamente às localidades compreendidas nas respectivas áreas de jurisdição:
 
 a) Fixar o número de embarcações de cada cobrada, fazendo-o por forma que não sejam muito numerosas, nem as cobradas disponham de forças insuficientes, e tendo sempre em vista o máximo equilíbrio entre as cobradas das duas margens;
 
@@ -234,51 +242,51 @@ c) Estabelecer as distâncias, a partir dos portos de pesca, a que as cobradas p
 
 d) Providenciar no sentido de evitar que qualquer cobrada cause prejuízos a outras com demora nos lanços por motivo de águas paradas.
 
-###### Art. 24.º Não poderá principar a calar-se uma rede sem que estejam recolhidos os dois chicotes da rede do lanço anterior.
+Art. 24.º Não poderá principar a calar-se uma rede sem que estejam recolhidos os dois chicotes da rede do lanço anterior.
 
 ### CAPÍTULO VII — Das pesqueiras
 
-###### Art. 25.º Chamam-se pesqueiras, para efeitos deste regulamento, as construções fixas destinadas à pesca existentes no troço do rio compreendido entre a linha que passa pelas torres do Castelo de Lapela (Portugal) e da igreja de Porto (Espanha) e o limite superior da linha fronteiriça e só podem ser empregadas no exercício da pesca desde que a sua construção, forma, dimensões e propriedades reúnam as condições previstas na Acta de Entrega da Fronteira, assinada em Lisboa em 30 de Maio de 1897.
+Art. 25.º Chamam-se pesqueiras, para efeitos deste regulamento, as construções fixas destinadas à pesca existentes no troço do rio compreendido entre a linha que passa pelas torres do Castelo de Lapela (Portugal) e da igreja de Porto (Espanha) e o limite superior da linha fronteiriça e só podem ser empregadas no exercício da pesca desde que a sua construção, forma, dimensões e propriedades reúnam as condições previstas na Acta de Entrega da Fronteira, assinada em Lisboa em 30 de Maio de 1897.
 
-###### Art. 26.º É obrigatório o registo das pesqueiras na capitania do porto do respectivo país, devendo, quanto ao número de ordem que tenham nesse registo, observar-se o seguinte: na raiz da pesqueira e sobre uma haste com 2 m de altura, pelo menos, será colocada uma tabuleta, com 40 cm de comprimento e 30 cm de altura, com o referido número pintado a branco sobre fundo negro, em Portugal, e a negro sobre fundo branco, em Espanha, de forma bem visível de ambas as margens.
+Art. 26.º É obrigatório o registo das pesqueiras na capitania do porto do respectivo país, devendo, quanto ao número de ordem que tenham nesse registo, observar-se o seguinte: na raiz da pesqueira e sobre uma haste com 2 m de altura, pelo menos, será colocada uma tabuleta, com 40 cm de comprimento e 30 cm de altura, com o referido número pintado a branco sobre fundo negro, em Portugal, e a negro sobre fundo branco, em Espanha, de forma bem visível de ambas as margens.
 
-###### Art. 27.º Registada a pesqueira, a capitania do porto entregará ao respectivo proprietário ou patrão documento donde constem, além do número de ordem de registo e o nome do patrão, todas as condições da pesqueira. Este documento deverá ser visado na capitania do porto nos primeiros 45 dias de cada ano, sendo nessa ocasião solicitada a respectiva licença de pesca. Se o documento não for apresentado ao visto, nos termos referidos, em três anos consecutivos ou cinco intercalados, perderá a pesqueira o direito ao exercício da pesca.
+Art. 27.º Registada a pesqueira, a capitania do porto entregará ao respectivo proprietário ou patrão documento donde constem, além do número de ordem de registo e o nome do patrão, todas as condições da pesqueira. Este documento deverá ser visado na capitania do porto nos primeiros 45 dias de cada ano, sendo nessa ocasião solicitada a respectiva licença de pesca. Se o documento não for apresentado ao visto, nos termos referidos, em três anos consecutivos ou cinco intercalados, perderá a pesqueira o direito ao exercício da pesca.
 
-###### Art. 28.º Toda a pesqueira em exploração terá um patrão, que poderá ser o proprietário ou outro indivíduo que o represente legalmente (a seu pedido), desde que seja considerado idóneo pela autoridade marítima. Neste caso, esse indivíduo será o responsável pelas infracções que se verificarem na pesqueira.
+Art. 28.º Toda a pesqueira em exploração terá um patrão, que poderá ser o proprietário ou outro indivíduo que o represente legalmente (a seu pedido), desde que seja considerado idóneo pela autoridade marítima. Neste caso, esse indivíduo será o responsável pelas infracções que se verificarem na pesqueira.
 
-###### Art. 29.º Em cada pesqueira não poderá ser empregada mais de uma rede de cada espécie (botirão e cabaceira) e em caso algum poderão as redes ficar colocadas em local situado a mais de um terço do curso do rio, a partir da margem do respectivo país.
+Art. 29.º Em cada pesqueira não poderá ser empregada mais de uma rede de cada espécie (botirão e cabaceira) e em caso algum poderão as redes ficar colocadas em local situado a mais de um terço do curso do rio, a partir da margem do respectivo país.
 
-###### Art. 30.º Quaisquer obras de reparação das pesqueiras estão sujeitas a prévia licença, concedida pela autoridade competente da respectiva nação. Os proprietários ou os patrões são responsáveis pelas modificações indevidamente efectuadas.
+Art. 30.º Quaisquer obras de reparação das pesqueiras estão sujeitas a prévia licença, concedida pela autoridade competente da respectiva nação. Os proprietários ou os patrões são responsáveis pelas modificações indevidamente efectuadas.
 
-###### Art. 31.º Fica proibida a construção de novas pesqueiras, bem como a ampliação das dimensões das actuais.
+Art. 31.º Fica proibida a construção de novas pesqueiras, bem como a ampliação das dimensões das actuais.
 
 ### CAPÍTULO VIII — Da polícia do rio e da pesca
 
-###### Art. 32.º A fiscalização do cumprimento deste regulamente e, em geral, a polícia do rio competem aos capitães dos Portos de Caminha e de Tui.
+Art. 32.º A fiscalização do cumprimento deste regulamente e, em geral, a polícia do rio competem aos capitães dos Portos de Caminha e de Tui.
 
 § único. Para desempenho desta missão, as referidas autoridades disporão do número suficiente de delegados de fiscalização com o pessoal e o material necessários.
 
-###### Art. 33.º Sempre que o julguem conveniente, poderão os capitães dos portos delegar em pescadores da sua confiança, em cada cobrada e em cada local, a faculdade de resolver, em primeira instância, as dúvidas e questões que surjam entre os pescadores da respectiva nação no exercício da pesca. Quando estes delegados não puderem resolver só por si as dúvidas ou questões que se houverem suscitado, recorrerão ao agente de fiscalização de pesca de seu país, o qual, por sua vez, desde que se julgue impossibilitado de as decidir de harmonia com as instruções que haja recebido, recorrerá ao capitão do porto respectivo.
+Art. 33.º Sempre que o julguem conveniente, poderão os capitães dos portos delegar em pescadores da sua confiança, em cada cobrada e em cada local, a faculdade de resolver, em primeira instância, as dúvidas e questões que surjam entre os pescadores da respectiva nação no exercício da pesca. Quando estes delegados não puderem resolver só por si as dúvidas ou questões que se houverem suscitado, recorrerão ao agente de fiscalização de pesca de seu país, o qual, por sua vez, desde que se julgue impossibilitado de as decidir de harmonia com as instruções que haja recebido, recorrerá ao capitão do porto respectivo.
 
-###### Art. 34.º Os capitães dos portos manterão entre si relações cordiais, como autoridades que são de nações amigas, procurando resolver por acordo todas as questões que pela sua pequena importância não devam ser submetidas à apreciação e decisão das autoridades superiores.
+Art. 34.º Os capitães dos portos manterão entre si relações cordiais, como autoridades que são de nações amigas, procurando resolver por acordo todas as questões que pela sua pequena importância não devam ser submetidas à apreciação e decisão das autoridades superiores.
 
-###### Art. 35.º As rondas são delegadas das autoridades marítimas e como tais devem ser respeitadas e obedecidas pelos pescadores ou quaisquer outras pessoas que naveguem no rio, qualquer que seja a sua nacionalidade.
+Art. 35.º As rondas são delegadas das autoridades marítimas e como tais devem ser respeitadas e obedecidas pelos pescadores ou quaisquer outras pessoas que naveguem no rio, qualquer que seja a sua nacionalidade.
 
-###### Art. 36.º Os capitães dos portos, seus oficiais, delegados e rondas poderão deter qualquer embarcação encontrada em transgressão bem como a respectiva tripulação, entregando-as imediatamente à autoridade competente, nos termos deste regulamento.
+Art. 36.º Os capitães dos portos, seus oficiais, delegados e rondas poderão deter qualquer embarcação encontrada em transgressão bem como a respectiva tripulação, entregando-as imediatamente à autoridade competente, nos termos deste regulamento.
 
-###### Art. 37.º Os patrões e os tripulantes das embarcações serão sempre da nacionalidade destas. O patrão é sempre responsável pelas transgressões deste regulamento cometidas na sua embarcação, a não ser que apresente o transgressor ou transgressores à competente autoridade marítima.
+Art. 37.º Os patrões e os tripulantes das embarcações serão sempre da nacionalidade destas. O patrão é sempre responsável pelas transgressões deste regulamento cometidas na sua embarcação, a não ser que apresente o transgressor ou transgressores à competente autoridade marítima.
 
-###### Art. 38.º A autoridade marítima de qualquer dos países que tiver conhecimento de transgressão a este regulamento cometida por indivíduo ou embarcação do país vizinho participá-la-á à autoridade marítima da nacionalidade do transgressor. Se a transgressão for cometida na margem da nação vizinha e o transgressor fugir para o seu país ou for detido no rio durante a fuga, a autoridade do país transgressor comunicará à do outro o procedimento que tiver sido adoptado.
+Art. 38.º A autoridade marítima de qualquer dos países que tiver conhecimento de transgressão a este regulamento cometida por indivíduo ou embarcação do país vizinho participá-la-á à autoridade marítima da nacionalidade do transgressor. Se a transgressão for cometida na margem da nação vizinha e o transgressor fugir para o seu país ou for detido no rio durante a fuga, a autoridade do país transgressor comunicará à do outro o procedimento que tiver sido adoptado.
 
-###### Art. 39.º As forças da Guarda Fiscal e da Guarda Civil e demais autoridades civis e militares e seus agentes auxiliarão as forças encarregadas da polícia da pesca, cumprindo-lhes informar os capitães dos portos das transgressões de que tiverem conhecimento.
+Art. 39.º As forças da Guarda Fiscal e da Guarda Civil e demais autoridades civis e militares e seus agentes auxiliarão as forças encarregadas da polícia da pesca, cumprindo-lhes informar os capitães dos portos das transgressões de que tiverem conhecimento.
 
 ### CAPÍTULO IX — Das penalidades
 
-###### Art. 40.º Compete aos capitães dos Portos de Caminha e de Tui o julgamento, em relação aos súbditos das respectivas nações, das transgressões deste regulamento e a aplicação das penas nele prescritas.
+Art. 40.º Compete aos capitães dos Portos de Caminha e de Tui o julgamento, em relação aos súbditos das respectivas nações, das transgressões deste regulamento e a aplicação das penas nele prescritas.
 
 § único. Quando, porém, a contravenção ou delito se verificar em embarcação aderente a terra firme ou tão próxima dela que se possa saltar de terra para bordo a pé enxuto, ficarão a embarcação e os seus tripulantes sujeitos à jurisdição da autoridade do país em cujo território se encontrarem.
 
-###### Art. 41.º As infracções aos preceitos deste regulamento e quaisquer outros delitos relativos ao exercício da pesca ao troço internacional do rio Minho serão punidas nos termos seguintes:
+Art. 41.º As infracções aos preceitos deste regulamento e quaisquer outros delitos relativos ao exercício da pesca ao troço internacional do rio Minho serão punidas nos termos seguintes:
 
 1.º A fuga à força de fiscalização do país vizinho, com prisão por dez dias, além da multa que corresponder à transgressão cometida.
 
@@ -322,37 +330,37 @@ d) Providenciar no sentido de evitar que qualquer cobrada cause prejuízos a out
 
 21.º O lançamento de asidas no fundo do rio, mesmo que daí resulte inutilização sòmente temporária dos portos de pesca, com a multa de 500$00 ou 1000 pesetas, além da indemnização dos danos causados nas artes, da apreensão das embarcações, da perda das licenças de pesca e da limpeza imediata dos portos. Se as asidas tiverem ferro em forma de navalhas, ou que, pelo seu feitio ou construção, possam causar ferimentos a pessoas, serão os responsáveis relegados ao tribunal competente para efeitos de procedimento criminal.
 
-###### Art. 42.º A pesca com dinamite ou qualquer outra substância que envenene as águas ou atordoe os peixes constitui crime, pelo que os delinquentes serão relegados ao tribunal competente.
+Art. 42.º A pesca com dinamite ou qualquer outra substância que envenene as águas ou atordoe os peixes constitui crime, pelo que os delinquentes serão relegados ao tribunal competente.
 
-###### Art. 43.º É proibido, sob pena de multa de 50$00 ou 100 pesetas, valar as águas, isto é, batê-las com remos, paus, pedras ou por qualquer outro processo que assuste os peixes.
+Art. 43.º É proibido, sob pena de multa de 50$00 ou 100 pesetas, valar as águas, isto é, batê-las com remos, paus, pedras ou por qualquer outro processo que assuste os peixes.
 
-###### Art. 44.º O pescador que durante o exercício da pesca enredar a sua arte com a de outro pescador, sem causa justificada, será punido com a multa de 50$00 ou 100 pesetas.
+Art. 44.º O pescador que durante o exercício da pesca enredar a sua arte com a de outro pescador, sem causa justificada, será punido com a multa de 50$00 ou 100 pesetas.
 
-###### Art. 45.º Os capitães dos portos de ambas as nações apreenderão as embarcações e redes dos transgressores e suspenderão o exercício da pesca nas pesqueiras transgressoras até que sejam satisfeitas as multas aplicadas.
+Art. 45.º Os capitães dos portos de ambas as nações apreenderão as embarcações e redes dos transgressores e suspenderão o exercício da pesca nas pesqueiras transgressoras até que sejam satisfeitas as multas aplicadas.
 
-###### Art. 46.º Tanto no caso do artigo anterior como do n.º 4.º do artigo 41.º, não terão os interessados direito a qualquer indemnização pelas deteriorações que sofram a embarcação ou o aparelho de pesca apreendidos.
+Art. 46.º Tanto no caso do artigo anterior como do n.º 4.º do artigo 41.º, não terão os interessados direito a qualquer indemnização pelas deteriorações que sofram a embarcação ou o aparelho de pesca apreendidos.
 
-###### Art. 47.º Os reincidentes nas infracções dos preceitos deste regulamento serão punidos com o dobro das multas previstas e com a perda das licenças de pesca e de navegação pelo período de um ano.
+Art. 47.º Os reincidentes nas infracções dos preceitos deste regulamento serão punidos com o dobro das multas previstas e com a perda das licenças de pesca e de navegação pelo período de um ano.
 
 § único. Consideram-se reincidentes os que cometem mais do que um delito da mesma natureza no espaço de seis meses.
 
-###### Art. 48.º Todo o peixe apreendido nos termos deste regulamento será distribuído, pelas autoridades marítimas, por estabelecimento de beneficência e casa de pescadores.
+Art. 48.º Todo o peixe apreendido nos termos deste regulamento será distribuído, pelas autoridades marítimas, por estabelecimento de beneficência e casa de pescadores.
 
-###### Art. 49.º Quaisquer infracções para que não tenha sido prevista pena especial nas disposições antecedentes serão punidas com multa variável de 50$00 ou 100 pesetas a 500$00 ou 1000 pesetas, fixada pelo justo critério das respectivas autoridades, de harmonia com a gravidade de cada infracção.
+Art. 49.º Quaisquer infracções para que não tenha sido prevista pena especial nas disposições antecedentes serão punidas com multa variável de 50$00 ou 100 pesetas a 500$00 ou 1000 pesetas, fixada pelo justo critério das respectivas autoridades, de harmonia com a gravidade de cada infracção.
 
-###### Art. 50.º As penas prescritas neste regulamento são de ordem estritamente disciplinar. Quando as infracções envolvam matéria criminal, além da aplicação das mesmas penas, serão os delinquentes relegados ao tribunal competente.
+Art. 50.º As penas prescritas neste regulamento são de ordem estritamente disciplinar. Quando as infracções envolvam matéria criminal, além da aplicação das mesmas penas, serão os delinquentes relegados ao tribunal competente.
 
-###### Art. 51.º Em face das circunstâncias em que se deu a infracção, podem os capitães dos portos elevar para o dobro as multas especificadas neste regulamento. O não pagamento das multas implica a prisão dos transgressores à razão de um dia de cárcere por cada 15$00.
+Art. 51.º Em face das circunstâncias em que se deu a infracção, podem os capitães dos portos elevar para o dobro as multas especificadas neste regulamento. O não pagamento das multas implica a prisão dos transgressores à razão de um dia de cárcere por cada 15$00.
 
-###### Art. 52.º O pagamento das multas far-se-á na respectiva capitania do porto, segundo as normas legais do respectivo país.
+Art. 52.º O pagamento das multas far-se-á na respectiva capitania do porto, segundo as normas legais do respectivo país.
 
-###### Art. 53.º Toda a transgressão deste regulamento que cause prejuízos a terceiro obriga o transgressor à indemnização desses prejuízos. A indemnização será fixada por acordo das autoridades marítimas de Caminha e de Tui, que para o efeito nomearão peritos sempre que julguem necessário. Em caso algum poderá a importância da indemnização exceder o valor da embarcação e rede do transgressor.
+Art. 53.º Toda a transgressão deste regulamento que cause prejuízos a terceiro obriga o transgressor à indemnização desses prejuízos. A indemnização será fixada por acordo das autoridades marítimas de Caminha e de Tui, que para o efeito nomearão peritos sempre que julguem necessário. Em caso algum poderá a importância da indemnização exceder o valor da embarcação e rede do transgressor.
 
 ### CAPÍTULO X — Disposições finais
 
-###### Art. 54.º Este regulamento é aplicável a todo o rio Minho desde a sua foz até à linha em que deixa de ser internacional.
+Art. 54.º Este regulamento é aplicável a todo o rio Minho desde a sua foz até à linha em que deixa de ser internacional.
 
-###### Art. 55.º Para apreciar questões relacionadas com a matéria deste regulamento é criada a Comissão Permanente Internacional do Rio Minho.
+Art. 55.º Para apreciar questões relacionadas com a matéria deste regulamento é criada a Comissão Permanente Internacional do Rio Minho.
 
 § 1.º A Comissão é constituída por representantes dos Ministérios da Marinha, das Obras Públicas e da Economia, de Portugal, e da Marinha, das Obras Públicas e da Agricultura, de Espanha, e por mais dois técnicos em hidrobiologia, sendo um designado pelo Governo Português e outro pelo Governo Espanhol.
 
@@ -360,7 +368,7 @@ d) Providenciar no sentido de evitar que qualquer cobrada cause prejuízos a out
 
 § 3.º Às reuniões da Comissão assistirão, quando for julgado conveniente, um representante de cada uma das delegações à Comissão Internacional de Limites.
 
-###### Art. 56.º A Comissão Permanente tem por finalidade principal o estudo e a apresentação de sugestões tendentes a melhorar as condições biopesqueiras do rio Minho e, designadamente, compete-lhe:
+Art. 56.º A Comissão Permanente tem por finalidade principal o estudo e a apresentação de sugestões tendentes a melhorar as condições biopesqueiras do rio Minho e, designadamente, compete-lhe:
 
 a) Apreciar as questões derivadas da aplicação deste regulamento;
 
@@ -382,4 +390,4 @@ i) Estudar e propor as medidas que devem ser adoptadas para conseguir que no tro
 
 j) Exercer, no que se refere ao troço internacional do rio Minho, as funções consultivas de todos aqueles organismos aos quais, pela legislação interna de cada país, compete a administração da riqueza piscícola.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06700/02960306.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06700/02960306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06700/02960306.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05900/05030504.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1978-446165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a05a3d34c8889d448f5d4956b630a543b5356df59a77bcf9cca5811a9caa077
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a21d7c5e69564816d1ae87cf2cb49d01494bf45af99bb0ee65c1e1ac6b7e59f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão por Serviços Excepcionais
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662159:por
+  label: "Dada nova redacção ao art. 1.º do Decreto-Lei n.º 171/77, de 30-Abr., alterado pelo presente diploma, pelo DEC LEI.140/87.20.03.1987.MF,\
+    \ DR.IS [66] de 20.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1987-662159
+  date: '1987-03-20'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:251853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474935:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:54Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +120,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 1.º e 2.º do [Decreto-Lei n.º 171/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1977-251853), de 30 de Abril, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 2.º do [Decreto-Lei n.º 171/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1977-251853), de 30 de Abril, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O Conselho de Ministros, por proposta do Ministro das Finanças, poderá, mediante decreto, atribuir a cidadãos portugueses que se tenham distinguido por méritos excepcionais na defesa da liberdade e da democracia uma pensão, expressiva de público reconhecimento, cujo início, duração e demais condições fixará de harmonia com o disposto nos números seguintes.
+Artigo 1.º - 1 - O Conselho de Ministros, por proposta do Ministro das Finanças, poderá, mediante decreto, atribuir a cidadãos portugueses que se tenham distinguido por méritos excepcionais na defesa da liberdade e da democracia uma pensão, expressiva de público reconhecimento, cujo início, duração e demais condições fixará de harmonia com o disposto nos números seguintes.
 
 2 - A pensão só pode ser atribuída ao próprio cidadão ou aos seus herdeiros ou familiares que tenham vivido exclusivamente na sua dependência económica.
 
@@ -109,7 +130,7 @@ A pensão atribuída ao próprio cidadão ou a viúvas com mais de 40 anos será
 
 3 - A pensão será calculada de harmonia com o artigo 10.º do [Decreto-Lei n.º 47084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47084-1966-474935), de 9 de Julho de 1966, com as adaptações que se mostrem necessárias, atribuindo-se, para o efeito, ao cidadão que não seja ou não tenha sido funcionário público uma categoria no quadro do funcionalismo a que presumivelmente teria ascendido se tivesse seguido tal carreira.
 
-###### Art. 2.º - 1 - A iniciativa da atribuição da pensão prevista no artigo anterior competirá ao Primeiro-Ministro, aos membros do Conselho da Revolução e do Governo, aos Deputados, aos órgãos de administração local e a quaisquer organismos ou instituições de interesse público.
+Art. 2.º - 1 - A iniciativa da atribuição da pensão prevista no artigo anterior competirá ao Primeiro-Ministro, aos membros do Conselho da Revolução e do Governo, aos Deputados, aos órgãos de administração local e a quaisquer organismos ou instituições de interesse público.
 
 2 - As entidades referidas no número anterior remeterão os elementos necessários à elaboração da proposta à Direcção-Geral da Contabilidade Pública, a qual precederá à respectiva instrução.
 
@@ -121,8 +142,8 @@ A pensão atribuída ao próprio cidadão ou a viúvas com mais de 40 anos será
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 1 de Março de 1978.**
+Promulgado em 1 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/17400/19121913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1980-470389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee9449b5c460a98e4079f791c8f842b39b5c779f12e89fa7f794626aaac63df1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 830fda88ddd2caa77d1a7b7e521b355668e128ea30c1a0f2350b8b80dd9e7ca4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
 relationships:
 - type: amended_by
   target: pt:dre:566071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566071:por
+  label: "Revogado, com efeitos a partir de 01.01.1991, pelo DEC LEI.352/90.09.11.1990.MARN, DR.IS [259] de 09.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-1990-566071
+  date: '1990-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:57Z'
   warnings: []
   errors: []
 ---
@@ -119,35 +129,35 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Compete à Secretaria de Estado do Ordenamento e Ambiente fixar limites de concentrações à superfície e nas emissões de poluentes atmosféricos.
+Artigo 1.º - 1 - Compete à Secretaria de Estado do Ordenamento e Ambiente fixar limites de concentrações à superfície e nas emissões de poluentes atmosféricos.
 
 2 - Tal fixação será estabelecida por despacho normativo do membro do Governo responsável pelo ordenamento e ambiente e dos Ministros que tutelem os sectores em que se reflictam os limites fixados.
 
-###### Art. 2.º - 1 - Para efeitos deste diploma, entendem-se por «concentrações à superfície» os valores de concentração medidos à altura de 1,5 m acima do solo de todas as substâncias poluentes que se encontrem na área sujeita à influência das diversas fontes emissoras.
+Art. 2.º - 1 - Para efeitos deste diploma, entendem-se por «concentrações à superfície» os valores de concentração medidos à altura de 1,5 m acima do solo de todas as substâncias poluentes que se encontrem na área sujeita à influência das diversas fontes emissoras.
 
 2 - Entendem-se por «emissões» todas as substâncias poluentes consideradas à saída da instalação responsável pelo seu lançamento na atmosfera.
 
 3 - Entendem-se por «poluentes atmosféricos» quaisquer fumos, poeiras, gases, vapores e cheiros de todas as espécies susceptíveis de alterarem as condições normais da qualidade do ar, criando situações de potencial ou efectivo prejuízo, directo ou indirecto, às populações e que alterem por qualquer forma o equilíbrio ecológico da área, causando danos à fauna, à flora e ao solo, ou modifiquem por qualquer processo de natureza física ou química as matérias sujeitas à sua acção.
 
-###### Art. 3.º O contrôle dos valores a fixar nos termos do artigo 1.º será efectuado através da adopção de método e aparelhos de medida normalizados e homologados por portaria do Ministro da Indústria e Energia, com a prévia audição ou proposta da Secretaria de Estado do Ordenamento e Ambiente.
+Art. 3.º O contrôle dos valores a fixar nos termos do artigo 1.º será efectuado através da adopção de método e aparelhos de medida normalizados e homologados por portaria do Ministro da Indústria e Energia, com a prévia audição ou proposta da Secretaria de Estado do Ordenamento e Ambiente.
 
-###### Art. 4.º - 1 - Os imóveis, estabelecimentos industriais, comerciais, artesanais ou agrícolas e os veículos de transporte deverão ser construídos, explorados ou utilizados de forma a satisfazer as disposições resultantes da aplicação do presente diploma, com vista a evitar a poluição atmosférica.
+Art. 4.º - 1 - Os imóveis, estabelecimentos industriais, comerciais, artesanais ou agrícolas e os veículos de transporte deverão ser construídos, explorados ou utilizados de forma a satisfazer as disposições resultantes da aplicação do presente diploma, com vista a evitar a poluição atmosférica.
 
 2 - As especificações relativas ao cumprimento do disposto no número anterior, entre outros aspectos no que respeita à construção de imóveis, abertura de estabelecimentos, fabrico e equipamento de veículos e qualidade de combustíveis, serão objecto de regulamentação em conjunto com os Ministérios de tutela e fixarão os teores, condições de emissão e prazos a cumprir por cada uma das fontes emissoras, de forma a respeitar as quotas-partes de concentração máxima à superfície que lhes forem atribuídas.
 
-###### Art. 5.º - 1 - Sem prejuízo da legislação existente sobre o assunto, a instalação, a entrada em laboração e os processos de contrôle das emissões (chaminés e fachos incluídos) de certos tipos de unidades industriais passam a estar sujeitos a parecer obrigatório da Secretaria de Estado do Ordenamento e Ambiente, em condições a estabelecer posteriormente.
+Art. 5.º - 1 - Sem prejuízo da legislação existente sobre o assunto, a instalação, a entrada em laboração e os processos de contrôle das emissões (chaminés e fachos incluídos) de certos tipos de unidades industriais passam a estar sujeitos a parecer obrigatório da Secretaria de Estado do Ordenamento e Ambiente, em condições a estabelecer posteriormente.
 
 2 - Os valores fixados para cada unidade industrial poderão ser revistos conjuntamente pelo Ministério da Indústria e Energia e pela Secretaria de Estado do Ordenamento e Ambiente, por solicitação devidamente fundamentada do interessado ou caso a medição de concentrações à superfície assim o aconselhe.
 
 3 - Os pareceres elaborados nos termos do n.º 1 deste artigo não conterão, na sua parte de conclusões e recomendações, quaisquer elementos confidenciais relativos a processos de fabrico, no sentido de poderem ser consultados pelos órgãos de comunicação social ou pelo público.
 
-###### Art. 6.º A Secretaria de Estado do Ordenamento e Ambiente, em conjunto com os Ministérios de tutela e através do diálogo com os órgãos próprios da indústria, procurará assegurar que as unidades poluidoras recorram às melhores tecnologias disponíveis, a fim de que cada fonte emissora possa respeitar a quota-parte de emissões de poluentes que lhe vier a ser fixada.
+Art. 6.º A Secretaria de Estado do Ordenamento e Ambiente, em conjunto com os Ministérios de tutela e através do diálogo com os órgãos próprios da indústria, procurará assegurar que as unidades poluidoras recorram às melhores tecnologias disponíveis, a fim de que cada fonte emissora possa respeitar a quota-parte de emissões de poluentes que lhe vier a ser fixada.
 
-###### Art. 7.º Após a publicação da portaria prevista no artigo 3.º deste diploma, devem as unidades poluidoras assumir o encargo do contrôle das emissões, nas condições e nos prazos que vierem a ser estabelecidos para cada caso ou sector, conjuntamente pela Secretaria de Estado do Ordenamento e Ambiente e pelo Ministério de tutela.
+Art. 7.º Após a publicação da portaria prevista no artigo 3.º deste diploma, devem as unidades poluidoras assumir o encargo do contrôle das emissões, nas condições e nos prazos que vierem a ser estabelecidos para cada caso ou sector, conjuntamente pela Secretaria de Estado do Ordenamento e Ambiente e pelo Ministério de tutela.
 
-###### Art. 8.º Compete à Secretaria de Estado do Ordenamento e Ambiente, por diploma conjunto com os Ministérios de tutela, regulamentar a fiscalização da aplicação e estabelecer as condições de penalização por incumprimento do disposto no presente diploma e nas disposições regulamentares dele decorrentes.
+Art. 8.º Compete à Secretaria de Estado do Ordenamento e Ambiente, por diploma conjunto com os Ministérios de tutela, regulamentar a fiscalização da aplicação e estabelecer as condições de penalização por incumprimento do disposto no presente diploma e nas disposições regulamentares dele decorrentes.
 
-###### Art. 9.º - 1 - As disposições do presente diploma são desde já aplicáveis a todo o território do continente, sendo a sua aplicação nas regiões autónomas objecto de diploma dos respectivos Governos Regionais.
+Art. 9.º - 1 - As disposições do presente diploma são desde já aplicáveis a todo o território do continente, sendo a sua aplicação nas regiões autónomas objecto de diploma dos respectivos Governos Regionais.
 
 2 - Sem prejuízo do disposto na primeira parte do número anterior, particularmente no que se refere às grandes fontes poluidoras, são desde já reconhecidas como áreas especiais a ser objecto de acções de redução e de contrôle da poluição atmosférica, por razões de forte concentração industrial ou urbana, as seguintes:
 
@@ -167,18 +177,18 @@ e) Estarreja.
 
 5 - As atribuições, composição e funcionamento das comissões de gestão do ar serão regulamentadas por diploma conjunto da Secretaria de Estado do Ordenamento e Ambiente e dos Ministérios de tutela.
 
-###### Art. 10.º A referência a Ministérios de tutela constante do presente diploma entende-se como incluindo o Ministério dos Assuntos Sociais em todas as matérias que tenham implicação na competência deste Ministério relativamente ao sector da saúde.
+Art. 10.º A referência a Ministérios de tutela constante do presente diploma entende-se como incluindo o Ministério dos Assuntos Sociais em todas as matérias que tenham implicação na competência deste Ministério relativamente ao sector da saúde.
 
-###### Art. 11.º Fica revogado o [Decreto-Lei n.º 57/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1979-382846), de 29 de Março, na parte em que contrarie o disposto no presente diploma.
+Art. 11.º Fica revogado o [Decreto-Lei n.º 57/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1979-382846), de 29 de Março, na parte em que contrarie o disposto no presente diploma.
 
-###### Art. 12.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto do membro do Governo responsável pelo ordenamento e ambiente e do Ministro de tutela.
+Art. 12.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto do membro do Governo responsável pelo ordenamento e ambiente e do Ministro de tutela.
 
-###### Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

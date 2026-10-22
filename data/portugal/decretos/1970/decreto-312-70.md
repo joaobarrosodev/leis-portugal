@@ -47,40 +47,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2c252fda790be338d8fe9f71911f2e6a01205144125a898950ee9f3eccd95b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b32ebe70df5aa949e3a3c409ca8d0b4e3ae6381caffaf9622443f69d8db7a20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Espécie Protegida
+- Licenciamento
+- Peixe
+- Pesca Desportiva
+- Pesca Fluvial
+- Proteção dos Animais
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:247981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447684:por
+  label: "Alterado o período de defesa das espécies de salmonídeas constantes da alínea d) do artigo 29.º do Decreto 44623,\
+    \ de 10 de Outubro, na redacção do presente diploma, pelo DEC.35/71.29.01.1971.SECEAGR-MECO, DG.IS [37] de 13.02.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/35-1971-447684
+  date: '1971-01-29'
+- type: amended_by
+  target: pt:dre:388439:por
+  label: "Alterado o período de defesa das espécies de salmonídeas constantes da alínea d) do artigo 29.º do Decreto 44623,\
+    \ de 10 de Outubro, na redacção do presente diploma, pela PORT.247/81.07.03.1981.MAP, DR.IS [55] de 07.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1981-388439
+  date: '1981-03-07'
+- type: amended_by
+  target: pt:dre:227072:por
+  label: "Alterado o art. 1º e o anexo a que se refere o art. 29º, pelo DR.18/86.1986.05.20.MAPA, DR.IS [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1986-227072
+  date: '1986-05-20'
+- type: amended_by
+  target: pt:dre:625667:por
+  label: "Alterado o art. 29º do Dec 44623 de 10-Out 1962, com a redacção dada pelo presente diploma, pelo DR.11/89.1989.04.27.MAPA,\
+    \ DR.IS [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-1989-625667
+  date: '1989-04-27'
+- type: amended_by
+  target: pt:dre:667738:por
+  label: "Alterado o período de defeso das espécies aquícolas constantes da al. f) do art. 29.º do Dec 44623 de 10-Out 1962,\
+    \ com a redacção conferida pelo presente diploma, pela PORT.275/2006.22.03.2006.MADRP, DR.IS-B [58] de 22.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/275-2006-667738
+  date: '2006-03-22'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção aos artigos 60.º e 70.º do Regulamento aprovado pelo Decreto 44623, de 10 de Outubro de 1962,\
+    \ na redacção do presente diploma, pela LEI.30/2006.11.07.2006.AR, DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247981:por
+  label: "Revogado pela LEI.7/2008.15.02.2008.AR, DR.IS [33] de 15.02.2008, a partir da entrada em vigor e nos termos do art.\
+    \ 42º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2008-247981
+  date: '2008-02-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:09Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +170,11 @@ Ouvida a Secção Aquícola do Conselho Técnico dos Serviços Florestais;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A alínea a) do § 2.º do artigo 6.º, os parágrafos do artigo 11.º, o artigo 17.º, o § 1.º do artigo 24.º, o § 5.º do artigo 25.º, o artigo 29.º e seus parágrafos, o corpo do artigo 30.º, o § 3.º do artigo 32.º, as alíneas d) e e) do § 2.º do artigo 34.º, o § 3.º do artigo 40.º, o § 6.º do artigo 58.º, os artigos 60.º e 70.º, a alínea b) do corpo do artigo 72.º e o § 3.º do artigo 83.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, passam a ter as seguintes redacções:
+Artigo 1.º A alínea a) do § 2.º do artigo 6.º, os parágrafos do artigo 11.º, o artigo 17.º, o § 1.º do artigo 24.º, o § 5.º do artigo 25.º, o artigo 29.º e seus parágrafos, o corpo do artigo 30.º, o § 3.º do artigo 32.º, as alíneas d) e e) do § 2.º do artigo 34.º, o § 3.º do artigo 40.º, o § 6.º do artigo 58.º, os artigos 60.º e 70.º, a alínea b) do corpo do artigo 72.º e o § 3.º do artigo 83.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, passam a ter as seguintes redacções:
 
 ...
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 ...
 
@@ -117,7 +186,7 @@ a) Planta topográfica da zona para a qual se pretende a concessão, em tela ou 
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 § 1.º Dos requerimentos a solicitar concessões, nos termos do corpo deste artigo, deverão constar os seguintes elementos:
 
@@ -153,17 +222,17 @@ b) A comunicação dos elementos referidos no § 1.º
 
 ...
 
-###### Art. 17.º A todos os pescadores é lícito passar e estacionar, para o exercício efectivo da pesca, nas zonas dos prédios que marginem as águas públicas sujeitas à servidão legal estabelecida no artigo 14.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, sem prejuízo da inviolabilidade dos prédios urbanos ou rústicos vedados.
+Art. 17.º A todos os pescadores é lícito passar e estacionar, para o exercício efectivo da pesca, nas zonas dos prédios que marginem as águas públicas sujeitas à servidão legal estabelecida no artigo 14.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, sem prejuízo da inviolabilidade dos prédios urbanos ou rústicos vedados.
 
 ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 § 1.º Para os efeitos das disposições legais sobre a pesca nas águas interiores, salvo o disposto no § 1.º do artigo 83.º, consideram-se agentes de autoridade, depois de ajuramentados pelo juiz de direito da comarca do respectivo domicílio, os membros das comissões regionais de pesca e os pescadores desportivos a que se refere a alínea a) do artigo 23.º, os quais terão direito ao uso de cartão de identidade, de modelo a aprovar superiormente.
 
 ...
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 ...
 
@@ -171,7 +240,7 @@ b) A comunicação dos elementos referidos no § 1.º
 
 ...
 
-###### Art. 29.º Fica expressamente proibida a pesca, por todos os processos e nos períodos abaixo mencionados, das espécies seguintes, cujos nomes científicos constam da lista anexa ao presente regulamento:
+Art. 29.º Fica expressamente proibida a pesca, por todos os processos e nos períodos abaixo mencionados, das espécies seguintes, cujos nomes científicos constam da lista anexa ao presente regulamento:
 
 a) Esturjão ou solho: de 15 de Julho a 15 de Janeiro, inclusive;
 
@@ -213,7 +282,7 @@ e) No rio Coura: a jusante da ponte de Vilar de Mouros, concelho de Caminha, at�
 
 ...
 
-###### Art. 30.º É proibida a pesca, comércio, transporte, retenção e consumo de peixes e outras espécies aquícolas de dimensões inferiores às fixadas nas alíneas seguintes:
+Art. 30.º É proibida a pesca, comércio, transporte, retenção e consumo de peixes e outras espécies aquícolas de dimensões inferiores às fixadas nas alíneas seguintes:
 
 a) Esturjão - 65 cm;
 
@@ -233,7 +302,7 @@ h) Lagostim de água doce - 9 cm.
 
 ...
 
-###### Art. 32.º ...
+Art. 32.º ...
 
 ...
 
@@ -241,7 +310,7 @@ h) Lagostim de água doce - 9 cm.
 
 ...
 
-###### Art. 34.º ...
+Art. 34.º ...
 
 ...
 
@@ -255,7 +324,7 @@ e) Para o camarão do rio - 10 mm.
 
 ...
 
-###### Art. 40.º ...
+Art. 40.º ...
 
 ...
 
@@ -263,7 +332,7 @@ e) Para o camarão do rio - 10 mm.
 
 ...
 
-###### Art. 58.º ...
+Art. 58.º ...
 
 ...
 
@@ -271,11 +340,11 @@ e) Para o camarão do rio - 10 mm.
 
 ...
 
-###### Art. 60.º Durante o exercício da pesca devem os pescadores fazer-se acompanhar da respectiva licença e do bilhete de identidade, sob pena de incorrerem na multa de 50$00; a sua apresentação conjunta é sempre obrigatória no prazo de quarenta e oito horas; se não efectuarem essa apresentação naquele prazo, serão aplicáveis as penas correspondentes ao exercício da pesca sem licença.
+Art. 60.º Durante o exercício da pesca devem os pescadores fazer-se acompanhar da respectiva licença e do bilhete de identidade, sob pena de incorrerem na multa de 50$00; a sua apresentação conjunta é sempre obrigatória no prazo de quarenta e oito horas; se não efectuarem essa apresentação naquele prazo, serão aplicáveis as penas correspondentes ao exercício da pesca sem licença.
 
 ...
 
-###### Art. 70. º Constituem contravenções:
+Art. 70. º Constituem contravenções:
 
 a) Punidas com prisão de um a dez dias e multa de 100$00 a 500$00, as infracções do disposto nas alíneas b), c) e d) e no § único do artigo 47.º;
 
@@ -285,7 +354,7 @@ b) Punidas com multa de 100$00 a 500$00, as infracções do disposto na primeira
 
 ...
 
-###### Art. 72.º ...
+Art. 72.º ...
 
 ...
 
@@ -293,7 +362,7 @@ b) Nas águas proibidas, reservadas ou objecto de concessão nos termos deste di
 
 ...
 
-###### Art. 83.º ...
+Art. 83.º ...
 
 ...
 
@@ -301,7 +370,7 @@ b) Nas águas proibidas, reservadas ou objecto de concessão nos termos deste di
 
 Os mesmos instrumentos, paga voluntàriamente a multa ou transitada em julgado a sentença condenatória, serão entregues à Direcção-Geral dos Serviços Florestais e Aquícolas, que, depois de seleccionados os que tiverem interesse para o museu de pesca, a instalar por aquela Direcção-Geral, venderá os restantes em hasta pública, anunciada com trinta dias de antecedência, pelo menos, num jornal da localidade, se o houver, e por editais.
 
-###### Art. 2.º No anexo ao [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, a que se refere o artigo 29.º do mesmo diploma, são introduzidas as seguintes alterações:
+Art. 2.º No anexo ao [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, a que se refere o artigo 29.º do mesmo diploma, são introduzidas as seguintes alterações:
 
 a) A família Salmonidae, da ordem Clupeiformes, passa a compreender as seguintes espécies:
 
@@ -323,8 +392,8 @@ Cobitis taenia L. - murtefuge, verdemã, verdeman, pardelha, serpentina, serpent
 
 Marcello Caetano - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 18 de Junho de 1970.**
+Promulgado em 18 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

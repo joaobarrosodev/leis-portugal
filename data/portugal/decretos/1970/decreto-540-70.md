@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/540-1970-147199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3a69f746e9b15a80320a4bd6f04064710454f2e3002dbc7e9f9930aea69cdb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aae1054b1b74959117f7762e68730e9554aa6b9edee26cdbef00326e7c0c5b2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia Civil
+- Curso de Engenharia de Minas
+- Curso de Engenharia Electrotécnica
+- Curso de Engenharia Mecânica
+- Curso de Engenharia Metalúrgica
+- Curso de Engenharia Química
+- Faculdade de Engenharia
+- Instituto Superior Técnico
+- Plano de Estudos
+- Universidade do Porto
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:621119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248067:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:373796:por
+  label: "REVOGADO PELA PORTARIA 672/84, PUBLICADA NO DR.IS, 205, DE 840904, NO QUE DIZ RESPEITO A FACULDADE DE ENGENHARIA\
+    \ DA UNIVERSIDADE DO PORTO.\0PORTO.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/672-1984-373796
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:05Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +130,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Nas Universidades portuguesas são professados, com a organização constante dos quadros anexos ao presente decreto, os seguintes cursos de Engenharia:
+Artigo 1.º - 1. Nas Universidades portuguesas são professados, com a organização constante dos quadros anexos ao presente decreto, os seguintes cursos de Engenharia:
 
 a) Engenharia Civil;
 
@@ -126,11 +150,11 @@ f) Engenharia Metalúrgica;
 
 4. A inclusão, em alternativa, no 2.º ano do curso de Engenharia Mecânica, de Cálculo Automático ou de Mecânica I e, no 2.º ano do curso de Engenharia Electrotécnica, de Computadores ou de Mecânica I dependerá de decisão dos conselhos escolares.
 
-###### Art. 2.º As disciplinas básicas dos cursos de Engenharia e as disciplinas complementares dos mesmos cursos continuarão a ser professadas nas escolas em que o têm sido.
+Art. 2.º As disciplinas básicas dos cursos de Engenharia e as disciplinas complementares dos mesmos cursos continuarão a ser professadas nas escolas em que o têm sido.
 
-###### Art. 3.º A Faculdade de Engenharia e o Instituto Superior Técnico poderão organizar, nos termos do artigo 24.º do [Decreto n.º 40378](https://diariodarepublica.pt/dr/detalhe/decreto/40378-1955-248067), de 14 de Novembro de 1955, e do artigo 44.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), cursos pós-graduação, de aperfeiçoamento ou de reciclagem.
+Art. 3.º A Faculdade de Engenharia e o Instituto Superior Técnico poderão organizar, nos termos do artigo 24.º do [Decreto n.º 40378](https://diariodarepublica.pt/dr/detalhe/decreto/40378-1955-248067), de 14 de Novembro de 1955, e do artigo 44.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), cursos pós-graduação, de aperfeiçoamento ou de reciclagem.
 
-###### Art. 4.º - 1. As disciplinas de opção dos três últimos anos dos cursos poderão ser autorizadas desde que se verifiquem simultâneamente as seguintes condições:
+Art. 4.º - 1. As disciplinas de opção dos três últimos anos dos cursos poderão ser autorizadas desde que se verifiquem simultâneamente as seguintes condições:
 
 a) Número de alunos não inferior a dez;
 
@@ -140,15 +164,15 @@ c) Instalações e recursos bibliográficos e laboratoriais necessários para ga
 
 2. Quando o interesse nacional o justifique, poderá o Ministro da Educação Nacional autorizar que sejam leccionadas disciplinas de opção, ainda que não se verifique o requisito estabelecido na alínea a) do número anterior.
 
-###### Art. 5.º Os alunos poderão ser obrigados a frequentar, no decorrer do ano lectivo e durante períodos de tempo variáveis, as oficinas, os laboratórios ou os centros de cálculo que pelo conselho escolar forem indicados.
+Art. 5.º Os alunos poderão ser obrigados a frequentar, no decorrer do ano lectivo e durante períodos de tempo variáveis, as oficinas, os laboratórios ou os centros de cálculo que pelo conselho escolar forem indicados.
 
-###### Art. 6.º - 1. O aproveitamento dos alunos será apreciado ao longo de cada semestre, e o resultado dessa apreciação, nos casos em que existam exames finais, condicionará a admissão a estes.
+Art. 6.º - 1. O aproveitamento dos alunos será apreciado ao longo de cada semestre, e o resultado dessa apreciação, nos casos em que existam exames finais, condicionará a admissão a estes.
 
 2. A apreciação a que se refere o número anterior será feita com base em trabalhos práticos, exercícios escritos, relatórios, exposições, discussões e outros trabalhos dos alunos.
 
-###### Art. 7.º A apreciação favorável do aproveitamento em qualquer disciplina, mesmo que não seja seguida de aprovação no respectivo exame final, permite a inscrição nas disciplinas do semestre imediato em relação às quais a primeira constitua precedência.
+Art. 7.º A apreciação favorável do aproveitamento em qualquer disciplina, mesmo que não seja seguida de aprovação no respectivo exame final, permite a inscrição nas disciplinas do semestre imediato em relação às quais a primeira constitua precedência.
 
-###### Art. 8.º - 1. No fim de cada semestre lectivo será apreciado o aproveitamento obtido pelos alunos das disciplinas correspondentes a esse semestre e serão realizados os exames finais a que houver lugar.
+Art. 8.º - 1. No fim de cada semestre lectivo será apreciado o aproveitamento obtido pelos alunos das disciplinas correspondentes a esse semestre e serão realizados os exames finais a que houver lugar.
 
 2. A época de apreciação do aproveitamento nas disciplinas do 2.º semestre poderá ser utilizada como época de recurso para a realização de exames de máximo de duas disciplinas do 1.º semestre.
 
@@ -156,17 +180,17 @@ c) Instalações e recursos bibliográficos e laboratoriais necessários para ga
 
 4. Não contam para o limite fixado nos números anteriores os exames apenas realizados para melhoria de classificação.
 
-###### Art. 9.º - 1. Nenhum aluno poderá inscrever-se mais de três vezes em qualquer disciplina.
+Art. 9.º - 1. Nenhum aluno poderá inscrever-se mais de três vezes em qualquer disciplina.
 
 2. Não será permitida a inscrição em disciplinas de um semestre a aluno que não esteja inscrito em todas as disciplinas que lhe faltarem de semestres anteriores.
 
-###### Art. 10.º - 1. Os professores catedráticos e extraordinários são obrigados a permanecer na sua escola, durante o período do funcionamento diário dos serviços, em dias e a horas prèviamente anunciados por escrito aos alunos e à direcção, para prestarem quaisquer esclarecimentos e conselhos que sobre matérias das respectivas disciplinas lhes forem solicitados pelos alunos.
+Art. 10.º - 1. Os professores catedráticos e extraordinários são obrigados a permanecer na sua escola, durante o período do funcionamento diário dos serviços, em dias e a horas prèviamente anunciados por escrito aos alunos e à direcção, para prestarem quaisquer esclarecimentos e conselhos que sobre matérias das respectivas disciplinas lhes forem solicitados pelos alunos.
 
 2. A permanência exclusivamente destinada ao fim especial a que se refere o número anterior não poderá totalizar menos de seis horas semanais.
 
 3. Aos restantes elementos docentes é aplicável o disposto no presente artigo, mas o tempo de permanência a que ele se refere conta para efeito do preceituado no n.º 1 do artigo 51.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116).
 
-###### Art. 11.º - 1. Os alunos são obrigados a realizar um estágio relacionado com as matérias do respectivo curso, devendo os directores das escolas de engenharia designar os estabelecimentos industriais, obras ou serviços públicos, nacionais ou estrangeiros, em que os estágios deverão ter lugar.
+Art. 11.º - 1. Os alunos são obrigados a realizar um estágio relacionado com as matérias do respectivo curso, devendo os directores das escolas de engenharia designar os estabelecimentos industriais, obras ou serviços públicos, nacionais ou estrangeiros, em que os estágios deverão ter lugar.
 
 2. O estágio a que se refere o número anterior terá a duração mínima de noventa dias.
 
@@ -174,17 +198,17 @@ c) Instalações e recursos bibliográficos e laboratoriais necessários para ga
 
 4. O disposto no presente artigo é aplicável a todos aqueles que tenham concluído a parte escolar dos cursos, independentemente do plano de estudos que hajam seguido.
 
-###### Art. 12.º As condições de integração dos actuais alunos dos cursos de Engenharia nos novos planos de estudo serão estabelecidas por despacho do Ministro da Educação Nacional, sob proposta dos conselhos escolares.
+Art. 12.º As condições de integração dos actuais alunos dos cursos de Engenharia nos novos planos de estudo serão estabelecidas por despacho do Ministro da Educação Nacional, sob proposta dos conselhos escolares.
 
-###### Art. 13.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
+Art. 13.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 27 de Outubro de 1970.**
+Promulgado em 27 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO I — Planos de estudo dos dois primeiros anos dos cursos de Engenharia
 
@@ -1894,4 +1918,4 @@ Disciplinas de opção e seminários ... 12
 
 ... 32
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

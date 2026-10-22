@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45596-1964-470037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 074091450dad86bd0442d3c175b65eea9d03103a094c01695b90c3341eb542cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c504aa4e82c5d8032294406010d3b13c7c305102647e05b60bb04d18c64fc959
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Canadá
+- Convenção
+- Dinamarca
+- Espanha
+- EUA
+- França
+- Irlanda do Norte
+- Islândia
+- Itália
+- Noruega
+- Oceano Atlântico
+- Pesca
+- Portugal
+- Reino Unido
+- RFA
+- URSS
+- Washington
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:14Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +102,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo à Convenção internacional de pescarias do Noroeste do Atlântico, assinado em Washington em 15 de Julho de 1963, cujos textos, em inglês e respectiva tradução portuguesa, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Protocolo à Convenção internacional de pescarias do Noroeste do Atlântico, assinado em Washington em 15 de Julho de 1963, cujos textos, em inglês e respectiva tradução portuguesa, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -161,21 +178,21 @@ PROTOCOLO À CONVENÇÃO INTERNACIONAL PARA AS PESCARIAS DO NOROESTE DO ATLÂNTI
 
 Os Governos membros da Convenção internacional das pescarias do Noroeste do Atlântico, assinada em Washington em 8 de Fevereiro de 1949, a qual, com as alterações que lhe foram introduzidas, é abaixo mencionada por Convenção, desejosos de estender as disposições da Convenção a determinados tipos de focas (harp and hood seals) acordam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As disposições da Convenção serão aplicáveis a determinados tipos de focas (harp and hood seals) em conformidade com os artigos II e III deste Protocolo.
 
-ARTIGO II
+###### ARTIGO II
 
 1. Os Governos Contratantes instituirão e manterão um comité com jurisdição sobre determinados tipos de focas (harp and hood seals) na área da Convenção. A representação inicial no comité será determinada pela Comissão Internacional para as Pescarias no Noroeste do Atlântico de acordo com a exploração normal de determinados tipos de focas (harp and hood seals) na área da Convenção, tendo os Governos Contratantes, com linha de costa adjacente à área da Convenção, o direito de se fazer representar no referido comité.
 
 2. A representação no comité será revista anualmente pela Comissão, a qual terá a faculdade de determinar aquela representação de acordo com o previsto no parágrafo 1 deste artigo para a representação inicial, sujeito, no entanto, a consulta com o comité.
 
-ARTIGO III
+###### ARTIGO III
 
 As propostas para acção conjunta dos Governos Contratantes relativa a determinados tipos de focas (harp and hood seals), previstas no artigo VIII da Convenção, tornar-se-ão efectivas em relação a todos os Governos Contratantes quatro meses depois de recebidos os instrumentos de aceitação de todos os Governos Contratantes membros do comité pelo Governo depositário.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1. Este Protocolo estará aberto para assinatura e ratificação ou para adesão a todos os Governos partes da Convenção.
 
@@ -185,7 +202,7 @@ ARTIGO IV
 
 4. O Governo dos Estados Unidos da América deverá informar todos os Governos que assinaram ou aderiram à Convenção de todas as ratificações depositadas ou adesões recebidas e da data da entrada em vigor deste Protocolo.
 
-ARTIGO V
+###### ARTIGO V
 
 1. O original deste Protocolo será depositado junto do Governo dos Estados Unidos da América, que deverá enviar cópias certificadas a todos os Governos que assinaram ou aderiram à Convenção.
 

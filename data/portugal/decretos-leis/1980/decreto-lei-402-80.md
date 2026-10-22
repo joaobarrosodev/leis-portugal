@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1980-461831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49051575564e0b7cd7c9a52390c50ed9adb418de2753671cec157253bfb2f2d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fafb03d75e63ae9848d423971a45b3fb0b4b4c48959df26a1a635b4233b541a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Pública
+- Estatística
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:296061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528980:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:12Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +110,16 @@ E tendo em atenção a importância de que se revestem as empresas públicas e s
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Todas as empresas públicas e sociedades anónimas que não revistam a forma cooperativa, com sede ou estabelecimento no continente e regiões autónomas, ficam obrigadas a enviar ao Instituto Nacional de Estatística, no caso do continente, e aos serviços regionais de estatística, no caso das regiões autónomas, logo que aprovados, os seguintes documentos: balanço analítico, demonstração dos resultados líquidos, anexo ao balanço e à documentação de resultados e relatório da gerência.
+Artigo 1.º Todas as empresas públicas e sociedades anónimas que não revistam a forma cooperativa, com sede ou estabelecimento no continente e regiões autónomas, ficam obrigadas a enviar ao Instituto Nacional de Estatística, no caso do continente, e aos serviços regionais de estatística, no caso das regiões autónomas, logo que aprovados, os seguintes documentos: balanço analítico, demonstração dos resultados líquidos, anexo ao balanço e à documentação de resultados e relatório da gerência.
 
-###### Art. 2.º São revogados os artigos 5.º e 6.º do [Decreto n.º 16927](https://diariodarepublica.pt/dr/detalhe/decreto/16927-1929-296061), de 1 de Junho de 1929, assim como o artigo 1.º do [Decreto n.º 26188](https://diariodarepublica.pt/dr/detalhe/decreto/26188-1936-528980), de 10 de Janeiro de 1936.
+Art. 2.º São revogados os artigos 5.º e 6.º do [Decreto n.º 16927](https://diariodarepublica.pt/dr/detalhe/decreto/16927-1929-296061), de 1 de Junho de 1929, assim como o artigo 1.º do [Decreto n.º 26188](https://diariodarepublica.pt/dr/detalhe/decreto/26188-1936-528980), de 10 de Janeiro de 1936.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 de Janeiro de 1981.
+Art. 3.º O presente diploma entra em vigor no dia 1 de Janeiro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 25 de Agosto de 1980.**
+Promulgado em 25 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

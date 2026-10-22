@@ -49,36 +49,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45084-1963-627391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a29c04a09d743225325a751708c71967ba902523ac23d9d0f064fbf6652ab3ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b52e3050a7892c6e7e840c496d91e825c7ec87cbec5f869276560c85700fe26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Aposentação
+- Cálculo de Pensões
+- Exército
+- Militar
+- Pensão de Reforma
+- Pensão de Reserva
+- Reforma
+- Reserva
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:169925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:21Z'
   warnings: []
   errors: []
 ---
@@ -91,8 +117,8 @@ Convém assim estabelecer o mesmo procedimento em relação ao pessoal militar.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Torna-se extensiva a todos os militares das forças armadas em serviço militar nas províncias ultramarinas a percentagem de aumento de 20 por cento indicada na alínea d) do § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, e na alínea e) do § 1.º do artigo 6.º do [Decreto-Lei n.º 30250](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30250-1939-534615), de 30 de Dezembro de 1939, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38117-1950-489179), de 29 de Dezembro de 1950, quando a esses militares não corresponda percentagem de aumento mais elevada, nos termos da legislação em vigor.
+Artigo único. Torna-se extensiva a todos os militares das forças armadas em serviço militar nas províncias ultramarinas a percentagem de aumento de 20 por cento indicada na alínea d) do § 1.º do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, e na alínea e) do § 1.º do artigo 6.º do [Decreto-Lei n.º 30250](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30250-1939-534615), de 30 de Dezembro de 1939, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38117-1950-489179), de 29 de Dezembro de 1950, quando a esses militares não corresponda percentagem de aumento mais elevada, nos termos da legislação em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Francisco António das Chagas.

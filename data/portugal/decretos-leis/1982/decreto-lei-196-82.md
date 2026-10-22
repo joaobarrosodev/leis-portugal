@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11500/13451347.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1982-392410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 259c38602ecb4f1ff5622aeaca766bbd95092749394039a82a9223f9b28e12cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e300e845bab960174c78c36c0d085129582cda2e2b7effe89f5078f37d45073
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579479:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395516:por
+  label: Rectificado pela DECL.DD2020.1982.06.16.PCM,DR.IS [147] de 29/Jun/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395516
+  date: '1982-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:59Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +129,9 @@ Usando da autorização legislativa concedida pelo artigo 19.º da [Lei n.º 40/
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterada a redacção do corpo do artigo 11.º e seu § 7.º, da alínea c) do artigo 17.º, das alíneas b) e f) do artigo 28.º, do corpo do artigo 29.º e do n.º 4) da sua alínea a), da alínea b), do n.º 1) da alínea f) e do § 1.º do artigo 30.º, da tabela das taxas do artigo 33.º, do corpo do artigo 44.º, do § 2.º do artigo 56.º, do § 1.º do artigo 62.º, do § 2.º do artigo 84.º e do § 2.º do artigo 94.º, aditando-se ainda ao artigo 11.º o § 6.º-A e o § único a cada um dos artigos 59.º e 106.º-A do Código do Imposto Complementar, pela forma seguinte:
+Artigo 1.º É alterada a redacção do corpo do artigo 11.º e seu § 7.º, da alínea c) do artigo 17.º, das alíneas b) e f) do artigo 28.º, do corpo do artigo 29.º e do n.º 4) da sua alínea a), da alínea b), do n.º 1) da alínea f) e do § 1.º do artigo 30.º, da tabela das taxas do artigo 33.º, do corpo do artigo 44.º, do § 2.º do artigo 56.º, do § 1.º do artigo 62.º, do § 2.º do artigo 84.º e do § 2.º do artigo 94.º, aditando-se ainda ao artigo 11.º o § 6.º-A e o § único a cada um dos artigos 59.º e 106.º-A do Código do Imposto Complementar, pela forma seguinte:
 
-###### Art. 11.º Os titulares de rendimentos abrangidos pelo artigo 3.º apresentarão, nos meses de Junho e Julho, ou, no caso de auferirem rendimentos da indústria agrícola ou da actividade comercial ou industrial - grupos A e B da respectiva contribuição -, até 15 de Outubro, a declaração modelo n.º 1, quando os rendimentos do ano anterior não isentos de imposto complementar, apurados de harmonia com o disposto nos artigos 15.º e 17.º, excedam no total os seguintes quantitativos:
+Art. 11.º Os titulares de rendimentos abrangidos pelo artigo 3.º apresentarão, nos meses de Junho e Julho, ou, no caso de auferirem rendimentos da indústria agrícola ou da actividade comercial ou industrial - grupos A e B da respectiva contribuição -, até 15 de Outubro, a declaração modelo n.º 1, quando os rendimentos do ano anterior não isentos de imposto complementar, apurados de harmonia com o disposto nos artigos 15.º e 17.º, excedam no total os seguintes quantitativos:
 
 ...
 
@@ -116,13 +141,13 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 c) Os rendimentos nesse ano recebidos pelo respectivo titular ou postos à sua disposição, quando se trate dos mencionados na regra 4.ª e não abrangidos pela alínea anterior, ou dos mencionados nas regras 6.ª e 7.ª, podendo os rendimentos referidos na alínea c) da regra 4.ª que não tenham sido recebidos pelo respectivo titular ou postos à sua disposição no ano ou nos anos a que respeitam ser reportados a cada um desses anos, mas com o limite máximo dos 3 anos civis imediatamente anteriores àquele em que os rendimentos foram recebidos ou postos à disposição dos respectivos titulares;
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 b) As quotizações obrigatórias para instituições de previdência pagas pelos titulares dos rendimentos englobados e, bem assim, outras quotizações obrigatórias a que estejam sujeitos os titulares dos rendimentos do trabalho e quaisquer outras por eles pagas para organizações que tenham por fim a defesa dos seus interesses como trabalhadores, na parte que não constitua despesa para efeito da determinação da matéria colectável do imposto profissional;
 
@@ -132,7 +157,7 @@ f) Os lucros colocados pelo contribuinte à disposição da pessoa ou pessoas qu
 
 ...
 
-###### Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 30% dos rendimentos do trabalho, apurado nos termos da regra 4.ª do artigo 15.º, com o máximo de 50000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
+Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 30% dos rendimentos do trabalho, apurado nos termos da regra 4.ª do artigo 15.º, com o máximo de 50000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
 
 a) ...
 
@@ -140,7 +165,7 @@ a) ...
 
 ...
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 b) Os prémios de seguro de doença, de vida e de acidentes pessoais de qualquer dos titulares dos rendimentos englobados;
 
@@ -156,57 +181,57 @@ f) ...
 
 ...
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/11500/13451347.pdf))](https://files.diariodarepublica.pt/1s/1982/05/11500/13451347.pdf)
-
-...
-
-###### Art. 44.º Sempre que por facto imputável ao contribuinte for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11500/13451347.pdf)
 
 ...
 
-###### Art. 56.º ...
+Art. 44.º Sempre que por facto imputável ao contribuinte for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+
+...
+
+Art. 56.º ...
 
 § 2.º Os exames à escrita das pessoas ou entidades referidas no parágrafo anterior serão realizados pelos técnicos economistas ou pelos técnicos verificadores tributários dos serviços da Direção-Geral das Contribuições e Impostos, conforme a complexidade do exame a realizar, ou, ainda, a requisição da mesma Direcção-Geral, pela Inspecção-Geral de Finanças ou pela Inspecção-Geral de Seguros, consoante o caso.
 
 ...
 
-###### Art. 59.º ...
+Art. 59.º ...
 
 § único. A anulação oficiosa do imposto complementar decorrente da anulação oficiosa de imposto parcelar só poderá ser efectuada se ainda não tiverem decorrido 5 anos sobre a data desta última.
 
 ...
 
-###### Art. 62.º ...
+Art. 62.º ...
 
 § 1.º Contar-se-ão juros de 18% ao ano a favor dos contribuintes sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
 ...
 
-###### Art. 84.º ...
+Art. 84.º ...
 
 § 2.º À soma dos rendimentos abater-se-á, tratando-se de sociedades com sede no continente ou arquipélagos dos Açores e da Madeira, a importância dos lucros colocados à disposição dos sócios e, tratando-se de empresas públicas, as importâncias correspondentes à remuneração do capital estatutário, relativamente ao ano a que o imposto respeita.
 
 ...
 
-###### Art. 94.º ...
+Art. 94.º ...
 
 § 2.º Consideram-se de simples administração de bens, para efeitos deste imposto, as sociedades que limitem a sua actividade à administração de bens ou valores mantidos como reserva ou para fruição, ou à compra de prédios para a habitação dos seus sócios, bem como aquelas que conjuntamente exerçam outras actividades e cujos proveitos ou ganhos provenientes desses bens, valores ou prédios atinjam, na média dos últimos 3 anos, mais de 50% da média, durante o mesmo período, da totalidade dos seus proveitos ou ganhos.
 
 ...
 
-###### Art. 106.º-A ...
+Art. 106.º-A ...
 
 § único. A anulação oficiosa do imposto complementar decorrente da anulação oficiosa do imposto parcelar só poderá ser efectuada se ainda não tiverem decorrido 5 anos sobre a data desta última.
 
-###### Art. 2.º Os rendimentos referidos no n.º 5.º do artigo 6.º do Código do Imposto de Capitais relativos aos anos de 1981, 1982 e 1983 ficam isentos de imposto complementar, secções A e B.
+Art. 2.º Os rendimentos referidos no n.º 5.º do artigo 6.º do Código do Imposto de Capitais relativos aos anos de 1981, 1982 e 1983 ficam isentos de imposto complementar, secções A e B.
 
-###### Art. 3.º O disposto na alínea f) do artigo 28.º do Código do Imposto Complementar, com a redacção dada por este diploma, aplica-se aos lucros colocados pelo contribuinte à disposição da pessoa ou pessoas que tiver interressado sob a forma de conta em participação, nos termos da legislação aplicável anterior ao [Decreto-Lei n.º 231/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1981-579479), de 28 de Julho.
+Art. 3.º O disposto na alínea f) do artigo 28.º do Código do Imposto Complementar, com a redacção dada por este diploma, aplica-se aos lucros colocados pelo contribuinte à disposição da pessoa ou pessoas que tiver interressado sob a forma de conta em participação, nos termos da legislação aplicável anterior ao [Decreto-Lei n.º 231/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1981-579479), de 28 de Julho.
 
-###### Art. 4.º Os contribuintes de imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1981 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se nesse caso o estabelecidos nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 1,75%, multiplicado pelo número de meses, incluindo o do pagamento, em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 5,25%.
+Art. 4.º Os contribuintes de imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1981 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se nesse caso o estabelecidos nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 1,75%, multiplicado pelo número de meses, incluindo o do pagamento, em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código, com o máximo de 5,25%.
 
-###### Art. 5.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças referida no artigo 48.º do Código do Imposto Complementar, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
+Art. 5.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à repartição de finanças referida no artigo 48.º do Código do Imposto Complementar, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
 
 2 - A repartição de finanças ao receber a declaração modelo n.º 1 e anexos, os documentos justificativos e o cheque ou vale de correio deverá proceder à respectiva conferência, processar o conhecimento e promover a cobrança, apresentando, no final de cada dia, na competente tesouraria, os conhecimentos e respectivos meios de pagamento.
 
@@ -214,18 +239,18 @@ f) ...
 
 4 - O pagamento efectuado nos termos do presente artigo não impede a eventual correcção do imposto a mais liquidado, devendo aplicar-se o estabelecido no artigo 61.º do Código do Imposto Complementar.
 
-###### Art. 6.º - 1 - As alterações introduzidas nos artigos 17.º, 29.º, 30.º e 33.º do Código do Imposto Complementar são aplicáveis ao imposto respeitante aos anos de 1981 e seguintes.
+Art. 6.º - 1 - As alterações introduzidas nos artigos 17.º, 29.º, 30.º e 33.º do Código do Imposto Complementar são aplicáveis ao imposto respeitante aos anos de 1981 e seguintes.
 
 2 - A parte final da alínea b) do artigo 28.º do Código do Imposto Complementar, com a redacção dada pelo artigo 1.º do presente diploma, aplica-se aos rendimentos dos anos de 1982 e seguintes.
 
 3 - O disposto no § único dos artigos 59.º e 106.º-A do Código é de aplicação imediata, contando-se o prazo neles previsto a partir da data da entrada em vigor do presente decreto-lei, relativamente aos impostos parcelares cuja anulação oficiosa tenha ocorrido anteriormente.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Maio de 1982.**
+Promulgado em 5 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

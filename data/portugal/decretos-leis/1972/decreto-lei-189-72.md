@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1972-682422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92fa13cbc92c7308e1d96728c218113562e8dafbf36dc8ad5328210ac8e03ac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9345c2a9b89edf4d2ce5f3a57c3b77ed2e96e744f96f49e4210abef4b57ad39e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Algodão
+- Angola.Colónia Portuguesa
+- Comércio
+- Liberalização do Mercado
+- Metrópole
+- Moçambique.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:644532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:45Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +112,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É alterado o prazo de quatro anos referido no artigo 1.º do [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), de 13 de Maio, ficando totalmente liberalizada a comercialização das ramas de algodão ultramarino a partir da actual campanha de 1971-1972, inclusive.
+Artigo 1.º É alterado o prazo de quatro anos referido no artigo 1.º do [Decreto-Lei n.º 202/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1971-644532), de 13 de Maio, ficando totalmente liberalizada a comercialização das ramas de algodão ultramarino a partir da actual campanha de 1971-1972, inclusive.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - João Augusto Dias Rosas.
 
-**Promulgado em 31 de Maio de 1972.**
+Promulgado em 31 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

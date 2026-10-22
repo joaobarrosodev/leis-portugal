@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/479-1970-148255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 451dbcc6792710f6ef2247f42c82a04f912a1589ce3912d01416d960e698db93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2d14c67eef03a0df531a75258ac886722fbe50477fbf2ece44b0de8ea7dff82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:43Z'
   warnings: []
   errors: []
 ---
@@ -92,35 +92,35 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criadas na sede do concelho de Luanda três conservatórias do registo civil.
+Artigo 1.º São criadas na sede do concelho de Luanda três conservatórias do registo civil.
 
-###### Art. 2.º A actual Conservatória do Registo Civil de Luanda e as agora criadas designar-se-ão por 1.ª, 2.ª, 3.ª e 4.ª Conservatórias do Registo Civil de Luanda.
+Art. 2.º A actual Conservatória do Registo Civil de Luanda e as agora criadas designar-se-ão por 1.ª, 2.ª, 3.ª e 4.ª Conservatórias do Registo Civil de Luanda.
 
-###### Art. 3.º A competência territorial dessas Conservatórias coincidirá com a área de cada um dos bairros administrativos do concelho de Luanda, estabelecendo-se entre aquelas e estes a mesma correspondência numérica.
+Art. 3.º A competência territorial dessas Conservatórias coincidirá com a área de cada um dos bairros administrativos do concelho de Luanda, estabelecendo-se entre aquelas e estes a mesma correspondência numérica.
 
-###### Art. 4.º As alterações que vierem a introduzir-se na delimitação dos referidos bairros administrativos só serão consideradas para fins de registo desde que, por via legislativa, for estabelecido o reajustamento da área das correspondentes conservatórias a essas alterações.
+Art. 4.º As alterações que vierem a introduzir-se na delimitação dos referidos bairros administrativos só serão consideradas para fins de registo desde que, por via legislativa, for estabelecido o reajustamento da área das correspondentes conservatórias a essas alterações.
 
-###### Art. 5.º Em cada uma das três Conservatórias referidas no artigo 1.º é criado um lugar de conservador de registo civil de 1.ª classe.
+Art. 5.º Em cada uma das três Conservatórias referidas no artigo 1.º é criado um lugar de conservador de registo civil de 1.ª classe.
 
-###### Art. 6.º São criados os lugares dos quadros do pessoal constantes do mapa I anexo a este decreto.
+Art. 6.º São criados os lugares dos quadros do pessoal constantes do mapa I anexo a este decreto.
 
-###### Art. 7.º Os quadros de cada uma das Conservatórias do Registo Civil de Luanda têm a constituição constante do mapa II anexo a este decreto.
+Art. 7.º Os quadros de cada uma das Conservatórias do Registo Civil de Luanda têm a constituição constante do mapa II anexo a este decreto.
 
-###### Art. 8.º O pessoal do quadro auxiliar da actual Conservatória do Registo Civil de Luanda que, pela constituição dos novos quadros, não puder manter-se ao serviço da conservatória que tomar o lugar daquela transitará para as outras conservatórias, conforme for determinado pelo Governo da província, sob proposta do procurador da República.
+Art. 8.º O pessoal do quadro auxiliar da actual Conservatória do Registo Civil de Luanda que, pela constituição dos novos quadros, não puder manter-se ao serviço da conservatória que tomar o lugar daquela transitará para as outras conservatórias, conforme for determinado pelo Governo da província, sob proposta do procurador da República.
 
-###### Art. 9.º O procurador da República poderá determinar que qualquer dos conservadores, nas suas faltas e impedimentos, seja substituído por oficiais do registo civil que dêem garantia necessária para a direcção da conservatória, quando tal não suceda relativamente aos respectivos ajudantes.
+Art. 9.º O procurador da República poderá determinar que qualquer dos conservadores, nas suas faltas e impedimentos, seja substituído por oficiais do registo civil que dêem garantia necessária para a direcção da conservatória, quando tal não suceda relativamente aos respectivos ajudantes.
 
-###### Art. 10.º É extinto o lugar de contínuo de 1.ª classe da actual Conservatória do Registo Civil, transitando o seu titular, independentemente de qualquer formalidade e visto, para um dois lugares de dactilógrafo previstos no mapa II anexo a este decreto
+Art. 10.º É extinto o lugar de contínuo de 1.ª classe da actual Conservatória do Registo Civil, transitando o seu titular, independentemente de qualquer formalidade e visto, para um dois lugares de dactilógrafo previstos no mapa II anexo a este decreto
 
-###### Art. 11.º Fica o Governo-Geral de Angola autorizado a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 11.º Fica o Governo-Geral de Angola autorizado a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Setembro de 1970.**
+Promulgado em 29 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
@@ -150,6 +150,6 @@ MAPA II
 
 (a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23900/14911492.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23900/14911492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23900/14911492.pdf)
 
 Ministério do Ultramar, 29 de Setembro de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1970-147580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42c7dc90fb787de2ff126a7bd500bdee5586d469e2b53c66a614caa948c937af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57ba0cc29e9a9573867d31f1972479765acf21ada622c38f299705b4631baf18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Círculo Judicial
+- Criação de Lugares
+- Estatuto Judiciário
+- Integração de Serviços
+- Lisboa
+- Mafra
+- Magistrado Judicial
+- Porto
+- Santarém
+- Secretário
+- Tribunal da Relação
+- Tribunal de Comarca
+- Vila Franca de Xira
 relationships:
 - type: amended_by
   target: pt:dre:602770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602770:por
+  label: "Extinta a comarca de Mafra, que pertencia ao cìrculo judicial das Caldas da Rainha, passando a integrar-se no 1º\
+    \ círculo judicial de Lisboa pelo presente diploma, pelo DEC LEI.25/2009.26.01.2009.MJ, DR.IS [17] de 26.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2009-602770
+  date: '2009-01-26'
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516272:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147193:por
+  label: Rectificado [relativamente ao art. 5º] pela DECL.DD10077.13.11.1970.PC, DG.IS [264] de 13.11.1970
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1970-147193
+  date: '1970-11-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:37Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +152,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aumentado de dois juízes desembargadores o quadro da Relação de Lisboa e de um juiz desembargador o quadro da Relação do Porto.
+Artigo 1.º É aumentado de dois juízes desembargadores o quadro da Relação de Lisboa e de um juiz desembargador o quadro da Relação do Porto.
 
-###### Art. 2.º Os artigos 20.º, 451.º e 452.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 20.º, 451.º e 452.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 20.º - 1. ...
+Art. 20.º - 1. ...
 
 2. ...
 
@@ -132,23 +164,23 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os juízes a que se refere o número anterior são nomeados em comissão de serviço, por períodos renováveis de um ano, até ocuparem a vaga que lhes competir no quadro de qualquer das Relações. Finda a comissão sem que se tenha verificado o ingresso nesses quadros, o comissionado será colocado como inspector judicial, nos termos do n.º 1 do artigo 451.º
 
-###### Art. 451.º - 1. Para o exercício da sua actividade disciplinar e para proceder a estudos respeitantes a matérias das suas atribuições, dispõe o Conselho Superior Judiciário de seis inspectores judiciais, nomeados pelo Ministro da Justiça entre juízes desembargadores ou juízes de direito de 1.ª classe. Tendo em consideração as conveniências do serviço, pode o Ministro da Justiça nomear inspectores judiciais extraordinários, em comissão de serviço, recrutados entre os juízes que possam ser nomeados para o quadro ordinário de inspectores judiciais.
+Art. 451.º - 1. Para o exercício da sua actividade disciplinar e para proceder a estudos respeitantes a matérias das suas atribuições, dispõe o Conselho Superior Judiciário de seis inspectores judiciais, nomeados pelo Ministro da Justiça entre juízes desembargadores ou juízes de direito de 1.ª classe. Tendo em consideração as conveniências do serviço, pode o Ministro da Justiça nomear inspectores judiciais extraordinários, em comissão de serviço, recrutados entre os juízes que possam ser nomeados para o quadro ordinário de inspectores judiciais.
 
 2. ...
 
 3. ...
 
-###### Art. 452.º - 1. Para secretariar os inspectores judiciais haverá secretários, recrutados pelo Conselho entre os chefes de secretaria. O número de secretários será fixado pelo Ministro da Justiça, sob proposta do Conselho, tendo em consideração as necessidades do serviço.
+Art. 452.º - 1. Para secretariar os inspectores judiciais haverá secretários, recrutados pelo Conselho entre os chefes de secretaria. O número de secretários será fixado pelo Ministro da Justiça, sob proposta do Conselho, tendo em consideração as necessidades do serviço.
 
 2. ...
 
-###### Art. 3.º As comarcas do actual círculo judicial de Lisboa e as comarcas de Mafra, do círculo judicial das Caldas da Rainha, e de Vila Franca de Xira, do círculo judicial de Santarém, passam a integrar-se em dois novos círculos:
+Art. 3.º As comarcas do actual círculo judicial de Lisboa e as comarcas de Mafra, do círculo judicial das Caldas da Rainha, e de Vila Franca de Xira, do círculo judicial de Santarém, passam a integrar-se em dois novos círculos:
 
 a) O 1.º círculo judicial de Lisboa, constituído pelas comarcas de Cascais, Mafra e Sintra;
 
 b) O 2.º círculo judicial de Lisboa, constituído pelas comarcas de Loures, Oeiras e Vila Franca de Xira.
 
-###### Art. 4.º - 1. O actual presidente do círculo judicial de Lisboa considera-se provido, independentemente de posse ou de qualquer outra formalidade, no lugar de presidente do 1.º círculo judicial de Lisboa.
+Art. 4.º - 1. O actual presidente do círculo judicial de Lisboa considera-se provido, independentemente de posse ou de qualquer outra formalidade, no lugar de presidente do 1.º círculo judicial de Lisboa.
 
 2. Os círculos judiciais criados por este diploma só começarão a funcionar depois de empossado o presidente do 2.º círculo.
 
@@ -156,7 +188,7 @@ b) O 2.º círculo judicial de Lisboa, constituído pelas comarcas de Loures, Oe
 
 4. Os tribunais colectivos das comarcas do círculo judicial de Lisboa e das comarcas de Mafra e de Vila Franca de Xira conservam a competência de que gozam à data deste diploma, mesmo depois de integrados nos círculos criados pelo artigo anterior, relativamente às acções que tenham o visto do respectivo presidente.
 
-###### Art. 5.º Nos mapas I, IV, V e VIII anexos ao Estatuto Judiciário são introduzidas as seguintes alterações:
+Art. 5.º Nos mapas I, IV, V e VIII anexos ao Estatuto Judiciário são introduzidas as seguintes alterações:
 
 MAPA I
 
@@ -314,12 +346,12 @@ Círculo judicial - 2.º círculo de Lisboa.
 
 ...
 
-###### Art. 6.º Os encargos a que der lugar a execução deste decreto-lei serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
+Art. 6.º Os encargos a que der lugar a execução deste decreto-lei serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 30 de Setembro de 1970.**
+Promulgado em 30 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/18800/16641665.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1978-299808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ea92928f6aed5d0fb0fc9edc10f13187408922a6d025c6d6affe8c6cbe69ef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbd78c15a31342225bc168058098c863b2d2c5e2dbe18b7aedaea708dcea44db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Caixa Sindical de Previdência
+- CASA do POVO
+- CASA dos Pescadores
+- Comissão para a Reintegração dos Servidores do Estado
+- Funcionário Público
+- Integração de Trabalhadores
+- Ministério da Reforma Administrativa
+- Pensionista
+- Pessoal de Justiça
+- Prestações da Segurança Social
+- Proteção Social
+- Remuneração
+- Saneamento Político
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:326733:por
+  label: "Alterados os arts. 4º e 5º pelo DEC LEI.364/78.29.11.1978.PCM, DR.IS [275] de 29.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/364-1978-326733
+  date: '1978-11-29'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476345:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:48Z'
   warnings: []
   errors: []
 ---
@@ -112,30 +154,30 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Poderão ser apresentados à Comissão para a Reintegração dos Servidores do Estado os requerimentos previstos no n.º 1 do artigo 2.º do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), de 26 de Abril, e no artigo 1.º do [Decreto-Lei n.º 839/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/839-1976-408142), de 4 de Dezembro, no prazo de noventa dias, a contar da entrada em vigor do presente diploma.
+Artigo 1.º - 1 - Poderão ser apresentados à Comissão para a Reintegração dos Servidores do Estado os requerimentos previstos no n.º 1 do artigo 2.º do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), de 26 de Abril, e no artigo 1.º do [Decreto-Lei n.º 839/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/839-1976-408142), de 4 de Dezembro, no prazo de noventa dias, a contar da entrada em vigor do presente diploma.
 
 2 - Os requerimentos a que alude o número anterior que tenham dado entrada naquela Comissão fora dos prazos que se achavam estabelecidos dão-se como efectiva e atempadamente apresentados para todos os efeitos do disposto neste diploma.
 
 3 - No prazo de trinta dias, a contar da entrada em vigor deste diploma, os serviços competentes dos diferentes departamentos e organismos do Estado remeterão à Comissão os processos ali arquivados.
 
-###### Art. 2.º Mantém-se em vigor o disposto no [Decreto-Lei n.º 839/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/839-1976-408142), de 4 de Dezembro, para os beneficiários das instituições de previdência previstas no n.º 2 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986) que, por motivos políticos, tenham sido impedidos de exercer normalmente a sua actividade profissional, em data anterior à da publicação do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), de 26 de Abril, ou, na sua falta ou incapacidade, os titulares do direito a benefícios por morte.
+Art. 2.º Mantém-se em vigor o disposto no [Decreto-Lei n.º 839/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/839-1976-408142), de 4 de Dezembro, para os beneficiários das instituições de previdência previstas no n.º 2 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986) que, por motivos políticos, tenham sido impedidos de exercer normalmente a sua actividade profissional, em data anterior à da publicação do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), de 26 de Abril, ou, na sua falta ou incapacidade, os titulares do direito a benefícios por morte.
 
-###### Art. 3.º - 1 - Os servidores do Estado que tenham sido aposentados com fundamento em incapacidade para o exercício das suas funções só poderão ser reintegrados ao abrigo do artigo 2.º do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356) se provarem, por meio de certidão de sentença judicial que como tal os declare, serem falsos os motivos invocados para a aposentação.
+Art. 3.º - 1 - Os servidores do Estado que tenham sido aposentados com fundamento em incapacidade para o exercício das suas funções só poderão ser reintegrados ao abrigo do artigo 2.º do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356) se provarem, por meio de certidão de sentença judicial que como tal os declare, serem falsos os motivos invocados para a aposentação.
 
 2 - A propositura de acção judicial para os efeitos do número anterior, dentro do prazo de seis meses, a contar da entrada em vigor deste diploma, constitui justo fundamento para a suspensão do correspondente processo burocrático, até à decisão da mesma acção por sentença com trânsito em julgado.
 
-###### Art. 4.º - 1 - A Comissão para a Reintegração dos Servidores do Estado continuará no exercício das suas funções até ao dia 31 de Dezembro de 1978, data em que se considerará extinta.
+Art. 4.º - 1 - A Comissão para a Reintegração dos Servidores do Estado continuará no exercício das suas funções até ao dia 31 de Dezembro de 1978, data em que se considerará extinta.
 
 2 - Os processos que ainda se encontrem pendentes à data da sua extinção serão remetidos aos departamentos e organismos competentes, nos quais se concluirá a respectiva instrução.
 
-###### Art. 5.º Na Comissão passa a estar representado por um vogal o Ministério da Reforma Administrativa, em substituição do extinto Ministério da Coordenação Interterritorial.
+Art. 5.º Na Comissão passa a estar representado por um vogal o Ministério da Reforma Administrativa, em substituição do extinto Ministério da Coordenação Interterritorial.
 
-###### Art. 6.º Os funcionários de justiça que prestam serviço na Comissão para a Reintegração dos Servidores do Estado têm direito a perceber todas as remunerações dos funcionários da comarca de Lisboa de igual categoria, sendo a diferença, quando existir, suportada pela Presidência do Conselho de Ministros.
+Art. 6.º Os funcionários de justiça que prestam serviço na Comissão para a Reintegração dos Servidores do Estado têm direito a perceber todas as remunerações dos funcionários da comarca de Lisboa de igual categoria, sendo a diferença, quando existir, suportada pela Presidência do Conselho de Ministros.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 2 de Agosto de 1978.**
+Promulgado em 2 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

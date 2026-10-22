@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 285/1974, 1º Suplemento, Série I de 1974-12-07
   number: '285'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1534-(2) a 1534-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/28501/00020003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-1974-486306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b8700f7f905898db2dce820f9497445d2fa7269c6c0f9703c491f0090acceab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa0d8d5f9cd4ea580d83e1bd52a0ccafdc9d67484bc019ba0b20b095cd7f1113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho Diretivo
+- Conselho Geral
+- Definição de Competências
+- Fundo de Fomento da Habitação
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Secretário de Estado da Habitação e Urbanismo
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:383614:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336353:por
+  label: "Dada nova redacção aos arts. 3º e 7º pelo DEC LEI.406/75.29.07.1975.MESA, DG.IS [173] de 29.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1975-336353
+  date: '1975-07-29'
+- type: amended_by
+  target: pt:dre:314468:por
+  label: "Determinada a transição para a Comissão Directiva, das atribuições e competências referidas nos arts. 3.º, 4.º e\
+    \ 5.º, e revogado o n.º 1 do art. 2.º do presente diploma, pelo DEC LEI.427/75.12.08.1975.MESA, DG.IS [185] de 12.08.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1975-314468
+  date: '1975-08-12'
+- type: amended_by
+  target: pt:dre:383614:por
+  label: "Reposto em vigor o n.º 1 do art. 2.º do presente diploma, pelo DEC LEI.158/79.29.05.1979.MHOP, DR.IS [123] de 29.05.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1979-383614
+  date: '1979-05-29'
+- type: cites
+  target: pt:dre:665133:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:33Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +130,13 @@ de 7 de Dezembro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinto o Conselho Geral do Fundo de Fomento da Habitação, passando a ser da competência do Secretário de Estado da Habitação e Urbanismo as atribuições previstas na lei para o referido Conselho, até estar criada a estrutura de ordenamento do território que assegurará de forma descentralizada a participação na orientação do Fundo de vários interesses locais e centrais.
+Artigo 1.º É extinto o Conselho Geral do Fundo de Fomento da Habitação, passando a ser da competência do Secretário de Estado da Habitação e Urbanismo as atribuições previstas na lei para o referido Conselho, até estar criada a estrutura de ordenamento do território que assegurará de forma descentralizada a participação na orientação do Fundo de vários interesses locais e centrais.
 
-###### Art. 2.º - 1. O Conselho Administrativo do Fundo de Fomento da Habitação é constituído pelo presidente, por um dos vice-presidentes a designar pelo Secretário de Estado da Habitação e Urbanismo e pelo director de Serviços de Finanças e Administração.
+Art. 2.º - 1. O Conselho Administrativo do Fundo de Fomento da Habitação é constituído pelo presidente, por um dos vice-presidentes a designar pelo Secretário de Estado da Habitação e Urbanismo e pelo director de Serviços de Finanças e Administração.
 
 2. Às reuniões do Conselho Administrativo assistirá um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado sempre que o Conselho delibere sobre matérias a que se referem os n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro.
 
-###### Art. 3.º - 1. É criado no Fundo de Fomento da Habitação um Conselho Directivo, constituído por:
+Art. 3.º - 1. É criado no Fundo de Fomento da Habitação um Conselho Directivo, constituído por:
 
 a) Presidente do Fundo;
 
@@ -132,7 +164,7 @@ a) Têm direito a uma gratificação de 1000$00 por acumularem tais funções co
 
 b) São solidariamente responsáveis pela realização do programa anual de actividade aprovado.
 
-###### Art. 4.º - 1. Compete ao presidente do Fundo de Fomento da Habitação exercer a chefia do departamento, e designadamente:
+Art. 4.º - 1. Compete ao presidente do Fundo de Fomento da Habitação exercer a chefia do departamento, e designadamente:
 
 a) Dirigir superiormente os serviços do Fundo, assegurando a observância das disposições legais e regulamentares em vigor e as orientações do Governo, de modo a obter a conveniente unidade administrativa e a maior eficiência na execução das diversas funções;
 
@@ -146,15 +178,15 @@ e) Representar o Fundo de Fomento da Habitação em juízo e fora dele.
 
 2. O presidente pode delegar nos vice-presidentes as competências fixadas nas alíneas d) e e) do número anterior.
 
-###### Art. 5.º O âmbito da competência dos vice-presidentes do Fundo de Fomento da Habitação em matéria executiva será definido, em despacho, pelo Secretário de Estado da Habitação e Urbanismo, com expressa referência aos serviços cuja superintendência fica confiada a cada um, e designará qual dos vice-presidentes substitui o presidente nas suas faltas e impedimentos.
+Art. 5.º O âmbito da competência dos vice-presidentes do Fundo de Fomento da Habitação em matéria executiva será definido, em despacho, pelo Secretário de Estado da Habitação e Urbanismo, com expressa referência aos serviços cuja superintendência fica confiada a cada um, e designará qual dos vice-presidentes substitui o presidente nas suas faltas e impedimentos.
 
-###### Art. 6.º Poderão ser alterados por decreto do Ministro do Equipamento Social e do Ambiente, sempre que não se origine aumento de despesa:
+Art. 6.º Poderão ser alterados por decreto do Ministro do Equipamento Social e do Ambiente, sempre que não se origine aumento de despesa:
 
 a) A organização dos serviços;
 
 b) Os quadros do pessoal.
 
-###### Art. 7.º - 1. Os quadros do pessoal do Fundo de Fomento da Habitação constam do decreto que alterará a organização dos serviços.
+Art. 7.º - 1. Os quadros do pessoal do Fundo de Fomento da Habitação constam do decreto que alterará a organização dos serviços.
 
 2. Os cargos de director de serviços e de chefe de divisão do Fundo de Fomento da Habitação passam a ser exercidos, em regime de comissão de serviço, por tempo indeterminado.
 
@@ -164,20 +196,20 @@ b) Os quadros do pessoal.
 
 5. É criado o cargo de notário privativo do Fundo de Fomento da Habitação.
 
-###### Art. 8.º - 1. Serão criadas delegações externas do Fundo de Fomento da Habitação em número, áreas de jurisdição e com sedes adequadas aos programas do Fundo de Fomento da Habitação e em conformidade com a política de descentralização definida pelo Governo, mediante simples despacho ministerial.
+Art. 8.º - 1. Serão criadas delegações externas do Fundo de Fomento da Habitação em número, áreas de jurisdição e com sedes adequadas aos programas do Fundo de Fomento da Habitação e em conformidade com a política de descentralização definida pelo Governo, mediante simples despacho ministerial.
 
 2. A direcção das delegações cabe a técnico-chefe e poderá ser exercida em acumulação com a de delegado de outras direcções-gerais do Ministério com a qual a política habitacional deva ser coordenada.
 
 3. O chefe de delegação aufere a gratificação de 1000$00.
 
-###### Art. 9.º As dúvidas suscitadas na interpretação e aplicação do presente decreto-lei serão resolvidas por despacho ministerial.
+Art. 9.º As dúvidas suscitadas na interpretação e aplicação do presente decreto-lei serão resolvidas por despacho ministerial.
 
-###### Art. 10.º Este decreto-lei entra imediatamente em vigor.
+Art. 10.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 5 de Dezembro de 1974.**
+Promulgado em 5 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

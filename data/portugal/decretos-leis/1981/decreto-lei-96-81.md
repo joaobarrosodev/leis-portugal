@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1981-394737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d34f152231e47f197e5a19dc8bfe4261db4ebe358cf909376dd6cc993d9741b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031e9e02ea6153a00657ba63fc0ecc003a34ac936710d5a6ec970a341dcd77c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Descentralização
+- Gabinete de Gestão do Fundo de Desemprego
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:16Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Ouvido o Governo Regional dos Açores:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Região Autónoma dos Açores todas as atribuições e competências que, em matérias inseridas no âmbito do Gabinete de Gestão do Fundo de Desemprego, cabem, naquela Região, ao Ministério do Trabalho.
+Artigo 1.º São transferidas para a Região Autónoma dos Açores todas as atribuições e competências que, em matérias inseridas no âmbito do Gabinete de Gestão do Fundo de Desemprego, cabem, naquela Região, ao Ministério do Trabalho.
 
-###### Art. 2.º São extintas as Delegações do Gabinete de Gestão do Fundo de Desemprego em Ponta Delgada, Angra do Heroísmo e Horta, transitando as suas atribuições para a Secretaria Regional do Trabalho, que definirá a futura estrutura dos serviços, tendo em conta a natureza específica da Região.
+Art. 2.º São extintas as Delegações do Gabinete de Gestão do Fundo de Desemprego em Ponta Delgada, Angra do Heroísmo e Horta, transitando as suas atribuições para a Secretaria Regional do Trabalho, que definirá a futura estrutura dos serviços, tendo em conta a natureza específica da Região.
 
-###### Art. 3.º - 1 - O pessoal do Ministério do Trabalho adstrito aos serviços extintos e que desempenhe funções na Região Autónoma dos Açores, qualquer que seja a sua forma de provimento, será integrado no quadro de pessoal dos serviços dependentes da Secretaria Regional do Trabalho em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no mesmo lugar o tempo de serviço prestado no seu actual cargo.
+Art. 3.º - 1 - O pessoal do Ministério do Trabalho adstrito aos serviços extintos e que desempenhe funções na Região Autónoma dos Açores, qualquer que seja a sua forma de provimento, será integrado no quadro de pessoal dos serviços dependentes da Secretaria Regional do Trabalho em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se, para todos os efeitos, como se fora no mesmo lugar o tempo de serviço prestado no seu actual cargo.
 
 2 - A integração e a colocação previstas no n.º 1 deste artigo serão efectuadas mediante lista nominativa elaborada pela Secretaria Regional do Trabalho, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República e no Jornal Oficial da Região Autónoma dos Açores.
 
@@ -105,38 +113,38 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os funcionários mencionados no n.º 1 que venham a ser integrados nos quadros dos serviços da Região Autónoma dos Açores e que, ao aposentarem-se, pretendam fixar residência no continente manterão os direitos consignados no que se refere a transporte de pessoas e bens.
 
-###### Art. 4.º A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto neste diploma transita para o Governo Regional, mediante simples inventário.
+Art. 4.º A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto neste diploma transita para o Governo Regional, mediante simples inventário.
 
-###### Art. 5.º - 1 - Passam a constituir receitas da Região Autónoma dos Açores as quotizações para o Fundo de Desemprego liquidadas e cobradas na mesma, de harmonia com o [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, com as alterações subsequentes.
+Art. 5.º - 1 - Passam a constituir receitas da Região Autónoma dos Açores as quotizações para o Fundo de Desemprego liquidadas e cobradas na mesma, de harmonia com o [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, com as alterações subsequentes.
 
 2 - Entende-se, para os efeitos previstos no número anterior, que há também incidência de quotizações para a Região Autónoma dos Açores sobre as relações jurídico-laborais existentes em todas as filiais, sucursais, agências, delegações ou organismos com denominação similar de pessoas singulares ou colectivas, incluindo as empresas públicas nacionalizadas ou intervencionadas pelo Estado, nacionais ou estrangeiras, sitas na Região, embora com sede ou serviços centrais fora dela.
 
 3 - Os contribuintes abrangidos pelo disposto no número anterior deverão depositar na repartição de finanças do concelho da Região onde estiver situada a filial, sucursal, agência, delegação ou organismo similar as quotizações relativas aos trabalhadores que aí prestem serviços, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272).
 
-###### Art. 6.º As importâncias em dinheiro arrecadadas nas tesourarias da Fazenda Pública situadas na Região e ainda o adicional à contribuição predial mencionado no artigo 3.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) serão transferidos mensalmente para a conta da Região Autónoma dos Açores no Banco de Portugal.
+Art. 6.º As importâncias em dinheiro arrecadadas nas tesourarias da Fazenda Pública situadas na Região e ainda o adicional à contribuição predial mencionado no artigo 3.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) serão transferidos mensalmente para a conta da Região Autónoma dos Açores no Banco de Portugal.
 
-###### Art. 7.º As repartições de finanças da Região Autónoma dos Açores enviarão ao organismo regional de gestão do Fundo de Desemprego, até ao dia 10 de cada mês, as guias de pagamento das quotizações para o Fundo de Desemprego que nelas tenham dado entrada no mês anterior, devidamente relacionadas e acompanhadas da guia de depósito no Banco de Portugal em conta da Região Autónoma dos Açores das importâncias arrecadadas para aquele Fundo durante o mesmo mês.
+Art. 7.º As repartições de finanças da Região Autónoma dos Açores enviarão ao organismo regional de gestão do Fundo de Desemprego, até ao dia 10 de cada mês, as guias de pagamento das quotizações para o Fundo de Desemprego que nelas tenham dado entrada no mês anterior, devidamente relacionadas e acompanhadas da guia de depósito no Banco de Portugal em conta da Região Autónoma dos Açores das importâncias arrecadadas para aquele Fundo durante o mesmo mês.
 
-###### Art. 8.º - 1 - Estando verificadas as condições e as circunstâncias a que se reporta o artigo 17.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), será remetida a certidão do respectivo processo, pela Secretaria Regional do Trabalho, aos tribunais das contribuições e impostos da área do domicílio do devedor, aos quais competirá a cobrança coerciva das quotizações, multas e demais quantias em dívida ao respectivo Fundo.
+Art. 8.º - 1 - Estando verificadas as condições e as circunstâncias a que se reporta o artigo 17.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), será remetida a certidão do respectivo processo, pela Secretaria Regional do Trabalho, aos tribunais das contribuições e impostos da área do domicílio do devedor, aos quais competirá a cobrança coerciva das quotizações, multas e demais quantias em dívida ao respectivo Fundo.
 
 2 - Os tribunais a que se reporta o § 1.º do artigo 12.º e, bem assim, o § 1.º do artigo 17.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) farão depositar em conta da Região Autónoma dos Açores no Banco de Portugal o produto da cobrança coerciva das quotizações, multas e demais quantias em dívida ao respectivo Fundo.
 
 3 - O resultado das execuções será sempre comunicado à Secretaria Regional do Trabalho.
 
-###### Art. 9.º Todas as entidades oficiais competentes para indicar quantias devidas e não satisfeitas e accionar o processamento de multas cujo destino legal ou convencional seja o Fundo de Desemprego deverão dar oportuno conhecimento desse facto ao organismo regional de gestão, a quem identificarão, nos termos usuais, a pessoa do infractor ou infractores, o diploma legal e o instrumento normativo ou a convenção colectiva que prevê e tipifica a infracção e quantificação dos valores pecuniários sancionatórios.
+Art. 9.º Todas as entidades oficiais competentes para indicar quantias devidas e não satisfeitas e accionar o processamento de multas cujo destino legal ou convencional seja o Fundo de Desemprego deverão dar oportuno conhecimento desse facto ao organismo regional de gestão, a quem identificarão, nos termos usuais, a pessoa do infractor ou infractores, o diploma legal e o instrumento normativo ou a convenção colectiva que prevê e tipifica a infracção e quantificação dos valores pecuniários sancionatórios.
 
-###### Art. 10.º Será assegurado pela Secretaria de Estado do Emprego e pela Secretaria Regional do Trabalho o intercâmbio de informações técnicas sobre problemas relacionados com a gestão do Fundo de Desemprego.
+Art. 10.º Será assegurado pela Secretaria de Estado do Emprego e pela Secretaria Regional do Trabalho o intercâmbio de informações técnicas sobre problemas relacionados com a gestão do Fundo de Desemprego.
 
-###### Art. 11.º A partir do dia 1 do mês seguinte àquele em que o diploma for publicado, as despesas com os serviços agora regionalizados serão orçamentadas e garantidas pelo orçamento da Região Autónoma dos Açores.
+Art. 11.º A partir do dia 1 do mês seguinte àquele em que o diploma for publicado, as despesas com os serviços agora regionalizados serão orçamentadas e garantidas pelo orçamento da Região Autónoma dos Açores.
 
-###### Art. 12.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma dos Açores e do Ministro do Trabalho, ouvido o Governo da Região.
+Art. 12.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma dos Açores e do Ministro do Trabalho, ouvido o Governo da Região.
 
-###### Art. 13.º O presente diploma entra em vigor no dia 1 do mês seguinte àquele em que for publicado.
+Art. 13.º O presente diploma entra em vigor no dia 1 do mês seguinte àquele em que for publicado.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1981. - Francisco José Pereira Pinto Balsemão - Henrique Alberto Freitas do Nascimento Rodrigues.
 
-**Promulgado em 15 de Abril de 1981.**
+Promulgado em 15 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

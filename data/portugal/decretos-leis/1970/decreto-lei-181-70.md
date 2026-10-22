@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/04/09900/05220523.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1970-225986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 076984d97abec2921a31c211ffa7b578c9a0f946e623040c019888ddc9c53701
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e84e743df76d68f1acb71718361a9cb60c0a57d356e9f5b349f724769ad0cc5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ACTO Administrativo
+- Administração Pública
+- Câmara Municipal
+- Processo Administrativo
+- Publicitação
+- Servidão Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:25345938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596932:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345938:por
+  label: "Revogado, a partir de 29.06.2014, o presente diploma pela LEI.31/2014.30.05.2014.AR, DR.IS [104] de 30.05.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2014-25345938
+  date: '2014-05-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:17Z'
   warnings: []
   errors: []
 ---
@@ -121,33 +157,33 @@ Nestes termos, ouvida a Câmara Corporativa:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Sempre que a constituição de uma servidão administrativa exija a prática de um acto da Administração, deverá este ser precedido de aviso público e ser facultada audiência aos interessados.
+Artigo 1.º - 1. Sempre que a constituição de uma servidão administrativa exija a prática de um acto da Administração, deverá este ser precedido de aviso público e ser facultada audiência aos interessados.
 
 2. O referido processo será também observado nos casos de ampliação da zona sujeita a servidão e naqueles em que esta se torne mais onerosa.
 
-###### Art. 2.º - 1. Para os efeitos do disposto no artigo anterior, a entidade competente para promover a constituição ou alteração da servidão dará conhecimento à câmara municipal do concelho a que pertencer a área que se presume vir a ser sujeita a servidão dos termos em que se projecta a respectiva constituição ou alteração, com indicação daquela área e dos encargos e restrições a impor.
+Art. 2.º - 1. Para os efeitos do disposto no artigo anterior, a entidade competente para promover a constituição ou alteração da servidão dará conhecimento à câmara municipal do concelho a que pertencer a área que se presume vir a ser sujeita a servidão dos termos em que se projecta a respectiva constituição ou alteração, com indicação daquela área e dos encargos e restrições a impor.
 
 2. A comunicação será feita logo que os estudos elaborados permitam definir com razoável probabilidade os termos projectados para a constituição ou alteração da servidão.
 
-###### Art. 3.º - 1. A câmara municipal, no prazo de vinte dias, dará publicidade à comunicação recebida e convidará os interessados a apresentar quaisquer reclamações no prazo de trinta dias.
+Art. 3.º - 1. A câmara municipal, no prazo de vinte dias, dará publicidade à comunicação recebida e convidará os interessados a apresentar quaisquer reclamações no prazo de trinta dias.
 
 2. Para esse efeito, a câmara promoverá a afixação de editais nos lugares de estilo e a publicação de correspondente aviso num dos jornais publicados no concelho ou, na sua falta, num dos mais lidos na área.
 
 3. A entidade competente para a constituição da servidão reembolsará a câmara municipal da despesa feita com a publicação do aviso.
 
-###### Art. 4.º As reclamações poderão ter por objecto a ilegalidade ou inutilidade da constituição ou alteração da servidão ou a sua excessiva amplitude ou onerosidade.
+Art. 4.º As reclamações poderão ter por objecto a ilegalidade ou inutilidade da constituição ou alteração da servidão ou a sua excessiva amplitude ou onerosidade.
 
-###### Art. 5.º - 1. Decorrido o prazo a que se refere a última parte do n.º 1 do artigo 3.º, a câmara municipal, nos dez dias seguintes, enviará à entidade competente as reclamações apresentadas, para apreciação no estudo final da constituição ou alteração da servidão, ou comunicará a falta de apresentação de reclamações.
+Art. 5.º - 1. Decorrido o prazo a que se refere a última parte do n.º 1 do artigo 3.º, a câmara municipal, nos dez dias seguintes, enviará à entidade competente as reclamações apresentadas, para apreciação no estudo final da constituição ou alteração da servidão, ou comunicará a falta de apresentação de reclamações.
 
 2. Em qualquer dos casos, poderá a câmara formular as observações que lhe parecerem convenientes para o mesmo efeito.
 
-###### Art. 6.º Na falta do envio das reclamações ou da comunicação a que se refere o n.º 1 do artigo 5.º, a entidade competente promoverá as diligências previstas nos n.os 1 e 2 do artigo 3.º, devendo, nesse caso, ser-lhe apresentadas directamente as reclamações dos interessados.
+Art. 6.º Na falta do envio das reclamações ou da comunicação a que se refere o n.º 1 do artigo 5.º, a entidade competente promoverá as diligências previstas nos n.os 1 e 2 do artigo 3.º, devendo, nesse caso, ser-lhe apresentadas directamente as reclamações dos interessados.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 20 de Abril de 1970.**
+Promulgado em 20 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/312-1971-642713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e836b498723d06d886a2e6dc74f931b0c32e8c8cc93d86227aaef63c5618e706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3452fc6867858f54ddd8a63cfc33e776d0718636ff9cfc630df1ad0437fb883c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:16Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +94,19 @@ Por motivo de urgência e tendo em vista o disposto no § 1.º do artigo 150.º 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta da eu promulgo o seguinte:
 
-###### Artigo 1.º Os quadros, categorias e remunerações do pessoal dos Transportes Aéreos de Cabo Verde, constantes dos mapas anexos ao Diploma Legislativo Ministerial n.º 3, de 16 de Fevereiro de 1968, passam a ser os que se indicam nas tabelas anexas ao presente diploma.
+Artigo 1.º Os quadros, categorias e remunerações do pessoal dos Transportes Aéreos de Cabo Verde, constantes dos mapas anexos ao Diploma Legislativo Ministerial n.º 3, de 16 de Fevereiro de 1968, passam a ser os que se indicam nas tabelas anexas ao presente diploma.
 
-###### Art. 2.º - 1. O pessoal a que se refere o artigo anterior, actualmente provido, transitará sem mais formalidades, visto e posse para as novas categorias, com todos os direitos já adquiridos.
+Art. 2.º - 1. O pessoal a que se refere o artigo anterior, actualmente provido, transitará sem mais formalidades, visto e posse para as novas categorias, com todos os direitos já adquiridos.
 
 2. Os Transportes Aéreos de Cabo Verde publicarão uma lista nominal do pessoal referido no n.º 1 deste artigo, considerando-se os funcionários nela integrados a partir da data da entrada em vigor deste diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 2 de Julho de 1971.**
+Promulgado em 2 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -114,6 +114,6 @@ Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 Do MAPA I ao MAPA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16700/10261028.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16700/10261028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16700/10261028.pdf)
 
-**O Ministro do ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do ultramar, Joaquim Moreira da Silva Cunha.

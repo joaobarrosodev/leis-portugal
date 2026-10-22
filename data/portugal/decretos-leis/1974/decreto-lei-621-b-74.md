@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 266/1974, 3º Suplemento, Série I de 1974-11-15
   number: '266'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1388-(15) a 1388-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/26603/00150016.pdf
 entry_into_force_dates: []
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-b-1974-309908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 175406225caf66148826fec25fd8fa2beda730018d45c8c8e66b7583ceb44a1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1ef47d4ea7352f943c642fe4879d7fe66c5a9e0d651d94c2f526a939feffb79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Eleição
 relationships:
 - type: amended_by
   target: pt:dre:313053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504093:por
+  label: Portaria n.º 814-A/74 - Diário do Governo n.º 291/1974, 1º Suplemento, Série I de 1974-12-14 (Altera as alíneas f)
+    e n) do artigo 1.º e n.º 1 do artigo 4.º )
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-a-1974-504093
+  date: '1974-12-13'
+- type: amended_by
+  target: pt:dre:356760:por
+  label: "Alterada a al. d) e acrescentada a al. p) ao art. 1º pelo DEC LEI.4/75.07.01.1975.PCM, DG.IS [5-Supl] de 07.01.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-1975-356760
+  date: '1975-01-07'
+- type: cites
+  target: pt:dre:309893:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:42Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +111,7 @@ Considerando o disposto no artigo 8.º do [Decreto-Lei n.º 621-A/74](https://di
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, e tendo sido dado cumprimento ao disposto na alínea a), 2.º, do n.º 1 do artigo 13.º da mesma lei, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Não são eleitores da Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar as funções de:
+Artigo 1.º Não são eleitores da Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar as funções de:
 
 a) Presidente da República, Presidente do Conselho de Ministros, Ministro e membro do Conselho de Estado;
 
@@ -123,7 +141,7 @@ n) Comissário nacional e comissário nacional-adjunto das extintas Mocidade Por
 
 o) Presidente das comissões de censura ou exame prévio à imprensa, espectáculos, rádio e televisão.
 
-###### Art. 2.º Além dos indicados no artigo anterior, não são também elegíveis para a Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar funções de:
+Art. 2.º Além dos indicados no artigo anterior, não são também elegíveis para a Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar funções de:
 
 a) Presidente da câmara municipal;
 
@@ -139,22 +157,22 @@ f) Informador comprovado das organizações referidas nas alíneas i) e m) do ar
 
 g) Membro da Liga 28 de Maio ou da Liga dos Antigos Graduados da Mocidade Portuguesa.
 
-###### Art. 3.º Não são abrangidos pelas incapacidades referidas nos artigos anteriores os cidadãos que, após 25 de Abril de 1974, tenham sido nomeados pelo Presidente da República, Movimento das Forças Armadas, Junta de Salvação Nacional ou Governo Provisório para o exercício de funções políticas, públicas ou de interesse público.
+Art. 3.º Não são abrangidos pelas incapacidades referidas nos artigos anteriores os cidadãos que, após 25 de Abril de 1974, tenham sido nomeados pelo Presidente da República, Movimento das Forças Armadas, Junta de Salvação Nacional ou Governo Provisório para o exercício de funções políticas, públicas ou de interesse público.
 
-###### Art. 4.º - 1. O tribunal de relação do distrito judicial da residência do interessado poderá, a requerimento deste, declarar não abrangidos pelas incapacidades previstas nos artigos 1.º e 2.º os que, anteriormente a 25 de Abril de 1974, hajam praticado actos de inequívoco repúdio do regime político deposto pelo Movimento das Forças Armadas ou se tenham conduzido em termos de a sua acção não constituir apoio efectivo a esse regime.
+Art. 4.º - 1. O tribunal de relação do distrito judicial da residência do interessado poderá, a requerimento deste, declarar não abrangidos pelas incapacidades previstas nos artigos 1.º e 2.º os que, anteriormente a 25 de Abril de 1974, hajam praticado actos de inequívoco repúdio do regime político deposto pelo Movimento das Forças Armadas ou se tenham conduzido em termos de a sua acção não constituir apoio efectivo a esse regime.
 
 2. O tribunal apreciará, livremente e sem recurso, os requerimentos e as provas dos respectivos fundamentos, podendo, para esclarecimento dos mesmos, ordenar oficiosamente as diligências que julgar indispensáveis.
 
 3. A apreciação dos requerimentos terá preferência sobre o exercício das demais funções do tribunal.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás.
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 15 de Novembro de 1974.**
+Promulgado em 15 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/09/22600/13071308.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49264-1969-214262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93a000e8ede47b313f1d9405dbfd68c609139075c7b7106c5cfd827a3e5ebdfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0a3cfc50e817cbbf877b883bf63e78d7a1bdfdcf4967853048b08a4c8e2b7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Militar
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161707:por
+  label: "Alterada a al. i) do art. 10º do Dec Lei 41492, de 31-Dez, 1957, na redacção do presente diploma, pelo DEC LEI.182/75.03.04.1975.CCEMFA,\
+    \ DG.IS [78] de 03.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1975-161707
+  date: '1975-04-03'
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:53Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +115,9 @@ Tornando-se necessário adaptar aquelas condições à situação anormal que se
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 2.º, 6.º e 10.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º, 6.º e 10.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. O pessoal não permanente privativo da Força Aérea na disponibilidade pode, por determinação do Ministro da Defesa Nacional, sob proposta do Secretário de Estado da Aeronáutica, ser anualmente convocado para exercícios ou manobras, por período não superior a três semanas.
+Art. 2.º - 1. O pessoal não permanente privativo da Força Aérea na disponibilidade pode, por determinação do Ministro da Defesa Nacional, sob proposta do Secretário de Estado da Aeronáutica, ser anualmente convocado para exercícios ou manobras, por período não superior a três semanas.
 
 Pode igualmente o Ministro da Defesa Nacional, sob proposta do Secretário de Estado da Aeronáutica, autorizar a convocação do referido pessoal para um período de instrução, não excedente a três meses, destinado à obtenção de condições de promoção.
 
@@ -103,7 +125,7 @@ Por decisão do Conselho Superior de Defesa Nacional, sob proposta do Ministro d
 
 ...
 
-###### Art. 6.º O pessoal militar permanente privativo da Força Aérea serve:
+Art. 6.º O pessoal militar permanente privativo da Força Aérea serve:
 
 I) Oficiais
 
@@ -125,7 +147,7 @@ Em regime de contrato pelo período de três anos, nas condições expressas par
 
 ...
 
-###### Art. 10.º O pessoal militar não permanente privativo da Força Aérea permanece nas fileiras:
+Art. 10.º O pessoal militar não permanente privativo da Força Aérea permanece nas fileiras:
 
 I) Oficiais milicianos e sargentos milicianos
 
@@ -141,8 +163,8 @@ Durante o período de obrigação normal de serviço e durante os períodos de i
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 19 de Setembro de 1969.**
+Promulgado em 19 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

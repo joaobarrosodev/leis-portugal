@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1977-252195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c74e5bdf732bbc7dfca722cca45066e1f38e397df98f908131329c2213b8c8c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27ae37b80709a31250534bbc4514513b0599b5b16be2bf90af4697f593ed93cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Capital Social
+- Comissão de Fiscalização
+- Conselho de Administração
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- Fábrica Escola Irmãos Stephens
+- Gestão do Património
+- Gestão Financeira
+- Marinha Grande
+- Ministério da Indústria e Tecnologia
+- Quadro de Pessoal
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:468013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457424:por
+  label: "Alterada a al. m) do nº 2 do art. 18º do Estatuto, pelo DEC LEI.543/80.10.11.1980.MIE, DR.IS [260] de 10.11.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/543-1980-457424
+  date: '1980-11-10'
+- type: amended_by
+  target: pt:dre:468013:por
+  label: "Transformada em sociedade anónima a empresa pública Fábrica-Escola Irmãos Stephens, E. P., pelo DEC LEI.98/91.02.03.1991.MIE,\
+    \ DR.IS-A [51] de 02.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1991-468013
+  date: '1991-03-02'
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592075:por
+  label: null
+  source: null
 article_structure:
-  article_count: 59
+  article_count: 58
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:53Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +146,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É constituída uma empresa pública denominada Fábrica-Escola Irmãos Stephens, E. P., que poderá usar apenas a sigla FEIS, a qual incorpora o património e o quadro do pessoal da Fábrica-Escola Irmãos Stephens, serviço externo do Instituto Nacional de Investigação Industrial, por força do artigo 7.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959.
+Artigo 1.º - 1. É constituída uma empresa pública denominada Fábrica-Escola Irmãos Stephens, E. P., que poderá usar apenas a sigla FEIS, a qual incorpora o património e o quadro do pessoal da Fábrica-Escola Irmãos Stephens, serviço externo do Instituto Nacional de Investigação Industrial, por força do artigo 7.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959.
 
 2. A FEIS é uma pessoa colectiva dotada de personalidade jurídica, autonomia administrativa, financeira e patrimonial, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e subsidiariamente pelas normas do direito privado.
 
-###### Art. 2.º - 1. É transferida para a FEIS, na data de entrada em vigor deste diploma, a universalidade dos direitos e obrigações da Fábrica-Escola Irmãos Stephens.
+Art. 2.º - 1. É transferida para a FEIS, na data de entrada em vigor deste diploma, a universalidade dos direitos e obrigações da Fábrica-Escola Irmãos Stephens.
 
 2. A transmissão prevista no número anterior opera-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo os de registo.
 
@@ -116,29 +158,29 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4. As transmissões de que trata este artigo serão registadas mediante averbamento e ficam isentas de todos os impostos, taxas e emolumentos.
 
-###### Art. 3.º Os direitos de participação social e as obrigações conexas que hajam sido transferidas para a FEIS poderão ser subtraídas da titularidade desta mediante despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia e nas condições fixadas no mesmo.
+Art. 3.º Os direitos de participação social e as obrigações conexas que hajam sido transferidas para a FEIS poderão ser subtraídas da titularidade desta mediante despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia e nas condições fixadas no mesmo.
 
-###### Art. 4.º - 1. Transitarão para a FEIS, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste decreto-lei estiverem ao serviço da Fábrica-Escola Irmãos Stephens.
+Art. 4.º - 1. Transitarão para a FEIS, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste decreto-lei estiverem ao serviço da Fábrica-Escola Irmãos Stephens.
 
 2. Os trabalhadores de que trata este artigo transitarão para a FEIS integrados nos quadros de origem e com os direitos e obrigações emergentes da respectiva situação nesses quadros.
 
-###### Art. 5.º - 1. A FEIS mantém as isenções, benefícios ou autorizações de natureza fiscal ou outra que à data de entrada em vigor deste diploma estivessem atribuídos à Fábrica-Escola Irmãos Stephens.
+Art. 5.º - 1. A FEIS mantém as isenções, benefícios ou autorizações de natureza fiscal ou outra que à data de entrada em vigor deste diploma estivessem atribuídos à Fábrica-Escola Irmãos Stephens.
 
-###### Art. 6.º Os poderes de tutela do Governo sobre a FEIS são exercidos pelo Ministro da Indústria e Tecnologia.
+Art. 6.º Os poderes de tutela do Governo sobre a FEIS são exercidos pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 7.º Em consequência da incorporação do património e dos quadros do pessoal da Fábrica-Escola Irmãos Stephens na empresa pública agora criada, deixa a mesma de constituir um serviço externo do Instituto Nacional de Investigação Industrial.
+Art. 7.º Em consequência da incorporação do património e dos quadros do pessoal da Fábrica-Escola Irmãos Stephens na empresa pública agora criada, deixa a mesma de constituir um serviço externo do Instituto Nacional de Investigação Industrial.
 
 Art 8.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Tutela ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeite a mais de um Ministério.
 
-###### Art. 9.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 9.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 3 de Maio de 1977.**
+Promulgado em 3 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA FÁBRICA-ESCOLA IRMÃOS STEPHENS, E. P. - FEIS
 
@@ -724,4 +766,4 @@ Os rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação 
 
 A empresa fica sujeita à tributação directa e indirecta, nos termos gerais de direito fiscal.
 
-**O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.**
+O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.

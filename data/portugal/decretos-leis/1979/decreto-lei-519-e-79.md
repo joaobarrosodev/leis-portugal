@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/1979, 2º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3414-(14) a 3414-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29802/00140017.pdf
 entry_into_force_dates: []
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e-1979-510046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d73132d8c84c213d9b7996523dd80dfbc2ac1ad2deb18bf253cfb443569916
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c71e4166c8f95c18ba150b38aba5df8777ac7406190bc8ffe85bb420c7bd1a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Português no Estrangeiro
+- Estatuto
+- Pessoal Docente
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DR.IS, 59, DE 790311. REVOGADO O ARTIGO 12 PELO DECRETO LEI 341/84, PUBLICADO NO DR.IS,\
+    \ 247, DE 841024.\0 841024.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:222629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382178:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:679072:por
+  label: Rectificado pela DECL.DD6769.21.02.1980.PCM, DR.IS [59] de 11.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679072
+  date: '1980-02-21'
+- type: repealed_by
+  target: pt:dre:400223:por
+  label: Revogado o art. 12.º pelo(a) Decreto-Lei n.º 341/84 - Diário da República n.º 247/1984, Série I de 1984-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/341-1984-400223
+  date: '1984-10-24'
+- type: repealed_by
+  target: pt:dre:222629:por
+  label: "Revogado o presente diploma, com excepção do seu art. 14º, que se mantém vigente até à entrada em vigor do diploma\
+    \ que definir o sistema de protecção social específico dos professores de ensino de português no estrangeiro, pelo DEC\
+    \ LEI.13/98.1998.01.24.ME DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1998-222629
+  date: '1998-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:05Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +145,9 @@ Tendo em consideração o disposto na [Lei n.º 74/77](https://diariodarepublica
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O preenchimento dos lugares docentes para o magistério em cursos de ensino básico e secundário no estrangeiro será feito mediante concurso documental a realizar bienalmente.
+Artigo 1.º O preenchimento dos lugares docentes para o magistério em cursos de ensino básico e secundário no estrangeiro será feito mediante concurso documental a realizar bienalmente.
 
-###### Art. 2.º - 1 - O concurso a que se refere o artigo anterior realizar-se-á separadamente para cada grau de ensino e compreenderá duas fases, sendo a primeira de recondução e a segunda de colocação.
+Art. 2.º - 1 - O concurso a que se refere o artigo anterior realizar-se-á separadamente para cada grau de ensino e compreenderá duas fases, sendo a primeira de recondução e a segunda de colocação.
 
 2 - O concurso será aberto por aviso a publicar no Diário da República até ao dia 28 de Fevereiro anterior ao início do ano lectivo a que o concurso respeita.
 
@@ -106,7 +155,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - As condições de admissão ao concurso bem como os critérios de selecção serão fixados no aviso a que se refere o n.º 2 deste artigo.
 
-###### Art. 3.º - 1 - Os candidatos ao concurso a que se refere o artigo 1.º serão ordenados em listas provisórias, a publicar no Diário da República, e cujas cópias serão afixadas nos consulados de Portugal.
+Art. 3.º - 1 - Os candidatos ao concurso a que se refere o artigo 1.º serão ordenados em listas provisórias, a publicar no Diário da República, e cujas cópias serão afixadas nos consulados de Portugal.
 
 2 - Das listas provisórias caberá reclamação, a apresentar no prazo de oito dias, a contar:
 
@@ -114,33 +163,33 @@ a) Para os candidatos residentes em Portugal, do dia seguinte ao da publicação
 
 b) Para os candidatos residentes no estrangeiro, do dia seguinte ao da afixação da lista no respectivo consulado de Portugal.
 
-###### Art. 4.º - 1 - Após a apreciação das reclamações às listas provisórias e até ao dia 31 de Maio do ano anterior àquele a que respeita o concurso serão publicadas no Diário da República as listas ordenadas definitivas, cujas cópias serão afixadas nos consulados de Portugal.
+Art. 4.º - 1 - Após a apreciação das reclamações às listas provisórias e até ao dia 31 de Maio do ano anterior àquele a que respeita o concurso serão publicadas no Diário da República as listas ordenadas definitivas, cujas cópias serão afixadas nos consulados de Portugal.
 
 2 - Das listas ordenadas definitivas não cabe reclamação, mas recurso hierárquico, a interpor no prazo legal, para o Ministro da Educação.
 
-###### Art. 5.º Se durante o período de validade do concurso surgirem vagas, as mesmas serão preenchidas por candidatos constantes da lista ordenada definitiva, seguindo-se, para o efeito, a graduação dos mesmos.
+Art. 5.º Se durante o período de validade do concurso surgirem vagas, as mesmas serão preenchidas por candidatos constantes da lista ordenada definitiva, seguindo-se, para o efeito, a graduação dos mesmos.
 
-###### Art. 6.º - 1 - A colocação dos professores efectivos dos ensinos primário, preparatório e secundário em cursos de ensino português no estrangeiro é efectuada em regime de requisição, nos termos da alínea f) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+Art. 6.º - 1 - A colocação dos professores efectivos dos ensinos primário, preparatório e secundário em cursos de ensino português no estrangeiro é efectuada em regime de requisição, nos termos da alínea f) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
 2 - As nomeações referidas no número anterior não estão sujeitas ao prazo fixado no n.º 1 do artigo 15.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507).
 
-###### Art. 7.º A colocação dos professores profissionalizados não efectivos do ensino primário em cursos de ensino português no estrangeiro é efectuada nos termos do [Decreto-Lei n.º 336/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1978-325931), de 14 de Novembro, e do [Decreto-Lei n.º 214/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1979-382178), de 14 de Julho.
+Art. 7.º A colocação dos professores profissionalizados não efectivos do ensino primário em cursos de ensino português no estrangeiro é efectuada nos termos do [Decreto-Lei n.º 336/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1978-325931), de 14 de Novembro, e do [Decreto-Lei n.º 214/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1979-382178), de 14 de Julho.
 
-###### Art. 8.º - 1 - Os professores não abrangidos pelos artigos 6.º e 7.º do presente diploma serão contratados por um ano escolar ou por período inferior, nos termos do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro.
+Art. 8.º - 1 - Os professores não abrangidos pelos artigos 6.º e 7.º do presente diploma serão contratados por um ano escolar ou por período inferior, nos termos do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro.
 
 2 - A aplicação do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955) aos professores de ensino básico e secundário português no estrangeiro far-se-á por portaria do Ministro da Educação.
 
-###### Art. 9.º - 1 - As contratações locais subsidiadas parcial ou totalmente pelos Governos estrangeiros e entidades públicas ou privadas legalmente reconhecidas, ou ainda efectuadas no âmbito de acordos bilaterais, poderão ser consideradas, por despacho do Ministro da Educação, de interesse para o ensino da língua e cultura portuguesas.
+Art. 9.º - 1 - As contratações locais subsidiadas parcial ou totalmente pelos Governos estrangeiros e entidades públicas ou privadas legalmente reconhecidas, ou ainda efectuadas no âmbito de acordos bilaterais, poderão ser consideradas, por despacho do Ministro da Educação, de interesse para o ensino da língua e cultura portuguesas.
 
 2 - Aos docentes de nacionalidade portuguesa contratados localmente e cujas contratações tenham sido realizadas nos termos do número anterior é aplicável a seu pedido o disposto no artigo 8.º, sendo-lhes por esse efeito reconhecidos os direitos consignados no artigo 11.º da [Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/lei/74-1977-278477).
 
-###### Art. 10.º - 1 - A requerimento dos interessados e desde que não haja inconveniente para os serviços, poderá ser autorizada, uma única vez, a permuta entre docentes de áreas consulares do mesmo país.
+Art. 10.º - 1 - A requerimento dos interessados e desde que não haja inconveniente para os serviços, poderá ser autorizada, uma única vez, a permuta entre docentes de áreas consulares do mesmo país.
 
 2 - A permuta entre docentes de áreas consulares de países distintos só poderá ser concedida, a requerimento dos interessados, mediante comprovação de que os docentes continuam a reunir as condições exigidas para o ensino no país em que obtiveram o primeiro provimento.
 
 3 - Os pedidos de permuta deverão ser apresentados até ao dia 15 de Maio de cada ano só produzirão efeitos no início do ano lectivo seguinte.
 
-###### Art. 11.º A cada docente de ensino português no estrangeiro poderá ser atribuído um dos seguintes horários:
+Art. 11.º A cada docente de ensino português no estrangeiro poderá ser atribuído um dos seguintes horários:
 
 a) Vinte e duas horas semanais, das quais, pelo menos, dezoito serão obrigatoriamente lectivas;
 
@@ -148,13 +197,13 @@ b) Dezoito horas semanais, das quais, pelo menos, quinze serão obrigatoriamente
 
 c) Um mínimo de quatro horas lectivas semanais.
 
-###### Art. 12.º - 1 - Os vencimentos a abonar aos professores de ensino português no estrangeiro serão fixados por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação e do Secretário de Estado da Administração Pública, a publicar bienalmente no mês de Junho, o qual produzirá efeitos a partir do início do ano civil seguinte ao da sua publicação.
+Art. 12.º - 1 - Os vencimentos a abonar aos professores de ensino português no estrangeiro serão fixados por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação e do Secretário de Estado da Administração Pública, a publicar bienalmente no mês de Junho, o qual produzirá efeitos a partir do início do ano civil seguinte ao da sua publicação.
 
 2 - Os vencimentos referidos no número anterior são calculados para o horário constante da alínea a) do artigo anterior.
 
 3 - Os professores de ensino português no estrangeiro mantêm direito às diuturnidades, nos termos da lei geral, sendo o respectivo valor convertido e abonado em moeda local.
 
-###### Art. 13.º - 1 - Os professores do ensino português no estrangeiro terão direito aos seguintes subsídios complementares a atribuir segundo normas a definir por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação e do Secretário de Estado da Administração Pública:
+Art. 13.º - 1 - Os professores do ensino português no estrangeiro terão direito aos seguintes subsídios complementares a atribuir segundo normas a definir por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação e do Secretário de Estado da Administração Pública:
 
 a) Subsídio de viagem;
 
@@ -168,7 +217,7 @@ d) Subsídio de transportes entre cursos.
 
 3 - Os subsídios complementares referidos nas alíneas a) e b) do n.º 1 serão igualmente atribuídos aos docentes que, nos termos do artigo 9.º, sejam totalmente remunerados por entidades estrangeiras, desde que os mesmos subsídios não lhes sejam assegurados por essas entidades.
 
-###### Art. 14.º - 1 - Salvo o disposto no número seguinte e sempre que a legislação local o permita, serão os docentes inscritos no regime de segurança social do país onde exerçam funções, cabendo ao Estado Português suportar os encargos de conta da entidade patronal, a menos que sejam suportados pelo país estrangeiro.
+Art. 14.º - 1 - Salvo o disposto no número seguinte e sempre que a legislação local o permita, serão os docentes inscritos no regime de segurança social do país onde exerçam funções, cabendo ao Estado Português suportar os encargos de conta da entidade patronal, a menos que sejam suportados pelo país estrangeiro.
 
 2 - Não sendo possível a inscrição no regime de segurança social previsto no número anterior, e sempre que se mostre menos oneroso para o Estado Português esta inscrição será substituída por seguro que garanta aos docentes a segurança social no país onde exercerem funções.
 
@@ -182,15 +231,15 @@ c) Em partes iguais pelo professor e pelo Estado Português se o seguro for feit
 
 4 - Sempre que, pelo facto de se encontrar em Portugal, o docente não seja abrangido pela segurança social ou seguro previstos nos n.os 1 e 2 do artigo anterior, terá direito aos benefícios da Assistência na Doença aos Servidores Civis do Estado.
 
-###### Art. 15.º - 1 - Os docentes do ensino português no estrangeiro, desde que colocados nos termos dos artigos 6.º, 7.º, 8.º e 9.º, serão obrigatoriamente inscritos na Caixa Geral de Aposentações, se, à data da colocação, não se encontrarem ainda inscritos.
+Art. 15.º - 1 - Os docentes do ensino português no estrangeiro, desde que colocados nos termos dos artigos 6.º, 7.º, 8.º e 9.º, serão obrigatoriamente inscritos na Caixa Geral de Aposentações, se, à data da colocação, não se encontrarem ainda inscritos.
 
 2 - Os descontos legais obrigatórios a que se encontram sujeitos os funcionários públicos portugueses abrangem os professores de curso de ensino português no estrangeiro.
 
 3 - Os descontos a que se refere o número anterior terão por base o vencimento a que o professor teria direito em Portugal, sendo pagos segundo normas a definir por despacho dos Ministros dos Negócios Estrangeiros, Finanças e Educação.
 
-###### Art. 16.º Os docentes de ensino português no estrangeiro estão sujeitos às disposições do Estatuto Disciplinar dos Funcionários da Administração Central, Regional e Local.
+Art. 16.º Os docentes de ensino português no estrangeiro estão sujeitos às disposições do Estatuto Disciplinar dos Funcionários da Administração Central, Regional e Local.
 
-###### Art. 17.º - 1 - O regime de faltas dos professores do ensino português no estrangeiro é idêntico ao do funcionalismo público português, independentemente das obrigações que lhes incumbam pelo facto de se encontrarem inscritos em regime de segurança social ou de seguro estrangeiro.
+Art. 17.º - 1 - O regime de faltas dos professores do ensino português no estrangeiro é idêntico ao do funcionalismo público português, independentemente das obrigações que lhes incumbam pelo facto de se encontrarem inscritos em regime de segurança social ou de seguro estrangeiro.
 
 2 - Os atestados médicos referidos no artigo 8.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931, sempre que passados no estrangeiro, poderão sê-lo em papel timbrado do médico com dispensa da taxa de papel selado, ou substituídos por certificado de estabelecimento hospitalar, em idênticas circunstâncias com o que sucede com os funcionários públicos do respectivo país.
 
@@ -198,15 +247,15 @@ c) Em partes iguais pelo professor e pelo Estado Português se o seguro for feit
 
 4 - A doença superior a oito dias será obrigatoriamente mandada confirmar pela autoridade consular da área ou pelos serviços competentes do Ministério da Educação no caso de a doença ocorrer em Portugal.
 
-###### Art. 18.º Todas as colocações e contratos de docentes que, à data da publicação do presente diploma, se encontrem em exercício nos cursos de ensino português terminam no dia 31 de Agosto de 1980, excepto se estipularem o seu termo em data anterior.
+Art. 18.º Todas as colocações e contratos de docentes que, à data da publicação do presente diploma, se encontrem em exercício nos cursos de ensino português terminam no dia 31 de Agosto de 1980, excepto se estipularem o seu termo em data anterior.
 
-###### Art. 19.º A partir de 1 de Setembro de 1979, as colocações e contratos dos docentes de ensino português no estrangeiro serão regulados pelas normas deste decreto-lei e de acordo com os direitos adquiridos por concurso.
+Art. 19.º A partir de 1 de Setembro de 1979, as colocações e contratos dos docentes de ensino português no estrangeiro serão regulados pelas normas deste decreto-lei e de acordo com os direitos adquiridos por concurso.
 
-###### Art. 20.º - 1 - No primeiro concurso que se efectuar após a entrada em vigor do presente diploma será dada aos agentes de ensino que se encontrem em exercício de funções há pelo menos dois anos a possibilidade de requererem recondução, independentemente de reunirem ou não as condições legais exigidas.
+Art. 20.º - 1 - No primeiro concurso que se efectuar após a entrada em vigor do presente diploma será dada aos agentes de ensino que se encontrem em exercício de funções há pelo menos dois anos a possibilidade de requererem recondução, independentemente de reunirem ou não as condições legais exigidas.
 
 2 - A possibilidade de recondução dos agentes de ensino referidos no número anterior depende sempre de avaliação das qualificações dos mesmos para a docência que têm vindo a exercer e será estabelecida no aviso de abertura do concurso.
 
-###### Art. 21.º - 1 - Aos docentes que têm vindo a exercer funções em cursos de ensino português no estrangeiro, nomeados pelo Ministério da Educação ou contratados localmente, com remuneração a cargo do Governo Português, de entidades públicas ou privadas legalmente reconhecidas, ou de Governos estrangeiros, será contado, para todos os efeitos legais, inclusive a aposentação, todo o serviço docente prestado nessa situação anteriormente à regularização da mesma nos termos do presente decreto-lei desde que possuam qualquer das seguintes habilitações:
+Art. 21.º - 1 - Aos docentes que têm vindo a exercer funções em cursos de ensino português no estrangeiro, nomeados pelo Ministério da Educação ou contratados localmente, com remuneração a cargo do Governo Português, de entidades públicas ou privadas legalmente reconhecidas, ou de Governos estrangeiros, será contado, para todos os efeitos legais, inclusive a aposentação, todo o serviço docente prestado nessa situação anteriormente à regularização da mesma nos termos do presente decreto-lei desde que possuam qualquer das seguintes habilitações:
 
 a) Exame de Estado para o magistério primário ou equivalente;
 
@@ -220,18 +269,18 @@ d) Exame de aptidão para a regência de postos escolares.
 
 3 - Para efeitos do disposto nos números anteriores, os interessados deverão requerer ao Ministro da Educação, dentro do prazo de seis meses, a contar da data da publicação do presente decreto-lei, a contagem do tempo de serviço constante de documentos devidamente autenticados pelas autoridades consulares portuguesas.
 
-###### Art. 22.º O presente decreto-lei será regulamentado por portaria dos Ministros dos Negócios Estrangeiros e da Educação e do Secretário de Estado da Administração Pública, a publicar no prazo de quarenta e cinco dias, a contar da data da sua publicação.
+Art. 22.º O presente decreto-lei será regulamentado por portaria dos Ministros dos Negócios Estrangeiros e da Educação e do Secretário de Estado da Administração Pública, a publicar no prazo de quarenta e cinco dias, a contar da data da sua publicação.
 
-###### Art. 23.º É aplicável aos professores de ensino português no estrangeiro, conforme o grau de ensino que exerçam, a legislação referente aos docentes dos ensinos básico e secundário, desde que não contrarie as disposições do presente diploma.
+Art. 23.º É aplicável aos professores de ensino português no estrangeiro, conforme o grau de ensino que exerçam, a legislação referente aos docentes dos ensinos básico e secundário, desde que não contrarie as disposições do presente diploma.
 
-###### Art. 24.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 24.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 25.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 25.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

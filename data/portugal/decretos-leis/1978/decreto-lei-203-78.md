@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16800/14271428.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1978-297458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e058a8ad32187f866df9857f04cc3391f9f99d734b4311635a9d27d1f7874eeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8f81f33061a4f09428ff932b4a823b47f47f89fc78f7647eeb2e0e41c624e1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Forças Armadas
+- Interpretação do Direito
+- Justiça Militar
+- Regulamento de Disciplina Militar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:299016:por
+  label: Rectificado pela DECL.DD7569.22.08.1978.CR, DR.IS [192] de 22.08.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-299016
+  date: '1978-08-22'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:22Z'
   warnings: []
   errors: []
 ---
@@ -95,26 +110,26 @@ Convindo esclarecer definitivamente o assunto, firmando a interpretação autên
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A apreciação de processos disciplinares pelos conselhos superiores de disciplina, prevista na primeira parte do n.º 2 do artigo 34.º e na alínea b) do artigo 134.º do Regulamento de Disciplina Militar, é uma fase do próprio processo disciplinar, quando neste se verifique haver lugar a aplicação das penas de reserva compulsiva ou separação de serviço.
+Artigo 1.º - 1 - A apreciação de processos disciplinares pelos conselhos superiores de disciplina, prevista na primeira parte do n.º 2 do artigo 34.º e na alínea b) do artigo 134.º do Regulamento de Disciplina Militar, é uma fase do próprio processo disciplinar, quando neste se verifique haver lugar a aplicação das penas de reserva compulsiva ou separação de serviço.
 
 2 - No exercício destas atribuições, os conselhos superiores de disciplina pronunciam-se nos termos do disposto no n.º 1 do artigo 143.º e a decisão ulterior do Chefe do Estado-Maior competente, proferida em conformidade com o artigo 144.º, deverá obedecer às regras de processo enunciadas no artigo 95.º, todos do referido Regulamento.
 
-###### Art. 2.º - 1 - A apreciação da capacidade profissional ou moral de militares pelos conselhos superiores de disciplina, prevista na segunda parte do n.º 2 do artigo 34.º e nas alíneas c) e d) do artigo 134.º do citado Regulamento, é independente de quaisquer processos disciplinares ou criminais respeitantes à actuação dos mesmos militares, e não é prejudicada pela extinção do procedimento disciplinar ou criminal, excepto no caso de morte.
+Art. 2.º - 1 - A apreciação da capacidade profissional ou moral de militares pelos conselhos superiores de disciplina, prevista na segunda parte do n.º 2 do artigo 34.º e nas alíneas c) e d) do artigo 134.º do citado Regulamento, é independente de quaisquer processos disciplinares ou criminais respeitantes à actuação dos mesmos militares, e não é prejudicada pela extinção do procedimento disciplinar ou criminal, excepto no caso de morte.
 
 2 - No exercício destas atribuições, os conselhos superiores de disciplina pronunciam-se nos termos do disposto no n.º 2 do artigo 143.º, competindo ao Chefe do Estado-Maior respectivo proferir decisão final, em conformidade com o artigo 144.º do mencionado Regulamento.
 
-###### Art. 3.º As disposições de ordem geral do processo disciplinar militar, contidas nos artigos 80.º, 81.º, 84.º e 107.º a 111.º do Regulamento de Discipilna Militar, são aplicáveis subsidiariamente aos processos que correm perante os conselhos superiores de disciplina.
+Art. 3.º As disposições de ordem geral do processo disciplinar militar, contidas nos artigos 80.º, 81.º, 84.º e 107.º a 111.º do Regulamento de Discipilna Militar, são aplicáveis subsidiariamente aos processos que correm perante os conselhos superiores de disciplina.
 
-###### Art. 4.º - 1 - As diligências instrutórias determinadas pelo relator nos termos do artigo 140.º do Regulamento de Disciplina Militar, em conformidade com os requerimentos do promotor ou da defesa, bem como aquelas que, por sua iniciativa, entender convenientes para a instrução completa do processo, serão realizadas por quem designar no despacho que as ordenou, nomeadamente por ele próprio ou pelo secretário do mesmo conselho.
+Art. 4.º - 1 - As diligências instrutórias determinadas pelo relator nos termos do artigo 140.º do Regulamento de Disciplina Militar, em conformidade com os requerimentos do promotor ou da defesa, bem como aquelas que, por sua iniciativa, entender convenientes para a instrução completa do processo, serão realizadas por quem designar no despacho que as ordenou, nomeadamente por ele próprio ou pelo secretário do mesmo conselho.
 
 2 - Quando as diligências devam ser feitas fora da sede do respectivo conselho, poderá o relator, se o entender conveniente, requerer a sua realização através do comando militar mais próximo, de preferência do respectivo ramo das forças armadas.
 
-###### Art. 5.º Este diploma tem natureza interpretativa.
+Art. 5.º Este diploma tem natureza interpretativa.
 
 Visto e aprovado em Conselho da Revolução em 5 de Julho de 1978.
 
-**Promulgado em 10 de Julho de 1978.**
+Promulgado em 10 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

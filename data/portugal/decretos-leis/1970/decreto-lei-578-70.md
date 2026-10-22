@@ -49,36 +49,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/578-1970-146735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22dfdd9e5436e40c5f688e83e6668b566284a6e5167927adbc2ad3fa75061e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: facf510472033ef6a478db5cfbf42d29f28e823ebff06d1fe5315d085fb4b43d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Circulação de Mercadorias
+- Comissão Permanente para a Aplicação dos Direitos Anti-dumping e Compensadores
+- Concorrência
+- Direitos Anti-dumping
+- Exportação
+- Fiscalização
+- Importação
+- Madeira.ilha Adjacente
+- Metrópole
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:40Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +106,9 @@ Considerando que o desenvolvimento normal do processo da integração económica
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Se da prática do dumping em relação a uma dada mercadoria ou mercadorias de uma dada natureza, importadas no continente e ilhas adjacentes ou nas províncias ultramarinas e exportadas por outros territórios nacionais resultarem ou puderem vir a resultar prejuízos importantes para produções obtidas no território de importação, ou o atraso considerável na instalação de um novo ramo da produção nesse território, as importações dessa mercadoria ou de mercadorias dessa natureza podem ser sujeitas, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, a um direito especial denominado direito anti-dumping, de montante não superior à margem de dumping verificada.
+Artigo 1.º Se da prática do dumping em relação a uma dada mercadoria ou mercadorias de uma dada natureza, importadas no continente e ilhas adjacentes ou nas províncias ultramarinas e exportadas por outros territórios nacionais resultarem ou puderem vir a resultar prejuízos importantes para produções obtidas no território de importação, ou o atraso considerável na instalação de um novo ramo da produção nesse território, as importações dessa mercadoria ou de mercadorias dessa natureza podem ser sujeitas, mediante decreto a publicar pelo Ministério das Finanças ou pelo Ministério do Ultramar, a um direito especial denominado direito anti-dumping, de montante não superior à margem de dumping verificada.
 
-###### Art. 2.º - 1. Para efeitos do presente decreto-lei, considera-se que se pratica o dumping na importação de uma mercadoria sempre que o preço de exportação dessa mercadoria é inferior ao valor normal comparável da mesma mercadoria, entendendo-se por valor normal comparável:
+Art. 2.º - 1. Para efeitos do presente decreto-lei, considera-se que se pratica o dumping na importação de uma mercadoria sempre que o preço de exportação dessa mercadoria é inferior ao valor normal comparável da mesma mercadoria, entendendo-se por valor normal comparável:
 
 a) O preço comparável, praticado em operações comerciais normais, para mercadorias idênticas ou similares, destinadas ao consumo interno no território exportador;
 
@@ -105,9 +120,9 @@ b) Ou, na ausência de um tal preço no mercado interno do território exportado
 
 2. Ao estabelecer-se o confronto, nos termos do presente artigo, entre o preço de exportação de uma mercadoria e o valor normal comparável dessa mesma mercadoria, devem ter-se em conta as diferenças nas condições e termos de venda, as diferenças nas imposições fiscais e outras diferenças que afectem a comparabilidade dos preços.
 
-###### Art. 3.º Para efeitos do presente decreto-lei, entende-se por margem de dumping, na importação de uma mercadoria em que se pratica o dumping, a diferença entre o valor normal e o preço de exportação comparável dessa mercadoria.
+Art. 3.º Para efeitos do presente decreto-lei, entende-se por margem de dumping, na importação de uma mercadoria em que se pratica o dumping, a diferença entre o valor normal e o preço de exportação comparável dessa mercadoria.
 
-###### Art. 4.º Para efeitos de aplicação do disposto no presente diploma, entende-se por preço de exportação de uma mercadoria o preço pelo qual essa mercadoria é vendida, numa operação comercial normal, pelo exportador ou por sua conta, ao importador ou à entidade por conta de quem a mercadoria é importada depois de efectuados os seguintes ajustamentos:
+Art. 4.º Para efeitos de aplicação do disposto no presente diploma, entende-se por preço de exportação de uma mercadoria o preço pelo qual essa mercadoria é vendida, numa operação comercial normal, pelo exportador ou por sua conta, ao importador ou à entidade por conta de quem a mercadoria é importada depois de efectuados os seguintes ajustamentos:
 
 a) Dedução dos custos de transportes, cargas, descargas e seguro, desde o porto ou local do território exportador donde a mercadoria foi expedida até ao local ou porto de importação, se tais custos forem incluídos no preço da mercadoria facturado pelo exportador;
 
@@ -121,7 +136,7 @@ e) Inclusão de direitos de importação ou outros encargos de efeito equivalent
 
 f) Inclusão de impostos indirectos ou outros encargos fiscais equivalentes lançados directa ou indirectamente no território exportador sobre a produção, a fabricação ou a comercialização da mercadoria em causa, que foram reembolsados ou que não foram cobrados pelo facto da exportação dessa mercadoria.
 
-###### Art. 5.º - 1. Poderá atribuir-se ao preço de exportação de uma mercadoria um valor diferente do que seria determinado nos termos do disposto no artigo anterior nos casos em que:
+Art. 5.º - 1. Poderá atribuir-se ao preço de exportação de uma mercadoria um valor diferente do que seria determinado nos termos do disposto no artigo anterior nos casos em que:
 
 a) A exportação não corresponde a uma operação comercial normal;
 
@@ -145,7 +160,7 @@ d) Haja fundamentadas razões para não considerar exacto o preço de exportaç�
 
 6) Inclusão dos ajustamentos a que se referem as alíneas e) e f) do artigo anterior.
 
-###### Art. 6.º - 1. Para efeitos de aplicação do disposto no presente diploma, entende-se que dois preços são comparáveis se obedecerem às seguintes condições:
+Art. 6.º - 1. Para efeitos de aplicação do disposto no presente diploma, entende-se que dois preços são comparáveis se obedecerem às seguintes condições:
 
 a) Respeitarem, conforme as circunstâncias e os elementos disponíveis, embora tendo em conta a sequente ordem de preferência:
 
@@ -169,7 +184,7 @@ e) Estarem corrigidos das influências, averiguadas ou estimadas, que resultem d
 
 4. Para os fins a que se refere a alínea a) do n.º 1 do artigo 2.º do presente diploma, e sempre que, em virtude de condições acidentais na situação do mercado ou em virtude de vendas de fim de estação, o preço comparável do mercado interno do território exportador não reflicta o preço normal, poderá deixar de observar-se a condição a que se refere a alínea b) do n.º 1 do presente artigo e recorrer-se a um preço médio comparável que se tenha praticado durante um período razoável de não mais de seis meses, precedendo imediatamente a data da realização do contrato de exportação da mercadoria em causa.
 
-###### Art. 7.º Os direitos anti-dumping podem ser instituídos conforme for considerado mais justificado em face das circunstâncias de cada caso em relação:
+Art. 7.º Os direitos anti-dumping podem ser instituídos conforme for considerado mais justificado em face das circunstâncias de cada caso em relação:
 
 a) A uma determinada importação ou a um conjunto de importações especificadas;
 
@@ -177,7 +192,7 @@ b) Às importações de uma dada mercadoria ou de mercadorias de uma dada nature
 
 c) Às importações de uma dada mercadoria ou de mercadorias de uma dada natureza originárias ou provenientes de um determinado território.
 
-###### Art. 8.º - 1. O decreto pelo qual se crie um direito anti-dumping deve fixar as condições em que esse direito será exigível, indicando, nomeadamente:
+Art. 8.º - 1. O decreto pelo qual se crie um direito anti-dumping deve fixar as condições em que esse direito será exigível, indicando, nomeadamente:
 
 a) As mercadorias ou a natureza das mercadorias a que o direito é aplicável, mencionando, quando for caso disso, os elementos que definam a sua expedição, as suas especificações, a sua marca, os seus produtores ou exportadores ou o território da sua origem ou proveniência;
 
@@ -189,17 +204,17 @@ c) O período contínuo ou não, e com ou sem limitação de duração, durante 
 
 3. O período, fixado nos termos da alínea c) do n.º 1 do presente artigo, durante o qual um direito anti-dumping é exigível, pode ter início numa data anterior à do decreto que institui tal direito, desde que nessa data já tenha sido exigível uma caução, nos termos do artigo 11.º do presente decreto-lei.
 
-###### Art. 9.º - 1. Em relação a mercadorias que estarão sujeitas a direitos anti-dumping, se se encontrarem nas condições de exigibilidade estabelecidas nos termos da alínea a) do n.º 1 do artigo anterior, os serviços aduaneiros solicitarão aos importadores as declarações e elementos de prova que reputem necessários para se certificarem se se verificam ou não tais condições de exigibilidade.
+Art. 9.º - 1. Em relação a mercadorias que estarão sujeitas a direitos anti-dumping, se se encontrarem nas condições de exigibilidade estabelecidas nos termos da alínea a) do n.º 1 do artigo anterior, os serviços aduaneiros solicitarão aos importadores as declarações e elementos de prova que reputem necessários para se certificarem se se verificam ou não tais condições de exigibilidade.
 
 2. Na falta de declarações satisfatórias fornecidas nos termos do disposto no n.º 1 do presente artigo, serão cobrados sobre as mercadorias de que se trate os direitos anti-dumping fixados no decreto que haja sido publicado nos termos do artigo anterior.
 
-###### Art. 10.º Os direitos anti-dumping a que se refere o presente decreto-lei serão cobrados pelas alfândegas do continente e ilhas adjacentes ou das províncias ultramarinas juntamente com outros direitos, taxas ou impostos que sejam devidos e serão exigíveis mesmo em relação a mercadorias que estejam isentas do pagamento dos direitos aduaneiros normais.
+Art. 10.º Os direitos anti-dumping a que se refere o presente decreto-lei serão cobrados pelas alfândegas do continente e ilhas adjacentes ou das províncias ultramarinas juntamente com outros direitos, taxas ou impostos que sejam devidos e serão exigíveis mesmo em relação a mercadorias que estejam isentas do pagamento dos direitos aduaneiros normais.
 
-###### Art. 11.º Nos casos em que a demora na recolha e análise dos elementos e provas definitivas sobre a prática do dumping no comércio entre os territórios nacionais e a determinação da respectiva margem possa causar ou vir a causar prejuízos importantes para produções estabelecidas num desses territórios ou o atraso considerável na instalação de um novo ramo da produção, poderá, mediante portaria a publicar pelos Ministros das Finanças e do Ultramar, ser exigida pelas alfândegas, em relação às mercadorias de que se trate ou a mercadorias dessa natureza, uma caução, sob a forma de depósito ou garantia bancária, para assegurar o pagamento de eventuais direitos anti-dumping que venham a ser instituídos sobre as referidas mercadorias, desde que já haja boas razões para supor que em relação a tais mercadorias se pratica o dumping.
+Art. 11.º Nos casos em que a demora na recolha e análise dos elementos e provas definitivas sobre a prática do dumping no comércio entre os territórios nacionais e a determinação da respectiva margem possa causar ou vir a causar prejuízos importantes para produções estabelecidas num desses territórios ou o atraso considerável na instalação de um novo ramo da produção, poderá, mediante portaria a publicar pelos Ministros das Finanças e do Ultramar, ser exigida pelas alfândegas, em relação às mercadorias de que se trate ou a mercadorias dessa natureza, uma caução, sob a forma de depósito ou garantia bancária, para assegurar o pagamento de eventuais direitos anti-dumping que venham a ser instituídos sobre as referidas mercadorias, desde que já haja boas razões para supor que em relação a tais mercadorias se pratica o dumping.
 
-###### Art. 12.º Os produtores do continente e ilhas adjacentes ou das províncias ultramarinas que considerem estar a ser, ou ameaçados de vir a ser, prejudicados gravemente pela prática de dumping nas mercadorias importadas de outros territórios nacionais podem requerer à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores, designada, neste diploma, por «Comissão», o estudo da necessidade de se lançar sobre as ditas mercadorias um direito anti-dumping, nos termos do presente diploma, para o que farão acompanhar os seus requerimentos das justificações e elementos de prova em que baseiam a sua pretensão.
+Art. 12.º Os produtores do continente e ilhas adjacentes ou das províncias ultramarinas que considerem estar a ser, ou ameaçados de vir a ser, prejudicados gravemente pela prática de dumping nas mercadorias importadas de outros territórios nacionais podem requerer à Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores, designada, neste diploma, por «Comissão», o estudo da necessidade de se lançar sobre as ditas mercadorias um direito anti-dumping, nos termos do presente diploma, para o que farão acompanhar os seus requerimentos das justificações e elementos de prova em que baseiam a sua pretensão.
 
-###### Art. 13.º - 1. Em seguimento dos requerimentos apresentados por produtores nos termos do artigo anterior, a Comissão remeterá cópia desses requerimentos e de todos os documentos que os acompanhem aos vogais representantes dos Ministérios da Economia e do Ultramar na Comissão Interministerial de Planeamento e Integração Económica para que cada um deles, depois de ouvidos os serviços competentes do seu Ministério, apresente um relatório, no qual serão apreciados os elementos de prova fornecidos pelo requerente e do qual devem constar os dados adicionais que eventualmente se mostrem necessários para averiguar:
+Art. 13.º - 1. Em seguimento dos requerimentos apresentados por produtores nos termos do artigo anterior, a Comissão remeterá cópia desses requerimentos e de todos os documentos que os acompanhem aos vogais representantes dos Ministérios da Economia e do Ultramar na Comissão Interministerial de Planeamento e Integração Económica para que cada um deles, depois de ouvidos os serviços competentes do seu Ministério, apresente um relatório, no qual serão apreciados os elementos de prova fornecidos pelo requerente e do qual devem constar os dados adicionais que eventualmente se mostrem necessários para averiguar:
 
 a) Se há ou não fundamento para considerar como demonstrada a existência de dumping e, no caso afirmativo, qual a respectiva margem;
 
@@ -207,31 +222,31 @@ b) Se há ou não razão para considerar que da prática do dumping em relação
 
 2. Os vogais representantes dos Ministérios da Economia e do Ultramar na Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores darão imediato conhecimento ao Ministério a que respeitem dos requerimentos e elementos apresentados, a fim de pelos Ministros das Finanças e do Ultramar poder ser desde logo fixada a caução prevista no artigo 11.º
 
-###### Art. 14.º Depois de recebidos os dois relatórios a que se refere o artigo anterior, os serviços da Comissão apresentá-los-ão, acompanhados, quando necessário, dos seus próprios comentários, à apreciação de um grupo de trabalho especial constituído pelo presidente da Comissão, que presidirá, e pelos vogais representantes dos Ministérios das Finanças, da Economia e do Ultramar, para que esse grupo de trabalho conclua se a prática de dumping ficou ou não demonstrada e se dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas no território importador ou o atraso considerável na instalação de um novo ramo de produção nesse território.
+Art. 14.º Depois de recebidos os dois relatórios a que se refere o artigo anterior, os serviços da Comissão apresentá-los-ão, acompanhados, quando necessário, dos seus próprios comentários, à apreciação de um grupo de trabalho especial constituído pelo presidente da Comissão, que presidirá, e pelos vogais representantes dos Ministérios das Finanças, da Economia e do Ultramar, para que esse grupo de trabalho conclua se a prática de dumping ficou ou não demonstrada e se dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas no território importador ou o atraso considerável na instalação de um novo ramo de produção nesse território.
 
-###### Art. 15.º No caso de o grupo de trabalho a que se refere o artigo anterior não chegar a uma decisão unânime, será o assunto submetido ao Conselho de Ministros para os Assuntos Económicos, para que seja este a decidir.
+Art. 15.º No caso de o grupo de trabalho a que se refere o artigo anterior não chegar a uma decisão unânime, será o assunto submetido ao Conselho de Ministros para os Assuntos Económicos, para que seja este a decidir.
 
-###### Art. 16.º Sempre que tenha sido decidido, nos termos de um dos dois artigos anteriores, que a prática do dumping ficou demonstrada e que dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas no território importador ou o atraso considerável na instalação de um novo ramo de produção nesse território, a Comissão proporá aos Ministros das Finanças e do Ultramar a publicação de um decreto a instituir, nos termos do presente diploma, um direito anti-dumping sobre as mercadorias de que se trate.
+Art. 16.º Sempre que tenha sido decidido, nos termos de um dos dois artigos anteriores, que a prática do dumping ficou demonstrada e que dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas no território importador ou o atraso considerável na instalação de um novo ramo de produção nesse território, a Comissão proporá aos Ministros das Finanças e do Ultramar a publicação de um decreto a instituir, nos termos do presente diploma, um direito anti-dumping sobre as mercadorias de que se trate.
 
-###### Art. 17.º Nos casos em que se não venha a provar a prática do dumping e a existência de prejuízos importantes para produções estabelecidas no território importador ou atrasos consideráveis na instalação de novos ramos da produção nesse território, resultantes da referida prática, a Comissão comunicará ao produtor que tenha apresentado um requerimento nos termos do artigo 12.º o resultado das averiguações feitas ou as razões da impossibilidade de se chegar a conclusões bem definidas.
+Art. 17.º Nos casos em que se não venha a provar a prática do dumping e a existência de prejuízos importantes para produções estabelecidas no território importador ou atrasos consideráveis na instalação de novos ramos da produção nesse território, resultantes da referida prática, a Comissão comunicará ao produtor que tenha apresentado um requerimento nos termos do artigo 12.º o resultado das averiguações feitas ou as razões da impossibilidade de se chegar a conclusões bem definidas.
 
-###### Art. 18.º As propostas a fazer ao Ministro das Finanças e ao Ministro do Ultramar, nos termos do artigo 16.º, devem ser acompanhadas:
+Art. 18.º As propostas a fazer ao Ministro das Finanças e ao Ministro do Ultramar, nos termos do artigo 16.º, devem ser acompanhadas:
 
 a) De uma exposição dos resultados das averiguações conduzidas nos termos do artigo 13.º e das decisões tomadas nos termos dos artigos 14.º ou 15.º;
 
 b) Das informações necessárias para fixar em que condições é que o direito anti-dumping será exigível, incluindo nomeadamente as indicações a que se refere o artigo 8.º
 
-###### Art. 19.º Todo o importador de mercadorias sujeitas a direitos anti-dumping, em virtude de um decreto publicado nos termos do presente diploma, pode requerer à Comissão o estudo da alteração ou revogação do decreto que instituiu tais direitos, desde que apresente provas suficientes de que não existe a prática de dumping ou de que existe um excesso dos direitos anti-dumping sobre a margem do dumping.
+Art. 19.º Todo o importador de mercadorias sujeitas a direitos anti-dumping, em virtude de um decreto publicado nos termos do presente diploma, pode requerer à Comissão o estudo da alteração ou revogação do decreto que instituiu tais direitos, desde que apresente provas suficientes de que não existe a prática de dumping ou de que existe um excesso dos direitos anti-dumping sobre a margem do dumping.
 
-###### Art. 20.º No andamento dos requerimentos apresentados nos termos do artigo anterior seguir-se-á uma tramitação análoga àquela a que se referem os artigos 13.º, 14.º, 15.º, 16.º e 17.º do presente diploma.
+Art. 20.º No andamento dos requerimentos apresentados nos termos do artigo anterior seguir-se-á uma tramitação análoga àquela a que se referem os artigos 13.º, 14.º, 15.º, 16.º e 17.º do presente diploma.
 
-###### Art. 21.º - 1. Nos casos em que as averiguações necessárias ao apuramento da margem de dumping se mostrem demasiado demoradas, a Comissão pode propor ao Ministério das Finanças ou do Ultramar a exigência, no território de importação, de uma caução nos termos do artigo 11.º do presente diploma, desde que os seus serviços tenham concluído, com base nas provas apresentadas pelo requerente nos termos do artigo 12.º, que há boas razões para supor que efectivamente há prática de dumping e que dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas no território importador ou o atraso considerável na instalação de um novo ramo de produção nesse território.
+Art. 21.º - 1. Nos casos em que as averiguações necessárias ao apuramento da margem de dumping se mostrem demasiado demoradas, a Comissão pode propor ao Ministério das Finanças ou do Ultramar a exigência, no território de importação, de uma caução nos termos do artigo 11.º do presente diploma, desde que os seus serviços tenham concluído, com base nas provas apresentadas pelo requerente nos termos do artigo 12.º, que há boas razões para supor que efectivamente há prática de dumping e que dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas no território importador ou o atraso considerável na instalação de um novo ramo de produção nesse território.
 
 2. As propostas referidas no n.º 1 deste artigo devem ser acompanhadas de uma exposição das razões que levam a supor que há efectivamente prática de dumping e que dela resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas no território importador ou o atraso considerável na instalação de um novo ramo da produção desse território.
 
 3. A Comissão deve dar imediato conhecimento aos vogais representantes dos Ministérios do Ultramar e da Economia na Comissão Interministerial de Planeamento e Integração Económica de quaisquer propostas que tenha apresentado nos termos do corpo deste artigo, e bem assim das exposições que as acompanhem nos termos do número anterior.
 
-###### Art. 22.º A portaria pela qual se venha a exigir, nos termos do artigo anterior, uma caução para pagamento dos eventuais direitos anti-dumping sobre as importações no continente e ilhas adjacentes ou nas províncias ultramarinas de uma mercadoria ou mercadorias de uma dada natureza exportadas por outros territórios nacionais deverá fixar as condições em que essa caução será exigida, indicando nomeadamente:
+Art. 22.º A portaria pela qual se venha a exigir, nos termos do artigo anterior, uma caução para pagamento dos eventuais direitos anti-dumping sobre as importações no continente e ilhas adjacentes ou nas províncias ultramarinas de uma mercadoria ou mercadorias de uma dada natureza exportadas por outros territórios nacionais deverá fixar as condições em que essa caução será exigida, indicando nomeadamente:
 
 a) A mercadoria ou natureza das mercadorias em relação às quais a caução é exigida, mencionando, quando for caso disso, os elementos que definem a sua expedição, as suas especificações, a sua marca, os seus produtores ou exportadores ou o território da sua origem ou proveniência;
 
@@ -239,24 +254,24 @@ b) O montante unitário, fixado segundo um critério específico ou ad valorem, 
 
 c) O período máximo durante o qual a caução pode ser retida, até que se averigúe definitivamente sobre a eventual margem de dumping, não podendo em nenhum caso esse período ser superior a seis meses.
 
-###### Art. 23.º Os serviços dos Ministérios do Ultramar e da Economia e os serviços das províncias ultramarinas que tenham sido encarregados pelos respectivos Ministros e pelos governadores-gerais ou governadores das províncias ultramarinas de proceder a averiguações com vista à elaboração dos relatórios a que se refere o artigo 13.º poderão estabelecer directamente contacto com todas as entidades oficiais ou particulares de quem precisem de receber informações.
+Art. 23.º Os serviços dos Ministérios do Ultramar e da Economia e os serviços das províncias ultramarinas que tenham sido encarregados pelos respectivos Ministros e pelos governadores-gerais ou governadores das províncias ultramarinas de proceder a averiguações com vista à elaboração dos relatórios a que se refere o artigo 13.º poderão estabelecer directamente contacto com todas as entidades oficiais ou particulares de quem precisem de receber informações.
 
-###### Art. 24.º O Ministro do Ultramar, o Ministro da Economia e os governadores-gerais ou governadores das províncias ultramarinas poderão excepcionalmente determinar, quando absolutamente necessário, a inspecção e a verificação à escrita, registos, correspondência e toda a documentação dos importadores, produtores e exportadores de mercadorias sujeitas a averiguações quanto à prática de dumping, ou dos comerciantes e industriais que tenham adquirido essas mercadorias, devendo no despacho respectivo designar os peritos para o efeito.
+Art. 24.º O Ministro do Ultramar, o Ministro da Economia e os governadores-gerais ou governadores das províncias ultramarinas poderão excepcionalmente determinar, quando absolutamente necessário, a inspecção e a verificação à escrita, registos, correspondência e toda a documentação dos importadores, produtores e exportadores de mercadorias sujeitas a averiguações quanto à prática de dumping, ou dos comerciantes e industriais que tenham adquirido essas mercadorias, devendo no despacho respectivo designar os peritos para o efeito.
 
-###### Art. 25.º Toda a pessoa, singular ou colectiva, seja ou não interessada nas averiguações feitas para determinar a existência e o montante do dumping praticado em relação a mercadorias importadas em território nacional, tem o dever de prestar aos serviços do Ministério do Ultramar e do Ministério da Economia que tenham sido encarregados pelos respectivos ministros ou pelos governadores ou governadores-gerais das províncias ultramarinas de proceder às averiguações com vista à elaboração de relatórios nos termos do artigo 13.º, toda a colaboração que for julgada necessária para a descoberta da verdade, devendo, nomeadamente, apresentar-lhe todas as provas, informações ou documentos que lhe sejam por eles requisitadas.
+Art. 25.º Toda a pessoa, singular ou colectiva, seja ou não interessada nas averiguações feitas para determinar a existência e o montante do dumping praticado em relação a mercadorias importadas em território nacional, tem o dever de prestar aos serviços do Ministério do Ultramar e do Ministério da Economia que tenham sido encarregados pelos respectivos ministros ou pelos governadores ou governadores-gerais das províncias ultramarinas de proceder às averiguações com vista à elaboração de relatórios nos termos do artigo 13.º, toda a colaboração que for julgada necessária para a descoberta da verdade, devendo, nomeadamente, apresentar-lhe todas as provas, informações ou documentos que lhe sejam por eles requisitadas.
 
-###### Art. 26.º Todas as informações que tenham sido obtidas ou fornecidas nos termos dos artigo 23.º a 25.º, por pessoas ou sociedades que desejem evitar que elas cheguem ao conhecimento público ou ao conhecimento de empresas concorrentes, serão tratadas com rigorosa confidencialidade pelos serviços e pessoas que intervenham nas averiguações a que se referem os mesmos artigos.
+Art. 26.º Todas as informações que tenham sido obtidas ou fornecidas nos termos dos artigo 23.º a 25.º, por pessoas ou sociedades que desejem evitar que elas cheguem ao conhecimento público ou ao conhecimento de empresas concorrentes, serão tratadas com rigorosa confidencialidade pelos serviços e pessoas que intervenham nas averiguações a que se referem os mesmos artigos.
 
-###### Art. 27.º A falta de cumprimento do estabelecido no artigo 25.º, bem como a apresentação de declarações, provas, informações ou documentos que contenham inexactidões ou falsidades por negligência ou má fé que originem prejuízos para a descoberta da verdade, constituirá um crime contra a economia nacional, que será punido com multa de 50000$00 a 500000$00.
+Art. 27.º A falta de cumprimento do estabelecido no artigo 25.º, bem como a apresentação de declarações, provas, informações ou documentos que contenham inexactidões ou falsidades por negligência ou má fé que originem prejuízos para a descoberta da verdade, constituirá um crime contra a economia nacional, que será punido com multa de 50000$00 a 500000$00.
 
-###### Art. 28.º A preparação e o julgamento dos processos pela infracção a que se referem os artigos 25.º e 27.º do presente decreto-lei competem aos tribunais comuns e são regulados pelo Código de Processo Penal e legislação complementar, devendo, independentemente do seu conhecimento oficioso, o Ministério da Economia ou o governo da província ultramarina onde a mercadoria foi importada comunicar à autoridade instrutora competente todos os factos do seu conhecimento que possam integrar a infracção.
+Art. 28.º A preparação e o julgamento dos processos pela infracção a que se referem os artigos 25.º e 27.º do presente decreto-lei competem aos tribunais comuns e são regulados pelo Código de Processo Penal e legislação complementar, devendo, independentemente do seu conhecimento oficioso, o Ministério da Economia ou o governo da província ultramarina onde a mercadoria foi importada comunicar à autoridade instrutora competente todos os factos do seu conhecimento que possam integrar a infracção.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Novembro de 1970.**
+Promulgado em 11 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

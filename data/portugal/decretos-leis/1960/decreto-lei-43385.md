@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43385-1960-512780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dc6d161b905ba7ae9d117f48bdaa1a1713b15418cddbf86554909f209af4c76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa716ab92f9821a1475dd970d7611a38d40e3eaa98a4aede4f8ae97d1e3d9e8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete da Ponte sobre o TEJO
+- Ministério das Obras Públicas
+- Orgânica
+- Ponte Salazar
 relationships:
 - type: amended_by
   target: pt:dre:160373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200187:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:55Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +100,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado no Ministério das Obras Públicas, com carácter eventual, o Gabinete da Ponte sobre o Tejo, no qual passam a ficar concentradas as actividades técnicas relacionadas com a execução deste empreendimento, competindo-lhe designadamente:
+Artigo 1.º É criado no Ministério das Obras Públicas, com carácter eventual, o Gabinete da Ponte sobre o Tejo, no qual passam a ficar concentradas as actividades técnicas relacionadas com a execução deste empreendimento, competindo-lhe designadamente:
 
 a) Promover a elaboração de todos os estudos que se tornem necessários para a realização da obra ou com ela relacionados e que sejam da competência do Governo;
 
@@ -108,25 +116,25 @@ f) Dirigir e fiscalizar os trabalhos;
 
 g) Promover o pagamento das despesas.
 
-###### Art. 2.º O Gabinete da Ponte sobre o Tejo ficará na dependência directa do presidente da Junta Autónoma de Estradas e será constituído por um director, um engenheiro adjunto e um secretário contabilista, designado pelo Ministério das Finanças.
+Art. 2.º O Gabinete da Ponte sobre o Tejo ficará na dependência directa do presidente da Junta Autónoma de Estradas e será constituído por um director, um engenheiro adjunto e um secretário contabilista, designado pelo Ministério das Finanças.
 
 § 1.º O director do Gabinete, engenheiro civil, e o engenheiro adjunto serão da livre escolha do Ministro das Obras Públicas de entre especialistas de reconhecida competência pertencentes ou não aos quadros do Ministério, podendo no primeiro caso exercer as suas funções em regime de comissão de serviço ou acumulação com os cargos que estejam desempenhando, conforme for julgado mais conveniente.
 
 § 2.º O engenheiro adjunto substituirá o director do Gabinete nos seus impedimentos e o secretário contabilista superintenderá nos serviços de expediente e administração do Gabinete.
 
-###### Art. 3.º O Gabinete será assistido por um conselho técnico consultivo, com a composição que for estabelecida pelo Ministro das Obras Públicas, o qual será formado por especialistas de reconhecida competência nos diversos sectores técnicos abrangidos pela obra.
+Art. 3.º O Gabinete será assistido por um conselho técnico consultivo, com a composição que for estabelecida pelo Ministro das Obras Públicas, o qual será formado por especialistas de reconhecida competência nos diversos sectores técnicos abrangidos pela obra.
 
 § 1.º Os membros do conselho técnico consultivo serão nomeados pelo Ministro das Obras Públicas, mediante autorização dos Ministros de quem dependam quando sejam funcionários estranhos ao Ministério das Obras Públicas, e terão direito a gratificação nos termos do artigo 6.º do presente diploma.
 
 § 2.º O Ministro das Comunicações designará, para fazerem parte do conselho técnico consultivo, um especialista em assuntos portuários e outro em transportes terrestres.
 
-###### Art. 4.º As despesas a efectuar pelo Gabinete da Ponte sobre o Tejo classificam-se em dois grupos; pertencem ao primeiro as que são passíveis do cumprimento das formalidades prescritas na lei geral; consideram-se no segundo as que forem dispensadas de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
+Art. 4.º As despesas a efectuar pelo Gabinete da Ponte sobre o Tejo classificam-se em dois grupos; pertencem ao primeiro as que são passíveis do cumprimento das formalidades prescritas na lei geral; consideram-se no segundo as que forem dispensadas de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
 
 § 1.º A classificação anual das despesas constantes do orçamento privativo, nos grupos mencionados no corpo deste artigo, é da competência do Ministro das Obras Públicas, com o acordo do Ministro das Finanças, sobre proposta do director do Gabinete.
 
 § 2.º O Ministro das Obras Públicas poderá delegar no presidente da Junta Autónoma de Estradas ou no director do Gabinete, até ao montante de 100000$00, a sua faculdade de autorizar as despesas de qualquer dos grupos.
 
-###### Art. 5.º O pessoal técnico, administrativo, especializado e menor necessário ao funcionamento do Gabinete será contratado ou assalariado nos termos e com remuneração que forem aprovados pelo Ministro das Obras Públicas, em conformidade com as leis em vigor.
+Art. 5.º O pessoal técnico, administrativo, especializado e menor necessário ao funcionamento do Gabinete será contratado ou assalariado nos termos e com remuneração que forem aprovados pelo Ministro das Obras Públicas, em conformidade com as leis em vigor.
 
 § 1.º Sempre que as remunerações, por circunstâncias especiais, se tenham de afastar das estabelecidas na lei geral haverá que obter também para elas o acordo do Ministro das Finanças.
 
@@ -138,31 +146,31 @@ Enquanto não existirem vagas nas condições acima referidas o pessoal a que di
 
 § 3.º O pessoal da Junta Autónoma de Estradas, ou de quaisquer outros departamentos do Ministério das Obras Públicas, que for colocado no Gabinete da Ponte sobre o Tejo será considerado em comissão de serviço pelo tempo que for fixado por despacho do Ministro das Obras Públicas, nos termos do [Decreto-Lei n.º 30896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30896-1940-200187), de 22 de Novembro de 1940.
 
-###### Art. 6.º Os vencimentos ou gratificações dos membros do Gabinete, do conselho técnico consultivo e do pessoal em comissão de serviço, nos termos do [Decreto-Lei n.º 30896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30896-1940-200187), de 22 de Novembro de 1940, serão fixados por despacho do Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
+Art. 6.º Os vencimentos ou gratificações dos membros do Gabinete, do conselho técnico consultivo e do pessoal em comissão de serviço, nos termos do [Decreto-Lei n.º 30896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30896-1940-200187), de 22 de Novembro de 1940, serão fixados por despacho do Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
 
 § único. As gratificações são acumuláveis com as remunerações que os nomeados recebam pelo exercício de outras funções, mas estão sujeitas aos limites fixados na lei geral.
 
-###### Art. 7.º Ao director do Gabinete da Ponte sobre o Tejo poderão ser concedidos abonos pára despesas de representação nos termos e nos quantitativos definidos em despacho conjunto dos Ministros das Finanças e das Obras Públicas.
+Art. 7.º Ao director do Gabinete da Ponte sobre o Tejo poderão ser concedidos abonos pára despesas de representação nos termos e nos quantitativos definidos em despacho conjunto dos Ministros das Finanças e das Obras Públicas.
 
-###### Art. 8.º Quando o julgue conveniente, poderá o Ministro das Obras Públicas autorizar a elaboração de estudos ou projectos em regime de prestação de serviço, sendo as respectivas despesas fixadas por despacho ministerial.
+Art. 8.º Quando o julgue conveniente, poderá o Ministro das Obras Públicas autorizar a elaboração de estudos ou projectos em regime de prestação de serviço, sendo as respectivas despesas fixadas por despacho ministerial.
 
-###### Art. 9.º O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração dos projectos ou exercerem funções de fiscalização durante o estudo e execução da obra.
+Art. 9.º O Gabinete poderá, com autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração dos projectos ou exercerem funções de fiscalização durante o estudo e execução da obra.
 
 § único. As remunerações a atribuir aos membros das missões a que se refere este artigo serão fixadas por despacho do Ministro das Obras Públicas, com audiência prévia do Ministro das Finanças.
 
-###### Art. 10.º As despesas do funcionamento do Gabinete, seja qual for a sua natureza, serão suportadas pelas verbas inscritas no capítulo do orçamento da despesa extraordinária do Ministério das Obras Públicas relativo à construção da ponte sobre o Tejo.
+Art. 10.º As despesas do funcionamento do Gabinete, seja qual for a sua natureza, serão suportadas pelas verbas inscritas no capítulo do orçamento da despesa extraordinária do Ministério das Obras Públicas relativo à construção da ponte sobre o Tejo.
 
 § 1.º O saldo da gerência de cada ano transitará para a do ano seguinte.
 
 § 2.º O Gabinete requisitará mensalmente à 8.ª Repartição da Direcção-Geral da Contabilidade Pública, por conta dos fundos destinados à construção da ponte sobre o Tejo no Orçamento Geraldo Estado, as importâncias de que necessite para pagamento das suas despesas, as quais serão depositadas à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 11.º O Gabinete prestará anualmente contas da sua gerência ao Tribunal de Contas.
+Art. 11.º O Gabinete prestará anualmente contas da sua gerência ao Tribunal de Contas.
 
-###### Art. 12.º É atribuída ao Gabinete uma viatura automóvel ligeira para serviço do pessoal técnico no exercício das suas atribuições de estudo e fiscalização da obra.
+Art. 12.º É atribuída ao Gabinete uma viatura automóvel ligeira para serviço do pessoal técnico no exercício das suas atribuições de estudo e fiscalização da obra.
 
-###### Art. 13.º O Ministro das Obras Públicas aprovará por portaria o regulamento de serviço interno do Gabinete.
+Art. 13.º O Ministro das Obras Públicas aprovará por portaria o regulamento de serviço interno do Gabinete.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

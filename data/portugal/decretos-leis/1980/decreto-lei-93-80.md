@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09400/07970798.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1980-681414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd6bfcf5e23d2adf9d5c687d4f5f4588cd279a6eb4de614835c1f6c7397ccd2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69fd9f92e539aeff51f2acdf900963a104929e4ef3fbbe0f6ce402b6e72a876d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Secretaria de Estado da Administração Pública
+- Secretaria de Estado da Reforma Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:369823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:47Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +134,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 2.º e o artigo 3.º do [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 2.º e o artigo 3.º do [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — (Domínios de actuação)
 
@@ -157,9 +178,9 @@ f) Centro de Informação e Documentação Administrativa;
 
 g) Serviços de administração geral.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro, o artigo 3.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro, o artigo 3.º-A, com a seguinte redacção:
 
-###### ARTIGO 3.º-A
+ARTIGO 3.º-A
 
 (Gabinete de Estudos e Planeamento)
 
@@ -175,22 +196,22 @@ c) Acompanhamento e contrôle das acções referidas na alínea anterior;
 
 d) Contrôle do crescimento de serviços e efectivos da Administração Pública em estreita colaboração com as direcções-gerais da Secretaria de Estado.
 
-###### Art. 3.º - 1 - Os encargos com o pessoal do quadro do GEP serão suportados, no corrente ano, por verbas de pessoal inscritas nos orçamentos do Gabinete do Secretário de Estado da Reforma Administrativa e das direcções-gerais da Secretaria de Estado, em termos a fixar na portaria a que se refere o artigo 5.º
+Art. 3.º - 1 - Os encargos com o pessoal do quadro do GEP serão suportados, no corrente ano, por verbas de pessoal inscritas nos orçamentos do Gabinete do Secretário de Estado da Reforma Administrativa e das direcções-gerais da Secretaria de Estado, em termos a fixar na portaria a que se refere o artigo 5.º
 
 2 - O apoio administrativo ao GEP será assegurado pelos Serviços de Administração Geral da Secretaria de Estado.
 
-###### Art. 4.º - 1 - A partir da data da entrada em funcionamento do GEP considerar-se-á extinta a Comissão de Racionalização de Efectivos da Administração Pública, instituída pela [Resolução n.º 86/79](https://diariodarepublica.pt/dr/detalhe/resolucao/86-1979-382865), de 7 de Março do Conselho de Ministros.
+Art. 4.º - 1 - A partir da data da entrada em funcionamento do GEP considerar-se-á extinta a Comissão de Racionalização de Efectivos da Administração Pública, instituída pela [Resolução n.º 86/79](https://diariodarepublica.pt/dr/detalhe/resolucao/86-1979-382865), de 7 de Março do Conselho de Ministros.
 
 2 - Sem prejuízo das suas atribuições, o GEP promoverá a conclusão dos trabalhos em curso na Comissão a que se refere o número anterior.
 
-###### Art. 5.º A regulamentação do GEP será feita por portaria do Primeiro-Ministro, do Vice-Primeiro-Ministro e do Ministro das Finanças e do Plano.
+Art. 5.º A regulamentação do GEP será feita por portaria do Primeiro-Ministro, do Vice-Primeiro-Ministro e do Ministro das Finanças e do Plano.
 
-###### Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 12 de Abril de 1980.**
+Promulgado em 12 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

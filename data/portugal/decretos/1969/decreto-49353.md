@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49353-1969-215138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be26014057ebb6d723494f69e0b894bf256652e3a5ef0c8c763d08dddeb6826a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f0a4374fa362c06668829c87f713bab8359240643b0966ea2a065f31ef154bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:401694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686791:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:08Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +111,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Das províncias de governo-geral
 
-###### Artigo 1.º As Comissões Técnicas de Planeamento e Integração Económica de Angola e Moçambique, criadas pela base LXIX da [Lei n.º 2119](https://diariodarepublica.pt/dr/detalhe/lei/2119-1963-627390), de 24 de Junho de 1963, para funcionarem sob a dependência directa do governador-geral, têm a seu cargo a definição das linhas gerais do desenvolvimento económico e social da província e a orientação e coordenação dos trabalhos de preparação, de elaboração e de realização dos planos territoriais de fomento, dos programas sectoriais, dos planos regionais e dos respectivos programas anuais de execução, incumbindo-lhes, em especial:
+Artigo 1.º As Comissões Técnicas de Planeamento e Integração Económica de Angola e Moçambique, criadas pela base LXIX da [Lei n.º 2119](https://diariodarepublica.pt/dr/detalhe/lei/2119-1963-627390), de 24 de Junho de 1963, para funcionarem sob a dependência directa do governador-geral, têm a seu cargo a definição das linhas gerais do desenvolvimento económico e social da província e a orientação e coordenação dos trabalhos de preparação, de elaboração e de realização dos planos territoriais de fomento, dos programas sectoriais, dos planos regionais e dos respectivos programas anuais de execução, incumbindo-lhes, em especial:
 
 a) Apreciar os anteprojectos dos planos de fomento e respectivos programas anuais de execução elaborados na respectiva província, antes de serem submetidos ao Ministro do Ultramar e ao Conselho de Ministros para os Assuntos Económicos;
 
@@ -117,19 +133,19 @@ i) Definir as directrizes gerais para o desenvolvimento económico e social da p
 
 j) Acompanhar a evolução dos pagamentos interterritoriais.
 
-###### Art. 2.º - 1. As comissões técnicas de planeamento e integração económica serão presididas pelo governador-geral e constituídas pelos secretários provinciais e pelo director dos serviços de planeamento e integração económica, que servirá de secretário executivo.
+Art. 2.º - 1. As comissões técnicas de planeamento e integração económica serão presididas pelo governador-geral e constituídas pelos secretários provinciais e pelo director dos serviços de planeamento e integração económica, que servirá de secretário executivo.
 
 2. Quando a natureza dos assuntos o justificar, poderá o presidente da comissão técnica de planeamento e integração económica convocar para as reuniões da mesma, sem direito a voto, quaisquer entidades cuja colaboração seja considerada necessária.
 
 3. O governador-geral poderá, sempre que o entenda, delegar a presidência no secretário provincial de planeamento e integração económica, fazenda e contabilidade.
 
-###### Art. 3.º - 1. As comissões técnicas de planeamento e integração económica reunirão em princípio, uma vez por mês e sempre que forem convocadas pelo respectivo presidente.
+Art. 3.º - 1. As comissões técnicas de planeamento e integração económica reunirão em princípio, uma vez por mês e sempre que forem convocadas pelo respectivo presidente.
 
 2. Das sessões das comissões técnicas, de planeamento e integração económica será sempre lavrada acta, que, depois de aprovada na sessão imediatamente seguinte, será assinada pelo presidente e pelo director dos serviços de planeamento e integração económica, como secretário executivo.
 
 3. Para coadjuvar o director dos serviços de planeamento e integração económica poderá, sob sua proposta, ser designado pelo presidente um funcionário dos referidos serviços para assistir, sem voto, às reuniões, o qual terá direito a gratificação a fixar por despacho do governador-geral.
 
-###### Art. 4.º - 1. O expediente e o apoio técnico e administrativo às comissões técnicas de planeamento e integração económica serão assegurados pelos serviços provinciais de planeamento e integração económica, aos quais compete:
+Art. 4.º - 1. O expediente e o apoio técnico e administrativo às comissões técnicas de planeamento e integração económica serão assegurados pelos serviços provinciais de planeamento e integração económica, aos quais compete:
 
 a) Preparar os anteprojectos dos planos de fomento e programas sectoriais e regionais da província, de acordo com a orientação que for estabelecida pelo Conselho de Ministros para os Assuntos Económicos, e elaborar os respectivos projectos de programas anuais de execução, bem como preparar as propostas de alteração dos mesmos;
 
@@ -159,7 +175,7 @@ m) Assegurar a ligação da comissão técnica de planeamento e integração eco
 
 2. O director dos serviços de planeamento e integração económica corresponder-se-á directamente com todos os serviços e organismos da província sobre os assuntos em que deve intervir.
 
-###### Art. 5.º Os serviços de planeamento e integração económica criados pelo presente diploma constituem uma direcção de serviços, repartindo-se pelos seguintes departamentos, cuja orgânica e funcionamento deverão ser regulamentados por diploma adequado:
+Art. 5.º Os serviços de planeamento e integração económica criados pelo presente diploma constituem uma direcção de serviços, repartindo-se pelos seguintes departamentos, cuja orgânica e funcionamento deverão ser regulamentados por diploma adequado:
 
 a) Departamento de planeamento;
 
@@ -171,15 +187,15 @@ d) Centro de documentação técnico-económica;
 
 e) Repartição administrativa.
 
-###### Art. 6.º O centro de documentação técnico-económica a que se refere o artigo anterior será organizado e mantido em colaboração com os serviços provinciais de economia, os serviços provinciais de estatística e outros serviços e entidades interessadas da província.
+Art. 6.º O centro de documentação técnico-económica a que se refere o artigo anterior será organizado e mantido em colaboração com os serviços provinciais de economia, os serviços provinciais de estatística e outros serviços e entidades interessadas da província.
 
-###### Art. 7.º - 1. Os serviços de planeamento e integração económica de cada uma das províncias de governo-geral terão o pessoal constante do mapa anexo ao presente diploma.
+Art. 7.º - 1. Os serviços de planeamento e integração económica de cada uma das províncias de governo-geral terão o pessoal constante do mapa anexo ao presente diploma.
 
 2. Ao pessoal do quadro de direcção e chefia e dos quadros técnicos e ao chefe de secretaria serão fixadas as gratificações mensais constantes da tabela anexa ao presente diploma.
 
 3. Ao pessoal de direcção e chefia e técnico com curso superior, além das gratificações a que se refere o número anterior, poderá ainda ser fixado, cumulativamente, por despacho do governador-geral, o subsídio diário de 70$00 a 230$00.
 
-###### Art. 8.º O provimento dos cargos previstos no mapa anexo a este decreto será feito por nomeação, em comissão, ou por contrato, nos termos seguintes:
+Art. 8.º O provimento dos cargos previstos no mapa anexo a este decreto será feito por nomeação, em comissão, ou por contrato, nos termos seguintes:
 
 a) O director e os inspectores provinciais dos serviços de planeamento e integração económica serão nomeados pelo Ministro do Ultramar, sob proposta do governador-geral, de entre indivíduos licenciados com um curso superior adaptado às respectivas funções e cuja especialização e currículo o justifiquem;
 
@@ -195,15 +211,15 @@ f) O lugar de chefe de secretaria será provido por escolha do Ministro do Ultra
 
 g) O provimento dos restantes lugares far-se-á de acordo com a lei geral, com excepção dos lugares de aspirante, os quais serão providos mediante concurso de provas práticas entre indivíduos que possuam o 2.º ciclo liceal ou habilitações equivalentes.
 
-###### Art. 9.º Por proposta do director dos serviços de planeamento e integração económica e por um período de tempo considerado conveniente, serão designados, pelo governador-geral, os especialistas do quadro dos mesmos serviços que deverão desempenhar as funções de chefes de departamento.
+Art. 9.º Por proposta do director dos serviços de planeamento e integração económica e por um período de tempo considerado conveniente, serão designados, pelo governador-geral, os especialistas do quadro dos mesmos serviços que deverão desempenhar as funções de chefes de departamento.
 
-###### Art. 10.º - 1. Para ocorrer a necessidades eventuais ou extraordinárias de serviço, poderá o director dos serviços de planeamento e integração económica propor a admissão, a título eventual, para além do quadro, de pessoal técnico, administrativo ou auxiliar, com designações iguais às do quadro.
+Art. 10.º - 1. Para ocorrer a necessidades eventuais ou extraordinárias de serviço, poderá o director dos serviços de planeamento e integração económica propor a admissão, a título eventual, para além do quadro, de pessoal técnico, administrativo ou auxiliar, com designações iguais às do quadro.
 
 2. Mediante proposta do director dos serviços de planeamento e integração económica, aprovada pelo governador-geral, poderá também ser confiada a entidades especializadas, ou a técnicos especialistas em regime de contrato ou tarefa, a execução dos estudos, inquéritos e trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas àqueles serviços.
 
-###### Art. 11.º Um dos inspectores provinciais, a designar por portaria do governador-geral, substituirá o director dos serviços de planeamento e integração económica nas suas ausências, faltas ou impedimentos, competindo, porém, a substituição ao mais antigo, quando não haja substituto designado.
+Art. 11.º Um dos inspectores provinciais, a designar por portaria do governador-geral, substituirá o director dos serviços de planeamento e integração económica nas suas ausências, faltas ou impedimentos, competindo, porém, a substituição ao mais antigo, quando não haja substituto designado.
 
-###### Art. 12.º - 1. Poderão ser criados, quando necessário, no âmbito da comissão técnica de planeamento e integração económica, por despacho do governador-geral e sob proposta do director dos serviços, grupos de trabalho para apoio na elaboração dos planos e programas anuais de execução e para procederem ao estudo de problemas específicos e, independentemente destes, poderão constituir-se do mesmo modo grupos de trabalho de duração anual, para acompanhamento da execução dos planos de fomento e elaboração de relatórios anuais sobre o comportamento, em geral, dos sectores da actividade económica.
+Art. 12.º - 1. Poderão ser criados, quando necessário, no âmbito da comissão técnica de planeamento e integração económica, por despacho do governador-geral e sob proposta do director dos serviços, grupos de trabalho para apoio na elaboração dos planos e programas anuais de execução e para procederem ao estudo de problemas específicos e, independentemente destes, poderão constituir-se do mesmo modo grupos de trabalho de duração anual, para acompanhamento da execução dos planos de fomento e elaboração de relatórios anuais sobre o comportamento, em geral, dos sectores da actividade económica.
 
 2. O despacho do governador da província que proceder à criação dos grupos de trabalho deverá fixar a respectiva composição, mandato e período de funcionamento.
 
@@ -213,11 +229,11 @@ g) O provimento dos restantes lugares far-se-á de acordo com a lei geral, com e
 
 5. A remuneração dos componentes dos grupos de trabalho será feita consoante os casos, por gratificação em função dos estudos realizados ou por senhas de presença, sendo os respectivos montantes, em ambos os casos, fixados por despacho do governador da província.
 
-###### Art. 13.º - 1. Para funcionar junto dos serviços de planeamento e integração económica é criado o conselho coordenador de planeamento e integração económica, órgão de coordenação e consulta, destinado a assegurar, a nível provincial, a ligação permanente entre os serviços de planeamento e integração económica, os demais serviços provinciais e as entidades privadas e, por outro lado, promover a coordenação, antes da apreciação, a nível da comissão técnica de planeamento e integração económica, dos problemas de maior relevância dos diversos sectores da actividade económica.
+Art. 13.º - 1. Para funcionar junto dos serviços de planeamento e integração económica é criado o conselho coordenador de planeamento e integração económica, órgão de coordenação e consulta, destinado a assegurar, a nível provincial, a ligação permanente entre os serviços de planeamento e integração económica, os demais serviços provinciais e as entidades privadas e, por outro lado, promover a coordenação, antes da apreciação, a nível da comissão técnica de planeamento e integração económica, dos problemas de maior relevância dos diversos sectores da actividade económica.
 
 2. No âmbito das suas atribuições, o conselho coordenador de planeamento e integração económica poderá dar parecer sobre as propostas das comissões consultivas regionais, sobre os planos e os programas anuais, sobre a acção desenvolvida pelos grupos de trabalho e sobre qualquer assunto que o governador-geral entenda submeter à sua apreciação.
 
-###### Art. 14.º - 1. O conselho coordenador de planeamento e integração económica será presidido pelo director dos serviços de planeamento e integração económica.
+Art. 14.º - 1. O conselho coordenador de planeamento e integração económica será presidido pelo director dos serviços de planeamento e integração económica.
 
 2. Os vogais efectivos e suplentes do conselho coordenador de planeamento e integração económica, a designar por despacho do governador-geral, serão representantes dos serviços públicos, a quem compete executar os empreendimentos inscritos nos planos de fomento e tornar efectivas as medidas de integração económica, e ainda representantes das entidades privadas interessadas no desenvolvimento económico e social da província, nomeadamente:
 
@@ -245,15 +261,15 @@ Um representante eleito pelos sindicatos.
 
 5. Quando venha a reconhecer-se necessária a presença de representantes de outros departamentos públicos não membros do conselho, poderá a sua inclusão ser determinada por despacho do governador-geral, ouvido o secretário provincial respectivo.
 
-###### Art. 15.º - 1. O conselho coordenador de planeamento e integração económica funcionará em reuniões conjuntas e em reuniões restritas, consoante a natureza dos assuntos a tratar.
+Art. 15.º - 1. O conselho coordenador de planeamento e integração económica funcionará em reuniões conjuntas e em reuniões restritas, consoante a natureza dos assuntos a tratar.
 
 2. As reuniões do conselho coordenador serão convocadas pelo presidente, por sua iniciativa, ou mediante proposta de algum dos vogais.
 
-###### Art. 16.º - 1. A remuneração dos membros do conselho coordenador será feita por senhas de presença, de montante a fixar por despacho do governador-geral.
+Art. 16.º - 1. A remuneração dos membros do conselho coordenador será feita por senhas de presença, de montante a fixar por despacho do governador-geral.
 
 2. Os técnicos dos serviços de planeamento e integração económica, quando participem nas reuniões do conselho coordenador, terão direito a receber remuneração idêntica à dos vogais.
 
-###### Art. 17.º - 1. Poderão ser criadas, por despacho do governador-geral, ouvida a comissão técnica de planeamento e integração económica e sob proposta do director dos serviços de planeamento e integração económica, comissões consultivas regionais, com o âmbito territorial e a constituição que for definida no respectivo despacho de criação.
+Art. 17.º - 1. Poderão ser criadas, por despacho do governador-geral, ouvida a comissão técnica de planeamento e integração económica e sob proposta do director dos serviços de planeamento e integração económica, comissões consultivas regionais, com o âmbito territorial e a constituição que for definida no respectivo despacho de criação.
 
 2. Às comissões consultivas regionais competirá, em especial:
 
@@ -267,9 +283,9 @@ c) Manter, com carácter permanente, a ligação com os serviços de planeamento
 
 4. Por despacho do governador-geral, poderá ser fixada remuneração aos membros das comissões consultivas regionais.
 
-###### Art. 18.º Para apoio na execução das tarefas a cargo das comissões consultivas regionais, os serviços de planeamento e integração económica poderão destacar ou recrutar um ou mais técnicos, com habilitações para o efeito.
+Art. 18.º Para apoio na execução das tarefas a cargo das comissões consultivas regionais, os serviços de planeamento e integração económica poderão destacar ou recrutar um ou mais técnicos, com habilitações para o efeito.
 
-###### Art. 19.º - 1. As reuniões das comissões consultivas regionais realizar-se-ão, em princípio, uma vez por mês.
+Art. 19.º - 1. As reuniões das comissões consultivas regionais realizar-se-ão, em princípio, uma vez por mês.
 
 2. Para as mesmas sessões poderão ser convocadas, sem direito a voto, quaisquer entidades cuja colaboração o presidente considere útil e conveniente.
 
@@ -277,7 +293,7 @@ c) Manter, com carácter permanente, a ligação com os serviços de planeamento
 
 4. De todas as reuniões será lavrada uma acta, a remeter à comissão técnica de planeamento e integração económica, através dos serviços de planeamento e integração económica.
 
-###### Art. 20.º O pessoal dos actuais quadros dos serviços privativos da comissão técnica de planeamento e integração económica transitará, independentemente de visto e de posse e de quaisquer outras formalidades, para os lugares a que se refere o mapa anexo ao presente diploma, pela seguinte forma:
+Art. 20.º O pessoal dos actuais quadros dos serviços privativos da comissão técnica de planeamento e integração económica transitará, independentemente de visto e de posse e de quaisquer outras formalidades, para os lugares a que se refere o mapa anexo ao presente diploma, pela seguinte forma:
 
 1.º Os actuais chefes de departamento e o adjunto administrativo, para especialistas;
 
@@ -289,11 +305,11 @@ c) Manter, com carácter permanente, a ligação com os serviços de planeamento
 
 5.º O restante pessoal, para lugares de idêntica categoria e designação.
 
-###### Art. 21.º O provimento dos lugares do quadro do pessoal administrativo dos serviços de planeamento e integração económica que ficarem vagos após a transição prevista no artigo anterior será feito mediante concurso de provas práticas, a que poderão concorrer todos os candidatos que possuam as habilitações legais.
+Art. 21.º O provimento dos lugares do quadro do pessoal administrativo dos serviços de planeamento e integração económica que ficarem vagos após a transição prevista no artigo anterior será feito mediante concurso de provas práticas, a que poderão concorrer todos os candidatos que possuam as habilitações legais.
 
 ### CAPÍTULO II — Das províncias de governo simples
 
-###### Art. 22.º As comissões técnicas de planeamento e integração económica das províncias de governo simples, criadas pela base LXIX da [Lei n.º 2119](https://diariodarepublica.pt/dr/detalhe/lei/2119-1963-627390), de 24 de Junho de 1963, para funcionarem sob a dependência directa do governador da província, têm a seu cargo a definição das linhas gerais do desenvolvimento económico e social da província e a orientação e coordenação dos trabalhos de preparação, de elaboração e de realização dos planos territoriais de fomento, dos programas sectoriais, dos planos regionais e dos respectivos programas anuais de execução, incumbindo-lhes, em especial:
+Art. 22.º As comissões técnicas de planeamento e integração económica das províncias de governo simples, criadas pela base LXIX da [Lei n.º 2119](https://diariodarepublica.pt/dr/detalhe/lei/2119-1963-627390), de 24 de Junho de 1963, para funcionarem sob a dependência directa do governador da província, têm a seu cargo a definição das linhas gerais do desenvolvimento económico e social da província e a orientação e coordenação dos trabalhos de preparação, de elaboração e de realização dos planos territoriais de fomento, dos programas sectoriais, dos planos regionais e dos respectivos programas anuais de execução, incumbindo-lhes, em especial:
 
 a) Apreciar os anteprojectos dos planos de fomento e respectivos programas anuais de execução elaborados na respectiva província, antes de serem submetidos ao Ministro do Ultramar e ao Conselho de Ministros para os Assuntos Económicos;
 
@@ -313,19 +329,19 @@ h) Definir as directrizes gerais para o desenvolvimento económico e social da p
 
 i) Acompanhar a evolução dos pagamentos interterritoriais.
 
-###### Art. 23.º - 1. As comissões técnicas de planeamento e integração económica serão presididas pelo governador da província e constituídas pelo secretário provincial, quando o haja, pelos chefes de todas as repartições provinciais, por chefes ou representantes dos serviços, designados por despacho do governador, e pelo chefe dos serviços de planeamento e integração económica.
+Art. 23.º - 1. As comissões técnicas de planeamento e integração económica serão presididas pelo governador da província e constituídas pelo secretário provincial, quando o haja, pelos chefes de todas as repartições provinciais, por chefes ou representantes dos serviços, designados por despacho do governador, e pelo chefe dos serviços de planeamento e integração económica.
 
 2. Quando a natureza dos assuntos o justificar, poderá o presidente da comissão técnica de planeamento e integração económica convocar para as reuniões da mesma, sem direito a voto, quaisquer entidades cuja colaboração seja considerada necessária.
 
 3. O governador da província poderá, sempre que o entenda, delegar a presidência no secretário-geral, quando o haja, ou, na sua falta, no chefe dos serviços de economia.
 
-###### Art. 24.º - 1. As comissões técnicas de planeamento e integração económica reunirão, em princípio, uma vez por mês e sempre que forem convocadas pelo respectivo presidente.
+Art. 24.º - 1. As comissões técnicas de planeamento e integração económica reunirão, em princípio, uma vez por mês e sempre que forem convocadas pelo respectivo presidente.
 
 2. Das sessões das comissões técnicas de planeamento e integração económica será sempre lavrada acta, que, depois de aprovada na sessão imediatamente seguinte, será assinada pelo presidente e pelo chefe dos serviços de planeamento e integração económica, como secretário executivo.
 
 3. Para coadjuvar o chefe dos serviços de planeamento e integração económica poderá, sob sua proposta, ser designado pelo presidente um funcionário dos referidos serviços para assistir, sem voto, às reuniões, o qual terá direito a gratificação a fixar por despacho do governador da província.
 
-###### Art. 25.º - 1. O expediente e o apoio técnico e administrativo às comissões técnicas de planeamento e integração económica serão assegurados pelos serviços provinciais de planeamento e integração económica, aos quais compete, em especial:
+Art. 25.º - 1. O expediente e o apoio técnico e administrativo às comissões técnicas de planeamento e integração económica serão assegurados pelos serviços provinciais de planeamento e integração económica, aos quais compete, em especial:
 
 a) Preparar os anteprojectos dos planos de fomento e programas sectoriais e regionais da província, de acordo com a orientação que for estabelecida pelo Conselho de Ministros para os Assuntos Económicos, e elaborar os respectivos projectos de programas anuais de execução, bem como preparar as propostas de alteração dos mesmos;
 
@@ -353,17 +369,17 @@ l) Assegurar a ligação da comissão técnica de planeamento e integração eco
 
 2. O chefe dos serviços de planeamento e integração económica corresponder-se-á directamente com todos os serviços e organismos da província sobre os assuntos em que deve intervir.
 
-###### Art. 26.º A organização interna dos serviços provinciais de planeamento e integração económica e correspondente distribuição de tarefas e funções pelos serviços técnicos e administrativos que seja conveniente prever, será estabelecida pelos governadores das províncias, em portaria, devendo seguir, na medida do possível, a estrutura prevista no artigo 5.º do presente diploma.
+Art. 26.º A organização interna dos serviços provinciais de planeamento e integração económica e correspondente distribuição de tarefas e funções pelos serviços técnicos e administrativos que seja conveniente prever, será estabelecida pelos governadores das províncias, em portaria, devendo seguir, na medida do possível, a estrutura prevista no artigo 5.º do presente diploma.
 
-###### Art. 27.º Na organização dos serviços a que se refere o artigo anterior poderá ser considerada a criação de um centro de documentação técnico-económica, o qual será organizado e mantido em colaboração com os serviços provinciais de economia, serviços provinciais de estatística e outros serviços e entidades interessados da província, devendo a sua orgânica e funcionamento ser regulamentados por diploma adequado.
+Art. 27.º Na organização dos serviços a que se refere o artigo anterior poderá ser considerada a criação de um centro de documentação técnico-económica, o qual será organizado e mantido em colaboração com os serviços provinciais de economia, serviços provinciais de estatística e outros serviços e entidades interessados da província, devendo a sua orgânica e funcionamento ser regulamentados por diploma adequado.
 
-###### Art. 28.º - 1. O pessoal permanente dos serviços de planeamento e integração económica das províncias de governo simples será fixado pelos respectivos governadores, em diploma provincial adequado, e os respectivos lugares poderão ser preenchidos por funcionários e agentes de quaisquer serviços públicos, autónomos, corporações ou organismos corporativos ou de administração autárquica da metrópole ou do ultramar, devendo, porém, o chefe dos serviços ter a categoria correspondente à letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 28.º - 1. O pessoal permanente dos serviços de planeamento e integração económica das províncias de governo simples será fixado pelos respectivos governadores, em diploma provincial adequado, e os respectivos lugares poderão ser preenchidos por funcionários e agentes de quaisquer serviços públicos, autónomos, corporações ou organismos corporativos ou de administração autárquica da metrópole ou do ultramar, devendo, porém, o chefe dos serviços ter a categoria correspondente à letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. No quadro do pessoal permanente dos serviços de planeamento e integração económica das províncias de governo simples serão observadas as designações e categorias previstas no quadro anexo a este diploma para as províncias de governo-geral.
 
 3. Não se justificando a existência de quadro permanente nas províncias de governo simples, as funções de chefe dos serviços de planeamento e integração económica poderão ser exercidas cumulativamente pelo chefe dos serviços de economia ou outro dos chefes dos serviços provinciais designado pelo respectivo governador ou por um funcionário dos quadros de direcção e chefia ou técnico do Gabinete de Planeamento e Integração Económica ou dos serviços de planeamento e integração económica de outras províncias ultramarinas, nomeado pelo Ministro do Ultramar.
 
-###### Art. 29.º - 1. O provimento dos cargos previstos nos quadros de pessoal referidos no artigo anterior será feito por nomeação, em comissão, ou por contrato, nos termos do Estatuto do Funcionalismo Ultramarino e mais legislação aplicável, nos termos seguintes:
+Art. 29.º - 1. O provimento dos cargos previstos nos quadros de pessoal referidos no artigo anterior será feito por nomeação, em comissão, ou por contrato, nos termos do Estatuto do Funcionalismo Ultramarino e mais legislação aplicável, nos termos seguintes:
 
 a) O chefe dos serviços de planeamento e integragração económica será nomeado, em comissão, pelo Ministro do Ultramar, sob proposta do governador da província, de entre indivíduos licenciados ou diplomados com um curso superior adequado e que tenham também revelado aptidão para o exercício das respectivas funções;
 
@@ -383,13 +399,13 @@ f) O provimento dos restantes lugares far-se-á de acordo com a lei geral.
 
 4. Ao pessoal de direcção e chefia e técnico com curso superior, além das gratificações a que se refere o número anterior, poderá ainda ser fixado, cumulativamente, por despacho do governador da província, um subsídio diário de 70$00 a 230$00.
 
-###### Art. 30.º - 1. Para ocorrer a necessidades eventuais ou extraordinárias de serviço, poderá o chefe dos serviços de planeamento e integração económica propor a admissão, a título eventual, para além do quadro de pessoal técnico, administrativo ou auxiliar com designações iguais às do quadro.
+Art. 30.º - 1. Para ocorrer a necessidades eventuais ou extraordinárias de serviço, poderá o chefe dos serviços de planeamento e integração económica propor a admissão, a título eventual, para além do quadro de pessoal técnico, administrativo ou auxiliar com designações iguais às do quadro.
 
 2. Mediante proposta do chefe dos serviços de planeamento e integração económica, aprovada pelo governador-geral, poderá também ser confiada a entidades especializadas, ou a técnicos especialistas em regime de contrato ou tarefa, a execução dos estudos, inquéritos e trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas àqueles serviços.
 
-###### Art. 31.º Um dos técnicos de formação universitária ou, quando os não haja, de formação média, a designar por despacho do governador da província, substituirá o chefe dos serviços de planeamento e integração económica nas suas ausências, faltas ou impedimentos, competindo, porém, a substituição ao mais antigo, quando não haja substituto designado.
+Art. 31.º Um dos técnicos de formação universitária ou, quando os não haja, de formação média, a designar por despacho do governador da província, substituirá o chefe dos serviços de planeamento e integração económica nas suas ausências, faltas ou impedimentos, competindo, porém, a substituição ao mais antigo, quando não haja substituto designado.
 
-###### Art. 32.º - 1. Poderão ser criados, quando necessário, no âmbito da comissão técnica de planeamento e integração económica, por despacho do governador da província e sob proposta do chefe dos serviços, grupos de trabalho para apoio na elaboração dos planos e programas anuais de execução e para procederem ao estudo de problemas específicos e, independentemente destes, poderão constituir-se do mesmo modo grupos de trabalho de duração anual, para acompanhamento da execução dos planos de fomento e elaboração de relatórios anuais sobre o comportamento, em geral, dos sectores de actividade económica.
+Art. 32.º - 1. Poderão ser criados, quando necessário, no âmbito da comissão técnica de planeamento e integração económica, por despacho do governador da província e sob proposta do chefe dos serviços, grupos de trabalho para apoio na elaboração dos planos e programas anuais de execução e para procederem ao estudo de problemas específicos e, independentemente destes, poderão constituir-se do mesmo modo grupos de trabalho de duração anual, para acompanhamento da execução dos planos de fomento e elaboração de relatórios anuais sobre o comportamento, em geral, dos sectores de actividade económica.
 
 2. O despacho do governador da província que proceder à criação dos grupos de trabalho deverá fixar a respectiva composição, mandato e período de funcionamento.
 
@@ -399,7 +415,7 @@ f) O provimento dos restantes lugares far-se-á de acordo com a lei geral.
 
 5. A remuneração dos componentes dos grupos de trabalho será feita por senhas de presença de montante a fixar por despacho do governador da província.
 
-###### Art. 33.º O pessoal dos actuais quadros dos serviços privativos das comissões técnicas de planeamento e integração económica das províncias de governo simples transitará, independentemente de visto e de posse e de quaisquer outras formalidades, para os seguintes lugares, desde que criados nos termos dos n.os 1 e 2 do artigo 28.º deste decreto, e o seu preenchimento decidido por despacho do governador da província, ouvida a comissão técnica:
+Art. 33.º O pessoal dos actuais quadros dos serviços privativos das comissões técnicas de planeamento e integração económica das províncias de governo simples transitará, independentemente de visto e de posse e de quaisquer outras formalidades, para os seguintes lugares, desde que criados nos termos dos n.os 1 e 2 do artigo 28.º deste decreto, e o seu preenchimento decidido por despacho do governador da província, ouvida a comissão técnica:
 
 1.º O adjunto administrativo e os técnicos de 1.ª classe, para especialistas;
 
@@ -407,19 +423,19 @@ f) O provimento dos restantes lugares far-se-á de acordo com a lei geral.
 
 3.º O restante pessoal, para lugares de idêntica categoria e designação ou para a imediatamente superior no quadro, sempre que venham exercendo as suas funções com boas informações de serviço.
 
-###### Art. 34.º O provimento dos lugares do quadro do pessoal administrativo dos serviços de planeamento e integração económica que ficarem vagos após a transição prevista no artigo anterior será feito mediante concurso de provas práticas, a que poderão concorrer todos os candidatos que possuam as habilitações legais.
+Art. 34.º O provimento dos lugares do quadro do pessoal administrativo dos serviços de planeamento e integração económica que ficarem vagos após a transição prevista no artigo anterior será feito mediante concurso de provas práticas, a que poderão concorrer todos os candidatos que possuam as habilitações legais.
 
 ### CAPÍTULO III — Disposições gerais
 
-###### Art. 35.º Ficam os governadores das províncias ultramarinas autorizados a abrir os créditos necessários à execução deste decreto.
+Art. 35.º Ficam os governadores das províncias ultramarinas autorizados a abrir os créditos necessários à execução deste decreto.
 
-###### Art. 36.º Este decreto entra imediatamente em vigor e revoga as disposições do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, do [Decreto n.º 45930](https://diariodarepublica.pt/dr/detalhe/decreto/45930-1964-537608), de 17 de Setembro de 1964, do Diploma Legislativo Ministerial n.º 15, de 31 de Maio de 1967, e de quaisquer outras disposições legais promulgadas na metrópole ou nas províncias ultramarinas que contrariem ou modifiquem as disposições do presente decreto.
+Art. 36.º Este decreto entra imediatamente em vigor e revoga as disposições do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, do [Decreto n.º 45930](https://diariodarepublica.pt/dr/detalhe/decreto/45930-1964-537608), de 17 de Setembro de 1964, do Diploma Legislativo Ministerial n.º 15, de 31 de Maio de 1967, e de quaisquer outras disposições legais promulgadas na metrópole ou nas províncias ultramarinas que contrariem ou modifiquem as disposições do presente decreto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Outubro de 1969.**
+Promulgado em 10 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -427,10 +443,10 @@ Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 Quadro de pessoal referido no artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/25700/14881494.pdf))](https://files.diariodarepublica.pt/1s/1969/11/25700/14881494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/25700/14881494.pdf)
 
 Gratificações mensais referidas no n.º 2 do artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/25700/14881494.pdf))](https://files.diariodarepublica.pt/1s/1969/11/25700/14881494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/25700/14881494.pdf)
 
 Ministério do Ultramar, 10 de Outubro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

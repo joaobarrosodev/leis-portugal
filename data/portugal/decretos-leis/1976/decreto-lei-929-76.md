@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(69) a 2900-(69)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00690069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/929-1976-391219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7208f5dfcc6ed429372d9e12409a6bbe582f98cd7bd28ae7d13d7ebc483bcf10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56c560c51f20a4b5e36b62afa832df295b162c94f3d2d2bd45930b27d2099788
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Grémio
+- Ministério das Finanças
+- Subsídio
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:52Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +110,14 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É autorizada a concessão de um subsídio de 2500 contos ao Grémio Lusitano, a título de indemnização definitiva, por todos os prejuízos que lhe foram causados pela ocupação do edifício próprio da sua sede até 25 de Abril de 1974.
+Artigo 1.º É autorizada a concessão de um subsídio de 2500 contos ao Grémio Lusitano, a título de indemnização definitiva, por todos os prejuízos que lhe foram causados pela ocupação do edifício próprio da sua sede até 25 de Abril de 1974.
 
-###### Art. 2.º Para efeito do disposto no artigo anterior é efectuada a transferência de 2500000$00 da verba descrita no capítulo 5.º, artigo 51.º, n.º 1, «Intendência-Geral do Orçamento», do vigente orçamento do Ministério das Finanças, para a dotação a inscrever no orçamento do Ministério da Administração Interna, sob o capítulo 7.º, artigo 101.º-A, «Transferências - Instituições particulares», n.º 1 «Subsídio ao Grémio Lusitano».
+Art. 2.º Para efeito do disposto no artigo anterior é efectuada a transferência de 2500000$00 da verba descrita no capítulo 5.º, artigo 51.º, n.º 1, «Intendência-Geral do Orçamento», do vigente orçamento do Ministério das Finanças, para a dotação a inscrever no orçamento do Ministério da Administração Interna, sob o capítulo 7.º, artigo 101.º-A, «Transferências - Instituições particulares», n.º 1 «Subsídio ao Grémio Lusitano».
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

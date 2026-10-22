@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14200/07240724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1974-476295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94084ac98cd76dfaee83b66cb562ae07068ed247bded4c13eca188e3adcc003b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe2e4a5706ea93565b09eaa6244d641b32471c1f2ca29d2f24686d04a5f97f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Depósitos
+- Conselho de Administração
+- Empresa Pública
+- Exoneração
+- Imprensa Nacional-Casa da Moeda
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473372:por
+  label: "Alterado o art. 2º pelo DEC LEI.479/74.25.09.1974.PCM, DG.IS [224] de 25.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/479-1974-473372
+  date: '1974-09-25'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:264351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674416:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:53Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +128,22 @@ Reconhecendo, porém, que, dada a natureza excepcional dos condicionalismos que 
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Mediante despacho do Ministro da Coordenação Económica, pode ser dada por finda a comissão de serviço de qualquer dos membros do conselho de administração da empresa pública Caixa Geral de Depósitos antes de decorrido o período de cinco anos a que se refere o artigo 18.º e o n.º 1 do artigo 20.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586).
+Artigo 1.º Mediante despacho do Ministro da Coordenação Económica, pode ser dada por finda a comissão de serviço de qualquer dos membros do conselho de administração da empresa pública Caixa Geral de Depósitos antes de decorrido o período de cinco anos a que se refere o artigo 18.º e o n.º 1 do artigo 20.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586).
 
-###### Art. 2.º Mediante despacho conjunto dos Ministros da Administração Interna e da Coordenação Económica, podem ser dadas por findas as funções de qualquer dos membros do conselho de administração da empresa pública Imprensa Nacional-Casa da Moeda antes de decorrido o período de três anos a que se refere o n.º 1 do artigo 14.º do [Decreto-Lei n.º 225/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1972-674416).
+Art. 2.º Mediante despacho conjunto dos Ministros da Administração Interna e da Coordenação Económica, podem ser dadas por findas as funções de qualquer dos membros do conselho de administração da empresa pública Imprensa Nacional-Casa da Moeda antes de decorrido o período de três anos a que se refere o n.º 1 do artigo 14.º do [Decreto-Lei n.º 225/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1972-674416).
 
-###### Art. 3.º Todos aqueles cujas funções ou comissões de serviço forem dadas como findas nos termos dos artigos anteriores, poderão:
+Art. 3.º Todos aqueles cujas funções ou comissões de serviço forem dadas como findas nos termos dos artigos anteriores, poderão:
 
 a) Ser aposentados pelo cargo que nesta data deixam de exercer, com dispensa do exame médico previsto na alínea a) do n.º 2 do artigo 37.º do Estatuto da Aposentação, desde que satisfaçam os requisitos legais de idade e tempo de serviço e assim o requeiram no prazo de quinze dias a contar da publicação do presente diploma; ou
 
 b) Reassumir o exercício da função pública no cargo em que porventura estivessem investidos na data em que foram nomeados para membros dos conselhos de administração referidas nos artigos 1.º e 2.º
 
-###### Art. 4.º As disposições do presente decretos-lei vigorarão desde a data da sua publicação até 30 de Junho.
+Art. 4.º As disposições do presente decretos-lei vigorarão desde a data da sua publicação até 30 de Junho.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Joaquim Jorge Magalhães Mota - Vasco Vieira de Almeida.
 
-**Promulgado em 17 de Junho de 1974.**
+Promulgado em 17 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

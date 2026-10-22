@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24100/23262328.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/726-1976-409536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87da8b52a9ccd88c87ffa29c503bdae60aabdb297c40aaf15635c28f57c42afd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32000ae15c18ce11ace5270139bf7a900a1e5f38861b8673b5a22eb906ecfbac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Definição de Competências
+- Formas de Provimento
+- Orgânica
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:374668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280193:por
+  label: "Alterado o artigo 16º pelo DEC LEI.520/77.17.12.1977.PCM, DR.IS [290] de 17.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/520-1977-280193
+  date: '1977-12-17'
+- type: amended_by
+  target: pt:dre:383797:por
+  label: "Aumentado o quadro de pessoal, a que se refere o art. 12º, pela PORT.109/79.1979.03.09.PCM, DR.IS [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1979-383797
+  date: '1979-03-09'
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, com a alteração introduzida pela Port 109/79, de 09-Mar, pela PORT.461/87.1987.06.02.PCM,\
+    \ DR.IS [126], que passa a ser o constante do anexo IV da referida portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:146574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643159:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662912:por
+  label: "Revogado o art. 4º, pelo DEC LEI.73/87.1987.02.13.PCM, DR.IS [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1987-662912
+  date: '1987-02-13'
+- type: repealed_by
+  target: pt:dre:374668:por
+  label: "Revogado pelo DEC LEI.177/88.1988.05.19.PCM, DR.IS [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1988-374668
+  date: '1988-05-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:11Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +163,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Auditoria Jurídica da Presidência do Conselho de Ministros constitui um órgão de consulta jurídica e de apoio Legislativo directamente dependente do Primeiro-Ministro, funcionando em ligação com a respectiva Secretaria-Geral.
+Artigo 1.º A Auditoria Jurídica da Presidência do Conselho de Ministros constitui um órgão de consulta jurídica e de apoio Legislativo directamente dependente do Primeiro-Ministro, funcionando em ligação com a respectiva Secretaria-Geral.
 
-###### Art. 2.º - 1. A Auditoria Jurídica é dirigida por um auditor, que será um ajudante do procurador-geral da República, designado pelo Ministro da Justiça, depois de consultado o Primeiro-Ministro.
+Art. 2.º - 1. A Auditoria Jurídica é dirigida por um auditor, que será um ajudante do procurador-geral da República, designado pelo Ministro da Justiça, depois de consultado o Primeiro-Ministro.
 
 2. O auditor jurídico depende hierarquicamente do procurador-geral da República, nos termos da lei geral, ficando, porém, na dependência funcional do Primeiro-Ministro ou do membro do Governo em quem este delegar.
 
-###### Art. 3.º A Auditoria Jurídica exerce a sua competência nos seguintes domínios:
+Art. 3.º A Auditoria Jurídica exerce a sua competência nos seguintes domínios:
 
 a) Elaboração e apoio legislativo;
 
@@ -134,7 +179,7 @@ c) Contencioso administrativo;
 
 d) Colaboração no poder disciplinar.
 
-###### Art. 4.º No domínio da elaboração e apoio legislativo compete-lhe:
+Art. 4.º No domínio da elaboração e apoio legislativo compete-lhe:
 
 a) Elaborar os projectos de diplomas legais e quaisquer outros que lhe sejam solicitados pelo Primeiro-Ministro ou qualquer outro membro do Governo integrado na Presidência do Conselho de Ministros;
 
@@ -142,7 +187,7 @@ b) Verificar, relativamente aos projectos de diplomas que lhe sejam submetidos p
 
 c) Proceder à fixação do texto definitivo dos diplomas aprovados em Conselho de Ministros, de acordo com as suas deliberações.
 
-###### Art. 5.º No exercício da consulta jurídica, tem competência para:
+Art. 5.º No exercício da consulta jurídica, tem competência para:
 
 a) Dar pareceres, informações e proceder a estudos jurídicos sobre quaisquer assuntos que lhe sejam submetidos;
 
@@ -150,7 +195,7 @@ b) Suscitar oficiosamente quaisquer questões de natureza jurídica de que tenha
 
 c) Promover a publicação através da Secretaria-Geral da Presidência do Conselho de Ministros dos estudos e trabalhos mais significativos e importantes que tenha produzido.
 
-###### Art. 6.º Em matéria de contencioso administrativo, compete especialmente à Auditoria Jurídica:
+Art. 6.º Em matéria de contencioso administrativo, compete especialmente à Auditoria Jurídica:
 
 a) Preparar os projectos de respostas nos recursos do contencioso administrativo para aprovação superior, quando nesses recursos sejam citados para responder o Conselho de Ministros, o Primeiro-Ministro e qualquer outro membro do Governo integrado na Presidência do Conselho de Ministros;
 
@@ -158,37 +203,37 @@ b) Acompanhar o andamento dos processos de recurso no Supremo Tribunal Administr
 
 c) Organizar os processos administrativos relativos aos recursos em que tenha intervindo.
 
-###### Art. 7.º À Auditoria Jurídica, quando seja chamada a colaborar no poder disciplinar, compete:
+Art. 7.º À Auditoria Jurídica, quando seja chamada a colaborar no poder disciplinar, compete:
 
 a) Intervir, através do auditor, assessores e consultores jurídicos, em conjunto ou individualmente, em quaisquer sindicâncias, inquéritos ou averiguações, designadamente quando para a instrução dos respectivos processos se torne necessária a nomeação de pessoas com formação jurídica;
 
 b) Pronunciar-se sobre quaisquer processos dos referidos na alínea anterior que hajam subido à Presidência do Conselho de Ministros e que, sendo oriundos de outros departamentos, devem ali ser resolvidos.
 
-###### Art. 8.º O auditor jurídico assume a responsabilidade por todos os trabalhos produzidos na Auditoria e deverá assinar os mesmos conjuntamente com o seu autor.
+Art. 8.º O auditor jurídico assume a responsabilidade por todos os trabalhos produzidos na Auditoria e deverá assinar os mesmos conjuntamente com o seu autor.
 
-###### Art. 9.º Sendo submetido à Auditoria Jurídica qualquer assunto que revista especial importância, que interesse a vários departamentos ministeriais ou sobre o qual tenha já sido produzido parecer por qualquer outra auditoria, deverá o auditor propor ao membro do Governo de quem directamente dependa que a matéria seja apresentada ao Conselho Consultivo da Procuradoria-Geral da República.
+Art. 9.º Sendo submetido à Auditoria Jurídica qualquer assunto que revista especial importância, que interesse a vários departamentos ministeriais ou sobre o qual tenha já sido produzido parecer por qualquer outra auditoria, deverá o auditor propor ao membro do Governo de quem directamente dependa que a matéria seja apresentada ao Conselho Consultivo da Procuradoria-Geral da República.
 
-###### Art. 10.º Para o exercício das funções que lhe são atribuídas pelo presente diploma, o auditor poderá corresponder-se directamente com quaisquer organismos ou autoridades, solicitando destes as diligências e informações que forem julgadas necessárias ao desenvolvimento da sua actividade.
+Art. 10.º Para o exercício das funções que lhe são atribuídas pelo presente diploma, o auditor poderá corresponder-se directamente com quaisquer organismos ou autoridades, solicitando destes as diligências e informações que forem julgadas necessárias ao desenvolvimento da sua actividade.
 
-###### Art. 11.º - 1. O apoio burocrático e administrativo indispensável ao funcionamento da Auditoria será prestado pela Secretaria-Geral da Presidência do Conselho de Ministros.
+Art. 11.º - 1. O apoio burocrático e administrativo indispensável ao funcionamento da Auditoria será prestado pela Secretaria-Geral da Presidência do Conselho de Ministros.
 
 2. O auditor jurídico poderá propor ao membro do Governo de quem directamente dependa que seja requisitado, com carácter de permanência, à Secretaria-Geral o pessoal administrativo necessário ao seu próprio expediente.
 
-###### Art. 12.º - 1. O pessoal privativo da Auditoria Jurídica é constituído pelo pessoal dirigente e técnico constante do quadro anexo ao presente diploma, e do qual constam igualmente a sua dotação e respectivos vencimentos, sendo a referida dotação susceptível de revisão por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.
+Art. 12.º - 1. O pessoal privativo da Auditoria Jurídica é constituído pelo pessoal dirigente e técnico constante do quadro anexo ao presente diploma, e do qual constam igualmente a sua dotação e respectivos vencimentos, sendo a referida dotação susceptível de revisão por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.
 
 2. Os assessores, para além das funções que lhes forem cometidas, substituem o auditor jurídico nas suas faltas e impedimentos.
 
-###### Art. 13.º O preenchimento do quadro do pessoal da Auditoria Jurídica é feito pela categoria de consultor jurídico de 2.ª classe, por via de concurso documental, ao qual poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
+Art. 13.º O preenchimento do quadro do pessoal da Auditoria Jurídica é feito pela categoria de consultor jurídico de 2.ª classe, por via de concurso documental, ao qual poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
 
-###### Art. 14.º - 1. Os consultores jurídicos que tenham prestado no mínimo três anos de serviço na respectiva categoria serão providos à categoria imediatamente superior, mediante concurso documental.
+Art. 14.º - 1. Os consultores jurídicos que tenham prestado no mínimo três anos de serviço na respectiva categoria serão providos à categoria imediatamente superior, mediante concurso documental.
 
 2. Os concursos serão presididos por um júri composto de um jurista de reconhecido mérito, designado pelo Primeiro-Ministro, e que servirá de presidente, por um ajudante do procurador-geral, designado pelo procurador-geral da República, e pelo auditor jurídico da Presidência do Conselho de Ministros.
 
 3. As matérias a apreciar pelo júri são essencialmente constituídas por trabalhos elaborados na Auditoria Jurídica, podendo o Primeiro-Ministro, quando não haja candidatos suficientes com o referido tempo mínimo de serviço, autorizar que sejam opositores facultativos nos respectivos concursos de promoção os consultores jurídicos sem o tempo de serviço acima fixado.
 
-###### Art. 15.º Faz-se por nomeação o provimento do pessoal em qualquer dos lugares do quadro privativo da Auditoria Jurídica.
+Art. 15.º Faz-se por nomeação o provimento do pessoal em qualquer dos lugares do quadro privativo da Auditoria Jurídica.
 
-###### Art. 16.º - 1. No primeiro provimento, o Primeiro-Ministro nomeará, por livre escolha, os licenciados que lhe forem propostos pelo auditor jurídico, de entre licenciados em Direito já vinculados à Administração Pública por qualquer título.
+Art. 16.º - 1. No primeiro provimento, o Primeiro-Ministro nomeará, por livre escolha, os licenciados que lhe forem propostos pelo auditor jurídico, de entre licenciados em Direito já vinculados à Administração Pública por qualquer título.
 
 2. Não poderão ser propostos, nos termos do número anterior, quaisquer juízes em exercício, sem autorização do Conselho Superior Judiciário ou, logo que constituído, do Conselho Superior de Magistratura.
 
@@ -202,24 +247,24 @@ c) O provimento ficará efectuado por via de lista nominal a publicar no Diário
 
 4. Aplicar-se-á o regime previsto nos artigos 14.º e 15.º deste diploma para os lugares não preenchidos através da lista nominal.
 
-###### Art. 17.º Os encargos derivados da execução do presente diploma serão suportados por conta das dotações inscritas ou a inscrever no Orçamento de Encargos Gerais da Nação, afectadas à Secretaria-Geral da Presidência do Conselho de Ministros.
+Art. 17.º Os encargos derivados da execução do presente diploma serão suportados por conta das dotações inscritas ou a inscrever no Orçamento de Encargos Gerais da Nação, afectadas à Secretaria-Geral da Presidência do Conselho de Ministros.
 
-###### Art. 18.º O auditor jurídico da Presidência do Conselho de Ministros apresentará ao Primeiro-Ministro para aprovação o regulamento interno da Auditoria no prazo de quinze dias, a contar da data da publicação do presente diploma.
+Art. 18.º O auditor jurídico da Presidência do Conselho de Ministros apresentará ao Primeiro-Ministro para aprovação o regulamento interno da Auditoria no prazo de quinze dias, a contar da data da publicação do presente diploma.
 
-###### Art. 19.º As dúvidas e casos omissos resultantes da aplicação do presente diploma serão resolvidos por despacho do Primeiro-Ministro.
+Art. 19.º As dúvidas e casos omissos resultantes da aplicação do presente diploma serão resolvidos por despacho do Primeiro-Ministro.
 
-###### Art. 20.º Este diploma entra em vigor na dia seguinte ao da data da sua publicação.
+Art. 20.º Este diploma entra em vigor na dia seguinte ao da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira.
 
-**Promulgado em 30 de Setembro de 1976.**
+Promulgado em 30 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 13.º do Decreto-Lei n.º 726/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/24100/23262328.pdf))](https://files.diariodarepublica.pt/1s/1976/10/24100/23262328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/24100/23262328.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

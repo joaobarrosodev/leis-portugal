@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43555-1961-560071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69ec0f2e888ed67219c8f1160496955eedb5fb55ab4f196ec396ffdf1ca702b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 468cbe253a2414bf6c6ad2a099dd2c5f499dc09064ba2b5ec65f76a24af2b681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Pensão de Preço de Sangue
+- Pensão por Serviços Excepcionais
+- Proteção Social
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:139380:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139380:por
+  label: "Elevado para 2 500$ mensais o limite a que alude o art. 4.º do presente diploma, pelo DEC LEI.386/70.1970.08.18.MF\
+    \ DG.IS [190]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/386-1970-139380
+  date: '1970-08-18'
+- type: cites
+  target: pt:dre:231478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:05Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +131,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Todas as pensões pagas pelo Estado, calculadas com base em remunerações que vigoraram anteriormente a 1 de Janeiro de 1959, são aumentadas das seguintes percentagens:
+Artigo 1.º Todas as pensões pagas pelo Estado, calculadas com base em remunerações que vigoraram anteriormente a 1 de Janeiro de 1959, são aumentadas das seguintes percentagens:
 
 a) De 10 por cento, as pensões de quantitativo igual ou superior a 4000$00;
 
@@ -112,18 +139,18 @@ b) De 12,5 por cento, as pensões de quantitativo igual ou superior a 2000$00 e 
 
 c) De 15 por cento, as pensões de quantitativo inferior a 2000$00.
 
-###### Art. 2.º As pensões de preço de sangue e outras, concedidas com base na extinta tabela anexa ao Decreto-Lei n.º 17335, de 10 de Setembro de 1929, são acrescidas de 20 por cento, salvo as de quantitativo igual ou superior a 2000$00, caso em que o aumento é de 15 por cento.
+Art. 2.º As pensões de preço de sangue e outras, concedidas com base na extinta tabela anexa ao Decreto-Lei n.º 17335, de 10 de Setembro de 1929, são acrescidas de 20 por cento, salvo as de quantitativo igual ou superior a 2000$00, caso em que o aumento é de 15 por cento.
 
-###### Art. 3.º As percentagens referidas nos artigos anteriores incidirão sobre a totalidade da pensão respeitante a cada agregado familiar, só depois se procedendo à divisão pelos herdeiros na proporção estabelecida na lei.
+Art. 3.º As percentagens referidas nos artigos anteriores incidirão sobre a totalidade da pensão respeitante a cada agregado familiar, só depois se procedendo à divisão pelos herdeiros na proporção estabelecida na lei.
 
-###### Art. 4.º São elevados para 1500$00 mensais os limites a que se referem os §§ 1.º, 2.º e 3.º do artigo 1.º do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, e o artigo 5.º do [Decreto-Lei n.º 40627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40627-1956-231478), de 1 de Junho de 1956.
+Art. 4.º São elevados para 1500$00 mensais os limites a que se referem os §§ 1.º, 2.º e 3.º do artigo 1.º do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, e o artigo 5.º do [Decreto-Lei n.º 40627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40627-1956-231478), de 1 de Junho de 1956.
 
-###### Art. 5.º Para as pensões calculadas com base em remunerações vigentes a partir de 1 de Janeiro de 1959, são fixados em 150$00 os quantitativos dos aumentos para cada herdeiro, além de um, estabelecidos nos §§ 1.º e 2.º do artigo 9.º do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, bem como o indicado no artigo 15.º do [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951.
+Art. 5.º Para as pensões calculadas com base em remunerações vigentes a partir de 1 de Janeiro de 1959, são fixados em 150$00 os quantitativos dos aumentos para cada herdeiro, além de um, estabelecidos nos §§ 1.º e 2.º do artigo 9.º do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, bem como o indicado no artigo 15.º do [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951.
 
-###### Art. 6.º Sempre que as pensões concedidas nos termos do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, sejam usufruídas por mais de um herdeiro e algum deles perca o direito à sua quota-parte, deverá proceder-se ao ajustamento do quantitativo global da pensão e à sua redistribuição pelos restantes pensionistas do mesmo agregado familiar, qualquer que seja o grau de parentesco dos herdeiros hábeis com o autor da pensão.
+Art. 6.º Sempre que as pensões concedidas nos termos do [Decreto n.º 17335](https://diariodarepublica.pt/dr/detalhe/decreto/17335-1929-291183), de 10 de Setembro de 1929, sejam usufruídas por mais de um herdeiro e algum deles perca o direito à sua quota-parte, deverá proceder-se ao ajustamento do quantitativo global da pensão e à sua redistribuição pelos restantes pensionistas do mesmo agregado familiar, qualquer que seja o grau de parentesco dos herdeiros hábeis com o autor da pensão.
 
-###### Art. 7.º A vigência deste diploma é reportada a 1 de Janeiro de 1961.
+Art. 7.º A vigência deste diploma é reportada a 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

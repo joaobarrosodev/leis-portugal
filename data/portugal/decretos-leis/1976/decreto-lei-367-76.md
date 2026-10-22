@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11400/10951095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1976-428017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5451a2f15f5e8fad33ec59940c1a72112a186fe9390855ee6ce17220d49c842
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 390b4077c7adb392d176a684010e0ad1f0e84e3510e573b2285dbad950a8f5b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Contribuições e Impostos
+- Depósito Franco
+- Importação
+- Imposto Automóvel
+- Taxa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:166459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:05Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +129,18 @@ As tentativas de reexportação que foram feitas, na sequência de anterior deci
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Aos veículos automóveis ligeiros de passageiros ou mistos, procedentes de depósitos francos, aplicar-se-ão as percentagens do imposto sobre a venda de veículos estabelecidas no anexo do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, desde que, relativamente a eles, seja produzida prova cabal de que, montados ou em CKD, chegaram ao País até 28 de Fevereiro de 1975.
+Artigo 1.º Aos veículos automóveis ligeiros de passageiros ou mistos, procedentes de depósitos francos, aplicar-se-ão as percentagens do imposto sobre a venda de veículos estabelecidas no anexo do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, desde que, relativamente a eles, seja produzida prova cabal de que, montados ou em CKD, chegaram ao País até 28 de Fevereiro de 1975.
 
-###### Art. 2.º Os veículos mencionados no número anterior não estarão sujeitos à sobretaxa de importação criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, alterado pelo [Decreto-Lei n.º 701-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-f-1975-166459), de 17 de Dezembro, e prorrogado pelo [Decreto-Lei n.º 758/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/758-1975-355307), de 31 de Dezembro.
+Art. 2.º Os veículos mencionados no número anterior não estarão sujeitos à sobretaxa de importação criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, alterado pelo [Decreto-Lei n.º 701-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-f-1975-166459), de 17 de Dezembro, e prorrogado pelo [Decreto-Lei n.º 758/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/758-1975-355307), de 31 de Dezembro.
 
-###### Art. 3.º O Ministro das Finanças resolverá, por simples despacho, qualquer dúvida que se suscite na execução deste decreto-lei.
+Art. 3.º O Ministro das Finanças resolverá, por simples despacho, qualquer dúvida que se suscite na execução deste decreto-lei.
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 5 de Maio de 1976.**
+Promulgado em 5 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

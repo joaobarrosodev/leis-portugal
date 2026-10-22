@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/20800/10121012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1974-474901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1125069832cf2088be6faf19dcfa556b0b77085cf9bedce5e582a39fc4c00c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68f5420877cf64e424fc93dfbe03fe928071b124ba5da5b9bbbc405ee8cc9c75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Definição de Competências
+- Multa
+- Produção Agrícola
+- Quota de Produção
+- Refinaria de Açúcar
+- Secretaria de Estado do Abastecimento e Preços
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676215:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:20Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +121,18 @@ Nestes termos:
 
 Usando da faculdade concedida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É abolido o regime de quotas de rateio de ramas de açúcar, regulado pelo [Decreto-Lei n.º 255/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1972-675795) e pela [Portaria n.º 435/72](https://diariodarepublica.pt/dr/detalhe/portaria/435-1972-676215), respectivamente, de 27 de Julho e de 5 de Agosto, que são revogados.
+Artigo 1.º É abolido o regime de quotas de rateio de ramas de açúcar, regulado pelo [Decreto-Lei n.º 255/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1972-675795) e pela [Portaria n.º 435/72](https://diariodarepublica.pt/dr/detalhe/portaria/435-1972-676215), respectivamente, de 27 de Julho e de 5 de Agosto, que são revogados.
 
-###### Art. 2.º Fica o Secretário de Estado do Abastecimento e Preços autorizado a estabelecer, mediante portaria, a obrigatoriedade de constituição de reservas de ramas de açúcar e de açúcar, por parte das refinarias, nos termos e nos quantitativos impostos pelas circunstâncias dos mercados.
+Art. 2.º Fica o Secretário de Estado do Abastecimento e Preços autorizado a estabelecer, mediante portaria, a obrigatoriedade de constituição de reservas de ramas de açúcar e de açúcar, por parte das refinarias, nos termos e nos quantitativos impostos pelas circunstâncias dos mercados.
 
-###### Art. 3.º A falta de cumprimento das normas estabelecidas ao abrigo deste diploma, além de constituir ilícito disciplinar, nos termos previstos no n.º 6.º do artigo 47.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, é considerada como uma transgressão punível com a multa de 1 por mil sobre o valor de venda do produto, por cada dia em falta.
+Art. 3.º A falta de cumprimento das normas estabelecidas ao abrigo deste diploma, além de constituir ilícito disciplinar, nos termos previstos no n.º 6.º do artigo 47.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, é considerada como uma transgressão punível com a multa de 1 por mil sobre o valor de venda do produto, por cada dia em falta.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 29 de Agosto de 1974.**
+Promulgado em 29 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

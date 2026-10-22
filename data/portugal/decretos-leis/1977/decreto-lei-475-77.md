@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83cb54990dd3de41812a96d6be9233ca9d2938d9b199b9e1a5b702b236887ba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23f6167abdbae97bb4f8566e0c3fd1efbaf5e5028d31d1cce9374435e7cdd8a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Conta Bancária
+- Depósito Bancário
+- Direcção Geral do Tesouro
+- Fazenda Pública
+- Instituição de Crédito
+- Operações de Caixa
+- Operações de Tesouraria
+- Tesouraria da Fazenda Pública
+- Tesoureiro da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:686384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374599:por
+  label: "Dada nova redacção aos nºs. 3 e 5 do art. 2.º, na redacção do Dec Lei 158/80, de 24-Mai, pelo DEC LEI.350/82.03.09.1982.MFP,\
+    \ DR.IS [204] de 03.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/350-1982-374599
+  date: '1982-09-03'
+- type: repealed_by
+  target: pt:dre:686384:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 275-A/93 - Diário da República n.º 185/1993, 1º Suplemento, Série
+    I-A de 1993-08-09, salvo o disposto no art. 52º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-a-1993-686384
+  date: '1993-08-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:50Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +121,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nas sedes dos concelhos ou em outras localidades onde houver agências ou dependências de quaisquer instituições de crédito, o actual regime de passagem de fundos em dinheiro das tesourarias da Fazenda Pública passará a ser feito através do movimento de contas bancárias, abertas para este efeito à ordem da Direcção-Geral do Tesouro.
+Artigo 1.º Nas sedes dos concelhos ou em outras localidades onde houver agências ou dependências de quaisquer instituições de crédito, o actual regime de passagem de fundos em dinheiro das tesourarias da Fazenda Pública passará a ser feito através do movimento de contas bancárias, abertas para este efeito à ordem da Direcção-Geral do Tesouro.
 
-###### Art. 2.º - 1 - Os tesoureiros da Fazenda Pública depositarão diariamente na agência ou dependência da instituição de crédito mais próxima das respectivas tesourarias as disponibilidades de caixa que excedam a importância fixada nos termos do artigo 6.º
+Art. 2.º - 1 - Os tesoureiros da Fazenda Pública depositarão diariamente na agência ou dependência da instituição de crédito mais próxima das respectivas tesourarias as disponibilidades de caixa que excedam a importância fixada nos termos do artigo 6.º
 
 2 - No mesmo dia, e se as circunstâncias o aconselharem, poderão ser efectuados mais de um depósito.
 
@@ -109,7 +131,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O critério da escolha definido no n.º 1 deste artigo pode ser afastado por despacho do director-geral do Tesouro, sob proposta fundamentada.
 
-###### Art. 3.º - 1 - Sempre que o saldo das contas de depósito exceda a importância que vier a ser fixada por despacho do Secretário de Estado do Tesouro, os tesoureiros da Fazenda Pública promoverão, através da instituição de crédito depositária, a transferência dos fundos excedentes para crédito da caixa geral do Tesouro no Banco de Portugal.
+Art. 3.º - 1 - Sempre que o saldo das contas de depósito exceda a importância que vier a ser fixada por despacho do Secretário de Estado do Tesouro, os tesoureiros da Fazenda Pública promoverão, através da instituição de crédito depositária, a transferência dos fundos excedentes para crédito da caixa geral do Tesouro no Banco de Portugal.
 
 2 - Quando a importância referida no número anterior se mostrar insuficiente para assegurar os pagamentos que devam ser efectuados pelos tesoureiros da Fazenda Pública, as requisições de fundos solicitadas deverão ser satisfeitas por transferência bancária, creditando-se correspondentemente a conta aberta na respectiva instituição de crédito.
 
@@ -117,11 +139,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Até ao dia 5 de cada mês, as agências ou dependências das instituições de crédito onde tenham sido abertas contas do Tesouro, nos termos do presente diploma, enviarão aos tesoureiros da Fazenda Pública, em duplicado, o extracto da conta, cujo original será por eles enviado nos cinco dias seguintes à Direcção-Geral do Tesouro, devidamente assinado e autenticado e com a declaração de que confere.
 
-###### Art. 4.º - 1 - Para observância do disposto no n.º 1 do artigo 3.º serão emitidas guias modelo n.º 19 (F. P. 43), em triplicado, acompanhadas de cheque no valor da importância correspondente ao montante transferido, emitido sobre a instituição de crédito onde se ache aberta a conta.
+Art. 4.º - 1 - Para observância do disposto no n.º 1 do artigo 3.º serão emitidas guias modelo n.º 19 (F. P. 43), em triplicado, acompanhadas de cheque no valor da importância correspondente ao montante transferido, emitido sobre a instituição de crédito onde se ache aberta a conta.
 
 2 - A agência do Banco de Portugal no respectivo distrito procederá aos lançamentos, creditando a conta do Tesouro e debitando a conta da instituição de crédito sobre a qual foi sacado o cheque.
 
-###### Art. 5.º - 1 - Para efeitos do disposto no n.º 2 do artigo 3.º, continuarão a processar-se as requisições de fundos modelo F. P. 42 e os modelos F. P. 31, indicando-se nestes o número da conta do Tesouro e a instituição de crédito onde se encontra aberto o depósito.
+Art. 5.º - 1 - Para efeitos do disposto no n.º 2 do artigo 3.º, continuarão a processar-se as requisições de fundos modelo F. P. 42 e os modelos F. P. 31, indicando-se nestes o número da conta do Tesouro e a instituição de crédito onde se encontra aberto o depósito.
 
 2 - Face à requisição de fundos, autorizada pelo director de finanças, o Banco de Portugal debitará a conta do Tesouro e promoverá a emissão da ordem de pagamento a favor da respectiva instituição de crédito para crédito da conta do Tesouro do concelho requisitante.
 
@@ -133,42 +155,42 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Se a instituição de crédito escolhida for a Caixa Geral de Depósitos, a ordem de pagamento será enviada através da agência da sede do distrito, se assim for necessário.
 
-###### Art. 6.º Fica autorizada a constituição de um fundo de maneio nas tesourarias da Fazenda Pública, destinado a pequenos pagamentos e trocos, de montante a fixar por despacho do Secretário de Estado do Tesouro.
+Art. 6.º Fica autorizada a constituição de um fundo de maneio nas tesourarias da Fazenda Pública, destinado a pequenos pagamentos e trocos, de montante a fixar por despacho do Secretário de Estado do Tesouro.
 
-###### Art. 7.º A emissão de cheques pelos tesoureiros da Fazenda Pública, que serão sempre nominativos, apenas será permitida quando:
+Art. 7.º A emissão de cheques pelos tesoureiros da Fazenda Pública, que serão sempre nominativos, apenas será permitida quando:
 
 a) Não existam na tesouraria disponibilidades de caixa suficientes para liquidar um documento apresentado a pagamento;
 
 b) Para efeitos de realização das transferências previstas no n.º 1 do artigo 3.º
 
-###### Art. 8.º É criado um livro auxiliar do livro Caixa modelo n.º 11-B (F. P. 12), de harmonia com o modelo anexo a este diploma, no qual se registará, diariamente, a movimentação da conta do depósito.
+Art. 8.º É criado um livro auxiliar do livro Caixa modelo n.º 11-B (F. P. 12), de harmonia com o modelo anexo a este diploma, no qual se registará, diariamente, a movimentação da conta do depósito.
 
-###### Art. 9.º - 1 - O saldo da conta de dinheiro indicado no livro Caixa F. P. modelo n.º 11-B (F. P. 12) será constituído pela soma no numerário existente na tesouraria e do saldo depositado na instituição de crédito respectiva.
+Art. 9.º - 1 - O saldo da conta de dinheiro indicado no livro Caixa F. P. modelo n.º 11-B (F. P. 12) será constituído pela soma no numerário existente na tesouraria e do saldo depositado na instituição de crédito respectiva.
 
 2 - A discriminação do saldo a que se refere o número anterior deverá constar em nota ao balancete n.º 11-C (F. P.), a processar em face do livro Caixa e do livro auxiliar mencionado no artigo 8.º
 
 3 - Os funcionários da Inspecção-Geral de Finanças, quando procedam a qualquer inspecção numa tesouraria da Fazenda Pública, poderão solicitar directamente às instituições de crédito todos os elementos necessários à realização daquela diligência.
 
-###### Art. 10.º Sempre que as necessidades dos serviços o aconselhem, o horário das tesourarias da Fazenda Pública para o público poderá ser reduzido por portaria do Secretário de Estado do Tesouro.
+Art. 10.º Sempre que as necessidades dos serviços o aconselhem, o horário das tesourarias da Fazenda Pública para o público poderá ser reduzido por portaria do Secretário de Estado do Tesouro.
 
-###### Art. 11.º O regime das cauções a prestar pelos tesoureiros da Fazenda Pública será fixado por portaria do Secretário de Estado do Tesouro, tendo em atenção os montantes que venham a ser fixados nos termos do n.º 1 do artigo 3.º e do artigo 6.º do presente diploma.
+Art. 11.º O regime das cauções a prestar pelos tesoureiros da Fazenda Pública será fixado por portaria do Secretário de Estado do Tesouro, tendo em atenção os montantes que venham a ser fixados nos termos do n.º 1 do artigo 3.º e do artigo 6.º do presente diploma.
 
-###### Art. 12.º As despesas com a execução do presente diploma serão suportadas por rubrica de operações de tesouraria a criar, enquanto não for orçamentada verba para o efeito.
+Art. 12.º As despesas com a execução do presente diploma serão suportadas por rubrica de operações de tesouraria a criar, enquanto não for orçamentada verba para o efeito.
 
-###### Art. 13.º As dúvidas que se suscitarem na aplicação deste decreto-lei serão resolvidas por despacho do Secretário de Estado do Tesouro.
+Art. 13.º As dúvidas que se suscitarem na aplicação deste decreto-lei serão resolvidas por despacho do Secretário de Estado do Tesouro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Modelo do livro auxiliar do livro Caixa a que se refere o artigo 8.º
 
 Modelo n.º 11-B (F. P. 12)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/26300/27042705.pdf))](https://files.diariodarepublica.pt/1s/1977/11/26300/27042705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/26300/27042705.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

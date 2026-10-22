@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19800/11821194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/339-1972-676589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc51c8f7112b69666a6e5e238bad88fa555bfe8f6315e4cec3f939c20d73cde9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 852b3fa9ee62dc54fb14f817824a3744117f508c679e78cb38520ebaa50931e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:140317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:140317:por
+  label: Revogado pelo(a) Decreto n.º 33/77 - Diário da República n.º 59/1977, Série I de 1977-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/33-1977-140317
+  date: '1977-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:27Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +96,15 @@ de 25 de Agosto
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre a Responsabilidade Civil no Domínio da Energia Nuclear e seus Anexos I e II, concluída em Paris em 26 de Julho de 1960, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção sobre a Responsabilidade Civil no Domínio da Energia Nuclear e seus Anexos I e II, concluída em Paris em 26 de Julho de 1960, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 10 de Agosto de 1972.**
+Assinado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convenção sobre a Responsabilidade Civil no Domínio da Energia Nuclear
 
@@ -351,7 +356,7 @@ c) Os territórios de uma Parte Contratante, incluindo aqueles por que ela se re
 
 ###### ARTIGO 24.º
 
-**O secretário-geral da Organização comunicará a todos os signatários e aos Governos que tiverem aderido à Convenção a recepção dos instrumentos de ratificação, de adesão e da retirada, assim como as notificações feitas em virtude do artigo 23.º e as decisões tomadas pela comissão directora nos termos do artigo 1.º, a), ii) e iii), e b). Notificar-lhes-á, igualmente, a data da entrada em vigor da presente Convenção, o texto das modificações adaptadas e a data da entrada em vigor das citadas modificações, assim como as reservas feitas nos termos do artigo 18.º**
+O secretário-geral da Organização comunicará a todos os signatários e aos Governos que tiverem aderido à Convenção a recepção dos instrumentos de ratificação, de adesão e da retirada, assim como as notificações feitas em virtude do artigo 23.º e as decisões tomadas pela comissão directora nos termos do artigo 1.º, a), ii) e iii), e b). Notificar-lhes-á, igualmente, a data da entrada em vigor da presente Convenção, o texto das modificações adaptadas e a data da entrada em vigor das citadas modificações, assim como as reservas feitas nos termos do artigo 18.º
 
 ## ANEXO I — (à Convenção de Paris)
 

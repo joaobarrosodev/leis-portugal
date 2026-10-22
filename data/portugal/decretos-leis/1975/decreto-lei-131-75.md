@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1975-161104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2df04d806177ac33c08ba8965eef1b0728824c4bab3c890d34b119e4b18b01ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 650483476abcd21d127535086d7df00d34973cf6b438899a57f6c173472082af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Arquipélago da Madeira
+- Comparticipação do Estado
+- Madeira.região Autónoma
+- Rede de Estradas
+relationships:
+- type: cites
+  target: pt:dre:193380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:36Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +130,7 @@ A fim de definir as percentagens a adoptar para o financiamento dos planos de ob
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As comparticipações do Estado no financiamento de obras a executar na rede rodoviária nacional dos arquipélagos dos Açores e Madeira, ao abrigo do IV Plano de Fomento, serão as seguintes:
+Artigo 1.º As comparticipações do Estado no financiamento de obras a executar na rede rodoviária nacional dos arquipélagos dos Açores e Madeira, ao abrigo do IV Plano de Fomento, serão as seguintes:
 
 Distrito de Ponta Delgada - 75%;
 
@@ -119,14 +140,14 @@ Distrito da Horta - 100%;
 
 Distrito do Funchal - 75%.
 
-###### Art. 2.º A percentagem da dotação anual a consignar para o custeamento das despesas com a fiscalização da Junta Autónoma de Estradas será de 0,5% da dotação orçamental.
+Art. 2.º A percentagem da dotação anual a consignar para o custeamento das despesas com a fiscalização da Junta Autónoma de Estradas será de 0,5% da dotação orçamental.
 
-###### Art. 3.º Mantêm-se válidas as disposições aplicáveis contidas nos Decretos-Leis n.º 28592, de 14 de Abril de 1938, e n.º 44899, de 22 de Fevereiro de 1963, e são revogados o artigo 6.º do [Decreto-Lei n.º 28592](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28592-1938-229711), o segundo período do artigo 2.º e o § único do artigo 4.º do [Decreto-Lei n.º 44899](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44899-1963-193380).
+Art. 3.º Mantêm-se válidas as disposições aplicáveis contidas nos Decretos-Leis n.º 28592, de 14 de Abril de 1938, e n.º 44899, de 22 de Fevereiro de 1963, e são revogados o artigo 6.º do [Decreto-Lei n.º 28592](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28592-1938-229711), o segundo período do artigo 2.º e o § único do artigo 4.º do [Decreto-Lei n.º 44899](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44899-1963-193380).
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 5 de Março de 1975.**
+Promulgado em 5 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

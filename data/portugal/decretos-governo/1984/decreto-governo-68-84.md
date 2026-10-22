@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/68-1984-400179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e44315ad80b50765689e482955ad5392c59561ea21a757ae333fb72a53de3481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7642f150a87695fbdd432006b19f7cabc4934c1078c809ad1a69359b7a53859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência de Emprego
+- Convenção
+- Emprego
+- OIT
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:461627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462206:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:34Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +105,21 @@ A política de emprego entretanto definida, que levou à regulamentação das ag
 
 Assim, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, com a aceitação da sua parte III, a Convenção n.º 96, relativa a agências de colocação não gratuitas, adoptada pela Conferência Geral da Organização Internacional do Trabalho na sua 32.ª sessão, cujos textos em inglês e francês e respectiva tradução para português vão anexas ao presente decreto.
+Artigo 1.º É aprovada, para ratificação, com a aceitação da sua parte III, a Convenção n.º 96, relativa a agências de colocação não gratuitas, adoptada pela Conferência Geral da Organização Internacional do Trabalho na sua 32.ª sessão, cujos textos em inglês e francês e respectiva tradução para português vão anexas ao presente decreto.
 
-###### Art. 2.º É revogado o [Decreto n.º 100/80](https://diariodarepublica.pt/dr/detalhe/decreto/100-1980-462206), de 9 de Outubro.
+Art. 2.º É revogado o [Decreto n.º 100/80](https://diariodarepublica.pt/dr/detalhe/decreto/100-1980-462206), de 9 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Amândio Anes de Azevedo.
 
-**Assinado em 19 de Setembro de 1984.**
+Assinado em 19 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Setembro de 1984.**
+Referendado em 20 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENTION NO. 96, CONCERNING FEE-CHARGING EMPLOYMENT AGENCIES (REVISED 1949), ADOPTED BY THE GENERAL CONFERENCE OF THE INTERNATIONAL LABOUR ORGANIZATION AT ITS THIRTY-SECOND SESSION, GENEVA, 1 JULY 1949.
 
@@ -600,7 +613,7 @@ Após ter decidido que essas propostas tomariam a forma de uma convenção inter
 
 Considerando que esse serviço deve estar ao alcance de todas as categorias de trabalhadores; adopta, no primeiro dia do mês de Julho de 1949, a seguinte convenção, que será denominada Convenção sobre as Agências de Colocação não Gratuitas (revista, 1949):
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### ARTIGO 1.º
 
@@ -618,7 +631,7 @@ b) As agências de colocação com fins não lucrativos, isto é, os serviços d
 
 2 - Todo e qualquer Membro que aceitar as disposições da parte III da Convenção pode ulteriormente notificar o director-geral que aceita as disposições da parte II; a partir da data do registo dessa notificação pelo director-geral, as disposições da parte III da Convenção deixarão de ter efeito para esse Membro, ao qual passarão a ser aplicáveis as disposições da parte II.
 
-# PARTE II — Supressão progressiva das agências de colocação não gratuitas com fins lucrativos e regulamentação das outras agências de colocação
+## PARTE II — Supressão progressiva das agências de colocação não gratuitas com fins lucrativos e regulamentação das outras agências de colocação
 
 ###### ARTIGO 3.º
 
@@ -676,7 +689,7 @@ Prescrever-se-ão sanções penais apropriadas, incluindo a apreensão, se tal s
 
 Os relatórios anuais previstos pelo artigo 22.º da Constituição da Organização Internacional do Trabalho darão todas as informações necessárias sobre as derrogações permitidas em virtude do artigo 5.º e mais particularmente informações sobre o número de agências que beneficiam de derrogações e a amplitude das suas actividades, as razões que motivam as derrogações e as medidas adoptadas pela autoridade competente para controlar a actividade dessas agências.
 
-# PARTE III — Regulamentação das agências de colocação não gratuitas
+## PARTE III — Regulamentação das agências de colocação não gratuitas
 
 ###### ARTIGO 10.º
 
@@ -712,7 +725,7 @@ Prescrever-se-ão sanções penais apropriadas, incluindo a apreensão, se tal s
 
 Os relatórios anuais previstos pelo artigo 22.º da Constituição da Organização Internacional do Trabalho darão todas as informações necessárias sobre as medidas tomadas pela autoridade competente para controlar as operações das agências de colocação não gratuitas, incluindo, em particular, as agências com fins lucrativos.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
 ###### ARTIGO 15.º
 
@@ -722,7 +735,7 @@ Os relatórios anuais previstos pelo artigo 22.º da Constituição da Organiza�
 
 3 - Todo e qualquer Membro que recorrer às disposições do presente artigo deve indicar, nos seus relatórios anuais ulteriores, as regiões para as quais renuncia ao direito de recorrer às ditas disposições.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### ARTIGO 16.º
 

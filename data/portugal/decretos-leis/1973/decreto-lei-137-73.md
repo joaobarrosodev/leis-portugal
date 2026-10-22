@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 249562f5d217a43fcde58f3d1270c2328e4652363a6f85d3c5fba36d9376aafe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77dc88d61eeb8e4de0d614c4693c9b3cff2116221068b405d2cba7dd5e7fce11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Definição de Competências
+- Direcção Geral de Turismo
+- Fiscalização
+- Fundo de Socorro Social
+- Imposto de Turismo
+- Infraestrutura Turística
+- Inspecção Geral das Actividades Económicas
+- Multa
+- Taxa
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:10Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +119,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os preços a praticar nos estabelecimentos hoteleiros de interesse para o turismo e similares de interesse para o turismo classificados como restaurantes e salas de dança deverão sempre incluir a taxa de serviço, taxa para o Fundo de Socorro Social e o imposto de turismo, que, nos termos da lei e dos instrumentos de regulamentação colectiva de trabalho, incidem sobre as respectivas importâncias e sejam devidos pelos clientes.
+Artigo 1.º - 1. Os preços a praticar nos estabelecimentos hoteleiros de interesse para o turismo e similares de interesse para o turismo classificados como restaurantes e salas de dança deverão sempre incluir a taxa de serviço, taxa para o Fundo de Socorro Social e o imposto de turismo, que, nos termos da lei e dos instrumentos de regulamentação colectiva de trabalho, incidem sobre as respectivas importâncias e sejam devidos pelos clientes.
 
 2. O disposto no número anterior não é aplicável aos preços dos estabelecimentos similares classificados em mais de um grupo, desde que um desses grupos seja o de «estabelecimentos de bebidas», salvo se o estabelecimento for classificado como sala de dança.
 
-###### Art. 2.º - 1. Nas tabelas de preços a submeter a aprovação deverá ser indicado o preço a praticar, discriminando-se o preço base e as importâncias de cada um dos impostos, taxas e outros encargos incluídos, sem o que não poderão ser apreciadas.
+Art. 2.º - 1. Nas tabelas de preços a submeter a aprovação deverá ser indicado o preço a praticar, discriminando-se o preço base e as importâncias de cada um dos impostos, taxas e outros encargos incluídos, sem o que não poderão ser apreciadas.
 
 2. O preço a praticar será arredondado, por excesso, para os cinquenta centavos ou para o escudo, nos termos a determinar pela Direcção-Geral do Turismo.
 
@@ -111,11 +131,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. A indicação prevista no número anterior poderá fazer-se através da sigla internacionalmente usada - «T. S. C.».
 
-###### Art. 3.º As pessoas que explorem os estabelecimentos a que se aplica este diploma deverão organizar a sua escrita de modo a poder apurar-se o montante cobrado de cada um dos impostos, taxas e demais encargos incluídos nos preços.
+Art. 3.º As pessoas que explorem os estabelecimentos a que se aplica este diploma deverão organizar a sua escrita de modo a poder apurar-se o montante cobrado de cada um dos impostos, taxas e demais encargos incluídos nos preços.
 
-###### Art. 4.º São competentes para fiscalizar o cumprimento do disposto neste diploma a Direcção-Geral do Turismo, a Inspecção-Geral das Actividades Económicas e as entidades competentes para fiscalizar a liquidação e cobrança dos impostos, taxas e outros encargos abrangidos por este decreto-lei.
+Art. 4.º São competentes para fiscalizar o cumprimento do disposto neste diploma a Direcção-Geral do Turismo, a Inspecção-Geral das Actividades Económicas e as entidades competentes para fiscalizar a liquidação e cobrança dos impostos, taxas e outros encargos abrangidos por este decreto-lei.
 
-###### Art. 5.º 1. A infracção ao disposto no n.º 1 do artigo 1.º será punida com a multa de 5000$00 a 50000$00.
+Art. 5.º 1. A infracção ao disposto no n.º 1 do artigo 1.º será punida com a multa de 5000$00 a 50000$00.
 
 2. A infracção ao disposto no n.º 3 do artigo 2.º será punida com a multa de 1000$00 a 5000$00.
 
@@ -131,19 +151,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 8. Na falta de pagamento voluntário de uma multa, será o processo enviado aos tribunais fiscais para execução, nos termos do Código de Processo das Contribuições e Impostos.
 
-###### Art. 6.º - 1. Sendo infractor uma pessoa colectiva ou uma sociedade, serão solidariamente responsáveis pelo pagamento da multa os directores, administradores, gerentes, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 6.º - 1. Sendo infractor uma pessoa colectiva ou uma sociedade, serão solidariamente responsáveis pelo pagamento da multa os directores, administradores, gerentes, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
 2. Das pessoas referidas no número anterior só responderão, porém, as que tiverem praticado ou sancionado a omissão ou o acto delituosos.
 
-###### Art. 7.º O disposto neste diploma não prejudica a aplicação das normas próprias dos impostos, taxas e outros encargos por ele abrangidos.
+Art. 7.º O disposto neste diploma não prejudica a aplicação das normas próprias dos impostos, taxas e outros encargos por ele abrangidos.
 
-###### Art. 8.º - 1. As modificações introduzidas nos impostos, taxas e demais encargos previstos no artigo 1.º, posteriormente às datas referidas no artigo 201.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, das quais resulte alteração das tabelas de preços em vigor para determinado ano, só serão aplicadas no ano seguinte àquele para o qual essas tabelas se consideram aprovadas.
+Art. 8.º - 1. As modificações introduzidas nos impostos, taxas e demais encargos previstos no artigo 1.º, posteriormente às datas referidas no artigo 201.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, das quais resulte alteração das tabelas de preços em vigor para determinado ano, só serão aplicadas no ano seguinte àquele para o qual essas tabelas se consideram aprovadas.
 
 2. No caso previsto no número anterior, os exploradores dos estabelecimentos deverão apresentar no ano seguinte novas tabelas de preços contemplando as modificações introduzidas, sob pena de se considerar que não têm preços aprovados.
 
-###### Art. 9.º O disposto no presente decreto-lei aplicar-se-á aos estabelecimentos não abrangidos pelo n.º 1 do artigo 1.º, sempre que os respectivos exploradores solicitem a aprovação de tabelas de preços com observância das normas estabelecidas nos artigos 1.º e 2.º
+Art. 9.º O disposto no presente decreto-lei aplicar-se-á aos estabelecimentos não abrangidos pelo n.º 1 do artigo 1.º, sempre que os respectivos exploradores solicitem a aprovação de tabelas de preços com observância das normas estabelecidas nos artigos 1.º e 2.º
 
-###### Art. 10.º - 1. A competência atribuída neste diploma à Direcção-Geral do Turismo será exercida, relativamente aos estabelecimentos hoteleiros e similares sem interesse para o turismo, pelo presidente da câmara municipal do concelho da respectiva situação.
+Art. 10.º - 1. A competência atribuída neste diploma à Direcção-Geral do Turismo será exercida, relativamente aos estabelecimentos hoteleiros e similares sem interesse para o turismo, pelo presidente da câmara municipal do concelho da respectiva situação.
 
 2. No caso estabelecido no número anterior, os limites das multas previstas no artigo 5.º, que constituirão receita municipal, serão reduzidos pela forma seguinte:
 
@@ -153,9 +173,9 @@ b) A do n.º 2, para 100$00 a 1000$00;
 
 c) A do n.º 3, para 500$00 a 10000$00.
 
-###### Art. 11.º O disposto nos §§ 1.º, 2.º e 5.º do artigo 773.º do Código Administrativo não é aplicável aos estabelecimentos abrangidos por este diploma.
+Art. 11.º O disposto nos §§ 1.º, 2.º e 5.º do artigo 773.º do Código Administrativo não é aplicável aos estabelecimentos abrangidos por este diploma.
 
-###### Art. 12.º - 1. No prazo de sessenta dias, contado da publicação do presente diploma, deverão os exploradores dos estabelecimentos por ele abrangidos submeter à aprovação da Direcção-Geral do Turismo novas tabelas de preços, para cumprimento do disposto nos artigos 1.º e 2.º
+Art. 12.º - 1. No prazo de sessenta dias, contado da publicação do presente diploma, deverão os exploradores dos estabelecimentos por ele abrangidos submeter à aprovação da Direcção-Geral do Turismo novas tabelas de preços, para cumprimento do disposto nos artigos 1.º e 2.º
 
 2. A Direcção-Geral do Turismo, no prazo de oito dias, contado da data da entrada da proposta dos preços que os interessados pretendem praticar, remeterá à Inspecção-Geral das Actividades Económicas um exemplar da mesma proposta.
 
@@ -167,14 +187,14 @@ c) A do n.º 3, para 500$00 a 10000$00.
 
 6. Recebidas as tabelas de preços aprovadas nos termos deste artigo, ou verificada a aprovação tácita prevista no número anterior, os exploradores dos estabelecimentos deverão enviar à Direcção-Geral do Turismo as anteriores tabelas em seu poder, no prazo de quinze dias, sob pena de incorrerem no crime de desobediência previsto no artigo 188.º do Código Penal.
 
-###### Art. 13.º O presente diploma entra em vigor no dia 15 de Junho de 1973, com excepção do artigo 12.º, que entrará imediatamente.
+Art. 13.º O presente diploma entra em vigor no dia 15 de Junho de 1973, com excepção do artigo 12.º, que entrará imediatamente.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 15 de Março de 1973.**
+Promulgado em 15 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

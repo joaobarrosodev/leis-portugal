@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12200/12281230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1981-574700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfb69cc603e7cc3f1ab3482cbc3b7906bfbc45828a0ef0afff68dfd9dec2ebe5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 915291fb864dd1970b131d12a7c6546d08bad4e5b2bb2d90519eac36e19a4a54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
+- Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:580592:por
+  label: Rectificado pela DECL.DD6530.02.07.1981.PCM, DR.IS [159] de 14.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-580592
+  date: '1981-07-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:25Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +118,9 @@ Usando da autorização legislativa concedida pelo artigo 17.º da [Lei n.º 4/8
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 6.º, 7.º-A, 11.º, 21.º, 28.º, 29.º, 30.º, 32.º, 33.º, 40.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 6.º, 7.º-A, 11.º, 21.º, 28.º, 29.º, 30.º, 32.º, 33.º, 40.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) ...
 
@@ -129,13 +146,13 @@ i) ...
 
 § 3.º As dúvidas suscitadas na aplicação do disposto no § 1.º, relativamente à correspondência de categorias e remunerações, serão resolvidas por despacho do Ministro das Finanças e do Plano, ouvido o Ministério da Reforma Administrativa.
 
-###### Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 126000$00.
+Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 126000$00.
 
 § 1.º No cômputo do limite de isenção estabelecido neste artigo serão considerados todos os rendimentos do trabalho, qualquer que seja a sua proveniência e ainda que isentos do imposto nos termos do artigo anterior ou de legislação especial.
 
 § 2.º Quando o rendimento global a que se refere o parágrafo anterior exceda o limite estabelecido no corpo deste artigo, será pago imposto relativamente a todo o rendimento não abrangido pelas isenções mencionadas na parte final do referido parágrafo, mas sem que a importância do imposto possa ser superior ao excesso do limite fixado no corpo deste artigo.
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º ...
 
@@ -143,11 +160,11 @@ i) ...
 
 § 3.º Ficam dispensadas da apresentação da declaração as pessoas isentas de imposto, nos termos do artigo 4.º ou de legislação especial, quando não aufiram rendimentos do trabalho de outra proveniência e, bem assim, as abrangidas pelas alíneas a) e b) do artigo 2.º, cujas remunerações ou rendimentos provenham de uma única entidade pagadora e não compreendam quaisquer das importâncias a que se referem as alíneas a), b) e c) do § 2.º do artigo 11.º
 
-###### Art. 7.º-A Os deficientes cujo grau de invalidez seja igual ou superior a 60% terão direito à dedução, na matéria colectável, da importância correspondente a 40% do rendimento líquido, a qual não poderá exceder 80000$00.
+Art. 7.º-A Os deficientes cujo grau de invalidez seja igual ou superior a 60% terão direito à dedução, na matéria colectável, da importância correspondente a 40% do rendimento líquido, a qual não poderá exceder 80000$00.
 
 § único ...
 
-###### Art. 11.º A determinação da matéria colectável sujeita a imposto profissional compete:
+Art. 11.º A determinação da matéria colectável sujeita a imposto profissional compete:
 
 a) Ao chefe da repartição de finanças em que deva ser apresentada a declaração modelo n.º 1 - com base nos elementos constantes da mesma declaração, bem como, quando se mostre conveniente, em informação devidamente fundamentada dos serviços de fiscalização e em quaisquer outros elementos de que disponha;
 
@@ -163,45 +180,45 @@ b) ...
 
 c) ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/12200/12281230.pdf))](https://files.diariodarepublica.pt/1s/1981/05/12200/12281230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/12200/12281230.pdf)
 
 § 1.º ...
 
 § 2.º Os rendimentos isentos do imposto nos termos do artigo 4.º e de legislação especial não são considerados para efeitos de determinação da taxa aplicável.
 
-###### Art. 28.º Os contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa ficam obrigados a proceder à autoliquidação do imposto devido, relativamente aos rendimentos provenientes dessas actividades.
+Art. 28.º Os contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa ficam obrigados a proceder à autoliquidação do imposto devido, relativamente aos rendimentos provenientes dessas actividades.
 
 § 1.º A liquidação prevista neste artigo tem natureza provisória e será efectuada na declaração modelo n.º 1 referida no artigo 6.º, sem prejuízo da determinação da matéria colectável nos termos dos artigos 11.º, alínea a), e seguintes e da eventual correcção daquela liquidação, a efectuar pela repartição de finanças.
 
 § 2.º No caso de os contribuintes exercerem conjuntamente actividades por conta própria e por conta de outrem, a taxa aplicável aos rendimentos da actividade por conta própria, a ter em conta na autoliquidação, será determinada em função do rendimento global.
 
-###### Art. 29.º As importâncias referidas nos artigos 26.º e 27.º serão entregues nos cofres do Estado, por meio de guia modelo n.º 6, durante os meses de Janeiro, Abril, Julho e Outubro, com referência ao trimestre, imediatamente anterior.
+Art. 29.º As importâncias referidas nos artigos 26.º e 27.º serão entregues nos cofres do Estado, por meio de guia modelo n.º 6, durante os meses de Janeiro, Abril, Julho e Outubro, com referência ao trimestre, imediatamente anterior.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 30.º A repartição de finanças competente para a liquidação do imposto organizará verbetes individuais nos quais serão escrituradas, em face das relações e notas a que aludem os artigos 47.º e 52.º, as importâncias entregues nos cofres do Estado e que foram deduzidas ao abrigo dos artigos 26.º e 27.º e do § 2.º do artigo 29.º, bem como o imposto pago nos termos do § único do artigo 40.º
+Art. 30.º A repartição de finanças competente para a liquidação do imposto organizará verbetes individuais nos quais serão escrituradas, em face das relações e notas a que aludem os artigos 47.º e 52.º, as importâncias entregues nos cofres do Estado e que foram deduzidas ao abrigo dos artigos 26.º e 27.º e do § 2.º do artigo 29.º, bem como o imposto pago nos termos do § único do artigo 40.º
 
-###### Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias porventura já deduzidas a cada contribuinte, ou entregues, nos termos dos artigos 26.º e 27.º e do § 2.º do artigo 29.º, bem como as liquidadas e pagas nos termos do artigo 28.º e do § único do artigo 40.º, e fazer-se a liquidação pela diferença, se a houver.
+Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias porventura já deduzidas a cada contribuinte, ou entregues, nos termos dos artigos 26.º e 27.º e do § 2.º do artigo 29.º, bem como as liquidadas e pagas nos termos do artigo 28.º e do § único do artigo 40.º, e fazer-se a liquidação pela diferença, se a houver.
 
-###### Art. 33.º Quando no apuramento do rendimento colectável se verificar que foi deduzida ou liquidada e entregue ao Estado importância superior ao imposto devido, restituir-se-á o excesso, mediante título de anulação a processar oficiosamente a favor do contribuinte, cujo recebimento a dinheiro será documentado com o certificado da importância entregue ou o conhecimento de cobrança.
+Art. 33.º Quando no apuramento do rendimento colectável se verificar que foi deduzida ou liquidada e entregue ao Estado importância superior ao imposto devido, restituir-se-á o excesso, mediante título de anulação a processar oficiosamente a favor do contribuinte, cujo recebimento a dinheiro será documentado com o certificado da importância entregue ou o conhecimento de cobrança.
 
 § único. ...
 
-###### Art. 40.º ...
+Art. 40.º ...
 
 § único. O imposto liquidado nos termos do artigo 28.º será pago na data da entrega da declaração modelo n.º 1, mediante conhecimento de cobrança modelo n.º 7 processado em duplicado, considerando-se sem efeito a declaração apresentada no caso de falta de pagamento naquela data.
 
-###### Art. 59.º A falta ou inexactidão das declarações ou relações e notas a que aludem os artigos 6.º e 47.º, bem como as omissões nelas praticadas, serão punidas, no caso de simples negligência, com multa de 200$00 a 50000$00 e, tratando-se da falta de entrega da declaração modelo n.º 1 ou de pagamento do imposto nos casos previstos no artigo 28.º e no § único do artigo 40.º, com multa igual a metade do imposto devido, no mínimo de 250$00.
+Art. 59.º A falta ou inexactidão das declarações ou relações e notas a que aludem os artigos 6.º e 47.º, bem como as omissões nelas praticadas, serão punidas, no caso de simples negligência, com multa de 200$00 a 50000$00 e, tratando-se da falta de entrega da declaração modelo n.º 1 ou de pagamento do imposto nos casos previstos no artigo 28.º e no § único do artigo 40.º, com multa igual a metade do imposto devido, no mínimo de 250$00.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 2.º - 1 - As disposições constantes dos artigos 4.º, 5.º, 6.º, 7.º-A, 11.º, 21.º, 28.º e 29.º do Código do Imposto Profissional, segundo a redacção dada pelo artigo 1.º do presente decreto-lei, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1981 e seguintes.
+Art. 2.º - 1 - As disposições constantes dos artigos 4.º, 5.º, 6.º, 7.º-A, 11.º, 21.º, 28.º e 29.º do Código do Imposto Profissional, segundo a redacção dada pelo artigo 1.º do presente decreto-lei, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1981 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerem a mais ou a menos deduzidas e entregues nos cofres do Estado nos termos dos artigos 26.º, 27.º e 29.º do Código serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -209,8 +226,8 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Maio de 1981.**
+Promulgado em 14 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

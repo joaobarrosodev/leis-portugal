@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1979-382786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51af7f7326d3144e9b01db2acc8de3442f7fe925430b4f7cbc5c93bcdff05620
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8fcb3e25237bfd6e7a8ed42d4bf021cad8dc0c819381cb853a70b87694d36b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Regulamento
+- Segurança das Instalações
 relationships:
 - type: amended_by
   target: pt:dre:158636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374452:por
+  label: "Alterado o n.º 1 do art. 16.º, os quadros I e II e os n.ºs II e IV do apêndice II, todos do Regulamento aprovado\
+    \ pelo presente diploma, pela PORT.831/82.1982.09.01.MDN DR.IS [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/831-1982-374452
+  date: '1982-09-01'
+- type: amended_by
+  target: pt:dre:453778:por
+  label: "Alterado o art. 35º do Regulamento, pelo DEC LEI.334/83.1983.07.15.MDN DR.IS [161]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1983-453778
+  date: '1983-07-15'
+- type: amended_by
+  target: pt:dre:183272:por
+  label: "Alterados os n.º 5 do art. 11.º, n.ºs 1 e 2 do art. 12.º, n.º 3 do art. 13.º, n.ºs 2, 3, 4 e 5 do art. 15.º, n.º\
+    \ 7 do art. 17.º, n.ºs 1, 2, 3, 4 e 5 do art. 18.º e art. 33.º e substituidos os quadros I e II e as tabelas I, II, III,\
+    \ IV e V anexas, todos do Regulamento aprovado pelo presente diploma, pela PORT.506/85.1985.07.25.MAI DR.IS [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/506-1985-183272
+  date: '1985-07-25'
+- type: cites
+  target: pt:dre:425553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:381495:por
+  label: Rectificado pela DECL.DD7299.27.07.1979.PCM, DR.IS [172] de 27.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-381495
+  date: '1979-07-27'
+- type: repealed_by
+  target: pt:dre:158636:por
+  label: "Revogado pelo DEC LEI.139/2002.2002.05.17.MAI DR.IS-A [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2002-158636
+  date: '2002-05-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:50Z'
   warnings: []
   errors: []
 ---
@@ -95,21 +134,21 @@ Reconhecendo a necessidade de um diploma único sobre tal matéria, devidamente 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos, que faz parte integrante deste decreto-lei.
+Artigo 1.º É aprovado o Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos, que faz parte integrante deste decreto-lei.
 
-###### Art. 2.º Na aplicação do presente Regulamento às instalações de fabrico ou de armazenagem já aprovadas com base em legislação anterior só serão de impor as alterações julgadas indispensáveis para eliminar situações de perigo que, porventura, possam verificar-se ao analisar as suas condições de segurança em face das novas disposições.
+Art. 2.º Na aplicação do presente Regulamento às instalações de fabrico ou de armazenagem já aprovadas com base em legislação anterior só serão de impor as alterações julgadas indispensáveis para eliminar situações de perigo que, porventura, possam verificar-se ao analisar as suas condições de segurança em face das novas disposições.
 
-###### Art. 3.º A matéria constante nos documentos anexos ao presente Regulamento (quadros I e II, tabelas I a VII e apêndices I e II), bem como nos artigos com eles relacionados, poderá ser alterada por portaria conjunta do Ministério da Defesa Nacional e Ministério da Indústria e Tecnologia, sempre que o progresso da técnica o aconselhe.
+Art. 3.º A matéria constante nos documentos anexos ao presente Regulamento (quadros I e II, tabelas I a VII e apêndices I e II), bem como nos artigos com eles relacionados, poderá ser alterada por portaria conjunta do Ministério da Defesa Nacional e Ministério da Indústria e Tecnologia, sempre que o progresso da técnica o aconselhe.
 
-###### Art. 4.º Ficam revogados os seguintes artigos do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950: 25.º a 34.º, 59.º a 71.º, 84.º, 108.º a 118.º, 139.º e 142.º
+Art. 4.º Ficam revogados os seguintes artigos do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950: 25.º a 34.º, 59.º a 71.º, 84.º, 108.º a 118.º, 139.º e 142.º
 
 Manuel Jacinto Nunes - José Alberto Loureiro dos Santos - António Gonçalves Ribeiro - Álvaro Roque de Pinho Bissaia Barreto - João Orlindo Almeida Pina.
 
-**Promulgado em 28 de Março de 1979.**
+Promulgado em 28 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos
 
@@ -615,7 +654,7 @@ Terreno a utilizar na destruição de produtos explosivos
 
 Os estabelecimentos fabris elaborarão instruções com base nas disposições deste Regulamento, relativas às matérias-primas que utilizam e aos produtos explosivos que fabricam ou armazenam, em que se mencionem não só a forma como se deverão realizar o seu acondicionamento e armazenagem com vista a respeitar as distâncias de segurança, mas também os grupos de risco e as categorias que lhes correspondem, as substâncias extintoras de incêndio proibidas e as mais adequadas a empregar consoante a sua natureza, e a classe de transporte em que se deverão incluir, tendo em atenção as instruções ou informações das inspecções de incêndios e as classificações constantes dos regulamentos de transporte interno e internacional que lhes digam respeito.
 
-###### ARTIGO 34.ºInstruções a elaborar pela comissão dos explosivos
+ARTIGO 34.ºInstruções a elaborar pela comissão dos explosivos
 
 Sempre que for considerado necessário, a comissão de explosivos elaborará instruções detalhadas com vista a pormenorizar ou a esclarecer quaisquer disposições deste Regulamento.
 
@@ -627,13 +666,13 @@ QUADRO I
 
 Distribuição dos produtos por grupos e por categorias conforme o tipo de risco e a compatibilidade de armazenagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf)
 
 QUADRO II
 
 Armazenagem de produtos de natureza diferente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf)
 
 Nota
 
@@ -641,9 +680,9 @@ Para averiguar se há ou não compatibilidade de armazenagem em conjunto, no mes
 
 Da TABELA I à TABELA VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10051024.pdf)
 
-## APÊNDICE I
+APÊNDICE I
 
 Produtos explosivos abrangidos pelo n.º 1 do artigo 1.º deste regulamento
 
@@ -843,7 +882,7 @@ II - Munições químicas:
 
 3) Tóxicas - granadas de mão lacrimogéneas.
 
-## APÊNDICE II
+APÊNDICE II
 
 Matérias perigosas abrangidas pelo n.º 2 do artigo 1.º deste regulamento
 
@@ -859,4 +898,4 @@ V - As nitroceluloses humedecidas (com menos de 12,6% de azoto) e as nitrocelulo
 
 VI - Os peróxidos orgânicos (fleumatizados).
 
-**O Ministro da Defesa Nacional, João Alberto Loureiro dos Santos. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.**
+O Ministro da Defesa Nacional, João Alberto Loureiro dos Santos. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/43-1985-177817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19cc9867b6bc9d1c397688e85be812ed348b51ea3eeb9df8367b4563bf6a128c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46c2e34762166e151a434050fceeb574454014ffceaf405aae7ea46d7c69504a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Científica
+- Cooperação Internacional
+- Cooperação Técnica
+- Cooperação Tecnológica
+- COST
+- Meteorologia
+- Oceanografia
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:24Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +96,19 @@ de 29 de Outubro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o novo Acordo Internacional para o Estabelecimento de Uma Rede Europeia Experimental de Estações Oceânicas - Projecto COST 43, cujo texto em francês e respectiva tradução em português seguem em anexo.
+Artigo único. É aprovado o novo Acordo Internacional para o Estabelecimento de Uma Rede Europeia Experimental de Estações Oceânicas - Projecto COST 43, cujo texto em francês e respectiva tradução em português seguem em anexo.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Jaime José Matos da Gama - Carlos Montez Melancia - José de Almeida Serra.
 
-**Assinado em 27 de Setembro de 1985.**
+Assinado em 27 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Setembro de 1985.**
+Referendado em 30 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Accord pour la mise en place d'un réseau européen expérimental de stations océaniques (COST 43)
 
@@ -411,13 +420,13 @@ Tous les pays participants s'efforceront progressivement de mettre l'accent sur 
 
 COST 43 mettra plus particulièrement l'accent sur l'évaluation du réseau expérimental, et la phase II du Projet prendra fin avec l'élaboration d'un rapport évaluant les résultats des phases I et II tirant des conclusions et formulant des recommandations en vue de la réalisation d'un réseau opérationnel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)
 
 ANNEXE II
 
 Le tableau ci-après indique le montant des contributions de toutes les parties potentielles calculé sur la base visée à l'article 4, pour autant que toutes ces parties participent effectivement au Projet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)
 
 ANNEXE III
 
@@ -721,7 +730,7 @@ Todos os países participantes procurarão a pouco e pouco incrementar os aspect
 
 O COST 43 dará importância primordial à avaliação da rede experimental e a fase do Projecto terminará com a elaboração de um relatório, no qual serão incluídos os resultados da fase I e II, tiradas conclusões e feitas recomendações para a realização (entrada em vigor) de uma rede operacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)
 
 Rede SADO do COST 43 em 30 de Junho de 1980. Não foram incluídas bóias derivantes.
 
@@ -729,4 +738,4 @@ Rede SADO do COST 43 em 30 de Junho de 1980. Não foram incluídas bóias deriva
 
 O quadro seguinte apresenta as contribuições relativas a todas as Partes, baseadas nos elementos referidos no artigo 4.º, no caso de todas essas Partes efectivamente participarem no Projecto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24900/35783594.pdf)

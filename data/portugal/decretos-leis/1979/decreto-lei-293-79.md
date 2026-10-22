@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18900/19691969.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1979-377676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c29a79641d117256f20b6fe97c831c9971fce65efec657add58c8369e65a0f17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8abdadadee83154a53ed2186322fb429fedff7fc57dbf2431f8fcf443373225d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:21Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +116,7 @@ Havendo ainda toda a vantagem em uniformizar as designações a que corresponder
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º As letras correspondentes às categorias do pessoal civil da Força Aérea dos grupos XII e XIV dos quadros I e II, anexos ao [Decreto-Lei n.º 54/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1976-506003), de 22 de Janeiro, alterado pelo [Decreto-Lei n.º 837-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/837-a-1976-447944), de 2 de Dezembro, são modificadas em conformidade com o seguinte:
+Artigo 1.º As letras correspondentes às categorias do pessoal civil da Força Aérea dos grupos XII e XIV dos quadros I e II, anexos ao [Decreto-Lei n.º 54/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1976-506003), de 22 de Janeiro, alterado pelo [Decreto-Lei n.º 837-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/837-a-1976-447944), de 2 de Dezembro, são modificadas em conformidade com o seguinte:
 
 Grupo XII «Pessoal de refeitório, messe e cozinha»:
 
@@ -118,16 +138,16 @@ Sapateiros - letra S;
 
 Jardineiros - letra S.
 
-###### Art. 2.º Passam a ser designados por técnicos de identificação e classificação de material de 1.ª classe e técnicos de identificação e classificação de material de 2.ª classe os actuais técnicos de classificação de material de 1.ª classe e técnicos de classificação em material de 2.ª classe, respectivamente.
+Art. 2.º Passam a ser designados por técnicos de identificação e classificação de material de 1.ª classe e técnicos de identificação e classificação de material de 2.ª classe os actuais técnicos de classificação de material de 1.ª classe e técnicos de classificação em material de 2.ª classe, respectivamente.
 
-###### Art. 3.º Os efeitos administrativos das alterações resultantes do artigo 1.º reportar-se-ão a 1 de Janeiro de 1978.
+Art. 3.º Os efeitos administrativos das alterações resultantes do artigo 1.º reportar-se-ão a 1 de Janeiro de 1978.
 
-###### Art. 4.º Os encargos resultantes do presente diploma serão suportados, no ano económico de 1979, pelas disponibilidades das rubricas adequadas do actual orçamento da Defesa Nacional - Departamento da Força Aérea.
+Art. 4.º Os encargos resultantes do presente diploma serão suportados, no ano económico de 1979, pelas disponibilidades das rubricas adequadas do actual orçamento da Defesa Nacional - Departamento da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 14 de Maio de 1979.
 
-**Promulgado em 13 de Julho de 1979.**
+Promulgado em 13 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

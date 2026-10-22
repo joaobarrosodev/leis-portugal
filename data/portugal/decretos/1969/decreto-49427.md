@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49427-1969-217305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e7f94d8a22ee00a9737cc21dc288a8c237cb9726602930a0db7b077d08b630c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370270d0ab4938c6974beec32e6d90316cf15db1070b9080c08f8b032d662028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:42Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º E autorizada a Comissão Administrativa das Novas Instalações para as Forças Armadas a celebrar contrato para a execução da empreitada de remodelação do bloco operatório do Hospital da Marinha, em Lisboa, pela importância de 575500$00.
+Artigo 1.º E autorizada a Comissão Administrativa das Novas Instalações para as Forças Armadas a celebrar contrato para a execução da empreitada de remodelação do bloco operatório do Hospital da Marinha, em Lisboa, pela importância de 575500$00.
 
-###### Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
 Em 1969 ... 200000$00
 
@@ -99,8 +103,8 @@ Em 1970 ... 375500$00
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
 
-**Promulgado em 22 de Novembro de 1969.**
+Promulgado em 22 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

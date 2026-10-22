@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 199/1976, 1º Suplemento, Série I de 1976-08-25
   number: '199'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2060-(1) a 2060-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/19901/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/672-1976-302125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd413e2e2734f79bd3f164cb6959d2f26d446438fa2ca165989a8948b8b97a75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee3cae460e0a570b02b653882b45a6ae484f25e809ef1ee170eac4ad82863803
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Concurso de Habilitação
+- Definição de Competências
+- Estabelecimento de Ensino
+- Ministério da Educação e Investigação Científica
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:316748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:408549:por
+  label: "Rectificado pela RECT.DD253.17.09.1976.PCM, DR.IS [219] de 17.09.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-408549
+  date: '1976-09-17'
+- type: repealed_by
+  target: pt:dre:316748:por
+  label: "Revogado pelo DEC LEI.262/77.23.06.1977.MEIC, DR.IS [143]Supl de 23.06.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1977-316748
+  date: '1977-06-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:25Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +122,7 @@ Nestes termos, e sem prejuízo de, em anos escolares futuros, se proceder a alte
 
 Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo da República Portuguesa decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O preenchimento dos lugares existentes, que em cada estabelecimento, grupo, subgrupo, disciplina ou especialidade não possa ser assegurado por pessoal docente dos quadros ou pelo funcionamento de núcleos de estágio, será feito, nos estabelecimentos de ensino preparatório e secundário, obedecendo à seguinte ordem de prioridades:
+Artigo 1.º O preenchimento dos lugares existentes, que em cada estabelecimento, grupo, subgrupo, disciplina ou especialidade não possa ser assegurado por pessoal docente dos quadros ou pelo funcionamento de núcleos de estágio, será feito, nos estabelecimentos de ensino preparatório e secundário, obedecendo à seguinte ordem de prioridades:
 
 a) Por professores profissionalizados que, tendo exercido funções docentes no ano escolar anterior, pretendam ser reconduzidos no mesmo estabelecimento de ensino;
 
@@ -119,9 +136,9 @@ e) Por professores que no ano escolar anterior exerceram em grupo, subgrupo, dis
 
 f) Por professores dos quadros que tenham, em tempo, solicitado a colocação ao abrigo da lei dos cônjuges.
 
-###### Art. 2.º As reconduções e colocações citadas nas alíneas a) a f) do artigo anterior serão processadas pelas Direcções-Gerais do Pessoal e Administração e do Ensino Secundário, no que se refere, respectivamente, a pessoal docente do ensino preparatório e do ensino secundário.
+Art. 2.º As reconduções e colocações citadas nas alíneas a) a f) do artigo anterior serão processadas pelas Direcções-Gerais do Pessoal e Administração e do Ensino Secundário, no que se refere, respectivamente, a pessoal docente do ensino preparatório e do ensino secundário.
 
-###### Art. 3.º - 1. O Ministro da Educação e Investigação Científica determinará, por despacho, a publicação no Diário da República do aviso de abertura de concurso de professores provisórios e eventuais dos ensinos preparatório e secundário, a fim de assegurar o preenchimento das vagas ainda existentes nos estabelecimentos de ensino, após as reconduções e colocações previstas no artigo anterior.
+Art. 3.º - 1. O Ministro da Educação e Investigação Científica determinará, por despacho, a publicação no Diário da República do aviso de abertura de concurso de professores provisórios e eventuais dos ensinos preparatório e secundário, a fim de assegurar o preenchimento das vagas ainda existentes nos estabelecimentos de ensino, após as reconduções e colocações previstas no artigo anterior.
 
 2. Poderão ser opositores ao concurso mencionado no número anterior os candidatos cuja situação se encontre prevista em cada uma das alíneas seguintes, constituindo cada uma delas razão de preferência em relação à seguinte:
 
@@ -135,11 +152,11 @@ d) Outros candidatos, desde que portadores de habilitações próprias.
 
 3. Para efeitos da aplicação do presente diploma, consideram-se habilitações próprias aquelas que permitem o ingresso nos estágios pedagógicos dos ensinos preparatório e secundário, ou nos quadros permanentes do respectivo ramo de ensino, quando este ingresso não dependa daquela habilitação.
 
-###### Art. 4.º - 1. O concurso referido no n.º 1 do artigo anterior será realizado por um serviço de concursos, directamente dependente do Ministério da Educação e Investigação Científica.
+Art. 4.º - 1. O concurso referido no n.º 1 do artigo anterior será realizado por um serviço de concursos, directamente dependente do Ministério da Educação e Investigação Científica.
 
 2. A constituição e regulamentação do serviço mencionado no número antecedente, bem como as normas sobre a remuneração dos seus elementos, serão determinadas por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica, a publicar no Diário da República.
 
-###### Art. 5.º - 1. Após a execução do disposto no artigo 2.º do presente diploma as Direcções-Gerais do Pessoal e Administração e do Ensino Secundário remeterão ao serviço de concursos:
+Art. 5.º - 1. Após a execução do disposto no artigo 2.º do presente diploma as Direcções-Gerais do Pessoal e Administração e do Ensino Secundário remeterão ao serviço de concursos:
 
 a) As vagas existentes nos estabelecimentos de ensino preparatório e secundário, por grupo, subgrupo, disciplina ou especialidade;
 
@@ -147,7 +164,7 @@ b) As relações graduadas dos candidatos cuja situação seja a prevista nas al
 
 2. As colocações a que se refere a alínea f) do artigo 1.º do presente diploma só poderão processar-se até ao envio das vagas a que se reporta a alínea a) do número anterior.
 
-###### Art. 6.º - 1. No prazo de oito dias, contado a partir da publicação no Diário da República do aviso previsto no n.º 1 do artigo 3.º, deverão os candidatos remeter, por correio registado, ao serviço de concursos os seguintes documentos:
+Art. 6.º - 1. No prazo de oito dias, contado a partir da publicação no Diário da República do aviso previsto no n.º 1 do artigo 3.º, deverão os candidatos remeter, por correio registado, ao serviço de concursos os seguintes documentos:
 
 a) Boletim de admissão ao concurso, devidamente selado com a franquia fiscal de 15$00;
 
@@ -159,7 +176,7 @@ c) Declaração comprovativa do tempo de serviço prestado, devidamente autentic
 
 3. O certificado a que se refere a alínea b) do n.º 1 poderá ser substituído por declaração feita pelo candidato, em papel selado, sob compromisso de honra e com assinatura reconhecida, em que se indiquem as habilitações possuídas e a respectiva classificação final, devendo a mesma declaração ser acompanhada do documento comprovativo de que requereu aquele certificado.
 
-###### Art. 7.º - 1. A graduação dos candidatos ao concurso a que se refere o n.º 1 do artigo 3.º deste diploma será feita dentro de cada uma das alíneas do n.º 2 do mesmo artigo, obedecendo aos seguintes critérios:
+Art. 7.º - 1. A graduação dos candidatos ao concurso a que se refere o n.º 1 do artigo 3.º deste diploma será feita dentro de cada uma das alíneas do n.º 2 do mesmo artigo, obedecendo aos seguintes critérios:
 
 a) Classificação da habilitação académica;
 
@@ -169,7 +186,7 @@ c) Candidato mais velho, em caso de igualdade pela aplicação dos critérios an
 
 2. A lista graduada de candidatos será afixada em estabelecimentos de ensino a designar por despacho do Ministro da Educação e Investigação Científica, podendo os candidatos, no prazo de cinco dias, contados a partir da data da sua afixação, reclamar dessa graduação.
 
-###### Art. 8.º - 1. Os candidatos ao concurso mencionado no n.º 1 do artigo 3.º indicarão no boletim de concurso as preferências por que optam, de acordo com o que abaixo se estabelece:
+Art. 8.º - 1. Os candidatos ao concurso mencionado no n.º 1 do artigo 3.º indicarão no boletim de concurso as preferências por que optam, de acordo com o que abaixo se estabelece:
 
 a) O nome de trinta estabelecimentos de ensino preparatório ou secundário;
 
@@ -185,7 +202,7 @@ c) Qualquer dos estabelecimentos de ensino situados no País.
 
 5. O estabelecimento de ensino onde o candidato for colocado receberá igualmente cópia da notificação, comunicando imediatamente ao serviço de concursos a não apresentação do candidato, caso seja ultrapassado o prazo fixado no número anterior.
 
-###### Art. 9.º - 1. Esgotadas as possibilidades de preenchimento de vagas, por força do concurso previsto neste diploma, as ainda existentes poderão ser preenchidas por candidatos propostos pelos órgãos directivos dos estabelecimentos de ensino, pela ordem indicada no presente artigo:
+Art. 9.º - 1. Esgotadas as possibilidades de preenchimento de vagas, por força do concurso previsto neste diploma, as ainda existentes poderão ser preenchidas por candidatos propostos pelos órgãos directivos dos estabelecimentos de ensino, pela ordem indicada no presente artigo:
 
 a) Titulares de habilitações próprias, desde que não tenham sido reconduzidos ou já notificados;
 
@@ -205,23 +222,23 @@ f) Candidatos portadores das habilitações referidas na alínea d), desde que t
 
 4. Em caso algum poderão ser propostos para a regência de disciplinas técnicas e tecnológicas candidatos cuja situação seja a prevista nas alíneas d) e e) do n.º 1 deste artigo, nem em grupo, subgrupo, disciplina ou especialidade diferente daquela em que prestaram serviço no ano escolar anterior.
 
-###### Art. 10.º - 1. Consideram-se automaticamente colocados, até ao termo do ano escolar e ao limite das vagas, os docentes com habilitações específicas que, no estabelecimento e no mesmo grupo, subgrupo, disciplina ou especialidade, exerceram funções docentes no ano escolar anterior, desde que não haja candidatos nas condições previstas na alínea a) do artigo anterior, no âmbito da fase de colocações a que este se refere.
+Art. 10.º - 1. Consideram-se automaticamente colocados, até ao termo do ano escolar e ao limite das vagas, os docentes com habilitações específicas que, no estabelecimento e no mesmo grupo, subgrupo, disciplina ou especialidade, exerceram funções docentes no ano escolar anterior, desde que não haja candidatos nas condições previstas na alínea a) do artigo anterior, no âmbito da fase de colocações a que este se refere.
 
 2. Cada estabelecimento de ensino enviará à direcção-geral respectiva, para homologação, listas por grupo, subgrupo, disciplina ou especialidade dos docentes nas condições do número anterior.
 
-###### Art. 11.º - 1. Para os efeitos previstos no n.º 1 do artigo 9.º, os interessados só poderão solicitar colocação aos órgãos directivos dos estabelecimentos de ensino nos cinco dias subsequentes ao termo das actividades de colocações do serviço de concursos.
+Art. 11.º - 1. Para os efeitos previstos no n.º 1 do artigo 9.º, os interessados só poderão solicitar colocação aos órgãos directivos dos estabelecimentos de ensino nos cinco dias subsequentes ao termo das actividades de colocações do serviço de concursos.
 
 2. As propostas referidas no n.º 1 do artigo 9.º só poderão ser apresentadas à Direcção-Geral do Pessoal e Administração, para os docentes do ensino preparatório, e à Direcção-Geral do Ensino Secundário, para os docentes do ensino secundário, a partir do anúncio público de que o serviço de concursos concluiu os seus trabalhos de colocações.
 
 3. Os interessados no esquema estabelecido no artigo 9.º preencherão, para tal efeito, boletim, que poderão obter na secretaria de qualquer estabelecimento de ensino preparatório ou secundário.
 
-###### Art. 12.º - 1. Os professores efectivos dos ensinos preparatório e secundário que, no ano escolar de 1975-1976, requereram, através de concurso, a sua transferência, apresentar-se-ão no novo estabelecimento de ensino onde vão exercer funções no ano escolar de 1976-1977.
+Art. 12.º - 1. Os professores efectivos dos ensinos preparatório e secundário que, no ano escolar de 1975-1976, requereram, através de concurso, a sua transferência, apresentar-se-ão no novo estabelecimento de ensino onde vão exercer funções no ano escolar de 1976-1977.
 
 2. O disposto no número anterior é aplicável aos professores dos ensinos preparatório e secundário que, no ano escolar de 1975-1976, requereram, por concurso, o seu primeiro provimento nos quadros daqueles ensinos.
 
-###### Art. 13.º O estabelecido no artigo precedente poderá ser mandado aplicar, em futuros anos escolares, por portaria do Ministro da Educação e Investigação Científica.
+Art. 13.º O estabelecido no artigo precedente poderá ser mandado aplicar, em futuros anos escolares, por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 14.º - 1. O abono das remunerações dos professores cuja situação seja a prevista no artigo 12.º será processado pelos estabelecimentos onde vão exercer funções.
+Art. 14.º - 1. O abono das remunerações dos professores cuja situação seja a prevista no artigo 12.º será processado pelos estabelecimentos onde vão exercer funções.
 
 2. Aos professores provisórios ou eventuais, com habilitação profissional ou própria, que exerceram no ano escolar anterior nas condições referidas nas alíneas d) e e) do artigo 1.º, são mantidas as respectivas remunerações, a processar pelo estabelecimento de ensino onde tiverem sido reconduzidos ou onde aguardem definição da sua situação.
 
@@ -229,36 +246,36 @@ f) Candidatos portadores das habilitações referidas na alínea d), desde que t
 
 4. Independentemente da data de colocação do pessoal docente ao abrigo deste diploma, será contado como ano completo o tempo de serviço prestado a partir da data da apresentação no estabelecimento de ensino, desde que até final do ano escolar os professores cumpram o serviço que lhes tenha sido cometido.
 
-###### Art. 15.º Consideram-se desvinculados da prestação de serviço e da correspondente remuneração todos os candidatos que recusem o lugar para cuja ocupação tenham sido notificados ou tenham sido propostos, incluindo-se neste último caso os candidatos referenciados no n.º 3 do artigo 11.º
+Art. 15.º Consideram-se desvinculados da prestação de serviço e da correspondente remuneração todos os candidatos que recusem o lugar para cuja ocupação tenham sido notificados ou tenham sido propostos, incluindo-se neste último caso os candidatos referenciados no n.º 3 do artigo 11.º
 
-###### Art. 16.º - 1. Os agentes de ensino sem habilitações próprias que, tendo exercido funções docentes no ano escolar de 1975-1976, não puderam ser colocados por inexistência de vagas, manter-se-ão, com direito às respectivas remunerações, desde 1 de Outubro de 1976, no estabelecimento de ensino onde aquele serviço foi prestado.
+Art. 16.º - 1. Os agentes de ensino sem habilitações próprias que, tendo exercido funções docentes no ano escolar de 1975-1976, não puderam ser colocados por inexistência de vagas, manter-se-ão, com direito às respectivas remunerações, desde 1 de Outubro de 1976, no estabelecimento de ensino onde aquele serviço foi prestado.
 
 2. A situação, bem como as funções a exercer pelos docentes abrangidos pelo disposto no número anterior, serão definidas por portaria do Ministro da Educação e Investigação Científica.
 
 3. O fixado no n.º 1 não é aplicável aos docentes abrangidos pelo previsto no artigo anterior.
 
-###### Art. 17.º - 1. As reconduções e colocações definidas nas alíneas a) a f) do artigo 1.º abrangem todo o território nacional.
+Art. 17.º - 1. As reconduções e colocações definidas nas alíneas a) a f) do artigo 1.º abrangem todo o território nacional.
 
 2. O concurso previsto no artigo 3.º poderá ser realizado, no que respeita às regiões autónomas dos Açores e da Madeira, a nível regional, em termos a regulamentar por portaria do Ministro da Educação e Investigação Científica, ouvidos os respectivos Governos.
 
-###### Art. 18.º O presente decreto-lei poderá ser regulamentado por portaria do Ministro da Educação e Investigação Científica.
+Art. 18.º O presente decreto-lei poderá ser regulamentado por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 19.º - 1. Por despacho do Ministro da Educação e Investigação Científica, poderão as Direcções-Gerais do Ensino Básico e do Ensino Secundário levar a efeito, através de meios humanos postos ao seu dispor, acções de análise, verificação e correcção, nos estabelecimentos de ensino, do processamento do disposto neste diploma.
+Art. 19.º - 1. Por despacho do Ministro da Educação e Investigação Científica, poderão as Direcções-Gerais do Ensino Básico e do Ensino Secundário levar a efeito, através de meios humanos postos ao seu dispor, acções de análise, verificação e correcção, nos estabelecimentos de ensino, do processamento do disposto neste diploma.
 
 2. Por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica serão fixadas as remunerações a atribuir aos elementos em serviço nas referidas acções.
 
-###### Art. 20.º As despesas resultantes da execução do n.º 2 do artigo 4.º e do artigo 19.º deste decreto-lei serão suportadas pela rubrica «Gratificações certas e permanentes».
+Art. 20.º As despesas resultantes da execução do n.º 2 do artigo 4.º e do artigo 19.º deste decreto-lei serão suportadas pela rubrica «Gratificações certas e permanentes».
 
-###### Art. 21.º Fica revogada toda a legislação em contrário.
+Art. 21.º Fica revogada toda a legislação em contrário.
 
-###### Art. 22.º As dúvidas surgidas na interpretação e execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário da República.
+Art. 22.º As dúvidas surgidas na interpretação e execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário da República.
 
-###### Art. 23.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 23.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - Mário Augusto Sottomayor Cardia.
 
-**Promulgado em 18 de Agosto de 1976.**
+Promulgado em 18 de Agosto de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

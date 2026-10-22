@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/188-1970-141859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea74ecb6f934b8ef84603f7a805127ee2752b1bc0a48421a547cf4d8cca61a3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8489f4ec48cd6b0644130a82970b6122c71c3a61d7c7b55087312b796cd024a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Borracha
+- Combustível
+- Importação
+- Isenção de Taxas e Emolumentos
+- ÓLEO Mineral
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:375241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:581394:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:375241:por
+  label: "Revogado o presente diploma, na parte em que altera o artigo 2,º do Decreto 25638, de 20 de Julho de 1935, pelo\
+    \ DEC.106/82.29.09.1982.MFP, DR.IS [226] de 29.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/106-1982-375241
+  date: '1982-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:04Z'
   warnings: []
   errors: []
 ---
@@ -90,22 +106,22 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 2.º e o n.º 1.º do artigo 4.º do [Decreto n.º 25638](https://diariodarepublica.pt/dr/detalhe/decreto/25638-1935-581394), de 20 de Julho de 1935, passam a ter a seguinte redacção:
+Artigo único. O artigo 2.º e o n.º 1.º do artigo 4.º do [Decreto n.º 25638](https://diariodarepublica.pt/dr/detalhe/decreto/25638-1935-581394), de 20 de Julho de 1935, passam a ter a seguinte redacção:
 
-###### Art. 2.º É igualmente concedida a isenção da taxa de salvação nacional devida pelos éteres e essências, não especificados, classificáveis pelo artigo 27.10.03 da Pauta de Importação, importados para a preparação de solução de borracha para colar, desde que na sua importação sejam observados os preceitos e formalidades estabelecidos neste decreto.
+Art. 2.º É igualmente concedida a isenção da taxa de salvação nacional devida pelos éteres e essências, não especificados, classificáveis pelo artigo 27.10.03 da Pauta de Importação, importados para a preparação de solução de borracha para colar, desde que na sua importação sejam observados os preceitos e formalidades estabelecidos neste decreto.
 
 § único. Aos éteres e essências importados nos termos deste artigo serão adicionados, no acto da importação, 25 por cento de uma solução de borracha nesses éteres ou essências, ao título de 6 por cento.
 
 ...
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 1.º Tanto os éteres e essências como o white spirit só poderão ser importados pelas sedes das alfândegas e pelas delegações urbanas das Alfândegas de Lisboa e Porto.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 17 de Abril de 1970.**
+Promulgado em 17 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

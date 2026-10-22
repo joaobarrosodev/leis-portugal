@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/156-1973-675583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ff2d28ab33c794eb48b29e4fec94f916b1fe15c27bbc4bd264154a53bfd98ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53f3497fd7c0648127373495594e091c625a8db5bde3c0e8a6ea971bef4861f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:48Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Gabinete do Plano do Zambeze a celebrar contrato para a execução da empreitada de estudo dos recursos agrários e planeamento do uso da terra da região sul de uma zona seleccionada do vale do Zambeze, em Moçambique, por importância não superior a 19000000$00.
+Artigo 1.º É autorizado o Gabinete do Plano do Zambeze a celebrar contrato para a execução da empreitada de estudo dos recursos agrários e planeamento do uso da terra da região sul de uma zona seleccionada do vale do Zambeze, em Moçambique, por importância não superior a 19000000$00.
 
-###### Art. 2.º - 1. Os primeiros pagamentos a efectuar, até completar 30% do valor total do contrato, serão feitos em escudos de Moçambique, sendo os restantes feitos em rands da República da África do Sul ao câmbio oficial do Banco de Portugal nas datas desses pagamentos, não podendo o encargo resultante da execução do contrato referido no artigo anterior exceder, em cada ano, as seguintes quantias:
+Art. 2.º - 1. Os primeiros pagamentos a efectuar, até completar 30% do valor total do contrato, serão feitos em escudos de Moçambique, sendo os restantes feitos em rands da República da África do Sul ao câmbio oficial do Banco de Portugal nas datas desses pagamentos, não podendo o encargo resultante da execução do contrato referido no artigo anterior exceder, em cada ano, as seguintes quantias:
 
 ... Contos
 
@@ -119,10 +123,10 @@ Em 1981 ... 80
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMIÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMIÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.

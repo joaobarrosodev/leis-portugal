@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 456aefbfe80640345ee6d9ec5de9a67e30a3cf18f4b0816345747e7444fc4577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1621fa64e951596fe15c8c65e20a1c559a7abf2b6d6004fd04750e18ecbd4b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Ciclo Preparatório
+- Direcção de Serviços do Ciclo Preparatório
+- Exame
+- Inspecção do Ciclo Preparatório
+- Material de Ensino
+- Orientação Escolar
+- Pessoal Docente
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:298404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276195:por
+  label: "Aditados os nºs. 4.º e 5.º, ao art. 6.º, alterados os arts. 17.º, n.º 1 do art. 19.º e o art. 27.º, revogada a 2.ª\
+    \ parte do nº 2 do art. 25. ºDEC LEI.48541.1968.08.23.MEN DG.IS [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48541-1968-276195
+  date: '1968-08-23'
+- type: cites
+  target: pt:dre:504301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:46Z'
   warnings: []
   errors: []
 ---
@@ -123,23 +142,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado o ciclo preparatório do ensino secundário, que substitui tanto o 1.º ciclo do ensino liceal como o ciclo preparatório do ensino técnico profissional.
+Artigo 1.º - 1. É criado o ciclo preparatório do ensino secundário, que substitui tanto o 1.º ciclo do ensino liceal como o ciclo preparatório do ensino técnico profissional.
 
 2. O ciclo preparatório agora criado constitui habilitação necessária para o ingresso em qualquer ramo do ensino secundário, salvo nos casos exceptuados por lei.
 
-###### Art. 2.º São finalidades do ciclo preparatório do ensino secundário:
+Art. 2.º São finalidades do ciclo preparatório do ensino secundário:
 
 a) Completar e ampliar a formação de base obtida no ciclo elementar do ensino primário, em ordem a fornecer uma preparação geral adequada ao prosseguimento dos estudos em qualquer ramo do ensino secundário;
 
 b) Orientar os alunos na escolha dos estudos subsequentes a partir da observação de suas tendências e aptidões.
 
-###### Art. 3.º O ciclo preparatório compreende duas classes anuais.
+Art. 3.º O ciclo preparatório compreende duas classes anuais.
 
-###### Art. 4.º - 1. Denominam-se escolas preparatórias do ensino secundário os estabelecimentos, públicos ou particulares, onde é ministrado o ciclo preparatório.
+Art. 4.º - 1. Denominam-se escolas preparatórias do ensino secundário os estabelecimentos, públicos ou particulares, onde é ministrado o ciclo preparatório.
 
 2. Deverá haver, pelo menos, uma escola preparatória em cada concelho.
 
-###### Art. 5.º - 1. Podem matricular-se no ciclo preparatório os alunos que tenham obtido aprovação no exame do ciclo elementar do ensino primário.
+Art. 5.º - 1. Podem matricular-se no ciclo preparatório os alunos que tenham obtido aprovação no exame do ciclo elementar do ensino primário.
 
 2. Só serão admitidos nas escolas preparatórias, públicas ou particulares, os menores de idade não superior a 14 anos, com referência a 31 de Março do ano escolar a que a matrícula respeita.
 
@@ -147,67 +166,67 @@ b) Orientar os alunos na escolha dos estudos subsequentes a partir da observaç�
 
 4. Os cursos referidos no número anterior poderão funcionar nas próprias escolas preparatórias, desde que separadamente dos cursos normais.
 
-###### Art. 6.º - 1. Terminada a frequência, com aproveitamento, do 2.º ano do ciclo preparatório, os alunos submeter-se-ão a exame de aptidão ao ramo do ensino secundário por que hajam optado.
+Art. 6.º - 1. Terminada a frequência, com aproveitamento, do 2.º ano do ciclo preparatório, os alunos submeter-se-ão a exame de aptidão ao ramo do ensino secundário por que hajam optado.
 
 2. Nesse exame procurar-se-á averiguar, exclusivamente com base nos conhecimentos ministrados no ciclo, a tendência e capacidade do aluno para o ramo do ensino em causa.
 
 3. O aluno aprovado no exame de aptidão a qualquer ramo do ensino secundário fica tendo, para todos os efeitos legais, a habilitação do ciclo preparatório.
 
-###### Art. 7.º - 1. Quanto aos alunos que não desejem prosseguir estudos, a habilitação do ciclo preparatório será obtida mediante exame de fim de ciclo.
+Art. 7.º - 1. Quanto aos alunos que não desejem prosseguir estudos, a habilitação do ciclo preparatório será obtida mediante exame de fim de ciclo.
 
 2. O serviço dos exames de fim de ciclo efectuar-se-á, em princípio, depois de terminado o dos exames de aptidão.
 
-###### Art. 8.º - 1. Os alunos que tenham a frequência, com aproveitamento, do 1.º ano do ciclo complementar do ensino primário podem ingressar, mediante exame de admissão, no 2.º ano do ciclo preparatório.
+Art. 8.º - 1. Os alunos que tenham a frequência, com aproveitamento, do 1.º ano do ciclo complementar do ensino primário podem ingressar, mediante exame de admissão, no 2.º ano do ciclo preparatório.
 
 2. Os alunos que tenham a frequência, com aproveitamento, do 2.º ano do ciclo complementar do ensino primário podem sujeitar-se quer ao exame de aptidão a qualquer ramo do ensino secundário, quer ao exame de fim do ciclo preparatório.
 
 3. Nos casos previstos no número anterior, e de harmonia com as provas prestadas, serão os candidatos aprovados, excluídos ou autorizados a ingressar no 2.º ano do ciclo preparatório.
 
-###### Art. 9.º Os alunos que tenham a frequência, com aproveitamento, do 1.º ou do 2.º ano do ciclo preparatório podem, respectivamente, ingressar sem exame no 2.º ano do ciclo complementar do ensino primário ou sujeitar-se ao exame final deste ciclo.
+Art. 9.º Os alunos que tenham a frequência, com aproveitamento, do 1.º ou do 2.º ano do ciclo preparatório podem, respectivamente, ingressar sem exame no 2.º ano do ciclo complementar do ensino primário ou sujeitar-se ao exame final deste ciclo.
 
-###### Art. 10.º - 1. O ensino do ciclo preparatório será ministrado em regime de separação de sexos.
+Art. 10.º - 1. O ensino do ciclo preparatório será ministrado em regime de separação de sexos.
 
 2. Poderão ser autorizadas escolas mistas, desde que, em princípio, não excedam doze turmas e cada uma destas compreenda só alunos do mesmo sexo.
 
-###### Art. 11.º - 1. Sem prejuízo do carácter unitário do ciclo preparatório, o respectivo plano de estudos deve ser estabelecido tendo em vista a orientação escolar dos alunos.
+Art. 11.º - 1. Sem prejuízo do carácter unitário do ciclo preparatório, o respectivo plano de estudos deve ser estabelecido tendo em vista a orientação escolar dos alunos.
 
 2. Dentro do princípio expresso no número anterior, haverá diversos conjuntos lectivos, constituídos por uma ou várias disciplinas e organizados de forma a corresponderem às tendências mais frequentes dos alunos e às modalidades fundamentais dos estudos subsequentes.
 
-###### Art. 12.º - 1. As características e condições de desenvolvimento próprias de cada sexo serão tomadas em consideração, na medida do necessário, nos planos de estudo, programas e métodos de ensino das diversas disciplinas.
+Art. 12.º - 1. As características e condições de desenvolvimento próprias de cada sexo serão tomadas em consideração, na medida do necessário, nos planos de estudo, programas e métodos de ensino das diversas disciplinas.
 
 2. O ensino deverá, do mesmo modo, adaptar-se às características da região onde é ministrado.
 
-###### Art. 13.º - 1. Os professores, em especial os da mesma turma, devem manter estreita coordenação no ensino, na observação dos alunos e na apreciação do aproveitamento destes.
+Art. 13.º - 1. Os professores, em especial os da mesma turma, devem manter estreita coordenação no ensino, na observação dos alunos e na apreciação do aproveitamento destes.
 
 2. Dentro da mesma turma, o ensino de cada conjunto lectivo será ministrado, em princípio, por um único professor.
 
-###### Art. 14.º O ensino deverá promover a preparação cultural, a formação moral, artística e física e a devoção cívica, através de métodos que reclamem a cooperação activa do aluno e tendam a desenvolver nele o espírito de observação, a imaginação criadora, a capacidade de raciocínio e de expressão, o gosto do empreendimento e do esforço pessoal e o reconhecimento do valor do trabalho.
+Art. 14.º O ensino deverá promover a preparação cultural, a formação moral, artística e física e a devoção cívica, através de métodos que reclamem a cooperação activa do aluno e tendam a desenvolver nele o espírito de observação, a imaginação criadora, a capacidade de raciocínio e de expressão, o gosto do empreendimento e do esforço pessoal e o reconhecimento do valor do trabalho.
 
-###### Art. 15.º Os programas serão revistos de cinco em cinco anos, de forma a introduzirem-se neles as modificações que a experiência e o progresso das ciências e dos estudos pedagógicos forem aconselhando.
+Art. 15.º Os programas serão revistos de cinco em cinco anos, de forma a introduzirem-se neles as modificações que a experiência e o progresso das ciências e dos estudos pedagógicos forem aconselhando.
 
-###### Art. 16.º - 1. O conselho escolar de cada estabelecimento de ensino escolherá anualmente os compêndios e livros de texto, de entre os aprovados pelo Ministério da Educação Nacional.
+Art. 16.º - 1. O conselho escolar de cada estabelecimento de ensino escolherá anualmente os compêndios e livros de texto, de entre os aprovados pelo Ministério da Educação Nacional.
 
 2. O mesmo Ministério poderá estabelecer normas mínimas a que deva obedecer o material didáctico.
 
-###### Art. 17.º Todas as disciplinas são de frequência obrigatória, com excepção das de Moral e Religião e de Educação Física, quando o aluno delas for dispensado, respectivamente a requerimento dos pais ou tutores ou com base em parecer médico.
+Art. 17.º Todas as disciplinas são de frequência obrigatória, com excepção das de Moral e Religião e de Educação Física, quando o aluno delas for dispensado, respectivamente a requerimento dos pais ou tutores ou com base em parecer médico.
 
-###### Art. 18.º O ensino do ciclo preparatório será ministrado, tanto nos estabelecimentos públicos como nos particulares, por indivíduos que possuam as habilitações científicas e pedagógicas que venham a ser fixadas em regulamento.
+Art. 18.º O ensino do ciclo preparatório será ministrado, tanto nos estabelecimentos públicos como nos particulares, por indivíduos que possuam as habilitações científicas e pedagógicas que venham a ser fixadas em regulamento.
 
-###### Art. 19.º - 1. Os quadros do pessoal docente, administrativo e menor das escolas preparatórias públicas serão fixados em portaria conjunta dos Ministérios das Finanças e da Educação Nacional, à medida que as mesmas se encontrem em condições de começar a funcionar.
+Art. 19.º - 1. Os quadros do pessoal docente, administrativo e menor das escolas preparatórias públicas serão fixados em portaria conjunta dos Ministérios das Finanças e da Educação Nacional, à medida que as mesmas se encontrem em condições de começar a funcionar.
 
 2. De cinco em cinco anos será feito o reajustamento dos quadros do pessoal das escolas públicas, de acordo com as alterações verificadas na frequência ou a introduzir nos planos de estudo.
 
-###### Art. 20.º - 1. O pessoal docente, administrativo e menor actualmente em exercício nos liceus e escolas técnicas e que seja dispensável em virtude da criação do ciclo unificado, poderá ser colocado nas escolas preparatórias por simples despacho ministerial, sem qualquer outra formalidade, salvo a anotação do Tribunal de Contas.
+Art. 20.º - 1. O pessoal docente, administrativo e menor actualmente em exercício nos liceus e escolas técnicas e que seja dispensável em virtude da criação do ciclo unificado, poderá ser colocado nas escolas preparatórias por simples despacho ministerial, sem qualquer outra formalidade, salvo a anotação do Tribunal de Contas.
 
 2. O Ministro da Educação Nacional pode determinar que prestem serviço nas mesmas escolas, total ou parcialmente, quaisquer professores ou mestres dos quadros dos liceus e escolas técnicas das respectivas localidades, sendo o serviço considerado para todos os efeitos como prestado nos estabelecimentos a cujos quadros pertencem e nas respectivas categorias.
 
-###### Art. 21.º A orientação escolar, que se baseia na observação sistemática do aluno, em especial das suas reacções aos estímulos dos diversos conjuntos lectivos, tem como finalidades:
+Art. 21.º A orientação escolar, que se baseia na observação sistemática do aluno, em especial das suas reacções aos estímulos dos diversos conjuntos lectivos, tem como finalidades:
 
 a) Proporcionar aos alunos e seus pais ou tutores elementos de informação que os auxiliem na escolha dos estudos subsequentes;
 
 b) Orientar os professores, bem como os pais ou tutores dos alunos, na resolução de problemas de ordem pedagógica e educacional.
 
-###### Art. 22.º - 1. Em cada escola haverá um conselho de orientação escolar, constituído pelo director, pelo subdirector, quando exista, pelos professores de Moral e Religião, por dois outros professores e pelo médico escolar.
+Art. 22.º - 1. Em cada escola haverá um conselho de orientação escolar, constituído pelo director, pelo subdirector, quando exista, pelos professores de Moral e Religião, por dois outros professores e pelo médico escolar.
 
 2. Ao conselho de orientação escolar competirá:
 
@@ -219,17 +238,17 @@ c) Autorizar a consulta a laboratórios psicotécnicos ou de higiene mental;
 
 d) Dar parecer sobre a escolha dos compêndios, livros de texto e material didáctico e sobre os métodos de ensino, na medida em que interessem à orientação escolar.
 
-###### Art. 23.º - 1. Os serviços de orientação escolar serão organizados, em cada escola, por turmas.
+Art. 23.º - 1. Os serviços de orientação escolar serão organizados, em cada escola, por turmas.
 
 2. As informações e observações de interesse para a orientação escolar dos alunos de cada turma serão coligidas em processos individuais, e com base nelas os professores exercerão as funções referidas no artigo 22.º
 
 3. Haverá em cada turma um professor encarregado de organizar e preparar para estudo os processos dos respectivos alunos.
 
-###### Art. 24.º - 1. As recomendações dos serviços de orientação escolar sobre a escolha dos estudos subsequentes não têm carácter vinculativo, mantendo os alunos e seus pais ou tutores total liberdade nessa escolha.
+Art. 24.º - 1. As recomendações dos serviços de orientação escolar sobre a escolha dos estudos subsequentes não têm carácter vinculativo, mantendo os alunos e seus pais ou tutores total liberdade nessa escolha.
 
 2. As informações e recomendações dos serviços de orientação escolar sobre alunos determinados são estritamente confidenciais, só podendo ser levadas ao conhecimento de outras pessoas ou entidades com autorização dos pais ou tutores, salvo nos casos especificados na lei.
 
-###### Art. 25.º - 1. É criada no Ministério da Educação Nacional a Direcção de Serviços do Ciclo Preparatório, que compreenderá uma repartição e uma inspecção, a primeira com funções de superintendência administrativa e a segunda de orientação pedagógica e de fiscalização do ensino.
+Art. 25.º - 1. É criada no Ministério da Educação Nacional a Direcção de Serviços do Ciclo Preparatório, que compreenderá uma repartição e uma inspecção, a primeira com funções de superintendência administrativa e a segunda de orientação pedagógica e de fiscalização do ensino.
 
 2. Enquanto se não proceder à reorganização dos serviços centrais do Ministério, a referida Direcção ficará na dependência imediata do Ministro e a inspecção nela compreendida estenderá a sua acção às escolas preparatórias particulares.
 
@@ -245,13 +264,13 @@ d) Vigiar o cumprimento das disposições legais pelas escolas preparatórias.
 
 4. O quadro da Direcção de Serviços do Ciclo Preparatório será fixado por portaria conjunta dos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 26.º - 1. O ciclo preparatório do ensino secundário começará a funcionar no ano escolar de 1968-1969; mas, se assim se mostrar conveniente, será posto em funcionamento, nalguns estabelecimentos de ensino, já em 1967-1968, a título experimental.
+Art. 26.º - 1. O ciclo preparatório do ensino secundário começará a funcionar no ano escolar de 1968-1969; mas, se assim se mostrar conveniente, será posto em funcionamento, nalguns estabelecimentos de ensino, já em 1967-1968, a título experimental.
 
 2. O Ministro da Educação Nacional ordenará, desde já, as providências necessárias para dar execução ao disposto no número anterior.
 
 3. No ano escolar de 1968-1969 ainda funcionarão o 2.º ano do curso liceal e o do ciclo preparatório do ensino técnico profissional, para os alunos que tenham a frequência, com aproveitamento, do respectivo 1.º ano.
 
-###### Art. 27.º - 1. No dia 1 de Outubro de 1968, as escolas técnicas elementares e as secções dos liceus que estejam a funcionar fora das respectivas sedes serão transformadas em escolas preparatórias do ensino secundário.
+Art. 27.º - 1. No dia 1 de Outubro de 1968, as escolas técnicas elementares e as secções dos liceus que estejam a funcionar fora das respectivas sedes serão transformadas em escolas preparatórias do ensino secundário.
 
 2. Quando não seja possível assegurar às escolas preparatórias públicas instalações próprias, poderão elas funcionar nos mesmos edifícios onde se ministrem outros cursos do ensino secundário, nas condições a estabelecer, caso a caso, pelo Ministro da Educação Nacional.
 
@@ -259,11 +278,11 @@ d) Vigiar o cumprimento das disposições legais pelas escolas preparatórias.
 
 4. Sem prejuízo do disposto nos números precedentes, as escolas preparatórias poderão gozar de autonomia administrativa em termos análogos à dos liceus.
 
-###### Art. 28.º - 1. A data a que se reportam as idades fixadas no artigo 2.º do [Decreto-Lei n.º 42994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301), de 28 de Maio de 1960, passa a ser a de 31 de Março do ano escolar a que respeita a matrícula.
+Art. 28.º - 1. A data a que se reportam as idades fixadas no artigo 2.º do [Decreto-Lei n.º 42994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301), de 28 de Maio de 1960, passa a ser a de 31 de Março do ano escolar a que respeita a matrícula.
 
 2. O disposto no número anterior entra em vigor no ano escolar de 1968-1969.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

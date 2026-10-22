@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01400/00780078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1976-506045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 549cf23290341329e8ddede3807e8629c3dcbcac1d6a3b92dde5b684686c63d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db644c8dc8ec5e78f2e2b65bea93262075a2f15de6c49393f55d44414d5c59a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio Administrativo
+- Definição de Competências
+- Ministério da Agricultura e Pescas
+- Ministério da Economia
+- Ministério da Indústria e Tecnologia
+- Ministério do Comércio Externo
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:278479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:507189:por
+  label: Rectificado pelo DECL.DD8476.04.02.1976.PCM, DG.IS [29] de 04.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507189
+  date: '1976-02-04'
+- type: repealed_by
+  target: pt:dre:278479:por
+  label: "Revogado pelo DEC LEI.411/77.28.09.1977.MPCE, DR.IS [225] de 28.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1977-278479
+  date: '1977-09-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:31Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +108,14 @@ de 17 de Janeiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único - 1. Até que sejam criadas as Secretarias-Gerais dos Ministérios da Agricultura e Pescas, da Indústria e Tecnologia e do Comércio Externo, os serviços da Secretaria-Geral do extinto Ministério da Economia continuarão a dar apoio administrativo aos Gabinetes dos referidos Ministérios.
+Artigo único - 1. Até que sejam criadas as Secretarias-Gerais dos Ministérios da Agricultura e Pescas, da Indústria e Tecnologia e do Comércio Externo, os serviços da Secretaria-Geral do extinto Ministério da Economia continuarão a dar apoio administrativo aos Gabinetes dos referidos Ministérios.
 
 2. Para efeitos do número anterior, o orçamento do Ministério da Agricultura e Pescas incluirá as verbas necessárias ao funcionamento dos serviços da citada Secretaria-Geral, mantendo-se, em tudo o mais, as normas legais por que se vinha regendo.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - António Poppe Lopes Cardoso - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 8 de Janeiro de 1976.**
+Promulgado em 8 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

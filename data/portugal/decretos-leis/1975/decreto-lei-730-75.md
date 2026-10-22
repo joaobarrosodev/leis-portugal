@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/730-1975-310849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e04b33e2f369335e8d0919a2405263a6e3a7899051440d3aa2bea3db98bd12bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43e70dd1195d00d204304344cf7cd37c5270025588846b1b0b9c2f02312e2b9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Cívicos
+- Direitos Políticos
+- Forças Armadas
+- Militar
+- Saneamento de Pessoal
+- Saneamento Político
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337066:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado o Decreto-Lei n.º 314/75, de 27 de Junho, na redacção do presente diploma, pelo DEC LEI.34-A/90.24.01.1990.MDN,
+    DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:47:53Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +114,7 @@ Convindo possibilitar uma melhor adequação dos efeitos da medida de expulsão 
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 314/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1975-337066), de 27 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 314/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1975-337066), de 27 de Junho, passa a ter a seguinte redacção:
 
 A expulsão a que se referem os artigos anteriores produzirá os seguintes efeitos:
 
@@ -106,12 +126,12 @@ c) ...
 
 d) Impossibilidade de prestação de serviço remunerado, de qualquer natureza, em empresas nacionalizadas por período não inferior a dois anos.
 
-###### Art. 2.º Este diploma entra em vigor na data da sua publicação.
+Art. 2.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 15 de Dezembro de 1975.**
+Promulgado em 15 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

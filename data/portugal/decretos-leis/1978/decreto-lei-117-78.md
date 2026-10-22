@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1978-294538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ee80526b8bd57879f5de5e1b10dd5fb1604e4e0884e52d664be5dd74e6b9f22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acefb38fe4d64b9638d5529f7bb0208d753cbb89ffc2b2c7381bfa9b3c08a483
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Denominação de Instituição
+- Empresa Pública
+- Estatuto
+- Ministro dos Transportes e Comunicações
+- Transtejo
+relationships:
+- type: cites
+  target: pt:dre:166583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
+  article_count: 39
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:46Z'
   warnings: []
   errors: []
 ---
@@ -96,29 +113,29 @@ A publicação dos estatutos em anexo ao presente diploma, em cumprimento do dis
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A empresa pública Transportes Tejo, criada pelo [Decreto-Lei n.º 701-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-d-1975-166583), de 17 de Dezembro, passa a denominar-se Transtejo - Transportes Tejo, E. P., abreviadamente Transtejo, E. P., e a reger-se pelos estatutos anexos ao presente diploma, que dele fazem parte integrante, e pela lei aplicável às empresas públicas.
+Artigo 1.º A empresa pública Transportes Tejo, criada pelo [Decreto-Lei n.º 701-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-d-1975-166583), de 17 de Dezembro, passa a denominar-se Transtejo - Transportes Tejo, E. P., abreviadamente Transtejo, E. P., e a reger-se pelos estatutos anexos ao presente diploma, que dele fazem parte integrante, e pela lei aplicável às empresas públicas.
 
-###### Art. 2.º Os poderes de tutela do Governo são exercidos pelo Ministro dos Transportes e Comunicações.
+Art. 2.º Os poderes de tutela do Governo são exercidos pelo Ministro dos Transportes e Comunicações.
 
-###### Art. 3.º O capital da Transtejo, E. P., será fixado de acordo com o disposto no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
+Art. 3.º O capital da Transtejo, E. P., será fixado de acordo com o disposto no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
-###### Art. 4.º As nomeações a que se referem as alíneas b), c), e), f) e g) do artigo 4.º dos estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sessenta dias a contar da publicação do presente diploma e até oito dias do termo dos mandatos respectivos, para o exercício dos mandatos subsequentes.
+Art. 4.º As nomeações a que se referem as alíneas b), c), e), f) e g) do artigo 4.º dos estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sessenta dias a contar da publicação do presente diploma e até oito dias do termo dos mandatos respectivos, para o exercício dos mandatos subsequentes.
 
-###### Art. 5.º Enquanto não forem nomeados os membros do conselho de gerência, nos termos do artigo 10.º dos estatutos, mantêm-se em funções os actuais membros da comissão administrativa nomeados ao abrigo do artigo 6.º, n.º 2, do [Decreto-Lei n.º 701-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-d-1975-166583), de 17 de Dezembro.
+Art. 5.º Enquanto não forem nomeados os membros do conselho de gerência, nos termos do artigo 10.º dos estatutos, mantêm-se em funções os actuais membros da comissão administrativa nomeados ao abrigo do artigo 6.º, n.º 2, do [Decreto-Lei n.º 701-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-d-1975-166583), de 17 de Dezembro.
 
-###### Art. 6.º A Transtejo, E. P., fica sujeita à tributação directa e indirecta nos termos gerais, podendo, no entanto, vir a ser submetida a regime fiscal próprio.
+Art. 6.º A Transtejo, E. P., fica sujeita à tributação directa e indirecta nos termos gerais, podendo, no entanto, vir a ser submetida a regime fiscal próprio.
 
-###### Art. 7.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Manuel Branco Ferreira Lima.
 
-**Promulgado em 10 de Maio de 1978.**
+Promulgado em 10 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo ao Decreto-Lei n.º 117/78
+Anexo ao Decreto-Lei n.º 117/78
 
 ESTATUTOS DA EMPRESA PÚBLICA TRANSTEJO, E. P.
 
@@ -630,4 +647,4 @@ A sujeição da empresa ao registo comercial será regulada por lei especial.
 
 As dúvidas que se suscitarem na interpretação ou aplicação dos presentes estatutos são resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

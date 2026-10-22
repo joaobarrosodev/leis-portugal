@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/66-1984-400012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31f0a96011456157638f74c2332b8c067128df99046de664443cc24384803c03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 058f750167a51112875c21ea3207667e1a6fd5cd91aa6c8b3aec90dc0cb1cea6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Discriminação Sexual
+- Igualdade de Tratamento
+- OIT
+- Portugal
 relationships: []
 article_structure:
-  article_count: 20
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:34Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +93,19 @@ de 11 de Outubro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 156, relativa à igualdade de oportunidades e de tratamento para os trabalhadores dos dois sexos: trabalhadores com responsabilidades familiares, adoptada pela Conferência Geral da Organização Internacional do Trabalho na sua 67.ª sessão, cujo texto em francês e inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 156, relativa à igualdade de oportunidades e de tratamento para os trabalhadores dos dois sexos: trabalhadores com responsabilidades familiares, adoptada pela Conferência Geral da Organização Internacional do Trabalho na sua 67.ª sessão, cujo texto em francês e inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama. - Amândio Anes de Azevedo.
 
-**Assinado em 19 de Setembro de 1984.**
+Assinado em 19 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 20 de Setembro de 1984.**
+Referendado em 20 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENTION Nº 156, CONCERNANT L'ÉGALITÉ DE CHANCES ET DE TRAITEMENT POUR LES TRAVAILLEURS DES DEUX SEXES: TRAVAILLEURS AYANT DES RESPONSABILITÉS FAMILIALES, ADOPTÉE PAR LA CONFÉRENCE GÉNÉRALE DE L'ORGANISATION INTERNATIONALE DU TRAVAIL À SOIXANTE-SEPTIÈME SESSION, À GENÈVE, LE 23 JUIN 1981.
 
@@ -444,7 +449,7 @@ Após ter decidido que essas propostas tomariam a forma de uma convenção inter
 
 adopta, neste dia 23 de Junho de 1981, a seguinte Convenção, que será denominada «Convenção sobre os Trabalhadores com Responsabilidades Familiares, 1981».
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - A presente Convenção aplica-se aos trabalhadores de ambos os sexos com responsabilidades para com os filhos a seu cargo, quando essas responsabilidades limitem as suas possibilidades de se prepararem para a actividade económica, de acederem a ela, de nela participarem ou progredirem.
 
@@ -454,17 +459,17 @@ adopta, neste dia 23 de Junho de 1981, a seguinte Convenção, que será denomin
 
 4 - Os trabalhadores visados nos parágrafos 1 e 2 supra serão abaixo designados «trabalhadores com responsabilidades familiares».
 
-###### Artigo 2.º
+Artigo 2.º
 
 A presente Convenção aplica-se a todos os ramos da actividade económica e a todas as categorias de trabalhadores.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - A fim de instaurar a igualdade efectiva de oportunidades e tratamento para os trabalhadores de ambos os sexos, cada membro deve, entre os seus objectivos de política nacional, ter em vista permitir às pessoas com responsabilidades familiares e que ocupem ou desejem ocupar um emprego que exerçam o seu direito de o ocupar ou de o obter sem serem alvo de discriminação e, tanto quanto possível, sem conflito entre as suas responsabilidades profissionais e familiares.
 
 2 - Para efeitos do parágrafo 1 supra, o termo «discriminação» significa a discriminação em matéria de emprego e profissão tal como foi definida pelos artigos 1.º e 5.º da convenção relativa à discriminação (emprego e profissão), 1958.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A fim de instaurar a igualdade efectiva de oportunidades e tratamento para os trabalhadores de ambos os sexos, devem tomar-se todas as medidas compatíveis com as condições e possibilidades nacionais para:
 
@@ -472,7 +477,7 @@ a) Permitir aos trabalhadores com responsabilidades familiares exercerem o seu d
 
 b) Ter em conta as suas necessidades no que respeita às condições de emprego e à segurança social.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Devem igualmente ser tomadas todas as medidas compatíveis com as condições e possibilidades nacionais para:
 
@@ -480,37 +485,37 @@ a) Ter em conta as necessidades dos trabalhadores com responsabilidades familiar
 
 b) Desenvolver ou promover serviços comunitários, públicos ou privados, tais como serviços e instalações de cuidados à infância e de ajuda à família.
 
-###### Artigo 6.º
+Artigo 6.º
 
 As autoridades e organismos competentes de cada país devem tomar medidas apropriadas para promover uma informação e uma educação que suscitem no público não só uma melhor compreensão do princípio da igualdade de oportunidades e tratamento para os trabalhadores de ambos os sexos e dos problemas dos trabalhadores com responsabilidades familiares, como também uma corrente de opinião favorável à solução desses problemas.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Devem ser tomadas todas as medidas compatíveis com as condições e possibilidades nacionais, entre as quais medidas no domínio da orientação e da formação profissionais, para permitir aos trabalhadores com responsabilidades familiares integrarem-se na população activa, continuarem a fazer parte dela e retomarem um emprego após uma ausência motivada por essas responsabilidades.
 
-###### Artigo 8.º
+Artigo 8.º
 
 As responsabilidades familiares não podem, enquanto tais, constituir motivo válido para pôr fim à relação de trabalho.
 
-###### Artigo 9.º
+Artigo 9.º
 
 As disposições da presente Convenção podem ser aplicadas por via legislativa, através de convenções colectivas, de regulamentos de empresa, de sentenças arbitrais, de decisões judiciais, ou por qualquer outro meio adequado, conforme com a prática nacional e que tenha em conta as condições nacionais.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Tendo em conta as condições nacionais, as disposições da presente Convenção poderão, se for necessário, ser aplicadas gradualmente, ficando assente que, seja como for, as medidas tomadas para este efeito se aplicarão a todos os trabalhadores visados pelo artigo 1.º, parágrafo 1.
 
 2 - Qualquer membro que ratifique a presente convenção indicará no primeiro relatório sobre a aplicação da mesma, que terá de apresentar por força do artigo 22.º da Constituição da Organização Internacional do Trabalho, se e a respeito de que disposições da Convenção tenciona socorrer-se da possibilidade oferecida no parágrafo 1 do presente artigo e indicará nos relatórios seguintes a medida em que deu ou se propõe dar cumprimento às citadas disposições.
 
-###### Artigo 11.º
+Artigo 11.º
 
 As organizações de empregadores e de trabalhadores terão direito a participar, segundo modalidades apropriadas às condições e à prática nacionais, na elaboração e na aplicação das medidas tomadas para dar cumprimento ao disposto na presente Convenção.
 
-###### Artigo 12.º
+Artigo 12.º
 
 As ratificações formais da presente Convenção serão comunicados ao director-geral da Repartição Internacional do Trabalho e por ele registadas.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - A presente Convenção vinculará os membros da Organização Internacional do Trabalho cuja ratificação tenha sido registada pelo director-geral.
 
@@ -518,27 +523,27 @@ As ratificações formais da presente Convenção serão comunicados ao director
 
 3 - Posteriormente, esta Convenção entrará em vigor para cada membro 12 meses após a data em que a sua ratificação tiver sido registada.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Qualquer membro que tiver ratificado a presente Convenção poderá denunciá-la, decorrido um período de 10 anos a contar da data da entrada em vigor inicial da Convenção, mediante uma comunicação enviada ao director-geral da Repartição Internacional do Trabalho e por ele registada. A denúncia só produzirá efeitos 1 ano depois de ter sido registada.
 
 2 - Qualquer membro que tenha ratificado a presente Convenção e que, no prazo de 1 ano após o termo do período de 10 anos mencionado no número precedente, não fizer uso da faculdade de denúncia prevista no presente artigo ficará vinculado por um novo período de 10 anos e, posteriormente, poderá denunciar esta Convenção no termo de cada período de 10 anos, nas condições previstas no presente artigo.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - O director-geral da Repartição Internacional do Trabalho participará a todos os membros da Organização Internacional do Trabalho o registo de todas as ratificações e denúncias que lhe forem comunicadas pelos membros da Organização.
 
 2 - Ao participar aos membros da Organização o registo da segunda ratificação que lhe tiver sido comunicada, o director-geral chamará a atenção dos membros da Organização para a data em que a presente Convenção entrará em vigor.
 
-###### Artigo 16.º
+Artigo 16.º
 
 O director-geral da Repartição Internacional do Trabalho comunicará ao Secretário-Geral das Nações Unidas, para efeitos de registo, em conformidade com o artigo 102.º da Carta das Nações Unidas, informações completas sobre todas as ratificações e todos os actos de denúncia que tiver registado em conformidade com os artigos precedentes.
 
-###### Artigo 17.º
+Artigo 17.º
 
 Sempre que o considere necessário, o conselho de administração da Repartição Internacional do Trabalho apresentará à Conferência Geral um relatório sobre a aplicação da presente Convenção e avaliará se deverá inscrever-se na ordem de trabalhos da Conferência a questão da sua revisão, total ou parcial.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - No caso de a Conferência adoptar uma nova convenção que revela total ou parcialmente a presente convenção e salvo disposição em contrário da nova convenção:
 
@@ -548,6 +553,6 @@ b) A partir da data da entrada em vigor da nova convenção que efectuar a revis
 
 2 - A presente Convenção permanecerá, todavia, em vigor na sua forma e conteúdo para os membros que a tiverem ratificado e que não ratificarem a convenção que efectuar a revisão.
 
-###### Artigo 19.º
+Artigo 19.º
 
 As versões francesa e inglesa do texto da presente Convenção fazem igualmente fé.

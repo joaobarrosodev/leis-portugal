@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1979, 12º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 12º Suplemento
+  supplement: null
   pages: 3478-(296) a 3478-(301)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30012/02960301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1979-230886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 105de021a60aebe947d6927b42b5c3f293d1b1fb8a7db0b18864f509c526204a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b83c2d630f19793240b9ec951767b05350ec50defbbcc1ecd27e430178f8f64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho Consultivo
+- Definição de Competências
+- Diretor
+- Equiparação de Cargos
+- Gabinete do Ensino Português no Estrangeiro
+- Gestão Administrativa
+- Gestão Financeira
+- Integração de Trabalhadores
+- Ministério da Educação
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:678427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:678427:por
+  label: "Revogado, a partir de 23.03.1980, pelo DEC LEI.50/80.22.03.1980.MECI, DR.IS [69] de 22.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1980-678427
+  date: '1980-03-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:06Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +161,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Criação e objectivos
 
-###### Artigo 1.º É criado no Ministério da Educação, e dependente da Secretaria de Estado dos Ensinos Básico e Secundário, o Gabinete do Ensino Português no Estrangeiro, abreviadamente designado por Gaepe, organismo dotado de autonomia administrativa.
+Artigo 1.º É criado no Ministério da Educação, e dependente da Secretaria de Estado dos Ensinos Básico e Secundário, o Gabinete do Ensino Português no Estrangeiro, abreviadamente designado por Gaepe, organismo dotado de autonomia administrativa.
 
-###### Art. 2.º São atribuições do Gaepe:
+Art. 2.º São atribuições do Gaepe:
 
 a) Promover, coordenar e apoiar a difusão da língua e cultura portuguesas, aos níveis da educação pré-escolar e dos ensinos básico e secundário e no domínio da educação de adultos, em instituições portuguesas no estrangeiro ou em instituições de ensino dos diferentes países;
 
@@ -114,7 +173,7 @@ c) Colaborar na preparação dos acordos bilaterais com países estrangeiros e p
 
 d) Estabelecer a ligação com os competentes departamentos do Ministério da Educação, no âmbito do ensino em Portugal, e com os demais organismos que se ocupem da divulgação da cultura portuguesa no estrangeiro, em articulação com o Ministério dos Negócios Estrangeiros.
 
-###### Art. 3.º Na prossecução das atribuições referidas no artigo anterior compete, especialmente, ao Gaepe:
+Art. 3.º Na prossecução das atribuições referidas no artigo anterior compete, especialmente, ao Gaepe:
 
 a) Apreciar os pedidos de reconhecimento oficial de cursos de educação pré-escolar e de ensino básico ou secundário português e apresentá-los a despacho ministerial;
 
@@ -140,11 +199,11 @@ l) Executar a legislação relativa à concessão de equivalências de habilita�
 
 m) Promover o intercâmbio cultural e pedagógico, a nível docente e discente, entre Portugal e aqueles que, portugueses ou estrangeiros, se dediquem, no estrangeiro, ao estudo da língua e cultura portuguesas.
 
-###### Art. 4.º Para o desempenho das suas funções, o Gaepe estabelecerá a devida articulação com as Direcções-Gerais do Ensino Básico, do Ensino Secundário, de Pessoal e da Educação Permanente, bem como com os serviços do Ministério da Educação que se ocupem das relações internacionais não especificamente ligadas ao ensino português no estrangeiro, e ainda com o Ministério dos Negócios Estrangeiros e Secretaria de Estado da Cultura.
+Art. 4.º Para o desempenho das suas funções, o Gaepe estabelecerá a devida articulação com as Direcções-Gerais do Ensino Básico, do Ensino Secundário, de Pessoal e da Educação Permanente, bem como com os serviços do Ministério da Educação que se ocupem das relações internacionais não especificamente ligadas ao ensino português no estrangeiro, e ainda com o Ministério dos Negócios Estrangeiros e Secretaria de Estado da Cultura.
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
-###### Art. 5.º - 1 - São órgãos do Gaepe:
+Art. 5.º - 1 - São órgãos do Gaepe:
 
 a) O director;
 
@@ -164,7 +223,7 @@ d) A Repartição Administrativa.
 
 ### CAPÍTULO III — Do director
 
-###### Art. 6.º - 1 - Compete ao director:
+Art. 6.º - 1 - Compete ao director:
 
 a) Dirigir os serviços, orientar a acção do Gaepe e gerir o respectivo pessoal;
 
@@ -184,9 +243,9 @@ f) Propor à aprovação superior os regulamentos necessários ao bom funcioname
 
 ### CAPÍTULO IV — Do conselho consultivo
 
-###### Art. 7.º Ao conselho consultivo compete emitir parecer e apresentar propostas de natureza técnica e pedagógica relacionados com as actividades do Gaepe e assegurar a ligação com os Ministérios e serviços nele representados.
+Art. 7.º Ao conselho consultivo compete emitir parecer e apresentar propostas de natureza técnica e pedagógica relacionados com as actividades do Gaepe e assegurar a ligação com os Ministérios e serviços nele representados.
 
-###### Art. 8.º - 1 - O conselho consultivo constituído por:
+Art. 8.º - 1 - O conselho consultivo constituído por:
 
 a) O director do Gaepe;
 
@@ -204,11 +263,11 @@ g) Um representante da Secretaria de Estado da Cultura.
 
 2 - Tomará assento no conselho consultivo, sem direito a voto, o chefe da Repartição Administrativa, a quem compete secretariar o conselho e lavrar as actas do mesmo.
 
-###### Art. 9.º - 1 - O conselho consultivo reunirá, mediante convocatória do director, ou do seu adjunto nas suas faltas e impedimentos, em sessões plenárias ou restritas, consoante a natureza dos assuntos, e, nestas últimas, os representantes dos serviços do Ministério da Educação poder-se-ão fazer acompanhar de um assessor.
+Art. 9.º - 1 - O conselho consultivo reunirá, mediante convocatória do director, ou do seu adjunto nas suas faltas e impedimentos, em sessões plenárias ou restritas, consoante a natureza dos assuntos, e, nestas últimas, os representantes dos serviços do Ministério da Educação poder-se-ão fazer acompanhar de um assessor.
 
 2 - O conselho poderá ainda reunir por solicitação de, pelo menos, metade dos seus membros.
 
-###### Art. 10.º - 1 - As reuniões do conselho só são válidas estando presentes dois terços dos seus membros.
+Art. 10.º - 1 - As reuniões do conselho só são válidas estando presentes dois terços dos seus membros.
 
 2 - As deliberações do conselho serão tomadas por maioria de votos e serão exaradas em livro de actas apropriado.
 
@@ -216,7 +275,7 @@ g) Um representante da Secretaria de Estado da Cultura.
 
 ### CAPÍTULO V — Do conselho administrativo
 
-###### Art. 11.º - 1 - O conselho administrativo será constituído por:
+Art. 11.º - 1 - O conselho administrativo será constituído por:
 
 a) O director do Gaepe, que será o presidente;
 
@@ -228,7 +287,7 @@ d) O chefe da Repartição Administrativa.
 
 2 - Os membros do conselho administrativo referidos nas alíneas b) e c) do número anterior serão os seus vogais, servindo o chefe da Repartição Administrativa de secretário, com direito a voto.
 
-###### Art. 12.º Compete ao conselho administrativo:
+Art. 12.º Compete ao conselho administrativo:
 
 a) Organizar o orçamento do Gaepe;
 
@@ -242,7 +301,7 @@ e) Deliberar sobre as aquisições necessárias ao funcionamento dos serviços e
 
 j) Autorizar o pagamento de despesas, verificando e visando o seu processamento.
 
-###### Art. 13.º - 1 - O conselho administrativo reunirá mensalmente em sessão ordinária e extraordinariamente sempre que for convocado pelo presidente.
+Art. 13.º - 1 - O conselho administrativo reunirá mensalmente em sessão ordinária e extraordinariamente sempre que for convocado pelo presidente.
 
 2 - De cada reunião será lavrada acta, assinada pelo presidente e pelos demais membros presentes.
 
@@ -254,17 +313,17 @@ j) Autorizar o pagamento de despesas, verificando e visando o seu processamento.
 
 6 - A preparação e execução das deliberações do conselho administrativo serão asseguradas pela Repartição Administrativa.
 
-###### Art. 14.º Serão submetidos a despacho ministerial, para efeitos de homologação, relatórios trimestrais das deliberações do conselho administrativo sobre a aplicação das verbas orçamentais.
+Art. 14.º Serão submetidos a despacho ministerial, para efeitos de homologação, relatórios trimestrais das deliberações do conselho administrativo sobre a aplicação das verbas orçamentais.
 
-###### Art. 15.º - 1 - O numerário do Gaepe será depositado na Caixa Geral de Depósitos e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do conselho administrativo, ou do seu substituto legal, e de um vogal do mesmo conselho.
+Art. 15.º - 1 - O numerário do Gaepe será depositado na Caixa Geral de Depósitos e o seu levantamento só pode ser efectuado mediante a assinatura do presidente do conselho administrativo, ou do seu substituto legal, e de um vogal do mesmo conselho.
 
 2 - O conselho administrativo poderá manter em cofre um fundo de maneio para satisfação de despesas correntes, de quantitativo a fixar por despacho ministerial.
 
-###### Art. 16.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou pelo seu substituto legal, e por um vogal do mesmo conselho.
+Art. 16.º Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou pelo seu substituto legal, e por um vogal do mesmo conselho.
 
 ### CAPÍTULO VI — Dos serviços
 
-###### Art. 17.º - 1 - Compete à Divisão de Gestão do Pessoal Docente assegurar todo o serviço no estrangeiro, em colaboração com a Direcção-Geral de Pessoal.
+Art. 17.º - 1 - Compete à Divisão de Gestão do Pessoal Docente assegurar todo o serviço no estrangeiro, em colaboração com a Direcção-Geral de Pessoal.
 
 2 - A Divisão de Gestão de Pessoal Docente compreende:
 
@@ -272,7 +331,7 @@ a) A 1.ª Secção, a quem compete todos os assuntos relacionados com concursos,
 
 b) A 2.ª Secção, a quem compete, nomeadamente, os assuntos relacionados com faltas, licenças, diuturnidades, fases, ADSE e Caixa Geral de Aposentações.
 
-###### Art. 18.º - 1 - Compete à Divisão de Apoio Escolar:
+Art. 18.º - 1 - Compete à Divisão de Apoio Escolar:
 
 a) Dar parecer sobre os pedidos de reconhecimento oficial de cursos estrangeiros;
 
@@ -296,7 +355,7 @@ a) A 1.ª Secção, a quem compete, nomeadamente, os assuntos relacionados com d
 
 b) A 2.ª Secção, a quem compete os assuntos relacionados com equivalências.
 
-###### Art. 19.º - 1 - À Divisão de Acção Pedagógica compete:
+Art. 19.º - 1 - À Divisão de Acção Pedagógica compete:
 
 a) Promover a planificação e concretização da rede escolar;
 
@@ -320,7 +379,7 @@ a) O Núcleo de Acção Pedagógica;
 
 b) A Secção de Exames e Reconhecimento Oficial de Cursos.
 
-###### Art. 20.º - 1 - Compete à Repartição Administrativa:
+Art. 20.º - 1 - Compete à Repartição Administrativa:
 
 a) Elaborar a conta de gerência do Gaepe;
 
@@ -342,17 +401,17 @@ b) A Secção de Apoio Geral
 
 ### CAPÍTULO VII — Do pessoal
 
-###### Art. 21.º - 1 - O quadro do pessoal dirigente, técnico superior, técnico, técnico profissional, administrativo e auxiliar do Gaepe é o constante do mapa anexo ao presente diploma, o qual ficará a fazer parte dos quadros comuns dos serviços centrais do Ministério da Educação.
+Art. 21.º - 1 - O quadro do pessoal dirigente, técnico superior, técnico, técnico profissional, administrativo e auxiliar do Gaepe é o constante do mapa anexo ao presente diploma, o qual ficará a fazer parte dos quadros comuns dos serviços centrais do Ministério da Educação.
 
 2 - O quadro referido no número anterior poderá ser alterado por portaria dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
 3 - O pessoal do Gaepe será distribuído pelos serviços mediante despacho do director.
 
-###### Art. 22.º - 1 - O director do Gaepe é equiparado, para todos os efeitos, a subdirector-geral.
+Art. 22.º - 1 - O director do Gaepe é equiparado, para todos os efeitos, a subdirector-geral.
 
 2 - O adjunto do director é equiparado, para todos os efeitos, a director de Serviços.
 
-###### Art. 23.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal do Gaepe são os constantes do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, e do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 23.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal do Gaepe são os constantes do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, do [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, e do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director será provido nos termos dos artigos 2.º e 4.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho;
 
@@ -360,7 +419,7 @@ b) Os lugares de adjunto do director e de chefe de divisão serão providos nos 
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 24.º - 1 - O pessoal que, a qualquer título, se encontra colocado no serviço previsto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), de 12 de Fevereiro, e no Serviço do Ensino Básico Português no Estrangeiro referido no artigo 16.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, poderá ser integrado, desde que para o efeito faça declaração de opção, para idênticos ou equivalentes lugares previstos no quadro anexo, desde que apresente a respectiva declaração de opção no prazo de sessenta dias, contado a partir da publicação do presente diploma.
+Art. 24.º - 1 - O pessoal que, a qualquer título, se encontra colocado no serviço previsto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), de 12 de Fevereiro, e no Serviço do Ensino Básico Português no Estrangeiro referido no artigo 16.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, poderá ser integrado, desde que para o efeito faça declaração de opção, para idênticos ou equivalentes lugares previstos no quadro anexo, desde que apresente a respectiva declaração de opção no prazo de sessenta dias, contado a partir da publicação do presente diploma.
 
 2 - O disposto no número anterior far-se-á por lista nominativa aprovada por despacho do Ministro da Educação, com dispensa de todas as formalidades legais, salvo visto do Tribunal de Contas e publicação no Diário da República.
 
@@ -368,25 +427,25 @@ b) Os lugares de adjunto do director e de chefe de divisão serão providos nos 
 
 4 - Nas integrações referidas nos números anteriores respeitar-se-ão as habilitações legalmente exigidas.
 
-###### Art. 25.º - 1 - Por despacho conjunto dos Ministros das Finanças e da Educação poderá ser autorizada, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos, a contratação além do quadro de pessoal técnico superior ou técnico e administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
+Art. 25.º - 1 - Por despacho conjunto dos Ministros das Finanças e da Educação poderá ser autorizada, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos, a contratação além do quadro de pessoal técnico superior ou técnico e administrativo destinado a ocorrer às necessidades eventuais ou extraordinárias dos serviços.
 
 2 - Os contratos referidos no número anterior serão celebrados pelo prazo de um ano, sendo-lhes aplicável o regime previsto no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, na parte que lhe for aplicável.
 
-###### Art. 26.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual poderá ser confiada, mediante contrato de prestação de serviços, a entidades nacionais ou estrangeiras, sob proposta do director do Gaepe.
+Art. 26.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual poderá ser confiada, mediante contrato de prestação de serviços, a entidades nacionais ou estrangeiras, sob proposta do director do Gaepe.
 
 2 - O contrato referido no número anterior deverá ser reduzido a escrito, dele constando as condições da sua prestação, o prazo e a menção expressa de que não confere a qualidade de agente administrativo.
 
-###### Art. 27.º Por proposta do director, declaração de aceitação pelos interessados e parecer favorável dos respectivos directores-gerais poderá o Ministro da Educação destacar elementos das Direcções-Gerais do Ensino Básico, do Ensino Secundário e de Pessoal para apoio técnico-pedagógico ao Gaepe.
+Art. 27.º Por proposta do director, declaração de aceitação pelos interessados e parecer favorável dos respectivos directores-gerais poderá o Ministro da Educação destacar elementos das Direcções-Gerais do Ensino Básico, do Ensino Secundário e de Pessoal para apoio técnico-pedagógico ao Gaepe.
 
-###### Art. 28.º Passa a ficar afecto ao Gaepe todo o equipamento que à data da entrada em vigor do presente diploma esteja afecto aos serviços mencionados no n.º 2 do artigo 8.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007) e no artigo 16.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008).
+Art. 28.º Passa a ficar afecto ao Gaepe todo o equipamento que à data da entrada em vigor do presente diploma esteja afecto aos serviços mencionados no n.º 2 do artigo 8.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007) e no artigo 16.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008).
 
-###### Art. 29.º Os encargos resultantes da execução do presente diploma são suportados pela rubrica 02 do orçamento do Ministério da Educação.
+Art. 29.º Os encargos resultantes da execução do presente diploma são suportados pela rubrica 02 do orçamento do Ministério da Educação.
 
-###### Art. 30.º Transitam para o orçamento privativo do Gaepe todas as verbas inscritas no orçamento do Ministério da Educação para o ensino básico e secundário português no estrangeiro.
+Art. 30.º Transitam para o orçamento privativo do Gaepe todas as verbas inscritas no orçamento do Ministério da Educação para o ensino básico e secundário português no estrangeiro.
 
-###### Art. 31.º As dúvidas resultantes da execução do presente diploma serão resolvidas por Despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 31.º As dúvidas resultantes da execução do presente diploma serão resolvidas por Despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 32.º É revogada a seguinte legislação:
+Art. 32.º É revogada a seguinte legislação:
 
 a) O n.º 2 do artigo 13.º e o n.º 2 do artigo 14.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734);
 
@@ -394,18 +453,18 @@ b) O n.º 2 do artigo 8.º do [Decreto-Lei n.º 44/73](https://diariodarepublica
 
 c) O n.º 2 do artigo 1.º e o artigo 16.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008).
 
-###### Art. 33.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 33.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldos Veiga da Cunha.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 1 do artigo 21.º do Decreto-Lei n.º 541/79, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30012/02960301.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30012/02960301.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30012/02960301.pdf)
 
-**O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.**
+O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.

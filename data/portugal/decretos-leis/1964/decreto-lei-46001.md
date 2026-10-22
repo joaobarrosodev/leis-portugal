@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46001-1964-536065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e66aea3f490ac8d135b1c424b83de91a3170ff7fb5588d9e7ee5aacb5b38ccf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f4731a04edd7de78ddbc0e83801cba680f4321e98ea07177e65cd9b6d17ea4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Superior de Disciplina da Armada
+- Conselho Superior de Disciplina do Exército
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Processo Disciplinar
+- Sanção Militar
+- Serviço Militar
+relationships:
+- type: cites
+  target: pt:dre:514206:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:58Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os processos de disciplina militar poderão ser revistos quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inocência do condenado e que não puderam ser utilizados pelo arguido no processo disciplinar.
+Artigo 1.º Os processos de disciplina militar poderão ser revistos quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inocência do condenado e que não puderam ser utilizados pelo arguido no processo disciplinar.
 
 § 1.º A revisão deverá ser pedida no prazo de 180 dias, contados da data em que o interessado obteve a possibilidade de invocar as circunstâncias ou os meios de prova alegados como fundamento da revisão.
 
@@ -110,25 +122,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º A revisão não pode ser pedida mais que uma vez pelos mesmos fundamentos de facto.
 
-###### Art. 2.º O interessado na revisão de um processo disciplinar apresentará requerimento nesse sentido ao Conselho Superior de Disciplina do Exército ou da Armada ou à Comissão Técnica da Força Aérea, conforme os casos.
+Art. 2.º O interessado na revisão de um processo disciplinar apresentará requerimento nesse sentido ao Conselho Superior de Disciplina do Exército ou da Armada ou à Comissão Técnica da Força Aérea, conforme os casos.
 
 § único. O requerimento indicará as circunstâncias e todos os meios de prova não considerados no processo a rever que ao requerente pareçam justificar a revisão e deverá ser instruído com os documentos indispensáveis.
 
-###### Art. 3.º Recebido o requerimento, o competente Conselho Superior de Disciplina, ou a Comissão Técnica da Força Aérea, resolverá sobre se deve ou não ser concedida a revisão do processo.
+Art. 3.º Recebido o requerimento, o competente Conselho Superior de Disciplina, ou a Comissão Técnica da Força Aérea, resolverá sobre se deve ou não ser concedida a revisão do processo.
 
 § único. É definitiva e inatacável a decisão que não conceder a revisão.
 
-###### Art. 4.º Concedida a revisão, será o respectivo processo apenso ao processo a rever, seguindo-se na instrução e julgamento os trâmites estabelecidos nos artigos 171.º a 185.º do Regulamento de Disciplina Militar que forem aplicáveis.
+Art. 4.º Concedida a revisão, será o respectivo processo apenso ao processo a rever, seguindo-se na instrução e julgamento os trâmites estabelecidos nos artigos 171.º a 185.º do Regulamento de Disciplina Militar que forem aplicáveis.
 
 § único. Serão recusados os documentos e as diligências desnecessários à descoberta da verdade, podendo ser mandado retirar os documentos que estiverem nessas condições.
 
-###### Art. 5.º Se o punido estiver impossibilitado de organizar a sua defesa, em virtude de anomalia mental ou física, por motivo de doença, o Conselho Superior de Disciplina respectivo, ou a Comissão Técnica da Força Aérea, nomeará um curador, preferindo no entanto a pessoa a quem competiria a tutela no caso de interdição, segundo a ordem estabelecida nos n.os 1.º, 2.º e 3.º do artigo 320.º do Código Civil.
+Art. 5.º Se o punido estiver impossibilitado de organizar a sua defesa, em virtude de anomalia mental ou física, por motivo de doença, o Conselho Superior de Disciplina respectivo, ou a Comissão Técnica da Força Aérea, nomeará um curador, preferindo no entanto a pessoa a quem competiria a tutela no caso de interdição, segundo a ordem estabelecida nos n.os 1.º, 2.º e 3.º do artigo 320.º do Código Civil.
 
 § único. Esta nomeação é restrita à revisão dos processos disciplinares, podendo o curador usar de todos os meios de defesa facultados aos infractores.
 
-###### Art. 6.º No julgamento, o Conselho Superior de Disciplina respectivo ou a Comissão Técnica da Força Aérea pode concluir pela inocência do condenado, ou pela sua menor culpabilidade, ou ainda pela procedência da acusação.
+Art. 6.º No julgamento, o Conselho Superior de Disciplina respectivo ou a Comissão Técnica da Força Aérea pode concluir pela inocência do condenado, ou pela sua menor culpabilidade, ou ainda pela procedência da acusação.
 
-###### Art. 7.º Julgando-se procedente a revisão, será revogada, total ou parcialmente, a decisão proferida no processo revisto, consoante se concluir pela inocência do arguido ou tão-sòmente pela sua menor culpabilidade.
+Art. 7.º Julgando-se procedente a revisão, será revogada, total ou parcialmente, a decisão proferida no processo revisto, consoante se concluir pela inocência do arguido ou tão-sòmente pela sua menor culpabilidade.
 
 § único. A revogação a que se refere este artigo produzirá os seguintes efeitos:
 
@@ -138,35 +150,35 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Direito a uma indemnização, se o reabilitado a pedir, nos termos e condições a estabelecer.
 
-###### Art. 8.º O militar reintegrado no activo, se, entretanto, lhe houvesse competido a promoção, reocupará o seu lugar na escala, depois de ter realizado com aproveitamento os cursos ou concursos que constituem condições especiais de promoção e desde que satisfaça a outras condições de promoção que eventualmente venham a ser exigidas em cada ramo das Forças Armadas por portaria do respectivo Ministro ou Secretário de Estado.
+Art. 8.º O militar reintegrado no activo, se, entretanto, lhe houvesse competido a promoção, reocupará o seu lugar na escala, depois de ter realizado com aproveitamento os cursos ou concursos que constituem condições especiais de promoção e desde que satisfaça a outras condições de promoção que eventualmente venham a ser exigidas em cada ramo das Forças Armadas por portaria do respectivo Ministro ou Secretário de Estado.
 
 § 1.º Nas promoções por escolha, o militar será colocado no lugar determinado pelo Conselho Superior do Exército, pelo Conselho Superior da Armada, ou pela Comissão Técnica da Força Aérea, conforme os casos, após ter satisfeito as condições de promoção.
 
 § 2.º Se não houver vacatura nos quadros, aquando da promoção do reabilitado, este ficará supranumerário sem qualquer diminuição nos seus vencimentos, até preenchimento da primeira vaga que se verifique no mesmo quadro.
 
-###### Art. 9.º O militar reintegrado na reserva é dispensado de todas as condições legais de promoção, com excepção dos cursos ou concursos que constituam condições especiais de promoção a sargento, a oficial, a oficial superior e a oficial general, conforme os casos, em condições a fixar, em portaria, pelo Ministro e Secretário de Estado do respectivo departamento militar.
+Art. 9.º O militar reintegrado na reserva é dispensado de todas as condições legais de promoção, com excepção dos cursos ou concursos que constituam condições especiais de promoção a sargento, a oficial, a oficial superior e a oficial general, conforme os casos, em condições a fixar, em portaria, pelo Ministro e Secretário de Estado do respectivo departamento militar.
 
-###### Art. 10.º O militar reintegrado na reforma é dispensado de todas as condições legais de promoção, mas o limito máximo dos postos em que se pode efectuar a reintegração será, conforme os casos, o de cabo ou primeiro-cabo, o de sargento-ajudante e o de capitão-de-mar-e-guerra ou coronel, salvo para os oficiais generais, cuja reintegração se fará no posto que tinham à data da punição.
+Art. 10.º O militar reintegrado na reforma é dispensado de todas as condições legais de promoção, mas o limito máximo dos postos em que se pode efectuar a reintegração será, conforme os casos, o de cabo ou primeiro-cabo, o de sargento-ajudante e o de capitão-de-mar-e-guerra ou coronel, salvo para os oficiais generais, cuja reintegração se fará no posto que tinham à data da punição.
 
 § único. O mesmo procedimento se adoptará em relação ao militar que nos termos do artigo 9.º for reintegrado na reserva, quando transitar para a reforma em razão de atingir o limite de idade.
 
-###### Art. 11.º A simples substituição da pena sòmente produz efeitos a partir da data do respectivo cumprimento.
+Art. 11.º A simples substituição da pena sòmente produz efeitos a partir da data do respectivo cumprimento.
 
-###### Art. 12.º São condições para poder beneficiar da reintegração prevista neste diploma:
+Art. 12.º São condições para poder beneficiar da reintegração prevista neste diploma:
 
 a) Não ter sido, posteriormente ao afastamento do serviço, condenado a pena maior ou abrangido pelo disposto no artigo 78.º do Código Penal.
 
 b) Estar integrado na ordem social estabelecida.
 
-###### Art. 13.º Para todos os efeitos, incluindo o da liquidação das respectivas pensões de reserva e de reforma, será contado todo o tempo que o reintegrado permaneceu compulsivamente afastado do activo.
+Art. 13.º Para todos os efeitos, incluindo o da liquidação das respectivas pensões de reserva e de reforma, será contado todo o tempo que o reintegrado permaneceu compulsivamente afastado do activo.
 
 § 1.º Em nenhum caso serão pagos os vencimentos ou pensões deixados de perceber.
 
 § 2.º Ao militar reabilitado competirá satisfazer à Caixa Geral de Aposentações o quantitativo das quotas correspondentes ao período durante o qual esteve afastado do serviço.
 
-###### Art. 14.º A revisão do processo não suspende, em regra, o cumprimento da pena. Se, porém, esta for privativa da liberdade, a entidade que concedeu a revisão poderá autorizar a sua suspensão.
+Art. 14.º A revisão do processo não suspende, em regra, o cumprimento da pena. Se, porém, esta for privativa da liberdade, a entidade que concedeu a revisão poderá autorizar a sua suspensão.
 
-###### Art. 15.º O presente diploma é igualmente aplicável:
+Art. 15.º O presente diploma é igualmente aplicável:
 
 a) Ao militar punido e reintegrado no activo por se ter reconhecido a sua inocência, antes da vigência do [Decreto-Lei n.º 43310](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43310-1960-514206).
 
@@ -180,8 +192,8 @@ d) processos já revistos ou pendentes nos termos do referido decreto-lei.
 
 § 2.º O militar nas condições da alínea c) deverá ser sujeito, prèviamente, à junta de saúde do respectivo departamento, para o efeito de saber se deve continuar na situação de reforma ou transitar para a de reserva, aplicando-se-lhe a doutrina do parágrafo anterior.
 
-###### Art. 16.º Fica revogado o [Decreto-Lei n.º 43310](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43310-1960-514206), de 14 de Novembro de 1960.
+Art. 16.º Fica revogado o [Decreto-Lei n.º 43310](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43310-1960-514206), de 14 de Novembro de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.

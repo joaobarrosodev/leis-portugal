@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/192-1970-142076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f7edaa437fbead6a628327042aa9777f3feeabbc2a87583c3d0161794b76b0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30e02c56d92b89d4209a1edb960077b2b1ae014204665812d354c8386c99e594
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,15 +73,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:09Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +100,21 @@ Atendendo a que, embora não incluindo a assistência na tuberculose, em relaç�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São extensivas ao pessoal do Ministério do Ultramar, seus organismos consultivos e dependentes as disposições dos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino, no tocante à assistência nos casos de câncer, lepra, doença do sono e doenças mentais.
+Artigo 1.º - 1. São extensivas ao pessoal do Ministério do Ultramar, seus organismos consultivos e dependentes as disposições dos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino, no tocante à assistência nos casos de câncer, lepra, doença do sono e doenças mentais.
 
 2. A assistência nos casos de tuberculose ao mesmo pessoal continua a reger-se pela legislação que actualmente lhe é aplicável.
 
-###### Art. 2.º Na extensão ao pessoal a que se refere o artigo 1.º do disposto nos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino, as referências aos governadores ultramarinos e às juntas de saúde locais consideram-se feitas ao Ministro do Ultramar e à Junta de Saúde do Ultramar.
+Art. 2.º Na extensão ao pessoal a que se refere o artigo 1.º do disposto nos artigos 305.º a 312.º do Estatuto do Funcionalismo Ultramarino, as referências aos governadores ultramarinos e às juntas de saúde locais consideram-se feitas ao Ministro do Ultramar e à Junta de Saúde do Ultramar.
 
-###### Art. 3.º O desconto a que se refere o artigo 312.º do Estatuto do Funcionalismo Ultramarino, bem como a redução prevista no § 4.º do artigo 310.º do mesmo diploma, serão feitos nos vencimentos ou salários do pessoal que ficar abrangido pelo disposto no artigo 1.º do presente diploma, constituindo receita do Hospital do Ultramar destinada a suportar os encargos com a assistência nos casos de câncer, lepra, doença do sono e doenças mentais.
+Art. 3.º O desconto a que se refere o artigo 312.º do Estatuto do Funcionalismo Ultramarino, bem como a redução prevista no § 4.º do artigo 310.º do mesmo diploma, serão feitos nos vencimentos ou salários do pessoal que ficar abrangido pelo disposto no artigo 1.º do presente diploma, constituindo receita do Hospital do Ultramar destinada a suportar os encargos com a assistência nos casos de câncer, lepra, doença do sono e doenças mentais.
 
 O Hospital do Ultramar promoverá as diligências para o reforço da dotação respectiva, sempre que necessário.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Abril de 1970.**
+Promulgado em 22 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência de República, 1 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48009-1967-388645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecff58119776cb1258501d42aa8f1355591d9aa794787970bb3d440602251948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 303db919f0be23eaab0939d424a0ee51d0cb9e5677f51a30a7242cae6c28a4b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Sanitária
+- Controlo Sanitário
+- Embarcação
+- Fiscalização
+- Ministro da Saúde e Assistência
+- Multa
+- Portos
+- Saúde Pública
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:485635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485635:por
+  label: "Dada nova redacção ao art. 8º pelo DEC LEI.8/2011.11.01.2011.MS, DR.IS [7] de 11.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2011-485635
+  date: '2011-01-11'
+- type: cites
+  target: pt:dre:172772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501994:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:02Z'
   warnings: []
   errors: []
 ---
@@ -98,31 +124,31 @@ Concluída essa revisão e considerando a vantagem de ajustar a defesa dos porto
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As embarcações que entrarem nos portos do continente e das ilhas adjacentes e não pertençam à pesca costeira ou à navegação costeira nacional, antes de qualquer comunicação com terra ou com outras embarcações, devem ser sujeitas a visita de saúde pela autoridade sanitária ou por quem a represente, para verificação das suas condições sanitárias. Exceptuam-se os casos em que a livre prática lhes seja concedida pela T. S. F. ou a visita dispensada nos termos da legislação complementar deste diploma.
+Artigo 1.º - 1. As embarcações que entrarem nos portos do continente e das ilhas adjacentes e não pertençam à pesca costeira ou à navegação costeira nacional, antes de qualquer comunicação com terra ou com outras embarcações, devem ser sujeitas a visita de saúde pela autoridade sanitária ou por quem a represente, para verificação das suas condições sanitárias. Exceptuam-se os casos em que a livre prática lhes seja concedida pela T. S. F. ou a visita dispensada nos termos da legislação complementar deste diploma.
 
 2. A visita de saúde, sempre que deva efectuar-se, precede as da alfândega e da polícia, e sem que a embarcação tenha sido visitada pela autoridade sanitária ninguém poderá comunicar com o navio sem sua licença.
 
 3. Os barcos de recreio continuam sujeitos ao regime estabelecido pela [Portaria n.º 18578](https://diariodarepublica.pt/dr/detalhe/portaria/18578-1961-172772), de 7 de Julho de 1961.
 
-###### Art. 2.º Para efeitos da fiscalização sanitária marítima, as embarcações de comércio, pesca e reboque agrupam-se nas categorias seguintes: navios de passageiros, que se destinam principalmente ao transporte de passageiros; navios de carga, seca ou em tanques; navios mistos, considerando-se como tais os que, embora transportando passageiros, são principalmente ocupados no transporte de carga; navios de pesca, e rebocadores de alto mar.
+Art. 2.º Para efeitos da fiscalização sanitária marítima, as embarcações de comércio, pesca e reboque agrupam-se nas categorias seguintes: navios de passageiros, que se destinam principalmente ao transporte de passageiros; navios de carga, seca ou em tanques; navios mistos, considerando-se como tais os que, embora transportando passageiros, são principalmente ocupados no transporte de carga; navios de pesca, e rebocadores de alto mar.
 
-###### Art. 3.º No caso de dispensa de visita de saúde, poderá determinar-se a apresentação ao piloto da declaração marítima de saúde, cabendo a este rubricá-la após ter verificado se entre os portos de procedência e escala se encontra algum dos que forem notificados às capitanias, pelos serviços sanitários competentes, como estando contaminados ou fazendo parte de zonas frequentemente contaminadas.
+Art. 3.º No caso de dispensa de visita de saúde, poderá determinar-se a apresentação ao piloto da declaração marítima de saúde, cabendo a este rubricá-la após ter verificado se entre os portos de procedência e escala se encontra algum dos que forem notificados às capitanias, pelos serviços sanitários competentes, como estando contaminados ou fazendo parte de zonas frequentemente contaminadas.
 
-###### Art. 4.º - 1. Durante o dia, o piloto que entrar a bordo fará içar no tope de proa o sinal do Código Internacional de Sinais que a regulamentação complementar estabelecer.
+Art. 4.º - 1. Durante o dia, o piloto que entrar a bordo fará içar no tope de proa o sinal do Código Internacional de Sinais que a regulamentação complementar estabelecer.
 
 2. As embarcações entradas durante a noite, para as quais for pedida a visita de saúde, devem trazer a partir do tope de proa dois faróis, um vermelho por cima de outro branco e separados de 1,83 cm.
 
-###### Art. 5.º - 1. Os armadores e os agentes de navegação devem dispor de serviços que possam receber comunicações ou pedidos de informações complementares das autoridades sanitárias.
+Art. 5.º - 1. Os armadores e os agentes de navegação devem dispor de serviços que possam receber comunicações ou pedidos de informações complementares das autoridades sanitárias.
 
 2. As despesas com a recepção ou transmissão de mensagens radiotelegráficas, quer com os capitães dos navios, quer com as entidades oficiais, assim como outras diligências com elas relacionadas, constituem encargo obrigatório dos armadores e agentes de navegação.
 
-###### Art. 6.º - 1. Os serviços sanitários marítimos deverão concertar com os serviços competentes da administração dos portos a forma de serem avisados, com a antecedência necessária, dos locais onde devem acostar ou fundear os navios aos quais é dada a livre prática pela T. S. F. ou dispensada a visita de saúde.
+Art. 6.º - 1. Os serviços sanitários marítimos deverão concertar com os serviços competentes da administração dos portos a forma de serem avisados, com a antecedência necessária, dos locais onde devem acostar ou fundear os navios aos quais é dada a livre prática pela T. S. F. ou dispensada a visita de saúde.
 
 2. Os armadores e os agentes dos navios devem comunicar aos serviços das alfândegas e da polícia o nome e hora presumível da chegada das embarcações a que respeita a livre prática pela T. S. F. ou a dispensa de visita de saúde e os pilotos não devem permitir que os navios que fundeiem ou se dirijam directamente aos cais estabeleçam comunicações com terra ou com outras embarcações antes de se efectuar a visita da polícia e de entrarem a bordo os agentes da fiscalização aduaneira.
 
-###### Art. 7.º As embarcações entradas, durante a sua estadia nos portos, ficam sujeitas à fiscalização da autoridade sanitária, que a exercerá em qualquer momento, quer para averiguação das condições de salubridade, quer no que respeita a doenças infecciosas, sua profilaxia, verificação de óbitos e outras intervenções de carácter sanitário.
+Art. 7.º As embarcações entradas, durante a sua estadia nos portos, ficam sujeitas à fiscalização da autoridade sanitária, que a exercerá em qualquer momento, quer para averiguação das condições de salubridade, quer no que respeita a doenças infecciosas, sua profilaxia, verificação de óbitos e outras intervenções de carácter sanitário.
 
-###### Art. 8.º - 1. As transgressões ao presente diploma serão punidas com as multas prescritas neste artigo, que serão elevadas para o dobro em caso de reincidência, sem prejuízo da aplicação de quaisquer outras sanções que ao caso couber.
+Art. 8.º - 1. As transgressões ao presente diploma serão punidas com as multas prescritas neste artigo, que serão elevadas para o dobro em caso de reincidência, sem prejuízo da aplicação de quaisquer outras sanções que ao caso couber.
 
 2. Estas multas serão aplicadas normalmente aos seguintes casos:
 
@@ -138,20 +164,20 @@ e) A inobservância de determinações da autoridade sanitária com fundamento e
 
 3. A multa será aplicada ao capitão do navio que tiver cometido a falta, nos casos referidos nas alíneas a), b), c) e d) do número anterior, e ao capitão, armador ou agente de navegação que for responsável pela inobservância indicada na alínea e).
 
-###### Art. 9.º - 1. Os autos serão levantados pelos guardas-mores ou pelos funcionários que os representem.
+Art. 9.º - 1. Os autos serão levantados pelos guardas-mores ou pelos funcionários que os representem.
 
 2. Os autos deverão ser elaborados nos termos do artigo 166.º do Código de Processo Penal, na parte aplicável.
 
-###### Art. 10.º Da aplicação das multas cabe recurso para o Ministro da Saúde e Assistência, ouvido o Conselho Superior de Higiente e Assistência Social.
+Art. 10.º Da aplicação das multas cabe recurso para o Ministro da Saúde e Assistência, ouvido o Conselho Superior de Higiente e Assistência Social.
 
-###### Art. 11.º A concessão da livre prática pela rádio ou a dispensa de visita de saúde não exclui o cumprimento do disposto nos diplomas referentes a serviços extraordinários; os armadores e agentes de navegação devem requerer esses serviços indicando a hora para que são solicitados, a fim de as estações de saúde se manterem em condições de actuar, sem demora, à chegada dos navios.
+Art. 11.º A concessão da livre prática pela rádio ou a dispensa de visita de saúde não exclui o cumprimento do disposto nos diplomas referentes a serviços extraordinários; os armadores e agentes de navegação devem requerer esses serviços indicando a hora para que são solicitados, a fim de as estações de saúde se manterem em condições de actuar, sem demora, à chegada dos navios.
 
-###### Art. 12.º A regulamentação do presente diploma será feita mediante portaria do Ministro da Saúde e Assistência.
+Art. 12.º A regulamentação do presente diploma será feita mediante portaria do Ministro da Saúde e Assistência.
 
-###### Art. 13.º O Ministro da Saúde e Assistência pode suspender a concessão da livre prática pela T. S. F., bem como a dispensa de visitas de saúde, se razões de ordem sanitária assim o aconselharem e pelo período em que se mantiverem.
+Art. 13.º O Ministro da Saúde e Assistência pode suspender a concessão da livre prática pela T. S. F., bem como a dispensa de visitas de saúde, se razões de ordem sanitária assim o aconselharem e pelo período em que se mantiverem.
 
-###### Art. 14.º Ficam revogados o [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560), de 7 de Setembro de 1950, e a [Portaria n.º 17841](https://diariodarepublica.pt/dr/detalhe/portaria/17841-1960-501994), de 20 de Julho de 1960.
+Art. 14.º Ficam revogados o [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560), de 7 de Setembro de 1950, e a [Portaria n.º 17841](https://diariodarepublica.pt/dr/detalhe/portaria/17841-1960-501994), de 20 de Julho de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

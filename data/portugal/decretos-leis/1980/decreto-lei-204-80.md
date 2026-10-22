@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14700/14821493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1980-473554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f5eb180248f9011d391c0a9c7534f38695bc4413c608cece9f7fca21e02721d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aafd720308f174d1a499ba12b84ebc87cea1317b853da4503b31aa04994424d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Ministério da Habitação e Obras Públicas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:329449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609297:por
+  label: "Alterado pela PORT.281/82.1982.03.16.MFP, DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-1982-609297
+  date: '1982-03-16'
+- type: amended_by
+  target: pt:dre:654928:por
+  label: "Alterado o quadro de pessoal pela PORT.248/84.1984.04.18.PCM,DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/248-1984-654928
+  date: '1984-04-18'
+- type: amended_by
+  target: pt:dre:387153:por
+  label: "Alterado, na parte refrente ao pessoal técnico, o quadro de pessoal da Direcção-Geral dos Edifícios e Monumentos\
+    \ Nacionais pela PORT.399/84.1984.06.20.PCM,DR.IS [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/399-1984-387153
+  date: '1984-06-20'
+- type: amended_by
+  target: pt:dre:401484:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral dos Edifícios e\
+    \ Monumentos Nacionais pela PORT.887/84.1984.12.05.PCM,DR.IS [281]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/887-1984-401484
+  date: '1984-12-05'
+- type: amended_by
+  target: pt:dre:420456:por
+  label: "Alterado, na parte referente ao pessoal auxiliar, o quadro de pessoal da Direcção-Geral dos Edifícios e Monumentos\
+    \ Nacionais pela PORT.619/87.1987.07.18.MF,DR.IS [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-1987-420456
+  date: '1987-07-18'
+- type: amended_by
+  target: pt:dre:354765:por
+  label: "Substituído o quadro de pessoal da Direcção-Geral dos Edifícios e Monumentos Nacionais pela PORT.668/88.1988.10.06.MF,DR.IS\
+    \ [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/668-1988-354765
+  date: '1988-10-06'
+- type: cites
+  target: pt:dre:139239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391817:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460804:por
+  label: Rectificado pela DECL.DD6883.27.08.1980.PCM, DR.IS [211] de 12.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460804
+  date: '1980-08-27'
+- type: repealed_by
+  target: pt:dre:329449:por
+  label: "Revogado pelo DEC LEI.284/93.1993.08.18.MOPTC,DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1993-329449
+  date: '1993-08-18'
 article_structure:
   article_count: 50
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:08Z'
   warnings: []
   errors: []
 ---
@@ -870,14 +958,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 13 de Junho de 1980.**
+Promulgado em 13 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA ANEXO
 
 Quadro e vencimentos do pessoal da Direcção-Geral dos Edifícios e Monumentos Nacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14700/14821493.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14700/14821493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14700/14821493.pdf)

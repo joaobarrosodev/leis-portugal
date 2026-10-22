@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44393-1962-164836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 597db5b623fc66ca0709629c1a3f9c6db0f289fc5baab90ed943c0140fc1b7f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80330b6811a3fdb6c874201e846fe3342e7db2eef32a796f080e45808a44daba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Serviço
+- Conselho Superior de Transportes Terrestres
+- Definição de Competências
+- Direcção Geral dos Transportes Terrestres
+- Mandato
+- Ministério das Comunicações
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Subsídio
+- Substituição de Funções
+- Transporte Terrestre
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:04Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +129,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É revogado o artigo 9.º e passam a ter a seguinte redacção os artigos 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 14.º, 15.º e 16.º do [Decreto-Lei n.º 35196](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35196-1945-219712), de 24 de Novembro de 1945:
+Artigo 1.º É revogado o artigo 9.º e passam a ter a seguinte redacção os artigos 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 14.º, 15.º e 16.º do [Decreto-Lei n.º 35196](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35196-1945-219712), de 24 de Novembro de 1945:
 
-###### Art. 5.º O Conselho Superior de Transportes Terrestres terá como presidente nato o Ministro das Comunicações e como presidente efectivo, por sua delegação, um engenheiro de sua livre escolha e nomeação.
+Art. 5.º O Conselho Superior de Transportes Terrestres terá como presidente nato o Ministro das Comunicações e como presidente efectivo, por sua delegação, um engenheiro de sua livre escolha e nomeação.
 
 § 1.º O lugar de presidente efectivo é exercido em regime de comissão de serviço anual, que se considerará sucessivamente renovada, sem dependência de qualquer formalidade, ou em regime de acumulação de serviço.
 
 § 2.º Por simples despacho, pode o Ministro das Comunicações dar por finda a prestação de serviço, seja qual for o seu regime.
 
-###### Art. 6.º Além dos presidentes, constituirão o Conselho os seguintes vogais, dos quais um será designado vice-presidente por despacho do Ministro das Comunicações:
+Art. 6.º Além dos presidentes, constituirão o Conselho os seguintes vogais, dos quais um será designado vice-presidente por despacho do Ministro das Comunicações:
 
 a) Um delegado da Direcção-Geral de Transportes Terrestres de categoria não inferior a chefe de repartição;
 
@@ -139,9 +175,9 @@ m) Dois representantes da Companhia dos Caminhos de Ferro Portugueses, por ela i
 
 § 3.º Os vogais do Conselho exercem o seu mandato por dois anos, podendo ser reconduzidos.
 
-###### Art. 7.º Sempre que julgue conveniente, o Conselho Superior de Transportes Terrestres poderá ouvir as entidades ou organismos competentes sobre quaisquer aspectos dos assuntos submetidos à sua apreciação.
+Art. 7.º Sempre que julgue conveniente, o Conselho Superior de Transportes Terrestres poderá ouvir as entidades ou organismos competentes sobre quaisquer aspectos dos assuntos submetidos à sua apreciação.
 
-###### Art. 8.º O Conselho terá um secretário, de livre escolha do Ministro das Comunicações entre funcionários da Direcção-Geral de Transportes Terrestres, ouvido o respectivo director-geral.
+Art. 8.º O Conselho terá um secretário, de livre escolha do Ministro das Comunicações entre funcionários da Direcção-Geral de Transportes Terrestres, ouvido o respectivo director-geral.
 
 § 1.º O funcionário assim escolhido exercerá o cargo em regime de comissão ou acumulação de serviço, conforme for determinado no acto da sua escolha.
 
@@ -151,7 +187,7 @@ m) Dois representantes da Companhia dos Caminhos de Ferro Portugueses, por ela i
 
 ...
 
-###### Art. 10.º O Conselho reúne, ordinàriamente, em sessão plenária, uma vez por mês e, extraordinàriamente, sempre que for necessário, mediante convocação do Ministro das Comunicações ou do presidente efectivo, ou a pedido de um terço dos seus membros.
+Art. 10.º O Conselho reúne, ordinàriamente, em sessão plenária, uma vez por mês e, extraordinàriamente, sempre que for necessário, mediante convocação do Ministro das Comunicações ou do presidente efectivo, ou a pedido de um terço dos seus membros.
 
 § 1.º O Conselho funcionará legalmente sempre que esteja presente a maioria dos seus membros.
 
@@ -161,7 +197,7 @@ m) Dois representantes da Companhia dos Caminhos de Ferro Portugueses, por ela i
 
 § 4.º Nenhum dos membros presentes a uma sessão pode abster-se de votar, sendo-lhe lícito, porém, fazer declarações ou apresentar voto em separado; neste caso o voto será lido em sessão, mas não discutido. O secretário do Conselho não tem direito de voto.
 
-###### Art. 11.º Ao presidente efectivo do Conselho Superior de Transportes Terrestres compete:
+Art. 11.º Ao presidente efectivo do Conselho Superior de Transportes Terrestres compete:
 
 a) Orientar superiormente o Conselho segundo as directrizes que lhe forem indicadas pelo Governo e promover o perfeito cumprimento das disposições legais reguladoras da missão que lhe fica atribuída;
 
@@ -171,7 +207,7 @@ c) Ordenar a convocação das reuniões plenárias e dirigir os respectivos trab
 
 § único. Nos seus impedimentos o presidente efectivo será substituído pelo vice-presidente.
 
-###### Art. 12.º Ao secretário do Conselho compete:
+Art. 12.º Ao secretário do Conselho compete:
 
 a) Secretariar as sessões, lavrando as competentes actas;
 
@@ -185,9 +221,9 @@ d) Elaborar, até ao dia 31 de Março de cada ano, o relatório do movimento do 
 
 ...
 
-###### Art. 14.º Os pareceres, estudos ou informações aprovados pelo Conselho serão remetidos à Direcção-Geral de Transportes Terrestres e por esta submetidos a despacho ministerial, acompanhados dos pareceres e votos em separado que tenham sido emitidos.
+Art. 14.º Os pareceres, estudos ou informações aprovados pelo Conselho serão remetidos à Direcção-Geral de Transportes Terrestres e por esta submetidos a despacho ministerial, acompanhados dos pareceres e votos em separado que tenham sido emitidos.
 
-###### Art. 15.º Todo o serviço de expediente será feito numa secção, que servirá de secretaria, sob as ordens do secretário do Conselho.
+Art. 15.º Todo o serviço de expediente será feito numa secção, que servirá de secretaria, sob as ordens do secretário do Conselho.
 
 § 1.º O pessoal desta secção será o seguinte, com as remunerações estabelecidas legalmente para as respectivas categorias:
 
@@ -203,14 +239,14 @@ Este pessoal pertencerá ao quadro da Secretaria-Geral do Ministério das Comuni
 
 § 2.º No orçamento da Secretaria-Geral do Ministério das Comunicações serão incluídas as verbas correspondentes ao pagamento das despesas com o pessoal e o material necessários ao funcionamento do Conselho.
 
-###### Art. 16.º O presidente efectivo e o secretário terão direito a um vencimento correspondente, respectivamente, aos grupos B e F do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, ou a uma gratificação a fixar por despacho do Ministro das Comunicações com o acordo do Ministro das Finanças, quando funcionários do Estado e desempenhem o cargo em regime de acumulação.
+Art. 16.º O presidente efectivo e o secretário terão direito a um vencimento correspondente, respectivamente, aos grupos B e F do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, ou a uma gratificação a fixar por despacho do Ministro das Comunicações com o acordo do Ministro das Finanças, quando funcionários do Estado e desempenhem o cargo em regime de acumulação.
 
 § único. A gratificação é acumulável com as remunerações que o nomeado perceba pelo exercício de outras funções públicas, ficando no entanto sujeita ao limite estabelecido no [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 2.º Os vogais do Conselho presentemente em exercício manterão o seu mandato até ao fim do prazo para que haviam sido designados.
+Art. 2.º Os vogais do Conselho presentemente em exercício manterão o seu mandato até ao fim do prazo para que haviam sido designados.
 
-###### Art. 3.º Ficam revogados, no que respeita ao Conselho Superior de Transportes Terrestres, o § único do artigo 20.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), o § único do artigo 9.º do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673) e o artigo 19.º do [Decreto-Lei n.º 41405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41405-1957-251461), com data de 20 de Julho de 1948 os dois primeiros e de 27 de Novembro de 1951 o último.
+Art. 3.º Ficam revogados, no que respeita ao Conselho Superior de Transportes Terrestres, o § único do artigo 20.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), o § único do artigo 9.º do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673) e o artigo 19.º do [Decreto-Lei n.º 41405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41405-1957-251461), com data de 20 de Julho de 1948 os dois primeiros e de 27 de Novembro de 1951 o último.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

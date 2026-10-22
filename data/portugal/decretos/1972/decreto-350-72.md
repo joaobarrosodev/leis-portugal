@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/350-1972-688403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74d3e45f7e90a6e6f14ada4527189bd8339c882e3ae593a640318f2a69d22738
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2cd1e42a2f1bf60aff1525b995334308a5edcf6a1d3c770b6ce68593d29f9b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:37Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ Assim, por motivo de urgência, nos termos do § 3.º do artigo 136.º da Consti
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. É criada a Exploração do Aproveitamento do Calueque, abreviadamente designada por E. A. C.
+Artigo 1.º - 1. É criada a Exploração do Aproveitamento do Calueque, abreviadamente designada por E. A. C.
 
 2. A E. A. C. é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, sob a dependência imediata do Governador-Geral do Estado de Angola.
 
@@ -104,19 +104,19 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. Nos casos omissos serão observadas, com as necessárias adaptações, as normas que regulam a actividade das empresas comerciais, a competência dos seus órgãos e as relações dessas empresas com os seus colaboradores.
 
-###### Art. 2.º O local da sede da E. A. C. será fixado por despacho do Governador-Geral de Angola.
+Art. 2.º O local da sede da E. A. C. será fixado por despacho do Governador-Geral de Angola.
 
-###### Art. 3.º Constitui atribuição da E. A. C. gerir o estabelecimento do Calueque, em execução do Acordo de 21 de Janeiro de 1969, sobre a primeira fase do aproveitamento dos recursos hídricos da bacia do Cunene, assinado com a República da África do Sul.
+Art. 3.º Constitui atribuição da E. A. C. gerir o estabelecimento do Calueque, em execução do Acordo de 21 de Janeiro de 1969, sobre a primeira fase do aproveitamento dos recursos hídricos da bacia do Cunene, assinado com a República da África do Sul.
 
-###### Art. 4.º São receitas da E. A. C. as previstas no Acordo de 21 de Janeiro de 1969 com a República da África do Sul.
+Art. 4.º São receitas da E. A. C. as previstas no Acordo de 21 de Janeiro de 1969 com a República da África do Sul.
 
-###### Art. 5.º - 1. A E. A. C. é administrada por uma direcção composta por três membros.
+Art. 5.º - 1. A E. A. C. é administrada por uma direcção composta por três membros.
 
 2. Exercerá as funções de presidente o director-delegado do Gabinete do Plano do Cunene ou, nas suas faltas ou impedimentos, o seu substituto legal.
 
 3. Os restantes membros da direcção serão nomeados por despacho do Governador-Geral do Estado de Angola, de entre o pessoal superior da E. A. C.
 
-###### Art. 6.º - 1. Compete ao Ministro do Ultramar:
+Art. 6.º - 1. Compete ao Ministro do Ultramar:
 
 a) Fixar a competência da direcção, as regras do seu funcionamento e a remuneração dos seus membros;
 
@@ -132,10 +132,10 @@ e) Autorizar a criação de serviços sociais e definir as atribuições respect
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Agosto de 1972.**
+Promulgado em 28 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

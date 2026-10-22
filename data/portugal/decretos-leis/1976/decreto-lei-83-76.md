@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02300/02070208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1976-506868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57a3008a5fb72e0f6666fabe2c491ac65db6f8414adb750b12546db59a2689f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5028ecd2e21c45f583e51ef0589a0db647b6636461c130ac5a9d964744495e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condutor
+- Desalojado
+- Licença de Aluguer
+- Licença de Transporte
+- Transporte de Passageiros
+- Veículo
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:382828:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:39Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +106,20 @@ Neste termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os cidadãos portugueses regressados das ex-colónias e que nelas tenham exercido por período superior a um ano a actividade de motoristas profissionais, ou de industriais de transporte, desde que, neste caso, exercessem pessoalmente a actividade de condução de veículos de sua propriedade, poderão inscrever-se no sindicato de motoristas da área da sua residência como motoristas profissionais desempregados.
+Artigo 1.º - 1. Os cidadãos portugueses regressados das ex-colónias e que nelas tenham exercido por período superior a um ano a actividade de motoristas profissionais, ou de industriais de transporte, desde que, neste caso, exercessem pessoalmente a actividade de condução de veículos de sua propriedade, poderão inscrever-se no sindicato de motoristas da área da sua residência como motoristas profissionais desempregados.
 
 2. É exigível prova documental suficiente do exercício efectivo da actividade referida no número antecedente, bem como, em caso de dúvida, a prova da qualidade de cidadão português.
 
-###### Art. 2.º Na atribuição de licenças para a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros, os regressados dos territórios das ex-colónias sindicalizados concorrem em igualdade de circunstâncias com os motoristas profissionais do continente, sendo-lhes levado em conta o tempo de exercício efectivo da profissão naqueles territórios, devidamente comprovado.
+Art. 2.º Na atribuição de licenças para a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros, os regressados dos territórios das ex-colónias sindicalizados concorrem em igualdade de circunstâncias com os motoristas profissionais do continente, sendo-lhes levado em conta o tempo de exercício efectivo da profissão naqueles territórios, devidamente comprovado.
 
-###### Art. 3.º O regime estabelecido no artigo anterior caducará passado um ano, a contar da data de efectivação do primeiro concurso para a atribuição de licenças de aluguer na área de residência do regressado das antigas colónias.
+Art. 3.º O regime estabelecido no artigo anterior caducará passado um ano, a contar da data de efectivação do primeiro concurso para a atribuição de licenças de aluguer na área de residência do regressado das antigas colónias.
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - José Augusto Fernandes - João Pedro Tomás Rosa.
 
-**Promulgado em 21 de Janeiro de 1976.**
+Promulgado em 21 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24700/23932394.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1976-409487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8d8b31037427348e111ed320af60b12dce8d74b2fe2ae639a24ebaa23690c16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8d742471cf1507a5bb0f72df30e373ca30bdbc03215e6bb118001e4013166fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Porto
+- Santa Casa da Misericórdia
+- Secretaria de Estado da Segurança Social
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:31Z'
   warnings: []
   errors: []
 ---
@@ -90,28 +101,28 @@ de 21 de Outubro
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Através da Secretaria de Estado da Segurança Social poderão ser concedidos à Santa Casa da Misericórdia do Porto subsídios destinados a atenuar a sua difícil situação financeira, motivada pela subida dos encargos de manutenção dos estabelecimentos assistenciais administrados pela instituição, sem contrapartida numa compensadora elevação do nível das suas receitas.
+Artigo 1.º Através da Secretaria de Estado da Segurança Social poderão ser concedidos à Santa Casa da Misericórdia do Porto subsídios destinados a atenuar a sua difícil situação financeira, motivada pela subida dos encargos de manutenção dos estabelecimentos assistenciais administrados pela instituição, sem contrapartida numa compensadora elevação do nível das suas receitas.
 
-###### Art. 2.º Para efeito do disposto no artigo anterior, é aberto no Ministério das Finanças, a favor do Ministério dos Assuntos Sociais, um crédito especial da quantia de 35334000$00, que passará a constituir a seguinte dotação do vigente orçamento da despesa ordinária do segundo dos citados Ministérios:
+Art. 2.º Para efeito do disposto no artigo anterior, é aberto no Ministério das Finanças, a favor do Ministério dos Assuntos Sociais, um crédito especial da quantia de 35334000$00, que passará a constituir a seguinte dotação do vigente orçamento da despesa ordinária do segundo dos citados Ministérios:
 
 Secretaria de Estado da Segurança Social
 
-### Capítulo 9.º «Gabinete do Secretário de Estado»:
+Capítulo 9.º «Gabinete do Secretário de Estado»:
 
 Despesas correntes:
 
-###### Artigo 152.º-A «Transferências - Instituições particulares»:
+Artigo 152.º-A «Transferências - Instituições particulares»:
 
 N.º 1 «Santa Casa da Misericórdia do Porto» ... 35334000$00
 
-###### Art. 3.º Para contrapartida do crédito referido, é adicionado igual montante ao orçamento da receita do Estado no capítulo 2.º «Impostos indirectos», grupo 3 «Outros», artigo 18.º «Estampilhas fiscais».
+Art. 3.º Para contrapartida do crédito referido, é adicionado igual montante ao orçamento da receita do Estado no capítulo 2.º «Impostos indirectos», grupo 3 «Outros», artigo 18.º «Estampilhas fiscais».
 
-###### Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 6 de Outubro de 1976.**
+Promulgado em 6 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

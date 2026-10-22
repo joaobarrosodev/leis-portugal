@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19000/22612262.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1980-471105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f8c6813424f214b7d9b7a4124500d3edac137a678b1d041feec43db169cb64d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 845d5110eb31048148694fd6cd70e0039c655d39981fc42087985e6d64ac9b6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:25345938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345938:por
+  label: Revogado, a partir de 29.06.2014, o Dec Lei 794/76, de 05-nov, na redação do presente diploma, pela LEI.31/2014.30.05.2014.AR,
+    DR.IS [104] de 30.05.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2014-25345938
+  date: '2014-05-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:47Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +115,9 @@ Ao abrigo da autorização legislativa concedida pela [Lei n.º 30/80](https://d
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - Nos terrenos já pertencentes à Administração ou que por ela venham a ser adquiridos, desde que destinados aos fins previstos no artigo 2.º ou a operações de renovação urbana, sempre que a realização dos correspondentes empreendimentos não venha a ser efectuada pela Administração, só poderá ser cedido o direito à utilização mediante a constituição do direito de superfície, salvo se as transmissões forem feitas a pessoas colectivas de direito público ou a empresas públicas.
+Art. 5.º - 1 - Nos terrenos já pertencentes à Administração ou que por ela venham a ser adquiridos, desde que destinados aos fins previstos no artigo 2.º ou a operações de renovação urbana, sempre que a realização dos correspondentes empreendimentos não venha a ser efectuada pela Administração, só poderá ser cedido o direito à utilização mediante a constituição do direito de superfície, salvo se as transmissões forem feitas a pessoas colectivas de direito público ou a empresas públicas.
 
 2 - Poderá ainda ser autorizada a cedência dos terrenos, em propriedade plena, a entidades de direito privado, desde que aqueles se integrem em áreas abrangidas por planos de urbanização legalmente aprovados.
 
@@ -116,12 +131,12 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 7 - Nas regiões autónomas, a competência atribuída no n.º 5 ao Ministro da Habitação e Obras Públicas cabe aos órgãos de governo próprio da região.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 9 de Agosto de 1980.**
+Promulgado em 9 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

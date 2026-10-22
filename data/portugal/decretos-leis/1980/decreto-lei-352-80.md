@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20300/25262528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1980-464002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2d15b35978d1245cb00649589e40019f289f12757712569083cce9952de1339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 450ec3a54ab02ca63cd6f263d67167c88887fbc5cd473027104915a98833cac9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Definição de Competências
+- Ministério da Habitação e Obras Públicas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:311627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432674:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573334:por
+  label: "Revogado o nº 4 do artigo 3º pelo DEC LEI.102/81.06.05.1981.MHOP, DR.IS [103] de 06.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1981-573334
+  date: '1981-05-06'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:24Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +142,13 @@ O Governo decreta, de harmonia com a alínea a) do n.º 1 do artigo 201.º da Co
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Natureza)
 
 É criada a Auditoria Jurídica do Ministério da Habitação e Obras Públicas (MHOP), a qual constitui um serviço de consulta jurídica dependente do Ministro da Habitação e Obras Públicas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Atribuições)
 
@@ -126,7 +166,7 @@ e) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina 
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Orientação técnica)
 
@@ -140,13 +180,13 @@ e) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina 
 
 ### CAPÍTULO III — Pessoal
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Regime jurídico)
 
 Ao pessoal da Auditoria Jurídica aplica-se o disposto no presente diploma, nos diplomas sobre regime de pessoal dos serviços do Ministério e nas leis gerais da função pública que lhe forem aplicáveis.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Quadros de pessoal)
 
@@ -154,7 +194,7 @@ Ao pessoal da Auditoria Jurídica aplica-se o disposto no presente diploma, nos 
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Primeiro provimento de lugares)
 
@@ -170,25 +210,25 @@ c) De entre o pessoal pertencente aos quadros dos demais serviços do MHOP, dos 
 
 3 - É contado como prestado na Auditoria Jurídica criada pelo presente diploma o tempo de serviço prestado nas auditorias jurídicas extintas.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Regras especiais de ingresso)
 
 O ingresso na Auditoria Jurídica far-se-á, para a categoria de consultor jurídico de 1.ª classe, de entre consultores jurídicos e técnicos superiores de 2.ª classe, licenciados em Direito, dos demais serviços do MHOP, de departamentos comuns ao MHOP e ao Ministério dos Transportes e Comunicações e dos serviços públicos autónomos sob tutela do MHOP, nos termos da lei geral.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Apoio logístico)
 
 A Secretaria-Geral garantirá o apoio administrativo indispensável ao exercício das atribuições da Auditoria Jurídica.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Disposições diversas)
 
 No exercício da sua actividade, a Auditoria Jurídica pode corresponder-se directamente com quaisquer serviços ou entidades e solicitar-lhes os elementos que forem necessários.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Extinção de organismos)
 
@@ -198,19 +238,19 @@ a) Auditoria Jurídica criada pelo [Decreto-Lei n.º 573/75](https://diariodarep
 
 b) Auditoria Jurídica criada pelo [Decreto n.º 462/76](https://diariodarepublica.pt/dr/detalhe/decreto/462-1976-427137), de 9 de Junho.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Encargos com a execução do diploma)
 
 Os encargos emergentes da publicação deste diploma serão satisfeitos no corrente ano pelas disponibilidades orçamentais das dotações destinadas ao pagamento das remunerações certas e permanentes das auditorias jurídicas que ora se extinguem.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Resolução de dúvidas)
 
 As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da Habitação e Obras Públicas e do membro do Governo que tiver a seu cargo a função pública.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Entrada em vigor do diploma)
 
@@ -218,12 +258,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 14 de Agosto de 1980.**
+Promulgado em 14 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da Auditoria Jurídica a que se refere o artigo 5.º do Decreto-Lei n.º 352/80
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/20300/25262528.pdf))](https://files.diariodarepublica.pt/1s/1980/09/20300/25262528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/20300/25262528.pdf)

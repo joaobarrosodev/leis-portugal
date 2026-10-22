@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/668-1970-154445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab7f524d7dc246dbecdc029886a3a1762ff9acf2ee05e4a4668581f6dfdc8756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be07fe54f6aec1cb9595f8e7d1c5e2d83ff69dbdcdf967c971d26b0da37d06c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atribuição de Verba
+- Direcção Geral da Contabilidade Pública
+- Ministério da Educação Nacional
+- Ministério da Marinha
+- Ministério das Corporações e Previdência Social
+- Ministério do Exército
+- Ministério dos Negócios Estrangeiros
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:13Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +101,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos, inscrita nos orçamentas do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos, inscrita nos orçamentas do actual ano económico, as seguintes quantias:
 
 Ministério do Exército
 
@@ -112,12 +123,12 @@ Ministério das Corporações e Previdência Social
 
 Encargos do ano de 1969, referentes a ajudas de custo, gratificações, conservação de veículos com motor, artigos de expediente, telefones, transportes, publicidade e propaganda, pertencentes a vários serviços dependentes do Ministério 322339$70
 
-###### Art. 2.º Fica igualmente autorizado o Hospital de Miguel Bombarda a satisfazer em conta da verba de despesas de anos económicos findos, inscrita no seu actual orçamento privativo, a quantia de 1214$00, respeitante ao vencimento de exercício e respectivo subsídio eventual de custo de vida, a favor de um primeiro-oficial e de um escriturário-dactilógrafo de 1.ª classe.
+Art. 2.º Fica igualmente autorizado o Hospital de Miguel Bombarda a satisfazer em conta da verba de despesas de anos económicos findos, inscrita no seu actual orçamento privativo, a quantia de 1214$00, respeitante ao vencimento de exercício e respectivo subsídio eventual de custo de vida, a favor de um primeiro-oficial e de um escriturário-dactilógrafo de 1.ª classe.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

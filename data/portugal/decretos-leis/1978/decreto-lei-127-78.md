@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12700/10011002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1978-294723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc4e3def797b581fbb6ac052b73f959b4f57fbb920ff2e11d3790ac30e011f15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f607e8505c4a65ead47e764f1e317277b2020e90294ea9ee763358e894f4c0dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cargos Políticos
+- Contribuições da Segurança Social
+- Empresa Privada
+- Empresa Pública
+- Gestor
+- Pagamento
+- Previdência Social
+- Reintegração de Pessoal
+- Requisição de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:428234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506176:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:56Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +137,7 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Pelo pagamento de contribuições à Previdência relativas a técnicos e gestores na situação de requisitados pelo Estado ou a quaisquer trabalhadores eleitos para o exercício de cargos de gestão em alguma empresa é responsável a entidade que directamente beneficie da sua actividade.
+Artigo 1.º - 1 - Pelo pagamento de contribuições à Previdência relativas a técnicos e gestores na situação de requisitados pelo Estado ou a quaisquer trabalhadores eleitos para o exercício de cargos de gestão em alguma empresa é responsável a entidade que directamente beneficie da sua actividade.
 
 2 - A entidade referida no número anterior assume o encargo relativo à parte patronal das contribuições; o encargo da conta do beneficiário é deduzido na sua remuneração.
 
@@ -110,14 +145,14 @@ O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constit
 
 4 - Quando o despacho de requisição de técnicos e gestores de empresas públicas e nacionalizadas, com intervenção directa ou participadas pelo Estado, imputar a essas empresas o pagamento das remunerações, nos termos do artigo 4.º do [Decreto-Lei n.º 485/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1976-431188), de 21 de Junho, a responsabilidade e o encargo do pagamento das contribuições à Previdência continuam a pertencer às mesmas empresas, nos termos gerais.
 
-###### Art. 2.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação no Diário da República.
+Art. 2.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação no Diário da República.
 
-###### Art. 3.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto dimanado dos Ministros das Finanças e do Plano e dos Assuntos Sociais.
+Art. 3.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto dimanado dos Ministros das Finanças e do Plano e dos Assuntos Sociais.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - António Duarte Arnaut.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.

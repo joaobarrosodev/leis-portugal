@@ -47,36 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1981-563632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ff732cf5de037402cd2fa00b71d9735756bf7d0842501386880ab4cd050b169
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbd54b2e79a03fae1c43deaaa9020b16872066aeb0c4d73ddda1e7baeaec25f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agricultura
+- Cobrança de Dívidas
+- Crédito Agrícola de Emergência
+- Dívidas ao Estado
+- Execução Fiscal
+- Instituto de Gestão e Estruturação Fundiária
+relationships:
+- type: cites
+  target: pt:dre:141779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509023:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:51Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +127,18 @@ Justifica-se, pois, que para o crédito agrícola de emergência se adopte igual
 
 Nestes termos, o Governo decreta, ao abrigo da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 58/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1977-141823), de 21 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 58/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1977-141823), de 21 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Para a cobrança coerciva dos créditos do Instituto de Gestão e Estruturação Fundiária (IGEF) resultantes do pagamento de dívida garantida por aval, ao abrigo dos Decretos-Leis n.os [251/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1975-336081), de 23 de Maio, [894/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/894-1976-416471), de 30 de Dezembro, [56/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1977-141779), de 18 de Fevereiro, [75-N/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-n-1977-509023), de 28 de Fevereiro, [16/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1978-447892), de 18 de Janeiro, [172/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1979-383407), de 6 de Junho, e legislação complementar, são competentes os tribunais do contencioso das contribuições e impostos, através do processo de execução fiscal.
+Artigo 1.º - 1 - Para a cobrança coerciva dos créditos do Instituto de Gestão e Estruturação Fundiária (IGEF) resultantes do pagamento de dívida garantida por aval, ao abrigo dos Decretos-Leis n.os [251/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1975-336081), de 23 de Maio, [894/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/894-1976-416471), de 30 de Dezembro, [56/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1977-141779), de 18 de Fevereiro, [75-N/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-n-1977-509023), de 28 de Fevereiro, [16/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1978-447892), de 18 de Janeiro, [172/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1979-383407), de 6 de Junho, e legislação complementar, são competentes os tribunais do contencioso das contribuições e impostos, através do processo de execução fiscal.
 
 2 - O processo terá por base certidão passada pela entidade mutuária com base nos documentos em sua posse, de que conste o nome e domicílio do devedor, e a proveniência e o montante global da dívida ou dívidas vencidas, sua natureza, montante do empréstimo e data da concessão a partir da qual se contam os juros, devendo a assinatura da entidade emitente ser devidamente autenticada com o selo branco ou carimbo respectivo.
 
-###### Art. 2.º As referências feitas no [Decreto-Lei n.º 58/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1977-141823), de 21 de Fevereiro, ao Instituto de Reforma Agrária (IRA) devem entender-se como feitas ao Instituto de Gestão e Estruturação Fundiária (IGEF), que lhe sucedeu.
+Art. 2.º As referências feitas no [Decreto-Lei n.º 58/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1977-141823), de 21 de Fevereiro, ao Instituto de Reforma Agrária (IRA) devem entender-se como feitas ao Instituto de Gestão e Estruturação Fundiária (IGEF), que lhe sucedeu.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Setembro de 1981.**
+Promulgado em 8 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

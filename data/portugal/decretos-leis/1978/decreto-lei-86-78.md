@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/10200/08170818.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1978-295810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd46db201e7d44c69fa011ff4a8c72fc4997e4f05cd99ce539b88ce57a5ed9f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0d57099f85815c035e869bd140ef08e7b75ac89da984ccdf252808d2aa2eca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Militar
+- Quadro de Pessoal
+- Quadro Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567392:por
+  label: "Alterado o mapa I anexo ao Decreto-Lei n.º 550-E/76, de 12-Jul, com as alterações constantes do presente diploma\
+    \ pelo DEC LEI.343/81.17.12.1981.CR, DR.IS [289] de 17.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1981-567392
+  date: '1981-12-17'
+- type: cites
+  target: pt:dre:161475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181630:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:00Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +121,7 @@ Considerando o exposto:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. São introduzidas no mapa I anexo ao [Decreto-Lei n.º 550-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-e-1976-181630), de 12 de Julho, as seguintes alterações:
+Artigo único. São introduzidas no mapa I anexo ao [Decreto-Lei n.º 550-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-e-1976-181630), de 12 de Julho, as seguintes alterações:
 
 MAPA I
 
@@ -106,12 +129,12 @@ Pessoal militar permanente privativo da Força Aérea
 
 Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10200/08170818.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10200/08170818.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10200/08170818.pdf)
 
 Visto e aprovado em Conselho da Revolução em 29 de Março de 1978.
 
-**Promulgado em 3 de Abril de 1978.**
+Promulgado em 3 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

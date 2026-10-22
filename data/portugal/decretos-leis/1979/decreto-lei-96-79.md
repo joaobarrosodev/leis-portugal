@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/09300/06800680.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1979-382629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0e0c9e253286bb530146a9fd6d68840d4d7c60f8e0f99b4056f63f1b852ad3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb6749b0f5b0d1db2124d446a745ec1b3c9a790c8ca81c86d342ff37a879bcd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Forças Armadas
+- Pessoal Civil
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:392611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115235757:por
+  label: Revogado, a partir de 13.05.2018 e nos termos do art. 1.º, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República
+    n.º 88/2018, Série I de 2018-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:49Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +115,22 @@ Considerando que, por normais princípios de justiça e de coerência na adminis
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal do quadro geral de adidos que até à publicação da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611), de 29 de Janeiro, tenha ingressado nos quadros de pessoal civil da Força Aérea ao abrigo da alínea c) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, pode passar à situação e regime definidos na referida portaria mediante requerimento dirigido ao Chefe do Estado-Maior da Força Aérea no prazo de trinta dias a contar da publicação do presente diploma.
+Artigo 1.º O pessoal do quadro geral de adidos que até à publicação da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611), de 29 de Janeiro, tenha ingressado nos quadros de pessoal civil da Força Aérea ao abrigo da alínea c) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, pode passar à situação e regime definidos na referida portaria mediante requerimento dirigido ao Chefe do Estado-Maior da Força Aérea no prazo de trinta dias a contar da publicação do presente diploma.
 
-###### Art. 2.º - 1 - As categorias do pessoal a que se refere o artigo anterior são fixadas por despacho do Chefe do Estado-Maior da Força Aérea, considerando critérios idênticos aos fixados por força do n.º 3.º da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611).
+Art. 2.º - 1 - As categorias do pessoal a que se refere o artigo anterior são fixadas por despacho do Chefe do Estado-Maior da Força Aérea, considerando critérios idênticos aos fixados por força do n.º 3.º da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611).
 
 2 - A antiguidade e a posição na respectiva lista são estabelecidas nos mesmos termos e em conjunto com o pessoal ingressado ao abrigo da citada [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611).
 
-###### Art. 3.º A saída da actual situação - ocupando vaga nos quadros - e o ingresso na situação de supranumerário permanente a que se refere o n.º 1.º da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611) são feitos por lista nominativa publicada no Diário da República, em condições análogas às prescritas no n.º 4.º da mesma portaria.
+Art. 3.º A saída da actual situação - ocupando vaga nos quadros - e o ingresso na situação de supranumerário permanente a que se refere o n.º 1.º da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611) são feitos por lista nominativa publicada no Diário da República, em condições análogas às prescritas no n.º 4.º da mesma portaria.
 
-###### Art. 4.º As vagas ocorridas nos quadros por motivo da aplicação do artigo anterior não darão lugar a novas admissões enquanto os respectivos titulares se mantiverem na situação de supranumerários permanentes referida no mesmo artigo.
+Art. 4.º As vagas ocorridas nos quadros por motivo da aplicação do artigo anterior não darão lugar a novas admissões enquanto os respectivos titulares se mantiverem na situação de supranumerários permanentes referida no mesmo artigo.
 
-###### Art. 5.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Força Aérea, usando critérios idênticos aos que forem estabelecidos em conformidade com o n.º 13.º da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611).
+Art. 5.º As dúvidas e casos omissos serão resolvidos por despacho do Chefe do Estado-Maior da Força Aérea, usando critérios idênticos aos que forem estabelecidos em conformidade com o n.º 13.º da [Portaria n.º 51/79](https://diariodarepublica.pt/dr/detalhe/portaria/51-1979-392611).
 
 Visto e aprovado em Conselho da Revolução em 30 de Março de 1979.
 
-**Promulgado em 4 de Abril de 1979.**
+Promulgado em 4 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

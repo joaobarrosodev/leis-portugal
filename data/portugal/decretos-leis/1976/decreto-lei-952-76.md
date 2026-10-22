@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 303/1976, 10º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 2900-(345) a 2900-(373)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/952-1976-390471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13bac2372dee4b4607533b23d1f40f7faaed3212b72964511bb5eeb95e7e582f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7deb25cacbd113d0c06cd00144205fc654f0fe887be741bb56bc6b8e640af8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:586022:por
+  label: "Mantidas em vigor as disposições constantes do presente diploma pelo DEC LEI.334-A/77.12.08.1977.MF, DR.IS [186-Supl]\
+    \ de 12.08.1977, na parte em que não o contrariem\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-a-1977-586022
+  date: '1977-08-12'
+- type: amended_by
+  target: pt:dre:165009:por
+  label: "Mantidas em vigor na parte aplicável ao enquadramento orçamental as disposições constantes do presente diploma pelo\
+    \ DEC LEI.20/78.20.01.1978.MF, DR.IS [17-Supl] de 20.01.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1978-165009
+  date: '1978-01-20'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:201865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618082:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:12Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +197,7 @@ QUADRO I
 
 Finanças do sector público em 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 3. Como resultado da orientação seguida, estima-se que o deficit corrente do sector público administrativo se fixe em 18,6 milhões de contos, no próximo ano, evidenciando assim uma redução para cerca de metade do nível que se prevê para 1976.
 
@@ -132,7 +219,7 @@ QUADRO II
 
 Síntese do Orçamento Geral do Estado (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 (nota 1) Não contém «Contas de ordem», relativas aos orçamentos de alguns organismos com autonomia administrativa e financeira, que têm valores iguais nas receitas e nas despesas correntes.
 
@@ -150,7 +237,7 @@ QUADRO III
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 No conjunto, estima-se que as receitas correntes registem uma taxa de acréscimo de 21,8% em relação às cobranças de 1976, como consequência não só da evolução da actividade económica, mas também dos efeitos de algumas medidas fiscais ultimamente tomadas, que apenas terão a sua incidência total sobre as cobranças no decurso do próximo ano.
 
@@ -256,7 +343,7 @@ Despesas orçamentais
 
 Classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 11. Considerando a classificação económica, as despesas correntes representam cerca de 72% do total das despesas fixadas para 1977 (não incluindo as inscritas em «Contas de ordem»). Em relação ao valor do Orçamento para 1976, revisto após as alterações nele introduzidas, observa-se nas despesas correntes um aumento de 14,9 milhões de contos, embora a diferença deva vir a revelar-se maior após a realização das despesas autorizadas.
 
@@ -282,7 +369,7 @@ Despesas orçamentais
 
 Classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 Por sua vez, as transferências para particulares cifram-se em 0,8 milhões de contos, estando principalmente a cargo do Ministério das Finanças.
 
@@ -294,7 +381,7 @@ QUADRO VI
 
 Investimentos do Plano (PIAP) incluídos no OGE por fontes de financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 No seu conjunto, os empreendimentos do Programa de Investimentos da Administração Pública incluídos no Orçamento Geral do Estado para 1977 atingem 35 milhões de contos, estando o seu financiamento assegurado, como se verifica no quadro VI, por receitas próprias do Orçamento (33,3 milhões de contos), comparticipações de fundos e serviços autónomos (1,4 milhões de contos) e, ainda, recursos provenientes do crédito externo (0,3 milhões de contos).
 
@@ -324,7 +411,7 @@ Despesas orçamentais
 
 Classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 Financiamento do «deficit»
 
@@ -344,7 +431,7 @@ QUADRO VIII
 
 Meios de pagamento e factores monetários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 De acordo com a programação monetária evidenciada no quadro VIII, que se baseou nas metas fixadas pelo modelo global considerado no Plano, admitiu-se que uma expansão dos meios monetários à taxa de 22,6%, igual à prevista no Plano para o produto interno bruto, a preços correntes de mercado se ajusta às necessidades de liquidez adequada ao regular funcionamento da economia portuguesa. Considerou-se que esta criação de meios de pagamento deverá processar-se mediante um aumento do crédito ao sector público que permitirá cobrir parte do deficit orçamenta] da gerência financeira de 1977 no montante de 41 milhões de contos, sendo 20 milhões até ao final do ano e 21 milhões no período complementar, acompanhado de um acréscimo do crédito ao sector empresarial durante o ano no valor de 84 milhões de contos, que corresponde à taxa de 21,7%, a qual se pode considerar adequada a uma equilibrada expansão da actividade económica.
 
@@ -358,7 +445,7 @@ QUADRO IX
 
 Dívida pública efectiva e serviço da dívida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 Em comparação com o produto interno bruto, a preços de mercado, verifica-se uma subida da relação correspondente de 32,3% para 36,9%.
 
@@ -480,7 +567,7 @@ Pela Direcção-Geral de Pessoal e Administração, nos restantes casos.
 
 A alínea c) do artigo 22.º do Código do Imposto de Transacções passa a ter a seguinte redacção:
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 ...
 
@@ -494,24 +581,24 @@ Este diploma entra em vigor em 1 de Janeiro de 1977.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 31 de Dezembro de 1976.**
+Promulgado em 31 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO 1 — Mapa das receitas previstas para 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 ## ANEXO 2 — Mapa das despesas fixadas para 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
 ## ANEXO 3 — Orçamento Geral do Estado
 
 Resumo, por objectivos finais, das despesas do ano de 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30310/03450373.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

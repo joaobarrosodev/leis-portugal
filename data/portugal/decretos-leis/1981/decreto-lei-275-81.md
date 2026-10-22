@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1981-564209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c1d748cd9d04665a8f035174d7e91decee66482c30f15ff5deb5cb7991528e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657536923fbe986e528e1d3f8179b6a33900e80afaf821b0bad33e1edd1748fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Escola de Sargentos do Exército
+- Exército
+- Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:390833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391206:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:54Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +106,18 @@ Considerando o teor do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada em 1 de Junho de 1981 a Escola de Sargentos do Exército (ESE), com a finalidade de ministrar a instrução geral dos cursos de formação e de promoção dos sargentos do quadro permanente.
+Artigo 1.º É criada em 1 de Junho de 1981 a Escola de Sargentos do Exército (ESE), com a finalidade de ministrar a instrução geral dos cursos de formação e de promoção dos sargentos do quadro permanente.
 
-###### Art. 2.º A Escola de Sargentos do Exército funciona na dependência do director do Departamento de Instrução do Estado-Maior do Exército, sem prejuízo do disposto no artigo 22.º do [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro.
+Art. 2.º A Escola de Sargentos do Exército funciona na dependência do director do Departamento de Instrução do Estado-Maior do Exército, sem prejuízo do disposto no artigo 22.º do [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro.
 
-###### Art. 3.º O estatuto escolar da Escola de Sargentos do Exército será estabelecido por portaria do Chefe do Estado-Maior do Exército.
+Art. 3.º O estatuto escolar da Escola de Sargentos do Exército será estabelecido por portaria do Chefe do Estado-Maior do Exército.
 
-###### Art. 4.º Os quadros orgânicos da Escola de Sargentos do Exército e regulamentação específica serão aprovados por despacho do Chefe do Estado-Maior do Exercito.
+Art. 4.º Os quadros orgânicos da Escola de Sargentos do Exército e regulamentação específica serão aprovados por despacho do Chefe do Estado-Maior do Exercito.
 
 Visto e aprovado em Conselho da Revolução em 26 de Agosto de 1981.
 
-**Promulgado em 8 de Setembro de 1981.**
+Promulgado em 8 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

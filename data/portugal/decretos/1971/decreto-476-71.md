@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/476-1971-631383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f164134e67dff897d2872c41e3b02bd5e9cea2954e9e0f45f56e713fee06289f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51a95570feb471e0a3f3762526879129da07dde685ca3d166e570c078f1bc7d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215138:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:55Z'
   warnings: []
   errors: []
 ---
@@ -96,25 +100,25 @@ Considerando o disposto no § 3.º do artigo 136.º da Constituição, por motiv
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No [Decreto n.º 49353](https://diariodarepublica.pt/dr/detalhe/decreto/49353-1969-215138), de 3 de Novembro de 1969, são introduzidos, para aplicação na província de Angola, os aditamentos e alterações constantes do presente diploma.
+Artigo 1.º No [Decreto n.º 49353](https://diariodarepublica.pt/dr/detalhe/decreto/49353-1969-215138), de 3 de Novembro de 1969, são introduzidos, para aplicação na província de Angola, os aditamentos e alterações constantes do presente diploma.
 
-###### Art. 2.º - 1. As sessões da Comissão Técnica de Planeamento e Integração Económica poderão, consoante a natureza dos assuntos a tratar, ser plenárias ou restritas.
+Art. 2.º - 1. As sessões da Comissão Técnica de Planeamento e Integração Económica poderão, consoante a natureza dos assuntos a tratar, ser plenárias ou restritas.
 
 2. Para as sessões restritas serão enviadas as ordens do dia a todos os membros da Comissão, com a indicação daqueles cuja presença se considere necessária.
 
-###### Art. 3.º Os Serviços de Planeamento e Integração Económica passam a estar representados pelo director ou pelos inspectores provinciais nos conselhos de administração e conselhos gerais dos organismos de coordenação económica, serviços autónomos que recebam comparticipações de planos de fomento e fundos em relação aos quais seja, por despacho do governador-geral, considerado conveniente assegurar a representação daqueles serviços.
+Art. 3.º Os Serviços de Planeamento e Integração Económica passam a estar representados pelo director ou pelos inspectores provinciais nos conselhos de administração e conselhos gerais dos organismos de coordenação económica, serviços autónomos que recebam comparticipações de planos de fomento e fundos em relação aos quais seja, por despacho do governador-geral, considerado conveniente assegurar a representação daqueles serviços.
 
-###### Art. 4.º - 1. No Conselho Coordenador de Planeamento e Integração Económica os bancos de investimentos estarão representados por um vogal.
+Art. 4.º - 1. No Conselho Coordenador de Planeamento e Integração Económica os bancos de investimentos estarão representados por um vogal.
 
 2. Os grémios e os sindicatos estarão representados no referido Conselho por três vogais.
 
-###### Art. 5.º Os Serviços de Planeamento e Integração Económica passam a ter o pessoal constante do mapa I anexo ao presente diploma.
+Art. 5.º Os Serviços de Planeamento e Integração Económica passam a ter o pessoal constante do mapa I anexo ao presente diploma.
 
-###### Art. 6.º O director dos Serviços de Planeamento e Integração Económica poderá delegar no director-adjunto a representação dos mesmos Serviços, excepto para os efeitos previstos no n.º 1 do artigo 2.º e no n.º 1 do artigo 14.º do [Decreto n.º 49353](https://diariodarepublica.pt/dr/detalhe/decreto/49353-1969-215138), de 3 de Novembro de 1969, e sem prejuízo do disposto nas alíneas c) e d) do artigo 8.º do presente diploma.
+Art. 6.º O director dos Serviços de Planeamento e Integração Económica poderá delegar no director-adjunto a representação dos mesmos Serviços, excepto para os efeitos previstos no n.º 1 do artigo 2.º e no n.º 1 do artigo 14.º do [Decreto n.º 49353](https://diariodarepublica.pt/dr/detalhe/decreto/49353-1969-215138), de 3 de Novembro de 1969, e sem prejuízo do disposto nas alíneas c) e d) do artigo 8.º do presente diploma.
 
-###### Art. 7.º O director-adjunto substituirá o director dos Serviços nas suas faltas e impedimentos.
+Art. 7.º O director-adjunto substituirá o director dos Serviços nas suas faltas e impedimentos.
 
-###### Art. 8.º Aos inspectores provinciais de planeamento e integração económica incumbe, em especial, sem prejuízo do disposto no Diploma Legislativo Ministerial n.º 10, publicado em 19 de Dezembro de 1965:
+Art. 8.º Aos inspectores provinciais de planeamento e integração económica incumbe, em especial, sem prejuízo do disposto no Diploma Legislativo Ministerial n.º 10, publicado em 19 de Dezembro de 1965:
 
 a) Elaborar os estudos, relatórios, pareceres e outros trabalhos que superiormente lhes sejam determinados;
 
@@ -124,7 +128,7 @@ c) Representar, por despacho do governador-geral, os Serviços de Planeamento e 
 
 d) Representar, por despacho do governador-geral, nos conselhos a que se refere o artigo 3.º do presente diploma os Serviços de Planeamento e Integração Económica.
 
-###### Art. 9.º O provimento dos cargos previstos no mapa a que se refere o artigo 5.º do presente diploma será feito por nomeação, em comissão, ou por contrato, nos termos seguintes:
+Art. 9.º O provimento dos cargos previstos no mapa a que se refere o artigo 5.º do presente diploma será feito por nomeação, em comissão, ou por contrato, nos termos seguintes:
 
 a) Os cargos de director e director-adjunto serão providos por nomeação, em comissão, pelo Ministro do Ultramar, sob proposta do governador-geral ou ouvido este, de entre licenciados com um curso superior adequado às respectivas funções e cuja especialização e curriculum o justifiquem;
 
@@ -152,15 +156,15 @@ m) Os cargos de chefe de secção serão providos pelo Ministro do Ultramar, por
 
 n) O provimento dos restantes lugares far-se-á de acordo com as normas estabelecidas no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 10.º Ao Pessoal dos Serviços de Planeamento e Integração Económica a que se refere o mapa II anexo ao presente diploma serão atribuídas as gratificações mensais nele fixadas.
+Art. 10.º Ao Pessoal dos Serviços de Planeamento e Integração Económica a que se refere o mapa II anexo ao presente diploma serão atribuídas as gratificações mensais nele fixadas.
 
-###### Art. 11.º - 1. Por despacho do governador-geral será atribuído o subsídio diário de 50$00 a 230$00 aos funcionários dos Serviços de Planeamento e Integração Económica a quem seja imposto o regime de ocupação exclusiva.
+Art. 11.º - 1. Por despacho do governador-geral será atribuído o subsídio diário de 50$00 a 230$00 aos funcionários dos Serviços de Planeamento e Integração Económica a quem seja imposto o regime de ocupação exclusiva.
 
 2. O subsídio diário referido no n.º 1 deste artigo será acumulável com quaisquer outros abonos e gratificações.
 
-###### Art. 12.º Aos funcionários e demais servidores dos Serviços de Planeamento e Integração Económica que tenham demonstrado especial zelo, competência e eficiência no desempenho das suas funções poderão ser atribuídos, por despacho do governador-geral, prémios pecuniários.
+Art. 12.º Aos funcionários e demais servidores dos Serviços de Planeamento e Integração Económica que tenham demonstrado especial zelo, competência e eficiência no desempenho das suas funções poderão ser atribuídos, por despacho do governador-geral, prémios pecuniários.
 
-###### Art. 13.º O pessoal do actual quadro dos Serviços de Planeamento e Integração Económica transita, independentemente de visto e posse e de quaisquer outras formalidades, para os lugares a que se refere o mapa I anexo ao presente diploma, pela seguinte forma:
+Art. 13.º O pessoal do actual quadro dos Serviços de Planeamento e Integração Económica transita, independentemente de visto e posse e de quaisquer outras formalidades, para os lugares a que se refere o mapa I anexo ao presente diploma, pela seguinte forma:
 
 a) Para o cargo de chefe da Repartição Administrativa, o actual chefe de secretaria;
 
@@ -178,36 +182,36 @@ g) Para os cargos de contínuos de 2.ª classe, os actuais contínuos;
 
 h) Para lugares de idêntica categoria e designação, o restante pessoal.
 
-###### Art. 14.º O primeiro provimento do cargo de assistente técnico desenhador poderá ser efectuado por escolha do Ministro do Ultramar, mediante proposta do governador-geral, de entre indivíduos com a habilitação mínima do 1.º ciclo liceal ou equivalente, três anos de efectivo serviço como desenhador e cujo curriculum o justifique.
+Art. 14.º O primeiro provimento do cargo de assistente técnico desenhador poderá ser efectuado por escolha do Ministro do Ultramar, mediante proposta do governador-geral, de entre indivíduos com a habilitação mínima do 1.º ciclo liceal ou equivalente, três anos de efectivo serviço como desenhador e cujo curriculum o justifique.
 
-###### Art. 15.º O primeiro provimento do lugar de chefe de secção e dos lugares do quadro privativo dos Serviços de Planeamento e Integração Económica que se encontrem vagos após a transição prevista no artigo 13.º deste diploma poderá ser feito com dispensa do tempo de serviço, mediante concurso.
+Art. 15.º O primeiro provimento do lugar de chefe de secção e dos lugares do quadro privativo dos Serviços de Planeamento e Integração Económica que se encontrem vagos após a transição prevista no artigo 13.º deste diploma poderá ser feito com dispensa do tempo de serviço, mediante concurso.
 
-###### Art. 16.º Serão fixadas em diploma provincial as condições em que, mediante concurso e independentemente do limite de idade e das habilitações exigíveis para os cargos a prover, poderão ingressar no quadro privativo dos Serviços de Planeamento e Integração Económica os indivíduos que, na data da publicação do presente diploma, neles se encontrem a prestar serviço, por contrato no regime de prestação de serviços e por assalariamento eventual.
+Art. 16.º Serão fixadas em diploma provincial as condições em que, mediante concurso e independentemente do limite de idade e das habilitações exigíveis para os cargos a prover, poderão ingressar no quadro privativo dos Serviços de Planeamento e Integração Económica os indivíduos que, na data da publicação do presente diploma, neles se encontrem a prestar serviço, por contrato no regime de prestação de serviços e por assalariamento eventual.
 
-###### Art. 17.º Fica o governador-geral de Angola autorizado a abrir os créditos necessários à execução deste diploma, podendo, entretanto, os encargos dele resultantes ser suportados pelas disponibilidades da verba de «Pessoal dos quadros aprovados por lei» atribuída no orçamento geral vigente da província aos Serviços de Planeamento e Integração Económica.
+Art. 17.º Fica o governador-geral de Angola autorizado a abrir os créditos necessários à execução deste diploma, podendo, entretanto, os encargos dele resultantes ser suportados pelas disponibilidades da verba de «Pessoal dos quadros aprovados por lei» atribuída no orçamento geral vigente da província aos Serviços de Planeamento e Integração Económica.
 
-###### Art. 18.º Ficam revogados na sua aplicação à província ultramarina de Angola os artigos 7.º, 8.º, 11.º, 20.º e 21.º do [Decreto n.º 49353](https://diariodarepublica.pt/dr/detalhe/decreto/49353-1969-215138), de 3 de Novembro de 1969.
+Art. 18.º Ficam revogados na sua aplicação à província ultramarina de Angola os artigos 7.º, 8.º, 11.º, 20.º e 21.º do [Decreto n.º 49353](https://diariodarepublica.pt/dr/detalhe/decreto/49353-1969-215138), de 3 de Novembro de 1969.
 
-###### Art. 19.º As dúvidas que surgirem na aplicação deste decreto serão resolvidas por despacho do Ministro do Ultramar.
+Art. 19.º As dúvidas que surgirem na aplicação deste decreto serão resolvidas por despacho do Ministro do Ultramar.
 
-###### Art. 20.º O presente diploma entra imediatamente em vigor em Angola.
+Art. 20.º O presente diploma entra imediatamente em vigor em Angola.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Outubro de 1971.**
+Promulgado em 28 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26100/16881690.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26100/16881690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26100/16881690.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26100/16881690.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26100/16881690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26100/16881690.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

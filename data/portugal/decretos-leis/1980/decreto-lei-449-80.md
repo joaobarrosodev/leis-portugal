@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37af0c88783832e8830f02a19b1a1364773ec5cf6549f7152907eb170b0059bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1625e0debaebaa9e9d6cb941fbc973549b7f0f4b4d386f6067d7b68253879ad9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621953:por
+  label: "Revogados os nºs 1 e 2 do art. 59º do Dec Lei 519-F2/79, de 29-Dez, na redacção do presente diploma, pelo DEC LEI.131/91.02.04.1991.MJ,\
+    \ DR.IS-A [76] de 02.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1991-621953
+  date: '1991-04-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:54Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +116,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 24.º, 26.º, 27.º, 28.º, 36.º, 59.º, 88.º e 89.º-A do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 71/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), de 15 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 24.º, 26.º, 27.º, 28.º, 36.º, 59.º, 88.º e 89.º-A do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 71/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), de 15 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 24.º - 1 - ...
+Art. 24.º - 1 - ...
 
 a) ...
 
@@ -125,7 +142,7 @@ d) ...
 
 4 - O regime previsto no número anterior é aplicável aos adjuntos a que se refere o artigo 38.º do presente diploma.
 
-###### Art. 26.º - 1 - Os conservadores e notários são substituídos nas suas faltas, licenças ou impedimentos pelos ajudantes, sem prejuízo do disposto no artigo 38.º, n.º 2, do presente diploma.
+Art. 26.º - 1 - Os conservadores e notários são substituídos nas suas faltas, licenças ou impedimentos pelos ajudantes, sem prejuízo do disposto no artigo 38.º, n.º 2, do presente diploma.
 
 2 - ...
 
@@ -133,7 +150,7 @@ d) ...
 
 4 - ...
 
-###### Art. 27.º - 1 - ...
+Art. 27.º - 1 - ...
 
 a) ...
 
@@ -147,7 +164,7 @@ c) Com o exercício da advocacia, excepto quanto aos conservadores e notários d
 
 4 - ...
 
-###### Art. 28.º - 1 - ...
+Art. 28.º - 1 - ...
 
 2 - ...
 
@@ -165,11 +182,11 @@ c) Com o exercício da advocacia, excepto quanto aos conservadores e notários d
 
 9 - ...
 
-###### Art. 36.º - 1 - Ao concurso de habilitação para conservadores e notários a que se refere a alínea c) do n.º 1 do artigo 24.º são admitidos os licenciados em Direito que, como adjuntos estagiários, tenham concluído, com nota não inferior a Bom, o tempo de prática dos serviços de registos e do notariado exigidos por lei.
+Art. 36.º - 1 - Ao concurso de habilitação para conservadores e notários a que se refere a alínea c) do n.º 1 do artigo 24.º são admitidos os licenciados em Direito que, como adjuntos estagiários, tenham concluído, com nota não inferior a Bom, o tempo de prática dos serviços de registos e do notariado exigidos por lei.
 
 2 - As condições de admissão ao estágio e duração deste, bem como as condições do exercício efectivo do cargo de adjunto estagiário, serão estabelecidas em regulamento.
 
-###### Art. 59.º - 1 - ...
+Art. 59.º - 1 - ...
 
 a) Dos ajudantes, quando sirvam em lugar de categoria igual à sua classe pessoal:
 
@@ -185,7 +202,7 @@ b) ...
 
 3 - ...
 
-###### Art. 88.º - 1 - ...
+Art. 88.º - 1 - ...
 
 2 - ...
 
@@ -197,11 +214,11 @@ b) ...
 
 6 - É aplicável aos funcionários a que se refere o presente artigo o disposto no artigo 89.º-A do presente diploma.
 
-###### Art. 89.º-A - 1 - Nas 1.ª e 2.ª classes dos quadros a que se refere o n.º 1 do artigo 40.º do presente diploma será aditado ao número de ajudantes determinado segundo a regra do seu n.º 3 o número de vagas suficientes para nelas ficarem incluídos os ajudantes que até 31 de Dezembro de 1979 se encontravam providos em lugares, respectivamente, de primeiro-ajudante e de segundo-ajudante.
+Art. 89.º-A - 1 - Nas 1.ª e 2.ª classes dos quadros a que se refere o n.º 1 do artigo 40.º do presente diploma será aditado ao número de ajudantes determinado segundo a regra do seu n.º 3 o número de vagas suficientes para nelas ficarem incluídos os ajudantes que até 31 de Dezembro de 1979 se encontravam providos em lugares, respectivamente, de primeiro-ajudante e de segundo-ajudante.
 
 2 - ...
 
-###### Art. 2.º - 1 - Os funcionários providos até 31 de Dezembro de 1979 em lugares de escriturário-dactilógrafo dos quadros dos serviços dos registos e do notariado, ainda que com menos de cinco anos de serviço, serão automaticamente integrados na 1.ª classe do quadro de pessoal de escriturários.
+Art. 2.º - 1 - Os funcionários providos até 31 de Dezembro de 1979 em lugares de escriturário-dactilógrafo dos quadros dos serviços dos registos e do notariado, ainda que com menos de cinco anos de serviço, serão automaticamente integrados na 1.ª classe do quadro de pessoal de escriturários.
 
 2 - Aos funcionários referidos no número anterior será considerado o tempo de serviço anteriormente prestado como escriturário-dactilógrafo.
 
@@ -209,8 +226,8 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 26 de Setembro de 1980.**
+Promulgado em 26 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

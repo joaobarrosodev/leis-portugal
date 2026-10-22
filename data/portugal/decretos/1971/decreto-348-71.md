@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/348-1971-635609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7ce9209c7e2fec4f5fa2a9af14590da756e90963bcbd8298c1d2b80000e8959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bc9389e6416356428b2e5feeef5fdfd9685f3c8a85e2607bf8217f3c902e905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:38Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças a favor do Ministério do Interior um crédito especial da quantia de 31000000$00, destinado a inscrever no capítulo 3.º, artigo 44.º, n.º 1), do actual orçamento do segundo dos mencionados Ministérios a seguinte alínea:
+Artigo 1.º É aberto no Ministério das Finanças a favor do Ministério do Interior um crédito especial da quantia de 31000000$00, destinado a inscrever no capítulo 3.º, artigo 44.º, n.º 1), do actual orçamento do segundo dos mencionados Ministérios a seguinte alínea:
 
 4. Subsídios às juntas gerais dos distritos autónomos das ilhas adjacentes, nos termos do [Decreto-Lei n.º 347/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1971-635608), de 11 de Agosto:
 
@@ -101,11 +113,11 @@ Ponta Delgada ... 7670000$00
 
 ... 31000000$00
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior são anuladas no orçamento do Ministério das Finanças as seguintes quantias:
+Art. 2.º Para compensação do crédito designado no artigo anterior são anuladas no orçamento do Ministério das Finanças as seguintes quantias:
 
-### Capítulo 5.º, artigo 47.º ... 7000000$00
+Capítulo 5.º, artigo 47.º ... 7000000$00
 
-### Capítulo 17.º, artigo 197.º, n.º 1), alínea 5 ... 24000000$00
+Capítulo 17.º, artigo 197.º, n.º 1), alínea 5 ... 24000000$00
 
 ... 31000000$00
 
@@ -113,8 +125,8 @@ Este crédito foi registado na Direcção-Geral da Contabilidade Pública e a mi
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 28 de Julho de 1971.**
+Promulgado em 28 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23900/18241825.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1973-413181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dedf778c05cd5988190641121a62ec54eaa6bec123a9b4a830771bb12df679ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b678c3d85ba61b7261a1ad6769b67f952878956a9b94d01c517c71b7849c634f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Permanente
+- Criação de Serviços
+- Medicamento
+- Medicamento Manipulado
+- Preço
+- Produto Farmacêutico
 relationships:
 - type: amended_by
   target: pt:dre:451851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451851:por
+  label: "Alterado o art. 1º pelo DEC LEI.247/83.09.06.1983.MAS, DR.IS [132] de 09.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1983-451851
+  date: '1983-06-09'
+- type: cites
+  target: pt:dre:458578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:36Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +114,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Junto da Direcção de Serviços de Farmácia e Medicamentos, da Direcção-Geral de Saúde, funcionará uma comissão permanente para a elaboração e revisão dos preços dos produtos manipulados e preparados inscritos no Formulário Galénico Nacional, com a seguinte composição:
+Artigo 1.º Junto da Direcção de Serviços de Farmácia e Medicamentos, da Direcção-Geral de Saúde, funcionará uma comissão permanente para a elaboração e revisão dos preços dos produtos manipulados e preparados inscritos no Formulário Galénico Nacional, com a seguinte composição:
 
 a) Um presidente, designado por despacho do Ministro da Saúde e Assistência, sob proposta do director-geral de Saúde;
 
@@ -105,22 +124,22 @@ c) Um vogal economista, a indicar pelo Ministério da Economia;
 
 d) Um técnico de saúde pública da Direcção de Serviços de Farmácia e Medicamentos, sem direito a voto, que será o secretário.
 
-###### Art. 2.º Compete à comissão:
+Art. 2.º Compete à comissão:
 
 a) Rever anualmente o Regimento Geral dos Preços dos Medicamentos e Manipulações, introduzindo-lhe as alterações julgadas necessárias, eliminando as drogas que deixarem de ter aplicação e incluindo outras cujo interesse venha a ser demonstrado, fixando os seus preços e actualizando-os ou corrigindo-os de acordo com as flutuações dos mercados;
 
 b) Fixar os preços das fórmulas inscritas no Formulário Galénico Nacional, actualizando-os ou corrigindo-os, sempre que for caso disso.
 
-###### Art. 3.º Os componentes da comissão terão direito a senhas de presença e, quando não residam em Lisboa, ao abono de transportes e de ajudas de custo.
+Art. 3.º Os componentes da comissão terão direito a senhas de presença e, quando não residam em Lisboa, ao abono de transportes e de ajudas de custo.
 
-###### Art. 4.º O presidente da comissão terá uma gratificação mensal, que será fixada em despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
+Art. 4.º O presidente da comissão terá uma gratificação mensal, que será fixada em despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
 
-###### Art. 5.º O serviço de expediente e arquivo da comissão será executado por um funcionário administrativo da Direcção de Serviços de Farmácia e Medicamentos, que perceberá uma gratificação mensal que será fixada em despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
+Art. 5.º O serviço de expediente e arquivo da comissão será executado por um funcionário administrativo da Direcção de Serviços de Farmácia e Medicamentos, que perceberá uma gratificação mensal que será fixada em despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 27 de Setembro de 1973.**
+Promulgado em 27 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

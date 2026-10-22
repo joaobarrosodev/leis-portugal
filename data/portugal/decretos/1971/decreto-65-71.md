@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/65-1971-445549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ca9364941de853d64b36670a3786f3bc0ce3e0994a8ffba12507ca3b24cacdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bb761c5002a88bac59d2f5f759a2c81756c857e93eb9a15e2c6980f4f6521ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior Judiciário do Ultramar
+- Definição de Competências
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:476326:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:476326:por
+  label: "Revogada a al. c) do art. 11º e o art. 41º pelo DEC LEI.311/74.09.07.1974.MCINT, DG.IS [158] de 09.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1974-476326
+  date: '1974-07-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:15Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +103,17 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Conselho Superior Judiciário do Ultramar é o órgão superior hierárquico da administração judiciária do ultramar, competindo-lhe a fiscalização, superintendência, disciplina e consulta dos respectivos serviços.
+Artigo 1.º O Conselho Superior Judiciário do Ultramar é o órgão superior hierárquico da administração judiciária do ultramar, competindo-lhe a fiscalização, superintendência, disciplina e consulta dos respectivos serviços.
 
-###### Art. 2.º - 1. Nas suas faltas ou impedimentos, o presidente do Conselho Superior Judiciário do Ultramar é substituído pelo vogal mais antigo e os vogais são substituídos pelo presidente da 1.ª subsecção do contencioso do Conselho Ultramarino e respectivos vogais, pela ordem de antiguidade, a partir da promoção à 2.ª instância.
+Art. 2.º - 1. Nas suas faltas ou impedimentos, o presidente do Conselho Superior Judiciário do Ultramar é substituído pelo vogal mais antigo e os vogais são substituídos pelo presidente da 1.ª subsecção do contencioso do Conselho Ultramarino e respectivos vogais, pela ordem de antiguidade, a partir da promoção à 2.ª instância.
 
 2. O critério estabelecido no número anterior é também aplicável quando se torne preciso completar o Conselho Superior Judiciário do Ultramar com as unidades necessárias à igualação numérica requerida para a reunião conjunta com o Conselho Superior Judiciário.
 
-###### Art. 3.º - 1. As deliberações do Conselho Superior Judiciário do Ultramar são tomadas, em conferência, por maioria absoluta dos presentes.
+Art. 3.º - 1. As deliberações do Conselho Superior Judiciário do Ultramar são tomadas, em conferência, por maioria absoluta dos presentes.
 
 2. O presidente funciona como adjunto e nesta qualidade tem visto e voto, lavrando as decisões em que fizer vencimento.
 
-###### Art. 4.º Ao presidente do Conselho Superior Judiciário do Ultramar incumbe:
+Art. 4.º Ao presidente do Conselho Superior Judiciário do Ultramar incumbe:
 
 a) Orientar superiormente a actividade do Conselho;
 
@@ -135,7 +143,7 @@ n) Dar posse e tomar o compromisso de honra aos inspectores judiciais;
 
 o) As demais funções que lhe sejam cometidas por lei.
 
-###### Art. 5.º - 1. Aos vogais presidentes das relações compete:
+Art. 5.º - 1. Aos vogais presidentes das relações compete:
 
 a) Orientar e fiscalizar os serviços judiciais na área da sua jurisdição, sem prejuízo de independência dos juízes na função de julgar;
 
@@ -155,7 +163,7 @@ g) Remeter, no 1.º trimestre de cada ano judicial, ao Conselho um mapa discrimi
 
 3. Quando o inquirido ou arguido for um oficial de justiça e parecer mais conveniente a nomeação de um magistrado do Ministério Público, será esta solicitada ao procurador, devendo o nomeado corresponder-se no respectivo expediente directamente com o presidente, a quem enviará, a final, os autos que tiver instruído.
 
-###### Art. 6.º - 1. Aos vogais procuradores da República compete:
+Art. 6.º - 1. Aos vogais procuradores da República compete:
 
 a) Propor ao Conselho Superior Judiciário do Ultramar inspecção extraordinária a quaisquer serviços do Ministério Público;
 
@@ -173,11 +181,11 @@ g) Remeter ao Conselho anualmente mapa discriminado do movimento de cada conserv
 
 2. É aplicável aos procuradores da República, relativamente aos magistrados do Ministério Público e restante pessoal seu subordinado, sujeito à jurisdição do Conselho, o disposto nos n.os 2 e 3 do artigo anterior, com as devidas adaptações.
 
-###### Art. 7.º Os presidentes das relações e os procuradores da República, sempre que o julguem conveniente, podem deslocar-se às comarcas do seu distrito a fim de verificar pessoalmente a forma como correm os serviços que lhe estão subordinados.
+Art. 7.º Os presidentes das relações e os procuradores da República, sempre que o julguem conveniente, podem deslocar-se às comarcas do seu distrito a fim de verificar pessoalmente a forma como correm os serviços que lhe estão subordinados.
 
-###### Art. 8.º Os processos no Conselho Superior Judiciário do Ultramar são distribuídos em igualdade pelos seus vogais permanentes.
+Art. 8.º Os processos no Conselho Superior Judiciário do Ultramar são distribuídos em igualdade pelos seus vogais permanentes.
 
-###### Art. 9.º Para efeitos de distribuição, os processos agrupam-se em três classes:
+Art. 9.º Para efeitos de distribuição, os processos agrupam-se em três classes:
 
 1.ª Disciplina;
 
@@ -185,9 +193,9 @@ g) Remeter ao Conselho anualmente mapa discriminado do movimento de cada conserv
 
 3.ª Relatório das inspecções.
 
-###### Art. 10.º Ao relator incumbe preparar a decisão, instruindo o processo com os elementos necessários, que poderá requisitar a todas as autoridades ou repartições.
+Art. 10.º Ao relator incumbe preparar a decisão, instruindo o processo com os elementos necessários, que poderá requisitar a todas as autoridades ou repartições.
 
-###### Art. 11.º Compete ao Conselho Superior Judiciário do Ultramar:
+Art. 11.º Compete ao Conselho Superior Judiciário do Ultramar:
 
 a) Promover o aperfeiçoamento das instituições judiciais e parajudiciais do ultramar;
 
@@ -225,9 +233,9 @@ l) Exercer as funções que lhe são cometidas na gestão dos cofres gerais de j
 
 m) Desempenhar as demais atribuições que lhe forem incumbidas por lei.
 
-###### Art. 12.º Aos inspectores, instrutores ou inquiridores não é permitida qualquer ingerência na execução dos serviços, devendo evitar, na medida do possível, a perturbação do serviço e abster-se de impor a sua opinião pessoal ou advertir os magistrados.
+Art. 12.º Aos inspectores, instrutores ou inquiridores não é permitida qualquer ingerência na execução dos serviços, devendo evitar, na medida do possível, a perturbação do serviço e abster-se de impor a sua opinião pessoal ou advertir os magistrados.
 
-###### Art. 13.º As penas aplicáveis aos magistrados e demais funcionários sujeitos à jurisdição do Conselho Superior Judiciário do Ultramar são as seguintes:
+Art. 13.º As penas aplicáveis aos magistrados e demais funcionários sujeitos à jurisdição do Conselho Superior Judiciário do Ultramar são as seguintes:
 
 1.ª Advertência;
 
@@ -243,13 +251,13 @@ m) Desempenhar as demais atribuições que lhe forem incumbidas por lei.
 
 7.ª Demissão.
 
-###### Art. 14.º A pena de advertência não é registada e nenhum efeito produz para a classificação ou promoção.
+Art. 14.º A pena de advertência não é registada e nenhum efeito produz para a classificação ou promoção.
 
-###### Art. 15.º A pena de censura é registada no processo individual do magistrado ou funcionário que a sofreu e constitui informação do seu curriculum vitae.
+Art. 15.º A pena de censura é registada no processo individual do magistrado ou funcionário que a sofreu e constitui informação do seu curriculum vitae.
 
-###### Art. 16.º A pena de multa importa a perda de antiguidade e de quaisquer proventos pelo tempo por que tiver sido imposta.
+Art. 16.º A pena de multa importa a perda de antiguidade e de quaisquer proventos pelo tempo por que tiver sido imposta.
 
-###### Art. 17.º A pena de suspensão importa:
+Art. 17.º A pena de suspensão importa:
 
 a) O afastamento completo do serviço durante o tempo de suspensão e a perda de quaisquer proventos correspondentes a esse período;
 
@@ -263,29 +271,29 @@ e) A perda da faculdade de recondução ou nomeação definitiva, ou da renovaç
 
 f) A impossibilidade de promoção durante um ano, contado do termo do cumprimento da pena.
 
-###### Art. 18.º A pena de inactividade, além dos efeitos declarados nas alíneas a) e e) do artigo anterior, importa a impossibilidade de promoção durante o dobro do tempo da sua duração, contado do termo do cumprimento da pena.
+Art. 18.º A pena de inactividade, além dos efeitos declarados nas alíneas a) e e) do artigo anterior, importa a impossibilidade de promoção durante o dobro do tempo da sua duração, contado do termo do cumprimento da pena.
 
-###### Art. 19.º - 1. As penas expulsivas importam a perda de privilégio de foro e a impossibilidade de reintegração ou de nomeação para quaisquer cargos públicos.
+Art. 19.º - 1. As penas expulsivas importam a perda de privilégio de foro e a impossibilidade de reintegração ou de nomeação para quaisquer cargos públicos.
 
 2. A pena de aposentação compulsiva importa a perda de antiguidade de três anos e a imediata desligação de serviço, situação em que o magistrado ou funcionário punido se manterá durante dezoito meses, sem direito a qualquer vencimento ou pensão.
 
 3. A pena de demissão importa a perda definitiva dos vencimentos ou da pensão de aposentação.
 
-###### Art. 20.º - Os magistrados que hajam sofrido qualquer das penas 4.ª ou 5.ª do artigo 13.º deste diploma ou das que em diplomas anteriores lhes devam ser equiparadas são inábeis para participar do Conselho Superior Judiciário do Ultramar ou para o exercício das funções de presidente dos tribunais superiores, representante do Ministério Público junto desses tribunais ou de inspector judicial de qualquer graduação.
+Art. 20.º - Os magistrados que hajam sofrido qualquer das penas 4.ª ou 5.ª do artigo 13.º deste diploma ou das que em diplomas anteriores lhes devam ser equiparadas são inábeis para participar do Conselho Superior Judiciário do Ultramar ou para o exercício das funções de presidente dos tribunais superiores, representante do Ministério Público junto desses tribunais ou de inspector judicial de qualquer graduação.
 
-###### Art. 21.º Constitui infracção disciplinar todo o facto voluntário praticado pelo magistrado ou funcionário com violação de algum dos deveres que pela respectiva qualidade lhe caibam.
+Art. 21.º Constitui infracção disciplinar todo o facto voluntário praticado pelo magistrado ou funcionário com violação de algum dos deveres que pela respectiva qualidade lhe caibam.
 
-###### Art. 22.º As penas 1.ª e 2.ª do artigo 13.º do presente diploma serão aplicadas a faltas leves que não devam passar sem reparo, no interesse do serviço e para aperfeiçoamento profissional do magistrado ou funcionário.
+Art. 22.º As penas 1.ª e 2.ª do artigo 13.º do presente diploma serão aplicadas a faltas leves que não devam passar sem reparo, no interesse do serviço e para aperfeiçoamento profissional do magistrado ou funcionário.
 
-###### Art. 23.º A pena 3.ª é aplicável nos casos de negligência ou incompreensão dos deveres profissionais fundamentalmente imputável à falta de experiência prolongada das exigências funcionais.
+Art. 23.º A pena 3.ª é aplicável nos casos de negligência ou incompreensão dos deveres profissionais fundamentalmente imputável à falta de experiência prolongada das exigências funcionais.
 
-###### Art. 24.º As penas 4.ª e 5.ª são aplicáveis nos casos de negligência grave, de grave desinteresse pelo cumprimento dos deveres profissionais ou de incompetência profissional remediável.
+Art. 24.º As penas 4.ª e 5.ª são aplicáveis nos casos de negligência grave, de grave desinteresse pelo cumprimento dos deveres profissionais ou de incompetência profissional remediável.
 
-###### Art. 25.º A pena de aposentação compulsiva é aplicável aos magistrados e funcionários que, reunindo os requisitos legais para a aposentação voluntária, por actos praticados no exercício do cargo ou pela sua conduta mostrem que a sua continuação na efectividade do serviço pode causar graves transtornos à boa administração da justiça ou ao prestígio da função pública.
+Art. 25.º A pena de aposentação compulsiva é aplicável aos magistrados e funcionários que, reunindo os requisitos legais para a aposentação voluntária, por actos praticados no exercício do cargo ou pela sua conduta mostrem que a sua continuação na efectividade do serviço pode causar graves transtornos à boa administração da justiça ou ao prestígio da função pública.
 
-###### Art. 26.º A pena de demissão será imposta aos magistrados e funcionários que tenham abandonado o lugar ou por outro modo revelem definitiva impossibilidade de adaptação às exigências do serviço, quer por falta de honestidade, grave insubordinação, conduta imoral ou desonrosa, quer por insanável incompetência profissional.
+Art. 26.º A pena de demissão será imposta aos magistrados e funcionários que tenham abandonado o lugar ou por outro modo revelem definitiva impossibilidade de adaptação às exigências do serviço, quer por falta de honestidade, grave insubordinação, conduta imoral ou desonrosa, quer por insanável incompetência profissional.
 
-###### Art. 27.º - 1. O Conselho Superior Judiciário do Ultramar tem competência para aplicar aos magistrados e demais funcionários sob a sua jurisdição qualquer das penas previstas no artigo 13.º do presente diploma.
+Art. 27.º - 1. O Conselho Superior Judiciário do Ultramar tem competência para aplicar aos magistrados e demais funcionários sob a sua jurisdição qualquer das penas previstas no artigo 13.º do presente diploma.
 
 2. As penas de aposentação compulsiva ou demissão só podem ser aplicadas a juízes de direito ou juízes desembargadores na efectividade de funções, em sessão plenária do Conselho.
 
@@ -293,7 +301,7 @@ f) A impossibilidade de promoção durante um ano, contado do termo do cumprimen
 
 4. Embora a decisão do Conselho não tenha aplicado as penas referidas no número anterior, por não ter havido vencimento nesse sentido, deverá cumprir-se o que nele se dispõe sempre que se tenha formulado algum voto em favor da respectiva aplicação.
 
-###### Art. 28.º Os presidentes dos tribunais superiores do ultramar têm competência para aplicar as seguintes penas disciplinares, previstas no artigo 13.º:
+Art. 28.º Os presidentes dos tribunais superiores do ultramar têm competência para aplicar as seguintes penas disciplinares, previstas no artigo 13.º:
 
 a) A 1.ª aos magistrados judiciais que servem nesses tribunais;
 
@@ -301,33 +309,33 @@ b) As 1.ª a 3.ª aos juízes de direito, municipais e de paz dos respectivos di
 
 c) As 1.ª a 5.ª aos funcionários em serviço em qualquer tribunal do respectivo distrito judicial.
 
-###### Art. 29.º Os procuradores da República têm, relativamente aos magistrados e funcionários seus subordinados, com as devidas adaptações, a competência disciplinar dos presidentes dos tribunais superiores do ultramar.
+Art. 29.º Os procuradores da República têm, relativamente aos magistrados e funcionários seus subordinados, com as devidas adaptações, a competência disciplinar dos presidentes dos tribunais superiores do ultramar.
 
-###### Art. 30.º Os juízes de direito e municipais, os delegados do procurador da República, conservadores e notários têm competência para aplicar as penas 1.ª a 3.ª do artigo 13.º aos funcionários de secretaria que lhes estão directamente subordinados.
+Art. 30.º Os juízes de direito e municipais, os delegados do procurador da República, conservadores e notários têm competência para aplicar as penas 1.ª a 3.ª do artigo 13.º aos funcionários de secretaria que lhes estão directamente subordinados.
 
-###### Art. 31.º Os chefes de secretaria judicial têm competência para aplicar a pena 1.ª do artigo 13.º aos funcionários que lhes estão directamente subordinados.
+Art. 31.º Os chefes de secretaria judicial têm competência para aplicar a pena 1.ª do artigo 13.º aos funcionários que lhes estão directamente subordinados.
 
-###### Art. 32.º A pena de advertência é aplicável independentemente de processo, mediante simples audiência do arguido.
+Art. 32.º A pena de advertência é aplicável independentemente de processo, mediante simples audiência do arguido.
 
-###### Art. 33.º A fiscalização e investigação das condições de funcionamento dos serviços judiciais e parajudiciais do ultramar e das irregularidades neles cometidas exercem-se por meio de inspecções, inquéritos ou processos disciplinares.
+Art. 33.º A fiscalização e investigação das condições de funcionamento dos serviços judiciais e parajudiciais do ultramar e das irregularidades neles cometidas exercem-se por meio de inspecções, inquéritos ou processos disciplinares.
 
-###### Art. 34.º As inspecções destinam-se a facultar ao Conselho Superior Judiciário do Ultramar conhecimento do estado, necessidades e deficiências dos serviços, bem como dos méritos e deméritos dos agentes, a fim de se proceder à sua classificação e eventual correcção disciplinar.
+Art. 34.º As inspecções destinam-se a facultar ao Conselho Superior Judiciário do Ultramar conhecimento do estado, necessidades e deficiências dos serviços, bem como dos méritos e deméritos dos agentes, a fim de se proceder à sua classificação e eventual correcção disciplinar.
 
-###### Art. 35.º - 1. O inquérito será determinado sempre que se tenha em vista apurar se foram efectivamente praticados factos irregulares de que se suspeita e qual o seu carácter e imputação.
+Art. 35.º - 1. O inquérito será determinado sempre que se tenha em vista apurar se foram efectivamente praticados factos irregulares de que se suspeita e qual o seu carácter e imputação.
 
 2. A sua instrução deve estar ultimada no prazo de 30 dias e concluirá pelo relatório conciso mas completo dos factos e circunstâncias apurados.
 
 3. Concluindo-se no relatório pela prova da prática de infracções disciplinares e individualização dos seus autores, será o inquérito imediatamente convertido em processo disciplinar, juntando-se o registo biográfico e deduzindo acusação articulada das faltas cometidas, nos termos desta forma de processo.
 
-###### Art. 36.º - 1. O processo disciplinar é o meio de efectivação da responsabilidade disciplinar dos magistrados e funcionários.
+Art. 36.º - 1. O processo disciplinar é o meio de efectivação da responsabilidade disciplinar dos magistrados e funcionários.
 
 2. À sua instrução e julgamento são supletivamente aplicáveis, com as convenientes adaptações e no que não forem contrárias ao presente diploma ou às disposições da Organização Judiciária, as normas do Estatuto do Funcionalismo Ultramarino que se não refiram aos Conselhos Disciplinares ou, em processos contra magistrados, que permitam a sua suspensão preventiva.
 
-###### Art. 37.º - 1. As penas impostas em outros processos não produzem efeitos disciplinares para o magistrado ou funcionário, salvo as resultantes de condenações por crimes que são equiparadas às penas do mesmo nome do artigo 13.º deste diploma e, nos restantes casos, se o Conselho Superior Judiciário do Ultramar, ao ter conhecimento da decisão, considerar que os factos que a produziram integram simultâneamente infracção disciplinar, ordenando o respectivo procedimento para aplicação da sanção disciplinar.
+Art. 37.º - 1. As penas impostas em outros processos não produzem efeitos disciplinares para o magistrado ou funcionário, salvo as resultantes de condenações por crimes que são equiparadas às penas do mesmo nome do artigo 13.º deste diploma e, nos restantes casos, se o Conselho Superior Judiciário do Ultramar, ao ter conhecimento da decisão, considerar que os factos que a produziram integram simultâneamente infracção disciplinar, ordenando o respectivo procedimento para aplicação da sanção disciplinar.
 
 2. As decisões proferidas nos tribunais ordinários, mesmo quando não abrangidas pela ressalva prevista no número anterior, têm em matéria disciplinar, salvo quanto à qualificação, os efeitos previstos nos artigos 153.º e 154.º do Código de Processo Penal.
 
-###### Art. 38.º O recurso em matéria disciplinar compreende:
+Art. 38.º O recurso em matéria disciplinar compreende:
 
 a) As decisões das entidades referidas no artigo 30.º do presente diploma que apliquem as penas 2.ª e 3.ª do artigo 13.º;
 
@@ -335,22 +343,22 @@ b) As decisões dos presidentes dos tribunais superiores e procuradores da Repú
 
 c) As deliberações do Conselho Superior Judiciário do Ultramar que tenham aplicado a pena 3.ª do artigo 13.º quando esta não tenha sido imposta no grau hierárquico de que se recorreu e, em qualquer caso, quando tenham aplicado as penas 4.ª e 5.ª, a última restrita aos funcionários.
 
-###### Art. 39.º - 1. Os recursos previstos no artigo anterior cabem das entidades referidas no artigo 30.º do presente diploma para as indicadas na alínea b) do artigo 38.º; destas para o Conselho Superior Judiciário do Ultramar, e deste para o Ministro do Ultramar.
+Art. 39.º - 1. Os recursos previstos no artigo anterior cabem das entidades referidas no artigo 30.º do presente diploma para as indicadas na alínea b) do artigo 38.º; destas para o Conselho Superior Judiciário do Ultramar, e deste para o Ministro do Ultramar.
 
 2. Dos despachos do Ministro em matéria disciplinar apenas cabe recurso contencioso nos termos da Lei Orgânica do Supremo Tribunal Administrativo.
 
-###### Art. 40.º - 1. Estando pendente recurso de decisão proferida nos tribunais ordinários, com efeitos disciplinares, ou tendo sido ordenado procedimento disciplinar contra qualquer magistrado ou funcionários, não podem estes ser promovidos, ou mudados de situação até decisão final do processo quando o Conselho, atendendo à gravidade do caso, assim deliberar.
+Art. 40.º - 1. Estando pendente recurso de decisão proferida nos tribunais ordinários, com efeitos disciplinares, ou tendo sido ordenado procedimento disciplinar contra qualquer magistrado ou funcionários, não podem estes ser promovidos, ou mudados de situação até decisão final do processo quando o Conselho, atendendo à gravidade do caso, assim deliberar.
 
 2. Se o magistrado ou funcionário for absolvido a final, ou as arguições forem havidas por improcedentes e entretanto outros mais modernos tiverem sido promovidos, ser-lhes-á atribuída, na nova classe ou categoria, a antiguidade que lhe corresponderia se tivesse sido promovido na altura própria, fazendo-se menção do facto no respectivo diploma de provimento.
 
-###### Art. 41.º Independentemente do apuramento de responsabilidade disciplinar, o Conselho Superior Judiciário do Ultramar poderá propor, mesmo dentro do período de inamovibilidade de um magistrado judicial, a sua transferência para outro distrito, comarca ou tribunal, quando se verifiquem circunstâncias excepcionais e peculiares a determinado distrito, comarca ou tribunal ou ao magistrado que neles servir, e que conduzam à convicção de que é conveniente para o serviço ou para a defesa da própria carreira do magistrado o seu afastamento da localidade ou tribunal em que está servindo.
+Art. 41.º Independentemente do apuramento de responsabilidade disciplinar, o Conselho Superior Judiciário do Ultramar poderá propor, mesmo dentro do período de inamovibilidade de um magistrado judicial, a sua transferência para outro distrito, comarca ou tribunal, quando se verifiquem circunstâncias excepcionais e peculiares a determinado distrito, comarca ou tribunal ou ao magistrado que neles servir, e que conduzam à convicção de que é conveniente para o serviço ou para a defesa da própria carreira do magistrado o seu afastamento da localidade ou tribunal em que está servindo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Fevereiro de 1971.**
+Promulgado em 15 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

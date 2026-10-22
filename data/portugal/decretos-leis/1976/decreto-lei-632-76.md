@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1976-430864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b88e8053d6f33a6ad3bf89d4d4964a06b845bc55374f8a1100a0cb7f1f8b866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65e7f7fd07c8736b7cf5df55767696188ca32f7da2f8d3af5f74e337950af571
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Criação de Serviços
+- Instituto Nacional da Propriedade Industrial
+- Ministério do Comércio Externo
 relationships:
 - type: amended_by
   target: pt:dre:545649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:471113:por
+  label: "Extinta a Repartição da Propriedade Industrial, criada pelo Decreto n.º 7036, de 17 de Outubro de 1920, alterada\
+    \ pelo presente diploma, pelo DR.37/80.19.08.1980.MCT, DR.IS [190] de 19.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/37-1980-471113
+  date: '1980-08-19'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Transferido o Instituto Nacional da Propriedade Industrial, criado pelo presente diploma, para o âmbito do Ministério\
+    \ da Justiça, pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585845:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:56Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +138,9 @@ Convindo institucionalizar esta dependência, que as circunstâncias, de momento
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - É criado, no âmbito do Ministério do Comércio Externo, o Instituto Nacional da Propriedade Industrial, designado abreviadamente por INPI.
+Artigo 1.º - É criado, no âmbito do Ministério do Comércio Externo, o Instituto Nacional da Propriedade Industrial, designado abreviadamente por INPI.
 
-###### Art. 2.º - 1. O INPI será dirigido por um director e compreenderá os seguintes serviços:
+Art. 2.º - 1. O INPI será dirigido por um director e compreenderá os seguintes serviços:
 
 a) Direcção de Serviços de Patentes;
 
@@ -130,20 +154,20 @@ d) Direcção de Serviços de Recursos e Ilícitos
 
 3. O INPI dispõe de um conselho administrativo e de uma comissão de gestão de pessoal.
 
-###### Art. 3.º As atribuições, organização e competência, bem como o regime do pessoal, serão objecto de decreto simples dos Ministérios do Comércio Externo, da Administração Interna, das Finanças e da Justiça, de harmonia com o disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 3.º As atribuições, organização e competência, bem como o regime do pessoal, serão objecto de decreto simples dos Ministérios do Comércio Externo, da Administração Interna, das Finanças e da Justiça, de harmonia com o disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
-###### Art. 4.º Logo que se encontrem efectivadas as transferências de funções e de pessoal, extinguir-se-á, por decreto simples, a Repartição da Propriedade Industrial.
+Art. 4.º Logo que se encontrem efectivadas as transferências de funções e de pessoal, extinguir-se-á, por decreto simples, a Repartição da Propriedade Industrial.
 
 Arit. 5.º Na parte não contrariada por este decreto-lei manter-se-á em vigor o Código da Propriedade Industrial enquanto nova legislação não for promulgada.
 
-###### Art. 6.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 6.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro do Comércio Externo, com o acordo do Ministro das Finanças quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
+Art. 7.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro do Comércio Externo, com o acordo do Ministro das Finanças quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

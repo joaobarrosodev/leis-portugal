@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/110-1972-397716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22077e329afc941f5fead96efc8d2e8db17658411b0b003613910b8aed62080e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d08c6b63d49c0ada80164b20ce8f745d1f51512c248aa382a29fec0616c57764
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:31Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +100,7 @@ Nestes termos, sob proposta do Governo de S. Tomé e Príncipe;
 
 Por motivo de urgência e usando da faculdade conferida nos §§ 1.º e 3.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de S. Tomé e Príncipe são criados os seguintes lugares, com a categoria correspondente à letra H, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
+Artigo 1.º - 1. No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de S. Tomé e Príncipe são criados os seguintes lugares, com a categoria correspondente à letra H, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
 
 a) Pessoal de exploração:
 
@@ -104,11 +112,11 @@ b) Pessoal técnico:
 
 2. No quadro privativo do pessoal técnico dos mesmos Serviços é extinto o lugar de condutor de máquinas e electricidade.
 
-###### Art. 2.º - 1. Ao chefe de serviços de exploração de 2.ª classe compete a execução de todos os trabalhos que lhe forem atribuídos pelo chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, bem como fiscalizar e dirigir as actividades das 2.ª e 3.ª Secções e das estações postais e de telecomunicações da província, e ainda substituir o chefe da Repartição nos seus impedimentos e ausências.
+Art. 2.º - 1. Ao chefe de serviços de exploração de 2.ª classe compete a execução de todos os trabalhos que lhe forem atribuídos pelo chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, bem como fiscalizar e dirigir as actividades das 2.ª e 3.ª Secções e das estações postais e de telecomunicações da província, e ainda substituir o chefe da Repartição nos seus impedimentos e ausências.
 
 2. Ao chefe de serviços técnicos de 2.ª classe compete a execução de todos os trabalhos que lhe forem atribuídos pelo chefe da Repartição Provincial dos Correios, Telégrafos e Telefones, bem como fiscalizar e dirigir as actividades da 4.ª Secção, oficinas e depósito de material, e ocupar-se do estudo, construção e conservação de todas as instalações e equipamentos de telecomunicações da província.
 
-###### Art. 3.º O primeiro provimento dos lugares criados pelo artigo 1.º será feito por escolha do Governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
+Art. 3.º O primeiro provimento dos lugares criados pelo artigo 1.º será feito por escolha do Governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
 
 a) Para o lugar de chefe de serviços de exploração de 2.ª classe a escolha será feita de entre os primeiros-oficiais e radiotelegrafistas de 1.ª classe com mais de dois anos na categoria, boas informações e conhecimentos para o exercício do cargo;
 
@@ -116,7 +124,7 @@ b) Para o lugar de chefe de serviços técnicos de 2.ª classe a escolha será f
 
 c) Para efeitos do provimento referido na alínea anterior, será publicado aviso no Boletim Oficial da província fixando o prazo durante o qual deverão dar entrada na Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones os requerimentos dos agentes técnicos de engenharia electro-mecânica pedindo o provimento no lugar, prazo esse que será fixado por despacho do Governador da província.
 
-###### Art. 4.º - 1. O provimento posterior dos lugares criados pelo artigo 1.º será feito por concurso documental, observando-se o seguinte:
+Art. 4.º - 1. O provimento posterior dos lugares criados pelo artigo 1.º será feito por concurso documental, observando-se o seguinte:
 
 a) Para o lugar de chefe de serviços de exploração de 2.ª classe serão admitidos a concurso os primeiros-oficiais e radiotelegrafistas de 1.ª classe com mais de dois anos de serviço efectivo na categoria e boas informações;
 
@@ -126,24 +134,24 @@ b) Para o lugar de chefe de serviços técnicos de 2.ª classe serão admitidos 
 
 3. O júri dos concursos será constituído nos termos do artigo 258.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
-###### Art. 5.º Nas escolhas e concursos a que se referem os artigos 3.º e 4.º deverá sempre ter-se em conta o mérito, a qualificação profissional e, quando os interessados forem funcionários, também a antiguidade de serviço destes, a considerar pela ordem enunciada:
+Art. 5.º Nas escolhas e concursos a que se referem os artigos 3.º e 4.º deverá sempre ter-se em conta o mérito, a qualificação profissional e, quando os interessados forem funcionários, também a antiguidade de serviço destes, a considerar pela ordem enunciada:
 
 a) O mérito será avaliado tendo em conta os factores de qualidade de serviço e habilitações profissionais e literárias, a considerar pela ordem mencionada, pelo que só se deverá passar da apreciação de um factor ao imediato para graduar concorrentes em situações de paridade naquele que o antecede;
 
 b) Na avaliação da qualificação profissional tomar-se-ão em conta as informações anuais, os louvores, os castigos, o exercício de cargos superiores ou de elevada responsabilidade, a classificação de curso e tudo o mais que revele aptidão para o cargo.
 
-###### Art. 6.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe que forem providos nos lugares criados pelo artigo 1.º deste decreto e que tenham entrado para os serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
+Art. 6.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe que forem providos nos lugares criados pelo artigo 1.º deste decreto e que tenham entrado para os serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
 
-###### Art. 7.º Quando os concursos para chefes de oficinas, abertos nos termos e condições estabelecidos no artigo 241.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, fiquem desertos por não haver concorrentes com as habilitações referidas na alínea f) do artigo 223.º do mesmo decreto, fica o Governador da província de S. Tomé e Príncipe autorizado a permitir a admissão aos referidos concursos de mecânicos de 1.ª e 2.ª classes que tenham, pelo menos, dois anos de serviço e boas informações.
+Art. 7.º Quando os concursos para chefes de oficinas, abertos nos termos e condições estabelecidos no artigo 241.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, fiquem desertos por não haver concorrentes com as habilitações referidas na alínea f) do artigo 223.º do mesmo decreto, fica o Governador da província de S. Tomé e Príncipe autorizado a permitir a admissão aos referidos concursos de mecânicos de 1.ª e 2.ª classes que tenham, pelo menos, dois anos de serviço e boas informações.
 
-###### Art. 8.º Os lugares criados pelo artigo 1.º deste decreto só serão orçamentados à medida que as disponibilidades financeiras da província o permitam.
+Art. 8.º Os lugares criados pelo artigo 1.º deste decreto só serão orçamentados à medida que as disponibilidades financeiras da província o permitam.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Março de 1972.**
+Promulgado em 22 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.

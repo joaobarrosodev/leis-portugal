@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1977-277800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51108bda7a596ecc87e92b883cf5fbc212fb20b4183c0765369bb57f75133b53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e645afcf1eb7609326d6db5d2ca6d764b74dcbe540c458eb90d4d8ba88383f97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Empréstimo
+- Portugal
+- Títulos de Crédito
+relationships:
+- type: cites
+  target: pt:dre:255416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:30Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +112,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É o Governo autorizado a dar o seu acordo ao aumento da quota de Portugal no Banco Internacional de Reconstrução e Desenvolvimento de 99,8 para 132,4 milhões de dólares dos Estados Unidos da América, do peso e toque em vigor em 1 de Julho de 1944.
+Artigo 1.º É o Governo autorizado a dar o seu acordo ao aumento da quota de Portugal no Banco Internacional de Reconstrução e Desenvolvimento de 99,8 para 132,4 milhões de dólares dos Estados Unidos da América, do peso e toque em vigor em 1 de Julho de 1944.
 
-###### Art. 2.º A autorização concedida ao Governo pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, abrangerá todos os encargos inerentes à realização da participação de Portugal no capital social do Banco Internacional de Reconstrução e Desenvolvimento até ao seu novo valor de 132,4 milhões de dólares dos Estados Unidos da América, do peso e toque referidos no artigo 1.º, designadamente os relativos a juros e comissões.
+Art. 2.º A autorização concedida ao Governo pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, abrangerá todos os encargos inerentes à realização da participação de Portugal no capital social do Banco Internacional de Reconstrução e Desenvolvimento até ao seu novo valor de 132,4 milhões de dólares dos Estados Unidos da América, do peso e toque referidos no artigo 1.º, designadamente os relativos a juros e comissões.
 
-###### Art. 3.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), na parte respeitante ao Banco Internacional de Reconstrução e Desenvolvimento e com as alterações introduzidas pelo presente diploma, vigorará em relação à totalidade das acções subscritas pelo País, isto é, tanto quanto à fracção inicial e ao aumento permitido pelo [Decreto-Lei n.º 324/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1977-255416), de 8 de Agosto, como quanto à elevação agora autorizada.
+Art. 3.º O regime jurídico constante do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), na parte respeitante ao Banco Internacional de Reconstrução e Desenvolvimento e com as alterações introduzidas pelo presente diploma, vigorará em relação à totalidade das acções subscritas pelo País, isto é, tanto quanto à fracção inicial e ao aumento permitido pelo [Decreto-Lei n.º 324/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1977-255416), de 8 de Agosto, como quanto à elevação agora autorizada.
 
-###### Art. 4.º Os títulos de obrigação referidos na secção 12 do artigo V do Acordo aprovado pelo [Decreto-Lei n.º 43337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43337-1960-514182), de 28 de Novembro de 1960, e a emitir ao abrigo da autorização concedida pelo n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), para liberação do aumento de capital de que trata o presente diploma, assumirão a forma de promissória.
+Art. 4.º Os títulos de obrigação referidos na secção 12 do artigo V do Acordo aprovado pelo [Decreto-Lei n.º 43337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43337-1960-514182), de 28 de Novembro de 1960, e a emitir ao abrigo da autorização concedida pelo n.º 1 do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), para liberação do aumento de capital de que trata o presente diploma, assumirão a forma de promissória.
 
-###### Art. 5.º - 1 - Da promissória mencionada no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
+Art. 5.º - 1 - Da promissória mencionada no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
 
 a) O número de ordem;
 
@@ -119,8 +136,8 @@ e) Os direitos, isenções e garantias de que goza e que são os dos restantes t
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Alberto José dos Santos Ramalheira.
 
-**Promulgado em 18 de Outubro de 1977.**
+Promulgado em 18 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

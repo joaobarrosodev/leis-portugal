@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05900/03750378.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1975-160893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d18e199c183869c6232a8aadc42bdbb2e92f8264474bf51544c66d0c8d8f21f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 764ec549aeb67ac2fdd5ba4c134d44f7e2277be726af9369bbb271645cb77f2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Comissão Interministerial de Saneamento e Reclassificação
+- Definição de Competências
+- Função Pública
+- Saneamento de Pessoal
+- Saneamento Político
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506031:por
+  label: "Determinada a transferência para o Conselho da Revolução das competências atribuídas ao Conselho de Ministros pelo\
+    \ art. 12º do presente diploma, assim como dos processos constituídos no âmbito daquelas, pelo DEC LEI.41/76.20.01.1976.CR,\
+    \ DG.IS [16] de 20.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1976-506031
+  date: '1976-01-20'
+- type: cites
+  target: pt:dre:309908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623005:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:29Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +138,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 24 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os servidores civis do Estado, serviços e empresas públicas, autarquias locais e demais pessoas colectivas de direito público podem ser suspensos, transferidos, mandados aposentar ou demitidos, nos termos estabelecidos por este diploma.
+Artigo 1.º - 1. Os servidores civis do Estado, serviços e empresas públicas, autarquias locais e demais pessoas colectivas de direito público podem ser suspensos, transferidos, mandados aposentar ou demitidos, nos termos estabelecidos por este diploma.
 
 2. O estudo e apresentação de propostas para a aplicação das medidas previstas neste diploma competem à Comissão Interministerial de Saneamento e Reclassificação e às Comissões Ministeriais de Saneamento e Reclassificação, constituídas nos termos deste diploma e das disposições regulamentares aplicáveis.
 
@@ -110,7 +148,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 5. O presente diploma aplica-se a todos os servidores civis referidos no n.º 1, independentemente da forma do respectivo provimento ou situação perante a Administração, na efectividade ou que a esta possam vir a regressar, bem como aos que tenham passado, por qualquer motivo, à situação de aposentado até à publicação do presente diploma.
 
-###### Art. 2.º - 1. Conforme o grau e a gravidade do seu comprometimento com o regime deposto, os funcionários ou agentes que, pelo seu comportamento, mostrem não oferecer actualmente garantias de idoneidade para o exercício das suas funções ou que revelem desrespeito pelos princípios consignados no Programa do Movimento das Forças Armadas serão:
+Art. 2.º - 1. Conforme o grau e a gravidade do seu comprometimento com o regime deposto, os funcionários ou agentes que, pelo seu comportamento, mostrem não oferecer actualmente garantias de idoneidade para o exercício das suas funções ou que revelem desrespeito pelos princípios consignados no Programa do Movimento das Forças Armadas serão:
 
 a) Transferidos, com ou sem diminuição de categoria ou vencimento, dentro de cada Ministério, ou de um Ministério para outro;
 
@@ -128,11 +166,11 @@ b) Factos anteriores e posteriores a 25 de Abril de 1974 que comprovadamente rev
 
 c) Incompetência, desinteresse pelo serviço, falta de idoneidade, corrupção e obstrução ao regular e eficiente funcionamento dos serviços.
 
-###### Art. 3.º - 1. As medidas previstas no artigo 2.º serão aplicadas por deliberação da Comissão Interministerial, sob proposta da comissão ministerial, ouvida, em caso de transferência para outro Ministério, a Comissão Interministerial de Gestão de Pessoal, ou os Ministros interessados, enquanto esta não funcionar.
+Art. 3.º - 1. As medidas previstas no artigo 2.º serão aplicadas por deliberação da Comissão Interministerial, sob proposta da comissão ministerial, ouvida, em caso de transferência para outro Ministério, a Comissão Interministerial de Gestão de Pessoal, ou os Ministros interessados, enquanto esta não funcionar.
 
 2. A deliberação da Comissão Interministerial, prevista no número anterior, será submetida a homologação do Conselho de Ministros, que poderá delegar essas funções nos seus membros.
 
-###### Art. 4.º - 1. Quando pertençam a quadros permanentes, os funcionários transferidos nos termos do artigo 2.º não poderão ocupar lugares vagos nos quadros dos serviços em que forem colocados, salvo se se tratar de lugares de ingresso, de lugares que não possam ser providos por funcionários dos quadros existentes, ou de quadros criados após a publicação deste diploma.
+Art. 4.º - 1. Quando pertençam a quadros permanentes, os funcionários transferidos nos termos do artigo 2.º não poderão ocupar lugares vagos nos quadros dos serviços em que forem colocados, salvo se se tratar de lugares de ingresso, de lugares que não possam ser providos por funcionários dos quadros existentes, ou de quadros criados após a publicação deste diploma.
 
 Os referidos funcionários poderão ainda ser colocados no quadro de adidos criado no Ministério da Administração Interna.
 
@@ -154,13 +192,13 @@ c) O pessoal sem vínculo, abonado em regime eventual de prestação de serviço
 
 7. A recusa de prestação de serviços pelos funcionários ou agentes transferidos corresponde a abandono de lugar.
 
-###### Art. 5.º - 1. A Comissão Interministerial de Saneamento e Reclassificação poderá determinar que, atentas as circunstâncias, sejam atenuados ou, até, que deixem de verificar-se os efeitos que, nos termos da lei geral, a aposentação compulsiva importa.
+Art. 5.º - 1. A Comissão Interministerial de Saneamento e Reclassificação poderá determinar que, atentas as circunstâncias, sejam atenuados ou, até, que deixem de verificar-se os efeitos que, nos termos da lei geral, a aposentação compulsiva importa.
 
 2. A pensão correspondente à aposentação compulsiva prevista no presente diploma poderá também, em casos excepcionais, ser fixada em quantitativo inferior ao normal, mas não inferior ao montante da pensão mínima do regime geral da Previdência.
 
-###### Art. 6.º O Conselho de Ministros poderá, oficiosamente e à luz dos princípios consignados no artigo 2.º deste diploma, rever as pensões de aposentação dos indivíduos referidos no artigo 8.º atribuídas por empresas em que o Estado detenha a maioria do capital social.
+Art. 6.º O Conselho de Ministros poderá, oficiosamente e à luz dos princípios consignados no artigo 2.º deste diploma, rever as pensões de aposentação dos indivíduos referidos no artigo 8.º atribuídas por empresas em que o Estado detenha a maioria do capital social.
 
-###### Art. 7.º - 1. Consideram-se demitidos da função pública, a contar da data da publicação deste diploma, se ainda o não tiverem sido a contar de data anterior:
+Art. 7.º - 1. Consideram-se demitidos da função pública, a contar da data da publicação deste diploma, se ainda o não tiverem sido a contar de data anterior:
 
 a) Todos aqueles que, entre 28 de Maio de 1926 e 25 de Abril de 1974, hajam exercido as funções de Presidente da República e de Presidente do Conselho de Ministros;
 
@@ -172,9 +210,9 @@ d) Os vigilantes das escolas de ensino superior e os funcionários, agentes ou r
 
 2. Para os efeitos das alíneas c) e d) do número anterior, consideram-se informadores todos aqueles funcionários ou agentes referidos no n.º 1 do artigo 1.º deste diploma que aos organismos acima referidos prestaram informações sobre a vida privada e política dos cidadãos, mediante determinada remuneração, e bem assim aqueles que, com fins persecutórios, gratuitamente lhes forneceram informações de idêntico teor.
 
-###### Art. 8.º O Conselho de Ministros poderá demitir da função pública, à luz dos princípios consignados no artigo 2.º deste diploma, aqueles que, entre 28 de Maio de 1926 e 25 de Abril de 1974, hajam exercido as funções de membro do Governo ou do Conselho de Estado.
+Art. 8.º O Conselho de Ministros poderá demitir da função pública, à luz dos princípios consignados no artigo 2.º deste diploma, aqueles que, entre 28 de Maio de 1926 e 25 de Abril de 1974, hajam exercido as funções de membro do Governo ou do Conselho de Estado.
 
-###### Art. 9.º - 1. Sem prejuízo do disposto no artigo 7.º, são automaticamente suspensos do exercício de funções e de imediato sujeitos a processo de saneamento a instaurar pela respectiva comissão ministerial, nos termos da legislação regulamentar:
+Art. 9.º - 1. Sem prejuízo do disposto no artigo 7.º, são automaticamente suspensos do exercício de funções e de imediato sujeitos a processo de saneamento a instaurar pela respectiva comissão ministerial, nos termos da legislação regulamentar:
 
 a) Os funcionários ou agentes abrangidos por qualquer das incapacidades eleitorais a que se refere o artigo 1.º do [Decreto-Lei n.º 621-B/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-b-1974-309908), de 19 de Novembro;
 
@@ -188,17 +226,17 @@ c) Os adjuntos leitores ou revisores da Comissão Central de Censura ou de Exame
 
 4. Nos termos do artigo 365.º, n.º 1, alínea c), do Estatuto Judiciário, todos os juízes e magistrados do Ministério Público que se encontrem abrangidos por alguma das situações contempladas nos artigos 1.º e 2.º do [Decreto-Lei n.º 621-B/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-b-1974-309908), de 19 de Novembro, ficam suspensos imediatamente do exercício das suas funções. Para os efeitos do disposto neste número é inoperante a reabilitação a que se refere o número anterior.
 
-###### Art. 10.º - 1. Sempre que tal seja considerado indispensável ao apuramento da verdade ou ao bom funcionamento dos serviços, por despacho do Ministro competente e mediante proposta fundamentada da respectiva comissão ministerial de saneamento e reclassificação, podem os servidores referidos no artigo 1.º ser suspensos preventivamente do exercício das suas funções por período não superior a três meses, mantendo, porém, durante o período de suspensão, o direito à antiguidade e ao correspondente vencimento de categoria.
+Art. 10.º - 1. Sempre que tal seja considerado indispensável ao apuramento da verdade ou ao bom funcionamento dos serviços, por despacho do Ministro competente e mediante proposta fundamentada da respectiva comissão ministerial de saneamento e reclassificação, podem os servidores referidos no artigo 1.º ser suspensos preventivamente do exercício das suas funções por período não superior a três meses, mantendo, porém, durante o período de suspensão, o direito à antiguidade e ao correspondente vencimento de categoria.
 
 2. No caso de não vir a ser aplicada qualquer outra medida aos servidores referidos no número anterior, têm os mesmos direito a perceber a diferença entre o vencimento recebido durante o período da suspensão e a remuneração certa correspondente aos referidos cargos, como se tivessem prestado serviço efectivo.
 
 3. Do despacho de suspensão não cabe reclamação ou recurso.
 
-###### Art. 11.º - 1. Consideram-se terminadas todas as comissões de serviço iniciadas antes de 25 de Abril de 1974, continuando, porém, os funcionários ou agentes nessa situação a desempenhar as respectivas funções enquanto não for feita nova nomeação, salvo decisão ministerial em contrário.
+Art. 11.º - 1. Consideram-se terminadas todas as comissões de serviço iniciadas antes de 25 de Abril de 1974, continuando, porém, os funcionários ou agentes nessa situação a desempenhar as respectivas funções enquanto não for feita nova nomeação, salvo decisão ministerial em contrário.
 
 2. A recondução de funcionários ou agentes cuja comissão de serviço cessar por força do disposto no número anterior far-se-á por simples despacho, a publicar no Diário do Governo, sem mais formalidades, inclusive com dispensa de visto do Tribunal de Contas.
 
-###### Art. 12.º - 1. As sanções já aplicadas ao abrigo do [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, salvo nos casos a que se refere o artigo 7.º daquele diploma, podem ser revistas pelo Conselho de Ministros, a requerimento dos interessados, apresentado no prazo de quinze dias, a contar da data da publicação do presente diploma.
+Art. 12.º - 1. As sanções já aplicadas ao abrigo do [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, salvo nos casos a que se refere o artigo 7.º daquele diploma, podem ser revistas pelo Conselho de Ministros, a requerimento dos interessados, apresentado no prazo de quinze dias, a contar da data da publicação do presente diploma.
 
 2. Sem prejuízo do disposto no número anterior, todos os recursos pendentes que tenham sido interpostos com base no [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, serão remetidos ao Conselho de Ministros.
 
@@ -206,28 +244,28 @@ c) Os adjuntos leitores ou revisores da Comissão Central de Censura ou de Exame
 
 4. Sem prejuízo do disposto no número anterior, os funcionários mandados aposentar nos termos do [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, ou nos termos do presente diploma, não podem, sem prévio despacho favorável do Ministro competente, gozar do regime previsto no Decreto-Lei n.º 45076, de 14 de Junho de 1963.
 
-###### Art. 13.º As suspensões determinadas pela Junta de Salvação Nacional ao abrigo do artigo 1.º do [Decreto-Lei n.º 193/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1974-623005), de 9 de Maio, ainda vigentes, devem, para efeitos de abertura do respectivo processo, ser comunicadas às comissões ministeriais de saneamento e reclassificação e podem ser mantidas até noventa dias, a contar da data das respectivas comunicações, nas condições previstas no artigo 10.º do presente diploma.
+Art. 13.º As suspensões determinadas pela Junta de Salvação Nacional ao abrigo do artigo 1.º do [Decreto-Lei n.º 193/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1974-623005), de 9 de Maio, ainda vigentes, devem, para efeitos de abertura do respectivo processo, ser comunicadas às comissões ministeriais de saneamento e reclassificação e podem ser mantidas até noventa dias, a contar da data das respectivas comunicações, nas condições previstas no artigo 10.º do presente diploma.
 
-###### Art. 14.º As medidas de transferência com diminuição de categoria ou vencimento, de suspensão de funções sem vencimento por um período de seis meses a três anos, de aposentação compulsiva e de demissão, aplicadas nos termos deste diploma, devem ser comunicadas aos serviços de identificação, a fim de constarem dos certificados do registo criminal requeridos para o exercício de funções públicas ou equiparadas.
+Art. 14.º As medidas de transferência com diminuição de categoria ou vencimento, de suspensão de funções sem vencimento por um período de seis meses a três anos, de aposentação compulsiva e de demissão, aplicadas nos termos deste diploma, devem ser comunicadas aos serviços de identificação, a fim de constarem dos certificados do registo criminal requeridos para o exercício de funções públicas ou equiparadas.
 
-###### Art. 15.º A Comissão Interministerial e as comissões ministeriais que se encontram em funcionamento mantêm-se no exercício das suas funções até decisão em contrário do Conselho de Ministros.
+Art. 15.º A Comissão Interministerial e as comissões ministeriais que se encontram em funcionamento mantêm-se no exercício das suas funções até decisão em contrário do Conselho de Ministros.
 
-###### Art. 16.º - 1. Os processos instaurados por aplicacação deste diploma são rigorosamente confidenciais em relação a terceiros, sem prejuízo das garantias de defesa dos visados.
+Art. 16.º - 1. Os processos instaurados por aplicacação deste diploma são rigorosamente confidenciais em relação a terceiros, sem prejuízo das garantias de defesa dos visados.
 
 2. Depois de findos ou terminados os prazos de funcionamento das comissões de saneamento e reclassificação, todos os processos serão remetidos por estas à entidade a que foi confiada a conservação da documentação relativa às extintas organizações antidemocráticas.
 
-###### Art. 17.º - 1. São revogados os Decretos-Leis n.os [277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, e [390/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1974-475742), de 27 de Agosto.
+Art. 17.º - 1. São revogados os Decretos-Leis n.os [277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, e [390/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1974-475742), de 27 de Agosto.
 
 2. Mantém-se em vigor o [Decreto n.º 366/74](https://diariodarepublica.pt/dr/detalhe/decreto/366-1974-475720), de 19 de Agosto, em tudo o que não for contrariado pelo disposto no presente diploma, considerando-se reportadas a este as referências feitas naquele ao [Decreto-Lei n.º 277/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1974-476134), de 25 de Junho, até à elaboração de novo regulamento.
 
-###### Art. 18.º - 1. Este diploma entra imediatamente em vigor e cessará a sua vigência na data em que entrarem em funcionamento os órgãos de soberania institucionalizados pela Assembleia Constituinte.
+Art. 18.º - 1. Este diploma entra imediatamente em vigor e cessará a sua vigência na data em que entrarem em funcionamento os órgãos de soberania institucionalizados pela Assembleia Constituinte.
 
 2. Sem prejuízo da capacidade de actuação oficiosa do Conselho de Ministros, o prazo para a entrega de queixas perante as comissões de saneamento e reclassificação termina noventa dias após a entrada em vigor deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves.
 
-**Promulgado em 6 de Março de 1975.**
+Promulgado em 6 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

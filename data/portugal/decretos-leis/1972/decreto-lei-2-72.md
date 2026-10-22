@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1972-291799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f13c171ffb18128426889a44bfe6ae46fbc6f224c00a49f9ac5128f836e95ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f175d1011010d0bce22ff973ff8227c8cd87bd82cad71daba62fb6ffb73de5ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Serviços Prisionais
+- Formas de Provimento
+- Médico
+- Ministério da Justiça
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:171919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445479:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:398121:por
+  label: "Rectificado o mapa nº1 anexo ao presente diploma, pela RECT.DD367.12.02.1972.PC, DG.IS [36] de 12.02.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-398121
+  date: '1972-02-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:50Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +123,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O quadro único dos médicos da Direcção-Geral dos Serviços Prisionais tem a constituição constante do mapa n.º 1 anexo a este diploma.
+Artigo 1.º - 1. O quadro único dos médicos da Direcção-Geral dos Serviços Prisionais tem a constituição constante do mapa n.º 1 anexo a este diploma.
 
 2. O lugar de director clínico da Prisão-Hospital será exercido, em regime de acumulação pelo director de serviços que o Ministro da Justiça designar por despacho.
 
@@ -107,58 +131,58 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os lugares de médicos dos anexos prisionais da Política Judiciária de Lisboa e do Porto serão exercidos, em regime de acumulação, por médicos dos estabelecimentos prisionais a designar pelo Ministro da Justiça.
 
-###### Art. 2.º Os médicos dos serviços dependentes da Direcção-Geral dos Serviços Tutelares de Menores têm as remunerações constantes do mapa n.º 2 anexo a este diploma.
+Art. 2.º Os médicos dos serviços dependentes da Direcção-Geral dos Serviços Tutelares de Menores têm as remunerações constantes do mapa n.º 2 anexo a este diploma.
 
-###### Art. 3.º O Ministro da Justiça pode autorizar que passem ao regime de tempo parcial os médicos que pretendam prestar menos de trinta e seis horas de serviço por semana, ou acumular as suas funções com outro cargo público.
+Art. 3.º O Ministro da Justiça pode autorizar que passem ao regime de tempo parcial os médicos que pretendam prestar menos de trinta e seis horas de serviço por semana, ou acumular as suas funções com outro cargo público.
 
-###### Art. 4.º - 1. As remunerações dos farmacêuticos dos estabelecimentos prisionais são as constantes do mapa n.º 3 anexo a este diploma.
+Art. 4.º - 1. As remunerações dos farmacêuticos dos estabelecimentos prisionais são as constantes do mapa n.º 3 anexo a este diploma.
 
 2. É aplicável aos funcionários referidos no número anterior o disposto no artigo 3.º
 
-###### Art. 5.º - 1. Os enfermeiros e auxiliares de enfermagem dos serviços dependentes do Ministério da Justiça são equiparados, para efeitos de remuneração, aos funcionários de idênticas categorias do Ministério da Saúde e Assistência, desde que reúnam os mesmos requisitos.
+Art. 5.º - 1. Os enfermeiros e auxiliares de enfermagem dos serviços dependentes do Ministério da Justiça são equiparados, para efeitos de remuneração, aos funcionários de idênticas categorias do Ministério da Saúde e Assistência, desde que reúnam os mesmos requisitos.
 
 2. O lugar de enfermeiro-chefe da Prisão-Hospital de S. João de Deus é exercido, em regime de acumulação, por um dos enfermeiros-subchefes, mediante a gratificação que for fixada pelos Ministros da Justiça e das Finanças.
 
-###### Art. 6.º Na falta de candidatos a enfermeiros de 1.ª ou de 2.ª classe, poderão contratar-se tantos auxiliares de enfermagem de 1.ª classe quantos os lugares que ficarem vagos, pagando-se as respectivas remunerações pelas disponibilidades das verbas de «Remunerações certas ao pessoal em exercício», dos respectivos serviços.
+Art. 6.º Na falta de candidatos a enfermeiros de 1.ª ou de 2.ª classe, poderão contratar-se tantos auxiliares de enfermagem de 1.ª classe quantos os lugares que ficarem vagos, pagando-se as respectivas remunerações pelas disponibilidades das verbas de «Remunerações certas ao pessoal em exercício», dos respectivos serviços.
 
 7.º Os ajudantes técnicos de radiologia, os ajudantes técnicos de farmácia e os preparadores e preparadores-analistas dos serviços dependentes do Ministério
 
 da Justiça passam a designar-se, respectivamente, primeiros-ajudantes técnicos de radiologia, ajudantes técnicos de farmácia de 1.ª classe, preparadores de 1.ª classe e técnicos auxiliares de laboratório de 3.ª classe, com remunerações iguais às dos funcionários destas categorias do Ministério da Saúde e Assistência.
 
-###### Art. 8.º - 1. O provimento dos lugares de enfermeiro dos institutos de medicina legal obedecerá aos requisitos fixados para iguais categorias dos serviços prisionais.
+Art. 8.º - 1. O provimento dos lugares de enfermeiro dos institutos de medicina legal obedecerá aos requisitos fixados para iguais categorias dos serviços prisionais.
 
 2. Os lugares de preparador dos institutos referidos no número anterior são providos, por concurso documental em indivíduos habilitados com o 2.º ciclo dos liceus ou equivalente e um curso especial de preparadores.
 
 3. No caso de não haver candidatos que reúnam as condições exigidas no número anterior, poderão esses lugares ser preenchidos ,com a categoria de preparadores de 2.ª classe, por indivíduos habilitados com o curso adequado ao exercício da função, designadamente os fixados na [Portaria n.º 18523](https://diariodarepublica.pt/dr/detalhe/portaria/18523-1961-171919), de 12 de Junho de 1961, ou com o 2.º ciclo dos liceus.
 
-###### Art. 9.º É criado na Prisão-Hospital um lugar de técnico terapeuta de 3.ª classe, com remuneração igual à dos funcionários desta categoria do Ministério da Saúde e Assistência.
+Art. 9.º É criado na Prisão-Hospital um lugar de técnico terapeuta de 3.ª classe, com remuneração igual à dos funcionários desta categoria do Ministério da Saúde e Assistência.
 
-###### Art. 10.º Ao pessoal referido nos artigos anteriores é aplicável o disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 151/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1970-225854), de 10 de Abril, na redacção que lhe foi dada pelo [Decreto-Lei n.º 87/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1971-445479), de 20 de Março.
+Art. 10.º Ao pessoal referido nos artigos anteriores é aplicável o disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 151/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1970-225854), de 10 de Abril, na redacção que lhe foi dada pelo [Decreto-Lei n.º 87/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1971-445479), de 20 de Março.
 
-###### Art. 11.º - 1. Os médicos do quadro único da Direcção-Geral dos Serviços Prisionais serão colocados no novo quadro por meio de listas assinadas pelo Ministro da Justiça e publicadas no Diário do Governo.
+Art. 11.º - 1. Os médicos do quadro único da Direcção-Geral dos Serviços Prisionais serão colocados no novo quadro por meio de listas assinadas pelo Ministro da Justiça e publicadas no Diário do Governo.
 
 2. As colocações produzirão os seus efeitos sem dependência de visto, posse ou qualquer outra formalidade.
 
 3. Os médicos contratados da Prisão-Hospital que passem a receber pela verba de pessoal contratado além do quadro conservam todas as regalias que tinham à data da publicação deste diploma.
 
-###### Art. 12.º - 1. O vencimento complementar do pessoal da Colónia Penal do Bié é igual ao dos funcionários de correspondente vencimento base da província de Angola.
+Art. 12.º - 1. O vencimento complementar do pessoal da Colónia Penal do Bié é igual ao dos funcionários de correspondente vencimento base da província de Angola.
 
 2. Os actuais servidores não podem receber de vencimento complementar ou de salário complementar quantia inferior à que lhes cabe, a esse título, à data da publicação do presente diploma.
 
-###### Art. 13.º Os encargos resultantes do presente diploma, enquanto não for alterado o Orçamento Geral do Estado, serão satisfeitos pelas disponibilidades das dotações de vencimentos e salários do quadro único da Direcção-Geral dos Serviços Prisionais e dos quadros dos respectivos estabelecimentos.
+Art. 13.º Os encargos resultantes do presente diploma, enquanto não for alterado o Orçamento Geral do Estado, serão satisfeitos pelas disponibilidades das dotações de vencimentos e salários do quadro único da Direcção-Geral dos Serviços Prisionais e dos quadros dos respectivos estabelecimentos.
 
-###### Art. 14.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1972.
+Art. 14.º O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 23 de Dezembro de 1971.**
+Promulgado em 23 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Do MAPA N.º 1 ao MAPA N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/01/00100/00180019.pdf))](https://files.diariodarepublica.pt/1s/1972/01/00100/00180019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/01/00100/00180019.pdf)
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 19/1981, 1º Suplemento, Série I de 1981-01-23
   number: '19'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 188-(1) a 188-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/01901/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-a-1981-388873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a48eeb6fe73a5703f40d7ebd10224eef91fafe4ff3c715645e30760a5fd4fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d80dcd4c7b17369cab14e136cf0ec6db61761398f424751b4e6bd6fa4fef147a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto dos Oficiais das Forças Armadas
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:149264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:34Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +108,9 @@ Considerando que a revisão profunda de que carece o Estatuto dos Oficiais das F
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 54.º, 75.º, 76.º, 77.º, 110.º e 111.º do Estatuto dos Oficiais das Forças Armadas (EOFA), aprovado pelo [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 54.º, 75.º, 76.º, 77.º, 110.º e 111.º do Estatuto dos Oficiais das Forças Armadas (EOFA), aprovado pelo [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965, passam a ter a seguinte redacção:
 
-###### Art. 54.º - 1 - A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos oficiais sobre os quais recai, antes de ser remetida superiormente.
+Art. 54.º - 1 - A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos oficiais sobre os quais recai, antes de ser remetida superiormente.
 
 2 - Esta informação, se desfavorável, será acompanhada de juízo ampliativo que constitua adequada fundamentação, sem o que ela será de nulo efeito nos aspectos inadequadamente fundamentados.
 
@@ -103,7 +118,7 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 O segundo informador, sempre que o houver, deverá pronunciar-se claramente por escrito sobre os aspectos desfavoráveis da informação, bem como da exposição do oficial, dando conhecimento ao informado e ao primeiro informador da opinião em si expressa, antes de a remeter superiormente.
 
-###### Art. 75.º - 1 - Para verificação da 1.ª, 2.ª, e 3.ª condições gerais de promoção, são elementos de apreciação:
+Art. 75.º - 1 - Para verificação da 1.ª, 2.ª, e 3.ª condições gerais de promoção, são elementos de apreciação:
 
 a) ...
 
@@ -115,7 +130,7 @@ c) Outros documentos, quer constem do processo individual do oficial, quer nele 
 
 3 - A verificação da 4.º condição geral de promoção baseia-se nas inspecções médicas e na prestação de provas físicas de que tratam os artigos 59.º a 61.º deste Estatuto.
 
-###### Art. 76.º - 1 - O oficial que não satisfaça à 1.ª ou 2.ª condições gerais de promoção deixará de estar no activo.
+Art. 76.º - 1 - O oficial que não satisfaça à 1.ª ou 2.ª condições gerais de promoção deixará de estar no activo.
 
 2 - O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da condição 16) da alínea b) do artigo 42.º
 
@@ -123,7 +138,7 @@ c) Outros documentos, quer constem do processo individual do oficial, quer nele 
 
 4 - Ao oficial que não satisfaça à 4.ª condição geral de promoção será aplicável o disposto no artigo 61.º deste Estatuto.
 
-###### Art. 77.º - 1 - Quando houver dúvidas sobre se o oficial satisfaz à 1.ª e 2.ª condições gerais de promoção, deverá o mesmo ser submetido a apreciação em Conselho Superior de Disciplina, para efeitos do respectivo parecer.
+Art. 77.º - 1 - Quando houver dúvidas sobre se o oficial satisfaz à 1.ª e 2.ª condições gerais de promoção, deverá o mesmo ser submetido a apreciação em Conselho Superior de Disciplina, para efeitos do respectivo parecer.
 
 2 - Nenhum oficial pode ser dado como não satisfazendo à 3.ª condição geral de promoção sem parecer favorável do Conselho Superior do Exército, Conselho Superior da Armada ou Comissão Técnica da Força Aérea.
 
@@ -135,13 +150,13 @@ c) Outros documentos, quer constem do processo individual do oficial, quer nele 
 
 6 - Os conselhos e comissão referidos no n.º 2, na apreciação dos casos que lhes forem presentes, darão o seu parecer com base em todos os documentos submetidos e os que entenderem juntar ao processo, podendo ainda ouvir pessoalmente o oficial e quem mais entendam útil, antes de emitir parecer.
 
-###### Art. 110.º As decisões do Supremo Tribunal Militar proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 107.º serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de dez dias a contar da comunicação.
+Art. 110.º As decisões do Supremo Tribunal Militar proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 107.º serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de dez dias a contar da comunicação.
 
-###### Art. 111.º As decisões do Supremo Tribunal Militar são publicadas na ordem do respectivo ramo das forças armadas, no prazo de dez dias a contar da comunicação.
+Art. 111.º As decisões do Supremo Tribunal Militar são publicadas na ordem do respectivo ramo das forças armadas, no prazo de dez dias a contar da comunicação.
 
-###### Art. 2.º À alínea b) do artigo 42.º do EOFA é aditada a condição 16), com a seguinte redacção:
+Art. 2.º À alínea b) do artigo 42.º do EOFA é aditada a condição 16), com a seguinte redacção:
 
-###### Art. 42.º ...
+Art. 42.º ...
 
 a) ...
 
@@ -151,16 +166,16 @@ b) ...
 
 16) No termo do prazo de dois anos a que se refere o n.º 2 do artigo 76.º não satisfaçam à 3.ª condição geral de promoção, até que atinjam o limite de idade estabelecido para o seu quadro e posto para a passagem à reserva.
 
-###### Art. 3.º O artigo 109.º do EOFA e o artigo 9.º do [Decreto n.º 35953](https://diariodarepublica.pt/dr/detalhe/decreto/35953-1946-149264), de 18 de Novembro de 1946, acham-se revogados.
+Art. 3.º O artigo 109.º do EOFA e o artigo 9.º do [Decreto n.º 35953](https://diariodarepublica.pt/dr/detalhe/decreto/35953-1946-149264), de 18 de Novembro de 1946, acham-se revogados.
 
-###### Art. 4.º As alterações aos estatutos de cada um dos ramos das forças armadas decorrentes das disposições do presente diploma serão feitas através de portarias dos titulares dos respectivos ramos.
+Art. 4.º As alterações aos estatutos de cada um dos ramos das forças armadas decorrentes das disposições do presente diploma serão feitas através de portarias dos titulares dos respectivos ramos.
 
-###### Art. 5.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior-General das Forças Armadas, ouvidos os Chefes dos Estados-Maiores dos ramos.
+Art. 5.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Chefe do Estado-Maior-General das Forças Armadas, ouvidos os Chefes dos Estados-Maiores dos ramos.
 
-###### Art. 6.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 6.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 7 de Janeiro de 1981.
 
-**Promulgado em 23 de Janeiro de 1981.**
+Promulgado em 23 de Janeiro de 1981.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

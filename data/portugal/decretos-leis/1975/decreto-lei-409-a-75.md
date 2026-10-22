@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 179/1975, 1º Suplemento, Série I de 1975-08-05
   number: '179'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1086-(1) a 1086-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/17901/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-a-1975-321293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d5b577041c9185f718226fc5c0faed535c39918b79984c4f8a24f2914df2a24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9c999f358c71f2165280a1e3f391f61c961d8aff3bf7ea6445373a329f7af64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Ensino Preparatório
+- Habilitações Literárias
+- Pessoal Docente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301627:por
+  label: "Mantidos em vigor os arts. 1º, 2º, 8º, 9º, 11º e seguintes, sendo revogados todos os restantes pelo DEC LEI.713-B/75.19.12.1975.MEIC,\
+    \ DG.IS [292-2ºSupl] de 19.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/713-b-1975-301627
+  date: '1975-12-19'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:199429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643117:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307206:por
+  label: "Revogado o art. 11º pelo DEC LEI.183-A/76.10.03.1976.MEIC, DG.IS [59-Supl] de 10.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-a-1976-307206
+  date: '1976-03-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:21Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +142,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Na colocação dos docentes provisórios ou eventuais nos estabelecimentos de ensino preparatório e secundário observar-se-ão as seguintes prioridades:
+Artigo 1.º - 1. Na colocação dos docentes provisórios ou eventuais nos estabelecimentos de ensino preparatório e secundário observar-se-ão as seguintes prioridades:
 
 a) Docentes com habilitação profissional;
 
@@ -127,7 +158,7 @@ d) Docentes possuidores de habilitações mínimas.
 
 4. A colocação de professores dos quadros dos ensinos preparatório e secundário ao abrigo da lei dos cônjuges não é permitida nas áreas de Lisboa e Porto e na cidade de Coimbra no ano escolar em que tiver efeito o primeiro provimento dos docentes em lugares dos quadros daqueles ensinos, salvo se os interessados, colocados fora daquelas áreas ou cidade, possuírem mais de dez anos de serviço docente.
 
-###### Art. 2.º - 1. Consideram-se habilitações suficientes, para o disposto nas alíneas a), b) e c) do n.º 1 do artigo anterior, as seguintes:
+Art. 2.º - 1. Consideram-se habilitações suficientes, para o disposto nas alíneas a), b) e c) do n.º 1 do artigo anterior, as seguintes:
 
 a) Habilitações profissionais - Exame de Estado ou equivalente para a docência do respectivo grupo ou disciplinas dos ensinos preparatório e secundário, bem como qualquer outra habilitação que permita o ingresso directo nos quadros permanentes daqueles ensinos;
 
@@ -137,7 +168,7 @@ c) Habilitações académicas específicas - As que forem definidas por despacho
 
 2. Consideram-se habilitações mínimas para o exercício de funções docentes nos estabelecimentos de ensino preparatório e secundário a aprovação em, pelo menos, oito cadeiras anuais ou número equivalente de semestrais de um curso que confira habilitação própria ou específica para a docência naqueles ramos de ensino.
 
-###### Art. 3.º - 1. Após a colocação, em primeira fase, pela Comissão Central de Colocações dos candidatos portadores das habilitações previstas nas alíneas b) e c) do n.º 1 do artigo 1.º do presente diploma, ao abrigo das disposições insertas no [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429), de 14 de Julho de 1969, a Comissão Central de Colocações procederá à recolha das vagas ainda existentes.
+Art. 3.º - 1. Após a colocação, em primeira fase, pela Comissão Central de Colocações dos candidatos portadores das habilitações previstas nas alíneas b) e c) do n.º 1 do artigo 1.º do presente diploma, ao abrigo das disposições insertas no [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429), de 14 de Julho de 1969, a Comissão Central de Colocações procederá à recolha das vagas ainda existentes.
 
 2. Após a recolha das vagas, a Comissão Central de Colocações procederá à colocação dos candidatos, em segunda fase, à qual poderão concorrer:
 
@@ -153,7 +184,7 @@ c) Candidatos titulares das habilitações mínimas previstas no n.º 2 do artig
 
 5. Os candidatos opositores ao concurso em segunda fase só poderão requerer colocação num único grupo.
 
-###### Art. 4.º - 1. A segunda fase do concurso estará aberta de 5 a 15 de Agosto de cada ano, devendo os candidatos previstos nas alíneas b) e c) do n.º 2 do artigo anterior apresentar à Comissão Central de Colocações os seguintes documentos:
+Art. 4.º - 1. A segunda fase do concurso estará aberta de 5 a 15 de Agosto de cada ano, devendo os candidatos previstos nas alíneas b) e c) do n.º 2 do artigo anterior apresentar à Comissão Central de Colocações os seguintes documentos:
 
 a) Requerimento de admissão ao concurso, feito em papel selado;
 
@@ -165,11 +196,11 @@ d) Declaração, autenticada com selo branco, passada pelos estabelecimentos de 
 
 2. Os candidatos referidos na alínea a) do n.º 2 do artigo anterior são dispensados de apresentação dos documentos previstos no n.º 1 deste artigo, com excepção daquele a que se reporta a alínea b), que deverão apresentar à Comissão Central de Colocações, no prazo de cinco dias, contado a partir da data em que aquela Comissão der conhecimento de ter encerrado as colocações de primeira fase e os interessados verificarem não terem sido colocados nessa mesma fase.
 
-###### Art. 5.º - 1. A Comissão Central de Colocações procederá à classificação e graduação dos candidatos à segunda fase, consoante as prioridades definidas nas alíneas a), b) e c) do n.º 2 do artigo 3.º, fazendo publicar nos estabelecimentos de ensino a respectiva lista graduada até ao dia 25 de Setembro de cada ano.
+Art. 5.º - 1. A Comissão Central de Colocações procederá à classificação e graduação dos candidatos à segunda fase, consoante as prioridades definidas nas alíneas a), b) e c) do n.º 2 do artigo 3.º, fazendo publicar nos estabelecimentos de ensino a respectiva lista graduada até ao dia 25 de Setembro de cada ano.
 
 2. No prazo de cinco dias, contado a partir da publicação da lista graduada a que se refere o número anterior, poderão os interessados apresentar à Comissão Central de Colocações reclamações, em papel selado, sobre a respectiva graduação.
 
-###### Art. 6.º - 1. Esgotadas as possibilidades de colocação decorrentes da segunda fase, às vagas ainda existentes nos estabelecimentos de ensino poderão candidatar-se os agentes de ensino em exercício no ano lectivo imediatamente anterior ao que respeita a nomeação, desde que as habilitações de que forem portadores não sejam inferiores ao curso geral dos liceus ou equivalente para a docência no ensino preparatório e ao curso complementar dos liceus ou equivalente para a docência no ensino secundário.
+Art. 6.º - 1. Esgotadas as possibilidades de colocação decorrentes da segunda fase, às vagas ainda existentes nos estabelecimentos de ensino poderão candidatar-se os agentes de ensino em exercício no ano lectivo imediatamente anterior ao que respeita a nomeação, desde que as habilitações de que forem portadores não sejam inferiores ao curso geral dos liceus ou equivalente para a docência no ensino preparatório e ao curso complementar dos liceus ou equivalente para a docência no ensino secundário.
 
 2. Terminada a segunda fase de colocações pela Comissão Central de Colocações, os estabelecimentos de ensino propõem a nomeação ao Ministério da Educação e Investigação Científica, através das respectivas direcções-gerais, dos agentes de ensino previstos no número antecedente e que no respectivo estabelecimento tenham prestado serviço no ano lectivo anterior.
 
@@ -177,7 +208,7 @@ d) Declaração, autenticada com selo branco, passada pelos estabelecimentos de 
 
 4. Logo que recebidas as vagas referidas no número anterior, a Comissão Central de Colocações fará publicá-las em lista a afixar nos estabelecimentos de ensino.
 
-###### Art. 7.º - 1. Os agentes de ensino que, tendo prestado serviço no ano lectivo anterior, ficaram sem colocação poderão candidatar-se, no prazo de cinco dias, contado a partir da data de afixação da lista referida no n.º 4 do artigo anterior, a qualquer das vagas existentes, desde que sejam possuidores das habilitações previstas na parte final do n.º 1 do artigo 6.º, respectivamente, para o ensino preparatório e para o ensino secundário.
+Art. 7.º - 1. Os agentes de ensino que, tendo prestado serviço no ano lectivo anterior, ficaram sem colocação poderão candidatar-se, no prazo de cinco dias, contado a partir da data de afixação da lista referida no n.º 4 do artigo anterior, a qualquer das vagas existentes, desde que sejam possuidores das habilitações previstas na parte final do n.º 1 do artigo 6.º, respectivamente, para o ensino preparatório e para o ensino secundário.
 
 2. Para efeitos do estabelecido no número anterior, os candidatos apresentarão à Comissão Central de Colocações os documentos a que se referem as alíneas a), b), c) e d) do n.º 1 do artigo 4.º do presente diploma.
 
@@ -189,34 +220,34 @@ d) Declaração, autenticada com selo branco, passada pelos estabelecimentos de 
 
 6. É aplicável aos agentes de ensino previstos neste artigo o disposto no n.º 5 do artigo 3.º do presente diploma.
 
-###### Art. 8.º - 1. O Ministério da Educação e Investigação Científica, conjuntamente com as actuais estruturas pró-sindicais ou com as sindicais que vierem a ser definidas por lei, providenciará no sentido de ser garantido trabalho aos agentes de ensino que, tendo concorrido a uma vaga de serviço docente, nos termos do n.º 1 do artigo anterior, ficaram, contudo, sem colocação.
+Art. 8.º - 1. O Ministério da Educação e Investigação Científica, conjuntamente com as actuais estruturas pró-sindicais ou com as sindicais que vierem a ser definidas por lei, providenciará no sentido de ser garantido trabalho aos agentes de ensino que, tendo concorrido a uma vaga de serviço docente, nos termos do n.º 1 do artigo anterior, ficaram, contudo, sem colocação.
 
 2. O disposto no número anterior não é aplicável aos agentes de ensino excluídos de concurso, nos termos do n.º 5 do artigo 7.º deste diploma.
 
-###### Art. 9.º - Os processos de provimento dos professores provisórios e eventuais dos ensinos preparatório e secundário serão organizados a nível dos estabelecimentos, que, depois de obtido o visto do Tribunal de Contas, os remeterão às respectivas direcções-gerais para efeitos de publicação no Diário do Governo.
+Art. 9.º - Os processos de provimento dos professores provisórios e eventuais dos ensinos preparatório e secundário serão organizados a nível dos estabelecimentos, que, depois de obtido o visto do Tribunal de Contas, os remeterão às respectivas direcções-gerais para efeitos de publicação no Diário do Governo.
 
-###### Art. 10.º - 1. Os professores provisórios e eventuais dos ensinos preparatório e secundário mencionados nas alíneas a), b) e c) do n.º 1 do artigo 1.º que hajam solicitado a sua recondução manter-se-ão em exercício no estabelecimento de ensino onde leccionaram no ano lectivo anterior até ser definida a sua situação.
+Art. 10.º - 1. Os professores provisórios e eventuais dos ensinos preparatório e secundário mencionados nas alíneas a), b) e c) do n.º 1 do artigo 1.º que hajam solicitado a sua recondução manter-se-ão em exercício no estabelecimento de ensino onde leccionaram no ano lectivo anterior até ser definida a sua situação.
 
 2. Os demais agentes de ensino consideram-se desligados do serviço a partir de 30 de Setembro de cada ano, só tendo direito às remunerações dos meses seguintes, se porventura vierem de novo a ser nomeados para funções docentes até ao encerramento das colocações previstas no artigo 7.º do presente diploma.
 
 3. Os vencimentos a que se refere o número anterior serão processados pelo estabelecimento de ensino onde o docente vier a ser colocado.
 
-###### Art. 11.º Esgotadas as possibilidades de preenchimento de vagas nos estabelecimentos de ensino preparatório e secundário, nos termos do previsto no presente diploma, poderá o Ministro da Educação e Investigação Científica, mediante proposta dos estabelecimentos de ensino e ouvidas as actuais estruturas pró-sindicais ou as sindicais que vierem a ser definidas por lei, contratar agentes de ensino pelo prazo de um ano escolar, improrrogável, desde que os mesmos possuam, pelo menos, o curso geral dos liceus ou equivalente ou o curso complementar dos liceus ou equivalente.
+Art. 11.º Esgotadas as possibilidades de preenchimento de vagas nos estabelecimentos de ensino preparatório e secundário, nos termos do previsto no presente diploma, poderá o Ministro da Educação e Investigação Científica, mediante proposta dos estabelecimentos de ensino e ouvidas as actuais estruturas pró-sindicais ou as sindicais que vierem a ser definidas por lei, contratar agentes de ensino pelo prazo de um ano escolar, improrrogável, desde que os mesmos possuam, pelo menos, o curso geral dos liceus ou equivalente ou o curso complementar dos liceus ou equivalente.
 
-###### Art. 12.º A deficiente indicação pelos estabelecimentos de ensino do número de vagas a remeter à Comissão Central de Colocações, bem como a nova requisição de docentes que não resulte da execução de cada uma das fases da colocação não justificada ou não suficientemente fundamentada, implicará para o responsável ou responsáveis o respectivo procedimento disciplinar.
+Art. 12.º A deficiente indicação pelos estabelecimentos de ensino do número de vagas a remeter à Comissão Central de Colocações, bem como a nova requisição de docentes que não resulte da execução de cada uma das fases da colocação não justificada ou não suficientemente fundamentada, implicará para o responsável ou responsáveis o respectivo procedimento disciplinar.
 
-###### Art. 13.º Os prazos previstos no presente diploma poderão ser alterados por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário do Governo.
+Art. 13.º Os prazos previstos no presente diploma poderão ser alterados por despacho do Ministro da Educação e Investigação Científica, a publicar no Diário do Governo.
 
-###### Art. 14.º É revogado o [Decreto-Lei n.º 331/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1971-643117), de 4 de Agosto.
+Art. 14.º É revogado o [Decreto-Lei n.º 331/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1971-643117), de 4 de Agosto.
 
-###### Art. 15.º As dúvidas e casos omissos resultantes da execução do presente diploma serão resolvidos por despacho do Ministro da Educação e Investigação Científica.
+Art. 15.º As dúvidas e casos omissos resultantes da execução do presente diploma serão resolvidos por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 16.º O presente diploma entra imediatamente em vigor.
+Art. 16.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - José Emílio da Silva.
 
-**Promulgado em 5 de Agosto de 1975.**
+Promulgado em 5 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

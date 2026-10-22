@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 226/1977, 2º Suplemento, Série I de 1977-09-29
   number: '226'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2396-(3) a 2396-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/22602/00030007.pdf
 entry_into_force_dates: []
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbc0f71daacbe5ade34f03169d51c616e66eb7e3938725ca65bc76ebb2e2c220
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03cf4a2dec67177f6410017a0d54c3025685f4d5f07a7afc5abffdb18332b871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Autarquia Local
+- Benefícios Fiscais
+- Construção Civil
+- Contrato de Desenvolvimento
+- Definição de Competências
+- Equipamento Social
+- Financiamento
+- Fiscalização
+- Fundo de Fomento da Habitação
+- Habitação
+- Habitação Social
+- Incentivos Fiscais
+- Política de Habitação
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:282712:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626600:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:45Z'
   warnings: []
   errors: []
 ---
@@ -280,8 +331,8 @@ Se for exigido ao FFH o cumprimento de obrigações garantido por fiança a que 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Eduardo Ribeiro Pereira.
 
-**Promulgado em 28 de Setembro de 1977.**
+Promulgado em 28 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1975-336750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ce57e7913a2e79fd9c4988048d46585ba30a7666c705f547cb9a1482f619f6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9421dfb35ee1e354910bc1388f6c2a488bf685da853bdd9f391b614122b30cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exército
+- Forças Armadas
+- Militar
+- Reintegração de Militares
+- Reserva
+relationships:
+- type: cites
+  target: pt:dre:141237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:19Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +109,20 @@ Atendendo, finalmente, a que a reparação, mínima que seja, desses prejuízos 
 
 Nestes termos, usando da faculdade conferida pelo n.º 1 do artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As passagens à situação de reserva dos tenentes do serviço de material Aquiles dos Santos Costa, Fortunato Cabrita do Rosário e António Marreiros Rato Sepúlveda, ocorridas, respectivamente, em 12 de Junho e 12 de Setembro de 1969 e 27 de Junho de 1970, ficam sem efeito, considerando-se os referidos oficiais na situação do activo até ao seu ingresso no quadro da Arma de Transmissões.
+Artigo 1.º As passagens à situação de reserva dos tenentes do serviço de material Aquiles dos Santos Costa, Fortunato Cabrita do Rosário e António Marreiros Rato Sepúlveda, ocorridas, respectivamente, em 12 de Junho e 12 de Setembro de 1969 e 27 de Junho de 1970, ficam sem efeito, considerando-se os referidos oficiais na situação do activo até ao seu ingresso no quadro da Arma de Transmissões.
 
-###### Art. 2.º O ingresso no quadro da Arma de Transmissões, referido no artigo 1.º, será feito de forma que se possibilite a promoção dos mesmos oficiais no posto de capitão no ramo em que pela sua origem devam ser colocados.
+Art. 2.º O ingresso no quadro da Arma de Transmissões, referido no artigo 1.º, será feito de forma que se possibilite a promoção dos mesmos oficiais no posto de capitão no ramo em que pela sua origem devam ser colocados.
 
-###### Art. 3.º O Chefe do Estado-Maior do Exército determinará e regulará por portaria os movimentos a que seja necessário proceder para cumprimento do disposto nos artigos anteriores.
+Art. 3.º O Chefe do Estado-Maior do Exército determinará e regulará por portaria os movimentos a que seja necessário proceder para cumprimento do disposto nos artigos anteriores.
 
-###### Art. 4.º Os oficiais a quem diz respeito este decreto-lei terão direito aos vencimentos correspondentes nos postos e situações que teriam percebido se se mantivessem no activo e à pensão de reserva que lhes competir nos postos em que passarem a esta situação, sendo-lhes, portanto, feitas as necessárias compensações.
+Art. 4.º Os oficiais a quem diz respeito este decreto-lei terão direito aos vencimentos correspondentes nos postos e situações que teriam percebido se se mantivessem no activo e à pensão de reserva que lhes competir nos postos em que passarem a esta situação, sendo-lhes, portanto, feitas as necessárias compensações.
 
-###### Art. 5.º Dado que as vagas originadas pela passagem à situação de reserva dos oficiais em causa foram oportunamente movimentadas, devem os mesmos oficiais ser considerados supranumerários desde a data daquela mudança de situação até à sua promoção a capitão.
+Art. 5.º Dado que as vagas originadas pela passagem à situação de reserva dos oficiais em causa foram oportunamente movimentadas, devem os mesmos oficiais ser considerados supranumerários desde a data daquela mudança de situação até à sua promoção a capitão.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 24 de Junho de 1975.**
+Promulgado em 24 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

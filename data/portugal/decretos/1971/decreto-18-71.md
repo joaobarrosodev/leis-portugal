@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-1971-445947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 213b0df3f1c8ed9080f83d25ab8167ce9d6abf7cf6efdc457197c77d5ca9a173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ee17d275cb462bf1c16e603fb1d98050504b9e41caa52b53df23c6d7d554039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:14Z'
   warnings: []
   errors: []
 ---
@@ -93,32 +93,32 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado na província de Timor um fundo especial denominado «Fundo de melhoramentos locais» destinado a custear as despesas necessárias a obras de interesse local e social.
+Artigo 1.º É criado na província de Timor um fundo especial denominado «Fundo de melhoramentos locais» destinado a custear as despesas necessárias a obras de interesse local e social.
 
-###### Art. 2.º - 1. Para a dotação do Fundo a que se refere o artigo anterior é criado o adicional de 2,5 por cento sobre o valor de todas as mercadorias importadas, cujos direitos sejam superiores a 4 por cento ad valorem ou a $10 por qualquer outra unidade tributável.
+Art. 2.º - 1. Para a dotação do Fundo a que se refere o artigo anterior é criado o adicional de 2,5 por cento sobre o valor de todas as mercadorias importadas, cujos direitos sejam superiores a 4 por cento ad valorem ou a $10 por qualquer outra unidade tributável.
 
 2. O adicional a que se refere o corpo do artigo será liquidado e pago através do bilhete de despacho das mercadorias que a ele estiverem sujeitas.
 
-###### Art. 3.º - 1. Até ao dia 5 de cada mês, as casas fiscais depositarão no banco emissor em conta própria, à ordem do Fundo, a receita arrecadada no mês anterior proveniente do adicional criado pelo artigo 2.º
+Art. 3.º - 1. Até ao dia 5 de cada mês, as casas fiscais depositarão no banco emissor em conta própria, à ordem do Fundo, a receita arrecadada no mês anterior proveniente do adicional criado pelo artigo 2.º
 
 2. Nas localidades onde não existirem dependências do banco emissor, o depósito será efectuado, nas condições indicadas no corpo do artigo, nas recebedorias de Fazenda.
 
-###### Art. 4.º Constituem receitas do Fundo:
+Art. 4.º Constituem receitas do Fundo:
 
 O adicional referido no artigo 2.º;
 
 Quaisquer outras receitas que lhe venham a ser consignadas pelos órgãos legislativos da província.
 
-###### Art. 5.º A administração do Fundo dependerá directamente do Governo da província, que poderá, no entanto, para o efeito e se as circunstâncias o aconselharem, constituir uma comissão administrativa.
+Art. 5.º A administração do Fundo dependerá directamente do Governo da província, que poderá, no entanto, para o efeito e se as circunstâncias o aconselharem, constituir uma comissão administrativa.
 
-###### Art. 6.º As disposições do presente decreto que careçam de regulamentação serão objecto de portaria do Governo da província.
+Art. 6.º As disposições do presente decreto que careçam de regulamentação serão objecto de portaria do Governo da província.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 13 de Janeiro de 1971.**
+Promulgado em 13 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Timor. - J. da Silva Cunha.

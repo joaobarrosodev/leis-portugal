@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45829-1964-579482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bb45db7d792f95da2c24c2fe5091441baf81b49d90438277e111ed2e80da640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b90444237eef1bba562e20ba01df20cd23421db9f3a28b7767534729ec37f8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe de Repartição
+- Criação de Lugares
+- Definição de Competências
+- Extinção de Lugares
+- Ministério do Ultramar
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398140:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:57Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +123,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. No mapa n.º 2, anexo ao [Decreto-Lei n.º 41369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41369-1957-251810), de 29 de Junho de 1957, são aumentados os seguintes lugares:
+Artigo 1.º - 1. No mapa n.º 2, anexo ao [Decreto-Lei n.º 41369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41369-1957-251810), de 29 de Junho de 1957, são aumentados os seguintes lugares:
 
 A) Quadro da Secretaria-Geral:
 
@@ -129,17 +153,17 @@ Dois dactilógrafos.
 
 4. O primeiro provimento dos restantes lugares agora criados far-se-á por escolha do Ministro do Ultramar, sob proposta do secretário-geral e nos termos da parte final do número anterior.
 
-###### Art. 2.º No quadro dos serviços gerais do Ministério do Ultramar são criados dois lugares de motociclista, com a categoria da letra U do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, a prover, por contrato, por livre escolha do Ministro.
+Art. 2.º No quadro dos serviços gerais do Ministério do Ultramar são criados dois lugares de motociclista, com a categoria da letra U do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, a prover, por contrato, por livre escolha do Ministro.
 
-###### Art. 3.º Poderá ser contratado ou assalariado o pessoal necessário à conservação, superintendência e limpeza dos edifícios onde estão instalados os serviços do Ministério. Este pessoal será de livre escolha do Ministro do Ultramar.
+Art. 3.º Poderá ser contratado ou assalariado o pessoal necessário à conservação, superintendência e limpeza dos edifícios onde estão instalados os serviços do Ministério. Este pessoal será de livre escolha do Ministro do Ultramar.
 
-###### Art. 4.º Além das funções que lhe estão atribuídas, competirá ao chefe de Repartição da Secretaria-Geral funcionar como notário nos contratos em que o secretário-geral intervém e em que o Ministro do Ultramar ou os Subsecretários de Estado não outorguem pessoalmente, assinar todas as folhas de processamento das despesas com o pessoal e com o material, pagamento de serviços e diversos encargos, e bem assim despachar e assinar todo o expediente que não seja da competência exclusiva do secretário-geral.
+Art. 4.º Além das funções que lhe estão atribuídas, competirá ao chefe de Repartição da Secretaria-Geral funcionar como notário nos contratos em que o secretário-geral intervém e em que o Ministro do Ultramar ou os Subsecretários de Estado não outorguem pessoalmente, assinar todas as folhas de processamento das despesas com o pessoal e com o material, pagamento de serviços e diversos encargos, e bem assim despachar e assinar todo o expediente que não seja da competência exclusiva do secretário-geral.
 
-###### Art. 5.º São extintos os seguintes lugares:
+Art. 5.º São extintos os seguintes lugares:
 
 Um de director de 1.ª classe dos correios, telégrafos e telefones do ultramar da Direcção-Geral de Obras Públicas e Comunicações e um de agente técnico de engenharia de 3.ª classe da mesma Direcção-Geral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44371-1962-164226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00ad0f384cac28dd7e9584558d2c727935003b3f5a0875673546e31fb1b7abc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db95327efb34914e810424282e1c602d201c35e8fd5e64afcd4d35cdcc5d96d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Comando de ZONA Aérea
+- Definição de Competências
+- Direcção Geral da Aeronáutica Civil
+- Força Aérea
+- Gratificação
+- Incapacidade Física
+- Incapacidade Psíquica
+- Militar
+- Ministro das Comunicações
+- Missão Militar
+- Pensão de Invalidez
+- Pensão de Preço de Sangue
+- Pessoal Navegante
+- Proteção Social
+- Secretário de Estado da Aeronáutica
 relationships:
 - type: amended_by
   target: pt:dre:693036:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693036:por
+  label: "Alterado o § 1.º do art. 7º pelo DEC LEI.45118.10.07.1963.PC, DG.IS [161] de 10.07.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45118-1963-693036
+  date: '1963-07-10'
+- type: cites
+  target: pt:dre:172681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:02Z'
   warnings: []
   errors: []
 ---
@@ -93,21 +126,21 @@ Tornando-se, contudo necessário, para seu pleno rendimento, enquadrá-los na or
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para, valer como lei, o seguinte:
 
-###### Artigo 1.º Nas organizações referidas no artigo 1.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, e no artigo 1.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961, podem constituir-se formações aéreas voluntárias destinadas à execução de missões aéreas complementares da acção militar.
+Artigo 1.º Nas organizações referidas no artigo 1.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, e no artigo 1.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961, podem constituir-se formações aéreas voluntárias destinadas à execução de missões aéreas complementares da acção militar.
 
 § único. Exceptuam-se das organizações referidas no corpo deste artigo as relativas a pára-quedismo e aeromodelismo.
 
-###### Art. 2.º As formações aéreas voluntárias são, normalmente, compostas por pessoal navegante e pessoal terrestre de apoio, dispondo de aeronaves e outro material.
+Art. 2.º As formações aéreas voluntárias são, normalmente, compostas por pessoal navegante e pessoal terrestre de apoio, dispondo de aeronaves e outro material.
 
 Sem prejuízo do disposto no artigo 23.º da [Lei n.º 2056](https://diariodarepublica.pt/dr/detalhe/lei/2056-1952-566238), de 2 de Junho de 1952, a constituição de formações aéreas voluntárias carece de autorização dos comandos das regiões ou zonas aéreas em que deva ter lugar.
 
-###### Art. 3.º O pedido de autorização deve ser apresentado por uma das organizações referidas no artigo 1.º do presente diploma e instruído com as declarações individuais de aceitação do pessoal navegante e pessoal terrestre de apoio, assim como da relação das aeronaves e outro material que ficarão à disposição da formação aérea voluntária respectiva.
+Art. 3.º O pedido de autorização deve ser apresentado por uma das organizações referidas no artigo 1.º do presente diploma e instruído com as declarações individuais de aceitação do pessoal navegante e pessoal terrestre de apoio, assim como da relação das aeronaves e outro material que ficarão à disposição da formação aérea voluntária respectiva.
 
 § 1.º Os comandos das regiões ou zonas aéreas podem condicionar a autorização, referida no corpo deste artigo, à prestação de provas reveladoras da necessária capacidade.
 
 § 2.º Quando as aeronaves e outro material pertencerem à Direcção-Geral da Aeronáutica Civil ou aos serviços provinciais da aeronáutica civil, a sua inclusão na relação referida no corpo deste artigo carece de prévia autorização daquela Direcção-Geral ou destes serviços.
 
-###### Art. 4.º As formações aéreas voluntárias ficam na dependência dos comandos das regiões ou zonas aéreas onde forem constituídas, para tudo o que diga respeito à instrução e assistência técnica ligadas com a execução de missões aéreas e para tudo o que diga respeito a estas missões.
+Art. 4.º As formações aéreas voluntárias ficam na dependência dos comandos das regiões ou zonas aéreas onde forem constituídas, para tudo o que diga respeito à instrução e assistência técnica ligadas com a execução de missões aéreas e para tudo o que diga respeito a estas missões.
 
 § 1.º Sem prejuízo do disposto no corpo deste artigo, as autoridades aeronáuticas civis mantêm a plenitude da sua competência sobre as organizações referidas no artigo 1.º, decorrentes do disposto no Decreto-Lei. n.º 41281, de 21 de Setembro de 1957, e no [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961.
 
@@ -115,9 +148,9 @@ Sem prejuízo do disposto no artigo 23.º da [Lei n.º 2056](https://diariodarep
 
 § 3.º A execução das missões aéreas só deve ter lugar em emergência ou em guerra.
 
-###### Art. 5.º As aeronaves e outro material cedidos pelo Estado com a finalidade exclusiva de instrução e assistência técnica, ligadas com a execução de missões aéreas e de execução destas missões não podem ser desviados daquela finalidade.
+Art. 5.º As aeronaves e outro material cedidos pelo Estado com a finalidade exclusiva de instrução e assistência técnica, ligadas com a execução de missões aéreas e de execução destas missões não podem ser desviados daquela finalidade.
 
-###### Art. 6.º As formações aéreas voluntárias, no que respeita a actividade ordenada pelos comandos das regiões ou zonas aéreas, podem beneficiar de:
+Art. 6.º As formações aéreas voluntárias, no que respeita a actividade ordenada pelos comandos das regiões ou zonas aéreas, podem beneficiar de:
 
 a) Facilidades de instrução de pessoal navegante e de pessoal terrestre de apoio;
 
@@ -143,7 +176,7 @@ c) Aos governadores das províncias ultramarinas, pelos respectivos serviços pr
 
 § 4.º As aeronaves de matrícula civil empregadas nas formações aéreas voluntárias só poderão ser conduzidas por pessoal da Força Aérea ou por pessoal civil titular das licenças civis competentes.
 
-###### Art. 7.º O pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:
+Art. 7.º O pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:
 
 a) Dispensa de comparência, sem perda de remunerações, nos serviços públicos e privados, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões aéreas inadiáveis;
 
@@ -161,11 +194,11 @@ Pessoal terrestre de apoio - segundo-sargento especialista.
 
 § 3.º O benefício referido na alínea c) é concedido por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.
 
-###### Art. 8.º As dotações necessárias à cobertura das despesas que, por força do presente diploma, incumbem à Força Aérea, Direcção-Geral da Aeronáutica Civil e serviços provinciais da aeronáutica civil serão inscritas nos respectivos orçamentos.
+Art. 8.º As dotações necessárias à cobertura das despesas que, por força do presente diploma, incumbem à Força Aérea, Direcção-Geral da Aeronáutica Civil e serviços provinciais da aeronáutica civil serão inscritas nos respectivos orçamentos.
 
-###### Art. 9.º As instruções que venham a verificar-se necessárias para execução do disposto no presente diploma serão emanadas, na metrópole, conjuntamente do Estado-Maior da Força Aérea e da Direcção-Geral da Aeronáutica Civil e, nas províncias ultramarinas, dos respectivos conselhos aeronáuticos provinciais.
+Art. 9.º As instruções que venham a verificar-se necessárias para execução do disposto no presente diploma serão emanadas, na metrópole, conjuntamente do Estado-Maior da Força Aérea e da Direcção-Geral da Aeronáutica Civil e, nas províncias ultramarinas, dos respectivos conselhos aeronáuticos provinciais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Kaulza Oliveira de Arriaga.
 

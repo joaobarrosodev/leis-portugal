@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 107/1980, 2º Suplemento, Série I de 1980-05-09
   number: '107'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 932-(9) a 932-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10702/00090010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-1980-442308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40da80b75e9ff5e155acb5f92cd4948b12106fbdb8fa3f020c437c769c140cd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96a72fbd214e93c4d4ff63a56dfe1c1cb769f4b035374bbe0ac1fabb0ac3fb94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Combate à Fraude
+- Contribuições e Impostos
+- Evasão Fiscal
+- Fraude Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:471326:por
+  label: "Prorrogado até 31.07.1980 o prazo de 30.06.1980 previsto no presente diploma, pelo DEC LEI.227/80.16.07.1980.MFP,\
+    \ DR.IS [162] de 16.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1980-471326
+  date: '1980-07-16'
+- type: corrected_by
+  target: pt:dre:474681:por
+  label: Rectificado o presente diploma pela DECL.DD6995.16.05.1980.PCM, DR.IS [124] de 29.05.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-474681
+  date: '1980-05-16'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:01Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +120,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os contribuintes em dívida ao Estado por impostos cuja liquidação dependa de declaração, participação ou outros documentos ainda não apresentados, e bem assim os que, tendo-os apresentado, o fizeram com omissões, inexactidões ou outras irregularidades de que haja resultado falta de liquidação do imposto ou liquidação inferior à devida, não ficam sujeitos a qualquer penalidade desde que regularizem a sua situação tributária com a apresentação ou correcção daqueles elementos até 30 de Junho de 1980 e satisfaçam o pagamento do imposto devido, de uma só vez, nos prazos estabelecidos na legislação fiscal.
+Artigo 1.º - 1 - Os contribuintes em dívida ao Estado por impostos cuja liquidação dependa de declaração, participação ou outros documentos ainda não apresentados, e bem assim os que, tendo-os apresentado, o fizeram com omissões, inexactidões ou outras irregularidades de que haja resultado falta de liquidação do imposto ou liquidação inferior à devida, não ficam sujeitos a qualquer penalidade desde que regularizem a sua situação tributária com a apresentação ou correcção daqueles elementos até 30 de Junho de 1980 e satisfaçam o pagamento do imposto devido, de uma só vez, nos prazos estabelecidos na legislação fiscal.
 
 2 - Os contribuintes nas condições do número anterior podem optar pelo pagamento em prestações, desde que o imposto em dívida seja igual ou superior a 6000$00, de harmonia com o disposto no artigo 4.º, sendo, neste caso, as penalidades estabelecidas na lei reduzidas às multas a seguir indicadas:
 
@@ -112,13 +132,13 @@ c) Multa reduzida a 1/4, quando a multa seja de importância fixa, não podendo 
 
 3 - Nos casos previstos nos números anteriores não são devidos juros compensatórios ou moratórios.
 
-###### Art. 2.º - 1 - As pessoas obrigadas por lei a entregar impostos devidos ao Estado, por elas liquidados, descontados ou recebidos, designadamente nos casos de autoliquidação ou de retenção na fonte, e que não tenham cumprido essa obrigação, não ficam sujeitas a qualquer penalidade desde que regularizem a respectiva situação tributária até 30 de Junho de 1980.
+Art. 2.º - 1 - As pessoas obrigadas por lei a entregar impostos devidos ao Estado, por elas liquidados, descontados ou recebidos, designadamente nos casos de autoliquidação ou de retenção na fonte, e que não tenham cumprido essa obrigação, não ficam sujeitas a qualquer penalidade desde que regularizem a respectiva situação tributária até 30 de Junho de 1980.
 
 2 - Às pessoas referidas no número anterior é aplicável o disposto no n.º 2 do artigo 1.º
 
-###### Art. 3.º Os benefícios previstos nos artigos anteriores só são concedidos se não tiver sido levantado auto de notícia ou feita participação ou denúncia relativos ao facto ou situação a regularizar nos termos neles estabelecidos, sem prejuízo do disposto no artigo 5.º
+Art. 3.º Os benefícios previstos nos artigos anteriores só são concedidos se não tiver sido levantado auto de notícia ou feita participação ou denúncia relativos ao facto ou situação a regularizar nos termos neles estabelecidos, sem prejuízo do disposto no artigo 5.º
 
-###### Art. 4.º - 1 - Nos casos previstos nos n.os 2 dos artigos 1.º e 2.º, a quantia em dívida pode ser paga em prestações trimestrais, num máximo de quatro, desde que os contribuintes ou as pessoas referidos naqueles preceitos o requeiram até 30 de Junho de 1980 ao chefe da repartição de finanças competente e paguem, até ao termo dos cinco dias úteis seguintes à apresentação do requerimento, a respectiva multa.
+Art. 4.º - 1 - Nos casos previstos nos n.os 2 dos artigos 1.º e 2.º, a quantia em dívida pode ser paga em prestações trimestrais, num máximo de quatro, desde que os contribuintes ou as pessoas referidos naqueles preceitos o requeiram até 30 de Junho de 1980 ao chefe da repartição de finanças competente e paguem, até ao termo dos cinco dias úteis seguintes à apresentação do requerimento, a respectiva multa.
 
 2 - As prestações são iguais, excepto a primeira, à qual acrescem as fracções resultantes do arredondamento em escudos de cada uma das restantes, e nenhuma pode ser inferior a 3000$00.
 
@@ -128,9 +148,9 @@ c) Multa reduzida a 1/4, quando a multa seja de importância fixa, não podendo 
 
 5 - Não sendo paga qualquer das prestações no mês do vencimento, começam imediatamente a correr juros de mora e, passados sessenta dias sobre o vencimento de qualquer das prestações sem que se mostre efectuado o respectivo pagamento, há lugar a procedimento executivo para arrecadação da totalidade da quantia em dívida, considerando-se, para o efeito, vencidas as prestações ainda não pagas.
 
-###### Art. 5.º Os contribuintes em dívida ao Estado por impostos que se encontrem na fase de cobrança voluntária não ficam sujeitos ao pagamento de juros de mora, desde que paguem o imposto em dívida dentro do prazo daquela e até 30 de Junho de 1980.
+Art. 5.º Os contribuintes em dívida ao Estado por impostos que se encontrem na fase de cobrança voluntária não ficam sujeitos ao pagamento de juros de mora, desde que paguem o imposto em dívida dentro do prazo daquela e até 30 de Junho de 1980.
 
-###### Art. 6.º - 1 - Existindo pendente processo de transgressão respeitante a factos por que sejam devidos impostos ao Estado, as penalidades estabelecidas na lei são reduzidas às multas a seguir indicadas, desde que o infractor se apresente a regularizar a sua situação tributária até 30 de Junho de 1980):
+Art. 6.º - 1 - Existindo pendente processo de transgressão respeitante a factos por que sejam devidos impostos ao Estado, as penalidades estabelecidas na lei são reduzidas às multas a seguir indicadas, desde que o infractor se apresente a regularizar a sua situação tributária até 30 de Junho de 1980):
 
 a) Multa correspondente a 5% do quantitativo do imposto em causa, não podendo ser inferior a 100$00, quando a multa for fixada em função do montante do imposto devido;
 
@@ -140,24 +160,24 @@ c) Multa reduzida a 1/4, quando estiver em causa multa de importância fixa, nã
 
 2 - O benefício referido no número anterior deve ser requerido ao chefe de repartição de finanças competente ou ao juiz do processo, consoante o caso.
 
-###### Art. 7.º Os executados em processo de execução fiscal por dívida de impostos ao Estado são dispensados dos juros de mora respeitantes aos meses seguintes ao da instauração do processo, desde que efectuem o pagamento da dívida exequenda até 30 de Junho de 1980.
+Art. 7.º Os executados em processo de execução fiscal por dívida de impostos ao Estado são dispensados dos juros de mora respeitantes aos meses seguintes ao da instauração do processo, desde que efectuem o pagamento da dívida exequenda até 30 de Junho de 1980.
 
-###### Art. 8.º - 1 - Os benefícios estabelecidos nos artigos 1.º e 2.º caducam sempre que o pagamento da totalidade do imposto ou qualquer das prestações não seja efectuado no prazo do seu vencimento.
+Art. 8.º - 1 - Os benefícios estabelecidos nos artigos 1.º e 2.º caducam sempre que o pagamento da totalidade do imposto ou qualquer das prestações não seja efectuado no prazo do seu vencimento.
 
 2 - Caducado o benefício nos termos do número anterior, procede-se ao levantamento de auto de notícia para exigência da multa prevista nas leis tributárias, a fixar nos termos gerais, levando-se em conta a multa porventura já paga.
 
-###### Art. 9.º O regime estabelecido neste diploma não prejudica qualquer outro previsto na lei, desde que mais favorável aos contribuintes.
+Art. 9.º O regime estabelecido neste diploma não prejudica qualquer outro previsto na lei, desde que mais favorável aos contribuintes.
 
-###### Art. 10.º O produto das multas estabelecidas neste diploma reverte integralmente para o Estado.
+Art. 10.º O produto das multas estabelecidas neste diploma reverte integralmente para o Estado.
 
-###### Art. 11.º O disposto no presente diploma aplica-se apenas aos impostos administrados pela Direcção-Geral das Contribuições e Impostos.
+Art. 11.º O disposto no presente diploma aplica-se apenas aos impostos administrados pela Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 12.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 12.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Abril de 1980.**
+Promulgado em 30 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

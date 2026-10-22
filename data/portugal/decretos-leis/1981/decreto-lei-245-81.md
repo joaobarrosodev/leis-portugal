@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19300/22052206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50dda88d262414e13ce2b745c0c0f1d21741328b098a2853ebfcc9218850315e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5285a16f9ef0c7770077d960b7b2d884c12b826025711d1bb8e0f4912a7961b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Empregos
+- Função Pública
+- Gratificação
+- Horas Extraordinárias
+- Pensões
+- Remuneração
+- Remuneração Acessória
+- Trabalho Nocturno
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:18Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +121,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditados ao [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, os artigos 7.º-A, 7.º B e 24.º-A, este último inserido num novo capítulo V, com as seguintes redacções:
+Artigo 1.º São aditados ao [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, os artigos 7.º-A, 7.º B e 24.º-A, este último inserido num novo capítulo V, com as seguintes redacções:
 
-###### Art. 7.º-A - 1 - As pensões a que se referem as alíneas do n.º 1 do artigo 7.º serão determinadas, com efeitos a partir de 1 de Setembro de 1981, por forma que:
+Art. 7.º-A - 1 - As pensões a que se referem as alíneas do n.º 1 do artigo 7.º serão determinadas, com efeitos a partir de 1 de Setembro de 1981, por forma que:
 
 a) Os vencimentos a ter em conta no cálculo das pensões a que se refere a alínea a) daquele número sejam de montante igual a 76,5% dos vencimentos das categorias correspondentes do activo fixados nos termos do presente diploma;
 
@@ -112,7 +133,7 @@ e) As pensões de preço de sangue e outras a cargo do Ministério das Finanças
 
 2 - O processo de cálculo estabelecido no número anterior será aplicado às pensões aumentadas nos termos do artigo 7.º, não podendo, em qualquer caso, resultar dessa aplicação redução dos montantes percebidos.
 
-###### Art. 7.º-B - 1 - A determinação da correspondência de categorias para efeitos do disposto no artigo anterior constará de tabelas de equivalências aprovadas por portarias conjuntas dos Ministros da Administração Interna, das Finanças e do Plano e da Reforma Administrativa, as quais terão em conta os requisitos de provimento, o posicionamento na tabela de vencimentos no momento da aposentação e a transição para o actual ordenamento de carreiras.
+Art. 7.º-B - 1 - A determinação da correspondência de categorias para efeitos do disposto no artigo anterior constará de tabelas de equivalências aprovadas por portarias conjuntas dos Ministros da Administração Interna, das Finanças e do Plano e da Reforma Administrativa, as quais terão em conta os requisitos de provimento, o posicionamento na tabela de vencimentos no momento da aposentação e a transição para o actual ordenamento de carreiras.
 
 2 - Competirá em conjunto à Direcção-Geral dos Recursos Humanos, à Direcção-Geral de Integração Administrativa e à Direcção-Geral da Administração Regional e Local a elaboração das tabelas de equivalências referidas no número anterior, face aos elementos que lhes serão facultados pela Caixa Geral de Aposentações e pela Direcção-Geral da Contabilidade Pública.
 
@@ -130,18 +151,18 @@ e) As pensões de preço de sangue e outras a cargo do Ministério das Finanças
 
 ...
 
-###### Art. 24.º-A - 1 - O subsídio de refeição previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, é fixado em 1200$00 mensais, com efeitos desde 1 de Junho de 1981.
+Art. 24.º-A - 1 - O subsídio de refeição previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, é fixado em 1200$00 mensais, com efeitos desde 1 de Junho de 1981.
 
 2 - O preço de venda da refeição, a fixar nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, não poderá ser inferior ao valor do subsídio diário correspondente ao subsídio mensal agora fixado.
 
 3 - O diferencial que se vier a verificar entre o preço de venda da refeição e o custo dos géneros incorporados na mesma reverterá para os cofres públicos como operações de tesouraria, em rubrica a criar para o efeito.
 
-###### Art. 2.º Em consequência do disposto no artigo anterior, o capítulo V do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, passa a capítulo VI.
+Art. 2.º Em consequência do disposto no artigo anterior, o capítulo V do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, passa a capítulo VI.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 18 de Agosto de 1981.**
+Promulgado em 18 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

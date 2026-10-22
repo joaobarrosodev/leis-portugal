@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/18800/16691670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1978-299810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 856108fb02cc61717931a490cfdd33cb545d6a43ca3ea53b978051eabf52f99c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4968b870379a3f9a11099170e16bbe94eeff976d1a342a6c83374b1439c74400
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Importação
+- Indústria Têxtil
+- Instituto dos Têxteis
+- Prestação de Serviços
+- Receita Própria
 relationships:
 - type: amended_by
   target: pt:dre:308152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408350:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326767:por
+  label: Rectificado pela DECL.DD7431.25.11.1978.PCM, DR.IS [272] de 25.11.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-326767
+  date: '1978-11-25'
+- type: repealed_by
+  target: pt:dre:308152:por
+  label: "Revogado pelo DEC LEI.12/83.1983.01.18.MIEE DR.IS [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1983-308152
+  date: '1983-01-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:53Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +130,7 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Constituem receita para o Instituto dos Têxteis:
+Artigo 1.º Constituem receita para o Instituto dos Têxteis:
 
 a) A taxa de inscrição ou de renovação de inscrição de 10000$00 nas actividades de importador de fibras e fios têxteis ou de importador de têxteis (semimanufacturados ou produtos acabados);
 
@@ -126,26 +154,26 @@ j) A contribuição de $20 por quilograma de desperdícios de fibras artificiais
 
 l) A contribuição de $30 por quilograma de desperdícios de lã poliéster.
 
-###### Art. 2.º O pagamento das taxas de inscrição será feito por cheque ou vale do correio enviado ao Instituto dos Têxteis no prazo de oito dias após a recepção do aviso emitido por este organismo, comunicando ter sido aceite a inscrição.
+Art. 2.º O pagamento das taxas de inscrição será feito por cheque ou vale do correio enviado ao Instituto dos Têxteis no prazo de oito dias após a recepção do aviso emitido por este organismo, comunicando ter sido aceite a inscrição.
 
-###### Art. 3.º O pagamento da taxa de renovação anual de inscrição será feito por cheque ou vale do correio enviado ao Instituto dos Têxteis durante o mês de Outubro imediatamente anterior ao ano a que a renovação respeitar.
+Art. 3.º O pagamento da taxa de renovação anual de inscrição será feito por cheque ou vale do correio enviado ao Instituto dos Têxteis durante o mês de Outubro imediatamente anterior ao ano a que a renovação respeitar.
 
-###### Art. 4.º - 1 - O Instituto dos Têxteis procederá à liquidação das quantias correspondentes às contribuições devidas, com base nas declarações mensais dos industriais relativas às matérias-primas referidas no artigo 1.º utilizadas nos produtos fabricados.
+Art. 4.º - 1 - O Instituto dos Têxteis procederá à liquidação das quantias correspondentes às contribuições devidas, com base nas declarações mensais dos industriais relativas às matérias-primas referidas no artigo 1.º utilizadas nos produtos fabricados.
 
 2 - As declarações previstas no n.º 1 deste artigo serão efectuadas nos termos e com os elementos que o Instituto determinar, devendo ser enviadas ao organismo até ao décimo quinto dia do mês seguinte àquele a que se referem.
 
-###### Art. 5.º - 1 - As importâncias liquidadas nos termos do artigo 4.º deste decreto-lei deverão ser depositadas na Caixa Geral de Depósitos pelos industriais no prazo de quinze dias, a contar da data da guia de depósito emitida pelo Instituto dos Têxteis
+Art. 5.º - 1 - As importâncias liquidadas nos termos do artigo 4.º deste decreto-lei deverão ser depositadas na Caixa Geral de Depósitos pelos industriais no prazo de quinze dias, a contar da data da guia de depósito emitida pelo Instituto dos Têxteis
 
 2 - Exceptuam-se do disposto no n.º 1 deste artigo as importâncias de montante inferior a 10000$00, as quais poderão ser pagas directamente, por cheque ou vale do correio, ou à boca do cofre do Instituto.
 
-###### Art. 6.º Quando a previsão do total da cobrança anual das taxas e contribuições referidas no artigo 1.º deste decreto-lei for inferior ao montante global das despesas constantes do orçamento do Instituto dos Têxteis para esse ano, aprovado pelos Ministros do Comércio e Turismo e das Finanças e do Plano, o deficit será coberto através de um subsídio não reembolsável, a conceder ao organismo através do Orçamento Geral do Estado.
+Art. 6.º Quando a previsão do total da cobrança anual das taxas e contribuições referidas no artigo 1.º deste decreto-lei for inferior ao montante global das despesas constantes do orçamento do Instituto dos Têxteis para esse ano, aprovado pelos Ministros do Comércio e Turismo e das Finanças e do Plano, o deficit será coberto através de um subsídio não reembolsável, a conceder ao organismo através do Orçamento Geral do Estado.
 
-###### Art. 7.º Fica revogada a [Portaria n.º 20/74](https://diariodarepublica.pt/dr/detalhe/portaria/20-1974-408350), de 12 de Janeiro.
+Art. 7.º Fica revogada a [Portaria n.º 20/74](https://diariodarepublica.pt/dr/detalhe/portaria/20-1974-408350), de 12 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 2 de Agosto de 1978.**
+Promulgado em 2 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 233/1976, 1º Suplemento, Série I de 1976-10-04
   number: '233'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2254-(2) a 2254-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23301/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/709-b-1976-226997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5da289c92925431c10d358370ff8b35252fe9096dd8f390cb5dba909dab1d15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35e365ce6666ab3ea890aad1f9f3db90ad87cc9dd0fd030574aa806ecf52ed13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
   target: pt:dre:300009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "FUNDIDO COM A COMISSAO DO LIVRO NEGRO PELO DEC LEI 210/85 DE 27-JUN DR.IS [145] \0145]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-06-27'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300009:por
+  label: "Revogado pelo DEC LEI.147/93.1993.05.03.PCM, DR.IS-A [102], devendo as instalações do ex-Presidio de Peniche ser\
+    \ afectadas à Direcção Geral do Património do Estado\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1993-300009
+  date: '1993-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:52Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +119,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, na dependência da Presidência do Conselho de Ministros, o Museu da República e da Resistência.
+Artigo 1.º É criado, na dependência da Presidência do Conselho de Ministros, o Museu da República e da Resistência.
 
-###### Art. 2.º - 1. O Museu terá sede em Lisboa e instalar-se-á no ex-presídio de Peniche.
+Art. 2.º - 1. O Museu terá sede em Lisboa e instalar-se-á no ex-presídio de Peniche.
 
 2. Para o efeito do disposto no número anterior, as instalações do ex-presídio de Peniche são afectadas ao património tutelado pela Presidência do Conselho de Ministros.
 
-###### Art. 3.º Incumbe, essencialmente, ao Museu:
+Art. 3.º Incumbe, essencialmente, ao Museu:
 
 a) Inventariar, recolher, classificar, beneficiar, conservar e expor quaisquer escritos e outros objectos com interesse para o conhecimento e a perduração da memória da luta dos precursores e da acção governativa dos Governos da I República, da luta antifascista contra as subsequentes ditaduras e do movimento revolucionário de 25 de Abril de 1974;
 
@@ -124,7 +141,7 @@ f) Colaborar na preparação das cerimónias comemorativas das datas com signifi
 
 g) As demais funções que lhe venham a ser cometidas por despacho do Primeiro-Ministro.
 
-###### Art. 4.º - 1. Para a prossecução das suas finalidades poderá o Museu utilizar, entre outros, os seguintes meios:
+Art. 4.º - 1. Para a prossecução das suas finalidades poderá o Museu utilizar, entre outros, os seguintes meios:
 
 a) Colecções de objectos relacionados com as funções referidas no artigo 3.º;
 
@@ -140,7 +157,7 @@ b) A publicação de um roteiro, com as necessárias indicações para o públic
 
 c) A elaboração de publicações não periódicas, notas informativas para a imprensa, rádio e televisão.
 
-###### Art. 5.º São órgãos do Museu:
+Art. 5.º São órgãos do Museu:
 
 a) O director;
 
@@ -148,9 +165,9 @@ b) O conselho consultivo;
 
 c) O conselho administrativo.
 
-###### Art. 6.º O director é nomeado pelo Primeiro-Ministro, de entre individualidades de reconhecido mérito.
+Art. 6.º O director é nomeado pelo Primeiro-Ministro, de entre individualidades de reconhecido mérito.
 
-###### Art. 7.º Ao director do Museu compete:
+Art. 7.º Ao director do Museu compete:
 
 a) Dar execução às disposições legais e às determinações superiores relativas à organização e funcionamento do Museu;
 
@@ -164,9 +181,9 @@ e) Propor, ouvido o conselho consultivo, a nomeação e exoneração do pessoal;
 
 f) Elaborar anualmente um relatório sobre a vida do Museu, as actividades prosseguidas e a prosseguir e as necessidades existentes e previsionais.
 
-###### Art. 8.º O conselho consultivo é composto pelo director e por cinco a dez vogais, nomeados pelo Primeiro-Ministro, de entre individualidades de reconhecido mérito.
+Art. 8.º O conselho consultivo é composto pelo director e por cinco a dez vogais, nomeados pelo Primeiro-Ministro, de entre individualidades de reconhecido mérito.
 
-###### Art. 9.º - 1. Ao conselho consultivo compete:
+Art. 9.º - 1. Ao conselho consultivo compete:
 
 a) Colaborar com o director na orientação geral do Museu;
 
@@ -174,9 +191,9 @@ b) Formular sugestões no sentido do melhoramento dos serviços e da mais eficie
 
 2. O exercício das funções de membro do conselho consultivo é em princípio gratuito, mas os respectivos membros terão direito a um abono para despesas, quando tenham de deslocar-se a Peniche em missão de serviço, fixado por despacho do Primeiro-Ministro.
 
-###### Art. 10.º O conselho administrativo é composto pelo director, que preside, com voto de qualidade, por um vogal do conselho consultivo. nomeado pelo Primeiro-Ministro, e pelo secretário do Museu.
+Art. 10.º O conselho administrativo é composto pelo director, que preside, com voto de qualidade, por um vogal do conselho consultivo. nomeado pelo Primeiro-Ministro, e pelo secretário do Museu.
 
-###### Art. 11.º Compete ao conselho administrativo:
+Art. 11.º Compete ao conselho administrativo:
 
 a) Requisitar à repartição competente a importância das dotações inscritas no orçamento geral do Estado a favor do Museu;
 
@@ -190,7 +207,7 @@ e) Elaborar e remeter ao Tribunal de Contas, dentro do prazo legal, a conta de g
 
 f) Promover a organização e permanente actualização do cadastro dos imóveis e do inventário dos móveis pertencentes ao Museu ou na sua posse.
 
-###### Art. 12.º - 1. Constituem receitas do Museu:
+Art. 12.º - 1. Constituem receitas do Museu:
 
 a) As verbas para ele inscritas no Orçamento Geral do Estado;
 
@@ -202,22 +219,22 @@ d) Quaisquer outras receitas autorizadas pelo Primeiro-Ministro.
 
 2. Para o ano em curso, fica o Ministério das Finanças autorizado a assegurar a satisfação dos encargos decorrentes da criação e funcionamento do Museu.
 
-###### Art. 13.º - 1. Darão entrada no Museu as peças adquiridas com as respectivas dotações orçamentais e, bem assim, os bens pertencentes ao Estado que venham a ser-lhes cedidos, por incorporação, nos termos gerais.
+Art. 13.º - 1. Darão entrada no Museu as peças adquiridas com as respectivas dotações orçamentais e, bem assim, os bens pertencentes ao Estado que venham a ser-lhes cedidos, por incorporação, nos termos gerais.
 
 2. Poderá o director aceitar em regime de depósito, feito por quaisquer entidades oficiais ou particulares, peças que se revistam de interesse para a realização das finalidades do Museu.
 
-###### Art. 14.º O quadro do pessoal do Museu será o constante de portaria a aprovar nos termos do artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 14.º O quadro do pessoal do Museu será o constante de portaria a aprovar nos termos do artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
-###### Art. 15.º O regulamento interno do Museu será aprovado por portaria do Primeiro-Ministro.
+Art. 15.º O regulamento interno do Museu será aprovado por portaria do Primeiro-Ministro.
 
-###### Art. 16.º O Primeiro-Ministro poderá delegar a competência que lhe é conferida pelo presente diploma.
+Art. 16.º O Primeiro-Ministro poderá delegar a competência que lhe é conferida pelo presente diploma.
 
-###### Art. 17.º O presente decreto-lei entra em vigor do dia seguinte ao da sua publicação.
+Art. 17.º O presente decreto-lei entra em vigor do dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 4 de Outubro de 1976.**
+Promulgado em 4 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23000/11691170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1974-472684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddb882798eebf477b68a1b21170025f102fa5a62e0be61a525ae11b082c5061c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11ad18b982e8d0f5186a91f88a0c489387c21d884435a9b0318ef0dc928757c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cidadão Estrangeiro
+- Direção Geral do Ensino Superior
+- Ensino Superior
+- Equiparação de Cursos
+- Equivalência de Diplomas
+- Equivalência de Habilitações Literárias
+- Estabelecimento de Ensino
+- Ministro da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:601299:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:404483:por
+  label: "Revogado pelo DEC LEI.555/77.31.12.1977.MEIC, DR.IS [302]2ºSupl de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/555-1977-404483
+  date: '1977-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:37Z'
   warnings: []
   errors: []
 ---
@@ -104,34 +117,34 @@ Considerando, por outro lado, a grande expansão escolar no próximo ano lectivo
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro da Educação e Cultura estabelecerá, por despacho, assente sobre prévio parecer de comissões de especialistas portugueses e, se necessário, estrangeiros, a lista dos estabelecimentos de ensino superior e centros de investigação estrangeiros a cujos títulos se reconhece valor nacional ou que são de considerar equivalentes a títulos nacionais; o mesmo despacho estabelecerá a correspondência de cada grau conferido pelos estabelecimentos de ensino estrangeiros a cada um dos graus nacionais.
+Artigo 1.º - 1. O Ministro da Educação e Cultura estabelecerá, por despacho, assente sobre prévio parecer de comissões de especialistas portugueses e, se necessário, estrangeiros, a lista dos estabelecimentos de ensino superior e centros de investigação estrangeiros a cujos títulos se reconhece valor nacional ou que são de considerar equivalentes a títulos nacionais; o mesmo despacho estabelecerá a correspondência de cada grau conferido pelos estabelecimentos de ensino estrangeiros a cada um dos graus nacionais.
 
 2. Esse reconhecimento do valor nacional ou concessão de equivalência de título será efectuado pela Direcção-Geral do Ensino Superior de acordo com a referida lista, mediante requerimento do interessado, acompanhado das respectivas provas documentais e do currículo pessoal.
 
-###### Art. 2.º - 1. Os casos duvidosos e os não incluídos na referida lista serão decididos por despacho ministerial, mediante parecer de uma comissão de especialistas portugueses e, se necessário, também estrangeiros.
+Art. 2.º - 1. Os casos duvidosos e os não incluídos na referida lista serão decididos por despacho ministerial, mediante parecer de uma comissão de especialistas portugueses e, se necessário, também estrangeiros.
 
 2. O interessado apresentará o requerimento na Direcção-Geral do Ensino Superior, acompanhado das respectivas provas documentais, do currículo pessoal e de, pelo menos, dois exemplares dos seus trabalhos académicos e outros.
 
-###### Art. 3.º - 1. O critério seguido no estabelecimento da lista referida no artigo 1.º e na concessão do valor nacional ou equivalência de título estrangeiro prevista no artigo 2.º será global, isto é, de acordo com o curso superior ou o grau académico considerado em bloco, e não segundo correspondência de cadeiras, de elenco de planos de estudo ou de composição das provas prestadas.
+Art. 3.º - 1. O critério seguido no estabelecimento da lista referida no artigo 1.º e na concessão do valor nacional ou equivalência de título estrangeiro prevista no artigo 2.º será global, isto é, de acordo com o curso superior ou o grau académico considerado em bloco, e não segundo correspondência de cadeiras, de elenco de planos de estudo ou de composição das provas prestadas.
 
 2. Nos casos referidos no n.º 1 do artigo 2.º que sejam excepcionalmente duvidosos poderá a comissão de especialistas exigir do candidato a prestação de uma ou mais provas complementares.
 
-###### Art. 4.º Sempre que os documentos e trabalhos a apresentar pelo requerente estejam escritos em língua estrangeira que não seja espanhol, francês, inglês, italiano, alemão ou latim, poderá ser exigida a sua tradução, que, quanto aos diplomas, deverá ser devidamente autenticada.
+Art. 4.º Sempre que os documentos e trabalhos a apresentar pelo requerente estejam escritos em língua estrangeira que não seja espanhol, francês, inglês, italiano, alemão ou latim, poderá ser exigida a sua tradução, que, quanto aos diplomas, deverá ser devidamente autenticada.
 
-###### Art. 5.º - 1. A pretensão do requerente será deferida ou não no prazo de quatro meses a contar da data da apresentação do processo completo à entidade competente.
+Art. 5.º - 1. A pretensão do requerente será deferida ou não no prazo de quatro meses a contar da data da apresentação do processo completo à entidade competente.
 
 2. Findo o prazo citado no número anterior sem que o processo tenha sido objecto de despacho ministerial, considera-se deferida a pretensão.
 
-###### Art. 6.º No ano escolar de 1974-1975 poderá o Ministro da Educação e Cultura autorizar a título excepcional e precário o contrato para funções docentes de personalidades habilitadas com cursos no estrangeiro antes de concedida a equiparação nas condições legais.
+Art. 6.º No ano escolar de 1974-1975 poderá o Ministro da Educação e Cultura autorizar a título excepcional e precário o contrato para funções docentes de personalidades habilitadas com cursos no estrangeiro antes de concedida a equiparação nas condições legais.
 
-###### Art. 7.º As comissões de especialistas previstas no presente decreto-lei serão livremente nomeadas por despacho ministerial.
+Art. 7.º As comissões de especialistas previstas no presente decreto-lei serão livremente nomeadas por despacho ministerial.
 
-###### Art. 8.º As dúvidas que surjam na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura.
+Art. 8.º As dúvidas que surjam na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Vitorino Magalhães Godinho.
 
-**Promulgado em 24 de Setembro de 1974.**
+Promulgado em 24 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

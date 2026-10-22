@@ -46,36 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45908-1964-537580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 527a3acec6060ac739e2bbaf531bb9d9c806bdadac8a2ba79310973ea22fb4c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96afb10d1e63e55658502e4c95152c4faa24850a91005d7941e037a32a35e5a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Ensino Oficial
+- Ensino Particular
+- Ensino Primário
+- Escola do Magistério Primário
+- Estabelecimento de Ensino
+- Estudante
+- Formação de Professores
+- Formação Profissional
+- Horário de Funcionamento
+- Moçambique.Colónia Portuguesa
+- Pessoal Docente
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:180992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:27Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +138,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O ensino primário elementar a ministrar nas províncias ultramarinas é o que se encontra em vigor na metrópole, adaptado ao condicionalismo local, como se determina nos respectivos programas, e conforme o disposto no presente diploma.
+Artigo 1.º O ensino primário elementar a ministrar nas províncias ultramarinas é o que se encontra em vigor na metrópole, adaptado ao condicionalismo local, como se determina nos respectivos programas, e conforme o disposto no presente diploma.
 
 § único. Oportunamente se providenciará quanto à sequência no conjunto do ensino primário, com o 2.º ciclo deste que há-de constituir o ensino primário complementar.
 
-###### Art. 2.º O ensino primário elementar é ministrado em postos escolares e escolas primárias, oficiais, oficializadas e particulares, compreendendo quatro classes, precedidas de uma classe pré-primária.
+Art. 2.º O ensino primário elementar é ministrado em postos escolares e escolas primárias, oficiais, oficializadas e particulares, compreendendo quatro classes, precedidas de uma classe pré-primária.
 
 § 1.º A classe pré-primária visa a aquisição do uso corrente da língua nacional e actividades preparatórias da receptividade para o ensino escolarizado. O ensino será oral, basear-se-á em actividades lúdicas e terá como principal finalidade despertar racionalmente na criança as suas faculdades específicas e integrá-la no ambiente mais directo e imediato do seu desenvolvimento.
 
@@ -120,7 +150,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Nas classes seguintes se completarão os propósitos das classes anteriores, paralelamente ao processo de desenvolvimento da criança e sua integração no ambiente.
 
-###### Art. 3.º Os postos escolares e as escolas primárias estarão estreitamente vinculados aos ambientes onde se situarem, intervindo nas actividades neles dominantes, especialmente por:
+Art. 3.º Os postos escolares e as escolas primárias estarão estreitamente vinculados aos ambientes onde se situarem, intervindo nas actividades neles dominantes, especialmente por:
 
 1.º Reuniões quinzenais dos professores com as famílias e, em especial, das professoras com as mulheres do povo;
 
@@ -132,11 +162,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º Os jogos sociais dos sábados e domingos serão realizados de acordo com o pessoal missionário da área, de forma que se não prejudiquem recìprocamente as correspondentes actividades.
 
-###### Art. 4.º Os menores que revelem deficiências que desaconselhem a frequência normal serão leccionados em classes especiais, por determinação das autoridades escolares competentes, sob parecer das entidades especializadas, podendo, contudo, retomar o ensino comum, mediante aprovação em convenientes provas de passagem de classe, ou de exame.
+Art. 4.º Os menores que revelem deficiências que desaconselhem a frequência normal serão leccionados em classes especiais, por determinação das autoridades escolares competentes, sob parecer das entidades especializadas, podendo, contudo, retomar o ensino comum, mediante aprovação em convenientes provas de passagem de classe, ou de exame.
 
 § único. Onde e enquanto não houver pessoal especializado, o regulamento do ensino primário da província providenciará de harmonia com as circunstâncias.
 
-###### Art. 5.º As escolas primárias são localizadas nos centros urbanos e outras localidades onde as circunstâncias o aconselharem. Os postos escolares, nos restantes núcleos populacionais.
+Art. 5.º As escolas primárias são localizadas nos centros urbanos e outras localidades onde as circunstâncias o aconselharem. Os postos escolares, nos restantes núcleos populacionais.
 
 § 1.º As actuais escolas de ensino de adaptação passam a denominar-se «postos escolares».
 
@@ -146,9 +176,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Os postos escolares das localidades onde predomine a população urbana poderão também integrar a 4.ª classe do ensino primário, e serão transformados em escolas primárias logo que a frequência o justifique.
 
-###### Art. 6.º As escolas primárias poderão funcionar apenas com a 4.ª classe do ensino primário, na qualidade de escolas centrais, em relação a um grupo próximo de postos escolares que absorvam as demais classes.
+Art. 6.º As escolas primárias poderão funcionar apenas com a 4.ª classe do ensino primário, na qualidade de escolas centrais, em relação a um grupo próximo de postos escolares que absorvam as demais classes.
 
-###### Art. 7.º O Estado facultará às missões católicas portuguesas, sempre que possível, pessoal docente diplomado, e ou monitores escolares, dos quadros oficiais e por estes remunerados, mediante solicitação e concordância dos prelados das dioceses, bem como auxílio para construção e apetrechamento escolares.
+Art. 7.º O Estado facultará às missões católicas portuguesas, sempre que possível, pessoal docente diplomado, e ou monitores escolares, dos quadros oficiais e por estes remunerados, mediante solicitação e concordância dos prelados das dioceses, bem como auxílio para construção e apetrechamento escolares.
 
 § 1.º O pessoal docente facultado nos termos do presente artigo poderá ser, em qualquer altura, dispensado pelos prelados, ficando sujeito a procedimento disciplinar sempre que a dispensa resulte de actos ou omissões puníveis.
 
@@ -158,13 +188,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º As autoridades missionárias terão plena liberdade de acção catequística, em todos os postos escolares e escolas primárias, sem prejuízo dos horários escolares.
 
-###### Art. 8.º Sempre que as missões católicas portuguesas criem estabelecimentos de ensino, cuja actividade se situe no âmbito das normas deste diploma, deverão dar conhecimento imediato aos serviços de educação, indicando a designação do estabelecimento, sua localização e constituição do corpo docente, com os elementos de identificação deste e respectivas habilitações literárias e pedagógicas que possua.
+Art. 8.º Sempre que as missões católicas portuguesas criem estabelecimentos de ensino, cuja actividade se situe no âmbito das normas deste diploma, deverão dar conhecimento imediato aos serviços de educação, indicando a designação do estabelecimento, sua localização e constituição do corpo docente, com os elementos de identificação deste e respectivas habilitações literárias e pedagógicas que possua.
 
 § 1.º O pessoal docente referido no corpo do artigo enquadrar-se-á, com respeito das disposições do presente diploma, nas categorias definidas no artigo 15.º, consoante as correspondentes habilitações literárias e pedagógicas.
 
 § 2.º As missões desenvolverão os seus esforços de criação de estabelecimentos de ensino de preferência no âmbito do esquema de ocupação escolar oficialmente aprovado.
 
-###### Art. 9.º O ensino primário elementar compreende seis anos de escolaridade e é obrigatório e gratuito para as crianças dos 6 aos 12 anos de idade, completos ou a completar até 31 de Dezembro do ano em que se efectua a matrícula.
+Art. 9.º O ensino primário elementar compreende seis anos de escolaridade e é obrigatório e gratuito para as crianças dos 6 aos 12 anos de idade, completos ou a completar até 31 de Dezembro do ano em que se efectua a matrícula.
 
 § 1.º As crianças já com 7 anos, ou que os completem até 31 de Dezembro do ano da primeira matrícula, podem ser dispensadas da frequência da classe pré-primária, a solicitação dos pais, encarregados de educação ou responsáveis por elas, se tiverem o português como língua de uso corrente e possuírem desenvolvimento bastante para receber o ensino da 1.ª classe, nos termos a fixar no regulamento do ensino primário elementar da província, sobre parecer da respectiva inspecção provincial.
 
@@ -174,19 +204,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º O ensino primário ministrado com observância das condições estabelecidas no artigo 8.º, no âmbito das missões católicas portuguesas, é equiparado ao ensino oficial.
 
-###### Art. 10.º A obrigatoriedade definida no corpo do artigo 9.º implica para os pais e encarregados da educação, ou responsáveis pelas crianças, o encargo de as apresentar à matrícula e de as vigiar na frequência escolar, incorrendo em sanção pecuniária pelo seu não cumprimento.
+Art. 10.º A obrigatoriedade definida no corpo do artigo 9.º implica para os pais e encarregados da educação, ou responsáveis pelas crianças, o encargo de as apresentar à matrícula e de as vigiar na frequência escolar, incorrendo em sanção pecuniária pelo seu não cumprimento.
 
 § 1.º As sanções pecuniárias e as condições em que deverão ser aplicadas serão definidas em portaria provincial e constituem receita das caixas escolares.
 
 § 2.º Os governos das províncias aprovarão, nos 60 dias subsequentes à publicação do presente diploma, o regulamento das caixas escolares.
 
-###### Art. 11.º O ensino primário elementar, ministrado em escolas ou colégios e postos escolares particulares, obedecerá às disposições e orgânica que o regerem nos estabelecimentos de ensino oficial.
+Art. 11.º O ensino primário elementar, ministrado em escolas ou colégios e postos escolares particulares, obedecerá às disposições e orgânica que o regerem nos estabelecimentos de ensino oficial.
 
-###### Art. 12.º Para o exercício do ensino primário elementar particular, em povoações rurais e em terras de qualquer categoria, serão exigidos os respectivos diplomas de ensino particular.
+Art. 12.º Para o exercício do ensino primário elementar particular, em povoações rurais e em terras de qualquer categoria, serão exigidos os respectivos diplomas de ensino particular.
 
 § único. Transitória e excepcionalmente poderá ser permitido leccionar este ensino em povoações de ambiente rural, durante cinco anos lectivos consecutivos, a quem possua, pelo menos, aprovação no exame do ensino primário elementar ou geral, e o requeira. O governo da província regulamentará os termos em que a permissão poderá ser concedida.
 
-###### Art. 13.º O regime normal de frequência é o da separação dos sexos.
+Art. 13.º O regime normal de frequência é o da separação dos sexos.
 
 § 1.º A frequência comum dos sexos é, transitòriamente, permitida, devendo a separação completa ir-se efectivando na medida em que se possa recorrer a pessoal docente feminino para ministrar o ensino a raparigas.
 
@@ -194,11 +224,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Na falta de professores, poderão as professoras ministrar o ensino a rapazes.
 
-###### Art. 14.º Os modelos estatísticos a adoptar no ensino oficial e oficializado são extensivos ao ensino particular e aprovados por portaria provincial, de acordo com as normas gerais emanadas da Direcção-Geral do Ensino, fixando-se naquele diploma os locais e prazos de entrega e as sanções pelo não cumprimento desta disposição.
+Art. 14.º Os modelos estatísticos a adoptar no ensino oficial e oficializado são extensivos ao ensino particular e aprovados por portaria provincial, de acordo com as normas gerais emanadas da Direcção-Geral do Ensino, fixando-se naquele diploma os locais e prazos de entrega e as sanções pelo não cumprimento desta disposição.
 
 ### CAPÍTULO II — Do pessoal docente
 
-###### Art. 15.º O pessoal docente compreende:
+Art. 15.º O pessoal docente compreende:
 
 a) Professores de ensino primário elementar;
 
@@ -206,29 +236,29 @@ b) Professores de posto escolar;
 
 c) Monitores escolares.
 
-###### Art. 16.º São professores de ensino primário elementar os diplomados pelas correspondentes escolas do magistério.
+Art. 16.º São professores de ensino primário elementar os diplomados pelas correspondentes escolas do magistério.
 
 § único. Nas escolas centrais referidas no artigo 6.º só podem ser colocados professores diplomados para o ensino primário.
 
-###### Art. 17.º As vagas de professor do ensino primário elementar do sexo masculino do quadro docente de cada província, para as quais já não haja candidatos do último concurso e durante o período da validade deste, podem ser providas sem dependência de concurso, mediante requerimento dos interessados que comprovem idoneidade moral e cívica e sejam diplomados pelas escolas do magistério.
+Art. 17.º As vagas de professor do ensino primário elementar do sexo masculino do quadro docente de cada província, para as quais já não haja candidatos do último concurso e durante o período da validade deste, podem ser providas sem dependência de concurso, mediante requerimento dos interessados que comprovem idoneidade moral e cívica e sejam diplomados pelas escolas do magistério.
 
 § 1.º Estes professores completarão os seus processos burocráticos nos termos legais.
 
 § 2.º O disposto no presente artigo é aplicável às professoras de ensino primário diplomadas para a regência de classes especiais pelo Instituto de António Aurélio da Costa Ferreira.
 
-###### Art. 18.º As professoras casadas com professores pertencentes ao quadro docente de qualquer das províncias terão preferência no provimento de vagas de lugares femininos do mesmo quadro e de colocação na localidade onde o marido prestar serviço.
+Art. 18.º As professoras casadas com professores pertencentes ao quadro docente de qualquer das províncias terão preferência no provimento de vagas de lugares femininos do mesmo quadro e de colocação na localidade onde o marido prestar serviço.
 
 § único. As preferências do corpo do artigo são extensivas aos cônjuges dos funcionários dos quadros de inspecção e de direcção dos serviços de educação.
 
-###### Art. 19.º O concurso de provimento de professores de ensino primário elementar será sempre anunciado no Diário do Governo e no Boletim Oficial da respectiva província.
+Art. 19.º O concurso de provimento de professores de ensino primário elementar será sempre anunciado no Diário do Governo e no Boletim Oficial da respectiva província.
 
-###### Art. 20.º São professores de posto escolar os diplomados pelas respectivas escolas de habilitação.
+Art. 20.º São professores de posto escolar os diplomados pelas respectivas escolas de habilitação.
 
 § 1.º Os actuais professores titulados para o ensino rudimentar, de adaptação ou rural, com diploma reconhecido pelo Estado, poderão ingressar no quadro dos professores de posto escolar, mediante concurso documental a regulamentar pelos governos das respectivas províncias, sobre parecer da inspecção provincial. Os restantes poderão ingressar no mesmo quadro mediante concurso de provas públicas a regulamentar nos termos anteriores.
 
 § 2.º Transitòriamente, enquanto as escolas de habilitação de professores de posto escolar não proverem as necessidades, poderão ser admitidos a concurso de provas públicas para ingresso no correspondente quadro os indivíduos com o ciclo preparatório das escolas técnicas profissionais ou equivalente com idoneidade moral comprovada pelos prelados ou pela autoridade administrativa competente. Os governos das províncias regulamentarão este concurso, sob parecer da inspecção provincial.
 
-###### Art. 21.º Os professores de posto escolar farão parte dos quadros privativos de cada província e o seu provimento será feito por contrato.
+Art. 21.º Os professores de posto escolar farão parte dos quadros privativos de cada província e o seu provimento será feito por contrato.
 
 § único. Estes professores terão as categorias a seguir indicadas:
 
@@ -238,11 +268,11 @@ Letra U - Dos dez aos vinte anos;
 
 Letra T - Com mais de vinte anos.
 
-###### Art. 22.º No mês de Agosto de cada ano será obrigatòriamente aberto concurso documental pelos serviços de educação para o ingresso no quadro respectivo dos diplomados pelas escolas de habilitação de professores de posto escolar.
+Art. 22.º No mês de Agosto de cada ano será obrigatòriamente aberto concurso documental pelos serviços de educação para o ingresso no quadro respectivo dos diplomados pelas escolas de habilitação de professores de posto escolar.
 
-###### Art. 23.º São monitores escolares os indivíduos, dos dois sexos, que obtenham reconhecimento de aptidão para o exercício eventual do ensino primário elementar nos ambientes rurais.
+Art. 23.º São monitores escolares os indivíduos, dos dois sexos, que obtenham reconhecimento de aptidão para o exercício eventual do ensino primário elementar nos ambientes rurais.
 
-###### Art. 24.º Sòmente quando e enquanto não houver professores de posto escolar diplomados para preencher as vagas existentes poderá ser entregue a monitores a regência de turmas ou classes de postos de ambiência rural, preferentemente em casos de desdobramento e sob a orientação de professores de posto escolar diplomados ou de professores de ensino primário elementar.
+Art. 24.º Sòmente quando e enquanto não houver professores de posto escolar diplomados para preencher as vagas existentes poderá ser entregue a monitores a regência de turmas ou classes de postos de ambiência rural, preferentemente em casos de desdobramento e sob a orientação de professores de posto escolar diplomados ou de professores de ensino primário elementar.
 
 § 1.º Os monitores são assalariados, percebendo a remuneração que legalmente lhes for atribuída pelo governo da província.
 
@@ -250,7 +280,7 @@ Letra T - Com mais de vinte anos.
 
 § 3.º Destes cursos e da renovação do assalariamento são eliminados os que tiverem comprovado falta de idoneidade moral e cívica e inadaptação ou incapacidade para o ensino verificadas pela inspecção.
 
-###### Art. 25.º Os monitores que permanecerem em serviço docente sempre com boas informações anuais da inspecção beneficiarão de melhoria de remuneração periòdicamente, nos termos a fixar pelos governos das províncias.
+Art. 25.º Os monitores que permanecerem em serviço docente sempre com boas informações anuais da inspecção beneficiarão de melhoria de remuneração periòdicamente, nos termos a fixar pelos governos das províncias.
 
 § único. No fim de dez anos de serviço sempre com boas informações anuais da inspecção poderão ser admitidos a concurso de provas públicas para ingresso no quadro de professores de posto escolar, consoante for regulamentado pelo governo de cada província, sob parecer da inspecção provincial.
 
@@ -258,15 +288,15 @@ Letra T - Com mais de vinte anos.
 
 A) Das escolas do magistério primário
 
-###### Art. 26.º A habilitação dos professores de ensino primário, referidos na alínea a) do artigo 15.º, efectua-se nas escolas do magistério primário existentes no território nacional.
+Art. 26.º A habilitação dos professores de ensino primário, referidos na alínea a) do artigo 15.º, efectua-se nas escolas do magistério primário existentes no território nacional.
 
 § único. Estas escolas regem-se por legislação especial.
 
 B) Das escolas de habilitação de professores de posto escolar
 
-###### Art. 27.º Denominam-se escolas de habilitação de professores de posto escolar os estabelecimentos destinados a habilitar os professores previstos pela alínea b) do artigo 15.º
+Art. 27.º Denominam-se escolas de habilitação de professores de posto escolar os estabelecimentos destinados a habilitar os professores previstos pela alínea b) do artigo 15.º
 
-###### Art. 28.º As escolas referidas no artigo anterior são masculinas ou femininas ou mistas e funcionarão, normalmente, em regime de internato.
+Art. 28.º As escolas referidas no artigo anterior são masculinas ou femininas ou mistas e funcionarão, normalmente, em regime de internato.
 
 § 1.º O regime conjunto de internato e semi-internato, ou só de semi-internato, será admitido, se forem estabelecidas junto de centros populacionais onde convenha recrutar alunas ou alunos que vivam habitualmente em internatos educativos diferenciados das escolas, ou com suas famílias.
 
@@ -274,7 +304,7 @@ B) Das escolas de habilitação de professores de posto escolar
 
 § 3.º Os internatos serão entregues à direcção e administração das missões católicas portuguesas, e quando as escolas a que respeitem não estiverem integradas nestas missões, funcionarão com autonomia, em regime de lares académicos.
 
-###### Art. 29.º As escolas serão criadas ou reconhecidas por portaria do governo da província.
+Art. 29.º As escolas serão criadas ou reconhecidas por portaria do governo da província.
 
 § 1.º O reconhecimento poderá recair em escolas criadas ao abrigo do disposto na primeira parte do artigo XX da Concordata entre Portugal e a Santa Sé, de 7 de Maio de 1940, onde professores diplomados dos quadros do Estado, ou de nacionalidade portuguesa e habilitação legal para admissão nestes quadros, tenham a seu cargo a regência das disciplinas da formação nacionalista, pedagógica e didáctica dos respectivos alunos.
 
@@ -282,9 +312,9 @@ B) Das escolas de habilitação de professores de posto escolar
 
 § 3.º Os agentes de ensino diplomados pelas escolas mencionadas no § 1.º serão preferentemente colocados nos postos escolares do âmbito das missões católicas portuguesas donde provêm, segundo a indicação dos respectivos prelados.
 
-###### Art. 30.º As actuais escolas do magistério de adaptação ou rural, a cargo das missões católicas portuguesas, ou por estas criadas, são reconhecidas como escolas de habilitação de professores de posto escolar, desde que obedeçam à orgânica constante das presentes disposições.
+Art. 30.º As actuais escolas do magistério de adaptação ou rural, a cargo das missões católicas portuguesas, ou por estas criadas, são reconhecidas como escolas de habilitação de professores de posto escolar, desde que obedeçam à orgânica constante das presentes disposições.
 
-###### Art. 31.º Nas províncias de Angola e Moçambique haverá, normalmente, em cada distrito, uma escola de habilitação de professores de posto escolar para cada sexo, ou mista.
+Art. 31.º Nas províncias de Angola e Moçambique haverá, normalmente, em cada distrito, uma escola de habilitação de professores de posto escolar para cada sexo, ou mista.
 
 § 1.º Nas demais províncias haverá, pelo menos, uma escola de habilitação de professores de posto escolar para cada sexo, ou mista, consoante for havido por conveniente.
 
@@ -292,7 +322,7 @@ B) Das escolas de habilitação de professores de posto escolar
 
 § 3.º Os governos das províncias ficam autorizados a prover às despesas resultantes das disposições do presente artigo.
 
-###### Art. 32.º As escolas de preparação de professores de posto escolar serão de três tipos:
+Art. 32.º As escolas de preparação de professores de posto escolar serão de três tipos:
 
 Tipo A - com lotação para 300 alunos;
 
@@ -302,11 +332,11 @@ Tipo C - com lotação para 100 alunos.
 
 § único. A localização das escolas compete ao governo da província, consoante a densidade de população e as conveniências de desenvolvimento da ocupação escolar.
 
-###### Art. 33.º As escolas de habilitação de professores de posto escolar deverão ser dotadas dos terrenos e instalações imprescindíveis à prática das actividades que interessam à vida rural, constante do respectivo programa, podendo, em casos de manifesta impossibilidade, recorrer, para aquele fim, a terrenos e instalações dos serviços oficiais, mediante autorização, para cada caso, do governo provincial.
+Art. 33.º As escolas de habilitação de professores de posto escolar deverão ser dotadas dos terrenos e instalações imprescindíveis à prática das actividades que interessam à vida rural, constante do respectivo programa, podendo, em casos de manifesta impossibilidade, recorrer, para aquele fim, a terrenos e instalações dos serviços oficiais, mediante autorização, para cada caso, do governo provincial.
 
-###### Art. 34.º Cada escola terá regulamento interno sujeito a aprovação da direcção dos serviços de educação.
+Art. 34.º Cada escola terá regulamento interno sujeito a aprovação da direcção dos serviços de educação.
 
-###### Art. 35.º Nas escolas de habilitação de professores de posto escolar não dependentes directamente do Estado poderá haver um subdirector designado entre os professores nela colocados, com acção restrita a funções de natureza pedagógica, acumulando regência de disciplinas.
+Art. 35.º Nas escolas de habilitação de professores de posto escolar não dependentes directamente do Estado poderá haver um subdirector designado entre os professores nela colocados, com acção restrita a funções de natureza pedagógica, acumulando regência de disciplinas.
 
 § 1.º A designação do subdirector é feita pela direcção dos serviços de educação, sob parecer da inspecção provincial, a solicitação do prelado respectivo, e recairá, preferentemente, em professor habilitado com a secção de Ciências Pedagógicas das Faculdades de Letras.
 
@@ -314,15 +344,15 @@ Tipo C - com lotação para 100 alunos.
 
 C) Do curso de professores de posto escolar
 
-###### Art. 36.º O curso de professores de posto escolar tem a duração de quatro anos, conforme os quadros e programas anexos ao presente diploma.
+Art. 36.º O curso de professores de posto escolar tem a duração de quatro anos, conforme os quadros e programas anexos ao presente diploma.
 
 § único. A aprovação no exame final - mesmo que apenas nas disciplinas comuns do ciclo preparatório do ensino técnico profissional - é habilitação bastante para a matrícula nos cursos de formação do ensino técnico e, para todos os efeitos legais, equiparada à daquele ciclo.
 
-###### Art. 37.º As disciplinas e actividades do curso de professores de posto escolar e sua distribuição constam dos quadros n.os I, II e III, dados em anexo ao presente diploma.
+Art. 37.º As disciplinas e actividades do curso de professores de posto escolar e sua distribuição constam dos quadros n.os I, II e III, dados em anexo ao presente diploma.
 
 D) Dos alunos-mestres
 
-###### Art. 38.º Para a matrícula nas escolas de habilitação de professores de posto escolar é exigida, como habilitação mínima, a aprovação no exame final do ensino primário, ou de admissão ao ensino secundário, técnico ou liceal.
+Art. 38.º Para a matrícula nas escolas de habilitação de professores de posto escolar é exigida, como habilitação mínima, a aprovação no exame final do ensino primário, ou de admissão ao ensino secundário, técnico ou liceal.
 
 § 1.º Têm preferência:
 
@@ -332,7 +362,7 @@ b) Os candidatos com menos idade.
 
 § 2.º Enquanto não houver escolas de habilitação de professores de posto escolar em todos os distritos e nas províncias de governo simples, as escolas existentes proporão, anualmente, à direcção dos serviços, com o mapa dos pretendentes, o número de candidatos a admitir por cada distrito.
 
-###### Art. 39.º Os candidatos, além da prova de habilitação exigida pelo disposto no artigo anterior, e juntamente com o requerimento de admissão dirigido ao director da escola, completarão o seu processo com:
+Art. 39.º Os candidatos, além da prova de habilitação exigida pelo disposto no artigo anterior, e juntamente com o requerimento de admissão dirigido ao director da escola, completarão o seu processo com:
 
 a) Certidão de registo de nascimento ou baptismo, comprovando não ter idade inferior a 14 anos nem superior a 20 anos;
 
@@ -346,7 +376,7 @@ d) Atestado ou boletim de vacina contra a varíola, tifo, febre amarela e tétan
 
 § 2.º A pedido da direcção das escolas de habilitação de professores de posto escolar, as delegacias de saúde providenciarão para que sejam vacinados, durante o primeiro período escolar do ano, todos os alunos que se matricularem pela primeira vez e não apresentarem os documentos referidos na alínea d) do corpo do artigo.
 
-###### Art. 40.º Os alunos das actuais escolas do magistério de adaptação transitam para a nova orgânica:
+Art. 40.º Os alunos das actuais escolas do magistério de adaptação transitam para a nova orgânica:
 
 a) Os do 1.º e 2.º anos, para o 2.º e 3.º anos;
 
@@ -354,9 +384,9 @@ b) Os do 3.º ano, não admitidos a exame final, ou neste reprovados, para o 4.�
 
 E) Do aproveitamento
 
-###### Art. 41.º No apuramento do aproveitamento dos alunos seguir-se-á o regime em vigor no ciclo preparatório do ensino técnico profissional.
+Art. 41.º No apuramento do aproveitamento dos alunos seguir-se-á o regime em vigor no ciclo preparatório do ensino técnico profissional.
 
-###### Art. 42.º O curso de professores de posto escolar termina com exame perante júri oficial constituído por:
+Art. 42.º O curso de professores de posto escolar termina com exame perante júri oficial constituído por:
 
 Um elemento da inspecção, que será o presidente;
 
@@ -380,11 +410,11 @@ Professor de didácticas da escola, que servirá de secretário.
 
 § 3.º O presidente tem voto de qualidade.
 
-###### Art. 43.º O exame final constará de provas escritas, provas práticas e provas orais.
+Art. 43.º O exame final constará de provas escritas, provas práticas e provas orais.
 
 § único. É aplicável à classificação destas provas a escala académica de 0 a 20 valores.
 
-###### Art. 44.º Têm provas escritas e orais:
+Art. 44.º Têm provas escritas e orais:
 
 Língua Nacional;
 
@@ -418,7 +448,7 @@ Práticas Didácticas.
 
 § único. Compete à inspecção provincial a elaboração dos pontos para as provas dos exames finais do curso de professores de posto escolar.
 
-###### Art. 45.º As provas das disciplinas e actividades não incluídas no ciclo preparatório ocuparão os seguintes tempos:
+Art. 45.º As provas das disciplinas e actividades não incluídas no ciclo preparatório ocuparão os seguintes tempos:
 
 Legislação e Escrituração Escolares - 60 minutos;
 
@@ -434,17 +464,17 @@ Higiene Geral e Rural, Puericultura e Socorrismo (só para as alunas) - 45 minut
 
 Práticas de Didáctica e Noções Pedagógico-Didácticas - 60 minutos.
 
-###### Art. 46.º A classificação final é a média das classificações atribuídas a todas as provas.
+Art. 46.º A classificação final é a média das classificações atribuídas a todas as provas.
 
 § 1.º Média geral inferior a 10 valores implica reprovação.
 
 § 2.º Também será reprovado o aluno que não obtenha 10 valores em qualquer das provas de Língua Nacional e História Pátria, Matemática, Prática de Didáctica e Moral e Religião, ou que obtenha menos de 8 valores na prova de qualquer das técnicas de desenvolvimento comunitário.
 
-###### Art. 47.º Ao júri fica a faculdade de atribuir, para correcção da média obtida nas provas dos candidatos aprovados, até mais 2 valores na classificação final, se a boa aplicação, o saliente aproveitamento, o exemplar comportamento e a dedicação cívica nos anos de curso o justificarem.
+Art. 47.º Ao júri fica a faculdade de atribuir, para correcção da média obtida nas provas dos candidatos aprovados, até mais 2 valores na classificação final, se a boa aplicação, o saliente aproveitamento, o exemplar comportamento e a dedicação cívica nos anos de curso o justificarem.
 
-###### Art. 48.º Das decisões do júri dos exames finais do curso de professores de posto escolar não cabe lugar a reclamação ou recurso.
+Art. 48.º Das decisões do júri dos exames finais do curso de professores de posto escolar não cabe lugar a reclamação ou recurso.
 
-###### Art. 49.º Do resultado do exame de cada candidato será lavrado termo em livro próprio, pelo secretário do júri, o qual será assinado pelo presidente e pelos vogais.
+Art. 49.º Do resultado do exame de cada candidato será lavrado termo em livro próprio, pelo secretário do júri, o qual será assinado pelo presidente e pelos vogais.
 
 § 1.º A aprovação dá direito a diploma de professor de posto escolar, assinado pelo presidente do júri e pelo director da escola, sendo averbada a passagem no termo de exame.
 
@@ -452,91 +482,91 @@ Práticas de Didáctica e Noções Pedagógico-Didácticas - 60 minutos.
 
 § 3.º A cobrança de emolumentos pela passagem de certidões será feita por meio de selos fiscais apostos e inutilizados no respectivo documento.
 
-###### Art. 50.º A perda de dois anos no decorrer do curso por falta de média de passagem, ou duas reprovações no exame final, é impeditiva da renovação da matrícula.
+Art. 50.º A perda de dois anos no decorrer do curso por falta de média de passagem, ou duas reprovações no exame final, é impeditiva da renovação da matrícula.
 
 F) Do pessoal docente das escolas de habilitação dos professores de posto escolar
 
-###### Art. 51.º Por despacho do governador da província, sob solicitação dos prelados e ouvida a inspecção provincial quanto à respectiva capacidade profissional, podem ser mandados prestar serviço nas escolas de habilitação de professores de posto escolar, integradas nas dioceses, professores diplomados do quadro do ensino primário, ou professores adjuntos do ensino técnico profissional, necessários ao preenchimento das funções docentes.
+Art. 51.º Por despacho do governador da província, sob solicitação dos prelados e ouvida a inspecção provincial quanto à respectiva capacidade profissional, podem ser mandados prestar serviço nas escolas de habilitação de professores de posto escolar, integradas nas dioceses, professores diplomados do quadro do ensino primário, ou professores adjuntos do ensino técnico profissional, necessários ao preenchimento das funções docentes.
 
 § 1.º Nas escolas reconhecidas nos termos do disposto nos artigos 29.º e 30.º, as noções pedagógico-didácticas e as práticas de didáctica estarão sempre a cargo de professores designados nos termos do corpo deste artigo.
 
 § 2.º Aos professores primários e adjuntos do ensino técnico profissional que prestem serviço nas escolas de habilitação de professores de posto escolar por acumulação, será tal serviço remunerado como horas lectivas extraordinárias.
 
-###### Art. 52.º Em todas as escolas prestarão serviço, além dos professores referidos no artigo anterior, um médico ou médica, encarregado da assistência aos alunos e pessoal e da regência das actividades de higiene e saúde pública e socorrismo, para os alunos, ou de higiene, puericultura e socorrismo, para as alunas.
+Art. 52.º Em todas as escolas prestarão serviço, além dos professores referidos no artigo anterior, um médico ou médica, encarregado da assistência aos alunos e pessoal e da regência das actividades de higiene e saúde pública e socorrismo, para os alunos, ou de higiene, puericultura e socorrismo, para as alunas.
 
 § único. O médico, ou médica, será assistido de enfermeiro, ou enfermeira, diplomado, pertencente ao pessoal auxiliar da escola, destacado dos serviços de saúde e higiene, se nesta não houver elementos habilitados para tal função.
 
-###### Art. 53.º As atribuições do médico, ou médica, poderão ser exercidas, por acumulação, por médicos dos quadros dos serviços de saúde e higiene, colocados na área da situação da escola.
+Art. 53.º As atribuições do médico, ou médica, poderão ser exercidas, por acumulação, por médicos dos quadros dos serviços de saúde e higiene, colocados na área da situação da escola.
 
 § único. Na falta de médico, ou médica, poderá, a título excepcional e provisório, ficar encarregado da regência das actividades a que se refere o artigo anterior o enfermeiro, ou enfermeira, colocado na escola.
 
-###### Art. 54.º As práticas de agricultura e pecuária são comuns aos dois sexos, e para a sua execução, bem como, nas escolas masculinas e mistas, para os trabalhos rurais, que são reservados ao sexo masculino, prestarão serviço nas escolas regentes ou práticos agrícolas, ou agentes rurais, os quais poderão ser nelas colocados como nos artigos anteriores se consigna para os professores.
+Art. 54.º As práticas de agricultura e pecuária são comuns aos dois sexos, e para a sua execução, bem como, nas escolas masculinas e mistas, para os trabalhos rurais, que são reservados ao sexo masculino, prestarão serviço nas escolas regentes ou práticos agrícolas, ou agentes rurais, os quais poderão ser nelas colocados como nos artigos anteriores se consigna para os professores.
 
 § 1.º Em substituição dos trabalhos rurais, as alunas terão actividades de formação feminina a cargo de educadoras sociais diplomadas, que também ministrarão as actividades sociais.
 
 § 2.º Nas escolas integradas nas missões católicas portuguesas as actividades de formação feminina e actividades sociais poderão ser ministradas por religiosas, mediante simples apresentação do prelado da diocese.
 
-###### Art. 55.º O pessoal em serviço nas escolas de habilitação de professores de posto escolar terá direito aos vencimentos de seus cargos e às gratificações fixadas nos termos legais.
+Art. 55.º O pessoal em serviço nas escolas de habilitação de professores de posto escolar terá direito aos vencimentos de seus cargos e às gratificações fixadas nos termos legais.
 
-###### Art. 56.º Sem prejuízo da vida interna própria das comunidades encarregadas da direcção das escolas referidas nos artigos 29.º e 30.º, estas facultarão habitação condigna ao pessoal docente e auxiliar que nelas for mandado prestar serviço.
+Art. 56.º Sem prejuízo da vida interna própria das comunidades encarregadas da direcção das escolas referidas nos artigos 29.º e 30.º, estas facultarão habitação condigna ao pessoal docente e auxiliar que nelas for mandado prestar serviço.
 
 § único. Enquanto o alojamento não puder ser resolvido nos termos do corpo do artigo, o Estado, de acordo com a direcção das escolas, providenciará em relação ao pessoal docente e auxiliar que pertença aos quadros da província.
 
-###### Art. 57.º O conselho escolar é constituído por todos quantos na escola exercerem funções docentes e de auxiliares do ensino, sob a presidência do director, e terá um secretário, designado entre os seus membros, por eleição.
+Art. 57.º O conselho escolar é constituído por todos quantos na escola exercerem funções docentes e de auxiliares do ensino, sob a presidência do director, e terá um secretário, designado entre os seus membros, por eleição.
 
-###### Art. 58.º As atribuições do conselho escolar constarão do regulamento interno das escolas.
+Art. 58.º As atribuições do conselho escolar constarão do regulamento interno das escolas.
 
 ### CAPÍTULO IV — Dos alunos
 
 A) Das matrículas
 
-###### Art. 59.º As matrículas efectuar-se-ão no período regulamentar estabelecido para cada província.
+Art. 59.º As matrículas efectuar-se-ão no período regulamentar estabelecido para cada província.
 
 § 1.º Excepcionalmente, nos ambientes rurais, poderão ainda efectuar-se sem sanções nos 30 dias seguintes ao início das aulas.
 
 § 2.º Pelo período improrrogável de três anos, a faculdade concedida no parágrafo anterior é extensiva a todo o 1.º período escolar.
 
-###### Art. 60.º A matrícula efectiva-se pelo preenchimento do respectivo termo.
+Art. 60.º A matrícula efectiva-se pelo preenchimento do respectivo termo.
 
-###### Art. 61.º Em nenhum caso poderão ser admitidos à frequência indivíduos não matriculados, nem admitidos à matrícula os que se não encontrarem em idade escolar.
+Art. 61.º Em nenhum caso poderão ser admitidos à frequência indivíduos não matriculados, nem admitidos à matrícula os que se não encontrarem em idade escolar.
 
-###### Art. 62.º São dispensados da matrícula no ensino primário os menores que residam a mais de 5 km da escola ou posto escolar oficial, ou escola particular gratuita, desde que não lhes seja assegurado transporte gratuito, e a mais de 6 km sempre que junto da escola ou posto funcionar cantina escolar, os caminhos permitirem fácil acesso isento de perigos e os menores tenham completado 9 anos à data da matrícula ou venham a completá-los até 31 de Dezembro.
+Art. 62.º São dispensados da matrícula no ensino primário os menores que residam a mais de 5 km da escola ou posto escolar oficial, ou escola particular gratuita, desde que não lhes seja assegurado transporte gratuito, e a mais de 6 km sempre que junto da escola ou posto funcionar cantina escolar, os caminhos permitirem fácil acesso isento de perigos e os menores tenham completado 9 anos à data da matrícula ou venham a completá-los até 31 de Dezembro.
 
-###### Art. 63.º São isentos do imposto de selo e de quaisquer emolumentos os atestados médicos e os documentos passados pelas autoridades locais para efeitos de cumprimento da obrigatoriedade do ensino primário.
+Art. 63.º São isentos do imposto de selo e de quaisquer emolumentos os atestados médicos e os documentos passados pelas autoridades locais para efeitos de cumprimento da obrigatoriedade do ensino primário.
 
-###### Art. 64.º O regulamento de ensino de cada província disporá sobre o restante condicionalismo das matrículas.
+Art. 64.º O regulamento de ensino de cada província disporá sobre o restante condicionalismo das matrículas.
 
-###### Art. 65.º As autoridades religiosas e administrativas darão todo o auxílio no sentido de assegurar as matrículas e a frequência regular nos estabelecimentos de ensino reconhecidos legalmente, da área das suas jurisdições.
+Art. 65.º As autoridades religiosas e administrativas darão todo o auxílio no sentido de assegurar as matrículas e a frequência regular nos estabelecimentos de ensino reconhecidos legalmente, da área das suas jurisdições.
 
 B) Das transferências
 
-###### Art. 66.º É permitida a transferência dos alunos entre estabelecimentos de ensino oficial e oficializado, e destes para os do ensino particular, quando devidamente justificada, nos termos constantes do regulamento do ensino primário da província.
+Art. 66.º É permitida a transferência dos alunos entre estabelecimentos de ensino oficial e oficializado, e destes para os do ensino particular, quando devidamente justificada, nos termos constantes do regulamento do ensino primário da província.
 
 § 1.º Do ensino particular para o oficial e oficializado a transferência fica sujeita a verificação prévia, no acto da apresentação, a fim de se averiguar do adiantamento para a frequência da classe em que se achar matriculado o candidato.
 
 § 2.º Se o aluno não demonstrar preparação suficiente, só poderá ser matriculado na classe anterior.
 
-###### Art. 67.º As transferências serão solicitadas pelo encarregado da educação, ou responsável pelo aluno, e averbadas no respectivo termo de matrícula, com a indicação do estabelecimento para onde se transfere, passando-se ao interessado uma guia de transferência, donde constem todos os elementos que servirão de base ao registo no posto escolar ou escola para onde é transferido.
+Art. 67.º As transferências serão solicitadas pelo encarregado da educação, ou responsável pelo aluno, e averbadas no respectivo termo de matrícula, com a indicação do estabelecimento para onde se transfere, passando-se ao interessado uma guia de transferência, donde constem todos os elementos que servirão de base ao registo no posto escolar ou escola para onde é transferido.
 
 § único. Se o posto escolar ou a escola se situar no âmbito das missões católicas portuguesas, e a transferência se efectuar para fora dele, a respectiva guia far-se-á acompanhar da documentação que for prevista no regulamento do ensino primário da província.
 
-###### Art. 68.º Quando se apresentar à matrícula candidato que declare provir de localidade onde frequentava estabelecimento de ensino, mas desacompanhado da documentação exigida, o professor regularizará, por via oficial, a situação do apresentado, que fica admitido condicionalmente.
+Art. 68.º Quando se apresentar à matrícula candidato que declare provir de localidade onde frequentava estabelecimento de ensino, mas desacompanhado da documentação exigida, o professor regularizará, por via oficial, a situação do apresentado, que fica admitido condicionalmente.
 
 C) Das turmas e horários
 
-###### Art. 69.º Enquanto o número de salas de aula for insuficiente, poderão funcionar nas mesmas instalações umas turmas no período da manhã e outras no da tarde, com agentes docentes diferentes, funcionando de manhã as classes masculinas e de tarde as femininas.
+Art. 69.º Enquanto o número de salas de aula for insuficiente, poderão funcionar nas mesmas instalações umas turmas no período da manhã e outras no da tarde, com agentes docentes diferentes, funcionando de manhã as classes masculinas e de tarde as femininas.
 
-###### Art. 70.º Os horários serão elaborados pela inspecção distrital, segundo as exigências, interesses e características da região, sendo submetidos, na primeira semana do ano lectivo e sem efeito suspensivo, à aprovação definitiva da inspecção provincial do ensino.
+Art. 70.º Os horários serão elaborados pela inspecção distrital, segundo as exigências, interesses e características da região, sendo submetidos, na primeira semana do ano lectivo e sem efeito suspensivo, à aprovação definitiva da inspecção provincial do ensino.
 
 § 1.º Ser-lhes-á dada elasticidade ampla e possibilidade de iniciativa do agente docente, para aproveitamento das circunstâncias ocasionais ou supervenientes e para a execução mais proveitosa das tarefas programadas.
 
 § 2.º A demora da inspecção provincial, por mais de 30 dias, em transmitir qualquer alteração, significa tácita aprovação.
 
-###### Art. 71.º Para cada turma haverá um livro próprio para o registo semanal, resumido, das actividades praticadas, conforme modelo anexo a este diploma.
+Art. 71.º Para cada turma haverá um livro próprio para o registo semanal, resumido, das actividades praticadas, conforme modelo anexo a este diploma.
 
 D) Do aproveitamento
 
-###### Art. 72.º A aprovação nas provas de passagem da classe anterior é sempre exigível para a matrícula na classe imediata.
+Art. 72.º A aprovação nas provas de passagem da classe anterior é sempre exigível para a matrícula na classe imediata.
 
 § 1.º As provas de passagem de classe e dos exames realizam-se sob fiscalização da inspecção, ou seus delegados.
 
@@ -548,27 +578,27 @@ D) Do aproveitamento
 
 § 5.º A fiscalização exercida pela inspecção, no exercício da sua competência normal, não se enquadra na actuação referida no § 3.º
 
-###### Art. 73.º Das decisões das provas de passagem da 3.ª à 4.ª classe serão lavrados termos que terão a validade legal do exame da 3.ª classe previsto no § 3.º do artigo 3.º do [Decreto-Lei n.º 42994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301), de 28 de Maio de 1960, introduzido pela Portaria Ministerial n.º 20380, de 19 de Fevereiro de 1964.
+Art. 73.º Das decisões das provas de passagem da 3.ª à 4.ª classe serão lavrados termos que terão a validade legal do exame da 3.ª classe previsto no § 3.º do artigo 3.º do [Decreto-Lei n.º 42994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301), de 28 de Maio de 1960, introduzido pela Portaria Ministerial n.º 20380, de 19 de Fevereiro de 1964.
 
 § 1.º Os termos serão assinados pela entidade fiscalizadora e arquivar-se-ão, para todos os efeitos legais, nas secções ou repartições escolares distritais competentes.
 
 § 2.º Aos alunos que o solicitarem serão passados os respectivos diplomas.
 
-###### Art. 74.º Os agentes docentes que apresentam os candidatos a provas de passagem de classe coadjuvarão os elementos de fiscalização no decorrer dos trabalhos.
+Art. 74.º Os agentes docentes que apresentam os candidatos a provas de passagem de classe coadjuvarão os elementos de fiscalização no decorrer dos trabalhos.
 
 § único. Havendo mais de um professor proponente, será chamado a esta função o que apresentar maior número de candidatos e, em igualdade, o mais velho.
 
-###### Art. 75.º O resultado das provas de passagem de classe exprime-se em Aprovado ou Reprovado e será averbado pela entidade fiscalizadora no correspondente termo de matrícula.
+Art. 75.º O resultado das provas de passagem de classe exprime-se em Aprovado ou Reprovado e será averbado pela entidade fiscalizadora no correspondente termo de matrícula.
 
 § único. Do resultado das provas de passagem de classe não cabe lugar a reclamação ou recurso.
 
-###### Art. 76.º Os exames extraordinários do ensino primário, restritos aos indivíduos de 15 ou mais anos de idade, realizam-se, semanalmente, nas sedes dos distritos, apenas nos meses lectivos, sendo os júris constituídos pelos professores efectivos aí colocados e com o serviço docente qualificado de Suficiente, obedecendo a designação a escala elaborada no início do ano pelos serviços de inspecção.
+Art. 76.º Os exames extraordinários do ensino primário, restritos aos indivíduos de 15 ou mais anos de idade, realizam-se, semanalmente, nas sedes dos distritos, apenas nos meses lectivos, sendo os júris constituídos pelos professores efectivos aí colocados e com o serviço docente qualificado de Suficiente, obedecendo a designação a escala elaborada no início do ano pelos serviços de inspecção.
 
-###### Art. 77.º Sobre o diploma a que se refere o § 2.º do artigo 73.º e do exame da 4.ª classe, será cobrado um emolumento a fixar no regulamento do ensino primário, constituindo receita das caixas escolares de cada distrito.
+Art. 77.º Sobre o diploma a que se refere o § 2.º do artigo 73.º e do exame da 4.ª classe, será cobrado um emolumento a fixar no regulamento do ensino primário, constituindo receita das caixas escolares de cada distrito.
 
 E) Dos cursos de adultos
 
-###### Art. 78.º Nos estabelecimentos de ensino de que tratam as presentes normas poderão funcionar cursos vespertinos, fora dos tempos normais do horário, ou nocturnos, de adultos.
+Art. 78.º Nos estabelecimentos de ensino de que tratam as presentes normas poderão funcionar cursos vespertinos, fora dos tempos normais do horário, ou nocturnos, de adultos.
 
 § 1.º Nestes cursos podem ser admitidos alunos a partir dos 15 anos de idade.
 
@@ -576,29 +606,29 @@ E) Dos cursos de adultos
 
 ### CAPÍTULO V — Das instalações escolares
 
-###### Art. 79.º Os postos escolares e as escolas deverão ser instalados em edifícios próprios, convenientemente dotados das dependências, material, mobiliário didáctico e utensílios necessários.
+Art. 79.º Os postos escolares e as escolas deverão ser instalados em edifícios próprios, convenientemente dotados das dependências, material, mobiliário didáctico e utensílios necessários.
 
 § 1.º Na construção ou adaptação de edifícios respeitar-se-ão as normas higiénico-pedagógicas de uso corrente, tendo-se em conta as habitações para os agentes docentes.
 
 § 2.º O recinto será amplo, compreendendo os terrenos necessários ao recreio e logradouro dos alunos, ao horto e jardim escolares, trecho arborizado de árvores de fruto, espaço livre para jogos de movimento e outras actividades, e será vedado de preferência com sebe viva, plantada e cuidada pelos alunos.
 
-###### Art. 80.º O recinto escolar estará situado a mais de 300 m de quartéis, fábricas, oficinas, mercados, tabernas, matadouros, cemitérios, nitreiras e outros lugares insalubres, barulhentos ou de ambiente imoral, enquadrando-se no plano urbanístico das regedorias, freguesias e postos administrativos.
+Art. 80.º O recinto escolar estará situado a mais de 300 m de quartéis, fábricas, oficinas, mercados, tabernas, matadouros, cemitérios, nitreiras e outros lugares insalubres, barulhentos ou de ambiente imoral, enquadrando-se no plano urbanístico das regedorias, freguesias e postos administrativos.
 
-###### Art. 81.º Os recintos escolares não podem ser utilizados para fins diferentes daqueles para que são instituídos, salvo autorização expressa, para cada caso, do governo distrital ou de província.
+Art. 81.º Os recintos escolares não podem ser utilizados para fins diferentes daqueles para que são instituídos, salvo autorização expressa, para cada caso, do governo distrital ou de província.
 
 § único. Exceptuam-se os actos do culto católico e com ele correlacionados.
 
 ### CAPÍTULO VI — Dos livros e cadernos escolares
 
-###### Art. 82.º Os livros, compêndios e cadernos a usar no ensino dependem de aprovação ministerial, sob parecer da inspecção e sujeitos à apreciação prevista na alínea c) do n.º 4.º da Portaria Ministerial n.º 20289, de 2 de Janeiro de 1964.
+Art. 82.º Os livros, compêndios e cadernos a usar no ensino dependem de aprovação ministerial, sob parecer da inspecção e sujeitos à apreciação prevista na alínea c) do n.º 4.º da Portaria Ministerial n.º 20289, de 2 de Janeiro de 1964.
 
-###### Art. 83.º Normalmente, é obrigatório o uso do caderno diário individual, cumprindo à inspecção reconhecer das condições da sua dispensa.
+Art. 83.º Normalmente, é obrigatório o uso do caderno diário individual, cumprindo à inspecção reconhecer das condições da sua dispensa.
 
-###### Art. 84.º O conjunto dos cadernos de cada aluno constituirá o seu processo escolar, que estará sempre à disposição da inspecção, para consulta, nas suas visitas de serviço. O agente docente é o responsável pela sua conservação.
+Art. 84.º O conjunto dos cadernos de cada aluno constituirá o seu processo escolar, que estará sempre à disposição da inspecção, para consulta, nas suas visitas de serviço. O agente docente é o responsável pela sua conservação.
 
 ### CAPÍTULO VII — Da orientação e fiscalização do ensino
 
-###### Art. 85.º À inspecção provincial, por intermédio dos seus agentes, compete inspeccionar o ensino primário oficial, oficializado e particular, nos termos estabelecidos na lei.
+Art. 85.º À inspecção provincial, por intermédio dos seus agentes, compete inspeccionar o ensino primário oficial, oficializado e particular, nos termos estabelecidos na lei.
 
 § 1.º Haverá o maior número possível de inspecções ordinárias em cada ano e a cada estabelecimento de ensino, mas nunca menos de uma em cada período escolar, e o subinspector ou inspector que as realize deixará escritas as instruções de orientação pedagógica que tenha por necessário.
 
@@ -610,11 +640,11 @@ E) Dos cursos de adultos
 
 § 5.º Dos relatórios será enviado pela inspecção provincial um exemplar à direcção dos serviços.
 
-###### Art. 86.º Os relatórios da inspecção obedecerão ao esquema elaborado pela inspecção provincial, segundo as normas emanadas da Direcção-Geral do Ensino.
+Art. 86.º Os relatórios da inspecção obedecerão ao esquema elaborado pela inspecção provincial, segundo as normas emanadas da Direcção-Geral do Ensino.
 
-###### Art. 87.º A qualificação do serviço docente anual é de Suficiente e Deficiente.
+Art. 87.º A qualificação do serviço docente anual é de Suficiente e Deficiente.
 
-###### Art. 88.º São elementos de base para a qualificação do serviço docente:
+Art. 88.º São elementos de base para a qualificação do serviço docente:
 
 a) A qualidade de serviço, consoante as informações da inspecção;
 
@@ -634,29 +664,29 @@ g) O interesse pela escrituração e estatística escolares.
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 89.º Em cada uma das escolas de habilitação de professores de posto escolar haverá um serviço de orientação social, destinado a promover o enquadramento em profissões, ou nos serviços públicos, dos alunos a que se refere o artigo 50.º
+Art. 89.º Em cada uma das escolas de habilitação de professores de posto escolar haverá um serviço de orientação social, destinado a promover o enquadramento em profissões, ou nos serviços públicos, dos alunos a que se refere o artigo 50.º
 
 § 1.º Os serviços públicos darão preferência na admissão a cursos deles dependentes, ou nos seus quadros, aos alunos referidos no corpo do artigo, consoante o nível das correspondentes habilitações.
 
 § 2.º O governo de cada província tomará as providências necessárias ao cumprimento das disposições do presente artigo.
 
-###### Art. 90.º Os professores de posto escolar poderão ser admitidos a frequentar as escolas do magistério primário, sem dependência de exame de admissão, desde que tenham cinco anos de serviço docente com a qualificação de Suficiente e comprovem aprovação no curso geral dos liceus ou habilitação equivalente.
+Art. 90.º Os professores de posto escolar poderão ser admitidos a frequentar as escolas do magistério primário, sem dependência de exame de admissão, desde que tenham cinco anos de serviço docente com a qualificação de Suficiente e comprovem aprovação no curso geral dos liceus ou habilitação equivalente.
 
 § único. Nas circunstâncias previstas neste artigo manterão os vencimentos do seu cargo, enquanto obtiverem normal aproveitamento e comprovarem bom comportamento.
 
-###### Art. 91.º A secretaria de cada escola de habilitação de professores de posto escolar será provida de um aspirante do quadro dos serviços de instrução, a solicitação do prelado respectivo.
+Art. 91.º A secretaria de cada escola de habilitação de professores de posto escolar será provida de um aspirante do quadro dos serviços de instrução, a solicitação do prelado respectivo.
 
 § único. Os governos das províncias ficam autorizados a criar os lugares resultantes da disposição do presente artigo.
 
-###### Art. 92.º Na escola de aplicação e ensaios de Luanda cessa a habilitação de regentes escolares, a que se referem o Diploma Legislativo n.º 914, de 27 de Julho de 1937, e o regulamento aprovado pela [Portaria n.º 12143](https://diariodarepublica.pt/dr/detalhe/portaria/12143-1947-636881), de 21 de Março de 1962, do Governo-Geral da província de Angola.
+Art. 92.º Na escola de aplicação e ensaios de Luanda cessa a habilitação de regentes escolares, a que se referem o Diploma Legislativo n.º 914, de 27 de Julho de 1937, e o regulamento aprovado pela [Portaria n.º 12143](https://diariodarepublica.pt/dr/detalhe/portaria/12143-1947-636881), de 21 de Março de 1962, do Governo-Geral da província de Angola.
 
-###### Art. 93.º Os programas das disciplinas e actividades das escolas de habilitação de professores de posto escolar são os que vão em anexo ao presente decreto-lei, assinados pelo Ministro do Ultramar.
+Art. 93.º Os programas das disciplinas e actividades das escolas de habilitação de professores de posto escolar são os que vão em anexo ao presente decreto-lei, assinados pelo Ministro do Ultramar.
 
-###### Art. 94.º A execução do presente diploma em tudo quanto representa aumento de despesas fica condicionada às disponibilidades orçamentais de cada província.
+Art. 94.º A execução do presente diploma em tudo quanto representa aumento de despesas fica condicionada às disponibilidades orçamentais de cada província.
 
-###### Art. 95.º Nos casos omissos decidirá o governador da província, ouvida a repartição ou a direcção, e a inspecção provincial de educação.
+Art. 95.º Nos casos omissos decidirá o governador da província, ouvida a repartição ou a direcção, e a inspecção provincial de educação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -2136,6 +2166,6 @@ Observação. - As Práticas de Didácticas compreenderão no 1.º período do 2
 
 Ministério do Ultramar, 10 de Setembro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/09/21300/10991120.pdf))](https://files.diariodarepublica.pt/1s/1964/09/21300/10991120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/09/21300/10991120.pdf)
 
 Ministério do Ultramar, 10 de Setembro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

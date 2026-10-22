@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/6-1984-660897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1f5c0ce6ffbd94efc86f4a9de6c1d187fbd57b079d4170123af73dba40783b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c0445d757f84ef67a00ea1d9bbae9f0a61e1c0a70a9b528542bc59597fa7b4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acordo Europeu
+- Circulação de Pessoas
+- Conselho da Europa
+- Convenção
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:25Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 26 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Europeu sobre o Regime da Circulação das Pessoas entre os Países Membros do Conselho da Europa, cujos textos em português e francês vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo Europeu sobre o Regime da Circulação das Pessoas entre os Países Membros do Conselho da Europa, cujos textos em português e francês vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho do Ministros de 5 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Jaime José Matos da Gama.
 
-**Assinado em 10 de Janeiro de 1984.**
+Assinado em 10 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Janeiro de 1984.**
+Referendado em 11 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ACORDO EUROPEU SOBRE O REGIME DA CIRCULAÇÃO DAS PESSOAS ENTRE OS PAÍSES MEMBROS DO CONSELHO DA EUROPA.
 
@@ -171,7 +176,7 @@ Idêntico processo será aplicado sempre que um governo signatário deseje modif
 
 ###### ARTIGO 12.º
 
-**O Secretário-Geral do Conselho da Europa deverá notificar os membros do Conselho e os Estados aderentes:**
+O Secretário-Geral do Conselho da Europa deverá notificar os membros do Conselho e os Estados aderentes:
 
 a) Da data da entrada em vigor do presente Acordo e dos nomes dos membros que tiverem assinado sem reserva de ratificação ou ratificado;
 

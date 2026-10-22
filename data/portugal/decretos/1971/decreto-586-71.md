@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/586-1971-165840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1635248a50cd5544dea9b241952387d4c42d4f5423602605bd311eeec829e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52dba21d2c27ce45283aa1ce3e40e200f1a490960d4a3afcd8b7fc44debcafab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:42Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +98,14 @@ Tendo em vista o disposto no artigo 6.º e seu § 1.º do [Decreto-Lei n.º 4823
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta de Energia Nuclear a celebrar contrato com o empreiteiro de obras públicas Fernando da Costa Santos para a execução da empreitada de construção dos edifícios para oficinas e instalações sanitárias do serviço de apoio logístico do Laboratório de Física e Engenharia Nucleares, da Junta de Energia Nuclear, em Sacavém, pela importância de 5889859$00.
+Artigo 1.º É autorizada a Junta de Energia Nuclear a celebrar contrato com o empreiteiro de obras públicas Fernando da Costa Santos para a execução da empreitada de construção dos edifícios para oficinas e instalações sanitárias do serviço de apoio logístico do Laboratório de Física e Engenharia Nucleares, da Junta de Energia Nuclear, em Sacavém, pela importância de 5889859$00.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Junta de Energia Nuclear despender com pagamentos relativos aos trabalhos executados, por virtude do contrato, mais de 2944929$50 no corrente ano e 2944929$50, ou o que se apurar como saldo, no ano de 1972.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Junta de Energia Nuclear despender com pagamentos relativos aos trabalhos executados, por virtude do contrato, mais de 2944929$50 no corrente ano e 2944929$50, ou o que se apurar como saldo, no ano de 1972.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Dezembro de 1971.**
+Promulgado em 16 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

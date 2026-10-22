@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13800/17461747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1982-395937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c40452a8c61b12d1dbbc3b7a21b8d35c929500baae87c7d597b2e6b6d4b4792f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e0acc6a06dfc0f21d1540219b60cc7e64d9bd5cd5c4735969a7d6cfb1f76b14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cidadão Estrangeiro
+- Macau
+- Nacionalidade
 relationships:
 - type: amended_by
   target: pt:dre:239249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:517227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:434982:por
+  label: "Revogado pelo DEC LEI.244/98.1998.08.08.MAI DR.IS-B [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1998-434982
+  date: '1998-08-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:38Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +113,13 @@ Considerando o entendimento existente sobre a matéria entre o Governo da Repúb
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos estrangeiros residentes em Macau que pretendam autorização de residência em Portugal aplica-se o regime dos artigos 30.º e seguintes do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, com as excepções constantes dos artigos seguintes.
+Artigo 1.º Aos estrangeiros residentes em Macau que pretendam autorização de residência em Portugal aplica-se o regime dos artigos 30.º e seguintes do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, com as excepções constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - Para efeitos de concessão, manutenção ou renovação de autorização de residência em Portugal, por parte do Serviço de Estrangeiros, aqueles que tenham já, ou tenham simultaneamente, autorização para residir em Macau e que se integrem no quadro previsto no artigo 3.º beneficiam da consideração da residência em Macau como plenamente equiparada a residência no País, independentemente de terem ou não simultaneamente domicílio em Portugal, além do domicílio em Macau.
+Art. 2.º - 1 - Para efeitos de concessão, manutenção ou renovação de autorização de residência em Portugal, por parte do Serviço de Estrangeiros, aqueles que tenham já, ou tenham simultaneamente, autorização para residir em Macau e que se integrem no quadro previsto no artigo 3.º beneficiam da consideração da residência em Macau como plenamente equiparada a residência no País, independentemente de terem ou não simultaneamente domicílio em Portugal, além do domicílio em Macau.
 
 2 - Relativamente aos estrangeiros referidos no número precedente, o tempo de residência em Macau, ainda que anterior à entrada em vigor do presente diploma, é contado integralmente para o efeito de determinação do tipo de autorização de residência em Portugal, a conceder ou a renovar, nos termos do artigo 34.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro.
 
-###### Art. 3.º - 1 - Para beneficiar do regime previsto no artigo anterior, o estrangeiro requerente, além da autorização de residência em Macau, deverá integrar o requisito fixado na alínea b) do artigo 32.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, pela prova dos meios de subsistência que detém em Portugal em títulos de investimento nos termos do número seguinte.
+Art. 3.º - 1 - Para beneficiar do regime previsto no artigo anterior, o estrangeiro requerente, além da autorização de residência em Macau, deverá integrar o requisito fixado na alínea b) do artigo 32.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, pela prova dos meios de subsistência que detém em Portugal em títulos de investimento nos termos do número seguinte.
 
 2 - Para efeito do número anterior, será fixada, por decreto, uma lista, que poderá ser revista anualmente, determinando as diversas modalidades de investimento admitidas, seus quantitativos, os sectores em que deverão incidir e outras condições exigíveis.
 
@@ -119,9 +131,9 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 6 - A alienação dos títulos referidos no n.º 1 implica a não renovação da autorização de residência, nos termos do artigo 35.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, ou a sua perca, nos termos do artigo 37.º do mesmo decreto-lei, a menos que o interessado procedesse à sua substituição por outra das modalidades ou condições admitidas nos números anteriores e definidas no respectivo decreto ou tenha entretanto passado a enquadrar-se no regime geral daquele decreto-lei.
 
-###### Art. 4.º Para todos os efeitos previstos neste diploma, podem os estrangeiros que tenham já autorização de residência em Macau dirigir-se aos serviços competentes da administração do território, que se corresponderão com o Serviço de Estrangeiros, nos termos fixados em diploma regulamentar.
+Art. 4.º Para todos os efeitos previstos neste diploma, podem os estrangeiros que tenham já autorização de residência em Macau dirigir-se aos serviços competentes da administração do território, que se corresponderão com o Serviço de Estrangeiros, nos termos fixados em diploma regulamentar.
 
-###### Art. 5.º - 1 - Aos estrangeiros que beneficiem do regime especial previsto no artigo 3.º não se aplica o artigo 36.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, mas deverão comunicar:
+Art. 5.º - 1 - Aos estrangeiros que beneficiem do regime especial previsto no artigo 3.º não se aplica o artigo 36.º do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, mas deverão comunicar:
 
 a) Qualquer mudança de domicílio no prazo de 8 dias a contar da data da mudança, quer se trate do domicílio em Macau, quer do domicílio em Portugal, no caso de o terem simultaneamente;
 
@@ -131,18 +143,18 @@ c) A entrada em Macau ou em Portugal após ausência no estrangeiro por período
 
 2 - As comunicações previstas nos números anteriores poderão ser feitas ao Serviço de Estrangeiros ou aos serviços competentes da administração do território, consoante o interessado se encontre em Portugal ou em Macau, competindo àqueles transmitir entre si as comunicações recebidas.
 
-###### Art. 6.º Com ressalva das excepções introduzidas no presente diploma, aplicam-se o regime e as disposições do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, na parte relativa ao estatuto de residência em Portugal.
+Art. 6.º Com ressalva das excepções introduzidas no presente diploma, aplicam-se o regime e as disposições do [Decreto-Lei n.º 264-B/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227), de 3 de Setembro, na parte relativa ao estatuto de residência em Portugal.
 
-###### Art. 7.º - 1 - A execução em Macau, por parte das autoridades respectivas, do presente diploma será regulada por diploma próprio do território, nos termos acordados por protocolo estabelecido entre os Governos da República e de Macau e assinado pelo Primeiro-Ministro, ou o ministro responsável pelas relações com Macau, pelo Ministro da Administração Interna e pelo Governador de Macau.
+Art. 7.º - 1 - A execução em Macau, por parte das autoridades respectivas, do presente diploma será regulada por diploma próprio do território, nos termos acordados por protocolo estabelecido entre os Governos da República e de Macau e assinado pelo Primeiro-Ministro, ou o ministro responsável pelas relações com Macau, pelo Ministro da Administração Interna e pelo Governador de Macau.
 
 2 - As dúvidas que se suscitem na execução do presente diploma e, bem assim, a respectiva regulamentação na parte relativa à competência do Serviço de Estrangeiros serão esclarecidas ou regulamentadas por decreto, ou nos termos do protocolo referido no número anterior.
 
-###### Art. 8.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 8.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 8 de Junho de 1982.**
+Promulgado em 8 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -49,36 +49,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1971-631670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c914ef95f77f7723d05015f8ba6ee3c5ce34c0dec3a2931224783f448db3905
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d238c99b7c8c543f360b61b98dc5f2e0a38f328f8ae6517474cc07984c29e5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Naval
+- Embarcação de Pesca
+- Fretamento
+- Pesca
+- Porto de Pesca
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:537223:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:57Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +99,11 @@ de 22 de Novembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As embarcações de pesca nacionais que operem em zonas cuja proximidade de determinada parcela do território nacional aconselhe, do ponto de vista logístico, a utilização de bases em terra, ficam sujeitas, independentemente da repartição marítima onde se encontrem registadas, e no que se refere a essa utilização, aos regimes e demais formalidades aplicáveis às embarcações registadas nessa parcela do território nacional.
+Artigo 1.º As embarcações de pesca nacionais que operem em zonas cuja proximidade de determinada parcela do território nacional aconselhe, do ponto de vista logístico, a utilização de bases em terra, ficam sujeitas, independentemente da repartição marítima onde se encontrem registadas, e no que se refere a essa utilização, aos regimes e demais formalidades aplicáveis às embarcações registadas nessa parcela do território nacional.
 
-###### Art. 2.º Por despacho conjunto dos Ministros da Marinha e do Ultramar, poderá ser autorizada a aquisição ou construção de embarcações de pesca no estrangeiro, destinadas a ser registadas em portos das províncias ultramarinas, desde que os estaleiros nacionais não as possam construir em razoáveis condições de custo e de prazo.
+Art. 2.º Por despacho conjunto dos Ministros da Marinha e do Ultramar, poderá ser autorizada a aquisição ou construção de embarcações de pesca no estrangeiro, destinadas a ser registadas em portos das províncias ultramarinas, desde que os estaleiros nacionais não as possam construir em razoáveis condições de custo e de prazo.
 
-###### Art. 3.º - 1. Por portaria conjunta dos Ministros da Marinha e do Ultramar, poderá ser autorizado o exercício da pesca em águas jurisdicionais das províncias ultramarinas a embarcações estrangeiras afretadas por empresas de pesca nacionais.
+Art. 3.º - 1. Por portaria conjunta dos Ministros da Marinha e do Ultramar, poderá ser autorizado o exercício da pesca em águas jurisdicionais das províncias ultramarinas a embarcações estrangeiras afretadas por empresas de pesca nacionais.
 
 2. O afretamento a que se refere o número anterior só poderá ter lugar quando:
 
@@ -105,17 +115,17 @@ b) Se verifique a necessidade de experimentar embarcações de tipos especiais o
 
 4. As embarcações a que se refere este artigo poderão beneficiar, mediante despacho do Ministro do Ultramar, de tratamento idêntico ao que usufruem as embarcações de pesca registadas nessas parcelas do território nacional.
 
-###### Art. 4.º Os produtos marinhos capturados pelas embarcações referidas nos artigos 1.º e 3.º, bem como os resultantes produtos que sejam transformados a bordo dessas mesmas embarcações, serão, pelas alfândegas das províncias ultramarinas, considerados inteiramente como de produção local.
+Art. 4.º Os produtos marinhos capturados pelas embarcações referidas nos artigos 1.º e 3.º, bem como os resultantes produtos que sejam transformados a bordo dessas mesmas embarcações, serão, pelas alfândegas das províncias ultramarinas, considerados inteiramente como de produção local.
 
-###### Art. 5.º O disposto no corpo do artigo 33.º e seu § 1.º do [Decreto-Lei n.º 45968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45968-1964-537223), de 15 de Outubro de 1964, é aplicável às embarcações de pesca longínqua, do alto e costeira registadas nos portos das províncias ultramarinas.
+Art. 5.º O disposto no corpo do artigo 33.º e seu § 1.º do [Decreto-Lei n.º 45968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45968-1964-537223), de 15 de Outubro de 1964, é aplicável às embarcações de pesca longínqua, do alto e costeira registadas nos portos das províncias ultramarinas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Novembro de 1971.**
+Promulgado em 12 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 

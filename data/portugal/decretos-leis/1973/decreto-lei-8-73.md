@@ -48,36 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1973-288455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5b57fdd307bce329c3cfc1f976674c11bd7ab59cab177105dee2b7caacb0ded
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 315eec3a0ed3bf270912aa56b5b5e386a3f4d03ad2f483b596b8ae8b101a1db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Câmara Municipal
+- Fundo de Fomento da Habitação
+- Plano de Pormenor
+- Plano de Urbanização
+- Saúde Pública
+- Urbanismo
+relationships:
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643320:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:07Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +146,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A elaboração e execução de planos de urbanização de pormenor visando a renovação de sectores urbanos sobreocupados ou com más condições de salubridade, solidez, estética ou segurança contra risco de incêndio cabe ao Fundo de Fomento da Habitação ou às câmaras municipais e obedecerá ao disposto no presente diploma.
+Artigo 1.º - 1. A elaboração e execução de planos de urbanização de pormenor visando a renovação de sectores urbanos sobreocupados ou com más condições de salubridade, solidez, estética ou segurança contra risco de incêndio cabe ao Fundo de Fomento da Habitação ou às câmaras municipais e obedecerá ao disposto no presente diploma.
 
 2. Compete ao Ministro das Obras Públicas a aprovação dos planos de urbanização referidos no número anterior, sempre que a iniciativa da sua elaboração pertença ao Fundo de Fomento da Habitação, ou quando se verifique uma das hipóteses previstas no n.º 2 do artigo 7.º do [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro.
 
-###### Art. 2.º - 1. Para execução dos planos referidos no artigo anterior o Fundo de Fomento da Habitação ou as câmaras municipais determinarão, precedendo vistoria realizada nos termos do § 1.º do artigo 51.º do Código Administrativo, a demolição total ou parcial das construções e a execução das obras necessárias à renovação dos sectores abrangidos.
+Art. 2.º - 1. Para execução dos planos referidos no artigo anterior o Fundo de Fomento da Habitação ou as câmaras municipais determinarão, precedendo vistoria realizada nos termos do § 1.º do artigo 51.º do Código Administrativo, a demolição total ou parcial das construções e a execução das obras necessárias à renovação dos sectores abrangidos.
 
 2. Sempre que a desocupação dos prédios abrangidos seja necessária à execução das obras referidas no número anterior, o Fundo de Fomento da Habitação ou as câmaras municipais ordenarão o respectivo despejo sumário, que deverá executar-se no prazo de trinta dias.
 
@@ -120,21 +158,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. As expropriações referidas nos números anteriores regem-se, além de outra legislação, pelo disposto na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969, e no [Decreto-Lei n.º 278/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1971-643320), de 23 de Junho, na parte aplicável.
 
-###### Art. 3.º - 1. A execução de quaisquer obras, bem como o prazo para a sua conclusão, serão notificados aos proprietários por carta registada com aviso de recepção e constarão de edital a afixar nos paços do concelho e de anúncio a publicar num jornal da sede do concelho ou num dos jornais mais lidos na localidade.
+Art. 3.º - 1. A execução de quaisquer obras, bem como o prazo para a sua conclusão, serão notificados aos proprietários por carta registada com aviso de recepção e constarão de edital a afixar nos paços do concelho e de anúncio a publicar num jornal da sede do concelho ou num dos jornais mais lidos na localidade.
 
 2. Sempre que não seja possível proceder à notificação referida no número anterior, o prazo para a conclusão das obras conta-se a partir da publicação do último anúncio.
 
-###### Art. 4.º - 1. Quando os trabalhos referidos no artigo 2.º não sejam executados no prazo fixado, as entidades competentes poderão ocupar os respectivos prédios a fim de mandar proceder à imediata execução das obras por conta dos proprietários.
+Art. 4.º - 1. Quando os trabalhos referidos no artigo 2.º não sejam executados no prazo fixado, as entidades competentes poderão ocupar os respectivos prédios a fim de mandar proceder à imediata execução das obras por conta dos proprietários.
 
 2. A cobrança das importâncias despendidas por força do disposto no número anterior compete, na falta de pagamento voluntário, aos tribunais das contribuições e impostos, constituindo título executivo a certidão passada pelos serviços do Fundo de Fomento da Habitação ou das câmaras municipais donde constem todos os requisitos referidos no artigo 156.º do Código de Processo das Contribuições e Impostos e demais legislação aplicável.
 
-###### Art. 5.º - 1. O Fundo de Fomento da Habitação ou as câmaras municipais poderão, a requerimento dos interessados, elaborar os projectos e executar os trabalhos de renovação urbana.
+Art. 5.º - 1. O Fundo de Fomento da Habitação ou as câmaras municipais poderão, a requerimento dos interessados, elaborar os projectos e executar os trabalhos de renovação urbana.
 
 2. As quantias devidas pela realização das actividades referidas no número anterior, acrescidas dos juros legais, poderão ser pagas em anuidades mediante prévia deliberação das câmaras municipais ou despacho do Ministro das Obras Públicas.
 
-###### Art. 6.º Os créditos a que se referem os artigos 4.º e 5.º gozam de privilégio imobiliário, graduado a seguir à alínea b) do artigo 748.º do Código Civil.
+Art. 6.º Os créditos a que se referem os artigos 4.º e 5.º gozam de privilégio imobiliário, graduado a seguir à alínea b) do artigo 748.º do Código Civil.
 
-###### Art. 7.º - 1. Os trabalhos previstos neste diploma serão precedidos de realojamento dos ocupantes, sempre que a desocupação se revele indispensável à sua execução ou se mostre excedida a capacidade habitacional das edificações.
+Art. 7.º - 1. Os trabalhos previstos neste diploma serão precedidos de realojamento dos ocupantes, sempre que a desocupação se revele indispensável à sua execução ou se mostre excedida a capacidade habitacional das edificações.
 
 2. Os ocupantes desalojados, nos termos do número anterior, terão direito a reocupar os fogos que habitavam, em conformidade com o disposto no presente diploma.
 
@@ -142,13 +180,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O Governo incentivará a promoção económico-social das populações das áreas sujeitas a operações de renovação.
 
-###### Art. 8.º - 1. A utilização das edificações situadas em áreas sujeitas a operações de renovação urbana depende de licença municipal, na qual se fixará a sua capacidade habitacional.
+Art. 8.º - 1. A utilização das edificações situadas em áreas sujeitas a operações de renovação urbana depende de licença municipal, na qual se fixará a sua capacidade habitacional.
 
 2. À licença de utilização é aplicável o disposto no artigo 17.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril.
 
 3. A reocupação de prédios sem prévia licença municipal ou em desconformidade com ela será punida com a multa de 10000$00.
 
-###### Art. 9.º - 1. Os fogos das edificações situadas em áreas sujeitas a operações de renovação não podem ser locados ou sublocados de forma que neles fique residindo mais de um agregado familiar ou seja excedida a sua capacidade habitacional.
+Art. 9.º - 1. Os fogos das edificações situadas em áreas sujeitas a operações de renovação não podem ser locados ou sublocados de forma que neles fique residindo mais de um agregado familiar ou seja excedida a sua capacidade habitacional.
 
 2. A infracção ao disposto no número anterior implica a aplicação da multa de 10000$00 aos locadores ou sublocadores e o despejo sumário dos ocupantes até se assegurar o seu cumprimento, pela ordem seguinte:
 
@@ -160,7 +198,7 @@ c) Os agregados familiares que residam há menos tempo no fogo.
 
 3. Os ocupantes despejados nos termos do número anterior terão direito a uma indemnização correspondente a cinco anos de renda, salvo se o senhorio lhes facultar habitação satisfatória, no prazo de dez dias, por igual renda mensal e dentro da mesma localidade.
 
-###### Art. 10.º - 1. O direito de permanência ou reocupação das edificações situadas em áreas sujeitas a operações de renovação será atribuído prioritàriamente, aos agregados familiares, pela ordem seguinte:
+Art. 10.º - 1. O direito de permanência ou reocupação das edificações situadas em áreas sujeitas a operações de renovação será atribuído prioritàriamente, aos agregados familiares, pela ordem seguinte:
 
 a) Aos que residam há mais tempo no prédio e na zona;
 
@@ -182,30 +220,30 @@ d) Maior proximidade dos locais de trabalho.
 
 3. As ordens de prioridade referidas nos números anteriores são estabelecidas sem prejuízo da preferência sempre dada aos ocupantes que sejam simultaneamente titulares do direito de propriedade de superfície ou de usufruto sobre o respectivo prédio ou parte dele.
 
-###### Art. 11.º Os contratos de locação ou sublocação celebrados com violação do disposto nos artigos anteriores são nulos, podendo o Fundo de Fomento da Habitação ou as câmaras municipais ordenar o despejo sumário dos ocupantes.
+Art. 11.º Os contratos de locação ou sublocação celebrados com violação do disposto nos artigos anteriores são nulos, podendo o Fundo de Fomento da Habitação ou as câmaras municipais ordenar o despejo sumário dos ocupantes.
 
-###### Art. 12.º - 1. A atribuição de novos fogos, construídos ao abrigo do disposto no n.º 3 do artigo 7.º, será feita a título precário, mediante licença passada de acordo com o regime estabelecido no [Decreto n.º 35106](https://diariodarepublica.pt/dr/detalhe/decreto/35106-1945-465634), de 6 de Novembro de 1945, na parte aplicável.
+Art. 12.º - 1. A atribuição de novos fogos, construídos ao abrigo do disposto no n.º 3 do artigo 7.º, será feita a título precário, mediante licença passada de acordo com o regime estabelecido no [Decreto n.º 35106](https://diariodarepublica.pt/dr/detalhe/decreto/35106-1945-465634), de 6 de Novembro de 1945, na parte aplicável.
 
 2. Os valores médios das taxas a cobrar serão fixados em face do estudo económico a elaborar para cada núcleo, segundo directrizes gerais a fixar em portaria do Ministro das Obras Públicas em que se atenda à situação financeira dos agregados a que se destina cada habitação.
 
-###### Art. 13.º - 1. Quando a extensão e complexidade das operações de renovação urbana a efectuar o justifiquem, o Governo pode autorizar a constituição, a título eventual, de gabinetes técnicos por onde correrão todos os assuntos com ela relacionados.
+Art. 13.º - 1. Quando a extensão e complexidade das operações de renovação urbana a efectuar o justifiquem, o Governo pode autorizar a constituição, a título eventual, de gabinetes técnicos por onde correrão todos os assuntos com ela relacionados.
 
 2. No âmbito dos trabalhos de renovação e quando nisso houver conveniência o Fundo de Fomento da Habitação ou as câmaras municipais podem autorizar, com dispensa de quaisquer formalidades, a elaboração de projectos, fiscalização de obras ou quaisquer trabalhos urgentes ou especializados em regime de prestação de serviços ou de empreitada.
 
-###### Art. 14.º - 1. Os senhorios das edificações remodeladas, beneficiadas ou reconstruídas parcialmente nos termos do presente diploma terão direito a um aumento de renda até ao limite correspondente a um juro de 8 por cento sobre a importância despendida.
+Art. 14.º - 1. Os senhorios das edificações remodeladas, beneficiadas ou reconstruídas parcialmente nos termos do presente diploma terão direito a um aumento de renda até ao limite correspondente a um juro de 8 por cento sobre a importância despendida.
 
 2. Nos casos em que seja determinada a construção ou reconstrução, total da edificação, o senhorio poderá exigir dos inquilinos beneficiados pelas obras a renda que for fixada por avaliação fiscal.
 
 3. Aos inquilinos que se encontrem em qualquer das situações previstas no artigo 256.º do Código Administrativo poderão ser concedidos subsídios não reembolsáveis que não excedam a diferença entre a renda paga antes da realização das obras e a fixada posteriormente.
 
-###### Art. 15.º Os registos de transmissão das construções e terrenos adquiridos pelo Fundo de Fomento de Habitação ou pelas câmaras municipais para a execução das operações de renovação urbana, bem como os que se mostrem necessários para as tornar possíveis, serão efectuados nas conservatórias de registo predial, com preterição dos demais, dentro dos vinte dias imediatos ao da apresentação do respectivo requerimento.
+Art. 15.º Os registos de transmissão das construções e terrenos adquiridos pelo Fundo de Fomento de Habitação ou pelas câmaras municipais para a execução das operações de renovação urbana, bem como os que se mostrem necessários para as tornar possíveis, serão efectuados nas conservatórias de registo predial, com preterição dos demais, dentro dos vinte dias imediatos ao da apresentação do respectivo requerimento.
 
-###### Art. 16.º O financiamento das operações de renovação urbana previstas neste diploma, bem como a aquisição dos terrenos necessários à sua realização, incluindo a construção dos núcleos habitacionais referidos no n.º 3 do artigo 7.º, terão lugar nos termos do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro.
+Art. 16.º O financiamento das operações de renovação urbana previstas neste diploma, bem como a aquisição dos terrenos necessários à sua realização, incluindo a construção dos núcleos habitacionais referidos no n.º 3 do artigo 7.º, terão lugar nos termos do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 29 de Dezembro de 1972.**
+Promulgado em 29 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

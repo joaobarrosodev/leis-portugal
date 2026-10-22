@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1981-566864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c3090eaf4d78cfef328918d79c7aa7aa1dea36c6e1397dd03855163661c12af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41bae26abf915385afb138e11ca5cd2c075c1c203e98302f54ba228b0467ed01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Ordem dos Engenheiros
 relationships:
 - type: amended_by
   target: pt:dre:304358:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677067:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:304358:por
+  label: "Revogado, a partir de 05.07.1992, pelo DEC LEI.119/92.30.06.1992.MPLAT, DR.IS-A [148] de 30.06.1992, que manteve,\
+    \ contudo, em vigor as disposições constantes deste Estatuto e que passem a ser objecto de regulamentos próprios, até\
+    \ que os mesmos sejam aprovados, na medida em que não contrariem o novo Estatuto. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1992-304358
+  date: '1992-06-30'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:09Z'
   warnings: []
   errors: []
 ---
@@ -100,33 +117,33 @@ Deste facto decorre a necessidade de se encontrar o respectivo Estatuto aprovado
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Ordem dos Engenheiros, instituída pelo [Decreto-Lei n.º 27288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27288-1936-677067), de 24 de Novembro de 1936, passa a reger-se pelo Estatuto anexo ao presente diploma.
+Artigo 1.º A Ordem dos Engenheiros, instituída pelo [Decreto-Lei n.º 27288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27288-1936-677067), de 24 de Novembro de 1936, passa a reger-se pelo Estatuto anexo ao presente diploma.
 
-###### Art. 2.º Fica revogado o Estatuto da Ordem dos Engenheiros aprovado pelo [Decreto-Lei n.º 40774](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40774-1956-232568), de 8 de Setembro de 1956.
+Art. 2.º Fica revogado o Estatuto da Ordem dos Engenheiros aprovado pelo [Decreto-Lei n.º 40774](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40774-1956-232568), de 8 de Setembro de 1956.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 11 de Dezembro de 1981.**
+Promulgado em 11 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA ORDEM DOS ENGENHEIROS
 
 ### CAPÍTULO I — Denominação e sede
 
-###### Artigo 1.º Denomina-se Ordem dos Engenheiros a Associação Portuguesa de Engenheiros, adiante designada por «Ordem».
+Artigo 1.º Denomina-se Ordem dos Engenheiros a Associação Portuguesa de Engenheiros, adiante designada por «Ordem».
 
-###### Art. 2.º A Ordem é uma instituição de interesse e utilidade pública, de âmbito nacional, sem fins lucrativos e de duração ilimitada.
+Art. 2.º A Ordem é uma instituição de interesse e utilidade pública, de âmbito nacional, sem fins lucrativos e de duração ilimitada.
 
-###### Art. 3.º A Ordem tem a sua sede em Lisboa.
+Art. 3.º A Ordem tem a sua sede em Lisboa.
 
 ### CAPÍTULO II — Objectivos
 
-###### Art. 4.º O objectivo fundamental é contribuir para o progresso da engenharia, ao serviço do bem comum, estimulando os esforços dos seus associados nos domínios científico, profissional e social, dentro de uma actuação deontologicamente dignificante.
+Art. 4.º O objectivo fundamental é contribuir para o progresso da engenharia, ao serviço do bem comum, estimulando os esforços dos seus associados nos domínios científico, profissional e social, dentro de uma actuação deontologicamente dignificante.
 
-###### Art. 5.º Na concretização desse objectivo, a Ordem procurará:
+Art. 5.º Na concretização desse objectivo, a Ordem procurará:
 
 a) Defender a ética, a deontologia e a qualificação profissional dos engenheiros;
 
@@ -148,17 +165,17 @@ i) Prestar a colaboração técnica e científica ao seu alcance que lhe for sol
 
 j) Desenvolver as relações com associações afins, nacionais e estrangeiras, podendo, para o efeito, aderir a uniões e federações internacionais.
 
-###### Art. 6.º Na linha do seu objectivo fundamental, a Ordem fomentará a criação de especialização e atribuirá os respectivos títulos.
+Art. 6.º Na linha do seu objectivo fundamental, a Ordem fomentará a criação de especialização e atribuirá os respectivos títulos.
 
-###### Art. 7.º - 1 - A Ordem procurará adaptar a classificação dos seus membros e o conteúdo das especialidades nela incluídas às normas internacionais de qualificação, garantindo a competência profissional, por forma a facilitar a inscrição dos engenheiros nos registos internacionais.
+Art. 7.º - 1 - A Ordem procurará adaptar a classificação dos seus membros e o conteúdo das especialidades nela incluídas às normas internacionais de qualificação, garantindo a competência profissional, por forma a facilitar a inscrição dos engenheiros nos registos internacionais.
 
 2 - A Ordem procurará ainda promover as condições que possibilitem a passagem dos seus membros de uma qualificação já adquirida para outro nível superior.
 
 ### CAPÍTULO III — Membros
 
-###### Art. 8.º O uso do título e o exercício da profissão de engenheiro dependem de inscrição na Ordem dos Engenheiros, com a categoria de membro efectivo, sem prejuízo da legislação que rege o ordenamento das carreiras técnicas da função pública.
+Art. 8.º O uso do título e o exercício da profissão de engenheiro dependem de inscrição na Ordem dos Engenheiros, com a categoria de membro efectivo, sem prejuízo da legislação que rege o ordenamento das carreiras técnicas da função pública.
 
-###### Art. 9.º - 1 - A Ordem terá as seguintes categorias de membros:
+Art. 9.º - 1 - A Ordem terá as seguintes categorias de membros:
 
 a) Membros efectivos;
 
@@ -184,7 +201,7 @@ a) Membros correspondentes;
 
 b) Membros estudantes.
 
-###### Art. 10.º A admissão de membros efectivos é condicionada por diploma de curso superior nacional ou estrangeiro oficialmente reconhecido como equivalente e eventualmente por prestação de provas perante a comissão de admissão e qualificação.
+Art. 10.º A admissão de membros efectivos é condicionada por diploma de curso superior nacional ou estrangeiro oficialmente reconhecido como equivalente e eventualmente por prestação de provas perante a comissão de admissão e qualificação.
 
 § único. Compete ao conselho directivo nacional, ouvida a comissão de admissão e qualificação:
 
@@ -192,31 +209,31 @@ a) Definir os cursos e respectivos graus académicos, de escolas nacionais ou es
 
 b) Exigir aos candidatos provas de admissão adequadas quando os cursos superiores cujos diplomas permitam o acesso à Ordem nos termos da alínea a) se tenham processado em circunstâncias anormais, afectando a qualidade do ensino ou o apuramento dos resultados.
 
-###### Art. 11.º As categorias de admissão de membros efectivos são as seguintes:
+Art. 11.º As categorias de admissão de membros efectivos são as seguintes:
 
 a) Membro efectivo CL para os diplomados com um curso universitário que confira o grau académico de licenciado;
 
 b) Membro efectivo L2 para os diplomados com um curso superior de nível universitário com a duração não inferior a 4 anos, tendo como condição curricular o curso secundário exigido para acesso aos cursos universitários.
 
-###### Art. 12.º O nível de qualificação profissional L1 poderá ser outorgado, quando requerido, a membros efectivos L2 desde que possuam, pelo menos, 5 anos de inscrição na Ordem e currículo de mérito reconhecido pela comissão de admissão e qualificação.
+Art. 12.º O nível de qualificação profissional L1 poderá ser outorgado, quando requerido, a membros efectivos L2 desde que possuam, pelo menos, 5 anos de inscrição na Ordem e currículo de mérito reconhecido pela comissão de admissão e qualificação.
 
-###### Art. 13.º Um membro efectivo L1 poderá adquirir o nível de membro efectivo CL desde que tenha, pelo menos, 10 anos de inscrição na Ordem e um currículo profissional de mérito reconhecido pela comissão de admissão e qualificação.
+Art. 13.º Um membro efectivo L1 poderá adquirir o nível de membro efectivo CL desde que tenha, pelo menos, 10 anos de inscrição na Ordem e um currículo profissional de mérito reconhecido pela comissão de admissão e qualificação.
 
-###### Art. 14.º Será concedido o nível de qualificação profissional C2 aos membros efectivos CL com grau académico de licenciado que o requeiram e possuam, pelo menos, 5 anos de inscrição na Ordem e um currículo de mérito reconhecido pela comissão de admissão e qualificação.
+Art. 14.º Será concedido o nível de qualificação profissional C2 aos membros efectivos CL com grau académico de licenciado que o requeiram e possuam, pelo menos, 5 anos de inscrição na Ordem e um currículo de mérito reconhecido pela comissão de admissão e qualificação.
 
-###### Art. 15.º O nível de qualificação profissional C1 será outorgado, desde que requerido, aos membros efectivos C2 com, pelo menos, 10 anos de inscrição na Ordem e com currículo de mérito reconhecido pela comissão de admissão e qualificação.
+Art. 15.º O nível de qualificação profissional C1 será outorgado, desde que requerido, aos membros efectivos C2 com, pelo menos, 10 anos de inscrição na Ordem e com currículo de mérito reconhecido pela comissão de admissão e qualificação.
 
-###### Art. 16.º Os membros efectivos serão inscritos nas especialidades reconhecidas pela Ordem, sendo da competência do conselho directivo nacional, sob parecer da comissão de admissão e qualificação, decidir sobre dúvidas que surjam.
+Art. 16.º Os membros efectivos serão inscritos nas especialidades reconhecidas pela Ordem, sendo da competência do conselho directivo nacional, sob parecer da comissão de admissão e qualificação, decidir sobre dúvidas que surjam.
 
-###### Art. 17.º - 1 - A inscrição na Ordem far-se-á na região do domicílio profissional do candidato.
+Art. 17.º - 1 - A inscrição na Ordem far-se-á na região do domicílio profissional do candidato.
 
 2 - Contudo, a pedido deste devidamente justificado, poderá o conselho directivo nacional autorizar que a inscrição se faça em região diferente, de acordo com os interesses do candidato, à luz dos objectivos da Ordem.
 
 3 - Os membros residentes nos Açores e na Madeira inscrever-se-ão na região a que estiverem agregadas as delegações regionais respectivas.
 
-###### Art. 18.º Poderão ser admitidos na qualidade de membros honorários os indivíduos ou colectividades que, exercendo ou tendo exercido actividades de reconhecido interesse público, sejam considerados pelo conselho directivo nacional como merecedores de tal distinção.
+Art. 18.º Poderão ser admitidos na qualidade de membros honorários os indivíduos ou colectividades que, exercendo ou tendo exercido actividades de reconhecido interesse público, sejam considerados pelo conselho directivo nacional como merecedores de tal distinção.
 
-###### Art. 19.º Como membros correspondentes poderão ser admitidos:
+Art. 19.º Como membros correspondentes poderão ser admitidos:
 
 a) Profissionais com o grau académico de licenciado que, não exercendo a profissão de engenheiro, nem tendo a respectiva formação escolar, exerçam actividades afins e apresentem um currículo valioso, como tal reconhecido pela comissão de admissão e qualificação;
 
@@ -224,19 +241,19 @@ b) Membros de associações equivalentes estrangeiras que confiram igual tratame
 
 c) Profissionais de engenharia diplomados por escolas portuguesas cujo diploma dê acesso às categorias de membros efectivos e que exerçam a sua actividade no estrangeiro.
 
-###### Art. 20.º Os estudantes das escolas de engenharia cujo diploma confira acesso a membro efectivo poderão ser admitidos na qualidade de membros estudantes.
+Art. 20.º Os estudantes das escolas de engenharia cujo diploma confira acesso a membro efectivo poderão ser admitidos na qualidade de membros estudantes.
 
 ### CAPÍTULO IV — Organização
 
-###### Art. 21.º A Ordem organiza-se, territorialmente, a 2 níveis:
+Art. 21.º A Ordem organiza-se, territorialmente, a 2 níveis:
 
 a) Nacional;
 
 b) Regional.
 
-###### Art. 22.º A Ordem abrange, a nível nacional, os territórios do continente, das Regiões Autónomas dos Açores e da Madeira e de Macau.
+Art. 22.º A Ordem abrange, a nível nacional, os territórios do continente, das Regiões Autónomas dos Açores e da Madeira e de Macau.
 
-###### Art. 23.º - 1 - As regiões da Ordem e as respectivas sedes são as seguintes:
+Art. 23.º - 1 - As regiões da Ordem e as respectivas sedes são as seguintes:
 
 a) A Região Norte, com sede no Porto;
 
@@ -254,7 +271,7 @@ c) A Região Sul: Beja, Évora, Faro, Lisboa, Portalegre, Santarém e Setúbal.
 
 3 - A área geográfica de cada região será adaptada à divisão administrativa do território, tendo em atenção a prossecução dos fins da Ordem e os interesses dos seus membros, por propostas do conselho directivo nacional e aprovação da assembleia de representantes.
 
-###### Art. 24.º - 1 - Como escalão organizativo da Ordem poderão ser criadas delegações regionais, com base territorial nos actuais distritos administrativos, por vontade expressa de, pelo menos, três quartos dos membros ali residentes e aprovação da assembleia regional da região a que pertencerem.
+Art. 24.º - 1 - Como escalão organizativo da Ordem poderão ser criadas delegações regionais, com base territorial nos actuais distritos administrativos, por vontade expressa de, pelo menos, três quartos dos membros ali residentes e aprovação da assembleia regional da região a que pertencerem.
 
 2 - Não poderão ser criadas delegações regionais nas áreas onde estiverem instaladas as sedes das regiões.
 
@@ -266,7 +283,7 @@ c) A Região Sul: Beja, Évora, Faro, Lisboa, Portalegre, Santarém e Setúbal.
 
 6 - As delegações regionais dos Açores ou da Madeira poderão transformar-se em secções regionais, por vontade expressa de dois terços dos membros existentes em cada uma daquelas regiões autónomas.
 
-###### Art. 25.º - 1 - São órgãos da Ordem de nível nacional:
+Art. 25.º - 1 - São órgãos da Ordem de nível nacional:
 
 a) O congresso;
 
@@ -316,7 +333,7 @@ e) As comissões de especialidade.
 
 5 - Para as delegações regionais a que se refere o n.º 1 do artigo 24.º será nomeado um delegado do conselho directivo da respectiva região, após eleição dos membros da Ordem nela residentes.
 
-###### Art. 26.º As competências dos órgãos nacionais da Ordem devem ser exercidas de forma a estimular a iniciativa das regiões e secções, preservando, contudo:
+Art. 26.º As competências dos órgãos nacionais da Ordem devem ser exercidas de forma a estimular a iniciativa das regiões e secções, preservando, contudo:
 
 a) O carácter nacional da Ordem, enquanto associação que representa os engenheiros portugueses;
 
@@ -362,7 +379,7 @@ b) Executar os actos preparatórios dos congressos que lhe forem determinados pe
 
 c) Promover a execução dos trabalhos resultantes da actividade editorial a nível nacional.
 
-###### Art. 27.º - 1 - O congresso será a assembleia de apreciação da actividade da Ordem a nível nacional e um acto de expressão pública das suas actividades técnicas, científicas e profissionais.
+Art. 27.º - 1 - O congresso será a assembleia de apreciação da actividade da Ordem a nível nacional e um acto de expressão pública das suas actividades técnicas, científicas e profissionais.
 
 2 - O congresso reúne anualmente, rotativamente em cada uma das regiões, pela seguinte sequência: Sul, Norte e Centro.
 
@@ -380,7 +397,7 @@ b) Pronunciar-se sobre assuntos de importância fundamental para a Ordem.
 
 7 - A segunda parte do congresso consistirá na apresentação e discussão de comunicações de carácter técnico, científico e profissional subordinadas ao programa e temas fixados pelo conselho directivo nacional. A assistência a esta parte do congresso é reservada a membros da Ordem e outras individualidades que nela se inscreverem, de acordo com as condições a estabelecer para cada congresso.
 
-###### Art. 28.º - 1 - O presidente nacional será coadjuvado por um vice-presidente.
+Art. 28.º - 1 - O presidente nacional será coadjuvado por um vice-presidente.
 
 2 - Compete ao presidente nacional:
 
@@ -412,7 +429,7 @@ b) Executar as atribuições de competência do presidente nacional que por ele 
 
 c) O vice-presidente poderá assistir e tomar parte na discussão nas reuniões dos órgãos cuja presidência compete ao presidente nacional, mas sem direito a voto, salvo quando a elas presidir em substituição do presidente nacional, assumindo assim todas as prerrogativas deste cargo.
 
-###### Art. 29.º - 1 - A assembleia de representantes é constituída por:
+Art. 29.º - 1 - A assembleia de representantes é constituída por:
 
 a) O presidente nacional;
 
@@ -460,7 +477,7 @@ c) Qualquer das assembleias regionais, quando expressamente tenha reunido para d
 
 7 - A assembleia de representantes delibera validamente com o voto conforme da maioria absoluta dos membros que, de acordo com o n.º 1 deste artigo, a constituem.
 
-###### Art. 30.º - 1 - O conselho directivo nacional é constituído pelo presidente nacional e pelos presidentes e secretários, ou seus substitutos, dos conselhos directivos das Regiões Norte, Centro e Sul.
+Art. 30.º - 1 - O conselho directivo nacional é constituído pelo presidente nacional e pelos presidentes e secretários, ou seus substitutos, dos conselhos directivos das Regiões Norte, Centro e Sul.
 
 2 - O funcionamento do conselho directivo nacional será objecto de regulamento próprio, o qual deverá observar as seguintes normas:
 
@@ -522,7 +539,7 @@ y) Exercer todas as atribuições que não sejam da competência de outros órg�
 
 z) Elaborar o regulamento de funcionamento da assembleia de representantes e o regulamento de eleições e referendos.
 
-###### Art. 31.º - 1 - O conselho fiscal nacional é constituído pelos presidentes dos conselhos fiscais das regiões, devendo os referidos membros escolher o presidente entre si, após o acto de posse.
+Art. 31.º - 1 - O conselho fiscal nacional é constituído pelos presidentes dos conselhos fiscais das regiões, devendo os referidos membros escolher o presidente entre si, após o acto de posse.
 
 2 - Compete-lhe:
 
@@ -532,7 +549,7 @@ b) Dar parecer sobre o relatório, contas e orçamento anuais apresentados pelo 
 
 c) Assistir às reuniões do conselho directivo nacional, sempre que o julgue conveniente, sem, contudo, ter voto deliberativo.
 
-###### Art. 32.º - 1 - O conselho jurisdicional é constituído pelos presidentes dos conselhos disciplinares das regiões, devendo estes escolher o presidente entre si, após o acto de posse.
+Art. 32.º - 1 - O conselho jurisdicional é constituído pelos presidentes dos conselhos disciplinares das regiões, devendo estes escolher o presidente entre si, após o acto de posse.
 
 2 - Compete ao conselho jurisdicional:
 
@@ -554,7 +571,7 @@ e) Julgar, em conjunto com o conselho directivo nacional, tanto os processos dis
 
 6 - Das decisões proferidas pelo conselho jurisdicional cabe sempre recurso para o tribunal competente.
 
-###### Art. 33.º - 1 - A comissão de admissão e qualificação terá a seguinte constituição:
+Art. 33.º - 1 - A comissão de admissão e qualificação terá a seguinte constituição:
 
 a) O presidente nacional, que preside, com voto de qualidade;
 
@@ -578,7 +595,7 @@ f) Dar parecer sobre a criação e reconhecimento de especializações e outorga
 
 4 - O regime de admissão e qualificação será estabelecido em regulamento.
 
-###### Art. 34.º - 1 - As comissões culturais são órgãos de apoio ao conselho directivo nacional.
+Art. 34.º - 1 - As comissões culturais são órgãos de apoio ao conselho directivo nacional.
 
 2 - Existirá uma comissão cultural por cada especialidade reconhecida pela Ordem e ainda uma comissão cultural de temas gerais.
 
@@ -602,7 +619,7 @@ e) Fomentar a actividade editorial da Ordem, a nível nacional, na respectiva es
 
 7 - As acções culturais e a actividade editorial são coordenadas por uma comissão coordenadora cultural, presidida pelo presidente nacional e constituída pelos coordenadores referidos no n.º 3.
 
-###### Art. 35.º - 1 - As assembleias regionais são constituídas por todos os membros efectivos no pleno gozo dos seus direitos, inscritos nas respectivas regiões e secções.
+Art. 35.º - 1 - As assembleias regionais são constituídas por todos os membros efectivos no pleno gozo dos seus direitos, inscritos nas respectivas regiões e secções.
 
 2 - Compete às assembleias regionais:
 
@@ -634,7 +651,7 @@ h) Apreciar assuntos que, no âmbito do presente Estatuto, lhe sejam submetidos.
 
 8 - As decisões das assembleias regionais não vinculam a Ordem enquanto instituição de âmbito nacional.
 
-###### Art. 36.º - 1 - Os conselhos directivos das regiões são constituídos por 1 presidente, 1 vice-presidente, 1 secretário, 1 tesoureiro e 5 vogais.
+Art. 36.º - 1 - Os conselhos directivos das regiões são constituídos por 1 presidente, 1 vice-presidente, 1 secretário, 1 tesoureiro e 5 vogais.
 
 2 - Os conselhos directivos das secções regionais são constituídos por 1 presidente, 1 secretário, 1 tesoureiro e 2 vogais.
 
@@ -678,9 +695,9 @@ r) Organizar e dirigir os respectivos serviços administrativos;
 
 s) Admitir e despedir o respectivo pessoal administrativo.
 
-###### Art. 37.º Os delegados regionais nomeados nos termos do n.º 5 do artigo 25.º terão a competência que lhes for atribuída pelos conselhos directivos da respectiva região.
+Art. 37.º Os delegados regionais nomeados nos termos do n.º 5 do artigo 25.º terão a competência que lhes for atribuída pelos conselhos directivos da respectiva região.
 
-###### Art. 38.º - 1 - Os conselhos fiscais das regiões e secções são constituídos por 3 membros efectivos, os quais escolherão entre si o presidente, após o acto de posse.
+Art. 38.º - 1 - Os conselhos fiscais das regiões e secções são constituídos por 3 membros efectivos, os quais escolherão entre si o presidente, após o acto de posse.
 
 2 - Compete-lhes:
 
@@ -690,13 +707,13 @@ b) Dar parecer sobre o relatório e contas apresentados pelos respectivos consel
 
 c) Assistir às reuniões dos respectivos conselhos directivos sempre que o julgarem conveniente, sem, contudo, terem voto deliberativo.
 
-###### Art. 39.º - 1 - Os conselhos disciplinares são constituídos por 3 membros efectivos, os quais escolherão entre si o presidente, após o acto de posse.
+Art. 39.º - 1 - Os conselhos disciplinares são constituídos por 3 membros efectivos, os quais escolherão entre si o presidente, após o acto de posse.
 
 2 - Compete-lhes, em primeira instância e de acordo com o regulamento disciplinar, instruir e julgar os processos disciplinares que digam respeito aos membros da Ordem, com excepção dos que são da competência do conselho jurisdicional, nos termos da alínea c) do n.º 2 do artigo 32.º
 
 3 - Das decisões dos conselhos disciplinares cabe recurso para o conselho jurisdicional, de acordo com o regulamento disciplinar.
 
-###### Art. 40.º - 1 - Em cada região, como órgão de apoio ao conselho directivo, existe uma comissão de especialidades, por cada especialidade reconhecida pela Ordem e com representatividade na região, e uma comissão de temas gerais.
+Art. 40.º - 1 - Em cada região, como órgão de apoio ao conselho directivo, existe uma comissão de especialidades, por cada especialidade reconhecida pela Ordem e com representatividade na região, e uma comissão de temas gerais.
 
 2 - A constituição das comissões de especialidades é a seguinte:
 
@@ -720,7 +737,7 @@ d) Propor e dar parecer sobre as actividades a serem desenvolvidas por interméd
 
 ### CAPÍTULO V — Especialidades e especializações da Ordem
 
-###### Art. 41.º - 1 - Entende-se por especialidade um vasto domínio de actividade da engenharia, com características técnicas e científicas específicas, que assuma no País grande relevância económica e social.
+Art. 41.º - 1 - Entende-se por especialidade um vasto domínio de actividade da engenharia, com características técnicas e científicas específicas, que assuma no País grande relevância económica e social.
 
 2 - As especialidades actualmente estruturadas na Ordem são:
 
@@ -748,7 +765,7 @@ Engenharia metalúrgica.
 
 4 - Os diplomados em Engenharia com uma especialidade ainda não estruturada na Ordem serão inscritos na especialidade que a comissão de admissão e qualificação considere como a mais afim de entre as especialidades reconhecidas.
 
-###### Art. 42.º - 1 - Entende-se por especialização uma área restrita de actividade da engenharia, contida numa especialidade ou abrangendo matérias de várias especialidades, que assumiu importância científica e técnica e desenvolveu metodologia específica.
+Art. 42.º - 1 - Entende-se por especialização uma área restrita de actividade da engenharia, contida numa especialidade ou abrangendo matérias de várias especialidades, que assumiu importância científica e técnica e desenvolveu metodologia específica.
 
 2 - A criação de especializações pela Ordem reger-se-á por regulamento próprio, proposto pela comissão de admissão e qualificação e aprovado pela assembleia de representantes.
 
@@ -758,9 +775,9 @@ Engenharia metalúrgica.
 
 ### CAPÍTULO VI — Deveres e direitos
 
-###### Art. 43.º Todos os membros da Ordem têm os deveres e os direitos decorrentes do presente Estatuto e das leis em vigor, nos termos dos artigos seguintes.
+Art. 43.º Todos os membros da Ordem têm os deveres e os direitos decorrentes do presente Estatuto e das leis em vigor, nos termos dos artigos seguintes.
 
-###### Art. 44.º Constituem deveres dos membros efectivos:
+Art. 44.º Constituem deveres dos membros efectivos:
 
 a) Cumprir as obrigações do Estatuto, do código deontológico e dos regulamentos da Ordem;
 
@@ -776,7 +793,7 @@ f) Satisfazer os encargos estabelecidos pela Ordem;
 
 g) Responder a inquéritos dos conselhos disciplinares.
 
-###### Art. 45.º Os membros efectivos gozam, com subordinação às disposições deste Estatuto, dos seguintes direitos:
+Art. 45.º Os membros efectivos gozam, com subordinação às disposições deste Estatuto, dos seguintes direitos:
 
 a) Participar nas actividades da Ordem;
 
@@ -798,7 +815,7 @@ i) Beneficiar da actividade editorial da Ordem;
 
 j) Utilizar os serviços oferecidos pela Ordem.
 
-###### Art. 46.º Constituem deveres dos membros extraordinários:
+Art. 46.º Constituem deveres dos membros extraordinários:
 
 a) Cumprir as disposições do Estatuto e dos regulamentos estabelecidos pela Ordem;
 
@@ -812,7 +829,7 @@ e) Satisfazer os encargos estabelecidos pela Ordem;
 
 f) Responder a inquéritos dos conselhos disciplinares.
 
-###### Art. 47.º Os membros honorários e extraordinários gozam dos seguintes direitos:
+Art. 47.º Os membros honorários e extraordinários gozam dos seguintes direitos:
 
 a) Participar nas actividades da Ordem;
 
@@ -826,7 +843,7 @@ e) Utilizar os serviços oferecidos pela Ordem.
 
 ### CAPÍTULO VII — Eleições e referendos
 
-###### Art. 48.º - 1 - Só podem ser eleitos para os órgãos da Ordem os membros efectivos no pleno gozo dos seus direitos.
+Art. 48.º - 1 - Só podem ser eleitos para os órgãos da Ordem os membros efectivos no pleno gozo dos seus direitos.
 
 2 - Não podem ser eleitos os que:
 
@@ -834,27 +851,27 @@ a) Não tenham pago as quotas nos 6 meses anteriores à data fixada para a reali
 
 b) Sejam membros das comissões de fiscalização do acto eleitoral.
 
-###### Art. 49.º Os membros dos órgãos da Ordem desempenham os seus cargos gratuitamente e, nos casos em que sejam eleitos, conforme o artigo 55.º, os respectivos mandatos terão a duração de 3 anos.
+Art. 49.º Os membros dos órgãos da Ordem desempenham os seus cargos gratuitamente e, nos casos em que sejam eleitos, conforme o artigo 55.º, os respectivos mandatos terão a duração de 3 anos.
 
-###### Art. 50.º São permitidas reeleições, mas o mesmo cargo não pode ser desempenhado consecutivamente em mais de 2 mandatos.
+Art. 50.º São permitidas reeleições, mas o mesmo cargo não pode ser desempenhado consecutivamente em mais de 2 mandatos.
 
-###### Art. 51.º Cada exercício anual dos membros eleitos para os órgãos da Ordem refere-se ao período decorrente entre 1 de Abril ou primeiro dia útil imediatamente a seguir a 1 de Abril, quando este não for dia útil, e 31 de Março ou o dia anterior ao primeiro dia útil a seguir a 1 de Abril, quando este não for dia útil.
+Art. 51.º Cada exercício anual dos membros eleitos para os órgãos da Ordem refere-se ao período decorrente entre 1 de Abril ou primeiro dia útil imediatamente a seguir a 1 de Abril, quando este não for dia útil, e 31 de Março ou o dia anterior ao primeiro dia útil a seguir a 1 de Abril, quando este não for dia útil.
 
-###### Art. 52.º Os mandatos iniciam-se com a tomada de posse no início de um exercício anual.
+Art. 52.º Os mandatos iniciam-se com a tomada de posse no início de um exercício anual.
 
-###### Art. 53.º - 1 - No caso de demissão, exoneração, incapacidade prolongada, alheamento do cargo ou perda de qualidade de membro efectivo do presidente nacional ou do presidente e do vice-presidente dos conselhos directivos das regiões, simultânea ou sucessivamente, os lugares são preenchidos por eleição, nos 3 meses seguintes à verificação das vacaturas.
+Art. 53.º - 1 - No caso de demissão, exoneração, incapacidade prolongada, alheamento do cargo ou perda de qualidade de membro efectivo do presidente nacional ou do presidente e do vice-presidente dos conselhos directivos das regiões, simultânea ou sucessivamente, os lugares são preenchidos por eleição, nos 3 meses seguintes à verificação das vacaturas.
 
 2 - Se idêntica situação se verificar para qualquer outro elemento dos órgãos da Ordem, o lugar vago pode ser preenchido por escolha, com aprovação de, pelo menos, dois terços dos membros em exercício do respectivo órgão, mas proceder-se-á a eleição se tal maioria não for atingida e, bem assim, quando o número de lugares a preencher seja superior a um terço dos membros previstos para cada órgão.
 
 3 - O mandato dos membros eleitos ou nomeados em consequência do disposto nos números anteriores termina na data em que normalmente expiraria o mandato do membro substituído.
 
-###### Art. 54.º - 1 - As eleições para os órgãos da Ordem são ordinárias e extraordinárias.
+Art. 54.º - 1 - As eleições para os órgãos da Ordem são ordinárias e extraordinárias.
 
 2 - As eleições ordinárias destinam-se a eleger os membros dos órgãos da Ordem para mandatos completos.
 
 3 - As eleições extraordinárias visam substituir os membros para os lugares vagos previstos no n.º 1 do artigo 53.º
 
-###### Art. 55.º - 1 - As eleições para os órgãos da Ordem são de âmbito nacional e regional.
+Art. 55.º - 1 - As eleições para os órgãos da Ordem são de âmbito nacional e regional.
 
 2 - As eleições de âmbito nacional destinam-se à escolha:
 
@@ -866,9 +883,9 @@ c) Dos coordenadores das comissões culturais.
 
 3 - As eleições de âmbito regional visam a escolha de membros dos órgãos da Ordem considerados na alínea c) do n.º 1 e nos n.os 2, 3, 4 e 5 do artigo 25.º
 
-###### Art. 56.º As eleições ordinárias de âmbito nacional e regional têm lugar simultaneamente.
+Art. 56.º As eleições ordinárias de âmbito nacional e regional têm lugar simultaneamente.
 
-###### Art. 57.º - 1 - A eleição do presidente nacional e do vice-presidente é feita conjuntamente, em lista fechada, por escrutínio secreto e universal.
+Art. 57.º - 1 - A eleição do presidente nacional e do vice-presidente é feita conjuntamente, em lista fechada, por escrutínio secreto e universal.
 
 2 - Os candidatos à eleição de cada especialidade para a comissão de admissão e qualificação são eleitos pelos membros efectivos da respectiva especialidade, em lista aberta.
 
@@ -878,11 +895,11 @@ c) Dos coordenadores das comissões culturais.
 
 5 - As eleições dos membros dos órgãos das regiões e das secções são feitas em listas fechadas, respeitando cada lista a cada um dos órgãos a eleger.
 
-###### Art. 58.º A apresentação de candidaturas obedecerá ao regulamento de eleições e referendos.
+Art. 58.º A apresentação de candidaturas obedecerá ao regulamento de eleições e referendos.
 
-###### Art. 59.º A marcação da data das eleições compete ao conselho directivo nacional.
+Art. 59.º A marcação da data das eleições compete ao conselho directivo nacional.
 
-###### Art. 60.º A organização do processo eleitoral compete às mesas das assembleias regionais, que devem, nomeadamente:
+Art. 60.º A organização do processo eleitoral compete às mesas das assembleias regionais, que devem, nomeadamente:
 
 a) Convocar as assembleias eleitorais;
 
@@ -894,39 +911,39 @@ d) Verificar a regularidade das candidaturas;
 
 e) Decidir sobre reclamações do acto eleitoral que lhes sejam apresentadas.
 
-###### Art. 61.º - 1 - Será constituída em cada região e secção uma comissão de fiscalização, composta pelo presidente da respectiva mesa da assembleia regional e por um representante de cada uma das listas concorrentes, a qual iniciará as suas funções no dia seguinte ao da apresentação das candidaturas.
+Art. 61.º - 1 - Será constituída em cada região e secção uma comissão de fiscalização, composta pelo presidente da respectiva mesa da assembleia regional e por um representante de cada uma das listas concorrentes, a qual iniciará as suas funções no dia seguinte ao da apresentação das candidaturas.
 
 2 - O representante de cada lista concorrente deve ser indicado conjuntamente com a apresentação das respectivas candidaturas.
 
 3 - Se o presidente da assembleia regional for candidato nas eleições a realizar, será substituído na comissão de fiscalização por um dos secretários ou por um membro da Ordem designado pela respectiva mesa.
 
-###### Art. 62.º Compete às comissões de fiscalização:
+Art. 62.º Compete às comissões de fiscalização:
 
 a) Fiscalizar o processo eleitoral;
 
 b) Elaborar relatórios de eventuais irregularidades, a entregar às correspondentes mesas das assembleias regionais.
 
-###### Art. 63.º O voto é secreto.
+Art. 63.º O voto é secreto.
 
-###### Art. 64.º - 1 - Pode ser interposto recurso com fundamento em irregularidade do acto eleitoral, o qual deverá ser apresentado à mesa da assembleia regional.
+Art. 64.º - 1 - Pode ser interposto recurso com fundamento em irregularidade do acto eleitoral, o qual deverá ser apresentado à mesa da assembleia regional.
 
 2 - Da decisão da mesa da assembleia regional cabe recurso para a assembleia regional, que será convocada expressamente para o efeito.
 
-###### Art. 65.º - 1 - Não havendo recursos, ou decididos os que houver, é feita a proclamação das listas vencedoras.
+Art. 65.º - 1 - Não havendo recursos, ou decididos os que houver, é feita a proclamação das listas vencedoras.
 
 2 - As listas vencedoras para os órgãos regionais são proclamadas pelas respectivas mesas das assembleias regionais.
 
 3 - A proclamação das listas vencedoras para os órgãos nacionais da Ordem é feita pelo conselho directivo nacional.
 
-###### Art. 66.º - 1 - O presidente nacional cessante conferirá posse aos membros eleitos para os órgãos nacionais.
+Art. 66.º - 1 - O presidente nacional cessante conferirá posse aos membros eleitos para os órgãos nacionais.
 
 2 - Os presidentes cessantes das assembleias regionais conferirão posse aos membros eleitos para os órgãos regionais.
 
-###### Art. 67.º A Ordem comparticipará nos encargos da campanha eleitoral de cada lista num montante igual para todas.
+Art. 67.º A Ordem comparticipará nos encargos da campanha eleitoral de cada lista num montante igual para todas.
 
 As comparticipações são fixadas pelo conselho directivo nacional ou pelos conselhos directivos das regiões ou secções, conforme se trate de eleições para órgãos nacionais ou regionais.
 
-###### Art. 68.º Os referendos na Ordem são sempre de âmbito nacional e de carácter deliberativo, destinando-se à votação:
+Art. 68.º Os referendos na Ordem são sempre de âmbito nacional e de carácter deliberativo, destinando-se à votação:
 
 a) De eventuais alterações ao presente Estatuto;
 
@@ -936,19 +953,19 @@ c) Sobre a dissolução da Ordem;
 
 d) Sobre outras matérias que devam ser submetidas a referendo.
 
-###### Art. 69.º Só podem votar nos referendos os membros efectivos no pleno uso dos seus direitos.
+Art. 69.º Só podem votar nos referendos os membros efectivos no pleno uso dos seus direitos.
 
-###### Art. 70.º - 1 - Compete ao conselho directivo nacional fixar a data do referendo.
+Art. 70.º - 1 - Compete ao conselho directivo nacional fixar a data do referendo.
 
 2 - As matérias a submeter a referendo devem ser divulgadas por todos os membros da Ordem e ser sujeitas a reuniões de esclarecimento e debate sem carácter deliberativo, que serão convocadas a nível regional e dirigidas pelos respectivos conselhos directivos.
 
-###### Art. 71.º - 1 - As propostas de alteração às matérias a referendar deverão ser dirigidas, por escrito, durante o período de esclarecimento e debate, ao conselho directivo nacional, sendo os subscritores das propostas identificados pelo nome completo, assinatura, número de membro e residência.
+Art. 71.º - 1 - As propostas de alteração às matérias a referendar deverão ser dirigidas, por escrito, durante o período de esclarecimento e debate, ao conselho directivo nacional, sendo os subscritores das propostas identificados pelo nome completo, assinatura, número de membro e residência.
 
 2 - As propostas de alteração subscritas por um mínimo de 3% dos membros efectivos no pleno gozo dos seus direitos serão obrigatoriamente submetidas a referendo.
 
 3 - As restantes propostas poderão, a critério do conselho directivo nacional, ser ou não incluídas nos textos a referendar ou ainda apresentadas como alternativa.
 
-###### Art. 72.º A organização do processo de referendo compete aos conselhos directivos das regiões e das secções, que devem, nomeadamente:
+Art. 72.º A organização do processo de referendo compete aos conselhos directivos das regiões e das secções, que devem, nomeadamente:
 
 a) Convocar as assembleias referendatórias;
 
@@ -956,11 +973,11 @@ b) Organizar os cadernos eleitorais;
 
 c) Apreciar as reclamações dos cadernos eleitorais.
 
-###### Art. 73.º As mesas das assembleias referendatórias, em cada região e secção, são constituídas pelos presidentes e 2 outros membros dos respectivos conselhos directivos, ou seus representantes.
+Art. 73.º As mesas das assembleias referendatórias, em cada região e secção, são constituídas pelos presidentes e 2 outros membros dos respectivos conselhos directivos, ou seus representantes.
 
-###### Art. 74.º Os resultados dos referendos são divulgados pelo conselho directivo nacional após recepção dos apuramentos parciais de todas as regiões e secções.
+Art. 74.º Os resultados dos referendos são divulgados pelo conselho directivo nacional após recepção dos apuramentos parciais de todas as regiões e secções.
 
-###### Art. 75.º - 1 - Salvo o caso de dissolução da Ordem, os resultados dos referendos corresponderão à maioria simples dos votos válidos entrados nas urnas.
+Art. 75.º - 1 - Salvo o caso de dissolução da Ordem, os resultados dos referendos corresponderão à maioria simples dos votos válidos entrados nas urnas.
 
 2 - Os resultados desses referendos só podem ser considerados como definitivos:
 
@@ -972,21 +989,21 @@ b) Em segunda votação, se votarem, pelo menos, 10% dos membros efectivos inscr
 
 4 - Se em segunda votação os resultados não puderem ser considerados definitivos, o processo poderá ser reiniciado, mas só passado 1 ano sobre a data da segunda votação.
 
-###### Art. 76.º - 1 - Não é permitido o voto por procuração.
+Art. 76.º - 1 - Não é permitido o voto por procuração.
 
 2 - É permitido o voto por correspondência, desde que salvaguardado o sigilo do voto e garantida a identificação do votante.
 
-###### Art. 77.º Não podem ser realizadas alterações ao regulamento de eleições e referendos durante o processo eleitoral ou referendatário nem nos 90 dias que o procedem.
+Art. 77.º Não podem ser realizadas alterações ao regulamento de eleições e referendos durante o processo eleitoral ou referendatário nem nos 90 dias que o procedem.
 
 ### CAPÍTULO VIII — Actividade editorial
 
-###### Art. 78.º A actividade editorial da Ordem constitui um dos meios de maior projecção da sua vida associativa e das suas actividades técnicas, científicas e profissionais.
+Art. 78.º A actividade editorial da Ordem constitui um dos meios de maior projecção da sua vida associativa e das suas actividades técnicas, científicas e profissionais.
 
-###### Art. 79.º O presidente nacional, o conselho directivo nacional e os conselhos directivos das regiões, por si ou através das comissões culturais ou das comissões das especialidades, impulsionarão a produção de textos técnicos, científicos e profissionais.
+Art. 79.º O presidente nacional, o conselho directivo nacional e os conselhos directivos das regiões, por si ou através das comissões culturais ou das comissões das especialidades, impulsionarão a produção de textos técnicos, científicos e profissionais.
 
-###### Art. 80.º As regiões e as secções podem levar a efeito, através de comissões de publicações, a edição de publicações, periódicas ou não, cujos conselhos directivos entendam como convenientes à vida da Ordem nos respectivos âmbitos regionais.
+Art. 80.º As regiões e as secções podem levar a efeito, através de comissões de publicações, a edição de publicações, periódicas ou não, cujos conselhos directivos entendam como convenientes à vida da Ordem nos respectivos âmbitos regionais.
 
-###### Art. 81.º - 1 - A comissão coordenadora cultural assegura a edição das publicações de âmbito nacional da Ordem.
+Art. 81.º - 1 - A comissão coordenadora cultural assegura a edição das publicações de âmbito nacional da Ordem.
 
 2 - São publicações de âmbito nacional da Ordem:
 
@@ -998,13 +1015,13 @@ c) Memórias técnicas, científicas e profissionais;
 
 d) Edições de livros.
 
-###### Art. 82.º Os textos publicados no Boletim informativo Nacional são da responsabilidade do conselho directivo nacional e os textos de publicações análogas das regiões ou das secções, da responsabilidade dos respectivos conselhos directivos.
+Art. 82.º Os textos publicados no Boletim informativo Nacional são da responsabilidade do conselho directivo nacional e os textos de publicações análogas das regiões ou das secções, da responsabilidade dos respectivos conselhos directivos.
 
-###### Art. 83.º O Boletim Informativo Nacional é distribuído a todos os membros da Ordem e as publicações análogas das regiões e das secções são distribuídas aos respectivos membros inscritos.
+Art. 83.º O Boletim Informativo Nacional é distribuído a todos os membros da Ordem e as publicações análogas das regiões e das secções são distribuídas aos respectivos membros inscritos.
 
 ### CAPÍTULO IX — Receitas e despesas
 
-###### Art. 84.º Constituem receitas dos órgãos nacionais da Ordem:
+Art. 84.º Constituem receitas dos órgãos nacionais da Ordem:
 
 a) Uma percentagem da quotização cobrada pelas regiões, a fixar pela assembleia de representantes;
 
@@ -1020,7 +1037,7 @@ f) Os rendimentos dos bens que lhes estejam afectos;
 
 g) Os juros dos dinheiros depositados.
 
-###### Art. 85.º Constituem receitas dos órgãos das regiões e das secções:
+Art. 85.º Constituem receitas dos órgãos das regiões e das secções:
 
 a) O produto das jóias pagas pelos respectivos membros inscritos;
 
@@ -1036,23 +1053,23 @@ f) Os rendimentos dos bens que lhes estejam afectos;
 
 g) Os juros dos dinheiros depositados.
 
-###### Art. 86.º As despesas de deslocação ocasionadas pelo funcionamento dos órgãos nacionais são de conta do conselho directivo nacional, com excepção das despesas respeitantes aos membros das secções, as quais são da responsabilidade das mesmas.
+Art. 86.º As despesas de deslocação ocasionadas pelo funcionamento dos órgãos nacionais são de conta do conselho directivo nacional, com excepção das despesas respeitantes aos membros das secções, as quais são da responsabilidade das mesmas.
 
-###### Art. 87.º As despesas com a realização dos congressos são da conta dos órgãos nacionais.
+Art. 87.º As despesas com a realização dos congressos são da conta dos órgãos nacionais.
 
 ### CAPÍTULO X — Acção disciplinar
 
-###### Art. 88.º A acção disciplinar da Ordem é exercida independentemente de qualquer outra e deverá reger-se pelo presente Estatuto e pelo regulamento disciplinar.
+Art. 88.º A acção disciplinar da Ordem é exercida independentemente de qualquer outra e deverá reger-se pelo presente Estatuto e pelo regulamento disciplinar.
 
-###### Art. 89.º O exercício da acção disciplinar compete aos conselhos disciplinares das regiões e secções, ao conselho jurisdicional e ao conselho directivo nacional.
+Art. 89.º O exercício da acção disciplinar compete aos conselhos disciplinares das regiões e secções, ao conselho jurisdicional e ao conselho directivo nacional.
 
-###### Art. 90.º Para os efeitos decorrentes deste Estatuto, considera-se infracção disciplinar o acto intencional praticado por qualquer membro da Ordem com violação de deveres consignados no Estatuto, no código deontológico e nos regulamentos.
+Art. 90.º Para os efeitos decorrentes deste Estatuto, considera-se infracção disciplinar o acto intencional praticado por qualquer membro da Ordem com violação de deveres consignados no Estatuto, no código deontológico e nos regulamentos.
 
-###### Art. 91.º - 1 - O pedido de cancelamento de inscrição não faz cessar a responsabilidade disciplinar.
+Art. 91.º - 1 - O pedido de cancelamento de inscrição não faz cessar a responsabilidade disciplinar.
 
 2 - As infracções disciplinares prescrevem no prazo de 5 anos, se constituírem conjuntamente infracções penais, prescrevem no mesmo prazo que o procedimento judicial, se este for superior àquele.
 
-###### Art. 92.º - 1 - As penas disciplinares aplicáveis são as seguintes:
+Art. 92.º - 1 - As penas disciplinares aplicáveis são as seguintes:
 
 a) Advertência;
 
@@ -1064,45 +1081,45 @@ d) Expulsão.
 
 2 - A aplicação das penas referidas nas alíneas b), c) e d) do número anterior a um membro que exerça algum cargo nos órgãos da Ordem implica a demissão desse cargo.
 
-###### Art. 93.º Das decisões tomadas conjuntamente pelo conselho jurisdicional e pelo conselho directivo nacional não cabe recurso no âmbito da Ordem.
+Art. 93.º Das decisões tomadas conjuntamente pelo conselho jurisdicional e pelo conselho directivo nacional não cabe recurso no âmbito da Ordem.
 
 ### CAPÍTULO XI — Regulamentos
 
-###### Art. 94.º O regulamento disciplinar, cuja elaboração e revisões competem ao conselho jurisdicional, é aprovado pela assembleia de representantes.
+Art. 94.º O regulamento disciplinar, cuja elaboração e revisões competem ao conselho jurisdicional, é aprovado pela assembleia de representantes.
 
-###### Art. 95.º O regulamento de admissão e qualificação, cuja elaboração e revisão competem à respectiva comissão, é aprovado pela assembleia de representantes.
+Art. 95.º O regulamento de admissão e qualificação, cuja elaboração e revisão competem à respectiva comissão, é aprovado pela assembleia de representantes.
 
-###### Art. 96.º O regulamento de funcionamento da assembleia de representantes, cuja elaboração compete ao conselho directivo nacional, será aprovado por aquela assembleia.
+Art. 96.º O regulamento de funcionamento da assembleia de representantes, cuja elaboração compete ao conselho directivo nacional, será aprovado por aquela assembleia.
 
-###### Art. 97.º Os regulamentos de funcionamento do conselho directivo nacional, do conselho fiscal nacional, do conselho jurisdicional e da comissão de admissão e qualificação serão elaborados pelos próprios órgãos e aprovados pela assembleia de representantes.
+Art. 97.º Os regulamentos de funcionamento do conselho directivo nacional, do conselho fiscal nacional, do conselho jurisdicional e da comissão de admissão e qualificação serão elaborados pelos próprios órgãos e aprovados pela assembleia de representantes.
 
-###### Art. 98.º Os regulamentos que definem as condições de funcionamento das assembleias regionais, cuja elaboração e revisões competem às respectivas mesas, são aprovados pelas respectivas assembleias regionais, devendo qualquer revisão sujeitar-se a idênticos trâmites.
+Art. 98.º Os regulamentos que definem as condições de funcionamento das assembleias regionais, cuja elaboração e revisões competem às respectivas mesas, são aprovados pelas respectivas assembleias regionais, devendo qualquer revisão sujeitar-se a idênticos trâmites.
 
-###### Art. 99.º As condições de exercício dos conselhos directivos, dos conselhos fiscais e dos conselhos disciplinares das regiões e secções são fixadas por regulamentos a elaborar pelo respectivo órgão e a aprovar pelas respectivas assembleias regionais.
+Art. 99.º As condições de exercício dos conselhos directivos, dos conselhos fiscais e dos conselhos disciplinares das regiões e secções são fixadas por regulamentos a elaborar pelo respectivo órgão e a aprovar pelas respectivas assembleias regionais.
 
-###### Art. 100.º Os regulamentos de funcionamento das comissões culturais e das comissões das especialidades são por elas elaborados e aprovados pelos respectivos conselhos directivos.
+Art. 100.º Os regulamentos de funcionamento das comissões culturais e das comissões das especialidades são por elas elaborados e aprovados pelos respectivos conselhos directivos.
 
-###### Art. 101.º O regulamento de eleições e referendos, cuja elaboração compete ao conselho directivo nacional, deverá ser apresentado para aprovação à assembleia de representantes no prazo de 180 dias a contar da data da entrada em vigor do presente Estatuto.
+Art. 101.º O regulamento de eleições e referendos, cuja elaboração compete ao conselho directivo nacional, deverá ser apresentado para aprovação à assembleia de representantes no prazo de 180 dias a contar da data da entrada em vigor do presente Estatuto.
 
 ### CAPÍTULO XII — Alterações do Estatuto
 
-###### Art. 102.º O presente Estatuto só pode ser alterado em resultado de referendo realizado nos termos do disposto nos artigos 68.º e seguintes.
+Art. 102.º O presente Estatuto só pode ser alterado em resultado de referendo realizado nos termos do disposto nos artigos 68.º e seguintes.
 
 ### CAPÍTULO XIII — Dissolução da Ordem
 
-###### Art. 103.º A dissolução da Ordem só pode verificar-se em resultado de referendo realizado nos termos do disposto nos artigos 68.º e seguintes.
+Art. 103.º A dissolução da Ordem só pode verificar-se em resultado de referendo realizado nos termos do disposto nos artigos 68.º e seguintes.
 
-###### Art. 104.º O referendo previsto no artigo anterior apenas poderá ser considerado conducente à dissolução da Ordem se se pronunciarem expressamente nesse sentido mais de metade dos membros efectivos inscritos nos cadernos eleitorais.
+Art. 104.º O referendo previsto no artigo anterior apenas poderá ser considerado conducente à dissolução da Ordem se se pronunciarem expressamente nesse sentido mais de metade dos membros efectivos inscritos nos cadernos eleitorais.
 
 ### CAPÍTULO XIV — Disposições transitórias
 
-###### Art. 105.º Mantêm a sua categoria e qualificação todos os membros da Ordem actualmente inscritos.
+Art. 105.º Mantêm a sua categoria e qualificação todos os membros da Ordem actualmente inscritos.
 
-###### Art. 106.º - 1 - Até aprovação de novos regulamentos, continuam válidos, na medida do aplicável, os regulamentos que têm vigorado.
+Art. 106.º - 1 - Até aprovação de novos regulamentos, continuam válidos, na medida do aplicável, os regulamentos que têm vigorado.
 
 2 - Consideram-se ainda em vigor as disposições anteriormente contidas no Estatuto, que passam a ser abrangidas por regulamentos próprios até que os mesmos sejam aprovados, na medida em que as mesmas não contrariem este Estatuto.
 
-###### Art. 107.º - 1 - Após a entrada em vigor do Estatuto, mantêm-se em funções, até ao fim do mandato, os seguintes órgãos:
+Art. 107.º - 1 - Após a entrada em vigor do Estatuto, mantêm-se em funções, até ao fim do mandato, os seguintes órgãos:
 
 a) Presidente nacional;
 

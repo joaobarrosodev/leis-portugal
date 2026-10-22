@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1971-644556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 375ccd767fa9446be48aeb4d4808bd8d14abc7bc757a1ed55d86c05f3609fd70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ca3790b18d642fc6d16fb73c37d4a0417bbbf3842f0e06693460ec190e44781
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ACTO Extrajudicial
+- ACTO Judicial
+- Convenção
+- Direito Civil
+- Direito Comercial
+- HAIA
+- Notificação
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:643344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643344:por
+  label: "Tornado extensivo às províncias ultramarinas o presente diploma pela PORT.325/71.19.06.1971.MU, DG.IS [143] de 19.06.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/325-1971-643344
+  date: '1971-06-19'
+- type: amended_by
+  target: pt:dre:662085:por
+  label: "Tornada pública a extensão a Macau da Convenção aprovada para ratificação pelo presente diploma, pelo AV.265/99.1999.04.28.MNE,\
+    \ DR.IS-A [296] de 22/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/265-1999-662085
+  date: '1999-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:42Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +111,15 @@ de 18 de Maio
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Relativa à Citação e à Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matérias Civil e Comercial, concluída na Haia aos 15 de Novembro de 1965, cujos original em francês e tradução em português estão anexos ao presente decreto-lei.
+Artigo único. É aprovada para ratificação a Convenção Relativa à Citação e à Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matérias Civil e Comercial, concluída na Haia aos 15 de Novembro de 1965, cujos original em francês e tradução em português estão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 24 de Março de 1971.**
+Promulgado em 24 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convention Relative à la Signification et la Notification à l'Étranger dos Actes Judiciaires et Extrajudiciaires en Matière Civile ou Commerciale.
 
@@ -385,7 +405,7 @@ ANNEXE À LA CONVENTION
 
 Formules de demande et d'attestation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/11600/07490757.pdf))](https://files.diariodarepublica.pt/1s/1971/05/11600/07490757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/11600/07490757.pdf)
 
 Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matérias Civil e Comercial.
 
@@ -657,4 +677,4 @@ Feita na Haia, aos 15 de Novembro de 1965, em francês e inglês, fazendo os doi
 
 ## ANEXO À CONVENÇÃO — Fórmulas de pedido e certificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/11600/07490757.pdf))](https://files.diariodarepublica.pt/1s/1971/05/11600/07490757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/11600/07490757.pdf)

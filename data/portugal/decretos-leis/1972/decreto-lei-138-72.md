@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1972-679869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce0c1c25dcdba2e1d8d28d417183eee5facba55b1df12ce4bf402982184f9243
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9b98cb9e9b28b7917b5abfb6cd7700be972bc6bedd9cd04c270e81e19a1ae18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Turismo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:426693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329001:por
+  label: "Alterado, no referente à remuneração dos lugares de chefe de serviço, o quadro do pessoal do Fundo de Turismo pela\
+    \ PORT.607/78.03.10.1978.MFP, DR.IS [228] de 03.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/607-1978-329001
+  date: '1978-10-03'
+- type: amended_by
+  target: pt:dre:374627:por
+  label: Alterado o quadro de pessoal anexo ao presente diploma, pelo(a) Portaria n.º 829/82 - Diário da República n.º 201/1982,
+    Série I de 1982-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/829-1982-374627
+  date: '1982-08-31'
+- type: amended_by
+  target: pt:dre:183615:por
+  label: "Criado um lugar no quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.491/85.20.07.1985.PCM,\
+    \ DR.IS [165] de 20.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/491-1985-183615
+  date: '1985-07-20'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426693:por
+  label: "Revogado, mantendo-se em vigor as disposições que o regulamentam até à data da entrada em vigor dos novos regulamentos,\
+    \ pelo DEC LEI.308/99.1999.08.10.MECO, DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1999-426693
+  date: '1999-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:21Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +132,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Fundo de Turismo dispõe dos seguintes serviços:
+Artigo 1.º - 1. O Fundo de Turismo dispõe dos seguintes serviços:
 
 a) Serviços de Estudo Técnico e Análise Económica;
 
@@ -104,13 +142,13 @@ c) Serviços Administrativos.
 
 2. A organização interna dos serviços será fixada pela comissão administrativa, sob proposta do director.
 
-###### Art. 2.º Compete especialmente aos Serviços de Estudo Técnico e Análise Económica:
+Art. 2.º Compete especialmente aos Serviços de Estudo Técnico e Análise Económica:
 
 a) O estudo dos custos dos empreendimentos financiados e da sua rentabilidade;
 
 b) A elaboração de estudos económicos e a realização de vistorias, exames e demais diligências que forem necessárias para a fiscalização das operações mutuadas directamente pelo Fundo ou em que este intervenha como fiador.
 
-###### Art. 3.º Compete especialmente aos Serviços Financeiros:
+Art. 3.º Compete especialmente aos Serviços Financeiros:
 
 a) Assegurar o apoio executivo à programação da assistência financeira do Fundo, através da organização dos correspondentes processos de concessão, de formalização das operações e sua garantia, bem como do registo e contabilização dos financiamentos concedidos e fianças prestadas;
 
@@ -118,59 +156,59 @@ b) Efectuar as diligências e executar o expediente necessários ao reembolso e 
 
 c) Proceder à análise da situação financeira dos mutuários, efectuando os necessários exames contabilísticos.
 
-###### Art. 4.º Compete especialmente aos Serviços Administrativos:
+Art. 4.º Compete especialmente aos Serviços Administrativos:
 
 a) Assegurar os serviços de pessoal, expediente, arquivo, economato e contabilidade;
 
 b) Tomar a seu cargo a conservação das instalações do Fundo.
 
-###### Art. 5.º - 1. O Fundo de Turismo disporá do pessoal constante do quadro anexo ao presente diploma e suportará os respectivos encargos.
+Art. 5.º - 1. O Fundo de Turismo disporá do pessoal constante do quadro anexo ao presente diploma e suportará os respectivos encargos.
 
 2. A distribuição do pessoal pelos Serviços do Fundo compete ao director.
 
-###### Art. 6.º Os lugares de director e de chefe dos Serviços Financeiros serão providos, por escolha do Secretário de Estado da Informação e Turismo, entre indivíduos de reconhecida competência, diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 6.º Os lugares de director e de chefe dos Serviços Financeiros serão providos, por escolha do Secretário de Estado da Informação e Turismo, entre indivíduos de reconhecida competência, diplomados com curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 7.º - 1. A chefia dos Serviços Administrativos será exercida pelo director do Fundo.
+Art. 7.º - 1. A chefia dos Serviços Administrativos será exercida pelo director do Fundo.
 
 2. Quando o julgue conveniente, poderá o Secretário de Estado da Informação e Turismo determinar o preenchimento do lugar de chefe dos Serviços Administrativos, com observância do disposto no artigo anterior, ou mediante escolha entre os chefes de secção dos serviços do Fundo, com boas informações de serviço e pelo menos três anos de exercício efectivo nessa categoria.
 
 3. A chefia dos Serviços de Estudo Técnico e Análise Económica será exercida por um dos técnicos de 1.ª classe designado pelo director do Fundo.
 
-###### Art. 8.º Os lugares de engenheiro civil de 2.ª classe, técnico economista de 2.ª classe e jurista de 2.ª classe serão providos, por escolha do Secretário de Estado da Informação e Turismo, sob proposta da Comissão Administrativa, entre diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 8.º Os lugares de engenheiro civil de 2.ª classe, técnico economista de 2.ª classe e jurista de 2.ª classe serão providos, por escolha do Secretário de Estado da Informação e Turismo, sob proposta da Comissão Administrativa, entre diplomados com curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 9.º Os lugares de técnico auxiliar contabilista de 2.ª classe e de agente técnico de engenharia de 2.ª classe serão providos, por escolha do Secretário de Estado da Informação e Turismo, sob proposta da comissão administrativa, entre diplomados com curso médio adequado ao exercício das respectivas funções.
+Art. 9.º Os lugares de técnico auxiliar contabilista de 2.ª classe e de agente técnico de engenharia de 2.ª classe serão providos, por escolha do Secretário de Estado da Informação e Turismo, sob proposta da comissão administrativa, entre diplomados com curso médio adequado ao exercício das respectivas funções.
 
-###### Art. 10.º Nos lugares a que correspondam alternativamente duas classes os funcionários respectivos serão providos na classe superior ao fim de três anos de bom e efectivo serviço na classe de ingresso.
+Art. 10.º Nos lugares a que correspondam alternativamente duas classes os funcionários respectivos serão providos na classe superior ao fim de três anos de bom e efectivo serviço na classe de ingresso.
 
-###### Art. 11.º - 1. As nomeações para os cargos a que se referem os artigos 6.º a 9.º terão carácter provisório durante o prazo de dois anos, prorrogável por mais um ano, quando tal se mostre conveniente.
+Art. 11.º - 1. As nomeações para os cargos a que se referem os artigos 6.º a 9.º terão carácter provisório durante o prazo de dois anos, prorrogável por mais um ano, quando tal se mostre conveniente.
 
 2. Findo o período inicial, ou a sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Se o funcionário já tiver provimento definitivo noutro lugar, manterá o direito ao mesmo durante o prazo da nomeação provisória, que, nesse caso, será reduzido a um ano; entretanto, poderá aquele lugar ser provido interinamente.
 
-###### Art. 12.º Os lugares de pessoal administrativo e auxiliar consideram-se como fazendo parte do quadro do pessoal dos Serviços da Secretaria de Estado da Informação e Turismo.
+Art. 12.º Os lugares de pessoal administrativo e auxiliar consideram-se como fazendo parte do quadro do pessoal dos Serviços da Secretaria de Estado da Informação e Turismo.
 
-###### Art. 13.º - 1. As funções de engenheiro civil de 1.ª e 2.ª classes poderão ser exercidas em regime de tempo parcial, sendo em tais casos o provimento feito por contrato.
+Art. 13.º - 1. As funções de engenheiro civil de 1.ª e 2.ª classes poderão ser exercidas em regime de tempo parcial, sendo em tais casos o provimento feito por contrato.
 
 2. Quando as exigências do serviço obrigarem ao preenchimento de dois cargos, só um deles poderá ser exercido em regime de tempo parcial.
 
 3. O número de horas semanais de exercício de funções nesse regime não deverá ser inferior a dezoito, dentro do período normal de funcionamento dos serviços públicos.
 
-###### Art. 14.º - 1. O pessoal em serviço no Fundo de Turismo à data da publicação do presente diploma poderá ser provido nos lugares do quadro a que se refere o artigo 5.º, mediante lista aprovada pelo Secretário de Estado da Informação e Turismo e publicada no Diário do Governo, donde conste o lugar em que cada funcionário fica provido e a natureza do provimento.
+Art. 14.º - 1. O pessoal em serviço no Fundo de Turismo à data da publicação do presente diploma poderá ser provido nos lugares do quadro a que se refere o artigo 5.º, mediante lista aprovada pelo Secretário de Estado da Informação e Turismo e publicada no Diário do Governo, donde conste o lugar em que cada funcionário fica provido e a natureza do provimento.
 
 2. O provimento será feito em lugares idênticos, ou de categoria equivalente, aos actualmente ocupados, podendo, porém, ter carácter definitivo para o pessoal com mais de três anos de bom e efectivo serviço, sem prejuízo do disposto no artigo 26.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 3. O provimento do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de outras formalidades, salvo a anotação das respectivas situações pelo Tribunal de Contas.
 
-###### Art. 15.º - 1. O presente diploma entra em vigor no dia 1 de Maio de 1972.
+Art. 15.º - 1. O presente diploma entra em vigor no dia 1 de Maio de 1972.
 
 2. Poderá ser publicada antes daquela data, mas para produzir efeitos a partir da mesma, a lista a que se refere o n.º 1 do artigo anterior.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 
@@ -226,4 +264,4 @@ Pessoal auxiliar:
 
 (nota b) Transitòriamente, o quadro compreende cinco lugares, dos quais se extinguirá um, quando vagar.
 
-**O Presidente do Conselho, Marcello Caetano.**
+O Presidente do Conselho, Marcello Caetano.

@@ -47,40 +47,131 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a776838a16a72180832455abecba74d8a16ca678d5b419b5af108c087d2bfe9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e55a1d16b06b91a95fbba8e8079d80b437e447be170c193667a7c5174a3562c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Fundo Nacional de Abono de Família
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:310859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632745:por
+  label: "Alterados o corpo do art. 2º e o seu § 2º, assim como a guia do modelo A anexa pelo DEC LEI.410/71.27.09.1971.MCPS,\
+    \ DG.IS [228] de 27.09.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/410-1971-632745
+  date: '1971-09-27'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314902:por
+  label: "Revogado no referente aos financiamentos e comparticipações pelo Fundo do Desemprego o nº 4 do art. 2º do presente\
+    \ diploma pelo DEC LEI.461/75.25.08.1975.MAS, DG.IS [195] de 25.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/461-1975-314902
+  date: '1975-08-25'
+- type: repealed_by
+  target: pt:dre:278929:por
+  label: "Revogados os nos. 4º e 5º do art. 2º, nos. 3º, 4º e 7º do art. 5º ( no caso do nº7, é na parte respeitante à Comissão\
+    \ de Política Social Rural) e arts. 6º a 11º pelo DEC LEI.425/77.11.10.1977.MAS, DR.IS [235] de 11.10.1977\077\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/425-1977-278929
+  date: '1977-10-11'
+- type: repealed_by
+  target: pt:dre:310859:por
+  label: "Revogado o nº 3 do art. 2º (com a redacção constante do Dec Lei 410/71 de 27-Set) pelo DEC LEI.89/83.1983.02.12.MAS,\
+    \ DR.IS [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1983-310859
+  date: '1983-02-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:39Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +194,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Fundo Nacional do Abono de Família (F. N. A. F.), criado por força do artigo 24.º do [Decreto-Lei n.º 32192](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32192-1942-315169), de 13 de Agosto de 1942, integrado na Direcção-Geral da Previdência e Habitações Económicas pelo [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 de Dezembro de 1948, tem por objectivo fundamental a compensação entre os resultados das gerências da modalidade «Abono de família», assegurada através das instituições de previdência da primeira categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e das caixas de abono de família.
+Artigo 1.º O Fundo Nacional do Abono de Família (F. N. A. F.), criado por força do artigo 24.º do [Decreto-Lei n.º 32192](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32192-1942-315169), de 13 de Agosto de 1942, integrado na Direcção-Geral da Previdência e Habitações Económicas pelo [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 de Dezembro de 1948, tem por objectivo fundamental a compensação entre os resultados das gerências da modalidade «Abono de família», assegurada através das instituições de previdência da primeira categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e das caixas de abono de família.
 
 § 1.º A compensação a que se refere este artigo efectua-se através da fixação, para todas as instituições, de iguais taxas de contribuição e tabela de abono de família, mediante a transferência para o F. N. A. F. dos saldos positivos das gerências da modalidade «Abono de família», das caixas de previdência e abono de família e das caixas de abono de família e, pela cobertura do excesso das despesas sobre as receitas dessa modalidade, naquelas em que tal facto se verificar.
 
@@ -123,7 +214,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 9.º Compete à Inspecção da Previdência Social a verificação, sempre que necessária, do preceituado no presente artigo e seus parágrafos.
 
-###### Art. 2.º Constituem receitas do Fundo:
+Art. 2.º Constituem receitas do Fundo:
 
 1.º Os saldos positivos de gerência das caixas de abono de família;
 
@@ -155,11 +246,11 @@ As importâncias provenientes das multas aplicadas pelos tribunais do trabalho s
 
 § 4.º O aumento a que se refere o n.º 3.º deste artigo é isento da percentagem para o Fundo de Desemprego e de qualquer outro encargo fiscal.
 
-###### Art. 3.º No depósito das receitas previstas nos §§ 2.º e 3.º do artigo antecedente, as importâncias serão sempre arredondadas por excesso, em escudos, qualquer que seja o seu quantitativo, podendo, quando realizado na sede da Caixa Geral de Depósitos, Crédito e Previdência e na sua filial do Porto, ser feito por meio de cheques sobre a própria praça.
+Art. 3.º No depósito das receitas previstas nos §§ 2.º e 3.º do artigo antecedente, as importâncias serão sempre arredondadas por excesso, em escudos, qualquer que seja o seu quantitativo, podendo, quando realizado na sede da Caixa Geral de Depósitos, Crédito e Previdência e na sua filial do Porto, ser feito por meio de cheques sobre a própria praça.
 
 § único. Os cheques a que se refere este artigo serão recebidos como dinheiro e os que vierem a ser reconhecidos incobráveis serão debitados, sem necessidade de protesto, na conta do F. N. A. F. e enviados às estações processadoras da respectiva receita para o efeito de procedimento contra os responsáveis.
 
-###### Art. 4.º As guias dos depósitos efectuados a favor do F. N. A. F. são movimentadas do seguinte modo:
+Art. 4.º As guias dos depósitos efectuados a favor do F. N. A. F. são movimentadas do seguinte modo:
 
 1.º Um exemplar das guias respeitantes ao depósito dos saldos a que se refere o § 1.º do artigo 2.º deste decreto-lei será remetido directamente pelas instituições respectivas, no prazo de cinco dias a contar da data do pagamento, à Direcção-Geral da Previdência e Habitações Económicas.
 
@@ -173,7 +264,7 @@ As importâncias provenientes das multas aplicadas pelos tribunais do trabalho s
 
 § único. São isentas do imposto do selo as guias de depósito das importâncias destinadas ao F. N. A. F.
 
-###### Art. 5.º Constituem despesas do F. N. A. F., além das compreendidas no artigo 1.º deste decreto-lei, as seguintes:
+Art. 5.º Constituem despesas do F. N. A. F., além das compreendidas no artigo 1.º deste decreto-lei, as seguintes:
 
 1.º Os subsídios ou comparticipações nos termos do n.º 1 da base XIX da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, para atenuar os encargos resultantes dos empréstimos concedidos pelas instituições de previdência aos seus beneficiários;
 
@@ -189,9 +280,9 @@ As importâncias provenientes das multas aplicadas pelos tribunais do trabalho s
 
 7.º As comparticipações nos encargos derivados do funcionamento da Comissão de Política Social Rural, nos termos do artigo 7.º do [Decreto n.º 45734](https://diariodarepublica.pt/dr/detalhe/decreto/45734-1964-576705), de 27 de Maio de 1964, e a da Caixa Central de Segurança Social dos Trabalhadores Migrantes, nos termos do artigo 3.º do [Decreto-Lei n.º 46813](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46813-1965-508428), de 30 de Dezembro de 1965, na parte, em ambos os casos, respeitante ao F. N. A. F.
 
-###### Art. 6.º Os serviços do F. N. A. F., contabilidade e tesouraria serão executados pela Direcção-Geral da Previdência e Habitações Económicas, através da sua Repartição, competindo a respectiva administração a um conselho administrativo composto pelo director-geral, que presidirá, por um representante da Federação das Caixas de Previdência e Abono de Família e por um representante da Junta Central das Casas do Povo, servindo de secretário o chefe da 3.ª Repartição daquela Direcção-Geral.
+Art. 6.º Os serviços do F. N. A. F., contabilidade e tesouraria serão executados pela Direcção-Geral da Previdência e Habitações Económicas, através da sua Repartição, competindo a respectiva administração a um conselho administrativo composto pelo director-geral, que presidirá, por um representante da Federação das Caixas de Previdência e Abono de Família e por um representante da Junta Central das Casas do Povo, servindo de secretário o chefe da 3.ª Repartição daquela Direcção-Geral.
 
-###### Art. 7.º Ao conselho administrativo, que reunirá tantas vezes quantas as necessárias para assegurar a regular administração do F. N. A. F., compete em especial:
+Art. 7.º Ao conselho administrativo, que reunirá tantas vezes quantas as necessárias para assegurar a regular administração do F. N. A. F., compete em especial:
 
 1.º Dar parecer sobre o orçamento anual das receitas e das despesas e suas alterações;
 
@@ -203,13 +294,13 @@ As importâncias provenientes das multas aplicadas pelos tribunais do trabalho s
 
 § 2.º O director-geral da Previdência e Habitações Económicas outorgará, em representação do conselho administrativo e mediante autorização do Ministro das Corporações e Previdência Social, em todos os actos e contratos necessários à administração do F. N. A. F.
 
-###### Art. 8.º O director-geral da Previdência e Habitações Económicas, mediante autorização do Ministro das Corporações e Previdência Social, poderá delegar no director dos Serviços da Habitação Económica a sua competência para qualquer das funções que àquele respeitem no conselho administrativo.
+Art. 8.º O director-geral da Previdência e Habitações Económicas, mediante autorização do Ministro das Corporações e Previdência Social, poderá delegar no director dos Serviços da Habitação Económica a sua competência para qualquer das funções que àquele respeitem no conselho administrativo.
 
-###### Art. 9.º Para ocorrer aos encargos resultantes de missões e serviços especiais relacionados com o regime do abono de família, bem como aos relacionados com o funcionamento do conselho administrativo e a fiscalização dos descontos para o F. N. A. F., poderá a Direcção-Geral da Previdência e Habitações Económicas despender anualmente uma verba não superior a 5 por cento da receita provável daquele Fundo.
+Art. 9.º Para ocorrer aos encargos resultantes de missões e serviços especiais relacionados com o regime do abono de família, bem como aos relacionados com o funcionamento do conselho administrativo e a fiscalização dos descontos para o F. N. A. F., poderá a Direcção-Geral da Previdência e Habitações Económicas despender anualmente uma verba não superior a 5 por cento da receita provável daquele Fundo.
 
-###### Art. 10.º A competência do conselho administrativo para autorizar as despesas inscritas no orçamento do F. N. A. F. é igual à que estiver fixada na lei para os directores-gerais, relativamente ao Orçamento Geral do Estado, carecendo de despacho do Ministro das Corporações e Previdência Social todas as restantes despesas superiores ao limite que estiver fixado para aqueles.
+Art. 10.º A competência do conselho administrativo para autorizar as despesas inscritas no orçamento do F. N. A. F. é igual à que estiver fixada na lei para os directores-gerais, relativamente ao Orçamento Geral do Estado, carecendo de despacho do Ministro das Corporações e Previdência Social todas as restantes despesas superiores ao limite que estiver fixado para aqueles.
 
-###### Art. 11.º No que se relaciona com a administração e serviços do F. N. A. F., compete em especial à 3.ª Repartição da Direcção-Geral da Previdência e Habitações Económicas:
+Art. 11.º No que se relaciona com a administração e serviços do F. N. A. F., compete em especial à 3.ª Repartição da Direcção-Geral da Previdência e Habitações Económicas:
 
 1.º Organizar anualmente um orçamento das receitas e despesas do F. N. A. F., com base nas médias arrecadadas e despendidas nos últimos três anos, devidamente corrigidas com as previsões, para ser submetido à aprovação do Ministro das Corporações e Previdência Social, até ao dia 15 de Dezembro do ano anterior àquele a que respeita;
 
@@ -219,9 +310,9 @@ As importâncias provenientes das multas aplicadas pelos tribunais do trabalho s
 
 § único. As instituições referidas nos artigos 1.º e 16.º devem fornecer, até 15 de Novembro de cada ano, os elementos solicitados pela 3.ª Repartição da Direcção-Geral da Previdência e Habitações Económicas, considerados necessários à regular elaboração do orçamento previsto neste artigo, bem como todas as informações que interessem à preparação do relatório e contas anual, quando lhes forem pedidas.
 
-###### Art. 12.º As entidades patronais que prestarem declarações falsas ou incompletas serão punidas com a multa de 200$00 a 3000$00.
+Art. 12.º As entidades patronais que prestarem declarações falsas ou incompletas serão punidas com a multa de 200$00 a 3000$00.
 
-###### Art. 13.º As infracções ao disposto no § 2.º do artigo 2.º deste decreto-lei serão punidas com a multa de 10 a 50 por cento do montante das contribuições devidas, não podendo aquela multa ser inferior a 200$00.
+Art. 13.º As infracções ao disposto no § 2.º do artigo 2.º deste decreto-lei serão punidas com a multa de 10 a 50 por cento do montante das contribuições devidas, não podendo aquela multa ser inferior a 200$00.
 
 § 1.º Quando não seja possível determinar o quantitativo da multa prevista neste artigo, tomar-se-ão por base as últimas contribuições pagas.
 
@@ -229,28 +320,28 @@ As importâncias provenientes das multas aplicadas pelos tribunais do trabalho s
 
 § 3.º A liquidação e o pagamento das contribuições devidas serão feitos simultâneamente com os da respectiva multa.
 
-###### Art. 14.º A reincidência será punida nos termos da legislação penal de carácter geral, mas em caso algum a multa imposta ao reincidente poderá ser inferior ao dobro da multa paga pela primeira infracção.
+Art. 14.º A reincidência será punida nos termos da legislação penal de carácter geral, mas em caso algum a multa imposta ao reincidente poderá ser inferior ao dobro da multa paga pela primeira infracção.
 
 § único. Para o efeito de reincidência, apenas se atenderá às condenações e ao pagamento voluntário das multas em juízo.
 
-###### Art. 15.º Para o efeito da graduação da multa deverá atender-se à natureza e gravidade da infracção, à situação económica do infractor e ao número total de empregados e assalariados normalmente ao seu serviço.
+Art. 15.º Para o efeito da graduação da multa deverá atender-se à natureza e gravidade da infracção, à situação económica do infractor e ao número total de empregados e assalariados normalmente ao seu serviço.
 
-###### Art. 16.º Enquanto não forem integradas na nova estrutura da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, é aplicável às caixas sindicais de previdência e às caixas de reforma ou de previdência e suas federações, criadas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, o disposto no artigo 1.º deste decreto-lei.
+Art. 16.º Enquanto não forem integradas na nova estrutura da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, é aplicável às caixas sindicais de previdência e às caixas de reforma ou de previdência e suas federações, criadas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, o disposto no artigo 1.º deste decreto-lei.
 
 § único. Os subsídios concedidos pelo F. N. A. F. à extinta Serviços Médico-Sociais - Federação de Caixas de Previdência, para acção médico-social nos meios rurais, consideram-se, na sua aplicação, abrangidos nas disposições do artigo 1.º do presente decreto-lei.
 
-###### Art. 17.º Ficam revogados o artigo 12.º do [Decreto n.º 35457](https://diariodarepublica.pt/dr/detalhe/decreto/35457-1946-310200), de 19 de Janeiro de 1946, o [Decreto n.º 37739](https://diariodarepublica.pt/dr/detalhe/decreto/37739-1950-659711), de 20 de Janeiro de 1950, e o n.º 4.º do artigo 13.º do [Decreto-Lei n.º 41286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41286-1957-254674), de 23 de Setembro de 1957.
+Art. 17.º Ficam revogados o artigo 12.º do [Decreto n.º 35457](https://diariodarepublica.pt/dr/detalhe/decreto/35457-1946-310200), de 19 de Janeiro de 1946, o [Decreto n.º 37739](https://diariodarepublica.pt/dr/detalhe/decreto/37739-1950-659711), de 20 de Janeiro de 1950, e o n.º 4.º do artigo 13.º do [Decreto-Lei n.º 41286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41286-1957-254674), de 23 de Setembro de 1957.
 
-###### Art. 18.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1969, sem prejuízo da imediata aplicação do disposto nos artigos 1.º e 16.º
+Art. 18.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1969, sem prejuízo da imediata aplicação do disposto nos artigos 1.º e 16.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.
 
 Modelo A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/22500/14831486.pdf))](https://files.diariodarepublica.pt/1s/1968/09/22500/14831486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/22500/14831486.pdf)
 
 Modelo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/22500/14831486.pdf))](https://files.diariodarepublica.pt/1s/1968/09/22500/14831486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/22500/14831486.pdf)

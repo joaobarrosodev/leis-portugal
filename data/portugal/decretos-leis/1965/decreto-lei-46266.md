@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46266-1965-237129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82f1ae48b849ec7ffc173114fbd1db83624e767f911b9b686b1d6cb1d88bcba0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f720c85cbb78e084d7568125fc6f0973d5a74c3d088e9415f1f469ef2b58bfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Convenção
+- Dinamarca
+- EFTA
+- Portugal
+- Produto Agrícola
+relationships:
+- type: corrected_by
+  target: pt:dre:294133:por
+  label: "Rectificado o art. 3º do Acordo, aprovado para ratificação pelo presente diploma, pela RECT.DD750.14.05.1965.PC,\
+    \ DG.IS [107] de 14.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-294133
+  date: '1965-05-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:44Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +97,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre o Governo de Portugal e o Governo do Reino da Dinamarca sobre o comércio de produtos agrícolas no quadro da Associação Europeia de Comércio Livre, cujos textos em inglês e respectiva tradução portuguesa vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo entre o Governo de Portugal e o Governo do Reino da Dinamarca sobre o comércio de produtos agrícolas no quadro da Associação Europeia de Comércio Livre, cujos textos em inglês e respectiva tradução portuguesa vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -109,25 +121,25 @@ ARTICLE 1
 
 Notwithstanding the provisions of Article 21 of the Convention, the Government of the Kingdom of Denmark shall reduce and eliminate the customs duties according to the timetable of Article 3 of the Convention for the following agricultural goods, provided that they may be accepted as eligible for Area tariff treatment in accord ance with Article 4 of the Convention:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ARTICLE 2
 
 As long as quantitative restrictions are applied in Denmark to imports of wine the Government of the Kingdom of Denmark shall grant import licenses to the following annual amount for wines of Portuguese origin consigned from Portugal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ARTICLE 3
 
 Notwithstanding the provisions of Article 21 of the Convention the Government of Portugal shall reduce and eliminate customs duties according to the timetable set out in Annex G to the Convention for the following agricultural goods, provided that they may be accepted as eligible for Area tariff treatment in accordance with Article 4 of the Convention:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ARTICLE 4
 
 1. As long as quatitatives import restrictions are applied in Portugal to the following goods the Portuguese Government shall grant import licenses for the following annual quantitis for import from Denmark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ARTICLE 5
 
@@ -245,25 +257,25 @@ Acordaram no seguinte:
 
 Não obstante as disposições do artigo 21 da Convenção, o Governo do Reino da Dinamarca reduzirá e eliminará os direitos alfandegários, nos termos do calendário a que se refere o artigo 3 da Convenção, com referência aos produtos agrícolas a seguir indicados, desde que estes possam ser considerados como susceptíveis de beneficiar do regime pautal da Área, de harmonia com o artigo 4 da Convenção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ###### ARTIGO 2
 
 Enquanto na Dinamarca forem aplicadas restrições quantitativas às importações de vinho, o Governo do Reino da Dinamarca concederá licenças de importação para as seguintes quantidades anuais de vinhos de origem portuguesa exportados de Portugal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ###### ARTIGO 3
 
 Não obstante as disposições do artigo 12 da Convenção, o Governo Português reduzirá e eliminará os direitos alfandegários, nos termos do calendário estabelecido no Anexo G da Convenção, com referência aos produtos agrícolas a seguir indicados, desde que estes possam ser considerados como susceptíveis de beneficiar do regime pautal da Área, de harmonia com o artigo 4 da Convenção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ###### ARTIGO 4
 
 Enquanto vigorarem em Portugal restrições quantitativas para as importações dos produtos a seguir mencionados, o Governo Português concederá licenças para importação da Dinamarca até às seguintes quantidades anuais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04070411.pdf)
 
 ###### ARTIGO 5
 

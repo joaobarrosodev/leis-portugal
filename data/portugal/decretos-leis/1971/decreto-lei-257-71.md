@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 139/1971, 1º Suplemento, Série I de 1971-06-15
   number: '139'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 882-(1) a 882-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf
 entry_into_force_dates: []
@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1971-487341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3257bfca1437bc1e98a9dd1e2d5a47257fd82b69f9f209444d4080c0a8845b85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54be024351b82e1aaa524e1bf324c47f53a5b65c7c0cfdd9fb48feab5307cb62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Portugal
+- Serviço Postal
+- União Postal Universal
+relationships:
+- type: cites
+  target: pt:dre:253048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:02Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +96,15 @@ de 15 de Junho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação o Protocolo Adicional da Constituição da União Postal Universal, aprovada pelo [Decreto-Lei n.º 47597](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47597-1967-253048), de 21 de Março de 1967, a Convenção Postal Universal e respectivo Protocolo final, assinados no XVI Congresso da referida União, celebrado em Tóquio em 1969, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. São aprovados, para ratificação o Protocolo Adicional da Constituição da União Postal Universal, aprovada pelo [Decreto-Lei n.º 47597](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47597-1967-253048), de 21 de Março de 1967, a Convenção Postal Universal e respectivo Protocolo final, assinados no XVI Congresso da referida União, celebrado em Tóquio em 1969, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 19 de Maio de 1971.**
+Promulgado em 19 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -230,39 +238,39 @@ CHAPITRE I
 
 Dispositions générales
 
-###### Art. 1. Liberté de transit.
+Art. 1. Liberté de transit.
 
-###### Art. 2. Inobservation de la liberté de transit.
+Art. 2. Inobservation de la liberté de transit.
 
-###### Art. 3. Suspension temporaire de services.
+Art. 3. Suspension temporaire de services.
 
-###### Art. 4. Appartenance des envois postaux.
+Art. 4. Appartenance des envois postaux.
 
-###### Art. 5. Taxes.
+Art. 5. Taxes.
 
-###### Art. 6. Equivalents.
+Art. 6. Equivalents.
 
-###### Art. 7. Timbres-poste.
+Art. 7. Timbres-poste.
 
-###### Art. 8. Formules.
+Art. 8. Formules.
 
-###### Art. 9. Cartes d'identité postales.
+Art. 9. Cartes d'identité postales.
 
-###### Art. 10. Règlements des comptes.
+Art. 10. Règlements des comptes.
 
-###### Art. 11. Engagements relatifs aux mesures pénales.
+Art. 11. Engagements relatifs aux mesures pénales.
 
 CHAPITRE II
 
 Franchises postales
 
-###### Art. 12. Franchise postale.
+Art. 12. Franchise postale.
 
-###### Art. 13. Franchise postale concernant les envois de la poste aux lettres relatifs au service postal.
+Art. 13. Franchise postale concernant les envois de la poste aux lettres relatifs au service postal.
 
-###### Art. 14. Franchise postale en faveur des envois concernant les prisonniers de guerre et les internés civils.
+Art. 14. Franchise postale en faveur des envois concernant les prisonniers de guerre et les internés civils.
 
-###### Art. 15. Franchise postale en faveur des cécogrammes.
+Art. 15. Franchise postale en faveur des cécogrammes.
 
 DEUXIÈME PARTIE
 
@@ -272,93 +280,93 @@ CHAPITRE I
 
 Dispositions générales
 
-###### Art. 16. Envois de la poste aux lettres.
+Art. 16. Envois de la poste aux lettres.
 
-###### Art. 17. Taxes et conditions générales.
+Art. 17. Taxes et conditions générales.
 
-###### Art. 18. Taxes spéciales.
+Art. 18. Taxes spéciales.
 
-###### Art. 19. Taxe de dépôt en dernière limite d'heure. Taxe de poste restante. Taxe de remise des petits paquets.
+Art. 19. Taxe de dépôt en dernière limite d'heure. Taxe de poste restante. Taxe de remise des petits paquets.
 
-###### Art. 20. Taxe de magasinage.
+Art. 20. Taxe de magasinage.
 
-###### Art. 21. Affranchissement.
+Art. 21. Affranchissement.
 
-###### Art. 22. Modalités d'affranchissement.
+Art. 22. Modalités d'affranchissement.
 
-###### Art. 23. Affranchissements des envois de la poste aux lettres à bord des navires.
+Art. 23. Affranchissements des envois de la poste aux lettres à bord des navires.
 
-###### Art. 24. Taxe en cas d'absence ou d'insuffisance d'affranchissement.
+Art. 24. Taxe en cas d'absence ou d'insuffisance d'affranchissement.
 
-###### Art. 25. Coupons-réponse internationaux.
+Art. 25. Coupons-réponse internationaux.
 
-###### Art. 26. Envois exprès.
+Art. 26. Envois exprès.
 
-###### Art. 27. Retrait. Modification ou correction d'adresse.
+Art. 27. Retrait. Modification ou correction d'adresse.
 
-###### Art. 28. Réexpedition. Envois non distribuables.
+Art. 28. Réexpedition. Envois non distribuables.
 
-###### Art. 29. Interdictions.
+Art. 29. Interdictions.
 
-###### Art. 30. Objets passibles de droits de douane.
+Art. 30. Objets passibles de droits de douane.
 
-###### Art. 31. Contrôle douanier.
+Art. 31. Contrôle douanier.
 
-###### Art. 32. Taxe de dédouanement.
+Art. 32. Taxe de dédouanement.
 
-###### Art. 33. Droits de douane et autres droits.
+Art. 33. Droits de douane et autres droits.
 
-###### Art. 34. Envois francs de taxes et de droits.
+Art. 34. Envois francs de taxes et de droits.
 
-###### Art. 35. Annulation des droits de douane et autres droits.
+Art. 35. Annulation des droits de douane et autres droits.
 
-###### Art. 36. Réclamations et demandes de renseignements.
+Art. 36. Réclamations et demandes de renseignements.
 
 CHAPITRE II
 
 Envois recommandés
 
-###### Art. 37. Taxes.
+Art. 37. Taxes.
 
-###### Art. 38. Avis de réception.
+Art. 38. Avis de réception.
 
-###### Art. 39. Remise en main propre.
+Art. 39. Remise en main propre.
 
 CHAPITRE III
 
 Responsabilité
 
-###### Art. 40. Principe et étendue de la responsabilité des Administrations postales.
+Art. 40. Principe et étendue de la responsabilité des Administrations postales.
 
-###### Art. 41. Non-responsabilité des Administrations postales.
+Art. 41. Non-responsabilité des Administrations postales.
 
-###### Art. 42. Responsabilité de l'expéditeur.
+Art. 42. Responsabilité de l'expéditeur.
 
-###### Art. 43. Détermination de la responsabilité entre les Administrations postales.
+Art. 43. Détermination de la responsabilité entre les Administrations postales.
 
-###### Art. 44. Paiement de l'indemnité.
+Art. 44. Paiement de l'indemnité.
 
-###### Art. 45. Remboursement de l'indemnité à l'Administration ayant effectué le paiement.
+Art. 45. Remboursement de l'indemnité à l'Administration ayant effectué le paiement.
 
-###### Art. 46. Récupération éventuelle de l'indemnité sur l'expéditeur ou sur le destinataire.
+Art. 46. Récupération éventuelle de l'indemnité sur l'expéditeur ou sur le destinataire.
 
 CHAPITRE IV
 
 Attribution des taxes. Frais de transit
 
-###### Art. 47. Attribution des taxes.
+Art. 47. Attribution des taxes.
 
-###### Art. 48. Frais de transit.
+Art. 48. Frais de transit.
 
-###### Art. 49. Rémunération pour les frais internes occasionnés par le courrier international d'arrivée.
+Art. 49. Rémunération pour les frais internes occasionnés par le courrier international d'arrivée.
 
-###### Art. 50. Exemption de frais de transit.
+Art. 50. Exemption de frais de transit.
 
-###### Art. 51. Services extraordinaires.
+Art. 51. Services extraordinaires.
 
-###### Art. 52. Décompte des frais de transit.
+Art. 52. Décompte des frais de transit.
 
-###### Art. 53. Échange de dépêches closes avec des unités militaires mises à la disposition de l'Organisation des Nations Unies et avec des bâtiments ou des avions de guerre.
+Art. 53. Échange de dépêches closes avec des unités militaires mises à la disposition de l'Organisation des Nations Unies et avec des bâtiments ou des avions de guerre.
 
 TROISIÈME PARTIE
 
@@ -368,49 +376,49 @@ CHAPITRE I
 
 Dispositions générales
 
-###### Art. 54. Correspondances-avion.
+Art. 54. Correspondances-avion.
 
-###### Art. 55. Aérogrammes.
+Art. 55. Aérogrammes.
 
-###### Art. 56. Correspondances-avion surtaxées et non surtaxées.
+Art. 56. Correspondances-avion surtaxées et non surtaxées.
 
-###### Art. 57. Surtaxes ou taxes combinées.
+Art. 57. Surtaxes ou taxes combinées.
 
-###### Art. 58. Modalités d'affranchissement.
+Art. 58. Modalités d'affranchissement.
 
-###### Art. 59. Correspondances-avion surtaxées non ou insuffisamment affranchies.
+Art. 59. Correspondances-avion surtaxées non ou insuffisamment affranchies.
 
-###### Art. 60. Acheminement.
+Art. 60. Acheminement.
 
-###### Art. 61. Exécution des opérations dans les aéroports.
+Art. 61. Exécution des opérations dans les aéroports.
 
-###### Art. 62. Contrôle douanier des correspondances-avion.
+Art. 62. Contrôle douanier des correspondances-avion.
 
-###### Art. 63. Réexpédition ou renvoi à l'origine des correspondances-avion.
+Art. 63. Réexpédition ou renvoi à l'origine des correspondances-avion.
 
 CHAPITRE II
 
 Frais de transport aérien
 
-###### Art. 64. Principes généraux.
+Art. 64. Principes généraux.
 
-###### Art. 65. Taux de base et calcul des frais de transport aérien relatifs aux dépêches closes.
+Art. 65. Taux de base et calcul des frais de transport aérien relatifs aux dépêches closes.
 
-###### Art. 66. Calcul et décompte des frais de transport aérien des correspondances-avion en transit à découvert.
+Art. 66. Calcul et décompte des frais de transport aérien des correspondances-avion en transit à découvert.
 
-###### Art. 67. Paiement des frais de transport aérien.
+Art. 67. Paiement des frais de transport aérien.
 
-###### Art. 68. Frais de transport aérien des dépêches déviées.
+Art. 68. Frais de transport aérien des dépêches déviées.
 
-###### Art. 69. Frais de transport aérien du courrier perdu ou détruit.
+Art. 69. Frais de transport aérien du courrier perdu ou détruit.
 
 QUATRIÈME PARTIE
 
 Dispositions finales
 
-###### Art. 70. Conditions d'approbation des propositions concernant la Convention et son Règlement d'exécution.
+Art. 70. Conditions d'approbation des propositions concernant la Convention et son Règlement d'exécution.
 
-###### Art. 71. Mise à exécution et durée de la Convention.
+Art. 71. Mise à exécution et durée de la Convention.
 
 Protocole final de la Convention postale universelle
 
@@ -642,9 +650,9 @@ Taxes et conditions générales
 
 1. Les taxes d'affranchissement pour le transport des envoies de la poste aux lettres dans toute l'étendue de l'Union ainsi que les limites de poids et de dimensions sont fixées conformément aux indications du tableau ci-dessous. Sauf l'exception prévue à l'article 19, § 3, ces taxes comprennent la livraison des envois au domicile des destinataires pour autant que le service de distribution est organisé dans les Pays de destination:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
-2. Dans le cadre des dispositions du § 1 et sous réserve de l'article 122 du Règlement de la Convention, sont considérés comme normalisés, les envois de forme rectangulaire dont la longueur n'est pas inférieure à la largeur multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valeur approchée: 1,4) et qui répondent aux conditions suivantes:
+2. Dans le cadre des dispositions du § 1 et sous réserve de l'article 122 du Règlement de la Convention, sont considérés comme normalisés, les envois de forme rectangulaire dont la longueur n'est pas inférieure à la largeur multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valeur approchée: 1,4) et qui répondent aux conditions suivantes:
 
 a) Envois sous enveloppe:
 
@@ -708,7 +716,7 @@ Taxes spéciales
 
 Les taxes prévues dans la Convention et qui sont perçues en plus des taxes d'affranchissement mentionnées à l'article 17 sont dénommées «taxes spéciales». Leur montant est fixé conformément aux indications du tableau ci-dessous:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 ARTICLE 19
 
@@ -1096,7 +1104,7 @@ Frais de transit
 
 1. Sous réserve de l'article 50, les dépêches closes échangées entre deux Administrations ou entre deux bureaux du même Pays au moyen des services d'une ou de plusieurs autres Administrations (services tiers) sont soumises, au profit de chacun des Pays traversés ou dont les services participent au transport, aux frais de transit indiqués dans le tableau ci-dessous. Ces frais sont à la charge de l'Administration du Pays d'origine de la dépêche. Toutefois, les frais de transport entre deux bureaux du Pays de destination sont à la charge de ce Pays.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 2. Sont considérés comme services tiers, à moins d'entente spéciale, les transports maritimes effectués directement entre deux Pays au moyen de navires de l'un d'eux.
 
@@ -1180,7 +1188,7 @@ a) Dimensions minimales: identiques à celles prescrites pour les lettres;
 
 b) Dimensions maximales: 110 mm x 220 mm;
 
-et telles que la longueur soit égale ou supérieure à la largeur par multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valeur approchée: 1,4). Le recto de la feuille ainsi pliée est réservé à l'adresse et porte obligatoirement la mention imprimée «Aérogramme» et, facultativement, une mention équivalente dans la langue du Pays d'origine. L'aérogramme ne doit contenir aucun objet. Il peut être expédié sous recommandation si la réglementation du Pays d'origine le permet.
+et telles que la longueur soit égale ou supérieure à la largeur par multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valeur approchée: 1,4). Le recto de la feuille ainsi pliée est réservé à l'adresse et porte obligatoirement la mention imprimée «Aérogramme» et, facultativement, une mention équivalente dans la langue du Pays d'origine. L'aérogramme ne doit contenir aucun objet. Il peut être expédié sous recommandation si la réglementation du Pays d'origine le permet.
 
 3. Chaque Administration fixe, dans les limites définies au § 2, les conditions d'émission, de fabrication et de vente des aérogrammes.
 
@@ -1414,13 +1422,13 @@ ARTICLE III
 
 1. Chaque Pays-membre a la faculté de majorer de pour cent ou de réduire de 30 pour cent au maximum les taxes prévues à l'article 17, § 1, conformément aux indications du tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 2. Les taxes choisies doivent, autant que possible, être entre elles dans les mêmes proportions que les taxes de base, chaque Administration postale ayant la faculté d'arrondir ses taxes en plus ou en moins, selon le cas et suivant les convenances de son système monétaire.
 
 3. À titre exceptionnel et par dérogation aux §§ 1 et 2, les Pays-membres sont autorisés à porter le taux de majoration de 60 pour cent à 100 pour cent au maximum pour les lettres jusqu'à 100 g, pour les cartes postales, pour les imprimés jusqu'à 100 g et pour les petits paquets jusqu'à 100 g et, par conséquent, à appliquer dans ces cas les limites supérieures suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 4. Par dérogation au § 2, les Pays-membres sont autorisés, provisoirement et au plus tard jusqu'au 1er octobre 1972, à appliquer au premier échelon de poids et éventuellement à l'échelon facultatif de 50 g des imprimés une réduction de taxe différente de celle qui est appliquée aux autres envois de la poste aux lettres. En aucun cas, la taxe du premier échelon de poids des imprimés ne peut être inférieur à 9 centimes et celle de l'échelon facultatif de 50 g, inférieure à 12 centimes.
 
@@ -1590,9 +1598,7 @@ Protocolo Adicional da Constituição da União Postal Universal
 
 Os Plenipotenciários dos Governos dos Países membros da União Postal Universal, reunidos em Congresso em Tóquio, nos termos do artigo 30.º, § 2, da Constituição da União Postal Universal, celebrada em Viena em 10 de Julho de 1964, adoptaram, sob reserva de ratificação, as modificações seguintes à dita Constituição:
 
-ARTIGO I
-
-(Artigo 8.º modificado)
+###### ARTIGO I — (Artigo 8.º modificado)
 
 Uniões restritas. Acordos especiais
 
@@ -1602,9 +1608,7 @@ Uniões restritas. Acordos especiais
 
 3. A União pode enviar observadores aos congressos, conferências e reuniões das Uniões restritas.
 
-ARTIGO II
-
-(Artigo 11.º modificado)
+###### ARTIGO II — (Artigo 11.º modificado)
 
 Adesão à ou admissão na União. Formalidades
 
@@ -1618,9 +1622,7 @@ Adesão à ou admissão na União. Formalidades
 
 5. A adesão ou a admissão na qualidade de membro é notificada pelo Governo da Confederação Suíça aos Governos dos Países membros. Produz efeitos a partir da data desta notificação.
 
-ARTIGO III
-
-(Artigo 13.º modificado)
+###### ARTIGO III — (Artigo 13.º modificado)
 
 Órgãos da União
 
@@ -1628,17 +1630,13 @@ ARTIGO III
 
 2. Os órgãos permanentes da União são o Conselho Executivo, o Conselho Consultivo dos Estudos Postais e a Secretaria Internacional.
 
-ARTIGO IV
-
-(Artigo 18.º modificado)
+###### ARTIGO IV — (Artigo 18.º modificado)
 
 Conselho Consultivo dos Estudos Postais
 
 O Conselho Consultivo dos Estudos Postais (C. C. E. P.) é encarregado de efectuar estudos e emitir pareceres sobre assuntos técnicos, de exploração e económicos que interessem ao serviço postal.
 
-ARTIGO V
-
-(Artigo 21.º modificado)
+###### ARTIGO V — (Artigo 21.º modificado)
 
 Despesas da União. Contribuição dos Países membros
 
@@ -1654,17 +1652,13 @@ b) As despesas relativas à reunião do próximo Congresso.
 
 4. No caso de adesão à ou de admissão na União, em consequência do artigo 11.º, o Governo da Confederação Suíça determina, de acordo com o Governo do País interessado, a classe de contribuição em que este deve ser incluído, no que respeita à repartição das despesas da União.
 
-ARTIGO VI
-
-(Artigo 26.º modificado)
+###### ARTIGO VI — (Artigo 26.º modificado)
 
 Notificação das ratificações e dos outros modos de aprovação dos Actos da União
 
 Os instrumentos de ratificação da Constituição, e eventualmente de aprovação dos outros Actos da União, são depositados, o mais ràpidamente possível, junto do Governo da Confederação Suíça, o qual notifica esses depósitos aos Países membros.
 
-ARTIGO VII
-
-Adesão ao Protocolo Adicional e aos outros Actos da União
+###### ARTIGO VII — Adesão ao Protocolo Adicional e aos outros Actos da União
 
 1. Os Países membros que não assinaram o presente Protocolo podem aderir ao mesmo em qualquer altura.
 
@@ -1672,9 +1666,7 @@ Adesão ao Protocolo Adicional e aos outros Actos da União
 
 3. Os instrumentos de adesão relativos aos casos previstos nos §§ 1 e 2 são transmitidos por via diplomática ao Governo do País sede que notifica esse depósito aos Países membros.
 
-ARTIGO VIII
-
-Entrada em vigor e duração do Protocolo Adicional da Constituição da União Postal Universal
+###### ARTIGO VIII — Entrada em vigor e duração do Protocolo Adicional da Constituição da União Postal Universal
 
 O presente Protocolo Adicional entrará em vigor no dia 1 de Julho de 1971, com excepção do artigo V, que entrará em vigor a 1 de Janeiro de 1971, e vigorará por tempo indeterminado.
 
@@ -1694,37 +1686,37 @@ Regras comuns aplicáveis ao serviço postal internacional
 
 ### CAPÍTULO I — Disposições gerias
 
-###### Art. 1.º Liberdade de trânsito.
+Art. 1.º Liberdade de trânsito.
 
-###### Art. 2.º Inobservância da liberdade de trânsito.
+Art. 2.º Inobservância da liberdade de trânsito.
 
-###### Art. 3.º Suspensão temporária de serviços.
+Art. 3.º Suspensão temporária de serviços.
 
-###### Art. 4.º Propriedade dos objectos postais.
+Art. 4.º Propriedade dos objectos postais.
 
-###### Art. 5.º Taxas.
+Art. 5.º Taxas.
 
-###### Art. 6.º Equivalentes.
+Art. 6.º Equivalentes.
 
-###### Art. 7.º Selos postais.
+Art. 7.º Selos postais.
 
-###### Art. 8.º Impressos de serviço.
+Art. 8.º Impressos de serviço.
 
-###### Art. 9.º Bilhetes de identidade postais.
+Art. 9.º Bilhetes de identidade postais.
 
-###### Art. 10.º Liquidação de contas.
+Art. 10.º Liquidação de contas.
 
-###### Art. 11.º Compromissos relativos às sanções penais.
+Art. 11.º Compromissos relativos às sanções penais.
 
 ### CAPÍTULO II — Isenções de franquia
 
-###### Art. 12.º Isenção de franquia.
+Art. 12.º Isenção de franquia.
 
-###### Art. 13.º Isenção de franquia dos objectos de correspondência relativos ao serviço postal.
+Art. 13.º Isenção de franquia dos objectos de correspondência relativos ao serviço postal.
 
-###### Art. 14.º Isenção de franquia dos objectos relativos a prisioneiros de guerra e internados civis.
+Art. 14.º Isenção de franquia dos objectos relativos a prisioneiros de guerra e internados civis.
 
-###### Art. 15.º Isenção de franquia dos cecogramas.
+Art. 15.º Isenção de franquia dos cecogramas.
 
 SEGUNDA PARTE
 
@@ -1732,87 +1724,87 @@ Disposições relativas à correspondência postal
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 16.º Objectos de correspondência postal.
+Art. 16.º Objectos de correspondência postal.
 
-###### Art. 17.º Taxas e condições gerais.
+Art. 17.º Taxas e condições gerais.
 
-###### Art. 18.º Taxas especiais.
+Art. 18.º Taxas especiais.
 
-###### Art. 19.º Taxa de última hora. Taxa de posta-restante. Taxa de entrega dos pacotes postais.
+Art. 19.º Taxa de última hora. Taxa de posta-restante. Taxa de entrega dos pacotes postais.
 
-###### Art. 20.º Taxa de armazenagem.
+Art. 20.º Taxa de armazenagem.
 
-###### Art. 21.º Franquia.
+Art. 21.º Franquia.
 
-###### Art. 22.º Modalidades de franquia.
+Art. 22.º Modalidades de franquia.
 
-###### Art. 23.º Franquia das correspondências postais a bordo dos navios.
+Art. 23.º Franquia das correspondências postais a bordo dos navios.
 
-###### Art. 24.º Taxa no caso de falta total ou insuficiência de franquia.
+Art. 24.º Taxa no caso de falta total ou insuficiência de franquia.
 
-###### Art. 25.º Cupões-resposta internacionais.
+Art. 25.º Cupões-resposta internacionais.
 
-###### Art. 26.º Correspondência a entregar por próprio.
+Art. 26.º Correspondência a entregar por próprio.
 
-###### Art. 27.º Restituição. Modificação ou correcção de endereço.
+Art. 27.º Restituição. Modificação ou correcção de endereço.
 
-###### Art. 28.º Reexpedição. Correspondência insusceptível de distribuição.
+Art. 28.º Reexpedição. Correspondência insusceptível de distribuição.
 
-###### Art. 29.º Proibições.
+Art. 29.º Proibições.
 
-###### Art. 30.º Objectos sujeitos a direitos aduaneiros.
+Art. 30.º Objectos sujeitos a direitos aduaneiros.
 
-###### Art. 31.º Verificação aduaneira.
+Art. 31.º Verificação aduaneira.
 
-###### Art. 32.º Taxa de despacho aduaneiro.
+Art. 32.º Taxa de despacho aduaneiro.
 
-###### Art. 33.º Direitos aduaneiros e outros direitos.
+Art. 33.º Direitos aduaneiros e outros direitos.
 
-###### Art. 34.º Correspondências livres de encargos.
+Art. 34.º Correspondências livres de encargos.
 
-###### Art. 35.º Anulação de direitos aduaneiros e outros direitos.
+Art. 35.º Anulação de direitos aduaneiros e outros direitos.
 
-###### Art. 36.º Reclamações e pedidos de informações.
+Art. 36.º Reclamações e pedidos de informações.
 
 ### CAPÍTULO II — Objectos registados
 
-###### Art. 37.º Taxas.
+Art. 37.º Taxas.
 
-###### Art. 38.º Aviso de recepção.
+Art. 38.º Aviso de recepção.
 
-###### Art. 39.º Entrega em mão própria.
+Art. 39.º Entrega em mão própria.
 
 ### CAPÍTULO III — Responsabilidade
 
-###### Art. 40.º Princípio e âmbito da responsabilidade das Administrações postais.
+Art. 40.º Princípio e âmbito da responsabilidade das Administrações postais.
 
-###### Art. 41.º Isenção de responsabilidade das Administrações postais.
+Art. 41.º Isenção de responsabilidade das Administrações postais.
 
-###### Art. 42.º Responsabilidade do remetente.
+Art. 42.º Responsabilidade do remetente.
 
-###### Art. 43.º Determinação da responsabilidade entre as Administrações postais.
+Art. 43.º Determinação da responsabilidade entre as Administrações postais.
 
-###### Art. 44.º Pagamento da indemnização.
+Art. 44.º Pagamento da indemnização.
 
-###### Art. 45.º Reembolso da indemnização à Administração que efectuou o pagamento.
+Art. 45.º Reembolso da indemnização à Administração que efectuou o pagamento.
 
-###### Art. 46.º Recuperação eventual da indemnização do remetente ou do destinatário.
+Art. 46.º Recuperação eventual da indemnização do remetente ou do destinatário.
 
 ### CAPÍTULO IV — Atribuição das taxas. Direitos de trânsito
 
-###### Art. 47.º Atribuição das taxas.
+Art. 47.º Atribuição das taxas.
 
-###### Art. 48.º Direitos de trânsito.
+Art. 48.º Direitos de trânsito.
 
-###### Art. 49.º Remuneração dos encargos internos do correio internacional recebido.
+Art. 49.º Remuneração dos encargos internos do correio internacional recebido.
 
-###### Art. 50.º Isenção de direitos de trânsito.
+Art. 50.º Isenção de direitos de trânsito.
 
-###### Art. 51.º Serviços extraordinários.
+Art. 51.º Serviços extraordinários.
 
-###### Art. 52.º Contas dos direitos de trânsito.
+Art. 52.º Contas dos direitos de trânsito.
 
-###### Art. 53.º Permuta de malas fechadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com navios ou aviões de guerra.
+Art. 53.º Permuta de malas fechadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com navios ou aviões de guerra.
 
 TERCEIRA PARTE
 
@@ -1820,47 +1812,47 @@ Transporte aéreo das correspondências postais
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 54.º Correspondências-avião.
+Art. 54.º Correspondências-avião.
 
-###### Art. 55.º Aerogramas.
+Art. 55.º Aerogramas.
 
-###### Art. 56.º Correspondências-avião sobretaxadas e sem sobretaxa.
+Art. 56.º Correspondências-avião sobretaxadas e sem sobretaxa.
 
-###### Art. 57.º Sobretaxas ou taxas combinadas.
+Art. 57.º Sobretaxas ou taxas combinadas.
 
-###### Art. 58.º Modalidades de franquia.
+Art. 58.º Modalidades de franquia.
 
-###### Art. 59.º Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia.
+Art. 59.º Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia.
 
-###### Art. 60.º Encaminhamento.
+Art. 60.º Encaminhamento.
 
-###### Art. 61.º Execução das operações nos aeroportos.
+Art. 61.º Execução das operações nos aeroportos.
 
-###### Art. 62.º Verificação aduaneira das correspondências-avião.
+Art. 62.º Verificação aduaneira das correspondências-avião.
 
-###### Art. 63.º Reexpedição ou devolução das correspondências-avião.
+Art. 63.º Reexpedição ou devolução das correspondências-avião.
 
 ### CAPÍTULO II — Encargos de transporte aéreo
 
-###### Art. 64.º Princípios gerais.
+Art. 64.º Princípios gerais.
 
-###### Art. 65.º Taxas básicas e cálculo dos encargos de transporte aéreo relativos às malas fechadas.
+Art. 65.º Taxas básicas e cálculo dos encargos de transporte aéreo relativos às malas fechadas.
 
-###### Art. 66.º Cálculo e conta geral dos encargos de transporte aéreo das correspondências-avião em trânsito a descoberto.
+Art. 66.º Cálculo e conta geral dos encargos de transporte aéreo das correspondências-avião em trânsito a descoberto.
 
-###### Art. 67.º Pagamento dos encargos de transporte aéreo.
+Art. 67.º Pagamento dos encargos de transporte aéreo.
 
-###### Art. 68.º Encargos do transporte aéreo das malas desviadas.
+Art. 68.º Encargos do transporte aéreo das malas desviadas.
 
-###### Art. 69.º Encargos de transporte aéreo de correio perdido ou destruído.
+Art. 69.º Encargos de transporte aéreo de correio perdido ou destruído.
 
 QUARTA PARTE
 
 Disposições finais
 
-###### Art. 70.º Condições de aprovação das propostas respeitantes à Convenção e ao seu Regulamento de execução.
+Art. 70.º Condições de aprovação das propostas respeitantes à Convenção e ao seu Regulamento de execução.
 
-###### Art. 71.º Entrada em vigor e duração da Convenção.
+Art. 71.º Entrada em vigor e duração da Convenção.
 
 Protocolo final da Convenção Postal Universal
 
@@ -2050,9 +2042,9 @@ Os objectos de correspondência postal abrangem as cartas, os bilhetes-postais, 
 
 1. As taxas de franquia para o transporte dos objectos de correspondência postal em toda a área da União, bem como os limites de peso e de dimensões, fixam-se conforme as indicações do quadro seguinte. Salvo a excepção prevista no artigo 19.º, § 3, estas taxas incluem a entrega dos objectos no domicílio dos destinatários, desde que o País de destino tenha montado o serviço de distribuição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
-2. No quadro das disposições do § 1 e sob reserva do artigo 122.º do Regulamento da Convenção, são considerados como normalizados os objectos de forma rectangular cujo comprimento não for inferior à largura multiplicada por [([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valor aproximado: 1,4) e que satisfaçam as condições seguintes:
+2. No quadro das disposições do § 1 e sob reserva do artigo 122.º do Regulamento da Convenção, são considerados como normalizados os objectos de forma rectangular cujo comprimento não for inferior à largura multiplicada por [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valor aproximado: 1,4) e que satisfaçam as condições seguintes:
 
 a) Objectos com sobrescrito:
 
@@ -2116,7 +2108,7 @@ As taxas previstas na Convenção e que são cobradas além das taxas de franqui
 
 O seu quantitativo é fixado de acordo com as indicações do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 ###### ARTIGO 19.º — Taxa de última hora. Taxa de posta-restante. Taxa de entrega dos pacotes postais
 
@@ -2440,7 +2432,7 @@ Salvo os casos previstos pela Convenção e Acordos, as Administrações postais
 
 1. Sem prejuízo do artigo 50.º, as malas fechadas permutadas entre duas Administrações ou entre duas estações de um mesmo País por intermédio dos serviços de uma ou de várias outras Administrações (serviços de terceiros) ficam sujeitas aos direitos de trânsito indicados no quadro abaixo, a favor de cada um dos Países atravessados ou cujos serviços tomem parte no transporte. Estes direitos ficam a cargo da Administração do País de origem da mala. Todavia, os direitos de transporte entre duas estações do País de destino ficam a cargo desse País.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 2. Consideram-se como serviços de terceiros, salvo acordo especial, os transportes marítimos efectuados directamente entre dois Países por intermédio de navios de um deles.
 
@@ -2510,7 +2502,7 @@ a) Dimensões mínimas: idênticas às das cartas;
 
 b) Dimensões máximas: 110 mm x 220 mm;
 
-e tais que o comprimento seja igual ou superior à largura multiplicada por [([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valor aproximado: 1,4). A parte da frente da folha dobrada por esta forma é reservada para o endereço e deve apresentar, obrigatòriamente, a menção impressa «Aérogramme» e, facultativamente, uma menção análoga na língua do País de origem. O aerograma não deve conter objecto algum. Pode ser expedido sob registo, se os regulamentos do País de origem o permitirem.
+e tais que o comprimento seja igual ou superior à largura multiplicada por [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf) (valor aproximado: 1,4). A parte da frente da folha dobrada por esta forma é reservada para o endereço e deve apresentar, obrigatòriamente, a menção impressa «Aérogramme» e, facultativamente, uma menção análoga na língua do País de origem. O aerograma não deve conter objecto algum. Pode ser expedido sob registo, se os regulamentos do País de origem o permitirem.
 
 3. Cada Administração fixa, dentro dos limites definidos no § 2, as condições de emissão, fabrico e venda dos aerogramas.
 
@@ -2692,49 +2684,39 @@ Protocolo final da Convenção Postal Universal
 
 No momento de se proceder à assinatura da Convenção Postal Universal, celebrada na data de hoje, os plenipotenciários abaixo assinados convencionaram o seguinte:
 
-ARTIGO I
-
-Propriedade dos objectos postais
+###### ARTIGO I — Propriedade dos objectos postais
 
 1. O artigo 4.º não se aplica à República da África do Sul, Commonwealth da Austrália, Barbados, Butão, República do Botswana, Canadá, República de Chipre, Ghana, Reino Unido da Grã-Bretanha e da Irlanda do Norte, territórios do ultramar cujas relações internacionais são asseguradas pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte, Guiana, Irlanda, Jamaica, Quénia, Koweit, Malásia, Malawi, Malta, Maurícia, República de Nauru, República Federal da Nigéria, Nova Zelândia, Uganda, Qatar, República Árabe Unida, Serra Leoa, Singapura, Reino da Suazilândia, República Unida da Tanzânia, Trindade e Tobago, República Árabe do Iémene, República Popular do Iémene do Sul e República da Zâmbia.
 
 2. Este artigo não se aplica também à Dinamarca, cuja legislação não permite a restituição ou a modificação de endereço de correspondências postais a pedido do remetente desde o momento em que o destinatário foi informado da chegada de um objecto que lhe é endereçado.
 
-ARTIGO II
-
-Excepção à isenção de franquia dos cecogramas
+###### ARTIGO II — Excepção à isenção de franquia dos cecogramas
 
 Derrogando o artigo 15.º, os Países que não concedam, no seu serviço interno, isenção de franquia aos cecogramas têm a faculdade de cobrar as taxas de franquia e as taxas especiais previstas no artigo 15.º que, todavia, não podem ser superiores às do seu serviço interno.
 
-ARTIGO III
-
-Equivalentes. Limites máximos e mínimos
+###### ARTIGO III — Equivalentes. Limites máximos e mínimos
 
 1. Qualquer País membro tem a faculdade de aumentar até 60 por cento ou reduzir até 30 por cento as taxas previstas no artigo 17.º, § 1, de harmonia com as indicações do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 2. As taxas escolhidas devem manter entre si, tanto quanto possível, as proporções existentes nas taxas básicas, tendo cada Administração postal a faculdade de as arredondar, para mais ou para menos, conforme o caso e de harmonia com as conveniências do seu sistema monetário.
 
 3. A título excepcional e derrogando os §§ 1 e 2, os Países membros ficam autorizados a elevar os coeficientes de aumento de 60 por cento e 100 por cento, no máximo, para as cartas até 100 g, para os bilhetes-postais, para os impressos até 100 g e para os pacotes postais até 100 g e, em consequência, a aplicarem nesses casos os limites superiores seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13901/00010051.pdf)
 
 4. Derrogando o § 2, os Países membros ficam autorizados, provisòriamente e o mais tardar até 1 de Outubro de 1972, a aplicar ao primeiro escalão de peso e eventualmente ao escalão facultativo de 50 g dos impressos uma redução de taxa diferente à que é aplicada aos outros objectos de correspondência. Em caso algum a taxa do primeiro escalão de peso dos impressos pode ser inferior a 9 cêntimos e a do escalão facultativo de 50 g inferior a 12 cêntimos.
 
-ARTIGO IV
-
-Taxas suplementares
+###### ARTIGO IV — Taxas suplementares
 
 Derrogando o artigo 17.º, os Países membros têm a título excepcional o direito de aplicar uniformemente aos objectos que não sejam cartas e bilhetes-postais taxas suplementares que lhes permitam compensar as despesas ocasionadas pelo reembolso dos encargos internos de correio internacional de superfície recebido previsto no artigo 49.º, e dentro dos limites máximos que figuram nos §§ 1 e 3 do artigo III do Protocolo final.
 
-ARTIGO V
-
-Excepção à aplicação das tarifas dos impressos
+###### ARTIGO V — Excepção à aplicação das tarifas dos impressos
 
 Excepcionalmente, os Países membros ficam autorizados a elevar a taxa dos impressos até aos valores previstos, na sua legislação, para os objectos da mesma natureza do serviço interno.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Onça e libra «avoirdupois»
 
@@ -2754,79 +2736,55 @@ Até 1000 g, 2 libras;
 
 Por 1000 g em excesso, 2 libras.
 
-ARTIGO VII
-
-Dimensões dos objectos com sobrescrito
+###### ARTIGO VII — Dimensões dos objectos com sobrescrito
 
 Derrogando o artigo 17.º, § 1, os objectos com sobrescrito de formato mínimo 70 mm x 100 mm são admitidos até ao dia 1 de Outubro de 1973.
 
-ARTIGO VIII
-
-Objectos normalizados
+###### ARTIGO VIII — Objectos normalizados
 
 O artigo 17.º, § 2, respeitante aos objectos normalizados é aplicado a partir de 1 de Outubro de 1973.
 
-ARTIGO IX
-
-Derrogação às dimensões dos objectos com sobrescrito
+###### ARTIGO IX — Derrogação às dimensões dos objectos com sobrescrito
 
 As Administrações do Canadá, dos Estados Unidos da América, do Quénia, do Uganda e da Tanzânia não ficam obrigadas a desaconselhar o emprego de sobrescritos cujo formato exceda as dimensões recomendadas, quando esses sobrescritos sejam largamente utilizados nos seus Países.
 
-ARTIGO X
-
-Dimensões mínimas dos aerogramas
+###### ARTIGO X — Dimensões mínimas dos aerogramas
 
 Derrogando o artigo 17.º, § 1, quadro, e o artigo 55.º, as Administrações postais de Barbados, do Butão, da Guiana, da Índia, da Nigéria e do Paquistão ficam autorizadas a admitir para os aerogramas dimensões mínimas que não sejam inferiores a 70 mm x 100 mm, até 1 de Outubro de 1973.
 
-ARTIGO XI
-
-Pacotes postais
+###### ARTIGO XI — Pacotes postais
 
 A obrigação de participar na permuta de pacotes postais que excedam o peso de 500 g não se aplica aos Países membros que estejam impossibilitados de executar esta permuta.
 
-ARTIGO XII
-
-Excepção às disposições respeitantes aos impressos
+###### ARTIGO XII — Excepção às disposições respeitantes aos impressos
 
 Derrogando as disposições do artigo 17.º, § 1, as Administrações postais ficam autorizadas a aplicar aos impressos um primeiro escalão de peso de 50 g.
 
-ARTIGO XIII
-
-Excepção à inclusão de valores nas cartas registadas
+###### ARTIGO XIII — Excepção à inclusão de valores nas cartas registadas
 
 1. Derrogando o artigo 17.º, § 10, as Administrações postais dos Países seguintes: Arábia Saudita, República Argentina, Butão, República Federativa do Brasil, Chile, El Salvador, Irão, México, Nepal, Paquistão, Peru, República Árabe Unida e República da Venezuela, ficam autorizadas a não admitir nas cartas registadas os valores mencionados no referido § 10.
 
 2. Derrogando o artigo 17.º, § 10, a Administração postal da Índia fica autorizada a não admitir nas cartas ordinárias ou registadas os valores mencionados no referido parágrafo 10.
 
-ARTIGO XIV
-
-Correspondência postal depositada em países estrangeiros
+###### ARTIGO XIV — Correspondência postal depositada em países estrangeiros
 
 Nenhum País membro fica obrigado a expedir, nem a distribuir aos destinatários, a correspondência que quaisquer remetentes domiciliados no seu território depositem ou mandem depositar num País estrangeiro, com o fim de beneficiar de taxas mais baixas ali estabelecidas; o mesmo sucede quanto à correspondência nas mesmas condições depositada em grande quantidade, quer esse depósito tenha ou não sido feito com o fim de beneficiar de taxas mais baixas. A regra aplica-se sem distinção, quer à correspondência preparada no País habitado pelo remetente e transportada em seguida através da fronteira, quer à correspondência preparada num País estrangeiro. A Administração interessada tem o direito, ou de devolver à origem os objectos de que se trata, ou de lhes aplicar as suas taxas internas. A modalidade da cobrança das taxas fica à sua escolha.
 
-ARTIGO XV
-
-Cupões-resposta internacionais
+###### ARTIGO XV — Cupões-resposta internacionais
 
 Derrogando o artigo 25.º, § 1, as Administrações postais têm a faculdade de não se encarregarem da venda de cupões-resposta internacionais ou de a limitarem.
 
-ARTIGO XVI
-
-Restituição. Modificação ou correcção de endereço
+###### ARTIGO XVI — Restituição. Modificação ou correcção de endereço
 
 O artigo 27.º não se aplica à República da África do Sul, Commonwealth da Austrália, Barbados, Butão, Birmânia, República do Botswana, Canadá, República de Chipre, Reino Unido da Grã-Bretanha e da Irlanda do Norte, territórios do ultramar cujas relações internacionais são asseguradas pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte, Guiana, Irlanda, Jamaica, Quénia, Koweit, Reino de Lesotho, Malásia, Malawi, Malta, Maurícia, República de Nauru, República Federal da Nigéria, Nova Zelândia, Uganda, Qatar, Serra Leoa, Singapura, Reino da Suazilândia, República Unida da Tanzânia, Trindade e Tobago, República Popular do Iémene do Sul e República da Zâmbia, cuja legislação não permite a restituição ou a modificação do endereço da correspondência postal, a pedido do remetente. Além disso, a República Argentina não dá andamento aos pedidos de restituição ou de modificação de endereço provenientes de Países que fizeram reservas ao artigo 27.º
 
-ARTIGO XVII
-
-Taxas especiais que não sejam de franquia
+###### ARTIGO XVII — Taxas especiais que não sejam de franquia
 
 1. Os Países membros que aplicam no seu serviço interno, quanto às taxas especiais que não sejam de franquia previstas no artigo 17.º, valores superiores aos fixados no artigo 18.º, são autorizados a aplicar também os mesmos valores no serviço internacional.
 
 2. Derrogando o artigo 18.º, alínea l), 3.ª coluna, as Administrações postais da República Argentina, da República de Cuba, do Peru e das Filipinas são autorizadas a não aceitar as remessas de impressos expedidas em sacos especiais registados. Por consequência, a indemnização especial prevista para essas remessas no artigo 40.º, § 2, não é exigível das mesmas Administrações.
 
-ARTIGO XVIII
-
-Direitos especiais de trânsito pelo Transiberiano, pelo Transandino e no lago Nasser
+###### ARTIGO XVIII — Direitos especiais de trânsito pelo Transiberiano, pelo Transandino e no lago Nasser
 
 1. A Administração postal da União das Repúblicas Soviéticas Socialistas fica autorizada a cobrar um suplemento de FR. 1,50, além dos direitos de trânsito mencionados no artigo 48.º, § 1, 1.º percursos terrestres, por cada quilograma de correspondência postal transportada em trânsito pelo Transiberiano.
 
@@ -2834,27 +2792,19 @@ Direitos especiais de trânsito pelo Transiberiano, pelo Transandino e no lago N
 
 3. As Administrações postais da República Árabe Unida e da República Democrática do Sudão ficam autorizadas a cobrar um suplemento de 50 cêntimos, além dos direitos de trânsito mencionados no artigo 48.º, § 1, por cada saco de correspondência em trânsito pelo lago Nasser entre Shallal (R. A. U.) e Wadi Halfa (Sudão).
 
-ARTIGO XIX
-
-Condições especiais de trânsito para o Afeganistão
+###### ARTIGO XIX — Condições especiais de trânsito para o Afeganistão
 
 Derrogando o artigo 48.º, § 1, a Administração postal do Afeganistão fica autorizada provisòriamente, por motivo de dificuldades especiais que se lhe deparam em matéria de meios de transporte e de comunicação, a efectuar o trânsito de malas fechadas e de correspondências a descoberto através do seu País, em condições especialmente combinadas entre ela e as Administrações postais interessadas.
 
-ARTIGO XX
-
-Direitos especiais de entreposto em Adem
+###### ARTIGO XX — Direitos especiais de entreposto em Adem
 
 Excepcionalmente, a Administração postal da República Popular do Iémene do Sul fica autorizada a cobrar uma taxa de 40 cêntimos por saco, por todas as expedições arrecadadas no entreposto de Adem, desde que esta Administração não receba nenhum direito de trânsito terrestre ou marítimo por estas malas.
 
-ARTIGO XXI
-
-Sobretaxa aérea excepcional
+###### ARTIGO XXI — Sobretaxa aérea excepcional
 
 Devido à situação geográfica especial da U. R. S. S., a Administração postal deste País reserva-se o direito de aplicar uma sobretaxa uniforme em todo o território da U. R. S. S. para todos os Países do Mundo. Esta sobretaxa não excederá os encargos reais derivados do transporte da correspondência postal por via aérea.
 
-ARTIGO XXII
-
-Encaminhamento obrigatório indicado pelo país de origem
+###### ARTIGO XXII — Encaminhamento obrigatório indicado pelo país de origem
 
 1. A República Socialista Federativa da Jugoslávia só aceitará os encargos de transporte efectuado de acordo com a disposição respeitante à linha indicada nos rótulos dos sacos (AV8) da mala-avião.
 

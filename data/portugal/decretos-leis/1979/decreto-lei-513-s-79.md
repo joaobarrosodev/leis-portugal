@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3350-(57) a 3350-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29603/00570060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-s-1979-430024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa1495759eb97c372cfbe9d940eaadd4eeb37c95d6f57b69eb7108462a13a37c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41a14ade8d6d81ad9b5181f6ac79b0125a8a1d80c7f46889eecc3603e1b4a3da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Técnica
+- Cooperação Económica
+- Cooperação Internacional
+- Definição de Competências
+- Gabinete para a Cooperação Económica Externa
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:176573:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312442:por
+  label: "Alterado o Quadro de Pessoal pela PORT.361/83.1983.04.02.MFP, DR.IS [76] de 2/ABR/1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/361-1983-312442
+  date: '1983-04-02'
+- type: amended_by
+  target: pt:dre:386647:por
+  label: "Alterado o Quadro de Pessoal pela PORT.355/84.1984.06.11.PCM, DR.IS [135] de 11/JUN/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-1984-386647
+  date: '1984-06-11'
+- type: amended_by
+  target: pt:dre:400454:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, com a redacção dada pelas Port 361/83, de 02-Abr e\
+    \ 355/84, de 11-Jun, pela PORT.831/84.27.10.1984.PCM, DR.IS [250] de 27.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/831-1984-400454
+  date: '1984-10-27'
+- type: amended_by
+  target: pt:dre:327309:por
+  label: "Alterado o Quadro de Pessoal pela PORT.102/85.1985.02.16.PCM, DR.IS [40] de 16/FEV/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-1985-327309
+  date: '1985-02-16'
+- type: amended_by
+  target: pt:dre:176573:por
+  label: "Acrescidos dois lugares de técnico superior de 2.ª classe ao quadro de pessoal anexo ao presente diploma, pela PORT.756/85.04.10.1985.PCM,\
+    \ DR.IS [229] de 04.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-1985-176573
+  date: '1985-10-04'
+- type: cites
+  target: pt:dre:141790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:40Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +151,11 @@ Atendendo ao desajustamento orgânico provocado pela integração do Ministério
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As atribuições, organização e funcionamento do Gabinete para a Cooperação Económica Externa (GCEE), criado pelo [Decreto-Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1977-141790), de 18 de Fevereiro, regem-se pelas normas contidas no presente diploma.
+Artigo 1.º As atribuições, organização e funcionamento do Gabinete para a Cooperação Económica Externa (GCEE), criado pelo [Decreto-Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1977-141790), de 18 de Fevereiro, regem-se pelas normas contidas no presente diploma.
 
-###### Art. 2.º O GCEE é o serviço que, no âmbito do Ministério das Finanças, assegura a ligação permanente entre este Ministério e outros Ministérios, designadamente o Ministério dos Negócios Estrangeiros, no âmbito das acções sectoriais em que se desdobra a cooperação económica externa, suscitando, acompanhando e coordenando as acções interministeriais neste domínio.
+Art. 2.º O GCEE é o serviço que, no âmbito do Ministério das Finanças, assegura a ligação permanente entre este Ministério e outros Ministérios, designadamente o Ministério dos Negócios Estrangeiros, no âmbito das acções sectoriais em que se desdobra a cooperação económica externa, suscitando, acompanhando e coordenando as acções interministeriais neste domínio.
 
-###### Art. 3.º Para o desempenho das suas funções compete ao GCEE:
+Art. 3.º Para o desempenho das suas funções compete ao GCEE:
 
 a) Promover e coordenar, em colaboração com os departamentos governamentais competentes e entidades públicas ou privadas interessadas, as acções no âmbito interno decorrentes dos programas de cooperação e assistência bilateral de carácter económico e o desenvolvimento das relações entre Portugal e as organizações internacionais que se ocupam de matérias de natureza económica;
 
@@ -120,7 +173,7 @@ g) Elaborar e conservar actualizado o inventário das potencialidades e necessid
 
 h) Recolher, tratar e divulgar informações de interesse para a cooperação económica com o estrangeiro, em colaboração, quando tal se revele necessário com os competente; serviços do Ministério das Finanças.
 
-###### Art. 4.º - 1 - O GCEE compreende os seguintes serviços:
+Art. 4.º - 1 - O GCEE compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Programas de Cooperação Bilateral e Assistência Técnica, Científica e Económica;
 
@@ -178,11 +231,11 @@ c) Velar pela segurança e conservação das instalações, viaturas, mobiliári
 
 d) Dar todo o apoio administrativo necessário ao bom funcionamento dos restantes serviços do GCEE.
 
-###### Art. 5.º - 1 - O quadro de pessoal do GCEE é o que consta do mapa anexo a este diploma.
+Art. 5.º - 1 - O quadro de pessoal do GCEE é o que consta do mapa anexo a este diploma.
 
 2 - O pessoal do GCEE será distribuído pelos respectivos serviços, mediante despacho do director-geral.
 
-###### Art. 6.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 6.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -198,13 +251,13 @@ a) No lugar de origem, quando a comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro do GCEE em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 7.º - 1 - O pessoal dirigente será nomeado nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 7.º - 1 - O pessoal dirigente será nomeado nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - O chefe de repartição será nomeado pelo Ministro das Finanças de entre indivíduos com curso superior adequado ou entre os chefes de secção com o mínimo de três anos de bom e efectivo serviço.
 
 3 - Os chefes de secção serão nomeados pelo Ministro das Finanças de entre os primeiros-oficiais ou funcionários de categoria equivalente de comprovada competência que contem pelo menos com três anos de bom e efectivo serviço na categoria ou de entre indivíduos com o curso superior adequado.
 
-###### Art. 8.º - 1 - Por despacho do Ministro das Finanças serão providos os restantes lugares do quadro, nos termos da lei geral e de acordo com as seguintes condições:
+Art. 8.º - 1 - Por despacho do Ministro das Finanças serão providos os restantes lugares do quadro, nos termos da lei geral e de acordo com as seguintes condições:
 
 a) O provimento dos técnicos superiores de 2.ª classe será efectuado através de concurso documental, a que se poderão candidatar licenciados com curso superior adequado ao desempenho das suas funções;
 
@@ -212,7 +265,7 @@ b) O provimento de tradutores-correspondentes-intérpretes será efectuado atrav
 
 2 - O Ministro das Finanças condicionará o provimento dos lugares de quadro à realização de concursos ou cursos de promoção, de harmonia com as condições julgadas convenientes.
 
-###### Art. 9.º - 1 - Quando se mostre indispensável, e com o acordo do Ministério requisitado, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no GCEE, fixando-lhes a respectiva remuneração, a pagar por dotação especial inscrita para esse efeito no orçamento do GCEE, sempre que, por força da requisição, não seja ocupado lugar previsto no quadro constante do mapa anexo a este diploma.
+Art. 9.º - 1 - Quando se mostre indispensável, e com o acordo do Ministério requisitado, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no GCEE, fixando-lhes a respectiva remuneração, a pagar por dotação especial inscrita para esse efeito no orçamento do GCEE, sempre que, por força da requisição, não seja ocupado lugar previsto no quadro constante do mapa anexo a este diploma.
 
 2 - A requisição a que se refere o número anterior tem com efeito a abertura de vaga no serviço de origem do funcionário requisitado, a qual não poderá ser preenchida senão interinamente.
 
@@ -220,38 +273,38 @@ b) O provimento de tradutores-correspondentes-intérpretes será efectuado atrav
 
 4 - Poderão os funcionários do quadro constante do mapa anexo ao presente diploma ser requisitados, nos termos dos números anteriores, para prestarem serviço noutros serviços ou institutos públicos, com o acordo do Ministro das Finanças.
 
-###### Art. 10.º - 1 - Poderão igualmente ser destacados para desempenhar funções no GCEE, por despacho ministerial, funcionários de outros serviços do Ministério ou de empresas sob a sua tutela, ouvidos o funcionário interessado e o serviço ou empresa requisitados, bem como de outros departamentos ministeriais, neste caso com autorização do respectivo membro do Governo.
+Art. 10.º - 1 - Poderão igualmente ser destacados para desempenhar funções no GCEE, por despacho ministerial, funcionários de outros serviços do Ministério ou de empresas sob a sua tutela, ouvidos o funcionário interessado e o serviço ou empresa requisitados, bem como de outros departamentos ministeriais, neste caso com autorização do respectivo membro do Governo.
 
 2 - O pessoal destacado nos termos do número anterior considerar-se-á para todos os efeitos legais, e enquanto permanecer naquela situação, como se prestasse serviço no departamento ou empresa de origem.
 
-###### Art. 11.º O Ministro das Finanças poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, com respeito pela regulamentação relativa a excedentes de pessoal na função pública.
+Art. 11.º O Ministro das Finanças poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, com respeito pela regulamentação relativa a excedentes de pessoal na função pública.
 
-###### Art. 12.º - 1 - Para a realização de estudos, projectos ou outros trabalhos de carácter eventual e cujo desempenho não possa ser assegurado pelo GCEE, ou apenas por funcionários seus, poderão ser constituídos, mediante despacho do Ministro das Finanças, os grupos de trabalho ou comissões que se mostrarem convenientes.
+Art. 12.º - 1 - Para a realização de estudos, projectos ou outros trabalhos de carácter eventual e cujo desempenho não possa ser assegurado pelo GCEE, ou apenas por funcionários seus, poderão ser constituídos, mediante despacho do Ministro das Finanças, os grupos de trabalho ou comissões que se mostrarem convenientes.
 
 2 - Os despachos de constituição fixarão o mandato, a composição e o regime de funcionamento dos grupos de trabalho ou comissões a que alude o número anterior.
 
-###### Art. 13.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, o GCEE poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas funções.
+Art. 13.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, o GCEE poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas funções.
 
 2 - Os contratos serão sempre reduzidos a escrito, deles constando o prazo, a remuneração, as condições de rescisão e a menção de que não confere em nenhum caso a qualidade de agente administrativo.
 
 3 - As remunerações fixadas nos termos do número anterior serão pagas por força de verba adequada do orçamento do GCEE.
 
-###### Art. 14.º - 1 - O primeiro provimento dos lugares do quadro anexo, excluídos os lugares correspondentes, já providos à data da publicação do presente diploma dos quadros anexos ao [Decreto Regulamentar n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1977-286090), de 15 de Setembro, e às Portarias n.º 536/78, de 12 de Setembro, e n.º 400/79, de 7 de Agosto, será efectuado mediante listas nominativas aprovadas pelo Ministro das Finanças nos termos do artigo 7.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 14.º - 1 - O primeiro provimento dos lugares do quadro anexo, excluídos os lugares correspondentes, já providos à data da publicação do presente diploma dos quadros anexos ao [Decreto Regulamentar n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1977-286090), de 15 de Setembro, e às Portarias n.º 536/78, de 12 de Setembro, e n.º 400/79, de 7 de Agosto, será efectuado mediante listas nominativas aprovadas pelo Ministro das Finanças nos termos do artigo 7.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 2 - Os actuais funcionários do GCEE transitam para os lugares constantes do quadro anexo ao presente diploma, mediante lista nominativa publicada nos termos do artigo 4.º do [Decreto-Lei n.º 377/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1979-369590), de 13 de Setembro.
 
-###### Art. 15.º Pelo Ministro das Finanças poderá ser delegada no director-geral do GCEE, com a de subdelegar, competência para despachar assuntos relativos às funções de administração que corram pelo serviço, bem como quanto às funções específicas para a prática de actos mais correntes ou repetidos.
+Art. 15.º Pelo Ministro das Finanças poderá ser delegada no director-geral do GCEE, com a de subdelegar, competência para despachar assuntos relativos às funções de administração que corram pelo serviço, bem como quanto às funções específicas para a prática de actos mais correntes ou repetidos.
 
-###### Art. 16.º São revogados o [Decreto Regulamentar n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1977-286090), de 15 de Setembro, e as Portarias n.º 536/78, de 12 de Setembro, e n.º 400/79, de 7 de Agosto.
+Art. 16.º São revogados o [Decreto Regulamentar n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1977-286090), de 15 de Setembro, e as Portarias n.º 536/78, de 12 de Setembro, e n.º 400/79, de 7 de Agosto.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, António RAMALHO EANES.**
+O Presidente da República, António RAMALHO EANES.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29603/00570060.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29603/00570060.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29603/00570060.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

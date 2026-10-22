@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1972-691982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d603f0390a4f92d834c3669dd912b61317d0a6325968e54f942cb8dfae0ce0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82628b942c28922a2c54aecd77fa5ab3c23ae217b79d54aace8b64a261184e6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Definição de Competências
+- Governo Colonial
+- Moeda
+relationships:
+- type: cites
+  target: pt:dre:337667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:01Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +101,18 @@ Sob proposta do Governo-Geral do Estado de Angola;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral do Estado de Angola a proceder à fusão das moedas de $50, $20 e $10 emitidas ao abrigo do [Decreto n.º 35486](https://diariodarepublica.pt/dr/detalhe/decreto/35486-1946-337667), de 4 de Fevereiro de 1946, e a promover a negociação da sua liga.
+Artigo 1.º É autorizado o Governo-Geral do Estado de Angola a proceder à fusão das moedas de $50, $20 e $10 emitidas ao abrigo do [Decreto n.º 35486](https://diariodarepublica.pt/dr/detalhe/decreto/35486-1946-337667), de 4 de Fevereiro de 1946, e a promover a negociação da sua liga.
 
-###### Art. 2.º Na Direcção Provincial dos Serviços de Finanças de Angola o produto da venda da liga resultante da fusão das referidas moedas e as despesas inerentes serão escrituradas em conta de operações de tesouraria sob a epígrafe «Cunhagem da moeda divisionária - [Decreto n.º 35486](https://diariodarepublica.pt/dr/detalhe/decreto/35486-1946-337667), de 4 de Fevereiro de 1946».
+Art. 2.º Na Direcção Provincial dos Serviços de Finanças de Angola o produto da venda da liga resultante da fusão das referidas moedas e as despesas inerentes serão escrituradas em conta de operações de tesouraria sob a epígrafe «Cunhagem da moeda divisionária - [Decreto n.º 35486](https://diariodarepublica.pt/dr/detalhe/decreto/35486-1946-337667), de 4 de Fevereiro de 1946».
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 21 de Setembro de 1972.**
+Promulgado em 21 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

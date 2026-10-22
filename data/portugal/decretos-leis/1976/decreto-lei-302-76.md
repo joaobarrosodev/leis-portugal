@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1976-502184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c89ba505e7ed51c5526a94f389187bfcb8e1ca87c263fb2c63748bd68079986
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2bda35ffd48f711270ebb9c7a9a4fb0b5d6042f19ebc7127b60fb7b66951bf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Tribunal Fiscal Aduaneiro
 relationships:
 - type: amended_by
   target: pt:dre:366463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366463:por
+  label: "Alterado o art. 293.º da Reforma Aduaneira, aprovado pelo Dec Lei 46311, de 27-Abr de 1965, na redacção dada pelo\
+    \ presente diploma, pelo DEC LEI.474/79.1979.12.14.MF DR.IS [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-1979-366463
+  date: '1979-12-14'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:15Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +111,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 292.º e 293.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Artigo único. Os artigos 292.º e 293.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
-###### Art. 292.º Servirá igualmente de vogal do tribunal técnico de 1.ª instância um representante das actividades económicas, proposto pelo Ministro da Indústria e Tecnologia e nomeado pelo Ministro das Finanças.
+Art. 292.º Servirá igualmente de vogal do tribunal técnico de 1.ª instância um representante das actividades económicas, proposto pelo Ministro da Indústria e Tecnologia e nomeado pelo Ministro das Finanças.
 
 § 1.º O representante das actividades económicas será nomeado juntamente com um substituto e servirão ambos durante três anos, podendo ser reconduzidos.
 
 § 2.º Não obstante o disposto no parágrafo antecedente, os vogais manter-se-ão no desempenho das suas funções enquanto não forem designados os que hão-de servir no triénio seguinte.
 
-###### Art. 293.º O presidente do tribunal técnico de 2.ª instância será o director-geral das Alfândegas, sendo vogais os juízes aludidos no artigo 291.º, o director do Gabinete de Estudos, o inspector-geral dos Produtos Agrícolas e Industriais, um professor da Universidade Técnica de Lisboa e um representante das actividades económicas, sendo os dois últimos indicados, respectivamente, pelo Ministro da Educação e Investigação Científica e pelo Ministro do Comércio Externo e nomeados pelo Ministro das Finanças.
+Art. 293.º O presidente do tribunal técnico de 2.ª instância será o director-geral das Alfândegas, sendo vogais os juízes aludidos no artigo 291.º, o director do Gabinete de Estudos, o inspector-geral dos Produtos Agrícolas e Industriais, um professor da Universidade Técnica de Lisboa e um representante das actividades económicas, sendo os dois últimos indicados, respectivamente, pelo Ministro da Educação e Investigação Científica e pelo Ministro do Comércio Externo e nomeados pelo Ministro das Finanças.
 
 § único. É aplicável aos dois últimos vogais referidos no corpo deste artigo o disposto nos §§ 1.º e 2.º do artigo antecedente.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - Joaquim Jorge de Pinho Campinos - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

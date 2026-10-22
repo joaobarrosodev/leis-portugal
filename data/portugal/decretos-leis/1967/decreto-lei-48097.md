@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48097-1967-400613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa52ba6d218d6a0f62703050b8d50112948c1e858d16c71ef9db1ebdc3960774
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e693c01668d54a52455a130837d39d71fd4226fced7d769cd5113cd0f49db637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Concessão
+- Funchal
+- Madalena.Açores
+- Ministro do Interior
+- ZONA de JOGO
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:32Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +119,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro do Interior autorizado a celebrar novo contrato com a actual concessionária da zona de jogo do Funchal, de harmonia com as disposições seguintes e nos termos da minuta que vier a ser aprovada em Conselho de Ministros.
+Artigo 1.º Fica o Ministro do Interior autorizado a celebrar novo contrato com a actual concessionária da zona de jogo do Funchal, de harmonia com as disposições seguintes e nos termos da minuta que vier a ser aprovada em Conselho de Ministros.
 
-###### Art. 2.º O período da concessão terá seu termo em 31 de Dezembro do trigésimo quinto ano posterior ao da data da assinatura do novo contrato.
+Art. 2.º O período da concessão terá seu termo em 31 de Dezembro do trigésimo quinto ano posterior ao da data da assinatura do novo contrato.
 
-###### Art. 3.º A concessionária obriga-se a construir, nos termos do plano e dos estudos preliminares apresentados ao Governo como justificação do pedido de alteração do contrato, e com as alterações que o Governo, mediante informação do Comissariado do Turismo, entenda dever introduzir-lhes:
+Art. 3.º A concessionária obriga-se a construir, nos termos do plano e dos estudos preliminares apresentados ao Governo como justificação do pedido de alteração do contrato, e com as alterações que o Governo, mediante informação do Comissariado do Turismo, entenda dever introduzir-lhes:
 
 a) Um hotel com o mínimo de 300 quartos, compreendendo a edificação, em anexo, de piscina, dois campos de ténis, bem como os arranjos exteriores, incluindo parque de estacionamento e acessos;
 
 b) Um casino, luxuoso e confortável, reversível para o Estado, com todo o seu recheio, pertences e anexos, no termo da concessão, de custo não inferior a 30000 contos - excluindo o encargo da aquisição dos terrenos e qualquer outro que não seja respeitante à construção e apetrechamento -, constituído por dois edifícios (um dos quais especialmente destinado a cine-teatro), logradouros, instalações ao ar livre e acessórias que se reconheça serem necessários, parques de estacionamento e respectivos acessos.
 
-###### Art. 4.º A localização e implantação das obras a que se refere o artigo anterior, com os ajustamentos de pormenor que porventura o Governo, pelo Ministro das Obras Públicas, venha a considerar ser necessário ou conveniente introduzir-lhes, serão os que vão indicados na planta anexa ao presente diploma e que dele faz parte integrante.
+Art. 4.º A localização e implantação das obras a que se refere o artigo anterior, com os ajustamentos de pormenor que porventura o Governo, pelo Ministro das Obras Públicas, venha a considerar ser necessário ou conveniente introduzir-lhes, serão os que vão indicados na planta anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 5.º A concessionária adquirirá, por negociação amigável ou mediante expropriação por utilidade pública urgente, nos termos do artigo 10.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752), de 18 de Março de 1958, todos os imóveis necessários à realização do seu plano de obras constante dos estudos a que se refere o artigo 3.º do presente diploma, compreendidos na demarcação constante da planta anexa, incluindo a Quinta das Angústias.
+Art. 5.º A concessionária adquirirá, por negociação amigável ou mediante expropriação por utilidade pública urgente, nos termos do artigo 10.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752), de 18 de Março de 1958, todos os imóveis necessários à realização do seu plano de obras constante dos estudos a que se refere o artigo 3.º do presente diploma, compreendidos na demarcação constante da planta anexa, incluindo a Quinta das Angústias.
 
 § 1.º Os imóveis a que se refere este artigo - salvo os que se destinam à construção do hotel, seus logradouros, instalações acessórias e respectivos acessos, segundo a delimitação indicada na planta anexa, que constituirão propriedade da concessionária - serão integrados no património do Estado e, à excepção da Quinta das Angústias, ficam afectos à concessão.
 
@@ -114,7 +139,7 @@ b) Um casino, luxuoso e confortável, reversível para o Estado, com todo o seu 
 
 § 3.º A Quinta das Angústias, excluindo os seus anexos, será imediatamente entregue ao Estado, não sendo lícito à concessionária usar, em relação a ela, do direito de retenção nem pedir qualquer indemnização.
 
-###### Art. 6.º O Estado cede à concessionária, por troca com os terrenos a que alude o artigo anterior, as Quintas Bianchi e Pavão - exceptuando, quanto à segunda, a parte afecta ao casino e delimitada na planta anexa -, para nelas ser construído o hotel e instalações acessórias previstas na alínea a) do artigo 3.º
+Art. 6.º O Estado cede à concessionária, por troca com os terrenos a que alude o artigo anterior, as Quintas Bianchi e Pavão - exceptuando, quanto à segunda, a parte afecta ao casino e delimitada na planta anexa -, para nelas ser construído o hotel e instalações acessórias previstas na alínea a) do artigo 3.º
 
 § 1.º A permuta realizar-se-á mediante auto a celebrar na Direcção-Geral da Fazenda Pública, o qual constituirá documento bastante para se operarem os respectivos registos prediais e matriciais.
 
@@ -126,15 +151,15 @@ b) Se, por motivos imputáveis à concessionária, o hotel não chegar a ser con
 
 § 3.º As condições a que fica subordinada a permuta constituirão ónus reais, nos termos a para os efeitos do artigo 2.º do Código do Registo Predial.
 
-###### Art. 7.º O disposto no artigo 11.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752), de 18 de Março de 1958, é aplicável às obrigações assumidas pela concessionária, nos termos do presente diploma e do respectivo contrato de concessão.
+Art. 7.º O disposto no artigo 11.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752), de 18 de Março de 1958, é aplicável às obrigações assumidas pela concessionária, nos termos do presente diploma e do respectivo contrato de concessão.
 
-###### Art. 8.º A importância de 1500000$00 entregue pela concessionária à Câmara Municipal do Funchal, nos termos do contrato em vigor, será levada em conta das importâncias a pagar pelos terrenos a que se refere o § 2.º do artigo 5.º
+Art. 8.º A importância de 1500000$00 entregue pela concessionária à Câmara Municipal do Funchal, nos termos do contrato em vigor, será levada em conta das importâncias a pagar pelos terrenos a que se refere o § 2.º do artigo 5.º
 
 § único. No caso de o valor dos terrenos não atingir a importância de 1500000$00, a Câmara Municipal manterá direito à diferença que se apurar, para ser aplicada na construção de um pavilhão de desportos no Funchal.
 
-###### Art. 9.º A concessionária fica obrigada a entregar à Câmara Municipal do Funchal, para os fins previstos no § único do artigo anterior, a importância de 4000000$00, deduzida do saldo a que alude aquele parágrafo, em três prestações de igual montante, vencendo-se a primeira na data da adjudicação da obra de construção do pavilhão dos desportos, a segunda um ano decorrido após aquela data e a terceira na data da conclusão da obra, ou, no caso de a obra ter duração inferior a um ano, em duas prestações, a primeira das quais, correspondente a um terço da importância total, se vencerá na data da adjudicação da obra e a segunda na data da sua conclusão.
+Art. 9.º A concessionária fica obrigada a entregar à Câmara Municipal do Funchal, para os fins previstos no § único do artigo anterior, a importância de 4000000$00, deduzida do saldo a que alude aquele parágrafo, em três prestações de igual montante, vencendo-se a primeira na data da adjudicação da obra de construção do pavilhão dos desportos, a segunda um ano decorrido após aquela data e a terceira na data da conclusão da obra, ou, no caso de a obra ter duração inferior a um ano, em duas prestações, a primeira das quais, correspondente a um terço da importância total, se vencerá na data da adjudicação da obra e a segunda na data da sua conclusão.
 
-###### Art. 10.º O imposto especial a que aludem os artigos 31.º a 33.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752), de 18 de Março de 1958, respeitante à zona de jogo do Funchal, será liquidado da seguinte forma:
+Art. 10.º O imposto especial a que aludem os artigos 31.º a 33.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752), de 18 de Março de 1958, respeitante à zona de jogo do Funchal, será liquidado da seguinte forma:
 
 a) Quanto ao artigo 31.º:
 
@@ -158,22 +183,22 @@ Bancas de um tabuleiro - 2 por cento.
 
 § 2.º Logo que entre em funcionamento, o novo casino, ou antes, se se verificarem as circunstâncias referidas no § único do artigo 33.º do [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752), proceder-se-á à revisão das bases a que alude a alínea c) do presente artigo, nos termos da mencionada disposição legal.
 
-###### Art. 11.º É desde já declarada a utilidade turística das realizações abrangidas no plano de obras a que alude o artigo 3.º do presente diploma e que será discriminado no contrato de concessão, para todos os efeitos previstos nas Leis n.os 2073 e 2081, respectivamente de 23 de Dezembro de 1954 e 4 de Junho de 1956.
+Art. 11.º É desde já declarada a utilidade turística das realizações abrangidas no plano de obras a que alude o artigo 3.º do presente diploma e que será discriminado no contrato de concessão, para todos os efeitos previstos nas Leis n.os 2073 e 2081, respectivamente de 23 de Dezembro de 1954 e 4 de Junho de 1956.
 
 § 1.º Para efeito de obtenção de créditos ao abrigo das citadas leis, é conferida prioridade à realização do mesmo plano, incluindo as aquisições dos terrenos, sem prejuízo dos programas aprovados e aos quais se reconheça idêntica prioridade.
 
 § 2.º A construção dos edifícios destinados ao casino e cine-teatro anexo é excluída dos benefícios de obtenção dos créditos referidos no parágrafo anterior.
 
-###### Art. 12.º A sociedade concessionária obriga-se a que 60 por cento, pelo menos, do seu capital se mantenham representados por acções nominativas pertencentes a portugueses de origem ou naturalizados há mais de dez anos, ou a sociedades portuguesas em que igual percentagem do capital pertença a portugueses nas mesmas condições, ficando sujeita, em tudo o mais, às disposições da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, e dos artigos 21.º e seguintes do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
+Art. 12.º A sociedade concessionária obriga-se a que 60 por cento, pelo menos, do seu capital se mantenham representados por acções nominativas pertencentes a portugueses de origem ou naturalizados há mais de dez anos, ou a sociedades portuguesas em que igual percentagem do capital pertença a portugueses nas mesmas condições, ficando sujeita, em tudo o mais, às disposições da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, e dos artigos 21.º e seguintes do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
-###### Art. 13.º Em tudo o que se não mostre regulado no presente diploma, a concessão da zona de jogo do Funchal rege-se pelas disposições legais a que estão sujeitas as demais concessões.
+Art. 13.º Em tudo o que se não mostre regulado no presente diploma, a concessão da zona de jogo do Funchal rege-se pelas disposições legais a que estão sujeitas as demais concessões.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/28600/22802282.pdf))](https://files.diariodarepublica.pt/1s/1967/12/28600/22802282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/28600/22802282.pdf)
 
 Ministério do Interior, 11 de Dezembro de 1967. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

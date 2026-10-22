@@ -50,40 +50,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1970-228656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75a929656466869d97550a4c5ed85e2eff6ce6f946c7e0d4871fabedaf5b2ba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20ba856a44410173d854de52186ba9ec7d277db507c328eeaf5d6f6747191e7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Previdência
+- Caixa Nacional de Pensões
+- Caminhos de Ferro
+- Caminhos de Ferro Portugueses
+- CP
+- Integração de Trabalhadores
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensão por Morte
+- Proteção na Velhice
+- Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:299838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:31Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +163,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São integrados na Caixa Nacional de Pensões, para efeitos de protecção na invalidez, velhice e morte, os seguintes trabalhadores da Companhia dos Caminhos de Ferro Portugueses:
+Artigo 1.º - 1. São integrados na Caixa Nacional de Pensões, para efeitos de protecção na invalidez, velhice e morte, os seguintes trabalhadores da Companhia dos Caminhos de Ferro Portugueses:
 
 a) Inscritos directamente na Caixa de Previdência dos Ferroviários, em cumprimento do disposto no artigo 1.º do [Decreto-Lei n.º 40262](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40262-1955-236369);
 
@@ -142,78 +173,78 @@ c) Inscritos na Caixa Privativa do Pessoal das Oficinas e na Caixa de Invalidez 
 
 2. É também integrado na Caixa Nacional de Pensões, para os mesmos efeitos, o pessoal admitido ao serviço da Sociedade Estoril, a partir de 1 de Julho de 1955.
 
-###### Art. 2.º - 1. Aos beneficiários referidos no artigo 1.º é inteiramente aplicável o Estatuto da Caixa Nacional de Pensões e ainda, com efeitos a partir de 1 de Janeiro de 1969, o disposto na [Portaria n.º 23808](https://diariodarepublica.pt/dr/detalhe/portaria/23808-1968-256465), de 24 de Dezembro de 1968.
+Art. 2.º - 1. Aos beneficiários referidos no artigo 1.º é inteiramente aplicável o Estatuto da Caixa Nacional de Pensões e ainda, com efeitos a partir de 1 de Janeiro de 1969, o disposto na [Portaria n.º 23808](https://diariodarepublica.pt/dr/detalhe/portaria/23808-1968-256465), de 24 de Dezembro de 1968.
 
 2. Sem prejuízo do disposto no n.º 1, são garantidos aos beneficiários referidos na alínea c) do n.º 1 do artigo anterior os benefícios previstos nos regulamentos em vigor, bem como são mantidas à generalidade dos beneficiários as pensões que estejam a receber quando superiores às que resultem da aplicação da [Portaria n.º 23808](https://diariodarepublica.pt/dr/detalhe/portaria/23808-1968-256465).
 
-###### Art. 3.º Para os beneficiários referidos no artigo 1.º é anulado o prazo de dois anos previsto no artigo 17.º do Regulamento Especial do Regime de Pensões de Sobrevivência da Caixa Nacional de Pensões, publicado no Diário do Governo, 2.ª série, n.º 111, de 11 de Maio de 1966.
+Art. 3.º Para os beneficiários referidos no artigo 1.º é anulado o prazo de dois anos previsto no artigo 17.º do Regulamento Especial do Regime de Pensões de Sobrevivência da Caixa Nacional de Pensões, publicado no Diário do Governo, 2.ª série, n.º 111, de 11 de Maio de 1966.
 
-###### Art. 4.º - 1. A Caixa Nacional de Pensões assume o encargo com a concessão dos benefícios de invalidez, velhice e morte respeitantes aos beneficiários da Caixa de Previdência e Abono de Família dos Ferroviários sujeitos aos regulamentos das caixas constituídas em data anterior a 1 de Julho de 1955.
+Art. 4.º - 1. A Caixa Nacional de Pensões assume o encargo com a concessão dos benefícios de invalidez, velhice e morte respeitantes aos beneficiários da Caixa de Previdência e Abono de Família dos Ferroviários sujeitos aos regulamentos das caixas constituídas em data anterior a 1 de Julho de 1955.
 
 2. No decurso de um período inicial que não excederá a data de 31 de Outubro de 1970 e até que a Caixa Nacional de Pensões possa desempenhar-se dessa tarefa, continuará a Companhia dos Caminhos de Ferro Portugueses a efectuar o pagamento das pensões que estejam a ser pagas através dos seus serviços.
 
-###### Art. 5.º - 1. No que respeita aos beneficiários referidos no artigo anterior, a concessão dos benefícios por invalidez, velhice e morte continuará a reger-se pelos regulamentos a que estão presentemente sujeitos.
+Art. 5.º - 1. No que respeita aos beneficiários referidos no artigo anterior, a concessão dos benefícios por invalidez, velhice e morte continuará a reger-se pelos regulamentos a que estão presentemente sujeitos.
 
 2. Não obstante o disposto no número anterior, as pensões a conceder serão as que resultarem da consideração das remunerações sobre que incidiram contribuições, eliminando-se assim quaisquer limites existentes quanto ao valor máximo das pensões.
 
-###### Art. 6.º - 1. Relativamente aos beneficiários referidos no artigo 4.º, passa a ser destinada à Caixa Nacional de Pensões a contribuição de 6 por cento da totalidade das retribuições normais, bem como outras importâncias que sejam devidas por aqueles beneficiários, nos termos dos regulamentos em vigor.
+Art. 6.º - 1. Relativamente aos beneficiários referidos no artigo 4.º, passa a ser destinada à Caixa Nacional de Pensões a contribuição de 6 por cento da totalidade das retribuições normais, bem como outras importâncias que sejam devidas por aqueles beneficiários, nos termos dos regulamentos em vigor.
 
 2. Consideram-se remunerações normais, para os efeitos do disposto no número anterior, além dos vencimentos de categoria e de exercício, os prémios de percurso e todos os adicionais às respectivas remunerações que tenham carácter de regularidade ou permanência.
 
-###### Art. 7.º Quaisquer complementos de pensão que, para além das melhorias estabelecidas de acordo com as disposições legais, venham, porventura, a ser concedidos pelas entidades patronais aos beneficiários referidos nos artigos 1.º e 4.º serão suportados pelas empresas, podendo estas, todavia, transferir a sua responsabilidade para a Caixa Nacional de Pensões, mediante a entrega das respectivas reservas matemáticas.
+Art. 7.º Quaisquer complementos de pensão que, para além das melhorias estabelecidas de acordo com as disposições legais, venham, porventura, a ser concedidos pelas entidades patronais aos beneficiários referidos nos artigos 1.º e 4.º serão suportados pelas empresas, podendo estas, todavia, transferir a sua responsabilidade para a Caixa Nacional de Pensões, mediante a entrega das respectivas reservas matemáticas.
 
-###### Art. 8.º - 1. As Caixas referidas no artigo 1.º do [Decreto-Lei n.º 39557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39557-1954-217558), de 9 de Março de 1954, a Caixa Privativa do Pessoal das Oficinas e a Caixa de Invalidez do Pessoal Contratado da C. P., bem como a Caixa de Reformas e Pensões do Pessoal da Sociedade Estoril, são fundidas com a Caixa Nacional de Pensões.
+Art. 8.º - 1. As Caixas referidas no artigo 1.º do [Decreto-Lei n.º 39557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39557-1954-217558), de 9 de Março de 1954, a Caixa Privativa do Pessoal das Oficinas e a Caixa de Invalidez do Pessoal Contratado da C. P., bem como a Caixa de Reformas e Pensões do Pessoal da Sociedade Estoril, são fundidas com a Caixa Nacional de Pensões.
 
 2. O activo, avaliado pelo seu justo valor, e o passivo das instituições referidas no n.º 1, bem como da Caixa de Previdência dos Ferroviários, em organização, transitam para a Caixa Nacional de Pensões, que utilizará o património nela integrado para cobertura dos encargos com os beneficiários referidos no artigo 4.º
 
-###### Art. 9.º Compete à Companhia dos Caminhos de Ferro Portugueses a responsabilidade resultante dos litígios referentes a actualização de pensões anterior à data da fusão.
+Art. 9.º Compete à Companhia dos Caminhos de Ferro Portugueses a responsabilidade resultante dos litígios referentes a actualização de pensões anterior à data da fusão.
 
-###### Art. 10.º O fundo de reserva e o fundo de reserva de sobrevivência da Caixa Nacional de Pensões serão aumentados das importâncias correspondentes aos beneficiários referidos no artigo 1.º, reportados a 1 de Janeiro de 1969, que constituem encargo da Companhia dos Caminhos de Ferro Portugueses e da Sociedade Estoril.
+Art. 10.º O fundo de reserva e o fundo de reserva de sobrevivência da Caixa Nacional de Pensões serão aumentados das importâncias correspondentes aos beneficiários referidos no artigo 1.º, reportados a 1 de Janeiro de 1969, que constituem encargo da Companhia dos Caminhos de Ferro Portugueses e da Sociedade Estoril.
 
-###### Art. 11.º - 1. Como contrapartida dos encargos assumidos pela Caixa Nacional de Pensões, nos termos previstos nos artigos 4.º e 5.º, a Companhia dos Caminhos de Ferro Portugueses e a Sociedade Estoril ficam responsáveis pela constituição das reservas matemáticas, na parte não coberta pelo património transferido, correspondentes não só às pensões em curso na data da integração, como às pensões em formação.
+Art. 11.º - 1. Como contrapartida dos encargos assumidos pela Caixa Nacional de Pensões, nos termos previstos nos artigos 4.º e 5.º, a Companhia dos Caminhos de Ferro Portugueses e a Sociedade Estoril ficam responsáveis pela constituição das reservas matemáticas, na parte não coberta pelo património transferido, correspondentes não só às pensões em curso na data da integração, como às pensões em formação.
 
 2. As mesmas entidades ficam ainda responsáveis pelos reforços que venham a tomar-se necessários, se ocorrerem factos que, por força dos regulamentos aplicáveis, devam provocar alterações das prestações vincendas.
 
-###### Art. 12.º - 1. A integração das pensões correspondentes aos beneficiários a que se refere o artigo 4.º, feita indirectamente mediante a constituição gradual das reservas matemáticas, e o pagamento das importâncias a que alude o artigo 10.º constituem encargo inerente à exploração, ainda que a mesma seja transferida para entidades diferentes da actual concessionária.
+Art. 12.º - 1. A integração das pensões correspondentes aos beneficiários a que se refere o artigo 4.º, feita indirectamente mediante a constituição gradual das reservas matemáticas, e o pagamento das importâncias a que alude o artigo 10.º constituem encargo inerente à exploração, ainda que a mesma seja transferida para entidades diferentes da actual concessionária.
 
 2. Findo o arrendamento do ramal de Cascais à Sociedade Estoril, a Companhia dos Caminhos de Ferro Portugueses suportará, por inteiro, os encargos que subsequentemente se vencerem.
 
-###### Art. 13.º - 1. Para cumprimento das responsabilidades que lhes são atribuídas, cada uma das entidades patronais pagará à Caixa Nacional de Pensões uma renda anual cuja importância será oportunamente estabelecida, após o cálculo das reservas matemáticas referidas no artigo 11.º e a fixação dos reforços dos fundos de reserva previstos no artigo 10.º, por forma a integrar tais reservas e reforços no prazo de quarenta anos.
+Art. 13.º - 1. Para cumprimento das responsabilidades que lhes são atribuídas, cada uma das entidades patronais pagará à Caixa Nacional de Pensões uma renda anual cuja importância será oportunamente estabelecida, após o cálculo das reservas matemáticas referidas no artigo 11.º e a fixação dos reforços dos fundos de reserva previstos no artigo 10.º, por forma a integrar tais reservas e reforços no prazo de quarenta anos.
 
 2. As correcções da renda a que, por qualquer motivo, se tenha de proceder só produzirão efeitos a partir do quinquénio seguinte àquele em que se houver verificado o facto determinante dessas correcções, salvo se respeitarem ao oitavo quinquénio, caso em que produzirão efeitos imediatos.
 
 3. Os encargos com as actualizações de pensões relativas aos beneficiários a que se refere o artigo 4.º, que venham a ocorrer depois de expirado o prazo mencionado no n.º 1 do presente artigo, serão, porém, satisfeitos anualmente pelas entidades patronais.
 
-###### Art. 14.º - 1. A renda referida no n.º 1 do artigo anterior será paga em prestações trimestrais, vencíveis no fim de cada trimestre, a partir da data da fusão referida no artigo 8.º
+Art. 14.º - 1. A renda referida no n.º 1 do artigo anterior será paga em prestações trimestrais, vencíveis no fim de cada trimestre, a partir da data da fusão referida no artigo 8.º
 
 2. A renda, calculada à taxa de 5,5 por cento ao ano, terá termos crescentes de cinco em cinco anos.
 
-###### Art. 15.º - 1. A renda a pagar pela Companhia dos Caminhos de Ferro Portugueses é fixada para os três primeiros anos do 1.º quinquénio em 200000000$00, 220000000$00 e 240000000$00, respectivamente.
+Art. 15.º - 1. A renda a pagar pela Companhia dos Caminhos de Ferro Portugueses é fixada para os três primeiros anos do 1.º quinquénio em 200000000$00, 220000000$00 e 240000000$00, respectivamente.
 
 2. Os montantes das rendas dos dois últimos anos do 1.º quinquénio e dos quinquénios seguintes serão oportunamente fixados de acordo com a determinação, a efectuar, entretanto, dos valores referidos no n.º 1 do artigo 13.º
 
 3. A renda a pagar pela Sociedade Estoril será fixada para os três primeiros anos em 4200000$00, 4400000$00 e 4600000$00, respectivamente, observando-se para os anos seguintes o disposto no número anterior.
 
-###### Art. 16.º - 1. Para garantir o cumprimento das obrigações assumidas pela Companhia dos Caminhos de Ferro Portugueses e nos termos da base XVII anexa ao [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616), de 9 de Maio de 1951, as receitas da empresa, depois de deduzidas as despesas de exploração, serão prioritàriamente afectas ao pagamento da renda referida no artigo 13.º
+Art. 16.º - 1. Para garantir o cumprimento das obrigações assumidas pela Companhia dos Caminhos de Ferro Portugueses e nos termos da base XVII anexa ao [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616), de 9 de Maio de 1951, as receitas da empresa, depois de deduzidas as despesas de exploração, serão prioritàriamente afectas ao pagamento da renda referida no artigo 13.º
 
 2. No caso de insuficiência das receitas, o Estado substituir-se-á à Companhia no pagamento da renda, por antecipação da responsabilidade prevista no n.º 3 da base XVIII ou no n.º 2 da base XIX anexas ao referido [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616).
 
 3. Os juros integrados nas rendas referidas no artigo 13.º ficam isentos de imposto complementar.
 
-###### Art. 17.º - 1. O cálculo dos encargos referidos nos artigos 10.º e 11.º e das rendas a que alude o artigo 13.º será feito pelos serviços actuariais da Direcção-Geral da Previdência e Habitações Económicas e aprovado por despacho do Ministro das Corporações e Previdência Social.
+Art. 17.º - 1. O cálculo dos encargos referidos nos artigos 10.º e 11.º e das rendas a que alude o artigo 13.º será feito pelos serviços actuariais da Direcção-Geral da Previdência e Habitações Económicas e aprovado por despacho do Ministro das Corporações e Previdência Social.
 
 2. O cálculo referido no número anterior poderá ser revisto, a pedido da Companhia dos Caminhos de Ferro Portugueses, em despacho conjunto dos Ministros das Finanças, das Comunicações e das Corporações e Previdência Social.
 
 3. As dúvidas e casos omissos suscitados pelo presente diploma serão resolvidos por despacho do Ministro das Corporações e Previdência Social, ouvido o Ministro das Comunicações.
 
-###### Art. 18.º O presente decreto-lei produz efeitos a partir de 1 de Novembro de 1969.
+Art. 18.º O presente decreto-lei produz efeitos a partir de 1 de Novembro de 1969.
 
-###### Art. 19.º Ficam revogados os Decretos-Leis n.os 39557, de 9 de Março de 1954, 39866, de 23 de Outubro de 1954, 40262, de 29 de Julho de 1955, 45751, de 3 de Junho de 1964, e 47433, de 29 de Dezembro de 1966.
+Art. 19.º Ficam revogados os Decretos-Leis n.os 39557, de 9 de Março de 1954, 39866, de 23 de Outubro de 1954, 40262, de 29 de Julho de 1955, 45751, de 3 de Junho de 1964, e 47433, de 29 de Dezembro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 5 de Março de 1970.**
+Promulgado em 5 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,40 +46,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1979-381295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02af4dcfee3645e418fe27cf7f9c02b94a6599e181fd550ef322d10614fd093a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c62bd255af79dc6f75edd8d9bb1aa565d5ed86272023e5f6dcfd815b09aaa2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANA
+- Aviação Civil
+- Comissão de Fiscalização
+- Conselho de Administração
+- Conselho Geral
+- Criação de Empresas
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- Gestão Financeira
+- Intervenção do Estado
+- Navegação Aérea
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:191111:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19800816 - TRANSFERIDAS PARA A REGIÃO AUTÓNOMA DA MADEIRA, NAS PARTES RESPEITANTES A ESTA REGIÃO, AS ATRIBUIÇÕES\
+    \ E COMPETENCIAS DA EMPRESA PÚBLICA AEROPORTOS E NAVEGAÇÃO AEREA, PELO DECRETO LEI 294/80, DE 16 DE AGOSTO, PUBLICADO\
+    \ NO DR.IS, 188. I\0IS, 188. I"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:264276:por
+  label: "Alterado o nº 3, pelo DEC LEI.121/94.1994.05.14.MOPTC, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1994-264276
+  date: '1994-05-14'
+- type: amended_by
+  target: pt:dre:522380:por
+  label: "Repristinado, na sua redacção original, quando, nos termos do art. 10º, estiver concluída a transferência para o\
+    \ INAC das competências cometidas à ANA, E.P., pelo nº 6 do art. 3º, na redacção que lhe foi dada pelo art. 21º do Dec\
+    \ Lei 124/94, de 14-Mai, o art. 3º, pelo DEC LEI.133/98.1998.05.15.MEPAT DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1998-522380
+  date: '1998-05-15'
+- type: amended_by
+  target: pt:dre:191111:por
+  label: "Transitadas para a NAV, E.P e para a ANA, S.A, as competências cometidas à ANA, E.P pelo nº 6 do art. 3º (com a\
+    \ redacção introduzida pelo art. 21º do Dec Lei 121/94 de 14-Mai) pelo DEC LEI.404/98.1998.12.18.MEPAT, DR.IS-A [291],\
+    \ nos seguintes termos: - as competências previstas nas als. a), b), c), d) (quanto aos sistemas e infraestruturas de\
+    \ navegação aérea), e) e f) serão exercidas pela NAV, E.P. - as competências previstas nas als. a), b), c) e d), relativamente\
+    \ às infraestruturas aeroportuárias, serão exercidas pela ANA, S.A. Revogado pelo refrido Dec Lei 404/98 de 14-Dez, sem\
+    \ prejuízo da aplicação do disposto no seu art. 25º.\0 25º.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-1998-191111
+  date: '1998-12-18'
+- type: amended_by
+  target: pt:dre:1902947:por
+  label: "Cessados os efeitos transitórios da al. d) do nº 6 do art. 3.º do presente diploma, na redacção conferida do presente\
+    \ diploma, pelo DESP.18873/99(2ªSÉRIE).1999.09.14.SETR-MEPAT DR.IIS [229] DE 30/SET/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/18873-1999-1902947
+  date: '1999-09-14'
+- type: cites
+  target: pt:dre:139694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:35Z'
   warnings: []
   errors: []
 ---
@@ -130,9 +205,9 @@ Assim:
 
 Ouvidos os órgãos do Governo Regional, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, nos termos do presente diploma, a Empresa Pública Aeroportos e Navegação Aérea (ANA, E. P.), a qual se regerá pelo estatuto anexo ao presente decreto-lei, do qual faz parte integrante.
+Artigo 1.º É criada, nos termos do presente diploma, a Empresa Pública Aeroportos e Navegação Aérea (ANA, E. P.), a qual se regerá pelo estatuto anexo ao presente decreto-lei, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - A ANA, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira e patrimonial, que exerce os poderes e prerrogativas que lhe são conferidos por lei ou pelo Estatuto, sem prejuízo da competência tutelar cometida por este ou outros diplomas aos órgãos do Estado.
+Art. 2.º - 1 - A ANA, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira e patrimonial, que exerce os poderes e prerrogativas que lhe são conferidos por lei ou pelo Estatuto, sem prejuízo da competência tutelar cometida por este ou outros diplomas aos órgãos do Estado.
 
 2 - Consideram-se abrangidos pelo disposto no número anterior os poderes do Estado quanto:
 
@@ -154,7 +229,7 @@ g) À responsabilidade civil extracontratual.
 
 4 - A criação e definição de servidões ligadas à exploração aeroportuária e às instalações de apoio à aviação civil afectas à actividade da Empresa e cabe ao órgão estadual competente, sob proposta da ANA, E. P., devidamente informada pela DGAC.
 
-###### Art. 3.º - 1 - À ANA, E. P., caberá a exploração e desenvolvimento em moldes empresariais do serviço público de apoio à aviação civil, com o objectivo de orientar, dirigir e controlar o tráfego aéreo, assegurar a partida e chegada de aeronaves, o embarque, desembarque e encaminhamento de passageiros, carga ou correio.
+Art. 3.º - 1 - À ANA, E. P., caberá a exploração e desenvolvimento em moldes empresariais do serviço público de apoio à aviação civil, com o objectivo de orientar, dirigir e controlar o tráfego aéreo, assegurar a partida e chegada de aeronaves, o embarque, desembarque e encaminhamento de passageiros, carga ou correio.
 
 2 - Para prossecução das finalidades referidas no número anterior, a ANA, E. P., assegurará as actividades e serviços inerentes às infra-estruturas aeroportuárias e de navegação aérea a seguir referidas:
 
@@ -170,7 +245,7 @@ b) Sistemas de navegação aérea que, nos termos das convenções internacionai
 
 6 - O disposto nos números anteriores entende-se sem prejuízo do que vier a ser especificamente definindo sobre a matéria dos estatutos de autonomia dos Açores e da Madeira.
 
-###### Art. 4.º - 1 - O património inicial da ANA, E. P., é constituído pelos seguintes bens e direitos:
+Art. 4.º - 1 - O património inicial da ANA, E. P., é constituído pelos seguintes bens e direitos:
 
 a) Todos os bens e direitos de natureza patrimonial relacionados, directa ou indirectamente, com as infra-estruturas indicadas no n.º 2 do artigo 3.º deste diploma, que se encontravam afectos à Direcção-Geral da Aeronáutica Civil antes da entrada em vigor do [Decreto-Lei n.º 122/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1977-139694), de 31 de Março, e que se não mostrem necessários à prossecução das atribuições cometidas à Direcção-Geral da Aviação Civil;
 
@@ -182,9 +257,9 @@ c) Todos os bens e direitos de natureza patrimonial que a Empresa Pública Aerop
 
 3 - Não estão sujeitos à formalidade prevista no número anterior os bens e direitos cuja transferência efectiva para a ANA, E. P., houvesse já operado os seus efeitos por força do disposto no artigo 19.º do [Decreto-Lei n.º 122/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1977-139694), de 31 de Março, e dos despachos proferidos em sua execução.
 
-###### Art. 5.º A determinação do capital estatutário da Empresa será efectuada nos termos do artigo 1.º do Decreto-Lei 490/76, de 23 de Junho, considerando-se desde já como fazendo parte integrante do estatuto anexo ao presente diploma as disposições legais a publicar para o efeito.
+Art. 5.º A determinação do capital estatutário da Empresa será efectuada nos termos do artigo 1.º do Decreto-Lei 490/76, de 23 de Junho, considerando-se desde já como fazendo parte integrante do estatuto anexo ao presente diploma as disposições legais a publicar para o efeito.
 
-###### Art. 6.º - 1 - Os funcionários públicos a que se refere o n.º 2 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, exercem as suas funções na ANA, E. P., em regime de requisição e têm o direito de opção definitiva e individual pelo regime de contrato de trabalho.
+Art. 6.º - 1 - Os funcionários públicos a que se refere o n.º 2 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, exercem as suas funções na ANA, E. P., em regime de requisição e têm o direito de opção definitiva e individual pelo regime de contrato de trabalho.
 
 2 - O direito de opção referido no número anterior é igualmente reconhecido aos funcionários que à data da publicação deste diploma exerçam funções na Empresa em regime de comissão de serviço, nos termos do artigo 32.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
@@ -192,37 +267,37 @@ c) Todos os bens e direitos de natureza patrimonial que a Empresa Pública Aerop
 
 4 - Ao pessoal referido nos n.os 1 e 2 do presente artigo, é reconhecido, em qualquer caso, o direito ao abono de família e prestações complementares, à protecção na maternidade, à assistência na doença, à aposentação e o direito a pensões de sobrevivência nos termos da legislação aplicável ao funcionalismo público, com a consequente inscrição na ADSE, CGA e MSE.
 
-###### Art. 7.º - 1 - O estatuto do pessoal da ANA, E. P., será aprovado no prazo de cento e vinte dias, contados desde a entrada em vigor do presente diploma, por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações, e consagrará o regime de seguro social dos trabalhadores, com respeito pelos direitos adquiridos.
+Art. 7.º - 1 - O estatuto do pessoal da ANA, E. P., será aprovado no prazo de cento e vinte dias, contados desde a entrada em vigor do presente diploma, por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações, e consagrará o regime de seguro social dos trabalhadores, com respeito pelos direitos adquiridos.
 
 2 - O estatuto do pessoal terá a vigência mínima nele consagrada, finda a qual poderá ser substituído por um instrumento de regulamentação colectiva de trabalho.
 
 3 - As situações não previstas no estatuto do pessoal e regulamentação interna da Empresa serão exclusivamente reguladas pelo regime jurídico do contrato individual de trabalho.
 
-###### Art. 8.º O presente diploma entra imediatamente em vigor e produz efeitos a partir de 9 de Setembro de 1978.
+Art. 8.º O presente diploma entra imediatamente em vigor e produz efeitos a partir de 9 de Setembro de 1978.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Eusébio Marques de Carvalho - José Ricardo Marques da Costa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 9 de Julho de 1979.**
+Promulgado em 9 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo ao Decreto-Lei n.º 246/79
+Anexo ao Decreto-Lei n.º 246/79
 
 ESTATUTO DA ANA, E. P.
 
 ### CAPÍTULO I — Denominação e sede
 
-###### Artigo 1.º - 1 - A Empresa Pública Aeroportos e Navegação Aérea, designada abreviadamente por ANA, E. P., é uma pessoa colectiva de direito público dotada de autonomia administrativa, financeira e patrimonial.
+Artigo 1.º - 1 - A Empresa Pública Aeroportos e Navegação Aérea, designada abreviadamente por ANA, E. P., é uma pessoa colectiva de direito público dotada de autonomia administrativa, financeira e patrimonial.
 
 2 - A ANA, E. P., tem sede em Lisboa e poderá estabelecer e encerrar as delegações ou instalações que considere necessárias à prossecução dos fins estatutários em qualquer ponto do território nacional ou estrangeiro.
 
-###### Art. 2.º A ANA, E. P., rege-se pelas normas legais que lhe sejam especialmente aplicáveis, pelo presente Estatuto e respectivos regulamentos de execução, observando-se, nos casos omissos, as normas aplicáveis às empresas públicas e, na sua falta, as normas de direito privado.
+Art. 2.º A ANA, E. P., rege-se pelas normas legais que lhe sejam especialmente aplicáveis, pelo presente Estatuto e respectivos regulamentos de execução, observando-se, nos casos omissos, as normas aplicáveis às empresas públicas e, na sua falta, as normas de direito privado.
 
 ### CAPÍTULO II — Objecto
 
-###### Art. 3.º - 1 - Constitui objecto principal da ANA, E. P., o estudo, planeamento, construção, exploração e desenvolvimento, em moldes empresariais, de infra-estruturas aeroportuárias e de navegação aérea.
+Art. 3.º - 1 - Constitui objecto principal da ANA, E. P., o estudo, planeamento, construção, exploração e desenvolvimento, em moldes empresariais, de infra-estruturas aeroportuárias e de navegação aérea.
 
 2 - Acessoriamente poderá a Empresa explorar actividades e efectuar operações comerciais e financeiras relacionadas directa ou indirectamente, no todo ou em parte, com o objecto principal ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
 
@@ -230,7 +305,7 @@ ESTATUTO DA ANA, E. P.
 
 ### CAPÍTULO III — Órgãos - Constituição, competência e funcionamento
 
-###### Art. 4.º São órgãos da Empresa:
+Art. 4.º São órgãos da Empresa:
 
 a) O conselho geral;
 
@@ -240,7 +315,7 @@ c) A comissão de fiscalização.
 
 #### SECÇÃO I — Conselho geral
 
-###### Art. 5.º - 1 - O conselho geral será nomeado por despacho do Ministro dos Transportes e Comunicações e será constituído por:
+Art. 5.º - 1 - O conselho geral será nomeado por despacho do Ministro dos Transportes e Comunicações e será constituído por:
 
 a) Um representante de cada um dos Ministérios que superintenda nos sectores de defesa nacional, transportes, comunicações, administração interna, comércio, turismo, finanças, plano, negócios estrangeiros, obras públicas, trabalho, saúde pública e ambiente;
 
@@ -266,7 +341,7 @@ i) Nove representantes dos trabalhadores da Empresa designados de entre eles pel
 
 4 - Nas reuniões do conselho geral podem participar, sem direito a voto, um ou mais membros do conselho de gerência e os elementos da comissão de fiscalização.
 
-###### Art. 6.º - 1 - Compete ao conselho geral:
+Art. 6.º - 1 - Compete ao conselho geral:
 
 a) Apreciar e votar os planos plurianuais de actividade e financeiros;
 
@@ -284,11 +359,11 @@ e) Eleger o vice-presidente e o secretário do conselho.
 
 #### SECÇÃO II — Conselho de gerência
 
-###### Art. 7.º - 1 - O conselho de gerência é composto por um presidente e quatro vogais, nomeados pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos os trabalhadores da Empresa no prazo que lhes for fixado para o efeito.
+Art. 7.º - 1 - O conselho de gerência é composto por um presidente e quatro vogais, nomeados pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos os trabalhadores da Empresa no prazo que lhes for fixado para o efeito.
 
 2 - Nas suas faltas ou impedimentos, o presidente do conselho de gerência é substituído pelo vogal que for designado pelo conselho na sua primeira reunião após a nomeação.
 
-###### Art. 8.º - 1 - O conselho de gerência é o órgão de administração da ANA, E. P., cabendo-lhe exercer os poderes que, por disposição expressa da lei, regulamento ou estatuto, não hajam sido cometidos a outro órgão da Empresa.
+Art. 8.º - 1 - O conselho de gerência é o órgão de administração da ANA, E. P., cabendo-lhe exercer os poderes que, por disposição expressa da lei, regulamento ou estatuto, não hajam sido cometidos a outro órgão da Empresa.
 
 2 - Compete ao conselho de gerência a prática de todos os actos necessários a assegurar a gestão e desenvolvimento da Empresa, a representação em juízo e fora dele e a administração dos bens afectos à actividade da ANA, E. P., incluindo a aquisição, alienação e onerarão do seu património.
 
@@ -324,13 +399,13 @@ n) Assegurar a participação em associações ou organismos nacionais ou intern
 
 5 - A competência do conselho de gerência para a prática de actos administrativos define-se de acordo com as regras de direito público.
 
-###### Art. 9.º O conselho de gerência poderá:
+Art. 9.º O conselho de gerência poderá:
 
 a) Delegar, sob proposta do seu presidente, a competência para a realização de quaisquer das suas atribuições em um ou mais dos seus vogais;
 
 b) Fazer-se representar por procurador em actos ou contratos em que a ANA, E. P., deva ser parte.
 
-###### Art. 10.º - 1 - Compete ao presidente do conselho de gerência a coordenação e a orientação geral das actividades do conselho.
+Art. 10.º - 1 - Compete ao presidente do conselho de gerência a coordenação e a orientação geral das actividades do conselho.
 
 2 - Compete em especial ao presidente do conselho de gerência:
 
@@ -342,13 +417,13 @@ c) Convocar reuniões conjuntas do conselho de gerência e da comissão de fisca
 
 d) Representar a Empresa em juízo ou fora dele, tanto no plano nacional como no internacional, quando outros representantes ou mandatários não hajam sido designados.
 
-###### Art. 11.º - 1 - O conselho de gerência reunirá ordinariamente pelo menos quinzenalmente e extraordinariamente sempre que o presidente o convocar por iniciativa própria ou a solicitação da maioria dos vogais.
+Art. 11.º - 1 - O conselho de gerência reunirá ordinariamente pelo menos quinzenalmente e extraordinariamente sempre que o presidente o convocar por iniciativa própria ou a solicitação da maioria dos vogais.
 
 2 - A direcção das reuniões compete ao presidente ou ao vogal que o substitua e a elas deverão assistir quando convocados os membros da comissão de fiscalização.
 
-###### Art. 12.º A Empresa fica obrigada pelos actos praticados em seu nome pela assinatura de dois membros do conselho de gerência ou pela assinatura de quem para tanto houver recebido mandato ou delegação expressa do conselho de gerência.
+Art. 12.º A Empresa fica obrigada pelos actos praticados em seu nome pela assinatura de dois membros do conselho de gerência ou pela assinatura de quem para tanto houver recebido mandato ou delegação expressa do conselho de gerência.
 
-###### Art. 13.º - 1 - Os membros do conselho de gerência desempenharão os seus cargos em regime de tempo inteiro, sendo-lhes vedado o exercício de quaisquer outras funções remuneradas e o exercício de funções que envolvam a representação de interesses privados, próprios ou alheios, nos corpos gerentes de quaisquer empresas, bem como a prestação de qualquer espécie de serviço a empresas concorrentes, fornecedoras, clientes ou ligadas por qualquer vínculo contratual à ANA, E. P., salvo por encargo da própria Empresa ou entidade do sector público.
+Art. 13.º - 1 - Os membros do conselho de gerência desempenharão os seus cargos em regime de tempo inteiro, sendo-lhes vedado o exercício de quaisquer outras funções remuneradas e o exercício de funções que envolvam a representação de interesses privados, próprios ou alheios, nos corpos gerentes de quaisquer empresas, bem como a prestação de qualquer espécie de serviço a empresas concorrentes, fornecedoras, clientes ou ligadas por qualquer vínculo contratual à ANA, E. P., salvo por encargo da própria Empresa ou entidade do sector público.
 
 2 - Exceptua-se do estabelecido no número anterior o exercício de missões de serviço público, que, pela sua natureza, se considere conveniente serem cometidas a quem ocupe determinado cargo nos órgãos da Empresa.
 
@@ -356,7 +431,7 @@ d) Representar a Empresa em juízo ou fora dele, tanto no plano nacional como no
 
 #### SECÇÃO III — Comissão de fiscalização
 
-###### Art. 14.º - 1 - A comissão de fiscalização composta por três membros, que escolherão de entre si o presidente.
+Art. 14.º - 1 - A comissão de fiscalização composta por três membros, que escolherão de entre si o presidente.
 
 2 - Os membros da comissão de fiscalização serão nomeados por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações, sendo um deles indicado pelos trabalhadores da Empresa.
 
@@ -364,7 +439,7 @@ d) Representar a Empresa em juízo ou fora dele, tanto no plano nacional como no
 
 4 - Um dos membros da comissão de fiscalização será obrigatoriamente revisor oficial de contas.
 
-###### Art. 15.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à Empresa ou às actividades por ela exercidas e fiscalizar a sua gestão.
+Art. 15.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à Empresa ou às actividades por ela exercidas e fiscalizar a sua gestão.
 
 2 - Compete em especial à comissão de fiscalização:
 
@@ -392,11 +467,11 @@ b) Promover auditorias por recurso à prestação de serviço de indivíduos ou 
 
 c) Obter de terceiros que tenham realizado operações por conta da Empresa as informações entendidas por convenientes para o esclarecimento dessas operações.
 
-###### Art. 16.º A comissão de fiscalização terá uma reunião ordinária mensal e as reuniões extraordinárias que o presidente convocar por sua iniciativa, a solicitação da maioria dos seus membros ou dos presidentes dos conselhos geral ou de gerência.
+Art. 16.º A comissão de fiscalização terá uma reunião ordinária mensal e as reuniões extraordinárias que o presidente convocar por sua iniciativa, a solicitação da maioria dos seus membros ou dos presidentes dos conselhos geral ou de gerência.
 
 #### SECÇÃO IV — Disposições comuns
 
-###### Art. 17.º - 1 - Os órgãos colegiais da Empresa só podem deliberar validamente quando esteja presente a maioria dos seus membros.
+Art. 17.º - 1 - Os órgãos colegiais da Empresa só podem deliberar validamente quando esteja presente a maioria dos seus membros.
 
 2 - As deliberações serão tomadas por maioria absoluta de voto dos membros presentes, não podendo estes abster-se de votar, nem fazê-lo por procuração ou correspondência.
 
@@ -406,11 +481,11 @@ c) Obter de terceiros que tenham realizado operações por conta da Empresa as i
 
 5 - Os membros que discordem das deliberações tomadas por maioria poderão fazer registar na acta a respectiva declaração de voto.
 
-###### Art. 18.º - 1 - O mandato dos membros dos órgãos da Empresa é de três anos, renovável por iguais períodos.
+Art. 18.º - 1 - O mandato dos membros dos órgãos da Empresa é de três anos, renovável por iguais períodos.
 
 2 - O exercício do mandato em qualquer dos Órgãos da Empresa não depende da prestação de caução.
 
-###### Art. 19.º - 1 - Os membros do conselho geral perceberão por cada reunião a que assistam uma senha de presença de quantitativo fixado pelo Ministro dos transportes e Comunicações e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.
+Art. 19.º - 1 - Os membros do conselho geral perceberão por cada reunião a que assistam uma senha de presença de quantitativo fixado pelo Ministro dos transportes e Comunicações e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.
 
 2 - O presidente e os vogais do conselho de gerência percebem as remunerações estabelecidas de acordo com as normas legais aplicáveis.
 
@@ -418,9 +493,9 @@ c) Obter de terceiros que tenham realizado operações por conta da Empresa as i
 
 ### CAPÍTULO IV — Intervenção do Governo
 
-###### Art. 20.º Sem prejuízo da autonomia legal e estatutária conferida à Empresa, cabe ao Ministro dos Transportes e Comunicações definir o enquadramento geral no qual se desenvolverá a sua actividade de modo a garantir a sua harmonização com as políticas globais e sectoriais e com o planeamento económico nacional.
+Art. 20.º Sem prejuízo da autonomia legal e estatutária conferida à Empresa, cabe ao Ministro dos Transportes e Comunicações definir o enquadramento geral no qual se desenvolverá a sua actividade de modo a garantir a sua harmonização com as políticas globais e sectoriais e com o planeamento económico nacional.
 
-###### Art. 21.º - 1 - No exercício da tutela empresarial compete aos Ministros das Finanças e do plano e dos Transportes e Comunicações:
+Art. 21.º - 1 - No exercício da tutela empresarial compete aos Ministros das Finanças e do plano e dos Transportes e Comunicações:
 
 a) Aprovar os planos plurianuais de actividade financeiros;
 
@@ -442,15 +517,15 @@ i) Aprovar os princípios a que deve obedecer reavaliação do activo e os, resp
 
 2 - Em relação às matérias referidas nas alíneas e) e f) do n.º 1 deste artigo 1.º é também necessária a autorização ou aprovação do Ministro competente para a fixação de preços.
 
-###### Art. 22.º Depende de autorização conjunta dos Ministros do Trabalho, dos Transportes e Comunicações e das Finanças e do Plano a aprovação do estatuto do pessoal, em particular no que respeita à política de remunerações.
+Art. 22.º Depende de autorização conjunta dos Ministros do Trabalho, dos Transportes e Comunicações e das Finanças e do Plano a aprovação do estatuto do pessoal, em particular no que respeita à política de remunerações.
 
 ### CAPÍTULO V — Gestão financeira, económica e patrimonial
 
-###### Art. 23.º - 1 - A Empresa, na sua gestão, terá sempre como objectivo alcançar o equilíbrio económico da exploração, assegurando níveis adequados de autofinanciamento e de remuneração do capital investido.
+Art. 23.º - 1 - A Empresa, na sua gestão, terá sempre como objectivo alcançar o equilíbrio económico da exploração, assegurando níveis adequados de autofinanciamento e de remuneração do capital investido.
 
 2 - Sempre que se verifiquem as situações previstas no n.º 3 do artigo 3.º deste Estatuto, o Estado compensará a ANA, E. P., pelos encargos ou redução de receitas daí resultantes.
 
-###### Art. 24.º - 1 - O planeamento da gestão económica e financeira da Empresa deverá ser elaborado em harmonia com os planos globais e sectoriais da actividade económica nacional e constará dos seguinte documentos:
+Art. 24.º - 1 - O planeamento da gestão económica e financeira da Empresa deverá ser elaborado em harmonia com os planos globais e sectoriais da actividade económica nacional e constará dos seguinte documentos:
 
 a) Planos de actividades e financeiros anuais e plurianuais;
 
@@ -458,7 +533,7 @@ b) Os orçamentos anuais de exploração e investimentos.
 
 2 - O conselho de gerência poderá promover os ajustamentos necessários aos orçamentos de investimentos e de exploração sempre que circunstâncias ponderosas o imponham.
 
-###### Art. 25.º Constituem proveitos da empresa:
+Art. 25.º Constituem proveitos da empresa:
 
 a) As receitas e taxas resultantes da sua actividade, cobradas directamente ou através de organizações internacionais especializadas, às quais, para o efeito, a Empresa se encontre associada por qualquer forma;
 
@@ -476,33 +551,33 @@ g) Doações, heranças ou legados que lhe sejam feitos;
 
 h) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, lhe devam pertencer.
 
-###### Art. 26.º - 1 - Constitui património da Empresa o conjunto de bens e direitos adquiridos para ou no exercício da sua actividade, podendo administrá-lo e dele dispor livremente, sem sujeição à disciplina jurídica do domínio privado do Estado.
+Art. 26.º - 1 - Constitui património da Empresa o conjunto de bens e direitos adquiridos para ou no exercício da sua actividade, podendo administrá-lo e dele dispor livremente, sem sujeição à disciplina jurídica do domínio privado do Estado.
 
 2 - Além dos bens e direitos do seu património, a Empresa administrará os bens e direitos do domínio público afectos às actividades a seu cargo, deles devendo manter cadastro actualizado.
 
-###### Art. 27.º - 1 - Os bens dominiais afectos à exploração aeroportuária e de navegação aérea que se encontrem sob administração da ANA, E. P., bem como todos os bens que ela adquira por título privado ou público e que forem afectos àquele domínio, ingressarão no património da Empresa, mediante declaração do conselho de gerência e parecer técnico favorável da DGAC, sempre que, por qualquer motivo, sejam desafectados.
+Art. 27.º - 1 - Os bens dominiais afectos à exploração aeroportuária e de navegação aérea que se encontrem sob administração da ANA, E. P., bem como todos os bens que ela adquira por título privado ou público e que forem afectos àquele domínio, ingressarão no património da Empresa, mediante declaração do conselho de gerência e parecer técnico favorável da DGAC, sempre que, por qualquer motivo, sejam desafectados.
 
 2 - Excluem-se do disposto do número anterior, os terrenos, que não hajam sido adquiridos pela Empresa.
 
 3 - O valor dos bens patrimoniais adquiridos pela ANA, E. P., por título privado ou público, e que sejam afectados ao domínio público, bem como o valor das benfeitorias realizadas pela Empresa em bens dominiais sob sua administração, devem ser repostos nos termos gerais de direito, caso a ANA, E. P., seja privada da sua administração ou exploração.
 
-###### Art. 28.º - 1 - O balanço anual deve ser organizado por forma a separar, no activo imobilizado da Empresa, os bens dominiais dos patrimoniais, tendo em vista o seu diverso regime e responsabilidade pelo passivo.
+Art. 28.º - 1 - O balanço anual deve ser organizado por forma a separar, no activo imobilizado da Empresa, os bens dominiais dos patrimoniais, tendo em vista o seu diverso regime e responsabilidade pelo passivo.
 
 2 - Na contabilização dos bens dominais serão escriturados em conta distinta aqueles que hajam sido adquiridos pela ANA, E. P.,
 
-###### Art. 29.º - 1 - A Empresa procederá periodicamente à reavaliação do activo imobilizado próprio ou do domínio público afecto à sua actividade, com o objectivo de obter uma mais exacta correspondência entre os seus valores a custos de substituição e os contabilísticos.
+Art. 29.º - 1 - A Empresa procederá periodicamente à reavaliação do activo imobilizado próprio ou do domínio público afecto à sua actividade, com o objectivo de obter uma mais exacta correspondência entre os seus valores a custos de substituição e os contabilísticos.
 
 2 - A amortização, reintegração e reavaliação do activo imobilizado serão efectuados de acordo com critérios aprovados pelos Ministros dos Transportes Comunicações e das Finanças e do Plano.
 
 3 - O valor anual das amortizações e reintegrações do activo imobilizado reavaliado, incluindo as que incidem sobre os bens do domínio público afectos à actividade da ANA, E. P., constitui encargo de exploração.
 
-###### Art. 30.º - 1 - Os saldos de gerência, quando negativos, transitarão para o ano económico seguinte e, quando positivos, serão distribuídos, após remuneração dos capitais estatutários, nos termos legais, pelos fundos e reservas existentes.
+Art. 30.º - 1 - Os saldos de gerência, quando negativos, transitarão para o ano económico seguinte e, quando positivos, serão distribuídos, após remuneração dos capitais estatutários, nos termos legais, pelos fundos e reservas existentes.
 
 2 - A proposta de aplicação de resultados referida no número anterior, obtidos os pareceres da comissão de fiscalização e do conselho geral, será submetida à homologação do Ministro dos Transportes Comunicações.
 
 3 - O Estado prescindirá da remuneração legal do capital estatutário enquanto se verificarem as situações referidas no n.º 2 do artigo 23.º do presente Estatuto.
 
-###### Art. 31.º - 1 - A Empresa constituirá as provisões, reservas e fundos que se mostrem necessários, designadamente:
+Art. 31.º - 1 - A Empresa constituirá as provisões, reservas e fundos que se mostrem necessários, designadamente:
 
 a) Reserva geral;
 
@@ -526,15 +601,15 @@ c) Os rendimentos especialmente afectos a investimentos.
 
 6 - Para este efeito, entender-se-á como autofinanciamento bruto o valor das amortizações e dos excedentes retidos líquidos de impostos e como taxa de autofinanciamento bruto o quociente entre o valor do autofinanciamento bruto e o valor do capital estatutário.
 
-###### Art. 32.º O relatório do conselho de gerência, o balanço e as contas de ganhos e perdas, depois de aprovados nos termos do presente Estatuto, serão publicados, juntamente com o parecer da comissão de fiscalização, no Diário da República e num jornal diário local da sede da empresa.
+Art. 32.º O relatório do conselho de gerência, o balanço e as contas de ganhos e perdas, depois de aprovados nos termos do presente Estatuto, serão publicados, juntamente com o parecer da comissão de fiscalização, no Diário da República e num jornal diário local da sede da empresa.
 
 ### CAPÍTULO VI — Regime de exploração
 
-###### Art. 33.º - 1 - Enquanto responsável por um serviço público, compete ao conselho de gerência da ANA, E. P., praticar todos os actos administrativos definitivos e executórios, individuais ou genéricos cuja prática, por lei ou regulamento, coubesse aos órgãos governamentais no exercício das atribuições relativas à administração das infra-estruturas aeroportuárias e de navegação aérea, podendo, para o efeito, requisitara força pública necessária à execução das suas deliberações.
+Art. 33.º - 1 - Enquanto responsável por um serviço público, compete ao conselho de gerência da ANA, E. P., praticar todos os actos administrativos definitivos e executórios, individuais ou genéricos cuja prática, por lei ou regulamento, coubesse aos órgãos governamentais no exercício das atribuições relativas à administração das infra-estruturas aeroportuárias e de navegação aérea, podendo, para o efeito, requisitara força pública necessária à execução das suas deliberações.
 
 2 - A executoriedade dos actos praticados pelo conselho de gerência da ANA, E. P., não depende, salvo nos casos expressamente previstos, de nenhum contrôle, visto ou aprovação de outras entidades ou órgãos.
 
-###### Art. 34.º - 1 - A ANA, E. P., é uma pessoa colectiva de direito público dotada de autonomia administrativa, financeira e patrimonial que exerce os poderes e prerrogativas que lhe são conferidos por lei ou pelo Estatuto, sem prejuízo da competência tutelar cometida por este ou outros diplomas aos órgãos do estado.
+Art. 34.º - 1 - A ANA, E. P., é uma pessoa colectiva de direito público dotada de autonomia administrativa, financeira e patrimonial que exerce os poderes e prerrogativas que lhe são conferidos por lei ou pelo Estatuto, sem prejuízo da competência tutelar cometida por este ou outros diplomas aos órgãos do estado.
 
 2 - Consideram-se abrangidos pelo disposto no número anterior os poderes do Estado quanto:
 
@@ -558,32 +633,32 @@ g) À responsabilidade civil extracontratual.
 
 ### CAPÍTULO VII — Disposições gerais
 
-###### Art. 35.º - 1 - A responsabilidade da Empresa é limitada.
+Art. 35.º - 1 - A responsabilidade da Empresa é limitada.
 
 2 - O Estado só responderá perante terceiros pelos actos e factos imputáveis à Empresa se e na medida em que de modo expresso tiver assumido tal responsabilidade.
 
-###### Art. 36.º A ANA, E. P., está sujeita ao regime geral de tributação das empresas públicas, podendo, contudo, ser-lhe concedidos, nos termos legais, especiais benefícios e isenções com vista à prossecução das obrigações de serviço público que lhe sejam cometidas.
+Art. 36.º A ANA, E. P., está sujeita ao regime geral de tributação das empresas públicas, podendo, contudo, ser-lhe concedidos, nos termos legais, especiais benefícios e isenções com vista à prossecução das obrigações de serviço público que lhe sejam cometidas.
 
-###### Art. 37.º - 1 - É da competência dos tribunais administrativos o conhecimento dos recursos dos actos administrativos definitivos e executórios do conselho de gerência da ANA, E. P., bem como o julgamento das acções sobre validade, interpretação ou execução de contratos administrativos ou tendentes à execução da responsabilidade da Empresa e dos seus órgãos.
+Art. 37.º - 1 - É da competência dos tribunais administrativos o conhecimento dos recursos dos actos administrativos definitivos e executórios do conselho de gerência da ANA, E. P., bem como o julgamento das acções sobre validade, interpretação ou execução de contratos administrativos ou tendentes à execução da responsabilidade da Empresa e dos seus órgãos.
 
 2 - O disposto no número anterior não prejudicam conhecimento por parte dos tribunais judiciais nas questões que sejam da sua competência em razão da matéria.
 
 3 - Salvo menção expressa assumida na cláusula compromissória, não se presume, em nenhum caso, que a Empresa haja renunciado ao julgamento dos seus actos segundo o direito.
 
-###### Art. 38.º - 1 - O estatuto do pessoal será publicado no prazo referido no artigo 7.º do Decreto-Lei de que este Estatuto faz parte integrante, sem prejuízo da aplicação retroactiva a 1 de Janeiro de 1979 da respectiva tabela salarial.
+Art. 38.º - 1 - O estatuto do pessoal será publicado no prazo referido no artigo 7.º do Decreto-Lei de que este Estatuto faz parte integrante, sem prejuízo da aplicação retroactiva a 1 de Janeiro de 1979 da respectiva tabela salarial.
 
 2 - Até à entrada em vigor do estatuto do pessoal, os trabalhadores não oriundos dos serviços de Estado reger-se-ão pelas disposições gerais do Regime Jurídico do Contrato Individual de Trabalho.
 
-###### Art. 39.º O regime de requisição de pessoal referido no artigo 6.º do Decreto-Lei de que este Estatuto faz parte integrante é exercido na ANA, E. P., nas seguintes condições:
+Art. 39.º O regime de requisição de pessoal referido no artigo 6.º do Decreto-Lei de que este Estatuto faz parte integrante é exercido na ANA, E. P., nas seguintes condições:
 
 a) As disposições do estatuto do pessoal, bem como a regulamentação interna aprovada pelo conselho de gerência da ANA, E. P., são aplicáveis ao pessoal requisitado e não poderão ser menos favoráveis aos trabalhadores que a legislação dos funcionários civis do Estado;
 
 b) O exercício do poder disciplinar compete ao Ministro da Tutela, que, por despacho, o poderá delegar no conselho de gerência da ANA, E. P., salvo nos casos a que se refere o artigo 17.º do [Decreto-Lei n.º 32394](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32394-1942-343164), de 9 de Fevereiro de 1943.
 
-###### Art. 40.º - 1 - Todos os trabalhadores ao serviço da ANA, E. P., deverão auferir vencimentos líquidos idênticos quando no desempenho efectivo das mesmas funções, quer sejam ou não agentes civis do estado.
+Art. 40.º - 1 - Todos os trabalhadores ao serviço da ANA, E. P., deverão auferir vencimentos líquidos idênticos quando no desempenho efectivo das mesmas funções, quer sejam ou não agentes civis do estado.
 
 2 - A determinação dos valores líquidos dos vencimentos efectua-se mediante a dedução dos descontos obrigatórios a reter na fonte, bem como do imposto complementar calculado exclusivamente na base do vencimento ilíquido individual.
 
 3 - Para todos os efeitos legais, designadamente o da aposentação, as deduções devidas pelo pessoal incidirão sobre a totalidade da remuneração correspondente aos cargos exercidos na Empresa.
 
-###### Art. 41.º As dúvidas que se suscitarem na interpretação ou aplicação do presente Estatuto serão resolvidas por despacho do Ministro dos Transportes e Comunicações e do Ministro das Finanças e do Plano quando for caso disso.
+Art. 41.º As dúvidas que se suscitarem na interpretação ou aplicação do presente Estatuto serão resolvidas por despacho do Ministro dos Transportes e Comunicações e do Ministro das Finanças e do Plano quando for caso disso.

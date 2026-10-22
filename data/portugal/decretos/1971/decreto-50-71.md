@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/50-1971-446900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2146a29f121e6e729ef902d79b750cd0d3b76aa245ac21b370f5ac5314fe994
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e7799af566387e4bd7799ef09fc8ea6c2751f0ef84a1c2865634e708494ccbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Fronteiras
+relationships:
+- type: cites
+  target: pt:dre:141587:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:01Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +99,7 @@ Sob proposta do Governo-Geral de Angola;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 1.º e 2.º do [Decreto n.º 339/70](https://diariodarepublica.pt/dr/detalhe/decreto/339-1970-141587), de 16 de Julho do ano findo, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 2.º do [Decreto n.º 339/70](https://diariodarepublica.pt/dr/detalhe/decreto/339-1970-141587), de 16 de Julho do ano findo, passam a ter a seguinte redacção:
 
 Antigo 1.º - 1. É criado na província de Angola o distrito do Cunene, com sede em Pereira de Eça.
 
@@ -103,7 +109,7 @@ Antigo 1.º - 1. É criado na província de Angola o distrito do Cunene, com sed
 
 O curso do rio Bale, desde a confluência do rio Londaviula até à sua confluência no rio Cubango; o curso do rio Cubango, para jusante, até à confluência do seu afluente da margem esquerda, Techimaquela; a linha quebrada que une esta confluência às nascentes dos rios Samabimbe e Cubati; o curso do rio (mulola) Cubati (que também se designa por Camunda, Camuandeje e Lupangue) até à confluência com a mulola Nambuda; desta confluência à linha quebrada que a une ao vértice geodésico secundário Namunhango (cota 1155,5) e ao marco n.º 34 da fronteira com o Sudoeste Africano; a linha de fronteira desde o marco n.º 34 até ao marco n.º 1, junto às cataratas do Ruacaná; a linha média do curso do rio Cunene desde as cataratas do Ruacaná até à confluência do rio Ouriamuquende; o curso do rio Ouriamuquende até à sua nascente; a linha quebrada que une esta nascente, o vértice geodésico principal Chifiué, o vértice geodésico secundário Ovipaca e a nascente do rio Mocuelo (ou Tucalavire); o curso do rio Mocuelo (ou Tucalavire), desde a nascente até à sua confluência do rio Riáua (ou Nondejira); o curso do rio Riáua (ou Nondejira) até à sua confluência no rio Curoca; o curso do rio Curoca, desde a confluência do rio Riáua (ou Nondejira) até à confluência do rio Techunge; o curso deste rio (que para montante toma as designações de Catechipuputa, Tapaela, Techindejumba, Tongo, Caitechié, Cafela e Lua) até à confluência do rio Uabola; o curso deste rio até à sua nascente (norte); a linha que une as nascentes dos rios Uabola e Luano (ou Nhene); o curso do rio Luano (ou Nhene) até à sua confluência no rio Caculuvar; o curso deste rio, para montante, até à confluência do rio Cotangota; o curso do rio Cotangota até à sua nascente; a linha quebrada que une a nascente do Rio Cotangota, o vértice geodésico secundário Catouca, o vértice geodésico principal Cacimba e a Etala Lonjanja (na mulola Lonjanja); a continuação dessa linha quebrada unindo a Etala Lonjanja, o vértice geodésico secundário Vacainto S., o vértice geodésico secundário Uncuio, a Etala Uáfi, a nascente da mulola Esclempane e a Etala Mutechimbumba (ou Vimbumba); o curso da mulola Mutechimbumba (ou Maango ou Mambonde) desde a Etala Mutechimbumba (ou Vimbumba) até à sua confluência na mulola Mucope; a linha quebrada unindo esta confluência aos vértices geodésicos principais Vatava e Ialabandua e ao ponto em que o canal norte, que liga o rio Cunene à lagoa Ialucula, desemboca nesta lagoa: o referido canal norte até ao rio Cunene; o curso do rio Cunene, para montante, até à confluência do rio Calonga; o curso do rio Calonga (ou Colui) desde a sua confluência no rio Cunene até à confluência do rio Camene; o curso deste rio até à confluência do rio Calucuve (ou Ondejiracalucuve); o curso deste rio até à sua nascente; a linha quebrada que une a nascente do rio Calucuve (ou Ondejiracalucuve) às nascentes dos rios Malote, Catanga, Vinhate e Catechipulo; o curso deste último rio até à sua confluência no rio Cuvelai; o curso do rio Cuvelai até à confluência do rio Patiângulo; o curso deste rio até à sua nascente; a linha que une as nascentes dos rios Patiângulo e Londaviula; o curso deste último rio até à confluência do rio Bale.
 
-###### Art. 2.º Os restantes distritos de Angola terão, na carta, os seguintes limites:
+Art. 2.º Os restantes distritos de Angola terão, na carta, os seguintes limites:
 
 1. Distrito de Cabinda, com sede em Cabinda e compreendendo os concelhos de Cabinda e de Cacongo e as circunscrições de Buco Zau e do Belize:
 
@@ -173,10 +179,10 @@ O curso do rio Catunda desde a confluência no rio Cutato dos Ganguelas até à 
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Fevereiro de 1971.**
+Promulgado em 12 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

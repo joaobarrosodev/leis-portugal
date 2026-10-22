@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46539-1965-510033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b19c7706ccfb28e113a6a5fa18debcc302a2c1a6f3e808fb6dc2a3012f5fe2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edd781ff37d96158cc1c46d10d0529317fa8a7c2d5edab1d57459e93f2229739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:39Z'
   warnings: []
   errors: []
 ---
@@ -84,13 +90,13 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os actuais artigos da pauta de importação n.os 33.06.02 e 85.19.14 a 85.19.17 passam a ter, respectivamente, os n.os 33.06.03 e 85.19.15 a 85.19.18.
+Artigo 1.º Os actuais artigos da pauta de importação n.os 33.06.02 e 85.19.14 a 85.19.17 passam a ter, respectivamente, os n.os 33.06.03 e 85.19.15 a 85.19.18.
 
-###### Art. 2.º É aditada ao capítulo 5.º da pauta de importação a seguinte nota:
+Art. 2.º É aditada ao capítulo 5.º da pauta de importação a seguinte nota:
 
 * 5 - O sémen, proveniente de qualquer das espécies pecuárias, é isento de direitos mediante o parecer favorável da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 3.º São introduzidas no texto da pauta de importação as seguintes alterações:
+Art. 3.º São introduzidas no texto da pauta de importação as seguintes alterações:
 
 33.06 ...
 
@@ -108,6 +114,6 @@ Pauta máxima, ad valorem 12%.
 
 Pauta mínima, ad valorem 6%.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

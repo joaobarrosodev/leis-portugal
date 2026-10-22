@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/119-1972-397522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 962de5458c686b9f30bbb8003524226f7566ad7d45e22fc3fec113e0bf7f92c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 317a51becec7bd3eb95a1ea261fdba5dd29325e83d074dc0600078e856e4a866
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:40Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +95,22 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 2.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Ministro do Ultramar, em nome da província de Cabo Verde, a contrair um empréstimo no Banco Nacional Ultramarino até ao montante de 20000000$00, à taxa de juro de 3,75 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro de cada ano, e amortizável em dez prestações semestrais iguais, vencendo-se a primeira em 30 de Junho de 1978.
+Artigo 1.º - 1. É autorizado o Ministro do Ultramar, em nome da província de Cabo Verde, a contrair um empréstimo no Banco Nacional Ultramarino até ao montante de 20000000$00, à taxa de juro de 3,75 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro de cada ano, e amortizável em dez prestações semestrais iguais, vencendo-se a primeira em 30 de Junho de 1978.
 
 2. Este empréstimo será representado por títulos emitidos pela província de Cabo Verde.
 
-###### Art. 2.º - 1. Ao abrigo do que estabelece o n.º 4 do Diploma Legislativo Ministerial n.º 1, de 25 de Agosto de 1962, o produto do empréstimo referido no artigo anterior será integralmente destinado a apoio financeiro à Caixa de Crédito Agro-Pecuário de Cabo Verde, para o que o Governador da província estabelecerá os termos do contrato de empréstimo a celebrar entre a província e aquela Caixa.
+Art. 2.º - 1. Ao abrigo do que estabelece o n.º 4 do Diploma Legislativo Ministerial n.º 1, de 25 de Agosto de 1962, o produto do empréstimo referido no artigo anterior será integralmente destinado a apoio financeiro à Caixa de Crédito Agro-Pecuário de Cabo Verde, para o que o Governador da província estabelecerá os termos do contrato de empréstimo a celebrar entre a província e aquela Caixa.
 
 2. O contrato referido no número anterior não poderá conter disposições que impliquem para a Caixa de Crédito Agro-Pecuário responsabilidades, perante a província, com a liquidação de juros e amortizações, inferiores àquelas que a província assumir perante o Banco Nacional Ultramarino.
 
-###### Art. 3.º No orçamento geral da província de Cabo Verde serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com os juros e a amortização deste empréstimo.
+Art. 3.º No orçamento geral da província de Cabo Verde serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com os juros e a amortização deste empréstimo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 5 de Abril de 1972.**
+Promulgado em 5 de Abril de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para se publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

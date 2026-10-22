@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46887-1966-490757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4aeaf4c66554fddcea33d0f39cb9bbd0a4acf5da41b0b65f3b24e0434e89c2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 788df428c65b32b290ae257ee866b661023eeef0cd900c74877c800d6b2b8d8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Documentação
+- Genebra
+- Portugal
+- TIR
+- Transporte de Mercadorias
+- Transporte Internacional
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:276045:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:15Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +97,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados para adesão a Convenção aduaneira relativa ao transporte internacional de mercadorias a coberto de cadernetas TIR (Convenção TIR) e o respectivo Protocolo de assinatura, concluídos em Genebra em 15 de Janeiro de 1959 e cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. São aprovados para adesão a Convenção aduaneira relativa ao transporte internacional de mercadorias a coberto de cadernetas TIR (Convenção TIR) e o respectivo Protocolo de assinatura, concluídos em Genebra em 15 de Janeiro de 1959 e cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -497,11 +505,11 @@ Modèle du carnet TIR
 
 (Le carnet TIR est imprimé en français)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 Engagement à signer, si les autorités domaniéres l'exigent, par la personne qui présent le chargement au bureau de douane
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 Page 3 de la coverture
 
@@ -603,7 +611,7 @@ ANNEXE 2
 
 18. ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 (nota 1) Nom et grade des agents et désignation de l'autorité dont ils dépendent.
 
@@ -767,7 +775,7 @@ La procédure d'agrément sera la suivante:
 
 Do Croquis nº 1 ao Croquis nº 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 ANNEXE 5
 
@@ -1343,11 +1351,11 @@ Feita em Genebra, em 15 de Janeiro de 1959, num único exemplar, em línguas ing
 
 (A caderneta TIR é impressa em francês)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 Compromisso a ser assinado, se as autoridades alfandegárias o requererem, pela pessoa que apresenta o carregamento no posto alfandegário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 Página 3 da capa
 
@@ -1447,7 +1455,7 @@ e do posto alfandegário de ...
 
 18. ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 (nota 1) Nome e categoria dos funcionários e designação da autoridade de que dependem.
 
@@ -1603,7 +1611,7 @@ f) A aprovação caducará se forem alteradas as características essenciais do 
 
 Do Desenho n.º 1 ao Desenho n.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05100/02790311.pdf)
 
 ## ANEXO 5 — Certificado de aprovação de um veículo rodoviário
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18500/18841885.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1979-377877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14b5d4acea524d40ccfc56fa07b5bf35029e524821665c10a092a48603a9ba7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33e9f8dbb2675a123087cfe5650f2e37f1b17cc2ddcb9204029ee999bfbac7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Comércio
+- Importação de Veículos
+- Indústria Automóvel
+- Regime Fiscal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471876:por
+  label: Revogado o art. 1.º pelo(a) Decreto-Lei n.º 214/80 - Diário da República n.º 156/1980, Série I de 1980-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1980-471876
+  date: '1980-07-09'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:06Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +152,7 @@ Em execução da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/
 
 O Governo decreta, nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º da [Lei n.º 30/78](https://diariodarepublica.pt/dr/detalhe/lei/30-1978-295104), de 14 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º da [Lei n.º 30/78](https://diariodarepublica.pt/dr/detalhe/lei/30-1978-295104), de 14 de Junho, passa a ter a seguinte redacção:
 
 As percentagens estabelecidas no anexo do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, correspondentes ao artigo pautal 87.02.09, passam a ser obtidas pela aplicação da seguinte fórmula:
 
@@ -124,12 +164,12 @@ IVVA = taxa do imposto sobre a venda de veículos automóveis aplicável em cada
 
 CC = cilindrada, em centímetros cúbicos, do veículo.
 
-###### Art. 2.º Da lista das mercadorias sujeitas à sobretaxa de 10% constante do anexo ao [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio, são retiradas as classificadas pelo artigo pautal 87.02.09.
+Art. 2.º Da lista das mercadorias sujeitas à sobretaxa de 10% constante do anexo ao [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), de 3 de Maio, são retiradas as classificadas pelo artigo pautal 87.02.09.
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 24 de Julho de 1979.**
+Promulgado em 24 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

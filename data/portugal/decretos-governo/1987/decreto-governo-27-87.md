@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/27-1987-417234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7352b28175d4f10479584e74e96a0d19814c997c8c9447f8b20de34123cf917f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ae490d152dce8a14f6e3102409df5053c696bf1ef638fc94bece1e3b9f27535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Convenção
+- Genebra
+- Mercadoria
+- Portugal
 relationships: []
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:14Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 28 de Julho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção Internacional sobre a Harmonização dos Controles das Mercadorias nas Fronteiras, cujo texto original em francês e respectiva tradução para português fazem parte do presente decreto.
+Artigo único. É aprovada, para adesão, a Convenção Internacional sobre a Harmonização dos Controles das Mercadorias nas Fronteiras, cujo texto original em francês e respectiva tradução para português fazem parte do presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Pedro José Rodrigues Pires de Miranda.
 
-**Assinado em 9 de Julho de 1987.**
+Assinado em 9 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1987.**
+Referendado em 15 de Julho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION INTERNATIONALE SUR L'HARMONISATION DES CONTRÔLES DES MARCHANDISES AUX FRONTIÈRES
 
@@ -995,7 +1000,7 @@ As outras Partes Contratantes não estarão vinculadas por esses parágrafos em 
 
 ###### Artigo 23 — Pedidos, comunicações e objecções
 
-**O Secretário-Geral da Organização das Nações Unidas informará todas as Partes Contratantes e todos os Estados de qualquer pedido, comunicação ou objecção feitos ao abrigo do artigo 22 e da data de entrada em vigor de qualquer emenda.**
+O Secretário-Geral da Organização das Nações Unidas informará todas as Partes Contratantes e todos os Estados de qualquer pedido, comunicação ou objecção feitos ao abrigo do artigo 22 e da data de entrada em vigor de qualquer emenda.
 
 ###### Artigo 24 — Conferência de revisão
 
@@ -1289,7 +1294,7 @@ O serviço de secretaria do Comité será facultado pelo secretário executivo d
 
 ###### ARTIGO 4 — Convocações
 
-**O secretário executivo da Convenção Económica para a Europa convocará o Comité:**
+O secretário executivo da Convenção Económica para a Europa convocará o Comité:
 
 i) Dois anos após a entrada em vigor da Convenção;
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 266/1974, 4º Suplemento, Série I de 1974-11-15
   number: '266'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1388-(17) a 1388-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/26604/00170035.pdf
 entry_into_force_dates: []
@@ -46,40 +46,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4c54ed4f2b32493f14ef4afa41a371f1c2eebf3e07626b053a72ee0d68c636
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f5e60c94a3f98e67ef7e92e6c98d91bedd890e75480c7ce2b213a859db48569
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Campanha Eleitoral
+- Comissão Nacional de Eleições
+- Criação de Serviços
+- Direito de Antena
+- Eleição Legislativa
+- Lei Eleitoral
+- Multa
+- Parlamentar
+- Propaganda Política
+- Sanção Penal
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:264716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356759:por
+  label: "Alterado o nº2 do art. 2º e o nº2 do art. 23º pelo DEC LEI.3/75.07.01.1975.PCM, DG.IS [5-Supl] de 07.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1975-356759
+  date: '1975-01-07'
+- type: amended_by
+  target: pt:dre:160095:por
+  label: "Alterados os arts. 6º, 10º, 48º, 49º, 53º, 64º, 67º e 92º pelo DEC LEI.86/75.27.02.1975.PCM, DG.IS [49] de 27.02.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1975-160095
+  date: '1975-02-27'
+- type: amended_by
+  target: pt:dre:584001:por
+  label: "Alterados os arts. 30º, 31º, 32º, 42º, 44º, 45º, 48º, 49º ( os dois últimos na redacção do Dec Lei 86/75, de 27-Fev),\
+    \ 70º e 98º do presente diploma, pelo DEC LEI.101-A/75.03.03.1975.PCM, DG.IS [52-3SUPL] de 03.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-a-1975-584001
+  date: '1975-03-03'
+- type: amended_by
+  target: pt:dre:160752:por
+  label: "Alterado o art. 97º pelo DEC LEI.103/75.06.03.1975.PCM, DG.IS [55] de 06.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1975-160752
+  date: '1975-03-06'
+- type: amended_by
+  target: pt:dre:160734:por
+  label: "Alterado o art. 55º pelo DEC LEI.109/75.07.03.1975.PCM, DG.IS [56] de 07.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1975-160734
+  date: '1975-03-07'
+- type: amended_by
+  target: pt:dre:161088:por
+  label: "Alterado o art. 18º pelo DEC LEI.127/75.13.03.1975.PCM, DG.IS [61] de 13.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1975-161088
+  date: '1975-03-13'
+- type: amended_by
+  target: pt:dre:303242:por
+  label: "Alterados os arts. 46º, 54º, 98º (o último na redacção do Dec Lei 101-A/75, de 03-Mar) e 156º do presente diploma,\
+    \ pelo DEC LEI.137-C/75.17.03.1975.CR, DG.IS [64-2SUPL] de 17.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-c-1975-303242
+  date: '1975-03-17'
+- type: amended_by
+  target: pt:dre:303243:por
+  label: "Alterado o art. 14º pelo DEC LEI.137-D/75.17.03.1975.CR, DG.IS [64-2SUPL] de 17.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-d-1975-303243
+  date: '1975-03-17'
+- type: amended_by
+  target: pt:dre:479669:por
+  label: "Alterado o art. 55º ( na redacção do Dec Lei 109/75, de 07-Mar) do presente diploma, pelo DEC LEI.141-B/75.19.03.1975.CR,\
+    \ DG.IS [66-SUPL] de 19.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-b-1975-479669
+  date: '1975-03-19'
+- type: amended_by
+  target: pt:dre:479670:por
+  label: "Alterado o art. 49º (na redacção dos Dec Lei 86/75, de 27-Fev e 101-A/75, de 03-Mar) do presente diploma, pelo DEC\
+    \ LEI.141-C/75.19.03.1975.CR, DG.IS [66-SUPL] de 19.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-c-1975-479670
+  date: '1975-03-19'
+- type: amended_by
+  target: pt:dre:688866:por
+  label: "Alterados os arts. 82º e 139º pelo DEC LEI.188-A/75.08.04.1975.MAI, DG.IS [82-2SUPL] de 08.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-a-1975-688866
+  date: '1975-04-08'
+- type: cites
+  target: pt:dre:309893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:43Z'
   warnings: []
   errors: []
 ---
@@ -180,11 +264,11 @@ Exemplo prático: Suponha-se que os mandatos a distribuir no colégio eleitoral 
 
 1) Pela aplicação da 2.ª regra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/26604/00170035.pdf))](https://files.diariodarepublica.pt/1s/1974/11/26604/00170035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/26604/00170035.pdf)
 
 2) Pela aplicação da 3.ª regra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/26604/00170035.pdf))](https://files.diariodarepublica.pt/1s/1974/11/26604/00170035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/26604/00170035.pdf)
 
 Portanto:
 
@@ -218,7 +302,7 @@ Nos colégios uninominais o mandato será conferido ao candidato da lista que ob
 
 ###### ARTIGO 11.º — (Marcação da eleição)
 
-**O Presidente da República marcará a data da eleição dos Deputados à Assembleia Constituinte, com a antecedência mínima de sessenta dias.**
+O Presidente da República marcará a data da eleição dos Deputados à Assembleia Constituinte, com a antecedência mínima de sessenta dias.
 
 ###### ARTIGO 12.º — (Dia da eleição)
 
@@ -540,7 +624,7 @@ e) Obter todas as certidões que requererem sobre as operações de votação e 
 
 ###### ARTIGO 54.º — (Outros elementos de trabalho da mesa)
 
-**O presidente da câmara ou da comissão administrativa municipal enviará a cada presidente da assembleia de voto, pelo menos até três dias antes do dia designado para a eleição, um caderno destinado às actas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.**
+O presidente da câmara ou da comissão administrativa municipal enviará a cada presidente da assembleia de voto, pelo menos até três dias antes do dia designado para a eleição, um caderno destinado às actas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.
 
 ## TÍTULO III — Campanha eleitoral
 
@@ -812,7 +896,7 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 ###### ARTIGO 96.º — (Proibição da presença de não eleitores)
 
-**O presidente da assembleia eleitorial deverá mandar sair do local onde ela estiver reunida os cidadãos que aí não possam votar, salvo se se tratar de candidatos e mandatários ou delegados das listas.**
+O presidente da assembleia eleitorial deverá mandar sair do local onde ela estiver reunida os cidadãos que aí não possam votar, salvo se se tratar de candidatos e mandatários ou delegados das listas.
 
 ###### ARTIGO 97.º — (Proibição da presença de força armada e casos em que pode ser requisitada)
 
@@ -1210,7 +1294,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 ###### ARTIGO 153.º — (Recusa de receber reclamações, protestos ou contraprotestos)
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.
 
 ###### ARTIGO 154.º — (Obstrução dos candidatos ou dos delegados das listas)
 
@@ -1228,7 +1312,9 @@ O candidato ou delegado das listas que perturbar gravemente o funcionamento regu
 
 A autoridade militar ou policial por cuja ordem alguma força militar ou policial se apresentar no local onde estiver reunida uma assembeia de voto ou na sua proximidade até 100 m, sem requisição do presidente da respectiva mesa, será punida com a pena de prisão até um ano.
 
-#### SECÇÃO V — ARTIGO 157.º
+#### SECÇÃO V
+
+###### ARTIGO 157.º
 
 (Não cumprimento do dever de participação no processo eleitoral)
 
@@ -1292,8 +1378,8 @@ Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manue
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 15 de Novembro de 1974.**
+Promulgado em 15 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

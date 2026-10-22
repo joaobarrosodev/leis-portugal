@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/18-1970-227258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2b61f3ab76274053f3648063703d7aa4607f7fbc2b1c0effdeab3b4394d4854
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aee037a8d8580fe8eafdb299e02158f945fe8585371a9215c8e15880918d491
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534975:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:02Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Tendo em atenção o disposto nos artigos 2.º e 3.º das referidas instruções
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único - 1. Na tabela que faz parte das instruções aprovadas pela [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929, é excluída, na 2.ª classe, a rubrica:
+Artigo único - 1. Na tabela que faz parte das instruções aprovadas pela [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929, é excluída, na 2.ª classe, a rubrica:
 
 Estabelecimentos de engorda de aves.
 
@@ -99,8 +107,8 @@ Estabelecimentos de exploração de aves, não abrangidos pelo [Decreto-Lei n.º
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - Lopo de Carvalho Cancella de Abreu - Rogério da Conceição Serafim Martins.
 
-**Promulgado em 14 de Janeiro de 1970.**
+Promulgado em 14 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

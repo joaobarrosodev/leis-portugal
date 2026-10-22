@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1971-447307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4775f4bc9facfafcaeef5f95c0e632a0940bf127bc176d9f62f9d5fac4f13f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ee210fa776430880a1ff392a30afe96aeb990d880e3c3875bdc2f738b863527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:37Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +91,9 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Em cada província ultramarina é criada a Comissão Provincial do Domínio Público Marítimo, destinada a estudar e dar parecer sobre todos os assuntos relativos à utilização, manutenção e defesa dos terrenos do domínio público marítimo.
+Artigo 1.º Em cada província ultramarina é criada a Comissão Provincial do Domínio Público Marítimo, destinada a estudar e dar parecer sobre todos os assuntos relativos à utilização, manutenção e defesa dos terrenos do domínio público marítimo.
 
-###### Art. 2.º Nas províncias de governo-geral a Comissão tem a seguinte composição:
+Art. 2.º Nas províncias de governo-geral a Comissão tem a seguinte composição:
 
 Presidente - director Provincial dos Serviços de Marinha.
 
@@ -119,7 +119,7 @@ O capitão do porto da capital da província;
 
 Um funcionário civil da Direcção Provincial dos Serviços de Marinha, sem direito de voto, que será o secretário.
 
-###### Art. 3.º Nas províncias de governo simples a Comissão tem a seguinte composição:
+Art. 3.º Nas províncias de governo simples a Comissão tem a seguinte composição:
 
 Presidente - chefe dos Serviços de Marinha.
 
@@ -137,20 +137,20 @@ Um oficial da marinha de guerra em serviço na província, quando o haja;
 
 Um funcionário civil dos Serviços de Marinha, sem direito de voto, que será o secretário.
 
-###### Art. 4.º Ao expediente e funcionamento da Comissão assistem os serviços de secretaria da direcção ou repartição provincial de marinha.
+Art. 4.º Ao expediente e funcionamento da Comissão assistem os serviços de secretaria da direcção ou repartição provincial de marinha.
 
-###### Art. 5.º Ao presidente da Comissão, além da superintendência na sua normal gestão, compete distribuir os processos pelos vogais que os hão-de relatar, convocar as sessões e nelas dirigir os trabalhos apurando o vencido.
+Art. 5.º Ao presidente da Comissão, além da superintendência na sua normal gestão, compete distribuir os processos pelos vogais que os hão-de relatar, convocar as sessões e nelas dirigir os trabalhos apurando o vencido.
 
-###### Art. 6.º À ordem e forma de processo aplicam-se, com as convenientes adaptações, os preceitos do Regimento do Conselho Ultramarino relativos ao processo de consulta.
+Art. 6.º À ordem e forma de processo aplicam-se, com as convenientes adaptações, os preceitos do Regimento do Conselho Ultramarino relativos ao processo de consulta.
 
-###### Art. 7.º Por cada sessão terão o presidente e vogais direito a uma senha de presença, cabendo ao relator, por cada processo relatado, um número de senhas de presença fixado nos termos que vierem a ser estabelecidos pelo governo de cada província ultramarina.
+Art. 7.º Por cada sessão terão o presidente e vogais direito a uma senha de presença, cabendo ao relator, por cada processo relatado, um número de senhas de presença fixado nos termos que vierem a ser estabelecidos pelo governo de cada província ultramarina.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Janeiro de 1971.**
+Promulgado em 29 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

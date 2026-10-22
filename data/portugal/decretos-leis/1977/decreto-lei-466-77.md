@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26100/26872688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1977-280761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d26fc51f5312c05932d26ddb670dcb0f08d23415e919bc9b2612b125408d5898
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9ed54fba595351d0f66455ab4216512b13c4ce4541a980817993c9d3bce9495
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Regional
+- Extinção de Serviços
+- Funcionário Público
+- Horta
+- Integração de Trabalhadores
+- Ponta Delgada
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:138506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353542:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:40Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +125,9 @@ Tendo em conta a proposta apresentada pela comissão que, para o efeito, foi nom
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São extintas as secretarias dos governos dos antigos distritos autónomos de Angra do Heroísmo, da Horta e de Ponta Delgada, transitando o respectivo pessoal para os serviços da Região Autónoma dos Açores, nos termos deste diploma.
+Artigo 1.º São extintas as secretarias dos governos dos antigos distritos autónomos de Angra do Heroísmo, da Horta e de Ponta Delgada, transitando o respectivo pessoal para os serviços da Região Autónoma dos Açores, nos termos deste diploma.
 
-###### Art. 2.º - 1 - Os funcionários dos quadros privativos das extintas secretarias serão integrados nos quadros regionais, em lugares de igual categoria e com todos os direitos e regalias já adquiridos ou que decorressem da aplicação dos Decretos-Leis n.os [37/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1977-138506), de 29 de Janeiro, e [76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, contando-se, para todos os efeitos, como se fora no novo lugar o tempo de serviço prestado no seu actual cargo.
+Art. 2.º - 1 - Os funcionários dos quadros privativos das extintas secretarias serão integrados nos quadros regionais, em lugares de igual categoria e com todos os direitos e regalias já adquiridos ou que decorressem da aplicação dos Decretos-Leis n.os [37/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1977-138506), de 29 de Janeiro, e [76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, contando-se, para todos os efeitos, como se fora no novo lugar o tempo de serviço prestado no seu actual cargo.
 
 2 - Os funcionários do quadro geral administrativo dos serviços externos do Ministério da Administração Interna actualmente providos em cargos das extintas secretarias passarão a exercer as suas funções em lugares de categoria equivalente dos quadros regionais referidos no artigo anterior, em regime de comissão de serviço até 31 de Dezembro de 1977, findo o qual voltarão ao quadro de origem se não tiver havido lugar à integração prevista no artigo 3.º deste diploma.
 
@@ -106,26 +135,26 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Até à publicação da lista ou listas a que alude o número anterior, incumbirá ao Governo Regional superintender no pessoal das extintas secretarias.
 
-###### Art. 3.º Sem prejuízo do que vier a ser definido quanto à forma de execução do preceituado no n.º 4 do artigo 49.º do Estatuto Provisório da Região, os funcionários a que se refere o n.º 2 do artigo anterior poderão, a todo o tempo, optar pela sua integração nos quadros regionais.
+Art. 3.º Sem prejuízo do que vier a ser definido quanto à forma de execução do preceituado no n.º 4 do artigo 49.º do Estatuto Provisório da Região, os funcionários a que se refere o n.º 2 do artigo anterior poderão, a todo o tempo, optar pela sua integração nos quadros regionais.
 
-###### Art. 4.º - 1 - Nos casos em que da integração efectuada nos termos do n.º 1 do artigo 2.º e do artigo 3.º resulte para os interessados diminuição do quantitativo global das remunerações certas e permanentes que aufiram à data da integração, ser-lhes-á abonada, a título de compensação, a correspondente diferença.
+Art. 4.º - 1 - Nos casos em que da integração efectuada nos termos do n.º 1 do artigo 2.º e do artigo 3.º resulte para os interessados diminuição do quantitativo global das remunerações certas e permanentes que aufiram à data da integração, ser-lhes-á abonada, a título de compensação, a correspondente diferença.
 
 2 - Enquanto se mantiverem na situação prevista no n.º 2 do artigo 2.º, terão os funcionários pertencentes ao quadro geral administrativo direito a uma compensação de montante igual ao da diferença que se for verificando entre o quantitativo global das remunerações certas e permanentes atribuídas aos lugares que desempenhem nos quadros regionais e o que corresponderia aos cargos de que presentemente são titulares.
 
-###### Art. 5.º - 1 - Aos funcionários do quadro geral administrativo, enquanto exerçam funções nos quadros regionais em regime de comissão de serviço, são aplicáveis, no que respeita a direitos, deveres, responsabilidades e garantias, as disposições que vigorarem para os funcionários dos quadros regionais.
+Art. 5.º - 1 - Aos funcionários do quadro geral administrativo, enquanto exerçam funções nos quadros regionais em regime de comissão de serviço, são aplicáveis, no que respeita a direitos, deveres, responsabilidades e garantias, as disposições que vigorarem para os funcionários dos quadros regionais.
 
 2 - Sem prejuízo do disposto no número anterior deste artigo, a competência para a aplicação das penas de aposentação compulsiva ou de demissão caberá ao Ministro da Administração Interna.
 
-###### Art. 6.º O pessoal dos governos dos extintos distritos autónomos continuará a ser pago em conta do Orçamento Geral do Estado até final do corrente ano, após o que o seu pagamento passará a constituir encargo da Região Autónoma.
+Art. 6.º O pessoal dos governos dos extintos distritos autónomos continuará a ser pago em conta do Orçamento Geral do Estado até final do corrente ano, após o que o seu pagamento passará a constituir encargo da Região Autónoma.
 
-###### Art. 7.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro da Administração Interna e do Secretário de Estado da Administração Pública.
+Art. 7.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro da Administração Interna e do Secretário de Estado da Administração Pública.
 
-###### Art. 8.º Este diploma entra em vigor no dia 1 de Outubro do corrente ano.
+Art. 8.º Este diploma entra em vigor no dia 1 de Outubro do corrente ano.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/25700/13151317.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1974-471504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bed3b402f6a89c005e40fc3329cf4199bd95d41993e3db73a3adfb02bf84df23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec547522c21f91126479e8ea11933097f8422e4da24a1309f5d3c8fbc194841b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Extinção de Serviços
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:507619:por
+  label: "Revogado o art. 6º pelo DEC LEI.132/76.17.02.1976.MF, DG.IS [40] de 17.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1976-507619
+  date: '1976-02-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:12Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +136,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Enquanto não forem reestruturados os serviços da administração fiscal, são introduzidas na actual orgânica as correcções constantes deste diploma que alteram, na parte correspondente, os preceitos legais presentemente em vigor.
+Artigo 1.º Enquanto não forem reestruturados os serviços da administração fiscal, são introduzidas na actual orgânica as correcções constantes deste diploma que alteram, na parte correspondente, os preceitos legais presentemente em vigor.
 
-###### Art. 2.º - 1. É criada na Direcção-Geral das Contribuições e Impostos a Direcção dos Serviços de Pessoal e Organização, composta por duas divisões: de Gestão de Pessoal e de Organização e Funcionamento.
+Art. 2.º - 1. É criada na Direcção-Geral das Contribuições e Impostos a Direcção dos Serviços de Pessoal e Organização, composta por duas divisões: de Gestão de Pessoal e de Organização e Funcionamento.
 
 a) Compete à divisão de Gestão de Pessoal o estudo, coordenação e execução da política de pessoal, nomeadamente o recrutamento, a preparação profissional, a selecção, a promoção, a classificação e a movimentação, bem como o exercício da acção relativa aos direitos e deveres dos funcionários;
 
@@ -132,7 +156,7 @@ b) Compete à divisão de Organização e Funcionamento o estudo da racionaliza�
 
 7. Os representantes dos funcionários no conselho de gestão serão sempre convocados para as sessões pelo respectivo presidente, considerando-se deslocados em comissão de serviço quando não pertençam aos quadros dos serviços da cidade de Lisboa.
 
-###### Art. 3.º No recrutamento, promoção, selecção, preparação e situação dos funcionários da Direcção-Geral das Contribuições e Impostos são introduzidas as seguintes alterações:
+Art. 3.º No recrutamento, promoção, selecção, preparação e situação dos funcionários da Direcção-Geral das Contribuições e Impostos são introduzidas as seguintes alterações:
 
 1.ª Sem prejuízo da obrigatoriedade do estágio a que se refere o artigo 3.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968, haverá uma só categoria de aspirante de finanças, à qual passam automaticamente os actuais aspirantes concursados e do 1.º e 2.º graus.
 
@@ -166,20 +190,20 @@ b) Compete à divisão de Organização e Funcionamento o estudo da racionaliza�
 
 16.ª Os escriturários-dactilógrafos, auxiliares de desenho e os funcionários referidos no número anterior que, à data da publicação deste diploma, possuam o curso geral dos liceus ou equivalente, ou tenham completado seis anos de serviço, quando habilitados com a 6.ª classe ou equivalente, serão admitidos a um concurso extraordinário ao lugar de terceiro-oficial a abrir no prazo de três meses.
 
-###### Art. 4.º Os candidatos admitidos nos termos dos artigos 64.º e 65.º da Organização da Direcção-Geral das Contribuições e Impostos que não se apresentem a assumir funções, dentro do prazo de quinze dias, nos serviços para que forem designados, conforme aviso a publicar no Diário do Governo, serão considerados como desistentes da nomeação efectiva e excluídos das respectivas listas de classificação nos concursos, cessando automaticamente as funções que venham executando.
+Art. 4.º Os candidatos admitidos nos termos dos artigos 64.º e 65.º da Organização da Direcção-Geral das Contribuições e Impostos que não se apresentem a assumir funções, dentro do prazo de quinze dias, nos serviços para que forem designados, conforme aviso a publicar no Diário do Governo, serão considerados como desistentes da nomeação efectiva e excluídos das respectivas listas de classificação nos concursos, cessando automaticamente as funções que venham executando.
 
-###### Art. 5.º Os serviços de contacto com o público nas repartições de finanças passam a encerrar, a título experimental, às 16 horas, sendo reservado o tempo restante de funcionamento normal para os trabalhos internos. Exceptuam-se os períodos de especial acumulação de utentes nas repartições, em que o serviço do público se prolongará pelo tempo indispensável, e ressalva-se a possibilidade de suspensão deste regime por despacho do Secretário de Estado do Orçamento, se se verificar que da sua execução resultam inconvenientes graves para os serviços ou para os contribuintes.
+Art. 5.º Os serviços de contacto com o público nas repartições de finanças passam a encerrar, a título experimental, às 16 horas, sendo reservado o tempo restante de funcionamento normal para os trabalhos internos. Exceptuam-se os períodos de especial acumulação de utentes nas repartições, em que o serviço do público se prolongará pelo tempo indispensável, e ressalva-se a possibilidade de suspensão deste regime por despacho do Secretário de Estado do Orçamento, se se verificar que da sua execução resultam inconvenientes graves para os serviços ou para os contribuintes.
 
-###### Art. 6.º Os indivíduos que, tendo desempenhado na Direcção-Geral das Contribuições e Impostos funções de aspirantes e escriturários, a título provisório ou supranumerário, as interromperam por virtude da prestação de serviço militar são readmitidos logo que o requeiram, na situação em que se encontravam à data da cessação de funções.
+Art. 6.º Os indivíduos que, tendo desempenhado na Direcção-Geral das Contribuições e Impostos funções de aspirantes e escriturários, a título provisório ou supranumerário, as interromperam por virtude da prestação de serviço militar são readmitidos logo que o requeiram, na situação em que se encontravam à data da cessação de funções.
 
-###### Art. 7.º Os estudos da reorganização dos serviços de administração fiscal deverão ser efectuados por forma que todos os funcionários neles possam participar, quer através da sua intervenção no debate dos problemas, quer pela apresentação de sugestões ou trabalhos escritos de iniciativa pessoal.
+Art. 7.º Os estudos da reorganização dos serviços de administração fiscal deverão ser efectuados por forma que todos os funcionários neles possam participar, quer através da sua intervenção no debate dos problemas, quer pela apresentação de sugestões ou trabalhos escritos de iniciativa pessoal.
 
-###### Art. 8.º O Secretário de Estado do Orçamento poderá fixar ou alterar, por portaria, os quadros e os serviços necessários à execução do presente diploma até à reestruturação dos serviços tributários, bem como os respectivos regulamentos, esclarecer, por despacho, todas as dúvidas que ocorrerem sobre a sua interpretação e estabelecer as condições de transição entre as várias categorias do quadro geral ou entre as categorias deste e as dos quadros especiais, ou as dos quadros especiais entre si. Poderá ainda, extraordinariamente, reduzir ou dispensar o tempo de serviço em qualquer classe para o acesso à classe imediata, quando os interesses dos serviços o justifiquem.
+Art. 8.º O Secretário de Estado do Orçamento poderá fixar ou alterar, por portaria, os quadros e os serviços necessários à execução do presente diploma até à reestruturação dos serviços tributários, bem como os respectivos regulamentos, esclarecer, por despacho, todas as dúvidas que ocorrerem sobre a sua interpretação e estabelecer as condições de transição entre as várias categorias do quadro geral ou entre as categorias deste e as dos quadros especiais, ou as dos quadros especiais entre si. Poderá ainda, extraordinariamente, reduzir ou dispensar o tempo de serviço em qualquer classe para o acesso à classe imediata, quando os interesses dos serviços o justifiquem.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 21 de Outubro de 1974.**
+Promulgado em 21 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

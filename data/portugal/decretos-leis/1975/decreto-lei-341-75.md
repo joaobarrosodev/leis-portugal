@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1975-336732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45e59cc0fc7052f0da831f7db88606be05ba5f84a5c992194966c181008fd0a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa51ad51924322a4405f06fdbd70046a932f4ccb9a4c86814b875270a62b3e36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Doação
+- Património do Estado
+- Pensão Vitalícia
+- Propriedade Privada
+- Valpaços
+relationships:
+- type: cites
+  target: pt:dre:416615:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:25Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +102,9 @@ Considerando que se torna necessário providenciar no sentido de se reconhecer o
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Art. 1.º É concedida ao Dr. Domingos José de Carvalho uma pensão vitalícia mensal de 10000$00, a partir da data da assinatura do contrato de doação ao Estado de uma sua propriedade, denominada «Pomar», sita em Vassal, concelho de Valpaços, a qual se destina à instalação de uma escola de feitores agrícolas.
+Art. 1.º É concedida ao Dr. Domingos José de Carvalho uma pensão vitalícia mensal de 10000$00, a partir da data da assinatura do contrato de doação ao Estado de uma sua propriedade, denominada «Pomar», sita em Vassal, concelho de Valpaços, a qual se destina à instalação de uma escola de feitores agrícolas.
 
-###### Art. 2.º - 1. O Estado obriga-se ainda a entregar anualmente ao doador os seguintes géneros, a retirar da produção da referida propriedade:
+Art. 2.º - 1. O Estado obriga-se ainda a entregar anualmente ao doador os seguintes géneros, a retirar da produção da referida propriedade:
 
 a) Dois tractores de lenha;
 
@@ -105,12 +114,12 @@ c) 200 l de azeite, devendo tudo ser colocado na residência do interessado.
 
 2. Se, em qualquer ano agrícola, a produção da propriedade não for bastante para fazer face ao previsto contingente de géneros, o Estado considera-se automaticamente desobrigado, no todo ou em parte, do cumprimento da obrigação referida no n.º 1 deste artigo.
 
-###### Art. 3.º A pensão atribuída no artigo 1.º deste diploma fica isenta de qualquer encargo fiscal, com excepção do imposto do selo, relativo ao seu recebimento.
+Art. 3.º A pensão atribuída no artigo 1.º deste diploma fica isenta de qualquer encargo fiscal, com excepção do imposto do selo, relativo ao seu recebimento.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 24 de Junho de 1975.**
+Promulgado em 24 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

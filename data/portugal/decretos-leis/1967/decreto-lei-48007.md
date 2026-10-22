@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/10/25000/18851891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -50,40 +50,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48007-1967-388633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca35c8a59dd3d7e7026b15287d87ba8fa7a17cf8fb78a5419d1c1059d3fa9c4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55dba4381f7a30aeb1968c634be7b3854666fcd7d42063a0ce58cbb04415dfe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Empresa Pública
+- Estatuto
+- Serviço Público
+- Taxa
+- Telefone
+- TLP
 relationships:
 - type: amended_by
   target: pt:dre:209043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:215770:por
+  label: "Alterados os artigos 2.º a 6.º, 9.º, 11.º, 22.º e 25.º a 29.º, o n.º 2 do artigo 13.º, o n.º 1 do artigo 17.º e\
+    \ os n.ºs 1 e 3 do artigo 31.º, aditado o n.º 4 ao artigo 17.º e eliminado o n.º 5 do artigo 31.º, pelo DEC LEI.49368.10.11.1969.MCOMN,\
+    \ DG.IS [263] de 10.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49368-1969-215770
+  date: '1969-11-10'
+- type: amended_by
+  target: pt:dre:622863:por
+  label: "Extintos os conselhos de administração, fiscal e geral da empresa pública TLP previstos no art. 2º do Estatuto,\
+    \ aprovado e publicado em anexo ao presente diploma, pelo DEC LEI.244/74.07.06.1974.PCM, DG.IS [133] de 07.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1974-622863
+  date: '1974-06-07'
+- type: amended_by
+  target: pt:dre:286492:por
+  label: "Alterados os arts. 14º, 22º (este último na redacção do Dec Lei 49368, de 10-Nov, 1969) e 24º do Estatuto, aprovado\
+    \ pelo presente diploma, pelo DEC LEI.375/77.05.09.1977.MTC, DR.IS [205] de 05.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1977-286492
+  date: '1977-09-05'
+- type: cites
+  target: pt:dre:414196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679450:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:401538:por
+  label: "Rectificado o nº2 do art. 3º e o Estatuto, aprovado pelo presente diploma, pela RECT.DD519.26.12.1967.PC, DG.IS\
+    \ [298] de 26.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-401538
+  date: '1967-12-26'
+- type: repealed_by
+  target: pt:dre:496757:por
+  label: "Revogado o nº 3 do art. 14º do anexo pelo DEC LEI.355/87.1987.11.14.MOPTC,DR.IS [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-1987-496757
+  date: '1987-11-14'
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados, a partir de 1 de Janeiro de 1989, os benefícios fiscais constantes do art. 15º, al. b), pelo LEI.485/88.1988.12.30.MF,\
+    \ DR.IS [301]2ºSupl, mantendo-se, todavia, as isenções de sisa e de contribuição predial \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:611704:por
+  label: Revogado, a partir de 11.05.1989, o presente diploma, e transformada em sociedade anónima de capitais maioritariamente
+    públicos, com a denominação de Telefones de Lisboa e Porto (TLP, S.A.) a empresa pública Telefones de Lisboa e Porto (TLP,
+    E.P.) pelo DEC LEI.147/89.1989.05.06.MOPTC,DR.IS [104], que determinou a sucessão da TLP, E.P., pela sociedade anónima
+    nele criada, no referente à personalidade jurídica, e à universalidade dos bens, direitos e obrigações, integrantes da
+    sua esfera jurídica no momento da transformação.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1989-611704
+  date: '1989-05-06'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:02Z'
   warnings: []
   errors: []
 ---
@@ -102,31 +174,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A partir de 1 de Janeiro de 1968 e enquanto durar o período transitório previsto no artigo 7.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), o serviço público que constitui objecto da concessão outorgada a The Anglo-Portuguese Telephone Company, Ltd. (APT), passa a ser explorado por uma empresa pública, administrativa e financeiramente autónoma, denominada «Telefones de Lisboa e Porto» (TLP).
+Artigo 1.º - 1. A partir de 1 de Janeiro de 1968 e enquanto durar o período transitório previsto no artigo 7.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), o serviço público que constitui objecto da concessão outorgada a The Anglo-Portuguese Telephone Company, Ltd. (APT), passa a ser explorado por uma empresa pública, administrativa e financeiramente autónoma, denominada «Telefones de Lisboa e Porto» (TLP).
 
 2. A empresa tomará posse da universalidade do estabelecimento da concessão, cuja gestão lhe é confiada para assegurar o funcionamento do serviço público de comunicações telefónicas e telecomunicações complementares nas áreas que foram objecto da referida concessão.
 
 3. A empresa pública Telefones de Lisboa e Porto gozará de personalidade jurídica de direito público, terá a sua sede em Lisboa e reger-se-á pelo estatuto anexo ao presente decreto-lei e que dele se considera parte integrante.
 
-###### Art. 2.º - 1. A transferência para os TLP dos imóveis, veículos e instalações da APT que integram a universalidade da concessão operar-se-á por virtude do presente decreto-lei, que constituirá título suficiente para todos os efeitos legais, inclusive o de registo.
+Art. 2.º - 1. A transferência para os TLP dos imóveis, veículos e instalações da APT que integram a universalidade da concessão operar-se-á por virtude do presente decreto-lei, que constituirá título suficiente para todos os efeitos legais, inclusive o de registo.
 
 2. As transferências previstas neste artigo serão efectuadas mediante averbamento e ficam isentas do pagamento de todas e quaisquer taxas, impostos e emolumentos.
 
-###### Art. 3.º - 1. A partir de 1 de Janeiro de 1968 transferem-se automàticamente para os TLP os direitos e deveres resultantes de contratos celebrados pela APT com terceiros, relativos a arrendamento de prédios, execução de obras, aluguer de maquinismos ou prestação de serviços que interessem à continuidade da exploração.
+Art. 3.º - 1. A partir de 1 de Janeiro de 1968 transferem-se automàticamente para os TLP os direitos e deveres resultantes de contratos celebrados pela APT com terceiros, relativos a arrendamento de prédios, execução de obras, aluguer de maquinismos ou prestação de serviços que interessem à continuidade da exploração.
 
 2. A transferência daqueles bens é, para todos os efeitos, considerada como traspasse, mas sem que dela resultem quaisquer encargos para o Estado ou para os TLP, além dos previstos no contrato de concessão da referida APT.
 
-###### Art. 4.º - 1. Os empréstimos previstos no n.º 2 do artigo 1.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964, ou outros que se reconheçam necessários para expansão da rede telefónica nacional no seu conjunto, serão contraídos pela Administração-Geral dos Correios, Telégrafos e Telefones, ou, nos termos do n.º 4 do artigo 35.º do estatuto anexo, pela comissão referida no artigo 7.º do mesmo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), até 31 de Dezembro de 1967 ou, ainda, a partir desta data, pela empresa pública referida no artigo 1.º do presente diploma.
+Art. 4.º - 1. Os empréstimos previstos no n.º 2 do artigo 1.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964, ou outros que se reconheçam necessários para expansão da rede telefónica nacional no seu conjunto, serão contraídos pela Administração-Geral dos Correios, Telégrafos e Telefones, ou, nos termos do n.º 4 do artigo 35.º do estatuto anexo, pela comissão referida no artigo 7.º do mesmo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), até 31 de Dezembro de 1967 ou, ainda, a partir desta data, pela empresa pública referida no artigo 1.º do presente diploma.
 
 2. Os encargos dos empréstimos serão suportados pela Administração-Geral dos Correios, Telégrafos e Telefones ou pela empresa pública acima citada, podendo por eles responder individual ou solidàriamente as receitas gerais destes dois organismos, incluídas as que resultarem dos aumentos de taxas referidos no artigo 2.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469).
 
 3. Os empréstimos poderão ser titulados por qualquer das formas correntes em uso nestas operações.
 
-###### Art. 5.º - 1. As operações de crédito referidas no artigo anterior podem ser internas ou externas e ficam isentas de todas as contribuições e impostos.
+Art. 5.º - 1. As operações de crédito referidas no artigo anterior podem ser internas ou externas e ficam isentas de todas as contribuições e impostos.
 
 2. As correspondentes autorizações ficam dispensadas do preceito estabelecido no artigo 2.º do [Decreto n.º 14611](https://diariodarepublica.pt/dr/detalhe/decreto/14611-1927-679450), de 23 de Novembro de 1927, e os contratos também ficam dispensados do visto do Tribunal de Contas.
 
-###### Art. 6.º - 1. Fica o Ministro das Finanças autorizado a dar o aval do Estado ao pontual cumprimento das obrigações pecuniárias que resultem dos empréstimos a que se refere o artigo 4.º
+Art. 6.º - 1. Fica o Ministro das Finanças autorizado a dar o aval do Estado ao pontual cumprimento das obrigações pecuniárias que resultem dos empréstimos a que se refere o artigo 4.º
 
 2. A garantia prevista no número antecedente poderá ser dada:
 
@@ -136,11 +208,11 @@ b) Através de declaração emanada do director-geral da Fazenda Pública e por 
 
 c) Por aval prestado nos próprios títulos, subscrito pelo Ministro das Finanças ou, mediante despacho deste, pelo director-geral da Fazenda Pública.
 
-###### Art. 7.º - 1. A Administração-Geral dos Correios, Telégrafos e Telefones, os Telefones de Lisboa e Porto ou a comissão referida no artigo 7.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), recorrerão, sempre que necessário, ao Banco de Fomento Nacional, e, se for caso disso, a outras instituições de crédito portuguesas, para a realização, condução ou negociação das operações bancárias e financeiras decorrentes do disposto no artigo 4.º
+Art. 7.º - 1. A Administração-Geral dos Correios, Telégrafos e Telefones, os Telefones de Lisboa e Porto ou a comissão referida no artigo 7.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), recorrerão, sempre que necessário, ao Banco de Fomento Nacional, e, se for caso disso, a outras instituições de crédito portuguesas, para a realização, condução ou negociação das operações bancárias e financeiras decorrentes do disposto no artigo 4.º
 
 2. Os acordos que, para os efeitos do disposto no número antecedente, a Administração-Geral dos Correios, Telégrafos e Telefones, os Telefones de Lisboa e Porto ou a comissão mencionada hajam de celebrar com o Banco de Fomento Nacional ou outras instituições de crédito portuguesas dependem de aprovação do Ministro das Comunicações e ficam dispensados de visto do Tribunal de Contas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo de República, 26 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -150,7 +222,7 @@ I
 
 Designação, sede e fins
 
-###### Artigo 1.º - 1. Os Telefones de Lisboa e Porto, abreviadamente TLP, são uma empresa pública dotada de personalidade jurídica, administrativa e financeiramente autónoma, com sede em Lisboa, tendo por objecto a exploração do serviço público de comunicações telefónicas e telecomunicações complementares nas áreas definidas nos contratos de concessões celebrados com a sociedade The Anglo-Portuguese Telephone Company, Ltd.
+Artigo 1.º - 1. Os Telefones de Lisboa e Porto, abreviadamente TLP, são uma empresa pública dotada de personalidade jurídica, administrativa e financeiramente autónoma, com sede em Lisboa, tendo por objecto a exploração do serviço público de comunicações telefónicas e telecomunicações complementares nas áreas definidas nos contratos de concessões celebrados com a sociedade The Anglo-Portuguese Telephone Company, Ltd.
 
 2. Os Telefones de Lisboa e Porto regem-se pelas normas aplicáveis às empresas comerciais em tudo quanto diga respeito à sua capacidade jurídica, competência dos seus órgãos, regime das suas operações, situação do seu pessoal e responsabilidade civil, salvo no que se achar especialmente disposto no presente Estatuto.
 
@@ -158,7 +230,7 @@ II
 
 Órgãos
 
-###### Art. 2.º - 1. A gerência dos TLP competirá aos seguintes órgãos:
+Art. 2.º - 1. A gerência dos TLP competirá aos seguintes órgãos:
 
 a) Conselho de administração;
 
@@ -170,7 +242,7 @@ c) Conselho geral.
 
 3. O Governo exercerá poderes de inspecção e as demais atribuições indicadas no presente estatuto.
 
-###### Art. 3.º - 1. O conselho de administração será constituído por sete vogais, nomeados pelo Ministro das Comunicações por períodos de cinco anos, renováveis e isentos de caução.
+Art. 3.º - 1. O conselho de administração será constituído por sete vogais, nomeados pelo Ministro das Comunicações por períodos de cinco anos, renováveis e isentos de caução.
 
 2. O Ministro designará de entre os nomeados o presidente e dois vice-presidentes.
 
@@ -178,13 +250,13 @@ c) Conselho geral.
 
 4. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que o seu presidente o convocar.
 
-###### Art. 4.º - 1. O presidente e os vice-presidentes do conselho de administração formarão a comissão executiva.
+Art. 4.º - 1. O presidente e os vice-presidentes do conselho de administração formarão a comissão executiva.
 
 2. O conselho de administração determinará a competência da comissão executiva.
 
 3. O exercício das funções da comissão executiva é incompatível com o exercício remunerado de qualquer outro cargo público ou particular ou de profissão liberal.
 
-###### Art. 5.º - 1. O conselho fiscal será composto por um presidente e dois vogais, nomeados pelos Ministros das Finanças e das Comunicações, por períodos de três anos, renováveis. O presidente será um juiz do Tribunal de Contas.
+Art. 5.º - 1. O conselho fiscal será composto por um presidente e dois vogais, nomeados pelos Ministros das Finanças e das Comunicações, por períodos de três anos, renováveis. O presidente será um juiz do Tribunal de Contas.
 
 2. Competem ao conselho fiscal as atribuições legalmente conferidas aos conselhos fiscais das sociedades anónimas.
 
@@ -192,7 +264,7 @@ c) Conselho geral.
 
 4. Às reuniões ordinárias do conselho de administração deverá assistir, sem voto, um dos vogais do conselho fiscal para esse efeito escalado.
 
-###### Art. 6.º - 1. O conselho geral é composto pelo correio-mor, que presidirá, e pelos seguintes vogais:
+Art. 6.º - 1. O conselho geral é composto pelo correio-mor, que presidirá, e pelos seguintes vogais:
 
 a) Um representante do Secretariado Técnico da Presidência do Conselho, designado pelo Presidente do Conselho de Ministros;
 
@@ -210,7 +282,7 @@ g) Um professor catedrático do Instituto Superior de Ciências Económicas e Fi
 
 2. Os conselhos de administração e fiscal deverão assistir às reuniões do conselho geral e os seus membros poderão tomar parte nos trabalhos deste, mas sem voto.
 
-###### Art. 7.º Compete ao conselho geral:
+Art. 7.º Compete ao conselho geral:
 
 a) Apreciar o relatório e as contas de gerência anualmente apresentados pelo conselho de administração, com o parecer do conselho fiscal, e deliberar sobre as propostas formuladas nesses documentos;
 
@@ -224,13 +296,13 @@ e) Sugerir ao conselho de administração ou ao Governo as providências necess�
 
 f) Deliberar sobre a aplicação dos fundos de reserva e renovação.
 
-###### Art. 8.º - 1. Compete à presidência do conselho geral a convocação das suas reuniões por meio de avisos individuais e de anúncios publicados num jornal, pelo menos, de Lisboa e noutro do Porto com a antecedência mínima de dez dias sobre a data da reunião.
+Art. 8.º - 1. Compete à presidência do conselho geral a convocação das suas reuniões por meio de avisos individuais e de anúncios publicados num jornal, pelo menos, de Lisboa e noutro do Porto com a antecedência mínima de dez dias sobre a data da reunião.
 
 2. O conselho geral terá duas reuniões ordinárias anuais, uma até 15 de Junho, para apreciação e votação do relatório e contas de gerência, e outra no mês de Novembro, para apreciar as bases dos programas de desenvolvimento e financeiros plurianuais, com início no ano seguinte, e do programa de trabalhos e orçamento desse ano.
 
 3. As reuniões extraordinárias podem ser requeridas à presidência pelo conselho de administração, pelo conselho fiscal ou por cinco vogais, pelo menos, do próprio conselho.
 
-###### Art. 9.º - 1. Os membros dos conselhos de administração e fiscal tomam posse dos seus cargos perante o presidente do conselho geral.
+Art. 9.º - 1. Os membros dos conselhos de administração e fiscal tomam posse dos seus cargos perante o presidente do conselho geral.
 
 2. Os vogais do conselho de administração perceberão os vencimentos mensais que forem fixados pelo Ministro das Comunicações e as suas remunerações ficam apenas sujeitas ao limite que para o efeito for estabelecido pelo Conselho de Ministros.
 
@@ -238,7 +310,7 @@ f) Deliberar sobre a aplicação dos fundos de reserva e renovação.
 
 4. Os vogais do conselho geral perceberão, por cada reunião a que assistam, uma senha de presença do quantitativo fixado pelo Ministro das Comunicações e terão direito ao abono das despesas de transporte e ajuda de custo quando residindo fora de Lisboa tenham de assistir a reuniões ou actos de serviço. Estes abonos ficam isentos de imposto complementar e não serão tomados em conta na incidência de outros quaisquer impostos, a não ser o imposto do selo.
 
-###### Art. 10.º - 1. As deliberações dos órgãos colegiais são tomadas por maioria dos vogais presentes.
+Art. 10.º - 1. As deliberações dos órgãos colegiais são tomadas por maioria dos vogais presentes.
 
 2. Só podem realizar-se as reuniões desde que esteja presente a maioria dos membros que compõem o conselho a reunir.
 
@@ -248,7 +320,7 @@ f) Deliberar sobre a aplicação dos fundos de reserva e renovação.
 
 5. As reuniões conjuntas dos conselhos de administração e fiscal são presididas pelo presidente do conselho de administração.
 
-###### Art. 11.º - 1. Compete ao Governo, pelo Ministro das Comunicações:
+Art. 11.º - 1. Compete ao Governo, pelo Ministro das Comunicações:
 
 a) Nomear os administradores dos TLP e exonerá-los, a seu pedido ou por conveniência de serviço;
 
@@ -268,13 +340,13 @@ III
 
 Exploração do serviço telefónico
 
-###### Art. 12.º - 1. Na exploração do serviço público a seu cargo os TLP observarão as normas reguladoras do uso público em vigor.
+Art. 12.º - 1. Na exploração do serviço público a seu cargo os TLP observarão as normas reguladoras do uso público em vigor.
 
 2. Os regulamentos do serviço e respectivas alterações serão objecto de deliberação do conselho de administração, mas esta só se torna executória depois de aprovada pelo Ministro das Comunicações.
 
 3. Continuam em vigor os regulamentos do serviço que estiverem sendo aplicados à data da transferência da exploração para os TLP salvas as alterações necessàriamente decorrentes do regime estabelecido neste Estatuto.
 
-###### Art. 13.º - 1. A utilização dos serviços prestados pelos TLP fica sujeita ao pagamento das taxas fixadas nas tarifas aprovadas pelo Governo.
+Art. 13.º - 1. A utilização dos serviços prestados pelos TLP fica sujeita ao pagamento das taxas fixadas nas tarifas aprovadas pelo Governo.
 
 2. Só é permitida a utilização gratuita desses serviços:
 
@@ -292,7 +364,7 @@ c) Ao pessoal dos TLP referido em regulamento interno.
 
 6. Serão fixadas, em portaria dos Ministros das Finanças e das Comunicações, as normas que regularão a isenção referida no número anterior, a dimensão dos contingentes e o âmbito da respectiva gratuidade.
 
-###### Art. 14.º - 1. As tarifas serão fixadas de modo a assegurar o equilíbrio económico entre as receitas da empresa e os encargos decorrentes da exploração do serviço público em termos que satisfaçam, com regularidade e continuidade, as necessidades colectivas, acompanhando o desenvolvimento destas e o aperfeiçoamento dos meios técnicos utilizáveis.
+Art. 14.º - 1. As tarifas serão fixadas de modo a assegurar o equilíbrio económico entre as receitas da empresa e os encargos decorrentes da exploração do serviço público em termos que satisfaçam, com regularidade e continuidade, as necessidades colectivas, acompanhando o desenvolvimento destas e o aperfeiçoamento dos meios técnicos utilizáveis.
 
 2. No cálculo das taxas ter-se-á em conta:
 
@@ -304,7 +376,7 @@ c) A satisfação dos encargos financeiros dos capitais investidos, incluindo os
 
 3. As alterações de que as taxas vierem a carecer serão fixadas em termos idênticos aos que vigorarem na Administração-Geral dos Correios, Telégrafos e Telefones, mas ficando em evidência a parcela destinada a satisfazer os encargos a que alude o artigo 4.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469).
 
-###### Art. 15.º São aplicáveis aos TLP as disposições legais que regem a exploração do serviço público de comunicações postais, telegráficas e telefónicas, designadamente quanto:
+Art. 15.º São aplicáveis aos TLP as disposições legais que regem a exploração do serviço público de comunicações postais, telegráficas e telefónicas, designadamente quanto:
 
 a) À cobrança coerciva das taxas e rendimentos do serviço e representação pelo Ministério Público nos tribunais;
 
@@ -320,7 +392,7 @@ f) À protecção das suas instalações e do seu pessoal;
 
 g) Ao uso público e respectiva fiscalização.
 
-###### Art. 16.º - 1. A utilização pelos CTT de instalações ou serviços dos TLP e a das daqueles por estes serão objectos de acordo de exploração.
+Art. 16.º - 1. A utilização pelos CTT de instalações ou serviços dos TLP e a das daqueles por estes serão objectos de acordo de exploração.
 
 2. Enquanto não forem celebrados os acordos, continuarão a ser observadas as normas em vigor no termo da concessão.
 
@@ -330,13 +402,13 @@ IV
 
 Pessoal
 
-###### Art. 17.º - 1. Ao pessoal dos TLP aplica-se a regulamentação jurídica do contrato individual de trabalho, com as adaptações exigidas pelas características do serviço público, decretadas pelos Ministérios das Comunicações e das Corporações e Previdência Social.
+Art. 17.º - 1. Ao pessoal dos TLP aplica-se a regulamentação jurídica do contrato individual de trabalho, com as adaptações exigidas pelas características do serviço público, decretadas pelos Ministérios das Comunicações e das Corporações e Previdência Social.
 
 2. Os litígios entre os TLP e os seus empregados são da competência dos tribunais do trabalho.
 
 3. Enquanto não forem publicadas novas disposições regulamentares aplicar-se-á aos TLP o disposto no artigo 3.º do [Decreto n.º 47476](https://diariodarepublica.pt/dr/detalhe/decreto/47476-1966-488103), de 31 de Dezembro de 1966.
 
-###### Art. 18.º - 1. Os agentes dos TLP que nos termos regulamentares devam exercer guarda e vigilância dos bens da empresa serão ajuramentados na forma legal, podendo lavrar autos de notícia com força de corpo de delito.
+Art. 18.º - 1. Os agentes dos TLP que nos termos regulamentares devam exercer guarda e vigilância dos bens da empresa serão ajuramentados na forma legal, podendo lavrar autos de notícia com força de corpo de delito.
 
 2. É aplicável aos agentes ajuramentados dos TLP o disposto no artigo 45.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947.
 
@@ -344,7 +416,7 @@ V
 
 Gestão financeira e patrimonial
 
-###### Art. 19.º - 1. A gestão financeira e patrimonial dos TLP será disciplinada pelas seguintes previsões:
+Art. 19.º - 1. A gestão financeira e patrimonial dos TLP será disciplinada pelas seguintes previsões:
 
 a) Programa de desenvolvimento e financeiro plurianual;
 
@@ -358,11 +430,11 @@ c) Orçamento anual.
 
 4. O orçamento será ordinário e extraordinário, prevendo-se no primeiro a conta de lucros e perdas, que tomará em consideração as previsões da conta de exploração, e no segundo as contas de estabelecimento e renovação.
 
-###### Art. 20.º - 1. Os programas, orçamentos anuais e a contabilidade dos TLP serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
+Art. 20.º - 1. Os programas, orçamentos anuais e a contabilidade dos TLP serão organizados em conformidade com os objectivos industriais da empresa e as exigências da exploração.
 
 2. Na execução do orçamento e na contabilidade assegurar-se-á a fiscalização da arrecadação das receitas e da regularidade das despesas.
 
-###### Art. 21.º - 1. O orçamento será executado respeitando-se na celebração das despesas o princípio da autorização dependente de cabimento na dotação orçamental.
+Art. 21.º - 1. O orçamento será executado respeitando-se na celebração das despesas o princípio da autorização dependente de cabimento na dotação orçamental.
 
 2. As transferências de verbas orçamentais são da competência do conselho de administração.
 
@@ -370,25 +442,25 @@ c) Orçamento anual.
 
 4. Dependem também de deliberação do conselho de administração, com parecer favorável do concelho fiscal, as transferências de verbas visando reforçar dotações orçamentais destinadas a fins acessórios da exploração, nomeadamente sociais, culturais, beneficentes ou de publicidade.
 
-###### Art. 22.º - 1. Os TLP arrecadam as receitas provenientes da prestação dos serviços a seu cargo e dos rendimentos dos bens que administrem ou possuam.
+Art. 22.º - 1. Os TLP arrecadam as receitas provenientes da prestação dos serviços a seu cargo e dos rendimentos dos bens que administrem ou possuam.
 
 2. Poderão contrair empréstimos a curto ou a médio prazo em estabelecimentos bancários nacionais ou estrangeiros, para antecipação de receitas, aquisição de material ou de prédios ou maneio de tesouraria.
 
 3. Os aumentos de taxas consentidos pelo [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469) serão cobrados pelos TLP com consignação para o serviço da dívida contraída pela aquisição do estabelecimento da antiga concessão, podendo o remanescente ser aplicado no financiamento dos investimentos dos próprios TLP, nos termos do artigo 4.º do mesmo diploma.
 
-###### Art. 23.º - 1. Os TLP podem contrair empréstimos a longo prazo em estabelecimentos bancários nacionais ou estrangeiros ou mediante a emissão de obrigações.
+Art. 23.º - 1. Os TLP podem contrair empréstimos a longo prazo em estabelecimentos bancários nacionais ou estrangeiros ou mediante a emissão de obrigações.
 
 2. Os empréstimos por prazo superior a cinco anos só podem ser contraídos para a realização de investimentos reprodutivos na renovação e ampliação da rede, ou para consolidação de créditos anteriormente obtidos a curto ou a médio prazo.
 
 3. Os empréstimos por prazo superior a cinco anos só podem ser contraídos com o acordo dos CTT e precedendo autorização dada por portaria dos Ministros das Finanças e das Comunicações em que se fixe o plano e demais condições da operação.
 
-###### Art. 24.º - 1. Constituem encargo privativo dos TLP todas as despesas ordinárias ou extraordinárias decorrentes da manutenção da empresa, exploração do serviço público e conservação e ampliação do estabelecimento deste.
+Art. 24.º - 1. Constituem encargo privativo dos TLP todas as despesas ordinárias ou extraordinárias decorrentes da manutenção da empresa, exploração do serviço público e conservação e ampliação do estabelecimento deste.
 
 2. Os TLP assegurarão, por força das receitas para esse efeito consignadas, o serviço da dívida contraída para aquisição do estabelecimento da antiga concessão.
 
 3. Ficam também a cargo dos TLP as despesas resultantes de encomendas de material feitas pela APT nos últimos três anos da concessão e ainda não recebidas no termo desta, com destino à execução de planos ou programas devidamente aprovados nos termos das alíneas 5) e 6) do artigo 6.º do contrato de concessão, na nova redação dada pelo contrato adicional de 29 de Maio de 1950.
 
-###### Art. 25.º - 1. Os TLP manterão os seguintes fundos permanentes:
+Art. 25.º - 1. Os TLP manterão os seguintes fundos permanentes:
 
 a) Fundo de estabelecimento;
 
@@ -402,7 +474,7 @@ c) Fundo de renovação.
 
 4. O fundo de renovação destina-se a custear a substituição do material e das instalações.
 
-###### Art. 26.º - 1. Constituem receitas próprias do fundo de estabelecimento:
+Art. 26.º - 1. Constituem receitas próprias do fundo de estabelecimento:
 
 a) As importâncias que pelo conselho geral lhe forem anualmente destinadas dos lucros apurados em cada exercício;
 
@@ -414,29 +486,29 @@ c) Os rendimentos dos valores em que estejam investidos os seus recursos.
 
 3. O conselho geral poderá, sob proposta do conselho de administração, com parecer concordante do conselho fiscal, autorizar que dos fundos de reserva e de renovação sejam investidos em estabelecimento as importâncias que forem julgadas dispensáveis daqueles.
 
-###### Art. 27.º - 1. O fundo de reserva será constituído pela importância de uma percentagem dos lucros apurados em cada exercício votada pelo conselho geral.
+Art. 27.º - 1. O fundo de reserva será constituído pela importância de uma percentagem dos lucros apurados em cada exercício votada pelo conselho geral.
 
 2. No fundo de renovação serão escrituradas as importâncias correspondentes às anuidades de reintegração dos bens da empresa.
 
-###### Art. 28.º - 1. Os recursos que constituam os fundos dos TLP e que não se encontrem investidos em estabelecimento, só podem aplicar-se em títulos de crédito ou depósitos a prazo. A compra ou venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com o parecer favorável do conselho fiscal.
+Art. 28.º - 1. Os recursos que constituam os fundos dos TLP e que não se encontrem investidos em estabelecimento, só podem aplicar-se em títulos de crédito ou depósitos a prazo. A compra ou venda de títulos e a constituição de depósitos a prazo dependem de resolução do conselho de administração, com o parecer favorável do conselho fiscal.
 
 2. A parte do fundo de reserva que não se encontre investida nem aplicada nos termos do número antecedente poderá ser utilizada no maneio dos serviços de tesouraria e armazéns.
 
 3. Quando as disponibilidades do fundo de reserva não sejam suficientes para o maneio a que se refere o número anterior, poderá o conselho de administração, com parecer favorável do conselho fiscal, utilizar nesse giro a parte dos recursos em dinheiro dos outros fundos, incluindo o fundo de aquisição do estabelecimento da APT, que, sem prejuízo da realização dos seus objectivos próprios, possa ser assim empregada.
 
-###### Art. 29.º - 1. O valor dos bens da empresa será reintegrado de maneira contínua nos termos que forem fixados pelo conselho de administração, com parecer favorável do conselho fiscal.
+Art. 29.º - 1. O valor dos bens da empresa será reintegrado de maneira contínua nos termos que forem fixados pelo conselho de administração, com parecer favorável do conselho fiscal.
 
 2. O montante anual das reintegrações constituirá encargo da conta de exploração.
 
 3. Os bens que por obsoletismo técnico ou outro motivo ficarem fora de uso antes de expirado o período previsto para a sua reintegração serão imediatamente reduzidos ao respectivo valor residual, constituindo essa reintegração extraordinária encargo da conta do fundo de renovação.
 
-###### Art. 30.º - 1. Anualmente serão elaborados, com referência ao dia 31 de Dezembro, o inventário e balanço da empresa e a conta de ganhos e perdas de exercício.
+Art. 30.º - 1. Anualmente serão elaborados, com referência ao dia 31 de Dezembro, o inventário e balanço da empresa e a conta de ganhos e perdas de exercício.
 
 2. Até 15 de Maio de cada ano deverão ser remetidos aos membros do conselho geral o relatório do conselho de administração referente ao exercício anterior, acompanhado do balanço e conta de ganhos e perdas e do parecer do conselho fiscal.
 
 3. O inventário e a conta de exploração de cada exercício estarão patentes à consulta dos membros do conselho geral de 15 de Maio a 12 de Junho seguinte, podendo os referidos membros solicitar aos serviços todos os esclarecimentos sobre as contas que julguem necessários.
 
-###### Art. 31.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo obrigatòriamente 5 a 10 por cento ao fundo de reserva e dispondo do remanescente na forma dos números seguintes.
+Art. 31.º - 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho geral deliberará a respectiva distribuição, atribuindo obrigatòriamente 5 a 10 por cento ao fundo de reserva e dispondo do remanescente na forma dos números seguintes.
 
 2. Se a diminuta importância do lucro ou as previsões do próximo exercício o aconselharem, será levado o remanescente a conta nova.
 
@@ -452,9 +524,9 @@ c) O restante destinar-se-á a provisões especiais ou a conta nova.
 
 5. A participação do Estado nos lucros de cada exercício será estabelecida, quando se instituir o regime definitivo de administração, no diploma referido no artigo 8.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469).
 
-###### Art. 32.º Quando a deliberação do conselho geral considere responsáveis membros dos conselhos de administração ou fiscal por factos ocorridos na sua gerência ou por eles praticados, cabe aos visados recurso para o Tribunal de Contas, que o julgará contenciosamente.
+Art. 32.º Quando a deliberação do conselho geral considere responsáveis membros dos conselhos de administração ou fiscal por factos ocorridos na sua gerência ou por eles praticados, cabe aos visados recurso para o Tribunal de Contas, que o julgará contenciosamente.
 
-###### Art. 33.º - 1. O balanço e a conta de ganhos e perdas, depois de aprovados, serão publicados no Diário do Governo e num jornal diário de cada uma das cidades de Lisboa e Porto, acompanhados do relatório do conselho de administração e do parecer do conselho fiscal.
+Art. 33.º - 1. O balanço e a conta de ganhos e perdas, depois de aprovados, serão publicados no Diário do Governo e num jornal diário de cada uma das cidades de Lisboa e Porto, acompanhados do relatório do conselho de administração e do parecer do conselho fiscal.
 
 2. A publicação nos jornais diários poderá ser substituída pela reprodução em folheto a distribuir gratuitamente, com tiragem não inferior a 5000 exemplares.
 
@@ -462,9 +534,9 @@ VI
 
 Disposições gerais e transitórias
 
-###### Art. 34.º Das deliberações definitivas e executórias do conselho de administração e das decisões dos seus órgãos executivos, quando umas ou outras respeitem à prestação dos serviços a pessoas determinadas e por estas sejam arguidas de incompetência, violação da lei ou regulamento ou vício de forma, cabe recurso contencioso para a competente Auditoria Administrativa.
+Art. 34.º Das deliberações definitivas e executórias do conselho de administração e das decisões dos seus órgãos executivos, quando umas ou outras respeitem à prestação dos serviços a pessoas determinadas e por estas sejam arguidas de incompetência, violação da lei ou regulamento ou vício de forma, cabe recurso contencioso para a competente Auditoria Administrativa.
 
-###### Art. 35.º - 1. Consideram-se investidos nas funções de presidente, vice-presidente e vogais do conselho de administração dos TLP, a partir de 1 de Janeiro de 1968, independentemente de nomeação e posse, o presidente, os vice-presidentes e os vogais da comissão nomeada em execução do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964.
+Art. 35.º - 1. Consideram-se investidos nas funções de presidente, vice-presidente e vogais do conselho de administração dos TLP, a partir de 1 de Janeiro de 1968, independentemente de nomeação e posse, o presidente, os vice-presidentes e os vogais da comissão nomeada em execução do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), de 14 de Novembro de 1964.
 
 2. Os membros do conselho de administração, assim investidos, poderão acumular as suas funções com os cargos desempenhados nos CTT, mas na administração dos TLP, além da participação nos lucros, receberão apenas a gratificação que for fixada pelo Ministro das Comunicações, observando-se, quanto às suas remunerações, as regras do n.º 2 do artigo 9.º
 
@@ -472,10 +544,10 @@ Disposições gerais e transitórias
 
 4. A comissão referida no n.º 1 deste artigo adoptará as providências necessárias para, em cooperação com a concessionária, assegurar a entrada em vigor, em 1 de Janeiro de 1968, do regime estabelecido no presente Estatuto, podendo para esse efeito exercer desde já todos os poderes que couberem na competência do conselho de administração dos TLP, e acordará com a APT o montante de indemnização que lhe for devida nos termos dos contratos de concessão, bem como as condições do respectivo pagamento.
 
-###### Art. 36.º - 1. O pessoal que em 31 de Dezembro de 1967 estiver ao serviço da concessionária transitará a partir de 1 de Janeiro de 1968 para os TLP com os direitos e deveres que nessa data tiver, os quais se manterão enquanto subsistir o período transitório de exploração do serviço público.
+Art. 36.º - 1. O pessoal que em 31 de Dezembro de 1967 estiver ao serviço da concessionária transitará a partir de 1 de Janeiro de 1968 para os TLP com os direitos e deveres que nessa data tiver, os quais se manterão enquanto subsistir o período transitório de exploração do serviço público.
 
 2. Continua em vigor o acordo colectivo de trabalho e o regulamento da Caixa de Previdência do Pessoal da Companhia dos Telefones, devendo o conselho de administração dos TLP estudar a sua adaptação ao novo regime e a eventual conversão em novos regulamentos.
 
-###### Art. 37.º Serão transferidas para a posse dos TLP ou à sua ordem as importâncias do fundo de aquisição do estabelecimento da APT depositadas à ordem dos CTT nos termos do n.º 3 do artigo 3.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), bem como os juros que o depósito tiver vencido até à data da transferência.
+Art. 37.º Serão transferidas para a posse dos TLP ou à sua ordem as importâncias do fundo de aquisição do estabelecimento da APT depositadas à ordem dos CTT nos termos do n.º 3 do artigo 3.º do [Decreto-Lei n.º 46033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46033-1964-536469), bem como os juros que o depósito tiver vencido até à data da transferência.
 
 Ministério das Comunicações, 26 de Outubro de 1967. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

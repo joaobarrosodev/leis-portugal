@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/220-1972-673844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2f10b46b4a20b37a56c6119ea8a5a3b99b4795d80b5349c71512d7061e72e01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c961ec27318295a3c9638ec6cd3bafa8debbac8272d99f338b2585fe897a1b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:288458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:25Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +105,9 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pela parte final do § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 3.º 4.º, 5.º, 7.º, 8.º, 9.º e 12.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, passam a ter a seguinte redacção:
+Artigo único. Os artigos 3.º 4.º, 5.º, 7.º, 8.º, 9.º e 12.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, passam a ter a seguinte redacção:
 
-###### Art. 3.º Os quadros das missões e brigadas, cuja constituição venha a ser determinada, abrangerão as seguintes classes:
+Art. 3.º Os quadros das missões e brigadas, cuja constituição venha a ser determinada, abrangerão as seguintes classes:
 
 a) Pessoal dirigente;
 
@@ -117,7 +121,7 @@ e) Pessoal auxiliar.
 
 § único. As classes do pessoal dirigente e superior serão constituídas pelos membros das missões e brigadas que possuam curso universitário ou curso técnico superior; à classe do pessoal técnico pertencerão os componentes das missões e brigadas que possuam curso médio ou secundário; a classe do pessoal auxiliar será formada pelo restante pessoal, com exclusão do que exerça apenas funções administrativas e dos assalariados.
 
-###### Art. 4.º Os cargos das missões e brigadas serão preenchidos do seguinte modo:
+Art. 4.º Os cargos das missões e brigadas serão preenchidos do seguinte modo:
 
 a) Pessoal dirigente - por indivíduos com curso universitário, de formação adequada e reconhecida capacidade para o bom desempenho do lugar, com mais de cinco anos de actividade profissional;
 
@@ -127,7 +131,7 @@ c) Para os restantes cargos observar-se-ão, na parte aplicável, as disposiçõ
 
 § único. ...
 
-###### Art. 5.º O pessoal das missões e brigadas será equiparado às categorias constantes do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 5.º O pessoal das missões e brigadas será equiparado às categorias constantes do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 § 1.º São desde já estabelecidas as seguintes equiparações nas categorias que se indicam:
 
@@ -215,26 +219,26 @@ j) Auxiliar de 3.ª classe ... T
 
 § 3.º ...
 
-###### Art. 7.º Além dos vencimentos referidos no artigo anterior, o pessoal das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diário e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos Governadores das províncias, observado o disposto nos §§ 1.º e 2.º do artigo 7.º do Estatuto do Funcionalismo Ultramarino.
+Art. 7.º Além dos vencimentos referidos no artigo anterior, o pessoal das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diário e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos Governadores das províncias, observado o disposto nos §§ 1.º e 2.º do artigo 7.º do Estatuto do Funcionalismo Ultramarino.
 
 § único. ...
 
-###### Art. 8.º O pessoal das missões e brigadas terá direito aos abonos legais em vigor em cada província para os funcionários de idêntica categoria.
+Art. 8.º O pessoal das missões e brigadas terá direito aos abonos legais em vigor em cada província para os funcionários de idêntica categoria.
 
-###### Art. 9.º O regime de remunerações previsto nos artigos 7.º e 8.º deste decreto poderá ser aplicado pelos Governadores das províncias ao pessoal dos diversos quadros, quando no desempenho de funções análogas às do pessoal das missões e brigadas.
+Art. 9.º O regime de remunerações previsto nos artigos 7.º e 8.º deste decreto poderá ser aplicado pelos Governadores das províncias ao pessoal dos diversos quadros, quando no desempenho de funções análogas às do pessoal das missões e brigadas.
 
 ...
 
-###### Art. 12.º As missões e brigadas existentes à data da publicação deste decreto serão remodeladas, dentro do prazo de cento e oitenta dias, segundo os princípios fixados neste diploma.
+Art. 12.º As missões e brigadas existentes à data da publicação deste decreto serão remodeladas, dentro do prazo de cento e oitenta dias, segundo os princípios fixados neste diploma.
 
 § 1.º Na remodelação das missões e brigadas, a propor pelos Governadores das províncias dentro do prazo de noventa dias, serão respeitadas as designações funcionais e as categorias constantes do § 1.º do artigo 5.º
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Junho de 1972.**
+Promulgado em 12 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1980-470807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a845a9cc9f3616dedde76fe344f708dae2e30990b5f9260239ad7e027c312b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06753e560b80f7ee680849e6ecb8911fca425f974d709a69f177a1b31a02a4cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuição Predial
+- Delegação Regional
+- Extinção de Serviços
+- Fazenda Pública
+- Fundo de Desemprego
+- Gabinete de Gestão do Fundo de Desemprego
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Ministério do Trabalho
+- Quadro de Pessoal
+- Quotização
+- Receita Própria
+- Repartição de Finanças
+- Secretaria Regional do Trabalho
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:23Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +117,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Região Autónoma da Madeira todas as atribuições e competências que, em matérias inseridas no âmbito do Gabinete de Gestão do Fundo de Desemprego, cabem, naquela Região, ao Ministério do Trabalho.
+Artigo 1.º São transferidas para a Região Autónoma da Madeira todas as atribuições e competências que, em matérias inseridas no âmbito do Gabinete de Gestão do Fundo de Desemprego, cabem, naquela Região, ao Ministério do Trabalho.
 
-###### Art. 2.º É extinta a delegação do Gabinete de Gestão do Fundo de Desemprego no Funchal, transitando as suas atribuições para organismo a criar no âmbito da Região Autónoma da Madeira.
+Art. 2.º É extinta a delegação do Gabinete de Gestão do Fundo de Desemprego no Funchal, transitando as suas atribuições para organismo a criar no âmbito da Região Autónoma da Madeira.
 
-###### Art. 3.º - 1 - O pessoal do Ministério do Trabalho adstrito aos serviços extintos e que desempenha funções na Região Autónoma da Madeira, qualquer que seja a sua forma de provimento, será integrado no quadro de pessoal dos serviços dependentes da Secretaria Regional do Trabalho, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se para todos os efeitos, como se fora no mesmo lugar, o tempo de serviço prestado no seu actual cargo.
+Art. 3.º - 1 - O pessoal do Ministério do Trabalho adstrito aos serviços extintos e que desempenha funções na Região Autónoma da Madeira, qualquer que seja a sua forma de provimento, será integrado no quadro de pessoal dos serviços dependentes da Secretaria Regional do Trabalho, em lugares de categoria não inferior e com todos os direitos e regalias já adquiridos, contando-se para todos os efeitos, como se fora no mesmo lugar, o tempo de serviço prestado no seu actual cargo.
 
 2 - A integração e a colocação previstas no n.º 1 deste artigo serão efectuadas mediante lista nominativa elaborada pelo Ministério do Trabalho, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República e no Jornal Oficial da Madeira.
 
@@ -107,42 +129,42 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os funcionários mencionados no n.º 1 que venham a ser integrados nos quadros dos serviços da Região Autónoma da Madeira e que, ao aposentarem-se, pretendam fixar residência no continente manterão os direitos consignados no que se refere a transporte de pessoas e bens.
 
-###### Art. 4.º A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto neste diploma transitam para o Governo Regional mediante simples inventário.
+Art. 4.º A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto neste diploma transitam para o Governo Regional mediante simples inventário.
 
-###### Art. 5.º - 1 - Passam a constituir receitas da Região Autónoma da Madeira as quotizações para o Fundo de Desemprego liquidadas e cobradas na mesma, de harmonia com o [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, com as alterações subsequentes.
+Art. 5.º - 1 - Passam a constituir receitas da Região Autónoma da Madeira as quotizações para o Fundo de Desemprego liquidadas e cobradas na mesma, de harmonia com o [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, com as alterações subsequentes.
 
 2 - Entende-se, para os efeitos previstos no número anterior, que há também incidência de quotizações para a Região Autónoma da Madeira sobre as relações jurídico-laborais existentes em todas as filiais, sucursais, agências, delegações ou organismos com denominação similar, de pessoas singulares ou colectivas, incluindo as empresas públicas nacionalizadas ou intervencionadas pelo Estado, nacionais ou estrangeiras, sitas na Região, embora com sede ou serviços centrais fora dela.
 
 3 - Os contribuintes abrangidos pelo disposto no número anterior deverão depositar na repartição de finanças do concelho da Região Autónoma onde estiver situada a filial, sucursal, agência, delegação ou organismo similar as quotizações relativas aos trabalhadores que aí prestam serviço, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272).
 
-###### Art. 6.º As importâncias em dinheiro arrecadadas nas tesourarias da Fazenda Pública situadas na Região e ainda o adicional à contribuição predial mencionado no artigo 3.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) serão transferidos mensalmente para a conta da Região da Madeira na Caixa Geral de Depósitos no Funchal.
+Art. 6.º As importâncias em dinheiro arrecadadas nas tesourarias da Fazenda Pública situadas na Região e ainda o adicional à contribuição predial mencionado no artigo 3.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) serão transferidos mensalmente para a conta da Região da Madeira na Caixa Geral de Depósitos no Funchal.
 
-###### Art. 7.º As repartições de finanças da Região Autónoma da Madeira enviarão ao organismo regional de gestão do Fundo de Desemprego, até ao dia 10 de cada mês, as guias de pagamento das quotizações para o Fundo de Desemprego que nelas tenham dado entrada no mês anterior, devidamente relacionadas e acompanhadas da guia de depósito na Caixa Geral de Depósitos, em conta da Região Autónoma da Madeira, das importâncias arrecadadas para aquele Fundo durante o mesmo mês.
+Art. 7.º As repartições de finanças da Região Autónoma da Madeira enviarão ao organismo regional de gestão do Fundo de Desemprego, até ao dia 10 de cada mês, as guias de pagamento das quotizações para o Fundo de Desemprego que nelas tenham dado entrada no mês anterior, devidamente relacionadas e acompanhadas da guia de depósito na Caixa Geral de Depósitos, em conta da Região Autónoma da Madeira, das importâncias arrecadadas para aquele Fundo durante o mesmo mês.
 
-###### Art. 8.º - 1 - Estando verificadas as condições e as circunstâncias a que se reporta o artigo 17.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), será remetida a certidão do respectivo processo pelo organismo regional de gestão do Fundo de Desemprego aos tribunais das contribuições e impostos da área do domicílio do devedor, aos quais competirá a cobrança coerciva das quotizações, multas e demais quantias em dívida ao respectivo Fundo.
+Art. 8.º - 1 - Estando verificadas as condições e as circunstâncias a que se reporta o artigo 17.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), será remetida a certidão do respectivo processo pelo organismo regional de gestão do Fundo de Desemprego aos tribunais das contribuições e impostos da área do domicílio do devedor, aos quais competirá a cobrança coerciva das quotizações, multas e demais quantias em dívida ao respectivo Fundo.
 
 2 - Os tribunais a que se reporta o § 1.º do artigo 12.º e, bem assim, o § 1.º do artigo 17.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) farão depositar em conta da Região na Caixa Geral de Depósitos o produto da cobrança coerciva das quotizações, multas e demais quantias em dívida.
 
 3 - O resultado das execuções será sempre comunicado ao organismo regional de gestão do Fundo de Desemprego.
 
-###### Art. 9.º Todas as entidades oficiais competentes para indicar quantias devidas e não satisfeitas e accionar o processamento de multas, cujo destino legal ou convencional seja o Fundo de Desemprego, deverão dar oportuno conhecimento desse facto ao organismo regional de gestão, a quem identificarão, nos termos usuais, a pessoa do infractor ou infractores, o diploma legal e o instrumento normativo ou convenção colectiva que prevê e tipifica a infracção e quantificação dos valores pecuniários sancionatórios.
+Art. 9.º Todas as entidades oficiais competentes para indicar quantias devidas e não satisfeitas e accionar o processamento de multas, cujo destino legal ou convencional seja o Fundo de Desemprego, deverão dar oportuno conhecimento desse facto ao organismo regional de gestão, a quem identificarão, nos termos usuais, a pessoa do infractor ou infractores, o diploma legal e o instrumento normativo ou convenção colectiva que prevê e tipifica a infracção e quantificação dos valores pecuniários sancionatórios.
 
-###### Art. 10.º Será assegurado pela Secretaria de Estado do Emprego e Secretaria Regional do Trabalho o intercâmbio de informações técnicas sobre problemas relacionados com a gestão do Fundo de Desemprego.
+Art. 10.º Será assegurado pela Secretaria de Estado do Emprego e Secretaria Regional do Trabalho o intercâmbio de informações técnicas sobre problemas relacionados com a gestão do Fundo de Desemprego.
 
-###### Art. 11.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro do Trabalho, ouvido o Governo da Região.
+Art. 11.º As dúvidas suscitadas pela aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da República para a Região Autónoma da Madeira e do Ministro do Trabalho, ouvido o Governo da Região.
 
-###### Art. 12.º - 1 - A partir de 1 de Janeiro de 1981 as despesas com os serviços agora regionalizados serão orçamentadas e garantidas pelo orçamento do organismo regional do Fundo de Desemprego.
+Art. 12.º - 1 - A partir de 1 de Janeiro de 1981 as despesas com os serviços agora regionalizados serão orçamentadas e garantidas pelo orçamento do organismo regional do Fundo de Desemprego.
 
 2 - Até 31 de Dezembro de 1980, o orçamento do Gabinete de Gestão do Fundo de Desemprego continuará a suportar os encargos que eram cometidos ao Fundo de Desemprego no âmbito da Região Autónoma da Madeira.
 
-###### Art. 13.º Enquanto não for criado o organismo a que se refere o artigo 2.º, as atribuições da delegação do Gabinete de Gestão do Fundo de Desemprego continuam a ser exercidas por este serviço.
+Art. 13.º Enquanto não for criado o organismo a que se refere o artigo 2.º, as atribuições da delegação do Gabinete de Gestão do Fundo de Desemprego continuam a ser exercidas por este serviço.
 
-###### Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, com excepção dos artigos 6.º, 7.º e 8.º, que entrarão em vigor em 1 de Janeiro de 1981.
+Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, com excepção dos artigos 6.º, 7.º e 8.º, que entrarão em vigor em 1 de Janeiro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 4 de Agosto de 1980.**
+Promulgado em 4 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

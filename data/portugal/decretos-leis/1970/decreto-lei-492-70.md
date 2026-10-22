@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/24500/15251528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1970-147607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7799630bef6e526cef3c6591dfe38756570dcdb58ad92dda5e7f4f7847511e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2afb09c9d83269d60787554d01924572f195699c98fe425ed6a64b5e5041e982
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação Colectiva
+- Contrato de Trabalho
+- Instituto Nacional do Trabalho e Previdência
 relationships:
 - type: amended_by
   target: pt:dre:356557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:214895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514838:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:356557:por
+  label: "Revogado, a partir de 19.03.1976, pelo DEC LEI.164-A/76.28.02.1976.MT, DG.IS [50-Supl] de 28.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-a-1976-356557
+  date: '1976-02-28'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:39Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +129,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 1.º; o n.º 1 do artigo 5.º; os artigos 7.º e 9.º; o n.º 2 do artigo 10.º; os artigos 12.º, 14.º, 15.º e 16.º; o n.º 2 do artigo 17.º; o n.º 2 do artigo 18.º; o n.º 1 do artigo 19.º, e os artigos 24.º, 26.º e 33.º do [Decreto-Lei n.º 49212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49212-1969-214895), de 28 de Agosto de 1969, passam a ter a redacção seguinte:
+Artigo 1.º O n.º 2 do artigo 1.º; o n.º 1 do artigo 5.º; os artigos 7.º e 9.º; o n.º 2 do artigo 10.º; os artigos 12.º, 14.º, 15.º e 16.º; o n.º 2 do artigo 17.º; o n.º 2 do artigo 18.º; o n.º 1 do artigo 19.º, e os artigos 24.º, 26.º e 33.º do [Decreto-Lei n.º 49212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49212-1969-214895), de 28 de Agosto de 1969, passam a ter a redacção seguinte:
 
 ###### Artigo 1.º - 1. ...
 
@@ -121,11 +137,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Cons
 
 ...
 
-###### Art. 5.º - 1. As regalias concedidas aos trabalhadores por algum dos modos previstos no artigo 1.º deste diploma só poderão ser diminuídas por novos instrumentos de regulamentação colectiva do mesmo grau hierárquico que expressamente se considerem, no seu conjunto, mais favoráveis aos trabalhadores que os então vigentes.
+Art. 5.º - 1. As regalias concedidas aos trabalhadores por algum dos modos previstos no artigo 1.º deste diploma só poderão ser diminuídas por novos instrumentos de regulamentação colectiva do mesmo grau hierárquico que expressamente se considerem, no seu conjunto, mais favoráveis aos trabalhadores que os então vigentes.
 
 ...
 
-###### Art. 7.º - 1. Podem celebrar convenções colectivas de trabalho:
+Art. 7.º - 1. Podem celebrar convenções colectivas de trabalho:
 
 a) Os grémios representando as entidades patronais, ou estas próprias, consideradas singularmente, ou conjuntamente uns e outras;
 
@@ -147,17 +163,17 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 9. Incumbirá ao organismo que tomou a iniciativa das negociações promover as diligências necessárias à formulação de uma proposta com o âmbito definido nos termos do n.º 4.
 
-###### Art. 9.º - 1. Cumpre às partes que celebram as convenções colectivas velar pela sua execução e observância e colaborar no seu aperfeiçoamento e oportuna actualização.
+Art. 9.º - 1. Cumpre às partes que celebram as convenções colectivas velar pela sua execução e observância e colaborar no seu aperfeiçoamento e oportuna actualização.
 
 2. Os organismos primários serão também responsáveis pela execução e observância das convenções colectivas de trabalho celebradas pelas uniões ou federações que os abranjam.
 
-###### Art. 10.º - 1. ...
+Art. 10.º - 1. ...
 
 2. Sempre que na convenção colectiva se pretenda inserir qualquer cláusula sobre o trabalho das mulheres, as respectivas negociações serão acompanhadas por um representante da secção feminina dos organismos sindicais interessados.
 
 ...
 
-###### Art. 12.º - 1. A entidade que desejar a celebração de uma convenção colectiva ou a sua revisão de uma apresentará por escrito a sua proposta à entidade com quem pretende negociar, a qual, no prazo de trinta dias, deverá responder informando se a aceita ou a rejeita ou apresentando uma contraproposta.
+Art. 12.º - 1. A entidade que desejar a celebração de uma convenção colectiva ou a sua revisão de uma apresentará por escrito a sua proposta à entidade com quem pretende negociar, a qual, no prazo de trinta dias, deverá responder informando se a aceita ou a rejeita ou apresentando uma contraproposta.
 
 2. O prazo para a resposta começará a correr quinze dias após a recepção da proposta, podendo entretanto ser decidida pelo I. N. T. P. a obrigatoriedade da celebração conjunta das convenções colectivas de trabalho.
 
@@ -169,7 +185,7 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 6. Mediante autorização do I. N. T. P., poderá ser estabelecida uma prorrogação, nunca superior ao período de tempo mencionado no número anterior.
 
-###### Art. 14.º - 1. A tentativa de conciliação compete à corporação que represente os interessados, a qual poderá delegar o exercício das respectivas funções na comissão corporativa correspondente.
+Art. 14.º - 1. A tentativa de conciliação compete à corporação que represente os interessados, a qual poderá delegar o exercício das respectivas funções na comissão corporativa correspondente.
 
 2. Se houver mais que uma corporação interessada, compete ao I. N. T. P. designar a corporação competente para a actividade conciliatória.
 
@@ -183,7 +199,7 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 7. As diligências conciliatórias não poderão exceder o prazo de sessenta dias, a contar da recepção do respectivo pedido.
 
-###### Art. 15.º - 1. Sempre que da tentativa de conciliação não tenha resultado acordo, qualquer das partes poderá tomar a iniciativa da arbitragem, notificando a outra para que nomeie árbitro e identificando-lhe o seu.
+Art. 15.º - 1. Sempre que da tentativa de conciliação não tenha resultado acordo, qualquer das partes poderá tomar a iniciativa da arbitragem, notificando a outra para que nomeie árbitro e identificando-lhe o seu.
 
 2. A parte notificada procederá à nomeação dentro do prazo de quinze dias, a contar do recebimento da notificação, e, se o não fizer, caberá tal nomeação à direcção da corporação ou ao presidente da comissão corporativa competente, que, para o efeito, disporão de igual prazo.
 
@@ -191,7 +207,7 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 4. O árbitro presidente será designado, a requerimento dos árbitros de parte, pelo Ministro das Corporações e Previdência Social, depois de ouvida a corporação competente.
 
-###### Art. 16.º - 1. Os árbitros devem ser cidadãos portugueses, capazes, de reconhecida probidade, tècnicamente competentes e estranhos aos interesses em litígio.
+Art. 16.º - 1. Os árbitros devem ser cidadãos portugueses, capazes, de reconhecida probidade, tècnicamente competentes e estranhos aos interesses em litígio.
 
 2. Os árbitros poderão ser coadjuvados por peritos, promover as diligências que entenderem convenientes e solicitar aos serviços competentes do Estado e dos corpos administrativos, aos organismos corporativos e de coordenação económica, às empresas e aos trabalhadores, todos os elementos de informação de que necessitem.
 
@@ -207,19 +223,19 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 8. Cada uma das partes é responsável pelo pagamento de metade dos honorários do árbitro presidente e das demais despesas de arbitragem.
 
-###### Art. 17.º - 1. ...
+Art. 17.º - 1. ...
 
 2. Se um árbitro falecer durante a arbitragem ou se impossibilitar ou obtiver escusa, deve a parte que o nomeou indicar novo árbitro dentro de quinze dias, a contar da notificação para esse efeito ordenada, seguindo-se, quando for caso disso, o disposto na parte final do n.º 2 do artigo 15.º; tratando-se do árbitro presidente, proceder-se-á à nomeação de novo árbitro nos termos previstos no n.º 4 do artigo 15.º
 
-###### Art. 18.º - 1. ...
+Art. 18.º - 1. ...
 
 2. Na primeira reunião definir-se-á com precisão o objecto da arbitragem, que deverá respeitar aos pontos controvertidos relacionados na acta da tentativa de conciliação e às questões conexas cujo conhecimento se mostre indispensável.
 
-###### Art. 19.º - 1. A decisão final será proferida dentro de sessenta dias, a contar da nomeação dos árbitros, podendo este prazo, em casos devidamente justificados ser prorrogado por mais sessenta dias, mediante autorização do I. N. T. P.
+Art. 19.º - 1. A decisão final será proferida dentro de sessenta dias, a contar da nomeação dos árbitros, podendo este prazo, em casos devidamente justificados ser prorrogado por mais sessenta dias, mediante autorização do I. N. T. P.
 
 ...
 
-###### Art. 24.º - 1. As convenções colectivas de trabalho, os pedidos de adesão, as revisões e as actas de conciliação serão apresentados ao I. N. T. P., devendo simultâneamente ser remetidas cópias à corporação.
+Art. 24.º - 1. As convenções colectivas de trabalho, os pedidos de adesão, as revisões e as actas de conciliação serão apresentados ao I. N. T. P., devendo simultâneamente ser remetidas cópias à corporação.
 
 2. As decisões arbitrais, acompanhadas das actas da tentativa de conciliação ou suas cópias autenticadas, dos documentos comprovativos da designação dos árbitros e da conta de honorários e despesas serão apresentadas ao I. N. T. P., que deverá dá-las a conhecer à corporação competente e às partes interessadas.
 
@@ -233,7 +249,7 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 7. O I. N. T. P. procederá ao registo, numeração e arquivo de todos os instrumentos de regulamentação das relações colectivas de trabalho, integrando-as das cláusulas definidas nas revisões, nas actas de conciliação ou nas decisões arbitrais, ou em novas portarias, promoverá a sua publicação e recolherá os elementos indispensáveis à estimativa dos trabalhadores e empresas por eles abrangidos.
 
-###### Art. 26.º - 1. Das portaras de regulamentação do trabalho constarão as razões por que se não utilizou a via convencional, devendo igualmente ser fundamentadas.
+Art. 26.º - 1. Das portaras de regulamentação do trabalho constarão as razões por que se não utilizou a via convencional, devendo igualmente ser fundamentadas.
 
 2. Será considerada como razão impeditiva da regulamentação por via convencional das relações colectivas de trabalho a impossibilidade de homologação dos textos submetidos a despacho do Ministro das Corporações e Previdência Social, nos termos do n.º 3 do artigo 24.º
 
@@ -241,7 +257,7 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 4. Quando as portarias respeitem a empresas públicas, a empresas concessionárias, a actividades sujeitas por lei a fiscalização do Governo, ou ainda quando a regulamentação a estabelecer venha a reflectir-se, por forma acentuada, em serviços do Estado, deverão fazer parte das comissões técnicas representantes das entidades ou Ministérios interessados.
 
-###### Art. 33.º - 1. As convenções colectavas de trabalho, os pedidos de adesão, as revisões, as actas de conciliação e as decisões arbitrais, bem como as portarias de regulamentação de trabalho, serão publicados no Boletim do Instituto Nacional do Trabalho e Previdência.
+Art. 33.º - 1. As convenções colectavas de trabalho, os pedidos de adesão, as revisões, as actas de conciliação e as decisões arbitrais, bem como as portarias de regulamentação de trabalho, serão publicados no Boletim do Instituto Nacional do Trabalho e Previdência.
 
 2. É aplicável aos instrumentos referidos no número anterior o disposto na lei para a entrada em vigor dos diplomas legislativos, tomando por base a publicação no Boletim do Instituto Nacional do Trabalho e Previdência, salvo se for fixada data posterior.
 
@@ -253,9 +269,9 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 6. Os instrumentos de regulamentação colectiva consideram-se automàticamente renovados se nenhuma das partes interessadas tomar a iniciativa da sua revisão até noventa dias antes do termo dos respectivos prazos de vigência.
 
-###### Art. 2.º Aos artigos 6.º e 13.º do [Decreto-Lei n.º 49212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49212-1969-214895), de 28 de Agosto de 1969, são acrescentados os seguintes números:
+Art. 2.º Aos artigos 6.º e 13.º do [Decreto-Lei n.º 49212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49212-1969-214895), de 28 de Agosto de 1969, são acrescentados os seguintes números:
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 ...
 
@@ -265,7 +281,7 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 5. As disposições dos acordos colectivos de trabalho prevalecerão sobre as dos contratos colectivos que vierem a ser celebrados para a mesma actividade.
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 ...
 
@@ -281,8 +297,8 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Outubro de 1970.**
+Promulgado em 16 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 189/1972, 1º Suplemento, Série I de 1972-08-14
   number: '189'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1070-(11) a 1070-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/18901/00110015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1972-605807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1ad87133685cf1907941f97cb3a3cbbf4e8c126c0603b9f24645e8bc9704a4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3343c77804f9842344ed6332759be2b78b19094c447b07b687eaf02a4e44c0ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Indústria da Panificação
 relationships:
 - type: amended_by
   target: pt:dre:219961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219961:por
+  label: "Revogado pelo DEC LEI.286/86.06.09.1986.MIC, DR.IS [205] de 06.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1986-219961
+  date: '1986-09-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:36Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +145,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Comércio de Pão e Produtos Afins, anexo a este decreto-lei.
+Artigo 1.º É aprovado o Regulamento do Comércio de Pão e Produtos Afins, anexo a este decreto-lei.
 
-###### Art. 2.º - 1. As alterações julgadas necessárias ao Regulamento anexo, bem como as disposições que o venham a completar, serão estabelecidas em portaria do Secretário de Estado do Comércio.
+Art. 2.º - 1. As alterações julgadas necessárias ao Regulamento anexo, bem como as disposições que o venham a completar, serão estabelecidas em portaria do Secretário de Estado do Comércio.
 
 2. Quando as alterações ou ais disposições referidas no número anterior envolvam matéria da competência dos Ministérios das Corporações e Previdência Social a da Saúde e Assistência deverá a portaria ser também assinada pelos Ministros respectivos.
 
-###### Art. 3.º - 1. Fica revogada a legislação anterior em contrário, nomeadamente:
+Art. 3.º - 1. Fica revogada a legislação anterior em contrário, nomeadamente:
 
 a) Os artigos 39.º e 40.º do Regulamento para o Fabrico a Venda de Pão, aprovado pelo Decreto de 24 de Junho de 1911;
 
@@ -130,15 +169,15 @@ b) Despacho de 26 de Setembro de 1949, publicado no Diário do Governo, 2.ª sé
 
 3. Ficam também revogados a alínea e) do artigo 6.º, o § 1.º do artigo 10.º e a segunda parte do artigo 13.º do Regulamento da Carteira Profissional dos Trabalhadores da Indústria de Panificação, aprovado pelo despacho do Subsecretário de Estado das Corporações e Previdência Social de 26 de Setembro de 1949 e publicado no Diário do Governo, 2.ª série, de 1 de Outubro do mesmo ano.
 
-###### Art. 4.º Este decreto-lei entra em vigor trinta dias após a data da sua publicação no Diário do Governo.
+Art. 4.º Este decreto-lei entra em vigor trinta dias após a data da sua publicação no Diário do Governo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DO COMÉRCIO DE PÃO E PRODUTOS AFINS
 
@@ -290,7 +329,7 @@ Todos os indivíduos que intervenham no armazenamento, acondicionamento, transpo
 
 ###### ARTIGO 17.º — (Poderes do Secretário de Estado do Comércio)
 
-**O Secretário de Estado do Comércio poderá, por portaria, alterar os formatos, unidades e peso do pão previstos na lei, autorizar ou fixar outros, bem como libertar ou estabelecer os preços respectivos.**
+O Secretário de Estado do Comércio poderá, por portaria, alterar os formatos, unidades e peso do pão previstos na lei, autorizar ou fixar outros, bem como libertar ou estabelecer os preços respectivos.
 
 ###### ARTIGO 18.º — (Preços)
 
@@ -388,4 +427,4 @@ Concluída a instrução preparatória, devem os processos ser remetidos para ju
 
 Nos casos não especificados ou previstos neste capítulo observar-se-ão as disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-**O Ministro da Economia, João Augusto Dias Rosas. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Economia, João Augusto Dias Rosas. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

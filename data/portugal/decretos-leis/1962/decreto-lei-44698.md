@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 265/1962, 1º Suplemento, Série I de 1962-11-17
   number: '265'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1501 - 1508
   pdf_url: https://files.diariodarepublica.pt/1s/1962/11/26501/15011508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bed43781aa904bedd2100480f5f0253ee952fe02eabab745abcd6e5cc8aece71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f40d1dc7646765bc5b5991b98990cda3022ba74e2c3113e72f5681f01cc81810
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Exportação de Capitais
+- Importação
+- Importação de Capitais
+- Mercadoria
+- Operações de Invisiveis Correntes
 relationships:
 - type: amended_by
   target: pt:dre:692224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:154848:por
+  label: "Alterado o art. 34º [relativamente à entrada em vigor, que é fixada para 01.03.1963] pelo DEC LEI.44828.31.12.1962.PC,\
+    \ DG.IS [299] de 31.12.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44828-1962-154848
+  date: '1962-12-31'
+- type: amended_by
+  target: pt:dre:390783:por
+  label: "Alterados os prazos referidos no §1º do art.12º e no §1º do art.15º, pelo DEC LEI.47920.1967.09.08.MF DG.IS [210]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47920-1967-390783
+  date: '1967-09-08'
+- type: amended_by
+  target: pt:dre:216291:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 8º, 9º, 12º, 15º, 17º, 27º, 30º e 31º e, revogados os § 1º a 3º do art. 31º e\
+    \ os arts. 32º e 33º, pelo DEC LEI.49306.1969.10.16.MF DG.IS [243]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49306-1969-216291
+  date: '1969-10-16'
+- type: amended_by
+  target: pt:dre:675463:por
+  label: "Aditados os §§ 1.º, 2.º e 3.º ao artigo 1.º, o § 5.º ao artigo 12.º, e alterado o corpo e os §§ 1.º e 2.º do artigo\
+    \ 2.º, pelo DEC LEI.158/73.10.04.1973.MF, DG.IS [85] de 10.04.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1973-675463
+  date: '1973-04-10'
+- type: amended_by
+  target: pt:dre:335940:por
+  label: "Aditado um parágrafo ao artigo 12.º, pelo DEC LEI.264/75.28.05.1975.MF, DG.IS [123] de 28.05.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1975-335940
+  date: '1975-05-28'
+- type: amended_by
+  target: pt:dre:507450:por
+  label: "Alterada a redacção do §1.º do art. 1.º pelo DEC LEI.178/76.1976.03.06.MCOME DG.IS [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1976-507450
+  date: '1976-03-06'
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503245:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:390780:por
+  label: "Revogados os art.s 10º e 11º, pelo DEC LEI.47917.08.09.1967.MF, DG.IS [210] de 08.09.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47917-1967-390780
+  date: '1967-09-08'
+- type: repealed_by
+  target: pt:dre:225988:por
+  label: "Revogados os arts. 19º a 24º e o Anexo II pelo DEC LEI.183/70.1970.04.28.MF DG.IS [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1970-225988
+  date: '1970-04-28'
+- type: repealed_by
+  target: pt:dre:240851:por
+  label: "Revogados os arts. 1.º a 11.º e 26.º, na redacção dada pelo Dec Lei 41306, de 16-Out 1969, pelo DEC LEI.353-F/77.1977.08.29.MPCE\
+    \ DR.IS [199]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-f-1977-240851
+  date: '1977-08-29'
+- type: repealed_by
+  target: pt:dre:692224:por
+  label: "Revogado, com as alterações que lhe foram introduzidas nos Decretos-Leis n.º 47920, de 8 de Setembro de 1967, 49306,\
+    \ de 16 de Outubro de 1969, 158/73, de 10 de Abril, e 264/75, de 28 de Maio, pelo DEC LEI.351-C/85.26.08.1985.MFP, DR.IS\
+    \ [195]Supl de 26.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-c-1985-692224
+  date: '1985-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:55Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +172,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Operações entre o continente ou ilhas adjacentes e o estrangeiro
 
-###### Artigo 1.º As operações de importação, exportação e reexportação de quaisquer mercadorias entre o continente ou ilhas adjacentes e o estrangeiro continuarão sujeitas ao regime de normas a aprovar pelo Conselho de Ministros para os Assuntos Económicos, entendendo-se que se mantêm em vigor as que foram aprovadas pelo Conselho de Ministros para o Comércio Externo em 5 de Fevereiro de 1948 e, bem assim, a deliberação tomada pelo mesmo Conselho em 15 de Junho de 1960, publicadas, respectivamente, no Diário do Governo, 1.ª série, de 6 de Fevereiro de 1948 e de 22 de Junho de 1960, com as alterações introduzidas pelo presente decreto-lei.
+Artigo 1.º As operações de importação, exportação e reexportação de quaisquer mercadorias entre o continente ou ilhas adjacentes e o estrangeiro continuarão sujeitas ao regime de normas a aprovar pelo Conselho de Ministros para os Assuntos Económicos, entendendo-se que se mantêm em vigor as que foram aprovadas pelo Conselho de Ministros para o Comércio Externo em 5 de Fevereiro de 1948 e, bem assim, a deliberação tomada pelo mesmo Conselho em 15 de Junho de 1960, publicadas, respectivamente, no Diário do Governo, 1.ª série, de 6 de Fevereiro de 1948 e de 22 de Junho de 1960, com as alterações introduzidas pelo presente decreto-lei.
 
-###### Art. 2.º Os prazos de validade dos boletins de registo prévio das operações referidas no artigo anterior não deverão exceder 90 dias, a contar da data da emissão dos mesmos boletins.
+Art. 2.º Os prazos de validade dos boletins de registo prévio das operações referidas no artigo anterior não deverão exceder 90 dias, a contar da data da emissão dos mesmos boletins.
 
 § 1.º Quando, em virtude da natureza das operações, os serviços ou entidades aos quais competir a emissão dos boletins o considerarem justificável, poderão ser concedidos prazos de validade até 180 dias.
 
@@ -107,7 +182,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Para efeito do disposto no parágrafo anterior, consideram-se como boletins não utilizados aqueles em relação aos quais se verifique não terem sido efectuados nem o despacho alfandegário nem a liquidação das mercadorias a que eles respeitam.
 
-###### Art. 3.º A liquidação das exportações ou reexportações de mercadorias do continente ou ilhas adjacentes para o estrangeiro será obrigatòriamente efectuada mediante a apresentação do exemplar E do respectivo boletim de registo prévio, dentro do prazo de validade do mesmo boletim, na moeda que ele indicar e por intermédio de instituição de crédito autorizada a exercer o comércio de câmbios naqueles ou em quaisquer outros territórios nacionais.
+Art. 3.º A liquidação das exportações ou reexportações de mercadorias do continente ou ilhas adjacentes para o estrangeiro será obrigatòriamente efectuada mediante a apresentação do exemplar E do respectivo boletim de registo prévio, dentro do prazo de validade do mesmo boletim, na moeda que ele indicar e por intermédio de instituição de crédito autorizada a exercer o comércio de câmbios naqueles ou em quaisquer outros territórios nacionais.
 
 § 1.º Os exportadores ou reexportadores de mercadorias que pretendam efectuar as correspondentes operações cambiais para além dos prazos de validade fixados nos correspondentes boletins de registo prévio deverão, antes da expiração de tais prazos, solicitar autorização especial do Banco de Portugal, se desejarem efectuar as operações dentro do período de um ano, a contar da data em que as mercadorias foram efectivamente exportadas ou reexportadas, ou solicitar autorização da Inspecção-Geral de Crédito e Seguros, nos termos dos artigos 19.º, 20.º e 24.º do presente decreto-lei, se desejarem realizá-las em período mais largo.
 
@@ -119,7 +194,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO II — Operações entre as províncias ultramarinas e o estrangeiro
 
-###### Art. 4.º Às operações de importação, exportação e reexportação de quaisquer mercadorias entre as províncias ultramarinas e o estrangeiro será aplicado o regime mencionado no artigo 1.º do presente decreto-lei, com as alterações deste constantes, bem como o disposto, quanto a prazos de validade, no artigo 2.º, devendo os governadores das províncias ultramarinas determinar os serviços ou entidades aos quais ficará competindo a emissão dos boletins de registo prévio, se esta competência não se encontrar já atribuída.
+Art. 4.º Às operações de importação, exportação e reexportação de quaisquer mercadorias entre as províncias ultramarinas e o estrangeiro será aplicado o regime mencionado no artigo 1.º do presente decreto-lei, com as alterações deste constantes, bem como o disposto, quanto a prazos de validade, no artigo 2.º, devendo os governadores das províncias ultramarinas determinar os serviços ou entidades aos quais ficará competindo a emissão dos boletins de registo prévio, se esta competência não se encontrar já atribuída.
 
 § 1.º Os exemplares dos boletins de registo serão sete, correspondentes às letras A a G, destinando-se os exemplares A e B às alfândegas que devam proceder aos despachos, o C à inspecção de crédito e seguros ou à inspecção do comércio bancário da respectiva província ultramarina, os D e E aos interessados, o F ao Banco de Portugal e o G ao serviço ou entidade que emitir os boletins.
 
@@ -131,11 +206,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º Ficam isentos de registo prévio os separados de bagagem, bem como a importação e a exportação ou reexportação de mercadorias cujo valor não exceda 1000$00, desde que não sejam excluídas desta isenção pelo governador da província, sobre proposta do serviço ou entidade ao qual competir na província a emissão de boletins de registo prévio.
 
-###### Art. 5.º O disposto no artigo 3.º deste decreto-lei será aplicado a idênticas operações entre as províncias ultramarinas e o estrangeiro, com a diferença de que a concessão das autorizações ali previstas competirá às inspecções de crédito e seguros ou do comércio bancário das respectivas províncias ultramarinas e de que o exemplar E dos boletins de registo prévio deve ser remetido àquelas inspecções directamente ou por intermédio do Banco de Portugal, quando se tratar do operações efectuadas no continente ou nas ilhas adjacentes.
+Art. 5.º O disposto no artigo 3.º deste decreto-lei será aplicado a idênticas operações entre as províncias ultramarinas e o estrangeiro, com a diferença de que a concessão das autorizações ali previstas competirá às inspecções de crédito e seguros ou do comércio bancário das respectivas províncias ultramarinas e de que o exemplar E dos boletins de registo prévio deve ser remetido àquelas inspecções directamente ou por intermédio do Banco de Portugal, quando se tratar do operações efectuadas no continente ou nas ilhas adjacentes.
 
 § único. Quando o exemplar E do boletim de registo deva ser enviado por intermédio do Banco de Portugal, este remetê-lo-á à autoridade cambial da respectiva província no prazo de quinze dias, a contar da recepção do referido exemplar E, salvo motivo justificado.
 
-###### Art. 6.º As operações entre as províncias ultramarinas e o estrangeiro ficam sujeitas às directivas que vigorarem no continente e ilhas adjacentes em conformidade com a 5.ª e a 14.ª das normas mencionadas no artigo 1.º do presente decreto-lei, quanto à moeda em que devem ser emitidos os boletins de registo prévio de comércio externo e liquidadas as correspondentes transacções.
+Art. 6.º As operações entre as províncias ultramarinas e o estrangeiro ficam sujeitas às directivas que vigorarem no continente e ilhas adjacentes em conformidade com a 5.ª e a 14.ª das normas mencionadas no artigo 1.º do presente decreto-lei, quanto à moeda em que devem ser emitidos os boletins de registo prévio de comércio externo e liquidadas as correspondentes transacções.
 
 § 1.º Em casos excepcionais poderá ser feita emissão de boletins de registo prévio, nas províncias ultramarinas, em moeda diferente daquela que nos termos das referidas directivas lhes corresponda, mas apenas quando as inspecções de crédito e seguros ou do comércio bancário das províncias, com relação a cada operação, derem o seu acordo, sobre parecer favorável do Banco de Portugal.
 
@@ -147,7 +222,7 @@ Quando aquelas inspecções tenham solicitado por telegrama o parecer do Banco d
 
 #### SECÇÃO III — Operações entre territórios nacionais
 
-###### Art. 7.º As importações num território nacional de quaisquer mercadorias provenientes de outro território nacional, uma vez concluídos os respectivos despachos pelos competentes serviços alfandegários, ficam sujeitas a registo, que será processado nos termos desta secção pelos mesmos serviços.
+Art. 7.º As importações num território nacional de quaisquer mercadorias provenientes de outro território nacional, uma vez concluídos os respectivos despachos pelos competentes serviços alfandegários, ficam sujeitas a registo, que será processado nos termos desta secção pelos mesmos serviços.
 
 § 1.º Este registo será efectuado gratuitamente, mediante o preenchimento de boletins emitidos em escudos, em cinco exemplares marcados de I a V:
 
@@ -159,7 +234,7 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 § 3.º As exportações de mercadorias de um para outro território nacional ficam sujeitas às regras que forem havidas por convenientes para a fiscalização dos valores de exportação e defesa das balanças de pagamentos.
 
-###### Art. 8.º Nas importações das mercadorias sujeitas a restrições quantitativas nos termos do capítulo IV do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), ou às que venham a ser introduzidas temporàriamente por razões imperativas da balança de pagamentos do território em causa, a realização tanto do despacho como do registo a que se refere o artigo antecedente ficará dependente de autorização, passada pelos serviços ou entidades que no continente e ilhas adjacentes ou nas províncias ultramarinas tiverem competência para emitir boletins de registo prévio para as operações com o estrangeiro.
+Art. 8.º Nas importações das mercadorias sujeitas a restrições quantitativas nos termos do capítulo IV do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), ou às que venham a ser introduzidas temporàriamente por razões imperativas da balança de pagamentos do território em causa, a realização tanto do despacho como do registo a que se refere o artigo antecedente ficará dependente de autorização, passada pelos serviços ou entidades que no continente e ilhas adjacentes ou nas províncias ultramarinas tiverem competência para emitir boletins de registo prévio para as operações com o estrangeiro.
 
 § 1.º As referidas autorizações deverão, para efeito do despacho, ser utilizadas no prazo de 60 dias, a contar da data da sua emissão.
 
@@ -167,13 +242,13 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 § 3.º Os mencionados serviços ou entidades poderão renovar a validade de autorizações que não tenham sido utilizadas, desde que considerem procedentes os motivos apresentados.
 
-###### Art. 9.º Em realização do disposto no artigo 47.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), os importadores num território nacional de quaisquer mercadorias provenientes de outro território nacional são obrigados a efectuar, mediante a apresentação dos exemplares III e IV dos respectivos boletins de registo e no prazo de 90 dias, a contar da data da sua emissão, as correspondentes liquidações, por intermédio de instituições de crédito do território nacional em que as mesmas mercadorias forem importadas.
+Art. 9.º Em realização do disposto no artigo 47.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), os importadores num território nacional de quaisquer mercadorias provenientes de outro território nacional são obrigados a efectuar, mediante a apresentação dos exemplares III e IV dos respectivos boletins de registo e no prazo de 90 dias, a contar da data da sua emissão, as correspondentes liquidações, por intermédio de instituições de crédito do território nacional em que as mesmas mercadorias forem importadas.
 
 § 1.º A instituição de crédito à qual for solicitada a liquidação referida no presente artigo enviará à autoridade cambial do território em que as mercadorias forem importadas (a inspecção de crédito e seguros ou do comércio bancário de uma província ultramarina ou o Banco de Portugal, conforme o caso), dentro de quinze dias, a contar da data da respectiva utilização pelo importador, o exemplar III do correspondente boletim de registo, anotando nele os elementos essenciais da operação a realizar. A mesma instituição de crédito remeterá o exemplar IV à instituição de crédito do território nacional de exportação ou reexportação das mercadorias que deva efectuar a liquidação final da operação com o exportador ou reexportador. Esta instituição de crédito, por seu turno, enviará à autoridade cambial do respectivo território, também dentro de quinze dias, a contar da data do pagamento que efectuar, o mencionado exemplar IV do boletim de registo, depois de nele anotar os elementos essenciais da operação realizada.
 
 § 2.º Para liquidação da importação em prazo superior ao fixado no corpo do presente artigo, mas dentro de período não excedente a um ano, a contar da data da emissão dos boletins, deverão os interessados obter autorização especial e prévia, das autoridades cambiais dos dois territórios nacionais em causa (a inspecção de crédito e seguros ou do comércio bancário da província ou do Banco de Portugal). Se o período pretendido para realizar a liquidação exceder um ano, a contar da mencionada data, observar-se-ão as disposições aplicáveis às operações de importação e exportação de capitais privados entre os territórios nacionais.
 
-###### Art. 10.º Nos casos em que os importadores num território nacional de quaisquer mercadorias provenientes de outro território nacional desejarem proceder à liquidação total ou parcial das operações de importação antes da emissão dos respectivos boletins, deverão eles prestar à instituição de crédito que incumbirem da liquidação uma declaração de compromisso, em triplicado, de que, no prazo de 90 dias, a contar da data dessa declaração, lhe farão entrega dos exemplares III e IV dos boletins de registo. Esta instituição de crédito fará nos três exemplares da declaração de compromisso a anotação, numerada e datada, da operação que realizar, mencionando os elementos essenciais desta, e a declaração de compromisso assim anotada substituirá, para todos os efeitos, a autorização da liquidação pretendida.
+Art. 10.º Nos casos em que os importadores num território nacional de quaisquer mercadorias provenientes de outro território nacional desejarem proceder à liquidação total ou parcial das operações de importação antes da emissão dos respectivos boletins, deverão eles prestar à instituição de crédito que incumbirem da liquidação uma declaração de compromisso, em triplicado, de que, no prazo de 90 dias, a contar da data dessa declaração, lhe farão entrega dos exemplares III e IV dos boletins de registo. Esta instituição de crédito fará nos três exemplares da declaração de compromisso a anotação, numerada e datada, da operação que realizar, mencionando os elementos essenciais desta, e a declaração de compromisso assim anotada substituirá, para todos os efeitos, a autorização da liquidação pretendida.
 
 § 1.º A instituição de crédito incumbida da liquidação nos termos deste artigo entregará um dos exemplares ao importador, enviará, no próprio dia da realização daquela operação ou no dia útil imediato, outro exemplar à autoridade cambial do território de importação (a inspecção de crédito e seguros ou do comércio bancário da província ultramarina ou o Banco de Portugal, conforme o caso) e remeterá o terceiro exemplar à instituição de crédito que deva efectuar a liquidação final da operação com o exportador ou reexportador. Esta última instituição de crédito, por seu turno, enviará à autoridade cambial do respectivo território, também no próprio dia em que realizar a liquidação ou no dia útil imediato, o exemplar da declaração, depois de nele anotar os elementos essenciais da operação efectuada.
 
@@ -183,13 +258,13 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 § 4.º Quando a importação respeitar a mercadorias sujeitas a restrições quantitativas, nos termos do capítulo IV do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), ou às que venham a ser introduzidas temporàriamente por razões imperativas da balança de pagamentos do território em causa, as instituições de crédito não poderão incumbir-se da realização da liquidação sem que pelo importador lhes seja apresentado documento comprovativo da autorização prévia dessa importação, passado pela autoridade competente.
 
-###### Art. 11.º A liquidação de operações de importação, num território nacional, de quaisquer mercadorias provenientes de outro território nacional só poderá efectuar-se por forma diferente das estabelecidas nos precedentes artigos 9.º e 10.º, quando assim for solicitado pelo importador, pelo exportador ou pelo reexportador e o pedido merecer o acordo de ambas as autoridades cambiais dos territórios nacionais de importação e de exportação ou reexportação das respectivas mercadorias.
+Art. 11.º A liquidação de operações de importação, num território nacional, de quaisquer mercadorias provenientes de outro território nacional só poderá efectuar-se por forma diferente das estabelecidas nos precedentes artigos 9.º e 10.º, quando assim for solicitado pelo importador, pelo exportador ou pelo reexportador e o pedido merecer o acordo de ambas as autoridades cambiais dos territórios nacionais de importação e de exportação ou reexportação das respectivas mercadorias.
 
 ### CAPÍTULO II — Das operações de invisíveis correntes
 
 #### SECÇÃO I — Operações entre o continente ou ilhas adjacentes e o estrangeiro
 
-###### Art. 12.º As liquidações de operações de invisíveis correntes, que impliquem a realização de entregas ou de pagamentos a residentes no continente ou ilhas adjacentes por conta de residentes no estrangeiro, será obrigatòriamente efectuada por intermédio de instituições de crédito autorizadas a exercer o comércio de câmbios naqueles ou em quaisquer outros territórios nacionais.
+Art. 12.º As liquidações de operações de invisíveis correntes, que impliquem a realização de entregas ou de pagamentos a residentes no continente ou ilhas adjacentes por conta de residentes no estrangeiro, será obrigatòriamente efectuada por intermédio de instituições de crédito autorizadas a exercer o comércio de câmbios naqueles ou em quaisquer outros territórios nacionais.
 
 § 1.º Os interessados nas operações de invisíveis correntes abrangidas pelo presente artigo são obrigados a promover a efectivação das respectivas operações cambiais dentro do prazo de um ano, a contar da data em que tenham sido constituídas, as obrigações ou os direitos a que tais operações respeitem.
 
@@ -199,11 +274,11 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 § 4.º O disposto neste artigo é igualmente aplicável à liquidação de operações de invisíveis correntes que impliquem a realização de entregas ou de pagamentos a favor de residentes no estrangeiro por conta de residentes no continente ou ilhas adjacentes, excepto nos casos em que o Banco de Portugal permitir que tal liquidação se faça de modo diferente.
 
-###### Art. 13.º Para a realização das operações cambiais respeitantes a invisíveis correntes, serão exigidos os elementos de informação ou de prova necessários para verificação da natureza e valor das operações, para a identificação dos intervenientes e do interesse destes nas operações, pela qualidade com que nelas intervêm.
+Art. 13.º Para a realização das operações cambiais respeitantes a invisíveis correntes, serão exigidos os elementos de informação ou de prova necessários para verificação da natureza e valor das operações, para a identificação dos intervenientes e do interesse destes nas operações, pela qualidade com que nelas intervêm.
 
 #### SECÇÃO II — Operações entre as províncias ultramarinas e o estrangeiro
 
-###### Art. 14.º Às operações de invisíveis correntes entre as províncias ultramarinas e o estrangeiro será aplicável o estabelecido nos artigos 12.º e 13.º, podendo as correspondentes operações cambiais ser efectuadas indistintamente nas províncias ultramarinas ou no continente e ilhas adjacentes e competindo às inspecções de crédito e seguros ou do comércio bancário das províncias a concessão das autorizações referidas nos §§ 3.º e 4.º do citado artigo 12.º
+Art. 14.º Às operações de invisíveis correntes entre as províncias ultramarinas e o estrangeiro será aplicável o estabelecido nos artigos 12.º e 13.º, podendo as correspondentes operações cambiais ser efectuadas indistintamente nas províncias ultramarinas ou no continente e ilhas adjacentes e competindo às inspecções de crédito e seguros ou do comércio bancário das províncias a concessão das autorizações referidas nos §§ 3.º e 4.º do citado artigo 12.º
 
 § 1.º Relativamente à moeda em que devam ser feitas nas províncias ultramarinas as liquidações das operações referidas no presente artigo observar-se-ão as directivas monetárias aplicáveis à liquidação das operações referentes a mercadorias nas mesmas províncias.
 
@@ -211,7 +286,7 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 #### SECÇÃO III — Operações entre territórios nacionais
 
-###### Art. 15.º Os interessados em operações de invisíveis correntes entre os territórios nacionais são obrigados a efectuar as correspondentes liquidações por intermédio de instituições de crédito dos respectivos territórios.
+Art. 15.º Os interessados em operações de invisíveis correntes entre os territórios nacionais são obrigados a efectuar as correspondentes liquidações por intermédio de instituições de crédito dos respectivos territórios.
 
 § 1.º Os interessados nas operações de invisíveis correntes abrangidas pelo presente artigo são obrigados a promover a efectivação das correspondentes operações dentro do prazo de um ano, a contar da data em que tenham sido constituídos as obrigações ou os direito a que tais operações respeitem.
 
@@ -219,25 +294,25 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 § 3.º A liquidação das operações de invisíveis correntes só poderá efectuar-se por forma diferente da estabelecida no presente artigo quando assim for solicitado pelo interessado e o pedido mereça acordo de ambas as autoridades cambiais dos territórios nacionais em causa.
 
-###### Art. 16.º Para a realização das liquidações respeitantes às operações de invisíveis correntes mencionadas no artigo anterior serão exigidos os elementos de informação ou de prova necessários para verificação da natureza e valor das operações, para a identificação dos intervenientes e do interesse destes nas operações pela qualidade com que nelas intervêm.
+Art. 16.º Para a realização das liquidações respeitantes às operações de invisíveis correntes mencionadas no artigo anterior serão exigidos os elementos de informação ou de prova necessários para verificação da natureza e valor das operações, para a identificação dos intervenientes e do interesse destes nas operações pela qualidade com que nelas intervêm.
 
 #### SECÇÃO IV — Disposições comuns às diversas operações de invisíveis correntes
 
-###### Art. 17.º Serão publicadas no Diário do Governo ou neste e no Boletim Oficial das províncias ultramarinas, consoante o caso, as listas das operações de invisíveis correntes que estejam ou vierem a ser liberalizadas, quer entre o continente ou ilhas adjacentes e o estrangeiro, quer entre as províncias ultramarinas e o estrangeiro, quer entre os vários territórios nacionais.
+Art. 17.º Serão publicadas no Diário do Governo ou neste e no Boletim Oficial das províncias ultramarinas, consoante o caso, as listas das operações de invisíveis correntes que estejam ou vierem a ser liberalizadas, quer entre o continente ou ilhas adjacentes e o estrangeiro, quer entre as províncias ultramarinas e o estrangeiro, quer entre os vários territórios nacionais.
 
 § 1.º A publicação referida neste artigo dependerá de despacho do Ministro competente e, relativamente às operações interterritoriais, de despacho conjunto dos Ministros das Finanças e do Ultramar.
 
 § 2.º A Inspecção-Geral de Crédito e Seguros promoverá a publicação das listas de operações liberalizadas por efeito de convenções, tratados ou acordos internacionais.
 
-###### Art. 18.º Para os efeitos do disposto no presente capítulo, serão consideradas operações de invisíveis correntes as transacções e transferências indicadas no anexo I a este decreto-lei, que dele é parte integrante.
+Art. 18.º Para os efeitos do disposto no presente capítulo, serão consideradas operações de invisíveis correntes as transacções e transferências indicadas no anexo I a este decreto-lei, que dele é parte integrante.
 
 ### CAPÍTULO III — Das operações de capitais
 
 #### SECÇÃO I — Operações entre o continente ou ilhas adjacentes e o estrangeiro
 
-###### Art. 19.º As operações de importação e exportação de capitais privados entre o continente ou ilhas adjacentes e o estrangeiro continuarão sujeitas ao regime de normas a aprovar pelo Conselho de Ministros para os Assuntos Económicos, entendendo-se que se mantêm em vigor as que foram aprovadas pelo Conselho de Ministros para o Comércio Externo em 28 de Junho de 1960 e publicadas no Diário do Governo, 1.ª série, de 29 desse mês e ano, com as modificações introduzidas pelo presente decreto-lei.
+Art. 19.º As operações de importação e exportação de capitais privados entre o continente ou ilhas adjacentes e o estrangeiro continuarão sujeitas ao regime de normas a aprovar pelo Conselho de Ministros para os Assuntos Económicos, entendendo-se que se mantêm em vigor as que foram aprovadas pelo Conselho de Ministros para o Comércio Externo em 28 de Junho de 1960 e publicadas no Diário do Governo, 1.ª série, de 29 desse mês e ano, com as modificações introduzidas pelo presente decreto-lei.
 
-###### Art. 20.º Os prazos de validade dos boletins de autorização das operações referidas no artigo anterior não deverão, em regra, exceder 90 dias, a contar da emissão dos mesmos boletins.
+Art. 20.º Os prazos de validade dos boletins de autorização das operações referidas no artigo anterior não deverão, em regra, exceder 90 dias, a contar da emissão dos mesmos boletins.
 
 § 1.º Quando, em virtude das características e natureza das operações, a Inspecção-Geral de Crédito e Seguros o considerar justificável, poderão ser concedidos prazos de utilização mais largos.
 
@@ -247,7 +322,7 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 #### SECÇÃO II — Operações entre as províncias ultramarinas e o estrangeiro
 
-###### Art. 21.º As operações de importação e exportação de capitais privados entre as províncias ultramarinas e o estrangeiro ficam sujeitas a autorização especial e prévia da respectiva inspecção de crédito e seguros ou do comércio bancário, nos termos que constarem de diploma regulamentar, a publicar de acordo com o previsto no § 1.º do artigo 2.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), podendo as correspondentes operações cambiais ser efectuadas indistintamente nas províncias ultramarinas ou no continente e ilhas adjacentes, mas sempre com intervenção de instituições de crédito autorizadas a exercer o comércio de câmbios.
+Art. 21.º As operações de importação e exportação de capitais privados entre as províncias ultramarinas e o estrangeiro ficam sujeitas a autorização especial e prévia da respectiva inspecção de crédito e seguros ou do comércio bancário, nos termos que constarem de diploma regulamentar, a publicar de acordo com o previsto no § 1.º do artigo 2.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), podendo as correspondentes operações cambiais ser efectuadas indistintamente nas províncias ultramarinas ou no continente e ilhas adjacentes, mas sempre com intervenção de instituições de crédito autorizadas a exercer o comércio de câmbios.
 
 § 1.º Quando o valor das operações exceda 10000 contos, a autorização da inspecção de crédito e seguros ou do comércio bancário fica sujeita a homologação do governador da província e, excedendo 50000 contos, à homologação do Ministro do Ultramar.
 
@@ -257,7 +332,7 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 #### SECÇÃO III — Operações entre territórios nacionais
 
-###### Art. 22.º As operações de importação e exportação de capitais privados entre os territórios nacionais ficam sujeitas a autorização em ambos os territórios a que respeitarem, nos termos que constarem de diploma regulamentar, a publicar de acordo com o previsto pelo § 1.º do artigo 2.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), competindo a concessão das autorizações referidas, no continente e ilhas adjacentes, à Inspecção-Geral de Crédito e Seguros e, nas províncias ultramarinas, à respectiva inspecção de crédito e seguros ou do comércio bancário.
+Art. 22.º As operações de importação e exportação de capitais privados entre os territórios nacionais ficam sujeitas a autorização em ambos os territórios a que respeitarem, nos termos que constarem de diploma regulamentar, a publicar de acordo com o previsto pelo § 1.º do artigo 2.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), competindo a concessão das autorizações referidas, no continente e ilhas adjacentes, à Inspecção-Geral de Crédito e Seguros e, nas províncias ultramarinas, à respectiva inspecção de crédito e seguros ou do comércio bancário.
 
 § 1.º Quando o valor das operações exceder 50000 contos, a autorização dependerá de homologação do Ministro do Ultramar, quando se trate de operações entre duas províncias ultramarinas, e de homologação dos Ministros das Finanças e do Ultramar, quando as operações respeitem ao continente ou ilhas adjacentes e a uma província ultramarina.
 
@@ -269,7 +344,7 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 #### SECÇÃO IV — Disposições comuns às diversas operações de capitais
 
-###### Art. 23.º Serão publicadas no Diário do Governo ou neste e no Boletim Oficial das províncias ultramarinas, consoante o caso, as listas de liberalização das operações de importação e exportação de capitais privados, quer entre o continente ou ilhas adjacentes e o estrangeiro, quer entre as províncias ultramarinas e o estrangeiro, quer entre territórios nacionais.
+Art. 23.º Serão publicadas no Diário do Governo ou neste e no Boletim Oficial das províncias ultramarinas, consoante o caso, as listas de liberalização das operações de importação e exportação de capitais privados, quer entre o continente ou ilhas adjacentes e o estrangeiro, quer entre as províncias ultramarinas e o estrangeiro, quer entre territórios nacionais.
 
 § 1.º A publicação referida neste artigo dependerá de despacho do Ministro competente e, relativamente às operações interterritoriais, de despacho conjunto dos Ministros das Finanças e do Ultramar.
 
@@ -277,11 +352,11 @@ b) Os exemplares destinados conforme o caso, às inspecções de crédito e segu
 
 § 3.º A Inspecção-Geral de Crédito e Seguros e as inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas poderão estabelecer, por acordo, formas e meios processuais adequados à verificação do cumprimento das regras sobe e liberalização das operações de importação e exportação de capitais privados entre os territórios nacionais e sobre as respectivas liquidações.
 
-###### Art. 24.º Para efeito do disposto no presente capítulo, serão consideradas operações de capitais privados as relativas às operações indicadas no anexo II a este decreto-lei, que dele é parte integrante, quando sejam pessoas de direito privado e residentes em território nacional o importador e o exportador, se se tratar de operações exclusivamente interterritoriais, ou só o importador ou o exportador, se se tratar de operações entre um território nacional e o estrangeiro.
+Art. 24.º Para efeito do disposto no presente capítulo, serão consideradas operações de capitais privados as relativas às operações indicadas no anexo II a este decreto-lei, que dele é parte integrante, quando sejam pessoas de direito privado e residentes em território nacional o importador e o exportador, se se tratar de operações exclusivamente interterritoriais, ou só o importador ou o exportador, se se tratar de operações entre um território nacional e o estrangeiro.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 25.º Compete ao Ministro das Finanças:
+Art. 25.º Compete ao Ministro das Finanças:
 
 a) Propor ao Conselho de Ministros para os Assuntos Económicos as normas que, de conformidade com as obrigações internacionais assumidas, considerar convenientes para a disciplina das operações de invisíveis correntes e de capitais, entre o continente ou ilhas adjacentes e o estrangeiro, bem como, com o acordo do Ministro do Ultramar, propor ao mesmo Conselho as normas convenientes para a disciplina de idênticas operações entre as províncias ultramarinas e o estrangeiro ou entre diferentes territórios nacionais;
 
@@ -293,21 +368,21 @@ c) Definir, por despacho, os princípios reguladores das condições e termos da
 
 § 2.º Os princípios reguladores das operações cambiais referidos na alínea c) terão os ajustamentos que forem determinados por despacho do Ministro do Ultramar para a sua aplicação nas províncias ultramarinas.
 
-###### Art. 26.º Compete ao Ministro da Economia propor ao Conselho de Ministros para os Assuntos Económicos as normas que, de conformidade com as obrigações internacionais assumidas, considerar convenientes para a disciplina das operações de importação, exportação e reexportação de mercadorias entre o continente ou as ilhas adjacentes e o estrangeiro, competindo ao Ministro do Ultramar propor ao mesmo Conselho as normas convenientes para a disciplina de idênticas operações entre as províncias ultramarinas e o estrangeiro e, bem assim, em conjunto com o Ministro da Economia, propor aquelas que se refiram a operações entre os diversos territórios nacionais.
+Art. 26.º Compete ao Ministro da Economia propor ao Conselho de Ministros para os Assuntos Económicos as normas que, de conformidade com as obrigações internacionais assumidas, considerar convenientes para a disciplina das operações de importação, exportação e reexportação de mercadorias entre o continente ou as ilhas adjacentes e o estrangeiro, competindo ao Ministro do Ultramar propor ao mesmo Conselho as normas convenientes para a disciplina de idênticas operações entre as províncias ultramarinas e o estrangeiro e, bem assim, em conjunto com o Ministro da Economia, propor aquelas que se refiram a operações entre os diversos territórios nacionais.
 
 § único. Às normas referidas no presente artigo é aplicável o disposto no § 1.º do artigo anterior.
 
-###### Art. 27.º Compete ao Ministro do Ultramar tomar as providências relativas à execução, nas províncias ultramarinas, das deliberações do Conselho de Ministros para os Assuntos Económicos quanto a operações de invisíveis correntes e de capitais entre as ditas províncias e o estrangeiro ou entre diversos territórios nacionais.
+Art. 27.º Compete ao Ministro do Ultramar tomar as providências relativas à execução, nas províncias ultramarinas, das deliberações do Conselho de Ministros para os Assuntos Económicos quanto a operações de invisíveis correntes e de capitais entre as ditas províncias e o estrangeiro ou entre diversos territórios nacionais.
 
-###### Art. 28.º Para os fins consignados na alínea c) do artigo 25.º, o Banco de Portugal proporá ao Ministro das Finanças o que tiver por conveniente, cabendo-lhe igualmente transmitir, de acordo com o Governo e por delegação deste, às respectivas instituições de crédito as instruções julgadas necessárias para a boa execução dos princípios referidos na mesma alínea.
+Art. 28.º Para os fins consignados na alínea c) do artigo 25.º, o Banco de Portugal proporá ao Ministro das Finanças o que tiver por conveniente, cabendo-lhe igualmente transmitir, de acordo com o Governo e por delegação deste, às respectivas instituições de crédito as instruções julgadas necessárias para a boa execução dos princípios referidos na mesma alínea.
 
 § único. Relativamente às instituições de crédito das províncias ultramarinas, as instruções serão transmitidas por intermédio da respectiva inspecção de crédito e seguros ou do comércio bancário, e delas dará o Banco de Portugal imediato conhecimento à Direcção-Geral de Economia do Ministério do Ultramar.
 
-###### Art. 29.º A aplicação à província de Macau do disposto nos artigos 4.º a 6.º, 14.º e 21.º do presente decreto-lei fica dependente do que vier a ser especialmente estabelecido em diploma legal.
+Art. 29.º A aplicação à província de Macau do disposto nos artigos 4.º a 6.º, 14.º e 21.º do presente decreto-lei fica dependente do que vier a ser especialmente estabelecido em diploma legal.
 
-###### Art. 30.º Os documentos e actos necessários à execução deste decreto-lei, designadamente os pedidos de registo ou de autorização, os boletins de registo prévio, as autorizações, os boletins de registo posterior ao despacho aduaneiro e, bem assim, as declarações de compromisso, serão isentos de imposto do selo e de quaisquer emolumentos.
+Art. 30.º Os documentos e actos necessários à execução deste decreto-lei, designadamente os pedidos de registo ou de autorização, os boletins de registo prévio, as autorizações, os boletins de registo posterior ao despacho aduaneiro e, bem assim, as declarações de compromisso, serão isentos de imposto do selo e de quaisquer emolumentos.
 
-###### Art. 31.º As transgressões ao disposto no presente decreto-lei e às normas e deliberações do Conselho de Ministros para o Comércio Externo referidas nos artigos 1.º e 19.º, bem como às normas e aos princípios reguladores mencionados nas alíneas a) e c) e § 2.º do artigo 25.º e no artigo 26.º e, ainda, às instruções a que alude o artigo 28.º, serão punidas de conformidade com o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+Art. 31.º As transgressões ao disposto no presente decreto-lei e às normas e deliberações do Conselho de Ministros para o Comércio Externo referidas nos artigos 1.º e 19.º, bem como às normas e aos princípios reguladores mencionados nas alíneas a) e c) e § 2.º do artigo 25.º e no artigo 26.º e, ainda, às instruções a que alude o artigo 28.º, serão punidas de conformidade com o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
 O estabelecido nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) será igualmente aplicável às transgressões ao disposto nos diplomas previstos no § 1.º do artigo 2.º e no artigo 47.º e seu § único do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232).
 
@@ -317,15 +392,15 @@ O estabelecido nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://dia
 
 § 3.º Na aplicação ao ultramar dos trâmites processuais consignados nos parágrafos do artigo 97.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) serão feitas as modificações consequentes da diversidade de órgãos, instituições e serviços de publicidade, de instrução e de arrecadação de depósitos obrigatórios.
 
-###### Art. 32.º A Inspecção-Geral de Crédito e Seguros poderá proceder, no continente e ilhas adjacentes e de acordo com a legislação aplicável, a quaisquer diligências que lhe forem solicitadas pelas inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas, com vista à verificação de infracções puníveis nos termos do artigo anterior e praticadas nas mesmas províncias.
+Art. 32.º A Inspecção-Geral de Crédito e Seguros poderá proceder, no continente e ilhas adjacentes e de acordo com a legislação aplicável, a quaisquer diligências que lhe forem solicitadas pelas inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas, com vista à verificação de infracções puníveis nos termos do artigo anterior e praticadas nas mesmas províncias.
 
 Poderão, igualmente, as inspecções de crédito e seguros ou do comércio bancário das províncias, quando para tanto solicitadas pela Inspecção-Geral de Crédito e Seguros, proceder, nos territórios das respectivas províncias e de acordo com os preceitos legais reguladores da sua actividade, a diligências destinadas à verificação das infracções referidas, praticadas no continente e ilhas adjacentes.
 
-###### Art. 33.º O Banco de Portugal, para efeito da aplicação das sanções previstas no artigo 31.º, participará à Inspecção-Geral de Crédito e Seguros, ou às competentes inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas, as transgressões de que tiver conhecimento.
+Art. 33.º O Banco de Portugal, para efeito da aplicação das sanções previstas no artigo 31.º, participará à Inspecção-Geral de Crédito e Seguros, ou às competentes inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas, as transgressões de que tiver conhecimento.
 
-###### Art. 34.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1963, devendo, porém, os governadores das províncias ultramarinas proceder, se for caso disso, às designações referidas no artigo 4.º, logro que este diploma seja publicado no respectivo Boletim Oficial.
+Art. 34.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1963, devendo, porém, os governadores das províncias ultramarinas proceder, se for caso disso, às designações referidas no artigo 4.º, logro que este diploma seja publicado no respectivo Boletim Oficial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

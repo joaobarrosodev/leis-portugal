@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 59/1977, 2º Suplemento, Série I de 1977-03-11
   number: '59'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 478-(3) a 478-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05902/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-a-1977-166630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1345d3732867bb1f2a44f757d76c0cd1b94fcec65daf3a8334aaa3fd883aba96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f730b65f2c61c8cff5c323f2880a7c7dfc358db9ef15a24c4056f0fc7bf24fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Empresa Pública
+- Estatuto
+- Recrutamento de Pessoal
+- RTP
 relationships:
 - type: amended_by
   target: pt:dre:470872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446965:por
+  label: Prorrogada por cento e vinte dias, com efeitos a 11.03.1978, a vigência do presente diploma pelo DEC LEI.59/78.03.04.1978.PCM,
+    DR.IS [77] de 03.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-1978-446965
+  date: '1978-04-03'
+- type: amended_by
+  target: pt:dre:296865:por
+  label: "Prorrogada, até 31.12.1978, a vigência do presente diploma pelo DEC LEI.225/78.04.08.1978.PCM, DR.IS [178] de 04.08.1978\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-1978-296865
+  date: '1978-08-04'
+- type: amended_by
+  target: pt:dre:274064:por
+  label: "Prorrogada, até 30.06.1979, a vigência do presente diploma pelo DEC LEI.447/78.30.12.1978.MCS, DR.IS [299-4ºSupl]\
+    \ de 30.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/447-1978-274064
+  date: '1978-12-30'
+- type: amended_by
+  target: pt:dre:381357:por
+  label: "Prorrogada, até 31.12.1979, a vigência do presente diploma pelo DEC LEI.268/79.02.08.1979.MCS, DR.IS [177] de 02.08.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1979-381357
+  date: '1979-08-02'
+- type: amended_by
+  target: pt:dre:384850:por
+  label: "Prorrogada, até 5 de Abril de 1980, a vigência do presente diploma pelo DEC LEI.10-B/80.18.02.1980.PCM, DR.IS [41-Supl]\
+    \ de 18.02.1980, nos termos do seu art. 1º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-b-1980-384850
+  date: '1980-02-18'
+- type: cites
+  target: pt:dre:302485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558991:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139916:por
+  label: "Rectificado pela RECT.DD131.11.04.1977.PCM, DR.IS [84] de 11.04.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-139916
+  date: '1977-04-11'
+- type: repealed_by
+  target: pt:dre:470872:por
+  label: "Revogado pelo DEC LEI.321/80.22.08.1980.PCM, DR.IS [193] de 22.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1980-470872
+  date: '1980-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:22Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +171,21 @@ Sublinhe-se, finalmente, que o presente diploma fixa um regime de transição ne
 
 Assim, constatando a situação de crise no sector da televisão, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É revogado o Estatuto da Radiotelevisão Portuguesa, E. P., aprovado pelo [Decreto-Lei n.º 189/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1976-501469), de 13 de Março, com excepção dos conselhos de informação a que se refere o artigo 39.º da Constituição.
+Artigo 1.º - 1. É revogado o Estatuto da Radiotelevisão Portuguesa, E. P., aprovado pelo [Decreto-Lei n.º 189/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1976-501469), de 13 de Março, com excepção dos conselhos de informação a que se refere o artigo 39.º da Constituição.
 
 2. Ficam igualmente revogados o artigo 7.º do [Decreto-Lei n.º 674-D/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-d-1975-302485), de 2 de Dezembro, e os n.os 4.º e 5.º da [Portaria n.º 436/76](https://diariodarepublica.pt/dr/detalhe/portaria/436-1976-430469), de 21 de Julho.
 
 3. Até à entrada em vigor do novo estatuto a Radiotelevisão Portuguesa, E. P., adiante designada por RTP, reger-se-á pelas disposições constantes deste decreto-lei.
 
-###### Art. 2.º Em ordem à realização do seu objecto, a RTP pode praticar todos os actos de gestão privada e exercer quaisquer actividades comerciais, quer directamente, quer através da sua participação noutras empresas.
+Art. 2.º Em ordem à realização do seu objecto, a RTP pode praticar todos os actos de gestão privada e exercer quaisquer actividades comerciais, quer directamente, quer através da sua participação noutras empresas.
 
-###### Art. 3.º - 1. A RTP será administrada e dirigida por uma comissão administrativa constituída por cinco membros, um dos quais presidirá, e, como tal, terá voto de qualidade.
+Art. 3.º - 1. A RTP será administrada e dirigida por uma comissão administrativa constituída por cinco membros, um dos quais presidirá, e, como tal, terá voto de qualidade.
 
 2. Os membros da comissão administrativa são nomeados por resolução do Conselho de Ministros, sob proposta do Secretário de Estado da Comunicação Social.
 
 3. O mandato dos membros da comissão administrativa produz efeitos em relação a terceiros pela simples publicação da respectiva nomeação no Diário da República.
 
-###### Art. 4.º - 1. À comissão administrativa prevista no artigo anterior são conferidos todos os poderes consignados na lei para os conselhos de gerência das empresas públicas.
+Art. 4.º - 1. À comissão administrativa prevista no artigo anterior são conferidos todos os poderes consignados na lei para os conselhos de gerência das empresas públicas.
 
 2. É ainda da exclusiva competência da comissão administrativa, independentemente de quaisquer formalidades:
 
@@ -130,7 +195,7 @@ b) A reconversão de qualquer trabalhador com o acordo deste e independentemente
 
 3. A comissão administrativa poderá delegar, no todo ou em parte, a execução das suas deliberações num ou mais dos seus membros ou directores. Em caso de falta de deliberação, a função executiva competirá ao presidente.
 
-###### Art. 5.º - 1. Compete especialmente ao presidente da comissão administrativa:
+Art. 5.º - 1. Compete especialmente ao presidente da comissão administrativa:
 
 a) Presidir às reuniões da comissão administrativa;
 
@@ -144,7 +209,7 @@ c) Propor ao Secretário de Estado da Comunicação Social, sem prejuízo da com
 
 2. Os poderes próprios do presidente da comissão administrativa são indelegáveis, salvo nos casos de impedimento por período superior a uma semana, circunstância em que a delegação será obrigatoriamente feita num dos membros da comissão.
 
-###### Art. 6.º - 1. A comissão administrativa reunirá ordinariamente uma vez por semana e extraordinariamente sempre que seja convocada pelo presidente, por sua iniciativa ou a pedido de dois dos seus membros.
+Art. 6.º - 1. A comissão administrativa reunirá ordinariamente uma vez por semana e extraordinariamente sempre que seja convocada pelo presidente, por sua iniciativa ou a pedido de dois dos seus membros.
 
 2. As deliberações serão tomadas por maioria absoluta dos votos dos membros que a constituem.
 
@@ -154,11 +219,11 @@ c) Propor ao Secretário de Estado da Comunicação Social, sem prejuízo da com
 
 5. os actos e documentos de mero expediente podem ser assinados apenas por um dos membros da comissão administrativa ou por directores de serviço devidamente autorizados.
 
-###### Art. 7.º - 1. Das deliberações definitivas da comissão administrativa, bem como dos actos do seu presidente praticados no uso da competência própria, cabe recurso para o Secretário de Estado da Comunicação Social, e dos actos deste, para o Supremo Tribunal Administrativo, nos termos gerais de direito.
+Art. 7.º - 1. Das deliberações definitivas da comissão administrativa, bem como dos actos do seu presidente praticados no uso da competência própria, cabe recurso para o Secretário de Estado da Comunicação Social, e dos actos deste, para o Supremo Tribunal Administrativo, nos termos gerais de direito.
 
 2. Têm legitimidade para interpor recurso os que nisso tiverem interesse, nos termos gerais, além de qualquer dos membros do órgão recorrido que não tenha votado a deliberação.
 
-###### Art. 8.º - 1. Ressalvadas as prescrições da Lei de Televisão, compete à RTP, e só a esta, decidir o que deve ou não ser incluído na sua programação.
+Art. 8.º - 1. Ressalvadas as prescrições da Lei de Televisão, compete à RTP, e só a esta, decidir o que deve ou não ser incluído na sua programação.
 
 2. Exceptuam-se as mensagens, notas, comunicados ou avisos cuja difusão seja solicitada directamente pelo Presidente da República, pelo Conselho da Revolução, pelo Governo, por qualquer dos Ministros, pelo Presidente da Assembleia da República, pelo Provedor de Justiça ou ainda através do Ministério da Comunicação Social, os quais serão obrigatoriamente transmitidos com o devido relevo e a máxima urgência. Tratando-se de notas oficiosas, a sua transmissão integral é obrigatória, só em casos excepcionais podendo, no entanto, o respectivo texto exceder quinhentas palavras.
 
@@ -166,25 +231,25 @@ c) Propor ao Secretário de Estado da Comunicação Social, sem prejuízo da com
 
 4. O Governo, através da Secretaria de Estado da Comunicação Social, poderá utilizar até uma hora por semana de tempo de antena para emissão de reportagens filmadas ou outros filmes de interesse para a sua acção governativa.
 
-###### Art. 9.º - 1. Para a prossecução dos seus fins, a RTP tem o direito de, em conformidade com as leis e regulamentos em vigor, ocupar os terrenos do domínio público e privado do Estado ou outras pessoas colectivas de direito público, com vista à montagem das linhas de alimentação de energia e instalações indispensáveis à prestação do serviço a seu cargo. A RTP promoverá de sua conta nessas linhas ou instalações as obras que pelas entidades competentes foram julgadas necessárias por motivos de interesse ou de segurança pública.
+Art. 9.º - 1. Para a prossecução dos seus fins, a RTP tem o direito de, em conformidade com as leis e regulamentos em vigor, ocupar os terrenos do domínio público e privado do Estado ou outras pessoas colectivas de direito público, com vista à montagem das linhas de alimentação de energia e instalações indispensáveis à prestação do serviço a seu cargo. A RTP promoverá de sua conta nessas linhas ou instalações as obras que pelas entidades competentes foram julgadas necessárias por motivos de interesse ou de segurança pública.
 
 2. A RTP disporá para o desempenho das suas atribuições das facilidades e prerrogativas que a lei concede aos demais organismos oficiais de radiodifusão, designadamente do direito de acesso e livre trânsito de agentes e viaturas em quaisquer lugares públicos e da faculdade de expropriação de imóveis necessários para as suas instalações.
 
 3. A RTP gozará de protecção de servidão para os seus centros radioeléctricos, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 10.º - 1. Ao executar as tarefas de que foram incumbidos, os trabalhadores da RTP devem pôr a sua iniciativa e creatividade ao serviço dos fins superiores do Estado democrático e dos objectivos da empresa, com independência, rigor e objectividade, e abstendo-se de todo o partidarismo.
+Art. 10.º - 1. Ao executar as tarefas de que foram incumbidos, os trabalhadores da RTP devem pôr a sua iniciativa e creatividade ao serviço dos fins superiores do Estado democrático e dos objectivos da empresa, com independência, rigor e objectividade, e abstendo-se de todo o partidarismo.
 
 2. São nomeadamente vedadas aos trabalhadores da RTP quaisquer formas de publicidade oculta ou indirecta e inserção de inscrições ou imagens subliminares.
 
 3. Constituirá desobediência, para efeitos da alínea a) do n.º 2 do artigo 10.º do Decreto-Lei n.º 372- A/75, de 16 de Julho, na formulação que lhe foi dada pelo [Decreto-Lei n.º 841-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/841-c-1976-558991), de 7 de Dezembro, a violação intencional do disposto nos números antecedentes.
 
-###### Art. 11.º - 1. A RTP promoverá e assegurará a formação profissional dos seus trabalhadores, nomeadamente através da frequência de cursos ministrados por escolas ou organizações nacionais ou internacionais ou por empresas estrangeiras de televisão.
+Art. 11.º - 1. A RTP promoverá e assegurará a formação profissional dos seus trabalhadores, nomeadamente através da frequência de cursos ministrados por escolas ou organizações nacionais ou internacionais ou por empresas estrangeiras de televisão.
 
 2. A comissão administrativa poderá determinar a obrigatoriedade da frequência de seminários, cursos ou estágios no País ou no estrangeiro.
 
-###### Art. 12.º As relações entre a RTP e os trabalhadores ao seu serviço reger-se-ão pelas leis do trabalho e pelo disposto neste diploma, sendo-lhes designadamente aplicável o regime jurídico do contrato de trabalho e da duração do mesmo, com as adaptações que venham a ser feitas por decreto.
+Art. 12.º As relações entre a RTP e os trabalhadores ao seu serviço reger-se-ão pelas leis do trabalho e pelo disposto neste diploma, sendo-lhes designadamente aplicável o regime jurídico do contrato de trabalho e da duração do mesmo, com as adaptações que venham a ser feitas por decreto.
 
-###### Art. 13.º - 1. Podem exercer funções na RTP, em comissão de serviço, funcionários do Estado, dos institutos públicos e das autarquias locais, bem como trabalhadores de outras empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da comissão como serviço prestado nesse quadro.
+Art. 13.º - 1. Podem exercer funções na RTP, em comissão de serviço, funcionários do Estado, dos institutos públicos e das autarquias locais, bem como trabalhadores de outras empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da comissão como serviço prestado nesse quadro.
 
 2. Os trabalhadores da RTP, devidamente autorizados pela comissão administrativa, podem exercer funções no Estado, institutos públicos, autarquias locais ou outras empresas públicas, mantendo todos os direitos inerentes ao seu estatuto profissional na RTP e considerando-se todo o período da comissão como serviço prestado nesta empresa.
 
@@ -198,28 +263,28 @@ c) Propor ao Secretário de Estado da Comunicação Social, sem prejuízo da com
 
 7. Os membros da comissão administrativa terão os mesmos direitos e deveres dos trabalhadores da empresa.
 
-###### Art. 14.º Para efeito da intervenção do Governo e para todos os demais efeitos, o Ministro da Tutela é o Secretário de Estado da Comunicação Social.
+Art. 14.º Para efeito da intervenção do Governo e para todos os demais efeitos, o Ministro da Tutela é o Secretário de Estado da Comunicação Social.
 
-###### Art. 15.º Compete ao Secretário de Estado da Comunicação Social:
+Art. 15.º Compete ao Secretário de Estado da Comunicação Social:
 
 a) Regulamentar por portaria os actos de execução do presente diploma;
 
 b) Esclarecer por despacho as dúvidas surgidas na sua interpretação.
 
-###### Art. 16.º Na parte não expressamente regulada neste decreto-lei, ou em que não colidam com o que nele se prevê, serão supletivamente aplicáveis, por ordem de prioridade:
+Art. 16.º Na parte não expressamente regulada neste decreto-lei, ou em que não colidam com o que nele se prevê, serão supletivamente aplicáveis, por ordem de prioridade:
 
 a) As normas que regem a generalidade das empresas públicas;
 
 b) As normas de direito privado, designadamente as reguladoras das sociedades comerciais em forma de sociedade anónima de responsabilidade limitada.
 
-###### Art. 17.º Fica suspensa a aplicabilidade à RTP de todas as disposições que contrariem o atrás preceituado.
+Art. 17.º Fica suspensa a aplicabilidade à RTP de todas as disposições que contrariem o atrás preceituado.
 
-###### Art. 18.º O presente diploma entra em vigor na data da sua publicação e vigorará pelo prazo máximo de um ano.
+Art. 18.º O presente diploma entra em vigor na data da sua publicação e vigorará pelo prazo máximo de um ano.
 
 Visto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros - Manuel Alegre de Melo Duarte.
 
-**Promulgado em 10 de Março de 1977.**
+Promulgado em 10 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

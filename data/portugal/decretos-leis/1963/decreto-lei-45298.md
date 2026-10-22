@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45298-1963-687389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d48dcd46937531e5501717550df9dbad3ea51bbd6c772bf923b954d28faf1cdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d8f81d19361c1f5c6c184b1c303e3cc29928ca069b511259f484084207a42cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Neurocirurgia
+- Cirurgia
+- Cuidados Médicos
+- Estabelecimento Hospitalar
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:142351:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:40Z'
   warnings: []
   errors: []
 ---
@@ -108,24 +125,24 @@ Na verdade, o que parece importante é a adopção de um regime que obedeça a d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os cuidados médicos de neurocirurgia e de cirurgia cardiovascular podem ser prestados nos serviços próprios dos hospitais ou em centros a eles ligados.
+Artigo 1.º Os cuidados médicos de neurocirurgia e de cirurgia cardiovascular podem ser prestados nos serviços próprios dos hospitais ou em centros a eles ligados.
 
-###### Art. 2.º Os serviços e centros referidos no artigo anterior têm autonomia técnica. Os centros poderão ter a autonomia administrativa que for julgada conveniente, quando funcionarem junto de hospitais especializados em ramo de medicina distinto daquele a que o centro se dedica ou em hospitais pertencentes a instituições particulares de assistência.
+Art. 2.º Os serviços e centros referidos no artigo anterior têm autonomia técnica. Os centros poderão ter a autonomia administrativa que for julgada conveniente, quando funcionarem junto de hospitais especializados em ramo de medicina distinto daquele a que o centro se dedica ou em hospitais pertencentes a instituições particulares de assistência.
 
-###### Art. 3.º A criação dos centros de neurocirurgia ou cirurgia cardiovascular constará de portaria do Ministro da Saúde e Assistência, subscrita também pelo Ministro das Finanças quando lhes for concedida autonomia administrativa.
+Art. 3.º A criação dos centros de neurocirurgia ou cirurgia cardiovascular constará de portaria do Ministro da Saúde e Assistência, subscrita também pelo Ministro das Finanças quando lhes for concedida autonomia administrativa.
 
-###### Art. 4.º Os centros com autonomia administrativa podem celebrar acordos de cooperação com hospitais ou outras entidades, com vista à utilização de instalações e aproveitamento dos recursos materiais e meios pessoais neles existentes.
+Art. 4.º Os centros com autonomia administrativa podem celebrar acordos de cooperação com hospitais ou outras entidades, com vista à utilização de instalações e aproveitamento dos recursos materiais e meios pessoais neles existentes.
 
 § único. Os acordos celebrados nos termos deste artigo carecem de homologação do Ministro da Saúde e Assistência.
 
-###### Art. 5.º Os centros de neurocirurgia e de cirurgia cardiovascular a que for concedida autonomia administrativa serão considerados organismos oficiais especiais de saúde e assistência em conformidade com o disposto nos artigos 86.º e seguintes do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, devendo a sua organização e condições de funcionamento constar de regulamento a aprovar por portaria do Ministro da Saúde e Assistência.
+Art. 5.º Os centros de neurocirurgia e de cirurgia cardiovascular a que for concedida autonomia administrativa serão considerados organismos oficiais especiais de saúde e assistência em conformidade com o disposto nos artigos 86.º e seguintes do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, devendo a sua organização e condições de funcionamento constar de regulamento a aprovar por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 6.º Os serviços e centros hospitalares de neurocirurgia e cirurgia cardiovascular desempenharão funções de serviço central não só em relação aos hospitais onde funcionem, mas também para a população da respectiva zona hospitalar, competindo às centrais de orientação de doentes a articulação das suas actividades com a dos restantes hospitais da zona.
+Art. 6.º Os serviços e centros hospitalares de neurocirurgia e cirurgia cardiovascular desempenharão funções de serviço central não só em relação aos hospitais onde funcionem, mas também para a população da respectiva zona hospitalar, competindo às centrais de orientação de doentes a articulação das suas actividades com a dos restantes hospitais da zona.
 
 § único. A responsabilidade pelos encargos da assistência prestada por estes serviços e centros será atribuída nos termos do [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954.
 
-###### Art. 7.º Aos serviços e centros referidos neste diploma é aplicável o regime de instalação previsto nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+Art. 7.º Aos serviços e centros referidos neste diploma é aplicável o regime de instalação previsto nos artigos 7.º, 8.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

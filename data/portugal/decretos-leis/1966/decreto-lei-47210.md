@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/09/22100/15151516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47210-1966-480172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d796030932598b30242b6f0fa083bd5f6919ef7e25cc5916fedf94a0afc30d4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a37693324d3a9a9380ddb3bd159797684a88cd32e798c4017e726c8164b8a7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Autonomia Administrativa
+- Autonomia Financeira
+- Criação de Serviços
+- Definição de Competências
+- Direção
+- Gestão Financeira
+- Ministério da Justiça
+- Proteção Social
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:280923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280923:por
+  label: "Extinto, a partir de 01.02.2011, o subsistema de saúde da Justiça, criado no presente diploma, pelo DEC LEI.11/2011.21.01.2011.MJ,\
+    \ DR.IS [15] de 21.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2011-280923
+  date: '2011-01-21'
+- type: cites
+  target: pt:dre:232333:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:163641:por
+  label: "Revogado pelo DEC LEI.129/2001.2001.04.18.MJ DR.IS-A [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2001-163641
+  date: '2001-04-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:27Z'
   warnings: []
   errors: []
 ---
@@ -88,32 +113,32 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2. do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado o Serviço Social do Ministério da Justiça, o qual tem por fim desenvolver os laços de solidariedade entre os funcionários do Ministério e seus familiares, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
+Artigo 1.º - 1. É criado o Serviço Social do Ministério da Justiça, o qual tem por fim desenvolver os laços de solidariedade entre os funcionários do Ministério e seus familiares, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
 
 2. A realização dos fins próprios do Serviço Social pode fazer-se através dos diversos meios previstos no regulamento que definir as suas condições de funcionamento, devendo estimular-se especialmente a criação de instituições adequadas de assistência e previdência.
 
-###### Art. 2.º O Serviço Social do Ministério da Justiça é dotado de personalidade jurídica, goza de autonomia administrativa e financeira, está isento de custas e selos em todos os processos em que for parte ou interessado e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficia de todas as facilidades conferidas por lei às instituições oficiais de assistência.
+Art. 2.º O Serviço Social do Ministério da Justiça é dotado de personalidade jurídica, goza de autonomia administrativa e financeira, está isento de custas e selos em todos os processos em que for parte ou interessado e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficia de todas as facilidades conferidas por lei às instituições oficiais de assistência.
 
-###### Art. 3.º - 1. À direcção, constituída pelo secretário-geral do Ministério da Justiça, que será o presidente, pelos restantes directores-gerais e pelo chefe da Repartição Administrativa dos Cofres, compete estudar todos os problemas do Serviço Social, fiscalizar e impulsionar os organismos dele dependentes, promover a aplicação das receitas e a realização das despesas e prestar contas pela forma fixada para o Cofre Geral dos Tribunais.
+Art. 3.º - 1. À direcção, constituída pelo secretário-geral do Ministério da Justiça, que será o presidente, pelos restantes directores-gerais e pelo chefe da Repartição Administrativa dos Cofres, compete estudar todos os problemas do Serviço Social, fiscalizar e impulsionar os organismos dele dependentes, promover a aplicação das receitas e a realização das despesas e prestar contas pela forma fixada para o Cofre Geral dos Tribunais.
 
 2. À direcção poderão ser agregados um ou mais vogais, livremente designados pelo Ministro da Justiça por períodos renováveis de dois anos.
 
-###### Art. 4.º O Serviço Social pode ser subsidiado na prossecução dos seus fins pelo Cofre Geral dos Tribunais e o seu expediente corre pela Repartição Administrativa do Cofres.
+Art. 4.º O Serviço Social pode ser subsidiado na prossecução dos seus fins pelo Cofre Geral dos Tribunais e o seu expediente corre pela Repartição Administrativa do Cofres.
 
-###### Art. 5.º As receitas do Serviço Social serão obtidas por meio de quotização dos interessados, subsídios, comparticipações e doações ou legados de quaisquer entidades públicas ou particulares.
+Art. 5.º As receitas do Serviço Social serão obtidas por meio de quotização dos interessados, subsídios, comparticipações e doações ou legados de quaisquer entidades públicas ou particulares.
 
-###### Art. 6.º Dos benefícios do Serviço Social são imediatamente excluídos todos os funcionários exonerados, demitidos ou colocados na situação de licença ilimitada, bem como os respectivos familiares.
+Art. 6.º Dos benefícios do Serviço Social são imediatamente excluídos todos os funcionários exonerados, demitidos ou colocados na situação de licença ilimitada, bem como os respectivos familiares.
 
-###### Art. 7.º Além do cônjuge não separado de pessoas e bens, consideram-se familiares do funcionário:
+Art. 7.º Além do cônjuge não separado de pessoas e bens, consideram-se familiares do funcionário:
 
 a) Os descendentes, ascendentes ou colaterais até ao 3.º grau, seja do funcionário, seja do seu cônjuge, que com aquele vivam em economia conjunta;
 
 b) Os menores de que ele ou o seu cônjuge sejam tutores ou que lhes tenham sido confiados por decisão judicial.
 
-###### Art. 8.º - 1. O Ministro da Justiça pode, quando o interesse dos serviços o exija, alterar por simples portaria o quadro da Repartição Administrativa dos Cofres.
+Art. 8.º - 1. O Ministro da Justiça pode, quando o interesse dos serviços o exija, alterar por simples portaria o quadro da Repartição Administrativa dos Cofres.
 
 2. É aplicável a esta Repartição o disposto no artigo 5.º do [Decreto-Lei n.º 40737](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40737-1956-232333), de 24 de Agosto de 1956.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

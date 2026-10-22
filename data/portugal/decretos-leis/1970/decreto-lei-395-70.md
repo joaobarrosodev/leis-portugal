@@ -48,40 +48,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1970-139409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 539677348b01e73b9ff98d61145593be810d31f48642715348d87164907f25cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ea468bc98be7f4fb34534297f100d6447f89c82456bd12d0ec896f13930616a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Definição de Competências
+- Depósito Bancário
+- Instituição de Crédito
+- Instituição Financeira
+- Ministro das Finanças
+- Operações de Tesouraria
+- Publicitação
+- Sociedade Mediadora
+- Sociedade Parabancária
+- TAXA de JURO
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:355334:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355334:por
+  label: "Revogado o art. 1º pelo DEC LEI.771/75.31.12.1975.MF, DG.IS [300-6ºSupl] de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/771-1975-355334
+  date: '1975-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:45Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +138,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro das Finanças poderá autorizar, por portaria, as instituições de crédito a substituírem-se, total ou parcialmente, aos depositantes no pagamento dos impostos por estes devidos com relação aos juros dos respectivos depósitos.
+Artigo 1.º - 1. O Ministro das Finanças poderá autorizar, por portaria, as instituições de crédito a substituírem-se, total ou parcialmente, aos depositantes no pagamento dos impostos por estes devidos com relação aos juros dos respectivos depósitos.
 
 2. A autorização terá lugar quando o aconselharem as circunstâncias dos mercados do dinheiro e os seus termos poderão ser modificados a todo o tempo.
 
-###### Art. 2.º - 1. As instituições de crédito, as entidades parabancárias e as entidades que exercem a mediação nos termos do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, são obrigadas a afixar nos seus estabelecimentos, por forma bem visível, tabelas indicativas das taxas máximas de juro legais respeitantes às operações que estão autorizadas a praticar, ou nas quais podem intervir.
+Art. 2.º - 1. As instituições de crédito, as entidades parabancárias e as entidades que exercem a mediação nos termos do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, são obrigadas a afixar nos seus estabelecimentos, por forma bem visível, tabelas indicativas das taxas máximas de juro legais respeitantes às operações que estão autorizadas a praticar, ou nas quais podem intervir.
 
 2. A obrigatoriedade de afixação referida no número anterior é extensiva aos valores máximos dos prémios e comissões que tenham sido estabelecidos nos termos legais.
 
-###### Art. 3.º A falta de cumprimento do disposto no artigo 2.º e ainda a inexactidão de quaisquer elementos constantes das tabelas serão punidos nos termos dos artigos 89.º e seguintes do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966.
+Art. 3.º A falta de cumprimento do disposto no artigo 2.º e ainda a inexactidão de quaisquer elementos constantes das tabelas serão punidos nos termos dos artigos 89.º e seguintes do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 12 de Agosto de 1970.**
+Promulgado em 12 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

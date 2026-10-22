@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14000/08410842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1975-337061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 825504045352f7e8001a1a7470a2ef059ab38106d8bea22a4a3ef8d543329730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e817678ae34cdf6b75b48ee7cbcab371febbebde7c35fe195a9615d4e676c2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Companhia Carris de Ferro de Lisboa
+- Contrato de Concessão
+- Lisboa
+- Lisbon Electric Tramways
+- Prédio Urbano
+- Transferência Patrimonial
+- Transporte de Passageiros
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:195784:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:61725765:por
+  label: Revogado, sem prejuízo da manutenção da concessão atribuída à Carris, S. A., o Dec Lei 688/73, de 21-dez, na redação
+    do presente diploma, e Dec Lei 485/88, de 30 dez, pelo(a) Decreto-Lei n.º 174/2014 - Diário da República n.º 236/2014,
+    Série I de 2014-12-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2014-61725765
+  date: '2014-12-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:36Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +119,9 @@ Tendo a Câmara Municipal de Lisboa procedido a negociações com a Lisbon Elect
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Câmara Municipal de Lisboa a substituir algumas das disposições do contrato que, em consequência do [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro, celebrou com a Companhia Carris de Ferro de Lisboa, S. A. R. L., e com a Lisbon Electric Tramways, Ltd., por forma a ajustá-las às bases constantes do artigo seguinte.
+Artigo 1.º É autorizada a Câmara Municipal de Lisboa a substituir algumas das disposições do contrato que, em consequência do [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro, celebrou com a Companhia Carris de Ferro de Lisboa, S. A. R. L., e com a Lisbon Electric Tramways, Ltd., por forma a ajustá-las às bases constantes do artigo seguinte.
 
-###### Art. 2.º - 1. São mantidas sem alterações as bases I, II, VI, VII, VIII, IX e X a que se refere o artigo 1.º do [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro.
+Art. 2.º - 1. São mantidas sem alterações as bases I, II, VI, VII, VIII, IX e X a que se refere o artigo 1.º do [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro.
 
 2. As bases III, IV e V a que se refere o preceito citado no número anterior passam a ser do teor seguinte:
 
@@ -139,12 +165,12 @@ BASE V
 
 11 a 15. (Mantém-se o texto actual.)
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 11 de Junho de 1975.**
+Promulgado em 11 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

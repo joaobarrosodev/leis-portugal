@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1973-421451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4464fb95222a77f156f728a7bd6c59f9f1b1188a041ca4657a8261074695143b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66d2e35d6466a7096b028b87b060b0fcca26c07c83f6b68f1506e038e5785958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Funcionário Público
+- Pessoal Dirigente
+- Pessoal Técnico
+- Recrutamento de Pessoal
+- Secretariado Técnico da Presidência do Conselho
+relationships:
+- type: cites
+  target: pt:dre:477630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675638:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:41Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +108,7 @@ de 17 de Julho
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Em conformidade com o artigo 5.º do [Decreto-Lei n.º 147/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1973-675638), de 5 de Abril, os lugares de técnico especialista, a que se refere o artigo 3.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, serão providos mediante concurso documental entre os candidatos que hajam alcançado um alto grau de preparação especializada e de experiência nos seguintes domínios:
+Artigo 1.º - 1. Em conformidade com o artigo 5.º do [Decreto-Lei n.º 147/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1973-675638), de 5 de Abril, os lugares de técnico especialista, a que se refere o artigo 3.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, serão providos mediante concurso documental entre os candidatos que hajam alcançado um alto grau de preparação especializada e de experiência nos seguintes domínios:
 
 a) Macroeconomia e econometria;
 
@@ -105,14 +126,14 @@ e) Tratamento de informação e documentação económicas.
 
 4. O júri será constituído pelas individualidades designadas pelo Presidente do Conselho, que aprovará, por portaria, o regulamento dos concursos.
 
-###### Art. 2.º Os membros dos júris de concursos para técnicos especialistas terão direito à remuneração que for fixada pelo Ministro da pasta, com o acordo do Ministro das Finanças.
+Art. 2.º Os membros dos júris de concursos para técnicos especialistas terão direito à remuneração que for fixada pelo Ministro da pasta, com o acordo do Ministro das Finanças.
 
-###### Art. 3.º O lugar de chefe dos serviços administrativos, a que se refere o artigo 2.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, com a nova redacção dada pelo artigo 1.º do [Decreto n.º 47321](https://diariodarepublica.pt/dr/detalhe/decreto/47321-1966-477630), de 21 de Novembro de 1966, será provido, por escolha do Presidente do Conselho, entre indivíduos habilitados com curso superior adequado ou chefes de secção do quadro único, criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, com mais de cinco anos de bom e efectivo serviço nessa categoria.
+Art. 3.º O lugar de chefe dos serviços administrativos, a que se refere o artigo 2.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, com a nova redacção dada pelo artigo 1.º do [Decreto n.º 47321](https://diariodarepublica.pt/dr/detalhe/decreto/47321-1966-477630), de 21 de Novembro de 1966, será provido, por escolha do Presidente do Conselho, entre indivíduos habilitados com curso superior adequado ou chefes de secção do quadro único, criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, com mais de cinco anos de bom e efectivo serviço nessa categoria.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Mota Pereira de Campos.
 
-**Promulgado em 11 de Julho de 1973.**
+Promulgado em 11 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

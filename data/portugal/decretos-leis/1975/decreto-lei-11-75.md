@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/01200/00420042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1975-158924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3e4c5d290b2cd827efef2b14e5399e376653e6cf1183d625bd8b73783690d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddca3e1d56a081526bf51b5ba75bf7c01f5c70860d0fc4b47257f1cd83301ab6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Instrução Militar
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:17Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +111,11 @@ Tendo em conta que é possível solucionar em parte os problemas daí resultante
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sempre que não seja possível prover o Regimento de Caçadores Pára-Quedistas com instrutores militares devidamente especializados em ginástica, pugilismo, judo e luta, título excepcional poderão ser contratados pela Força Aérea, mediante proposta fundamentada do Comando do Regimento de Caçadores Pára-Quedistas, instrutores civis diplomados e ou de reconhecida competência e comprovada idoneidade, que terão a designação de instrutores eventuais.
+Artigo 1.º Sempre que não seja possível prover o Regimento de Caçadores Pára-Quedistas com instrutores militares devidamente especializados em ginástica, pugilismo, judo e luta, título excepcional poderão ser contratados pela Força Aérea, mediante proposta fundamentada do Comando do Regimento de Caçadores Pára-Quedistas, instrutores civis diplomados e ou de reconhecida competência e comprovada idoneidade, que terão a designação de instrutores eventuais.
 
-###### Art. 2.º Para efeito de vencimento e de número de horas de instrução semanais a que são obrigados, os instrutores civis eventuais de ginástica, pugilismo, judo e luta são equiparados aos professores de Educação Física sem diuturnidade do Instituto Nacional de Educação Física, e inscritos no Orçamento Geral do Estado na categoria correspondente à letra J do artigo 1.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
+Art. 2.º Para efeito de vencimento e de número de horas de instrução semanais a que são obrigados, os instrutores civis eventuais de ginástica, pugilismo, judo e luta são equiparados aos professores de Educação Física sem diuturnidade do Instituto Nacional de Educação Física, e inscritos no Orçamento Geral do Estado na categoria correspondente à letra J do artigo 1.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto.
 
-###### Art. 3.º O número máximo de instrutores é:
+Art. 3.º O número máximo de instrutores é:
 
 a) Um instrutor de ginástica;
 
@@ -109,8 +125,8 @@ c) Dois instrutores de judo e luta.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias - Victor Manuel Rodrigues Alves - José da Silva Lopes.
 
-**Promulgado em 30 de Dezembro de 1974.**
+Promulgado em 30 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

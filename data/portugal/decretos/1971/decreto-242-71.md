@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/242-1971-643935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bf282c39f2d5a282d849f13212165c27b55271d7022675474829a54306903fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51b3f46beeab183918b04d37f659c49cddbf54fb2063f9cdb1172add466a8847
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:466461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478067:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:43Z'
   warnings: []
   errors: []
 ---
@@ -96,28 +108,28 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Passam a ser suportadas pelas verbas de «Pessoal aguardando aposentação ou reforma», do capítulo 3.º da tabela da despesa ordinária dos orçamentos gerais das províncias ultramarinas, as pensões provisórias dos agentes dos serviços públicos das mesmas províncias, logo que desligados do serviço para efeitos de aposentação.
+Artigo 1.º - 1. Passam a ser suportadas pelas verbas de «Pessoal aguardando aposentação ou reforma», do capítulo 3.º da tabela da despesa ordinária dos orçamentos gerais das províncias ultramarinas, as pensões provisórias dos agentes dos serviços públicos das mesmas províncias, logo que desligados do serviço para efeitos de aposentação.
 
 2. É aplicável às pensões provisórias de aposentação do pessoal dos serviços autónomos das províncias ultramarinas o disposto no artigo 2.º do [Decreto n.º 24182](https://diariodarepublica.pt/dr/detalhe/decreto/24182-1934-466461), de 17 de Julho de 1934.
 
 3. Ficam os governadores provinciais autorizados a prover as dotações do capítulo 3.º da tabela de despesa ordinária com as disponibilidades necessárias para suportarem os encargos com as pensões dos funcionários aposentados e dos desligados do serviço para efeitos de aposentação.
 
-###### Art. 2.º - 1. A informação de cabimento de verba respeitante aos despachos ou diplomas de aposentação ou desligação do serviço para efeitos de aposentação, quando da competência do Ministro do Ultramar, será dada pela Repartição de Contabilidade da Direcção-Geral de Fazenda, mediante elementos fornecidos pelos serviços de Fazenda e contabilidade das províncias ultramarinas.
+Art. 2.º - 1. A informação de cabimento de verba respeitante aos despachos ou diplomas de aposentação ou desligação do serviço para efeitos de aposentação, quando da competência do Ministro do Ultramar, será dada pela Repartição de Contabilidade da Direcção-Geral de Fazenda, mediante elementos fornecidos pelos serviços de Fazenda e contabilidade das províncias ultramarinas.
 
 2. O visto nos diplomas referidos no artigo 57.º do [Decreto n.º 28263](https://diariodarepublica.pt/dr/detalhe/decreto/28263-1937-478067), de 8 de Dezembro de 1937, será dado em face do competente certificado de cabimento de verba passado pelos serviços de Fazenda e contabilidade.
 
-###### Art. 3.º Transita para os serviços de Fazenda e contabilidade das províncias ultramarinas a administração das verbas do capítulo 3.º da tabela de despesa ordinária dos seus orçamentos gerais, devendo os respectivos governos expedir instruções sobre a execução do serviço correspondente.
+Art. 3.º Transita para os serviços de Fazenda e contabilidade das províncias ultramarinas a administração das verbas do capítulo 3.º da tabela de despesa ordinária dos seus orçamentos gerais, devendo os respectivos governos expedir instruções sobre a execução do serviço correspondente.
 
-###### Art. 4.º As pensões provisórias de aposentação dos funcionários civis do ultramar passam a constituir encargo das províncias ultramarinas que hajam de suportar as pensões definitivas, na proporção do tempo de serviço nelas prestado.
+Art. 4.º As pensões provisórias de aposentação dos funcionários civis do ultramar passam a constituir encargo das províncias ultramarinas que hajam de suportar as pensões definitivas, na proporção do tempo de serviço nelas prestado.
 
-###### Art. 5.º São revogados os artigos 53.º a 56.º do [Decreto n.º 28263](https://diariodarepublica.pt/dr/detalhe/decreto/28263-1937-478067), de 8 de Dezembro de 1937, e o § 3.º do artigo 444.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 5.º São revogados os artigos 53.º a 56.º do [Decreto n.º 28263](https://diariodarepublica.pt/dr/detalhe/decreto/28263-1937-478067), de 8 de Dezembro de 1937, e o § 3.º do artigo 444.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 17 de Maio de 1971.**
+Promulgado em 17 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/42-1983-452543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3a710893b6205f7a3c445e293b6fc0c85686e7f12a0e788e23b095bbf099a4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d01004aff4c7844b37503bef138c182330566a4328dd787918b338ca6606316
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Rural
+- Câmara Municipal
+- Exploração Agrícola
+- Moura
+- Regime Florestal
 relationships:
 - type: amended_by
   target: pt:dre:611538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611538:por
+  label: "Alterado o art. 1º, pelo DEC.21/89.1989.05.11.MAPA, DR.IS [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/21-1989-611538
+  date: '1989-05-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:53Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +106,20 @@ Considerando o interesse de a exploração continuar a ser feita pelo Estado, e 
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Passa a ter a seguinte redacção o artigo 3.º do decreto publicado no Diário do Governo, 2.ª série, n.º 88, de 13 de Abril de 1963, que submete ao regime florestal parcial a Herdade da Contenda:
+Artigo 1.º Passa a ter a seguinte redacção o artigo 3.º do decreto publicado no Diário do Governo, 2.ª série, n.º 88, de 13 de Abril de 1963, que submete ao regime florestal parcial a Herdade da Contenda:
 
-###### Art. 3.º A renda a pagar anualmente passará a ser de 2700000$00 a partir de 1983, inclusive, podendo esta renda ser revista decorridos que sejam 6 anos.
+Art. 3.º A renda a pagar anualmente passará a ser de 2700000$00 a partir de 1983, inclusive, podendo esta renda ser revista decorridos que sejam 6 anos.
 
-###### Art. 2.º São revogados os artigos 2.º e 7.º do decreto referido no artigo anterior.
+Art. 2.º São revogados os artigos 2.º e 7.º do decreto referido no artigo anterior.
 
 Francisco José Pereira Pinto Balsemão - Basílio Adolfo Mendonça Horta da Franca.
 
-**Assinado em 2 de Junho de 1983.**
+Assinado em 2 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Junho de 1983.**
+Referendado em 6 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

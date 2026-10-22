@@ -46,36 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/438-1972-690586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b518fba70000f64f14b96ae7bfa147a5dc34381cfd0075ac646f676b4b2b6b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a494f732016a1c29e9d366b64cecf8bf20a42f0f0004549bd46ef3a41c58790
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Molusco
+- Pesca
+- Regulamento
+- Regulamento da Apanha
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690052:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:25Z'
   warnings: []
   errors: []
 ---
@@ -104,29 +140,29 @@ Nestes termos, e tendo em conta o disposto no artigo 2.º do [Decreto-Lei n.º 4
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado e posto em execução o Regulamento da Apanha e Exploração de Amêijoas e de Outros Bivalves Afins, que faz parte integrante deste decreto.
+Artigo 1.º É aprovado e posto em execução o Regulamento da Apanha e Exploração de Amêijoas e de Outros Bivalves Afins, que faz parte integrante deste decreto.
 
-###### Art. 2.º Fica revogada a [Portaria n.º 16121](https://diariodarepublica.pt/dr/detalhe/portaria/16121-1957-402083), de 2 de Janeiro de 1957.
+Art. 2.º Fica revogada a [Portaria n.º 16121](https://diariodarepublica.pt/dr/detalhe/portaria/16121-1957-402083), de 2 de Janeiro de 1957.
 
 Marcello Caetano - Manuel Pereira Crespo - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 25 de Outubro de 1972.**
+Promulgado em 25 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 REGULAMENTO DA APANHA E EXPLORAÇÃO DE AMÊIJOAS E DE OUTROS BIVALVES AFINS
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. Este Regulamento aplica-se à apanha e exploração dos moluscos do género Venerupis (= Tapes), vulgarmente denominados amêijoas.
+Artigo 1.º - 1. Este Regulamento aplica-se à apanha e exploração dos moluscos do género Venerupis (= Tapes), vulgarmente denominados amêijoas.
 
 2. Enquanto se não justificar regulamentação especial, as disposições deste Regulamento são extensivas, na parte aplicável, aos bivalves zoològicamente afins das amêijoas e com habitat e condições de vida semelhantes.
 
 3. Em caso de dúvida quanto à extensão do número anterior será ouvida a Comissão Consultiva das Pescas (Secção de Malacologia).
 
-###### Art. 2.º - 1. Para efeitos da sua aplicação, estabelecem-se os seguintes conceitos e definições:
+Art. 2.º - 1. Para efeitos da sua aplicação, estabelecem-se os seguintes conceitos e definições:
 
 a) Mariscadores - Indivíduos de ambos os sexos, maiores de 14 anos de idade, que, a seu pedido, hajam sido inscritos nas repartições marítimas como apanhadores ou como obreiros nos diferentes trabalhos de exploração e cultura de mariscos;
 
@@ -142,7 +178,7 @@ f) Depósitos - Instalações onde as amêijoas são mantidas transitòriamente 
 
 2. Quer os viveiros, quer os depósitos, podem consistir em simples parcelas de terreno devidamente demarcadas e sinalizadas.
 
-###### Art. 3.º - 1. A verificação do cumprimento das disposições que respeitam aos aspectos técnico, biológico e sanitário da exploração das amêijoas é da competência das comissões de vistoria.
+Art. 3.º - 1. A verificação do cumprimento das disposições que respeitam aos aspectos técnico, biológico e sanitário da exploração das amêijoas é da competência das comissões de vistoria.
 
 2. As comissões de vistoria são entidades permanentes afectas às capitanias dos portos, das quais farão parte:
 
@@ -154,31 +190,31 @@ b) Eventualmente, representantes de outros departamentos da Administração; e, 
 
 4. Os termos das vistorias são exarados em livros próprios existentes nas repartições marítimas.
 
-###### Art. 4.º Para coordenação e conhecimento superior devem os capitães de portos enviar à Direcção das Pescas e do Domínio Marítimo, no 1.º quadrimestre de cada ano, relação actualizada dos mariscadores e embarcações inscritos e dos viveiros e depósitos existentes, com indicação das respectivas áreas.
+Art. 4.º Para coordenação e conhecimento superior devem os capitães de portos enviar à Direcção das Pescas e do Domínio Marítimo, no 1.º quadrimestre de cada ano, relação actualizada dos mariscadores e embarcações inscritos e dos viveiros e depósitos existentes, com indicação das respectivas áreas.
 
-###### Art. 5.º - 1. Os cartões de mariscador e as licenças para a utilização de embarcações que hajam sido passadas para a apanha e exploração das amêijoas são válidos para a apanha e exploração destes e de outros moluscos testáceos marinhos e recìprocamente.
+Art. 5.º - 1. Os cartões de mariscador e as licenças para a utilização de embarcações que hajam sido passadas para a apanha e exploração das amêijoas são válidos para a apanha e exploração destes e de outros moluscos testáceos marinhos e recìprocamente.
 
 2. O custo das licenças e do cartão consta da tabela anexa.
 
-###### Art. 6.º As disposições deste Regulamento, ou instruções que visem o seu cumprimento e outras cujo conhecimento mais se imponha com o mesmo objectivo, devem ser divulgadas por editais afixados nas repartições marítimas e nos sítios mais públicos da região.
+Art. 6.º As disposições deste Regulamento, ou instruções que visem o seu cumprimento e outras cujo conhecimento mais se imponha com o mesmo objectivo, devem ser divulgadas por editais afixados nas repartições marítimas e nos sítios mais públicos da região.
 
-###### Art. 7.º A tabela anexa pode ser alterada ou actualizada por portaria do Ministro da Marinha.
+Art. 7.º A tabela anexa pode ser alterada ou actualizada por portaria do Ministro da Marinha.
 
 ### CAPÍTULO II — Disposições sobre a apanha
 
-###### Art. 8.º - 1. Para consumo próprio é livre a apanha de amêijoas em terrenos não privados ou não concedidos para exploração destes moluscos, sendo a sua venda, directa ou indirecta, considerada contravenção punível nos termos deste Regulamento.
+Art. 8.º - 1. Para consumo próprio é livre a apanha de amêijoas em terrenos não privados ou não concedidos para exploração destes moluscos, sendo a sua venda, directa ou indirecta, considerada contravenção punível nos termos deste Regulamento.
 
 2. Por despacho do director-geral dos Serviços de Fomento Marítimo poderá ser fixado o quantitativo máximo de amêijoas apanháveis para consumo próprio.
 
-###### Art. 9.º - 1. Para fins de transplantação ou de comercialização, a apanha de amêijoas em terrenos não privados ou não concedidos só é permitida aos mariscadores.
+Art. 9.º - 1. Para fins de transplantação ou de comercialização, a apanha de amêijoas em terrenos não privados ou não concedidos só é permitida aos mariscadores.
 
 2. No exercício das suas funções os mariscadores devem estar munidos dos respectivos cartões, actualizados quanto ao pagamento da licença.
 
-###### Art. 10.º A apanha de amêijoas em terrenos concedidos ou privados só é permitida aos concessionários, aos proprietários ou mariscadores ao seu serviço.
+Art. 10.º A apanha de amêijoas em terrenos concedidos ou privados só é permitida aos concessionários, aos proprietários ou mariscadores ao seu serviço.
 
-###### Art. 11.º A apanha de amêijoas é proibida desde o pôr ao nascer do Sol, excepto nos depósitos.
+Art. 11.º A apanha de amêijoas é proibida desde o pôr ao nascer do Sol, excepto nos depósitos.
 
-###### Art. 12.º - 1. A apanha de amêijoas só pode ser feita à mão, com faca de mariscar, com sacho de cabo curto e com ancinho de tipo apropriado.
+Art. 12.º - 1. A apanha de amêijoas só pode ser feita à mão, com faca de mariscar, com sacho de cabo curto e com ancinho de tipo apropriado.
 
 2. A autorização para o emprego de instrumentos diferentes dos referidos no n.º 1 é requerida às autoridades marítimas locais, que devem consultar a Direcção das Pescas e do Domínio Marítimo antes de tomar decisão.
 
@@ -188,21 +224,21 @@ b) Eventualmente, representantes de outros departamentos da Administração; e, 
 
 5. O uso de outros meios requer autorização das autoridades marítimas locais, nos termos do n.º 2 deste artigo.
 
-###### Art. 13.º Os tamanhos mínimos de apanha de amêijoas para efeitos de exportação, comércio interno e repovoamento de viveiros serão os fixados por despacho do director-geral dos Serviços de Fomento Marítimo, ouvida a Comissão Consultiva das Pescas (Secção de Malacologia).
+Art. 13.º Os tamanhos mínimos de apanha de amêijoas para efeitos de exportação, comércio interno e repovoamento de viveiros serão os fixados por despacho do director-geral dos Serviços de Fomento Marítimo, ouvida a Comissão Consultiva das Pescas (Secção de Malacologia).
 
-###### Art. 14.º - 1. Com o objectivo de se proteger a produção de amêijoas ou de obviar a exaustão dos bancos e terrenos de criação natural, pode a apanha destes moluscos ser proibida por despacho do Ministro da Marinha em determinados locais, em determinadas épocas ou além de determinado quantitativo.
+Art. 14.º - 1. Com o objectivo de se proteger a produção de amêijoas ou de obviar a exaustão dos bancos e terrenos de criação natural, pode a apanha destes moluscos ser proibida por despacho do Ministro da Marinha em determinados locais, em determinadas épocas ou além de determinado quantitativo.
 
 2. A proibição pode tornar-se extensível aos depósitos e viveiros.
 
 3. Se houver que se contingentar a apanha, competirá à Direcção das Pescas e do Domínio Marítimo propor ao director-geral dos Serviços de Fomento Marítimo o critério a seguir.
 
-###### Art. 15.º - 1. Por razões de ordem sanitária a apanha de amêijoas pode ser proibida por portaria do Ministro da Marinha nos locais considerados insalubres ou em determinados períodos.
+Art. 15.º - 1. Por razões de ordem sanitária a apanha de amêijoas pode ser proibida por portaria do Ministro da Marinha nos locais considerados insalubres ou em determinados períodos.
 
 2. Se circunstâncias imprevistas ou esporádicas aconselharem a proibição urgente da apanha de amêijoas, pode esta medida ser determinada provisòriamente pelas autoridades marítimas locais, ouvido o director ou o delegado de saúde da região ou o Instituto de Biologia Marítima.
 
 3. Em caso de necessidade urgente de saúde pública deverá o director ou o delegado de saúde solicitar ao capitão do porto a proibição imediata da apanha de amêijoas e proibir a sua venda para consumo público.
 
-###### Art. 16.º A apanha de amêijoas em locais considerados insalubres poderá ser permitida por despacho do Ministro da Marinha:
+Art. 16.º A apanha de amêijoas em locais considerados insalubres poderá ser permitida por despacho do Ministro da Marinha:
 
 a)Para consumo público, desde que assegurada eficiente depuração dos moluscos antes da sua venda ao público;
 
@@ -210,11 +246,11 @@ b) Para transplantação, desde que observadas determinadas condições, propost
 
 ### CAPÍTULO III — Disposições sobre viveiros e depósitos
 
-###### Art. 17.º - 1. Não é permitida a instalação de viveiros e de depósitos de amêijoas em terrenos do domínio público marítimo considerados de criação natural destes moluscos ou ainda onde se produzem naturalmente moluscos de outras espécies que sejam objecto de apanha profissional ou indispensáveis à alimentação pública da região.
+Art. 17.º - 1. Não é permitida a instalação de viveiros e de depósitos de amêijoas em terrenos do domínio público marítimo considerados de criação natural destes moluscos ou ainda onde se produzem naturalmente moluscos de outras espécies que sejam objecto de apanha profissional ou indispensáveis à alimentação pública da região.
 
 2. A verificação do disposto no número anterior compete às comissões de vistoria, acrescidas dos peritos ou técnicos que os capitães de portos julguem necessários.
 
-###### Art. 18.º - 1. As áreas dos viveiros ou depósitos a instalar em terrenos do domínio público marítimo devem conter-se nos limites fixados pelos capitães de portos respectivos, de acordo com as disponibilidades locais na ocasião, mas deverá ter-se em conta que na área da jurisdição de cada capitania:
+Art. 18.º - 1. As áreas dos viveiros ou depósitos a instalar em terrenos do domínio público marítimo devem conter-se nos limites fixados pelos capitães de portos respectivos, de acordo com as disponibilidades locais na ocasião, mas deverá ter-se em conta que na área da jurisdição de cada capitania:
 
 a) A área dos depósitos não pode exceder 250 m2;
 
@@ -224,17 +260,17 @@ c) A mesma entidade não pode ser concessionária de mais de cinco viveiros ou d
 
 2. Em casos devidamente justificados, os limites fixados no número anterior podem ser alterados por portaria do Ministro da Marinha.
 
-###### Art. 19.º Os limites das áreas referidas no artigo anterior não são aplicáveis aos viveiros ou depósitos instalados em terrenos privados nem aos existentes em terrenos do domínio público marítimo anteriormente à data deste Regulamento que não possam ser ampliados.
+Art. 19.º Os limites das áreas referidas no artigo anterior não são aplicáveis aos viveiros ou depósitos instalados em terrenos privados nem aos existentes em terrenos do domínio público marítimo anteriormente à data deste Regulamento que não possam ser ampliados.
 
-###### Art. 20.º - 1. É proibido transitar por qualquer meio, encalhar e fundear embarcações e colher amêijoas nos viveiros ou depósitos sem prévia autorização dos concessionários ou dos proprietários.
+Art. 20.º - 1. É proibido transitar por qualquer meio, encalhar e fundear embarcações e colher amêijoas nos viveiros ou depósitos sem prévia autorização dos concessionários ou dos proprietários.
 
 2. A proibição referida no número anterior não é aplicável à navegação.
 
-###### Art. 21.º - 1. Os depósitos e viveiros instalados quer em terrenos do domínio público marítimo, quer em terrenos privados, devem estar devidamente demarcados e sinalizados, de acordo com as indicações que aos concessionários ou proprietários forem ditadas pelas autoridades marítimas locais.
+Art. 21.º - 1. Os depósitos e viveiros instalados quer em terrenos do domínio público marítimo, quer em terrenos privados, devem estar devidamente demarcados e sinalizados, de acordo com as indicações que aos concessionários ou proprietários forem ditadas pelas autoridades marítimas locais.
 
 2. Se for julgado conveniente uniformizar a delimitação dos depósitos ou viveiros em todo o litoral ou em algumas das suas zonas, poderá o director-geral dos Serviços de Fomento Marítimo determinar, por despacho, o número e tipo de balizas ou marcos a adoptar.
 
-###### Art. 22.º - 1. Os depósitos e viveiros referidos no artigo anterior estão sujeitos:
+Art. 22.º - 1. Os depósitos e viveiros referidos no artigo anterior estão sujeitos:
 
 a) A uma vistoria anual - vistoria de manutenção - efectuada pela comissão de vistorias da capitania respectiva;
 
@@ -242,17 +278,17 @@ b) As inspecções administrativas ou técnicas, com a necessária frequência, 
 
 2. A comissão de vistorias poderá fazer outras vistorias para cumprimento do Regulamento ou de instruções superiores, ou quando solicitadas.
 
-###### Art. 23.º - 1. É proibida a transplantação para terrenos livres e para viveiros e depósitos da área de cada departamento marítimo de amêijoas oriundas de terrenos, viveiros ou depósitos da área de outros departamentos, e ainda de mariscos de outras espécies de qualquer proveniência de território nacional metropolitano, sem autorização do director-geral dos Serviços de Fomento Marítimo, ouvido o Instituto de Biologia Marítima;
+Art. 23.º - 1. É proibida a transplantação para terrenos livres e para viveiros e depósitos da área de cada departamento marítimo de amêijoas oriundas de terrenos, viveiros ou depósitos da área de outros departamentos, e ainda de mariscos de outras espécies de qualquer proveniência de território nacional metropolitano, sem autorização do director-geral dos Serviços de Fomento Marítimo, ouvido o Instituto de Biologia Marítima;
 
 2. Esta proibição pode-se tornar extensiva, caso se julgue necessário, à transplantação de amêijoas ou de outros mariscos de áreas de diferentes capitanias.
 
-###### Art. 24.º - 1. É proibida a introdução em terrenos livres e nos viveiros e depósitos, quer instalados em terrenos do domínio público, quer do domínio privado, de quaisquer espécies de mariscos exóticos sem autorização do director-geral dos Serviços de Fomento Marítimo, ouvido o Instituto de Biologia Marítima.
+Art. 24.º - 1. É proibida a introdução em terrenos livres e nos viveiros e depósitos, quer instalados em terrenos do domínio público, quer do domínio privado, de quaisquer espécies de mariscos exóticos sem autorização do director-geral dos Serviços de Fomento Marítimo, ouvido o Instituto de Biologia Marítima.
 
 2. A entrada no País de mariscos exóticos com a finalidade prevista no número anterior não pode ser consentida sem a autorização neste referida.
 
 ### CAPÍTULO IV — Licenças e concessões
 
-###### Art. 25.º - 1. As licenças para o exercício da actividade de «mariscador» são requeridas pelos interessados, em qualquer época do ano, às autoridades marítimas locais nos termos do modelo patente nas repartições marítimas.
+Art. 25.º - 1. As licenças para o exercício da actividade de «mariscador» são requeridas pelos interessados, em qualquer época do ano, às autoridades marítimas locais nos termos do modelo patente nas repartições marítimas.
 
 2. Estas licenças são individuais e intransmissíveis e válidas em qualquer área marítima do País, durante o ano em que forem obtidas.
 
@@ -260,13 +296,13 @@ b) As inspecções administrativas ou técnicas, com a necessária frequência, 
 
 4. Quando o mariscador deseje exercer a sua actividade em área de capitania diferente daquela onde obteve o cartão ou pagou a última licença, deverá comunicar verbalmente a sua transferência aos respectivos capitães de portos.
 
-###### Art. 26.º - 1. As licenças para a utilização de embarcações são requeridas às autoridades marítimas locais em qualquer época do ano.
+Art. 26.º - 1. As licenças para a utilização de embarcações são requeridas às autoridades marítimas locais em qualquer época do ano.
 
 2. As licenças são válidas apenas na área da capitania que as concede e durante o ano civil em que forem obtidas.
 
-###### Art. 27.º As concessões para instalação de viveiros ou depósitos em terrenos do domínio público marítimo são requeridas às autoridades marítimas locais no último trimestre de cada ano e válidas de 1 de Janeiro a 31 de Dezembro do ano seguinte.
+Art. 27.º As concessões para instalação de viveiros ou depósitos em terrenos do domínio público marítimo são requeridas às autoridades marítimas locais no último trimestre de cada ano e válidas de 1 de Janeiro a 31 de Dezembro do ano seguinte.
 
-###### Art. 28.º A obtenção destas concessões obedece aos seguintes preceitos:
+Art. 28.º A obtenção destas concessões obedece aos seguintes preceitos:
 
 a ) Os requerimentos devem indicar, além dos elementos de identificação dos requerentes, a localização, a área e o destino (depósito ou viveiro) do terreno solicitado;
 
@@ -286,27 +322,27 @@ h) Quando houver mais de um pretendente ao mesmo terreno, no todo ou em parte, t
 
 i) As concessões só devem ser autorizadas se não houver reclamações ou não forem atendíveis as apresentadas no prazo de trinta dias, a contar da data da afixação dos editais.
 
-###### Art. 29.º - 1. As concessões são renováveis anualmente se os concessionários as tiverem explorado regularmente e cumprido as disposições a que estão sujeitos pelo presente Regulamento.
+Art. 29.º - 1. As concessões são renováveis anualmente se os concessionários as tiverem explorado regularmente e cumprido as disposições a que estão sujeitos pelo presente Regulamento.
 
 2. Os requerimentos de prorrogação das concessões devem ser entregues nas repartições marítimas no último trimestre de cada ano.
 
 3. As licenças serão pagas durante o mês de Janeiro.
 
-###### Art. 30.º As concessões não são transmissíveis, salvo falecimento do concessionário, em que o poderão ser a favor do cônjuge sobrevivo ou dos seus descendentes ou ascendentes imediatos.
+Art. 30.º As concessões não são transmissíveis, salvo falecimento do concessionário, em que o poderão ser a favor do cônjuge sobrevivo ou dos seus descendentes ou ascendentes imediatos.
 
-###### Art. 31.º - 1. As concessões podem ser canceladas por comprovado motivo de interesse público ou por não cumprimento das disposições deste Regulamento, sem direito a indemnização por parte do Estado.
+Art. 31.º - 1. As concessões podem ser canceladas por comprovado motivo de interesse público ou por não cumprimento das disposições deste Regulamento, sem direito a indemnização por parte do Estado.
 
 2. Se o cancelamento for determinado por interesse público ou por se tornarem desfavoráveis as condições de exploração, no todo ou em parte, poderá o concessionário obter, mediante requerimento, outra área que compense a cancelada ou tornada desfavorável.
 
-###### Art. 32.º A instalação de viveiros e depósitos em propriedade privada carece de autorização das autoridades marítimas locais e o seu funcionamento fica sujeito às disposições deste Regulamento que lhe forem aplicáveis.
+Art. 32.º A instalação de viveiros e depósitos em propriedade privada carece de autorização das autoridades marítimas locais e o seu funcionamento fica sujeito às disposições deste Regulamento que lhe forem aplicáveis.
 
-###### Art. 33.º Os concessionários ficam obrigados a fornecer às capitanias dos portos e à Junta Nacional de Fomento das Pescas informações periódicas do movimento dos seus estabelecimentos.
+Art. 33.º Os concessionários ficam obrigados a fornecer às capitanias dos portos e à Junta Nacional de Fomento das Pescas informações periódicas do movimento dos seus estabelecimentos.
 
 ### CAPÍTULO V — Comercialização
 
-###### Art. 34.º Os armazenistas e os concessionários só podem adquirir amêijoas aos mariscadores munidos dos respectivos cartões ou a outros armazenistas ou concessionários.
+Art. 34.º Os armazenistas e os concessionários só podem adquirir amêijoas aos mariscadores munidos dos respectivos cartões ou a outros armazenistas ou concessionários.
 
-###### Art. 35.º - 1. Os retalhistas só podem adquirir amêijoas aos armazenistas ou aos concessionários.
+Art. 35.º - 1. Os retalhistas só podem adquirir amêijoas aos armazenistas ou aos concessionários.
 
 2. As entidades vendedoras deverão obrigatòriamente passar documento de venda, do qual constem os nomes e moradas do comprador e vendedor, a qualidade em que intervêm, indicação da quantidade, o respectivo preço e a data da transacção, documento esse que o comprador terá de apresentar sempre que lhe seja exigido por quem de direito.
 
@@ -314,55 +350,55 @@ i) As concessões só devem ser autorizadas se não houver reclamações ou não
 
 4. A não apresentação pelo comprador do documento de venda a que alude o n.º 2 deste artigo, designadamente por não lhe ter sido passado pelo vendedor ou por se ter extraviado, não constitui para aquele circunstância dirimente da sua responsabilidade criminal.
 
-###### Art. 36.º Logo que esteja legalmente estabelecida a obrigatoriedade de depuração das amêijoas, os estabelecimentos de venda ao público só podem adquirir estes moluscos quando acompanhados por documento oficial comprovativo de que foram depurados.
+Art. 36.º Logo que esteja legalmente estabelecida a obrigatoriedade de depuração das amêijoas, os estabelecimentos de venda ao público só podem adquirir estes moluscos quando acompanhados por documento oficial comprovativo de que foram depurados.
 
-###### Art. 37.º As normas higio-sanitárias a observar na venda ao público são estabelecidas pela Direcção-Geral de Saúde, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo.
+Art. 37.º As normas higio-sanitárias a observar na venda ao público são estabelecidas pela Direcção-Geral de Saúde, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo.
 
-###### Art. 38.º Os contingentes de exportação, se for necessário fixá-los, bem como as disposições sobre o seu processamento, devem ser estabelecidos pela Junta Nacional de Fomento das Pescas, ouvida a Comissão Consultiva das Pescas (Secção de Malacologia).
+Art. 38.º Os contingentes de exportação, se for necessário fixá-los, bem como as disposições sobre o seu processamento, devem ser estabelecidos pela Junta Nacional de Fomento das Pescas, ouvida a Comissão Consultiva das Pescas (Secção de Malacologia).
 
 ### CAPÍTULO VI — Contravenções e penalidades
 
-###### Art. 39.º - 1. As infracções do disposto nos artigos 8.º, 9.º, 11.º e 13.º são punidas com advertência e apreensão dos moluscos apanhados ou acumulados para efeitos de comercialização.
+Art. 39.º - 1. As infracções do disposto nos artigos 8.º, 9.º, 11.º e 13.º são punidas com advertência e apreensão dos moluscos apanhados ou acumulados para efeitos de comercialização.
 
 2. As reincidências são punidas com a apreensão dos moluscos e multa até 1500$00.
 
-###### Art. 40.º - 1. As infracções do disposto no artigo 10.º e no artigo 20.º na parte que respeita à colheita são punidas com a apreensão dos moluscos e multa até 1000$00.
+Art. 40.º - 1. As infracções do disposto no artigo 10.º e no artigo 20.º na parte que respeita à colheita são punidas com a apreensão dos moluscos e multa até 1000$00.
 
 2. Em caso de reincidência, sendo o infractor mariscador, ser-lhe-á ainda apreendido o respectivo cartão pelo prazo de um ano.
 
-###### Art. 41.º - 1. A infracção do disposto no artigo 12.º é punida com advertência e apreensão dos moluscos apanhados e dos utensílios ou meios de acção utilizados na apanha.
+Art. 41.º - 1. A infracção do disposto no artigo 12.º é punida com advertência e apreensão dos moluscos apanhados e dos utensílios ou meios de acção utilizados na apanha.
 
 2. A reincidência é punida com a apreensão dos moluscos, dos utensílios e dos meios de acção utilizados na apanha e multa até 1500$00.
 
-###### Art. 42.º - 1. As infracções do disposto nos artigos 14.º, 15.º e 16.º são punidas com a apreensão dos moluscos apanhados e multa até 2000$00.
+Art. 42.º - 1. As infracções do disposto nos artigos 14.º, 15.º e 16.º são punidas com a apreensão dos moluscos apanhados e multa até 2000$00.
 
 2. A reincidência é punida com apreensão dos moluscos e multa no dobro do valor da primeira.
 
-###### Art. 43.º - 1. A infracção do disposto no artigo 20.º, na parte que respeita a trânsito, encalhamento e fundeamento de embarcações, é punida com advertência e, se houver prejuízos comprovados, com indemnização, fixada pelas autoridades marítimas.
+Art. 43.º - 1. A infracção do disposto no artigo 20.º, na parte que respeita a trânsito, encalhamento e fundeamento de embarcações, é punida com advertência e, se houver prejuízos comprovados, com indemnização, fixada pelas autoridades marítimas.
 
 2. A reincidência é punida com indemnização se houver prejuízo comprovado e multa até 1500$00.
 
-###### Art. 44.º - 1. A infracção do disposto no artigo 21.º é punida com advertência.
+Art. 44.º - 1. A infracção do disposto no artigo 21.º é punida com advertência.
 
 2. A primeira reincidência é punida com multa até 1000$00 e as seguintes com multa no dobro do valor da primeira e suspensão da concessão por um ano.
 
-###### Art. 45.º - 1. As infracções do disposto nos artigos 23.º e 24.º são punidas com a apreensão dos mariscos introduzidos e multa até 500$00.
+Art. 45.º - 1. As infracções do disposto nos artigos 23.º e 24.º são punidas com a apreensão dos mariscos introduzidos e multa até 500$00.
 
 2. A reincidência é punida com a apreensão dos mariscos introduzidos e multa no dobro do valor da primeira.
 
-###### Art. 46.º - 1. A infracção do disposto no artigo 34.º é punida, quando essa punição competir às autoridades marítimas, com a apreensão dos moluscos e multa até 1500$00.
+Art. 46.º - 1. A infracção do disposto no artigo 34.º é punida, quando essa punição competir às autoridades marítimas, com a apreensão dos moluscos e multa até 1500$00.
 
 2. A reincidência é punida com a apreensão dos moluscos e multa no dobro do valor da primeira, mas nunca menos de 1500$00.
 
-###### Art. 47.º A punição das reincidências além da primeira pode ser agravada pelas autoridades marítimas, na parte respeitante à multa, em percentagens de 10 por cento a 50 por cento em relação à punição de reincidência imediatamente anterior.
+Art. 47.º A punição das reincidências além da primeira pode ser agravada pelas autoridades marítimas, na parte respeitante à multa, em percentagens de 10 por cento a 50 por cento em relação à punição de reincidência imediatamente anterior.
 
-###### Art. 48.º - 1. É da competência da Inspecção-Geral das Actividades Económicas velar pelo cumprimento do disposto no artigo 34.º do presente Regulamento, quando as infracções por ele punidas forem cometidas fora da área da jurisdição marítima e do disposto nos antigos 35.º, 36.º e 37.º
+Art. 48.º - 1. É da competência da Inspecção-Geral das Actividades Económicas velar pelo cumprimento do disposto no artigo 34.º do presente Regulamento, quando as infracções por ele punidas forem cometidas fora da área da jurisdição marítima e do disposto nos antigos 35.º, 36.º e 37.º
 
 2. As infracções do disposto nos artigos 35.º 36.º e 37.º são punidas com multa de 500$00 a 10000$00, no caso de não constituírem infracções puníveis nos termos dos artigos 16.º, 17.º e 18.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 49.º As infracções puníveis pelas autoridades marítimas que pela sua gravidade ou frequência possam constituir sério prejuízo da economia nacional serão submetidas a parecer da Comissão Consultiva das Pescas (Secção de Malacologia), que proporá o seu agravamento dentro dos limites fixados no artigo 47.º
+Art. 49.º As infracções puníveis pelas autoridades marítimas que pela sua gravidade ou frequência possam constituir sério prejuízo da economia nacional serão submetidas a parecer da Comissão Consultiva das Pescas (Secção de Malacologia), que proporá o seu agravamento dentro dos limites fixados no artigo 47.º
 
-###### Art. 50.º As amêijoas ou outros mariscos contemplados por este Regulamento, apreendidos por infracção dos artigos 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º e 34.º e do artigo 20.º, na parte que respeita a colheitas, devem ter os seguintes destinos:
+Art. 50.º As amêijoas ou outros mariscos contemplados por este Regulamento, apreendidos por infracção dos artigos 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º e 34.º e do artigo 20.º, na parte que respeita a colheitas, devem ter os seguintes destinos:
 
 a) Se apreendidos antes de chegarem a terra, devem ser devolvidos aos locais onde foram apanhados;
 
@@ -370,17 +406,17 @@ b) Se apreendidos depois de chegarem a terra e o seu tamanho for inferior ao mí
 
 c) Se apreendidos depois de chegarem a terra e o seu tamanho não for inferior ao mínimo legal, devem ser vendidos ao preço corrente na região.
 
-###### Art. 51.º Os mariscos apreendidos por infracção dos artigos 23.º e 24.º devem ter o destino que for determinado pelas autoridades marítimas locais, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo - Direcção das Pescas e do Domínio Marítimo.
+Art. 51.º Os mariscos apreendidos por infracção dos artigos 23.º e 24.º devem ter o destino que for determinado pelas autoridades marítimas locais, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo - Direcção das Pescas e do Domínio Marítimo.
 
-###### Art. 52.º A deposição dos mariscos apreendidos nos locais que forem determinados pelas autoridades marítimas é encargo dos infractores.
+Art. 52.º A deposição dos mariscos apreendidos nos locais que forem determinados pelas autoridades marítimas é encargo dos infractores.
 
-###### Art. 53.º O produto da venda dos mariscos apreendidos reverte a favor dos concessionários dos viveiros ou depósitos, se aí tiverem sido colhidos, ou será declarado perdido a favor do Estado, se os mariscos houverem sido apanhados em terrenos livres do domínio público marítimo.
+Art. 53.º O produto da venda dos mariscos apreendidos reverte a favor dos concessionários dos viveiros ou depósitos, se aí tiverem sido colhidos, ou será declarado perdido a favor do Estado, se os mariscos houverem sido apanhados em terrenos livres do domínio público marítimo.
 
-###### Art. 54.º Do produto das multas aplicadas pelas autoridades marítimas reverterá 50 por cento a favor do Instituto de Biologia Marítima, constituindo receita eventual a que se refere a alínea e) do n.º 3 do artigo 16.º do [Decreto n.º 136/71](https://diariodarepublica.pt/dr/detalhe/decreto/136-1971-445731), de 9 de Abril, e o restante constituirá receita geral do Estado.
+Art. 54.º Do produto das multas aplicadas pelas autoridades marítimas reverterá 50 por cento a favor do Instituto de Biologia Marítima, constituindo receita eventual a que se refere a alínea e) do n.º 3 do artigo 16.º do [Decreto n.º 136/71](https://diariodarepublica.pt/dr/detalhe/decreto/136-1971-445731), de 9 de Abril, e o restante constituirá receita geral do Estado.
 
-###### Art. 55.º Das penalidades ou sanções aplicadas pelas autoridades marítimas há recurso para as instâncias imediatamente superiores do Ministério da Marinha.
+Art. 55.º Das penalidades ou sanções aplicadas pelas autoridades marítimas há recurso para as instâncias imediatamente superiores do Ministério da Marinha.
 
-**O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro da Economia, Manuel Artur Cotta Agostinho Dias. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro da Economia, Manuel Artur Cotta Agostinho Dias. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.
 
 ## ANEXO — Tabela de licenças e emolumentos
 
@@ -424,4 +460,4 @@ Nota
 
 3) Constitui também encargo dos concessionários o pagamento das análises indispensáveis ao processamento das vistorias de manutenção, conforme tabela privativa dos respectivos laboratórios.
 
-**O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro da Economia, Manuel Artur Cotta Agostinho Dias. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro da Economia, Manuel Artur Cotta Agostinho Dias. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

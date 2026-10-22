@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 278/1970, 1º Suplemento, Série I de 1970-11-30
   number: '278'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1816-(1) a 1816-(40)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf
 entry_into_force_dates: []
@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/593-1970-226209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3ab52ab5265dd89adefe78be6c87e7575c7f14c28604b4ebfae6e7c74ff6e95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06a7effaf1751d649956d6d52cc4511deea8f47a1a7cea57252ce1a35626cfa3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ACTO Constitutivo
+- Açúcar
+- Comércio
+- Conselho Internacional do Açúcar
+- Convenção
+- Exportação
+- Importação
+- Nova Iorque
+- Organização Internacional do Açúcar
+- Portugal
+- Preço
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:48Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +97,15 @@ de 30 de Novembro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Internacional do Açúcar, aberto à assinatura em Nova Iorque de 3 a 24 de Dezembro de 1968, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo Internacional do Açúcar, aberto à assinatura em Nova Iorque de 3 a 24 de Dezembro de 1968, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 6 de Novembro de 1970.**
+Promulgado em 6 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -740,11 +751,11 @@ Tonnages de base d'exportation
 
 1. - a) Aux fins de l'application du présent chapitre et pour les trois premières années d'application de l'Accord, les pays ou groupes de pays exportateurs auront les tonnages de base d'exportation suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
 
 b) Nonobstant les dispositions de l'alinéa a) du présent paragraphe, les tonnages de base d'exportation des pays énumérés ci-après seront pour 1970 et 1971 les suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
 
 2. Lorsqu'il procède à l'étude visée au paragraphe 2 de l'article 70, le Conseil fixe par un vote spécial les tonnages de base d'exportation pour la quatrième et la cinquième année d'application de l'Accord. En l'absence d'une décision du Conseil, les tonnages de base d'exportation indiqués ou réputés indiqués au paragraphe 1 du présent article pour la troisième année restent en vigueur.
 
@@ -1930,11 +1941,11 @@ Estatuto da União das Repúblicas Socialistas Soviéticas e exportação desse 
 
 1. - a) Para os fins da aplicação do presente capítulo e para os três primeiros anos de aplicação do Acordo, os países ou grupos de países exportadores terão as seguintes tonelagens básicas de exportação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
 
 b) Não obstante as disposições da alínea a) do presente número, as tonelagens básicas de exportação dos países abaixo enumerados serão as seguintes para 1970 e 1971:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27801/00010040.pdf)
 
 2. Ao efectuar o estudo previsto no n.º 2 do artigo 70.º, o Conselho estabelecerá, por uma votação especial, as tonelagens básicas de exportação para o quarto e o quinto ano de aplicação do Acordo. Na falta de uma decisão do Conselho permanecerão em vigor as tonelagens básicas de exportação indicadas ou consideradas como indicadas no n.º 1 do presente artigo para o terceiro ano.
 
@@ -2306,7 +2317,7 @@ Se o Conselho concluir que um Membro não cumpriu as obrigações que lhe são i
 
 ###### ARTIGO 72.º — Notificação pelo secretário-geral da Organização das Nações Unidas
 
-**O secretário-geral da Organização das Nações Unidas notificará todos os Estados Membros da Organização das Nações Unidas ou de um dos seus organismos especializados do depósito de qualquer instrumento de ratificação, de aceitação, de aprovação ou de adesão, do depósito de qualquer notificação feita em virtude do artigo 61.º e das datas em que o Acordo entrará em vigor a título provisório ou definitivo. O secretário-geral informará do mesmo modo todas as Partes Contratantes de qualquer notificação feita nos termos do artigo 66.º, de qualquer notificação de retirada feita em virtude do artigo 67.º, de qualquer exclusão decidida em virtude do artigo 68.º, da data em que uma emenda produz efeito ou é considerada como retirada em conformidade com o n.º 1 do artigo 71.º e de qualquer retirada nos termos do n.º 2 do artigo 71.º**
+O secretário-geral da Organização das Nações Unidas notificará todos os Estados Membros da Organização das Nações Unidas ou de um dos seus organismos especializados do depósito de qualquer instrumento de ratificação, de aceitação, de aprovação ou de adesão, do depósito de qualquer notificação feita em virtude do artigo 61.º e das datas em que o Acordo entrará em vigor a título provisório ou definitivo. O secretário-geral informará do mesmo modo todas as Partes Contratantes de qualquer notificação feita nos termos do artigo 66.º, de qualquer notificação de retirada feita em virtude do artigo 67.º, de qualquer exclusão decidida em virtude do artigo 68.º, da data em que uma emenda produz efeito ou é considerada como retirada em conformidade com o n.º 1 do artigo 71.º e de qualquer retirada nos termos do n.º 2 do artigo 71.º
 
 Em fé do que os abaixo mencionados, devidamente autorizados pelos respectivos governos, assinaram o presente Acordo na data indicada ao lado das suas assinaturas.
 

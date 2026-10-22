@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 56/1975, 1º Suplemento, Série I de 1975-03-07
   number: '56'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 366-(1) a 366-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05601/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-a-1975-198949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a970b7cb21ca6be96cf7160f4ec193b3c027f139ac9c6ea1f438bd4415850c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20c65a0a8dc1f0f85c1d1194281e3b57fef54d6ba37e6412ae86fe9d3868e68a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Assembleia de VOTO
+- Campanha Eleitoral
+- Direito de Voto
+- Eleição Legislativa
+- Parlamentar
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:21Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +109,19 @@ Tendo em vista o disposto no artigo 165.º do [Decreto-Lei n.º 621-C/74](https:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Eleitores residentes no estrangeiro)
 
 Os cidadãos eleitores residentes no estrangeiro são congregados num círculo eleitoral único, a que corresponde um colégio eleitoral.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Número de Deputados)
 
 Ao círculo eleitoral referido no artigo anterior corresponde um Deputado por cada 25000 eleitores inscritos ou resto superior a 12500, com o mínimo de um Deputado.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Apresentação de candidaturas)
 
@@ -113,7 +129,7 @@ Ao círculo eleitoral referido no artigo anterior corresponde um Deputado por ca
 
 2. Terminado o prazo para apresentação das listas, o corregedor-presidente mandará afixar cópia das mesmas à porta do edifício do tribunal.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Publicação das listas)
 
@@ -121,13 +137,13 @@ Ao círculo eleitoral referido no artigo anterior corresponde um Deputado por ca
 
 2. No mesmo prazo, o corregedor-presidente da 1.ª Vara Cível do Círculo Judicial de Lisboa enviará cópias das listas mencionadas no número anterior ao Ministério dos Negócios Estrangeiros, que providenciará no sentido de as mesmas serem afixadas o mais rapidamente possível nos consulados de carreira e nas secções consulares.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Campanha eleitoral)
 
 A campanha eleitoral consiste na elucidação do eleitor através da remessa, a este feita directamente, de documentação escrita.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Promoção e realização da campanha eleitoral)
 
@@ -135,19 +151,19 @@ A campanha eleitoral consiste na elucidação do eleitor através da remessa, a 
 
 2. Para efeitos da disposição do número anterior, o Ministério dos Negócios Estrangeiros facultará aos partidos políticos cópias ou fotocópias dos cadernos de recenseamento.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Exercício do direito de voto)
 
 O eleitor residente no estrangeiro exerce o direito de sufrágio pela via postal e junto da assembleia de apuramento geral do círculo eleitoral de Lisboa, que, para o efeito, agregará a si uma assembleia de recolha e contagem de votos dos residentes no estrangeiro.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Edital sobre a assembleia de recolha e contagem de votos)
 
 Até quinze dias antes das eleições, o governador civil de Lisboa, por edital afixado no lugar de estilo, anunciará o dia e hora em que se reunirá, no edifício do Governo Civil de Lisboa, a assembleia de recolha e contagem de votos dos residentes no estrangeiro.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Mesa da assembleia de recolha e contagem de votos)
 
@@ -155,13 +171,13 @@ Até quinze dias antes das eleições, o governador civil de Lisboa, por edital 
 
 2. A mesa será composta por um presidente e respectivo suplente e seis vogais, sendo um secretário e cinco escrutinadores.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Delegados das listas)
 
 Na assembleia de recolha e contagem de votos dos residentes no estrangeiro poderá haver um delegado e respectivo suplente de cada lista de candidatos proposta à eleição.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Designação dos delegados das listas)
 
@@ -169,7 +185,7 @@ Na assembleia de recolha e contagem de votos dos residentes no estrangeiro poder
 
 2. A cada delegado e seu suplente será imediatamente entregue uma credencial.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Designação dos membros da mesa)
 
@@ -183,31 +199,31 @@ Na assembleia de recolha e contagem de votos dos residentes no estrangeiro poder
 
 5. Até cinco dias antes do dia da eleição, o governador civil de Lisboa lavrará o alvará de nomeação dos membros da mesa da assembleia de recolha e contagem de votos dos residentes no estrangeiro.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Constituição da mesa)
 
 Após a constituição da mesa, será logo afixado à porta principal do edifício do Governo Civil de Lisboa um edital, assinado pelo presidente, contendo os nomes dos cidadãos que formam a mesa e o número de eleitores inscritos no estrangeiro.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Cadernos eleitorais)
 
 Logo que definida a assembleia de recolha e contagem de votos dos residentes no estrangeiro, o Ministério dos Negócios Estrangeiros providenciará pela extracção de cópias ou fotocópias dos cadernos de recenseamento em número suficiente para ser entregue uma cópia ou fotocópia a cada um dos escrutinadores e a cada um dos delegados das listas.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Outros elementos de trabalho da mesa)
 
 O governador civil de Lisboa enviará ao presidente da assembleia de recolha e contagem de votos dos residentes no estrangeiro um caderno destinado às actas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.
 
-###### ARTIGO 16.
+ARTIGO 16.
 
 (Requisitos do exercício do direito de voto)
 
 Para que o eleitor seja admitido a votar deverá estar inscrito no caderno eleitoral existente no consulado de carreira ou secção consular a que pertence a localidade onde reside.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Remessa dos boletins de voto)
 
@@ -219,19 +235,19 @@ Para que o eleitor seja admitido a votar deverá estar inscrito no caderno eleit
 
 4. Um dos envelopes, de cor verde, destina-se a receber o boletim de voto e não conterá quaisquer indicações; o outro envelope, branco e de tamanho maior, de forma a conter o envelope do boletim de voto, terá impressos, na face, os dizeres «Assembleia de recolha e contagem de votos dos residentes no estrangeiro - Governo Civil de Lisboa» e o endereço deste, sendo inscritos no verso o nome e a morada do eleitor.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Modo como vota o eleitor no estrangeiro)
 
 O eleitor marcará com uma cruz, no quadrado respectivo, a lista em que vota e dobrará o boletim em quatro, introduzindo-o, depois, no envelope verde, que fechará. O envelope verde, devidamente fechado, será introduzido no envelope branco, que o eleitor remeterá, igualmente fechado, o mais tardar no dia da eleição e pela via postal, ao Governo Civil de Lisboa.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Voto em branco ou nulo)
 
 Para além dos casos consignados na lei eleitoral, corresponderá a voto branco ou nulo o boletim de voto que não chegue ao seu destino nas condições previstas nos artigos anteriores ou envelopes que não sejam recebidos devidamente fechados.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Operações da assembleia de recolha e contagem de votos)
 
@@ -249,13 +265,13 @@ Para além dos casos consignados na lei eleitoral, corresponderá a voto branco 
 
 7. Seguidamente, observar-se-á o disposto no artigo 103.º, n.os 3 e 4, e no artigo 104.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro (Lei Eleitoral - 2.ª parte).
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Apuramento geral do círculo eleitoral dos residentes no estrangeiro)
 
 O apuramento da eleição no círculo dos residentes no estrangeiro e a proclamação dos candidatos eleitos competem à assembleia de apuramento geral, a qual iniciará os seus trabalhos uma vez terminadas as operações de apuramento geral do círculo de Lisboa, no edifício do Governo Civil.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Legislação aplicável)
 
@@ -265,8 +281,8 @@ Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Joaqu
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 4 de Março de 1975.**
+Promulgado em 4 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

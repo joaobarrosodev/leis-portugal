@@ -49,36 +49,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49106-1969-199626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a82a7a8e2329c3d60e8fb2b6825d47811a96ff103c5455269c49bb4642b948f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa8cac4782d4950ae547e8a97416d60123381caea298393ba62d9aaf9fb0b451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe do Estado Maior General das Forças Armadas
+- Definição de Competências
+- Forças Armadas
+- Ministro da Defesa Nacional
+- Secretariado Geral da Defesa Nacional
+relationships:
+- type: cites
+  target: pt:dre:501979:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:56Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +102,9 @@ Considerando que em tais condições importa que o Ministro da Defesa Nacional d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passam a ter a redacção que se indica o corpo do artigo 1.º, a alínea d) do artigo 2.º e os artigos 9.º e 22.º do [Decreto-Lei n.º 43077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43077-1960-501979), de 18 de Julho de 1960:
+Artigo 1.º Passam a ter a redacção que se indica o corpo do artigo 1.º, a alínea d) do artigo 2.º e os artigos 9.º e 22.º do [Decreto-Lei n.º 43077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43077-1960-501979), de 18 de Julho de 1960:
 
-###### Artigo 1.º O Ministro da Defesa Nacional por delegação do Presidente do Conselho é responsável pela coordenação e direcção de todas as actividades fundamentais de preparação e condução da defesa militar e da defesa civil, nomeadamente as mencionadas nos artigos 5.º e 6.º do presente diploma, competindo-lhe, tendo em conta as prioridades estabelecidas para o esforço de defesa:
+Artigo 1.º O Ministro da Defesa Nacional por delegação do Presidente do Conselho é responsável pela coordenação e direcção de todas as actividades fundamentais de preparação e condução da defesa militar e da defesa civil, nomeadamente as mencionadas nos artigos 5.º e 6.º do presente diploma, competindo-lhe, tendo em conta as prioridades estabelecidas para o esforço de defesa:
 
 a) Dar directivas gerais para a realização em todo o território nacional da política de defesa militar definida pelo Governo;
 
@@ -113,7 +122,7 @@ g) Promover a eficiente gestão financeira das forças armadas, coordenar os pro
 
 h) Requisitar a cada um dos três ramos das forças armadas o pessoal necessário para o preenchimento dos quadros dos órgãos na sua dependência.
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
@@ -121,7 +130,7 @@ d) Chefe do Estado-Maior da Força Aérea: por portaria conjunta do Ministro da 
 
 ...
 
-###### Art. 9.º O chefe do Estado-Maior-General das Forças Armadas é o conselheiro técnico do Ministro da Defesa Nacional e superintende na execução das suas decisões em relação aos três ramos das forças armadas e à organização da defesa civil. Compete-lhe, em especial:
+Art. 9.º O chefe do Estado-Maior-General das Forças Armadas é o conselheiro técnico do Ministro da Defesa Nacional e superintende na execução das suas decisões em relação aos três ramos das forças armadas e à organização da defesa civil. Compete-lhe, em especial:
 
 a) Responder perante o Presidente do Conselho e o Ministro da Defesa Nacional pela preparação e conduta militar do conjunto das operações, estabelecendo para os convenientes efeitos operacionais e informativos as ligações directas com os comandos referidos no artigo 2.º deste diploma;
 
@@ -139,15 +148,15 @@ g) Comandar as forças em operações ou a elas destinadas exercendo a sua acç�
 
 ...
 
-###### Art. 22.º O chefe do Estado-Maior-General das Forças Armadas, é hieràrquicamente superior a todos os oficiais generais de terra, mar e ar e usará os emblemas e distintivos estabelecidos, dispondo de dois ajudantes de campo, oficiais do Exército, da Armada e da Força Aérea, de preferência com o curso de estado-maior.
+Art. 22.º O chefe do Estado-Maior-General das Forças Armadas, é hieràrquicamente superior a todos os oficiais generais de terra, mar e ar e usará os emblemas e distintivos estabelecidos, dispondo de dois ajudantes de campo, oficiais do Exército, da Armada e da Força Aérea, de preferência com o curso de estado-maior.
 
-###### Art. 2.º Como órgão de trabalho e de execução do Ministro da Defesa Nacional, o Secretariado-Geral da Defesa Nacional será remodelado de modo a constituir o Estado-Maior-General das Forças Armadas e o órgão de serviços destinados à administração conjunta das forças armadas.
+Art. 2.º Como órgão de trabalho e de execução do Ministro da Defesa Nacional, o Secretariado-Geral da Defesa Nacional será remodelado de modo a constituir o Estado-Maior-General das Forças Armadas e o órgão de serviços destinados à administração conjunta das forças armadas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo.
 
-**Promulgado em 25 de Junho de 1969.**
+Promulgado em 25 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

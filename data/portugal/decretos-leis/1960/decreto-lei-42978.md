@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42978-1960-505203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2b174a99431b22f5122295992fdc0ce214d8c50438087fc914f96dc39db311d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24f9ffc02b788344765ba1efd0d9b5f5aad320bd4888bc85c62bb97a1af1c356
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armador
+- Higiene do Trabalho
+- Marinha Mercante
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:312011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554605:por
+  label: "Dada nova redacção ao art. 9º pelo DEC LEI.43509.16.02.1961.MMAR, DG.IS [40] de 16.02.1961\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43509-1961-554605
+  date: '1961-02-16'
+- type: amended_by
+  target: pt:dre:312011:por
+  label: "Alterado o art. 7.º pelo DEC LEI.47763.24.06.1967.MMAR, DG.IS [146] de 24.06.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47763-1967-312011
+  date: '1967-06-24'
+- type: cites
+  target: pt:dre:158934:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:20Z'
   warnings: []
   errors: []
 ---
@@ -91,27 +109,27 @@ Considerando que a ratificação da Convenção n.º 68 da Organização Geral d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São integrados em direito interno, para serem aplicados a todos os navios de mar, os princípios contidos na Convenção n.º 68 da Conferência Internacional do Trabalho, entendendo-se que, para efeitos deste diploma, se consideram navios de mar as embarcações que se destinam a navegar no mar em exercício de comércio.
+Artigo 1.º São integrados em direito interno, para serem aplicados a todos os navios de mar, os princípios contidos na Convenção n.º 68 da Conferência Internacional do Trabalho, entendendo-se que, para efeitos deste diploma, se consideram navios de mar as embarcações que se destinam a navegar no mar em exercício de comércio.
 
-###### Art. 2.º Todos os navios devem estar convenientemente abastecidos e ter cozinhas que permitam fornecer e servir as refeições aos membros da tripulação, de acordo com as viagens que vão efectuar e as tabelas de racionamento anexas ao presente decreto-lei.
+Art. 2.º Todos os navios devem estar convenientemente abastecidos e ter cozinhas que permitam fornecer e servir as refeições aos membros da tripulação, de acordo com as viagens que vão efectuar e as tabelas de racionamento anexas ao presente decreto-lei.
 
-###### Art. 3.º Para os serviços de mesa e cozinha serão nomeados inscritos marítimos devidamente habilitados a desempenhar tais funções nos termos dos Decretos-Leis n.os 23764, de 13 de Abril de 1934, e 41643, de 23 de Maio de 1958.
+Art. 3.º Para os serviços de mesa e cozinha serão nomeados inscritos marítimos devidamente habilitados a desempenhar tais funções nos termos dos Decretos-Leis n.os 23764, de 13 de Abril de 1934, e 41643, de 23 de Maio de 1958.
 
 § 1.º As refeições da marinhagem deverão ser servidas por um tripulante da secção de câmaras (criado), que será responsável não só por este serviço como também pela limpeza, arrumação e conservação dos respectivos refeitórios e de todo o material que lhe for entregue, bem como pela higiene das instalações e corredores anexos e salas de estar, quando as haja.
 
 § 2.º Ao tripulante da secção de câmaras (criado) encarregado do serviço de mesa, além das determinações indicadas no parágrafo anterior, cabe também a responsabilidade do serviço parcelar ou individual de todas as comidas e bebidas das refeições diárias, do extravio ou estrago de alimentos e da guarda em local apropriado do que não for consumido.
 
-###### Art. 4.º Compete à autoridade marítima, pelos médicos ao seu serviço, assegurar a inspecção à qualidade e quantidade das refeições fornecidas, bem como aos locais, instalações e utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.
+Art. 4.º Compete à autoridade marítima, pelos médicos ao seu serviço, assegurar a inspecção à qualidade e quantidade das refeições fornecidas, bem como aos locais, instalações e utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.
 
-###### Art. 5.º Os médicos encarregados da inspecção a que se refere o artigo anterior têm o direito de ir a bordo de qualquer embarcação como delegados da autoridade marítima e de fazer recomendações com o fim de melhorar o nível do serviço de cozinha e de mesa, cumprindo ao proprietário, capitão ou armador facilitar a inspecção com a minúcia julgada indispensável e facultar sem qualquer restrição todos os documentos que lhe forem pedidos, incluindo os papéis de bordo.
+Art. 5.º Os médicos encarregados da inspecção a que se refere o artigo anterior têm o direito de ir a bordo de qualquer embarcação como delegados da autoridade marítima e de fazer recomendações com o fim de melhorar o nível do serviço de cozinha e de mesa, cumprindo ao proprietário, capitão ou armador facilitar a inspecção com a minúcia julgada indispensável e facultar sem qualquer restrição todos os documentos que lhe forem pedidos, incluindo os papéis de bordo.
 
-###### Art. 6.º Os médicos são obrigados a apresentar à autoridade marítima relatório circunstanciado das inspecções que efectuarem, quer ordinárias, quer extraordinárias.
+Art. 6.º Os médicos são obrigados a apresentar à autoridade marítima relatório circunstanciado das inspecções que efectuarem, quer ordinárias, quer extraordinárias.
 
-###### Art. 7.º Sempre que haja queixa formulada pelo Grémio dos Armadores ou pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação Marítima, deve a autoridade marítima determinar uma inspecção extraordinária.
+Art. 7.º Sempre que haja queixa formulada pelo Grémio dos Armadores ou pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação Marítima, deve a autoridade marítima determinar uma inspecção extraordinária.
 
 § único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a saída do navio.
 
-###### Art. 8.º No mar, o capitão ou um oficial especialmente designado por ele deve proceder a inspecções periódicas, pelo menos semanalmente, acompanhado por um membro responsável do pessoal da secção de câmaras:
+Art. 8.º No mar, o capitão ou um oficial especialmente designado por ele deve proceder a inspecções periódicas, pelo menos semanalmente, acompanhado por um membro responsável do pessoal da secção de câmaras:
 
 a) Às provisões dos víveres e da água;
 
@@ -121,7 +139,7 @@ b) A todos os locais e utensílios empregados no armazenamento e manipulação d
 
 § 2.º Cópias dos relatórios destas inspecções devem ser entregues no fim da viagem às autoridades marítimas, juntamente com os demais papéis de bordo.
 
-###### Art. 9.º Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.
+Art. 9.º Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.
 
 § único. Do relatório anual serão extraídas cópias para:
 
@@ -135,7 +153,7 @@ d) O Grémio dos Armadores;
 
 e) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.
 
-###### Art. 10.º Estão sujeitos às penalidades previstas no artigo 49.º do Código Penal e Disciplinar da Marinha Mercante os tripulantes que cometam qualquer das seguintes faltas:
+Art. 10.º Estão sujeitos às penalidades previstas no artigo 49.º do Código Penal e Disciplinar da Marinha Mercante os tripulantes que cometam qualquer das seguintes faltas:
 
 a) Que dificultem ou tentem dificultar a inspecção a que se refere o artigo 5.º;
 
@@ -151,11 +169,11 @@ f) Que aproveitem o refeitório para outros fins, salvo se o navio não possuir 
 
 g) Que sem autorização superior convidem ou recebam pessoas estranhas no refeitório ou na sala de marinhagem.
 
-###### Art. 11.º A inobservância das disposições deste diploma, quando da responsabilidade dos armadores, fará incorrer estes nas multas de 500$00 a 50000$00, aplicáveis pela autoridade marítima.
+Art. 11.º A inobservância das disposições deste diploma, quando da responsabilidade dos armadores, fará incorrer estes nas multas de 500$00 a 50000$00, aplicáveis pela autoridade marítima.
 
-###### Art. 12.º Fica revogada a legislação em contrário, designadamente o [Decreto n.º 12384](https://diariodarepublica.pt/dr/detalhe/decreto/12384-1926-158934), de 27 de Setembro de 1926.
+Art. 12.º Fica revogada a legislação em contrário, designadamente o [Decreto n.º 12384](https://diariodarepublica.pt/dr/detalhe/decreto/12384-1926-158934), de 27 de Setembro de 1926.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -199,7 +217,7 @@ II
 
 Para a confecção das refeições serão distribuídos os seguintes géneros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/11300/10761077.pdf))](https://files.diariodarepublica.pt/1s/1960/05/11300/10761077.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/11300/10761077.pdf)
 
 Observações
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 44/1968, 1º Suplemento, Série I de 1968-02-21
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 280 - 282
   pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04401/02800282.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48256-1968-143550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3087a27cb6046b80788d3fb83372eb06ce4454d05095b56bffa48c406c2c045
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d2056c0b3ac55c81f5b2538eb924b64a0cc6425a88acc08a4a7628f355dd9d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Marinha
+- Militar
+- Reserva
+- Serviço Militar
+relationships:
+- type: cites
+  target: pt:dre:251581:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:27Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +94,9 @@ Dada a conveniência de alterar o [Decreto-Lei n.º 41399](https://diariodarepub
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 4.º e 5.º, o § 1.º do artigo 9.º, os §§ 1.º e 2.º do artigo 10.º, o § 2.º do artigo 11.º, o artigo 13.º, a alínea c) do artigo 18.º e os artigos 22.º e 23.º do [Decreto-Lei n.º 41399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41399-1957-251581) tomam as redacções seguintes:
+Artigo 1.º Os artigos 2.º, 4.º e 5.º, o § 1.º do artigo 9.º, os §§ 1.º e 2.º do artigo 10.º, o § 2.º do artigo 11.º, o artigo 13.º, a alínea c) do artigo 18.º e os artigos 22.º e 23.º do [Decreto-Lei n.º 41399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41399-1957-251581) tomam as redacções seguintes:
 
-###### Art. 2.º As reservas da Marinha em pessoal compreendem:
+Art. 2.º As reservas da Marinha em pessoal compreendem:
 
 I) Reserva da Armada ou reserva A, constituída:
 
@@ -130,15 +138,15 @@ IV) Reserva legionária ou reserva L, constituída pelos filiados na Brigada Nav
 
 ...
 
-###### Art. 4.º Os serviços do pessoal das reservas da Marinha funcionam na Direcção do Serviço do Pessoal.
+Art. 4.º Os serviços do pessoal das reservas da Marinha funcionam na Direcção do Serviço do Pessoal.
 
-###### Art. 5.º A Direcção do Serviço do Pessoal efectuará e manterá em dia o registo, ordenamento e classificação do pessoal das reservas, separadamente para cada uma delas, e comunicará ao Ministério do Exército o movimento de pessoal que ao mesmo interesse.
+Art. 5.º A Direcção do Serviço do Pessoal efectuará e manterá em dia o registo, ordenamento e classificação do pessoal das reservas, separadamente para cada uma delas, e comunicará ao Ministério do Exército o movimento de pessoal que ao mesmo interesse.
 
 § único. Para os fins indicados neste artigo, as capitanias dos portos, a Escola Náutica, a Escola de Marinheiros e de Mecânicos da Marinha Mercante, as escolas de pesca, a Brigada Naval da Legião Portuguesa e todos os organismos oficiais que utilizem pessoal que faça parte das reservas da Marinha enviarão à Direcção do Serviço do Pessoal, anualmente e até ao dia 31 de Maio, os elementos necessários, em conformidade com as instruções dimanadas dessa Direcção.
 
 ...
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 § 1.º As habilitações complementares exigidas para cada classe da reserva N e que são requeridas aos indivíduos a alistar nesta reserva são fixadas por despacho do Ministro da Marinha.
 
@@ -146,7 +154,7 @@ IV) Reserva legionária ou reserva L, constituída pelos filiados na Brigada Nav
 
 § 3.º ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 1.º Para efeitos de actualização de conhecimentos podem os reservistas ser convocados individualmente ou por grupos por portaria do Ministro da Marinha, fundamentada em proposta do chefe do Estado-Maior da Armada.
 
@@ -154,7 +162,7 @@ IV) Reserva legionária ou reserva L, constituída pelos filiados na Brigada Nav
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 § 1.º ...
 
@@ -162,11 +170,11 @@ IV) Reserva legionária ou reserva L, constituída pelos filiados na Brigada Nav
 
 § 3.º ...
 
-###### Art. 13.º Antes da incorporação na Armada ou da chamada à efectividade do serviço os reservistas serão sujeitos a inspecção de juntas médicas, a fim de se ajuizar da sua capacidade física para o serviço da Armada.
+Art. 13.º Antes da incorporação na Armada ou da chamada à efectividade do serviço os reservistas serão sujeitos a inspecção de juntas médicas, a fim de se ajuizar da sua capacidade física para o serviço da Armada.
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 a) ...
 
@@ -186,13 +194,13 @@ d) ...
 
 ...
 
-###### Art. 22.º Quando eventualmente, em caso de requisição de material, convenha que o pessoal que nele ou com ele trabalhe continue nas suas funções, este, mesmo que não esteja incluído em quaisquer das reservas indicadas no artigo 2.º, será automàticamente convocado pela Direcção do Serviço do Pessoal, que comunicará ao Ministério do Exército o seu alistamento temporário, tratando-se de indivíduos ainda não alistados noutro ramo das forças armadas. No caso de pessoal já alistado, que esteja ou não na efectividade do serviço, será individualmente solicitada a sua apresentação para alistamento temporário, salvo nos casos urgentes que obriguem à sua utilização imediata, os quais deverão ser comunicados prontamente.
+Art. 22.º Quando eventualmente, em caso de requisição de material, convenha que o pessoal que nele ou com ele trabalhe continue nas suas funções, este, mesmo que não esteja incluído em quaisquer das reservas indicadas no artigo 2.º, será automàticamente convocado pela Direcção do Serviço do Pessoal, que comunicará ao Ministério do Exército o seu alistamento temporário, tratando-se de indivíduos ainda não alistados noutro ramo das forças armadas. No caso de pessoal já alistado, que esteja ou não na efectividade do serviço, será individualmente solicitada a sua apresentação para alistamento temporário, salvo nos casos urgentes que obriguem à sua utilização imediata, os quais deverão ser comunicados prontamente.
 
-###### Art. 23.º Os assuntos relativos ao pessoal das reservas da marinha, quando seja convocado ou mobilizado para serviço, são tratados pelas repartições da Direcção do Serviço do Pessoal a que competem os assuntos do pessoal do quadro do activo de idêntica categoria.
+Art. 23.º Os assuntos relativos ao pessoal das reservas da marinha, quando seja convocado ou mobilizado para serviço, são tratados pelas repartições da Direcção do Serviço do Pessoal a que competem os assuntos do pessoal do quadro do activo de idêntica categoria.
 
-###### Art. 2.º São eliminados o § 3.º do artigo 10.º e o § único do artigo 18.º do mesmo decreto-lei.
+Art. 2.º São eliminados o § 3.º do artigo 10.º e o § único do artigo 18.º do mesmo decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

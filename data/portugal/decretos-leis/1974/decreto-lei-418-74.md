@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1974-474743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8502a884dd600ead83229b4a34b91dd1137a96c779bc92ca80bb084f7cc0010e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69b0459113f3b06117eb2a3fee1b72f2950aefab408da626e9ef2aa4ba314e38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de BENS
+- Direcção Geral de Segurança
+- Extinção de Serviços
+relationships:
+- type: cites
+  target: pt:dre:523191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:25Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +104,22 @@ Considerando que enquanto tais processos não forem definitivamente julgados se 
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São declarados inalienáveis e por qualquer título intransmissíveis, enquanto não se fixar definitivamente a responsabilidade dos seus proprietários nos processos instaurados na sequência da extinção da Direcção-Geral de Segurança, as coisas imóveis que sejam propriedade de quaisquer membros daquela extinta organização policial.
+Artigo 1.º São declarados inalienáveis e por qualquer título intransmissíveis, enquanto não se fixar definitivamente a responsabilidade dos seus proprietários nos processos instaurados na sequência da extinção da Direcção-Geral de Segurança, as coisas imóveis que sejam propriedade de quaisquer membros daquela extinta organização policial.
 
-###### Art. 2.º Os proprietários e os detentores das coisas imóveis referidas no artigo 1.º são constituídos seus fiéis depositários até que venha a ser autorizada a sua livre disposição.
+Art. 2.º Os proprietários e os detentores das coisas imóveis referidas no artigo 1.º são constituídos seus fiéis depositários até que venha a ser autorizada a sua livre disposição.
 
-###### Art. 3.º - 1. Os conservadores do registo predial e os chefes das repartições de finanças remeterão ao Ministério da Defesa Nacional, no prazo de trinta dias, a contar da publicação deste decreto-lei, uma relação especificada de todas as coisas imóveis inscritas naqueles serviços em nome das pessoas a que se reporta o artigo 1.º
+Art. 3.º - 1. Os conservadores do registo predial e os chefes das repartições de finanças remeterão ao Ministério da Defesa Nacional, no prazo de trinta dias, a contar da publicação deste decreto-lei, uma relação especificada de todas as coisas imóveis inscritas naqueles serviços em nome das pessoas a que se reporta o artigo 1.º
 
 2. Para o efeito do número anterior, a Direcção-Geral dos Registos e do Notariado e a Direcção-Geral da Fazenda Pública fornecerão, no prazo de oito dias, os elementos necessários ao cumprimento daquela medida.
 
-###### Art. 4.º A inobservância do preceituado no artigo 1.º será punida nos termos do artigo 453.º do Código Penal, sem prejuízo da nulidade dos respectivos actos ou contratos praticados ou celebrados com infracção daquele artigo, e das responsabilidades civis a que houver lugar.
+Art. 4.º A inobservância do preceituado no artigo 1.º será punida nos termos do artigo 453.º do Código Penal, sem prejuízo da nulidade dos respectivos actos ou contratos praticados ou celebrados com infracção daquele artigo, e das responsabilidades civis a que houver lugar.
 
-###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+Art. 5.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - José da Silva Lopes.
 
-**Promulgado em 26 de Agosto de 1974.**
+Promulgado em 26 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

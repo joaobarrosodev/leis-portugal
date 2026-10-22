@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa125bf263058a60be008f6276a4facbad4db588651b8984cf005916c6d9dbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c4376b309704ae5ca3b872077345104f25b596f0a079dd00e32720f1c9a29e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Transitária
+- Circulação de Mercadorias
+- Circulação de Pessoas
+- Regime Jurídico
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Internacional
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:250664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676625:por
+  label: "Alterados a al. a) do n.º 1 do art. 2.º, o art. 15.º e a al. a) do n.º 1 do art. 19.º pelo DEC LEI.330/72.22.08.1972.MCOMN,\
+    \ DG.IS [195] de 22.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1972-676625
+  date: '1972-08-22'
+- type: amended_by
+  target: pt:dre:161130:por
+  label: "Alterados os arts. 2º, 14º, 15º, 16º, 17º, 18º, 19º, 20º, 21º e 23º e revogado o art. 7º do presente diploma, pelo\
+    \ DEC LEI.136/75.17.03.1975.MESA, DG.IS [64] de 17.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1975-161130
+  date: '1975-03-17'
+- type: cites
+  target: pt:dre:155190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628297:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:410729:por
+  label: "Rectificado [no referente ao art. 10º] pela RECT.DD355.18.01.1972.PR, DG.IS [14-Supl] de 18.01.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-410729
+  date: '1972-01-18'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO NA PARTE APLICÁVEL AO TRANSPORTE PÚBLICO DE PASSAGEIROS, SALVO O DISPOSTO QUANTO AO REGIME FISCAL E AOS\
+    \ TRANSPORTES DESTINADOS A REALIZAÇÃO DE VIAGENS TURÍSTICAS COLECTIVAS, PELO DECRETO LEI 53/92, PUBLICADO NO DR.IS-A,\
+    \ 86, DE 920411. REVOGADO NA PARTE APLICÁVEL AOS TRANSPORTES DE MERCADORIAS, PELO DECRETO LEI 279-A/92, PUBLICADO NO DR.IS-A,\
+    \ 290 SUPL, DE 921217.\0SUPL, DE 921217.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:251601:por
+  label: "Revogado o art. 19º pela LEI.27/77.09.05.1977.AR, DR.IS [107] de 09.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-1977-251601
+  date: '1977-05-09'
+- type: repealed_by
+  target: pt:dre:250664:por
+  label: "Revogado o art. 14º, pelo DEC LEI.116/94.1994.05.03.MF, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1994-250664
+  date: '1994-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:32Z'
   warnings: []
   errors: []
 ---
@@ -171,13 +241,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I - Disposições gerais
 
-###### Artigo 1.º - 1. Os transportes internacionais rodoviários ficam sujeitos ao regime instituído por este diploma, destinado a vigorar no espaço metropolitano continental.
+Artigo 1.º - 1. Os transportes internacionais rodoviários ficam sujeitos ao regime instituído por este diploma, destinado a vigorar no espaço metropolitano continental.
 
 2. Consideram-se transportes internacionais os que, implicando atravessamento de fronteiras, se desenvolvam parcialmente em território português.
 
 3. O disposto neste diploma e seus regulamentos aplicar-se-á sem prejuízo das convenções internacionais subscritas pelo Governo Português.
 
-###### Art. 2.º - 1. O regime do presente diploma aplicar-se-á apenas:
+Art. 2.º - 1. O regime do presente diploma aplicar-se-á apenas:
 
 a) Aos transportes de passageiros efectuados em veículos especialmente adaptados ao deslocamento de pessoas e que comportem, além do lugar do condutor, um mínimo de oito lugares sentados;
 
@@ -187,11 +257,11 @@ c) Aos deslocamentos em vazio dos veículos referidos nas alíneas anteriores qu
 
 2. Aplicar-se-á supletivamente aos transportes referidos no número anterior a regulamentação dos transportes internos em tudo o que se harmonize com o disposto no presente diploma e seus regulamentos.
 
-###### Art. 3.º - 1. Sem prejuízo do disposto nos artigos seguintes, serão fixadas em decreto do Ministro das Comunicações as normas a que ficarão sujeitos os transportes internacionais rodoviários, no tocante ao acesso, organização e harmonização do mercado respectivo.
+Art. 3.º - 1. Sem prejuízo do disposto nos artigos seguintes, serão fixadas em decreto do Ministro das Comunicações as normas a que ficarão sujeitos os transportes internacionais rodoviários, no tocante ao acesso, organização e harmonização do mercado respectivo.
 
 2. As normas a que se refere o número anterior tomarão em linha de conta a necessidade de desenvolver a capacidade e organização dos transportadores rodoviários portugueses no tocante à realização de transportes internacionais, tendo em vista o progressivo incremento das relações económicas com os demais países europeus e o estabelecimento de uma adequada coordenação de transportes.
 
-###### Art. 4.º - 1. Os transportes internacionais classificar-se-ão em públicos e particulares, em termos análogos aos definidos na legislação vigente para os transportes internos.
+Art. 4.º - 1. Os transportes internacionais classificar-se-ão em públicos e particulares, em termos análogos aos definidos na legislação vigente para os transportes internos.
 
 2. Em regulamento definir-se-ão com precisão, para efeitos da instituição do regime jurídico mais adequado às respectivas características:
 
@@ -213,7 +283,7 @@ f) Os transportes de mercadorias de curta e longa distância.
 
 5. Com excepção dos transportes turísticos, só poderão explorar transportes públicos internacionais os transportadores residentes que constituam empresas nacionais, nos termos definidos pelo artigo 22.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
-###### Art. 5.º - 1. Os transportes regulares de passageiros não turísticos, quando explorados por transportadores residentes, serão objecto de concessão de serviço público, a outorgar pelo Ministro das Comunicações.
+Art. 5.º - 1. Os transportes regulares de passageiros não turísticos, quando explorados por transportadores residentes, serão objecto de concessão de serviço público, a outorgar pelo Ministro das Comunicações.
 
 2. Cada concessão terá como objecto a exploração de determinada linha de transporte regular internacional, definida no acto de outorga da concessão.
 
@@ -223,13 +293,13 @@ f) Os transportes de mercadorias de curta e longa distância.
 
 5. Em cada região será reconhecida, para este efeito, uma única sociedade, a qual deverá concentrar empresas que, conjuntamente, explorem no mínimo 50 por cento dos quilómetros da rede de transportes colectivos internos concedidos na região.
 
-###### Art. 6.º Exceptuam-se do disposto no n.º 4 do artigo anterior os transportes regulares fronteiriços, que serão em regra explorados por concessionários de transportes colectivos rodoviários internos de passageiros e, supletivamente, pelas empresas referidas no mesmo número.
+Art. 6.º Exceptuam-se do disposto no n.º 4 do artigo anterior os transportes regulares fronteiriços, que serão em regra explorados por concessionários de transportes colectivos rodoviários internos de passageiros e, supletivamente, pelas empresas referidas no mesmo número.
 
-###### Art. 7.º As condições de exploração dos transportes referidos nos artigos 5.º e 6.º, quando classificados de concorrentes ao caminho de ferro, deverão ser objecto de acordos a celebrar entre as entidades que os explorem e a concessionária da rede ferroviária nacional, sujeitos a homologação do Ministro das Comunicações, o qual poderá, na falta de acordo ou quando ele não for homologado, definir por despacho tais condições.
+Art. 7.º As condições de exploração dos transportes referidos nos artigos 5.º e 6.º, quando classificados de concorrentes ao caminho de ferro, deverão ser objecto de acordos a celebrar entre as entidades que os explorem e a concessionária da rede ferroviária nacional, sujeitos a homologação do Ministro das Comunicações, o qual poderá, na falta de acordo ou quando ele não for homologado, definir por despacho tais condições.
 
-###### Art. 8.º Os transportes turísticos internacionais atribuídos a transportadores residentes só poderão ser explorados pelas agências de viagens, isoladamente ou em colaboração com empresas transportadoras, nos termos a definir em regulamento.
+Art. 8.º Os transportes turísticos internacionais atribuídos a transportadores residentes só poderão ser explorados pelas agências de viagens, isoladamente ou em colaboração com empresas transportadoras, nos termos a definir em regulamento.
 
-###### Art. 9.º - 1. O acesso ao mercado dos transportes internacionais públicos de mercadorias por transportadores residentes depende de licença a conceder pelo Ministro das Comunicações.
+Art. 9.º - 1. O acesso ao mercado dos transportes internacionais públicos de mercadorias por transportadores residentes depende de licença a conceder pelo Ministro das Comunicações.
 
 2. As licenças serão atribuídas a industriais de transportes internos de mercadorias em regime de aluguer de comprovada idoneidade, ou a empresas especialmente constituídas para o efeito, desde que nelas participem os referidos industriais.
 
@@ -237,9 +307,9 @@ f) Os transportes de mercadorias de curta e longa distância.
 
 4. Serão objecto de licenciamento especial os veículos a utilizar na realização dos transportes referidos no n.º 1 pelos transportadores mencionados no n.º 2, podendo em regulamento ser condicionada a outorga de tais licenças, nomeadamente com vista à limitação quantitativa da capacidade de transporte do parque de veículos.
 
-###### Art. 10.º A realização de transportes internacionais particulares de mercadorias carece de autorização prévia.
+Art. 10.º A realização de transportes internacionais particulares de mercadorias carece de autorização prévia.
 
-###### Art. 11.º - 1. A realização de transportes internacionais por transportadores não residentes carece de autorização.
+Art. 11.º - 1. A realização de transportes internacionais por transportadores não residentes carece de autorização.
 
 2. O princípio da autorização prévia poderá ser derrogado, nos termos a definir em regulamento, em conformidade com as recomendações ou resoluções de organismos internacionais em que o Governo Português se encontre representado, no tocante a transportes de características especiais.
 
@@ -247,7 +317,7 @@ f) Os transportes de mercadorias de curta e longa distância.
 
 4. Os transportadores não residentes não poderão efectuar transportes rodoviários entre pontos situados em território português.
 
-###### Art. 12.º A regulamentação da entrada em vazio de veículos pertencentes a transportadores não residentes para a realização de transportes com origem em território português deverá tomar em consideração:
+Art. 12.º A regulamentação da entrada em vazio de veículos pertencentes a transportadores não residentes para a realização de transportes com origem em território português deverá tomar em consideração:
 
 a) A situação conjuntural do mercado dos transportes internacionais, designadamente no que se refere à suficiência e adequação da capacidade oferecida pelos transportadores residentes;
 
@@ -259,7 +329,7 @@ d) Quanto aos transportes turísticos, a política nacional de turismo definida;
 
 e) Quanto ao transporte de mercadorias, a situação conjuntural das actividades exportadoras nacionais.
 
-###### Art. 13.º A regulamentação do presente diploma deverá ainda conter as disposições relativas:
+Art. 13.º A regulamentação do presente diploma deverá ainda conter as disposições relativas:
 
 a) Às modalidades de licenciamento dos veículos e sua cumulação com o licenciamento para transportes internos;
 
@@ -279,7 +349,7 @@ h) Às taxas a cobrar pela emissão das licenças e autorizações previstas.
 
 II - Impostos
 
-###### Art. 14.º - 1. Os transportadores residentes que efectuem transportes internacionais pagarão apenas os impostos fixados para os transportes internos.
+Art. 14.º - 1. Os transportadores residentes que efectuem transportes internacionais pagarão apenas os impostos fixados para os transportes internos.
 
 2. O cálculo do imposto de camionagem a pagar pela realização de transportes regulares não turísticos de passageiros será feito com base apenas no percurso efectuado em território nacional.
 
@@ -287,7 +357,7 @@ II - Impostos
 
 4. Para efeitos da aplicação dos n.os 1 e 3 do presente artigo, consideram-se os veículos licenciados exclusivamente para transportes internacionais públicos de mercadorias como não sujeitos a qualquer limite de raio de acção.
 
-###### Art. 15.º Os transportadores não residentes de passageiros ficam sujeitos a um imposto diário sobre o veículo, com o montante previsto na tabela seguinte:
+Art. 15.º Os transportadores não residentes de passageiros ficam sujeitos a um imposto diário sobre o veículo, com o montante previsto na tabela seguinte:
 
 Lotação superior a oito e inferior ou igual a vinte lugares ... 50$00
 
@@ -295,7 +365,7 @@ Lotação superior a vinte e inferior ou igual a quarenta lugares ... 75$00
 
 Lotação superior a quarenta lugares ... 100$00
 
-###### Art. 16.º Os transportadores não residentes que efectuem transportes regulares de passageiros não turísticos, além do imposto sobre o veículo previsto no artigo anterior, pagarão um imposto calculado pelas fórmulas seguintes:
+Art. 16.º Os transportadores não residentes que efectuem transportes regulares de passageiros não turísticos, além do imposto sobre o veículo previsto no artigo anterior, pagarão um imposto calculado pelas fórmulas seguintes:
 
 a) Concorrentes:
 
@@ -315,7 +385,7 @@ p = percurso, em quilómetros, da viagem simples efectuada em território portug
 
 n = número total de viagens simples por mês.
 
-###### Art. 17.º Os transportadores não residentes de mercadorias ficam sujeitos a um imposto diário sobre o veículo, calculado pela fórmula seguinte:
+Art. 17.º Os transportadores não residentes de mercadorias ficam sujeitos a um imposto diário sobre o veículo, calculado pela fórmula seguinte:
 
 I = p x 22$50
 
@@ -325,9 +395,9 @@ I = imposto diário;
 
 p = peso máximo autorizado do veículo, em toneladas, arredondado até às décimas.
 
-###### Art. 18.º Pelos transportes em automóveis funerários sujeitos ao presente diploma será devido um imposto único sobre o veículo no montante de 120$00.
+Art. 18.º Pelos transportes em automóveis funerários sujeitos ao presente diploma será devido um imposto único sobre o veículo no montante de 120$00.
 
-###### Art. 19.º - 1. Os transportadores não residentes, pelos automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos pelo [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão, por dia de permanência em território português, um imposto de compensação com o montante previsto na tabela seguinte:
+Art. 19.º - 1. Os transportadores não residentes, pelos automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos pelo [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão, por dia de permanência em território português, um imposto de compensação com o montante previsto na tabela seguinte:
 
 a) Automóveis de passageiros:
 
@@ -343,28 +413,28 @@ Superior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada at
 
 2. No caso de veículos articulados e de conjuntos de veículos, o peso a considerar para o cálculo deste imposto compreenderá, além do peso máximo autorizado do veículo tractor, o peso máximo do reboque.
 
-###### Art. 20.º Sobre todos os impostos previstos neste diploma não incidem quaisquer adicionais.
+Art. 20.º Sobre todos os impostos previstos neste diploma não incidem quaisquer adicionais.
 
-###### Art. 21.º Com vista ao estabelecimento de igualdade, sob o ponto de vista fiscal, nas condições de concorrência entre transportadores residentes e não residentes, poderão prever-se, em acordos bilaterais, isenções ou reduções dos impostos estabelecidos neste diploma.
+Art. 21.º Com vista ao estabelecimento de igualdade, sob o ponto de vista fiscal, nas condições de concorrência entre transportadores residentes e não residentes, poderão prever-se, em acordos bilaterais, isenções ou reduções dos impostos estabelecidos neste diploma.
 
-###### Art. 22.º - 1. Os processos por infracções relativas impostos previstos nos artigos 15.º, 17.º, 18.º e 19.º regular-se-ão pelas disposições aplicáveis do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941, competindo aos serviços da Direcção-Geral das Alfândegas a resolução dos assuntos de natureza administrativa.
+Art. 22.º - 1. Os processos por infracções relativas impostos previstos nos artigos 15.º, 17.º, 18.º e 19.º regular-se-ão pelas disposições aplicáveis do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941, competindo aos serviços da Direcção-Geral das Alfândegas a resolução dos assuntos de natureza administrativa.
 
 2. Os processos graciosos e judiciais relativos ao imposto previsto no artigo 16.º regular-se-ão pelas disposições aplicáveis do Código de Processo das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963, competindo à Direcção-Geral de Transportes Terrestres a resolução dos assuntos de natureza administrativa.
 
-###### Art. 23.º O produto da cobrança dos impostos previstos neste diploma reverterá para as mesmas entidades e na mesma proporção que o proveniente dos impostos de camionagem, circulação e compensação que são devidos pelos transportes internos.
+Art. 23.º O produto da cobrança dos impostos previstos neste diploma reverterá para as mesmas entidades e na mesma proporção que o proveniente dos impostos de camionagem, circulação e compensação que são devidos pelos transportes internos.
 
 III - Disposições finais
 
-###### Art. 24.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro das Comunicações.
+Art. 24.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro das Comunicações.
 
-###### Art. 25.º Fica revogado o [Decreto-Lei n.º 44781](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44781-1962-155190), de 7 de Dezembro de 1962.
+Art. 25.º Fica revogado o [Decreto-Lei n.º 44781](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44781-1962-155190), de 7 de Dezembro de 1962.
 
-###### Art. 26.º O presente diploma entrará em vigor simultâneamente com o decreto regulamentar a que se refere o artigo 3.º
+Art. 26.º O presente diploma entrará em vigor simultâneamente com o decreto regulamentar a que se refere o artigo 3.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches.
 
-**Promulgado em 27 de Outubro de 1971.**
+Promulgado em 27 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

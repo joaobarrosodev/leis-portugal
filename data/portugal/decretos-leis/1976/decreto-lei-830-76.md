@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/27500/26222624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1976-406718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 591fa3484744d51213be97f89b53b5d5db778fc9fd314fce5e6f5e461a729a2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ac2f98b084028c7ff6516799f8b38fb15e91516c364a98aea2d886ade8a2750
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação por Concurso Público
+- Equipamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:626600:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:40Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +109,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os preços dos fornecimentos de equipamentos e respectiva instalação e montagem adjudicados, a partir da data da entrada em vigor do presente diploma, pelo Estado, por institutos públicos autónomos, autarquias locais, empresas públicas ou nacionalizadas de economia mista dominadas pelo Estado e ainda empresas concessionárias do Estado, directamente ou mediante concurso, cujo valor global ultrapasse, no contrato inicial, 1000 contos e cujo prazo contratual de fornecimento ultrapasse seis meses ficam sujeitos a revisão, em função das variações, para mais ou para menos, dos custos de mão-de-obra e dos materiais, relativamente aos correspondentes valores em que se apoia o preço da proposta.
+Artigo 1.º Os preços dos fornecimentos de equipamentos e respectiva instalação e montagem adjudicados, a partir da data da entrada em vigor do presente diploma, pelo Estado, por institutos públicos autónomos, autarquias locais, empresas públicas ou nacionalizadas de economia mista dominadas pelo Estado e ainda empresas concessionárias do Estado, directamente ou mediante concurso, cujo valor global ultrapasse, no contrato inicial, 1000 contos e cujo prazo contratual de fornecimento ultrapasse seis meses ficam sujeitos a revisão, em função das variações, para mais ou para menos, dos custos de mão-de-obra e dos materiais, relativamente aos correspondentes valores em que se apoia o preço da proposta.
 
-###### Art. 2.º - 1. As revisões serão efectuadas nos termos que forem prescritos em cláusulas insertas nos contratos e, em qualquer caso, com observância do disposto no presente diploma.
+Art. 2.º - 1. As revisões serão efectuadas nos termos que forem prescritos em cláusulas insertas nos contratos e, em qualquer caso, com observância do disposto no presente diploma.
 
 2. As revisões abrangerão os trabalhos não previstos no âmbito das encomendas, desde que a sua realização tenha resultado de contrato adicional ou de alterações impostas ou aprovadas por escrito pela entidade competente.
 
 3. As revisões poderão ser feitas por iniciativa do adjudicante ou do adjudicatário.
 
-###### Art. 3.º - 1. As cláusulas de revisão de preço poderão estabelecer que esta se efectue mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos, da fórmula geral:
+Art. 3.º - 1. As cláusulas de revisão de preço poderão estabelecer que esta se efectue mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos, da fórmula geral:
 
 C(índice t) = a(S(índice t)/S(índice o)) + b(M(índice t)/M(índice o)) + b'(M'(índice t)/M'(índice o)) + b''(M''(índice t)/M''(índice o)) + ... + c,
 
@@ -131,21 +143,21 @@ c é uma parcela que representa a percentagem na empreitada das importâncias n�
 
 4. Só haverá lugar para a revisão de preços quando a variação do coeficiente de actualização C(índice t) for superior a 1%.
 
-###### Art. 4.º - 1. Os contratos poderão fixar limites máximos, em percentagem do valor do contrato, para os valores da revisão de preços a estabelecer de acordo com as fórmulas previstas no artigo 3.º
+Art. 4.º - 1. Os contratos poderão fixar limites máximos, em percentagem do valor do contrato, para os valores da revisão de preços a estabelecer de acordo com as fórmulas previstas no artigo 3.º
 
 2. No caso de as circunstâncias conjunturais conduzirem a que a aplicação dessas fórmulas de revisão resulte em revisões de preços que ultrapassem o limite máximo fixado no contrato, deverá o adjudicatário suportar esses excedentes até ao montante de 30% da percentagem fixada como limite de revisão, devendo os excedentes ser suportados pelo adjudicante.
 
-###### Art. 5.º Para efeitos de revisão no respeitante à mão-de-obra, não serão consideradas as variações das remunerações do pessoal dirigente, do pessoal técnico e de escritório e, ainda, dos chefes de oficina, fiéis de armazém e equiparados.
+Art. 5.º Para efeitos de revisão no respeitante à mão-de-obra, não serão consideradas as variações das remunerações do pessoal dirigente, do pessoal técnico e de escritório e, ainda, dos chefes de oficina, fiéis de armazém e equiparados.
 
-###### Art. 6.º - 1. Se não constar dos índices oficiais a que se refere o artigo 9.º o índice de qualquer material cujo preço no mercado, multiplicado pela quantidade prevista no mapa de medições, exceda 1% do valor da adjudicação ou da parte a que determinada fórmula parcelar se referir, os adjudicatários podem estipular, em documento anexo ao contrato, o preço base do referido material, sendo a correspondente revisão efectuada pelo apuramento da diferença entre aquele preço base e o preço de aquisição, um e outro devidamente comprovados.
+Art. 6.º - 1. Se não constar dos índices oficiais a que se refere o artigo 9.º o índice de qualquer material cujo preço no mercado, multiplicado pela quantidade prevista no mapa de medições, exceda 1% do valor da adjudicação ou da parte a que determinada fórmula parcelar se referir, os adjudicatários podem estipular, em documento anexo ao contrato, o preço base do referido material, sendo a correspondente revisão efectuada pelo apuramento da diferença entre aquele preço base e o preço de aquisição, um e outro devidamente comprovados.
 
 2. Nos casos do número anterior deve o adjudicatário, no mesmo documento em que estipule o regime previsto neste artigo, propor e justificar o consequente reajustamento da fórmula.
 
-###### Art. 7.º - 1. Em casos especiais, quando tal se justifique pela natureza do fornecimento, poderão incluir-se no contrato quaisquer cláusulas que se afastem ou que divirjam das regras constantes do presente diploma, as quais, todavia, deverão subordinar-se aos princípios fundamentais nele estabelecidos.
+Art. 7.º - 1. Em casos especiais, quando tal se justifique pela natureza do fornecimento, poderão incluir-se no contrato quaisquer cláusulas que se afastem ou que divirjam das regras constantes do presente diploma, as quais, todavia, deverão subordinar-se aos princípios fundamentais nele estabelecidos.
 
 2. As cláusulas previstas no número anterior carecem, em todos os casos, da aprovação expressa da entidade competente.
 
-###### Art. 8.º - 1. Os índices ponderados dos custos de mão-de-obra e de materiais a considerar para aplicação do presente diploma serão fixados por despacho conjunto do Ministro das Finanças e do Ministro da Indústria e Tecnologia e com base nos índices oficiais do Instituto Nacional de Estatística ou, na falta destes, sob proposta da Direcção-Geral da Mecânica Pesada.
+Art. 8.º - 1. Os índices ponderados dos custos de mão-de-obra e de materiais a considerar para aplicação do presente diploma serão fixados por despacho conjunto do Ministro das Finanças e do Ministro da Indústria e Tecnologia e com base nos índices oficiais do Instituto Nacional de Estatística ou, na falta destes, sob proposta da Direcção-Geral da Mecânica Pesada.
 
 2. Neste último caso, e pelo que respeita ao índice de mão-de-obra, levar-se-á em conta a remuneração média dos trabalhadores das empresas respectivas, devidamente comprovada pelos mapas das suas contribuição para a caixa de previdência.
 
@@ -153,25 +165,25 @@ c é uma parcela que representa a percentagem na empreitada das importâncias n�
 
 4. No estabelecimento dos índices deverá atender-se a todos os encargos emergentes da legislação em vigor no período a que respeitem, inclusive os decorrentes de eventuais alterações de horário de trabalho.
 
-###### Art. 9.º - 1. No decurso da execução das empreitadas ou fornecimentos e para cobertura dos encargos adicionais resultantes das variações do preço base contratado serão efectuadas revisões provisórias de preços, calculadas com base nos índices nessa data disponíveis.
+Art. 9.º - 1. No decurso da execução das empreitadas ou fornecimentos e para cobertura dos encargos adicionais resultantes das variações do preço base contratado serão efectuadas revisões provisórias de preços, calculadas com base nos índices nessa data disponíveis.
 
 2. As revisões provisórias dão lugar a pagamentos no montante equivalente às prestações vencidas, deduzidas das verbas da mesma natureza já liquidadas.
 
 3. O cálculo final da revisão e sua liquidação reportar-se-á à data da recepção provisória das empreitadas ou da entrega dos fornecimentos.
 
-###### Art. 10.º - 1. Nos contratos de serviços em que se prevejam liquidações mensais, atender-se-á, para a revisão, aos índices relativos ao mês a que ela se reporta.
+Art. 10.º - 1. Nos contratos de serviços em que se prevejam liquidações mensais, atender-se-á, para a revisão, aos índices relativos ao mês a que ela se reporta.
 
 2. Nos contratos em que se não prevejam liquidações mensais, atender-se-á, para a revisão, às médias aritméticas dos índices mensais do período a que ela se reporta, se se puder considerar a execução da empreitada ou fornecimento uniformemente distribuída pelos diferentes meses desse período e se neste se não tiverem verificado variações irregulares do custo de mão-de-obra e de materiais. No caso contrário, far-se-á a decomposição do mesmo período em parcelas a que sejam aplicáveis aquelas condições, procedendo-se, em relação a cada parcela, nos termos prescritos na regra anterior e somando-se algebricamente os resultados parciais obtidos.
 
-###### Art. 11.º O disposto no presente diploma é também aplicável aos fornecimentos de equipamentos e respectiva instalação e montagem adjudicados pelas entidades referidas no artigo 1.º que se encontrassem em curso em 1 de Janeiro de 1974 ou que posteriormente tivessem sido contratados até à data da publicação do presente diploma, sendo a revisão de preços, nas condições referidas no artigo seguinte, apenas aplicáveis aos trabalhos executados e aos fornecimentos feitos a partir de 1 de Janeiro de 1974.
+Art. 11.º O disposto no presente diploma é também aplicável aos fornecimentos de equipamentos e respectiva instalação e montagem adjudicados pelas entidades referidas no artigo 1.º que se encontrassem em curso em 1 de Janeiro de 1974 ou que posteriormente tivessem sido contratados até à data da publicação do presente diploma, sendo a revisão de preços, nas condições referidas no artigo seguinte, apenas aplicáveis aos trabalhos executados e aos fornecimentos feitos a partir de 1 de Janeiro de 1974.
 
-###### Art. 12.º - 1. Quando os contratos referidos no artigo anterior já previam a revisão de preços por meio de fórmulas do tipo fixado no artigo 3.º, deverão essas fórmulas ser aplicadas, salvo se, a pedido devidamente justificado de uma das partes, o Ministro da Indústria e Tecnologia considerar que circunstâncias imprevisíveis tomaram essas fórmulas desactualizadas, devendo então ser substituídas, a partir das datas referidas no artigo 11.º, por novas fórmulas, de acordo com o referido artigo 3.º
+Art. 12.º - 1. Quando os contratos referidos no artigo anterior já previam a revisão de preços por meio de fórmulas do tipo fixado no artigo 3.º, deverão essas fórmulas ser aplicadas, salvo se, a pedido devidamente justificado de uma das partes, o Ministro da Indústria e Tecnologia considerar que circunstâncias imprevisíveis tomaram essas fórmulas desactualizadas, devendo então ser substituídas, a partir das datas referidas no artigo 11.º, por novas fórmulas, de acordo com o referido artigo 3.º
 
 2. No caso de os contratos estabelecerem limites superiores para as revisões referidas no n.º 1, serão aplicáveis as disposições do artigo 4.º
 
 3. No caso de os contratos terem sido estabelecidos sem fórmulas de revisão, poderá o Secretário de Estado da Indústria Pesada, a pedido do adjudicatário, devidamente justificado, determinar o estabelecimento de fórmulas de revisão, de acordo com os princípios indicados no artigo 3.º
 
-###### Art. 13.º - 1. Para os efeitos que se determinam nos artigos 11.º e 12.º, os adjudicatários de fornecimentos de equipamentos e respectiva instalação e montagem que pretendam beneficiar do regime neles estabelecido deverão apresentar à Secretaria de Estado da Indústria Pesada e aos adjudicantes, dentro do prazo de quarenta e cinco dias, a contar da entrada em vigor deste diploma, requerimento de que conste pormenorizada justificação da sua pretensão.
+Art. 13.º - 1. Para os efeitos que se determinam nos artigos 11.º e 12.º, os adjudicatários de fornecimentos de equipamentos e respectiva instalação e montagem que pretendam beneficiar do regime neles estabelecido deverão apresentar à Secretaria de Estado da Indústria Pesada e aos adjudicantes, dentro do prazo de quarenta e cinco dias, a contar da entrada em vigor deste diploma, requerimento de que conste pormenorizada justificação da sua pretensão.
 
 2. As entidades adjudicantes deverão, no prazo de quarenta e cinco dias relativamente à data de recebimento de cada um dos requerimentos referidos no número anterior:
 
@@ -183,12 +195,12 @@ c) Submeter à aprovação do Ministro competente as fórmulas e esquemas a adop
 
 3. Havendo divergências entre a entidade adjudicante e o adjudicatário, deverá ser interposto recurso ao Secretário de Estado da Indústria Pesada, que proporá uma solução ao Ministro da Indústria e Tecnologia e ao Ministro da Tutela da empresa adjudicante, que farão um despacho conjunto deliberando sobre a matéria em litígio.
 
-###### Art. 14.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia.
+Art. 14.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 8 de Novembro de 1976.**
+Promulgado em 8 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

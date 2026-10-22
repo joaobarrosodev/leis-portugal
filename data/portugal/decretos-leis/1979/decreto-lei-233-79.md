@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16900/16241628.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1979-382229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f6e47076de7f9ee2c3d72f68ef29b48608bfc8156f090d0d3540d48677d0e85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7de1c42f7fe1a06b27de404f71cac84f45bcf9004e295eceaf76943cc880ac7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Apoio Técnico
+- Comércio
+- Contravenção
+- Controlo de Qualidade
+- Controlo Sanitário
+- Definição de Competências
+- Direcção Geral dos Serviços Veterinários
+- Exploração Pecuária
+- Financiamento
+- Fiscalização
+- Gado Suíno
+- Junta Nacional dos Produtos Pecuários
+- Ministro da Agricultura e Pescas
+- Multa
+- Pecuária
+- Produção Animal
+- Proteção do Ambiente
+- Saúde Pública
+- Suinicultura
 relationships:
 - type: amended_by
   target: pt:dre:439393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462444:por
+  label: "Alterado pelo Dec Lei 495/80.1980.10.18.MAP, DR.IS [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/495-1980-462444
+  date: '1980-10-18'
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:162669:por
+  label: "Revogado pelo Dec Lei 163/97.1997.06.27.MADRP, DR.IS-A [146], a partir da entrada em vigor das Portarias previstas\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1997-162669
+  date: '1997-06-27'
+- type: repealed_by
+  target: pt:dre:428996:por
+  label: "Revogado pelo DEC LEI.339/99.1999.08.25.MADRP DR.IS-A [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1999-428996
+  date: '1999-08-25'
+- type: repealed_by
+  target: pt:dre:439393:por
+  label: "Revogado, a partir de 08.02.2009, o presente diploma, alterado pelo Dec Lei 495/80, de 18-Out, pelo DEC LEI.214/2008.10.11.2008.MADRP,\
+    \ DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:21Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +152,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 I - Classificação das explorações suínas
 
-###### Artigo 1.º - 1 - Para efeitos do presente decreto-lei, as explorações de suínos classificam-se, segundo as suas finalidades, em:
+Artigo 1.º - 1 - Para efeitos do presente decreto-lei, as explorações de suínos classificam-se, segundo as suas finalidades, em:
 
 a) Produtoras de reprodutores;
 
@@ -124,7 +170,7 @@ b) Regime semi-intensivo, as que utilizam o pastoreio numa ou mais fases do seu 
 
 5 - O mapa referido no n.º 3 pode ser alterado por despacho do Secretário de Estado do Fomento Agrário.
 
-###### Art. 2.º - 1 - As explorações produtoras de reprodutoras compreendem:
+Art. 2.º - 1 - As explorações produtoras de reprodutoras compreendem:
 
 a) Núcleos de selecção. - As que, em regime intensivo, se dedicam ao melhoramento genético de suínos de raças puras para as quais se disponha de livro genealógico ou registo zootécnico instituídos ou controlados pela Direcção-Geral dos Serviços Veterinários, com vista à obtenção de reprodutores selectos;
 
@@ -132,7 +178,7 @@ b) Unidades de multiplicação. - As que têm por finalidade primordial a obten�
 
 2 - Nos núcleos de selecção é vedada a produção de híbridos.
 
-###### Art. 3.º - 1 - As explorações produtoras de porcos para abate compreendem:
+Art. 3.º - 1 - As explorações produtoras de porcos para abate compreendem:
 
 a) Unidades de produção. - As que, a partir de reprodutores provenientes das explorações referidas no artigo anterior, se dedicam à produção de leitões para recria e acabamento na própria exploração ou para venda;
 
@@ -148,11 +194,11 @@ c) Pocilgas familiares. - As que, em regime caseiro, exploram no máximo, por ag
 
 II - Exercício da actividade de produção suína
 
-###### Art. 4.º É criado, na Direcção-Geral dos Serviços Veterinários, o registo de explorações suínas (RES).
+Art. 4.º É criado, na Direcção-Geral dos Serviços Veterinários, o registo de explorações suínas (RES).
 
-###### Art. 5.º Todas as explorações suínas existentes terão de solicitar o seu registo no RES, através dos serviços regionais de agricultura.
+Art. 5.º Todas as explorações suínas existentes terão de solicitar o seu registo no RES, através dos serviços regionais de agricultura.
 
-###### Art. 6.º - 1 - O exercício da actividade pelas explorações suínas, com excepção das pocilgas familiares, carece de autorização da Direcção-Geral dos Serviços Veterinários, ouvidos os serviços regionais de agricultura.
+Art. 6.º - 1 - O exercício da actividade pelas explorações suínas, com excepção das pocilgas familiares, carece de autorização da Direcção-Geral dos Serviços Veterinários, ouvidos os serviços regionais de agricultura.
 
 2 - Esta autorização só poderá ser concedida a explorações que tenham assegurada responsabilidade veterinária.
 
@@ -162,23 +208,23 @@ II - Exercício da actividade de produção suína
 
 5 - A autorização poderá ser suspensa e a classificação alterada por aquela Direcção-Geral, nas condições que vierem a ser estabelecidas por portaria regulamentar.
 
-###### Art. 7.º - 1 - É vedada a implantação, a menos de 200 m da periferia dos edifícios que integrem explorações autorizadas, de outras explorações de suínos, seja qual for a sua dimensão, de matadouros, de oficinas de preparação de carnes e de outros produtos de origem animal, bem como de fábricas de alimentos compostos para animais.
+Art. 7.º - 1 - É vedada a implantação, a menos de 200 m da periferia dos edifícios que integrem explorações autorizadas, de outras explorações de suínos, seja qual for a sua dimensão, de matadouros, de oficinas de preparação de carnes e de outros produtos de origem animal, bem como de fábricas de alimentos compostos para animais.
 
 2 - Os pavilhões para novas explorações ou para ampliação das explorações existentes não poderão ser construídos a menos de 70 m das estradas nacionais e de 15 m de qualquer via pública.
 
 3 - As alterações das instalações que interfiram na estrutura produtiva carecem de autorização como se de novas explorações se tratasse.
 
-###### Art. 8.º - 1 - Todas as explorações suinícolas ficam obrigadas a facilitar as inspecções que visem controlar a origem e a sanidade dos animais, bem como a realização de provas do domínio sanitário e zootécnico por parte dos serviços competentes do Ministério da Agricultura e Pescas.
+Art. 8.º - 1 - Todas as explorações suinícolas ficam obrigadas a facilitar as inspecções que visem controlar a origem e a sanidade dos animais, bem como a realização de provas do domínio sanitário e zootécnico por parte dos serviços competentes do Ministério da Agricultura e Pescas.
 
 2 - Todas as explorações ficam igualmente obrigadas a manter actualizado o registo das existências de suínos em cadernetas de modelo oficialmente estabelecido.
 
-###### Art. 9.º - 1 - Os núcleos de selecção, as unidades de multiplicação e as unidades de produção são obrigados a comunicar à Direcção-Geral dos Serviços Veterinários, através dos serviços regionais de agricultura da área respectiva, todas as aquisições de animais, vendas, cedências e transferências a qualquer título, indicando em relação a cada partida, além do número da guia de trânsito ou sanitária, a data da recepção ou expedição, o número de animais por raça, sexo e idade, a exploração da origem ou do destino, sua localização ou o matadouro, no caso de abate.
+Art. 9.º - 1 - Os núcleos de selecção, as unidades de multiplicação e as unidades de produção são obrigados a comunicar à Direcção-Geral dos Serviços Veterinários, através dos serviços regionais de agricultura da área respectiva, todas as aquisições de animais, vendas, cedências e transferências a qualquer título, indicando em relação a cada partida, além do número da guia de trânsito ou sanitária, a data da recepção ou expedição, o número de animais por raça, sexo e idade, a exploração da origem ou do destino, sua localização ou o matadouro, no caso de abate.
 
 2 - A comunicação será feita em duplicado, em impresso próprio fornecido pelo serviço regional de agricultura, segundo modelo aprovado pela Direcção-Geral dos Serviços Veterinários.
 
 III - Importação e exportação de suínos
 
-###### Art. 10.º - 1 - A importação e exportação de suínos, reprodutores ou não, carece de prévio parecer hígio-sanitário e zootécnico da Direcção-Geral dos Serviços Veterinários, ouvidos os serviços regionais de agricultura da área respectiva.
+Art. 10.º - 1 - A importação e exportação de suínos, reprodutores ou não, carece de prévio parecer hígio-sanitário e zootécnico da Direcção-Geral dos Serviços Veterinários, ouvidos os serviços regionais de agricultura da área respectiva.
 
 2 - Os reprodutores a importar terão:
 
@@ -190,11 +236,11 @@ b) De provir de explorações que estejam sob contrôle por organismo competente
 
 4 - A emissão de certificados sanitários e zootécnicos relacionados com a exportação fica a cargo da Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 11.º Para efeitos de autorização de desembaraço aduaneiro, a que se refere o artigo 6.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, terão de ser apresentados os certificados genealógicos referidos no n.º 2 e demais documentos julgados necessários pela Direcção-Geral dos Serviços Veterinários.
+Art. 11.º Para efeitos de autorização de desembaraço aduaneiro, a que se refere o artigo 6.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, terão de ser apresentados os certificados genealógicos referidos no n.º 2 e demais documentos julgados necessários pela Direcção-Geral dos Serviços Veterinários.
 
 IV - Programas e incentivos
 
-###### Art. 12.º - 1 - A Direcção-Geral dos Serviços Veterinários e a Junta Nacional dos Produtos Pecuários elaborarão, em conjunto e em colaboração com os demais departamentos do MAP e as associações representativas do sector, programas anuais em que será analisada a evolução das diferentes actividades suinícolas, referindo as carências e deficiências encontradas e propondo as medidas adequadas ao seu ordenamento e desenvolvimento.
+Art. 12.º - 1 - A Direcção-Geral dos Serviços Veterinários e a Junta Nacional dos Produtos Pecuários elaborarão, em conjunto e em colaboração com os demais departamentos do MAP e as associações representativas do sector, programas anuais em que será analisada a evolução das diferentes actividades suinícolas, referindo as carências e deficiências encontradas e propondo as medidas adequadas ao seu ordenamento e desenvolvimento.
 
 2 - As medidas referidas no número anterior compreendem as dirigidas à criação e aperfeiçoamento não só das infra-estruturas de apoio técnico e laboratorial ao sistema produtivo, nos domínios da sanidade, alimentação e melhoramento animal, como também das destinadas a possibilitar a actuação de mecanismos de intervenção no mercado e, ainda, apoios técnicos e financeiros que visem a reconversão das explorações marginais e o apetrechamento tecnológico das demais, em ordem a um racional enquadramento na estrutura da produção estabelecida no presente diploma.
 
@@ -208,23 +254,23 @@ IV - Programas e incentivos
 
 V - Penalidades
 
-###### Art. 13.º O exercício da actividade de produção suína por explorações que não hajam solicitado o seu registo ou que não estejam munidas de autorização da Direcção-Geral dos Serviços Veterinários, a que se refere o artigo 6.º, constitui contravenção punível com multa até 10000$00.
+Art. 13.º O exercício da actividade de produção suína por explorações que não hajam solicitado o seu registo ou que não estejam munidas de autorização da Direcção-Geral dos Serviços Veterinários, a que se refere o artigo 6.º, constitui contravenção punível com multa até 10000$00.
 
-###### Art. 14.º A implantação de explorações em contravenção com o disposto no presente diploma é punível com multa até 10000$00 e encerramento das instalações ilegalmente implantadas.
+Art. 14.º A implantação de explorações em contravenção com o disposto no presente diploma é punível com multa até 10000$00 e encerramento das instalações ilegalmente implantadas.
 
-###### Art. 15.º A inobservância, por parte dos proprietários ou responsáveis pelas explorações ou de médicos veterinários assistentes, das normas de natureza hígio-sanitário estabelecidas nas disposições regulamentares do presente decreto-lei constituirá infracção de ordem sanitária e, como tal, será cominada com as penalidades previstas no Regulamento Geral de Saúde Pecuária e as constantes do artigo 14.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953.
+Art. 15.º A inobservância, por parte dos proprietários ou responsáveis pelas explorações ou de médicos veterinários assistentes, das normas de natureza hígio-sanitário estabelecidas nas disposições regulamentares do presente decreto-lei constituirá infracção de ordem sanitária e, como tal, será cominada com as penalidades previstas no Regulamento Geral de Saúde Pecuária e as constantes do artigo 14.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953.
 
 Ar. 16.º A inobservância do estabelecido nas normas zootécnicas e demais disposições do presente decreto-lei e seus regulamentos constitui contravenção punível com multa até 10000$00, sempre que à infracção não seja aplicável penalidade prevista no artigo anterior.
 
-###### Art. 17.º Quando o contraventor se negar a cumprir, no prazo estabelecido, o que lhe tenha sido determinado nos termos do n.º 3 do artigo 20.º, ser-lhe-á suspensa a autorização prevista no artigo 6.º
+Art. 17.º Quando o contraventor se negar a cumprir, no prazo estabelecido, o que lhe tenha sido determinado nos termos do n.º 3 do artigo 20.º, ser-lhe-á suspensa a autorização prevista no artigo 6.º
 
-###### Art. 18.º O Ministro da Agricultura e Pescas não facultará, directa ou indirectamente, quaisquer auxílios técnicos, financeiros ou outros às explorações que não estejam munidas da autorização a que se refere o artigo 6.º, bem assim como àquelas a que tenha sido suspensa essa autorização, enquanto não se perfizerem noventa dias após o seu levantamento.
+Art. 18.º O Ministro da Agricultura e Pescas não facultará, directa ou indirectamente, quaisquer auxílios técnicos, financeiros ou outros às explorações que não estejam munidas da autorização a que se refere o artigo 6.º, bem assim como àquelas a que tenha sido suspensa essa autorização, enquanto não se perfizerem noventa dias após o seu levantamento.
 
-###### Art. 19.º O produto da cobrança das multas aplicadas nos termos deste diploma constitui receita do Estado.
+Art. 19.º O produto da cobrança das multas aplicadas nos termos deste diploma constitui receita do Estado.
 
 VI - Competências
 
-###### Art. 20.º - 1 - Os serviços regionais de agricultura deverão proceder à verificação e à participação à Direcção-Geral dos Serviços Veterinários de infracções que ocorram na área respectiva, propondo as respectivas sanções.
+Art. 20.º - 1 - Os serviços regionais de agricultura deverão proceder à verificação e à participação à Direcção-Geral dos Serviços Veterinários de infracções que ocorram na área respectiva, propondo as respectivas sanções.
 
 2 - O contraventor será notificado pela Direcção-Geral dos Serviços Veterinários para pagar voluntariamente a multa, no prazo de oito dias, findos os quais será a mesma coercivamente cobrada pelo processo das execuções fiscais, servindo de título executivo o certificado de dívida emitido pela mesma Direcção-Geral.
 
@@ -234,7 +280,7 @@ VI - Competências
 
 VII - Disposições gerais e transitórias
 
-###### Art. 21.º Em diplomas regulamentares serão definidos e revistos:
+Art. 21.º Em diplomas regulamentares serão definidos e revistos:
 
 a) Os requisitos hígio-sanitários e zootécnicos a que, para efeitos de classificação, têm de obedecer as instalações, equipamento, efectivo, bem como o funcionamento das explorações;
 
@@ -258,20 +304,20 @@ j) As condições em que terão lugar a suspensão de autorização para o exerc
 
 l) Os critérios a adoptar na delimitação de zonas livres de peste suína africana.
 
-###### Art. 22.º As explorações em actividades à data da publicação deste diploma beneficiarão do regime transitório a estabelecer por portaria.
+Art. 22.º As explorações em actividades à data da publicação deste diploma beneficiarão do regime transitório a estabelecer por portaria.
 
-###### Art. 23.º Quaisquer dúvidas que surjam na aplicação deste diploma serão esclarecidas por despacho do Ministro da Agricultura e Pescas.
+Art. 23.º Quaisquer dúvidas que surjam na aplicação deste diploma serão esclarecidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 24.º O presente diploma não é aplicável às Regiões Autónomas dos Açores e da Madeira.
+Art. 24.º O presente diploma não é aplicável às Regiões Autónomas dos Açores e da Madeira.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979. - Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 2 de Julho de 1979.**
+Promulgado em 2 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o n.º 3 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16900/16241628.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16900/16241628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16900/16241628.pdf)

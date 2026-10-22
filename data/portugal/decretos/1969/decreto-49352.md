@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49352-1969-215137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b3f7dabfdd2e63853439ba64db853cdbb296c9e32d8bcf0f6ace54cd2b549a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a14f6eb384a58e346f5b884f061f8bf8ef77635c3c3ffdb1a5b22942cdea7307
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:10Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +95,15 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os destacamentos de pessoal do Corpo de Polícia de Segurança Pública de Moçambique a constituir nos termos do artigo 88.º do estatuto aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, poderão, sempre que circunstâncias especiais o imponham e mediante portaria do governador-geral, ficar na dependência directa do governador do distrito a que se destinem, desde que o seu comando seja atribuído a um comandante de secção, nomeado nos termos do artigo 42.º e seu § único do referido estatuto.
+Artigo 1.º Os destacamentos de pessoal do Corpo de Polícia de Segurança Pública de Moçambique a constituir nos termos do artigo 88.º do estatuto aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, poderão, sempre que circunstâncias especiais o imponham e mediante portaria do governador-geral, ficar na dependência directa do governador do distrito a que se destinem, desde que o seu comando seja atribuído a um comandante de secção, nomeado nos termos do artigo 42.º e seu § único do referido estatuto.
 
-###### Art. 2.º No mapa de efectivos e categorias de pessoal do Corpo de Polícia de Segurança Pública, anexo ao citado Diploma Legislativo Ministerial n.º 27, passa a ser de seis o número de lugares de comandantes de secção.
+Art. 2.º No mapa de efectivos e categorias de pessoal do Corpo de Polícia de Segurança Pública, anexo ao citado Diploma Legislativo Ministerial n.º 27, passa a ser de seis o número de lugares de comandantes de secção.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Outubro de 1969.**
+Promulgado em 22 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

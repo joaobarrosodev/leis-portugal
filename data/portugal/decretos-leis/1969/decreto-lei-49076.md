@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49076-1969-200268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca9d3ef992068154e53f5eb84b98f516de7e15055a02c6e8233ece355f2c284
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e05ec782376d7f9465411328a23f43554ae03fa6f06db6dca2dfd55b6920516b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bilhete de Identidade
+- Estatuto do Oficial da Armada
+- Estatuto dos Sargentos e Praças da Armada
+- Marinha
+- Militar
+- Sargento
+relationships:
+- type: cites
+  target: pt:dre:478271:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:45Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +99,13 @@ Considerando ainda a necessidade de actualizar algumas das disposições que con
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O corpo do artigo 1.º, a alínea d) do § único do artigo 2.º, o artigo 3.º, as alíneas a), c) e d) do corpo do artigo 5.º e o corpo do artigo 7.º do [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), de 21 de Outubro de 1966, tomam as seguintes redacções:
+Artigo 1.º O corpo do artigo 1.º, a alínea d) do § único do artigo 2.º, o artigo 3.º, as alíneas a), c) e d) do corpo do artigo 5.º e o corpo do artigo 7.º do [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), de 21 de Outubro de 1966, tomam as seguintes redacções:
 
-###### Artigo 1.º O bilhete de identidade dos militares da Armada dos quadros do activo, dos oficiais e sargentos da reserva da Armada com direito a pensão (RAa), dos oficiais e sargentos reformados e dos auditores de marinha substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.
+Artigo 1.º O bilhete de identidade dos militares da Armada dos quadros do activo, dos oficiais e sargentos da reserva da Armada com direito a pensão (RAa), dos oficiais e sargentos reformados e dos auditores de marinha substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.
 
 § único. ...
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § único. ...
 
@@ -107,11 +117,11 @@ c) ...
 
 d) Os sargentos e praças das reservas naval, marítima e legionária.
 
-###### Art. 3.º O bilhete de identidade das praças da reserva da Armada com direito a pensão (RAa) e reformadas não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
+Art. 3.º O bilhete de identidade das praças da reserva da Armada com direito a pensão (RAa) e reformadas não substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
 
 ...
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 a) Branco, para os modelos n.os 1, 2, 3, 7, 8 e 9.º;
 
@@ -125,7 +135,7 @@ d) Amarelo, para o modelo n.º 10;
 
 ...
 
-###### Art. 7.º Os bilhetes de identidade de que trata este diploma são distribuídos pela Direcção do Serviço do Pessoal e autenticados com o selo branco da repartição respectiva.
+Art. 7.º Os bilhetes de identidade de que trata este diploma são distribuídos pela Direcção do Serviço do Pessoal e autenticados com o selo branco da repartição respectiva.
 
 § 1.º ...
 
@@ -133,7 +143,7 @@ d) Amarelo, para o modelo n.º 10;
 
 ...
 
-###### Art. 2.º - 1. Na relação dos modelos dos bilhetes de identidade constantes do artigo 4.º do [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), os n.os 8, 9 e 10 passam a ter a seguinte designação:
+Art. 2.º - 1. Na relação dos modelos dos bilhetes de identidade constantes do artigo 4.º do [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), os n.os 8, 9 e 10 passam a ter a seguinte designação:
 
 N.º 8 - Sargentos da reserva da Armada com direito a pensão (RAa) e reformados.
 
@@ -145,24 +155,24 @@ N.º 10 - Praças da reserva da Armada com direito a pensão (RAa) e reformadas.
 
 N.º 11 - Sargentos e praças das reservas da Armada sem direito a pensão (RAb), naval, marítima e legionária.
 
-###### Art. 3.º - 1. Dos modelos anexos ao [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), os n.os 8, 9 e 10 passam a ser os que figuram em anexo a este diploma.
+Art. 3.º - 1. Dos modelos anexos ao [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), os n.os 8, 9 e 10 passam a ser os que figuram em anexo a este diploma.
 
 2. Aos modelos referidos no número anterior é acrescentado o modelo n.º 11, também indicado em anexo.
 
-###### Art. 4.º Na parte superior do anverso dos modelos n.os 1 a 7, anexos ao [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), é inscrita a indicação de «República Portuguesa», anàlogamente ao que acontece nos modelos publicados em anexo ao presente diploma.
+Art. 4.º Na parte superior do anverso dos modelos n.os 1 a 7, anexos ao [Decreto-Lei n.º 47268](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47268-1966-478271), é inscrita a indicação de «República Portuguesa», anàlogamente ao que acontece nos modelos publicados em anexo ao presente diploma.
 
-###### Art. 5.º Os bilhetes de identidade que se encontram emitidos, segundo os modelos que são alterados por este diploma, mantêm a sua validade até serem substituídos.
+Art. 5.º Os bilhetes de identidade que se encontram emitidos, segundo os modelos que são alterados por este diploma, mantêm a sua validade até serem substituídos.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 14 de Maio de 1969.**
+Promulgado em 14 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Do MODELO N.º 8 ao MODELO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/14600/07390742.pdf))](https://files.diariodarepublica.pt/1s/1969/06/14600/07390742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/14600/07390742.pdf)
 
 Ministério da Marinha, 14 de Maio de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

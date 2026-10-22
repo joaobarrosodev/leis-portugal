@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/18800/16661666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1978-299809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59e82b4479cf0d03c5682451643c3fc53c0ed478d4076753607543a3f690874e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8455400438cdf99d7dd94e8d219c14476b49b4c4019fd4060c86a2fc95507a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Federação dos Vinicultores do DÃO
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:665159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507389:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665159:por
+  label: "Revogado pelo DEC LEI.376/93.05.11.1993.MA, DR.IS-A [259] de 05.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1993-665159
+  date: '1993-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:52Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +113,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Enquanto se não proceder à sua revisão definitiva, a Federação dos Vinicultores do Dão será gerida por uma comissão administrativa, constituída por três membros designados pelo Ministro do Comércio e Turismo.
+Artigo 1.º Enquanto se não proceder à sua revisão definitiva, a Federação dos Vinicultores do Dão será gerida por uma comissão administrativa, constituída por três membros designados pelo Ministro do Comércio e Turismo.
 
-###### Art. 2.º - 1 - É extensivo à Federação o regime geral dos organismos de coordenação económica.
+Art. 2.º - 1 - É extensivo à Federação o regime geral dos organismos de coordenação económica.
 
 2 - O pessoal fica sujeito ao estatuto e goza das regalias do pessoal dos organismos de coordenação económica.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Jaime José Matos da Gama - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 2 de Agosto de 1978.**
+Promulgado em 2 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

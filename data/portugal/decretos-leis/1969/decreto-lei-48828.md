@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/01/00100/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48828-1969-241628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4eff51cb38fbd1b924a7e4c9c31baa5af8739eec25b8fc11c182d4da95761d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7893a36b6869cf663729fa485b1299df83d9ef39509fd7c1687aace36cb0235c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Contrato de Concessão
+- Exploração Mineira
+- Isenção Fiscal
+- Recursos Geológicos
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:333160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407906:por
+  label: "Alterado o n.º 3.º do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo Decreto-Lei\
+    \ n.º 41969, de 24 de Novembro de 1958, na redacção do presente diploma, pelo DEC LEI.718/73.31.12.1973.MF, DG.IS [302]\
+    \ de 31.12.1973, nos termos do seu artigo 11.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/718-1973-407906
+  date: '1973-12-31'
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterado o nº 22º do art. 11º do Código da Sisa e do Imposto sobre Sucessões e Doações, aprovado pelo Dec Lei 41969
+    de 24-Nov de 1958, com a redacção do presente diploma, pelo DEC LEI.91/89.27.03.1989.MF, DR.IS [71] de 27.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: cites
+  target: pt:dre:194869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333160:por
+  label: Revogado pelo DEC LEI.90/90.16.03.1990.MIE, DR.IS [63] de 16.03.1990, com a entrada em vigor daquele diploma e legislação
+    referida no art. 51º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1990-333160
+  date: '1990-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:07Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +171,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Na atribuição de concessões mineiras pode o Governo, através do Secretário de Estado da Indústria, ouvido o Conselho Superior de Minas e Serviços Geológicos e quaisquer outros organismos que entenda convenientes, impor condições especiais, mesmo para além do âmbito da exploração de minas e dos anexos mineiros, como sejam a instalação de indústrias transformadoras, a criação de novas sociedades para fins determinados, a associação com entidades já existentes, ou outras condições, quando se entender que daí resultará inequívoco benefício para o desenvolvimento da economia nacional.
+Artigo 1.º - 1. Na atribuição de concessões mineiras pode o Governo, através do Secretário de Estado da Indústria, ouvido o Conselho Superior de Minas e Serviços Geológicos e quaisquer outros organismos que entenda convenientes, impor condições especiais, mesmo para além do âmbito da exploração de minas e dos anexos mineiros, como sejam a instalação de indústrias transformadoras, a criação de novas sociedades para fins determinados, a associação com entidades já existentes, ou outras condições, quando se entender que daí resultará inequívoco benefício para o desenvolvimento da economia nacional.
 
 2. O interessado será notificado para, em prazo certo, declarar se aceita as condições impostas ou se desiste dos seus direitos. A falta de resposta equivale à desistência.
 
@@ -130,7 +183,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6. No caso do não cumprimento das condições impostas no alvará, será declarada a caducidade da concessão por despacho do Secretário de Estado da Indústria, podendo a mesma ser novamente outorgada a outra pessoa, singular ou colectiva.
 
-###### Art. 2.º - 1. No caso de existirem duas ou mais concessões para exploração de um ou mais depósitos ou jazigos da mesma substância mineral útil, poderá o Governo, quando o interesse público tal justifique, promover o agrupamento dos respectivos concessionários num único consórcio explorador ou a sua reunião numa só entidade concessionária.
+Art. 2.º - 1. No caso de existirem duas ou mais concessões para exploração de um ou mais depósitos ou jazigos da mesma substância mineral útil, poderá o Governo, quando o interesse público tal justifique, promover o agrupamento dos respectivos concessionários num único consórcio explorador ou a sua reunião numa só entidade concessionária.
 
 2. A utilidade pública da concentração referida no número anterior será declarada por deliberação do Conselho de Ministros para os Assuntos Económicos, sob proposta do Secretário de Estado da Indústria, com paracer conforme do Conselho Superior de Minas e Serviços Geológicos.
 
@@ -138,33 +191,33 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Caso não cheguem a acordo os concessionários existentes, o Estado promoverá o resgate das concessões mineiras mediante justa indemnização.
 
-###### Art. 3.º - 1. O resgate decide-se por resolução do Conselho de Ministros para os Assuntos Económicos, a qual poderá ser tomada logo que decorra o prazo mencionado no n.º 3 do artigo anterior sem que haja dado entrada na Direcção-Geral de Minas e Serviços Geológicos documento comprovativo do acordo dos concessionários.
+Art. 3.º - 1. O resgate decide-se por resolução do Conselho de Ministros para os Assuntos Económicos, a qual poderá ser tomada logo que decorra o prazo mencionado no n.º 3 do artigo anterior sem que haja dado entrada na Direcção-Geral de Minas e Serviços Geológicos documento comprovativo do acordo dos concessionários.
 
 2. Decidido o resgate, segue o processo para a determinação das indemnizações.
 
 3. As indemnizações serão acordadas com os concessionários ou, na falta de acordo, fixadas por arbitragem nos termos estabelecidos para as expropriações por utilidade pública.
 
-###### Art. 4.º - 1. As concessões a resgatar serão atribuídas a uma só pessoa, singular ou colectiva nos termos estabelecidos na lei para as concessões abandonadas.
+Art. 4.º - 1. As concessões a resgatar serão atribuídas a uma só pessoa, singular ou colectiva nos termos estabelecidos na lei para as concessões abandonadas.
 
 2. O novo concessionário receberá, por transmissão, as concessões mediante o pagamento das indemnizações mencionadas no artigo anterior.
 
-###### Art. 5.º É aditado ao Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, o seguinte:
+Art. 5.º É aditado ao Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, o seguinte:
 
-###### Art. 11.º Ficam isentas de sisa:
+Art. 11.º Ficam isentas de sisa:
 
 ...
 
 28.º As transmissões das concessões mineiras directas ou através das operações de fusão ou integração, realizadas por determinação do Governo, nos termos do Decreto-Lei n.º 00000.
 
-###### Art. 6.º As empresas que se concentrarem poderão gozar da isenção referida no artigo 7.º do Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, nos termos nele definidos.
+Art. 6.º As empresas que se concentrarem poderão gozar da isenção referida no artigo 7.º do Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, nos termos nele definidos.
 
-###### Art. 7.º Este decreto-lei entra imediatamente em vigor.
+Art. 7.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Rafael Amaro da Costa.
 
-**Promulgado em 18 de Dezembro de 1968.**
+Promulgado em 18 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

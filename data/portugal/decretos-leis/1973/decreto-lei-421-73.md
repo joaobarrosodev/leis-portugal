@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1973-419642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be0423be3ac112d0a5f783abfa3e8c7db922e59322a569b3452f882a222aef39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 072e3bf6cc7df4ecca928c524d18b1f1749a5f22cfa9c47720ce451528ad946b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Direcção de Obras Públicas
+- Funchal
+- Junta Geral
+- Ponta Delgada
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:298189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:413014:por
+  label: "Alteradas as denominações dos cargos de pagador, proposto de pagador, proposto de tesoureiro, auxiliar de proposto\
+    \ de tesoureiro e proposto de pagador para a ilha de Santa Maria, dos quadros aprovados no presente diploma pelo DEC LEI.56/74.16.02.1974.MI,\
+    \ DG.IS [40] de 16.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1974-413014
+  date: '1974-02-16'
+- type: amended_by
+  target: pt:dre:139059:por
+  label: "Alteradas as categorias constantes do quadro das Direcçõee de Obras Públicas de Angra do Heroísmo e de Ponta Delgada\
+    \ pelo DRR.19/77/A.1977.04.04.GR-RAA, DR.IS [93] de 21/Abr/1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1977-139059
+  date: '1977-04-04'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673810:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:411170:por
+  label: "Rectificados os quadros anexos ao presente diploma, pela RECT.DD223.20.12.1973.PC, DG.IS [295] de 20.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-411170
+  date: '1973-12-20'
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:08Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +147,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aprovados os quadros e vencimentos do pessoal vitalício e contratado das juntas gerais dos distritos autónomos das ilhas adjacentes, constantes do mapa anexo a este diploma.
+Artigo 1.º São aprovados os quadros e vencimentos do pessoal vitalício e contratado das juntas gerais dos distritos autónomos das ilhas adjacentes, constantes do mapa anexo a este diploma.
 
-###### Art. 2.º Mantêm a situação de contratados os actuais titulares dos cargos que, em virtude da remodelação operada por este diploma, deixam de fazer parte do quadro do pessoal vitalício e contratado, passando a integrar-se no quadro do pessoal assalariado.
+Art. 2.º Mantêm a situação de contratados os actuais titulares dos cargos que, em virtude da remodelação operada por este diploma, deixam de fazer parte do quadro do pessoal vitalício e contratado, passando a integrar-se no quadro do pessoal assalariado.
 
-###### Art. 3.º O primeiro provimento nos novos cargos criados por este diploma poderá efectuar-se independentemente de concurso e de quaisquer outras formalidades desde que a escolha recaia em funcionário do próprio quadro da mesma categoria e de classe imediatamente inferior, ou de categoria imediatamente inferior, que satisfaça aos requisitos legais, com três anos, pelo menos, de bom e efectivo serviço nessa categoria ou classe.
+Art. 3.º O primeiro provimento nos novos cargos criados por este diploma poderá efectuar-se independentemente de concurso e de quaisquer outras formalidades desde que a escolha recaia em funcionário do próprio quadro da mesma categoria e de classe imediatamente inferior, ou de categoria imediatamente inferior, que satisfaça aos requisitos legais, com três anos, pelo menos, de bom e efectivo serviço nessa categoria ou classe.
 
-###### Art. 4.º - 1. Os cargos de chefe de secretaria das juntas gerais serão providos mediante concurso documental, ao qual podem ser admitidos licenciados em Direito com informação final mínima de Bom, ou pertencentes ao quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local, ou, ainda, aprovados em concurso de habilitação para qualquer das classes da 1.ª categoria ou para uma das duas primeiras classes da 2.ª categoria do mesmo quadro.
+Art. 4.º - 1. Os cargos de chefe de secretaria das juntas gerais serão providos mediante concurso documental, ao qual podem ser admitidos licenciados em Direito com informação final mínima de Bom, ou pertencentes ao quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local, ou, ainda, aprovados em concurso de habilitação para qualquer das classes da 1.ª categoria ou para uma das duas primeiras classes da 2.ª categoria do mesmo quadro.
 
 2. A nomeação terá carácter provisório pelo período de dois anos, findo o qual o funcionário será provido definitivamente se tiver revelado aptidão, ou exonerado, no caso contrário.
 
@@ -121,13 +167,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 7. Tratando-se de funcionário do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local, será considerado opositor obrigatório a todos os concursos de provimento posteriores à data da exoneração.
 
-###### Art. 5.º Aos primeiros-oficiais ou segundos-oficiais que, por disposição regulamentar, sejam incumbidos de chefiar secções ou serviços, poderá ser concedida gratificação de importância igual à estabelecida, em idênticas circunstâncias, para os funcionários de iguais classes do quadro geral dos serviços externos da Direcção-Geral de Administração Local.
+Art. 5.º Aos primeiros-oficiais ou segundos-oficiais que, por disposição regulamentar, sejam incumbidos de chefiar secções ou serviços, poderá ser concedida gratificação de importância igual à estabelecida, em idênticas circunstâncias, para os funcionários de iguais classes do quadro geral dos serviços externos da Direcção-Geral de Administração Local.
 
-###### Art. 6.º O provimento dos funcionários de carteira de categoria superior à de escriturário-dactilógrafo continua a efectuar-se por nomeação.
+Art. 6.º O provimento dos funcionários de carteira de categoria superior à de escriturário-dactilógrafo continua a efectuar-se por nomeação.
 
-###### Art. 7.º O ordenado do cargo de presidente das juntas gerais dos distritos autónomos é o correspondente à categoria C do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 7.º O ordenado do cargo de presidente das juntas gerais dos distritos autónomos é o correspondente à categoria C do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 8.º - 1. Os governadores dos Distritos Autónomos do Funchal, de Ponta Delgada e de Angra do Heroísmo podem nomear vice-presidente para as Juntas Gerais.
+Art. 8.º - 1. Os governadores dos Distritos Autónomos do Funchal, de Ponta Delgada e de Angra do Heroísmo podem nomear vice-presidente para as Juntas Gerais.
 
 2. O vice-presidente da Junta Geral coopera permanentemente com o presidente, no exercício da sua competência, substitui-o nas suas faltas e impedimentos e pode praticar quaisquer actos que por este lhe forem delegados.
 
@@ -135,23 +181,23 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. A função de vice-presidente é remunerada com o ordenado correspondente à categoria D do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 9.º A importância do subsídio para despesas de representação do governador do Distrito Autónomo de Ponta Delgada é fixada em importância igual à estabelecida para os governadores dos demais distritos de 1.ª ordem.
+Art. 9.º A importância do subsídio para despesas de representação do governador do Distrito Autónomo de Ponta Delgada é fixada em importância igual à estabelecida para os governadores dos demais distritos de 1.ª ordem.
 
-###### Art. 10.º O disposto no artigo 22.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro, passa a ser aplicável ao Governo do Distrito Autónomo de Ponta Delgada.
+Art. 10.º O disposto no artigo 22.º do [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro, passa a ser aplicável ao Governo do Distrito Autónomo de Ponta Delgada.
 
-###### Art. 11.º - 1. Enquanto não se concluir o estudo respeitante à adaptação dos serviços de saúde das ilhas adjacentes à orgânica estabelecida pelo [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, mantêm-se em vigor os quadros e ordenados das inspecções de saúde das juntas gerais aprovados pelo [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro, com as modificações constantes do número seguinte.
+Art. 11.º - 1. Enquanto não se concluir o estudo respeitante à adaptação dos serviços de saúde das ilhas adjacentes à orgânica estabelecida pelo [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, mantêm-se em vigor os quadros e ordenados das inspecções de saúde das juntas gerais aprovados pelo [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236), de 16 de Janeiro, com as modificações constantes do número seguinte.
 
 2. Os actuais agentes sanitários passam à categoria de fiscais sanitários, com o ordenado de 3200$00, e ao fiscal das Termas das Furnas é atribuído ordenado de igual quantitativo.
 
-###### Art. 12.º Este diploma entra em vigor em 1 de Setembro de 1973.
+Art. 12.º Este diploma entra em vigor em 1 de Setembro de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 8 de Agosto de 1973.**
+Promulgado em 8 de Agosto de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadros e ordenados do pessoal vitalício e contratado das juntas gerais dos distritos autónomos das ilhas adjacentes
 
@@ -329,7 +375,7 @@ C) Quadros especiais:
 
 3 mestres de valas de 1.ª classe ... T
 
-#### Secção de Assistência Técnica aos Municípios:
+Secção de Assistência Técnica aos Municípios:
 
 1 chefe, engenheiro civil ... (ver nota c) (ver nota f) H
 
@@ -339,7 +385,7 @@ C) Quadros especiais:
 
 2 mestres-de-obras ... O
 
-#### Secção de Parque Automóvel e de Material:
+Secção de Parque Automóvel e de Material:
 
 1 chefe, engenheiro mecânico ... (ver nota c) (ver nota f) H
 
@@ -511,7 +557,7 @@ C) Quadros especiais:
 
 2 fiéis de armazém ... S
 
-#### Secção de Assistência Técnica aos Municípios:
+Secção de Assistência Técnica aos Municípios:
 
 1 chefe, engenheiro civil de 1.ª classe ... (ver nota f) F
 
@@ -781,4 +827,4 @@ Técnico auxiliar químico-analista ... N
 
 (nota l) O primeiro provimento recairá no actual primeiro-oficial que chefia a secção de contabilidade.
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

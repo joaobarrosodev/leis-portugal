@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15700/15961599.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1980-471914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eac1671316dd26a72110a7d5fc56557a2c754dbad04c06ff8140391ae03f3d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc4147816f82a9039caf345863eb649ce28e5c8b196ebaafcd9a984d0489db4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Fundo Especial de Transportes Terrestres
+- Ministério dos Transportes e Comunicações
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:23Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +120,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Organização interna
 
-###### Artigo 1.º O Fundo Especial de Transportes Terrestres, adiante designado por Fundo, compreende os seguintes órgãos e serviços:
+Artigo 1.º O Fundo Especial de Transportes Terrestres, adiante designado por Fundo, compreende os seguintes órgãos e serviços:
 
 a) Presidente;
 
@@ -108,9 +130,9 @@ c) Direcção de Serviços de Estudo, Contrôle e Gestão Financeira;
 
 d) Repartição Administrativa.
 
-###### Art. 2.º O Fundo é dirigido por um presidente, equiparado, para todos os legais efeitos, a director-geral.
+Art. 2.º O Fundo é dirigido por um presidente, equiparado, para todos os legais efeitos, a director-geral.
 
-###### Art. 3.º - 1 - Compõem o conselho administrativo:
+Art. 3.º - 1 - Compõem o conselho administrativo:
 
 a) Presidente;
 
@@ -122,7 +144,7 @@ d) O chefe da Repartição Administrativa.
 
 2 - Às reuniões do conselho administrativo assistirá sempre um delegado do Tribunal de Contas, sem direito a voto.
 
-###### Art. 4.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente quando o presidente o convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
+Art. 4.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente quando o presidente o convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
 
 2 - As deliberações do conselho serão tomadas por maioria dos votos, tendo o presidente voto de qualidade.
 
@@ -132,7 +154,7 @@ d) O chefe da Repartição Administrativa.
 
 5 - O vogal do conselho administrativo referido na alínea b) do n.º 1 do artigo anterior e o delegado do Tribunal de Contas têm direito a uma gratificação mensal, a fixar nos termos da legislação em vigor.
 
-###### Art. 5.º - 1 - O presidente dirigirá superiormente o Fundo e orientará e coordenará as suas actividades, competindo-lhe em especial:
+Art. 5.º - 1 - O presidente dirigirá superiormente o Fundo e orientará e coordenará as suas actividades, competindo-lhe em especial:
 
 a) Convocar o conselho administrativo e presidir às suas reuniões;
 
@@ -150,7 +172,7 @@ g) Submeter à aprovação superior os planos financeiros plurianuais, os progra
 
 2 - Nas faltas ou impedimentos do presidente, este será substituído pelo director de Serviços.
 
-###### Art. 6.º O conselho administrativo é o órgão responsável pela legalidade de gestão financeira do Fundo, competindo-lhe:
+Art. 6.º O conselho administrativo é o órgão responsável pela legalidade de gestão financeira do Fundo, competindo-lhe:
 
 a) Dar parecer sobre os planos financeiros plurianuais e os projectos de orçamento;
 
@@ -162,7 +184,7 @@ d) Autorizar a realização de despesas e a assunção de encargos de assistênc
 
 e) Apreciar as garantias apresentadas pelas entidades que pretendam beneficiar de assistência financeira.
 
-###### Art. 7.º Compete à Direcção de Serviços de Estudos, Contrôle e Gestão:
+Art. 7.º Compete à Direcção de Serviços de Estudos, Contrôle e Gestão:
 
 a) Analisar a situação económico-financeira das empresas que solicitem o apoio do Fundo e dar parecer sobre os pedidos de assistência financeira;
 
@@ -176,7 +198,7 @@ e) Elaborar os programas anuais de actividade, os projectos de orçamento e os r
 
 f) Elaborar os mapas de amortização dos financiamentos concedidos e proceder ao registo do balanço e contas dos resultados anuais das empresas beneficiárias da assistência financeira do Fundo.
 
-###### Art. 8.º - 1 - Compete à Repartição Administrativa, a qual compreende a Secção de Contabilidade, Património e Tesouraria e a Secção de Pessoal, Expediente Geral, Arquivo e Reprografia, assegurar o bom funcionamento do Fundo no que respeita a contabilidade, património e movimentação de meios financeiros, pessoal, expediente, arquivo e reprografia.
+Art. 8.º - 1 - Compete à Repartição Administrativa, a qual compreende a Secção de Contabilidade, Património e Tesouraria e a Secção de Pessoal, Expediente Geral, Arquivo e Reprografia, assegurar o bom funcionamento do Fundo no que respeita a contabilidade, património e movimentação de meios financeiros, pessoal, expediente, arquivo e reprografia.
 
 2 - À Secção de Contabilidade, Património e Tesouraria compete:
 
@@ -212,9 +234,9 @@ f) Assegurar a gestão do equipamento e material gráfico indispensável ao func
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 9.º O quadro de pessoal do Fundo é o constante do mapa anexo a este diploma, do qual faz parte integrante.
+Art. 9.º O quadro de pessoal do Fundo é o constante do mapa anexo a este diploma, do qual faz parte integrante.
 
-###### Art. 10.º O pessoal do Fundo agrupar-se-á de harmonia com a classificação seguinte:
+Art. 10.º O pessoal do Fundo agrupar-se-á de harmonia com a classificação seguinte:
 
 a) Pessoal dirigente;
 
@@ -224,21 +246,21 @@ c) Pessoal técnico-profissional e administrativo;
 
 d) Pessoal auxiliar.
 
-###### Art. 11.º - 1 - O provimento do pessoal não dirigente e do chefe de repartição do quadro do Fundo far-se-á por nomeação, a qual terá carácter provisório durante o período de um ano.
+Art. 11.º - 1 - O provimento do pessoal não dirigente e do chefe de repartição do quadro do Fundo far-se-á por nomeação, a qual terá carácter provisório durante o período de um ano.
 
 2 - O pessoal mencionado no número anterior será provido definitivamente se tiver revelado aptidão para o lugar ou exonerado no caso contrário, mediante despacho ministerial a proferir nos trinta dias que imediatamente antecedem o termo daquele período.
 
 3 - Quando o provimento referido no número anterior recair em funcionários provenientes de outros departamentos do Estado, o tempo de serviço neles prestado em lugar da mesma carreira contará para efeitos de nomeação definitiva no Fundo.
 
-###### Art. 12.º O recrutamento e provimento do pessoal dirigente será efectuado nos termos da lei geral, à excepção do chefe de repartição, que se regerá pelo disposto neste diploma.
+Art. 12.º O recrutamento e provimento do pessoal dirigente será efectuado nos termos da lei geral, à excepção do chefe de repartição, que se regerá pelo disposto neste diploma.
 
-###### Art. 13.º O lugar de chefe de repartição será provido através de concurso documental de entre:
+Art. 13.º O lugar de chefe de repartição será provido através de concurso documental de entre:
 
 a) Chefes de secção com o mínimo de três anos de bom e efectivo serviço;
 
 b) Indivíduos diplomados com o curso superior e experiência adequada.
 
-###### Art. 14.º - 1 - O ingresso na carreira de pessoal técnico superior será efectuado pela categoria mais baixa, mediante concurso documental, de entre indivíduos habilitados com licenciatura adequada ao desempenho de funções.
+Art. 14.º - 1 - O ingresso na carreira de pessoal técnico superior será efectuado pela categoria mais baixa, mediante concurso documental, de entre indivíduos habilitados com licenciatura adequada ao desempenho de funções.
 
 2 - O provimento de lugares de acesso na carreira de pessoal técnico superior far-se-á mediante concurso documental e de acordo com critérios de avaliação de mérito e pela seguinte forma:
 
@@ -250,7 +272,7 @@ c) Técnicos superiores de 1.ª classe - de entre técnicos superiores de 2.ª c
 
 3 - Um dos técnicos deverá ser licenciado em Direito.
 
-###### Art. 15.º - 1 - Os lugares de chefe de secção serão providos por concurso de prestação de provas de entre:
+Art. 15.º - 1 - Os lugares de chefe de secção serão providos por concurso de prestação de provas de entre:
 
 a) Primeiros-oficiais e técnicos auxiliares de contabilidade de 1.ª classe e os tesoureiros de 1.ª classe de comprovada experiência no domínio das funções a que se destinam, todos com, pelo menos, três anos de bom e efectivo serviço nessas categorias;
 
@@ -276,7 +298,7 @@ b) O acesso a tesoureiro de 1.ª classe far-se-á por concurso documental de ent
 
 5 - Os lugares de escriturário-dactilógrafo serão providos por concurso de provas práticas de entre indivíduos com a escolaridade obrigatória e prática comprovada de dactilografia, operando-se a mudança de categoria nos termos da lei geral.
 
-###### Art. 16.º - 1 - O pessoal auxiliar adiante designado será recrutado de entre indivíduos com a escolaridade obrigatória, segundo a idade do candidato, e da forma seguinte:
+Art. 16.º - 1 - O pessoal auxiliar adiante designado será recrutado de entre indivíduos com a escolaridade obrigatória, segundo a idade do candidato, e da forma seguinte:
 
 a) Os operadores de reprografia, mediante concurso de prestação de provas;
 
@@ -288,19 +310,19 @@ d) Os motoristas serão providos, mediante concurso de prestação de provas, de
 
 2 - O acesso à 1.ª e 2.ª classes de operadores de reprografia far-se-á, mediante concurso documental, de entre operadores de reprografia da classe imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-###### Art. 17.º O concurso documental e a avaliação de mérito a ter em conta para efeitos das promoções a que se referem os artigos anteriores serão objecto de despacho do Ministro dos Transportes e Comunicações.
+Art. 17.º O concurso documental e a avaliação de mérito a ter em conta para efeitos das promoções a que se referem os artigos anteriores serão objecto de despacho do Ministro dos Transportes e Comunicações.
 
-###### Art. 18.º Os critérios estabelecidos neste diploma respeitantes a provas e métodos de selecção para ingresso e acesso nas carreiras manter-se-ão em vigor até à publicação dos decretos regulamentares a que se referem os artigos 3.º e 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 18.º Os critérios estabelecidos neste diploma respeitantes a provas e métodos de selecção para ingresso e acesso nas carreiras manter-se-ão em vigor até à publicação dos decretos regulamentares a que se referem os artigos 3.º e 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 19.º Quando se reconheça ser absolutamente indispensável, poderá o Fundo elaborar contratos de prestação eventual de serviços e contratos de tarefa, nos termos da lei geral.
+Art. 19.º Quando se reconheça ser absolutamente indispensável, poderá o Fundo elaborar contratos de prestação eventual de serviços e contratos de tarefa, nos termos da lei geral.
 
-###### Art. 20.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal do quadro poderá ser requisitado pessoal de outros organismos e serviços, mediante parecer favorável do respectivo dirigente e com o acordo prévio do funcionário a requisitar e do membro do Governo de que o funcionário dependa, sendo os seus vencimentos encargo do Fundo, através de dotação para o efeito.
+Art. 20.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal do quadro poderá ser requisitado pessoal de outros organismos e serviços, mediante parecer favorável do respectivo dirigente e com o acordo prévio do funcionário a requisitar e do membro do Governo de que o funcionário dependa, sendo os seus vencimentos encargo do Fundo, através de dotação para o efeito.
 
 2 - A requisição não depende da existência de vaga no quadro de pessoal do Fundo, devendo o respectivo despacho fixar desde logo as tarefas a cumprir e as funções correspondentes a um dos lugares do mesmo quadro, que o requisitado irá exercer por prazo não superior a um ano.
 
 3 - O tempo de serviço prestado pelo funcionário requisitado contará para todos os efeitos legais como se tivesse sido prestado no quadro de origem, mantendo o requisitado todos os direitos, incluindo os relativos à promoção.
 
-###### Art. 21.º - 1 - Os funcionários do Fundo poderão ser transitoriamente destacados para prestar serviço em qualquer departamento ministerial, podendo também funcionários de outros serviços ser destacados para o Fundo.
+Art. 21.º - 1 - Os funcionários do Fundo poderão ser transitoriamente destacados para prestar serviço em qualquer departamento ministerial, podendo também funcionários de outros serviços ser destacados para o Fundo.
 
 2 - Os destacamentos previstos no número anterior dependem do acordo dos interessados, não podendo exceder o período de seis meses nem prejudicar de qualquer forma a situação dos funcionários perante os serviços a que pertencem, os quais continuarão a assegurar as suas remunerações.
 
@@ -308,30 +330,30 @@ d) Os motoristas serão providos, mediante concurso de prestação de provas, de
 
 ### CAPÍTULO III — Disposições gerais e transitórias
 
-###### Art. 22.º - 1 - Nos termos da lei geral, a transição para os lugares do quadro anexo a este diploma deverá fazer-se de entre o pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço a qualquer título no Fundo Especial de Transportes Terrestres e nos termos fixados na lei geral.
+Art. 22.º - 1 - Nos termos da lei geral, a transição para os lugares do quadro anexo a este diploma deverá fazer-se de entre o pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço a qualquer título no Fundo Especial de Transportes Terrestres e nos termos fixados na lei geral.
 
 2 - Quando, pela aplicação das normas constantes do presente diploma, puder resultar para o funcionário ou agente provimento em categoria remunerada por letra de vencimento inferior à que já tem, aquele manterá a actual designação funcional e respectiva remuneração, extinguindo-se os correspondentes lugares à medida que vagarem.
 
 3 - O actual chefe dos Serviços Administrativos do Fundo Especial de Transportes Terrestres transita para o lugar de chefe de repartição.
 
-###### Art. 23.º Enquanto não for fixado o abono para falhas, nos termos do artigo 6.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, os tesoureiros terão direito ao correspondente abono, a fixar por despacho conjunto dos Ministros das Finanças e do Plano e dos Transportes e Comunicações e do Secretário de Estado da Reforma Administrativa.
+Art. 23.º Enquanto não for fixado o abono para falhas, nos termos do artigo 6.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, os tesoureiros terão direito ao correspondente abono, a fixar por despacho conjunto dos Ministros das Finanças e do Plano e dos Transportes e Comunicações e do Secretário de Estado da Reforma Administrativa.
 
-###### Art. 24.º - 1 - Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento privativo do Fundo, com os necessários ajustamentos, para o que é autorizado desde já um orçamento suplementar.
+Art. 24.º - 1 - Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento privativo do Fundo, com os necessários ajustamentos, para o que é autorizado desde já um orçamento suplementar.
 
 2 - O orçamento suplementar referido no número anterior não será contado para a determinação do número máximo desses orçamentos que é permitido elaborar anualmente.
 
-###### Art. 25.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos o Ministro das Finanças e do Plano e o membro do Governo que superintende na função pública, quando for caso disso.
+Art. 25.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos o Ministro das Finanças e do Plano e o membro do Governo que superintende na função pública, quando for caso disso.
 
-###### Art. 26.º São revogados, por força do presente diploma, os artigos 21.º e 22.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
+Art. 26.º São revogados, por força do presente diploma, os artigos 21.º e 22.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 30 de Junho de 1980.**
+Promulgado em 30 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15700/15961599.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15700/15961599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15700/15961599.pdf)

@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1976-427093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3122d9c37bff6d1adc930c6b7c9cdd16bf8e70e90693e8bc8562f324f951f01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ede8f6ba1231997651a313935c1803b7bf30c512df7e7701b4513a0b7f490dee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto sobre Veículos
+- Regulamento
+- Regulamento do Imposto sobre Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:426138:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426138:por
+  label: Substituído a partir de 01.01.1978, o Regulamento aprovado no Dec Lei 81/76 de 28-Jan, com as alterações constantes
+    do presente diploma,pelo DEC LEI.143/78.1978.06.12.MFP DR.IS [133]2ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1978-426138
+  date: '1978-06-12'
+- type: cites
+  target: pt:dre:506867:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:34Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +109,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A alínea g) do n.º 1 do artigo 5.º e as alíneas b), c) e d) do n.º 1 do artigo 8.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), de 28 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º A alínea g) do n.º 1 do artigo 5.º e as alíneas b), c) e d) do n.º 1 do artigo 8.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 81/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1976-506867), de 28 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 ...
 
@@ -104,7 +119,7 @@ g) Os deficientes das forças armadas cujo grau de invalidez seja igual ou super
 
 ...
 
-###### Art. 8.º - 1 ...
+Art. 8.º - 1 ...
 
 ...
 
@@ -112,39 +127,39 @@ b) Para motociclos:
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf))](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf)
 
 c) Para as aeronaves
 
 TABELA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf))](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf)
 
 d) Para os barcos de recreio:
 
 TABELA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf))](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/13700/13141315.pdf)
 
-###### Art. 2.º São aditados o n.º 3 ao artigo 18.º e o n.º 6 ao artigo 25.º do Regulamento do Imposto sobre Veículos, com a seguinte redacção:
+Art. 2.º São aditados o n.º 3 ao artigo 18.º e o n.º 6 ao artigo 25.º do Regulamento do Imposto sobre Veículos, com a seguinte redacção:
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 ...
 
 3. Até prova em contrário, presume-se não pago o imposto quando nos automóveis e motociclos não se encontrem afixados, nos termos do n.º 3 do artigo 13.º, os respectivos dísticos modelos n.os 2, 4 ou 7.
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 ...
 
 6. Correrá de conta dos transgressores a responsabilidade pelo desaparecimento, danos ou outros prejuízos que venham a sofrer os veículos apreendidos, quando os mesmos ficarem imobilizados fora das sedes, postos ou dependências das entidades apreensoras ou de recintos próprios para a sua recolha ou parqueamento, não podendo ser exigido ao Estado ou a qualquer dos seus serviços, entidades ou agentes quaisquer indemnizações pelos riscos resultantes da apreensão.
 
-###### Art. 3.º - 1. No ano de 1976 os prazos previstos no n.º 1 do artigo 9.º e, bem assim, no n.º 6 do artigo 7.º do Regulamento do Imposto sobre Veículos para liquidação e pagamento do imposto devido pelos motociclos, aeronaves e barcos de recreio e para a requisição dos títulos e dísticos de isenção do imposto decorrerão durante o mês seguinte ao da publicação do presente decreto-lei no Diário da República.
+Art. 3.º - 1. No ano de 1976 os prazos previstos no n.º 1 do artigo 9.º e, bem assim, no n.º 6 do artigo 7.º do Regulamento do Imposto sobre Veículos para liquidação e pagamento do imposto devido pelos motociclos, aeronaves e barcos de recreio e para a requisição dos títulos e dísticos de isenção do imposto decorrerão durante o mês seguinte ao da publicação do presente decreto-lei no Diário da República.
 
 2. Será restituído, a requerimento dos interessados e nos termos do artigo 16.º do Regulamento, o imposto indevidamente cobrado até à data da entrada em vigor do presente decreto-lei cuja liquidação tenha sido efectuada com base na primitiva redacção das alíneas b), c) e d) do n.º 1 do artigo 8.º do citado Regulamento.
 
-###### Art. 4.º O presente decreto-lei entra imediatamente em vigor, salvo quanto às alterações constantes do seu artigo 1.º, que serão aplicáveis:
+Art. 4.º O presente decreto-lei entra imediatamente em vigor, salvo quanto às alterações constantes do seu artigo 1.º, que serão aplicáveis:
 
 a) A nova redacção dada no n.º 1, alínea g), do artigo 5.º do Regulamento - a partir de 1 de Janeiro de 1977;
 
@@ -152,8 +167,8 @@ b) As novas tabelas II, III e IV a que se referem, respectivamente, as alíneas 
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 1 de Junho de 1976.**
+Promulgado em 1 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

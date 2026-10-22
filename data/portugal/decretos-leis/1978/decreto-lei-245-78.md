@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19200/16841685.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1978-299005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d827e5697143a9662bbf1f10fb736430ac705591a199ba84fcfd2ec9dae9d5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04675fa6531ffc5430ff89160cc62aef6d1276ac83e5ffb8164b4b52cf514f2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior do Exército
+- Colégio Militar
+- Estabelecimento de Ensino
+- Estudante
+- Hospital Militar Principal
+- Instituto de Odivelas
+- Instituto Militar dos Pupilos do Exército
+- Junta Médica
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:255395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:02Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +113,9 @@ Considerando a necessidade de alterar algumas das suas disposições face à exp
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 7.º e 13.º do [Decreto-Lei n.º 326/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1977-255395), de 10 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 7.º e 13.º do [Decreto-Lei n.º 326/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1977-255395), de 10 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - Das decisões da junta de inspecção pode ser interposto recurso pelo pai ou encarregado de educação do candidato para o Chefe do Estado-Maior do Exército (CEME), que decidirá, em face do relatório a elaborar pela respectiva junta escolar e baseado em parecer da Direcção do Serviço de Saúde Militar, se o candidato deverá ou não ser presente a nova inspecção médica, a efectuar por uma junta do Hospital Militar Principal.
+Art. 7.º - 1 - Das decisões da junta de inspecção pode ser interposto recurso pelo pai ou encarregado de educação do candidato para o Chefe do Estado-Maior do Exército (CEME), que decidirá, em face do relatório a elaborar pela respectiva junta escolar e baseado em parecer da Direcção do Serviço de Saúde Militar, se o candidato deverá ou não ser presente a nova inspecção médica, a efectuar por uma junta do Hospital Militar Principal.
 
 2 - No caso de deferimento do recurso a que se refere o número anterior, o resultado da junta do Hospital Militar Principal substituirá o anterior, para todos os efeitos legais.
 
@@ -105,7 +123,7 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 4 - Da decisão da junta do Hospital Militar Principal, depois de homologada pelo CEME, não há recurso.
 
-###### Art. 13.º - 1 - Com base em informação dos estabelecimentos de ensino e mediante proposta do DDI, o CEME fixará anualmente, por despacho, o número de vagas a atribuir em cada um deles para cada ano de admissão, repartindo-as pelos grupos e subgrupos pela ordem de prioridade seguinte, antes de se tomar em consideração o disposto no artigo 15.º
+Art. 13.º - 1 - Com base em informação dos estabelecimentos de ensino e mediante proposta do DDI, o CEME fixará anualmente, por despacho, o número de vagas a atribuir em cada um deles para cada ano de admissão, repartindo-as pelos grupos e subgrupos pela ordem de prioridade seguinte, antes de se tomar em consideração o disposto no artigo 15.º
 
 a) Grupo A - Casos especiais:
 
@@ -151,8 +169,8 @@ c) Grupo C - Outros candidatos:
 
 Visto e aprovado em Conselho da Revolução em 2 de Agosto de 1978.
 
-**Promulgado em 8 de Agosto de 1978.**
+Promulgado em 8 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

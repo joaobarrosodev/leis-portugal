@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49184-1969-198763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 846bf3825189e6ae50d2d20a101910c3214f99d9fe839c24f488208275d98d8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cfa5feea4183167747a0dc722a92a4ecf713a103e893188785c5a790ca9130c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Produtores
+- Arrendamento Rural
+- Assistência Técnica
+- Definição de Competências
+- Exploração Agrícola
+- Financiamento
+- Junta de Colonização Interna
+- Modernização do Sector Agrícola
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:430014:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512991:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430014:por
+  label: "Revogado pelo DEC LEI.513-J/79.26.12.1979.PCM, DR.IS [296]Supl de 26.12.1979, em tudo o que o contrarie\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-j-1979-430014
+  date: '1979-12-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:21Z'
   warnings: []
   errors: []
 ---
@@ -107,38 +133,38 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As sociedades constituídas ou a constituir, sob qualquer forma legal, por agricultores que trabalhem ou explorem em comum os prédios que fruem, beneficiarão, como expressão de «agricultura de grupo», das regalias e isenções concedidas por lei às cooperativas agrícolas e ser-lhes-á prestada assistência técnica e financeira nas condições do presente diploma.
+Artigo 1.º - 1. As sociedades constituídas ou a constituir, sob qualquer forma legal, por agricultores que trabalhem ou explorem em comum os prédios que fruem, beneficiarão, como expressão de «agricultura de grupo», das regalias e isenções concedidas por lei às cooperativas agrícolas e ser-lhes-á prestada assistência técnica e financeira nas condições do presente diploma.
 
 2. Para este efeito, consideram-se agricultores, proprietários ou não, os que, dispondo isoladamente de explorações agrícolas cujas áreas não excedem o disposto no § único do artigo 2.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, entrem para a sociedade com os respectivos capitais e trabalho directo, com vista a alcançar para a empresa resultante uma dimensão económica que permita a melhor produtividade e aumente o rendimento daquelas explorações.
 
 3. Os proprietários não agricultores poderão comparticipar no capital social com os seus prédios, sem prejuízo de equilíbrio técnico, social e económico da empresa.
 
-###### Art. 2.º O capital social será constituído, separado ou cumulativamente, por prédios rústicos, benfeitorias, pelo direito ao respectiva uso e fruição ou por capital de exploração fixo e circulante.
+Art. 2.º O capital social será constituído, separado ou cumulativamente, por prédios rústicos, benfeitorias, pelo direito ao respectiva uso e fruição ou por capital de exploração fixo e circulante.
 
-###### Art. 3.º Não se aplica a estas sociedades o mínimo de 50000$00 estabelecido por lei para o capital social das sociedades por quotas de responsabilidade limitada.
+Art. 3.º Não se aplica a estas sociedades o mínimo de 50000$00 estabelecido por lei para o capital social das sociedades por quotas de responsabilidade limitada.
 
-###### Art. 4.º - 1. O rendeiro não poderá associar-se sem dar prévio conhecimento do facto ao senhorio.
+Art. 4.º - 1. O rendeiro não poderá associar-se sem dar prévio conhecimento do facto ao senhorio.
 
 2. O senhorio só poderá opor-se à entrada do rendeiro como associado quando ele próprio queira associar-se, compartilhando o trabalho directo da exploração.
 
 3. Os direitos do senhorio dos arrendamentos em vigor nesta data não são abrangidos pelo disposto no número anterior, excepto se, findo o respectivo prazo, houver renovação.
 
-###### Art. 5.º - 1. Em execução do disposto na base XXIX da [Lei n.º 2114](https://diariodarepublica.pt/dr/detalhe/lei/2114-1962-164863), de 15 de Junho de 1962, sempre que o associado tenha sido rendeiro considera-se sucessivamente renovado o arrendamento, seja qual for o prazo estipulado e desde que a sociedade se não tenha despedido ou o senhorio a não despedir com a antecedência de um ano.
+Art. 5.º - 1. Em execução do disposto na base XXIX da [Lei n.º 2114](https://diariodarepublica.pt/dr/detalhe/lei/2114-1962-164863), de 15 de Junho de 1962, sempre que o associado tenha sido rendeiro considera-se sucessivamente renovado o arrendamento, seja qual for o prazo estipulado e desde que a sociedade se não tenha despedido ou o senhorio a não despedir com a antecedência de um ano.
 
 2. O senhorio só pode opor-se à renovação desde que pretenda ser associado, compartilhando no trabalho directo da exploração.
 
 3. O montante da renda poderá ser revisto de nove em nove anos.
 
-###### Art. 6.º O pacto ou os estatutos da sociedade, além das menções legalmente obrigatórias, deverão conter normas reguladoras da gestão da empresa e da partilha dos resultados e serão submetidos à aprovação do Secretário de Estado da Agricultura, depois de parecer favorável da Junta de Colonização Interna, que, sem prejuízo da competência legalmente atribuída a outros serviços, apreciará os aspectos técnicos, sociais e económicos da empresa.
+Art. 6.º O pacto ou os estatutos da sociedade, além das menções legalmente obrigatórias, deverão conter normas reguladoras da gestão da empresa e da partilha dos resultados e serão submetidos à aprovação do Secretário de Estado da Agricultura, depois de parecer favorável da Junta de Colonização Interna, que, sem prejuízo da competência legalmente atribuída a outros serviços, apreciará os aspectos técnicos, sociais e económicos da empresa.
 
-###### Art. 7.º - 1. São extensivos à assistência técnica e financeira a prestar às sociedades constituídas ou a constituir nos termos do presente diploma e às cooperativas referidas no artigo Modo [Decreto n.º 29494](https://diariodarepublica.pt/dr/detalhe/decreto/29494-1939-424684), de 22 de Março de 1939, já existentes ou que resultarem da associação das mesmas sociedades, as atribuições da Junta de Colonização Interna contidas na legislação aplicável para realização de infra-estruturas de valorização económica e social e de obras e melhoramentos fundiários de carácter colectivo.
+Art. 7.º - 1. São extensivos à assistência técnica e financeira a prestar às sociedades constituídas ou a constituir nos termos do presente diploma e às cooperativas referidas no artigo Modo [Decreto n.º 29494](https://diariodarepublica.pt/dr/detalhe/decreto/29494-1939-424684), de 22 de Março de 1939, já existentes ou que resultarem da associação das mesmas sociedades, as atribuições da Junta de Colonização Interna contidas na legislação aplicável para realização de infra-estruturas de valorização económica e social e de obras e melhoramentos fundiários de carácter colectivo.
 
 2. Os pedidos de assistência técnica e financeira serão instruídos não só com os documentos exigidos na legislação de melhoramentos agrícolas, como também com um exemplar do pacto ou dos estatutos da sociedade e com um plano de exploração agrícola.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 24 de Julho de 1969.**
+Promulgado em 24 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21200/22992300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1979-369594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a2a99644493cada3e16f052b91a83b9f6584253812d007ae59bdd7910e7e895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ef25110ede5f6d37ddb83acefdd7d2ab1baaaca29b70054322f27aa68655d47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Local
+- Chefe de Repartição
+- Chefe de Secção
+- Funcionário Público
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:140496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476685:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:47Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +134,7 @@ Assim, dando execução ao disposto no n.º 6 do artigo 4.º do [Decreto-Lei n.�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Aos cargos a seguir mencionados constantes do anexo I ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, na redacção que lhe foi dada pela [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro, passam a corresponder as seguintes letras de vencimento do mesmo anexo:
+Artigo 1.º - 1 - Aos cargos a seguir mencionados constantes do anexo I ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, na redacção que lhe foi dada pela [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro, passam a corresponder as seguintes letras de vencimento do mesmo anexo:
 
 Letra E
 
@@ -141,7 +172,7 @@ Chefe de secretaria de concelho urbano de 1.ª ordem (sem concurso) ... 7
 
 Chefe de secretaria das Juntas Distritais de Lisboa e Porto (sem concurso) ... 7
 
-###### Art. 2.º - 1 - Passam a corresponder às letras de vencimento que vão indicadas os seguintes cargos constantes do anexo referido no artigo anterior:
+Art. 2.º - 1 - Passam a corresponder às letras de vencimento que vão indicadas os seguintes cargos constantes do anexo referido no artigo anterior:
 
 Letra I
 
@@ -169,20 +200,20 @@ Chefe de serviços técnicos de obras ... (a) 10
 
 2 - Os cargos com as designações referidas no número anterior que não satisfaçam aos condicionalismos ali indicados mantêm as letras de vencimento atribuídas à sua categoria pelo mesmo anexo.
 
-###### Art. 3.º Nas aposentações requeridas ou impostas posteriormente a 1 de Junho de 1978 servirão de base para o cálculo da respectiva pensão os vencimentos advenientes das alterações de letra verificados por efeito da aplicação do presente diploma.
+Art. 3.º Nas aposentações requeridas ou impostas posteriormente a 1 de Junho de 1978 servirão de base para o cálculo da respectiva pensão os vencimentos advenientes das alterações de letra verificados por efeito da aplicação do presente diploma.
 
-###### Art. 4.º O disposto nos n.os 3 e 4 do artigo 4.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, é aplicável à Administração Local relativamente às situações abrangidas pelo presente diploma.
+Art. 4.º O disposto nos n.os 3 e 4 do artigo 4.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, é aplicável à Administração Local relativamente às situações abrangidas pelo presente diploma.
 
-###### Art. 5.º - 1 - As importâncias entretanto abonadas a título de trabalho extraordinário aos titulares dos cargos considerados neste diploma ficam sujeitas ao regime de absorção previsto no n.º 4 do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
+Art. 5.º - 1 - As importâncias entretanto abonadas a título de trabalho extraordinário aos titulares dos cargos considerados neste diploma ficam sujeitas ao regime de absorção previsto no n.º 4 do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
 
 2 - A aplicação do regime referido no número anterior será feita mês a mês, não havendo lugar a reposições.
 
-###### Art. 6.º O disposto nos artigos anteriores produz efeitos desde 1 de Junho de 1978.
+Art. 6.º O disposto nos artigos anteriores produz efeitos desde 1 de Junho de 1978.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 31 de Agosto de 1979.**
+Promulgado em 31 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/11/26700/15151528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4e88af584557cc022ed2959fe8389cbab480f36969054e801665f80147b8de2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6084ca13e536f7757a99b958ca2971120b87d6257e4699fa2e230f450d3977ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Condicionamento Industrial
+- Estabelecimento Industrial
+- Instalação de Serviços
+- Licenciamento
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:472719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217108:por
+  label: "Eliminada a indústria de fabricação de produtos radioactivos do quadro I anexo pelo DEC LEI.49398.24.11.1969.PC,\
+    \ DG.IS [275] de 24.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49398-1969-217108
+  date: '1969-11-24'
+- type: amended_by
+  target: pt:dre:228816:por
+  label: "Alterado o nº 3 do art. 5º pelo DEC LEI.122/70.20.03.1970.MU, DG.IS [67] de 20.03.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1970-228816
+  date: '1970-03-20'
+- type: amended_by
+  target: pt:dre:472719:por
+  label: "Determinada a abolição do regime de condicionamento industrial nacional e revogado presente diploma pelo DEC LEI.533/74.10.10.1974.MECO,\
+    \ DG.IS [236] de 10.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1974-472719
+  date: '1974-10-10'
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974, sem prejuízo do disposto no art. 55º\
+    \ daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:14Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +291,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I) Do condicionamento industrial
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito do condicionamento)
 
@@ -240,7 +309,7 @@ d) A mudança de local dos estabelecimentos a efectuar para território nacional
 
 3. O período a que se refere a alínea b) do n.º 1 do presente artigo conta-se do momento em que houver cessado completamente a laboração no estabelecimento.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Condicionamento nacional e condicionamento territorial)
 
@@ -258,7 +327,7 @@ b) Regime do condicionamento territorial, que respeita às indústrias cuja inst
 
 5. Os actos referidos na alínea c) do n.º 1 do artigo 1.º respeitam, quanto às indústrias abrangidas pelo condicionamento territorial, exclusivamente aos equipamentos que, no que se refere a estabelecimentos instalados no continente e ilhas adjacentes, constem de lista a publicar por decreto do Secretário de Estado da Indústria e, no que se refere a estabelecimentos instalados em cada uma das províncias ultramarinas, constem de lista, a publicar por portaria dos respectivos governadores.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Coordenação pelo Conselho de Ministros para os Assuntos Económicos)
 
@@ -266,7 +335,7 @@ O Conselho de Ministros para os Assuntos Económicos definirá os princípios e 
 
 II) Das licenças
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Natureza das licenças)
 
@@ -276,7 +345,7 @@ II) Das licenças
 
 3. A celebração de negócios jurídicos em contrário do disposto nos números anteriores determina a caducidade da licença.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Competência para o licenciamento)
 
@@ -286,7 +355,7 @@ II) Das licenças
 
 3. Exceptuam-se do disposto no n.º 1 deste artigo os actos referidos na alínea c) do n.º 1 do artigo 1.º, bem como os actos referidos na alínea d) do mesmo número quando tenham de efectuar-se no mesmo território, para cujo licenciamento terão competência o Secretário de Estado da Indústria ou os governadores das províncias ultramarinas, consoante se trate, respectivamente, de estabelecimentos instalados no continente e ilhas adjacentes ou nas mesmas províncias.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Condições ou prazos introduzidos nas licenças)
 
@@ -294,7 +363,7 @@ II) Das licenças
 
 2. Se a licença não contiver quaisquer condições ou prazos, considera-se concedida nos precisos termos do pedido, e só serão relevantes, para este efeito, os elementos nele indicados em cumprimento do n.º 1 do artigo 17.º e o prazo que tenha sido indicado pelo requerente.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Prazo para a execução das licenças)
 
@@ -308,7 +377,7 @@ II) Das licenças
 
 5. A entidade que concedeu a licença pode, a pedido do requerente, apresentado antes de se ter produzido a caducidade da licença, interromper o decurso do prazo quando entenda que a inexecução dos actos licenciados ocorre por motivo justificado e que esses actos ainda podem ser executados em tempo útil.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Condições das licenças para modificação de equipamento)
 
@@ -318,13 +387,13 @@ II) Das licenças
 
 3. Pode o interessado, invocando motivo justificativo, requerer que se proceda à selagem, do equipamento substituído, caso em que o requerente será nomeado fiel depositário do mesmo. Este equipamento não poderá permanecer nestas condições durante mais de dezoito meses, findos os quais será inutilizado ou afecto a qualquer outro fim, de Harmonia com o estabelecido no número anterior.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Condições das licenças relativas a normas e assistência técnica)
 
 A licença poderá ser concedida mediante a condição de os produtos a fabricar obedecerem às normas nacionais ou, no caso de não existirem, a normas estrangeiras e, bem assim, de a fabricação se fazer com a assistência técnica de laboratório ou entidade idónea.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Caução)
 
@@ -334,13 +403,13 @@ A licença poderá ser concedida mediante a condição de os produtos a fabricar
 
 3. A caução cessa com a execução dos actos licenciados e declarar-se-á perdida a favor do Estado se, nos casos do n.º 4 do artigo 7.º, tiver caducado a licença ou se esta for revogada nos termos da alínea a) do artigo 12.º
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Observância de outros preceitos regulamentares na execução das licenças)
 
 Na execução dos actos licenciados, os requerentes observarão os requisitos de localização, técnica, higiene, segurança, salubridade, comodidade, perigosidade ou toxicidade das instalações industriais exigidas pela legislação respectiva.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Revogação das licenças)
 
@@ -364,25 +433,25 @@ III) Do processo para o licenciamento
 
 #### SECÇÃO I — Generalidades
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Natureza pública do processo)
 
 Os processos de condicionamento são públicos, podendo ser consultados e deles passadas certidões, sem prejuízo do seu andamento normal.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Comunicações a fazer pelos serviços)
 
 As comunicações a fazer pela Administração serão sempre enviadas pela via mais rápida para o último domicílio ou sede indicados pelo requerente ou, respeitando a estabelecimento já existente, para a sua sede.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Competência para a instrução dos processos)
 
 A instrução dos processos compete, no caso de pedidos referentes a estabelecimentos instalados ou a instalar no continente e ilhas adjacentes, à Direcção-Geral dos Serviços Industriais, da Secretaria de Estado da Indústria, e, tratando-se de estabelecimentos instalados ou a instalar numa província ultramarina, à Direcção-Geral de Economia, do Ministério do Ultramar, sem prejuízo da competência dos serviços de economia dessa província, prevista nos artigos seguintes, nomeadamente, no artigo 22.º
 
-###### ARTIGO 16.º º
+ARTIGO 16.º º
 
 (Entidade competente para receber o pedido)
 
@@ -390,7 +459,7 @@ Os pedidos relativos a estabelecimentos instalados ou a instalar no continente e
 
 #### SECÇÃO II — Do processo de licenciamento relativo ao condicionamento nacional
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Forma e elementos do pedido)
 
@@ -430,7 +499,7 @@ i) Elementos sobre a importância relativa do empreendimento na economia territo
 
 4. O pedido pode ser apresentado pelo requerente em seu nome ou, em alternativa, no de sociedade a constituir. Em caso de deferimento, a licença considera-se concedida a favor da sociedade quando o requerente comprovar a sua constituição.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Saneamento e remessa do pedido)
 
@@ -442,7 +511,7 @@ i) Elementos sobre a importância relativa do empreendimento na economia territo
 
 4. A falta ou insuficiência dos elementos indicados no n.º 1 do artigo 17.º obstará a publicação referida no artigo seguinte, devendo o requerente saná-las dentro do prazo que lhe for notificado pelo competente serviço instrutor, sem o que será o requerimento arquivado.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Publicação do pedido)
 
@@ -452,7 +521,7 @@ i) Elementos sobre a importância relativa do empreendimento na economia territo
 
 3. Os governadores de cada província ultramarina publicarão, sempre que o julgarem conveniente, a síntese dos pedidos no respectivo Boletim Oficial.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Consultas)
 
@@ -466,7 +535,7 @@ i) Elementos sobre a importância relativa do empreendimento na economia territo
 
 5. Os serviços instrutores poderão ainda solicitar ou aceitar elementos de informação de quaisquer entidades públicas ou privadas, designadamente do Instituto Nacional de Investigação Industrial.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Oposição e resposta)
 
@@ -478,13 +547,13 @@ i) Elementos sobre a importância relativa do empreendimento na economia territo
 
 4. O requerente poderá responder às oposições apresentando a sua resposta no serviço instrutor, em duplicado, sendo o original em papel selado, no prazo de quinze dias, contados da data do ofício que lhe remeteu as oposições.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Instrução dos processos nas províncias ultramarinas)
 
 Nas províncias ultramarinas os serviços de economia apresentarão, relativamente aos pedidos respeitantes a estabelecimentos instalados ou a instalar no respectivo território, os processos, devidamente instruídos e com a sua informação fundamentada, incluindo os elementos estatísticos disponíveis, ao respectivo governador, que os remeterá ao Ministério do Ultramar, no prazo de 90 dias, contados da publicação do pedido.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Informação dos governadores das províncias ultramarinas)
 
@@ -492,7 +561,7 @@ Os governadores das províncias ultramarinas informarão o Ministro do Ultramar,
 
 Se a informação não for remetida no prazo de 60 dias, contados da data da publicação do pedido, o processo seguirá os seus termos.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Pareceres das direcções-gerais não instrutoras)
 
@@ -508,7 +577,7 @@ Se a informação não for remetida no prazo de 60 dias, contados da data da pub
 
 6. Os pareceres mencionados nos n.os 1 e 2 do presente artigo devem ser remetidos à Direcção-Geral instrutora no prazo de 120 dias contados da data da publicação do pedido, não carecendo tais pareceres de ser submetidos a despacho superior.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Conclusão da instrução e resolução ministerial)
 
@@ -518,13 +587,13 @@ Se a informação não for remetida no prazo de 60 dias, contados da data da pub
 
 3. O despacho final será comunicado ao requerente pela Direcção-Geral instrutora e publicado no Boletim do Condicionamento Nacional.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Processo especial para as modificações do equipamento e transferência de local)
 
 Os pedido de licença relativos aos actos referidos na alínea c) do n.º 1 do artigo 1.º e os actos referidos na alínea d) do mesmo número, quando tenham de efectuar-se num mesmo território, seguirão o processo estabelecido na secção III do presente capítulo para o condicionamento territorial, ainda que aqueles actos respeitem a indústrias sujeitas a condicionamento nacional.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Renovação do pedido)
 
@@ -532,7 +601,7 @@ Se a licença pedida nos termos dos artigos 17.º e seguintes não for concedida
 
 #### SECÇÃO III — Do processo de licenciamento relativo ao condicionamento territorial
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Para o continente e ilhas adjacentes)
 
@@ -550,7 +619,7 @@ Se a licença pedida nos termos dos artigos 17.º e seguintes não for concedida
 
 7. A instrução do processo deverá estar concluída no prazo de 90 dias, contados da data da publicação do pedido, devendo a resolução ministerial ser comunicada ao requerente e publicada no Boletim Semanal da Direcção-Geral dos Serviços Industriais.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Para as províncias ultramarinas)
 
@@ -570,7 +639,7 @@ Se a licença pedida nos termos dos artigos 17.º e seguintes não for concedida
 
 IV) Dos estabelecimentos não sujeitos a condicionamento e regimes especiais relativos a isenção do condicionamento
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Autorização vinculada para estabelecimentos não sujeitos a condicionamento)
 
@@ -582,7 +651,7 @@ IV) Dos estabelecimentos não sujeitos a condicionamento e regimes especiais rel
 
 4. Dos despachos proferidos nos termos deste artigo cabe recurso hierárquico, nos termos estabelecidos pela lei administrativa.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Trabalho caseiro e familiar autónomo)
 
@@ -590,7 +659,7 @@ IV) Dos estabelecimentos não sujeitos a condicionamento e regimes especiais rel
 
 2. As indústrias sujeitas a condicionamento territorial consentâneas com o trabalho no domicílio serão oportunamente indicadas, no continente e ilhas adjacentes, por decreto do Secretário de Estado da Indústria e, nas províncias ultramarinas, por portaria do respectivo governo.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Estabelecimentos complementares da exploração agrícola)
 
@@ -604,7 +673,7 @@ IV) Dos estabelecimentos não sujeitos a condicionamento e regimes especiais rel
 
 V) Da fiscalização
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Competência)
 
@@ -616,7 +685,7 @@ b) Nas províncias ultramarinas, aos respectivos serviços de economia.
 
 2. Incumbe às corporações e aos organismos corporativos e de coordenação económica auxiliar a fiscalização, informando aqueles serviços das infracções de que tenham conhecimento.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Auto de notícia)
 
@@ -624,7 +693,7 @@ b) Nas províncias ultramarinas, aos respectivos serviços de economia.
 
 2. O auto de notícia será lavrado nos termos do artigo 166.º do Código de Processo Penal e terá a força probatória prevista no artigo 169.º daquele diploma, mesmo que não contenha a indicação de testemunhas.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Penalidades)
 
@@ -640,7 +709,7 @@ b) Nas províncias ultramarinas, aos respectivos serviços de economia.
 
 6. Se o transgressor não pagar a multa, aplicada nos termos de qualquer dos números anteriores, dentro do prazo de dez dias, a contar da notificação do despacho definitivo, será participado o facto, para efeitos de cobrança coerciva, ao tribunal das execuções fiscais, no continente e ilhas adjacentes, e aos juízos das execuções fiscais ou às repartições da Fazenda funcionando como tal, nos territórios ultramarinos.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Providências cautelares)
 
@@ -654,13 +723,13 @@ b) Nas províncias ultramarinas, aos respectivos serviços de economia.
 
 5. Proferido o despacho ordenando a desselagem, devem os serviços dar-lhe imediato cumprimento.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Recurso hierárquico)
 
 Dos despachos que aplicarem as penalidades previstas no artigo 35.º ou ordenarem as providências previstas no artigo 36.º cabe recurso hierárquico, nos termos estabelecidos pela lei administrativa.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Colaboração de outras autoridades)
 
@@ -668,13 +737,13 @@ As autoridades administrativas ou policiais, quando solicitadas pelas entidades 
 
 VI)Disposições gerais e transitórias
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Criação do «Boletim Nacional de Condicionamento Industrial»)
 
 As Direcções-Gerais de Economia e dos Serviços Industriais publicarão conjuntamente um boletim designado Boletim Nacional de Condicionamento Industrial, com a periodicidade que for julgada conveniente, devendo ser regulado por despacho dos Ministros das Finanças e do Ultramar e do Secretário de Estado da Indústria o que administrativamente lhe respeitar.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Alteração dos quadros anexos)
 
@@ -682,13 +751,13 @@ As Direcções-Gerais de Economia e dos Serviços Industriais publicarão conjun
 
 2. Todas as alterações efectuadas nos termos do número anterior serão publicadas no Boletim Nacional de Condicionamento Industrial.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Recurso contencioso)
 
 Dos actos definitivos e executórios praticados na execução do presente diploma cabe recurso contencioso, nos termos estabelecidos pela lei administrativa.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Vigência de regimes específicos relativos a determinadas indústrias)
 
@@ -696,13 +765,13 @@ Dos actos definitivos e executórios praticados na execução do presente diplom
 
 2. As regras constantes do presente decreto-lei serão aplicáveis às indústrias sujeitas ao regime específico a que se refere o número anterior sempre que não contrariem as disposições dos respectivos diplomas.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Revogações)
 
 São revogados os Decretos n.os 985, de 28 de Outubro de 1914, e 26509, de 11 de Abril de 1936; os Decretos-Leis n.os 33924, de 5 de Setembro de 1944, e 34643, de 1 de Junho de 1945; o [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954; a Portaria Ministerial n.º 15131, de 10 de Novembro de 1954, e o [Decreto-Lei n.º 40374](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40374-1955-248001), de 10 de Novembro de 1955.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Vigência transitória dos condicionamentos actuais)
 
@@ -712,13 +781,13 @@ São revogados os Decretos n.os 985, de 28 de Outubro de 1914, e 26509, de 11 de
 
 3. Enquanto não forem publicados os diplomas a que se refere o n.º 5 do artigo 2.º, os actos referidos na alínea e) do n.º 1 do artigo 1.º respeitam, quanto às indústrias abrangidas pelo condicionamento territorial, exclusivamente aos equipamentos cujas modificações careciam de autorização segundo a legislação até agora em vigor em cada um dos respectivos territórios nacionais, com excepção dos que passarem a constar do quadro II anexo ao presente diploma.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Entrada em vigor do diploma)
 
 O presente diploma entra em vigor no dia 1 de Janeiro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira Eduardo de Arames e Oliveira - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.
 
@@ -728,7 +797,7 @@ QUADRO I
 
 Indústrias sujeitas a condicionamento nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/26700/15151528.pdf))](https://files.diariodarepublica.pt/1s/1965/11/26700/15151528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/26700/15151528.pdf)
 
 QUADRO II
 
@@ -736,6 +805,6 @@ QUADRO II
 
 Indústrias abrangidas pelo condicionamento nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/26700/15151528.pdf))](https://files.diariodarepublica.pt/1s/1965/11/26700/15151528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/26700/15151528.pdf)
 
 Ministérios do Ultramar e da Economia, 24 de Novembro de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Economia, José Gonçalo da Cunha Sottomayor Correia de Oliveira.

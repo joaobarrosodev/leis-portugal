@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46861-1966-488820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e350900788544e3eed48d7c814d59fb2ad4b135913f837cd35793909386fcfa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cb26ca82f5ed5c4127065555346c5a740357a01f41d8d961d25fa681cee0a0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo de Maneio
+- Junta Nacional dos Vinhos
+- Região Demarcada
+- Secretário de Estado do Comércio
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:363709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685992:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:05Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +123,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Sobre os vinhos e derivados relativos à produção de 1965 que se destinem a transacções comerciais na área em que a Junta Nacional do Vinho exerce a sua acção de regularização do mercado incidirá, durante o ano de 1966, a taxa de $40 por litro, que constitui receita da Junta Nacional do Vinho.
+Artigo 1.º Sobre os vinhos e derivados relativos à produção de 1965 que se destinem a transacções comerciais na área em que a Junta Nacional do Vinho exerce a sua acção de regularização do mercado incidirá, durante o ano de 1966, a taxa de $40 por litro, que constitui receita da Junta Nacional do Vinho.
 
 § 1.º Exceptuam-se do disposto neste artigo:
 
@@ -126,33 +143,33 @@ b) O correspondente ao litro, por cada recipiente da capacidade compreendida ent
 
 c) O correspondente a metade, por cada recipiente ela capacidade inferior a 6 dl.
 
-###### Art. 2.º Ficam obrigadas ao pagamento da taxa referida no artigo anterior as entidades abrangidas pelo disposto nos artigos 7.º e 8.º do [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, ou quaisquer outras entidades a estas equiparadas ou que a elas se possam equiparar, devendo a cobrança ser feita nos termos desse diploma e das Portarias n.os 15236 e 16295, respectivamente de 2 de Fevereiro de 1955 e 16 de Maio de 1957.
+Art. 2.º Ficam obrigadas ao pagamento da taxa referida no artigo anterior as entidades abrangidas pelo disposto nos artigos 7.º e 8.º do [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, ou quaisquer outras entidades a estas equiparadas ou que a elas se possam equiparar, devendo a cobrança ser feita nos termos desse diploma e das Portarias n.os 15236 e 16295, respectivamente de 2 de Fevereiro de 1955 e 16 de Maio de 1957.
 
 § 1.º As entidades abrangidas pelo disposto no artigo 7.º do [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992) deverão pagar nos respectivos grémios, até ao fim de cada quinzena, as taxas relativas aos produtos vendidos na quinzena anterior.
 
 § 2.º Quando cobrada por avença, a taxa será paga por inteira no mês de Março ou em dez prestações mensais, de 1 a 10 de cada mês, a partir de Março.
 
-###### Art. 3.º Não sendo paga, no mês do seu vencimento, qualquer das prestações ou a totalidade das importâncias relativas à taxa a que se refere este diploma, começarão a contar-se imediatamente juros de mora, calculados pela percentagem de 2 por cento por cada mês até ao 12.º e pela de 3 por cento por cada um dos meses seguintes.
+Art. 3.º Não sendo paga, no mês do seu vencimento, qualquer das prestações ou a totalidade das importâncias relativas à taxa a que se refere este diploma, começarão a contar-se imediatamente juros de mora, calculados pela percentagem de 2 por cento por cada mês até ao 12.º e pela de 3 por cento por cada um dos meses seguintes.
 
 § único. Passados 60 dias sobre o vencimento do montante da taxa ou de qualquer das suas prestações sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo, para arrecadação das importâncias em dívida, de acordo com as disposições e segundo o processo aplicáveis à cobrança das demais taxas arrecadadas pela Junta Nacional do Vinho, considerando-se também vencidas, para o efeito, todas as prestações que ainda se devam.
 
-###### Art. 4.º A cobrança, relativamente aos produtos comercializados em recipientes de capacidade até 5,3 l, será efectuada através do selo ou cápsula emitidos pela Junta Nacional do Vinho e Federação dos Vinicultores do Dão.
+Art. 4.º A cobrança, relativamente aos produtos comercializados em recipientes de capacidade até 5,3 l, será efectuada através do selo ou cápsula emitidos pela Junta Nacional do Vinho e Federação dos Vinicultores do Dão.
 
-###### Art. 5.º Os organismos vinícolas regionais, os grémios da lavoura, o Grémio dos Armazenistas de Vinhos e o Grémio do Comércio de Exportação de Vinhos remeterão à Junta Nacional do Vinho, nos dias 10, 20 e último de cada mês, o produto das taxas por eles arrecadadas no decêndio interior.
+Art. 5.º Os organismos vinícolas regionais, os grémios da lavoura, o Grémio dos Armazenistas de Vinhos e o Grémio do Comércio de Exportação de Vinhos remeterão à Junta Nacional do Vinho, nos dias 10, 20 e último de cada mês, o produto das taxas por eles arrecadadas no decêndio interior.
 
-###### Art. 6.º São abrangidos pelo disposto no artigo 1.º deste diploma os produtos que a Junta Nacional do Vinho adquira na sua acção de intervenção no mercado, mas o quantitativo da taxa é determinado em função da sua graduação alcoólica, na base de $0333 por cada grau litro, considerando-se para o efeito, no caso de vinho, como máxima a graduação de 12º e como mínima a de 10º, sendo o montante da taxa deduzido do valor da aquisição do produto.
+Art. 6.º São abrangidos pelo disposto no artigo 1.º deste diploma os produtos que a Junta Nacional do Vinho adquira na sua acção de intervenção no mercado, mas o quantitativo da taxa é determinado em função da sua graduação alcoólica, na base de $0333 por cada grau litro, considerando-se para o efeito, no caso de vinho, como máxima a graduação de 12º e como mínima a de 10º, sendo o montante da taxa deduzido do valor da aquisição do produto.
 
-###### Art. 7.º A receita resultante da cobrança da taxa a que se refere este diploma será ùnicamente aplicada na cobertura dos encargos que resultem da intervenção.
+Art. 7.º A receita resultante da cobrança da taxa a que se refere este diploma será ùnicamente aplicada na cobertura dos encargos que resultem da intervenção.
 
-###### Art. 8.º O Secretário de Estado do Comércio estabelecerá, por despacho, mediante proposta do Grémio dos Armazenistas de Vinhos, ouvida a Junta Nacional do Vinho, as normas de disciplina gremial julgadas convenientes para garantir a cobrança da taxa a que se refere este diploma.
+Art. 8.º O Secretário de Estado do Comércio estabelecerá, por despacho, mediante proposta do Grémio dos Armazenistas de Vinhos, ouvida a Junta Nacional do Vinho, as normas de disciplina gremial julgadas convenientes para garantir a cobrança da taxa a que se refere este diploma.
 
-###### Art. 9.º Fica suspensa, durante o ano de 1966, a acção de intervenção da Junta Nacional do Vinho na região demarcada dos vinhos verdes, podendo o Secretário de Estado do Comércio, por despacho, determinar a restituição à Comissão de Viticultura daquela região do produto da cobrança da taxa, que, nos termos do [Decreto-Lei n.º 45675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45675-1964-472536), de 23 de Abril de 1964, constitui receita da Junta com vista às despesas da intervenção.
+Art. 9.º Fica suspensa, durante o ano de 1966, a acção de intervenção da Junta Nacional do Vinho na região demarcada dos vinhos verdes, podendo o Secretário de Estado do Comércio, por despacho, determinar a restituição à Comissão de Viticultura daquela região do produto da cobrança da taxa, que, nos termos do [Decreto-Lei n.º 45675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45675-1964-472536), de 23 de Abril de 1964, constitui receita da Junta com vista às despesas da intervenção.
 
-###### Art. 10.º As dúvidas e casos omissos suscitados na aplicação do presente diploma serão resolvidos em despacho do Secretário de Estado do Comércio.
+Art. 10.º As dúvidas e casos omissos suscitados na aplicação do presente diploma serão resolvidos em despacho do Secretário de Estado do Comércio.
 
-###### Art. 11.º O presente diploma entra imediatamente em vigor.
+Art. 11.º O presente diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Fevereiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 273/1977, 1º Suplemento, Série I de 1977-11-25
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2818-(1) a 2818-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27301/00010050.pdf
 entry_into_force_dates: []
@@ -46,40 +46,276 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1977-300030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa9bf4fea51f60a52e627e72b734ba543433e461a579ca4aa0f37752056344c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c7681826820495f0adcf5c212ce29b8755cf6dbad15bd10bf4aa21b4af37ced
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adopção
+- Associação
+- Casamento
+- Código Civil
+- Comissão
+- Cônjuge
+- Contrato
+- Direito Civil
+- Direito de Família
+- Direito Privado
+- Direitos e Liberdades
+- Dívida
+- Divórcio
+- Doação
+- Ensino Religioso
+- Estatuto Jurídico
+- Filiação
+- Herança
+- Igualdade de Tratamento
+- Menoridade
+- Nacionalidade
+- Personalidade Jurídica
+- Pessoa Coletiva
+- Poder Paternal
+- Regime Jurídico
+- Residência
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:116043536:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567884:por
+  label: "Alterado o n.º 2 e eliminado o n.º 3 do art. 1051º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966,\
+    \ na redacção do presente diploma, pelo DEC LEI.328/81.04.12.1981.MHOPT, DR.IS [279] de 04.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1981-567884
+  date: '1981-12-04'
+- type: amended_by
+  target: pt:dre:177451:por
+  label: "Alterado o nº 2 do art. 1051º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na redacção do presente\
+    \ diploma, pela LEI.46/85.20.09.1985.AR, DR.IS [217] de 20.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-1985-177451
+  date: '1985-09-20'
+- type: amended_by
+  target: pt:dre:282517:por
+  label: "Alterados, a partir da entrada em vigor (três meses após a publicação), os arts. 1974º, 1978º, 1979º, 1980º, 1981º,\
+    \ 1982º, 1983º, 1984º, 1985º, 1988º e 1992º do Código, na redacção dada pelo presente diploma, pelo DEC LEI.185/93.1993.05.22.MJ,\
+    \ DR.IS-A [119], com excepção das alterações à primeira parte do n.º 3 do art. 1979.º e a primeira parte do n.º 2 do art.\
+    \ 1992.º do Código, que entram em vigor dois anos após a sua publicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1993-282517
+  date: '1993-05-22'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Alterados, a partir de 01.03.1995, os arts. 1889º, 1890º e 1892º e 1938º do Código Civil, aprovado pelo Dec Lei\
+    \ 47344, de 25-Nov 1966, na redacção do presente diploma, pelo DEC LEI.227/94.1994.09.08.MJ DR.IS-A [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: amended_by
+  target: pt:dre:461217:por
+  label: "Alterados, a partir de 15.09.1995, os arts. 1604º, 1609º , 1612º, 1773º, 1795º-C, 1832º e 1833º do Código Civil,\
+    \ aprovado pelo Dec Lei 47344, de 25-Nov 1966, na redacção do presente diploma, pelo DEC LEI.163/95.1995.07.13.MJ, DR.IS-A\
+    \ [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1995-461217
+  date: '1995-07-13'
+- type: amended_by
+  target: pt:dre:548468:por
+  label: "Alterados os art.s 1905º e 1906º do Código Civil, aprovado pelo Dec Lei 47344 de 25-Nov 1966, na redacção do presente\
+    \ diploma, pela LEI.84/95.1995.08.31.AR DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/84-1995-548468
+  date: '1995-08-31'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterado o art. 1696º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, na redacção do presente diploma,\
+    \ pelo DEC LEI.329-A/95.1995.12.12.MJ, DR.IS-A [285]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:517214:por
+  label: "Alterados, nos termos do art. 6.º, os arts. 1978º, 1979º, 1980º, 1981º, 1982º, 1984º e 1992º do Código Civil, aprovado\
+    \ pelo Dec Lei 47244 de 25-Nov, na redacção do presente diploma, pelo DEC LEI.120/98.08.05.1998.MJ, DR.IS-A [106] de 08.05.1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1998-517214
+  date: '1998-05-08'
+- type: amended_by
+  target: pt:dre:516740:por
+  label: "Alterados os arts. 1817º e 1871º do Código Civil aprovado pelo Dec Lei 47344, de 25-Nov 1966, na redacção do presente\
+    \ diploma, pela LEI.21/98.1998.05.12.AR DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-1998-516740
+  date: '1998-05-12'
+- type: amended_by
+  target: pt:dre:438195:por
+  label: "Alterado o nº 1 do art. 1775º e als. a), b), c) e d) do art. 1781º, ambos na redacção do presente diploma, e eliminado\
+    \ o art. 1784º do Código Civil aprovado pelo Dec Lei 47344 de 25-Nov 1966, pela LEI.47/98.10.08.1998.AR, DR.IS-A [183]\
+    \ de 10.08.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-1998-438195
+  date: '1998-08-10'
+- type: amended_by
+  target: pt:dre:371437:por
+  label: "Alterado, a partir de 30.07.1999, o art. 1906.º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, na\
+    \ redacção do presente diploma, pela LEI.59/99.1999.06.30.AR DR.IS-A [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-1999-371437
+  date: '1999-06-30'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterado, a partir de 01.01.2002, o art. 1832º do Código Civil aprovado pelo Dec Lei 47344, de 25-Nov 1966, na redacção\
+    \ do presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ, DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:656109:por
+  label: "Alterados os arts. 1974º, 1978º, 1979º, 1980º, 1981º, 1983º e 1992º do Código Civil, aprovado pelo Dec Lei 47344,\
+    \ de 25-Nov 1966, alterado pelo presente diploma, pela LEI.31/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2003-656109
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterados os arts. 1051º e 1682º-B do Código Civil aprovado pelo Dec Lei 47344 de 25-Nov 1966, com a redacção introduzida\
+    \ pelo presente diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:640908:por
+  label: "Alterados os arts. 158º e 168º do Código Civil, aprovado pelo Dec Lei 47344 de 25-Nov, 1966, na redacção do presente\
+    \ diploma, pela LEI.40/2007.24.08.2007.AR, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2007-640908
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterados os arts. 1599.º, 1603.º, 1633.º, 1720.º, 1857.º e 1987.º do Código Civil, aprovado pelo Dec Lei 47344,\
+    \ de 25-Nov 1966, na redacção dada pelo presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:439097:por
+  label: "Alterados os art.s 1676º, 1773º, 1774º, 1775º, 1776º, 1778º, 1779º, 1781º, 1785º, 1789º, 1790º, 1791º, 1792º, 1793º,\
+    \ 1795º-D, 1901º, 1902º, 1903º, 1904º, 1905º, 1906º, 1907º, 1908º, 1910º, 1911º, 1912º e 2016º do Código Civil, aprovado\
+    \ pelo Dec Lei 47344, de 25-Nov de 1966, na redacção do presente diploma, pela LEI.61/2008.31.10.2008.AR, DR.IS [212]\
+    \ de 31.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-2008-439097
+  date: '2008-10-31'
+- type: amended_by
+  target: pt:dre:603221:por
+  label: "Alterados os arts. 1817.º e 1842.º do Código Civil, aprovado pelo Dec Lei 47344 de 25-Nov, 1966, na redacção do\
+    \ presente diploma, pela LEI.14/2009.01.04.2009.AR, DR.IS [64] de 01.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2009-603221
+  date: '2009-04-01'
+- type: amended_by
+  target: pt:dre:489737:por
+  label: "Alterado, a partir do dia seguinte ao da publicação do diploma regulamentador da habilitação dos padrinhos, prevista\
+    \ no artigo 12.º, o art. 1961.º do Código Civil, aprovado pelo Dec Lei 47344 de 25-Nov 1966, na redacção do presente diploma,\
+    \ pela LEI.103/2009.11.09.2009.AR, DR.IS [177] de 11.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/103-2009-489737
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:332460:por
+  label: "Alterado o art. 1577º do Código Civil, aprovado pelo Dec Lei 47344 de 25-Nov de 1966, com a redacção constante deste\
+    \ diploma, pela LEI.9/2010.31.05.2010.AR, DR.IS [105] de 31.05.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2010-332460
+  date: '2010-05-31'
+- type: amended_by
+  target: pt:dre:343919:por
+  label: "Dada nova redacção ao art. 2020º do Código Civil, aprovado pelo Dec Lei 47344 de 25-Nov de 1966, com a redacção\
+    \ conferida neste diploma, pela LEI.23/2010.30.08.2010.AR, DR.IS [168] de 30.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2010-343919
+  date: '2010-08-30'
+- type: amended_by
+  target: pt:dre:179571:por
+  label: "Alterados os art.s 158º, 166º e 168º do Código Civil, aprovado pelo Dec Lei 47344, na redação do presente diploma,\
+    \ pela LEI.24/2012.09.07.2012.AR, DR.IS [131] de 09.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-2012-179571
+  date: '2012-07-09'
+- type: amended_by
+  target: pt:dre:259267:por
+  label: "Alterado, a partir de 02.09.2013, o art. 1770.º, na redação do presente diploma, pela LEI.23/2013.05.03.2013.AR,\
+    \ DR.IS [45] de 05.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2013-259267
+  date: '2013-03-05'
+- type: amended_by
+  target: pt:dre:70152049:por
+  label: Alterado a partir de 01.10.2015 o art. 1905.º do Código Civil aprovado pelo Dec Lei 47344, de 25-nov 1966, na redação
+    do presente diploma pelo(a) Lei n.º 122/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/122-2015-70152049
+  date: '2015-09-01'
+- type: amended_by
+  target: pt:dre:70196964:por
+  label: Alterado, a partir de 01.10.2015, o art. 1602.º do Código Civil, aprovado pelo Dec Lei 47344 de 25-nov 1966, com
+    a redação dada pelo presente diploma, pelo(a) Lei n.º 137/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/137-2015-70196964
+  date: '2015-09-07'
+- type: amended_by
+  target: pt:dre:70215247:por
+  label: Alterados (a partir de 07.12.2015), os arts. 1973.º, 1978.º, 1979.º, 1980.º, 1981.º, 1983.º, 1987.º e 1988.º do Código
+    Civil, aprovado pelo Dec Lei 47344 de 25-nov 1966, na redação do presente diploma, pelo(a) Lei n.º 143/2015 - Diário da
+    República n.º 175/2015, Série I de 2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/143-2015-70215247
+  date: '2015-09-08'
+- type: amended_by
+  target: pt:dre:70241301:por
+  label: Alterados, a partir de 10.10.2015, os arts. 166.º e 168.º do Código Civil, aprovado pelo Dec Lei 47344, de 25-nov
+    1966, com a redação dada pelo presente diploma, pelo(a) Lei n.º 150/2015 - Diário da República n.º 177/2015, Série I de
+    2015-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/150-2015-70241301
+  date: '2015-09-10'
+- type: amended_by
+  target: pt:dre:106542299:por
+  label: Alterados, a partir de 01.04.2017, os arts. 1911.º e 1912.º do Código Civil aprovados pelo Dec Lei 47344 de 25-nov
+    1966, na redação do presente diploma, pelo(a) Lei n.º 5/2017 - Diário da República n.º 44/2017, Série I de 2017-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2017-106542299
+  date: '2017-03-02'
+- type: amended_by
+  target: pt:dre:106549655:por
+  label: Alterado, a partir de 01.05.2017, o art. 1775.º do Código Civil aprovado pelo Dec Lei 47344 de 25-nov-1966, na redação
+    do presente diploma, pelo(a) Lei n.º 8/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-2017-106549655
+  date: '2017-03-03'
+- type: amended_by
+  target: pt:dre:116043536:por
+  label: Alterados, a partir de 10.02.2019, os arts. 85.º,138.º, 141.º, 143.º, 144.º, 147.º, 1601.º, 1604.º, 1633.º, 1643.º,
+    1650.º, 1769.º, 1785.º, 2189.º, 2192.º, 2195.º do Código Civil, aprovado pelo Dec Lei 47344 de 25-nov 1966, com a redação
+    dada pelo presente diploma, pela Lei pelo(a) Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2018-116043536
+  date: '2018-08-14'
+- type: cites
+  target: pt:dre:408722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471532:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:468825:por
+  label: Rectificado pela DECL.DD7490.04.01.1978.PCM, DR.IS [3] de 04.01.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-468825
+  date: '1978-01-04'
 article_structure:
-  article_count: 1
-  section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 41
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:15Z'
   warnings: []
   errors: []
 ---
@@ -496,25 +732,25 @@ Assim:
 
 Usando da autorização conferida pela [Lei n.º 53/77](https://diariodarepublica.pt/dr/detalhe/lei/53-1977-408722), de 26 de Julho, o Governo decreta, nos termos da alínea h) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 52.º do Código Civil passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 52.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Relações entre os cônjuges)
 
 2. Não tendo os cônjuges a mesma nacionalidade, é aplicável a lei da sua residência habitual comum e, na falta desta, a lei do país com o qual a vida familiar se ache mais estreitamente conexa.
 
-###### Art. 2.º O n.º 2 do artigo 53.º do Código Civil passa a ter a seguinte redacção:
+Art. 2.º O n.º 2 do artigo 53.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Convenções antenupciais e regime de bens)
 
 2. Não tendo os nubentes a mesma nacionalidade, é aplicável a lei da sua residência habitual comum à data do casamento e, se esta faltar também, a lei da primeira residência conjugal.
 
-###### Art. 3.º O artigo 56.º do Código Civil passa a ter a seguinte redacção:
+Art. 3.º O artigo 56.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Constituição da filiação)
 
@@ -524,9 +760,9 @@ Usando da autorização conferida pela [Lei n.º 53/77](https://diariodarepublic
 
 3. Para os efeitos do número anterior, atender-se-á ao momento do nascimento do filho ou ao momento da dissolução do casamento, se for anterior ao nascimento.
 
-###### Art. 4.º O artigo 57.º do Código Civil passa a ter a seguinte redacção:
+Art. 4.º O artigo 57.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Relações entre pais e filhos)
 
@@ -534,11 +770,11 @@ Usando da autorização conferida pela [Lei n.º 53/77](https://diariodarepublic
 
 2. Se a filiação apenas se achar estabelecida relativamente a um dos progenitores, aplica-se a lei pessoal deste; se um dos progenitores tiver falecido, é competente a lei pessoal do sobrevivo.
 
-###### Art. 5.º São revogados os artigos 58.º e 59.º do Código Civil.
+Art. 5.º São revogados os artigos 58.º e 59.º do Código Civil.
 
-###### Art. 6.º O artigo 60.º do Código Civil passa a ter a seguinte redacção:
+Art. 6.º O artigo 60.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Filiação adoptiva)
 
@@ -550,17 +786,17 @@ Usando da autorização conferida pela [Lei n.º 53/77](https://diariodarepublic
 
 4. Se a lei competente para regular as relações entre o adoptando e os seus progenitores não conhecer o instituto da adopção, ou não o admitir em relação a quem se encontre na situação familiar do adoptando, a adopção não é permitida.
 
-###### Art. 7.º O n.º 1 do artigo 61.º do Código Civil passa a ter a seguinte redacção:
+Art. 7.º O n.º 1 do artigo 61.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Requisitos especiais da perfilhação ou adopção)
 
 1. Se, como requisito da perfilhação ou adopção, a lei pessoal do perfilhando ou adoptando exigir o consentimento deste, será a exigência respeitada.
 
-###### Art. 8.º O artigo 85.º do Código Civil passa a ter a seguinte redacção:
+Art. 8.º O artigo 85.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Domicílio legal dos menores e interditos)
 
@@ -574,29 +810,29 @@ Usando da autorização conferida pela [Lei n.º 53/77](https://diariodarepublic
 
 5. Não são aplicáveis as regras dos números anteriores se delas resultar que o menor ou interdito não tem domicílio em território nacional.
 
-###### Art. 9.º É revogado o artigo 86.º do Código Civil.
+Art. 9.º É revogado o artigo 86.º do Código Civil.
 
-###### Art. 10.º O artigo 115.º do Código Civil passa a ter a seguinte redacção:
+Art. 10.º O artigo 115.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Efeitos)
 
 A declaração de morte presumida produz os mesmos efeitos que a morte, mas não dissolve o casamento, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 11.º É revogado o n.º 2 do artigo 116.º do Código Civil, passando o actual n.º 1 a constituir o texto do artigo.
+Art. 11.º É revogado o n.º 2 do artigo 116.º do Código Civil, passando o actual n.º 1 a constituir o texto do artigo.
 
-###### Art. 12.º O artigo 122.º do Código Civil passa a ter a seguinte redacção:
+Art. 12.º O artigo 122.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Menores)
 
 É menor quem não tiver ainda completado dezoito anos de idade.
 
-###### Art. 13.º O artigo 125.º do Código Civil passa a ter a seguinte redacção:
+Art. 13.º O artigo 125.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 125.º
+ARTIGO 125.º
 
 (Anulabilidade dos actos dos menores)
 
@@ -610,9 +846,9 @@ c) A requerimento de qualquer herdeiro do menor, no prazo de um ano a contar da 
 
 2. A anulabilidade é sanável mediante confirmação do menor depois de atingir a maioridade ou ser emancipado, ou por confirmação do progenitor que exerça o poder paternal, tutor ou administrador de bens, tratando-se de acto que algum deles pudesse celebrar como representante do menor.
 
-###### Art. 14.º O n.º 1 do artigo 127.º do Código Civil passa a ter a seguinte redacção:
+Art. 14.º O n.º 1 do artigo 127.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 127.º
+ARTIGO 127.º
 
 (Excepções à incapacidade dos menores)
 
@@ -624,45 +860,45 @@ b) Os negócios jurídicos próprios da vida corrente do menor que, estando ao a
 
 c) Os negócios jurídicos relativos à profissão, arte ou ofício que o menor tenha sido autorizado a exercer, ou os praticados no exercício dessa profissão, arte ou ofício.
 
-###### Art. 15.º O artigo 130.º do Código Civil passa a ter a seguinte redacção:
+Art. 15.º O artigo 130.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 130.º
+ARTIGO 130.º
 
 (Efeitos da maioridade)
 
 Aquele que perfizer dezoito anos de idade adquire plena capacidade de exercício de direitos, ficando habilitado a reger a sua pessoa e a dispor dos seus bens.
 
-###### Art. 16.º O artigo 132.º do Código Civil passa a ter a seguinte redacção:
+Art. 16.º O artigo 132.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 132.º
+ARTIGO 132.º
 
 (Emancipação)
 
 O menor é, de pleno direito, emancipado pelo casamento.
 
-###### Art. 17.º O artigo 133.º do Código Civil passa a ter a seguinte redacção:
+Art. 17.º O artigo 133.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 133.º
+ARTIGO 133.º
 
 (Efeitos da emancipação)
 
 A emancipação atribui ao menor plena capacidade de exercício de direitos, habilitando-o a reger a sua pessoa e a dispor livremente dos seus bens como se fosse maior, salvo o disposto no artigo 1649.º
 
-###### Art. 18.º São revogados os artigos 134.º a 137.º do Código Civil.
+Art. 18.º São revogados os artigos 134.º a 137.º do Código Civil.
 
-###### Art. 19.º É revogado o n.º 3 do artigo 138.º do Código Civil.
+Art. 19.º É revogado o n.º 3 do artigo 138.º do Código Civil.
 
-###### Art. 20.º O n.º 2 do artigo 141.º do Código Civil passa a ter seguinte redacção:
+Art. 20.º O n.º 2 do artigo 141.º do Código Civil passa a ter seguinte redacção:
 
-###### ARTIGO 141.º
+ARTIGO 141.º
 
 (Legitimidade)
 
 2. Se o interditando estiver sob o poder paternal, só têm legitimidade para requerer a interdição os progenitores que exercerem aquele poder e o Ministério Público.
 
-###### Art. 21.º O artigo 143.º do Código Civil passa a ter a seguinte redacção:
+Art. 21.º O artigo 143.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 143.º
+ARTIGO 143.º
 
 (A quem incumbe a tutela)
 
@@ -678,25 +914,25 @@ d) Aos filhos maiores, preferindo o mais velho, salvo se o tribunal, ouvido o co
 
 2. Quando não seja possível ou razões ponderosas desaconselhem o deferimento da tutela nos termos do número anterior, cabe ao tribunal designar o tutor, ouvido o conselho de família.
 
-###### Art. 22.º O artigo 144.º do Código Civil passa a ter a seguinte redacção:
+Art. 22.º O artigo 144.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 144.º
+ARTIGO 144.º
 
 (Exercício do poder paternal)
 
 Recaindo a tutela no pai ou na mãe, exercem estes o poder paternal como se dispõe nos artigos 1878.º e seguintes.
 
-###### Art. 23.º O artigo 147.º do Código Civil passa a ter a seguinte redacção:
+Art. 23.º O artigo 147.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 147.º
+ARTIGO 147.º
 
 (Publicidade da interdição)
 
 À sentença de interdição definitiva é aplicável, com as necessárias adaptações, o disposto nos artigos 1920.º-B e 1920.º-C.
 
-###### Art. 24.º O artigo 158.º do Código Civil passa a ter a seguinte redacção:
+Art. 24.º O artigo 158.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 158.º
+ARTIGO 158.º
 
 (Aquisição da personalidade)
 
@@ -704,19 +940,19 @@ Recaindo a tutela no pai ou na mãe, exercem estes o poder paternal como se disp
 
 2. As fundações adquirem personalidade jurídica pelo reconhecimento, o qual é individual e da competência da autoridade administrativa.
 
-###### Art. 25.º Depois do artigo 158.º do Código Civil é acrescentado o artigo seguinte:
+Art. 25.º Depois do artigo 158.º do Código Civil é acrescentado o artigo seguinte:
 
-###### ARTIGO 158.º-A
+ARTIGO 158.º-A
 
 (Nulidade do acto de constituição ou instituição)
 
 É aplicável à constituição de pessoas colectivas o disposto no artigo 280.º, devendo o Ministério Público promover a declaração judicial da nulidade.
 
-###### Art. 26.º É revogado o artigo 161.º do Código Civil.
+Art. 26.º É revogado o artigo 161.º do Código Civil.
 
-###### Art. 27.º Os artigos 166.º e 168.º do Código Civil passam a ter a seguinte redacção:
+Art. 27.º Os artigos 166.º e 168.º do Código Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 166.º
+ARTIGO 166.º
 
 (Destino dos bens no caso de extinção)
 
@@ -726,7 +962,7 @@ Recaindo a tutela no pai ou na mãe, exercem estes o poder paternal como se disp
 
 ...
 
-###### ARTIGO 168.º
+ARTIGO 168.º
 
 (Forma e publicidade)
 
@@ -736,11 +972,11 @@ Recaindo a tutela no pai ou na mãe, exercem estes o poder paternal como se disp
 
 3. O acto de constituição, os estatutos e as suas alterações não produzem efeitos em relação a terceiros, enquanto não forem publicados nos termos do número anterior.
 
-###### Art. 28.º É revogado o artigo 169.º do Código Civil.
+Art. 28.º É revogado o artigo 169.º do Código Civil.
 
-###### Art. 29.º O n.º 2 do artigo 182.º do Código Civil passa a ter a seguinte redacção:
+Art. 29.º O n.º 2 do artigo 182.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 182.º
+ARTIGO 182.º
 
 (Causas de extinção)
 
@@ -754,9 +990,9 @@ c) Quando o seu fim seja sistematicamente prosseguido por meios ilícitos ou imo
 
 d) Quando a sua existência se torne contrária à ordem pública.
 
-###### Art. 30.º Os n.os 1 e 2 do artigo 183.º do Código Civil passam a ter a seguinte redacção:
+Art. 30.º Os n.os 1 e 2 do artigo 183.º do Código Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 183.º
+ARTIGO 183.º
 
 (Declaração da extinção)
 
@@ -764,21 +1000,21 @@ d) Quando a sua existência se torne contrária à ordem pública.
 
 2. Nos casos previstos no n.º 2 do artigo precedente, a declaração da extinção pode ser pedida em juízo pelo Ministério Público ou por qualquer interessado.
 
-###### Art. 31.º A epígrafe do capítulo III do subtítulo I do título II do livro I do Código Civil passa a ser a seguinte:
+Art. 31.º A epígrafe do capítulo III do subtítulo I do título II do livro I do Código Civil passa a ser a seguinte:
 
 Associações sem personalidade jurídica e comissões especiais
 
-###### Art. 32.º O n.º 1 do artigo 195.º do Código Civil passa a ter a seguinte redacção:
+Art. 32.º O n.º 1 do artigo 195.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 195.º
+ARTIGO 195.º
 
 (Organização e administração)
 
 1. À organização interna e administração das associações sem personalidade jurídica são aplicáveis as regras estabelecidas pelos associados e, na sua falta, as disposições legais relativas às associações, exceptuadas as que pressupõem a personalidade destas.
 
-###### Art. 33.º O artigo 197.º do Código Civil passa a ter a seguinte redacção:
+Art. 33.º O artigo 197.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 197.º
+ARTIGO 197.º
 
 (Liberalidades)
 
@@ -786,17 +1022,17 @@ Associações sem personalidade jurídica e comissões especiais
 
 2. Os bens deixados ou doados à associação sem personalidade jurídica acrescem ao fundo comum, independentemente de outro acto de transmissão.
 
-###### Art. 34.º O n.º 2 do artigo 450.º do Código Civil passa a ter a seguinte redacção:
+Art. 34.º O n.º 2 do artigo 450.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 450.º
+ARTIGO 450.º
 
 (Relações entre o promissário e pessoas estranhas ao benefício)
 
 2. Se a designação de terceiro for feita a título de liberalidade, são aplicáveis, com as necessárias adaptações, as normas relativas à revogação das doações por ingratidão do donatário.
 
-###### Art. 35.º Os artigos 722.º e 970.º do Código Civil passam a ter a seguinte redacção:
+Art. 35.º Os artigos 722.º e 970.º do Código Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 722.º
+ARTIGO 722.º
 
 (Expurgação no caso de revogação de doação)
 
@@ -804,25 +1040,25 @@ O direito de expurgação é extensivo ao doador ou aos seus herdeiros, relativa
 
 ...
 
-###### ARTIGO 970.º
+ARTIGO 970.º
 
 (Revogação da doação)
 
 As doações são revogáveis por ingratidão do donatário.
 
-###### Art. 36.º São revogados os artigos 971.º a 973.º do Código Civil.
+Art. 36.º São revogados os artigos 971.º a 973.º do Código Civil.
 
-###### Art. 37.º O artigo 977.º do Código Civil passa a ter a seguinte redacção:
+Art. 37.º O artigo 977.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 977.º
+ARTIGO 977.º
 
 (Inadmissibilidade de renúncia antecipada)
 
 O doador não pode antecipadamente renunciar ao direito de revogar a doação por ingratidão do donatário.
 
-###### Art. 38.º Os n.os 1 e 2 do artigo 1051.º do Código Civil passam a ter a seguinte redacção:
+Art. 38.º Os n.os 1 e 2 do artigo 1051.º do Código Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 1051.º
+ARTIGO 1051.º
 
 (Casos de caducidade)
 
@@ -842,9 +1078,9 @@ f) No caso de expropriação por utilidade pública, a não ser que a expropria�
 
 2. No caso previsto na alínea c) do número precedente, manter-se-á a posição do locatário, com actualização de renda nos termos legais, se assim for requerido.
 
-###### Art. 39.º O artigo 1052.º do Código Civil passa a ter a seguinte redacção:
+Art. 39.º O artigo 1052.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1052.º
+ARTIGO 1052.º
 
 (Excepções)
 
@@ -856,41 +1092,41 @@ b) Se o usufrutuário alienar o seu direito ou renunciar a ele, pois nestes caso
 
 c) Se for celebrado pelo cônjuge administrador.
 
-###### Art. 40.º Os artigos 1469.º e 1577.º do Código Civil passam a ter a seguinte redacção:
+Art. 40.º Os artigos 1469.º e 1577.º do Código Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 1469.º
+ARTIGO 1469.º
 
 (Dispensa de caução)
 
 A caução não é exigível do alienante com reserva de usufruto e pode ser dispensada no título constitutivo do usufruto.
 
-###### ARTIGO 1577.º
+ARTIGO 1577.º
 
 (Noção de casamento)
 
 Casamento é o contrato celebrado entre duas pessoas de sexo diferente que pretendem constituir família mediante uma plena comunhão de vida, nos termos das disposições deste Código.
 
-###### Art. 41.º É revogado o artigo 1583.º do Código Civil.
+Art. 41.º É revogado o artigo 1583.º do Código Civil.
 
-###### Art. 42.º O artigo 1584.º do Código Civil passa a ter a seguinte redacção:
+Art. 42.º O artigo 1584.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1584.º
+ARTIGO 1584.º
 
 (Noção de afinidade)
 
 Afinidade é o vínculo que liga cada um dos cônjuges aos parentes do outro.
 
-###### Art. 43.º O n.º 2 do artigo 1599.º do Código Civil passa a ter a seguinte redacção:
+Art. 43.º O n.º 2 do artigo 1599.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1599.º
+ARTIGO 1599.º
 
 (Dispensa do processo preliminar)
 
 2. A dispensa de processo preliminar não altera as exigências da lei civil quanto à capacidade matrimonial dos nubentes, continuando estes sujeitos às sanções estabelecidas na mesma lei.
 
-###### Art. 44.º O artigo 1601.º do Código Civil passa a ter a seguinte redacção:
+Art. 44.º O artigo 1601.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1601.º
+ARTIGO 1601.º
 
 (Impedimentos dirimentes absolutos)
 
@@ -902,9 +1138,9 @@ b) A demência notória, mesmo durante os intervalos lúcidos, e a interdição 
 
 c) O casamento anterior não dissolvido, católico ou civil, ainda que o respectivo assento não tenha sido lavrado no registo do estado civil.
 
-###### Art. 45.º O artigo 1602.º do Código Civil passa a ter a seguinte redacção:
+Art. 45.º O artigo 1602.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1602.º
+ARTIGO 1602.º
 
 (Impedimentos dirimentes relativos)
 
@@ -918,17 +1154,17 @@ c) A afinidade na linha recta;
 
 d) A condenação anterior de um dos nubentes, como autor ou cúmplice, por homicídio doloso, ainda que não consumado, contra o cônjuge do outro.
 
-###### Art. 46.º O n.º 1 do artigo 1603.º do Código Civil passa a ter a seguinte redacção:
+Art. 46.º O n.º 1 do artigo 1603.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1603.º
+ARTIGO 1603.º
 
 (Prova da maternidade ou paternidade)
 
 1. A prova da maternidade ou paternidade para efeitos do disposto nas alíneas a), b) e c) do artigo precedente é sempre admitida no processo preliminar de publicações, mas o reconhecimento do parentesco, quer neste processo, quer na acção de declaração de nulidade ou anulação do casamento, não produz qualquer outro efeito, e não vale sequer como começo de prova em acção de investigação de maternidade ou paternidade.
 
-###### Art. 47.º O artigo 1604.º do Código Civil passa a ter a seguinte redacção:
+Art. 47.º O artigo 1604.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1604.º
+ARTIGO 1604.º
 
 (Impedimentos impedientes)
 
@@ -946,9 +1182,9 @@ e) O vínculo de adopção restrita;
 
 f) A pronúncia do nubente pelo crime de homicídio doloso, ainda que não consumado, contra o cônjuge do outro, enquanto não houver despronúncia ou absolvição por decisão passada em julgado.
 
-###### Art. 48.º O artigo 1605.º do Código Civil passa a ter a seguinte redacção:
+Art. 48.º O artigo 1605.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1605.º
+ARTIGO 1605.º
 
 (Prazo internupcial)
 
@@ -962,11 +1198,11 @@ f) A pronúncia do nubente pelo crime de homicídio doloso, ainda que não consu
 
 5. O impedimento cessa ainda se o casamento se dissolver por morte de um dos cônjuges, estando estes separados judicialmente de pessoas e bens, quando já tenham decorrido, desde a data do trânsito em julgado da sentença, os prazos fixados nos números anteriores.
 
-###### Art. 49.º É revogado o artigo 1606.º do Código Civil.
+Art. 49.º É revogado o artigo 1606.º do Código Civil.
 
-###### Art. 50.º O artigo 1607.º do Código Civil passa a ter a seguinte redacção:
+Art. 50.º O artigo 1607.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1607.º
+ARTIGO 1607.º
 
 (Vínculo de adopção)
 
@@ -980,9 +1216,9 @@ c) Do adoptante com o que foi cônjuge do adoptado;
 
 d) Dos filhos adoptivos da mesma pessoa, entre si.
 
-###### Art. 51.º O artigo 1609.º do Código Civil passa a ter a seguinte redacção:
+Art. 51.º O artigo 1609.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1609.º
+ARTIGO 1609.º
 
 (Dispensa)
 
@@ -998,9 +1234,9 @@ c) O vínculo de adopção restrita.
 
 3. Se algum dos nubentes for menor, o tribunal ouvirá, sempre que possível, os pais ou o tutor.
 
-###### Art. 52.º O artigo 1612.º do Código Civil passa a ter a seguinte redacção:
+Art. 52.º O artigo 1612.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1612.º
+ARTIGO 1612.º
 
 (Autorização dos pais ou do tutor)
 
@@ -1008,9 +1244,9 @@ c) O vínculo de adopção restrita.
 
 2. Pode o tribunal suprir a autorização a que se refere o número anterior se razões ponderosas justificarem a celebração do casamento e o menor tiver suficiente maturidade física e psíquica.
 
-###### Art. 53.º O n.º 1 do artigo 1633.º do Código Civil passa a ter a seguinte redacção:
+Art. 53.º O n.º 1 do artigo 1633.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1633.º
+ARTIGO 1633.º
 
 (Validação do casamento)
 
@@ -1024,19 +1260,19 @@ c) Ser declarado nulo ou anulado o primeiro casamento do bígamo;
 
 d) Ser a falta de testemunhas devida a circunstâncias atendíveis, como tais reconhecidas pelo Ministro da Justiça, desde que não haja dúvidas sobre a celebração do acto.
 
-###### Art. 54.º O artigo 1636.º do Código Civil passa a ter a seguinte redacção:
+Art. 54.º O artigo 1636.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1636.º
+ARTIGO 1636.º
 
 (Erro que vicia a vontade)
 
 O erro que vicia a vontade só é relevante para efeitos de anulação quando recaia sobre qualidades essenciais da pessoa do outro cônjuge, seja desculpável e se mostre que sem ele, razoavelmente, o casamento não teria sido celebrado.
 
-###### Art. 55.º É revogado o artigo 1637.º do Código Civil.
+Art. 55.º É revogado o artigo 1637.º do Código Civil.
 
-###### Art. 56.º O artigo 1640.º do Código Civil passa a ter a seguinte redacção:
+Art. 56.º O artigo 1640.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1640.º
+ARTIGO 1640.º
 
 (Anulação fundada na falta de vontade)
 
@@ -1044,17 +1280,17 @@ O erro que vicia a vontade só é relevante para efeitos de anulação quando re
 
 2. Nos restantes casos de falta de vontade, a acção de anulação só pode ser proposta pelo cônjuge cuja vontade faltou; mas podem prosseguir nela os seus parentes, afins na linha recta, herdeiros ou adoptantes, se o autor falecer na pendência da causa.
 
-###### Art. 57.º O artigo 1641.º do Código Civil passa a ter a seguinte redacção:
+Art. 57.º O artigo 1641.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1641.º
+ARTIGO 1641.º
 
 (Anulação fundada em vícios da vontade)
 
 A acção de anulação fundada em vícios da vontade só pode ser intentada pelo cônjuge que foi vítima do erro ou da coacção; mas podem prosseguir na acção os seus parentes, afins na linha recta, herdeiros ou adoptantes, se o autor falecer na pendência da causa.
 
-###### Art. 58.º Os n.os 1 e 3 do artigo 1643.º do Código Civil passam a ter a seguinte redacção:
+Art. 58.º Os n.os 1 e 3 do artigo 1643.º do Código Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 1643.º
+ARTIGO 1643.º
 
 (Anulação fundada em impedimento dirimente)
 
@@ -1070,19 +1306,19 @@ c) Nos outros casos, até seis meses depois da dissolução do casamento.
 
 3. Sem prejuízo do prazo fixado na alínea c) do n.º 1, a acção de anulação fundada na existência de casamento anterior não dissolvido não pode ser instaurada, nem prosseguir, enquanto estiver pendente acção de declaração de nulidade ou anulação do primeiro casamento do bígamo.
 
-###### Art. 59.º O n.º 1 do artigo 1649.º do Código Civil passa a ter a seguinte redacção:
+Art. 59.º O n.º 1 do artigo 1649.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1649.º
+ARTIGO 1649.º
 
 (Casamento de menores)
 
 1. O menor que casar sem ter obtido autorização dos pais ou do tutor, ou o respectivo suprimento judicial, continua a ser considerado menor quanto à administração de bens que leve para o casal ou que posteriormente lhe advenham por título gratuito até à maioridade, mas dos rendimentos desses bens ser-lhe-ão arbitrados os alimentos necessários ao seu estado.
 
-###### Art. 60.º É revogado o n.º 3 do artigo 1649.º do Código Civil.
+Art. 60.º É revogado o n.º 3 do artigo 1649.º do Código Civil.
 
-###### Art. 61.º O artigo 1650.º do Código Civil passa a ter a seguinte redacção:
+Art. 61.º O artigo 1650.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1650.º
+ARTIGO 1650.º
 
 (Casamento com impedimento impediente)
 
@@ -1090,9 +1326,9 @@ c) Nos outros casos, até seis meses depois da dissolução do casamento.
 
 2. A infracção do disposto nas alíneas c), d) e e) do artigo 1604.º importa, respectivamente, para o tio ou tia, para o tutor, curador ou administrador, ou seus parentes ou afins na linha recta, irmãos, cunhados ou sobrinhos, e para o adoptante, seu cônjuge ou parentes na linha recta, a incapacidade para receberem do seu consorte qualquer benefício por doação ou testamento.
 
-###### Art. 62.º O n.º 1 do artigo 1657.º do Código Civil passa a ter a seguinte redacção:
+Art. 62.º O n.º 1 do artigo 1657.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1657.º
+ARTIGO 1657.º
 
 (Recusa da transcrição)
 
@@ -1108,9 +1344,9 @@ d) Se no momento da celebração for oponível ao casamento algum impedimento di
 
 e) Se, tratando-se de casamento que possa legalmente ser celebrado sem precedência do processo de publicações, existir no momento da celebração o impedimento de falta de idade nupcial, o impedimento de interdição ou inabilitação por anomalia psíquica reconhecida por sentença com trânsito em julgado ou o de casamento civil anterior não dissolvido, desde que, em qualquer dos casos, o impedimento ainda subsista.
 
-###### Art. 63.º O artigo 1671.º do Código Civil passa a ter a seguinte redacção:
+Art. 63.º O artigo 1671.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1671.º
+ARTIGO 1671.º
 
 (Igualdade dos cônjuges)
 
@@ -1118,17 +1354,17 @@ e) Se, tratando-se de casamento que possa legalmente ser celebrado sem precedên
 
 2. A direcção da família pertence a ambos os cônjuges, que devem acordar sobre a orientação da vida em comum tendo em conta o bem da família e os interesses de um e outro.
 
-###### Art. 64.º O artigo 1672.º do Código Civil passa a ter a seguinte redacção:
+Art. 64.º O artigo 1672.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1672.º
+ARTIGO 1672.º
 
 (Deveres dos cônjuges)
 
 Os cônjuges estão reciprocamente vinculados pelos deveres de respeito, fidelidade, coabitação, cooperação e assistência.
 
-###### Art. 65.º O artigo 1673.º do Código Civil passa a ter a seguinte redacção:
+Art. 65.º O artigo 1673.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1673.º
+ARTIGO 1673.º
 
 (Residência da família)
 
@@ -1138,17 +1374,17 @@ Os cônjuges estão reciprocamente vinculados pelos deveres de respeito, fidelid
 
 3. Na falta de acordo sobre a fixação ou alteração da residência da família, decidirá o tribunal a requerimento de qualquer dos cônjuges.
 
-###### Art. 66.º O artigo 1674.º do Código Civil passa a ter a seguinte redacção:
+Art. 66.º O artigo 1674.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1674.º
+ARTIGO 1674.º
 
 (Dever de cooperação)
 
 O dever de cooperação importa para os cônjuges a obrigação de socorro e auxílio mútuos e a de assumirem em conjunto as responsabilidades inerentes à vida da família que fundaram.
 
-###### Art. 67.º O artigo 1675.º do Código Civil passa a ter a seguinte redacção:
+Art. 67.º O artigo 1675.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1675.º
+ARTIGO 1675.º
 
 (Dever de assistência)
 
@@ -1158,9 +1394,9 @@ O dever de cooperação importa para os cônjuges a obrigação de socorro e aux
 
 3. Se a separação de facto for imputável a um dos cônjuges, ou a ambos, o dever de assistência só incumbe, em princípio, ao único ou principal culpado; o tribunal pode, todavia, excepcionalmente e por motivos de equidade, impor esse dever ao cônjuge inocente ou menos culpado, considerando, em particular, a duração do casamento e a colaboração que o outro cônjuge tenha prestado à economia do casal.
 
-###### Art. 68.º O artigo 1676.º do Código Civil passa a ter a seguinte redacção:
+Art. 68.º O artigo 1676.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1676.º
+ARTIGO 1676.º
 
 (Dever de contribuir para os encargos da vida familiar)
 
@@ -1170,9 +1406,9 @@ O dever de cooperação importa para os cônjuges a obrigação de socorro e aux
 
 3. Não sendo prestada a contribuição devida, qualquer dos cônjuges pode exigir que lhe seja directamente entregue a parte dos rendimentos ou proventos do outro que o tribunal fixar.
 
-###### Art. 69.º O artigo 1677.º do Código Civil passa a ter a seguinte redacção:
+Art. 69.º O artigo 1677.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1677.º
+ARTIGO 1677.º
 
 (Direito ao nome)
 
@@ -1180,15 +1416,15 @@ O dever de cooperação importa para os cônjuges a obrigação de socorro e aux
 
 2. A faculdade conferida na segunda parte do número anterior não pode ser exercida por aquele que conserve apelidos do cônjuge de anterior casamento.
 
-###### Art. 70.º Depois do artigo 1677.º do Código Civil são acrescentados os artigos seguintes:
+Art. 70.º Depois do artigo 1677.º do Código Civil são acrescentados os artigos seguintes:
 
-###### ARTIGO 1677.º-A
+ARTIGO 1677.º-A
 
 (Viuvez e segundas núpcias)
 
 O cônjuge que tenha acrescentado ao seu nome apelidos do outro conserva-os em caso de viuvez e, se o declarar até à celebração do novo casamento, mesmo depois das segundas núpcias.
 
-###### ARTIGO 1677.º-B
+ARTIGO 1677.º-B
 
 (Divórcio e separação judicial de pessoas e bens)
 
@@ -1198,7 +1434,7 @@ O cônjuge que tenha acrescentado ao seu nome apelidos do outro conserva-os em c
 
 3. O pedido de autorização judicial do uso dos apelidos do ex-cônjuge pode ser deduzido no processo de divórcio ou em processo próprio, mesmo depois de o divórcio ter sido decretado.
 
-###### ARTIGO 1677.º-C
+ARTIGO 1677.º-C
 
 (Privação judicial do uso do nome)
 
@@ -1206,15 +1442,15 @@ O cônjuge que tenha acrescentado ao seu nome apelidos do outro conserva-os em c
 
 2. Têm legitimidade para o pedido de privação do uso do nome, no caso de separação judicial de pessoas e bens ou divórcio, o outro cônjuge ou ex-cônjuge, e, no caso de viuvez, os descendentes, ascendentes e irmãos do cônjuge falecido.
 
-###### ARTIGO 1677.º-D
+ARTIGO 1677.º-D
 
 (Exercício de profissão ou outra actividade)
 
 Cada um dos cônjuges pode exercer qualquer profissão ou actividade sem o consentimento do outro.
 
-###### Art. 71.º O artigo 1678.º do Código Civil passa a ter a seguinte redacção:
+Art. 71.º O artigo 1678.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1678.º
+ARTIGO 1678.º
 
 (Administração dos bens do casal)
 
@@ -1238,17 +1474,17 @@ g) Dos bens próprios do outro cônjuge se este lhe conferir por mandato esse po
 
 3. Fora dos casos previstos no número anterior, cada um dos cônjuges tem legitimidade para a prática de actos de administração ordinária relativamente aos bens comuns do casal; os restantes actos de administração só podem ser praticados com o consentimento de ambos os cônjuges.
 
-###### Art. 72.º O artigo 1680.º do Código Civil passa a ter a seguinte redacção:
+Art. 72.º O artigo 1680.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1680.º
+ARTIGO 1680.º
 
 (Depósitos bancários)
 
 Qualquer que seja o regime de bens, pode cada um dos cônjuges fazer depósitos bancários em seu nome exclusivo e movimentá-los livremente.
 
-###### Art. 73.º O artigo 1681.º do Código Civil passa a ter a seguinte redacção:
+Art. 73.º O artigo 1681.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1681.º
+ARTIGO 1681.º
 
 (Exercício da administração)
 
@@ -1258,9 +1494,9 @@ Qualquer que seja o regime de bens, pode cada um dos cônjuges fazer depósitos 
 
 3. Se um dos cônjuges entrar na administração dos bens próprios do outro ou de bens comuns cuja administração lhe não caiba, sem mandato escrito mas com conhecimento e sem oposição expressa do outro cônjuge, é aplicável o disposto no número anterior; havendo oposição, o cônjuge administrador responde como possuidor de má fé.
 
-###### Art. 74.º O artigo 1682.º do Código Civil passa a ter a seguinte redacção:
+Art. 74.º O artigo 1682.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1682.º
+ARTIGO 1682.º
 
 (Alienação ou oneração de móveis)
 
@@ -1276,9 +1512,9 @@ b) De móveis pertencentes exclusivamente ao cônjuge que os não administra, sa
 
 4. Quando um dos cônjuges, sem consentimento do outro, alienar ou onerar, por negócio gratuito, móveis comuns de que tem a administração, será o valor dos bens alheados ou a diminuição de valor dos onerados levado em conta na sua meação, salvo tratando-se de doação remuneratória ou de donativo conforme aos usos sociais.
 
-###### Art. 75.º Depois do artigo 1682.º do Código Civil são acrescentados os artigos seguintes:
+Art. 75.º Depois do artigo 1682.º do Código Civil são acrescentados os artigos seguintes:
 
-###### ARTIGO 1682.º-A
+ARTIGO 1682.º-A
 
 (Alienação ou oneração de imóveis e de estabelecimento comercial)
 
@@ -1290,7 +1526,7 @@ b) A alienação, oneração ou locação de estabelecimento comercial, próprio
 
 2. A alienação, oneração, arrendamento ou constituição de outros direitos pessoais de gozo sobre a casa de morada da família carece sempre do consentimento de ambos os cônjuges.
 
-###### ARTIGO 1682.º-B
+ARTIGO 1682.º-B
 
 (Disposição do direito ao arrendamento)
 
@@ -1304,19 +1540,19 @@ c) A cessão da posição de arrendatário;
 
 d) O subarrendamento ou o empréstimo, total ou parcial.
 
-###### Art. 76.º O n.º 1 do artigo 1684.º do Código Civil passa a ter a seguinte redacção:
+Art. 76.º O n.º 1 do artigo 1684.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1684.º
+ARTIGO 1684.º
 
 (Forma do consentimento conjugal e seu suprimento)
 
 1. O consentimento conjugal, nos casos em que é legalmente exigido, deve ser especial para cada um dos actos.
 
-###### Art. 77.º É revogado o artigo 1686.º do Código Civil.
+Art. 77.º É revogado o artigo 1686.º do Código Civil.
 
-###### Art. 78.º O artigo 1687.º do Código Civil passa a ter a seguinte redacção:
+Art. 78.º O artigo 1687.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1687.º
+ARTIGO 1687.º
 
 (Sanções)
 
@@ -1328,17 +1564,17 @@ d) O subarrendamento ou o empréstimo, total ou parcial.
 
 4. À alienação ou oneração de bens próprios do outro cônjuge, feita sem legitimidade, são aplicáveis as regras relativas à alienação de coisa alheia.
 
-###### Art. 79.º O artigo 1688.º do Código Civil passa a ter a seguinte redacção:
+Art. 79.º O artigo 1688.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1688.º
+ARTIGO 1688.º
 
 (Cessação de relações pessoais e patrimoniais entre os cônjuges)
 
 As relações pessoais e patrimoniais entre os cônjuges cessam pela dissolução, declaração de nulidade ou anulação do casamento, sem prejuízo das disposições deste Código relativas a alimentos; havendo separação judicial de pessoas e bens, é aplicável o disposto no artigo 1795.º-A.
 
-###### Art. 80.º O n.º 1 do artigo 1691.º do Código Civil passa a ter a seguinte redacção:
+Art. 80.º O n.º 1 do artigo 1691.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1691.º
+ARTIGO 1691.º
 
 (Dívidas que responsabilizam ambos os cônjuges)
 
@@ -1354,11 +1590,11 @@ d) As dívidas contraídas por qualquer dos cônjuges no exercício do comércio
 
 e) As dívidas consideradas comunicáveis nos termos do n.º 2 do artigo 1693.º
 
-###### Art. 81.º É revogado o n.º 4 do artigo 1691.º do Código Civil.
+Art. 81.º É revogado o n.º 4 do artigo 1691.º do Código Civil.
 
-###### Art. 82.º O artigo 1692.º do Código Civil passa a ter a seguinte redacção:
+Art. 82.º O artigo 1692.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1692.º
+ARTIGO 1692.º
 
 (Dívidas da responsabilidade de um dos cônjuges)
 
@@ -1370,9 +1606,9 @@ b) As dívidas provenientes de crimes e as indemnizações, restituições, cust
 
 c) As dívidas cuja incomunicabilidade resulta do disposto no n.º 2 do artigo 1694.º
 
-###### Art. 83.º O n.º 2 do artigo 1696.º do Código Civil passa a ter a seguinte redacção:
+Art. 83.º O n.º 2 do artigo 1696.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1696.º
+ARTIGO 1696.º
 
 (Bens que respondem pelas dívidas da exclusiva responsabilidade de um dos cônjuges)
 
@@ -1384,9 +1620,9 @@ b) O produto do trabalho e os direitos de autor do cônjuge devedor;
 
 c) Os bens sub-rogados no lugar dos referidos na alínea a).
 
-###### Art. 84.º O artigo 1699.º do Código Civil passa a ter a seguinte redacção:
+Art. 84.º O artigo 1699.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1699.º
+ARTIGO 1699.º
 
 (Restrições ao princípio da liberdade)
 
@@ -1402,9 +1638,9 @@ d) A estipulação da comunicabilidade dos bens enumerados no artigo 1733.º
 
 2. Se o casamento for celebrado por quem tenha filhos, ainda que maiores ou emancipados, não poderá ser convencionado o regime da comunhão geral nem estipulada a comunicabilidade dos bens referidos no n.º 1 do artigo 1722.º
 
-###### Art. 85.º O n.º 1 do artigo 1715.º do Código Civil passa a ter a seguinte redacção:
+Art. 85.º O n.º 1 do artigo 1715.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1715.º
+ARTIGO 1715.º
 
 (Excepções ao princípio da imutabilidade)
 
@@ -1418,17 +1654,17 @@ c) Pela separação judicial de pessoas e bens;
 
 d) Em todos os demais casos, previstos na lei, de separação de bens na vigência da sociedade conjugal.
 
-###### Art. 86.º O n.º 1 do artigo 1719.º do Código Civil passa a ter a seguinte redacção:
+Art. 86.º O n.º 1 do artigo 1719.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1719.º
+ARTIGO 1719.º
 
 (Partilha segundo regimes não convencionados)
 
 1. É permitido aos esposados convencionar, para o caso de dissolução do casamento por morte de um dos cônjuges, quando haja descendentes comuns, que a partilha dos bens se faça segundo o regime da comunhão geral, seja qual for o regime adoptado.
 
-###### Art. 87.º O artigo 1720.º do Código Civil passa a ter a seguinte redacção:
+Art. 87.º O artigo 1720.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1720.º
+ARTIGO 1720.º
 
 (Regime imperativo da separação de bens)
 
@@ -1440,19 +1676,19 @@ b) O casamento celebrado por quem tenha completado sessenta anos de idade.
 
 2. O disposto no número anterior não obsta a que os nubentes façam entre si doações.
 
-###### Art. 88.º São revogados os artigos 1737.º a 1752.º do Código Civil.
+Art. 88.º São revogados os artigos 1737.º a 1752.º do Código Civil.
 
-###### Art. 89.º O artigo 1758.º do Código Civil passa a ter a seguinte redacção:
+Art. 89.º O artigo 1758.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1758.º
+ARTIGO 1758.º
 
 (Revogação)
 
 As doações entre esposados não são revogáveis por mútuo consentimento dos contraentes.
 
-###### Art. 90.º O artigo 1760.º do Código Civil passa a ter a seguinte redacção:
+Art. 90.º O artigo 1760.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1760.º
+ARTIGO 1760.º
 
 (Caducidade)
 
@@ -1464,9 +1700,9 @@ b) Se ocorrer divórcio ou separação judicial de pessoas e bens por culpa do d
 
 2. Se a doação tiver sido feita por terceiro a ambos os esposados ou os bens doados tiverem entrado na comunhão, e um dos cônjuges for declarado único ou principal culpado no divórcio ou separação, a caducidade atinge apenas a parte dele.
 
-###### Art. 91.º O n.º 1 do artigo 1766.º do Código Civil passa a ter a seguinte redacção:
+Art. 91.º O n.º 1 do artigo 1766.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1766.º
+ARTIGO 1766.º
 
 (Caducidade)
 
@@ -1478,47 +1714,47 @@ b) Se o casamento vier a ser declarado nulo ou anulado, sem prejuízo do dispost
 
 c) Ocorrendo divórcio ou separação judicial de pessoas e bens por culpa do donatário, se este for considerado único ou principal culpado.
 
-###### Art. 92.º A epígrafe do capítulo XI do título II do livro IV do Código Civil passa a ser a seguinte:
+Art. 92.º A epígrafe do capítulo XI do título II do livro IV do Código Civil passa a ser a seguinte:
 
 Simples separação judicial de bens
 
-###### Art. 93.º Depois da epígrafe do capítulo XI do título II do livro IV do Código Civil é suprimido:
+Art. 93.º Depois da epígrafe do capítulo XI do título II do livro IV do Código Civil é suprimido:
 
 #### SECÇÃO I — Simples separação judicial de bens
 
-###### Art. 94.º O artigo 1767.º do Código Civil passa a ter a seguinte redacção:
+Art. 94.º O artigo 1767.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1767.º
+ARTIGO 1767.º
 
 (Fundamento da separação)
 
 Qualquer dos cônjuges pode requerer a simples separação judicial de bens quando estiver em perigo de perder o que é seu pela má administração do outro cônjuge.
 
-###### Art. 95.º O artigo 1768.º do Código Civil passa a ter a seguinte redacção:
+Art. 95.º O artigo 1768.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1768.º
+ARTIGO 1768.º
 
 (Carácter litigioso da separação)
 
 A separação só pode ser decretada em acção intentada por um dos cônjuges contra o outro.
 
-###### Art. 96.º O n.º 2 do artigo 1769.º do Código Civil passa a ter a seguinte redacção:
+Art. 96.º O n.º 2 do artigo 1769.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1769.º
+ARTIGO 1769.º
 
 (Legitimidade)
 
 2. Se o representante legal do cônjuge lesado for o outro cônjuge, a acção só pode ser intentada, em nome daquele, por algum parente na linha recta ou até ao terceiro grau da linha colateral.
 
-###### Art. 97.º O artigo 1770.º do Código Civil passa a ter a seguinte redacção:
+Art. 97.º O artigo 1770.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1770.º
+ARTIGO 1770.º
 
 (Efeitos)
 
 Após o trânsito em julgado da sentença que decretar a separação judicial de bens, o regime matrimonial, sem prejuízo do disposto em matéria de registo, passa a ser o da separação, procedendo-se à partilha do património comum como se o casamento tivesse sido dissolvido; a partilha pode fazer-se extrajudicialmente ou por inventário judicial.
 
-###### Art. 98.º A secção II do capítulo XI e o capítulo XII do título II do livro IV do Código Civil são substituídos pelo capítulo seguinte:
+Art. 98.º A secção II do capítulo XI e o capítulo XII do título II do livro IV do Código Civil são substituídos pelo capítulo seguinte:
 
 ### CAPÍTULO XII — Divórcio e separação judicial de pessoas e bens
 
@@ -1526,13 +1762,13 @@ Após o trânsito em julgado da sentença que decretar a separação judicial de
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### ARTIGO 1773.º
+ARTIGO 1773.º
 
 (Modalidades)
 
 O divórcio pode ser requerido ao tribunal por ambos os cônjuges, de comum acordo, ou por um deles contra o outro, com algum dos fundamentos previstos nos artigos 1779.º e 1781.º; no primeiro caso, diz-se divórcio por mútuo consentimento; no segundo, divórcio litigioso.
 
-###### ARTIGO 1774.º
+ARTIGO 1774.º
 
 (Tentativa de conciliação; conversão do divórcio litigioso em divórcio por mútuo consentimento)
 
@@ -1542,7 +1778,7 @@ O divórcio pode ser requerido ao tribunal por ambos os cônjuges, de comum acor
 
 ##### SUBSECÇÃO II — Divórcio por mútuo consentimento
 
-###### ARTIGO 1775.º
+ARTIGO 1775.º
 
 (Requisitos)
 
@@ -1552,7 +1788,7 @@ O divórcio pode ser requerido ao tribunal por ambos os cônjuges, de comum acor
 
 3. Os cônjuges devem acordar ainda sobre o regime que vigorará, no período da pendência do processo, quanto à prestação de alimentos, ao exercício do poder paternal e à utilização da casa de morada da família.
 
-###### ARTIGO 1776.º
+ARTIGO 1776.º
 
 (Primeira conferência)
 
@@ -1562,13 +1798,13 @@ O divórcio pode ser requerido ao tribunal por ambos os cônjuges, de comum acor
 
 3. Se os cônjuges persistirem no seu propósito, o dever de coabitação fica suspenso a partir da conferência e qualquer deles pode requerer arrolamento dos seus bens próprios e dos bens comuns.
 
-###### ARTIGO 1777.º
+ARTIGO 1777.º
 
 (Segunda conferência)
 
 Se os cônjuges renovarem o pedido de divórcio nos termos do n.º 1 do artigo anterior, o juiz convocá-los-á para uma segunda conferência, em que tentará conciliá-los; pode ainda o juiz marcar prazo aos cônjuges para alterarem os acordos previstos no n.º 2 do artigo 1775.º, sob pena de o pedido ficar sem efeito.
 
-###### ARTIGO 1778.º
+ARTIGO 1778.º
 
 (Sentença)
 
@@ -1576,7 +1812,7 @@ A sentença que decrete o divórcio por mútuo consentimento homologará os acor
 
 ##### SUBSECÇÃO III — Divórcio litigioso
 
-###### ARTIGO 1779.º
+ARTIGO 1779.º
 
 (Violação culposa dos deveres conjugais)
 
@@ -1584,7 +1820,7 @@ A sentença que decrete o divórcio por mútuo consentimento homologará os acor
 
 2. Na apreciação da gravidade dos factos invocados, deve o tribunal tomar em conta, nomeadamente, a culpa que possa ser imputada ao requerente e o grau de educação e sensibilidade moral dos cônjuges.
 
-###### ARTIGO 1780.º
+ARTIGO 1780.º
 
 (Exclusão do direito de requerer o divórcio)
 
@@ -1594,7 +1830,7 @@ a) Se tiver instigado o outro a praticar o facto invocado como fundamento do ped
 
 b) Se houver revelado pelo seu comportamento posterior, designadamente por perdão, expresso ou tácito, não considerar o acto praticado como impeditivo da vida em comum.
 
-###### ARTIGO 1781.º
+ARTIGO 1781.º
 
 (Ruptura da vida em comum)
 
@@ -1606,7 +1842,7 @@ b) A ausência, sem que do ausente haja notícias, por tempo não inferior a qua
 
 c) A alteração das faculdades mentais do outro cônjuge, quando dure há mais de seis anos e, pela sua gravidade, comprometa a possibilidade de vida em comum.
 
-###### ARTIGO 1782.º
+ARTIGO 1782.º
 
 (Separação de facto)
 
@@ -1614,19 +1850,19 @@ c) A alteração das faculdades mentais do outro cônjuge, quando dure há mais 
 
 2. Na acção de divórcio com fundamento em separação de facto, o juiz deve declarar a culpa dos cônjuges, quando a haja, nos termos do artigo 1787.º
 
-###### ARTIGO 1783.º
+ARTIGO 1783.º
 
 (Ausência)
 
 É aplicável ao divórcio decretado com fundamento em ausência o disposto no n.º 2 do artigo anterior.
 
-###### ARTIGO 1784.º
+ARTIGO 1784.º
 
 (Alteração das faculdades mentais)
 
 O pedido formulado com base na alínea c) do artigo 1781.º deve ser indeferido quando seja de presumir que o divórcio agrave consideravelmente o estado mental do réu.
 
-###### ARTIGO 1785.º
+ARTIGO 1785.º
 
 (Legitimidade)
 
@@ -1636,7 +1872,7 @@ O pedido formulado com base na alínea c) do artigo 1781.º deve ser indeferido 
 
 3. O direito ao divórcio não se transmite por morte, mas a acção pode ser continuada pelos herdeiros do autor para efeitos patrimoniais, nomeadamente os decorrentes da declaração prevista no artigo 1787.º, se o autor falecer na pendência da causa; para os mesmos efeitos, pode a acção prosseguir contra os herdeiros do réu.
 
-###### ARTIGO 1786.º
+ARTIGO 1786.º
 
 (Caducidade da acção)
 
@@ -1644,7 +1880,7 @@ O pedido formulado com base na alínea c) do artigo 1781.º deve ser indeferido 
 
 2. O prazo de caducidade corre separadamente em relação a cada um dos factos; tratando-se de facto continuado, só corre a partir da data em que o facto tiver cessado.
 
-###### ARTIGO 1787.º
+ARTIGO 1787.º
 
 (Declaração do cônjuge culpado)
 
@@ -1654,13 +1890,13 @@ O pedido formulado com base na alínea c) do artigo 1781.º deve ser indeferido 
 
 ##### SUBSECÇÃO IV — Efeitos do divórcio
 
-###### ARTIGO 1788.º
+ARTIGO 1788.º
 
 (Princípio geral)
 
 O divórcio dissolve o casamento e tem juridicamente os mesmos efeitos da dissolução por morte, salvas as excepções consagradas na lei.
 
-###### ARTIGO 1789.º
+ARTIGO 1789.º
 
 (Data em que se produzem os efeitos do divórcio)
 
@@ -1670,13 +1906,13 @@ O divórcio dissolve o casamento e tem juridicamente os mesmos efeitos da dissol
 
 3. Os efeitos patrimoniais do divórcio só podem ser opostos a terceiros a partir da data do registo da sentença.
 
-###### ARTIGO 1790.º
+ARTIGO 1790.º
 
 (Partilha)
 
 O cônjuge declarado único ou principal culpado não pode na partilha receber mais do que receberia se o casamento tivesse sido celebrado segundo o regime da comunhão de adquiridos.
 
-###### ARTIGO 1791.º
+ARTIGO 1791.º
 
 (Benefícios que os cônjuges tenham recebido ou hajam de receber)
 
@@ -1684,7 +1920,7 @@ O cônjuge declarado único ou principal culpado não pode na partilha receber m
 
 2. O cônjuge inocente ou que não seja o principal culpado conserva todos os benefícios recebidos ou que haja de receber do outro cônjuge ou de terceiro, ainda que tenham sido estipulados com cláusula de reciprocidade; pode renunciar a esses benefícios por declaração unilateral de vontade, mas, havendo filhos do casamento, a renúncia só é permitida em favor destes.
 
-###### ARTIGO 1792.º
+ARTIGO 1792.º
 
 (Reparação de danos não patrimoniais)
 
@@ -1692,7 +1928,7 @@ O cônjuge declarado único ou principal culpado não pode na partilha receber m
 
 2. O pedido de indemnização deve ser deduzido na própria acção de divórcio.
 
-###### ARTIGO 1793.º
+ARTIGO 1793.º
 
 (Casa de morada da família)
 
@@ -1702,13 +1938,13 @@ O cônjuge declarado único ou principal culpado não pode na partilha receber m
 
 #### SECÇÃO II — Separação judicial de pessoas e bens
 
-###### ARTIGO 1794.º
+ARTIGO 1794.º
 
 (Remissão)
 
 Sem prejuízo dos preceitos desta secção, é aplicável à separação judicial de pessoas e bens, com as necessárias adaptações, o disposto quanto ao divórcio na secção anterior.
 
-###### ARTIGO 1795.º
+ARTIGO 1795.º
 
 (Reconvenção)
 
@@ -1716,19 +1952,19 @@ Sem prejuízo dos preceitos desta secção, é aplicável à separação judicia
 
 2. Nos casos previstos no número anterior, a sentença deve decretar o divórcio se o pedido da acção e o da reconvenção procederem.
 
-###### ARTIGO 1795.º-A
+ARTIGO 1795.º-A
 
 (Efeitos)
 
 A separação judicial de pessoas e bens não dissolve o vínculo conjugal, mas extingue os deveres de coabitação e assistência, sem prejuízo do direito a alimentos; relativamente aos bens, a separação produz os efeitos que produziria a dissolução do casamento.
 
-###### ARTIGO 1795.º-B
+ARTIGO 1795.º-B
 
 (Termo da separação)
 
 A separação judicial de pessoas e bens termina pela reconciliação dos cônjuges ou pela dissolução do casamento.
 
-###### ARTIGO 1795.º-C
+ARTIGO 1795.º-C
 
 (Reconciliação)
 
@@ -1738,7 +1974,7 @@ A separação judicial de pessoas e bens termina pela reconciliação dos cônju
 
 3. Os efeitos da reconciliação produzem-se a partir da homologação desta, sem prejuízo da aplicação, com as necessárias adaptações, do disposto nos artigos 1669.º e 1670.º
 
-###### ARTIGO 1795.º-D
+ARTIGO 1795.º-D
 
 (Conversão da separação em divórcio)
 
@@ -1750,13 +1986,13 @@ A separação judicial de pessoas e bens termina pela reconciliação dos cônju
 
 4. A sentença que converta a separação em divórcio não pode alterar o que tiver sido decidido sobre a culpa dos cônjuges, nos termos do artigo 1787.º, no processo de separação.
 
-###### Art. 99.º Os capítulos I, II e III e as secções I e II do capítulo IV do título III do livro IV do Código Civil são substituídos pelos seguintes capítulos e secções:
+Art. 99.º Os capítulos I, II e III e as secções I e II do capítulo IV do título III do livro IV do Código Civil são substituídos pelos seguintes capítulos e secções:
 
 ### CAPÍTULO I — Estabelecimento da filiação
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 1796.º
+ARTIGO 1796.º
 
 (Estabelecimento da filiação)
 
@@ -1764,7 +2000,7 @@ A separação judicial de pessoas e bens termina pela reconciliação dos cônju
 
 2. A paternidade presume-se em relação ao marido da mãe e, nos casos de filiação fora do casamento, estabelece-se pelo reconhecimento.
 
-###### ARTIGO 1797.º
+ARTIGO 1797.º
 
 (Atendibilidade da filiação)
 
@@ -1772,13 +2008,13 @@ A separação judicial de pessoas e bens termina pela reconciliação dos cônju
 
 2. O estabelecimento da filiação tem, todavia, eficácia retroactiva.
 
-###### ARTIGO 1798.º
+ARTIGO 1798.º
 
 (Concepção)
 
 O momento da concepção do filho é fixado, para os efeitos legais, dentro dos primeiros cento e vinte dias dos trezentos que precederam o seu nascimento, salvas as excepções dos artigos seguintes.
 
-###### ARTIGO 1799.º
+ARTIGO 1799.º
 
 (Gravidez anterior)
 
@@ -1786,7 +2022,7 @@ O momento da concepção do filho é fixado, para os efeitos legais, dentro dos 
 
 2. A prova da interrupção de outra gravidez, não havendo registo do facto, só pode ser feita em acção intentada por qualquer interessado ou pelo Ministério Público especialmente para esse fim.
 
-###### ARTIGO 1800.º
+ARTIGO 1800.º
 
 (Fixação judicial da concepção)
 
@@ -1794,13 +2030,13 @@ O momento da concepção do filho é fixado, para os efeitos legais, dentro dos 
 
 2. A acção pode ser proposta por qualquer interessado ou pelo Ministério Público; se for julgada procedente, deve o tribunal fixar, em qualquer dos casos referidos no número anterior, a data provável da concepção.
 
-###### ARTIGO 1801.º
+ARTIGO 1801.º
 
 (Exames de sangue e outros métodos científicos)
 
 Nas acções relativas à filiação são admitidos como meios de prova os exames de sangue e quaisquer outros métodos cientificamente comprovados.
 
-###### ARTIGO 1802.º
+ARTIGO 1802.º
 
 (Prova da filiação)
 
@@ -1810,7 +2046,7 @@ Salvo nos casos especificados na lei, a prova da filiação só pode fazer-se pe
 
 ##### SUBSECÇÃO I — Declaração de maternidade
 
-###### ARTIGO 1803.º
+ARTIGO 1803.º
 
 (Menção da maternidade)
 
@@ -1818,7 +2054,7 @@ Salvo nos casos especificados na lei, a prova da filiação só pode fazer-se pe
 
 2. A maternidade indicada é mencionada no registo.
 
-###### ARTIGO 1804.º
+ARTIGO 1804.º
 
 (Nascimento ocorrido há menos de um ano)
 
@@ -1826,7 +2062,7 @@ Salvo nos casos especificados na lei, a prova da filiação só pode fazer-se pe
 
 2. Lavrado o registo, deve o conteúdo do assento ser comunicado à mãe do registado sempre que possível, mediante notificação pessoal, salvo se a declaração tiver sido feita por ela ou pelo marido.
 
-###### ARTIGO 1805.º
+ARTIGO 1805.º
 
 (Nascimento ocorrido há um ano ou mais)
 
@@ -1838,7 +2074,7 @@ Salvo nos casos especificados na lei, a prova da filiação só pode fazer-se pe
 
 4. Das certidões extraídas do registo de nascimento não pode constar qualquer referência à menção que tenha ficado sem efeito nem aos averbamentos que lhe respeitem.
 
-###### ARTIGO 1806.º
+ARTIGO 1806.º
 
 (Registo omisso quanto à maternidade)
 
@@ -1846,7 +2082,7 @@ Salvo nos casos especificados na lei, a prova da filiação só pode fazer-se pe
 
 2. Quando a mãe possa fazer a declaração de maternidade, qualquer das pessoas a quem compete fazer a declaração do nascimento tem a faculdade de identificar a mãe do registado, sendo aplicável o disposto nos artigos 1803.º a 1805.º
 
-###### ARTIGO 1807.º
+ARTIGO 1807.º
 
 (Impugnação da maternidade)
 
@@ -1854,7 +2090,7 @@ Se a maternidade estabelecida nos termos dos artigos anteriores não for a verda
 
 ##### SUBSECÇÃO II — Averiguação oficiosa
 
-###### ARTIGO 1808.º
+ARTIGO 1808.º
 
 (Averiguação oficiosa da maternidade)
 
@@ -1866,7 +2102,7 @@ Se a maternidade estabelecida nos termos dos artigos anteriores não for a verda
 
 4. Se a maternidade não for confirmada mas o tribunal concluir pela existência de provas seguras que abonem a viabilidade da acção de investigação, ordenará a remessa do processo ao agente do Ministério Público junto do tribunal competente, a fim de a acção ser proposta.
 
-###### ARTIGO 1809.º
+ARTIGO 1809.º
 
 (Casos em que não é admitida a averiguação oficiosa da maternidade)
 
@@ -1876,25 +2112,25 @@ a) Se, existindo perfilhação, a pretensa mãe e o perfilhante forem parentes o
 
 b) Se tiverem decorrido dois anos sobre a data do nascimento.
 
-###### ARTIGO 1810.º
+ARTIGO 1810.º
 
 (Filho nascido ou concebido na constância do matrimónio)
 
 Se, em consequência do disposto no artigo 1808.º, o tribunal concluir pela existência de provas seguras de que o filho nasceu ou foi concebido na constância do matrimónio da pretensa mãe, ordenará a remessa do processo ao agente do Ministério Público junto do tribunal competente a fim de ser intentada a acção a que se refere o artigo 1822.º; neste caso é aplicável o disposto na alínea b) do artigo anterior.
 
-###### ARTIGO 1811.º
+ARTIGO 1811.º
 
 (Valor probatório das declarações prestadas)
 
 Sem prejuízo do disposto no n.º 3 do artigo 1808.º, as declarações prestadas durante o processo a que se refere o artigo 1808.º não implicam presunção de maternidade nem constituem sequer princípio de prova.
 
-###### ARTIGO 1812.º
+ARTIGO 1812.º
 
 (Carácter secreto da instrução)
 
 A instrução do processo é secreta e será conduzida por forma a evitar ofensa ao pudor ou dignidade das pessoas.
 
-###### ARTIGO 1813.º
+ARTIGO 1813.º
 
 (Improcedência da acção oficiosa)
 
@@ -1902,19 +2138,19 @@ A improcedência da acção oficiosa não obsta a que seja intentada nova acçã
 
 ##### SUBSECÇÃO III — Reconhecimento judicial
 
-###### ARTIGO 1814.º
+ARTIGO 1814.º
 
 (Investigação de maternidade)
 
 Quando não resulte de declaração, nos termos dos artigos anteriores, a maternidade pode ser reconhecida em acção especialmente intentada pelo filho para esse efeito.
 
-###### ARTIGO 1815.º
+ARTIGO 1815.º
 
 (Caso em que não é admitido o reconhecimento)
 
 Não é admissível o reconhecimento de maternidade em contrário da que conste do registo do nascimento.
 
-###### ARTIGO 1816.º
+ARTIGO 1816.º
 
 (Prova da maternidade)
 
@@ -1928,7 +2164,7 @@ b) Quando exista carta ou outro escrito no qual a pretensa mãe declare inequivo
 
 3. A presunção considera-se ilidida quando existam dúvidas sérias sobre a maternidade.
 
-###### ARTIGO 1817.º
+ARTIGO 1817.º
 
 (Prazo para a proposição da acção)
 
@@ -1940,13 +2176,13 @@ b) Quando exista carta ou outro escrito no qual a pretensa mãe declare inequivo
 
 4. Se o investigante for tratado como filho pela pretensa mãe, a acção pode ser proposta dentro do prazo de um ano, a contar da data em que cessar aquele tratamento.
 
-###### ARTIGO 1818.º
+ARTIGO 1818.º
 
 (Prossecução e transmissão da acção)
 
 O cônjuge não separado judicialmente de pessoas e bens ou os descendentes do filho podem prosseguir na acção, se este falecer na pendência da causa; mas só podem propô-la se o filho, sem a haver intentado, morrer antes de terminar o prazo em que o podia fazer.
 
-###### ARTIGO 1819.º
+ARTIGO 1819.º
 
 (Legitimidade passiva)
 
@@ -1954,19 +2190,19 @@ O cônjuge não separado judicialmente de pessoas e bens ou os descendentes do f
 
 2. Quando existam herdeiros ou legatários cujos direitos sejam atingidos pela procedência da acção, esta não produzirá efeitos contra eles se não tiverem sido também demandados.
 
-###### ARTIGO 1820.º
+ARTIGO 1820.º
 
 (Coligação de investigantes)
 
 Na acção de investigação de maternidade é permitida a coligação de investigantes em relação ao mesmo pretenso progenitor.
 
-###### ARTIGO 1821.º
+ARTIGO 1821.º
 
 (Alimentos provisórios)
 
 O filho menor, interdito ou inabilitado tem direito a alimentos provisórios desde a proposição da acção, contanto que o tribunal considere provável o reconhecimento da maternidade.
 
-###### ARTIGO 1822.º
+ARTIGO 1822.º
 
 (Filho nascido ou concebido na constância do matrimónio)
 
@@ -1974,7 +2210,7 @@ O filho menor, interdito ou inabilitado tem direito a alimentos provisórios des
 
 2. Durante a menoridade do filho a acção pode ser intentada pelo marido da pretensa mãe; neste caso deverá sê-lo contra a pretensa mãe e contra o filho e, se existir perfilhação, também contra o perfilhante.
 
-###### ARTIGO 1823.º
+ARTIGO 1823.º
 
 (Impugnação da presunção de paternidade)
 
@@ -1982,7 +2218,7 @@ O filho menor, interdito ou inabilitado tem direito a alimentos provisórios des
 
 2. Se o filho tiver sido perfilhado por pessoa diferente do marido da mãe, a perfilhação só prevalecerá se for afastada, nos termos do número anterior, a presunção de paternidade.
 
-###### ARTIGO 1824.º
+ARTIGO 1824.º
 
 (Estabelecimento da maternidade a pedido da mãe)
 
@@ -1990,7 +2226,7 @@ O filho menor, interdito ou inabilitado tem direito a alimentos provisórios des
 
 2. No caso referido no número anterior é aplicável, com as devidas adaptações, o disposto nos artigos 1822.º e 1823.º
 
-###### ARTIGO 1825.º
+ARTIGO 1825.º
 
 (Legitimidade em caso de falecimento do autor ou réus)
 
@@ -2000,7 +2236,7 @@ Em caso de falecimento do autor ou dos réus nas acções a que se referem os ar
 
 ##### SUBSECÇÃO I — Presunção de paternidade
 
-###### ARTIGO 1826.º
+ARTIGO 1826.º
 
 (Presunção de paternidade)
 
@@ -2008,7 +2244,7 @@ Em caso de falecimento do autor ou dos réus nas acções a que se referem os ar
 
 2. O momento da dissolução do casamento por divórcio ou da sua anulação é o do trânsito em julgado da respectiva sentença; o casamento católico, porém, só se considera nulo ou dissolvido por dispensa a partir do registo da decisão proferida pelas autoridades eclesiásticas.
 
-###### ARTIGO 1827.º
+ARTIGO 1827.º
 
 (Casamento putativo)
 
@@ -2016,13 +2252,13 @@ Em caso de falecimento do autor ou dos réus nas acções a que se referem os ar
 
 2. A declaração de nulidade do casamento católico, transcrito no registo civil, também não exclui essa presunção.
 
-###### ARTIGO 1828.º
+ARTIGO 1828.º
 
 (Filhos concebidos antes do casamento)
 
 Relativamente ao filho nascido dentro dos cento e oitenta dias posteriores à celebração do casamento, cessa a presunção estabelecida no artigo 1826.º se a mãe ou o marido declararem no acto do registo do nascimento que o marido não é o pai.
 
-###### ARTIGO 1829.º
+ARTIGO 1829.º
 
 (Filhos concebidos depois de finda a coabitação)
 
@@ -2036,7 +2272,7 @@ b) Na data da citação do réu para a acção de divórcio ou separação litig
 
 c) Na data em que deixou de haver notícias do marido, conforme decisão proferida em acção de nomeação de curador provisório, justificação de ausência ou declaração de morte presumida.
 
-###### ARTIGO 1830.º
+ARTIGO 1830.º
 
 (Reinício da presunção de paternidade)
 
@@ -2048,7 +2284,7 @@ b) O regresso do ausente;
 
 c) O trânsito em julgado da sentença que, sem ter decretado o divórcio ou a separação judicial de pessoas e bens, pôs termo ao respectivo processo.
 
-###### ARTIGO 1831.º
+ARTIGO 1831.º
 
 (Renascimento da presunção de paternidade)
 
@@ -2062,7 +2298,7 @@ b) Ser reputada como tal nas relações sociais, especialmente nas respectivas f
 
 3. Se existir perfilhação, na acção a que se refere o n.º 1, deve ser igualmente demandado o perfilhante.
 
-###### ARTIGO 1832.º
+ARTIGO 1832.º
 
 (Não indicação da paternidade do marido)
 
@@ -2078,13 +2314,13 @@ b) Ser reputada como tal nas relações sociais, especialmente nas respectivas f
 
 6. Quando a presunção de paternidade houver cessado nos termos do n.º 2, é aplicável o disposto no artigo 1831.º
 
-###### ARTIGO 1833.º
+ARTIGO 1833.º
 
 (Declaração judicial de inexistência de posse de estado)
 
 A declaração judicial de inexistência de posse de estado a que se refere o n.º 2 do artigo anterior é proferida em processo especial e os seus efeitos restringem-se ao disposto naquele preceito.
 
-###### ARTIGO 1834.º
+ARTIGO 1834.º
 
 (Dupla presunção de paternidade)
 
@@ -2092,7 +2328,7 @@ A declaração judicial de inexistência de posse de estado a que se refere o n.
 
 2. Julgada procedente a acção de impugnação de paternidade, renasce a presunção relativa ao anterior marido da mãe.
 
-###### ARTIGO 1835.º
+ARTIGO 1835.º
 
 (Menção obrigatória da paternidade)
 
@@ -2100,7 +2336,7 @@ A declaração judicial de inexistência de posse de estado a que se refere o n.
 
 2. Se o registo do casamento dos pais só vier a ser efectuado depois do registo do nascimento, e deste não constar a paternidade do marido da mãe, será a paternidade mencionada oficiosamente.
 
-###### ARTIGO 1836.º
+ARTIGO 1836.º
 
 (Rectificação do registo)
 
@@ -2108,19 +2344,19 @@ A declaração judicial de inexistência de posse de estado a que se refere o n.
 
 2. De igual faculdade gozam as mesmas pessoas quando tenha sido registado como filho do marido da mãe quem não beneficie de presunção de paternidade.
 
-###### ARTIGO 1837.º
+ARTIGO 1837.º
 
 (Rectificação, declaração de nulidade ou cancelamento do registo)
 
 Se for rectificado, declarado nulo ou cancelado qualquer registo por falsidade ou qualquer outra causa e, em consequência da rectificação, declaração de nulidade ou cancelamento, o filho deixar de ser havido como filho do marido da mãe ou passar a beneficiar da presunção de paternidade relativamente a este, será lavrado oficiosamente o respectivo averbamento, se não tiver sido ordenado pelo tribunal.
 
-###### ARTIGO 1838.º
+ARTIGO 1838.º
 
 (Impugnação da paternidade)
 
 A paternidade presumida nos termos do artigo 1826.º não pode ser impugnada fora dos casos previstos nos artigos seguintes.
 
-###### ARTIGO 1839.º
+ARTIGO 1839.º
 
 (Fundamento e legitimidade)
 
@@ -2130,7 +2366,7 @@ A paternidade presumida nos termos do artigo 1826.º não pode ser impugnada for
 
 3. Não é permitida a impugnação de paternidade com fundamento em inseminação artificial ao cônjuge que nela consentiu.
 
-###### ARTIGO 1840.º
+ARTIGO 1840.º
 
 (Impugnação da paternidade do filho concebido antes do matrimónio)
 
@@ -2144,7 +2380,7 @@ c) Se por qualquer outra forma o marido reconheceu o filho como seu.
 
 2. Cessa o disposto na alínea a) do número anterior se o casamento for anulado por falta de vontade, ou por coacção moral exercida contra o marido; cessa ainda o disposto nas alíneas b) e c) quando se prove ter sido o consentimento ou reconhecimento viciado por erro sobre circunstâncias que tenham contribuído decisivamente para o convencimento da paternidade, ou extorquido por coacção.
 
-###### ARTIGO 1841.º
+ARTIGO 1841.º
 
 (Acção do Ministério Público)
 
@@ -2156,7 +2392,7 @@ c) Se por qualquer outra forma o marido reconheceu o filho como seu.
 
 4. Se concluir pela viabilidade da acção, o tribunal ordenará a remessa do processo ao agente do Ministério Público junto do tribunal competente para a acção de impugnação.
 
-###### ARTIGO 1842.º
+ARTIGO 1842.º
 
 (Prazos)
 
@@ -2170,7 +2406,7 @@ c) Pelo filho, até um ano depois de haver atingido a maioridade ou de ter sido 
 
 2. Se o registo for omisso quanto à maternidade, os prazos a que se referem as alíneas a) e c) do número anterior contam-se a partir do estabelecimento da maternidade.
 
-###### ARTIGO 1843.º
+ARTIGO 1843.º
 
 (Impugnação antecipada)
 
@@ -2178,7 +2414,7 @@ c) Pelo filho, até um ano depois de haver atingido a maioridade ou de ter sido 
 
 2. O decurso do prazo a que se refere o número anterior não impede o marido de intentar acção de impugnação, nos termos gerais.
 
-###### ARTIGO 1844.º
+ARTIGO 1844.º
 
 (Prossecução e transmissão da acção)
 
@@ -2196,13 +2432,13 @@ a) Da morte do marido ou da mãe, ou do nascimento de filho póstumo, no caso da
 
 b) Da morte do filho, no caso da alínea c).
 
-###### ARTIGO 1845.º
+ARTIGO 1845.º
 
 (Ausência)
 
 No caso de ausência justificada do titular do direito de impugnar a paternidade, a acção a que se refere o artigo 1839.º pode ser intentada pelas pessoas referidas no artigo anterior, no prazo de cento e oitenta dias a contar do trânsito em julgado da sentença.
 
-###### ARTIGO 1846.º
+ARTIGO 1846.º
 
 (Legitimidade passiva)
 
@@ -2214,17 +2450,17 @@ No caso de ausência justificada do titular do direito de impugnar a paternidade
 
 ##### SUBSECÇÃO II — Reconhecimento de paternidade
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
-###### ARTIGO 1847.º
+ARTIGO 1847.º
 
 (Formas de reconhecimento)
 
 O reconhecimento do filho nascido ou concebido fora do matrimónio efectua-se por perfilhação ou decisão judicial em acção de investigação.
 
-###### ARTIGO 1848.º
+ARTIGO 1848.º
 
 (Casos em que não é admitido o reconhecimento)
 
@@ -2232,17 +2468,17 @@ O reconhecimento do filho nascido ou concebido fora do matrimónio efectua-se po
 
 2. O disposto no número anterior não invalida a perfilhação feita por alguma das formas mencionadas nas alíneas b), c) e d) do artigo 1853.º, embora ela não produza efeitos enquanto não puder ser registada.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Perfilhação
 
-###### ARTIGO 1849.º
+ARTIGO 1849.º
 
 (Carácter pessoal e livre da perfilhação)
 
 A perfilhação é acto pessoal e livre; pode, contudo, ser feita por intermédio de procurador com poderes especiais.
 
-###### ARTIGO 1850.º
+ARTIGO 1850.º
 
 (Capacidade)
 
@@ -2250,13 +2486,13 @@ A perfilhação é acto pessoal e livre; pode, contudo, ser feita por intermédi
 
 2. Os menores, os interditos não compreendidos no número anterior e os inabilitados não necessitam, para perfilhar, de autorização dos pais, tutores ou curadores.
 
-###### ARTIGO 1851.º
+ARTIGO 1851.º
 
 (Maternidade não declarada)
 
 Não obsta à perfilhação o facto de a maternidade do perfilhando não se encontrar declarada no registo.
 
-###### ARTIGO 1852.º
+ARTIGO 1852.º
 
 (Conteúdo defeso)
 
@@ -2264,7 +2500,7 @@ Não obsta à perfilhação o facto de a maternidade do perfilhando não se enco
 
 2. As cláusulas ou declarações proibidas não invalidam a perfilhação, mas têm-se por não escritas.
 
-###### ARTIGO 1853.º
+ARTIGO 1853.º
 
 (Forma)
 
@@ -2278,25 +2514,25 @@ c) Por escritura pública;
 
 d) Por termo lavrado em juízo.
 
-###### ARTIGO 1854.º
+ARTIGO 1854.º
 
 (Tempo de perfilhação)
 
 A perfilhação pode ser feita a todo o tempo, antes ou depois do nascimento do filho ou depois da morte deste.
 
-###### ARTIGO 1855.º
+ARTIGO 1855.º
 
 (Perfilhação de nascituro)
 
 A perfilhação de nascituro só é válida se for posterior à concepção e o perfilhante identificar a mãe.
 
-###### ARTIGO 1856.º
+ARTIGO 1856.º
 
 (Perfilhação de filho falecido)
 
 A perfilhação posterior à morte do filho só produz efeitos em favor dos seus descendentes.
 
-###### ARTIGO 1857.º
+ARTIGO 1857.º
 
 (Perfilhação de maiores)
 
@@ -2314,13 +2550,13 @@ c) Por termo lavrado em juízo no processo em que haja sido feita a perfilhaçã
 
 4. Qualquer interessado tem o direito de requerer judicialmente a notificação pessoal do perfilhando, dos seus descendentes ou dos seus representantes legais, para declararem, no prazo de trinta dias, se dão o seu assentimento à perfilhação, considerando-se esta aceite no caso de falta de resposta e sendo cancelado o registo no caso de recusa.
 
-###### ARTIGO 1858.º
+ARTIGO 1858.º
 
 (Irrevogabilidade)
 
 A perfilhação é irrevogável e, quando feita em testamento, não é prejudicada pela revogação deste.
 
-###### ARTIGO 1859.º
+ARTIGO 1859.º
 
 (Impugnação)
 
@@ -2330,7 +2566,7 @@ A perfilhação é irrevogável e, quando feita em testamento, não é prejudica
 
 3. A mãe ou o filho, quando autores, só terão de provar que o perfilhante não é o pai se este demonstrar ser verosímil que coabitou com a mãe do perfilhado no período da concepção.
 
-###### ARTIGO 1860.º
+ARTIGO 1860.º
 
 (Anulação por erro ou coacção)
 
@@ -2340,7 +2576,7 @@ A perfilhação é irrevogável e, quando feita em testamento, não é prejudica
 
 3. A acção de anulação caduca no prazo de um ano, a contar do momento em que o perfilhante teve conhecimento do erro ou em que cessou a coacção, salvo se ele for menor não emancipado ou interdito por anomalia psíquica; neste caso, a acção não caduca sem ter decorrido um ano sobre a maioridade, emancipação ou levantamento da interdição.
 
-###### ARTIGO 1861.º
+ARTIGO 1861.º
 
 (Anulação por incapacidade)
 
@@ -2354,29 +2590,29 @@ b) Da maioridade ou emancipação, quando intentada pelo que perfilhou antes da 
 
 c) Do termo da incapacidade, quando intentada por quem perfilhou estando interdito por anomalia psíquica ou notoriamente demente.
 
-###### ARTIGO 1862.º
+ARTIGO 1862.º
 
 (Morte do perfilhante)
 
 Se o perfilhante falecer sem haver intentado a acção de anulação ou no decurso dela, têm legitimidade para a intentar no ano seguinte à sua morte, ou nela prosseguir, os descendentes ou ascendentes do perfilhante e todos os que mostrem ter sido prejudicados nos seus direitos sucessórios por efeito da perfilhação.
 
-###### ARTIGO 1863.º
+ARTIGO 1863.º
 
 (Perfilhação posterior a investigação judicial)
 
 A perfilhação feita depois de intentada em juízo acção de investigação de paternidade contra pessoa diferente do perfilhante fica sem efeito, e o respectivo registo deve ser cancelado, se a acção for julgada procedente.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Averiguação oficiosa da paternidade
 
-###### ARTIGO 1864.º
+ARTIGO 1864.º
 
 (Paternidade desconhecida)
 
 Sempre que seja lavrado registo de nascimento de menor apenas com a maternidade estabelecida, deve o funcionário remeter ao tribunal certidão integral do registo, a fim de se averiguar oficiosamente a identidade do pai.
 
-###### ARTIGO 1865.º
+ARTIGO 1865.º
 
 (Averiguação oficiosa)
 
@@ -2390,7 +2626,7 @@ Sempre que seja lavrado registo de nascimento de menor apenas com a maternidade 
 
 5. Se o tribunal concluir pela existência de provas seguras da paternidade, ordenará a remessa do processo ao agente do Ministério Público junto do tribunal competente, a fim de ser intentada a acção de investigação.
 
-###### ARTIGO 1866.º
+ARTIGO 1866.º
 
 (Casos em que não é admitida a averiguação oficiosa da paternidade)
 
@@ -2400,35 +2636,35 @@ a) Se a mãe e o pretenso pai forem parentes ou afins em linha recta ou parentes
 
 b) Se tiverem decorrido dois anos sobre a data do nascimento.
 
-###### ARTIGO 1867.º
+ARTIGO 1867.º
 
 (Investigação com base em processo crime)
 
 Quando em processo crime se considere provada a cópula em termos de constituir fundamento para a investigação da paternidade e se mostre que a ofendida teve um filho em condições de o período legal da concepção abranger a época do crime, deve o Ministério Público instaurar a correspondente acção de investigação, independentemente do prazo estabelecido na alínea b) do artigo 1866.º
 
-###### ARTIGO 1868.º
+ARTIGO 1868.º
 
 (Remissão)
 
 É aplicável à acção oficiosa de investigação de paternidade, com as necessárias adaptações, o disposto nos artigos 1811.º, 1812.º e 1813.º
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Reconhecimento judicial
 
-###### ARTIGO 1869.º
+ARTIGO 1869.º
 
 (Investigação da paternidade)
 
 A paternidade pode ser reconhecida em acção especialmente intentada pelo filho se a maternidade já se achar estabelecida ou for pedido conjuntamente o reconhecimento de uma e outra.
 
-###### ARTIGO 1870.º
+ARTIGO 1870.º
 
 (Legitimidade da mãe menor)
 
 A mãe menor tem legitimidade para intentar a acção em representação do filho sem necessidade de autorização dos pais, mas é sempre representada na causa por curador especial nomeado pelo tribunal.
 
-###### ARTIGO 1871.º
+ARTIGO 1871.º
 
 (Presunção)
 
@@ -2444,13 +2680,13 @@ d) Quando o pretenso pai tenha seduzido a mãe, no período legal da concepção
 
 2. A presunção considera-se ilidida quando existam dúvidas sérias sobre a paternidade do investigado.
 
-###### ARTIGO 1872.º
+ARTIGO 1872.º
 
 (Coligação de investigantes)
 
 Na acção de investigação de paternidade é permitida a coligação de investigantes filhos da mesma mãe, em relação ao mesmo pretenso progenitor.
 
-###### ARTIGO 1873.º
+ARTIGO 1873.º
 
 (Remissão)
 
@@ -2460,7 +2696,7 @@ Na acção de investigação de paternidade é permitida a coligação de invest
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 1874.º
+ARTIGO 1874.º
 
 (Deveres de pais e filhos)
 
@@ -2468,7 +2704,7 @@ Na acção de investigação de paternidade é permitida a coligação de invest
 
 2. O dever de assistência compreende a obrigação de prestar alimentos e a de contribuir, durante a vida em comum, de acordo com os recursos próprios, para os encargos da vida familiar.
 
-###### ARTIGO 1875.º
+ARTIGO 1875.º
 
 (Nome do filho)
 
@@ -2478,7 +2714,7 @@ Na acção de investigação de paternidade é permitida a coligação de invest
 
 3. Se a maternidade ou paternidade forem estabelecidas posteriormente ao registo do nascimento, os apelidos do filho poderão ser alterados nos termos dos números anteriores.
 
-###### ARTIGO 1876.º
+ARTIGO 1876.º
 
 (Atribuição dos apelidos do marido da mãe)
 
@@ -2490,13 +2726,13 @@ Na acção de investigação de paternidade é permitida a coligação de invest
 
 ##### SUBSECÇÃO I — Princípios gerais
 
-###### ARTIGO 1877.º
+ARTIGO 1877.º
 
 (Duração do poder paternal)
 
 Os filhos estão sujeitos ao poder paternal até à maioridade ou emancipação.
 
-###### ARTIGO 1878.º
+ARTIGO 1878.º
 
 (Conteúdo do poder paternal)
 
@@ -2504,19 +2740,19 @@ Os filhos estão sujeitos ao poder paternal até à maioridade ou emancipação.
 
 2. Os filhos devem obediência aos pais; estes, porém, de acordo com a maturidade dos filhos, devem ter em conta a sua opinião nos assuntos familiares importantes e reconhecer-lhes autonomia na organização da própria vida.
 
-###### ARTIGO 1879.º
+ARTIGO 1879.º
 
 (Despesas com o sustento, segurança, saúde e educação dos filhos)
 
 Os pais ficam desobrigados de prover ao sustento dos filhos e de assumir as despesas relativas à sua segurança, saúde e educação na medida em que os filhos estejam em condições de suportar, pelo produto do seu trabalho ou outros rendimentos, aqueles encargos.
 
-###### ARTIGO 1880.º
+ARTIGO 1880.º
 
 (Despesas com os filhos maiores ou emancipados)
 
 Se no momento em que atingir a maioridade ou for emancipado o filho não houver completado a sua formação profissional, manter-se-á a obrigação a que se refere o artigo anterior na medida em que seja razoável exigir aos pais o seu cumprimento e pelo tempo normalmente requerido para que aquela formação se complete.
 
-###### ARTIGO 1881.º
+ARTIGO 1881.º
 
 (Poder de representação)
 
@@ -2524,19 +2760,19 @@ Se no momento em que atingir a maioridade ou for emancipado o filho não houver 
 
 2. Se houver conflito de interesses cuja resolução dependa de autoridade pública, entre qualquer dos pais e o filho sujeito ao poder paternal, ou entre os filhos, ainda que, neste caso, algum deles seja maior, são os menores representados por um ou mais curadores especiais nomeados pelo tribunal.
 
-###### ARTIGO 1882.º
+ARTIGO 1882.º
 
 (Irrenunciabilidade)
 
 Os pais não podem renunciar ao poder paternal nem a qualquer dos direitos que ele especialmente lhes confere, sem prejuízo do que neste Código se dispõe acerca da adopção.
 
-###### ARTIGO 1883.º
+ARTIGO 1883.º
 
 (Filho concebido fora do matrimónio)
 
 O pai ou a mãe não pode introduzir no lar conjugal o filho concebido na constância do matrimónio que não seja filho do seu cônjuge, sem consentimento deste.
 
-###### ARTIGO 1884.º
+ARTIGO 1884.º
 
 (Alimentos à mãe)
 
@@ -2546,7 +2782,7 @@ O pai ou a mãe não pode introduzir no lar conjugal o filho concebido na const�
 
 ##### SUBSECÇÃO II — Poder paternal relativamente à pessoa dos filhos
 
-###### ARTIGO 1885.º
+ARTIGO 1885.º
 
 (Educação)
 
@@ -2554,13 +2790,13 @@ O pai ou a mãe não pode introduzir no lar conjugal o filho concebido na const�
 
 2. Os pais devem proporcionar aos filhos, em especial aos diminuídos física e mentalmente, adequada instrução geral e profissional, correspondente, na medida do possível, às aptidões e inclinações de cada um.
 
-###### ARTIGO 1886.º
+ARTIGO 1886.º
 
 (Educação religiosa)
 
 Pertence aos pais decidir sobre a educação religiosa dos filhos menores de dezasseis anos.
 
-###### ARTIGO 1887.º
+ARTIGO 1887.º
 
 (Abandono do lar)
 
@@ -2570,7 +2806,7 @@ Pertence aos pais decidir sobre a educação religiosa dos filhos menores de dez
 
 ##### SUBSECÇÃO III — Poder paternal relativamente aos bens dos filhos
 
-###### ARTIGO 1888.º
+ARTIGO 1888.º
 
 (Exclusão da administração)
 
@@ -2586,7 +2822,7 @@ d) Dos bens adquiridos pelo filho maior de dezasseis anos pelo seu trabalho.
 
 2. A exclusão da administração, nos termos da alínea c) do número anterior, é permitida mesmo relativamente a bens que caibam ao filho a título de legítima.
 
-###### ARTIGO 1889.º
+ARTIGO 1889.º
 
 (Actos cuja validade depende de autorização do tribunal)
 
@@ -2622,7 +2858,7 @@ o) Negociar transacção ou comprometer-se em árbitros relativamente a actos re
 
 2. Não se considera abrangida na restrição da alínea a) do número anterior a aplicação de dinheiro ou capitais do menor na aquisição de bens.
 
-###### ARTIGO 1890.º
+ARTIGO 1890.º
 
 (Aceitação e rejeição de liberalidades)
 
@@ -2632,7 +2868,7 @@ o) Negociar transacção ou comprometer-se em árbitros relativamente a actos re
 
 3. Se os pais nada declararem dentro do prazo fixado, a liberalidade tem-se por aceite, salvo se o tribunal julgar mais conveniente para o menor a rejeição.
 
-###### ARTIGO 1891.º
+ARTIGO 1891.º
 
 (Nomeação de curador especial)
 
@@ -2640,7 +2876,7 @@ o) Negociar transacção ou comprometer-se em árbitros relativamente a actos re
 
 2. Quando o tribunal recusar autorização aos pais para rejeitarem a liberalidade, será também nomeado oficiosamente um curador para o efeito da sua aceitação.
 
-###### ARTIGO 1892.º
+ARTIGO 1892.º
 
 (Proibição de adquirir bens do filho)
 
@@ -2648,7 +2884,7 @@ o) Negociar transacção ou comprometer-se em árbitros relativamente a actos re
 
 2. Entende-se que a aquisição é feita por interposta pessoa nos casos referidos no n.º 2 do artigo 579.º
 
-###### ARTIGO 1893.º
+ARTIGO 1893.º
 
 (Actos anuláveis)
 
@@ -2658,13 +2894,13 @@ o) Negociar transacção ou comprometer-se em árbitros relativamente a actos re
 
 3. A acção de anulação pode também ser intentada pelas pessoas com legitimidade para requerer a inibição do poder paternal, contanto que o façam no ano seguinte à prática dos actos impugnados e antes de o menor atingir a maioridade ou ser emancipado.
 
-###### ARTIGO 1894.º
+ARTIGO 1894.º
 
 (Confirmação dos actos pelo tribunal)
 
 O tribunal pode confirmar os actos praticados pelos pais sem a necessária autorização.
 
-###### ARTIGO 1895.º
+ARTIGO 1895.º
 
 (Bens cuja propriedade pertence aos pais)
 
@@ -2672,7 +2908,7 @@ O tribunal pode confirmar os actos praticados pelos pais sem a necessária autor
 
 2. Os pais devem dar ao filho parte nos bens produzidos ou por outra forma compensá-lo do seu trabalho; o cumprimento deste dever não pode, todavia, ser judicialmente exigido.
 
-###### ARTIGO 1896.º
+ARTIGO 1896.º
 
 (Rendimentos dos bens do filho)
 
@@ -2682,13 +2918,13 @@ O tribunal pode confirmar os actos praticados pelos pais sem a necessária autor
 
 3. A utilização de rendimentos de bens que caibam ao filho a título de legítima não pode ser excluída pelo doador ou testador.
 
-###### ARTIGO 1897.º
+ARTIGO 1897.º
 
 (Exercício da administração)
 
 Os pais devem administrar os bens dos filhos com o mesmo cuidado com que administram os seus.
 
-###### ARTIGO 1898.º
+ARTIGO 1898.º
 
 (Prestação de caução)
 
@@ -2696,13 +2932,13 @@ Os pais devem administrar os bens dos filhos com o mesmo cuidado com que adminis
 
 2. Se os pais não prestarem a caução que lhes for exigida é aplicável o disposto no artigo 1470.º
 
-###### ARTIGO 1899.º
+ARTIGO 1899.º
 
 (Dispensa de prestação de contas)
 
 Os pais não são obrigados a prestar contas da sua administração, sem prejuízo do disposto no artigo 1920.º
 
-###### ARTIGO 1900.º
+ARTIGO 1900.º
 
 (Fim da administração)
 
@@ -2712,7 +2948,7 @@ Os pais não são obrigados a prestar contas da sua administração, sem prejuí
 
 ##### SUBSECÇÃO IV — Exercício do poder paternal
 
-###### ARTIGO 1901.º
+ARTIGO 1901.º
 
 (Poder paternal na constância do matrimónio)
 
@@ -2720,7 +2956,7 @@ Os pais não são obrigados a prestar contas da sua administração, sem prejuí
 
 2. Os pais exercem o poder paternal de comum acordo e, se este faltar em questões de particular importância, qualquer deles pode recorrer ao tribunal, que tentará a conciliação; se esta não for possível, o tribunal ouvirá, antes de decidir, o filho maior de catorze anos, salvo quando circunstâncias ponderosas o desaconselhem.
 
-###### ARTIGO 1902.º
+ARTIGO 1902.º
 
 (Actos praticados por um dos pais)
 
@@ -2728,19 +2964,19 @@ Os pais não são obrigados a prestar contas da sua administração, sem prejuí
 
 2. O terceiro deve recusar-se a intervir no acto praticado por um dos cônjuges quando, nos termos do número anterior, não se presuma o acordo do outro cônjuge ou quando conheça a oposição deste.
 
-###### ARTIGO 1903.º
+ARTIGO 1903.º
 
 (Impedimento de um dos pais)
 
 Quando um dos pais não puder exercer o poder paternal por ausência, incapacidade ou outro impedimento, caberá esse exercício unicamente ao outro progenitor.
 
-###### ARTIGO 1904.º
+ARTIGO 1904.º
 
 (Viuvez)
 
 Dissolvido o casamento por morte de um dos cônjuges, o poder paternal pertence ao sobrevivo.
 
-###### ARTIGO 1905.º
+ARTIGO 1905.º
 
 (Divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento)
 
@@ -2750,7 +2986,7 @@ Dissolvido o casamento por morte de um dos cônjuges, o poder paternal pertence 
 
 3. No caso referido no número anterior será estabelecido um regime de visitas ao progenitor ou progenitores a quem não tenha sido confiada a guarda do filho, a menos que excepcionalmente o interesse deste o desaconselhe.
 
-###### ARTIGO 1906.º
+ARTIGO 1906.º
 
 (Exercício do poder paternal em caso de divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento.)
 
@@ -2760,7 +2996,7 @@ Dissolvido o casamento por morte de um dos cônjuges, o poder paternal pertence 
 
 3. Ao progenitor que não exerça o poder paternal assiste o poder de vigiar a educação e as condições de vida do filho.
 
-###### ARTIGO 1907.º
+ARTIGO 1907.º
 
 (Exercício do poder paternal quando o filho é confiado a terceira pessoa ou a estabelecimento de educação ou assistência.)
 
@@ -2768,25 +3004,25 @@ Dissolvido o casamento por morte de um dos cônjuges, o poder paternal pertence 
 
 2. O tribunal decidirá a qual dos progenitores compete o exercício do poder paternal na parte não prejudicada pelo disposto no número anterior.
 
-###### ARTIGO 1908.º
+ARTIGO 1908.º
 
 (Sobrevivência do progenitor a quem o filho não foi confiado)
 
 Quando se verifique alguma das circunstâncias previstas no artigo 1918.º, pode o tribunal, ao regular o exercício do poder paternal, decidir que, se falecer o progenitor a quem o menor for entregue, a guarda não passe para o sobrevivo; o tribunal designará então a pessoa a quem, provisoriamente, o menor será confiado.
 
-###### ARTIGO 1909.º
+ARTIGO 1909.º
 
 (Separação de facto)
 
 As disposições dos artigos 1905.º a 1908.º são aplicáveis aos cônjuges separados de facto.
 
-###### ARTIGO 1910.º
+ARTIGO 1910.º
 
 (Filiação estabelecida apenas quanto a um dos progenitores)
 
 Se a filiação de menor nascido fora do casamento se encontrar estabelecida apenas quanto a um dos progenitores, a este pertence o poder paternal.
 
-###### ARTIGO 1911.º
+ARTIGO 1911.º
 
 (Filiação estabelecida quanto a ambos os progenitores não unidos pelo matrimónio)
 
@@ -2796,7 +3032,7 @@ Se a filiação de menor nascido fora do casamento se encontrar estabelecida ape
 
 3. Se os progenitores conviverem maritalmente, o exercício do poder paternal pertence a ambos quando declarem, perante o funcionário do registo civil, ser essa a sua vontade; é aplicável, neste caso, com as necessárias adaptações, o disposto nos artigos 1901.º a 1904.º
 
-###### ARTIGO 1912.º
+ARTIGO 1912.º
 
 (Regulação do exercício do poder paternal)
 
@@ -2804,7 +3040,7 @@ Se a filiação de menor nascido fora do casamento se encontrar estabelecida ape
 
 ##### SUBSECÇÃO V — Inibição e limitações ao exercício do poder paternal
 
-###### ARTIGO 1913.º
+ARTIGO 1913.º
 
 (Inibição de pleno direito)
 
@@ -2820,13 +3056,13 @@ c) Os ausentes, desde a nomeação do curador provisório.
 
 3. As decisões judiciais que importem inibição do exercício do poder paternal são comunicadas, logo que transitem em julgado, ao tribunal competente, a fim de serem tomadas as providências que no caso couberem.
 
-###### ARTIGO 1914.º
+ARTIGO 1914.º
 
 (Cessação da inibição)
 
 A inibição de pleno direito do exercício do poder paternal cessa pelo levantamento da interdição ou inabilitação e pelo termo da curadoria.
 
-###### ARTIGO 1915.º
+ARTIGO 1915.º
 
 (Inibição do exercício do poder paternal)
 
@@ -2836,7 +3072,7 @@ A inibição de pleno direito do exercício do poder paternal cessa pelo levanta
 
 3. Salvo decisão em contrário, os efeitos da inibição que abranja todos os filhos estendem-se aos que nascerem depois de decretada.
 
-###### ARTIGO 1916.º
+ARTIGO 1916.º
 
 (Levantamento da inibição)
 
@@ -2844,19 +3080,19 @@ A inibição de pleno direito do exercício do poder paternal cessa pelo levanta
 
 2. O levantamento pode ser pedido pelo Ministério Público, a todo o tempo, ou por qualquer dos pais, passado um ano sobre o trânsito em julgado da sentença de inibição ou da que houver desatendido outro pedido de levantamento.
 
-###### ARTIGO 1917.º
+ARTIGO 1917.º
 
 (Alimentos)
 
 A inibição do exercício do poder paternal em nenhum caso isenta os pais do dever de alimentarem o filho.
 
-###### ARTIGO 1918.º
+ARTIGO 1918.º
 
 (Perigo para a segurança, saúde, formação moral e educação do filho)
 
 Quando a segurança, a saúde, a formação moral ou a educação de um menor se encontre em perigo e não seja caso de inibição do exercício do poder paternal, pode o tribunal, a requerimento do Ministério Público ou de qualquer das pessoas indicadas no n.º 1 do artigo 1915.º, decretar as providências adequadas, designadamente confiá-lo a terceira pessoa ou a estabelecimento de educação ou assistência.
 
-###### ARTIGO 1919.º
+ARTIGO 1919.º
 
 (Exercício do poder paternal enquanto se mantiver a providência)
 
@@ -2864,7 +3100,7 @@ Quando a segurança, a saúde, a formação moral ou a educação de um menor se
 
 2. Se o menor tiver sido confiado a terceira pessoa ou a estabelecimento de educação ou assistência, será estabelecido um regime de visitas aos pais, a menos que, excepcionalmente, o interesse do filho o desaconselhe.
 
-###### ARTIGO 1920.º
+ARTIGO 1920.º
 
 (Protecção dos bens do filho)
 
@@ -2872,7 +3108,7 @@ Quando a segurança, a saúde, a formação moral ou a educação de um menor se
 
 2. Atendendo em especial ao valor dos bens, pode nomeadamente o tribunal exigir a prestação de contas e de informações sobre a administração e estado do património do filho e, quando estas providências não sejam suficientes, a prestação de caução.
 
-###### ARTIGO 1920.º-A
+ARTIGO 1920.º-A
 
 (Revogação ou alteração de decisões)
 
@@ -2880,7 +3116,7 @@ As decisões que decretem providências ao abrigo do disposto nos artigos 1918.�
 
 ##### SUBSECÇÃO VI — Registo das decisões relativas ao poder paternal
 
-###### ARTIGO 1920.º-B
+ARTIGO 1920.º-B
 
 (Obrigatoriedade do registo)
 
@@ -2894,23 +3130,23 @@ c) As decisões que façam cessar a regulação do poder paternal em caso de rec
 
 d) As decisões que importem a inibição do exercício do poder paternal, o suspendam provisoriamente ou estabeleçam providências limitativas desse poder.
 
-###### ARTIGO 1920.º-C
+ARTIGO 1920.º-C
 
 (Consequência da falta do registo)
 
 As decisões judiciais a que se refere o artigo anterior não podem ser invocadas contra terceiro de boa fé enquanto se não mostre efectuado o registo.
 
-###### Art. 100.º O artigo 1927.º do Código Civil passa a ter a seguinte redacção:
+Art. 100.º O artigo 1927.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1927.º
+ARTIGO 1927.º
 
 (Pessoas a quem compete a tutela)
 
 O cargo de tutor recairá sobre a pessoa designada pelos pais ou pelo tribunal de menores.
 
-###### Art. 101.º Os n.os 1 e 2 do artigo 1928.º do Código Civil passam a ter a seguinte redacção:
+Art. 101.º Os n.os 1 e 2 do artigo 1928.º do Código Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 1928.º
+ARTIGO 1928.º
 
 (Tutor designado pelos pais)
 
@@ -2918,19 +3154,19 @@ O cargo de tutor recairá sobre a pessoa designada pelos pais ou pelo tribunal d
 
 2. Quando, falecido um dos progenitores que houver nomeado tutor ao filho menor, lhe sobreviver o outro, a designação considera-se eficaz se não for revogada por este no exercício do poder paternal.
 
-###### Art. 102.º O artigo 1929.º do Código Civil passa a ter a seguinte redacção:
+Art. 102.º O artigo 1929.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1929.º
+ARTIGO 1929.º
 
 (Designação de vários tutores)
 
 Quando, nos termos do artigo anterior, tiver sido designado mais de um tutor para o mesmo filho, recairá a tutela em cada um dos designados segundo a ordem da designação, quando a precedência entre eles não for de outro modo especificada.
 
-###### Art. 103.º É revogado o artigo 1930.º do Código Civil.
+Art. 103.º É revogado o artigo 1930.º do Código Civil.
 
-###### Art. 104.º O artigo 1931.º do Código Civil passa a ter a seguinte redacção:
+Art. 104.º O artigo 1931.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1931.º
+ARTIGO 1931.º
 
 (Tutor designado pelo tribunal)
 
@@ -2938,17 +3174,17 @@ Quando, nos termos do artigo anterior, tiver sido designado mais de um tutor par
 
 2. Antes de proceder à nomeação de tutor, deve o tribunal ouvir o menor que tenha completado catorze anos.
 
-###### Art. 105.º O artigo 1932.º do Código Civil passa a ter a seguinte redacção:
+Art. 105.º O artigo 1932.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1932.º
+ARTIGO 1932.º
 
 (Tutela de vários irmãos)
 
 A tutela respeitante a dois ou mais irmãos caberá, sempre que possível, a um só tutor.
 
-###### Art. 106.º O n.º 1 do artigo 1934.º do Código Civil passa a ter a seguinte redacção:
+Art. 106.º O n.º 1 do artigo 1934.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1934.º
+ARTIGO 1934.º
 
 (Escusa da tutela)
 
@@ -2972,25 +3208,25 @@ h) Os que não sejam parentes ou afins em linha recta do menor, ou seus colatera
 
 i) Os que, em virtude de doença, ocupações profissionais absorventes ou carência de meios económicos, não possam exercer a tutela sem grave incómodo ou prejuízo.
 
-###### Art. 107.º O n.º 1 do artigo 1935.º do Código Civil passa a ter a seguinte redacção:
+Art. 107.º O n.º 1 do artigo 1935.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1935.º
+ARTIGO 1935.º
 
 (Princípios gerais)
 
 1. O tutor tem os mesmos direitos e obrigações dos pais, com as modificações e restrições constantes dos artigos seguintes.
 
-###### Art. 108.º O artigo 1936.º do Código Civil passa a ter a seguinte redacção:
+Art. 108.º O artigo 1936.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1936.º
+ARTIGO 1936.º
 
 (Rendimentos dos bens do pupilo)
 
 O tutor só pode utilizar os rendimentos do pupilo no sustento e educação deste e na administração dos seus bens.
 
-###### Art. 109.º O n.º 1 do artigo 1938.º do Código Civil passa a ter a seguinte redacção:
+Art. 109.º O n.º 1 do artigo 1938.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1938.º
+ARTIGO 1938.º
 
 (Actos dependentes de autorização do tribunal)
 
@@ -3008,17 +3244,17 @@ e) Para intentar acções, salvas as destinadas à cobrança de prestações per
 
 f) Para continuar a exploração do estabelecimento comercial ou industrial que o menor haja recebido por sucessão ou doação.
 
-###### Art. 110.º O n.º 2 do artigo 1944.º do Código Civil passa a ter a seguinte redacção:
+Art. 110.º O n.º 2 do artigo 1944.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1944.º
+ARTIGO 1944.º
 
 (Obrigação de prestar contas)
 
 2. Sendo as contas prestadas no termo da gerência, o tribunal ouvirá o ex-pupilo ou os seus herdeiros, se tiver terminado a tutela; no caso contrário, será ouvido o novo tutor.
 
-###### Art. 111.º O artigo 1950.º do Código Civil passa a ter a seguinte redacção:
+Art. 111.º O artigo 1950.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1950.º
+ARTIGO 1950.º
 
 (Exoneração do tutor)
 
@@ -3028,9 +3264,9 @@ a) Se sobrevier alguma das causas de escusa;
 
 b) Ao fim de três anos, nos casos em que o tutor se poda ter escusado a aceitar o cargo, se subsistir a causa da escusa.
 
-###### Art. 112.º O artigo 1952.º do Código Civil passa a ter a seguinte redacção:
+Art. 112.º O artigo 1952.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1952.º
+ARTIGO 1952.º
 
 (Escolha dos vogais)
 
@@ -3040,25 +3276,25 @@ b) Ao fim de três anos, nos casos em que o tutor se poda ter escusado a aceitar
 
 3. Sempre que possível, um dos vogais do conselho de família pertencerá ou representará a linha paterna e o outro a linha materna do menor.
 
-###### Art. 113.º O n.º 2 do artigo 1955.º do Código Civil passa a ter a seguinte redacção:
+Art. 113.º O n.º 2 do artigo 1955.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1955.º
+ARTIGO 1955.º
 
 (Protutor)
 
 2. O protutor deve, sempre que possível, representar a linha de parentesco diversa da do tutor.
 
-###### Art. 114.º O n.º 1 do artigo 1957.º do Código Civil passa a ter a seguinte redacção:
+Art. 114.º O n.º 1 do artigo 1957.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1957.º
+ARTIGO 1957.º
 
 (Convocação do conselho)
 
 1. O conselho de família é convocado por determinação do tribunal ou do Ministério Público, ou a requerimento de um dos vogais, do tutor, do administrador de bens, de qualquer parente do menor, ou do próprio menor, quando tiver mais de dezasseis anos.
 
-###### Art. 115.º O artigo 1961.º do Código Civil passa a ter a seguinte redacção:
+Art. 115.º O artigo 1961.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1961.º
+ARTIGO 1961.º
 
 (Quando termina)
 
@@ -3076,13 +3312,13 @@ e) Pela cessação do impedimento dos pais;
 
 f) Pelo estabelecimento da maternidade ou paternidade.
 
-###### Art. 116.º A divisão VI da subsecção II da secção III do capítulo IV do título III do livro IV do Código Civil passa a ter por epígrafe:
+Art. 116.º A divisão VI da subsecção II da secção III do capítulo IV do título III do livro IV do Código Civil passa a ter por epígrafe:
 
 Tutela de menores confiados a estabelecimento de educação ou assistência
 
-###### Art. 117.º O artigo 1962.º do Código Civil passa a ter a seguinte redacção:
+Art. 117.º O artigo 1962.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 1962.º
+ARTIGO 1962.º
 
 (Exercício da tutela)
 
@@ -3090,15 +3326,15 @@ Tutela de menores confiados a estabelecimento de educação ou assistência
 
 2. Neste caso, não existe conselho de família nem é nomeado protutor.
 
-###### Art. 118.º São revogados os artigos 1963.º a 1966.º do Código Civil.
+Art. 118.º São revogados os artigos 1963.º a 1966.º do Código Civil.
 
-###### Art. 119.º O título IV do livro IV do Código Civil é substituído pelo seguinte:
+Art. 119.º O título IV do livro IV do Código Civil é substituído pelo seguinte:
 
 ## TÍTULO IV — Da adopção
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 1973.º
+ARTIGO 1973.º
 
 (Constituição)
 
@@ -3106,7 +3342,7 @@ Tutela de menores confiados a estabelecimento de educação ou assistência
 
 2. O processo será instruído com um inquérito, que deverá incidir, nomeadamente, sobre a personalidade e a saúde do adoptante e do adoptando, a idoneidade do adoptante para criar e educar o adoptando, a situação familiar e económica do adoptante e as razões determinantes do pedido de adopção.
 
-###### ARTIGO 1974.º
+ARTIGO 1974.º
 
 (Requisitos gerais)
 
@@ -3114,19 +3350,19 @@ Tutela de menores confiados a estabelecimento de educação ou assistência
 
 2. Salvo casos excepcionais, o adoptando deverá ter estado ao cuidado do adoptante durante prazo suficiente para se poder avaliar da conveniência da constituição do vínculo.
 
-###### ARTIGO 1975.º
+ARTIGO 1975.º
 
 (Proibição de várias adopções do mesmo adoptado)
 
 Enquanto subsistir uma adopção não pode constituir-se outra quanto ao mesmo adoptado, excepto se os adoptantes forem casados um com o outro.
 
-###### ARTIGO 1976.º
+ARTIGO 1976.º
 
 (Adopção pelo tutor ou administrador legal de bens)
 
 O tutor ou administrador legal de bens só pode adoptar o menor depois de aprovadas as contas da tutela ou administração de bens e saldada a sua responsabilidade.
 
-###### ARTIGO 1977.º
+ARTIGO 1977.º
 
 (Espécies de adopção)
 
@@ -3134,7 +3370,7 @@ O tutor ou administrador legal de bens só pode adoptar o menor depois de aprova
 
 2. A adopção restrita pode a todo o tempo, a requerimento dos adoptantes, ser convertida em adopção plena, desde que se verifiquem os requisitos para esta exigidos.
 
-###### ARTIGO 1978.º
+ARTIGO 1978.º
 
 (Estado de abandono)
 
@@ -3146,7 +3382,7 @@ O tutor ou administrador legal de bens só pode adoptar o menor depois de aprova
 
 ### CAPÍTULO II — Adopção plena
 
-###### ARTIGO 1979.º
+ARTIGO 1979.º
 
 (Quem pode adoptar plenamente)
 
@@ -3156,7 +3392,7 @@ O tutor ou administrador legal de bens só pode adoptar o menor depois de aprova
 
 3. Em qualquer caso, só pode adoptar plenamente quem tiver menos de sessenta anos.
 
-###### ARTIGO 1980.º
+ARTIGO 1980.º
 
 (Quem pode ser adoptado plenamente)
 
@@ -3164,7 +3400,7 @@ O tutor ou administrador legal de bens só pode adoptar o menor depois de aprova
 
 2. O adoptando deve ter menos de catorze anos; poderá, no entanto, ser adoptado o menor de dezoito anos não emancipado, quando desde idade não superior a catorze tenha estado, de direito ou de facto, ao cuidado dos adoptantes ou de um deles ou quando for filho do cônjuge do adoptante.
 
-###### ARTIGO 1981.º
+ARTIGO 1981.º
 
 (Consentimento para a adopção)
 
@@ -3184,7 +3420,7 @@ d) Do ascendente ou colateral até ao terceiro grau que, na falta dos pais, tenh
 
 4. O tribunal poderá ainda dispensar o consentimento das pessoas referidas nas alíneas c) e d) do n.º 1 e no n.º 2, quando se hajam mostrado indignas no seu comportamento para com o adoptando.
 
-###### ARTIGO 1982.º
+ARTIGO 1982.º
 
 (Forma e tempo do consentimento)
 
@@ -3194,7 +3430,7 @@ d) Do ascendente ou colateral até ao terceiro grau que, na falta dos pais, tenh
 
 3. A mãe não pode dar o seu consentimento antes de decorrido um mês após o parto.
 
-###### ARTIGO 1983.º
+ARTIGO 1983.º
 
 (Revogação e caducidade do consentimento)
 
@@ -3204,19 +3440,19 @@ d) Do ascendente ou colateral até ao terceiro grau que, na falta dos pais, tenh
 
 3. O consentimento caduca se no prazo de três anos o menor não tiver sido adoptado.
 
-###### ARTIGO 1984.º
+ARTIGO 1984.º
 
 (Audição dos filhos do adoptante)
 
 O juiz deverá ouvir os filhos do adoptante maiores de catorze anos.
 
-###### ARTIGO 1985.º
+ARTIGO 1985.º
 
 (Segredo da identidade do adoptante)
 
 O adoptante pode opor-se a que a sua identidade seja revelada aos pais naturais do adoptado se este tiver sido declarado abandonado ou confiado a um estabelecimento público ou particular de assistência.
 
-###### ARTIGO 1986.º
+ARTIGO 1986.º
 
 (Efeitos)
 
@@ -3224,25 +3460,25 @@ O adoptante pode opor-se a que a sua identidade seja revelada aos pais naturais 
 
 2. Se um dos cônjuges adopta o filho do outro mantêm-se as relações entre o adoptado e o cônjuge do adoptante e os respectivos parentes.
 
-###### ARTIGO 1987.º
+ARTIGO 1987.º
 
 (Estabelecimento e prova da filiação natural)
 
 Depois de decretada a adopção plena não é possível estabelecer a filiação natural do adoptado nem fazer a prova dessa filiação fora do processo preliminar de publicações.
 
-###### ARTIGO 1988.º
+ARTIGO 1988.º
 
 (Apelidos do adoptado)
 
 O adoptado perde os seus apelidos de origem, sendo o seu novo nome constituído, com as necessárias adaptações, nos termos do artigo 1875.º
 
-###### ARTIGO 1989.º
+ARTIGO 1989.º
 
 (Irrevogabilidade da adopção plena)
 
 A adopção plena não é revogável nem sequer por acordo do adoptante e do adoptado.
 
-###### ARTIGO 1990.º
+ARTIGO 1990.º
 
 (Revisão da sentença)
 
@@ -3262,7 +3498,7 @@ e) Se tiver faltado o consentimento do adoptado, quando necessário.
 
 3. A revisão não será, contudo, concedida quando os interesses do adoptado possam ser consideravelmente afectados, salvo se razões invocadas pelo adoptante imperiosamente o exigirem.
 
-###### ARTIGO 1991.º
+ARTIGO 1991.º
 
 (Legitimidade e prazo para a revisão)
 
@@ -3278,13 +3514,13 @@ c) No caso da alínea e), pelo adoptado, até seis meses a contar da data em que
 
 ### CAPÍTULO III — Adopção restrita
 
-###### ARTIGO 1992.º
+ARTIGO 1992.º
 
 (Quem pode adoptar restritamente)
 
 Pode adoptar restritamente quem tiver mais de vinte e cinco anos e menos de sessenta.
 
-###### ARTIGO 1993.º
+ARTIGO 1993.º
 
 (Disposições aplicáveis)
 
@@ -3292,37 +3528,37 @@ Pode adoptar restritamente quem tiver mais de vinte e cinco anos e menos de sess
 
 2. Se o consentimento dos pais do adoptando tiver sido prestado nos termos do n.º 2 do artigo 1982.º e dele não resultar inequivocamente qual o tipo de adopção para que foi concedido, entender-se-á que o foi para a adopção restrita.
 
-###### ARTIGO 1994.º
+ARTIGO 1994.º
 
 (O adoptado e a família natural)
 
 O adoptado conserva todos os direitos e deveres em relação à família natural, salvas as restrições estabelecidas na lei.
 
-###### ARTIGO 1995.º
+ARTIGO 1995.º
 
 (Apelidos do adoptado)
 
 O juiz poderá atribuir ao adoptado, a requerimento do adoptante, apelidos deste, compondo um novo nome em que figurem um ou mais apelidos da família natural.
 
-###### ARTIGO 1996.º
+ARTIGO 1996.º
 
 (Direitos sucessórios e prestação de alimentos)
 
 O adoptado, ou seus descendentes, e os parentes do adoptante não são herdeiros legítimos ou legitimários uns dos outros, nem ficam reciprocamente vinculados à prestação de alimentos.
 
-###### ARTIGO 1997.º
+ARTIGO 1997.º
 
 (Poder paternal)
 
 Cabe exclusivamente ao adoptante, ou ao adoptante e ao seu cônjuge, se este for pai ou mãe do adoptado, o exercício do poder paternal, com todos os direitos e obrigações dos pais, salvo o disposto no artigo seguinte.
 
-###### ARTIGO 1998.º
+ARTIGO 1998.º
 
 (Rendimentos dos bens do adoptado)
 
 O adoptante só poderá despender dos rendimentos dos bens do adoptado a quantia que o tribunal fixar para alimentos deste.
 
-###### ARTIGO 1999.º
+ARTIGO 1999.º
 
 (Direitos sucessórios)
 
@@ -3332,7 +3568,7 @@ O adoptante só poderá despender dos rendimentos dos bens do adoptado a quantia
 
 3. O adoptante é chamado à sucessão como herdeiro legítimo do adoptado ou de seus descendentes, na falta de cônjuge, descendentes, ascendentes, irmãos e sobrinhos do falecido.
 
-###### ARTIGO 2000.º
+ARTIGO 2000.º
 
 (Alimentos)
 
@@ -3340,13 +3576,13 @@ O adoptante só poderá despender dos rendimentos dos bens do adoptado a quantia
 
 2. O adoptante considera-se ascendente em 1.º grau do adoptado para efeitos da obrigação de lhe prestar alimentos, precedendo os pais naturais na ordem estabelecida no n.º 1 do artigo 2009.º; o adoptante não precede, no entanto, o progenitor do adoptado com quem seja casado.
 
-###### ARTIGO 2001.º
+ARTIGO 2001.º
 
 (Reconhecimento superveniente)
 
 Os efeitos da adopção não são prejudicados pelo facto de vir a ser estabelecida a filiação natural do adoptado.
 
-###### ARTIGO 2002.º
+ARTIGO 2002.º
 
 (Relação dos bens do adoptado)
 
@@ -3354,19 +3590,19 @@ Os efeitos da adopção não são prejudicados pelo facto de vir a ser estabelec
 
 2. Sempre que o adoptado, sendo menor ou incapaz, adquira novos bens ou haja sub-rogação dos existentes, pode o tribunal exigir que seja apresentada relação complementar.
 
-###### ARTIGO 2002.º-A
+ARTIGO 2002.º-A
 
 (Prestação de contas pelo adoptante)
 
 O adoptante deve prestar contas da sua administração sempre que o tribunal lho exija a requerimento do Ministério Público, dos pais naturais ou do próprio adoptado, até dois anos depois de atingir a maioridade ou ter sido emancipado.
 
-###### ARTIGO 2002.º-B
+ARTIGO 2002.º-B
 
 (Revogação)
 
 A adopção é revogável a requerimento do adoptante ou do adoptado, quando se verifique alguma das ocorrências que justificam a deserdação dos herdeiros legitimários.
 
-###### ARTIGO 2002.º-C
+ARTIGO 2002.º-C
 
 (Revogação a requerimento de outras pessoas)
 
@@ -3376,7 +3612,7 @@ a) Deixar o adoptante de cumprir os deveres inerentes ao poder paternal;
 
 b) Tornar-se a adopção, por qualquer causa, inconveniente para a educação ou os interesses do adoptado.
 
-###### ARTIGO 2002.º-D
+ARTIGO 2002.º-D
 
 (Efeitos da revogação)
 
@@ -3386,9 +3622,9 @@ b) Tornar-se a adopção, por qualquer causa, inconveniente para a educação ou
 
 3. A doação feita ao adoptado ou a seus descendentes pelo adoptante, ou a este pelo adoptado, caduca no caso de a revogação ter sido pedida, respectivamente, pelo adoptante ou pelo adoptado, excepto se o doador, depois de pedida a revogação, confirmar a liberalidade por documento autêntico ou autenticado.
 
-###### Art. 120.º O n.º 1 do artigo 2009.º do Código Civil passa a ter a seguinte redacção:
+Art. 120.º O n.º 1 do artigo 2009.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2009.º
+ARTIGO 2009.º
 
 (Pessoas obrigadas a alimentos)
 
@@ -3406,9 +3642,9 @@ e) Os tios, durante a menoridade do alimentando;
 
 f) O padrasto e a madrasta, relativamente a enteados menores que estejam, ou estivessem no momento da morte do cônjuge, a cargo deste.
 
-###### Art. 121.º O n.º 1 do artigo 2013.º do Código Civil passa a ter a seguinte redacção:
+Art. 121.º O n.º 1 do artigo 2013.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2013.º
+ARTIGO 2013.º
 
 (Cessação da obrigação alimentar)
 
@@ -3420,21 +3656,21 @@ b) Quando aquele que os presta não possa continuar a prestá-los ou aquele que 
 
 c) Quando o credor viole gravemente os seus deveres para com o obrigado.
 
-###### Art. 122.º Depois da epígrafe do capítulo II do título V do livro IV do Código Civil é suprimido:
+Art. 122.º Depois da epígrafe do capítulo II do título V do livro IV do Código Civil é suprimido:
 
 #### SECÇÃO I — Obrigação alimentar relativamente a cônjuges
 
-###### Art. 123.º O artigo 2015.º do Código Civil passa a ter a seguinte redacção:
+Art. 123.º O artigo 2015.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2015.º
+ARTIGO 2015.º
 
 (Obrigação alimentar relativamente a cônjuges)
 
 Na vigência da sociedade conjugal, os cônjuges são reciprocamente obrigados à prestação de alimentos, nos termos do artigo 1675.º
 
-###### Art. 124.º O artigo 2016.º do Código Civil passa a ter a seguinte redacção:
+Art. 124.º O artigo 2016.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2016.º
+ARTIGO 2016.º
 
 (Divórcio e separação judicial de pessoas e bens)
 
@@ -3452,13 +3688,13 @@ c) Qualquer dos cônjuges, se o divórcio tiver sido decretado por mútuo consen
 
 4. O disposto nos números anteriores é aplicável ao caso de ter sido decretada a separação judicial de pessoas e bens.
 
-###### Art. 125.º Depois do artigo 2019.º do Código Civil é suprimido:
+Art. 125.º Depois do artigo 2019.º do Código Civil é suprimido:
 
 #### SECÇÃO II — Obrigação alimentar dos parentes
 
-###### Art. 126.º O artigo 2020.º do Código Civil passa a ter a seguinte redacção:
+Art. 126.º O artigo 2020.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2020.º
+ARTIGO 2020.º
 
 (União de facto)
 
@@ -3468,43 +3704,43 @@ c) Qualquer dos cônjuges, se o divórcio tiver sido decretado por mútuo consen
 
 3. É aplicável ao caso previsto neste artigo, com as necessárias adaptações, o disposto no artigo anterior.
 
-###### Art. 127.º São revogados os artigos 2021.º a 2023.º do Código Civil.
+Art. 127.º São revogados os artigos 2021.º a 2023.º do Código Civil.
 
-###### Art. 128.º O n.º 2 do artigo 2029.º do Código Civil passa a ter a seguinte redacção:
+Art. 128.º O n.º 2 do artigo 2029.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2029.º
+ARTIGO 2029.º
 
 (Partilha em vida)
 
 2. Se sobrevier ou se tornar conhecido outro presumido herdeiro legitimário, pode este exigir que lhe seja composta em dinheiro a parte correspondente.
 
-###### Art. 129.º O n.º 1 do artigo 2041.º do Código Civil passa a ter a seguinte redacção:
+Art. 129.º O n.º 1 do artigo 2041.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2041.º
+ARTIGO 2041.º
 
 (Representação na sucessão testamentária)
 
 1. Gozam do direito de representação na sucessão testamentária os descendentes do que faleceu antes do testador ou do que repudiou a herança ou o legado, se não houver outra causa de caducidade da vocação sucessória.
 
-###### Art. 130.º O artigo 2042.º do Código Civil passa a ter a seguinte redacção:
+Art. 130.º O artigo 2042.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2042.º
+ARTIGO 2042.º
 
 (Representação na sucessão legal)
 
 Na sucessão legal, a representação tem sempre lugar, na linha recta, em benefício dos descendentes de filho do autor da sucessão e, na linha colateral, em benefício dos descendentes de irmão do falecido, qualquer que seja, num caso ou noutro, o grau de parentesco.
 
-###### Art. 131.º O n.º 1 do artigo 2044.º do Código Civil passa a ter a seguinte redacção:
+Art. 131.º O n.º 1 do artigo 2044.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2044.º
+ARTIGO 2044.º
 
 (Partilha)
 
 1. Havendo representação, cabe a cada estirpe aquilo em que sucederia o ascendente respectivo.
 
-###### Art. 132.º O artigo 2080.º do Código Civil passa a ter a seguinte redacção:
+Art. 132.º O artigo 2080.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2080.º
+ARTIGO 2080.º
 
 (A quem incumbe o cargo)
 
@@ -3524,27 +3760,27 @@ d) Aos herdeiros testamentários.
 
 4. Em igualdade de circunstâncias, prefere o herdeiro mais velho.
 
-###### Art. 133.º O artigo 2081.º do Código Civil passa a ter a seguinte redacção:
+Art. 133.º O artigo 2081.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2081.º
+ARTIGO 2081.º
 
 (Herança distribuída em legados)
 
 Tendo sido distribuído em legados todo o património hereditário, servirá de cabeça-de-casal, em substituição dos herdeiros, o legatário mais beneficiado; em igualdade de circunstâncias, preferirá o mais velho.
 
-###### Art. 134.º O n.º 1 do artigo 2087.º do Código Civil passa a ter a seguinte redacção:
+Art. 134.º O n.º 1 do artigo 2087.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2087.º
+ARTIGO 2087.º
 
 (Bens sujeitos à administração do cabeça-de-casal)
 
 1. O cabeça-de-casal administra os bens próprios do falecido e, tendo este sido casado em regime de comunhão, os bens comuns do casal.
 
-###### Art. 135.º Depois do artigo 2103.º do Código Civil é acrescentada a seguinte secção:
+Art. 135.º Depois do artigo 2103.º do Código Civil é acrescentada a seguinte secção:
 
 #### SECÇÃO II — Atribuições preferenciais
 
-###### ARTIGO 2103.º-A
+ARTIGO 2103.º-A
 
 (Direito de habitação da casa de morada da família e direito de uso do recheio)
 
@@ -3554,31 +3790,31 @@ Tendo sido distribuído em legados todo o património hereditário, servirá de 
 
 3. A pedido dos proprietários, pode o tribunal, quando o considere justificado, impor ao cônjuge a obrigação de prestar caução.
 
-###### ARTIGO 2103.º-B
+ARTIGO 2103.º-B
 
 (Direitos sobre o recheio)
 
 Se a casa de morada da família não fizer parte da herança, observar-se-á, com as necessárias adaptações, o disposto no artigo anterior relativamente ao recheio.
 
-###### ARTIGO 2103.º-C
+ARTIGO 2103.º-C
 
 (Noção de recheio)
 
 Para os efeitos do disposto nos artigos anteriores considera-se recheio o mobiliário e demais objectos ou utensílios destinados ao cómodo, serviço e ornamentação da casa.
 
-###### Art. 136.º As secções II, III e IV do capítulo X do título I do livro V do Código Civil passam, respectivamente, a secções III, IV e V do mesmo capítulo.
+Art. 136.º As secções II, III e IV do capítulo X do título I do livro V do Código Civil passam, respectivamente, a secções III, IV e V do mesmo capítulo.
 
-###### Art. 137.º O artigo 2132.º do Código Civil passa a ter a seguinte redacção:
+Art. 137.º O artigo 2132.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2132.º
+ARTIGO 2132.º
 
 (Categorias de herdeiros legítimos)
 
 São herdeiros legítimos o cônjuge, os parentes e o Estado, pela ordem e segundo as regras constantes do presente título.
 
-###### Art. 138.º O artigo 2133.º do Código Civil passa a ter a seguinte redacção:
+Art. 138.º O artigo 2133.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2133.º
+ARTIGO 2133.º
 
 (Classes de sucessíveis)
 
@@ -3598,9 +3834,9 @@ e) Estado.
 
 3. O cônjuge não é chamado à herança se à data da morte do autor da sucessão se encontrar divorciado ou separado judicialmente de pessoas e bens, por sentença que já tenha transitado ou venha a transitar em julgado, ou ainda se a sentença de divórcio ou separação vier a ser proferida posteriormente àquela data, nos termos do n.º 3 do artigo 1785.º
 
-###### Art. 139.º O artigo 2137.º do Código Civil passa a ter a seguinte redacção:
+Art. 139.º O artigo 2137.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2137.º
+ARTIGO 2137.º
 
 (Ineficácia do chamamento)
 
@@ -3608,13 +3844,13 @@ e) Estado.
 
 2. Se, porém, apenas algum ou alguns dos sucessíveis não puderem ou não quiserem aceitar, a sua parte acrescerá à dos outros sucessíveis da mesma classe que com eles concorram à herança, sem prejuízo do disposto no artigo 2143.º
 
-###### Art. 140.º A epígrafe do capítulo II do título II do livro V do Código Civil passa a ser a seguinte:
+Art. 140.º A epígrafe do capítulo II do título II do livro V do Código Civil passa a ser a seguinte:
 
 Sucessão do cônjuge e dos descendentes
 
-###### Art. 141.º O artigo 2139.º do Código Civil passa a ter a seguinte redacção:
+Art. 141.º O artigo 2139.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2139.º
+ARTIGO 2139.º
 
 (Regras gerais)
 
@@ -3622,33 +3858,33 @@ Sucessão do cônjuge e dos descendentes
 
 2. Se o autor da sucessão não deixar cônjuge sobrevivo, a herança divide-se pelos filhos em partes iguais.
 
-###### Art. 142.º O artigo 2140.º do Código Civil passa a ter a seguinte redacção:
+Art. 142.º O artigo 2140.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2140.º
+ARTIGO 2140.º
 
 (Descendentes do segundo grau e seguintes)
 
 Os descendentes dos filhos que não puderem ou não quiserem aceitar a herança são chamados à sucessão nos termos do artigo 2042.º
 
-###### Art. 143.º Depois do artigo 2140.º é suprimida a menção:
+Art. 143.º Depois do artigo 2140.º é suprimida a menção:
 
 ### CAPÍTULO III — Sucessão dos ascendentes
 
-###### Art. 144.º O artigo 2141.º do Código Civil passa a ter a seguinte redacção:
+Art. 144.º O artigo 2141.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2141.º
+ARTIGO 2141.º
 
 (Sucessão do cônjuge, na falta de descendentes)
 
 Na falta de descendentes sucede o cônjuge, sem prejuízo do disposto no capítulo seguinte.
 
-###### Art. 145.º Depois do artigo 2141.º do Código Civil é acrescentada a menção:
+Art. 145.º Depois do artigo 2141.º do Código Civil é acrescentada a menção:
 
 ### CAPÍTULO III — Sucessão do cônjuge e dos ascendentes
 
-###### Art. 146.º O artigo 2142.º do Código Civil passa a ter a seguinte redacção:
+Art. 146.º O artigo 2142.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2142.º
+ARTIGO 2142.º
 
 (Regras gerais)
 
@@ -3658,101 +3894,101 @@ Na falta de descendentes sucede o cônjuge, sem prejuízo do disposto no capítu
 
 3. A partilha entre os ascendentes, nos casos previstos nos números anteriores, faz-se segundo as regras dos artigos 2135.º e 2136.º
 
-###### Art. 147.º Depois do artigo 2142.º do Código Civil é suprimida a menção:
+Art. 147.º Depois do artigo 2142.º do Código Civil é suprimida a menção:
 
 ### CAPÍTULO IV — Sucessão dos irmãos e seus descendentes
 
-###### Art. 148.º O artigo 2143.º do Código Civil passa a ter a seguinte redacção:
+Art. 148.º O artigo 2143.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2143.º
+ARTIGO 2143.º
 
 (Acrescer)
 
 Se algum ou alguns dos ascendentes não puderem ou não quiserem aceitar, no caso previsto do n.º 1 do artigo anterior, a sua parte acresce à dos outros ascendentes que concorram à sucessão; se estes não existirem, acrescerá à do cônjuge sobrevivo.
 
-###### Art. 149.º O artigo 2144.º do Código Civil passa a ter a seguinte redacção:
+Art. 149.º O artigo 2144.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2144.º
+ARTIGO 2144.º
 
 (Sucessão do cônjuge, na falta de descendentes e ascendentes)
 
 Na falta de descendentes e ascendentes, o cônjuge é chamado à totalidade da herança.
 
-###### Art. 150.º Depois do artigo 2144.º do Código Civil é acrescentada a menção:
+Art. 150.º Depois do artigo 2144.º do Código Civil é acrescentada a menção:
 
 ### CAPÍTULO IV — Sucessão dos irmãos e seus descendentes
 
-###### Art. 151.º O artigo 2145.º do Código Civil passa a ter a seguinte redacção:
+Art. 151.º O artigo 2145.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2145.º
+ARTIGO 2145.º
 
 (Regra geral)
 
 Na falta de cônjuge, descendentes e ascendentes, são chamados à sucessão os irmãos e, representativamente, os descendentes destes.
 
-###### Art. 152.º Depois do artigo 2145.º do Código Civil é suprimida a menção:
+Art. 152.º Depois do artigo 2145.º do Código Civil é suprimida a menção:
 
 ### CAPÍTULO V — Sucessão do cônjuge
 
-###### Art. 153.º O artigo 2146.º do Código Civil passa a ter a seguinte redacção:
+Art. 153.º O artigo 2146.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2146.º
+ARTIGO 2146.º
 
 (Irmãos germanos e unilaterais)
 
 Concorrendo à sucessão irmãos germanos e irmãos consanguíneos ou uterinos, o quinhão de cada um dos irmãos germanos, ou dos descendentes que os representem, é igual ao dobro do quinhão de cada um dos outros.
 
-###### Art. 154.º Depois do artigo 2146.º do Código Civil é acrescentada a menção:
+Art. 154.º Depois do artigo 2146.º do Código Civil é acrescentada a menção:
 
 ### CAPÍTULO V — Sucessão dos outros colaterais
 
-###### Art. 155.º O artigo 2147.º do Código Civil passa a ter a seguinte redacção:
+Art. 155.º O artigo 2147.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2147.º
+ARTIGO 2147.º
 
 (Outros colaterais até ao quarto grau)
 
 Na falta de herdeiros das classes anteriores, são chamados à sucessão os restantes colaterais até ao quarto grau, preferindo sempre os mais próximos.
 
-###### Art. 156.º O artigo 2148.º do Código Civil passa a ter a seguinte redacção:
+Art. 156.º O artigo 2148.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2148.º
+ARTIGO 2148.º
 
 (Duplo parentesco)
 
 A partilha faz-se por cabeça, mesmo que algum dos chamados à sucessão seja duplamente parente do falecido.
 
-###### Art. 157.º São revogados os artigos 2149.º a 2151.º do Código Civil.
+Art. 157.º São revogados os artigos 2149.º a 2151.º do Código Civil.
 
-###### Art. 158.º O capítulo VII do título II do livro V do Código Civil passa a capítulo VI.
+Art. 158.º O capítulo VII do título II do livro V do Código Civil passa a capítulo VI.
 
-###### Art. 159.º O artigo 2152.º do Código Civil passa a ter a seguinte redacção:
+Art. 159.º O artigo 2152.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2152.º
+ARTIGO 2152.º
 
 (Chamamento do Estado)
 
 Na falta de cônjuge e de todos os parentes sucessíveis, é chamado à herança o Estado.
 
-###### Art. 160.º O artigo 2157.º do Código Civil passa a ter a seguinte redacção:
+Art. 160.º O artigo 2157.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2157.º
+ARTIGO 2157.º
 
 (Herdeiros legitimários)
 
 São herdeiros legitimários o cônjuge, os descendentes e os ascendentes, pela ordem e segundo as regras estabelecidas para a sucessão legítima.
 
-###### Art. 161.º O artigo 2158.º do Código Civil passa a ter a seguinte redacção:
+Art. 161.º O artigo 2158.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2158.º
+ARTIGO 2158.º
 
 (Legítima do cônjuge)
 
 A legítima do cônjuge, se não concorrer com descendentes nem ascendentes, é de metade da herança.
 
-###### Art. 162.º O artigo 2159.º do Código Civil passa a ter a seguinte redacção:
+Art. 162.º O artigo 2159.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2159.º
+ARTIGO 2159.º
 
 (Legítima do cônjuge e dos filhos)
 
@@ -3760,17 +3996,17 @@ A legítima do cônjuge, se não concorrer com descendentes nem ascendentes, é 
 
 2. Não havendo cônjuge sobrevivo, a legítima dos filhos é de metade ou dois terços da herança, conforme exista um só filho ou existam dois ou mais.
 
-###### Art. 163.º O artigo 2160.º do Código Civil passa a ter a seguinte redacção:
+Art. 163.º O artigo 2160.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2160.º
+ARTIGO 2160.º
 
 (Legítima dos descendentes do segundo grau e seguintes)
 
 Os descendentes do segundo grau e seguintes têm direito à legítima que caberia ao seu ascendente, sendo a parte de cada um fixada nos termos prescritos para a sucessão legítima.
 
-###### Art. 164.º O artigo 2161.º do Código Civil passa a ter a seguinte redacção:
+Art. 164.º O artigo 2161.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2161.º
+ARTIGO 2161.º
 
 (Legítima do cônjuge e dos ascendentes)
 
@@ -3778,9 +4014,9 @@ Os descendentes do segundo grau e seguintes têm direito à legítima que caberi
 
 2. Se o autor da sucessão não deixar descendentes nem cônjuge sobrevivo, a legítima dos ascendentes é de metade ou de um terço da herança, conforme forem chamados os pais ou os ascendentes do segundo grau e seguintes.
 
-###### Art. 165.º O artigo 2189.º do Código Civil passa a ter a seguinte redacção:
+Art. 165.º O artigo 2189.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2189.º
+ARTIGO 2189.º
 
 (Incapacidades)
 
@@ -3790,19 +4026,19 @@ a) Os menores não emancipados;
 
 b) Os interditos por anomalia psíquica.
 
-###### Art. 166.º O n.º 1 do artigo 2192.º do Código Civil passa a ter a seguinte redacção:
+Art. 166.º O n.º 1 do artigo 2192.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2192.º
+ARTIGO 2192.º
 
 (Tutor, curador, administrador legal de bens e protutor)
 
 1. É nula a disposição feita por interdito ou inabilitado a favor do seu tutor, curador ou administrador legal de bens, ainda que estejam aprovadas as respectivas contas.
 
-###### Art. 167.º É revogado o artigo 2193.º do Código Civil.
+Art. 167.º É revogado o artigo 2193.º do Código Civil.
 
-###### Art. 168.º O artigo 2195.º do Código Civil passa a ter a seguinte redacção:
+Art. 168.º O artigo 2195.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2195.º
+ARTIGO 2195.º
 
 (Excepções)
 
@@ -3812,9 +4048,9 @@ a) Os legados remuneratórios de serviços recebidos pelo doente;
 
 b) As disposições a favor das pessoas designadas no n.º 3 do artigo 2192.º
 
-###### Art. 169.º O artigo 2196.º do Código Civil passa a ter a seguinte redacção:
+Art. 169.º O artigo 2196.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2196.º
+ARTIGO 2196.º
 
 (Cúmplice do testador adúltero)
 
@@ -3826,17 +4062,17 @@ a) Se o casamento já estava dissolvido, ou os cônjuges estavam separados judic
 
 b) Se a disposição se limitar a assegurar alimentos ao beneficiário.
 
-###### Art. 170.º É revogado o n.º 2 do artigo 2233.º do Código Civil, passando o n.º 3 a n.º 2, com a seguinte redacção:
+Art. 170.º É revogado o n.º 2 do artigo 2233.º do Código Civil, passando o n.º 3 a n.º 2, com a seguinte redacção:
 
-###### ARTIGO 2233.º
+ARTIGO 2233.º
 
 (Condição de casar ou não casar)
 
 2. É, todavia, válida a deixa de usufruto, uso, habitação, pensão ou outra prestação contínua ou periódica para produzir efeito enquanto durar o estado de solteiro ou viúvo do legatário.
 
-###### Art. 171.º O artigo 2240.º do Código Civil passa a ter a seguinte redacção:
+Art. 171.º O artigo 2240.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2240.º
+ARTIGO 2240.º
 
 (Administração da herança ou legado a favor de nascituro)
 
@@ -3844,17 +4080,17 @@ b) Se a disposição se limitar a assegurar alimentos ao beneficiário.
 
 2. Se o herdeiro ou legatário estiver concebido, a administração da herança ou do legado compete a quem administraria os seus bens se ele já tivesse nascido.
 
-###### Art. 172.º A epígrafe da secção II do capítulo VII do título IV do livro V do Código Civil passa a ser a seguinte:
+Art. 172.º A epígrafe da secção II do capítulo VII do título IV do livro V do Código Civil passa a ser a seguinte:
 
 #### SECÇÃO II — Revogação e caducidade
 
-###### Art. 173.º Depois do artigo 2316.º do Código Civil é suprimida a menção:
+Art. 173.º Depois do artigo 2316.º do Código Civil é suprimida a menção:
 
 #### SECÇÃO III — Caducidade
 
-###### Art. 174.º O artigo 2317.º do Código Civil passa a ter a seguinte redacção:
+Art. 174.º O artigo 2317.º do Código Civil passa a ter a seguinte redacção:
 
-###### ARTIGO 2317.º
+ARTIGO 2317.º
 
 (Casos de caducidade)
 
@@ -3870,36 +4106,36 @@ d) Se o chamado à sucessão era cônjuge do testador e à data da morte deste s
 
 e) Se o chamado à sucessão repudiar a herança ou o legado, salvo havendo representação sucessória.
 
-###### Art. 175.º São revogados os artigos 2318.º e 2319.º do Código Civil.
+Art. 175.º São revogados os artigos 2318.º e 2319.º do Código Civil.
 
-###### Art. 176.º Este decreto-lei entra em vigor no dia 1 de Abril de 1978.
+Art. 176.º Este decreto-lei entra em vigor no dia 1 de Abril de 1978.
 
-###### Art. 177.º O presente diploma não é aplicável às acções pendentes nos tribunais à data da sua entrada em vigor.
+Art. 177.º O presente diploma não é aplicável às acções pendentes nos tribunais à data da sua entrada em vigor.
 
-###### Art. 178.º Os prazos que devam contar-se a partir da maioridade iniciam-se com a entrada em vigor deste decreto-lei se nesse momento a pessoa já tiver completado dezoito anos.
+Art. 178.º Os prazos que devam contar-se a partir da maioridade iniciam-se com a entrada em vigor deste decreto-lei se nesse momento a pessoa já tiver completado dezoito anos.
 
-###### Art. 179.º As doações feitas até 31 de Março de 1978 só podem ser revogadas nos termos deste diploma.
+Art. 179.º As doações feitas até 31 de Março de 1978 só podem ser revogadas nos termos deste diploma.
 
-###### Art. 180.º A partir de 1 de Abril de 1978 não podem ser celebrados casamentos sob regime dotal, mas os dotes constituídos relativamente a casamentos anteriores ficam sujeitos ao regime até agora em vigor.
+Art. 180.º A partir de 1 de Abril de 1978 não podem ser celebrados casamentos sob regime dotal, mas os dotes constituídos relativamente a casamentos anteriores ficam sujeitos ao regime até agora em vigor.
 
-###### Art. 181.º Na contagem dos prazos a que se reportam as alíneas b) e c) do artigo 1781.º e o n.º 2 do artigo 1795.º-D do Código Civil será levado em conta o tempo já decorrido à data da entrada em vigor deste decreto-lei.
+Art. 181.º Na contagem dos prazos a que se reportam as alíneas b) e c) do artigo 1781.º e o n.º 2 do artigo 1795.º-D do Código Civil será levado em conta o tempo já decorrido à data da entrada em vigor deste decreto-lei.
 
-###### Art. 182.º Até 1 de Outubro de 1978 pode a mãe, quando o filho for menor, propor acção de impugnação de paternidade; até à mesma data pode a acção ser intentada pelo filho, se entretanto tiver decorrido o prazo a que se refere a alínea c) do n.º 1 do artigo 1842.º do Código Civil.
+Art. 182.º Até 1 de Outubro de 1978 pode a mãe, quando o filho for menor, propor acção de impugnação de paternidade; até à mesma data pode a acção ser intentada pelo filho, se entretanto tiver decorrido o prazo a que se refere a alínea c) do n.º 1 do artigo 1842.º do Código Civil.
 
-###### Art. 183.º Não pode ser anulada a perfilhação efectuada antes da entrada em vigor do presente decreto-lei se obedecer aos requisitos nele estabelecidos.
+Art. 183.º Não pode ser anulada a perfilhação efectuada antes da entrada em vigor do presente decreto-lei se obedecer aos requisitos nele estabelecidos.
 
-###### Art. 184.º O disposto no artigo 1896.º do Código Civil é aplicável aos bens adquiridos pelos filhos antes da entrada em vigor deste diploma.
+Art. 184.º O disposto no artigo 1896.º do Código Civil é aplicável aos bens adquiridos pelos filhos antes da entrada em vigor deste diploma.
 
-###### Art. 185.º Até 31 de Março de 1978 pode ser pedida a conversão em adopção plena da adopção restrita decretada na vigência da lei anterior quando o adoptado tenha mais de dezoito anos e menos de vinte e um.
+Art. 185.º Até 31 de Março de 1978 pode ser pedida a conversão em adopção plena da adopção restrita decretada na vigência da lei anterior quando o adoptado tenha mais de dezoito anos e menos de vinte e um.
 
-###### Art. 186.º Na conversão em adopção plena de adopção restrita anteriormente decretada, pedida até 31 de Março de 1979, poderá ser dispensado, a requerimento dos adoptantes, o consentimento dos pais do adoptado, se o tribunal, ponderadas as circunstâncias do caso, considerar que a audição daqueles poderia prejudicar o interesse do filho.
+Art. 186.º Na conversão em adopção plena de adopção restrita anteriormente decretada, pedida até 31 de Março de 1979, poderá ser dispensado, a requerimento dos adoptantes, o consentimento dos pais do adoptado, se o tribunal, ponderadas as circunstâncias do caso, considerar que a audição daqueles poderia prejudicar o interesse do filho.
 
-###### Art. 187.º O n.º 1 do artigo 2020.º do Código Civil não é aplicável quando a abertura da herança seja anterior à entrada em vigor do presente diploma.
+Art. 187.º O n.º 1 do artigo 2020.º do Código Civil não é aplicável quando a abertura da herança seja anterior à entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos.
 
-**Promulgado em 6 de Outubro de 1977.**
+Promulgado em 6 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

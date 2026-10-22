@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/157-1973-675584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e26beb66b84ad0a95fe3ee0fb2068daa636a522c9f0f34f36024afa575542781
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a560ae54ee2950aca26ce11fd364bb87519951053a73483f3cf92137d57f2682
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:648769:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:50Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ de 9 de Abril
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São aprovadas as emendas ao texto da Declaração Relativa à Construção de Grandes Estradas de Tráfego Internacional, concluída em Genebra em 16 de Setembro de 1950, aprovada para adesão pelo [Decreto-Lei n.º 39451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39451-1953-648769), de 24 de Novembro de 1953, que foram adoptadas na 36.ª Sessão do Subcomité dos Transportes Rodoviários do Comité dos Transportes Interiores da Comissão Económica para a Europa das Nações Unidas, e cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. São aprovadas as emendas ao texto da Declaração Relativa à Construção de Grandes Estradas de Tráfego Internacional, concluída em Genebra em 16 de Setembro de 1950, aprovada para adesão pelo [Decreto-Lei n.º 39451](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39451-1953-648769), de 24 de Novembro de 1953, que foram adoptadas na 36.ª Sessão do Subcomité dos Transportes Rodoviários do Comité dos Transportes Interiores da Comissão Económica para a Europa das Nações Unidas, e cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 30 de Março de 1973.**
+Assinado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Amendements au texte de la Déclaration sur la Construction de Grandes Routes de Trafic International (Genève, 1950)
 

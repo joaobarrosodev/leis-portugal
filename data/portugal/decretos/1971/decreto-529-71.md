@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/529-1971-631874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9878cc9c8c6926dc7c222f751d89d5c549364595a0f7824d152fcca128c3cfa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13a3a02186be0328f0b7a6818c955793dded58c99f304a5d35e55308df95ef4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:15Z'
   warnings: []
   errors: []
 ---
@@ -89,24 +93,24 @@ Com fundamento no n.º 1 do artigo 41.º do [Decreto-Lei n.º 408/71](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial no montante de 4646600$, destinado a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério da Educação Nacional, um crédito especial no montante de 4646600$, destinado a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 14.º «Remunerações certas ao pessoal em exercício»:
+Artigo 14.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 Durante dois meses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/28100/18531854.pdf))](https://files.diariodarepublica.pt/1s/1971/11/28100/18531854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/28100/18531854.pdf)
 
-###### Art. 2.º Para compensação do crédito designado no artigo precedente é anulada igual importância na verba inscrita sob o capítulo 2.º, artigo 14.º, n.º 1) «Pessoal dos quadros ...: Provisão para satisfação de encargos com a remodelação dos serviços centrais», do orçamento em vigor do Ministério da Educação Nacional.
+Art. 2.º Para compensação do crédito designado no artigo precedente é anulada igual importância na verba inscrita sob o capítulo 2.º, artigo 14.º, n.º 1) «Pessoal dos quadros ...: Provisão para satisfação de encargos com a remodelação dos serviços centrais», do orçamento em vigor do Ministério da Educação Nacional.
 
 Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 26 de Novembro de 1971.**
+Promulgado em 26 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

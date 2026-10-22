@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08200/05760576.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1979-383176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e72b0ce7afb214b0f62fb582b98e4e2689bdede7bbfe3e99944b574459fe7e89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48c15e1b85be5717f486b5a19d26d594e00f8ff04ca4b70c093cb11534459c9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Regime Jurídico
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECUSADA A RATIFICAÇÃO, PELO DECRETO LEI, NUMERO 244/79, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 185,\
+    \ DE 11/8/79.\0/8/79.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:655312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377888:por
+  label: "Recusada a ratificação do presente diploma, que altera o Dec Lei 260/76, de 08-Abr, pela RES.244/79.11.08.1979.AR,\
+    \ DR.IS [185] de 11.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/244-1979-377888
+  date: '1979-08-11'
+- type: amended_by
+  target: pt:dre:659899:por
+  label: "Alterado o art. 10º do Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pelo DEC LEI.29/84.20.01.1984.MFP,\
+    \ DR.IS [17] de 20.01.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1984-659899
+  date: '1984-01-20'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655312:por
+  label: "Revogado o Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pelo DEC LEI.558/99.17.12.1999.MF, DR.IS-A\
+    \ [292] de 17.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/558-1999-655312
+  date: '1999-12-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:30Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +125,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. É aditado um número ao artigo 10.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a seguinte redacção:
+Artigo único. É aditado um número ao artigo 10.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a seguinte redacção:
 
 ...
 
@@ -104,8 +133,8 @@ O Governo decreta, nos termos da alínea a) n.º 1 do artigo 201.º da Constitui
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 28 de Março de 1979.**
+Promulgado em 28 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

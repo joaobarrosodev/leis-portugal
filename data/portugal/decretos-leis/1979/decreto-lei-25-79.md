@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/04200/02720274.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46468e19f7818bdacbe2f5ed2af8f1225d75791d581c4bd16c2ed742701f4d83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68da48ad4cad83ce39e1ee5116afb05b36f5725c50d593b74e505a5e471c4ab4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:655312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382031:por
+  label: "Alterado o nº 4 do art. 21º do Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pelo DEC LEI.224/79.19.07.1979.MFP,\
+    \ DR.IS [165] de 19.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1979-382031
+  date: '1979-07-19'
+- type: amended_by
+  target: pt:dre:470415:por
+  label: "Alterado o art. 28º do Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pelo DEC LEI.271/80.09.08.1980.MFP,\
+    \ DR.IS [183] de 09.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-1980-470415
+  date: '1980-08-09'
+- type: amended_by
+  target: pt:dre:659899:por
+  label: "Alterados os art.s 13º, 21º e 24º do Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pelo DEC LEI.29/84.20.01.1984.MFP,\
+    \ DR.IS [17] de 20.01.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1984-659899
+  date: '1984-01-20'
+- type: amended_by
+  target: pt:dre:572886:por
+  label: "Alterado nº 2 do art. 13º e revogada a disposição «A aquisição e venda de bens de valor superior a 50000 contos»\
+    \ constante da al. c) do nº 1 do art. 13º do Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pela LEI.16/90.20.07.1990.AR,\
+    \ DR.IS [166] de 20.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1990-572886
+  date: '1990-07-20'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655312:por
+  label: "Revogado o Dec Lei 260/76, de 08-Abr, na redacção do presente diploma, pelo DEC LEI.558/99.17.12.1999.MF, DR.IS-A\
+    \ [292] de 17.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/558-1999-655312
+  date: '1999-12-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:36Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +138,7 @@ Por último, reconhece-se ser conveniente conferir maior uniformidade à informa
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 13.º, 24.º, 25.º, n.º 1, 28.º, n.os 2 e 3, e 45.º, n.os 3 e 4, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º, 24.º, 25.º, n.º 1, 28.º, n.os 2 e 3, e 45.º, n.os 3 e 4, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, passam a ter a seguinte redacção:
 
 ###### ARTIGO 13.º — (Tutela)
 
@@ -179,7 +216,7 @@ O relatório anual do conselho de gerência, o balanço, a demonstração de res
 
 4 - Encerradas as operações de liquidação, devem os liquidatários apresentar as respectivas contas aos Ministros da Tutela e das Finanças e do Plano, para a aprovação, com a qual ficam exonerados de responsabilidade pela actividade exercida.
 
-###### Art. 2.º É aditado um n.º 4 ao artigo 21.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a seguinte redacção:
+Art. 2.º É aditado um n.º 4 ao artigo 21.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a seguinte redacção:
 
 ###### ARTIGO 21.º
 
@@ -189,8 +226,8 @@ O relatório anual do conselho de gerência, o balanço, a demonstração de res
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 7 de Fevereiro de 1979.**
+Promulgado em 7 de Fevereiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22300/20782078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43192-1960-514856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dab02d6d391e4e85a1eb80ff310e1e40e2e2c84297dc60603ffda2b63504392c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6e8b0ee164969c2dcd55287f67acf1c3eee76f99226c10cc1c056594e42d31d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arbitragem
+- Expropriação
+- Obras Públicas
+- Regime Jurídico
+- Segurança Interna
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:201462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:201462:por
+  label: "Revogado pela LEI.2142.14.05.1969.PR, DG.IS [114] de 14.05.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2142-1969-201462
+  date: '1969-05-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:49Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +124,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo único do [Decreto-Lei n.º 40971](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40971-1957-401936), de 10 de Janeiro de 1957, passa a ter a seguinte redacção:
+Artigo único. O artigo único do [Decreto-Lei n.º 40971](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40971-1957-401936), de 10 de Janeiro de 1957, passa a ter a seguinte redacção:
 
 1. Para obras de defesa ou segurança nacional, ainda que projectadas e executadas em tempo de paz, que sejam declaradas pelo Conselho de Ministros de carácter muito urgente, a expropriação segue os trâmites próprios das expropriações urgentes por utilidade pública, com as modificações constantes dos números seguintes.
 
@@ -125,6 +144,6 @@ Este último perito não poderá ser nenhum dos árbitros escolhidos nos termos 
 
 8. Não havendo recurso da arbitragem, o juiz atribuirá aos interessados, sem mais diligências, o montante do depósito, nos termos do processo comum de expropriação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1970-147265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 609e72ad7b853a4320b323e344a447bd7737a1d250df648584738990efcf9d4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebb9fbc7b8779263e28b7a8e00abd5dbfce4478b15d8a5a7a8b6faf867b070ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Força Aérea
+- Militar
+- Promoção Profissional
+- Recrutamento de Pessoal
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:34Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +103,17 @@ Tornando-se conveniente precisar e uniformizar os preceitos fundamentais que dev
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Secretário de Estado da Aeronáutica pode mandar abrir concurso de admissão de voluntários para a categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente dos quadros de oficiais médicos, engenheiros e de intendência e contabilidade.
+Artigo 1.º - 1. O Secretário de Estado da Aeronáutica pode mandar abrir concurso de admissão de voluntários para a categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente dos quadros de oficiais médicos, engenheiros e de intendência e contabilidade.
 
 2. A admissão para os quadros de oficiais engenheiros e de intendência e contabilidade prevista no número anterior só deve ser praticada quando se considerar insuficiente o número de oficiais preparados pela Academia Militar para os mesmos quadros.
 
-###### Art. 2.º A admissão na categoria de pessoal referida no artigo 1.º depende, além dos requisitos gerais fixados no artigo 33.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, da habilitação ou frequência de curso de Medicina, Engenharia, Finanças ou Economia, ministrado em instituições universitárias.
+Art. 2.º A admissão na categoria de pessoal referida no artigo 1.º depende, além dos requisitos gerais fixados no artigo 33.º da [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968, da habilitação ou frequência de curso de Medicina, Engenharia, Finanças ou Economia, ministrado em instituições universitárias.
 
-###### Art. 3.º - 1. Os candidatos admitidos nos termos do artigo 1.º devem frequentar um curso de preparação geral militar quando ainda não tenham essa preparação.
+Art. 3.º - 1. Os candidatos admitidos nos termos do artigo 1.º devem frequentar um curso de preparação geral militar quando ainda não tenham essa preparação.
 
 2. O ingresso nos quadros depende da habilitação com o curso universitário correspondente e da frequência com aproveitamento de estágio de adaptação técnico-militar.
 
-###### Art. 4.º - 1. Os candidatos são admitidos:
+Art. 4.º - 1. Os candidatos são admitidos:
 
 a) Como soldados cadetes, se não forem oficiais ou aspirantes a oficial de complemento, do Exército ou da Força Aérea, nem oficiais ou aspirantes a oficial da reserva naval;
 
@@ -115,25 +125,25 @@ c) Como alferes graduados ou tenente graduados, se já forem alferes ou tenentes
 
 3. Os aspirantes a oficial referidos na alínea b) de n.º 1 e no n.º 2 são graduados em alferes após o período máximo de quinze meses de serviço nas forças armadas.
 
-###### Art. 5.º Depois de terem completado o estágio de adaptação técnico-militar os militares referidos no artigo 4.º:
+Art. 5.º Depois de terem completado o estágio de adaptação técnico-militar os militares referidos no artigo 4.º:
 
 a) São imediatamente promovidos a tenentes ou primeiro graduados em alferes e seguidamente promovidos a tenentes para os quadros de oficiais médicos ou engenheiros;
 
 b) São imediatamente promovidos a alferes para o quadro de oficiais de intendência e contabilidade.
 
-###### Art. 6.º - 1. A antiguidade de tenente dos oficiais a que respeita a alínea a) de artigo anterior é referida ao dia 1 de Dezembro de ano em que concluírem com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a cinco anos.
+Art. 6.º - 1. A antiguidade de tenente dos oficiais a que respeita a alínea a) de artigo anterior é referida ao dia 1 de Dezembro de ano em que concluírem com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a cinco anos.
 
 2. A ordenação dos mesmos oficiais é determinada, em cada quadro e para cada ano, segundo as classificações finais obtidas nos respectivos cursos universitários e, em igualdade de classificações, pelo maior tempo de serviço nas forças armadas e maior idade.
 
 3. Os tenentes engenheiros referidos na alínea a) do artigo 5.º são inscritos nas respectivas escalas de antiguidades imediatamente à esquerda dos tenentes de engenharia oriundos da Academia Militar sempre que a antiguidade de uns e outros, relativa àquele posto, estiver referida à mesma data.
 
-###### Art. 7.º - 1. A antiguidade de alferes dos oficiais a que respeita a alínea b) do artigo 5.º é referida ao dia 1 de Novembro do ano em que concluírem com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a quatro anos.
+Art. 7.º - 1. A antiguidade de alferes dos oficiais a que respeita a alínea b) do artigo 5.º é referida ao dia 1 de Novembro do ano em que concluírem com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a quatro anos.
 
 2. A ordenação dos mesmos oficiais é determinada, para cada ano, segundo a classificação final obtida nos cursos universitários e, em igualdade de classificação, pelo maior tempo de serviço nas forças armadas e maior idade.
 
 3. Os alferes a que este artigo diz respeito são inscritos na respectiva escala de antiguidades imediatamente à esquerda dos alferes de intendência e contabilidade oriundos da Academia Militar sempre que a antiguidade de uns e outros, relativa àquele posto, estiver referida à mesma data.
 
-###### Art. 8.º Os indivíduos admitidos na categoria de pessoal militar em preparação privativo da Força Aérea com os destinos atrás referidos podem ser eliminados dessa categoria se:
+Art. 8.º Os indivíduos admitidos na categoria de pessoal militar em preparação privativo da Força Aérea com os destinos atrás referidos podem ser eliminados dessa categoria se:
 
 a) Em qualquer altura dos cursos ou estágios se verificar não obedecerem a algum dos requisitos gerais de admissão;
 
@@ -143,7 +153,7 @@ c) Não tiverem aproveitamento no curso de preparação militar ou no estágio d
 
 d) Assim o requererem.
 
-###### Art. 9.º - 1. Os indivíduos eliminados:
+Art. 9.º - 1. Os indivíduos eliminados:
 
 a) Regressam à anterior situação, se não tiverem ainda sido promovidos a aspirantes a oficial ou forem oficiais ou aspirantes a oficial de complemento ou da reserva naval e estiverem habilitados com um dos cursos superiores enumerados no artigo 2.º no acto da admissão;
 
@@ -153,12 +163,12 @@ b) Cumprem serviço efectivo na categoria de pessoal militar não permanente pri
 
 3. O tempo de serviço correspondente à preparação militar efectuada após a admissão será levado em conta para efeito do constante do n.º 2.
 
-###### Art. 10.º A execução do presente decreto-lei é regulada por portarias do Secretário de Estado da Aeronáutica.
+Art. 10.º A execução do presente decreto-lei é regulada por portarias do Secretário de Estado da Aeronáutica.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 11 de Novembro de 1970.**
+Promulgado em 11 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

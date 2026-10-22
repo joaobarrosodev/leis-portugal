@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/15000/14291432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1976-431265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 195993e7f5db21e0e64b5c3ad345b6e122872210308da0aa784958772d084b07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5924695c0e46ac426d31d92dc15c5f689c2f68875355f0f07903b32ea0f6b79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Comércio Alimentar
+- Fruto
+- Junta Nacional das Frutas
+- Mercado Abastecedor
+- Produto Hortícola
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:218931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329590:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218931:por
+  label: "Revogado pelo DEC LEI.222/86.08.08.1986.MIC, DR.IS [181] de 08.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1986-218931
+  date: '1986-08-08'
 article_structure:
-  article_count: 38
+  article_count: 37
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:01Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +109,15 @@ de 29 de Junho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas anexo ao presente decreto-lei.
+Artigo único. É aprovado o Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas anexo ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 7 de Junho de 1976.**
+Promulgado em 7 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES
 
 REGULAMENTO
 
@@ -430,4 +449,4 @@ Fica revogado o [Decreto n.º 31325](https://diariodarepublica.pt/dr/detalhe/dec
 
 2 - Os restantes artigos entram em vigor cento e vinte dias após a publicação deste decreto-lei.
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

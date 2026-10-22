@@ -51,36 +51,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48018-1967-388801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b30e691e4dd723a4fdda8b8fac7319c572a8948c53415c057c4fc7474d44c18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04c83518aa73182d73eec2cef8dd48e39cdb7c9128cb804e5a710bc86885f5aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Nacional de Crédito
+- Cereal
+- Empréstimo
+- Federação Nacional dos Produtores de Trigo
+- Fundo de Abastecimento
+- Grémios da Lavoura
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:312227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:03Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +110,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O corpo do artigo 7.º do [Decreto-Lei n.º 47750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47750-1967-312227), de 6 de Junho de 1967, passa a ter a seguinte redacção:
+Artigo 1.º O corpo do artigo 7.º do [Decreto-Lei n.º 47750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47750-1967-312227), de 6 de Junho de 1967, passa a ter a seguinte redacção:
 
-###### Art. 7.º O prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1968.
+Art. 7.º O prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1968.
 
-###### Art. 2.º A Federação Nacional dos Produtores de Trigo poderá liquidar, quer directamente, quer por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1966-1967, sem fazer a dedução a que se refere o n.º 2.º do artigo 8.º do [Decreto-Lei n.º 47750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47750-1967-312227), de 6 de Junho de 1967.
+Art. 2.º A Federação Nacional dos Produtores de Trigo poderá liquidar, quer directamente, quer por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1966-1967, sem fazer a dedução a que se refere o n.º 2.º do artigo 8.º do [Decreto-Lei n.º 47750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47750-1967-312227), de 6 de Junho de 1967.
 
-###### Art. 3.º Sem prejuízo do disposto no § único do artigo 7.º daquele decreto-lei, as importâncias já pagas pelos mutuários à data da publicação deste diploma poderão ser restituídas, a pedido dos interessados, com intervenção dos respectivos fiadores, se os houver.
+Art. 3.º Sem prejuízo do disposto no § único do artigo 7.º daquele decreto-lei, as importâncias já pagas pelos mutuários à data da publicação deste diploma poderão ser restituídas, a pedido dos interessados, com intervenção dos respectivos fiadores, se os houver.
 
-###### Art. 4.º A Federação Nacional dos Produtores de Trigo não liquidará, nem directamente, nem por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1967-1968, sem fazer a dedução da quinta parte do saldo em dívida dos empréstimos em regime de moratória, a que se referem os artigos 25.º, 27.º e 30.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963.
+Art. 4.º A Federação Nacional dos Produtores de Trigo não liquidará, nem directamente, nem por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1967-1968, sem fazer a dedução da quinta parte do saldo em dívida dos empréstimos em regime de moratória, a que se referem os artigos 25.º, 27.º e 30.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

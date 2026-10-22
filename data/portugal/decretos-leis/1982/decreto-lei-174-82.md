@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10900/12391241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1982-392850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6ca265067e6acffe97b6d4b5b419e365e0c2abe303aebc64e7a651cb7875053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5927ef65db8292943dfcb93f3b12a73a8e5be59fcc632da7124508b031ba9c8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Investimentos Estrangeiros
+- Investimento Estrangeiro
 relationships:
 - type: amended_by
   target: pt:dre:661164:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661164:por
+  label: "Revogado pelo DEC LEI.197-D/86.18.07.1986.MF, DR.IS [163-Supl] de 18.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-d-1986-661164
+  date: '1986-07-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:41Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +131,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 10.º, 13.º, 14.º, 18.º, 25.º, 28.º, 29.º, 32.º, 33.º e 36.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 10.º, 13.º, 14.º, 18.º, 25.º, 28.º, 29.º, 32.º, 33.º e 36.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 2.º Para os efeitos do presente diploma, considera-se:
+Art. 2.º Para os efeitos do presente diploma, considera-se:
 
 a) ...
 
@@ -118,7 +141,7 @@ b) Investimento indirecto estrangeiro. - O investimento realizado por empresa po
 
 c) Entidade competente. - No continente, o Instituto do Investimento Estrangeiro; nas regiões autónomas, os respectivos Governos Regionais e as Secretarias Regionais especialmente designadas na lei para o exercício de competências estabelecidas neste decreto-lei e na legislação complementar.
 
-###### Art. 3.º - 1 - Os investimentos directos estrangeiros serão objecto de avaliação, autorização e registo, nos termos deste capítulo.
+Art. 3.º - 1 - Os investimentos directos estrangeiros serão objecto de avaliação, autorização e registo, nos termos deste capítulo.
 
 2 - Os investimentos indirectos estrangeiros, a realizar por participação no capital de empresas já constituídas em território português, serão sujeitos a avaliação, autorização e registo quando, efectuados por empresas com mais de 25% de capital estrangeiro, da operação resultar que a participação global de não residentes, na sociedade objecto do investimento indirecto passar a exceder 50% do capital social.
 
@@ -128,7 +151,7 @@ c) Entidade competente. - No continente, o Instituto do Investimento Estrangeiro
 
 5 - Dependerão de autorização prévia e de registo as alterações estatutárias de sociedades com capital estrangeiro já instaladas em Portugal que visem alterar o objecto social ou a participação maioritária no seu capital.
 
-###### Art. 5.º - 1 - Para efeitos de autorização de investimentos directos estrangeiros, estabelecem-se 2 regimes distintos:
+Art. 5.º - 1 - Para efeitos de autorização de investimentos directos estrangeiros, estabelecem-se 2 regimes distintos:
 
 a) ...
 
@@ -142,7 +165,7 @@ b) ...
 
 5 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
@@ -152,7 +175,7 @@ b) ...
 
 5 - O prazo fixado no n.º 3 contar-se-á a partir da data em que a entidade competente para emissão do parecer ou concessão da autorização receber do Instituto do Investimento Estrangeiro os elementos de apreciação que considere necessários, devendo estes ser solicitados ao Instituto do Investimento Estrangeiro dentro dos 7 dias úteis seguintes à recepção do pedido de parecer ou de autorização.
 
-###### Art. 7.º - 1 - A autorização será sempre concedida nos seguintes casos:
+Art. 7.º - 1 - A autorização será sempre concedida nos seguintes casos:
 
 a) Quando se tratar de investimentos directos estrangeiros para aumento do capital de sociedades já constituídas em que tenha sido autorizada a participação de não residentes, se esses aumentos já estiverem previstos nos documentos de autorização inicial;
 
@@ -166,29 +189,29 @@ d) Quando os investimentos directos se destinarem a sectores prioritários defin
 
 3 - ...
 
-###### Art. 10.º - 1 - Os investimentos directos estrangeiros e os investimentos indirectos estrangeiros estão sujeitos a registo pela entidade competente.
+Art. 10.º - 1 - Os investimentos directos estrangeiros e os investimentos indirectos estrangeiros estão sujeitos a registo pela entidade competente.
 
 2 - A entidade competente procederá, oficiosamente ou a requerimento dos interessados, à rectificação dos registos que se mostrem efectuados de modo imperfeito ou incorrecto.
 
 3 - Para os efeitos do n.º 1, a entidade competente emitirá ou promoverá a publicação das normas técnicas adequadas.
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - As transferências anuais de dividendos e lucros serão sempre autorizadas, desde que tenham sido cumpridas as condições em que o investimento foi autorizado.
 
-###### Art. 14.º - 1 - É permitida a exportação do produto da venda ou liquidação de investimentos directos estrangeiros, incluindo as mais-valias, depois de pagos os respectivos impostos e desde que estejam cumpridas as condições de autorização.
+Art. 14.º - 1 - É permitida a exportação do produto da venda ou liquidação de investimentos directos estrangeiros, incluindo as mais-valias, depois de pagos os respectivos impostos e desde que estejam cumpridas as condições de autorização.
 
 2 - ...
 
-###### Art. 18.º - 1 - Tendo em conta os compromissos internacionalmente assumidos e a situação da balança de pagamentos externos, cabe ao Banco de Portugal, ouvida a entidade competente, apreciar os pedidos de transferência a que aludem os artigos 13.º e 14.º, bem como estabelecer, quando for caso disso, o escalonamento no tempo previsto no artigo 14.º
+Art. 18.º - 1 - Tendo em conta os compromissos internacionalmente assumidos e a situação da balança de pagamentos externos, cabe ao Banco de Portugal, ouvida a entidade competente, apreciar os pedidos de transferência a que aludem os artigos 13.º e 14.º, bem como estabelecer, quando for caso disso, o escalonamento no tempo previsto no artigo 14.º
 
 2 - ...
 
-###### Art. 25.º - 1 - A celebração, a alteração e a renovação de contratos de transferência de tecnologia entre residentes em Portugal e residentes no estrangeiro, ainda quando a renovação se encontre já prevista, por qualquer forma, no contrato inicial, dependem em todos os casos de autorização especial e prévia da entidade competente.
+Art. 25.º - 1 - A celebração, a alteração e a renovação de contratos de transferência de tecnologia entre residentes em Portugal e residentes no estrangeiro, ainda quando a renovação se encontre já prevista, por qualquer forma, no contrato inicial, dependem em todos os casos de autorização especial e prévia da entidade competente.
 
 2 - Das decisões da entidade competente cabe recurso hierárquico necessário para o Ministro da tutela e, das decisões deste, para o Conselho de Ministros.
 
-###### Art. 28.º - 1 - ...
+Art. 28.º - 1 - ...
 
 a) ...
 
@@ -208,15 +231,15 @@ g) As que estabeleçam limitações à actividade pós-contratual da cessionári
 
 3 - ...
 
-###### Art. 29.º Compete ao Instituto do Investimento Estrangeiro, adiante designado por IIE ou por entidade competente, que funciona sob tutela do Ministro de Estado e das Finanças e do Plano, coordenar, orientar e supervisar em Portugal o investimento directo estrangeiro, o investimento indirecto estrangeiro e as transferências de tecnologia.
+Art. 29.º Compete ao Instituto do Investimento Estrangeiro, adiante designado por IIE ou por entidade competente, que funciona sob tutela do Ministro de Estado e das Finanças e do Plano, coordenar, orientar e supervisar em Portugal o investimento directo estrangeiro, o investimento indirecto estrangeiro e as transferências de tecnologia.
 
-###### Art. 32.º - 1 - ...
+Art. 32.º - 1 - ...
 
 2 - ...
 
 3 - Os autores de investimentos indirectos estrangeiros, tal como são definidos nos n.os 2 e 3 do artigo 3.º deste decreto-lei, e as empresas já existentes à data da sua entrada em vigor onde existam investimentos indirectos estrangeiros deverão promover o registo desses investimentos na entidade competente.
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 2 - ...
 
@@ -224,18 +247,18 @@ g) As que estabeleçam limitações à actividade pós-contratual da cessionári
 
 4 - Em relação aos contratos referidos no número anterior, o registo dependerá de acordo das partes quanto à fixação de um prazo de vigência considerado aceitável pela entidade competente.
 
-###### Art. 36.º - 1 - As violações ao disposto no presente decreto-lei, nos diplomas que o regulamentam ou nas instruções de ordem técnica emitidas ao abrigo de um e de outros serão punidas em conformidade com a legislação que regula a punição das contravenções em matéria monetária e cambial.
+Art. 36.º - 1 - As violações ao disposto no presente decreto-lei, nos diplomas que o regulamentam ou nas instruções de ordem técnica emitidas ao abrigo de um e de outros serão punidas em conformidade com a legislação que regula a punição das contravenções em matéria monetária e cambial.
 
 2 - ...
 
 3 - ...
 
-###### Art. 2.º Os actos de registo referidos no artigo 32.º, n.º 3, e no artigo 33.º, n.º 3, do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, na redacção dada pelo artigo 1.º deste decreto-lei, devem ser requeridos pelos interessados à entidade competente no prazo de 1 ano e no prazo de 6 meses, respectivamente, a contar da entrada em vigor deste decreto-lei.
+Art. 2.º Os actos de registo referidos no artigo 32.º, n.º 3, e no artigo 33.º, n.º 3, do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, na redacção dada pelo artigo 1.º deste decreto-lei, devem ser requeridos pelos interessados à entidade competente no prazo de 1 ano e no prazo de 6 meses, respectivamente, a contar da entrada em vigor deste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Abril de 1982.**
+Promulgado em 29 de Abril de 1982.
 
-**Publique-se, nos termos do artigo 135.º da Constituição da República Portuguesa.**
+Publique-se, nos termos do artigo 135.º da Constituição da República Portuguesa.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

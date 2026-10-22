@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/62-1970-228036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f67fcf4d7d71135010fdef151606f9c30e0330214d37f245f6da2bb7b51624ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 412c47fbaa6ee05e9c44ede75f6fad82902c265acbb0c927e214ad0242dc6c3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:217108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:50Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +116,7 @@ Usando da faculdade conferida pelo n.º 3.º do mesmo artigo e ouvido o Conselho
 
 ### CAPÍTULO I — Regime tributário
 
-###### Artigo 1.º As empresas a que se referem os n.os 3 e 4 do artigo 3.º do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969, deverão pagar às províncias ultramarinas, onde exerçam a sua actividade, os seguintes impostos:
+Artigo 1.º As empresas a que se referem os n.os 3 e 4 do artigo 3.º do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969, deverão pagar às províncias ultramarinas, onde exerçam a sua actividade, os seguintes impostos:
 
 a) Imposto sobre lucros;
 
@@ -104,7 +124,7 @@ b) Imposto de produção;
 
 c) Imposto mineiro fixo.
 
-###### Art. 2.º - 1. O imposto referido na alínea a) do artigo anterior incide sobre os lucros líquidos imputáveis às actividades que as empresas mencionadas no mesmo artigo exercerem no território das províncias ultramarinas.
+Art. 2.º - 1. O imposto referido na alínea a) do artigo anterior incide sobre os lucros líquidos imputáveis às actividades que as empresas mencionadas no mesmo artigo exercerem no território das províncias ultramarinas.
 
 2. As taxas deste imposto serão estabelecidas por acordo com aquelas empresas e fixadas nos contratos que elas vierem a celebrar com a Junta de Energia Nuclear, tendo em consideração as circunstâncias especiais que devam ser ponderadas, não podendo ser inferiores aos seguintes valores:
 
@@ -160,7 +180,7 @@ e) Quaisquer sanções fiscais.
 
 9. Serão aplicáveis às empresas referidas no artigo 1.º e suas associadas as disposições legais que vigorarem para as empresas concessionárias em cujos lucros o Estado participe e que se destinem a assegurar que a participação do Estado não seja indevidamente diminuída por acréscimos injustificados nos custos, ou diminuições, também injustificadas, nas receitas.
 
-###### Art. 3.º - 1. O imposto de produção é constituído por uma percentagem do produto final obtido à saída das instalações e será pago em dinheiro ou em espécie, conforme opção das províncias.
+Art. 3.º - 1. O imposto de produção é constituído por uma percentagem do produto final obtido à saída das instalações e será pago em dinheiro ou em espécie, conforme opção das províncias.
 
 2. O valor desta percentagem será estabelecido por acordo com as empresas a que se refere o artigo 1.º e fixado nos contratos que essas empresas vierem a celebrar com a Junta de Energia Nuclear, tendo em consideração as circunstâncias que devam ser ponderadas, não podendo ser inferior a 2,5 por cento.
 
@@ -168,17 +188,17 @@ e) Quaisquer sanções fiscais.
 
 4. O pagamento em espécie será efectuado, no prazo previsto no número anterior, nos serviços locais da Junta, que entregarão nos serviços de Fazenda e contabilidade da província a correspondente importância, em dinheiro, logo que receberem o produto da sua venda.
 
-###### Art. 4.º - 1. Para efeitos de liquidação dos impostos referidos nos artigos 2.º e 3.º, os preços considerados serão os efectivamente realizados pelas empresas para o produto final à saída das instalações na respectiva província, desde que tais preços possam ser considerados como situados dentro dos limites dos preços internacionalmente praticados, tendo-se em atenção a data da assinatura dos contratos, o conhecimento do mercado nessa data, a duração dos mesmos contratos, as quantidades envolvidas, as qualidades das substâncias vendidas, os encargos de transporte e outras circunstâncias que devam ser consideradas.
+Art. 4.º - 1. Para efeitos de liquidação dos impostos referidos nos artigos 2.º e 3.º, os preços considerados serão os efectivamente realizados pelas empresas para o produto final à saída das instalações na respectiva província, desde que tais preços possam ser considerados como situados dentro dos limites dos preços internacionalmente praticados, tendo-se em atenção a data da assinatura dos contratos, o conhecimento do mercado nessa data, a duração dos mesmos contratos, as quantidades envolvidas, as qualidades das substâncias vendidas, os encargos de transporte e outras circunstâncias que devam ser consideradas.
 
 2. A prova desses preços é feita mediante a apresentação dos contratos de venda e das correspondentes facturas, devidamente autenticadas.
 
-###### Art. 5.º - 1. O quantitativo do imposto mineiro fixo, previsto no capítulo 8.º do Decreto de 20 de Setembro de 1906 e legislação complementar, que vigore ou venha a vigorar, será estabelecido por acordo com as empresas a que se refere o artigo 1.º e fixado nos contratos que essas empresas vierem a celebrar com a Junta de Energia Nuclear, tendo em consideração as circunstâncias especiais que devam ser ponderadas.
+Art. 5.º - 1. O quantitativo do imposto mineiro fixo, previsto no capítulo 8.º do Decreto de 20 de Setembro de 1906 e legislação complementar, que vigore ou venha a vigorar, será estabelecido por acordo com as empresas a que se refere o artigo 1.º e fixado nos contratos que essas empresas vierem a celebrar com a Junta de Energia Nuclear, tendo em consideração as circunstâncias especiais que devam ser ponderadas.
 
 2. O imposto a que se refere o número anterior será pago até 31 de Janeiro do ano civil a que respeita, em relação à área efectivamente mantida pela empresa no primeiro dia desse ano.
 
 3. As empresas a que se refere o artigo 1.º e suas eventuais associadas poderão, porém, ser isentas do imposto previsto neste artigo, nos contratos a celebrar com a Junta de Energia Nuclear, quando circunstâncias especiais, aceites pelo Ministro do Ultramar, assim o justifiquem.
 
-###### Art. 6.º - 1. As empresas sujeitas ao regime tributário fixado no presente decreto serão isentas de quaisquer outros impostos, contribuições ou taxas, provinciais ou municipais, seja qual for a sua natureza ou designação, nomeadamente de contribuição predial e sisa, bem como de outras taxas que incidam sobre imóveis a elas pertencentes ou relacionadas com a propriedade de tais imóveis, desde que estes sejam utilizados exclusivamente nos seus trabalhos e operações ou para alojamento do seu pessoal.
+Art. 6.º - 1. As empresas sujeitas ao regime tributário fixado no presente decreto serão isentas de quaisquer outros impostos, contribuições ou taxas, provinciais ou municipais, seja qual for a sua natureza ou designação, nomeadamente de contribuição predial e sisa, bem como de outras taxas que incidam sobre imóveis a elas pertencentes ou relacionadas com a propriedade de tais imóveis, desde que estes sejam utilizados exclusivamente nos seus trabalhos e operações ou para alojamento do seu pessoal.
 
 2. A importação de máquinas, aparelhos, instrumentos, ferramentas, veículos de todas as espécies e quaisquer artigos ou produtos destinados exclusivamente às actividades mineiras e de produção de concentrados, fica apenas sujeita ao regime especial de pagamento do imposto estatístico de 1 por mil ad valorem e ao imposto do selo do despacho, quando a importação seja efectuada pelas mesmas empresas para a execução dos trabalhos em que as mercadorias despachadas tenham aplicação efectiva.
 
@@ -194,9 +214,9 @@ e) Quaisquer sanções fiscais.
 
 8. As empresas a que se refere este artigo apenas ficam isentas do pagamento das taxas que tenham características fiscais ou tributárias, e não das que correspondam a pagamentos de serviços que lhes sejam prestados.
 
-###### Art. 7.º Qualquer entidade, nacional ou estrangeira, que se associe às empresas a que se refere o artigo 1.º para efeitos de prospecção, reconhecimento ou exploração de jazigos ficará sujeita ao registo estabelecido no presente diploma.
+Art. 7.º Qualquer entidade, nacional ou estrangeira, que se associe às empresas a que se refere o artigo 1.º para efeitos de prospecção, reconhecimento ou exploração de jazigos ficará sujeita ao registo estabelecido no presente diploma.
 
-###### Art. 8.º - 1. Quando as empresas a que se refere o artigo 1.º se associem a qualquer empresa, nacional ou estrangeira, serão isentas de imposto de rendimento relativamente a quaisquer quantias de que venham a beneficiar, resultante de:
+Art. 8.º - 1. Quando as empresas a que se refere o artigo 1.º se associem a qualquer empresa, nacional ou estrangeira, serão isentas de imposto de rendimento relativamente a quaisquer quantias de que venham a beneficiar, resultante de:
 
 a) Prestação de informações técnicas, jurídicas e outras, que facultem às associadas;
 
@@ -208,25 +228,25 @@ c) Investimentos em quaisquer trabalhos mineiros ou instalações anexas, efectu
 
 3. As quantias a que se refere a alínea c) do n.º 1 não serão amortizadas pela empresa beneficiária, mas pela respectiva associada.
 
-###### Art. 9.º - 1. As empresas a que este diploma respeita e as suas eventuais associadas obrigar-se-ão a dotar o Fundo de Fomento Mineiro Ultramarino, em cada ano de vigência de contrato, com uma importância, paga adiantadamente durante os três primeiros meses de cada ano contratual, cujo quantitativo será estabelecido por acordo com as empresas e fixado nos contratos que elas vierem a celebrar com a Junta de Energia Nuclear, tendo em consideração as circunstâncias especiais que devam ser ponderadas.
+Art. 9.º - 1. As empresas a que este diploma respeita e as suas eventuais associadas obrigar-se-ão a dotar o Fundo de Fomento Mineiro Ultramarino, em cada ano de vigência de contrato, com uma importância, paga adiantadamente durante os três primeiros meses de cada ano contratual, cujo quantitativo será estabelecido por acordo com as empresas e fixado nos contratos que elas vierem a celebrar com a Junta de Energia Nuclear, tendo em consideração as circunstâncias especiais que devam ser ponderadas.
 
 2. As empresas citadas no artigo 1.º e suas eventuais associadas poderão, porém, ser isentas do pagamento da importância a que se refere o número anterior, nos contratos a celebrar com a Junta de Energia Nuclear, quando circunstâncias especiais aceites pelo Ministro do Ultramar tal justifiquem.
 
-###### Art. 10.º A Junta de Energia Nuclear fica isenta, relativamente às actividades lucrativas que vier a desenvolver nas províncias ultramarinas, de todos os impostos, contribuições e taxas, qualquer que seja a sua natureza e a entidade que os tenha instituído.
+Art. 10.º A Junta de Energia Nuclear fica isenta, relativamente às actividades lucrativas que vier a desenvolver nas províncias ultramarinas, de todos os impostos, contribuições e taxas, qualquer que seja a sua natureza e a entidade que os tenha instituído.
 
-###### Art. 11.º - 1. As empresas a que se refere o artigo 1.º e as suas associadas, bem como as respectivas associações, serão fiscalizadas, administrativa e financeiramente, por intermédio de um delegado do Governo, que poderá socorrer-se do parecer de uma comissão auditória.
+Art. 11.º - 1. As empresas a que se refere o artigo 1.º e as suas associadas, bem como as respectivas associações, serão fiscalizadas, administrativa e financeiramente, por intermédio de um delegado do Governo, que poderá socorrer-se do parecer de uma comissão auditória.
 
 2. As empresas a que se refere o artigo 1.º e as suas associadas obrigam-se a fornecer aos serviços oficiais todos os elementos necessários à inspecção das suas actividades.
 
 3. Se os elementos pedidos não forem fornecidos no prazo de sessenta dias, a contar da data da apresentação do pedido, salvo caso de força maior ou motivo justificado, será aplicada à empresa a multa de 50000$00 e fixado novo prazo de trinta dias para tal fornecimento. Se durante este novo prazo os elementos não forem facultados, ou houver reincidência, o Governo poderá suspender o exercício da actividade da mesma empresa na província em causa.
 
-###### Art. 12.º Nas aquisições que tenham de ser feitas no estrangeiro, as empresas a que se refere o artigo 1.º e as suas eventuais associadas acatarão as orientações de política comercial que lhes forem transmitidas pelo Ministro do Ultramar, sem o que não beneficiarão das isenções aduaneiras consignadas no artigo 6.º para o respectivo material.
+Art. 12.º Nas aquisições que tenham de ser feitas no estrangeiro, as empresas a que se refere o artigo 1.º e as suas eventuais associadas acatarão as orientações de política comercial que lhes forem transmitidas pelo Ministro do Ultramar, sem o que não beneficiarão das isenções aduaneiras consignadas no artigo 6.º para o respectivo material.
 
-###### Art. 13.º - 1. Se for decidido pelos tribunais que as empresas ou as suas associadas praticaram algum acto tendente a lesar as províncias nas receitas a que estas tenham direito, com ofensa deste diploma e da lei geral aplicável, pagarão às províncias, pela primeira vez, além da receita em dívida, uma multa correspondente ao décuplo da sua importância, e, em caso de reincidência, ficarão sujeitas à suspensão do exercício da sua actividade.
+Art. 13.º - 1. Se for decidido pelos tribunais que as empresas ou as suas associadas praticaram algum acto tendente a lesar as províncias nas receitas a que estas tenham direito, com ofensa deste diploma e da lei geral aplicável, pagarão às províncias, pela primeira vez, além da receita em dívida, uma multa correspondente ao décuplo da sua importância, e, em caso de reincidência, ficarão sujeitas à suspensão do exercício da sua actividade.
 
 2. A aplicação destas sanções não exclui as demais de diferente natureza previstas na legislação em vigor.
 
-###### Art. 14.º - 1. A Junta de Energia Nuclear e as empresas a que se refere o artigo 1.º e suas eventuais associadas, decorridos vinte anos a partir da data da assinatura dos contratos celebrados entre elas, deverão proceder a revisão da tributação fixada nos mesmos, que será sujeita à aprovação do Ministro do Ultramar.
+Art. 14.º - 1. A Junta de Energia Nuclear e as empresas a que se refere o artigo 1.º e suas eventuais associadas, decorridos vinte anos a partir da data da assinatura dos contratos celebrados entre elas, deverão proceder a revisão da tributação fixada nos mesmos, que será sujeita à aprovação do Ministro do Ultramar.
 
 2. A revisão referida no número anterior terá como objectivo equiparar na medida do possível e aconselhável, a tributação fixada naqueles contratos às de outros congéneres vigentes no ultramar português, tendo, no entanto, sempre em atenção a data da assinatura dos contratos e toda a actividade desenvolvida pelas empresas.
 
@@ -234,7 +254,7 @@ c) Investimentos em quaisquer trabalhos mineiros ou instalações anexas, efectu
 
 ### CAPÍTULO II — Facilidades concedidas e disposições especiais
 
-###### Art. 15.º - 1. Os governos das províncias tomarão, na medida do possível, as providências necessárias para que as empresas referidas no artigo 1.º e as suas associadas possam exercer livre e eficazmente a sua actividade, nomeadamente:
+Art. 15.º - 1. Os governos das províncias tomarão, na medida do possível, as providências necessárias para que as empresas referidas no artigo 1.º e as suas associadas possam exercer livre e eficazmente a sua actividade, nomeadamente:
 
 a) Assegurando o uso e aproveitamento, para fins exclusivamente mineiros ou para construção de instalações acessórias ou destinadas a facilitar aqueles, de todos e quaisquer terrenos dentro das áreas onde se realizem efectivamente trabalhos mineiros e o direito de obterem, nos termos do [Decreto-Lei n.º 49398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49398-1969-217108), de 24 de Novembro de 1969, a sua expropriação por utilidade pública, abrangendo as construções e benfeitorias neles existentes;
 
@@ -244,25 +264,25 @@ c) Permitindo cortar, nas matas provinciais, dentro das áreas onde se realizem 
 
 2. As estradas e caminhos, bem como quaisquer outras vias de comunicação para veículos, que sejam construídos pelas empresas a que se refere o artigo 1.º em terrenos públicos, entram no domínio público, mas, no caso de o uso das ditas vias de comunicação por quaisquer pessoas, veículos ou animais estranhos aos empregados pelas mesmas empresas lhes causar quaisquer danos, receberão uma indemnização, nos termos da lei, cujo montante será acordado com as autoridades ou com os utentes, consoante os casos.
 
-###### Art. 16.º As autoridades facilitarão, respeitado o interesse e a segurança do País, a entrada e saída no território das províncias dos indivíduos de qualquer nacionalidade que as empresas a que se refere o artigo 1.º e as suas associadas tenham admitido ou despedido, assim como quaisquer entidades que com elas cooperem nos seus trabalhos e operações, sem prejuízo da legislação aplicável.
+Art. 16.º As autoridades facilitarão, respeitado o interesse e a segurança do País, a entrada e saída no território das províncias dos indivíduos de qualquer nacionalidade que as empresas a que se refere o artigo 1.º e as suas associadas tenham admitido ou despedido, assim como quaisquer entidades que com elas cooperem nos seus trabalhos e operações, sem prejuízo da legislação aplicável.
 
-###### Art. 17.º Os serviços competentes das províncias ultramarinas fornecerão, gratuitamente, às empresas referidas no artigo 1.º todos os estudos, relatórios, análises e outros documentos de que possam dispor relativos à geologia das áreas que forem objecto de contrato entre a Junta de Energia Nuclear e as mesmas empresas.
+Art. 17.º Os serviços competentes das províncias ultramarinas fornecerão, gratuitamente, às empresas referidas no artigo 1.º todos os estudos, relatórios, análises e outros documentos de que possam dispor relativos à geologia das áreas que forem objecto de contrato entre a Junta de Energia Nuclear e as mesmas empresas.
 
-###### Art. 18.º Quaisquer aprovações ou autorizações relativas a trabalhos, instalações, planos, programas ou projectos no âmbito das actividades contratualmente previstas, requeridas ou apresentadas pelas empresas a que se refere o artigo 1.º e suas associadas, às entidades oficiais competentes, serão consideradas como concedidas se as referidas entidades não decidirem dentro de noventa dias a partir da data do recebimento dos respectivos requerimentos.
+Art. 18.º Quaisquer aprovações ou autorizações relativas a trabalhos, instalações, planos, programas ou projectos no âmbito das actividades contratualmente previstas, requeridas ou apresentadas pelas empresas a que se refere o artigo 1.º e suas associadas, às entidades oficiais competentes, serão consideradas como concedidas se as referidas entidades não decidirem dentro de noventa dias a partir da data do recebimento dos respectivos requerimentos.
 
-###### Art. 19.º As áreas demarcadas para exploração de jazigos de minérios radioactivos e afins, em conformidade com o determinado no n.º 2 do artigo 3.º do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969, não é aplicável o disposto no artigo 62.º do Decreto de 20 de Setembro de 1906.
+Art. 19.º As áreas demarcadas para exploração de jazigos de minérios radioactivos e afins, em conformidade com o determinado no n.º 2 do artigo 3.º do [Decreto-Lei n.º 48970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985), de 17 de Abril de 1969, não é aplicável o disposto no artigo 62.º do Decreto de 20 de Setembro de 1906.
 
 ### CAPÍTULO III — Regime cambial
 
-###### Art. 20.º - 1. Todas as operações efectuadas entre as empresas a que se refere o artigo 1.º e suas associadas e quaisquer entidades de direito público ou privado, não residentes ou domiciliadas na mesma província ultramarina, ficam sujeitas às prescrições estabelecidas pela legislação cambial e de pagamentos interterritoriais em vigor, nomeadamente no que se refere à entrega ao respectivo fundo cambial das divisas provenientes das exportações, beneficiando o capital estrangeiro das garantias previstas no [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965, e de quaisquer outras de aplicação geral que venham a ser estabelecidas com o mesmo fim.
+Art. 20.º - 1. Todas as operações efectuadas entre as empresas a que se refere o artigo 1.º e suas associadas e quaisquer entidades de direito público ou privado, não residentes ou domiciliadas na mesma província ultramarina, ficam sujeitas às prescrições estabelecidas pela legislação cambial e de pagamentos interterritoriais em vigor, nomeadamente no que se refere à entrega ao respectivo fundo cambial das divisas provenientes das exportações, beneficiando o capital estrangeiro das garantias previstas no [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965, e de quaisquer outras de aplicação geral que venham a ser estabelecidas com o mesmo fim.
 
 2. Quando circunstâncias especiais tornem aplicáveis as restrições previstas no artigo 14.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965, fica entendido que tais restrições não serão aplicáveis às transferências previstas no artigo 13.º do mesmo diploma, enquanto a totalidade das importâncias em moeda do exterior que a sociedade tenha importado através do fundo cambial da respectiva província exceda a totalidade das transferências para o exterior dessa província já efectuadas pela sociedade no mesmo ano.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Fevereiro de 1970.**
+Promulgado em 16 de Fevereiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

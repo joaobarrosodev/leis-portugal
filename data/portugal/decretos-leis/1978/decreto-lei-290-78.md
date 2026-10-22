@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1978-329458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 620317085e5b8d828fea0923c36565c92c22dd955a1c77ec252d8804c9859b02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a4ced029d819101e90d85c431de4b71a6154811c801e5a39c93f30e0b39bbd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Direcção Geral da Aeronáutica Civil
+- Licenciamento
+- Servidão Aeronáutica
+- Servidão Militar
+- Vilar Formoso
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:43Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +108,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com os radiofaróis VOR e NDB de Vilar Formoso, instalados em Vilar Formoso, abrangidos na planta anexa a este decreto e constituindo três zonas assim definidas:
+Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com os radiofaróis VOR e NDB de Vilar Formoso, instalados em Vilar Formoso, abrangidos na planta anexa a este decreto e constituindo três zonas assim definidas:
 
 a) Zona primária do VOR: terrenos situados no interior de uma circunferência de 300 m de raio, com centro no VOR [M = 109967,22 e P = 104334,25 de coordenadas rectangulares referidas ao ponto central (Melriça)];
 
@@ -98,7 +116,7 @@ b) Zona primária do NDB: terrenos situados no interior de uma circunferência d
 
 c) Zona secundária do VOR: terrenos confinantes com os das zonas primárias e delimitados exteriormente por uma circunferência de 2000 m de raio com centro no VOR.
 
-###### Art. 2.º - 1 - Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aeronáutica Civil a execução dos trabalhos e actividades seguintes:
+Art. 2.º - 1 - Os terrenos compreendidos nas zonas definidas no artigo anterior ficam sujeitos a servidão nos termos do artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), de 22 de Outubro de 1964, carecendo de licença da Direcção-Geral da Aeronáutica Civil a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -122,24 +140,24 @@ A inclinação daquela superfície é de 1% para os obstáculos metálicos e de 
 
 Para os efeitos do disposto no presente diploma, consideram-se «obstáculos metálicos» as linhas aéreas de transporte de energia, agregados de mais de quatro linhas telefónicas aéreas (oito fios), hangares, armazéns e pavilhões de grande vão com estrutura ou cobertura metálica, torres para antena, vedações em rede metálica de comprimento superior a 20 m, grandes depósitos de sucatas ou de materiais metálicos, etc.
 
-###### Art. 3.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização e licenciamento dos trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
+Art. 3.º Compete à Direcção-Geral da Aeronáutica Civil a fiscalização e licenciamento dos trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
 
-###### Art. 4.º - 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aeronáutica Civil por intermédio da câmara municipal respectiva, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+Art. 4.º - 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aeronáutica Civil por intermédio da câmara municipal respectiva, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
 2 - A planta de localização referida na alínea a) do § 1.º do artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043) deverá ser à escala 1/5000, devidamente cotada e referenciada por coordenadas.
 
-###### Art. 5.º Das decisões tomadas pela Direcção-Geral da Aeronáutica Civil, quer relativamente à concessão de licenças para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Ministro dos Transportes e Comunicações.
+Art. 5.º Das decisões tomadas pela Direcção-Geral da Aeronáutica Civil, quer relativamente à concessão de licenças para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Ministro dos Transportes e Comunicações.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Mário Soares - Mário Firmino Miguel - Manuel Branco Ferreira Lima.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21500/19531954.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21500/19531954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21500/19531954.pdf)
 
-**O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

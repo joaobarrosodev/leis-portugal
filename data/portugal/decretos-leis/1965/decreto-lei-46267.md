@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46267-1965-237130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96c2a8981c6b8d1526a5775f19f2649e6e7ff12cc569c8cf9f2ea49fc315829b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b76f2b6c8a640968853fe09189a8b4ad65e9c2de3e67108d28df535e622d8138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Judicial
+- Convenção
+- Extradição
+- Portugal
+- RFA
+- Tratado Relativo a Extradição e Assistência Judiciária
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:44Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +91,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Tratado entre a República Federal da Alemanha e a República de Portugal relativo à extradição e à assistência judiciária, cujos textos, em português e respectiva tradução para alemão, vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Tratado entre a República Federal da Alemanha e a República de Portugal relativo à extradição e à assistência judiciária, cujos textos, em português e respectiva tradução para alemão, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes do Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -95,11 +101,11 @@ Para ser presente à Assembleia Nacional.
 
 Tratado entre a República Federal da Alemanha e a República de Portugal relativo à extradição e à assistência judiciária em matéria penal
 
-**O Presidente da República Federal da Alemanha e o Presidente da República de Portugal, desejosos de regularem as relações recíprocas relativas à extradição de criminosos e à assistência judiciária em matéria penal, resolveram concluir um tratado e designaram para esse efeito como seus plenipotenciários:**
+O Presidente da República Federal da Alemanha e o Presidente da República de Portugal, desejosos de regularem as relações recíprocas relativas à extradição de criminosos e à assistência judiciária em matéria penal, resolveram concluir um tratado e designaram para esse efeito como seus plenipotenciários:
 
-**O Presidente da República Federal da Alemanha, o Sr. Dr. Gerhard Schröder, Ministro Federal dos Negócios Estrangeiros, e o Sr. Dr. Ewald Bücher, Ministro Federal da Justiça;**
+O Presidente da República Federal da Alemanha, o Sr. Dr. Gerhard Schröder, Ministro Federal dos Negócios Estrangeiros, e o Sr. Dr. Ewald Bücher, Ministro Federal da Justiça;
 
-**O Presidente da República de Portugal, o Sr. Dr. Manuel Homem de Melo, Embaixador Extraordinário e Plenipotenciário, e o Sr. Prof. Dr. João de Matos Antunes Varela, Ministro da Justiça.**
+O Presidente da República de Portugal, o Sr. Dr. Manuel Homem de Melo, Embaixador Extraordinário e Plenipotenciário, e o Sr. Prof. Dr. João de Matos Antunes Varela, Ministro da Justiça.
 
 Os Plenipotenciários acordaram no seguinte:
 
@@ -513,4 +519,4 @@ Gerhard Schröder.
 
 Ewald Bücher.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/07600/04110424.pdf))](https://files.diariodarepublica.pt/1s/1965/04/07600/04110424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/07600/04110424.pdf)

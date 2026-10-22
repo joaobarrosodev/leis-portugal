@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16500/13491349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1978-297433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 374f563ebce02cd92416871129418a7679a356c4a2ef5a83e0dc55226c3a8bd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 910f9d674f378646176fc4d5ddeddd12728f001bfcd219a2164b008cbfc038ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Geral da Polícia de Segurança Pública
+- Conselho Administrativo
+- Remuneração Acessória
+- Tesoureiro
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:391209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:17Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +116,16 @@ Cumprindo suprir tal lacuna:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Salvo na hipótese prevista no artigo 4.º do [Decreto-Lei n.º 42373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42373-1959-432873), de 9 de Julho de 1959, ao tesoureiro do conselho administrativo do Comando-Geral da Polícia de Segurança Pública é atribuído o vencimento correspondente à letra G, a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro, e um abono para falhas igual ao estabelecido para os tesoureiros da Fazenda Pública de 1.ª classe.
+Artigo 1.º Salvo na hipótese prevista no artigo 4.º do [Decreto-Lei n.º 42373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42373-1959-432873), de 9 de Julho de 1959, ao tesoureiro do conselho administrativo do Comando-Geral da Polícia de Segurança Pública é atribuído o vencimento correspondente à letra G, a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 923/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/923-1976-391209), de 31 de Dezembro, e um abono para falhas igual ao estabelecido para os tesoureiros da Fazenda Pública de 1.ª classe.
 
-###### Art. 2.º O tesoureiro do conselho administrativo do Comando-Geral da Polícia de Segurança Pública, qualquer que seja o título do seu provimento, prestará caução de montante igual ao fixado para os tesoureiros da Fazenda Pública de 1.ª classe.
+Art. 2.º O tesoureiro do conselho administrativo do Comando-Geral da Polícia de Segurança Pública, qualquer que seja o título do seu provimento, prestará caução de montante igual ao fixado para os tesoureiros da Fazenda Pública de 1.ª classe.
 
-###### Art. 3.º Este diploma produz efeitos desde a data em que foi publicado o provimento definitivo do actual tesoureiro do conselho administrativo do Comando-Geral da Polícia de Segurança Pública.
+Art. 3.º Este diploma produz efeitos desde a data em que foi publicado o provimento definitivo do actual tesoureiro do conselho administrativo do Comando-Geral da Polícia de Segurança Pública.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Jaime José Matos da Gama.
 
-**Promulgado em 11 de Julho de 1978.**
+Promulgado em 11 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

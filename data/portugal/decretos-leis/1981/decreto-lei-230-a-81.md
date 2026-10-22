@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 170/1981, 1º Suplemento, Série I de 1981-07-27
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1918-(4) a 1918-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/17001/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-a-1981-682863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c901e3be7236f17c8a7fa2f2eafdf55c873231deb0d635e2797f87ad746d6015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a57a2ff498abaed88844cade9b47f03cb57638bcccac1968304c699dbdc348ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Ministros
+- Conselho de Ministros para os Assuntos Económicos
+- Governo VII
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:380125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391397:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:561817:por
+  label: "Revogado pelo DEC LEI.290/81.14.10.1981.PCM, DR.IS [236] de 14.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1981-561817
+  date: '1981-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:03Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +105,9 @@ Tornando-se necessário introduzir na estrutura orgânica do Governo, aprovada p
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 18.º, 25.º e 26.º do [Decreto-Lei n.º 28/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1981-391397), de 12 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 18.º, 25.º e 26.º do [Decreto-Lei n.º 28/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1981-391397), de 12 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) Dois Secretários de Estado Adjuntos do Primeiro-Ministro;
 
@@ -106,13 +119,13 @@ d) ...
 
 e) ...
 
-###### Art. 18.º O Ministério da Qualidade de Vida compreende as seguintes Secretarias de Estado:
+Art. 18.º O Ministério da Qualidade de Vida compreende as seguintes Secretarias de Estado:
 
 a) Ordenamento e Ambiente;
 
 b) Desportos.
 
-###### Art. 25.º - 1 - ...
+Art. 25.º - 1 - ...
 
 2 - ...
 
@@ -142,18 +155,18 @@ m) ...
 
 n) Comunicação Social.
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - ...
 
 3 - Os órgãos e serviços dependentes da extinta Secretaria de Estado da Comunicação Social transitam para a Presidência do Conselho de Ministros.
 
-###### Art. 2.º O presente diploma produz efeitos a partir de 4 de Junho de 1981.
+Art. 2.º O presente diploma produz efeitos a partir de 4 de Junho de 1981.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 24 de Julho de 1981.**
+Promulgado em 24 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

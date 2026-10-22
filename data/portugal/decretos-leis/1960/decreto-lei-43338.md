@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e3901a8f0a1aced97d6733e77e405248149d5d0ef8e7e8549f43c0549904038
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e6354a97b01704600f70888e6d9c715acae078db37b09f0507881b290c111ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bretton Woods
+- Convenção
+- FMI
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:554098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307421:por
+  label: "Aprovada, para adesão, a emenda ao Acordo Relativo ao FMI aprovado para adesão pelo presente diploma, pelo DEC LEI.501/75.12.09.1975.MNE,\
+    \ DG.IS [211] de 12.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/501-1975-307421
+  date: '1975-09-12'
+- type: amended_by
+  target: pt:dre:447755:por
+  label: "Aprovada, para adesão, a segunda emenda ao acordo relativo ao FMI aprovado para adesão pelo presente diploma, pela\
+    \ RES.8-A/78.20.01.1978.AR, DR.IS [17] de 20.01.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1978-447755
+  date: '1978-01-20'
+- type: amended_by
+  target: pt:dre:647734:por
+  label: "Aprovada a terceira Emenda ao Acordo Relativo ao FMI aprovado para adesão pelo presente diploma, pela RES.15/91.26.06.1991.AR,\
+    \ DR.IS-A [144] de 26.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/15-1991-647734
+  date: '1991-06-26'
+- type: amended_by
+  target: pt:dre:165420:por
+  label: "Aprovada, para adesão, a Quarta Emenda ao Acordo Relativo FMI, aprovado para adesão pelo presente diploma, pela\
+    \ RES.8/99.24.02.1999.AR, DR.IS-A [46] de 24.02.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/8-1999-165420
+  date: '1999-02-24'
+- type: amended_by
+  target: pt:dre:605556:por
+  label: "Aprovada, para adesão, uma Emenda ao Acordo Relativo FMI, pela RES.20/2009.23.03.2009.AR, DR.IS [57] de 23.03.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/20-2009-605556
+  date: '2009-03-23'
+- type: amended_by
+  target: pt:dre:603946:por
+  label: "Aprovada, para adesão uma Emenda ao Acordo Relativo FMI, pela RES.26/2009.15.04.2009.AR, DR.IS [73] de 15.04.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/26-2009-603946
+  date: '2009-04-15'
+- type: amended_by
+  target: pt:dre:554098:por
+  label: "Aprovada, para adesão, a Emenda (sobre a Reforma do Diretório Executivo) ao Acordo relativo ao FMI, pela RES.37/2012.23.03.2012.AR,\
+    \ DR.IS [60] de 23.03.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/37-2012-554098
+  date: '2012-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 75
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:34Z'
   warnings: []
   errors: []
 ---
@@ -91,27 +137,25 @@ Tendo sido tomadas as medidas necessárias para o cumprimento do Acordo relativo
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Acordo relativo ao Fundo Monetário Internacional adoptado na Conferência Monetária e Financeira das Nações Unidas, realizada em Bretton Woods (N. H., Estados Unidos da América) de 1 a 22 de Julho de 1944, cujo texto em inglês e respectiva tradução são os que seguem anexos ao presente decreto.
+Artigo único. É aprovado, para adesão, o Acordo relativo ao Fundo Monetário Internacional adoptado na Conferência Monetária e Financeira das Nações Unidas, realizada em Bretton Woods (N. H., Estados Unidos da América) de 1 a 22 de Julho de 1944, cujo texto em inglês e respectiva tradução são os que seguem anexos ao presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27000/25222554.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27000/25222554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27000/25222554.pdf)
 
 Acordo relativo ao Fundo Monetário Internacional
 
 Os governos em cujo nome o presente Acordo é assinado acordam no seguinte:
 
-ARTIGO PRELIMINAR
+###### ARTIGO PRELIMINAR
 
 É instituído o Fundo Monetário Internacional, que funcionará de acordo com as disposições seguintes:
 
-ARTIGO I
-
-Objectivos
+###### ARTIGO I — Objectivos
 
 Os objectivos do Fundo Monetário Internacional são:
 
@@ -129,9 +173,7 @@ Os objectivos do Fundo Monetário Internacional são:
 
 Em todas as suas decisões o Fundo será orientado pelos objectivos mencionados no presente artigo.
 
-ARTIGO II
-
-Membros
+###### ARTIGO II — Membros
 
 #### SECÇÃO 1 — Membros originários
 
@@ -141,9 +183,7 @@ Os membros originários do Fundo serão os países representados na Conferência
 
 Será facultada a admissão aos governos de outros países nas datas e de harmonia com os termos que o Fundo estabelecer.
 
-ARTIGO III
-
-Quotas e subscrições
+###### ARTIGO III — Quotas e subscrições
 
 #### SECÇÃO 1 — Quotas
 
@@ -179,9 +219,7 @@ Cada membro fornecerá ao Fundo os elementos de informação necessários para d
 
 O Fundo aceitará de qualquer membro, em substituição de qualquer parte da moeda desse membro que, no parecer do Fundo, não seja necessária para as suas operações, promissórias ou obrigações análogas emitidas pelo membro ou pelo depositário por este designado nos termos do artigo XIII, secção 2, as quais não serão negociáveis, não vencerão juros e serão pagáveis à vista e ao par, creditando a conta do Fundo no depositário designado. A presente secção não só se aplicará à parte da subscrição dos membros em moeda nacional, mas também a qualquer moeda de outro modo devida ao Fundo ou por este adquirida.
 
-ARTIGO IV
-
-Paridade das moedas
+###### ARTIGO IV — Paridade das moedas
 
 #### SECÇÃO 1 — Definição das paridades
 
@@ -249,9 +287,7 @@ Não obstante as disposições da secção 5, (b), do presente artigo, o Fundo p
 
 Quando um membro propuser uma alteração da paridade da sua moeda, entender-se-á, a menos que ele declare de outro modo, que propõe uma modificação correspondente da paridade das diferentes moedas de todos os territórios relativamente aos quais o membro aceitou o presente Acordo, nos termos do artigo XX, secção 2, (g). Contudo, o membro terá a faculdade de declarar que a sua proposta se refere só à moeda da metrópole ou só a uma ou mais moedas diferentes especificadas ou à moeda da metrópole e a uma ou mais moedas diferentes especificadas.
 
-ARTIGO V
-
-Transacções com o Fundo
+###### ARTIGO V — Transacções com o Fundo
 
 #### SECÇÃO 1 — Entidades que tratam com o Fundo
 
@@ -327,9 +363,7 @@ Sempre que o Fundo entender que qualquer membro utiliza os recursos do Fundo de 
 
 (f) Todas as comissões serão pagas em ouro. Se, no entanto, as reservas monetárias de um membro forem inferiores a metade da sua quota, esse membro apenas pagará em ouro as comissões que dever numa proporção igual à existente entre as reservas e metade da sua quota e pagará o restante na sua própria moeda.
 
-ARTIGO VI
-
-Transferências de capital
+###### ARTIGO VI — Transferências de capital
 
 #### SECÇÃO 1 — Utilização dos recursos do Fundo para transferências de capital
 
@@ -349,9 +383,7 @@ Se as disponibilidades do Fundo na moeda de um membro tiverem permanecido abaixo
 
 Os membros poderão exercer as fiscalizações necessárias para regular os movimentos internacionais de capitais, mas nenhum membro poderá exercer essas fiscalizações de forma que restrinja os pagamentos relativos a transacções correntes ou que retarde indevidamente as transferências de fundos para liquidação de compromissos, à excepção do disposto no artigo VII, secção 3, (b), e no artigo XIV, secção 2.
 
-ARTIGO VII
-
-Moedas escassas
+###### ARTIGO VII — Moedas escassas
 
 #### SECÇÃO 1 — Escassez geral de uma moeda
 
@@ -381,9 +413,7 @@ Todos os membros que impuserem restrições à moeda de qualquer outro membro, d
 
 Os membros concordam em não invocar as obrigações derivadas de quaisquer compromissos celebrados com outros membros anteriormente ao presente Acordo, de modo que dificulte a aplicação das disposições do presente artigo.
 
-ARTIGO VIII
-
-Obrigações gerais dos membros
+###### ARTIGO VIII — Obrigações gerais dos membros
 
 #### SECÇÃO 1 — Introdução
 
@@ -457,9 +487,7 @@ O membro adquirente poderá optar pela efectivação do pagamento na moeda do me
 
 Quando, nos termos do presente Acordo, um membro for autorizado, nas condições especiais ou temporárias especificadas no mesmo, a manter ou estabelecer restrições às operações cambiais e existam outros compromissos entre os membros anteriores ao presente Acordo, cujas disposições estejam em conflito com a aplicação de tais restrições, as partes contratantes de tais compromissos consultar-se-ão entre si com vista a efectuar os ajustamentos mùtuamente aceitáveis que possam ser necessários. As disposições do presente artigo não prejudicarão a aplicação das disposições do artigo VII, secção 5.
 
-ARTIGO IX
-
-Estatuto, imunidades e privilégios
+###### ARTIGO IX — Estatuto, imunidades e privilégios
 
 #### SECÇÃO 1 — Objectivos do presente artigo
 
@@ -521,15 +549,11 @@ Todos os governadores, directores executivos, suplentes, agentes e empregados do
 
 Cada membro deverá adoptar, nos seus próprios territórios, todas as medidas necessárias para introduzir na sua própria legislação os princípios prescritos neste artigo, e informará o Fundo, em pormenor, das medidas que tiver adoptado.
 
-ARTIGO X
-
-Relações com outras organizações internacionais
+###### ARTIGO X — Relações com outras organizações internacionais
 
 O Fundo cooperará, nos termos do presente Acordo, com todas as organizações internacionais gerais e com todas as organizações públicas internacionais que exerçam funções especializadas em sectores relacionados com o seu. Quaisquer arranjos destinados a promover essa cooperação que impliquem alteração de qualquer disposição do presente Acordo só poderão ser efectuados após a emenda do mesmo, nos termos do artigo XVII.
 
-ARTIGO XI
-
-Relações com os países não membros
+###### ARTIGO XI — Relações com os países não membros
 
 #### SECÇÃO 1 — Compromissos respeitantes às relações com os países não membros
 
@@ -545,9 +569,7 @@ Cada membro compromete-se:
 
 O direito de qualquer membro impor restrições às operações cambiais com países não membros ou com residentes nos seus territórios não será afectado por nenhuma disposição do presente Acordo, excepto se o Fundo entender que tais restrições prejudicam os interesses dos membros e são contrárias aos objectivos do Fundo.
 
-ARTIGO XII
-
-Organização e administração
+###### ARTIGO XII — Organização e administração
 
 #### SECÇÃO 1 — Estrutura do Fundo
 
@@ -665,9 +687,7 @@ entendendo-se que em nenhuma ocasião a importância líquida das compras ou das
 
 O Fundo terá o direito de, em qualquer ocasião, comunicar oficiosamente aos membros o seu parecer sobre qualquer questão suscitada no âmbito do presente Acordo. O Fundo poderá, por maioria de dois terços do total dos votos computáveis, decidir publicar um relatório dirigido a um membro, respeitante à evolução da situação monetária ou económica desse membro, que tenda a provocar directamente um sério desequilíbrio na balança internacional de pagamentos dos membros. Se o membro não tiver o direito de nomear um director executivo, poderá fazer-se representar como previsto na secção 3, (j), do presente artigo. O Fundo não publicará nenhum relatório respeitante a alterações da estrutura fundamental da organização económica dos membros.
 
-ARTIGO XIII
-
-Departamentos e depositários
+###### ARTIGO XIII — Departamentos e depositários
 
 #### SECÇÃO 1 — Local dos departamentos
 
@@ -683,9 +703,7 @@ A sede do Fundo ficará situada no território do membro que tenha a quota mais 
 
 Cada membro garantirá todos os valores do Fundo contra qualquer perda resultante de insolvência ou mora do depositário por ele designado.
 
-ARTIGO XIV
-
-Período transitório
+###### ARTIGO XIV — Período transitório
 
 #### SECÇÃO 1 — Introdução
 
@@ -707,9 +725,7 @@ Até três anos após a data em que o Fundo iniciar as suas operações, e anual
 
 Nas suas relações com os membros, o Fundo reconhecerá o facto de que o período transitório do após-guerra será um período de modificações e ajustamentos e, ao tomar decisões sobre os pedidos que lhe forem apresentados por um membro em consequência dessa situação, concederá a esse membro toda a benevolência que for razoável dispensar.
 
-ARTIGO XV
-
-Retirada
+###### ARTIGO XV — Retirada
 
 #### SECÇÃO 1 — Direito de retirada dos membros
 
@@ -727,9 +743,7 @@ Qualquer membro poderá retirar-se do Fundo, em qualquer ocasião, mediante noti
 
 Quando um membro se retirar do Fundo, terminarão as operações normais do Fundo na sua moeda, e a liquidação de todas as contas existentes entre o membro e o Fundo será realizada com brevidade razoável, por acordo entre ele e o Fundo. Se não se chegar ràpidamente a acordo, serão aplicadas as disposições do anexo D para a liquidação das contas.
 
-ARTIGO XVI
-
-Disposições de emergência
+###### ARTIGO XVI — Disposições de emergência
 
 #### SECÇÃO 1 — Suspensão temporária
 
@@ -757,9 +771,7 @@ Disposições de emergência
 
 (c) A liquidação será efectuada segundo as disposições do anexo E.
 
-ARTIGO XVII
-
-Emendas
+###### ARTIGO XVII — Emendas
 
 (a) Qualquer proposta de alteração do presente Acordo, quer seja feita por um membro, por um governador ou pelos directores executivos, será comunicada ao presidente do conselho de governadores, que a apresentará ao conselho. Se a emenda proposta for aprovada pelo conselho, o Fundo deverá, por carta-circular ou telegrama, perguntar a todos os membros se aceitam a emenda proposta. Desde que três quintos dos membros, dispondo de quatro quintos do total dos votos computáveis, aceitem a emenda proposta, o Fundo confirmará o facto por uma comunicação formal dirigida a todos os membros.
 
@@ -773,9 +785,7 @@ Emendas
 
 (c) As emendas entrarão em vigor para todos os membros três meses depois da data da comunicação formal, excepto se na carta-circular ou telegrama se fixar um prazo mais curto.
 
-ARTIGO XVIII
-
-Interpretação
+###### ARTIGO XVIII — Interpretação
 
 (a) Qualquer questão de interpretação das disposições do presente Acordo quer surgir entre qualquer membro e o Fundo ou entre quaisquer membros do Fundo será submetida à decisão dos directores executivos. Se a questão afectar especialmente um membro que não possua o direito de nomear um director executivo, ele terá o direito de fazer-se representar de harmonia com o artigo XII, secção 3, (j).
 
@@ -783,9 +793,7 @@ Interpretação
 
 (c) Sempre que surja desacordo entre o Fundo e um membro que se retirou ou entre o Fundo e qualquer membro durante a liquidação do Fundo, esse desacordo será submetido à arbitragem de um tribunal constituído por três árbitros, um nomeado pelo Fundo, outro pelo membro ou pelo membro demissionário e um árbitro de desempate nomeado, salvo acordo em contrário entre as partes, pelo presidente do Tribunal Permanente de Justiça Internacional ou qualquer outra autoridade indicada por regulamento adoptado pelo Fundo. O árbitro de desempate terá plenos poderes para resolver todas as questões de processo em qualquer caso em que as partes estiverem em desacordo a tal respeito.
 
-ARTIGO XIX
-
-Definições
+###### ARTIGO XIX — Definições
 
 Na interpretação das disposições do presente Acordo, o Fundo e os seus membros serão orientados pelo seguinte:
 
@@ -817,9 +825,7 @@ Na interpretação das disposições do presente Acordo, o Fundo e os seus membr
 
 O Fundo poderá, após consulta aos membros interessados, decidir se determinadas operações deverão ser consideradas como transacções correntes ou como operações de capital.
 
-ARTIGO XX
-
-Disposições finais
+###### ARTIGO XX — Disposições finais
 
 #### SECÇÃO 1 — Entrada em vigor
 

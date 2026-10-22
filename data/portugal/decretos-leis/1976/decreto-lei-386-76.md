@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4275bb3cc2f25161dd71fe5ab35cf7df01a9dfe6f12e1300fb0257f3b1fd4dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e1d05b09548a553fca7d852c48a57cc74b88fa3db6bbe9b38b68994b5a4a686
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Funcionário Ultramarino
+- Gestão de Recursos Humanos
+- Guarda Fiscal
+- Integração de Trabalhadores
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364167:por
+  label: "Alterada a tabela de equivalências a que se refere o artigo 7.º do presente diploma, pelo DEC LEI.424/79.24.10.1979.MF,\
+    \ DR.IS [246] de 24.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/424-1979-364167
+  date: '1979-10-24'
+- type: amended_by
+  target: pt:dre:600513:por
+  label: "Alterados os artigos 9.º, 10.º e 11.º pelo DEC LEI.40/82.06.02.1982.MFP, DR.IS [31] de 06.02.1982, e o quadro a\
+    \ que alude o n.º 1 do artigo 1.º passa a ter as categorias e efectivos constantes do mapa I anexo do citado diploma \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1982-600513
+  date: '1982-02-06'
+- type: amended_by
+  target: pt:dre:310981:por
+  label: "Aditado um n.º 8 ao artigo 3.º pelo DEC LEI.70/83.07.02.1983.MFP, DR.IS [31] de 07.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1983-310981
+  date: '1983-02-07'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177446:por
+  label: Revogado, no que respeita a oficiais, pelo DEC LEI.374/85.20.09.1985.MFP, DR.IS [217] de 20.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1985-177446
+  date: '1985-09-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:18Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +140,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Quadro paralelo da Guarda Fiscal)
 
@@ -115,7 +154,7 @@ a) Inexistência de efectivos susceptíveis de nele ingressarem;
 
 b) Inexistência de elementos no quadro paralelo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Alteração à estrutura do quadro paralelo)
 
@@ -125,7 +164,7 @@ b) Inexistência de elementos no quadro paralelo.
 
 3. Os agentes que se encontrarem nas condições definidas na parte final do número anterior terão prioridade no preenchimento das vagas que se verificarem em cada uma das categorias previstas no mapa I, de harmonia com a antiguidade na respectiva categoria.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Requisitos para ingresso no quadro paralelo)
 
@@ -155,7 +194,7 @@ b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoa
 
 7. Poderão igualmente requerer o ingresso no mesmo quadro os oficiais do Exército do quadro de complemento da Polícia de Segurança Pública dos territórios descolonizados oriundos das extintas guardas fiscais dos respectivos territórios.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Cursos a promover pelo Centro de Instrução da Guarda Fiscal)
 
@@ -163,7 +202,7 @@ b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoa
 
 2. Os programas, regime de funcionamento e duração das acções de formação serão estabelecidos por despacho do comandante-geral da Guarda Fiscal.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Falta de apresentação da certidão de habilitações e de aproveitameno ou recusa à frequência das acções de formação)
 
@@ -173,7 +212,7 @@ b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoa
 
 3. A recusa à frequência das acções de formação, a promover pela Guarda Fiscal nos termos do artigo anterior, equivale, para todos os efeitos, à falta de aproveitamento, salvo razões ponderosas devidamente comprovadas e aceites.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (verificação de requisitos para ingresso)
 
@@ -181,7 +220,7 @@ b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoa
 
 2. Para os elementos que já tenham sido admitidos no quadro mencionado no número anterior à data da publicação do presente diploma é concedido o prazo de dois meses, a partir dessa data, para comprovação documental dos mesmos requisitos.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Integração no quadro paralelo da Guarda Fiscal)
 
@@ -189,7 +228,7 @@ b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoa
 
 2. A tabela de equivalências referida no número anterior aplicar-se-á também aos elementos que se encontram na situação de destacamento, enquanto durar esta situação.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Processo de integração e destacamento no quadro paralelo)
 
@@ -197,7 +236,7 @@ b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoa
 
 2. O destacamento previsto no n.º 5 do artigo 3.º far-se-á por despacho do membro do Governo que superintender no quadro geral de adidos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Promoções no quadro paralelo)
 
@@ -207,25 +246,25 @@ b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoa
 
 3. Para efeitos de promoção, a antiguidade dos agentes a que se reporta a alínea b) do n.º 3 do artigo 3.º contar-se-á a partir da data da aprovação das respectivas acções de formação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Antiguidade dos agentes do quadro paralelo)
 
 Para efeitos de integração funcional e promoção, a antiguidade dos agentes da Guarda Fiscal dos territórios descolonizados que vierem a integrar o quadro paralelo criado pelo presente diploma será definida por despacho do Ministro das Finanças, sob proposta do comandante-geral da Guarda Fiscal.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Transição do quadro paralelo para o quadro privativo da Guarda Fiscal)
 
 Mediante despacho do Ministro das Finanças, sob proposta do comandante-geral da Guarda Fiscal, os agentes do quadro paralelo da Guarda Fiscal deverão ser integrados em vagas do quadro privativo daquela corporação, desde que se trate de lugares criados por virtude da sua reorganização ou de simples aumento do número de lugares do respectivo quadro de pessoal, numa proporcionalidade relativa aos dois quadros, e salvaguardada que seja a situação dos agentes do quadro privativo.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Disposições aplicáveis ao pessoal do quadro paralelo)
 
 Ao pessoal do quadro paralelo serão aplicáveis, com as necessárias adaptações, todas as disposições vigentes para o pessoal do quadro privativo, desde que não contrariem o disposto no presente diploma.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Providências orçamentais)
 
@@ -233,13 +272,13 @@ Ao pessoal do quadro paralelo serão aplicáveis, com as necessárias adaptaçõ
 
 2. O Ministério das Finanças adoptará ainda outras providências necessárias à boa execução do presente diploma, incluindo as alterações ao orçamento da Guarda Fiscal que, para o efeito, se tornem indispensáveis.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Dúvidas e omissões)
 
 As dúvidas ou casos omissos do presente diploma serão resolvidos mediante despacho dos Ministros da Administração Interna, das Finanças e da Cooperação, de harmonia com as respectivas competências.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Entrada em vigor do presente diploma)
 
@@ -247,22 +286,22 @@ Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 13 de Maio de 1976.**
+Promulgado em 13 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 MAPA I
 
 Pessoal do quadro paralelo da Guarda Fiscal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf)
 
 MAPA II
 
 Tabela de equivalências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf)
 
-**O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.

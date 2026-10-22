@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 026a3d9af6286a71d25d72a9464ed26b94a989696f490be8f324a8d9b20090ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87489d0c295cfdd852e7f860bbb52f265df44965f0eca800776ed78a0f813d88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Aposentações
+- Conselho Administrativo
+- Definição de Competências
+- Direção
+- Emissora Nacional
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:632248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632248:por
+  label: "Alterado o quadro geral anexo pelo DEC LEI.558/71.17.12.1971.PC, DG.IS [294] de 17.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/558-1971-632248
+  date: '1971-12-17'
+- type: cites
+  target: pt:dre:152906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:29Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +147,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Emissora Nacional terá uma direcção, composta por um presidente, com a categoria de director-geral, e pelos três directores dos serviços, todos de livre escolha do Governo.
+Artigo 1.º A Emissora Nacional terá uma direcção, composta por um presidente, com a categoria de director-geral, e pelos três directores dos serviços, todos de livre escolha do Governo.
 
-###### Art. 2.º O presidente da direcção será nomeado em comissão de serviço pelo período de três anos, sempre renovável, podendo, no entanto, essa nomeação tornar-se definitiva em qualquer altura, depois de findo o primeiro período de comissão.
+Art. 2.º O presidente da direcção será nomeado em comissão de serviço pelo período de três anos, sempre renovável, podendo, no entanto, essa nomeação tornar-se definitiva em qualquer altura, depois de findo o primeiro período de comissão.
 
 § 1.º Quando a escolha do presidente da direcção recair em funcionário público de nomeação vitalícia, a comissão será por prazo indeterminado, mantendo aquele o direito ao antigo cargo, que, no entanto, poderá ser interinamente provido.
 
 § 2.º A comissão por prazo indeterminado não exclui a possibilidade de a nomeação se tornar vitalícia depois de decorrido o período de um ano.
 
-###### Art. 3.º Os serviços da Emissora Nacional compreendem:
+Art. 3.º Os serviços da Emissora Nacional compreendem:
 
 1.º A Inspecção e o Gabinete de Relações Públicas e Analise de Programas, que ficam na imediata dependência do presidente da direcção;
 
@@ -121,47 +167,47 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. A Divisão dos Serviços Administrativos comprenderá três repartições: Serviços Gerais, Licenciamento, Transgressões e Execuções. A Divisão dos Serviços Financeiros compreenderá duas repartições: Contabilidade e Património.
 
-###### Art. 4.º O conselho administrativo será composto pelo director dos Serviços Administrativos e Financeiros, que presidirá, e pelos dois chefes de divisão da mesma Direcção de Serviços.
+Art. 4.º O conselho administrativo será composto pelo director dos Serviços Administrativos e Financeiros, que presidirá, e pelos dois chefes de divisão da mesma Direcção de Serviços.
 
-###### Art. 5.º O quadro do pessoal permanente da Emissora Nacional, anexo ao [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), é substituído pelo quadro anexo ao presente diploma, que dele faz parte integrante, devendo observar-se, quanto à sua entrada em vigor, o disposto no artigo 16.º
+Art. 5.º O quadro do pessoal permanente da Emissora Nacional, anexo ao [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), é substituído pelo quadro anexo ao presente diploma, que dele faz parte integrante, devendo observar-se, quanto à sua entrada em vigor, o disposto no artigo 16.º
 
-###### Art. 6.º O modo de recrutamento e provimento do pessoal, as habilitações exigidas para cada categoria, o regime de promoções, de concursos e de estágios e o regime de prestação de serviços nos programas, pelo pessoal, quando for de admitir, serão livremente fixados em regulamento.
+Art. 6.º O modo de recrutamento e provimento do pessoal, as habilitações exigidas para cada categoria, o regime de promoções, de concursos e de estágios e o regime de prestação de serviços nos programas, pelo pessoal, quando for de admitir, serão livremente fixados em regulamento.
 
-###### Art. 7.º Ao pessoal da Emissora Nacional serão atribuídos os vencimentos, gratificações e abonos constantes do quadro geral a que se refere o artigo 5.º
+Art. 7.º Ao pessoal da Emissora Nacional serão atribuídos os vencimentos, gratificações e abonos constantes do quadro geral a que se refere o artigo 5.º
 
 § único. Os vencimentos e remunerações do pessoal admitido nos termos do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957, não poderão exceder os vencimentos do pessoal do quadro da categoria correspondente ou daqueles a que, por despacho ministerial, as categorias não existentes no quadro forem equiparadas.
 
-###### Art. 8.º Aos funcionários que cumulativamente com o serviço normal exercerem as funções de encarregados dos cursos de aperfeiçoamento profissional, aos chefes das brigadas de fiscalização e outros funcionários encarregados destas funções, aos funcionários técnicos colocados em serviços de montagem, exploração e manutenção de emissores e aos funcionários designados para dirigir os turnos dos noticiários ou quaisquer outros serviços de responsabilidade fora das atribuições normais do cargo poderá ser atribuída uma gratificação mensal fixada por despacho ministerial, ouvido o Ministro das Finanças.
+Art. 8.º Aos funcionários que cumulativamente com o serviço normal exercerem as funções de encarregados dos cursos de aperfeiçoamento profissional, aos chefes das brigadas de fiscalização e outros funcionários encarregados destas funções, aos funcionários técnicos colocados em serviços de montagem, exploração e manutenção de emissores e aos funcionários designados para dirigir os turnos dos noticiários ou quaisquer outros serviços de responsabilidade fora das atribuições normais do cargo poderá ser atribuída uma gratificação mensal fixada por despacho ministerial, ouvido o Ministro das Finanças.
 
-###### Art. 9.º Além das hipóteses previstas no artigo 30.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), caberá também à Emissora Nacional liquidar os encargos provenientes da alimentação fornecida ao pessoal que sem direito a ajudas de custo preste serviço em centros emissores distantes de aglomerados populacionais.
+Art. 9.º Além das hipóteses previstas no artigo 30.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), caberá também à Emissora Nacional liquidar os encargos provenientes da alimentação fornecida ao pessoal que sem direito a ajudas de custo preste serviço em centros emissores distantes de aglomerados populacionais.
 
 Pode também a Emissora Nacional criar e manter as obras de carácter social que forem estabelecidas em regulamento aprovado por despacho ministerial.
 
-###### Art. 10.º A admissão de pessoal nos termos e condições previstos no artigo 19.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) poderá ser feita não só para a execução de serviços exigidos pelo cumprimento das missões referidas no artigo 8.º do mesmo decreto-lei, como também para assegurar todo o serviço informativo e de reportagens para a metrópole, ultramar e estrangeiro, quando não seja possível nem conveniente utilizar para tal serviço pessoal do quadro permanente ou eventual.
+Art. 10.º A admissão de pessoal nos termos e condições previstos no artigo 19.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) poderá ser feita não só para a execução de serviços exigidos pelo cumprimento das missões referidas no artigo 8.º do mesmo decreto-lei, como também para assegurar todo o serviço informativo e de reportagens para a metrópole, ultramar e estrangeiro, quando não seja possível nem conveniente utilizar para tal serviço pessoal do quadro permanente ou eventual.
 
-###### Art. 11.º Sempre que haja conveniência em designar funcionários do quadro para o preenchimento de lugares pertencentes a novos serviços criados ao abrigo do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), far-se-á o seu provimento em comissão de serviço por prazo indeterminado, mantendo os funcionários o direito aos respectivos lugares no quadro, que, no entanto, poderão ser interinamente providos.
+Art. 11.º Sempre que haja conveniência em designar funcionários do quadro para o preenchimento de lugares pertencentes a novos serviços criados ao abrigo do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), far-se-á o seu provimento em comissão de serviço por prazo indeterminado, mantendo os funcionários o direito aos respectivos lugares no quadro, que, no entanto, poderão ser interinamente providos.
 
-###### Art. 12.º Os candidatos aprovados em concurso para qualquer categoria do quadro geral poderão ser contratados, independentemente do limite da idade estabelecido, desde que os provimentos se façam dentro do prazo de validade dos respectivos concursos.
+Art. 12.º Os candidatos aprovados em concurso para qualquer categoria do quadro geral poderão ser contratados, independentemente do limite da idade estabelecido, desde que os provimentos se façam dentro do prazo de validade dos respectivos concursos.
 
-###### Art. 13.º A Emissora Nacional poderá ser incumbida de exercer, no todo ou em parte, as funções referidas no n.º 13.º do artigo 3.º e no artigo 16.º do [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944.
+Art. 13.º A Emissora Nacional poderá ser incumbida de exercer, no todo ou em parte, as funções referidas no n.º 13.º do artigo 3.º e no artigo 16.º do [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944.
 
-###### Art. 14.º A Emissora Nacional publicará no Diário do Governo, depois de aprovada por despacho ministerial, a relação do pessoal actualmente existente no quadro permanente, do contratado nos termos do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) e do admitido há mais de cinco anos e com boas informações de serviço ao abrigo do artigo 19.º do mesmo diploma, indicando-se na referida relação os correspondentes lugares e situações em que todo esse pessoal fica provido no novo quadro.
+Art. 14.º A Emissora Nacional publicará no Diário do Governo, depois de aprovada por despacho ministerial, a relação do pessoal actualmente existente no quadro permanente, do contratado nos termos do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) e do admitido há mais de cinco anos e com boas informações de serviço ao abrigo do artigo 19.º do mesmo diploma, indicando-se na referida relação os correspondentes lugares e situações em que todo esse pessoal fica provido no novo quadro.
 
 § 1.º A colocação do pessoal no quadro permanente e o abono dos respectivos vencimentos não dependem de visto do Tribunal de Contas.
 
 § 2.º O tempo de serviço prestado por todo o pessoal nas situações donde transite para o novo quadro será contado, para todos os efeitos legais, qualquer que tenha sido a forma de provimento, devendo observar-se quanto a aposentações o disposto no artigo seguinte.
 
-###### Art. 15.º Ao pessoal da Emissora Nacional inscrito na Caixa Geral de Aposentações será levado em conta para efeitos de aposentação todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+Art. 15.º Ao pessoal da Emissora Nacional inscrito na Caixa Geral de Aposentações será levado em conta para efeitos de aposentação todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
 
 § único. É concedido o prazo de 180 dias, contado a partir da publicação deste decreto-lei, a todo o pessoal cujo direito à aposentação desde a data em que começou a prestar serviço ao Estado se confere pelo presente diploma para requerer, querendo, a contagem de todo o tempo de serviço já prestado ao Estado em qualquer situação. Os pedidos de contagem serão dirigidos à Caixa Geral de Aposentações e instruídos com os documentos comprovativos.
 
-###### Art. 16.º O novo quadro do pessoal entrará em vigor à medida que as dotações correspondentes aos respectivos vencimentos e demais remunerações forem inscritas no orçamento da Emissora Nacional.
+Art. 16.º O novo quadro do pessoal entrará em vigor à medida que as dotações correspondentes aos respectivos vencimentos e demais remunerações forem inscritas no orçamento da Emissora Nacional.
 
-###### Art. 17.º Sempre que no [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) haja referências à Repartição de Programação entende-se que tal Repartição é a de Coordenação e Condução de Programas.
+Art. 17.º Sempre que no [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) haja referências à Repartição de Programação entende-se que tal Repartição é a de Coordenação e Condução de Programas.
 
-###### Art. 18.º São revogados os artigos 9.º, 12.º, 14.º, 20.º e 25.º, bem como o § 1.º do artigo 10.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232).
+Art. 18.º São revogados os artigos 9.º, 12.º, 14.º, 20.º e 25.º, bem como o § 1.º do artigo 10.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -169,6 +215,6 @@ Para ser presente à Assembleia Nacional.
 
 Quadro geral do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/12/28000/16501652.pdf))](https://files.diariodarepublica.pt/1s/1965/12/28000/16501652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/12/28000/16501652.pdf)
 
 Presidência do Conselho, 11 de Dezembro de 1965. - O Presidente do Conselho, António de Oliveira Salazar.

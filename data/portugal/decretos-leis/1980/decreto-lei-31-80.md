@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1980-678793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f12fc4835c1c860bb2f1ce934a00efe306cb08eaf710ff9144d9ff972c49e1f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aa5a17b5fafdcb70892b89f545455034619727f882c1680cd6f8382cd588f14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Expropriação
+- Indemnização
+- Nacionalização
+relationships:
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382181:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:44Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +105,20 @@ Esta circunstância aconselha a que, nos casos em que os beneficiários sejam ci
 
 Assim, tendo em conta o disposto no n.º 1 do artigo 39.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pagamento das indemnizações devidas pela nacionalização ou expropriação de bens ou direitos a que se refere a [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, quando os respectivos titulares na data da nacionalização ou expropriação fossem pessoas singulares e colectivas de nacionalidade estrangeira efectuar-se-á através da entrega de títulos do Tesouro, emitidos nos termos do [Decreto-Lei n.º 213/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1979-382181), de 14 de Julho.
+Artigo 1.º O pagamento das indemnizações devidas pela nacionalização ou expropriação de bens ou direitos a que se refere a [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, quando os respectivos titulares na data da nacionalização ou expropriação fossem pessoas singulares e colectivas de nacionalidade estrangeira efectuar-se-á através da entrega de títulos do Tesouro, emitidos nos termos do [Decreto-Lei n.º 213/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1979-382181), de 14 de Julho.
 
-###### Art. 2.º Quando os ex-titulares de bens ou direitos nacionalizados ou expropriados sejam pessoas singulares ou colectivas de nacionalidade estrangeira e aqueles bens ou direitos tenham sido adquiridos com capitais legalmente importados ou resultado do reinvestimento dos rendimentos por estes gerados, devidamente autorizado pelo Banco de Portugal antes da data da nacionalização ou expropriação, poderá o Ministro das Finanças e do Plano determinar que o pagamento das indemnizações devidas se faça integralmente pela entrega de títulos do Tesouro pertencentes a classe diferente da prevista no artigo 19.º e no quadro anexo à [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309).
+Art. 2.º Quando os ex-titulares de bens ou direitos nacionalizados ou expropriados sejam pessoas singulares ou colectivas de nacionalidade estrangeira e aqueles bens ou direitos tenham sido adquiridos com capitais legalmente importados ou resultado do reinvestimento dos rendimentos por estes gerados, devidamente autorizado pelo Banco de Portugal antes da data da nacionalização ou expropriação, poderá o Ministro das Finanças e do Plano determinar que o pagamento das indemnizações devidas se faça integralmente pela entrega de títulos do Tesouro pertencentes a classe diferente da prevista no artigo 19.º e no quadro anexo à [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309).
 
-###### Art. 3.º - 1 - Os títulos do Tesouro que venham a ser entregues nos termos do artigo anterior poderão ser cedidos, pelo seu valor nominal, a instituições de crédito do sector público, que ficarão sub-rogadas no correspondente direito sobre o Estado.
+Art. 3.º - 1 - Os títulos do Tesouro que venham a ser entregues nos termos do artigo anterior poderão ser cedidos, pelo seu valor nominal, a instituições de crédito do sector público, que ficarão sub-rogadas no correspondente direito sobre o Estado.
 
 2 - Até à atribuição das indemnizações provisórias é igualmente possível às pessoas singulares ou colectivas de nacionalidade estrangeira que se encontrem na situação descrita no artigo 2.º ceder os seus direitos à indemnização a instituições de crédito do sector público.
 
-###### Art. 4.º Nos casos previstos nos artigos 2.º e 3.º do presente diploma é garantida a transferência para o exterior do capital e juros dos títulos do Tesouro entregues em pagamento das indemnizações, bem como do preço da cessão, a instituições de crédito do sector público, desses títulos ou do direito à indemnização.
+Art. 4.º Nos casos previstos nos artigos 2.º e 3.º do presente diploma é garantida a transferência para o exterior do capital e juros dos títulos do Tesouro entregues em pagamento das indemnizações, bem como do preço da cessão, a instituições de crédito do sector público, desses títulos ou do direito à indemnização.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1980. - Francisco Sá Carneiro - Aníbal António Cavaco Silva.
 
-**Promulgado em 23 de Fevereiro de 1980.**
+Promulgado em 23 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,201 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cecf3638f548d05d0f85a9b49b0b8b4adeccf335b053396e98567c561ec1a99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efda6980a2137709b05402ab394067a42e2a2ee98ab969413da7dc1cdfe03899
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Geral do Ultramar
+- Arquivo Histórico Ultramarino
+- Comissão Central de Nutrição
+- Conselho Superior de Disciplina do Ultramar
+- Conselho Superior de Fomento Ultramarino
+- Conselho Superior Técnico Aduaneiro
+- Conselho Ultramarino
+- Definição de Competências
+- Direcção Geral da Administração Civil
+- Direcção Geral da Educação
+- Direcção Geral da Fazenda
+- Direcção Geral das Obras Públicas e Comunicações
+- Direcção Geral de Economia
+- Direcção Geral de Justiça
+- Direcção Geral de Saúde e Assistência
+- Escola Nacional de Saúde Pública e de Medicina Tropical
+- Hospital do Ultramar
+- Instituto Superior de Ciências Sociais e Política Ultramarina
+- Instituto Ultramarino
+- Junta de Investigações do Ultramar
+- Ministério do Ultramar
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:374239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198574:por
+  label: "Alterado o quadro de pessoal da Agência Geral do Ultramar constante do mapa XIII anexo pelo DEC LEI.49202.23.08.1969.MU,\
+    \ DG.IS [197] de 23.08.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49202-1969-198574
+  date: '1969-08-23'
+- type: amended_by
+  target: pt:dre:215157:por
+  label: "Actualizada algumas categorias do quadro de pessoal da Direcção Geral de Saúde e Assistência a que se refere o mapa\
+    \ XI anexo do presente diploma pelo Dec Lei.49356.05.11.1969.MU, DG.IS [259] de 05.11.1969\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49356-1969-215157
+  date: '1969-11-05'
+- type: amended_by
+  target: pt:dre:147663:por
+  label: "Alterada a composição do Conselho Superior de Disciplina do Ultramar constante do art. 104º pelo DEC LEI.535/70.09.11.1970.MU,\
+    \ DG.IS [260] de 09.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/535-1970-147663
+  date: '1970-11-09'
+- type: amended_by
+  target: pt:dre:445475:por
+  label: "Aditado o mapa XV à Lei Orgânica do Ministério do Ultramar, aprovada pelo presente diploma, pelo DEC LEI.92/71.22.03.1971.MU,\
+    \ DG.IS [68] de 22.03.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1971-445475
+  date: '1971-03-22'
+- type: amended_by
+  target: pt:dre:679991:por
+  label: "Alterados os arts. 160º e 175º e a al. 1) do mapa VII « Pessoal e vencimentos da Direcção-Geral de Obras Públicas\
+    \ e Comunicações» anexo ao presente diploma, pelo DEC LEI.137/72.28.04.1972.MU, DG.IS [100] de 28.04.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1972-679991
+  date: '1972-04-28'
+- type: amended_by
+  target: pt:dre:691872:por
+  label: "Substituído o quadro de pessoal da Direcção-Geral de Justiça, constante do mapa X anexo ao presente diploma, pelo\
+    \ DEC LEI.371/72.02.10.1972.MU, DG.IS [230] de 02.10.1972\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1972-691872
+  date: '1972-10-02'
+- type: amended_by
+  target: pt:dre:689838:por
+  label: "Alterados os §§ 2º a 5º do art. 144º, o § único do art. 164º da orgânica do Ministério do Ultramar, assim como o\
+    \ mapa IV que lhe está anexo, pelo DEC LEI.402/72.24.10.1972.MU, DG.IS [248] de 24.10.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/402-1972-689838
+  date: '1972-10-24'
+- type: amended_by
+  target: pt:dre:674824:por
+  label: "Dada nova redacção ao § 1º e corpo do art. 129º pelo DEC LEI.125/73.24.03.1973.MU, DG.IS [71] de 24.03.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1973-674824
+  date: '1973-03-24'
+- type: amended_by
+  target: pt:dre:412604:por
+  label: "Integrado na Junta de Investigações Científicas do Ultramar, o Arquivo Histórico Ultramarino, criado pelo presente\
+    \ diploma, pelo DEC LEI.583/73.06.11.1973.MU, DG.IS [259] de 06.11.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/583-1973-412604
+  date: '1973-11-06'
+- type: amended_by
+  target: pt:dre:161091:por
+  label: "Extinta a Direcção-Geral de Justiça, pelo DEC LEI.125/75.12.03.1975.MCINT, DG.IS [60] de 12.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1975-161091
+  date: '1975-03-12'
+- type: amended_by
+  target: pt:dre:341420:por
+  label: "Dada nova redacção ao nº 10 do art. 175º pelo DEC LEI.506-A/75.18.09.1975.PCM, DG.IS [216-Supl] de 18.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/506-a-1975-341420
+  date: '1975-09-18'
+- type: amended_by
+  target: pt:dre:253427:por
+  label: "Extinto o Conselho Superior de Disciplina do Ultramar no âmbito do Ministério do Ultramar ,pelo DEC LEI.248/77.14.06.1977.MAI,\
+    \ DR.IS [135] de 14.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-1977-253427
+  date: '1977-06-14'
+- type: amended_by
+  target: pt:dre:276608:por
+  label: "Extintos o Conselho Superior Técnico Aduaneiro do Ultramar e a Inspecção Superior das Alfândegas pelo DEC LEI.539/77.31.12.1977.PCM,\
+    \ DR.IS [302] de 31.12.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/539-1977-276608
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:382656:por
+  label: "Extinto o Gabinete Militar e de Marinha referido no n.º 1 do artigo 5.º do presente diploma, pelo DEC LEI.90/79.19.04.1979.PCM,\
+    \ DR.IS [91] de 19.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1979-382656
+  date: '1979-04-19'
+- type: amended_by
+  target: pt:dre:369823:por
+  label: "Determinado que serão extintas, nos termos do art. 21º, as Direcções-Gerais da Administração Civil, de Fazenda e\
+    \ da Educação, referidas no presente diploma pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
+- type: amended_by
+  target: pt:dre:231293:por
+  label: "Extintas a Direcção-Geral da Administração Civil, a Direcção-Geral da Fazenda e a Direcção-Geral da Educação, no\
+    \ âmbito do ex-Ministério do Ultramar, a que se referem respectivamente os nºs 3, 4 e 6 do art. 5º da orgânica deste ministério,\
+    \ aprovada no presente diploma, pelo DR.81/79.31.12.1979.PCM, DR.IS [300-7.º Supl] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-1979-231293
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:508610:por
+  label: Substituídos os quadros de pessoal da Direcção-Geral de Administração Civil, da Direcção-Geral de Fazenda e da Direcção-Geral
+    de Educação pelo(a) Portaria n.º 26-B/80 - Diário da República n.º 7/1980, 2º Suplemento, Série I de 1980-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-b-1980-508610
+  date: '1980-01-09'
+- type: amended_by
+  target: pt:dre:374239:por
+  label: "Substituído o quadro de pessoal da Direcção-Geral da Economia (na redacção do art. 3.º do Dec Lei 49356, de 05-Nov\
+    \ 1969), constante do mapa VI, e do Gabinete de Planeamento e Integração Económica, constante da al. E) do mapa I, ambos\
+    \ anexos ao presente diploma, pela PORT.849/82.07.09.1982.MFP, DR.IS [207] de 07.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/849-1982-374239
+  date: '1982-09-07'
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:315113:por
+  label: "Rectificado o art. 70º. o nº3 do art. 132º, o § único do art. 142º, o art. 162º, o nº10 do art. 175º, os nºs 5 e\
+    \ 7 do § único do art. 180º e o art. 206º do presente diploma, pela RECT.DD541.21.08.1967.PC, DG.IS [194] de 21.08.1967\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-315113
+  date: '1967-08-21'
+- type: repealed_by
+  target: pt:dre:476326:por
+  label: "Revogado o art. 90º pelo DEC LEI.311/74.09.07.1974.MCINT, DG.IS [158] de 09.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1974-476326
+  date: '1974-07-09'
+- type: repealed_by
+  target: pt:dre:468065:por
+  label: "Revogado o art. 203º pelo DEC LEI.728/74.19.12.1974.MCINT, DG.IS [295] de 19.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/728-1974-468065
+  date: '1974-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 51
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:23Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +267,21 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º O Ministério do Ultramar é a Secretaria de Estado que se destina ao estudo, à resolução e ao expediente dos assuntos que, nos termos da lei, são da competência do Ministro do Ultramar.
+Artigo 1.º O Ministério do Ultramar é a Secretaria de Estado que se destina ao estudo, à resolução e ao expediente dos assuntos que, nos termos da lei, são da competência do Ministro do Ultramar.
 
-###### Art. 2.º O Ministro é coadjuvado pelos Subsecretários de Estado, aos quais compete decidir, nos termos da delegação que lhes for dada e de acordo com a orientação do Ministro, os assuntos da competência executiva deste.
+Art. 2.º O Ministro é coadjuvado pelos Subsecretários de Estado, aos quais compete decidir, nos termos da delegação que lhes for dada e de acordo com a orientação do Ministro, os assuntos da competência executiva deste.
 
 § único. Sempre que a lei se refira à competência executiva do Ministro, subentender-se-á citada também a dos Subsecretários de Estado, dentro dos limites marcados no corpo do artigo. Das decisões destes cabe directamente recurso contencioso.
 
-###### Art. 3.º Normalmente uma vez por mês e sempre que o entender conveniente, o Ministro reunirá os directores-gerais e os funcionários a quem a lei dê competência correspondente à daqueles, com o fim de assegurar a coordenação dos problemas que correm pelos vários serviços e apreciar as alterações a introduzir na orgânica do Ministério. Poderão ainda ser convocados para as reuniões funcionários de outras categorias com especial qualificação sobre os assuntos a tratar.
+Art. 3.º Normalmente uma vez por mês e sempre que o entender conveniente, o Ministro reunirá os directores-gerais e os funcionários a quem a lei dê competência correspondente à daqueles, com o fim de assegurar a coordenação dos problemas que correm pelos vários serviços e apreciar as alterações a introduzir na orgânica do Ministério. Poderão ainda ser convocados para as reuniões funcionários de outras categorias com especial qualificação sobre os assuntos a tratar.
 
 § 1.º Presidirá às reuniões o Ministro ou um dos Subsecretários de Estado, podendo a presidência ser delegada no secretário-geral do Ministério.
 
 § 2.º Servirá de secretário das reuniões o chefe da Repartição da Secretaria-Geral. De cada reunião será lavrada acta.
 
-###### Art. 4.º O Ministério do Ultramar compreende serviços centrais, organismos consultivos próprios, contenciosos e técnicos e organismos dependentes.
+Art. 4.º O Ministério do Ultramar compreende serviços centrais, organismos consultivos próprios, contenciosos e técnicos e organismos dependentes.
 
-###### Art. 5.º São serviços centrais:
+Art. 5.º São serviços centrais:
 
 1. O Gabinete do Ministro e serviços anexos (Gabinete Militar e de Marinha, Gabinete dos Negócios Políticos e Gabinete de Planeamento e Integração Económica);
 
@@ -142,7 +303,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 2.º Consideram-se integrados nos respectivos serviços os inspectores superiores e inspectores dos correspondentes ramos da Administração não subordinados a inspecções superiores autónomas.
 
-###### Art. 6.º São organismos consultivos próprios, contenciosos e técnicos, de carácter permanente:
+Art. 6.º São organismos consultivos próprios, contenciosos e técnicos, de carácter permanente:
 
 1. O Conselho Ultramarino;
 
@@ -158,7 +319,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 2. A Conferência Económica do Ultramar.
 
-###### Art. 7.º São organismos dependentes:
+Art. 7.º São organismos dependentes:
 
 1. A Agência-Geral do Ultramar;
 
@@ -178,7 +339,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § único. O Instituto Superior de Ciências Sociais e Política Ultramarina depende do Ministério do Ultramar no aspecto administrativo; a Escola Nacional de Saúde Pública e de Medicina Tropical tem, em relação ao Ministério do Ultramar, a dependência fixada na lei.
 
-###### Art. 8.º As direcções-gerais têm, em regra, funções de estudo e de execução dos assuntos das suas atribuições, de coordenação e de orientação dos correspondentes serviços ultramarinos e de execução das determinações do Ministro.
+Art. 8.º As direcções-gerais têm, em regra, funções de estudo e de execução dos assuntos das suas atribuições, de coordenação e de orientação dos correspondentes serviços ultramarinos e de execução das determinações do Ministro.
 
 § 1.º As direcções de serviços, as repartições e as secções constituem unidades burocráticas destinadas a permitir conveniente especialização dentro das atribuições das respectivas direcções-gerais.
 
@@ -192,9 +353,9 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 ##### SUBSECÇÃO I — Do Gabinete do Ministro
 
-###### Art. 9.º O Gabinete do Ministro compõe-se do chefe do Gabinete, secretário e oficial às ordens e dos secretários dos Subsecretários de Estado.
+Art. 9.º O Gabinete do Ministro compõe-se do chefe do Gabinete, secretário e oficial às ordens e dos secretários dos Subsecretários de Estado.
 
-###### Art. 10.º O serviço de secretaria do Gabinete do Ministro é assegurado por uma repartição, à qual incumbe, em especial:
+Art. 10.º O serviço de secretaria do Gabinete do Ministro é assegurado por uma repartição, à qual incumbe, em especial:
 
 1. A coordenação dos elementos de estudo ou de informação de que o Ministro carecer, sempre que este entenda que tais assuntos não devem correr pelas direcções-gerais ou outros serviços do Ministério;
 
@@ -216,13 +377,13 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 ##### SUBSECÇÃO II — Do Gabinete Militar e de Marinha
 
-###### Art. 11.º O Gabinete Militar e de Marinha tem a seu cargo os assuntos de natureza militar e de marinha relativos às províncias ultramarinas, na parte em que neles superintenda o Ministro do Ultramar, incumbindo-lhe, de uma forma geral, manter a ligação entre as referidas províncias e os Ministérios militares e outros serviços militares ou civis que interessem ao desempenho das suas atribuições e promover a coordenação interprovincial e com a metrópole em todas as questões da sua especialidade.
+Art. 11.º O Gabinete Militar e de Marinha tem a seu cargo os assuntos de natureza militar e de marinha relativos às províncias ultramarinas, na parte em que neles superintenda o Ministro do Ultramar, incumbindo-lhe, de uma forma geral, manter a ligação entre as referidas províncias e os Ministérios militares e outros serviços militares ou civis que interessem ao desempenho das suas atribuições e promover a coordenação interprovincial e com a metrópole em todas as questões da sua especialidade.
 
-###### Art. 12.º O Gabinete Militar e de Marinha compreende os serviços militares e os serviços de marinha.
+Art. 12.º O Gabinete Militar e de Marinha compreende os serviços militares e os serviços de marinha.
 
 § único. Os serviços militares e os serviços de marinha são chefiados, respectivamente, por um oficial superior do Exército ou da Aeronáutica e por um oficial superior da Armada, que se substituirão mùtuamente nas suas faltas ou impedimentos.
 
-###### Art. 13.º Aos serviços militares incumbe, em especial:
+Art. 13.º Aos serviços militares incumbe, em especial:
 
 1. Passar licenças de importação e embarque de armas, munições e explosivos destinados a organismos públicos, ao comércio ou a particulares;
 
@@ -234,7 +395,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 5. Assegurar o expediente de todos os assuntos respeitantes a militares dos extintos quadros das forças ultramarinas.
 
-###### Art. 14.º Aos serviços de marinha incumbe, em especial:
+Art. 14.º Aos serviços de marinha incumbe, em especial:
 
 1. Assegurar o expediente relativo a requisições ao Ministério da Marinha e respectivas nomeações de todo o pessoal militar da Armada para o preenchimento de lugares dos serviços de marinha das províncias ultramarinas, liquidação dos seus vencimentos, ajudas de custo, pensões e outros abonos;
 
@@ -244,15 +405,15 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 4. Incumbir-se do que for necessário para a aquisição, construção ou reparação de navios ou embarcações ou de outros materiais destinados aos serviços de marinha das províncias ultramarinas.
 
-###### Art. 15.º Os oficiais, sargentos e praças em serviço no Gabinete Militar e de Marinha têm direito aos subsídios fixados no mapa I anexo a este diploma. Os subsídios serão mandados abonar por despacho do Ministro e durante o tempo que este achar conveniente. Os oficiais na situação de reserva ou reformados têm direito, além dos subsídios, à gratificação que para eles estiver orçamentada.
+Art. 15.º Os oficiais, sargentos e praças em serviço no Gabinete Militar e de Marinha têm direito aos subsídios fixados no mapa I anexo a este diploma. Os subsídios serão mandados abonar por despacho do Ministro e durante o tempo que este achar conveniente. Os oficiais na situação de reserva ou reformados têm direito, além dos subsídios, à gratificação que para eles estiver orçamentada.
 
 ##### SUBSECÇÃO III — Do Gabinete dos Negócios Políticos
 
-###### Art. 16.º O Gabinete dos Negócios Políticos tem a seu cargo o estudo dos problemas da política ultramarina nos seus aspectos e implicações de ordem interna e internacional e a execução das tarefas que a este respeito lhe sejam determinadas pelo Ministro.
+Art. 16.º O Gabinete dos Negócios Políticos tem a seu cargo o estudo dos problemas da política ultramarina nos seus aspectos e implicações de ordem interna e internacional e a execução das tarefas que a este respeito lhe sejam determinadas pelo Ministro.
 
-###### Art. 17.º O Gabinete dos Negócios Políticos tem duas repartições - a dos Negócios Políticos e a das Relações Internacionais -, além de um arquivo que constitui uma secção, directamente dependente do director do Gabinete.
+Art. 17.º O Gabinete dos Negócios Políticos tem duas repartições - a dos Negócios Políticos e a das Relações Internacionais -, além de um arquivo que constitui uma secção, directamente dependente do director do Gabinete.
 
-###### Art. 18.º Pertence em especial à Repartição dos Negócios Políticos:
+Art. 18.º Pertence em especial à Repartição dos Negócios Políticos:
 
 1. A investigação e estudo dos problemas inerentes à coordenação das relações entre os vários grupos étnicos que compõem a Nação Portuguesa, dos conflitos entre o direito privado comum e os usos e costumes locais legalmente reconhecidos e da forma como são executadas as leis e instruções respeitantes aos mesmos usos e costumes;
 
@@ -262,7 +423,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 4. O estudo e informação dos assuntos referentes à situação, trânsito ou permanência de cidadãos estrangeiros nas províncias ultramarinas.
 
-###### Art. 19.º Pertence em especial à Repartição das Relações Internacionais:
+Art. 19.º Pertence em especial à Repartição das Relações Internacionais:
 
 1. Estudar a evolução do direito internacional e os seus reflexos no ultramar;
 
@@ -274,13 +435,13 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 5. Dar expediente aos assuntos respeitantes à representação consular dos países estrangeiros nas províncias ultramarinas, entrada ou sobrevoo de aeronaves e entrada de navios públicos estrangeiros e pedidos de naturalização, de acordo com o que lhe for solicitado pelos Ministérios competentes.
 
-###### Art. 20.º Três inspectores superiores e três inspectores administrativos do quadro da Inspecção Superior de Administração Ultramarina serão, por despacho do Ministro, destacados para prestar serviço no Gabinete dos Negócios Políticos por períodos de dois anos, renováveis.
+Art. 20.º Três inspectores superiores e três inspectores administrativos do quadro da Inspecção Superior de Administração Ultramarina serão, por despacho do Ministro, destacados para prestar serviço no Gabinete dos Negócios Políticos por períodos de dois anos, renováveis.
 
 § 1.º Um dos inspectores superiores a que se refere o corpo do artigo exerce as funções de director do Gabinete dos Negócios Políticos, por designação do Ministro. Nos seus impedimentos é substituído por outro inspector superior de administração ultramarina, designado para o efeito pelo Ministro ou, na falta de designação, pelo director de serviços.
 
 § 2.º O director do Gabinete dos Negócios Políticos exerce, relativamente aos serviços respectivos, funções correspondentes às de director-geral. Pelo exercício destas funções perceberá a gratificação fixada no mapa I anexo ao presente diploma.
 
-###### Art. 21.º Todos os serviços do Ministério devem prestar ao Gabinete dos Negócios Políticos os esclarecimentos ou dados de ordem estatística ou técnica que por este lhes forem solicitados para sua informação. Em regra, as informações fundamentalmente de ordem política incumbem a este Gabinete.
+Art. 21.º Todos os serviços do Ministério devem prestar ao Gabinete dos Negócios Políticos os esclarecimentos ou dados de ordem estatística ou técnica que por este lhes forem solicitados para sua informação. Em regra, as informações fundamentalmente de ordem política incumbem a este Gabinete.
 
 § 1.º Os governos ultramarinos remeterão ao Gabinete dos Negócios Políticos, pelo menos mensalmente, relatório circunstanciado sobre os problemas afectos ao mesmo Gabinete, medidas de política geral tomadas por iniciativa própria e do modo como foram executadas as determinações do Ministro do Ultramar.
 
@@ -288,7 +449,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 ##### SUBSECÇÃO IV — Do Gabinete de Planeamento e Integração Económica
 
-###### Art. 22.º O Gabinete de Planeamento e Integração Económica tem a seu cargo, sob a orientação superior do director-geral do Secretariado Técnico da Presidência do Conselho, na qualidade de director-geral do Ministério do Ultramar, a realização dos trabalhos que interessem ao planeamento do desenvolvimento económico e social nas províncias ultramarinas, aos estudos necessários à realização do processo de integração económica nacional e ao conhecimento do grau de interdependência das diversas parcelas do espaço português. Incumbe-lhe, em especial:
+Art. 22.º O Gabinete de Planeamento e Integração Económica tem a seu cargo, sob a orientação superior do director-geral do Secretariado Técnico da Presidência do Conselho, na qualidade de director-geral do Ministério do Ultramar, a realização dos trabalhos que interessem ao planeamento do desenvolvimento económico e social nas províncias ultramarinas, aos estudos necessários à realização do processo de integração económica nacional e ao conhecimento do grau de interdependência das diversas parcelas do espaço português. Incumbe-lhe, em especial:
 
 1. Dar apoio às comissões técnicas de planeamento e integração económica das províncias ultramarinas em todos os domínios das atribuições destas e, particularmente, na elaboração dos programas gerais para o seu desenvolvimento económico e social;
 
@@ -302,13 +463,13 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 6. Pronunciar-se sobre os assuntos acerca dos quais for consultado pelo Ministro e que caibam nas suas atribuições gerais.
 
-###### Art. 23.º O Gabinete de Planeamento e Integração Económica é, em regra, directamente chefiado por um inspector superior de qualquer ramo de serviços, designado pelo Ministro, ouvido o director-geral do Secretariado Técnico da Presidência do Conselho. Excepcionalmente poderá ser designado para o lugar, nas mesmas condições, outro funcionário dos quadros ultramarinos ou do Ministério do Ultramar de categoria não inferior a chefe de repartição ou equivalente.
+Art. 23.º O Gabinete de Planeamento e Integração Económica é, em regra, directamente chefiado por um inspector superior de qualquer ramo de serviços, designado pelo Ministro, ouvido o director-geral do Secretariado Técnico da Presidência do Conselho. Excepcionalmente poderá ser designado para o lugar, nas mesmas condições, outro funcionário dos quadros ultramarinos ou do Ministério do Ultramar de categoria não inferior a chefe de repartição ou equivalente.
 
 § 1.º As funções de director do Gabinete de Planeamento e Integração Económica são exercidas por períodos de dois anos, renováveis, e, pelo seu desempenho, é atribuída a gratificação mensal fixada no mapa I anexo a este diploma.
 
 § 2.º O director do Gabinete é substituído, nas suas faltas e impedimentos, pelo director de serviços.
 
-###### Art. 24.º O Gabinete de Planeamento e Integração Económica tem serviços técnicos e serviços administrativos.
+Art. 24.º O Gabinete de Planeamento e Integração Económica tem serviços técnicos e serviços administrativos.
 
 § 1.º Os serviços técnicos do Gabinete são desempenhados por técnicos destacados, por livre designação do Ministro, dos quadros técnicos da Direcção-Geral de Economia, da Direcção-Geral de Obras Públicas e Comunicações ou da Junta de Investigações do Ultramar, ouvidos os respectivos directores-gerais ou o presidente daquela Junta. Os funcionários dos serviços administrativos pertencem ao quadro de secretaria do Ministério.
 
@@ -318,15 +479,15 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 4.º Sob proposta do director-geral do Secretariado Técnico da Presidência do Conselho poderão também, quando devidamente autorizados, prestar serviço no Gabinete de Planeamento e Integração Económica funcionários destacados daquele Secretariado Técnico.
 
-###### Art. 25.º O Ministro do Ultramar, ouvido o director-geral do Secretariado Técnico da Presidência do Conselho, determinará os assuntos do Gabinete que poderão ser-lhe presentes a despacho directamente pelo respectivo director.
+Art. 25.º O Ministro do Ultramar, ouvido o director-geral do Secretariado Técnico da Presidência do Conselho, determinará os assuntos do Gabinete que poderão ser-lhe presentes a despacho directamente pelo respectivo director.
 
 #### SECÇÃO II — Da Secretaria-Geral
 
-###### Art. 26.º A Secretaria-Geral tem a seu cargo, entre outras, as atribuições de utilidade comum aos demais serviços do Ministério e as que não pertençam a outras direcções-gerais.
+Art. 26.º A Secretaria-Geral tem a seu cargo, entre outras, as atribuições de utilidade comum aos demais serviços do Ministério e as que não pertençam a outras direcções-gerais.
 
 § único. Pertence ainda à Secretaria-Geral a iniciativa e a coordenação dos trabalhos referentes à permanente actualização da orgânica do Ministério e ao funcionamento dos seus serviços, com vista ao aperfeiçoamento destes e ao melhor rendimento do seu pessoal.
 
-###### Art. 27.º A Secretaria-Geral abrange:
+Art. 27.º A Secretaria-Geral abrange:
 
 1. O Cartório Ultramarino;
 
@@ -334,7 +495,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 3. A biblioteca do Ministério.
 
-###### Art. 28.º A Secretaria-Geral é dirigida superiormente pelo secretário-geral.
+Art. 28.º A Secretaria-Geral é dirigida superiormente pelo secretário-geral.
 
 § 1.º O secretário-geral tem a categoria de director-geral, com precedência sobre os outros directores-gerais do Ministério e sobre os governadores ultramarinos, quando estes se encontrem na metrópole. É vogal nato do Conselho Ultramarino e exerce, por inerência, as funções de presidente do Conselho Superior de Disciplina do Ultramar.
 
@@ -342,7 +503,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 ##### SUBSECÇÃO I — Do Cartório Ultramarino
 
-###### Art. 29.º São atribuições do Cartório Ultramarino:
+Art. 29.º São atribuições do Cartório Ultramarino:
 
 1. Preparar os actos e contratos a que se referem o n.º 3 do § 1.º do artigo 145.º e a segunda parte do § 1.º do artigo 151.º;
 
@@ -354,7 +515,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 ##### SUBSECÇÃO II — Dos serviços gerais
 
-###### Art. 30.º São serviços gerais os incumbidos das instalações do Ministério, sua guarda e conservação, transportes automóveis, água, electricidade, combustíveis, aquecimento e refrigeração, limpeza, ascensores, telefones e de outros que lhes sejam cometidos por lei ou por determinação do Ministro, cumprindo-lhe em especial:
+Art. 30.º São serviços gerais os incumbidos das instalações do Ministério, sua guarda e conservação, transportes automóveis, água, electricidade, combustíveis, aquecimento e refrigeração, limpeza, ascensores, telefones e de outros que lhes sejam cometidos por lei ou por determinação do Ministro, cumprindo-lhe em especial:
 
 1. Assegurar a guarda e a conservação das instalações do Ministério;
 
@@ -364,11 +525,11 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 ##### SUBSECÇÃO III — Da biblioteca do Ministério e do seu gabinete orientador
 
-###### Art. 31.º A biblioteca do Ministério reúne todos os livros e colecções de legislação dos vários serviços do Ministério, excepto os volumes de legislação ou outros necessários à consulta diária dos mesmos serviços. Nela serão coleccionados também todos os livros, revistas e demais publicações que forem sendo adquiridos ou obtidos por oferta, permuta ou a outro título.
+Art. 31.º A biblioteca do Ministério reúne todos os livros e colecções de legislação dos vários serviços do Ministério, excepto os volumes de legislação ou outros necessários à consulta diária dos mesmos serviços. Nela serão coleccionados também todos os livros, revistas e demais publicações que forem sendo adquiridos ou obtidos por oferta, permuta ou a outro título.
 
 § único. Os serviços oficiais do Ministério que editem quaisquer publicações e, bem assim, os editores da metrópole e do ultramar deverão enviar à biblioteca dois exemplares das suas publicações sobre assuntos ultramarinos.
 
-###### Art. 32.º A biblioteca do Ministério funciona sob a superintendência técnica da Direcção-Geral de Educação, exercida através do director do Arquivo Histórico Ultramarino.
+Art. 32.º A biblioteca do Ministério funciona sob a superintendência técnica da Direcção-Geral de Educação, exercida através do director do Arquivo Histórico Ultramarino.
 
 § 1.º A biblioteca dispõe de um Gabinete Orientador, constituído pelo director do Arquivo Histórico Ultramarino, pelo bibliotecário e por um corpo de assessores dos vários serviços do Ministério.
 
@@ -378,29 +539,29 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 #### SECÇÃO III — Dos serviços de administração civil
 
-###### Art. 33.º Os serviços de administração civil do Ministério do Ultramar compreendem a Direcção-Geral de Administração Civil e a Inspecção Superior de Administração Ultramarina.
+Art. 33.º Os serviços de administração civil do Ministério do Ultramar compreendem a Direcção-Geral de Administração Civil e a Inspecção Superior de Administração Ultramarina.
 
 ##### SUBSECÇÃO I — Da Direcção-Geral de Administração Civil
 
-###### Art. 34.º Pela Direcção-Geral de Administração Civil corre todo o expediente relativo à administração geral do ultramar e ainda a informação e resolução das questões referentes às situações, direitos e deveres do pessoal civil ultramarino de qualquer ramo da administração pública, excepto o adstrito aos serviços militares.
+Art. 34.º Pela Direcção-Geral de Administração Civil corre todo o expediente relativo à administração geral do ultramar e ainda a informação e resolução das questões referentes às situações, direitos e deveres do pessoal civil ultramarino de qualquer ramo da administração pública, excepto o adstrito aos serviços militares.
 
-###### Art. 35.º A Direcção-Geral de Administração Civil tem três repartições: a Repartição do Pessoal Civil, a Repartição de Passagens e a Repartição de Abonos e Administração Geral.
+Art. 35.º A Direcção-Geral de Administração Civil tem três repartições: a Repartição do Pessoal Civil, a Repartição de Passagens e a Repartição de Abonos e Administração Geral.
 
-###### Art. 36.º À Repartição do Pessoal Civil pertencem todos os assuntos respeitantes à admissão do pessoal quer dos quadros do Ministério, quer dos quadros ultramarinos, quando seja da competência do Ministro, sua movimentação, situações legais, listas de antiguidade e licenças. Através desta repartição é conferida posse a todo o pessoal do Ministério e ao pessoal civil ultramarino que por lei deva tomá-la na metrópole.
+Art. 36.º À Repartição do Pessoal Civil pertencem todos os assuntos respeitantes à admissão do pessoal quer dos quadros do Ministério, quer dos quadros ultramarinos, quando seja da competência do Ministro, sua movimentação, situações legais, listas de antiguidade e licenças. Através desta repartição é conferida posse a todo o pessoal do Ministério e ao pessoal civil ultramarino que por lei deva tomá-la na metrópole.
 
-###### Art. 37.º À Repartição de Passagens pertence a informação e o expediente de todos os assuntos respeitantes a passagens e abonos correlativos e ainda o expediente quanto ao embarque de colonos.
+Art. 37.º À Repartição de Passagens pertence a informação e o expediente de todos os assuntos respeitantes a passagens e abonos correlativos e ainda o expediente quanto ao embarque de colonos.
 
-###### Art. 38.º À Repartição de Abonos e Administração Geral pertence a informação e o expediente de todos os assuntos respeitantes à administração geral do ultramar, ao repatriamento de naturais das províncias ultramarinas e os referentes a vencimentos e outros abonos, pensões de aposentação, pensões por acidente em serviço e outras, tanto do pessoal do Ministério como do pessoal ultramarino quando, neste caso, a sua concessão pertença ao Ministro. Deverá ocupar-se ainda do cadastro do pessoal civil, tanto do Ministério como dos quadros ultramarinos e do arquivo da Direcção-Geral.
+Art. 38.º À Repartição de Abonos e Administração Geral pertence a informação e o expediente de todos os assuntos respeitantes à administração geral do ultramar, ao repatriamento de naturais das províncias ultramarinas e os referentes a vencimentos e outros abonos, pensões de aposentação, pensões por acidente em serviço e outras, tanto do pessoal do Ministério como do pessoal ultramarino quando, neste caso, a sua concessão pertença ao Ministro. Deverá ocupar-se ainda do cadastro do pessoal civil, tanto do Ministério como dos quadros ultramarinos e do arquivo da Direcção-Geral.
 
 § 1.º Para efeitos do corpo do artigo consideram-se assuntos de administração geral nomeadamente os respeitantes à administração civil provincial, concessão de mercês honoríficas, aquisição ou alienação de bens do Estado, dos serviços públicos personalizados, das autarquias locais, dos organismos de coordenação económica ou de particulares, quando exijam a intervenção da Administração, armas e brasões dos municípios ultramarinos, divisão administrativa e honras e precedências.
 
 § 2.º Quando a aquisição ou alienação dos bens a que se refere o § 1.º envolva aspectos políticos, deverá ser ouvido o Gabinete dos Negócios Políticos; quando envolva aspectos militares será, em regra, ouvido o Gabinete Militar e de Marinha.
 
-###### Art. 39.º Nos seus impedimentos o director-geral pode ser substituído pelo inspector superior de administração ultramarina que o Ministro designar para o efeito ou, na falta de designação, pelo director de serviços.
+Art. 39.º Nos seus impedimentos o director-geral pode ser substituído pelo inspector superior de administração ultramarina que o Ministro designar para o efeito ou, na falta de designação, pelo director de serviços.
 
 ##### SUBSECÇÃO II — Da Inspecção Superior de Administração Ultramarina
 
-###### Art. 40.º A Inspecção Superior de Administração Ultramarina é o departamento do Ministério do Ultramar por onde deve correr o estudo dos problemas da administração provincial, nos aspectos legislativo e executivo, dos problemas corporativos, do trabalho, da previdência e da acção social e a fiscalização da forma como, no ultramar, são cumpridas as leis, os regulamentos e as determinações do Ministro.
+Art. 40.º A Inspecção Superior de Administração Ultramarina é o departamento do Ministério do Ultramar por onde deve correr o estudo dos problemas da administração provincial, nos aspectos legislativo e executivo, dos problemas corporativos, do trabalho, da previdência e da acção social e a fiscalização da forma como, no ultramar, são cumpridas as leis, os regulamentos e as determinações do Ministro.
 
 § 1.º A Inspecção Superior de Administração Ultramarina é chefiada por um inspector superior de administração ultramarina para o efeito designado pelo Ministro por períodos de dois anos, renováveis. Nas suas faltas ou impedimentos é substituído pelo inspector superior de administração ultramarina que o Ministro indicar.
 
@@ -410,7 +571,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 4.º Três inspectores superiores de administração ultramarina, livremente escolhidos pelo Ministro exercem, sem prejuízo das funções dos respectivos cargos, as de vogal do Conselho Superior de Disciplina do Ultramar por períodos de dois anos, renováveis.
 
-###### Art. 41.º Incumbe especialmente à Inspecção:
+Art. 41.º Incumbe especialmente à Inspecção:
 
 1. O estudo das linhas gerais da administração provincial, nos aspectos legislativo e executivo;
 
@@ -432,27 +593,27 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 4.º Para a revisão prevista no n.º 6 poderá a Inspecção Superior de Administração Ultramarina propor a audição das direcções-gerais do Ministério ou de outros serviços com especial idoneidade sobre a matéria dos diplomas a apreciar.
 
-###### Art. 42.º A acção fiscalizadora da Inspecção Superior de Administração Ultramarina exerce-se através dos elementos que lhe sejam enviados ou que requisite aos outros serviços ultramarinos ou do Ministério do Ultramar e às empresas ultramarinas, concessionárias ou subconcessionárias, e ainda por meio de inspecções determinadas pelo Ministro.
+Art. 42.º A acção fiscalizadora da Inspecção Superior de Administração Ultramarina exerce-se através dos elementos que lhe sejam enviados ou que requisite aos outros serviços ultramarinos ou do Ministério do Ultramar e às empresas ultramarinas, concessionárias ou subconcessionárias, e ainda por meio de inspecções determinadas pelo Ministro.
 
 § 1.º Salvo tratando-se de dados de carácter secreto, cujo fornecimento dependerá de autorização ministerial, todos os serviços do Ministério, e bem assim os governos ultramarinos e as empresas ultramarinas, concessionárias ou subconcessionárias, deverão encaminhar para a Inspecção Superior de Administração Ultramarina os elementos de informação de que disponham e que interessem ao desempenho, pela Inspecção Superior, das suas funções.
 
 § 2.º Para cumprimento das disposições desta subsecção, na parte aplicável, as relações e correspondência com as empresas concessionárias e subconcessionárias correrão apenas por intermédio da Inspecção Superior de Administração Ultramarina.
 
-###### Art. 43.º A Inspecção Superior de Administração Ultramarina dispõe de uma secretaria privativa, directamente subordinada ao inspector superior chefe.
+Art. 43.º A Inspecção Superior de Administração Ultramarina dispõe de uma secretaria privativa, directamente subordinada ao inspector superior chefe.
 
 #### SECÇÃO IV — Dos serviços de Fazenda
 
-###### Art. 44.º Os serviços de Fazenda do Ministério do Ultramar compreendem a Direcção-Geral de Fazenda e os inspectores superiores de Fazenda do ultramar.
+Art. 44.º Os serviços de Fazenda do Ministério do Ultramar compreendem a Direcção-Geral de Fazenda e os inspectores superiores de Fazenda do ultramar.
 
 ##### SUBSECÇÃO ÚNICA — Da Direcção-Geral de Fazenda
 
-###### Art. 45.º Pela Direcção-Geral de Fazenda é exercida a superintendência que ao Ministro compete sobre a administração financeira ultramarina, cumprindo-lhe ainda reunir os elementos necessários ao actualizado conhecimento da actuação dos serviços correspondentes das províncias ultramarinas, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
+Art. 45.º Pela Direcção-Geral de Fazenda é exercida a superintendência que ao Ministro compete sobre a administração financeira ultramarina, cumprindo-lhe ainda reunir os elementos necessários ao actualizado conhecimento da actuação dos serviços correspondentes das províncias ultramarinas, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
 
-###### Art. 46.º A Direcção-Geral de Fazenda dispõe de um Gabinete de Estudos Financeiros e de duas repartições: a Repartição de Fazenda e a Repartição de Contabilidade.
+Art. 46.º A Direcção-Geral de Fazenda dispõe de um Gabinete de Estudos Financeiros e de duas repartições: a Repartição de Fazenda e a Repartição de Contabilidade.
 
 § único. O expediente dos inspectores superiores de Fazenda corre pela repartição que o director-geral designar para o efeito.
 
-###### Art. 47.º À Repartição de Fazenda pertence:
+Art. 47.º À Repartição de Fazenda pertence:
 
 1. O estudo, informação e expediente de todos os assuntos respeitantes a receitas públicas, a empréstimos e outras formas de assistência financeira e ainda a planos de fomento e às grandes linhas do planeamento económico nos quais tenha de intervir por disposição legal ou por determinação do Ministro;
 
@@ -464,7 +625,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 5. O apoio à Inspecção Superior de Administração Ultramarina, quando for pedida a sua informação técnica com respeito às empresas concessionárias e subconcessionárias ultramarinas.
 
-###### Art. 48.º À Repartição de Contabilidade incumbe:
+Art. 48.º À Repartição de Contabilidade incumbe:
 
 1. Funcionar como serviço de tesouraria das províncias ultramarinas na metrópole, liquidando, cobrando e escriturando, nos termos da lei, quaisquer receitas pertencentes às mesmas províncias e que na metrópole devam ser satisfeitas, procedendo à transferência de valores e de fundos e processando, liquidando, verificando e escriturando todas as despesas variáveis e também as despesas certas que, nos termos legais ou contratuais, hajam de ser pagas na metrópole de conta das províncias ultramarinas, nomeadamente com vencimentos, pensões e outros abonos ao pessoal;
 
@@ -484,11 +645,11 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 2.º De todas as operações de fundos e de títulos realizadas na metrópole, nomeadamente com a cobrança de receitas e a efectivação de despesas de conta do ultramar e bem assim com a entrada e saída de títulos e de acções ou obrigações pertencentes às províncias ultramarinas, será remetido extracto mensal às províncias a que as operações respeitarem.
 
-###### Art. 49.º Nos seus impedimentos o director-geral pode ser substituído pelo inspector superior de Fazenda que o Ministro designar ou, na falta de designação, pelo director de serviços.
+Art. 49.º Nos seus impedimentos o director-geral pode ser substituído pelo inspector superior de Fazenda que o Ministro designar ou, na falta de designação, pelo director de serviços.
 
 ##### DIVISÃO ÚNICA — Do Gabinete de Estudos Financeiros
 
-###### Art. 50.º O Gabinete de Estudos Financeiros é o departamento por onde correm os assuntos que legalmente lhe forem atribuídos e os que lhe forem entregues pelo Ministro ou pelo director-geral. Incumbe-lhe, nomeadamente:
+Art. 50.º O Gabinete de Estudos Financeiros é o departamento por onde correm os assuntos que legalmente lhe forem atribuídos e os que lhe forem entregues pelo Ministro ou pelo director-geral. Incumbe-lhe, nomeadamente:
 
 1. Colaborar na elaboração anual do relatório das contas gerais das províncias ultramarinas;
 
@@ -496,33 +657,33 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 3. Elaborar os pareceres que se tornarem necessários sobre assuntos bancários, monetários, de seguros, de fomento, planeamento e outros, na parte que respeite à Direcção-Geral de Fazenda.
 
-###### Art. 51.º O Gabinete de Estudos Financeiros funciona sob a superintendência do director-geral de Fazenda e é constituído pelos inspectores superiores de Fazenda do ultramar que não sejam expressamente considerados impedidos por o Ministro lhes ter atribuído outras funções, e bem assim por técnicos destacados, por livre designação do Ministro, dos quadros técnicos da Direcção-Geral de Economia.
+Art. 51.º O Gabinete de Estudos Financeiros funciona sob a superintendência do director-geral de Fazenda e é constituído pelos inspectores superiores de Fazenda do ultramar que não sejam expressamente considerados impedidos por o Ministro lhes ter atribuído outras funções, e bem assim por técnicos destacados, por livre designação do Ministro, dos quadros técnicos da Direcção-Geral de Economia.
 
 § 1.º O Ministro do Ultramar poderá determinar ainda que prestem serviço no Gabinete de Estudos Financeiros funcionários dos serviços de Fazenda e contabilidade e das inspecções provinciais do ultramar, em regime de comissão eventual no Ministério.
 
 § 2.º O Ministro do Ultramar, ouvido o director-geral, designará por despacho o inspector superior de Fazenda que deverá chefiar directamente o Gabinete. Nos seus impedimentos o director do Gabinete é substituído por outro inspector superior de Fazenda, consoante o Ministro designar, ou pelo director de serviços.
 
-###### Art. 52.º O expediente do Gabinete de Estudos Financeiros corre pela repartição que o director-geral indicar para o efeito.
+Art. 52.º O expediente do Gabinete de Estudos Financeiros corre pela repartição que o director-geral indicar para o efeito.
 
 #### SECÇÃO V — Dos serviços de fomento
 
-###### Art. 53.º Aos serviços de fomento incumbe orientar e coordenar superiormente todos os serviços e actividades ligados ao desenvolvimento do ultramar, ao seu progresso económico e ao apetrechamento necessário para a valorização dos recursos e possibilidades naturais das províncias ultramarinas.
+Art. 53.º Aos serviços de fomento incumbe orientar e coordenar superiormente todos os serviços e actividades ligados ao desenvolvimento do ultramar, ao seu progresso económico e ao apetrechamento necessário para a valorização dos recursos e possibilidades naturais das províncias ultramarinas.
 
-###### Art. 54.º Os serviços de fomento compreendem a Direcção-Geral de Economia, a Direcção-Geral de Obras Públicas e Comunicações, a Inspecção Superior das Alfândegas do Ultramar e os inspectores superiores de economia e de obras públicas e comunicações.
+Art. 54.º Os serviços de fomento compreendem a Direcção-Geral de Economia, a Direcção-Geral de Obras Públicas e Comunicações, a Inspecção Superior das Alfândegas do Ultramar e os inspectores superiores de economia e de obras públicas e comunicações.
 
 § único. Junto da Direcção-Geral de Economia e da Direcção-Geral de Obras Públicas e Comunicações funciona o Centro de Documentação Técnico-Económica, que tem como atribuições promover e coordenar as actividades da documentação e da informação nos domínios da economia e da engenharia e dar apoio aos serviços, brigadas e missões do Ministério ou dele dependentes, ou das províncias ultramarinas. A organização e o funcionamento do Centro de Documentação Técnico-Económica serão regulados por portaria do Ministro do Ultramar.
 
 ##### SUBSECÇÃO I — Da Direcção-Geral de Economia
 
-###### Art. 55.º Pela Direcção-Geral de Economia correm todos os assuntos que ao Ministro incumbe decidir ou orientar, por si ou em ligação com outros serviços metropolitanos ou com organismos internacionais, referentes à progressiva ocupação demográfica das províncias ultramarinas, ao aproveitamento e valorização das riquezas naturais, ao comércio, às industrias, ao crédito, aos seguros e à defesa da moeda. Cumpre-lhe ainda reunir os elementos necessários ao actualizado conhecimento da actuação dos serviços correspondentes das províncias ultramarinas, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
+Art. 55.º Pela Direcção-Geral de Economia correm todos os assuntos que ao Ministro incumbe decidir ou orientar, por si ou em ligação com outros serviços metropolitanos ou com organismos internacionais, referentes à progressiva ocupação demográfica das províncias ultramarinas, ao aproveitamento e valorização das riquezas naturais, ao comércio, às industrias, ao crédito, aos seguros e à defesa da moeda. Cumpre-lhe ainda reunir os elementos necessários ao actualizado conhecimento da actuação dos serviços correspondentes das províncias ultramarinas, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
 
-###### Art. 56.º A Direcção-Geral de Economia compreende o Gabinete de Estudos Económicos e quatro repartições: a Repartição do Povoamento e dos Assuntos Demográficos, a Repartição dos Recursos Naturais, a Repartição do Comércio e Indústria e a Repartição Administrativa.
+Art. 56.º A Direcção-Geral de Economia compreende o Gabinete de Estudos Económicos e quatro repartições: a Repartição do Povoamento e dos Assuntos Demográficos, a Repartição dos Recursos Naturais, a Repartição do Comércio e Indústria e a Repartição Administrativa.
 
 § 1.º Junto da Direcção-Geral de Economia funciona a Comissão Interministerial do Café, bem como as comissões de estatística que forem criadas nos termos da lei. Os serviços burocráticos das comissões de estatística serão assegurados pelas repartições que o director-geral designar para o efeito.
 
 § 2.º A organização, o funcionamento e o regime financeiro da Comissão Interministerial do Café serão estabelecidos por decreto.
 
-###### Art. 57.º Incumbem à Repartição do Povoamento e dos Assuntos Demográficos os problemas respeitantes:
+Art. 57.º Incumbem à Repartição do Povoamento e dos Assuntos Demográficos os problemas respeitantes:
 
 1. À organização, apreciação e coordenação dos planos de povoamento;
 
@@ -534,7 +695,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 2.º Os assuntos que correm pela Repartição do Povoamento e dos Assuntos Demográficos e em especial os referidos no n.º 3 do corpo do artigo devem ser conduzidos, no seu aspecto político, em li[Decreto-Lei n.º 38200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38200-1951-323732)dos Negócios Políticos.
 
-###### Art. 58.º Pertencem à Repartição dos Recursos Naturais os problemas referentes:
+Art. 58.º Pertencem à Repartição dos Recursos Naturais os problemas referentes:
 
 1. À economia agrícola, florestal e pecuária do ultramar português, incluindo os respeitantes à caça e à protecção da fauna e da flora;
 
@@ -542,7 +703,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 3. Aos serviços geográficos e cadastrais no ultramar e em especial aos problemas referentes a concessões de terrenos, salvo os que por lei estiverem especialmente atribuídos a outros serviços.
 
-###### Art. 59.º À Repartição do Comércio e Indústria pertencem os assuntos respeitantes:
+Art. 59.º À Repartição do Comércio e Indústria pertencem os assuntos respeitantes:
 
 1. Ao comércio territorial, interterritorial e externo das províncias ultramarinas, estudando designadamente as suas tendências e evolução;
 
@@ -552,27 +713,27 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 4. Às indústrias.
 
-###### Art. 60.º Incumbe à Repartição Administrativa:
+Art. 60.º Incumbe à Repartição Administrativa:
 
 1. Assegurar o expediente burocrático, a colheita e guarda da documentação e a organização do arquivo da Direcção-Geral e dos inspectores superiores de economia.
 
 2. Providenciar quanto ao expediente contabilístico e quanto ao cadastro do património da Direcção-Geral.
 
-###### Art. 61.º Os problemas respeitantes aos pedidos de licenças de exploração, exercício de quaisquer actividades, exclusivos ou outros semelhantes correm pelas repartições da Direcção-Geral às quais os estudos dos respectivos produtos ou mercadorias estiverem afectos ou a quem forem mandados atribuir pelo Ministro ou pelo director-geral.
+Art. 61.º Os problemas respeitantes aos pedidos de licenças de exploração, exercício de quaisquer actividades, exclusivos ou outros semelhantes correm pelas repartições da Direcção-Geral às quais os estudos dos respectivos produtos ou mercadorias estiverem afectos ou a quem forem mandados atribuir pelo Ministro ou pelo director-geral.
 
-###### Art. 62.º Nos seus impedimentos o director-geral pode ser substituído pelo inspector superior de economia que o Ministro designar para o efeito ou, na falta de designação, pelo director de serviços.
+Art. 62.º Nos seus impedimentos o director-geral pode ser substituído pelo inspector superior de economia que o Ministro designar para o efeito ou, na falta de designação, pelo director de serviços.
 
 ##### DIVISÃO ÚNICA — Do Gabinete de Estudos Económicos
 
-###### Art. 63.º O Gabinete de Estudos Económicos é o departamento por onde correm os assuntos que legalmente lhe forem atribuídos e os que lhe forem entregues pelo Ministro ou pelo director-geral.
+Art. 63.º O Gabinete de Estudos Económicos é o departamento por onde correm os assuntos que legalmente lhe forem atribuídos e os que lhe forem entregues pelo Ministro ou pelo director-geral.
 
-###### Art. 64.º O Gabinete de Estudos Económicos funciona sob a superintendência do director-geral de Economia e é constituído por todos os inspectores superiores de economia que não sejam expressamente considerados impedidos por o Ministro lhes ter atribuído outras funções, e bem assim pelos funcionários da Direcção-Geral que, sob proposta do director-geral, o Ministro designar para nele prestarem serviço.
+Art. 64.º O Gabinete de Estudos Económicos funciona sob a superintendência do director-geral de Economia e é constituído por todos os inspectores superiores de economia que não sejam expressamente considerados impedidos por o Ministro lhes ter atribuído outras funções, e bem assim pelos funcionários da Direcção-Geral que, sob proposta do director-geral, o Ministro designar para nele prestarem serviço.
 
 § 1.º O Gabinete de Estudos Económicos é directamente chefiado por um inspector superior de economia designado por despacho do Ministro, ouvido o director-geral. Nos seus impedimentos, o director do Gabinete é substituído por outro inspector superior de economia, consoante o Ministro designar, ou pelo director de serviços.
 
 § 2.º O expediente do Gabinete de Estudos Económicos corre pela Repartição Administrativa.
 
-###### Art. 65.º Incumbe especialmente ao Gabinete de Estudos Económicos:
+Art. 65.º Incumbe especialmente ao Gabinete de Estudos Económicos:
 
 1. O estudo de todos os problemas económicos ultramarinos com vista ao progressivo desenvolvimento económico do ultramar português;
 
@@ -592,17 +753,17 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 9. O estudo da incidência dos direitos aduaneiros e de outras imposições fiscais, nacionais ou estrangeiras, no desenvolvimento económico do ultramar e nomeadamente na exportação dos seus produtos.
 
-###### Art. 66.º Sob proposta do director-geral de Economia e despacho favorável do Ministro poderão ser contratadas ou subsidiadas pessoas para a efectivação dos estudos e demais trabalhos de que o Gabinete careça. As remunerações por estes estudos e trabalhos, pagas de uma só vez, mensalmente ou conforme for determinado, serão fixadas pelo Ministro e são acumuláveis com quaisquer outros vencimentos ou gratificações, mesmo que ultrapassem o limite legal.
+Art. 66.º Sob proposta do director-geral de Economia e despacho favorável do Ministro poderão ser contratadas ou subsidiadas pessoas para a efectivação dos estudos e demais trabalhos de que o Gabinete careça. As remunerações por estes estudos e trabalhos, pagas de uma só vez, mensalmente ou conforme for determinado, serão fixadas pelo Ministro e são acumuláveis com quaisquer outros vencimentos ou gratificações, mesmo que ultrapassem o limite legal.
 
 § único. Com as pessoas que prestem serviço nos termos do corpo do artigo poderão ser constituídos grupos de trabalho, cuja competência e duração serão fixadas pelo Ministro.
 
 ##### SUBSECÇÃO II — Da Direcção-Geral de Obras Públicas e Comunicações
 
-###### Art. 67.º A Direcção-Geral de Obras Públicas e Comunicações é o departamento através do qual se exerce a acção orientadora e executiva do Ministro nos sectores das obras públicas e das comunicações, tendo simultâneamente por função prestar apoio técnico especializado aos serviços correspondentes das províncias ultramarinas. Cumpre-lhe ainda reunir os elementos necessários ao actualizado conhecimento da actuação daqueles serviços, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
+Art. 67.º A Direcção-Geral de Obras Públicas e Comunicações é o departamento através do qual se exerce a acção orientadora e executiva do Ministro nos sectores das obras públicas e das comunicações, tendo simultâneamente por função prestar apoio técnico especializado aos serviços correspondentes das províncias ultramarinas. Cumpre-lhe ainda reunir os elementos necessários ao actualizado conhecimento da actuação daqueles serviços, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
 
 § único. A Direcção-Geral de Obras Públicas e Comunicações poderá ainda prestar apoio técnico especializado aos corpos administrativos e aos serviços públicos personalizados das províncias ultramarinas, organismos de coordenação económica, organismos corporativos e instituições de interesse público quando tal apoio lhe for solicitado por intermédio dos respectivos governos provinciais ou determinado pelo Ministro.
 
-###### Art. 68.º A Direcção-Geral de Obras Públicas e Comunicações compreende um Gabinete de Estudos, os Serviços Centrais e as seguintes direcções de serviços:
+Art. 68.º A Direcção-Geral de Obras Públicas e Comunicações compreende um Gabinete de Estudos, os Serviços Centrais e as seguintes direcções de serviços:
 
 1. Direcção dos Serviços de Urbanismo e Habitação;
 
@@ -632,7 +793,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 8.º O expediente dos inspectores superiores de obras públicas e comunicações corre pelos serviços que o director-geral indicar para o efeito.
 
-###### Art. 69.º Junto da Direcção dos Serviços de Correios, Telégrafos e Telefones funciona o serviço de valores postais ao qual incumbe, em especial:
+Art. 69.º Junto da Direcção dos Serviços de Correios, Telégrafos e Telefones funciona o serviço de valores postais ao qual incumbe, em especial:
 
 1. A emissão, guarda e distribuição de selos e outras formas de franquia postal;
 
@@ -640,17 +801,17 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § único. O serviço de valores postais rege-se por disposições especiais.
 
-###### Art. 70.º Sempre que as necessidades de desenvolvimento das províncias ultramarinas imponham o estudo ou a realização de trabalhos para os quais os respectivos serviços permanentes não estejam suficientemente apetrechados, poderá o director-geral de Obras Públicas e Comunicações propor para o efeito a criação de brigadas ou missões de carácter temporário, cabendo à Direcção-Geral apoiá-los e orientá-los tècnicamente e bem assim propor o recrutamento do pessoal de que careçam e que não seja possível admitir nas províncias em que actuem.
+Art. 70.º Sempre que as necessidades de desenvolvimento das províncias ultramarinas imponham o estudo ou a realização de trabalhos para os quais os respectivos serviços permanentes não estejam suficientemente apetrechados, poderá o director-geral de Obras Públicas e Comunicações propor para o efeito a criação de brigadas ou missões de carácter temporário, cabendo à Direcção-Geral apoiá-los e orientá-los tècnicamente e bem assim propor o recrutamento do pessoal de que careçam e que não seja possível admitir nas províncias em que actuem.
 
-###### Art. 71.º Para o conveniente desempenho das suas atribuições a Direcção-Geral deve manter permanente contacto com os correspondentes serviços provinciais, podendo o Ministro determinar que técnicos da Direcção-Geral se incumbam especificadamente do estudo de qualquer problema ultramarino da sua especialidade ou desempenhem missões de estudo ou de informação nas províncias ultramarinas e bem assim que técnicos dos serviços provinciais efectuem estágios na Direcção-Geral. Pode ainda o Ministro determinar que o pessoal técnico da Direcção-Geral efectue missões de estudo ao estrangeiro ou siga cursos de especialização para pós-graduados.
+Art. 71.º Para o conveniente desempenho das suas atribuições a Direcção-Geral deve manter permanente contacto com os correspondentes serviços provinciais, podendo o Ministro determinar que técnicos da Direcção-Geral se incumbam especificadamente do estudo de qualquer problema ultramarino da sua especialidade ou desempenhem missões de estudo ou de informação nas províncias ultramarinas e bem assim que técnicos dos serviços provinciais efectuem estágios na Direcção-Geral. Pode ainda o Ministro determinar que o pessoal técnico da Direcção-Geral efectue missões de estudo ao estrangeiro ou siga cursos de especialização para pós-graduados.
 
 § único. As informações da Direcção-Geral sobre a forma como tenham decorrido os estágios e os méritos profissionais evidenciados pelos técnicos que deles tenham beneficiado figurarão nos respectivos cadastros individuais.
 
-###### Art. 72.º O director-geral de Obras Públicas e Comunicações é substituído, nas suas faltas e impedimentos, pelo inspector superior de obras públicas e comunicações que o Ministro designar e, na falta de designação, pelo mais antigo em exercício de funções no Ministério.
+Art. 72.º O director-geral de Obras Públicas e Comunicações é substituído, nas suas faltas e impedimentos, pelo inspector superior de obras públicas e comunicações que o Ministro designar e, na falta de designação, pelo mais antigo em exercício de funções no Ministério.
 
 ##### DIVISÃO ÚNICA — Do Gabinete de Estudos
 
-###### Art. 73.º Ao Gabinete de Estudos incumbe:
+Art. 73.º Ao Gabinete de Estudos incumbe:
 
 1. Obter e ordenar sistemàticamente o maior número possível de elementos relativos às condições existentes no ultramar e cujo conhecimento interesse à Direcção-Geral para o desempenho das atribuições que lhe são cometidas;
 
@@ -668,19 +829,19 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 8. Propor todas as providências que repute necessárias à melhoria do funcionamento do sector em que se integra.
 
-###### Art. 74.º O Gabinete de Estudos funciona sob a superintendência do director-geral de Obras Públicas e Comunicações e dele fazem parte todos os inspectores superiores de obras públicas e comunicações que não sejam expressamente considerados impedidos por o Ministro do Ultramar lhes ter atribuído outras funções e bem assim os funcionários da Direcção-Geral que, sob proposta do director-geral, o Ministro designe para nele prestarem serviço.
+Art. 74.º O Gabinete de Estudos funciona sob a superintendência do director-geral de Obras Públicas e Comunicações e dele fazem parte todos os inspectores superiores de obras públicas e comunicações que não sejam expressamente considerados impedidos por o Ministro do Ultramar lhes ter atribuído outras funções e bem assim os funcionários da Direcção-Geral que, sob proposta do director-geral, o Ministro designe para nele prestarem serviço.
 
 § 1.º O Gabinete de Estudos é directamente chefiado por um inspector superior de obras públicas e comunicações designado pelo Ministro, ouvido o director-geral. Nos seus impedimentos, o director do Gabinete é substituído por outro inspector superior de obras públicas e comunicações que o Ministro indicar.
 
 § 2.º Quando se pronuncie sobre os assuntos a que se refere o n.º 6 do artigo anterior, será agregado ao Gabinete de Estudos um delegado da Administração-Geral dos Correios, Telégrafos e Telefones, com categoria não inferior à de chefe de repartição, a designar por despacho do Ministro das Comunicações.
 
-###### Art. 75.º Sob proposta do director-geral de Obras Públicas e Comunicações e despacho favorável do Ministro do Ultramar poderão ser contratadas ou subsidiadas pessoas para a efectivação dos estudos e demais trabalhos de que o Gabinete careça. As remunerações por estes estudos e trabalhos, pagas de uma só vez, mensalmente ou conforme for determinado, serão fixadas pelo Ministro e são acumuláveis com quaisquer outros vencimentos ou gratificações, mesmo que ultrapassem o limite legal.
+Art. 75.º Sob proposta do director-geral de Obras Públicas e Comunicações e despacho favorável do Ministro do Ultramar poderão ser contratadas ou subsidiadas pessoas para a efectivação dos estudos e demais trabalhos de que o Gabinete careça. As remunerações por estes estudos e trabalhos, pagas de uma só vez, mensalmente ou conforme for determinado, serão fixadas pelo Ministro e são acumuláveis com quaisquer outros vencimentos ou gratificações, mesmo que ultrapassem o limite legal.
 
 § único. Com as pessoas admitidas a prestar serviço nos termos do corpo do artigo poderão ser constituídos grupos de trabalho cuja competência e duração serão fixadas pelo Ministro.
 
 ##### SUBSECÇÃO III — Da Inspecção Superior das Alfândegas do Ultramar
 
-###### Art. 76.º A Inspecção Superior das Alfândegas do Ultramar é o serviço através do qual o Ministro exerce as suas funções executivas e de inspecção em referência aos serviços aduaneiros do ultramar. Incumbe-lhe:
+Art. 76.º A Inspecção Superior das Alfândegas do Ultramar é o serviço através do qual o Ministro exerce as suas funções executivas e de inspecção em referência aos serviços aduaneiros do ultramar. Incumbe-lhe:
 
 1. Exercer a superintendência e a fiscalização sobre os serviços aduaneiros do Ultramar;
 
@@ -690,7 +851,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § único. A Inspecção Superior das Alfândegas do Ultramar tem uma repartição denominada Repartição das Alfândegas do Ultramar.
 
-###### Art. 77.º Compete especialmente ao inspector superior das Alfândegas do Ultramar:
+Art. 77.º Compete especialmente ao inspector superior das Alfândegas do Ultramar:
 
 1. Submeter a despacho do Ministro, quando careçam da sua intervenção, os assuntos que corram pela Inspecção Superior;
 
@@ -704,23 +865,23 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 3.º O inspector superior das Alfândegas do Ultramar é substituído pelo juiz técnico aduaneiro em serviço na Inspecção Superior e, no impedimento deste, pelo chefe da Repartição das Alfândegas do Ultramar.
 
-###### Art. 78.º O expediente da Inspecção Superior das Alfândegas do Ultramar e do Conselho Superior Técnico Aduaneiro do Ultramar é assegurado pela Repartição das Alfândegas do Ultramar.
+Art. 78.º O expediente da Inspecção Superior das Alfândegas do Ultramar e do Conselho Superior Técnico Aduaneiro do Ultramar é assegurado pela Repartição das Alfândegas do Ultramar.
 
 #### SECÇÃO VI — Dos serviços de educação
 
-###### Art. 79. Os serviços de educação do Ministério do Ultramar compreendem a Direcção-Geral de Educação, o inspector superior e os inspectores de educação.
+Art. 79. Os serviços de educação do Ministério do Ultramar compreendem a Direcção-Geral de Educação, o inspector superior e os inspectores de educação.
 
 ##### SUBSECÇÃO ÚNICA — Da Direcção-Geral de Educação
 
-###### Art. 80.º Através da Direcção-Geral de Educação é exercida a superintendência que ao Ministro compete sobre todos os problemas de educação no ultramar, excluindo apenas os do ensino superior. Igualmente lhe incumbe o estudo e informação dos problemas referentes às missões católicas e outras confissões religiosas nas províncias ultramarinas. Cumpre-lhe ainda reunir os elementos necessários ao actualizado conhecimento dos serviços que lhe dizem respeito, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas ao inspector superior ou inspectores delas incumbidos.
+Art. 80.º Através da Direcção-Geral de Educação é exercida a superintendência que ao Ministro compete sobre todos os problemas de educação no ultramar, excluindo apenas os do ensino superior. Igualmente lhe incumbe o estudo e informação dos problemas referentes às missões católicas e outras confissões religiosas nas províncias ultramarinas. Cumpre-lhe ainda reunir os elementos necessários ao actualizado conhecimento dos serviços que lhe dizem respeito, propor a realização das inspecções tidas por convenientes e sugerir as instruções que devam ser dadas ao inspector superior ou inspectores delas incumbidos.
 
-###### Art. 81.º A Direcção-Geral de Educação compreende o Gabinete de Estudos e duas repartições: a Repartição do Ensino e a Repartição da Cultura e das Missões.
+Art. 81.º A Direcção-Geral de Educação compreende o Gabinete de Estudos e duas repartições: a Repartição do Ensino e a Repartição da Cultura e das Missões.
 
 § 1.º O expediente do inspector superior e dos inspectores de educação e bem assim o do Gabinete de Estudos corre pela repartição que o director-geral designar para o efeito.
 
 § 2.º O inspector superior faz parte do gabinete orientador das publicações da Agência-Geral do Ultramar. Nas suas faltas e impedimentos é substituído, nestas funções, pelo director de serviços, por um dos inspectores ou pelo chefe de uma das repartições, consoante o Ministro designar.
 
-###### Art. 82.º São atribuições da Repartição do Ensino:
+Art. 82.º São atribuições da Repartição do Ensino:
 
 1. A informação e expediente dos problemas de ensino ministrado no ultramar em qualquer dos seus graus, oficial ou particular, com excepção do ensino superior;
 
@@ -728,7 +889,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 3. As actividades gimnodesportivas no ultramar e a informação e expediente dos problemas correlativos.
 
-###### Art. 83.º São atribuições da Repartição da Cultura e das Missões:
+Art. 83.º São atribuições da Repartição da Cultura e das Missões:
 
 1. O expediente dos assuntos respeitantes à expansão das actividades culturais, designadamente das referentes à organização e funcionamento de museus, bibliotecas, arquivos e monumentos;
 
@@ -738,11 +899,11 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § único. Os assuntos referidos no n.º 3 e especialmente os tocantes às relações com a Santa Sé devem ser conduzidos em ligação com o Gabinete dos Negócios Políticos. Para a informação e expediente dos mesmos assuntos a Repartição da Cultura e das Missões dispõe de um consultor missionário.
 
-###### Art. 84.º O director-geral de Educação é substituído, nos seus impedimentos, pelo inspector superior de educação e na falta deste, pelo director de serviços.
+Art. 84.º O director-geral de Educação é substituído, nos seus impedimentos, pelo inspector superior de educação e na falta deste, pelo director de serviços.
 
 ##### DIVISÃO ÚNICA — Do Gabinete de Estudos
 
-###### Art. 85.º Ao Gabinete de Estudos incumbe coordenar todos os assuntos das atribuições da Direcção-Geral, estudar os problemas de educação, ensino e cultura de maior importância para o ultramar e dar parecer sobre as questões que pelo Ministro ou pelo director-geral lhe forem postas. Pertence-lhe, em especial:
+Art. 85.º Ao Gabinete de Estudos incumbe coordenar todos os assuntos das atribuições da Direcção-Geral, estudar os problemas de educação, ensino e cultura de maior importância para o ultramar e dar parecer sobre as questões que pelo Ministro ou pelo director-geral lhe forem postas. Pertence-lhe, em especial:
 
 1. O estudo da actuação dos serviços de educação, de ensino e culturais nas províncias ultramarinas, com vista ao seu aperfeiçoamento;
 
@@ -754,7 +915,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 5. A proposta de medidas de natureza educativa e cultural que julgue necessário aplicar a uma ou a mais províncias.
 
-###### Art. 86.º O Gabinete de Estudos é dirigido pelo director-geral de Educação e dele fazem parte o inspector superior e os inspectores de educação, quando não se encontrem em serviço de inspecção, o director de serviços, os chefes das duas repartições da Direcção-Geral, o director do Arquivo Histórico Ultramarino e o consultor missionário. O director-geral de Educação pode delegar a direcção do Gabinete de Estudos no inspector superior e, nas faltas ou impedimentos deste, no director de serviços.
+Art. 86.º O Gabinete de Estudos é dirigido pelo director-geral de Educação e dele fazem parte o inspector superior e os inspectores de educação, quando não se encontrem em serviço de inspecção, o director de serviços, os chefes das duas repartições da Direcção-Geral, o director do Arquivo Histórico Ultramarino e o consultor missionário. O director-geral de Educação pode delegar a direcção do Gabinete de Estudos no inspector superior e, nas faltas ou impedimentos deste, no director de serviços.
 
 § 1.º Quando as circunstâncias o aconselharem, sob proposta do director-geral de Educação poderão ser convocados para as reuniões do Gabinete de Estudos funcionários superiores dos serviços de educação do ultramar.
 
@@ -764,15 +925,15 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 #### SECÇÃO VII — Dos serviços de justiça
 
-###### Art. 87.º Os serviços de justiça do Ministério do Ultramar compreendem a Direcção-Geral de Justiça e os inspectores superiores de justiça.
+Art. 87.º Os serviços de justiça do Ministério do Ultramar compreendem a Direcção-Geral de Justiça e os inspectores superiores de justiça.
 
 ##### SUBSECÇÃO ÚNICA — Da Direcção-Geral de Justiça
 
-###### Art. 88.º A Direcção-Geral de Justiça é o departamento do Ministério do Ultramar através do qual o Ministro exerce as suas funções de superintendência nos serviços de justiça das províncias ultramarinas, em tudo o que não afecte a independência da magistratura judicial, e nos serviços dos registos, do notariado, da polícia judiciária, de identificação civil e prisionais. Incumbe-lhe ainda reunir os elementos necessários ao actualizado conhecimento dos serviços que lhe digam respeito, propor a realização de inspecções periódicas e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
+Art. 88.º A Direcção-Geral de Justiça é o departamento do Ministério do Ultramar através do qual o Ministro exerce as suas funções de superintendência nos serviços de justiça das províncias ultramarinas, em tudo o que não afecte a independência da magistratura judicial, e nos serviços dos registos, do notariado, da polícia judiciária, de identificação civil e prisionais. Incumbe-lhe ainda reunir os elementos necessários ao actualizado conhecimento dos serviços que lhe digam respeito, propor a realização de inspecções periódicas e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
 
 § único. Consideram-se compreendidos nas atribuições da Direcção-Geral de Justiça o registo actualizado de toda a legislação em vigor nas províncias ultramarinas e o parecer sobre a construção, adaptação, modificação e funcionamento de estabelecimentos prisionais do ultramar e dos edifícios onde funcionam os serviços de justiça.
 
-###### Art. 89.º A Direcção-Geral de Justiça tem uma repartição denominada Repartição de Justiça.
+Art. 89.º A Direcção-Geral de Justiça tem uma repartição denominada Repartição de Justiça.
 
 § 1.º Pela Repartição de Justiça corre o expediente do Conselho Superior Judiciário do Ultramar e dos inspectores superiores de justiça. Serve de secretário do Conselho o funcionário da Repartição de Justiça para o efeito designado pelo director-geral.
 
@@ -780,27 +941,27 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § 3.º Nas suas faltas e impedimentos, o director-geral de Justiça é substituído pelo inspector superior de justiça que o Ministro designar e, na falta de designação, pelo chefe da Repartição de Justiça.
 
-###### Art. 90.º O director-geral de Justiça poderá distribuir pelos vogais do Conselho Superior Judiciário do Ultramar, pelos inspectores superiores de justiça e pelo chefe da Repartição as consultas jurídicas que forem feitas à Direcção-Geral.
+Art. 90.º O director-geral de Justiça poderá distribuir pelos vogais do Conselho Superior Judiciário do Ultramar, pelos inspectores superiores de justiça e pelo chefe da Repartição as consultas jurídicas que forem feitas à Direcção-Geral.
 
 § único. Os pareceres são apresentados a despacho pelo director-geral de Justiça.
 
 #### SECÇÃO VIII — Dos serviços de saúde e assistência
 
-###### Art. 91.º Os serviços de saúde e assistência compreendem a Direcção-Geral de Saúde e Assistência e os inspectores superiores de saúde e assistência.
+Art. 91.º Os serviços de saúde e assistência compreendem a Direcção-Geral de Saúde e Assistência e os inspectores superiores de saúde e assistência.
 
 ##### SUBSECÇÃO ÚNICA — Da Direcção-Geral de Saúde e Assistência
 
-###### Art. 92.º À Direcção-Geral de Saúde e Assistência incumbe a missão de planificar os serviços de saúde e assistência das províncias ultramarinas, de auxiliá-los no estudo e resolução dos seus problemas e de esquematizar as medidas profilácticas e terapêuticas indispensáveis à defesa e protecção da saúde, à prevenção das endemias e epidemias e à protecção e amparo dos indivíduos e dos seus agrupamentos naturais contra carências e outras disfunções sociais, flagelos ou calamidades públicas cuja prevenção ou correcção caibam nos planos gerais da assistência médico-social. Pertence-lhe ainda reunir os elementos necessários ao actualizado conhecimento dos serviços de saúde e assistência do ultramar, propor a realização de inspecções periódicas e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
+Art. 92.º À Direcção-Geral de Saúde e Assistência incumbe a missão de planificar os serviços de saúde e assistência das províncias ultramarinas, de auxiliá-los no estudo e resolução dos seus problemas e de esquematizar as medidas profilácticas e terapêuticas indispensáveis à defesa e protecção da saúde, à prevenção das endemias e epidemias e à protecção e amparo dos indivíduos e dos seus agrupamentos naturais contra carências e outras disfunções sociais, flagelos ou calamidades públicas cuja prevenção ou correcção caibam nos planos gerais da assistência médico-social. Pertence-lhe ainda reunir os elementos necessários ao actualizado conhecimento dos serviços de saúde e assistência do ultramar, propor a realização de inspecções periódicas e sugerir as instruções que devam ser dadas aos inspectores superiores delas incumbidos.
 
 § 1.º As organizações religiosas com fins de saúde e assistência ficam sujeitas, nesta parte, ao regime especial previsto no artigo 4.º da Concordata.
 
 § 2.º Dependem da Direcção-Geral de Saúde e Assistência o Hospital do Ultramar e a Junta de Saúde do Ultramar. A Escola Nacional de Saúde Pública e de Medicina Tropical depende da Direcção-Geral de Saúde e Assistência quanto aos assuntos que, por lei, sejam da competência do Ministro do Ultramar.
 
-###### Art. 93.º A Direcção-Geral de Saúde e Assistência compreende o Gabinete de Estudos Médico-Sociais e duas repartições: a Repartição de Saúde e Higiene e a Repartição de Assistência.
+Art. 93.º A Direcção-Geral de Saúde e Assistência compreende o Gabinete de Estudos Médico-Sociais e duas repartições: a Repartição de Saúde e Higiene e a Repartição de Assistência.
 
 § único. O expediente dos inspectores superiores de saúde e assistência e do Gabinete de Estudos Médico-Sociais corre pela repartição que o director-geral designar para o efeito.
 
-###### Art. 94.º A Repartição de Saúde e Higiene ocupa-se dos problemas da doutrina e técnica sanitárias e designadamente:
+Art. 94.º A Repartição de Saúde e Higiene ocupa-se dos problemas da doutrina e técnica sanitárias e designadamente:
 
 1. Da bioestatística;
 
@@ -828,7 +989,7 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 § único. Ao técnico farmacêutico da Repartição de Saúde e Higiene compete especialmente estudar e informar todos os assuntos que digam respeito aos serviços farmacêuticos do ultramar.
 
-###### Art. 95.º A Repartição de Assistência ocupa-se dos problemas da doutrina e técnica assistenciais e designadamente:
+Art. 95.º A Repartição de Assistência ocupa-se dos problemas da doutrina e técnica assistenciais e designadamente:
 
 1. Da assistência à família, à maternidade, à infância, aos menores, aos velhos e aos inválidos;
 
@@ -848,19 +1009,19 @@ LEI ORGÂNICA DO MINISTÉRIO DO ULTRAMAR
 
 9. Da representação legal dos assistidos, nos termos que a lei fixar.
 
-###### Art. 96.º O director-geral de saúde e assistência é substituído, nos seus impedimentos, pelo inspector superior de saúde e assistência que o Ministro designar para o efeito ou, na falta de designação, pelo chefe de repartição mais antigo.
+Art. 96.º O director-geral de saúde e assistência é substituído, nos seus impedimentos, pelo inspector superior de saúde e assistência que o Ministro designar para o efeito ou, na falta de designação, pelo chefe de repartição mais antigo.
 
 ##### DIVISÃO ÚNICA — Do Gabinete de Estudos Médico-Sociais
 
-###### Art. 97.º O Gabinete de Estudos Médico-Sociais é o departamento por onde correm os assuntos que legalmente lhe forem atribuídos e os que lhe forem entregues pelo Ministro ou pelo director-geral.
+Art. 97.º O Gabinete de Estudos Médico-Sociais é o departamento por onde correm os assuntos que legalmente lhe forem atribuídos e os que lhe forem entregues pelo Ministro ou pelo director-geral.
 
-###### Art. 98.º O Gabinete de Estudos Médico-Sociais tem duas divisões: a de Saúde, Higiene e de Assistência e a constituída pela Comissão Central de Nutrição.
+Art. 98.º O Gabinete de Estudos Médico-Sociais tem duas divisões: a de Saúde, Higiene e de Assistência e a constituída pela Comissão Central de Nutrição.
 
 § 1.º Pertence à Divisão de Saúde, Higiene e de Assistência estudar e dar parecer, sempre que se entenda necessário, sobre os assuntos de que tratam os artigos 94.º e 95.º
 
 § 2.º Pertence à Comissão Central de Nutrição actuar como órgão consultivo das comissões provinciais de nutrição, orientando e coordenando as respectivas actividades e procedendo ao estudo e exame de todos os problemas respeitantes à alimentação e nutrição das populações ultramarinas.
 
-###### Art. 99.º O Gabinete de Estudos Médico-Sociais funciona sob a superintendência do director-geral de Saúde e Assistência, é dirigido por um dos inspectores superiores de saúde e assistência designado por despacho do Ministro do Ultramar, ouvido o director-geral, e as suas divisões têm a seguinte composição:
+Art. 99.º O Gabinete de Estudos Médico-Sociais funciona sob a superintendência do director-geral de Saúde e Assistência, é dirigido por um dos inspectores superiores de saúde e assistência designado por despacho do Ministro do Ultramar, ouvido o director-geral, e as suas divisões têm a seguinte composição:
 
 a) Divisão de Saúde, Higiene e de Assistência:
 
@@ -898,7 +1059,7 @@ b) Comissão Central de Nutrição:
 
 § 3.º Os pareceres das divisões do Gabinete de Estudos Médico-Sociais carecem de homologação do Ministro para serem executórios.
 
-###### Art. 100.º Na Direcção-Geral de Saúde e Assistência funciona a Junta de Recurso, como instância de recurso dos pareceres da Junta de Saúde do Ultramar, nos termos da lei.
+Art. 100.º Na Direcção-Geral de Saúde e Assistência funciona a Junta de Recurso, como instância de recurso dos pareceres da Junta de Saúde do Ultramar, nos termos da lei.
 
 § 1.º A Junta de Recurso tem a seguinte composição:
 
@@ -918,11 +1079,11 @@ b) Comissão Central de Nutrição:
 
 #### SECÇÃO I — Do Conselho Ultramarino
 
-###### Art. 101.º A orgânica e o funcionamento do Conselho Ultramarino regem-se por disposições próprias.
+Art. 101.º A orgânica e o funcionamento do Conselho Ultramarino regem-se por disposições próprias.
 
 #### SECÇÃO II — Do Conselho Superior de Disciplina do Ultramar
 
-###### Art. 102.º O Conselho Superior de Disciplina do Ultramar exerce, entre outras, as funções de órgão consultivo do Ministro em matéria disciplinar. Incumbe-lhe, especialmente:
+Art. 102.º O Conselho Superior de Disciplina do Ultramar exerce, entre outras, as funções de órgão consultivo do Ministro em matéria disciplinar. Incumbe-lhe, especialmente:
 
 1. Dar parecer sobre os processos disciplinares ou de revisão relativos a pessoal dos quadros ultramarinos que devam ser submetidos a despacho ministerial;
 
@@ -936,9 +1097,9 @@ b) Comissão Central de Nutrição:
 
 6. Dar parecer sobre todos os assuntos disciplinares que, por despacho ministerial, sejam mandados submeter à sua apreciação.
 
-###### Art. 103.º O secretário-geral do Ministério, ou quem as suas vezes fizer, nos termos do § 2.º do artigo 28.º, é o presidente do Conselho Superior de Disciplina do Ultramar. O expediente do Conselho, incluindo a escrivania dos processos, corre pela Secretaria-Geral. Funcionará como escrivão o primeiro-oficial que o secretário-geral designar para o efeito.
+Art. 103.º O secretário-geral do Ministério, ou quem as suas vezes fizer, nos termos do § 2.º do artigo 28.º, é o presidente do Conselho Superior de Disciplina do Ultramar. O expediente do Conselho, incluindo a escrivania dos processos, corre pela Secretaria-Geral. Funcionará como escrivão o primeiro-oficial que o secretário-geral designar para o efeito.
 
-###### Art. 104.º O Conselho tem três vogais efectivos, designados por despacho do Ministro do Ultramar por escolha entre os inspectores superiores de administração ultramarina, por períodos de dois anos, renováveis.
+Art. 104.º O Conselho tem três vogais efectivos, designados por despacho do Ministro do Ultramar por escolha entre os inspectores superiores de administração ultramarina, por períodos de dois anos, renováveis.
 
 § 1.º O Conselho tem dois vogais substitutos, livremente escolhidos pelo Ministro entre os funcionários do Ministério do Ultramar, de preferência com formatura em Direito.
 
@@ -948,11 +1109,11 @@ b) Comissão Central de Nutrição:
 
 § 4.º Tanto os vogais efectivos como o agente do Ministério Público têm direito à gratificação fixada nos mapas IV e X anexos a este diploma. Sempre que sejam convocados os vogais substitutos, estes receberão a gratificação atribuída aos vogais efectivos.
 
-###### Art. 105.º O Conselho dá os seus pareceres sob a forma de acórdão. Os votos de vencido deverão ser fundamentados.
+Art. 105.º O Conselho dá os seus pareceres sob a forma de acórdão. Os votos de vencido deverão ser fundamentados.
 
 § único. Do despacho ministerial que não homologar um acórdão do Conselho Superior de Disciplina do Ultramar cabe recurso nos termos da lei.
 
-###### Art. 106.º Todos os processos acerca dos quais, por lei, deva ser ouvido o Conselho Superior de Disciplina do Ultramar, ser-lhe-ão enviados directamente para o devido seguimento.
+Art. 106.º Todos os processos acerca dos quais, por lei, deva ser ouvido o Conselho Superior de Disciplina do Ultramar, ser-lhe-ão enviados directamente para o devido seguimento.
 
 § 1.º Os processos serão distribuídos por sorteio.
 
@@ -964,9 +1125,9 @@ b) Comissão Central de Nutrição:
 
 § 3.º Cada processo terá relator especial. O presidente tem «visto» nos processos, mas não entra na distribuição.
 
-###### Art. 107.º As diligências respeitantes à organização dos processos ou a expediente de assuntos pendentes, bem como os despachos dos relatores, preparatórios da resolução final, terão execução independentemente de despacho ministerial.
+Art. 107.º As diligências respeitantes à organização dos processos ou a expediente de assuntos pendentes, bem como os despachos dos relatores, preparatórios da resolução final, terão execução independentemente de despacho ministerial.
 
-###### Art. 108.º A publicação dos acórdãos do Conselho Superior de Disciplina do Ultramar e dos despachos que neles recaiam far-se-á da seguinte forma:
+Art. 108.º A publicação dos acórdãos do Conselho Superior de Disciplina do Ultramar e dos despachos que neles recaiam far-se-á da seguinte forma:
 
 1. São publicados no Diário do Governo os acórdãos respeitantes aos funcionários dos quadros do Ministério do Ultramar e dos organismos consultivos, contenciosos, técnicos e dependentes;
 
@@ -980,15 +1141,15 @@ b) Comissão Central de Nutrição:
 
 § 2.º É considerada publicação oficial, como tal podendo ser citada, a Colecção de Acórdãos Doutrinários do Conselho Superior de Disciplina do Ultramar, editada pela Agência-Geral do Ultramar.
 
-###### Art. 109.º Os processos de recurso e de revisão disciplinar são isentos de preparos e de selos, mas o arguido que for vencido a final pagará, a título de custas, a quantia de 500$00; se o arguido for vencido em parte ou desistir, pagará metade da mesma quantia.
+Art. 109.º Os processos de recurso e de revisão disciplinar são isentos de preparos e de selos, mas o arguido que for vencido a final pagará, a título de custas, a quantia de 500$00; se o arguido for vencido em parte ou desistir, pagará metade da mesma quantia.
 
 § único. As importâncias a que se refere este artigo constituem receita da província ultramarina onde a infracção tiver sido cometida.
 
-###### Art. 110.º O regime de férias do Conselho Superior de Disciplina do Ultramar é o mesmo do Conselho Ultramarino, podendo, contudo, o Ministro determinar a sua redução quando o atraso do serviço o exija.
+Art. 110.º O regime de férias do Conselho Superior de Disciplina do Ultramar é o mesmo do Conselho Ultramarino, podendo, contudo, o Ministro determinar a sua redução quando o atraso do serviço o exija.
 
 #### SECÇÃO III — Do Conselho Superior de Fomento Ultramarino
 
-###### Art. 111.º O Conselho Superior de Fomento Ultramarino é o órgão consultivo do Ministro, nos aspectos técnicos e económico-sociais, para a coordenação dos assuntos respeitantes ao fomento das províncias ultramarinas. Incumbe-lhe em especial:
+Art. 111.º O Conselho Superior de Fomento Ultramarino é o órgão consultivo do Ministro, nos aspectos técnicos e económico-sociais, para a coordenação dos assuntos respeitantes ao fomento das províncias ultramarinas. Incumbe-lhe em especial:
 
 1. Emitir parecer acerca dos planos gerais, anteprojectos, projectos, orçamentos e cadernos de encargos relativos a obras ou melhoramentos públicos sobre os quais o Ministro tenha de pronunciar-se;
 
@@ -1004,7 +1165,7 @@ b) Comissão Central de Nutrição:
 
 § único. Sempre que as necessidades de desenvolvimento das províncias ultramarinas imponham o estudo ou a realização de obras de grandes dimensões e complexidade poderá o Ministro criar, sob proposta do presidente do Conselho Superior de Fomento Ultramarino e para funcionar sob a orientação deste, brigadas, missões ou grupos de trabalho de carácter temporário, nos termos e condições a definir por decreto. Poderá também o Ministro determinar que fiquem na dependência do presidente do mesmo Conselho brigadas ou missões actualmente existentes, constituídas para a execução de obras incluídas em planos de fomento ou outras cuja índole o recomende.
 
-###### Art. 112.º Compõem o Conselho Superior de Fomento Ultramarino:
+Art. 112.º Compõem o Conselho Superior de Fomento Ultramarino:
 
 1. Um presidente, de livre escolha do Ministro;
 
@@ -1050,7 +1211,7 @@ b) Comissão Central de Nutrição:
 
 § 5.º O Conselho tem secretaria privativa.
 
-###### Art. 113.º O Conselho Superior de Fomento Ultramarino tem uma secção permanente com a seguinte constituição:
+Art. 113.º O Conselho Superior de Fomento Ultramarino tem uma secção permanente com a seguinte constituição:
 
 1. O presidente, que presidirá também à secção;
 
@@ -1064,7 +1225,7 @@ b) Comissão Central de Nutrição:
 
 6. O presidente da Junta de Investigações do Ultramar.
 
-###### Art. 114.º O Conselho Superior de Fomento Ultramarino funciona em sessões plenárias, por secções ou por subsecções.
+Art. 114.º O Conselho Superior de Fomento Ultramarino funciona em sessões plenárias, por secções ou por subsecções.
 
 § 1.º As sessões plenárias reúnem por convocação do presidente e funcionam com qualquer número de vogais presentes.
 
@@ -1078,15 +1239,15 @@ b) Comissão Central de Nutrição:
 
 § 6.º Os pareceres do Conselho Superior de Fomento Ultramarino e da sua secção permanente são dados por maioria de votos. Os votos de vencido são obrigatòriamente fundamentados.
 
-###### Art. 115.º Os vogais do Conselho Superior de Fomento Ultramarino não remunerados por meio de senhas de presença, cujo montante será fixado pelo Ministro. O presidente e vogais da secção permanente têm direito a uma gratificação mensal a fixar por despacho do Ministro, acumulável com quaisquer vencimentos e gratificações mesmo que ultrapassem o limite legal.
+Art. 115.º Os vogais do Conselho Superior de Fomento Ultramarino não remunerados por meio de senhas de presença, cujo montante será fixado pelo Ministro. O presidente e vogais da secção permanente têm direito a uma gratificação mensal a fixar por despacho do Ministro, acumulável com quaisquer vencimentos e gratificações mesmo que ultrapassem o limite legal.
 
 § único. Sempre que compareçam às sessões para que forem convocados, os vogais do Conselho com domicílio fora de Lisboa serão abonados das despesas de transporte e das ajudas de custo devidas, estas correspondentes aos grupos C a F a que se refere a tabela anexa ao Decreto-Lei n.º 40872, de 23 de Novembro de 1956.
 
-###### Art. 116.º As atribuições, constituição e funcionamento das secções e subsecções do Conselho constarão de portaria do Ministro do Ultramar, sob proposta da secção permanente.
+Art. 116.º As atribuições, constituição e funcionamento das secções e subsecções do Conselho constarão de portaria do Ministro do Ultramar, sob proposta da secção permanente.
 
 #### SECÇÃO IV — Do Conselho Superior Técnico Aduaneiro do Ultramar
 
-###### Art. 117.º O Conselho Superior Técnico Aduaneiro do Ultramar é o órgão consultivo e de estudo dos problemas técnicos aduaneiros das províncias ultramarinas, funcionando também como tribunal de 2.ª e última instância do contencioso técnico aduan[Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614)rt. 118.º Como órgão consultivo e de estudo pertence ao Conselho Superior Técnico Aduaneiro do Ultramar:
+Art. 117.º O Conselho Superior Técnico Aduaneiro do Ultramar é o órgão consultivo e de estudo dos problemas técnicos aduaneiros das províncias ultramarinas, funcionando também como tribunal de 2.ª e última instância do contencioso técnico aduan[Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614)rt. 118.º Como órgão consultivo e de estudo pertence ao Conselho Superior Técnico Aduaneiro do Ultramar:
 
 1. Rever, com vista à sua actualização e uniformização, a legislação aduaneira ultramarina;
 
@@ -1106,7 +1267,7 @@ b) Comissão Central de Nutrição:
 
 § 2.º Constará de diploma legal a execução dos pareceres sobre omissões declaradas pelo Conselho.
 
-###### Art. 119.º Como tribunal de 2.ª e última instância do contencioso técnico aduaneiro do ultramar pertence ao Conselho:
+Art. 119.º Como tribunal de 2.ª e última instância do contencioso técnico aduaneiro do ultramar pertence ao Conselho:
 
 1. Resolver todos os processos de contestação e de divergência que subirem em recurso das deliberações dos conselhos do serviço técnico aduaneiro das províncias ultramarinas;
 
@@ -1114,7 +1275,7 @@ b) Comissão Central de Nutrição:
 
 § único. As deliberações do Conselho como tribunal técnico aduaneiro não definitivas e têm a forma de acórdão.
 
-###### Art. 120.º O Conselho tem a seguinte composição:
+Art. 120.º O Conselho tem a seguinte composição:
 
 1. O inspector superior das Alfândegas do Ultramar, que preside;
 
@@ -1142,13 +1303,13 @@ b) Comissão Central de Nutrição:
 
 § 4.º Nas suas faltas e impedimentos, os membros do Conselho são substituídos pelos respectivos substitutos legais. Quando não haja substitutos legais, no acto de designação dos membros designar-se-á logo o respectivo suplente.
 
-###### Art. 121.º O expediente do Conselho corre pela Repartição das Alfândegas do Ultramar. Servirá de secretário, por designação do Ministro, ouvido o inspector superior das Alfândegas, um funcionário da Inspecção Superior que, além das funções do seu cargo, fará a escrivania dos processos, lavrará as actas e executará o respectivo expediente.
+Art. 121.º O expediente do Conselho corre pela Repartição das Alfândegas do Ultramar. Servirá de secretário, por designação do Ministro, ouvido o inspector superior das Alfândegas, um funcionário da Inspecção Superior que, além das funções do seu cargo, fará a escrivania dos processos, lavrará as actas e executará o respectivo expediente.
 
-###### Art. 122.º Os acórdãos do Conselho Superior Técnico Aduaneiro que ponham termo a processos sobre litígios técnicos aduaneiros são publicados no Diário do Governo e no Boletim Oficial das províncias ultramarinas. O Ministro poderá determinar que sejam publicados no Boletim Oficial de todas as províncias, ou de alguma ou algumas delas, os pareceres cuja matéria interesse divulgar.
+Art. 122.º Os acórdãos do Conselho Superior Técnico Aduaneiro que ponham termo a processos sobre litígios técnicos aduaneiros são publicados no Diário do Governo e no Boletim Oficial das províncias ultramarinas. O Ministro poderá determinar que sejam publicados no Boletim Oficial de todas as províncias, ou de alguma ou algumas delas, os pareceres cuja matéria interesse divulgar.
 
-###### Art. 123.º As custas a cobrar nos processos apreciados pelo Conselho, quando forem devidas, são iguais às que se cobram nos processos da secção do contencioso do Conselho Ultramarino.
+Art. 123.º As custas a cobrar nos processos apreciados pelo Conselho, quando forem devidas, são iguais às que se cobram nos processos da secção do contencioso do Conselho Ultramarino.
 
-###### Art. 124.º O Conselho, quer como tribunal, quer como órgão consultivo, tem as sessões que forem fixadas pelo seu presidente.
+Art. 124.º O Conselho, quer como tribunal, quer como órgão consultivo, tem as sessões que forem fixadas pelo seu presidente.
 
 § 1.º Os membros do Conselho têm direito a senhas de presença, cujo montante será fixado em despacho do Ministro do Ultramar; o secretário do Conselho tem direito à gratificação mensal prevista no mapa VIII anexo a este diploma.
 
@@ -1158,17 +1319,17 @@ b) Comissão Central de Nutrição:
 
 #### SECÇÃO I — Disposições preliminares
 
-###### Art. 125.º Os organismos dependentes do Ministério do Ultramar não considerados nas secções seguintes regem-se por diplomas especiais.
+Art. 125.º Os organismos dependentes do Ministério do Ultramar não considerados nas secções seguintes regem-se por diplomas especiais.
 
-###### Art. 126.º Os serviços centrais do Ministério têm, relativamente aos organismos dependentes, poderes de orientação superior e de fiscalização, incumbindo-lhes ainda informar todas os assuntos das atribuições destes organismos que careçam de despacho ministerial.
+Art. 126.º Os serviços centrais do Ministério têm, relativamente aos organismos dependentes, poderes de orientação superior e de fiscalização, incumbindo-lhes ainda informar todas os assuntos das atribuições destes organismos que careçam de despacho ministerial.
 
-###### Art. 127.º A Junta de Investigações do Ultramar e a Agência-Geral do Ultramar dependem directamente do Ministro; o Hospital do Ultramar e a Escola Nacional de Saúde Pública e de Medicina Tropical, esta quanto aos assuntos que, por lei, sejam da competência do Ministro do Ultramar, dependem da Direcção-Geral de Saúde e Assistência.
+Art. 127.º A Junta de Investigações do Ultramar e a Agência-Geral do Ultramar dependem directamente do Ministro; o Hospital do Ultramar e a Escola Nacional de Saúde Pública e de Medicina Tropical, esta quanto aos assuntos que, por lei, sejam da competência do Ministro do Ultramar, dependem da Direcção-Geral de Saúde e Assistência.
 
 § único. O director do Jardim e Museu Agrícola do Ultramar despacha com o Ministro do Ultramar.
 
 #### SECÇÃO II — Da Agência-Geral do Ultramar
 
-###### Art. 128.º A Agência-Geral do Ultramar é o organismo destinado a fomentar, sempre que possível em colaboração com os serviços metropolitanos congéneres, o conhecimento recíproco das províncias ultramarinas e da metrópole, a divulgar informações relativas àquelas, a orientar e desenvolver o turismo nas províncias e bem assim a exercer, na metrópole, a procuradoria de quaisquer interesses ultramarinos e a funcionar como editorial de publicações respeitantes ao ultramar.
+Art. 128.º A Agência-Geral do Ultramar é o organismo destinado a fomentar, sempre que possível em colaboração com os serviços metropolitanos congéneres, o conhecimento recíproco das províncias ultramarinas e da metrópole, a divulgar informações relativas àquelas, a orientar e desenvolver o turismo nas províncias e bem assim a exercer, na metrópole, a procuradoria de quaisquer interesses ultramarinos e a funcionar como editorial de publicações respeitantes ao ultramar.
 
 § 1.º À Agência-Geral do Ultramar incumbe assegurar a coordenação dos serviços provinciais de informação e turismo e prestar-lhes a assistência técnica de que carecerem.
 
@@ -1176,15 +1337,15 @@ b) Comissão Central de Nutrição:
 
 3.º A Agência-Geral do Ultramar goza de autonomia administrativa.
 
-###### Art. 129.º Desempenha as funções de agente-geral do Ultramar um inspector superior de administração ultramarina, para o efeito designado pelo Ministro em comissão de dois anos, renovável.
+Art. 129.º Desempenha as funções de agente-geral do Ultramar um inspector superior de administração ultramarina, para o efeito designado pelo Ministro em comissão de dois anos, renovável.
 
 § 1.º A Agência-Geral do Ultramar tem um director de serviços, no qual o agente-geral poderá delegar uma parte da sua competência. Nos seus impedimentos o agente-geral é substituído por outro inspector superior de administração ultramarina que o Ministro designar para o efeito e, na falta de designação, pelo director de serviços.
 
 § 2.º O agente-geral do Ultramar exerce, relativamente aos serviços respectivos, funções correspondentes às de director-geral. Pelo exercício destas funções receberá a gratificação mensal fixada no mapa XIII anexo a este diploma.
 
-###### Art. 130.º A Agência-Geral do Ultramar compreende um gabinete orientador das publicações e três repartições: a dos Serviços Administrativos e de Procuradoria-Geral, a dos Serviços de Relações Públicas e Turismo e a dos Serviços Técnicos e Editoriais.
+Art. 130.º A Agência-Geral do Ultramar compreende um gabinete orientador das publicações e três repartições: a dos Serviços Administrativos e de Procuradoria-Geral, a dos Serviços de Relações Públicas e Turismo e a dos Serviços Técnicos e Editoriais.
 
-###### Art. 131.º Pertence à Repartição dos Serviços Administrativos e de Procuradoria-Geral:
+Art. 131.º Pertence à Repartição dos Serviços Administrativos e de Procuradoria-Geral:
 
 1. A execução de todas as incumbências dos governos e entidades de direito público das províncias, nomeadamente quanto a aquisição de mercadorias, seu seguro e expedição, a fiscalização das encomendas ou a prestação das informações que lhe forem solicitadas para os mesmos efeitos;
 
@@ -1204,7 +1365,7 @@ b) Comissão Central de Nutrição:
 
 9. O registo da correspondência recebida e expedida e bem assim a organização e a guarda do arquivo burocrático da Agência-Geral.
 
-###### Art. 132.º Pertence à Repartição dos Serviços de Relações Públicas e Turismo:
+Art. 132.º Pertence à Repartição dos Serviços de Relações Públicas e Turismo:
 
 1. A recolha, sistematização e divulgação planeada, em colaboração com as entidades similares metropolitanas e do ultramar, de elementos informativos respeitantes às actividades oficiais e particulares tanto nas províncias ultramarinas como na metrópole, exceptuadas as de natureza científica, com vista a um melhor conhecimento recíproco;
 
@@ -1218,7 +1379,7 @@ b) Comissão Central de Nutrição:
 
 6. A manutenção de ligações com os meios de informação, designadamente imprensa, cinema, rádio e televisão.
 
-###### Art. 133.º Pertence à Repartição dos Serviços Técnicos e Editoriais:
+Art. 133.º Pertence à Repartição dos Serviços Técnicos e Editoriais:
 
 1. A organização, de acordo com a orientação superiormente estabelecida, dos planos de publicações culturais e de divulgação da Agência, incluindo o Boletim Geral do Ultramar, sua apresentação gráfica e revisão tipográfica;
 
@@ -1226,7 +1387,7 @@ b) Comissão Central de Nutrição:
 
 3. A organização de um arquivo de filmes, gravações, fotografias e gravuras respeitantes a actividades culturais, etnográficas, artísticas, turísticas, cinegéticas ou outras do ultramar português.
 
-###### Art. 134.º A Agência-Geral do Ultramar tem um conselho administrativo composto pelo agente-geral, pelo director de serviços, pelo chefe da Repartição dos Serviços Administrativos e por um funcionário da Direcção-Geral de Fazenda, designado por despacho do Ministro. Servem de suplentes os chefes das outras duas repartições, pela ordem da sua antiguidade.
+Art. 134.º A Agência-Geral do Ultramar tem um conselho administrativo composto pelo agente-geral, pelo director de serviços, pelo chefe da Repartição dos Serviços Administrativos e por um funcionário da Direcção-Geral de Fazenda, designado por despacho do Ministro. Servem de suplentes os chefes das outras duas repartições, pela ordem da sua antiguidade.
 
 § 1.º O agente-geral do Ultramar designará um chefe de secção da Agência-Geral para secretariar o conselho administrativo.
 
@@ -1234,7 +1395,7 @@ b) Comissão Central de Nutrição:
 
 ##### SUBSECÇÃO ÚNICA — Do Gabinete Orientador das Publicações
 
-###### Art. 135.º Incumbe ao Gabinete Orientador das Publicações:
+Art. 135.º Incumbe ao Gabinete Orientador das Publicações:
 
 1. Dar parecer sobre o plano de publicações culturais e de divulgação da Agência-Geral do Ultramar;
 
@@ -1242,7 +1403,7 @@ b) Comissão Central de Nutrição:
 
 3. Sugerir ou apreciar as propostas para a edição ou reedição de livros ou outras publicações, quando o julgar de interesse.
 
-###### Art. 136.º O Gabinete Orientador das Publicações é constituído:
+Art. 136.º O Gabinete Orientador das Publicações é constituído:
 
 1. Pelo agente-geral do Ultramar, que preside;
 
@@ -1262,7 +1423,7 @@ b) Comissão Central de Nutrição:
 
 #### SECÇÃO III — Do Arquivo Histórico Ultramarino
 
-###### Art. 137.º O Arquivo Histórico Ultramarino é o organismo encarregado da guarda da documentação relativa à história da acção portuguesa em terras de além-mar. Incumbe-lhe especialmente:
+Art. 137.º O Arquivo Histórico Ultramarino é o organismo encarregado da guarda da documentação relativa à história da acção portuguesa em terras de além-mar. Incumbe-lhe especialmente:
 
 1. Arquivar, inventariar e catalogar os documentos que nele se incluem ou que venha a adquirir a qualquer título;
 
@@ -1278,21 +1439,21 @@ b) Comissão Central de Nutrição:
 
 § 3.º Quando nas províncias ultramarinas houver arquivos da mesma natureza, o Ministro do Ultramar determinará a forma de distribuição por um e outros da documentação oficial de interesse histórico.
 
-###### Art. 138.º São obrigatòriamente incluídos no Arquivo Histórico Ultramarino:
+Art. 138.º São obrigatòriamente incluídos no Arquivo Histórico Ultramarino:
 
 1. Os documentos de relevante interesse histórico até final do século XIX que pertençam ao Ministério do Ultramar, organismos seus dependentes, organismos consultivos e governos ultramarinos;
 
 2. Os mapas, cartas, plantas, roteiros, guias, mapas náuticos ou outros documentos portugueses de natureza cartográfica que venham a ser possuídos pelas mesmas entidades.
 
-###### Art. 139.º No Arquivo Histórico Ultramarino funciona o arquivo geral do Ministério. Todos os serviços centrais do Ministério, organismos consultivos e organismos dependentes devem enviar-lhe, decorridos cinco anos sobre a data do seu último documento ou, antes disso, quando se presuma que já não venham a ser movimentados, todos os processos findos devidamente acondicionados e relacionados.
+Art. 139.º No Arquivo Histórico Ultramarino funciona o arquivo geral do Ministério. Todos os serviços centrais do Ministério, organismos consultivos e organismos dependentes devem enviar-lhe, decorridos cinco anos sobre a data do seu último documento ou, antes disso, quando se presuma que já não venham a ser movimentados, todos os processos findos devidamente acondicionados e relacionados.
 
-###### Art. 140.º Os documentos do Arquivo Histórico Ultramarino podem ser facultados à leitura à medida que forem inventariados, nos termos do seu regulamento interno.
+Art. 140.º Os documentos do Arquivo Histórico Ultramarino podem ser facultados à leitura à medida que forem inventariados, nos termos do seu regulamento interno.
 
-###### Art. 141.º Para colaborar na organização de inventários e catálogos é admitida a prestação de serviço acidental por pessoas estranhas ao Arquivo Histórico Ultramarino, dentro das verbas orçamentadas para o efeito.
+Art. 141.º Para colaborar na organização de inventários e catálogos é admitida a prestação de serviço acidental por pessoas estranhas ao Arquivo Histórico Ultramarino, dentro das verbas orçamentadas para o efeito.
 
 § único. O serviço previsto no corpo do artigo durará o tempo estritamente necessário e a sua remuneração será fixada pelo Ministro, sob proposta do director do Arquivo, de harmonia com a importância e a natureza do serviço.
 
-###### Art. 142.º O Arquivo Histórico Ultramarino é dirigido por um funcionário com a categoria e competência de chefe de repartição do Ministério.
+Art. 142.º O Arquivo Histórico Ultramarino é dirigido por um funcionário com a categoria e competência de chefe de repartição do Ministério.
 
 § único. O director do Arquivo Histórico Ultramarino é vogal do Centro de Estudos Históricos Ultramarinos, dirige o Gabinete Orientador da Biblioteca do Ministério e é membro do Gabinete da Acção Educativa e do Gabinete Orientador das Publicações da Agência-Geral do Ultramar.
 
@@ -1300,9 +1461,9 @@ b) Comissão Central de Nutrição:
 
 ### CAPÍTULO I — Da organização dos quadros
 
-###### Art. 143.º Os funcionários do Ministério de categoria igual ou superior à de chefe de secção pertencem aos quadros comuns do ultramar; os restantes funcionários pertencem aos seus quadros privativos.
+Art. 143.º Os funcionários do Ministério de categoria igual ou superior à de chefe de secção pertencem aos quadros comuns do ultramar; os restantes funcionários pertencem aos seus quadros privativos.
 
-###### Art. 144.º No Ministério formam quadros separados o pessoal da Repartição do Gabinete, o pessoal de secretaria, o pessoal de dactilografia, o pessoal dos serviços gerais e o pessoal técnico ou especializado dos vários ramos de serviços.
+Art. 144.º No Ministério formam quadros separados o pessoal da Repartição do Gabinete, o pessoal de secretaria, o pessoal de dactilografia, o pessoal dos serviços gerais e o pessoal técnico ou especializado dos vários ramos de serviços.
 
 § 1.º Pertencem ao quando de secretaria os escriturários e os primeiros, segundos e terceiros-oficiais colocados quer nos serviços centrais, quer nos organismos consultivos ou nos organismos dependentes, exceptuados apenas os que prestam serviço na Direcção-Geral de Fazenda, na Direcção dos Serviços de Correios, Telégrafos e Telefones do Ultramar, no Hospital do Ultramar e no Instituto Ultramarino.
 
@@ -1314,7 +1475,7 @@ b) Comissão Central de Nutrição:
 
 ### CAPÍTULO II — Da competência dos funcionários
 
-###### Art. 145.º Além da competência que esteja ou venha a ser fixada em disposições especiais, incumbe aos directores-gerais superintender em todos os serviços das respectivas direcções-gerais, submetendo a despacho ministerial, com o seu parecer, os assuntos que careçam de resolução superior e resolvendo aqueles para que tenham competência por disposição legal ou por delegação do Ministro. Incumbe-lhes nomeadamente, através dos respectivos serviços:
+Art. 145.º Além da competência que esteja ou venha a ser fixada em disposições especiais, incumbe aos directores-gerais superintender em todos os serviços das respectivas direcções-gerais, submetendo a despacho ministerial, com o seu parecer, os assuntos que careçam de resolução superior e resolvendo aqueles para que tenham competência por disposição legal ou por delegação do Ministro. Incumbe-lhes nomeadamente, através dos respectivos serviços:
 
 1. Manter conhecimento actualizado da vida ultramarina, principalmente nos aspectos que interessarem à direcção-geral;
 
@@ -1342,13 +1503,13 @@ b) Comissão Central de Nutrição:
 
 2.º Na Direcção-Geral de Administração Civil, a posse dos funcionários que por lei devam tomá-la na metrópole é conferida pelo director-geral ou quem as suas vezes fizer, ou pelo director de serviços.
 
-###### Art. 146.º O Ministro exerce poder hierárquico em relação a todos os actos dos directores-gerais praticados no uso da competência própria ou delegada.
+Art. 146.º O Ministro exerce poder hierárquico em relação a todos os actos dos directores-gerais praticados no uso da competência própria ou delegada.
 
-###### Art. 147.º Os directores-gerais têm competência para conduzir a instrução dos processos até à fase de decisão final, promovendo a obtenção de todos os elementos que julgarem necessários e dirigindo-se para o efeito aos vários departamentos do Ministério, aos serviços dos outros departamentos do Estado e ainda a quaisquer entidades públicas ou particulares. O pedido de pareceres aos órgãos consultivos depende, porém, de despacho ministerial.
+Art. 147.º Os directores-gerais têm competência para conduzir a instrução dos processos até à fase de decisão final, promovendo a obtenção de todos os elementos que julgarem necessários e dirigindo-se para o efeito aos vários departamentos do Ministério, aos serviços dos outros departamentos do Estado e ainda a quaisquer entidades públicas ou particulares. O pedido de pareceres aos órgãos consultivos depende, porém, de despacho ministerial.
 
 § único. A competência fixada no corpo do artigo poderá ser delegada pelos directores-gerais nos adjuntos, directores de serviços e chefes de repartição quanto à consulta de serviços internos do Ministério e de entidades particulares. Poderão também delegar a assinatura de outro expediente e, sob a sua orientação, a resolução de assuntos insusceptíveis de discussão hierárquica ou contenciosa.
 
-###### Art. 148.º Incumbe em geral aos inspectores superiores, independentemente das funções especiais que lhes são cometidas pelo presente diploma:
+Art. 148.º Incumbe em geral aos inspectores superiores, independentemente das funções especiais que lhes são cometidas pelo presente diploma:
 
 1. Realizar as inspecções, sindicâncias e inquéritos que lhes forem determinados, examinando os livros, papéis e demais documentos respeitantes às entidades inspeccionadas, e ouvir todas as entidades públicas ou particulares que entenderem indispensáveis para o cumprimento da sua missão;
 
@@ -1378,13 +1539,13 @@ b) Comissão Central de Nutrição:
 
 3. Usar da competência indicada nos números anteriores em relação aos estabelecimentos ou organismos que, na metrópole, administrem fundos das províncias ultramarinas ou por elas sejam total ou parcialmente custeados.
 
-###### Art. 149.º Sem prejuízo do anteriormente disposto sobre a matéria, os inspectores superiores dependem directamente do Ministro.
+Art. 149.º Sem prejuízo do anteriormente disposto sobre a matéria, os inspectores superiores dependem directamente do Ministro.
 
 § único. O Ministro poderá determinar, sob proposta dos directores-gerais, que estes sejam coadjuvados no exercício das suas funções por um inspector superior do respectivo ramo de serviço, no qual poderão delegar, com o acordo do Ministro, a parte que entenderem da sua competência.
 
-###### Art. 150.º Incumbem aos inspectores as mesmas funções dos inspectores superiores, dentro do âmbito que lhes for fixado.
+Art. 150.º Incumbem aos inspectores as mesmas funções dos inspectores superiores, dentro do âmbito que lhes for fixado.
 
-###### Art. 151.º Compete aos directores de serviços ou aos chefes de repartição, conforme os casos:
+Art. 151.º Compete aos directores de serviços ou aos chefes de repartição, conforme os casos:
 
 1. Coadjuvar o director-geral no desempenho das suas funções e cooperar com os outros chefes no andamento dos problemas de interesse comum;
 
@@ -1410,9 +1571,9 @@ b) Comissão Central de Nutrição:
 
 § 4.º Os directores de serviços e os chefes de repartição podem, sob sua responsabilidade, delegar respectivamente nos chefes de repartição e nos chefes de secção a assinatura de notas internas, guias, remessa de dados estatísticos, cópias ou outros documentos da mesma natureza, simples comunicações de assuntos já despachados, convocações a funcionários e de tudo que possa considerar-se de expediente normal.
 
-###### Art. 152.º Nas direcções-gerais divididas em direcções de serviços, os directores de serviços têm a competência de adjuntos para o respectivo ramo. Nas direcções-gerais em que haja um único director de serviços este terá, além das do seu cargo, as funções de adjunto do director-geral.
+Art. 152.º Nas direcções-gerais divididas em direcções de serviços, os directores de serviços têm a competência de adjuntos para o respectivo ramo. Nas direcções-gerais em que haja um único director de serviços este terá, além das do seu cargo, as funções de adjunto do director-geral.
 
-###### Art. 153.º Compete aos chefes de secção:
+Art. 153.º Compete aos chefes de secção:
 
 1. Coadjuvar o chefe de repartição nos trabalhos respectivos e dirigir e colaborar na execução dos serviços que competirem à secção;
 
@@ -1422,13 +1583,13 @@ b) Comissão Central de Nutrição:
 
 § único. Os chefes de secção são substituídos, nas suas faltas e impedimentos, pelo funcionário de categoria mais elevada da secção que for designado pelo chefe da repartição com a concordância do director-geral.
 
-###### Art. 154.º Aos restantes funcionários compete executar, segundo as instruções recebidas, o serviço correspondente aos seus cargos ou de que sejam encarregados pelos respectivos superiores hierárquicos.
+Art. 154.º Aos restantes funcionários compete executar, segundo as instruções recebidas, o serviço correspondente aos seus cargos ou de que sejam encarregados pelos respectivos superiores hierárquicos.
 
 § 1.º Ao verificador do quadro técnico da Inspecção Superior das Alfândegas do Ultramar que exercer as funções de despachante incumbe a realização, na Alfândega de Lisboa, dos despachos das mercadorias expedidas pelo Ministério do Ultramar ou a ele consignadas.
 
 § 2.º Sempre que as necessidades do serviço o imponham, os terceiros-oficiais e os escriturários poderão ser incumbidos de trabalhos de dactilografia, conforme os respectivos chefes ou responsáveis determinarem.
 
-###### Art. 155.º Compete especialmente ao chefe do pessoal menor:
+Art. 155.º Compete especialmente ao chefe do pessoal menor:
 
 1. A disciplina e a fiscalização da pontualidade de todo o pessoal menor, sem prejuízo da subordinação hierárquica deste aos funcionários sob cujas ordens servir;
 
@@ -1438,21 +1599,21 @@ b) Comissão Central de Nutrição:
 
 ### CAPÍTULO III — Do provimento dos lugares
 
-###### Art. 156.º Os lugares dos quadros do Ministério são providos por nomeação, contrato ou comissão de serviço.
+Art. 156.º Os lugares dos quadros do Ministério são providos por nomeação, contrato ou comissão de serviço.
 
 § 1.º O provimento dos lugares do quadro dos serviços gerais é feito exclusivamente por contrato.
 
 § 2.º As comissões de serviço apenas se verificarão nos casos expressamente previstos na lei.
 
-###### Art. 157.º Salvo o que estiver determinado em disposições especiais, o preenchimento dos lugares do Ministério rege-se pelos preceitos dos artigos seguintes. Na falta de disposições gerais ou especiais os lugares são providos por livre escolha do Ministro. Os lugares de tesoureiro, tesoureiro-pagador ou outros com funções semelhantes são sempre providos mediante proposta do dirigente do respectivo serviço.
+Art. 157.º Salvo o que estiver determinado em disposições especiais, o preenchimento dos lugares do Ministério rege-se pelos preceitos dos artigos seguintes. Na falta de disposições gerais ou especiais os lugares são providos por livre escolha do Ministro. Os lugares de tesoureiro, tesoureiro-pagador ou outros com funções semelhantes são sempre providos mediante proposta do dirigente do respectivo serviço.
 
-###### Art. 158.º O chefe do Gabinete, os secretários e o oficial às ordens do Ministro do Ultramar são livremente nomeados e exonerados pelo Ministro.
+Art. 158.º O chefe do Gabinete, os secretários e o oficial às ordens do Ministro do Ultramar são livremente nomeados e exonerados pelo Ministro.
 
 § 1.º Os secretários dos Subsecretários de Estado são nomeados e exonerados pelo Ministro, mediante proposta daqueles.
 
 § 2.º O oficial às ordens do Ministro não poderá ter patente superior à de major ou capitão-tenente. Quando não estiver provido o cargo de oficial às ordens poderá o Ministro ter dois secretários.
 
-###### Art. 159.º Os lugares de secretário-geral, de director-geral e de presidente do Conselho Superior de Fomento Ultramarino são livremente providos pelo Ministro em pessoas que, pelas suas especiais qualificações e serviços prestados, possuam comprovada idoneidade para o desempenho dos referidos cargos.
+Art. 159.º Os lugares de secretário-geral, de director-geral e de presidente do Conselho Superior de Fomento Ultramarino são livremente providos pelo Ministro em pessoas que, pelas suas especiais qualificações e serviços prestados, possuam comprovada idoneidade para o desempenho dos referidos cargos.
 
 § 1.º Para o provimento dos lugares a que se refere o corpo do artigo serão considerados especialmente os serviços prestados nas províncias ultramarinas ou no Ministério do Ultramar.
 
@@ -1460,7 +1621,7 @@ b) Comissão Central de Nutrição:
 
 Pela acumulação das funções, o director-geral de Justiça terá direito à gratificação constante do mapa X anexo a este diploma.
 
-###### Art. 160.º Os lugares de inspector superior são providos, por escolha do Ministro, entre as pessoas adiante designadas:
+Art. 160.º Os lugares de inspector superior são providos, por escolha do Ministro, entre as pessoas adiante designadas:
 
 1. Inspectores superiores de administração ultramarina: pessoas que, pelo menos, tenham desempenhado no ultramar funções de governador de distrito ou inspector administrativo ou, no Ministério, pelo menos as de chefe de repartição ou equivalente;
 
@@ -1484,7 +1645,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 3.º Dos inspectores superiores de obras públicas e comunicações quatro, pelo menos, serão engenheiros civis, dois engenheiros electrotécnicos, sendo um especializado em correios, telégrafos e telefones e outro arquitecto.
 
-###### Art. 161.º Os lugares de director de serviços são providos, por escolha do Ministro, de acordo com as regras seguintes:
+Art. 161.º Os lugares de director de serviços são providos, por escolha do Ministro, de acordo com as regras seguintes:
 
 1. Directores de serviços da Direcção-Geral de Administração Civil e da Agência-Geral do Ultramar: entre os funcionários a que se refere o artigo 163.º, § 1.º, n.º 1, ou inspectores administrativos, em qualquer caso habilitados com os cursos superiores de Direito ou de Ciências Sociais e Política Ultramarina;
 
@@ -1498,9 +1659,9 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § único. O lugar de director de serviços do Gabinete de Planeamento e Integração Económica é exercido em comissão de dois anos, renovável, mediante designação do Ministro do Ultramar, por funcionários do quadro comum do ultramar, de categoria imediatamente inferior, habilitados com um curso superior adaptado ao cargo.
 
-###### Art. 162.º O lugar de juiz técnico aduaneiro da Inspecção Superior das Alfândegas do Ultramar é provido por escolha do Ministro entre directores de serviços do quadro técnico aduaneiro comum do ultramar que tenham revelado especial competência, dando-se preferência aos que possuam os cursos superiores de Direito, de Economia, de Ciências Económicas e Financeiras ou de Ciências Sociais e Política Ultramarina.
+Art. 162.º O lugar de juiz técnico aduaneiro da Inspecção Superior das Alfândegas do Ultramar é provido por escolha do Ministro entre directores de serviços do quadro técnico aduaneiro comum do ultramar que tenham revelado especial competência, dando-se preferência aos que possuam os cursos superiores de Direito, de Economia, de Ciências Económicas e Financeiras ou de Ciências Sociais e Política Ultramarina.
 
-###### Art. 163.º Os lugares de chefe de repartição ou equiparados, não especialmente previstos noutra disposição, devem ser providos por escolha do Ministro entre funcionários de categoria imediatamente inferior, diplomados com um curso superior adaptável ao cargo e que tenham revelado qualidades de chefia e especial competência.
+Art. 163.º Os lugares de chefe de repartição ou equiparados, não especialmente previstos noutra disposição, devem ser providos por escolha do Ministro entre funcionários de categoria imediatamente inferior, diplomados com um curso superior adaptável ao cargo e que tenham revelado qualidades de chefia e especial competência.
 
 § 1.º No provimento dos lugares abaixo designados observar-se-á o seguinte:
 
@@ -1520,11 +1681,11 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 2.º Os funcionários providos nos lugares a que se refere o n.º 1 e nos de inspector administrativo são livremente permutáveis entre si.
 
-###### Art. 164.º Os lugares de chefe de secção não especialmente excluídos desta regra serão providos por escolha do Ministro de entre intendentes de distrito ou por promoção, nos termos da lei, entre primeiros-oficiais do quadro de secretaria do Ministério e administradores de circunscrição dos quadros ultramarinos, precedendo parecer do Conselho Superior de Disciplina do Ultramar.
+Art. 164.º Os lugares de chefe de secção não especialmente excluídos desta regra serão providos por escolha do Ministro de entre intendentes de distrito ou por promoção, nos termos da lei, entre primeiros-oficiais do quadro de secretaria do Ministério e administradores de circunscrição dos quadros ultramarinos, precedendo parecer do Conselho Superior de Disciplina do Ultramar.
 
 § único. Os lugares de chefe de secção ou superiores do Gabinete dos Negócios Políticos só podem ser preenchidos por diplomados com os cursos superiores de Direito, de Economia, de Ciências Económicas e Financeiras ou de Ciências Sociais e Política Ultramarina ou outro curso superior adequado.
 
-###### Art. 165.º No quadro de secretaria os lugares são providos normalmente por meio de concurso de provas práticas.
+Art. 165.º No quadro de secretaria os lugares são providos normalmente por meio de concurso de provas práticas.
 
 § 1.º Aos concursos para primeiro e segundo-oficial deverão apresentar-se os funcionários que na categoria imediatamente inferior tenham prestado serviço durante pelo menos três anos, com boas informações.
 
@@ -1534,9 +1695,9 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 4.º Ao concurso para escriturário só serão admitidos indivíduos com, pelo menos, o 1.º ciclo dos liceus ou habilitação equivalente.
 
-###### Art. 166.º O pessoal do quadro de dactilografia é nomeado, precedendo concurso de provas práticas, entre pessoas habilitadas com o exame da 4.ª classe da instrução primária ou equivalente dando-se preferência, em igualdade de circunstâncias, às que possuam maiores habilitações literárias.
+Art. 166.º O pessoal do quadro de dactilografia é nomeado, precedendo concurso de provas práticas, entre pessoas habilitadas com o exame da 4.ª classe da instrução primária ou equivalente dando-se preferência, em igualdade de circunstâncias, às que possuam maiores habilitações literárias.
 
-###### Art. 167.º O pessoal do quadro dos serviços gerais é livremente escolhido pelo Ministro entre pessoas que possuam o exame da 4.ª classe da instrução primária ou equivalente e as qualificações especiais que porventura os cargos exijam.
+Art. 167.º O pessoal do quadro dos serviços gerais é livremente escolhido pelo Ministro entre pessoas que possuam o exame da 4.ª classe da instrução primária ou equivalente e as qualificações especiais que porventura os cargos exijam.
 
 § 1.º Os lugares de paquete poderão ser providos em indivíduos com menos de 18 anos de idade.
 
@@ -1544,7 +1705,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 3.º Enquanto o merecer, exercerá as funções de chefe do pessoal menor do Ministério um dos contínuos de 1.ª classe designado pelo Ministro.
 
-###### Art. 168.º O pessoal da Repartição do Gabinete pode ser próprio ou destacado de outros quadros do Ministério, dos organismos consultivos ou dependentes ou das províncias ultramarinas, em regime de comissão de serviço.
+Art. 168.º O pessoal da Repartição do Gabinete pode ser próprio ou destacado de outros quadros do Ministério, dos organismos consultivos ou dependentes ou das províncias ultramarinas, em regime de comissão de serviço.
 
 § 1.º Os dactilógrafos, os terceiros-oficiais, os encarregados do arquivo e o estenógrafo do quadro próprio são nomeados por livre escolha do Ministro, mas a recondução e a nomeação definitiva obedecerão às regras gerais do Estatuto do Funcionalismo Ultramarino.
 
@@ -1556,19 +1717,19 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 5.º Os funcionários a que se refere o parágrafo anterior só podem ser transferidos para lugares da sua categoria no quadro de secretaria do Ministério se, no quadro próprio da repartição, possuírem já nomeação definitiva.
 
-###### Art. 169.º Os chefes dos serviços militares e de marinha são oficiais superiores do Exército, da Aeronáutica ou da Armada, requisitados pelo Ministro do Ultramar aos respectivos departamentos.
+Art. 169.º Os chefes dos serviços militares e de marinha são oficiais superiores do Exército, da Aeronáutica ou da Armada, requisitados pelo Ministro do Ultramar aos respectivos departamentos.
 
 § 1.º O restante pessoal militar dos mesmos serviços é também requisitado pelo Ministro às respectivas secretarias de Estado.
 
 § 2.º Os lugares de sargento dos referidos serviços podem, quando se mostre conveniente, ser providos por terceiros-oficiais do quadro de secretaria do Ministério.
 
-###### Art. 170.º O lugar de bibliotecário da Secretaria-Geral é livremente provido pelo Ministro do Ultramar em diplomado com curso que especialmente o qualifique para o cargo.
+Art. 170.º O lugar de bibliotecário da Secretaria-Geral é livremente provido pelo Ministro do Ultramar em diplomado com curso que especialmente o qualifique para o cargo.
 
-###### Art. 171.º Os lugares de inspector de educação são providos, por escolha do Ministro, entre funcionários da mesma categoria dos correspondentes quadros ultramarinos ou da Direcção-Geral de Educação ou por nomeação, na forma da lei.
+Art. 171.º Os lugares de inspector de educação são providos, por escolha do Ministro, entre funcionários da mesma categoria dos correspondentes quadros ultramarinos ou da Direcção-Geral de Educação ou por nomeação, na forma da lei.
 
-###### Art. 172.º O lugar de consultor missionário é provido por livre escolha do Ministro entre missionários com, pelo menos, cinco anos de permanência no ultramar. Pelo exercício do cargo é devida, a título de compensação de serviços, a gratificação mensal fixada no mapa IX anexo a este diploma, sem quaisquer outros direitos relativamente à função pública.
+Art. 172.º O lugar de consultor missionário é provido por livre escolha do Ministro entre missionários com, pelo menos, cinco anos de permanência no ultramar. Pelo exercício do cargo é devida, a título de compensação de serviços, a gratificação mensal fixada no mapa IX anexo a este diploma, sem quaisquer outros direitos relativamente à função pública.
 
-###### Art. 173.º No quadro próprio dos serviços de Fazenda do Ministério o ingresso faz-se pela categoria de terceiro-oficial, por meio de concurso de provas práticas entre pessoas habilitadas com, pelo menos, o 2.º ciclo liceal ou o curso complementar de qualquer das escolas comerciais secundárias.
+Art. 173.º No quadro próprio dos serviços de Fazenda do Ministério o ingresso faz-se pela categoria de terceiro-oficial, por meio de concurso de provas práticas entre pessoas habilitadas com, pelo menos, o 2.º ciclo liceal ou o curso complementar de qualquer das escolas comerciais secundárias.
 
 § 1.º O Ministro pode nomear para os lugares a que se refere o corpo do artigo, independentemente de concurso, diplomados com curso superior adaptado ao cargo.
 
@@ -1576,7 +1737,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 3.º Os lugares de chefe de secção são providos por escolha do Ministro entre directores de Fazenda de 3.ª classe dos quadros ultramarinos ou por promoção dos primeiros-oficiais do quadro de Fazenda do Ministério, ouvido neste caso o Conselho Superior de Disciplina do Ultramar.
 
-###### Art. 174.º O provimento dos lugares de técnico do quadro da Direcção-Geral de Economia é feito da seguinte forma:
+Art. 174.º O provimento dos lugares de técnico do quadro da Direcção-Geral de Economia é feito da seguinte forma:
 
 1. Os lugares de técnico de 3.ª classe são preenchidos mediante concurso documental a que poderão concorrer diplomados com qualquer curso superior adaptável ao cargo;
 
@@ -1584,7 +1745,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § único. Os técnicos em serviço no Gabinete de Planeamento e Integração Económica pertencem ao quadro de técnicos da Direcção-Geral de Economia e com estes são livremente permutáveis.
 
-###### Art. 175.º O provimento dos lugares do quadro próprio da Direcção-Geral de Obras Públicas e Comunicações é feito da seguinte forma:
+Art. 175.º O provimento dos lugares do quadro próprio da Direcção-Geral de Obras Públicas e Comunicações é feito da seguinte forma:
 
 1. Os lugares de engenheiro e de arquitecto de 2.ª classe são preenchidos por meio de concurso documental entre técnicos diplomados com os cursos a que se refere o n.º 4 do artigo 160.º ou com o curso de arquitectura;
 
@@ -1606,25 +1767,25 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 10. Os lugares do quadro próprio da Repartição dos Correios, Telégrafos e Telefones do Ultramar não especificados nos artigos anteriores são livremente providos pelo Ministro, em comissão ordinária de serviço, de entre funcionários dos respectivos-quadros ultramarinos de categoria equivalente.
 
-###### Art. 176.º Os lugares de verificador, oficial e oficial estagiário do quadro próprio da Inspecção Superior das Alfândegas do Ultramar são preenchidos nos mesmos termos e com iguais condições de acesso dos funcionários dos quadros técnicos aduaneiros das províncias ultramarinas por diplomados com os cursos superiores de Direito, de Economia, de Ciências Económicas e Financeiras ou de Ciências Sociais e Política Ultramarina ou ainda com o curso de perito aduaneiro dos institutos comerciais.
+Art. 176.º Os lugares de verificador, oficial e oficial estagiário do quadro próprio da Inspecção Superior das Alfândegas do Ultramar são preenchidos nos mesmos termos e com iguais condições de acesso dos funcionários dos quadros técnicos aduaneiros das províncias ultramarinas por diplomados com os cursos superiores de Direito, de Economia, de Ciências Económicas e Financeiras ou de Ciências Sociais e Política Ultramarina ou ainda com o curso de perito aduaneiro dos institutos comerciais.
 
 § único. Um dos verificadores da Inspecção Superior das Alfândegas do Ultramar desempenhará as funções de despachante, por simples designação do Ministro, sob proposta do inspector superior das Alfândegas.
 
-###### Art. 177.º O provimento dos lugares do quadro próprio da Direcção-Geral de Saúde e Assistência é feito da seguinte forma:
+Art. 177.º O provimento dos lugares do quadro próprio da Direcção-Geral de Saúde e Assistência é feito da seguinte forma:
 
 1. O lugar de técnico farmacêutico é provido por livre escolha do Ministro entre licenciados em Farmácia com, pelo menos, cinco anos de exercício da profissão e em regra oriundos dos quadros ultramarinos;
 
 2. Os lugares de superintendente de enfermagem e de adjunto de assistência social são providos, por livre escolha do Ministro, respectivamente por enfermeiros gerais, em regra oriundos dos serviços de saúde e assistência do ultramar e por diplomados com o curso de assistente social, em qualquer dos casos com, pelo menos, cinco anos de exercício da profissão.
 
-###### Art. 178.º Os funcionários do Ministério do Ultramar pertencentes ao quadro de secretaria e aos quadros dos vários ramos de serviço podem ser transferidos para lugares de categoria equivalente dos correspondentes quadros ultramarinos, desde que possuam as qualificações técnicas exigidas para estes últimos, e nas mesmas condições podem ser colocados no Ministério funcionários dos quadros ultramarinos.
+Art. 178.º Os funcionários do Ministério do Ultramar pertencentes ao quadro de secretaria e aos quadros dos vários ramos de serviço podem ser transferidos para lugares de categoria equivalente dos correspondentes quadros ultramarinos, desde que possuam as qualificações técnicas exigidas para estes últimos, e nas mesmas condições podem ser colocados no Ministério funcionários dos quadros ultramarinos.
 
 § único. A colocação nos quadros administrativos das províncias só poderá ser feita se os funcionários do quadro de secretaria tiverem, pelo menos, três anos de serviço no Ministério na categoria correspondente e se estiverem abrangidos pelas leis sobre o recrutamento militar, observadas ainda as regras legais quanto às percentagens a reservar aos diplomados.
 
-###### Art. 179.º Sempre que, para efeitos de promoção nos quadros do Ministério ou nos quadros ultramarinos, a lei exija determinado tempo de serviço na categoria ou classe inferior, o mesmo tempo é indiferentemente contado nuns e noutros quadros, nos termos da lei, desde que as categorias sejam equivalentes. Da mesma forma se procederá se a lei exigir, para promoção, determinado tempo de serviço na carreira.
+Art. 179.º Sempre que, para efeitos de promoção nos quadros do Ministério ou nos quadros ultramarinos, a lei exija determinado tempo de serviço na categoria ou classe inferior, o mesmo tempo é indiferentemente contado nuns e noutros quadros, nos termos da lei, desde que as categorias sejam equivalentes. Da mesma forma se procederá se a lei exigir, para promoção, determinado tempo de serviço na carreira.
 
 § único. Sempre que no presente diploma se exigirem, para o provimento de quaisquer lugares, os cursos superiores professados no Instituto Superior de Ciências Sociais e Política Ultramarina, consideram-se abrangidos os antigos cursos da Escola Superior Colonial e do Instituto Superior de Estudos Ultramarinos.
 
-###### Art. 180.º Para os efeitos deste diploma, consideram-se categorias dos quadros do Ministério do Ultramar, equivalentes às dos quadros ultramarinos, as designadas pela mesma letra do Estatuto do Funcionalismo Ultramarino.
+Art. 180.º Para os efeitos deste diploma, consideram-se categorias dos quadros do Ministério do Ultramar, equivalentes às dos quadros ultramarinos, as designadas pela mesma letra do Estatuto do Funcionalismo Ultramarino.
 
 § único. Exceptuam-se do disposto no corpo do artigo:
 
@@ -1652,13 +1813,13 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 181.º Os serviços centrais do Ministério do Ultramar funcionam de acordo com as disposições do presente diploma e demais legislação aplicável.
+Art. 181.º Os serviços centrais do Ministério do Ultramar funcionam de acordo com as disposições do presente diploma e demais legislação aplicável.
 
 § único. Nos organismos consultivos e dependentes, além dos regulamentos próprios, quando os possuam, devem ser observados os preceitos a que se refere o corpo do artigo sempre que a natureza do organismo o permita.
 
 ### CAPÍTULO II — Regras gerais
 
-###### Art. 182.º A correspondência dirigida pelos governos ultramarinos ao Ministro virá exteriormente subendereçada ao serviço competente para conhecer do objecto dela.
+Art. 182.º A correspondência dirigida pelos governos ultramarinos ao Ministro virá exteriormente subendereçada ao serviço competente para conhecer do objecto dela.
 
 § 1.º A Secretaria-Geral receberá a correspondência que não trouxer indicação do serviço a que se destina. O secretário-geral enviará ao chefe do Gabinete os papéis de que convenha dar conhecimento imediato ao Ministro e mandará distribuir os restantes pelos serviços competentes.
 
@@ -1666,7 +1827,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 3.º Os requerimentos e outros papéis devem ser entregues nos departamentos do Ministério a que incumba dar-lhes o devido andamento. Se houver dúvidas sobre o departamento a que o assunto respeite, serão entregues na Secretaria-Geral. Os serviços passarão recibo, quando solicitado, em impresso avulso ou no duplicado dos documentos.
 
-###### Art. 183.º A abertura da correspondência realiza-se nos departamentos do Ministério a que for dirigida.
+Art. 183.º A abertura da correspondência realiza-se nos departamentos do Ministério a que for dirigida.
 
 § único. A abertura e o registo da correspondência confidencial e secreta obedece às seguintes regras, salvo se o Ministro dispuser de outra forma:
 
@@ -1674,7 +1835,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 2. Se for secreta, a correspondência será enviada no próprio sobrescrito fechado que a contiver ao Gabinete do Ministro, onde será registada e donde só poderá sair em caso de necessidade imperiosa de serviço.
 
-###### Art. 184.º A correspondência telegráfica obedece às seguintes regras:
+Art. 184.º A correspondência telegráfica obedece às seguintes regras:
 
 1. Só com autorização ministerial, dos directores-gerais ou funcionários de competência equivalente pode ser expedida;
 
@@ -1682,7 +1843,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 3. Toda a correspondência telegráfica dirigida ao Ministério corre através da Repartição do Gabinete e depois de decifrada, se for caso disso, é distribuída pelos serviços a que interessar.
 
-###### Art. 185.º A prestação das informações obedece às seguintes regras:
+Art. 185.º A prestação das informações obedece às seguintes regras:
 
 1. São dadas por escrito, em termos concisos e assinadas por quem as tiver prestado;
 
@@ -1696,9 +1857,9 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 6. Salvo se o Ministro ou o director-geral fixarem outro mais curto, em regra é de oito dias o prazo máximo para serem informados os papéis entrados nas repartições.
 
-###### Art. 186.º Os papéis só devem ser apresentados a despacho ministerial depois de obtidos todos os elementos necessários à decisão.
+Art. 186.º Os papéis só devem ser apresentados a despacho ministerial depois de obtidos todos os elementos necessários à decisão.
 
-###### Art. 187.º A comunicação de despachos é feita por meio de extracto da doutrina por eles aprovada, só podendo ser transcritos na íntegra ou fornecidas cópias de pareceres ou informações com autorização expressa do Ministro ou do director-geral.
+Art. 187.º A comunicação de despachos é feita por meio de extracto da doutrina por eles aprovada, só podendo ser transcritos na íntegra ou fornecidas cópias de pareceres ou informações com autorização expressa do Ministro ou do director-geral.
 
 § 1.º As informações sobre o andamento dos assuntos ou sobre a resolução final deles podem ser dadas verbalmente aos interessados que para esse fim se apresentem nas repartições. O dever de guardar sigilo impede, porém, os funcionários de prestar informações sobre os assuntos internos dos serviços, mesmo que não se trate de assuntos confidenciais ou secretos.
 
@@ -1706,7 +1867,7 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 3.º Desde que devidamente autorizadas, as repartições devem passar as certidões que lhes forem requeridas.
 
-###### Art. 188.º Depois de despachados, os papéis são arquivados em processos de acordo com as indicações dos chefes de repartição ou dos chefes de secção. Os processos devem conter todos os elementos de informação quanto aos assuntos a que disserem respeito.
+Art. 188.º Depois de despachados, os papéis são arquivados em processos de acordo com as indicações dos chefes de repartição ou dos chefes de secção. Os processos devem conter todos os elementos de informação quanto aos assuntos a que disserem respeito.
 
 § 1.º O arquivo de processos individuais do pessoal será comum à Direcção-Geral de Administração Civil e à Direcção-Geral de Fazenda. Os directores-gerais respectivos proporão a maneira de regular a formação e a utilização deste arquivo com vista a obter-se a maior economia de esforços e a evitar-se a troca de correspondência entre as duas direcções-gerais sobre assuntos referentes a pessoal.
 
@@ -1714,23 +1875,23 @@ Pela acumulação das funções, o director-geral de Justiça terá direito à g
 
 § 3.º Decorridos cinco anos sobre a data do último documento dos processos ou, antes disso, quando se presuma que já não venham a ser movimentados, far-se-á a sua remessa ao Arquivo Histórico Ultramarino, devidamente acondicionados e relacionados.
 
-###### Art. 189.º Salvo disposição expressa da lei, os directores-gerais poderão determinar que os serviços de entrada e saída de correspondência, elaboração de folhas de vencimentos e outras despesas e, bem assim, os de arquivo das suas direcções-gerais sejam distribuídos pelas repartições a que respeitarem, ou concentrados numa única repartição ou ainda constituir, para o efeito, núcleos de funcionários destinados a cumprir as referidas tarefas. Podem também determinar que os dactilógrafos sejam distribuídos pelos serviços ou concentrados num grupo dactilográfico que sirva a Direcção-Geral ou cada uma das repartições.
+Art. 189.º Salvo disposição expressa da lei, os directores-gerais poderão determinar que os serviços de entrada e saída de correspondência, elaboração de folhas de vencimentos e outras despesas e, bem assim, os de arquivo das suas direcções-gerais sejam distribuídos pelas repartições a que respeitarem, ou concentrados numa única repartição ou ainda constituir, para o efeito, núcleos de funcionários destinados a cumprir as referidas tarefas. Podem também determinar que os dactilógrafos sejam distribuídos pelos serviços ou concentrados num grupo dactilográfico que sirva a Direcção-Geral ou cada uma das repartições.
 
 ### CAPÍTULO III — Das inspecções
 
-###### Art. 190.º As inspecções ordinárias têm especialmente em vista o conhecimento exacto das necessidades ou das deficiências dos serviços, o aperfeiçoamento deles e do respectivo pessoal e a coordenação entre os serviços do Ministério e os serviços provinciais ou entre estes e os serviços locais, dentro da orientação traçada pelo Ministro e pelos governos das províncias ultramarinas.
+Art. 190.º As inspecções ordinárias têm especialmente em vista o conhecimento exacto das necessidades ou das deficiências dos serviços, o aperfeiçoamento deles e do respectivo pessoal e a coordenação entre os serviços do Ministério e os serviços provinciais ou entre estes e os serviços locais, dentro da orientação traçada pelo Ministro e pelos governos das províncias ultramarinas.
 
 § 1.º As inspecções extraordinárias são determinadas pelo Ministro ou, em caso de urgente necessidade, pelo governador da província onde se encontrem os inspectores e destinam-se a observar o funcionamento de certo ramo de serviços ou de estabelecimentos, averiguar da actuação dos funcionários ou inquirir acerca de certos factos ou problemas.
 
 § 2.º Quando o governador de uma província determinar uma inspecção extraordinária, nos termos do parágrafo anterior, deve comunicar a sua decisão ao Ministro pela via mais rápida.
 
-###### Art. 191.º Os funcionários encarregados de inspecções devem ser habilitados com instruções acerca do âmbito delas ou dos pontos mais importantes em que tenham de incidir, sem prejuízo de poderem propor o alargamento desse âmbito ou a sua extensão a outros pontos que não hajam sido considerados. Podem ainda propor a instauração de processos de inquérito ou de sindicância e, notando irregularidades ou faltas que importem a aplicação de sanções disciplinares, instaurarão ou mandarão instaurar imediatamente o respectivo processo. A competência punitiva fixada na lei nunca, porém, será devolvida.
+Art. 191.º Os funcionários encarregados de inspecções devem ser habilitados com instruções acerca do âmbito delas ou dos pontos mais importantes em que tenham de incidir, sem prejuízo de poderem propor o alargamento desse âmbito ou a sua extensão a outros pontos que não hajam sido considerados. Podem ainda propor a instauração de processos de inquérito ou de sindicância e, notando irregularidades ou faltas que importem a aplicação de sanções disciplinares, instaurarão ou mandarão instaurar imediatamente o respectivo processo. A competência punitiva fixada na lei nunca, porém, será devolvida.
 
-###### Art. 192.º Sempre que o Ministro ordene uma inspecção, o funcionário respectivo actua em nome dele, dando conhecimento aos governadores-gerais ou de província de tudo o que fizer e mantendo com estes uma estreita colaboração. No exercício das suas funções tem livre acesso a todas as repartições e serviços públicos, podendo examinar todos os papéis que interessem à inspecção de que for encarregado; o exame de documentos secretos depende, porém, de autorização expressa do Ministro.
+Art. 192.º Sempre que o Ministro ordene uma inspecção, o funcionário respectivo actua em nome dele, dando conhecimento aos governadores-gerais ou de província de tudo o que fizer e mantendo com estes uma estreita colaboração. No exercício das suas funções tem livre acesso a todas as repartições e serviços públicos, podendo examinar todos os papéis que interessem à inspecção de que for encarregado; o exame de documentos secretos depende, porém, de autorização expressa do Ministro.
 
 § único. Os funcionários encarregados de inspecções correspondem-se pela via postal ou telegráfica com o Ministro do Ultramar, com os governadores ultramarinos e com quaisquer entidades públicas ou particulares, podendo, quando autorizados pelo Ministro, usar cifras próprias.
 
-###### Art. 193.º Terminadas as inspecções, os funcionários que delas tenham sido encarregados devem elaborar um relatório, tanto quanto possível sucinto, em que abordem pelo menos os seguintes pontos:
+Art. 193.º Terminadas as inspecções, os funcionários que delas tenham sido encarregados devem elaborar um relatório, tanto quanto possível sucinto, em que abordem pelo menos os seguintes pontos:
 
 I) Objecto da inspecção;
 
@@ -1750,19 +1911,19 @@ VI) Conclusões.
 
 § 3.º Os funcionários encarregados de inspecções entregarão ao Ministro um exemplar do seu relatório e, em regra, outro exemplar aos governadores das províncias respectivas, que sobre ele prestarão os esclarecimentos que julgem necessários.
 
-###### Art. 194.º Os funcionários encarregados de inspecções prestarão informações acerca dos funcionários dos serviços inspeccionados, no impresso próprio para as informações anuais, respondendo aos quesitos acerca dos quais tiverem formado a sua opinião e resumindo no juízo opinativo a impressão geral que tiverem colhido acerca dos mesmos funcionários. Cópias destas informações devem ser arquivadas nos processos individuais respectivos, tanto no Ministério como na província em que os funcionários prestarem serviço.
+Art. 194.º Os funcionários encarregados de inspecções prestarão informações acerca dos funcionários dos serviços inspeccionados, no impresso próprio para as informações anuais, respondendo aos quesitos acerca dos quais tiverem formado a sua opinião e resumindo no juízo opinativo a impressão geral que tiverem colhido acerca dos mesmos funcionários. Cópias destas informações devem ser arquivadas nos processos individuais respectivos, tanto no Ministério como na província em que os funcionários prestarem serviço.
 
-###### Art. 195.º O Ministro pode determinar, em portaria, que os inspectores se fixem em qualquer província ultramarina por tempo não superior a três anos nem inferior a um ano.
+Art. 195.º O Ministro pode determinar, em portaria, que os inspectores se fixem em qualquer província ultramarina por tempo não superior a três anos nem inferior a um ano.
 
 ## TÍTULO IV — Disposições finais e transitórias
 
-###### Art. 196.º São aprovados os quadros de pessoal constantes dos mapas anexos a este diploma e que dele fazem parte integrante.
+Art. 196.º São aprovados os quadros de pessoal constantes dos mapas anexos a este diploma e que dele fazem parte integrante.
 
 § 1.º Um dos lugares de inspector constante do mapa IX, anexo a este diploma, considerar-se-á extinto logo que vagar.
 
 § 2.º Mantêm-se em vigor os quadros do pessoal dos serviços que não constem dos mapas a que se refere o corpo do artigo.
 
-###### Art. 197.º São extintas a Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica, a Comissão Revisora das Pautas Aduaneiras do Ultramar, a Delegação Comercial do Ultramar, o Núcleo de Documentação Técnica, a Comissão Consultiva e Revisora da Legislação dos Correios, Telégrafos e Telecomunicações do Ultramar e a Missão de Estudos Económicos do Ultramar.
+Art. 197.º São extintas a Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica, a Comissão Revisora das Pautas Aduaneiras do Ultramar, a Delegação Comercial do Ultramar, o Núcleo de Documentação Técnica, a Comissão Consultiva e Revisora da Legislação dos Correios, Telégrafos e Telecomunicações do Ultramar e a Missão de Estudos Económicos do Ultramar.
 
 § 1.º Em tudo o que não for alterado pelo presente diploma, as funções da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica passam para o Gabinete de Planeamento e Integração Económica; as funções da Comissão Revisora das Pautas Aduaneiras do Ultramar passam para o Conselho Superior Técnico Aduaneiro do Ultramar; as funções da Delegação Comercial do Ultramar passam para a Agência-Geral do Ultramar; as funções do Núcleo de Documentação Técnica passam para o Centro de Documentação Técnico-Económica; as funções da Comissão Consultiva e Revisora da Legislação dos Correios, Telégrafos e Telecomunicações do Ultramar passam para o Gabinete de Estudos da Direcção-Geral de Obras Públicas e Comunicações e as funções da Missão de Estudos Económicos do Ultramar passam para o Gabinete de Estudos da Direcção-Geral de Economia.
 
@@ -1774,7 +1935,7 @@ VI) Conclusões.
 
 § 5.º O património actualmente afecto aos organismos extintos pelo corpo do artigo transita, mediante relação devidamente discriminada, para os serviços ou organismos para onde, nos termos do § 1.º, transitarem as respectivas funções.
 
-###### Art. 198.º O Ministro distribuirá, em portaria, o pessoal que actualmente presta serviço no Ministério e seus organismos consultivos e dependentes pelos lugares tanto quanto possível correspondentes previstos no presente diploma.
+Art. 198.º O Ministro distribuirá, em portaria, o pessoal que actualmente presta serviço no Ministério e seus organismos consultivos e dependentes pelos lugares tanto quanto possível correspondentes previstos no presente diploma.
 
 § 1.º Na portaria a que se refere o corpo do artigo poderá o Ministro prover nas vagas existentes:
 
@@ -1788,9 +1949,9 @@ VI) Conclusões.
 
 § 3.º Até que seja publicada a portaria prevista no corpo do artigo, o pessoal dos actuais quadros do Ministério, organismos consultivos e dependentes e, bem assim, o dos organismos mencionados no artigo 197.º continuará a ser abonado dos seus vencimentos e outras remunerações pelas verbas que actualmente suportam os respectivos encargos.
 
-###### Art. 199.º As primeiras nomeações para os lugares criados por este diploma que não sejam preenchidos pela forma prevista no artigo 198.º serão feitas livremente pelo Ministro entre pessoas que possuam as habilitações legais exigidas para o provimento nos cargos.
+Art. 199.º As primeiras nomeações para os lugares criados por este diploma que não sejam preenchidos pela forma prevista no artigo 198.º serão feitas livremente pelo Ministro entre pessoas que possuam as habilitações legais exigidas para o provimento nos cargos.
 
-###### Art. 200.º Quanto ao pessoal dos extintos organismos que não puder ser colocado nos quadros do Ministério, seus organismos consultivos e dependentes, nos termos dos artigos 198.º e 199.º, observar-se-á o seguinte:
+Art. 200.º Quanto ao pessoal dos extintos organismos que não puder ser colocado nos quadros do Ministério, seus organismos consultivos e dependentes, nos termos dos artigos 198.º e 199.º, observar-se-á o seguinte:
 
 1. O actual vice-presidente da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica exercerá as funções que vierem a ser-lhe cometidas por despacho ministerial, contando-se-lhe para todos os efeitos, inclusive os de aposentação, o tempo de serviço prestado em comissão naquela qualidade e continuando a ser abonado de conta das dotações que até aqui têm suportado os respectivos vencimentos;
 
@@ -1810,13 +1971,13 @@ VI) Conclusões.
 
 § 3.º O director de serviços que actualmente dirige a Delegação Comercial do Ultramar transita, sem necessidade de nova nomeação, visto ou posse, para o lugar de director de serviços criado por este diploma no Gabinete dos Negócios Políticos, continuando a ser remunerado por conta das receitas a que se refere a primeira parte do § 2.º do artigo 197.º; este lugar considerar-se-á extinto logo que vagar.
 
-###### Art. 201.º Enquanto se encontrar ao serviço poderá o Ministro nomear para os quadros do Ministério, seus organismos consultivos ou dependentes, para cargos de igual ou equivalente categoria, o pessoal a que se referem os n.os 3, 4 e 6 e § 1.º do artigo 200.º, cujos lugares poderão ser extintos pelo Ministro à medida que vagarem.
+Art. 201.º Enquanto se encontrar ao serviço poderá o Ministro nomear para os quadros do Ministério, seus organismos consultivos ou dependentes, para cargos de igual ou equivalente categoria, o pessoal a que se referem os n.os 3, 4 e 6 e § 1.º do artigo 200.º, cujos lugares poderão ser extintos pelo Ministro à medida que vagarem.
 
 § 1.º O pessoal a que se refere o corpo do artigo poderá concorrer a lugares da mesma categoria ou da categoria imediatamente superior dos quadros do Ministério, seus organismos consultivos ou dependentes, tendo preferência, em igualdade de condições, nos concursos para lugares de ingresso.
 
 § 2.º Tanto nas nomeações previstas no corpo do artigo como nos concursos a que se refere o § 1.º será dispensado o limite de idade, mas observar-se-ão as restantes condições legais exigidas para o provimento dos cargos.
 
-###### Art. 202.º O regime de aposentação dos funcionários do Ministério, seus organismos consultivos e dependentes, é o da lei reguladora do cofre ou fundo que suporta os respectivos encargos.
+Art. 202.º O regime de aposentação dos funcionários do Ministério, seus organismos consultivos e dependentes, é o da lei reguladora do cofre ou fundo que suporta os respectivos encargos.
 
 § 1.º Os funcionários do Ministério, seus organismos consultivos e dependentes, subscritores da Caixa Geral de Aposentações poderão requerer, a todo o tempo, que a sua aposentação passe a constituir encargo das províncias ultramarinas, levando-se-lhe em conta o tempo de serviço que lhes tenha sido contado na metrópole para esse efeito desde que liquidem as quotas respectivas.
 
@@ -1824,23 +1985,23 @@ VI) Conclusões.
 
 § 3.º É reconhecido o direito à contagem de tempo para efeitos de aposentação aos agentes que, servindo ou tendo servido a qualquer título, inclusive o de assalariamento, ainda que remunerado através de verbas globais, no Ministério, seus organismos consultivos ou dependentes, tenham posteriormente transitado ou venham a transitar sem interrupção de funções para os quadros do mesmo Ministério ou daqueles organismos e assim o requeiram, efectuando os respectivos descontos para «compensação de aposentação», os quais poderão ter lugar no máximo de prestações permitidas por lei.
 
-###### Art. 203.º Quando aos funcionários dos quadros comuns ou privativos, que não sejam subscritores da Caixa Geral de Aposentações, correspondam categorias diferentes, conforme estejam prestando serviço no Ministério ou nas províncias ultramarinas, o vencimento a considerar para efeitos de aposentação será o da categoria mais elevada.
+Art. 203.º Quando aos funcionários dos quadros comuns ou privativos, que não sejam subscritores da Caixa Geral de Aposentações, correspondam categorias diferentes, conforme estejam prestando serviço no Ministério ou nas províncias ultramarinas, o vencimento a considerar para efeitos de aposentação será o da categoria mais elevada.
 
-###### Art. 204.º É reconhecido o direito à aposentação, nos termos da lei, ao pessoal da extinta Delegação Comercial do Ultramar, contando-se-lhe para o efeito todo o tempo de serviço prestado na antiga Delegação Colonial de Importação e Compras e na Delegação Comercial do Ultramar, bem como o que vier a ser prestado nos organismos ou serviços para onde transite.
+Art. 204.º É reconhecido o direito à aposentação, nos termos da lei, ao pessoal da extinta Delegação Comercial do Ultramar, contando-se-lhe para o efeito todo o tempo de serviço prestado na antiga Delegação Colonial de Importação e Compras e na Delegação Comercial do Ultramar, bem como o que vier a ser prestado nos organismos ou serviços para onde transite.
 
 § 1.º Se o pessoal a que se refere o corpo do artigo já tiver descontado quotas para o mesmo fim para as caixas de previdência metropolitanas ou outras entidades de igual natureza, as mesmas quotas poderão transitar para «Depósito c/ ultramar» por acordo entre a Direcção-Geral de Fazenda do Ultramar e as referidas caixas ou entidades, sem prejuízo de os interessados deverem entrar nesta última conta com a diferença para mais, se a houver, para compensação de aposentação, em qualquer dos casos sem juros de mora.
 
 § 2.º As quotas para compensação de aposentação respeitantes ao tempo prestado nos organismos a que se refere o corpo do artigo que não estejam abrangidas pelo disposto no § 1.º poderão, desde que os interessados assim o requeiram dentro dos 60 dias seguintes ao da publicação do presente diploma no Diário do Governo, ser descontadas nos vencimentos respectivos no máximo de 96 prestações mensais.
 
-###### Art. 205.º Os funcionários dos quadros do Ministério, seus organismos consultivos ou dependentes, que tenham sido ou venham a ser requisitados para prestar serviço noutros Ministérios ou seus organismos dependentes poderão ser colocados, por portaria do Ministro, na situação de actividade fora do quadro, sendo-lhes aplicável o disposto nos §§ 1.º e 2.º do artigo 94.º do Estatuto do Funcionalismo Ultramarino e mantendo, no seu quadro de origem, todos os direitos, incluindo o das promoções legais.
+Art. 205.º Os funcionários dos quadros do Ministério, seus organismos consultivos ou dependentes, que tenham sido ou venham a ser requisitados para prestar serviço noutros Ministérios ou seus organismos dependentes poderão ser colocados, por portaria do Ministro, na situação de actividade fora do quadro, sendo-lhes aplicável o disposto nos §§ 1.º e 2.º do artigo 94.º do Estatuto do Funcionalismo Ultramarino e mantendo, no seu quadro de origem, todos os direitos, incluindo o das promoções legais.
 
-###### Art. 206.º Ao pessoal do Ministério, seus organismos consultivos e dependentes são aplicáveis as disposições dos artigos 12.º a 17.º, 20.º, 26.º a 29.º, 32.º, 38.º a 40.º, 59.º, 60.º a 63.º, 65.º, 66.º, 81.º, corpo do artigo 83.º e seu § 3.º, 92.º a 97.º, 113.º a 116.º, 122.º, 124.º, 126.º a 130.º, 138.º a 144.º, 146.º, 147.º, 159.º, 435.º, §§ 5.º e 6.º do artigo 437.º, §§ 2.º e 3.º do artigo 445.º e artigo 491.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo Decreto n.º 46982, de 27 de Abril de 1966.
+Art. 206.º Ao pessoal do Ministério, seus organismos consultivos e dependentes são aplicáveis as disposições dos artigos 12.º a 17.º, 20.º, 26.º a 29.º, 32.º, 38.º a 40.º, 59.º, 60.º a 63.º, 65.º, 66.º, 81.º, corpo do artigo 83.º e seu § 3.º, 92.º a 97.º, 113.º a 116.º, 122.º, 124.º, 126.º a 130.º, 138.º a 144.º, 146.º, 147.º, 159.º, 435.º, §§ 5.º e 6.º do artigo 437.º, §§ 2.º e 3.º do artigo 445.º e artigo 491.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo Decreto n.º 46982, de 27 de Abril de 1966.
 
 § 1.º Na aplicação do artigo 60.º entender-se-á que, nos casos de acumulação, os funcionários receberão a totalidade do vencimento próprio e o vencimento de exercício do lugar acumulado.
 
 § 2.º O disposto nos §§ 5.º e 6.º do artigo 437.º aplica-se apenas aos funcionários cuja aposentação constitua encargo das províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880)ra - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -1850,7 +2011,7 @@ MAPA I
 
 Pessoal e vencimentos do Gabinete do Ministro e serviços anexos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 Os oficiais, sargentos e praças em serviço no Gabinete Militar e de Marinha vencem os seguintes subsídios mensais, nos termos do artigo 15.º, acumuláveis com quaisquer outros subsídios ou gratificações:
 
@@ -1870,19 +2031,19 @@ MAPA II
 
 Pessoal e vencimentos da Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA III
 
 Pessoal e vencimentos da Direcção-Geral de Administração Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA IV
 
 Pessoal e vencimentos da Inspecção Superior de Administração Ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 Gratificação anual ao inspector superior que exercer as funções de inspector superior-chefe ... 12000$00
 
@@ -1892,25 +2053,25 @@ MAPA V
 
 Pessoal e vencimentos da Direcção-Geral de Fazenda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA VI
 
 Pessoal e vencimentos da Direcção-Geral de Economia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA VII
 
 Pessoal e vencimentos da Direcção-Geral de Obras Públicas e Comunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA VIII
 
 Pessoal e vencimentos da Inspecção Superior das Alfândegas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 Gratificação anual ao inspector superior ... 12000$00
 
@@ -1922,13 +2083,13 @@ MAPA IX
 
 Pessoal e vencimentos da Direcção-Geral de Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA X
 
 Pessoal e vencimentos da Direcção-Geral de Justiça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 Gratificação anual atribuída ao director-geral pela acumulação das funções de presidente do Conselho Superior Judiciário ... 12000$00
 
@@ -1938,19 +2099,19 @@ MAPA XI
 
 Pessoal e vencimentos da Direcção-Geral de Saúde e Assistência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA XII
 
 Pessoal e vencimentos do Conselho Superior de Fomento Ultramarino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 MAPA XIII
 
 Pessoal e vencimentos da Agência-Geral do Ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 Gratificação anual ao inspector superior que exerce as funções de agente-geral do Ultramar ... 12000$00
 
@@ -1960,6 +2121,6 @@ MAPA XIV
 
 Pessoal e vencimentos do Arquivo Histórico Ultramarino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf))](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/12900/11771208.pdf)
 
 Ministério do Ultramar, 2 de Junho de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

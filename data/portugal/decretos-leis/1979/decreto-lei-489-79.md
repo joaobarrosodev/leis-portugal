@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29100/32603261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1979-365949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf37bf066023e1593ae0d83102e4ee1b49a25dafc4797c5393436f1f7bece01e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32e0beec797f5560092a266315310ad485a1fd6b95fe76d51d00f142c219b612
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jogos de Fortuna e Azar
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 49 DO DEC LEI 48912 DE 18-MAR 1969, NA REDACÇÃO DADA PELO PRESENTE DIPLOMA, PELO DEC LEI 247/84 DE\
+    \ 23-JUL DR.IS [169]\0DR.IS [169]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-07-23'
+- type: cites
+  target: pt:dre:161165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524841:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:38Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +138,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 716/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/716-1975-310673), de 20 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 716/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/716-1975-310673), de 20 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - As obrigações legais e convencionais que impendem sobre as actuais concessionárias das zonas de jogo temporário, nos termos dos diplomas legais que estabeleceram as condições de adjudicação e respectivos contratos de concessão, serão aumentadas quando beneficiarem do regime previsto neste diploma e até se atingirem os fins a que se destinam as verbas estipuladas como mínimas a investir ou despender.
+Art. 2.º - 1 - As obrigações legais e convencionais que impendem sobre as actuais concessionárias das zonas de jogo temporário, nos termos dos diplomas legais que estabeleceram as condições de adjudicação e respectivos contratos de concessão, serão aumentadas quando beneficiarem do regime previsto neste diploma e até se atingirem os fins a que se destinam as verbas estipuladas como mínimas a investir ou despender.
 
 2 - As citadas verbas serão aumentadas proporcionalmente ao número de meses, ou fracção, que em cada ano as zonas funcionem para além de seis meses, independentemente da modalidade ou tempo de investimento ou pagamento estabelecidos nos contratos.
 
@@ -121,18 +158,18 @@ c) Na zona de jogo temporário da Póvoa de Varzim, as mencionadas nas alíneas 
 
 6 - Ficam ainda abrangidas pelo disposto nos n.os 1 e 2 as obrigações criadas em resultado das alterações introduzidas nos contratos de concessão de Espinho e da Figueira da Foz, por força do artigo 9.º do [Decreto-Lei n.º 295/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1974-229109), de 29 de Junho.
 
-###### Art. 2.º O corpo do artigo 49.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passa a ter a seguinte redacção:
+Art. 2.º O corpo do artigo 49.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, passa a ter a seguinte redacção:
 
-###### Art. 49.º - 1 - Os encargos com o Conselho de Inspecção de Jogos serão suportados integralmente pelas concessionárias, que, para compensar o Estado, lhe pagarão, em duodécimos, por rateio feito em proporção do capital mínimo exigido pelo artigo 7.º e por cada casino da zona, a importância total que estiver inscrita no respectivo capítulo do orçamento da despesa do Ministério do Comércio e Turismo.
+Art. 49.º - 1 - Os encargos com o Conselho de Inspecção de Jogos serão suportados integralmente pelas concessionárias, que, para compensar o Estado, lhe pagarão, em duodécimos, por rateio feito em proporção do capital mínimo exigido pelo artigo 7.º e por cada casino da zona, a importância total que estiver inscrita no respectivo capítulo do orçamento da despesa do Ministério do Comércio e Turismo.
 
 2 - Quando as zonas de jogo temporário funcionarem para além dos seis meses referidos no corpo do artigo 23.º, a quota-parte a pagar por cada uma destas zonas corresponderá ao triplo do aludido capital social mínimo.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Acácio Manuel Pereira Magro.
 
-**Promulgado em 5 de Dezembro de 1979.**
+Promulgado em 5 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

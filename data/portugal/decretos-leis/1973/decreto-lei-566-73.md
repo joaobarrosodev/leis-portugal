@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1973-412457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a5e84255938585102d4c6c4b2fd63874f9f4d25620521a69b87053e1ca84174
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04afa7558d809c1931bd7fc1dad779bf1a210de6fee079611c143a4d787f585f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água Mineral
+- Contribuições e Impostos
+- FNAT
+- Imposto Mineiro e de Águas Minerais
+- Indústria Mineira
+- Isenção Fiscal
+relationships:
+- type: cites
+  target: pt:dre:186147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:56Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +113,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, e no uso da autorização concedida pela alínea b) do artigo 9.º da [Lei n.º 6/72](https://diariodarepublica.pt/dr/detalhe/lei/6-1972-186147), de 27 de Dezembro, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Fundação Nacional para a Alegria no Trabalho (F. N. A. T.) é isenta, relativamente às concessões de nascentes de águas minerais de que seja concessionária, do imposto mineiro anual fixo previsto no [Decreto-Lei n.º 47642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47642-1967-509833), de 15 de Abril de 1967.
+Artigo 1.º A Fundação Nacional para a Alegria no Trabalho (F. N. A. T.) é isenta, relativamente às concessões de nascentes de águas minerais de que seja concessionária, do imposto mineiro anual fixo previsto no [Decreto-Lei n.º 47642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47642-1967-509833), de 15 de Abril de 1967.
 
-###### Art. 2.º A isenção estabelecida no artigo anterior aplica-se já ao imposto que se encontra por liquidar à data da entrada em vigor deste diploma.
+Art. 2.º A isenção estabelecida no artigo anterior aplica-se já ao imposto que se encontra por liquidar à data da entrada em vigor deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 10 de Outubro de 1973.**
+Promulgado em 10 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

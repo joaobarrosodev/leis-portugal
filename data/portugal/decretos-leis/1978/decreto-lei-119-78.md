@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1978-294550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 546bd2436b5533ca1a4818d12cc0efd97ce53180b7b8a40b31ee768b947b2685
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80b813c72316b30bd41997704ce538623aa8f0e22afeb8e42dc2e5017b29af07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Jurisdição
+- Madeira.região Autónoma
+- Mar Territorial
+- Plataforma Continental
+- Recursos Naturais
+- Regime Jurídico
+- ZONA de Pesca
+- Zona Económica Exclusiva
 relationships:
 - type: amended_by
   target: pt:dre:539401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469455:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:539401:por
+  label: "Revogado pela LEI.34/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006, que mantém contudo em vigor os arts. 3º, 4º,\
+    \ 5º e 6º e anexos do presente diploma, até à entrada em vigor do acto legislativo referido no nº 1 do art. 12º daquela\
+    \ lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2006-539401
+  date: '2006-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:51Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +124,7 @@ Considerando ainda que, no referido respeito pelo direito internacional, os limi
 
 Usando da autorização conferida pelo artigo 5.º da [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, o Governo, ouvido o Chefe do Estado-Maior da Armada, decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para os efeitos do presente diploma, entende-se por:
+Artigo 1.º Para os efeitos do presente diploma, entende-se por:
 
 a) «Zona económica exclusiva», a zona estabelecida nos termos do artigo 2.º da [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, na qual o Estado Português, de acordo com o direito internacional, além de exercer jurisdição, nomeadamente sobre o estabelecimento e utilização de ilhas artificiais e outras instalações e estruturas também artificias, sobre investigação científica marítima e sobre a protecção do ambiente marinho, tem direitos soberanos:
 
@@ -118,7 +146,7 @@ g) «Ponto triplo» entre territórios de três países, o ponto de intersecçã
 
 h) «Milha», a milha marítima, de 1852 m.
 
-###### Art. 2.º - 1 - A zona económica exclusiva é dividida em três subáreas, designadas, respectivamente, por:
+Art. 2.º - 1 - A zona económica exclusiva é dividida em três subáreas, designadas, respectivamente, por:
 
 Subárea 1 - Subárea do continente;
 
@@ -130,7 +158,7 @@ Subárea 3 - Subárea dos Açores.
 
 3 - O processo de subdivisão previsto no número anterior não impede que os órgãos de soberania estabeleçam, para outros fins e por intermédio das respectivas autoridades competentes, com adequadas designações, outras formas de subdivisão das subáreas.
 
-###### Art. 3.º - 1 - O limite exterior da subárea do continente (subárea 1) é definido por:
+Art. 3.º - 1 - O limite exterior da subárea do continente (subárea 1) é definido por:
 
 a) Do ponto 1 ao ponto 1-A - a linha mediana entre Portugal e Espanha;
 
@@ -146,7 +174,7 @@ e) Do ponto 13 ao ponto N - o limite exterior do mar territorial de Espanha.
 
 3 - No anexo I-A são dadas as coordenadas geográficas de pontos, referenciados por letras, situados sobre a linha de delimitação dos mares territoriais português e espanhol e de pontos numerados situados sobre o limite exterior da subárea 1, de modo a mais facilmente concretizar na prática este limite.
 
-###### Art. 4.º - 1 - O limite exterior da subárea da Madeira (subárea 2) é definido por:
+Art. 4.º - 1 - O limite exterior da subárea da Madeira (subárea 2) é definido por:
 
 a) Do ponto 14 ao 17 - a linha externa a 200 milhas;
 
@@ -158,26 +186,26 @@ c) Do ponto 26 ao 14 - a linha mediana entre as ilhas da Madeira e Marrocos.
 
 3 - No anexo II-A são dadas as coordenadas geográficas de pontos numerados situados sobre o limite exterior da subárea 2, de modo a mais facilmente o concretizar na prática.
 
-###### Art. 5.º - 1 - O limite exterior da subárea dos Açores (subárea 3) é definido pela linha externa a 200 milhas.
+Art. 5.º - 1 - O limite exterior da subárea dos Açores (subárea 3) é definido pela linha externa a 200 milhas.
 
 2 - A designação e coordenadas geográficas dos centros da linha externa indicada no número anterior são as definidas no anexo III.
 
 3 - No anexo III-A são dadas as coordenadas geográficas dos pontos numerados definidos sobre o limite exterior da subárea 3, de modo a mais facilmente o concretizar na prática.
 
-###### Art. 6.º - 1 - O limite exterior da zona económica exclusiva e a delimitação dos mares territoriais português e espanhol, sem prejuízo de qualquer acordo a concluir, são os representados na carta n.º 1001-E do Instituto Hidrográfico, reproduzida no anexo IV.
+Art. 6.º - 1 - O limite exterior da zona económica exclusiva e a delimitação dos mares territoriais português e espanhol, sem prejuízo de qualquer acordo a concluir, são os representados na carta n.º 1001-E do Instituto Hidrográfico, reproduzida no anexo IV.
 
 2 - Em aviso aos navegantes pode o Instituto Hidrográfico publicar as coordenadas geográficas de pontos numerados suplementares definidos sobre o limite exterior de qualquer das subáreas, de modo a facilitar suplementarmente aos navegantes a determinação da posição daquele limite. Compete ao mesmo Instituto publicar e difundir novas cartas em que figurem esses pontos suplementares.
 
-###### Art. 7.º A definição do limite exterior da zona económica exclusiva em nada afecta o Estatuto Jurídico da Plataforma Continental, conforme está definido nas disposições legais em vigor, em zonas do fundo do mar não subjacentes ao mar territorial, circunscritas pela vertical do referido limite exterior, nem o estatuto jurídico de qualquer zona contígua que possa vir a ser estabelecida de acordo com o direito internacional marítimo.
+Art. 7.º A definição do limite exterior da zona económica exclusiva em nada afecta o Estatuto Jurídico da Plataforma Continental, conforme está definido nas disposições legais em vigor, em zonas do fundo do mar não subjacentes ao mar territorial, circunscritas pela vertical do referido limite exterior, nem o estatuto jurídico de qualquer zona contígua que possa vir a ser estabelecida de acordo com o direito internacional marítimo.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 10 de Maio de 1978.**
+Promulgado em 10 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/12500/09840988.pdf))](https://files.diariodarepublica.pt/1s/1978/06/12500/09840988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/12500/09840988.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

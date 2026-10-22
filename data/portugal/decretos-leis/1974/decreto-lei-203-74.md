@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/11300/06230627.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,156 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0401d3c7cea1c96ec9781f1935593ea4343d16ec169934d9115324dd1a837974
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 241c61444adea6b52a4bab6ee20bebd9e62c0ea2f671c602d37bfa9da3ca2814
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Ministros
+- Definição de Competências
+- Direitos Cívicos
+- Direitos Civis
+- Direitos do Homem
+- Forças Armadas
+- Governo Provisório
+- Ministério da Comunicação Social
+- Ministério da Coordenação Económica
+- Ministério da Coordenação Interterritorial
+- Ministério da Defesa Nacional
+- Ministério da Educação e Cultura
+- Ministério da Justiça
+- Ministério do Equipamento Social e Ambiente
+- Ministério do Equipamento Social e do Ambiente
+- Ministério do Trabalho
+- Ministério dos Assuntos Sociais
+- Ministério dos Negócios Estrangeiros
+- Ministro da Administração Interna
+- Ministro da Coordenação Interterritorial
+- Ministro da Defesa Nacional
+- Ministro da Educação e Cultura
+- Ministro da Justiça
+- Ministro do Equipamento Social e do Ambiente
+- Ministro do Trabalho
+- Ministro dos Assuntos Sociais
+- Ministro sem Pasta
+- Orgânica
+- Política de Educação
+- Política Económica
+- Política Externa
+- Política Governamental
+- Política Social
+- Primeiro-ministro
+- Programa
+- Secretaria de Estado da Agricultura
+- Secretaria de Estado da Cultura e da Educação Permanente
+- Secretaria de Estado da Habitação e Urbanismo
+- Secretaria de Estado da Indústria e Energia
+- Secretaria de Estado da Marinha Mercante
+- Secretaria de Estado da Saúde
+- Secretaria de Estado da Segurança Social
+- Secretaria de Estado das Finanças
+- Secretaria de Estado das Obras Públicas
+- Secretaria de Estado do Abastecimento e Preços
+- Secretaria de Estado do Comércio Externo e Turismo
+- Secretaria de Estado dos Assuntos Culturais e Investigação Científica
+- Secretaria de Estado dos Transportes e Comunicações
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:450244:por
+  label: "Determinada a transição para a Secretaria de Estado do Comércio Externo, prevista na al. e) do art. 6º do presente\
+    \ diploma, da Comissão de Controlo do Comércio Externo (criada no âmbito do Ministério das Finanças pelo art. 1º do Dec\
+    \ Lei 191/74 de 06-Mai) pelo DEC LEI.246/74.07.06.1974.MCE, DG.IS [133-Supl] de 07.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1974-450244
+  date: '1974-06-07'
+- type: amended_by
+  target: pt:dre:476341:por
+  label: "Transferido para o Ministério do Trabalho, criado pela al. i) do art. 1º do presente diploma,o Secretariado Nacional\
+    \ da Emigração, cuja criação e orgânica, no âmbito da Presidência do Conselho, constam do Dec Lei 402/70 de 22-Ago, com\
+    \ as alterações que lhe foram introduzidas pelo Dec Lei 15/72 de 12-Jan, pelo DEC LEI.303/74.06.07.1974.PCM, DG.IS [156]\
+    \ de 06.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1974-476341
+  date: '1974-07-06'
+- type: amended_by
+  target: pt:dre:621370:por
+  label: "Extinta a Secretaria de Estado da Reforma Educativa, criada no âmbito do Ministério da Educação e Cultura pela al.\
+    \ d) do art. 8º do presente diploma, pelo DEC LEI.340/74.18.07.1974.PCM, DG.IS [166-Supl] de 18.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1974-621370
+  date: '1974-07-18'
+- type: amended_by
+  target: pt:dre:621371:por
+  label: "Extintos o Ministério da Coordenação Económica, criado pela al. e) do nº 1 do art. 1º deste diploma, assim como\
+    \ a Secretaria de Estado das Finanças, criada no âmbito daquele Ministério pela al. a) do nº 1 do art. 6º deste mesmo\
+    \ diploma, pelo DEC LEI.338/74.18.07.1974.PCM, DG.IS [166-Supl] de 18.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1974-621371
+  date: '1974-07-18'
+- type: amended_by
+  target: pt:dre:242064:por
+  label: "Extinta a Secretaria de Estado dos Assuntos Culturais e Investigação Científica pelo DEC LEI.687-A/74.02.12.1974.PCM,\
+    \ DG.IS [280] de 02.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/687-a-1974-242064
+  date: '1974-12-02'
+- type: amended_by
+  target: pt:dre:336500:por
+  label: "Alterada a denominação do Ministério da Educação e Cultura (para Ministério da Educação e Investigação Científica)\
+    \ e extinto o cargo de Secretário de Estado da Cultura e Educação Permanente da respectiva Secretaria de Estado, pelo\
+    \ DEC LEI.409/75.02.08.1975.MEC, DG.IS [177] de 02.08.1975, passando os órgãos e o pessoal que integravam a correspondente\
+    \ Secretaria de Estado a ficar vinculados à Secretaria-Geral do Ministério da Educação e Cultura até que se verifique\
+    \ a sua transferência para o Ministério da Comunicação Social ou para outra Secretaria de Estado do Ministério da Educação\
+    \ e Cultura.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/409-1975-336500
+  date: '1975-08-02'
+- type: amended_by
+  target: pt:dre:341421:por
+  label: "Integrado no Ministério dos Assuntos Sociais, criado no presente diploma, o Hospital de Egas Moniz (cujo regulamento\
+    \ consta do Dec 131/70 de 26-Mar), pelo DEC LEI.506-B/75.18.09.1975.PCM, DG.IS [216-Supl] de 18.09.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/506-b-1975-341421
+  date: '1975-09-18'
+- type: amended_by
+  target: pt:dre:183069:por
+  label: "Extinto o Ministério do Equipamento Social criado pelo art. 7º pelo DEC LEI.117-D/76.10.02.1976.PCM, DG.IS [34-Supl]\
+    \ de 10.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-d-1976-183069
+  date: '1976-02-10'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: repealed_by
+  target: pt:dre:336552:por
+  label: "Revogado o presente diploma pelo DEC LEI.372/75.16.07.1975.MTC, DG.IS [162] de 16.07.1975, no que se encontra nele\
+    \ contemplado.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1975-336552
+  date: '1975-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:14Z'
   warnings: []
   errors: []
 ---
@@ -288,7 +404,7 @@ Definido, pois, o programa do Governo Provisório, necessário se torna estabele
 
 Nestes termos, a Junta de Salvação Nacional decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Governo Provisório é constituído pelo Primeiro-Ministro, pelos Ministros sem pasta e pelos Ministros das seguintes pastas:
+Artigo 1.º - 1. O Governo Provisório é constituído pelo Primeiro-Ministro, pelos Ministros sem pasta e pelos Ministros das seguintes pastas:
 
 a) Defesa Nacional;
 
@@ -314,7 +430,7 @@ l) Comunicação Social.
 
 2. Poderão ser designados Ministros sem pasta, até ao limite de quatro, a quem serão confiadas as atribuições referidas no artigo 14.º, n.º 5, da Lei Constitucional n.º 3/74.
 
-###### Art. 2.º - 1. Ao Primeiro-Ministro compete:
+Art. 2.º - 1. Ao Primeiro-Ministro compete:
 
 a) Convocar e presidir às reuniões do Conselho de Ministros, sem prejuízo da competência reconhecida, nos termos constitucionais, ao Presidente da República;
 
@@ -324,15 +440,15 @@ c) Assegurar o princípio da colegialidade;
 
 d) Representar o Governo perante os demais órgãos de soberania.
 
-###### Art. 3.º Compete ao Ministério da Defesa Nacional assegurar a ligação entre o Governo e as Forças Armadas, através do Chefe do Estado-Maior-General das Forças Armadas, e, designadamente, equacionar a política global de defesa, tendo em atenção as perspectivas do desenvolvimento social e económico da Nação e por forma a que nessa política seja integrada a acção militar.
+Art. 3.º Compete ao Ministério da Defesa Nacional assegurar a ligação entre o Governo e as Forças Armadas, através do Chefe do Estado-Maior-General das Forças Armadas, e, designadamente, equacionar a política global de defesa, tendo em atenção as perspectivas do desenvolvimento social e económico da Nação e por forma a que nessa política seja integrada a acção militar.
 
-###### Art. 4.º - 1. Compete ao Ministério da Coordenação Interterritorial ocupar-se dos assuntos respeitantes às relações entre Portugal europeu e os territórios do ultramar.
+Art. 4.º - 1. Compete ao Ministério da Coordenação Interterritorial ocupar-se dos assuntos respeitantes às relações entre Portugal europeu e os territórios do ultramar.
 
 2. No Ministério da Coordenação Interterritorial são criadas a Secretaria de Estado da Administração e a Secretaria de Estado dos Assuntos Económicos.
 
-###### Art. 5.º Ao Ministério da Administração Interna compete ocupar-se dos assuntos relativos à administração local, ordenamento do território e manutenção da paz social.
+Art. 5.º Ao Ministério da Administração Interna compete ocupar-se dos assuntos relativos à administração local, ordenamento do território e manutenção da paz social.
 
-###### Art. 6.º - 1. O Ministério da Coordenação Económica compreende as seguintes Secretarias de Estado:
+Art. 6.º - 1. O Ministério da Coordenação Económica compreende as seguintes Secretarias de Estado:
 
 a) Finanças;
 
@@ -350,7 +466,7 @@ f) Abastecimento e Preços.
 
 3. Na Secretaria de Estado das Finanças são criados os cargos de Subsecretário de Estado do Orçamento e de Subsecretário de Estado do Tesouro.
 
-###### Art. 7.º - 1. O Ministério do Equipamento Social e do Ambiente compreende as seguintes Secretarias de Estado:
+Art. 7.º - 1. O Ministério do Equipamento Social e do Ambiente compreende as seguintes Secretarias de Estado:
 
 a) Obras Públicas;
 
@@ -362,7 +478,7 @@ d) Marinha Mercante.
 
 2. No Ministério do Equipamento Social e do Ambiente é criado o cargo de Subsecretário de Estado do Ambiente.
 
-###### Art. 8.º O Ministério da Educação e Cultura compreende as seguintes Secretarias de Estado:
+Art. 8.º O Ministério da Educação e Cultura compreende as seguintes Secretarias de Estado:
 
 a) Administração Escolar;
 
@@ -372,7 +488,7 @@ c) Desportos e Acção Social Escolar;
 
 d) Reforma Educativa.
 
-###### Art. 9.º - 1. O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
+Art. 9.º - 1. O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
 
 a) Saúde;
 
@@ -380,12 +496,12 @@ b) Segurança Social.
 
 2. São desde já integrados na Secretaria de Estado da Segurança Social todos os serviços de previdência e assistência.
 
-###### Art. 10.º Ao Ministério da Comunicação Social compete ocupar-se dos assuntos relativos à política de informação, através da coordenação dos órgãos respectivos, em ordem à consecução dos objectivos previstos no programa do Governo Provisório.
+Art. 10.º Ao Ministério da Comunicação Social compete ocupar-se dos assuntos relativos à política de informação, através da coordenação dos órgãos respectivos, em ordem à consecução dos objectivos previstos no programa do Governo Provisório.
 
-###### Art. 11.º A delimitação da competência e a distribuição dos diversos serviços pelos vários Ministérios e Secretarias de Estado serão definidas pelo Presidente da República, sob proposta do Primeiro-Ministro.
+Art. 11.º A delimitação da competência e a distribuição dos diversos serviços pelos vários Ministérios e Secretarias de Estado serão definidas pelo Presidente da República, sob proposta do Primeiro-Ministro.
 
 Visto e aprovado pela Junta de Salvação Nacional em 15 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.

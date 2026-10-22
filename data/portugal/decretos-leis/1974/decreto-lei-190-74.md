@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1974-623209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-05-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c12862b9c64068375adebf8c720790ab5b25ac8965d42199de8c519ab2aadc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38d65267e9636975163d1d811dcb004de91977627797a71ecaf1d4fd231ddceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Financiamento
+- Gestão Orçamental
+- Moçambique.Colónia Portuguesa
+- Plano de Fomento
+relationships:
+- type: corrected_by
+  target: pt:dre:622807:por
+  label: "Rectificado pela RECT.DD218.17.06.1974.PCM, DG.IS [139] de 17.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-622807
+  date: '1974-06-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:05Z'
   warnings: []
   errors: []
 ---
@@ -91,22 +100,22 @@ Nestes termos:
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Estado de Moçambique a contrair os seguintes empréstimos:
+Artigo 1.º É autorizado o Estado de Moçambique a contrair os seguintes empréstimos:
 
 a) De 200000000$00, no Instituto de Crédito de Moçambique, à taxa de juro de 7% ao ano e a amortizar em oito prestações, iguais de capital e juro, vencendo-se a primeira em 31 de Dezembro de 1976;
 
 b) De 100000000$00, no Montepio de Moçambique, à taxa de juro de 6% ao ano e a amortizar em sete prestações anuais, iguais de capital e juro, vencendo-se a primeira em 31 de Dezembro de 1976.
 
-###### Art. 2.º Os empréstimos serão objecto de contrato a celebrar entre o Governador-Geral, em representação do Estado de Moçambique, e as instituições de crédito mencionadas no artigo anterior, nas condições indicadas no mesmo artigo ou outros mais favoráveis para a província e nos demais que venham a ser acordados.
+Art. 2.º Os empréstimos serão objecto de contrato a celebrar entre o Governador-Geral, em representação do Estado de Moçambique, e as instituições de crédito mencionadas no artigo anterior, nas condições indicadas no mesmo artigo ou outros mais favoráveis para a província e nos demais que venham a ser acordados.
 
-###### Art. 3.º Os fundos mutuados serão integralmente aplicados no financiamento de empreendimentos incluídos no programa de execução do IV Plano de Fomento para 1974.
+Art. 3.º Os fundos mutuados serão integralmente aplicados no financiamento de empreendimentos incluídos no programa de execução do IV Plano de Fomento para 1974.
 
-###### Art. 4.º No Orçamento Geral do Estado de Moçambique serão inscritas em cada ano as verbas necessárias à liquidação de todos os encargos decorrentes dos empréstimos a que se refere o artigo 1.º do presente diploma.
+Art. 4.º No Orçamento Geral do Estado de Moçambique serão inscritas em cada ano as verbas necessárias à liquidação de todos os encargos decorrentes dos empréstimos a que se refere o artigo 1.º do presente diploma.
 
 Visto e aprovado pela Junta de Salvação Nacional em 6 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique.

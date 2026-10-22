@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49371-1969-215766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36fa6a5c83062ee48e250b15cb5daa5ded5f66cd455c7ceaea1039aee9f75b7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18372bfa922e258722abada72a564f73c55eb951096d26ce1e7a8fb778e9359d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caderno de Encargos
+- Cimento
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:678214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678214:por
+  label: "Alterado o caderno de encargos pelo DR.4/80.13.03.1980.MHOP, DR.IS [61] de 13.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1980-678214
+  date: '1980-03-13'
+- type: cites
+  target: pt:dre:171082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298620:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:18Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +105,13 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o caderno de encargos para o fornecimento e recepção do cimento portland de ferro e do cimento de alto-forno 60/80, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
+Artigo único. É aprovado o caderno de encargos para o fornecimento e recepção do cimento portland de ferro e do cimento de alto-forno 60/80, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 30 de Junho de 1969.**
+Promulgado em 30 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -113,11 +129,11 @@ Consultaram-se os resumos das normas estrangeiras, que vêm publicados na Review
 
 A International Standards Organization, no documento «Projecto de Recomendação ISO», n.º 771, distingue os seguintes tipos de cimento, de acordo com a percentagem de escória:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 A norma francesa descreve a seguinte classificação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 3 - Percentagem de escória e designações propostas
 
@@ -185,7 +201,7 @@ Resíduos no peneiro de 4900 malhas por centímetro quadrado
 
 (Em percentagem do peso do cimento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 A Holanda especifica três finuras, conforme a classe (resistência) do cimento, independentemente da percentagem de escória.
 
@@ -211,7 +227,7 @@ QUADRO 7.1
 
 Expansibilidade máxima (Le Châtelier) dos cimentos «portland» normal e de escória
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 O valor máximo que se impõe para a expansibilidade é o já adoptado para o cimento portland normal, isto é, o valor de 4 mm. Apesar de se verificar que nenhuma norma estrangeira se mostra tão severa, a justificação deste valor está principalmente no facto de os cimentos portugueses apresentarem expansibilidades inferiores. Supõe-se que a introdução da escória não deva provocar diferenças de comportamento do cimento no aspecto consisiderado. Como se verá mais à frente (§ 10.3), será exigido o ensaio de expansibilidade em autoclave no caso de a escória conter elevada proporção de óxido de magnésio, o qual poderá, sob certas condições, cristalizar independentemente ou, pelo menos, separar-se dos restantes componentes.
 
@@ -439,7 +455,7 @@ As técnicas do ensaio são as especificadas no capítulo II. As misturas das am
 
 Os valores especificados para os resultados das determinações, expressos como se determina no capítulo II, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 7 - Condições de aceitação e rejeição
 
@@ -675,7 +691,7 @@ a) Água. - A água a utilizar na amassadura e conservação dos provetes deve s
 
 b) Areia normal. - A areia a utilizar na confecção dos provetes é uma areia siliciosa proveniente do areeiro do Alfeite, bem lavada, seca e seleccionada, com uma composição granulométrica contida dentro dos limites indicados no quadro seguinte ou na figura 8:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 Nota. - O material de dimensões inferiores a 0,297 mm pode ser obtido por adição de areia siliciosa moída.
 
@@ -705,7 +721,7 @@ Os moldes devem ser tais que os provetes fiquem com as dimensões nominais de 40
 
 As suas características e tolerâncias são as indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 Os moldes poderão ser agrupados de modo a permitir o fabrico simultâneo de três provetes.
 
@@ -1515,6 +1531,6 @@ Ministério das Obras Públicas, 30 de Junho de 1969. - O Ministro das Obras Pú
 
 Da Fig. 1 à Fig. 16
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf))](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26400/15611588.pdf)
 
 Ministério das Obras Públicas, 30 de Junho de 1969. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

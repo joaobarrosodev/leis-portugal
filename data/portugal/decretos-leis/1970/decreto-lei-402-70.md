@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1970-139395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f580cd285201bc7aba894c342e354819d0e3b4d0e3febd5de0264686c56809bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17aa41d94290e2a4bbc82486461e976701034ccf018c7ba48a1105d0d596f26c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial
+- Criação de Serviços
+- Definição de Competências
+- Emigração
+- Extinção de Serviços
+- Junta da Emigração
+- Ministério do Interior
+- Presidência do Conselho
+- Presidente
+- Secretariado Nacional da Emigração
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:256809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476341:por
+  label: "Transferido para o Ministério do Trabalho, criado pela al. i) do art. 1º do Dec Lei 203/74 de 15-Mai, o Secretariado\
+    \ Nacional da Emigração, cuja criação e orgânica, no âmbito da Presidência do Conselho, constam do presente diploma, com\
+    \ as alterações que lhe foram introduzidas pelo Dec Lei 15/72 de 12-Jan, pelo DEC LEI.303/74.06.07.1974.PCM, DG.IS [156]\
+    \ de 06.07.1974\074\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1974-476341
+  date: '1974-07-06'
+- type: amended_by
+  target: pt:dre:256809:por
+  label: "Extinto o Secretariado Nacional da Emigração, cuja criação no âmbito da Presidência do Conselho e organização constam\
+    \ do presente diploma, com as alterações que lhe foram introduzidas pelo Dec Lei 15/72 de 12-Jan, pelo DEC LEI.763/74.30.12.1974.MT,\
+    \ DG.IS [302-Supl] de 30.12.1974, que determinou a transição para o Instituto da Emigração, nele criado, do património\
+    \ do Secretariado\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/763-1974-256809
+  date: '1974-12-30'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:291665:por
+  label: "Revogados os arts. 1º a 12º, 15º e 16º pelo DEC LEI.15/72.12.01.1972.PC, DG.IS [9] de 12.01.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1972-291665
+  date: '1972-01-12'
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:03Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +168,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado, na Presidência do Conselho, o Secretariado Nacional da Emigração, com as seguintes atribuições:
+Artigo 1.º É criado, na Presidência do Conselho, o Secretariado Nacional da Emigração, com as seguintes atribuições:
 
 a) Dar execução à política fixada pelo Governo em relação aos movimentos migratórios, quer para o estrangeiro, quer para as províncias ultramarinas;
 
@@ -146,15 +182,15 @@ e) Participar na negociação de acordos internacionais sobre emigração e acom
 
 f) Colaborar com organismos congéneres, nos termos superiormente definidos.
 
-###### Art. 2.º - 1. Pode o Presidente do Conselho delegar em qualquer Ministro a competência para a resolução dos assuntos que correm pelo Secretariado Nacional da Emigração.
+Art. 2.º - 1. Pode o Presidente do Conselho delegar em qualquer Ministro a competência para a resolução dos assuntos que correm pelo Secretariado Nacional da Emigração.
 
 2. No caso de haver delegação, entende-se que todos os poderes conferidos no presente diploma ao Presidente do Conselho podem ser exercidos pelo Ministro delegado.
 
 3. A competência do Ministro do Interior estabelecida na lei em matéria de emigração passa para o Presidente do Conselho ou para o Ministro delegado.
 
-###### Art. 3.º A direcção e a orientação do Secretariado incumbe ao secretário nacional da Emigração, com a categoria de director-geral, o qual será nomeado livremente por despacho do Presidente do Conselho.
+Art. 3.º A direcção e a orientação do Secretariado incumbe ao secretário nacional da Emigração, com a categoria de director-geral, o qual será nomeado livremente por despacho do Presidente do Conselho.
 
-###### Art. 4.º O Secretariado Nacional da Emigração compreende os seguintes serviços:
+Art. 4.º O Secretariado Nacional da Emigração compreende os seguintes serviços:
 
 a) Gabinete de Estudos e Relações Públicas;
 
@@ -168,19 +204,19 @@ Serviços de Inspecção.
 
 c) Direcção dos Serviços de Migração, com duas divisões:
 
-##### Divisão da Migração Interna;
+Divisão da Migração Interna;
 
 ##### Divisão da Emigração.
 
 d) Direcção dos Serviços de Assistência e Acção Cultural, com duas divisões:
 
-##### Divisão de Acção Interna;
+Divisão de Acção Interna;
 
-##### Divisão de Acção Externa.
+Divisão de Acção Externa.
 
-###### Art. 5.º O Gabinete de Estudos e Relações Públicas será orientado por um director e terá por função realizar os estudos necessários à boa execução dos serviços do Secretariado e apoiar estes nos domínios da consulta jurídica, económica e sociológica, assim como estabelecer e assegurar os necessários contactos para a eficiente realização das suas relações públicas.
+Art. 5.º O Gabinete de Estudos e Relações Públicas será orientado por um director e terá por função realizar os estudos necessários à boa execução dos serviços do Secretariado e apoiar estes nos domínios da consulta jurídica, económica e sociológica, assim como estabelecer e assegurar os necessários contactos para a eficiente realização das suas relações públicas.
 
-###### Art. 6.º - 1. À Secretaria competem os serviços de pessoal, contabilidade, economato e expediente, arquivo e biblioteca e, em geral, os de carácter administrativo do Secretariado.
+Art. 6.º - 1. À Secretaria competem os serviços de pessoal, contabilidade, economato e expediente, arquivo e biblioteca e, em geral, os de carácter administrativo do Secretariado.
 
 2. Aos Serviços Médicos compete a realização dos exames médicos a efectuar aos indivíduos que pretendam emigrar, servindo igualmente de apoio no âmbito do respectivo sector aos demais serviços do Secretariado.
 
@@ -188,19 +224,19 @@ d) Direcção dos Serviços de Assistência e Acção Cultural, com duas divisõ
 
 4. O chefe da Repartição dos Serviços Centrais chefiará directamente uma das respectivas secções.
 
-###### Art. 7.º - 1. À Direcção dos Serviços de Migração compete orientar o recrutamento dos interessados na emigração, bem como, em relação ao território do continente e ilhas adjacentes, organizar os respectivos processos individuais, emitir passaportes, providenciar quanto ao serviço de transportes e ainda colaborar na eventual repatriação.
+Art. 7.º - 1. À Direcção dos Serviços de Migração compete orientar o recrutamento dos interessados na emigração, bem como, em relação ao território do continente e ilhas adjacentes, organizar os respectivos processos individuais, emitir passaportes, providenciar quanto ao serviço de transportes e ainda colaborar na eventual repatriação.
 
 2. A competência da Direcção é distribuída por ambas as divisões, consoante o destino dos migrantes seja uma província ultramarina ou um país estrangeiro.
 
 3. O director dos Serviços de Migração chefiará directamente uma das divisões da direcção de serviços.
 
-###### Art. 8.º - 1. À Direcção dos Serviços de Assistência e Acção Cultural compete desenvolver a acção social de apoio aos emigrantes e seus familiares, ocorrer às suas necessidades intelectuais e culturais e estabelecer relações com as demais entidades nacionais e estrangeiras, com interferência nos respectivos sectores.
+Art. 8.º - 1. À Direcção dos Serviços de Assistência e Acção Cultural compete desenvolver a acção social de apoio aos emigrantes e seus familiares, ocorrer às suas necessidades intelectuais e culturais e estabelecer relações com as demais entidades nacionais e estrangeiras, com interferência nos respectivos sectores.
 
 2. A competência da Direcção é distribuída por ambas as divisões, consoante houver de ser exercida no País eu fora dele.
 
 3. O director dos Serviços de Assistência e Acção Cultural chefiará directamente uma das divisões da direcção de serviços.
 
-###### Art. 9.º - 1. É extinta no Ministério do Interior a Junta da Emigração, passando todos os seus bens, sem dependência de quaisquer formalidades, para o Secretariado Nacional da Emigração, que ficará a regular-se, na parte não especialmente prevista, pelas disposições legais nesta data aplicáveis à Junta, até se proceder à definitiva reorganização dos serviços referida no artigo 15.º do presente diploma.
+Art. 9.º - 1. É extinta no Ministério do Interior a Junta da Emigração, passando todos os seus bens, sem dependência de quaisquer formalidades, para o Secretariado Nacional da Emigração, que ficará a regular-se, na parte não especialmente prevista, pelas disposições legais nesta data aplicáveis à Junta, até se proceder à definitiva reorganização dos serviços referida no artigo 15.º do presente diploma.
 
 2. O pessoal da Junta passa, sem dependência de quaisquer formalidades, para o Secretariado, considerando-se para todos os efeitos o tempo de serviço prestado, que será contado de harmonia com a legislação aplicável, sem prejuízo dos anteriores direitos e regalias.
 
@@ -208,13 +244,13 @@ d) Direcção dos Serviços de Assistência e Acção Cultural, com duas divisõ
 
 4. A distribuição do pessoal da Junta da Emigração pelos diversos serviços do Secretariado será feita por despacho do Presidente do Conselho, sob proposta do secretário nacional da Emigração.
 
-###### Art. 10.º São criados no quadro do Secretariado um lugar de adjunto do secretário nacional, com categoria correspondente à letra C, dois lugares de director de serviços, com categoria correspondente à letra D, o lugar de director do Gabinete de Estudos e Relações Públicas e dois lugares de chefe de divisão, com categoria correspondente à letra E, e três lugares de chefe de repartição, com categoria correspondente à letra F, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 10.º São criados no quadro do Secretariado um lugar de adjunto do secretário nacional, com categoria correspondente à letra C, dois lugares de director de serviços, com categoria correspondente à letra D, o lugar de director do Gabinete de Estudos e Relações Públicas e dois lugares de chefe de divisão, com categoria correspondente à letra E, e três lugares de chefe de repartição, com categoria correspondente à letra F, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 11.º Os lugares referidos no número anterior serão providos pelo Presidente do Conselho, sob proposta do secretário nacional, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 11.º Os lugares referidos no número anterior serão providos pelo Presidente do Conselho, sob proposta do secretário nacional, em indivíduos diplomados com curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 12.º Para desempenhar funções auxiliares ou executar trabalhos de carácter técnico ou eventual poderá ser contratado ou assalariado, mediante autorização do Presidente do Conselho, e com dispensa de outras formalidades legais, o pessoal indispensável, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas no orçamento para esse fim.
+Art. 12.º Para desempenhar funções auxiliares ou executar trabalhos de carácter técnico ou eventual poderá ser contratado ou assalariado, mediante autorização do Presidente do Conselho, e com dispensa de outras formalidades legais, o pessoal indispensável, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas no orçamento para esse fim.
 
-###### Art. 13.º - 1. Haverá uma comissão interministerial para os problemas da emigração, à qual caberá emitir parecer sobre qualquer assunto relacionado com a emigração que lhe seja submetido pelo Governo.
+Art. 13.º - 1. Haverá uma comissão interministerial para os problemas da emigração, à qual caberá emitir parecer sobre qualquer assunto relacionado com a emigração que lhe seja submetido pelo Governo.
 
 2. A Comissão será presidida pelo secretário-geral da Presidência do Conselho e terá como vice-presidente o secretário nacional da Emigração.
 
@@ -248,16 +284,16 @@ l) Secretaria de Estado da Agricultura.
 
 5. O Ministro delegado para os problemas da emigração poderá, sempre que julgue conveniente, assumir a presidência da Comissão.
 
-###### Art. 14.º O expediente da Comissão será assegurado pelo Secretariado Nacional da Emigração.
+Art. 14.º O expediente da Comissão será assegurado pelo Secretariado Nacional da Emigração.
 
-###### Art. 15.º No prazo de seis meses, a contar da publicação do presente decreto-lei, o Secretariado elaborará e apresentará ao Presidente do Conselho projecto de regulamento dos seus serviços, no qual poderá ser prevista a criação de delegações locais em território nacional e de serviços externos em território estrangeiro, e do quadro do respectivo pessoal.
+Art. 15.º No prazo de seis meses, a contar da publicação do presente decreto-lei, o Secretariado elaborará e apresentará ao Presidente do Conselho projecto de regulamento dos seus serviços, no qual poderá ser prevista a criação de delegações locais em território nacional e de serviços externos em território estrangeiro, e do quadro do respectivo pessoal.
 
-###### Art. 16.º Os encargos com o funcionamento do Secretariado serão suportados no ano corrente pelas correspondentes verbas descritas no orçamento da Junta, procedendo-se ao necessário reforço daquelas para prover aos encargos resultantes do aumento do quadro do pessoal.
+Art. 16.º Os encargos com o funcionamento do Secretariado serão suportados no ano corrente pelas correspondentes verbas descritas no orçamento da Junta, procedendo-se ao necessário reforço daquelas para prover aos encargos resultantes do aumento do quadro do pessoal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Agosto de 1970.**
+Promulgado em 12 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

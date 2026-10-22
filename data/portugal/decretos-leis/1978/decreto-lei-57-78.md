@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1978-446959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23697f2863d294bf84aaffc3ef09fc414f60aac45457c57b79edc7dd6c5cbca5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a58ddc027d368d3d9086b3a871e05c930e35e0f3e7f58b05922c98fdc6970de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Registos e do Notariado
+- Pessoa Coletiva
+- Pessoa Coletiva de Utilidade Pública
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:165036155:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165036155:por
+  label: Revogado a partir de 01.07.2021 pelo(a) Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14,
+    exceto para efeitos do disposto no n.º 4 do artigo 17.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2021-165036155
+  date: '2021-06-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:30Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +116,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As pessoas colectivas de utilidade pública a que se refere o [Decreto-Lei n.º 460/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1977-277832), de 7 de Novembro, são equiparadas, para fins de registo, às sociedades comerciais, com as especialidades constantes do presente diploma.
+Artigo 1.º As pessoas colectivas de utilidade pública a que se refere o [Decreto-Lei n.º 460/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1977-277832), de 7 de Novembro, são equiparadas, para fins de registo, às sociedades comerciais, com as especialidades constantes do presente diploma.
 
-###### Art. 2.º Estão sujeitos a registo:
+Art. 2.º Estão sujeitos a registo:
 
 a) Os actos de constituição ou instituição das pessoas colectivas declaradas de utilidade pública, bem como os respectivos estatutos e suas alterações;
 
@@ -114,15 +128,15 @@ c) O mandato escrito conferido pelas pessoas colectivas de utilidade pública ao
 
 d) A extinção das pessoas colectivas de utilidade pública ou declaração de nulidade do respectivo acto de constituição ou instituição.
 
-###### Art. 3.º - 1 - O registo das pessoas colectivas de utilidade pública compreende apenas a inscrição e os averbamentos dos factos a ele sujeitos.
+Art. 3.º - 1 - O registo das pessoas colectivas de utilidade pública compreende apenas a inscrição e os averbamentos dos factos a ele sujeitos.
 
 2 - Nenhum facto referente a pessoas colectivas de utilidade pública pode ingressar no registo sem que se mostre registada a sua constituição ou instituição.
 
-###### Art. 4.º - 1 - O registo da constituição ou instituição das pessoas colectivas de utilidade pública e respectivos estatutos será lavrado por inscrição.
+Art. 4.º - 1 - O registo da constituição ou instituição das pessoas colectivas de utilidade pública e respectivos estatutos será lavrado por inscrição.
 
 2 - O registo dos demais factos a ele sujeitos será lavrado por meio de averbamento à correspondente inscrição.
 
-###### Art. 5.º Do extracto das inscrições, lavrado por forma esquemática, deverão constar as seguintes rubricas:
+Art. 5.º Do extracto das inscrições, lavrado por forma esquemática, deverão constar as seguintes rubricas:
 
 a) Número da inscrição;
 
@@ -144,16 +158,16 @@ i) Cláusulas especiais;
 
 j) Documentos.
 
-###### Art. 6.º - 1 - Destinado aos serviços de registo das pessoas colectivas de utilidade pública, haverá, em cada conservatória, um livro de modelo especial superiormente aprovado.
+Art. 6.º - 1 - Destinado aos serviços de registo das pessoas colectivas de utilidade pública, haverá, em cada conservatória, um livro de modelo especial superiormente aprovado.
 
 2 - Cada página do livro de registo será reservada à inscrição de uma só pessoa colectiva.
 
-###### Art. 7.º Do extracto dos averbamentos deverão constar a menção do conteúdo do facto registado e a identificação dos documentos que lhe serviram de base.
+Art. 7.º Do extracto dos averbamentos deverão constar a menção do conteúdo do facto registado e a identificação dos documentos que lhe serviram de base.
 
 Mário Soares - José Dias dos Santos Pais.
 
-**Promulgado em 18 de Março de 1978.**
+Promulgado em 18 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

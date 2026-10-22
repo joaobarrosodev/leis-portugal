@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/169-1973-675846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9895d0c7ea69d28cad4d8b140bf2ace7c927606b3057dac4a3064f1adacfcc23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1deaf3076be2c37aa64e71f5b968d5011fe3fa9a4fe4c9e48553474dbf0e55e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:53Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +92,9 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É criada na província de Cabo Verde, na dependência directa do Governador, a Comissão de Electrificação de Cabo Verde, organismo de carácter temporário, dispondo de autonomia administrativa e financeira, com a missão de elaborar o plano geral de electrificação do arquipélago e de promover a sua execução, de harmonia com os programas anuais que forem aprovados mediante proposta da Comissão.
+Artigo 1.º É criada na província de Cabo Verde, na dependência directa do Governador, a Comissão de Electrificação de Cabo Verde, organismo de carácter temporário, dispondo de autonomia administrativa e financeira, com a missão de elaborar o plano geral de electrificação do arquipélago e de promover a sua execução, de harmonia com os programas anuais que forem aprovados mediante proposta da Comissão.
 
-###### Art. 2.º - 1. O plano geral deverá abranger todas as ilhas e a sua execução será escalonada por fases, segundo critérios racionais de prioridade, para cuja definição serão tomados em conta a produtividade, directa ou indirecta, dos investimentos e o valor dos benefícios sociais produzidos.
+Art. 2.º - 1. O plano geral deverá abranger todas as ilhas e a sua execução será escalonada por fases, segundo critérios racionais de prioridade, para cuja definição serão tomados em conta a produtividade, directa ou indirecta, dos investimentos e o valor dos benefícios sociais produzidos.
 
 2. O plano geral será estruturado com vista aos seguintes objectivos:
 
@@ -104,25 +104,25 @@ b) Estabelecimento, em tempo oportuno, dos adequados sistemas de produção e di
 
 c) A extensão gradual a todas as povoações do serviço público da electricidade nas vinte e quatro horas do dia.
 
-###### Art. 3.º - 1. O plano geral deverá estar concluído no prazo de um ano, incluindo a indicação das necessidades a satisfazer em 1.ª fase - estabelecidas depois de inquérito preliminar -, bem como o cômputo dos investimentos correspondentes.
+Art. 3.º - 1. O plano geral deverá estar concluído no prazo de um ano, incluindo a indicação das necessidades a satisfazer em 1.ª fase - estabelecidas depois de inquérito preliminar -, bem como o cômputo dos investimentos correspondentes.
 
 2. A aprovação do plano geral será feita por despacho do Ministro do Ultramar, depois de sobre ele se ter pronunciado o Governo da província, ouvida a Junta Consultiva.
 
-###### Art. 4.º O financiamento das obras integradas no plano geral será efectuado por conta das dotações previstas para esse fim nos planos de fomento, incluindo empréstimos consignados a essa finalidade e, ainda, receitas disponíveis das explorações a cargo da C. E. C. V.
+Art. 4.º O financiamento das obras integradas no plano geral será efectuado por conta das dotações previstas para esse fim nos planos de fomento, incluindo empréstimos consignados a essa finalidade e, ainda, receitas disponíveis das explorações a cargo da C. E. C. V.
 
-###### Art. 5.º - 1. Pertencerá à C. E. C. V. a responsabilidade do serviço público da produção, grande e pequena distribuição de energia eléctrica em toda a província, excepto, quanto à pequena distribuição, nos concelhos cujas câmaras municipais deliberem exercer, elas próprias, essa actividade, com aprovação do Governo da província.
+Art. 5.º - 1. Pertencerá à C. E. C. V. a responsabilidade do serviço público da produção, grande e pequena distribuição de energia eléctrica em toda a província, excepto, quanto à pequena distribuição, nos concelhos cujas câmaras municipais deliberem exercer, elas próprias, essa actividade, com aprovação do Governo da província.
 
 2. A C. E. C. V. aplicará um único tarifário em toda a província, devendo ter em vista, na fixação do nível e da estrutura das tarifas, que carecem da aprovação do Governo da província, o fomento do consumo da electricidade, na sua função impulsionadora das actividades económicas e da promoção social, na medida do comportável dentro de um são equilíbrio da utilização dos recursos gerais disponíveis.
 
-###### Art. 6.º Para fazer face às despesas de exploração e conservação do sistema de produção e do conjunto das redes eléctricas de alta e de baixa tensão, bem como aos diversos encargos da electrificação, e, ainda, à amortização dos financiamentos reembolsáveis, a C. E. C. V. arrecadará e aplicará directamente o produto da venda de energia eléctrica, dos empréstimos, subsídios e legados que lhe sejam concedidos com a aprovação do Governo e quaisquer outros benefícios advindos da exploração das centrais, das redes e outras instalações.
+Art. 6.º Para fazer face às despesas de exploração e conservação do sistema de produção e do conjunto das redes eléctricas de alta e de baixa tensão, bem como aos diversos encargos da electrificação, e, ainda, à amortização dos financiamentos reembolsáveis, a C. E. C. V. arrecadará e aplicará directamente o produto da venda de energia eléctrica, dos empréstimos, subsídios e legados que lhe sejam concedidos com a aprovação do Governo e quaisquer outros benefícios advindos da exploração das centrais, das redes e outras instalações.
 
-###### Art. 7.º As receitas referidas no artigo anterior serão inscritas no orçamento da C. E. C. V. e depositadas no Banco Nacional Ultramarino.
+Art. 7.º As receitas referidas no artigo anterior serão inscritas no orçamento da C. E. C. V. e depositadas no Banco Nacional Ultramarino.
 
-###### Art. 8.º Obedecerão ao melhor respeito dos interesses gerais das comunidades e à legislação aplicável e serão submetidos à aprovação do Governo os acordos a estabelecer entre a C. E. C. V. e os municípios relativamente à utilização das instalações de produção e distribuição de energia eléctrica existentes, à correspondente transferência para a Comissão dos encargos assumidos pelas câmaras municipais e a tudo o que se relacione com o abastecimento público de electricidade.
+Art. 8.º Obedecerão ao melhor respeito dos interesses gerais das comunidades e à legislação aplicável e serão submetidos à aprovação do Governo os acordos a estabelecer entre a C. E. C. V. e os municípios relativamente à utilização das instalações de produção e distribuição de energia eléctrica existentes, à correspondente transferência para a Comissão dos encargos assumidos pelas câmaras municipais e a tudo o que se relacione com o abastecimento público de electricidade.
 
-###### Art. 9.º Com as transferências de instalações municipais para a C. E. C. V. poderá transitar para o mesmo organismo o pessoal dos quadros municipais respectivos com os vencimentos que forem estabelecidos para as categorias correspondentes dos quadros da C. E. C. V.
+Art. 9.º Com as transferências de instalações municipais para a C. E. C. V. poderá transitar para o mesmo organismo o pessoal dos quadros municipais respectivos com os vencimentos que forem estabelecidos para as categorias correspondentes dos quadros da C. E. C. V.
 
-###### Art. 10.º - 1. A C. E. C. V. será constituída por uma individualidade com experiência de administração pública, que presidirá, um delegado da Repartição dos Serviços de Fazenda e um engenheiro electrotécnico de reconhecida competência, sendo as nomeações feitas pelo Ministro do Ultramar mediante proposta do Governador da província.
+Art. 10.º - 1. A C. E. C. V. será constituída por uma individualidade com experiência de administração pública, que presidirá, um delegado da Repartição dos Serviços de Fazenda e um engenheiro electrotécnico de reconhecida competência, sendo as nomeações feitas pelo Ministro do Ultramar mediante proposta do Governador da província.
 
 2. Sempre que possível, o cargo de presidente da C. E. C. V. será exercido pelo secretário-geral da província.
 
@@ -134,21 +134,21 @@ c) A extensão gradual a todas as povoações do serviço público da electricid
 
 6. A constituição da C. E. C. V., referida no n.º 1 deste artigo, será ampliada com um representante da Câmara Municipal do Mindelo, no caso de vir a efectuar-se a integração na Comissão, em conformidade com o regime geral previsto no n.º 1 do artigo 5.º, da actual central e das redes eléctricas da ilha de S. Vicente exploradas por aquela Câmara.
 
-###### Art. 11.º Na orientação e fiscalização da actividade da Comissão, o Governador da província poderá dispor da assistência do Conselho Superior de Fomento Ultramarino, através do Grupo de Trabalho de Electricidade.
+Art. 11.º Na orientação e fiscalização da actividade da Comissão, o Governador da província poderá dispor da assistência do Conselho Superior de Fomento Ultramarino, através do Grupo de Trabalho de Electricidade.
 
-###### Art. 12.º O pessoal técnico, administrativo e menor, necessário aos serviços da C. E. C. V., será contratado ou assalariado, nos termos das disposições aplicáveis em vigor, sobre proposta da C. E. C. V. e aprovação do Governador da província.
+Art. 12.º O pessoal técnico, administrativo e menor, necessário aos serviços da C. E. C. V., será contratado ou assalariado, nos termos das disposições aplicáveis em vigor, sobre proposta da C. E. C. V. e aprovação do Governador da província.
 
-###### Art. 13.º Os vencimentos e gratificações do pessoal serão fixados pelo Governador da província.
+Art. 13.º Os vencimentos e gratificações do pessoal serão fixados pelo Governador da província.
 
-###### Art. 14.º Ao pessoal da C. E. C. V. aplicam-se as disposições do Estatuto do Funcionalismo Ultramarino.
+Art. 14.º Ao pessoal da C. E. C. V. aplicam-se as disposições do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 15.º - 1. A C. E. C. V. requisitará à Repartição dos Serviços de Fazenda, por conta das dotações que lhe forem consignadas nos planos de fomento ou no Orçamento Geral do Estado, as importâncias necessárias à adequada satisfação dos compromissos tomados e da regularidade de gestão; as requisições, depois de visadas pelos Serviços de Fazenda, serão expedidas com as autorizações de pagamento para o Banco Nacional Ultramarino, como caixa do Tesouro;
+Art. 15.º - 1. A C. E. C. V. requisitará à Repartição dos Serviços de Fazenda, por conta das dotações que lhe forem consignadas nos planos de fomento ou no Orçamento Geral do Estado, as importâncias necessárias à adequada satisfação dos compromissos tomados e da regularidade de gestão; as requisições, depois de visadas pelos Serviços de Fazenda, serão expedidas com as autorizações de pagamento para o Banco Nacional Ultramarino, como caixa do Tesouro;
 
 a Comissão procederá ao levantamento dessas importâncias e depositá-las-á, à sua ordem, no mesmo Banco.
 
 2. Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados pelo presidente e pelo funcionário que for chamado a desempenhar as funções de secretário da Comissão;
 
-**o presidente poderá delegar, em caso de impedimento legal, parte ou todas estas funções em um dos vogais da Comissão.**
+o presidente poderá delegar, em caso de impedimento legal, parte ou todas estas funções em um dos vogais da Comissão.
 
 3. Os levantamentos serão feitos por meio de cheques; os pagamentos serão também efectuados, em regra, por meio de cheques.
 
@@ -156,28 +156,28 @@ a Comissão procederá ao levantamento dessas importâncias e depositá-las-á, 
 
 5. Transitarão para o ano seguinte, constituindo reforço das respectivas dotações, os saldos resultantes das dotações que não forem totalmente utilizadas em cada ano.
 
-###### Art. 16.º Todos os encargos de administração e direcção de obras e despesas de instalação, assim como de estudos e projectos, e ainda de expediente e serviço normal, incluindo as despesas com o pessoal, serão levados à conta de despesas gerais das obras e não poderão exceder 20% do custo das mesmas obras.
+Art. 16.º Todos os encargos de administração e direcção de obras e despesas de instalação, assim como de estudos e projectos, e ainda de expediente e serviço normal, incluindo as despesas com o pessoal, serão levados à conta de despesas gerais das obras e não poderão exceder 20% do custo das mesmas obras.
 
-###### Art. 17.º A C. E. C. V. submeterá à aprovação do Governo o regulamento interno contendo as instruções necessárias ao bom funcionamento dos serviços a seu cargo.
+Art. 17.º A C. E. C. V. submeterá à aprovação do Governo o regulamento interno contendo as instruções necessárias ao bom funcionamento dos serviços a seu cargo.
 
-###### Art. 18.º - 1. Aprovado o plano geral, referido no artigo 3.º, a C. E. C. V. promoverá a elaboração dos projectos e trabalhos a realizar.
+Art. 18.º - 1. Aprovado o plano geral, referido no artigo 3.º, a C. E. C. V. promoverá a elaboração dos projectos e trabalhos a realizar.
 
 2. Sempre que for julgado conveniente, poderá o Governo, mediante proposta da C. E. C. V., autorizar a elaboração dos projectos ou fiscalização das obras em regime de prestação de serviço, sendo as respectivas despesas aprovadas por despacho do Governo da província.
 
-###### Art. 19.º - 1. Todas as obras serão normalmente executadas em regime de empreitada, podendo, em casos especiais, ser realizadas por administração directa.
+Art. 19.º - 1. Todas as obras serão normalmente executadas em regime de empreitada, podendo, em casos especiais, ser realizadas por administração directa.
 
 2. Para a abertura dos concursos públicos ou limitados, realização das obras por administração directa ou aquisição de materiais, quando os respectivos orçamentos sejam estimados em mais de 500000$00, torna-se necessária a prévia autorização do Governador da província; quando o orçamento estimado exceder 10000000$00, será necessária a aprovação do Ministro do Ultramar.
 
 3. A abertura das propostas terá lugar perante a C. E. C. V., que será especialmente convocada para esse fim.
 
-###### Art. 20.º Terminada a execução do plano geral para que foi criada a C. E. C. V., ou antes, se, entretanto, se considerar conveniente a sua substituição por um organismo permanente, o Ministério do Ultramar resolverá, ouvido o Governo da província, sobre a solução definitiva a adoptar para que fique assegurado, com a devida regularidade, o serviço público da produção e distribuição de energia eléctrica no arquipélago de Cabo Verde.
+Art. 20.º Terminada a execução do plano geral para que foi criada a C. E. C. V., ou antes, se, entretanto, se considerar conveniente a sua substituição por um organismo permanente, o Ministério do Ultramar resolverá, ouvido o Governo da província, sobre a solução definitiva a adoptar para que fique assegurado, com a devida regularidade, o serviço público da produção e distribuição de energia eléctrica no arquipélago de Cabo Verde.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Março de 1973.**
+Promulgado em 26 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

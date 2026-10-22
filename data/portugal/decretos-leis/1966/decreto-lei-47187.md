@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47187-1966-479636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c3197f38ff2556287ccf91f0dbd1c96527d6d6412d151323753b584ed93c6d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 254df7d4de35626cb5e6f1498bb42b4497032f59404ab1abb5053606b7282f7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Definição de Competências
+- Despesas Públicas
+- Equipamento Militar
+- Marinha
+- Ministro da Marinha
+- Ministro das Finanças
+- Unidade Naval
+relationships:
+- type: cites
+  target: pt:dre:329246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553914:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:15Z'
   warnings: []
   errors: []
 ---
@@ -86,14 +102,14 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Com o prévio acordo e escalonamento anual a fixar pelo Ministro das Finanças, é autorizado o Ministério da Marinha a assumir os encargos necessários ao completo apetrechamento, incluindo as convenientes reservas, e à entrada ao serviço dos quatro navios-escoltadores e dos quatro submersíveis a cujos encargos de construção se refere o [Decreto-Lei n.º 46105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46105-1964-553914), de 24 de Dezembro de 1964.
+Artigo 1.º Com o prévio acordo e escalonamento anual a fixar pelo Ministro das Finanças, é autorizado o Ministério da Marinha a assumir os encargos necessários ao completo apetrechamento, incluindo as convenientes reservas, e à entrada ao serviço dos quatro navios-escoltadores e dos quatro submersíveis a cujos encargos de construção se refere o [Decreto-Lei n.º 46105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46105-1964-553914), de 24 de Dezembro de 1964.
 
 § único. Quando os encargos devam ser assumidos por contrato escrito, estes estarão apenas sujeitos à aprovação dos Ministros das Finanças e da Marinha.
 
-###### Art. 2.º Os encargos referidos no artigo anterior, em cujo pagamento se observará, igualmente e na parte aplicável, o preceituado no artigo 1.º e seu § único do [Decreto-Lei n.º 31286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31286-1941-329246), de 28 de Maio de 1941, deverão onerar a verba especial da despesa extraordinária a que se refere o artigo 2.º do citado [Decreto-Lei n.º 46105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46105-1964-553914), passando a respectiva sub-rubrica a ser: «Para pagamento de todos os encargos emergentes da sua construção, apetrechamento e entrada ao serviço».
+Art. 2.º Os encargos referidos no artigo anterior, em cujo pagamento se observará, igualmente e na parte aplicável, o preceituado no artigo 1.º e seu § único do [Decreto-Lei n.º 31286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31286-1941-329246), de 28 de Maio de 1941, deverão onerar a verba especial da despesa extraordinária a que se refere o artigo 2.º do citado [Decreto-Lei n.º 46105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46105-1964-553914), passando a respectiva sub-rubrica a ser: «Para pagamento de todos os encargos emergentes da sua construção, apetrechamento e entrada ao serviço».
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - Francisco Pereira Neto de Carvalho.

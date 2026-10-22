@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1972-674395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45c341b8b6dc8426000701aa9f0c288d309a03593ec3d68a37b41f8a02665f0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 274227213e368a4f1241b6897995d32f3ee4dde2b9bd44fee1e37add60f7c990
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Instituto de Crédito de Angola
+- Instituto de Crédito de Moçambique
+- Moçambique.Colónia Portuguesa
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:10Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +114,15 @@ Embora os ajustamentos introduzidos incidam apenas sobre pontos de pormenor e re
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - Os artigos 2.º a 4.º, 17.º, 20.º, 22.º, 23.º, 27.º a 29.º, 31.º a 34.º, 36.º a 41.º, 45.º, 46.º, 53.º, 56.º a 58.º, 61.º a 63.º e 67.º a 69.º dos Decretos-Leis n.os 48996 e 48997, de 8 de Maio de 1969, passam a ter a seguinte redacção:
+Artigo 1.º - Os artigos 2.º a 4.º, 17.º, 20.º, 22.º, 23.º, 27.º a 29.º, 31.º a 34.º, 36.º a 41.º, 45.º, 46.º, 53.º, 56.º a 58.º, 61.º a 63.º e 67.º a 69.º dos Decretos-Leis n.os 48996 e 48997, de 8 de Maio de 1969, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. Independentemente da faculdade de abertura de delegações a que se refere o número anterior, o Instituto poderá promover a sua representação pelas filiais, agências ou sucursais de outros institutos de crédito do Estado e do banco emissor da província, ou, nos locais onde estas não existam, pelas dos bancos comerciais, e ainda utilizar, para o mesmo efeito, a colaboração de quaisquer serviços públicos.
 
 3. Sempre que o Governador-Geral o determine, as estações telégrafo-postais efectuarão, por conta do Instituto, serviços compreendidos no âmbito das atribuições deste, recebendo, em contrapartida, a remuneração que vier a ser fixada pelo Governador-Geral, ouvidos a Direcção Provincial dos Serviços dos Correios, Telégrafos e Telefones e o Instituto.
 
-###### Art. 3.º - 1. ...
+Art. 3.º - 1. ...
 
 2. Compreende-se no objecto do Instituto:
 
@@ -125,13 +146,13 @@ h) A prática de quaisquer outras operações ou serviços de natureza bancária
 
 4. As participações no capital de empresas privadas, nos termos da alínea d) do n.º 2 do presente artigo, não poderão exceder 10 por cento dos valores activos do Instituto, excluindo destes os saldos devedores em contas de ordem, nem, relativamente a cada empresa, 30 por cento do respectivo capital social, sem embargo de o Instituto poder conservar em carteira, pelo prazo que for indispensável à sua boa liquidação, os títulos adquiridos em execução de garantias das operações de crédito e, bem assim, os que houverem sido tomados firmes pelo Instituto e não forem subscritos pelo público.
 
-###### Art. 4.º - 1. Para efeitos deste diploma, consideram-se: operações a curto prazo, as de duração não superior a um ano; operações a médio prazo, as que ultrapassem este período mas não sete anos; e operações a longo prazo, as que excedam este último limite.
+Art. 4.º - 1. Para efeitos deste diploma, consideram-se: operações a curto prazo, as de duração não superior a um ano; operações a médio prazo, as que ultrapassem este período mas não sete anos; e operações a longo prazo, as que excedam este último limite.
 
 2. O prazo das operações de financiamento conta-se a partir da data do respectivo contrato.
 
 ...
 
-###### Art. 17.º - 1. ...
+Art. 17.º - 1. ...
 
 2. ...
 
@@ -139,7 +160,7 @@ h) A prática de quaisquer outras operações ou serviços de natureza bancária
 
 ...
 
-###### Art. 20.º - 1. No regulamento do Instituto serão estabelecidos os termos e condições gerais a que deverão obedecer as operações de concessão de crédito.
+Art. 20.º - 1. No regulamento do Instituto serão estabelecidos os termos e condições gerais a que deverão obedecer as operações de concessão de crédito.
 
 2. ...
 
@@ -149,9 +170,9 @@ h) A prática de quaisquer outras operações ou serviços de natureza bancária
 
 ...
 
-###### Art. 22.º Os mutuários poderão antecipar, total ou parcialmente, a amortização dos seus empréstimos.
+Art. 22.º Os mutuários poderão antecipar, total ou parcialmente, a amortização dos seus empréstimos.
 
-###### Art. 23.º - 1. ...
+Art. 23.º - 1. ...
 
 2. ...
 
@@ -159,7 +180,7 @@ h) A prática de quaisquer outras operações ou serviços de natureza bancária
 
 ...
 
-###### Art. 27.º - 1. Para a cobrança coerciva das dívidas de que o Instituto seja credor são competentes quer os tribunais comuns, quer os das execuções fiscais, servindo, em qualquer caso, de títulos executivos, as escrituras, títulos particulares, letras, livranças ou qualquer outro documento apresentado pelo exequente, incluindo as certidões ou fotocópias autenticadas extraídas dos livros da sua escrita.
+Art. 27.º - 1. Para a cobrança coerciva das dívidas de que o Instituto seja credor são competentes quer os tribunais comuns, quer os das execuções fiscais, servindo, em qualquer caso, de títulos executivos, as escrituras, títulos particulares, letras, livranças ou qualquer outro documento apresentado pelo exequente, incluindo as certidões ou fotocópias autenticadas extraídas dos livros da sua escrita.
 
 2. Os documentos a que se refere o número anterior servirão igualmente para o Instituto deduzir os seus direitos em quaisquer processos em que seja reclamante ou interessado.
 
@@ -175,13 +196,13 @@ b) Excepcionalmente, quando intervenham circunstâncias ponderosas, e sem necess
 
 6. Sempre que for efectuado qualquer pagamento na execução pendente em tribunais das execuções fiscais que não seja suficiente para solver toda a dívida exequenda, presumir-se-á feito por conta, sucessivamente, das despesas, da indemnização moratória ou cláusula penal, dos juros e, por último, do capital.
 
-###### Art. 28.º - 1. O Instituto é representado em juízo pelo Ministério Público e está isento de imposto de justiça, selos e demais encargos.
+Art. 28.º - 1. O Instituto é representado em juízo pelo Ministério Público e está isento de imposto de justiça, selos e demais encargos.
 
 2. Sem prejuízo do disposto no número anterior, pode o conselho de administração constituir advogado ou solicitador que represente o Instituto.
 
 #### SECÇÃO II — Do crédito às actividades económicas do sector privado
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 a) ...
 
@@ -203,7 +224,7 @@ i) Outros investimentos relacionados directamente com o fomento económico, que,
 
 ...
 
-###### Art. 31.º - Os capitais facultados pelas operações de crédito a longo prazo deverão ter, de preferência, as aplicações seguintes:
+Art. 31.º - Os capitais facultados pelas operações de crédito a longo prazo deverão ter, de preferência, as aplicações seguintes:
 
 a) ...
 
@@ -215,7 +236,7 @@ d) Construção de armazéns e outras instalações para conservação ou venda 
 
 e) Outros investimentos susceptíveis de introduzir novos fabricos, reduzir os custos ou melhorar a qualidade dos produtos.
 
-###### Art. 32.º - 1. Poderão ainda ser concedidos créditos pelo Instituto com as seguintes finalidades:
+Art. 32.º - 1. Poderão ainda ser concedidos créditos pelo Instituto com as seguintes finalidades:
 
 a) Compra de terrenos, bem como a sua preparação e adaptação para fins ou para instalações industriais;
 
@@ -227,13 +248,13 @@ d) Saneamento financeiro da empresa, desde que as dívidas a solver com o produt
 
 2. As aplicações correspondentes às alíneas b) a d) não podem ser objecto de financiamento a longo prazo.
 
-###### Art. 33.º - 1. As operações de crédito para fomento da habitação terão por fim facultar, por meio de empréstimos, recursos para a construção e ampliação de edifícios para habitação.
+Art. 33.º - 1. As operações de crédito para fomento da habitação terão por fim facultar, por meio de empréstimos, recursos para a construção e ampliação de edifícios para habitação.
 
 2. Os empréstimos a que se refere o número anterior serão concedidos de acordo com os critérios que vierem a ser estabelecidos pelo conselho de administração, não podendo o capital mutuado ser aplicado na aquisição dos terrenos necessários para a construção.
 
 3. O Instituto pode ainda conceder empréstimos a particulares, nos termos e condições que o conselho de administração fixar, para a aquisição de casa própria ou para nela procederem a obras de reparação, conservação ou ampliação.
 
-###### Art. 34.º - 1. As operações de crédito realizadas pelo Instituto terão, em princípio, uma das seguintes garantias:
+Art. 34.º - 1. As operações de crédito realizadas pelo Instituto terão, em princípio, uma das seguintes garantias:
 
 a) ...
 
@@ -257,11 +278,11 @@ h) Caução de obrigações da dívida pública portuguesa ou de títulos garant
 
 ...
 
-###### Art. 36.º - 1. ...
+Art. 36.º - 1. ...
 
 2. No caso de concessão de empréstimos nas circunstâncias descritas no número anterior, o Instituto poderá intervir nos contratos com os fornecedores.
 
-###### Art. 37.º - 1. ...
+Art. 37.º - 1. ...
 
 2. Excepcionalmente, é admissível segunda hipoteca se a primeira tiver sido constituída a favor do próprio Instituto ou se o valor do bem onerado seguramente o permitir.
 
@@ -269,21 +290,21 @@ h) Caução de obrigações da dívida pública portuguesa ou de títulos garant
 
 4. As hipotecas constituídas a favor do Instituto abrangem, independentemente de registo, os juros relativos a três anos.
 
-###### Art. 38.º - 1. Os empréstimos com garantia hipotecária não poderão exceder 60 por cento do valor dos bens dados em garantia, segundo avaliação feita pelos serviços competentes do Instituto.
+Art. 38.º - 1. Os empréstimos com garantia hipotecária não poderão exceder 60 por cento do valor dos bens dados em garantia, segundo avaliação feita pelos serviços competentes do Instituto.
 
 2. Sempre que as necessidades de desenvolvimento de qualquer localidade o justifiquem, o Governador-Geral pode autorizar, por despacho, sob proposta do conselho de administração, que o limite fixado no número anterior seja elevado até 75 por cento.
 
-###### Art. 39.º - 1. O penhor apenas poderá servir de garantia exclusiva a empréstimos a médio prazo.
+Art. 39.º - 1. O penhor apenas poderá servir de garantia exclusiva a empréstimos a médio prazo.
 
 2. O penhor constituído nos termos do presente diploma fica sujeito ao regime criado pelo [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939, com a alteração constante do [Decreto-Lei n.º 32032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32032-1942-314423), de 22 de Maio de 1942.
 
-###### Art. 40.º - 1. Quando não funcionem como garantia complementar, a fiança e o aval só poderão servir de garantia a empréstimos a médio prazo e que não excedam, em cada caso, 1000000$00.
+Art. 40.º - 1. Quando não funcionem como garantia complementar, a fiança e o aval só poderão servir de garantia a empréstimos a médio prazo e que não excedam, em cada caso, 1000000$00.
 
 2. As restrições contidas no número anterior não se aplicam ao aval do Estado ou de qualquer outra pessoa colectiva de direito público.
 
 #### SECÇÃO III — Do crédito às pessoas colectivas de direito público
 
-###### Art. 41.º - 1. A província pode contrair empréstimos no Instituto desde que seja devidamente autorizada e mediante a inscrição dos respectivos encargos no seu orçamento geral.
+Art. 41.º - 1. A província pode contrair empréstimos no Instituto desde que seja devidamente autorizada e mediante a inscrição dos respectivos encargos no seu orçamento geral.
 
 2. As pessoas colectivas de direito público e outros organismos dotados de autonomia administrativa e financeira, quando devidamente autorizados, podem contrair empréstimos no Instituto mediante consignação, total ou parcial, das suas receitas ou de quaisquer subsídios autorizados por lei e inscritos individual ou globalmente no orçamento geral da província como encargo efectivo e permanente.
 
@@ -291,17 +312,17 @@ h) Caução de obrigações da dívida pública portuguesa ou de títulos garant
 
 ...
 
-###### Art. 45.º - 1. Sob proposta do Governador-Geral, o Ministro do Ultramar designará, de entre individualidades de reconhecida competência, os membros do conselho de administração do Instituto por um período de três anos, renovável.
+Art. 45.º - 1. Sob proposta do Governador-Geral, o Ministro do Ultramar designará, de entre individualidades de reconhecida competência, os membros do conselho de administração do Instituto por um período de três anos, renovável.
 
 2. As remunerações dos membros do conselho de administração serão fixadas por despacho do Governador-Geral.
 
-###### Art. 46.º - 1. A actividade dos membros do conselho de administração será exercida em regime de ocupação exclusiva.
+Art. 46.º - 1. A actividade dos membros do conselho de administração será exercida em regime de ocupação exclusiva.
 
 2. Em circunstâncias especiais, e sob proposta do Governador-Geral, o Ministro do Ultramar pode autorizar os membros do conselho de administração a exercer outras actividades não incompatíveis com as suas funções.
 
 ...
 
-###### Art. 53.º - Compete ao conselho de administração dirigir a actividade do Instituto e em especial:
+Art. 53.º - Compete ao conselho de administração dirigir a actividade do Instituto e em especial:
 
 a) Fixar anualmente, e rever sempre que necessário, as prioridades gerais para a concessão de crédito às actividades económicas do sector privado;
 
@@ -325,31 +346,31 @@ j) ...
 
 ...
 
-###### Art. 56.º - 1. O presidente será substituído, nas suas faltas ou impedimentos, pelo vice-presidente. Na falta ou impedimento de ambos, exercerá as respectivas funções o vogal escolhido pelo conselho de administração.
+Art. 56.º - 1. O presidente será substituído, nas suas faltas ou impedimentos, pelo vice-presidente. Na falta ou impedimento de ambos, exercerá as respectivas funções o vogal escolhido pelo conselho de administração.
 
 2. ...
 
 ...
 
-###### Art. 57.º - 1. O Instituto terá um conselho fiscal, constituído por um representante da Inspecção Provincial de Crédito e Seguros, um representante da Direcção Provincial dos Serviços de Finanças e, ainda, um representante das actividades económicas da província, a designar nos termos do regulamento.
+Art. 57.º - 1. O Instituto terá um conselho fiscal, constituído por um representante da Inspecção Provincial de Crédito e Seguros, um representante da Direcção Provincial dos Serviços de Finanças e, ainda, um representante das actividades económicas da província, a designar nos termos do regulamento.
 
 2. ...
 
-###### Art. 58.º As remunerações dos membros do conselho fiscal serão fixadas pelo Governador-Geral.
+Art. 58.º As remunerações dos membros do conselho fiscal serão fixadas pelo Governador-Geral.
 
 ...
 
-###### Art. 61.º A organização do Instituto compreenderá, pelo menos, serviços técnicos e serviços administrativos, cuja actividade será superiormente orientada pelo conselho de administração.
+Art. 61.º A organização do Instituto compreenderá, pelo menos, serviços técnicos e serviços administrativos, cuja actividade será superiormente orientada pelo conselho de administração.
 
-###### Art. 62.º - 1. O regulamento do Instituto definirá as formas de provimento e as condições gerais de prestação de trabalho, disciplina, aposentação e assistência médico-social do respectivo pessoal.
+Art. 62.º - 1. O regulamento do Instituto definirá as formas de provimento e as condições gerais de prestação de trabalho, disciplina, aposentação e assistência médico-social do respectivo pessoal.
 
 2. O regime de prestação de trabalho e de garantias sociais do pessoal, para além do que ficar expresso no regulamento, será definido pelo conselho de administração e terá em consideração o que for praticado nos demais estabelecimentos de crédito da província.
 
-###### Art. 63.º O Instituto disporá de cartório privativo, onde serão lavradas as escrituras e demais actos em que outorgue e necessitem de intervenção notarial.
+Art. 63.º O Instituto disporá de cartório privativo, onde serão lavradas as escrituras e demais actos em que outorgue e necessitem de intervenção notarial.
 
 ...
 
-###### Art. 67.º - 1. Só o Instituto pode receber, no futuro, todos os depósitos em numerário, títulos ou outros valores que devam constituir-se por força de lei, regulamentos ou contratos administrativos e, ainda, os dos organismos ou instituições de carácter público ou utilidade pública, com excepção dos do Tesouro provincial e dos que por lei caibam no banco emissor da província, nesta qualidade ou como agente e banqueiro do fundo cambial.
+Art. 67.º - 1. Só o Instituto pode receber, no futuro, todos os depósitos em numerário, títulos ou outros valores que devam constituir-se por força de lei, regulamentos ou contratos administrativos e, ainda, os dos organismos ou instituições de carácter público ou utilidade pública, com excepção dos do Tesouro provincial e dos que por lei caibam no banco emissor da província, nesta qualidade ou como agente e banqueiro do fundo cambial.
 
 2. As autoridades, tribunais, incluindo os das execuções fiscais, e quaisquer outros serviços públicos, os estabelecimentos do Estado, autónomos ou não, as demais pessoas colectivas de direito público, os corpos administrativos, os organismos corporativos, as instituições de previdência social e as de beneficência ou assistência, criadas ou subsidiadas pelo Estado ou pela província, ou deles dependentes, não podem ordenar ou autorizar a constituição de depósitos fora do Instituto.
 
@@ -369,46 +390,46 @@ j) ...
 
 10. Os autos levantados e as participações efectuadas em cumprimento do presente artigo fazem fé em juízo até prova em contrário.
 
-###### Art. 68.º O Instituto depositará todos os seus fundos e disponibilidades no banco emissor da província.
+Art. 68.º O Instituto depositará todos os seus fundos e disponibilidades no banco emissor da província.
 
-###### Art. 69.º O Instituto goza de isenção de todas as contribuições, impostos, taxas, licenças administrativas e mais imposições, gerais e especiais, nos mesmos termos que a província.
+Art. 69.º O Instituto goza de isenção de todas as contribuições, impostos, taxas, licenças administrativas e mais imposições, gerais e especiais, nos mesmos termos que a província.
 
-###### Art. 2.º O artigo 70.º do [Decreto-Lei n.º 48997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48997-1969-201659) passa a ter a seguinte redacção:
+Art. 2.º O artigo 70.º do [Decreto-Lei n.º 48997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48997-1969-201659) passa a ter a seguinte redacção:
 
-###### Art. 70.º É considerada de utilidade pública e urgente a expropriação de quaisquer prédios, urbanos ou rústicos, de que o Instituto necessite para a instalação dos seus serviços.
+Art. 70.º É considerada de utilidade pública e urgente a expropriação de quaisquer prédios, urbanos ou rústicos, de que o Instituto necessite para a instalação dos seus serviços.
 
-###### Art. 3.º O artigo 71.º dos Decretos-Leis n.os 48996 e 48997 passa a ter a seguinte redacção:
+Art. 3.º O artigo 71.º dos Decretos-Leis n.os 48996 e 48997 passa a ter a seguinte redacção:
 
-###### Art. 71.º O Instituto reger-se-á pela sua legislação própria em tudo o que respeita à organização, aprovação e alteração dos seus orçamentos, à execução dos seus serviços, ao pagamento das suas despesas e à apresentação, fiscalização e julgamento das suas contas.
+Art. 71.º O Instituto reger-se-á pela sua legislação própria em tudo o que respeita à organização, aprovação e alteração dos seus orçamentos, à execução dos seus serviços, ao pagamento das suas despesas e à apresentação, fiscalização e julgamento das suas contas.
 
-###### Art. 4.º O artigo 72.º do [Decreto-Lei n.º 48997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48997-1969-201659) passa a ter a seguinte redacção:
+Art. 4.º O artigo 72.º do [Decreto-Lei n.º 48997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48997-1969-201659) passa a ter a seguinte redacção:
 
-###### Art. 72.º O pessoal e os membros do conselho de administração do Instituto têm direito a participar nos respectivos lucros, na percentagem a fixar anualmente pelo Governador-Geral, não podendo, porém, em cada gerência, a participação global ser inferior à média do último triénio, nem a participação individual ser superior a 50 por cento do vencimento anual.
+Art. 72.º O pessoal e os membros do conselho de administração do Instituto têm direito a participar nos respectivos lucros, na percentagem a fixar anualmente pelo Governador-Geral, não podendo, porém, em cada gerência, a participação global ser inferior à média do último triénio, nem a participação individual ser superior a 50 por cento do vencimento anual.
 
-###### Art. 5.º É aditado ao [Decreto-Lei n.º 48996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48996-1969-201658) o artigo 72.º, com a seguinte redacção:
+Art. 5.º É aditado ao [Decreto-Lei n.º 48996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48996-1969-201658) o artigo 72.º, com a seguinte redacção:
 
-###### Art. 72.º O pessoal e os membros do conselho de administração do Instituto têm direito a participar nos respectivos lucros, na percentagem a fixar anualmente pelo Governador-Geral, não podendo, porém, em cada gerência, a participação global ser inferior à média do último triénio, nem a participação individual ser superior a 50 por cento do vencimento anual.
+Art. 72.º O pessoal e os membros do conselho de administração do Instituto têm direito a participar nos respectivos lucros, na percentagem a fixar anualmente pelo Governador-Geral, não podendo, porém, em cada gerência, a participação global ser inferior à média do último triénio, nem a participação individual ser superior a 50 por cento do vencimento anual.
 
-###### Art. 6.º É aditado aos Decretos-Leis n.os 48996 e 48997 o artigo 73.º, com a seguinte redacção:
+Art. 6.º É aditado aos Decretos-Leis n.os 48996 e 48997 o artigo 73.º, com a seguinte redacção:
 
-###### Art. 73.º - 1. Os actos e contratos realizados pelo Instituto podem ser titulados por documento particular, que deverá conter o reconhecimento autêntico das assinaturas quando se trate de actos sujeitos a registo.
+Art. 73.º - 1. Os actos e contratos realizados pelo Instituto podem ser titulados por documento particular, que deverá conter o reconhecimento autêntico das assinaturas quando se trate de actos sujeitos a registo.
 
 2. Ficam isentas de emolumentos, por actos efectuados no cartório privativo do Instituto, as entidades não sujeitas a imposto do selo pelos mesmos actos.
 
-###### Art. 7.º É aditado ao [Decreto-Lei n.º 48996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48996-1969-201658) o artigo 74.º, com a seguinte redacção:
+Art. 7.º É aditado ao [Decreto-Lei n.º 48996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48996-1969-201658) o artigo 74.º, com a seguinte redacção:
 
-###### Art. 74.º A Caixa de Crédito Agro-Pecuário de Angola poderá ser integrada no Instituto, por decreto que introduzirá na regulamentação e orgânica deste as alterações necessárias ao preenchimento dos fins daquela.
+Art. 74.º A Caixa de Crédito Agro-Pecuário de Angola poderá ser integrada no Instituto, por decreto que introduzirá na regulamentação e orgânica deste as alterações necessárias ao preenchimento dos fins daquela.
 
-###### Art. 8.º É aditado ao [Decreto-Lei n.º 48997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48997-1969-201659) o artigo 74.º, com a seguinte redacção:
+Art. 8.º É aditado ao [Decreto-Lei n.º 48997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48997-1969-201659) o artigo 74.º, com a seguinte redacção:
 
-###### Art. 74.º A Caixa de Crédito Agrícola de Moçambique será integrada no Instituto, por decreto que introduzirá na regulamentação e orgânica desde as alterações necessárias ao preenchimento dos fins daquela.
+Art. 74.º A Caixa de Crédito Agrícola de Moçambique será integrada no Instituto, por decreto que introduzirá na regulamentação e orgânica desde as alterações necessárias ao preenchimento dos fins daquela.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1972.**
+Promulgado em 29 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

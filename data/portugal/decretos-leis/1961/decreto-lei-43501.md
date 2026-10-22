@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43501-1961-555775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ff298b38685ab0ef011b62f90aac8d5a69b24e2f4cc237afa4d0eb90d6c385c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c4435bf7e40fef3a4ac47e344031fbd3d2da063fd5b724f5e4d79ad49350673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aveiro
+- Criação de Lugares
+- Criação de Serviços
+- Fátima
+- Lisboa
+- Odivelas
+- PSP
+- Quadro de Pessoal
+- Sacavém
+- Santarém
+- são JOÃO da Madeira
+relationships:
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:39Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +102,7 @@ Sendo indispensável satisfazer imediatamente necessidades de policiamento nalgu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São criados os seguintes corpos de Polícia de Segurança Pública:
+Artigo 1.º São criados os seguintes corpos de Polícia de Segurança Pública:
 
 a) No comando distrital de Lisboa: na Encarnação, Moscavide, Sacavém e Odivelas;
 
@@ -97,7 +112,7 @@ c) No comando distrital de Aveiro: em S. João da Madeira.
 
 § único. A composição e efectivos dos corpos de polícia referidos no corpo deste artigo são fixados por portaria do Ministro do Interior.
 
-###### Art. 2.º O quadro geral da Polícia de Segurança Pública a que se refere o mapa I do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, é aumentado do seguinte pessoal, para dar cumprimento ao que é fixado no artigo 1.º:
+Art. 2.º O quadro geral da Polícia de Segurança Pública a que se refere o mapa I do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, é aumentado do seguinte pessoal, para dar cumprimento ao que é fixado no artigo 1.º:
 
 2 chefes de esquadra.
 
@@ -111,9 +126,9 @@ c) No comando distrital de Aveiro: em S. João da Madeira.
 
 67 guardas de 2.ª classe.
 
-###### Art. 3.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos no corrente ano económico por conta das sobras que se verificarem nas respectivas dotações orçamentais.
+Art. 3.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos no corrente ano económico por conta das sobras que se verificarem nas respectivas dotações orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

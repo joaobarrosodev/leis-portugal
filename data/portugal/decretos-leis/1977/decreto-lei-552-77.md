@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 302/1977, 2º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3178-(18) a 3178-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30202/00180022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1977-404482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc4f3718091e9000e2742481f2eda0a8465ade505f45b6808cc104dcc9483048
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eba954881049b8ce371b823b16e1ba9bae4c4f26e3ddb43a4826169b04d8470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Pessoal
+- Ministério da Educação e Investigação Científica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:665340:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626576:por
+  label: "Acrescentados dezoito lugares de delegado e vinte e cinco de adjunto de delegado ao quadro de pessoal da DGP, constante\
+    \ do anexo do presete diploma, pelo DEC LEI.259-A/80.06.08.1980.MECI, DR.IS [180-Supl] de 06.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-a-1980-626576
+  date: '1980-08-06'
+- type: amended_by
+  target: pt:dre:568326:por
+  label: "Acrescentado um lugar de subdirector-geral ao quadro constante do mapa I anexo pela PORT.970/81.13.11.1981.MFP,\
+    \ DR.IS [262] de 13.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/970-1981-568326
+  date: '1981-11-13'
+- type: amended_by
+  target: pt:dre:452560:por
+  label: "Alterado o artigo 7.º pela PORT.739/83.29.06.1983.ME, DR.IS [147] de 29.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/739-1983-452560
+  date: '1983-06-29'
+- type: cites
+  target: pt:dre:286531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549429:por
+  label: "Revogado pelo DEC LEI.369/89.23.10.1989.ME, DR.IS [244] de 23.10.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1989-549429
+  date: '1989-10-23'
+- type: repealed_by
+  target: pt:dre:665340:por
+  label: "Revogado pelo DEC LEI.135/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1993-665340
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:21Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +160,9 @@ I
 
 Das atribuições e competências
 
-###### Artigo 1.º A Direcção-Geral de Pessoal tem por atribuições efectuar a gestão dos recursos humanos dos estabelecimentos oficiais de ensino dependentes do Ministério da Educação e Investigação Científica, incluindo os situados no estrangeiro, bem como exercer neles a superintendência administrativa, sem prejuízo da autonomia concedida aos referidos estabelecimentos.
+Artigo 1.º A Direcção-Geral de Pessoal tem por atribuições efectuar a gestão dos recursos humanos dos estabelecimentos oficiais de ensino dependentes do Ministério da Educação e Investigação Científica, incluindo os situados no estrangeiro, bem como exercer neles a superintendência administrativa, sem prejuízo da autonomia concedida aos referidos estabelecimentos.
 
-###### Art. 2.º - 1 - Para cumprimento das suas atribuições é da competência da Direcção-Geral:
+Art. 2.º - 1 - Para cumprimento das suas atribuições é da competência da Direcção-Geral:
 
 a) Organizar e manter actualizado o cadastro de todo o pessoal docente, técnico, técnico auxiliar, administrativo e auxiliar dos estabelecimentos oficiais de ensino;
 
@@ -124,9 +178,9 @@ f) Promover estudos da racionalização dos serviços administrativos dos estabe
 
 2 - A Direcção-Geral de Pessoal exercerá as suas funções em estreita colaboração com os restantes órgãos e serviços do Ministério da Educação e Investigação Científica e de outros departamentos oficiais com funções afins.
 
-###### Art. 3.º Em ordem à prossecução das suas atribuições, a Direcção-Geral de Pessoal deverá, por si ou em colaboração com outros órgãos e serviços do Ministério da Educação e Investigação Científica ou outras entidades públicas ou privadas, recorrer às modernas técnicas de gestão.
+Art. 3.º Em ordem à prossecução das suas atribuições, a Direcção-Geral de Pessoal deverá, por si ou em colaboração com outros órgãos e serviços do Ministério da Educação e Investigação Científica ou outras entidades públicas ou privadas, recorrer às modernas técnicas de gestão.
 
-###### Art. 4.º Sem prejuízo das delegações que superiormente lhe venham a ser conferidas, consideram-se da competência própria do director-geral, para além dos despachos em requerimentos que se enquadrem nos termos da lei, as seguintes:
+Art. 4.º Sem prejuízo das delegações que superiormente lhe venham a ser conferidas, consideram-se da competência própria do director-geral, para além dos despachos em requerimentos que se enquadrem nos termos da lei, as seguintes:
 
 a) Abrir concursos de habilitação e provimento;
 
@@ -140,7 +194,7 @@ e) Atribuir residências anexas a estabelecimentos oficiais de ensino a funcion�
 
 f) Autorizar despesas resultantes de acidentes em servliço, observadas as formalidades legais.
 
-###### Art. 5.º - 1 - O director-geral poderá delegar e subdelegar as competências que lhe são cometidas por este diploma.
+Art. 5.º - 1 - O director-geral poderá delegar e subdelegar as competências que lhe são cometidas por este diploma.
 
 2 - Nas delegações e subdelegações será sempre definido o âmbito das competências delegadas ou subdelegadas.
 
@@ -154,7 +208,7 @@ Dos órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos e serviços em geral
 
-###### Art. 6.º - 1 - A Direcção-Geral de Pessoal compreende os seguintes serviços:
+Art. 6.º - 1 - A Direcção-Geral de Pessoal compreende os seguintes serviços:
 
 a) Direcção de Serviços de Pessoal Docente;
 
@@ -174,17 +228,17 @@ b) Inspecção Administrativo-Financeira.
 
 #### SECÇÃO II — Da Direcção de Serviços de Pessoal Docente
 
-###### Art. 7.º - 1 - A Direcção de Serviços de Pessoal Docente é constituída por três divisões, competindo-lhe a gestão do pessoal docente dos estabelecimentos de ensino referidos no artigo 1.º deste diploma, sem prejuízo das autonomias e competências dos respectivos órgãos de gestão.
+Art. 7.º - 1 - A Direcção de Serviços de Pessoal Docente é constituída por três divisões, competindo-lhe a gestão do pessoal docente dos estabelecimentos de ensino referidos no artigo 1.º deste diploma, sem prejuízo das autonomias e competências dos respectivos órgãos de gestão.
 
 2 - Directamente dependente do director de Serviços de Pessoal Docente funcionará o Serviço Permanente de Colocações, ao qual incumbe a execução dos mecanismos inerentes a todos os processos de recrutamento de docentes.
 
 #### SECÇÃO III — Da Direcção de Serviços de Pessoal não Docente
 
-###### Art. 8.º A Direcção de Serviços de Pessoal não Docente é constituída por duas divisões, competindo-lhe a gestão do pessoal administrativo, técnico e auxiliar dos estabelecimentos de ensino referidos no artigo 1.º deste diploma, sem prejuízo das autonomias e competências dos respectivos órgãos de gestão.
+Art. 8.º A Direcção de Serviços de Pessoal não Docente é constituída por duas divisões, competindo-lhe a gestão do pessoal administrativo, técnico e auxiliar dos estabelecimentos de ensino referidos no artigo 1.º deste diploma, sem prejuízo das autonomias e competências dos respectivos órgãos de gestão.
 
 #### SECÇÃO IV — Da Direcção de Serviços de Formação e Organização
 
-###### Art. 9.º A Direcção de Serviços de Formação e Organização compreende duas divisões e compete-lhe:
+Art. 9.º A Direcção de Serviços de Formação e Organização compreende duas divisões e compete-lhe:
 
 a) Promover e coordenar cursos de formação e aperfeiçoamento do pessoal administrativo, técnico e auxiliar dos estabelecimentos oficiais de ensino;
 
@@ -196,17 +250,17 @@ d) Estudar e propor a aplicação de técnicas de organização tendentes à rac
 
 #### SECÇÃO V — Do Gabinete de Estudos Técnico-Jurídicos
 
-###### Art. 10.º O Gabinete de Estudos Técnico-Jurídicos é dirigido por um director de serviços e compete-lhe realizar, no âmbito da Direcção-Geral, os estudos relativos aos regimes de pessoal em vigor e das alterações que for conveniente introduzir-lhes, bem como dos processos de gestão e administração dos estabelecimentos de ensino ou outros estudos conexos que se venham a tornar necessários.
+Art. 10.º O Gabinete de Estudos Técnico-Jurídicos é dirigido por um director de serviços e compete-lhe realizar, no âmbito da Direcção-Geral, os estudos relativos aos regimes de pessoal em vigor e das alterações que for conveniente introduzir-lhes, bem como dos processos de gestão e administração dos estabelecimentos de ensino ou outros estudos conexos que se venham a tornar necessários.
 
 #### SECÇÃO VI — Da Repartição Administrativa
 
-###### Art. 11.º - 1 - À Repartição Administrativa compete prestar apoio administrativo aos órgãos e serviços da Direcção-Geral e assegurar os serviços de secretariado, contabilidade e economato.
+Art. 11.º - 1 - À Repartição Administrativa compete prestar apoio administrativo aos órgãos e serviços da Direcção-Geral e assegurar os serviços de secretariado, contabilidade e economato.
 
 2 - A Repartição Administrativa terá a seu cargo os serviços de organização, documentação, informação e relações públicas nos domínios da esfera de competência própria da Direcção-Geral.
 
 #### SECÇÃO VII — Da Direcção de Serviços de Finanças
 
-###### Art. 12.º A Direcção de Serviços de Finanças é constituída por três divisões e compete-lhe:
+Art. 12.º A Direcção de Serviços de Finanças é constituída por três divisões e compete-lhe:
 
 a) Preparar propostas orçamentais do Ministério e normalizar procedimentos de execução e contrôle;
 
@@ -216,11 +270,11 @@ c) Controlar as gestões económicas e financeiras dos estabelecimentos oficiais
 
 d) Submeter à apreciação dos órgãos competentes os actos de gerência financeira e económica dos estabelecimentos públicos de ensino e dos órgãos e serviços centrais e regionais do MEIC.
 
-###### Art. 13.º As atribuições referidas no artigo anterior são exercidas, sem prejuízo da autonomia dos estabelecimentos de ensino e dos órgãos e serviços centrais e regionais do MEIC, na preparação e execução dos seus orçamentos próprios e das competências atribuídas ao Gabinete de Estudos e Planeamento no respeitante à preparação, execução e contrôle do Plano.
+Art. 13.º As atribuições referidas no artigo anterior são exercidas, sem prejuízo da autonomia dos estabelecimentos de ensino e dos órgãos e serviços centrais e regionais do MEIC, na preparação e execução dos seus orçamentos próprios e das competências atribuídas ao Gabinete de Estudos e Planeamento no respeitante à preparação, execução e contrôle do Plano.
 
 #### SECÇÃO VIII — Da Inspecção Administrativo-Financeira
 
-###### Art. 14.º A Inspecção Administrativo-Financeira é dirigida por um inspector superior e compete-lhe colaborar com os outros órgãos e serviços em acções que visem maior eficiência e eficácia do Ministério, em especial:
+Art. 14.º A Inspecção Administrativo-Financeira é dirigida por um inspector superior e compete-lhe colaborar com os outros órgãos e serviços em acções que visem maior eficiência e eficácia do Ministério, em especial:
 
 a) Realizar inspecções sobre o funcionamento no plano administrativo e financeiro dos estabelecimentos oficiais de ensino;
 
@@ -232,13 +286,13 @@ III
 
 Do pessoal
 
-###### Art. 15.º - 1 - A Direcção-Geral de Pessoal tem o pessoal dirigente e técnico e técnico auxiliar constante do mapa n.º 1 anexo a este diploma, o qual ficará a fazer parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, operando-se neste os necessários ajustamentos.
+Art. 15.º - 1 - A Direcção-Geral de Pessoal tem o pessoal dirigente e técnico e técnico auxiliar constante do mapa n.º 1 anexo a este diploma, o qual ficará a fazer parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, operando-se neste os necessários ajustamentos.
 
 2 - A Direcção-Geral de Pessoal disporá também do pessoal administrativo e auxiliar constante do mapa n.º 2 anexo a este diploma, o qual ficará a fazer parte do quadro único do Ministério da Educação e Investigação Científica a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, operando-se neste os necessários ajustamentos.
 
 3. Os quadros referidos nos números anteriores podem ser alterados por portaria conjunta dos Ministros das Finanças e da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
 
-###### Art. 16.º As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral de Pessoal serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e no Decreto n.º 20/77, de 24 de Fevereiro, sem prejuízo do disposto nas alíneas seguintes:
+Art. 16.º As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral de Pessoal serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e no Decreto n.º 20/77, de 24 de Fevereiro, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director-geral será provido por escolha do Primeiro-Ministro e do Ministro da Educação e Investigação Científica, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior adequado e de reconhecida competência;
 
@@ -258,29 +312,29 @@ IV
 
 Disposições gerais e transitórias
 
-###### Art. 17.º A carreira inspectiva será objecto de legislação especial a publicar, sem prejuízo do disposto nos artigos 16.º e 21.º deste diploma.
+Art. 17.º A carreira inspectiva será objecto de legislação especial a publicar, sem prejuízo do disposto nos artigos 16.º e 21.º deste diploma.
 
-###### Art. 18.º O regulamento interno da Direcção-Geral de Pessoal será aprovado por portaria do Ministro da Educação e Investigação Científica.
+Art. 18.º O regulamento interno da Direcção-Geral de Pessoal será aprovado por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 19.º No provimento de lugares de inspector-chefe e inspector de 1.ª classe é aplicável aos funcionários do quadro geral de adidos em serviço na Direcção-Geral de Pessoal e Administração à data da entrada em vigor do presente diploma o disposto no artigo 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, tendo em consideração a redacção que lhe foi dada pelo artigo 4.º do [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), de 31 de Agosto.
+Art. 19.º No provimento de lugares de inspector-chefe e inspector de 1.ª classe é aplicável aos funcionários do quadro geral de adidos em serviço na Direcção-Geral de Pessoal e Administração à data da entrada em vigor do presente diploma o disposto no artigo 43.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, tendo em consideração a redacção que lhe foi dada pelo artigo 4.º do [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), de 31 de Agosto.
 
-###### Art. 20.º - 1 - São transferidas para a Direcção-Geral de Pessoal, mediante despacho ministerial a exarar em proposta elaborada pelas direcções-gerais envolvidas, as funções que, antes atribuídas a outros serviços centrais do Ministério da Educação e Investigação Científica, passam pelo presente diploma a competir a esta Direcção-Geral.
+Art. 20.º - 1 - São transferidas para a Direcção-Geral de Pessoal, mediante despacho ministerial a exarar em proposta elaborada pelas direcções-gerais envolvidas, as funções que, antes atribuídas a outros serviços centrais do Ministério da Educação e Investigação Científica, passam pelo presente diploma a competir a esta Direcção-Geral.
 
 2 - Quando forem efectuadas as transferências das funções referidas no número anterior serão de igual modo transferidos para idêntica categoria e com respeito pelas normas gerais de provimento os respectivos elementos do pessoal que as executem.
 
-###### Art. 21.º - 1 - O pessoal que actualmente presta serviço na Direcção-Geral de Pessoal com qualquer vínculo será provido nos quadros anexos ao presente diploma através de lista nominativa aprovada por despacho do Ministro da Educação e Investigação Científica e a publicar em Diário da República.
+Art. 21.º - 1 - O pessoal que actualmente presta serviço na Direcção-Geral de Pessoal com qualquer vínculo será provido nos quadros anexos ao presente diploma através de lista nominativa aprovada por despacho do Ministro da Educação e Investigação Científica e a publicar em Diário da República.
 
 2 - Os provimentos referidos no número anterior não dependem de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, observando-se, porém, nos mesmos provimentos as regras estabelecidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, nomeadamente no que naquele diploma se dispõe sobre habilitações literárias, e ainda as fixadas no artigo 18.º do presente diploma.
 
-###### Art. 22.º Logo que cesse a situação prevista no n.º 2 do artigo 6.º o pessoal afecto à Direcção de Serviços de Finanças e à Inspecção Administrativo-Financeira será integrado nos serviços próprios.
+Art. 22.º Logo que cesse a situação prevista no n.º 2 do artigo 6.º o pessoal afecto à Direcção de Serviços de Finanças e à Inspecção Administrativo-Financeira será integrado nos serviços próprios.
 
-###### Art. 23.º O pessoal que à data da entrada em vigor do presente diploma esteja provido além do quadros na Direcção-Geral de Pessoal e Administração e não venha a constar da lista nominativa prevista no n.º 1 do artigo 21.º deste diploma poderá ser colocado, por despacho ministerial, em qualquer serviço do Ministério da Educação e Investigação Científica ou transferido para qualquer outro departamento do Estado mediante despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro da Pasta do qual dependa o referido departamento.
+Art. 23.º O pessoal que à data da entrada em vigor do presente diploma esteja provido além do quadros na Direcção-Geral de Pessoal e Administração e não venha a constar da lista nominativa prevista no n.º 1 do artigo 21.º deste diploma poderá ser colocado, por despacho ministerial, em qualquer serviço do Ministério da Educação e Investigação Científica ou transferido para qualquer outro departamento do Estado mediante despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro da Pasta do qual dependa o referido departamento.
 
-###### Art. 24.º Os lugares que ficarem vagos após a publicação da lista referida no artigo 21.º do presente diploma irão sendo providos de harmonia com as necessidades dos serviços e as transferências de funções previstas no artigo 20.º
+Art. 24.º Os lugares que ficarem vagos após a publicação da lista referida no artigo 21.º do presente diploma irão sendo providos de harmonia com as necessidades dos serviços e as transferências de funções previstas no artigo 20.º
 
-###### Art. 25.º Os encargos com «Remunerações certas e permanentes» resultantes da execução do presente diploma serão suportados pelas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Investigação Científica.
+Art. 25.º Os encargos com «Remunerações certas e permanentes» resultantes da execução do presente diploma serão suportados pelas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Investigação Científica.
 
-###### Art. 26.º - 1 - São revogados:
+Art. 26.º - 1 - São revogados:
 
 a) O [Decreto-Lei n.º 46/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1973-685012), de 12 de Fevereiro, excepto no que se refere a funções, que, por força do [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602), de 5 de Setembro, passaram a ser desempenhadas pela Direcção-Geral do Equipamento Escolar;
 
@@ -288,22 +342,22 @@ b) O [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 2 - Por efeitos do disposto no número anterior é extinta a Direcção-Geral de Pessoal e Administração.
 
-###### Art. 27.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 27.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 21 de Dezembro de 1977.**
+Promulgado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa n.º 1 a que se refere o n.º 1 do artigo 15.º do Decreto-Lei n.º 552/77, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30202/00180022.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30202/00180022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30202/00180022.pdf)
 
 Mapa n.º 2 a que se refere o n.º 2 do artigo 15.º do Decreto-Lei n.º 552/77, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30202/00180022.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30202/00180022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30202/00180022.pdf)
 
-**O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Leal Cardia.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30000/16231624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/741-1974-461429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13b9c33a53fb093f226301ce53765d97f088dbfeb9f4ec380fe1b44d040e2ef4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3de1134be3a15fa2c65baaae6a684712cfcc681ad492949e4e24cc4431301afc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Força Aérea
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342473:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:00Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +110,9 @@ Considerando a necessidade de estruturar uma nova divisão territorial da Força
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 50.º, 51.º, 54.º e 55.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41758, 42074 e 44724, respectivamente de 25 de Julho de 1958, 31 de Dezembro de 1958 e 24 de Novembro de 1962, passam a ter as seguintes redacções:
+Artigo 1.º Os artigos 50.º, 51.º, 54.º e 55.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41758, 42074 e 44724, respectivamente de 25 de Julho de 1958, 31 de Dezembro de 1958 e 24 de Novembro de 1962, passam a ter as seguintes redacções:
 
-###### Art. 50.º ...
+Art. 50.º ...
 
 1.ª Região Aérea - Continente português, Açores, Madeira e Cabo Verde, com sede em Lisboa;
 
@@ -105,7 +122,7 @@ Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n
 
 ...
 
-###### Art. 51.º ...
+Art. 51.º ...
 
 § 1.º A 1.ª Região Aérea é dividida nas duas zonas aéreas seguintes:
 
@@ -113,7 +130,7 @@ Portugal continental, Madeira e Cabo Verde; Açores.
 
 § 2.º O Comando da Zona Aérea de Portugal Continental, Madeira e Cabo Verde é inerente ao Comando da 1.ª Região Aérea.
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 a) 1.ª Região Aérea:
 
@@ -135,7 +152,7 @@ Unidades de detecção, alerta e conduta da intercepção localizadas em Moçamb
 
 As unidades de base operacionais e os aeródromos localizados em Moçambique, Timor e Macau.
 
-###### Art. 55.º Em tempo de paz a zona aérea dos Açores compreende:
+Art. 55.º Em tempo de paz a zona aérea dos Açores compreende:
 
 Um comando, com um comandante, um ajudante-de-campo, um estado-maior, um centro cripto e de comunicações, uma secretaria e arquivo e um conselho administrativo;
 
@@ -143,12 +160,12 @@ Unidades de detecção, alerta e conduta da intercepção dos Açores;
 
 As unidades de base operacionais e aeródromos localizados nos Açores.
 
-###### Art. 2.º É extinta a zona aérea de Cabo Verde e Guiné, criada pelo [Decreto-Lei n.º 42074](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42074-1958-342473), de 31 de Dezembro de 1958.
+Art. 2.º É extinta a zona aérea de Cabo Verde e Guiné, criada pelo [Decreto-Lei n.º 42074](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42074-1958-342473), de 31 de Dezembro de 1958.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 12 de Dezembro de 1974.**
+Promulgado em 12 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

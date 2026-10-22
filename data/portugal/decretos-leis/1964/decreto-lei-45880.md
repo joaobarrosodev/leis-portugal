@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/08/19400/10181020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b91c267b1715f53681f7789884fbbfc540c322b827682600362f51ab68c6f12e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae753dd2f5cd078211fa3646cf778ec9a0c1dd80aaa703e94cffb3756d4de2c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Avicultura
+- Controlo Sanitário
+- Direcção Geral dos Serviços Pecuários
+- Importação
+- OVO
+- Produção Animal
+- Reprodução Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:426928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426928:por
+  label: "Revogado pelo DEC LEI.390/76.24.05.1976.MAP, DR.IS [121] de 24.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1976-426928
+  date: '1976-05-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:18Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +129,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer com lei, o seguinte:
 
-###### Artigo 1.º Carece de autorização da Direcção-Geral dos Serviços Pecuários o exercício das actividades avícolas que tenham por finalidade:
+Artigo 1.º Carece de autorização da Direcção-Geral dos Serviços Pecuários o exercício das actividades avícolas que tenham por finalidade:
 
 a) A produção, para venda, de reprodutores de ovos para incubação e de aves para povoamento ou repovoamento de aviários;
 
 b) A incubação artificial de ovos de mais de uma proveniência para fornecimento de aves recém-nascidas a outrem ou para povoamento das próprias explorações onde foram produzidos.
 
-###### Art. 2.º A autorização para exercício das actividades avícolas referidas no artigo anterior só será concedida após aprovação das respectivas instalações e do seu apetrechamento.
+Art. 2.º A autorização para exercício das actividades avícolas referidas no artigo anterior só será concedida após aprovação das respectivas instalações e do seu apetrechamento.
 
-###### Art. 3.º As actividades avícolas referidas no artigo 1.º serão classificadas em:
+Art. 3.º As actividades avícolas referidas no artigo 1.º serão classificadas em:
 
 a) Aviários de selecção - os que se dediquem à produção de animais de raças ou estirpes qualificadas para o povoamento de aviários de multiplicação;
 
@@ -121,7 +147,7 @@ c) Centros de incubação - os estabelecimentos onde se proceda à incubação a
 
 d) Postos de incubação - os estabelecimentos onde tenha lugar a incubação artificial de ovos de aviários que não sejam de selecção ou de multiplicação.
 
-###### Art. 4.º Além do estabelecido no artigo 2.º, constituem condições de autorização do exercício da actividade avícola:
+Art. 4.º Além do estabelecido no artigo 2.º, constituem condições de autorização do exercício da actividade avícola:
 
 A) Dos aviários de selecção e multiplicação:
 
@@ -135,7 +161,7 @@ C) Dos postos de incubação: só incubar ovos de aviários cujos efectivos este
 
 § único. Os proprietários ou gerentes das actividades avícolas referidas obrigam-se a dar cumprimento a todas as prescrições de ordem zootécnica, profiláctica e sanitária emanadas da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 5.º A inobservância das disposições do presente diploma ou das disposições do seu regulamento e das prescrições da Direcção-Geral dos Serviços Pecuários em matéria zootécnica, profiláctica e sanitária determinará:
+Art. 5.º A inobservância das disposições do presente diploma ou das disposições do seu regulamento e das prescrições da Direcção-Geral dos Serviços Pecuários em matéria zootécnica, profiláctica e sanitária determinará:
 
 a) Quando diga respeito às condições estabelecidas no artigo anterior para aviários de selecção e de multiplicação, a suspensão da actividade até serem eliminadas as causas determinantes da mesma suspensão;
 
@@ -143,23 +169,23 @@ b) Quando se relacione com as restantes disposições ou prescrições, a puniç
 
 c) No caso de falta da autorização de exercício das actividades avícolas a que se refere o artigo 1.º do presente diploma e de esta infracção dizer respeito a reincidência, a pena correspondente não poderá ser inferior à 4.ª do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 6.º O produto da cobrança de taxas e emolumentos, que se fixam na tabela anexa a este decreto-lei, e bem assim de multas, constitui receita própria da Direcção-Geral dos Serviços Pecuários.
+Art. 6.º O produto da cobrança de taxas e emolumentos, que se fixam na tabela anexa a este decreto-lei, e bem assim de multas, constitui receita própria da Direcção-Geral dos Serviços Pecuários.
 
 § 1.º Na falta de pagamento voluntário das taxas, emolumentos ou multas, proceder-se-á à cobrança coerciva pelo processo das execuções fiscais, servindo de título exequível o certificado de dívida passado pela Direcção-Geral dos Serviços Pecuários.
 
 § 2.º A tabela anexa a este decreto-lei poderá ser alterada por portaria conjunta dos Ministros das Finanças e Economia e Secretário de Estado da Agricultura, mediante proposta da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 7.º À importação de aves vivas e ovos para incubação é aplicável a disposição do artigo 6.º e seus parágrafos do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, seja qual for o meio utilizado para o seu transporte.
+Art. 7.º À importação de aves vivas e ovos para incubação é aplicável a disposição do artigo 6.º e seus parágrafos do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, seja qual for o meio utilizado para o seu transporte.
 
 § único. A importação de aves e ovos destinados a aviários de selecção e multiplicação e de ovos para os centros de incubação carecerá de parecer zootécnico da Direcção-Geral dos Serviços Pecuários, sendo exigível, quando as circunstâncias o aconselhem, a apresentação de certificado zootécnico oficial do país de origem.
 
-###### Art. 8.º A Direcção-Geral dos Serviços Pecuários publicará periòdicamente relação dos aviários de selecção e multiplicação legalmente autorizados a exercer as suas funções, com indicação dos tipos e características étnicas das aves que exploram.
+Art. 8.º A Direcção-Geral dos Serviços Pecuários publicará periòdicamente relação dos aviários de selecção e multiplicação legalmente autorizados a exercer as suas funções, com indicação dos tipos e características étnicas das aves que exploram.
 
-###### Art. 9.º A Direcção-Geral dos Serviços Pecuários ouvirá a Junta Nacional dos Produtos Pecuários, nos termos e para os efeitos do disposto no [Decreto-Lei n.º 42165](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42165-1959-590307), de 24 de Fevereiro de 1959, e bem assim os representantes do sector da produção avícola, sempre que o julgue oportuno.
+Art. 9.º A Direcção-Geral dos Serviços Pecuários ouvirá a Junta Nacional dos Produtos Pecuários, nos termos e para os efeitos do disposto no [Decreto-Lei n.º 42165](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42165-1959-590307), de 24 de Fevereiro de 1959, e bem assim os representantes do sector da produção avícola, sempre que o julgue oportuno.
 
-###### Art. 10.º Pela Secretaria de Estado da Agricultura serão promulgadas as disposições regulamentares para execução do presente diploma, as quais poderão ser alteradas, por simples despacho, quando as circunstâncias assim o aconselhem.
+Art. 10.º Pela Secretaria de Estado da Agricultura serão promulgadas as disposições regulamentares para execução do presente diploma, as quais poderão ser alteradas, por simples despacho, quando as circunstâncias assim o aconselhem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
 

@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44738-1962-155447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d20e14993ec5963ed60333f99e32fc9187d82d57de4181520534a79381786fc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c650c763a76da9f3e23315f8e57c36e6b4d2fbb953f7ca26ae265f7446ad60c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Marinha
+- Militar
+- Oficial do Quadro Permanente
+- Quadro de Pessoal
+- Quadro Permanente das Forças Armadas
+- Sargento
+relationships:
+- type: cites
+  target: pt:dre:172893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:15Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +106,11 @@ Considerando, ainda, a conveniência já anteriormente reconhecida de introduzir
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As classes dos oficiais e dos sargentos e praças da Armada passam a ser as indicadas, respectivamente, nos mapas I e II anexos ao presente diploma.
+Artigo 1.º As classes dos oficiais e dos sargentos e praças da Armada passam a ser as indicadas, respectivamente, nos mapas I e II anexos ao presente diploma.
 
 § único. São extintas a classe de saúde naval dos oficiais da Armada e as dos escriturários e da taifa dos sargentos e praças da Armada.
 
-###### Art. 2.º Os quadros permanentes da Armada estabelecidos pelo [Decreto-Lei n.º 42045](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42045-1958-340800), de 23 de Dezembro de 1958, e alterados pelos Decretos-Leis n.os 43515 e 43773, de, respectivamente, 24 de Fevereiro e 1 de Julho de 1961, passam a ser os constantes dos mapas I e II anexos ao presente diploma.
+Art. 2.º Os quadros permanentes da Armada estabelecidos pelo [Decreto-Lei n.º 42045](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42045-1958-340800), de 23 de Dezembro de 1958, e alterados pelos Decretos-Leis n.os 43515 e 43773, de, respectivamente, 24 de Fevereiro e 1 de Julho de 1961, passam a ser os constantes dos mapas I e II anexos ao presente diploma.
 
 § 1.º Sem modificação dos números totais fixados para cada posto, poderá o Ministro da Marinha, por portaria, alterar os quadros de qualquer classe, mediante compensação numa ou mais das restantes.
 
@@ -104,25 +118,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Os segundos-grumetes e os alunos não fazem parte dos quadros que figuram nos mapas anexos ao presente diploma, mas o seu número não deverá exceder o que constar anualmente do orçamento de despesa do Ministério da Marinha.
 
-###### Art. 3.º Os oficiais médicos e farmacêuticos pertencentes à extinta classe de saúde naval ingressam, respectivamente, nas novas classes dos médicos navais e dos farmacêuticos navais.
+Art. 3.º Os oficiais médicos e farmacêuticos pertencentes à extinta classe de saúde naval ingressam, respectivamente, nas novas classes dos médicos navais e dos farmacêuticos navais.
 
-###### Art. 4.º Os sargentos e praças da extinta classe dos escriturários ingressam na nova classe de abastecimento.
+Art. 4.º Os sargentos e praças da extinta classe dos escriturários ingressam na nova classe de abastecimento.
 
-###### Art. 5.º Os despenseiros, cozinheiros, criados e padeiros da extinta classe da taifa ingressam, respectivamente, nas novas classes dos despenseiros, dos cozinheiros, dos criados e dos padeiros.
+Art. 5.º Os despenseiros, cozinheiros, criados e padeiros da extinta classe da taifa ingressam, respectivamente, nas novas classes dos despenseiros, dos cozinheiros, dos criados e dos padeiros.
 
-###### Art. 6.º Até que nos Estatutos dos Oficiais da Armada e dos Sargentos e Praças da Armada sejam introduzidas as modificações resultantes do disposto no presente diploma é autorizado o Ministro da Marinha a:
+Art. 6.º Até que nos Estatutos dos Oficiais da Armada e dos Sargentos e Praças da Armada sejam introduzidas as modificações resultantes do disposto no presente diploma é autorizado o Ministro da Marinha a:
 
 a) Por portaria, fixar as condições em que se realiza o ingresso na classe dos oficiais do serviço especial, funções que lhes competem, condições de promoção aos diversos postos e outras normas que interessem à mesma classe;
 
 b) Por despacho, esclarecer as dúvidas que surjam na substituição das classes extintas a que se refere o § único do artigo 1.º pelas novas classes indicadas nos artigos 3.º, 4.º e 5.º do presente diploma.
 
-###### Art. 7.º De acordo com a conveniência do serviço, pode o Ministro da Marinha, por portaria, regular as condições em que os oficiais da classe do serviço geral podem ser transferidos para a classe do serviço especial.
+Art. 7.º De acordo com a conveniência do serviço, pode o Ministro da Marinha, por portaria, regular as condições em que os oficiais da classe do serviço geral podem ser transferidos para a classe do serviço especial.
 
-###### Art. 8.º O preenchimento dos novos quadros, na parte que corresponde a aumento dos quadros em vigor à data da publicação deste diploma, será realizado gradualmente, de acordo com as necessidades do serviço e segundo programa anual aprovado pelos Ministros da Defesa Nacional e da Marinha, com a concordância do Ministro das Finanças, devendo o encargo desse aumento ser suportado pela verba respectiva do Orçamento Geral do Estado.
+Art. 8.º O preenchimento dos novos quadros, na parte que corresponde a aumento dos quadros em vigor à data da publicação deste diploma, será realizado gradualmente, de acordo com as necessidades do serviço e segundo programa anual aprovado pelos Ministros da Defesa Nacional e da Marinha, com a concordância do Ministro das Finanças, devendo o encargo desse aumento ser suportado pela verba respectiva do Orçamento Geral do Estado.
 
-###### Art. 9.º Continua em vigor o preceituado no [Decreto-Lei n.º 43773](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893), de 1 de Julho de 1961, para o pessoal a que o mesmo diploma se refere.
+Art. 9.º Continua em vigor o preceituado no [Decreto-Lei n.º 43773](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893), de 1 de Julho de 1961, para o pessoal a que o mesmo diploma se refere.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -132,12 +146,12 @@ MAPA I
 
 Quadros permanentes dos oficiais da Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27500/15901591.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27500/15901591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27500/15901591.pdf)
 
 MAPA II
 
 Quadros permanentes dos sargentos e praças da Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27500/15901591.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27500/15901591.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27500/15901591.pdf)
 
 Ministério da Marinha, 29 de Novembro de 1962. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

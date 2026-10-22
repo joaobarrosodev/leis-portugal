@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/02300/02610264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1978-448941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22157441c43f69f335314cb81743f8a8573dd4395fcecbdc74471e0e18c0a78c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ceab1de869f007966927805613fcbd0e1dfe171e0954ff04b2a7c12d3609588
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Contrato de Trabalho
+- Direcção Geral de Pessoal e Administração
+- Ensino
+- Ensino Preparatório
+- Ensino Primário
+- Formas de Provimento
+- Instituto de Tecnologia Educativa
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Remuneração
+- Telescola
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382471:por
+  label: "Alterado o n.º 2 do artigo 15.º do presente diploma, pelo DEC LEI.83/79.12.04.1979.MEIC, DR.IS [86] de 12.04.1979\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1979-382471
+  date: '1979-04-12'
+- type: amended_by
+  target: pt:dre:383388:por
+  label: "Alterado o n.º 2 do artigo 15.º do presente diploma, na redacção do Decreto-Lei 83/79, de 12 de Abril, pelo DEC\
+    \ LEI.178/79.07.06.1979.MEIC, DR.IS [131] de 07.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1979-383388
+  date: '1979-06-07'
+- type: amended_by
+  target: pt:dre:451842:por
+  label: "Alterada a alínea b) do artigo 6.º, os n.ºs 2, 3, 4, 5 e 6 do artigo 7.º, a alínea b) do n.º 1, o n.º 2 dos artigos\
+    \ 8.º e 14.º e o artigo 15.º (este último na redacção do Decreto-Lei n.º 178/79, de 7 de Junho), pelo DEC LEI.246/83.09.06.1983.ME,\
+    \ DR.IS [132] de 09.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1983-451842
+  date: '1983-06-09'
+- type: amended_by
+  target: pt:dre:534604:por
+  label: "Alterado o nº 1 e a al. a) do nº 2 do art. 2º, o artº 4º e os nºs 1 e 2 do art. 5º, pelo DEC LEI.5-A/2001.2001.01.12.ME,\
+    \ DR.IS-A [10]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-2001-534604
+  date: '2001-01-12'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:250426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409350:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:57Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +161,7 @@ I
 
 Do preenchimento dos lugares
 
-###### Artigo 1.º O preenchimento dos lugares vagos existentes nos postos oficiais de recepção do ciclo preparatório TV será feito pelos docentes que a seguir se indicam, por ordem de prioridade:
+Artigo 1.º O preenchimento dos lugares vagos existentes nos postos oficiais de recepção do ciclo preparatório TV será feito pelos docentes que a seguir se indicam, por ordem de prioridade:
 
 a) Professores efectivos e profissionais do ensino primário em serviço nos postos oficiais de recepção do ciclo preparatório TV que, tendo exercido funções docentes no ano escolar anterior, requeiram a sua recondução no mesmo posto de recepção;
 
@@ -108,7 +169,7 @@ b) Candidatos que se apresentem ao concurso estabelecido pelo artigo 5.º deste 
 
 c) Candidatos colocados nos termos do concurso previsto no artigo 11.º deste diploma.
 
-###### Art. 2.º - 1 - Compete ao Instituto de Tecnologia Educativa determinar os lugares vagos existentes nos postos oficiais de recepção do ciclo preparatório TV e apresentar a relação dos mesmos à Direcção-Geral de Pessoal e Administração até ao dia 30 de Junho de cada ano.
+Art. 2.º - 1 - Compete ao Instituto de Tecnologia Educativa determinar os lugares vagos existentes nos postos oficiais de recepção do ciclo preparatório TV e apresentar a relação dos mesmos à Direcção-Geral de Pessoal e Administração até ao dia 30 de Junho de cada ano.
 
 2 - Compete à Direcção-Geral de Pessoal e Administração:
 
@@ -134,7 +195,7 @@ II
 
 Das reconduções
 
-###### Art. 3.º - 1 - Para efeitos do disposto na alínea a) do artigo 1.º, a recondução consiste na renovação da colocação do professor no posto oficial de recepção do ciclo preparatório TV onde exerceu funções no ano escolar anterior, pelo menos durante cento e oitenta dias.
+Art. 3.º - 1 - Para efeitos do disposto na alínea a) do artigo 1.º, a recondução consiste na renovação da colocação do professor no posto oficial de recepção do ciclo preparatório TV onde exerceu funções no ano escolar anterior, pelo menos durante cento e oitenta dias.
 
 2 - Só podem ser reconduzidos os professores que sejam diplomados com o curso do magistério primário ou equivalente.
 
@@ -142,7 +203,7 @@ Das reconduções
 
 4 - Quando num posto oficial de recepção do ciclo preparatório TV se verificar diminuição de lugares, a ordenação dos candidatos à recondução no mesmo posto far-se-á de acordo com o disposto no artigo 7.º deste diploma.
 
-###### Art. 4.º - 1 - Os pedidos de recondução serão apresentados em requerimento dirigido ao director do distrito escolar onde se situa o posto oficial de recepção do ciclo preparatório TV, entre 1 e 5 de Julho de cada ano.
+Art. 4.º - 1 - Os pedidos de recondução serão apresentados em requerimento dirigido ao director do distrito escolar onde se situa o posto oficial de recepção do ciclo preparatório TV, entre 1 e 5 de Julho de cada ano.
 
 2 - O requerimento referido no número anterior será acompanhado do boletim não selado e certidões que se refere o artigo 8.º do presente diploma.
 
@@ -150,13 +211,13 @@ III
 
 Da abertura do concurso
 
-###### Art. 5.º - 1 - Em cada ano escolar considera-se aberto em 19 de Julho, independentemente de quaisquer formalidades, o concurso referido na alínea b) do artigo 1.º
+Art. 5.º - 1 - Em cada ano escolar considera-se aberto em 19 de Julho, independentemente de quaisquer formalidades, o concurso referido na alínea b) do artigo 1.º
 
 2 - Os candidatos poderão solicitar a sua admissão a concurso no prazo que decorre entre 20 e 25 de Julho de cada ano, entregando a respectiva documentação nas direcções de distrito escolar onde estejam afixadas as relações de vagas.
 
 3 - O concurso referido no número anterior é de âmbito nacional.
 
-###### Art. 6.º Poderão ser opositores ao concurso mencionado na alínea b) do artigo 1.º deste decreto-lei os candidatos cuja situação se encontre prevista nas alíneas a seguir indicadas, constituindo cada uma delas escalão de preferência em relação à seguinte:
+Art. 6.º Poderão ser opositores ao concurso mencionado na alínea b) do artigo 1.º deste decreto-lei os candidatos cuja situação se encontre prevista nas alíneas a seguir indicadas, constituindo cada uma delas escalão de preferência em relação à seguinte:
 
 a) Professores que, encontrando-se nas condições previstas nos n.os 1 e 2 do artigo 3.º deste diploma, não puderam ou não quiseram ser reconduzidos;
 
@@ -170,7 +231,7 @@ IV
 
 Da ordenação dos candidatos
 
-###### Art. 7.º - 1 - Para efeitos do concurso previsto na alínea b) do artigo 1.º, os candidatos são ordenados de acordo com os escalões fixados no artigo anterior.
+Art. 7.º - 1 - Para efeitos do concurso previsto na alínea b) do artigo 1.º, os candidatos são ordenados de acordo com os escalões fixados no artigo anterior.
 
 2 - Em cada um dos escalões referidos no número anterior preferem os candidatos que, possuindo o curso do magistério primário, sejam portadores de grau académico superior, segundo regras a definir por despacho ministerial.
 
@@ -188,7 +249,7 @@ V
 
 Do mecanismo do concurso
 
-###### Art. 8.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim normalizado, aprovado por despacho ministerial, do qual constarão obrigatoriamente:
+Art. 8.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim normalizado, aprovado por despacho ministerial, do qual constarão obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -210,7 +271,7 @@ g) Postos oficiais de recepção do ciclo preparatório TV a que o candidato con
 
 4 - Serão excluídos do concurso os candidatos que não apresentem os documentos referidos nos números anteriores.
 
-###### Art. 9.º Os candidatos ao concurso mencionado na alínea b) do artigo 1.º deste diploma indicarão num só boletim de concurso uma ou mais das seguintes preferências, por ordem de prioridade:
+Art. 9.º Os candidatos ao concurso mencionado na alínea b) do artigo 1.º deste diploma indicarão num só boletim de concurso uma ou mais das seguintes preferências, por ordem de prioridade:
 
 a) Um máximo de vinte postos oficiais de recepção do ciclo preparatório TV;
 
@@ -222,15 +283,15 @@ d) Um máximo de dois distritos escolares;
 
 e) Todo o País.
 
-###### Art. 10.º - 1 - As listas ordenadas dos candidatos serão afixadas em todas as direcções de distrito escolar, podendo os candidatos, no prazo de cinco dias, contado a partir da sua afixação, reclamar da sua ordenação.
+Art. 10.º - 1 - As listas ordenadas dos candidatos serão afixadas em todas as direcções de distrito escolar, podendo os candidatos, no prazo de cinco dias, contado a partir da sua afixação, reclamar da sua ordenação.
 
 2 - A decisão sobre as reclamações referidas no número anterior é da competência do director-geral de Pessoal e Administração e só serão consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais e em carta registada com aviso de recepção.
 
-###### Art. 11.º - 1 - Esgotadas as possibilidades de preenchimento de vagas por força do concurso previsto na alínea b) do artigo 1.º, as ainda existentes serão preenchidas por concurso a realizar no prazo de cinco dias pela direcção do distrito escolar onde as mesmas se verifiquem, desde que autorizado pelo director-geral de Pessoal e Administração.
+Art. 11.º - 1 - Esgotadas as possibilidades de preenchimento de vagas por força do concurso previsto na alínea b) do artigo 1.º, as ainda existentes serão preenchidas por concurso a realizar no prazo de cinco dias pela direcção do distrito escolar onde as mesmas se verifiquem, desde que autorizado pelo director-geral de Pessoal e Administração.
 
 2 - Para efeitos do disposto no número anterior, a direcção do distrito escolar afixará aviso de abertura do concurso onde indicará as vagas existentes.
 
-###### Art. 12.º - 1 - Podem ser opositores ao concurso previsto no artigo anterior professores profissionalizados, não efectivos, do ensino primário inscritos, nos termos do [Decreto-Lei n.º 265/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1977-250426), de 1 de Julho, no respectivo distrito escolar.
+Art. 12.º - 1 - Podem ser opositores ao concurso previsto no artigo anterior professores profissionalizados, não efectivos, do ensino primário inscritos, nos termos do [Decreto-Lei n.º 265/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1977-250426), de 1 de Julho, no respectivo distrito escolar.
 
 2 - Para efeitos do fixado no número anterior, os candidatos apresentarão no prazo fixado no aviso de abertura e na respectiva direcção de distrito escolar requerimento, em papel selado, solicitando a sua admissão ao concurso, o qual será acompanhado dos elementos referidos nas alíneas do n.º 1 do artigo 8.º, sendo-lhes aplicável o disposto no n.º 4 do mesmo artigo se não fizerem a apresentação dos respectivos documentos.
 
@@ -238,11 +299,11 @@ e) Todo o País.
 
 4 - Ficará sem efeito a colocação que vier a caber no concurso referido no artigo 2.º do [Decreto-Lei n.º 265/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1977-250426), de 1 de Julho, aos candidatos que optem pelo ciclo preparatório TV, sendo os seus lugares preenchidos nos termos do artigo 22.º do presente diploma.
 
-###### Art. 13.º - 1 - A direcção do distrito escolar ordenará os candidatos nos termos do artigo 7.º deste decreto-lei e afixará a respectiva lista até 1 de Setembro de cada ano.
+Art. 13.º - 1 - A direcção do distrito escolar ordenará os candidatos nos termos do artigo 7.º deste decreto-lei e afixará a respectiva lista até 1 de Setembro de cada ano.
 
 2 - No prazo de cinco dias, contado a partir da data de afixação da lista referida no número anterior, poderão os candidatos apresentar reclamações sobre a sua ordenação na direcção do respectivo distrito escolar, não lhes cabendo qualquer reclamação sobre a lista definitiva que vier a ser afixada.
 
-###### Art. 14.º - 1 - Se após o concurso referido no artigo 11.º deste diploma ainda existirem lugares vagos, serão os mesmos preenchidos de acordo com os seguintes critérios:
+Art. 14.º - 1 - Se após o concurso referido no artigo 11.º deste diploma ainda existirem lugares vagos, serão os mesmos preenchidos de acordo com os seguintes critérios:
 
 a) São preenchidos pela Direcção-Geral de Pessoal e Administração, nos termos do artigo 13.º do [Decreto-Lei n.º 265/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1977-250426), de 1 de Julho, os lugares sobrantes do concurso distrital;
 
@@ -254,15 +315,15 @@ VI
 
 Da forma de provimento
 
-###### Art. 15.º - 1 - Salvo o disposto nos números seguintes, os professores não efectivos do ensino primário colocados no ciclo preparatório TV ao abrigo dos concursos previstos neste diploma são providos em cada ano escolar mediante contrato.
+Art. 15.º - 1 - Salvo o disposto nos números seguintes, os professores não efectivos do ensino primário colocados no ciclo preparatório TV ao abrigo dos concursos previstos neste diploma são providos em cada ano escolar mediante contrato.
 
 2 - Os professores efectivos do ensino primário colocados ainda que por efeito de recondução no ciclo preparatório TV ficarão na situação de destacados pelo prazo máximo de três anos, sendo, nesse caso, abonados pelo seu lugar de origem, ao qual manterão direito.
 
 3 - Aos professores efectivos do ensino primário referidos nas alíneas b) e d) do artigo 6.º é aplicável a recondução prevista no artigo 3.º, só podendo, no entanto, a mesma funcionar para dois anos escolares.
 
-###### Art. 16.º As colocações dos docentes nos postos oficiais de recepção do ciclo preparatório TV poderão ser renovadas por despacho ministerial, com dispensa de quaisquer outras formalidades legais, sempre que as mesmas decorram de recondução ou dos concursos referidos nas alíneas b) e c) do artigo 1.º deste diploma.
+Art. 16.º As colocações dos docentes nos postos oficiais de recepção do ciclo preparatório TV poderão ser renovadas por despacho ministerial, com dispensa de quaisquer outras formalidades legais, sempre que as mesmas decorram de recondução ou dos concursos referidos nas alíneas b) e c) do artigo 1.º deste diploma.
 
-###### Art. 17.º - 1 - As colocações dos docentes nos postos oficiais de recepção do ciclo preparatório TV e as correspondentes renovações serão sempre efectuadas por conveniência urgente do serviço público, aplicando-se-lhes o disposto no artigo 1.º do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.
+Art. 17.º - 1 - As colocações dos docentes nos postos oficiais de recepção do ciclo preparatório TV e as correspondentes renovações serão sempre efectuadas por conveniência urgente do serviço público, aplicando-se-lhes o disposto no artigo 1.º do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.
 
 2 - O disposto no número anterior é aplicável aos destacamentos efectuados ao abrigo do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, só cessando o processamento dos vencimentos dos destacados a partir do momento em que o Tribunal de Contas recuse o visto, regressando nessa altura os mesmos à sua anterior situação.
 
@@ -270,44 +331,44 @@ VII
 
 Das remunerações
 
-###### Art. 18.º - 1 - O pagamento dos vencimentos aos docentes dos postos oficiais de recepção do ciclo preparatório TV será feito através das verbas globais para o pagamento de pessoal docente do ensino primário.
+Art. 18.º - 1 - O pagamento dos vencimentos aos docentes dos postos oficiais de recepção do ciclo preparatório TV será feito através das verbas globais para o pagamento de pessoal docente do ensino primário.
 
 2 - Os docentes não pertencentes ao quadro geral do ensino primário que vierem a ser providos por força do artigo 1.º deste diploma têm direito aos correspondentes vencimentos desde o dia da sua entrada em exercício e nos períodos de férias posteriores ao provimento, nos termos do artigo 17.º do [Decreto-Lei n.º 265/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1977-250426), de 1 de Julho.
 
-###### Art. 19.º O vínculo decorrente de colocações anteriores, e desde que o professor profissionalizado não efectivo do ensino primário tenha prestado no ano escolar anterior, pelo menos, cento e oitenta dias de serviço, só se mantém se o docente obtiver recondução ou colocação através das alíneas b) e c) do artigo 1.º ou, não a tendo obtido, tenha declarado no boletim de concurso aceitar todas as possibilidades de colocação mencionadas no artigo 9.º deste diploma.
+Art. 19.º O vínculo decorrente de colocações anteriores, e desde que o professor profissionalizado não efectivo do ensino primário tenha prestado no ano escolar anterior, pelo menos, cento e oitenta dias de serviço, só se mantém se o docente obtiver recondução ou colocação através das alíneas b) e c) do artigo 1.º ou, não a tendo obtido, tenha declarado no boletim de concurso aceitar todas as possibilidades de colocação mencionadas no artigo 9.º deste diploma.
 
 VIII
 
 Disposições gerais e transitórias
 
-###### Art. 20.º - 1 - O tempo de serviço prestado pelos diplomados pelas escolas do magistério primário habilitados com o curso complementar dos liceus nos postos oficiais de recepção do ciclo preparatório TV e no ciclo complementar do ensino primário passa a ser contado para efeitos de aquisição de habilitação própria para o ensino preparatório directo.
+Art. 20.º - 1 - O tempo de serviço prestado pelos diplomados pelas escolas do magistério primário habilitados com o curso complementar dos liceus nos postos oficiais de recepção do ciclo preparatório TV e no ciclo complementar do ensino primário passa a ser contado para efeitos de aquisição de habilitação própria para o ensino preparatório directo.
 
 2 - Para efeitos do disposto no número anterior é igualmente condição necessária para acesso ao estágio pedagógico do ciclo preparatório directo a prestação de cinco anos de serviço docente, sendo, no mínimo, dois no ciclo preparatório TV ou no ciclo complementar do ensino primário.
 
 3 - O tempo de serviço prestado no âmbito do Instituto de Tecnologia Educativa em funções de orientação ou de avaliação é contado para efeitos de acesso ao estágio pedagógico do ciclo preparatório directo como se tivesse sido prestado em postos oficiais de recepção do ciclo preparatório TV.
 
-###### Art. 21.º A falsidade das declarações prestadas pelos candidatos nos documentos do concurso fica sujeita ao tratamento penal e disciplinar previsto na lei.
+Art. 21.º A falsidade das declarações prestadas pelos candidatos nos documentos do concurso fica sujeita ao tratamento penal e disciplinar previsto na lei.
 
-###### Art. 22.º O preenchimento dos lugares do ensino primário que vierem a ficar vagos ou disponíveis em virtude dos concursos previstos neste diploma serão preenchidos ao abrigo do artigo 13.º do [Decreto-Lei n.º 265/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1977-250426), de 1 de Julho.
+Art. 22.º O preenchimento dos lugares do ensino primário que vierem a ficar vagos ou disponíveis em virtude dos concursos previstos neste diploma serão preenchidos ao abrigo do artigo 13.º do [Decreto-Lei n.º 265/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1977-250426), de 1 de Julho.
 
-###### Art. 23.º - 1 - Consideram-se regularizadas as reconduções e colocações efectuadas nos postos oficiais de recepção do ciclo preparatório TV ao abrigo do despacho n.º 91/77, de 15 de Julho de 1977, dos Secretários de Estado da Administração e Equipamento Escolar e da Orientação Pedagógica.
+Art. 23.º - 1 - Consideram-se regularizadas as reconduções e colocações efectuadas nos postos oficiais de recepção do ciclo preparatório TV ao abrigo do despacho n.º 91/77, de 15 de Julho de 1977, dos Secretários de Estado da Administração e Equipamento Escolar e da Orientação Pedagógica.
 
 2 - Consideram-se igualmente regularizados, para todos os efeitos legais, os destacamentos de professores do ensino primário em postos oficiais de recepção do ciclo preparatório TV durante o ano escolar de 1976-1977, bem como os vencimentos processados pelo Instituto de Tecnologia Educativa aos monitores do ciclo preparatório TV não professores do ensino primário nomeados nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 759/76, de 22 de Outubro, no período de 1 de Outubro de 1976 até à data da posse dos referidos monitores nas direcções de distrito escolar.
 
-###### Art. 24.º São aplicáveis às nomeações decorrentes deste decreto-lei os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 766/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/766-1976-409350), de 23 de Outubro.
+Art. 24.º São aplicáveis às nomeações decorrentes deste decreto-lei os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 766/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/766-1976-409350), de 23 de Outubro.
 
-###### Art. 25.º Mantêm-se em vigor os contratos celebrados em anos escolares anteriores respeitantes a pessoal que se mantenha em exercício de funções docentes no ciclo preparatório TV.
+Art. 25.º Mantêm-se em vigor os contratos celebrados em anos escolares anteriores respeitantes a pessoal que se mantenha em exercício de funções docentes no ciclo preparatório TV.
 
-###### Art. 26.º - 1 - Mantêm-se em vigor o artigo 1.º, n.º 1 do artigo 2.º, n.º 3 do artigo 5.º e artigo 6.º do Decreto-Lei n.º 759/76, de 22 de Outubro.
+Art. 26.º - 1 - Mantêm-se em vigor o artigo 1.º, n.º 1 do artigo 2.º, n.º 3 do artigo 5.º e artigo 6.º do Decreto-Lei n.º 759/76, de 22 de Outubro.
 
 2 - Transitoriamente, e apenas para o ano escolar de 1977-1978, vigorará o n.º 1 do artigo 3.º do Decreto-Lei n.º 759/76, de 22 de Outubro.
 
-###### Art. 27.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 27.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 17 de Janeiro de 1978.**
+Promulgado em 17 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

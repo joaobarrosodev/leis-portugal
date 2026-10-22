@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/352-1972-688981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b044a93be9ca62e82413d5aa3ae3675980a33a5c55d07effd99081f2c083d2f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74c7f7b1b9b95786ee2a8d0987538a4a672d790dd89f8508cc527b557e0a9d83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:160305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675198:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:40Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. Ao expediente e funcionamento de cada tribunal ordinário do ultramar assiste um serviço de secretaria dotado do pessoal adequado ao volume e complexidade dos serviços respectivos.
+Artigo 1.º - 1. Ao expediente e funcionamento de cada tribunal ordinário do ultramar assiste um serviço de secretaria dotado do pessoal adequado ao volume e complexidade dos serviços respectivos.
 
 2. O pessoal de secretaria que actualmente compõe os quadros dos tribunais ordinários do ultramar é o constante dos mapas anexos a este diploma.
 
@@ -106,39 +114,39 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. Guardadas as categorias de funcionários fixadas por este diploma, os governos das províncias podem alterar, em quantidade, a dotação do pessoal de secretaria pertencente ao quadro privativo.
 
-###### Art. 2.º - 1. As secretarias judiciais são em geral constituídas ùnicamente por cartórios, mas podem desdobrar-se em secções administrativas e cartórios sempre que, por conveniência de serviço, assim for determinado por decreto do Ministro do Ultramar.
+Art. 2.º - 1. As secretarias judiciais são em geral constituídas ùnicamente por cartórios, mas podem desdobrar-se em secções administrativas e cartórios sempre que, por conveniência de serviço, assim for determinado por decreto do Ministro do Ultramar.
 
 2. O serviço de secretaria destinado à realização do expediente relativo à distribuição dos processos e papéis da competência dos tribunais da comarca denomina-se distribuição-geral.
 
 3. O serviço de secretaria destinado à realização da conta em processos e papéis denomina-se contadoria.
 
-###### Art. 3.º - 1. Os chefes das secretarias judiciais desdobradas em secções administrativas e cartórios denominam-se secretários; os das distribuições-gerais, distribuidores-gerais; os das contadorias, contadores; os das secções administrativas e os dos cartórios, escrivães de direito.
+Art. 3.º - 1. Os chefes das secretarias judiciais desdobradas em secções administrativas e cartórios denominam-se secretários; os das distribuições-gerais, distribuidores-gerais; os das contadorias, contadores; os das secções administrativas e os dos cartórios, escrivães de direito.
 
 2. Os chefes de secretaria estão directamente subordinados ao presidente do tribunal, e também ao magistrado do Ministério Público em relação às atribuições próprias deste nos processos penais.
 
 3. Os chefes das secretarias judiciais comuns a vários tribunais estão directamente subordinados ao juiz mais antigo na classe, sem prejuízo da subordinação ao magistrado de turno relativamente ao expediente respectivo.
 
-###### Art. 4.º Quando algum funcionário de secretaria judicial entenda que não deve cumprir ordens recebidas do respectivo chefe ou se julgar prejudicado por qualquer determinação deste, deverá imediatamente representar ao juiz de quem o chefe depende directamente ou ao magistrado do Ministério Público, conforme se trate das atribuições de um ou outro magistrado, para que, ouvido quem deu a ordem, se decida de harmonia com as leis e a conveniência do serviço.
+Art. 4.º Quando algum funcionário de secretaria judicial entenda que não deve cumprir ordens recebidas do respectivo chefe ou se julgar prejudicado por qualquer determinação deste, deverá imediatamente representar ao juiz de quem o chefe depende directamente ou ao magistrado do Ministério Público, conforme se trate das atribuições de um ou outro magistrado, para que, ouvido quem deu a ordem, se decida de harmonia com as leis e a conveniência do serviço.
 
-###### Art. 5.º Independentemente dos casos especialmente regulados, na falta ou impedimento de qualquer funcionário de justiça é este substituído pela forma que for determinada pelo presidente do tribunal, ou pelo juiz mais antigo na classe, em relação às secretarias judiciais comuns a vários tribunais, por provisão, enquanto não for superiormente providenciado.
+Art. 5.º Independentemente dos casos especialmente regulados, na falta ou impedimento de qualquer funcionário de justiça é este substituído pela forma que for determinada pelo presidente do tribunal, ou pelo juiz mais antigo na classe, em relação às secretarias judiciais comuns a vários tribunais, por provisão, enquanto não for superiormente providenciado.
 
-###### Art. 6.º - 1. Nenhum processo ou papel terá seguimento na secretaria sem que nele esteja lançada a nota de registo de entrada no livro próprio; o registo e a nota devem ser lavrados no acto da apresentação.
+Art. 6.º - 1. Nenhum processo ou papel terá seguimento na secretaria sem que nele esteja lançada a nota de registo de entrada no livro próprio; o registo e a nota devem ser lavrados no acto da apresentação.
 
 2. Todos os dias, à hora de encerramento da secretaria, o livro do registo de entrada é encerrado com um traço e rubricado no fim do último registo pelo funcionário a quem competir e apresentado em seguida ao presidente do tribunal para lhe apor o seu visto.
 
 3. O registo de entrada das petições, alegações ou requerimentos para quaisquer fins dependentes de prazos certos fixa a data da entrada em juízo do papel respectivo.
 
-###### Art. 7.º - 1. Os processos e papéis só podem sair da secretaria nos casos em que a lei o permita e mediante as formalidades legalmente estabelecidas, cobrando-se sempre os recibos adequados e averbando-se a sua saída.
+Art. 7.º - 1. Os processos e papéis só podem sair da secretaria nos casos em que a lei o permita e mediante as formalidades legalmente estabelecidas, cobrando-se sempre os recibos adequados e averbando-se a sua saída.
 
 2. Nenhum processo ou papel é arquivado sem estar resolvido o assunto a que se refere e sem dele se dar baixa no respectivo registo.
 
-###### Art. 8.º - 1. Cada chefe de secretaria judicial é fiel depositário dos papéis, processos, arquivos, objectos e valores que respeitem à carga ou serviço da sua secretaria.
+Art. 8.º - 1. Cada chefe de secretaria judicial é fiel depositário dos papéis, processos, arquivos, objectos e valores que respeitem à carga ou serviço da sua secretaria.
 
 2. Quando providos nos seus cargos, efectiva ou interinamente, os chefes de secretaria devem conferir o respectivo inventário na presença de quem os esteja servindo, mencionando no termo de recebimento, que assinarão, as faltas que encontrarem.
 
 3. Quando, por morte ou impedimento do serventuário do lugar, não possa ser feita a conferência do inventário, o presidente do tribunal procederá, ou mandará proceder por pessoa idónea, ao arrolamento do que na secção existir, valendo o arrolamento assim efectuado como inventário para todos os efeitos legais.
 
-###### Art. 9.º - 1. Aos chefes de secretaria judicial compete passar certidão dos livros, documentos e processos pendentes ou arquivados.
+Art. 9.º - 1. Aos chefes de secretaria judicial compete passar certidão dos livros, documentos e processos pendentes ou arquivados.
 
 2. A passagem de certidões de livros ou documentos está sujeita às mesmas condições e limitações que as leis de processos estabelecem para as certidões de actos e termos judiciais.
 
@@ -146,35 +154,35 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. O juiz ou relator, o presidente do tribunal ou o juiz mais antigo na classe, conforme os casos, pode, quando isso se justifique, conceder prorrogação de prazo para a sua passagem, ainda que esta não dependa de despacho.
 
-###### Art. 10.º - 1. O horário das secretarias judiciais é o mesmo dos restantes serviços públicos da localidade.
+Art. 10.º - 1. O horário das secretarias judiciais é o mesmo dos restantes serviços públicos da localidade.
 
 2. Os funcionários incumbidos de acompanhar as diligências judiciais do tribunal são obrigados a prestar assistência ao serviço em curso, mesmo para além do fecho da secretaria judicial respectiva.
 
-###### Art. 11.º - 1. O livro de ponto, que estará em poder do chefe da secretaria, é encerrado no fim de cada mês, extractando-se dele a nota das faltas não justificadas dadas por cada funcionário nesse período, a fim de ser levada aos respectivos registos.
+Art. 11.º - 1. O livro de ponto, que estará em poder do chefe da secretaria, é encerrado no fim de cada mês, extractando-se dele a nota das faltas não justificadas dadas por cada funcionário nesse período, a fim de ser levada aos respectivos registos.
 
 2. As faltas não justificadas importam, além da perda dos respectivos vencimentos, procedimento disciplinar contra o faltoso.
 
-###### Art. 12.º - 1. Os funcionários estarão permanentemente na secretaria judicial durante as horas de serviço, salvo se estiverem impedidos por outro motivo de serviço público, não podendo ausentar-se sem autorização do chefe.
+Art. 12.º - 1. Os funcionários estarão permanentemente na secretaria judicial durante as horas de serviço, salvo se estiverem impedidos por outro motivo de serviço público, não podendo ausentar-se sem autorização do chefe.
 
 2. São dispensados de permanecer na secretaria os funcionários de justiça requisitados para qualquer função pública que, em conformidade com a lei, possam exercer cumulativamente com a dos seus cargos, devendo, contudo, apresentar-se sempre que a sua comparência se torne necessária.
 
-###### Art. 13.º - 1. Nas férias grandes judiciais, se as conveniências do serviço o permitirem, o juiz do tribunal distribuirá os funcionários por dois turnos, cada um dos quais prestará serviço durante trinta dias.
+Art. 13.º - 1. Nas férias grandes judiciais, se as conveniências do serviço o permitirem, o juiz do tribunal distribuirá os funcionários por dois turnos, cada um dos quais prestará serviço durante trinta dias.
 
 2. Os funcionários que não estejam de turno podem ausentar-se da sede durante o período de férias, mediante simples comunicação escrita ao juiz do tribunal e indicação do lugar para onde vão residir.
 
 3. São considerados de licença disciplinar os dias em que os funcionários não estiverem de turno.
 
-###### Art. 14.º Em tudo o que não esteja previsto no presente diploma e não seja contrário à orgânica judicial é aplicável ao funcionamento das secretarias judiciais o disposto no Estatuto do Funcionalismo Ultramarino e disposições complementares.
+Art. 14.º Em tudo o que não esteja previsto no presente diploma e não seja contrário à orgânica judicial é aplicável ao funcionamento das secretarias judiciais o disposto no Estatuto do Funcionalismo Ultramarino e disposições complementares.
 
 #### SECÇÃO III — Secretarias dos tribunais da Relação
 
-###### Art. 15.º - 1. A secretaria de cada tribunal da Relação do ultramar é composta de uma secção administrativa destinada ao expediente e contabilidade e dois cartórios, tendo o pessoal constante do respectivo mapa anexo a este diploma.
+Art. 15.º - 1. A secretaria de cada tribunal da Relação do ultramar é composta de uma secção administrativa destinada ao expediente e contabilidade e dois cartórios, tendo o pessoal constante do respectivo mapa anexo a este diploma.
 
 2. O Ministro do Ultramar, quando o interesse dos serviços o exija, poderá alterar, por decreto, o número de secções e cartórios e o quadro dos serviços de secretaria.
 
-###### Art. 16.º A secretaria funciona sob a orientação directa do respectivo secretário e a superintendência do presidente do tribunal.
+Art. 16.º A secretaria funciona sob a orientação directa do respectivo secretário e a superintendência do presidente do tribunal.
 
-###### Art. 17.º - 1. Ao secretário, como chefe de secretaria, incumbe:
+Art. 17.º - 1. Ao secretário, como chefe de secretaria, incumbe:
 
 a) Dirigir os trabalhos da secretaria e distribuir pelos funcionários as tarefas a executar;
 
@@ -216,11 +224,11 @@ t) Encerrar e rubricar diàriamente o livro do registo de entradas.
 
 2. Nas suas faltas e impedimentos é o secretário substituído pelo chefe da secção de expediente e contabilidade e, na falta ou impedimento de ambos, pelo chefe do cartório da Relação mais antigo na categoria.
 
-###### Art. 18.º Todos os funcionários da secretaria coadjuvam o secretário, executando o trabalho que por ele, ou por quem o substituir, lhes seja ordenado.
+Art. 18.º Todos os funcionários da secretaria coadjuvam o secretário, executando o trabalho que por ele, ou por quem o substituir, lhes seja ordenado.
 
-###### Art. 19.º Aos chefes de secção ou cartório compete a imediata direcção e execução do serviço da secção ou cartório que chefiam.
+Art. 19.º Aos chefes de secção ou cartório compete a imediata direcção e execução do serviço da secção ou cartório que chefiam.
 
-###### Art. 20.º À secção de expediente e contabilidade compete:
+Art. 20.º À secção de expediente e contabilidade compete:
 
 a) O expediente das atribuições exclusivamente dependentes da presidência e do secretário;
 
@@ -246,7 +254,7 @@ l) A distribuição, pelos cartórios, dos processos entrados;
 
 m) Todo o demais expediente relativo a assuntos de carácter administrativo.
 
-###### Art. 21.º Aos cartórios compete:
+Art. 21.º Aos cartórios compete:
 
 a) O movimento geral dos processos e o seu registo no livro de porta;
 
@@ -264,9 +272,9 @@ g) A passagem de certidões de peças dos processos;
 
 h) Quaisquer outros serviços impostos por lei ou por determinação superior.
 
-###### Art. 22.º Aos dactilógrafos compete, em especial, dactilografar o expediente relativo aos processos que usualmente seja feito por esse meio mecânico e, bem assim, as decisões que tenham sido votadas sob minuta do relator.
+Art. 22.º Aos dactilógrafos compete, em especial, dactilografar o expediente relativo aos processos que usualmente seja feito por esse meio mecânico e, bem assim, as decisões que tenham sido votadas sob minuta do relator.
 
-###### Art. 23.º Aos oficiais de diligências compete especialmente:
+Art. 23.º Aos oficiais de diligências compete especialmente:
 
 a) Preparar os maços e sobrescritos para expedição da correspondência e fazer o seu registo;
 
@@ -276,7 +284,7 @@ competência;
 
 c) Fazer o serviço de secretaria compatível com as suas habilitações.
 
-###### Art. 24.º Aos contínuos pertence especialmente:
+Art. 24.º Aos contínuos pertence especialmente:
 
 a) Abrir e fechar as instalações do tribunal;
 
@@ -290,13 +298,13 @@ e) Cumprir as ordens dos magistrados, do secretário e dos demais funcionários 
 
 f) Transportar os processos a casa dos magistrados e desta ao tribunal.
 
-###### Art. 25.º Aos serventes pertence especialmente:
+Art. 25.º Aos serventes pertence especialmente:
 
 a) Cuidar da limpeza das instalações do tribunal;
 
 b) Conduzir a correspondência da secretaria, por protocolo, cobrando neste os recibos de entrega, e ajudar os contínuos no desempenho das obrigações do seu cargo.
 
-###### Art. 26.º - 1. Haverá na secretaria registos indispensáveis para o serviço, os quais serão divididos em tantos livros quantos os necessários para a boa ordem da escrituração.
+Art. 26.º - 1. Haverá na secretaria registos indispensáveis para o serviço, os quais serão divididos em tantos livros quantos os necessários para a boa ordem da escrituração.
 
 2. É obrigatória a existência dos seguintes livros:
 
@@ -336,11 +344,11 @@ r) De registo de acórdãos;
 
 s) De protocolo de entrada e saída de processos.
 
-###### Art. 27.º - 1. O livro de registo de entrada dos processos e demais papéis há-de conter a indicação da data e número de ordem da apresentação, suas espécies e resumo do seu objecto, secção ou cartório a que pertencem, nome do requerente e rubricas do apresentante e do funcionário que os tenha recebido.
+Art. 27.º - 1. O livro de registo de entrada dos processos e demais papéis há-de conter a indicação da data e número de ordem da apresentação, suas espécies e resumo do seu objecto, secção ou cartório a que pertencem, nome do requerente e rubricas do apresentante e do funcionário que os tenha recebido.
 
 2. Os livros de correspondência recebida, expedida e confidencial são formados pela própria correspondência recebida e pelos duplicados da expedida.
 
-###### Art. 28.º Haverá ainda, além de outros que por lei ou determinação superior sejam designados, os livros seguintes:
+Art. 28.º Haverá ainda, além de outros que por lei ou determinação superior sejam designados, os livros seguintes:
 
 a) Do registo de contas em processos cíveis;
 
@@ -348,15 +356,15 @@ b) Das folhas de vencimento dos magistrados judiciais e dos funcionários da sec
 
 #### SECÇÃO III — Distribuição-geral
 
-###### Art. 29.º - 1. Em cada uma das comarcas de Luanda e Lourenço Marques há um serviço de distribuição-geral comum a todas as varas e juízos e com o pessoal constante do respectivo mapa anexo a este diploma.
+Art. 29.º - 1. Em cada uma das comarcas de Luanda e Lourenço Marques há um serviço de distribuição-geral comum a todas as varas e juízos e com o pessoal constante do respectivo mapa anexo a este diploma.
 
 2. A distribuição-geral tem a seu cargo o arquivo-geral dos processos findos da comarca.
 
-###### Art. 30.º Os serviços de distribuição-geral funcionam sob a orientação do juiz de direito mais antigo na classe em serviço na comarca e sob a directa chefia do distribuidor-geral.
+Art. 30.º Os serviços de distribuição-geral funcionam sob a orientação do juiz de direito mais antigo na classe em serviço na comarca e sob a directa chefia do distribuidor-geral.
 
-###### Art. 31.º Nas suas ausências e impedimentos o distribuidor-geral será substituído pelo ajudante mais antigo em serviço, quando de outra forma não for providenciado.
+Art. 31.º Nas suas ausências e impedimentos o distribuidor-geral será substituído pelo ajudante mais antigo em serviço, quando de outra forma não for providenciado.
 
-###### Art. 32.º - 1. Compete ao distribuidor-geral:
+Art. 32.º - 1. Compete ao distribuidor-geral:
 
 a) O registo de entrada de todos os processos e demais papéis, sujeitos a distribuição ou averbamento, dirigidos ao tribunal;
 
@@ -380,21 +388,21 @@ j) A superintendência e fiscalização dos serviços de limpeza, arrumação e 
 
 2. Para cumprimento do disposto na alínea i) do número anterior deverão os escrivães comunicar ao distribuidor-geral, logo que tal se verifique, todas as alterações que haja na situação dos magistrados e funcionários.
 
-###### Art. 33.º - 1. Todo o expediente da competência da distribuição-geral e todos os processos ou papéis que constituem início de processos sujeitos a distribuição devem dar entrada naquele serviço ou ser para ele remetidos.
+Art. 33.º - 1. Todo o expediente da competência da distribuição-geral e todos os processos ou papéis que constituem início de processos sujeitos a distribuição devem dar entrada naquele serviço ou ser para ele remetidos.
 
 2. A distribuição dos processo é presidida pelo juiz de turno.
 
 #### SECÇÃO IV — Contadoria
 
-###### Art. 34.º - 1. Sempre que as exigências do serviço o justifiquem, será criada uma contadoria comum às diversas varas, juízos ou cartórios que compõem o tribunal de comarca de 1.ª classe.
+Art. 34.º - 1. Sempre que as exigências do serviço o justifiquem, será criada uma contadoria comum às diversas varas, juízos ou cartórios que compõem o tribunal de comarca de 1.ª classe.
 
 2. As contadorias actualmente existentes são as constantes do respectivo mapa anexo a este diploma.
 
 3. Os serviços de contadoria funcionam sob a orientação do juiz de direito mais antigo na classe e sob a directa chefia do contador.
 
-###### Art. 35.º Nas suas ausências e impedimentos é o contador substituído pelo seu ajudante mais antigo em serviço.
+Art. 35.º Nas suas ausências e impedimentos é o contador substituído pelo seu ajudante mais antigo em serviço.
 
-###### Art. 36.º Compete ao contador:
+Art. 36.º Compete ao contador:
 
 a) Contar todos os processos e papéis avulsos que lhe forem remetidos;
 
@@ -406,11 +414,11 @@ d) Distribuir o serviço pelo pessoal seu colaborador.
 
 #### SECÇÃO V — Cartórios dos tribunais de comarca
 
-###### Art. 37.º - 1. Em cada tribunal de comarca, vara ou juízo há, consoante o volume de serviço, um ou dois cartórios, com o pessoal constante do respectivo mapa anexo a este diploma.
+Art. 37.º - 1. Em cada tribunal de comarca, vara ou juízo há, consoante o volume de serviço, um ou dois cartórios, com o pessoal constante do respectivo mapa anexo a este diploma.
 
 2. Cada cartório é chefiado directamente por um escrivão de direito, sob a superintendência do presidente do tribunal.
 
-###### Art. 38.º Na chefia e execução do serviço do cartório incumbe ao escrivão de direito fazer os autos conclusos ao juiz, para decisão, ou com vista ao Ministério Público, para promoção ou decisão, passar e remeter boletins de registo criminal, distribuir o serviço pelo pessoal do cartório e, em especial:
+Art. 38.º Na chefia e execução do serviço do cartório incumbe ao escrivão de direito fazer os autos conclusos ao juiz, para decisão, ou com vista ao Ministério Público, para promoção ou decisão, passar e remeter boletins de registo criminal, distribuir o serviço pelo pessoal do cartório e, em especial:
 
 a) A distribuição e contagem dos processos e papéis avulsos;
 
@@ -450,7 +458,7 @@ s) O encerramento do livro de ponto;
 
 t) A execução de quaisquer outros serviços que por lei ou determinação superior lhes devam pertencer.
 
-###### Art. 39.º - 1. Para o efeito de ingressarem no arquivo da vara ou juízo ou do tribunal consideram-se findos os processos penais após três meses sobre a data da decisão que os mande arquivar ou aguardar melhor prova, e bem assim os processos cíveis, logo que passem três meses sobre a data do trânsito em julgado da respectiva sentença, salvo se estiver pendente execução ou algum incidente, pois neste caso só decorrido igual período após o fim da execução ou do incidente e de pagas as custas os processos devem ser arquivados; têm-se ainda como findos os processos parados mais de um ano depois de interrompida a instância.
+Art. 39.º - 1. Para o efeito de ingressarem no arquivo da vara ou juízo ou do tribunal consideram-se findos os processos penais após três meses sobre a data da decisão que os mande arquivar ou aguardar melhor prova, e bem assim os processos cíveis, logo que passem três meses sobre a data do trânsito em julgado da respectiva sentença, salvo se estiver pendente execução ou algum incidente, pois neste caso só decorrido igual período após o fim da execução ou do incidente e de pagas as custas os processos devem ser arquivados; têm-se ainda como findos os processos parados mais de um ano depois de interrompida a instância.
 
 2. Nenhum processo poderá dar entrada no arquivo sem dele constar o visto de correição, para o que deverá ser apresentado ao juiz.
 
@@ -460,21 +468,21 @@ t) A execução de quaisquer outros serviços que por lei ou determinação supe
 
 5. Incorre em responsabilidade disciplinar o escrivão que enviar para o arquivo processo que não esteja visto em correição.
 
-###### Art. 40.º A correspondência expedida em cumprimento do despacho lavrado em qualquer processo é redigida pelo escrivão ao qual o processo pertence e por ele subscrita, devendo começar pela fórmula «Por despacho do Exmo. Juiz deste Tribunal, lançado no processo à margem indicado ...».
+Art. 40.º A correspondência expedida em cumprimento do despacho lavrado em qualquer processo é redigida pelo escrivão ao qual o processo pertence e por ele subscrita, devendo começar pela fórmula «Por despacho do Exmo. Juiz deste Tribunal, lançado no processo à margem indicado ...».
 
-###### Art. 41.º - 1. Aos ajudantes de escrivão compete coadjuvar o escrivão de direito nas suas funções, de acordo com a distribuição de serviço que tiver sido feita, e substituí-lo, por ordem decrescente de antiguidade, nas suas ausências e impedimentos.
+Art. 41.º - 1. Aos ajudantes de escrivão compete coadjuvar o escrivão de direito nas suas funções, de acordo com a distribuição de serviço que tiver sido feita, e substituí-lo, por ordem decrescente de antiguidade, nas suas ausências e impedimentos.
 
 2. Nas comarcas em que o escrivão exerce cumulativamente as funções de contador, deve o ajudante de escrivão efectuar a contagem dos processos que lhe couberem pela distribuição do serviço, cumprindo ao escrivão auxiliá-lo em todas as dificuldades.
 
-###### Art. 42.º O intérprete coadjuvará o escrivão de direito e seus ajudantes no exercício das respectivas funções, sem prejuízo do cumprimento das que lhe são próprias.
+Art. 42.º O intérprete coadjuvará o escrivão de direito e seus ajudantes no exercício das respectivas funções, sem prejuízo do cumprimento das que lhe são próprias.
 
-###### Art. 43.º Os escriturários realizarão, com carácter de estágio, todo o trabalho no cartório que permita habilitá-los ao concurso para ajudante de escrivão.
+Art. 43.º Os escriturários realizarão, com carácter de estágio, todo o trabalho no cartório que permita habilitá-los ao concurso para ajudante de escrivão.
 
-###### Art. 44.º Aos dactilógrafos compete, em especial, dactilografar o expediente relativo aos processos que usualmente seja feito por esse meio mecânico, e bem assim o serviço de expediente próprio das delegações da Procuradoria da República.
+Art. 44.º Aos dactilógrafos compete, em especial, dactilografar o expediente relativo aos processos que usualmente seja feito por esse meio mecânico, e bem assim o serviço de expediente próprio das delegações da Procuradoria da República.
 
-###### Art. 45.º Ao restante pessoal dos cartórios dos tribunais de comarca aplicam-se, com as necessárias adaptações, os preceitos relativos às respectivas funções no tribunal da Relação.
+Art. 45.º Ao restante pessoal dos cartórios dos tribunais de comarca aplicam-se, com as necessárias adaptações, os preceitos relativos às respectivas funções no tribunal da Relação.
 
-###### Art. 46.º - 1. Em cada cartório há, além de outros que por lei ou determinação superior sejam designados, os seguintes livros:
+Art. 46.º - 1. Em cada cartório há, além de outros que por lei ou determinação superior sejam designados, os seguintes livros:
 
 a) De ponto;
 
@@ -516,13 +524,13 @@ l) Diversos.
 
 #### SECÇÃO VI — Cartórios dos tribunais municipais de 1.ª e 2.ª classes
 
-###### Art. 47.º - 1. Em cada julgado municipal de 1.ª classe há um cartório com o pessoal constante do respectivo mapa anexo a este diploma.
+Art. 47.º - 1. Em cada julgado municipal de 1.ª classe há um cartório com o pessoal constante do respectivo mapa anexo a este diploma.
 
 2. Nos julgados municipais de 2.ª classe cujo movimento o justifique haverá pessoal privativo de secretaria, dotado pelos governos das províncias à medida das necessidades.
 
 3. Ao cartório, sob a chefia de um escrivão e a superintendência do juiz municipal, incumbe dar expediente a todos os processos judiciais, mesmo durante a fase da instrução preparatória afecta ao Ministério Público, e aos assuntos de natureza administrativa do respectivo tribunal.
 
-###### Art. 48.º - 1. Os funcionários de secretaria dos julgados municipais de 1.ª e 2.ª classes têm, em relação a estes tribunais, a competência dos funcionários de justiça dos tribunais de comarca.
+Art. 48.º - 1. Os funcionários de secretaria dos julgados municipais de 1.ª e 2.ª classes têm, em relação a estes tribunais, a competência dos funcionários de justiça dos tribunais de comarca.
 
 2. Em cada cartório dos julgados municipais de 1.ª classe haverá os livros referidos no artigo 46.º
 
@@ -532,41 +540,41 @@ l) Diversos.
 
 #### SECÇÃO I — Requisitos gerais de recrutamento
 
-###### Art. 49.º São funcionários de justiça os indivíduos providos nos lugares dos quadros dos serviços de justiça do ultramar constantes dos mapas anexos a este diploma.
+Art. 49.º São funcionários de justiça os indivíduos providos nos lugares dos quadros dos serviços de justiça do ultramar constantes dos mapas anexos a este diploma.
 
-###### Art. 50.º Os presidentes dos tribunais comunicarão aos órgãos competentes a existência de qualquer vaga nos quadros das respectivas secretarias logo que ela ocorra e, bem assim, a falta de posse ou de início de funções, dentro do prazo fixado de qualquer funcionário de justiça que haja sido nomeado ou o seu não comparecimento em tempo oportuno para celebração do contrato.
+Art. 50.º Os presidentes dos tribunais comunicarão aos órgãos competentes a existência de qualquer vaga nos quadros das respectivas secretarias logo que ela ocorra e, bem assim, a falta de posse ou de início de funções, dentro do prazo fixado de qualquer funcionário de justiça que haja sido nomeado ou o seu não comparecimento em tempo oportuno para celebração do contrato.
 
-###### Art. 51.º - 1. Se o provimento competir ao Ministro do Ultramar, os presidentes das Relações, logo que tenham conhecimento da vacatura do lugar, comunicá-la-ão à Direcção-Geral de Justiça do Ministério do Ultramar.
+Art. 51.º - 1. Se o provimento competir ao Ministro do Ultramar, os presidentes das Relações, logo que tenham conhecimento da vacatura do lugar, comunicá-la-ão à Direcção-Geral de Justiça do Ministério do Ultramar.
 
 2. Se o provimento competir aos governos provinciais, o presidente da Relação, em Angola e Moçambique, e o juiz mais antigo da comarca da sede da província abrirão imediata e oficiosamente concurso para provimento da vaga, sendo caso disso, ou se não houver opositor com direito a ser nomeado.
 
-###### Art. 52.º Se o concurso para provimento de qualquer lugar das secretarias judiciais ficar deserto ou se for imperioso prover ràpidamente o lugar, este será ocupado interinamente, por tempo não superior a seis meses, por funcionário de categoria ou classe imediatamente inferior, ou, não o havendo, por indivíduo que esteja, pelo menos, habilitado com o ciclo preparatório do ensino secundário.
+Art. 52.º Se o concurso para provimento de qualquer lugar das secretarias judiciais ficar deserto ou se for imperioso prover ràpidamente o lugar, este será ocupado interinamente, por tempo não superior a seis meses, por funcionário de categoria ou classe imediatamente inferior, ou, não o havendo, por indivíduo que esteja, pelo menos, habilitado com o ciclo preparatório do ensino secundário.
 
-###### Art. 53.º Os funcionários de justiça, além de estarem sujeitos aos demais impedimentos estabelecidos na lei geral, não poderão ser comerciantes ou industriais, advogados ou solicitadores, desempenhar outro emprego público ou as funções de perito ou louvado nomeado pelas partes em processos pendentes nos tribunais ou de administrador de falências ou insolvências, não podendo outrossim os respectivos serventuários fazer por outrem quaisquer requerimentos, ainda mesmo que a lei não exija que sejam assinados por advogado ou solicitador.
+Art. 53.º Os funcionários de justiça, além de estarem sujeitos aos demais impedimentos estabelecidos na lei geral, não poderão ser comerciantes ou industriais, advogados ou solicitadores, desempenhar outro emprego público ou as funções de perito ou louvado nomeado pelas partes em processos pendentes nos tribunais ou de administrador de falências ou insolvências, não podendo outrossim os respectivos serventuários fazer por outrem quaisquer requerimentos, ainda mesmo que a lei não exija que sejam assinados por advogado ou solicitador.
 
-###### Art. 54.º - 1. Só pode ser nomeado funcionário de justiça o indivíduo português, maior de 21 anos, que tenha as habilitações escolares e os estágios estabelecidos por lei e, quando esta o exija, também a aprovação no respectivo concurso de habilitação.
+Art. 54.º - 1. Só pode ser nomeado funcionário de justiça o indivíduo português, maior de 21 anos, que tenha as habilitações escolares e os estágios estabelecidos por lei e, quando esta o exija, também a aprovação no respectivo concurso de habilitação.
 
 2. Os menores de 21 anos, emancipados, podem ser nomeados, segundo as formas previstas na lei, para os lugares de intérprete ou dactilógrafo.
 
 #### SECÇÃO II — Requisitos especiais de recrutamento determinados pela categoria do cargo
 
-###### Art. 55.º Os lugares de secretário das Relações serão providos pelo Ministro do Ultramar em licenciados em Direito de reconhecida aptidão para o exercício do cargo ou em distribuidores-gerais com cinco anos de serviço efectivo na categoria e a classificação de Muito bom.
+Art. 55.º Os lugares de secretário das Relações serão providos pelo Ministro do Ultramar em licenciados em Direito de reconhecida aptidão para o exercício do cargo ou em distribuidores-gerais com cinco anos de serviço efectivo na categoria e a classificação de Muito bom.
 
-###### Art. 56.º Os lugares de escrivão nas Relações serão providos pelo Ministro do Ultramar em escrivães de direito de 1.ª classe que tenham, pelo menos, dois anos de efectivo serviço na classe e classificação não inferior à de Bom, e, quanto à secção de expediente e contabilidade, também por contadores, nas mesmas condições.
+Art. 56.º Os lugares de escrivão nas Relações serão providos pelo Ministro do Ultramar em escrivães de direito de 1.ª classe que tenham, pelo menos, dois anos de efectivo serviço na classe e classificação não inferior à de Bom, e, quanto à secção de expediente e contabilidade, também por contadores, nas mesmas condições.
 
-###### Art. 57.º Os lugares de distribuidor-geral serão providos pelo Ministro do Ultramar em escrivães de direito das Relações do respectivo distrito judicial com a classificação de Muito bom no cargo e em escrivães de direito de 1.ª classe e contadores com cinco anos de serviço efectivo na classe e na categoria, respectivamente, e a classificação de Muito bom.
+Art. 57.º Os lugares de distribuidor-geral serão providos pelo Ministro do Ultramar em escrivães de direito das Relações do respectivo distrito judicial com a classificação de Muito bom no cargo e em escrivães de direito de 1.ª classe e contadores com cinco anos de serviço efectivo na classe e na categoria, respectivamente, e a classificação de Muito bom.
 
-###### Art. 58.º Os lugares de ajudante de distribuidor-geral serão providos pelo governador da província, sob proposta do presidente da Relação, em ajudantes de escrivão de 1.ª classe do respectivo distrito judicial com tres anos de serviço na classe e classificação não inferior à de Bom.
+Art. 58.º Os lugares de ajudante de distribuidor-geral serão providos pelo governador da província, sob proposta do presidente da Relação, em ajudantes de escrivão de 1.ª classe do respectivo distrito judicial com tres anos de serviço na classe e classificação não inferior à de Bom.
 
-###### Art. 59.º Os lugares de contador serão providos pelo Ministro do Ultramar, mediante concurso documental, em escrivães de direito de 2.ª classe com cinco anos de serviço efectivo na classe e classificação não inferior à de Bom e em ajudantes de contador com dez anos de serviço efectivo e a classificação de Muito bom nos últimos três anos.
+Art. 59.º Os lugares de contador serão providos pelo Ministro do Ultramar, mediante concurso documental, em escrivães de direito de 2.ª classe com cinco anos de serviço efectivo na classe e classificação não inferior à de Bom e em ajudantes de contador com dez anos de serviço efectivo e a classificação de Muito bom nos últimos três anos.
 
-###### Art. 60.º - 1. Os lugares de ajudante de contador serão providos pelo governador da respectiva província mediante concurso de provas práticas, realizado sob proposta do presidente da Relação, em Angola e Moçambique e sob proposta do juiz da comarca, nas restantes províncias.
+Art. 60.º - 1. Os lugares de ajudante de contador serão providos pelo governador da respectiva província mediante concurso de provas práticas, realizado sob proposta do presidente da Relação, em Angola e Moçambique e sob proposta do juiz da comarca, nas restantes províncias.
 
 2. São admitidos ao concurso os ajudantes de escrivão de 2.ª classe com, pelo menos, três anos de serviço efectivo e classificação não inferior à de Bom e os intérpretes e escriturários com quatro anos de serviço efectivo e muito boas informações.
 
 3. Podem também concorrer os ajudantes de escrivão de 1.ª classe.
 
-###### Art. 61.º - 1. O concurso para ajudante de contador consta de duas provas, uma escrita e outra oral.
+Art. 61.º - 1. O concurso para ajudante de contador consta de duas provas, uma escrita e outra oral.
 
 2. A prova escrita, em que os concorrentes devem usar os termos e fórmulas legais adequados, inclui a elaboração de contas de processo, acto ou papel judicial e a redacção de um ou mais actos judiciais.
 
@@ -574,13 +582,13 @@ l) Diversos.
 
 4. O júri do concurso é constituído, em Angola e Moçambique, pelo presidente da Relação, que a ele presidirá, por um juiz de direito em serviço na sede da Relação, designado em despacho do respectivo presidente, e pelo contador dos tribunais da mesma sede, servindo de secretário o escrivão da secção de expediente e contabilidade da Relação; e nas restantes províncias, pelo juiz mais antigo da comarca da sede do governo, pelo respectivo delegado do procurador da República e pelo contador, ou, não o havendo, pelo escrivão do tribunal da mesma comarca designado pelo juiz, servindo de secretário o ajudante de contador ou de escrivão que o mesmo juiz designar.
 
-###### Art. 62.º Os lugares de escrivão de direito de 1.ª classe são providos pelo Ministro do Ultramar em escrivães de direito de 2.ª classe com, pelo menos, sete anos de serviço efectivo na classe e classificação não inferior à de Bom, com excepção das comarcas de Sotavento, Barlavento, Guiné, S. Tomé, Macau e Timor, em que o provimento é feito por concurso, nos termos do artigo 64.º
+Art. 62.º Os lugares de escrivão de direito de 1.ª classe são providos pelo Ministro do Ultramar em escrivães de direito de 2.ª classe com, pelo menos, sete anos de serviço efectivo na classe e classificação não inferior à de Bom, com excepção das comarcas de Sotavento, Barlavento, Guiné, S. Tomé, Macau e Timor, em que o provimento é feito por concurso, nos termos do artigo 64.º
 
-###### Art. 63.º - 1. Para a realização das promoções dos escrivães de direito à classe imediata o director-geral de Justiça comunicará ao Conselho Superior Judiciário, no último mês de cada semestre e em relação à classe mais elevada, o número de vagas existentes, enviando simultâneamente a lista dos escrivães mais antigos da classe inferior, em número correspondente ao dobro dessas vagas.
+Art. 63.º - 1. Para a realização das promoções dos escrivães de direito à classe imediata o director-geral de Justiça comunicará ao Conselho Superior Judiciário, no último mês de cada semestre e em relação à classe mais elevada, o número de vagas existentes, enviando simultâneamente a lista dos escrivães mais antigos da classe inferior, em número correspondente ao dobro dessas vagas.
 
 2. O Conselho Superior Judiciário, atendendo aos méritos e deméritos dos funcionários, graduá-los-á para a promoção segundo a ordem de antiguidade e as classificações de serviço, sendo metade das vagas preenchidas pelos funcionários com a classificação de Muito bom, por ordem de antiguidade.
 
-###### Art. 64.º - 1. Os lugares de escrivão de direito de 2.ª classe são providos pelo Ministro do Ultramar em indivíduos habilitados com o respectivo concurso documental.
+Art. 64.º - 1. Os lugares de escrivão de direito de 2.ª classe são providos pelo Ministro do Ultramar em indivíduos habilitados com o respectivo concurso documental.
 
 2. São admitidos ao concurso para escrivão de direito:
 
@@ -592,25 +600,25 @@ c) Os ajudantes de escrivão de 1.ª classe e de contador com cinco anos de serv
 
 3. Os concursos são abertos na Direcção-Geral de Justiça, por onde corre todo o expediente aos mesmos respeitante.
 
-###### Art. 65.º - 1. Os lugares de ajudante de escrivão de 1.ª classe serão providos em ajudantes de escrivão de 2.ª classe com quatro anos de serviço efectivo e boas informações.
+Art. 65.º - 1. Os lugares de ajudante de escrivão de 1.ª classe serão providos em ajudantes de escrivão de 2.ª classe com quatro anos de serviço efectivo e boas informações.
 
 2. Nas comarcas de Sotavento, Barlavento, Guiné, S. Tomé, Macau e Timor o provimento dos ajudantes de escrivão é feito por concurso, nos termos dos artigos 68.º e 69.º, aberto pelo governador da província, sob proposta do juiz da comarca.
 
-###### Art. 66.º - 1. Para efeitos de promoção dos ajudantes de escrivão de 2.ª classe à classe imediata o presidente da Relação, em Angola e Moçambique, no último mês de cada semestre e em relação à classe mais elevada, enviará ao governador da província a lista graduada dos ajudantes de escrivão mais antigos da classe, em número correspondente ao dobro das vagas existentes, com informação sobre as suas classificações de serviço.
+Art. 66.º - 1. Para efeitos de promoção dos ajudantes de escrivão de 2.ª classe à classe imediata o presidente da Relação, em Angola e Moçambique, no último mês de cada semestre e em relação à classe mais elevada, enviará ao governador da província a lista graduada dos ajudantes de escrivão mais antigos da classe, em número correspondente ao dobro das vagas existentes, com informação sobre as suas classificações de serviço.
 
 2. Metade das vagas será preenchida segundo a ordem de antiguidade e a outra metade pelos funcionários com a classificação de Muito bom, guardando-se entre eles a ordem de antiguidade, quando seja mais do que um.
 
-###### Art. 67.º Os lugares de ajudante de escrivão de 2.ª classe serão providos entre os concorrentes aprovados no concurso de provas práticas, aberto pelo governador da província, sob proposta do presidente da Relação, em Angola e Moçambique.
+Art. 67.º Os lugares de ajudante de escrivão de 2.ª classe serão providos entre os concorrentes aprovados no concurso de provas práticas, aberto pelo governador da província, sob proposta do presidente da Relação, em Angola e Moçambique.
 
-###### Art. 68.º - 1. São admitidos ao concurso para ajudantes de escrivão de 2.ª classe os intérpretes e os escriturários com, pelo menos, um ano de serviço efectivo e boas informações.
+Art. 68.º - 1. São admitidos ao concurso para ajudantes de escrivão de 2.ª classe os intérpretes e os escriturários com, pelo menos, um ano de serviço efectivo e boas informações.
 
 2. Podem concorrer os oficiais de diligências e os dactilógrafos quando tenham cinco anos de serviço efectivo e classificação não inferior à de Bom.
 
-###### Art. 69.º - 1. O concurso para ajudante de escrivão de 2.ª classe constará de duas provas, uma escrita e outra oral, de harmonia com o disposto no artigo 61.º, mas na prova oral haverá ainda interrogatório sobre processo civil e penal.
+Art. 69.º - 1. O concurso para ajudante de escrivão de 2.ª classe constará de duas provas, uma escrita e outra oral, de harmonia com o disposto no artigo 61.º, mas na prova oral haverá ainda interrogatório sobre processo civil e penal.
 
 2. O júri do concurso é constituído nos termos indicados no n.º 4 do artigo 61.º
 
-###### Art. 70.º - 1. Os lugares de oficial de diligências são providos em indivíduos do sexo masculino aprovados em concurso documental aberto pelo governador da província, sob proposta do presidente da Relação, em Angola e Moçambique, e sob proposta do juiz da comarca, nas restantes províncias.
+Art. 70.º - 1. Os lugares de oficial de diligências são providos em indivíduos do sexo masculino aprovados em concurso documental aberto pelo governador da província, sob proposta do presidente da Relação, em Angola e Moçambique, e sob proposta do juiz da comarca, nas restantes províncias.
 
 2. As habilitações escolares mínimas são o ciclo preparatório do ensino secundário.
 
@@ -618,47 +626,47 @@ c) Os ajudantes de escrivão de 1.ª classe e de contador com cinco anos de serv
 
 4. Podem concorrer os oficiais de diligências dos julgados municipais de 2.ª classe, não obstante carecerem das habilitações escolares exigidas, quando tenham três anos de serviço efectivo e classificação não inferior à de Bom.
 
-###### Art. 71.º Os intérpretes são nomeados pelo governador da província, sob proposta do presidente da Relação, em Angola e Moçambique, e sob proposta do juiz da comarca, nas restantes províncias, em indivíduos habilitados com o ciclo preparatório do ensino secundário ou equivalente e com suficiente conhecimento das principais línguas da área da comarca onde vão prestar serviço.
+Art. 71.º Os intérpretes são nomeados pelo governador da província, sob proposta do presidente da Relação, em Angola e Moçambique, e sob proposta do juiz da comarca, nas restantes províncias, em indivíduos habilitados com o ciclo preparatório do ensino secundário ou equivalente e com suficiente conhecimento das principais línguas da área da comarca onde vão prestar serviço.
 
-###### Art. 72.º - 1. Os lugares de dactilógrafo são providos, por meio de contrato, em indivíduos com a habilitação escolar mínima da 4.ª classe da instrução primária e mediante concurso de provas práticas, constituídas por uma cópia e um ditado dactilografados.
+Art. 72.º - 1. Os lugares de dactilógrafo são providos, por meio de contrato, em indivíduos com a habilitação escolar mínima da 4.ª classe da instrução primária e mediante concurso de provas práticas, constituídas por uma cópia e um ditado dactilografados.
 
 2. A cópia terá a duração de trinta minutos, e o ditado de quinze minutos.
 
 3. Pode ser contratado independentemente de concurso quem, satisfazendo aos requisitos gerais exigidos para o recrutamento em função pública, prove ter prestado nos últimos dois anos, com aproveitamento, provas para dactilógrafo em outro serviço público.
 
-###### Art. 73.º Os lugares de escriturário são providos, por meio de contrato, em regime de estágio, em indivíduos com a habilitação escolar mínima do ciclo preparatório do ensino secundário, sob proposta do presidente da Relação, em Angola e Moçambique, e do juiz da comarca, nas restantes províncias ultramarinas.
+Art. 73.º Os lugares de escriturário são providos, por meio de contrato, em regime de estágio, em indivíduos com a habilitação escolar mínima do ciclo preparatório do ensino secundário, sob proposta do presidente da Relação, em Angola e Moçambique, e do juiz da comarca, nas restantes províncias ultramarinas.
 
-###### Art. 74.º - 1. As funções de escrivão dos julgados municipais de 1.ª classe são exercidas, em comissão de serviço, por ajudantes de escrivão com cinco anos de serviço efectivo, preferindo os de classe mais elevada e melhores informações de serviço.
+Art. 74.º - 1. As funções de escrivão dos julgados municipais de 1.ª classe são exercidas, em comissão de serviço, por ajudantes de escrivão com cinco anos de serviço efectivo, preferindo os de classe mais elevada e melhores informações de serviço.
 
 2. A nomeação é feita pelo governador da província, sob proposta do presidente da Relação, em Angola e Moçambique, e sob proposta do juiz da comarca, nas restantes províncias.
 
 #### SECÇÃO III — Direitos e deveres dos funcionários de justiça
 
-###### Art. 75.º Os funcionários de justiça têm, em geral, os direitos e deveres dos restantes funcionários e, em especial, os constantes deste diploma ou decorrentes da natureza do serviço a que pertencem.
+Art. 75.º Os funcionários de justiça têm, em geral, os direitos e deveres dos restantes funcionários e, em especial, os constantes deste diploma ou decorrentes da natureza do serviço a que pertencem.
 
-###### Art. 76.º As licenças graciosas dos funcionários de justiça só podem ser gozadas de modo a abranger nelas a totalidade das férias grandes judiciais, cumprindo ao serviço provincial competente não autorizar a partida da província em data que, atendendo ao período de licença graciosa concedida, não venha a compreendê-las por inteiro.
+Art. 76.º As licenças graciosas dos funcionários de justiça só podem ser gozadas de modo a abranger nelas a totalidade das férias grandes judiciais, cumprindo ao serviço provincial competente não autorizar a partida da província em data que, atendendo ao período de licença graciosa concedida, não venha a compreendê-las por inteiro.
 
-###### Art. 77.º - 1. Os funcionários de justiça só podem ser transferidos a seu requerimento decorridos dois anos sobre a data da posse do lugar, se a colocação foi a seu pedido, e decorrido um ano, nos demais casos, com ressalva dos fundados no superior interesse do serviço.
+Art. 77.º - 1. Os funcionários de justiça só podem ser transferidos a seu requerimento decorridos dois anos sobre a data da posse do lugar, se a colocação foi a seu pedido, e decorrido um ano, nos demais casos, com ressalva dos fundados no superior interesse do serviço.
 
 2. A transferência só é concedida ao requerente quando não seja contrária às conveniências do serviço.
 
-###### Art. 78.º - 1. É permitida a permuta de lugares entre funcionários de justiça com menos de 60 anos de idade, desde que tenham a mesma categoria e sirvam em comarcas da mesma classe.
+Art. 78.º - 1. É permitida a permuta de lugares entre funcionários de justiça com menos de 60 anos de idade, desde que tenham a mesma categoria e sirvam em comarcas da mesma classe.
 
 2. A permuta só é autorizada quando os pedidos se fundam em motivos ponderosos, designadamente de saúde dos próprios funcionários ou de algum dos componentes do seu agregado familiar, devidamente comprovados.
 
 3. As permutas dentro da mesma província são autorizadas pelo governador da província respectiva, e entre províncias diversas, pelo Ministro do Ultramar, ouvido o Conselho Superior Judiciário.
 
-###### Art. 79.º - 1. Os funcionários de justiça podem ser nomeados para quaisquer comissões de serviço público dependentes do Ministério do Ultramar e autorizados a aceitar comissões de serviço público dependentes de outros Ministérios.
+Art. 79.º - 1. Os funcionários de justiça podem ser nomeados para quaisquer comissões de serviço público dependentes do Ministério do Ultramar e autorizados a aceitar comissões de serviço público dependentes de outros Ministérios.
 
 2. Compete ao Ministro do Ultramar, ouvido o Conselho Superior Judiciário do Ultramar, conceder ou denegar a autorização, e decidir sobre o provimento da vaga, quando se trate de funcionário pertencente ao quadro comum.
 
-###### Art. 80.º - 1. Os funcionários de justiça tomam pessoalmente posse dos seus cargos perante o presidente do tribunal onde devem servir, salvo encontrando-se na metrópole ou em província diversa daquela em que vão prestar serviço, caso em que a posse será tomada perante o director-geral de Justiça ou perante o presidente do tribunal em que se encontravam a prestar serviço, respectivamente, e dentro de 10 dias após a publicação do acto que a ela dê lugar.
+Art. 80.º - 1. Os funcionários de justiça tomam pessoalmente posse dos seus cargos perante o presidente do tribunal onde devem servir, salvo encontrando-se na metrópole ou em província diversa daquela em que vão prestar serviço, caso em que a posse será tomada perante o director-geral de Justiça ou perante o presidente do tribunal em que se encontravam a prestar serviço, respectivamente, e dentro de 10 dias após a publicação do acto que a ela dê lugar.
 
 2. Quando a posse tenha sido tomada em território diferente daquele em que o funcionário vai prestar serviço, o início do exercício de funções deve verificar-se dentro do prazo de trinta dias após a posse, podendo este prazo ser prorrogado por igual período por despacho do Ministro.
 
 3. O director-geral de Justiça pode conceder delegação para conferir posse ao chefe da Repartição de Justiça.
 
-###### Art. 81.º - 1. Anualmente, até 15 de Fevereiro, serão elaboradas e publicadas nos jornais ou publicações oficiais as listas de antiguidade dos funcionários de justiça, com referência a 31 de Dezembro do ano anterior.
+Art. 81.º - 1. Anualmente, até 15 de Fevereiro, serão elaboradas e publicadas nos jornais ou publicações oficiais as listas de antiguidade dos funcionários de justiça, com referência a 31 de Dezembro do ano anterior.
 
 2. As listas de antiguidade dos funcionários de justiça do quadro comum serão publicadas no Boletim Judiciário do Ultramar.
 
@@ -670,25 +678,25 @@ c) Os ajudantes de escrivão de 1.ª classe e de contador com cinco anos de serv
 
 6. O cômputo da antiguidade na categoria ou classe inclui ùnicamente o serviço prestado no ultramar.
 
-###### Art. 82.º - 1. Os funcionários de justiça que se considerem lesados pela graduação efectuada nas listas de antiguidade podem, no prazo de trinta dias, a contar da publicação no Boletim Oficial ou da recepção do Boletim Judiciário, recorrer para o Ministro do Ultramar ou para o governador da província, conforme os quadros a que pertencem, fazendo acompanhar a petição de tantos duplicados quantos os funcionários a quem o provimento do recurso possa prejudicar.
+Art. 82.º - 1. Os funcionários de justiça que se considerem lesados pela graduação efectuada nas listas de antiguidade podem, no prazo de trinta dias, a contar da publicação no Boletim Oficial ou da recepção do Boletim Judiciário, recorrer para o Ministro do Ultramar ou para o governador da província, conforme os quadros a que pertencem, fazendo acompanhar a petição de tantos duplicados quantos os funcionários a quem o provimento do recurso possa prejudicar.
 
 2. Aqueles a quem o recurso possa causar prejuízo são notificados para, no prazo que for fixado, o contestarem, devendo logo juntar os documentos que julguem convenientes.
 
 3. Quando houver recurso para o Ministro do Ultramar, este decidirá, ouvido o Conselho Superior Judiciário do Ultramar.
 
-###### Art. 83.º Todos os funcionários de justiça cessam o exercício de funções no dia seguinte àquele em que chegue à comarca ou lugar onde servem o Boletim Oficial com o despacho da sua nova situação legal ou igual comunicação feita pelos serviços de justiça competentes.
+Art. 83.º Todos os funcionários de justiça cessam o exercício de funções no dia seguinte àquele em que chegue à comarca ou lugar onde servem o Boletim Oficial com o despacho da sua nova situação legal ou igual comunicação feita pelos serviços de justiça competentes.
 
-###### Art. 84.º - 1. Nenhum funcionário de justiça pode ser colocado em comarca de classe diversa daquela a que pertence.
+Art. 84.º - 1. Nenhum funcionário de justiça pode ser colocado em comarca de classe diversa daquela a que pertence.
 
 2. Os lugares dos serviços de justiça só podem ser ocupados pelas formas previstas neste diploma legal, não podendo em caso algum destacar-se funcionários de um para outro tribunal.
 
-###### Art. 85.º Os funcionários de justiça têm direito a usar armas para a sua defesa, independentemente de licença nos termos da legislação especial que regula o uso e porte de arma, e, quando no exercício de funções próprias do seu cargo, têm livre trânsito em todos os lugares públicos onde se justifique o seu ingresso, mediante a apresentação do bilhete de identidade profissional, passado pela Direcção-Geral de Justiça, e do documento comprovativo da diligência que no recinto público tenham de realizar.
+Art. 85.º Os funcionários de justiça têm direito a usar armas para a sua defesa, independentemente de licença nos termos da legislação especial que regula o uso e porte de arma, e, quando no exercício de funções próprias do seu cargo, têm livre trânsito em todos os lugares públicos onde se justifique o seu ingresso, mediante a apresentação do bilhete de identidade profissional, passado pela Direcção-Geral de Justiça, e do documento comprovativo da diligência que no recinto público tenham de realizar.
 
-###### Art. 86.º Os funcionários de justiça usam capa preta nas sessões e audiências dos tribunais a que tenham de assistir, no exercício das suas funções.
+Art. 86.º Os funcionários de justiça usam capa preta nas sessões e audiências dos tribunais a que tenham de assistir, no exercício das suas funções.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 87.º - 1. Em cada tribunal do ultramar o imposto de justiça, contado nos respectivos processos em qualquer jurisdição, terá o seguinte destino:
+Art. 87.º - 1. Em cada tribunal do ultramar o imposto de justiça, contado nos respectivos processos em qualquer jurisdição, terá o seguinte destino:
 
 a) Na Relação, tribunais criminais, do trabalho, de menores de competência especializada, de execução das penas e julgados municipais de 1.ª classe:
 
@@ -742,7 +750,7 @@ g) Oficiais de diligências e intérpretes em comarcas de 2.ª classe e em julga
 
 6. O escrivão que, sem justa causa, exceder o prazo de remessa à conta e o contador que, por igual razão, exceder em mais de dez dias o prazo de contagem de qualquer processo ou papel, perdem, na participação emolumentar mensal, a quantia correspondente à proporção em que se encontrem os processos remetidos ou contados fora do prazo relativamente aos processos remetidos ou contados com observância do prazo legal.
 
-###### Art. 88.º - 1. Os ajudantes de escrivão de 1.ª classe e de contador, bem como os escrivães dos julgados municipais de 1.ª classe, passam a ficar incluídos no grupo N e os ajudantes de escrivão de 2.ª classe, no grupo O do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 88.º - 1. Os ajudantes de escrivão de 1.ª classe e de contador, bem como os escrivães dos julgados municipais de 1.ª classe, passam a ficar incluídos no grupo N e os ajudantes de escrivão de 2.ª classe, no grupo O do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
 2. Os oficiais de diligências passam a ficar incluídos no grupo Q do mapa I anexo ao mesmo decreto.
 
@@ -750,7 +758,7 @@ g) Oficiais de diligências e intérpretes em comarcas de 2.ª classe e em julga
 
 4. Os escriturários e os intérpretes nos tribunais de comarca e nos julgados municipais de 1.ª classe e o telefonista da Procuradoria da República junto da Relação de Luanda têm a categoria da letra S do mesmo mapa.
 
-###### Art. 89.º - 1. São extintos os seguintes cargos do quadro do pessoal nos tribunais judiciais: ajudante de secretário dos tribunais da Relação, terceiro-oficial e aspirante da Relação de Luanda, auxiliar de distribuidor-geral, aspirante da delegação da Procuradoria da República, dactilógrafo nas delegações da Procuradoria da República dos Tribunais das Comarcas da Guiné e Timor e segundo-oficial e terceiro-oficial da delegação da Procuradoria da República de Macau.
+Art. 89.º - 1. São extintos os seguintes cargos do quadro do pessoal nos tribunais judiciais: ajudante de secretário dos tribunais da Relação, terceiro-oficial e aspirante da Relação de Luanda, auxiliar de distribuidor-geral, aspirante da delegação da Procuradoria da República, dactilógrafo nas delegações da Procuradoria da República dos Tribunais das Comarcas da Guiné e Timor e segundo-oficial e terceiro-oficial da delegação da Procuradoria da República de Macau.
 
 2. São extintos à medida que vagarem os cargos de segundo-escriturário do Tribunal de Polícia de Lourenço Marques.
 
@@ -758,11 +766,11 @@ g) Oficiais de diligências e intérpretes em comarcas de 2.ª classe e em julga
 
 4. Nos Tribunais de Polícia de Lourenço Marques e da Beira o escriturário de 1.ª classe passa a ter simplesmente a designação de escriturário.
 
-###### Art. 90.º Os funcionários que presentemente têm a categoria de auxiliar de distribuidor-geral e aspirante de delegação da Procuradoria da República passam a ter a categoria de dactilógrafo e vão ocupar, independentemente de qualquer formalidade e visto, o respectivo lugar dentro do mesmo tribunal ou cartório, salvo quanto aos aspirantes em cada um dos Tribunais das Comarcas de Benguela, Lobito, Nampula e nas varas cíveis da Beira, que transitam para a 2.ª Vara dos mesmos Tribunais, mantendo a letra da categoria extinta e contando-se, para todos os efeitos, o tempo de serviço anteriormente prestado.
+Art. 90.º Os funcionários que presentemente têm a categoria de auxiliar de distribuidor-geral e aspirante de delegação da Procuradoria da República passam a ter a categoria de dactilógrafo e vão ocupar, independentemente de qualquer formalidade e visto, o respectivo lugar dentro do mesmo tribunal ou cartório, salvo quanto aos aspirantes em cada um dos Tribunais das Comarcas de Benguela, Lobito, Nampula e nas varas cíveis da Beira, que transitam para a 2.ª Vara dos mesmos Tribunais, mantendo a letra da categoria extinta e contando-se, para todos os efeitos, o tempo de serviço anteriormente prestado.
 
-###### Art. 91.º Os actuais primeiro-oficial, segundo-oficial e terceiros-oficiais do quadro do pessoal de secretaria do Tribunal da Relação de Lourenço Marques mantêm a sua actual situação dentro daquele quadro, transitando para o quadro do pessoal da biblioteca do mesmo Tribunal quando esta for criada em regime especial.
+Art. 91.º Os actuais primeiro-oficial, segundo-oficial e terceiros-oficiais do quadro do pessoal de secretaria do Tribunal da Relação de Lourenço Marques mantêm a sua actual situação dentro daquele quadro, transitando para o quadro do pessoal da biblioteca do mesmo Tribunal quando esta for criada em regime especial.
 
-###### Art. 92.º - 1. O escrivão de direito mais antigo em serviço em cada um dos tribunais da Relação de Luanda e Lourenço Marques transita para o lugar de chefe da secção de expediente e contabilidade, independentemente de qualquer formalidade e visto.
+Art. 92.º - 1. O escrivão de direito mais antigo em serviço em cada um dos tribunais da Relação de Luanda e Lourenço Marques transita para o lugar de chefe da secção de expediente e contabilidade, independentemente de qualquer formalidade e visto.
 
 2. Também independentemente de qualquer formalidade e visto, transitam para os lugares de escrivão do 1.º e 2.º Cartórios da Relação de Lourenço Marques, por ordem de antiguidade, os escrivães de direito que, presentemente, neles exerçam o cargo de ajudante de secretário.
 
@@ -772,7 +780,7 @@ g) Oficiais de diligências e intérpretes em comarcas de 2.ª classe e em julga
 
 5. O funcionário que ocupa o lugar de aspirante na Relação de Luanda transita, nos mesmos termos, para o de dactilógrafo na secção de expediente e contabilidade, mantendo a letra da categoria extinta e contando-se, para todos os efeitos, o tempo de serviço prestado na anterior categoria.
 
-###### Art. 93.º - 1. Os actuais escrivães e ajudantes de escrivão que preencham as condições previstas, respectivamente, nos artigos 62.º e 65.º, ascendem à 1.ª classe e conservam os seus lugares independentemente de qualquer formalidade e visto, caso se encontrem prestando serviço em comarcas de 1.ª classe, ou serão colocados nas vagas da classe respectiva criadas pelo [Decreto n.º 241/72](https://diariodarepublica.pt/dr/detalhe/decreto/241-1972-675198), de 19 de Julho, caso se encontrem prestando serviço em comarcas de 2.ª classe, salvo se renunciarem à promoção até se efectivar a colocação.
+Art. 93.º - 1. Os actuais escrivães e ajudantes de escrivão que preencham as condições previstas, respectivamente, nos artigos 62.º e 65.º, ascendem à 1.ª classe e conservam os seus lugares independentemente de qualquer formalidade e visto, caso se encontrem prestando serviço em comarcas de 1.ª classe, ou serão colocados nas vagas da classe respectiva criadas pelo [Decreto n.º 241/72](https://diariodarepublica.pt/dr/detalhe/decreto/241-1972-675198), de 19 de Julho, caso se encontrem prestando serviço em comarcas de 2.ª classe, salvo se renunciarem à promoção até se efectivar a colocação.
 
 2. Os escrivães de direito que, nos termos do presente diploma, devam ser considerados de 2.ª classe, mas se encontrem em comarcas de 1.ª, só ascenderão, na categoria, à 1.ª classe quando satisfizerem os requisitos impostos no artigo 62.º, sem prejuízo de se manterem nos seus actuais lugares, percebendo os vencimentos correspondentes ao grupo J e a participação emolumentar correspondente à classe da comarca em que se encontrarem.
 
@@ -780,23 +788,23 @@ g) Oficiais de diligências e intérpretes em comarcas de 2.ª classe e em julga
 
 4. A renúncia à colocação em comarca de classe superior mantém a sua eficácia pelo prazo de cinco anos, podendo ser ulteriormente renovada por iguais períodos.
 
-###### Art. 94.º Os funcionários dos extintos cargos de dactilógrafo na delegação da Procuradoria da República dos Tribunais das Comarcas da Guiné e Timor transitam para os novos lugares de dactilógrafo nos mesmos Tribunais, independentemente de qualquer formalidade e visto, mantendo a letra da anterior categoria.
+Art. 94.º Os funcionários dos extintos cargos de dactilógrafo na delegação da Procuradoria da República dos Tribunais das Comarcas da Guiné e Timor transitam para os novos lugares de dactilógrafo nos mesmos Tribunais, independentemente de qualquer formalidade e visto, mantendo a letra da anterior categoria.
 
-###### Art. 95.º Os funcionários que ocuparem os lugares de segundo-oficial e terceiro-oficial na delegação da Procuradoria da República de Macau transitam, independentemente de qualquer formalidade e visto, para os de ajudante de escrivão e oficial de diligências do 1.º Cartório, respectivamente, contando-se a antiguidade na categoria a partir da data da entrada em vigor deste diploma.
+Art. 95.º Os funcionários que ocuparem os lugares de segundo-oficial e terceiro-oficial na delegação da Procuradoria da República de Macau transitam, independentemente de qualquer formalidade e visto, para os de ajudante de escrivão e oficial de diligências do 1.º Cartório, respectivamente, contando-se a antiguidade na categoria a partir da data da entrada em vigor deste diploma.
 
-###### Art. 96.º - 1. Quando o movimento judicial o justifique, podem os governos das províncias ultramarinas criar lugares de ajudante de escrivão nos julgados municipais de 1.ª classe, com a categoria da letra Q do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 96.º - 1. Quando o movimento judicial o justifique, podem os governos das províncias ultramarinas criar lugares de ajudante de escrivão nos julgados municipais de 1.ª classe, com a categoria da letra Q do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
 2. Os ajudantes de escrivão dos julgados municipais a que se refere o n.º 1 têm direito a participação emolumentar, em harmonia com o disposto no artigo 87.º deste diploma, referindo-se à categoria da letra H o limite de remuneração estabelecida no mesmo artigo, e podem requerer a admissão ao concurso para ajudante de escrivão de 2.ª classe, em Angola e Moçambique, ou para ajudantes de escrivão, nas restantes províncias, se tiverem dois anos de serviço efectivo e boas informações.
 
-###### Art. 97.º Os encargos criados pelo presente diploma serão cobertos por dotação ou reforço de verbas, logo que para tanto, na província respectiva, se verifiquem as correspondentes disponibilidades orçamentais.
+Art. 97.º Os encargos criados pelo presente diploma serão cobertos por dotação ou reforço de verbas, logo que para tanto, na província respectiva, se verifiquem as correspondentes disponibilidades orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Setembro de 1972.**
+Promulgado em 1 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -808,7 +816,7 @@ Relação de Luanda
 
 Secretário ... 1
 
-#### Secção de expediente e contabilidade
+Secção de expediente e contabilidade
 
 Escrivão de direito ... 1
 
@@ -840,7 +848,7 @@ Relação de Lourenço Marques
 
 Secretário ... 1
 
-#### Secção de expediente e contabilidade
+Secção de expediente e contabilidade
 
 Escrivão de direito ... 1
 
@@ -2058,4 +2066,4 @@ Intérprete ... 1
 
 Dactilógrafo ... 1
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

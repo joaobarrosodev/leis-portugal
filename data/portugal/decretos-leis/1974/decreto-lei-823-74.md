@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 10º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 1670-(190) a 1670-(190)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30310/01900190.pdf
 entry_into_force_dates: []
@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/823-1974-238241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a11c3b578e09e762791f1ada15b0b92879658ec6480822923ffc6ea99274fa1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9aa4956fc971c033d2c649cd098be14e1dcef1a6aa23632062ec901f095f2078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:56Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +109,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As disposições do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), de 20 de Julho de 1948, e subsequentes alterações, adiante indicadas, passam a ter a redacção seguinte:
+Artigo 1.º As disposições do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), de 20 de Julho de 1948, e subsequentes alterações, adiante indicadas, passam a ter a redacção seguinte:
 
 ...
 
-###### Art. 78.º A prestação de trabalho extraordinário carece de autorização do administrador-delegado respectivo e a sua remuneração será calculada segundo valores e condições a aprovar pelo Ministro do Equipamento Social e do Ambiente, sob proposta da Administração-Geral do Porto de Lisboa, ouvido o Ministério do Trabalho.
+Art. 78.º A prestação de trabalho extraordinário carece de autorização do administrador-delegado respectivo e a sua remuneração será calculada segundo valores e condições a aprovar pelo Ministro do Equipamento Social e do Ambiente, sob proposta da Administração-Geral do Porto de Lisboa, ouvido o Ministério do Trabalho.
 
 § 1.º Na falta de fixação de valores para o abono, conforme o disposto neste artigo, a remuneração será igual à estabelecida para a função pública, em geral.
 
@@ -111,11 +121,11 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 ...
 
-###### Art. 80.º A prestação de trabalho nocturno dá direito, qualquer que seja a situação do pessoal que o preste, a um abono horário igual a 50% do valor da correspondente hora de trabalho, normal ou extraordinário.
+Art. 80.º A prestação de trabalho nocturno dá direito, qualquer que seja a situação do pessoal que o preste, a um abono horário igual a 50% do valor da correspondente hora de trabalho, normal ou extraordinário.
 
 ...
 
-###### Art. 82.º Serão concedidos abonos para falhas dos quantitativos mensais adiante indicados ao seguinte pessoal caucionado:
+Art. 82.º Serão concedidos abonos para falhas dos quantitativos mensais adiante indicados ao seguinte pessoal caucionado:
 
 a) Chefe de secção que exercer as funções de tesoureiro-chefe ... 1500$00
 
@@ -123,14 +133,14 @@ b) Outro pessoal do grupo 2.8 (incluindo o suplementar) que exercer funções de
 
 c) Encarregados de outros cofres, como caixas onde se procede diariamente à recolha de dinheiros (cais, entrepostos, cantinas, etc.) ou que movimentem regularmente dinheiros de adiantamentos ... 400$00
 
-###### Art. 2.º Todas as mais disposições reguladoras do trabalho extraordinário e nocturno, específicas da Administração-Geral do Porto de Lisboa, continuam em vigor.
+Art. 2.º Todas as mais disposições reguladoras do trabalho extraordinário e nocturno, específicas da Administração-Geral do Porto de Lisboa, continuam em vigor.
 
-###### Art. 3.º Este diploma produz efeitos desde 26 de Agosto de 1974.
+Art. 3.º Este diploma produz efeitos desde 26 de Agosto de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

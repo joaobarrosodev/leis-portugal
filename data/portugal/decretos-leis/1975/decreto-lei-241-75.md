@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2e46f4516656262b62f192edd5eb643391567ddbe7aa6d974a5ffb176ddcf23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd4c4af9ebf8baf37c02222821da81e0101b6a8886d826cfa6dee58d77ec95b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Curso de Pilotagem Aeronáutica
+- Força Aérea
+relationships:
+- type: cites
+  target: pt:dre:139401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:32Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +104,12 @@ Convindo desde já unificar a formação dos futuros oficiais pilotos aviadores 
 
 Usando da faculdade conferida pelo n.º 1 do artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É revogado o [Decreto-Lei n.º 389/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1970-139401), de 12 de Agosto, mantendo-se, porém, em vigor, na parte aplicável, em relação aos alunos que frequentem actualmente os cursos previstos naquele diploma.
+Artigo único. É revogado o [Decreto-Lei n.º 389/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1970-139401), de 12 de Agosto, mantendo-se, porém, em vigor, na parte aplicável, em relação aos alunos que frequentem actualmente os cursos previstos naquele diploma.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 16 de Maio de 1975.**
+Promulgado em 16 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07200/06200629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1977-139449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 328695901cfe98d723bff87184901965acdbe2c0c46ad1dec04bcf738f0d48ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acb3c9233d371c0477606d8da638ff2f6b5ff58995dd6573c292679ceb2b37db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Contrato
+- Desenvolvimento Económico
+- Dívida Pública
+- Financiamento
+- Kreditanstalt FUR Wiederaufbau
+- Ministro das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:204263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:27Z'
   warnings: []
   errors: []
 ---
@@ -96,39 +117,39 @@ Nestes termos:
 
 Usando da autorização conferida pela [Lei n.º 12/77](https://diariodarepublica.pt/dr/detalhe/lei/12-1977-204263), de 12 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É o Ministro das Finanças autorizado a emitir um empréstimo externo, amortizável, até ao montante de 70 milhões de marcos alemães, denominado «Empréstimo externo de 70 milhões de marcos, 2% - 1977» e a celebrar com o Kreditanstalt für Wiederaufbau o respectivo contrato.
+Artigo 1.º É o Ministro das Finanças autorizado a emitir um empréstimo externo, amortizável, até ao montante de 70 milhões de marcos alemães, denominado «Empréstimo externo de 70 milhões de marcos, 2% - 1977» e a celebrar com o Kreditanstalt für Wiederaufbau o respectivo contrato.
 
-###### Art. 2.º O montante do empréstimo destina-se a fomentar o desenvolvimento económico mediante a execução de obras para defesa contra cheias e para irrigação do Baixo Mondego e irá sendo desembolsado de conformidade com o ritmo da execução do projecto, de harmonia com as cláusulas constantes do contrato.
+Art. 2.º O montante do empréstimo destina-se a fomentar o desenvolvimento económico mediante a execução de obras para defesa contra cheias e para irrigação do Baixo Mondego e irá sendo desembolsado de conformidade com o ritmo da execução do projecto, de harmonia com as cláusulas constantes do contrato.
 
-###### Art. 3.º - 1. O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por um certificado de dívida inscrita, que levará as assinaturas de chancela do Ministro das Finanças, do presidente e de um dos vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta.
+Art. 3.º - 1. O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por um certificado de dívida inscrita, que levará as assinaturas de chancela do Ministro das Finanças, do presidente e de um dos vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta.
 
 2. Para a emissão autorizada por este diploma são dispensadas as formalidades previstas no artigo 20.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936.
 
-###### Art. 4.º Os juros do empréstimo serão de 2% ao ano, pagáveis aos semestres em 30 de Junho e 31 de Dezembro, e serão devidos a partir do dia em que os desembolsos forem debitados e até à data em que os reembolsos forem postos à ordem do Kreditanstalt für Wiederaufbau.
+Art. 4.º Os juros do empréstimo serão de 2% ao ano, pagáveis aos semestres em 30 de Junho e 31 de Dezembro, e serão devidos a partir do dia em que os desembolsos forem debitados e até à data em que os reembolsos forem postos à ordem do Kreditanstalt für Wiederaufbau.
 
-###### Art. 5.º - 1. Sobre o montante do empréstimo ainda não desembolsado será paga ao fim de cada semestre, nos dias 30 de Junho e 31 de Dezembro de cada ano, uma comissão de compromisso de 0,25%, a qual será calculada para um período que começa três meses após a assinatura do contrato e termina no dia em que os desembolsos forem debitados.
+Art. 5.º - 1. Sobre o montante do empréstimo ainda não desembolsado será paga ao fim de cada semestre, nos dias 30 de Junho e 31 de Dezembro de cada ano, uma comissão de compromisso de 0,25%, a qual será calculada para um período que começa três meses após a assinatura do contrato e termina no dia em que os desembolsos forem debitados.
 
 2. A comissão de compromisso vencer-se-á pela primeira vez na data do primeiro pagamento de juros.
 
-###### Art. 6.º O empréstimo será amortizado a partir de 30 de Junho de 1987 em quarenta e uma semestralidades, vencíveis em 30 de Junho e 31 de Dezembro, sendo as primeiras quarenta de DM 1707000,00 e a última de DM 1720000,00.
+Art. 6.º O empréstimo será amortizado a partir de 30 de Junho de 1987 em quarenta e uma semestralidades, vencíveis em 30 de Junho e 31 de Dezembro, sendo as primeiras quarenta de DM 1707000,00 e a última de DM 1720000,00.
 
-###### Art. 7.º Pode o Ministro das Finanças, se assim o entender conveniente, e de harmonia com as cláusulas do contrato a celebrar com o Kreditanstalt, abdicar da utilização de importâncias mutuadas ainda não utilizadas ou proceder à amortização antecipada, total ou parcial, dos montantes em dívida.
+Art. 7.º Pode o Ministro das Finanças, se assim o entender conveniente, e de harmonia com as cláusulas do contrato a celebrar com o Kreditanstalt, abdicar da utilização de importâncias mutuadas ainda não utilizadas ou proceder à amortização antecipada, total ou parcial, dos montantes em dívida.
 
-###### Art. 8.º O certificado de dívida inscrita representativo deste empréstimo goza dos direitos, isenções e garantias concedidos aos títulos de dívida pública que lhe sejam aplicáveis e fica também isento do imposto sobre as sucessões e doações.
+Art. 8.º O certificado de dívida inscrita representativo deste empréstimo goza dos direitos, isenções e garantias concedidos aos títulos de dívida pública que lhe sejam aplicáveis e fica também isento do imposto sobre as sucessões e doações.
 
-###### Art. 9.º No Orçamento Geral do Estado serão inscritas as verbas necessárias para ocorrer aos encargos do empréstimo a que se refere o presente diploma, não devendo, porém, o encargo efectivo de juro do mesmo, excluídas as despesas da sua representação, exceder 4%.
+Art. 9.º No Orçamento Geral do Estado serão inscritas as verbas necessárias para ocorrer aos encargos do empréstimo a que se refere o presente diploma, não devendo, porém, o encargo efectivo de juro do mesmo, excluídas as despesas da sua representação, exceder 4%.
 
-###### Art. 10.º As despesas com a emissão, incluindo os trabalhos extraordinários que a sua organização justificar e foram autorizados, serão pagas por força das dotações do Ministério das Finanças para o corrente ano económico, inscritas no capítulo 19.º, classificação económica 44.09, n.º 1.
+Art. 10.º As despesas com a emissão, incluindo os trabalhos extraordinários que a sua organização justificar e foram autorizados, serão pagas por força das dotações do Ministério das Finanças para o corrente ano económico, inscritas no capítulo 19.º, classificação económica 44.09, n.º 1.
 
-###### Art. 11.º Este diploma entra em vigor no dia da sua publicação.
+Art. 11.º Este diploma entra em vigor no dia da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONTRATO DE EMPRÉSTIMO ENTRE O KREDITANSTALT FÜR WIEDERAUFBAU, FRANKFURT/MAIN (A SEGUIR DESIGNADO POR «KREDITANSTALT»), E A REPÚBLICA PORTUGUESA (A SEGUIR DESIGNADA POR «MUTUÁRIA»), NO MONTANTE DE DM 70000000,00.
 
@@ -390,39 +411,39 @@ Contrato de Arbitragem
 
 Com referência ao n.º 6 do artigo X do Contrato de Empréstimo entre o Kreditanstalt für Wiederaufbau, Frankfurt/Main (a seguir designado por «Kreditanstalt»), e a República Portuguesa (a seguir designada por «Mutuária»), o Kreditanstalt e a Mutuária acordam o seguinte:
 
-###### ARTIGO 1
+ARTIGO 1
 
 Todas as divergências resultantes do Contrato de Empréstimo, inclusive as divergências relativas à validade do Contrato de Empréstimo e do presente Contrato de Arbitragem, serão resolvidas exclusivamente e em última instância por um tribunal de arbitragem, desde que as Partes Contratantes não cheguem a acordo.
 
-###### ARTIGO 2
+ARTIGO 2
 
 Partes litigantes do processo são o Kreditanstalt e a Mutuária.
 
-###### ARTIGO 3
+ARTIGO 3
 
 1. Se as partes não chegarem a acordo sobre o único árbitro, o tribunal de arbitragem será constituído por três membros, designados da seguinte maneira: um árbitro pelo Kreditanstalt, um segundo árbitro pela Mutuária e o terceiro árbitro (a seguir designado por «presidente») por acordo das partes litigantes. Se não se conseguir tal acordo no prazo de sessenta dias, a contar da data de recebimento da reclamação pelo reclamado, o terceiro árbitro, a pedido de uma das partes litigantes, será designado pelo presidente da Câmara de Comércio Internacional ou, em sua substituição, pelo presidente do Grupo Regional Suíço da Câmara de Comércio Internacional. Se uma das partes litigantes deixar de indicar um árbitro, este será indicado pelo presidente.
 
 2. Se um árbitro designado de conformidade com estas normas não quiser ou não puder exercer ou continuar a exercer as suas funções, o seu sucessor será designado de modo análogo ao do árbitro inicial. O sucessor terá todos os poderes e deveres do árbitro inicial.
 
-###### ARTIGO 4
+ARTIGO 4
 
 1. O processo de arbitragem terá início quando uma das partes litigantes apresentar à outra, por escrito, o documento que especifique as reclamações, medidas e indemnizações pretendidas e, bem assim, o nome do árbitro escolhido pelo reclamante.
 
 2. O reclamado deverá indicar ao reclamante, no prazo de trinta dias a contar do recebimento da reclamação, o nome do árbitro por ele designado.
 
-###### ARTIGO 5
+ARTIGO 5
 
-**O presidente estabelece a data da reunião do tribunal de arbitragem. Se as partes litigantes não chegarem a um acordo sobre o local da reunião do tribunal, esta indcação será feita igualmente pelo presidente.**
+O presidente estabelece a data da reunião do tribunal de arbitragem. Se as partes litigantes não chegarem a um acordo sobre o local da reunião do tribunal, esta indcação será feita igualmente pelo presidente.
 
-###### ARTIGO 6
+ARTIGO 6
 
 O tribunal de arbitragem decide sobre a sua competência. Estabelece as normas do processo, tomando por base normas geralmente adoptadas. Em qualquer caso as partes litigantes devem ter o direito de audiência, em sessão ordinária. O tribunal estará autorizado, porém, a tomar decisões também no caso de não comparência de uma das partes litigantes. Todas as decisões do tribunal exigem a aprovação de pelo menos dois árbitros.
 
-###### ARTIGO 7
+ARTIGO 7
 
 O tribunal de arbitragem deve proferir e justificar por escrito a sua sentença. Uma sentença assinada pelo menos por dois árbitros é valida como sentença do tribunal de arbitragem. Cada uma das partes recebe um exemplar assinado nos termos da sentença. A sentença é obrigatória e definitiva. Pela assinatura do presente Contrato ambas as partes comprometem-se a cumprir a sentença arbitral.
 
-###### ARTIGO 8
+ARTIGO 8
 
 1. As partes litigantes estabelecem os honorários dos árbitros e das pessoas necessárias para a execução do processo.
 
@@ -432,7 +453,7 @@ O tribunal de arbitragem deve proferir e justificar por escrito a sua sentença.
 
 4. As partes litigantes responsabilizam-se solidariamente pelo pagamento integral dos honorários das pessoas referidas no número 1.
 
-###### ARTIGO 9
+ARTIGO 9
 
 Todas as declarações e comunicações das partes litigantes e do tribunal de arbitragem relacionadas com a realização do processo de arbitragem serão por escrito. Consideram-se recebidas quando tiverem dado entrada nos seguintes endereços da Parte Contratante respectiva:
 
@@ -462,6 +483,6 @@ Pela República Portuguesa:
 
 Henrique Medina Carreira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/07200/06200629.pdf))](https://files.diariodarepublica.pt/1s/1977/03/07200/06200629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07200/06200629.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

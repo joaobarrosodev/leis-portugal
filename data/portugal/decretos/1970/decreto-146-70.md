@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/146-1970-225847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44d51469b095c0f5cc4691a3585e33a45ad30afd5cb673ddbf4dd15ae6f335ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3eee16da1b4219056404edc70e55795b5c9593b25718b7c59434a34a0a81850
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:390625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479235:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:49Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +97,17 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao artigo 34.º do [Decreto n.º 47314](https://diariodarepublica.pt/dr/detalhe/decreto/47314-1966-479235), de 15 de Novembro de 1966, é aditado o n.º 3, com a seguinte redacção:
+Artigo 1.º Ao artigo 34.º do [Decreto n.º 47314](https://diariodarepublica.pt/dr/detalhe/decreto/47314-1966-479235), de 15 de Novembro de 1966, é aditado o n.º 3, com a seguinte redacção:
 
 3. Nas sedes de comarca a comissão arbitral será presidida pelo administrador do concelho.
 
-###### Art. 2.º É revogada a [Portaria n.º 22862](https://diariodarepublica.pt/dr/detalhe/portaria/22862-1967-390625), de 1 de Setembro de 1967.
+Art. 2.º É revogada a [Portaria n.º 22862](https://diariodarepublica.pt/dr/detalhe/portaria/22862-1967-390625), de 1 de Setembro de 1967.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Abril de 1970.**
+Promulgado em 3 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 9 de Abril de 1970. - AMÉRICO DEUS RODRIGUES TROMAZ.
 

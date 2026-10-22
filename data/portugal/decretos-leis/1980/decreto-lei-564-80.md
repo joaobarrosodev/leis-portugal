@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28200/40814084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1980-458992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3cbb56fb87063cd386fdc1e1f9023190ec7042313e367d6d79161c2c93e3f4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee48d0f3a1fb67e71f3e5d6c96586823d6107114729701011b4c7b920e5fda59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Embarcação de Recreio
+- Embarcação Estrangeira
+- Fretamento
+- Licenciamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:276448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374256:por
+  label: "Alterados os artigos 2.&#186;, 5.&#186;, 7.&#186;, 14.&#186;, 19.&#186;, 23.&#186;, 29.&#186;, 30.&#186;, 31.&#186;,\
+    \ 32.&#186; e 33.&#186;, aditado o artigo 28.&#186;-A, revogados os artigos 20.&#186;, 21 e 22.&#186;, pelo DEC LEI.200/88.31.05.1988.MOPTC,\
+    \ DR.IS [126] de 31.05.1988, e consideradas pelo mesmo diploma, como feitas &#224;s capitanias dos portos as refer&#234;ncias\
+    \ &#224;s reparti&#231;&#245;es mar&#237;timas nos artigos 3.&#186;, n.&#186; 2, 7.&#186;, n.&#186; 2, 11.&#186;, al&#237;neas\
+    \ a) e e), 12.&#186;, 13.&#186;, n.&#186; 1, 15.&#186;, n.&#186; 4, 17.&#186;, n.&#186; 2, 18.&#186;, n.&#186; 3, e 26.&#186;\
+    \ do presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1988-374256
+  date: '1988-05-31'
+- type: cites
+  target: pt:dre:296871:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276448:por
+  label: "Revogado pelo DEC LEI.21/2002.2002.01.31.MES DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2002-276448
+  date: '2002-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:51Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +121,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos do disposto no presente diploma consideram-se:
+Artigo 1.º Para efeitos do disposto no presente diploma consideram-se:
 
 a) Embarcações auxiliares locais ou de porto, as que operam dentro dos portos e respectivos rios, rias, lagos, lagoas e esteiros e, em geral, dentro das águas interiores da área de jurisdição da capitania ou delegação marítima em que estão registadas;
 
@@ -110,21 +135,21 @@ e) Actividades marítimo-turísticas, as actividades de aprazimento, desportivas
 
 f) Pessoa, toda a pessoa singular ou toda a pessoa colectiva de direito público ou de direito privado.
 
-###### Art. 2.º A exploração de embarcações em actividades marítimo-turísticas é limitada a pessoas nacionais e a estrangeiras residentes que se encontrem inscritas nas repartições marítimas competentes (capitanias ou delegações marítimas).
+Art. 2.º A exploração de embarcações em actividades marítimo-turísticas é limitada a pessoas nacionais e a estrangeiras residentes que se encontrem inscritas nas repartições marítimas competentes (capitanias ou delegações marítimas).
 
-###### Art. 3.º - 1 - O exercício da actividade a que se refere o artigo 2.º será autorizado pelo Ministro dos Transportes e Comunicações (MTC) sempre que qualquer pessoa pretenda registar a seu favor, num mínimo, uma embarcação com pelo menos 5 tAB, ou três embarcações cada uma com um mínimo de 2 tAB.
+Art. 3.º - 1 - O exercício da actividade a que se refere o artigo 2.º será autorizado pelo Ministro dos Transportes e Comunicações (MTC) sempre que qualquer pessoa pretenda registar a seu favor, num mínimo, uma embarcação com pelo menos 5 tAB, ou três embarcações cada uma com um mínimo de 2 tAB.
 
 2 - Se apenas se pretender registar embarcações de tonelagem inferior à referida no n.º 1 deste artigo ou utilizar embarcações dispensadas de registo, o exercício da actividade será autorizado pelas repartições marítimas com competência na área onde venha a situar-se o respectivo exercício.
 
-###### Art. 4.º O exercício da actividade prevista neste diploma pode desenvolver-se quer sob a forma de prestação directa de serviços, quer sob a forma de aluguer de embarcações.
+Art. 4.º O exercício da actividade prevista neste diploma pode desenvolver-se quer sob a forma de prestação directa de serviços, quer sob a forma de aluguer de embarcações.
 
-###### Art. 5.º - 1 - Obtida a competente autorização para o exercício da actividade, as pessoas interessadas efectuarão a sua inscrição nas repartições marítimas em cuja área venha a situar-se o respectivo exercício.2 - A actividade será exercida nas condições que forem expressamente indicadas pelas pessoas interessadas e constarem do processo de inscrição.
+Art. 5.º - 1 - Obtida a competente autorização para o exercício da actividade, as pessoas interessadas efectuarão a sua inscrição nas repartições marítimas em cuja área venha a situar-se o respectivo exercício.2 - A actividade será exercida nas condições que forem expressamente indicadas pelas pessoas interessadas e constarem do processo de inscrição.
 
-###### Art. 6.º - 1 - A inscrição deverá ser efectuada num período máximo de três meses, contados a partir da data da comunicação da competente autorização às pessoas interessadas.
+Art. 6.º - 1 - A inscrição deverá ser efectuada num período máximo de três meses, contados a partir da data da comunicação da competente autorização às pessoas interessadas.
 
 2 - A não observância do prazo referido no n.º 1 deste artigo obriga, para efeitos de exercício da actividade, a novo pedido de autorização.
 
-###### Art. 7.º - 1 - No exercício decorrente da exploração de embarcações em actividades marítimo-turísticas só poderão ser utilizadas embarcações nacionais registadas a favor de nacionais ou de estrangeiros residentes ou embarcações estrangeiras fretadas nos termos previstos neste diploma.
+Art. 7.º - 1 - No exercício decorrente da exploração de embarcações em actividades marítimo-turísticas só poderão ser utilizadas embarcações nacionais registadas a favor de nacionais ou de estrangeiros residentes ou embarcações estrangeiras fretadas nos termos previstos neste diploma.
 
 2 - Para efeitos do disposto no número anterior e sem prejuízo do que consta dos n.os 3 e 4 deste artigo, é obrigatório o registo das embarcações nas repartições marítimas como embarcações auxiliares locais ou de porto, costeiras ou de alto.
 
@@ -140,7 +165,7 @@ c) As embarcações, qualquer que seja o seu registo, quando pertencentes a insc
 
 d) As embarcações, qualquer que seja o seu registo, quando utilizadas nos termos do artigo 14.º deste diploma.
 
-###### Art. 8.º - 1 - As embarcações registadas, nos termos do n.º 2 do artigo anterior, só poderão operar dentro dos limites (áreas de navegação) que constarem dos respectivos registos.
+Art. 8.º - 1 - As embarcações registadas, nos termos do n.º 2 do artigo anterior, só poderão operar dentro dos limites (áreas de navegação) que constarem dos respectivos registos.
 
 2 - É permitido, no entanto, às embarcações auxiliares locais ou de porto fazer navegação costeira nas seguintes zonas:
 
@@ -174,7 +199,7 @@ b) As referidas embarcações se encontrem munidas de certificado de navegabilid
 
 4 - A vistoria a que se refere o número anterior deste artigo não isenta a embarcação das vistorias normais de manutenção a que a mesma se encontra obrigada.
 
-###### Art. 9.º - 1 - Depois de competentemente autorizados e de efectuada a necessária inscrição, só poderão exercer a presente actividade, ressalvados os casos previstos nos artigos 11.º, 12.º, 13.º e 14.º, as pessoas que:
+Art. 9.º - 1 - Depois de competentemente autorizados e de efectuada a necessária inscrição, só poderão exercer a presente actividade, ressalvados os casos previstos nos artigos 11.º, 12.º, 13.º e 14.º, as pessoas que:
 
 a) Tendo apenas registado a seu favor embarcações até 2 tAB, inclusive, sejam proprietárias de, pelo menos, seis embarcações, sendo uma delas obrigatoriamente equipada com motor e destinada a apoio;
 
@@ -182,11 +207,11 @@ b) Tendo registado a seu favor embarcações com mais de 2 tAB, sejam proprietá
 
 2 - Para efeitos do disposto na alínea a) do n.º 1 deste artigo ter-se-ão em conta as embarcações não obrigatoriamente sujeitas a registo.
 
-###### Art. 10.º - 1 - O registo das embarcações, a que se refere o n.º 2 do artigo 7.º deste diploma, será efectuado no prazo máximo de doze meses contados a partir da data da competente autorização.
+Art. 10.º - 1 - O registo das embarcações, a que se refere o n.º 2 do artigo 7.º deste diploma, será efectuado no prazo máximo de doze meses contados a partir da data da competente autorização.
 
 2 - A inobservância deste prazo, quando não justificada por casos de força maior, obriga a novo pedido de autorização e, em consequência, a nova inscrição para exercício da presente actividade.
 
-###### Art. 11.º A exploração de embarcações atracadas ou fundeadas, sem meios de locomoção, próprios ou selados, em actividades marítimo-turísticas está sujeita aos condicionalismos seguintes:
+Art. 11.º A exploração de embarcações atracadas ou fundeadas, sem meios de locomoção, próprios ou selados, em actividades marítimo-turísticas está sujeita aos condicionalismos seguintes:
 
 a) Autorização das repartições marítimas com jurisdição na área onde se pretenda exercer a respectiva actividade;
 
@@ -198,19 +223,19 @@ d) Parecer favorável da Inspecção-Geral de Navios (IGN) no que se refere à s
 
 e) Registo da embarcação na repartição marítima competente, como embarcação auxiliar local ou de porto.
 
-###### Art. 12.º Independentemente do estipulado no artigo 9.º, as agências de viagem e turismo poderão, depois de autorizadas pelas repartições marítimas com competência na área onde se pretenda exercer a respectiva actividade e sem prejuízo do que se dispõe quanto ao regime de inscrição, proceder ao fretamento de embarcações registadas a favor de pessoas inscritas nos termos do presente diploma, tendo em vista a prestação de serviços complementares da sua actividade.
+Art. 12.º Independentemente do estipulado no artigo 9.º, as agências de viagem e turismo poderão, depois de autorizadas pelas repartições marítimas com competência na área onde se pretenda exercer a respectiva actividade e sem prejuízo do que se dispõe quanto ao regime de inscrição, proceder ao fretamento de embarcações registadas a favor de pessoas inscritas nos termos do presente diploma, tendo em vista a prestação de serviços complementares da sua actividade.
 
-###### Art. 13.º - 1 - Independentemente do estipulado no artigo 9.º, os inscritos marítimos poderão, depois de autorizados pelas repartições marítimas competentes, exercer as actividades previstas neste diploma.
+Art. 13.º - 1 - Independentemente do estipulado no artigo 9.º, os inscritos marítimos poderão, depois de autorizados pelas repartições marítimas competentes, exercer as actividades previstas neste diploma.
 
 2 - A autorização apenas será concedida em relação a uma embarcação pertencente ao inscrito marítimo interessado que não exceda 2 tAB, qualquer que seja o seu registo.
 
 3 - A autorização será temporária e, enquanto durar, a embarcação não pode ser utilizada em quaisquer outras actividades.
 
-###### Art. 14.º - 1 - Quando em determinada área não exista qualquer exploração de embarcações em actividades marítimo-turísticas, as repartições marítimas competentes poderão autorizar que, nesta área, pessoas nacionais ou estrangeiras residentes exerçam tais actividades, não se lhes exigindo, para tanto, o cumprimento das disposições que, no presente diploma, se referem especificamente quer à inscrição, quer ao registo de embarcações.
+Art. 14.º - 1 - Quando em determinada área não exista qualquer exploração de embarcações em actividades marítimo-turísticas, as repartições marítimas competentes poderão autorizar que, nesta área, pessoas nacionais ou estrangeiras residentes exerçam tais actividades, não se lhes exigindo, para tanto, o cumprimento das disposições que, no presente diploma, se referem especificamente quer à inscrição, quer ao registo de embarcações.
 
 2 - A autorização a que se refere o n.º 1 deste artigo será sempre concedida, tendo em vista a realização de uma certa e determinada viagem turística, apenas podendo ser utilizadas, para o efeito, embarcações próprias registadas em território nacional.
 
-###### Art. 15.º - 1 - Para efeitos do exercício da actividade prevista neste diploma, o fretamento de embarcações nacionais ou de embarcações estrangeiras só pode ser realizado por pessoas que tenham registado nos termos deste diploma e a seu favor uma embarcação com, pelo menos, 5 tAB ou três embarcações cada uma com um mínimo de 2 tAB.
+Art. 15.º - 1 - Para efeitos do exercício da actividade prevista neste diploma, o fretamento de embarcações nacionais ou de embarcações estrangeiras só pode ser realizado por pessoas que tenham registado nos termos deste diploma e a seu favor uma embarcação com, pelo menos, 5 tAB ou três embarcações cada uma com um mínimo de 2 tAB.
 
 2 - Por portaria do Ministro dos Transportes e Comunicações serão fixadas as condições limites ao recurso ao afretamento de embarcações estrangeiras, as quais em qualquer caso nunca poderão exceder os seguintes limites:
 
@@ -222,19 +247,19 @@ b) O número de embarcações fretadas não poderá exceder o dobro das embarca�
 
 4 - Os fretamentos, quer de embarcações nacionais, quer de embarcações estrangeiras, carecem da competente autorização da Direcção-Geral da Marinha de Comércio (DGMC), precedida do parecer favorável das repartições marítimas competentes, bem como de idêntico parecer da IGM no que respeita a condições de segurança.
 
-###### Art. 16.º É vedado o subaluguer de embarcações destinadas ao exercício da actividade prevista neste diploma.
+Art. 16.º É vedado o subaluguer de embarcações destinadas ao exercício da actividade prevista neste diploma.
 
-###### Art. 17.º - 1 - Para o exercício da presente actividade, as pessoas interessadas ficam obrigadas ao seguro, quer das embarcações, quer das pessoas embarcadas.
+Art. 17.º - 1 - Para o exercício da presente actividade, as pessoas interessadas ficam obrigadas ao seguro, quer das embarcações, quer das pessoas embarcadas.
 
 2 - As pessoas interessadas ficam ainda obrigadas a comunicar às repartições marítimas competentes os sistemas tarifários que vierem a fixar com uma antecedência mínima de três meses, a contar do início da actividade em cada ano, que por sua vez os darão a conhecer, em tempo oportuno, à Direcção-Geral de Turismo.
 
-###### Art. 18.º - 1 - As embarcações até 0,5 tAB poderão operar até 300 m da costa.
+Art. 18.º - 1 - As embarcações até 0,5 tAB poderão operar até 300 m da costa.
 
 2 - As embarcações com mais de 0,5 tAB e até 2 tAB poderão operar até 3 milhas da costa.
 
 3 - Tendo em conta as condições locais, bem como o tipo de embarcações a utilizar, os limites previstos nos números anteriores deste artigo poderão ser reduzidos ou aumentados pelas repartições marítimas competentes.
 
-###### Art. 19.º - 1 - As embarcações até 20 tAB, com excepção das dispensadas de registo, só poderão ser governadas por nacionais devidamente encartados ou por estrangeiros que exibam documento comprovativo de valor equivalente, emitido pela entidade competente do seu país.
+Art. 19.º - 1 - As embarcações até 20 tAB, com excepção das dispensadas de registo, só poderão ser governadas por nacionais devidamente encartados ou por estrangeiros que exibam documento comprovativo de valor equivalente, emitido pela entidade competente do seu país.
 
 2 - O disposto no n.º 1 deste artigo aplica-se igualmente às embarcações cujo meio de propulsão principal seja a vela, independentemente da sua tonelagem e do regime de exploração, admitindo-se neste caso a prestação de serviços desde que as embarcações sejam governadas pelos seus proprietários e ou operadores.
 
@@ -242,23 +267,23 @@ b) O número de embarcações fretadas não poderá exceder o dobro das embarca�
 
 4 - O número de tripulantes será fixado pelas repartições marítimas para as embarcações auxiliares locais ou de porto e costeiras e pela Direcção-Geral do Pessoal do Mar e Estudos Náuticos, mediante parecer da comissão de lotações para as embarcações auxiliares do alto.
 
-###### Art. 20.º A aquisição, a construção ou a modificação de embarcações registadas ou a registar em território nacional ou a construir ou modificar em estaleiros nacionais por pessoas nacionais ou estrangeiras residentes, com vista ao exercício das actividades marítimo-turísticas, carece de autorização do Ministro dos Transportes e Comunicações, ouvidas a IGN e a DGNC.
+Art. 20.º A aquisição, a construção ou a modificação de embarcações registadas ou a registar em território nacional ou a construir ou modificar em estaleiros nacionais por pessoas nacionais ou estrangeiras residentes, com vista ao exercício das actividades marítimo-turísticas, carece de autorização do Ministro dos Transportes e Comunicações, ouvidas a IGN e a DGNC.
 
-###### Art. 21.º A aquisição, a construção ou a modificação de embarcações no estrangeiro a registar ou registadas em território nacional por pessoas nacionais ou estrangeiras residentes, com vista ao exercício da actividade prevista neste diploma, carece de autorização do Ministro dos Transportes e Comunicações, sem prejuízo do disposto no artigo anterior ou de outra legislação aplicável.
+Art. 21.º A aquisição, a construção ou a modificação de embarcações no estrangeiro a registar ou registadas em território nacional por pessoas nacionais ou estrangeiras residentes, com vista ao exercício da actividade prevista neste diploma, carece de autorização do Ministro dos Transportes e Comunicações, sem prejuízo do disposto no artigo anterior ou de outra legislação aplicável.
 
-###### Art. 22.º A alienação a qualquer título de embarcações registadas nos termos deste diploma a estrangeiros não residentes carece de autorização do MTC, precedida de parecer favorável da Direcção-Geral da Marinha de Comércio.
+Art. 22.º A alienação a qualquer título de embarcações registadas nos termos deste diploma a estrangeiros não residentes carece de autorização do MTC, precedida de parecer favorável da Direcção-Geral da Marinha de Comércio.
 
-###### Art. 23.º A construção ou a modificação de embarcações a que se referem os artigos 20.º e 21.º deste diploma ficam sujeitas, no que lhes for aplicável, às formalidades previstas na legislação em vigor para as embarcações mercantes.
+Art. 23.º A construção ou a modificação de embarcações a que se referem os artigos 20.º e 21.º deste diploma ficam sujeitas, no que lhes for aplicável, às formalidades previstas na legislação em vigor para as embarcações mercantes.
 
-###### Art. 24.º As embarcações que venham a ser registadas nos termos do presente diploma ficarão sujeitas aos requisitos e periodicidade de fiscalização referentes às embarcações mercantes da mesma tonelagam e a tudo o que respeitar a documentação de bordo.
+Art. 24.º As embarcações que venham a ser registadas nos termos do presente diploma ficarão sujeitas aos requisitos e periodicidade de fiscalização referentes às embarcações mercantes da mesma tonelagam e a tudo o que respeitar a documentação de bordo.
 
-###### Art. 25.º - 1 - Todos os documentos de bordo conterão a anotação visível: «Actividades marítimo-turísticas».
+Art. 25.º - 1 - Todos os documentos de bordo conterão a anotação visível: «Actividades marítimo-turísticas».
 
 2 - Sem prejuízo do que foi exigido pela legislação em vigor, as embarcações registadas nos termos deste diploma deverão conter em local bem visível uma sigla e um número de ordem representativos da pessoa que as explora, bem como uma chapa sinalética no interior da embarcação contendo o seu nome, residência ou sede, a arqueação bruta e a lotação máxima da embarcação para bom e mau tempo.
 
-###### Art. 26.º Sempre que circunstâncias locais o exijam, poderão as repartições marítimas fixar as medidas de segurança que entenderem por convenientes, com vista ao normal exercício desta actividade.
+Art. 26.º Sempre que circunstâncias locais o exijam, poderão as repartições marítimas fixar as medidas de segurança que entenderem por convenientes, com vista ao normal exercício desta actividade.
 
-###### Art. 27.º - 1 - O cancelamento da inscrição ocorrerá sempre que se verifique uma das seguintes situações:
+Art. 27.º - 1 - O cancelamento da inscrição ocorrerá sempre que se verifique uma das seguintes situações:
 
 a) Alienação ou penhora da totalidade das suas embarcações;
 
@@ -268,30 +293,30 @@ c) Violação grave e reiterada das leis e regulamentos aplicáveis.
 
 2 - A inscrição será suspensa quando por mais de três meses a tonelagem global das embarcações tiver sido reduzida para além do limite fixado no artigo 9.º e enquanto se mantiver essa redução.
 
-###### Art. 28.º Pelos serviços prestados os organismos competentes cobrarão as importâncias previstas na legislação em vigor para as embarcações mercantes.
+Art. 28.º Pelos serviços prestados os organismos competentes cobrarão as importâncias previstas na legislação em vigor para as embarcações mercantes.
 
-###### Art. 29.º O exercício da actividade prevista neste diploma sem a competente autorização implica para o infractor uma multa de 10000$00 a 100000$00, dependendo do valor da embarcação ou embarcações indevidamente utilizadas.
+Art. 29.º O exercício da actividade prevista neste diploma sem a competente autorização implica para o infractor uma multa de 10000$00 a 100000$00, dependendo do valor da embarcação ou embarcações indevidamente utilizadas.
 
-###### Art. 30.º - 1 - Qualquer infracção ao disposto no artigo 16.º deste diploma acarreta para o infractor (subalugador da embarcação) o pagamento de uma multa no valor de 2000$00 por tonelagem de arqueação bruta ou fracção relativamente à embarcação subalugada.
+Art. 30.º - 1 - Qualquer infracção ao disposto no artigo 16.º deste diploma acarreta para o infractor (subalugador da embarcação) o pagamento de uma multa no valor de 2000$00 por tonelagem de arqueação bruta ou fracção relativamente à embarcação subalugada.
 
 2 - Tratando-se de embarcações não obrigatoriamente sujeitas a registo, a multa a aplicar por força do disposto no n.º 1 deste artigo será de 2000$00 por embarcação.
 
-###### Art. 31.º Qualquer infracção ao disposto no artigo 18.º deste diploma acarreta para o infractor (responsável pelo governo da embarcação) o pagamento de uma multa no valor de 5000$00.
+Art. 31.º Qualquer infracção ao disposto no artigo 18.º deste diploma acarreta para o infractor (responsável pelo governo da embarcação) o pagamento de uma multa no valor de 5000$00.
 
-###### Art. 32.º Qualquer infracção ao que se dispõe no artigo 19.º deste diploma implica para o infractor (proprietário ou afretador da embarcação) o pagamento de uma multa no valor de 20000$00.
+Art. 32.º Qualquer infracção ao que se dispõe no artigo 19.º deste diploma implica para o infractor (proprietário ou afretador da embarcação) o pagamento de uma multa no valor de 20000$00.
 
-###### Art. 33.º As verbas obtidas em resultado das multas aplicadas aos infractores por força do que se dispõe neste diploma reverterão a favor do Instituto de Socorros a Náufragos e ser-lhes-ão entregues anualmente pelas repartições marítimas respectivas.
+Art. 33.º As verbas obtidas em resultado das multas aplicadas aos infractores por força do que se dispõe neste diploma reverterão a favor do Instituto de Socorros a Náufragos e ser-lhes-ão entregues anualmente pelas repartições marítimas respectivas.
 
-###### Art. 34.º O disposto nos artigos 28.º a 32.º não prejudica a aplicação de outras normas sancionárias em vigor por infracções decorrentes do exercício da actividade prevista neste diploma.
+Art. 34.º O disposto nos artigos 28.º a 32.º não prejudica a aplicação de outras normas sancionárias em vigor por infracções decorrentes do exercício da actividade prevista neste diploma.
 
-###### Art. 35.º Ao Ministro dos Transportes e Comunicações compete fazer publicar por portaria a regulamentação do disposto no presente diploma, bem como resolver por despacho todas as dúvidas que possam surgir na aplicação e execução do mesmo.
+Art. 35.º Ao Ministro dos Transportes e Comunicações compete fazer publicar por portaria a regulamentação do disposto no presente diploma, bem como resolver por despacho todas as dúvidas que possam surgir na aplicação e execução do mesmo.
 
-###### Art. 36.º O presente decreto-lei entra imediatamente em vigor após a publicação da portaria a que se refere o artigo anterior e revoga o [Decreto n.º 79/78](https://diariodarepublica.pt/dr/detalhe/decreto/79-1978-296871), de 4 de Agosto.
+Art. 36.º O presente decreto-lei entra imediatamente em vigor após a publicação da portaria a que se refere o artigo anterior e revoga o [Decreto n.º 79/78](https://diariodarepublica.pt/dr/detalhe/decreto/79-1978-296871), de 4 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 25 de Novembro de 1980.**
+Promulgado em 25 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

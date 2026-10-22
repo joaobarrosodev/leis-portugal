@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17400/17111712.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/619-1976-430794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 992f044eae59c3153a06cf93c395118db745d5f69ca3c308f4fd8cc5438cd972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d352595a824b52c43736c9f1e277b297521a31fa236d94460b640bdc4c4f47b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Penal
+- Contra-ordenação
+- Direito Fiscal
+- Direito Penal Económico
+- Fraude Fiscal
+- Infracção Fiscal
+- Regime Jurídico
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:248175:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:248175:por
+  label: "Revogado pelo DEC LEI.20-A/90.1990.01.15.MF DR.IS [12]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-a-1990-248175
+  date: '1990-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:47Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +143,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Constituem infracções tributárias punidas com pena de prisão os factos seguintes:
+Artigo 1.º - 1. Constituem infracções tributárias punidas com pena de prisão os factos seguintes:
 
 a) A viciação, falsificação, ocultação, destruição e inutilização de escrita ou dos documentos com ela relacionados;
 
@@ -144,7 +157,7 @@ e) A simulação de contrato ou de transacção; f) A não entrega total ou parc
 
 2. As infracções tributárias descritas nas diversas Leis tributárias mantém-se desde que não contrariem o disposto no n.º 1.
 
-###### Art. 2.º - 1. Será aplicada a pena de prisão até:
+Art. 2.º - 1. Será aplicada a pena de prisão até:
 
 a) Trinta dias, se o valor do imposto não exceder 10000$00;
 
@@ -158,19 +171,19 @@ e) Doze meses, se exceder 100000$00.
 
 2. Se não for possível determinar o imposto em falta, a pena de prisão será graduada entre vinte dias e um ano.
 
-###### Art. 3.º A pena de prisão nunca exonera do pagamento do imposto.
+Art. 3.º A pena de prisão nunca exonera do pagamento do imposto.
 
-###### Art. 4.º - 1. A pena de prisão pode ser substituída por multa.
+Art. 4.º - 1. A pena de prisão pode ser substituída por multa.
 
 2. A multa não poderá ser inferior a 500$00 nem superior a 1000$00, por dia, e será fixada de acordo com a actividade exercida e com o montante do imposto em causa.
 
-###### Art. 5.º - 1. Se a multa em que foi convertida a pena de prisão não for paga, o arguido será preso pelo tempo correspondente à prisão fixada, depois de se verificar que não possuía bens penhoráveis em processo de execução fiscal.
+Art. 5.º - 1. Se a multa em que foi convertida a pena de prisão não for paga, o arguido será preso pelo tempo correspondente à prisão fixada, depois de se verificar que não possuía bens penhoráveis em processo de execução fiscal.
 
 2. Se a pena de prisão tiver sido aplicada a um gestor de uma pessoa colectiva, esta será solidariamente responsável pelo pagamento da multa.
 
-###### Art. 6.º Não há suspensão condicional da pena aplicada a qualquer infracção tributária.
+Art. 6.º Não há suspensão condicional da pena aplicada a qualquer infracção tributária.
 
-###### Art. 7.º - 1. Se o sujeito passivo do imposto for uma pessoa colectiva, a pena de prisão será aplicada aos gestores que tiverem praticado ou sancionado o acto de que resultou a infracção.
+Art. 7.º - 1. Se o sujeito passivo do imposto for uma pessoa colectiva, a pena de prisão será aplicada aos gestores que tiverem praticado ou sancionado o acto de que resultou a infracção.
 
 2. A mesma pena será aplicada ao técnico de contas que tiver praticado o acto ou facto punível.
 
@@ -178,28 +191,28 @@ e) Doze meses, se exceder 100000$00.
 
 4. Quando o acto ou facto for praticado por representante legal ou voluntário ou por gestor de negócios, ser-lhe-á aplicada a pena de prisão correspondente.
 
-###### Art. 8.º - 1. Sempre que uma infracção tributária seja cominada com pena de prisão, será dada publicidade à condenação, mediante inserção na imprensa periódica de um extracto da sentença, nos trinta dias seguintes ao do seu trânsito em julgado.
+Art. 8.º - 1. Sempre que uma infracção tributária seja cominada com pena de prisão, será dada publicidade à condenação, mediante inserção na imprensa periódica de um extracto da sentença, nos trinta dias seguintes ao do seu trânsito em julgado.
 
 2. O extracto será organizado pelo tribunal e publicado, a expensas do infractor, em um dos diários ou, não os havendo, em um dos periódicos do concelho onde o infractor residir e, além disso, em dois diários de grande circulação, um de Lisboa e outro do Porto, entrando as despesas de publicação em regra de custas.
 
 3. Do extracto deverá constar a identificação do infractor, a infracção praticada, as circunstâncias mais reprováveis em que foi cometida e a importância do rendimento ocultado.
 
-###### Art. 9.º - 1. Os técnicos de contas condenados nos termos deste diploma serão interditos do exercício da profissão, nos termos do artigo 70.º, § 5.º, do Código Penal.
+Art. 9.º - 1. Os técnicos de contas condenados nos termos deste diploma serão interditos do exercício da profissão, nos termos do artigo 70.º, § 5.º, do Código Penal.
 
 2. O juiz que proferir a sentença condenatória enviará uma cópia à Direcção-Geral das Contribuições e Impostos para ser efectuado o registo no processo de inscrição.
 
-###### Art. 10.º - 1. A condenação, em pena de prisão, de um contribuinte que exerça actividade abrangida pela tabela anexa ao Código do Imposto Profissional será comunicada ao organismo profissional para o efeito de aplicação das sanções disciplinares que no caso couberem.
+Art. 10.º - 1. A condenação, em pena de prisão, de um contribuinte que exerça actividade abrangida pela tabela anexa ao Código do Imposto Profissional será comunicada ao organismo profissional para o efeito de aplicação das sanções disciplinares que no caso couberem.
 
 2. A participação será feita pelo juiz do tribunal nos dez dias seguintes ao trânsito em julgado da sentença condenatória.
 
-###### Art. 11.º Na falta de preceito especial da legislação tributária, aplicar-se-á, com as necessárias adaptações, o estabelecido no Código Penal e no Código de Processo Penal.
+Art. 11.º Na falta de preceito especial da legislação tributária, aplicar-se-á, com as necessárias adaptações, o estabelecido no Código Penal e no Código de Processo Penal.
 
-###### Art. 12.º Este diploma entrará em vigor no dia 1 de Outubro de 1976.
+Art. 12.º Este diploma entrará em vigor no dia 1 de Outubro de 1976.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

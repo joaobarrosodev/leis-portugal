@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27500/17851789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2132fdad2b89a8b195f599839fb4f9432c2e34bd37416b1ccd64b1e4552196ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 177bcbaea2d596381865f512ba57b6bed43963c531497eddb530661afd45ece3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Inspecção de Jogos
+- Definição de Competências
+- Formas de Provimento
+- Gratificação
+- Jogos de Fortuna e Azar
+- Ministro do Interior
+- Orgânica
+- Pessoal de Inspecção
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:374591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229109:por
+  label: "Transferido para o Ministério da Coordenação Económica, ficando integrado na Secretaria de Estado do Comércio Externo\
+    \ e Turismo, o Conselho de Inspecção de Jogos, criado pelo Dec Lei 36889 de 29-Mai de 1948, e regulado pelo presente diploma,\
+    \ pelo DEC LEI.295/74.29.06.1974.MAI, DG.IS [150-2ºSupl] de 29.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-1974-229109
+  date: '1974-06-29'
+- type: cites
+  target: pt:dre:162603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678604:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446326:por
+  label: Rectificado pela DECL.DD10024.15.01.1971.PC, DG.IS [12] de 15.01.1971
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1971-446326
+  date: '1971-01-15'
+- type: repealed_by
+  target: pt:dre:374591:por
+  label: "Revogado, a partir de 30.05.1988, com as alterações introduzidas pelo Dec Lei 295/74 de 29-Jun, pelo DEC LEI.184/88.25.05.1988.MCT,\
+    \ DR.IS [121] de 25.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1988-374591
+  date: '1988-05-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:45Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +159,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Do Conselho de Inspecção de Jogos - Atribuições, organização e competência
 
-###### Artigo 1.º O Conselho de Inspecção de Jogos, criado por [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948, é um organismo directamente subordinado ao Ministro do Interior, tendo a seu cargo o exercício das funções relacionadas com a exploração de jogos.
+Artigo 1.º O Conselho de Inspecção de Jogos, criado por [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948, é um organismo directamente subordinado ao Ministro do Interior, tendo a seu cargo o exercício das funções relacionadas com a exploração de jogos.
 
-###### Art. 2.º - 1. O Conselho de Inspecção de Jogos é constituído por um presidente e três vogais, todos nomeados pelo Ministro do Interior.
+Art. 2.º - 1. O Conselho de Inspecção de Jogos é constituído por um presidente e três vogais, todos nomeados pelo Ministro do Interior.
 
 2. Um dos vogais do Conselho será designado pelo Ministro das Finanças de entre os funcionários contabilistas de Inspecção-Geral de Finanças, e outro, pelo Secretário de Estado da Informação e Turismo.
 
 3. As funções de secretário do Conselho de Inspecção de Jogos são exercidas pelo inspector técnico de 1.ª classe designado pelo presidente.
 
-###### Art. 3.º O Conselho de Inspecção de Jogos disporá ele um serviço de inspecção e de secretaria privativa.
+Art. 3.º O Conselho de Inspecção de Jogos disporá ele um serviço de inspecção e de secretaria privativa.
 
-###### Art. 4.º Os membros do Conselho de Inspecção de Jogos gozam dos direitos concedidos pelas leis em vigor aos membros do extinto Conselho de Administração de Jogos e das prerrogativas seguintes:
+Art. 4.º Os membros do Conselho de Inspecção de Jogos gozam dos direitos concedidos pelas leis em vigor aos membros do extinto Conselho de Administração de Jogos e das prerrogativas seguintes:
 
 a) São dispensados de licença de uso e porte de arma de defesa, nos termos da legislação em vigor;
 
@@ -116,7 +177,7 @@ b) Podem prender em flagrante delito os indivíduos que os ofendam no exercício
 
 c) Quando em serviço, têm livre trânsito e ingresso em todas as gares de caminho de ferro, estações e cais de embarque, docas, aeródromos e aeroportos, bem como em quaisquer outros recintos públicos.
 
-###### Art. 5.º - 1. Compete ao Conselho de Inspecção de Jogos:
+Art. 5.º - 1. Compete ao Conselho de Inspecção de Jogos:
 
 a) Superintender em tudo o que respeite ao estudo e execução dos contratos de concessão para exploração das zonas de jogo de fortuna ou azar, bem como à exploração das modalidades afins dos jogos de fortuna ou azar, incluindo a da aposta mútua, quando não esteja, por lei, submetida à orientação e inspecção de outra entidade, e ainda adoptar ou sugerir providências tendentes à regulamentação de quaisquer jogos lícitos e à repressão de jogos ilícitos;
 
@@ -134,7 +195,7 @@ c) Solicitar, quando se torne necessário, que as entidades e serviços interess
 
 4. O Conselho pode delegar no seu presidente a resolução de assuntos da respectiva competência, exceptuada a aplicação das penalidades a que se refere o artigo 51.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
 
-###### Art. 6.º - 1. Compete ao presidente do Conselho de Inspecção de Jogos orientar toda a actividade do Conselho e superintender nos serviços da inspecção e da secretaria.
+Art. 6.º - 1. Compete ao presidente do Conselho de Inspecção de Jogos orientar toda a actividade do Conselho e superintender nos serviços da inspecção e da secretaria.
 
 2. Compete-lhe, ainda, em especial:
 
@@ -154,9 +215,9 @@ g) Submeter ao Ministro do Interior, devidamente informados, os assuntos que car
 
 3. O presidente pode delegar nos vogais ou nos funcionários de categoria igual ou superior à letra H a competência para a prática dos actos mais correntes, ou repetidos, relativos às funções específicas dos serviços.
 
-###### Art. 7.º O presidente será substituído, nas suas faltas e impedimentos, pelo vogal que o Ministro do Interior designar.
+Art. 7.º O presidente será substituído, nas suas faltas e impedimentos, pelo vogal que o Ministro do Interior designar.
 
-###### Art. 8.º - 1. Compete aos vogais coadjuvar o presidente, segundo orientação por este estabelecida, e exercer os poderes delegados nos termos do n.º 3 do artigo 6.º
+Art. 8.º - 1. Compete aos vogais coadjuvar o presidente, segundo orientação por este estabelecida, e exercer os poderes delegados nos termos do n.º 3 do artigo 6.º
 
 2. Ao vogal representante do Ministério das Finanças compete, em especial:
 
@@ -178,11 +239,11 @@ c) Elaborar relatório anual sobre a forma como foram cumpridas as actividades d
 
 d) Submeter a despacho do Secretário de Estado da Informação e Turismo os pareceres do Conselho de Inspecção de Jogos que dele careçam.
 
-###### Art. 9.º - 1. O Conselho de Inspecção de Jogos pode deliberar desde que estejam presentes, além do presidente, dois dos vogais.
+Art. 9.º - 1. O Conselho de Inspecção de Jogos pode deliberar desde que estejam presentes, além do presidente, dois dos vogais.
 
 2. O presidente tem voto de qualidade.
 
-###### Art. 10.º - 1. Aos membros do Conselho serão abonadas as gratificações constantes do mapa I anexo a este diploma.
+Art. 10.º - 1. Aos membros do Conselho serão abonadas as gratificações constantes do mapa I anexo a este diploma.
 
 2. As gratificações são acumuláveis com quaisquer remunerações atribuídas pelo exercício de outras funções, sem prejuízo do disposto na alínea a) do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
@@ -192,13 +253,13 @@ a) Presidente - B;
 
 b) Vogais - C.
 
-###### Art. 11.º O presidente do Conselho de Inspecção de Jogos poderá solicitar a comparência nas respectivas reuniões, ou em reuniões de comissões ou grupos de trabalho, de representantes de outros serviços do Estado, para que emitam parecer sobre as matérias a tratar.
+Art. 11.º O presidente do Conselho de Inspecção de Jogos poderá solicitar a comparência nas respectivas reuniões, ou em reuniões de comissões ou grupos de trabalho, de representantes de outros serviços do Estado, para que emitam parecer sobre as matérias a tratar.
 
-###### Art. 12.º Aos membros de comissões ou grupos de trabalho constituídos por determinação do Governo para estudo de matérias relacionadas com a exploração de jogos poderão ser abonadas senhas de presença por conta de verba inscrita no orçamento do Conselho.
+Art. 12.º Aos membros de comissões ou grupos de trabalho constituídos por determinação do Governo para estudo de matérias relacionadas com a exploração de jogos poderão ser abonadas senhas de presença por conta de verba inscrita no orçamento do Conselho.
 
 Dos serviços
 
-###### Art. 13.º - 1. Compete ao serviço de inspecção:
+Art. 13.º - 1. Compete ao serviço de inspecção:
 
 a) Exercer permanente fiscalização do funcionamento dos casinos, em especial sobre a exploração dos jogos de fortuna ou azar, bem como de todas as demais actividades das empresas concessionárias, velando pela observância das disposições legais, regulamentares e contratuais;
 
@@ -216,13 +277,13 @@ g) Desempenhar-se de todas as demais actividades que lhe forem confiadas pelo Co
 
 2. O serviço permanente junto dos casinos das zonas de jogo será prestado pelos inspectores e subinspectores técnicos, nos termos a determinar pelo presidente do Conselho de Inspecção de Jogos.
 
-###### Art. 14.º - 1. À secretaria compete assegurar todo o expediente respeitante ao desempenho das funções do Conselho de Inspecção de Jogos, regulando-se, na parte aplicável, pelas disposições estabelecidas para os serviços da Secretaria-Geral do Ministério do Interior e da Direcção-Geral de Administração Política e Civil.
+Art. 14.º - 1. À secretaria compete assegurar todo o expediente respeitante ao desempenho das funções do Conselho de Inspecção de Jogos, regulando-se, na parte aplicável, pelas disposições estabelecidas para os serviços da Secretaria-Geral do Ministério do Interior e da Direcção-Geral de Administração Política e Civil.
 
 2. Sempre que se torne necessário, poderá ser determinada a colaboração do pessoal de inspecção no serviço da secretaria.
 
 3. O pessoal do serviço de secretaria poderá ser destacado para coadjuvar o serviço de inspecção.
 
-###### Art. 15.º - 1. Compete especialmente aos inspectores técnicos de 1.ª classe:
+Art. 15.º - 1. Compete especialmente aos inspectores técnicos de 1.ª classe:
 
 a) Orientar o serviço a cargo dos inspectores técnicos de 2.ª classe e dos subinspectores técnicos;
 
@@ -240,7 +301,7 @@ g) Desempenhar todas as demais funções de que forem superiormente incumbidos.
 
 2. Quando forem encarregados dos actos a que se refere a parte final da alínea b) do n.º 1, é-lhes aplicável o disposto no artigo 12.º
 
-###### Art. 16.º Ao inspector técnico de 1.ª classe designado para secretariar o Conselho de Inspecção de Jogos competirá, ainda, especialmente:
+Art. 16.º Ao inspector técnico de 1.ª classe designado para secretariar o Conselho de Inspecção de Jogos competirá, ainda, especialmente:
 
 a) Emitir parecer em todos os processos que devam ser submetidos à apreciação do Conselho ou do seu presidente;
 
@@ -256,7 +317,7 @@ f) Promover a organização de arquivos na secretaria e nos gabinetes da inspec�
 
 g) Desempenhar as funções de notário privativo nos contratos a que aludem os artigos 14.º e seguintes do título IV do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957.
 
-###### Art. 17.º Compete aos inspectores técnicos de 2.ª classe e aos subinspectores técnicos assegurar, indistintamente, a fiscalização do funcionamento das salas de jogos dos casinos e desempenhar-se de quaisquer missões que lhes forem confiadas pelos inspectores técnicos de 1.ª classe ou determinadas pelo presidente do Conselho de Inspecção de Jogos e, em especial:
+Art. 17.º Compete aos inspectores técnicos de 2.ª classe e aos subinspectores técnicos assegurar, indistintamente, a fiscalização do funcionamento das salas de jogos dos casinos e desempenhar-se de quaisquer missões que lhes forem confiadas pelos inspectores técnicos de 1.ª classe ou determinadas pelo presidente do Conselho de Inspecção de Jogos e, em especial:
 
 a) Colher os elementos necessários à conveniente apreciação, por parte do Conselho e do Governo, das condições em que se exercem as explorações, registando-os nos livros e impressos que forem adoptados;
 
@@ -284,7 +345,7 @@ m) Elaborar, em conformidade com as instruções superiores, relatórios respeit
 
 n) Assegurar a boa ordem de toda a documentação que deva manter-se nos gabinetes do serviço de inspecção existentes nos casinos.
 
-###### Art. 18.º Ao inspector técnico de 2.ª classe designado para chefiar a secretaria incumbe, em especial:
+Art. 18.º Ao inspector técnico de 2.ª classe designado para chefiar a secretaria incumbe, em especial:
 
 a) Assegurar a regularidade dos serviços;
 
@@ -296,15 +357,15 @@ d) Promover a organização de ficheiros de legislação, ordens de serviço, in
 
 e) Coligir os elementos que devam ser transmitidos à 3.ª Repartição da Direcção-Geral da Contabilidade Pública para elaboração do orçamento do Conselho e velar pela correcta escrituração dos elementos da contabilidade.
 
-###### Art. 19.º Os funcionários do quadro administrativo e do pessoal auxiliar exercem as funções correspondentes às respectivas categorias, competindo-lhes executar os serviços de que sejam encarregados pelos superiores hierárquicos, em conformidade com a orientação do Conselho.
+Art. 19.º Os funcionários do quadro administrativo e do pessoal auxiliar exercem as funções correspondentes às respectivas categorias, competindo-lhes executar os serviços de que sejam encarregados pelos superiores hierárquicos, em conformidade com a orientação do Conselho.
 
 Do pessoal
 
-###### Art. 20.º - 1. O quadro e os vencimentos do pessoal do Conselho de Inspecção de Jogos são os constantes do mapa II anexo a este diploma.
+Art. 20.º - 1. O quadro e os vencimentos do pessoal do Conselho de Inspecção de Jogos são os constantes do mapa II anexo a este diploma.
 
 2. As funções de chefia da secretaria serão exercidas por um dos inspectores técnicos de 2.ª classe, designado pelo presidente do Conselho de Inspecção de Jogos.
 
-###### Art. 21.º - 1. Os cargos a que alude o artigo antecedente serão exercidos, em regime de comissão de serviço, por funcionários dos quadros permanentes do Estado ou dos corpos administrativos, requisitados, sob proposta do presidente do Conselho de Inspecção de Jogos, pelo Ministro do Interior.
+Art. 21.º - 1. Os cargos a que alude o artigo antecedente serão exercidos, em regime de comissão de serviço, por funcionários dos quadros permanentes do Estado ou dos corpos administrativos, requisitados, sob proposta do presidente do Conselho de Inspecção de Jogos, pelo Ministro do Interior.
 
 2. O serviço haver-se-á, para todos os efeitos, incluindo promoção, aposentação e provimento definitivo, como se fosse prestado no quadro de origem, sem prejuízo do direito à aposentação pelo cargo desempenhado no Conselho de Inspecção de Jogos, nos termos gerais aplicáveis aos funcionários em comissão de serviço.
 
@@ -314,7 +375,7 @@ Do pessoal
 
 Caso neste não haja vaga na categoria e classe, a que pertence, deve ser-lhe abonado, pelo Conselho de Inspecção de Jogos, o vencimento a que tiver direito no aludido quadro até que nele reingresse, ficando, entretanto, sujeito ao regime de serviço prescrito no número anterior.
 
-###### Art. 22.º - 1. Os funcionários em serviço no Conselho de Inspecção de Jogos que desempenhem funções de inspecção ou chefia têm direito ao abono de gratificações a fixar por despacho do Ministro do Interior com o acordo do Ministro das Finanças, considerando-se, na determinação daquela que for atribuída ao inspector técnico de 1.ª classe a que alude o n.º 3 do artigo 2.º, o ónus especial das funções referidas naquele preceito e no artigo 16.º
+Art. 22.º - 1. Os funcionários em serviço no Conselho de Inspecção de Jogos que desempenhem funções de inspecção ou chefia têm direito ao abono de gratificações a fixar por despacho do Ministro do Interior com o acordo do Ministro das Finanças, considerando-se, na determinação daquela que for atribuída ao inspector técnico de 1.ª classe a que alude o n.º 3 do artigo 2.º, o ónus especial das funções referidas naquele preceito e no artigo 16.º
 
 2. O Ministro das Finanças, quando entenda dever limitar a aplicação do § 1.º do artigo 3.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, poderá fixar a parte das gratificações que deve ser considerada para efeitos desse preceito legal.
 
@@ -322,13 +383,13 @@ Caso neste não haja vaga na categoria e classe, a que pertence, deve ser-lhe ab
 
 4. No caso de perda do gratificação, nos termos do número anterior, reverterá a mesma a favor do respectivo substituto.
 
-###### Art. 23.º - 1. Os regimes de ajudas de custo, subsídios de deslocação, de viagem e de marcha, transportes e outras remunerações ou abonos especiais, incluindo os de reembolso de despesas extraordinárias efectuadas por ordem superior e por motivo de serviço, estabelecidos para o funcionalismo civil do Estado, serão aplicáveis ao pessoal do Conselho de Inspecção de Jogos, com as alterações, aprovadas pelo Ministro do Interior, ouvido o Ministro das Finanças, que se tornem necessárias para a sua adaptação ao serviço de inspecção.
+Art. 23.º - 1. Os regimes de ajudas de custo, subsídios de deslocação, de viagem e de marcha, transportes e outras remunerações ou abonos especiais, incluindo os de reembolso de despesas extraordinárias efectuadas por ordem superior e por motivo de serviço, estabelecidos para o funcionalismo civil do Estado, serão aplicáveis ao pessoal do Conselho de Inspecção de Jogos, com as alterações, aprovadas pelo Ministro do Interior, ouvido o Ministro das Finanças, que se tornem necessárias para a sua adaptação ao serviço de inspecção.
 
 2. Os regimes referidos no n.º 1 do presente artigo são aplicáveis aos membros do Conselho.
 
-###### Art. 24.º O serviço prestado pelos funcionários do serviço de inspecção nos domingos e feriados será, sempre que possível, compensado com as correspondentes folgas em outros dias da semana.
+Art. 24.º O serviço prestado pelos funcionários do serviço de inspecção nos domingos e feriados será, sempre que possível, compensado com as correspondentes folgas em outros dias da semana.
 
-###### Art. 25.º - 1. O disposto no artigo 4.º é aplicável aos funcionários do serviço de inspecção.
+Art. 25.º - 1. O disposto no artigo 4.º é aplicável aos funcionários do serviço de inspecção.
 
 2. Para o cabal desempenho das suas funções, podem os funcionários a que alude o número anterior, desde que se identifiquem, solicitar esclarecimentos e informações quaisquer pessoas, designadamente a identificação e a apresentação dos documentos necessários ao acesso, que lhes tenha sido facultado, às salas de jogos de fortuna ou azar.
 
@@ -336,17 +397,17 @@ Caso neste não haja vaga na categoria e classe, a que pertence, deve ser-lhe ab
 
 4. A falsidade dos elementos ou informações será punida nos termos do artigo 242.º do Código Penal.
 
-###### Art. 26.º (transitório) - 1. O pessoal ao serviço do Conselho de Inspecção de Jogos será provido nos lugares criados pelo presente diploma, que lhes serão atribuídos em lista nominal aprovada pelo Ministro do Interior e publicada no Diário do Governo.
+Art. 26.º (transitório) - 1. O pessoal ao serviço do Conselho de Inspecção de Jogos será provido nos lugares criados pelo presente diploma, que lhes serão atribuídos em lista nominal aprovada pelo Ministro do Interior e publicada no Diário do Governo.
 
 2. A colocação do pessoal nos termos do número anterior e o abono das respectivas remunerações não dependem de qualquer outra formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
 3. A partir do dia 1 do mês imediato ao da publicação da lista a que se refere o n.º 1, os membros do Conselho de Inspecção de Jogos e os funcionários do respectivo quadro passam a auferir as remunerações que lhes correspondem nos termos do presente diploma.
 
-###### Art. 27.º Para executar trabalhos de carácter eventual, poderá o Conselho de Inspecção de Jogos contratar o pessoal necessário, dentro das verbas orçamentalmente inscritas para tal fim, mediante autorização do Ministro do Interior e com dispensa de quaisquer outras formalidades legais.
+Art. 27.º Para executar trabalhos de carácter eventual, poderá o Conselho de Inspecção de Jogos contratar o pessoal necessário, dentro das verbas orçamentalmente inscritas para tal fim, mediante autorização do Ministro do Interior e com dispensa de quaisquer outras formalidades legais.
 
 Disposições diversas
 
-###### Art. 28.º - 1. Fica o Ministro das Finanças autorizado a tomar as providências de ordem financeira indispensáveis à execução deste diploma, podendo as respectivas despesas ser efectuadas em conta das dotações do orçamento em vigor, nos termos que o mesmo Ministro determinar.
+Art. 28.º - 1. Fica o Ministro das Finanças autorizado a tomar as providências de ordem financeira indispensáveis à execução deste diploma, podendo as respectivas despesas ser efectuadas em conta das dotações do orçamento em vigor, nos termos que o mesmo Ministro determinar.
 
 2. Na satisfação dos encargos com o pessoal resultantes da execução deste diploma poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal do Conselho de Inspecção de Jogos do orçamento em vigor.
 
@@ -354,15 +415,15 @@ Disposições diversas
 
 4. Depois de aprovadas as contas gerais do Estado, as concessionárias poderão obter, na proporção das entregas feitas, a devolução pelo Estado do saldo não despendido das importâncias pagas para suportar as despesas com o funcionamento do Conselho de Inspecção de Jogos, nos termos do artigo 49.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
 
-###### Art. 29.º São revogados os artigos 2.º a 16.º e 32.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948; o [Decreto-Lei n.º 37825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37825-1950-657805), de 19 de Maio de 1950; o [Decreto-Lei n.º 44461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44461-1962-162603), de 16 de Julho de 1962, e o [Decreto-Lei n.º 46360](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46360-1965-294476), de 29 de Maio de 1965.
+Art. 29.º São revogados os artigos 2.º a 16.º e 32.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948; o [Decreto-Lei n.º 37825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37825-1950-657805), de 19 de Maio de 1950; o [Decreto-Lei n.º 44461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44461-1962-162603), de 16 de Julho de 1962, e o [Decreto-Lei n.º 46360](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46360-1965-294476), de 29 de Maio de 1965.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 19 de Novembro de 1970.**
+Promulgado em 19 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -372,12 +433,12 @@ MAPA I
 
 Mapa das gratificações a que se refere o artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27500/17851789.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27500/17851789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27500/17851789.pdf)
 
 MAPA II
 
 Quadro do pessoal a que se refere o artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27500/17851789.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27500/17851789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27500/17851789.pdf)
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

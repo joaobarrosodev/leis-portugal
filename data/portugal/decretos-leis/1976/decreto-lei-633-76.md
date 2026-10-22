@@ -46,40 +46,150 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 407f48ba07fbefc1b6a7adfbd5cd397692ad8ba7caf1f4c626b7c9c55c1a5c08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b5c753848e8415b3b6767781de627eb280142e9ce2498b7869657706ebe6b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Meteorologia e Geofísica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:469069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353721:por
+  label: "Alterado pela PORT.715/79.1979.12.31.PCM, DR.IS 300 de 31/Dez/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1979-353721
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:471111:por
+  label: "Alterados os artigos 53.º, 54.º, 55.º e 56.º pelo DEC LEI.314/80.19.08.1980.MTC, DR.IS [190] de 19.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-1980-471111
+  date: '1980-08-19'
+- type: amended_by
+  target: pt:dre:394915:por
+  label: "Alterado o quadro de pessoal do Instituto nacional de Meteorologia e Geofísica, aprovado pelo presente diploma,\
+    \ pela PORT.357/81.28.04.1981.MFP, DR.IS [97] de 28.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-1981-394915
+  date: '1981-04-28'
+- type: amended_by
+  target: pt:dre:567458:por
+  label: "Alterado o artigo 1.º, substituídas as designações constantes dos capítulos I e II, substituídos os capítulos III,\
+    \ IV, VI, os quadros anexos e revogadas as disposições do presente diploma, pelo DEC LEI.335/81.09.12.1981.MFP, DR.IS\
+    \ [282] de 09.12.1981, em conformidade com as alterações introduzidas pelo citado diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-1981-567458
+  date: '1981-12-09'
+- type: amended_by
+  target: pt:dre:567274:por
+  label: "Alterado o quadro I anexo ao presente diploma, pela PORT.1065/81.16.12.1981.MFP, DR.IS [288] de 16.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1065-1981-567274
+  date: '1981-12-16'
+- type: amended_by
+  target: pt:dre:182033:por
+  label: "Alterado o nº 4 do artigo 5º pelo DEC LEI.213/85.27.06.1985.MES, DR.IS [145] de 27.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-1985-182033
+  date: '1985-06-27'
+- type: amended_by
+  target: pt:dre:379918:por
+  label: "Aditado um artigo 4.º-A pelo DEC LEI.297/88.24.08.1988.MOPTC, DR.IS [195] de 24.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-1988-379918
+  date: '1988-08-24'
+- type: amended_by
+  target: pt:dre:379921:por
+  label: "Alterados os artigos 77.º, 78.º, 81.º, 82.º, 85.º, 88.º e 93.º pelo DEC LEI.295/88.24.08.1988.MOPTC, DR.IS [195]\
+    \ de 24.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-1988-379921
+  date: '1988-08-24'
+- type: amended_by
+  target: pt:dre:477282:por
+  label: "Determinado que o INMG fique na dependência do Ministro do Ambiente e Recursos Naturais, pelo DEC LEI.78/91.16.02.1991.MOPTC,\
+    \ DR.IS-A [39] de 16.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1991-477282
+  date: '1991-02-16'
+- type: amended_by
+  target: pt:dre:500054:por
+  label: "Mantido em vigor o art. 89º deste diploma, com a redacção dada pelo Dec Lei 335/81 de 09-Dez e a clarificação constante\
+    \ do art. 28º do DEC LEI.220/2003.2003.09.20.MCES DR.IS-A [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2003-500054
+  date: '2003-09-20'
+- type: cites
+  target: pt:dre:156982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594715:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, COM EXCEPÇÃO DOS CAPÍTULOS III, IV, V E VI, NA REDACÇÃO CONFERIDA PELOS DECRETO LEI 335/81, DE 9 DE DEZEMBRO\
+    \ E 295/88, DE 24 DE AGOSTO, PELO DECRETO LEI 192/93, PUBLICADO NO DR.IS-A, 120, DE 930524. EXTINTO O INSTITUTO NACIONAL\
+    \ DE METEOROLOGIA E GEOFÍSICA, PELO DECRETO LEI 187/93, PUBLICADO NO DR.IS-A, 120, DE 930524.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:615852:por
+  label: "Revogada a alínea e) do n.º 1 do artigo 93.º pelo DEC LEI.1-C/80.11.01.1980.MTC, DR.IS [9]Supl de 11.01.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-c-1980-615852
+  date: '1980-01-11'
+- type: repealed_by
+  target: pt:dre:283524:por
+  label: "Revogado, com excepção dos capítulos III, IV, V e VI, na redacção constante dos Decretos-Leis n.°s 335/81, de 9\
+    \ de Dezembro, e 295/88, de 24 de Agosto, pelo DEC LEI.192/93.24.05.1993.MARN, DR.IS-A [120] de 24.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1993-283524
+  date: '1993-05-24'
+- type: repealed_by
+  target: pt:dre:507416:por
+  label: "Revogadas as disposições aplicáveis às carreiras de meteorologista operacional e de geofísico operacional pelo DEC\
+    \ LEI.45/97.1997.02.24.MAM DR.IS-A [46] alterado pelo Dec-Lei 335/81, de 09-Dez, pela Port 506/88, de 28-Jul, pelo Dec-Lei\
+    \ 295/88, de 24-Ago e pelo DR 16/91, de 11-Abr.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1997-507416
+  date: '1997-02-24'
+- type: repealed_by
+  target: pt:dre:655942:por
+  label: "Revogadas as als b) e c) dos nºs 1 e 2 do art. 77º, os arts. 79º e 80º, as als b) e c) dos nºs 1 e 2 do art. 81º,\
+    \ os arts. 83º, 84º, 85º e 86º, e a al c) do art. 94º pelo DEC LEI.553/99.1999.12.15.MAM,DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1999-655942
+  date: '1999-12-15'
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogados os arts. 90º e 101º do presente diploma, na redacção e renumeração dada pelo Dec Lei 335/81 de 09-Dez,\
+    \ pelo DEC LEI.229/2005.29.12.2005.MFAP, DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
 article_structure:
   article_count: 140
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:57Z'
   warnings: []
   errors: []
 ---
@@ -1788,7 +1898,7 @@ b) Promover as diligências necessárias à concretização do recrutamento dos 
 
 ###### Artigo 138.º — (Encargos decorrentes da execução deste diploma)
 
-**O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.**
+O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
 ###### Artigo 139.º — (Resolução de dúvidas)
 
@@ -1806,34 +1916,34 @@ Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 QUADRO I
 
 Pessoal do INMG a que se refere o n.º 1 do artigo 87.º do Decreto-Lei n.º 633/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
 
 QUADRO II
 
 Pessoal do INMG a que se refere o n.º 1 do artigo 87.º do Decreto-Lei n.º 633/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
 
 QUADRO III
 
 Abonos a que se refere o n.º 1 do artigo 74.º do Decreto-Lei n.º 633/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
 
 QUADRO IV
 
 Abonos a que se refere o 1 do artigo 75.º do Decreto-Lei n.º 633/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17500/17331758.pdf)
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

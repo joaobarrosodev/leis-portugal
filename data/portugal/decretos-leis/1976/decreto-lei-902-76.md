@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 303/1976, 1º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2900-(2) a 2900-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30301/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/902-1976-391061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2bf31a4863719bbfb25803e1661dde9807e75a3087f05311c5e0ee07ac2f255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e505e3c95b95bff83c0b0579b95b3737bef6174b835234dc5c335de9d29fafd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa
+- Estatuto
+- Instituto António Sérgio do Sector Cooperativo
+- Orgânica
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252186:por
+  label: "Determinada a transferência do espólio da extinta Comissão de Apoio às Cooperativas (CAC) para o INSCOOP pelo DEC\
+    \ LEI.200/77.18.05.1977.MPCE, DR.IS [115] de 18.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1977-252186
+  date: '1977-05-18'
+- type: amended_by
+  target: pt:dre:253233:por
+  label: "Alterado pela LEI.35/77.1977.06.08.AR, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-1977-253233
+  date: '1977-06-08'
+- type: amended_by
+  target: pt:dre:469776:por
+  label: "Substituido o quadro de pessoal, aprovado pelo presente diploma e ratificado pela Lei 35/77, de 08-Jun, pelo quadro\
+    \ II anexo à PORT.547/80.1980.08.28.PCM DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1980-469776
+  date: '1980-08-28'
+- type: amended_by
+  target: pt:dre:568483:por
+  label: "Alterado o quadro de pessoal do Instituto António Sérgio do Sector Cooperativo, anexo ao presente diploma, pela\
+    \ PORT.984/81.18.11.1981.PCM, DR.IS [266] de 18.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-1981-568483
+  date: '1981-11-18'
+- type: amended_by
+  target: pt:dre:395929:por
+  label: "Alterado o anexo pela PORT.601/82.1982.06.18.PCM,, DR.IS [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-1982-395929
+  date: '1982-06-18'
+- type: amended_by
+  target: pt:dre:311054:por
+  label: "Alterado na redacção da Lei 35/77, de 08-Jun, pelo DEC LEI.98/83.1983.02.18.PCM, DR.IS [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1983-311054
+  date: '1983-02-18'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, pelo DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A\
+    \ [266]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Determinada a cessação da integração na administração central do Estado, através de novo enquadramento jurídico,\
+    \ do Instituto António Sérgio do Sector Cooperativo (INSCOOP) criado no presente diploma e cujos Estatutos constam do\
+    \ Dec Lei 63/90 de 20-Fev, pelo DEC LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, nos termos do previsto no\
+    \ respectivo art. 39º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:491420:por
+  label: "Extinto, a partir de 17.10.2009, o Instituto António Sérgio do Sector Cooperativo (INSCOOP) criado neste diploma\
+    \ (cujos Estatutos constam do Dec Lei 63/90 de 20-Fev, com a redacção constante do Dec Lei 204/92 de 02-Out) pelo DEC\
+    \ LEI.282/2009.07.10.2009.MTSSO, DR.IS [194] de 07.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-2009-491420
+  date: '2009-10-07'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138515:por
+  label: "Rectificado pela RECT.DD105.29.01.1977.PCM, DR.IS [24] de 29.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-138515
+  date: '1977-01-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:32Z'
   warnings: []
   errors: []
 ---
@@ -111,27 +186,27 @@ E, assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Art. 1.º É criado, na Presidência do Conselho de Ministros, o Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por Inscoop, o qual depende do Primeiro-Ministro.
+Art. 1.º É criado, na Presidência do Conselho de Ministros, o Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por Inscoop, o qual depende do Primeiro-Ministro.
 
-###### Art. 2.º É aprovado o Estatuto do Instituto António Sérgio do Sector Cooperativo, o qual faz parte integrante do presente decreto-lei.
+Art. 2.º É aprovado o Estatuto do Instituto António Sérgio do Sector Cooperativo, o qual faz parte integrante do presente decreto-lei.
 
-###### Art. 3.º É aprovado o quadro de pessoal anexo a este diploma e que dele faz parte integrante.
+Art. 3.º É aprovado o quadro de pessoal anexo a este diploma e que dele faz parte integrante.
 
-###### Art. 4.º - 1. É criada a Comissão Instaladora do Inscoop, composta por três membros, a designar por despacho do Ministro de Estado, no qual se fixarão as respectivas remunerações.
+Art. 4.º - 1. É criada a Comissão Instaladora do Inscoop, composta por três membros, a designar por despacho do Ministro de Estado, no qual se fixarão as respectivas remunerações.
 
 2. O período de instalação terá a duração máxima de seis meses, a contar da data da publicação do despacho referido no número anterior.
 
-###### Art. 5.º Compete à Comissão Instaladora do Inscoop:
+Art. 5.º Compete à Comissão Instaladora do Inscoop:
 
 a) Elaborar e submeter à aprovação do Governo, por intermédio do Ministro de Estado, o orçamento do Instituto para 1977, as linhas gerais de organização dos respectivos serviços e os objectivos e planos do Instituto para o primeiro ano de actividade, de acordo com o Estatuto aprovado pelo presente decreto-lei;
 
 b) Desempenhar as demais funções que lhe sejam cometidas por despacho do Ministro de Estado.
 
-###### Art. 6.º - 1. A Comissão Instaladora poderá requisitar funcionários ou empregados de quaisquer serviços públicos ou empresas públicas, em regime de comissão de serviço ou na situação de destacados, conforme for mais conveniente. O pessoal requisitado poderá optar pelos vencimentos e quaisquer outras remunerações a que tenha direito no quadro de origem.
+Art. 6.º - 1. A Comissão Instaladora poderá requisitar funcionários ou empregados de quaisquer serviços públicos ou empresas públicas, em regime de comissão de serviço ou na situação de destacados, conforme for mais conveniente. O pessoal requisitado poderá optar pelos vencimentos e quaisquer outras remunerações a que tenha direito no quadro de origem.
 
 2. A Comissão poderá também contratar pessoal a título eventual, segundo o regime de prestação de serviços, por tempo não superior à duração da mesma Comissão.
 
-###### Art. 7.º - 1. O Ministro das Finanças deverá adoptar as providências financeiras necessárias à execução do presente diploma e do Estatuto que dele faz parte integrante, ficando autorizado a criar as dotações orçamentais para o efeito.
+Art. 7.º - 1. O Ministro das Finanças deverá adoptar as providências financeiras necessárias à execução do presente diploma e do Estatuto que dele faz parte integrante, ficando autorizado a criar as dotações orçamentais para o efeito.
 
 2. As despesas efectuadas pela Comissão Instaladora nos termos do presente diploma serão satisfeitas, mediante despacho do Ministro de Estado, por conta das dotações globais que, nos termos do número anterior, lhe forem fixadas, podendo ainda sê-lo por quaisquer outras verbas, subsídios ou doações, nacionais ou estrangeiros, que forem atribuídos durante o período de instalação.
 
@@ -143,35 +218,35 @@ b) Desempenhar as demais funções que lhe sejam cometidas por despacho do Minis
 
 6. Para abono das remunerações ao pessoal serão elaboradas folhas com a indicação dos despachos que autorizaram a sua admissão.
 
-###### Art. 8.º Os membros da Comissão Instaladora cessarão as suas funções na data da posse dos membros do conselho directivo do Inscoop.
+Art. 8.º Os membros da Comissão Instaladora cessarão as suas funções na data da posse dos membros do conselho directivo do Inscoop.
 
-###### Art. 9.º - 1. O Inscoop goza de isenção de direitos e demais imposições aduaneiras e de quaisquer encargos fiscais pela importação de bens e equipamentos destinados ao seu património.
+Art. 9.º - 1. O Inscoop goza de isenção de direitos e demais imposições aduaneiras e de quaisquer encargos fiscais pela importação de bens e equipamentos destinados ao seu património.
 
 2. O Inscoop está isento do imposto do selo e de quaisquer outros impostos, directos ou indirectos, nomeadamente de sisa e de transacções nos bens imóveis e móveis que adquira para o seu património.
 
-###### Art. 10.º A competência conferida pelo presente diploma ao Primeiro-Ministro poderá ser delegada em qualquer Ministro ou Secretário de Estado.
+Art. 10.º A competência conferida pelo presente diploma ao Primeiro-Ministro poderá ser delegada em qualquer Ministro ou Secretário de Estado.
 
-###### Art. 11.º O presente diploma entra em vigor na data da sua publicação.
+Art. 11.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros.
 
-**Promulgado em 28 de Dezembro de 1976.**
+Promulgado em 28 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º O Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por Inscoop, é um instituto de direito público, dotado de personalidade jurídica e de autonomia administrativa e financeira, com património próprio, que se rege pelo disposto no presente Estatuto e respectivos regulamentos.
+Artigo 1.º O Instituto António Sérgio do Sector Cooperativo, abreviadamente designado por Inscoop, é um instituto de direito público, dotado de personalidade jurídica e de autonomia administrativa e financeira, com património próprio, que se rege pelo disposto no presente Estatuto e respectivos regulamentos.
 
-###### Art. 2.º - 1. O Inscoop tem como principais finalidades fomentar a expansão qualitativa e quantitativa do sector cooperativo, zelar pela observância dos princípios cooperativos e contribuir para a coordenação das actividades cooperadoras.
+Art. 2.º - 1. O Inscoop tem como principais finalidades fomentar a expansão qualitativa e quantitativa do sector cooperativo, zelar pela observância dos princípios cooperativos e contribuir para a coordenação das actividades cooperadoras.
 
 2. Para a prossecução das suas finalidades, o Inscoop exercerá, entre outras, as seguintes funções: estudar e planear, informar, formar e coordenar.
 
-###### Art. 3.º - 1. A função «estudar e planear» consiste em efectuar, promover ou apoiar estudos principalmente sobre os seguintes temas:
+Art. 3.º - 1. A função «estudar e planear» consiste em efectuar, promover ou apoiar estudos principalmente sobre os seguintes temas:
 
 a) A ideologia e o fenómeno cooperativos;
 
@@ -191,13 +266,13 @@ h) Os aspectos da inter-relação dos vários sectores de propriedade dos meios 
 
 2. Com base nos estudos efectuados e tendo em conta as soluções orgânicas a adoptar ao nível da coordenação, o Inscoop proporá superiormente projectos a integrar no Plano a propor pelo Governo à Assembleia da República.
 
-###### Art. 4.º - 1. A função «informar» consiste na difusão seleccionada, quer a nível nacional, quer a nível internacional, de trabalhos efectuados pelo Inscoop, bem como de outra documentação de interesse para a formação, o desenvolvimento e o funcionamento das cooperativas.
+Art. 4.º - 1. A função «informar» consiste na difusão seleccionada, quer a nível nacional, quer a nível internacional, de trabalhos efectuados pelo Inscoop, bem como de outra documentação de interesse para a formação, o desenvolvimento e o funcionamento das cooperativas.
 
 2. O Inscoop coordena as acções de divulgação das matérias respeitantes ao sector cooperativo como um todo, competindo-lhe a promoção do esclarecimento objectivo dos cidadãos, através dos meios de comunicação social, sobre os princípios e soluções cooperativos e demais matérias do âmbito da competência do Instituto.
 
-###### Art. 5.º A função «formar» consiste na formação de cooperadores, dirigentes e quadros técnicos, a desenvolver mediante cursos específicos organizados ou apoiados pelo Inscoop, recorrendo aos seus próprios meios ou à colaboração de outras entidades nacionais e estrangeiras.
+Art. 5.º A função «formar» consiste na formação de cooperadores, dirigentes e quadros técnicos, a desenvolver mediante cursos específicos organizados ou apoiados pelo Inscoop, recorrendo aos seus próprios meios ou à colaboração de outras entidades nacionais e estrangeiras.
 
-###### Art. 6.º - 1. A função «coordenar» abrange todos os aspectos do movimento cooperativo, devendo ser exercida com especial relevância nos domínios legislativo, fiscal e da previdência, do financiamento e do crédito e da formação técnica.
+Art. 6.º - 1. A função «coordenar» abrange todos os aspectos do movimento cooperativo, devendo ser exercida com especial relevância nos domínios legislativo, fiscal e da previdência, do financiamento e do crédito e da formação técnica.
 
 2. Quanto à coordenação dos aspectos legislativos:
 
@@ -221,9 +296,9 @@ b) Ao Inscoop compete ainda a definição e a coordenação dos aspectos gerais 
 
 7. A acção do Inscoop no exercício das suas funções de coordenação, referidas nos n.os 2 a 5, não pretendendo representar qualquer forma de ingerência, dirigismo ou contrôle, destina-se essencialmente a assegurar a coerência das políticas adoptadas nos diversos departamentos do Estado ligados ao sector, sem prejuízo do livre exercício das atribuições específicas desses departamentos.
 
-###### Art. 7.º Compete também ao Inscoop exercer funções consultivas sobre matérias da sua competência, a solicitação de departamentos governamentais ou de organismos do movimento cooperativo.
+Art. 7.º Compete também ao Inscoop exercer funções consultivas sobre matérias da sua competência, a solicitação de departamentos governamentais ou de organismos do movimento cooperativo.
 
-###### Art. 8.º Com vista ao eficiente desempenho das suas atribuições, poderá o Inscoop:
+Art. 8.º Com vista ao eficiente desempenho das suas atribuições, poderá o Inscoop:
 
 a) Requerer ao Governo ou directamente aos órgãos da Administração os elementos, informações e publicações oficiais de que careça;
 
@@ -237,19 +312,19 @@ e) Propor superiormente as medidas e a legislação adequada ao desempenho das s
 
 f) Regular a sua própria organização e funcionamento.
 
-###### Art. 9.º No prosseguimento das suas atribuições, o Inscoop procurará sempre assegurar a colaboração dos diversos serviços ou grupos instituídos para o apoio específico dos vários ramos do sector nos diferentes departamentos ministeriais.
+Art. 9.º No prosseguimento das suas atribuições, o Inscoop procurará sempre assegurar a colaboração dos diversos serviços ou grupos instituídos para o apoio específico dos vários ramos do sector nos diferentes departamentos ministeriais.
 
 ### CAPÍTULO II — Órgãos do Instituto
 
 #### SECÇÃO I — Enumeração
 
-###### Art. 10.º São órgãos do Inscoop: o conselho directivo, o conselho coordenador e os conselhos técnicos.
+Art. 10.º São órgãos do Inscoop: o conselho directivo, o conselho coordenador e os conselhos técnicos.
 
 #### SECÇÃO II — Conselho directivo
 
-###### Art. 11.º O conselho directivo é composto pelo presidente do Inscoop, pelos vice-presidentes e pelos técnicos responsáveis pelos departamentos.
+Art. 11.º O conselho directivo é composto pelo presidente do Inscoop, pelos vice-presidentes e pelos técnicos responsáveis pelos departamentos.
 
-###### Art. 12.º Compete ao conselho directivo:
+Art. 12.º Compete ao conselho directivo:
 
 a) Elaborar e submeter à aprovação do conselho coordenador, até 31 de Outubro de cada ano, o orçamento e o plano de actividades para o ano seguinte, bem como os planos plurianuais e financeiros do Inscoop;
 
@@ -265,7 +340,7 @@ f) Representar o Inscoop;
 
 g) Delegar poderes e passar procuração para actos da sua exclusiva competência.
 
-###### Art. 13.º - 1. Compete ao presidente do Inscoop:
+Art. 13.º - 1. Compete ao presidente do Inscoop:
 
 a) Convocar e presidir, com voto de qualidade, ao conselho directivo e ao conselho coordenador;
 
@@ -283,19 +358,19 @@ e) Submeter a despacho do Primeiro-Ministro os assuntos que careçam de resoluç
 
 #### SECÇÃO III — Conselho coordenador
 
-###### Art. 14.º - 1. O conselho coordenador é constituído pelo presidente do conselho directivo, pelos vice-presidentes e por vogais representantes dos departamentos governamentais ligados aos diferentes ramos do sector cooperativo, a designar nos termos do artigo seguinte.
+Art. 14.º - 1. O conselho coordenador é constituído pelo presidente do conselho directivo, pelos vice-presidentes e por vogais representantes dos departamentos governamentais ligados aos diferentes ramos do sector cooperativo, a designar nos termos do artigo seguinte.
 
 2. O conselho coordenador é igualmente integrado por representantes do sector cooperativo, a designar oportunamente por organismos que deste se revelem suficientemente representativos.
 
 3. Os representantes do sector cooperativo, cujo número não poderá exceder o número de vogais representantes de departamentos governamentais, gozam da qualidade de membros do conselho coordenador imediatamente após a tomada de posse.
 
-###### Art. 15.º - 1. Os vogais representantes dos departamentos governamentais serão nomeados por despacho dos Ministros das respectivas pastas.
+Art. 15.º - 1. Os vogais representantes dos departamentos governamentais serão nomeados por despacho dos Ministros das respectivas pastas.
 
 2. Os vogais referidos no número anterior são nomeados, até 31 de Dezembro de cada ano, para um mandato anual que findará em 31 de Dezembro do ano seguinte, sendo inamovíveis durante esse período.
 
 3. O mandato dos vogais referidos no número anterior é passível de renovação sucessiva, enquanto se mantiver a indicação nesse sentido dos Ministros das respectivas pastas.
 
-###### Art. 16.º - 1. Compete ao conselho coordenador:
+Art. 16.º - 1. Compete ao conselho coordenador:
 
 a) Estabelecer, por intermédio dos seus vogais, uma ligação, funcional e expedita, com os respectivos departamentos ministeriais e ramos do sector cooperativo, por forma a permitir, quer ao Inscoop, quer às demais entidades interessadas, uma visão global do sector que possibilite uma relação mútua, consciente e interessada, conducente a uma prática eficaz e desburocratizada;
 
@@ -313,13 +388,13 @@ g) Acompanhar a actividade do Inscoop, podendo formular as propostas, sugestões
 
 2. Os vogais do conselho coordenador, dentro do espírito e nos termos da alínea a) do n.º 1 deste artigo, deverão fornecer ao conselho directivo todos os elementos e informações por este solicitados, que sejam do foro dos respectivos departamentos ou organizações e digam respeito às matérias de competência do Inscoop.
 
-###### Art. 17.º - 1. O conselho coordenador só pode funcionar com a presença de, pelo menos, metade dos seus membros.
+Art. 17.º - 1. O conselho coordenador só pode funcionar com a presença de, pelo menos, metade dos seus membros.
 
 2. O plenário do conselho coordenador reúne em sessões ordinárias e em sessões extraordinárias, reunindo em sessões ordinárias, pelo menos, duas vezes por ano, para efeito de apreciação das matérias referidas nas alíneas b), c), d) e e) do n.º 1 do artigo 16.º
 
 #### SECÇÃO IV — Conselhos técnicos
 
-###### Art. 18.º - 1. Os conselhos técnicos são compostos por um número indeterminado de vogais do conselho coordenador ou por outras pessoas de reconhecida competência e são constituídos ad hoc, sendo convocados pelo presidente do Inscoop para análise e proposta de solução adequada de problemas determinados.
+Art. 18.º - 1. Os conselhos técnicos são compostos por um número indeterminado de vogais do conselho coordenador ou por outras pessoas de reconhecida competência e são constituídos ad hoc, sendo convocados pelo presidente do Inscoop para análise e proposta de solução adequada de problemas determinados.
 
 2. Os conselhos técnicos são presididos pelo presidente ou por um dos vice-presidentes do Inscoop.
 
@@ -327,15 +402,15 @@ g) Acompanhar a actividade do Inscoop, podendo formular as propostas, sugestões
 
 ### CAPÍTULO III — Serviços do Instituto
 
-###### Art. 19.º - 1. São serviços do Inscoop os Departamentos de Estudos e Planeamento, de Informação, de Formação e de Coordenação e os Serviços Administrativos.
+Art. 19.º - 1. São serviços do Inscoop os Departamentos de Estudos e Planeamento, de Informação, de Formação e de Coordenação e os Serviços Administrativos.
 
 2. Haverá ainda um assessor jurídico com as funções referidas no artigo 21.º
 
-###### Art. 20.º - 1. Compete aos Departamentos de Estudos e Planeamento, de Informação, de Formação e de Coordenação o correcto desenvolvimento das funções delineadas, respectivamente, nos artigos 3.º, 4.º, 5.º e 6.º do presente Estatuto.
+Art. 20.º - 1. Compete aos Departamentos de Estudos e Planeamento, de Informação, de Formação e de Coordenação o correcto desenvolvimento das funções delineadas, respectivamente, nos artigos 3.º, 4.º, 5.º e 6.º do presente Estatuto.
 
 2. A direcção de cada departamento será exercida pelo respectivo técnico de categoria mais elevada.
 
-###### Art. 21.º Cabe ao assessor jurídico assistir e apoiar tecnicamente os órgãos e serviços do Inscoop, exercendo a sua competência, designadamente nos seguintes domínios:
+Art. 21.º Cabe ao assessor jurídico assistir e apoiar tecnicamente os órgãos e serviços do Inscoop, exercendo a sua competência, designadamente nos seguintes domínios:
 
 a) Redacção de projectos de diplomas legais referidos na alínea a) do n.º 2 do artigo 6.º;
 
@@ -345,7 +420,7 @@ c) Redacção de quaisquer outros projectos de diplomas legais que, dizendo resp
 
 d) Elaboração de pareceres, informações e estudos sobre quaisquer assuntos que lhe sejam cometidos.
 
-###### Art. 22.º Competem aos Serviços Administrativos as seguintes funções, entre outras que lhe sejam cometidas pelo conselho directivo:
+Art. 22.º Competem aos Serviços Administrativos as seguintes funções, entre outras que lhe sejam cometidas pelo conselho directivo:
 
 a) Preparar, sob orientação do conselho directivo, o projecto de orçamento anual do Inscoop;
 
@@ -369,7 +444,7 @@ j) Assegurar o expediente geral dos vários órgãos e serviços do Inscoop, bem
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 23.º - 1. O pessoal do Inscoop agrupa-se de acordo com a seguinte classificação:
+Art. 23.º - 1. O pessoal do Inscoop agrupa-se de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -387,7 +462,7 @@ e) Pessoal auxiliar.
 
 4. O preenchimento do número de lugares por conta de vagas existentes nas diversas classes de uma categoria poderá ser efectuado atribuindo à classe mais baixa o total de vagas existentes nessa categoria, nos termos do artigo 1.º do [Decreto-Lei n.º 27199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27199-1936-323371), de 16 de Novembro de 1936.
 
-###### Art. 24.º - 1. Os lugares de presidente e vice-presidente são providos livremente pelo Primeiro-Ministro, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, sem prejuízo do disposto no número seguinte.
+Art. 24.º - 1. Os lugares de presidente e vice-presidente são providos livremente pelo Primeiro-Ministro, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, sem prejuízo do disposto no número seguinte.
 
 2. Os vice-presidentes são nomeados sob proposta do presidente. O disposto neste número não é aplicável ao primeiro provimento.
 
@@ -395,7 +470,7 @@ e) Pessoal auxiliar.
 
 4. Os funcionários nomeados em comissão de serviço, nos termos do presente artigo, poderão optar pelos vencimentos e quaisquer remunerações do lugar que tenham no quadro de origem, sendo-lhes contado, para todos os efeitos, o tempo de serviço que prestarem no regime de comissão.
 
-###### Art. 25.º - 1. As condições de acesso e carreira profissional do pessoal do Inscoop são, para as respectivas categorias, as que venham a ser estabelecidas para a função pública em geral, regulando-se até esse momento pelas seguintes regras:
+Art. 25.º - 1. As condições de acesso e carreira profissional do pessoal do Inscoop são, para as respectivas categorias, as que venham a ser estabelecidas para a função pública em geral, regulando-se até esse momento pelas seguintes regras:
 
 a) O pessoal técnico é nomeado, contratado ou requisitado de entre indivíduos com habilitações adequadas;
 
@@ -413,7 +488,7 @@ c) O pessoal técnico auxiliar é nomeado, contratado ou requisitado de entre in
 
 ### CAPÍTULO V — Das receitas do Inscoop
 
-###### Art. 26.º Constituem receitas do Inscoop:
+Art. 26.º Constituem receitas do Inscoop:
 
 a) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações inscritas no Orçamento Geral do Estado;
 
@@ -425,7 +500,7 @@ d) Quaisquer outras que legalmente lhe venham a ser atribuídas.
 
 ### CAPÍTULO VI — Da descentralização
 
-###### Art. 27.º - 1. O Inscoop deverá criar estruturas descentralizadas, de acordo com as necessidades.
+Art. 27.º - 1. O Inscoop deverá criar estruturas descentralizadas, de acordo com as necessidades.
 
 2. Enquanto não forem estabelecidas as estruturas previstas no número anterior e não forem definidas por lei as regiões-plano, o Inscoop poderá nomear delegados nos locais que houver por convenientes.
 
@@ -433,6 +508,6 @@ Pelo Primeiro-Ministro, Henrique Teixeira Queirós de Barros, Ministro de Estado
 
 Quadro do pessoal do Instituto de António Sérgio do Sector Cooperativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30301/00020007.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30301/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30301/00020007.pdf)
 
 Pelo Primeiro-Ministro, Henrique Teixeira Queirós de Barros, Ministro de Estado.

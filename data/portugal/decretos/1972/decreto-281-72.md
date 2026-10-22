@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/281-1972-676220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb3362f416deef611dd8017109d63d5333ed7c9215b4f6fc2eb68d0cc12bebe9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f95916606e8bb43f5a093582dee7f26f4171a4797b647b4c863d3fde3c8c565
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:00Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +97,24 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Secretaria de Estado da Aeronáutica a celebrar contratos com entidades nacionais e estrangeiras, incluindo os seus próprios estabelecimentos fabris, no ano económico de 1972, para prover à aquisição de bens duradouros e não duradouros, bem como à aquisição de serviços até à importância de 130000000$00.
+Artigo 1.º É autorizada a Secretaria de Estado da Aeronáutica a celebrar contratos com entidades nacionais e estrangeiras, incluindo os seus próprios estabelecimentos fabris, no ano económico de 1972, para prover à aquisição de bens duradouros e não duradouros, bem como à aquisição de serviços até à importância de 130000000$00.
 
-###### Art. 2.º - 1. Os encargos resultantes da execução deste diploma serão satisfeitos no ano de 1973 pela verba do Orçamento Geral do Estado «Encargos Gerais da Nação - Forças militares extraordinárias no ultramar», não podendo exceder os referidos 130000000$00.
+Art. 2.º - 1. Os encargos resultantes da execução deste diploma serão satisfeitos no ano de 1973 pela verba do Orçamento Geral do Estado «Encargos Gerais da Nação - Forças militares extraordinárias no ultramar», não podendo exceder os referidos 130000000$00.
 
 2. Os contratos que haja que elaborar sê-lo-ão de forma a, em cada mês, não haver obrigação de pagar mais de um décimo do encargo anual indicado no n.º 1 deste artigo.
 
-###### Art. 3.º - 1. Quando os pagamentos em 1973 originarem ónus especial sobre os preços praticados em 1972, a respectiva disposição contratual está sujeita a acordo prévio do Ministro das Finanças.
+Art. 3.º - 1. Quando os pagamentos em 1973 originarem ónus especial sobre os preços praticados em 1972, a respectiva disposição contratual está sujeita a acordo prévio do Ministro das Finanças.
 
 2. O encargo que, em função da data do pagamento, resultar da execução do n.º 1 deste artigo acrescerá ao valor do fornecimento e será satisfeito pela mesma dotação, dentro do limite fixado no n.º 1 do artigo 2.º deste diploma.
 
-###### Art. 4.º A 1.ª Repartição da Direcção-Geral da Contabilidade Pública registará em conta especial os títulos que autorizar em execução do presente diploma, para o que lhe será enviada fotocópia dos contratos celebrados entre a Direcção do Serviço de Material da Força Aérea e os respectivos fornecedores.
+Art. 4.º A 1.ª Repartição da Direcção-Geral da Contabilidade Pública registará em conta especial os títulos que autorizar em execução do presente diploma, para o que lhe será enviada fotocópia dos contratos celebrados entre a Direcção do Serviço de Material da Força Aérea e os respectivos fornecedores.
 
-###### Art. 5.º Por acordo entre o Ministro das Finanças e o Secretário de Estado da Aeronáutica, poder-se-á, em qualquer altura da execução dos contratos, antecipar, total ou parcialmente, o pagamento das prestações vincendas, caducando, na parte antecipadamente paga, o ónus especial referido no artigo 3.º deste decreto.
+Art. 5.º Por acordo entre o Ministro das Finanças e o Secretário de Estado da Aeronáutica, poder-se-á, em qualquer altura da execução dos contratos, antecipar, total ou parcialmente, o pagamento das prestações vincendas, caducando, na parte antecipadamente paga, o ónus especial referido no artigo 3.º deste decreto.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - José Pereira do Nascimento - Augusto Victor Coelho.
 
-**Promulgado em 27 de Julho de 1972.**
+Promulgado em 27 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

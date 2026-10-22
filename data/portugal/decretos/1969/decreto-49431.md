@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 285/1969, 1º Suplemento, Série I de 1969-12-06
   number: '285'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1729 - 1731
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/28501/17291731.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49431-1969-253809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44de4e0928548c6a85991a46243c9d44a76a19a03654fa07c8d52b9956d8e8a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b19d95645259aa1f6566e81bbbadd33a6a52fe43747e020bb27acaca562e3452
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:138563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682376:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:43Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +131,17 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º O quadro técnico-aduaneiro comum do ultramar é aumentado de um reverificador-chefe, atribuído à província de Cabo Verde.
+Artigo 1.º O quadro técnico-aduaneiro comum do ultramar é aumentado de um reverificador-chefe, atribuído à província de Cabo Verde.
 
-###### Art. 2.º Na Alfândega da Praia é criado um lugar de subdirector efectivo, a prover, em comissão de serviço, por funcionário com a categoria de reverificador-chefe.
+Art. 2.º Na Alfândega da Praia é criado um lugar de subdirector efectivo, a prover, em comissão de serviço, por funcionário com a categoria de reverificador-chefe.
 
-###### Art. 3.º Fica o Governo da província autorizado a atribuir gratificações especiais aos chefes de escala e auxiliares de tráfego e operações dos Transportes Aéreos de Cabo Verde, até aos quantitativos, respectivamente, de 500$00 e 300$00 mensais.
+Art. 3.º Fica o Governo da província autorizado a atribuir gratificações especiais aos chefes de escala e auxiliares de tráfego e operações dos Transportes Aéreos de Cabo Verde, até aos quantitativos, respectivamente, de 500$00 e 300$00 mensais.
 
-###### Art. 4.º A gratificação a que se refere o artigo 3.º do [Decreto n.º 48095](https://diariodarepublica.pt/dr/detalhe/decreto/48095-1967-138563), de 7 de Dezembro de 1967, é elevada para 800$00 mensais.
+Art. 4.º A gratificação a que se refere o artigo 3.º do [Decreto n.º 48095](https://diariodarepublica.pt/dr/detalhe/decreto/48095-1967-138563), de 7 de Dezembro de 1967, é elevada para 800$00 mensais.
 
-###### Art. 5.º É atribuída a gratificação mensal de 400$00 aos adjuntos dos professores regentes do ensino primário.
+Art. 5.º É atribuída a gratificação mensal de 400$00 aos adjuntos dos professores regentes do ensino primário.
 
-###### Art. 6.º Fica o Governo da província autorizado a inscrever no capítulo 8.º «Consignações de receita» do orçamento de receita ordinária para 1970 a importância de 182659$10 de saldos das contas de exercícios findos, destinada à dotação das seguintes verbas do capítulo 11.º «Exercícios findos» da tabela de despesa ordinária do orçamento geral para o mesmo ano económico:
+Art. 6.º Fica o Governo da província autorizado a inscrever no capítulo 8.º «Consignações de receita» do orçamento de receita ordinária para 1970 a importância de 182659$10 de saldos das contas de exercícios findos, destinada à dotação das seguintes verbas do capítulo 11.º «Exercícios findos» da tabela de despesa ordinária do orçamento geral para o mesmo ano económico:
 
 Para pagamento de despesas conhecidas ... 22659$10
 
@@ -115,11 +151,11 @@ Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [
 
 ... 182659$10
 
-###### Art. 7.º Fica o Governo da província autorizado a conceder no ano de 1970 aos Transportes Aéreos de Cabo Verde o subsídio de 3000000$00.
+Art. 7.º Fica o Governo da província autorizado a conceder no ano de 1970 aos Transportes Aéreos de Cabo Verde o subsídio de 3000000$00.
 
 B) Guiné
 
-###### Art. 8.º No quadro complementar de cirurgiões, especialistas e internistas dos serviços de saúde e assistência são criados os seguintes lugares:
+Art. 8.º No quadro complementar de cirurgiões, especialistas e internistas dos serviços de saúde e assistência são criados os seguintes lugares:
 
 a) Pessoal dos quadros aprovados por lei:
 
@@ -133,31 +169,31 @@ Um de médico anestisiologista.
 
 Um de médico pediatra.
 
-###### Art. 9.º É fixada em 8000000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1970.
+Art. 9.º É fixada em 8000000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1970.
 
-###### Art. 10.º É alterada para a seguinte a redacção do § único do artigo 5.º do [Decreto n.º 49082](https://diariodarepublica.pt/dr/detalhe/decreto/49082-1969-200265), de 25 de Junho de 1969:
+Art. 10.º É alterada para a seguinte a redacção do § único do artigo 5.º do [Decreto n.º 49082](https://diariodarepublica.pt/dr/detalhe/decreto/49082-1969-200265), de 25 de Junho de 1969:
 
 § único. Se ficar deserto o concurso para o provimento do lugar de que trata este artigo ou quando a conveniência do serviço o imponha, poderá o mesmo ser provido, por escolha do Ministro do Ultramar, de entre os candidatos aprovados nos concursos para inspectores contabilistas das Inspecções Provinciais de Fazenda e Contabilidade de Angola e Moçambique.
 
 C) S. Tomé e Príncipe
 
-###### Art. 11.º No quadro de pessoal técnico auxiliar dos Serviços de Aeronáutica Civil - Pessoal contratado, é criado um lugar de controlador de 1.ª classe e extinto um lugar de controlador de 3.ª classe.
+Art. 11.º No quadro de pessoal técnico auxiliar dos Serviços de Aeronáutica Civil - Pessoal contratado, é criado um lugar de controlador de 1.ª classe e extinto um lugar de controlador de 3.ª classe.
 
-###### Art. 12.º É aumentada de 400000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1970.
+Art. 12.º É aumentada de 400000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1970.
 
-###### Art. 13.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1970 para a Junta de Investigações do Ultramar:
+Art. 13.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1970 para a Junta de Investigações do Ultramar:
 
 a) Outras missões de estudo ... 200000$00
 
 D) Angola
 
-###### Art. 14.º O quadro do pessoal administrativo de nomeação do Comissariado da Mocidade Portuguesa Feminina é acrescido de um lugar de arquivista, com a categoria da letra Q, a incluir no mapa D anexo ao [Decreto n.º 48324](https://diariodarepublica.pt/dr/detalhe/decreto/48324-1968-234567), de 8 de Abril de 1968, para o qual transita, com dispensa das formalidades legais e dos requisitos exigidos pela lei geral, a funcionária que, à data da publicação do referido decreto, exercia as funções de auxiliar de administração.
+Art. 14.º O quadro do pessoal administrativo de nomeação do Comissariado da Mocidade Portuguesa Feminina é acrescido de um lugar de arquivista, com a categoria da letra Q, a incluir no mapa D anexo ao [Decreto n.º 48324](https://diariodarepublica.pt/dr/detalhe/decreto/48324-1968-234567), de 8 de Abril de 1968, para o qual transita, com dispensa das formalidades legais e dos requisitos exigidos pela lei geral, a funcionária que, à data da publicação do referido decreto, exercia as funções de auxiliar de administração.
 
-###### Art. 15.º A categoria de piloto auxiliar dos Serviços de Marinha transita para a letra X do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 15.º A categoria de piloto auxiliar dos Serviços de Marinha transita para a letra X do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 16.º É fixada em 80000000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1970.
+Art. 16.º É fixada em 80000000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1970.
 
-###### Art. 17.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1970 para a Junta de Investigações do Ultramar:
+Art. 17.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1970 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos, para a realização de trabalhos científicos e formação de investigadores conforme plano a aprovar pelo Ministro do Ultramar ... 9131202$00
 
@@ -171,13 +207,13 @@ b) Missões:
 
 4) Outras missões e estudos ... 1750000$00
 
-###### Art. 18.º As receitas de que trata o artigo 56.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, poderão ser utilizadas no ano de 1970 para a cobertura de outras despesas extraordinárias.
+Art. 18.º As receitas de que trata o artigo 56.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, poderão ser utilizadas no ano de 1970 para a cobertura de outras despesas extraordinárias.
 
-###### Art. 19.º Continua suspensa no ano de 1970 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
+Art. 19.º Continua suspensa no ano de 1970 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
 
 E) Moçambique
 
-###### Art. 20.º Nos quadros do pessoal do Serviço Meteorológico são criados os seguintes lugares:
+Art. 20.º Nos quadros do pessoal do Serviço Meteorológico são criados os seguintes lugares:
 
 a) Pessoal dos quadros aprovados por lei:
 
@@ -201,11 +237,11 @@ Dois de ajudante de observador radiotelegrafista de 1.ª classe.
 
 Dois de ajudante de observador radiotelegrafista de 2.ª classe.
 
-###### Art. 21.º A comparticipação emolumentar que vem sendo paga aos escrivães, aspirantes e cabos-de-mar do quadro de pessoal civil dos Serviços de Marinha da província, nos termos do artigo 3.º da Portaria Provincial n.º 6400, de 28 de Março de 1946, passa a ser abonada até à concorrência da receita efectivamente realizada, não podendo, contudo, o abono exceder 1/3 dos respectivos vencimentos base e complementar.
+Art. 21.º A comparticipação emolumentar que vem sendo paga aos escrivães, aspirantes e cabos-de-mar do quadro de pessoal civil dos Serviços de Marinha da província, nos termos do artigo 3.º da Portaria Provincial n.º 6400, de 28 de Março de 1946, passa a ser abonada até à concorrência da receita efectivamente realizada, não podendo, contudo, o abono exceder 1/3 dos respectivos vencimentos base e complementar.
 
-###### Art. 22.º Ao capitão da marinha mercante contratado dos Serviços Provinciais de Marinha é atribuída uma gratificação especial de 1800$00 mensais.
+Art. 22.º Ao capitão da marinha mercante contratado dos Serviços Provinciais de Marinha é atribuída uma gratificação especial de 1800$00 mensais.
 
-###### Art. 23.º São fixados nos seguintes quantitativos os encargos com que a província concorre, em 1970, para a Junta de Investigações do Ultramar:
+Art. 23.º São fixados nos seguintes quantitativos os encargos com que a província concorre, em 1970, para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 7422173$00
 
@@ -219,35 +255,35 @@ b) Missões:
 
 F) Macau
 
-###### Art. 24.º Fica o Governo da província autorizado, observadas as disposições legais aplicáveis, a abrir um crédito especial da importância de 816667$50, a inscrever em adicional à tabela de despesa ordinária do orçamento geral em vigor, destinado ao pagamento dos juros relativos aos empréstimos contraídos ao abrigo do [Decreto-Lei n.º 48949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48949-1969-526202), de 3 de Abril de 1969, tomando como contrapartida o saldo das contas de exercícios findos.
+Art. 24.º Fica o Governo da província autorizado, observadas as disposições legais aplicáveis, a abrir um crédito especial da importância de 816667$50, a inscrever em adicional à tabela de despesa ordinária do orçamento geral em vigor, destinado ao pagamento dos juros relativos aos empréstimos contraídos ao abrigo do [Decreto-Lei n.º 48949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48949-1969-526202), de 3 de Abril de 1969, tomando como contrapartida o saldo das contas de exercícios findos.
 
-###### Art. 25.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1970 para a Junta de Investigações do Ultramar:
+Art. 25.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1970 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 439945$00
 
-###### Art. 26.º Fica o governador da província autorizado a elaborar em patacas o orçamento geral para o ano de 1970.
+Art. 26.º Fica o governador da província autorizado a elaborar em patacas o orçamento geral para o ano de 1970.
 
 G) Timor
 
-###### Art. 27.º Fica o Governo da província autorizado a abrir um crédito especial de 325350$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1968.
+Art. 27.º Fica o Governo da província autorizado a abrir um crédito especial de 325350$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1968.
 
-###### Art. 28.º Ao chefe dos Serviços Provinciais de Aeronáutica Civil é atribuída uma gratificação especial mensal de 3000$00.
+Art. 28.º Ao chefe dos Serviços Provinciais de Aeronáutica Civil é atribuída uma gratificação especial mensal de 3000$00.
 
 II
 
 Disposições comuns
 
-###### Art. 29.º As províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor ficam dispensadas de concorrer, no ano económico de 1970, para as despesas que, nos termos legais, devem constituir encargos comuns do ultramar na metrópole, excepto quanto à província de S. Tomé e Príncipe no que respeita à contribuição para o Hospital do Ultramar, cujo montante será fixado por despacho do Ministro do Ultramar.
+Art. 29.º As províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor ficam dispensadas de concorrer, no ano económico de 1970, para as despesas que, nos termos legais, devem constituir encargos comuns do ultramar na metrópole, excepto quanto à província de S. Tomé e Príncipe no que respeita à contribuição para o Hospital do Ultramar, cujo montante será fixado por despacho do Ministro do Ultramar.
 
-###### Art. 30.º Continuam em vigor em 1970, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seus diplomas complementares e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, 31 de Dezembro de 1953 e 18 de Março de 1954, e de outros diplomas posteriores.
+Art. 30.º Continuam em vigor em 1970, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seus diplomas complementares e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, 31 de Dezembro de 1953 e 18 de Março de 1954, e de outros diplomas posteriores.
 
-###### Art. 31.º Exceptuado o disposto nos artigos 3.º, 10.º, 14.º, 15.º, 20.º, 22.º, 24.º, 27.º e 28.º, que é desde já executório, o presente decreto entra em vigor em 1 de Janeiro de 1970.
+Art. 31.º Exceptuado o disposto nos artigos 3.º, 10.º, 14.º, 15.º, 20.º, 22.º, 24.º, 27.º e 28.º, que é desde já executório, o presente decreto entra em vigor em 1 de Janeiro de 1970.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Novembro de 1969.**
+Promulgado em 28 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

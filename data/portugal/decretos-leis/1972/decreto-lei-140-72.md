@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1972-679866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec056abf7adbb8231b4b647fd2489fdb4d0b788428f3ccd6d4ddfd1a9208d29e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24fdeae775a3e0f40e7cfc91ca8f61955455c9a64b19c6ec342c05c25ed8d93c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacia Hidrográfica
+- Comissão Administrativa
+- Conselho Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Diretor
+- Formas de Provimento
+- Integração de Trabalhadores
+- Ministério do Ultramar
+- Moçambique.Colónia Portuguesa
+- Pessoal Dirigente
+- Recursos Hídricos
+- Subdiretor
+- Transferência de Pessoal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:23Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +112,11 @@ Gabinete do Plano de Desenvolvimento da Bacia do Limpopo
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º - 1. É criado na província de Moçambique o Gabinete do Plano de Desenvolvimento da Bacia do Limpopo, abreviadamente designado por Gabinete do Limpopo, destinado a promover o desenvolvimento global da respectiva zona.
+Artigo 1.º - 1. É criado na província de Moçambique o Gabinete do Plano de Desenvolvimento da Bacia do Limpopo, abreviadamente designado por Gabinete do Limpopo, destinado a promover o desenvolvimento global da respectiva zona.
 
 2. O Gabinete é dotado de personalidade jurídica e autonomia administrativa e financeira e depende directamente do Governador-Geral.
 
-###### Art. 2.º - 1. O Gabinete do Limpopo tem as seguintes atribuições:
+Art. 2.º - 1. O Gabinete do Limpopo tem as seguintes atribuições:
 
 a) Efectuar o reconhecimento sistemático da bacia do Limpopo e o inventário geral dos seus recursos;
 
@@ -126,11 +140,11 @@ i) Propor ao Governo as medidas legislativas ou outras consideradas recomendáve
 
 3. No exercício da sua competência o Gabinete do Limpopo utilizará o concurso dos serviços e organismos provinciais, autoridades administrativas e autarquias locais existentes na região interessada e bem assim a colaboração das iniciativas privadas, cabendo-lhe propor as disposições necessárias para garantir a melhor coordenação dos esforços aplicados à realização dos objectivos de interesse geral confiados ao Gabinete.
 
-###### Art. 3.º Considera-se especialmente cometida ao Gabinete a realização dos estudos, projectos e obras de infra-estruturas necessárias para o aproveitamento da bacia hidrográfica do Limpopo, nomeadamente a construção da barragem de Massingir e utilização integral dos escoamentos regularizados por aquela barragem.
+Art. 3.º Considera-se especialmente cometida ao Gabinete a realização dos estudos, projectos e obras de infra-estruturas necessárias para o aproveitamento da bacia hidrográfica do Limpopo, nomeadamente a construção da barragem de Massingir e utilização integral dos escoamentos regularizados por aquela barragem.
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
-###### Art. 4.º São órgãos do Gabinete do Limpopo:
+Art. 4.º São órgãos do Gabinete do Limpopo:
 
 a) A direcção do Gabinete;
 
@@ -138,9 +152,9 @@ b) O conselho coordenador;
 
 c) A comissão administrativa.
 
-###### Art. 5.º A direcção do Gabinete é constituída pelo director e por um subdirector que o coadjuvará e substituirá nas suas faltas ou impedimentos, competindo-lhes a orientação e gestão dos serviços.
+Art. 5.º A direcção do Gabinete é constituída pelo director e por um subdirector que o coadjuvará e substituirá nas suas faltas ou impedimentos, competindo-lhes a orientação e gestão dos serviços.
 
-###### Art. 6.º - 1. O conselho coordenador é um órgão consultivo ao qual compete emitir parecer sobre:
+Art. 6.º - 1. O conselho coordenador é um órgão consultivo ao qual compete emitir parecer sobre:
 
 a) Os planos de acção do Gabinete;
 
@@ -150,7 +164,7 @@ c) Os relatórios anuais das actividades exercidas;
 
 d) Quaisquer assuntos que o Ministro do Ultramar, o Governador-Geral ou o director do Gabinete considerem conveniente submeter à sua apreciação.
 
-###### Art. 7.º - 1. O conselho coordenador é presidido pelo director do Gabinete e nele estão representados os serviços e organismos provinciais, autarquias locais e entidades privadas, interessados nos diferentes domínios da actividade do Gabinete.
+Art. 7.º - 1. O conselho coordenador é presidido pelo director do Gabinete e nele estão representados os serviços e organismos provinciais, autarquias locais e entidades privadas, interessados nos diferentes domínios da actividade do Gabinete.
 
 2. O conselho coordenador é nomeado por despacho do Governador-Geral da província, sob proposta do director do Gabinete.
 
@@ -158,13 +172,13 @@ d) Quaisquer assuntos que o Ministro do Ultramar, o Governador-Geral ou o direct
 
 4. O director do Gabinete, quando o julgar conveniente, poderá solicitar a comparência às reuniões do conselho de representantes de outros serviços ou organismos ou de entidades especialmente qualificadas sobre os assuntos a apreciar.
 
-###### Art. 8.º - 1. À comissão administrativa incumbe elaborar os projectos dos orçamentos do Gabinete e superintender na respectiva execução.
+Art. 8.º - 1. À comissão administrativa incumbe elaborar os projectos dos orçamentos do Gabinete e superintender na respectiva execução.
 
 2. A comissão administrativa é presidida pelo director do Gabinete ou, por delegação deste, pelo subdirector e tem como vogais o director dos serviços administrativos e um representante dos Serviços de Fazenda e Contabilidade, com categoria não inferior a director de 3.ª classe.
 
 3. No caso de parecer desfavorável do representante dos Serviços de Fazenda e Contabilidade sobre a legalidade de qualquer despesa, será o processo submetido a decisão do Governador-Geral.
 
-###### Art. 9.º - 1. O Gabinete do Limpopo dispõe de serviços centrais e serviços regionais.
+Art. 9.º - 1. O Gabinete do Limpopo dispõe de serviços centrais e serviços regionais.
 
 2. Os serviços centrais compreendem:
 
@@ -192,9 +206,9 @@ b) Os serviços de exploração do colonato do Limpopo, com sede em Trigo de Mor
 
 c) Os serviços de exploração do Baixo Limpopo, com sede em João Belo.
 
-###### Art. 10.º As atribuições e regras de funcionamento dos órgãos constitutivos do Gabinete do Limpopo, bem como a organização e competência dos respectivos serviços, serão fixados em regulamento a aprovar pelo Governador-Geral da província.
+Art. 10.º As atribuições e regras de funcionamento dos órgãos constitutivos do Gabinete do Limpopo, bem como a organização e competência dos respectivos serviços, serão fixados em regulamento a aprovar pelo Governador-Geral da província.
 
-###### Art. 11.º - 1. O Gabinete terá no Ministério do Ultramar, em Lisboa, uma delegação, para prestar apoio e promover a cooperação com os órgãos metropolitanos.
+Art. 11.º - 1. O Gabinete terá no Ministério do Ultramar, em Lisboa, uma delegação, para prestar apoio e promover a cooperação com os órgãos metropolitanos.
 
 2. A sua constituição, atribuições, normas de funcionamento e remunerações serão fixadas por despacho do Ministro do Ultramar, ouvido o Governador-Geral.
 
@@ -202,19 +216,19 @@ c) Os serviços de exploração do Baixo Limpopo, com sede em João Belo.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 12.º - 1. O Gabinete do Limpopo disporá do pessoal dirigente, técnico, administrativo e auxiliar necessário ao funcionamento dos seus serviços, o qual será nomeado, contratado ou assalariado, em conformidade com os quadros aprovados pelo Ministro do Ultramar, a publicar até noventa dias após a entrada em vigor deste decreto-lei.
+Art. 12.º - 1. O Gabinete do Limpopo disporá do pessoal dirigente, técnico, administrativo e auxiliar necessário ao funcionamento dos seus serviços, o qual será nomeado, contratado ou assalariado, em conformidade com os quadros aprovados pelo Ministro do Ultramar, a publicar até noventa dias após a entrada em vigor deste decreto-lei.
 
 2. Os quadros do pessoal do Gabinete serão periòdicamente revistos quanto a categorias e unidades, de harmonia com a evolução e as exigências do serviço.
 
 3. Além do pessoal incluído nos quadros, poderá ser contratado ou assalariado, nos termos legais, o pessoal necessário para satisfação das exigências do serviço dentro das disponibilidades orçamentais.
 
-###### Art. 13.º - 1. São desde já criados os lugares de director, de subdirector e de directores dos serviços do Gabinete, que serão providos por livre escolha do Ministro do Ultramar e nomeados entre pessoas de reconhecida competência e experiência profissionais, podendo exercer as suas funções em regime de comissão de serviço, se tal for julgado conveniente.
+Art. 13.º - 1. São desde já criados os lugares de director, de subdirector e de directores dos serviços do Gabinete, que serão providos por livre escolha do Ministro do Ultramar e nomeados entre pessoas de reconhecida competência e experiência profissionais, podendo exercer as suas funções em regime de comissão de serviço, se tal for julgado conveniente.
 
 2. Em casos especiais, devidamente justificados, 0 pessoal directivo e técnico poderá exercer as suas funções em acumulação com o cargo ou cargos que esteja desempenhando, mediante autorização legal.
 
-###### Art. 14.º O Gabinete do Limpopo poderá recorrer à colaboração de técnicos ou entidades nacionais ou estrangeiras, para a elaboração de estudos, pareceres ou projectos, em regime de prestação de serviço ou por contrato.
+Art. 14.º O Gabinete do Limpopo poderá recorrer à colaboração de técnicos ou entidades nacionais ou estrangeiras, para a elaboração de estudos, pareceres ou projectos, em regime de prestação de serviço ou por contrato.
 
-###### Art. 15.º - 1. As condições de provimento e as remunerações do pessoal do Gabinete serão fixadas por despacho do Ministro do Ultramar, podendo ser estabelecidos regimes excepcionais quando circunstâncias especiais o justifiquem.
+Art. 15.º - 1. As condições de provimento e as remunerações do pessoal do Gabinete serão fixadas por despacho do Ministro do Ultramar, podendo ser estabelecidos regimes excepcionais quando circunstâncias especiais o justifiquem.
 
 2. Aos funcionários com atribuições de direcção ou de chefia ou exercendo funções especializadas poderão ser concedidas gratificações mensais a fixar pelo Governador-Geral da província.
 
@@ -226,15 +240,15 @@ c) Os serviços de exploração do Baixo Limpopo, com sede em João Belo.
 
 6. Ao director do Gabinete poderá ser fixada uma gratificação especial, a título de despesas de representação, nas condições a definir por despacho do Governador-Geral da província.
 
-###### Art. 16.º - 1. Os vogais do conselho coordenador que não pertençam ao pessoal do Gabinete terão direito a senhas de presença, bem como ao abono, nos termos da lei, de transportes e de ajudas de custo.
+Art. 16.º - 1. Os vogais do conselho coordenador que não pertençam ao pessoal do Gabinete terão direito a senhas de presença, bem como ao abono, nos termos da lei, de transportes e de ajudas de custo.
 
 2. O disposto no número anterior é aplicável às pessoas que forem eventualmente convocadas para as reuniões, ao abrigo do n.º 4 do artigo 7.º, atendendo-se, quando não sejam funcionários, à categoria a que forem equiparados.
 
 ### CAPÍTULO IV — Da actividade do Gabinete
 
-###### Art. 17.º A actividade do Gabinete do Limpopo será regulada por planos de acção, programas de trabalho e orçamentos anuais prèviamente aprovados pelo Governador-Geral de Moçambique.
+Art. 17.º A actividade do Gabinete do Limpopo será regulada por planos de acção, programas de trabalho e orçamentos anuais prèviamente aprovados pelo Governador-Geral de Moçambique.
 
-###### Art. 18.º Constituem receitas do Gabinete:
+Art. 18.º Constituem receitas do Gabinete:
 
 a) As dotações do orçamento geral da província destinadas anualmente ao Gabinete;
 
@@ -256,23 +270,23 @@ i) O produto do eventual aluguer de equipamentos a empreiteiros ou outros;
 
 j) Quaisquer outras receitas que lhe venham a ser expressamente consignadas por lei.
 
-###### Art. 19.º Constituem encargo do Gabinete todas as despesas decorrentes da manutenção dos seus serviços e da execução, exploração, conservação e ampliação dos empreendimentos ou serviços a seu cargo.
+Art. 19.º Constituem encargo do Gabinete todas as despesas decorrentes da manutenção dos seus serviços e da execução, exploração, conservação e ampliação dos empreendimentos ou serviços a seu cargo.
 
-###### Art. 20.º - 1. Mediante requisição aos Serviços de Fazenda e Contabilidade, transitarão para o Gabinete do Limpopo as dotações a inscrever anualmente no orçamento geral da província para cobertura dos encargos atribuídos ao Gabinete nos termos do presente diploma.
+Art. 20.º - 1. Mediante requisição aos Serviços de Fazenda e Contabilidade, transitarão para o Gabinete do Limpopo as dotações a inscrever anualmente no orçamento geral da província para cobertura dos encargos atribuídos ao Gabinete nos termos do presente diploma.
 
 2. O disposto no número anterior aplica-se às dotações destinadas no programa de empreendimentos dos planos de fomento à Brigada Técnica de Fomento e Povoamento do Limpopo, à barragem de Massingir e à Junta Autónoma de Povoamento Agrário do Baixo Limpopo (J. A. P. A.)
 
-###### Art. 21.º - 1. As receitas do Gabinete do Limpopo serão depositadas à sua ordem no Instituto de Crédito de Moçambique, devendo as respectivas contas ser movimentadas por meio de cheques assinados pelo director do Gabinete e pelo director dos serviços administrativos ou, em caso de impedimento, pelos seus substitutos legais.
+Art. 21.º - 1. As receitas do Gabinete do Limpopo serão depositadas à sua ordem no Instituto de Crédito de Moçambique, devendo as respectivas contas ser movimentadas por meio de cheques assinados pelo director do Gabinete e pelo director dos serviços administrativos ou, em caso de impedimento, pelos seus substitutos legais.
 
 2. Para ocorrer a encargos com despesas correntes inadiáveis haverá nos serviços centrais e nos serviços regionais fundos permanentes, a constituir nos termos legais.
 
-###### Art. 22.º O Gabinete do Limpopo apresentará ao Governador-Geral, até 30 de Abril de cada ano, o relatório de actividades e as contas de gerência referentes ao ano anterior, para serem submetidas ao Tribunal Administrativo da província.
+Art. 22.º O Gabinete do Limpopo apresentará ao Governador-Geral, até 30 de Abril de cada ano, o relatório de actividades e as contas de gerência referentes ao ano anterior, para serem submetidas ao Tribunal Administrativo da província.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 23.º São declaradas de utilidade pública urgente as expropriações necessárias à realização dos objectivos cometidos ao Gabinete do Limpopo.
+Art. 23.º São declaradas de utilidade pública urgente as expropriações necessárias à realização dos objectivos cometidos ao Gabinete do Limpopo.
 
-###### Art. 24.º - 1. O Gabinete do Limpopo fica isento do pagamento de quaisquer tributações, tais como taxas, licenças, contribuições, impostos, emolumentos e outros encargos fiscais, incluindo o imposto do selo, quer sejam gerais, especiais ou extraordinários, lançados pelo Estado ou pelos corpos administrativos.
+Art. 24.º - 1. O Gabinete do Limpopo fica isento do pagamento de quaisquer tributações, tais como taxas, licenças, contribuições, impostos, emolumentos e outros encargos fiscais, incluindo o imposto do selo, quer sejam gerais, especiais ou extraordinários, lançados pelo Estado ou pelos corpos administrativos.
 
 2. O Gabinete beneficia também da isenção de direitos de importação e demais encargos, incluindo os emolumentos gerais aduaneiros, para a maquinaria, aeronaves, veículos, material flutuante, lanchas ou quaisquer embarcações, utensílios, aparelhagem, materiais, combustíveis e lubrificantes e quaisquer outros artigos ou elementos necessários para estudo, construção, conservação, exploração ou renovação dos seus empreendimentos ou serviços.
 
@@ -280,29 +294,29 @@ j) Quaisquer outras receitas que lhe venham a ser expressamente consignadas por 
 
 4. Para efeitos de dispensa de reexportação, serão lavrados, em tempo oportuno, autos de inutilização dos bens referidos no número anterior que tenham sido consumidos ou inutilizados na execução das obras, os quais serão assinados por representantes do Gabinete e dos Serviços de Alfândegas da província.
 
-###### Art. 25.º Até cento e cinquenta dias após a publicação deste decreto-lei será transferido para o património do Gabinete do Limpopo, mediante inventário, todo o material, equipamento, semoventes, arquivos, instalações e demais bens, móveis ou imóveis, afectos ao serviço do Grupo de Trabalho do Limpopo, da Brigada Técnica de Fomento e Povoamento do Limpopo e da Junta de Povoamento Agrário do Baixo Limpopo (J. A. P. A.).
+Art. 25.º Até cento e cinquenta dias após a publicação deste decreto-lei será transferido para o património do Gabinete do Limpopo, mediante inventário, todo o material, equipamento, semoventes, arquivos, instalações e demais bens, móveis ou imóveis, afectos ao serviço do Grupo de Trabalho do Limpopo, da Brigada Técnica de Fomento e Povoamento do Limpopo e da Junta de Povoamento Agrário do Baixo Limpopo (J. A. P. A.).
 
-###### Art. 26.º - 1. O pessoal em serviço na Brigada Técnica de Fomento e Povoamento do Limpopo, no Grupo de Trabalho do Limpopo e na Junta Autónoma de Povoamento Agrário do Baixo Limpopo transitará, após a publicação do decreto referido no n.º 1 do artigo 12.º, sem mais formalidades e sem interrupção de serviço, para o Gabinete do Limpopo, indo ocupar lugares de categoria tanto quanto possível equiparada aos desempenhados à data de transferência.
+Art. 26.º - 1. O pessoal em serviço na Brigada Técnica de Fomento e Povoamento do Limpopo, no Grupo de Trabalho do Limpopo e na Junta Autónoma de Povoamento Agrário do Baixo Limpopo transitará, após a publicação do decreto referido no n.º 1 do artigo 12.º, sem mais formalidades e sem interrupção de serviço, para o Gabinete do Limpopo, indo ocupar lugares de categoria tanto quanto possível equiparada aos desempenhados à data de transferência.
 
 2. A transferência do pessoal em comissão de serviço ou contratado efectuar-se-á segundo relação nominal constante de portaria do Ministro do Ultramar anotada pelo Tribunal de Contas e publicada no Diário do Governo, lavrando-se as necessárias apostilas nos respectivos contratos.
 
 3. Ao pessoal transferido para o Gabinete será contado, para todos os efeitos legais, o tempo de serviço anteriormente prestado, qualquer que tenha sido a sua situação.
 
-###### Art. 27.º O primeiro provimento dos lugares previstos nos quadros referidos no artigo 12.º será feito por livre escolha do Ministro do Ultramar, independentemente da idade, sendo os diplomas de provimento simplesmente anotados pelo Tribunal de Contas.
+Art. 27.º O primeiro provimento dos lugares previstos nos quadros referidos no artigo 12.º será feito por livre escolha do Ministro do Ultramar, independentemente da idade, sendo os diplomas de provimento simplesmente anotados pelo Tribunal de Contas.
 
-###### Art. 28.º Será submetido à aprovação do Governador-Geral, até noventa dias após a publicação deste decreto-lei, o regulamento do Gabinete do Limpopo.
+Art. 28.º Será submetido à aprovação do Governador-Geral, até noventa dias após a publicação deste decreto-lei, o regulamento do Gabinete do Limpopo.
 
-###### Art. 29.º Aos casos não especialmente previstos neste diploma e nas suas disposições regulamentares aplicar-se-á o Estatuto do Funcionalismo Ultramarino.
+Art. 29.º Aos casos não especialmente previstos neste diploma e nas suas disposições regulamentares aplicar-se-á o Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 30.º Até à constituição da comissão administrativa compete ao director do Gabinete exercer a respectiva competência.
+Art. 30.º Até à constituição da comissão administrativa compete ao director do Gabinete exercer a respectiva competência.
 
-###### Art. 31.º Este decreto-lei entra imediatamente em vigor.
+Art. 31.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 

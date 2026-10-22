@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 300/1974, 1º Suplemento, Série I de 1974-12-27
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1626-(3) a 1626-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30001/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1974-372638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3deb59677f90792d1e2ca63df6e55b6281c8c2ded4738eebcdcf90cecd6c3d88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abd01d2fff84e49accc59a92a1efa1eb6b4bf0dce8bc17e967046b5ec267632d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Administração Local
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral da Função Pública
+- Direcção Geral da Organização Administrativa
+- Extinção de Serviços
+- Inspeção Geral da Administração Interna
+- Ministério da Administração Interna
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
+- Secretariado Técnico dos Assuntos Políticos
 relationships:
 - type: amended_by
   target: pt:dre:520452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427814:por
+  label: "Alterada para Secretariado Técnico dos Assuntos Políticos e Eleitorais a designação Secretariado Técnico dos Assuntos\
+    \ Políticos constante da al. e) do art. 10º do presente diploma pelo DEC LEI.329/76.07.05.1976.MAI, DR.IS [107] de 07.05.1976\0\
+    76\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1976-427814
+  date: '1976-05-07'
+- type: amended_by
+  target: pt:dre:545640:por
+  label: "Extinta a Auditoria Jurídica do MAI, criada pelo art. 3º do presente diploma (cuja orgânica consta do Dec Lei 55/87\
+    \ de 31-Jan, ora revogado) pelo DEC LEI.203/2006.27.10.2006.MAI, DR.IS [208] de 27.10.2006, nos termos do disposto no\
+    \ respectivo art. 16º, sendo as suas atribuições integradas na Secretaria-Geral daquele ministério\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2006-545640
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520452:por
+  label: "Determinado que a Secretaria-Geral suceda nas atribuições da Auditoria Jurídica do MAI, criada pelo art. 3º do presente\
+    \ diploma, e cuja orgânica consta do Dec Lei 55/87, de 31-Jan, pelo DEC LEI.76/2007.29.03.2007.MAI, DR.IS [63] de 29.03.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2007-520452
+  date: '2007-03-29'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256208:por
+  label: "Revogado com excepção dos artigos 5.º, 6.º e 10.º, pelo DEC LEI.342/77.19.08.1977.MAI, DR.IS [191] de 19.08.1977\0\
+    77\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1977-256208
+  date: '1977-08-19'
+- type: repealed_by
+  target: pt:dre:369823:por
+  label: "Revogados os arts. 5.º e 6.º pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:03Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +192,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Pelo presente diploma é reorganizada a Secretaria-Geral do Ministério da Administração Interna, criado pelo [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio, e instituídos os seguintes serviços:
+Artigo 1.º - 1. Pelo presente diploma é reorganizada a Secretaria-Geral do Ministério da Administração Interna, criado pelo [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio, e instituídos os seguintes serviços:
 
 a) Inspecção-Geral da Administração Interna;
 
@@ -131,7 +206,7 @@ e) Secretariado Técnico dos Assuntos Políticos.
 
 2. É extinta a Direcção-Geral da Administração Local, criada pelo [Decreto-Lei n.º 320/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1973-421074), de 28 de Junho, e o Secretariado da Administração Pública, criado pelo [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio.
 
-###### Art. 2.º - 1. A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico administrativo essencialmente incumbido de:
+Art. 2.º - 1. A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico administrativo essencialmente incumbido de:
 
 a) Funcionar como elo de ligação e coordenação entre todos os serviços dependentes do Ministério;
 
@@ -149,9 +224,9 @@ g) Processar o licenciamento das associações internacionais e organizar os pro
 
 2. Junto da Secretaria-Geral funciona a Comissão Consultiva de Estatística.
 
-###### Art. 3.º Junto do Ministério funciona uma auditoria jurídica e uma delegação da Direcção-Geral da Contabilidade Pública.
+Art. 3.º Junto do Ministério funciona uma auditoria jurídica e uma delegação da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 4.º - 1. À Inspecção-Geral da Administração Interna compete especialmente:
+Art. 4.º - 1. À Inspecção-Geral da Administração Interna compete especialmente:
 
 a) Exercer em nome do Governo o contrôle superior sobre todo o pessoal, serviços, estabelecimentos e instituições pertencentes ao Ministério ou sobre os quais os governadores civis superintendam, mesmo que submetidos a outro corpo de inspecção;
 
@@ -163,7 +238,7 @@ d) Exercer nos termos da lei a tutela das pessoas colectivas de direito público
 
 2. A Inspecção-Geral da Administração Interna poderá estender a sua acção a pessoas, serviços, estabelecimentos ou instituições dependentes de outro Ministério sempre que o Governo assim o decida ou o Ministro interessado o solicite.
 
-###### Art. 5.º Compete especialmente à Direcção-Geral da Função Pública:
+Art. 5.º Compete especialmente à Direcção-Geral da Função Pública:
 
 a) Proceder aos estudos conducentes à definição da política geral de pessoal e à caracterização e aperfeiçoamento das respectivas técnicas de gestão e formação de pessoal;
 
@@ -179,7 +254,7 @@ f) Promover a institucionalização de um sistema de gestão da função públic
 
 g) Realizar os estudos e tomar iniciativas relativas ao sistema de segurança social dos servidores da função pública em coordenação com os departamentos adequados.
 
-###### Art. 6.º - 1. À Direcção-Geral da Organização Administrativa incumbe especialmente:
+Art. 6.º - 1. À Direcção-Geral da Organização Administrativa incumbe especialmente:
 
 a) Proceder aos estudos respeitantes ao aperfeiçoamento das estruturas administrativas e ao funcionamento dos serviços;
 
@@ -199,7 +274,7 @@ h) Promover, coordenar e divulgar os sistemas e códigos comuns a utilizar pela 
 
 2. A Direcção-Geral da Organização Administrativa assegurará a coordenação dos núcleos de modernização administrativa criados pelo [Decreto-Lei n.º 691/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/691-1974-466821), de 5 de Dezembro, existentes nos diferentes Ministérios no que se refere a organização e métodos.
 
-###### Art. 7.º À Direcção-Geral da Acção Regional compete essencialmente:
+Art. 7.º À Direcção-Geral da Acção Regional compete essencialmente:
 
 a) Colaborar com estudos de base na definição do esquema do ordenamento do território e das medidas conducentes à sua efectivação;
 
@@ -215,7 +290,7 @@ f) Facultar informação sobre as matérias referidas nas alíneas anteriores ao
 
 g) Assegurar a execução das determinações do Governo em tudo o que respeite à sua intervenção na administração local autárquica e à coordenação desta com a Administração Central e regional.
 
-###### Art. 8.º Ao Secretariado Técnico dos Assuntos Políticos competirá especialmente:
+Art. 8.º Ao Secretariado Técnico dos Assuntos Políticos competirá especialmente:
 
 a) Assegurar, no que diz respeito às eleições nacionais, a prática pontual dos actos da Administração relativos ao recenseamento, sufrágio e apuramento eleitoral;
 
@@ -229,15 +304,15 @@ e) Acompanhar as eleições locais, propondo as medidas tutelares necessárias s
 
 f) Organizar um registo dos eleitos locais.
 
-###### Art. 9.º - 1. A organização e funcionamento dos serviços do Ministério, bem como a respectiva competência, serão objecto de diplomas especiais, a publicar no prazo de sessenta dias.
+Art. 9.º - 1. A organização e funcionamento dos serviços do Ministério, bem como a respectiva competência, serão objecto de diplomas especiais, a publicar no prazo de sessenta dias.
 
 2. Enquanto não forem publicados os diplomas a que alude o número anterior, fica o Ministro da Administração Interna autorizado a definir por simples despacho orientador a estrutura e funcionamento dos serviços.
 
-###### Art. 10.º - 1. São criados no Ministério da Administração Interna os lugares de inspector-geral da Administração Interna, director-geral da Acção Regional, director-geral da Função Pública, director-geral da Organização Administrativa e de director-geral do Secretariado Técnico dos Assuntos Políticos, com a categoria correspondente à letra B do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301).
+Art. 10.º - 1. São criados no Ministério da Administração Interna os lugares de inspector-geral da Administração Interna, director-geral da Acção Regional, director-geral da Função Pública, director-geral da Organização Administrativa e de director-geral do Secretariado Técnico dos Assuntos Políticos, com a categoria correspondente à letra B do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301).
 
 2. Os lugares de secretário-geral e director-geral ou de categoria equiparada serão providos por nomeação do Ministro da Administração Interna, por tempo indeterminado, de entre cidadãos com reconhecida capacidade para o desempenho das respectivas funções.
 
-###### Art. 11.º - 1. O pessoal do Ministério constituirá um quadro único, a aprovar por decreto referendado pelos Ministros da Administração Interna e das Finanças e a publicar no prazo de sessenta dias.
+Art. 11.º - 1. O pessoal do Ministério constituirá um quadro único, a aprovar por decreto referendado pelos Ministros da Administração Interna e das Finanças e a publicar no prazo de sessenta dias.
 
 2. Será integrado no quadro único referido no número anterior o pessoal civil da Polícia de Segurança Pública e da Guarda Nacional Republicana logo que sejam reestruturadas as referidas corporações.
 
@@ -245,24 +320,24 @@ f) Organizar um registo dos eleitos locais.
 
 4. Compete ao Ministro ou, por sua delegação, ao secretário-geral a colocação do pessoal de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
 
-###### Art. 12.º As condições de acesso e carreira profissional do pessoal do quadro do Ministério da Administração Interna são, para as respectivas categorias, as que vierem a ser estabelecidas para a função pública em geral e até lá regular-se-ão pelo [Decreto n.º 347/73](https://diariodarepublica.pt/dr/detalhe/decreto/347-1973-421599), de 11 de Julho.
+Art. 12.º As condições de acesso e carreira profissional do pessoal do quadro do Ministério da Administração Interna são, para as respectivas categorias, as que vierem a ser estabelecidas para a função pública em geral e até lá regular-se-ão pelo [Decreto n.º 347/73](https://diariodarepublica.pt/dr/detalhe/decreto/347-1973-421599), de 11 de Julho.
 
-###### Art. 13.º - 1. Para o estudo de problemas específicos, o Ministro da Administração Interna poderá autorizar a criação de grupos de trabalho, cujo mandato, composição, regime de funcionamento e condições de remuneração serão estabelecidos por despacho do mesmo Ministro, com o acordo, quanto a remunerações, do Ministro das Finanças.
+Art. 13.º - 1. Para o estudo de problemas específicos, o Ministro da Administração Interna poderá autorizar a criação de grupos de trabalho, cujo mandato, composição, regime de funcionamento e condições de remuneração serão estabelecidos por despacho do mesmo Ministro, com o acordo, quanto a remunerações, do Ministro das Finanças.
 
 2. Observadas formalidades idênticas, o Ministro da Administração Interna poderá autorizar a celebração de contratos para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que não possam ser realizados por pessoal do Ministério.
 
-###### Art. 14.º O Ministro das Finanças fica autorizado a tomar as providências financeiras indispensáveis à execução do presente diploma.
+Art. 14.º O Ministro das Finanças fica autorizado a tomar as providências financeiras indispensáveis à execução do presente diploma.
 
-###### Art. 15.º Serão resolvidas por despacho do Ministro da Administração Interna as dúvidas que se suscitem na aplicação do diploma.
+Art. 15.º Serão resolvidas por despacho do Ministro da Administração Interna as dúvidas que se suscitem na aplicação do diploma.
 
-###### Art. 16.º Fica revogado o [Decreto-Lei n.º 320/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1973-421074), de 28 de Junho, com excepção do artigo 11.º
+Art. 16.º Fica revogado o [Decreto-Lei n.º 320/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1973-421074), de 28 de Junho, com excepção do artigo 11.º
 
-###### Art. 17.º Este decreto-lei entra imediatamente em vigor.
+Art. 17.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

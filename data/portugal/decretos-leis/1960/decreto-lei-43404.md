@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43404-1960-512633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a0330dcd4ff56569d771a0d95ced12c23277033a59b9066ef5e197ba4e0fd99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 726691c629726c65ddbaf9c9473d6112f2ae1ba37f5cf91b79c3d6f8b82bb833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Açúcar
+- Álcool
+- Estabelecimento Industrial
+- Indústria Alimentar
+- Indústria Transformadora
+- Licenciamento
+- Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:155599:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155599:por
+  label: "Prorrogado por mais dois anos o prazo concedido pelo presente diploma às fabricas açorianas de destilação do álcool\
+    \ pelo DEC LEI.44762.04.12.1962.MF, DG.IS [278] de 04.12.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44762-1962-155599
+  date: '1962-12-04'
+- type: cites
+  target: pt:dre:166858:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:01Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +109,9 @@ Considerando o que veio informar o Ministério da Economia;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É prorrogado por mais dois anos o prazo concedido às fábricas açorianas de destilação de álcool pelo [Decreto-Lei n.º 31927](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31927-1942-166858), de 18 de Março de 1942, para a exploração, nas condições legais actualmente em vigor, do fabrico do açúcar e seus derivados.
+Artigo único. É prorrogado por mais dois anos o prazo concedido às fábricas açorianas de destilação de álcool pelo [Decreto-Lei n.º 31927](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31927-1942-166858), de 18 de Março de 1942, para a exploração, nas condições legais actualmente em vigor, do fabrico do açúcar e seus derivados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

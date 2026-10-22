@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1982-606492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 874d066674175aa54c73dca42cc84fd18175ee4fe25d3981781f164e623f9f35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de323dc50669d78725830b6b59e4e395a49fa91dac1712c4c3fd98d85dd4d6c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa
+- Indemnização
+- Situação Económica Dificil
+relationships:
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:44Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +108,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A resolução unilateral de um contrato fundada em não ter sido realizada dentro de certo prazo uma prestação, de coisa ou de facto, fica sujeita ao regime instituído pelo presente diploma quando se verifiquem cumulativamente as seguintes condições:
+Artigo 1.º - 1 - A resolução unilateral de um contrato fundada em não ter sido realizada dentro de certo prazo uma prestação, de coisa ou de facto, fica sujeita ao regime instituído pelo presente diploma quando se verifiquem cumulativamente as seguintes condições:
 
 a) Ser o contraente em mora uma empresa pública ou privada que, posteriormente à celebração do contrato, tenha sido declarada em situação económica difícil, nos termos do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto;
 
@@ -113,11 +120,11 @@ d) Ser feita a declaração a que se refere o artigo 2.º, com observância do q
 
 2 - O regime instituído pelo presente diploma aplica-se quer o direito à resolução decorra directamente da lei quer resulte de cláusulas contratuais e prevalece sobre qualquer regulamentação com ele incompatível que, anterior ou posteriormente à sua entrada em vigor, tenha sido ou venha a ser estipulada pelas partes.
 
-###### Art. 2.º - 1 - Verificando-se os pressupostos do artigo 1.º, a empresa que foi declarada em situação económica difícil pode provocar a suspensão do direito de resolução unilateral pelo período que resultar do disposto no artigo 3.º, desde que, em qualquer data anterior ao exercício daquele direito pelo outro contraente, lhe envie a declaração escrita de que realizará a prestação em causa dentro do período de suspensão.
+Art. 2.º - 1 - Verificando-se os pressupostos do artigo 1.º, a empresa que foi declarada em situação económica difícil pode provocar a suspensão do direito de resolução unilateral pelo período que resultar do disposto no artigo 3.º, desde que, em qualquer data anterior ao exercício daquele direito pelo outro contraente, lhe envie a declaração escrita de que realizará a prestação em causa dentro do período de suspensão.
 
 2 - O envio da declaração a que se refere o número anterior constitui imediatamente o seu autor no dever de indemnização dos prejuízos abrangidos pelo artigo 4.º, n.os 1 ou 3, conforme o caso.
 
-###### Art. 3.º - 1 - A declaração prevista no n.º 1 do artigo 2.º provoca, na data do seu envio, a suspensão imediata do direito do outro contraente a resolver unilateralmente o contrato com o fundamento indicado no n.º 1 do artigo 1.º durante os períodos seguintes, contados a partir da data em que o autor da declaração entra em mora quanto à prestação em causa:
+Art. 3.º - 1 - A declaração prevista no n.º 1 do artigo 2.º provoca, na data do seu envio, a suspensão imediata do direito do outro contraente a resolver unilateralmente o contrato com o fundamento indicado no n.º 1 do artigo 1.º durante os períodos seguintes, contados a partir da data em que o autor da declaração entra em mora quanto à prestação em causa:
 
 a) 1 ano, se o montante global dos pagamentos abrangidos pelo contrato for superior a 500000 contos, mas não exceder 1 milhão de contos;
 
@@ -125,22 +132,22 @@ b) 2 anos, se aquele montante exceder 1 milhão de contos.
 
 2 - A aplicação do disposto no número anterior a contratos em que os pagamentos sejam estipulados em moeda estrangeira far-se-á tomando por base o câmbio oficial em vigor na data em que o contraente obrigado à prestação entrou em mora, salvo se do contrato resultar taxa de câmbio diversa, que, nesse caso, se aplicará.
 
-###### Art. 4.º - 1 - Se a prestação for feita dentro do período de suspensão, o contrato não poderá ser unilateralmente resolvido com o fundamento indicado no n.º 1 do artigo 1.º A parte lesada terá, no entanto, direito a ser indemnizada dos prejuízos que prove ter sofrido em consequência da mora, salvo se o contrato previr um regime diverso para a indemnização de tais prejuízos, que, nesse caso, se aplicará.
+Art. 4.º - 1 - Se a prestação for feita dentro do período de suspensão, o contrato não poderá ser unilateralmente resolvido com o fundamento indicado no n.º 1 do artigo 1.º A parte lesada terá, no entanto, direito a ser indemnizada dos prejuízos que prove ter sofrido em consequência da mora, salvo se o contrato previr um regime diverso para a indemnização de tais prejuízos, que, nesse caso, se aplicará.
 
 2 - Na hipótese prevista no número anterior a indemnização não abrangerá, em caso algum, os prejuízos resultantes da suspensão do direito à resolução unilateral do contrato, estabelecida no presente diploma.
 
 3 - Se, decorrido o período de suspensão, a prestação não tiver ainda sido realizada, a parte lesada poderá resolver unilateralmente o contrato com o fundamento indicado no n.º 1 do artigo 1.º Se o fizer, terá direito a ser indemnizada, não só nos termos que estiverem estabelecidos no contrato ou resultarem directamente da lei para o caso de ser exercido o direito de resolução unilateral, mas também dos prejuízos que prove haver sofrido em consequência da suspensão desse direito.
 
-###### Art. 5.º O regime instituído pelo presente diploma aplica-se às situações nele previstas sempre que, até à data da sua entrada em vigor, o contrato não tenha sido eficazmente resolvido pela parte lesada.
+Art. 5.º O regime instituído pelo presente diploma aplica-se às situações nele previstas sempre que, até à data da sua entrada em vigor, o contrato não tenha sido eficazmente resolvido pela parte lesada.
 
-###### Art. 6.º O disposto no presente diploma não poderá ser invocado para os efeitos do artigo 22.º do Código Civil quando ao contrato seja aplicável a lei de um país estrangeiro nos termos dos artigos 41.º e 42.º desse Código.
+Art. 6.º O disposto no presente diploma não poderá ser invocado para os efeitos do artigo 22.º do Código Civil quando ao contrato seja aplicável a lei de um país estrangeiro nos termos dos artigos 41.º e 42.º desse Código.
 
-###### Art. 7.º O presente decreto-lei entra em vigor na data da sua publicação.
+Art. 7.º O presente decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Abril de 1982.**
+Promulgado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

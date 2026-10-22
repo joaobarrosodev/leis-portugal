@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07500/04930495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c700b07dcabd9134cc95dd242f6ea726ac932bcc4256cbd815cf2c7e0515e7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbebf31e4ee2ec7d3ef3b1e89df522fb2ca73bcd6a278c6f9dfcb2076b49f490
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Apoio aos Trabalhadores Ultramarinos
+- Comissão Administrativa e da Assistência aos Deslocados
+- Comissão Directiva
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Diretor
+- Instituto de Apoio ao Retorno de Nacionais
+- Integração de Trabalhadores
+- Ministério da Administração Interna
+- Ministério da Coordenação Interterritorial
+- Ministério da Educação e Cultura
+- Ministério da Justiça
+- Ministério das Finanças
+- Ministério dos Assuntos Sociais
+- Ministério dos Negócios Estrangeiros
+- Ministro do Trabalho
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
+- Subdiretor
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514580:por
+  label: "Integrado na Secretaria de Estado dos Retornados do Ministério dos Assuntos Sociais pelo DEC LEI.584-B/75.16.10.1975.MAS,\
+    \ DG.IS [240-2ºSupl] de 16.10.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/584-b-1975-514580
+  date: '1975-10-16'
+- type: amended_by
+  target: pt:dre:492684:por
+  label: "Alterados os arts. 14º e 19º pelo DEC LEI.3/77.05.01.1977.PCM, DR.IS [3] de 05.01.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1977-492684
+  date: '1977-01-05'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:390787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480140:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:17Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +150,19 @@ I
 
 Da natureza, atribuição e competência
 
-###### Artigo 1.º - 1. É criado na Presidência do Conselho de Ministros o Instituto de Apoio ao Retorno de Nacionais (IARN), adiante designado por Instituto, que goza de personalidade jurídica.
+Artigo 1.º - 1. É criado na Presidência do Conselho de Ministros o Instituto de Apoio ao Retorno de Nacionais (IARN), adiante designado por Instituto, que goza de personalidade jurídica.
 
 2. Pode o Primeiro-Ministro delegar num dos Ministros a competência para a resolução dos assuntos que correm pelo Instituto.
 
 3. No caso de ter havido delegação de competência, entende-se que os poderes conferidos ao Primeiro-Ministro por este diploma podem ser exercidos pelo Ministro delegado, salvo se as decisões do Instituto exigirem a intervenção de outros departamentos, caso em que os assuntos deverão ser resolvidos por despacho conjunto dos respectivos Ministros.
 
-###### Art. 2.º Compete ao Instituto, em geral:
+Art. 2.º Compete ao Instituto, em geral:
 
 a) Estudar e propor superiormente as medidas necessárias para a integração na vida nacional de todos os cidadãos portugueses, como tal considerados pela lei de nacionalidade vigente em Portugal, que se desloquem para território nacional, com o fim de nele se fixarem, qualquer que seja a sua proveniência, assegurando a disciplina do seu afluxo e a defesa dos seus direitos;
 
 b) Dar parecer ou encarregar-se dos assuntos que superiormente lhe forem cometidos e que dentro da sua esfera de acção possam estar directa ou indirectamente ligados ao processo de descolonização em curso e ao possível retorno de emigrantes.
 
-###### Art. 3.º Relativamente aos cidadãos a que se refere o artigo anterior, compete ao Instituto, em especial:
+Art. 3.º Relativamente aos cidadãos a que se refere o artigo anterior, compete ao Instituto, em especial:
 
 a) Promover, directamente ou em colaboração com as diversas entidades públicas e privadas, o apoio, a orientação e a prestação de auxílio aos ditos cidadãos e respectivas famílias, de harmonia com a sua situação de carência, bem como a sua inserção nos esquemas da segurança social;
 
@@ -140,17 +186,17 @@ II
 
 Dos órgãos de gestão
 
-###### Art. 4.º São órgãos de gestão do Instituto:
+Art. 4.º São órgãos de gestão do Instituto:
 
 a) A Comissão Directiva;
 
 b) O Conselho Administrativo.
 
-###### Art. 5.º - 1. A Comissão Directiva será constituída pelo director e subdirector e por vogais representantes dos Ministérios da Coordenação Interterritorial, Justiça, Negócios Estrangeiros, Administração Interna, Finanças, Educação e Cultura, Trabalho e Assuntos Sociais.
+Art. 5.º - 1. A Comissão Directiva será constituída pelo director e subdirector e por vogais representantes dos Ministérios da Coordenação Interterritorial, Justiça, Negócios Estrangeiros, Administração Interna, Finanças, Educação e Cultura, Trabalho e Assuntos Sociais.
 
 2. A Comissão Directiva será secretariada por um funcionário designado pelo director.
 
-###### Art. 6.º Compete à Comissão Directiva:
+Art. 6.º Compete à Comissão Directiva:
 
 a) Assegurar a execução da política definida superiormente para o Instituto;
 
@@ -162,7 +208,7 @@ d) Deliberar sobre as iniciativas que se julguem necessárias à prossecução d
 
 e) Submeter à apreciação superior o relatório anual.
 
-###### Art. 7.º - 1. A Comissão Directiva reunirá conforme for estabelecido no regulamento dos serviços, podendo deliberar sobre a matéria da sua competência, com o número de vogais que compareçam, desde que constituam a maioria.
+Art. 7.º - 1. A Comissão Directiva reunirá conforme for estabelecido no regulamento dos serviços, podendo deliberar sobre a matéria da sua competência, com o número de vogais que compareçam, desde que constituam a maioria.
 
 2. As deliberações da Comissão Directiva serão tomadas à pluralidade de votos, tendo o director, em caso de empate, voto de qualidade. Quando algum dos vogais discordar do parecer da maioria, justificará a respectiva declaração de voto.
 
@@ -170,11 +216,11 @@ e) Submeter à apreciação superior o relatório anual.
 
 4. A Comissão Directiva delegará no director a competência que julgar necessária para a superintendência nos serviços do Instituto e coordenação das suas actividades.
 
-###### Art. 8.º Os vogais da Comissão Directiva terão direito a senhas de presença, com o limite e no montante a fixar pelo Primeiro-Ministro, ouvido o Ministro das Finanças, e, quando se desloquem no exercício das suas funções, terão direito ao abono de transporte e ajudas de custo. O secretário da Comissão terá direito a uma gratificação mensal de 1000$00.
+Art. 8.º Os vogais da Comissão Directiva terão direito a senhas de presença, com o limite e no montante a fixar pelo Primeiro-Ministro, ouvido o Ministro das Finanças, e, quando se desloquem no exercício das suas funções, terão direito ao abono de transporte e ajudas de custo. O secretário da Comissão terá direito a uma gratificação mensal de 1000$00.
 
-###### Art. 9.º O Conselho Administrativo será constituído pelo director, que presidirá, e por três vogais, sendo um o representante do Ministério das Finanças, outro eleito entre os membros da Comissão Directiva e o chefe dos Serviços Administrativos, que secretariará.
+Art. 9.º O Conselho Administrativo será constituído pelo director, que presidirá, e por três vogais, sendo um o representante do Ministério das Finanças, outro eleito entre os membros da Comissão Directiva e o chefe dos Serviços Administrativos, que secretariará.
 
-###### Art. 10.º - 1. Ao Conselho Administrativo compete:
+Art. 10.º - 1. Ao Conselho Administrativo compete:
 
 a) Elaborar os projectos do orçamento do Instituto e submetê-los à aprovação superior, de harmonia com os planos de acção aprovados pela Comissão Directiva;
 
@@ -186,39 +232,39 @@ d) Deliberar sobre a aceitação de heranças, legados, donativos ou quaisquer c
 
 2. Para pagamento de pequenas despesas, será o Conselho Administrativo autorizado a criar um fundo permanente, conforme as necessidades dos serviços.
 
-###### Art. 11.º - 1. O Conselho Administrativo reunir-se-á ordinariamente pelo menos uma vez por semana e extraordinariamente sempre que os assuntos a tratar o exijam.
+Art. 11.º - 1. O Conselho Administrativo reunir-se-á ordinariamente pelo menos uma vez por semana e extraordinariamente sempre que os assuntos a tratar o exijam.
 
 2. As deliberações do Conselho Administrativo serão tomadas à pluralidade de votos e, em caso de empate, o presidente terá voto de qualidade. Quando algum dos membros discordar do parecer da maioria, justificará a respectiva declaração de voto.
 
-###### Art. 12.º Os vogais do Conselho Administrativo terão direito a senhas de presença, com o limite e no montante a fixar pelo Primeiro-Ministro, ouvido o Ministro das Finanças.
+Art. 12.º Os vogais do Conselho Administrativo terão direito a senhas de presença, com o limite e no montante a fixar pelo Primeiro-Ministro, ouvido o Ministro das Finanças.
 
 III
 
 Do pessoal
 
-###### Art. 13.º - 1. O Instituto disporá do pessoal constante do quadro anexo ao presente diploma.
+Art. 13.º - 1. O Instituto disporá do pessoal constante do quadro anexo ao presente diploma.
 
 2. O quadro a que alude o número anterior poderá ser alterado, quando as necessidades do serviço o exigirem, por decreto referendado pelo Primeiro-Ministro e pelo Ministro das Finanças.
 
-###### Art. 14.º Os lugares de director e de subdirector serão providos por livre escolha do Primeiro-Ministro e exercidos em comissão de serviço.
+Art. 14.º Os lugares de director e de subdirector serão providos por livre escolha do Primeiro-Ministro e exercidos em comissão de serviço.
 
-###### Art. 15.º - 1. O provimento do pessoal do Instituto será feito por nomeação, salvo os casos de provimento por contrato ou assalariamento nos termos da lei geral.
+Art. 15.º - 1. O provimento do pessoal do Instituto será feito por nomeação, salvo os casos de provimento por contrato ou assalariamento nos termos da lei geral.
 
 2. Se a nomeação para qualquer dos cargos do Instituto recair em funcionário público ou administrativo, será feita em comissão de serviço.
 
-###### Art. 16.º Poderá ser contratado ou assalariado além do quadro o pessoal que for julgado necessário para a realização de trabalhos de carácter eventual ou de natureza específica.
+Art. 16.º Poderá ser contratado ou assalariado além do quadro o pessoal que for julgado necessário para a realização de trabalhos de carácter eventual ou de natureza específica.
 
-###### Art. 17.º Sempre que for julgado necessário, poderá ser requisitado pessoal a outros departamentos, depois de obtido o parecer favorável do respectivo Ministro.
+Art. 17.º Sempre que for julgado necessário, poderá ser requisitado pessoal a outros departamentos, depois de obtido o parecer favorável do respectivo Ministro.
 
-###### Art. 18.º O tempo de serviço prestado no Instituto pelo pessoal em situação de requisitado ou em comissão de serviço considera-se, para todos os efeitos legais, como prestado no quadro de origem dos funcionários.
+Art. 18.º O tempo de serviço prestado no Instituto pelo pessoal em situação de requisitado ou em comissão de serviço considera-se, para todos os efeitos legais, como prestado no quadro de origem dos funcionários.
 
-###### Art. 19.º O pessoal do Instituto será provido pelo Primeiro-Ministro, sob proposta do director, e recrutado, de preferência, entre os diferentes quadros do Ministério da Coordenação Interterritorial, seus organismos consultivos ou dependentes, de harmonia com as necessidades do serviço e a sua especialização.
+Art. 19.º O pessoal do Instituto será provido pelo Primeiro-Ministro, sob proposta do director, e recrutado, de preferência, entre os diferentes quadros do Ministério da Coordenação Interterritorial, seus organismos consultivos ou dependentes, de harmonia com as necessidades do serviço e a sua especialização.
 
 IV
 
 Disposições diversas e transitórias
 
-###### Art. 20.º - 1. É extinta no Ministério da Coordenação Interterritorial a Comissão Administrativa e de Assistência aos Deslocados, criada pelo [Decreto-Lei n.º 47222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47222-1966-480140), de 29 de Setembro de 1966.
+Art. 20.º - 1. É extinta no Ministério da Coordenação Interterritorial a Comissão Administrativa e de Assistência aos Deslocados, criada pelo [Decreto-Lei n.º 47222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47222-1966-480140), de 29 de Setembro de 1966.
 
 2. É igualmente extinto o Centro de Apoio aos Trabalhadores Ultramarinos, actualmente integrado na Secretaria de Estado da Emigração.
 
@@ -226,35 +272,35 @@ Disposições diversas e transitórias
 
 4. São transferidos para o Instituto, com dispensa de quaisquer formalidades, os encargos emergentes de todos os actos praticados e contratos celebrados pelos organismos mencionados nos n.os 1 e 2, assim como todas as receitas, valores e bens patrimoniais a eles afectos.
 
-###### Art. 21.º - 1. O Instituto fica autorizado a criar e manter serviços ou centros de apoio, desde que se mostrem indispensáveis.
+Art. 21.º - 1. O Instituto fica autorizado a criar e manter serviços ou centros de apoio, desde que se mostrem indispensáveis.
 
 2. Ao contratar ou assalariar o pessoal previsto no número anterior, o Instituto deverá dar preferência absoluta aos agentes que prestam serviço em alguns dos organismos referidos no artigo 20.º
 
-###### Art. 22.º - 1. Aos funcionários que já vêm servindo nos organismos mencionados no artigo 20.º ficam assegurados os direitos mencionados no artigo 18.º deste diploma e transitam para os novos quadros, com ressalva dos direitos e deveres reconhecidos nas respectivas condições de prestação de serviço.
+Art. 22.º - 1. Aos funcionários que já vêm servindo nos organismos mencionados no artigo 20.º ficam assegurados os direitos mencionados no artigo 18.º deste diploma e transitam para os novos quadros, com ressalva dos direitos e deveres reconhecidos nas respectivas condições de prestação de serviço.
 
 2. A transição do pessoal referido no número anterior efectuar-se-á com dispensa de visto e posse, mediante lista aprovada pelo Primeiro-Ministro, anotada pela Direcção-Geral do Tribunal de Contas, publicada no Diário do Governo.
 
 3. O pessoal referido no n.º 1, que não possua as habilitações exigidas para o provimento dos novos lugares, poderá manter-se fora do quadro, na actual situação.
 
-###### Art. 23.º O orçamento do Instituto será incluído, com a discriminação estabelecida na legislação sobre classificação de despesas públicas, em capítulo especial do Orçamento Geral do Estado.
+Art. 23.º O orçamento do Instituto será incluído, com a discriminação estabelecida na legislação sobre classificação de despesas públicas, em capítulo especial do Orçamento Geral do Estado.
 
-###### Art. 24.º Durante o período de organização do Instituto e enquanto não for constituída a Comissão Directiva referida no artigo 4.º, compete ao director superintender nos serviços do Instituto, segundo a orientação que lhe for dada pelo Primeiro-Ministro.
+Art. 24.º Durante o período de organização do Instituto e enquanto não for constituída a Comissão Directiva referida no artigo 4.º, compete ao director superintender nos serviços do Instituto, segundo a orientação que lhe for dada pelo Primeiro-Ministro.
 
-###### Art. 25.º Os serviços do Instituto funcionarão de harmonia com um regulamento a publicar oportunamente.
+Art. 25.º Os serviços do Instituto funcionarão de harmonia com um regulamento a publicar oportunamente.
 
-###### Art. 26.º As dúvidas e os casos não previstos neste diploma serão resolvidos por despacho ministerial.
+Art. 26.º As dúvidas e os casos não previstos neste diploma serão resolvidos por despacho ministerial.
 
-###### Art. 27.º Ficam revogados o [Decreto-Lei n.º 47222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47222-1966-480140), de 29 de Setembro de 1966, e o [Decreto-Lei n.º 47924](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47924-1967-390787), de 8 de Setembro de 1967.
+Art. 27.º Ficam revogados o [Decreto-Lei n.º 47222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47222-1966-480140), de 29 de Setembro de 1966, e o [Decreto-Lei n.º 47924](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47924-1967-390787), de 8 de Setembro de 1967.
 
-###### Art. 28.º O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação no Diário do Governo.
+Art. 28.º O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação no Diário do Governo.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Manuel Rodrigues de Carvalho - José Inácio da Costa Martins - Joaquim Jorge de Pinho Campinos - Carlos Octávio Torres Cruz e Oliveira.
 
-**Promulgado em 21 de Março de 1975.**
+Promulgado em 21 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro do pessoal do Instituto de Apoio ao Retorno de Nacionais a que se refere o artigo 13.º do Decreto-Lei n.º 169/75.
 
@@ -312,4 +358,4 @@ Pessoal auxiliar:
 
 (nota a) A admissão é condicionada às vagas existentes na classe superior.
 
-**O Ministro da Coordenação Interterritorial, António de Almeida Santos.**
+O Ministro da Coordenação Interterritorial, António de Almeida Santos.

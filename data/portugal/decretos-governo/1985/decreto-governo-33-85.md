@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/33-1985-179300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ac4dfce4c871b467d5828d81aac54e8bc02ecbd55b815b437e7e73343034831
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9b6fc14b9c421eb9161305f8f40f12a3ad7be81eb096b96bbe0ab6e326ca7e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Avião
+- Convenção
+- Genebra
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:683179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683179:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.202/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/202-1999-683179
+  date: '1999-11-09'
 article_structure:
-  article_count: 1
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:15Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +101,19 @@ de 4 de Setembro
 
 O Governo decreta, aos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Relativa ao Reconhecimento Internacional de Direitos sobre Aeronaves, concluída em Genebra em 19 de Junho de 1948, cujos textos em espanhol e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada para ratificação a Convenção Relativa ao Reconhecimento Internacional de Direitos sobre Aeronaves, concluída em Genebra em 19 de Junho de 1948, cujos textos em espanhol e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Mário Ferreira Bastos Raposo - Carlos Montez Melancia.
 
-**Assinado em 9 de Agosto de 1985.**
+Assinado em 9 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Agosto de 1985.**
+Referendado em 12 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENÇÃO RELATIVA AO RECONHECIMENTO INTERNACIONAL DE DIREITOS SOBRE AERONAVES
 
@@ -113,7 +123,7 @@ Considerando que é muito conveniente para a expansão futura da aviação civil
 
 Os signatários, devidamente autorizados, acordaram, em nome dos seus Governos, o seguinte:
 
-Artigo I
+###### Artigo I
 
 1 - Os Estados Contratantes comprometem-se a reconhecer:
 
@@ -135,7 +145,7 @@ A regularidade das inscrições sucessivas em diferentes Estados Contratantes é
 
 2 - Nenhuma disposição da presente Convenção impede os Estados Contratantes de reconhecer, por aplicação da sua lei nacional, a validade de outros direitos que onerem uma aeronave. Nenhum direito com prioridade sobre os enumerados no n.º 1 do presente artigo será, porém, admitido ou reconhecido pelos Estados Contratantes.
 
-Artigo II
+###### Artigo II
 
 1 - Todas as inscrições relativas a uma aeronave devem constar do mesmo registo.
 
@@ -143,7 +153,7 @@ Artigo II
 
 3 - Qualquer Estado Contratante pode proibir a inscrição de um direito sobre uma aeronave que não puder ser validamente constituído de acordo com a sua lei nacional.
 
-Artigo III
+###### Artigo III
 
 1 - O endereço do serviço encarregado da manutenção do registo deverá ser indicado no certificado de matrícula de aeronaves.
 
@@ -153,7 +163,7 @@ Artigo III
 
 4 - O serviço encarregado do registo poderá cobrar taxas razoáveis por qualquer acto praticado.
 
-Artigo IV
+###### Artigo IV
 
 1 - Os Estados Contratantes reconhecem que os créditos originados:
 
@@ -175,15 +185,15 @@ b) O montante do crédito tiver sido fixado por comum acordo ou tiver sido inten
 
 5 - As disposições do presente artigo aplicar-se-ão não obstante o n.º 2 do artigo I.
 
-Artigo V
+###### Artigo V
 
 A prioridade conferida aos direitos mencionados no n.º 1, alínea d), do artigo I abrange todas as quantias garantidas. No que se refere, contudo, aos juros, a propriedade só é concedida aos juros vencidos no decurso dos três anos que antecedem o início do processo de execução e aos vencidos no decurso deste.
 
-Artigo VI
+###### Artigo VI
 
 Em caso de arresto ou venda em execução de uma aeronave ou de um direito sobre a aeronave, os Estados Contratantes não são obrigados a reconhecer, com prejuízo quer do credor arrestante ou exequente quer do adquirente, a constituição ou a transferência de um dos direitos enumerados no n.º 1 do artigo I, se constituídos ou efectuados com o conhecimento da venda ou da acção executiva pela pessoa contra quem foi proposta a execução.
 
-Artigo VII
+###### Artigo VII
 
 1 - Os procedimentos de venda em execução de uma aeronave são os previstos pela lei do Estado Contratante onde a venda for efectuada.
 
@@ -209,15 +219,15 @@ Na ausência de qualquer outra limitação prevista pela lei do Estado Contratan
 
 6 - Os encargos legalmente exigíveis de acordo com a lei do Estado Contratante onde a venda tiver sido efectuada e incorridos no processo de execução no interesse comum dos credores serão pagos por força do preço da venda, com prioridade sobre quaisquer outros créditos, mesmo os privilegiados nos termos do artigo IV.
 
-Artigo VIII
+###### Artigo VIII
 
 A venda em execução de uma aeronave, de acordo com as disposições do artigo VII, transfere a propriedade da aeronave livre de quaisquer encargos que não tiverem sido tomados a seu cargo pelo comprador.
 
-Artigo IX
+###### Artigo IX
 
 Salvo no caso de venda em execução realizada de acordo com as disposições do artigo VII, nenhuma transferência de matrícula ou de inscrição de uma aeronave do registo de um Estado Contratante para o de outro Estado Contratante poderá efectuar-se, a não ser que os titulares dos direitos inscritos tenham sido satisfeitos ou nela consintam.
 
-Artigo X
+###### Artigo X
 
 1 - Se, em virtude da lei de um Estado Contratante onde a aeronave está matriculada, alguns dos direitos previstos no artigo I, devidamente inscritos com relação a uma aeronave e constituídos para garantia de um crédito, abrangerem as peças sobresselentes armazenadas em um ou mais locais determinados, este alargamento será reconhecido por todos os Estados Contratantes sob a condição de tais peças serem conservadas nos ditos locais e de uma publicidade apropriada, efectuada no local por meio de avisos, advertir devidamente terceiros da natureza e extensão do direito que as onera, com a indicação do registo em que o direito está inscrito, bem como o nome e o domicílio do seu titular.
 
@@ -227,7 +237,7 @@ Artigo X
 
 4 - Para os fins do presente artigo, a expressão «peças sobresselentes» aplica-se às partes integrantes das aeronaves, motores, hélices, aparelhos de rádio, instrumentos, equipamentos, acessórios, as partes destes diversos elementos e, em geral, os objectos, qualquer que seja a sua natureza, mantidos com vista a substituir as peças que compõem a aeronave.
 
-Artigo XI
+###### Artigo XI
 
 1 - As disposições da presente Convenção só se aplicarão, em cada Estado Contratante, às aeronaves matriculadas noutro Estado Contratante.
 
@@ -237,41 +247,41 @@ a) As disposições dos artigos II, III, IX; e
 
 b) As disposições do artigo IV, excepto se a salvação ou as operações de conservação se tiverem concluído no seu próprio território.
 
-Artigo XII
+###### Artigo XII
 
 As disposições da presente Convenção em nada afectam o direito dos Estados Contratantes de aplicar a uma aeronave as medidas coercivas relativas à emigração, à alfândega ou à navegação aérea previstas nas suas leis nacionais.
 
-Artigo XIII
+###### Artigo XIII
 
 A presente Convenção não se aplicará às aeronaves utilizadas nos serviços militares, alfandegários ou de polícia.
 
-Artigo XIV
+###### Artigo XIV
 
 Para os fins da presente Convenção, as competentes autoridades judiciais e administrativas dos Estados Contratantes podem, salvo disposição contrária da sua lei nacional, corresponder-se directamente entre si.
 
-Artigo XV
+###### Artigo XV
 
 Os Estados Contratantes comprometem-se a toma as medidas necessárias para assegurarem a execução das disposições da presente Convenção e para as fazerem conhecer sem demora ao secretário-geral da Organização da Aviação Civil Internacional.
 
-Artigo XVI
+###### Artigo XVI
 
 Para os fins da presente Convenção, a expressão «aeronave» compreenderá a célula, os motores, os hélices, os aparelhos de rádio e quaisquer outras peças destinadas ao serviço da aeronave, nela incorporadas ou temporariamente separadas da mesma.
 
-Artigo XVII
+###### Artigo XVII
 
 Se num território representado por um Estado Contratante nas suas relações exteriores existir um registo de matrícula distinto, toda a referência feita na presente Convenção à «lei do Estado Contratante» deverá entender-se como referência à lei desse território.
 
-Artigo XVIII
+###### Artigo XVIII
 
 A presente Convenção ficará aberta para assinatura até entrar em vigor nas condições previstas no artigo XX.
 
-Artigo XIX
+###### Artigo XIX
 
 1 - A presente Convenção será ratificada pelos Estados signatários.
 
 2 - Os instrumentos de ratificação serão depositados nos arquivos da Organização da Aviação Civil Internacional, que notificará cada um dos Estados signatários e aderentes da data de depósito.
 
-Artigo XX
+###### Artigo XX
 
 1 - Logo que dois Estados signatários tenham depositado os seus instrumentos de ratificação da presente Convenção, esta entrará em vigor entre eles no nonagésimo dia após a data do depósito do segundo instrumento de ratificação.
 
@@ -281,7 +291,7 @@ Para os Estados que depositarem o seu instrumento de ratificação depois dessa 
 
 3 - A presente Convenção, logo após a sua entrada em vigor, será registada junto das Nações Unidas pelo secretário-geral da Organização da Aviação Civil Internacional.
 
-Artigo XXI
+###### Artigo XXI
 
 1 - A presente Convenção, após a sua entrada em vigor, ficará aberta à adesão dos Estados não signatários.
 
@@ -289,13 +299,13 @@ Artigo XXI
 
 3 - A adesão produzirá efeitos a partir do nonagésimo dia após a data do depósito do instrumento de adesão nos arquivos da Organização da Aviação Civil Internacional.
 
-Artigo XXII
+###### Artigo XXII
 
 1 - Cada Estado Contratante pode denunciar a presente Convenção, notificando esta denúncia à Organização da Aviação Civil Internacional, que informará cada um dos Estados signatários e aderentes da data de recepção desta notificação.
 
 2 - A denúncia produzirá efeitos seis meses após a sua notificação ter sido recebida pela Organização da Aviação Civil Internacional.
 
-Artigo XXIII
+###### Artigo XXIII
 
 1 - Qualquer Estado poderá, no momento do depósito do seu instrumento de ratificação ou adesão, declarar que a sua aceitação da presente Convenção não abrange alguns dos territórios por cujas relações exteriores ele é responsável.
 
@@ -313,4 +323,4 @@ Feito em Genebra no décimo nono dia do mês de Junho do ano de mil novecentos e
 
 A presente Convenção será depositada nos arquivos da Organização, da Aviação Civil Internacional, onde, de acordo com o artigo XVIII, ficará aberta à assinatura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/20300/28662873.pdf))](https://files.diariodarepublica.pt/1s/1985/09/20300/28662873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/20300/28662873.pdf)

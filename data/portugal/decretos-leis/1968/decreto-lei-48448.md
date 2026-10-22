@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48448-1968-272043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60f9eb49d9e0c407ba77c9c534148b24e6ef390ae5ef3ba0d88d87a3ca1b0dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ee27f870f1ebe88e4d79cf7349d4db8a6a40aa931e61a2e40a84071796b102a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Assistência Social
+- Centro de Saúde Mental
+- Coimbra
+- Estabelecimento Hospitalar
+- Extinção de Serviços
+- Hospital de Miguel Bombarda
+- Hospital de Sobral Cid
+- Instituto de Assistência Psiquiátrica
+- Integração de Trabalhadores
+- Lisboa
+- Ministério da Saúde e Assistência
 relationships:
 - type: amended_by
   target: pt:dre:627448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535218:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:43Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +120,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São extintos o Dispensário Central da Zona Sul e o Dispensário Central da Zona Centro do Instituto de Assistência Psiquiátrica.
+Artigo 1.º - 1. São extintos o Dispensário Central da Zona Sul e o Dispensário Central da Zona Centro do Instituto de Assistência Psiquiátrica.
 
 2. O respectivo pessoal e o pessoal do serviço social da sede e Delegação da Zona Centro do Instituto, com excepção da superintendente do serviço social, transitarão para os quadros dos Hospitais de Júlio de Matos, de Miguel Bombarda e de Sobral Cid, que se consideram acrescidos dos lugares correspondentes, mediante despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo, com dispensa de quaisquer outras formalidades, incluindo a posse e o visto do Tribunal de Contas.
 
@@ -104,10 +128,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O Ministro da Saúde e Assistência determinará, por despacho, quais os bens do inventário do Dispensário Central da Zona Sul que serão entregues aos Hospitais de Júlio de Matos e de Miguel Bombarda. Os bens do Dispensário Central da Zona Centro serão entregues, na sua totalidade, ao Hospital de Sobral Cid.
 
-###### Art. 2.º Mediante portarias do Ministro da Saúde e Assistência, nas quais se fixarão as regras gerais do respectivo funcionamento, poderão ser criados, nos termos dos artigos 7.º a 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942, e no âmbito do III Plano de Fomento, os serviços necessários à estruturação dos futuros centros de saúde mental de Lisboa e de Coimbra.
+Art. 2.º Mediante portarias do Ministro da Saúde e Assistência, nas quais se fixarão as regras gerais do respectivo funcionamento, poderão ser criados, nos termos dos artigos 7.º a 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942, e no âmbito do III Plano de Fomento, os serviços necessários à estruturação dos futuros centros de saúde mental de Lisboa e de Coimbra.
 
-###### Art. 3.º A extinção dos dois Dispensários a que se refere o artigo 1.º só se tornará efectiva depois de publicados os despachos previstos no n.º 2 do mesmo artigo e na mesma data em que entrarem em funcionamento os serviços que os devam substituir.
+Art. 3.º A extinção dos dois Dispensários a que se refere o artigo 1.º só se tornará efectiva depois de publicados os despachos previstos no n.º 2 do mesmo artigo e na mesma data em que entrarem em funcionamento os serviços que os devam substituir.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

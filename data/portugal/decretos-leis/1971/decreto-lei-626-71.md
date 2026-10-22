@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1971-165994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25ef27de2a39619219e36b03bb19867d0a61151f3f32e7f64320e1e03c0ac5a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c867287324f872bb37e6c1856a3d5a2644c6cd2245c780f1dc15f6cadd1e94e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direitos de Importação
+- Importação
+- Indústria Têxtil
+- Pauta dos Direitos de Importação
+- Produto Químico
+relationships:
+- type: amended_by
+  target: pt:dre:398317:por
+  label: "Suspensa até 30.06.1972 a aplicação das alterações introduzidas ao cap. 56º da Pauta dos direitos de Importação,\
+    \ aprovada pelo Dec Lei 42656 de 18-Nov de 1959, pelo presente diploma, pelo DM.DD185.27.01.1972.MF, DG.IS [22] de 27.01.1972\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-ministerial/1972-398317
+  date: '1972-01-27'
+- type: cites
+  target: pt:dre:391404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514597:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:43Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +130,11 @@ Ouvido o Conselho de Ministros para as Assuntos Económicos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É eliminado do texto da Pauta dos Direitos de Importação o artigo 56.01.01.
+Artigo 1.º É eliminado do texto da Pauta dos Direitos de Importação o artigo 56.01.01.
 
-###### Art. 2.º O actual artigo da Pauta dos Direitos de Importação n.º 56.01.02 passa a 56.01.03.
+Art. 2.º O actual artigo da Pauta dos Direitos de Importação n.º 56.01.02 passa a 56.01.03.
 
-###### Art. 3.º São introduzidos no texto da Pauta dos Direitos de Importação os seguintes artigos:
+Art. 3.º São introduzidos no texto da Pauta dos Direitos de Importação os seguintes artigos:
 
 56.01 ...
 
@@ -134,7 +154,7 @@ Pauta máxima - Quilograma, 6$00.
 
 Pauta mínima - Quilograma, 2$00.
 
-###### Art. 4.º As posições 56.02 e 56.04 da Pauta dos Direitos de Importação são desdobradas nas subposições seguintes:
+Art. 4.º As posições 56.02 e 56.04 da Pauta dos Direitos de Importação são desdobradas nas subposições seguintes:
 
 56.02 ...
 
@@ -184,13 +204,13 @@ Pauta máxima - Quilograma, 16$00.
 
 Pauta mínima - Quilograma, 8$00.
 
-###### Art. 5.º As taxas da pauta mínima indicadas nos artigos antecedentes devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as que se encontram em vigor em consequência do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
+Art. 5.º As taxas da pauta mínima indicadas nos artigos antecedentes devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as que se encontram em vigor em consequência do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
 
-###### Art. 6.º Da lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, devem-se eliminar os produtos respeitantes ao artigo 56.01.01.
+Art. 6.º Da lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, devem-se eliminar os produtos respeitantes ao artigo 56.01.01.
 
-###### Art. 7.º O calendário a que se refere a alínea a) do § 4 do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre será aplicável às taxas dos novos artigos pautais 56.01.02, 56.01.03, 56.02.02, 56.02.03, 56.04.02 e 56.04.03.
+Art. 7.º O calendário a que se refere a alínea a) do § 4 do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre será aplicável às taxas dos novos artigos pautais 56.01.02, 56.01.03, 56.02.02, 56.02.03, 56.04.02 e 56.04.03.
 
-###### Art. 8.º Em relação às taxas dos novos artigos 56.01.01, 56.02.01 e 56.04.01 e de acordo com o disposto na alínea c) do § 6 do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre, o programa de reduções a efectuar será o seguinte:
+Art. 8.º Em relação às taxas dos novos artigos 56.01.01, 56.02.01 e 56.04.01 e de acordo com o disposto na alínea c) do § 6 do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre, o programa de reduções a efectuar será o seguinte:
 
 1 de Julho de 1972 - redução de 10 por cento.
 
@@ -202,16 +222,16 @@ Pauta mínima - Quilograma, 8$00.
 
 1 de Janeiro de 1980 - redução de 30 por cento.
 
-###### Art. 9.º Serão concedidas autorizações para importação em regime de draubaque das mercadorias abrangidas pelo presente diploma.
+Art. 9.º Serão concedidas autorizações para importação em regime de draubaque das mercadorias abrangidas pelo presente diploma.
 
-###### Art. 10.º - 1. As alterações constantes do presente diploma entram em vigor imediatamente.
+Art. 10.º - 1. As alterações constantes do presente diploma entram em vigor imediatamente.
 
 2. O Ministro das Finanças fica autorizado a suspender, para as importações realizadas até 30 de Junho de 1972, a aplicação das alterações introduzidas pelo presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 28 de Dezembro de 1971.**
+Promulgado em 28 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

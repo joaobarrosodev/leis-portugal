@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/296-1971-642761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8d509ebabcc261cae1f5c78cbdf77f3b8004b803c18d4c81a8f8d09601d8c93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0860a17d17946c786307315d611ce798f51412e3dc72bf0465b32eca484fc82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:502861:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:14Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +100,18 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São criados na Escola Técnica do Prof. Silva Cunha, que funciona em S. Tomé, os cursos de formação de serralheiro e montador electricista, em substituição do curso de formação de electromecânico.
+Artigo 1.º - 1. São criados na Escola Técnica do Prof. Silva Cunha, que funciona em S. Tomé, os cursos de formação de serralheiro e montador electricista, em substituição do curso de formação de electromecânico.
 
 2. O curso de electromecânico extinto pelo presente decreto continuará em funcionamento até que os alunos que actualmente o frequentam, seguindo o plano normal, o concluam.
 
-###### Art. 2.º O quadro constante da alínea A) do artigo 3.º do [Decreto n.º 47603](https://diariodarepublica.pt/dr/detalhe/decreto/47603-1967-502861), de 24 de Março de 1967, é acrescido com um lugar de professor do 1.º grupo.
+Art. 2.º O quadro constante da alínea A) do artigo 3.º do [Decreto n.º 47603](https://diariodarepublica.pt/dr/detalhe/decreto/47603-1967-502861), de 24 de Março de 1967, é acrescido com um lugar de professor do 1.º grupo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1971.**
+Promulgado em 29 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

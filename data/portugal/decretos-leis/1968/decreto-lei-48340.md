@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48340-1968-234537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbeb4eb928ea8b010ce303e1816ae159a47511bf42f7fb513f1f8dee6acfad6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87427da3eccd586ee438f409d4398f8203869f33eed9dadade758f08871cfce5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Formas de Provimento
+- Juiz
+- Juiz Militar
+- Militar
+- Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:398799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:398799:por
+  label: "Alterado o art. 1º do presente diploma, pelo DEC LEI.68/72.03.03.1972.MX, DG.IS [53] de 03.03.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1972-398799
+  date: '1972-03-03'
+- type: cites
+  target: pt:dre:578130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:05Z'
   warnings: []
   errors: []
 ---
@@ -100,14 +115,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juízes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.
+Artigo 1.º As funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juízes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.
 
 § único. Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.
 
-###### Art. 2.º Os oficiais do quadro de complemento licenciados em Direito poderão ser nomeados para os cargos de promotor de justiça e defensor oficioso dos tribunais militares territoriais.
+Art. 2.º Os oficiais do quadro de complemento licenciados em Direito poderão ser nomeados para os cargos de promotor de justiça e defensor oficioso dos tribunais militares territoriais.
 
-###### Art. 3.º O Ministro do Exército poderá delegar nos comandantes das regiões militares e comandos territoriais independentes, no todo ou em parte, a competência prevista no artigo 1.º
+Art. 3.º O Ministro do Exército poderá delegar nos comandantes das regiões militares e comandos territoriais independentes, no todo ou em parte, a competência prevista no artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

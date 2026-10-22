@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/03/05600/02490250.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43529-1961-561178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ded6a44060ff311ae1576fc9f12cb46c867bd5a6d34a54d276408edb3e4a3ae1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1f85a5ca7e489b6ffe51389896ee4dffaa3a3ad08802e1f5115d491464a336f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Transporte de Passageiros
+- Turismo
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:324877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:324877:por
+  label: Revogado pelo(a) Decreto-Lei n.º 398/78 - Diário da República n.º 287/1978, Série I de 1978-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1978-324877
+  date: '1978-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:54Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +101,22 @@ Considerando que é o momento oportuno de dar plena realização ao plano de fac
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É permitida a importação temporária de veículos automóveis desprovidos de caderneta de passagem nas alfândegas ou documentos equivalentes pelo prazo de um ano e sem prestação de garantia aos respectivos direitos, desde que os seus proprietáros ou legítimos detentores sejam turistas que não tenham residência em território português do continente e ilhas adjacentes e nele não exerçam qualquer actividade e se façam acompanhar do título de registo de propriedade e do livrete de circulação ou documentos correspondentes.
+Artigo 1.º É permitida a importação temporária de veículos automóveis desprovidos de caderneta de passagem nas alfândegas ou documentos equivalentes pelo prazo de um ano e sem prestação de garantia aos respectivos direitos, desde que os seus proprietáros ou legítimos detentores sejam turistas que não tenham residência em território português do continente e ilhas adjacentes e nele não exerçam qualquer actividade e se façam acompanhar do título de registo de propriedade e do livrete de circulação ou documentos correspondentes.
 
 § 1.º Os veículos automóveis importados temporàriamente só podem ser utilizados pelos respectivos proprietários ou legítimos detentores, pelos cônjuges ou parentes em primeiro grau, ou ainda por pessoas que os substituam mediante autorização expressa.
 
 § 2.º Em qualquer dos casos previstos no parágrafo antecedente, os utentes dos veículos farão prova de que têm a sua residência habitual fora do território português do continente e ilhas adjacentes, sem embargo de poderem fazer-se acompanhar pelos seus familiares.
 
-###### Art. 2.º As disposições do artigo antecedente não poderão ser aproveitadas pelos nacionais ou estrangeiros.
+Art. 2.º As disposições do artigo antecedente não poderão ser aproveitadas pelos nacionais ou estrangeiros.
 
 a) Residentes no território português do continente e ilhas adjacentes;
 
 b) Que já tenham aproveitado das suas vantagens pelo prazo nele estatuído e voltem ao País antes de findo o prazo de seis meses.
 
-###### Art. 3.º O disposto no presente diploma é extensivo a todos os automóveis exclusivamente destinados ao transporte de pessoas, incluindo os mistos, desde que não conduzam mercadorias, e motocicletas, velocípedes com motor e triciclos com motor, autocarros com turistas, automóveis de desporto a utilizar por corredores residentes no estrangeiro e que participem em competições a disputar no País e, ainda, veículos-vivendas e reboques de campismo, desporto ou bagagens.
+Art. 3.º O disposto no presente diploma é extensivo a todos os automóveis exclusivamente destinados ao transporte de pessoas, incluindo os mistos, desde que não conduzam mercadorias, e motocicletas, velocípedes com motor e triciclos com motor, autocarros com turistas, automóveis de desporto a utilizar por corredores residentes no estrangeiro e que participem em competições a disputar no País e, ainda, veículos-vivendas e reboques de campismo, desporto ou bagagens.
 
 § único. Os objectos sujeitos a direitos transportados nos veículos-vivendas e nos reboques de campismo ou desporto devem ser mencionados numa relação que será apresentada à alfândega para seu visto e conferência, exigindo-se, aquando da sua saída, o pagamento dos direitos relativos aos artigos que faltarem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Março de 1961. - AMÉRICO DEUS RODRIGUES TH0MAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

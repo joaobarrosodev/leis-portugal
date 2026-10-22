@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45990-1964-537055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d7fe413f1bc9babdaee71d94cfaa4d9e93ffbc1e1da2489fe2674806710fd2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e54d6012624db1bfa78e070423cc652890e4e60c2cd503514249dd0c20feec6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Formação
+- Engenharia Militar
+- Formação Profissional
+- Marinha
+- Militar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:528590:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:56Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +97,9 @@ Considerando a necessidade de modificar as condições em que são abertos os co
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Aos artigos 1.º, 4.º e 9.º do [Decreto-Lei n.º 34659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34659-1945-528590), de 9 de Junho de 1945, alterado pelos Decretos-Leis n.os 40859 e 44997, de, respectivamente, 14 de Novembro de 1956 e 24 de Abril de 1963, é dada a seguinte redacção:
+Artigo único. Aos artigos 1.º, 4.º e 9.º do [Decreto-Lei n.º 34659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34659-1945-528590), de 9 de Junho de 1945, alterado pelos Decretos-Leis n.os 40859 e 44997, de, respectivamente, 14 de Novembro de 1956 e 24 de Abril de 1963, é dada a seguinte redacção:
 
-###### Artigo 1.º Para preenchimento das vacaturas existentes ou previstas no quadro da classe dos engenheiros construtores navais, será aberto concurso documental na Direcção do Serviço do Pessoal da Superintendência dos Serviços da Armada para a frequência do curso de engenheiros construtores navais, a que poderão concorrer os segundos-tenentes da classe de marinha de idade não inferior a 25 anos, feitos no ano do concurso.
+Artigo 1.º Para preenchimento das vacaturas existentes ou previstas no quadro da classe dos engenheiros construtores navais, será aberto concurso documental na Direcção do Serviço do Pessoal da Superintendência dos Serviços da Armada para a frequência do curso de engenheiros construtores navais, a que poderão concorrer os segundos-tenentes da classe de marinha de idade não inferior a 25 anos, feitos no ano do concurso.
 
 § 1.º O número de oficiais que deve ser admitido a cada curso e a data de abertura do concurso serão propostos pela Direcção do Serviço do Pessoal e submetidos a decisão superior, tendo em conta a necessidade de o quadro da classe dos engenheiros construtores navais ser mantido devidamente preenchido.
 
@@ -97,7 +107,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 4.º O curso de engenheiro construtor naval será efectuado numa escola estrangeira da especialidade, escolhida pelo Ministro da Marinha, sob proposta da comissão referida no artigo anterior, antecedido de um período de adaptação, de duração não inferior a dois meses, durante o qual os candidatos nomeados frequentarão estaleiros de construção naval para aprenderem a terminologia técnica estrangeira e se iniciarem na observação de processos de construção, e seguido de um tirocínio, de duração não inferior a seis meses, devendo ambos realizar-se, de preferência, no país onde for feito o curso.
+Art. 4.º O curso de engenheiro construtor naval será efectuado numa escola estrangeira da especialidade, escolhida pelo Ministro da Marinha, sob proposta da comissão referida no artigo anterior, antecedido de um período de adaptação, de duração não inferior a dois meses, durante o qual os candidatos nomeados frequentarão estaleiros de construção naval para aprenderem a terminologia técnica estrangeira e se iniciarem na observação de processos de construção, e seguido de um tirocínio, de duração não inferior a seis meses, devendo ambos realizar-se, de preferência, no país onde for feito o curso.
 
 § 1.º O programa e a duração do tirocínio serão fixados por despacho do Ministro da Marinha, sob proposta da comissão referida no artigo anterior, e desse tirocínio deverá ser apresentado relatório dentro do prazo de três meses, que poderá ser colectivo se os oficiais tirocinantes tiverem trabalhado em comum.
 
@@ -105,7 +115,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 9.º A data do ingresso dos oficiais que concluírem o curso de engenheiros construtores navais na classe dos engenheiros construtores navais é a do dia em que for aprovada, por despacho do Ministro da Marinha, a sua classificação final.
+Art. 9.º A data do ingresso dos oficiais que concluírem o curso de engenheiros construtores navais na classe dos engenheiros construtores navais é a do dia em que for aprovada, por despacho do Ministro da Marinha, a sua classificação final.
 
 § 1.º Se por motivos que não puderam ser previstos o número de oficiais que concluírem o curso de engenheiros construtores navais for superior ao número de vacaturas existentes no quadro da classe, os oficiais mais modernos que excederem este número ficarão na situação de supranumerários.
 
@@ -113,6 +123,6 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Sem prejuízo do disposto no parágrafo anterior, são graduados no posto de primeiro-tenente e mantêm os vencimentos anteriores os oficiais que durante o curso tenham atingido, na classe de marinha, o posto de primeiro-tenente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

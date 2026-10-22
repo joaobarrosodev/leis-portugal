@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/4-1983-307844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec1f15e162a68f8a9e4fe4063cc70537ea5902f468c9d581a4edc1f0522fcb78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9853c1b248fdfb655aa15af275fb14f60ce746a646ca9982c5c25cd3895bc2f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Cultural
+- Dinamarca
+- Lisboa
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:51Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +91,15 @@ de 20 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo sobre Cooperação Cultural entre o Governo da República Portuguesa e o Governo do Reino da Dinamarca, assinado em Lisboa a 21 de Julho de 1982, cujo texto único em inglês vai anexo ao presente decreto, conjuntamente com a tradução portuguesa.
+Artigo único. É aprovado o Acordo sobre Cooperação Cultural entre o Governo da República Portuguesa e o Governo do Reino da Dinamarca, assinado em Lisboa a 21 de Julho de 1982, cujo texto único em inglês vai anexo ao presente decreto, conjuntamente com a tradução portuguesa.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1982. - Diogo Pinto de Freitas do Amaral - Vasco Luís Caldeira Coelho Futscher Pereira.
 
-**Assinado em 3 de Janeiro de 1983.**
+Assinado em 3 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ACORDO SOBRE COOPERAÇÃO CULTURAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DA DINAMARCA.
 
@@ -104,11 +109,11 @@ Desejando manter e reforçar os laços de amizade existentes entre os 2 países,
 
 acordam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Partes deverão incentivar a cooperação entre as instituições e organizações de carácter científico, educativo, cultural e artístico dos 2 países, salvaguardando os interesses e os benefícios mútuos.
 
-ARTIGO II
+###### ARTIGO II
 
 Neste contexto, e numa base de reciprocidade, as Partes comprometem-se a:
 
@@ -132,17 +137,17 @@ Neste contexto, e numa base de reciprocidade, as Partes comprometem-se a:
 
 10) Incentivar a cooperação nos domínios da imprensa, rádio e televisão.
 
-ARTIGO III
+###### ARTIGO III
 
 Nos termos das leis e regulamentos em vigor nos respectivos territórios, e de acordo com os termos a acordar pela Comissão Mista, cada uma das Partes deverá conceder à outra todas as facilidades possíveis à entrada, residência e saída de pessoas e à importação de material e equipamentos necessários à consecução de programas ou intercâmbios que possam vir a ser estabelecidos ao abrigo do presente Acordo.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Com vista à implementação deste Acordo, as Partes nomearão representantes, que se deverão reunir periodicamente numa Comissão Mista.
 
 As reuniões realizar-se-ão alternadamente em Portugal e na Dinamarca. À Comissão Mista incumbirá a supervisão do cumprimento das disposições do presente Acordo e a fixação das condições organizativas e financeiras necessárias à concretização dos intercâmbios referidos no mesmo.
 
-ARTIGO V
+###### ARTIGO V
 
 Este Acordo entrará em vigor na data em que as Partes notificarem uma à outra a conclusão do necessário processo legislativo.
 

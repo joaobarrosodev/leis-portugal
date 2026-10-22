@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59527f68d5490edafe645c8e5650944c691a16946d01eb5b0b5c20a4f0dd51c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cd7fa49c6218bb29f918d79e43a7eb81a689ee5ce66528645f34214a3822e82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indep
+- Orgânica
+- Política de Defesa
 relationships:
 - type: amended_by
   target: pt:dre:293721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308296:por
+  label: "Prorrogado, até 90 dias e nos termos do artigo único, o prazo fixado no nº 3 do art. 7º, pelo DEC LEI.61/83.02.02.1983.MDN,\
+    \ DR.IS [27] de 02.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-1983-308296
+  date: '1983-02-02'
+- type: amended_by
+  target: pt:dre:172098:por
+  label: "Alterados o art. 3º e o nº 3 do art. 6º pelo DEC LEI.485/85.22.11.1985.MDN, DR.IS [269] de 22.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1985-172098
+  date: '1985-11-22'
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631797:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogada, a partir de 1 de Janeiro de 1989, os benefícios fiscais constantes da parte final do nº 2 do art. 2º,\
+    \ (com referência ao nº 1 do art. 34º Dec Lei 260/76, de 08-Abr), pelo DEC LEI.485/88.1988.12.30.MF, DR.IS [301]2ºSupl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 50
+  article_count: 49
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:01Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +147,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada pelo presente diploma a empresa pública Indústrias Nacionais de Defesa, E. P., abreviadamente INDEP, que substitui a Fábrica Militar de Braço de Prata e a Fábrica Nacional de Munições de Armas Ligeiras a partir da data de entrada em vigor deste diploma.
+Artigo 1.º - 1 - É criada pelo presente diploma a empresa pública Indústrias Nacionais de Defesa, E. P., abreviadamente INDEP, que substitui a Fábrica Militar de Braço de Prata e a Fábrica Nacional de Munições de Armas Ligeiras a partir da data de entrada em vigor deste diploma.
 
 2 - A INDEP é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa e financeira, com património próprio, a qual se rege pelo Estatuto das Indústrias Nacionais de Defesa, E. P., que em anexo se publica e se considera como fazendo parte integrante deste diploma.
 
-###### Art. 2.º - 1 - O capital estatutário inicial da INDEP será fixado por despacho dos Ministros da Defesa Nacional, das Finanças e do Plano e de Ministros responsável pelo planeamento, sob proposta do conselho de gerência da INDEP, a apresentar no prazo máximo de noventa dias, contados a partir da data de entrada em vigor deste diploma.
+Art. 2.º - 1 - O capital estatutário inicial da INDEP será fixado por despacho dos Ministros da Defesa Nacional, das Finanças e do Plano e de Ministros responsável pelo planeamento, sob proposta do conselho de gerência da INDEP, a apresentar no prazo máximo de noventa dias, contados a partir da data de entrada em vigor deste diploma.
 
 2 - É transferida para a INDEP, na data de entrada em vigor deste diploma, a universalidade de bens, direitos e obrigações da Fábrica Militar de Braço de Prata e da Fábrica Nacional de Munições de Armas Ligeiras.
 
@@ -118,25 +159,25 @@ Nos direitos assim transferidos, incluem-se, nos termos do n.º 1 do artigo 34.�
 
 3 - Fazendo parte do património e do activo da INDEP, do antecedente e no futuro, quaisquer participações directas e indirectas no capital de sociedades ou empresas mistas ou públicas, designadamente em sectores de actividade com interesse ou conexos com o objecto da INDEP, caberá a esta gerir as referidas participações.
 
-###### Art. 3.º A transferência para a INDEP de todos os bens do património da Fábrica Militar de Braço de Prata e da Fábrica Nacional de Munições de Armas Ligeiras far-se-á por força do presente diploma, o qual constituirá título suficiente para todos os efeitos legais, incluindo os de registo.
+Art. 3.º A transferência para a INDEP de todos os bens do património da Fábrica Militar de Braço de Prata e da Fábrica Nacional de Munições de Armas Ligeiras far-se-á por força do presente diploma, o qual constituirá título suficiente para todos os efeitos legais, incluindo os de registo.
 
-###### Art. 4.º - 1 - Incumbe à INDEP proceder, sem retribuição, ao encerramento e à apresentação das contas relativas ao exercício ou exercícios anteriores à data da sua constituição das fábricas que são extintas.
+Art. 4.º - 1 - Incumbe à INDEP proceder, sem retribuição, ao encerramento e à apresentação das contas relativas ao exercício ou exercícios anteriores à data da sua constituição das fábricas que são extintas.
 
 2 - As referidas contas e, bem assim, o inventário geral de todos os bens dos patrimónios transferidos ou a transferir deverão ser apresentados aos Ministros da Defesa Nacional e das Finanças e do Plano no prazo de seis meses, contados a partir da data de entrada em vigor do presente diploma.
 
-###### Art. 5.º - 1 - A todos os contratos em curso à data da constituição da INDEP será aplicável o regime jurídico e a disciplina legal em vigor à data do início da sua vigência.
+Art. 5.º - 1 - A todos os contratos em curso à data da constituição da INDEP será aplicável o regime jurídico e a disciplina legal em vigor à data do início da sua vigência.
 
 2 - O disposto no número anterior aplica-se igualmente, para efeitos tributários, a taxas ou idênticas posições.
 
 3 - A INDEP conserva, em relação a tais contratos e seus efeitos, as prerrogativas de institutos públicos autónomos integrados no Exército, de que dispunham as antigas FMBP e FNMAL.
 
-###### Art. 6.º - 1 - Para efeitos do disposto no artigo 2.º do [Decreto-Lei n.º 521/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1971-631797), de 24 de Novembro, a INDEP goza, relativamente à matéria e à disciplina nele prevista, das regalias atribuídas aos estabelecimentos fabris do Exército.
+Art. 6.º - 1 - Para efeitos do disposto no artigo 2.º do [Decreto-Lei n.º 521/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1971-631797), de 24 de Novembro, a INDEP goza, relativamente à matéria e à disciplina nele prevista, das regalias atribuídas aos estabelecimentos fabris do Exército.
 
 2 - Dado o seu objecto principal, a INDEP poderá vir a beneficiar de regalias em matérias específicas, além das previstas no seu Estatuto, que serão fixadas por despacho conjunto do Ministro da Defesa Nacional e dos Ministros em cuja área de competência se insiram essas matérias.
 
 3 - A INDEP terá em particular atenção a observância das normas gerais de segurança emanadas da autoridade nacional de segurança OTAN e as normas específicas do serviço de segurança da forças armadas.
 
-###### Art. 7.º - 1 - Ao pessoal civil actualmente em serviço na Fábrica Militar de Braço de Prata e na Fábrica Nacional de Munições de Armas Ligeiras que transite para a INDEP são mantidos os direitos e regalias previstos na lei, designadamente quanto a impostos, regime de licenças, aposentação ou reformas e previdência, de que gozavam à data da extinção dos referidos estabelecimentos fabris.
+Art. 7.º - 1 - Ao pessoal civil actualmente em serviço na Fábrica Militar de Braço de Prata e na Fábrica Nacional de Munições de Armas Ligeiras que transite para a INDEP são mantidos os direitos e regalias previstos na lei, designadamente quanto a impostos, regime de licenças, aposentação ou reformas e previdência, de que gozavam à data da extinção dos referidos estabelecimentos fabris.
 
 2 - O pessoal referido no número anterior poderá, todavia, optar por qualquer outra das situações seguintes:
 
@@ -146,27 +187,27 @@ b) Renunciar aos direitos e regalias referidos no n.º 1 do presente artigo, fic
 
 3 - O direito de opção referido no número anterior terá de ser exercido no prazo máximo de nove meses, a partir da data de entrada em vigor do presente diploma, e não o sendo, o pessoal visado ficará na situação descrita no n.º 1 deste mesmo artigo.
 
-###### Art. 8.º Os regulamentos e disposições complementares que definirão o regime jurídico próprio, o Estatuto e o regime disciplinar especial do pessoal da INDEP, permitidos pelo n.º 2 do artigo 3.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, deverão ser publicados no prazo máximo de seis meses, a partir da entrada em vigor do presente decreto-lei.
+Art. 8.º Os regulamentos e disposições complementares que definirão o regime jurídico próprio, o Estatuto e o regime disciplinar especial do pessoal da INDEP, permitidos pelo n.º 2 do artigo 3.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, deverão ser publicados no prazo máximo de seis meses, a partir da entrada em vigor do presente decreto-lei.
 
-###### Art. 9.º - 1 - O pessoal civil, na situação referida no n.º 1 do artigo 7.º, é e continuará obrigatoriamente subscritor da Caixa Geral de Aposentações, sendo-lhe aplicável, a partir da data de entrada em vigor deste diploma, o estatuto disciplinar dos funcionários civis do Estado.
+Art. 9.º - 1 - O pessoal civil, na situação referida no n.º 1 do artigo 7.º, é e continuará obrigatoriamente subscritor da Caixa Geral de Aposentações, sendo-lhe aplicável, a partir da data de entrada em vigor deste diploma, o estatuto disciplinar dos funcionários civis do Estado.
 
 2 - Os vencimentos e salários, subsídios e gratificações do pessoal referido no número anterior são fixados por despacho do Ministro da Defesa Nacional, sob proposta do conselho de gerência da INDEP, tendo em atenção idênticos abonos pagos pela indústria privada e os auferidos, líquidos, pelo pessoal subordinado ao estatuto da INDEP.
 
-###### Art. 10.º - 1 - Será aplicável a todo o pessoal da INDEP, enquanto não exercer o direito de opção, o regime previsto para o pessoal na situação referida no n.º 1 do artigo 7.º
+Art. 10.º - 1 - Será aplicável a todo o pessoal da INDEP, enquanto não exercer o direito de opção, o regime previsto para o pessoal na situação referida no n.º 1 do artigo 7.º
 
 2 - Igual regime será aplicável ao pessoal que opte por ser transferido, de harmonia com a alínea a) do n.º 2 do mesmo artigo 7.º, enquanto estiver em diligência na INDEP a aguardar transferência, e bem assim ao restante pessoal, enquanto não forem publicados e entrarem em vigor os regulamentos e normas previstos no artigo 8.º deste diploma.
 
-###### Art. 11.º O Ministro da tutela é o Ministro da Defesa Nacional.
+Art. 11.º O Ministro da tutela é o Ministro da Defesa Nacional.
 
-###### Art. 12.º O presente decreto-lei entra em vigor noventa dias após a publicação no Diário de República do diploma que determina a extinção das fábricas referidas no n.º 1 do artigo 1.º
+Art. 12.º O presente decreto-lei entra em vigor noventa dias após a publicação no Diário de República do diploma que determina a extinção das fábricas referidas no n.º 1 do artigo 1.º
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Diogo Pinto de Freitas do Amaral - Adelino Manuel Lopes Amaro da Costa.
 
-**Promulgado em 20 de Outubro de 1980.**
+Promulgado em 20 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Estatuto de Indústrias Nacionais de Defesa, E. P.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19900/21282130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1979-378537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bda16ce7421e6e899196ed575f2175ae387e2ee0fe2b8357dd67c24bd332457
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a7d4adbbd8a9588b219048dc6d53c377bb18b02b157c0f2b4e844b0ab00b447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional do Ensino Artístico
+- Ensino Artístico
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:07Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +111,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado no Ministério da Educação e Investigação Científica, para funcionar junto do Ministro, o Conselho Nacional do Ensino Artístico (CNEA) ao qual compete estudar questões referentes ao ensino artístico e sobre elas emitir parecer.
+Artigo 1.º É criado no Ministério da Educação e Investigação Científica, para funcionar junto do Ministro, o Conselho Nacional do Ensino Artístico (CNEA) ao qual compete estudar questões referentes ao ensino artístico e sobre elas emitir parecer.
 
-###### Art. 2.º O CNEA é composto por vinte membros, nomeados pelo Ministro da Educação e Investigação Científica de entre individualidades com reconhecida competência nos diversos domínios do ensino artístico ou em domínios considerados relevantes para o efeito.
+Art. 2.º O CNEA é composto por vinte membros, nomeados pelo Ministro da Educação e Investigação Científica de entre individualidades com reconhecida competência nos diversos domínios do ensino artístico ou em domínios considerados relevantes para o efeito.
 
-###### Art. 3.º O Ministério da Educação e Investigação Científica nomeará de entre os membros do Conselho um presidente, o qual poderá ser substituído em qualquer momento.
+Art. 3.º O Ministério da Educação e Investigação Científica nomeará de entre os membros do Conselho um presidente, o qual poderá ser substituído em qualquer momento.
 
-###### Art. 4.º O Conselho poderá solicitar, nos termos previstos neste diploma, a colaboração temporária de individualidades especialmente qualificadas em matérias determinadas, as quais terão direito a gratificações a fixar de acordo com o trabalho desenvolvido, nos termos do disposto no artigo 20.º do presente decreto-lei.
+Art. 4.º O Conselho poderá solicitar, nos termos previstos neste diploma, a colaboração temporária de individualidades especialmente qualificadas em matérias determinadas, as quais terão direito a gratificações a fixar de acordo com o trabalho desenvolvido, nos termos do disposto no artigo 20.º do presente decreto-lei.
 
-###### Art. 5.º - 1 - Os membros do Conselho serão normalmente designados pelo prazo de dois anos, renovável por períodos de igual duração.
+Art. 5.º - 1 - Os membros do Conselho serão normalmente designados pelo prazo de dois anos, renovável por períodos de igual duração.
 
 2 - É obrigatório o exercício de funções no Conselho, só se admitindo dispensas em casos excepcionais comprovadamente justificados e mediante despacho do Ministro da Educação e Investigação Científica.
 
@@ -114,7 +127,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A designação dos novos membros deverá efectuar-se até ao trigésimo dia anterior ao termo do mandato do Conselho em exercício.
 
-###### Art. 6.º Compete ao Conselho Nacional do Ensino Artístico, dentro dos limites estabelecidos no artigo 1.º do presente diploma, emitir parecer, nomeadamente, sobre as seguintes matérias:
+Art. 6.º Compete ao Conselho Nacional do Ensino Artístico, dentro dos limites estabelecidos no artigo 1.º do presente diploma, emitir parecer, nomeadamente, sobre as seguintes matérias:
 
 a) Esquema geral do sistema de ensino artístico;
 
@@ -142,29 +155,29 @@ m) Convenções internacionais;
 
 n) Todos os assuntos que lhe sejam apresentados pelo Ministro da Educação e Investigação Científica.
 
-###### Art. 7.º O Conselho Nacional do Ensino Artístico terá uma comissão permanente, composta pelo presidente e por dois vogais nomeados pelo Ministro da Educação e Investigação Científica de entre os membros do Conselho.
+Art. 7.º O Conselho Nacional do Ensino Artístico terá uma comissão permanente, composta pelo presidente e por dois vogais nomeados pelo Ministro da Educação e Investigação Científica de entre os membros do Conselho.
 
-###### Art. 8.º O Conselho Nacional do Ensino Artístico disporá de um serviço de apoio administrativo, que funcionará na dependência da Comissão Permanente.
+Art. 8.º O Conselho Nacional do Ensino Artístico disporá de um serviço de apoio administrativo, que funcionará na dependência da Comissão Permanente.
 
-###### Art. 9.º O Serviço de Apoio Administrativo empreenderá um chefe de secção, que exercera as funções de secretário, e um escriturário-dactilógrafo a destacar do quadro único dos órgãos e serviços centrais do Ministério da Educação e Investigação Científica.
+Art. 9.º O Serviço de Apoio Administrativo empreenderá um chefe de secção, que exercera as funções de secretário, e um escriturário-dactilógrafo a destacar do quadro único dos órgãos e serviços centrais do Ministério da Educação e Investigação Científica.
 
-###### Art. 10.º O Conselho Nacional do Ensino Artístico funcionará em plenário ou em comissões restritas constituídas nos termos do presente decreto-lei.
+Art. 10.º O Conselho Nacional do Ensino Artístico funcionará em plenário ou em comissões restritas constituídas nos termos do presente decreto-lei.
 
-###### Art. 11.º - 1 - O plenário do Conselho reunirá em sessões ordinárias ou extraordinárias.
+Art. 11.º - 1 - O plenário do Conselho reunirá em sessões ordinárias ou extraordinárias.
 
 2 - As sessões ordinárias realizar-se-ão mensalmente, em dia, hora e local a fixar pelo presidente.
 
 3 - As sessões extraordinárias realizar-se-ão por determinação do Ministro da Educação e Investigação Científica, ou por iniciativa do presidente ou da Comissão Permanente, ou ainda a requerimento de pelo menos um terço dos membros do Conselho em efectividade de funções.
 
-###### Art. 12.º - 1 - As sessões plenárias funcionarão desde que esteja presente a maioria dos seus membros em efectividade de funções, entre os quais o presidente ou o vogal da Comissão Permanente por ele designado para o substituir.
+Art. 12.º - 1 - As sessões plenárias funcionarão desde que esteja presente a maioria dos seus membros em efectividade de funções, entre os quais o presidente ou o vogal da Comissão Permanente por ele designado para o substituir.
 
 2 - As deliberações serão tomadas por maioria dos votos dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 13.º - 1 - As comissões previstas no artigo 10.º do presente diploma serão organizadas a título permanente ou eventual e poderão ser constituídas por membros da Comissão Permanente ou do Conselho e, sempre que necessário, por individualidades que com este colaborem nos termos do artigo 4.º deste decreto-lei.
+Art. 13.º - 1 - As comissões previstas no artigo 10.º do presente diploma serão organizadas a título permanente ou eventual e poderão ser constituídas por membros da Comissão Permanente ou do Conselho e, sempre que necessário, por individualidades que com este colaborem nos termos do artigo 4.º deste decreto-lei.
 
 2 - A colaboração das referidas individualidades será solicitada pela Comissão Permanente, ouvindo, quando necessário, os membros do Conselho que sejam especialistas da matéria em causa.
 
-###### Art. 14.º - 1 - Compete ao presidente do CNEA:
+Art. 14.º - 1 - Compete ao presidente do CNEA:
 
 a) Representar o Conselho e assegurar conjuntamente com os respectivos membros da Comissão Permanente as relações entre este e o Ministro;
 
@@ -180,7 +193,7 @@ f) Fazer as propostas de destacamento do pessoal do Serviço de Apoio Administra
 
 2 - O presidente designará de entre os vogais da Comissão Permanente o seu substituto nos casos de ausência ou impedimento.
 
-###### Art. 15.º Compete designadamente à Comissão Permanente:
+Art. 15.º Compete designadamente à Comissão Permanente:
 
 a) Assegurar a execução das decisões tomadas pelo Conselho e dinamizar a sua actividade;
 
@@ -196,7 +209,7 @@ f) Distribuir os processos;
 
 g) Praticar os actos internos previstos neste diploma.
 
-###### Art. 16.º Compete designadamente ao Serviço de Apoio Administrativo:
+Art. 16.º Compete designadamente ao Serviço de Apoio Administrativo:
 
 a) Proceder à recolha de documentação nacional e estrangeira sobre ensino artístico;
 
@@ -214,9 +227,9 @@ g) Praticar, em geral, todos os actos de expediente que pela Comissão Permanent
 
 h) Assegurar a prestação dos serviços auxiliares necessários ao bom funcionamento do Conselho.
 
-###### Art. 17.º Para cada assunto a tratar pelo Conselho, a Comissão Permanente deverá organizar um processo do qual constarão todos os documentos com ele relacionados.
+Art. 17.º Para cada assunto a tratar pelo Conselho, a Comissão Permanente deverá organizar um processo do qual constarão todos os documentos com ele relacionados.
 
-###### Art. 18.º - 1 - Os processos serão distribuídos pela Comissão Permanente a um relator, que será coadjuvado pelos elementos dessa Comissão.
+Art. 18.º - 1 - Os processos serão distribuídos pela Comissão Permanente a um relator, que será coadjuvado pelos elementos dessa Comissão.
 
 2 - O relator poderá ser um dos membros do Conselho ou uma das individualidades previstas no artigo 4.º do presente diploma.
 
@@ -226,11 +239,11 @@ h) Assegurar a prestação dos serviços auxiliares necessários ao bom funciona
 
 5 - Os prazos previstos nos n.os 3 e 4 do presente artigo poderão ser reduzidos ou dilatados por decisão da Comissão Permanente desde que haja motivo que o justifique.
 
-###### Art. 19.º - 1 - A Comissão Permanente elaborará um projecto de regulamento interno a ser aprovado em reunião plenária.
+Art. 19.º - 1 - A Comissão Permanente elaborará um projecto de regulamento interno a ser aprovado em reunião plenária.
 
 2 - O regulamento referido no número anterior carece de homologação ministerial para produzir os seus efeitos.
 
-###### Art. 20.º - 1 - O presidente do CNEA desempenhará as suas funções em regime de comissão de serviço e terá a remuneração equivalente à letra B da tabela de vencimentos da função pública.
+Art. 20.º - 1 - O presidente do CNEA desempenhará as suas funções em regime de comissão de serviço e terá a remuneração equivalente à letra B da tabela de vencimentos da função pública.
 
 2 - Os vogais da Comissão Permanente, para o desempenho integral das funções que lhes cabem, poderão ser dispensados, total ou parcialmente, por despacho ministerial, das funções que vinham exercendo à data da sua designação, sendo-lhes equiparado o serviço prestado na Comissão ao efectivo exercício de função própria, para todos os efeitos.
 
@@ -238,14 +251,14 @@ h) Assegurar a prestação dos serviços auxiliares necessários ao bom funciona
 
 4 - Os vogais da Comissão Permanente e as individualidades que colaborem com o Conselho ao abrigo do artigo 4.º do presente diploma terão direito a gratificações que serão fixadas por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Investigação Científica e Secretário de Estado da Administração Pública, tendo em conta o trabalho a desenvolver e nos termos do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
 
-###### Art. 21.º Sem prejuízo do disposto no n.º 1 do artigo 5.º do presente diploma, o primeiro mandato do Conselho Nacional terminará em 30 de Setembro de 1981.
+Art. 21.º Sem prejuízo do disposto no n.º 1 do artigo 5.º do presente diploma, o primeiro mandato do Conselho Nacional terminará em 30 de Setembro de 1981.
 
-###### Art. 22.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando for caso disso.
+Art. 22.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando for caso disso.
 
 Visto e aprovado em Conselho de Ministros de 31 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 23 de Julho de 1979.**
+Promulgado em 23 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

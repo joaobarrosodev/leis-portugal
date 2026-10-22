@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/28-1985-180583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35dd5ec46e137b3b78f7eeb0892924161faff99b3b9722e1d053c530d2920d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28fdff59f6d335ead00e9e31255d3894e6570c545d3e112e790376fe5d718ddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Convenção
+- Londres
+- Pessoal do MAR
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:667751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234734:por
+  label: "Ratificadas as emendas ao Anexo à Convenção pelo DEC.42/98.1998.10.13.PR DR.IS-A [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/42-1998-234734
+  date: '1998-10-13'
+- type: amended_by
+  target: pt:dre:667751:por
+  label: "Estendido ao território de Macau a Convenção aprovada para adesão pelo presente diploma, pelo DEC.193/99.1999.10.22.PR,\
+    \ DR.IS-A [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/193-1999-667751
+  date: '1999-10-22'
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:10Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +107,19 @@ de 8 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º de 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, de 1978, cujo texto em inglês e a respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovada para adesão a Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, de 1978, cujo texto em inglês e a respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - José de Almeida Serra.
 
-**Assinado em 18 de Julho de 1985.**
+Assinado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Julho de 1985.**
+Referendado em 19 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Convenção Internacional sobro Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, 1978
 
@@ -115,17 +131,13 @@ Considerando que a melhor forma de atingir este objectivo é pelo estabeleciment
 
 acordaram no seguinte:
 
-ARTIGO I
-
-Obrigações de ordem gerei nos termos de Convenção
+###### ARTIGO I — Obrigações de ordem gerei nos termos de Convenção
 
 1 - As Partes comprometem-se a cumprir as disposições da Convenção e respectivo anexo, o qual constitui parte integrante daquela. Qualquer referência à Convenção constitui simultaneamente uma referência ao anexo.
 
 2 - As Partes comprometem-se a promulgar todas as leis, decretos, normas e regulamentos necessários e a adoptar todas as outras medidas indispensáveis para o cumprimento efectivo e integral da Convenção, de modo a garantir que, no que respeita à salvaguarda da vida humana e dos bens no mar, bem como à protecção do meio ambiente marítimo, as tripulações dos navios possuam as qualificações e a aptidão necessárias ao desempenho das suas funções.
 
-ARTIGO II
-
-Definições
+###### ARTIGO II — Definições
 
 Para efeitos da Convenção, salvo disposição expressa em contrário:
 
@@ -147,9 +159,7 @@ h) «Navio de pesca» designa uma embarcação utilizada na captura de peixe, ba
 
 i) «Regulamento das radiocomunicações» designa o regulamento das radiocomunicações anexo, ou que se considera como anexo, à Convenção Internacional de Telecomunicações mais recente que esteja em vigor num dado momento.
 
-ARTIGO III
-
-Âmbito de aplicação
+###### ARTIGO III — Âmbito de aplicação
 
 A Convenção aplica-se aos marítimos que exercem funções a bordo dos navios de mar autorizados a arvorar a bandeira de uma Parte, excepto àqueles que prestam serviço a bordo de:
 
@@ -161,9 +171,7 @@ c) Embarcações de recreio que não sejam utilizadas com fins comerciais; ou
 
 d) Navios de madeira de construção primitiva.
 
-ARTIGO IV
-
-Comunicação de informações
+###### ARTIGO IV — Comunicação de informações
 
 1 - As Partes facultarão o mais rapidamente possível ao secretário-geral:
 
@@ -175,9 +183,7 @@ c) Um número suficiente de modelos dos certificados que emitem em conformidade 
 
 2 - O secretário-geral notificará todas as Partes da recepção de qualquer comunicação efectuada nos termos da alínea a) do parágrafo 1 deste artigo, devendo, nomeadamente, para efeitos dos artigos IX e X, a pedido das Partes, fornecer-lhes qualquer informação que lhe tenha sido facultada ao abrigo das alíneas b) e c) do parágrafo 1 deste artigo.
 
-ARTIGO V
-
-Outros tratados e interpretação
+###### ARTIGO V — Outros tratados e interpretação
 
 1 - Quaisquer outros tratados, convenções e acordos anteriores relativos a normas de formação, de certificação e de serviço de quartos para os marítimos presentemente em vigor entre as Partes continuarão a ter pleno efeito durante os prazos de vigência respectivos no que respeita a:
 
@@ -191,17 +197,13 @@ b) Marítimos aos quais se aplica a Convenção, relativamente a matérias sobre
 
 4 - Nada do disposto na presente Convenção deverá prejudicar a codificação e desenvolvimento do direito do mar por parte da Conferência das Nações Unidas sobre o Direito do Mar convocada na sequência da Resolução n.º 2750 C (XXV) da Assembleia Geral das Nações Unidas, nem as reivindicações e posições jurídicas actuais ou futuras de qualquer Estado respeitantes ao direito do mar e à natureza e âmbito da jurisdição dos Estados ribeirinhos e dos Estados da bandeira.
 
-ARTIGO VI
-
-Certificados
+###### ARTIGO VI — Certificados
 
 1 - Serão emitidos certificados para comandante, oficial ou marítimo da mestrança e marinhagem aos candidatos que, de acordo com os critérios que a administração considere satisfatórios, possuam as condições necessárias no que respeita a tempos de embarque, idade, aptidão física, formação, qualificação e exames de acordo com as disposições adequadas, constantes do anexo da Convenção.
 
 2 - Os certificados para comandante e para oficial concedidos em conformidade com o presente artigo serão autenticados pela administração que os emite, segundo o disposto na rega I-2 do anexo. Se a língua utilizada não for o inglês, a autenticação deverá incluir uma tradução nessa língua.
 
-ARTIGO VII
-
-Disposições transitórias
+###### ARTIGO VII — Disposições transitórias
 
 1 - Um certificado de competência ou de serviço respeitante a uma função para a qual a Convenção exige um certificado e que tenha sido emitido de acordo com as leis de uma Parte ou com o regulamento das radiocomunicações antes da entrada em vigor da Convenção para essa Parte será reconhecido como válido para o exercício dessas funções após a entrada em vigor da Convenção para essa Parte.
 
@@ -217,9 +219,7 @@ c) Comprovado a sua aptidão física perante a administração, incluindo a acui
 
 Para os fins desta Convenção, um certificado de serviço emitido de acordo com este parágrafo será considerado como equivalente a um certificado emitido nos termos da Convenção.
 
-ARTIGO VIII
-
-Dispensas
+###### ARTIGO VIII — Dispensas
 
 1 - Em circunstâncias de extrema necessidade, as administrações, desde que considerem que daí não advenha perigo para as pessoas, bens ou meio ambiente, podem conceder uma dispensa que permita a um determinado marítimo prestar serviço num determinado navio, durante um período determinado que não exceda 6 meses, em funções para as quais não detém o certificado apropriado, desde que considerem que o titular da dispensa possui qualificações suficientes para ocupar o lugar vago com segurança. Todavia, esta dispensa não pode ser concedida para o lugar de oficial radiotécnico ou operador radiotelefonista, excepto se verificarem as circunstâncias previstas pelas disposições pertinentes do regulamento das radiocomunicações. No entanto, não deverão ser concedidas dispensas nem a um comandante nem a um chefe de máquinas, salvo em casos de força maior, e, mesmo assim, durante o mais curto espaço de tempo possível.
 
@@ -227,17 +227,13 @@ Dispensas
 
 3 - As Partes deverão enviar, o mais rapidamente possível, depois de 1 de Janeiro de cada ano, um relatório ao secretário-geral informando sobre o número total de dispensas concedidas durante o ano em navios de mar, para o exercício de cada uma das funções para as quais é exigido um certificado, indicando quantos desses navios têm, respectivamente, mais e menos de 1600 tAB.
 
-ARTIGO IX
-
-Equivalências
+###### ARTIGO IX — Equivalências
 
 1 - As disposições da Convenção não deverão impedir uma administração de manter ou adoptar outros esquemas de ensino e formação, incluindo os que abrangem períodos de embarque e uma organização a bordo especialmente adaptados ao desenvolvimento técnico e a tipos especiais de navios e de linhas, desde que o nível dos períodos de embarque, dos conhecimentos e da eficiência exigidos no que respeita ao governo do navio e ao manuseamento da carga, quer no aspecto náutico, quer no aspecto técnico, garantam um grau de segurança no mar e de prevenção da poluição que seja, pelo menos, equivalente às exigências da Convenção.
 
 2 - Os pormenores destes esquemas deverão ser comunicados, logo que possível, ao secretário-geral, o qual os fará circular pelas Partes.
 
-ARTIGO X
-
-Inspecção
+###### ARTIGO X — Inspecção
 
 1 - Os navios, com excepção dos excluídos pelo artigo III, enquanto se encontrarem nos portos de uma Parte, estão sujeitos a inspecções efectuadas por funcionários devidamente autorizados por essa Parte para verificar se todos os marítimos que exercem funções a bordo e que são obrigados, nos termos da Convenção, a possuir um certificado possuem efectivamente esse certificado ou uma dispensa adequada. Esse certificado será aceite, salvo se existirem motivos fundamentados para suspeitar que tenha sido obtido por meios fraudulentos ou que a pessoa que se apresenta como titular não é aquela a quem o certificado foi originalmente concedido.
 
@@ -251,9 +247,7 @@ Se um navio for indevidamente retardado ou retido, o mesmo terá direito a ser i
 
 5 - Este artigo será aplicado de maneira que não seja dado um tratamento mais favorável aos navios autorizados a arvorar a bandeira de um país que não seja Parte do que aquele que é concedido aos navios autorizados a arvorar a bandeira de uma Parte.
 
-ARTIGO XI
-
-Promoção da cooperação técnica
+###### ARTIGO XI — Promoção da cooperação técnica
 
 1 - As Partes à Convenção deverão, em consulta com a Organização e com a ajuda desta, promover o apoio às Partes que solicitem assistência técnica nos seguintes domínios:
 
@@ -271,7 +265,7 @@ de preferência à escala nacional, sub-regional ou regional, para favorecer a c
 
 2 - Por seu lado, a Organização prosseguirá os esforços acima mencionados, da forma considerada adequada, em consulta ou em ligação com outras organizações internacionais, particularmente a Organização Internacional do Trabalho.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - A Convenção pode ser alterada por qualquer dos seguintes processos:
 
@@ -313,9 +307,7 @@ iii) Salvo decisão em contrário por parte da conferência, a emenda considerar
 
 3 - O secretário-geral informará todas as Partes de quaisquer emendas que entrem em vigor, bem como da respectiva data de entrada em vigor de cada uma.
 
-ARTIGO XIII
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### ARTIGO XIII — Assinatura, ratificação, aceitação, aprovação e adesão
 
 1 - A Convenção permanecerá aberta para assinatura na sede da Organização de 1 de Dezembro de 1978 até 30 de Novembro de 1979 e continuará depois disso aberta para adesão. Qualquer Estado se pode tornar Parte por meio de:
 
@@ -329,9 +321,7 @@ c) Adesão.
 
 3 - O secretário-geral informará todos os Estados que tenham assinado a Convenção ou a ela tenham aderido e o director-geral da Organização Internacional do Trabalho de qualquer assinatura ou do depósito de qualquer instrumento de ratificação, aceitação, aprovação ou adesão e da data de tal depósito.
 
-ARTIGO XIV
-
-Entrada em vigor
+###### ARTIGO XIV — Entrada em vigor
 
 1 - A Convenção entrará em vigor 12 meses após a data em que pelo menos 25 Estados cujas frotas mercantes representem no total um mínimo de 50% da tonelagem de arqueação bruta da frota mundial dos navios de comércio com uma arqueação bruta igual ou superior a 100 t a tenham assinado sem reservas quanto à sua ratificação, aceitação ou aprovação, ou tenham depositado os instrumentos exigidos de ratificação, aceitação, aprovação ou adesão, nos termos do artigo XIII.
 
@@ -343,9 +333,7 @@ Entrada em vigor
 
 5 - Após a data em que se considera que uma emenda à Convenção tenha sido aceite nos termos do artigo XII, qualquer instrumento de ratificação, aceitação, aprovação ou adesão depositado aplicar-se-á à Convenção na forma emendada.
 
-ARTIGO XV
-
-Denúncia
+###### ARTIGO XV — Denúncia
 
 1 - A Convenção poderá ser denunciada por qualquer Parte em qualquer altura, após terem decorrido 5 anos a contar da data em que a Convenção tenha entrado em vigor para essa Parte.
 
@@ -353,17 +341,13 @@ Denúncia
 
 3 - A denúncia produzirá efeitos 12 meses após a recepção pelo secretário-geral da respectiva notificação, ou após qualquer período superior que conste da notificação.
 
-ARTIGO XVI
-
-Depósito e registo
+###### ARTIGO XVI — Depósito e registo
 
 1 - A Convenção será depositada junto do secretário-geral, o qual enviará cópias autenticadas da mesma a todos os Estados que tenham assinado a Convenção ou que a ela tenham aderido.
 
 2 - Logo que a Convenção entre em vigor, o secretário-geral enviará o texto ao secretário-geral da Organização das Nações Unidas para registo e publicação, de acordo com o artigo 102 da Carta das Nações Unidas.
 
-ARTIGO XVII
-
-Línguas
+###### ARTIGO XVII — Línguas
 
 A Convenção é redigida num único exemplar nas línguas chinesa, espanhola, francesa, inglesa e russa, sendo cada um dos textos igualmente autênticos. Serão feitas traduções oficiais nas línguas alemã e árabe, as quais serão depositadas juntamente com o original assinado.
 
@@ -373,7 +357,9 @@ Feita em Londres no dia 7 de Julho de 1978.
 
 (nota *) É omitida a lista dos signatários.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -441,7 +427,7 @@ Modelo de autenticação dos certificados
 
 Autenticação dos certificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18100/24112467.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18100/24112467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18100/24112467.pdf)
 
 Regra I-3
 
@@ -621,7 +607,7 @@ c) Ter efectuado com aprovação o exame adequado exigido pela administração. 
 
 O nível dos conhecimentos exigidos nos termos dos diferentes títulos do apêndice poderá variar consoante o certificado for emitido a nível de comandante ou de imediato e consoante o certificado ou certificados forem aplicáveis a navios com uma arqueação bruta igual ou superior a 1600 t, ou a navios com uma arqueação bruta compreendida entre 200 t e 1600 t.
 
-## Apêndice à regra II-2
+Apêndice à regra II-2
 
 Conhecimentos mínimos obrigatórios para a certificação de comandantes e imediatos de navios com arqueação bruta igual ou superior a 200 t.
 
@@ -941,7 +927,7 @@ A formação para aquisição dos conhecimentos e da experiência prática neces
 
 A administração, se considerar que as dimensões de um navio e as condições da viagem são de molde a tornar impraticável ou impossível a aplicação da totalidade dos requisitos desta regra e do seu apêndice, poderá, nessa medida, isentar o comandante e o oficial chefe de quarto de navegação nesses navios ou tipos de navios de alguns desses requisitos, tendo sempre em atenção a segurança de todos os navios que possam operar nas mesmas águas.
 
-## Apêndice à regra II-3
+Apêndice à regra II-3
 
 Conhecimentos mínimos obrigatórios para a certificação de oficiais chefes de quarto de navegação e de comandantes de navios com arqueação bruta inferior a 200 t.
 
@@ -1019,7 +1005,7 @@ a) O nível dos conhecimentos a exigir sobre as matérias constantes do apêndic
 
 b) A formação para aquisição dos conhecimentos teóricos e da experiência prática necessários deverá basear-se na regra II-1 «Princípios básicos a observar durante um quarto de navegação» e nos regulamentos e recomendações internacionais pertinentes.
 
-## Apêndice à regra II-4
+Apêndice à regra II-4
 
 Conhecimentos mínimos obrigatórios para a certificação de oficiais chefes de quarto de navegação em navios com arqueação bruta igual ou superior a 200 t.
 
@@ -1251,7 +1237,9 @@ Requisitos mínimos obrigatórios aplicáveis aos quartos em porto em navios que
 
 3 - Na organização dos quartos deverão ser tomadas em consideração as disposições da «Recomendação sobre os Princípios e Guia Operacional para Oficiais de Convés Chefes de Quarto em. Porto» e a «Recomendação sobre os Princípios e Guia Operacional para Oficiais de Máquinas Chefes de Quarto de Máquinas em Porto», adoptadas pela Conferência Internacional sobre Formação e Certificação de Marítimos, 1978.
 
-### CAPÍTULO III — Secção de máquinas
+### CAPÍTULO III
+
+#### Secção de máquinas
 
 Regra III-1
 
@@ -1369,7 +1357,7 @@ d) Ter efectuado com aprovação o exame adequado exigido pela administração. 
 
 4 - O nível dos conhecimentos exigido nos termos dos diferentes parágrafos do apêndice poderá variar consoante o certificado for emitido a nível de chefe de máquinas ou de segundo-oficial de máquinas.
 
-## Apêndice à regra III-2
+Apêndice à regra III-2
 
 Conhecimentos mínimos obrigatórios para a certificação de chefes de máquinas e de segundos-oficiais de máquinas de navios cuja máquina principal tenha uma potência propulsora igual ou superior a 3000 kW.
 
@@ -1463,7 +1451,7 @@ d) Ter efectuado com aprovação o exame adequando exigido pela administração.
 
 5 - Qualquer oficial de máquinas qualificado para exercer funções de segundo-oficial de máquinas de navios cuja máquina principal tenha uma potência propulsora igual ou superior a 3000 kW poderá exercer funções de chefe de máquinas em navios cuja máquina principal tenha uma potência propulsora inferior a 3000 kW, desde que tenha exercido funções como oficial de máquinas num cargo de responsabilidade durante um período de embarque aprovado não inferior a 12 meses.
 
-## Apêndice à regra III-3
+Apêndice à regra III-3
 
 Conhecimentos mínimos obrigatórios para a certificação de chefes de máquinas e de segundos-oficiais de máquinas de navios cuja máquina principal tenha uma potência propulsora de 750 kW a 3000 kW.
 
@@ -1697,7 +1685,9 @@ d) Conhecimento da localização e modo de utilizar o equipamento de combate a i
 
 6 - A administração poderá considerar que um marítimo satisfaz às exigências desta regra no caso de ter exercido funções apropriadas na secção de máquinas durante um período não inferior a 1 ano dentro dos últimos 5 anos anteriores à entrada em vigor da Convenção para essa administração.
 
-### CAPÍTULO IV — Secção de radiocomunicações
+### CAPÍTULO IV
+
+#### Secção de radiocomunicações
 
 Escuta radioeléctrica e manutenção do equipamento
 
@@ -1723,7 +1713,7 @@ c) Satisfazer às exigências do apêndice a esta regra.
 
 4 - O nível dos conhecimentos exigidos para a emissão do certificado deverá ser o suficiente para que o oficial radiotécnico desempenhe as suas funções relativas ao serviço radioeléctrico com segurança e eficiência. Ao determinar o nível adequado de conhecimentos e a formação necessária para a aquisição destes conhecimentos e da aptidão prática a administração deverá tomar em consideração as exigências do regulamento das radiocomunicações e do apêndice a esta regra. As administrações deverão tomar igualmente em consideração as resoluções pertinentes adoptadas pela Conferência Internacional sobre Formação e Certificação de Marítimos, 1978, bem como as recomendações pertinentes da IMO.
 
-## Apêndice à regra IV-1
+Apêndice à regra IV-1
 
 Conhecimentos mínimos complementares e requisitos de formação para oficiais radiotécnicos
 
@@ -1797,7 +1787,7 @@ c) Satisfazer às exigências do apêndice a esta regra.
 
 4 - O nível dos conhecimentos exigidos para a emissão do certificado deverá ser o suficiente para que o operador radiotelefonista desempenhe as suas funções relativas ao serviço radioeléctrico com segurança e eficiência. Ao determinar o nível adequado de conhecimentos e a formação necessária para a aquisição desses conhecimentos e da aptidão prática a administração deverá tomar em consideração as exigências do regulamento das radiocomunicações e do apêndice a esta regra. As administrações deverão tomar igualmente em consideração as resoluções pertinentes adoptadas pela Conferência Internacional sobre Formação e Certificação de Marítimos, 1978, bem como as recomendações pertinentes da IMO.
 
-## Apêndice à regra IV-3
+Apêndice à regra IV-3
 
 Conhecimentos mínimos complementares e requisitos de formação para operadores radiotelefonistas
 
@@ -1921,7 +1911,7 @@ viii) Utilizar o equipamento de sinalização, incluindo o pirotécnico;
 
 ix) Utilizar o equipamento de radiocomunicações portátil para embarcações salva-vidas.
 
-## Apêndice à regra VI-1
+Apêndice à regra VI-1
 
 Conhecimentos mínimos obrigatórios para a emissão de certificados de aptidão para a condução de embarcações salva-vidas.
 
@@ -2315,7 +2305,7 @@ Form of endorsement of certificates
 
 Endorsement of certificates
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18100/24112467.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18100/24112467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18100/24112467.pdf)
 
 Regulation I-3
 

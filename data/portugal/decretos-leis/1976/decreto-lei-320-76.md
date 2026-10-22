@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 104/1976, 1º Suplemento, Série I de 1976-05-04
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 980-(1) a 980-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/10401/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1976-287659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 515893f0959e6b27e9c3e26c1addca60194f2badc1cfcf5235598cfb3027f68c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52a6d07c761dede4cfb1203c9161d3332cd13f69a68dbb4da1720d1d43b607fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo Penal
+- Definição de Competências
+- Direito à Justiça
+- Magistrado Judicial
+- Presidente
+- Processo Penal
+- Supremo Tribunal de Justiça
+- Tribunal de Comarca
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:427840:por
+  label: Rectificado pela DECL.DD8840.12.05.1976.PCM, DR.IS [111] de 12.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427840
+  date: '1976-05-12'
+- type: corrected_by
+  target: pt:dre:310617:por
+  label: Rectificado pela DECL.DD8909.01.06.1976.PCM, DR.IS [128]2ºSupl de 01.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-310617
+  date: '1976-06-01'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:31Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +131,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São substituídos os §§ únicos dos artigos 312.º e 318.º e são alterados os parágrafos do artigo 314.º, o corpo do artigo 316.º, o § 3.º do artigo 317.º e o artigo 325.º do Código de Processo Penal, que passam a ter a seguinte redacção:
+Artigo 1.º São substituídos os §§ únicos dos artigos 312.º e 318.º e são alterados os parágrafos do artigo 314.º, o corpo do artigo 316.º, o § 3.º do artigo 317.º e o artigo 325.º do Código de Processo Penal, que passam a ter a seguinte redacção:
 
-###### Art. 312.º ...
+Art. 312.º ...
 
 § 1.º O requerimento para os efeitos deste artigo, firmado em qualquer dos fundamentos nele indicados, poderá ser subscrito pelo detido ou por qualquer cidadão no gozo dos seus direitos políticos.
 
@@ -118,7 +141,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 314.º ...
+Art. 314.º ...
 
 § 1.º O juiz pode pedir as informações ou ordenar as diligências que julgar convenientes antes de decidir nos termos deste artigo.
 
@@ -132,7 +155,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 316.º A petição de habeas corpus será formulada pelo detido ou por qualquer cidadão no gozo dos seus direitos políticos, por meio de requerimento dirigido ao presidente do Supremo Tribunal de Justiça.
+Art. 316.º A petição de habeas corpus será formulada pelo detido ou por qualquer cidadão no gozo dos seus direitos políticos, por meio de requerimento dirigido ao presidente do Supremo Tribunal de Justiça.
 
 § 1.º ...
 
@@ -140,7 +163,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 § 3.º ...
 
-###### Art. 317.º ...
+Art. 317.º ...
 
 § 1.º ...
 
@@ -148,7 +171,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 § 3.º Se não for dada resposta no prazo de quarenta e oito horas, remeter-se-á simplesmente o requerimento com essa informação.
 
-###### Art. 318.º ...
+Art. 318.º ...
 
 § 1.º A secção funcionará com todos os juízes em exercício, no mínimo de três, e com a assistência do Ministério Público. Em férias, o presidente do Supremo, ou quem as suas vezes fizer, convocará os juízes da secção criminal que se encontrem em Lisboa e, não os havendo em número suficiente, chamará os juízes mais antigos da secção civil que estejam na capital. Se ainda assim não for possível formar a sessão, serão mandados regressar a Lisboa os juízes da secção criminal que mais perto se encontrem.
 
@@ -156,22 +179,22 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 325.º O juiz da comarca e o Supremo Tribunal de Justiça são incompetentes para decretarem a providência extraordinária do habeas corpus relativamente a indivíduos sujeitos ao foro militar e que se encontrem detidos à ordem das autoridades militares.
+Art. 325.º O juiz da comarca e o Supremo Tribunal de Justiça são incompetentes para decretarem a providência extraordinária do habeas corpus relativamente a indivíduos sujeitos ao foro militar e que se encontrem detidos à ordem das autoridades militares.
 
-###### Art. 2.º São eliminados os §§ únicos dos artigos 319.º e 323.º
+Art. 2.º São eliminados os §§ únicos dos artigos 319.º e 323.º
 
-###### Art. 3.º É acrescentado ao artigo 320.º um § único com a seguinte redacção:
+Art. 3.º É acrescentado ao artigo 320.º um § único com a seguinte redacção:
 
 § único. A decisão será proferida no prazo máximo de oito dias a contar da apresentação do requerimento nos termos do § 2.º do artigo 316.º
 
-###### Art. 4.º Findo o prazo de oito dias sem que seja proferida decisão, o preso será restituído à liberdade.
+Art. 4.º Findo o prazo de oito dias sem que seja proferida decisão, o preso será restituído à liberdade.
 
-###### Art. 5.º Este diploma entra em vigor na data da sua publicação.
+Art. 5.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.
 
-**Promulgado em 30 de Abril de 1976.**
+Promulgado em 30 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

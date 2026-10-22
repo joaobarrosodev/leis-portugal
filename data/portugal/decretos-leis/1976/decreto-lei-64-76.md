@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02000/01440152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,174 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0431d320ee94221fcd5f9b60eb8f2fe3f9b36bf362d8ce92332b8148f2544ade
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca53f20e7093407c1f0786590ffabee078b64cf8a307bb0829f9902f6e1d20e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Centro de Identificação Civil e Criminal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426896:por
+  label: "Alterada a redacção do art. 56º pelo DEC LEI.408/76.1976.05.27.MJ, DR.IS [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1976-426896
+  date: '1976-05-27'
+- type: amended_by
+  target: pt:dre:407682:por
+  label: "Alterada a redacção dos arts. 6º, 43º e 61º pelo DEC LEI.851/76.1976.12.17.MJ, DR.IS [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/851-1976-407682
+  date: '1976-12-17'
+- type: amended_by
+  target: pt:dre:279591:por
+  label: "Alterado o artigo 18.º do Regulamento pelo DEC LEI.511/77.14.12.1977.MJ, DR.IS [287] de 14.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/511-1977-279591
+  date: '1977-12-14'
+- type: amended_by
+  target: pt:dre:393639:por
+  label: "Dada nova redacção ao n.º 1 do artigo 15.º pelo DEC LEI.29/79.22.02.1979.MJ, DR.IS [45] de 22.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1979-393639
+  date: '1979-02-22'
+- type: amended_by
+  target: pt:dre:222222:por
+  label: "Alterados os arts. 5.º, 6.º, 13.º, 26.º e 27.º do presente diploma, pelo DEC LEI.357/86.25.10.1986.MJ, DR.IS [247]\
+    \ de 25.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-1986-222222
+  date: '1986-10-25'
+- type: amended_by
+  target: pt:dre:663521:por
+  label: "Alterado o n.º 3 do artigo 5.º, pelo DEC LEI.29/87.14.01.1987.MJ, DR.IS [11] de 14.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1987-663521
+  date: '1987-01-14'
+- type: amended_by
+  target: pt:dre:662368:por
+  label: "Alterados os arts. 6.º, 14.º, 15.º, 17.º e 20.º pelo DEC LEI.102/87.06.03.1987.MJ, DR.IS [54] de 06.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1987-662368
+  date: '1987-03-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:160893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219343:por
+  label: Rectificado pela DECL.DD8704.07.04.1976.PCM, DG.IS [83]Supl de 07.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-219343
+  date: '1976-04-07'
+- type: repealed_by
+  target: pt:dre:308343:por
+  label: "Revogados os artigos 32.º a 55.º e, no que respeita aos boletins do registo criminal, e alínea a) do artigo 62.º\
+    \ pelo DEC LEI.39/83.25.01.1983.MJ, DR.IS [20] de 25.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1983-308343
+  date: '1983-01-25'
+- type: repealed_by
+  target: pt:dre:640075:por
+  label: Revogado, pela LEI.12/91.1991.05.21.AR, DR.IS-A [116], a partir da entrada em vigor do Dec Lei que regulamentar a
+    referida Lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1991-640075
+  date: '1991-05-21'
+- type: repealed_by
+  target: pt:dre:300011:por
+  label: Revogados os artigos 64.º, 65.º e 66.º pelo DEC LEI.148/93.03.05.1993.MJ, DR.IS-A [102] de 03.05.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1993-300011
+  date: '1993-05-03'
+- type: repealed_by
+  target: pt:dre:434982:por
+  label: "Revogada a al. g) do n.º 1 do art. 2º e os arts. 22º e 23º, pelo DEC LEI.244/98.1998.08.08.MAI DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1998-434982
+  date: '1998-08-08'
+- type: repealed_by
+  target: pt:dre:437236:por
+  label: "Revogados os arts. 56º a 63º e 67º a 76º, na parte relativa à identificação criminal, pela LEI.57/98.1998.08.18.AR,\
+    \ DR.IS-A [189], a partir da entrada em vigor da regulamentação nela prevista\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/57-1998-437236
+  date: '1998-08-18'
+- type: repealed_by
+  target: pt:dre:322974:por
+  label: "Revogados os arts. 1.º a 31.º, na parte relativa à identificação civil, e os arts. 56.º a 63.º e 67.º a 76.º do\
+    \ presente diploma, alterado pelo Dec Lei 787/76, de 02-Nov, pelo art. 2.º do Dec Lei 851/76, de 17-Dez, pelo Dec Lei\
+    \ 511/77, de 14-Dez, pelo Dec Lei 29/79, de 22-Fev, pelo Dec Lei 357/86, de 25-Out, pelo art. 3.º do Dec Lei 29/87, de\
+    \ 14-Jan e pelo Dec Lei 102/87, de 06-Mar, pela LEI.33/99.1999.05.18.AR DR.IS-A [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-1999-322974
+  date: '1999-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:03Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +230,11 @@ REGULAMENTO DO CENTRO DE IDENTIFICAÇÃO CIVIL E CRIMINAL
 
 #### SECÇÃO I — Valor e posse do bilhete de identidade
 
-###### Artigo 1.º - 1. O bilhete de identidade constitui documento bastante para provar a identidade do seu titular perante quaisquer autoridades, repartições públicas ou entidades particulares.
+Artigo 1.º - 1. O bilhete de identidade constitui documento bastante para provar a identidade do seu titular perante quaisquer autoridades, repartições públicas ou entidades particulares.
 
 2. O bilhete de identidade emitido pelo Centro de Identificação Civil e Criminal (CICC) é válido em todo o território nacional.
 
-###### Art. 2.º - 1. A posse do bilhete de identidade é obrigatória quando imposta por lei especial e nos seguintes casos:
+Art. 2.º - 1. A posse do bilhete de identidade é obrigatória quando imposta por lei especial e nos seguintes casos:
 
 a) Para exercício de qualquer cargo público civil e admissão aos respectivos concursos;
 
@@ -122,17 +256,17 @@ h) Para o exame de admissão e matrícula em qualquer escola de ensino preparat�
 
 3. A impossibilidade de apresentação do bilhete de identidade não impede a matrícula nas escolas a que se refere a alínea h) do n.º 1; a matrícula efectuada terá, porém, carácter provisório e ficará sem efeito se o interessado não apresentar o bilhete na secretaria da escola dentro do prazo de trinta dias.
 
-###### Art. 3.º - 1. É vedado a qualquer entidade pública ou privada reter ou conservar em seu poder, seja para que efeito for, bilhete de identidade actualizado, salvo o que se dispõe no n.º 2 do artigo 26.º e n.º 1 do artigo 27.º
+Art. 3.º - 1. É vedado a qualquer entidade pública ou privada reter ou conservar em seu poder, seja para que efeito for, bilhete de identidade actualizado, salvo o que se dispõe no n.º 2 do artigo 26.º e n.º 1 do artigo 27.º
 
 2. A conferência de identidade que se mostre necessária efectuar-se-á no momento da exibição do bilhete de identidade, o qual será imediatamente restituído após a conferência.
 
 #### SECÇÃO II — Pedido, renovação e averbamento do bilhete de identidade
 
-###### Art. 4.º - 1. O pedido de bilhete de identidade formulado pela primeira vez deve ser apresentado pelo próprio, em impresso fornecido pelos serviços, preenchido com letra bem legível, de preferência à máquina, sem emendas, rasuras ou entrelinhas, com a assinatura habitualmente usada pelo requerente.
+Art. 4.º - 1. O pedido de bilhete de identidade formulado pela primeira vez deve ser apresentado pelo próprio, em impresso fornecido pelos serviços, preenchido com letra bem legível, de preferência à máquina, sem emendas, rasuras ou entrelinhas, com a assinatura habitualmente usada pelo requerente.
 
 2. Se o requerente não souber ou não puder assinar, mencionar-se-á essa circunstância no lugar reservado à assinatura.
 
-###### Art. 5.º - 1. O pedido deve ser acompanhado dos seguintes documentos:
+Art. 5.º - 1. O pedido deve ser acompanhado dos seguintes documentos:
 
 a) Duas fotografias actuais do requerente, em tons de preto e branco e com boas condições de identificação;
 
@@ -150,7 +284,7 @@ c) Cédula pessoal do requerente actualizada.
 
 3. A validade das certidões referidas nos números anteriores é limitada ao prazo de três a seis meses, contados da data da sua passagem, consoante provierem da metrópole ou do ultramar e estrangeiro.
 
-###### Art. 6.º - 1. O bilhete de identidade regularmente emitido é válido durante cinco ou dez anos, conforme tenha sido passado antes ou depois de o portador atingir 40 anos de idade; o bilhete emitido depois de o seu titular perfazer 50 anos mantém a validade independentemente de renovação.
+Art. 6.º - 1. O bilhete de identidade regularmente emitido é válido durante cinco ou dez anos, conforme tenha sido passado antes ou depois de o portador atingir 40 anos de idade; o bilhete emitido depois de o seu titular perfazer 50 anos mantém a validade independentemente de renovação.
 
 2. Os prazos de validade de cinco e dez anos poderão, contudo, ser alongados por período não superior a dez meses para melhor distribuição e funcionamento dos serviços.
 
@@ -160,7 +294,7 @@ c) Cédula pessoal do requerente actualizada.
 
 5. Se à data do pedido de renovação do bilhete de identidade tiver havido alterações nos elementos que dele constam, devem estes ser actualizados.
 
-###### Art. 7.º - 1. Ao pedido de renovação de bilhete de identidade aplicam-se as disposições dos artigos 4.º e 5.º, e deve ser acompanhado do bilhete anterior.
+Art. 7.º - 1. Ao pedido de renovação de bilhete de identidade aplicam-se as disposições dos artigos 4.º e 5.º, e deve ser acompanhado do bilhete anterior.
 
 2. Se o bilhete anterior não for apresentado, o requerente deve declarar os motivos que obstam à sua entrega, esclarecendo, em caso de perda, destruição ou extravio, as circunstâncias em que ocorreu.
 
@@ -168,7 +302,7 @@ c) Cédula pessoal do requerente actualizada.
 
 4. A alteração do nome, estado civil, filiação, data ou local do nascimento do titular do bilhete de identidade a renovar prova-se pela certidão de nascimento do modelo especial ou documento que a substitua, nos termos do artigo 5.º, ou por certidão do próprio acto de que a alteração tenha resultado.
 
-###### Art. 8.º - 1. A alteração dos elementos de identificação constantes do bilhete de identidade determina a necessidade do seu averbamento.
+Art. 8.º - 1. A alteração dos elementos de identificação constantes do bilhete de identidade determina a necessidade do seu averbamento.
 
 2. Ao pedido de averbamento aplicam-se as disposições dos artigos 4.º, 5.º e 7.º, n.º 4.
 
@@ -178,9 +312,9 @@ c) Cédula pessoal do requerente actualizada.
 
 #### SECÇÃO III — Recepção e «contrôle» de dados
 
-###### Art. 9.º Os pedidos de bilhete de identidade podem ser apresentados na sede, nas delegações do CICC ou nas repartições de registo civil, exceptuados os postos de registo civil.
+Art. 9.º Os pedidos de bilhete de identidade podem ser apresentados na sede, nas delegações do CICC ou nas repartições de registo civil, exceptuados os postos de registo civil.
 
-###### Art. 10.º - 1. Aos serviços de recepção e contrôle compete:
+Art. 10.º - 1. Aos serviços de recepção e contrôle compete:
 
 a) Verificar se o requerente é o próprio apresentante do pedido e titular dos elementos de identificação que invoca;
 
@@ -202,11 +336,11 @@ e) Inutilizar as estampilhas fiscais apostas no impresso do pedido, depois de ve
 
 6. Os serviços de recepção devem recusar os pedidos, desde que não satisfaçam as condições exigidas.
 
-###### Art. 11.º Sempre que se suscitem dúvidas sobre a exactidão ou titularidade de qualquer dos elementos de identificação mencionados pelo interessado no pedido de bilhete de identidade, o director do CICC pode exigir a apresentação da prova complementar que considere necessária.
+Art. 11.º Sempre que se suscitem dúvidas sobre a exactidão ou titularidade de qualquer dos elementos de identificação mencionados pelo interessado no pedido de bilhete de identidade, o director do CICC pode exigir a apresentação da prova complementar que considere necessária.
 
 #### SECÇÃO IV — Emissão de bilhete de identidade
 
-###### Art. 12.º - 1. O bilhete de identidade, além da data de emissão, do prazo de validade, da autenticação pelos serviços e do respectivo número, conterá os seguintes elementos de identificação do seu titular:
+Art. 12.º - 1. O bilhete de identidade, além da data de emissão, do prazo de validade, da autenticação pelos serviços e do respectivo número, conterá os seguintes elementos de identificação do seu titular:
 
 a) Nacionalidade;
 
@@ -230,9 +364,9 @@ j) Assinatura.
 
 2. Disporá ainda de uma rubrica destinada a indicações eventuais.
 
-###### Art. 13.º O número individual atribuído na primeira emissão manter-se-á na renovação e averbamento e será o mesmo do processo individual correspondente.
+Art. 13.º O número individual atribuído na primeira emissão manter-se-á na renovação e averbamento e será o mesmo do processo individual correspondente.
 
-###### Art. 14.º - 1. Os nomes do interessado serão inscritos no bilhete de identidade como se mostrarem fixados de conformidade com a lei do registo civil, em face da certidão de nascimento ou da cédula pessoal.
+Art. 14.º - 1. Os nomes do interessado serão inscritos no bilhete de identidade como se mostrarem fixados de conformidade com a lei do registo civil, em face da certidão de nascimento ou da cédula pessoal.
 
 2. Se o assento de nascimento for anterior a 1 de Abril de 1911 e dele constar apenas o nome próprio, será inscrito o nome completo que tiver sido adoptado pelo interessado em actos ou documentos oficiais; se o interessado tiver usado, em actos ou documentos oficiais, nomes diversos, escolherá entre eles aquele que pretende adoptar para fins de identificação; na falta de escolha, inscrever-se-á o primeiro nome completo com que o interessado se tiver identificado oficialmente.
 
@@ -246,29 +380,29 @@ b) Os nomes próprios de cidadãos estrangeiros serão inscritos segundo a ortog
 
 5. Em casos excepcionais, devidamente justificados, poderá o Secretário de Estado dos Assuntos Judiciários autorizar a inscrição do nome próprio com ortografia diferente da oficial.
 
-###### Art. 15.º - 1. A naturalidade será inscrita no bilhete de identidade mediante menção, sempre que possível sob a designação actual, da freguesia e da sede do concelho correspondente ao local do nascimento; a menção das freguesias urbanas poderá ser omitida.
+Art. 15.º - 1. A naturalidade será inscrita no bilhete de identidade mediante menção, sempre que possível sob a designação actual, da freguesia e da sede do concelho correspondente ao local do nascimento; a menção das freguesias urbanas poderá ser omitida.
 
 2. Em relação aos naturais de territórios do ultramar sob administração portuguesa e estrangeiro inscrever-se-á apenas a designação do território ou país natal.
 
 3. Se na certidão ou documento equivalente não constar o local de nascimento, omitir-se-á a menção da naturalidade:
 
-###### Art. 16.º A residência será indicada segundo as declarações do interessado, mediante a inscrição da freguesia e do concelho em que se situe, aplicando-se o disposto nos n.os 1 e 2 do artigo 15.º
+Art. 16.º A residência será indicada segundo as declarações do interessado, mediante a inscrição da freguesia e do concelho em que se situe, aplicando-se o disposto nos n.os 1 e 2 do artigo 15.º
 
-###### Art. 17.º No caso de não constar da certidão ou do documento equivalente a data do nascimento, essa indicação é omitida no bilhete de identidade, anotando-se, sempre que possível, no espaço reservado a indicações eventuais, a data do baptismo ou do registo, valendo esta como elemento referenciador da idade, para os fins do disposto no artigo 6.º
+Art. 17.º No caso de não constar da certidão ou do documento equivalente a data do nascimento, essa indicação é omitida no bilhete de identidade, anotando-se, sempre que possível, no espaço reservado a indicações eventuais, a data do baptismo ou do registo, valendo esta como elemento referenciador da idade, para os fins do disposto no artigo 6.º
 
-###### Art. 18.º O estado civil será omitido quando o que se declara no pedido resultar de facto que não tenha ingressado no registo civil português e a ele esteja obrigatoriamente sujeito ou não se mostre provado pelos documentos apresentados.
+Art. 18.º O estado civil será omitido quando o que se declara no pedido resultar de facto que não tenha ingressado no registo civil português e a ele esteja obrigatoriamente sujeito ou não se mostre provado pelos documentos apresentados.
 
-###### Art. 19.º Se o requerente não souber ou não puder assinar, deve mencionar-se esta circunstância no lugar reservado à assinatura.
+Art. 19.º Se o requerente não souber ou não puder assinar, deve mencionar-se esta circunstância no lugar reservado à assinatura.
 
-###### Art. 20.º Será inscrita sob a rubrica destinada a indicações eventuais a emancipação plena, além das menções referidas nos artigos 10.º, n.º 3, e 18.º
+Art. 20.º Será inscrita sob a rubrica destinada a indicações eventuais a emancipação plena, além das menções referidas nos artigos 10.º, n.º 3, e 18.º
 
-###### Art. 21.º Em casos de reconhecida urgência na obtenção de bilhete de identidade para a prática de quaisquer actos e de manifesta impossibilidade de serem apresentadas, em tempo oportuno, as certidões nas condições exigidas pelo presente diploma, poderá o director do CICC autorizar a emissão de bilhete de identidade manual, por período não superior a sessenta dias, com base em certidões cujo prazo de validade esteja ultrapassado ou em outros documentos fidedignos.
+Art. 21.º Em casos de reconhecida urgência na obtenção de bilhete de identidade para a prática de quaisquer actos e de manifesta impossibilidade de serem apresentadas, em tempo oportuno, as certidões nas condições exigidas pelo presente diploma, poderá o director do CICC autorizar a emissão de bilhete de identidade manual, por período não superior a sessenta dias, com base em certidões cujo prazo de validade esteja ultrapassado ou em outros documentos fidedignos.
 
 #### SECÇÃO V — Bilhetes de identidade de estrangeiros
 
-###### Art. 22.º Os cidadãos estrangeiros, apátridas ou de nacionalidade desconhecida, não podem requerer bilhete de identidade se residirem há menos de seis meses em território português, salvo se, por força do artigo 2.º ou de lei especial, for obrigatória a sua posse.
+Art. 22.º Os cidadãos estrangeiros, apátridas ou de nacionalidade desconhecida, não podem requerer bilhete de identidade se residirem há menos de seis meses em território português, salvo se, por força do artigo 2.º ou de lei especial, for obrigatória a sua posse.
 
-###### Art. 23.º - 1. Na concessão de bilhete de identidade a cidadãos estrangeiros, apátridas ou de nacionalidade desconhecida, serão observadas as regras gerais, com as seguintes especialidades:
+Art. 23.º - 1. Na concessão de bilhete de identidade a cidadãos estrangeiros, apátridas ou de nacionalidade desconhecida, serão observadas as regras gerais, com as seguintes especialidades:
 
 a) A certidão de nascimento pode ser substituída por certificado passado pelo representante diplomático ou consular do seu país, se o requerente tiver nascido no estrangeiro, ou por certificado de notoriedade passado pela Conservatória dos Registos Centrais, nos casos de falta desse representante, de indivíduos apátridas ou de nacionalidade desconhecida ou ainda por motivo que venha a considerar-se de força maior; o processo de obtenção de certificado de notoriedade será regulado pelas disposições aplicáveis à sua emissão para efeitos de casamento;
 
@@ -278,25 +412,25 @@ c) Do processo constará o visto do Comando-Geral da Polícia de Segurança Púb
 
 2. A prova de que o cidadão estrangeiro reside há mais de seis meses em território português será feita por atestado da junta de freguesia.
 
-###### Art. 24.º Aos cidadãos brasileiros a que, nos termos da Convenção Luso-Brasileira, de 7 de Setembro de 1971, tenha sido atribuído o estatuto geral de igualdade de direitos e deveres será passado bilhete de identidade de acordo com as disposições do [Decreto-Lei n.º 126/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1972-397112), de 22 de Abril.
+Art. 24.º Aos cidadãos brasileiros a que, nos termos da Convenção Luso-Brasileira, de 7 de Setembro de 1971, tenha sido atribuído o estatuto geral de igualdade de direitos e deveres será passado bilhete de identidade de acordo com as disposições do [Decreto-Lei n.º 126/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1972-397112), de 22 de Abril.
 
-###### Art. 25.º Se o requerente do bilhete de identidade, nascido em território actualmente estrangeiro, invocar a nacionalidade portuguesa, e a aquisição ou concessão desta depender de estabelecimento de domicílio ou de outro facto, a prova destes considera-se feita desde que da certidão do registo civil português interno que instruir o pedido conste o averbamento das respectivas declarações.
+Art. 25.º Se o requerente do bilhete de identidade, nascido em território actualmente estrangeiro, invocar a nacionalidade portuguesa, e a aquisição ou concessão desta depender de estabelecimento de domicílio ou de outro facto, a prova destes considera-se feita desde que da certidão do registo civil português interno que instruir o pedido conste o averbamento das respectivas declarações.
 
 #### SECÇÃO VI — Bilhetes de identidade desactualizados ou extraviados
 
-###### Art. 26.º - 1. São nulos e não poderão ser usados para qualquer efeito os bilhetes de identidade cujo prazo de validade se mostre ultrapassado, os que se encontrem em mau estado de conservação ou contiverem elementos de identificação desactualizados, salvo a altura dos titulares de menor idade.
+Art. 26.º - 1. São nulos e não poderão ser usados para qualquer efeito os bilhetes de identidade cujo prazo de validade se mostre ultrapassado, os que se encontrem em mau estado de conservação ou contiverem elementos de identificação desactualizados, salvo a altura dos titulares de menor idade.
 
 2. Qualquer entidade pública perante a qual sejam usados bilhetes de identidade nulos deve apreendê-los e remetê-los ao CICC, onde aguardarão que os interessados requeiram a respectiva renovação ou averbamento.
 
-###### Art. 27.º - 1. As conservatórias do registo civil, quando praticarem actos que obriguem a apresentação do bilhete de identidade e envolvam a alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira o correspondente averbamento, retendo, para tanto, o bilhete apresentado.
+Art. 27.º - 1. As conservatórias do registo civil, quando praticarem actos que obriguem a apresentação do bilhete de identidade e envolvam a alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira o correspondente averbamento, retendo, para tanto, o bilhete apresentado.
 
 2. Decorrido o prazo de sessenta dias, a contar da data em que se tenha verificado o facto a averbar, sem que o averbamento devido tenha sido requerido, o conservador deve enviar o bilhete de identidade retido ao CICC, comunicando-lhe, por ofício, a sua desactualização e em que consiste.
 
-###### Art. 28.º As entidades a quem forem entregues bilhetes de identidade perdidos ou extraviados devem remetê-los imediatamente ao CICC.
+Art. 28.º As entidades a quem forem entregues bilhetes de identidade perdidos ou extraviados devem remetê-los imediatamente ao CICC.
 
 #### SECÇÃO VII — Acesso à informação sobre identificação civil
 
-###### Art. 29.º O conhecimento da informação tratada na Divisão de Identificação Civil pode ser obtido por alguma das formas seguintes:
+Art. 29.º O conhecimento da informação tratada na Divisão de Identificação Civil pode ser obtido por alguma das formas seguintes:
 
 a) Pedido de informação;
 
@@ -304,7 +438,7 @@ b) Requerimento de certidão, fotocópia ou reprodução autenticadas;
 
 c) Pedido de consulta do processo individual de bilhete de identidade.
 
-###### Art. 30.º - 1. Podem aceder à totalidade da informação sobre identificação civil;
+Art. 30.º - 1. Podem aceder à totalidade da informação sobre identificação civil;
 
 a) O titular da informação ou qualquer pessoa que prove efectuar o pedido no seu nome ou no seu interesse;
 
@@ -314,7 +448,7 @@ b) Os descendentes, ascendentes, o cônjuge, tutor ou curador do titular da info
 
 3. Mediante proposta fundamentada do director do CICC, pode o Secretário de Estado dos Assuntos Judiciários autorizar o acesso à informação sobre identificação civil a outras entidades, desde que não se ofenda a intimidade da vida privada e fique assegurado o não uso para fins sem conexão com os motivos que determinaram a colheita da informação.
 
-###### Art. 31.º - 1. O pedido de informação, consulta ou certidão do processo individual de bilhete de identidade será formulado em impresso próprio, no qual se identificará devidamente o requerente, a qualidade em que o faz e o fim a que se destina.
+Art. 31.º - 1. O pedido de informação, consulta ou certidão do processo individual de bilhete de identidade será formulado em impresso próprio, no qual se identificará devidamente o requerente, a qualidade em que o faz e o fim a que se destina.
 
 2. As informações serão autenticadas com a assinatura, que pode ser substituída por chancela ou carimbo a óleo, da pessoa responsável, com a indicação da sua categoria profissional e selo branco.
 
@@ -322,11 +456,11 @@ b) Os descendentes, ascendentes, o cônjuge, tutor ou curador do titular da info
 
 #### SECÇÃO I — Objecto da identificação criminal
 
-###### Art. 32.º - 1. A identificação criminal tem por objecto a recolha e conservação ordenada dos extractos das decisões criminais proferidas por tribunais portugueses contra todos os indivíduos neles acusados, com o fim de permitir o conhecimento dos antecedentes criminais.
+Art. 32.º - 1. A identificação criminal tem por objecto a recolha e conservação ordenada dos extractos das decisões criminais proferidas por tribunais portugueses contra todos os indivíduos neles acusados, com o fim de permitir o conhecimento dos antecedentes criminais.
 
 2. Poderão também ser recolhidos os extractos de decisões da mesma natureza proferidas contra cidadãos portugueses por tribunais estrangeiros.
 
-###### Art. 33.º - 1. O registo criminal é organizado em cadastros individuais, constituídos por boletins ou pela sua fotocópia, de tal forma que, em cada cadastro, fiquem reunidos todos os boletins referentes ao mesmo indivíduo, mas apenas enquanto perdurar a sua eficácia jurídica.
+Art. 33.º - 1. O registo criminal é organizado em cadastros individuais, constituídos por boletins ou pela sua fotocópia, de tal forma que, em cada cadastro, fiquem reunidos todos os boletins referentes ao mesmo indivíduo, mas apenas enquanto perdurar a sua eficácia jurídica.
 
 2. A cada cadastro individual é atribuído um número, pelo qual é ordenado no arquivo numérico, e a que corresponde um ou mais verbetes onomásticos ordenados alfabeticamente.
 
@@ -334,7 +468,7 @@ b) Os descendentes, ascendentes, o cônjuge, tutor ou curador do titular da info
 
 4. Os verbetes onomásticos podem ser substituídos pela introdução em suporte magnético dos elementos que os constituem.
 
-###### Art. 34.º - 1. Estão sujeitos a registo criminal:
+Art. 34.º - 1. Estão sujeitos a registo criminal:
 
 a) Os despachos de pronúncia ou equivalentes;
 
@@ -364,7 +498,7 @@ m) O falecimento dos réus e dos condenados.
 
 2. As decisões referidas no artigo 14.º do [Decreto-Lei n.º 123/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1975-160893), de 11 de Março, estão igualmente sujeitas a registo e para o fim exclusivo mencionado nesse preceito.
 
-###### Art. 35.º - 1. Os boletins do registo criminal devem conter:
+Art. 35.º - 1. Os boletins do registo criminal devem conter:
 
 a) A indicação do tribunal remetente, do número do processo, a data e a assinatura do responsável pelo seu preenchimento;
 
@@ -376,11 +510,11 @@ c) O conteúdo da decisão ou o facto sujeito a registo.
 
 3. A decisão será anotada com especificação da sua data, natureza, designação do crime ou contravenção, com indicação dos preceitos violados, pena aplicada ou período de internamento determinado.
 
-###### Art. 36.º - 1. Compete ao Ministério Público ou a quem exercer a acção penal promover que dos autos constem os elementos de identificação do arguido referidos no artigo anterior.
+Art. 36.º - 1. Compete ao Ministério Público ou a quem exercer a acção penal promover que dos autos constem os elementos de identificação do arguido referidos no artigo anterior.
 
 2. A notificação judicial para comparência a acto processual, quando respeite a suspeitos ou arguidos, será feita com a obrigação de apresentação do bilhete de identidade ou, na sua falta, de cédula pessoal; no caso de se tratar de cidadão estrangeiro, qualquer dos documentos referidos pode ser substituído pelo passaporte.
 
-###### Art. 37.º - 1. Os boletins do registo criminal devem ser enviados ao CICC no prazo de três dias, a contar da data da decisão ou do facto sujeito a registo ou da baixa do processo à 1.ª instância.
+Art. 37.º - 1. Os boletins do registo criminal devem ser enviados ao CICC no prazo de três dias, a contar da data da decisão ou do facto sujeito a registo ou da baixa do processo à 1.ª instância.
 
 2. O preenchimento e remessa dos boletins são da responsabilidade do escrivão de direito da secção por onde corre o processo ou de quem exerça as correspondentes funções.
 
@@ -390,17 +524,17 @@ c) O conteúdo da decisão ou o facto sujeito a registo.
 
 5. Se depois da remessa do boletim se averiguar que o indivíduo a quem respeita forneceu uma identidade falsa, preencher-se-á outro boletim com a verdadeira identidade, que será remetido com a respectiva nota de referência.
 
-###### Art. 38.º - 1. Se não for possível o preenchimento completo do boletim, o juiz da comarca deverá nele apor a declaração de ter verificado essa impossibilidade.
+Art. 38.º - 1. Se não for possível o preenchimento completo do boletim, o juiz da comarca deverá nele apor a declaração de ter verificado essa impossibilidade.
 
 2. Serão devolvidos os boletins preenchidos incorrecta ou incompletamente, bem como os que vierem desacompanhados da declaração referida no número anterior.
 
-###### Art. 39.º - 1. O recebimento dos boletins correctamente preenchidos deverá ser acusado, mediante a devolução do respectivo recibo pelo CICC, no prazo de três dias, a contar da data da recepção.
+Art. 39.º - 1. O recebimento dos boletins correctamente preenchidos deverá ser acusado, mediante a devolução do respectivo recibo pelo CICC, no prazo de três dias, a contar da data da recepção.
 
 2. Quando a recepção do boletim corrrectamente preenchido não for acusada nos oito dias seguintes à sua expedição, o responsável pelo processo deve comunicar o facto ao CICC.
 
 #### SECÇÃO II — Emissão de certificados de registo criminal
 
-###### Art. 40.º - 1. O conteúdo do registo criminal será certificado em face dos cadastros individuais, de harmonia com o disposto na presente secção.
+Art. 40.º - 1. O conteúdo do registo criminal será certificado em face dos cadastros individuais, de harmonia com o disposto na presente secção.
 
 2. Os certificados do registo criminal podem ser passados no próprio impresso de requisição ou requerimento, mediante aposição de carimbo, chancela ou impressão mecânica.
 
@@ -412,7 +546,7 @@ c) O conteúdo da decisão ou o facto sujeito a registo.
 
 6. Os certificados são válidos por três meses a contar da data da sua emissão e exclusivamente para os fins indicados no requerimento ou na requisição.
 
-###### Art. 41.º - 1. Os certificados requisitados para os fins referidos no n.º 1 do artigo 52.º conterão a transcrição integral do registo criminal, com as excepções seguintes:
+Art. 41.º - 1. Os certificados requisitados para os fins referidos no n.º 1 do artigo 52.º conterão a transcrição integral do registo criminal, com as excepções seguintes:
 
 a) Despacho de pronúncia ou equivalente, relativo a processo em que já tenha sido proferida a decisão final;
 
@@ -430,9 +564,9 @@ f) Quaisquer decisões canceladas por disposição legal.
 
 3. Só nos certificados requisitados nos termos e para os fins do n.º 1 constarão as decisões proferidas por tribunais estrangeiros; decoridos dez anos sobre a data em que tiverem sido proferidas, serão canceladas, não devendo constar dos certificados.
 
-###### Art. 42.º Os certificados requeridos para exercício de funções públicas ou equiparadas, e para aquisição de nacionalidade portuguesa por naturalização, terão o conteúdo referido no artigo anterior, com excepção das decisões acerca das quais se tenha verificado reabilitação para o fim a que se destina o certificado, bem como a sua revogação, anulação ou revisão.
+Art. 42.º Os certificados requeridos para exercício de funções públicas ou equiparadas, e para aquisição de nacionalidade portuguesa por naturalização, terão o conteúdo referido no artigo anterior, com excepção das decisões acerca das quais se tenha verificado reabilitação para o fim a que se destina o certificado, bem como a sua revogação, anulação ou revisão.
 
-###### Art. 43.º - 1. Os certificados requeridos para fins diferentes dos mencionados nos artigos anteriores terão o conteúdo dos referidos no artigo 41.º, não se devendo, porém, transcrever as decisões seguintes:
+Art. 43.º - 1. Os certificados requeridos para fins diferentes dos mencionados nos artigos anteriores terão o conteúdo dos referidos no artigo 41.º, não se devendo, porém, transcrever as decisões seguintes:
 
 a) As condenações por contravenção, decorridos seis meses após o cumprimento da pena;
 
@@ -444,21 +578,21 @@ d) As condenações cuja transcrição haja sido proibida pelo tribunal que as p
 
 2. Para os fins da alínea a), as penas de multa consideram-se cumpridas decorridos trinta dias após a condenação.
 
-###### Art. 44.º Os certificados requisitados ao abrigo de autorização ministerial terão o conteúdo que na mesma autorização for determinado.
+Art. 44.º Os certificados requisitados ao abrigo de autorização ministerial terão o conteúdo que na mesma autorização for determinado.
 
-###### Art. 45.º Compete ao director do CICC resolver qualquer reclamação sobre a legalidade da transcrição nos certificados das notas do registo criminal, cabendo recurso da sua decisão para o tribunal de execução de penas.
+Art. 45.º Compete ao director do CICC resolver qualquer reclamação sobre a legalidade da transcrição nos certificados das notas do registo criminal, cabendo recurso da sua decisão para o tribunal de execução de penas.
 
 #### SECÇÃO III — Registo especial de menores
 
-###### Art. 46.º Estão sujeitas ao registo especial de menores as decisões dos tribunais tutelares que apliquem ou alterem medidas de colocação em instituto médico-psicológico ou internamento em instituto de reeducação e em prisão-escola ou estabelecimento equivalente.
+Art. 46.º Estão sujeitas ao registo especial de menores as decisões dos tribunais tutelares que apliquem ou alterem medidas de colocação em instituto médico-psicológico ou internamento em instituto de reeducação e em prisão-escola ou estabelecimento equivalente.
 
-###### Art. 47.º - 1. O registo especial de menores, organizado em arquivo próprio, é secreto e dele só poderão ser passados certificados quando requisitados pela Direcção-Geral dos Serviços Tutelares de Menores, pelos tribunais tutelares de menores ou de execução das penas e ainda se o indivíduo em causa tiver cometido, depois dos 16 anos de idade, crime a que corresponda pena maior, ou vier a ser declarado delinquente de difícil correcção pelos tribunais comuns.
+Art. 47.º - 1. O registo especial de menores, organizado em arquivo próprio, é secreto e dele só poderão ser passados certificados quando requisitados pela Direcção-Geral dos Serviços Tutelares de Menores, pelos tribunais tutelares de menores ou de execução das penas e ainda se o indivíduo em causa tiver cometido, depois dos 16 anos de idade, crime a que corresponda pena maior, ou vier a ser declarado delinquente de difícil correcção pelos tribunais comuns.
 
 2. À notação e remessa dos boletins de registo especial de menores é aplicável, com as necessárias adaptações, o disposto nos artigos 35.º a 39.º
 
 #### SECÇÃO IV — Acesso à informação criminal
 
-###### Art. 48.º O conhecimento da informação tratada pela Divisão de Identificação Criminal pode ser obtido por alguma das formas seguintes:
+Art. 48.º O conhecimento da informação tratada pela Divisão de Identificação Criminal pode ser obtido por alguma das formas seguintes:
 
 a) Pedido de informação;
 
@@ -466,7 +600,7 @@ b) Requerimento ou requisição de certificado do registo criminal;
 
 c) Consulta do cadastro.
 
-###### Art. 49.º - 1. Podem requerer certificados do registo criminal:
+Art. 49.º - 1. Podem requerer certificados do registo criminal:
 
 a) O titular da informação ou qualquer pessoa que prove efectuar o pedido no seu nome ou no seu interesse;
 
@@ -478,15 +612,15 @@ b) Os descendentes, os ascendentes, o cônjuge e o tutor ou curador do titular d
 
 4. A indicação no requerimento do número do bilhete de identidade da pessoa a quem respeita o certificado só poderá ser dispensada pelos serviços no caso de essa indicação se mostrar impossível ou muito difícil de obter e não houver dúvidas sobre a correcção dos elementos de identificação declarados.
 
-###### Art. 50.º - 1. Os requerimentos destinados a obter certificados do registo criminal podem ser apresentados directamente na sede do CICC ou em qualquer delegação, nas secretarias judiciais ou, nos concelhos que não sejam sede de comerca ou julgado, nas secretarias das câmaras municipais e nas representações diplomáticas ou consulares portuguesas no estrangeiro.
+Art. 50.º - 1. Os requerimentos destinados a obter certificados do registo criminal podem ser apresentados directamente na sede do CICC ou em qualquer delegação, nas secretarias judiciais ou, nos concelhos que não sejam sede de comerca ou julgado, nas secretarias das câmaras municipais e nas representações diplomáticas ou consulares portuguesas no estrangeiro.
 
 2. Nos postos de recepção intermediários existirá um livro em que serão registadas as datas de entrega do requerimento, da passagem do certificado e da sua entrega ao interessado.
 
 3. Os requerentes residentes no estrangeiro ou nos territórios do ultramar sob administração portuguesa poderão enviar directamente o seu requerimento ao CICC.
 
-###### Art. 51.º No caso de extravio de requerimento, depois de recebido nos serviços, ou de extravio do certificado, depois de emitido e antes da entrega ao requerente, será passado novo certificado, sem cobrança de nova taxa, mediante novo requerimento isento de selo, lançando-se nele, no local destinado à aposição das respectivas estampilhas fiscais, a indicação de haverem sido cobradas em documento extraviado.
+Art. 51.º No caso de extravio de requerimento, depois de recebido nos serviços, ou de extravio do certificado, depois de emitido e antes da entrega ao requerente, será passado novo certificado, sem cobrança de nova taxa, mediante novo requerimento isento de selo, lançando-se nele, no local destinado à aposição das respectivas estampilhas fiscais, a indicação de haverem sido cobradas em documento extraviado.
 
-###### Art. 52.º - 1. Podem requisitar certificados de registo criminal:
+Art. 52.º - 1. Podem requisitar certificados de registo criminal:
 
 a) Os magistrados judiciais e do Ministério Público para fins de investigação policial, de instrução de processos criminais, de execução de penas ou individuais de reclusos;
 
@@ -498,17 +632,17 @@ b) As entidades com competência para a instrução de processos referidos na al
 
 4. As autoridades ou entidades diplomáticas e consulares estrangeiras podem ser autorizadas a requisitar certificados do registo criminal, nas mesmas condições em que o são as correspondentes autoridades nacionais, para instrução de processos criminais.
 
-###### Art. 53.º - 1. Mediante proposta fundamentada do CICC, o Secretário de Estado dos Assuntos Judiciários pode autorizar a requisição de certificados do registo criminal formulados por entidades oficiais para fins não abrangidos no artigo 52.º, quando se mostrem necessários à prossecução de fins públicos a seu cargo e não possam ser obtidos dos próprios interessados.
+Art. 53.º - 1. Mediante proposta fundamentada do CICC, o Secretário de Estado dos Assuntos Judiciários pode autorizar a requisição de certificados do registo criminal formulados por entidades oficiais para fins não abrangidos no artigo 52.º, quando se mostrem necessários à prossecução de fins públicos a seu cargo e não possam ser obtidos dos próprios interessados.
 
 2. Na requisição serão observadas as disposições do n.º 2 do artigo 52.º, devendo ainda ser referido o despacho que autorize a emissão do certificado.
 
-###### Art. 54.º - 1. Às entidades oficiais que gozem da faculdade de requisitar certificados do registo criminal pode também ser fornecida informação.
+Art. 54.º - 1. Às entidades oficiais que gozem da faculdade de requisitar certificados do registo criminal pode também ser fornecida informação.
 
 2. O pedido será formulado em impresso próprio e neste pode ser lavrada a informação, observando-se, com as necessárias adaptações, as formalidades do pedido e emissão de certificados.
 
 3. A informação nunca poderá abranger conteúdo mais lato do que seria fornecido em certificados.
 
-###### Art. 55.º - 1. O Secretário de Estado dos Assuntos Judiciários pode autorizar a consulta dos cadastros criminais às entidades oficiais que gozem da faculdade de requisitar certificados do registo criminal.
+Art. 55.º - 1. O Secretário de Estado dos Assuntos Judiciários pode autorizar a consulta dos cadastros criminais às entidades oficiais que gozem da faculdade de requisitar certificados do registo criminal.
 
 2. Não poderão ser fornecidos para consulta boletins cujo conteúdo não devesse constar dos certificados de registo criminal.
 
@@ -518,17 +652,17 @@ b) As entidades com competência para a instrução de processos referidos na al
 
 #### SECÇÃO I — Taxas e impressos
 
-###### Art. 56.º - 1. As taxas cobradas pelos serviços são pagas por meio de estampilhas fiscais coladas nos impressos do pedido de bilhete de identidade ou da sua actualização e do requerimento de certificado do registo criminal ou pedido de informação, não podendo ser restituídas, em hipótese alguma, aos interessados.
+Art. 56.º - 1. As taxas cobradas pelos serviços são pagas por meio de estampilhas fiscais coladas nos impressos do pedido de bilhete de identidade ou da sua actualização e do requerimento de certificado do registo criminal ou pedido de informação, não podendo ser restituídas, em hipótese alguma, aos interessados.
 
 2. As estampilhas fiscais serão inutilizadas pelo interessado ou pelo serviço de recepção, nos termos gerais, e pelo CICC, mediante perfuração.
 
 3. Os pedidos de bilhete e de certificado provenientes de território do ultramar sob administração portuguesa ou do estrangeiro deverão ser acompanhados da importância correspondente às taxas devidas, ficando a cargo do CICC a aquisição e inutilização nos documentos das respectivas estampilhas fiscais.
 
-###### Art. 57.º Até ao dia 10 de cada mês, o CICC deve remeter à 4.ª Delegação da Direcção-Geral da Contabilidade Pública, sob a forma de mapa, a indicação do número de pedidos de bilhetes de identidade, averbamentos, certidões, certificados de registo criminal e informações entrados no mês anterior e da correspondente receita.
+Art. 57.º Até ao dia 10 de cada mês, o CICC deve remeter à 4.ª Delegação da Direcção-Geral da Contabilidade Pública, sob a forma de mapa, a indicação do número de pedidos de bilhetes de identidade, averbamentos, certidões, certificados de registo criminal e informações entrados no mês anterior e da correspondente receita.
 
-###### Art. 58.º Sempre que seja deferida a reclamação do interessado com fundamento em erro dos serviços, o director do CICC pode dispensar a aposição de estampilhas nos documentos que o requerente tenha de voltar a preencher e ordenar o fornecimento gratuito dos impressos respectivos.
+Art. 58.º Sempre que seja deferida a reclamação do interessado com fundamento em erro dos serviços, o director do CICC pode dispensar a aposição de estampilhas nos documentos que o requerente tenha de voltar a preencher e ordenar o fornecimento gratuito dos impressos respectivos.
 
-###### Art. 59.º Constituem exclusivo do CICC os modelos de impressos dos seguintes documentos:
+Art. 59.º Constituem exclusivo do CICC os modelos de impressos dos seguintes documentos:
 
 a) Certidão de nascimento especial para bilhete de identidade;
 
@@ -540,11 +674,11 @@ d) Boletins do registo criminal e do registo especial de menores;
 
 e) Reclamação e pedido de informação.
 
-###### Art. 60.º - 1. Cabe ao CICC promover o estudo, execução, distribuição e venda dos seus impressos exclusivos, por força das receitas obtidas com a venda dos impressos, escriturar as receitas, bem como as despesas que efectuar por conta destas, e depositar mensalmente o saldo, deduzidas aquelas despesas e as que forem autorizadas por despacho ministerial, à ordem do Serviço Social do Ministério da Justiça.
+Art. 60.º - 1. Cabe ao CICC promover o estudo, execução, distribuição e venda dos seus impressos exclusivos, por força das receitas obtidas com a venda dos impressos, escriturar as receitas, bem como as despesas que efectuar por conta destas, e depositar mensalmente o saldo, deduzidas aquelas despesas e as que forem autorizadas por despacho ministerial, à ordem do Serviço Social do Ministério da Justiça.
 
 2. O CICC será sempre ouvido sobre a elaboração e forma de distribuição de quaisquer outros modelos de impressos destinados à recolha de dados efectuada através dos seus serviços de recepção directa ou intermediários.
 
-###### Art. 61.º - 1. Os impressos que se destinam à venda ao público poderão ser adquiridos nos serviços de recepção dos pedidos de bilhete de identidade ou de certificados do registo criminal ou nos estabelecimentos de venda de valores selados autorizados pelo CICC.
+Art. 61.º - 1. Os impressos que se destinam à venda ao público poderão ser adquiridos nos serviços de recepção dos pedidos de bilhete de identidade ou de certificados do registo criminal ou nos estabelecimentos de venda de valores selados autorizados pelo CICC.
 
 2. Os impressos de bilhete de identidade, antes de emitidos, em nenhum caso poderão ser entregues ao público; a infracção do que fica disposto, salvo dolo ou má fé, constitui negligência grave, pela qual é responsável o funcionário que tiver requisitado os impressos.
 
@@ -552,21 +686,21 @@ e) Reclamação e pedido de informação.
 
 #### SECÇÃO II — Prazos de arquivo de documentos e sua microfilmagem
 
-###### Art. 62.º Serão considerados prazos mínimos de arquivo:
+Art. 62.º Serão considerados prazos mínimos de arquivo:
 
 a) Para os processos de bilhete de identidade e para os boletins de registo criminal integrados nos respectivos registos - um ano, contado a partir do falecimento dos indivíduos a que respeitam;
 
 b) Para os documentos de mero expediente que não contenham qualquer decisão de carácter permanente - um ano.
 
-###### Art. 63.º Os documentos em arquivo no CICC poderão ser microfilmados, com a consequente inutilização dos originais.
+Art. 63.º Os documentos em arquivo no CICC poderão ser microfilmados, com a consequente inutilização dos originais.
 
 ### CAPÍTULO IV — Organização e competência dos serviços
 
-###### Art. 64.º - 1. Ao CICC incumbe efectuar os estudos referentes à identificação civil e criminal e, bem assim, superintender na organização e funcionamento dos respectivos serviços.
+Art. 64.º - 1. Ao CICC incumbe efectuar os estudos referentes à identificação civil e criminal e, bem assim, superintender na organização e funcionamento dos respectivos serviços.
 
 2. Incumbe-lhe ainda transmitir directamente aos serviços intermediários as instruções de ordem interna referentes à recepção e contrôle de dados de identificação civil e criminal.
 
-###### Art. 65.º Para o exercício das suas atribuições, compete ao CICC, através da Divisão de Identificação Civil:
+Art. 65.º Para o exercício das suas atribuições, compete ao CICC, através da Divisão de Identificação Civil:
 
 a) Recolher os dados necessários à correcta identificação civil dos cidadãos portugueses e estrangeiros que solicitem passagem do seu bilhete de identidade;
 
@@ -576,7 +710,7 @@ c) Organizar um arquivo de dados de identificação civil, de modo a facultar a 
 
 d) Prestar informações sobre identificação civil.
 
-###### Art. 66.º - 1. Para o exercício das suas atribuições, compete ao CICC, através da Divisão de Identificação Criminal:
+Art. 66.º - 1. Para o exercício das suas atribuições, compete ao CICC, através da Divisão de Identificação Criminal:
 
 a) A recolha dos dados de identificação criminal;
 
@@ -588,23 +722,23 @@ d) A recolha, classificação e arquivamento das impressões digitais dos indiv�
 
 2. Compete ainda à Divisão de Identificação Criminal identificar os cadáveres de desconhecidos ou de indivíduos privados da falta ou da razão, através de impressões digitais colhidas pelos institutos de medicina legal, magistrados judiciais ou do Ministério Público e por outras entidades com competência para instrução de processos criminais.
 
-###### Art. 67.º - 1. Os serviços de recepção podem incumbir-se, a solicitação dos requerentes, do preenchimento dos impressos.
+Art. 67.º - 1. Os serviços de recepção podem incumbir-se, a solicitação dos requerentes, do preenchimento dos impressos.
 
 2. Os documentos emitidos pelo CICC podem ser remetidos directamente aos interessados, mediante prévio pagamento da franquia postal e das despesas de remessa.
 
-###### Art. 68.º - 1. É permitida, mediante o pagamento de uma sobretaxa, a realização de serviço externo no local onde se encontre o requerente para recolha dos elementos necessários à passagem de bilhete de identidade ou de certificado de registo criminal, se aquele mostrar justificada dificuldade em se deslocar aos serviços de recepção.
+Art. 68.º - 1. É permitida, mediante o pagamento de uma sobretaxa, a realização de serviço externo no local onde se encontre o requerente para recolha dos elementos necessários à passagem de bilhete de identidade ou de certificado de registo criminal, se aquele mostrar justificada dificuldade em se deslocar aos serviços de recepção.
 
 2. O transporte necessário à deslocação será fornecido pelo interessado.
 
-###### Art. 69.º É permitida, dentro dos limites legais, a prestação de horas extraordinárias na realização de tarefas inadiáveis de recuperação ou reorganização de ficheiros de identificação civil e criminal, bem como das preparatórias da automação, e ainda em períodos de excepcional afluxo de público.
+Art. 69.º É permitida, dentro dos limites legais, a prestação de horas extraordinárias na realização de tarefas inadiáveis de recuperação ou reorganização de ficheiros de identificação civil e criminal, bem como das preparatórias da automação, e ainda em períodos de excepcional afluxo de público.
 
-###### Art. 70.º - 1. Ao pessoal do CICC é aplicável, com as devidas adaptações, o preceituado nos artigos 11.º a 24.º do [Decreto n.º 196/73](https://diariodarepublica.pt/dr/detalhe/decreto/196-1973-422011), de 3 de Maio.
+Art. 70.º - 1. Ao pessoal do CICC é aplicável, com as devidas adaptações, o preceituado nos artigos 11.º a 24.º do [Decreto n.º 196/73](https://diariodarepublica.pt/dr/detalhe/decreto/196-1973-422011), de 3 de Maio.
 
 2. Porém, os lugares de chefe de secção serão providos em diplomados com curso superior ou por promoção de primeiros-oficiais ou técnicos auxiliares de 1.ª classe com três anos de serviço em qualquer das categorias que tenham revelado qualidades de chefia e competência.
 
 3. As promoções serão feitas entre titulares da categoria anterior, com classificação não inferior a Bom, respeitando-se a antiguidade, e não dependem do tempo de serviço prestado.
 
-###### Art. 71.º Serão regulados por despacho do Secretário de Estado dos Assuntos Judiciários:
+Art. 71.º Serão regulados por despacho do Secretário de Estado dos Assuntos Judiciários:
 
 a) A composição e as regras de funcionamento do conselho de pessoal;
 
@@ -620,15 +754,15 @@ f) O preço dos impressos a que se refere o artigo 59.º
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 72.º Enquanto houver territórios do ultramar sob administração portuguesa, os respectivos tribunais comunicarão ao CICC os extractos das decisões referentes a cidadãos nascidos na metrópole.
+Art. 72.º Enquanto houver territórios do ultramar sob administração portuguesa, os respectivos tribunais comunicarão ao CICC os extractos das decisões referentes a cidadãos nascidos na metrópole.
 
-###### Art. 73.º Ficam suspensas as remessas de boletins de registo policial, bem como os respectivos pedidos de certificados.
+Art. 73.º Ficam suspensas as remessas de boletins de registo policial, bem como os respectivos pedidos de certificados.
 
-###### Art. 74.º - 1. Enquanto não forem proferidos os despachos ministeriais sobre as matérias mencionadas neste Regulamento continuam em vigor os anteriores.
+Art. 74.º - 1. Enquanto não forem proferidos os despachos ministeriais sobre as matérias mencionadas neste Regulamento continuam em vigor os anteriores.
 
 2. Até aprovação de novos impressos deverão ser consumidos os existentes.
 
-###### Art. 75.º São expressamente revogados:
+Art. 75.º São expressamente revogados:
 
 a) O [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957;
 
@@ -652,12 +786,12 @@ j) A [Portaria n.º 156/72](https://diariodarepublica.pt/dr/detalhe/portaria/156
 
 k) O artigo 40.º, a alínea a) do n.º 3 do artigo 50.º e o n.º 1 do artigo 84.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro.
 
-###### Art. 76.º O presente Regulamento entra em vigor trinta dias após a sua publicação.
+Art. 76.º O presente Regulamento entra em vigor trinta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 15 de Janeiro de 1976.**
+Promulgado em 15 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

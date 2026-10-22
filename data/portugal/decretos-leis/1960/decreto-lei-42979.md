@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42979-1960-505047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae98310729bc82c4381ff6f5950d7b3ab7b0699d0e008be69907f4317a088018
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0c06c31dad6b6344e45e61e29f0b369999662abb7d01e6434a059ecb3206b18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aditivo Alimentar
+- Alimento para Animais
+- Armazenagem
+- Ave de Capoeira
+- Comércio
+- Controlo de Qualidade
+- Fiscalização
+- GADO
+- Inspecção Geral dos Produtos Agrícolas e Industriais
+- Junta Nacional dos Produtos Pecuários
+- Multa
+- Norma Portuguesa
+- Produção Vegetal
 relationships:
 - type: amended_by
   target: pt:dre:319744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473361:por
+  label: "Elevados os limites das penas de multa estabelecidos nos arts. 9º e 10º do presente diploma, pelo DEC LEI.476/74.24.09.1974.MECO,\
+    \ DG.IS [224] de 24.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/476-1974-473361
+  date: '1974-09-24'
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659134:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314056:por
+  label: "Revogado, com excepção dos artigos 9.º, 10.º, 11.º, 12.º, 13.º e 14.º, pelo DEC LEI.47775.05.07.1967.MECO, DG.IS\
+    \ [155] de 05.07.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47775-1967-314056
+  date: '1967-07-05'
+- type: repealed_by
+  target: pt:dre:319744:por
+  label: "Revogados os arts. 9.º a 12.º, pelo DEC LEI.400/82.23.09.1982.MJ, DR.IS [221]Supl de 23.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1982-319744
+  date: '1982-09-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:21Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +142,9 @@ Assim, e em face de trabalhos elaborados pela comissão nomeada pela portaria pu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para efeitos de produção, fabrico, armazenagem e comércio dos géneros destinados à alimentação dos gados e animais de capoeira entende-se por alimento todo o produto simples, ou o obtido pela mistura de diversas substâncias, que mediante ingestão voluntária tiver por fim satisfazer, parcial ou totalmente, as necessidades nutritivas de manutenção, crescimento e produção daqueles animais, e bem assim quaisquer substâncias empregadas na preparação desses géneros. Deve ser genuíno, apresentar-se em conveniente estado de pureza, conservação e sanidade, sem efeitos tóxicos nas doses aconselhadas para as diferentes espécies animais e satisfazer às características e outras condições legalmente impostas.
+Artigo 1.º Para efeitos de produção, fabrico, armazenagem e comércio dos géneros destinados à alimentação dos gados e animais de capoeira entende-se por alimento todo o produto simples, ou o obtido pela mistura de diversas substâncias, que mediante ingestão voluntária tiver por fim satisfazer, parcial ou totalmente, as necessidades nutritivas de manutenção, crescimento e produção daqueles animais, e bem assim quaisquer substâncias empregadas na preparação desses géneros. Deve ser genuíno, apresentar-se em conveniente estado de pureza, conservação e sanidade, sem efeitos tóxicos nas doses aconselhadas para as diferentes espécies animais e satisfazer às características e outras condições legalmente impostas.
 
-###### Art. 2.º Os alimentos destinados ao gado e animais de capoeira incluem-se em qualquer dos seguintes grupos:
+Art. 2.º Os alimentos destinados ao gado e animais de capoeira incluem-se em qualquer dos seguintes grupos:
 
 I) Alimento simples, quando constituído por um único género no seu estado natural, abrangendo os produtos ou subprodutos industriais.
 
@@ -120,9 +162,9 @@ III) Correctivos minerais, quando constituam composições contendo pelo menos 2
 
 IV) Aditivos alimentares, quando constituídos por substâncias, tais como vitaminas, hormonas, antibióticos, enzimas e outros produtos, destinados a melhorar a eficiência alimentar ou a exercer quaisquer acções profilácticas ou terapêuticas.
 
-###### Art. 3.º Além de outras condições necessárias para que os géneros destinados à alimentação do gado e animais de capoeira satisfaçam à definição de alimento dada nos termos dos artigos anteriores, devem esses produtos ser sempre apresentados com a designação que lhes pertença pela sua classificação e destino; ter aspecto e características organolépticas normais; não apresentar sinais de fermentação ou decomposição, nem bolores visíveis macroscòpicamente, bem como outros parasitas vegetais ou animais, seus germes ou detritos, que pela sua natureza e quantidade tornem o produto impróprio para o fim a que se destina.
+Art. 3.º Além de outras condições necessárias para que os géneros destinados à alimentação do gado e animais de capoeira satisfaçam à definição de alimento dada nos termos dos artigos anteriores, devem esses produtos ser sempre apresentados com a designação que lhes pertença pela sua classificação e destino; ter aspecto e características organolépticas normais; não apresentar sinais de fermentação ou decomposição, nem bolores visíveis macroscòpicamente, bem como outros parasitas vegetais ou animais, seus germes ou detritos, que pela sua natureza e quantidade tornem o produto impróprio para o fim a que se destina.
 
-###### Art. 4.º Além do disposto no artigo anterior, os alimentos para gado e animais de capoeira a seguir indicados devem obedecer às condições e características seguintes:
+Art. 4.º Além do disposto no artigo anterior, os alimentos para gado e animais de capoeira a seguir indicados devem obedecer às condições e características seguintes:
 
 § 1.º Alimento simples:
 
@@ -348,7 +390,7 @@ XV) A cinza total e a insolúvel no ácido clorídrico a 10 por cento de todo e 
 
 Os alimentos compostos a seguir indicados satisfarão aos seguintes limites:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/11400/10791084.pdf))](https://files.diariodarepublica.pt/1s/1960/05/11400/10791084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/11400/10791084.pdf)
 
 IV) Nos alimentos compostos destinados a porcos em crescimento e a aves em crescimento e postura a proteína total deverá incluir um mínimo de 25 por cento de proteína animal, cuja natureza e teor deverão ser indicados nos respectivos rótulos ou etiquetas.
 
@@ -450,9 +492,9 @@ a) A aprovação prévia da sua composição pela Direcção-Geral dos Serviços
 
 b) A responsabilidade técnica de um veterinário quando os aditivos contiverem substâncias medicamentosas.
 
-###### Art. 5.º Os alimentos para animais não devem conter substâncias tóxicas nem agentes patogénicos para os animais e para o homem, especialmente do grupo «salmonela».
+Art. 5.º Os alimentos para animais não devem conter substâncias tóxicas nem agentes patogénicos para os animais e para o homem, especialmente do grupo «salmonela».
 
-###### Art. 6.º Para efeitos de expedição, transporte e exposição à venda, os alimentos compostos, os correctivos minerais ou vitamínicos e os aditivos alimentares serão convenientemente acondicionados, de forma inviolável, com dísticos, rótulos ou etiquetas com as indicações mínimas seguintes:
+Art. 6.º Para efeitos de expedição, transporte e exposição à venda, os alimentos compostos, os correctivos minerais ou vitamínicos e os aditivos alimentares serão convenientemente acondicionados, de forma inviolável, com dísticos, rótulos ou etiquetas com as indicações mínimas seguintes:
 
 a) Nome ou marca do produto e da empresa comercial ou industrial responsável;
 
@@ -468,11 +510,11 @@ e) Mês e ano de fabrico.
 
 § 2.º A redacção dos dísticos, rótulos e etiquetas a que se refere este artigo fica sujeita a prévia aprovação da Direcção-Geral dos Serviços Pecuários, que, no prazo de quinze dias, a contar da data da entrada nos seus serviços da solicitação feita pelos interessados, poderá impor as alterações que tiver por convenientes sempre que essa redacção não se apresente de harmonia com as disposições do presente diploma.
 
-###### Art. 7.º Compete à Direcção-Geral dos Serviços Industriais, ouvida a Direcção-Geral dos Serviços Pecuários, o licenciamento de todos os estabelecimentos industriais que tenham por objecto a preparação ou fabrico de alimentos para animais, seguindo-se neste licenciamento as normas do Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922.
+Art. 7.º Compete à Direcção-Geral dos Serviços Industriais, ouvida a Direcção-Geral dos Serviços Pecuários, o licenciamento de todos os estabelecimentos industriais que tenham por objecto a preparação ou fabrico de alimentos para animais, seguindo-se neste licenciamento as normas do Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922.
 
 § único. Os estabelecimentos localizados fora de zonas urbanizadas quando sejam instalados e explorados por lavradores e se destinem exclusivamente a consumo da exploração animal dos próprios não carecem de licença nos termos fixados no corpo deste artigo.
 
-###### Art. 8.º Os estabelecimentos destinados à produção ou fabrico de alimentos compostos deverão possuir, pelo menos, o seguinte apetrechamento técnico:
+Art. 8.º Os estabelecimentos destinados à produção ou fabrico de alimentos compostos deverão possuir, pelo menos, o seguinte apetrechamento técnico:
 
 a) Aparelhagem mecânica de limpeza de grãos e outras matérias-primas;
 
@@ -486,7 +528,7 @@ e) Silos ou armazéns de matérias-primas e produtos acabados nas condições co
 
 § único. É concedido o prazo de dezoito meses, a contar da data da publicação do presente diploma, para os estabelecimentos industriais existentes se apetrecharem em conformidade com o estabelecido neste artigo.
 
-###### Art. 9.º A falsificação de alimentos simples ou compostos para animais é punível:
+Art. 9.º A falsificação de alimentos simples ou compostos para animais é punível:
 
 a) Com prisão de três dias a seis meses e multa quando os produtos falsificados sejam, por sua natureza, susceptíveis de prejudicar com gravidade a saúde dos animais;
 
@@ -496,7 +538,7 @@ c) Com multa de 300$00 a 5000$00 quando, sendo a falsificação (alteração) no
 
 § único. A falsificação compreende a contrafacção e a alteração, nos termos do n.º 3.º do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 10.º A venda ou exposição à venda, bem como a aquisição, transporte ou armazenamento para o comércio de alimentos para animais que estejam falsificados, avariados ou corruptos, são puníveis:
+Art. 10.º A venda ou exposição à venda, bem como a aquisição, transporte ou armazenamento para o comércio de alimentos para animais que estejam falsificados, avariados ou corruptos, são puníveis:
 
 a) Com prisão de três dias a seis meses e multa se os produtos forem, por sua natureza, susceptíveis de causar grave prejuízo à saúde dos animais;
 
@@ -508,34 +550,34 @@ c) Com multa de 300$00 a 5000$00 se o defeito for ignorado do respectivo respons
 
 § 2.º Consideram-se corruptos os alimentos que entraram em putrefacção ou decomposição, e bem assim aqueles que contêm gérmenes que possam ser nocivos à saúde, e avariados os alimentos que, por influência do meio, do tempo ou dos agentes a cuja acção estiverem expostos, se deterioraram ou sofreram modificações de natureza, composição ou qualidades que os tornam impróprios.
 
-###### Art. 11.º Constituem contravenções punidas nos termos do artigo 16.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957:
+Art. 11.º Constituem contravenções punidas nos termos do artigo 16.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957:
 
 a) O fabrico, preparação, armazenamento, conservação ou acondicionamento com inobservância das disposições deste regulamento ou em condições higiotécnicas de manifesta deficiência; e ainda a venda de alimentos cuja natureza, composição ou qualidade não corresponda à designação com que são comerciados;
 
 b) A existência permanente ou temporária, nas instalações fabris a que respeita este diploma, de utensílios ou produtos estranhos ao fabrico, confecção ou preparação dos alimentos e que possam servir para tornar estes nocivos ou impróprios, seja ou não por falsificação.
 
-###### Art. 12.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis em todos os casos de omissão deste regulamento, com as seguintes alterações:
+Art. 12.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis em todos os casos de omissão deste regulamento, com as seguintes alterações:
 
 a) São reduzidos a metade os limites das alíneas b) e c) do n.º 1.º do seu artigo 5.º;
 
 b) A divisão das multas previstas neste diploma nos termos do artigo 63.º e respectivos parágrafos do Código Penal é feita com prévia dedução de 25 por cento, que reverterá para os autuantes, participantes ou descobridores da infracção.
 
-###### Art. 13.º Serão declarados perdidos a favor do Estado os produtos ou mercadorias que constituam objecto das infracções dolosas previstas nos artigos 8.º e 9.º, bem como os utensílios ou produtos referidos na alínea b) do artigo 10.º
+Art. 13.º Serão declarados perdidos a favor do Estado os produtos ou mercadorias que constituam objecto das infracções dolosas previstas nos artigos 8.º e 9.º, bem como os utensílios ou produtos referidos na alínea b) do artigo 10.º
 
-###### Art. 14.º Considera-se delegada na Inspecção-Geral dos Produtos Agrícolas e Industriais a competência para proceder à instrução preparatória dos processos correspondentes aos delitos previstos neste diploma, sem prejuízo da respectiva direcção por parte do Ministério Público.
+Art. 14.º Considera-se delegada na Inspecção-Geral dos Produtos Agrícolas e Industriais a competência para proceder à instrução preparatória dos processos correspondentes aos delitos previstos neste diploma, sem prejuízo da respectiva direcção por parte do Ministério Público.
 
-###### Art. 15.º A fim de assegurar, nas melhores condições possíveis, o fabrico de alimentos compostos para animais de harmonia com as necessidades pecuárias do País, a atribuição das matérias-primas que se encontram ou venham a encontrar em regime de condicionamento será feita às fábricas pela Junta Nacional dos Produtos Pecuários, tendo em atenção a respectiva capacidade de laboração, as condições de apetrechamento e a qualidade dos produtos preparados.
+Art. 15.º A fim de assegurar, nas melhores condições possíveis, o fabrico de alimentos compostos para animais de harmonia com as necessidades pecuárias do País, a atribuição das matérias-primas que se encontram ou venham a encontrar em regime de condicionamento será feita às fábricas pela Junta Nacional dos Produtos Pecuários, tendo em atenção a respectiva capacidade de laboração, as condições de apetrechamento e a qualidade dos produtos preparados.
 
 § único. Para cumprimento das disposições deste artigo a Junta Nacional dos Produtos Pecuários proporá superiormente as medidas julgadas necessárias.
 
-###### Art. 16.º Os processos a seguir na colheita e análise das amostras dos alimentos para gado e animais de capoeira são os oficialmente estabelecidos pela comissão técnica dos métodos químico-analíticos.
+Art. 16.º Os processos a seguir na colheita e análise das amostras dos alimentos para gado e animais de capoeira são os oficialmente estabelecidos pela comissão técnica dos métodos químico-analíticos.
 
 § 1.º Para as determinações e pesquisas ainda não previstas nos métodos oficiais adoptar-se-ão os processos que constem de normas portuguesas e, na sua falta, as instruções emanadas do Laboratório Central de Normalização e Fiscalização de Produtos, elaboradas de acordo com o Laboratório Nacional de Investigação Veterinária; Laboratório Químico-Agrícola Luís António Rebelo da Silva; laboratório de higiene e nutrição da Escola Superior de Medicina Veterinária; laboratório da Estação Zootécnica Nacional, e laboratório de estudos de nutrição animal do Instituto Superior de Agronomia.
 
 § 2.º É dado o prazo de 60 dias, a partir da data da publicação do presente diploma, para a elaboração das instruções a que se refere o parágrafo anterior.
 
-###### Art. 17.º A lista e as características dos aditamentos simples e compostos, e bem assim dos correctivos indicados no artigo 4.º deste diploma, podem ser alteradas, modificadas ou ampliadas por portaria da Secretaria de Estado da Agricultura, depois de ouvidos os serviços competentes.
+Art. 17.º A lista e as características dos aditamentos simples e compostos, e bem assim dos correctivos indicados no artigo 4.º deste diploma, podem ser alteradas, modificadas ou ampliadas por portaria da Secretaria de Estado da Agricultura, depois de ouvidos os serviços competentes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - Luís Quartin Graça.

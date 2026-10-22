@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/294-1972-676180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0699942cf8bb15918d4c9adfdaef7a4db3d457617f07e0f4d2802dcb3ccf689c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27f4842bd036e4db294b7fb1562425a3ff1887825fb0eea95277e5c378c514ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:07Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +92,18 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial, a que foi submetida por decreto de 27 de Julho de 1917, uma parcela de terreno baldio do perímetro florestal das dunas de Mira, com uma área de cerca de 44700 m2, e restituída à administração da Câmara Municipal de Mira, a fim de ser cedida aos Serviços Centrais da Mocidade Portuguesa para instalação de uma pousada de juventude e parque de campismo.
+Artigo 1.º É excluída do regime florestal parcial, a que foi submetida por decreto de 27 de Julho de 1917, uma parcela de terreno baldio do perímetro florestal das dunas de Mira, com uma área de cerca de 44700 m2, e restituída à administração da Câmara Municipal de Mira, a fim de ser cedida aos Serviços Centrais da Mocidade Portuguesa para instalação de uma pousada de juventude e parque de campismo.
 
-###### Art. 2.º Não poderá ser abatido o arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca de corte extraordinário.
+Art. 2.º Não poderá ser abatido o arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca de corte extraordinário.
 
-###### Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
+Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
 
-###### Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal de Mira proceder à sua demarcação de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais a aquícolas.
+Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Câmara Municipal de Mira proceder à sua demarcação de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais a aquícolas.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 2 de Agosto de 1972.**
+Promulgado em 2 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

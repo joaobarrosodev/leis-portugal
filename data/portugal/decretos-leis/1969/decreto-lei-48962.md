@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48962-1969-525626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccf069e36142ec3d7bb14c4f55b76c072723eca4ac5b10649d4aba22e45692c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6c7be57fd8d9eb857feed55763814fef553eb1483f111e0f5b2f1a1f4a8a65f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de Meios Audiovisuais de Educação
+- Ministério da Educação Nacional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:684799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684799:por
+  label: "Determinada a sucessão e substituição pelo Instituto de Tecnologia Educativa do Instituto de Meios Áudio-Visuais\
+    \ de Educação, com transição de todos os direitos e obrigações por ele detidos, pelo DEC LEI.71/73.27.02.1973.MEN, DG.IS\
+    \ [71] de 27.02.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1973-684799
+  date: '1973-02-27'
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554170:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:04Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +122,11 @@ Instituto de Meios Áudio-Visuais de Educação
 
 #### SECÇÃO I — Natureza, atribuições e competência
 
-###### Artigo 1.º - 1. O Instituto de Meios Áudio-Visuais de Educação, anteriormente designado Instituto de Meios Áudio-Visuais de Ensino, cujo funcionamento passa a reger-se pelo presente decreto-lei, é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira, que tem por fim promover a utilização, a expansão e o aperfeiçoamento das técnicas áudio-visuais como meios auxiliares e de difusão do ensino e instrumento de elevação do nível cultural da população.
+Artigo 1.º - 1. O Instituto de Meios Áudio-Visuais de Educação, anteriormente designado Instituto de Meios Áudio-Visuais de Ensino, cujo funcionamento passa a reger-se pelo presente decreto-lei, é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira, que tem por fim promover a utilização, a expansão e o aperfeiçoamento das técnicas áudio-visuais como meios auxiliares e de difusão do ensino e instrumento de elevação do nível cultural da população.
 
 2. O Instituto de Meios Áudio-Visuais de Educação depende directamente do Ministro da Educação Nacional.
 
-###### Art. 2.º Compete ao Instituto de Meios Áudio-Visuais de Educação, na prossecução dos fins previstos no artigo anterior:
+Art. 2.º Compete ao Instituto de Meios Áudio-Visuais de Educação, na prossecução dos fins previstos no artigo anterior:
 
 a) Promover a criação e realização de programas e cursos de radiodifusão sonora e televisão escolares, assegurar o seu funcionamento e superintender na sua emissão, recepção e aproveitamento;
 
@@ -115,7 +138,7 @@ d) Realizar os estudos e experiências convenientes para assegurar o bom desempe
 
 e) Prestar apoio técnico à realização, por outras entidades, de programas da índole dos referidos nas alíneas a) e b) e emitir parecer sobre a realização desses mesmos programas, quando para tal seja solicitado.
 
-###### Art. 3.º Os programas e cursos previstos na alínea a) do artigo precedente abrangem as seguintes modalidades:
+Art. 3.º Os programas e cursos previstos na alínea a) do artigo precedente abrangem as seguintes modalidades:
 
 a) Emissões enquadradas nos cursos ministrados nos estabelecimentos dos vários graus e ramos de ensino;
 
@@ -127,13 +150,13 @@ d) Outros cursos autónomos, com ou sem carácter oficial, tais como cursos de l
 
 e) Emissões de esclarecimento da acção educativa da família na sua colaboração com a escola.
 
-###### Art. 4.º Os programas previstos na alínea b) do artigo 2.º abrangem as seguintes modalidades:
+Art. 4.º Os programas previstos na alínea b) do artigo 2.º abrangem as seguintes modalidades:
 
 a) Emissões de educação permanente de indivíduos que não prossigam estudos para além da escolaridade obrigatória, destinadas a manter e ampliar as bases culturais nesta ministradas, designadamente nos aspectos cívico, literário, artístico, científico, económico, higiénico e sanitário;
 
 b) Emissões destinadas a satisfazer interesses de nível cultural mais elevado, designadamente sobre artes plásticas, música, literatura, teatro, ciências do espírito, ciências da natureza e técnica.
 
-###### Art. 5.º - 1. O material referido na alínea c) do artigo 2.º deve revestir as modalidades adequadas à sua utilização:
+Art. 5.º - 1. O material referido na alínea c) do artigo 2.º deve revestir as modalidades adequadas à sua utilização:
 
 a) Nos cursos ministrados em estabelecimentos de ensino;
 
@@ -143,7 +166,7 @@ c) Nas actividades experimentais do Instituto.
 
 2. A aquisição por serviços dependentes do Ministério da Educação Nacional de material áudio-visual destinado a fins didácticos ou culturais está sujeita a parecer favorável do Instituto de Meios Áudio-Visuais de Educação.
 
-###### Art. 6.º A fim de se realizarem experiências de conjunto, no desempenho da competência prevista na alínea d) do artigo 2.º, pode o Ministro da Educação Nacional:
+Art. 6.º A fim de se realizarem experiências de conjunto, no desempenho da competência prevista na alínea d) do artigo 2.º, pode o Ministro da Educação Nacional:
 
 a) Colocar sob a superintendência do Instituto estabelecimentos de ensino e o respectivo pessoal;
 
@@ -151,7 +174,7 @@ b) Colocar sob a orientação pedagógica do Instituto classes pertencentes a es
 
 #### SECÇÃO II — Órgãos
 
-###### Art. 7.º O Instituto de Meios Áudio-Visuais de Educação tem os seguintes órgãos:
+Art. 7.º O Instituto de Meios Áudio-Visuais de Educação tem os seguintes órgãos:
 
 a) Direcção;
 
@@ -159,7 +182,7 @@ b) Conselho administrativo;
 
 c) Conselho pedagógico.
 
-###### Art. 8.º - 1. A direcção é composta por um presidente e por um número de vogais entre quatro a sete, nomeados pelo Ministro da Educação Nacional.
+Art. 8.º - 1. A direcção é composta por um presidente e por um número de vogais entre quatro a sete, nomeados pelo Ministro da Educação Nacional.
 
 2. O presidente é nomeado de entre indivíduos com um curso superior, sendo a nomeação provisória por um ano, findo o qual pode converter-se em definitiva. Tratando-se de funcionário público, pode o provimento fazer-se em comissão de serviço ou, desde logo, definitivamente.
 
@@ -167,7 +190,7 @@ c) Conselho pedagógico.
 
 4. Os vogais são nomeados por períodos de três anos, mas o Ministro pode exonerá-los a todo o tempo.
 
-###### Art. 9.º - 1. A direcção tem a seu cargo a orientação das actividades do Instituto e compete-lhe:
+Art. 9.º - 1. A direcção tem a seu cargo a orientação das actividades do Instituto e compete-lhe:
 
 a) Deliberar sobre os projectos de planos de actividades, orçamentos, relatórios e contas do Instituto;
 
@@ -179,7 +202,7 @@ d) Deliberar sobre as aquisições necessárias aos serviços.
 
 2. A direcção delibera por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 10.º - 1. O presidente da direcção representa o Instituto e compete-lhe em especial:
+Art. 10.º - 1. O presidente da direcção representa o Instituto e compete-lhe em especial:
 
 a) Convocar as reuniões da direcção, presidi-las e orientar os seus trabalhos;
 
@@ -193,13 +216,13 @@ e) Superintender em todos o serviços do Instituto, promovendo e fiscalizando o 
 
 2. Na falta ou impedimento do presidente, exerce as suas funções o vogal que o Ministro designar para o efeito.
 
-###### Art. 11.º - 1. O conselho administrativo é composto por um presidente e por dois vogais, todos nomeados pelo Ministro da Educação Nacional, nos termos do n.º 4 do artigo 8.º, sendo o presidente designado entre os membros da direcção.
+Art. 11.º - 1. O conselho administrativo é composto por um presidente e por dois vogais, todos nomeados pelo Ministro da Educação Nacional, nos termos do n.º 4 do artigo 8.º, sendo o presidente designado entre os membros da direcção.
 
 2. O conselho administrativo delibera por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
 3. Na falta ou impedimento do presidente, exerce as suas funções o vogal que o Ministro designar.
 
-###### Art. 12.º Compete ao conselho administrativo:
+Art. 12.º Compete ao conselho administrativo:
 
 a) Elaborar os projectos de orçamentos de receitas e despesas, de acordo com as instruções do presidente da direcção;
 
@@ -211,19 +234,19 @@ d) Organizar e apresentar à direcção as contas de cada exercício;
 
 e) Promover a elaboração do cadastro dos bens do Instituto.
 
-###### Art. 13.º - 1. O conselho pedagógico é um órgão consultivo da direcção e do seu presidente em assuntos de natureza didáctica.
+Art. 13.º - 1. O conselho pedagógico é um órgão consultivo da direcção e do seu presidente em assuntos de natureza didáctica.
 
 2. A composição do conselho pedagógico será estabelecida por despacho do Ministro da Educação Nacional.
 
 3. Os membros do conselho são nomeados pelo Ministro, nos termos do n.º 4 do artigo 8.º, e entre eles devem figurar um especialista de radiodifusão sonora e outro de televisão, representando, respectivamente, a Emissora Nacional de Radiodifusão e os organismos de televisão.
 
-###### Art. 14.º Os vogais da direcção e os membros do conselho administrativo e do conselho pedagógico exercem as suas fundões cumulativamente com os cargos ou empregos próprios e percebem por elas as gratificações ou senhas de presença fixadas em despacho do Ministro da Educação Nacional, com o acordo do Ministro das Finanças. Para a nomeação não lhes é exigido o cumprimento de nenhuma formalidade, além da declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), de 14 de Setembro de 1936.
+Art. 14.º Os vogais da direcção e os membros do conselho administrativo e do conselho pedagógico exercem as suas fundões cumulativamente com os cargos ou empregos próprios e percebem por elas as gratificações ou senhas de presença fixadas em despacho do Ministro da Educação Nacional, com o acordo do Ministro das Finanças. Para a nomeação não lhes é exigido o cumprimento de nenhuma formalidade, além da declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), de 14 de Setembro de 1936.
 
 #### SECÇÃO III — Serviços
 
-###### Art. 15.º Os serviços do Instituto são as repartições, os servidos técnicos e a secretaria.
+Art. 15.º Os serviços do Instituto são as repartições, os servidos técnicos e a secretaria.
 
-###### Art. 16.º - 1. A promoção das actividades previstas no artigo 2.º é assegurada pelas seguintes repartições:
+Art. 16.º - 1. A promoção das actividades previstas no artigo 2.º é assegurada pelas seguintes repartições:
 
 1.ª Repartição - Radiodifusão sonora e televisão;
 
@@ -235,23 +258,23 @@ e) Promover a elaboração do cadastro dos bens do Instituto.
 
 4. Para apoio das actividades previstas na alínea d) do artigo 2.º, o Instituto disporá de laboratórios experimentais, que podem funcionar em estabelecimentos de ensino.
 
-###### Art. 17.º A realização e a assistência técnicas das actividades do Instituto ficam a cargo dos servidos técnicos, os quais são chefiados por um técnico de 1.ª classe do quadro do Instituto, designado por despacho do Ministro da Educação Nacional sobre proposta do presidente da direcção.
+Art. 17.º A realização e a assistência técnicas das actividades do Instituto ficam a cargo dos servidos técnicos, os quais são chefiados por um técnico de 1.ª classe do quadro do Instituto, designado por despacho do Ministro da Educação Nacional sobre proposta do presidente da direcção.
 
-###### Art. 18.º Os serviços de contabilidade e de expediente ficam a cargo da secretaria, a qual será chefiada por um funcionário do quadro do Instituto de categoria correspondente à letra H, designado nos termos da parte final do artigo anterior.
+Art. 18.º Os serviços de contabilidade e de expediente ficam a cargo da secretaria, a qual será chefiada por um funcionário do quadro do Instituto de categoria correspondente à letra H, designado nos termos da parte final do artigo anterior.
 
 #### SECÇÃO IV — Do pessoal
 
-###### Art. 19.º - 1. O pessoal do Instituto e os respectivos vencimentos constam do quadro anexo a este decreto-lei.
+Art. 19.º - 1. O pessoal do Instituto e os respectivos vencimentos constam do quadro anexo a este decreto-lei.
 
 2. Este quadro pode ser revisto por decreto dos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 20.º As nomeações do pessoal do quadro cujo provimento não está especialmente regulado neste decreto-lei são feitas por livre escolha do Ministro da Educação Nacional.
+Art. 20.º As nomeações do pessoal do quadro cujo provimento não está especialmente regulado neste decreto-lei são feitas por livre escolha do Ministro da Educação Nacional.
 
-###### Art. 21.º - 1. Pode o Ministro da Educação Nacional mandar colaborar em actividades dependentes do Instituto de Meios Áudio-Visuais de Educação funcionários de quaisquer serviços do Ministério, dispensando-os, total ou parcialmente, do exercício de funções próprias.
+Art. 21.º - 1. Pode o Ministro da Educação Nacional mandar colaborar em actividades dependentes do Instituto de Meios Áudio-Visuais de Educação funcionários de quaisquer serviços do Ministério, dispensando-os, total ou parcialmente, do exercício de funções próprias.
 
 2. Os referidos funcionários conservam as remunerações correspondentes ao desempenho efectivo das funções próprias, a abonar pelos respectivos serviços, e podem, além disso, perceber as gratificações, a cargo do Instituto, que forem fixadas em despacho do Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
 
-###### Art. 22.º - 1. As funções correspondentes à colaboração a que se refere o artigo anterior consideram-se, para todos os efeitos legais, como desempenhadas nos serviços a que os funcionários pertencem. Tratando-se de agentes de ensino, a colaboração entende-se como determinada por conveniência urgente de serviço, salvo declaração em contrário.
+Art. 22.º - 1. As funções correspondentes à colaboração a que se refere o artigo anterior consideram-se, para todos os efeitos legais, como desempenhadas nos serviços a que os funcionários pertencem. Tratando-se de agentes de ensino, a colaboração entende-se como determinada por conveniência urgente de serviço, salvo declaração em contrário.
 
 2. Para efeitos do presente artigo, consideram-se agentes de ensino todos os que exercem funções docentes, seja qual for a modalidade do seu provimento, ainda que eventual.
 
@@ -259,17 +282,17 @@ e) Promover a elaboração do cadastro dos bens do Instituto.
 
 4. Findo esse serviço, o agente de ensino, ainda que não pertença aos quadros, regressará ao estabelecimento onde desempenhava funções, pelo que não poderá ser provido a título definitivo, enquanto durar a prestação de serviço no Instituto, o lugar que exercia naquele estabelecimento.
 
-###### Art. 23.º - 1. O Ministro da Educação Nacional pode autorizar o contrato ou o assalariamento de pessoal que venha a ser necessário para a boa execução dos serviços.
+Art. 23.º - 1. O Ministro da Educação Nacional pode autorizar o contrato ou o assalariamento de pessoal que venha a ser necessário para a boa execução dos serviços.
 
 2. A direcção do Instituto pode recorrer à realização de trabalhos por quaisquer pessoas, em regime de prestação eventual de serviços.
 
-###### Art. 24.º Aos membros da direcção e dos conselhos administrativo e pedagógico, bem como ao pessoal do Instituto e a todos os que forem chamados a colaborar nas suas actividades, serão abonadas ajudas de custo e despesas de transporte, quando tiverem de se deslocar no desempenho das suas funções.
+Art. 24.º Aos membros da direcção e dos conselhos administrativo e pedagógico, bem como ao pessoal do Instituto e a todos os que forem chamados a colaborar nas suas actividades, serão abonadas ajudas de custo e despesas de transporte, quando tiverem de se deslocar no desempenho das suas funções.
 
-###### Art. 25.º Os membros da direcção e os chefes de repartição e dos serviços técnicos do Instituto de Meios Áudio-Visuais de Educação gozam da isenção estabelecida no artigo 31.º do [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957.
+Art. 25.º Os membros da direcção e os chefes de repartição e dos serviços técnicos do Instituto de Meios Áudio-Visuais de Educação gozam da isenção estabelecida no artigo 31.º do [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957.
 
 #### SECÇÃO V — Receitas e despesas
 
-###### Art. 26.º Constituem receitas do Instituto de Meios Áudio-Visuais de Educação:
+Art. 26.º Constituem receitas do Instituto de Meios Áudio-Visuais de Educação:
 
 a) As dotações que lhe forem consignadas no Orçamento Geral do Estado ou atribuídas pelos corpos administrativos;
 
@@ -285,24 +308,24 @@ f) O produto de propinas e emolumentos relativos a cursos promovidos pelo Instit
 
 g) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou outro título.
 
-###### Art. 27.º - 1. O Instituto arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos dos seus serviços e outros que legalmente estejam a seu cargo.
+Art. 27.º - 1. O Instituto arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos dos seus serviços e outros que legalmente estejam a seu cargo.
 
 2. As despesas de realização e transmissão dos programas de radiodifusão sonora ficam a cargo da Emissora Nacional de Radiodifusão, e as dos programas de televisão serão suportadas nos termos da legislação aplicável.
 
 3. As remunerações dos professores e apresentadores dos programas, bem como as despesas com a produção destes, são satisfeitas pelo Instituto de Meios Áudio-Visuais de Educação, salvo o disposto na primeira parte do n.º 2 do artigo 21.º
 
-###### Art. 28.º Pode o Instituto de Meios Áudio-Visuais de Educação subsidiar iniciativas de carácter social e assistencial em benefício dos seus servidores.
+Art. 28.º Pode o Instituto de Meios Áudio-Visuais de Educação subsidiar iniciativas de carácter social e assistencial em benefício dos seus servidores.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Hermano Saraiva.
 
-**Promulgado em 7 de Abril de 1969.**
+Promulgado em 7 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro a que se refere o artigo 19.º do Decreto-Lei n.º 48962, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/04/08800/04000403.pdf))](https://files.diariodarepublica.pt/1s/1969/04/08800/04000403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/04/08800/04000403.pdf)
 
 Ministério da Educação Nacional, 7 de Abril de 1969. - O Ministro da Educação Nacional, José Hermano Saraiva.

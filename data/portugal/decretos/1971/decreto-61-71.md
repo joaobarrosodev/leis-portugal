@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/61-1971-445550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7bd7068ca3ce9aaff4f75cf31eef9d2bdaf2e82d7962ee856f54c7684db7b74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4a87e46811ee50a567959ac093eed4b6dea48d43c7b36bd2636e8a6d065b43a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:55Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +94,12 @@ Nos termos do n.º 1.º do artigo 12.º do Código Administrativo;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Consitituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A freguesia de Capareiros, do concelho e distrito de Viana do Castelo, passa a denominar-se Barroselas.
+Artigo único. A freguesia de Capareiros, do concelho e distrito de Viana do Castelo, passa a denominar-se Barroselas.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 20 de Fevereiro de 1971.**
+Promulgado em 20 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46994-1966-475933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9a947c25472b3d27cb06aa443ae4b43cedefce63a6bfe3e3c21831463578c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 739a8edc152c823da99a88d12f32088d233bb18b5b2e5e4945b9a2cc2f693a77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Gabinete da Ponte sobre o TEJO
+- Ministério das Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:160373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:00Z'
   warnings: []
   errors: []
 ---
@@ -91,24 +108,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministério das Obras Públicas, pelo Gabinete da Ponte sobre o Tejo, autorizado a promover, de harmonia com o plano aprovado pelo respectivo Ministro, as medidas imediatamente, necessárias para assegurar o funcionamento regular da referida ponte a partir da data da sua inauguração, incluindo a construção e aquisição de instalações fixas e móveis, materiais e ferramentas, veículos automóveis e outro equipamento para assistência aos usuários da ponte e, bem assim, a admissão do pessoal a integrar ulteriormente nos respectivos serviços de exploração e a realização das despesas inerentes à preparação e ao treino do pessoal admitido e ao funcionamento experimental daqueles serviços.
+Artigo 1.º Fica o Ministério das Obras Públicas, pelo Gabinete da Ponte sobre o Tejo, autorizado a promover, de harmonia com o plano aprovado pelo respectivo Ministro, as medidas imediatamente, necessárias para assegurar o funcionamento regular da referida ponte a partir da data da sua inauguração, incluindo a construção e aquisição de instalações fixas e móveis, materiais e ferramentas, veículos automóveis e outro equipamento para assistência aos usuários da ponte e, bem assim, a admissão do pessoal a integrar ulteriormente nos respectivos serviços de exploração e a realização das despesas inerentes à preparação e ao treino do pessoal admitido e ao funcionamento experimental daqueles serviços.
 
 § único. Serão submetidas ao prévio acordo do Ministro das Finanças as propostas que respeitem à admissão de pessoal e respectivas remunerações.
 
-###### Art. 2.º Serão financiadas pelo Fundo de Desemprego as despesas a realizar para os fins do artigo anterior até ao montante de 15000 contos, através da concessão de um subsídio reembolsável, sem juro, por conta das disponibilidades acumuladas para garantia das comparticipações em aberto.
+Art. 2.º Serão financiadas pelo Fundo de Desemprego as despesas a realizar para os fins do artigo anterior até ao montante de 15000 contos, através da concessão de um subsídio reembolsável, sem juro, por conta das disponibilidades acumuladas para garantia das comparticipações em aberto.
 
 § único. Será consignada ao reembolso do subsídio a que se refere o corpo deste artigo metade da receita da exploração da ponte, a partir da data da sua entrada em serviço. A entrega das prestações do reembolso ao Comissariado do Desemprego será feita mensalmente.
 
-###### Art. 3.º O Comissariado do Desemprego porá à disposição do Gabinete da Ponte sobre o Tejo a importância do subsídio fixado no artigo anterior, à medida do desenvolvimento do programa de trabalho, mediante simples requisições visadas pelo Ministro das Obras Públicas.
+Art. 3.º O Comissariado do Desemprego porá à disposição do Gabinete da Ponte sobre o Tejo a importância do subsídio fixado no artigo anterior, à medida do desenvolvimento do programa de trabalho, mediante simples requisições visadas pelo Ministro das Obras Públicas.
 
-###### Art. 4.º O Ministro das Obras Públicas poderá, sempre que o julgue necessário, autorizar a dispensa de concurso público e de contrato escrito na execução das obras e fornecimentos previstos no plano aprovado nos termos do artigo 1.º e, bem assim, a sua adjudicação independentemente dos limites de competência fixados no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957.
+Art. 4.º O Ministro das Obras Públicas poderá, sempre que o julgue necessário, autorizar a dispensa de concurso público e de contrato escrito na execução das obras e fornecimentos previstos no plano aprovado nos termos do artigo 1.º e, bem assim, a sua adjudicação independentemente dos limites de competência fixados no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957.
 
-###### Art. 5.º O pessoal admitido ao abrigo do presente diploma poderá ser integrado nos quadros do organismo que vier a ser incumbido da exploração da ponte sem exigência de formalidades, desde que satisfaça aos requisitos da lei geral eventualmente aplicáveis, salvo no que se refere ao limite de idade, uma vez que tenha preenchido esta condição à data da sua admissão no Gabinete da Ponte sobre o Tejo.
+Art. 5.º O pessoal admitido ao abrigo do presente diploma poderá ser integrado nos quadros do organismo que vier a ser incumbido da exploração da ponte sem exigência de formalidades, desde que satisfaça aos requisitos da lei geral eventualmente aplicáveis, salvo no que se refere ao limite de idade, uma vez que tenha preenchido esta condição à data da sua admissão no Gabinete da Ponte sobre o Tejo.
 
-###### Art. 6.º É aplicável ao pessoal a que se refere o artigo anterior o disposto no artigo 1.º do [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de, 24 de Novembro de 1947, para o que serão inscritas no orçamento do Gabinete da Ponte sobre o Tejo as verbas necessárias para o pagamento dos respectivos vencimentos ou salários.
+Art. 6.º É aplicável ao pessoal a que se refere o artigo anterior o disposto no artigo 1.º do [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de, 24 de Novembro de 1947, para o que serão inscritas no orçamento do Gabinete da Ponte sobre o Tejo as verbas necessárias para o pagamento dos respectivos vencimentos ou salários.
 
-###### Art. 7.º Consideram-se isentas de quaisquer formalidades, incluindo o visto do Tribunal de Contas, as despesas a realizar pelo Gabinete da Ponte sobre o Tejo em execução do presente diploma.
+Art. 7.º Consideram-se isentas de quaisquer formalidades, incluindo o visto do Tribunal de Contas, as despesas a realizar pelo Gabinete da Ponte sobre o Tejo em execução do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

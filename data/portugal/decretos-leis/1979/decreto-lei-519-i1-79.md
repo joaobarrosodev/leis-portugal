@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 4º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3446-(84) a 3446-(88)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29904/00840088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-i1-1979-157059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9464dfe10f19d5a74f47494f38a783182597defc90ff51f04f3cfb55ec9517f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1297ec5a12f2056357fed9b2c7c7e6c3a7e1b8329ae9f5cce0172d1979ed5be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Cadastro Industrial
+- Condicionamento Industrial
+- Estabelecimento Industrial
+- Indústria
+- Licenciamento
+- Registo Obrigatório
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662485:por
+  label: "Revogados os arts. 3.º, 4.º, 9.º, 10.º e 11.º pelo DEC LEI.97/87.04.03.1987.MIC, DR.IS [52] de 04.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-1987-662485
+  date: '1987-03-04'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:13Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +193,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Acesso à actividade industrial
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Liberdade de acesso à actividade industrial)
 
@@ -154,7 +203,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - Consideram-se revogados todos os exclusivos de exploração de actividades indústrias que tenham sido concedidos a qualquer título, nomeadamente ao abrigo dos regimes de condicionamento e autorização prévia.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Indústrias de acesso limitado)
 
@@ -166,7 +215,7 @@ As indústrias a que se refere a alínea a) da mesma disposição serão posteri
 
 ### CAPÍTULO II — Cadastro industrial
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Cadastro das unidades industriais)
 
@@ -174,7 +223,7 @@ As indústrias a que se refere a alínea a) da mesma disposição serão posteri
 
 2 - O registo destina-se a fixar a todo o tempo a actividade a que cada unidade industrial está afecta e será organizado nos termos do artigo seguinte.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Registo obrigatório)
 
@@ -200,13 +249,13 @@ c) A modificação de equipamento fabril quando ela representa alteração do pr
 
 ### CAPÍTULO III — Fiscalização e penalidades
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Fiscalização)
 
 A fiscalização do cumprimento do disposto neste decreto-lei compete às direcções-gerais do Ministério da Indústria que superintendam nas respectivas actividades industriais e à Direcção-Geral de Qualidade deste Ministério.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Autos de notícia)
 
@@ -216,7 +265,7 @@ A fiscalização do cumprimento do disposto neste decreto-lei compete às direc�
 
 3 - O director-geral competente mandará notificar a entidade arguida por meio de carta registada com aviso de recepção, podendo aquela apresentar a sua defesa no prazo de quinze dias a contar da data da recepção da notificação.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Penalidades por violação da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456))
 
@@ -234,7 +283,7 @@ A fiscalização do cumprimento do disposto neste decreto-lei compete às direc�
 
 7 - Em caso de encerramento do estabelecimento industrial, poderá ser ordenada a aposição de selos nas instalações e equipamentos, quando necessário para prevenir a sua ilegal utilização.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Penalidades no caso de outras infracções)
 
@@ -248,13 +297,13 @@ A fiscalização do cumprimento do disposto neste decreto-lei compete às direc�
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Formalidades quanto às indústrias já existentes)
 
 Todos os estabelecimentos industriais actualmente em laboração deverão requerer, no prazo de noventa dias a contar da publicação da portaria referida no n.º 6 do artigo 4.º, e com observância das formalidades nela definidas, o registo previsto nesse mesmo artigo.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Sectores prioritários)
 
@@ -262,7 +311,7 @@ Todos os estabelecimentos industriais actualmente em laboração deverão requer
 
 2 - No acto de registo, os titulares da empresa deverão obter, a seu pedido, documentação comprovativa da classificação atribuída à actividade desenvolvida pela mesma, em termos da listagem referida no número anterior.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Regime transitório de registo)
 
@@ -274,19 +323,19 @@ Todos os estabelecimentos industriais actualmente em laboração deverão requer
 
 4 - Consideram-se deferidos os requerimentos que não obtiverem despacho nos trinta dias seguintes ao da sua apresentação.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Recurso hierárquico)
 
 De todos os actos previstos neste diploma que sejam da competência dos directores-gerais, ou entidades equivalentes, do Ministério da Indústria, cabe recurso hierárquico para o Ministro, a interpor no prazo de trinta dias.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Resolução de dúvidas)
 
 As dúvidas emergentes da execução do presente decreto-lei serão resolvidas por despacho do Ministro da Indústria.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Campo de aplicação)
 
@@ -294,7 +343,7 @@ As dúvidas emergentes da execução do presente decreto-lei serão resolvidas p
 
 2 - As referências feitas no presente diploma ao Ministro da Indústria e aos departamentos do Ministério da Indústria entendem-se feitas aos Ministros das pastas respectivas e aos departamentos da sua jurisdição, relativamente às indústrias da sua tutela.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Legislação revogada)
 
@@ -302,12 +351,12 @@ Fica revogado o [Decreto-Lei n.º 533/74](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Fernando Henrique Marques Videira.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro anexo ao Decreto-Lei n.º 519-I1/79, de 29 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29904/00840088.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29904/00840088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29904/00840088.pdf)

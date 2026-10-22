@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/328-1972-676626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3a9777efa6ff0e63eb432b63f06c70593f5523ad88d7e674ce1cb5c352a3592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5a78124b1fbaf2a4523d6546919292bf6541a600f065c8a4b71755ede1340f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:21Z'
   warnings: []
   errors: []
 ---
@@ -90,12 +90,12 @@ Tendo em vista o parecer favorável do Ministério das Obras Públicas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os limites da cidade de Guimarães são definidos por uma linha que, partindo da igreja paroquial de Mesão Frio, se desenvolve no sentido da marcha dos ponteiros do relógio e em sucessivos segmentos de recta, por forma a constituir uma figura poligonal determinada pelos ângulos e distâncias a seguir indicados, a partir da direcção norte: 173 gr, 90 m; 298 gr, 310 m; 154 gr, 650 m; 278 gr, 130 m; 178 gr, 350 m; 131 gr, 120 m; 319 gr, 140 m; 92 gr, 150 m; 114 gr, 100 m; 271 gr, 300 m; 227 gr, 620 m; 137 gr, 340 m; 308 gr, 650 m; 216 gr, 390 m; 169 gr, 280 m; 176 gr, 990 m; 173 gr, 330 m; 289 gr, 970 m; 166 gr, 340 m; 315 gr, 370 m; 258 gr, 170 m; 133 gr, 300 m; 107 gr, 850 m; 303 gr, 850 m; 112 gr, 310 m; 230 gr, 200 m; 134 gr, 200 m; 248 gr, 130 m; 124 gr, 150 m; 310 gr, 380 m; 128 gr, 180 m; 126 gr, 220 m; 260 gr, 220 m; 149 gr, 80 m; 299 gr, 150 m; 298 gr, 100 m; 154 gr, 230 m; 139 gr, 70 m; 132 gr, 200 m; 280 gr, 60 m; 274 gr, 400 m; 83 gr, 230 m; 181 gr, 160 m; 124 gr, 120 m; 319 gr, 470 m; 264 gr, 240 m; 162 gr, 200 m; 263 gr, 670 m; 266 gr, 280 m; 238 gr, 200 m; 155 gr, 390 m; 118 gr, 70 m; 284 gr, 160 m; 278 gr, 70 m; 124 gr, 170 m; 248 gr, 200 m; 162 gr, 450 m; 267 gr, 340 m; 287 gr, 270 m; 165 gr, 200 m; 77 gr, 240 m; 261 gr, 360 m; 129 gr, 210 m; 240 gr, 550 m; 113 gr, 270 m, 335 gr, 240 m; 133 gr, 170 m; 224 gr, 460 m; 313 gr, 160 m; 116 gr, 250 m; 117 gr, 620 m; 218 gr, 220 m; 153 gr, 350 m; 268 gr, 380 m; 103 gr, 330 m; 291 gr, 400 m; 180 gr, 400 m; 299 gr, 80 m; 288 gr, 300 m; 130 gr, 800 m; 50 gr, 330 m; 300 gr, 300 m; 117 gr, 500 m; 293 gr, 250 m; 240 gr, 140 m; 137 gr, 610 m; 278 gr, 760 m; 93 gr, 210 m; 263 gr, 400 m; 240 gr, 690 m; 107 gr, 410 m; 250 gr, 210 m; 290 gr, 280 m; 139 gr, 350 m; 321 gr, 120 m; 288 gr, 180 m; 131 gr, 100 m (ponto inicial da presente descrição).
+Artigo único. Os limites da cidade de Guimarães são definidos por uma linha que, partindo da igreja paroquial de Mesão Frio, se desenvolve no sentido da marcha dos ponteiros do relógio e em sucessivos segmentos de recta, por forma a constituir uma figura poligonal determinada pelos ângulos e distâncias a seguir indicados, a partir da direcção norte: 173 gr, 90 m; 298 gr, 310 m; 154 gr, 650 m; 278 gr, 130 m; 178 gr, 350 m; 131 gr, 120 m; 319 gr, 140 m; 92 gr, 150 m; 114 gr, 100 m; 271 gr, 300 m; 227 gr, 620 m; 137 gr, 340 m; 308 gr, 650 m; 216 gr, 390 m; 169 gr, 280 m; 176 gr, 990 m; 173 gr, 330 m; 289 gr, 970 m; 166 gr, 340 m; 315 gr, 370 m; 258 gr, 170 m; 133 gr, 300 m; 107 gr, 850 m; 303 gr, 850 m; 112 gr, 310 m; 230 gr, 200 m; 134 gr, 200 m; 248 gr, 130 m; 124 gr, 150 m; 310 gr, 380 m; 128 gr, 180 m; 126 gr, 220 m; 260 gr, 220 m; 149 gr, 80 m; 299 gr, 150 m; 298 gr, 100 m; 154 gr, 230 m; 139 gr, 70 m; 132 gr, 200 m; 280 gr, 60 m; 274 gr, 400 m; 83 gr, 230 m; 181 gr, 160 m; 124 gr, 120 m; 319 gr, 470 m; 264 gr, 240 m; 162 gr, 200 m; 263 gr, 670 m; 266 gr, 280 m; 238 gr, 200 m; 155 gr, 390 m; 118 gr, 70 m; 284 gr, 160 m; 278 gr, 70 m; 124 gr, 170 m; 248 gr, 200 m; 162 gr, 450 m; 267 gr, 340 m; 287 gr, 270 m; 165 gr, 200 m; 77 gr, 240 m; 261 gr, 360 m; 129 gr, 210 m; 240 gr, 550 m; 113 gr, 270 m, 335 gr, 240 m; 133 gr, 170 m; 224 gr, 460 m; 313 gr, 160 m; 116 gr, 250 m; 117 gr, 620 m; 218 gr, 220 m; 153 gr, 350 m; 268 gr, 380 m; 103 gr, 330 m; 291 gr, 400 m; 180 gr, 400 m; 299 gr, 80 m; 288 gr, 300 m; 130 gr, 800 m; 50 gr, 330 m; 300 gr, 300 m; 117 gr, 500 m; 293 gr, 250 m; 240 gr, 140 m; 137 gr, 610 m; 278 gr, 760 m; 93 gr, 210 m; 263 gr, 400 m; 240 gr, 690 m; 107 gr, 410 m; 250 gr, 210 m; 290 gr, 280 m; 139 gr, 350 m; 321 gr, 120 m; 288 gr, 180 m; 131 gr, 100 m (ponto inicial da presente descrição).
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 7 de Agosto de 1972.**
+Promulgado em 7 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

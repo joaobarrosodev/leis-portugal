@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08400/07280728.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1976-502790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68877dfd7d68798acdcc11844c541477973b1f801ca1e83270897763c39f28f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8df913efcc35c5981350aa8753ddc23e9e001c294954e40654272a78b0bd9a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa Agrícola
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:278704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346076:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º, pela LEI.77/77.1977.09.29.PCM DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:46Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +115,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 406-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-b-1975-346076), de 29 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 406-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-b-1975-346076), de 29 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1. O reconhecimento das novas unidades de produção compete ao Ministro da Agricultura e Pescas, sob proposta do Secretário de Estado da Estruturação Agrária, verificados os seguintes requisitos:
+Art. 2.º - 1. O reconhecimento das novas unidades de produção compete ao Ministro da Agricultura e Pescas, sob proposta do Secretário de Estado da Estruturação Agrária, verificados os seguintes requisitos:
 
 a) Requerimento a pedir o reconhecimento, dirigido ao Ministro da Agricultura e Pescas, acompanhado de documento que apresente a análise estrutural da exploração antes da intervenção e, bem assim, o plano da exploração do ponto de vista técnico e económico;
 
@@ -109,12 +125,12 @@ b) Acta da reunião dos interessados, de que conste a identificação da unidade
 
 2. As unidades de produção já reconhecidas deverão, no prazo de sessenta dias, apresentar os elementos referidos no número anterior, para efeitos da sua reorganização.
 
-###### Art. 2.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 2.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - António Poppe Lopes Cardoso - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

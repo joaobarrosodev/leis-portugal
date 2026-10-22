@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2160-(28) a 2160-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30003/00280030.pdf
 entry_into_force_dates: []
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/757-1975-355306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09074145f754380f7f47f833284ac8a6000e4a754594b6770b66d86171b2bffd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9098a2764a059205af6e692e7ded7ab236baa80a96705f6f6c233aa5368e51e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Dação em Cumprimento
+- Herança
+- Imposto sobre Sucessões e Doações
+- Isenção Fiscal
+- Pagamento
+- Sisa
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:614590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterado o art. 13º-A e o nº 1 do art. 16º do Código da Sisa e do Imposto sobre Sucessões e Doações, aprovado pelo
+    Dec Lei 41969 de 24-Nov de 1958, com a redacção do presente diploma, pelo DEC LEI.91/89.27.03.1989.MF, DR.IS [71] de 27.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:17Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +127,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 13.º-A, 16.º, 30.º, 40.º, 87.º, 120.º e 121.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 13.º-A, 16.º, 30.º, 40.º, 87.º, 120.º e 121.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passam a ter a seguinte redacção:
 
-###### Art. 12.º Ficam isentas do imposto sobre as sucessões e doações:
+Art. 12.º Ficam isentas do imposto sobre as sucessões e doações:
 
 1.º As transmissões de bens de valor igual ou inferior a 10000$00 para cada adquirente;
 
@@ -126,7 +145,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 § 3.º Se o valor da transmissão exceder o limite das isenções previstas nos n.os 1.º e 3.º deste artigo, por todo ele se pagará imposto, mas sem que a importância deste possa ser superior ao excesso.
 
-###### Art. 13.º-A ...
+Art. 13.º-A ...
 
 § 1.º ...
 
@@ -134,7 +153,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 1.º Que os prédios adquiridos para revenda não foram transaccionados dentro do prazo de dois anos ou o foram novamente para revenda, salvo justificação aceite por despacho do Ministro das Finanças, que poderá prorrogar esse prazo até ao máximo de dois anos mais.
 
@@ -148,7 +167,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 § único. Quando se proceder a avaliação de prédios urbanos e os peritos reconhecerem por unanimidade que daí resulta para esses prédios um valor desproporcionado ao seu seu valor venal, deverão expor no termo de louvação as circunstâncias em que se baseiam e indicar o factor de capitalização que lhes pareça mais justo.
 
@@ -158,15 +177,15 @@ Da decisão do director de finanças apenas caberá recurso para o director-gera
 
 ...
 
-###### Art. 40.º As taxas do imposto sobre as sucessões e doações são as constantes da seguinte tabela:
+Art. 40.º As taxas do imposto sobre as sucessões e doações são as constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30003/00280030.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30003/00280030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30003/00280030.pdf)
 
 § único. ...
 
 ...
 
-###### Art. 87.º ...
+Art. 87.º ...
 
 ...
 
@@ -176,7 +195,7 @@ Da decisão do director de finanças apenas caberá recurso para o director-gera
 
 ...
 
-###### Art. 120.º O imposto sobre as sucessões e doações será pago em prestações, vencendo-se a primeira no mês seguinte àquele em que tiver terminado o prazo referido no § 2.º do artigo 87.º e, cada uma das restantes, seis meses depois do vencimento da anterior.
+Art. 120.º O imposto sobre as sucessões e doações será pago em prestações, vencendo-se a primeira no mês seguinte àquele em que tiver terminado o prazo referido no § 2.º do artigo 87.º e, cada uma das restantes, seis meses depois do vencimento da anterior.
 
 § 1.º O imposto será dividido em dezasseis prestações, se não exceder 60000$00, em doze, se exceder 60000$00 e não ultrapassar 150000$00, em dez, se exceder 150000$00 e não ultrapassar 300000$00, em oito, se exceder 300000$00 e não ultrapassar 1000000$00, e em seis, se exceder 1000000$00.
 
@@ -188,15 +207,15 @@ O montante dos juros acrescerá às prestações e será calculado no acto do se
 
 § 3.º ...
 
-###### Art. 121.º Se se tiver optado por pagar o imposto de pronto, nos termos do § 2.º do artigo 87.º, ou o contribuinte quiser remir todas ou algumas das prestações antes do seu vencimento, será concedido o desconto de 1% ao mês, calculado sobre a importância de cada uma das prestações em que o imposto tivesse de ser dividido, ou que ainda não estejam vencidas, considerando-se unicamente o número de meses que decorrerem entre a data do vencimento da primeira ou da próxima prestação, que não tem direito a desconto, e a do vencimento das restantes.
+Art. 121.º Se se tiver optado por pagar o imposto de pronto, nos termos do § 2.º do artigo 87.º, ou o contribuinte quiser remir todas ou algumas das prestações antes do seu vencimento, será concedido o desconto de 1% ao mês, calculado sobre a importância de cada uma das prestações em que o imposto tivesse de ser dividido, ou que ainda não estejam vencidas, considerando-se unicamente o número de meses que decorrerem entre a data do vencimento da primeira ou da próxima prestação, que não tem direito a desconto, e a do vencimento das restantes.
 
 Quando o número de prestações tiver sido aumentado, ao abrigo da segunda parte do § 1.º do artigo antecedente, calcular-se-á o desconto como se tal não houvera acontecido.
 
 § único. ...
 
-###### Art. 2.º É aditado ao Código da Sisa e do Imposto sobre as Sucessões e Doações o artigo 129.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Código da Sisa e do Imposto sobre as Sucessões e Doações o artigo 129.º-A, com a seguinte redacção:
 
-###### Art. 129.º-A. Nas transmissões por morte, os contribuintes poderão ser exonerados do imposto que lhes corresponda pela dação em cumprimento de bens nelas englobados, tomados pelos valores sobre que foi liquidado o imposto.
+Art. 129.º-A. Nas transmissões por morte, os contribuintes poderão ser exonerados do imposto que lhes corresponda pela dação em cumprimento de bens nelas englobados, tomados pelos valores sobre que foi liquidado o imposto.
 
 § 1.º A dação será requerida pelo contribuinte, com a menção do seguinte:
 
@@ -214,16 +233,16 @@ c) Quaisquer outras circunstâncias de utilidade para a apreciação do pedido, 
 
 § 5.º No prazo a que se refere o § 2.º do artigo 87.º, contado da notificação do despacho ministerial, poderão os contribuintes, havendo imposto a pagar, prestar a declaração sobre a forma de pagamento.
 
-###### Art. 3.º É alargado para cento e oitenta dias o prazo de pagamento, com juros de mora, a que se refere a segunda parte do artigo 122.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, relativamente às dívidas do imposto cujos prazos de cobrança se encontram a decorrer à data da publicação do presente decreto-lei ou que venham a decorrer até 31 de Dezembro de 1976.
+Art. 3.º É alargado para cento e oitenta dias o prazo de pagamento, com juros de mora, a que se refere a segunda parte do artigo 122.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, relativamente às dívidas do imposto cujos prazos de cobrança se encontram a decorrer à data da publicação do presente decreto-lei ou que venham a decorrer até 31 de Dezembro de 1976.
 
-###### Art. 4.º O disposto no n.º 1.º do artigo 16.º do citado Código é aplicável às situações anteriores ainda não regularizadas, desde que os interessados o requeiram no prazo de trinta dias, a contar da publicação deste decreto-lei.
+Art. 4.º O disposto no n.º 1.º do artigo 16.º do citado Código é aplicável às situações anteriores ainda não regularizadas, desde que os interessados o requeiram no prazo de trinta dias, a contar da publicação deste decreto-lei.
 
-###### Art. 5.º Este decreto-lei entra imediatamente em vigor.
+Art. 5.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 26 de Dezembro de 1975.**
+Promulgado em 26 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

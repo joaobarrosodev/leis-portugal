@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/672-1973-411280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfc25d0d94898fee5461bf2fce555f023f46fb7435313915ab26c6ff512684fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78764ab962fb224e90a44753e72cdcac8b699af143fe09adccaaf480a8563ef7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Ministério das Comunicações
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:492699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:39Z'
   warnings: []
   errors: []
 ---
@@ -91,63 +99,63 @@ de 18 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O quadro de pessoal da Secretaria-Geral do Ministério das Comunicações passa a ser o constante do mapa anexo a este diploma e que dele faz parte integrante.
+Artigo 1.º - 1. O quadro de pessoal da Secretaria-Geral do Ministério das Comunicações passa a ser o constante do mapa anexo a este diploma e que dele faz parte integrante.
 
 2. O primeiro preenchimento das vagas de escriturário-dactilógrafo de 2.ª classe e de contínuo poderá ser feito de entre pessoal da Secretaria-Geral que possua as habilitações legais e que à data da entrada em vigor deste diploma, e há mais de um ano, se encontre ao serviço, com boas informações, em regime de contrato ou de assalariamento, observando-se o disposto nos n.os 3 a 5 do artigo 40.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
 
-###### Art. 2.º O n.º 1 do artigo 13.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, passa a ter a seguinte redacção:
+Art. 2.º O n.º 1 do artigo 13.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, passa a ter a seguinte redacção:
 
 1. A Direcção-Geral de Transportes Terrestres disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento, compreendendo:
 
-##### Divisão de Estudos Económicos;
+Divisão de Estudos Económicos;
 
-##### Divisão de Planeamento;
+Divisão de Planeamento;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 b) Direcção dos Serviços de Transportes, compreendendo:
 
-##### Divisão de Transportes Regulares;
+Divisão de Transportes Regulares;
 
-##### Divisão de Transportes Ocasionais;
+Divisão de Transportes Ocasionais;
 
-##### Divisão de Transportes Internacionais;
+Divisão de Transportes Internacionais;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 c) Direcção dos Serviços de Equipamento, compreendendo:
 
-##### Divisão de Equipamento Ferroviário;
+Divisão de Equipamento Ferroviário;
 
-##### Divisão de Instalações Rodoviárias;
+Divisão de Instalações Rodoviárias;
 
-#### Secção de Expediente Técnico.
+Secção de Expediente Técnico.
 
 d) Direcção dos Serviços de Liquidação, compreendendo:
 
-##### Divisão. de Liquidação, com a Secção de Expediente, a Secção de Liquidação e a Secção de Reclamações;
+Divisão. de Liquidação, com a Secção de Expediente, a Secção de Liquidação e a Secção de Reclamações;
 
-##### Divisão de Mecanografia;
+Divisão de Mecanografia;
 
-##### Divisão de Estatística.
+Divisão de Estatística.
 
 e) Repartição dos Serviços Administrativos, compreendendo:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 #### Secção de Pessoal;
 
-#### Secção de Expediente Geral;
+Secção de Expediente Geral;
 
-#### Secção de Transgressões;
+Secção de Transgressões;
 
-#### Secção de Relações Públicas.
+Secção de Relações Públicas.
 
 f) Serviços externos, compreendendo as Direcções de Transportes do Norte, do Centro, de Lisboa e do Sul, com sedes, respectivamente, no Porto, em Coimbra, em Lisboa e em Évora, e a Direcção de Transportes da Horta, anexada à Direcção de Obras Públicas do Distrito da Horta.
 
-###### Art. 3.º Além das atribuições que lhe possam vir a caber de harmonia com as leis e regulamentos, compete:
+Art. 3.º Além das atribuições que lhe possam vir a caber de harmonia com as leis e regulamentos, compete:
 
 a) À Divisão de Estudos Económicos:
 
@@ -167,26 +175,26 @@ Promover a obtenção de dados estatísticos de base, de interesse para o sector
 
 organizar um inventário permanentemente actualizado das estatísticas disponíveis na Direcção-Geral de Transportes Terrestres; elaborar análises estatísticas e econométricas periódicas, relativas ao sistema de transportes terrestres que possam servir de base aos trabalhos e estudos dos diferentes serviços; colaborar com o Sistema Estatístico Nacional, assegurando, designadamente, as ligações com a correspondente Comissão Consultiva de Estatística do Ministério; fornecer, sob a forma de estudos ou trabalhos da sua especialidade, o indispensável apoio aos demais serviços, quer no domínio das estatísticas nacionais, quer internacionais, sobre transportes.
 
-###### Art. 4.º É alterado o quadro de pessoal da Direcção-Geral de Transportes Terrestres, aprovado pelo [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, com a criação e extinção dos lugares constantes do mapa de alterações anexo ao presente diploma e que dele faz parte integrante.
+Art. 4.º É alterado o quadro de pessoal da Direcção-Geral de Transportes Terrestres, aprovado pelo [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, com a criação e extinção dos lugares constantes do mapa de alterações anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 5.º - 1. Os encargos resultantes do disposto no artigo 1.º terão compensação nas disponibilidades existentes na dotação consignada no orçamento do Ministério das Comunicações em execução ao pagamento de vencimentos a pessoal contratado não pertencente ao quadro da Secretaria-Geral e os resultantes das alterações introduzidas pelo artigo 4.º serão suportados nos termos da alínea b) do artigo 46.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
+Art. 5.º - 1. Os encargos resultantes do disposto no artigo 1.º terão compensação nas disponibilidades existentes na dotação consignada no orçamento do Ministério das Comunicações em execução ao pagamento de vencimentos a pessoal contratado não pertencente ao quadro da Secretaria-Geral e os resultantes das alterações introduzidas pelo artigo 4.º serão suportados nos termos da alínea b) do artigo 46.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
 
 2. Enquanto não se concretizarem as necessárias providências de carácter orçamental, poderão ser utilizadas na satisfação destes encargos as disponibilidades referidas no número anterior.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 5 de Dezembro de 1973.**
+Promulgado em 5 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Pessoal e vencimentos da Secretaria-Geral do Ministério das Comunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/29300/24442446.pdf))](https://files.diariodarepublica.pt/1s/1973/12/29300/24442446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/29300/24442446.pdf)
 
 Alterações ao quadro de pessoal da Direcção-Geral de Transportes Terrestres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/12/29300/24442446.pdf))](https://files.diariodarepublica.pt/1s/1973/12/29300/24442446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/29300/24442446.pdf)
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

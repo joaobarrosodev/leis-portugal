@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/01/00300/00330034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/6-1972-291793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 232fc2ec58ef7befe8a33fbe913728867b5c2448bb6b336f6f6a320ff76d7fc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370027956634c46ee44950021384225f829275021cb1cf1732e29d6df84b17bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,25 @@ relationships:
   target: pt:dre:657439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245371:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:57Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ Por outro lado, a vasta remodelação da estrutura orgânica do Ministério da M
 
 Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As entidades e organismos directamente dependentes do Ministro da Marinha, serão os seguintes:
+Artigo 1.º As entidades e organismos directamente dependentes do Ministro da Marinha, serão os seguintes:
 
 a) Gabinete do Ministro;
 
@@ -161,7 +170,7 @@ h) De natureza fabril:
 
 Arsenal do Alfeite.
 
-###### Art. 2.º - 1. A Comissão de Direito Marítimo Internacional também funciona como organismo de consulta e de estudo do vice-almirante chefe do Estado-Maior da Armada e do contra-almirante director-geral dos Serviços de Fomento Marítimo.
+Art. 2.º - 1. A Comissão de Direito Marítimo Internacional também funciona como organismo de consulta e de estudo do vice-almirante chefe do Estado-Maior da Armada e do contra-almirante director-geral dos Serviços de Fomento Marítimo.
 
 2. O Estado-Maior da Armada, que, nos termos do disposto no [Decreto-Lei n.º 40343](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40343-1955-245371), de 18 de Outubro de 1955, com as alterações estabelecidas pelos Decretos-Leis n.os 44962 e 46315, de, respectivamente, 6 de Abril de 1963 e 28 de Abril de 1965, é dirigido pelo contra-almirante vice-chefe do mesmo Estado-Maior, funciona, conjuntamente:
 
@@ -173,7 +182,7 @@ b) Como estado-maior do vice-almirante chefe do Estado-Maior da Armada, para o e
 
 4. A Comissão Consultiva das Pescas também funciona como organismo de estudo e de consulta do contra-almirante director-geral dos Serviços de Fomento Marítimo e do presidente da Junta Nacional de Fomento das Pescas.
 
-###### Art. 3.º Em relação aos organismos referidos no artigo 1.º, o Ministro da Marinha pode delegar a autoridade que lhe pertence nas seguintes entidades:
+Art. 3.º Em relação aos organismos referidos no artigo 1.º, o Ministro da Marinha pode delegar a autoridade que lhe pertence nas seguintes entidades:
 
 a) Chefe do Gabinete, no que respeita a:
 
@@ -191,12 +200,12 @@ b) Contra-almirante superintendente dos Serviços do Material, no que se refere 
 
 c) Comodoro intendente dos Serviços de Administração Financeira da Marinha, no que respeita ao Conselho Administrativo da Administração Central da Marinha.
 
-###### Art. 4.º Independentemente da sua subordinação ao Ministro da Marinha, os chefes dos organismos referidos no artigo 1.º devem tratar com os contra-almirantes superintendente dos Serviços do Pessoal e superintendente dos Serviços do Material todos os assuntos que são da jurisdição das suas Superintendências, os quais, quando for caso disso, serão presentes a despacho do Ministro pelos mesmos superintendentes.
+Art. 4.º Independentemente da sua subordinação ao Ministro da Marinha, os chefes dos organismos referidos no artigo 1.º devem tratar com os contra-almirantes superintendente dos Serviços do Pessoal e superintendente dos Serviços do Material todos os assuntos que são da jurisdição das suas Superintendências, os quais, quando for caso disso, serão presentes a despacho do Ministro pelos mesmos superintendentes.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.
 
-**Promulgado em 31 de Dezembro de 1971.**
+Promulgado em 31 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

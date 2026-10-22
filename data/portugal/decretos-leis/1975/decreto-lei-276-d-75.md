@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 128/1975, 5º Suplemento, Série I de 1975-06-04
   number: '128'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 774-(13) a 774-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/12805/00130013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-d-1975-389812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40f54343b6c0d60f7b5e3cd345931f80ce7153f20eed5116551ec3af5e448387
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 733568fc407545a7c41f6802efb52ac5d1e64d18edae4c1f8bd4643c678e187a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Comandante
+- Criação de Lugares
+- Definição de Competências
+- Ensino Superior Militar
+- Estabelecimento de Ensino
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:10Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +111,9 @@ Considerando que a urgência para a actuação desse órgão não se compadece c
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Academia Militar passa a dispor de mais um 2.º comandante, especificamente orientado para as actividades político-culturais, o qual será um coronel do Exército ou da Força Aérea, sob proposta do comandante da Academia.
+Artigo 1.º A Academia Militar passa a dispor de mais um 2.º comandante, especificamente orientado para as actividades político-culturais, o qual será um coronel do Exército ou da Força Aérea, sob proposta do comandante da Academia.
 
-###### Art. 2.º Ao referido 2.º comandante, como coordenador das actividades do Movimento das Forças Armadas, compete designadamente:
+Art. 2.º Ao referido 2.º comandante, como coordenador das actividades do Movimento das Forças Armadas, compete designadamente:
 
 a) Em ligação com as instâncias superiores do Movimento das Forças Armadas, superintender na formação cultural e política tanto dos alunos como dos militares em geral, para o que promove a elaboração dos convenientes planos de instrução e coordena as actividades do âmbito da dinamização cultural;
 
@@ -104,14 +121,14 @@ b) Orientar e superintender na preparação dos alunos, em ordem a uma correcta 
 
 c) Coadjuvar o comandante da Academia Militar em todos os aspectos que interessam ao cumprimento da sua missão, propondo a adopção de medidas em ordem a uma maior eficiência.
 
-###### Art. 3.º Para o assistir no desempenho das suas funções, o 2.º comandante a que se refere este diploma disporá de um órgão específico, cuja composição e estrutura serão fixadas por despacho do comandante da Academia Militar.
+Art. 3.º Para o assistir no desempenho das suas funções, o 2.º comandante a que se refere este diploma disporá de um órgão específico, cuja composição e estrutura serão fixadas por despacho do comandante da Academia Militar.
 
-###### Art. 4.º O presente decreto-lei entra imediatamente em vigor.
+Art. 4.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 4 de Junho de 1975.**
+Promulgado em 4 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

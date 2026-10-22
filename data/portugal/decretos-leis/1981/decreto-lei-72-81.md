@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08100/08830884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1981-389040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80206d0a9c14f3899844d9b111e22e18dc1f0f4f7dde0d9bd6c341dce5d08268
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e79ed9711f05a3219044247be09b9f060d8d50c9c7d308995c931091505f359
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adesão à Comunidade Europeia
+- CEE
+- Fundo de Financiamento das Acções Pré-adesão Portugal-cee
+- Ministério das Finanças e do Plano
 relationships:
 - type: amended_by
   target: pt:dre:522854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183015:por
+  label: "Aditada uma alínea g) ao artigo 4º pelo DEC LEI.232/85.04.07.1985.MFP, DR.IS [151] de 04.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1985-183015
+  date: '1985-07-04'
+- type: amended_by
+  target: pt:dre:522854:por
+  label: "Extinto o Fundo de Financiamento das Acções Pré-Adesão Portugal-CEE - sucedendo-lhe a Direcção-Geral do Tesouro\
+    \ - e revogado pelo DEC LEI.30/94.1994.02.05.MF DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1994-522854
+  date: '1994-02-05'
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568087:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:54Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +121,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado no Ministério das Finanças e do Plano o Fundo de Financiamento das Acções Pré-Adesão Portugal-CEE, que funcionará na dependência directa do Ministro.
+Artigo 1.º É criado no Ministério das Finanças e do Plano o Fundo de Financiamento das Acções Pré-Adesão Portugal-CEE, que funcionará na dependência directa do Ministro.
 
-###### Art. 2.º O Fundo é um órgão dotado de personalidade jurídica, gozando de autonomia administrativa e financeira, e terá como objecto administrar as verbas atribuídas a Portugal no âmbito do acordo entre Portugal e a Comunidade Económica Europeia relativo à ajuda de pré-adesão concedida pela Comunidade a Portugal para financiar acções de interesse comum destinadas a facilitar a integração harmoniosa da economia portuguesa na Comunidade e a prestar apoio financeiro à execução dos projectos e programas de cooperação e assistência técnica que vierem a ser aprovados para financiamento no quadro da referida ajuda.
+Art. 2.º O Fundo é um órgão dotado de personalidade jurídica, gozando de autonomia administrativa e financeira, e terá como objecto administrar as verbas atribuídas a Portugal no âmbito do acordo entre Portugal e a Comunidade Económica Europeia relativo à ajuda de pré-adesão concedida pela Comunidade a Portugal para financiar acções de interesse comum destinadas a facilitar a integração harmoniosa da economia portuguesa na Comunidade e a prestar apoio financeiro à execução dos projectos e programas de cooperação e assistência técnica que vierem a ser aprovados para financiamento no quadro da referida ajuda.
 
-###### Art. 3.º O orçamento do Fundo será aprovado pelo Ministro das Finanças e do Plano, não sendo aplicáveis à respectiva actividade financeira as regras constantes dos artigos 2.º e 3.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto, e legislação complementar.
+Art. 3.º O orçamento do Fundo será aprovado pelo Ministro das Finanças e do Plano, não sendo aplicáveis à respectiva actividade financeira as regras constantes dos artigos 2.º e 3.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto, e legislação complementar.
 
-###### Art. 4.º Constituem receitas do Fundo:
+Art. 4.º Constituem receitas do Fundo:
 
 a) As importâncias atribuídas a Portugal pela Comunidade a título de ajuda não reembolsável;
 
@@ -118,9 +141,9 @@ e) O produto de empréstimos a contrair pelo Fundo, sob autorização do Ministr
 
 f) Quaisquer outras receitas que lhe sejam atribuídas nos termos de legislação especial.
 
-###### Art. 5.º A administração do Fundo será exercida por um conselho administrativo de três membros, a designar por despacho conjunto dos Ministros das Finanças e do Plano e da Integração Europeia.
+Art. 5.º A administração do Fundo será exercida por um conselho administrativo de três membros, a designar por despacho conjunto dos Ministros das Finanças e do Plano e da Integração Europeia.
 
-###### Art. 6.º O Fundo, que não disporá de pessoal próprio, funcionará junto da Direcção-Geral do Tesouro, à qual competirá, além de prestar todo o apoio burocrático e administrativo necessário:
+Art. 6.º O Fundo, que não disporá de pessoal próprio, funcionará junto da Direcção-Geral do Tesouro, à qual competirá, além de prestar todo o apoio burocrático e administrativo necessário:
 
 a) Elaborar a proposta de orçamento do Fundo, submetendo-a à aprovação do Ministro das Finanças e do Plano;
 
@@ -132,42 +155,42 @@ d) Movimentar os fundos inscritos no orçamento de acordo com as orientações e
 
 e) Submeter à aprovação do Ministro das Finanças e do Plano a realização de operações de crédito, activas e passivas.
 
-###### Art. 7.º O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo seu presidente.
+Art. 7.º O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo seu presidente.
 
-###### Art. 8.º Os membros do conselho administrativo poderão ter direito a uma gratificação mensal, fixada por despacho conjunto dos Ministros das Finanças e do Plano e da Reforma Administrativa.
+Art. 8.º Os membros do conselho administrativo poderão ter direito a uma gratificação mensal, fixada por despacho conjunto dos Ministros das Finanças e do Plano e da Reforma Administrativa.
 
-###### Art. 9.º - 1 - A movimentação dos recursos afectos ao Fundo será efectuada através de contas especiais de operações de tesouraria a criar pela Direcção-Geral do Tesouro, nos termos a fixar por despacho do Ministro das Finanças e do Plano.
+Art. 9.º - 1 - A movimentação dos recursos afectos ao Fundo será efectuada através de contas especiais de operações de tesouraria a criar pela Direcção-Geral do Tesouro, nos termos a fixar por despacho do Ministro das Finanças e do Plano.
 
 2 - Por cada projecto, programa de cooperação e acção de assistência técnica financiado pelo Fundo será criada uma conta especial de operações de tesouraria.
 
-###### Art. 10.º - 1 - As importâncias atribuídas a Portugal pela Comunidade a título de ajuda não reembolsável serão depositadas numa conta especial de operações de tesouraria.
+Art. 10.º - 1 - As importâncias atribuídas a Portugal pela Comunidade a título de ajuda não reembolsável serão depositadas numa conta especial de operações de tesouraria.
 
 2 - As importâncias correspondentes a empréstimos contraídos directamente pelo Estado Português junto do Banco Europeu de Investimento no âmbito de ajuda financeira de pré-adesão concedida pela Comunidade Económica Europeia serão depositadas nas contas especiais referidas no artigo anterior, criando-se uma conta para cada empréstimo.
 
 3 - As dotações inscritas no Orçamento Geral do Estado para os financiamentos de acções previstas na alínea c) do artigo 4.º do presente decreto-lei serão postas à disposição do Fundo pelas entidades ou departamentos a favor de quem foram inscritas.
 
-###### Art. 11.º - 1 - As importâncias referidas no artigo anterior, quando se destinem ao financiamento de projectos, programas de cooperação e acções de assistência técnica a executar sob a responsabilidade e serviços integrados no Estado que não gozem de autonomia administrativa ou financeira, serão pagas directamente pelo Fundo às entidades que a elas tenham direito, mediante requisição dos serviços competentes.
+Art. 11.º - 1 - As importâncias referidas no artigo anterior, quando se destinem ao financiamento de projectos, programas de cooperação e acções de assistência técnica a executar sob a responsabilidade e serviços integrados no Estado que não gozem de autonomia administrativa ou financeira, serão pagas directamente pelo Fundo às entidades que a elas tenham direito, mediante requisição dos serviços competentes.
 
 2 - A informação de cabimento orçamental respeitante a cada contrato ou despesa de serviços referidos no número anterior será substituída para todos os efeitos, nomeadamente para o visto do Tribunal de Contas, por informação prestada pelo Fundo de que a despesa será suportada pelas verbas de que dispõe no seu orçamento.
 
-###### Art. 12.º As importâncias referidas nos n.os 1 e 3 do artigo 10.º serão postas pelo Fundo à disposição das entidades públicas gozando de autonomia administrativa e financeira ou das entidades privadas que, nos termos do artigo 10.º do Acordo, venham a beneficiar da ajuda da Comunidade.
+Art. 12.º As importâncias referidas nos n.os 1 e 3 do artigo 10.º serão postas pelo Fundo à disposição das entidades públicas gozando de autonomia administrativa e financeira ou das entidades privadas que, nos termos do artigo 10.º do Acordo, venham a beneficiar da ajuda da Comunidade.
 
-###### Art. 13.º - 1 - As importâncias referidas no n.º 2 do artigo 10.º poderão ser postas pelo Fundo à disposição das entidades referidas no artigo anterior ou ser mutuadas pelo Fundo aos beneficiários, conforme se prevê no n.º 4 do artigo 3.º do acordo entre Portugal e a Comunidade Económica Europeia.
+Art. 13.º - 1 - As importâncias referidas no n.º 2 do artigo 10.º poderão ser postas pelo Fundo à disposição das entidades referidas no artigo anterior ou ser mutuadas pelo Fundo aos beneficiários, conforme se prevê no n.º 4 do artigo 3.º do acordo entre Portugal e a Comunidade Económica Europeia.
 
 2 - O Ministro das Finanças e do Plano aprovará, por despacho, cada operação do empréstimo, fixando as respectivas condições gerais.
 
 3 - Os juros e amortizações dos empréstimos referidos neste artigo constituirão receita do Estado.
 
-###### Art. 14.º Os saldos correspondentes a verbas afectas ao Fundo que não forem utilizados em cada gerência financeira transitarão para o exercício seguinte.
+Art. 14.º Os saldos correspondentes a verbas afectas ao Fundo que não forem utilizados em cada gerência financeira transitarão para o exercício seguinte.
 
-###### Art. 15.º As dúvidas suscitadas na interpretação e execução do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 15.º As dúvidas suscitadas na interpretação e execução do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 16.º O Ministro das Finanças e do Plano tomará as providências orçamentais necessárias para a execução do presente diploma.
+Art. 16.º O Ministro das Finanças e do Plano tomará as providências orçamentais necessárias para a execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 23 de Março de 1981.**
+Promulgado em 23 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

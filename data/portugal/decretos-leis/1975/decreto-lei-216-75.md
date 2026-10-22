@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/10100/06350636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1975-336301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 723ef2c762b6788a25bf134f94e3ba511598d2d94a0af9b19c7052a3d0bc40fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60e083e90c5618c8f5129de694c513a7d0042fe556f2884f53841a10b9d6dcdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Militar
+- Quadro Permanente das Forças Armadas
+- Saneamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231907:por
+  label: "Dada nova redacção aos arts. 2º e 3º pelo DEC LEI.44-A/78.1978.03.15.CR, DG.IS [62]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-a-1978-231907
+  date: '1978-03-15'
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335973:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:11Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +117,18 @@ Considerando a necessidade de regulamentar o disposto no [Decreto-Lei n.º 147-C
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As atribuições conferidas ao Conselho da Revolução pelo [Decreto-Lei n.º 147-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-c-1975-335973), de 21 de Março, serão exercidas por este Conselho, reunido em plenário, quando digam respeito a oficiais generais, ou através de uma sua secção, quando se trate de outros militares.
+Artigo 1.º As atribuições conferidas ao Conselho da Revolução pelo [Decreto-Lei n.º 147-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-c-1975-335973), de 21 de Março, serão exercidas por este Conselho, reunido em plenário, quando digam respeito a oficiais generais, ou através de uma sua secção, quando se trate de outros militares.
 
-###### Art. 2.º As medidas previstas no [Decreto-Lei n.º 147-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-c-1975-335973), de 21 de Março, serão propostas no Conselho da Revolução pelo Chefe do Estado-Maior do respectivo ramo das forças armadas.
+Art. 2.º As medidas previstas no [Decreto-Lei n.º 147-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-c-1975-335973), de 21 de Março, serão propostas no Conselho da Revolução pelo Chefe do Estado-Maior do respectivo ramo das forças armadas.
 
-###### Art. 3.º Em cada ramo das forças armadas o Chefe do Estado-Maior será assistido, para o efeito do disposto no presente diploma e do [Decreto-Lei n.º 147-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-c-1975-335973), de 21 de Março, por uma comissão técnica, da sua nomeação, cuja constituição e regulamentação interna serão definidas por despacho dentro de cada ramo.
+Art. 3.º Em cada ramo das forças armadas o Chefe do Estado-Maior será assistido, para o efeito do disposto no presente diploma e do [Decreto-Lei n.º 147-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-c-1975-335973), de 21 de Março, por uma comissão técnica, da sua nomeação, cuja constituição e regulamentação interna serão definidas por despacho dentro de cada ramo.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 15 de Abril de 1975.**
+Promulgado em 15 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

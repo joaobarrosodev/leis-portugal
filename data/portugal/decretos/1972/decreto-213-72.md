@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/213-1972-673837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23e772a49cb254f135144aa24efe4a687cfd7134e67e0a8f50beb1947afa32d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1564a94319f254e9d3b22b90d7a7199ba88056aa80ba574316f02bcecf1830b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:21Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +96,16 @@ Tendo em vista o que vem proposto pelo governador civil do distrito de Setúbal 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo, decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A estrema comum aos concelhos de Almada e de Sesimbra será definida por uma linha que, partindo da costa e perpendicularmente a ela, encontra o ponto materializado com um estacão azul e onde se colocará um marco de coordenadas M = -91827,51 m e P = -123556,29 m referidas ao ponto central; segue em linha recta para o ponto da rede de vedação da N. A. T. O. marcado com um estacão vermelho de coordenadas M = -91611,50 m e P = -123507,53 m e onde se colocará um marco; segue para norte, acompanhando esta vedação, inflecte para nordeste, seguindo ainda a mesma vedação, e ao chegar ao portão, ao norte, segue em linha recta para o ponto comum ao Pinhal dos Medos, da Direcção-Geral dos Serviços Florestais e Aquícolas, ao Pinhal da Aroeira, de Alda Maria do Rosário Harriet da Silveira Bulloch e outro, e ao Pinhal do Arneiro, dois herdeiros de Domingos de Sousa e Holstein Beck, onde se colocará um marco; inflecte agora para nordeste, seguindo a estrema do Pinhal do Arneiro com o Pinhal da Aroeira até ao ponto comum ao Pinhal do Arneiro, Pinhal da Aroeira e Pinhal da Verdizela, onde se colocará um marco e se encontram as linhas divisórias dos concelhos de Almada, Seixal e Sesimbra.
+Artigo 1.º A estrema comum aos concelhos de Almada e de Sesimbra será definida por uma linha que, partindo da costa e perpendicularmente a ela, encontra o ponto materializado com um estacão azul e onde se colocará um marco de coordenadas M = -91827,51 m e P = -123556,29 m referidas ao ponto central; segue em linha recta para o ponto da rede de vedação da N. A. T. O. marcado com um estacão vermelho de coordenadas M = -91611,50 m e P = -123507,53 m e onde se colocará um marco; segue para norte, acompanhando esta vedação, inflecte para nordeste, seguindo ainda a mesma vedação, e ao chegar ao portão, ao norte, segue em linha recta para o ponto comum ao Pinhal dos Medos, da Direcção-Geral dos Serviços Florestais e Aquícolas, ao Pinhal da Aroeira, de Alda Maria do Rosário Harriet da Silveira Bulloch e outro, e ao Pinhal do Arneiro, dois herdeiros de Domingos de Sousa e Holstein Beck, onde se colocará um marco; inflecte agora para nordeste, seguindo a estrema do Pinhal do Arneiro com o Pinhal da Aroeira até ao ponto comum ao Pinhal do Arneiro, Pinhal da Aroeira e Pinhal da Verdizela, onde se colocará um marco e se encontram as linhas divisórias dos concelhos de Almada, Seixal e Sesimbra.
 
-###### Art. 2.º Os limites comuns dos concelhos do Seixal e de Sesimbra serão definidos por uma linha que, partindo do marco 3/12/26 (ponto comum das estremas dos concelhos do Barreiro, do Seixal e de Sesimbra e da Quinta da Areia, da Quinta do Conde e do Casal do Sapo), segue para sul, acompanhando a estrema do Casal do Sapo com a Quinta do Conde e, depois, com a Herdade dos Negreiros, até ao vértice geodésico Melão; inflecte para sudoeste, continuando a acompanhar a estrema do Casal do Sapo e, depois, a estrema comum à Herdade da Mesquita com os prédios de Rosa Fernandes e Joaquim António Trindade, onde, no canto sudoeste deste último prédio, se colocará um marco; segue agora para norte, por um arruamento que separa urbanizações dos concelhos de Sesimbra e do Seixal, até à estrada municipal, onde, no seu cruzamento com o referido arruamento, se colocará um marco; continua, depois, pelo eixo da referida estrada municipal, no sentido nordeste-sudoeste, até ao Marco do Grilo, no entroncamento das estradas nacionais n.os 377 e 378, onde se colocará um marco; prossegue para noroeste pela estrema vedada das instalações da N. A. T. O., acompanha esta vedação nas suas diferentes inflecções, até encontrar a estrema comum ao Pinhal do Arneiro, dos herdeiros de Domingos de Sonsa e Holstein Beck, e à urbanização de António Xavier de Lima, onde se colocará um marco; segue, agora para noroeste, acompanhando a estrema do Pinhal do Arneiro, até ao ponto comum a este prédio, à urbanização referida e ao Pinhal do Caldas, onde se colocará um marco; continua para oeste pela estrema comum aos Pinhais do Arneiro e do Caldas, até ao ponto comum aos Pinhais do Arneiro, do Caldas e da Verdizela, onde se colocará um marco; segue pela estrema comum aos Pinhais do Arneiro e da Verdizela, até ao ponto comum dos limites dos Pinhais do Arneiro, da Verdizela e da Aroeira, onde se colocará um marco, que fica a assinalar o ponto de encontro das linhas divisórias dos concelhos de Almada, Seixal e Sesimbra.
+Art. 2.º Os limites comuns dos concelhos do Seixal e de Sesimbra serão definidos por uma linha que, partindo do marco 3/12/26 (ponto comum das estremas dos concelhos do Barreiro, do Seixal e de Sesimbra e da Quinta da Areia, da Quinta do Conde e do Casal do Sapo), segue para sul, acompanhando a estrema do Casal do Sapo com a Quinta do Conde e, depois, com a Herdade dos Negreiros, até ao vértice geodésico Melão; inflecte para sudoeste, continuando a acompanhar a estrema do Casal do Sapo e, depois, a estrema comum à Herdade da Mesquita com os prédios de Rosa Fernandes e Joaquim António Trindade, onde, no canto sudoeste deste último prédio, se colocará um marco; segue agora para norte, por um arruamento que separa urbanizações dos concelhos de Sesimbra e do Seixal, até à estrada municipal, onde, no seu cruzamento com o referido arruamento, se colocará um marco; continua, depois, pelo eixo da referida estrada municipal, no sentido nordeste-sudoeste, até ao Marco do Grilo, no entroncamento das estradas nacionais n.os 377 e 378, onde se colocará um marco; prossegue para noroeste pela estrema vedada das instalações da N. A. T. O., acompanha esta vedação nas suas diferentes inflecções, até encontrar a estrema comum ao Pinhal do Arneiro, dos herdeiros de Domingos de Sonsa e Holstein Beck, e à urbanização de António Xavier de Lima, onde se colocará um marco; segue, agora para noroeste, acompanhando a estrema do Pinhal do Arneiro, até ao ponto comum a este prédio, à urbanização referida e ao Pinhal do Caldas, onde se colocará um marco; continua para oeste pela estrema comum aos Pinhais do Arneiro e do Caldas, até ao ponto comum aos Pinhais do Arneiro, do Caldas e da Verdizela, onde se colocará um marco; segue pela estrema comum aos Pinhais do Arneiro e da Verdizela, até ao ponto comum dos limites dos Pinhais do Arneiro, da Verdizela e da Aroeira, onde se colocará um marco, que fica a assinalar o ponto de encontro das linhas divisórias dos concelhos de Almada, Seixal e Sesimbra.
 
-###### Art. 3.º O Instituto Geográfico e Cadastral procederá à colocação dos marcos que mostrem necessários para tornar bem patentes os limites definidos nos artigos anteriores, cabendo às Câmaras Municipais respectivas suportar os correspondentes encargos, em partes iguais, em relação aos limites em que são interessadas.
+Art. 3.º O Instituto Geográfico e Cadastral procederá à colocação dos marcos que mostrem necessários para tornar bem patentes os limites definidos nos artigos anteriores, cabendo às Câmaras Municipais respectivas suportar os correspondentes encargos, em partes iguais, em relação aos limites em que são interessadas.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 12 de Junho de 1972.**
+Promulgado em 12 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

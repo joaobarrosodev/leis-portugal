@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/13800/07150716.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1974-622815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c41955dfe185635a003fc118dbacb6d4161b65456a02cbf26049e3f2596308b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b1fb87a9b62e2ed24a471b3e9863a58b3fd3c9454c99baaa6db91f86f83c5f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção da Marinha Mercante
+- Direcção Geral dos Serviços de Fomento Marítimo
+- Escola de Mestrança e Marinhagem
+- Fundo de Renovação da Marinha Mercante
+- Gabinete de Estudos
+- Secretaria de Estado da Marinha Mercante
+- Transferência de Competências
+- Transferência de Pessoal
+- Transferência de Serviços
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:48Z'
   warnings: []
   errors: []
 ---
@@ -121,11 +145,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela primeira parte do n.º 3.º do n.º 1 do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Junta Nacional da Marinha Mercante assim como o Fundo de Renovação da Marinha Mercante passam a depender da Secretaria de Estado da Marinha Mercante.
+Artigo 1.º - 1. A Junta Nacional da Marinha Mercante assim como o Fundo de Renovação da Marinha Mercante passam a depender da Secretaria de Estado da Marinha Mercante.
 
 2. O pessoal da Junta Nacional da Marinha Mercante é transferido e manterá todas as suas regalias, sem prejuízo de medidas que venham a ser adoptadas para a reestruturação dos organismos de coordenação económica.
 
-###### Art. 2.º - 1. São desafectados da Direcção-Geral dos Serviços de Fomento Marítimo (DGSFM) e integrados na Secretaria de Estado da Marinha Mercante os organismos seguintes:
+Art. 2.º - 1. São desafectados da Direcção-Geral dos Serviços de Fomento Marítimo (DGSFM) e integrados na Secretaria de Estado da Marinha Mercante os organismos seguintes:
 
 a) Direcção da Marinha Mercante, à excepção do pessoal e material das reservas de marinha;
 
@@ -137,17 +161,17 @@ d) Comissão Técnica de Construção Naval Civil, Comissão Nacional para o Est
 
 2. São também atribuídas à Secretaria de Estado da Marinha Mercante as funções que no sector da segurança do material estavam cometidas à Direcção dos Serviços de Electricidade e Comunicações e ao Instituto Hidrográfico.
 
-###### Art. 3.º Com os organismos referidos no artigo anterior transitam para a Secretaria de Estado da Marinha Mercante:
+Art. 3.º Com os organismos referidos no artigo anterior transitam para a Secretaria de Estado da Marinha Mercante:
 
 a) Os serviços de secretaria e auxiliares que lhes estavam afectos;
 
 b) O respectivo mobiliário, equipamento, material, arquivos e bibliotecas.
 
-###### Art. 4.º - 1. Serão transferidas para a Secretaria de Estado da Marinha Mercante as verbas do orçamento do antigo Ministério da Marinha destinadas ao funcionamento dos organismos referidos no artigo 2.º
+Art. 4.º - 1. Serão transferidas para a Secretaria de Estado da Marinha Mercante as verbas do orçamento do antigo Ministério da Marinha destinadas ao funcionamento dos organismos referidos no artigo 2.º
 
 2. As verbas transferidas serão oportunamente reforçadas, tendo em conta a instalação, reestruturação e ampliação dos novos serviços da Secretaria de Estado da Marinha Mercante.
 
-###### Art. 5.º - 1. Com vista a garantir a indispensável continuidade, o pessoal que exerce funções nos organismos referidos no artigo 2.º e que for considerado necessário será integrado, pelo período de um ano, através de lista publicada no Diário do Governo, na Secretaria de Estado da Marinha Mercante.
+Art. 5.º - 1. Com vista a garantir a indispensável continuidade, o pessoal que exerce funções nos organismos referidos no artigo 2.º e que for considerado necessário será integrado, pelo período de um ano, através de lista publicada no Diário do Governo, na Secretaria de Estado da Marinha Mercante.
 
 2. Durante esse prazo, os servidores poderão optar pela sua integração definitiva nos quadros da Secretaria de Estado da Marinha Mercante ou pela sua reintegração nos quadros de origem à medida que tiverem vagas.
 
@@ -155,20 +179,20 @@ b) O respectivo mobiliário, equipamento, material, arquivos e bibliotecas.
 
 4. Para o pessoal militar a opção da integração definitiva na Secretaria de Estado da Marinha Mercante implica a sua passagem à reserva da armada (RAa).
 
-###### Art. 6.º As actuais capitanias de portos e suas delegações marítimas manterão as funções de fiscalização da segurança da navegação, agora atribuídas à Secretaria de Estado da Marinha Mercante, actuando como seus órgãos.
+Art. 6.º As actuais capitanias de portos e suas delegações marítimas manterão as funções de fiscalização da segurança da navegação, agora atribuídas à Secretaria de Estado da Marinha Mercante, actuando como seus órgãos.
 
-###### Art. 7.º Enquanto a estrutura orgânica da Secretaria de Estado da Marinha Mercante não for estabelecida, é transferida, desde já, a competência definida na legislação em vigor para as seguintes entidades:
+Art. 7.º Enquanto a estrutura orgânica da Secretaria de Estado da Marinha Mercante não for estabelecida, é transferida, desde já, a competência definida na legislação em vigor para as seguintes entidades:
 
 a) Do Ministro da Marinha para o Secretário de Estado da Marinha Mercante;
 
 b) Do director-geral dos Serviços de Fomento Marítimo, do director da Marinha Mercante e do inspector das Construções Navais Mercantes para as entidades que forem designadas por despacho do Secretário de Estado da Marinha Mercante.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Manuel Rocha.
 
-**Promulgado em 7 de Junho de 1974.**
+Promulgado em 7 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

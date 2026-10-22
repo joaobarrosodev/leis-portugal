@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/23000/22402242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1976-408927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b06765b8e886371d49247e7ce2d99134a59ffc9da8e0bb896ed268d1d8e28c84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1e51e090a8d52c66b9feb2d884eb608624fd0f2aa0925de9a43e34b413ef6cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação de Obras Públicas
+- Autarquia Local
+- Casa Degradada
+- Crédito à Habitação
+- Fundo de Fomento da Habitação
+- Obras de Conservação e Restauro
+- Programa
+- Regulamento Geral das Edificações Urbanas
+- Renovação Urbana
+- Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:516974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:451825:por
+  label: "Revogado pelo DEC LEI.220/83.26.05.1983.MFP, DR.IS [121] de 26.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-1983-451825
+  date: '1983-05-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:47Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +110,9 @@ de 30 de Setembro
 
 O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Fundo de Fomento da Habitação, adiante designado por FFH, autorizado a lançar um programa especial para a reparação de fogos ou imóveis em degradação (PRID) destinado à concessão de empréstimos e subsídios para obras de reparação, conservação e beneficiação do património habitacional nacional público e privado, urbano e rural, incluindo as relativas à ligação às redes de abastecimento de água e electricidade e esgotos.
+Artigo 1.º Fica o Fundo de Fomento da Habitação, adiante designado por FFH, autorizado a lançar um programa especial para a reparação de fogos ou imóveis em degradação (PRID) destinado à concessão de empréstimos e subsídios para obras de reparação, conservação e beneficiação do património habitacional nacional público e privado, urbano e rural, incluindo as relativas à ligação às redes de abastecimento de água e electricidade e esgotos.
 
-###### Art. 2.º - 1. O referido programa será regionalizado e serão atribuídas dotações concelhias em relação a cada ano económico do plano, na base do inventário, por concelhos, dos fogos desocupados ou habitados, carecidos de intervenção, com a previsão da verba global necessária aos trabalhos a efectuar.
+Art. 2.º - 1. O referido programa será regionalizado e serão atribuídas dotações concelhias em relação a cada ano económico do plano, na base do inventário, por concelhos, dos fogos desocupados ou habitados, carecidos de intervenção, com a previsão da verba global necessária aos trabalhos a efectuar.
 
 2. Para realizar o inventário referido no número anterior e organizar a atribuição das verbas por concelhos, o FFH poderá constituir grupos de trabalho ou comissões eventuais que realizarão a sua actividade em íntima colaboração com as câmaras municipais, juntas de freguesia, associações e comissões de moradores, sindicatos e associações patronais ligadas ao sector da construção civil.
 
@@ -101,7 +120,7 @@ O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constitui
 
 4. Para a constituição dos grupos de trabalho ou comissões referidas no n.º 2, sempre que as mesmas não possam ser constituídas por servidores do FFH ou de qualquer outro serviço do Ministério da Habitação, Urbanismo e Construção, destacados para o efeito por despacho ministerial, fica o FFH autorizado a contratar, em regime de tarefa, com a duração máxima de cento e oitenta dias, o pessoal indispensável.
 
-###### Art. 3.º - 1. Conhecida a dotação atribuída ao concelho no plano de distribuição das verbas a que se refere o artigo 2.º, deverá a respectiva câmara municipal, no prazo de dez dias, comunicar ao FFH a sua distribuição pelas rubricas seguintes:
+Art. 3.º - 1. Conhecida a dotação atribuída ao concelho no plano de distribuição das verbas a que se refere o artigo 2.º, deverá a respectiva câmara municipal, no prazo de dez dias, comunicar ao FFH a sua distribuição pelas rubricas seguintes:
 
 a) Obras de conservação, reparação ou beneficiação a efectuar pela câmara municipal do seu património habitacional próprio;
 
@@ -111,21 +130,21 @@ c) Empréstimos a conceder directamente aos particulares para financiamento de o
 
 2. Para efeitos do número anterior, deverá a câmara municipal, em face do inventário elaborado nos termos do artigo 2.º, seleccionar as intervenções prioritárias, a atender com a verba destinada ao concelho para o ano económico a que se refere a dotação.
 
-###### Art. 4.º - 1. Os empréstimos a conceder às câmaras municipais para efeitos das alíneas a) e b) do artigo anterior não carecem da aprovação do Governo, pelo Ministro das Finanças, prevista no § 4.º do artigo 55.º do Código Administrativo e são dispensadas do limite estabelecido no artigo 674.º do mesmo Código.
+Art. 4.º - 1. Os empréstimos a conceder às câmaras municipais para efeitos das alíneas a) e b) do artigo anterior não carecem da aprovação do Governo, pelo Ministro das Finanças, prevista no § 4.º do artigo 55.º do Código Administrativo e são dispensadas do limite estabelecido no artigo 674.º do mesmo Código.
 
 2. Os referidos empréstimos serão reembolsados nas condições acordadas entre a câmara e o FFH, ficando garantidos pelos rendimentos provenientes dos imóveis, património habitacional da câmara e pelas cobranças efectuadas pela câmara municipal nos termos do artigo 13.º
 
-###### Art. 5.º - 1. Para efeitos da alínea c) do n.º 1 do artigo 3.º, compete à câmara municipal propor ao FFH os empréstimos a conceder por este a particulares, informando os processos acerca da situação económica dos respectivos agregados familiares, para efeitos de fixação das condições de reembolso.
+Art. 5.º - 1. Para efeitos da alínea c) do n.º 1 do artigo 3.º, compete à câmara municipal propor ao FFH os empréstimos a conceder por este a particulares, informando os processos acerca da situação económica dos respectivos agregados familiares, para efeitos de fixação das condições de reembolso.
 
 2. Para tanto, deverá a câmara recorrer, fundamentalmente, aos valores conhecidos das tributações fiscais.
 
 3. Nos casos comprovados de impossibilidade de reembolso do empréstimo concedido, dada a capacidade económica do agregado familiar, será considerada pelo FFH a concessão de um subsídio a fundo perdido.
 
-###### Art. 6.º - 1. As condições de reembolso dos empréstimos a conceder directamente a particulares serão fixadas, caso por caso, pelo FFH, de acordo com os elementos fornecidos na respectiva proposta, apresentada pela câmara municipal.
+Art. 6.º - 1. As condições de reembolso dos empréstimos a conceder directamente a particulares serão fixadas, caso por caso, pelo FFH, de acordo com os elementos fornecidos na respectiva proposta, apresentada pela câmara municipal.
 
 2. Fixadas as condições, o empréstimo é titulado por simples documento particular, o qual constitui título executivo, sendo isento de selo e de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
 
-###### Art. 7.º Para efeitos do disposto no artigo 5.º, a câmara anunciará, por editais afixados nos locais do estilo, o prazo durante o qual os particulares interessados deverão formular, em impresso próprio a fornecer pelo FFH e isento de selo, o seu pedido de empréstimo, informando com os seguintes dados:
+Art. 7.º Para efeitos do disposto no artigo 5.º, a câmara anunciará, por editais afixados nos locais do estilo, o prazo durante o qual os particulares interessados deverão formular, em impresso próprio a fornecer pelo FFH e isento de selo, o seu pedido de empréstimo, informando com os seguintes dados:
 
 a) Identificação do requerente e do imóvel;
 
@@ -141,25 +160,25 @@ f) Composição e rendimento do agregado familiar do interessado no empréstimo;
 
 g) Proposta de condições do empréstimo - juro e prazo do reembolso.
 
-###### Art. 8.º No mesmo prazo referido no artigo anterior, devem os inquilinos apresentar, na câmara municipal, reclamações e pedidos de vistoria quanto a obras que considerem necessárias nas habitações que ocupam e que o senhorio se recuse a fazer, para os efeitos dos artigos 10.º, 12.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas (RGEU).
+Art. 8.º No mesmo prazo referido no artigo anterior, devem os inquilinos apresentar, na câmara municipal, reclamações e pedidos de vistoria quanto a obras que considerem necessárias nas habitações que ocupam e que o senhorio se recuse a fazer, para os efeitos dos artigos 10.º, 12.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas (RGEU).
 
-###### Art. 9.º De posse dos elementos a que se referem os artigos antecedentes, a câmara municipal deverá:
+Art. 9.º De posse dos elementos a que se referem os artigos antecedentes, a câmara municipal deverá:
 
 a) Ordenar a fiscalização ou vistorias dos imóveis, para comprovação do seu estado e das obras de que carecem;
 
 b) Analisar os diversos pedidos, tendo em conta os aspectos locais e urbanísticos, por forma a coordenar ou mesmo integrar as várias intervenções.
 
-###### Art. 10.º - 1. Competirá aos serviços de obras das câmaras municipais toda a gestão de ordem técnica e administrativa relativa às obras de conservação, reparação ou beneficiação, ao abrigo deste diploma, tanto na fase de elaboração ou apreciação dos processos de obras como durante a execução dos trabalhos e até à sua total conclusão.
+Art. 10.º - 1. Competirá aos serviços de obras das câmaras municipais toda a gestão de ordem técnica e administrativa relativa às obras de conservação, reparação ou beneficiação, ao abrigo deste diploma, tanto na fase de elaboração ou apreciação dos processos de obras como durante a execução dos trabalhos e até à sua total conclusão.
 
 2. As obras previstas neste diploma dispensam a apresentação de projecto completo, bastando a entrega, na câmara municipal, dos elementos arquitecturais, estruturais e memória descritiva sumária, que se consideram imprescindíveis para a boa execução dos trabalhos.
 
-###### Art. 11.º - 1. As obras a que se refere este diploma, mesmo as previstas na alínea c) do n.º 1 do artigo 3.º, serão adjudicadas pelas câmaras municipais, salvo se a natureza da obra justificar a execução por administração directa.
+Art. 11.º - 1. As obras a que se refere este diploma, mesmo as previstas na alínea c) do n.º 1 do artigo 3.º, serão adjudicadas pelas câmaras municipais, salvo se a natureza da obra justificar a execução por administração directa.
 
 2. Para o efeito de adjudicação, cabe às câmaras consultar empresas de construção civil, prioritariamente cooperativas de construção civil e pequenas e médias empresas da região.
 
 3. A adjudicação, no caso das obras a que se refere a alínea c) do n.º 1 do artigo 3.º, não terá lugar sem o prévio acordo do mutuário, dono da obra.
 
-###### Art. 12.º - 1. As obras serão fiscalizadas pelas câmaras, através dos seus serviços técnicos, que serão responsáveis pela sua perfeita e correcta execução, nas condições indicadas nos respectivos processos de obra.
+Art. 12.º - 1. As obras serão fiscalizadas pelas câmaras, através dos seus serviços técnicos, que serão responsáveis pela sua perfeita e correcta execução, nas condições indicadas nos respectivos processos de obra.
 
 2. Mensalmente, os órgãos de fiscalização elaborarão e remeterão aos serviços técnicos de que dependem os autos de pagamento correspondentes às situações das obras em curso, para efeitos de liquidação e pagamento de verba respeitante aos correspondentes adjudicatários.
 
@@ -171,30 +190,30 @@ b) Analisar os diversos pedidos, tendo em conta os aspectos locais e urbanístic
 
 6. Mensalmente, serão enviados até ao dia 10 de cada mês, ao FFH, um exemplar dos autos referidos no n.º 2, reportados aos pagamentos efectuados no mês anterior, bem como os originais dos recibos referentes aos pagamentos efectuados nos termos do n.º 4. Serão organizadas relações de pagamentos, de acordo com as rubricas referidas no artigo 3.º
 
-###### Art. 13.º Nos casos em que o empréstimo se destina a custear as obras a executar pela câmara municipal, no âmbito dos artigos 10.º, 12.º, 165.º e 166.º do RGEU, o reembolso será feito nos termos gerais de cobrança das dívidas às autarquias locais.
+Art. 13.º Nos casos em que o empréstimo se destina a custear as obras a executar pela câmara municipal, no âmbito dos artigos 10.º, 12.º, 165.º e 166.º do RGEU, o reembolso será feito nos termos gerais de cobrança das dívidas às autarquias locais.
 
-###### Art. 14.º - 1. Havendo lugar a actualização da renda em virtude das obras realizadas ao abrigo deste diploma, em caso algum será admissível a fixação de uma renda superior a 20% do rendimento do agregado familiar do inquilino.
+Art. 14.º - 1. Havendo lugar a actualização da renda em virtude das obras realizadas ao abrigo deste diploma, em caso algum será admissível a fixação de uma renda superior a 20% do rendimento do agregado familiar do inquilino.
 
 2. No contrato de empréstimo estabelecer-se-á que, sem prejuízo do disposto no número anterior, sempre que haja lugar a aumento de renda, será sempre a respectiva diferença acrescida aos montantes do plano inicial de pagamento, antecipando o correspondente prazo de amortização.
 
-###### Art. 15.º A eventual actualização de renda dos fogos arrendados, em virtude da realização de obras ao abrigo deste diploma, far-se-á mediante vistoria, nos termos gerais de direito.
+Art. 15.º A eventual actualização de renda dos fogos arrendados, em virtude da realização de obras ao abrigo deste diploma, far-se-á mediante vistoria, nos termos gerais de direito.
 
-###### Art. 16.º O FFH pode cometer a instituições de crédito nacionalizadas as operações relativas aos empréstimos e suas cobranças previstas neste diploma.
+Art. 16.º O FFH pode cometer a instituições de crédito nacionalizadas as operações relativas aos empréstimos e suas cobranças previstas neste diploma.
 
-###### Art. 17.º As notificações, para efeitos dos artigos 10.º, 12.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas ([Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951), são eficazes quando feitas na pessoa de qualquer comproprietário ou na pessoa ou entidade que receba as rendas, nos casos de compropriedade e de prédio arrendado, respectivamente.
+Art. 17.º As notificações, para efeitos dos artigos 10.º, 12.º, 165.º e 166.º do Regulamento Geral das Edificações Urbanas ([Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951), são eficazes quando feitas na pessoa de qualquer comproprietário ou na pessoa ou entidade que receba as rendas, nos casos de compropriedade e de prédio arrendado, respectivamente.
 
-###### Art. 18.º Para cobrança das dívidas do Estado serão competentes os serviços de justiça fiscal onde a despesa tiver sido realizada.
+Art. 18.º Para cobrança das dívidas do Estado serão competentes os serviços de justiça fiscal onde a despesa tiver sido realizada.
 
-###### Art. 19.º Nas execuções fiscais requeridas pelo FFH e câmaras municipais, para cobrança de dívidas de particulares por força do presente diploma, pode o juiz, mediante acordo da entidade requerente, autorizar a que o pagamento se faça em número superior de prestações do que as previstas no artigo 163.º do Código de Processo das Contribuições e Impostos, de modo a garantir ao executado e seu agregado familiar um nível equilibrado de rendimento.
+Art. 19.º Nas execuções fiscais requeridas pelo FFH e câmaras municipais, para cobrança de dívidas de particulares por força do presente diploma, pode o juiz, mediante acordo da entidade requerente, autorizar a que o pagamento se faça em número superior de prestações do que as previstas no artigo 163.º do Código de Processo das Contribuições e Impostos, de modo a garantir ao executado e seu agregado familiar um nível equilibrado de rendimento.
 
-###### Art. 20.º - 1. Por simples despacho ministerial, serão aprovadas as instruções necessárias à execução do presente diploma, a propor pelo FFH.
+Art. 20.º - 1. Por simples despacho ministerial, serão aprovadas as instruções necessárias à execução do presente diploma, a propor pelo FFH.
 
 2. No ano económico corrente fica dispensado a realização do inventário referido no artigo 2.º, informando as câmaras, até 30 de Setembro, o FFH das verbas que carecem, justificando-as sumariamente, devendo o FFH, até 10 de Outubro, comunicar-lhes a respectiva dotação concelhia para efeitos do artigo 3.º, estabelecendo as câmaras as prioridades, em face dos elementos disponíveis e com dispensa do cumprimento do formalismo estabelecido no artigo 7.º
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
 
-**Promulgado em 18 de Setembro de 1976.**
+Promulgado em 18 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

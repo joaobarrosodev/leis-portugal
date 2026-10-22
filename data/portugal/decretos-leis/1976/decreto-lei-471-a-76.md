@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 138/1976, 2º Suplemento, Série I de 1976-06-14
   number: '138'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1332-(3) a 1332-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/13802/00030010.pdf
 entry_into_force_dates: []
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-a-1976-283305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3dc6bce796566d2ac5eba054817838bbbaeb3970257ce17c9ff63116933b992
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76cbef2c057e5e88faccdecca7ab2d1c11a9eacb28061e2d3fee7c8aebb7bb6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Fiscalização
+- Conselho de Administração
+- Conselho de Direção
+- Conselho Geral
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- Gestão Financeira
+- Intervenção do Estado
+- Regime de Pessoal
+- TAP
 relationships:
 - type: amended_by
   target: pt:dre:437428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253440:por
+  label: "Alterados os art. 5º, 6º, 9º, 10º, 12º, 13º, 14º e 15º, pelo DEC LEI.414-A/77.30.09.1977.MTC, DR.IS [227]Supl de\
+    \ 30.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-a-1977-253440
+  date: '1977-09-30'
+- type: amended_by
+  target: pt:dre:367048:por
+  label: "Alterado o nº 1 do art. 1º, nº 1 do art. 12º (na redacção dada pelo Dec Lei 414-A/77, de 30-Set) e o nº 3 do art.\
+    \ 30º do Dec Lei 471-A/76, de 14-Jun, DR.IS [138]2ºSupl, pelo DEC LEI.460/79.23.11.1979.MTC, DR.IS [271] de 23.11.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/460-1979-367048
+  date: '1979-11-23'
+- type: cites
+  target: pt:dre:398828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do nº 2 e 3 da base XII anexa ao Dec Lei 39188, de 25-Abr 1953, a que\
+    \ se refere o art. 29º dos estatutos anexos ao presente diploma, pelo DEC LEI.485/88.30.12.1988.MF, DR.IS [301]2ºSupl\
+    \ de 30.12.1988, sem prejuízo da manutenção dos benefícios já concedidos e dos regimes de caducidade previstos na legislação\
+    \ ao abrigo da qual estão a ser usufruídos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:437428:por
+  label: "Revogada a isen&#231;&#227;o fiscal de que beneficia a empresa Transportes A&#233;reos Portugueses, S.A., nos termos\
+    \ da al. a) do n&#186; 1 da base XII anexa ao Dec Lei 39188 de 25-Abr 1953, e mantida em vigor pelos estatutos constantes\
+    \ do presente diploma, pelo DEC LEI.258/98.1998.08.17.MEPAT DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1998-437428
+  date: '1998-08-17'
 article_structure:
-  article_count: 34
+  article_count: 33
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:38Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +155,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Em cumprimento do n.º 1 do artigo 49.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, a empresa pública Transportes Aéreos Portugueses (TAP) passará a regular a sua actividade pelos estatutos anexos a este decreto-lei, que dele fazem parte integrante e substituem os estatutos definidos pelo [Decreto-Lei n.º 469-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-a-1975-428845), de 28 de Agosto.
+Artigo 1.º Em cumprimento do n.º 1 do artigo 49.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, a empresa pública Transportes Aéreos Portugueses (TAP) passará a regular a sua actividade pelos estatutos anexos a este decreto-lei, que dele fazem parte integrante e substituem os estatutos definidos pelo [Decreto-Lei n.º 469-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-a-1975-428845), de 28 de Agosto.
 
-###### Art. 2.º Este diploma entra em vigor na data da sua publicação.
+Art. 2.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - José Augusto Fernandes - João Pedro Tomás Rosa.
 
-**Promulgado em 14 de Junho de 1976.**
+Promulgado em 14 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ESTATUTO DA EMPRESA PÚBLICA TAP
 
@@ -558,4 +617,4 @@ As dúvidas que se suscitarem na interpretação ou aplicação do presente esta
 
 3. O presente estatuto será adaptado ao regime de contrôle da gestão que vier a ser consagrado em lei, nos sessenta dias posteriores ao da publicação do correspondente diploma.
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

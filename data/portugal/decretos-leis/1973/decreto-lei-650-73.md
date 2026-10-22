@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/650-1973-410964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 436c51db57c5d4e10a0d5ae58c61f5c36689e6fd39905f19014a27bcdad63d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28bdef2f4418765690320cc73f5d1d305ed9797927fe9578c690907276d6d869
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Função Pública
+- Funcionário Público
+- Ministério da Educação Nacional
+- Nomeação
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:28Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +113,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O provimento nos cargos não previstos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e para os quais se exija diploma de curso superior adequado ao exercício das respectivas funções, será feito em regime provisório ou em comissão de serviço, devendo aplicar-se-lhes, respectivamente, os artigos 26.º e 27.º daquele diploma.
+Artigo 1.º - 1. O provimento nos cargos não previstos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e para os quais se exija diploma de curso superior adequado ao exercício das respectivas funções, será feito em regime provisório ou em comissão de serviço, devendo aplicar-se-lhes, respectivamente, os artigos 26.º e 27.º daquele diploma.
 
 2. Poderão desde logo ser nomeados a título definitivo para os cargos para que se exija a habilitação referida no n.º 1 deste artigo os funcionários que possuam provimento definitivo noutro lugar do Ministério dia Educação Nacional.
 
 3. O disposto no presente artigo não prejudica os casos em que disposição expressa da lei disponha de forma diversa.
 
-###### Art. 2.º - 1. O pessoal nomeado para os serviços centrais do Ministério, ainda que para lugares de acesso, ao abrigo do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), poderá ser provido definitivamente nos respectivos cargos, desde que satisfaça às seguintes condições:
+Art. 2.º - 1. O pessoal nomeado para os serviços centrais do Ministério, ainda que para lugares de acesso, ao abrigo do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), poderá ser provido definitivamente nos respectivos cargos, desde que satisfaça às seguintes condições:
 
 a) Ter sido integrado nos quadros únicos do Ministério mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, na sequência da reorganização do serviço para que foi nomeado;
 
@@ -107,16 +127,16 @@ b) Preencher as condições previstas no artigo 26.º do [Decreto-Lei n.º 201/7
 
 2. O tempo de serviço para os provimentos definitivos previstos neste artigo será contado desde a data da posse nos respectivos cargos.
 
-###### Art. 3.º - 1. O disposto no artigo anterior poderá igualmente ser aplicável ao pessoal nomeado ou contratado para os serviços centrais do Ministério, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, desde que satisfaça aos mesmos requisitos ou às condições previstas no artigo 27.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+Art. 3.º - 1. O disposto no artigo anterior poderá igualmente ser aplicável ao pessoal nomeado ou contratado para os serviços centrais do Ministério, ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, desde que satisfaça aos mesmos requisitos ou às condições previstas no artigo 27.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
 
 2. A contagem do tempo de serviço será igualmente feita desde a data da posse.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 5 de Dezembro de 1973.**
+Promulgado em 5 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

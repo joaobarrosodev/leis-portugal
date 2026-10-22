@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/209-1972-674001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a2417ba3d8e83ef8c3b73ee2ee7fd5ab055b6a3bfe404b855f1dbec70eed678
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a75bec52f86bca4e277290210b518f161659241c971d3e670d61e51e38eae05d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:21Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +88,20 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelos §§ 1.º e 2.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. autorizada a província de Angola a contrair no Banco de Angola um empréstimo no montante de 500000000$00, à taxa de 4 por cento ao ano e amortizável em doze anos.
+Artigo 1.º - 1. autorizada a província de Angola a contrair no Banco de Angola um empréstimo no montante de 500000000$00, à taxa de 4 por cento ao ano e amortizável em doze anos.
 
 2. O empréstimo será objecto de contrato a celebrar entre o Ministro do Ultramar, em representação da província, e o banco emissor.
 
-###### Art. 2.º Os fundos mutuados serão integralmente aplicados no financiamento de empreendimentos previstos no III Plano de Fomento.
+Art. 2.º Os fundos mutuados serão integralmente aplicados no financiamento de empreendimentos previstos no III Plano de Fomento.
 
-###### Art. 3.º No orçamento geral da província de Angola serão inscritas, em cada ano, as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
+Art. 3.º No orçamento geral da província de Angola serão inscritas, em cada ano, as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Junho de 1972.**
+Promulgado em 7 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

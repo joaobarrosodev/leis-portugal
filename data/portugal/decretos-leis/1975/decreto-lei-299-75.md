@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14000/08390841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1975-337062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f4013216b9cfdb4c80ce9c013f6620d0fcb4c9dcb24c3dfaa0924565bab0756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d187fdcebde81422ed61be726a3e3a9eaa99953ed4cc203bffa6093da8bd1420
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Ministros
+- Definição de Competências
+- Governo
+- Ministro
+- Primeiro-ministro
 relationships:
 - type: amended_by
   target: pt:dre:692986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:366841:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692986:por
+  label: "Revogado pelo DEC LEI.3/80.07.02.1980.PCM, DR.IS [32] de 07.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1980-692986
+  date: '1980-02-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:35Z'
   warnings: []
   errors: []
 ---
@@ -102,23 +116,23 @@ I
 
 O Primeiro-Ministro
 
-###### Artigo 1.º Ao Primeiro-Ministro compete convocar e presidir às sessões do Conselho de Ministros, restrito ou pleno, e dirigir, coordenar e fiscalizar a execução da política do Governo.
+Artigo 1.º Ao Primeiro-Ministro compete convocar e presidir às sessões do Conselho de Ministros, restrito ou pleno, e dirigir, coordenar e fiscalizar a execução da política do Governo.
 
-###### Art. 2.º O Primeiro-Ministro deve ser previamente informado das medidas ou dos projectos de cada Ministério, sempre que essas medidas e projectos tenham relevância sob o ponto de vista da política governamental.
+Art. 2.º O Primeiro-Ministro deve ser previamente informado das medidas ou dos projectos de cada Ministério, sempre que essas medidas e projectos tenham relevância sob o ponto de vista da política governamental.
 
-###### Art. 3.º O Primeiro-Ministro deve manter o Presidente da República e o Conselho da Revolução ao corrente da política governamental, nomeadamente de documentos relativos aos assuntos mais importantes.
+Art. 3.º O Primeiro-Ministro deve manter o Presidente da República e o Conselho da Revolução ao corrente da política governamental, nomeadamente de documentos relativos aos assuntos mais importantes.
 
-###### Art. 4.º Ao Subsecretário de Estado adjunto do Primeiro-Ministro compete coadjuvar este na coordenação da actividade governamental, nomeadamente na preparação das sessões do Conselho de Ministros e na supervisão formal da actividade legislativa do Governo e dos diplomas por este aprovados.
+Art. 4.º Ao Subsecretário de Estado adjunto do Primeiro-Ministro compete coadjuvar este na coordenação da actividade governamental, nomeadamente na preparação das sessões do Conselho de Ministros e na supervisão formal da actividade legislativa do Governo e dos diplomas por este aprovados.
 
 II
 
 Os Ministros e os restantes membros do Governo
 
-###### Art. 5.º Os Ministros e, sob sua direcção, os Secretários e Subsecretários de Estado executam a política governamental definida em Conselho de Ministros, sob orientação e fiscalização do Primeiro-Ministro, e ocupam-se de assuntos da administração corrente do seu Ministério.
+Art. 5.º Os Ministros e, sob sua direcção, os Secretários e Subsecretários de Estado executam a política governamental definida em Conselho de Ministros, sob orientação e fiscalização do Primeiro-Ministro, e ocupam-se de assuntos da administração corrente do seu Ministério.
 
-###### Art. 6.º As declarações dos membros do Governo feitas nessa qualidade em público ou destinadas ao público não devem estar em desacordo com a política governamental definida em Conselho de Ministros.
+Art. 6.º As declarações dos membros do Governo feitas nessa qualidade em público ou destinadas ao público não devem estar em desacordo com a política governamental definida em Conselho de Ministros.
 
-###### Art. 7.º - 1. O membro do Governo que se ausente de Lisboa por período superior a um dia útil deve informar previamente o Primeiro-Ministro.
+Art. 7.º - 1. O membro do Governo que se ausente de Lisboa por período superior a um dia útil deve informar previamente o Primeiro-Ministro.
 
 2. As deslocações de qualquer membro do Governo a país estrangeiro devem ter o assentimento prévio do Primeiro-Ministro.
 
@@ -126,7 +140,7 @@ III
 
 O Conselho de Ministros
 
-###### Art. 8.º - 1. O Conselho de Ministros reúne em sessão plenária com todos os Ministros ou em sessão restrita.
+Art. 8.º - 1. O Conselho de Ministros reúne em sessão plenária com todos os Ministros ou em sessão restrita.
 
 2. As sessões terão lugar, ordinariamente, com a periodicidade decidida pelo próprio Conselho e, extraordinariamente, sempre que o Primeiro-Ministro as convoque.
 
@@ -136,7 +150,7 @@ O Conselho de Ministros
 
 5. Este Conselho é presidido pelo Primeiro-Ministro, que poderá delegar no Ministro para o Planeamento e Coordenação Económica, e nele terão assento, além destes, o Ministro da Indústria e Tecnologia, o Ministro das Finanças, o Ministro da Agricultura e Pescas, o Ministro do Comércio Externo, o Ministro do Trabalho, bem como aqueles que forem convocados em função do assunto a tratar.
 
-###### Art. 9.º - 1. As sessões do Conselho de Ministros, plenárias ou restritas, serão presididas pelo Primeiro-Ministro.
+Art. 9.º - 1. As sessões do Conselho de Ministros, plenárias ou restritas, serão presididas pelo Primeiro-Ministro.
 
 2. Os trabalhos obedecerão a uma ordem do dia elaborada pelo Subsecretário de Estado adjunto do Primeiro-Ministro, sob a orientação deste, e por aquele enviada aos Ministros participantes.
 
@@ -144,7 +158,7 @@ O Conselho de Ministros
 
 4. As sessões do Conselho de Ministros são confidenciais, sendo nomeadamente proibida qualquer publicidade das discussões ou votações.
 
-###### Art. 10.º - 1. Nas sessões do Conselho de Ministros participará, sem direito a voto, o Subsecretário de Estado adjunto do Primeiro-Ministro, a quem competirá, sob orientação deste, a redacção final das resoluções e dos diplomas legais aprovados.
+Art. 10.º - 1. Nas sessões do Conselho de Ministros participará, sem direito a voto, o Subsecretário de Estado adjunto do Primeiro-Ministro, a quem competirá, sob orientação deste, a redacção final das resoluções e dos diplomas legais aprovados.
 
 2. Em caso de ausência ou de impedimento os Ministros podem fazer-se substituir por um Secretário de Estado deles dependente.
 
@@ -152,11 +166,11 @@ O Conselho de Ministros
 
 4. Nas sessões do Conselho de Ministros participará um redactor, a quem compete elaborar o projecto da acta das reuniões.
 
-###### Art. 11.º - 1. O Conselho de Ministros, pleno ou restrito, poderá deliberar validamente desde que esteja presente a maioria dos Ministros, incluindo os Secretários que os substituam, com direito a tomar parte na sessão de que se trate.
+Art. 11.º - 1. O Conselho de Ministros, pleno ou restrito, poderá deliberar validamente desde que esteja presente a maioria dos Ministros, incluindo os Secretários que os substituam, com direito a tomar parte na sessão de que se trate.
 
 2. As deliberações serão tomadas por maioria simples, tendo o Primeiro-Ministro voto de qualidade.
 
-###### Art. 12.º - 1. Devem ser submetidos a discussão e deliberação do Conselho de Ministros, além dos assuntos especialmente previstos na lei, todos os de interesse geral em matéria de política interna, externa, económica, social, financeira ou cultural.
+Art. 12.º - 1. Devem ser submetidos a discussão e deliberação do Conselho de Ministros, além dos assuntos especialmente previstos na lei, todos os de interesse geral em matéria de política interna, externa, económica, social, financeira ou cultural.
 
 2. As deliberações tomadas em Conselho de Ministros restrito tornam-se definitivas e vincularão desde logo todos os Ministros do Governo Provisório se por aquele Conselho como tal forem declaradas com menção na acta, com a consequente dispensa de circulação aos restantes Ministros, em razão da sua patente simplicidade ou da extrema urgência das respectivas matérias.
 
@@ -164,7 +178,7 @@ O Conselho de Ministros
 
 4. As deliberações tomadas segundo o disposto no número anterior deverão ser levadas ao conhecimento dos Ministros que não participaram no Conselho nos dois dias subsequentes ao termo deste. No mesmo prazo se deverá dar conhecimento dos diplomas aprovados nos termos do n.º 2 deste artigo.
 
-###### Art. 13.º - 1. Todos os assuntos relativos a dois ou mais Ministérios, a submeter a Conselho de Ministros, devem ser objecto de discussão e deliberação prévia entre os Ministros directamente interessados, salvo se a urgência o não permitir.
+Art. 13.º - 1. Todos os assuntos relativos a dois ou mais Ministérios, a submeter a Conselho de Ministros, devem ser objecto de discussão e deliberação prévia entre os Ministros directamente interessados, salvo se a urgência o não permitir.
 
 2. Para efeitos do número anterior, o Primeiro-Ministro pode convocar os Ministros interessados.
 
@@ -172,7 +186,7 @@ O Conselho de Ministros
 
 4. As medidas a submeter a Conselho de Ministros provenientes de Ministérios não referidos no número anterior que assumam especial relevância no domínio da economia deverão ser primeiramente remetidas ao Ministro para o Planeamento e Coordenação Económica para, no âmbito do seu Ministério ou no do Conselho Económico, as apreciar, devolvendo-as seguidamente para deliberação do Conselho de Ministros, restrito ou pleno, com as considerações que julgar convenientes.
 
-###### Art. 14.º - 1. Todos os projectos de diploma da competência do Governo devem ser enviados pelo Ministro competente ao Subsecretário de Estado adjunto do Primeiro-Ministro.
+Art. 14.º - 1. Todos os projectos de diploma da competência do Governo devem ser enviados pelo Ministro competente ao Subsecretário de Estado adjunto do Primeiro-Ministro.
 
 2. No caso de não terem sido preenchidos os requisitos do artigo anterior, o Subsecretário de Estado adjunto do Primeiro-Ministro comunicá-lo-á a este para promover o seu preenchimento.
 
@@ -184,14 +198,14 @@ O Conselho de Ministros
 
 Em cada sessão do Conselho de Ministros o Primeiro-Ministro dará conhecimento dos diplomas aprovados por esta forma.
 
-###### Art. 15.º - 1. Os decretos-leis só podem ser apresentados para promulgação uma vez assinados pelo Primeiro-Ministro, pelos Ministros sem pasta não ausentes ou impedidos e pelo Ministro ou Ministros directamente interessados.
+Art. 15.º - 1. Os decretos-leis só podem ser apresentados para promulgação uma vez assinados pelo Primeiro-Ministro, pelos Ministros sem pasta não ausentes ou impedidos e pelo Ministro ou Ministros directamente interessados.
 
 2. Os regulamentos necessitam da assinatura do Primeiro-Ministro e do Ministro ou Ministros directamente interessados.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Silvano Ribeiro - António de Almeida Santos - António Carlos Magalhães Arnão Metelo - Francisco Salgado Zenha - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho - Fernando Oliveira Baptista - José da Silva Lopes - Ernesto Augusto de Melo Antunes - José Augusto Fernandes - Álvaro Augusto Veiga de Oliveira - José Emílio da Silva - José Inácio da Costa Martins - Jorge de Carvalho Sá Borges - Jorge Correia Jesuíno.
 
-**Promulgado em 11 de Junho de 1975.**
+Promulgado em 11 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

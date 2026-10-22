@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1978-295846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bc37b266a8bcccee78c6ad8d0acb2a07d459066e3b151ec040ec600055c20c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d07f3777cb586a8a3425f62b44ed331e0e893a0d1cd9759da04067d57982982
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Brigada Mista Independente
+- Chefe do Estado Maior do Exército
+- Criação de Serviços
+- Exército
+- Forças Armadas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:05Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +93,20 @@ Considerando os compromissos assumidos por Portugal no âmbito da Organização 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada em 1 de Janeiro de 1978, na dependência directa do Chefe do Estado-Maior do Exército (CEME), a 1.ª Brigada Mista Independente (1.ª BMI), herdeira das tradições e do património histórico da 3.ª Div.
+Artigo 1.º É criada em 1 de Janeiro de 1978, na dependência directa do Chefe do Estado-Maior do Exército (CEME), a 1.ª Brigada Mista Independente (1.ª BMI), herdeira das tradições e do património histórico da 3.ª Div.
 
-###### Art. 2.º O Comando da 1.ª BMI tem a sua sede permanente na área do Campo de Instrução Militar de Santa Margarida.
+Art. 2.º O Comando da 1.ª BMI tem a sua sede permanente na área do Campo de Instrução Militar de Santa Margarida.
 
-###### Art. 3.º A organização da 1.ª BMI será fixada por portaria do CEME.
+Art. 3.º A organização da 1.ª BMI será fixada por portaria do CEME.
 
-###### Art. 4.º As relações de comando entre o Comando da 1.ª BMI e as suas unidades orgânicas e as relações de coordenação daquele comando com os comandos de região militar e outros órgãos interessados serão definidas por despacho do CEME.
+Art. 4.º As relações de comando entre o Comando da 1.ª BMI e as suas unidades orgânicas e as relações de coordenação daquele comando com os comandos de região militar e outros órgãos interessados serão definidas por despacho do CEME.
 
-###### Art. 5.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do CEME.
+Art. 5.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do CEME.
 
 Visto e aprovado em Conselho da Revolução em 12 de Abril de 1978.
 
-**Promulgado em 26 de Abril de 1978.**
+Promulgado em 26 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

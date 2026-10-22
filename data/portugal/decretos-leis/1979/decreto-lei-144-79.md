@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1979-382781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9043bf861d127ea0c8daa76f1915c9d4a46654fa667925658f502483a179468
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 343adcf55a5397df5720801c1ec7445f31625f35ab0c3b15af765e7c10458bb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Regulamento sobre o Transporte de Produtos Explosivos por Caminho de Ferro
+- Transporte de Mercadorias
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:198922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453778:por
+  label: "Alterado o art. 43º do Regulamento, pelo DEC LEI.334/83.1983.07.15.MDN DR.IS [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1983-453778
+  date: '1983-07-15'
+- type: amended_by
+  target: pt:dre:386624:por
+  label: "Alteradas as als. b) e d) do nº 1 do art. 3º, o art. 6º, o nº 1 do art. 20º, o nº 2 do art. 23º, o nº 1do art. 25º,\
+    \ o nº 1 do art. 26º, os nºs 1 e 2 do art. 32º, os quadros I e II, os nºs 6º a) e d) da classe 4.2 do apêndice II,e o\
+    \ nº 3 do apêndice III; e suprimidos os nºs 4, 5, 6 e 7 do apêndice III, passando o nºs 8 e 9 a constituírem respectivamente\
+    \ os nºs 4 e 5 do mesmo apêndice, com nova redacção, todos do Regulamento, pela PORT.354/84.1984.06.09.MAI DR.IS [134]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1984-386624
+  date: '1984-06-09'
+- type: amended_by
+  target: pt:dre:228002:por
+  label: "Alterados os n.ºs 1 e 3 do artigo 1.º, os n.ºs 1 e 2 do artigo 2.º, o n.º 1 do artigo 3.º, o n.º 2 do artigo 5.º,\
+    \ os artigos 6.º, 9.º, 10.º, 11.º e 12.º, o n.º 4 do artigo 13.º, o artigo 14.º, o n.º 3 do artigo 29.º e suprimidos os\
+    \ apêndices I e II e os quadros I e II do Regulamento, pela PORT.367/86.17.07.1986.MAI, DR.IS [162] de 17.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-1986-228002
+  date: '1986-07-17'
+- type: cites
+  target: pt:dre:331833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489015:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:378876:por
+  label: Rectificado pela DECL.DD8198.21.08.1979.PCM, DR.IS [192] de 21.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-378876
+  date: '1979-08-21'
+- type: repealed_by
+  target: pt:dre:198922:por
+  label: "Revogado pelo DEC LEI.227-C/2000.2000.09.22.MES DR.IS-A [220]Supl, sem prejuízo do disposto nos respectivos arts.\
+    \ 4º e 5º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-c-2000-198922
+  date: '2000-09-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:50Z'
   warnings: []
   errors: []
 ---
@@ -98,23 +158,23 @@ Considerando que para adaptação do material circulante existente ou aquisiçã
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento sobre o Transporte de Produtos Explosivos por Caminho de Ferro, que faz parte integrante deste decreto-lei.
+Artigo 1.º É aprovado o Regulamento sobre o Transporte de Produtos Explosivos por Caminho de Ferro, que faz parte integrante deste decreto-lei.
 
-###### Art. 2.º Com excepção das disposições de natureza administrativa, compatíveis com o regime estabelecido pela Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro, aprovada, para ratificação, pelo [Decreto-Lei n.º 366/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1971-405766), de 25 de Agosto, e respectivo anexo I - Regulamento Internacional Respeitante ao Transporte de Mercadorias Perigosas por Caminho de Ferro -, o disposto neste Regulamento apenas se aplica ao transporte interno das mercadorias nele abrangidas.
+Art. 2.º Com excepção das disposições de natureza administrativa, compatíveis com o regime estabelecido pela Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro, aprovada, para ratificação, pelo [Decreto-Lei n.º 366/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1971-405766), de 25 de Agosto, e respectivo anexo I - Regulamento Internacional Respeitante ao Transporte de Mercadorias Perigosas por Caminho de Ferro -, o disposto neste Regulamento apenas se aplica ao transporte interno das mercadorias nele abrangidas.
 
-###### Art. 3.º As normas técnicas constantes do presente Regulamento poderão ser alteradas, com vista à sua adaptação, à evolução da regulamentação internacional, por portaria conjunta do Ministro da Defesa Nacional e do Ministro dos Transportes e Comunicações.
+Art. 3.º As normas técnicas constantes do presente Regulamento poderão ser alteradas, com vista à sua adaptação, à evolução da regulamentação internacional, por portaria conjunta do Ministro da Defesa Nacional e do Ministro dos Transportes e Comunicações.
 
-###### Art. 4.º Ficam revogadas as disposições referentes ao transporte por caminho de ferro constantes do título VII do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, e [Decreto n.º 47874](https://diariodarepublica.pt/dr/detalhe/decreto/47874-1967-390058), de 30 de Agosto de 1967, na parte aplicável, e as prescrições relativas ao transporte de substâncias perigosas nos caminhos de ferro da rede nacional, aprovadas pela [Portaria n.º 13387](https://diariodarepublica.pt/dr/detalhe/portaria/13387-1950-489015), de 20 de Dezembro de 1950, e pela [Portaria n.º 13538](https://diariodarepublica.pt/dr/detalhe/portaria/13538-1951-331833), de 17 de Maio de 1951, em tudo o que se refira aos produtos constantes dos apêndices I e II do presente Regulamento.
+Art. 4.º Ficam revogadas as disposições referentes ao transporte por caminho de ferro constantes do título VII do Regulamento sobre Substâncias Explosivas, aprovado pelo [Decreto-Lei n.º 37925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37925-1950-481140), de 1 de Agosto de 1950, e [Decreto n.º 47874](https://diariodarepublica.pt/dr/detalhe/decreto/47874-1967-390058), de 30 de Agosto de 1967, na parte aplicável, e as prescrições relativas ao transporte de substâncias perigosas nos caminhos de ferro da rede nacional, aprovadas pela [Portaria n.º 13387](https://diariodarepublica.pt/dr/detalhe/portaria/13387-1950-489015), de 20 de Dezembro de 1950, e pela [Portaria n.º 13538](https://diariodarepublica.pt/dr/detalhe/portaria/13538-1951-331833), de 17 de Maio de 1951, em tudo o que se refira aos produtos constantes dos apêndices I e II do presente Regulamento.
 
-###### Art. 5.º Este diploma entrará em vigor cento e oitenta dias após a data da sua publicação.
+Art. 5.º Este diploma entrará em vigor cento e oitenta dias após a data da sua publicação.
 
 Carlos Alberto da Mota Pinto - José Alberto Loureiro dos Santos - António Gonçalves Ribeiro - José Ricardo Marques da Costa.
 
-**Promulgado em 16 de Abril de 1979.**
+Promulgado em 16 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Regulamento sobre o Transporte de Produtos Explosivos por Caminho de Ferro (RTPECF)
 
@@ -482,7 +542,7 @@ Legenda nos painéis de sinalização
 
 2 - Os painéis devem ser de cor laranja e devem ter uma cercadura de cor preta com 15 mm de largura e a seguinte legenda, também de cor preta: «Perigo de explosão»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
 
 Estes painéis devem ser retirados logo que os vagões estejam descarregados.
 
@@ -648,7 +708,7 @@ QUADRO I
 
 Transporte de produtos de natureza por caminho de ferro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
 
 Nota. - Para averiguar se podem ou não ser carregados em conjunto no mesmo vagão determinados produtos diferentes, ou incluídos em classes ou em categorias diferentes, basta verificar no quadro qual a letra que se encontra no cruzamento da linha com a coluna respeitantes àqueles produtos e atender ao seu significado.
 
@@ -656,9 +716,9 @@ QUADRO II
 
 Vagões de transporte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
 
-## APÊNDICE I
+APÊNDICE I
 
 Produtos explosivos abrangidos pelo artigo 2.º do RTPECF com a numeração e designações do Regulamento Internacional do Transporte de Mercadorias Perigosas por Caminho de Ferro (RID).
 
@@ -872,7 +932,7 @@ b) Martinicas (fósforo e clorato).
 
 27.º Cartuchos fumígenos (luta contra os parasitas) e produtos de fumos (para fins agrícolas e florestais).
 
-## APÊNDICE II
+APÊNDICE II
 
 Matérias perigosas abrangidas pelo artigo 3.º do RTPECF com a numeração e designações do Regulamento Internacional do Transporte de Mercadorias Perigosas por Caminho de Ferro (RID)
 
@@ -1046,13 +1106,13 @@ Grupo E (necessitam de agente frigorígeno):
 
 62.º Peroxidicarbonato de di-miristilo (de pureza técnica).
 
-## APÊNDICE III
+APÊNDICE III
 
 Inscrições nos painéis a aplicar nos vagões-cisternas e nos contentores-cisternas
 
 1 - Os números de identificação, a inscrever nos painéis rectangulares de cor laranja a aplicar nos vagões-cisternas e nos contentores-cisternas, deverão ser constituídos por algarismos de cor preta com 100 mm de altura e 15 mm de espessura; os de identificação da natureza do perigo deverão figurar na parte superior do painel e os de identificação da designação do produto transportado, na parte inferior; os dois conjuntos de algarismos deverão ficar separados por uma linha horizontal, também de cor preta e com 15 mm de espessura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
 
 2 - O número de identificação da natureza do perigo pode ser formado por dois ou três algarismos, indicando o primeiro o perigo principal e o segundo e o terceiro os perigos subsidiários que um determinado produto pode apresentar.
 
@@ -1062,7 +1122,7 @@ O número de identificação da designação do produto é sempre constituído p
 
 3 - As inscrições que se encontram estabelecidas para os produtos a transportar em vagões-cisternas e em contentores-cisternas, abrangidos por este regulamento, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
 
 4 - Para os cloratos ou cloritos, o número de identificação da natureza do perigo é formado pelos algarismos 5 e 0; o primeiro significa que se trata de produtos que apresentam o perigo inerente às matérias comburentes ou aos peróxidos orgânicos; o segundo não tem significado especial.
 
@@ -1076,14 +1136,14 @@ Como tais gases se libertam quando o produto entra em contacto com a água, sign
 
 8 - Para se poder formar ou interpretar o número de identificação da natureza do perigo correspondente a qualquer produto transportado em vagão-cisterna ou em contentor-cisterna, não mencionado no n.º 3, apresenta-se o quadro seguinte, onde se indica o significado que se encontra estabelecido, por acordo internacional, para os algarismos que o constituem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
 
 9 - Quando os dois primeiros algarismos do número de identificação da natureza do perigo são iguais ou correspondem a propriedades idênticas, tal indica uma intensificação do perigo principal; assim, 33 ou 43 significam que se trata de produtos muito inflamáveis, 66 corresponde a uma matéria muito tóxica e 88 a uma muito corrosiva; a combinação 22 significa, porém, que o produto é um gás refrigerado e 42 que é um sólido que pode libertar gases quando em contacto com a água.
 
-## APÊNDICE IV
+APÊNDICE IV
 
 Localização dos painéis rectangulares e das etiquetas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10421059.pdf)
 
-**O Ministro da Defesa Nacional, José Alberto Loureiro dos Santos. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.**
+O Ministro da Defesa Nacional, José Alberto Loureiro dos Santos. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.

@@ -48,36 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48581-1968-264885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b68ee4f1ca923b6bc109107c73ac4dad2f13369ca2bb31e97295e197d0540e47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab6ed38af1ce28255f5d9ee747cbb56ea5997a909b8388984042b24c72d8fdfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Condicionamento Industrial
+- Definição de Competências
+- Estabelecimento Industrial
+- Instalação de Serviços
+- Isenção Fiscal
+- Ministro do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:262650:por
+  label: Rectificado o preâmbulo pela DECL.DD10471.07.12.1968.PC, DG.IS [288] de 07.12.1968
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1968-262650
+  date: '1968-12-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:34Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +132,7 @@ Tendo em atenção que as disposições do [Decreto n.º 41024](https://diarioda
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nas indústrias sujeitas ao regime de condicionamento nacional, a instalar nas províncias ultramarinas, nos termos da alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, pode o Ministro da Ultramar, ouvidos o Governo da província e o Conselho Superior de Fomento Ultramarino, conceder as seguintes isenções que deverão ser graduadas conforme a importância de que o estabelecimento se revista para a província:
+Artigo 1.º Nas indústrias sujeitas ao regime de condicionamento nacional, a instalar nas províncias ultramarinas, nos termos da alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, pode o Ministro da Ultramar, ouvidos o Governo da província e o Conselho Superior de Fomento Ultramarino, conceder as seguintes isenções que deverão ser graduadas conforme a importância de que o estabelecimento se revista para a província:
 
 1. Indústrias novas na província:
 
@@ -118,15 +150,15 @@ Isenção, até ao máximo de três anos, dos impostos e taxas referidos nas al�
 
 § único. Os prazos referidos nas alíneas a), b) e c) do n.º 1 do presente artigo poderão ser alargados até dez anos, tratando-se de indústrias novas na província, indispensáveis à defesa nacional ou de importância e custo de instalação excepcionais.
 
-###### Art. 2.º Compete aos órgãos legislativos das províncias ultramarinas estabelecer as isenções de impostos e taxas a conceder às empresas que instalem novas indústrias ou procedam à instalação ou reorganização de estabelecimentos de indústrias já existentes, não abrangidas pelo artigo 1.º deste diploma.
+Art. 2.º Compete aos órgãos legislativos das províncias ultramarinas estabelecer as isenções de impostos e taxas a conceder às empresas que instalem novas indústrias ou procedam à instalação ou reorganização de estabelecimentos de indústrias já existentes, não abrangidas pelo artigo 1.º deste diploma.
 
-###### Art. 3.º A concessão de benefícios de natureza aduaneira às indústrias referidas nos artigos 1.º e 2.º continuará a processar-se nos termos das disposições legais em vigor.
+Art. 3.º A concessão de benefícios de natureza aduaneira às indústrias referidas nos artigos 1.º e 2.º continuará a processar-se nos termos das disposições legais em vigor.
 
-###### Art. 4.º As disposições dos artigos anteriores são igualmente aplicáveis aos pedidos de concessão de isenções formulados pelas empresas industriais antes da promulgação deste diploma.
+Art. 4.º As disposições dos artigos anteriores são igualmente aplicáveis aos pedidos de concessão de isenções formulados pelas empresas industriais antes da promulgação deste diploma.
 
-###### Art. 5.º Fica revogado o [Decreto n.º 42688](https://diariodarepublica.pt/dr/detalhe/decreto/42688-1959-438245), de 27 de Novembro de 1959.
+Art. 5.º Fica revogado o [Decreto n.º 42688](https://diariodarepublica.pt/dr/detalhe/decreto/42688-1959-438245), de 27 de Novembro de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.
 

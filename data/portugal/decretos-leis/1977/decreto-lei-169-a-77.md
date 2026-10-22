@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 99/1977, 1º Suplemento, Série I de 1977-04-29
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 966-(1) a 966-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/09901/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-a-1977-261169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb6cb8716540a3079af56ad42cb25b34822b49dc97940b98d230203a61b08db9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7c841b5f579e693a58117cafcb4f10dbafdc6247b0f94e32695210eef0e2c9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Criação de Lugares
+- Ensino Preparatório
+- Formas de Provimento
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:157037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157037:por
+  label: "Revogado pelo DEC LEI.519-T1/79.29.12.1979.ME, DR.IS [299-7.ºSupl] de 29.12.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-t1-1979-157037
+  date: '1979-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:28Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +117,15 @@ Considerando, finalmente, a impossibilidade de compatibilizar um acréscimo cons
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1. Só podem ser admitidos aos estágios pedagógicos dos ensinos preparatório e secundário candidatos que à data de abertura do respectivo concurso possuam menos de 55 anos de idade.
+Artigo 1.º - 1. Só podem ser admitidos aos estágios pedagógicos dos ensinos preparatório e secundário candidatos que à data de abertura do respectivo concurso possuam menos de 55 anos de idade.
 
 2. O disposto no número anterior aplica-se aos concursos para os estágios pedagógicos dos ensinos preparatório e secundário a realizar no ano de 1977.
 
-###### Art. 2.º - 1. Para ocorrer às necessidades do serviço docente nos ensinos preparatório e secundário é criado um quadro de professores adjuntos.
+Art. 2.º - 1. Para ocorrer às necessidades do serviço docente nos ensinos preparatório e secundário é criado um quadro de professores adjuntos.
 
 2. A composição do quadro referido no número anterior será fixada por portaria conjunta dos Ministros das Finanças e da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
 
-###### Art. 3.º - 1. O quadro de professores adjuntos é desdobrado pelos diversos grupos, subgrupos, disciplinas e especialidades dos ensinos preparatório e secundário.
+Art. 3.º - 1. O quadro de professores adjuntos é desdobrado pelos diversos grupos, subgrupos, disciplinas e especialidades dos ensinos preparatório e secundário.
 
 2. Os lugares de cada grupo, subgrupo, disciplina ou especialidade são distribuídos pelos diversos estabelecimentos de ensino por portaria do Ministro da Educação e Investigação Científica, de acordo com o estabelecido nos números seguintes.
 
@@ -114,7 +133,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4. A criação de um lugar de professor adjunto em cada grupo, subgrupo, disciplina ou especialidade e em cada estabelecimento de ensino depende de, após dois concursos consecutivos de professores efectivos, realizados ou a realizar, ter ficado deserto um lugar correspondente do respectivo quadro de professores efectivos.
 
-###### Art. 4.º - 1. No mês de Novembro de cada ano será aberto concurso de provimento dos lugares declarados vagos no quadro de professores adjuntos, segundo regras e condições a estabelecer em portaria do Ministro da Educação e Investigação Científica.
+Art. 4.º - 1. No mês de Novembro de cada ano será aberto concurso de provimento dos lugares declarados vagos no quadro de professores adjuntos, segundo regras e condições a estabelecer em portaria do Ministro da Educação e Investigação Científica.
 
 2. O concurso referido no número anterior destina-se a:
 
@@ -122,7 +141,7 @@ a) Preencher os lugares declarados vagos à data da sua abertura;
 
 b) Permitir o provimento de lugares do quadro de professores adjuntos quando aqueles tenham resultado de transferências ocorridas durante o concurso.
 
-###### Art. 5.º Podem candidatar-se ao provimento dos lugares previstos no artigo anterior os professores que reúnam, conjuntamente, os requisitos seguintes:
+Art. 5.º Podem candidatar-se ao provimento dos lugares previstos no artigo anterior os professores que reúnam, conjuntamente, os requisitos seguintes:
 
 a) Terem no mínimo 40 anos de idade;
 
@@ -132,11 +151,11 @@ c) Encontrarem-se ao serviço em qualquer estabelecimento oficial dos ensinos pr
 
 d) Haver prestado, nas condições previstas no artigo 12.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, dez anos de bom e efectivo serviço docente, metade dos quais, pelo menos, com habilitação própria.
 
-###### Art. 6.º - 1. O provimento no quadro de professores adjuntos dos ensinos preparatório e secundário é feito, após concurso, por nomeação e a título definitivo.
+Art. 6.º - 1. O provimento no quadro de professores adjuntos dos ensinos preparatório e secundário é feito, após concurso, por nomeação e a título definitivo.
 
 2. Aos professores providos nos termos do número anterior são aplicáveis as disposições legais que digam respeito aos professores efectivos dos correspondentes ramos e níveis que não contrariem o disposto no presente diploma.
 
-###### Art. 7.º - 1. As categorias de vencimentos a atribuir aos profesores adjuntos são, respectivamente:
+Art. 7.º - 1. As categorias de vencimentos a atribuir aos profesores adjuntos são, respectivamente:
 
 a) Professor adjunto com habilitação de grau superior - letra I do funcionalismo público;
 
@@ -144,28 +163,28 @@ b) Professor adjunto com habilitação de grau não superior - letra K do funcio
 
 2. O diploma que vier a regulamentar a atribuição de fases dos professores efectivos dos ensinos preparatório e secundário determinará e regulamentará também a atribuição de fases dos professores adjuntos dos mesmos níveis de ensino.
 
-###### Art. 8.º - 1. Após quatro anos de permanência no quadro de adjuntos poderá qualquer professor requerer Exame de Estado para o respectivo grupo, sub-grupo, disciplina ou especialidade.
+Art. 8.º - 1. Após quatro anos de permanência no quadro de adjuntos poderá qualquer professor requerer Exame de Estado para o respectivo grupo, sub-grupo, disciplina ou especialidade.
 
 2. O Exame de Estado previsto no número anterior será regulamentado segundo normas a definir em portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 9.º - 1. Independentemente do tempo de serviço prestado no respectivo quadro, podem os professores adjuntos concorrer ao estágio pedagógico para o grupo, subgrupo, disciplina ou especialidade a que corresponda a sua habilitação académica, desde que o candidato tenha menos de 55 anos à data de abertura do respectivo concurso.
+Art. 9.º - 1. Independentemente do tempo de serviço prestado no respectivo quadro, podem os professores adjuntos concorrer ao estágio pedagógico para o grupo, subgrupo, disciplina ou especialidade a que corresponda a sua habilitação académica, desde que o candidato tenha menos de 55 anos à data de abertura do respectivo concurso.
 
 2. Os professores adjuntos admitidos ao estágio pedagógico nos termos do número anterior frequentarão o mesmo estágio em comissão de serviço, sendo-lhes abonados os respectivos vencimentos pelo estabelecimento de ensino a cujo quadro pertencem.
 
-###### Art. 10.º - 1. Os professores que tenham obtido a habilitação profissional nas condições previstas nos artigos 8.º e 9.º do presente diploma poderão concorrer ao quadro de efectivos, sendo para esse efeito graduados na alínea c) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), de 1 de Março, sujeitando-se em tudo o mais ao disposto no mesmo diploma.
+Art. 10.º - 1. Os professores que tenham obtido a habilitação profissional nas condições previstas nos artigos 8.º e 9.º do presente diploma poderão concorrer ao quadro de efectivos, sendo para esse efeito graduados na alínea c) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), de 1 de Março, sujeitando-se em tudo o mais ao disposto no mesmo diploma.
 
 2. Ao professor adjunto que, nos termos do número anterior, passar a professor efectivo será atribuída, nesta categoria, a fase correspondente como professor adjunto.
 
-###### Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento do Ministério da Educação e Investigação Científica.
+Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento do Ministério da Educação e Investigação Científica.
 
-###### Art. 12.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros da Educação e Investigação Científica e das Finanças ou Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 12.º As dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros da Educação e Investigação Científica e das Finanças ou Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 27 de Abril de 1977.**
+Promulgado em 27 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

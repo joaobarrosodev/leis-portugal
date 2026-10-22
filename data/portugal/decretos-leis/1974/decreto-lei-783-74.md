@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 3º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1670-(71) a 1670-(72)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30303/00710072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/783-1974-236101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47203fb97290e0b8b33f6bd661904ec22de04095c73bffbff35c0c1a66328252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d04210f1cab53081b0bbf61d44ece0f70325ab34ce2024c3aaf4ba70cbcfc74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Despedimento
+- Empresa
+- Patronato
+- Trabalhador
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:506865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506865:por
+  label: "Revogado pelo DEC LEI.84/76.28.01.1976.MT, DG.IS [23] de 28.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1976-506865
+  date: '1976-01-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:29Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +114,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A cessação do contrato de trabalho, por decisão unilateral da entidade patronal, quer feita simultaneamente, quer de forma sucessiva, no prazo de três meses, sempre que seja provocada por encerramento definitivo da empresa, encerramento de uma ou várias secções da empresa ou por redução do pessoal baseada em motivos estruturais, tecnológicos ou conjunturais, considera-se despedimento colectivo, para efeitos do presente diploma, sempre que abranja, pelo menos, dois ou cinco trabalhadores, conforme se trate, respectivamente, de empresas que empreguem habitualmente até cinquenta ou mais de cinquenta trabalhadores.
+Artigo 1.º - 1. A cessação do contrato de trabalho, por decisão unilateral da entidade patronal, quer feita simultaneamente, quer de forma sucessiva, no prazo de três meses, sempre que seja provocada por encerramento definitivo da empresa, encerramento de uma ou várias secções da empresa ou por redução do pessoal baseada em motivos estruturais, tecnológicos ou conjunturais, considera-se despedimento colectivo, para efeitos do presente diploma, sempre que abranja, pelo menos, dois ou cinco trabalhadores, conforme se trate, respectivamente, de empresas que empreguem habitualmente até cinquenta ou mais de cinquenta trabalhadores.
 
 2. O disposto no número anterior não se aplica aos contratos de trabalho rural nem aos contratos de trabalho celebrados no âmbito de actividades classificadas como sazonais.
 
-###### Art. 2.º - 1. A entidade patronal comunicará aos trabalhadores da empresa ou, sempre que esta esteja constituída, à comissão de contrôle dos despedimentos, bem como aos sindicatos representativos dos trabalhadores a despedir e à Secretaria de Estado do Emprego, a intenção de proceder a um despedimento colectivo com a antecedência mínima, sobre a data prevista, de sessenta ou noventa dias, conforme se trate, respectivamente, de empresa que habitualmente empregue até cinquenta trabalhadores ou mais de cinquenta trabalhadores.
+Art. 2.º - 1. A entidade patronal comunicará aos trabalhadores da empresa ou, sempre que esta esteja constituída, à comissão de contrôle dos despedimentos, bem como aos sindicatos representativos dos trabalhadores a despedir e à Secretaria de Estado do Emprego, a intenção de proceder a um despedimento colectivo com a antecedência mínima, sobre a data prevista, de sessenta ou noventa dias, conforme se trate, respectivamente, de empresa que habitualmente empregue até cinquenta trabalhadores ou mais de cinquenta trabalhadores.
 
 2. Nas empresas que empreguem habitualmente menos de cinquenta trabalhadores o prazo de comunicação será de noventa dias quando o despedimento colectivo envolver dez ou mais trabalhadores.
 
@@ -112,17 +126,17 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. A comunicação do despedimento colectivo será acompanhada por um documento escrito contendo as razões de ordem económica, financeira ou técnica, bem como todas as informações necessárias à apreciação dos motivos invocados, sem prejuízo do contacto directo entre as partes interessadas.
 
-###### Art. 3.º Dentro de trinta dias, a contar da data da comunicação, deverão os sindicatos enviar ao Ministério do Trabalho o parecer dos trabalhadores ou da comissão de contrôle dos despedimentos sobre a validade do conteúdo da comunicação da entidade patronal, juntamente com a indicação das medidas adequadas a prevenir ou reduzir os despedimentos, à formação e classificação dos trabalhadores, à sua transferência de serviço, ao escalonamento no tempo dos trabalhadores a despedir, bem como quaisquer outras medidas tendentes a minimizar eventuais efeitos dos despedimentos colectivos.
+Art. 3.º Dentro de trinta dias, a contar da data da comunicação, deverão os sindicatos enviar ao Ministério do Trabalho o parecer dos trabalhadores ou da comissão de contrôle dos despedimentos sobre a validade do conteúdo da comunicação da entidade patronal, juntamente com a indicação das medidas adequadas a prevenir ou reduzir os despedimentos, à formação e classificação dos trabalhadores, à sua transferência de serviço, ao escalonamento no tempo dos trabalhadores a despedir, bem como quaisquer outras medidas tendentes a minimizar eventuais efeitos dos despedimentos colectivos.
 
-###### Art. 4.º - 1. A Secretaria de Estado do Emprego poderá solicitar às entidades públicas ou privadas os elementos julgados necessários para a análise da situação e consultar a escrita comercial da empresa.
+Art. 4.º - 1. A Secretaria de Estado do Emprego poderá solicitar às entidades públicas ou privadas os elementos julgados necessários para a análise da situação e consultar a escrita comercial da empresa.
 
 2. A empresa fornecerá os esclarecimentos, informações e documentos que lhe forem solicitados.
 
-###### Art. 5.º - 1. A Secretaria de Estado do Emprego averiguará as condições da empresa e proporá ao Ministro do Trabalho as medidas consideradas indispensáveis para evitar ou reduzir os despedimentos, nomeadamente a concessão de subsídios e financiamentos, a reclassificação dos trabalhadores e a sua distribuição por outro ou outros estabelecimentos da entidade patronal, ou proporá ao departamento governamental a que respeita a correspondente actividade económica as medidas e o regime previstos no [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro.
+Art. 5.º - 1. A Secretaria de Estado do Emprego averiguará as condições da empresa e proporá ao Ministro do Trabalho as medidas consideradas indispensáveis para evitar ou reduzir os despedimentos, nomeadamente a concessão de subsídios e financiamentos, a reclassificação dos trabalhadores e a sua distribuição por outro ou outros estabelecimentos da entidade patronal, ou proporá ao departamento governamental a que respeita a correspondente actividade económica as medidas e o regime previstos no [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro.
 
 2. A Secretaria de Estado do Emprego poderá determinar a dilação por mais trinta dias do prazo previsto no n.º 1 do artigo 2.º, devendo comunicá-la à empresa até vinte dias antes do seu termo.
 
-###### Art. 6.º - 1. Sem prejuízo da necessidade de assegurar o funcionamento eficaz da empresa ou serviço, em caso de redução de pessoal, devem ter preferência na manutenção do emprego, ouvidos os sindicatos e dentro de cada categoria profissional, os trabalhadores:
+Art. 6.º - 1. Sem prejuízo da necessidade de assegurar o funcionamento eficaz da empresa ou serviço, em caso de redução de pessoal, devem ter preferência na manutenção do emprego, ouvidos os sindicatos e dentro de cada categoria profissional, os trabalhadores:
 
 1.º Mais antigos;
 
@@ -134,7 +148,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 2. A ordem e importância relativa dos critérios referidos no n.º 1 poderão ser alteradas pelas convenções colectivas de trabalho.
 
-###### Art. 7.º - 1. Durante um ano, a contar da data do despedimento colectivo, os trabalhadores beneficiam de preferência de admissão na empresa.
+Art. 7.º - 1. Durante um ano, a contar da data do despedimento colectivo, os trabalhadores beneficiam de preferência de admissão na empresa.
 
 2. A preferência de admissão mantém-se nos casos de transmissão ou transformação da empresa ou do estabelecimento que efectuou os despedimentos.
 
@@ -142,11 +156,11 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. Os titulares do direito deverão exercê-lo dentro de quinze dias, a contar da data de recebimento do referido aviso de recepção.
 
-###### Art. 8.º O disposto no presente diploma não prejudica a aplicação das normas sobre a cessação do contrato individual de trabalho.
+Art. 8.º O disposto no presente diploma não prejudica a aplicação das normas sobre a cessação do contrato individual de trabalho.
 
-###### Art. 9.º São considerados nulos e de nenhum efeito os despedimentos efectuados contra o disposto no presente diploma.
+Art. 9.º São considerados nulos e de nenhum efeito os despedimentos efectuados contra o disposto no presente diploma.
 
-###### Art. 10.º - 1. A infracção às normas contidas no presente diploma implica para a entidade patronal a multa de 1000$00 a 10000$00 por cada trabalhador despedido, graduando-se a sanção de forma directamente proporcional ao número de trabalhadores afectados e à situação financeira da empresa.
+Art. 10.º - 1. A infracção às normas contidas no presente diploma implica para a entidade patronal a multa de 1000$00 a 10000$00 por cada trabalhador despedido, graduando-se a sanção de forma directamente proporcional ao número de trabalhadores afectados e à situação financeira da empresa.
 
 2. Sem prejuízo do disposto no número anterior, se a entidade patronal por qualquer modo obstar ao exercício do direito do preferente ficará obrigada ao pagamento de uma compensação equivalente à retribuição de tantos meses quantos os anos de serviço do trabalhador na empresa até ao limite de doze meses para os trabalhadores até aos 50 anos de idade e de dezoito ou vinte e quatro meses, respectivamente, para os que contam mais de 50 ou 55 anos de idade.
 
@@ -154,8 +168,8 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Inácio da Costa Martins.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

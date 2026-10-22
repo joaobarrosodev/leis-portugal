@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16100/17351735.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1981-579973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87d2b9fb199f273622ab419c6064f3801ec08d753c59a341fac442a6a3c10c55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3753c699e3a588c20afc9c401a8b9412b38e5f685514c9831b826b08b4244954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- PSP
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:46Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +101,26 @@ Atendendo à circunstância de os vencimentos do pessoal da Polícia de Seguran�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os vencimentos base a abonar mensalmente aos oficiais em serviço na Polícia de Segurança Pública são os fixados para os oficiais das forças armadas.
+Artigo 1.º - 1 - Os vencimentos base a abonar mensalmente aos oficiais em serviço na Polícia de Segurança Pública são os fixados para os oficiais das forças armadas.
 
 2 - Os vencimentos base a abonar mensalmente aos comissários e agentes da Polícia de Segurança Pública serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16100/17351735.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16100/17351735.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16100/17351735.pdf)
 
 3 - Os comandantes de secção e adjuntos dos comandos distritais da Polícia de Segurança Pública, quando oficiais subalternos, serão abonados do vencimento base do primeiro-comissário.
 
-###### Art. 2.º - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das sobras das dotações orçamentais para pagamento dos respectivos vencimentos.
+Art. 2.º - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das sobras das dotações orçamentais para pagamento dos respectivos vencimentos.
 
-###### Art. 3.º A actualização dos vencimentos do pessoal abrangido pelo presente diploma obedecerá ao princípio da anualidade, reportando-se os seus efeitos, a partir do próximo ano, inclusive, ao início de cada ano civil.
+Art. 3.º A actualização dos vencimentos do pessoal abrangido pelo presente diploma obedecerá ao princípio da anualidade, reportando-se os seus efeitos, a partir do próximo ano, inclusive, ao início de cada ano civil.
 
-###### Art. 4.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano.
+Art. 4.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano.
 
-###### Art. 5.º O presente decreto-lei produz efeitos desde 1 de Maio de 1981.
+Art. 5.º O presente decreto-lei produz efeitos desde 1 de Maio de 1981.
 
 Visto e aprovado em Conselho de Ministros, em 17 de Junho de 1981. - O Ministro de Estado Adjunto do Primeiro-Ministro, Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 8 de Julho de 1981.**
+Promulgado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

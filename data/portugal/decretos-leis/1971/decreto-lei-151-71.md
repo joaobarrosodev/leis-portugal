@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1971-444881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0db1f2f0a66201f44061ec98c887d6fa3b71a49f2d3ba0b1198dbd4476941e8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993dba83cc9a80d3e56873f1bdb4d3b2ddb84a113539f52c8fafd6e6a79d1283
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cosec
+- Ministro do Ultramar
+- Sanção
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:236712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646901:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:14Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +130,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Nas transacções de bens e serviços entre as diversas parcelas do território nacional a Companhia de Seguro de Créditos poderá garantir, nomeadamente, os seguintes riscos comerciais a que estejam sujeitos os créditos emergentes das trocas interterritoriais:
+Artigo 1.º - 1. Nas transacções de bens e serviços entre as diversas parcelas do território nacional a Companhia de Seguro de Créditos poderá garantir, nomeadamente, os seguintes riscos comerciais a que estejam sujeitos os créditos emergentes das trocas interterritoriais:
 
 a) Insolvência ou falência do devedor;
 
@@ -118,33 +150,33 @@ c) Suspensão ou revogação da encomenda pelo importador, em virtude de qualque
 
 3. Enquanto a Companhia de Seguro de Créditos não tiver representação legal nas províncias ultramarinas, o seguro dos créditos emergentes das transacções interterritoriais e das exportações daquelas províncias para o estrangeiro poderá ser feito directamente na sede daquela Companhia.
 
-###### Art. 2.º - 1. Para o efeito da concessão de garantias à Companhia de Seguro de Créditos, em nome e por conta das províncias ultramarinas, relativamente às operações de seguro que esta efectue de riscos políticos, extraordinários e comerciais de exportações nacionais de qualquer das províncias ultramarinas para o estrangeiro, são cometidas, respectivamente, aos Fundos de Comercialização, instituídos pelo [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, e aos órgãos a designar ou a criar no seu quadro, a competência e as atribuições que, na metrópole, são desempenhadas pelo Fundo de Fomento de Exportação e pela Comissão de Créditos e Seguro de Créditos à Exportação Nacional, nos termos do capitulo IV do [Decreto-Lei n.º 48950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48950-1969-526203), de 3 de Abril de 1969.
+Art. 2.º - 1. Para o efeito da concessão de garantias à Companhia de Seguro de Créditos, em nome e por conta das províncias ultramarinas, relativamente às operações de seguro que esta efectue de riscos políticos, extraordinários e comerciais de exportações nacionais de qualquer das províncias ultramarinas para o estrangeiro, são cometidas, respectivamente, aos Fundos de Comercialização, instituídos pelo [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, e aos órgãos a designar ou a criar no seu quadro, a competência e as atribuições que, na metrópole, são desempenhadas pelo Fundo de Fomento de Exportação e pela Comissão de Créditos e Seguro de Créditos à Exportação Nacional, nos termos do capitulo IV do [Decreto-Lei n.º 48950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48950-1969-526203), de 3 de Abril de 1969.
 
 2. A competência atribuída aos Ministros das Finanças e da Economia, nos termos dos n.os 2 e 4 do artigo 26.º do [Decreto-Lei n.º 48950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48950-1969-526203), será exercida, para as províncias ultramarinas, pelo Ministro do Ultramar.
 
 3. Relativamente a operações de seguro de créditos emergentes de exportações das províncias de governo simples, para o estrangeiro, enquanto não for julgada oportuna ou conveniente a criação dos órgãos referidos no n.º 1, e com carácter excepcional, poderá a Comissão de Créditos e Seguro de Créditos à Exportação Nacional ser encarregada de deliberar sobre a concessão das necessárias garantias, depois de o Ministro do Ultramar definir, por despacho, e ouvido o governo provincial respectivo, a forma de garantir a Companhia de Seguro de Créditos pelas disponibilidades próprias da respectiva província ultramarina.
 
-###### Art. 3.º - 1. Sob proposta dos governos provinciais, o Ministro do Ultramar determinará, por portaria, a composição e o modo de funcionamento dos órgãos referidos no artigo anterior, com vista à perfeita consecução dos seus fins.
+Art. 3.º - 1. Sob proposta dos governos provinciais, o Ministro do Ultramar determinará, por portaria, a composição e o modo de funcionamento dos órgãos referidos no artigo anterior, com vista à perfeita consecução dos seus fins.
 
 2. A mesma portaria criará ou designará, no quadro dos órgãos mencionados no número anterior, em cada província ultramarina e sob proposta do respectivo governo provincial, um departamento especializado, ao qual competirá assegurar o expediente daqueles órgãos e servir-lhes de instrumento de estudo, consulta e execução, bem como manter registos apropriados, quer das operações de garantias concedidas e dos prémios recebidos, quer das indemnizações pagas e dos reembolsos obtidos.
 
 3. As despesas de funcionamento destes departamentos e as eventuais remunerações devidas aos membros dos órgãos referidos no n.º 1, a fixar por despacho do Ministro do Ultramar, serão suportadas pelos orçamentos dos Fundos de Comercialização.
 
-###### Art. 4.º - 1. O Ministro do Ultramar, ouvidos os governos provinciais respectivos, estabelecerá, por portaria, a forma de escrituração e processamento das importâncias dos prémios por garantias outorgadas à Companhia de Seguro de Créditos, nas províncias ultramarinas, bem como fixará a percentagem, a deduzir ao montante dos prémios cobrados em cada ano económico, como receita própria dos Fundos de Comercialização, para compensação das despesas efectuadas com o pagamento de eventuais indemnizações.
+Art. 4.º - 1. O Ministro do Ultramar, ouvidos os governos provinciais respectivos, estabelecerá, por portaria, a forma de escrituração e processamento das importâncias dos prémios por garantias outorgadas à Companhia de Seguro de Créditos, nas províncias ultramarinas, bem como fixará a percentagem, a deduzir ao montante dos prémios cobrados em cada ano económico, como receita própria dos Fundos de Comercialização, para compensação das despesas efectuadas com o pagamento de eventuais indemnizações.
 
 2. A mesma portaria definirá a forma de processamento das operações de tesouraria necessárias para garantia e liquidação das indemnizações devidas pelos Fundos de Comercialização por garantias prestadas à Companhia de Seguro de Créditos nas províncias ultramarinas, a suportar pelos respectivos orçamentos provinciais.
 
-###### Art. 5.º Uma vez efectuada a liquidação de indemnizações devidas pelos Fundos de Comercialização, por efeito das garantias prestadas à Companhia de Seguro de Créditos, os órgãos a criar ou a designar nos termos do n.º 1 do artigo 3.º ficarão sub-rogados nos correspondentes direitos sobre as eventuais recuperações que, dos créditos ou das mercadorias, forem realizadas pela Companhia de Seguro de Créditos, proporcionalmente aos montantes das indemnizações liquidadas.
+Art. 5.º Uma vez efectuada a liquidação de indemnizações devidas pelos Fundos de Comercialização, por efeito das garantias prestadas à Companhia de Seguro de Créditos, os órgãos a criar ou a designar nos termos do n.º 1 do artigo 3.º ficarão sub-rogados nos correspondentes direitos sobre as eventuais recuperações que, dos créditos ou das mercadorias, forem realizadas pela Companhia de Seguro de Créditos, proporcionalmente aos montantes das indemnizações liquidadas.
 
-###### Art. 6.º As infracções ao estabelecido no presente diploma e ao que for determinado em diplomas regulamentares, bem como nas portarias e despachos necessários à sua execução, serão punidas nos termos dos artigos 69.º e seguintes do Decreto de 21 de Outubro de 1907, das disposições aplicáveis do [Decreto n.º 15057](https://diariodarepublica.pt/dr/detalhe/decreto/15057-1928-646901), de 24 de Fevereiro de 1928, e do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), quanto ao continente e ilhas adjacentes, e dos artigos 30.º e seguintes do [Decreto n.º 34562](https://diariodarepublica.pt/dr/detalhe/decreto/34562-1945-610391), de 1 de Maio de 1945, quanto às províncias ultramarinas.
+Art. 6.º As infracções ao estabelecido no presente diploma e ao que for determinado em diplomas regulamentares, bem como nas portarias e despachos necessários à sua execução, serão punidas nos termos dos artigos 69.º e seguintes do Decreto de 21 de Outubro de 1907, das disposições aplicáveis do [Decreto n.º 15057](https://diariodarepublica.pt/dr/detalhe/decreto/15057-1928-646901), de 24 de Fevereiro de 1928, e do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), quanto ao continente e ilhas adjacentes, e dos artigos 30.º e seguintes do [Decreto n.º 34562](https://diariodarepublica.pt/dr/detalhe/decreto/34562-1945-610391), de 1 de Maio de 1945, quanto às províncias ultramarinas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Abril de 1971.**
+Promulgado em 14 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 

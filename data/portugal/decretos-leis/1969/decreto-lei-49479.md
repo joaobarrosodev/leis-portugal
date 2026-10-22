@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 869024cb9b28a7c514e09e9d656ad10518c6126ad5636c0e39666a89b8cb018a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 211f593f8a0618b071c07a1e40017c4cb94c7fce67cc62ea4f729a34ae36057e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arraiolos
+- Câmara Municipal
+- Código Administrativo
+- Distribuição de Energia Elétrica
+- Electrificação Rural
+- Évora
+- Federação de Municípios
+- Gestão de Recursos Humanos
+- Organização Territorial
+- Redondo
+relationships:
+- type: cites
+  target: pt:dre:514056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:21Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +113,9 @@ Impondo-se, pelo exposto, alterar alguns preceitos do Código Administrativo e d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § 3.º do artigo 174.º e os artigos 175.º e 183.º do Código Administrativo passam a ter a seguinte redacção:
+Artigo 1.º O § 3.º do artigo 174.º e os artigos 175.º e 183.º do Código Administrativo passam a ter a seguinte redacção:
 
-###### Art. 174.º ...
+Art. 174.º ...
 
 ...
 
@@ -105,13 +123,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 175.º É privativa das câmaras municipais, nos termos estabelecidos por este Código, a competência para contrair empréstimos, quando as necessidades da exploração ou o desenvolvimento dos serviços o exijam.
+Art. 175.º É privativa das câmaras municipais, nos termos estabelecidos por este Código, a competência para contrair empréstimos, quando as necessidades da exploração ou o desenvolvimento dos serviços o exijam.
 
 § único. Os encargos de empréstimos por prazo não superior a dez anos e que se destinem a custear novas instalações não estão sujeitos ao limite referido no corpo do artigo 673.º quando contraídos em estabelecimentos de crédito diversos da Caixa Geral de Depósitos, Crédito e Previdência, aplicando-se-lhes o disposto no § 1.º do mesmo artigo.
 
 ...
 
-###### Art. 183.º Os serviços municipalizados da federação serão geridos por um conselho de administração presidido pelo presidente da comissão administrativa, ou por quem ele designar, e composto por mais dois administradores eleitos pela comissão administrativa, de preferência entre os vogais dos conselhos municipais interessados.
+Art. 183.º Os serviços municipalizados da federação serão geridos por um conselho de administração presidido pelo presidente da comissão administrativa, ou por quem ele designar, e composto por mais dois administradores eleitos pela comissão administrativa, de preferência entre os vogais dos conselhos municipais interessados.
 
 § 1.º Quando o número de concelhos federados seja superior a quatro, a comissão administrativa elegerá mais dois administradores por cada três concelhos além de quatro, não podendo, porém, o número de vogais exceder seis.
 
@@ -119,17 +137,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º O mandato dos vogais do conselho de administração durará um ano, podendo ser reconduzidos.
 
-###### Art. 2.º Os artigos 2.º, 6.º, 7.º, 8.º e 11.º do [Decreto-Lei n.º 43211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43211-1960-514056), de 10 de Outubro de 1960, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º, 6.º, 7.º, 8.º e 11.º do [Decreto-Lei n.º 43211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43211-1960-514056), de 10 de Outubro de 1960, passam a ter a seguinte redacção:
 
-###### Art. 2.º Ouvida a comissão administrativa da Federação, poderão integrar-se nesta outros concelhos, por portaria do Ministro do Interior e do Secretário de Estado da Indústria, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.
-
-...
-
-###### Art. 6.º O director-delegado ou, nas suas faltas e impedimentos, o seu substituto legal ficam responsáveis, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não a dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que se justifiquem.
+Art. 2.º Ouvida a comissão administrativa da Federação, poderão integrar-se nesta outros concelhos, por portaria do Ministro do Interior e do Secretário de Estado da Indústria, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.
 
 ...
 
-###### Art. 7.º ...
+Art. 6.º O director-delegado ou, nas suas faltas e impedimentos, o seu substituto legal ficam responsáveis, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não a dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que se justifiquem.
+
+...
+
+Art. 7.º ...
 
 § 1.º O pessoal dos quadros das câmaras municipais federadas, ou que com estas venham a federar-se, incluindo os dos respectivos serviços municipalizados, e que preste serviço na distribuição de energia eléctrica nos respectivos concelhos, transitará para o quadro da Federação, independentemente de quaisquer formalidades, na situação que ao tempo tiver ou naquela que no referido quadro vier a ser-lhe atribuída, sendo-lhe reconhecido o direito de reingresso no quadro de origem, no caso de dissolução da Federação.
 
@@ -137,17 +155,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 8.º Até 30 de Setembro de cada ano, a Federação deverá submeter a aprovação da Direcção-Geral dos Serviços Eléctricos os projectos e orçamentos das obras a realizar no ano seguinte, para as quais pretenda obter a comparticipação do Estado.
+Art. 8.º Até 30 de Setembro de cada ano, a Federação deverá submeter a aprovação da Direcção-Geral dos Serviços Eléctricos os projectos e orçamentos das obras a realizar no ano seguinte, para as quais pretenda obter a comparticipação do Estado.
 
 ...
 
-###### Art. 11.º A Federação poderá contrair empréstimos nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e do § único do artigo 175.º do Código Administrativo, consignando aos encargos desses empréstimos as receitas do fundo de obras.
+Art. 11.º A Federação poderá contrair empréstimos nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e do § único do artigo 175.º do Código Administrativo, consignando aos encargos desses empréstimos as receitas do fundo de obras.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 30 de Dezembro de 1969.**
+Promulgado em 30 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

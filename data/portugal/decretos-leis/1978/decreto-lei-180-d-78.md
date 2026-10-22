@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 161/1978, 2º Suplemento, Série I de 1978-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1314-(6) a 1314-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16102/00060006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-d-1978-434604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc272bc8dd5eb33c7b153e254022e9f2665d270c3cb38780d36ed3c55d31f94b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c883a7439400d74fae0f906f2db8656033fb54e8da3c9f1f49a169e382a47fb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Administração Central
+- Administração Local
+- Administração Regional
+- Funcionário Público
+- Prestações da Segurança Social
+- Proteção Social
+- Regime Geral da Segurança Social
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:57Z'
   warnings: []
   errors: []
 ---
@@ -107,16 +126,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinto o direito ao abono de família em relação aos ascendentes e equiparados dos trabalhadores referidos no artigo 2.º do [Decreto-Lei n.º 197/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1977-252069), de 17 de Maio.
+Artigo 1.º É extinto o direito ao abono de família em relação aos ascendentes e equiparados dos trabalhadores referidos no artigo 2.º do [Decreto-Lei n.º 197/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1977-252069), de 17 de Maio.
 
-###### Art. 2.º Os ascendentes e equiparados a cargo dos trabalhadores mencionados no artigo anterior têm direito a assistência médica e medicamentosa nas condições estabelecidas no diploma regulamentar aplicável.
+Art. 2.º Os ascendentes e equiparados a cargo dos trabalhadores mencionados no artigo anterior têm direito a assistência médica e medicamentosa nas condições estabelecidas no diploma regulamentar aplicável.
 
-###### Art. 3.º O presente diploma entra em vigor em 1 de Julho de 1978.
+Art. 3.º O presente diploma entra em vigor em 1 de Julho de 1978.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Duarte Arnaut.
 
-**Promulgado em 3 de Julho de 1978.**
+Promulgado em 3 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

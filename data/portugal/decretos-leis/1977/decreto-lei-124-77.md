@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/07700/06690676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d9113dbef05ff4be8763aefcb3f17ca2718cbbc6f66a387361d6a54c0b2be1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ff1414078389501b5fe26944050dc57bfce826d8ea741ef9a3bbd4dec193f69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Gestão Financeira da Segurança Social
+- Orgânica
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:374620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393411:por
+  label: "Alterados os artigos 12.º e 20.º, revogada a alínea d) do n.º 2 do artigo 1.º e os artigos 21.º, 22.º, 24.º e 39.º,\
+    \ pelo DEC LEI.23/79.14.02.1979.PCM, DR.IS [38] de 14.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1979-393411
+  date: '1979-02-14'
+- type: amended_by
+  target: pt:dre:470789:por
+  label: "Alterados os artigos 18.º e 19.º pelo DEC LEI.290/80.16.08.1980.PCM, DR.IS [188] de 16.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1980-470789
+  date: '1980-08-16'
+- type: amended_by
+  target: pt:dre:401027:por
+  label: Alterado o n.º 1 do art. 15.º do presente diploma, na redacção que lhe foi dada pelo Dec Lei 112/83, de 22-fev, pelo(a)
+    Decreto-Lei n.º 381/84 - Diário da República n.º 279/1984, Série I de 1984-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-1984-401027
+  date: '1984-12-03'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Passou para a dependência do Ministro da Solidariedade e Segurança Social, através do DEC LEI.296-A/95.1995.11.17.PCM,\
+    \ DR.IS-A [266]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:221738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139955:por
+  label: Retificado o presente diploma, que passa a constituir o Decreto Regulamentar 24/77 de 01-abr, pelo(a) Declaração
+    - Diário da República n.º 88/1977, Série I de 1977-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139955
+  date: '1977-04-15'
+- type: repealed_by
+  target: pt:dre:374620:por
+  label: Revogado pelo(a) Decreto-Lei n.º 260/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1999-374620
+  date: '1999-07-07'
 article_structure:
   article_count: 42
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:42Z'
   warnings: []
   errors: []
 ---
@@ -602,8 +661,8 @@ O presente diploma entra imediatamente em vigor, reportando-se o início da acti
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - António Miguel Morais Barreto - António Francisco Barroso de Sousa Gomes - Armando Bacelar.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

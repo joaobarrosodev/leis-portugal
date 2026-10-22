@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17100/16551656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/591-1976-430642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a43efea5f6667dab68c10b692c1168904a40e445bfd1913abe63c89a5ead5282
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eba559c0d182408125256e62e9ef7b18d017b0b4cb06065cedd0bd985a90677e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Macau
+- Magistrado do Ministério Público
+- Ministério Público
+- Polícia Judiciária
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:287658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:28Z'
   warnings: []
   errors: []
 ---
@@ -106,32 +123,32 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado em Macau um juízo de instrução criminal, em que haverá um juiz de instrução e um magistrado do Ministério Público.
+Artigo 1.º É criado em Macau um juízo de instrução criminal, em que haverá um juiz de instrução e um magistrado do Ministério Público.
 
-###### Art. 2.º - 1.ª Compete ao juiz de instrução criminal dirigir a instrução preparatória e a instrução contraditória nos processos comuns e nos processos de segurança e proferir despachos de pronúncia e de não pronúncia.
+Art. 2.º - 1.ª Compete ao juiz de instrução criminal dirigir a instrução preparatória e a instrução contraditória nos processos comuns e nos processos de segurança e proferir despachos de pronúncia e de não pronúncia.
 
 2. A competência referida no número anterior abrange a validação e manutenção das capturas, a decisão sobre liberdade provisória, a aplicação provisória de medidas de segurança, a admissão de assistente e a condenação em multa e imposto de justiça.
 
-###### Art. 3.º No decurso da instrução preparatória poderá o juiz solicitar à Polícia Judiciária a realização das diligências que julgar convenientes.
+Art. 3.º No decurso da instrução preparatória poderá o juiz solicitar à Polícia Judiciária a realização das diligências que julgar convenientes.
 
-###### Art. 4.º - 1. Finda a instrução, o juiz mandará os autos com vista ao Ministério Público para deduzir acusação ou promover o que tiver por conveniente.
+Art. 4.º - 1. Finda a instrução, o juiz mandará os autos com vista ao Ministério Público para deduzir acusação ou promover o que tiver por conveniente.
 
 2. Transitado em julgado o despacho de pronúncia, o juiz ordenará a remessa do processo ao tribunal competente.
 
-###### Art. 5.º As funções do Ministério Público junto do juízo de instrução criminal poderão ser exercidas pelo director da Polícia Judiciária.
+Art. 5.º As funções do Ministério Público junto do juízo de instrução criminal poderão ser exercidas pelo director da Polícia Judiciária.
 
-###### Art. 6.º Nas suas faltas e impedimentos, o juiz de instrução será substituído, em primeiro lugar, pelo conservador do registo predial, e, em segundo lugar, pelo conservador do registo civil.
+Art. 6.º Nas suas faltas e impedimentos, o juiz de instrução será substituído, em primeiro lugar, pelo conservador do registo predial, e, em segundo lugar, pelo conservador do registo civil.
 
-###### Art. 7.º Enquanto não for criado o quadro da secretaria do juízo de instrução criminal, os respectivo serviços correrão pela secretaria do tribunal da comarca, podendo para elas ser destacados um ou mais funcionários desta secretaria ou da Polícia Judiciária.
+Art. 7.º Enquanto não for criado o quadro da secretaria do juízo de instrução criminal, os respectivo serviços correrão pela secretaria do tribunal da comarca, podendo para elas ser destacados um ou mais funcionários desta secretaria ou da Polícia Judiciária.
 
-###### Art. 8.º São revogados os artigos 23.º e 29.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945.
+Art. 8.º São revogados os artigos 23.º e 29.º do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - João de Deus Pinheiro Farinha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado no Boletim Oficial de Macau. - Vítor Manuel Trigueiros Crespo.

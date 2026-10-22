@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 302/1974, 1º Suplemento, Série I de 1974-12-30
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1646-(8) a 1646-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30201/00080010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/761-1974-256807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6683dfc812caf1de257d2cde4dc12f950e0482688a4be6f6e8880a83c4ba6aec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18556d64ca1cfafc272a4bdc8e2dd89b8b0a0c409adbce52e9e27c4b3e68f609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Orgânica
+- Secretaria de Estado do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:621349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:303109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621349:por
+  label: "Revogado pelo DEC LEI.47/78.21.03.1978.MT, DR.IS [67]Supl de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1978-621349
+  date: '1978-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:13Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +124,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ### CAPÍTULO I — Atribuições e organização
 
-###### Artigo 1.º A Secretaria de Estado do Trabalho tem como atribuições:
+Artigo 1.º A Secretaria de Estado do Trabalho tem como atribuições:
 
 a) Promover a melhoria das condições de trabalho, quer garantindo o cumprimento das normas obrigatórias quer propondo a alteração das normas vigentes;
 
@@ -122,7 +138,7 @@ e) Estabelecer as medidas regulamentares adequadas ao depósito das convenções
 
 f) Desenvolver esquemas activos de preenchimento de tempos livres em colaboração com instituições destinadas a essa finalidade.
 
-###### Art. 2.º - 1. Para o desempenho das suas atribuições a Secretaria de Estado do Trabalho dispõe dos seguintes serviços:
+Art. 2.º - 1. Para o desempenho das suas atribuições a Secretaria de Estado do Trabalho dispõe dos seguintes serviços:
 
 a) Inspecção-Geral do Trabalho;
 
@@ -144,7 +160,7 @@ c) Pronunciar-se sobre outras questões do domínio do trabalho em que se consid
 
 ### CAPÍTULO II — Inspecção-Geral do Trabalho
 
-###### Art. 3.º - 1. A Inspecção-Geral do Trabalho é dirigida por um inspector-geral, directamente dependente do Secretário de Estado do Trabalho, e compreende:
+Art. 3.º - 1. A Inspecção-Geral do Trabalho é dirigida por um inspector-geral, directamente dependente do Secretário de Estado do Trabalho, e compreende:
 
 a) Serviços centrais;
 
@@ -152,7 +168,7 @@ b) Delegações regionais.
 
 2. As delegações regionais serão chefiadas por um inspector ou por um subinspector.
 
-###### Art. 4.º À Inspecção-Geral do Trabalho compete:
+Art. 4.º À Inspecção-Geral do Trabalho compete:
 
 a) Fiscalizar o cumprimento da legislação do trabalho através de acções de carácter informativo ou orientador e repressivo;
 
@@ -160,7 +176,7 @@ b) Colaborar nas acções de reformulação das condições jurídicas da presta
 
 ### CAPÍTULO III — Direcção-Geral do Trabalho
 
-###### Art. 5.º À Direcção-Geral do Trabalho compete:
+Art. 5.º À Direcção-Geral do Trabalho compete:
 
 a) Coordenar e superintender na actuação dos serviços que a integram;
 
@@ -174,13 +190,13 @@ e) Conceder as autorizações e aprovações previstas na lei;
 
 f) Elaborar pareceres e prestar apoio técnico sobre assuntos da sua competência.
 
-###### Art. 6.º A Direcção-Geral do Trabalho compreende:
+Art. 6.º A Direcção-Geral do Trabalho compreende:
 
 a) A Direcção de Serviços do Trabalho;
 
 b) A Direcção de Serviços de Prevenção de Riscos Profissionais.
 
-###### Art. 7.º À Direcção de Serviços do Trabalho compete:
+Art. 7.º À Direcção de Serviços do Trabalho compete:
 
 a) O registo e depósito das convenções colectivas de trabalho;
 
@@ -198,9 +214,9 @@ g) A apreciação dos requisitos legais da actuação dos profissionais de espec
 
 h) A elaboração de pareceres sobre assuntos da sua competência.
 
-###### Art. 8.º A Direcção de Serviços do Trabalho é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
+Art. 8.º A Direcção de Serviços do Trabalho é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
 
-###### Art. 9.º - 1. À Direcção de Serviços de Prevenção de Riscos Profissionais compete:
+Art. 9.º - 1. À Direcção de Serviços de Prevenção de Riscos Profissionais compete:
 
 a) O estudo das condições psicofisiológicas e ambientais da prestação do trabalho;
 
@@ -210,11 +226,11 @@ c) O apoio aos interessados no domínio da sua competência técnica, nomeadamen
 
 2. Para o desempenho das suas atribuições a Direcção de Serviços de Prevenção de Riscos Profissionais articulará a sua actuação com os serviços competentes da Secretaria de Estado da Saúde nos termos que vierem a ser definidos por despacho conjunto dos Ministros do Trabalho e dos Assuntos Sociais.
 
-###### Art. 10.º A Direcção de Serviços de Prevenção de Riscos Profissionais é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
+Art. 10.º A Direcção de Serviços de Prevenção de Riscos Profissionais é chefiada por um director de serviços e terá a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
 
 ### CAPÍTULO IV — Direcção-Geral das Relações Colectivas de Trabalho
 
-###### Art. 11.º À Direcção-Geral das Relações Colectivas de Trabalho compete:
+Art. 11.º À Direcção-Geral das Relações Colectivas de Trabalho compete:
 
 a) Coordenar e superintender na actuação dos serviços que a integram;
 
@@ -224,7 +240,7 @@ c) Participar, nos termos da lei, em comissões paritárias;
 
 d) Participar nas tentativas de resolução dos conflitos colectivos de trabalho.
 
-###### Art. 12.º - 1. A Direcção-Geral das Relações Colectivas de Trabalho compreende:
+Art. 12.º - 1. A Direcção-Geral das Relações Colectivas de Trabalho compreende:
 
 a) A Direcção de Serviços das Relações Colectivas de Trabalho de Lisboa;
 
@@ -236,30 +252,30 @@ c) A Direcção de Serviços Regionais das Relações Colectivas de Trabalho.
 
 3. A Direcção de Serviços Regionais das Relações Colectivas de Trabalho abrange as delegações regionais que vierem a ser criadas fora das áreas das Direcções de Serviços de Lisboa e Porto, cuja actividade lhe cabe coordenar e disciplinar.
 
-###### Art. 13.º Os serviços indicados no artigo anterior têm, na área da sua competência, as funções referidas no artigo 11.º, além de outras que lhes sejam atribuídas por despacho do Secretário de Estado do Trabalho.
+Art. 13.º Os serviços indicados no artigo anterior têm, na área da sua competência, as funções referidas no artigo 11.º, além de outras que lhes sejam atribuídas por despacho do Secretário de Estado do Trabalho.
 
-###### Art. 14.º As Direcções de Serviços das Relações Colectivas de Trabalho são chefiadas por um director de serviços e terão a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
+Art. 14.º As Direcções de Serviços das Relações Colectivas de Trabalho são chefiadas por um director de serviços e terão a orgânica interna que vier a ser definida por portaria do Ministro do Trabalho.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 15.º É extinta a Direcção-Geral do Trabalho e Corporações.
+Art. 15.º É extinta a Direcção-Geral do Trabalho e Corporações.
 
-###### Art. 16.º O pessoal e meios técnicos afectos à Inspecção do Trabalho, dependente da extinta Direcção-Geral do Trabalho e Corporações, transitam, com dispensa de quaisquer formalidades legais, para a Inspecção-Geral do Trabalho.
+Art. 16.º O pessoal e meios técnicos afectos à Inspecção do Trabalho, dependente da extinta Direcção-Geral do Trabalho e Corporações, transitam, com dispensa de quaisquer formalidades legais, para a Inspecção-Geral do Trabalho.
 
-###### Art. 17.º O pessoal e os meios técnicos afectos às Direcções de Serviços do Trabalho e da Organização Corporativa da extinta Direcção-Geral do Trabalho e Corporações transitam, com dispensa de quaisquer formalidades, para os serviços criados ou que venham a ser criados no âmbito da Direcção-Geral do Trabalho.
+Art. 17.º O pessoal e os meios técnicos afectos às Direcções de Serviços do Trabalho e da Organização Corporativa da extinta Direcção-Geral do Trabalho e Corporações transitam, com dispensa de quaisquer formalidades, para os serviços criados ou que venham a ser criados no âmbito da Direcção-Geral do Trabalho.
 
-###### Art. 18.º O pessoal e os meios técnicos afectos ao Serviço de Prevenção de Riscos Profissionais, criado pelo [Decreto n.º 1/74](https://diariodarepublica.pt/dr/detalhe/decreto/1-1974-303109), de 5 de Janeiro, transitam, com dispensa de quaisquer formalidades, para a Direcção-Geral do Trabalho.
+Art. 18.º O pessoal e os meios técnicos afectos ao Serviço de Prevenção de Riscos Profissionais, criado pelo [Decreto n.º 1/74](https://diariodarepublica.pt/dr/detalhe/decreto/1-1974-303109), de 5 de Janeiro, transitam, com dispensa de quaisquer formalidades, para a Direcção-Geral do Trabalho.
 
-###### Art. 19.º Os meios técnicos afectos aos Serviços de Acção Social e às delegações e subdelegações do extinto INTP transitam, sem mais formalidades, para a Direcção-Geral das Relações Colectivas de Trabalho.
+Art. 19.º Os meios técnicos afectos aos Serviços de Acção Social e às delegações e subdelegações do extinto INTP transitam, sem mais formalidades, para a Direcção-Geral das Relações Colectivas de Trabalho.
 
-###### Art. 20.º Enquanto não for legalmente definido e preenchido, por nomeação ou provimento individual, o quadro de pessoal do Ministério do Trabalho, os funcionários ou servidores dos serviços referidos nos artigos 15.º a 19.º deste diploma manterão, provisoriamente, a situação anterior.
+Art. 20.º Enquanto não for legalmente definido e preenchido, por nomeação ou provimento individual, o quadro de pessoal do Ministério do Trabalho, os funcionários ou servidores dos serviços referidos nos artigos 15.º a 19.º deste diploma manterão, provisoriamente, a situação anterior.
 
-###### Art. 21.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decreto referendado pelos Ministros das Finanças e do Trabalho.
+Art. 21.º As alterações orçamentais necessárias à execução deste decreto-lei serão efectuadas por decreto referendado pelos Ministros das Finanças e do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Inácio da Costa Martins.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

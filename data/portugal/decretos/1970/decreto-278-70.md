@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/278-1970-140854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 727819c5c99b45d5220bed22b4d5aa79ab6c7c0a34f42e7224fe5a3121ba97b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11a3b6385501817c5a09f4c0b66966b7731ef14ad92a14846dbd426098a2bbfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:56Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +108,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Educação Nacional:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Educação Nacional:
 
 No capítulo 8.º:
 
@@ -96,51 +116,51 @@ Do artigo 983.º, n.º 1) «Pessoal dos quadros ...» ... -10000000$00
 
 Para o artigo 984.º, n.º 1) «Horas extraordinárias ao pessoal docente» ... +10000000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 5165650$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 5165650$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
 Secretaria de Estado do Tesouro
 
-### Capítulo 8.º «Inspecção-Geral de Crédito e Seguros»:
+Capítulo 8.º «Inspecção-Geral de Crédito e Seguros»:
 
-###### Artigo 115.º «Remunerações certas ao pessoal em exercício»:
+Artigo 115.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante oito meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/06/14100/08040804.pdf))](https://files.diariodarepublica.pt/1s/1970/06/14100/08040804.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/06/14100/08040804.pdf)
 
-###### Artigo 116.º, n.º 1) «Gratificações pelos serviços de inspecção» (a) ... 80000$00
+Artigo 116.º, n.º 1) «Gratificações pelos serviços de inspecção» (a) ... 80000$00
 
 ... 355200$00
 
 Ministério da Justiça
 
-### Capítulo 6.º »Direcção-Geral dos Registos e do Notariado - Direcção dos Serviços de Identificação - Anexo - Centro de Informática»:
+Capítulo 6.º »Direcção-Geral dos Registos e do Notariado - Direcção dos Serviços de Identificação - Anexo - Centro de Informática»:
 
-###### Artigo 470.º-A «Outros encargos»:
+Artigo 470.º-A «Outros encargos»:
 
 N.º 1) «Para satisfação de todos os encargos com o Centro de Informática, nos termos do artigo 14.º do [Decreto-Lei n.º 154/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1970-225829), de 11 de Abril» ... 4810450$00
 
 ... 5165650$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 15.º «Estampilhas fiscais (Receitas por meio de)» ... 4555150$00
+Capítulo 2.º, artigo 15.º «Estampilhas fiscais (Receitas por meio de)» ... 4555150$00
 
 Ministério das Finanças
 
-### Capítulo 4.º, artigo 47.º ... 355200$00
+Capítulo 4.º, artigo 47.º ... 355200$00
 
 Ministério da Justiça
 
-### Capítulo 6.º, artigo 452.º, n.º 1) ... 74900$00
+Capítulo 6.º, artigo 452.º, n.º 1) ... 74900$00
 
-### Capítulo 6.º, artigo 461.º, n.º 1) ... 180400$00
+Capítulo 6.º, artigo 461.º, n.º 1) ... 180400$00
 
 ... 255300$00
 
@@ -150,8 +170,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 8 de Junho de 1970.**
+Promulgado em 8 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

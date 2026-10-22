@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed03364b6009144e3769f189d4b0c8483e90cb64b23bf6f8d30242b7e1dfa619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8ff1ec2ae29c7244581c5672923d3298761b1f94e7a13689035e88705fcca30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência Financial de Portugal no Brasil
+- Banca
+- Caixa Geral de Depósitos
+relationships:
+- type: cites
+  target: pt:dre:335936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:08Z'
   warnings: []
   errors: []
 ---
@@ -95,48 +106,48 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 7.º, 8.º, 12.º, n.º 2, 14.º, n.º 1, e 16.º do [Decreto-Lei n.º 265/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1975-335936), de 28 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 7.º, 8.º, 12.º, n.º 2, 14.º, n.º 1, e 16.º do [Decreto-Lei n.º 265/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1975-335936), de 28 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 6.º A direcção executiva de cada dependência será exercida por um órgão singular ou colectivo cuja designação, composição, competência e regras de funcionamento serão fixadas pelo conselho de administração da Caixa Geral de Depósitos, tendo em conta as particularidades e necessidades de cada uma.
+Art. 6.º A direcção executiva de cada dependência será exercida por um órgão singular ou colectivo cuja designação, composição, competência e regras de funcionamento serão fixadas pelo conselho de administração da Caixa Geral de Depósitos, tendo em conta as particularidades e necessidades de cada uma.
 
-###### Art. 7.º Os titulares do órgão referido no artigo anterior serão contratados ou designados pelo conselho de administração da Caixa.
+Art. 7.º Os titulares do órgão referido no artigo anterior serão contratados ou designados pelo conselho de administração da Caixa.
 
-###### Art. 8.º A organização dos serviços de cada dependência será estabelecida em regulamento interno aprovado pelo conselho de administração da Caixa.
+Art. 8.º A organização dos serviços de cada dependência será estabelecida em regulamento interno aprovado pelo conselho de administração da Caixa.
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 2 - Compete ao conselho de administração da Caixa Geral de Depósitos aprovar o orçamento e o plano de actividades referidos no n.º 1
 
-###### Art. 14.º - 1 - Na aplicação dos resultados serão constituídas as reservas e provisões convenientes e será também considerada a remuneração a conceder à participação financeira da Caixa, a que alude o artigo 3.º
+Art. 14.º - 1 - Na aplicação dos resultados serão constituídas as reservas e provisões convenientes e será também considerada a remuneração a conceder à participação financeira da Caixa, a que alude o artigo 3.º
 
-###### Art. 16.º As contas das dependências e a aplicação dos resultados serão apreciadas pelo conselho de administração da Caixa, cuja aprovação as legitima para todos os efeitos.
+Art. 16.º As contas das dependências e a aplicação dos resultados serão apreciadas pelo conselho de administração da Caixa, cuja aprovação as legitima para todos os efeitos.
 
-###### Art. 2.º A Agência Financial de Portugal, a que se refere o [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho, passa a denominar-se Banco Financial Português.
+Art. 2.º A Agência Financial de Portugal, a que se refere o [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho, passa a denominar-se Banco Financial Português.
 
-###### Art. 3.º Os artigos 7.º, 8.º, 9.º, 14.º, n.º 2, 16.º, n.º 2, e 17.º do [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 7.º, 8.º, 9.º, 14.º, n.º 2, 16.º, n.º 2, e 17.º do [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 7.º A direcção executiva do Banco Financial Português será exercida por um órgão singular ou colectivo cuja designação, composição, competência e regras de funcionamento serão fixadas pelo conselho de administração da Caixa, tendo em conta as particularidades e necessidades do Banco.
+Art. 7.º A direcção executiva do Banco Financial Português será exercida por um órgão singular ou colectivo cuja designação, composição, competência e regras de funcionamento serão fixadas pelo conselho de administração da Caixa, tendo em conta as particularidades e necessidades do Banco.
 
-###### Art. 8.º O titular ou titulares do órgão referido no artigo anterior serão contratados ou designados pelo conselho de administração da Caixa, mantendo os de nacionalidade portuguesa, sem direito a qualquer remuneração, as qualidades de adido financeiro ou de adido financeiro-adjunto à Embaixada de Portugal no Brasil.
+Art. 8.º O titular ou titulares do órgão referido no artigo anterior serão contratados ou designados pelo conselho de administração da Caixa, mantendo os de nacionalidade portuguesa, sem direito a qualquer remuneração, as qualidades de adido financeiro ou de adido financeiro-adjunto à Embaixada de Portugal no Brasil.
 
-###### Art. 9.º A organização dos serviços do Banco Financial Português será estabelecida em regulamento aprovado pelo conselho de administração da Caixa Geral de Depósitos.
+Art. 9.º A organização dos serviços do Banco Financial Português será estabelecida em regulamento aprovado pelo conselho de administração da Caixa Geral de Depósitos.
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 2 - Compete ao conselho de administração da Caixa Geral de Depósitos aprovar o orçamento e o plano de actividades referidos no n.º 1.
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - Na aplicação dos resultados serão constituídas as reservas e provisões convenientes, tendo em vista reforçar a solidez financeira do Banco Financial Português, e será também considerada a remuneração a conceder à participação financeira da Caixa Geral de Depósitos, a que alude o artigo 10.º
 
-###### Art. 17.º As contas do Banco Financial Português e a aplicação dos resultados serão apreciadas pelo conselho de administração da Caixa Geral de Depósitos, cuja aprovação as legitima para todos os efeitos.
+Art. 17.º As contas do Banco Financial Português e a aplicação dos resultados serão apreciadas pelo conselho de administração da Caixa Geral de Depósitos, cuja aprovação as legitima para todos os efeitos.
 
-###### Art. 4.º São revogados os artigos 5.º do [Decreto-Lei n.º 265/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1975-335936), de 28 de Maio, e 6.º do [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho.
+Art. 4.º São revogados os artigos 5.º do [Decreto-Lei n.º 265/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1975-335936), de 28 de Maio, e 6.º do [Decreto-Lei n.º 210/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1972-674006), de 23 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 23 de Julho de 1981.**
+Promulgado em 23 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

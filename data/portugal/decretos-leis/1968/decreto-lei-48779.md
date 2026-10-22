@@ -47,40 +47,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48779-1968-257189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d7167758eab56adc113338b036cbd65ced3bfe368e3ca5b32d1bba7f268c556
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcdbd92a9dd12667448cf8920aa6010d8d0ff5d5048eec867177981235f1b084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Assembleia Nacional
+- Câmara Corporativa
+- Condutor
+- Extinção de Lugares
+- Formas de Provimento
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
+- Tempo de Serviço
+- Transferência de Competências
+- Transferência de Pessoal
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:159488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:674399:por
+  label: "Extintos, os lugares de redactor e de catalogador de 2.ª classe do quadro de pessoal referido pelo art. 2º do presente\
+    \ diploma, pelo DEC LEI.226/72.05.07.1972.PC, DG.IS [155] de 05.07.1972, a partir da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1972-674399
+  date: '1972-07-05'
+- type: amended_by
+  target: pt:dre:159488:por
+  label: "Extinta a Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa (criada como Secretaria-Geral da Assembleia\
+    \ Nacional pelo Dec Lei 44943 de 20-Mar de 1963), posteriormente redenominada e reorganizada no presente diploma, pelo\
+    \ DEC LEI.39/75.01.02.1975.PCM, DG.IS [27] de 01.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1975-159488
+  date: '1975-02-01'
+- type: cites
+  target: pt:dre:251639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:50Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +162,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A actual Secretaria-Geral da Assembleia Nacional passa a designar-se Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa e compreende os seguintes serviços:
+Artigo 1.º A actual Secretaria-Geral da Assembleia Nacional passa a designar-se Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa e compreende os seguintes serviços:
 
 a) 1.º secção - Serviços legislativos da Assembleia Nacional;
 
@@ -115,35 +178,35 @@ f) Biblioteca, arquivo e museu histórico-bibliográfico;
 
 g) Serviços de relações públicas, informação e publicidade.
 
-###### Art. 2.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente decreto-lei.
+Art. 2.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente decreto-lei.
 
 2. O secretário-geral determinará, por despacho, a orgânica interna dos serviços e a distribuição do pessoal.
 
-###### Art. 3.º Os lugares de chefe de secção serão providos por nomeação do Presidente do Conselho, mediante proposta do secretário-geral, entre os primeiros-oficiais do quadro único a que se referem o artigo 14.º do [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, e o § 1.º do artigo 1.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, desde que tenham mais de três anos de bom e efectivo serviço, ou entre diplomados com curso superior. Neste último caso, a nomeação terá carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver bom e efectivo serviço, ou exonerado, no caso contrário.
+Art. 3.º Os lugares de chefe de secção serão providos por nomeação do Presidente do Conselho, mediante proposta do secretário-geral, entre os primeiros-oficiais do quadro único a que se referem o artigo 14.º do [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, e o § 1.º do artigo 1.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, desde que tenham mais de três anos de bom e efectivo serviço, ou entre diplomados com curso superior. Neste último caso, a nomeação terá carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver bom e efectivo serviço, ou exonerado, no caso contrário.
 
-###### Art. 4.º Os lugares de catalogador serão providos, por nomeação, entre indivíduos que hajam concluído o 2.º ciclo liceal ou possuam habilitação equivalente. Estas nomeações serão feitas nos termos estabelecidos na última parte do artigo anterior.
+Art. 4.º Os lugares de catalogador serão providos, por nomeação, entre indivíduos que hajam concluído o 2.º ciclo liceal ou possuam habilitação equivalente. Estas nomeações serão feitas nos termos estabelecidos na última parte do artigo anterior.
 
-###### Art. 5.º - 1. A nomeação dos auditores e técnicos da Câmara Corporativa, quando não seja feita em comissão de serviço, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 48618](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48618-1968-264349), de 10 de Outubro de 1968, obedecerá ao regime estabelecido na parte final do artigo 3.º do presente diploma.
+Art. 5.º - 1. A nomeação dos auditores e técnicos da Câmara Corporativa, quando não seja feita em comissão de serviço, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 48618](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48618-1968-264349), de 10 de Outubro de 1968, obedecerá ao regime estabelecido na parte final do artigo 3.º do presente diploma.
 
 2. Fica extinto, a partir de 1 de Janeiro de 1969, o lugar de técnico criado pelo artigo 1.º do [Decreto-Lei n.º 42750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42750-1959-441881), de 22 de Dezembro de 1959, considerando-se o seu actual titular investido desde essa data, e sem dependência de quaisquer formalidades, num dos lugares de técnico de 1.ª classe criado pelo [Decreto-Lei n.º 48618](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48618-1968-264349).
 
-###### Art. 6.º - 1. Passam para a administração da Secretaria-Geral, a partir de 1 de Janeiro de 1969, os automóveis de serviço dos presidentes da Assembleia Nacional e da Câmara Corporativa.
+Art. 6.º - 1. Passam para a administração da Secretaria-Geral, a partir de 1 de Janeiro de 1969, os automóveis de serviço dos presidentes da Assembleia Nacional e da Câmara Corporativa.
 
 2. A partir da mesma data, consideram-se transferidos da Secretaria-Geral da Presidência do Conselho para a Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa, sem dependência de quaisquer formalidades, os dois condutores de automóveis actualmente afectos ao serviço referido no n.º 1, bem como um porteiro de 2.ª classe, a designar por despacho ministerial, ficando extintos os respectivos lugares na primeira das mencionadas secretarias-gerais.
 
-###### Art. 7.º - 1. Ao pessoal do quadro único a que se referem os diplomas citados no artigo 3.º será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado e seus serviços autónomos ou aos corpos administrativos anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º, §§ 1.º e 2.º, do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º, § único, do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+Art. 7.º - 1. Ao pessoal do quadro único a que se referem os diplomas citados no artigo 3.º será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado e seus serviços autónomos ou aos corpos administrativos anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º, §§ 1.º e 2.º, do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º, § único, do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
 
 2. É concedido o prazo de cento e oitenta dias, a partir da vigência deste decreto-lei, para o pessoal que queira beneficiar do disposto no número antecedente requerer a contagem de tempo de serviço anteriormente prestado.
 
 3. Os pedidos serão dirigidos à Caixa Geral de Aposentações e instruídos com os documentos comprovativos.
 
-###### Art. 8.º Ao pessoal requisitado para prestar serviço na Presidência do Conselho, ao abrigo do [Decreto-Lei n.º 39222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39222-1953-643880), de 26 de Maio de 1953, e do artigo 13.º do [Decreto-Lei n.º 41383](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41383-1957-251639), de 22 de Novembro de 1957, é aplicável o disposto no § 3.º do artigo 7.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966.
+Art. 8.º Ao pessoal requisitado para prestar serviço na Presidência do Conselho, ao abrigo do [Decreto-Lei n.º 39222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39222-1953-643880), de 26 de Maio de 1953, e do artigo 13.º do [Decreto-Lei n.º 41383](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41383-1957-251639), de 22 de Novembro de 1957, é aplicável o disposto no § 3.º do artigo 7.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 12 de Dezembro de 1968.**
+Promulgado em 12 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

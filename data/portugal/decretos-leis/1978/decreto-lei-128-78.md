@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12700/10021002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1978-294724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d57f89449d9243f01f5fff53e4e471ff941ea5e132c6e3b2b6fa158a89e33d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e77800077681f3c3f1de9b18a9dd73f919b18ac574044fcc62246c8e257b211
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Proteção no Desemprego
+- Segurança Social
+- Subsídio de Desemprego
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:363285:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:363285:por
+  label: "Revogado pelo DEC LEI.445/79.09.11.1979.MT, DR.IS [259] de 09.11.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/445-1979-363285
+  date: '1979-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:57Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +110,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O montante mensal do subsídio de desemprego para os trabalhadores por conta de outrem a tempo completo será, respectivamente, de 4200$00 e 3200$00, consoante tenham ou não familiares a seu cargo.
+Artigo 1.º O montante mensal do subsídio de desemprego para os trabalhadores por conta de outrem a tempo completo será, respectivamente, de 4200$00 e 3200$00, consoante tenham ou não familiares a seu cargo.
 
-###### Art. 2.º Fica revogado o disposto nos n.os 1 e 3 do artigo 8.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio.
+Art. 2.º Fica revogado o disposto nos n.os 1 e 3 do artigo 8.º do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio.
 
-###### Art. 3.º O presente diploma produz efeitos a partir do dia 1 de Abril de 1978.
+Art. 3.º O presente diploma produz efeitos a partir do dia 1 de Abril de 1978.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Manuel Maldonado Gonelha.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 22 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.

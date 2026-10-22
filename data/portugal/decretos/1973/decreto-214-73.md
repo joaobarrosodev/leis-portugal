@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/214-1973-421982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a8a21173047e76dc374dc31f75f267630a9228f3f58763d04f30a8d05668008
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 558db5481a2aab6d065178236ec4e3bedab1c4ac51dff5c62369e3bec31bcdec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho Geral
+- Definição de Competências
+- Fundo de Fomento da Habitação
+- Orgânica
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:486306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:486306:por
+  label: "Extinto o Conselho Geral do FFH pelo DEC LEI.701/74.07.12.1974.MESA, DG.IS [285-Supl] de 07.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/701-1974-486306
+  date: '1974-12-07'
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665133:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:23Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +121,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Dos órgãos directivos do Fundo de Fomento da Habitação
 
-###### Artigo 1.º O Fundo de Fomento da Habitação, adiante designado por Fundo, tem como órgãos:
+Artigo 1.º O Fundo de Fomento da Habitação, adiante designado por Fundo, tem como órgãos:
 
 a) O presidente;
 
@@ -102,7 +129,7 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 2.º - 1. Ao presidente do Fundo compete:
+Art. 2.º - 1. Ao presidente do Fundo compete:
 
 a) Dirigir superiormente os serviços do Fundo, assegurando a observância das disposições legais e regulamentares em vigor, de modo a obter a conveniente unidade administrativa e a maior eficiência, regularidade e rapidez na execução das respectivas funções;
 
@@ -120,15 +147,15 @@ f) Representar o Fundo em juízo e fora dele.
 
 3. Nas suas faltas e impedimentos o presidente será substituído pelo vice-presidente, para o efeito designado pelo Ministro das Obras Públicas.
 
-###### Art. 3.º - 1. O Ministro das Obras Públicas definirá por despacho o âmbito da competência dos vice-presidentes em matéria executiva, com expressa referência dos serviços cuja superintendência fica confiada a cada um.
+Art. 3.º - 1. O Ministro das Obras Públicas definirá por despacho o âmbito da competência dos vice-presidentes em matéria executiva, com expressa referência dos serviços cuja superintendência fica confiada a cada um.
 
 2. Os vice-presidentes assistirão às reuniões do conselho geral do Fundo.
 
-###### Art. 4.º Salvo quanto ao patrocínio judiciário, a representação do Fundo prevista na alínea f) do artigo 2.º poderá efectivar-se, no que respeita a actos e contratos, mediante simples credencial subscrita pelo presidente ou seu substituto e autenticada pelo selo em relevo do Fundo de Fomento da Habitação.
+Art. 4.º Salvo quanto ao patrocínio judiciário, a representação do Fundo prevista na alínea f) do artigo 2.º poderá efectivar-se, no que respeita a actos e contratos, mediante simples credencial subscrita pelo presidente ou seu substituto e autenticada pelo selo em relevo do Fundo de Fomento da Habitação.
 
-###### Art. 5.º Os representantes no conselho geral referidos nas alíneas a) a e) do artigo 19.º do [Decreto-Lei n.º 573/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1972-665117), de 30 de Dezembro, serão designados pelo respectivo Ministro, pelo período de dois anos, considerando-se que a primeira nomeação termina em 31 de Dezembro de 1974.
+Art. 5.º Os representantes no conselho geral referidos nas alíneas a) a e) do artigo 19.º do [Decreto-Lei n.º 573/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1972-665117), de 30 de Dezembro, serão designados pelo respectivo Ministro, pelo período de dois anos, considerando-se que a primeira nomeação termina em 31 de Dezembro de 1974.
 
-###### Art. 6.º - 1. Os municípios representados no conselho geral serão designados por períodos de dois anos, em reunião dos representantes das câmaras municipais na Câmara Corporativa, especialmente convocados para o efeito pelo Ministro das Obras Públicas.
+Art. 6.º - 1. Os municípios representados no conselho geral serão designados por períodos de dois anos, em reunião dos representantes das câmaras municipais na Câmara Corporativa, especialmente convocados para o efeito pelo Ministro das Obras Públicas.
 
 2. Na designação referida no n.º 1 deverá procurar-se assegurar a representação equilibrada das várias regiões do País e dos municípios urbanos e rurais.
 
@@ -136,15 +163,15 @@ f) Representar o Fundo em juízo e fora dele.
 
 4. Até 31 de Dezembro de 1973, a representação dos municípios no conselho geral será assegurada pelos representantes municipais no extinto conselho directivo do Fundo.
 
-###### Art. 7.º Os representantes no conselho geral da Caixa Nacional de Pensões e da Caixa Geral de Depósitos, Crédito e Previdência serão designados, respectivamente, pelo Ministro das Corporações e Previdência Social e pelo Conselho de Administração da Caixa.
+Art. 7.º Os representantes no conselho geral da Caixa Nacional de Pensões e da Caixa Geral de Depósitos, Crédito e Previdência serão designados, respectivamente, pelo Ministro das Corporações e Previdência Social e pelo Conselho de Administração da Caixa.
 
-###### Art. 8.º O representante no conselho geral das cooperativas de habitação será designado pelo Ministro das Obras Públicas, que terá em consideração a existência de organismos de segundo grau com âmbito nacional.
+Art. 8.º O representante no conselho geral das cooperativas de habitação será designado pelo Ministro das Obras Públicas, que terá em consideração a existência de organismos de segundo grau com âmbito nacional.
 
-###### Art. 9.º Os directores de serviços do Fundo assistirão às reuniões do conselho geral sempre que convocados pelo respectivo presidente.
+Art. 9.º Os directores de serviços do Fundo assistirão às reuniões do conselho geral sempre que convocados pelo respectivo presidente.
 
-###### Art. 10.º O conselho geral reunirá ordinariamente três vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 10.º O conselho geral reunirá ordinariamente três vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
-###### Art. 11.º - 1. Compete ao conselho geral:
+Art. 11.º - 1. Compete ao conselho geral:
 
 a) Aprovar o orçamento e o plano de actividades referentes ao ano civil seguinte, a submeter ao Ministro das Obras Públicas até 15 de Dezembro;
 
@@ -154,7 +181,7 @@ c) Aprovar a conta de gerência elaborada pelo conselho administrativo,
 
 2. Para o exercício da competência referida nas alíneas a) e c) do n.º 1, o conselho geral deverá reunir com, pelo menos, dois terços dos seus membros.
 
-###### Art. 12.º - 1. Compete ao conselho administrativo:
+Art. 12.º - 1. Compete ao conselho administrativo:
 
 a) Elaborar e propor ao conselho geral o orçamento e o plano de actividades referentes ao ano civil seguinte, até 30 de Novembro;
 
@@ -174,39 +201,39 @@ h) Deliberar sobre as matérias a que se refere a alínea f) do artigo 8.º do [
 
 2. O conselho administrativo reunirá ordináriamente duas vezes por mês e extraordinariamente sempre que convocado pelo presidente ou seu substituto.
 
-###### Art. 13.º Nas reuniões dos conselhos geral e administrativo, em caso de empate, o presidente tem voto de qualidade.
+Art. 13.º Nas reuniões dos conselhos geral e administrativo, em caso de empate, o presidente tem voto de qualidade.
 
-###### Art. 14.º As reuniões dos conselhos geral e administrativo serão secretariadas pelo chefe da Repartição Administrativa da Direcção dos Serviços de Finanças e Administração.
+Art. 14.º As reuniões dos conselhos geral e administrativo serão secretariadas pelo chefe da Repartição Administrativa da Direcção dos Serviços de Finanças e Administração.
 
 ### CAPÍTULO II — Dos serviços e do pessoal
 
-###### Art. 15.º - 1. O Fundo disporá dos seguintes serviços técnicos e administrativos:
+Art. 15.º - 1. O Fundo disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento, com uma Secção de Expediente Técnico;
 
 b) Direcção dos Serviços de Projectos, compreendendo:
 
-##### Divisão de Urbanização e Edifícios;
+Divisão de Urbanização e Edifícios;
 
 ##### Divisão Técnica Geral;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 c) Direcção dos Serviços de Obras, compreendendo:
 
 ##### Divisão de Construção;
 
-##### Divisão de Conservação;
+Divisão de Conservação;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 d) Direcção dos Serviços de Finanças e Administração, compreendendo:
 
-##### Divisão de Contabilidade, com as Secções de Contabilidade Orçamental e de Contabilidade Patrimonial;
+Divisão de Contabilidade, com as Secções de Contabilidade Orçamental e de Contabilidade Patrimonial;
 
-##### Divisão de Património e Contencioso, com as Secções de Património e Contencioso;
+Divisão de Património e Contencioso, com as Secções de Património e Contencioso;
 
-##### Divisão de Gestão Social, com as Secções de Concursos e Distribuição e de Serviço Social;
+Divisão de Gestão Social, com as Secções de Concursos e Distribuição e de Serviço Social;
 
 Repartição Administrativa, com as Secções de Expediente e de Pessoal;
 
@@ -216,15 +243,15 @@ e) Direcções de Habitação do Norte, do Centro, de Lisboa e do Sul, com sedes
 
 2. O Ministro das Obras Públicas fixará, em portaria, a área de jurisdição de cada uma das direcções referidas na alínea e) do n.º 1, tanto quanto possível de acordo com as áreas das regiões-plano.
 
-###### Art. 16.º - 1. Ao Gabinete de Estudos e Planeamento caberá o exercício, no âmbito do Fundo, das funções referidas no n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969.
+Art. 16.º - 1. Ao Gabinete de Estudos e Planeamento caberá o exercício, no âmbito do Fundo, das funções referidas no n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969.
 
 2. O Serviço de Inquéritos Habitacionais, a que se refere a alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 587/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1972-665127), de 30 de Dezembro, fica integrado no Gabinete de Estudos e Planeamento.
 
 3. Os serviços a que se referem as alíneas b) a d) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 587/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1972-665127), de 30 de Dezembro, serão assegurados pela Direcção dos Serviços de Finanças e Administração.
 
-###### Art. 17.º São aplicáveis ao pessoal do quadro do Fundo as normas sobre admissão, provimento e promoções em vigor no Ministério das Obras Públicas, completadas pelo disposto nos artigos seguintes:
+Art. 17.º São aplicáveis ao pessoal do quadro do Fundo as normas sobre admissão, provimento e promoções em vigor no Ministério das Obras Públicas, completadas pelo disposto nos artigos seguintes:
 
-###### Art. 18.º São preenchidos por escolha do Ministro das Obras Públicas os seguintes lugares:
+Art. 18.º São preenchidos por escolha do Ministro das Obras Públicas os seguintes lugares:
 
 a) Directores de serviço - entre chefes de divisão e de repartição, engenheiros e arquitectos-chefes de 1.ª classe e técnicos-chefes ou de 1.ª classe do quadro do Fundo, ou entre indivíduos estranhos ao quadro, de reconhecida competência, habilitados com curso superior adequado;
 
@@ -232,7 +259,7 @@ b) Chefes de divisão - entre engenheiros, arquitectos, técnicos e inspectores 
 
 c) Fiscais de 2.ª classe - entre indivíduos de comprovada aptidão para o exercício do cargo.
 
-###### Art. 19.º Para a admissão aos lugares abaixo designados são exigidas as seguintes habilitações mínimas ou outras equivalentes ou que vierem a corresponder-lhes:
+Art. 19.º Para a admissão aos lugares abaixo designados são exigidas as seguintes habilitações mínimas ou outras equivalentes ou que vierem a corresponder-lhes:
 
 a) Técnicos de serviço social: curso superior de serviço social;
 
@@ -242,12 +269,12 @@ c) Agentes: 2.º ciclo do actual curso liceal;
 
 d) Mecanógrafos: 2.º ciclo do actual curso liceal e curso de mecanografia, comprovado por entidade competente, ou curso de formação adequado das escolas técnicas.
 
-###### Art. 20.º Ao pessoal auxiliar do Fundo será distribuído fardamento nos termos da lei geral.
+Art. 20.º Ao pessoal auxiliar do Fundo será distribuído fardamento nos termos da lei geral.
 
 Marcello Caetano - Rui Alves da Silva Sanches - José Luís Nogueira de Brito.
 
-**Promulgado em 30 de Abril de 1973.**
+Promulgado em 30 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

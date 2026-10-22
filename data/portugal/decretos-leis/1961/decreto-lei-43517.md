@@ -46,36 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43517-1961-554860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5512fa097c5a387e10d7a6e6208ed8b2c21727732a2f10172f1d4605bb176025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d198e77ef9e53c83f5fb898ddbae830c1222871a16ce2612cbcb1850b3f61cdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Estado Português da Índia
+- Gestão Financeira
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:282370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:50Z'
   warnings: []
   errors: []
 ---
@@ -150,13 +184,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 I) Da Junta Autónoma dos Portos e Caminhos de Ferro do Estado da Índia
 
-###### Artigo 1.º É criada a Junta Autónoma dos Portos e Caminhos de Ferro do Estado da Índia, através da qual serão geridos os serviços públicos de portos, caminhos de ferro e vias navegáveis do Estado da Índia.
+Artigo 1.º É criada a Junta Autónoma dos Portos e Caminhos de Ferro do Estado da Índia, através da qual serão geridos os serviços públicos de portos, caminhos de ferro e vias navegáveis do Estado da Índia.
 
 § único. A Junta Autónoma é dotada de personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 2.º Junta Autónoma é subordinada, através do seu presidente, ao governador-geral do Estado da Índia.
+Art. 2.º Junta Autónoma é subordinada, através do seu presidente, ao governador-geral do Estado da Índia.
 
-###### Art. 3.º A jurisdição da Junta Autónoma abrange igualmente as vias navegáveis de acesso aos portos sob sua jurisdição, o porto e o caminho de ferro de Mormugão, todos os caminhos de ferro que venham a ser construídos no Estado da Índia e, bem assim, todos os portos que sirvam a navegação marítima.
+Art. 3.º A jurisdição da Junta Autónoma abrange igualmente as vias navegáveis de acesso aos portos sob sua jurisdição, o porto e o caminho de ferro de Mormugão, todos os caminhos de ferro que venham a ser construídos no Estado da Índia e, bem assim, todos os portos que sirvam a navegação marítima.
 
 § 1.º É mantida aos serviços autónomos de navegação da Índia a competência que lhes foi atribuída pelo Diploma Legislativo n.º 762, de 30 de Outubro de 1934.
 
@@ -170,7 +204,7 @@ São consideradas vias navegáveis de acesso ao porto de Mormugão todas aquelas
 
 II) Dos órgãos da Junta Autónoma
 
-###### Art. 4.º São órgãos da Junta Autónoma:
+Art. 4.º São órgãos da Junta Autónoma:
 
 a) A Junta;
 
@@ -178,7 +212,7 @@ b) O conselho de administração;
 
 c) O presidente da Junta.
 
-###### Art. 5.º A Junta é composta pelo presidente e pelos vogais natos e eleitos.
+Art. 5.º A Junta é composta pelo presidente e pelos vogais natos e eleitos.
 
 § 1.º São vogais natos:
 
@@ -220,7 +254,7 @@ f) Um representante das companhias importadoras de produtos petrolíferos.
 
 § 4.º Em qualquer altura poderá o governador-geral em diploma legislativo determinar a representação na Junta de outros interesses relacionados com os portos e caminhos de ferro.
 
-###### Art. 6.º Compete à Junta:
+Art. 6.º Compete à Junta:
 
 1.º Aprovar o projecto do orçamento ordinário e dos orçamento suplementares;
 
@@ -240,11 +274,11 @@ f) Um representante das companhias importadoras de produtos petrolíferos.
 
 9.º Pronunciar-se sobre todas as questões que lhe sejam apresentadas pelo seu presidente ou por qualquer dos seus vogais.
 
-###### Art. 7.º A Junta reúne obrigatòriamente duas vezes por ano, para aprovação do projecto do orçamento ordinário e para aprovação das contas e, facultativamente, sempre que for convocada pelo seu presidente.
+Art. 7.º A Junta reúne obrigatòriamente duas vezes por ano, para aprovação do projecto do orçamento ordinário e para aprovação das contas e, facultativamente, sempre que for convocada pelo seu presidente.
 
 § único. O presidente convocará a Junta, a solicitação de pelo menos três dos seus vogais, para apreciação de questões que por estes sejam concretamente indicadas.
 
-###### Art. 8.º O conselho de administração é constituído pelo presidente da Junta Autónoma, que presidirá, e por quatro vogais.
+Art. 8.º O conselho de administração é constituído pelo presidente da Junta Autónoma, que presidirá, e por quatro vogais.
 
 § 1.º Um dos vogais será o delegado marítimo do porto de Mormugão e outro o director da Alfândega de Mormugão; os dois restantes vogais serão nomeados pelo governador-geral, um de entre os chefes de serviço da Junta Autónoma e outro de entre os vogais eleitos da Junta.
 
@@ -252,7 +286,7 @@ f) Um representante das companhias importadoras de produtos petrolíferos.
 
 § 3.º A forma de substituição do presidente e dos vogais, nas suas faltas e impedimentos, constará do regulamento.
 
-###### Art. 9.º Compete ao conselho de administração:
+Art. 9.º Compete ao conselho de administração:
 
 1.º Promover a elaboração dos estudos, projectos e planos de instalação, melhoramento ou desenvolvimento dos caminhos de ferro, portos e vias navegáveis;
 
@@ -294,7 +328,7 @@ f) Um representante das companhias importadoras de produtos petrolíferos.
 
 § 2.º O conselho de administração reúne ordinàriamente uma vez por semana e extraordinàriamente mediante convocação do presidente.
 
-###### Art. 10.º O presidente da Junta e um funcionário equiparado, para todos os efeitos, a director dos serviços dos portos e caminhos de ferro do ultramar, ao qual compete:
+Art. 10.º O presidente da Junta e um funcionário equiparado, para todos os efeitos, a director dos serviços dos portos e caminhos de ferro do ultramar, ao qual compete:
 
 a) Presidir às sessões da Junta e do conselho de administração;
 
@@ -310,9 +344,9 @@ e) Representar a Junta em juízo e fora dele, obtidas as autorizações que fore
 
 III) Dos orçamentos, contas, receitas e despesas
 
-###### Art. 11.º Os orçamentos e contas de Junta Autónoma serão organizados de harmonia com a legislação vigente no Estado da Índia.
+Art. 11.º Os orçamentos e contas de Junta Autónoma serão organizados de harmonia com a legislação vigente no Estado da Índia.
 
-###### Art. 12.º As receitas da Junta Autónoma são classificadas em ordinárias e extraordinárias.
+Art. 12.º As receitas da Junta Autónoma são classificadas em ordinárias e extraordinárias.
 
 § 1.º Constituem receitas ordinárias:
 
@@ -344,13 +378,13 @@ III) Dos orçamentos, contas, receitas e despesas
 
 3.º O produto de indemnização por avarias ou prejuízos.
 
-###### Art. 13.º A Junta Autónoma poderá aplicar directamente às suas despesas, nos termos da legislação em vigor, o produto das suas receitas.
+Art. 13.º A Junta Autónoma poderá aplicar directamente às suas despesas, nos termos da legislação em vigor, o produto das suas receitas.
 
-###### Art. 14.º É aplicável às importâncias em dívida à Junta Autónoma o processo das execuções fiscais, sendo título exequível a certidão da acta do conselho de administração que contenha a deliberação de executar, com a identificação do devedor e indicação da causa e quantitativo da dívida.
+Art. 14.º É aplicável às importâncias em dívida à Junta Autónoma o processo das execuções fiscais, sendo título exequível a certidão da acta do conselho de administração que contenha a deliberação de executar, com a identificação do devedor e indicação da causa e quantitativo da dívida.
 
 § único. Para efeitos de execução, a Junta Autónoma enviará ao agente do Ministério Público, além da certidão da deliberação, a nota de que o devedor foi avisado com carta registada para pagar no prazo de oito dias e a resposta que este tiver dado.
 
-###### Art. 15.º O Governo Português cede à Junta Autónoma, a partir de 31 de Março de 1961, o direito emergente dos contratos existentes entre o Governo e a The West of India Portuguese Guaranteed Railway Company, Limited, de haver desta companhia quaisquer bens imóveis, móveis ou dinheiro por motivo ou ocasião do termo do contrato de concessão.
+Art. 15.º O Governo Português cede à Junta Autónoma, a partir de 31 de Março de 1961, o direito emergente dos contratos existentes entre o Governo e a The West of India Portuguese Guaranteed Railway Company, Limited, de haver desta companhia quaisquer bens imóveis, móveis ou dinheiro por motivo ou ocasião do termo do contrato de concessão.
 
 § 1.º As quantias que forem devidas pela The West of India Portuguese Guaranteed Railway Company, Limited, ao Governo durante os anos sociais de 1959-1960 e 1960-1961 e que não constituam reembolso de quantias adiantadas pelo Governo à The West of India Portuguese Guaranteed Railway Company, Limited, para garantia de juros serão recebidas, a título de empréstimo, pela junta Autónoma ou, provisòriamente, pelo Governo do Estado da Índia, se a Junta Autónoma ainda não estiver constituída à data dos recebimentos.
 
@@ -360,11 +394,11 @@ III) Dos orçamentos, contas, receitas e despesas
 
 § 4.º O Estado da Índia prestará, na forma legal, garantia da dívida da Junta Autónoma.
 
-###### Art. 16.º A Junta Autónoma inscreverá obrigatòriamente no seu orçamento as quantias necessárias para os pagamentos a efectuar por força do artigo 15.º deste diploma.
+Art. 16.º A Junta Autónoma inscreverá obrigatòriamente no seu orçamento as quantias necessárias para os pagamentos a efectuar por força do artigo 15.º deste diploma.
 
 § único. O governador-geral recusará aprovação a qualquer orçamento em que não seja cumprido o disposto no corpo do artigo.
 
-###### Art. 17.º Enquanto a Junta Autónoma for devedora de quaisquer quantias por virtude da cessão referida no artigo 15.º, a aprovação pelo governador-geral considera-se provisória, tornando-se definitiva depois de confirmada pelo Ministro do Ultramar, ouvido o das Finanças.
+Art. 17.º Enquanto a Junta Autónoma for devedora de quaisquer quantias por virtude da cessão referida no artigo 15.º, a aprovação pelo governador-geral considera-se provisória, tornando-se definitiva depois de confirmada pelo Ministro do Ultramar, ouvido o das Finanças.
 
 § 1.º Para o efeito do corpo do artigo, o orçamento provisòriamente aprovado será logo enviado pelo governador-geral ao Ministério do Ultramar e considera-se definitivamente aprovado se a confirmação não for negada dentro do prazo de 60 dias, a contar da recepção dele no Ministério.
 
@@ -372,17 +406,17 @@ III) Dos orçamentos, contas, receitas e despesas
 
 § 3.º Durante o período referido no corpo do artigo o governador-geral enviará ao Ministério do Ultramar uma cópia das contas de gerência da Junta Autónoma, logo que aprovadas.
 
-###### Art. 18.º A Junta Autónoma elaborará e submeterá a aprovação o seu primeiro orçamento, relativo aos nove últimos meses de 1961, até ao fim de Maio do mesmo ano.
+Art. 18.º A Junta Autónoma elaborará e submeterá a aprovação o seu primeiro orçamento, relativo aos nove últimos meses de 1961, até ao fim de Maio do mesmo ano.
 
 § 1.º Durante os meses de Abril e Maio de 1961 a Junta Autónoma poderá cobrar receitas e fazer despesas independentemente do orçamento, considerando-se as despesas simples operações de tesouraria.
 
 § 2.º As despesa que houver necessidade de realizar para assegurar o funcionamento da Junta Autónoma desde a entrada em vigor deste diploma até 31 de Março de 1961 serão suportadas pelo orçamento geral do Estado da Índia e em seguida transitarão para a Junta Autónoma.
 
-###### Art. 19.º No orçamento a que se refere o artigo anterior será também inscrita no capítulo de despesa a verba necessária para o reembolso à Direcção dos Serviços de Fazenda e Contabilidade da importância que, nos termos do Diploma Legislativo do Estado da Índia n.º 2010, de 14 de Julho de 1960, for posta à disposição da comissão administrativa da Inspecção do Porto e Caminho de Ferro de Mormugão para custear as aquisições de materiais a utilizar no período inicial da administração da Junta Autónoma, a partir de 1 de Abril de 1961.
+Art. 19.º No orçamento a que se refere o artigo anterior será também inscrita no capítulo de despesa a verba necessária para o reembolso à Direcção dos Serviços de Fazenda e Contabilidade da importância que, nos termos do Diploma Legislativo do Estado da Índia n.º 2010, de 14 de Julho de 1960, for posta à disposição da comissão administrativa da Inspecção do Porto e Caminho de Ferro de Mormugão para custear as aquisições de materiais a utilizar no período inicial da administração da Junta Autónoma, a partir de 1 de Abril de 1961.
 
 IV) Da organização dos serviços
 
-###### Art. 20.º Os serviços da Junta Autónoma estarão na dependência directa do presidente da Junta Autónoma e terão as seguintes designações:
+Art. 20.º Os serviços da Junta Autónoma estarão na dependência directa do presidente da Junta Autónoma e terão as seguintes designações:
 
 a) Serviço de via e obras;
 
@@ -400,29 +434,29 @@ e) Serviço de contabilidade, fiscalização e tesouraria.
 
 § 3.º Os serviços de pilotagem, semáforo, farolagem e balizagem dos portos e vias navegáveis, aos quais passarão a ser consignadas as receitas correspondentes aos ditos serviços, passam a estar integrados nos serviços de marinha do Estado da Índia.
 
-###### Art. 21.º O âmbito de cada serviço será definido no regulamento da Junta a elaborar pelo conselho de administração.
+Art. 21.º O âmbito de cada serviço será definido no regulamento da Junta a elaborar pelo conselho de administração.
 
 V) Do pessoal
 
-###### Art. 22.º O pessoal da Junta Autónoma terá todos os deveres e direitos dos funcionários do Estado da Índia, excepto o disposto no artigo 32.º relativamente a aposentação, sem prejuízo dos direitos dos funcionários que pertençam ao quadro comum.
+Art. 22.º O pessoal da Junta Autónoma terá todos os deveres e direitos dos funcionários do Estado da Índia, excepto o disposto no artigo 32.º relativamente a aposentação, sem prejuízo dos direitos dos funcionários que pertençam ao quadro comum.
 
 § único. Os contratos do pessoal serão celebrados em nome da Junta Autónoma pelo seu presidente e sujeitos ao visto do Tribunal Administrativo.
 
-###### Art. 23.º O presidente da Junta Autónoma é nomeado pelo Ministro do Ultramar de entre engenheiros directores do quadro comum criado pelo [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714), de 23 de Dezembro de 1947, ou, em comissão ordinária de serviço, de entre engenheiros especializados em caminhos de ferro ou portos.
+Art. 23.º O presidente da Junta Autónoma é nomeado pelo Ministro do Ultramar de entre engenheiros directores do quadro comum criado pelo [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714), de 23 de Dezembro de 1947, ou, em comissão ordinária de serviço, de entre engenheiros especializados em caminhos de ferro ou portos.
 
 § único. Enquanto a Junta Autónoma for devedora de quaisquer quantias por virtude da cessão referida no artigo 15.º deste decreto-lei a nomeação do presidente exige prévio acordo do Ministro das Finanças.
 
-###### Art. 24.º O pessoal constante do mapa I anexo a este diploma considera-se, para todos os efeitos, pertencente ao quadro comum dos engenheiros de portos e caminhos de ferro, referido no artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, que fica aumentado de igual número de lugares.
+Art. 24.º O pessoal constante do mapa I anexo a este diploma considera-se, para todos os efeitos, pertencente ao quadro comum dos engenheiros de portos e caminhos de ferro, referido no artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, que fica aumentado de igual número de lugares.
 
 § único. Os lugares de engenheiro-chefe e de engenheiro de 1.ª classe serão providos em engenheiros da mesma categoria do quadro comum criado pelo [Decreto n.º 36690](https://diariodarepublica.pt/dr/detalhe/decreto/36690-1947-634714), de 23 de Dezembro de 1947, ou por promoção, com prejuízo do tempo de serviço exigido por lei e mediante a obrigação de servir na Junta pelo prazo mínimo de três anos, respectivamente de engenheiros de 1.ª e de 2.ª classe do mesmo quadro.
 
-###### Art. 25.º Até 30 de Setembro de 1961 o Governo-Geral do Estado da Índia, sob proposta da Junta, fará publicar diploma legislativo fixando o quadro privativo e os quadros complementares da Junta Autónoma, estabelecendo as condições de admissão, promoção e demais regras do seu regime jurídico, com obediência às categorias enumeradas no mapa II anexo a este diploma e aos princípios constantes no Estatuto do Funcionalismo Ultramarino.
+Art. 25.º Até 30 de Setembro de 1961 o Governo-Geral do Estado da Índia, sob proposta da Junta, fará publicar diploma legislativo fixando o quadro privativo e os quadros complementares da Junta Autónoma, estabelecendo as condições de admissão, promoção e demais regras do seu regime jurídico, com obediência às categorias enumeradas no mapa II anexo a este diploma e aos princípios constantes no Estatuto do Funcionalismo Ultramarino.
 
 § 1.º A Junta Autónoma poderá assalariar pessoal fora do quadro até às verbas consignadas para o efeito nos seus orçamentos.
 
 § 2.º A Junta Autónoma poderá admitir pessoal em regime de prestação de serviços para ocorrer a necessidades urgentes e temporárias de serviço, mas este pessoal considera-se dispensado no fim de cada ano, salvo expressa readmissão.
 
-###### Art. 26.º A partir de 1 de Abril de 1961 todo o pessoal que em 31 de Março do mesmo ano tiver cessado os seus contratos com a companhia concessionária The Guaranteed West of India Portuguese Guaranteed Railway Company, Limited, considerar-se-á ao serviço da Junta Autónoma desde que não lhe tenha sido comunicado até 28 de Fevereiro do mesmo ano que a Junta Autónoma não os admitirá ao seu serviço.
+Art. 26.º A partir de 1 de Abril de 1961 todo o pessoal que em 31 de Março do mesmo ano tiver cessado os seus contratos com a companhia concessionária The Guaranteed West of India Portuguese Guaranteed Railway Company, Limited, considerar-se-á ao serviço da Junta Autónoma desde que não lhe tenha sido comunicado até 28 de Fevereiro do mesmo ano que a Junta Autónoma não os admitirá ao seu serviço.
 
 § 1.º O pessoal que for abrangido pela lista de assalariados a publicar pela Junta Autónoma considera-se assalariado, desde essa data, sem necessidade de mais formalidades.
 
@@ -432,7 +466,7 @@ V) Do pessoal
 
 § 4.º O pessoal superior da The West of India Portuguese Guaranteed Railway Company, Limited, em Goa poderá ser admitido ao serviço da Junta Autónoma nos termos e condições que constarem de contratos celebrados ao abrigo do § 2.º do artigo 45.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 27.º É extinta em 1 de Abril de 1961 a Inspecção do Porto e Caminho de Ferro de Mormugão.
+Art. 27.º É extinta em 1 de Abril de 1961 a Inspecção do Porto e Caminho de Ferro de Mormugão.
 
 § 1.º O pessoal da Inspecção do Porto e Caminho de Ferro de Mormugão será colocado, sob proposta do presidente da Junta Autónoma, nos quadros desta, pelo Ministro do Ultramar, quanto ao quadro comum, e pelo governador-geral, quanto ao quadro privativo.
 
@@ -440,7 +474,7 @@ V) Do pessoal
 
 § 3.º O actual engenheiro inspector do Porto e Caminho de Ferro de Mormugão ocupará a primeira vaga de director de 1.ª classe do quadro dos correios, telégrafos e telefones do ultramar, a que pertence, e até esse momento prestará na Junta Autónoma o serviço que lhe for determinado pelo governador-geral, mantendo todos os direitos que possuía na Inspecção.
 
-###### Art. 28.º Até 31 de Dezembro de 1961 a Junta Autónoma definirá a situação de todo o pessoal admitido nos termos do artigo 26.º deste decreto-lei, colocando nos quadros aqueles que o mereçam, segundo o serviço que tenham prestado.
+Art. 28.º Até 31 de Dezembro de 1961 a Junta Autónoma definirá a situação de todo o pessoal admitido nos termos do artigo 26.º deste decreto-lei, colocando nos quadros aqueles que o mereçam, segundo o serviço que tenham prestado.
 
 § 1.º Para efeitos de colocação no quadro serão considerados:
 
@@ -456,7 +490,7 @@ d) As habilitações do pessoal.
 
 § 3.º O pessoal colocado nos quadros conta a sua antiguidades nestes desde 1 de Abril de 1961.
 
-###### Art. 29.º Durante três anos todos os lugares dos quadros da Junta Autónoma poderão ser providos em comissão ordinária de serviço, por períodos de um ano, renováveis por duas vezes.
+Art. 29.º Durante três anos todos os lugares dos quadros da Junta Autónoma poderão ser providos em comissão ordinária de serviço, por períodos de um ano, renováveis por duas vezes.
 
 § 1.º Depois de três anos só poderão o ser providos em comissão ordinária de serviço os cargos para que estiver expressamente prevista essa forma de provimento.
 
@@ -466,11 +500,11 @@ d) As habilitações do pessoal.
 
 § 4.º Aos funcionários nomeados ao abrigo do § 2.º deste artigo será aplicado o regime estabelecido no [Decreto-Lei n.º 39677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39677-1954-635429), de 24 de Maio de 1954, quando tal for determinado no despacho de nomeação.
 
-###### Art. 30.º O presidente da Junta Autónoma terá direito a uma importância para despesas de representação igual a 85 por cento da que para o mesmo efeito for atribuída ao secretário-geral do Estado da Índia.
+Art. 30.º O presidente da Junta Autónoma terá direito a uma importância para despesas de representação igual a 85 por cento da que para o mesmo efeito for atribuída ao secretário-geral do Estado da Índia.
 
-###### Art. 31.º A Junta Autónoma poderá estabelecer prémios de economia para o seu pessoal e deverá manter em condições a regulamentar um fundo destinado a suceder ao fundo de gratificações da The West of India Portuguese Guaranteed Railway Company, Limited.
+Art. 31.º A Junta Autónoma poderá estabelecer prémios de economia para o seu pessoal e deverá manter em condições a regulamentar um fundo destinado a suceder ao fundo de gratificações da The West of India Portuguese Guaranteed Railway Company, Limited.
 
-###### Art. 32.º O pessoal da Junta Autónoma que tenha transitado da companhia concessionária ao abrigo do artigo 26.º deste diploma poderá optar entre o direito à aposentação nos termos do Estatuto do Funcionalismo Ultramarino, com as modificações constantes dos §§ 1.º, 2.º e 3.º deste artigo, ou à manutenção no fundo de previdência referido no § 5.º
+Art. 32.º O pessoal da Junta Autónoma que tenha transitado da companhia concessionária ao abrigo do artigo 26.º deste diploma poderá optar entre o direito à aposentação nos termos do Estatuto do Funcionalismo Ultramarino, com as modificações constantes dos §§ 1.º, 2.º e 3.º deste artigo, ou à manutenção no fundo de previdência referido no § 5.º
 
 § 1.º O tempo de serviço para efeito de aposentação será calculado somando ao tempo de serviço prestado à Junta Autónoma o número de anos correspondente a fórmula (V/X), em que V é a quantia referida no § 4.º e X a importância anual que o funcionário desconta para a aposentação, segundo o vencimento e à taxa relativos à data em que a aposentação for concedida.
 
@@ -488,7 +522,7 @@ d) As habilitações do pessoal.
 
 VI) Disposições finais
 
-###### Art. 33.º O presente diploma entra imediatamente em vigor.
+Art. 33.º O presente diploma entra imediatamente em vigor.
 
 § 1.º Os lugares do quadro comum da Junta Autónoma poderão ser preenchidos logo que este diploma entre em vigor, exercendo os seus titulares as funções que lhes forem determinadas para se efectuar a transição do regime de concessão do porto e caminho de ferro de Mormugão para o regime de administração directa.
 
@@ -496,11 +530,11 @@ VI) Disposições finais
 
 § 3.º Até 30 de Setembro de 1961 o Governo-Geral do Estado da Índia, sob proposta da Junta Autónoma, publicará o regulamento desta.
 
-###### Art. 34.º Pela assistência às reuniões da Junta e do conselho de administração será devida uma senha de presença, de importância a fixar pelo Governo-Geral do Estado da Índia.
+Art. 34.º Pela assistência às reuniões da Junta e do conselho de administração será devida uma senha de presença, de importância a fixar pelo Governo-Geral do Estado da Índia.
 
-###### Art. 35.º Passarão a, pertencer à Junta Autónoma, a partir de 1 de Abril de 1961, e sem mais formalidades, salvo as de registo, quando a este haja lugar, todos os direitos sobre bens imóveis de que à data da extinção da concessão da The West of India Portuguese Guaranteed Railway Company, Limited, esta Companhia for titular, incluindo os terrenos situados na área do porto de Mormugão e os confinantes com a companhia férrea concedida.
+Art. 35.º Passarão a, pertencer à Junta Autónoma, a partir de 1 de Abril de 1961, e sem mais formalidades, salvo as de registo, quando a este haja lugar, todos os direitos sobre bens imóveis de que à data da extinção da concessão da The West of India Portuguese Guaranteed Railway Company, Limited, esta Companhia for titular, incluindo os terrenos situados na área do porto de Mormugão e os confinantes com a companhia férrea concedida.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

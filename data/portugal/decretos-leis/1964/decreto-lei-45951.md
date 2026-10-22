@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45951-1964-536860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5c9d75a76a7152fe61aafc6538b6c1ca0279c3ef7aa20a43fb801d5a749bdcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62afb0fd2997db819082ec992e9c33e8f1f7fdd25cd6903a5fe96276e216870a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Engenharia Militar
+- Estabelecimento de Ensino
+- Ministério do Exército
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:509817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:509817:por
+  label: "Alterado o art. 2º pelo DEC LEI.46537.15.09.1965.MX, DG.IS [209] de 15.09.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46537-1965-509817
+  date: '1965-09-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:38Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +102,13 @@ Considerando que estes serviços vêm sendo desempenhados a título precário po
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro orgânico do pessoal civil da Escola Prática de Engenharia é o constante do mapa anexo ao presente decreto-lei.
+Artigo 1.º O quadro orgânico do pessoal civil da Escola Prática de Engenharia é o constante do mapa anexo ao presente decreto-lei.
 
-###### Art. 2.º O pessoal civil, a que se refere o artigo anterior, será provido nos respectivos cargos, desde que satisfaça às condições legais estabelecidas, por proposta fundamentada do comandante da Escola, aprovada pelo Ministro do Exército.
+Art. 2.º O pessoal civil, a que se refere o artigo anterior, será provido nos respectivos cargos, desde que satisfaça às condições legais estabelecidas, por proposta fundamentada do comandante da Escola, aprovada pelo Ministro do Exército.
 
-###### Art. 3.º O pessoal que for mantido ao serviço, transitando para o novo quadro orgânico, continuará a perceber os vencimentos pelas disponibilidades das verbas descritas no orçamento ordinário do Ministério do Exército para 1964, até à abertura do competente crédito reforçando a dotação.
+Art. 3.º O pessoal que for mantido ao serviço, transitando para o novo quadro orgânico, continuará a perceber os vencimentos pelas disponibilidades das verbas descritas no orçamento ordinário do Ministério do Exército para 1964, até à abertura do competente crédito reforçando a dotação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -110,10 +120,10 @@ Quadro orgânico do pessoal civil
 
 a) Pessoal contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf))](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)
 
 b) Pessoal assalariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf))](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)
 
 Ministério do Exército, 6 de Outubro de 1964. - O Ministro do Exército, Joaquim da Luz Cunha.

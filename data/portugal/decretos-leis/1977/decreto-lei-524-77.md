@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29300/30083008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1977-280230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a009b236ed484638cf140af4b4988b673f3108810c85898c179a8d191c9b2268
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d077ed60bb68ecf49095d06470b709ee2a02c9b64d700bb1e002d792a7bc30c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Exército
+- Forças Armadas
+- Gestão Financeira
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:390833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:50Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +107,7 @@ Considerando a necessidade e urgência de definir normas que permitam a entrada 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos centros de gestão financeira previstos na alínea h) do n.º 1 do artigo 23.º do [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro, compete fundamentalmente:
+Artigo 1.º Aos centros de gestão financeira previstos na alínea h) do n.º 1 do artigo 23.º do [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro, compete fundamentalmente:
 
 a) Coordenar as propostas orçamentais respeitantes às unidades, estabelecimentos militares e órgãos ou instalações integradas na sua área de apoio;
 
@@ -101,26 +115,26 @@ b) Estudar a aplicação dos recursos financeiros que lhe sejam atribuídos, cum
 
 c) Controlar as gestões económica e financeira das unidades, estabelecimentos militares, órgãos ou instalações apoiadas com vista à obtenção da maior eficiência na utilização dos meios disponíveis.
 
-###### Art. 2.º - 1 - Os órgãos de gestão logística e financeira das unidades, estabelecimentos ou instalações serão fixados por portaria do Chefe do Estado-Maior do Exército.
+Art. 2.º - 1 - Os órgãos de gestão logística e financeira das unidades, estabelecimentos ou instalações serão fixados por portaria do Chefe do Estado-Maior do Exército.
 
 2 - No âmbito do Serviço de Finanças, serão criadas secções financeiras nas unidades, estabelecimentos e outros órgãos ou instalações em que tal se justifique.
 
 3 - A organização, missão e funcionamento das secções financeiras serão fixados por portaria do Chefe do Estado-Maior do Exército.
 
-###### Art. 3.º Os centros de gestão financeira dependem tecnicamente da Direcção do Serviço de Finanças e superintendem tecnicamente nas secções financeiras das unidades, estabelecimentos, órgãos ou instalações que lhes forem fixados.
+Art. 3.º Os centros de gestão financeira dependem tecnicamente da Direcção do Serviço de Finanças e superintendem tecnicamente nas secções financeiras das unidades, estabelecimentos, órgãos ou instalações que lhes forem fixados.
 
-###### Art. 4.º - 1 - As funções ora cometidas aos conselhos administrativos passarão gradualmente para a atribuição dos centros de gestão financeira, das secções financeiras e para os órgãos de gestão logística das unidades e estabelecimentos.
+Art. 4.º - 1 - As funções ora cometidas aos conselhos administrativos passarão gradualmente para a atribuição dos centros de gestão financeira, das secções financeiras e para os órgãos de gestão logística das unidades e estabelecimentos.
 
 2 - Os conselhos administrativos serão progressivamente extintos após a entrada em funcionamento dos órgãos referidos no número anterior.
 
-###### Art. 5.º O funcionamento dos centros de gestão financeira e das secções financeiras será regulado por normas aprovadas por portaria do Chefe do Estado-Maior do Exército.
+Art. 5.º O funcionamento dos centros de gestão financeira e das secções financeiras será regulado por normas aprovadas por portaria do Chefe do Estado-Maior do Exército.
 
-###### Art. 6.º Enquanto não forem publicadas as normas a que se refere o artigo anterior, ou nas partes não abrangidas pelas referidas normas após a sua publicação, as matérias de natureza financeira, na parte aplicável, serão reguladas pelo regulamento aprovado pelo Decreto-Lei n.º 35413, de 29 de Dezembro de 1945.
+Art. 6.º Enquanto não forem publicadas as normas a que se refere o artigo anterior, ou nas partes não abrangidas pelas referidas normas após a sua publicação, as matérias de natureza financeira, na parte aplicável, serão reguladas pelo regulamento aprovado pelo Decreto-Lei n.º 35413, de 29 de Dezembro de 1945.
 
 Visto e aprovado em Conselho da Revolução em 30 de Novembro de 1977.
 
-**Promulgado em 9 de Dezembro de 1977.**
+Promulgado em 9 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

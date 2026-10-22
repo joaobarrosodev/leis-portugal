@@ -50,36 +50,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43417-1960-513576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 371b15a3b3d15b8e4686f797ebc1311e5ff6a44d35a8502e2543b41e9800f752
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41c3e5a575e7ba4fd70cc09a691ab17936180504a280fd94e1f190b6f695ae54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- BENS Imóveis
+- Definição de Competências
+- Direcção Geral da Fazenda Pública
+- Enfiteuse
+- Inventário
+- Prorrogação de Prazo
+- Recrutamento de Pessoal
+- Remição de BENS
+relationships:
+- type: cites
+  target: pt:dre:144595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636686:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:06Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +119,9 @@ Considerando que subsistem as razões que justificaram a publicação do [Decret
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As remições dos ónus enfitêuticos e censíticos incorporados no Património do Estado ao abrigo do disposto no artigo 45.º do [Decreto-Lei n.º 30615](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30615-1940-144595), de 25 de Julho de 1940, requeridas no prazo de três anos, a contar da data da publicação do presente diploma, beneficiarão dos descontos concedidos pelo artigo 4.º do [Decreto-Lei n.º 29840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29840-1939-200438), de 19 de Agosto de 1939.
+Artigo 1.º As remições dos ónus enfitêuticos e censíticos incorporados no Património do Estado ao abrigo do disposto no artigo 45.º do [Decreto-Lei n.º 30615](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30615-1940-144595), de 25 de Julho de 1940, requeridas no prazo de três anos, a contar da data da publicação do presente diploma, beneficiarão dos descontos concedidos pelo artigo 4.º do [Decreto-Lei n.º 29840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29840-1939-200438), de 19 de Agosto de 1939.
 
-###### Art. 2.º É prorrogado por mais um ano o prazo para elaboração, pela Direcção-Geral da Fazenda Pública, da lista dos bens enfitêuticos e censíticos a que se refere o artigo 5.º do [Decreto-Lei n.º 32404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32404-1942-342409), de 21 de Novembro de 1942.
+Art. 2.º É prorrogado por mais um ano o prazo para elaboração, pela Direcção-Geral da Fazenda Pública, da lista dos bens enfitêuticos e censíticos a que se refere o artigo 5.º do [Decreto-Lei n.º 32404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32404-1942-342409), de 21 de Novembro de 1942.
 
 § 1.º A lista será organizada por concelhos e afixada à porta das direcções e secções de finanças em que os bens forem situados, afixação que será anunciada, para todos os efeitos legais, simultâneamente, no Diário do Governo e em dois jornais de grande circulação.
 
@@ -100,7 +129,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Não é aplicável a estes subsidiados o prazo de seis meses estabelecido no § único do artigo 1.º do [Decreto-Lei n.º 36606](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36606-1947-636686), de 24 de Novembro de 1947.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

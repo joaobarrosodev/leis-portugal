@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/11/26900/16751681.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d79d1aac04de633efca31dcf5c923f4e08b35d6b08079c77dd2128625e4209c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5e33b1f299d70e10f23f1eb53b36cd03d396f5161cd1ce2e1a2b772f81039c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Exame e Classificação dos Espectáculos
+- Conselho Nacional de Turismo
+- Direcção Geral da Cultura Popular e Espectáculos
+- Direcção Geral da Informação
+- Direcção Geral do Turismo
+- Emissora Nacional
+- Extinção de Serviços
+- Fundo de Teatro
+- Fundo de Turismo
+- Gabinete Governamental
+- Museu de Arte Popular
+- Orgânica
+- Secretaria de Estado da Informação e Turismo
+- Secretaria Geral
+- Secretariado Nacional da Informação Cultura Popular e Turismo
 relationships:
 - type: amended_by
   target: pt:dre:520870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400065:por
+  label: "Alterados os quadros de pessoal da Secretaria de Estado da Informação e Turismo e do Gabinete do Secretário de Estado\
+    \ da Informação, aprovados pelo presente diploma, pelo DEC LEI.23/72.17.01.1972.PC, DG.IS [13] de 17.01.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1972-400065
+  date: '1972-01-17'
+- type: amended_by
+  target: pt:dre:161149:por
+  label: "Alterado o art. 17º do presente diploma, pelo DEC LEI.142/75.20.03.1975.PCM, DG.IS [67] de 20.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1975-161149
+  date: '1975-03-20'
+- type: amended_by
+  target: pt:dre:661909:por
+  label: "Extinto o Gabinete de Estudos Etnográficos pelo DEC LEI.93/84.1984.03.26.PCM, DR.IS [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1984-661909
+  date: '1984-03-26'
+- type: amended_by
+  target: pt:dre:241440:por
+  label: "Extinta a delegação da DGT no Porto pelo DEC LEI.292/98.1998.09.18.MECO, DR.IS-A [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1998-241440
+  date: '1998-09-18'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Extinto, sendo objecto de fusão, a Direcção-Geral do Turismo, criada pelo presente diploma, sendo as suas atribuições\
+    \ integradas na Direcção-Geral das Actividades Económicas e no Instituto do Turismo de Portugal, I.P., pelo DEC LEI.208/2006.27.10.2006.MEI,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520870:por
+  label: "Determinado que a Direcção-Geral das Actividades Económicas suceda nas atribuições da Direcção-Geral do Turismo,\
+    \ cuja orgânica foi aprovada pelo presente diploma, pelo DR.56/2007.27.04.2007.MEI, DR.IS [82] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/56-2007-520870
+  date: '2007-04-27'
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632010:por
+  label: "Revogado o n.º 1 do artigo 32.º e o artigo 33.º, no que respeita ao conselho administrativo do Fundo do Cinema e\
+    \ à Comissão de Condicionamento dos Recintos de Cinema, pela LEI.7/71.07.12.1971.PR, DG.IS [286] de 07.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-1971-632010
+  date: '1971-12-07'
+- type: repealed_by
+  target: pt:dre:376650:por
+  label: "Revogadas as disposições legais orgânicas que vinham regendo os serviços da extinta Secretaria de Estado da Comunicação\
+    \ Social constantes do presente diploma, pelo DEC LEI.420/82.1982.10.12.PCM, DR.IS [236]\06]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1982-376650
+  date: '1982-10-12'
 article_structure:
-  article_count: 1
-  section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:11Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +184,17 @@ ORGANIZAÇÃO DA SECRETARIA DE ESTADO DA INFORMAÇÃO E TURISMO
 
 ### CAPÍTULO I — Das atribuições
 
-###### Artigo 1.º - 1. À Secretaria de Estado da Informação e Turismo cabe superintender nos serviços e actividades relativos à informação, ao turismo e à radiodifusão sonora e visual, teatro, cinema e outros espectáculos e formas de cultura popular.
+Artigo 1.º - 1. À Secretaria de Estado da Informação e Turismo cabe superintender nos serviços e actividades relativos à informação, ao turismo e à radiodifusão sonora e visual, teatro, cinema e outros espectáculos e formas de cultura popular.
 
 2. A superintendência a exercer pela Secretaria de Estado sobre a radiodifusão particular respeitará às matérias de informação, programas e publicidade.
 
-###### Art. 2.º O disposto no artigo anterior não prejudica a competência atribuída por lei a outros departamentos ou serviços sobre assuntos relativos às matérias nele referidas.
+Art. 2.º O disposto no artigo anterior não prejudica a competência atribuída por lei a outros departamentos ou serviços sobre assuntos relativos às matérias nele referidas.
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos e serviços em geral
 
-###### Art. 3.º A Secretaria de Estado da Informação e Turismo compreende:
+Art. 3.º A Secretaria de Estado da Informação e Turismo compreende:
 
 a) O Gabinete do Secretário de Estado;
 
@@ -133,33 +222,33 @@ m) A Comissão de Exame e Classificação dos Espectáculos;
 
 n) A Comissão de Literatura e Espectáculos para Menores.
 
-###### Art. 4.º - 1. Será exercida pela Secretaria de Estado da Informação e Turismo a superintendência que as disposições legais vigentes atribuem à Presidência do Conselho, relativamente à Emissora Nacional de Radiodifusão, ao Fundo de Turismo e ao Centro Nacional de Formação Turística e Hoteleira.
+Art. 4.º - 1. Será exercida pela Secretaria de Estado da Informação e Turismo a superintendência que as disposições legais vigentes atribuem à Presidência do Conselho, relativamente à Emissora Nacional de Radiodifusão, ao Fundo de Turismo e ao Centro Nacional de Formação Turística e Hoteleira.
 
 2. Os referidos serviços conservam a personalidade jurídica e autonomia conferidas pelas respectivas normas reguladoras
 
 #### SECÇÃO II — Do Gabinete Técnico
 
-###### Art. 5.º - 1. O Gabinete Técnico constitui um serviço de apoio directo do Secretário de Estado, sob a sua imediata superintendência, com funções de estudo, planeamento, coordenação e inspecção, incumbindo-lhe, designadamente, emitir pareceres, sugerir providências para o aperfeiçoamento dos serviços, acompanhar a execução de planos, empreendimentos ou determinações, coordenar actividades e inspeccionar serviços, reunir e preparar documentação e elementos estatísticos e exercer quaisquer outras funções convenientes ao perfeito desempenho das atribuições da Secretaria de Estado.
+Art. 5.º - 1. O Gabinete Técnico constitui um serviço de apoio directo do Secretário de Estado, sob a sua imediata superintendência, com funções de estudo, planeamento, coordenação e inspecção, incumbindo-lhe, designadamente, emitir pareceres, sugerir providências para o aperfeiçoamento dos serviços, acompanhar a execução de planos, empreendimentos ou determinações, coordenar actividades e inspeccionar serviços, reunir e preparar documentação e elementos estatísticos e exercer quaisquer outras funções convenientes ao perfeito desempenho das atribuições da Secretaria de Estado.
 
 2. O Gabinete Técnico exercerá as suas funções em estreita colaboração com os gabinetes de estudo que funcionam nas direcções-gerais.
 
-###### Art. 6.º - 1. O Gabinete Técnico é constituído pelos três inspectores superiores a que se refere o artigo seguinte e pelo pessoal que, conforme as necessidades, para ele for destacado dos diversos serviços, por despacho do Secretário de Estado.
+Art. 6.º - 1. O Gabinete Técnico é constituído pelos três inspectores superiores a que se refere o artigo seguinte e pelo pessoal que, conforme as necessidades, para ele for destacado dos diversos serviços, por despacho do Secretário de Estado.
 
 2. O pessoal destacado nos termos do número anterior pode ser dispensado, total ou parcialmente, do desempenho de funções nos serviços onde se encontra colocado, consoante a actividade a exercer no Gabinete Técnico.
 
-###### Art. 7.º - 1. A Secretaria de Estado tem um inspector superior por cada direcção-geral.
+Art. 7.º - 1. A Secretaria de Estado tem um inspector superior por cada direcção-geral.
 
 2. Os inspectores superiores prestam normalmente serviço no Gabinete Técnico, mas podem ser encarregados de desempenhar funções, cumulativa ou exclusivamente, nas direcções-gerais ou noutros serviços da Secretaria de Estado.
 
-###### Art. 8.º - 1. Quando tal se mostre conveniente, a realização de estudos, inquéritos ou outros trabalhos de carácter eventual, próprios do Gabinete Técnico, poderá ser confiada a entidades nacionais ou estrangeiras, estranhas aos serviços, as quais exercerão a sua actividade sob a superintendência e com a colaboração do mesmo Gabinete.
+Art. 8.º - 1. Quando tal se mostre conveniente, a realização de estudos, inquéritos ou outros trabalhos de carácter eventual, próprios do Gabinete Técnico, poderá ser confiada a entidades nacionais ou estrangeiras, estranhas aos serviços, as quais exercerão a sua actividade sob a superintendência e com a colaboração do mesmo Gabinete.
 
 2. As condições dos contratos de prestação de serviço ou da realização dos trabalhos serão fixadas por despacho do Secretário de Estado.
 
 #### SECÇÃO III — Do Conselho Nacional da Informação
 
-###### Art. 9.º Ao Conselho Nacional da Informação cabe pronunciar-se sobre as questões de interesse para a informação pública, emitindo pareceres sobre os assuntos que lhe sejam submetidos e formulando sugestões para o aperfeiçoamento do exercício das actividades respectivas e do funcionamento dos serviços que nelas superintendem, e, bem assim, coordenar a acção dos diversos departamentos oficiais em matéria de informação.
+Art. 9.º Ao Conselho Nacional da Informação cabe pronunciar-se sobre as questões de interesse para a informação pública, emitindo pareceres sobre os assuntos que lhe sejam submetidos e formulando sugestões para o aperfeiçoamento do exercício das actividades respectivas e do funcionamento dos serviços que nelas superintendem, e, bem assim, coordenar a acção dos diversos departamentos oficiais em matéria de informação.
 
-###### Art. 10.º - 1. O Conselho Nacional da Informação é presidido pelo Secretário de Estado da Informação e Turismo e dele fazem parte:
+Art. 10.º - 1. O Conselho Nacional da Informação é presidido pelo Secretário de Estado da Informação e Turismo e dele fazem parte:
 
 a) O director-geral e o director dos serviços da Informação;
 
@@ -195,7 +284,7 @@ n) Um representante dos organismos particulares de radiodifusão sonora.
 
 5. Exercerá as funções de secretário, sem voto, um chefe de repartição da Direcção-Geral da Informação, a designar pelo director-geral.
 
-###### Art. 11.º - 1. O Conselho Nacional da Informação poderá reunir em sessões plenárias ou restritas, consoante a natureza das questões a apreciar.
+Art. 11.º - 1. O Conselho Nacional da Informação poderá reunir em sessões plenárias ou restritas, consoante a natureza das questões a apreciar.
 
 2. O Secretário de Estado da Informação e Turismo poderá delegar a presidência das reuniões no director-geral da Informação.
 
@@ -203,9 +292,9 @@ n) Um representante dos organismos particulares de radiodifusão sonora.
 
 #### SECÇÃO IV — Do Conselho Nacional da Radiodifusão
 
-###### Art. 12.º Ao Conselho Nacional da Radiodifusão cabe pronunciar-se sobre as questões de interesse para a radiodifusão sonora e visual, emitindo pareceres sobre os assuntos que lhe sejam submetidos e formulando sugestões para o aperfeiçoamento das actividades de radiodifusão e do funcionamento dos serviços que nelas superintendem.
+Art. 12.º Ao Conselho Nacional da Radiodifusão cabe pronunciar-se sobre as questões de interesse para a radiodifusão sonora e visual, emitindo pareceres sobre os assuntos que lhe sejam submetidos e formulando sugestões para o aperfeiçoamento das actividades de radiodifusão e do funcionamento dos serviços que nelas superintendem.
 
-###### Art. 13.º - 1. O Conselho Nacional da Radiodifusão é presidido pelo Secretário de Estado da Informação e Turismo e dele fazem parte:
+Art. 13.º - 1. O Conselho Nacional da Radiodifusão é presidido pelo Secretário de Estado da Informação e Turismo e dele fazem parte:
 
 a) Os directores-gerais da Informação e da Cultura Popular e Espectáculos;
 
@@ -235,13 +324,13 @@ l) Um representante dos organismos particulares de radiodifusão sonora.
 
 4. Exercerá as funções de secretário, sem voto, um chefe de repartição da Direcção-Geral da Cultura Popular e Espectáculos, a designar pelo director-geral.
 
-###### Art. 14.º - 1. É aplicável ao Conselho Nacional da Radiodifusão o disposto no n.º 2 do artigo 10.º e nos n.os 1 e 3 do artigo 11.º
+Art. 14.º - 1. É aplicável ao Conselho Nacional da Radiodifusão o disposto no n.º 2 do artigo 10.º e nos n.os 1 e 3 do artigo 11.º
 
 2.º Secretário de Estado da Informação e Turismo poderá delegar a presidência das reuniões no vogal a que se refere a alínea b) do artigo anterior.
 
 #### SECÇÃO V — Do Conselho Nacional do Turismo
 
-###### Art. 15.º - 1. O Conselho Nacional do Turismo continua a ter a competência atribuída pela legislação actualmente em vigor.
+Art. 15.º - 1. O Conselho Nacional do Turismo continua a ter a competência atribuída pela legislação actualmente em vigor.
 
 2. O Conselho é presidido pelo Secretário de Estado da Informação e Turismo e é composto pelos seguintes vogais:
 
@@ -287,15 +376,15 @@ p) Um representante do Automóvel Clube de Portugal.
 
 #### SECÇÃO VI — Da Secretaria-Geral
 
-###### Art. 16.º - 1. À Secretaria-Geral competem os assuntos de carácter administrativo do Gabinete do Secretário de Estado e de todos os outros serviços e órgãos da Secretaria de Estado e nela estão integrados os serviços técnicos de utilização comum.
+Art. 16.º - 1. À Secretaria-Geral competem os assuntos de carácter administrativo do Gabinete do Secretário de Estado e de todos os outros serviços e órgãos da Secretaria de Estado e nela estão integrados os serviços técnicos de utilização comum.
 
 2. A Secretaria-Geral exerce as suas atribuições através da Direcção dos Serviços Centrais.
 
-###### Art. 17.º - 1. O cargo de secretário-geral será exercido por um dos directores-gerais da Secretaria de Estado designado pelo Secretário de Estado.
+Art. 17.º - 1. O cargo de secretário-geral será exercido por um dos directores-gerais da Secretaria de Estado designado pelo Secretário de Estado.
 
 2. Na falta ou impedimento do secretário-geral, a sua substituição compete ao director-geral que for designado pelo Secretário de Estado.
 
-###### Art. 18.º - 1. A Direcção dos Serviços Centrais compreende:
+Art. 18.º - 1. A Direcção dos Serviços Centrais compreende:
 
 a) A Repartição de Expediente e Pessoal, abrangendo:
 
@@ -303,13 +392,13 @@ Secretaria;
 
 #### Secção de Pessoal;
 
-#### Secção de Publicidade e Editorial;
+Secção de Publicidade e Editorial;
 
 b) A Repartição de Contabilidade e Tesouraria, abrangendo:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade dos Serviços Externos;
+Secção de Contabilidade dos Serviços Externos;
 
 c) Os serviços jurídicos;
 
@@ -319,19 +408,19 @@ d) Os serviços de relações públicas.
 
 3. Cada chefe de repartição desta Direcção dos Serviços chefiará directamente uma das respectivas secções, a designar por despacho do Secretário de Estado, mediante proposta do director dos Serviços.
 
-###### Art. 19.º Serão definidos por despacho do Secretário de Estado os termos a observar nas relações entre a Secretaria-Geral e os restantes serviços e órgãos da Secretaria de Estado, incluindo a utilização dos serviços jurídicos e de relações públicas.
+Art. 19.º Serão definidos por despacho do Secretário de Estado os termos a observar nas relações entre a Secretaria-Geral e os restantes serviços e órgãos da Secretaria de Estado, incluindo a utilização dos serviços jurídicos e de relações públicas.
 
-###### Art. 20.º - 1. Poderá ser destacado para os diversos serviços e órgãos da Secretaria de Estado o pessoal da Direcção dos Serviços Centrais necessário para o desempenho das funções burocráticas cujo exercício directo pela mesma Direcção dos Serviços se mostre inconveniente.
+Art. 20.º - 1. Poderá ser destacado para os diversos serviços e órgãos da Secretaria de Estado o pessoal da Direcção dos Serviços Centrais necessário para o desempenho das funções burocráticas cujo exercício directo pela mesma Direcção dos Serviços se mostre inconveniente.
 
 2. A afectação de pessoal prevista no número anterior será determinada por despacho do Secretário de Estado.
 
-###### Art. 21.º A faculdade prevista no artigo anterior é extensiva ao pessoal dos serviços jurídicos e de relações públicas, quando tal se justifique pelo volume normal dos serviços a desempenhar junto de uma direcção-geral.
+Art. 21.º A faculdade prevista no artigo anterior é extensiva ao pessoal dos serviços jurídicos e de relações públicas, quando tal se justifique pelo volume normal dos serviços a desempenhar junto de uma direcção-geral.
 
 #### SECÇÃO VII — Da Direcção-Geral da Informação
 
-###### Art. 22.º À Direcção-Geral da Informação compete promover no País e no estrangeiro a divulgação dos factos mais importantes da vida portuguesa, contribuir para o conveniente exercício da função informativa e para a correcta formação da opinião pública e exercer as atribuições previstas na lei relativamente à imprensa, organismos de radiodifusão, agências noticiosas e correspondentes de jornais estrangeiros.
+Art. 22.º À Direcção-Geral da Informação compete promover no País e no estrangeiro a divulgação dos factos mais importantes da vida portuguesa, contribuir para o conveniente exercício da função informativa e para a correcta formação da opinião pública e exercer as atribuições previstas na lei relativamente à imprensa, organismos de radiodifusão, agências noticiosas e correspondentes de jornais estrangeiros.
 
-###### Art. 23.º - 1. A Direcção-Geral da Informação compreende:
+Art. 23.º - 1. A Direcção-Geral da Informação compreende:
 
 a) O Gabinete de Estudos;
 
@@ -341,31 +430,31 @@ I) A Repartição da Imprensa Portuguesa, com duas secções:
 
 #### Secção de Noticiário;
 
-#### Secção de Publicações Periódicas;
+Secção de Publicações Periódicas;
 
 II) A Repartição da Imprensa Estrangeira, com duas secções:
 
-#### Secção da Imprensa Estrangeira;
+Secção da Imprensa Estrangeira;
 
-#### Secção de Intercâmbio Luso-Brasileiro;
+Secção de Intercâmbio Luso-Brasileiro;
 
 III) A Repartição da Informação Áudio-Visual, com duas secções:
 
 #### Secção de Fotografia;
 
-#### Secção de Cinema e Radiodifusão;
+Secção de Cinema e Radiodifusão;
 
 c) A Repartição de Estudos e Publicações, com duas secções:
 
 #### Secção de Estudos;
 
-#### Secção de Publicações.
+Secção de Publicações.
 
 2. A biblioteca e a hemeroteca funcionam na dependência directa do chefe da Repartição de Estudos e Publicações, embora a sua utilização seja comum a todos os serviços da Secretaria de Estado.
 
 3. O director dos Serviços da Informação chefiará directamente uma das repartições da Direcção dos Serviços, a designar por despacho do Secretário de Estado, mediante proposta do director-geral.
 
-###### Art. 24.º Junto da Direcção-Geral da Informação funcionará o Conselho da Imprensa, que se regulará pelas disposições actualmente em vigor, com as seguintes alterações:
+Art. 24.º Junto da Direcção-Geral da Informação funcionará o Conselho da Imprensa, que se regulará pelas disposições actualmente em vigor, com as seguintes alterações:
 
 a) As funções de presidente cabem ao director-geral da Informação;
 
@@ -375,9 +464,9 @@ c) As funções de secretário serão desempenhadas por um chefe de repartição
 
 #### SECÇÃO VIII — Da Direcção-Geral do Turismo
 
-###### Art. 25.º À Direcção-Geral do Turismo compete promover a expansão do turismo nacional, pelo aproveitamento e valorização dos recursos turísticos do País, promoção do seu conhecimento no estrangeiro, coordenação e estímulo da acção dos órgãos locais de turismo e fomento, orientação, disciplina e fiscalização das actividades e profissões directamente ligadas ao mesmo.
+Art. 25.º À Direcção-Geral do Turismo compete promover a expansão do turismo nacional, pelo aproveitamento e valorização dos recursos turísticos do País, promoção do seu conhecimento no estrangeiro, coordenação e estímulo da acção dos órgãos locais de turismo e fomento, orientação, disciplina e fiscalização das actividades e profissões directamente ligadas ao mesmo.
 
-###### Art. 26.º - 1. A Direcção-Geral do Turismo compreende:
+Art. 26.º - 1. A Direcção-Geral do Turismo compreende:
 
 a) O Gabinete de Estudos e Planeamento;
 
@@ -389,19 +478,19 @@ II) A Repartição de Património e Órgãos Locais de Turismo, com duas secçõ
 
 #### Secção de Equipamento;
 
-#### Secção dos Órgãos Locais de Turismo;
+Secção dos Órgãos Locais de Turismo;
 
 c) A Repartição de Actividades Turísticas, com três secções:
 
-#### Secção da Indústria Hoteleira;
+Secção da Indústria Hoteleira;
 
-#### Secção dos Estabelecimentos Hoteleiros do Estado;
+Secção dos Estabelecimentos Hoteleiros do Estado;
 
-#### Secção de Empresas e Profissões Turísticas;
+Secção de Empresas e Profissões Turísticas;
 
 d) A Repartição de Documentação e Propaganda, com duas secções:
 
-#### Secção de Documentação e Informação;
+Secção de Documentação e Informação;
 
 #### Secção de Propaganda;
 
@@ -411,43 +500,43 @@ e) Os serviços de inspecção.
 
 #### SECÇÃO IX — Da Direcção-Geral da Cultura Popular e Espectáculos
 
-###### Art. 27.º À Direcção-Geral da Cultura Popular e Espectáculos compete orientar, estimular e coordenar todas as actividades relacionadas com as formas tradicionais de arte e de cultura popular, bem como superintender nos espectáculos e divertimentos públicos e nos recintos a eles destinados e exercer a respectiva fiscalização.
+Art. 27.º À Direcção-Geral da Cultura Popular e Espectáculos compete orientar, estimular e coordenar todas as actividades relacionadas com as formas tradicionais de arte e de cultura popular, bem como superintender nos espectáculos e divertimentos públicos e nos recintos a eles destinados e exercer a respectiva fiscalização.
 
-###### Art. 28.º - 1. A Direcção-Geral da Cultura Popular e Espectáculos compreende:
+Art. 28.º - 1. A Direcção-Geral da Cultura Popular e Espectáculos compreende:
 
 a) A Repartição de Artes Plásticas, com duas secções:
 
-#### Secção de Realizações Artísticas;
+Secção de Realizações Artísticas;
 
 #### Secção de Montagens;
 
 b) A Repartição de Teatro, Cinema e Etnografia, com três secções:
 
-#### Secção de Teatro, Música e Bailado;
+Secção de Teatro, Música e Bailado;
 
 #### Secção de Cinema;
 
-#### Secção de Etnografia e Sociedades Recreativas;
+Secção de Etnografia e Sociedades Recreativas;
 
 c) A Direcção dos Serviços de Espectáculos, abrangendo:
 
 I) A Repartição de Expediente, com duas secções:
 
-#### Secção de Expediente e Vistos;
+Secção de Expediente e Vistos;
 
-#### Secção de Estatística e Arquivo;
+Secção de Estatística e Arquivo;
 
 II) A Repartição de Fiscalização e Contencioso, com duas secções:
 
 #### Secção Técnica;
 
-#### Secção de Inspecção, Fiscalização e Contencioso.
+Secção de Inspecção, Fiscalização e Contencioso.
 
 2. O chefe da Repartição de Artes Plásticas chefiará directamente uma das respectivas secções, a designar pelo Secretário de Estado, mediante proposta do director-geral.
 
-###### Art. 29.º Depende directamente do director-geral da Cultura Popular e Espectáculos o Museu de Arte Popular, junto do qual, também na dependência do director-geral, existirá um Gabinete de Estudos Etnográficos.
+Art. 29.º Depende directamente do director-geral da Cultura Popular e Espectáculos o Museu de Arte Popular, junto do qual, também na dependência do director-geral, existirá um Gabinete de Estudos Etnográficos.
 
-###### Art. 30.º Junto da Direcção-Geral da Cultura Popular e Espectáculos funcionam:
+Art. 30.º Junto da Direcção-Geral da Cultura Popular e Espectáculos funcionam:
 
 a) O Conselho do Teatro;
 
@@ -457,7 +546,7 @@ c) O conselho administrativo do Fundo do Teatro;
 
 d) O conselho administrativo do Fundo do Cinema.
 
-###### Art. 31.º O Conselho do Teatro e o Conselho do Cinema continuam a regular-se pela legislação actualmente em vigor, com as alterações seguintes:
+Art. 31.º O Conselho do Teatro e o Conselho do Cinema continuam a regular-se pela legislação actualmente em vigor, com as alterações seguintes:
 
 a) As funções de presidente serão exercidas pelo director-geral da Cultura Popular e Espectáculos;
 
@@ -467,7 +556,7 @@ c) No Conselho do Cinema terão assento o director dos Serviços e o chefe da Re
 
 d) Em ambos os Conselhos terá também assento o presidente da Corporação dos Espectáculos.
 
-###### Art. 32.º - 1. Os conselhos administrativos do Fundo do Teatro e do Fundo do Cinema passam a ter a seguinte constituição:
+Art. 32.º - 1. Os conselhos administrativos do Fundo do Teatro e do Fundo do Cinema passam a ter a seguinte constituição:
 
 a) Presidente: o director-geral da Cultura Popular e Espectáculos;
 
@@ -475,7 +564,7 @@ b) Vogais: o director dos Serviços Centrais da Secretaria de Estado e o chefe d
 
 2. Os membros dos conselhos têm direito a uma gratificação mensal, a fixar pelo Secretário de Estado da Informação e Turismo, ouvido o Ministro das Finanças.
 
-###### Art. 33.º Junto da Direcção dos Serviços de Espectáculos funcionam o Conselho Técnico e a Comissão de Condicionamento dos Recintos de Cinema, com a composição e competência reguladas na legislação vigente, com as alterações seguintes:
+Art. 33.º Junto da Direcção dos Serviços de Espectáculos funcionam o Conselho Técnico e a Comissão de Condicionamento dos Recintos de Cinema, com a composição e competência reguladas na legislação vigente, com as alterações seguintes:
 
 a) As funções de presidente serão exercidas pelo director dos Serviços de Espectáculos;
 
@@ -483,29 +572,29 @@ b) As funções de secretário da Comissão de Condicionamento dos Recintos de C
 
 #### SECÇÃO X — Dos serviços locais e no estrangeiro
 
-###### Art. 34.º Os serviços locais e no estrangeiro continuam a regular-se pela legislação actualmente em vigor, salvo o disposto no artigo seguinte.
+Art. 34.º Os serviços locais e no estrangeiro continuam a regular-se pela legislação actualmente em vigor, salvo o disposto no artigo seguinte.
 
-###### Art. 35.º - 1. A delegação no Porto dos serviços da Secretaria de Estado da Informação e Turismo passa a ser chefiada por um funcionário com a categoria de chefe de repartição.
+Art. 35.º - 1. A delegação no Porto dos serviços da Secretaria de Estado da Informação e Turismo passa a ser chefiada por um funcionário com a categoria de chefe de repartição.
 
 2. A delegação depende administrativamente da Secretaria-Geral, mas nos assuntos de carácter técnico pode corresponder-se directamente com os diversos serviços.
 
 #### SECÇÃO XI — Da Comissão de Exame e Classificação dos Espectáculos e da Comissão de Literatura e Espectáculos para Menores
 
-###### Art. 36.º A Comissão de Exame e Classificação dos Espectáculos e a Comissão de Literatura e Espectáculos para Menores continuam a reger-se pelas disposições actualmente em vigor, salvo o disposto nos artigos seguintes.
+Art. 36.º A Comissão de Exame e Classificação dos Espectáculos e a Comissão de Literatura e Espectáculos para Menores continuam a reger-se pelas disposições actualmente em vigor, salvo o disposto nos artigos seguintes.
 
-###### Art. 37.º - 1. A presidência de ambas as Comissões será exercida, por inerência e sem remuneração, pelo director-geral da Cultura Popular e Espectáculos.
+Art. 37.º - 1. A presidência de ambas as Comissões será exercida, por inerência e sem remuneração, pelo director-geral da Cultura Popular e Espectáculos.
 
 2. Cada uma das Comissões terá um vice-presidente, ao qual cabe coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos ou sempre que para tal receba delegação.
 
-###### Art. 38.º Nas deliberações, em recurso, da Comissão de Exame e Classificação dos Espectáculos terão intervenção representantes da Corporação dos Espectáculos, sendo um da Secção de Teatro, Música e Dança e outro da Secção de Cinema, os quais intervirão consoante a natureza do espectáculo a examinar e classificar.
+Art. 38.º Nas deliberações, em recurso, da Comissão de Exame e Classificação dos Espectáculos terão intervenção representantes da Corporação dos Espectáculos, sendo um da Secção de Teatro, Música e Dança e outro da Secção de Cinema, os quais intervirão consoante a natureza do espectáculo a examinar e classificar.
 
 ### CAPÍTULO III — Da administração financeira
 
-###### Art. 39.º Será aplicável à Secretaria de Estado da Informação e Turismo o regime de administração financeira estabelecido para o Secretariado Nacional da Informação, Cultura Popular e Turismo nos artigos 18.º a 20.º do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915), de 24 de Novembro de 1944, devendo as folhas de requisição ser autorizadas pelo Secretário de Estado e assinadas pelo director dos Serviços Centrais ou por quem o substituir.
+Art. 39.º Será aplicável à Secretaria de Estado da Informação e Turismo o regime de administração financeira estabelecido para o Secretariado Nacional da Informação, Cultura Popular e Turismo nos artigos 18.º a 20.º do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915), de 24 de Novembro de 1944, devendo as folhas de requisição ser autorizadas pelo Secretário de Estado e assinadas pelo director dos Serviços Centrais ou por quem o substituir.
 
 ### CAPÍTULO IV — Disposições sobre o pessoal
 
-###### Art. 40.º - 1. Os serviços da Secretaria de Estado da Informação e Turismo terão o pessoal permanente constante dos quadros que forem aprovados por decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado.
+Art. 40.º - 1. Os serviços da Secretaria de Estado da Informação e Turismo terão o pessoal permanente constante dos quadros que forem aprovados por decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado.
 
 2. Para desempenhar funções auxiliares ou executar trabalhos de carácter técnico ou eventual poderá ser contratado ou assalariado, mediante autorização do Secretário de Estado e com dispensa de outras formalidades legais, o pessoal indispensável, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas no orçamento para esse fim.
 
@@ -513,7 +602,7 @@ b) As funções de secretário da Comissão de Condicionamento dos Recintos de C
 
 O pessoal a contratar deverá possuir as habilitações literárias exigidas para o cargo e receberá a remuneração a ele correspondente.
 
-###### Art. 41.º São providos por escolha do Secretário de Estado:
+Art. 41.º São providos por escolha do Secretário de Estado:
 
 a) Os lugares de director-geral, inspector superior e director de serviços, entre indivíduos com as qualificações adequadas ao exercício dos respectivos cargos;
 
@@ -525,7 +614,7 @@ d) Os técnicos, entre indivíduos com as qualificações adequadas ao exercíci
 
 e) Os inspectores, entre licenciados em Direito.
 
-###### Art. 42.º - 1. As nomeações para os cargos a que se refere o artigo anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver dado provas de aptidão para o lugar, ou exonerado, no caso contrário.
+Art. 42.º - 1. As nomeações para os cargos a que se refere o artigo anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver dado provas de aptidão para o lugar, ou exonerado, no caso contrário.
 
 2. Se o funcionário já tiver provimento definitivo noutro lugar manterá o direito ao mesmo durante o prazo de nomeação provisória, que, nesse caso, será reduzido a um ano.
 
@@ -535,7 +624,7 @@ Entretanto, poderá aquele lugar ser provido interinamente.
 
 4. O provimento dos restantes lugares do quadro é feito mediante contrato, por períodos de um ano, renováveis.
 
-###### Art. 43.º - 1. O Secretário de Estado da Informação e Turismo poderá requisitar a outros departamentos do Estado, com o acordo do Ministro respectivo, funcionários necessários para a execução de serviços técnicos que exijam particulares aptidões.
+Art. 43.º - 1. O Secretário de Estado da Informação e Turismo poderá requisitar a outros departamentos do Estado, com o acordo do Ministro respectivo, funcionários necessários para a execução de serviços técnicos que exijam particulares aptidões.
 
 2. Os funcionários requisitados serão remunerados pela Secretaria de Estado, podendo ser-lhes atribuída uma gratificação.
 
@@ -543,31 +632,31 @@ Entretanto, poderá aquele lugar ser provido interinamente.
 
 4. O tempo de serviço prestado na Secretaria de Estado pelos funcionários requisitados será contado, para todos os efeitos, como prestado no próprio quadro.
 
-###### Art. 44.º - 1. Ao chefe da Repartição de Fiscalização e Contencioso da Direcção-Geral da Cultura Popular e Espectáculos e aos respectivos inspectores são atribuídas gratificações mensais nos quantitativos, respectivamente, de 1000$00 e 2000$00.
+Art. 44.º - 1. Ao chefe da Repartição de Fiscalização e Contencioso da Direcção-Geral da Cultura Popular e Espectáculos e aos respectivos inspectores são atribuídas gratificações mensais nos quantitativos, respectivamente, de 1000$00 e 2000$00.
 
 2. As gratificações, salvo a do chefe da Repartição de Fiscalização e Contencioso, estão sujeitas ao disposto nos §§ 1.º e 2.º do artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 45.º - 1. O conselho geral do Centro Nacional de Formação Turística e Hoteleira será presidido pelo director-geral do Turismo, através do qual serão submetidos a despacho do Secretário de Estado da Informação e Turismo os assuntos que dele careçam.
+Art. 45.º - 1. O conselho geral do Centro Nacional de Formação Turística e Hoteleira será presidido pelo director-geral do Turismo, através do qual serão submetidos a despacho do Secretário de Estado da Informação e Turismo os assuntos que dele careçam.
 
 2. O presidente da direcção do mesmo Centro será designado pelo Secretário de Estado, sob proposta do presidente do conselho geral, e exercerá as funções de vice-presidente deste conselho.
 
-###### Art. 46.º A Secretaria de Estado da Informação e Turismo será sempre ouvida sobre as concessões de exploração de jogos de fortuna ou azar e, em especial, sobre as obrigações a impor às empresas concessionárias.
+Art. 46.º A Secretaria de Estado da Informação e Turismo será sempre ouvida sobre as concessões de exploração de jogos de fortuna ou azar e, em especial, sobre as obrigações a impor às empresas concessionárias.
 
-###### Art. 47.º Do Conselho da Inspecção de Jogos passa a fazer parte, como vogal, um representante da Direcção-Geral do Turismo, a designar pelo Secretário de Estado da Informação e Turismo.
+Art. 47.º Do Conselho da Inspecção de Jogos passa a fazer parte, como vogal, um representante da Direcção-Geral do Turismo, a designar pelo Secretário de Estado da Informação e Turismo.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 48.º - 1. Continuam em vigor para a Secretaria de Estado da Informação e Turismo as disposições legais reguladoras dos serviços, actividades e competência do Secretariado Nacional da Informação, Cultura Popular e Turismo que não sejam incompatíveis com o disposto no presente diploma.
+Art. 48.º - 1. Continuam em vigor para a Secretaria de Estado da Informação e Turismo as disposições legais reguladoras dos serviços, actividades e competência do Secretariado Nacional da Informação, Cultura Popular e Turismo que não sejam incompatíveis com o disposto no presente diploma.
 
 2. Consideram-se como respeitantes aos diversos serviços da Secretaria de Estado, consoante a matéria, as referências feitas nessas disposições aos serviços daquele Secretariado.
 
-###### Art. 49.º Enquanto permanecer em vigor o regime estabelecido pelo [Decreto-Lei n.º 22469](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22469-1933-255226), de 11 de Abril de 1933, os serviços destinados à sua execução ficam dependentes da Direcção-Geral da Informação.
+Art. 49.º Enquanto permanecer em vigor o regime estabelecido pelo [Decreto-Lei n.º 22469](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22469-1933-255226), de 11 de Abril de 1933, os serviços destinados à sua execução ficam dependentes da Direcção-Geral da Informação.
 
-###### Art. 50.º Enquanto não forem aprovados os quadros de pessoal a que se refere o n.º 1 do artigo 40.º, considera-se em vigor para a Secretaria de Estado da Informação e Turismo o actual quadro de pessoal do Secretariado Nacional da Informação, Cultura Popular e Turismo, ao qual, porém, são aditados e abatidos os lugares constantes, respectivamente, dos mapas n.os 1 e 2 anexos ao presente diploma.
+Art. 50.º Enquanto não forem aprovados os quadros de pessoal a que se refere o n.º 1 do artigo 40.º, considera-se em vigor para a Secretaria de Estado da Informação e Turismo o actual quadro de pessoal do Secretariado Nacional da Informação, Cultura Popular e Turismo, ao qual, porém, são aditados e abatidos os lugares constantes, respectivamente, dos mapas n.os 1 e 2 anexos ao presente diploma.
 
-###### Art. 51.º - 1. O pessoal ao serviço do Secretariado Nacional da Informação, Cultura Popular e Turismo poderá ser provido nos lugares criados pelo presente diploma e nas vagas que resultem desse provimento, mediante lista aprovada pelo Secretário de Estado e publicada no Diário do Governo, donde constem o lugar em que cada funcionário fica provido e o carácter provisório ou definitivo do provimento.
+Art. 51.º - 1. O pessoal ao serviço do Secretariado Nacional da Informação, Cultura Popular e Turismo poderá ser provido nos lugares criados pelo presente diploma e nas vagas que resultem desse provimento, mediante lista aprovada pelo Secretário de Estado e publicada no Diário do Governo, donde constem o lugar em que cada funcionário fica provido e o carácter provisório ou definitivo do provimento.
 
 2. O provimento previsto no número anterior é independente do tempo de serviço prestado nas actuais.
 
@@ -581,27 +670,27 @@ No caso contrário, serão providos provisòriamente, nos termos do artigo 42.º
 
 6. O pessoal ao serviço do Secretariado Nacional da Informação, Cultura Popular e Turismo que não seja incluído na lista prevista no n.º 1 deste artigo continua provido nos lugares que ocupar à data da entrada em vigor do presente diploma.
 
-###### Art. 52.º Para os efeitos do disposto no artigo 42.º será contado como de nomeação provisória o tempo de serviço prestado em regime de contrato, nos termos do artigo 15.º do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915), de 24 de Novembro de 1944, pelo pessoal que se encontre nessas condições.
+Art. 52.º Para os efeitos do disposto no artigo 42.º será contado como de nomeação provisória o tempo de serviço prestado em regime de contrato, nos termos do artigo 15.º do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915), de 24 de Novembro de 1944, pelo pessoal que se encontre nessas condições.
 
-###### Art. 53.º Será extinto, quando vagar, o lugar de inspector-chefe dos serviços no estrangeiro, criado pelo artigo 2.º do [Decreto-Lei n.º 42377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42377-1959-432852), de 11 de Julho de 1959.
+Art. 53.º Será extinto, quando vagar, o lugar de inspector-chefe dos serviços no estrangeiro, criado pelo artigo 2.º do [Decreto-Lei n.º 42377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42377-1959-432852), de 11 de Julho de 1959.
 
-###### Art. 54.º - 1. Ao pessoal da Secretaria de Estado inscrito na Caixa Geral de Aposentações, ou a inscrever na mesma Caixa por virtude de ingresso no quadro, será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º, §§ 1.º e 2.º, do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º, § único, do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+Art. 54.º - 1. Ao pessoal da Secretaria de Estado inscrito na Caixa Geral de Aposentações, ou a inscrever na mesma Caixa por virtude de ingresso no quadro, será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º, §§ 1.º e 2.º, do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º, § único, do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
 
 2. É concedido o prazo de cento e oitenta dias, a partir da vigência deste decreto-lei, para o pessoal que queira beneficiar do disposto no número antecedente requerer a contagem do tempo de serviço anteriormente prestado.
 
 3. Os pedidos serão dirigidos à Caixa Geral de Aposentações e instruídos com os documentos comprovativos.
 
-###### Art. 55.º Os presidentes da Comissão de Exame e Classificação dos Espectáculos e da Comissão de Literatura e Espectáculos para Menores à data da entrada em vigor do presente diploma, passarão a exercer as funções de vice-presidentes das mesmas Comissões, independentemente de quaisquer formalidades legais.
+Art. 55.º Os presidentes da Comissão de Exame e Classificação dos Espectáculos e da Comissão de Literatura e Espectáculos para Menores à data da entrada em vigor do presente diploma, passarão a exercer as funções de vice-presidentes das mesmas Comissões, independentemente de quaisquer formalidades legais.
 
-###### Art. 56.º - 1. O presente diploma entra em vigor no dia 1 de Janeiro de 1969, ficando extinto, a partir desta data, o Secretariado Nacional da Informação, Cultura Popular e Turismo.
+Art. 56.º - 1. O presente diploma entra em vigor no dia 1 de Janeiro de 1969, ficando extinto, a partir desta data, o Secretariado Nacional da Informação, Cultura Popular e Turismo.
 
 2. Poderá, porém, ser publicada antes daquela data, mas para produzir efeitos a partir da mesma, a lista a que se refere o artigo 51.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - César Henrique Moreira Baptista.
 
-**Promulgado em 13 de Novembro de 1968.**
+Promulgado em 13 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -611,12 +700,12 @@ MAPA N.º 1
 
 Lugares aditados ao quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/26900/16751681.pdf))](https://files.diariodarepublica.pt/1s/1968/11/26900/16751681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/26900/16751681.pdf)
 
 MAPA N.º 2
 
 Lugares abatidos ao quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/26900/16751681.pdf))](https://files.diariodarepublica.pt/1s/1968/11/26900/16751681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/26900/16751681.pdf)
 
 Secretaria de Estado da Informação e Turismo, 13 de Novembro de 1968. - O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.

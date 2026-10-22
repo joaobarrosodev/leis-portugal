@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/180-1972-681842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 679fb4b0a2b6d8bd60da8eaffb150662de6d8d4beaaa0dce0e3e69d4fe8c0eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e16a227bcdbcad9fda854584da5eb8031514edd9f873cf8478bf1615ceea7d43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633940:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:07Z'
   warnings: []
   errors: []
 ---
@@ -97,25 +129,25 @@ Disposições especiais
 
 A) S. Tomé e Príncipe
 
-###### Artigo 1.º É elevada para 1500$00 mensais a gratificação especial fixada no mapa IV anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, para o funcionário dos Serviços de Finanças que exerce as funções de caixeiro despachante dos serviços públicos da província.
+Artigo 1.º É elevada para 1500$00 mensais a gratificação especial fixada no mapa IV anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, para o funcionário dos Serviços de Finanças que exerce as funções de caixeiro despachante dos serviços públicos da província.
 
-###### Art. 2.º O quadro do pessoal docente do Liceu de D. João II, a que se refere a alínea a) do artigo 2.º do Decreto n.º 42512, de 18 de Setembro de 1959, é aumentado de uma unidade no 8.º grupo e diminuído de outra no 9.º grupo.
+Art. 2.º O quadro do pessoal docente do Liceu de D. João II, a que se refere a alínea a) do artigo 2.º do Decreto n.º 42512, de 18 de Setembro de 1959, é aumentado de uma unidade no 8.º grupo e diminuído de outra no 9.º grupo.
 
 B) Angola
 
-###### Art. 3.º - 1. Ao chefe da Divisão do Contencioso e Contratos da Junta Provincial de Habitação são conferidas funções notariais para os actos que devam revestir a forma de contrato.
+Art. 3.º - 1. Ao chefe da Divisão do Contencioso e Contratos da Junta Provincial de Habitação são conferidas funções notariais para os actos que devam revestir a forma de contrato.
 
 2. Na falta ou impedimento do chefe da Divisão do Contencioso e Contratos desempenhará aquelas funções o funcionário que o director da Junta designar para o efeito.
 
-###### Art. 4.º - 1. Nos contratos em que seja parte a Junta Provincial de Habitação outorgará, em nome e representação deste organismo, o director de serviços ou quem suas vezes fizer.
+Art. 4.º - 1. Nos contratos em que seja parte a Junta Provincial de Habitação outorgará, em nome e representação deste organismo, o director de serviços ou quem suas vezes fizer.
 
 2. Os contratos celebrados na Junta têm a fé pública dos documentos autênticos oficiais.
 
-###### Art. 5.º - 1. É extinto o lugar de auxiliar de contabilidade dos Serviços de Saúde e Assistência e aumentado ao quadro administrativo dos mesmos Serviços um lugar de segundo-oficial.
+Art. 5.º - 1. É extinto o lugar de auxiliar de contabilidade dos Serviços de Saúde e Assistência e aumentado ao quadro administrativo dos mesmos Serviços um lugar de segundo-oficial.
 
 2. O funcionário que actualmente ocupa o lugar de auxiliar de contabilidade transita para o de segundo-oficial mediante despacho anotado pelo Tribunal Administrativo, publicado no Boletim Oficial, sendo-lhe mantidos todos os direitos emergentes da actual situação, nomeadamente quanto a contagem de tempo de serviço.
 
-###### Art. 6.º - 1. São extintos nos Serviços de Saúde e Assistência os lugares de auxiliar de administração de 1.ª e 2.ª classes e de dactilógrafo e criados os de escriturário-dactilógrafo de 1.ª e 2.ª classes, respectivamente, com as letras S e T do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 6.º - 1. São extintos nos Serviços de Saúde e Assistência os lugares de auxiliar de administração de 1.ª e 2.ª classes e de dactilógrafo e criados os de escriturário-dactilógrafo de 1.ª e 2.ª classes, respectivamente, com as letras S e T do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. Os novos lugares serão inscritos no orçamento por forma que os auxiliares de administração de 1.ª classe e os dactilógrafos com mais de três anos de serviço transitem para escriturários-dactilógrafos de 1.ª classe e os auxiliares de administração de 2.ª classe e os dactilógrafos com menos de três anos de serviço transitem para escriturários-dactilógrafos de 2.ª classe.
 
@@ -125,9 +157,9 @@ B) Angola
 
 5. O provimento dos lugares de escriturário-dactilógrafo de 1.ª classe será feito, mediante concurso cujas condições serão igualmente fixadas pela província, por promoção de escriturários-dactilógrafos de 2.ª classe com pelo menos três anos de serviço.
 
-###### Art. 7.º É aumentado ao quadro comum administrativo de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social do ultramar, anexo ao [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, um lugar de assistente social.
+Art. 7.º É aumentado ao quadro comum administrativo de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social do ultramar, anexo ao [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, um lugar de assistente social.
 
-###### Art. 8.º São criados no quadro de pessoal de nomeação - pessoal técnico - do Laboratório de Engenharia os seguinte lugares:
+Art. 8.º São criados no quadro de pessoal de nomeação - pessoal técnico - do Laboratório de Engenharia os seguinte lugares:
 
 Três de experimentador-chefe - letra H.
 
@@ -139,29 +171,29 @@ Três de experimentador de 3.ª classe - letra K.
 
 C) Moçambique
 
-###### Art. 9.º É atribuída ao geólogo-chefe especializado dos Serviços de Geologia e Minas que acumular com o exercício das funções do seu cargo, e sem prejuízo destas, a fiscalização, por parte do Governo, da empreitada de cartografia geológica em curso na província a gratificação mensal de 2000$00, com início em 1 de Janeiro do corrente ano.
+Art. 9.º É atribuída ao geólogo-chefe especializado dos Serviços de Geologia e Minas que acumular com o exercício das funções do seu cargo, e sem prejuízo destas, a fiscalização, por parte do Governo, da empreitada de cartografia geológica em curso na província a gratificação mensal de 2000$00, com início em 1 de Janeiro do corrente ano.
 
-###### Art. 10.º A alínea d) do artigo 13.º do [Decreto n.º 121/71](https://diariodarepublica.pt/dr/detalhe/decreto/121-1971-445918), de 3 de Abril, passa a ter a seguinte redacção:
+Art. 10.º A alínea d) do artigo 13.º do [Decreto n.º 121/71](https://diariodarepublica.pt/dr/detalhe/decreto/121-1971-445918), de 3 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 ...
 
 d) Promover a realização de análises e ensaios em estabelecimentos especializados, provinciais ou nacionais, e, quando necessário, estrangeiros, com vista ao contrôle de qualidade dos produtos industriais, sendo os respectivos encargos suportados pelo fundo de comercialização;
 
-###### Art. 11.º - 1. É o governador-geral autorizado a abrir, em adicional à tabela de despesa extraordinária do orçamento geral da província, um crédito especial da importância de 800000$00, destinado à regularização das despesas efectuadas durante o ano de 1971 com as obras de defesa das praias da Beira, tomando como contrapartida o saldo das contas de exercício findos.
+Art. 11.º - 1. É o governador-geral autorizado a abrir, em adicional à tabela de despesa extraordinária do orçamento geral da província, um crédito especial da importância de 800000$00, destinado à regularização das despesas efectuadas durante o ano de 1971 com as obras de defesa das praias da Beira, tomando como contrapartida o saldo das contas de exercício findos.
 
 2. É anulada a [Portaria n.º 188/72](https://diariodarepublica.pt/dr/detalhe/portaria/188-1972-396153), publicada no Diário do Governo, 1.ª série, n.º 79, de 4 de Abril.
 
-###### Art. 12.º Fica o governador-geral da província autorizado a estabelecer gratificações destinadas a compensar os trabalhos de fiscalização executados fora das horas normais de serviço pelos cabos-de-mar de guarda a embarcações, as quais serão abonadas independentemente da comparticipação emolumentar prevista no artigo 21.º do [Decreto n.º 49431](https://diariodarepublica.pt/dr/detalhe/decreto/49431-1969-253809), de 6 de Dezembro de 1969.
+Art. 12.º Fica o governador-geral da província autorizado a estabelecer gratificações destinadas a compensar os trabalhos de fiscalização executados fora das horas normais de serviço pelos cabos-de-mar de guarda a embarcações, as quais serão abonadas independentemente da comparticipação emolumentar prevista no artigo 21.º do [Decreto n.º 49431](https://diariodarepublica.pt/dr/detalhe/decreto/49431-1969-253809), de 6 de Dezembro de 1969.
 
-###### Art. 13.º É elevado para 1500$00 mensais o quantitativo da gratificação prevista no artigo 4.º do [Decreto n.º 47055](https://diariodarepublica.pt/dr/detalhe/decreto/47055-1966-472312), de 24 de Junho de 1966.
+Art. 13.º É elevado para 1500$00 mensais o quantitativo da gratificação prevista no artigo 4.º do [Decreto n.º 47055](https://diariodarepublica.pt/dr/detalhe/decreto/47055-1966-472312), de 24 de Junho de 1966.
 
 D) Macau
 
-###### Art. 14.º É criado no Centro de Informação e Turismo um lugar de chefe de secção, incluído na categoria J do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 14.º É criado no Centro de Informação e Turismo um lugar de chefe de secção, incluído na categoria J do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 15.º - 1. Fica o Governador da província autorizado a incluir no quadro de pessoal auxiliar dos Serviços de Finanças três lugares de escrevente de chinês, com as categorias das letras S e T do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 15.º - 1. Fica o Governador da província autorizado a incluir no quadro de pessoal auxiliar dos Serviços de Finanças três lugares de escrevente de chinês, com as categorias das letras S e T do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. O primeiro provimento dos lugares criados por este artigo será feito por escolha entre os escriturários de 2.ª classe do mesmo quadro, que ocuparão as referidas categorias conforme tenham ou não mais de 15 anos de serviço.
 
@@ -173,11 +205,11 @@ II
 
 Disposições comuns
 
-###### Art. 16.º O primeiro provimento dos lugares de contínuo, porteiro e guarda de 2.ª classe, previstos nos artigos 11.º e 12.º do [Decreto n.º 450/71](https://diariodarepublica.pt/dr/detalhe/decreto/450-1971-633940), de 26 de Outubro, será feito por escolha do Ministro entre o pessoal assalariado do Jardim e Museu Agrícola do Ultramar, mediante simples despacho anotado pelo Tribunal de Contas e publicado no Diário do Governo.
+Art. 16.º O primeiro provimento dos lugares de contínuo, porteiro e guarda de 2.ª classe, previstos nos artigos 11.º e 12.º do [Decreto n.º 450/71](https://diariodarepublica.pt/dr/detalhe/decreto/450-1971-633940), de 26 de Outubro, será feito por escolha do Ministro entre o pessoal assalariado do Jardim e Museu Agrícola do Ultramar, mediante simples despacho anotado pelo Tribunal de Contas e publicado no Diário do Governo.
 
-###### Art. 17.º O artigo 444.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passa a ter a seguinte redacção:
+Art. 17.º O artigo 444.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passa a ter a seguinte redacção:
 
-###### Art. 444.º A partir da desligação do serviço, o funcionário terá direito a uma pensão, a fixar por despacho, que será provisória até ser concedida a aposentação e constituirá encargo das províncias ultramarinas na proporção do tempo de serviço nelas prestado.
+Art. 444.º A partir da desligação do serviço, o funcionário terá direito a uma pensão, a fixar por despacho, que será provisória até ser concedida a aposentação e constituirá encargo das províncias ultramarinas na proporção do tempo de serviço nelas prestado.
 
 § 1.º A desligação do serviço retroage à data do facto ou acto determinante da aposentação.
 
@@ -187,13 +219,13 @@ Disposições comuns
 
 § 4.º A pensão provisória será suportada pela verba «Pessoal aguardando aposentação ou reforma», inscrita no capítulo 3.º da tabela de despesa ordinária dos orçamento gerais das províncias ultramarinas.
 
-###### Art. 18.º É aditado ao artigo 95.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, o seguinte parágrafo:
+Art. 18.º É aditado ao artigo 95.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, o seguinte parágrafo:
 
 § 4.º Poderá ser contratado além dos quadros, nos termos legais, o pessoal necessário ao bom funcionamento dos serviços.
 
-###### Art. 19.º Os técnicos de electrotecnia de 1.ª e 2.ª classes, contratados, dos quadros dos serviços de saúde e assistência do ultramar, que ainda não foram integrados nos lugares de ajudante técnico de electromedicina de 1.ª e 2.ª classes, criados pelo artigo 181.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, transitarão para estes lugares mediante apostila aos contratos vigentes.
+Art. 19.º Os técnicos de electrotecnia de 1.ª e 2.ª classes, contratados, dos quadros dos serviços de saúde e assistência do ultramar, que ainda não foram integrados nos lugares de ajudante técnico de electromedicina de 1.ª e 2.ª classes, criados pelo artigo 181.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969, transitarão para estes lugares mediante apostila aos contratos vigentes.
 
-###### Art. 20.º - 1. É permitida a arrecadação nos cofres da Fazenda das províncias ultramarinas, por meio de desconto nos respectivos vencimentos, das importâncias relativas ao reembolso das bolsas-empréstimo devidas à Procuradoria dos Estudantes Ultramarinos pelos mutuários ali residentes.
+Art. 20.º - 1. É permitida a arrecadação nos cofres da Fazenda das províncias ultramarinas, por meio de desconto nos respectivos vencimentos, das importâncias relativas ao reembolso das bolsas-empréstimo devidas à Procuradoria dos Estudantes Ultramarinos pelos mutuários ali residentes.
 
 2. A contabilização das importâncias referidas no corpo deste artigo será feita por operações de tesouraria sob a rubrica «Procuradoria dos Estudantes Ultramarinos - Reembolso de bolsas-empréstimo».
 
@@ -205,16 +237,16 @@ b) Importância descontada;
 
 c) Meses a que respeitam os vencimentos em que foram feitos os descontos.
 
-###### Art. 21.º - 1. O Ministro do Ultramar pode determinar, sempre que o julgue necessário, a permuta recíproca dos inspectores provinciais de crédito e seguros e dos inspectores provinciais e técnicos directores dos serviços dependentes das secretarias provinciais de Economia e de Planeamento e Finanças.
+Art. 21.º - 1. O Ministro do Ultramar pode determinar, sempre que o julgue necessário, a permuta recíproca dos inspectores provinciais de crédito e seguros e dos inspectores provinciais e técnicos directores dos serviços dependentes das secretarias provinciais de Economia e de Planeamento e Finanças.
 
 2. As permutas previstas neste artigo deverão, em regra, ser propostas pelos governadores gerais e só podem recair em funcionários que possuam as habilitações legais exigidas para o exercício dos novos cargos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Maio de 1972.**
+Promulgado em 16 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

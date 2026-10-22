@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/74-1983-442325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 692233a4478846ee8081ca4191938e90f834acc76c00d578f2d34d785d01fb70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e4a743ac5fafd30d7d10edb9346a3b4ff746d96d37865a6494c0da8d3cb97b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Encargos Gerais da Nação
+- Ministério das Finanças e do Plano
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:642922:por
+  label: Rectificado pela DECL.DD5631.04.10.1983.PCM, DR.IS [251]2ºSupl de 31.10.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-642922
+  date: '1983-10-04'
 article_structure:
-  article_count: 14
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:23Z'
   warnings: []
   errors: []
 ---
@@ -86,102 +99,102 @@ de 15 de Setembro
 
 Com fundamento do n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 890184 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais no montante de 890184 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21300/32773279.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21300/32773279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21300/32773279.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas de Estado
 
 Receitas correntes:
 
-### Capítulo 02 «Impostos indirectos»:
+Capítulo 02 «Impostos indirectos»:
 
 Grupo 03 «Outros»:
 
 ... (Em contos)
 
-###### Artigo 24 «Serviços gerais e licenciamentos concedidos a empresas» ... 100000
+Artigo 24 «Serviços gerais e licenciamentos concedidos a empresas» ... 100000
 
-### Capítulo 05 «Transferências»:
+Capítulo 05 «Transferências»:
 
 Grupo 06 «Exterior»:
 
-###### Artigo 03 «Transferências diversas» ... 768
+Artigo 03 «Transferências diversas» ... 768
 
-### Capítulo 06 «Venda de bens duradouros»:
+Capítulo 06 «Venda de bens duradouros»:
 
 Grupo 03 «Outros sectores»:
 
-###### Artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 500000
+Artigo 01 «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 500000
 
-### Capítulo 07 «Venda de serviços e bens não duradouros»:
+Capítulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 01 «Rendas de habitação»:
 
-###### Artigo 01 «Património do Estado» ... 1260
+Artigo 01 «Património do Estado» ... 1260
 
 Grupo 07 «Rendas de bens duradouros - Outros sectores»:
 
-###### Artigo 02 «Serviços hidroagrícolas - Obras de fomento» ... 32892
+Artigo 02 «Serviços hidroagrícolas - Obras de fomento» ... 32892
 
 Receitas de capital:
 
 ... (Em contos)
 
-### Capítulo 09 «Venda de bens de investimento»:
+Capítulo 09 «Venda de bens de investimento»:
 
 Grupo 03 «Terrenos - Outros sectores»:
 
-###### Artigo 02 «Serviços gerais - Desamortização de imóveis» ... 100000
+Artigo 02 «Serviços gerais - Desamortização de imóveis» ... 100000
 
-### Capítulo 10 «Transferências»:
+Capítulo 10 «Transferências»:
 
 Grupo 06 «Exterior»:
 
-###### Artigo 02 «Transferências diversas» ... 700
+Artigo 02 «Transferências diversas» ... 700
 
 Contas de ordem:
 
 ... (Em contos)
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 01 «Encargos Gerais da Nação»:
 
-###### Artigo 03 «Instituto Nacional de Formação Turística» ... 70000
+Artigo 03 «Instituto Nacional de Formação Turística» ... 70000
 
 Grupo 07 «Agricultura, Comércio e Pescas»:
 
-###### Artigo 01 «Serviços regionais de agricultura» ... 6350
+Artigo 01 «Serviços regionais de agricultura» ... 6350
 
 Grupo 08 «Indústria, Energia e Exportação»:
 
-###### Artigo 06 «Instituto de Apoio às Pequenas e Médias Empresas Industriais» ... 2214
+Artigo 06 «Instituto de Apoio às Pequenas e Médias Empresas Industriais» ... 2214
 
 Grupo 11 «Assuntos Sociais»:
 
-###### Artigo 01 «Departamento de Gestão Financeira dos Serviços de Saúde»:
+Artigo 01 «Departamento de Gestão Financeira dos Serviços de Saúde»:
 
 «Serviço de Informação da Saúde» ... 30000
 
 Grupo 14 «Cultura e Coordenação Científica»:
 
-###### Artigo 01 «Cinemateca Portuguesa» ... 6000
+Artigo 01 «Cinemateca Portuguesa» ... 6000
 
-###### Artigo 07 «Instituto Português do Património Cultural» ... 40000
+Artigo 07 «Instituto Português do Património Cultural» ... 40000
 
 ... 890184
 
 Mário Soares - Alípio Barrosa Pereira Dias - José Augusto Seabra - António Manuel Maldonado Gonelha - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - António Antero Coimbra Martins - João Rosado Correia.
 
-**Assinado em 6 de Setembro de 1983.**
+Assinado em 6 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Setembro de 1983.**
+Referendado em 8 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

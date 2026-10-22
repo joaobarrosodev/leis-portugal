@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22500/25352537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1979-365284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 321309b48849bded7c6f3a42ca61dbd0491accec5e70b97f097e9837b39955d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d978b2808b8efee17bc9471b595936f3836234a5aedad4e45eb591cca4295e6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Agricultura e Pescas
+- Conselho Técnico Regional
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral da Administração das Pescas
+- Direcção Geral da Administração Geral das Pescas
+- Direcção Geral da Extensão Rural
+- Direcção Geral da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático
+- Direcção Geral das Indústrias Agrícolas Alimentares
+- Direcção Geral das Pescas
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Direcção Geral do Desenvolvimento e Coordenação das Pescas
+- Direcção Geral do Fomento Florestal
+- Direcção Geral do Ordenamento e Gestão Florestal
+- Direcção Geral do Planeamento e Fomento das Pescas
+- Direcção Geral dos Recursos Florestais
+- Direcção Geral dos Serviços Agrícolas
+- Direcção Geral dos Serviços Pecuários
+- Direcção Geral dos Serviços Veterinários
+- Escola Profissional de Pesca
+- Extinção de Serviços
+- Fundo de Fomento Florestal
+- Gabinete de Coordenação das Pescas
+- Instituto de Gestão e Estruturação Fundiária
+- Instituto de Qualidade Alimentar
+- Instituto de Reorganização Agrária
+- Instituto Português de Conservas de Peixe
+- Junta de Hidráulica Agrícola
+- Lisboa
+- Ministério da Agricultura e Pescas
+- Orgânica
+- Quadro de Pessoal
+- Região Agrária
+- Serviço Regional de Agricultura
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:22Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +161,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados no Ministério da Agricultura e Pescas os seguintes serviços centrais:
+Artigo 1.º São criados no Ministério da Agricultura e Pescas os seguintes serviços centrais:
 
 a) Direcção-Geral do Desenvolvimento e Coordenação das Pescas;
 
 b) Direcção-Geral da Administração das Pescas.
 
-###### Art. 2.º À Direcção-Geral do Desenvolvimento e Coordenação das Pescas incumbe:
+Art. 2.º À Direcção-Geral do Desenvolvimento e Coordenação das Pescas incumbe:
 
 a) Promover estudos técnico-económicos conducentes ao desenvolvimento do sector das pescas;
 
@@ -132,7 +193,7 @@ l) Garantir o apoio necessário às negociações e cumprimento de acordos de pe
 
 m) Efectuar o licenciamento das actividades das embarcações e empresas estrangeiras do sector, mesmo por intermédio de empresas nacionais, em território e águas sob jurisdição nacional, e das embarcações e empresas nacionais do sector, mesmo por intermédio de empresas estrangeiras, no estrangeiro, em águas internacionais e na zona económica exclusiva.
 
-###### Art. 3.º À Direcção-Geral da Administração das Pescas incumbe:
+Art. 3.º À Direcção-Geral da Administração das Pescas incumbe:
 
 a) Exercer a administração geral do sector, estabelecendo normas e regulamentos sobre a protecção, exploração e utilização dos recursos vivos e salinos que interessam ao sector;
 
@@ -152,7 +213,7 @@ h) Apoiar as formas de associativismo de produção no âmbito do sector, sobret
 
 i) Representar a Secretaria de Estado das Pescas nas organizações internacionais no âmbito da sua competência específica.
 
-###### Art. 4.º - 1 - A Direcção-Geral do Desenvolvimento e Coordenação das Pescas, abreviadamente designada por DGDCP, é um organismo dotado de autonomia administrativa.
+Art. 4.º - 1 - A Direcção-Geral do Desenvolvimento e Coordenação das Pescas, abreviadamente designada por DGDCP, é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias da DGDCP:
 
@@ -164,7 +225,7 @@ c) Os subsídios que lhe forem concedidos por quaisquer entidades públicas ou p
 
 d) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
-###### Art. 5.º - 1 - A Direcção-Geral da Administração das Pescas, abreviadamente designada por DGAP, é um organismo dotado de autonomia administrativa.
+Art. 5.º - 1 - A Direcção-Geral da Administração das Pescas, abreviadamente designada por DGAP, é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias da DGAP:
 
@@ -176,15 +237,15 @@ c) Os subsídios que lhe forem concedidos por quaisquer entidades públicas ou p
 
 d) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
-###### Art. 6.º Para efeitos do presente diploma, entende-se por «sector das pescas», ou, mais abreviadamente, por «o sector», o conjunto de actividades, empresas, pessoal e material envolvidos na produção, exploração, conservação e transformação a bordo, carga, descarga e entrega dos produtos da pesca, apanha, caça e cultura dos recursos vivos do mar, incluindo neste o fundo do mar e as áreas sob jurisdição marítima definidas nos termos do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, e ainda na produção, tratamento e licenciamento do sal marinho.
+Art. 6.º Para efeitos do presente diploma, entende-se por «sector das pescas», ou, mais abreviadamente, por «o sector», o conjunto de actividades, empresas, pessoal e material envolvidos na produção, exploração, conservação e transformação a bordo, carga, descarga e entrega dos produtos da pesca, apanha, caça e cultura dos recursos vivos do mar, incluindo neste o fundo do mar e as áreas sob jurisdição marítima definidas nos termos do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, e ainda na produção, tratamento e licenciamento do sal marinho.
 
-###### Art. 7.º - 1 - As atribuições, a organização e as competências, bem como o regime do pessoal das direcções-gerais agora criadas, e ainda os termos de transição do pessoal para estas direcções-gerais, serão objecto de decreto simples, aprovado pelos Ministros da Agricultura e Pescas e das Finanças e do Plano e pelo Secretário de Estado da Administração Pública.
+Art. 7.º - 1 - As atribuições, a organização e as competências, bem como o regime do pessoal das direcções-gerais agora criadas, e ainda os termos de transição do pessoal para estas direcções-gerais, serão objecto de decreto simples, aprovado pelos Ministros da Agricultura e Pescas e das Finanças e do Plano e pelo Secretário de Estado da Administração Pública.
 
 2 - Os diplomas referidos no número anterior poderão criar novas categorias e introduzir alterações na constituição dos quadros únicos do Ministério da Agricultura e Pescas.
 
-###### Art. 8.º A Escola Profissional de Pesca de Lisboa funciona na dependência da Direcção-Geral da Administração das Pescas, de harmonia com o seu estatuto orgânico, aprovado pelo [Decreto-Lei n.º 404/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1977-278233).
+Art. 8.º A Escola Profissional de Pesca de Lisboa funciona na dependência da Direcção-Geral da Administração das Pescas, de harmonia com o seu estatuto orgânico, aprovado pelo [Decreto-Lei n.º 404/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1977-278233).
 
-###### Art. 9.º - 1 - Ficam revogados a alínea b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e o artigo 24.º do mesmo diploma.
+Art. 9.º - 1 - Ficam revogados a alínea b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e o artigo 24.º do mesmo diploma.
 
 2 - A extinção efectiva da Direcção-Geral das Pescas processar-se-á na data em que entrarem em vigor os diplomas orgânicos previstos no artigo 7.º deste diploma.
 
@@ -192,12 +253,12 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
 4 - Os móveis, utensílios, máquinas, viaturas, com e sem motor, e demais equipamento, bem como toda a documentação da Direcção-Geral das Pescas, transitam na data de entrada em vigor dos diplomas orgânicos para as novas direcções-gerais, mediante relações de cadastro devidamente assinadas e autenticadas.
 
-###### Art. 10.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 10.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Voz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 6 de Setembro de 1979.**
+Promulgado em 6 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

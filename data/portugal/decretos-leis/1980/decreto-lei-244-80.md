@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16700/17981800.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1980-472531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd29d66cdf89c7f4d2aaa9d6eb42147590b296a0d1c641ec94abf4ed4bb392b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20b5958f921b99cc5f03bc8cdc6c66f469c2f9f72a5a7c8fb5955419720a349b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Belas-artes
+- Comissariado para a XVII Exposição Europeia de ARTE
+- Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669089:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 4.º, 9.º 12.º, 13.º, 15.º, 16.º, 17.º, 18.º e 19.º pelo DEC LEI.189-A/81.03.07.1981.PCM,\
+    \ DR.IS [150-Supl] de 03.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-a-1981-669089
+  date: '1981-07-03'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:47Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +111,9 @@ São múltiplas e complexas as tarefas necessárias à concretização de uma in
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, no âmbito da Presidência do Conselho de Ministros, o Comissariado para a XVII Exposição Europeia de Arte, a qual terá lugar em Lisboa, em 1982, sob os auspícios do Conselho da Europa, e será subordinada ao tema «Os descobrimentos portugueses e a Europa do Renascimento».
+Artigo 1.º É criado, no âmbito da Presidência do Conselho de Ministros, o Comissariado para a XVII Exposição Europeia de Arte, a qual terá lugar em Lisboa, em 1982, sob os auspícios do Conselho da Europa, e será subordinada ao tema «Os descobrimentos portugueses e a Europa do Renascimento».
 
-###### Art. 2.º Ao Comissariado compete:
+Art. 2.º Ao Comissariado compete:
 
 a) Organizar a exposição, assegurando uma estreita colaboração com os países participantes;
 
@@ -108,9 +123,9 @@ c) Garantir a execução, através de meios audio-visuais e outros, dos objectiv
 
 d) Promover no País e no estrangeiro a necessária divulgação da exposição.
 
-###### Art. 3.º O Comissariado é dotado de personalidade jurídica.
+Art. 3.º O Comissariado é dotado de personalidade jurídica.
 
-###### Art. 4.º - 1 - O Comissariado é dirigido por um comissário-geral, o qual será coadjuvado no exercício das suas funções por um comissário-adjunto e por um número máximo de três comissários técnicos.
+Art. 4.º - 1 - O Comissariado é dirigido por um comissário-geral, o qual será coadjuvado no exercício das suas funções por um comissário-adjunto e por um número máximo de três comissários técnicos.
 
 2 - O Comissariado compreende os seguintes órgãos:
 
@@ -124,11 +139,11 @@ d) Arquivo técnico;
 
 e) Serviços administrativos.
 
-###### Art. 5.º - 1 - O comissário-geral é nomeado pelo Ministro dos Negócios Estrangeiros, sob proposta do membro do Governo responsável pela área da cultura.
+Art. 5.º - 1 - O comissário-geral é nomeado pelo Ministro dos Negócios Estrangeiros, sob proposta do membro do Governo responsável pela área da cultura.
 
 2 - O comissário-geral tem direito ao vencimento correspondente a Secretário de Estado, cessando as suas funções no prazo referido no artigo 25.º do presente diploma.
 
-###### Art. 6.º Compete ao comissário-geral:
+Art. 6.º Compete ao comissário-geral:
 
 a) Estruturar e dirigir o Comissariado de acordo com os objectivos definidos no presente diploma;
 
@@ -146,23 +161,23 @@ g) Nomear o pessoal técnico e administrativo indispensável para o funcionament
 
 h) Delegar no comissário-adjunto as competências previstas nas alíneas anteriores.
 
-###### Art. 7.º - 1 - O comissário-adjunto é nomeado pelo Ministro dos Negócios Estrangeiros, sob proposta do membro do Governo responsável pela área da cultura.
+Art. 7.º - 1 - O comissário-adjunto é nomeado pelo Ministro dos Negócios Estrangeiros, sob proposta do membro do Governo responsável pela área da cultura.
 
 2 - O comissário-adjunto tem direito ao vencimento correspondente a director-geral.
 
-###### Art. 8.º Compete ao comissário-adjunto coadjuvar o comissário-geral nas funções que a este estão confiadas e orientar e coordenar os serviços administrativos do Comissariado.
+Art. 8.º Compete ao comissário-adjunto coadjuvar o comissário-geral nas funções que a este estão confiadas e orientar e coordenar os serviços administrativos do Comissariado.
 
-###### Art. 9.º - 1 - Os comissários técnicos são nomeados pelo membro do Governo responsável pela área da cultura, sob proposta do comissário-geral.
+Art. 9.º - 1 - Os comissários técnicos são nomeados pelo membro do Governo responsável pela área da cultura, sob proposta do comissário-geral.
 
 2 - Os comissários técnicos têm direito ao vencimento correspondente a subdirector-geral.
 
-###### Art. 10.º Os comissários técnicos gozam da competência que especificamente lhes for conferida por despacho de nomeação, no âmbito das atribuições do Comissariado.
+Art. 10.º Os comissários técnicos gozam da competência que especificamente lhes for conferida por despacho de nomeação, no âmbito das atribuições do Comissariado.
 
-###### Art. 11.º A comissão cultural é presidida pelo comissário-geral e será constituída por personalidades de reconhecida competência nos domínios especificamente relacionados com a temática da exposição, a nomear por despacho do comissário-geral.
+Art. 11.º A comissão cultural é presidida pelo comissário-geral e será constituída por personalidades de reconhecida competência nos domínios especificamente relacionados com a temática da exposição, a nomear por despacho do comissário-geral.
 
-###### Art. 12.º A comissão cultural reúne ordinariamente duas vezes por mês e extraordinariamente sempre que convocada pelo comissário-geral.
+Art. 12.º A comissão cultural reúne ordinariamente duas vezes por mês e extraordinariamente sempre que convocada pelo comissário-geral.
 
-###### Art. 13.º Constituem a comissão executiva:
+Art. 13.º Constituem a comissão executiva:
 
 a) O comissário-geral, que preside;
 
@@ -184,9 +199,9 @@ i) O chefe dos serviços administrativos do Comissariado;
 
 j) Quaisquer outras individualidades, a designar pelo comissário-geral, que prestem colaboração ao Comissariado nos termos dos artigos 11.º e 18.º do presente diploma.
 
-###### Art. 14.º Os elementos que integram a comissão cultural e a comissão executiva que não sejam funcionários da Secretaria de Estado da Cultura ou que não prestem serviço permanente no Comissariado têm direito a uma gratificação a fixar por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pela área da cultura.
+Art. 14.º Os elementos que integram a comissão cultural e a comissão executiva que não sejam funcionários da Secretaria de Estado da Cultura ou que não prestem serviço permanente no Comissariado têm direito a uma gratificação a fixar por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pela área da cultura.
 
-###### Art. 15.º Compete à comissão executiva:
+Art. 15.º Compete à comissão executiva:
 
 a) Levantar as dotações consignadas ao Comissariado, mediante requisição de fundos a enviar à respectiva delegação da Direcção-Geral da Contabilidade Pública;
 
@@ -196,40 +211,40 @@ c) Emitir parecer sobre a matéria constante da alínea b) do artigo 6.º do pre
 
 d) Superintender na aplicação de fundos do Comissariado.
 
-###### Art. 16.º A assinatura das requisições de fundos e dos cheques deverá ser feita pelo comissário-adjunto e pelo representante da Direcção-Geral da Contabilidade Pública.
+Art. 16.º A assinatura das requisições de fundos e dos cheques deverá ser feita pelo comissário-adjunto e pelo representante da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 17.º Ao Comissariado serão afectas as receitas provenientes de subsídios ou outros donativos de instituições nacionais ou estrangeiras para a exposição referida no artigo 1.º do presente diploma.
+Art. 17.º Ao Comissariado serão afectas as receitas provenientes de subsídios ou outros donativos de instituições nacionais ou estrangeiras para a exposição referida no artigo 1.º do presente diploma.
 
-###### Art. 18.º O grupo de trabalho do catálogo e o arquivo técnico serão integrados por técnicos especializados, a designar pelo comissário-geral.
+Art. 18.º O grupo de trabalho do catálogo e o arquivo técnico serão integrados por técnicos especializados, a designar pelo comissário-geral.
 
-###### Art. 19.º O comissário-geral fica autorizado a requisitar, nos termos da lei geral, pessoal para o serviço do Comissariado ou a contratar outro pessoal, o qual prestará serviço na modalidade de contrato a prazo, não adquirido por esse facto qualquer vínculo à função pública.
+Art. 19.º O comissário-geral fica autorizado a requisitar, nos termos da lei geral, pessoal para o serviço do Comissariado ou a contratar outro pessoal, o qual prestará serviço na modalidade de contrato a prazo, não adquirido por esse facto qualquer vínculo à função pública.
 
-###### Art. 20.º Todos os serviços do Estado, museus, bibliotecas e arquivos do continente e regiões autónomas, empresas públicas e nacionalizadas e autarquias locais fornecerão ao Comissariado os elementos que, para a boa execução dos seus objectivos, lhes forem solicitados, devendo as entidades responsáveis colocar à disposição do Comissariado, mediante termo de entrega, o que lhes for pedido, tomando este todas as precauções para garantir a sua guarda e conservação.
+Art. 20.º Todos os serviços do Estado, museus, bibliotecas e arquivos do continente e regiões autónomas, empresas públicas e nacionalizadas e autarquias locais fornecerão ao Comissariado os elementos que, para a boa execução dos seus objectivos, lhes forem solicitados, devendo as entidades responsáveis colocar à disposição do Comissariado, mediante termo de entrega, o que lhes for pedido, tomando este todas as precauções para garantir a sua guarda e conservação.
 
-###### Art. 21.º Para a guarda das obras e objectos de arte nacionais ou estrangeiros, quando em transporte, em exposição ou em depósito, pode o comissário-geral solicitar aos Ministérios respectivos, a título gratuito, a colaboração das competentes forças de segurança.
+Art. 21.º Para a guarda das obras e objectos de arte nacionais ou estrangeiros, quando em transporte, em exposição ou em depósito, pode o comissário-geral solicitar aos Ministérios respectivos, a título gratuito, a colaboração das competentes forças de segurança.
 
-###### Art. 22.º O Comissariado fica autorizado a celebrar contratos de seguro para o transporte e guarda de objectos necessários à exposição.
+Art. 22.º O Comissariado fica autorizado a celebrar contratos de seguro para o transporte e guarda de objectos necessários à exposição.
 
-###### Art. 23.º As contas das despesas realizadas em cada ano, até ao encerramento da exposição, serão sujeitas, até ao fim do mês de Fevereiro do ano seguinte, aos vistos do Primeiro-Ministro e do Ministro das Finanças e do Plano, sem prejuízo da sua apreciação pelo Tribunal de Contas.
+Art. 23.º As contas das despesas realizadas em cada ano, até ao encerramento da exposição, serão sujeitas, até ao fim do mês de Fevereiro do ano seguinte, aos vistos do Primeiro-Ministro e do Ministro das Finanças e do Plano, sem prejuízo da sua apreciação pelo Tribunal de Contas.
 
-###### Art. 24.º No prazo de seis meses após o encerramento da exposição, o comissário-geral apresentará ao Governo o relatório de actividades do Comissariado.
+Art. 24.º No prazo de seis meses após o encerramento da exposição, o comissário-geral apresentará ao Governo o relatório de actividades do Comissariado.
 
-###### Art. 25.º No prazo de quarenta e cinco dias após a apresentação do relatório, a comissão executiva enviará ao Tribunal de Contas a conta da sua gerência, devidamente discriminada e documentada, a fim de ser julgada por este Tribunal.
+Art. 25.º No prazo de quarenta e cinco dias após a apresentação do relatório, a comissão executiva enviará ao Tribunal de Contas a conta da sua gerência, devidamente discriminada e documentada, a fim de ser julgada por este Tribunal.
 
-###### Art. 26.º - 1 - O Comissariado disporá, para os encargos a suportar no presente ano, das verbas apropriadas previstas no orçamento do Fundo de Fomento Cultural.
+Art. 26.º - 1 - O Comissariado disporá, para os encargos a suportar no presente ano, das verbas apropriadas previstas no orçamento do Fundo de Fomento Cultural.
 
 2 - Para os anos seguintes será inscrita no orçamento de Encargos Gerais da Nação a dotação global adequada.
 
-###### Art. 27.º As dúvidas que se suscitarem na execução e aplicação do presente diploma serão resolvidas por despacho do Primeiro-Ministro, e por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças e do Plano quando envolverem matéria financeira.
+Art. 27.º As dúvidas que se suscitarem na execução e aplicação do presente diploma serão resolvidas por despacho do Primeiro-Ministro, e por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças e do Plano quando envolverem matéria financeira.
 
-###### Art. 28.º A partir do encerramento da exposição, manter-se-á apenas em funções o pessoal que o comissário-geral designar para os efeitos previstos nos artigos 24.º e 25.º do presente diploma.
+Art. 28.º A partir do encerramento da exposição, manter-se-á apenas em funções o pessoal que o comissário-geral designar para os efeitos previstos nos artigos 24.º e 25.º do presente diploma.
 
-###### Art. 29.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 29.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 7 de Julho de 1980.**
+Promulgado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1980, 5º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4244-(83) a 4244-(84)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30105/00830084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1980-226782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76530a7655bf5ea05070e44b5cc46c65975973f91143bf8351b261f42a4795e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a540c774defc91e84e8291df51e5cb6df005dd2d8c8f888d6483c31fd1e487fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Desalojado
+- Isenção Fiscal
+- Palop
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:16Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +103,15 @@ Reconhecendo-se que se justifica a tomada de medidas que tenham em conta estas s
 
 O Governo decreta, nos termos da alínea a) do 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Ministro das Finanças e do Plano, a requerimento dos interessados e com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, poderá autorizar:
+Artigo 1.º O Ministro das Finanças e do Plano, a requerimento dos interessados e com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, poderá autorizar:
 
 a) A suspensão da liquidação da contribuição industrial, do imposto de capitais, secção A, e do imposto complementar respeitantes aos lucros ou rendimentos realizados ou produzidos nos territórios das ex-colónias portuguesas, desde que se verifique a impossibilidade da sua transferência daqueles territórios;
 
 b) A prorrogação do prazo para a entrega ao Estado dos impostos a descontar nos rendimentos pela entidade a quem incumbe o seu pagamento, quando se verifique a impossibilidade da saída daqueles territórios das importâncias indispensáveis à realização daquela entrega.
 
-###### Art. 2.º Nos casos em que a suspensão da liquidação respeite a contribuição industrial ou a imposto complementar, se houver lugar a liquidação relativa a outros lucros ou rendimentos, as taxas respectivas serão determinadas tendo em conta apenas estes lucros ou rendimentos, procedendo-se, quando terminar a suspensão, às competentes liquidações adicionais, considerando-se então a totalidade dos lucros ou rendimentos.
+Art. 2.º Nos casos em que a suspensão da liquidação respeite a contribuição industrial ou a imposto complementar, se houver lugar a liquidação relativa a outros lucros ou rendimentos, as taxas respectivas serão determinadas tendo em conta apenas estes lucros ou rendimentos, procedendo-se, quando terminar a suspensão, às competentes liquidações adicionais, considerando-se então a totalidade dos lucros ou rendimentos.
 
-###### Art. 3.º - 1 - O requerimento referido no artigo 1.º será apresentado na competente repartição de finanças, acompanhado de documento comprovativo da impossibilidade de saída dos referidos territórios dos rendimentos ou importâncias, durante o mês de Janeiro do ano imediato àquele a que respeita a contribuição ou imposto, no caso da alínea a), e antes de terminar o prazo para a entrega do imposto ao Estado, no caso da alínea b).
+Art. 3.º - 1 - O requerimento referido no artigo 1.º será apresentado na competente repartição de finanças, acompanhado de documento comprovativo da impossibilidade de saída dos referidos territórios dos rendimentos ou importâncias, durante o mês de Janeiro do ano imediato àquele a que respeita a contribuição ou imposto, no caso da alínea a), e antes de terminar o prazo para a entrega do imposto ao Estado, no caso da alínea b).
 
 2 - A prova da impossibilidade daquela saída deverá ser renovada anualmente no mês de Janeiro, sob pena de caducidade da suspensão ou prorrogação.
 
@@ -110,7 +119,7 @@ b) A prorrogação do prazo para a entrega ao Estado dos impostos a descontar no
 
 4 - Se não for dado cumprimento ao disposto nos números anteriores, deverão os serviços promover a imediata liquidação da contribuição ou imposto, no caso da alínea a) do artigo 1.º, e as entidades proceder à entrega do imposto ao Estado até ao fim do mês seguinte, no caso da alínea b).
 
-###### Art. 4.º - 1 - A suspensão a que se refere a alínea a) do artigo 1.º cessará a partir do momento em que se torne possível a saída dos rendimentos daqueles territórios.
+Art. 4.º - 1 - A suspensão a que se refere a alínea a) do artigo 1.º cessará a partir do momento em que se torne possível a saída dos rendimentos daqueles territórios.
 
 2 - A prorrogação a que se refere a alínea b) do mesmo artigo caducará no fim do mês seguinte àquele em que primeiramente ocorra qualquer dos seguintes factos:
 
@@ -122,24 +131,24 @@ b) Pagamento ou colocação dos rendimentos à disposição dos seus titulares.
 
 4 - No caso do n.º 1 deste artigo, o contribuinte deverá participar o facto à respectiva repartição de finanças, no prazo de trinta dias, a fim de esta proceder às liquidações que se mostrarem devidas.
 
-###### Art. 5.º Durante os períodos da suspensão ou da prorrogação referidas no artigo 1.º não correm os prazos da liquidação nem os da prescrição dos impostos correspondentes.
+Art. 5.º Durante os períodos da suspensão ou da prorrogação referidas no artigo 1.º não correm os prazos da liquidação nem os da prescrição dos impostos correspondentes.
 
-###### Art. 6.º - 1 - A não entrega dos impostos ao Estado nos prazos fixados no n.º 4 do artigo 3.º e no n.º 2 do artigo 4.º será punida com a multa estabelecida nas leis em vigor para a falta da entrega dos impostos dentro dos prazos estabelecidos.
+Art. 6.º - 1 - A não entrega dos impostos ao Estado nos prazos fixados no n.º 4 do artigo 3.º e no n.º 2 do artigo 4.º será punida com a multa estabelecida nas leis em vigor para a falta da entrega dos impostos dentro dos prazos estabelecidos.
 
 2 - A falta da participação referida no n.º 4 do artigo 4.º será punida com multa de 1000$00 a 100000$00, a aplicar nos termos do Código de Processo das Contribuições e Impostos, a qual será reduzida a metade no caso de pagamento espontâneo.
 
-###### Art. 7.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação e aplica-se às contribuições e impostos respeitantes aos rendimentos dos anos de 1975 e seguintes, com excepção daqueles cujo pagamento ou entrega ao Estado tenham já sido efectuados.
+Art. 7.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação e aplica-se às contribuições e impostos respeitantes aos rendimentos dos anos de 1975 e seguintes, com excepção daqueles cujo pagamento ou entrega ao Estado tenham já sido efectuados.
 
 2 - Estando já efectuada a liquidação, proceder-se-á à sua anulação oficiosa, sendo feita nova liquidação, que não abrangerá os rendimentos abrangidos pela suspensão.
 
-###### Art. 8.º - 1 - Os pedidos de suspensão de liquidação de impostos referentes a rendimentos respeitantes aos anos de 1975 a 1979 e os pedidos de prorrogação dos prazos de entrega ao Estado cujo acto que originou essa entrega tenha ocorrido antes da data da entrada em vigor do presente diploma serão apresentados no prazo de sessenta dias a contar desta data.
+Art. 8.º - 1 - Os pedidos de suspensão de liquidação de impostos referentes a rendimentos respeitantes aos anos de 1975 a 1979 e os pedidos de prorrogação dos prazos de entrega ao Estado cujo acto que originou essa entrega tenha ocorrido antes da data da entrada em vigor do presente diploma serão apresentados no prazo de sessenta dias a contar desta data.
 
 2 - Estando já efectuada a liquidação, proceder-se-á à sua anulação oficiosa, sendo feita nova liquidação da contribuição ou do imposto não abrangidos pela suspensão.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 29 de Dezembro de 1980.**
+Promulgado em 29 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

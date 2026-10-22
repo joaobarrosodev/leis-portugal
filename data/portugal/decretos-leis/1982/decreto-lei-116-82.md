@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08700/08950898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1982-607341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 302ffa8d9bb6fdd192be05f68d8e957a7628d136ef3414f1bcfbebb9d0ded571
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e9ce0aa95541e5e3467808c74172c8fa967d1ee3cf58f35d07c1d917d70fecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carta de Exportador
+- Exportação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309881:por
+  label: "Alterado o artigo 3º pelo DEC LEI.125/83.08.03.1983.MIEE, DR.IS [55] de 08.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1983-309881
+  date: '1983-03-08'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462620:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:40Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +138,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objectivos e prazo de duração)
 
@@ -126,13 +150,13 @@ b) Proporcionar às empresas exportadoras o acesso a um conjunto de processos e 
 
 2 - A Carta de Exportador vigorará até 31 de Dezembro de 1983.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Sectores elegíveis)
 
 1 - Os sectores, produtos e serviços elegíveis para efeitos da Carta de Exportador serão anualmente definidos, por portaria do Ministro da Indústria, Energia e Exportação, em função da sua importância para o desenvolvimento económico do País e de acordo com as orientações e prioridades na política de exportação.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Titularidade)
 
@@ -150,7 +174,7 @@ b) Serem empresas que se dediquem exclusivamente à actividade de comercializaç
 
 5 - A título excepcional, poderá também ser concedida Carta de Exportador a agrupamentos de empresas para exportação que não cumpram as condições exigidas na alínea b) do n.º 1, desde que desempenhem um papel importante na orientação da produção dos seus membros e celebrem um acordo específico com Instituto de Comércio Externo, o qual terá como objectivo possibilitar a concretização de determinados limites de exportação em prazos estabelecidos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Tipo de benefícios)
 
@@ -170,7 +194,7 @@ f) Quaisquer outros benefícios relacionados com a actividade de fomento de expo
 
 2 - É vedada a acumulação pela mesma empresa dos benefícios conferidos pela Carta de Exportador com outros do mesmo tipo concedidos pelo Estado, que lhe sejam atribuídos por qualquer outro título ou instrumento.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Tipos de carta)
 
@@ -182,7 +206,7 @@ f) Quaisquer outros benefícios relacionados com a actividade de fomento de expo
 
 4 - As empresas de tipo I e de tipo II conferirão aos respectivos titulares benefícios de tipo idêntico, com excepção dos compreendidos na alínea c) do n.º 1 do artigo 4.º, que poderão ser ajustados às necessidades de diferentes tipos de empresa.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Amplitude dos benefícios)
 
@@ -190,7 +214,7 @@ f) Quaisquer outros benefícios relacionados com a actividade de fomento de expo
 
 2 - A amplitude dos benefícios a conceder, concretizada nos termos do número anterior, será condicionada pelo nível de selectividade das mercadorias ou serviços a exportar e pelo maior ou menor esforço de promoção comercial das empresas com vista à prossecução dos objectivos da política de exportação, nomeadamente no que se refere à diversificação de mercados e à melhoria do valor acrescentado nacional e nível tecnológico das exportações.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Acordos com o Instituto de Comércio Externo)
 
@@ -200,7 +224,7 @@ f) Quaisquer outros benefícios relacionados com a actividade de fomento de expo
 
 3 - O não cumprimento das obrigações estabelecidas no acordo, por parte das empresas e por motivo imputável a estas, estará sujeito a penalizações a definir no âmbito do próprio acordo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Outorga e vigência)
 
@@ -208,7 +232,7 @@ f) Quaisquer outros benefícios relacionados com a actividade de fomento de expo
 
 2 - A Carta de Exportador poderá ser anulada, por despacho do Ministro da Indústria, Energia e Exportação, antes do termo do seu prazo de vigência se a empresa titular tiver um comportamento comercial irregular que possa prejudicar os interesses da exportação portuguesa em geral.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Formalidade)
 
@@ -220,13 +244,13 @@ f) Quaisquer outros benefícios relacionados com a actividade de fomento de expo
 
 4 - A proposta de concessão da Carta de Exportador caberá a uma comissão constituída pelo presidente do Instituto de Comércio Externo, director-geral do Comércio Externo e director-geral da Indústria, devendo ter lugar no prazo máximo de 30 dias após a apresentação da candidatura completa, excepto nos 3 primeiros meses de vigência do presente diploma, em que o prazo referido é prolongado para 60 dias.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Disposição final e transitória)
 
 As portarias a que se refere o artigo 2.º, o n.º 2 do artigo 3.º e o n.º 1 do artigo 6.º, relativamente ao ano de 1982, respeitarão apenas ao período de 1 de Julho a 31 de Dezembro, apenas contando para efeitos da obtenção das bonificações adicionais em matéria de crédito à exportação as exportações efectuadas em 1982.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Dúvidas)
 
@@ -234,8 +258,8 @@ As dúvidas resultantes da interpretação do presente decreto-lei serão resolv
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Abril de 1982.**
+Promulgado em 1 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

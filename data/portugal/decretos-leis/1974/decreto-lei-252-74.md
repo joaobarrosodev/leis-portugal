@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/13600/07030704.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1974-622835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3299797c32cd0e133745e25de2976bd2f9abc1ef3a00e6962302f39fa52619bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d83aadfa6838c7f34788068e0e66196f25ece3e3815bb043f1ccac09f4818432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Definição de Competências
+- Empresa Pública
+- Empresa Pública de Parques Industriais
+- Estatuto
+- Gestão Administrativa
+- Gestão Financeira
+- Prestação de Contas
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329869:por
+  label: "Substituídos os Estatutos da EPPI (com excepção do seu art. 36º, que se mantém em vigor) aprovados pelo Dec Lei\
+    \ 133/73 de 28-Mar, com as alterações constantes do presente diploma, pelo DEC LEI.275/78.06.09.1978.MIT, DR.IS [205]\
+    \ de 06.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1978-329869
+  date: '1978-09-06'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674846:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:46Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +132,9 @@ Com estes fundamentos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 7.º do Estatuto da Empresa Pública de Parques Industriais, anexo ao [Decreto-Lei n.º 133/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1973-674846), de 28 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 7.º do Estatuto da Empresa Pública de Parques Industriais, anexo ao [Decreto-Lei n.º 133/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1973-674846), de 28 de Março, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 a) Contratar a execução de trabalhos incluídos nas atribuições da Empresa, assim como celebrar quaisquer outros contratos, incluindo os de arrendamento, e praticar quaisquer actos ou operações, seja qual for a sua natureza e valor.
 
@@ -127,9 +160,9 @@ h) Estabelecer a organização interna dos serviços e aprovar os respectivos re
 
 5. A competência dos administradores regionais será definida, para cada caso, pelo conselho de administração.
 
-###### Art. 2.º É aditado ao artigo 35.º do referido Estatuto um n.º 2, com a seguinte redacção:
+Art. 2.º É aditado ao artigo 35.º do referido Estatuto um n.º 2, com a seguinte redacção:
 
-###### Art. 35.º - 1. ...
+Art. 35.º - 1. ...
 
 2. A prestação de contas para efeitos do julgamento pelo Tribunal de Contas referido no artigo 32.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, consistirá na apresentação àquele Tribunal, até 31 de Maio do ano imediato, dos seguintes documentos:
 
@@ -147,8 +180,8 @@ f) Fotocópias das actas dos conselhos de administração, fiscal e geral relati
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida.
 
-**Promulgado em 4 de Junho de 1974.**
+Promulgado em 4 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

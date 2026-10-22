@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/02500/01650166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1977-138500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1349675f1f53099038df1ac8533919b44285a8ce50bf983f0866e9387376a153
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66905e83df332af7da1133d3bda0435a75f1f1fa03bc38c684c5bdef7e4469b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aluno Militar
+- Ensino Técnico
+- Força Aérea
+- Graduação Militar
+- Militar
+- Patente Militar
+- Piloto Aviador
+- Quadro Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:355357:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:40Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +113,18 @@ Considerando a necessidade de aproveitar para os quadros permanentes de oficiais
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Os alunos do curso de pilotagem aeronáutica que durante o tirocínio inerente à preparação para o quadro de pilotos aviadores, por circunstâncias afectas à pilotagem, sejam considerados em condições idênticas às indicadas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 776/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1975-355357), de 31 de Dezembro, podem ser destinados a outro quadro de oficiais da Força Aérea em que possam ser aproveitados a formação e os conhecimentos já adquiridos.
+Artigo 1.º - 1. Os alunos do curso de pilotagem aeronáutica que durante o tirocínio inerente à preparação para o quadro de pilotos aviadores, por circunstâncias afectas à pilotagem, sejam considerados em condições idênticas às indicadas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 776/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1975-355357), de 31 de Dezembro, podem ser destinados a outro quadro de oficiais da Força Aérea em que possam ser aproveitados a formação e os conhecimentos já adquiridos.
 
 2. A decisão das situações referidas no número anterior compete ao Chefe do Estado-Maior da Força Aérea, mediante proposta da Direcção do Serviço de Instrução e parecer da Comissão Técnica da Força Aérea.
 
-###### Art. 2.º - 1. O ingresso nos quadros nas condições referidas no artigo anterior é feito no posto de alferes com a antiguidade referida à mesma data que teria como alferes piloto aviador se tivesse concluído o respectivo tirocínio.
+Art. 2.º - 1. O ingresso nos quadros nas condições referidas no artigo anterior é feito no posto de alferes com a antiguidade referida à mesma data que teria como alferes piloto aviador se tivesse concluído o respectivo tirocínio.
 
 2. A adaptação às funções específicas dos novos quadros será feita pela frequência de cursos, estágios ou outra forma de preparação adequada, a definir para cada caso por proposta da Direcção do Serviço de Instrução.
 
 Visto e aprovado em Conselho da Revolução em 21 de Janeiro de 1977.
 
-**Promulgado em 24 de Janeiro de 1977.**
+Promulgado em 24 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

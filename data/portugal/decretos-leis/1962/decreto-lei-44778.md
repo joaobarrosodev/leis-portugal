@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/12/28100/16681671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44778-1962-155187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dc43b2b10307a478a1be29a41260dd4913f63108eafd043a0f0085537822082
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3362656a26a988575b4cc386a680fe6f74b4ebe9d0c567a42fddc041237be46c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Comércio
+- Crime
+- Definição de Competências
+- Direcção Geral dos Serviços Industriais
+- Embalagem
+- Especificação Técnica
+- Etiquetagem
+- Fabrico Industrial
+- Fiscalização
+- Inspecção Geral dos Produtos Agrícolas e Industriais
+- Junta Nacional dos Vinhos
+- Marca
+- Multa
+- Regime Jurídico
+- Transmissão da Propriedade
+- Vinho Espumante
 relationships:
 - type: amended_by
   target: pt:dre:328874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:328874:por
+  label: "Revogado pelo DEC LEI.12/85.14.01.1985.MJ, DR.IS [11] de 14.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1985-328874
+  date: '1985-01-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:28Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +134,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os vinhos especiais caracterizados pela produção de espuma abundante e persistente resultante de forte desprendimento de anidrido carbónico quando se procede à abertura das garrafas que os contêm, classificam-se em duas categorias:
+Artigo 1.º Os vinhos especiais caracterizados pela produção de espuma abundante e persistente resultante de forte desprendimento de anidrido carbónico quando se procede à abertura das garrafas que os contêm, classificam-se em duas categorias:
 
 a) «Vinhos espumantes naturais», quando preparados pelos métodos clássicos de segunda fermentação em garrafa ou outro recipiente fechado;
 
 b) «Vinhos espumosos gasificados», quando na sua preparação se tenha recorrido à incorporação de qualquer quantidade de anidrido carbónico sob pressão.
 
-###### Art. 2.º É obrigatória a inscrição nos rótulos das garrafas, em caracteres bem visíveis, das designações referidas no artigo anterior.
+Art. 2.º É obrigatória a inscrição nos rótulos das garrafas, em caracteres bem visíveis, das designações referidas no artigo anterior.
 
-###### Art. 3.º Além da designação «vinho espumante natural», far-se-á menção, nos rótulos das garrafas, do processo de fabrico, mediante a inscrição, em caracteres bem visíveis, dos seguintes dizeres:
+Art. 3.º Além da designação «vinho espumante natural», far-se-á menção, nos rótulos das garrafas, do processo de fabrico, mediante a inscrição, em caracteres bem visíveis, dos seguintes dizeres:
 
 a) «Fermentação em garrafa», quando se trate de vinho espumante natural obtido por fermentação em garrafa.
 
@@ -120,11 +150,11 @@ Estes dizeres podem ser substituídos ou completados pela expressão «método c
 
 b) «Fermentação em cuba fechada», quando o vinho espumante natural tiver sido preparado pelo processo de fermentação em recipientes fechados de grande capacidade.
 
-###### Art. 4.º A designação «vinho espumoso gasificado» deverá ser inscrita em caracteres do mesmo corpo e tipo; a dimensão destes caracteres não poderá ser inferior a metade da do maior corpo utilizado no rótulo.
+Art. 4.º A designação «vinho espumoso gasificado» deverá ser inscrita em caracteres do mesmo corpo e tipo; a dimensão destes caracteres não poderá ser inferior a metade da do maior corpo utilizado no rótulo.
 
-###### Art. 5.º Em quaisquer facturas, letreiros, anúncios, etiquetas, embalagens e material de propaganda respeitante aos vinhos especiais de que trata este diploma, devem figurar sempre e por forma absolutamente correcta as designações e indicações individualizadoras da categoria e processo de fabrico, referidas nos artigos 1.º e 3.º deste diploma.
+Art. 5.º Em quaisquer facturas, letreiros, anúncios, etiquetas, embalagens e material de propaganda respeitante aos vinhos especiais de que trata este diploma, devem figurar sempre e por forma absolutamente correcta as designações e indicações individualizadoras da categoria e processo de fabrico, referidas nos artigos 1.º e 3.º deste diploma.
 
-###### Art. 6.º - 1. As características analíticas a que deverão obedecer os vinhos espumantes naturais e os vinhos espumosos gasificados serão, além das que vierem a ser fixadas em regulamento, as seguintes:
+Art. 6.º - 1. As características analíticas a que deverão obedecer os vinhos espumantes naturais e os vinhos espumosos gasificados serão, além das que vierem a ser fixadas em regulamento, as seguintes:
 
 a) Força alcoólica mínima 11ºC;
 
@@ -144,7 +174,7 @@ Nos vinhos espumosos gasificados, 200 mg/l.
 
 2. Quanto às demais características e em tudo que não seja objecto de regulamentação especial, devem os vinhos espumantes naturais e espumosos gasificados obedecer ao disposto no artigo 14.º do [Decreto-Lei n.º 35846](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35846-1946-156977), de 2 de Setembro de 1946.
 
-###### Art. 7.º - 1. Para o engarrafamento dos vinhos espumantes naturais é obrigatório o uso de garrafas de tipo tradicional, embora de capacidade variável, as quais poderão também ser utilizadas para os vinhos espumosos gasificados.
+Art. 7.º - 1. Para o engarrafamento dos vinhos espumantes naturais é obrigatório o uso de garrafas de tipo tradicional, embora de capacidade variável, as quais poderão também ser utilizadas para os vinhos espumosos gasificados.
 
 2. Este tipo tradicional de garrafa não pode ser utilizado no engarrafamento de quaisquer outras bebidas.
 
@@ -152,17 +182,17 @@ Nos vinhos espumosos gasificados, 200 mg/l.
 
 As entidades preparadoras dos vinhos são responsáveis pela capacidade indicada.
 
-###### Art. 8.º - 1. Fica reservado exclusivamente para as garrafas dos vinhos espumantes naturais e espumosos gasificados o emprego da rolha tradicional de cortiça com formação de cabeça ou topo de «cogumelo», devendo na rolha e na respectiva placa de cobertura ser marcado o nome da firma preparadora.
+Art. 8.º - 1. Fica reservado exclusivamente para as garrafas dos vinhos espumantes naturais e espumosos gasificados o emprego da rolha tradicional de cortiça com formação de cabeça ou topo de «cogumelo», devendo na rolha e na respectiva placa de cobertura ser marcado o nome da firma preparadora.
 
 2. Nos vinhos espumosos gasificados a cápsula ou cobertura do gargalo, incluindo a gargantilha, não poderá descer mais de 3 cm, a contar do topo da garrafa.
 
-###### Art. 9.º - 1. Só poderão dedicar-se à preparação dos vinhos espumantes naturais e dos vinhos espumosos gasificados as empresas singulares ou colectivas que possuam instalações apropriadas, reúnam as indispensáveis condições técnicas de laboração a determinar em regulamento e sejam titulares do necessário alvará.
+Art. 9.º - 1. Só poderão dedicar-se à preparação dos vinhos espumantes naturais e dos vinhos espumosos gasificados as empresas singulares ou colectivas que possuam instalações apropriadas, reúnam as indispensáveis condições técnicas de laboração a determinar em regulamento e sejam titulares do necessário alvará.
 
 2. A mesma empresa não poderá dedicar-se à preparação de vinhos espumantes naturais e de vinhos espumosos gasificados nem à preparação dos dois tipos de vinhos a que se referem as alíneas a) e b) do artigo 3.º
 
 3. As instalações destinadas à preparação de vinhos espumantes naturais não podem servir senão para esse fim e nelas não pode existir qualquer aparelho de gasificação.
 
-###### Art. 10.º - 1. É também condição indispensável para o exercício da actividade preparadora a que se refere o artigo antecedente a constituição e manutenção em cave ou armazém privativos das seguintes existências mínimas permanentes:
+Art. 10.º - 1. É também condição indispensável para o exercício da actividade preparadora a que se refere o artigo antecedente a constituição e manutenção em cave ou armazém privativos das seguintes existências mínimas permanentes:
 
 a) Vinhos espumantes naturais engarrafados - 50000 l;
 
@@ -170,23 +200,23 @@ b) Vinhos espumosos gasificados engarrafados - 20000 l e uma reserva de vinho ba
 
 2. Nenhuma firma preparadora de vinhos espumantes naturais poderá vender anualmente mais de 50 por cento da sua existência total engarrafada, verificada no ano anterior.
 
-###### Art. 11.º - 1. A venda de vinhos espumantes naturais ou de vinhos espumosos gasificados só poderá ser feita sob marcas comerciais devidamente registadas pelas firmas preparadoras desses vinhos na Repartição da Propriedade Industrial, devendo figurar obrigatòriamente nos rótulos das garrafas a indicação da firma e a localização da sua sede, com menção destacada da palavra «Portugal».
+Art. 11.º - 1. A venda de vinhos espumantes naturais ou de vinhos espumosos gasificados só poderá ser feita sob marcas comerciais devidamente registadas pelas firmas preparadoras desses vinhos na Repartição da Propriedade Industrial, devendo figurar obrigatòriamente nos rótulos das garrafas a indicação da firma e a localização da sua sede, com menção destacada da palavra «Portugal».
 
 2. Em todo o território nacional cada firma preparadora não poderá usar mais de seis marcas.
 
-###### Art. 12.º - 1. Os armazenistas ou exportadores que sejam preparadores de vinhos espumantes naturais ou de vinhos espumosos gasificados só poderão comercializar os vinhos que estejam habilitados a preparar.
+Art. 12.º - 1. Os armazenistas ou exportadores que sejam preparadores de vinhos espumantes naturais ou de vinhos espumosos gasificados só poderão comercializar os vinhos que estejam habilitados a preparar.
 
 2. Nenhuma firma poderá usar para qualquer das categorias de vinhos indicadas nos artigos 1.º e 3.º rótulos com designativos de marca ou aspecto que possam provocar confusão com vinhos da outra categoria.
 
-###### Art. 13.º - 1. Para o efeito do disposto nos artigos anteriores, a cada marca deverá corresponder um rótulo individualizado, entendendo-se que correspondem a marcas distintas os rótulos que, contendo embora um mesmo designativo de marca, apresentem outros elementos complementares, aspecto gráfico, forma ou cor diferentes.
+Art. 13.º - 1. Para o efeito do disposto nos artigos anteriores, a cada marca deverá corresponder um rótulo individualizado, entendendo-se que correspondem a marcas distintas os rótulos que, contendo embora um mesmo designativo de marca, apresentem outros elementos complementares, aspecto gráfico, forma ou cor diferentes.
 
 2. Não se consideram elementos diferenciadores de marcas as simples indicações de «bruto», «seco», «doce» ou quaisquer outras para esclarecimento do consumidor quanto às características dos respectivos vinhos, mesmo quando inscritas nos rótulos com esse propósito.
 
-###### Art. 14.º - 1. A fiscalização do cumprimento do disposto neste diploma, no que respeita às suas normas gerais e ao disposto nos artigos 10.º e 15.º, incumbe, especialmente, à Junta Nacional do Vinho.
+Art. 14.º - 1. A fiscalização do cumprimento do disposto neste diploma, no que respeita às suas normas gerais e ao disposto nos artigos 10.º e 15.º, incumbe, especialmente, à Junta Nacional do Vinho.
 
 2. Para efeito da fiscalização a efectuar na área das regiões demarcadas, a Junta delegará a competência fiscalizadora nos respectivos organismos vitivinícolas regionais.
 
-###### Art. 15.º - 1. A armazenagem e o movimento de preparação e de venda dos vinhos espumantes naturais ou espumosos gasificados ficam sujeitos ao regime de fiscalização e conta corrente.
+Art. 15.º - 1. A armazenagem e o movimento de preparação e de venda dos vinhos espumantes naturais ou espumosos gasificados ficam sujeitos ao regime de fiscalização e conta corrente.
 
 2. Os engarrafamentos dos vinhos espumantes naturais de fermentação em garrafa só poderão ser efectuados com prévio conhecimento dos serviços de fiscalização. Para tanto, deverão os interessados fazer a comunicação do engarrafamento de cada lote com uma antecedência de pelo menos, dez dias. Na comunicação respeitante ao último engarrafamento deverá mencionar-se esta circunstância.
 
@@ -202,19 +232,19 @@ b) Vinhos espumosos gasificados engarrafados - 20000 l e uma reserva de vinho ba
 
 8. Independentemente da assistência fiscalizadora prevista neste diploma, as firmas produtoras ficam sujeitas à fiscalização geral dos vinhos.
 
-###### Art. 16.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções previstas neste diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
+Art. 16.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à preparação e julgamento das infracções previstas neste diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e das mercadorias apreendidas.
 
-###### Art. 17.º Considera-se género alimentício avariado todo o vinho espumante natural ou vinho espumoso gasificado que não satisfaça ao preceituado na alínea b) do n.º 1 do artigo 6.º
+Art. 17.º Considera-se género alimentício avariado todo o vinho espumante natural ou vinho espumoso gasificado que não satisfaça ao preceituado na alínea b) do n.º 1 do artigo 6.º
 
-###### Art. 18.º Constitui delito de falsificação de géneros alimentícios a preparação, armazenagem ou depósito, venda ou exposição para venda de vinhos espumantes naturais que não satisfaçam ao preceituado na alínea d) do n.º 1 do artigo 6.º
+Art. 18.º Constitui delito de falsificação de géneros alimentícios a preparação, armazenagem ou depósito, venda ou exposição para venda de vinhos espumantes naturais que não satisfaçam ao preceituado na alínea d) do n.º 1 do artigo 6.º
 
-###### Art. 19.º Constituem contravenções por falta de características legais as infracções ao disposto nas alíneas a) e c) do n.º 1 do artigo 6.º e ainda em relação aos vinhos espumosos gasificados a infracção ao disposto na alínea d) do mesmo número.
+Art. 19.º Constituem contravenções por falta de características legais as infracções ao disposto nas alíneas a) e c) do n.º 1 do artigo 6.º e ainda em relação aos vinhos espumosos gasificados a infracção ao disposto na alínea d) do mesmo número.
 
-###### Art. 20.º O uso ilegítimo ou indevido das designações previstas no artigo 1.º ou das inscrições referidas no artigo 3.º e a infracção ao preceituado no artigo 9.º, n.os 1 e 2, constituem contravenção punível nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 20.º O uso ilegítimo ou indevido das designações previstas no artigo 1.º ou das inscrições referidas no artigo 3.º e a infracção ao preceituado no artigo 9.º, n.os 1 e 2, constituem contravenção punível nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 21.º A infracção ao disposto no n.º 3 do artigo 9.º constitui contravenção punível com a multa de 1000$00 a 10000$00 e com a apreensão e perda dos respectivos aparelhos.
+Art. 21.º A infracção ao disposto no n.º 3 do artigo 9.º constitui contravenção punível com a multa de 1000$00 a 10000$00 e com a apreensão e perda dos respectivos aparelhos.
 
-###### Art. 22.º Consideram-se infracções disciplinares contra a economia nacional, sendo como tais puníveis pelos organismos competentes, os eventos que se traduzam na inobservância dos seguintes preceitos:
+Art. 22.º Consideram-se infracções disciplinares contra a economia nacional, sendo como tais puníveis pelos organismos competentes, os eventos que se traduzam na inobservância dos seguintes preceitos:
 
 a) Artigo 4.º;
 
@@ -238,15 +268,15 @@ j) Artigo 25.º, n.os 3 e 4;
 
 l) Artigo 27.º;
 
-###### Art. 23.º - 1. As empresas singulares ou colectivas que, à data da publicação deste diploma, empreguem simultâneamente mais do que um dos processos a que se referem as alíneas a) e b) do artigo 3.º, ficam obrigadas a comunicar, no prazo de 60 dias, à Direcção-Geral dos Serviços Industriais, o processo que pretendem adoptar e indicar as existências que possuem de cada um dos vinhos cuja preparação abandonam. Estas existências ficarão em regime de conta corrente especial até ao seu total esgotamento.
+Art. 23.º - 1. As empresas singulares ou colectivas que, à data da publicação deste diploma, empreguem simultâneamente mais do que um dos processos a que se referem as alíneas a) e b) do artigo 3.º, ficam obrigadas a comunicar, no prazo de 60 dias, à Direcção-Geral dos Serviços Industriais, o processo que pretendem adoptar e indicar as existências que possuem de cada um dos vinhos cuja preparação abandonam. Estas existências ficarão em regime de conta corrente especial até ao seu total esgotamento.
 
 2. A Direcção-Geral dos Serviços Industriais comunicará à Inspecção-Geral dos Produtos Agrícolas e Industriais e à Junta Nacional do Vinho as alterações sofridas por força deste artigo.
 
-###### Art. 24.º - 1. As firmas que não sejam preparadoras de vinhos espumantes naturais ou espumosos gasificados e que presentemente se dediquem ao comércio destes vinhos com marcas próprias poderão continuar a usá-las, até ao máximo de três, correspondendo a cada uma delas o vinho de uma única firma preparadora. Neste caso deverá figurar na rolha, placa de cobertura e rótulo o nome desta firma.
+Art. 24.º - 1. As firmas que não sejam preparadoras de vinhos espumantes naturais ou espumosos gasificados e que presentemente se dediquem ao comércio destes vinhos com marcas próprias poderão continuar a usá-las, até ao máximo de três, correspondendo a cada uma delas o vinho de uma única firma preparadora. Neste caso deverá figurar na rolha, placa de cobertura e rótulo o nome desta firma.
 
 2. Não é admissível a cedência ou transmissão das marcas a que se refere o n.º 1.
 
-###### Art. 25.º - 1. É concedido o prazo de dois anos e de um ano para todos os preparadores dos vinhos referidos, respectivamente, nas alíneas b) do artigo 1.º e a) e b) do artigo 3.º procederem às alterações impostas por este diploma.
+Art. 25.º - 1. É concedido o prazo de dois anos e de um ano para todos os preparadores dos vinhos referidos, respectivamente, nas alíneas b) do artigo 1.º e a) e b) do artigo 3.º procederem às alterações impostas por este diploma.
 
 2. É igualmente concedido o prazo de dois anos para o cumprimento do disposto no n.º 3 do artigo 7.º
 
@@ -254,11 +284,11 @@ l) Artigo 27.º;
 
 4. Nas garrafas já em poder dos comerciantes, torna-se obrigatória, no prazo de 180 dias, a aposição no rótulo, por forma destacada e bem visível, de todas as indicações prescritas neste diploma.
 
-###### Art. 26.º É também concedido o prazo de um ano para cumprimento do estabelecido em relação ao uso das marcas comerciais, e a que se referem especialmente os artigos 11.º, 12.º e n.º 1 do artigo 24.º
+Art. 26.º É também concedido o prazo de um ano para cumprimento do estabelecido em relação ao uso das marcas comerciais, e a que se referem especialmente os artigos 11.º, 12.º e n.º 1 do artigo 24.º
 
-###### Art. 27.º É obrigatório, para efeitos de fiscalização e registo, enviar à Inspecção-Geral dos Produtos Agrícolas e Industriais e à Junta Nacional do Vinho doze exemplares dos rótulos de cada uma das marcas actuais e das que venham a ser usadas após a publicação deste diploma.
+Art. 27.º É obrigatório, para efeitos de fiscalização e registo, enviar à Inspecção-Geral dos Produtos Agrícolas e Industriais e à Junta Nacional do Vinho doze exemplares dos rótulos de cada uma das marcas actuais e das que venham a ser usadas após a publicação deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos - Samuel Rodrigues Sanches.
 

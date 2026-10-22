@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45744-1964-576947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfcf2320766964dbb2f3a08d164e88fe8e855eafcad562777f513bd85af3fb49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a9e3c8eb086a5e2ccb7d4d28012d9e05f4d192e7f4d5228cc8bfca5d97458ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Almeida
+- Autorização de Despesas
+- Caixa Geral de Depósitos
+- Câmara Municipal
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Empreitada de Obras Públicas
+- Empréstimo
+- Habitação Social
+- Ministério das Obras Públicas
+- Obras Públicas
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: pt:dre:339264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:16Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +107,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministério das Obras Públicas autorizado a promover por intermédio da Câmara Municipal de Almeida, por empreitada ou por outra forma mais adequada às circunstâncias, a construção de 23 habitações destinadas às famílias de modestos recursos a desalojar para a execução das obras de restauro e valorização da referida vila, que são da competência do Estado, segundo o plano aprovado pelo Ministro das Obras Públicas.
+Artigo 1.º Fica o Ministério das Obras Públicas autorizado a promover por intermédio da Câmara Municipal de Almeida, por empreitada ou por outra forma mais adequada às circunstâncias, a construção de 23 habitações destinadas às famílias de modestos recursos a desalojar para a execução das obras de restauro e valorização da referida vila, que são da competência do Estado, segundo o plano aprovado pelo Ministro das Obras Públicas.
 
-###### Art. 2.º Como comparticipação do Tesouro para a execução da obra a que se refere o artigo anterior, incluindo a aquisição e a urbanização dos terrenos necessários, será concedido à Câmara Municipal de Almeida, pela rubrica do orçamento da Direcção-Geral dos Edifícios e Monumentos Nacionais, em que têm cabimento as obras de restauro e valorização referidas, um subsídio não reembolsável até ao montante de 860000$00, em anuidades que serão fixadas de harmonia com o programa da construção das habitações.
+Art. 2.º Como comparticipação do Tesouro para a execução da obra a que se refere o artigo anterior, incluindo a aquisição e a urbanização dos terrenos necessários, será concedido à Câmara Municipal de Almeida, pela rubrica do orçamento da Direcção-Geral dos Edifícios e Monumentos Nacionais, em que têm cabimento as obras de restauro e valorização referidas, um subsídio não reembolsável até ao montante de 860000$00, em anuidades que serão fixadas de harmonia com o programa da construção das habitações.
 
 § único. A Direcção-Geral dos Edifícios e Monumentos Nacionais promoverá a entrega das anuidades do subsídio a simples requisição da Câmara Municipal de Almeida.
 
-###### Art. 3.º Para poder ocorrer aos encargos que lhe competem na realização do programa global de construção das novas habitações e bem assim das obras de saneamento da vila, em cumprimento do plano a que se refere o artigo 1.º, é a Câmara Municipal de Almeida autorizada a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até ao montante de 640000$00.
+Art. 3.º Para poder ocorrer aos encargos que lhe competem na realização do programa global de construção das novas habitações e bem assim das obras de saneamento da vila, em cumprimento do plano a que se refere o artigo 1.º, é a Câmara Municipal de Almeida autorizada a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até ao montante de 640000$00.
 
-###### Art. 4.º Aplica-se às habitações a construir pela Câmara Municipal de Almeida o regime estabelecido no [Decreto-Lei n.º 35578](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35578-1946-339264), de 4 de Abril de 1946, competindo à referida Câmara Municipal a sua exploração e ficando o produto líquido das rendas consignado ao serviço do empréstimo a que se refere o artigo anterior.
+Art. 4.º Aplica-se às habitações a construir pela Câmara Municipal de Almeida o regime estabelecido no [Decreto-Lei n.º 35578](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35578-1946-339264), de 4 de Abril de 1946, competindo à referida Câmara Municipal a sua exploração e ficando o produto líquido das rendas consignado ao serviço do empréstimo a que se refere o artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

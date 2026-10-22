@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1978-295377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc47885b1fc89ea168119fefffb6127c3b9012fa73ce4cb9c774ed44e31a138d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16860670c495ec060cdb84592497c89bacf51e12516520c3a62e787c88bcd867
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Deslocação em Serviço
+- Emolumento
+- Instituição de Crédito
+- Notário
+- Serviços de Registo e Notariado
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:17Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +118,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É permitida a saída dos notários durante as horas normais de serviço, fora do caso previsto no n.º 6 do artigo 23.º da Tabela de Emolumentos do Notariado, apenas para a realização de actos em instituições de crédito.
+Artigo 1.º - 1 - É permitida a saída dos notários durante as horas normais de serviço, fora do caso previsto no n.º 6 do artigo 23.º da Tabela de Emolumentos do Notariado, apenas para a realização de actos em instituições de crédito.
 
 2 - A saída só poderá realizar-se durante um dos períodos de serviço de cada dia.
 
-###### Art. 2.º O emolumento a cobrar pelas saídas previstas no artigo anterior será de 100$00.
+Art. 2.º O emolumento a cobrar pelas saídas previstas no artigo anterior será de 100$00.
 
-###### Art. 3.º As taxas a que se refere o n.º 1 do artigo 54.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, passam a ser as seguintes:
+Art. 3.º As taxas a que se refere o n.º 1 do artigo 54.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, passam a ser as seguintes:
 
 1) Requerimentos para actos de registo:
 
@@ -130,8 +140,8 @@ b) Se se referir a mais do que um prédio, por cada prédio a mais ... 10$00
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Dias dos Santos Pais.
 
-**Promulgado em 5 de Junho de 1978.**
+Promulgado em 5 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

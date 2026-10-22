@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1970-140864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c30dc5b83b58a9863a8d407b68df92aa9f7b2b24e7435009473060b8881f6fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d25273d77fa5b2f90e308da5b063b8c2cac102dc318230120d8aa00114689c4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Imposto de Camionagem
+- Imposto de Compensação
+- Licenciamento
+- Mercadoria
+- Transporte
+- Transporte de Carga
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Público
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:342462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:59Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +125,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os §§ 4.º e 5.º do artigo 18.º, o artigo 22.º e a alínea 2) do artigo 27.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os §§ 4.º e 5.º do artigo 18.º, o artigo 22.º e a alínea 2) do artigo 27.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 § 1.º ...
 
@@ -124,7 +143,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 22.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação de harmonia com as taxas anuais constantes da tabela seguinte:
+Art. 22.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação de harmonia com as taxas anuais constantes da tabela seguinte:
 
 1. Automóveis de passageiros:
 
@@ -178,22 +197,22 @@ Peso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas,
 
 ...
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 1) ...
 
 2) O valor do imposto de compensação fixar-se-á na taxa anual constante de 12000$00, não gozando, porém, os seus proprietários do benefício estabelecido no artigo 24.º do presente diploma, a não ser que a apreensão ou depósito nele referidos se estendam por períodos não inferiores a um ano fiscal.
 
-###### Art. 2.º As isenções e reduções dos impostos de circulação, de camionagem e de compensação, para além das que se encontram expressamente referidas no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), carecem de referências expressas nos diplomas legais ou despachos que as concedem.
+Art. 2.º As isenções e reduções dos impostos de circulação, de camionagem e de compensação, para além das que se encontram expressamente referidas no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), carecem de referências expressas nos diplomas legais ou despachos que as concedem.
 
-###### Art. 3.º - 1. O presente diploma entra em vigor no dia 1 de Julho de 1970.
+Art. 3.º - 1. O presente diploma entra em vigor no dia 1 de Julho de 1970.
 
 2. A liquidação e cobrança das importâncias correspondentes ao aumento do imposto de compensação resultante da aplicação das novas taxas a que se refere o presente diploma far-se-ão conjuntamente com as relativas ao 4.º trimestre de 1970.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 17 de Junho de 1970.**
+Promulgado em 17 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

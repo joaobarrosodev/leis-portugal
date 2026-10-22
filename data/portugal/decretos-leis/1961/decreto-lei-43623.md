@@ -48,36 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43623-1961-569559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b1665946ef6664b737d61ea9816feac937e66721d95287c964238c67d722f68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2735429b9492142d633942fe1b4a33ca87af75cbdcf1d37cc77cf1691066f786
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Pessoal Administrativo
+- Pessoal de Justiça
+- Recrutamento de Pessoal
+- Remuneração
+- Secretaria Judicial
+- Sistema Retributivo
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:149409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638908:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:35Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +120,13 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os lugares de escriturário de 2.ª classe das secretarias judiciais serão providos, mediante concurso documental, entre indivíduos do sexo masculino, maiores ou emancipados, habilitados com o 1.º ciclo dos liceus ou equivalente, que saibam escrever correctamente à máquina, sendo motivo de preferência a habilitação com ambas ou alguma das secções do 2.º ciclo dos liceus ou sua equivalência, quando acompanhada do conhecimento das noções elementares sobre expediente de processos.
+Artigo 1.º - 1. Os lugares de escriturário de 2.ª classe das secretarias judiciais serão providos, mediante concurso documental, entre indivíduos do sexo masculino, maiores ou emancipados, habilitados com o 1.º ciclo dos liceus ou equivalente, que saibam escrever correctamente à máquina, sendo motivo de preferência a habilitação com ambas ou alguma das secções do 2.º ciclo dos liceus ou sua equivalência, quando acompanhada do conhecimento das noções elementares sobre expediente de processos.
 
 2. O conhecimento das noções elementares sobre expediente de processos e a prática de dactilografia provar-se-ão por declaração do chefe da secção central, depois de o interessado haver praticado na secretaria judicial durante um período mínimo de dois meses.
 
-###### Art. 2.º Os lugares de escriturário de 1.ª classe serão providos, mediante concurso documental, entre escriturários de 2.ª classe, constituindo motivo de preferência a melhor classificação de serviço.
+Art. 2.º Os lugares de escriturário de 1.ª classe serão providos, mediante concurso documental, entre escriturários de 2.ª classe, constituindo motivo de preferência a melhor classificação de serviço.
 
-###### Art. 3.º - 1. Constituem requisitos de admissão aos concursos para chefe de secção das secretarias judiciais:
+Art. 3.º - 1. Constituem requisitos de admissão aos concursos para chefe de secção das secretarias judiciais:
 
 a) Ser cidadão português do sexo masculino;
 
@@ -106,9 +140,9 @@ d) Ter cumprido os preceitos legais sobre recrutamento militar.
 
 3. O tempo de serviço necessário para a admissão ao concurso prova-se mediante certidão passada pela Direcção-Geral de Justiça, nele se computando o exercício interino das funções de chefe de secção ou escriturário de 1.ª classe; a classificação prova-se mediante certificado passado pelo Conselho Superior Judiciário ou pela Polícia Judiciária, consoante os casos.
 
-###### Art. 4.º O artigo 2.º do [Decreto-Lei n.º 35977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35977-1946-149409), de 23 de Novembro de 1946, passa a ter a seguinte redacção:
+Art. 4.º O artigo 2.º do [Decreto-Lei n.º 35977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35977-1946-149409), de 23 de Novembro de 1946, passa a ter a seguinte redacção:
 
-###### Art. 2.º Do total das receitas arrecadadas pelos cofres das secretarias judiciais serão pagos em primeiro lugar 34 por cento dos vencimentos do respectivo pessoal contratado; do saldo restante reverterão 25 por cento para os funcionários referidos no artigo anterior e 75 por cento para o Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 2.º Do total das receitas arrecadadas pelos cofres das secretarias judiciais serão pagos em primeiro lugar 34 por cento dos vencimentos do respectivo pessoal contratado; do saldo restante reverterão 25 por cento para os funcionários referidos no artigo anterior e 75 por cento para o Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 A parte destinada aos funcionários será por eles distribuída segundo a proporção estabelecida nos artigos 200.º e seguintes do Código das Custas Judiciais.
 
@@ -116,15 +150,15 @@ A parte destinada aos funcionários será por eles distribuída segundo a propor
 
 § 2.º A mesma participação será considerada para efeito dos limites estabelecidos no § 1.º do artigo 308.º do Estatuto Judiciário e nos artigos 4.º e 5.º do [Decreto-Lei n.º 40613](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40613-1956-231122), de 28 de Maio de 1956.
 
-###### Art. 5.º - 1. Os escriturários de 2.ª classe e copistas, quer efectivos, quer interinos, das várias secretarias judiciais transitam, independentemente de nomeação, posse ou celebração de novos contratos, para os lugares, respectivamente, de escriturário de 1.ª e de 2.ª classes que nas secretarias em que servem actualmente venham a ser criados.
+Art. 5.º - 1. Os escriturários de 2.ª classe e copistas, quer efectivos, quer interinos, das várias secretarias judiciais transitam, independentemente de nomeação, posse ou celebração de novos contratos, para os lugares, respectivamente, de escriturário de 1.ª e de 2.ª classes que nas secretarias em que servem actualmente venham a ser criados.
 
 2. O tempo de serviço que os actuais escriturários de 2.ª classe tenham prestado na categoria de escriturário é contado, nos termos da legislação em vigor, para o efeito da sua admissão aos concursos para chefe de secção.
 
-###### Art. 6.º O disposto na alínea b) do artigo 3.º não prejudica, quanto aos actuais escriturários, o preceituado no § único do artigo 4.º do [Decreto-Lei n.º 36288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36288-1947-186076), de 19 de Maio de 1947, e no artigo 4.º do [Decreto-Lei n.º 42756](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42756-1959-441897), de 23 de Dezembro de 1959.
+Art. 6.º O disposto na alínea b) do artigo 3.º não prejudica, quanto aos actuais escriturários, o preceituado no § único do artigo 4.º do [Decreto-Lei n.º 36288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36288-1947-186076), de 19 de Maio de 1947, e no artigo 4.º do [Decreto-Lei n.º 42756](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42756-1959-441897), de 23 de Dezembro de 1959.
 
-###### Art. 7.º São revogados os artigos 291.º e 353.º do Estatuto Judiciário, 1.º a 5.º do [Decreto-Lei n.º 36549](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36549-1947-638908), de 21 de Outubro de 1947, e 1.º do [Decreto-Lei n.º 42113](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42113-1959-591937), de 20 de Janeiro de 1959.
+Art. 7.º São revogados os artigos 291.º e 353.º do Estatuto Judiciário, 1.º a 5.º do [Decreto-Lei n.º 36549](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36549-1947-638908), de 21 de Outubro de 1947, e 1.º do [Decreto-Lei n.º 42113](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42113-1959-591937), de 20 de Janeiro de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14900/14131414.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1979-381151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c14700aa852ce9cc4228382c26d29a427fe5dcc84a4d4f48e9970d1fa21ccd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c5bcade49012afae6397ee7cf3906534bbf79a539667c564226014aece6b50a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Dotação Orçamental
+- Empresa Pública de Parques Industriais
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:50Z'
   warnings: []
   errors: []
 ---
@@ -103,22 +116,22 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Serão inscritas nos sucessivos Orçamentos Gerais do Estado, para os anos de 1979 a 1982, verbas correspondentes a 40% do custo dos investimentos da Empresa Pública de Parques Industriais (EPPI), constantes de programas anualmente aprovados pelos Ministérios da Tutela e das Finanças e do Plano.
+Artigo 1.º - 1 - Serão inscritas nos sucessivos Orçamentos Gerais do Estado, para os anos de 1979 a 1982, verbas correspondentes a 40% do custo dos investimentos da Empresa Pública de Parques Industriais (EPPI), constantes de programas anualmente aprovados pelos Ministérios da Tutela e das Finanças e do Plano.
 
 2 - As verbas referidas no número anterior destinam-se à realização do aumento do capital estatutário da EPPI, autorizado nos termos do artigo 17.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e serão deduzidas ao montante anualmente atribuído ao Ministério da Indústria e Tecnologia, a título de dotação para capital estatutário.
 
-###### Art. 2.º - 1 - Os montantes previstos no artigo anterior serão postos à disposição da Empresa, em cada ano, até 31 de Março e 31 de Outubro.
+Art. 2.º - 1 - Os montantes previstos no artigo anterior serão postos à disposição da Empresa, em cada ano, até 31 de Março e 31 de Outubro.
 
 2 - A parcela correspondente ao ano de 1979 será entregue em duas prestações até 30 de Junho e 31 de Outubro.
 
-###### Art. 3.º - 1 - Fica o Secretário de Estado do Tesouro autorizado a conceder à EPPI, para realização do referido programa de instalação de parques industriais, três empréstimos, durante os anos de 1980, 1981 e 1982, no montante equivalente a 5% do custo dos investimentos da EPPI, constantes de programa anualmente aprovado pelos Ministérios da Tutela e das Finanças e do Plano.
+Art. 3.º - 1 - Fica o Secretário de Estado do Tesouro autorizado a conceder à EPPI, para realização do referido programa de instalação de parques industriais, três empréstimos, durante os anos de 1980, 1981 e 1982, no montante equivalente a 5% do custo dos investimentos da EPPI, constantes de programa anualmente aprovado pelos Ministérios da Tutela e das Finanças e do Plano.
 
 2 - Os empréstimos referidos no número anterior serão concedidos por um prazo de quinze anos, verificando-se o início do reembolso a partir de 1 de Janeiro de 1986, sendo as demais condições fixadas por despacho do Secretário de Estado do Tesouro.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 18 de Junho de 1979.**
+Promulgado em 18 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

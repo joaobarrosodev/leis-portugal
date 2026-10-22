@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05500/03460349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1975-160753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0401f56054ea5b8dbf3d48a53295d18f4213fb009c2837408106e4f1b763d4b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65165dc887271055d3b42b9ef7ec6712f469bc0a16783a4bb629744573c1656b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão
+- Criação de Serviços
+- Definição de Competências
+- Empresa
+- Ministro da Economia
+- Presidente
+- Produto Siderúrgico
+- Secretaria de Estado da Indústria e Energia
+- Secretaria de Estado do Abastecimento e Preços
+- Secretaria de Estado do Comércio Externo e Turismo
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:428028:por
+  label: "Alterados o art. 7º, a primeira parte do nº 1 do art. 9º, o nº 1 do art. 10º e os arts. 11º, 12º e 13º pelo DEC\
+    \ LEI.359/76.14.05.1976.MIT, DR.IS [113] de 14.05.1976 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/359-1976-428028
+  date: '1976-05-14'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:15Z'
   warnings: []
   errors: []
 ---
@@ -103,31 +126,31 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para assegurar o cumprimento das obrigações assumidas nos termos do artigo 20.º do Acordo celebrado em 22 de Julho de 1972 entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro lado, as transacções comerciais dos produtos enumerados no anexo a este diploma efectuadas no território europeu de Portugal e entre este território e os dos Estados Membros da Comunidade Europeia do Carvão e do Aço ficam sujeitas às disposições do presente decreto-lei.
+Artigo 1.º Para assegurar o cumprimento das obrigações assumidas nos termos do artigo 20.º do Acordo celebrado em 22 de Julho de 1972 entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro lado, as transacções comerciais dos produtos enumerados no anexo a este diploma efectuadas no território europeu de Portugal e entre este território e os dos Estados Membros da Comunidade Europeia do Carvão e do Aço ficam sujeitas às disposições do presente decreto-lei.
 
-###### Art. 2.º - 1. As empresas que fabricam produtos incluídos no anexo I a este diploma ficam sujeitas no que a eles respeita às disposições do presente decreto-lei.
+Art. 2.º - 1. As empresas que fabricam produtos incluídos no anexo I a este diploma ficam sujeitas no que a eles respeita às disposições do presente decreto-lei.
 
 2. O presente decreto-lei aplica-se igualmente às organizações de venda e às empresas de distribuição que transaccionem os produtos referidos no número anterior.
 
 3. Para os efeitos deste decreto-lei, serão consideradas organizações de venda as entidades encarregadas da venda em comum que agrupem várias empresas produtoras, e empresas de distribuição aquelas cuja gestão dependa de uma empresa de produção e se encontrem incumbidas por esta da venda de todos ou parte dos seus produtos, constituindo a distribuição desses produtos a sua actividade essencial.
 
-###### Art. 3.º As empresas produtoras, as organizações de venda e as empresas de distribuição ficam obrigadas a publicar as suas tabelas de preços, condições de venda e a assegurar a transparência adequada dos preços de transporte, nomeadamente no que respeita aos fretes marítimos.
+Art. 3.º As empresas produtoras, as organizações de venda e as empresas de distribuição ficam obrigadas a publicar as suas tabelas de preços, condições de venda e a assegurar a transparência adequada dos preços de transporte, nomeadamente no que respeita aos fretes marítimos.
 
-###### Art. 4.º São proibidas quaisquer medidas ou práticas que estabeleçam ou tendam a estabelecer uma discriminação entre produtores, entre compradores ou entre utilizadores, nomeadamente no respeitante a condições de preços ou de fornecimento e a encargos de transporte, bem como as medidas ou práticas que obstem à livre escolha pelo comprador do seu fornecedor.
+Art. 4.º São proibidas quaisquer medidas ou práticas que estabeleçam ou tendam a estabelecer uma discriminação entre produtores, entre compradores ou entre utilizadores, nomeadamente no respeitante a condições de preços ou de fornecimento e a encargos de transporte, bem como as medidas ou práticas que obstem à livre escolha pelo comprador do seu fornecedor.
 
-###### Art. 5.º Em matéria de preços são proibidas as práticas desleais de concorrência e as práticas discriminatórias que se traduzem na aplicação por um vendedor de condições diferentes a transacções comparáveis, nomeadamente em função da nacionalidade dos compradores.
+Art. 5.º Em matéria de preços são proibidas as práticas desleais de concorrência e as práticas discriminatórias que se traduzem na aplicação por um vendedor de condições diferentes a transacções comparáveis, nomeadamente em função da nacionalidade dos compradores.
 
-###### Art. 6.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição ficam obrigadas a estabelecer condições de venda que constituam os seus intermediários e compradores (negociantes) na obrigação de respeitar as regras estabelecidas por este decreto-lei e legislação complementar.
+Art. 6.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição ficam obrigadas a estabelecer condições de venda que constituam os seus intermediários e compradores (negociantes) na obrigação de respeitar as regras estabelecidas por este decreto-lei e legislação complementar.
 
 2. As empresas produtoras são responsáveis pelas infracções cometidas pelas suas organizações de venda, empresas de distribuição e intermediários.
 
-###### Art. 7.º - 1. É criada a Comissão de Regras de Concorrência para Produtos Siderúrgicos, na directa dependência do Ministro da Economia, a qual será constituída por um presidente e por três vogais representantes das Secretarias de Estado da Indústria e Energia, do Comércio Externo e Turismo e do Abastecimento e Preços.
+Art. 7.º - 1. É criada a Comissão de Regras de Concorrência para Produtos Siderúrgicos, na directa dependência do Ministro da Economia, a qual será constituída por um presidente e por três vogais representantes das Secretarias de Estado da Indústria e Energia, do Comércio Externo e Turismo e do Abastecimento e Preços.
 
 2. O presidente da Comissão será designado pelo Ministro da Economia.
 
 3. Os vogais serão designados pelos Secretários de Estado respectivos.
 
-###### Art. 8.º Compete à Comissão de Regras de Concorrência para Produtos Siderúrgicos:
+Art. 8.º Compete à Comissão de Regras de Concorrência para Produtos Siderúrgicos:
 
 a) Orientar a actividade do Serviço de Secretariado a que se refere o artigo 9.º;
 
@@ -137,7 +160,7 @@ c) Tomar conhecimento dos processos relativos às infracções verificadas no â
 
 d) Propor a publicação da legislação necessária ao cumprimento do Acordo referido no artigo 1.º
 
-###### Art. 9.º - 1. A Comissão de Regras de Concorrência para Produtos Siderúrgicos disporá de um Serviço de Secretariado que funcionará na Secretaria de Estado do Comércio Externo e Turismo e ao qual compete:
+Art. 9.º - 1. A Comissão de Regras de Concorrência para Produtos Siderúrgicos disporá de um Serviço de Secretariado que funcionará na Secretaria de Estado do Comércio Externo e Turismo e ao qual compete:
 
 a) Acompanhar a execução do Acordo referido no artigo 1.º e estudar e propor à Comissão a adopção das medidas necessárias para o aperfeiçoamento dessa execução;
 
@@ -151,21 +174,21 @@ e) Desempenhar quaisquer outras funções relacionadas com a execução do Acord
 
 2. O director do Serviço de Secretariado tomará parte nas sessões da Comissão, sem direito a voto.
 
-###### Art. 10.º - 1. A Comissão reunirá, ordinariamente, duas vezes por mês e, extraordinariamente, sempre que o presidente a convocar, por sua iniciativa ou a pedido de qualquer dos vogais, ou do director do Serviço de Secretariado.
+Art. 10.º - 1. A Comissão reunirá, ordinariamente, duas vezes por mês e, extraordinariamente, sempre que o presidente a convocar, por sua iniciativa ou a pedido de qualquer dos vogais, ou do director do Serviço de Secretariado.
 
 2. Poderão, ainda, participar nas reuniões, sem direito a voto, os assessores técnicos que o presidente designar.
 
 3. Os assessores técnicos, quanto aos factos de que tomarem conhecimento no exercício das funções, ficam sujeitos às regras de confidencialidade aplicáveis aos funcionários civis do Estado.
 
-###### Art. 11.º O presidente e os vogais da Comissão terão direito a uma gratificação mensal, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Economia.
+Art. 11.º O presidente e os vogais da Comissão terão direito a uma gratificação mensal, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Economia.
 
-###### Art. 12.º - 1. O quadro do pessoal do Serviço de Secretariado e formas de provimento constarão de diploma referendado pelos Ministros das Finanças e da Economia.
+Art. 12.º - 1. O quadro do pessoal do Serviço de Secretariado e formas de provimento constarão de diploma referendado pelos Ministros das Finanças e da Economia.
 
 2. Enquanto não estiver preenchido o quadro do pessoal, poderá ser destacado para exercer funções no Serviço de Secretariado o pessoal do Ministério que o Ministro da Economia determinar.
 
-###### Art. 13.º O Ministro da Economia fixará por despacho as regras cujo estabelecimento se mostrar necessário para a boa execução das tarefas cometidas à Comissão de Regras de Concorrência para Produtos Siderúrgicos e ao seu Serviço de Secretariado.
+Art. 13.º O Ministro da Economia fixará por despacho as regras cujo estabelecimento se mostrar necessário para a boa execução das tarefas cometidas à Comissão de Regras de Concorrência para Produtos Siderúrgicos e ao seu Serviço de Secretariado.
 
-###### Art. 14.º - 1. O julgamento das infracções ocorridas no âmbito do disposto neste decreto-lei e diplomas complementares pertence aos tribunais comuns.
+Art. 14.º - 1. O julgamento das infracções ocorridas no âmbito do disposto neste decreto-lei e diplomas complementares pertence aos tribunais comuns.
 
 2. A falta de cumprimento das regras relativas a preços, condições de venda e encargos de transporte, estabelecidos nos termos deste diploma, será punida com multa até ao dobro do valor da transacção irregular, podendo ser elevada até ao quádruplo, em caso de reincidência.
 
@@ -173,7 +196,7 @@ e) Desempenhar quaisquer outras funções relacionadas com a execução do Acord
 
 4. As entidades referidas no número anterior que não forneçam ou forneçam fora dos prazos as informações que lhes forem exigidas em cumprimento do preceituado neste diploma cometem uma transgressão punível, respectivamente, com multa até ao máximo de 1% do montante anual das suas vendas de produtos incluídos no anexo a este diploma ou com multa, por cada dia de atraso no envio das informações pedidas, até 5% do montante médio diário das suas vendas anuais dos mesmos produtos.
 
-###### Art. 15.º - 1. No exercício da competência a que se referem as alíneas a) e c) do artigo 8.º e as alíneas a), b), d) e e) do artigo 9.º deste diploma, os membros da Comissão de Regras de Concorrência e o director do Serviço de Secretariado podem ordenar as diligências que forem consideradas convenientes para o apuramento da verdade.
+Art. 15.º - 1. No exercício da competência a que se referem as alíneas a) e c) do artigo 8.º e as alíneas a), b), d) e e) do artigo 9.º deste diploma, os membros da Comissão de Regras de Concorrência e o director do Serviço de Secretariado podem ordenar as diligências que forem consideradas convenientes para o apuramento da verdade.
 
 2. As entidades referidas no artigo 2.º ficam obrigadas a fornecer à Comissão e ao Serviço de Secretariado todas as informações de que estes necessitem para o desempenho das suas funções e a facultar-lhes a apresentação de quaisquer documentos comerciais ou contabilísticos necessários para a fiscalização eficaz das regras relativas a preços, condições de venda e encargos de transporte.
 
@@ -181,14 +204,14 @@ e) Desempenhar quaisquer outras funções relacionadas com a execução do Acord
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 26 de Fevereiro de 1975.**
+Promulgado em 26 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO — Lista dos produtos referidos no artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/05500/03460349.pdf))](https://files.diariodarepublica.pt/1s/1975/03/05500/03460349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05500/03460349.pdf)
 
-**O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.

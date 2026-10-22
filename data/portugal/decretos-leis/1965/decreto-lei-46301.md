@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62a0ab4c8a672c890801dc07f985b19a587d652902aba5689765f15fbaa8faaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0049a4dffa385136df5047e544cabd9bb45bcc32bb9140c8dc5f00b9c86b7d9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Financiamento
+- Ministério da Saúde e Assistência
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:673810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673810:por
+  label: "Determinado que, a partir de 1974, deixa de constituir despesa obrigatória dos concelhos a relativa aos encargos\
+    \ referidos nos arts. 30º e 34º pelo DEC LEI.173/73.16.04.1973.MI, DG.IS [90] de 16.04.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1973-673810
+  date: '1973-04-16'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693016:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:59Z'
   warnings: []
   errors: []
 ---
@@ -93,29 +119,29 @@ Regime financeiro dos serviços e instituições de natureza hospitalar
 
 ### CAPÍTULO I — Do regime geral
 
-###### Artigo 1.º - 1. O regime financeiro dos serviços e instituições dependentes do Ministério da Saúde e Assistência que visam actividades de natureza hospitalar, sejam oficiais ou particulares, gerais ou especializados, obedecerá ao disposto na [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, e no presente diploma.
+Artigo 1.º - 1. O regime financeiro dos serviços e instituições dependentes do Ministério da Saúde e Assistência que visam actividades de natureza hospitalar, sejam oficiais ou particulares, gerais ou especializados, obedecerá ao disposto na [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), de 19 de Julho de 1963, e no presente diploma.
 
 2. São consideradas actividades de natureza hospitalar as que se destinam a prestar, nos hospitais ou em ligação com estes, cuidados de medicina curativa e de recuperação clínica e social e bem assim, as que se proponham cooperar na prevenção da doença, no ensino, formação de pessoal e investigação científica.
 
-###### Art. 2.º - 1. Os hospitais gerais oficiais gozam de personalidade jurídica e de autonomia administrativa, nos termos deste diploma e dos respectivos regulamentos.
+Art. 2.º - 1. Os hospitais gerais oficiais gozam de personalidade jurídica e de autonomia administrativa, nos termos deste diploma e dos respectivos regulamentos.
 
 2. Os hospitais e serviços especializados, oficiais, terão personalidade jurídica e autonomia administrativa, se lhes forem concedidas nos diplomas orgânicos ou, posteriormente, em portaria conjunta dos Ministros das Finanças e da Saúde e Assistência.
 
-###### Art. 3.º - 1. Para execução do disposto no n.º 4 da base XXXVI da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), o Ministério da Saúde e Assistência providenciará no sentido de serem revistas as normas de administração e contabilidade dos serviços e instituições de natureza hospitalar, quer gerais, quer especializados.
+Art. 3.º - 1. Para execução do disposto no n.º 4 da base XXXVI da [Lei n.º 2120](https://diariodarepublica.pt/dr/detalhe/lei/2120-1963-693016), o Ministério da Saúde e Assistência providenciará no sentido de serem revistas as normas de administração e contabilidade dos serviços e instituições de natureza hospitalar, quer gerais, quer especializados.
 
 2. A revisão constará de decreto a publicar pelos Ministérios das Finanças e da Saúde e Assistência, quanto a serviços oficiais, e de portaria do Ministro da Saúde e Assistência, quanto a instituições particulares.
 
-###### Art. 4.º - 1. Na revisão de que trata o artigo anterior, ter-se-á em conta a dimensão dos serviços e instituições e a necessidade de conseguir o maior rendimento social com os meios disponíveis.
+Art. 4.º - 1. Na revisão de que trata o artigo anterior, ter-se-á em conta a dimensão dos serviços e instituições e a necessidade de conseguir o maior rendimento social com os meios disponíveis.
 
 2. A contabilidade será organizada por forma a garantir a fiscalização financeira da gestão e o apuramento dos seus resultados económicos.
 
-###### Art. 5.º A aprovação dos quadros de pessoal e dos orçamentos dos estabelecimentos não oficiais que prossigam actividades de natureza hospitalar compete à Direcção-Geral dos Hospitais.
+Art. 5.º A aprovação dos quadros de pessoal e dos orçamentos dos estabelecimentos não oficiais que prossigam actividades de natureza hospitalar compete à Direcção-Geral dos Hospitais.
 
-###### Art. 6.º - 1. Nos serviços e instituições referidos neste diploma, continuam válidos até 30 de Abril de cada ano os orçamentos do ano anterior, se até essa data não tiverem sido aprovados os que hão-de reger a gerência em curso.
+Art. 6.º - 1. Nos serviços e instituições referidos neste diploma, continuam válidos até 30 de Abril de cada ano os orçamentos do ano anterior, se até essa data não tiverem sido aprovados os que hão-de reger a gerência em curso.
 
 2. A validade dos orçamentos anteriores é restrita às receitas e despesas ordinárias, salvo se, em relação às extraordinárias, houver despacho confirmativo do Ministro da Saúde e Assistência.
 
-###### Art. 7.º - 1. Atendendo ao condicionalismo presente dos hospitais, em casos excepcionais, devidamente comprovados pelas administrações dos serviços ou instituições, com parecer da Direcção-Geral dos Hospitais e autorização dos Ministros das Finanças e da Saúde e Assistência, poderão ser processados, liquidados e pagos, em conta das dotações respectivas do orçamento do ano que estiver correndo, encargos contraídos em anos anteriores.
+Art. 7.º - 1. Atendendo ao condicionalismo presente dos hospitais, em casos excepcionais, devidamente comprovados pelas administrações dos serviços ou instituições, com parecer da Direcção-Geral dos Hospitais e autorização dos Ministros das Finanças e da Saúde e Assistência, poderão ser processados, liquidados e pagos, em conta das dotações respectivas do orçamento do ano que estiver correndo, encargos contraídos em anos anteriores.
 
 2. Este regime vigorará pelo prazo de três anos, findos os quais será revisto, só podendo ser prorrogado mediante portaria conjunta dos Ministros das Finanças e da Saúde e Assistência.
 
@@ -123,7 +149,7 @@ Regime financeiro dos serviços e instituições de natureza hospitalar
 
 #### SECÇÃO I — Da cobertura dos encargos
 
-###### Art. 8.º As despesas resultantes da instalação e funcionamento dos serviços e instituições de natureza hospitalar serão cobertas:
+Art. 8.º As despesas resultantes da instalação e funcionamento dos serviços e instituições de natureza hospitalar serão cobertas:
 
 a) Pelas receitas provenientes do funcionamento dos serviços, nelas incluindo os pagamentos do Estado, câmaras municipais, organismos de previdência e outros da mesma natureza;
 
@@ -135,7 +161,7 @@ d) Por quaisquer outras receitas legalmente admitidas.
 
 #### SECÇÃO II — Dos assistidos
 
-###### Art. 9.º - 1. As pessoas assistidas serão classificadas numa das seguintes categorias:
+Art. 9.º - 1. As pessoas assistidas serão classificadas numa das seguintes categorias:
 
 a) Pensionistas, se as condições económicas do seu agregado familiar, ou dos seus parentes responsáveis, nos termos do presente diploma, lhes permitirem pagar toda a assistência recebida;
 
@@ -147,7 +173,7 @@ c) Gratuitos, no caso de não poderem ser responsabilizados por quaisquer encarg
 
 3. Quando haja instalações apropriadas, podem os médicos dos hospitais ou a eles estranhos ser autorizados a assistir doentes privados nos quartos particulares, nas consultas externas e nos serviços complementares de diagnóstico e terapêutica, nos termos que forem definidos em despacho do Ministro da Saúde e Assistência.
 
-###### Art. 10.º - 1. A condição económica dos porcionistas e gratuitos, assistidos no concelho do seu domicílio de socorro, será determinada mediante inquérito organizado pelo serviço que prestar a assistência.
+Art. 10.º - 1. A condição económica dos porcionistas e gratuitos, assistidos no concelho do seu domicílio de socorro, será determinada mediante inquérito organizado pelo serviço que prestar a assistência.
 
 2. Esta determinação poderá ficar a cargo das câmaras municipais quando, depois de ouvidas, assim for determinado em despacho conjunto dos Ministros do Interior e da Saúde e Assistência.
 
@@ -157,7 +183,7 @@ c) Gratuitos, no caso de não poderem ser responsabilizados por quaisquer encarg
 
 5. Quando competir às câmaras municipais a determinação da condição económica dos assistidos, aplicar-se-á o disposto no artigo seguinte.
 
-###### Art. 11.º - 1. A assistência prestada fora do concelho do domicílio de socorro depende de guia de responsabilidade passada pela respectiva câmara municipal, mediante inquérito em que será averiguada a condição económica dos assistidos.
+Art. 11.º - 1. A assistência prestada fora do concelho do domicílio de socorro depende de guia de responsabilidade passada pela respectiva câmara municipal, mediante inquérito em que será averiguada a condição económica dos assistidos.
 
 2. Se a assistência tiver carácter urgente, o serviço que a prestar solicitará a guia no prazo de cinco dias e a câmara enviá-la-á ou impugnará a sua responsabilidade nos 30 dias seguintes.
 
@@ -165,11 +191,11 @@ c) Gratuitos, no caso de não poderem ser responsabilizados por quaisquer encarg
 
 4. Não havendo acordo quanto à matéria da impugnação, pode qualquer das partes submeter o caso à comissão arbitral competente.
 
-###### Art. 12.º - 1. A classificação económica dos assistidos poderá ser revista sempre que ocorram circunstâncias que o justifiquem.
+Art. 12.º - 1. A classificação económica dos assistidos poderá ser revista sempre que ocorram circunstâncias que o justifiquem.
 
 2. À nova classificação será aplicável, com as devidas adaptações, o disposto nos artigos 10.º e 11.º
 
-###### Art. 13.º - 1. A assistência efectuar-se-á nos serviços ou instituições da sub-região hospitalar correspondente ao domicílio de socorro do assistido. Na falta ou insuficiência daqueles serviços ou instituições, será prestada nos da região respectiva ou ainda nos da zona, se assim for necessário. Exceptua-se a assistência que for prestada em regime de quarto particular.
+Art. 13.º - 1. A assistência efectuar-se-á nos serviços ou instituições da sub-região hospitalar correspondente ao domicílio de socorro do assistido. Na falta ou insuficiência daqueles serviços ou instituições, será prestada nos da região respectiva ou ainda nos da zona, se assim for necessário. Exceptua-se a assistência que for prestada em regime de quarto particular.
 
 2. A falta ou insuficiência de meios para assistência local será declarada e justificada pelos serviços ou instituições próprios de cada região ou sub-região hospitalar, ou, na sua falta, pelo subdelegado de saúde.
 
@@ -181,7 +207,7 @@ c) Gratuitos, no caso de não poderem ser responsabilizados por quaisquer encarg
 
 6. O disposto neste artigo não prejudica as regras que possam vir a ser estabelecidas nos acordos celebrados nos termos do artigo 50.º
 
-###### Art. 14.º - 1. A pena prevista no artigo 242.º do Código Penal será aplicada, sem prejuízo da indemnização civil que em cada caso couber:
+Art. 14.º - 1. A pena prevista no artigo 242.º do Código Penal será aplicada, sem prejuízo da indemnização civil que em cada caso couber:
 
 a) Às falsas declarações prestadas nos serviços e instituições em relação à identidade, residência ou situação económica das pessoas assistidas ou de seus agregados familiares, parentes ou quaisquer outras pessoas a quem caiba, eventualmente, a obrigação do pagamento da assistência;
 
@@ -197,9 +223,9 @@ d) À falsa indicação de quem seja o responsável pelos encargos da assistênc
 
 #### SECÇÃO III — Das tabelas
 
-###### Art. 15.º As tabelas de diárias e actos de assistência prestada nos serviços ou instituições de natureza hospitalar, tanto oficiais como particulares, serão aprovadas pelo Ministro da Saúde e Assistência, sobre informação da Direcção-Geral dos Hospitais.
+Art. 15.º As tabelas de diárias e actos de assistência prestada nos serviços ou instituições de natureza hospitalar, tanto oficiais como particulares, serão aprovadas pelo Ministro da Saúde e Assistência, sobre informação da Direcção-Geral dos Hospitais.
 
-###### Art. 16.º - 1. As tabelas poderão variar com a situação, categoria e natureza dos estabelecimentos, ou dos diversos serviços dentro de cada estabelecimento.
+Art. 16.º - 1. As tabelas poderão variar com a situação, categoria e natureza dos estabelecimentos, ou dos diversos serviços dentro de cada estabelecimento.
 
 2. O cálculo dos preçários deverá basear-se nas médias dos custos dos serviços e pode referir-se tanto a actos isolados de assistência como ao conjunto de serviços facultados a cada assistido.
 
@@ -207,19 +233,19 @@ d) À falsa indicação de quem seja o responsável pelos encargos da assistênc
 
 4. Os quartos particulares poderão ser de uma ou mais classes.
 
-###### Art. 17.º - 1. As tabelas poderão incluir verbas destinadas ao pessoal que intervenha directamente na assistência prestada.
+Art. 17.º - 1. As tabelas poderão incluir verbas destinadas ao pessoal que intervenha directamente na assistência prestada.
 
 2. Estas verbas serão repartidas segundo a categoria e função do pessoal, de acordo com as regras que forem aprovadas por despacho do Ministro da Saúde e Assistência, ouvido o Ministro das Finanças.
 
-###### Art. 18.º As tabelas de utilização de quartos particulares não incluirão a remuneração dos médicos, a qual será cobrada separadamente, de harmonia com os preçários aprovados pelo Ministro da Saúde e Assistência, ouvida a Ordem dos Médicos.
+Art. 18.º As tabelas de utilização de quartos particulares não incluirão a remuneração dos médicos, a qual será cobrada separadamente, de harmonia com os preçários aprovados pelo Ministro da Saúde e Assistência, ouvida a Ordem dos Médicos.
 
-###### Art. 19.º Os porcionistas pagarão apenas uma percentagem dos encargos previstos nas tabelas em vigor, nos termos que forem determinados por despacho do Ministro da Saúde e Assistência, no qual se terá em conta o grau de insuficiência de rendimento dos assistidos e demais pessoas de família responsáveis pelo pagamento da assistência prestada.
+Art. 19.º Os porcionistas pagarão apenas uma percentagem dos encargos previstos nas tabelas em vigor, nos termos que forem determinados por despacho do Ministro da Saúde e Assistência, no qual se terá em conta o grau de insuficiência de rendimento dos assistidos e demais pessoas de família responsáveis pelo pagamento da assistência prestada.
 
-###### Art. 20.º Os encargos com a assistência médica a estudantes, na parte que exceda a competência dos serviços de saúde escolar, serão objecto de acordo a celebrar entre os Ministérios das Finanças, da Educação Nacional e da Saúde e Assistência.
+Art. 20.º Os encargos com a assistência médica a estudantes, na parte que exceda a competência dos serviços de saúde escolar, serão objecto de acordo a celebrar entre os Ministérios das Finanças, da Educação Nacional e da Saúde e Assistência.
 
-###### Art. 21.º A cobrança das diárias e serviços prestados em internamento ou por actos médicos avulsos será sempre efectuada pelos serviços administrativos dos hospitais, sem prejuízo de os médicos poderem fazer, aos honorários devidos pelos pensionistas dos quartos particulares e pelos doentes privados, as deduções que entenderem convenientes, na parte que lhes é atribuída.
+Art. 21.º A cobrança das diárias e serviços prestados em internamento ou por actos médicos avulsos será sempre efectuada pelos serviços administrativos dos hospitais, sem prejuízo de os médicos poderem fazer, aos honorários devidos pelos pensionistas dos quartos particulares e pelos doentes privados, as deduções que entenderem convenientes, na parte que lhes é atribuída.
 
-###### Art. 22.º - 1. Serão fixadas, ouvida a Ordem dos Médicos, taxas de utilização de instalações e material e as devidas a pessoal a pagar pelos doentes que os médicos dos quadros ou a eles estranhos sejam autorizados a assistir nos hospitais, em consultas privadas ou nos serviços complementares de diagnóstico e terapêutica.
+Art. 22.º - 1. Serão fixadas, ouvida a Ordem dos Médicos, taxas de utilização de instalações e material e as devidas a pessoal a pagar pelos doentes que os médicos dos quadros ou a eles estranhos sejam autorizados a assistir nos hospitais, em consultas privadas ou nos serviços complementares de diagnóstico e terapêutica.
 
 2. Serão também fixadas taxas de encargos de cobrança dos honorários devidos pelos pensionistas de quartos particulares e doentes privados.
 
@@ -227,7 +253,7 @@ d) À falsa indicação de quem seja o responsável pelos encargos da assistênc
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 23.º - 1. O pagamento dos encargos resultantes da prestação da assistência de natureza hospitalar incumbe:
+Art. 23.º - 1. O pagamento dos encargos resultantes da prestação da assistência de natureza hospitalar incumbe:
 
 a) Aos próprios assistidos;
 
@@ -243,9 +269,9 @@ b) Às empresas seguradoras, quando tenha havido transferência de responsabilid
 
 c) Às instituições de auxílio mútuo e às de previdência, de acordo com o disposto no artigo 40.º
 
-###### Art. 24.º A responsabilidade a que se refere o artigo anterior é liquidada, tanto quanto possível, com base no custo integral da assistência prestada ao assistido em qualquer modalidade e inclui o transporte dos doentes, sem prejuízo do disposto na alínea c) do artigo anterior.
+Art. 24.º A responsabilidade a que se refere o artigo anterior é liquidada, tanto quanto possível, com base no custo integral da assistência prestada ao assistido em qualquer modalidade e inclui o transporte dos doentes, sem prejuízo do disposto na alínea c) do artigo anterior.
 
-###### Art. 25.º - 1. As Misericórdias e demais entidades de assistência particular às quais caiba a administração de hospitais ou serviços de natureza hospitalar suportarão, pelos seus bens e rendimentos e dentro das suas possibilidades financeiras, a parte dos encargos que não possa ser solvida por força das receitas previstas nesta secção.
+Art. 25.º - 1. As Misericórdias e demais entidades de assistência particular às quais caiba a administração de hospitais ou serviços de natureza hospitalar suportarão, pelos seus bens e rendimentos e dentro das suas possibilidades financeiras, a parte dos encargos que não possa ser solvida por força das receitas previstas nesta secção.
 
 2. O Estado poderá contribuir, a título supletivo, para a manutenção destes serviços e estabelecimentos e tornar dependente essa contribuição da verificação das seguintes condições:
 
@@ -257,15 +283,15 @@ c) Não comprometerem as instituições as suas receitas em outras formas de ass
 
 d) Darem as instituições cumprimento às normas estabelecidas para o seu funcionamento e dos serviços e estabelecimentos seus dependentes.
 
-###### Art. 26.º Cabe ao Estado prover à manutenção dos serviços e estabelecimentos oficiais de natureza hospitalar, na parte não coberta, directa ou indirectamente, pelas mais receitas previstas neste diploma.
+Art. 26.º Cabe ao Estado prover à manutenção dos serviços e estabelecimentos oficiais de natureza hospitalar, na parte não coberta, directa ou indirectamente, pelas mais receitas previstas neste diploma.
 
 ##### SUBSECÇÃO II — Da responsabilidade dos assistidos
 
-###### Art. 27.º - 1. Os assistidos são os primeiros responsáveis pelos encargos da assistência, dentro dos limites da sua condição económica.
+Art. 27.º - 1. Os assistidos são os primeiros responsáveis pelos encargos da assistência, dentro dos limites da sua condição económica.
 
 2. As dívidas resultantes da assistência de que beneficie um dos cônjuges presumem-se contraídas em proveito comum do casal.
 
-###### Art. 28.º - 1. Quando os assistidos não puderem satisfazer, no todo ou em parte, os encargos com o pagamento da assistência que lhes tiver sido prestada, responderão, por ordem sucessiva, os descendentes, ascendentes e cônjuge não separado judicialmente de pessoas e bens, e ainda os irmãos e sobrinhos que com aqueles tenham economia comum.
+Art. 28.º - 1. Quando os assistidos não puderem satisfazer, no todo ou em parte, os encargos com o pagamento da assistência que lhes tiver sido prestada, responderão, por ordem sucessiva, os descendentes, ascendentes e cônjuge não separado judicialmente de pessoas e bens, e ainda os irmãos e sobrinhos que com aqueles tenham economia comum.
 
 2. A atribuição sucessiva de responsabilidade prevista neste artigo incluirá apenas os saldos que não tenham sido pagos pelos responsáveis anteriormente chamados.
 
@@ -273,17 +299,17 @@ d) Darem as instituições cumprimento às normas estabelecidas para o seu funci
 
 4. Cessa a responsabilidade referida neste artigo quando aquele que recebeu a assistência se mostre, pelo seu comportamento moral, indigno de receber aquele benefício. Entre ascendentes e descendentes, a responsabilidade só pode ser afastada nos casos em que é admissível a deserdação.
 
-###### Art. 29.º Os estrangeiros receberão assistência em regime de reciprocidade e de harmonia com as facilidades concedidas aos cidadãos portugueses nos respectivos países, ficando, para o efeito, os cidadãos brasileiros equiparados aos nacionais.
+Art. 29.º Os estrangeiros receberão assistência em regime de reciprocidade e de harmonia com as facilidades concedidas aos cidadãos portugueses nos respectivos países, ficando, para o efeito, os cidadãos brasileiros equiparados aos nacionais.
 
 ##### SUBSECÇÃO III — Da responsabilidade dos concelhos
 
-###### Art. 30.º - 1. Constitui despesa obrigatória dos concelhos, a satisfazer pelas suas câmaras municipais, o pagamento da quota-parte que, nos termos deste diploma, lhes for atribuída pelos cuidados de natureza hospitalar prestados aos assistidos gratuitos e porcionistas que neles tenham domicílio de socorro.
+Art. 30.º - 1. Constitui despesa obrigatória dos concelhos, a satisfazer pelas suas câmaras municipais, o pagamento da quota-parte que, nos termos deste diploma, lhes for atribuída pelos cuidados de natureza hospitalar prestados aos assistidos gratuitos e porcionistas que neles tenham domicílio de socorro.
 
 2. É também despesa obrigatória dos concelhos a resultante do pagamento dos transportes dos doentes gratuitos e porcionistas, quando hajam de se deslocar para receber a assistência referida neste diploma.
 
 3. Os Ministros do Interior e da Saúde e Assistência poderão determinar, em despacho conjunto, que a responsabilidade dos municípios das ilhas adjacentes seja transferida, no todo ou em parte, para as respectivas comissões distritais de assistência.
 
-###### Art. 31.º - 1. Exceptua-se do disposto no artigo anterior:
+Art. 31.º - 1. Exceptua-se do disposto no artigo anterior:
 
 a) O tratamento da tuberculose e da lepra;
 
@@ -293,7 +319,7 @@ c) A assistência no caso de surtos epidémicos, como tal reconhecidos pelo Mini
 
 2. Findo o prazo a que se refere a alínea b), a responsabilidade dos municípios só se renovará decorridos dois anos sobre a última alta.
 
-###### Art. 32.º - 1. Considera-se domicílio de socorro o do último concelho da metrópole onde o assistido haja residido pelo período de um ano, ressalvados os seguintes casos:
+Art. 32.º - 1. Considera-se domicílio de socorro o do último concelho da metrópole onde o assistido haja residido pelo período de um ano, ressalvados os seguintes casos:
 
 a) A mulher tem o domicílio de socorro do marido, quando não esteja separada judicialmente de pessoas e bens;
 
@@ -307,9 +333,9 @@ d) Quando não possa determinar-se a sua residência, considera-se domicílio de
 
 3. A determinação do domicílio de socorro dos estrangeiros que residam em Portugal obedecerá às regras estabelecidas neste artigo para os nacionais.
 
-###### Art. 33.º - 1. A participação dos concelhos nos encargos pela assistência prestada a porcionistas e gratuitos será a seguinte:
+Art. 33.º - 1. A participação dos concelhos nos encargos pela assistência prestada a porcionistas e gratuitos será a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/04/09200/04880493.pdf))](https://files.diariodarepublica.pt/1s/1965/04/09200/04880493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/04/09200/04880493.pdf)
 
 2. As percentagens acima indicadas serão calculadas em função das tabelas aprovadas para os hospitais chamados a prestar a assistência.
 
@@ -317,7 +343,7 @@ d) Quando não possa determinar-se a sua residência, considera-se domicílio de
 
 4. As percentagens a que este artigo se refere poderão ser alteradas mediante portaria conjunta dos Ministros do Interior, das Finanças e da Saúde e Assistência.
 
-###### Art. 34.º - 1. Os encargos municipais resultantes da assistência a que se refere este diploma terão contrapartida no produto das derramas que as câmaras serão autorizadas a lançar com o fim exclusivo de ocorrer a necessidades de saúde e assistência.
+Art. 34.º - 1. Os encargos municipais resultantes da assistência a que se refere este diploma terão contrapartida no produto das derramas que as câmaras serão autorizadas a lançar com o fim exclusivo de ocorrer a necessidades de saúde e assistência.
 
 2. As derramas terão por base as contribuições directas cobradas no concelho. Os pedidos para fixação das respectivas taxas serão instruídos com informação do Ministério da Saúde e Assistência sobre o montante dos encargos que se destinam, a cobrir.
 
@@ -325,41 +351,41 @@ d) Quando não possa determinar-se a sua residência, considera-se domicílio de
 
 4. Se as câmaras municipais não derem satisfação ao previsto no número anterior, a Direcção-Geral dos Hospitais promoverá, junto da Direcção-Geral da Fazenda Pública, que das receitas das câmaras responsáveis, arrecadadas como adicional e em regime conjunto com as do Estado, seja retirada a importância necessária ao pagamento das quantias em dívida, a qual, escriturada na epígrafe «Operações de tesouraria», será enviada directamente aos estabelecimentos credores.
 
-###### Art. 35.º - 1. As câmaras municipais serão informadas, trimestralmente, do movimento e posição das suas contas e deverão pagar os saldos em dívida no prazo de 30 dias. Este prazo poderá ser prorrogado por mais 30 dias, mediante pedido fundamentado da câmara municipal, apresentado na Direcção-Geral dos Hospitais.
+Art. 35.º - 1. As câmaras municipais serão informadas, trimestralmente, do movimento e posição das suas contas e deverão pagar os saldos em dívida no prazo de 30 dias. Este prazo poderá ser prorrogado por mais 30 dias, mediante pedido fundamentado da câmara municipal, apresentado na Direcção-Geral dos Hospitais.
 
 2. Se as câmaras municipais, podendo fazê-lo, não efectuarem o pagamento no prazo indicado, aplicar-se-á o disposto no n.º 4 do artigo anterior.
 
 ##### SUBSECÇÃO IV — Da responsabilidade de terceiros
 
-###### Art. 36.º Nos casos a que se refere o n.º 2 do artigo 23.º, a assistência será prestada na categoria de pensionista de enfermaria, salvo se o responsável ou o assistido assumirem os encargos resultantes da diferença entre o devido por essa e por outra superior e prestarem a respectiva caução.
+Art. 36.º Nos casos a que se refere o n.º 2 do artigo 23.º, a assistência será prestada na categoria de pensionista de enfermaria, salvo se o responsável ou o assistido assumirem os encargos resultantes da diferença entre o devido por essa e por outra superior e prestarem a respectiva caução.
 
-###### Art. 37.º - 1. Quando a responsabilidade tiver sido transferida para entidade seguradora, ser-lhe-á exigida de harmonia com a lei.
+Art. 37.º - 1. Quando a responsabilidade tiver sido transferida para entidade seguradora, ser-lhe-á exigida de harmonia com a lei.
 
 2. O pagamento dos encargos da assistência só liberta, em qualquer caso, as entidades seguradoras quando feito directamente ao serviço ou instituição que a prestou.
 
-###### Art. 38.º - 1. Entende-se que os contratos de seguros de acidentes de trabalho e doenças profissionais e de acidentes de viação abrangem as responsabilidades pela assistência médica, assistência hospitalar, com ou sem internamento, incluindo a reabilitação física dos assistidos, mesmo que nada disponham a esse respeito.
+Art. 38.º - 1. Entende-se que os contratos de seguros de acidentes de trabalho e doenças profissionais e de acidentes de viação abrangem as responsabilidades pela assistência médica, assistência hospitalar, com ou sem internamento, incluindo a reabilitação física dos assistidos, mesmo que nada disponham a esse respeito.
 
 2. Quanto aos contratos de seguro sobre acidentes de viação, essa responsabilidade ficará contida dentro do montante da apólice, enquanto não for alterada a legislação em vigor.
 
 3. São nulas quaisquer cláusulas que estabeleçam em contrário ao preceituado neste artigo.
 
-###### Art. 39.º Quando se verifique concorrência de culpas e de responsabilidades, a repartição dos encargos poderá ser estabelecida por acordo entre os responsáveis ou definida e declarada em decisão judicial, sem prejuízo, em qualquer caso, da obrigação solidária em que todos ficarão constituídos.
+Art. 39.º Quando se verifique concorrência de culpas e de responsabilidades, a repartição dos encargos poderá ser estabelecida por acordo entre os responsáveis ou definida e declarada em decisão judicial, sem prejuízo, em qualquer caso, da obrigação solidária em que todos ficarão constituídos.
 
-###### Art. 40.º - 1. O Estado responde especìficamente pelos encargos da assistência prestada aos seus servidores, através da Assistência na Doença aos Servidores do Estado e dos seus serviços com autonomia financeira, nos termos dos regulamentos em vigor e dos acordos que celebrar com estabelecimentos ou serviços de saúde.
+Art. 40.º - 1. O Estado responde especìficamente pelos encargos da assistência prestada aos seus servidores, através da Assistência na Doença aos Servidores do Estado e dos seus serviços com autonomia financeira, nos termos dos regulamentos em vigor e dos acordos que celebrar com estabelecimentos ou serviços de saúde.
 
 2. De idêntica forma responderão as instituições de previdência social e quaisquer outras instituições de auxílio mútuo e obras sociais, em relação aos seus associados ou beneficiários.
 
 ### CAPÍTULO III — Da cobrança dos débitos
 
-###### Art. 41.º - 1. A responsabilidade pelos encargos devidos pela assistência a que se refere este diploma, se não forem pagos voluntàriamente, será declarada pelos tribunais quando lhes cumpra decidir sobre as consequências do facto determinante da assistência e, em todos os demais casos, pelas comissões arbitrais de assistência, salvo se de outra forma se dispuser nos acordos a celebrar nos termos do artigo 50.º
+Art. 41.º - 1. A responsabilidade pelos encargos devidos pela assistência a que se refere este diploma, se não forem pagos voluntàriamente, será declarada pelos tribunais quando lhes cumpra decidir sobre as consequências do facto determinante da assistência e, em todos os demais casos, pelas comissões arbitrais de assistência, salvo se de outra forma se dispuser nos acordos a celebrar nos termos do artigo 50.º
 
 2. Incumbe ao Ministério Público a representação dos serviços e instituições de assistência hospitalar, salvo nos casos em que o pedido for formulado contra o Estado.
 
 3. A constituição de mandatário judicial faz cessar a representação do Ministério Público, sem prejuízo da sua intervenção como parte acessória.
 
-###### Art. 42.º Os administradores dos serviços e estabelecimentos poderão autorizar o pagamento dos débitos em prestações, exigindo, se o julgarem necessário, garantia idónea.
+Art. 42.º Os administradores dos serviços e estabelecimentos poderão autorizar o pagamento dos débitos em prestações, exigindo, se o julgarem necessário, garantia idónea.
 
-###### Art. 43.º - 1. Os débitos por assistência prestada vencem juros nos termos seguintes:
+Art. 43.º - 1. Os débitos por assistência prestada vencem juros nos termos seguintes:
 
 a) De 6 por cento, se o devedor for empresa seguradora ou outro responsável pelas consequências do facto que determinou a assistência, com a exclusão do assistido e dos seus descendentes, ascendentes, cônjuge ou parentes obrigados por força do presente diploma;
 
@@ -371,11 +397,11 @@ b) De 3 por cento, nos demais casos.
 
 4. Nos processos que se encontram pendentes em juízo, os juros liquidar-se-ão sòmente desde a entrada em vigor deste diploma. Se, quanto a esses processos, o pedido for pago no prazo de 30 dias, a contar da mesma data, ou se, no mesmo prazo, se tiver celebrado acordo susceptível de ser homologado, não haverá, porém, lugar ao pagamento de quaisquer juros.
 
-###### Art. 44.º As dívidas pelos encargos referidos neste diploma prescrevem em quinze anos, a contar do fim do último prazo para pagamento, fixado pela entidade credora.
+Art. 44.º As dívidas pelos encargos referidos neste diploma prescrevem em quinze anos, a contar do fim do último prazo para pagamento, fixado pela entidade credora.
 
 ### CAPÍTULO IV — Da comissão de financiamento hospitalar
 
-###### Art. 45.º - 1. Junto do Ministro da Saúde e Assistência, e por ele presidida, funcionará a Comissão de Financiamento Hospitalar, da qual fazem parte:
+Art. 45.º - 1. Junto do Ministro da Saúde e Assistência, e por ele presidida, funcionará a Comissão de Financiamento Hospitalar, da qual fazem parte:
 
 a) O director-geral dos Hospitais, que servirá de vice-presidente, e o seu adjunto;
 
@@ -399,13 +425,13 @@ i) Um representante do Grémio Nacional de Seguradores.
 
 3. Os membros da Comissão podem fazer-se substituir pelas pessoas prèviamente designadas para esse fim.
 
-###### Art. 46.º Compete à Comissão de Financiamento Hospitalar, sem prejuízo das atribuições confiadas à Comissão de Construções Hospitalares e à Comissão de Reapetrechamento Hospitalar:
+Art. 46.º Compete à Comissão de Financiamento Hospitalar, sem prejuízo das atribuições confiadas à Comissão de Construções Hospitalares e à Comissão de Reapetrechamento Hospitalar:
 
 a) Elaborar anualmente o plano de cobertura financeira dos hospitais a executar no ano seguinte;
 
 b) Fazer estudos e inquéritos e dar parecer sobre os problemas de financiamento hospitalar que lhe forem submetidos pelo Ministro da Saúde e Assistência.
 
-###### Art. 47.º - 1. Os planos anuais compreenderão:
+Art. 47.º - 1. Os planos anuais compreenderão:
 
 1.º Relatório sobre a actividade exercida no ano transacto e no que estiver em curso;
 
@@ -425,7 +451,7 @@ d) Aperfeiçoamento da rede de transportes de doentes.
 
 2. Os planos podem abranger também as actividades exercidas pelos serviços ou estabelecimentos oficiais especializados e, bem assim, as realizadas por instituições de assistência particular.
 
-###### Art. 48.º - 1. O projecto do plano deve estar concluído até 30 de Junho de cada ano.
+Art. 48.º - 1. O projecto do plano deve estar concluído até 30 de Junho de cada ano.
 
 2. O Ministro da Saúde e Assistência apreciará o plano e enviará um exemplar até 15 de Outubro ao Presidente do Conselho e Ministros das Finanças, das Obras Públicas e das Corporações e Previdência Social.
 
@@ -433,11 +459,11 @@ d) Aperfeiçoamento da rede de transportes de doentes.
 
 4. Para essas reuniões serão apenas convocados os Ministros interessados, podendo também estar presentes os Ministros do Interior, das Obras Públicas e da Educação Nacional.
 
-###### Art. 49.º A Comissão pode funcionar em plenário ou por comissões e terá um regulamento aprovado por despacho do Ministro da Saúde e Assistência. Os seus membros têm direito a senhas de presença pelas reuniões a que assistam e a ajudas de custo e transportes, quando tiverem de se deslocar, de quantitativo a fixar por despacho dos Ministros das Finanças e da Saúde e Assistência.
+Art. 49.º A Comissão pode funcionar em plenário ou por comissões e terá um regulamento aprovado por despacho do Ministro da Saúde e Assistência. Os seus membros têm direito a senhas de presença pelas reuniões a que assistam e a ajudas de custo e transportes, quando tiverem de se deslocar, de quantitativo a fixar por despacho dos Ministros das Finanças e da Saúde e Assistência.
 
 ### CAPÍTULO V — Disposições especiais e transitórias
 
-###### Art. 50.º - 1. Os serviços e instituições de natureza hospitalar podem, autorizados pelo Ministro da Saúde e Assistência, acordar com quaisquer entidades sobre condições especiais de prestação de assistência.
+Art. 50.º - 1. Os serviços e instituições de natureza hospitalar podem, autorizados pelo Ministro da Saúde e Assistência, acordar com quaisquer entidades sobre condições especiais de prestação de assistência.
 
 2. Quando os acordos devam abranger mais de um serviço ou instituição, pode a Direcção-Geral dos Hospitais outorgar neles, obrigando por essa forma os serviços oficiais e as instituições que beneficiem de financiamentos do Estado.
 
@@ -445,15 +471,15 @@ d) Aperfeiçoamento da rede de transportes de doentes.
 
 4. Os acordos só serão válidos para os serviços e instituições de natureza hospitalar depois de homologados pelo Ministro da Saúde e Assistência.
 
-###### Art. 51.º - 1. O espólio dos doentes falecidos nos serviços e instituições de natureza hospitalar e os bens ali deixados após a saída ou alta, que não forem reclamados no prazo de um ano a partir do falecimento, da saída ou da alta, serão vendidos em hasta pública, revertendo o produto para os referidos serviços ou instituições.
+Art. 51.º - 1. O espólio dos doentes falecidos nos serviços e instituições de natureza hospitalar e os bens ali deixados após a saída ou alta, que não forem reclamados no prazo de um ano a partir do falecimento, da saída ou da alta, serão vendidos em hasta pública, revertendo o produto para os referidos serviços ou instituições.
 
 2. Para estes revertem igualmente as amostras entregues para instruir concursos de fornecimento, não levantadas três meses após a comunicação da adjudicação.
 
-###### Art. 52.º - 1. Depende de autorização do Ministro da Saúde e Assistência, mediante parecer da Direcção-Geral dos Hospitais, que ouvirá os institutos médicos de coordenação e demais serviços interessados, a aceitação, por parte dos serviços e instituições de assistência hospitalar, de qualquer material ou verba destinados à construção ou ampliação de edifícios ou à aquisição de aparelhagem, tendo em vista os novos encargos de manutenção que ocasionem e a possível duplicação de instalações.
+Art. 52.º - 1. Depende de autorização do Ministro da Saúde e Assistência, mediante parecer da Direcção-Geral dos Hospitais, que ouvirá os institutos médicos de coordenação e demais serviços interessados, a aceitação, por parte dos serviços e instituições de assistência hospitalar, de qualquer material ou verba destinados à construção ou ampliação de edifícios ou à aquisição de aparelhagem, tendo em vista os novos encargos de manutenção que ocasionem e a possível duplicação de instalações.
 
 2. Quanto aos serviços ou estabelecimentos oficiais, o disposto neste artigo exercer-se-á sem prejuízo da competência estabelecida por lei para a Direcção-Geral da Fazenda Pública.
 
-###### Art. 53.º - 1. Quando for dada alta a doentes que não possam abandonar desacompanhados os serviços em que estejam a ser assistidos, serão chamados a recebê-los os parentes referidas no artigo 28.º, pela ordem ali fixada.
+Art. 53.º - 1. Quando for dada alta a doentes que não possam abandonar desacompanhados os serviços em que estejam a ser assistidos, serão chamados a recebê-los os parentes referidas no artigo 28.º, pela ordem ali fixada.
 
 2. Se nenhum destes parentes vier receber os doentes no prazo marcado, o estabelecimento promoverá o transporte para a residência do primeiro responsável.
 
@@ -461,10 +487,10 @@ d) Aperfeiçoamento da rede de transportes de doentes.
 
 4. Os parentes referidos neste artigo são responsáveis pelas despesas feitas com os assistidos, calculadas na base de pensionistas, durante o tempo que exceder o prazo referido no n.º 2. Constituem responsabilidade dos mesmos parentes os encargos do transporte dos assistidos e das pessoas que tenham de os acompanhar.
 
-###### Art. 54.º Os cursos de preparação e o aperfeiçoamento do pessoal administrativo a que se referem os artigos 17.º a 24.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, poderão ser também organizados e funcionar junto da Direcção-Geral dos Hospitais, utilizando como campo de prática e demonstração os hospitais, institutos e centros que reúnam as condições necessárias ao ensino.
+Art. 54.º Os cursos de preparação e o aperfeiçoamento do pessoal administrativo a que se referem os artigos 17.º a 24.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, poderão ser também organizados e funcionar junto da Direcção-Geral dos Hospitais, utilizando como campo de prática e demonstração os hospitais, institutos e centros que reúnam as condições necessárias ao ensino.
 
-###### Art. 55.º Fica revogado o [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954.
+Art. 55.º Fica revogado o [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

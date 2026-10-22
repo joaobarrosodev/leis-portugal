@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1972-674406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d844f069fb3adcd98521254a7517a5db1e93b4e6340e30589d4f0428b8e7ca7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17d48613096f602c34f0770a63a23dda5fcc235e7d9bda85f6a87e085ea93f8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- PSP
+- Remuneração
+- Remuneração Acessória
+- Subsídio de Alimentação
+relationships:
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665713:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:07Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +110,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As disposições do § único do artigo 91.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e do § único do artigo 249.º do regulamento aprovado pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954, são extensivas a todo o pessoal da Polícia de Segurança Pública que seja nomeado, por escala, para serviços com a duração de vinte e quatro horas seguidas e, ainda, ao pessoal com baixa às enfermarias ou na situação de preso nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952.
+Artigo 1.º As disposições do § único do artigo 91.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e do § único do artigo 249.º do regulamento aprovado pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954, são extensivas a todo o pessoal da Polícia de Segurança Pública que seja nomeado, por escala, para serviços com a duração de vinte e quatro horas seguidas e, ainda, ao pessoal com baixa às enfermarias ou na situação de preso nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952.
 
-###### Art. 2.º Os quantitativos dos abonos de alimentação a todo o pessoal da Polícia de Segurança Pública serão fixados, anualmente, por despacho dos Ministros do Interior e das Finanças, mediante proposta do comandante-geral.
+Art. 2.º Os quantitativos dos abonos de alimentação a todo o pessoal da Polícia de Segurança Pública serão fixados, anualmente, por despacho dos Ministros do Interior e das Finanças, mediante proposta do comandante-geral.
 
-###### Art. 3.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos no corrente ano económico por conta das sobras que se verificar em na respectiva dotação orçamental.
+Art. 3.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos no corrente ano económico por conta das sobras que se verificar em na respectiva dotação orçamental.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Junho de 1972.**
+Promulgado em 29 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 138/1977, 1º Suplemento, Série I de 1977-06-17
   number: '138'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1476-(1) a 1476-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13801/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-a-1977-408541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45d6b64117feea3a1787067f5b3785cdbaf38c47c14a3764353a4da1adb8ed30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 645f3cb950b5586603f2aa787c1b531cadd9c17104c897e0e754464e6fba41e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ACTO Administrativo
+- Administração Pública
+- Legalidade Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:280920:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345164:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:250846:por
+  label: Retificado, pelo(a) Declaração - Diário da República n.º 165/1977, Série I de 1977-07-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250846
+  date: '1977-07-19'
+- type: corrected_by
+  target: pt:dre:278954:por
+  label: "Rectificado pela RECT.DD91.08.10.1977.PCM, DR.IS [233] de 08.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-278954
+  date: '1977-10-08'
+- type: repealed_by
+  target: pt:dre:280920:por
+  label: "Revogado pela LEI.15/2002.2002.02.22.AR, DR.IS-A [45], a partir de 01.01.2004 (conforme o art. 2º da Lei 4-A/2003,\
+    \ de 19 de Fevereiro)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2002-280920
+  date: '2002-02-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:58Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +129,7 @@ Bem pensadas, têm virtude para dar do contencioso dos actos administrativos uma
 
 Posto isto, e usando da autorização conferida pela [Lei n.º 24/77](https://diariodarepublica.pt/dr/detalhe/lei/24-1977-345164), de 18 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Para além dos casos em que a lei especialmente o exija, devem ser fundamentados os actos administrativos que, total ou parcialmente:
+Artigo 1.º - 1. Para além dos casos em que a lei especialmente o exija, devem ser fundamentados os actos administrativos que, total ou parcialmente:
 
 a) Neguem, extingam, restrinjam ou por qualquer modo afectem direitos ou imponham ou agravem deveres, encargos ou sanções;
 
@@ -128,7 +151,7 @@ f) Impliquem revogação, modificação ou suspensão de acto administrativo ant
 
 5. O não exercício, pelos interessados, da faculdade conferida pelo número anterior não prejudica os efeitos de eventual falta de fundamentação do acto.
 
-###### Art. 2.º - 1. Os actos administrativos definitivos e executórios estão sujeitos a recurso contencioso, a interpor mediante petição dirigida ao tribunal competente e apresentada perante a autoridade que os haja praticado.
+Art. 2.º - 1. Os actos administrativos definitivos e executórios estão sujeitos a recurso contencioso, a interpor mediante petição dirigida ao tribunal competente e apresentada perante a autoridade que os haja praticado.
 
 2. A autoridade recorrida poderá, no prazo de trinta dias, revogar ou sustentar, no todo ou em parte, o acto impugnado.
 
@@ -138,7 +161,7 @@ f) Impliquem revogação, modificação ou suspensão de acto administrativo ant
 
 5. Se for requerida na petição de recurso a suspensão da executoriedade do acto impugnado e a autoridade recorrida a não determinar no prazo de oito dias, o recorrente apresentará no tribunal competente o duplicado da petição, acompanhado do recibo de entrada desta, de documento comprovativo do acto recorrido e de quaisquer outros elementos, para decisão do incidente.
 
-###### Art. 3.º - 1. A falta, no prazo fixado para a sua emissão, de decisão administrativa sobre pretensão dirigida a autoridade que tenha o dever legal de a proferir confere ao interessado, salvo disposição em contrário, a faculdade de presumir indeferida essa pretensão, para poder exercer o respectivo meio legal de impugnação.
+Art. 3.º - 1. A falta, no prazo fixado para a sua emissão, de decisão administrativa sobre pretensão dirigida a autoridade que tenha o dever legal de a proferir confere ao interessado, salvo disposição em contrário, a faculdade de presumir indeferida essa pretensão, para poder exercer o respectivo meio legal de impugnação.
 
 2. O prazo a que se refere o número anterior é, salvo o fixado por lei especial, de noventa dias para os demais casos.
 
@@ -148,17 +171,17 @@ a) Da data de conclusão das formalidades especiais que a lei imponha para o pro
 
 b) Da data de entrada do requerimento ou petitição no serviço competente, quando devam seguir-se exclusivamente os termos do processo administrativo comum.
 
-###### Art. 4.º - 1. A impugnação facultativa a que se refere o artigo precedente pode ser formulada dentro do prazo de um ano, enquanto não for levada ao conhecimento do interessado a prática de acto expresso.
+Art. 4.º - 1. A impugnação facultativa a que se refere o artigo precedente pode ser formulada dentro do prazo de um ano, enquanto não for levada ao conhecimento do interessado a prática de acto expresso.
 
 2. A decisão expressa pode, em qualquer caso, ser impugnada por fundamentos diferentes daqueles com que o haja sido o indeferimento tácito e por quaisquer fundamentos na falta de impugnação deste.
 
 3. O objecto da impugnação do indeferimento tácito considera-se ampliado ao conhecimento de ulterior decisão expressa, desde que esta seja levada ao processo.
 
-###### Art. 5.º - 1. A execução de sentença proferida em contencioso administrativo, quando não seja efectuada espontaneamente pela Administração, no prazo de trinta dias, a contar do trânsito em julgado, pode ser requerida pelo interessado ao órgão que tiver praticado o acto recorrido, ou, tratando-se de acção, ao competente órgão da pessoa colectiva nela demandada.
+Art. 5.º - 1. A execução de sentença proferida em contencioso administrativo, quando não seja efectuada espontaneamente pela Administração, no prazo de trinta dias, a contar do trânsito em julgado, pode ser requerida pelo interessado ao órgão que tiver praticado o acto recorrido, ou, tratando-se de acção, ao competente órgão da pessoa colectiva nela demandada.
 
 2. Se a execução competir, cumulativa ou exclusivamente, a outro ou outros órgãos, deverá o órgão referido no número anterior enviar-lhes os elementos necessários para o efeito, no prazo de dez dias, a contar da apresentação do requerimento de execução.
 
-###### Art. 6.º - 1. A sentença deve ser integralmente executada dentro do prazo de sessenta dias, a contar da apresentação do requerimento a que se refere o n.º 1 do artigo anterior, salvo ocorrência de causa legítima de inexecução.
+Art. 6.º - 1. A sentença deve ser integralmente executada dentro do prazo de sessenta dias, a contar da apresentação do requerimento a que se refere o n.º 1 do artigo anterior, salvo ocorrência de causa legítima de inexecução.
 
 2. Só constituem causa legítima de inexecução a impossibilidade e o grave prejuízo para o interesse público no cumprimento da sentença.
 
@@ -168,7 +191,7 @@ b) Da data de entrada do requerimento ou petitição no serviço competente, qua
 
 5. Quando a execução da sentença consistir no pagamento de quantia certa, não é invocável causa legítima de inexecução.
 
-###### Art. 7.º - 1. Se a Administração invocar causa legítima de inexecução, ou não der, no prazo fixado no n.º 1 do artigo anterior, execução integral à sentença, pode o interessado requerer ao tribunal que em primeiro grau de jurisdição tiver proferido sentença, ou a declaração de inexistência de causa legítima de inexecução, nos termos do artigo 8.º, ou, no caso de concordar com a Administração acerca da existência de causa dessa natureza, a fixação de indemnização dos prejuízos resultantes do acto anulado pela sentença e da inexecução desta, nos termos do artigo 10.º
+Art. 7.º - 1. Se a Administração invocar causa legítima de inexecução, ou não der, no prazo fixado no n.º 1 do artigo anterior, execução integral à sentença, pode o interessado requerer ao tribunal que em primeiro grau de jurisdição tiver proferido sentença, ou a declaração de inexistência de causa legítima de inexecução, nos termos do artigo 8.º, ou, no caso de concordar com a Administração acerca da existência de causa dessa natureza, a fixação de indemnização dos prejuízos resultantes do acto anulado pela sentença e da inexecução desta, nos termos do artigo 10.º
 
 2. A petição do interessado conterá a indicação dos fundamentos de facto e de direito com interesse para o pedido e será apresentada dentro dos trinta dias seguintes, conforme os casos, ao termo do prazo fixado no n.º 1 do artigo antecedente ou à notificação, que anteriormente lhe tenha sido feita pela Administração, de não execução por causa legítima.
 
@@ -176,7 +199,7 @@ b) Da data de entrada do requerimento ou petitição no serviço competente, qua
 
 4. O processo previsto nos números anteriores correrá por apenso aos autos de recurso contencioso ou de acção e seguirá, conforme o pedido, os termos prescritos nos artigos 8.º e 9.º ou 10.º
 
-###### Art. 8.º - 1. Quando seja pedida decisão sobre a existência de causa legítima de inexecução, o tribunal ouvirá a Administração sobre a petição do interessado, ou este sobre a exposição daquela, pelo prazo de oito dias, sendo admitida réplica à resposta, por igual prazo, a contar da notificação da junção desta.
+Art. 8.º - 1. Quando seja pedida decisão sobre a existência de causa legítima de inexecução, o tribunal ouvirá a Administração sobre a petição do interessado, ou este sobre a exposição daquela, pelo prazo de oito dias, sendo admitida réplica à resposta, por igual prazo, a contar da notificação da junção desta.
 
 2. Cumprido o disposto no número anterior, o tribunal ordenará quaisquer diligências que considere necessárias, incluindo a prestação de informações e a apresentação de documentos pela Administração ou pelo interessado.
 
@@ -184,7 +207,7 @@ b) Da data de entrada do requerimento ou petitição no serviço competente, qua
 
 4. Instruído o processo, irá com vista ao Ministério Público por oito dias, e por igual prazo aos juízes do tribunal superior, se este for competente, procedendo-se a julgamento, neste caso, na primeira sessão seguinte.
 
-###### Art. 9.º - 1. Nos casos previstos no n.º 1 do artigo anterior, o tribunal julgará se se verifica ou não causa legítima de inexecução e, se decidir negativamente, ouvirá a Administração e o interessado, que deverão responder no prazo de oito dias, sobre os actos e operações em que a execução deverá consistir e o prazo necessário para a sua prática.
+Art. 9.º - 1. Nos casos previstos no n.º 1 do artigo anterior, o tribunal julgará se se verifica ou não causa legítima de inexecução e, se decidir negativamente, ouvirá a Administração e o interessado, que deverão responder no prazo de oito dias, sobre os actos e operações em que a execução deverá consistir e o prazo necessário para a sua prática.
 
 2. Cumprido o disposto na parte final do número anterior, o tribunal, com observância dos n.os 2 a 4 do artigo antecedente, especificará os actos e operações em que a execução deverá consistir e o prazo em que deverão ter lugar, declarando nulos os actos praticados em desconformidade com a sentença e anulando aqueles que tenham sido praticados com invocação ou ao abrigo de causa legítima de inexecução não reconhecida.
 
@@ -192,7 +215,7 @@ b) Da data de entrada do requerimento ou petitição no serviço competente, qua
 
 4. Se a autoridade competente para a execução estiver sujeita a poder hierárquico ou tutelar, o tribunal, a pedido do interessado, e verificada a inexecução da sentença, depois de cumprido o disposto no número anterior, mandará notificar o titular do referido poder para, em substituição daquela autoridade, proceder à execução.
 
-###### Art. 10.º - 1. Se o interessado requerer a fixação de indemnização dos prejuízos resultantes do acto anulado pela sentença e da inexecução desta por causa legítima, nos termos da última parte do n.º 1 do artigo 7.º, o tribunal ordenará a notificação da Administração e do interessado para, no prazo de quinze dias, acordarem no montante da indemnização devida.
+Art. 10.º - 1. Se o interessado requerer a fixação de indemnização dos prejuízos resultantes do acto anulado pela sentença e da inexecução desta por causa legítima, nos termos da última parte do n.º 1 do artigo 7.º, o tribunal ordenará a notificação da Administração e do interessado para, no prazo de quinze dias, acordarem no montante da indemnização devida.
 
 2. O prazo a que se refere a parte final do número antecedente pode ser prorrogado, a pedido do interessado.
 
@@ -200,22 +223,22 @@ b) Da data de entrada do requerimento ou petitição no serviço competente, qua
 
 4. O processo findará se entretanto tiver sido proposta acção de indemnização com o mesmo objecto, ou se o tribunal para ela remeter as partes, por considerar a matéria de complexa indagação.
 
-###### Art. 11.º - 1. A inexecução de sentença proferida em contencioso administrativo, e transitada em julgado, fora dos casos em que, por acordo do interessado ou declaração judicial, for considerada justificada por causa legítima, envolve responsabilidade civil, nos termos gerais, quer da Administração, quer das pessoas que nela desempenhem funções, além de responsabilidade disciplinar, também nos termos gerais, dessas mesmas pessoas.
+Art. 11.º - 1. A inexecução de sentença proferida em contencioso administrativo, e transitada em julgado, fora dos casos em que, por acordo do interessado ou declaração judicial, for considerada justificada por causa legítima, envolve responsabilidade civil, nos termos gerais, quer da Administração, quer das pessoas que nela desempenhem funções, além de responsabilidade disciplinar, também nos termos gerais, dessas mesmas pessoas.
 
 2. A fixação da indemnização devida pela Administração terá lugar, a pedido do interessado, nos termos prescritos no artigo 10.º
 
 3. Importa a pena de desobediência, sem prejuízo de outro procedimento especialmente fixado na lei, a inexecução de sentença proferida em contencioso administrativo transitada em julgado desde que, tendo a execução sido requerida pelo interessado, ela se não verifique, nos termos estabelecidos pelo tribunal, ou o órgão a quem caiba a execução revele inequivocamente a intenção de não dar cumprimento à sentença, sem invocação de causa legítima de inexecução.
 
-###### Art. 12.º - 1. No orçamento das pessoas colectivas de direito público será inscrita obrigatoriamente dotação destinada ao pagamento de encargos resultantes de sentenças de quaisquer tribunais.
+Art. 12.º - 1. No orçamento das pessoas colectivas de direito público será inscrita obrigatoriamente dotação destinada ao pagamento de encargos resultantes de sentenças de quaisquer tribunais.
 
 2. As dotações a que se refere o número anterior ficam à ordem do Conselho Superior da Magistratura, que emitirá a favor dos respectivos credores as ordens de pagamento que lhe forem requisitadas pelos tribunais, observando, no caso de insuficiência de verba, e enquanto não for devidamente reforçada, a ordem do trânsito em julgado das sentenças.
 
-###### Art. 13.º O presente diploma entrará em vigor no sexagésimo dia posterior ao da sua publicação.
+Art. 13.º O presente diploma entrará em vigor no sexagésimo dia posterior ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - António de Almeida Santos.
 
-**Promulgado em 17 de Junho de 1977.**
+Promulgado em 17 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

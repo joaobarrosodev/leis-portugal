@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/11/26600/14001401.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44034-1961-181448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbcf775ab7f3356acad97cb54ddfd6169a3ad2eb3b2fb787f0535515c742205f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 972370c3ce49cb9ea46b2b80f491d7962afcdcdc89fe5dfbf593b00cd56ee6b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Cemitério
+- França
+- Guerra
+- Pensão de Reforma
+- Quadro de Pessoal
+- Reforma
 relationships:
 - type: amended_by
   target: pt:dre:524052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:524052:por
+  label: "Revogado pelo DEC LEI.142/98.1998.05.22.MDN, DR.IS-A [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1998-524052
+  date: '1998-05-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:56Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +104,13 @@ Tornando-se necessário, por outro lado, organizar o quadro de pessoal destinado
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Será reformado, com a pensão mensal de 2500$00, o guarda do cemitério português de Richeourg l'Avoué, em França, João Gaspar, nascido em 17 de Janeiro de 1894, no lugar da Serra, freguesia de Penhasco, concelho de Mação, o qual continuará no exercício das suas funções até ser substituído.
+Artigo 1.º Será reformado, com a pensão mensal de 2500$00, o guarda do cemitério português de Richeourg l'Avoué, em França, João Gaspar, nascido em 17 de Janeiro de 1894, no lugar da Serra, freguesia de Penhasco, concelho de Mação, o qual continuará no exercício das suas funções até ser substituído.
 
 § único. O encargo estabelecido no corpo deste artigo será liquidado por conta da dotação especial a inscrever no orçamento do Ministério do Exército.
 
-###### Art. 2.º É criado o quadro de pessoal do cemitério português de Richebourg l'Avoué, em França, constituído por um guarda, destinado à sua conservação, vigilância e manutenção, directamente subordinado ao adido militar junto da Embaixada de Portugal em Paris.
+Art. 2.º É criado o quadro de pessoal do cemitério português de Richebourg l'Avoué, em França, constituído por um guarda, destinado à sua conservação, vigilância e manutenção, directamente subordinado ao adido militar junto da Embaixada de Portugal em Paris.
 
-###### Art. 3.º O guarda do cemitério português de Ricliebourg l'Avoué, em França, será nomeado pelo director do serviço de pessoal do Ministério do Exército, mediante concurso aberto entre praças do Exército que estejam nas seguintes condições:
+Art. 3.º O guarda do cemitério português de Ricliebourg l'Avoué, em França, será nomeado pelo director do serviço de pessoal do Ministério do Exército, mediante concurso aberto entre praças do Exército que estejam nas seguintes condições:
 
 1.ª Não tenham menos de 30 nem mais de 35 anos de idade em 1 de Janeiro do ano em que concorrerem;
 
@@ -116,14 +128,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4.ª Ter melhor folha de serviços.
 
-###### Art. 4.º O guarda do cemitério pode permanecer nestas funções até aos 65 anos de idade, altura em que será reformado. Após 3 anos de comissão, no entanto, o guarda poderá pedir a exoneração do seu cargo sendo substituído.
+Art. 4.º O guarda do cemitério pode permanecer nestas funções até aos 65 anos de idade, altura em que será reformado. Após 3 anos de comissão, no entanto, o guarda poderá pedir a exoneração do seu cargo sendo substituído.
 
-###### Art. 5.º O guarda do cemitério terá direito:
+Art. 5.º O guarda do cemitério terá direito:
 
 A um abono mensal a determinar por despacho conjunto dos Ministros das Finanças e do Exército;
 
 A transporte para si, sua família e mobiliário de Lisboa para Richebourg l'Avoué, em França, e vice-versa, quando a comissão for dada por concluída, de acordo com a legislação em vigor para os funcionários de categoria equivalente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

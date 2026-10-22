@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/23600/16181618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1975-311825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e69568be63dbd01d2b05cdd2dfebe6dd72feff2187bdda3fb5f1ae85af62869
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11fc5a374594cd2952e6edd8c218c38b41de0a4e1fd184e61a9c538d7156f9e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desalojado
+- Ensino Preparatório
+- Ensino Primário
+- Ensino Secundário
+- Ensino Superior
+- Estudante
+- Instituto de Apoio ao Retorno de Nacionais
+- Isenção de Propinas
+- Isenção de Taxas e Emolumentos
+- Matrícula
+- Ministro da Educação e Investigação Científica
+- Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507795:por
+  label: "Prorrogado até 29.02.1976 o prazo estabelecido na al. a) do art. 1º pelo DEC LEI.159/76.26.02.1976.MEIC, DG.IS [48]\
+    \ de 26.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1976-507795
+  date: '1976-02-26'
+- type: amended_by
+  target: pt:dre:407341:por
+  label: "Mantido em vigor no ano lectivo de 1976-1977, o disposto no presente diploma, pelo DEC LEI.801/76.06.11.1976.MEIC,\
+    \ DR.IS [260] de 06.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/801-1976-407341
+  date: '1976-11-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:47Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +128,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os alunos retornados dos territórios que estiveram ou ainda se encontram sob administração portuguesa podem inscrever-se ou matricular-se nos estabelecimentos de ensino primário, preparatório, secundário e superior, durante o ano lectivo de 1975-1976, beneficiando das circunstâncias seguintes:
+Artigo 1.º Os alunos retornados dos territórios que estiveram ou ainda se encontram sob administração portuguesa podem inscrever-se ou matricular-se nos estabelecimentos de ensino primário, preparatório, secundário e superior, durante o ano lectivo de 1975-1976, beneficiando das circunstâncias seguintes:
 
 a) Os prazos de inscrição e matrícula são prorrogados até 31 de Dezembro;
 
 b) Todos os alunos abrangidos por este diploma ficam isentos do pagamento de multas, taxas e propinas.
 
-###### Art. 2.º - 1. Fica o Ministro da Educação e Investigação Científica autorizado a suspender, por despacho, durante o referido ano lectivo, a aplicação de normas legais que colidam com a orientação estabelecida no artigo anterior, sempre que se trate de resolver situações de alunos retornados.
+Art. 2.º - 1. Fica o Ministro da Educação e Investigação Científica autorizado a suspender, por despacho, durante o referido ano lectivo, a aplicação de normas legais que colidam com a orientação estabelecida no artigo anterior, sempre que se trate de resolver situações de alunos retornados.
 
 2. A competência deferida no número anterior poderá ser delegada pelo Ministro da Educação e Investigação Científica nos respectivos directores-gerais.
 
@@ -112,8 +142,8 @@ b) Todos os alunos abrangidos por este diploma ficam isentos do pagamento de mul
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 6 de Outubro de 1975.**
+Promulgado em 6 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

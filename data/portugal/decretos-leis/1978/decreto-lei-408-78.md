@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1978-325275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15947b1334a5d2c1c6c55fd7c5efe72122d7d5bd75e51428852c6bc7e28832c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8700db852200c875c6456fdfca0f09cff5deba1db9ea7f8401202de9d222644d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Direcção Geral do Património
+- Secretaria de Estado da Cultura
+relationships:
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:34Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +100,7 @@ Assim:
 
 Ouvido o Governo Regional dos Açores, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Passam a pertencer ao Governo da Região Autónoma dos Açores os poderes de direcção e tutela que a Secretaria de Estado da Cultura, através da Direcção-Geral do Património Cultural, tem vindo a exercer sobre os seguintes organismos daquela Região:
+Artigo 1.º Passam a pertencer ao Governo da Região Autónoma dos Açores os poderes de direcção e tutela que a Secretaria de Estado da Cultura, através da Direcção-Geral do Património Cultural, tem vindo a exercer sobre os seguintes organismos daquela Região:
 
 a) Biblioteca Pública e Arquivo Distrital de Angra do Heroísmo;
 
@@ -103,20 +110,20 @@ c) Arquivo Distrital da Horta;
 
 d) Museu de Angra do Heroísmo.
 
-###### Art. 2.º Compete ao Governo Regional a reestruturação e preenchimento dos quadros de pessoal dos serviços mencionados no artigo anterior, bem como a nomeação, promoção, transferência, exoneração e disciplina do pessoal, tem conformidade com a lei geral aplicável à função pública.
+Art. 2.º Compete ao Governo Regional a reestruturação e preenchimento dos quadros de pessoal dos serviços mencionados no artigo anterior, bem como a nomeação, promoção, transferência, exoneração e disciplina do pessoal, tem conformidade com a lei geral aplicável à função pública.
 
-###### Art. 3.º - 1 - Passa a competir ao Governo da Região Autónoma dos Açores a classificação dos elementos ou conjuntos de valor artístico, histórico, arqueológico, etnográfico ou paisagístico como imóveis de interesse público ou valores concelhios, bem como a inventariação das espécies artísticas, arqueológicas, etnográficas e documentais, quer em poder do Estado, quer das autarquias locais ou de particulares existentes na referida Região.
+Art. 3.º - 1 - Passa a competir ao Governo da Região Autónoma dos Açores a classificação dos elementos ou conjuntos de valor artístico, histórico, arqueológico, etnográfico ou paisagístico como imóveis de interesse público ou valores concelhios, bem como a inventariação das espécies artísticas, arqueológicas, etnográficas e documentais, quer em poder do Estado, quer das autarquias locais ou de particulares existentes na referida Região.
 
 2 - Para efeitos de actualização do inventário nacional dos valores classificados ou inventariados nos termos do número anterior, o Governo Regional manterá a Secretaria de Estado da Cultura permanentemente informada das decisões neste campo tomadas.
 
-###### Art. 4.º Enquanto não for elaborado o orçamento regional que contemple os serviços referidos no artigo 1.º, os duodécimos das dotações do Orçamento Geral do Estado e as demais verbas atribuídas pela Secretaria de Estado da Cultura àqueles serviços serão transferidos para o orçamento do Governo Regional.
+Art. 4.º Enquanto não for elaborado o orçamento regional que contemple os serviços referidos no artigo 1.º, os duodécimos das dotações do Orçamento Geral do Estado e as demais verbas atribuídas pela Secretaria de Estado da Cultura àqueles serviços serão transferidos para o orçamento do Governo Regional.
 
-###### Art. 5.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da República e do Secretário de Estado da Cultura, ouvido o Governo Regional dos Açores.
+Art. 5.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da República e do Secretário de Estado da Cultura, ouvido o Governo Regional dos Açores.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Henrique Afonso da Silva Horta - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 4 de Dezembro de 1978.**
+Promulgado em 4 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

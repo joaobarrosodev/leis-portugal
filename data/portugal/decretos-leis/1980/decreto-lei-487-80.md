@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24100/34373444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9988a25e02ea5bb7ac9eba6a249f209bc2d8a10964c51710d44e33074a9c995c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 539e99d8bc1d5202e31af107515c73ba2a48ca6eafaf649a7ab7eaeca3724d23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete da Área de Sines
+- Orgânica
+- Sines
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606552:por
+  label: "Dada nova redacção ao artigo 11ºpelo DEC LEI.134/82.1982.04.23.MFP\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1982-606552
+  date: '1982-04-23'
+- type: amended_by
+  target: pt:dre:615238:por
+  label: "Determinada a transmissão para o Estado da propriedade de diversos prédios rústicos e urbanos do Gabinete da Área\
+    \ de Sines (GAS), reestruturado pelo presente diploma, afectando-os ao Instituto de Emprego e Formação Profissional (IEFP),\
+    \ cujo estatuto consta do Dec Lei 247/85 de 12-Jul, pelo DEC LEI.118/89.14.04.1989.MPLAT, DR.IS [87] de 14.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1989-615238
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:615241:por
+  label: Determinada a transmissão para o Estado da propriedade de diversos prédios rústicos e urbanos sitos na zona de actuação
+    directa do Gabinete da Área de Sines (GAS), reestruturado pelo presente diploma, e afectados ao Serviço Nacional de Parques,
+    Reservas e Conservação da Natureza (SNPRCN) e à Direcção-Geral das Florestas (DGF), cujas orgânicas e atribuições foram
+    aprovadas, respectivamente, pelos DR 3/86 de 08-Jan e DR 51/86 de 06-Out, pelo DEC LEI.116/89.14.04.1989.MPLAT, DR.IS
+    [87] de 14.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1989-615241
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:615242:por
+  label: Transmitida para o Estado a propriedade dos imóveis, infra-estruturas e equipamentos que constituem os sistemas de
+    saneamento básico e o Centro de Estudos de Geologia e Geotecnia de Santo André (CEGSA) do Gabinete da Área de Sines (GAS),
+    reestruturado neste diploma, afectando-o à Direcção-Geral dos Recursos Naturais, prevista na al. l) do art. 1º do Dec
+    Lei 130/86 de 07-Jun, para a qual transitam também todas as atribuições, competências, direitos e obrigações de que o
+    GAS é titular, nos termos legais e contratuais, relativos àqueles bens, pelo DEC LEI.115/89.14.04.1989.MPLAT, DR.IS [87]
+    de 14.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1989-615242
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:615246:por
+  label: Integrada no património próprio do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE),
+    cuja orgânica consta do Dec Lei 88/87 de 26-Fev, a propriedade de prédios rústicos e urbanos do Gabinete da Área de Sines
+    (GAS), sitos no Centro Urbano de Santo André e na vila de Sines, assim como todos os direitos e obrigações de que o GAS
+    é titular relativamente aos mesmos, previstos no presente diploma, pelo(a) Decreto-Lei n.º 117/89 - Diário da República
+    n.º 87/1989, Série I de 1989-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1989-615246
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:615247:por
+  label: Determinada a transmissão para o Município de Sines da propriedade de diversos imóveis e infra-estruturas do Gabinete
+    da Área de Sines (GAS), reestruturado pelo Dec Lei 487/80 de 17-Out DR.IS [241], assim como a sua posição jurídica relativamente
+    aos bens transmitidos, e atribuídas ao mesmo município a gestão e administração da Zona de Indústria Ligeira de Sines
+    (ZIL-2), cuja propriedade é transmitida para o Estado, pelo DEC LEI.119/89.14.04.1989.MPLAT, DR.IS [87] de 14.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1989-615247
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:565866:por
+  label: Transferido para o Estado e integrado no domínio público, sob jurisdição da Junta Autónoma de Estradas, a propriedade
+    do troço da via rápida R-52, no âmbito do património do Gabinete da Área de Sines pelo(a) Decreto-Lei n.º 338/90 - Diário
+    da República n.º 251/1990, Série I de 1990-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1990-565866
+  date: '1990-10-30'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:378738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662297:por
+  label: "Revogada a al. b) do n.º 2 do art. 4.º do presente diploma, pelo DEC LEI.122/87.16.03.1987.MIC, DR.IS [[62]] de\
+    \ 16.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1987-662297
+  date: '1987-03-16'
 article_structure:
   article_count: 35
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:34Z'
   warnings: []
   errors: []
 ---
@@ -516,8 +598,8 @@ O conselho de gestão do Gabinete deverá apresentar ao Ministro das Finanças e
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 6 de Outubro de 1980.**
+Promulgado em 6 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1970-228819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf53e1cc733168c1aa29d53dd2bdde5eb503f8b65fa958fb28dec9d1270f57a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ffbd7214212c250029c6e357d613f9e42db53be728fb8690bca8ab75b005b1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dispensa de Serviço
+- Função Pública
+- Funcionário Público
+- Tolerância de Ponto
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:50Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 5.º do Decreto-Lei n.º 38596, de 4 de Janeiro de 1952, passa a ter a seguinte redacção:
+Artigo único. O artigo 5.º do Decreto-Lei n.º 38596, de 4 de Janeiro de 1952, passa a ter a seguinte redacção:
 
-###### Art. 5.º Os funcionários públicos são dispensados de comparecer ao serviço na véspera de Natal, bem como na tarde de Sexta-Feira Santa e no sábado seguinte.
+Art. 5.º Os funcionários públicos são dispensados de comparecer ao serviço na véspera de Natal, bem como na tarde de Sexta-Feira Santa e no sábado seguinte.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 5 de Março de 1970.**
+Promulgado em 5 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

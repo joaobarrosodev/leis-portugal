@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 304/1971, 1º Suplemento, Série I de 1971-12-31
   number: '304'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2074-(15) a 2074-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30401/00150017.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/639-1971-368240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 902204d6a981d91d61c21bc4e092d9ac642a25d164298d1a07220411c55ed20e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 277bbd6dd0ffcba3ed1f18fe5f40764b6ac0bea7cc44b73dec107d63409b85e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,32 @@ relationships:
   target: pt:dre:326772:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477617:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:12Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +126,9 @@ Em contrapartida, porém, das maiores possibilidades que agora se oferecem à co
 
 Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos a seguir indicados do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos a seguir indicados do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º Para efeitos deste Regulamento, consideram-se:
 
@@ -134,7 +150,7 @@ b) No caso previsto no § 2.º do artigo 22.º
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 § único. ...
 
@@ -142,7 +158,7 @@ b) No caso previsto no § 2.º do artigo 22.º
 
 2.º ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 ...
 
@@ -152,7 +168,7 @@ b) No caso previsto no § 2.º do artigo 22.º
 
 ...
 
-###### Art. 22.º O serviço combinado entre o caminho de ferro e os transportes rodoviários de aluguer de mercadorias constituir-se-á como um serviço de recolha e distribuição de mercadorias dentro de uma zona de influência de uma estação ferroviária.
+Art. 22.º O serviço combinado entre o caminho de ferro e os transportes rodoviários de aluguer de mercadorias constituir-se-á como um serviço de recolha e distribuição de mercadorias dentro de uma zona de influência de uma estação ferroviária.
 
 § 1.º O serviço a que se refere o corpo deste artigo poderá ser efectuado:
 
@@ -164,9 +180,9 @@ b) Em veículos já licenciados para transporte de aluguer, com cujo proprietár
 
 § 3.º Os princípios e normas a que deverá obedecer a exploração de transportes em regime de serviço combinado com o caminho de ferro nos veículos a que se refere o § 1.º serão definidos em portaria do Ministro das Comunicações, ouvido o Grémio dos Industriais de Transportes em Automóveis e a empresa ferroviária.
 
-###### Art. 2.º O artigo 3.º do [Decreto n.º 47329](https://diariodarepublica.pt/dr/detalhe/decreto/47329-1966-477617), de 22 de Novembro de 1966, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto n.º 47329](https://diariodarepublica.pt/dr/detalhe/decreto/47329-1966-477617), de 22 de Novembro de 1966, passa a ter a seguinte redacção:
 
-###### Art. 3.º Gozam, no entanto, de preferência na concessão de títulos idênticos aos cancelados, nos termos do artigo anterior, desde que tal não implique modificação dos contingentes:
+Art. 3.º Gozam, no entanto, de preferência na concessão de títulos idênticos aos cancelados, nos termos do artigo anterior, desde que tal não implique modificação dos contingentes:
 
 a) Quanto às pessoas singulares, aquelas que, por morte do titular da licença e por força de sucessão legítima ou legitimária, se tornem legítimos donos do equipamento indispensável ao exercício da actividade transportadora.
 
@@ -198,12 +214,12 @@ a) Os tipos de transporte;
 
 b) As localidades ou regiões em que os veículos devem prestar serviço.
 
-###### Art. 3.º É revogado o n.º 1 do artigo 7.º do [Decreto n.º 47068](https://diariodarepublica.pt/dr/detalhe/decreto/47068-1966-474924), de 1 de Julho de 1966.
+Art. 3.º É revogado o n.º 1 do artigo 7.º do [Decreto n.º 47068](https://diariodarepublica.pt/dr/detalhe/decreto/47068-1966-474924), de 1 de Julho de 1966.
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 31 de Dezembro de 1971.**
+Promulgado em 31 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1979, 9º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 3478-(215) a 3478-(227)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,204 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 213e8f801f5bdd5bda1ecbb15e03fa4b8af410f89fc0f2574b41daae862ac462
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 858779eeec9844780b52f628a3fd1bc5b96517aa2e6243c707292c3d4aebe913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Ministro da Educação
+- Ministro das Finanças
+- Orgânica
+- Quadro de Pessoal
+- Reitor
+- Remuneração
+- Secretaria Geral
+- Secretário de Estado da Administração Pública
+- Serviços Administrativos
+- Tempo de Serviço
+- Universidade
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:464271:por
+  label: "Substituído o quadro de pessoal do Arquivo da Universidade de Coimbra, constante do anexo II do presente diploma,\
+    \ pela PORT.568/80.05.09.1980.PCM, DR.IS [205] de 05.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/568-1980-464271
+  date: '1980-09-05'
+- type: amended_by
+  target: pt:dre:392463:por
+  label: Alterados os mapas II e III anexos ao presente diploma, pelo(a) Decreto-Lei n.º 190/82 - Diário da República n.º
+    112/1982, Série I de 1982-05-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1982-392463
+  date: '1982-05-18'
+- type: amended_by
+  target: pt:dre:453816:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Universidade de Coimbra, aprovado nos termos do n.º 1 do art.\
+    \ 39.º do presente diploma, pela PORT.772/83.22.07.1983.MFP, DR.IS [167] de 22.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/772-1983-453816
+  date: '1983-07-22'
+- type: amended_by
+  target: pt:dre:399783:por
+  label: "Aumentados, lugares na parte referente ao pessoal técnico superior, o quadro de pessoal da reitoria da Universidade\
+    \ de Coimbra, anexo ao presente diploma, pela PORT.772/84.02.10.1984.PCM, DR.IS [229] de 02.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/772-1984-399783
+  date: '1984-10-02'
+- type: amended_by
+  target: pt:dre:180410:por
+  label: "Alterados os arts. 27º e 32º, pelo DEC LEI.331/85.1985.08.12.ME, DR.IS [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1985-180410
+  date: '1985-08-12'
+- type: amended_by
+  target: pt:dre:195206:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, pela PORT.164/86.26.04.1986.MF, DR.IS\
+    \ [96] de 26.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-1986-195206
+  date: '1986-04-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DEC LEI.129/86.04.06.1986.MEC, DR.IS [127] de 04.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-06-04'
+- type: amended_by
+  target: pt:dre:226860:por
+  label: "Extintos no quadro do pessoal do ISE, constante do mapa II anexo ao presente diploma, com a composição que lhe foi\
+    \ dada no artigo 1.º do Decreto-Lei n.º 190/82, de 31 de Maio, pelos lugares constantes do mapa II anexo ao DR.19/86.04.06.1986.MEC,\
+    \ DR.IS [127] de 04.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1986-226860
+  date: '1986-06-04'
+- type: amended_by
+  target: pt:dre:662730:por
+  label: "Alterado o quadro de pessoal constante do Mapa II anexo ao presente diploma, pela DEC.15/87.1987.02.25.MEC, DR.IS\
+    \ [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/15-1987-662730
+  date: '1987-02-25'
+- type: amended_by
+  target: pt:dre:421658:por
+  label: "Alterado no que respeita ao pessoal de informática, o quadro de pessoal pela PORT.447/87.1987.05.28.MF, DR.IS [122]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/447-1987-421658
+  date: '1987-05-28'
+- type: amended_by
+  target: pt:dre:420586:por
+  label: "Altera o quadro de pessoal da Universidade Técnica de Lisboa, pela PORT.628/87.20.07.1987.MF, DR.IS [164] de 20.07.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-1987-420586
+  date: '1987-07-20'
+- type: amended_by
+  target: pt:dre:373411:por
+  label: Extintos os lugares de Guarda-Mor e de Archeiro de 1.ª e 2.ª classes, constantes do mapa I do presente diploma, criando,
+    em sua substituição, os lugares constantes d o mapa anexo pelo(a) Decreto-Lei n.º 237/88 - Diário da República n.º 153/1988,
+    Série I de 1988-07-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1988-373411
+  date: '1988-07-05'
+- type: amended_by
+  target: pt:dre:357755:por
+  label: Extintos os lugares constantes do mapa I anexo ao presente diploma, na parte relativa à Universidade de Coimbra,
+    pelo(a) Portaria n.º 750/88 - Diário da República n.º 268/1988, Série I de 1988-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/750-1988-357755
+  date: '1988-11-19'
+- type: amended_by
+  target: pt:dre:609630:por
+  label: Alterado e substituído o quadro de pessoal constante do mapa I anexo ao presente diploma, pela PORT.44/89.23.01.1989.MF,
+    DR.IS [19] de 23.01.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/44-1989-609630
+  date: '1989-01-23'
+- type: amended_by
+  target: pt:dre:332911:por
+  label: "Extintos, na parte relativa à Universidade Técnica de Lisboa, os lugares do quadro de pessoal constantes no mapa\
+    \ I, pela PORT.143/90.21.02.1990.MF, DR.IS [44] de 21.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-1990-332911
+  date: '1990-02-21'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:370049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324315:por
+  label: Revogado o n.º 1 do art. 4.º pelo DEC LEI.121/85.22.04.1985.ME, DR.IS [93] de 22.04.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1985-324315
+  date: '1985-04-22'
+- type: repealed_by
+  target: pt:dre:355506:por
+  label: "Revogados os arts. 27º a 32º, pelo DEC LEI.345/88.1988.09.28.ME, DR.IS [225], e o nº 1 do art. 39º do presente diploma,\
+    \ na parte relativa à Universidade Técnica de Lisboa \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1988-355506
+  date: '1988-09-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:00Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +265,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º As Universidades de Coimbra, Lisboa e Porto e a Universidade Técnica de Lisboa continuam a dispor da autonomia administrativa concedida pelo artigo 1.º do [Decreto-Lei n.º 38692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38692-1952-598710), de 21 de Março de 1952, e pelo [Decreto n.º 19081](https://diariodarepublica.pt/dr/detalhe/decreto/19081-1930-656992), de 2 de Dezembro de 1930, respectivamente, e são dotadas dos órgãos e serviços previstos no presente diploma.
+Artigo 1.º As Universidades de Coimbra, Lisboa e Porto e a Universidade Técnica de Lisboa continuam a dispor da autonomia administrativa concedida pelo artigo 1.º do [Decreto-Lei n.º 38692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38692-1952-598710), de 21 de Março de 1952, e pelo [Decreto n.º 19081](https://diariodarepublica.pt/dr/detalhe/decreto/19081-1930-656992), de 2 de Dezembro de 1930, respectivamente, e são dotadas dos órgãos e serviços previstos no presente diploma.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 2.º - 1 - São órgãos das Universidades de Coimbra, Lisboa e Porto e da Universidade Técnica de Lisboa:
+Art. 2.º - 1 - São órgãos das Universidades de Coimbra, Lisboa e Porto e da Universidade Técnica de Lisboa:
 
 a) O reitor;
 
@@ -115,13 +279,13 @@ b) O conselho administrativo.
 
 2 - O reitor dirige, orienta e coordena as actividades e serviços da Universidade, de modo a imprimir-lhes unidade, continuidade e eficiência.
 
-###### Art. 3.º O conselho administrativo é o órgão deliberativo da Universidade em matéria de gestão financeira.
+Art. 3.º O conselho administrativo é o órgão deliberativo da Universidade em matéria de gestão financeira.
 
-###### Art. 4.º - 1 - O conselho administrativo das Universidades de Coimbra, Lisboa e Porto é constituído pelo reitor, que preside, pelo administrador e pelo director dos serviços administrativos.
+Art. 4.º - 1 - O conselho administrativo das Universidades de Coimbra, Lisboa e Porto é constituído pelo reitor, que preside, pelo administrador e pelo director dos serviços administrativos.
 
 2 - O conselho administrativo da Universidade Técnica é constituído pelo reitor. que preside, pelo administrador e pelo chefe de repartição da administração geral.
 
-###### Art. 5.º São serviços das Universidades de Coimbra, Lisboa e Porto:
+Art. 5.º São serviços das Universidades de Coimbra, Lisboa e Porto:
 
 a) A Secretaria-Geral;
 
@@ -133,9 +297,9 @@ d) A Assessoria do Planeamento;
 
 e) O Gabinete de Relações Públicas.
 
-###### Art. 6.º Sem prejuízo das respectivas subordinações hierárquicas, todos os serviços das Universidades de Coimbra, Lisboa, Porto e Técnica de Lisboa estão subordinados aos competentes órgãos académicos das Universidades.
+Art. 6.º Sem prejuízo das respectivas subordinações hierárquicas, todos os serviços das Universidades de Coimbra, Lisboa, Porto e Técnica de Lisboa estão subordinados aos competentes órgãos académicos das Universidades.
 
-###### Art. 7.º - 1 - A Secretaria-Geral exerce as suas atribuições nos domínios da administração financeira e patrimonial, do pessoal, do expediente e arquivo, das informações de carácter pedagógico e do fomento e apoio das actividades circum-escolares, bem como nos da coordenação e execução das obras no âmbito da Universidade e nas do apoio administrativo ao reitor e aos serviços dele dependentes.
+Art. 7.º - 1 - A Secretaria-Geral exerce as suas atribuições nos domínios da administração financeira e patrimonial, do pessoal, do expediente e arquivo, das informações de carácter pedagógico e do fomento e apoio das actividades circum-escolares, bem como nos da coordenação e execução das obras no âmbito da Universidade e nas do apoio administrativo ao reitor e aos serviços dele dependentes.
 
 2 - A Secretaria-Geral é dirigida por um administrador e compreende os seguintes serviços:
 
@@ -145,7 +309,7 @@ b) A Direcção dos Serviços Académicos;
 
 c) O Gabinete Técnico.
 
-###### Art. 8.º - 1 - Incumbe especialmente ao administrador:
+Art. 8.º - 1 - Incumbe especialmente ao administrador:
 
 a) Orientar e coordenar as actividades dos serviços que constituem a Secretaria-Geral;
 
@@ -165,9 +329,9 @@ h) Assegurar o encaminhamento e registo de correspondência.
 
 2 - A categoria de administrador das Universidades de Coimbra, Lisboa, Porto e Técnica de Lisboa é equiparada à de subdirector-geral para efeitos do disposto no artigo 2.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 9.º A Direcção dos Serviços Administrativos, que exerce as suas atribuições nos domínios da administração financeira e patrimonial, do pessoal, do expediente e do arquivo, é dirigida por um director de serviços e compreende a Repartição de Administração Financeira e Patrimonial e a de Pessoal e Expediente.
+Art. 9.º A Direcção dos Serviços Administrativos, que exerce as suas atribuições nos domínios da administração financeira e patrimonial, do pessoal, do expediente e do arquivo, é dirigida por um director de serviços e compreende a Repartição de Administração Financeira e Patrimonial e a de Pessoal e Expediente.
 
-###### Art. 10.º A Repartição de Administração Financeira e Patrimonial é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 10.º A Repartição de Administração Financeira e Patrimonial é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) De Contabilidade;
 
@@ -175,7 +339,7 @@ b) De Orçamento e Conta;
 
 c) De Economato e Inventário.
 
-###### Art. 11.º À Secção de Contabilidade compete:
+Art. 11.º À Secção de Contabilidade compete:
 
 a) Executar a escrituração respeitante à contabilidade de todos os serviços e estabelecimentos;
 
@@ -189,7 +353,7 @@ e) Informar os processos de pessoal e material, no que respeita à legalidade e 
 
 f) Organizar as relações destinadas ao imposto complementar.
 
-###### Art. 12.º À Secção de Orçamento e Conta compete:
+Art. 12.º À Secção de Orçamento e Conta compete:
 
 a) Processar as requisições de fundos dos serviços e estabelecimentos dependentes;
 
@@ -203,7 +367,7 @@ e) Elaborar os orçamentes em conta de receitas próprias;
 
 f) Elaborar as relações de documentos de despesa a submeter à apreciação e aprovação do conselho administrativo.
 
-###### Art. 13.º À Secção de Economato e Inventário compete:
+Art. 13.º À Secção de Economato e Inventário compete:
 
 a) Assegurar o apetrechamento dos serviços e estabelecimentos, centralizando os processos de aquisição, nos termos das disposições legais vigentes;
 
@@ -213,7 +377,7 @@ c) Velar pela conservação e aproveitamento do material e instalações;
 
 d) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos serviços e estabelecimentos.
 
-###### Art. 14.º - 1 - Adstrita à Repartição de Administração Financeira e Patrimonial funciona uma tesouraria, dirigida por um tesoureiro de 1.ª classe, com categoria e vencimentos correspondentes à letra J da tabela de vencimentos da função pública, ao qual compete:
+Art. 14.º - 1 - Adstrita à Repartição de Administração Financeira e Patrimonial funciona uma tesouraria, dirigida por um tesoureiro de 1.ª classe, com categoria e vencimentos correspondentes à letra J da tabela de vencimentos da função pública, ao qual compete:
 
 a) Preencher e assinar os recibos necessários para o levantamento das dotações orçamentais e para a cobrança dos rendimentos próprios dos serviços e estabelecimentos universitários e apresentá-los, em devido tempo, à assinatura do reitor ou do vogal do conselho administrativo em que essa competência estiver delegada;
 
@@ -233,13 +397,13 @@ h) Organizar e apresentar mensalmente ao conselho administrativo o balancete ref
 
 2 - Por despacho do reitor será designado o funcionário que, sob proposta do tesoureiro, o deverá substituir nas suas faltas e impedimentos.
 
-###### Art. 15.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 15.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) De Pessoal;
 
 b) De Expediente e Arquivo.
 
-###### Art. 16.º À Secção de Pessoal compete:
+Art. 16.º À Secção de Pessoal compete:
 
 a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento, bem como à promoção, recondução, prorrogação, transferência, exoneração, rescisão de contratos, demissão e aposentação do pessoal das Universidades e das escolas e estabelecimentos dela dependentes;
 
@@ -257,7 +421,7 @@ g) Instruir os processos relativos a horas extraordinárias, pagamento de servi�
 
 h) Realizar acções sistemáticas de formação e aperfeiçoamento do pessoal não docente da Universidade e das escolas e estabelecimentos.
 
-###### Art. 17.º À Secção de Expediente e Arquivo compete:
+Art. 17.º À Secção de Expediente e Arquivo compete:
 
 a) Organizar e manter actualizado o cadastro do pessoal;
 
@@ -267,17 +431,17 @@ c) Elaborar as listas de antiguidade do pessoal;
 
 d) Preparar os elementos relativos a pessoal não docente para o Anuário e outras publicações da Universidade.
 
-###### Art. 18.º A Direcção dos Serviços Académicos, que exerce as suas atribuições nos domínios pedagógico, da vida escolar dos alunos e do expediente e arquivo dos documentos a eles respeitantes, bem como nos do fomento e apoio das actividades circum-escolares, é dirigida por um director de serviços e compreende a Repartição Pedagógica e a de Alunos.
+Art. 18.º A Direcção dos Serviços Académicos, que exerce as suas atribuições nos domínios pedagógico, da vida escolar dos alunos e do expediente e arquivo dos documentos a eles respeitantes, bem como nos do fomento e apoio das actividades circum-escolares, é dirigida por um director de serviços e compreende a Repartição Pedagógica e a de Alunos.
 
-###### Art. 19.º A Repartição Pedagógica é dirigida por um chefe de repartição, coadjuvado por um chefe de secção, e exerce as suas atribuições nos domínios dos programas e planos de estudo dos cursos ministrados nas escolas e estabelecimentos da Universidade, da equivalência e equiparação de habilitações, dos graus e títulos académicos e do rendimento escolar dos alunos.
+Art. 19.º A Repartição Pedagógica é dirigida por um chefe de repartição, coadjuvado por um chefe de secção, e exerce as suas atribuições nos domínios dos programas e planos de estudo dos cursos ministrados nas escolas e estabelecimentos da Universidade, da equivalência e equiparação de habilitações, dos graus e títulos académicos e do rendimento escolar dos alunos.
 
-###### Art. 20.º A Repartição de Alunos é dirigida por um chefe de repartição e compreende as secções de:
+Art. 20.º A Repartição de Alunos é dirigida por um chefe de repartição e compreende as secções de:
 
 a) Matrículas e Inscrições;
 
 b) Cadastro e diplomas.
 
-###### Art. 21.º - 1 - À Repartição de Alunos, pela Secção de Matrículas e Inscrições, compete:
+Art. 21.º - 1 - À Repartição de Alunos, pela Secção de Matrículas e Inscrições, compete:
 
 a) Prestar informações sobre as condições de ingresso e frequência dos estabelecimentos de ensino;
 
@@ -305,7 +469,7 @@ f) Preparar os elementos relativos a alunos para o Anuário e outras publicaçõ
 
 3 - O reitor pode autorizar o funcionamento da Repartição de Alunos com horários especiais, a fixar após prévia audição da Secretaria de Estado da Administração Pública, de acordo com o previsto no n.º 5 da Resolução do Conselho de Ministros n.º 142/79, de 2 de Maio.
 
-###### Art. 22.º - 1 - Ao Gabinete Técnico, que é orientado pelo técnico ou técnico superior de maior categoria nele colocado, compete:
+Art. 22.º - 1 - Ao Gabinete Técnico, que é orientado pelo técnico ou técnico superior de maior categoria nele colocado, compete:
 
 a) Submeter os planos de execução de obras à aprovação do reitor ou da comissão por ele designada;
 
@@ -323,11 +487,11 @@ g) Emitir parecer sobre a aquisição de imóveis.
 
 2 - A actividade do Gabinete Técnico será exercida em estreita colaboração com a Assessoria de Planeamento.
 
-###### Art. 23.º - 1 - O Serviço de Documentação e Publicações é dirigido por um director de serviços e exerce as suas atribuições nos domínios da recolha, tratamento e difusão da documentação e informação com interesse para a Universidade e nos da coordenação técnica e da integração funcional das bibliotecas nela existentes ou a criar.
+Art. 23.º - 1 - O Serviço de Documentação e Publicações é dirigido por um director de serviços e exerce as suas atribuições nos domínios da recolha, tratamento e difusão da documentação e informação com interesse para a Universidade e nos da coordenação técnica e da integração funcional das bibliotecas nela existentes ou a criar.
 
 2 - Compete, designadamente, ao Serviço de Documentação e Publicações programar, coordenar e orientar as publicações de carácter pedagógico, científico e cultural da Universidade.
 
-###### Art. 24.º Ao Gabinete de Relações Públicas, que é orientado pelo técnico ou técnico superior de maior categoria nele colocado, compete:
+Art. 24.º Ao Gabinete de Relações Públicas, que é orientado pelo técnico ou técnico superior de maior categoria nele colocado, compete:
 
 a) Colaborar na organização de conferências, exposições, congressos, reuniões ou outras actividades de carácter científico e cultural ou recreativo promovidas ou apoiadas pela reitoria;
 
@@ -337,7 +501,7 @@ c) Assegurar os contactos da Universidade com os meios de comunicação social e
 
 d) Assegurar o secretariado e expediente próprios do reitor e dos vice-reitores.
 
-###### Art. 25.º - 1 - A Assessoria Jurídica é dirigida por um técnico assessor.
+Art. 25.º - 1 - A Assessoria Jurídica é dirigida por um técnico assessor.
 
 2 - Compete à Assessoria Jurídica:
 
@@ -349,7 +513,7 @@ c) A recolha, sistematização e divulgação da legislação com interesse para
 
 d) O desempenho de outras funções de natureza jurídica de interesse geral da Universidade ou específico de qualquer das respectivas escolas ou estabelecimentos.
 
-###### Art. 26.º - 1 - A Assessoria de Planeamento é dirigida por um técnico assessor e exerce as suas atribuições nos domínios da programação e do planeamento do ensino superior.
+Art. 26.º - 1 - A Assessoria de Planeamento é dirigida por um técnico assessor e exerce as suas atribuições nos domínios da programação e do planeamento do ensino superior.
 
 2 - Compete à Assessoria de Planeamento:
 
@@ -365,7 +529,7 @@ e) Coordenar localmente os processos de realização de gestão orçamental do e
 
 ### CAPÍTULO III — Da Universidade Técnica de Lisboa
 
-###### Art. 27.º A estrutura, composição e atribuições dos órgãos e serviços da Universidade Técnica de Lisboa são as estabelecidas nos artigos anteriores para as Universidades de Coimbra, Lisboa e Porto, com as seguintes alterações:
+Art. 27.º A estrutura, composição e atribuições dos órgãos e serviços da Universidade Técnica de Lisboa são as estabelecidas nos artigos anteriores para as Universidades de Coimbra, Lisboa e Porto, com as seguintes alterações:
 
 1.º A Secretaria-Geral compreenderá as seguintes repartições:
 
@@ -385,17 +549,17 @@ a) A Secção Pedagógica;
 
 b) A Secção de Expediente Geral e Arquivo.
 
-###### Art. 28.º - 1 - As atribuições do administrador da Universidade Técnica de Lisboa são as previstas no n.º 1 do artigo 8.º do presente diploma para os administradores das Universidades de Coimbra, Lisboa e Porto, com excepção da constante da alínea f), que apenas abrangerá o poder de proceder à distribuição do pessoal pelos serviços próprios da Reitoria.
+Art. 28.º - 1 - As atribuições do administrador da Universidade Técnica de Lisboa são as previstas no n.º 1 do artigo 8.º do presente diploma para os administradores das Universidades de Coimbra, Lisboa e Porto, com excepção da constante da alínea f), que apenas abrangerá o poder de proceder à distribuição do pessoal pelos serviços próprios da Reitoria.
 
 2 - A categoria de administrador da Universidade Técnica de Lisboa é equiparada à de subdirector-geral para efeitos do disposto no artigo 2.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 29.º O Gabinete Técnico reger-se-á pelo disposto no artigo 22.º do presente diploma e exercerá as suas competências sem prejuízo da autonomia administrativa das escolas da Universidade.
+Art. 29.º O Gabinete Técnico reger-se-á pelo disposto no artigo 22.º do presente diploma e exercerá as suas competências sem prejuízo da autonomia administrativa das escolas da Universidade.
 
-###### Art. 30.º O Serviço de Documentação e Publicações reger-se-á pelo disposto no artigo 23.º do presente diploma, sem prejuízo da autonomia administrativa das escolas da Universidade.
+Art. 30.º O Serviço de Documentação e Publicações reger-se-á pelo disposto no artigo 23.º do presente diploma, sem prejuízo da autonomia administrativa das escolas da Universidade.
 
-###### Art. 31.º O Gabinete de Relações Públicas reger-se-á pelo disposto no artigo 24.º do presente diploma, sem prejuízo da autonomia administrativa das escolas da Universidade.
+Art. 31.º O Gabinete de Relações Públicas reger-se-á pelo disposto no artigo 24.º do presente diploma, sem prejuízo da autonomia administrativa das escolas da Universidade.
 
-###### Art. 32.º A competência das secções a que se refere o artigo 27.º é, com as necessárias adaptações, a seguinte:
+Art. 32.º A competência das secções a que se refere o artigo 27.º é, com as necessárias adaptações, a seguinte:
 
 a) Secção de Contabilidade - a prevista nos artigos 11.º a 13.º deste diploma;
 
@@ -413,13 +577,13 @@ Das escolas das Universidades de Coimbra.
 
 Lisboa e Porto
 
-###### Art. 33.º São serviços das escolas das Universidades de Coimbra, Lisboa e Porto os seguintes:
+Art. 33.º São serviços das escolas das Universidades de Coimbra, Lisboa e Porto os seguintes:
 
 a) A Secretaria;
 
 b) A Biblioteca.
 
-###### Art. 34.º Compete à Secretaria:
+Art. 34.º Compete à Secretaria:
 
 a) Assegurar o expediente do estabelecimento de ensino, designadamente no respeitante aos horários das aulas e à distribuição do serviço docente;
 
@@ -431,7 +595,7 @@ d) Organizar, para cada disciplina, um livro de termos, com os nomes dos alunos 
 
 e) Remeter diariamente à Secretaria-Geral uma pauta por cada disciplina em que tenha havido conclusão de exames ou apuramentos finais, devidamente assinada pelo júri, com menção dos alunos a ele submetidos e dos respectivos resultados, para efeitos do lançamento no respectivo cadastro.
 
-###### Art. 35.º - 1 - A Secretaria é dirigida por um secretário com categoria e vencimento correspondentes à letra E da tabela de vencimentos da função pública.
+Art. 35.º - 1 - A Secretaria é dirigida por um secretário com categoria e vencimento correspondentes à letra E da tabela de vencimentos da função pública.
 
 2 - Compete ao secretário:
 
@@ -449,7 +613,7 @@ d) Distribuir o pessoal pelos serviços, podendo os funcionários recorrer das d
 
 5 - Sem prejuízo do preceituado no número anterior, os secretários manterão o administrador da Universidade informado dos problemas que interessem ao exercício da competência prevista na alínea b) do n.º 1 do artigo 8.º
 
-###### Art. 36.º - 1 - Compete à Biblioteca:
+Art. 36.º - 1 - Compete à Biblioteca:
 
 a) Colaborar com o serviço de documentação e publicações na integração funcional e na organização das bibliotecas universitárias;
 
@@ -467,13 +631,13 @@ e) Proceder ao estudo e avaliação das necessidades dos utilizadores.
 
 #### SECÇÃO II — Das escolas da Universidade Técnica de Lisboa
 
-###### Art. 37.º As escolas da Universidade Técnica de Lisboa gozam da autonomia administrativa a que se refere o artigo 3.º do [Decreto n.º 19848](https://diariodarepublica.pt/dr/detalhe/decreto/19848-1931-525061), de 2 de Junho de 1931, e dispõem, além dos serviços previstos no artigo 33.º do presente diploma, de:
+Art. 37.º As escolas da Universidade Técnica de Lisboa gozam da autonomia administrativa a que se refere o artigo 3.º do [Decreto n.º 19848](https://diariodarepublica.pt/dr/detalhe/decreto/19848-1931-525061), de 2 de Junho de 1931, e dispõem, além dos serviços previstos no artigo 33.º do presente diploma, de:
 
 a) Conselho administrativo;
 
 b) Tesouraria.
 
-###### Art. 38.º - 1 - A tesouraria é orientada por um tesoureiro de 2.ª classe com categoria e vencimentos correspondentes à letra L da tabela de vencimentos da função pública, ao qual compete:
+Art. 38.º - 1 - A tesouraria é orientada por um tesoureiro de 2.ª classe com categoria e vencimentos correspondentes à letra L da tabela de vencimentos da função pública, ao qual compete:
 
 a) Preencher e assinar os recibos necessários para o levantamento dos fundos orçamentais e para a cobrança dos rendimentos próprios da escola e seus serviços e apresentá-los, em devido tempo, à assinatura do presidente do conselho directivo ou do vogal do conselho administrativo em que essa competência estiver delegada;
 
@@ -495,19 +659,19 @@ h) Organizar e apresentar mensalmente ao conselho administrativo o balancete ref
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 39.º - 1 - Os quadros do pessoal dirigente, técnico superior, técnico, técnico-profissional, administrativo operário e auxiliar das Universidades de Coimbra, Lisboa, Porto e Técnica de Lisboa são os constantes dos mapas anexos ao presente diploma.
+Art. 39.º - 1 - Os quadros do pessoal dirigente, técnico superior, técnico, técnico-profissional, administrativo operário e auxiliar das Universidades de Coimbra, Lisboa, Porto e Técnica de Lisboa são os constantes dos mapas anexos ao presente diploma.
 
 2 - No prazo de noventa dias, a contar da data da publicação deste diploma, os quadros do pessoal a que se refere o número anterior serão acrescentados, por decreto referendado pelos Ministros das Finanças e da Educação e pelo Secretário de Estado da Administração Pública, das dotações do pessoal técnico superior, técnico, técnico-profissional e auxiliar atribuído às escolas para o desempenho de atribuições específicas.
 
-###### Art. 40.º - 1 - A gestão dos quadros referidos no artigo anterior incumbe à respectiva Universidade.
+Art. 40.º - 1 - A gestão dos quadros referidos no artigo anterior incumbe à respectiva Universidade.
 
 2 - O pessoal dos quadros de uma Universidade poderá requerer a transferência para lugar da mesma categoria ou ser admitido aos concursos de promoção à categoria imediatamente superior dos quadros de outra Universidade.
 
-###### Art. 41.º Por despacho do Ministro da Educação poderá ser autorizada a admissão, em regime de contrato além do quadro, de pessoal destinado a satisfazer necessidades transitórias dos serviços.
+Art. 41.º Por despacho do Ministro da Educação poderá ser autorizada a admissão, em regime de contrato além do quadro, de pessoal destinado a satisfazer necessidades transitórias dos serviços.
 
-###### Art. 42.º A aplicação das disposições deste decreto-lei ao pessoal das escolas e estabelecimentos de ensino superior não previstos no presente diploma será feita mediante decreto referendado pelos Ministros das Finanças e da Educação e pelo Secretário de Estado da Administração Pública.
+Art. 42.º A aplicação das disposições deste decreto-lei ao pessoal das escolas e estabelecimentos de ensino superior não previstos no presente diploma será feita mediante decreto referendado pelos Ministros das Finanças e da Educação e pelo Secretário de Estado da Administração Pública.
 
-###### Art. 43.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal dos quadros criados pelo presente diploma são os seguintes:
+Art. 43.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal dos quadros criados pelo presente diploma são os seguintes:
 
 a) O lugar de administrador será provido por despacho do Ministro da Educação, sob proposta do reitor, de entre licenciados de reconhecida competência e que possuam experiência válida para o exercício das funções;
 
@@ -553,25 +717,25 @@ t) Os lugares de pessoal técnico, técnico-profissional e operário do Gabinete
 
 3 - O lugar de capelão previsto no mapa I anexo a este diploma será abonado por gratificação a fixar nos termos do número anterior.
 
-###### Art. 44.º Os encargos resultantes da execução deste diploma serão satisfeitos, no corrente ano económico, pelas disponibilidades das dotações inscritas para pessoal nos orçamentos respectivos ou pelo reforço dessas dotações.
+Art. 44.º Os encargos resultantes da execução deste diploma serão satisfeitos, no corrente ano económico, pelas disponibilidades das dotações inscritas para pessoal nos orçamentos respectivos ou pelo reforço dessas dotações.
 
-###### Art. 45.º Este decreto-lei reporta-se a 1 de Junho de 1979, para efeitos de remunerações e da contagem do tempo para a antiguidade na categoria.
+Art. 45.º Este decreto-lei reporta-se a 1 de Junho de 1979, para efeitos de remunerações e da contagem do tempo para a antiguidade na categoria.
 
-###### Art. 46.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, de acordo com as respectivas áreas de competência.
+Art. 46.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, de acordo com as respectivas áreas de competência.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Quadro do pessoal das Universidades (reitoria e serviços centrais) a que se refere o artigo 39.º de Decreto-Lei n.º 536/79
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 MAPA II
 
@@ -579,19 +743,19 @@ Quadro do pessoal das Faculdades a que se refere o artigo 40.º do Decreto-Lei n
 
 Universidade de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 Universidade de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 Universidade do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 Universidade Técnica de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 MAPA III
 
@@ -599,16 +763,16 @@ Quadro do pessoal dos estabelecimentos anexos a que se refere o artigo 48.º do 
 
 Universidade de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 Universidade de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 Universidade do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
 
 Universidade Técnica de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30009/02150227.pdf)

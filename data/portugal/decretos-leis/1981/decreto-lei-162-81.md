@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13400/13381339.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1981-579162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e59ff45081a1b156b73502669784774e86c18093c10ad820deaef2aa3f88948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2c0e28274ac08deeeb09a187735500f6c6b60098e1f90e4cec3de6989509cb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção Financeira
+- Bolsa de Valores
+- Empresa
+- Lisboa
+- Porto
+- Setor Empresarial do Estado
+relationships:
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 253/82, DE 29 DE JUNHO, PUBLICADO NO DR.IS, 147.\0147."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-06-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:52Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +112,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Todas as sociedades privadas, constituídas sob a forma de sociedades anónimas de responsabilidade limitada, com participação maioritária do Estado ou do sector público empresarial no respectivo capital devem solicitar a admissão à cotação nas Bolsas de Valores de Lisboa e do Porto das acções representativas desse capital.
+Artigo 1.º Todas as sociedades privadas, constituídas sob a forma de sociedades anónimas de responsabilidade limitada, com participação maioritária do Estado ou do sector público empresarial no respectivo capital devem solicitar a admissão à cotação nas Bolsas de Valores de Lisboa e do Porto das acções representativas desse capital.
 
-###### Art. 2.º A admissão a que se refere o artigo 1.º deve ser solicitada de harmonia com as condições definidas no [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro.
+Art. 2.º A admissão a que se refere o artigo 1.º deve ser solicitada de harmonia com as condições definidas no [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro.
 
-###### Art. 3.º A admissão a que se refere o artigo 1.º deve ser solicitada no prazo de noventa dias contados a partir da entrada em vigor deste diploma.
+Art. 3.º A admissão a que se refere o artigo 1.º deve ser solicitada no prazo de noventa dias contados a partir da entrada em vigor deste diploma.
 
-###### Art. 4.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 4.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 31 de Maio de 1981.**
+Promulgado em 31 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

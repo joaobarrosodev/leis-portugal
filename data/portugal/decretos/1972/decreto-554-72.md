@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/554-1972-685599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5f80809b804dc439e7af22054a8063d820cc34d1ed014e042ac474a0333b20f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe9ab7b0237d6361689dd9fa768e922772c3f64f0812d4c83d8fe2f3f39ed2f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:305007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:27Z'
   warnings: []
   errors: []
 ---
@@ -89,25 +97,25 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 221462032$00, destinados, quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 221462032$00, destinados, quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
 Defesa Nacional
 
-### Capítulo 13.º «Secretariado-Geral da Defesa Nacional»:
+Capítulo 13.º «Secretariado-Geral da Defesa Nacional»:
 
 Infra-estruturas comuns N. A. T. O.
 
 Despesas nos termos do [Decreto-Lei n.º 41575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41575-1958-305007), de 1 de Abril de 1958
 
-###### Artigo 500.º «Bens duradouros» ... 25000000$00
+Artigo 500.º «Bens duradouros» ... 25000000$00
 
 Ministério das Finanças
 
-### Capítulo 21.º «Despesas comuns»:
+Capítulo 21.º «Despesas comuns»:
 
-###### Artigo 316.º «Restituições»:
+Artigo 316.º «Restituições»:
 
 N.º 4) «Ministério das Finanças»:
 
@@ -117,35 +125,35 @@ Alínea 4 «Direcção-Geral das Contribuições e Impostos»:
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Centrais.»
+Capítulo 5.º «Direcção-Geral dos Serviços Centrais.»
 
 Serviços externos do Ministério
 
-###### Artigo 68.º «Vencimentos o salários»:
+Artigo 68.º «Vencimentos o salários»:
 
 N.º 1) «Salários do pessoal eventual»: ... 9485000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário»:
 
 Ensino primário
 
-###### Artigo 1116.º «Despesas gerais de funcionamento»:
+Artigo 1116.º «Despesas gerais de funcionamento»:
 
 N.º 2) «Locação de bens» ... (33)100000$00
 
 Ministério das Comunicações
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### artigo 249.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
+artigo 249.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
 
-###### Artigo 250.º «Administração dos Portos do Douro e Leixões» ... 5700095$50
+Artigo 250.º «Administração dos Portos do Douro e Leixões» ... 5700095$50
 
-###### Artigo 252.º «Fundo Especial de Transportes Terrestres» ... 73206936$50
+Artigo 252.º «Fundo Especial de Transportes Terrestres» ... 73206936$50
 
-###### Artigo 253.º «Juntas autónomas dos portos»:
+Artigo 253.º «Juntas autónomas dos portos»:
 
 Do Norte:
 
@@ -161,9 +169,9 @@ Do Distrito de Ponta Delgada ... 600000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 5.º «Direcção-Geral dos Hospitais»:
+Capítulo 5.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 116.º «Transferências - Sector público»
+Artigo 116.º «Transferências - Sector público»
 
 N.º 7) «Carreiras médicas e de enfermagem»:
 
@@ -171,45 +179,45 @@ Alínea 1 «Comparticipação nos encargos desta natureza dos estabelecimentos o
 
 ... 221462032$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, é aumentada a previsão das receitas do Estado das seguintes rubricas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, é aumentada a previsão das receitas do Estado das seguintes rubricas:
 
 Orçamento das receitas do Estado
 
-### Capítulo 1.º, grupo 1, artigo 4.º «Imposto de capitais» ... 20370000$00
+Capítulo 1.º, grupo 1, artigo 4.º «Imposto de capitais» ... 20370000$00
 
-### Capítulo 2.º, grupo 3, artigo 24.º «Imposto de transacções» ... 52500000$00
+Capítulo 2.º, grupo 3, artigo 24.º «Imposto de transacções» ... 52500000$00
 
-### Capítulo 5.º, grupo 1, artigo 165.º «Reembolso, pelo respectivo Município, das rendas de casa das escolas primárias da cidade de Lisboa» ... 100000$00
+Capítulo 5.º, grupo 1, artigo 165.º «Reembolso, pelo respectivo Município, das rendas de casa das escolas primárias da cidade de Lisboa» ... 100000$00
 
-### Capítulo 5.º, grupo 2, artigo 178.º «Emolumentos consulares» » ... 9485000$00
+Capítulo 5.º, grupo 2, artigo 178.º «Emolumentos consulares» » ... 9485000$00
 
-### Capítulo 15.º, artigo 330.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
+Capítulo 15.º, artigo 330.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
 
-### Capítulo 15.º, artigo 331.º «Administração dos Portos do Douro e Leixões» ... 5700095$50
+Capítulo 15.º, artigo 331.º «Administração dos Portos do Douro e Leixões» ... 5700095$50
 
-### Capítulo 15.º, artigo 333.º «Fundo Especial de Transportes Terrestres» ... 73206936$50
+Capítulo 15.º, artigo 333.º «Fundo Especial de Transportes Terrestres» ... 73206936$50
 
-### Capítulo 15.º, artigo 334.º «Junta Autónoma dos Portos do Norte:
+Capítulo 15.º, artigo 334.º «Junta Autónoma dos Portos do Norte:
 
 Viana do Castelo ... 1000000$00
 
-### Capítulo 15.º, artigo 335.º «Junta Autónoma do Porto de Aveiro» ... 1000000$00
+Capítulo 15.º, artigo 335.º «Junta Autónoma do Porto de Aveiro» ... 1000000$00
 
-### Capítulo 15.º, artigo 337.º «Junta Autónoma do Porto de Setúbal» ... 2500000$00
+Capítulo 15.º, artigo 337.º «Junta Autónoma do Porto de Setúbal» ... 2500000$00
 
-### Capítulo 15.º, artigo 341.º «Junta Autónoma dos Portos do Distrito de Ponta Delgada» ... 600000$00
+Capítulo 15.º, artigo 341.º «Junta Autónoma dos Portos do Distrito de Ponta Delgada» ... 600000$00
 
-### Capítulo 5.º, grupo 2, artigo 350.º «Reembolso das comparticipações para despesas com infra-estruturas comuns N. A. T. O.» ... 25000000$00
+Capítulo 5.º, grupo 2, artigo 350.º «Reembolso das comparticipações para despesas com infra-estruturas comuns N. A. T. O.» ... 25000000$00
 
 ... 221462032$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
 
 A observação (33) afecta à dotação descrita no capítulo 6.º, artigo 1116.º, n.º 2, passa a ter a seguinte redacção:
 
 (33) 1000000$00 têm compensação em receita (da conta da Câmara Municipal de Lisboa).
 
-###### Art. 4.º São autorizadas as seguintes alterações aos orçamentos privativos:
+Art. 4.º São autorizadas as seguintes alterações aos orçamentos privativos:
 
 Da Administração-Geral o Porto de Lisboa:
 
@@ -217,7 +225,7 @@ Reforço
 
 Despesas correntes:
 
-###### Artigo 22.º «despesas gerais de funcionamento»:
+Artigo 22.º «despesas gerais de funcionamento»:
 
 N.º 7) «Trabalhos especiais diversos»:
 
@@ -227,7 +235,7 @@ Alínea 2 «Outros trabalhos» ... 200000$00
 
 Despesas de capital:
 
-###### Artigo 29.º «Transferências - Sector público»:
+Artigo 29.º «Transferências - Sector público»:
 
 N.º 2) «Fundo de Melhoramentos» ... 17000000$00
 
@@ -237,13 +245,13 @@ Contrapartida
 
 Receita ordinária:
 
-###### Artigo 4.º, n.º 6), alínea 4 «Armazenagem nos entrepostos e terraplenos livres» ... 3400000$00
+Artigo 4.º, n.º 6), alínea 4 «Armazenagem nos entrepostos e terraplenos livres» ... 3400000$00
 
-###### Artigo 4.º, n.º 6), alínea 5 «Tráfego de mercadorias» ... 13000000$00
+Artigo 4.º, n.º 6), alínea 5 «Tráfego de mercadorias» ... 13000000$00
 
-###### Artigo 6.º, n.º 1) «Maquinaria e equipamento Outros sectores» ... 4000000$00
+Artigo 6.º, n.º 1) «Maquinaria e equipamento Outros sectores» ... 4000000$00
 
-###### Artigo 7.º, n.º 1) «Transferências - Sector público» ... 9600000$00
+Artigo 7.º, n.º 1) «Transferências - Sector público» ... 9600000$00
 
 ... 30000000$00
 
@@ -253,20 +261,20 @@ Reforço
 
 Despesas correntes:
 
-###### Artigo 26.º «Transferências - Empresas» ... 5700095$50
+Artigo 26.º «Transferências - Empresas» ... 5700095$50
 
 Receita ordinária:
 
-###### Artigo 2.º, n.º 1) «Taxas» ... 1808885$50
+Artigo 2.º, n.º 1) «Taxas» ... 1808885$50
 
-###### Artigo 6.º, n.º 8), alínea 18 «Taxas de utilização do terminal petrolífero» ... 3891210$00
+Artigo 6.º, n.º 8), alínea 18 «Taxas de utilização do terminal petrolífero» ... 3891210$00
 
 ... 5700095$50
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Rui Manuel de Medeiros d'Espiney Patrício - José Veiga Simão - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 15 de Dezembro de 1972.**
+Promulgado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

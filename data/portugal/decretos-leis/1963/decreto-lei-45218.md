@@ -49,36 +49,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45218-1963-685837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29e1819edf145b20e5d9e7fffa24a6fe5c2140f2f97d124e8ebdbeecf61a5266
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad7bf79c60bec7066ef9f2e1a0ddaf3cd0772b0f6131c1e7e9661fae61104cfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Direitos de Importação
+- Isenção Fiscal
+- NATO
+- Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:304721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:06Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +100,16 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O corpo do artigo 3.º do [Decreto-Lei n.º 41561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41561-1958-304721), de 17 de Março de 1958, passa a ter a seguinte redacção:
+Artigo único. O corpo do artigo 3.º do [Decreto-Lei n.º 41561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41561-1958-304721), de 17 de Março de 1958, passa a ter a seguinte redacção:
 
 ...
 
-###### Art. 3.º São isentos de direitos de importação e dos emolumentos gerais dos artigos 11.º e 19.º da tabela II anexa à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 31665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31665-1941-321313), de 22 de Novembro de 1941, os materiais destinados às obras a que se refere o artigo 1.º do presente diploma, desde que não possam obter-se na indústria nacional em condições semelhantes em preço e qualidade.
+Art. 3.º São isentos de direitos de importação e dos emolumentos gerais dos artigos 11.º e 19.º da tabela II anexa à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 31665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31665-1941-321313), de 22 de Novembro de 1941, os materiais destinados às obras a que se refere o artigo 1.º do presente diploma, desde que não possam obter-se na indústria nacional em condições semelhantes em preço e qualidade.
 
 Quando, porém, para a construção das referidas obras a participação da Organização do Tratado do Atlântico Norte for parcial, apenas goza do benefício da isenção a parte correspondente a essa participação.
 
 ...
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30100/30863086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1977-276623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58db20dd5cae095f3dff6747d97682273ee02e2951f48d3750ec0eebd9532d57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ddb184e6a52e67d8d4855c7a7bb3d99750dcd2218c5185a53e836b3dd2539d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equiparação de Cursos
+- Exército
+- Força Aérea
+- Militar
+- Pessoal de Enfermagem
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:160280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161772:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:56Z'
   warnings: []
   errors: []
 ---
@@ -102,16 +121,16 @@ Assim sendo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As pessoas abrangidas pelo artigo 1.º do [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772), de 10 de Abril, que tenham deixado, a qualquer título, o quadro permanente do Exército ou da Força Aérea e provem ter continuado a exercer a profissão de enfermeiro poderão ainda usar da faculdade conferida pelo dito artigo 1.º desde que o requeiram dentro dos sessenta dias seguintes ao da entrada em vigor do presente diploma, ficando, no entanto, o seu ingresso nas carreiras civis dependente da habilitação com o curso de promoção profissional regulamentado na [Portaria n.º 107/75](https://diariodarepublica.pt/dr/detalhe/portaria/107-1975-160280), de 17 de Fevereiro, e n.º 2 do artigo 2.º do referido [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772).
+Artigo 1.º As pessoas abrangidas pelo artigo 1.º do [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772), de 10 de Abril, que tenham deixado, a qualquer título, o quadro permanente do Exército ou da Força Aérea e provem ter continuado a exercer a profissão de enfermeiro poderão ainda usar da faculdade conferida pelo dito artigo 1.º desde que o requeiram dentro dos sessenta dias seguintes ao da entrada em vigor do presente diploma, ficando, no entanto, o seu ingresso nas carreiras civis dependente da habilitação com o curso de promoção profissional regulamentado na [Portaria n.º 107/75](https://diariodarepublica.pt/dr/detalhe/portaria/107-1975-160280), de 17 de Fevereiro, e n.º 2 do artigo 2.º do referido [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772).
 
-###### Art. 2.º - 1. É revogado o [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772), de 10 de Abril.
+Art. 2.º - 1. É revogado o [Decreto-Lei n.º 189/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1975-161772), de 10 de Abril.
 
 2. O disposto no número anterior não prejudica os direitos adquiridos, bem como o andamento dos processos de equiparação iniciados em data anterior ao da entrada em vigor do presente diploma.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - Armando Bacelar.
 
-**Promulgado em 20 de Dezembro de 1977.**
+Promulgado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

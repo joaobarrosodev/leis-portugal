@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/20100/21512162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f314d886b870a069a6dbea5fa3b3ae8af319265178866afd095f0aa113acfe5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: debb31103a2155b83c19970384928d01f7254555746e2f0c652a89f4f8058b9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Turismo
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:220099:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380886:por
+  label: "Alterados os artigos 7.º, n.º 2, 23.º, 31.º, n.º 1, 33.º, 34.º, 35.º, 37.º, n.º 2, 40.º, n.º 1, 45.º, 50.º, 63.º,\
+    \ 64.º, 67.º, 69.º, n.º 5, 70.º, n.º 1, 79.º, n.º 2, 82.º, n.º 2, e 86.º, n.º 1, aditado um n.º 5 ao artigo 41.º, uma\
+    \ alínea o) ao n.º 1 do artigo 81.º, revogado o n.º 4 do artigo 88.º e o artigo 95.º, pelo DEC LEI.480/82.24.12.1982.PCM,\
+    \ DR.IS [296] de 24.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/480-1982-380886
+  date: '1982-12-24'
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686581:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220099:por
+  label: "Revogado pelo DEC LEI.264/86.03.09.1986.PCM, DR.IS [202] de 03.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1986-220099
+  date: '1986-09-03'
 article_structure:
-  article_count: 1
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:17Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +124,17 @@ Por outro lado, tem-se agora oportunidade de resolver os problemas levantados pe
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 20.º da Constituição, o seguinte:
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Da natureza e actividades das agências de viagens e turismo
 
-###### Artigo 1.º - 1 - Consideram-se agências de viagens e turismo as sociedades comerciais nacionais que, tendo por objecto o exercício das actividades que lhes são próprias, sejam licenciadas nos termos do presente diploma e suas disposições regulamentares.
+Artigo 1.º - 1 - Consideram-se agências de viagens e turismo as sociedades comerciais nacionais que, tendo por objecto o exercício das actividades que lhes são próprias, sejam licenciadas nos termos do presente diploma e suas disposições regulamentares.
 
 2 - Além das actividades que lhes são próprias, as agências de viagens e turismo só poderão exercer as actividades que lhes sejam permitidas nos termos deste decreto-lei e seus regulamentos.
 
-###### Art. 2.º - 1 - É atribuído às agências de viagens e turismo o exercício exclusivo das seguintes actividades:
+Art. 2.º - 1 - É atribuído às agências de viagens e turismo o exercício exclusivo das seguintes actividades:
 
 a) A obtenção de passaportes ordinários, certificados colectivos de identidade e viagem e respectivos vistos, bem como de quaisquer outros documentos com fins idênticos;
 
@@ -120,7 +150,7 @@ f) A planificação, organização e realização de serviços e viagens turíst
 
 2 - O exercício das actividades mencionadas no número anterior está reservado exclusivamente às agências de viagens e turismo.
 
-###### Art. 3.º - 1 - As agências de viagens e turismo poderão ainda prestar, como serviços complementares da sua actividade, os seguintes:
+Art. 3.º - 1 - As agências de viagens e turismo poderão ainda prestar, como serviços complementares da sua actividade, os seguintes:
 
 a) O aluguer de automóveis, nos termos da respectiva legislação;
 
@@ -134,7 +164,7 @@ e) A difusão de propaganda turística, bem como a venda de guias turísticos e 
 
 2 - O Secretário de Estado do Turismo poderá definir, por portaria, quaisquer outros serviços que as agências de viagens e turismo sejam autorizadas a prestar sem prejuízo da legislação reguladora de tais serviços.
 
-###### Art. 4.º O disposto no artigo 2.º entende-se sem prejuízo:
+Art. 4.º O disposto no artigo 2.º entende-se sem prejuízo:
 
 a) Das actividades próprias das empresas transportadoras, incluindo nomeadamente a organização de cruzeiros pelos armadores e de excursões e circuitos turísticos pelas empresas de transportes fluviais e ferroviários, desde que utilizem apenas os seus meios de transporte;
 
@@ -148,7 +178,7 @@ e) Das reservas em estabelecimentos hoteleiros e similares e meios complementare
 
 f) Da actividade dos delegados das agências de viagens estrangeiras.
 
-###### Art. 5.º - 1 - Para a prestação dos serviços respeitantes às actividades que estão autorizadas a exercer, as agências de viagens e turismo podem utilizar meios próprios, devendo conformar-se com as normas em vigor referentes a cada um desses meios.
+Art. 5.º - 1 - Para a prestação dos serviços respeitantes às actividades que estão autorizadas a exercer, as agências de viagens e turismo podem utilizar meios próprios, devendo conformar-se com as normas em vigor referentes a cada um desses meios.
 
 2 - Para efeitos do disposto no número anterior, os meios próprios autorizados para as agências são exclusivamente os seguintes:
 
@@ -160,7 +190,7 @@ c) Meios complementares de alojamento turístico.
 
 3 - Por portaria conjunta dos Ministros do Comércio e Turismo e dos Transportes e Comunicações serão definidos os requisitos mínimos a que devem obedecer os veículos destinados à realização de viagens turísticas colectivas.
 
-###### Art. 6.º - 1 - As agências de viagens e turismo classificam-se, de acordo com o tipo de actividade exercida e o âmbito territorial da sua acção, nas seguintes categorias:
+Art. 6.º - 1 - As agências de viagens e turismo classificam-se, de acordo com o tipo de actividade exercida e o âmbito territorial da sua acção, nas seguintes categorias:
 
 a) Grossistas;
 
@@ -170,11 +200,11 @@ c) Retalhistas.
 
 2 - Nenhuma agência pode estar classificada simultaneamente em mais do que uma categoria.
 
-###### Art. 7.º - 1 - São classificadas como «grossistas» as agências de viagens e turismo que, sem qualquer limite territorial, planificam, organizam e realizam viagens turísticas e serviços turísticos combinados para oferta a outras agências de viagens, não podendo em caso algum oferecer ou vender os seus serviços ou viagens directamente ao público.
+Art. 7.º - 1 - São classificadas como «grossistas» as agências de viagens e turismo que, sem qualquer limite territorial, planificam, organizam e realizam viagens turísticas e serviços turísticos combinados para oferta a outras agências de viagens, não podendo em caso algum oferecer ou vender os seus serviços ou viagens directamente ao público.
 
 2 - A estas agências é vedado o exercício das actividades previstas nas alíneas a) e d) do n.º 1 do artigo 2.º
 
-###### Art. 8.º - 1 - São classificadas como «operadores» as agências de viagens e turismo dotadas dos meios necessários para exercerem todas as actividades próprias das agências sem qualquer limite territorial, vendendo directamente ao público serviços ou viagens.
+Art. 8.º - 1 - São classificadas como «operadores» as agências de viagens e turismo dotadas dos meios necessários para exercerem todas as actividades próprias das agências sem qualquer limite territorial, vendendo directamente ao público serviços ou viagens.
 
 2 - Estas agências não podem:
 
@@ -184,7 +214,7 @@ b) Colocar à disposição do público, através de outros operadores e retalhis
 
 3 - Mediante autorização da entidade competente, poderão funcionar nestas agências, para uso exclusivo dos seus clientes, serviços destinados à realização de operações cambiais.
 
-###### Art. 9.º - 1 - São classificadas como «retalhistas» as agências de viagens e turismo cujo âmbito de acção está limitado ao território nacional, vendendo directamente ao público serviços ou viagens.
+Art. 9.º - 1 - São classificadas como «retalhistas» as agências de viagens e turismo cujo âmbito de acção está limitado ao território nacional, vendendo directamente ao público serviços ou viagens.
 
 2 - Estas agências só podem exercer as actividades previstas nas alíneas a), b) e c) do n.º 1 do artigo 2.º e no artigo 3.º
 
@@ -192,13 +222,13 @@ b) Colocar à disposição do público, através de outros operadores e retalhis
 
 4 - O disposto no n.º 1 não impede estas agências de fornecerem aos seus clientes os serviços individuais solicitados, independentemente do local onde os mesmos forem prestados.
 
-###### Art. 10.º - 1 - As agências de viagens e turismo terão sempre as instalações próprias, nas quais exercerão exclusivamente as actividades que lhes são autorizadas nos termos do presente diploma.
+Art. 10.º - 1 - As agências de viagens e turismo terão sempre as instalações próprias, nas quais exercerão exclusivamente as actividades que lhes são autorizadas nos termos do presente diploma.
 
 2 - Para o desenvolvimento das suas actividades, as agências classificadas como «grossistas» e «operadores» poderão solicitar a abertura de delegações e sucursais respectivamente.
 
 3 - Por portaria do Secretário de estado do Turismo serão fixados os requisitos mínimos a que devem obedecer as respectivas instalações.
 
-###### Art. 11.º - 1 - Todas as agências de viagens e turismo devem colaborar na promoção do turismo português, tanto no País como no estrangeiro, designadamente participando nas manifestações organizadas ou patrocinadas pelos serviços oficiais de turismo e expondo e distribuindo o material de propaganda que lhes seja enviado pelos mesmos serviços.
+Art. 11.º - 1 - Todas as agências de viagens e turismo devem colaborar na promoção do turismo português, tanto no País como no estrangeiro, designadamente participando nas manifestações organizadas ou patrocinadas pelos serviços oficiais de turismo e expondo e distribuindo o material de propaganda que lhes seja enviado pelos mesmos serviços.
 
 2 - As agências classificadas como «operadores» e «retalhistas» devem ainda estar habilitadas a fornecer, relativamente ao País, indicações actualizadas sobre:
 
@@ -210,27 +240,27 @@ c) As cotações cambiais;
 
 d) As viagens turísticas regulares, desde que previamente anunciadas.
 
-###### Art. 12.º - 1 - Aos representantes credenciados das agências de viagens e turismo classificadas como «grossistas» e «operadores», quando devidamente identificados e em serviço, é permitido o acesso às delegações das alfândegas e a todos os recintos destinados aos passageiros nos aeroportos e gares.
+Art. 12.º - 1 - Aos representantes credenciados das agências de viagens e turismo classificadas como «grossistas» e «operadores», quando devidamente identificados e em serviço, é permitido o acesso às delegações das alfândegas e a todos os recintos destinados aos passageiros nos aeroportos e gares.
 
 2 - As pessoas que beneficiam desta regalia não podem interferir, por qualquer forma, no serviço alfandegário.
 
 3 - A identificação destas pessoas far-se-á por cartões emitidos pelas entidades interessadas, ou, na sua falta, pela respectiva associação.
 
-###### Art. 13.º - 1 - É vedado às agências de viagens e turismo utilizarem qualquer forma de aliciamento com vista à emigração ou interferirem de qualquer modo nos processos a ela relativos.
+Art. 13.º - 1 - É vedado às agências de viagens e turismo utilizarem qualquer forma de aliciamento com vista à emigração ou interferirem de qualquer modo nos processos a ela relativos.
 
 2 - O estabelecido no número anterior não impede que as agências organizem e realizem viagens destinadas aos portugueses residentes no estrangeiro.
 
-###### Art. 14.º Para o exercício exclusivo da actividade referida na alínea c) do n.º 1 do artigo 2.º poderão ser instalados «serviços de reservas» nos aeroportos ou estações ferroviárias, nos termos estabelecidos em regulamento.
+Art. 14.º Para o exercício exclusivo da actividade referida na alínea c) do n.º 1 do artigo 2.º poderão ser instalados «serviços de reservas» nos aeroportos ou estações ferroviárias, nos termos estabelecidos em regulamento.
 
 #### SECÇÃO II — Dos delegados das agências de viagens estrangeiras
 
-###### Art. 15.º - 1 - As agências de viagens estrangeiras legalmente constituídas nos respectivos países poderão nomear delegados para exercer em Portugal funções de simples intermediários em relação aos seus clientes nos termos estabelecidos neste diploma e suas disposições regulamentares.
+Art. 15.º - 1 - As agências de viagens estrangeiras legalmente constituídas nos respectivos países poderão nomear delegados para exercer em Portugal funções de simples intermediários em relação aos seus clientes nos termos estabelecidos neste diploma e suas disposições regulamentares.
 
 2 - O exercício da actividade dos delegados previstos no número anterior, carece de autorização prévia passada pela Direcção-Geral do Turismo.
 
-###### Art. 16.º As agências de viagens estrangeiras são responsáveis pelos actos praticados pelos seus delegados no exercício da sua actividade, nos termos da lei portuguesa.
+Art. 16.º As agências de viagens estrangeiras são responsáveis pelos actos praticados pelos seus delegados no exercício da sua actividade, nos termos da lei portuguesa.
 
-###### Art. 17.º - 1 - Os delegados das agências estrangeiras só poderão exercer as seguintes actividades:
+Art. 17.º - 1 - Os delegados das agências estrangeiras só poderão exercer as seguintes actividades:
 
 a) Representar a agência em Portugal;
 
@@ -244,27 +274,27 @@ b) Prestar directamente quaisquer serviços que não tenham sido convencionados 
 
 c) Prestar quaisquer serviços a pessoas que não tenham entrado em Portugal como clientes da agência representada.
 
-###### Art. 18.º Para o exercício da sua actividade, os delegados das agências de viagens estrangeiras deverão ter escritório próprio, não aberto ao público, ou instalar-se numa agência de viagens portuguesa.
+Art. 18.º Para o exercício da sua actividade, os delegados das agências de viagens estrangeiras deverão ter escritório próprio, não aberto ao público, ou instalar-se numa agência de viagens portuguesa.
 
-###### Art. 19.º O pedido para o exercício da actividade dos delegados deverá ser apresentado pela agência representada.
+Art. 19.º O pedido para o exercício da actividade dos delegados deverá ser apresentado pela agência representada.
 
 ### CAPÍTULO II — Da responsabilidade e garantias
 
-###### Art. 20.º - 1 - As agências de viagens e turismo são responsáveis pela prestação correcta dos serviços que vendem, sem prejuízo do direito de regresso relativamente às empresas prestadoras dos mesmos.
+Art. 20.º - 1 - As agências de viagens e turismo são responsáveis pela prestação correcta dos serviços que vendem, sem prejuízo do direito de regresso relativamente às empresas prestadoras dos mesmos.
 
 2 - Sempre que na prestação de qualquer serviço intervierem várias agências, todas elas serão solidariamente responsáveis.
 
-###### Art. 21.º - 1 - As agências de viagens e turismo e os delegados das agências de viagens estrangeiras são obrigados a prestar uma caução destinada a garantir o cumprimento das obrigações emergentes do exercício da sua actividade e das suas delegações ou sucursais, relativamente aos clientes e às empresas prestadoras dos serviços por elas vendidos.
+Art. 21.º - 1 - As agências de viagens e turismo e os delegados das agências de viagens estrangeiras são obrigados a prestar uma caução destinada a garantir o cumprimento das obrigações emergentes do exercício da sua actividade e das suas delegações ou sucursais, relativamente aos clientes e às empresas prestadoras dos serviços por elas vendidos.
 
 2 - No caso dos delegados das agências estrangeiras, a caução garantirá ainda o cumprimento das obrigações da agência representada relativas à actividade que tenha lugar em território nacional.
 
 3 - No caso de encerramento da agência, seja qual for a causa, a caução a que se refere este artigo não poderá ser cancelada, mantendo-se em vigor até terem decorrido seis meses após o encerramento e respondendo por todas as reclamações que forem apresentadas dentro desse prazo.
 
-###### Art. 22.º - 1 - A caução será prestada à ordem da Direcção-Geral do Turismo.
+Art. 22.º - 1 - A caução será prestada à ordem da Direcção-Geral do Turismo.
 
 2 - A caução pode ser prestada por seguro, garantia ou depósito bancários e por qualquer outra forma que seja admitida pela Direcção-Geral do Turismo.
 
-###### Art. 23.º - 1 - O montante da caução a prestar pelas agências de viagens e turismo será fixado no despacho que conceder as licenças ou autorizações, em conformidade com a respectiva classificação e a actividade programada, a partir dos seguintes valores mínimos:
+Art. 23.º - 1 - O montante da caução a prestar pelas agências de viagens e turismo será fixado no despacho que conceder as licenças ou autorizações, em conformidade com a respectiva classificação e a actividade programada, a partir dos seguintes valores mínimos:
 
 a) Para os «grossistas» - 3000000$00;
 
@@ -276,7 +306,7 @@ d) Para os delegados das agências de viagens estrangeiras - 1000000$00.
 
 2 - A caução fixada nos termos do número anterior será obrigatoriamente aumentada em 250000$00 por cada sucursal que a agência abra.
 
-###### Art. 24.º - 1 - Por despacho do Secretário de Estado do Turismo, a caução poderá ser anualmente aumentada, tendo em conta o tipo de actividade exercida, até ao valor correspondente a 5% das receitas brutas obtidas pela agência e suas delegações ou sucursais no ano anterior.
+Art. 24.º - 1 - Por despacho do Secretário de Estado do Turismo, a caução poderá ser anualmente aumentada, tendo em conta o tipo de actividade exercida, até ao valor correspondente a 5% das receitas brutas obtidas pela agência e suas delegações ou sucursais no ano anterior.
 
 2 - Para efeitos do disposto no número anterior, no cálculo do montante das receitas brutas a considerar não serão computadas as receitas resultantes da exploração dos meios próprios previstos no artigo 5.º
 
@@ -286,11 +316,11 @@ d) Para os delegados das agências de viagens estrangeiras - 1000000$00.
 
 5 - É aplicável neste caso o disposto no n.º 3 do artigo 32.º, com as necessárias adaptações.
 
-###### Art. 25.º - 1 - A caução poderá ainda ser aumentada na proporção de eventuais reduções do capital da empresa provocadas por prejuízos sofridos.
+Art. 25.º - 1 - A caução poderá ainda ser aumentada na proporção de eventuais reduções do capital da empresa provocadas por prejuízos sofridos.
 
 2 - É aplicável neste caso o disposto no n.º 4 do artigo anterior.
 
-###### Art. 26.º - 1 - A caução deverá ser mantida em vigor no montante que tiver sido fixado.
+Art. 26.º - 1 - A caução deverá ser mantida em vigor no montante que tiver sido fixado.
 
 2 - Sempre que a caução prestada se torne insuficiente ou deixe de oferecer a necessária garantia, a Direcção-Geral do Turismo deverá determinar que ela seja reforçada ou substituída.
 
@@ -298,9 +328,9 @@ d) Para os delegados das agências de viagens estrangeiras - 1000000$00.
 
 4 - É aplicável neste caso o disposto no n.º 3 do artigo 32.º, com as necessárias adaptações.
 
-###### Art. 27.º Para os efeitos do disposto nos artigos anteriores, as agências de viagens e turismo enviarão à Direcção-Geral do Turismo, até 15 de Maio de cada ano, cópia do balanço e da conta de exploração referentes ao ano anterior.
+Art. 27.º Para os efeitos do disposto nos artigos anteriores, as agências de viagens e turismo enviarão à Direcção-Geral do Turismo, até 15 de Maio de cada ano, cópia do balanço e da conta de exploração referentes ao ano anterior.
 
-###### Art. 28.º - 1 - A Direcção-Geral do Turismo poderá determinar que sejam pagos por força da caução prestada quaisquer débitos da agência de viagens aos clientes ou às empresas prestadoras dos serviços, desde que a agência reconheça a existência desses débitos.
+Art. 28.º - 1 - A Direcção-Geral do Turismo poderá determinar que sejam pagos por força da caução prestada quaisquer débitos da agência de viagens aos clientes ou às empresas prestadoras dos serviços, desde que a agência reconheça a existência desses débitos.
 
 2 - No caso de os débitos existentes excederem o valor da caução, a Direcção-Geral do Turismo procederá ao rateio da importância desta entre os interessados, na proporção do montante dos respectivos créditos.
 
@@ -308,7 +338,7 @@ d) Para os delegados das agências de viagens estrangeiras - 1000000$00.
 
 4 - O pagamento da importância correspondente ao débito ou débitos da agência de viagens será efectuado durante o mês seguinte ao da data da notificação.
 
-###### Art. 29.º - 1 - Além da caução prevista no artigo 21.º, as agências de viagens e turismo são obrigadas a efectuar e manter actualizado um seguro destinado a garantir a responsabilidade civil resultante da sua actividade e das suas delegações ou sucursais.
+Art. 29.º - 1 - Além da caução prevista no artigo 21.º, as agências de viagens e turismo são obrigadas a efectuar e manter actualizado um seguro destinado a garantir a responsabilidade civil resultante da sua actividade e das suas delegações ou sucursais.
 
 2 - O seguro deverá cobrir os danos pessoais, materiais e não patrimoniais causados aos clientes ou a terceiros, por acções ou omissões dos seus representantes ou das pessoas ao seu serviço, e pelos quais a agência seja civilmente responsável.
 
@@ -316,7 +346,7 @@ d) Para os delegados das agências de viagens estrangeiras - 1000000$00.
 
 4 - A apólice de seguro previsto neste artigo será aprovada por portaria conjunta dos Ministros das Finanças e do Plano e do Comércio e Turismo.
 
-###### Art. 30.º - 1 - São excluídos do seguro referido no artigo anterior:
+Art. 30.º - 1 - São excluídos do seguro referido no artigo anterior:
 
 a) Os danos ou prejuízos causados aos representantes legais das agências e às pessoas ao seu serviço;
 
@@ -330,7 +360,7 @@ b) As perdas, deteriorações ou roubos de objectos, dinheiro ou bagagens entreg
 
 3 - No caso previsto na alínea a) do número anterior, a agência deve assegurar-se que o transportador tem em vigor o seguro exigido pelas normas legais em vigor para o meio de transporte utilizado.
 
-###### Art. 31.º - 1 - A cobertura do seguro previsto no artigo 29.º não poderá ser inferior:
+Art. 31.º - 1 - A cobertura do seguro previsto no artigo 29.º não poderá ser inferior:
 
 a) A 5000000$00 para as agências «grossistas»;
 
@@ -340,7 +370,7 @@ c) A 500000$00 para as agências «retalhistas».
 
 2 - Nos termos a fixar em regulamento, o Secretário de Estado do Turismo poderá alterar os limites estabelecidos no número anterior.
 
-###### Art. 32.º - 1 - A agência de viagens e turismo e as sucursais não poderão entrar em funcionamento sem ter prestado a caução prevista no artigo 21.º e apresentado na Direcção-Geral do Turismo cópia da apólice do seguro a que se refere o artigo 29.º
+Art. 32.º - 1 - A agência de viagens e turismo e as sucursais não poderão entrar em funcionamento sem ter prestado a caução prevista no artigo 21.º e apresentado na Direcção-Geral do Turismo cópia da apólice do seguro a que se refere o artigo 29.º
 
 2 - Do mesmo modo, a agência deverá apresentar anualmente na Direcção-Geral do Turismo, até 15 dias do termo do respectivo prazo, os documentos comprovativos de se manterem em vigor a caução e o seguro.
 
@@ -348,21 +378,21 @@ c) A 500000$00 para as agências «retalhistas».
 
 ### CAPÍTULO III — Do director técnico
 
-###### Art. 33.º - 1 - As agências de viagens e turismo e respectivas sucursais deverão dispor de um director técnico.
+Art. 33.º - 1 - As agências de viagens e turismo e respectivas sucursais deverão dispor de um director técnico.
 
 2 - Quando as sucursais de uma agência se situarem na mesma localidade da sede, o director técnico da agência poderá ser também responsável pelo funcionamento dessas sucursais.
 
 3 - No caso de existirem várias sucursais na mesma localidade será suficiente um director técnico para todas.
 
-###### Art. 34.º - 1 - O cargo de director técnico das agências de viagens e turismo e das sucursais só poderá ser exercido por pessoas com idoneidade comercial que preencham os requisitos estabelecidos em regulamento.
+Art. 34.º - 1 - O cargo de director técnico das agências de viagens e turismo e das sucursais só poderá ser exercido por pessoas com idoneidade comercial que preencham os requisitos estabelecidos em regulamento.
 
 2 - Os administradores, gerentes ou directores da empresa proprietária da agência poderão exercer o cargo de director técnico, desde que preencham os requisitos exigidos para o efeito.
 
-###### Art. 35.º Os requisitos de aptidão profissional exigidos para o exercício do cargo de director técnico serão verificados pela comissão consultiva prevista no artigo 79.º, nos termos estabelecidos em regulamento.
+Art. 35.º Os requisitos de aptidão profissional exigidos para o exercício do cargo de director técnico serão verificados pela comissão consultiva prevista no artigo 79.º, nos termos estabelecidos em regulamento.
 
 ### CAPÍTULO IV — Do licenciamento
 
-###### Art. 36.º - 1 - O exercício da actividade de agência de viagens e turismo depende de licença a conceder por despacho do Secretário de Estado do Turismo.
+Art. 36.º - 1 - O exercício da actividade de agência de viagens e turismo depende de licença a conceder por despacho do Secretário de Estado do Turismo.
 
 2 - A licença, que consta de alvará a expedir pela Direcção-Geral do Turismo, tem a natureza de mera condição administrativa, não podendo ser objecto autónomo de negócio jurídico.
 
@@ -370,7 +400,7 @@ c) A 500000$00 para as agências «retalhistas».
 
 4 - A mudança de localização do estabelecimento dentro do mesmo município dependerá apenas da aprovação das novas instalações, mas a mudança para município diferente será considerada como um pedido de nova licença, com as necessárias adaptações.
 
-###### Art. 37.º - 1 - Para obter o alvará de agência de viagens e turismo é necessário satisfazer cumulativamente os seguintes requisitos:
+Art. 37.º - 1 - Para obter o alvará de agência de viagens e turismo é necessário satisfazer cumulativamente os seguintes requisitos:
 
 a) Constituir-se sob a forma de sociedade comercial que tenha por objecto social exclusivamente a exploração das actividades próprias das agências de viagens;
 
@@ -402,15 +432,15 @@ b) Inibição do exercício do comércio por ter sido declarada a falência ou i
 
 c) Condenação com trânsito em julgado em pena de prisão superior a um ano, por crime fraudulento contra a propriedade, salvo tendo havido reabilitação.
 
-###### Art. 38.º - 1 - Se a licença for concedida em nome de uma sociedade a constituir, a respectiva escritura deverá celebrar-se no prazo máximo de três meses, contado da data da notificação do despacho que a conceder, sob pena de caducidade da licença.
+Art. 38.º - 1 - Se a licença for concedida em nome de uma sociedade a constituir, a respectiva escritura deverá celebrar-se no prazo máximo de três meses, contado da data da notificação do despacho que a conceder, sob pena de caducidade da licença.
 
 2 - Quando a licença for concedida a uma sociedade já constituída, a escritura de alteração do respectivo pacto social deverá ser celebrada no prazo fixado no número anterior, sob pena de caducidade da licença.
 
-###### Art. 39.º - 1 - Nenhuma sociedade comercial destinada à exploração da actividade de agência de viagens se poderá constituir sem serem exibidos perante o notário os documentos comprovativos de lhe ter sido concedida a licença prevista no artigo 36.º e de se encontrar depositada na Caixa Geral de Depósitos, à ordem da administração ou gerência da sociedade, a importância correspondente ao capital mínimo exigido no n.º 2 do artigo 37.º de acordo com a licença concedida.
+Art. 39.º - 1 - Nenhuma sociedade comercial destinada à exploração da actividade de agência de viagens se poderá constituir sem serem exibidos perante o notário os documentos comprovativos de lhe ter sido concedida a licença prevista no artigo 36.º e de se encontrar depositada na Caixa Geral de Depósitos, à ordem da administração ou gerência da sociedade, a importância correspondente ao capital mínimo exigido no n.º 2 do artigo 37.º de acordo com a licença concedida.
 
 2 - O disposto no número anterior é aplicável à alteração do pacto social de qualquer sociedade quando tal alteração tenha por objectivo dar satisfação aos requisitos estabelecidos no artigo 37.º
 
-###### Art. 40.º - 1 - A mudança de categoria de uma agência de viagens e turismo é considerada como um pedido de nova licença, com as necessárias adaptações.
+Art. 40.º - 1 - A mudança de categoria de uma agência de viagens e turismo é considerada como um pedido de nova licença, com as necessárias adaptações.
 
 2 - A mudança de categoria determinará a substituição do alvará anteriormente concedido.
 
@@ -418,7 +448,7 @@ c) Condenação com trânsito em julgado em pena de prisão superior a um ano, p
 
 4 - É aplicável neste caso o disposto nos artigos 38.º e 39.º
 
-###### Art. 41.º - 1 - A abertura de delegações e sucursais das agências de viagens e turismo carece de autorização prévia da Direcção-Geral do Turismo, após verificação dos requisitos estabelecidos neste diploma e suas disposições regulamentares.
+Art. 41.º - 1 - A abertura de delegações e sucursais das agências de viagens e turismo carece de autorização prévia da Direcção-Geral do Turismo, após verificação dos requisitos estabelecidos neste diploma e suas disposições regulamentares.
 
 2 - Sempre que a abertura deva ser autorizada por serviço diferente daquele que expediu o alvará, este deverá ser ouvido previamente.
 
@@ -426,7 +456,7 @@ c) Condenação com trânsito em julgado em pena de prisão superior a um ano, p
 
 4 - No caso de a autorização ter sido concedida por serviço diferente daquele que expediu o alvará, o averbamento far-se-á mediante comunicação deste último serviço.
 
-###### Art. 42.º - 1 - A concessão da licença para abertura de uma sucursal depende da verificação dos seguintes requisitos:
+Art. 42.º - 1 - A concessão da licença para abertura de uma sucursal depende da verificação dos seguintes requisitos:
 
 a) Traduzir o processo natural de expansão da agência apreciado em função da sua actividade anterior ou dos planos apresentados;
 
@@ -438,11 +468,11 @@ d) Prestar a caução devida.
 
 2 - A Direcção-Geral do Turismo poderá determinar que o aumento de capital previsto na alínea c) do número anterior seja superior ao mínimo exigido, tendo em conta a localidade onde se pretende instalar a sucursal e o plano apresentado.
 
-###### Art. 43.º - Concedida a autorização, esta caducará automaticamente se a agência não apresentar na Direcção-Geral do Turismo, no prazo de três meses, contado da data da respectiva notificação, os documentos comprovativos de se encontrar prestada a caução fixada e de estarem cumpridos os demais requisitos legalmente exigidos.
+Art. 43.º - Concedida a autorização, esta caducará automaticamente se a agência não apresentar na Direcção-Geral do Turismo, no prazo de três meses, contado da data da respectiva notificação, os documentos comprovativos de se encontrar prestada a caução fixada e de estarem cumpridos os demais requisitos legalmente exigidos.
 
-###### Art. 44.º A abertura dos estabelecimentos das agências de viagens e turismo e respectivas sucursais carece de autorização da Direcção-Geral do Turismo, depois de verificada a conformidade das instalações com os requisitos legalmente exigidos.
+Art. 44.º A abertura dos estabelecimentos das agências de viagens e turismo e respectivas sucursais carece de autorização da Direcção-Geral do Turismo, depois de verificada a conformidade das instalações com os requisitos legalmente exigidos.
 
-###### Art. 45.º - 1 - Depois de expedido o alvará de uma agência de viagens, dependem de autorização prévia da Direcção-Geral do Turismo a alteração do seu pacto social, a substituição dos seus administradores ou gerentes e directores técnicos, bem como qualquer modificação de outras circunstâncias básicas de concessão da respectiva licença.
+Art. 45.º - 1 - Depois de expedido o alvará de uma agência de viagens, dependem de autorização prévia da Direcção-Geral do Turismo a alteração do seu pacto social, a substituição dos seus administradores ou gerentes e directores técnicos, bem como qualquer modificação de outras circunstâncias básicas de concessão da respectiva licença.
 
 2 - O disposto no número anterior aplicar-se-á igualmente às sucursais e a qualquer negócio translativo da propriedade ou do direito à exploração do estabelecimento.
 
@@ -452,15 +482,15 @@ d) Prestar a caução devida.
 
 5 - Consideram-se circunstâncias básicas da concessão das licenças a localização e denominação do estabelecimento principal e das sucursais, bem como quaisquer outras especiais a cuja verificação tenha sido subordinada a sua concessão.
 
-###### Art. 46.º A ocorrência de quaisquer factos previstos no artigo anterior por causas alheias à vontade da empresa deverá ser comunicada à Direcção-Geral do Turismo, juntamente com o respectivo pedido de regularização, no prazo de trinta dias, contado da data da sua verificação.
+Art. 46.º A ocorrência de quaisquer factos previstos no artigo anterior por causas alheias à vontade da empresa deverá ser comunicada à Direcção-Geral do Turismo, juntamente com o respectivo pedido de regularização, no prazo de trinta dias, contado da data da sua verificação.
 
-###### Art. 47.º - 1 - Na falta de cumprimento do estabelecido nos artigos 45.º e 46.º, a Direcção-Geral do Turismo poderá determinar as providências que considere necessárias com vista à regularização da situação.
+Art. 47.º - 1 - Na falta de cumprimento do estabelecido nos artigos 45.º e 46.º, a Direcção-Geral do Turismo poderá determinar as providências que considere necessárias com vista à regularização da situação.
 
 2 - Sempre que o considere indispensável, a Direcção-Geral do Turismo poderá mesmo determinar a suspensão da actividade da empresa, até a situação se encontrar regularizada.
 
 ### CAPÍTULO V — Das viagens turísticas
 
-###### Art. 48.º - 1 - Por viagem turística entende-se toda a deslocação de pessoas, individualmente ou em grupo quer para seu aprazimento, em razão do itinerário ou do local do destino, quer para participar em manifestações culturais, profissionais ou desportivas.
+Art. 48.º - 1 - Por viagem turística entende-se toda a deslocação de pessoas, individualmente ou em grupo quer para seu aprazimento, em razão do itinerário ou do local do destino, quer para participar em manifestações culturais, profissionais ou desportivas.
 
 2 - São viagens turísticas individuais as organizadas pelas agências de viagens e turismo no cumprimento dos contratos celebrados com determinada pessoa ou pessoas para satisfação de necessidades ou de programas por elas definidos.
 
@@ -468,7 +498,7 @@ d) Prestar a caução devida.
 
 4 - São viagens turísticas colectivas as organizadas pelas agências de viagens e turismo para grupos de pessoas, mediante adesão posterior destas aos planos e aos preços individuais previamente fixados.
 
-###### Art. 49.º - 1 - As viagens turísticas colectivas não se poderão circunscrever à mera prestação de transporte devendo constituir um complexo de serviços (à for fait), que, incluindo sempre transporte e, quando por mais de um dia, alojamento, cubra a totalidade convencionada das necessidades do turista, mediante um preço globalmente fixado.
+Art. 49.º - 1 - As viagens turísticas colectivas não se poderão circunscrever à mera prestação de transporte devendo constituir um complexo de serviços (à for fait), que, incluindo sempre transporte e, quando por mais de um dia, alojamento, cubra a totalidade convencionada das necessidades do turista, mediante um preço globalmente fixado.
 
 2 - Durante a realização de viagens turísticas colectivas em veículos próprios das agências de viagens ou postos exclusivamente à sua disposição não poderão ser tornados nem largados passageiros, salvo o dispor no número seguinte, podendo, no entanto, ser utilizados e combinados vários meios de transporte.
 
@@ -476,17 +506,17 @@ d) Prestar a caução devida.
 
 4 - O disposto nos dois números anteriores aplicar-se-á com as necessárias adaptações, às viagens turísticas colectivas em que sejam utilizados meios de transporte público colectivo.
 
-###### Art. 50.º É permitido aos órgãos locais de turismo, em casos especiais e mediante condições a fixar em regulamento organizar viagens turísticas colectivas.
+Art. 50.º É permitido aos órgãos locais de turismo, em casos especiais e mediante condições a fixar em regulamento organizar viagens turísticas colectivas.
 
-###### Art. 51.º - 1 - Serão objecto de legislação especial as viagens turísticas que, implicando o atravessamento da fronteira, só parcialmente se desenvolvem em território português.
+Art. 51.º - 1 - Serão objecto de legislação especial as viagens turísticas que, implicando o atravessamento da fronteira, só parcialmente se desenvolvem em território português.
 
 2 - As viagens turísticas que se realizem entre parcelas descontínuas do território nacional ou no interior de qualquer delas serão regulamentadas em diploma conjunto dos Ministros do Comércio e Turismo e dos Transportes e Comunicações.
 
-###### Art. 52.º - 1 - As entidades admitidas a realizar viagens turísticas nos termos do presente diploma são obrigadas a estabelecer um seguro que cubra os riscos da responsabilidade civil resultante das mesmas.
+Art. 52.º - 1 - As entidades admitidas a realizar viagens turísticas nos termos do presente diploma são obrigadas a estabelecer um seguro que cubra os riscos da responsabilidade civil resultante das mesmas.
 
 2 - Os Ministros do Comércio e Turismo e dos Transportes e Comunicações fixarão, em portaria conjunta, os termos e limites do seguro previsto no número anterior.
 
-###### Art. 53.º - 1 - Nas viagens turísticas colectivas por via terrestre organizadas pelas agências de viagens e turismo e pelas demais entidades autorizadas nos termos deste diploma é obrigatório o acompanhamento dos turistas, desde a origem até ao destino, por profissionais da informação turística, nos termos estabelecidos em regulamento.
+Art. 53.º - 1 - Nas viagens turísticas colectivas por via terrestre organizadas pelas agências de viagens e turismo e pelas demais entidades autorizadas nos termos deste diploma é obrigatório o acompanhamento dos turistas, desde a origem até ao destino, por profissionais da informação turística, nos termos estabelecidos em regulamento.
 
 2 - A obrigação consignada no número anterior é extensiva, sem excepção, às viagens turísticas colectivas organizadas ao estrangeiro, mas consignadas a agências de viagens nacionais.
 
@@ -494,13 +524,13 @@ d) Prestar a caução devida.
 
 4 - Ao pessoal de informação turística estrangeiro, com excepção dos correios de turismo, não é permitido exercer a sua profissão em Portugal, salvo no caso de reciprocidade.
 
-###### Art. 54.º - 1 - As agências de viagens classificadas como «operadores» são obrigadas a fornecer guias-intépretes e guias regionais às pessoas que lhos solicitem.
+Art. 54.º - 1 - As agências de viagens classificadas como «operadores» são obrigadas a fornecer guias-intépretes e guias regionais às pessoas que lhos solicitem.
 
 2 - Os respectivos serviços entendem-se, nestas circunstâncias, como prestados pela agência a quem os solicitou.
 
 3 - É aplicável neste caso o disposto no n.º 3 do artigo anterior.
 
-###### Art. 55.º - 1 - Não carece de intervenção de uma agência de viagens e turismo a realização de viagens turísticas colectivas organizadas:
+Art. 55.º - 1 - Não carece de intervenção de uma agência de viagens e turismo a realização de viagens turísticas colectivas organizadas:
 
 a) Por estabelecimento de ensino, desde que nelas tomem parte apenas elementos desses estabelecimentos;
 
@@ -526,15 +556,15 @@ b) Proceder às reservas necessárias, bem como à expedição e seguro das baga
 
 ### CAPÍTULO VI — Das relações das agências de viagens e turismo com os seus clientes
 
-###### Art. 56.º - 1 - No exercício da sua actividade, as agências de viagens têm o dever de zelar pelos direitos e interesses dos seus clientes, segundo as normas constantes do presente diploma e suas disposições regulamentares e os usos próprios da actividade.
+Art. 56.º - 1 - No exercício da sua actividade, as agências de viagens têm o dever de zelar pelos direitos e interesses dos seus clientes, segundo as normas constantes do presente diploma e suas disposições regulamentares e os usos próprios da actividade.
 
 2 - O cliente deve respeitar perante a agência os termos acordados na contratação dos respectivos serviços, fornecendo-lhe as informações necessárias à sua boa execução e observando as normas reguladoras dos mesmos.
 
-###### Art. 57.º - 1 - As agências de viagens estão obrigadas a fornecer aos clientes os serviços solicitados ou anunciados nos respectivos programas, pelos preços e demais condições acordados, salvo se se mostrar impossível por causas não imputáveis à agência.
+Art. 57.º - 1 - As agências de viagens estão obrigadas a fornecer aos clientes os serviços solicitados ou anunciados nos respectivos programas, pelos preços e demais condições acordados, salvo se se mostrar impossível por causas não imputáveis à agência.
 
 2 - Para este efeito, consideram-se acordadas as condições desde que o cliente tenha manifestado por qualquer forma a sua adesão ou aceitação ao programa apresentado pela agência ou esta tenha confirmado os serviços solicitados.
 
-###### Art. 58.º Para efeitos do disposto no n.º 1 do artigo anterior, consideram-se causas justificativas do não cumprimento por parte das agências de viagens e turismo, entre outras, as seguintes:
+Art. 58.º Para efeitos do disposto no n.º 1 do artigo anterior, consideram-se causas justificativas do não cumprimento por parte das agências de viagens e turismo, entre outras, as seguintes:
 
 a) Os casos de força maior;
 
@@ -544,7 +574,7 @@ c) O aumento dos preços acordados com o cliente, se este não quiser aceitar, d
 
 d) Não terem os clientes inscritos alcançado o número inicialmente previsto, desde que tal condição tenha sido expressamente indicada no programa de serviço e este seja anulado com, pelo menos, dez dias de antecedência relativamente à data fixada para a sua realização.
 
-###### Art. 59.º - 1 - Se não for possível justificadamente prestar os serviços nas condições acordadas, a agência deverá propor ao cliente a sua substituição por outros de características, qualidade, categoria e preço semelhantes que esteja habilitada a prestar.
+Art. 59.º - 1 - Se não for possível justificadamente prestar os serviços nas condições acordadas, a agência deverá propor ao cliente a sua substituição por outros de características, qualidade, categoria e preço semelhantes que esteja habilitada a prestar.
 
 2 - No caso de o cliente não aceitar a substituição proposta, a agência deverá devolver-lhe todas as importâncias dele recebidas.
 
@@ -552,45 +582,45 @@ d) Não terem os clientes inscritos alcançado o número inicialmente previsto, 
 
 4 - Se se tratar de serviços solicitados pelo cliente, a agência poderá cobrar-lhe as despesas que tiver realizado para a sua concretização.
 
-###### Art. 60.º Se a agência não prestar a totalidade ou alguns dos serviços contratados nas condições acordadas, por causa que lhe seja imputável ou sem haver justificação para a falta, fica obrigada a devolver ao cliente a importância relativa aos serviços não prestados, sem prejuízo de outras responsabilidades a que o seu procedimento dê lugar.
+Art. 60.º Se a agência não prestar a totalidade ou alguns dos serviços contratados nas condições acordadas, por causa que lhe seja imputável ou sem haver justificação para a falta, fica obrigada a devolver ao cliente a importância relativa aos serviços não prestados, sem prejuízo de outras responsabilidades a que o seu procedimento dê lugar.
 
-###### Art. 61.º - 1 - Nas viagens turísticas colectivas, quando o cliente não possa terminar os serviços iniciados nas condições acordadas, mesmo por causas não imputáveis à agência, esta é obrigada a dar-lhe assistência até ao ponto de partida ou de chegada, conforme for o caso.
+Art. 61.º - 1 - Nas viagens turísticas colectivas, quando o cliente não possa terminar os serviços iniciados nas condições acordadas, mesmo por causas não imputáveis à agência, esta é obrigada a dar-lhe assistência até ao ponto de partida ou de chegada, conforme for o caso.
 
 2 - Da obrigação estabelecida no número anterior não poderão resultar para a agência quaisquer encargos financeiros, salvo se a situação lhe for imputável.
 
-###### Art. 62.º - 1 - As agências de viagens e turismo podem exigir dos clientes o pagamento antecipado dos serviços a prestar.
+Art. 62.º - 1 - As agências de viagens e turismo podem exigir dos clientes o pagamento antecipado dos serviços a prestar.
 
 2 - No caso de o cliente desistir do serviço acordado, a agência deve devolver a importância recebida, depois de deduzidos os encargos a que haja lugar em virtude da desistência, as despesas realizadas, incuindo as de anulação, e uma percentagem que pode ir até 15% do preço do serviço.
 
 3 - Os encargos e despesas referidos no número anterior têm de ser devidamente justificados.
 
-###### Art. 63.º - 1 - Nos contratos celebrados com uma agência de viagens e turismo, o cliente pode fazer-se substituir por outra pessoa na sua execução, se as cláusulas do contrato ou as normas reguladoras dos serviços a prestar o não impedirem expressamente.
+Art. 63.º - 1 - Nos contratos celebrados com uma agência de viagens e turismo, o cliente pode fazer-se substituir por outra pessoa na sua execução, se as cláusulas do contrato ou as normas reguladoras dos serviços a prestar o não impedirem expressamente.
 
 2 - No caso previsto no número anterior, o cliente deverá avisar a agência com, pelo menos, dois dias de antecedência em relação à data da prestação do serviço e indemnizá-lo das despesas causadas pela substituição.
 
-###### Art. 64.º - 1 - As agências de viagens são obrigadas a entregar aos clientes, no momento da confirmação dos respectivos contratos, todos os documentos necessários para o cliente poder obter os serviços contratados.
+Art. 64.º - 1 - As agências de viagens são obrigadas a entregar aos clientes, no momento da confirmação dos respectivos contratos, todos os documentos necessários para o cliente poder obter os serviços contratados.
 
 2 - As agências de viagens passarão obrigatoriamente aos clientes facturas, donde constem, discriminadamente, além do preço dos serviços, as despesas feitas para a sua obtenção e as respectivas taxas de serviço, quando a elas houver lugar.
 
-###### Art. 65.º - 1 - O Secretário de Estado do Turismo poderá fixar, por portaria, as taxas de serviço e demais formas de retribuição que as agências de viagens ficarão autorizadas a cobrar aos clientes pelos serviços prestados.
+Art. 65.º - 1 - O Secretário de Estado do Turismo poderá fixar, por portaria, as taxas de serviço e demais formas de retribuição que as agências de viagens ficarão autorizadas a cobrar aos clientes pelos serviços prestados.
 
 2 - Tratando-se de serviços tabelados, não é permitido às agências aplicar quaisquer percentagens sobre os respectivos preços, podendo no entanto cobrar dos clientes as despesas que eventualmente tenham realizado para a sua obtenção.
 
 ### CAPÍTULO VII — Das relações entre as agências de viagens e turismo e a indústria hoteleira
 
-###### Art. 66.º - 1 - Salvo convenção expressa em contrário, as relações entre as agências de viagens e turismo e as empresas da indústria hoteleira e similar e demais meios complementares de alojamento serão reguladas pelo disposto no presente diploma e suas disposições regulamentares.
+Art. 66.º - 1 - Salvo convenção expressa em contrário, as relações entre as agências de viagens e turismo e as empresas da indústria hoteleira e similar e demais meios complementares de alojamento serão reguladas pelo disposto no presente diploma e suas disposições regulamentares.
 
 2 - Supletivamente, serão aplicáveis a tais relações as normas constantes das convenções celebradas entre a Associação internacional de Hotéis (AIH) e a Federação Universal das Associações dos Agentes de Viagens (FUAAV) em tudo o que não forem contrárias às leis vigentes em Portugal e, na sua falta, os princípios gerais do direito português.
 
-###### Art. 67.º Os serviços prestados pelas empresas da indústria hoteleira e similar e demais meios complementares de alojamento aos clientes das agências de viagens serão perfeitamente iguais em qualidade e características aos prestados aos demais clientes daquelas empresas.
+Art. 67.º Os serviços prestados pelas empresas da indústria hoteleira e similar e demais meios complementares de alojamento aos clientes das agências de viagens serão perfeitamente iguais em qualidade e características aos prestados aos demais clientes daquelas empresas.
 
-###### Art. 68.º - 1 - As reservas nos estabelecimentos hoteleiros e meios complementares de alojamento deverão ser feitas ou confirmadas por escrito.
+Art. 68.º - 1 - As reservas nos estabelecimentos hoteleiros e meios complementares de alojamento deverão ser feitas ou confirmadas por escrito.
 
 2 - Os pedidos de reserva deverão indicar os serviços pretendidos e as respectivas datas.
 
 3 - A aceitação dos pedidos de reserva deverá indicar especificadamente os serviços a que se referem e os respectivos preços.
 
-###### Art. 69.º - 1 - A anulação das reservas deve ser feita ou confirmada por escrito, de acordo com as regras estabelecidas nos números seguintes.
+Art. 69.º - 1 - A anulação das reservas deve ser feita ou confirmada por escrito, de acordo com as regras estabelecidas nos números seguintes.
 
 2 - As agências de viagens poderão anular as reservas que tenham feito para serviços individuais, sem haver lugar ao pagamento de qualquer indemnização, desde que o façam com uma antecedência mínima de sete dias.
 
@@ -608,11 +638,11 @@ d) Com sete dias de antecedência, se for inferior a 10% das reservas feitas.
 
 5 - Os serviços são considerados individuais ou colectivos, conforme abranjam até dez ou mais pessoas.
 
-###### Art. 70.º - 1 - No caso de a agência de viagens anular as reservas sem observar os prazos fixados no artigo anterior, as empresas hoteleiras e as dos meios complementares de alojamento terão direito, a título de indemnização, a importância correspondente aos depósitos de garantia previstos no artigo seguinte por cada unidade de alojamento que não tenham podido ocupar.
+Art. 70.º - 1 - No caso de a agência de viagens anular as reservas sem observar os prazos fixados no artigo anterior, as empresas hoteleiras e as dos meios complementares de alojamento terão direito, a título de indemnização, a importância correspondente aos depósitos de garantia previstos no artigo seguinte por cada unidade de alojamento que não tenham podido ocupar.
 
 2 - Tratando-se de serviços colectivos, a indemnização prevista no número anterior será calculada por cada unidade de alojamento reservada e não ocupada, mas só quando o número de componentes do grupo for inferior em mais de 20% relativamente ao número confirmado nos termos do n.º 4 do artigo 69.º
 
-###### Art. 71.º - 1 - As empresas hoteleiras e as dos meios complementares de alojamento podem exigir às agências de viagens que estas prestem um depósito de garantia relativamente aos pedidos de reserva feitos.
+Art. 71.º - 1 - As empresas hoteleiras e as dos meios complementares de alojamento podem exigir às agências de viagens que estas prestem um depósito de garantia relativamente aos pedidos de reserva feitos.
 
 2 - Os depósitos previstos no número anterior não poderão exceder 20% do preço dos serviços pretendidos ou um dia de alojamento por cada oito dias de ocupação reservada e por cada quarto, apartamento ou outra unidade de alojamento, consoante os casos.
 
@@ -622,7 +652,7 @@ d) Com sete dias de antecedência, se for inferior a 10% das reservas feitas.
 
 ### CAPÍTULO VIII — Do exercício da actividade de agências de viagens e sua protecção
 
-###### Art. 72.º - 1 - Só as empresas licenciadas nos termos estabelecidos no presente diploma poderão usar as denominações de «agente de viagens», «agências de viagens» e «agências de viagens e turismo» e exercer as actividades próprias das agências de viagens.
+Art. 72.º - 1 - Só as empresas licenciadas nos termos estabelecidos no presente diploma poderão usar as denominações de «agente de viagens», «agências de viagens» e «agências de viagens e turismo» e exercer as actividades próprias das agências de viagens.
 
 2 - A infracção ao disposto no número anterior constitui exercício ilegal da actividade e implicará, obrigatoriamente, o encerramento imediato das instalações ou do estabelecimento onde tais actividades se verifiquem, bem como a apreensão dos meios utilizados.
 
@@ -630,15 +660,15 @@ d) Com sete dias de antecedência, se for inferior a 10% das reservas feitas.
 
 4 - As medidas previstas no n.º 2 serão executadas pelas autoridades policiais competentes, a solicitação da Direcção-Geral do Turismo.
 
-###### Art. 73.º À utilização indevida da denominação de «delegado de agência de viagens estrangeira» é aplicável o disposto no artigo 72.º, com as necessárias adaptações.
+Art. 73.º À utilização indevida da denominação de «delegado de agência de viagens estrangeira» é aplicável o disposto no artigo 72.º, com as necessárias adaptações.
 
-###### Art. 74.º - 1 - As agências de viagens e turismo não poderão usar denominações iguais às de outras já existentes ou por tal forma semelhantes que possam induzir em erro.
+Art. 74.º - 1 - As agências de viagens e turismo não poderão usar denominações iguais às de outras já existentes ou por tal forma semelhantes que possam induzir em erro.
 
 2 - Para efeitos do disposto no número anterior, a Direcção-Geral do Turismo poderá determinar a alteração da denominação da agência que abriu em último lugar, sem prejuízo dos direitos resultantes da propriedade industrial nos termos do respectivo código.
 
 3.º - A falta de cumprimento da determinação prevista no número anterior implica a suspensão imediata da actividade da agência, até se mostrar regularizada a situação.
 
-###### Art. 75.º - 1 - As agências de viagens e turismo não poderão praticar actos de concorrência contrários às normas e usos honestos de qualquer ramo de actividade económica.
+Art. 75.º - 1 - As agências de viagens e turismo não poderão praticar actos de concorrência contrários às normas e usos honestos de qualquer ramo de actividade económica.
 
 2 - Consideram-se contrários à disciplina da actividade e por isso expressamente proibidos:
 
@@ -658,27 +688,27 @@ g) A não observância dos preços e tarifas convencionados ou legalmente impost
 
 h) A falsa indicação da categoria da agência.
 
-###### Art. 76.º - 1 - A prática dos actos definidos no artigo anterior constitui concorrência desleal.
+Art. 76.º - 1 - A prática dos actos definidos no artigo anterior constitui concorrência desleal.
 
 2 - Qualquer acto de concorrência desleal será punido como contravenção com a multa de 10000$00 e prisão até um mês, sem prejuízo da responsabilidade civil emergente da prática de tais actos.
 
-###### Art. 77.º Para efeitos do disposto nos artigos anteriores, a Direcção-Geral do Turismo, ouvida a comissão consultiva prevista no artigo 79.º, apreciará os actos praticados e, se for caso disso, enviará a respectiva participação ao tribunal competente.
+Art. 77.º Para efeitos do disposto nos artigos anteriores, a Direcção-Geral do Turismo, ouvida a comissão consultiva prevista no artigo 79.º, apreciará os actos praticados e, se for caso disso, enviará a respectiva participação ao tribunal competente.
 
-###### Art. 78.º A Direcção-Geral do Turismo promoverá a edição de um guia de agências de viagens, com indicação da sua categoria e das respectivas sucursais, e bem assim a sua divulgação através dos centros de turismo no estrangeiro.
+Art. 78.º A Direcção-Geral do Turismo promoverá a edição de um guia de agências de viagens, com indicação da sua categoria e das respectivas sucursais, e bem assim a sua divulgação através dos centros de turismo no estrangeiro.
 
 ### CAPÍTULO IX — Da comissão consultiva
 
-###### Art. 79.º - 1 - É criada uma comissão consultiva destinada a colaborar com a Secretaria de Estado do Turismo e com os governos regionais na correcta execução e cumprimento das normas estabelecidas no presente diploma e suas disposições regulamentares, tendo em vista melhorar a qualidade da actividade profissional das agências de viagens.
+Art. 79.º - 1 - É criada uma comissão consultiva destinada a colaborar com a Secretaria de Estado do Turismo e com os governos regionais na correcta execução e cumprimento das normas estabelecidas no presente diploma e suas disposições regulamentares, tendo em vista melhorar a qualidade da actividade profissional das agências de viagens.
 
 2 - Esta comissão funcionará no âmbito do Conselho Nacional de Turismo.
 
-###### Art. 80.º - 1 - A comissão consultiva será composta por um representante do Secretário de Estado do Turismo, que presidirá, tendo como vogais permanentes o responsável pelos serviços de agências da Direcção-Geral do Turismo e um representante das associações empresariais das agências de viagens e turismo.
+Art. 80.º - 1 - A comissão consultiva será composta por um representante do Secretário de Estado do Turismo, que presidirá, tendo como vogais permanentes o responsável pelos serviços de agências da Direcção-Geral do Turismo e um representante das associações empresariais das agências de viagens e turismo.
 
 2 - Além dos membros referidos no número anterior tomarão parte nos trabalhos da comissão outros elementos especialmente convocados para o efeito, de acordo com os assuntos sobre os quais a comissão tenha de se pronunciar.
 
 3 - O responsável pelos serviços das agências de viagens da Direcção-Geral do Turismo substituirá o presidente da comissão nas suas faltas e impedimentos.
 
-###### Art. 81.º - 1 - A comissão consultiva tem como funções:
+Art. 81.º - 1 - A comissão consultiva tem como funções:
 
 a) Pronunciar-se sobre a oportunidade ou necessidade de as agências de viagens serem autorizadas a prestar outros serviços, bem como sobre as características destes;
 
@@ -708,19 +738,19 @@ n) Propor à Secretaria de Estado do Turismo medidas que considere oportunas e a
 
 2 - Para o exercício das suas funções, a comissão poderá ouvir as empresas e demais interessados e solicitar-lhes a apresentação de quaisquer elementos.
 
-###### Art. 82.º - 1 - A comissão consultiva será secretariada por um funcionário dos serviços das agências de viagens da Direcção-Geral do Turismo.
+Art. 82.º - 1 - A comissão consultiva será secretariada por um funcionário dos serviços das agências de viagens da Direcção-Geral do Turismo.
 
 2 - O expediente da comissão será assegurado pela secretaria do Conselho Nacional de Turismo.
 
 ### CAPÍTULO X — Da fiscalização e disciplina
 
-###### Art. 83.º - 1 - Compete à Secretaria de Estado do Turismo, pela Direcção-Geral do Turismo, disciplinar a actividade das agências de viagens e turismo e dos delegados das agências de viagens estrangeiras e bem assim fiscalizar a observância do disposto no presente diploma e suas normas regulamentares.
+Art. 83.º - 1 - Compete à Secretaria de Estado do Turismo, pela Direcção-Geral do Turismo, disciplinar a actividade das agências de viagens e turismo e dos delegados das agências de viagens estrangeiras e bem assim fiscalizar a observância do disposto no presente diploma e suas normas regulamentares.
 
 2 - No exercício da competência que lhe é atribuída no número anterior, a Direcção-Geral do Turismo deverá solicitar a colaboração da comissão consultiva de acordo com o estabelecido no artigo 81.º e sempre que o considere oportuno.
 
 3 - A fiscalização do cumprimento do disposto neste diploma e seus regulamentos sobre viagens turísticas rodoviárias competirá às autoridades competentes, nos termos da legislação de transportes terrestres.
 
-###### Art. 84.º - 1 - Os processos relativos às infracções ao disposto no presente diploma e suas disposições regulamentares serão instruídos pela Direcção-Geral do Turismo.
+Art. 84.º - 1 - Os processos relativos às infracções ao disposto no presente diploma e suas disposições regulamentares serão instruídos pela Direcção-Geral do Turismo.
 
 2 - Sempre que a conduta de uma agência de viagens e turismo infringir, simultaneamente, as normas do presente diploma e suas disposições regulamentares respeitantes às viagens turísticas e as reguladoras dos transportes terrestres ser-lhes-ão aplicáveis as que a punam com a sanção mais grave.
 
@@ -730,7 +760,7 @@ n) Propor à Secretaria de Estado do Turismo medidas que considere oportunas e a
 
 5 - Fora dos casos previstos no n.º 2, a Direcção-Geral do Turismo remeterá obrigatoriamente à Direcção-Geral de Transportes Terrestres as participações referentes a infracções às normas reguladoras dos transportes terrestres.
 
-###### Art. 85.º - 1 - A Direcção-Geral do Turismo organizará um registo nominativo das agências de viagens e turismo e dos delegados das agências estrangeiras.
+Art. 85.º - 1 - A Direcção-Geral do Turismo organizará um registo nominativo das agências de viagens e turismo e dos delegados das agências estrangeiras.
 
 2 - Do registo deverão constar, alem dos elementos necessários à caracterização económico-jurídica das agências de viagens e turismo e à identificação dos delegados, os seguintes:
 
@@ -740,7 +770,7 @@ b) As reclamações apresentadas contra a agência;
 
 c) As sanções aplicadas.
 
-###### Art. 86.º - 1 - As agências de viagens e turismo e os delegados das agências estrangeiras são obrigados a enviar à Direcção-Geral do Turismo, até 31 de Janeiro de cada ano, informação quantitativa do movimento de pessoas que viajaram por seu intermédio no ano anterior, indicando as respectivas nacionalidades e os países de origem ou destino.
+Art. 86.º - 1 - As agências de viagens e turismo e os delegados das agências estrangeiras são obrigados a enviar à Direcção-Geral do Turismo, até 31 de Janeiro de cada ano, informação quantitativa do movimento de pessoas que viajaram por seu intermédio no ano anterior, indicando as respectivas nacionalidades e os países de origem ou destino.
 
 2 - Além das informações previstas no número anterior, os serviços poderão solicitar às agências quaisquer outras que considerem necessárias para o exercício da sua acção.
 
@@ -750,7 +780,7 @@ c) As sanções aplicadas.
 
 ### CAPÍTULO XI — Das infracções e sua sanção
 
-###### Art. 87.º - 1 - Sem prejuízo da responsabilidade civil emergente dos actos praticados, as infracções ao disposto no presente decreto-lei e seus regulamentos serão punidas administrativamente com as seguintes sanções:
+Art. 87.º - 1 - Sem prejuízo da responsabilidade civil emergente dos actos praticados, as infracções ao disposto no presente decreto-lei e seus regulamentos serão punidas administrativamente com as seguintes sanções:
 
 a) Advertência;
 
@@ -774,7 +804,7 @@ i) Cassação do alvará.
 
 3 - As agências de viagens estrangeiras são solidariamente responsáveis pelo pagamento das multas aplicadas aos seus delegados.
 
-###### Art. 88.º - 1 - A aplicação das multas e das sanções estabelecidas nas alínea a) a d) f) e h) do n.º 1 do artigo anterior são da competência do director-geral do Turismo.
+Art. 88.º - 1 - A aplicação das multas e das sanções estabelecidas nas alínea a) a d) f) e h) do n.º 1 do artigo anterior são da competência do director-geral do Turismo.
 
 2 - A aplicação das restantes sanções é da competência do Secretário de Estado do Turismo.
 
@@ -782,13 +812,13 @@ i) Cassação do alvará.
 
 4 - O recurso contencioso interposto, nos termos da lei geral, da decisão que aplique as sanções previstas no n.º 1 do artigo anterior não terá efeito suspensivo.
 
-###### Art. 89.º Na falta de pagamento voluntário da multa aplicada, os respectivos processos serão enviados ao tribunal competente para julgamento.
+Art. 89.º Na falta de pagamento voluntário da multa aplicada, os respectivos processos serão enviados ao tribunal competente para julgamento.
 
-###### Art. 90.º - 1 - As sanções serão fixadas, dentro dos limites estabelecidos, tendo em atenção a natureza e circunstâncias da infracção, o prejuízo ou risco de prejuízo para o turismo nacional, ou para qualquer outra actividade económica, os antecedentes do infractor e ainda, quando se tratar de multa, a sua capacidade económica.
+Art. 90.º - 1 - As sanções serão fixadas, dentro dos limites estabelecidos, tendo em atenção a natureza e circunstâncias da infracção, o prejuízo ou risco de prejuízo para o turismo nacional, ou para qualquer outra actividade económica, os antecedentes do infractor e ainda, quando se tratar de multa, a sua capacidade económica.
 
 2 - Quando a gravidade ou as circunstâncias da infracção no caso concreto assim o aconselharem, poderá ser decidido que seja dada publicidade, através dos órgãos de informação, à sanção aplicada.
 
-###### Art. 91.º - 1 - Independentemente da aplicação de qualquer das sanções previstas neste diploma, a Direcção-Geral do Turismo cobrará das empresas as importâncias indevidamente recebidas, providenciando no sentido da sua restituição aos interessados.
+Art. 91.º - 1 - Independentemente da aplicação de qualquer das sanções previstas neste diploma, a Direcção-Geral do Turismo cobrará das empresas as importâncias indevidamente recebidas, providenciando no sentido da sua restituição aos interessados.
 
 2 - Quando a restituição for inviável por facto imputável ao interessado, a importância reverterá para o Fundo de Turismo.
 
@@ -796,9 +826,9 @@ i) Cassação do alvará.
 
 ### CAPÍTULO XII — Disposições finais e transitórias
 
-###### Art. 92.º Serão fixadas em regulamento as taxas devidas pela concessão de licenças e autorizações e pela realização de quaisquer vistorias.
+Art. 92.º Serão fixadas em regulamento as taxas devidas pela concessão de licenças e autorizações e pela realização de quaisquer vistorias.
 
-###### Art. 93. - 1 - As agência de viagens legalmente existentes à data da entrada em vigor deste diploma ficam dispensadas das novas exigências no que respeita ao limite mínimo do capital social, devendo, no entanto, dar cumprimento às restantes disposições deste decreto-lei e suas disposições regulamentares no prazo de três anos.
+Art. 93. - 1 - As agência de viagens legalmente existentes à data da entrada em vigor deste diploma ficam dispensadas das novas exigências no que respeita ao limite mínimo do capital social, devendo, no entanto, dar cumprimento às restantes disposições deste decreto-lei e suas disposições regulamentares no prazo de três anos.
 
 2 - Os actuais responsáveis pela direcção técnica das agências deverão solicitar a sua legalização nos termos deste diploma no prazo máximo de seis meses, contar da data da entrada em vigor deste diploma.
 
@@ -806,30 +836,30 @@ i) Cassação do alvará.
 
 4 - O aumento do capital social necessário para dar cumprimento ao disposto no n.º 2 do artigo 37.º pode ser realizado por incorporação de reservas e pela reavaliação do activo das empresas nos termos previstos no [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro.
 
-###### Art. 94.º - 1 - A obrigatoriedade do seguro previsto no artigo 29.º só entrará em vigor com a aprovação da apólice a que se refere o n.º 4 do mesmo artigo.
+Art. 94.º - 1 - A obrigatoriedade do seguro previsto no artigo 29.º só entrará em vigor com a aprovação da apólice a que se refere o n.º 4 do mesmo artigo.
 
 2 - As agências de viagens deverão ter o seguro efectuado no prazo máximo de três meses a contar da data da sua entrada em vigor.
 
-###### Art. 95.º Enquanto não estiver reestruturado o Conselho Nacional de Turismo, o expediente da comissão consultiva será assegurado pela Direcção-Geral do Turismo.
+Art. 95.º Enquanto não estiver reestruturado o Conselho Nacional de Turismo, o expediente da comissão consultiva será assegurado pela Direcção-Geral do Turismo.
 
-###### Art. 96.º - 1 - As empresas que exerçam a actividade de agência de viagens «grossista» deverão apresentar o respectivo pedido de legalização no prazo de seis meses, contado da data da entrada em vigor deste diploma.
+Art. 96.º - 1 - As empresas que exerçam a actividade de agência de viagens «grossista» deverão apresentar o respectivo pedido de legalização no prazo de seis meses, contado da data da entrada em vigor deste diploma.
 
 2 - O despacho que conceder a licença fixará o prazo em que a empresa deve dar satisfação a todos os requisitos exigidos no presente diploma, o qual não poderá exceder três anos.
 
 3 - É aplicável a estas empresas o disposto nos n.os 2 e 3 do artigo 93.º
 
-###### Art. 97.º - 1 - Sem prejuízo do disposto nos artigos anteriores, as agências de viagens existentes serão oficiosamente classificadas como «operadores» e «retalhistas», consoante sejam agências de classe A ou B.
+Art. 97.º - 1 - Sem prejuízo do disposto nos artigos anteriores, as agências de viagens existentes serão oficiosamente classificadas como «operadores» e «retalhistas», consoante sejam agências de classe A ou B.
 
 2 - O não cumprimento do disposto no artigo 93.º determinará a caducidade automática da respectiva licença e consequente cassação do alvará.
 
-###### Art. 98.º A competência atribuída pelo presente diploma ao Governo Central e seus serviços entende-se conferida, para as regiões autónomas, aos governos regionais e seus serviços, de acordo com as respectivas competências.
+Art. 98.º A competência atribuída pelo presente diploma ao Governo Central e seus serviços entende-se conferida, para as regiões autónomas, aos governos regionais e seus serviços, de acordo com as respectivas competências.
 
-###### Art. 99.º O presente decreto-lei entra em vigor com o diploma que o regulamentar, considerando-se revogados, a partir dessa data, o [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e o [Decreto n.º 363/73](https://diariodarepublica.pt/dr/detalhe/decreto/363-1973-421616), de 18 de Julho.
+Art. 99.º O presente decreto-lei entra em vigor com o diploma que o regulamentar, considerando-se revogados, a partir dessa data, o [Decreto-Lei n.º 478/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1972-686581), de 28 de Novembro, e o [Decreto n.º 363/73](https://diariodarepublica.pt/dr/detalhe/decreto/363-1973-421616), de 18 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 31 de Maio de 1979. - Carlos Alberto da Mota Pinto - Lino Dias Miguel - Henrique Afonso da Silva Horta - Manuel Jacinto Nunes - Abel Pinto Repolho Correia - José Ricardo Marques da Costa.
 
-**Promulgado em 25 de Julho de 1979.**
+Promulgado em 25 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

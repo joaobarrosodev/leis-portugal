@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/176-1973-673823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52b07f95b1a393e6697efad6a27fa157f6d3cd120082ec74bc9e01c43fcfcfda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbe9ab0e901f3fd11a6b25dc7990bddcbe87f9409de756c028d72f71c6735ba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:57Z'
   warnings: []
   errors: []
 ---
@@ -95,28 +95,28 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º A licença graciosa prevista nos artigos 221.º e seguintes do Estatuto do Funcionalismo Ultramarino, a que tiver direito o pessoal docente dos quadros do ensino primário, do ciclo preparatório, secundário (liceal e técnico) e do ensino médio do ultramar, passa a regular-se pelo presente decreto.
+Artigo 1.º A licença graciosa prevista nos artigos 221.º e seguintes do Estatuto do Funcionalismo Ultramarino, a que tiver direito o pessoal docente dos quadros do ensino primário, do ciclo preparatório, secundário (liceal e técnico) e do ensino médio do ultramar, passa a regular-se pelo presente decreto.
 
-###### Art. 2.º - 1. Ao fim de cada dois anos de efectivo serviço no ultramar o pessoal referido no artigo 1.º terá direito ao gozo de uma licença graciosa, com passagens à custa do Estado, que poderá ser gozada na metrópole ou noutra província e que corresponderá ao período das férias escolares entre dois anos lectivos.
+Art. 2.º - 1. Ao fim de cada dois anos de efectivo serviço no ultramar o pessoal referido no artigo 1.º terá direito ao gozo de uma licença graciosa, com passagens à custa do Estado, que poderá ser gozada na metrópole ou noutra província e que corresponderá ao período das férias escolares entre dois anos lectivos.
 
 2. O direito à primeira licença só se adquirirá depois de decorridos dois anos escolares completos de exercício efectivo de funções docentes.
 
 3. Não é aplicável à licença prevista neste decreto o disposto no § 3.º do artigo 221.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 3.º O pessoal docente que neste momento se encontre no gozo de licença graciosa poderá completá-la nos termos da lei actualmente em vigor, a qual será também aplicável ao que já tenha adquirido o direito ao gozo da mesma licença segundo a referida lei, desde que requeira a sua concessão no prazo de sessenta dias, a partir da entrada em vigor do presente diploma na província respectiva.
+Art. 3.º O pessoal docente que neste momento se encontre no gozo de licença graciosa poderá completá-la nos termos da lei actualmente em vigor, a qual será também aplicável ao que já tenha adquirido o direito ao gozo da mesma licença segundo a referida lei, desde que requeira a sua concessão no prazo de sessenta dias, a partir da entrada em vigor do presente diploma na província respectiva.
 
-###### Art. 4.º Quando o cônjuge do docente a que se refere o presente decreto for funcionário sujeito ao Estatuto do Funcionalismo Ultramarino, poderá renunciar ao regime geral das licenças graciosas estabelecido no mesmo Estatuto e optar pelo deste diploma, mediante requerimento apresentado nos próprios serviços.
+Art. 4.º Quando o cônjuge do docente a que se refere o presente decreto for funcionário sujeito ao Estatuto do Funcionalismo Ultramarino, poderá renunciar ao regime geral das licenças graciosas estabelecido no mesmo Estatuto e optar pelo deste diploma, mediante requerimento apresentado nos próprios serviços.
 
-###### Art. 5.º Os vencimentos a que o pessoal docente abrangido por este diploma tem direito durante a licença nele prevista são o base e o complementar da província em que se encontre colocado.
+Art. 5.º Os vencimentos a que o pessoal docente abrangido por este diploma tem direito durante a licença nele prevista são o base e o complementar da província em que se encontre colocado.
 
-###### Art. 6.º As disposições do Estatuto do Funcionalismo Ultramarino sobre licenças graciosas são aplicáveis à licença prevista neste diploma, desde que não contrariem o que nele se contém.
+Art. 6.º As disposições do Estatuto do Funcionalismo Ultramarino sobre licenças graciosas são aplicáveis à licença prevista neste diploma, desde que não contrariem o que nele se contém.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Abril de 1973.**
+Promulgado em 4 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

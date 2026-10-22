@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/06400/03530354.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1974-412432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d6654f8abf116973abaff0084b52f0555e0b368aaecaa73ab1a2a4d49dacba6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2410c94bd95ec579fdac18418aa0269ccf8a1d1ff9cf1603b8c6e0b79422e98f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Exército
+- Fardamento
+- Força Aérea
+- Forças Armadas
+- Formação Profissional
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:469231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559993:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388376:por
+  label: "Revogado o artigo 1.º do presente diploma, pelo DEC LEI.47/81.11.03.1981.CR, DR.IS [58] de 11.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1981-388376
+  date: '1981-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:17Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +124,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Aos mancebos que no Exército, na Armada ou na Força Aérea recebam preparação com destino a furriéis ou subsargentos do quadro de complemento será fornecida, aquando da sua promoção a estes postos e mediante propostas apresentadas até 30 de Novembro, uma dotação de uniformes, a qual será fixada anualmente para cada ramo das forças armadas por portaria conjunta do Ministro da Defesa Nacional e do titular do departamento respectivo.
+Artigo 1.º Aos mancebos que no Exército, na Armada ou na Força Aérea recebam preparação com destino a furriéis ou subsargentos do quadro de complemento será fornecida, aquando da sua promoção a estes postos e mediante propostas apresentadas até 30 de Novembro, uma dotação de uniformes, a qual será fixada anualmente para cada ramo das forças armadas por portaria conjunta do Ministro da Defesa Nacional e do titular do departamento respectivo.
 
-###### Art. 2.º Aos mesmos indivíduos serão fornecidos pelo Estado, por empréstimo, os artigos de equipamento que se tornem necessários.
+Art. 2.º Aos mesmos indivíduos serão fornecidos pelo Estado, por empréstimo, os artigos de equipamento que se tornem necessários.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 8 de Março de 1974.**
+Promulgado em 8 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

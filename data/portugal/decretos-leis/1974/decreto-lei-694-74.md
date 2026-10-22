@@ -48,40 +48,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16cfca57f2d46f6eb5ea9d3f55c9d6747e1ef49b865a1cecc3bd7b49fe383cb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f182fa57dee5c6f3cd0f6f7356e4be350061bcc9c9c8258b953549f7fcf4a72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral da Educação Física e Desportos
+- Direcção Geral do Ensino Básico
+- Direcção Geral do Ensino Secundário
+- Direcção Geral dos Desportos
+- Educação Física
+- Fundo de Fomento do Desporto
 relationships:
 - type: amended_by
   target: pt:dre:178350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178350:por
+  label: "Aditada a al. h) ao nº 2 do art. 1º do Dec Lei 193/73, de 30-Abr, na redacção dada pelo art. 7º do presente diploma,\
+    \ pelo DEC LEI.389/85.09.10.1985.PCM, DR.IS [232] de 09.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1985-178350
+  date: '1985-10-09'
+- type: cites
+  target: pt:dre:421995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:277804:por
+  label: "Revogadas as als. b) e c) do nº1 do art. 3º do Dec Lei 82/73, de 03-Mar, na redacção do presente diploma, pelo DEC\
+    \ LEI.453/77.29.10.1977.MEIC, DR.IS [251] de 29.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/453-1977-277804
+  date: '1977-10-29'
+- type: repealed_by
+  target: pt:dre:404478:por
+  label: "Revogados os arts. 2º, 3º e 5º pelo DEC LEI.554/77.31.12.1977.MEIC, DR.IS [302-2ºSupl] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/554-1977-404478
+  date: '1977-12-31'
+- type: repealed_by
+  target: pt:dre:404488:por
+  label: "Revogados os arts. 1º, 4º e 6º pelo DEC LEI.553/77.31.12.1977.MEIC, DR.IS [302-2ºSupl] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1977-404488
+  date: '1977-12-31'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:28Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +153,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral da Educação Física e Desportos passa a designar-se por Direcção-Geral dos Desportos.
+Artigo 1.º A Direcção-Geral da Educação Física e Desportos passa a designar-se por Direcção-Geral dos Desportos.
 
-###### Art. 2.º As atribuições e competências cometidas pelo [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, à Direcção-Geral da Educação Física e Desportos no que se refere à orientação pedagógica da educação física passam, conforme o grau de ensino ministrado, para a Direcção-Geral do Ensino Básico e Direcção-Geral do Ensino Secundário.
+Art. 2.º As atribuições e competências cometidas pelo [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, à Direcção-Geral da Educação Física e Desportos no que se refere à orientação pedagógica da educação física passam, conforme o grau de ensino ministrado, para a Direcção-Geral do Ensino Básico e Direcção-Geral do Ensino Secundário.
 
-###### Art. 3.º A Direcção-Geral do Ensino Básico, a Direcção-Geral do Ensino Secundário, a Direcção-Geral dos Desportos e a Direcção-Geral da Administração Escolar estabelecerão entre si a mais estreita colaboração em ordem a assegurarem que as instalações e demais equipamento gimnodesportivo afectos a cada grau e ramo de ensino sejam adequadamente utilizados pelos restantes.
+Art. 3.º A Direcção-Geral do Ensino Básico, a Direcção-Geral do Ensino Secundário, a Direcção-Geral dos Desportos e a Direcção-Geral da Administração Escolar estabelecerão entre si a mais estreita colaboração em ordem a assegurarem que as instalações e demais equipamento gimnodesportivo afectos a cada grau e ramo de ensino sejam adequadamente utilizados pelos restantes.
 
-###### Art. 4.º Os artigos 3.º, 9.º, 23.º e 25.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, passam a ter as seguintes redacções:
+Art. 4.º Os artigos 3.º, 9.º, 23.º e 25.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, passam a ter as seguintes redacções:
 
-###### Art. 3.º - 1. No âmbito do desporto escolar compete à Direcção-Geral dos Desportos:
+Art. 3.º - 1. No âmbito do desporto escolar compete à Direcção-Geral dos Desportos:
 
 a) Relativamente ao desporto não universitário, dirigir e regulamentar as actividades desportivas escolares e juvenis não federadas;
 
@@ -120,7 +169,7 @@ b) Relativamente ao desporto universitário, e depois de ouvir a Direcção-Gera
 
 c) Enquanto não for possível dotar cada uma das Universidades de Lisboa com instalações desportivas próprias competirá à Direcção-Geral dos Desportos a organização do desporto universitário nesta cidade, estabelecendo com as mesmas colaboração nos termos fixados por despacho ministerial.
 
-###### Art. 9.º - 1. Compete especialmente à Divisão do Desporto Juvenil:
+Art. 9.º - 1. Compete especialmente à Divisão do Desporto Juvenil:
 
 a) Superintender em toda a actividade desportiva juvenil, fora do âmbito do desporto escolar, zelando pela observância das normas que garantam o pleno valor educativo e cultural do desporto;
 
@@ -130,19 +179,19 @@ c) Promover, dirigir e regulamentar as acções de formação de quadros desport
 
 2. A Divisão do Desporto Juvenil exercerá as suas funções de forma coordenada com os serviços que, no Fundo de Apoio aos Organismos Juvenis, se ocupam de actividades ao ar livre e de apoio aos organismos e centros de juventude.
 
-###### Art. 23.º - 1. O Ministro da Educação e Cultura pode autorizar que sejam destacados para a Direcção-Geral dos Desportos, por períodos de tempo até três anos, em regime de tempo parcial ou integral, professores de Educação Física dos estabelecimentos de ensino dependentes do Ministério da Educação e Cultura, para assegurarem a coordenação e execução local ou nacional dos planos de desenvolvimento desportivo escolar nos ensinos primário, preparatório e secundário, considerando-se para todos os efeitos legais como serviço docente o que prestam nestas condições.
+Art. 23.º - 1. O Ministro da Educação e Cultura pode autorizar que sejam destacados para a Direcção-Geral dos Desportos, por períodos de tempo até três anos, em regime de tempo parcial ou integral, professores de Educação Física dos estabelecimentos de ensino dependentes do Ministério da Educação e Cultura, para assegurarem a coordenação e execução local ou nacional dos planos de desenvolvimento desportivo escolar nos ensinos primário, preparatório e secundário, considerando-se para todos os efeitos legais como serviço docente o que prestam nestas condições.
 
 2. Os professores destacados nos termos do número anterior têm direito a uma gratificação mensal de 2000$00 ou 1000$00, consoante prestarem serviço em regime de tempo integral ou parcial.
 
-###### Art. 25.º - 1. Fica o Ministro da Educação e Cultura autorizado a contratar como monitores de desportos, por força das verbas inscritas no orçamento para «Pessoal contratado não pertencente aos quadros», praticantes ou antigos praticantes de reconhecida idoneidade.
+Art. 25.º - 1. Fica o Ministro da Educação e Cultura autorizado a contratar como monitores de desportos, por força das verbas inscritas no orçamento para «Pessoal contratado não pertencente aos quadros», praticantes ou antigos praticantes de reconhecida idoneidade.
 
 2. Os monitores de desportos serão contratados pelo período de um ano, prorrogável por novos períodos de igual duração, mediante despacho ministerial.
 
 3. Aos monitores de desporto é exigida a escolaridade obrigatória e perceberão uma gratificação mensal de 4200$00.
 
-###### Art. 5.º É extinto o lugar de inspector superior de Educação Física na Direcção-Geral dos Desportos e acrescentado um lugar de inspector superior no quadro da Direcção-Geral do Ensino Secundário.
+Art. 5.º É extinto o lugar de inspector superior de Educação Física na Direcção-Geral dos Desportos e acrescentado um lugar de inspector superior no quadro da Direcção-Geral do Ensino Secundário.
 
-###### Art. 6.º - 1. A Divisão de Educação Física e Desportos da Direcção-Geral dos Desportos passará a designar-se Divisão do Desporto Escolar.
+Art. 6.º - 1. A Divisão de Educação Física e Desportos da Direcção-Geral dos Desportos passará a designar-se Divisão do Desporto Escolar.
 
 2. Compete especialmente à Divisão do Desporto Escolar:
 
@@ -156,7 +205,7 @@ d) Promover todos os tipos de acção tendentes a melhorar a qualidade educativa
 
 3. A Divisão do Desporto Escolar exercerá as suas funções em íntima colaboração e numa acção coordenada com os serviços de orientação pedagógica das direcções-gerais do ensino que superintendem na educação física.
 
-###### Art. 7.º Ao n.º 2 do artigo 1.º do [Decreto-Lei n.º 193/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1973-421995), de 30 de Abril, é aditada uma alínea g) com a seguinte redacção:
+Art. 7.º Ao n.º 2 do artigo 1.º do [Decreto-Lei n.º 193/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1973-421995), de 30 de Abril, é aditada uma alínea g) com a seguinte redacção:
 
 ###### Artigo 1.º - 1. ...
 
@@ -166,9 +215,9 @@ d) Promover todos os tipos de acção tendentes a melhorar a qualidade educativa
 
 g) Prestar apoio financeiro, designadamente através da concessão de empréstimos e subsídios, a quaisquer realizações, iniciativas ou empreendimentos levados a efeito por entidades públicas ou privadas que visem a promoção da prática desportiva, entendida como actividade cultural das populações.
 
-###### Art. 8.º - 1. As alíneas c) e d) do artigo 19.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, passam a ter a seguinte redacção:
+Art. 8.º - 1. As alíneas c) e d) do artigo 19.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 ...
 
@@ -178,24 +227,24 @@ d) Os inspectores-orientadores de 2.ª classe serão nomeados pelo Ministro da E
 
 2. O artigo 20.º, n.º 1, do referido [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008) passa a ter a seguinte redacção:
 
-###### Art. 20.º - 1. O Ministro da Educação e Cultura pode autorizar que, para o exercício de funções inspectivas e pedagógicas especificadas, sejam destacados para a Direcção-Geral por períodos de três anos, renováveis, indivíduos que satisfaçam qualquer das condições enunciadas na alínea c) do n.º 1 do artigo 19.º, em número igual ao das vagas existentes no quadro dos inspectores-orientadores.
+Art. 20.º - 1. O Ministro da Educação e Cultura pode autorizar que, para o exercício de funções inspectivas e pedagógicas especificadas, sejam destacados para a Direcção-Geral por períodos de três anos, renováveis, indivíduos que satisfaçam qualquer das condições enunciadas na alínea c) do n.º 1 do artigo 19.º, em número igual ao das vagas existentes no quadro dos inspectores-orientadores.
 
-###### Art. 9.º A alínea b) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), de 12 de Fevereiro, passa ter a seguinte redacção:
+Art. 9.º A alínea b) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), de 12 de Fevereiro, passa ter a seguinte redacção:
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 ...
 
 b) Os lugares de inspector superior, inspector-chefe e inspector-orientador serão providos por escolha do Ministro da Educação e Cultura de entre funcionários de categoria imediatamente inferior, de entre professores do ensino secundário, efectivos ou em condições de efectividade, ou de entre licenciados que tenham obtido qualificações especializadas em escolas nacionais ou estrangeiras de reconhecido mérito.
 
-###### Art. 10.º São revogados o [Decreto n.º 46912](https://diariodarepublica.pt/dr/detalhe/decreto/46912-1966-486877), de 19 de Março de 1966, assim como o artigo 2.º e artigo 18.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451).
+Art. 10.º São revogados o [Decreto n.º 46912](https://diariodarepublica.pt/dr/detalhe/decreto/46912-1966-486877), de 19 de Março de 1966, assim como o artigo 2.º e artigo 18.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451).
 
-###### Art. 11.º Este diploma entra imediatamente em vigor.
+Art. 11.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Vitorino Magalhães Godinho.
 
-**Promulgado em 27 de Novembro de 1974.**
+Promulgado em 27 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

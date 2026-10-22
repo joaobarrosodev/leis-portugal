@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43545-1961-560035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d81ad3c0d784552a05c86579cc7d3edbac5f2b9b01a70c487e2537023167aa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1a85b3467291615b42e1e3c762444fd31132945d3a9c5f771a80785ff807698
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Técnica
+- Criação de Serviços
+- Dador de Sangue
+- Definição de Competências
+- Forças Armadas
+- Quadro de Pessoal
+- Secretariado Geral da Defesa Nacional
+relationships:
+- type: cites
+  target: pt:dre:521842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522046:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:00Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +125,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Serviço de Transfusão de Sangue das Forças Armadas, com a finalidade essencial de, quer em tempo de paz, quer em tempo de guerra, satisfazer as necessidades destas forças em tudo que se relacione com a prática de transfusão de sangue total, de plasma e de elementos figurados e com o emprego de derivados.
+Artigo 1.º É criado o Serviço de Transfusão de Sangue das Forças Armadas, com a finalidade essencial de, quer em tempo de paz, quer em tempo de guerra, satisfazer as necessidades destas forças em tudo que se relacione com a prática de transfusão de sangue total, de plasma e de elementos figurados e com o emprego de derivados.
 
 § único. Poderão ser integrados neste Serviço outros métodos de reanimação, logo que se reconheça a sua conveniência.
 
-###### Art. 2.º O Serviço de Transfusão de Sangue das Forças Armadas funciona na dependência directa do Secretariado-Geral da Defesa Nacional e em íntima ligação com as Direcções dos Serviços de Saúde do Exército e da Força Aérea e com a Inspecção de Saúde Naval, competindo-lhe especialmente:
+Art. 2.º O Serviço de Transfusão de Sangue das Forças Armadas funciona na dependência directa do Secretariado-Geral da Defesa Nacional e em íntima ligação com as Direcções dos Serviços de Saúde do Exército e da Força Aérea e com a Inspecção de Saúde Naval, competindo-lhe especialmente:
 
 a) Coordenar, orientar e fiscalizar as actividades militares relacionadas com a colheita, preparação e fornecimento de sangue e seus derivados;
 
@@ -138,7 +153,7 @@ j) Promover a uniformização das técnicas de transfusão e laboratoriais, das 
 
 l) Promover o necessário intercâmbio com os serviços congéneres nacionais e estrangeiros.
 
-###### Art. 3.º O Serviço de Transfusão de Sangue das Forças Armadas compreende:
+Art. 3.º O Serviço de Transfusão de Sangue das Forças Armadas compreende:
 
 a) Um organismo central designado por Chefia do Serviço de Transfusão de Sangue das Forças Armadas;
 
@@ -146,11 +161,11 @@ b) Centros de transfusão de sangue, integrados em órgãos dos serviços de sa�
 
 c) Postos de transfusão de sangue, integrados em órgãos dos serviços de saúde das forças armadas e na dependência técnica dos centros de transfusão de sangue.
 
-###### Art. 4.º A Chefia do Serviço é responsável pelo eficiente desempenho das atribuições que competem ao Serviço de Transfusão de Sangue e que constam do artigo 2.º
+Art. 4.º A Chefia do Serviço é responsável pelo eficiente desempenho das atribuições que competem ao Serviço de Transfusão de Sangue e que constam do artigo 2.º
 
 § único. As determinações da Chefia aos órgãos de execução, integrados nos serviços de saúde dos três ramos das forças armadas e às inspecções aos mesmos órgãos, serão exclusivamente de natureza técnica e feitas sempre com conhecimento prévio dos directores dos serviços de saúde do Exército e da Força Aérea ou do inspector de Saúde Naval, conforme os casos.
 
-###### Art. 5.º A Chefia do Serviço de Transfusão de Sangue das Forças Armadas compreende:
+Art. 5.º A Chefia do Serviço de Transfusão de Sangue das Forças Armadas compreende:
 
 a) Chefe do Serviço;
 
@@ -168,13 +183,13 @@ g) Conselho administrativo.
 
 § único. Compete ao chefe do Estado-Maior-General das Forças Armadas a designação de chefe do Serviço de Transfusão de Sangue.
 
-###### Art. 6.º Ao chefe do Serviço compete:
+Art. 6.º Ao chefe do Serviço compete:
 
 a) Accionar os vários órgãos do serviço, por cujo eficiente funcionamento é responsável, e controlar as suas actividades;
 
 b) Inspeccionar periòdicamente os centros e postos de transfusão.
 
-###### Art. 7.º Ao subchefe do Serviço compete:
+Art. 7.º Ao subchefe do Serviço compete:
 
 a) Coadjuvar o chefe do Serviço, especialmente no que se refere ao accionamento dos elementos constitutivos da Chefia do Serviço, e substituí-lo durante os seus impedimentos;
 
@@ -182,7 +197,7 @@ b) Exercer as funções do presidente do conselho administrativo;
 
 c) Dirigir a secção de estudos, propaganda e instrução.
 
-###### Art. 8.º À secretaria compete:
+Art. 8.º À secretaria compete:
 
 a) Receber, distribuir e expedir toda a correspondência da Chefia do Serviço;
 
@@ -196,7 +211,7 @@ e) Elaborar e manter em dia o cadastro geral dos militares dadores, a fim de est
 
 f) Realizar o expediente relativo às propostas para a atribuição de medalhas, louvores e outras recompensas.
 
-###### Art. 9.º À secção de estudos, propaganda e instrução compete:
+Art. 9.º À secção de estudos, propaganda e instrução compete:
 
 a) Levar a efeito trabalhos de investigação científica relacionados com a actividade do Serviço;
 
@@ -206,7 +221,7 @@ c) Realizar a propaganda da doação de sangue por todos os meios julgados conve
 
 d) Definir e orientar a instrução especializada.
 
-###### Art. 10.º Aos serviços clínicos compete:
+Art. 10.º Aos serviços clínicos compete:
 
 a) Proceder ao exame médico dos dadores;
 
@@ -214,7 +229,7 @@ b) Manter uma consulta de doenças de sangue;
 
 c) Realizar transfusões de sangue, de plasma e de derivados e ministrar a instrução prática relativa a estes trabalhos.
 
-###### Art. 11.º Aos laboratórios compete:
+Art. 11.º Aos laboratórios compete:
 
 a) Executar os exames laboratoriais de rotina e as análises clínicas requeridas pelo estudo dos candidatos a dadores e dos doentes;
 
@@ -234,7 +249,7 @@ h) Preparar soros de convalescentes;
 
 i) Proceder a estudos dos substitutos de sangue.
 
-###### Art. 12.º Ao conselho administrativo compete:
+Art. 12.º Ao conselho administrativo compete:
 
 a) Superintender, sob a orientação do subchefe do Serviços, em todos os actos de administração da Chefia do Serviço;
 
@@ -248,13 +263,13 @@ e) Cumprir e fazer cumprir as disposições regulamentares e ainda as instruçõ
 
 § único. Ao conselho administrativo da Chefia do Serviço de Transfusão de Sangue das Forças Armadas são aplicáveis, sempre que tal procedimento se justifique, as normas administrativas seguidas pelo conselho administrativo do Secretariado-Geral da Defesa Nacional.
 
-###### Art. 13.º Em tempo de paz, o quadro do pessoal da Chefia do Serviço de Transfusão de Sangue das Forças Armadas é o constante do mapa anexo n.º 1.
+Art. 13.º Em tempo de paz, o quadro do pessoal da Chefia do Serviço de Transfusão de Sangue das Forças Armadas é o constante do mapa anexo n.º 1.
 
 § 1.º As alterações a este quadro poderão ser feitas por portaria dos Ministros da Defesa Nacional, do Exército e da Marinha, referendada pelo Ministro das Finanças.
 
 § 2.º O pessoal militar em serviço na Chefia do Serviço de Transfusão de Sangue das Forças Armadas será considerado adido aos quadros respectivos enquanto estes não puderem ser revistos.
 
-###### Art. 14.º Como órgão de consulta do chefe do Serviço de Transfusão de Sangue das Forças Armadas é constituída a comissão técnica do Serviço, com a seguinte composição:
+Art. 14.º Como órgão de consulta do chefe do Serviço de Transfusão de Sangue das Forças Armadas é constituída a comissão técnica do Serviço, com a seguinte composição:
 
 a) Presidente: o chefe do Serviço de Transfusão de Sangue das Forças Armadas;
 
@@ -262,7 +277,7 @@ b) Vogais: o subchefe e os chefes dos serviços clínicos e dos laboratórios da
 
 § único. Poderão tomar parte nas reuniões da comissão os elementos militares ou civis cujo parecer for julgado necessário.
 
-###### Art. 15.º Os centros de transfusão de sangue têm essencialmente as seguintes funções:
+Art. 15.º Os centros de transfusão de sangue têm essencialmente as seguintes funções:
 
 a) Proceder anualmente, no decurso da instrução de recrutas, à classificação grupal do pessoal incorporado nas unidades aquarteladas nos sectores de actividade que lhe tenham sido atribuídos pela Chefia do Serviço;
 
@@ -276,7 +291,7 @@ e) Fornecer soros-padrões e material transfusional e prestar assistência técn
 
 f) Coordenar e fiscalizar a actividade dos postos de transfusão colocados na sua dependência.
 
-###### Art. 16.º Cada centro de transfusão compreende:
+Art. 16.º Cada centro de transfusão compreende:
 
 a) Chefe do centro;
 
@@ -288,21 +303,21 @@ d) Laboratório.
 
 § único. Os centros de transfusão disporão ainda de um ou mais destacamentos móveis para apoio a organismos militares instalados fora das localidades onde se situem aqueles centros.
 
-###### Art. 17.º O quadro do pessoal dos centros de transfusão de sangue é o constante do mapa anexo n.º 2.
+Art. 17.º O quadro do pessoal dos centros de transfusão de sangue é o constante do mapa anexo n.º 2.
 
 § único. Os destacamentos móveis previstos no § único do artigo anterior serão guarnecidos à custa do pessoal dos centros a que pertençam.
 
-###### Art. 18.º São desde já constituídos centros de transfusão de sangue no Hospital Militar Principal, no Hospital da Marinha, no Hospital Regional n.º 1 e no Hospital Regional n.º 2.
+Art. 18.º São desde já constituídos centros de transfusão de sangue no Hospital Militar Principal, no Hospital da Marinha, no Hospital Regional n.º 1 e no Hospital Regional n.º 2.
 
 § único. Quando se tornem necessários outros centros de transfusão poderão os mesmos ser criados por portaria dos Ministros da Defesa Nacional e do departamento interessado, referendada pelo Ministro das Finanças, sempre que envolva aumento de despesa.
 
-###### Art. 19.º Aos postos de transfusão de sangue cabem as seguintes funções:
+Art. 19.º Aos postos de transfusão de sangue cabem as seguintes funções:
 
 1.º Proceder à inscrição e estudo de dadores;
 
 2.º Praticar transfusões de sangue.
 
-###### Art. 20.º Os postos de transfusão de sangue funcionarão integrados nos seguintes órgãos:
+Art. 20.º Os postos de transfusão de sangue funcionarão integrados nos seguintes órgãos:
 
 a) No Hospital Militar de Doenças Infecto-Contagiosas, nos Hospitais Militares Regionais n.os 3 e 4 e no Hospital Militar da Praça de Elvas, na dependência técnica do centro de transfusão de sangue do Hospital Militar Principal, e ainda noutros órgãos do Exército em que a sua existência venha a ser considerada necessária, ficando na dependência técnica do centro de transfusão de sangue mais próximo;
 
@@ -312,34 +327,34 @@ No caso de pelo serviço de saúde naval ser considerado vantajoso, poderão alg
 
 c) Nas bases aéreas n.os 1, 2, 3, 4, 5, 6, 7 e 8 e noutros órgãos ou unidades da Força Aérea em que for julgada necessária a sua existência, na dependência técnica do centro de transfusão mais próximo, do Exército ou da Armada.
 
-###### Art. 21.º Cada posto de transfusão de sangue fica a cargo de um oficial médico do órgão em que estiver integrado, por acumulação com as funções normais.
+Art. 21.º Cada posto de transfusão de sangue fica a cargo de um oficial médico do órgão em que estiver integrado, por acumulação com as funções normais.
 
-###### Art. 22.º É criada a medalha de dador de sangue das forças armadas e o respectivo diploma, para galardoar a dedicação inerente à dádiva de sangue. A respectiva insígnia e as condições de atribuição serão oportunamente estabelecidas em portaria a publicar pelos Ministros da Defesa Nacional, Exército e Marinha.
+Art. 22.º É criada a medalha de dador de sangue das forças armadas e o respectivo diploma, para galardoar a dedicação inerente à dádiva de sangue. A respectiva insígnia e as condições de atribuição serão oportunamente estabelecidas em portaria a publicar pelos Ministros da Defesa Nacional, Exército e Marinha.
 
-###### Art. 23.º A compensação aos dadores de sangue poderá também revestir as formas de licença, dispensa de serviço de escala, reforço de alimentação ou outras que venham a ser consideradas necessárias.
+Art. 23.º A compensação aos dadores de sangue poderá também revestir as formas de licença, dispensa de serviço de escala, reforço de alimentação ou outras que venham a ser consideradas necessárias.
 
 § único. Estas compensações serão atribuídas de acordo com o estabelecido no Regulamento do Serviço de Transfusão de Sangue das Forças Armadas.
 
-###### Art. 24.º A Chefia do Serviço de Transfusão de Sangue das Forças Armadas elaborará o projecto do regulamento do Serviço, que será aprovado e posto em execução por portaria dos Ministros da Defesa Nacional, do Exército e da Marinha.
+Art. 24.º A Chefia do Serviço de Transfusão de Sangue das Forças Armadas elaborará o projecto do regulamento do Serviço, que será aprovado e posto em execução por portaria dos Ministros da Defesa Nacional, do Exército e da Marinha.
 
-###### Art. 25.º Os encargos decorrentes da instalação e montagem do Serviço de Transfusão Sangue das Forças Armadas serão suportados no ano de 1961 por conta da verba consignada a «Despesas extraordinárias - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente».
+Art. 25.º Os encargos decorrentes da instalação e montagem do Serviço de Transfusão Sangue das Forças Armadas serão suportados no ano de 1961 por conta da verba consignada a «Despesas extraordinárias - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente».
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 ## Anexo n.º 1 — Quadro do pessoal da Chefia do Serviço de Transfusão de Sangue das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf))](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf)
 
 ## Anexo n.º 2 — Quadro do pessoal dos centros de transfusão de sangue
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf))](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf)
 
 ## Anexo n.º 3 — Serviço de Tranfusão de Sangue das Forças Armadas
 
 (Organograma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf))](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/06300/02840288.pdf)
 
 Presidência do Conselho, 17 de Março de 1961. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.

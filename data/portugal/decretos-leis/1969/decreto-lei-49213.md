@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49213-1969-214886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 540fcabbdb6dfa9391cda03a24bc8ec3ca747c00988b2cd74aadcf91edaf0f76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f342a2034e3cf6ea25e1a3c7b6fe8a4f77dc0231d24d17aca5dbabbe7ca9ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cofre Geral dos Tribunais
+- Custas Judiciais
+- Multa
+- Pagamento
+- Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:553668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:675608:por
+  label: "Dada nova redacção ao art. 43º pelo DEC LEI.270/72.02.08.1972.MJ, DG.IS [179] de 02.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1972-675608
+  date: '1972-08-02'
+- type: amended_by
+  target: pt:dre:507628:por
+  label: "Dada nova redacção ao art. 15º pelo DEC LEI.161/76.27.02.1976.MJ, DG.IS [49] de 27.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1976-507628
+  date: '1976-02-27'
+- type: amended_by
+  target: pt:dre:464041:por
+  label: "Alterados os artigos 6.º, 9.º e 19.º pelo DEC LEI.366/80.10.09.1980.PCM, DR.IS [209] de 10.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1980-464041
+  date: '1980-09-10'
+- type: amended_by
+  target: pt:dre:311612:por
+  label: "Alterado o artigo 41º pelo DEC LEI.170/83.30.04.1983.MJ, DR.IS [99] de 30.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1983-311612
+  date: '1983-04-30'
+- type: amended_by
+  target: pt:dre:451794:por
+  label: "Alterado o art. 6º e revogado o art. 17º, pelo DEC LEI.223/83.27.05.1983.PCM, DR.IS [122] de 27.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1983-451794
+  date: '1983-05-27'
+- type: amended_by
+  target: pt:dre:324328:por
+  label: "Alterados os artigos 6.º, 7.º, 9.º, 11.º, 16.º e 23.º pelo DEC LEI.118/85.19.04.1985.MJ, DR.IS [91] de 19.04.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1985-324328
+  date: '1985-04-19'
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterados os arts. 8º, 98º, 104º e 105º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329 de 08-Mai, revisto\
+    \ pelo presente diploma, pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:168599:por
+  label: "Alterado o art. 6º pelo DEC LEI.384-A/85.1985.09.30.MJ,DR.IS [225]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-a-1985-168599
+  date: '1985-09-30'
+- type: amended_by
+  target: pt:dre:219960:por
+  label: "Alterado o nº 2 do art. 6º pela LEI.38/86.1986.09.06.AR,DR.IS [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/38-1986-219960
+  date: '1986-09-06'
+- type: repealed_by
+  target: pt:dre:421655:por
+  label: "Revogado, a partir de 27.06.1987, o artigo 10.º pelo DEC LEI.214/87.28.05.1987.MJ, DR.IS [122] de 28.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1987-421655
+  date: '1987-05-28'
+- type: repealed_by
+  target: pt:dre:670074:por
+  label: "Revogados os arts. 1º a 7º, 15º, 16º e 23º, bem como as tabelas referidas nos arts. 1º, 2º e 3º e as três tabelas\
+    \ anexas ao presente diploma, pelo DEC LEI.387-D/87.1987.12.29.MJ, DR.IS [298]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-d-1987-670074
+  date: '1987-12-29'
+- type: repealed_by
+  target: pt:dre:620954:por
+  label: "Revogados os arts. 9º, 30º, 31º, 32º, 35º e 44º, pelo DEC LEI.212/89.1989.06.30.MJ, DR.IS [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1989-620954
+  date: '1989-06-30'
+- type: repealed_by
+  target: pt:dre:389638:por
+  label: "Revogado o artigo 8.º pelo DEC LEI.254/93.15.07.1993.MJ, DR.IS-A [164] de 15.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1993-389638
+  date: '1993-07-15'
+- type: repealed_by
+  target: pt:dre:553668:por
+  label: "Revogado pelo Dec Lei.224-A/96.1996.11.26. MJ, DR.IS-A [274]2ºSuple\0e\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:36Z'
   warnings: []
   errors: []
 ---
@@ -150,21 +228,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nos tribunais de comarca, o imposto de justiça e o imposto do selo devidos pelos processos cíveis, incluindo os inventários que sejam ou passem a facultativos, falências, insolvências, recursos de revisão e de oposição de terceiro, são os constantes da tabela I anexa, calculados sobre o valor da causa.
+Artigo 1.º Nos tribunais de comarca, o imposto de justiça e o imposto do selo devidos pelos processos cíveis, incluindo os inventários que sejam ou passem a facultativos, falências, insolvências, recursos de revisão e de oposição de terceiro, são os constantes da tabela I anexa, calculados sobre o valor da causa.
 
-###### Art. 2.º O imposto de justiça e o imposto do selo devidos pelos processos orfanológicos, nos tribunais de comarca, são os constantes da tabela II anexa, calculados sobre o valor da causa.
+Art. 2.º O imposto de justiça e o imposto do selo devidos pelos processos orfanológicos, nos tribunais de comarca, são os constantes da tabela II anexa, calculados sobre o valor da causa.
 
-###### Art. 3.º O imposto de justiça e o imposto do selo a aplicar nas apelações, revistas e agravos de decisões finais das acções e dos seus incidentes são os constantes da tabela III anexa, calculados sobre o valor da causa.
+Art. 3.º O imposto de justiça e o imposto do selo a aplicar nas apelações, revistas e agravos de decisões finais das acções e dos seus incidentes são os constantes da tabela III anexa, calculados sobre o valor da causa.
 
-###### Art. 4.º As cartas precatórias e as comunicações equivalentes, expedidas para diligências que não sejam simples citações, notificações ou afixações de editais agravam em 12 por cento o imposto de justiça que a final seja devido pelo processo. A taxa pode ser elevada, por determinação do juiz, até 25 por cento, conforme a extensão do serviço efectuado.
+Art. 4.º As cartas precatórias e as comunicações equivalentes, expedidas para diligências que não sejam simples citações, notificações ou afixações de editais agravam em 12 por cento o imposto de justiça que a final seja devido pelo processo. A taxa pode ser elevada, por determinação do juiz, até 25 por cento, conforme a extensão do serviço efectuado.
 
-###### Art. 5.º - 1. São isentos de custas os adiamentos ordenados por motivos respeitantes ao próprio tribunal, que nesse caso constarão especificadamente da acta. Os outros adiamentos agravam em 13 por cento o imposto de justiça que a final seja devido pelo processo em que tenham lugar e, se houver mais adiamentos do mesmo acto ou diligência, seja qual for a parte responsável, é devido por cada um deles, além do primeiro, um agravamento do mesmo imposto correspondente a 17 por cento.
+Art. 5.º - 1. São isentos de custas os adiamentos ordenados por motivos respeitantes ao próprio tribunal, que nesse caso constarão especificadamente da acta. Os outros adiamentos agravam em 13 por cento o imposto de justiça que a final seja devido pelo processo em que tenham lugar e, se houver mais adiamentos do mesmo acto ou diligência, seja qual for a parte responsável, é devido por cada um deles, além do primeiro, um agravamento do mesmo imposto correspondente a 17 por cento.
 
 2. Se as custas do adiamento não forem da responsabilidade do vencido na acção, liquidar-se-á sòmente ao responsável um imposto igual ao daquele agravamento.
 
 3. Os adiamentos ocorridos em tribunal deprecado são tributados da mesma forma que se ocorressem no tribunal deprecante.
 
-###### Art. 6.º - 1. As custas compreendem os seguintes encargos:
+Art. 6.º - 1. As custas compreendem os seguintes encargos:
 
 a) Os reembolsos ao Cofre Geral dos Tribunais:
 
@@ -180,13 +258,13 @@ d) Os reembolsos à parte vencedora a título de custas de parte e procuradoria.
 
 2. Os reembolsos por gastos com papel, franquias postais e expediente são contados à taxa de 60$00 por cada cinquenta folhas ou fracção do processado.
 
-###### Art. 7.º - 1. As custas de parte compreendem tudo o que a parte haja despendido com o processo ou a parte do processo a que se refere a condenação e de que tenha direito a ser indemnizada.
+Art. 7.º - 1. As custas de parte compreendem tudo o que a parte haja despendido com o processo ou a parte do processo a que se refere a condenação e de que tenha direito a ser indemnizada.
 
 2. O interessado com direito a reembolso oferecerá, no prazo de cinco dias a contar da notificação da decisão que importe a contagem do processo, uma nota com suficiente discriminação das quantias despendidas e indicação de elementos de verificação, sem o que as custas de parte não serão atendidas na conta.
 
 3. Exceptuam-se os preparos, que serão sempre tomados em consideração.
 
-###### Art. 8.º - 1. Nos processos de falência ou insolvência, a administração e a liquidação da massa são remuneradas com a importância que resulta da aplicação das taxas a seguir indicadas sobre o valor da falência ou insolvência:
+Art. 8.º - 1. Nos processos de falência ou insolvência, a administração e a liquidação da massa são remuneradas com a importância que resulta da aplicação das taxas a seguir indicadas sobre o valor da falência ou insolvência:
 
 ... Por cento
 
@@ -206,7 +284,7 @@ Além de 2000000$00 ... 1
 
 2. Se o processo terminar antes de declarada a falência ou depois desta declarada, mas antes de ser dado parecer sobre a reclamação de créditos, a remuneração é fixada pelo tribunal entre o máximo de 1/4 e o mínimo de 1/8; se terminar depois do parecer, mas antes de ser designado dia para as arrematações, é reduzida a metade; se terminar posteriormente, pagar-se-á por inteiro, salvo se não chegar a haver liquidação judicial dos bens da massa, porque, neste caso, é reduzida a 75 por cento.
 
-###### Art. 9.º - 1. A procuradoria é arbitrada pelo tribunal, tendo em atenção o valor da causa e a sua complexidade, dentro dos seguintes limites:
+Art. 9.º - 1. A procuradoria é arbitrada pelo tribunal, tendo em atenção o valor da causa e a sua complexidade, dentro dos seguintes limites:
 
 a) Nos processos de valor até 10000$00, inclusive, e nos que correm termos perante os tribunais de menores, 50$00 a 200$00;
 
@@ -222,13 +300,13 @@ e) Nos de valor superior a 500000$00, acrescerá aos limites estabelecidos na al
 
 3. Quando o tribunal a não arbitre, contar-se-á a procuradoria pelo mínimo.
 
-###### Art. 10.º - 1. É mantida a participação do Serviço Social do Ministério da Justiça, do Conselho Geral da Ordem dos Advogados, da Caixa de Previdência da Ordem dos Advogados e da Caixa de Previdência da Câmara dos Solicitadores, na receita proveniente das custas judiciais.
+Art. 10.º - 1. É mantida a participação do Serviço Social do Ministério da Justiça, do Conselho Geral da Ordem dos Advogados, da Caixa de Previdência da Ordem dos Advogados e da Caixa de Previdência da Câmara dos Solicitadores, na receita proveniente das custas judiciais.
 
 2. O montante da participação de cada um destes organismos é fixado anualmente pelo Ministro da Justiça, tomando por base a importância das receitas arrecadadas pela Repartição Administrativa dos Cofres e a média dos totais por cada um deles recebidos nos últimos dois anos.
 
 3. O pagamento é feito semestralmente, pela Repartição Administrativa dos Cofres.
 
-###### Art. 11.º - 1. Na elaboração da conta dos processos cíveis, proceder-se-á do seguinte modo:
+Art. 11.º - 1. Na elaboração da conta dos processos cíveis, proceder-se-á do seguinte modo:
 
 a) Indicando-se o número que a cada conta compete, mencionar-se-á o valor do processo e os impostos de justiça e do selo que lhe correspondem;
 
@@ -242,7 +320,7 @@ c) Finalmente, fechar-se-á a conta com indicação por extenso do total em dív
 
 2. Se não houver compensação a efectuar, adicionam-se os reembolsos devidos à parte vencedora e sòmente depois se abatem os preparos efectuados e se faz o apuramento do total em dívida.
 
-###### Art. 12.º - 1. O pagamento das custas e a distribuição e rateio finais, em processos de falência e insolvência, são efectuados pelo administrador nomeado.
+Art. 12.º - 1. O pagamento das custas e a distribuição e rateio finais, em processos de falência e insolvência, são efectuados pelo administrador nomeado.
 
 2. Recebido o aviso das custas, o administrador procede do seguinte modo:
 
@@ -256,17 +334,17 @@ b) Apresenta para o processo, no prazo de dez dias a contar da data do aviso, um
 
 5. As importâncias dos cheques que não forem apresentados a pagamento no prazo de um ano a contar da autorização prescrevem para a Repartição Administrativa dos Cofres e a esta são remetidas pelo administrador em cheque passado à ordem do respectivo conselho administrativo, depois de verificar o saldo e de solicitar à Caixa que faça sobrestar qualquer outro pagamento por força da mesma conta. Decorrido o prazo da prescrição, o processo é continuado com vista ao Ministério Público para verificar se a conta está saldada e promover o que for devido.
 
-###### Art. 13.º - 1. Na contagem final das acções e execuções em que, como acessório do pedido principal, se pedirem cláusula penal, juros, rendas e rendimentos que se vencerem durante a pendência da causa, toma-se em consideração o valor dos interesses vencidos até essa data.
+Art. 13.º - 1. Na contagem final das acções e execuções em que, como acessório do pedido principal, se pedirem cláusula penal, juros, rendas e rendimentos que se vencerem durante a pendência da causa, toma-se em consideração o valor dos interesses vencidos até essa data.
 
 2. O autor ou exequente indicará, na petição inicial, a liquidação dos interesses já vencidos na data da sua apresentação em juízo e pelo respectivo valor se elaboram as demais contas a que houver lugar.
 
-###### Art. 14.º Nas acções e graduações de créditos, quando houver pagamentos a efectuar pelo tribunal, far-se-á a liquidação do julgado na altura em que o processo for à conta pela primeira vez depois da sentença.
+Art. 14.º Nas acções e graduações de créditos, quando houver pagamentos a efectuar pelo tribunal, far-se-á a liquidação do julgado na altura em que o processo for à conta pela primeira vez depois da sentença.
 
-###### Art. 15.º - 1. Quando se não obtenha o pagamento das custas pelos meios a que se refere o artigo 152.º do Código das Custas Judiciais, proceder-se-á a rateio das quantias depositadas, para entrarem em imediato pagamento, e far-se-á logo o processo com vista ao Ministério Público, informando se o devedor possui bens que possam ser executados.
+Art. 15.º - 1. Quando se não obtenha o pagamento das custas pelos meios a que se refere o artigo 152.º do Código das Custas Judiciais, proceder-se-á a rateio das quantias depositadas, para entrarem em imediato pagamento, e far-se-á logo o processo com vista ao Ministério Público, informando se o devedor possui bens que possam ser executados.
 
 2. Se forem conhecidos bens ao devedor ou faltarem informações precisas, instaurar-se-á execução a requerimento do Ministério Público.
 
-###### Art. 16.º Constituem custas em processo criminal:
+Art. 16.º Constituem custas em processo criminal:
 
 a) Os reembolsos ao Cofre Geral dos Tribunais:
 
@@ -286,21 +364,21 @@ f) A procuradoria;
 
 g) A importância de 25$00 a favor do captor e os caminhos devidos aos oficiais de diligências pelas capturas realizadas na área da comarca.
 
-###### Art. 17.º - 1. Os impostos de justiça fixados na parte criminal do Código das Custas Judiciais são elevados em 10 por cento, com arredondamento para a dezena de escudos imediatamente superior.
+Art. 17.º - 1. Os impostos de justiça fixados na parte criminal do Código das Custas Judiciais são elevados em 10 por cento, com arredondamento para a dezena de escudos imediatamente superior.
 
 2. Quando o imposto seja variável, a elevação incide apenas sobre o limite mínimo.
 
-###### Art. 18.º - 1. Todas as importâncias que a título de imposto de justiça, multas ou qualquer outro, a lei mande atribuir, nos tribunais, ao Cofre dos Conservadores, Notários e Funcionários de Justiça, ao Cofre Geral dos Tribunais, ao Cofre da Secretaria, à Ordem dos Advogados e à Câmara dos Solicitadores, são liquidadas e arrecadadas para a Repartição Administrativa dos Cofres e a esta globalmente remetidas em cada mês, para depósito na conta do Cofre Geral dos Tribunais.
+Art. 18.º - 1. Todas as importâncias que a título de imposto de justiça, multas ou qualquer outro, a lei mande atribuir, nos tribunais, ao Cofre dos Conservadores, Notários e Funcionários de Justiça, ao Cofre Geral dos Tribunais, ao Cofre da Secretaria, à Ordem dos Advogados e à Câmara dos Solicitadores, são liquidadas e arrecadadas para a Repartição Administrativa dos Cofres e a esta globalmente remetidas em cada mês, para depósito na conta do Cofre Geral dos Tribunais.
 
 2. Os pagamentos são feitos à ordem do respectivo conselho administrativo.
 
-###### Art. 19.º - 1. As quantias provenientes de preparos, custas, receitas do Estado, multas, seja qual for o seu destino, e quaisquer outras importâncias relativas a processos, actos e papéis avulsos, são depositadas na Caixa Geral de Depósitos, em conta aberta nos termos do artigo 30.º
+Art. 19.º - 1. As quantias provenientes de preparos, custas, receitas do Estado, multas, seja qual for o seu destino, e quaisquer outras importâncias relativas a processos, actos e papéis avulsos, são depositadas na Caixa Geral de Depósitos, em conta aberta nos termos do artigo 30.º
 
 2. Nas falências e insolvências, os depósitos - com excepção dos que se referem a preparos e custas - são feitos também na Caixa Geral de Depósitos, mas à ordem dos respectivos síndicos, efectuando-se os levantamentos por meio de cheques fornecidos pela Caixa, assinados sáveis ao funcionamento, na Repartição Administrativa pelo síndico e pelo administrador da massa, e nos quais é indicado o título da conta.
 
 3. O produto das arrematações, arrendamentos, cauções cíveis e criminais e quaisquer outras importâncias estranhas aos encargos judiciais são objecto de depósitos autónomos, feitos na Caixa Geral de Depósitos, à ordem do presidente do tribunal, vara ou juízo.
 
-###### Art. 20.º Em cada secção central existirão obrigatòriamente os seguintes livros:
+Art. 20.º Em cada secção central existirão obrigatòriamente os seguintes livros:
 
 a) «Pagamentos», no qual são lançadas, logo que sejam pagas, as custas e, logo que sejam efectuados, os rateios, referentes a qualquer processo, com indicação do número, deste e sua natureza, número da conta, número e folha do livro onde se encontra a respectiva conta corrente, e todos os pagamentos a efectuar;
 
@@ -308,53 +386,53 @@ b) «Conta corrente com as dotações orçamentais do cofre do tribunal», no qu
 
 c) «De emolumentos de actos avulsos», no qual se registam por ordem todos os emolumentos cobrados no tribunal, anotando-se o seu número no respectivo documento.
 
-###### Art. 21.º - 1. Em cada secção de processos haverá um livro «Contas correntes-Processos», constituído por folhas móveis numeradas, uma para cada proçesso, no qual são escrituradas diàriamente, por parcelas e em colunas separadas, as quantias recebidas de preparos comuns, de custas pagas e de preparos para despesas, bem como, a débito, as importâncias dos pagamentos de custas a efectuar e das despesas pagas. O débito de pagamento de custas é escriturado quando tiver lugar a remessa do processo à secção central para lançamento no livro «Pagamentos», ou quando transitar para outra secção.
+Art. 21.º - 1. Em cada secção de processos haverá um livro «Contas correntes-Processos», constituído por folhas móveis numeradas, uma para cada proçesso, no qual são escrituradas diàriamente, por parcelas e em colunas separadas, as quantias recebidas de preparos comuns, de custas pagas e de preparos para despesas, bem como, a débito, as importâncias dos pagamentos de custas a efectuar e das despesas pagas. O débito de pagamento de custas é escriturado quando tiver lugar a remessa do processo à secção central para lançamento no livro «Pagamentos», ou quando transitar para outra secção.
 
 2. Os saldos de créditos e débitos são apurados após os lançamentos de cada dia e devidamente certificados no termo de remessa à secção central.
 
 3. Encerrada a conta e findo o processo, a respectiva folha do «Contas correntes - Processo» é extraída para um livro-arquivo, no qual se manterá o mesmo número de ordem. Se no mesmo processo houver lugar a novos lançamentos, utilizar-se-á a mesma folha, que para o efeito se integrará novamente naquele livro.
 
-###### Art. 22.º Nos processos de natureza criminal em que não haja preparos, as custas são lançadas apenas no livro «Pagamentos», logo que sejam pagas.
+Art. 22.º Nos processos de natureza criminal em que não haja preparos, as custas são lançadas apenas no livro «Pagamentos», logo que sejam pagas.
 
-###### Art. 23.º - 1. Logo que comece a correr qualquer prazo para depósito de preparos ou pagamento de custas ou multas, a secção do processo passa guias para estes depósitos ou pagamentos na Caixa Geral de Depósitos, lavrando termo, e delas faz entrega às partes, seus representantes ou mandatários, quando se apresentarem a recebê-las.
+Art. 23.º - 1. Logo que comece a correr qualquer prazo para depósito de preparos ou pagamento de custas ou multas, a secção do processo passa guias para estes depósitos ou pagamentos na Caixa Geral de Depósitos, lavrando termo, e delas faz entrega às partes, seus representantes ou mandatários, quando se apresentarem a recebê-las.
 
 2. Nos casos especiais em que a lei autorize o interessado a solicitar guias para qualquer depósito ou pagamento, são estas imediatamente passadas e entregues.
 
 3. Exclusivamente no caso de ser urgente a prática de acto que dependa de depósito de quaisquer quantias e estar fechada a Caixa Geral de Depósitos, pode a secção do processo receber as importâncias devidas, lavrando cota com indicação do dia e hora do recebimento, e entregá-las-á ali no primeiro dia útil imediato com as respectivas guias. O funcionário que receba estas importâncias providencia, de acordo com o presidente do tribunal, sobre a sua guarda e é considerado, para todos os efeitos, depositário judicial das somas recebidas.
 
-###### Art. 24.º - 1. Além das importâncias devidas, as guias para depósito de preparos e pagamento de custas ou multas indicarão o número e natureza do processo, a data em que termina o prazo de pagamento, o número da respectiva conta corrente e o nome do responsável. Mencionar-se-á também o nome da pessoa que pretenda efectuar o pagamento, quando esta, não sendo a constante da guia, tenha interesse na menção.
+Art. 24.º - 1. Além das importâncias devidas, as guias para depósito de preparos e pagamento de custas ou multas indicarão o número e natureza do processo, a data em que termina o prazo de pagamento, o número da respectiva conta corrente e o nome do responsável. Mencionar-se-á também o nome da pessoa que pretenda efectuar o pagamento, quando esta, não sendo a constante da guia, tenha interesse na menção.
 
 2. Todas as guias são passadas em triplicado: um dos exemplares fica em poder da Caixa, outro é devolvido para o processo e o terceiro é entregue ao depositante.
 
 3. Quando o preparo seja para despesas, mencionar-se-á na guia de depósito esta circunstância.
 
-###### Art. 25.º O funcionário que, nos termos da lei, receber qualquer quantia, entregará à pessoa que fizer o pagamento ou o depósito, e no próprio acto, uma nota-recibo isenta de selo, numerada e por ele assinada, da qual conste a importância recebida, o número e natureza do processo e o nome da pessoa por quem é efectuado o pagamento ou o depósito. O talão da nota é também preenchido e fica arquivado.
+Art. 25.º O funcionário que, nos termos da lei, receber qualquer quantia, entregará à pessoa que fizer o pagamento ou o depósito, e no próprio acto, uma nota-recibo isenta de selo, numerada e por ele assinada, da qual conste a importância recebida, o número e natureza do processo e o nome da pessoa por quem é efectuado o pagamento ou o depósito. O talão da nota é também preenchido e fica arquivado.
 
-###### Art. 26.º - 1. No primeiro dia útil imediato ao do recebimento de preparos, custas e multas, a Caixa Geral de Depósitos devolve os duplicados das respectivas guias ao tribunal, que os fará levantar.
+Art. 26.º - 1. No primeiro dia útil imediato ao do recebimento de preparos, custas e multas, a Caixa Geral de Depósitos devolve os duplicados das respectivas guias ao tribunal, que os fará levantar.
 
 2. Em caso de urgência, o interessado pode fazer juntar ao processo, logo, após o pagamento ou depósito, o triplicado da guia ou a nota-recibo a que se refere o artigo anterior.
 
 3. A secção faz imediatamente o processo concluso nos casos em que tenha decorrido o prazo para o depósito e devolução das guias, sem que esta se tenha verificado.
 
-###### Art. 27.º - 1. Quando haja de transitar de uma para outra secção da mesma secretaria, o processo levará cota indicativa dos montantes dos saldos que lhe respeitam, discriminados quando necessário, e de que foram debitados.
+Art. 27.º - 1. Quando haja de transitar de uma para outra secção da mesma secretaria, o processo levará cota indicativa dos montantes dos saldos que lhe respeitam, discriminados quando necessário, e de que foram debitados.
 
 2. Em face da cota, a secção a que o processo ficar pertencendo creditará a conta respectiva do livro «Contas correntes - Processos» pelas importâncias indicadas.
 
-###### Art. 28.º - 1. Os saldos apurados nas contas dos livros «Contas correntes - Processos» não movimentadas há mais de cinco anos e relativas a processos que tenham transitado para outros tribunais, ou que se não encontrem, revertem para a Repartição Administrativa dos Cofres e ficam imediatamente disponíveis.
+Art. 28.º - 1. Os saldos apurados nas contas dos livros «Contas correntes - Processos» não movimentadas há mais de cinco anos e relativas a processos que tenham transitado para outros tribunais, ou que se não encontrem, revertem para a Repartição Administrativa dos Cofres e ficam imediatamente disponíveis.
 
 2. Nos cinco anos seguintes têm os interessados a possibilidade de receber ainda do Cofre a quantia transferida, justificando perante aquela Repartição o seu direito e demonstrando que a falta de movimentação não foi devida a inércia da sua parte.
 
-###### Art. 29.º Ficam em caixa, na secção central, as importâncias que forem sendo recebidas de actos e papéis avulsos, as quais são depositadas, mediante guias da secretaria, no último dia útil de cada mês, e levadas ao livro «Pagamentos» para terem o destino legal.
+Art. 29.º Ficam em caixa, na secção central, as importâncias que forem sendo recebidas de actos e papéis avulsos, as quais são depositadas, mediante guias da secretaria, no último dia útil de cada mês, e levadas ao livro «Pagamentos» para terem o destino legal.
 
-###### Art. 30.º - 1. Os tribunais têm com a Caixa Geral de Depósitos uma conta referente a depósitos de processos, sob a rubrica «Tribunal Judicial de ...».
+Art. 30.º - 1. Os tribunais têm com a Caixa Geral de Depósitos uma conta referente a depósitos de processos, sob a rubrica «Tribunal Judicial de ...».
 
 2. Esta conta não vence juros.
 
 3. Os cheques para movimentação da conta são assinados pelo juiz ou presidente do tribunal e pelo chefe da secretaria.
 
-###### Art. 31.º As importâncias do imposto de justiça crime e das multas aplicadas em processos criminais, na parte respectiva, dão entrada nos cofres do Estado, sob a rubrica «Imposto de justiça e multas criminais», se outra não estiver determinada.
+Art. 31.º As importâncias do imposto de justiça crime e das multas aplicadas em processos criminais, na parte respectiva, dão entrada nos cofres do Estado, sob a rubrica «Imposto de justiça e multas criminais», se outra não estiver determinada.
 
-###### Art. 32.º - 1. No último dia de cada mês, após o encerramento da secretaria, a secção central soma cada uma das colunas do livro «Pagamentos», depois de nele lançar todos os processos recebidos para o efeito e de verificar se o total a pagar por cada processo está em harmonia com a respectiva conta corrente, bem como se as operações estão exactas.
+Art. 32.º - 1. No último dia de cada mês, após o encerramento da secretaria, a secção central soma cada uma das colunas do livro «Pagamentos», depois de nele lançar todos os processos recebidos para o efeito e de verificar se o total a pagar por cada processo está em harmonia com a respectiva conta corrente, bem como se as operações estão exactas.
 
 2. Apurados os totais, a secção apresenta o livro, com os respectivos processos, ao exame do Ministério Público, que verifica a conformidade dos lançamentos com o que consta dos processos e apõe o seu visto nuns e noutros. Nos processos que hajam de prosseguir ou de ser remetidos para outro tribunal, vara ou juízo, o exame do Ministério Público tem lugar imediatamente após o lançamento no livro «Pagamentos».
 
@@ -362,7 +440,7 @@ c) «De emolumentos de actos avulsos», no qual se registam por ordem todos os e
 
 4. Em todos os cheques é aposta sobrecarga com indicação da data até à qual podem ser pagos.
 
-###### Art. 33.º - 1. Todos os cheques relativos a pagamentos a efectuar ao Estado, à Repartição Administrativa dos Cofres, a outras repartições, serviços ou pessoas, ainda que de diversa circunscrição judicial, são remetidos directamente pelo chefe da secretaria, até ao dia 5 de cada mês, acompanhados de notas discriminativas, quando necessário. O número e a data da remessa são anotados no livro «Pagamentos».
+Art. 33.º - 1. Todos os cheques relativos a pagamentos a efectuar ao Estado, à Repartição Administrativa dos Cofres, a outras repartições, serviços ou pessoas, ainda que de diversa circunscrição judicial, são remetidos directamente pelo chefe da secretaria, até ao dia 5 de cada mês, acompanhados de notas discriminativas, quando necessário. O número e a data da remessa são anotados no livro «Pagamentos».
 
 2. Se as somas pertencerem a comarca em que vigore diverso regime de custas, são remetidas globalmente em cheque passado a favor do respectivo chefe da secretaria e remetido ao agente do Ministério Público. A nota discriminativa não pode, neste caso, ser dispensada.
 
@@ -372,25 +450,25 @@ a) Logo após a diligência ou audiência a que os preparos se destinem, a secç
 
 b) Seguidamente, a secção faz os devidos lançamentos de débito na conta de despesas do livro «Contas correntes - Processos» e de crédito, pelo saldo, na coluna de preparos comuns.
 
-###### Art. 34.º - 1. Até ao dia 5 de cada mês, o chefe da secretaria remete à filial, agência ou delegação competente da Caixa Geral de Depósitos uma relação dos cheques emitidos nesse mês, com menção, em colunas próprias, do número que a cada um corresponde, do valor e do termo de validade.
+Art. 34.º - 1. Até ao dia 5 de cada mês, o chefe da secretaria remete à filial, agência ou delegação competente da Caixa Geral de Depósitos uma relação dos cheques emitidos nesse mês, com menção, em colunas próprias, do número que a cada um corresponde, do valor e do termo de validade.
 
 2. Nos primeiros cinco dias do mês imediato, a Caixa informa o tribunal quais os cheques que, terminando o prazo de validade no mês anterior, não foram apresentados a pagamento.
 
 3. Logo que seja recebida a informação, o chefe da secretaria faz no livro «Pagamentos» o lançamento a favor da Repartição Administrativa dos Cofres do montante dos cheques que devam considerar-se prescritos.
 
-###### Art. 35.º - 1. Os cheques que não forem apresentados a pagamento até ao fim do mês em que tenham sido passados, se os interessados residirem no continente ou na ilha onde corre o processo, até sessenta dias contados da sua data, se residirem no continente e o processo correr nalguma ilha adjacente ou se residirem numa destas e o processo correr noutra ou no continente, ou até noventa dias da sua data, se residirem nalguma província ultramarina ou no estrangeiro, prescrevem a favor dos Cofres.
+Art. 35.º - 1. Os cheques que não forem apresentados a pagamento até ao fim do mês em que tenham sido passados, se os interessados residirem no continente ou na ilha onde corre o processo, até sessenta dias contados da sua data, se residirem no continente e o processo correr nalguma ilha adjacente ou se residirem numa destas e o processo correr noutra ou no continente, ou até noventa dias da sua data, se residirem nalguma província ultramarina ou no estrangeiro, prescrevem a favor dos Cofres.
 
 2. Os cheques para pagamento de despesas prescrevem no fim do mês imediato.
 
-###### Art. 36.º - 1. No caso de falecimento do titular do cheque, têm os respectivos sucessores a faculdade de reclamar o pagamento perante a Repartição Administrativa dos Cofres, provando o seu direito e que pagaram o imposto sobre sucessões e doações ou de que este não é devido.
+Art. 36.º - 1. No caso de falecimento do titular do cheque, têm os respectivos sucessores a faculdade de reclamar o pagamento perante a Repartição Administrativa dos Cofres, provando o seu direito e que pagaram o imposto sobre sucessões e doações ou de que este não é devido.
 
 2. É de trinta dias o prazo para a reclamação, contado do trânsito em julgado da sentença do inventário ou da habilitação, havendo-os, ou do termo do processo para a liquidação daquele imposto, caso seja posterior.
 
 3. Se os interessados comunicarem ao tribunal a notícia do falecimento antes de decorridos os prazos referidos no artigo 35.º, o chefe da secretaria fará logo, no livro «Pagamentos», o lançamento da respectiva quantia a favor da Repartição Administrativa dos Cofres.
 
-###### Art. 37.º Cada secção organizará diàriamente relação das importâncias creditadas no livro «Conta correntes - Processos» e das quantias depositadas em processos criminais, com indicação do processo a que respeitam e fará dela entrega ao Ministério Público.
+Art. 37.º Cada secção organizará diàriamente relação das importâncias creditadas no livro «Conta correntes - Processos» e das quantias depositadas em processos criminais, com indicação do processo a que respeitam e fará dela entrega ao Ministério Público.
 
-###### Art. 38.º - 1. O magistrado do Ministério Público verifica os lançamentos nos livros das secções, de forma a assegurar-se da exactidão e pontualidade com que são efectuados.
+Art. 38.º - 1. O magistrado do Ministério Público verifica os lançamentos nos livros das secções, de forma a assegurar-se da exactidão e pontualidade com que são efectuados.
 
 2. Constituem actos obrigatórios de verificação:
 
@@ -398,25 +476,25 @@ a) O exame dos livros, uma vez em cada mês, para se assegurar da pontualidade d
 
 b) Um balanço trimestral realizado juntamente com o chefe da secretaria e destinado a apurar se a soma dos saldos dos «Contas correntes - Processos» e das dotações orçamentais do Cofre do Tribunal com as importâncias dos cheques passados e ainda não pagos equivale ao depósito na Caixa Geral de Depósitos. Os documentos deste balanço são assinados e arquivados.
 
-###### Art. 39.º A divisão da receita global arrecadada nos tribunais para a Repartição Administrativa dos Cofres, entre o Cofre dos Conservadores, Notários e Funcionários de Justiça e o Cofre Geral dos Tribunais, é feita mensalmente nos termos determinados pelo Ministro da Justiça, sob proposta do conselho administrativo, com base na média da receita arrecadada nos últimos dois anos por cada um deles.
+Art. 39.º A divisão da receita global arrecadada nos tribunais para a Repartição Administrativa dos Cofres, entre o Cofre dos Conservadores, Notários e Funcionários de Justiça e o Cofre Geral dos Tribunais, é feita mensalmente nos termos determinados pelo Ministro da Justiça, sob proposta do conselho administrativo, com base na média da receita arrecadada nos últimos dois anos por cada um deles.
 
-###### Art. 40.º - 1. A parte emolumentar dos vencimentos dos funcionários de justiça considera-se estabelecida em função do lugar em que servirem, pela média que, nos últimos dois anos, o respectivo serventuário obteve na partilha da receita do cofre da secretaria, e é abonada directamente pela Repartição Administrativa dos Cofres, juntamente com a parte fixa.
+Art. 40.º - 1. A parte emolumentar dos vencimentos dos funcionários de justiça considera-se estabelecida em função do lugar em que servirem, pela média que, nos últimos dois anos, o respectivo serventuário obteve na partilha da receita do cofre da secretaria, e é abonada directamente pela Repartição Administrativa dos Cofres, juntamente com a parte fixa.
 
 2. Quando se verifique que a média apurada não corresponde ao serviço ou ao rendimento normal do tribunal ou da comarca, o Ministro da Justiça, mediante proposta justificada do conselho administrativo dos Cofres, pode corrigir a dotação apurada nos termos do número anterior.
 
 3. A revisão é obrigatória de dois em dois anos e tem por base a alteração do rendimento da comarca em imposto de justiça cobrado em processos cíveis.
 
-###### Art. 41.º - 1. A Repartição Administrativa dos Cofres remete à filial, agência ou delegação competentes da Caixa Geral de Depósitos, até ao dia 25 do mês a que respeitar, uma folha com o nome dos funcionários e indicação da importância que cada um tem a receber. Esta folha serve de ordem de pagamento e será acompanhada de cheque, pelo seu total, passado a favor do tesoureiro da filial, agência ou delegação respectivas.
+Art. 41.º - 1. A Repartição Administrativa dos Cofres remete à filial, agência ou delegação competentes da Caixa Geral de Depósitos, até ao dia 25 do mês a que respeitar, uma folha com o nome dos funcionários e indicação da importância que cada um tem a receber. Esta folha serve de ordem de pagamento e será acompanhada de cheque, pelo seu total, passado a favor do tesoureiro da filial, agência ou delegação respectivas.
 
 2. No primeiro dia útil de cada mês, a Caixa Geral de Depósitos credita, em contas individuais dos funcionários, a importância que a cada um pertencer.
 
 3. O chefe da secretaria de cada tribunal ou comarca providenciará para a abertura das contas de depósito referidas no número anterior.
 
-###### Art. 42.º - 1. Os saldos das contas «Tesouraria Judicial de ...» transitarão para a conta a que se refere o artigo 30.º na data da entrada em vigor deste diploma.
+Art. 42.º - 1. Os saldos das contas «Tesouraria Judicial de ...» transitarão para a conta a que se refere o artigo 30.º na data da entrada em vigor deste diploma.
 
 2. Os saldos das contas «Cofre do Tribunal de ...» serão liquidados a favor da Repartição Administrativa dos Cofres no fim do ano judicial em curso.
 
-###### Art. 43.º - 1. Até ao dia 5 de cada mês o chefe da secretaria remete à Repartição Administrativa dos Cofres os seguintes elementos de informação:
+Art. 43.º - 1. Até ao dia 5 de cada mês o chefe da secretaria remete à Repartição Administrativa dos Cofres os seguintes elementos de informação:
 
 a) Relação dos funcionários que no mês anterior cessaram funções e dos que ingressaram no quadro do tribunal respectivo, com indicações sobre a data em que se verificou a cessação ou o ingresso e sobre a respectiva categoria e lugar ocupado;
 
@@ -424,27 +502,27 @@ b) Relação da quantia proveniente de imposto de justiça contada em processos 
 
 2. No mês de Setembro não é organizada a relação a que alude a alínea b) do número anterior, abrangendo os elementos fornecidos em Outubro os dados relativos aos meses de Agosto e Setembro.
 
-###### Art. 44.º Todos os pagamentos por força de depósitos efectuados na Caixa Geral de Depósitos à ordem do tribunal serão feitos por cheques assinados pelo juiz ou presidente e pelo chefe da secretaria.
+Art. 44.º Todos os pagamentos por força de depósitos efectuados na Caixa Geral de Depósitos à ordem do tribunal serão feitos por cheques assinados pelo juiz ou presidente e pelo chefe da secretaria.
 
-###### Art. 45.º A alínea b) do n.º 1 do artigo 112.º do Código das Custas Judiciais passa a ter a seguinte redacção:
+Art. 45.º A alínea b) do n.º 1 do artigo 112.º do Código das Custas Judiciais passa a ter a seguinte redacção:
 
 b) Não ser lícito à parte que não observou o disposto no n.º 1 do artigo 106.º efectuar o preparo para julgamento sem o pagamento de imposto de justiça igual ao dobro do preparo que não efectuou e nunca inferior ao dobro do preparo para julgamento.
 
-###### Art. 46.º Fica suspensa a aplicação dos artigos 24.º, 46.º, 47.º, 48.º, 50.º, 68.º, 71.º, 87.º, 131.º, 194.º e 235.º, n.º 2, do Código das Custas Judiciais e da alínea g) do n.º 1 do artigo 307.º do Estatuto Judiciário.
+Art. 46.º Fica suspensa a aplicação dos artigos 24.º, 46.º, 47.º, 48.º, 50.º, 68.º, 71.º, 87.º, 131.º, 194.º e 235.º, n.º 2, do Código das Custas Judiciais e da alínea g) do n.º 1 do artigo 307.º do Estatuto Judiciário.
 
-###### Art. 47.º A Repartição Administrativa dos Cofres é autorizada a instalar um serviço mecanográfico destinado a processar os vencimentos dos funcionários que são pagos pelas receitas dos Cofres.
+Art. 47.º A Repartição Administrativa dos Cofres é autorizada a instalar um serviço mecanográfico destinado a processar os vencimentos dos funcionários que são pagos pelas receitas dos Cofres.
 
-###### Art. 48.º As condições estabelecidas neste diploma para a utilização da Caixa Geral de Depósitos como tesouraria dos tribunais poderão ser revistas, mediante proposta justificada, decorrido pelo menos um ano sobre a data em que começarem a vigorar.
+Art. 48.º As condições estabelecidas neste diploma para a utilização da Caixa Geral de Depósitos como tesouraria dos tribunais poderão ser revistas, mediante proposta justificada, decorrido pelo menos um ano sobre a data em que começarem a vigorar.
 
-###### Art. 49.º - 1. O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1970.
+Art. 49.º - 1. O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1970.
 
 2. Em Lisboa e Porto, porém, a parte relativa à nova orgânica e atribuições das tesourarias sòmente entrará em vigor na data fixada por uma portaria do Ministro da Justiça, depois de instaladas as agências da Caixa Geral de Depósitos que hão-de servir os tribunais cíveis e criminais destas cidades.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 6 de Agosto de 1969.**
+Promulgado em 6 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -454,7 +532,7 @@ Imposto de justiça e imposto do selo
 
 1.ª instância - Processos cíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf))](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf)
 
 Para além de 2000000$00:
 
@@ -468,7 +546,7 @@ Imposto de justiça e imposto do selo
 
 1.ª instância - Processos orfanológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf))](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf)
 
 Para além de 2000000$00:
 
@@ -482,7 +560,7 @@ Imposto de justiça e imposto do selo
 
 Tribunais superiores - Recursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf))](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/20200/11551164.pdf)
 
 Para além de 2000000$00:
 

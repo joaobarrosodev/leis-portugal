@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1972-400044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2db85d2659c00d1d3e529689a30b0733f5500610dd586bf580eb5d5b01513269
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf7d10fe593e825808b3c2e0e86b3b922bdfc7b1b35d370d91dc9efb4b459ddf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:414432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:52Z'
   warnings: []
   errors: []
 ---
@@ -87,12 +95,12 @@ de 20 de Janeiro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Enquanto não for regulamentado o exame previsto no [Decreto n.º 677/70](https://diariodarepublica.pt/dr/detalhe/decreto/677-1970-414432), de 31 de Dezembro, a lista distrital dos peritos será organizada de harmonia com o disposto nos n.os 2 e 3 do artigo 36.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, na sua primitiva redacção.
+Artigo único. Enquanto não for regulamentado o exame previsto no [Decreto n.º 677/70](https://diariodarepublica.pt/dr/detalhe/decreto/677-1970-414432), de 31 de Dezembro, a lista distrital dos peritos será organizada de harmonia com o disposto nos n.os 2 e 3 do artigo 36.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, na sua primitiva redacção.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - Rui Alves da Silva Sanches.
 
-**Promulgado em 8 de Janeiro de 1972.**
+Promulgado em 8 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

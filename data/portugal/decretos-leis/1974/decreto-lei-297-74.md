@@ -48,40 +48,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1974-476508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ba991a177fe9567958c705ab91a267d4686551b6c56c85ed31c664ec147e83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fca713ef3ac025c296447a06285b3d0aff63d232e86baeac272f8ddd654f4da2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos Demográficos
+- Centro de Estudos Económicos
+- Comissão Consultiva
+- Comissão Directiva
+- Criação de Serviços
+- Instituto Nacional de Estatística
+- Orgânica
+- Pessoal Dirigente
+- Remuneração
+- Senha de Presença
 relationships:
 - type: amended_by
   target: pt:dre:430869:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:560184:por
+  label: Rectificado pela DECL.DD8997.10.07.1974.PCM, DG.IS [159-Supl] de 10.07.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-560184
+  date: '1974-07-10'
+- type: repealed_by
+  target: pt:dre:430869:por
+  label: "Revogados os arts. 1º e 2º pelo DEC LEI.628/76.28.07.1976.MF, DR.IS [175] de 28.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/628-1976-430869
+  date: '1976-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:15Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +136,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Durante o período em que não esteja preenchido o cargo de director do Instituto Nacional de Estatística e enquanto se prepara uma remodelação da estrutura do referido Instituto, as suas funções passarão a ser desempenhadas por um conjunto de pessoas constituindo uma comissão directiva.
+Artigo 1.º - 1. Durante o período em que não esteja preenchido o cargo de director do Instituto Nacional de Estatística e enquanto se prepara uma remodelação da estrutura do referido Instituto, as suas funções passarão a ser desempenhadas por um conjunto de pessoas constituindo uma comissão directiva.
 
 2. O número e designação das pessoas que ficarão a constituir a comissão directiva serão fixados por despacho ministerial.
 
@@ -108,13 +144,13 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. Se qualquer funcionário ou técnico do Instituto for nomeado membro da comissão directiva, ficará a perceber a remuneração inerente ao cargo que desempenhava, salvaguardado o direito a remuneração superior se, entretanto, for nomeado para outro cargo em que esta seja devida.
 
-###### Art. 2.º A comissão directiva ficará com todos os poderes atribuídos pelo artigo 21.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, ao director e subdirectores do Instituto, enquanto se mantiver em funcionamento.
+Art. 2.º A comissão directiva ficará com todos os poderes atribuídos pelo artigo 21.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, ao director e subdirectores do Instituto, enquanto se mantiver em funcionamento.
 
-###### Art. 3.º - 1. É criada dentro dos serviços do Instituto Nacional de Estatística uma comissão consultiva com competência própria e exclusiva para tratar de questões relativas ao pessoal.
+Art. 3.º - 1. É criada dentro dos serviços do Instituto Nacional de Estatística uma comissão consultiva com competência própria e exclusiva para tratar de questões relativas ao pessoal.
 
 2. A composição, funcionamento e atribuições específicas desta comissão consultiva serão definidos em despacho ministerial.
 
-###### Art. 4.º - 1. O Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944, passarão a ser constituídos por um director e por outras individualidades de reconhecido mérito nas matérias das respectivas atribuições.
+Art. 4.º - 1. O Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944, passarão a ser constituídos por um director e por outras individualidades de reconhecido mérito nas matérias das respectivas atribuições.
 
 2. Os directores e os membros dos referidos Centros de Estudos serão nomeados por despacho do Primeiro-Ministro ou do Ministro em quem este delegar.
 
@@ -122,12 +158,12 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. No mais, mantêm-se em vigor as disposições dos Decretos-Leis n.os 47616 e 47617, de 30 de Março de 1967, com as necessárias adaptações.
 
-###### Art. 5.º Este decreto-lei entra imediatamente em vigor.
+Art. 5.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Pereira de Moura.
 
-**Promulgado em 25 de Junho de 1974.**
+Promulgado em 25 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

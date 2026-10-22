@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49425-1969-217491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64e3aec574c0f0e57f1ae311656b16e84933d3b3115c425fbd9788e5193dbca3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5f0746d0f5a33f5368ce21bb782a85e16568c27cebc2b127f686603e3fd0737
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:01Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Considerando a conveniência de adoptar para os agentes técnicos de engenharia 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No mapa VII anexo ao [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, que fixa os quadros de pessoal da Direcção-Geral de Obras Públicas e Comunicações, do Ministério do Ultramar, são aumentados os seguintes lugares:
+Artigo 1.º No mapa VII anexo ao [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, que fixa os quadros de pessoal da Direcção-Geral de Obras Públicas e Comunicações, do Ministério do Ultramar, são aumentados os seguintes lugares:
 
 1 adjunto técnico principal ... H
 
@@ -107,19 +115,19 @@ e suprimidos os seguintes:
 
 2 desenhadores de 2.ª classe ... Q
 
-###### Art. 2.º Os cargos de adjuntos técnicos serão providos por indivíduos com a habilitação mínima correspondente aos cursos de agente técnico de engenharia ou de condutor de obras públicas.
+Art. 2.º Os cargos de adjuntos técnicos serão providos por indivíduos com a habilitação mínima correspondente aos cursos de agente técnico de engenharia ou de condutor de obras públicas.
 
-###### Art. 3.º Os agentes técnicos de 1.ª e 2.ª classes do quadro de pessoal da Direcção-Geral de Obras Públicas e Comunicações, do Ministério do Ultramar, presentemente em serviço, transitam, conforme a sua antiguidade, para os cargos de adjuntos técnicos criados, mediante despacho do Ministro do Ultramar, sem carência de qualquer outra formalidade ou visto.
+Art. 3.º Os agentes técnicos de 1.ª e 2.ª classes do quadro de pessoal da Direcção-Geral de Obras Públicas e Comunicações, do Ministério do Ultramar, presentemente em serviço, transitam, conforme a sua antiguidade, para os cargos de adjuntos técnicos criados, mediante despacho do Ministro do Ultramar, sem carência de qualquer outra formalidade ou visto.
 
-###### Art. 4.º Para o cargo de desenhador-chefe transita o funcionário que prese temente desempenha as funções de desenhador principal, mediante despacho do Ministro do Ultramar, sem necessidade de qualquer outra formalidade ou visto.
+Art. 4.º Para o cargo de desenhador-chefe transita o funcionário que prese temente desempenha as funções de desenhador principal, mediante despacho do Ministro do Ultramar, sem necessidade de qualquer outra formalidade ou visto.
 
-###### Art. 5.º Enquanto não se efectivar o provimento dos lugares aumentados ao quadro nos termos do artigo 1.º, o pessoal dos actuais quadros continuará a ser abonado dos seus vencimentos e outras remunerações pelas verbas orçamentais que presentemente suportam os respectivos encargos.
+Art. 5.º Enquanto não se efectivar o provimento dos lugares aumentados ao quadro nos termos do artigo 1.º, o pessoal dos actuais quadros continuará a ser abonado dos seus vencimentos e outras remunerações pelas verbas orçamentais que presentemente suportam os respectivos encargos.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 19 de Novembro de 1969.**
+Promulgado em 19 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

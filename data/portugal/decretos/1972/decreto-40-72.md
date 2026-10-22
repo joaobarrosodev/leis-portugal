@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1972-398484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81e4a04235d3d451b56ba9b87765761a408f67ba644954f0d09e58f2cf55fe4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd362055fe2e1c4e4afac4876daabd59857c70cd19f638734690aed4da66dcf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:07Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +94,26 @@ Tendo em vista o disposto no § 3.º do artigo 136.º de Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a emissão de 10 milhões de moedas metálicas do valor facial de 1$00, no total de 10000 contos, destinada à província de Angola.
+Artigo 1.º É autorizada a emissão de 10 milhões de moedas metálicas do valor facial de 1$00, no total de 10000 contos, destinada à província de Angola.
 
-###### Art. 2.º - 1. As moedas serão de liga de bronze, na proporção de 95 por cento de cobre, 3 por cento de zinco e 2 por cento de estanho, com a tolerância, em título e em peso, de mais ou menos 2 por cento.
+Art. 2.º - 1. As moedas serão de liga de bronze, na proporção de 95 por cento de cobre, 3 por cento de zinco e 2 por cento de estanho, com a tolerância, em título e em peso, de mais ou menos 2 por cento.
 
 2. As moedas terão o diâmetro de 26 mm e o peso de 8 g.
 
-###### Art. 3.º As moedas não serão serrilhadas e terão numa das faces as armas da província, com a legenda «Angola» e a designação da era, e na outra face a legenda «República Portuguesa» e a indicação do valor.
+Art. 3.º As moedas não serão serrilhadas e terão numa das faces as armas da província, com a legenda «Angola» e a designação da era, e na outra face a legenda «República Portuguesa» e a indicação do valor.
 
-###### Art. 4.º À medida que as moedas forem recebidas, o Governo-Geral da província colocá-las-á à disposição do Banco de Angola, contra a entrega de notas do correspondente valor nominal ou comunicação de que a respectiva importância foi creditada ao mesmo Governo-Geral.
+Art. 4.º À medida que as moedas forem recebidas, o Governo-Geral da província colocá-las-á à disposição do Banco de Angola, contra a entrega de notas do correspondente valor nominal ou comunicação de que a respectiva importância foi creditada ao mesmo Governo-Geral.
 
-###### Art. 5.º - 1. Na Direcção dos Serviços de Fazenda e Contabilidade de Angola será aberta uma conta de operações de tesouraria sob a epígrafe «Cunhagem da moeda divisionária» pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e despesas de amoedação, tendo como contrapartida as quantias recebidas do Banco de Angola, nos termos do artigo anterior.
+Art. 5.º - 1. Na Direcção dos Serviços de Fazenda e Contabilidade de Angola será aberta uma conta de operações de tesouraria sob a epígrafe «Cunhagem da moeda divisionária» pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e despesas de amoedação, tendo como contrapartida as quantias recebidas do Banco de Angola, nos termos do artigo anterior.
 
 2. Será oportunamente publicada no Boletim Oficial de Angola a conta definitiva das operações de tesouraria a que se refere este artigo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Janeiro de 1972.**
+Promulgado em 24 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/03/05700/02290234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acb52cae89b2dc5303c943ae785d7410807078d4ead7ad075ec63e68e5933721
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1004881532063c3d06f0ad807588848e2fc7653c15f74ba6517d60e272d36081
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BENS de Consumo
+- Cobrança de Impostos
+- Comércio
+- Contabilidade
+- Contribuições e Impostos
+- Crime
+- Estabelecimento Comercial
+- Estabelecimento Industrial
+- Imposto do SELO
+- Imposto sobre Consumos Supérfluos ou de Luxo
+- Infracção Fiscal
+- Isenção Fiscal
+- Multa
+- Pagamento
+- Prestação de Serviços
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:474922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474922:por
+  label: "Determinada a abolição, a partir de 01.08.1966, do imposto sobre consumos supérfluos ou de luxo, criado pelo Dec\
+    \ Lei 43764 de 30-Jun de 1961 (já revogado) e regulado pelo presente diploma, pelo DEC LEI.47066.01.07.1966.MF, DG.IS\
+    \ [151] de 01.07.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47066-1966-474922
+  date: '1966-07-01'
+- type: cites
+  target: pt:dre:172902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636687:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:07Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +134,9 @@ Aproveita-se a ocasião para introduzir alguns aperfeiçoamentos de carácter t�
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O imposto sobre consumos supérfluos ou de luxo, criado pelo [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961, incidirá sobre o preço de venda ao público dos produtos nacionais ou estrangeiros ou da prestação de serviços constantes das tabelas A, B e C anexas ao presente decreto-lei.
+Artigo 1.º O imposto sobre consumos supérfluos ou de luxo, criado pelo [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961, incidirá sobre o preço de venda ao público dos produtos nacionais ou estrangeiros ou da prestação de serviços constantes das tabelas A, B e C anexas ao presente decreto-lei.
 
-###### Art. 2.º São isentas de imposto:
+Art. 2.º São isentas de imposto:
 
 1.º As aquisições de produtos abrangidos por este diploma, quando os mesmos se destinem a constituir o equipamento de estabelecimentos industriais ou comerciais e instrumentos de trabalho profissional;
 
@@ -117,13 +152,13 @@ a) Sejam liquidadas em traveller's cheques dos próprios, mediante a apresentaç
 
 b) As entregas dos objectos sejam feitas aos respectivos adquirentes nas estâncias aduaneiras das estações marítimas ou dos aeroportos internacionais no acto da sua saída do País.
 
-###### Art. 3.º As taxas deste imposto são de 10, 15 e 20 por cento para os produtos ou serviços compreendidos nas tabelas A, B e C, respectivamente.
+Art. 3.º As taxas deste imposto são de 10, 15 e 20 por cento para os produtos ou serviços compreendidos nas tabelas A, B e C, respectivamente.
 
-###### Art. 4.º O imposto será cobrado, directa ou indirectamente dos consumidores ou utentes, pelos respectivos vendedores de produtos ou prestadores de serviços, que por ele respondem para com o Estado.
+Art. 4.º O imposto será cobrado, directa ou indirectamente dos consumidores ou utentes, pelos respectivos vendedores de produtos ou prestadores de serviços, que por ele respondem para com o Estado.
 
 § único. Quando os consumidores importem directamente os produtos sujeitos a este imposto, será este cobrado nas alfândegas no acto da liquidação dos respectivos direitos aduaneiros.
 
-###### Art. 5.º Para a cobrança do imposto em relação à compra de produtos a ele sujeitos é facultado aos respectivos vendedores a opção por uma de duas modalidades:
+Art. 5.º Para a cobrança do imposto em relação à compra de produtos a ele sujeitos é facultado aos respectivos vendedores a opção por uma de duas modalidades:
 
 A primeira modalidade consiste na sujeição dos produtos ao regime de pagamento do imposto sobre artigos de perfumaria e toucador, estabelecido no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, com as alterações constantes do presente diploma.
 
@@ -131,23 +166,23 @@ Pela segunda modalidade os vendedores deverão entregar o imposto nos cofres do 
 
 § único. O imposto relativo a serviços supérfluos ou de luxo só pode ser cobrado e pago pelo regime da segunda modalidade.
 
-###### Art. 6.º Os importadores, fabricantes, distribuidores ou armazenistas de produtos abrangidos por este imposto deverão participar essa qualidade à secção de finanças do concelho ou bairro da situação de cada um dos seus estabelecimentos.
+Art. 6.º Os importadores, fabricantes, distribuidores ou armazenistas de produtos abrangidos por este imposto deverão participar essa qualidade à secção de finanças do concelho ou bairro da situação de cada um dos seus estabelecimentos.
 
 § único. O prazo para o cumprimento do preceituado neste artigo é de 30 dias, a contar, para as empresas existentes e que ainda o não fizeram, da entrada em vigor do presente decreto-lei e, para as empresas que de futuro se constituírem ou que venham a dedicar-se a qualquer actividade que compreenda produtos ou serviços sujeitos ao imposto, do começo do respectivo exercício.
 
-###### Art. 7.º As empresas a que se refere o artigo antecedente deverão apresentar trimestralmente na secção de finanças do concelho ou bairro da situação do estabelecimento emitente das competentes facturas ou notas de venda, para fins de fiscalização deste imposto, uma declaração das transacções para revenda efectuadas em relação aos respectivos produtos, com discriminada indicação dos destinatários, quantidades, espécies, preços, datas de entrega e número ou identificação da factura. Os produtos devolvidos deverão figurar em relação anexa, com anotação do facto na respectiva relação de fornecimento.
+Art. 7.º As empresas a que se refere o artigo antecedente deverão apresentar trimestralmente na secção de finanças do concelho ou bairro da situação do estabelecimento emitente das competentes facturas ou notas de venda, para fins de fiscalização deste imposto, uma declaração das transacções para revenda efectuadas em relação aos respectivos produtos, com discriminada indicação dos destinatários, quantidades, espécies, preços, datas de entrega e número ou identificação da factura. Os produtos devolvidos deverão figurar em relação anexa, com anotação do facto na respectiva relação de fornecimento.
 
-###### Art. 8.º Os estabelecimentos ou empresas que, habitual ou acidentalmente, vendam ao público qualquer dos produtos ou prestem serviços abrangidos por este diploma, deverão igualmente participar essa qualidade ou ocorrência na secção de finanças do concelho ou bairro da situação dos estabelecimentos, nos termos e prazos estabelecidos no artigo 6.º, e declarar, no mesmo prazo, qual a modalidade que pretendem adoptar em relação à cobrança e entrega do imposto respeitante aos produtos que se proponham vender.
+Art. 8.º Os estabelecimentos ou empresas que, habitual ou acidentalmente, vendam ao público qualquer dos produtos ou prestem serviços abrangidos por este diploma, deverão igualmente participar essa qualidade ou ocorrência na secção de finanças do concelho ou bairro da situação dos estabelecimentos, nos termos e prazos estabelecidos no artigo 6.º, e declarar, no mesmo prazo, qual a modalidade que pretendem adoptar em relação à cobrança e entrega do imposto respeitante aos produtos que se proponham vender.
 
 § único. A opção por uma das modalidades de cobrança e pagamento do imposto só poderá ser efectuada em Dezembro de cada ano, em relação a todo o decurso do ano seguinte.
 
-###### Art. 9.º A primeira modalidade de cobrança e pagamento deste imposto regula-se pelos preceitos relativos ao imposto sobre artigos de perfumaria e toucador estabelecidos no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, com as seguintes modificações:
+Art. 9.º A primeira modalidade de cobrança e pagamento deste imposto regula-se pelos preceitos relativos ao imposto sobre artigos de perfumaria e toucador estabelecidos no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, com as seguintes modificações:
 
 a) Independentemente dos preceitos contidos nos artigos 6.º e 7.º do presente decreto-lei, as obrigações estabelecidas naquele diploma para os fabricantes ou importadores caberão apenas aos estabelecimentos ou empresas que efectuarem a venda ao público, e logo que para tal fim adquiram os produtos ou estes venham a sua posse;
 
 b) As estampilhas deverão obedecer a formato e cores a estabelecer em regulamento.
 
-###### Art. 10.º As empresas ou estabelecimentos que optarem pela segunda modalidade deverão, em relação aos respectivos produtos:
+Art. 10.º As empresas ou estabelecimentos que optarem pela segunda modalidade deverão, em relação aos respectivos produtos:
 
 a) Escriturar em livro próprio todos os actos de aquisição, com indicação discriminada da sua proveniência, quantidade, espécie e indicação do número ou identificação da factura, e anotar nos lugares adequados as respectivas operações de troca ou devolução;
 
@@ -163,17 +198,17 @@ f) Arquivar os duplicados das facturas a que se refere a alínea c) e mantê-los
 
 g) Discriminar, nos preços de venda ao público dos artigos expostos, a parcela correspondente ao imposto de consumo.
 
-###### Art. 11.º Os prestadores de serviços sujeitos a este imposto ficam obrigados ao estabelecido no artigo anterior, com obrigação de discriminarem em todos os elementos documentativos a importância relativa aos serviços e a correspondente aos produtos sujeitos a imposto de luxo ou já tributados em imposto sobre artigos de perfumaria ou toucador.
+Art. 11.º Os prestadores de serviços sujeitos a este imposto ficam obrigados ao estabelecido no artigo anterior, com obrigação de discriminarem em todos os elementos documentativos a importância relativa aos serviços e a correspondente aos produtos sujeitos a imposto de luxo ou já tributados em imposto sobre artigos de perfumaria ou toucador.
 
-###### Art. 12.º Os elementos comprovativos do pagamento deste imposto bem como os relativos ao cumprimento das respectivas obrigações deverão ser guardados pelo prazo de cinco anos e facultados prontamente à fiscalização.
+Art. 12.º Os elementos comprovativos do pagamento deste imposto bem como os relativos ao cumprimento das respectivas obrigações deverão ser guardados pelo prazo de cinco anos e facultados prontamente à fiscalização.
 
-###### Art. 13.º Nos estabelecimentos em que sejam, utilizadas caixas ou máquinas registadoras de pagamentos é facultado à fiscalização o exame dos respectivos instrumentos de registo.
+Art. 13.º Nos estabelecimentos em que sejam, utilizadas caixas ou máquinas registadoras de pagamentos é facultado à fiscalização o exame dos respectivos instrumentos de registo.
 
-###### Art. 14.º Para os efeitos deste diploma, as vendas a prestações ou com espera de pagamento são reportadas à data da entrega da coisa ou, quando esta seja precedida de pagamentos, embora parciais, à data em que se efectuar o primeiro pagamento.
+Art. 14.º Para os efeitos deste diploma, as vendas a prestações ou com espera de pagamento são reportadas à data da entrega da coisa ou, quando esta seja precedida de pagamentos, embora parciais, à data em que se efectuar o primeiro pagamento.
 
 § único. No fornecimento de produtos sujeitos a imposto, enquadrado em contrato de prestação de serviços, obras ou empreitadas, quando esse fornecimento seja directamente efectuado pelo prestador, o imposto só é devido à data da conclusão do serviço ou à data, de qualquer pagamento que a preceder.
 
-###### Art. 15.º As infracções ao disposto no presente decreto-lei são punidas:
+Art. 15.º As infracções ao disposto no presente decreto-lei são punidas:
 
 a) Com as sanções estabelecidas no [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, quando os responsáveis pelo imposto tenham optado pela primeira modalidade;
 
@@ -187,29 +222,29 @@ e) Com a multa de 100$00 a 20000$00, a graduar conforme a gravidade da falta, as
 
 § único. A não conservação de documentos comprovativos da cobrança e pagamento do imposto, relativamente aos últimos cinco anos, constitui presunção da falta de cobrança e implica a sanção cominada na alínea c) do corpo deste artigo.
 
-###### Art. 16.º A falta de correspondência, na nota a que se refere o artigo 10.º, alínea b), entre o número ou quantidade e espécies dos produtos recebidos e o daqueles por que se pagou imposto ou que se encontrem à venda, em depósito, ou tenham sido objecto de devolução, isenção, troca ou destruição documentada, é considerada como presunção de falta de pagamento de imposto pelo valor correspondente.
+Art. 16.º A falta de correspondência, na nota a que se refere o artigo 10.º, alínea b), entre o número ou quantidade e espécies dos produtos recebidos e o daqueles por que se pagou imposto ou que se encontrem à venda, em depósito, ou tenham sido objecto de devolução, isenção, troca ou destruição documentada, é considerada como presunção de falta de pagamento de imposto pelo valor correspondente.
 
 § único. É facultado aos responsáveis o pagamento voluntário do imposto sem multa, quando, antes de qualquer autuação, verifiquem a falta de exactidão a que se refere o corpo deste artigo.
 
-###### Art. 17.º As vendas de produtos a entidades isentas nos termos do artigo 2.º devem ser documentadas pelo adquirente, o qual responderá pelas infracções ao presente decreto-lei quando, no período normal de utilização dos produtos, lhes dê um destino diferente daquele para que tenham sido adquiridos.
+Art. 17.º As vendas de produtos a entidades isentas nos termos do artigo 2.º devem ser documentadas pelo adquirente, o qual responderá pelas infracções ao presente decreto-lei quando, no período normal de utilização dos produtos, lhes dê um destino diferente daquele para que tenham sido adquiridos.
 
-###### Art. 18.º As infracções ao regime deste imposto cometidas no 1.º semestre do ano corrente poderão ser relevadas pelo director-geral das Contribuições e Impostos quando se verifique que o responsável agiu por desconhecimento desculpável das obrigações legais, sem dolo, ou por omissão que não deva ser considerada como falta grave.
+Art. 18.º As infracções ao regime deste imposto cometidas no 1.º semestre do ano corrente poderão ser relevadas pelo director-geral das Contribuições e Impostos quando se verifique que o responsável agiu por desconhecimento desculpável das obrigações legais, sem dolo, ou por omissão que não deva ser considerada como falta grave.
 
 § único. O uso desta faculdade é condicionado ao pagamento pelo infractor, por meio de guia, do imposto correspondente aos actos em falta.
 
-###### Art. 19.º O Ministro das Finanças expedirá o regulamento necessário à boa execução deste decreto-lei.
+Art. 19.º O Ministro das Finanças expedirá o regulamento necessário à boa execução deste decreto-lei.
 
-###### Art. 20.º A taxa do artigo 2.º do [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, é elevada a 15 por cento.
+Art. 20.º A taxa do artigo 2.º do [Decreto-Lei n.º 36607](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36607-1947-636687), de 24 de Novembro de 1947, é elevada a 15 por cento.
 
-###### Art. 21.º Enquanto o Ministro das Finanças não fixar a data a partir da qual será permitida a adopção da primeira modalidade de pagamento só será admitida para a cobrança do imposto a segunda modalidade, prevista no artigo 5.º deste diploma.
+Art. 21.º Enquanto o Ministro das Finanças não fixar a data a partir da qual será permitida a adopção da primeira modalidade de pagamento só será admitida para a cobrança do imposto a segunda modalidade, prevista no artigo 5.º deste diploma.
 
-###### Art. 22.º A parte das multas por infracções fiscais de qualquer natureza que, segundo a lei, couber aos funcionários pertencentes ao quadro dos serviços de prevenção e repressão criados pelo [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961, será arrecadada por «Operações de tesouraria» e dividida, no fim de cada ano, na proporção dos respectivos vencimentos ilíquidos, por todos os funcionários da Direcção-Geral das Contribuições e Impostos, excluído o director-geral.
+Art. 22.º A parte das multas por infracções fiscais de qualquer natureza que, segundo a lei, couber aos funcionários pertencentes ao quadro dos serviços de prevenção e repressão criados pelo [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961, será arrecadada por «Operações de tesouraria» e dividida, no fim de cada ano, na proporção dos respectivos vencimentos ilíquidos, por todos os funcionários da Direcção-Geral das Contribuições e Impostos, excluído o director-geral.
 
-###### Art. 23.º Este decreto-lei entra imediatamente em vigor.
+Art. 23.º Este decreto-lei entra imediatamente em vigor.
 
-###### Art. 24.º Fica revogado o [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961.
+Art. 24.º Fica revogado o [Decreto-Lei n.º 43764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43764-1961-172902), de 30 de Junho de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -219,6 +254,6 @@ Tabelas dos artigos e serviços sujeitos ao imposto sobre consumos supérfluos o
 
 Da Tabela A à Tabela C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/05700/02290234.pdf))](https://files.diariodarepublica.pt/1s/1962/03/05700/02290234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/05700/02290234.pdf)
 
 Ministério das Finanças, 14 de Março de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 118/1980, 1º Suplemento, Série I de 1980-05-22
   number: '118'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1116-(2) a 1116-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11801/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a09cf1efe14277bdbedbfa0ccb50f3c8aca6584483f772d1245308d732cb98a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28d557f5613643ef55ee5659fe8d1ac716fc12f4398a09a07f9095234891292b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Tribunal de Contas
+- Visto do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:193663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:460809:por
+  label: "Alterada a al. e) do nº 1 do art. 1º e aditada a al. j) ao nº 1 do art. 2º pelo DEC LEI.374/80.12.09.1980.MFP, DR.IS\
+    \ [211] de 12.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1980-460809
+  date: '1980-09-12'
+- type: cites
+  target: pt:dre:147385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:193663:por
+  label: "Revogado pela LEI.98/97.1997.08.26.AR DR.IS-A [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-1997-193663
+  date: '1997-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:45Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +141,7 @@ Considerando ainda ser aconselhável a eliminação das formas de provimento de 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Estão sujeitos ao visto do Tribunal de Contas:
+Artigo 1.º - 1 - Estão sujeitos ao visto do Tribunal de Contas:
 
 a) As obrigações gerais de dívida fundada;
 
@@ -114,7 +159,7 @@ g) Os diplomas ou despachos que envolvam abonos de qualquer espécie.
 
 2 - O visto do Tribunal de Contas tem por fim verificar se os documentos a ele sujeitos estão conformes com as leis em vigor e se os encargos deles resultantes têm cabimento em verba orçamental legalmente aplicável, bem como, tratando-se de contratos, se as suas condições são as mais vantajosas para o Estado.
 
-###### Art. 2.º - 1 - Excluem-se do disposto no n.º 1 do artigo anterior:
+Art. 2.º - 1 - Excluem-se do disposto no n.º 1 do artigo anterior:
 
 a) Os diplomas ou despachos sobre concessão de vencimentos certos ou eventuais inerentes ao exercício de qualquer cargo por disposição legal expressa, com excepção dos que atribuírem gratificações de carácter permanente cujo limite não esteja fixado na lei;
 
@@ -136,7 +181,7 @@ i) Outros diplomas, despachos ou contratos especialmente previstos na lei.
 
 2 - Dos contratos a que se refere a alínea f) do número anterior devem, no entanto, os serviços, no prazo de trinta dias após a sua celebração, remeter ao Tribunal de Contas cópias ou fotocópias, devidamente autenticadas, a fim de ser verificada a sua conformidade.
 
-###### Art. 3.º - 1 - Nenhum diploma ou despacho sujeito ao visto do Tribunal de Contas poderá ser executado ou produzir quaisquer efeitos antes da sua publicação no Diário da República com a declaração de ter sido visado pelo mesmo Tribunal.
+Art. 3.º - 1 - Nenhum diploma ou despacho sujeito ao visto do Tribunal de Contas poderá ser executado ou produzir quaisquer efeitos antes da sua publicação no Diário da República com a declaração de ter sido visado pelo mesmo Tribunal.
 
 2 - Nos casos de urgente conveniência de serviço, expressamente declarada pelo membro do Governo competente, os diplomas ou despachos que impliquem a admissão ou mudança da situação jurídico-funcional do pessoal podem ser executados e produzir efeitos, designadamente quanto ao exercício de funções e processamento de abonos, antes de se mostrar cumprido o disposto no número anterior.
 
@@ -146,15 +191,15 @@ i) Outros diplomas, despachos ou contratos especialmente previstos na lei.
 
 5 - Os despachos autorizando a substituição dos cargos dirigentes, proferidos ao abrigo do artigo 11.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, estão sujeitos a visto e beneficiam do disposto nos n.os 2 e 4 do presente artigo, independentemente da declaração de urgência.
 
-###### Art. 4.º - 1 - Nenhum contrato poderá começar a produzir os seus efeitos em data anterior à do visto do Tribunal de Contas, sendo responsáveis, solidariamente, todas as autoridades ou funcionários que lhes deram execução.
+Art. 4.º - 1 - Nenhum contrato poderá começar a produzir os seus efeitos em data anterior à do visto do Tribunal de Contas, sendo responsáveis, solidariamente, todas as autoridades ou funcionários que lhes deram execução.
 
 2 - Excluem-se do disposto no número precedente os contratos de arrendamento e empreitada de obras públicas, só podendo os respectivos efeitos financeiros produzir-se depois do visto do Tribunal de Contas.
 
-###### Art. 5.º O preenchimento de cargos ou lugares, mesmo nos casos de alteração de quadros ou de reorganização de serviços, deve ser operado por diploma individual de provimento, excepto na hipótese prevista no n.º 2 do artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto, em que será objecto de lista nominativa.
+Art. 5.º O preenchimento de cargos ou lugares, mesmo nos casos de alteração de quadros ou de reorganização de serviços, deve ser operado por diploma individual de provimento, excepto na hipótese prevista no n.º 2 do artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto, em que será objecto de lista nominativa.
 
-###### Art. 6.º Os diplomas referentes a pessoal deverão ser lavrados de harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
+Art. 6.º Os diplomas referentes a pessoal deverão ser lavrados de harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
 
-###### Art. 7.º Os diplomas ou despachos para provimento de cargos ou lugares deverão ser remetidos ao Tribunal de Contas acompanhados dos documentos seguintes:
+Art. 7.º Os diplomas ou despachos para provimento de cargos ou lugares deverão ser remetidos ao Tribunal de Contas acompanhados dos documentos seguintes:
 
 a) Declaração do interessado de que não exerce qualquer cargo ou função nos serviços do Estado, de autarquias locais ou pessoas colectivas de utilidade pública administrativa, nem fica abrangido por quaisquer disposições legais relativas a incompatibilidades, ou declaração de cargo ou função que porventura exerça em qualquer das condições mencionadas, com expressa indicação de que dele pedirá a exoneração, caso se verifique incompatibilidade ou acumulação não permitida;
 
@@ -170,7 +215,7 @@ e) Nota biográfica, da qual conste o tempo de serviço e as categorias funciona
 
 3 - No caso de falsidade de documentos ou declarações, o Tribunal de Contas anulará o visto do diploma por meio de acórdão, importando a publicação deste a imediata suspensão do pagamento de quaisquer abonos e a vacatura do cargo, sem prejuízo das responsabilidades disciplinares ou criminais que no caso se verifiquem.
 
-###### Art. 8.º A verificação do cabimento da despesa resultante dos documentos sujeitos ao visto será feita com base nas informações de cabimento exaradas nos próprios documentos pelas seguintes entidades:
+Art. 8.º A verificação do cabimento da despesa resultante dos documentos sujeitos ao visto será feita com base nas informações de cabimento exaradas nos próprios documentos pelas seguintes entidades:
 
 a) Em relação a todas as despesas dos serviços autónomos com contabilidade privativa, pelos chefes dos respectivos serviços de contabilidade;
 
@@ -178,7 +223,7 @@ b) Em relação a despesas em conta de verbas comuns a vários serviços, pelo d
 
 c) Em relação às despesas dos diversos serviços, pelos funcionários dos serviços que tiverem a seu cargo a respectiva conta corrente.
 
-###### Art. 9.º Não carecem de informação de cabimento:
+Art. 9.º Não carecem de informação de cabimento:
 
 a) Os documentos a que se referem as alíneas a) e c) do n.º 1 do artigo 1.º deste decreto-lei;
 
@@ -186,17 +231,17 @@ b) Os diplomas para provimento definitivo, provisório, temporário ou interino 
 
 c) Os despachos que mandem abonar a qualquer funcionário importâncias de vencimentos de exercícios descontadas a outro.
 
-###### Art. 10.º - 1 - Os diplomas de demissão, exoneração, passagem à situação de licença ilimitada, actividade fora do quadro, despachos de rescisão de contratos ou de assalariamentos e, de um modo geral, todos os que modifiquem a situação dos funcionários, sem aumento de vencimento nem mudança de verba por onde se efectue o seu pagamento, deverão ser enviados ao Tribunal de Contas para o efeito da sua anotação no cadastro geral dos funcionários.
+Art. 10.º - 1 - Os diplomas de demissão, exoneração, passagem à situação de licença ilimitada, actividade fora do quadro, despachos de rescisão de contratos ou de assalariamentos e, de um modo geral, todos os que modifiquem a situação dos funcionários, sem aumento de vencimento nem mudança de verba por onde se efectue o seu pagamento, deverão ser enviados ao Tribunal de Contas para o efeito da sua anotação no cadastro geral dos funcionários.
 
 2 - A anotação será feita pela Direcção-Geral sem apreciação da legalidade dos diplomas, pelo que não poderá ser invocada como justificação ou fundamento de qualquer acto posterior sujeito ao exame ou julgamento do Tribunal.
 
 3 - Os diplomas sujeitos à anotação deverão ser devolvidos aos serviços no próprio dia da sua entrada na Direcção-Geral do Tribunal de Contas.
 
-###### Art. 11.º Os processos referentes a contratos de empreitada ou de fornecimento de material sujeitos a visto serão instruídos com o duplicado do documento a visar, com a cópia ou fotocópia autenticada do aviso de abertura do concurso público, ou da autorização de dispensa deste, ou da realização de concurso limitado, bem como, sendo caso disso, do caderno de encargos e dos autos de abertura da proposta e de adjudicação.
+Art. 11.º Os processos referentes a contratos de empreitada ou de fornecimento de material sujeitos a visto serão instruídos com o duplicado do documento a visar, com a cópia ou fotocópia autenticada do aviso de abertura do concurso público, ou da autorização de dispensa deste, ou da realização de concurso limitado, bem como, sendo caso disso, do caderno de encargos e dos autos de abertura da proposta e de adjudicação.
 
-###### Art. 12.º Os documentos sujeitos a visto ou anotação do Tribunal de Contas deverão ser autenticados com o selo branco do respectivo serviço.
+Art. 12.º Os documentos sujeitos a visto ou anotação do Tribunal de Contas deverão ser autenticados com o selo branco do respectivo serviço.
 
-###### Art. 13.º - 1 - Os contratos definitivos serão acompanhados de fotocópia ou de um extracto, segundo modelo fixado pelo Tribunal de Contas, de que conste:
+Art. 13.º - 1 - Os contratos definitivos serão acompanhados de fotocópia ou de um extracto, segundo modelo fixado pelo Tribunal de Contas, de que conste:
 
 a) O Ministério a que pertence o serviço;
 
@@ -214,9 +259,9 @@ f) A indicação da verba orçamental por onde são satisfeitos os encargos.
 
 3 - As cópias ou duplicados e os extractos deverão ser autenticados pelos serviços que fizeram a expedição dos documentos ao Tribunal de Contas.
 
-###### Art. 14.º Os decretos sujeitos a visto serão a este submetidos depois de referendados pelo Ministro ou Ministros competentes e antes de apresentados à promulgação do Presidente da República.
+Art. 14.º Os decretos sujeitos a visto serão a este submetidos depois de referendados pelo Ministro ou Ministros competentes e antes de apresentados à promulgação do Presidente da República.
 
-###### Art. 15.º - 1 - Nos casos de urgente conveniência de serviço, previstos nos n.os 2 e seguintes do artigo 3.º, devem os processos ser remetidos ao Tribunal de Contas, para efeito de visto, no prazo de trinta dias a contar do despacho de autorização, suspendendo-se os abonos a partir do dia imediato ao do termo daquele prazo se, até então, a remessa não for efectuada.
+Art. 15.º - 1 - Nos casos de urgente conveniência de serviço, previstos nos n.os 2 e seguintes do artigo 3.º, devem os processos ser remetidos ao Tribunal de Contas, para efeito de visto, no prazo de trinta dias a contar do despacho de autorização, suspendendo-se os abonos a partir do dia imediato ao do termo daquele prazo se, até então, a remessa não for efectuada.
 
 2 - O presidente do Tribunal de Contas poderá, a solicitação dos serviços interessados, prorrogar o prazo de remessa até noventa dias, quando houver razão que o justifique.
 
@@ -228,11 +273,11 @@ f) A indicação da verba orçamental por onde são satisfeitos os encargos.
 
 6 - As vagas ocorridas pelo provimento de funcionários e agentes, nos termos dos números anteriores, apenas poderão ser preenchidas após a concessão do visto nos processos que as determinaram.
 
-###### Art. 16.º O prazo referido no n.º 1 do artigo anterior é de cento e cinquenta dias para os processos relativos a nomeações e transferências de professores efectivos de qualquer grau de ensino dependente do Ministério da Educação e Ciência.
+Art. 16.º O prazo referido no n.º 1 do artigo anterior é de cento e cinquenta dias para os processos relativos a nomeações e transferências de professores efectivos de qualquer grau de ensino dependente do Ministério da Educação e Ciência.
 
-###### Art. 17.º No caso de não serem respeitados os prazos fixados nos dois artigos anteriores, por negligência ou culpa dos serviços, será instaurado procedimento disciplinar contra o funcionário ou funcionários responsáveis.
+Art. 17.º No caso de não serem respeitados os prazos fixados nos dois artigos anteriores, por negligência ou culpa dos serviços, será instaurado procedimento disciplinar contra o funcionário ou funcionários responsáveis.
 
-###### Art. 18.º - 1 - A preparação material dos processos relativos aos diplomas, contratos e despachos sujeitos ao visto do Tribunal de Contas, bem como a anotação a que se refere o artigo 10.º do presente diploma, compete à Direcção-Geral do Tribunal de Contas, através da Contadoria-Geral do Visto.
+Art. 18.º - 1 - A preparação material dos processos relativos aos diplomas, contratos e despachos sujeitos ao visto do Tribunal de Contas, bem como a anotação a que se refere o artigo 10.º do presente diploma, compete à Direcção-Geral do Tribunal de Contas, através da Contadoria-Geral do Visto.
 
 2 - O visto será efectuado por dois juízes, devendo, para este fim, os que estejam de serviço permanecer no Tribunal durante as horas de expediente.
 
@@ -242,30 +287,30 @@ f) A indicação da verba orçamental por onde são satisfeitos os encargos.
 
 5 - No caso de desacordo sobre a concessão do visto ou de se entender haver lugar a recusa será o assunto submetido ao Tribunal em sessão plena.
 
-###### Art. 19.º Para os efeitos do visto, a contagem do tempo para a aplicação de disposições legais que estabelecem limites de idade ou fixam prazos ou períodos de tempo será feita em relação à data do despacho que ordena o acto a que respeita o diploma ou, não havendo lugar a tal despacho, em relação à data do diploma submetido ao visto.
+Art. 19.º Para os efeitos do visto, a contagem do tempo para a aplicação de disposições legais que estabelecem limites de idade ou fixam prazos ou períodos de tempo será feita em relação à data do despacho que ordena o acto a que respeita o diploma ou, não havendo lugar a tal despacho, em relação à data do diploma submetido ao visto.
 
-###### Art. 20.º A recusa do visto pelo Tribunal de Contas determina a ineficácia dos respectivos diplomas ou despachos.
+Art. 20.º A recusa do visto pelo Tribunal de Contas determina a ineficácia dos respectivos diplomas ou despachos.
 
-###### Art. 21.º - 1 - Nenhum diploma ou despacho referente a pessoal pode ser publicado no Diário da República sem a menção da data em que foi visado ou anotado pelo Tribunal de Contas ou a declaração de que não carece do visto ou anotação.
+Art. 21.º - 1 - Nenhum diploma ou despacho referente a pessoal pode ser publicado no Diário da República sem a menção da data em que foi visado ou anotado pelo Tribunal de Contas ou a declaração de que não carece do visto ou anotação.
 
 2 - Exceptuam-se do disposto no número anterior os diplomas e despachos de demissão ou exoneração cuja remessa ao Tribunal de Contas pode efectuar-se depois da respectiva publicação.
 
-###### Art. 22.º - 1 - Os notários e demais entidades com funções notariais não poderão lavrar qualquer escritura sem verificar a conformidade do contrato com a respectiva minuta visada, nela fazendo disso menção.
+Art. 22.º - 1 - Os notários e demais entidades com funções notariais não poderão lavrar qualquer escritura sem verificar a conformidade do contrato com a respectiva minuta visada, nela fazendo disso menção.
 
 2 - Os traslados ou certidões serão remetidos ao Tribunal dentro de trinta dias depois da celebração da escritura acompanhados da respectiva minuta.
 
-###### Art. 23.º Os diplomas e despachos visados que não chegarem a ser publicados no Diário da República serão devolvidos ao Tribunal de Contas para anulação do competente visto.
+Art. 23.º Os diplomas e despachos visados que não chegarem a ser publicados no Diário da República serão devolvidos ao Tribunal de Contas para anulação do competente visto.
 
-###### Art. 24.º Os emolumentos previstos no artigo 6.º da tabela anexa ao [Decreto-Lei n.º 356/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1973-421409), de 14 de Julho, são contados pelo valor da minuta visada e devidos após a celebração do contrato.
+Art. 24.º Os emolumentos previstos no artigo 6.º da tabela anexa ao [Decreto-Lei n.º 356/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1973-421409), de 14 de Julho, são contados pelo valor da minuta visada e devidos após a celebração do contrato.
 
-###### Art. 25.º - 1 - Todos os diplomas e despachos que, ao abrigo do artigo 5.º do [Decreto-Lei n.º 513-Y/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385), de 27 de Dezembro, não foram submetidos a visto devem ser enviados, no prazo de trinta dias, a partir da entrada em vigor deste decreto-lei, ao Tribunal de Contas para efeitos de visto, sob a cominação de cessarem imediatamente os abonos deles resultantes.
+Art. 25.º - 1 - Todos os diplomas e despachos que, ao abrigo do artigo 5.º do [Decreto-Lei n.º 513-Y/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385), de 27 de Dezembro, não foram submetidos a visto devem ser enviados, no prazo de trinta dias, a partir da entrada em vigor deste decreto-lei, ao Tribunal de Contas para efeitos de visto, sob a cominação de cessarem imediatamente os abonos deles resultantes.
 
 2 - As consequências da recusa de visto e o trâmite das devoluções são os estabelecidos no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

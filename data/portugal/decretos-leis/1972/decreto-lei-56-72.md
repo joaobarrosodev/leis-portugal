@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1972-398976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d31490af82a1358f186f506116b596ced5c2e7a1a9554ff85ac4f7b419d68c91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d079d4338e7cfcff59242123c404cc48f2a5af374230a24445517a13bbca57d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior da Força Aérea
+- Criação de Serviços
+- Oficinas Gerais de Material Aeronáutico
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:18Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +94,17 @@ Sendo necessário harmonizar a dependência desse estabelecimento com as novas c
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As Oficinas Gerais de Material Aeronáutico passam a depender do chefe do Estado-Maior da Força Aérea, por intermédio de um dos subchefes do Estado-Maior da Força Aérea.
+Artigo 1.º As Oficinas Gerais de Material Aeronáutico passam a depender do chefe do Estado-Maior da Força Aérea, por intermédio de um dos subchefes do Estado-Maior da Força Aérea.
 
-###### Art. 2.º Podem ser criadas delegações das Oficinas Gerais de Material Aeronáutico, sob a dependência destas, por portaria do Secretário de Estado da Aeronáutica ou, quando devam estar situadas nas províncias ultramarinas, por portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
+Art. 2.º Podem ser criadas delegações das Oficinas Gerais de Material Aeronáutico, sob a dependência destas, por portaria do Secretário de Estado da Aeronáutica ou, quando devam estar situadas nas províncias ultramarinas, por portaria do Ministro do Ultramar e do Secretário de Estado da Aeronáutica.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Fevereiro de 1972.**
+Promulgado em 9 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 

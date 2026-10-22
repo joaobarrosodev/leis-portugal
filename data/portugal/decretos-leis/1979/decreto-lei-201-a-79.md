@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 149/1979, 1º Suplemento, Série I de 1979-06-30
   number: '149'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1418-(1) a 1418-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf
 entry_into_force_dates: []
@@ -46,40 +46,140 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-a-1979-662747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 145e7d3f9f6ac2cf22930b535d16b506b3954871a83b18421000dafbbf181d81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc6a64e53566292cd1437ffa5cfac67dffa345b985e7f603fc488ba13b5112f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:254430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:254430:por
+  label: "Alterado o n.º 6 do artigo 15.º do presente diploma, pelo DEC LEI.463-A/79.30.11.1979.MAI, DR.IS [277-2ºSupl] de\
+    \ 30.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/463-a-1979-254430
+  date: '1979-11-30'
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618082:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:369873:por
+  label: Rectificado pela DECL.DD7208.14.09.1979.PCM, DR.IS [213] de 14.09.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-369873
+  date: '1979-09-14'
 article_structure:
   article_count: 41
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:51Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +228,7 @@ QUADRO I
 
 Orçamento Geral do Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Perante o valor atingido pelas despesas correntes que tiveram de ser orçamentadas, e a fim de fazer descer significativamente o deficit corrente, adoptam-se medidas fiscais de carácter transitório tendentes a elevar as receitas.
 
@@ -156,7 +256,7 @@ QUADRO II
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 7. As receitas provenientes dos impostos directos são avaliadas em 48,1 milhões de contos, não considerando os valores das receitas da contribuição predial e do imposto sobre veículos referentes a 1979, em virtude de, nos termos da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), a totalidade do produto das cobranças daqueles impostos passar a constituir receitas a arrecadar pelos municípios.
 
@@ -178,7 +278,7 @@ QUADRO III
 
 Impostos directos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Também no que se refere ao imposto de capitais se procedeu a um ajustamento das previsões, estimando-se que as cobranças ascendam a 6,75 milhões de contos. Esta previsão assenta no crescimento estimado da matéria colectável, em especial da referente à secção B, em que avultam os juros de depósitos a prazo, tendo ainda em conta o conhecimento das cobranças já efectuadas nos primeiros meses do corrente ano.
 
@@ -200,7 +300,7 @@ QUADRO IV
 
 Impostos indirectos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Em contrapartida, na sobretaxa de importação espera-se que as cobranças alcancem apenas 3,5 milhões de contos, o que, em relação à gerência anterior, representa um decréscimo de quase 2,8 milhões de contos. Esta evolução deve-se às deduções do nível da sobretaxa de 30% para 20% e depois de 20% para 10%, efectuadas, respectivamente, a partir de Outubro de 1978, nos termos do [Decreto-Lei n.º 300/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1978-329026), e a partir de 3 de Maio último, em conformidade com o [Decreto-Lei n.º 110/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862), operadas em cumprimento de compromissos assumidos no domínio internacional.
 
@@ -272,7 +372,7 @@ Despesas orçamentais
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 As despesas do Ministério da Educação e Investigação Científica, que se avaliam em 32,5 milhões de contos, representando 11,5% do total, ultrapassam em 1 milhão de contos as do Orçamento do ano transacto, na sua posição final. Esta diferença virá a ser ampliada atendendo à utilização da dotação provisional nas despesas de pessoal, que têm grande peso neste Ministério. Note-se que, em relação ao Orçamento inicial de 1978, o acréscimo verificado é de 5 milhões de contos.
 
@@ -310,7 +410,7 @@ Despesas orçamentais
 
 (Classificação económica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 As outras transferências correntes, destinadas a instituições privadas, a particulares e ao exterior, excedem ligeiramente as inscritas no Orçamento anterior, concentrando-se principalmente nos Ministérios da Educação e Investigação Científica, dos Assuntos Sociais e das Finanças e do Plano.
 
@@ -338,7 +438,7 @@ Despesas orçamentais
 
 (Classificação funcional)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Aos serviços económicos correspondem 15,9% das despesas totais, destacando-se os transportes e comunicações e a agricultura, silvicultura e pesca.
 
@@ -392,7 +492,7 @@ QUADRO VIII
 
 Dívida pública e serviço da dívida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Atinge, portanto, 74,4 milhões de contos o valor total dos novos empréstimos que, na previsão orçamental, devem ser colocados junto das instituições financeiras e, em última instância, junto do Banco Central, de acordo com o estabelecido no n.º 2 do artigo 5.º da Lei do Orçamento. Em termos líquidos, deduzindo o valor das amortizações da dívida pública a efectuar, o recurso ao crédito do sistema bancário para o financiamento do deficit fixa-se assim em cerca de 69 milhões contos.
 
@@ -418,7 +518,7 @@ QUADRO IX
 
 Orçamento dos serviços autónomos para 1979 (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 (nota a) Em termos de contabilidade pública.
 
@@ -458,7 +558,7 @@ QUADRO X
 
 Orçamento dos fundos autónomos para 1979 (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 (nota a) Em termos de contabilidade pública.
 
@@ -474,7 +574,7 @@ QUADRO XI
 
 Orçamento de Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 As receitas correntes previstas para 1979 elevam-se a cerca de 72,5 milhões de contos, o que representa um acréscimo de 7,8 milhões de contos em relação à posição final do Orçamento de 1978. A previsão das contribuições, que atinge 66 milhões de contos, incluindo as cobranças relativas às regiões autónomas, baseia-se numa estimativa da massa salarial de 240 milhões de contos e engloba ainda uma parcela de 2,3 milhões de contos respeitante à cessão à segurança social de créditos sobre a Administração Pública de contribuintes devedores.
 
@@ -556,7 +656,7 @@ Verifica-se assim que o conjunto de receitas relativas às alíneas c) e b) do a
 
 A comparação, a seguir apresentada, entre as estimativas de execução orçamental da actividade dos municípios em 1978 e os valores orçamentados para 1979 denota nitidamente uma evolução favorável em relação à anteriormente existente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Esta evolução tem necessariamente importante peso no deficit apresentado no OGE e representa um sério esforço de apoio à autonomia financeira das autarquias locais.
 
@@ -584,7 +684,7 @@ QUADRO XII
 
 Orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Importa ainda referir que, conforme revelam os elementos apresentados em anexo à Lei do Orçamento, o deficit financiado pelo orçamento da segurança social referente às prestações e funcionamento do equipamento social nos Açores é fixado em 539,3 milhares de contos.
 
@@ -594,7 +694,7 @@ QUADRO XIII
 
 Orçamento da Região Autónoma da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Encontram-se a cargo do Orçamento Geral do Estado verbas no total de 975000 contos, inscritas por montante inferior no Orçamento da Região Autónoma correspondentes a despesas a efectuar com os serviços de educação (378 milhares de contos) e com os serviços no âmbito dos assuntos sociais (597 milhares de contos). Por sua vez, o valor dos dispêndios com os serviços ainda não transferidos que estão directamente a cargo do OGE é de 138 milhares de contos. Calcula-se ainda que a participação dos municípios nas receitas fiscais prevista nos termos da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532) atinja 585000 contos. Por outro lado, para compensação ao Estado pela cobrança local de impostos inscreveu-se no orçamento da Região Autónoma da Madeira uma transferência para o OGE de 79000 contos.
 
@@ -628,7 +728,7 @@ Orçamento do sector público administrativo
 
 (Em termos de contabilidade pública)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Projecções das contas nacionais do sector público administrativo
 
@@ -652,7 +752,7 @@ QUADRO XV
 
 Contas nacionais do sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Por se tratar de projecções, foram ainda admitidos níveis de realização das despesas orçamentais que se consideram realistas, atendendo à experiência existente sobre os resultados da execução orçamental. Para o Orçamento Geral do Estado foram assim consideradas taxas de execução de 94% nas despesas correntes em bens e serviços e transferências correntes e de 87% nas despesas de investimento e transferências de capital, admitindo-se, porém, a realização integral das transferências previstas para as autarquias locais.
 
@@ -672,7 +772,7 @@ QUADRO XVI
 
 Contas nacionais do sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 Assim, o valor previsto para o financiamento do deficit global do sector público administrativo através de recurso ao crédito do sistema bancário, líquido de reembolsos a efectuar, fixa-se em 55,9 milhões de contos.
 
@@ -1000,7 +1100,7 @@ d) Sobre o uso ou fruição de veículos:
 
 I) Automóveis e motociclos - As constantes do seguinte quadro e em conformidade com os grupos e escalões indicados nas tabelas I e II do n.º 1 do artigo 8.º do Regulamento do Imposto sobre Veículos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 II) Barcos de recreio e aeronaves - Taxa de 35% do imposto sobre veículos calculado nos termos das tabelas III e IV do n.º 1 do artigo 8.º do citado Regulamento.
 
@@ -1038,32 +1138,32 @@ Este decreto-lei entra em vigor na data do início da vigência da [Lei n.º 21-
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 30 de Junho de 1979.**
+Promulgado em 30 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Mapa das receitas previstas para 1978
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 ## ANEXO 2 — Mapa das despesas fixadas para 1979
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 ## ANEXO 3 — Orçamento Geral do Estado
 
 Resumo, por objectivos finais, das despesas do ano de 1979
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
-**O Ministro das Finanças e do Plano,**
+O Ministro das Finanças e do Plano,
 
 ## ANEXO 4 — Mapa das receitas fiscais para 1979 a que se refere o n.º 1 do artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
 
 ## ANEXO 5 — Mapa das comparticipações do Orçamento Geral do Estado para 1979 a que se refere o n.º 3 do artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14901/00010048.pdf)

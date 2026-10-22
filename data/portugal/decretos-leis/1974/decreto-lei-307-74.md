@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 156/1974, 1º Suplemento, Série I de 1974-07-06
   number: '156'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 788-(2) a 788-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15601/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1974-402960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3474209bfbfe6c2b198333be9c2cd26de2f5271d3a6fb7fcb51dbbc6c39bb968
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dabb5f69f0ba117a4b4cb8806fc612fd99ce0673a77b49e078742771d1a9a3a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Controlo do Comércio Externo
+- Definição de Competências
+- Secretaria de Estado do Comércio Externo e Turismo
 relationships:
 - type: amended_by
   target: pt:dre:460618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:450244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:460618:por
+  label: "Revogado pelo DEC LEI.387/80.20.09.1980.MCT, DR.IS [218] de 20.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-1980-460618
+  date: '1980-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:23Z'
   warnings: []
   errors: []
 ---
@@ -97,28 +113,28 @@ A experiência até agora adquirida demonstrou a vantagem da manutenção de um 
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Comissão de Contrôle do Comércio Externo, criada pelo artigo 1.º do [Decreto-Lei n.º 191/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200), de 6 de Maio, mantém-se em funcionamento na dependência da Secretaria de Estado do Comércio Externo e Turismo.
+Artigo 1.º A Comissão de Contrôle do Comércio Externo, criada pelo artigo 1.º do [Decreto-Lei n.º 191/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200), de 6 de Maio, mantém-se em funcionamento na dependência da Secretaria de Estado do Comércio Externo e Turismo.
 
-###### Art. 2.º - 1. Compete à Comissão o licenciamento de operações de importação e exportação de mercadorias de valores superiores, respectivamente, a 5000 contos e 2500 contos.
+Art. 2.º - 1. Compete à Comissão o licenciamento de operações de importação e exportação de mercadorias de valores superiores, respectivamente, a 5000 contos e 2500 contos.
 
 2. O licenciamento dessas operações será exercido com o objectivo de detectar tentativas de transferência ilícita de capitais para o exterior através de processos de facturação incorrecta.
 
 3. No que respeita ao licenciamento, mantém-se a competência atribuída em diplomas legais anteriores às entidades neles designadas em relação a operações de valores iguais ou inferiores aos indicados no n.º 1.
 
-###### Art. 3.º A Comissão de Contrôle do Comércio Externo exercerá vigilância sobre o desenvolvimento das importações de bens de consumo não essenciais e das exportações de produtos indispensáveis ao abastecimento do mercado interno, de forma a poder informar sobre as perspectivas de evolução dessas transacções e propor as medidas que julgue adequadas.
+Art. 3.º A Comissão de Contrôle do Comércio Externo exercerá vigilância sobre o desenvolvimento das importações de bens de consumo não essenciais e das exportações de produtos indispensáveis ao abastecimento do mercado interno, de forma a poder informar sobre as perspectivas de evolução dessas transacções e propor as medidas que julgue adequadas.
 
-###### Art. 4.º - 1. Mantêm-se em vigor os artigos 5.º e 6.º do [Decreto-Lei n.º 191/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200), de 6 de Maio.
+Art. 4.º - 1. Mantêm-se em vigor os artigos 5.º e 6.º do [Decreto-Lei n.º 191/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200), de 6 de Maio.
 
 2. São revogados os artigos 3.º e 4.º do [Decreto-Lei n.º 191/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200) e os mapas anexos ao mesmo decreto-lei.
 
 3. É revogado o [Decreto-Lei n.º 246/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1974-450244), de 7 de Junho.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida.
 
-**Promulgado em 6 de Julho de 1974.**
+Promulgado em 6 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

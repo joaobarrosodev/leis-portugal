@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 300/1974, 1º Suplemento, Série I de 1974-12-27
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1626-(2) a 1626-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30001/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/745-1974-372637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17dd9131b39b2add73ccb16e3937bb8a064b643705b8ac0791a0a273d0b385fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0787aa38b5ca8469db74206505a6a97514f1fbdc58999f186d5bafd521b0f75f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Quadro de Pessoal
+- Secretariado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:369823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232739:por
+  label: Substituído o quadro de pessoal, pelo(a) Portaria n.º 393-A/76 - Diário da República n.º 151/1976, 1º Suplemento,
+    Série I de 1976-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-a-1976-232739
+  date: '1976-06-30'
+- type: cites
+  target: pt:dre:422253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486875:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:369823:por
+  label: "Revogado pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:02Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +135,9 @@ Deste modo:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Aos artigos 4.º, 17.º e 18.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio, são acrescentados um n.º 6, ao primeiro, e um n.º 4, aos restantes, nos termos seguintes:
+Artigo 1.º Aos artigos 4.º, 17.º e 18.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio, são acrescentados um n.º 6, ao primeiro, e um n.º 4, aos restantes, nos termos seguintes:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 ...
 
@@ -115,38 +145,38 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 ...
 
 4. As acções de formação e aperfeiçoamento poderão ser confiadas a entidades nacionais ou estrangeiras, estranhas aos serviços, bem como a funcionários do Secretariado, segundo condições a definir por despacho ministerial.
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 ...
 
 4. Mediante autorização ministerial, poderá também ser requisitado pessoal aos Ministérios e serviços autónomos, nos termos do artigo 7.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de Março de 1966, quando se julgue indispensável para realização de tarefas que requeiram formação e experiência especializadas.
 
-###### Art. 2.º - 1. A estrutura orgânica prevista no n.º 1 do artigo 4.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio, bem como a competência dos órgãos e serviços estabelecida no [Decreto n.º 269/73](https://diariodarepublica.pt/dr/detalhe/decreto/269-1973-422253), de 30 de Maio, poderão ser modificadas ou adaptadas por despacho ministerial.
+Art. 2.º - 1. A estrutura orgânica prevista no n.º 1 do artigo 4.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio, bem como a competência dos órgãos e serviços estabelecida no [Decreto n.º 269/73](https://diariodarepublica.pt/dr/detalhe/decreto/269-1973-422253), de 30 de Maio, poderão ser modificadas ou adaptadas por despacho ministerial.
 
 2. Quando as alterações referidas no número anterior envolvam aumento de encargos, serão objecto de diploma conjunto dos Ministérios da Administração Interna e das Finanças.
 
-###### Art. 3.º As referências feitas ao Presidente do Conselho no [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) e no [Decreto n.º 269/73](https://diariodarepublica.pt/dr/detalhe/decreto/269-1973-422253), respectivamente de 29 e 30 de Maio, entendem-se feitas ao Ministério da Administração Interna.
+Art. 3.º As referências feitas ao Presidente do Conselho no [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) e no [Decreto n.º 269/73](https://diariodarepublica.pt/dr/detalhe/decreto/269-1973-422253), respectivamente de 29 e 30 de Maio, entendem-se feitas ao Ministério da Administração Interna.
 
-###### Art. 4.º - 1. Ao quadro do pessoal a que se refere o n.º 1 do artigo 11.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) são acrescentados os lugares referidos no mapa anexo ao presente diploma.
+Art. 4.º - 1. Ao quadro do pessoal a que se refere o n.º 1 do artigo 11.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) são acrescentados os lugares referidos no mapa anexo ao presente diploma.
 
 2. Do quadro anexo ao diploma referido no número anterior são excluídas as alíneas nele referidas.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30001/00020003.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30001/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30001/00020003.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás.**
+O Ministro da Administração Interna, Manuel da Costa Brás.

@@ -49,36 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46968-1966-487354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f75db225d87c2da98ba4fff2c553add357c4643fc7bf79129b301990a821a7ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6753aa55df97802715c231fe939daff1a03c398acbd51f446b00ac511bc76a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- AVAL do Estado
+- Empresa
+- Empréstimo
+- Fundo de Renovação da Marinha Mercante
+relationships:
+- type: cites
+  target: pt:dre:150556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429464:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:51Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +118,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Fundo de Renovação da Marinha Mercante autorizado a garantir, mediante aval, até ao montante de 60000000$00 e respectivos encargos, um empréstimo a médio prazo que à Empresa Insulana de Navegação, S. A. R. L., venha a ser concedido por uma ou mais instituições de crédito portuguesas para a habilitarem a proceder à compra de um navio de passageiros destinado à sua frota.
+Artigo 1.º Fica o Fundo de Renovação da Marinha Mercante autorizado a garantir, mediante aval, até ao montante de 60000000$00 e respectivos encargos, um empréstimo a médio prazo que à Empresa Insulana de Navegação, S. A. R. L., venha a ser concedido por uma ou mais instituições de crédito portuguesas para a habilitarem a proceder à compra de um navio de passageiros destinado à sua frota.
 
-###### Art. 2.º Sempre que o Fundo haja de fazer quaisquer pagamentos em consequência do aval prestado, os Ministros das Finanças e da Marinha autorizá-lo-ão a utilizar, para o efeito, receitas de qualquer proveniência ou habilitá-lo-ão, nos termos e pela forma que julgarem convenientes, com os meios financeiros indispensáveis.
+Art. 2.º Sempre que o Fundo haja de fazer quaisquer pagamentos em consequência do aval prestado, os Ministros das Finanças e da Marinha autorizá-lo-ão a utilizar, para o efeito, receitas de qualquer proveniência ou habilitá-lo-ão, nos termos e pela forma que julgarem convenientes, com os meios financeiros indispensáveis.
 
-###### Art. 3.º As responsabilidades assumidas pelo Fundo em consequência do aval, garanti-las-á a Empresa Insulana de Navegação, S. A. R. L., nos termos dos artigos 18.º a 20.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959.
+Art. 3.º As responsabilidades assumidas pelo Fundo em consequência do aval, garanti-las-á a Empresa Insulana de Navegação, S. A. R. L., nos termos dos artigos 18.º a 20.º do [Decreto-Lei n.º 42517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42517-1959-429464), de 21 de Setembro de 1959.
 
-###### Art. 4.º - 1. Observar-se-á o seguinte regime na execução do aval:
+Art. 4.º - 1. Observar-se-á o seguinte regime na execução do aval:
 
 a) A Empresa Insulana de Navegação, S. A. R. L., se não puder efectuar, na data do respectivo vencimento e no todo ou em parte, qualquer dos pagamentos contratuais garantidos pelo Fundo, comunicá-lo-á a este com a antecedência mínima de 60 dias;
 
@@ -119,8 +136,8 @@ d) O Fundo, quando realize quaisquer pagamentos em substituição da Empresa Ins
 
 2. No contrato a celebrar para a prestação da garantia reservar-se-á o Fundo a faculdade de proceder, no caso de mora do devedor, à imediata e antecipada liquidação do empréstimo, ficando sub-rogado em todos os direitos do credor.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08700/08360838.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1977-139956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c669fc5b84fcf22cb557de775b54a584449417746e08c6b1087bd741d8ff61d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82dd9fc31d87279bf959667de7f0bbf761cf9844d5c772d40cdd04d62fd8df36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Criação de Serviços
+- Definição de Competências
+- Ministério da Indústria e Tecnologia
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:366840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428021:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:13Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +119,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criada uma auditoria jurídica no Ministério da Indústria e Tecnologia.
+Artigo 1.º - 1. É criada uma auditoria jurídica no Ministério da Indústria e Tecnologia.
 
 2. A referida auditoria constitui um órgão de consulta jurídica e de apoio legislativo directamente dependente do Ministério da Indústria e Tecnologia e funcionando em ligação com a Secretaria-Geral do Ministério.
 
-###### Art. 2.º - 1. A auditoria jurídica é dirigida por um auditor, que será ajudante do procurador-geral da República, designado nos termos do Estatuto Judiciário.
+Art. 2.º - 1. A auditoria jurídica é dirigida por um auditor, que será ajudante do procurador-geral da República, designado nos termos do Estatuto Judiciário.
 
 2. O auditor jurídico depende hierarquicamente do procurador-geral da República nos termos da lei geral, ficando, porém, na dependência funcional do Ministro da Indústria e Tecnologia.
 
-###### Art. 3.º A auditoria jurídica exerce a sua competência nos seguintes domínios:
+Art. 3.º A auditoria jurídica exerce a sua competência nos seguintes domínios:
 
 a) Elaboração e apoio legislativo;
 
@@ -118,19 +137,19 @@ c) Contencioso administrativo;
 
 d) Colaboração no poder disciplinar.
 
-###### Art. 4.º No domínio da elaboração e apoio legislativo, compete-lhe:
+Art. 4.º No domínio da elaboração e apoio legislativo, compete-lhe:
 
 a) Elaborar os projectos de diplomas legais e quaisquer outros que lhe sejam solicitados pelo Ministro da Indústria e Tecnologia e restantes membros do Governo do seu Ministério;
 
 b) Verificar relativamente aos projectos de diplomas que lhe sejam submetidos para apreciação o seu rigor técnico-jurídico, propondo as alterações que se mostrarem necessárias.
 
-###### Art. 5.º No exercício da consulta jurídica, tem competência para:
+Art. 5.º No exercício da consulta jurídica, tem competência para:
 
 a) Dar pareceres, informações e proceder a estudo jurídico sobre quaisquer assuntos que lhe sejam submetidos;
 
 b) Suscitar oficiosamente quaisquer questões de natureza jurídica de que tenha tomado conhecimento por via do exercício das suas funções.
 
-###### Art. 6.º Em matéria de contencioso administrativo, compete especialmente à auditoria jurídica:
+Art. 6.º Em matéria de contencioso administrativo, compete especialmente à auditoria jurídica:
 
 a) Preparar os projectos de respostas nos recursos de contencioso administrativo para aprovação superior, quando nesses recursos sejam citados para responder o Ministro da Indústria e Tecnologia e qualquer outro membro do Governo do seu Ministério;
 
@@ -138,64 +157,64 @@ b) Acompanhar o andamento dos processos de recurso no Supremo Tribunal Administr
 
 c) Organizar os processos administrativos relativos aos recursos em que tenha intervindo.
 
-###### Art. 7.º À auditoria jurídica, quando seja chamada a colaborar no poder disciplinar, compete:
+Art. 7.º À auditoria jurídica, quando seja chamada a colaborar no poder disciplinar, compete:
 
 a) Intervir através do auditor, assessor e consultores jurídicos, em conjunto ou individualmente, em quaisquer sindicâncias, inquéritos ou averiguações, designadamente quando para a instrução dos respectivos processos se torne necessária a nomeação de pessoas com formação jurídica;
 
 b) Pronunciar-se sobre quaisquer processos dos referidos na alínea anterior, emitindo sobre eles parecer que lhe haja sido solicitado.
 
-###### Art. 8.º O auditor jurídico assume a responsabilidade por todos os trabalhos produzidos na auditoria e deverá assinar os mesmos conjuntamente com o seu autor.
+Art. 8.º O auditor jurídico assume a responsabilidade por todos os trabalhos produzidos na auditoria e deverá assinar os mesmos conjuntamente com o seu autor.
 
-###### Art. 9.º Sendo submetido à auditoria jurídica qualquer assunto que revista especial importância que interesse a vários departamentos ministeriais ou sobre o qual tenha já sido produzido parecer por qualquer outra auditoria, deverá o auditor propor ao Ministro da Indústria e Tecnologia que a matéria seja apresentada ao conselho consultivo da Procuradoria-Geral da República.
+Art. 9.º Sendo submetido à auditoria jurídica qualquer assunto que revista especial importância que interesse a vários departamentos ministeriais ou sobre o qual tenha já sido produzido parecer por qualquer outra auditoria, deverá o auditor propor ao Ministro da Indústria e Tecnologia que a matéria seja apresentada ao conselho consultivo da Procuradoria-Geral da República.
 
-###### Art. 10.º Para o exercício das funções que lhe são atribuídas pelo presente diploma, o auditor poderá corresponder-se directamente com quaisquer organismos ou autoridades, solicitando destes as diligências e informações que forem julgadas necessárias ao desenvolvimento da sua actividade.
+Art. 10.º Para o exercício das funções que lhe são atribuídas pelo presente diploma, o auditor poderá corresponder-se directamente com quaisquer organismos ou autoridades, solicitando destes as diligências e informações que forem julgadas necessárias ao desenvolvimento da sua actividade.
 
-###### Art. 11.º - 1. O apoio burocrático e administrativo indispensável ao funcionamento da auditoria será prestado pela Secretaria-Geral do Ministério.
+Art. 11.º - 1. O apoio burocrático e administrativo indispensável ao funcionamento da auditoria será prestado pela Secretaria-Geral do Ministério.
 
 2. O auditor jurídico poderá propor ao Ministro da Indústria e Tecnologia que seja destacado com carácter de permanência à Secretaria-Geral o pessoal administrativo necessário ao seu próprio expediente.
 
-###### Art. 12.º O pessoal privativo da auditoria jurídica é constituído pelo pessoal dirigente e técnico constante do quadro anexo ao presente diploma e do qual constam igualmente a sua dotação e respectivos vencimentos, sendo a referida dotação susceptível de revisão por portaria conjunta do Ministro da Indústria e Tecnologia e do Ministro das Finanças.
+Art. 12.º O pessoal privativo da auditoria jurídica é constituído pelo pessoal dirigente e técnico constante do quadro anexo ao presente diploma e do qual constam igualmente a sua dotação e respectivos vencimentos, sendo a referida dotação susceptível de revisão por portaria conjunta do Ministro da Indústria e Tecnologia e do Ministro das Finanças.
 
-###### Art. 13.º O preenchimento do quadro do pessoal da auditoria jurídica é feito pela categoria de consultor jurídico de 2.ª classe, por via de concurso documental, ao qual poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
+Art. 13.º O preenchimento do quadro do pessoal da auditoria jurídica é feito pela categoria de consultor jurídico de 2.ª classe, por via de concurso documental, ao qual poderão candidatar-se licenciados em Direito que reúnam as necessárias condições legais.
 
-###### Art. 14.º - 1. Os consultores jurídicos que tenham prestado no mínimo três anos de serviço na respectiva categoria serão promovidos à categoria imediatamente superior mediante concurso documental.
+Art. 14.º - 1. Os consultores jurídicos que tenham prestado no mínimo três anos de serviço na respectiva categoria serão promovidos à categoria imediatamente superior mediante concurso documental.
 
 2. Os concursos serão presididos por um júri composto de um jurista de reconhecido mérito designado pelo Ministro da Indústria e Tecnologia e que servirá de presidente, por um ajudante do procurador-geral designado pelo procurador-geral da República e pelo auditor jurídico do Ministério da Indústria e Tecnologia.
 
 3. As matérias a apreciar pelo júri são essencialmente constituídas por trabalhos elaborados na auditoria jurídica, podendo o Ministro da Indústria e Tecnologia, quando não haja candidatos suficientes com o referido tempo mínimo de serviço, autorizar que sejam opositores facultativos nos respectivos concursos de promoção os consultores jurídicos sem o tempo de serviço acima fixado.
 
-###### Art. 15.º Faz-se por nomeação o provimento do pessoal em qualquer dos lugares do quadro privativo da auditoria jurídica.
+Art. 15.º Faz-se por nomeação o provimento do pessoal em qualquer dos lugares do quadro privativo da auditoria jurídica.
 
-###### Art. 16.º Nos termos do n.º 3 do artigo 25.º do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio, no prazo de vinte dias, a contar da data da publicação deste diploma, será publicada lista nominativa do pessoal dos organismos extintos que transitará para a auditoria jurídica.
+Art. 16.º Nos termos do n.º 3 do artigo 25.º do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio, no prazo de vinte dias, a contar da data da publicação deste diploma, será publicada lista nominativa do pessoal dos organismos extintos que transitará para a auditoria jurídica.
 
-###### Art. 17.º - 1. No primeiro provimento dos lugares do quadro privativo da auditoria jurídica o Ministro da Indústria e Tecnologia nomeará, por livre escolha, os licenciados em Direito já vinculados, a qualquer título, ao Ministério ou à Administração Pública.
+Art. 17.º - 1. No primeiro provimento dos lugares do quadro privativo da auditoria jurídica o Ministro da Indústria e Tecnologia nomeará, por livre escolha, os licenciados em Direito já vinculados, a qualquer título, ao Ministério ou à Administração Pública.
 
 2. O pessoal referido no número anterior ingressará no quadro da auditoria jurídica sem prejuízo dos direitos adquiridos, mediante lista nominativa, da qual constará a categoria em que são nomeados, a publicar no Diário da República no prazo de trinta dias, aprovada pelo Ministro da Indústria e Tecnologia e visada pelo Tribunal de Contas, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de qualquer outra formalidade.
 
 3. Aplicar-se-á o regime previsto nos artigos 13.º, 14.º e 15.º deste diploma para os lugares não preenchidos através da lista nominal.
 
-###### Art. 18.º O regime de pessoal do Ministério da Indústria e Tecnologia, designadamente no que respeita a formas e requisitos de provimento, sistema de admissão, promoção e formação, a aprovar por decreto dos Ministros da Indústria e Tecnologia, da Administração Interna e das Finanças, será aplicável ao pessoal da auditoria jurídica, na medida em que não contrarie o estipulado no presente diploma.
+Art. 18.º O regime de pessoal do Ministério da Indústria e Tecnologia, designadamente no que respeita a formas e requisitos de provimento, sistema de admissão, promoção e formação, a aprovar por decreto dos Ministros da Indústria e Tecnologia, da Administração Interna e das Finanças, será aplicável ao pessoal da auditoria jurídica, na medida em que não contrarie o estipulado no presente diploma.
 
-###### Art. 19.º Os encargos derivados da execução do presente diploma serão suportados por conta das dotações inscritas ou a inscrever afectas ao orçamento da Secretaria-Geral do Ministério da Indústria e Tecnologia.
+Art. 19.º Os encargos derivados da execução do presente diploma serão suportados por conta das dotações inscritas ou a inscrever afectas ao orçamento da Secretaria-Geral do Ministério da Indústria e Tecnologia.
 
-###### Art. 20.º O auditor jurídico do Ministério da Indústria e Tecnologia apresentará ao respectivo Ministro, para aprovação, o regulamento interno da auditoria no prazo de quinze dias, a contar da data da publicação do presente diploma.
+Art. 20.º O auditor jurídico do Ministério da Indústria e Tecnologia apresentará ao respectivo Ministro, para aprovação, o regulamento interno da auditoria no prazo de quinze dias, a contar da data da publicação do presente diploma.
 
-###### Art. 21.º Ficam revogados a alínea b) do artigo 10.º e o artigo 32.º do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio.
+Art. 21.º Ficam revogados a alínea b) do artigo 10.º e o artigo 32.º do [Decreto-Lei n.º 358/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1976-428021), de 14 de Maio.
 
-###### Art. 22.º As dúvidas e casos omissos resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro da Indústria e Tecnologia.
+Art. 22.º As dúvidas e casos omissos resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro da Indústria e Tecnologia.
 
-###### Art. 23.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 23.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreiro - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 22 de Março de 1977.**
+Promulgado em 22 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 13.º do Decreto-Lei n.º 155/77
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/08700/08360838.pdf))](https://files.diariodarepublica.pt/1s/1977/04/08700/08360838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08700/08360838.pdf)
 
-**O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.**
+O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.

@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46731-1965-507846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46c84ab901a951be5553157456b6694a5ba5dd976c0a47f80c78378e4d7d5721
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eebd04c0a89af53c5b18b006bc0ade40dd77d8151fa0e9d21e8a37748d97116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Trabalho e Corporações
+- Ministério das Corporações e Previdência Social
+- Quadro de Pessoal
+- Serviço Nacional de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:324735:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:28Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +137,9 @@ Serviço Nacional de Emprego
 
 ### CAPÍTULO I — Organização e atribuições
 
-###### Artigo 1.º É criado, na Direcção-Geral do Trabalho e Corporações, do Ministério das Corporações e Previdência Social, o Serviço Nacional de Emprego (S. N. E.).
+Artigo 1.º É criado, na Direcção-Geral do Trabalho e Corporações, do Ministério das Corporações e Previdência Social, o Serviço Nacional de Emprego (S. N. E.).
 
-###### Art. 2.º São atribuições do S. N. E.
+Art. 2.º São atribuições do S. N. E.
 
 a) Organizar e manter em funcionamento serviços públicos gratuitos de colocação;
 
@@ -152,19 +165,19 @@ l) Colaborar com os serviços de assistência e protecção aos trabalhadores em
 
 § único. Para os efeitos da alínea g) deste artigo, funcionará no S. N. E. uma comissão constituída por um representante do Fundo de Desenvolvimento da Mão-de-Obra, que presidirá, um representante daquele Serviço, um representante da Junta da Emigração e um representante dos Serviços de Povoamento do Ministério do Ultramar, à qual caberá emitir parecer sobre todos os assuntos respeitantes às matérias da referida alínea, bem como propor superiormente as medidas que tiver por conveniente.
 
-###### Art. 3.º - 1. O S. N. E. compreende uma administração central e divisões regionais.
+Art. 3.º - 1. O S. N. E. compreende uma administração central e divisões regionais.
 
 2. No desempenho das suas funções, o S. N. E. será apoiado pelos serviços do Fundo de Desenvolvimento da Mão-de-obra e assistido, para os efeitos das alíneas c) e f) do artigo anterior, pelo conselho consultivo daquele Fundo.
 
 3. As divisões regionais colaborarão com as delegações do Instituto Nacional do Trabalho e Previdência existentes na área da sua jurisdição em todas as matérias relacionadas com os problemas do emprego e poderão ser assistidas, segundo as necessidades, por conselhos consultivos regionais.
 
-###### Art. 4.º - 1. Os centros de colocação das divisões regionais do S. N. E. serão, tanto quanto possível, dotados de secções especializadas segundo o ramo de actividade ou profissão, podendo igualmente dispor de serviços destinados à colocação de diminuídos físicos e de menores.
+Art. 4.º - 1. Os centros de colocação das divisões regionais do S. N. E. serão, tanto quanto possível, dotados de secções especializadas segundo o ramo de actividade ou profissão, podendo igualmente dispor de serviços destinados à colocação de diminuídos físicos e de menores.
 
 2. Cada divisão deverá dispor de um centro de orientação profissional e de uma secção incumbida do estudo do mercado de emprego.
 
 ### CAPÍTULO II — Colocação
 
-###### Art. 5.º - 1. Os centros de colocação destinam-se a auxiliar gratuitamente:
+Art. 5.º - 1. Os centros de colocação destinam-se a auxiliar gratuitamente:
 
 a) Os trabalhadores, na obtenção de empregos adequados às suas aptidões;
 
@@ -174,51 +187,51 @@ b) As entidades patronais, no recrutamento de trabalhadores que convenham às ne
 
 ### CAPÍTULO III — Orientação profissional
 
-###### Art. 6.º - 1. Compete aos serviços de orientação profissional do S. N. E. informar os jovens candidatos a um emprego das condições de acesso às diferentes profissões e guiá-los na escolha de uma profissão no início da sua carreira.
+Art. 6.º - 1. Compete aos serviços de orientação profissional do S. N. E. informar os jovens candidatos a um emprego das condições de acesso às diferentes profissões e guiá-los na escolha de uma profissão no início da sua carreira.
 
 2. A orientação profissional será facultada, designadamente aos que se aproximem do termo do período de escolaridade, aos que pela primeira vez procurem um emprego e aos que pretendam iniciar uma aprendizagem.
 
 3. A orientação profissional nas regiões rurais será objecto de atenção particular e disporá de meios adequados.
 
-###### Art. 7.º Os serviços de orientação profissional serão extensivos aos adultos que desejem ser aconselhados na escolha de profissão com vista à sua promoção profissional.
+Art. 7.º Os serviços de orientação profissional serão extensivos aos adultos que desejem ser aconselhados na escolha de profissão com vista à sua promoção profissional.
 
 ### CAPÍTULO IV — Estudo do mercado de emprego
 
-###### Art. 8.º Compete ao S. N. E. reunir e analisar todas as informações disponíveis sobre a situação do mercado de emprego nas diferentes indústrias, profissões e regiões.
+Art. 8.º Compete ao S. N. E. reunir e analisar todas as informações disponíveis sobre a situação do mercado de emprego nas diferentes indústrias, profissões e regiões.
 
-###### Art. 9.º O S. N. E. deverá colaborar com as entidades competentes, nomeadamente o Comissariado do Desemprego, o Instituto Nacional de Estatística e os serviços do Fundo de Desenvolvimento da Mão-de-Obra, na realização de estimativas sobre as necessidades presentes e futuras de mão-de-obra, tendo em vista os planos de desenvolvimento económico; estas estimativas deverão incluir dados sobre o número, sexo, nível de qualificação dos trabalhadores e prazos em que deverão concluir a sua formação, classificados por actividades, profissões e regiões.
+Art. 9.º O S. N. E. deverá colaborar com as entidades competentes, nomeadamente o Comissariado do Desemprego, o Instituto Nacional de Estatística e os serviços do Fundo de Desenvolvimento da Mão-de-Obra, na realização de estimativas sobre as necessidades presentes e futuras de mão-de-obra, tendo em vista os planos de desenvolvimento económico; estas estimativas deverão incluir dados sobre o número, sexo, nível de qualificação dos trabalhadores e prazos em que deverão concluir a sua formação, classificados por actividades, profissões e regiões.
 
-###### Art. 10.º O S. N. E. deve cooperar com todos os organismos que tenham por missão o estudo de planos sociais e económicos susceptíveis de influenciar favoràvelmente a situação do emprego.
+Art. 10.º O S. N. E. deve cooperar com todos os organismos que tenham por missão o estudo de planos sociais e económicos susceptíveis de influenciar favoràvelmente a situação do emprego.
 
 ### CAPÍTULO V — Mobilidade da mão-de-obra e emigração
 
-###### Art. 11.º Com o objectivo de facilitar a mobilidade geográfica dos trabalhadores, favorecendo os mais elevados níveis de produção e de emprego, o S. N. E. utilizará, entre outros, os seguintes meios:
+Art. 11.º Com o objectivo de facilitar a mobilidade geográfica dos trabalhadores, favorecendo os mais elevados níveis de produção e de emprego, o S. N. E. utilizará, entre outros, os seguintes meios:
 
 a) Divulgação de informações sobre possibilidades de emprego e condições de vida noutras regiões, incluindo as disponibilidades de alojamentos convenientes;
 
 b) Concessão de subsídios para diminuir os obstáculo de carácter económico relativamente às deslocações de trabalhadores consideradas necessárias.
 
-###### Art. 12.º Com o objectivo de adaptar a oferta de mão-de-obra e os meios de formação profissional às tendências do mercado de emprego, o S. N. E. deverá colaborar com os serviços competentes do Fundo de Desenvolvimento da Mão-de-Obra na programação de cursos de formação ou readaptação profissional, fazer a escolha dos que hão-de frequentá-los e promover a colocação dos que os concluírem.
+Art. 12.º Com o objectivo de adaptar a oferta de mão-de-obra e os meios de formação profissional às tendências do mercado de emprego, o S. N. E. deverá colaborar com os serviços competentes do Fundo de Desenvolvimento da Mão-de-Obra na programação de cursos de formação ou readaptação profissional, fazer a escolha dos que hão-de frequentá-los e promover a colocação dos que os concluírem.
 
-###### Art. 13.º Tendo em conta as conveniências da política de emprego e os interesses dos trabalhadores, o S. N. E., por intermédio dos seus serviços regionais, efectuará, sem prejuízo da competência actual da Junta da Emigração, a inscrição e a selecção dos trabalhadores que pretendam emigrar, informando-os, em colaboração com os Serviços de Povoamento do Ministério do Ultramar, sobre as condições de trabalho e oportunidade de emprego no País, tanto na metrópole como nas províncias ultramarinas, e procurando por essa forma diminuir a propensão à emigração para o estrangeiro. Além disso, em colaboração com as mesmas entidades, diligenciará informar os trabalhadores emigrados das possibilidades de ocupação no espaço português em empregos adequados às respectivas qualificações.
+Art. 13.º Tendo em conta as conveniências da política de emprego e os interesses dos trabalhadores, o S. N. E., por intermédio dos seus serviços regionais, efectuará, sem prejuízo da competência actual da Junta da Emigração, a inscrição e a selecção dos trabalhadores que pretendam emigrar, informando-os, em colaboração com os Serviços de Povoamento do Ministério do Ultramar, sobre as condições de trabalho e oportunidade de emprego no País, tanto na metrópole como nas províncias ultramarinas, e procurando por essa forma diminuir a propensão à emigração para o estrangeiro. Além disso, em colaboração com as mesmas entidades, diligenciará informar os trabalhadores emigrados das possibilidades de ocupação no espaço português em empregos adequados às respectivas qualificações.
 
-###### Art. 14.º O S. N. E., por intermédio dos seus serviços centrais, estabelecerá as prioridades a atender, por categorias profissionais e regiões, nos recrutamentos colectivos de emigrantes previstos em acordos internacionais de emigração ou instrumentos análogos.
+Art. 14.º O S. N. E., por intermédio dos seus serviços centrais, estabelecerá as prioridades a atender, por categorias profissionais e regiões, nos recrutamentos colectivos de emigrantes previstos em acordos internacionais de emigração ou instrumentos análogos.
 
 ### CAPÍTULO VI — Pessoal
 
-###### Art. 15.º - 1. O quadro do pessoal do S. N. E., assim como as condições de provimento nos respectivos lugares, constarão de diploma especial referendado pelos Ministros das Finanças e das Corporações e Previdência Social.
+Art. 15.º - 1. O quadro do pessoal do S. N. E., assim como as condições de provimento nos respectivos lugares, constarão de diploma especial referendado pelos Ministros das Finanças e das Corporações e Previdência Social.
 
 2. Os encargos com o S. N. E. serão suportados pelo Fundo de Desenvolvimento da Mão-de-Obra, competindo ao Ministro das Corporações e Previdência Social o provimento do pessoal.
 
 3. O quadro a que se refere o n.º 1 fará parte da Direcção-Geral do Trabalho e Corporações e é considerado, para todos os efeitos, como quadro permanente do Estado, em condições idênticas às dos demais quadros do Ministério das Corporações e Previdência Social, aprovados pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951.
 
-###### Art. 16.º - 1. Relativamente aos encargos a que se refere o n.º 2 do artigo anterior, observar-se-á o disposto no n.º 1 do artigo 4.º do Decreto n.º 44785, de 7 de Dezembro de 1962.
+Art. 16.º - 1. Relativamente aos encargos a que se refere o n.º 2 do artigo anterior, observar-se-á o disposto no n.º 1 do artigo 4.º do Decreto n.º 44785, de 7 de Dezembro de 1962.
 
 2. A inscrição destes encargos no Orçamento Geral do Estado terá início no orçamento para o ano de 1966.
 
 3. Até final do corrente ano os encargos serão directamente satisfeitos pelo Fundo de Desenvolvimento da Mão-de-Obra.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

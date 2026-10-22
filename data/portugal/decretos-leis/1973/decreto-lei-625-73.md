@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1973-412036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7df510f5d6606739e1cd3f2aaf76b1b237deb87d5979877c1cb7a510ab78a217
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b309371487bc568da9669aecf703230fb5330a731322bd75b35526c19998324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:24Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +93,9 @@ de 23 de Novembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 17.º e 24.º da Lei Orgânica do Ministério dos Negócios Estrangeiros, aprovada pelo [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passam a ter a redacção seguinte:
+Artigo único. Os artigos 17.º e 24.º da Lei Orgânica do Ministério dos Negócios Estrangeiros, aprovada pelo [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passam a ter a redacção seguinte:
 
-###### Art. 17.º Haverá as seguintes categorias de postos consulares:
+Art. 17.º Haverá as seguintes categorias de postos consulares:
 
 a) Consulados-gerais e consulados geridos por funcionários do serviço diplomático;
 
@@ -99,14 +105,14 @@ c) Consulados geridos por cônsules enviados;
 
 d) Consulados, vice-consulados e agências consulares, geridos por cônsules, vice-cônsules e agentes consulares honorários, nacionais ou estrangeiros.
 
-###### Art. 24.º Estranhos ao serviço diplomático poderá haver quadros de conselheiros ou adidos com funções especializadas, cônsules enviados, cônsules, vice-cônsules e agentes consulares honorários, chanceleres e os funcionários técnicos que forem considerados necessários à execução dos serviços diplomáticos e consulares.
+Art. 24.º Estranhos ao serviço diplomático poderá haver quadros de conselheiros ou adidos com funções especializadas, cônsules enviados, cônsules, vice-cônsules e agentes consulares honorários, chanceleres e os funcionários técnicos que forem considerados necessários à execução dos serviços diplomáticos e consulares.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 14 de Novembro de 1973.**
+Promulgado em 14 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

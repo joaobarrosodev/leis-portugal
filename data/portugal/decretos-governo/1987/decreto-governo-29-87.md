@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/29-1987-417796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68ee3a58ba989ab9344fe95774d03d1a1b1cf1a1b50859c0cdf160eb37a96380
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c550063db5fb86f90a198dbc9cf33740c986d24dc1a4896fe8a67f8f3c19cac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Local
+- Administração Regional
+- Conselho da Europa
+- Convenção
+- Cooperação Internacional
+- Cooperação Transfronteira
+- Madrid
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:220904:por
+  label: null
+  source: null
 article_structure:
-  article_count: 58
+  article_count: 64
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:15Z'
   warnings: []
   errors: []
 ---
@@ -88,21 +100,21 @@ de 13 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção-Quadro Europeia para a Cooperação Transfronteira entre as Comunidades ou Autoridades Territoriais, aberta à assinatura dos Estados membros do Conselho da Europa em 21 de Maio de 1980, cuja versão original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo 1.º É aprovada, para ratificação, a Convenção-Quadro Europeia para a Cooperação Transfronteira entre as Comunidades ou Autoridades Territoriais, aberta à assinatura dos Estados membros do Conselho da Europa em 21 de Maio de 1980, cuja versão original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
 
-###### Art. 2.º É revogado o [Decreto do Governo n.º 15/86](https://diariodarepublica.pt/dr/detalhe/decreto-governo/15-1986-220904), de 19 de Novembro.
+Art. 2.º É revogado o [Decreto do Governo n.º 15/86](https://diariodarepublica.pt/dr/detalhe/decreto-governo/15-1986-220904), de 19 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1987. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Pedro José Rodrigues Pires de Miranda - José Albino de Silva Peneda.
 
-**Assinado em 9 de Julho de 1987.**
+Assinado em 9 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1987.**
+Referendado em 15 de Julho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Convention-Cadre européenne sur la Coopération transfrontalière des Collectivités ou Autorités territoriales
 
@@ -982,7 +994,7 @@ Cada Parte contratante providenciará para que as comunidades ou autoridades ter
 
 ###### ARTIGO 12.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, bem como todos os Estados que tenham aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, bem como todos os Estados que tenham aderido à presente Convenção:
 
 a) De qualquer assinatura;
 
@@ -1062,7 +1074,7 @@ Os Estados terão a possibilidade de recorrer quer a uma só opção quer a vár
 
 Cláusulas gerais para modelos de acordo 1.1 a 1.5
 
-Artigo A
+###### Artigo A
 
 1 - Para os fins do presente acordo, a expressão «autoridades regionais» designa as autoridades, comunidades ou organismos que exerçam funções locais em conformidade com o direito interno de cada Estado.
 
@@ -1070,37 +1082,37 @@ Artigo A
 
 (nota 2) O parágrafo 2 não será incluído nos modelos de acordo 1.3, 1.4 e 1.5.
 
-Artigo B
+###### Artigo B
 
 O presente acordo não prejudicará as diversas formas de cooperação transfronteira já existentes nos Estados Partes e, em particular, as estabelecidas com base num acordo internacional.
 
-Artigo C
+###### Artigo C
 
 As Partes informarão as autoridades regionais e locais dos meios de acção de que dispõem e encorajá-las-ão ao recorrer a esses meios.
 
-Artigo D
+###### Artigo D
 
 Para os fins do presente acordo, a expressão «autoridades superiores» designa as autoridades tutela designadas por cada Parte.
 
-Artigo E
+###### Artigo E
 
 O âmbito e a natureza das competências das autoridades locais, consoante são definidas pelo direito interno dos Estados Partes, não serão, de modo algum, alterados pelo presente acordo.
 
-Artigo F
+###### Artigo F
 
 Cada Estado pode, em qualquer momento, indicar as áreas do seu território, os objectivos e as formas de cooperação aos quais o presente acordo não será aplicável.
 
 Contudo, tal indicação não prejudicará os direitos adquiridos no âmbito das cooperações já existentes.
 
-Artigo G
+###### Artigo G
 
 As Partes manterão o Secretário-Geral do Conselho da Europa informado sobre as actividades das comissões, dos comités e de outros organismos investidos de qualquer missão no âmbito do presente acordo.
 
-Artigo H
+###### Artigo H
 
 As Partes poderão introduzir no presente acordo, por simples troca de notas, alterações de pouca importância suscitadas pela experiência adquirida.
 
-Artigo I
+###### Artigo I
 
 1 - Cada Parte notificará a outra de que já preencheu todos os requisitos exigidos pelo seu direito interno para a entrada em vigor do presente acordo, o qual produzirá efeitos a partir da data da última notificação.
 
@@ -1280,7 +1292,7 @@ A sua actividade desenrolar-se-á no respeito das responsabilidades dos seus mem
 
 Contudo, os membros destes comités poderão, no âmbito dos acordos de cooperação, decidir conjuntamente quais as medidas ou restrições que nortearão as suas acções, bem como as regras de consultas prévias que entendam seguir.
 
-###### Artigo 4.º (alternativa)
+Artigo 4.º (alternativa)
 
 Com o objectivo de facilitar a actividade destes comités para a concertação, as autoridades locais interessadas poderão criar, dentro dos limites de poderes que lhes são atribuídos pelo direito interno, associações destinadas a fornecer apoio jurídico à sua cooperação.
 
@@ -1624,7 +1636,7 @@ Modificação e resolução do contrato
 
 O artigo 8.º estabelece as regras observáveis em caso de modificação ou resolução do contrato.
 
-###### Artigo 9.º As Partes informarão o Secretário-Geral do Conselho da Europa da celebração do presente acordo e transmitir-lhe-ão o respectivo texto.
+Artigo 9.º As Partes informarão o Secretário-Geral do Conselho da Europa da celebração do presente acordo e transmitir-lhe-ão o respectivo texto.
 
 2.5 - Esquema de contrato de prestação de serviços ou fornecimentos entre autoridades locais fronteiriças (de tipo «direito público»).
 

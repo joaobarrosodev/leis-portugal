@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/548-1972-685633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb2776fd0990a00cd5b2d0f4a86157fc6f2a4cbb011c1270c528c22edc36e258
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df99d93762016f5ff5c7f378f3add42fc671e031ca383b21898a584b0d9e4d20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:22Z'
   warnings: []
   errors: []
 ---
@@ -88,31 +92,31 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 84087880$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 84087880$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
+Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
 
 Serviço do pessoal
 
 Sargentos e praças do activo
 
-###### Artigo 65.º «Alimentação e alojamento - Em espécie»:
+Artigo 65.º «Alimentação e alojamento - Em espécie»:
 
 N.º 2) «Rações, ...» ... 6000000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 5.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 5.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 77.º «Bens duradouros»:
+Artigo 77.º «Bens duradouros»:
 
 N.º 1) «Construções e grandes reparações»:
 
 Alínea 4 «Estabelecimentos de saúde e assistência» ... 260000$00
 
-### Capítulo 22.º «Direcção-Geral das Construções Escolares»:
+Capítulo 22.º «Direcção-Geral das Construções Escolares»:
 
 Educação e investigação
 
@@ -120,11 +124,11 @@ Educação e investigação ligada ao ensino
 
 Edifícios do ensino primário
 
-###### Artigo 380.º «Transferências - Sector público»:
+Artigo 380.º «Transferências - Sector público»:
 
 N.º 1) «Autarquias locais» ... 2547800$00
 
-###### Artigo 381.º «Activos financeiros»:
+Artigo 381.º «Activos financeiros»:
 
 N.º 1) «Empréstimos não titulados a longo prazo» ... 2547800$00
 
@@ -132,7 +136,7 @@ N.º 1) «Empréstimos não titulados a longo prazo» ... 2547800$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Instrução universitária
 
@@ -140,19 +144,19 @@ Universidade Técnica de Lisboa
 
 Instituto Superior Técnico
 
-###### Artigo 550.º «Despesas gerais de funcionamento»:
+Artigo 550.º «Despesas gerais de funcionamento»:
 
 N.º 6) «Trabalhos especiais diversos» ... 200000$00
 
 Ministério da Economia
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 430.º «Direcção-Geral dos Serviços Pecuários»:
+Artigo 430.º «Direcção-Geral dos Serviços Pecuários»:
 
 N.º 5) «Estações de fomento pecuário» ... 300000$00
 
-###### Artigo 432.º «Fundo de Fomento de Exportação»:
+Artigo 432.º «Fundo de Fomento de Exportação»:
 
 N.º 1) «Serviços gerais» ... 68500000$00
 
@@ -160,45 +164,45 @@ N.º 1) «Serviços gerais» ... 68500000$00
 
 Ministério das Comunicações
 
-### Capítulo 17.º «Direcção-Geral de Transportes Terrestres»:
+Capítulo 17.º «Direcção-Geral de Transportes Terrestres»:
 
 Transportes urbanos e suburbanos
 
 Estações centrais de camionagem
 
-###### Artigo 442.º «Investimentos»:
+Artigo 442.º «Investimentos»:
 
 N.º 1) «Edifícios» ... 3732280$00
 
 ... 84087880$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, é aumentada a previsão no orçamento das receitas do Estado das seguintes rubricas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, é aumentada a previsão no orçamento das receitas do Estado das seguintes rubricas:
 
 Receita ordinária
 
-### Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 260000$00
+Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 260000$00
 
-### Capítulo 7.º, grupo 10, artigo 217.º «Estabelecimentos de ensino» ... 200000$00
+Capítulo 7.º, grupo 10, artigo 217.º «Estabelecimentos de ensino» ... 200000$00
 
-### Capítulo 7.º, grupo 10, artigo 235.º «Reembolso das despesas com a alimentação dos oficiais, sargentos e praças da Armada» ... 6000000$00
+Capítulo 7.º, grupo 10, artigo 235.º «Reembolso das despesas com a alimentação dos oficiais, sargentos e praças da Armada» ... 6000000$00
 
-### Capítulo 15.º artigo 327.º «Direcção-Geral dos Serviços Pecuários»:
+Capítulo 15.º artigo 327.º «Direcção-Geral dos Serviços Pecuários»:
 
 «Estabelecimentos zootécnicos - Estações de fomento pecuário» ... 300000$00
 
-### Capítulo 15.º, artigo 328.º «Fundo de Fomento de Exportação»:
+Capítulo 15.º, artigo 328.º «Fundo de Fomento de Exportação»:
 
 «Serviços gerais» ... 68500000$00
 
 Receita extraordinária
 
-### Capítulo 10.º, grupo 1, artigo 358.º «Comparticipação do Fundo Especial de Transportes Terrestres nas despesas do III Plano de Fomento» ... 3732280$00
+Capítulo 10.º, grupo 1, artigo 358.º «Comparticipação do Fundo Especial de Transportes Terrestres nas despesas do III Plano de Fomento» ... 3732280$00
 
-### Capítulo 12.º, grupo 7, artigo 364.º «Crédito interno» ... 5095600$00
+Capítulo 12.º, grupo 7, artigo 364.º «Crédito interno» ... 5095600$00
 
 ... 84087880$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
 
 A observação (17) aposta à dotação descrita no capítulo 3.º, artigo 550.º, n.º 6), é alterado para:
 
@@ -206,8 +210,8 @@ A observação (17) aposta à dotação descrita no capítulo 3.º, artigo 550.�
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo - Rui Alves da Silva Sanches - José Veiga Simão.
 
-**Promulgado em 12 de Dezembro de 1972.**
+Promulgado em 12 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

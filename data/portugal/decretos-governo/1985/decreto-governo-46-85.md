@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/46-1985-172090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a3243e21ce6bf188c49ded1d4fdc5fddcad7903e020c8918c8cd222cc6f9485
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97171c0960a9485134facf00d60528028581fc022a2ed92e2b6f2577d09031ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Beja
+- Bragança
+- Castelo Branco
+- Coimbra
+- Ensino Superior Politécnico
+- Escola Superior Agrária
+- Escola Superior de Dança
+- Escola Superior de Educação
+- Escola Superior de Gestão
+- Escola Superior de Jornalismo
+- Escola Superior de Música
+- Escola Superior de Saúde do Alcoitão
+- Escola Superior de Teatro e Cinema
+- Escola Superior de Tecnologia
+- Escola Superior de Tecnologia e Gestão
+- Faro
+- Guarda
+- Instituto Politécnico
+- Leiria
+- Lisboa
+- Madeira.região Autónoma
+- Portalegre
+- Porto
+- Santarém
+- Setúbal
+- Tomar
+- Viana do Castelo
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:3639904:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:354169:por
+  label: "Alterado o art. 4º, pelo DEC LEI.373/88.1988.10.17.ME, DR.IS [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1988-354169
+  date: '1988-10-17'
+- type: amended_by
+  target: pt:dre:3639904:por
+  label: "Alterada a designação da Escola Superior de Gestão de Santarém, criada pelo presente diploma, para Escola Superior\
+    \ de Gestão e Tecnologia de Santarém , pelo DN.56/2008.04.11.2008.MCTES, DR.IIS [214] de 04.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/56-2008-3639904
+  date: '2008-11-04'
+- type: cites
+  target: pt:dre:375869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472089:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:505637:por
+  label: "Revogada a referência às Escolas Superiores de Saúde dos Institutos Politécnicos de Lisboa e do Porto constante\
+    \ do art. 8º, pelo DEC LEI.175/2004.21.07.2004.MCES, DR.IS-A [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2004-505637
+  date: '2004-07-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:27Z'
   warnings: []
   errors: []
 ---
@@ -117,21 +179,21 @@ Assim, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 303/80](https:/
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nos Institutos Politécnicos da Guarda, de Leiria, de Portalegre e de Viana do Castelo são criadas Escolas Superiores de Tecnologia e Gestão.
+Artigo 1.º Nos Institutos Politécnicos da Guarda, de Leiria, de Portalegre e de Viana do Castelo são criadas Escolas Superiores de Tecnologia e Gestão.
 
-###### Art. 2.º No Instituto Politécnico de Santarém é criada a Escola Superior de Gestão.
+Art. 2.º No Instituto Politécnico de Santarém é criada a Escola Superior de Gestão.
 
-###### Art. 3.º No Instituto Politécnico de Viana do Castelo é criada a Escola Superior Agrária.
+Art. 3.º No Instituto Politécnico de Viana do Castelo é criada a Escola Superior Agrária.
 
-###### Art. 4.º No Instituto Politécnico de Faro é criada a Escola Superior de Hotelaria e Turismo.
+Art. 4.º No Instituto Politécnico de Faro é criada a Escola Superior de Hotelaria e Turismo.
 
-###### Art. 5.º A Escola Superior de Tecnologia de Tomar é integrada no Instituto Politécnico de Santarém a partir de 1 Janeiro de 1986.
+Art. 5.º A Escola Superior de Tecnologia de Tomar é integrada no Instituto Politécnico de Santarém a partir de 1 Janeiro de 1986.
 
-###### Art. 6.º As Escolas Superiores de Dança, de Música e de Teatro e Cinema de Lisboa são integradas no Instituto Politécnico de Lisboa.
+Art. 6.º As Escolas Superiores de Dança, de Música e de Teatro e Cinema de Lisboa são integradas no Instituto Politécnico de Lisboa.
 
-###### Art. 7.º A Escola Superior de Música do Porto é integrada no Instituto Politécnico do Porto.
+Art. 7.º A Escola Superior de Música do Porto é integrada no Instituto Politécnico do Porto.
 
-###### Art. 8.º A rede dos estabelecimentos do ensino superior politécnico passa a ter a seguinte composição:
+Art. 8.º A rede dos estabelecimentos do ensino superior politécnico passa a ter a seguinte composição:
 
 Instituto Politécnico de Beja:
 
@@ -241,12 +303,12 @@ Escola Superior de Educação de Vila Real.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 5 de Novembro de 1985.**
+Assinado em 5 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1985.**
+Referendado em 12 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

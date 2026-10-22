@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1976-431180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c94303ea3191c2ec90290ec765fe08c423f4d89910a67b6af673c0b189b856f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83e3e943ea6335c94ff1f2a811bde6cac59f34f26e4b9fb0cf0a15addb14f7c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Aveiro
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Gestão Orçamental
+- Hospital Distrital
+- Ministério do Equipamento Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:44Z'
   warnings: []
   errors: []
 ---
@@ -87,12 +94,12 @@ de 19 de Junho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizada a 8.ª delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita no artigo 376.º, capítulo 22.º, do actual orçamento do antigo Ministério do Equipamento Social, a quantia de 8690721$60, respeitante a despesas com a construção do Hospital Distrital de Aveiro.
+Artigo único. É autorizada a 8.ª delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita no artigo 376.º, capítulo 22.º, do actual orçamento do antigo Ministério do Equipamento Social, a quantia de 8690721$60, respeitante a despesas com a construção do Hospital Distrital de Aveiro.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 7 de Junho de 1976.**
+Promulgado em 7 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA COMES.**
+O Presidente da República, FRANCISCO DA COSTA COMES.

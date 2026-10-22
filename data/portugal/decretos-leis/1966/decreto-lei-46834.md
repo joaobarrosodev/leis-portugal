@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef8da5575b2adb4f570a251a58cdfd0558f8be5e4d667d1434b6ae443e04f6ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ad12b62349dfe4dfe285213b3aa4fa1ba59a005871e2979ebad914da7b77d70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Ensino Superior
+- Estudante
+- Habitação
+- Ministério da Educação Nacional
+- Residência
+- Residência de Estudantes
+relationships:
+- type: cites
+  target: pt:dre:322682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:55Z'
   warnings: []
   errors: []
 ---
@@ -136,27 +147,27 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º O alojamento dos estudantes deve obedecer a adequados requisitos materiais e proporcionar ou permitir boas condições de estudo e de formação moral e cultural, com respeito dos princípios e disposições legais aplicáveis.
+Artigo 1.º O alojamento dos estudantes deve obedecer a adequados requisitos materiais e proporcionar ou permitir boas condições de estudo e de formação moral e cultural, com respeito dos princípios e disposições legais aplicáveis.
 
-###### Art. 2.º O Estado protegerá e fomentará os meios de alojamento de estudantes de carácter público ou privado, proporcionando-lhes vantagens e estimulando a criação de meios novos que dêem garantia de continuidade e podendo ele próprio prover a essa criação.
+Art. 2.º O Estado protegerá e fomentará os meios de alojamento de estudantes de carácter público ou privado, proporcionando-lhes vantagens e estimulando a criação de meios novos que dêem garantia de continuidade e podendo ele próprio prover a essa criação.
 
-###### Art. 3. º - 1. A intervenção do Estado deve entender-se sem prejuízo da liberdade de iniciativa de outras entidades públicas ou privadas.
+Art. 3. º - 1. A intervenção do Estado deve entender-se sem prejuízo da liberdade de iniciativa de outras entidades públicas ou privadas.
 
 2. A referida intervenção deve entender-se também sem prejuízo do direito que assiste aos estudantes, por si, quando maiores, ou por seus pais ou tutores, quando menores, de livremente escolherem a forma do respectivo alojamento.
 
-###### Art. 4.º - 1. As residências académicas não podem alojar simultâneamente estudantes de ambos os sexos.
+Art. 4.º - 1. As residências académicas não podem alojar simultâneamente estudantes de ambos os sexos.
 
 2. Esta disposição deve entender-se sem prejuízo da possibilidade de utilização de determinados serviços comuns, quando autorizada pelo Ministro da Educação Nacional.
 
 3. Também poderá ser autorizado o funcionamento de residências destinadas a casais de estudantes, com características adequadas ao seu fim específico.
 
-###### Art. 5.º - 1. Os estudantes que por duas vezes seguidas não transitem de ano, sem motivo justificado, perdem direito às vantagens conferidas por este diploma.
+Art. 5.º - 1. Os estudantes que por duas vezes seguidas não transitem de ano, sem motivo justificado, perdem direito às vantagens conferidas por este diploma.
 
 2. Igualmente perdem direito a essas vantagens, em relação aos referidos estudantes, os que lhes dêem alojamento.
 
 3. Exceptua-se do disposto neste artigo a possibilidade de utilização dos serviços dos centros de alojamento regulados no capítulo II.
 
-###### Art. 6.º - 1. Não podem, por qualquer título, prestar ou continuar a prestar alojamento a estudantes:
+Art. 6.º - 1. Não podem, por qualquer título, prestar ou continuar a prestar alojamento a estudantes:
 
 a) Os que hajam sido condenados a pena maior;
 
@@ -166,7 +177,7 @@ c) Os que tenham porte imoral ou incitem os estudantes à prática de infracçõ
 
 2. As proibições estabelecidas no n.º 1 referem-se tanto aos proprietários dos meios de alojamento como aos responsáveis pela sua orientação, direcção ou administração.
 
-###### Art. 7.º - 1. Regulam-se neste decreto-lei as seguintes formas de alojamento:
+Art. 7.º - 1. Regulam-se neste decreto-lei as seguintes formas de alojamento:
 
 a) Residências académicas estaduais;
 
@@ -178,13 +189,13 @@ c) Alojamento prestado fora de residências académicas.
 
 3. Consideram-se residências académicas não estaduais os estabelecimentos destinados especìficamente a alojamento de estudantes e pertencentes a entidades diversas do Estado, de direito público ou de direito privado, colectivas ou singulares.
 
-###### Art. 8.º - 1. O presente diploma ocupa-se, em princípio, do alojamento dos estudantes universitários.
+Art. 8.º - 1. O presente diploma ocupa-se, em princípio, do alojamento dos estudantes universitários.
 
 2. Todavia, as disposições dos artigos anteriores, bem como as do artigo 21.º, e ainda, com as necessárias adaptações, as do capítulo IV, são aplicáveis desde já aos meios de alojamento de estudantes não regulados directamente neste decreto-lei.
 
 ### CAPÍTULO II — Centros de alojamento
 
-###### Art. 9.º - 1. São criados nas Universidades, na dependência das respectivas reitorias, centros de alojamento, com funções de informação e assistência, relativamente aos meios de alojamento postos à disposição dos respectivos estudantes.
+Art. 9.º - 1. São criados nas Universidades, na dependência das respectivas reitorias, centros de alojamento, com funções de informação e assistência, relativamente aos meios de alojamento postos à disposição dos respectivos estudantes.
 
 2. A cada Universidade corresponde um centro, salvo em Lisboa, onde às duas Universidades poderá corresponder um centro único, nos termos a definir em portaria.
 
@@ -192,7 +203,7 @@ c) Alojamento prestado fora de residências académicas.
 
 4. Os centros de alojamento poderão ocupar-se também de estudantes de escolas superiores não universitárias, se os directores destas assim o solicitarem.
 
-###### Art. 10.º - 1. Dos centros de alojamento constará obrigatòriamente a inscrição das residências académicas estaduais e facultativamente a das residências académicas não estaduais, e dos restantes meios de alojamento destinados, ainda que não exclusivamente, a estudantes.
+Art. 10.º - 1. Dos centros de alojamento constará obrigatòriamente a inscrição das residências académicas estaduais e facultativamente a das residências académicas não estaduais, e dos restantes meios de alojamento destinados, ainda que não exclusivamente, a estudantes.
 
 2. A inscrição é gratuita e mencionará:
 
@@ -212,7 +223,7 @@ e) Os serviços a que os mesmos têm direito.
 
 5. As inscrições facultativas podem a todo o tempo ser canceladas, a requerimento dos interessados.
 
-###### Art. 11.º - 1. Compete aos centros:
+Art. 11.º - 1. Compete aos centros:
 
 a) Organizar e manter devidamente actualizado o ficheiro dos meios de alojamento neles inscritos, com permanente indicação das respectivas vagas e mensalidades;
 
@@ -232,19 +243,19 @@ h) Exercer as demais atribuições conferidas pela lei e pelos regulamentos.
 
 2. Os centros em caso algum serão responsáveis pelo pagamento dos alojamentos que indiquem.
 
-###### Art. 12.º - 1. Cada centro tem um director e o restante pessoal técnico, administrativo e menor que se torne indispensável.
+Art. 12.º - 1. Cada centro tem um director e o restante pessoal técnico, administrativo e menor que se torne indispensável.
 
 2. O quadro do pessoal e as respectivas remunerações, na forma de vencimento ou gratificação, serão fixados por despacho conjunto dos Ministros das Finanças e da Educação Nacional.
 
 3. A nomeação da director será feita mediante prévia audiência do reitor ou reitores.
 
-###### Art. 13.º - 1. Quando assim se torne preciso, o reitor, ou o Ministro da Educação Nacional, se o centro depender de duas reitorias, poderá mandar contratar ou assalariar pessoal além do quadro, por força das dotações especialmente inscritas no orçamento, para prestar ao centro colaboração temporária ou eventual.
+Art. 13.º - 1. Quando assim se torne preciso, o reitor, ou o Ministro da Educação Nacional, se o centro depender de duas reitorias, poderá mandar contratar ou assalariar pessoal além do quadro, por força das dotações especialmente inscritas no orçamento, para prestar ao centro colaboração temporária ou eventual.
 
 2. O número de unidades a contratar ou assalariar e as respectivas remunerações serão fixados por despacho conjunto dos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 14.º No momento da inscrição anual na sua escola, cada estudante será informado da existência e funções do centro e responderá, para fins estatísticos, a um questionário sobre a forma por que tenciona prover o respectivo alojamento.
+Art. 14.º No momento da inscrição anual na sua escola, cada estudante será informado da existência e funções do centro e responderá, para fins estatísticos, a um questionário sobre a forma por que tenciona prover o respectivo alojamento.
 
-###### Art. 15.º - 1. O centro classificará os meios de alojamento nas categorias A, B e C, conforme o grau maior ou menor em que satisfaçam as condições exigidas no artigo 1.º
+Art. 15.º - 1. O centro classificará os meios de alojamento nas categorias A, B e C, conforme o grau maior ou menor em que satisfaçam as condições exigidas no artigo 1.º
 
 2. Os meios que se mostrem inadequados, por não satisfazerem essas condições no seu mínimo, não serão classificados.
 
@@ -252,19 +263,19 @@ h) Exercer as demais atribuições conferidas pela lei e pelos regulamentos.
 
 4. O Ministro poderá delegar no director-geral do Ensino Superior e das Belas-Artes a competência conferida no número precedente.
 
-###### Art. 16.º - 1. A quem solicite informações sobre meios de alojamento o centro só indicará os classificados, com mensão da respectiva categoria.
+Art. 16.º - 1. A quem solicite informações sobre meios de alojamento o centro só indicará os classificados, com mensão da respectiva categoria.
 
 2. Quanto aos meios inscritos mas não classificados, nos termos do artigo 15.º, n.º 2, o centro limitar-se-á a esclarecer não os considerar adequados, quando os pedidos de informação os refiram individualizadamente.
 
 ### CAPÍTULO III — Meios não estaduais de alojamento
 
-###### Art. 17.º Os meios não estaduais inscritos nos centros de alojamento e classificados por estes, além da vantagem de informação das respectivas vagas aos interessados, gozam das constantes dos artigos seguintes, desde que as mensalidades dos estudantes não excedam os limites a fixar pelo Ministro da Educação Nacional.
+Art. 17.º Os meios não estaduais inscritos nos centros de alojamento e classificados por estes, além da vantagem de informação das respectivas vagas aos interessados, gozam das constantes dos artigos seguintes, desde que as mensalidades dos estudantes não excedam os limites a fixar pelo Ministro da Educação Nacional.
 
-###### Art. 18.º - 1. As mensalidades pagas pelos estudantes alojados não contam para efeito de contribuição industrial ou de qualquer tributação do Estado ou de outras pessoas colectivas de direito público.
+Art. 18.º - 1. As mensalidades pagas pelos estudantes alojados não contam para efeito de contribuição industrial ou de qualquer tributação do Estado ou de outras pessoas colectivas de direito público.
 
 2. As entidades, beneficiárias da isenção devem apresentar na repartição de finanças do concelho ou bairro do seu domicílio, no mês de Abril, declaração, confirmada pelo centro de alojamento, donde constem a identidade dos estudantes alojados, os estabelecimentos de ensino que frequentam e as mensalidades que pagam.
 
-###### Art. 19.º - 1. Os proprietários dos meios em referência podem também beneficiar de empréstimos destinados a melhorar o alojamento.
+Art. 19.º - 1. Os proprietários dos meios em referência podem também beneficiar de empréstimos destinados a melhorar o alojamento.
 
 2. Os Ministros das Finanças e da Educação Nacional, por despacho conjunto, fixarão as condições gerais dos empréstimos, assim como, em cada ano, o montante global a que podem elevar-se.
 
@@ -278,13 +289,13 @@ e) Solvabilidade do requerente ou prestação de garantia bastante.
 
 4. O empréstimo vencer-se-á na totalidade, ainda antes de findo o respectivo prazo, se o mutuário lhe der aplicação diferente daquela para que fora concedido ou deixar de destinar o meio de alojamento a estudantes.
 
-###### Art. 20.º Os aludidos meios beneficiam ainda das seguintes vantagens, além de outras que venham a ser-lhes conferidas:
+Art. 20.º Os aludidos meios beneficiam ainda das seguintes vantagens, além de outras que venham a ser-lhes conferidas:
 
 a) O centro poderá indicá-los a estudantes estrangeiros em visita a Portugal, se assim o desejarem as entidades que têm a seu cargo a respectiva gestão;
 
 b) O centro prestará a essas entidades, bem como aos proprietários dos meios, informações técnicas sobre problemas de alojamento.
 
-###### Art. 21.º Ficarão sujeitas a aprovação do Ministro da Educação Nacional:
+Art. 21.º Ficarão sujeitas a aprovação do Ministro da Educação Nacional:
 
 a) A criação de residências académicas não estaduais, seus estatutos e respectivas modificações;
 
@@ -296,17 +307,17 @@ c) Os projectos de obras para construção, ampliação, adaptação ou modifica
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 22.º Dizem-se universitárias as residências integradas numa Universidade e, como tais, dependentes do respectivo reitor.
+Art. 22.º Dizem-se universitárias as residências integradas numa Universidade e, como tais, dependentes do respectivo reitor.
 
-###### Art. 23.º As residências universitárias são comunidades que participam na acção educativa da Universidade a constituem, para os que nelas vivem, fonte de formação de carácter e de desenvolvimento da cultura.
+Art. 23.º As residências universitárias são comunidades que participam na acção educativa da Universidade a constituem, para os que nelas vivem, fonte de formação de carácter e de desenvolvimento da cultura.
 
-###### Art. 24.º - 1. As aludidas residências tomam a designação específica de colégios universitários quando tenham capacidade mínima para 40 estudantes.
+Art. 24.º - 1. As aludidas residências tomam a designação específica de colégios universitários quando tenham capacidade mínima para 40 estudantes.
 
 2. Os colégios são organizados de modo a poder neles exercer-se com regularidade e especial intensidade a acção formativa e cultural própria das residências universitárias.
 
-###### Art. 25.º As residências universitárias podem ser criadas por iniciativa do Ministério da Educação Nacional ou de outros departamentos do Estado, mas no segundo caso com prévia concordância daquele Ministério, a cuja superintendência ficarão sempre sujeitas.
+Art. 25.º As residências universitárias podem ser criadas por iniciativa do Ministério da Educação Nacional ou de outros departamentos do Estado, mas no segundo caso com prévia concordância daquele Ministério, a cuja superintendência ficarão sempre sujeitas.
 
-###### Art. 26.º - 1. O Ministro da Educação Nacional pode aceitar heranças, legados, doações ou outras liberalidades destinadas a residências universitárias.
+Art. 26.º - 1. O Ministro da Educação Nacional pode aceitar heranças, legados, doações ou outras liberalidades destinadas a residências universitárias.
 
 2. Poderá o Ministro autorizar a reserva de certo número de quartos para estudantes a designar pela entidade que faça liberalidade de montante superior ao que vier a ser fixado em regulamento.
 
@@ -314,7 +325,7 @@ c) Os projectos de obras para construção, ampliação, adaptação ou modifica
 
 4. Os estudantes a designar pelo autor da liberalidade devem obedecer aos requisitos gerais de admissão e ficam sujeitos ao regime dos estudantes residentes.
 
-###### Art. 27.º - 1. A localização e o projecto dos edifícios destinados a residências universitárias carecem de prévia aprovação do Ministro da Educação Nacional.
+Art. 27.º - 1. A localização e o projecto dos edifícios destinados a residências universitárias carecem de prévia aprovação do Ministro da Educação Nacional.
 
 2. Os edifícios referidos no número anterior, bem como o seu mobiliário e apetrechamento, devem ser particularmente sóbrios e funcionais, dentro de um espírito de máximo aproveitamento das verbas disponíveis e economia de manutenção, sem prejuízo das condições de duração e das de comodidade e bom gosto.
 
@@ -322,19 +333,19 @@ c) Os projectos de obras para construção, ampliação, adaptação ou modifica
 
 4. Elaborar-se-ão programas de criação e construção de residências universitárias, a integrar nos planos de fomento.
 
-###### Art. 28.º O reitor pode permitir a utilização do edifício da residência, em férias, para outros fins relacionados com a vida da Universidade.
+Art. 28.º O reitor pode permitir a utilização do edifício da residência, em férias, para outros fins relacionados com a vida da Universidade.
 
-###### Art. 29.º O reitor pode ordenar a instalação temporária, nas residências, de pessoas convidadas para proferir na Universidade lições, conferências ou cursos, ou participar noutros actos de carácter científico ou cultural.
+Art. 29.º O reitor pode ordenar a instalação temporária, nas residências, de pessoas convidadas para proferir na Universidade lições, conferências ou cursos, ou participar noutros actos de carácter científico ou cultural.
 
-###### Art. 30.º Os regulamentos das residências serão elaborados pela reitoria.
+Art. 30.º Os regulamentos das residências serão elaborados pela reitoria.
 
-###### Art. 31.º - 1. Nas áreas afectas às Universidades só poderão haver residências universitárias como meios de alojamento.
+Art. 31.º - 1. Nas áreas afectas às Universidades só poderão haver residências universitárias como meios de alojamento.
 
 2. Nas zonas de protecção dessas áreas apenas podem, de futuro, instalar-se residências académicas não estaduais desde que dêem particulares garantias de sólida formação da juventude e de colaboração com a Universidade.
 
 3. As zonas de protecção serão fixadas pelo Ministro da Educação Nacional, e aplicar-se-lhes-á o regime geral das respeitantes aos monumentos nacionais ou imóveis de interesse público.
 
-###### Art. 32.º - 1. Em nenhuma hipótese, mesmo fora dos domínios do alojamento, poderá qualquer entidade, não afecta legalmente a uma Universidade, usar o qualificativo «universitário» ou «da Universidade», nem insígnias que com as de uma Universidade se possam confundir, salva autorização especial.
+Art. 32.º - 1. Em nenhuma hipótese, mesmo fora dos domínios do alojamento, poderá qualquer entidade, não afecta legalmente a uma Universidade, usar o qualificativo «universitário» ou «da Universidade», nem insígnias que com as de uma Universidade se possam confundir, salva autorização especial.
 
 2. As entidades que se encontrem em situação contraria ao prescrito no número antecedente devem proceder às necessárias alterações, dentro do prazo de um ano, a contar da entrada em vigor do presente diploma.
 
@@ -342,7 +353,7 @@ c) Os projectos de obras para construção, ampliação, adaptação ou modifica
 
 ##### SUBSECÇÃO II — Dos estudantes residentes
 
-###### Art. 33.º - 1. Só podem ser admitidos nas residências os estudantes matriculados na respectiva Universidade que reúnam as seguintes condições:
+Art. 33.º - 1. Só podem ser admitidos nas residências os estudantes matriculados na respectiva Universidade que reúnam as seguintes condições:
 
 a) Terem bom comportamento moral, cívico e académico;
 
@@ -354,7 +365,7 @@ d) Não excederem 26 anos de idade.
 
 2. Nos regulamentos podem estabelecer-se condições mais rigorosas, assim como poderá o reitor dispensar, excepcionalmente, as indicadas nas alíneas c) e d), se para tanto ocorrer motivo ponderoso.
 
-###### Art. 34.º - 1. Constituem razões de preferência na admissão:
+Art. 34.º - 1. Constituem razões de preferência na admissão:
 
 a) Ter servido em defesa da integridade nacional;
 
@@ -374,15 +385,15 @@ e) Frequentar pela primeira vez a Universidade.
 
 5. Nas hipóteses dos n.os 3 e 4, os estudantes admitidos, enquanto residentes, ficam sujeitos disciplinarmente às autoridades académicas da Universidade a que a residência pertence.
 
-###### Art. 35.º - 1. Os processos de admissão serão instruídos no centro de alojamento.
+Art. 35.º - 1. Os processos de admissão serão instruídos no centro de alojamento.
 
 2. A decisão compete ao director da residência, com recurso para o reitor, que decidirá em definitivo.
 
-###### Art. 36.º Os residentes pagarão a mensalidade constante de tabela aprovada pelo reitor.
+Art. 36.º Os residentes pagarão a mensalidade constante de tabela aprovada pelo reitor.
 
 ##### SUBSECÇÃO III — Da direcção e administração das residências universitárias
 
-###### Art. 37.º - 1. Cada residência terá um director, que o reitor designará e poderá a todo o tempo livremente exonerar.
+Art. 37.º - 1. Cada residência terá um director, que o reitor designará e poderá a todo o tempo livremente exonerar.
 
 2. Nos colégios o director deve possuir um curso superior e, de preferência, será escolhido entre os membros do corpo docente da respectiva universidade ou, na sua falta, de entre graduados desta.
 
@@ -392,7 +403,7 @@ e) Frequentar pela primeira vez a Universidade.
 
 5. O director deve habitar na residência; só excepcionalmente deixará de se observar esta condição, enquanto não for possível confiar a direcção a pessoa que a satisfaça.
 
-###### Art. 38.º Compete ao director:
+Art. 38.º Compete ao director:
 
 a) Dar cumprimento às instruções e ordens do reitor;
 
@@ -410,27 +421,27 @@ g) Exercer acção disciplinar sobre os residentes e sobre o pessoal administrat
 
 h) Apresentar ao reitor os projectos de orçamento e contas e o relatório anual.
 
-###### Art. 39.º - 1. O director pode ser auxiliado por adjuntos, escolhidos entre graduados da Universidade ou entre estudantes residentes, ou só entre estes se ele próprio for estudante.
+Art. 39.º - 1. O director pode ser auxiliado por adjuntos, escolhidos entre graduados da Universidade ou entre estudantes residentes, ou só entre estes se ele próprio for estudante.
 
 2. O número e a forma de designação dos adjuntos constarão do respectivo regulamento.
 
-###### Art. 40.º Todos os assuntos respeitantes ao funcionamento das residências devem ser apresentados pelos residentes ao director ou ao adjunto que o mesmo designe para o efeito.
+Art. 40.º Todos os assuntos respeitantes ao funcionamento das residências devem ser apresentados pelos residentes ao director ou ao adjunto que o mesmo designe para o efeito.
 
-###### Art. 41.º - 1. Os directores das residências constituem um conselho consultivo que funciona junto do respectivo centro de alojamento, em ordem a colaborar na resolução dos problemas de alojamento dos estudantes.
+Art. 41.º - 1. Os directores das residências constituem um conselho consultivo que funciona junto do respectivo centro de alojamento, em ordem a colaborar na resolução dos problemas de alojamento dos estudantes.
 
 2. Sendo em grande número os directores das residências, sem carácter de colégios, poderá o reitor designar só alguns para fazerem parte do referido conselho.
 
-###### Art. 42.º - 1. Assegurar-se-á assistência religiosa, médica e de enfermagem aos residentes, a quem se proporcionará a prática de actividades gimnodesportivas sob a orientação de professores de Educação Física.
+Art. 42.º - 1. Assegurar-se-á assistência religiosa, médica e de enfermagem aos residentes, a quem se proporcionará a prática de actividades gimnodesportivas sob a orientação de professores de Educação Física.
 
 2. Os assistentes religiosos serão designados de acordo com a autoridade eclesiástica.
 
-###### Art. 43.º - 1. O reitor pode conceder alojamento nas residências ou colégios a membros do corpo docente ou a candidatos a provas de doutoramento, mesmo que dele não façam parte.
+Art. 43.º - 1. O reitor pode conceder alojamento nas residências ou colégios a membros do corpo docente ou a candidatos a provas de doutoramento, mesmo que dele não façam parte.
 
 2. As pessoas alojadas em conformidade com o disposto no número anterior devem colaborar com o director na realização de actividades culturais e orientar os estudantes residentes na resolução dos seus problemas escolares, sem prejuízo das funções docentes ou da preparação para o doutoramento.
 
-###### Art. 44.º Sempre que o Estado confie a outras entidades a gestão das residências universitárias, observar-se-á também o disposto na presente subsecção, mas com as alterações decorrentes desse condicionalismo.
+Art. 44.º Sempre que o Estado confie a outras entidades a gestão das residências universitárias, observar-se-á também o disposto na presente subsecção, mas com as alterações decorrentes desse condicionalismo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

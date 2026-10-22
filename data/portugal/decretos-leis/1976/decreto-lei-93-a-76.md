@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 24/1976, 1º Suplemento, Série I de 1976-01-29
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 228-(1) a 228-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02401/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-a-1976-144447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b3df76b9ce6ccd0a21b6564244abc919bd68591cd59b747c507ea9dfe145c16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a712edf5b9fa8ccb378030fb26f8cca7bb92d1d0d3d45c5a3c430f69a6e1621c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Eleição Legislativa
+- Incompatibilidades
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476766:por
+  label: "Alterados os artigos 1.º e 4.º pelo DEC LEI.95-B/76.30.01.1976.MAI, DG.IS [25]Supl de 30.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-b-1976-476766
+  date: '1976-01-30'
+- type: amended_by
+  target: pt:dre:621133:por
+  label: Tornado extensivo a Macau o presente diploma (com alterações ao n.º 2 do art. 2.º, à al. d) do art. 3.º e ao art.
+    7.º) pelo(a) Portaria n.º 80-B/76 - Diário do Governo n.º 39/1976, 2º Suplemento, Série I de 1976-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-b-1976-621133
+  date: '1976-02-16'
+- type: amended_by
+  target: pt:dre:507800:por
+  label: "Alterados os artigos 1.º e 4.º pelo DEC LEI.156/76.26.02.1976.MAI, DG.IS [48] de 26.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-1976-507800
+  date: '1976-02-26'
+- type: cites
+  target: pt:dre:309908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530841:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:506668:por
+  label: "Rectificado pela RECT.DD15.12.02.1976.PCM, DG.IS [36] de 12.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-506668
+  date: '1976-02-12'
+- type: corrected_by
+  target: pt:dre:507627:por
+  label: Rectificado pela DECL.DD8582.27.02.1976.PCM, DG.IS [49] de 27.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507627
+  date: '1976-02-27'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:52Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +148,7 @@ CAPACIDADE ELEITORAL
 
 #### SECÇÃO I — Princípios gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Capacidade eleitoral activa)
 
@@ -114,7 +156,7 @@ CAPACIDADE ELEITORAL
 
 2. Considera-se território eleitoral o do continente e o dos arquipélagos dos Açores e da Madeira.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Portugueses plurinacionais)
 
@@ -122,7 +164,7 @@ CAPACIDADE ELEITORAL
 
 2. Para os efeitos do n.º 1 não perdem a qualidade de cidadãos eleitores os portugueses que estejam a residir no território eleitoral à data da abertura das operações de recenseamento e que anteriormente residiam em qualquer das antigas colónias tornadas independentes, desde que se encontrem abrangidos por qualquer das disposições do [Decreto-Lei n.º 308-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-a-1975-530841), de 24 de Junho, com o esclarecimento do despacho da Presidência do Conselho de Ministros e do Ministério da Justiça datado de 8 de Setembro e publicado no Diário do Governo, de 16 do mesmo mês de 1975.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Incapacidades eleitorais)
 
@@ -138,7 +180,7 @@ d) Os abrangidos pelos artigos 1.º e 2.º do [Decreto-Lei n.º 621-B/74](https:
 
 #### SECÇÃO II — Regras especiais
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Portugueses residentes no estrangeiro)
 
@@ -152,7 +194,7 @@ Os cidadãos portugueses residentes no estrangeiro são cidadãos eleitores, des
 
 ### CAPÍTULO II — Capacidade eleitoral passiva
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Capacidade eleitoral passiva)
 
@@ -160,7 +202,7 @@ Os cidadãos portugueses residentes no estrangeiro são cidadãos eleitores, des
 
 2. Os funcionários civis do Estado ou de outras pessoas colectivas públicas não precisam de autorização para se candidatarem a Deputados à Assembleia Legislativa.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Inelegibilidades gerais)
 
@@ -178,13 +220,13 @@ e) Os abrangidos pelos artigos 1.º e 2.º do [Decreto-Lei n.º 621-B/74](https:
 
 f) Os diplomados de carreira em efectividade de serviço.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Inelegibilidades locais)
 
 Não podem candidatar-se pelo círculo onde exerçam a sua actividade as seguintes autoridades administrativas e eclesiásticas: governadores civis, administradores de bairro, presidentes e vice-presidentes das câmaras ou de comissões administrativas municipais, directores e chefes de repartição de finanças e ministros de qualquer religião ou culto com poderes de jurisdição.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Incompatibilidade com o exercício de funções públicas e privadas)
 
@@ -192,7 +234,7 @@ Não podem candidatar-se pelo círculo onde exerçam a sua actividade as seguint
 
 2. O direito previsto no número anterior é reconhecido aos funcionários do Estado, de outras pessoas colectivas públicas e de empresas nacionalizadas durante o exercício do mandato, sem prejuízo da opção que fizerem quanto a vencimentos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Entrada em vigor)
 
@@ -200,8 +242,8 @@ Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Manuel Ferreira de Lima - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes.
 
-**Promulgado em 29 de Janeiro de 1976.**
+Promulgado em 29 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

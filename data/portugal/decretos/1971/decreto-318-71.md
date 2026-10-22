@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/318-1971-642879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c927383ad27bba14200d405727a1c4fd087f97f90a6061021eb0c845dcde2826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a2f4f429c60205788f2d97706a96bd9dd8e1b162431a83134b378dc6eda63fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:413198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:20Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Sendo indispensável evitar que possa ser comprometida a execução do plano de 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Durante o prazo de dois anos fica dependente de autorização da Direcção-Geral dos Serviços de Urbanização, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área do concelho de Porto Santo dos actos ou actividades seguintes:
+Artigo 1.º - 1. Durante o prazo de dois anos fica dependente de autorização da Direcção-Geral dos Serviços de Urbanização, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área do concelho de Porto Santo dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -106,12 +110,12 @@ d) Derrube de árvores em maciço.
 
 2. É aplicável às medidas preventivas a que se refere o número antecedente o disposto nos artigos 3.º a 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro.
 
-###### Art. 2.º O presente decreto entra imediatamente em vigor.
+Art. 2.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 6 de Julho de 1971.**
+Promulgado em 6 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

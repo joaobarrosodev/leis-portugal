@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/144-1971-445716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98555304a53c495fd384ece7a1b29e710cafd31463d3afddeab46154a4730143
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e5c4feef1444516f02f6bec705638e4513abb86797be370cbba5cb6b09d5851
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:138828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502457:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:59Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Tendo em vista o disposto no artigo 1.º do [Decreto-Lei n.º 42588](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Na Faculdade de Medicina da Universidade do Porto corresponderá um lugar de professor catedrático a cada uma das seguintes disciplinas:
+Artigo 1.º - 1. Na Faculdade de Medicina da Universidade do Porto corresponderá um lugar de professor catedrático a cada uma das seguintes disciplinas:
 
 Anatomia Descritiva (1.ª parte);
 
@@ -141,7 +153,7 @@ Medicina Legal e Toxicologia Forense.
 
 3. Os dois restantes professores catedráticos considerar-se-ão adstritos às disciplinas que o Ministro da Educação Nacional designar em atenção às necessidades do serviço e sob proposta do conselho escolar.
 
-###### Art. 2.º - 1. Na mesma Faculdade os lugares de professor extraordinário distribuir-se-ão da forma seguinte pelos diversos grupos e subgrupos de disciplinas:
+Art. 2.º - 1. Na mesma Faculdade os lugares de professor extraordinário distribuir-se-ão da forma seguinte pelos diversos grupos e subgrupos de disciplinas:
 
 Grupos e subgrupos:
 
@@ -181,8 +193,8 @@ Subgrupo ... 1
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 29 de Março de 1971.**
+Promulgado em 29 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

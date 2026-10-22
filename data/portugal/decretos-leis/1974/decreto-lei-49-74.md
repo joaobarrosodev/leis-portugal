@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1974-407494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eada99089f885e0c41b19291d7a49e3177ac688bd043fb7360e1d70c5a68e36a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d53c01ef712c0c6037792211503f6863a4d4d722cdad542d03528e91de6f3dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Imposto para a Defesa e Valorização do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675009:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:17Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +113,7 @@ de 15 de Fevereiro
 
 Usando da autorização conferida pelo artigo 14.º da [Lei n.º 7/73](https://diariodarepublica.pt/dr/detalhe/lei/7-1973-470846), de 22 de Dezembro, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O imposto para a defesa e valorização do ultramar, criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e mantido no ano de 1974 pelo artigo 14.º da [Lei n.º 7/73](https://diariodarepublica.pt/dr/detalhe/lei/7-1973-470846), de 22 de Dezembro, reger-se-á, durante o ano de 1974, pelas normas regulamentares aprovadas pelo [Decreto n.º 47780](https://diariodarepublica.pt/dr/detalhe/decreto/47780-1967-314061), de 6 de Julho de 1967, e rectificações constantes do Diário do Governo, n.º 186, de 10 de Agosto do mesmo ano, com as necessárias adaptações que resultam do avanço de sete anos de tributação e ainda com a redacção dada ao § único do artigo 2.º pelo [Decreto-Lei n.º 121/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1973-675009), de 23 de Março, substituída pelo ano de 1974 a referência nele feita ao de 1973, bem como com as alterações seguintes:
+Artigo único. O imposto para a defesa e valorização do ultramar, criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e mantido no ano de 1974 pelo artigo 14.º da [Lei n.º 7/73](https://diariodarepublica.pt/dr/detalhe/lei/7-1973-470846), de 22 de Dezembro, reger-se-á, durante o ano de 1974, pelas normas regulamentares aprovadas pelo [Decreto n.º 47780](https://diariodarepublica.pt/dr/detalhe/decreto/47780-1967-314061), de 6 de Julho de 1967, e rectificações constantes do Diário do Governo, n.º 186, de 10 de Agosto do mesmo ano, com as necessárias adaptações que resultam do avanço de sete anos de tributação e ainda com a redacção dada ao § único do artigo 2.º pelo [Decreto-Lei n.º 121/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1973-675009), de 23 de Março, substituída pelo ano de 1974 a referência nele feita ao de 1973, bem como com as alterações seguintes:
 
 a) Substituição da lista a que se refere a alínea c) do artigo 1.º pela anexa ao [Decreto-Lei n.º 267/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1971-643306), de 18 de Junho;
 
@@ -96,10 +123,10 @@ c) Substituição, no § 1.º do artigo 12.º, da referência ao [Decreto n.º 4
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 7 de Fevereiro de 1974.**
+Promulgado em 7 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

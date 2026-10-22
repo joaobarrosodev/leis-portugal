@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1973-683640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c14a6373a6aeea08cb2d0b6f2b2b05b0b037f564e6dfec81be51725b8f82494
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d497b4120606e258b503ecc3d02101ddfe550140413fc16dd5da9d47510b5808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Benefícios Fiscais
+- Caderno de Encargos
+- Concurso Público
+- Conselho de Ministros
+- Contrato de Concessão
+- Estabelecimento Termal
+- Ministro das Finanças
+- Monchique
+- Política de Solos
+relationships:
+- type: cites
+  target: pt:dre:165606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419832:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:25Z'
   warnings: []
   errors: []
 ---
@@ -103,48 +128,48 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministério das Finanças a abrir concurso ou concursos públicos para a concessão da exploração, no todo ou em partes, da estância das Caldas de Monchique, com os seus estabelecimentos termais, edificações, mata, terrenos, águas e mais pertenças, propriedade do Estado.
+Artigo 1.º Fica autorizado o Ministério das Finanças a abrir concurso ou concursos públicos para a concessão da exploração, no todo ou em partes, da estância das Caldas de Monchique, com os seus estabelecimentos termais, edificações, mata, terrenos, águas e mais pertenças, propriedade do Estado.
 
-###### Art. 2.º Compete ao Conselho de Ministros aprovar os cadernos de encargos relativos ao concurso ou concursos referidos no artigo precedente e resolver sobre a adjudicação das concessões a efectuar, autorizando a celebração dos respectivos contratos.
+Art. 2.º Compete ao Conselho de Ministros aprovar os cadernos de encargos relativos ao concurso ou concursos referidos no artigo precedente e resolver sobre a adjudicação das concessões a efectuar, autorizando a celebração dos respectivos contratos.
 
-###### Art. 3.º Podem concorrer às concessões, mediante a prestação prévia de qualquer espécie de caução, incluindo apólice de seguro, no montante de 1000 contos, à ordem da Direcção-Geral da Fazenda Pública, entidades que se obriguem a constituir, no prazo máximo de sessenta dias a contar da data da adjudicação definitiva, sociedade anónima de responsabilidade limitada, que se possa considerar nacional, nos termos do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965, com capital inicial não inferior ao que para o efeito se estabeleça no caderno de encargos.
+Art. 3.º Podem concorrer às concessões, mediante a prestação prévia de qualquer espécie de caução, incluindo apólice de seguro, no montante de 1000 contos, à ordem da Direcção-Geral da Fazenda Pública, entidades que se obriguem a constituir, no prazo máximo de sessenta dias a contar da data da adjudicação definitiva, sociedade anónima de responsabilidade limitada, que se possa considerar nacional, nos termos do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965, com capital inicial não inferior ao que para o efeito se estabeleça no caderno de encargos.
 
-###### Art. 4.º As sociedades concessionárias poderão requerer, nos termos da legislação em vigor, a declaração de utilidade pública urgente da expropriação de imóveis indispensáveis à realização dos seus fins e ao cumprimento das obrigações assumidas no respectivo contrato.
+Art. 4.º As sociedades concessionárias poderão requerer, nos termos da legislação em vigor, a declaração de utilidade pública urgente da expropriação de imóveis indispensáveis à realização dos seus fins e ao cumprimento das obrigações assumidas no respectivo contrato.
 
-###### Art. 5.º Ficam isentas de sisa as aquisições dos prédios que, após reconhecimento prévio pelo Ministro das Finanças, sejam consideradas indispensáveis à satisfação do objecto da concessão e ao cumprimento das obrigações assumidas no contrato, não sendo devida contribuição predial pelos que vierem a reverter para o Estado no fim da concessão.
+Art. 5.º Ficam isentas de sisa as aquisições dos prédios que, após reconhecimento prévio pelo Ministro das Finanças, sejam consideradas indispensáveis à satisfação do objecto da concessão e ao cumprimento das obrigações assumidas no contrato, não sendo devida contribuição predial pelos que vierem a reverter para o Estado no fim da concessão.
 
-###### Art. 6.º - 1. Com vista à instalação de estabelecimentos hoteleiros e similares na zona a conceder, o Estado poderá constituir o direito de superfície directamente em favor das entidades concessionárias.
+Art. 6.º - 1. Com vista à instalação de estabelecimentos hoteleiros e similares na zona a conceder, o Estado poderá constituir o direito de superfície directamente em favor das entidades concessionárias.
 
 2. Também poderá ser constituído o direito de superfície, a favor das concessionárias, em relação a terrenos destinados a urbanização segundo planos prèviamente aprovados pelo Governo.
 
-###### Art. 7.º Às empresas concessionárias caberá o direito de perceber dos utentes da estância das Caldas de Monchique as taxas que forem fixadas no contrato de concessão.
+Art. 7.º Às empresas concessionárias caberá o direito de perceber dos utentes da estância das Caldas de Monchique as taxas que forem fixadas no contrato de concessão.
 
-###### Art. 8.º - 1. Os pagamentos que, em consequência do contrato de concessão, forem devidos ao Estado serão efectuados na Tesouraria da Fazenda Pública do Concelho de Monchique mediante guia passada pela respectiva Repartição de Finanças.
+Art. 8.º - 1. Os pagamentos que, em consequência do contrato de concessão, forem devidos ao Estado serão efectuados na Tesouraria da Fazenda Pública do Concelho de Monchique mediante guia passada pela respectiva Repartição de Finanças.
 
 2. A falta de pagamento nos prazos convencionados dará lugar à sua cobrança coerciva pelos tribunais das contribuições e impostos, servindo de título executivo a certidão expedida pela Repartição de Finanças.
 
-###### Art. 9.º A inexecução das obrigações legais ou contratuais das concessionárias sujeitá-las-á ao pagamento das multas e às demais sanções que, para o efeito, se prevejam nos respectivos contratos.
+Art. 9.º A inexecução das obrigações legais ou contratuais das concessionárias sujeitá-las-á ao pagamento das multas e às demais sanções que, para o efeito, se prevejam nos respectivos contratos.
 
-###### Art. 10.º As multas e as demais sanções a que se refere o artigo anterior serão impostas pelo Ministro das Finanças, sendo por elas responsáveis as empresas concessionárias e, subsidiàriamente, quando se refiram a factos ocorridos dentro do período da sua gerência, os administradores, directores ou gerentes das empresas concessionárias, ainda que estas se encontrem dissolvidas.
+Art. 10.º As multas e as demais sanções a que se refere o artigo anterior serão impostas pelo Ministro das Finanças, sendo por elas responsáveis as empresas concessionárias e, subsidiàriamente, quando se refiram a factos ocorridos dentro do período da sua gerência, os administradores, directores ou gerentes das empresas concessionárias, ainda que estas se encontrem dissolvidas.
 
-###### Art. 11.º As infracções previstas no artigo 9.º prescrevem no prazo de cinco anos após a sua prática.
+Art. 11.º As infracções previstas no artigo 9.º prescrevem no prazo de cinco anos após a sua prática.
 
-###### Art. 12.º - 1. Sem prejuízo do disposto no artigo 5.º do [Decreto-Lei n.º 36197](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36197-1947-414646), de 26 de Março de 1947, as receitas do Estado provenientes da exploração, directa ou indirecta, das Caldas de Monchique terão a aplicação que for determinada por despacho do Ministro das Finanças.
+Art. 12.º - 1. Sem prejuízo do disposto no artigo 5.º do [Decreto-Lei n.º 36197](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36197-1947-414646), de 26 de Março de 1947, as receitas do Estado provenientes da exploração, directa ou indirecta, das Caldas de Monchique terão a aplicação que for determinada por despacho do Ministro das Finanças.
 
 2. Uma parcela dessas receitas, a fixar em cada ano pelo Ministro das Finanças, destinar-se-á a fins assistenciais a designar, ouvido o Ministro da Saúde e Assistência.
 
-###### Art. 13.º - 1. A comissão administrativa instituída pelo Decreto com força de lei n.º 20816, publicado em 23 de Janeiro de 1932, cessará as suas funções à medida que forem sendo concedidos os bens e serviços que, nos termos do referido diploma, do [Decreto n.º 27659](https://diariodarepublica.pt/dr/detalhe/decreto/27659-1937-419832), de 21 de Abril de 1937, e do [Decreto-Lei n.º 31986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31986-1942-165606), de 28 de Abril de 1942, lhe compete gerir.
+Art. 13.º - 1. A comissão administrativa instituída pelo Decreto com força de lei n.º 20816, publicado em 23 de Janeiro de 1932, cessará as suas funções à medida que forem sendo concedidos os bens e serviços que, nos termos do referido diploma, do [Decreto n.º 27659](https://diariodarepublica.pt/dr/detalhe/decreto/27659-1937-419832), de 21 de Abril de 1937, e do [Decreto-Lei n.º 31986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31986-1942-165606), de 28 de Abril de 1942, lhe compete gerir.
 
 2. As importâncias e os bens administrados pela comissão e que não forem abrangidos pelas concessões outorgadas terão o destino que for determinado por despacho do Ministro das Finanças.
 
-###### Art. 14.º O Ministro das Finanças resolverá, por despacho, todas as dúvidas que se suscitem na aplicação deste diploma.
+Art. 14.º O Ministro das Finanças resolverá, por despacho, todas as dúvidas que se suscitem na aplicação deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 11 de Janeiro de 1973.**
+Promulgado em 11 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

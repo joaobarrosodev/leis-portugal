@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/514-1971-631671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8987a3bff5871d6f66be57a5562a832d5be7889505155ae51fa3a07eeec359d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f85bec99550e9a755a3ad661f658f93eabdbc77d8b1964bbcb08862707aef75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295624:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:05Z'
   warnings: []
   errors: []
 ---
@@ -91,28 +107,28 @@ Ouvido o Conselho Ultramarino, nos termos do § 3.º do artigo 136.º da Constit
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Aos directores-adjuntos dos serviços de geologia e minas do ultramar, providos em lugares criados pelo [Decreto n.º 316/70](https://diariodarepublica.pt/dr/detalhe/decreto/316-1970-140275), de 9 de Julho, será abonada uma gratificação mensal igual à que era atribuída pelo exercício do extinto lugar de subdirector, a partir da data da posse nos respectivos cargos.
+Artigo 1.º Aos directores-adjuntos dos serviços de geologia e minas do ultramar, providos em lugares criados pelo [Decreto n.º 316/70](https://diariodarepublica.pt/dr/detalhe/decreto/316-1970-140275), de 9 de Julho, será abonada uma gratificação mensal igual à que era atribuída pelo exercício do extinto lugar de subdirector, a partir da data da posse nos respectivos cargos.
 
-###### Art. 2.º O preenchimento, por contrato ou nomeação, dos lugares de motorista dos quadros dos serviços de geologia e minas do ultramar poderá fazer-se, com dispensa de concurso público, mediante proposta dos serviços, quando os candidatos tenham prestado serviço efectivo como motorista, interino ou assalariado, por períodos superiores a um ano, com boas informações.
+Art. 2.º O preenchimento, por contrato ou nomeação, dos lugares de motorista dos quadros dos serviços de geologia e minas do ultramar poderá fazer-se, com dispensa de concurso público, mediante proposta dos serviços, quando os candidatos tenham prestado serviço efectivo como motorista, interino ou assalariado, por períodos superiores a um ano, com boas informações.
 
-###### Art. 3.º - 1. Os preparadores de 1.ª classe dos serviços de geologia e minas do ultramar, contratados ou assalariados pelas verbas do plano de fomento, com três anos de serviço e boas informações, poderão ser nomeados para as vagas de igual categoria existentes nos quadros, mediante proposta dos serviços.
+Art. 3.º - 1. Os preparadores de 1.ª classe dos serviços de geologia e minas do ultramar, contratados ou assalariados pelas verbas do plano de fomento, com três anos de serviço e boas informações, poderão ser nomeados para as vagas de igual categoria existentes nos quadros, mediante proposta dos serviços.
 
 2. O tempo de serviço anteriormente prestado, como assalariado ou contratado, é contado para todos os efeitos legais.
 
-###### Art. 4.º - 1. São extintos nos Serviços de Geologia e Minas de Angola os dois lugares de guarda-livros e criado mais um lugar de geólogo (especializado).
+Art. 4.º - 1. São extintos nos Serviços de Geologia e Minas de Angola os dois lugares de guarda-livros e criado mais um lugar de geólogo (especializado).
 
 2. O primeiro provimento do lugar agora criado será feito por escolha do Ministro do Ultramar, mediante proposta do Governo da província, ouvida a Direcção dos Serviços de Geologia e Minas.
 
 3. À nomeação efectuada nos termos do número anterior poderá ser aplicado o disposto no artigo 60.º do [Decreto n.º 46421](https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624), de 5 de Julho de 1965, na redacção dada pelo [Decreto n.º 48333](https://diariodarepublica.pt/dr/detalhe/decreto/48333-1968-234552), de 15 de Abril de 1968.
 
-###### Art. 5.º Os adjuntos administrativos ou chefes dos serviços administrativos dos diferentes serviços provinciais, quando licenciados ou diplomados por qualquer Universidade, são equiparados a técnicos superiores para efeitos de percepção do subsídio diário a que se refere o [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.
+Art. 5.º Os adjuntos administrativos ou chefes dos serviços administrativos dos diferentes serviços provinciais, quando licenciados ou diplomados por qualquer Universidade, são equiparados a técnicos superiores para efeitos de percepção do subsídio diário a que se refere o [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Novembro de 1971.**
+Promulgado em 10 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

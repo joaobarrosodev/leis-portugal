@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 151/1979, 1º Suplemento, Série I de 1979-07-03
   number: '151'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1430-(1) a 1430-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15101/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94997c4859a7424e7b51969fe0b9d90a0eeaa14470c05e1e11b60cbdec3eadce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df9103fd63a5c5cc083fb6e4ba9ae36db898a3ade47d22d8c3299882df9a8a58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono para Falhas
+- Acumulação de Funções
+- ADSE
+- Diuturnidades
+- Emolumento
+- Função Pública
+- Funcionário Público
+- Gratificação
+- Horas Extraordinárias
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Pensões
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Remuneração
+- Remuneração Acessória
+- Subsídio de Férias
+- Subsídio de Natal
+- Subsídio de Refeição
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226037:por
+  label: "Mantidos em vigor os n.ºs 2, 3 e 4 do artigo 3.º, n.ºs 1 a 5 e 7 a 10 do artigo 4.º e os artigos 5.º, 7.º, 8.º,\
+    \ 9.º, 12.º, 14.º, 16.º e 17.º pelo DEC LEI.200-A/80.24.06.1980.MAI, DR.IS [143]Supl de 24.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-a-1980-226037
+  date: '1980-06-24'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:146059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380542:por
+  label: Rectificado pela DECL.DD7285.10.07.1979.PCM, DR.IS [157] de 10.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-380542
+  date: '1979-07-10'
+- type: repealed_by
+  target: pt:dre:510043:por
+  label: "Revogado o n.º 2 do art. 10.º, pelo DEC LEI.519-B/79.1979.12.28.PCM DR.IS [298]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-b-1979-510043
+  date: '1979-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:55Z'
   warnings: []
   errors: []
 ---
@@ -118,15 +214,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da Administração Pública Central e das Administrações Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser a seguinte:
+Artigo 1.º - 1 - A tabela de vencimentos dos funcionários e agentes da Administração Pública Central e das Administrações Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/15101/00010005.pdf))](https://files.diariodarepublica.pt/1s/1979/07/15101/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/15101/00010005.pdf)
 
 2 - O disposto no n.º 1 é aplicável, na medida das disponibilidades financeiras, ao pessoal dos Cofres Geral dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça, bem como ao das pessoas colectivas de direito privado e utilidade pública administrativa com fins de saúde e assistência, mediante despacho conjunto do Ministro das Finanças e do Plano, do Ministro competente e do membro do Governo que tiver a seu cargo a função pública.
 
 3 - Os vencimentos dos aprendizes e praticantes que não estejam incluídos nas letras da tabela constante do n.º 1 são fixados nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/15101/00010005.pdf))](https://files.diariodarepublica.pt/1s/1979/07/15101/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/15101/00010005.pdf)
 
 4 - O tempo de serviço efectivamente prestado à data da publicação do presente diploma como aprendiz ou praticante será contado para efeitos do disposto no número anterior.
 
@@ -134,7 +230,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6 - Sem prejuízo das remunerações superiores já praticadas, a remuneração mensal dos trabalhadores rurais ao serviço da Administração Pública Central e das Administrações Regional e Local e dos institutos públicos será o salário corrente da região, não podendo em caso algum ser inferior aos salários mínimos estipulados na portaria de regulamentação de trabalho para a agricultura.
 
-###### Art. 2.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna de designações do mapa anexo ao Decreto-Lei n.º 19-F/79, de 26 de Junho, passam a ser, a partir de Julho do corrente ano, os seguintes:
+Art. 2.º - 1 - Os vencimentos do pessoal dirigente abrangido pela coluna de designações do mapa anexo ao Decreto-Lei n.º 19-F/79, de 26 de Junho, passam a ser, a partir de Julho do corrente ano, os seguintes:
 
 Director-geral, secretário-geral e outros cargos expressamente equiparados a director-geral ... 31000$00
 
@@ -152,7 +248,7 @@ Chefe de divisão ... 25300$00
 
 5 - A aplicação do disposto neste artigo não poderá implicar diminuição da retribuição global percebida à data da entrada em vigor do presente diploma.
 
-###### Art. 3.º - 1 - As gratificações que constituem única forma de remuneração do exercício de cargos ou funções serão alteradas a partir de 1 de Janeiro de 1979, de acordo com o disposto nas alíneas seguintes:
+Art. 3.º - 1 - As gratificações que constituem única forma de remuneração do exercício de cargos ou funções serão alteradas a partir de 1 de Janeiro de 1979, de acordo com o disposto nas alíneas seguintes:
 
 a) Se se tratar de trabalho a tempo parcial, a respectiva remuneração será calculada, nos termos do artigo 5.º, tendo por base vencimento da categoria a que correspondam as funções exercidas;
 
@@ -166,7 +262,7 @@ c) Se se tratar da fixação ou alteração das gratificações devidas por fun�
 
 4 - Não será considerado acumulação o exercício de funções que não possam ser diferenciadas daquelas que correspondam ao lugar ou cargo pelo qual o funcionário ou agente perceba vencimento.
 
-###### Art. 4.º - 1 - É proibida a criação, aumento ou extensão de remunerações acessórias, nomeadamente ao pessoal dos serviços e unidades orgânicas que sejam criadas ou integradas, mantendo quadros de pessoal diferenciados e hierarquia própria, em departamentos em cujo âmbito as mesmas venham sendo praticadas.
+Art. 4.º - 1 - É proibida a criação, aumento ou extensão de remunerações acessórias, nomeadamente ao pessoal dos serviços e unidades orgânicas que sejam criadas ou integradas, mantendo quadros de pessoal diferenciados e hierarquia própria, em departamentos em cujo âmbito as mesmas venham sendo praticadas.
 
 2 - Em casos devidamente fundamentados, mediante decreto assinado pelos Ministros das Finanças e do Plano, Ministro competente e membro do Governo que tiver a seu cargo a função pública, sob parecer favorável da comissão interministerial para as remunerações acessórias, poderá ser excepcionado o disposto no número anterior.
 
@@ -196,23 +292,23 @@ e) Emolumentos pessoais, com excepção dos que constituem única forma de remun
 
 10 - As contravenções ao disposto neste artigo obrigam à reposição das quantias indevidamente recebidas.
 
-###### Art. 5.º - 1 - Para todos os efeitos legais, o valor da hora de trabalho é calculado na base da fórmula (V x 12)/(52 x n), sendo V a remuneração mensal e n o número de horas correspondentes ao horário normal semanal.
+Art. 5.º - 1 - Para todos os efeitos legais, o valor da hora de trabalho é calculado na base da fórmula (V x 12)/(52 x n), sendo V a remuneração mensal e n o número de horas correspondentes ao horário normal semanal.
 
 2 - A fórmula referida no número anterior servirá de base de cálculo da remuneração correspondente a qualquer outra fracção de tempo de trabalho.
 
-###### Art. 6.º - O abono para falhas será uniformizado, tendo em conta os valores movimentados, mediante portaria do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, a aprovar até ao fim do 1.º semestre de 1980.
+Art. 6.º - O abono para falhas será uniformizado, tendo em conta os valores movimentados, mediante portaria do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, a aprovar até ao fim do 1.º semestre de 1980.
 
-###### Art. 7.º - 1 - Aos funcionários e agentes que aufiram vencimento segundo a tabela prevista no n.º 1 do artigo 1.º é proibido o exercício cumulativo do seu cargo ou função com o de membro de conselho de gerência, de administração ou comissão administrativa, consoante os casos, de empresas públicas, nacionalizadas, intervencionadas e de economia mista.
+Art. 7.º - 1 - Aos funcionários e agentes que aufiram vencimento segundo a tabela prevista no n.º 1 do artigo 1.º é proibido o exercício cumulativo do seu cargo ou função com o de membro de conselho de gerência, de administração ou comissão administrativa, consoante os casos, de empresas públicas, nacionalizadas, intervencionadas e de economia mista.
 
 2 - O direito dos funcionários e agentes às remunerações como membros das comissões de fiscalização ou conselhos fiscais das empresas citadas no número anterior não é prejudicado pelas remunerações que os referidos membros aufiram em razão de emprego normal ou outra actividade legalmente cumulável, salvo as disposições legais que fixam o limite do salário máximo nacional.
 
 3 - As situações dos funcionários e agentes abrangidos pelo disposto nos números anteriores deverão ser regularizadas no prazo de noventa dias a partir da entrada em vigor deste diploma.
 
-###### Art. 8.º - 1 - São extintas as remunerações devidas por inerência, salvo nos casos em que das funções eventualmente acumuladas resulte acréscimo significativo de trabalho ou de responsabilidade.
+Art. 8.º - 1 - São extintas as remunerações devidas por inerência, salvo nos casos em que das funções eventualmente acumuladas resulte acréscimo significativo de trabalho ou de responsabilidade.
 
 2 - Enquanto as situações referidas na parte final do número anterior não forem objecto de adequada qualificação no âmbito dos diplomas legais que as instituíram, a apreciação das mesmas deverá ser feita por despacho conjunto do Ministro das Finanças e do Plano, do Ministro competente e do membro do Governo que tiver a seu cargo a função pública, no qual igualmente se fixará a correspondente gratificação.
 
-###### Art. 9.º - 1 - Aos membros das comissões instaladoras de quaisquer organismos ou serviços públicos, em exclusividade de funções e em regime de tempo integral, a partir de Julho do corrente ano não poderão ser abonadas remunerações mensais superiores:
+Art. 9.º - 1 - Aos membros das comissões instaladoras de quaisquer organismos ou serviços públicos, em exclusividade de funções e em regime de tempo integral, a partir de Julho do corrente ano não poderão ser abonadas remunerações mensais superiores:
 
 a) Ao vencimento de director-geral, para o presidente;
 
@@ -220,13 +316,13 @@ b) Ao vencimento de subdirector-geral, para os restantes membros.
 
 2 - Aos membros das comissões a que se refere o número anterior que exerçam as respectivas funções em regime de acumulação aplicar-se-á o disposto no artigo 3.º deste diploma.
 
-###### Art. 10.º - 1 - A partir de 1 de Outubro do corrente ano o valor das diuturnidades fixado no [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, será de 750$00 por cada cinco anos de serviço, sem prejuízo dos quantitativos fixados em lei especial.
+Art. 10.º - 1 - A partir de 1 de Outubro do corrente ano o valor das diuturnidades fixado no [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, será de 750$00 por cada cinco anos de serviço, sem prejuízo dos quantitativos fixados em lei especial.
 
 2 - O disposto no número anterior não se aplica às pensões definitivas e às pensões transitórias calculadas com referência a data anterior a 1 de Outubro de 1979.
 
 3 - O regime previsto no artigo 2.º do [Decreto-Lei n.º 341/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1977-256211), de 19 de Agosto, aplica-se às pensões de preço de sangue e outras a cargo do Ministério das Finanças e do Plano, com excepção das resultantes de condecorações e das Leis n.os 1942, de 27 de Julho de 1936, e 2127, de 3 de Agosto de 1965, com efeitos a partir do dia 1 do mês seguinte à data da entrada em vigor do presente diploma, de forma a fazer intervir no seu cálculo o correspondente às diuturnidades respeitantes aos anos de serviço efectivamente prestados.
 
-###### Art. 11.º - 1 - As pensões mensais de aposentação, de reforma e de invalidez beneficiam das seguintes alterações:
+Art. 11.º - 1 - As pensões mensais de aposentação, de reforma e de invalidez beneficiam das seguintes alterações:
 
 a) Pensões até 6000$00: são aumentadas de 1500$00;
 
@@ -258,40 +354,40 @@ c) Pensões acima de 10500$00: são aumentadas de 700$00 ou do necessário para 
 
 7 - Ficam os serviços processadores autorizados a realizar as horas extraordinárias consideradas indispensáveis para a execução do disposto no presente artigo.
 
-###### Art. 12.º - 1 - Os funcionários providos nos cargos de chefe de repartição ou equiparado ficam isentos de horário de trabalho, não lhes sendo por isso devida qualquer remuneração por trabalho prestado fora do horário normal.
+Art. 12.º - 1 - Os funcionários providos nos cargos de chefe de repartição ou equiparado ficam isentos de horário de trabalho, não lhes sendo por isso devida qualquer remuneração por trabalho prestado fora do horário normal.
 
 2 - O remanescente, resultante da aplicação do disposto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, será absorvido até aos quantitativos correspondentes a cada um dos aumentos determinados pelo n.º 1 do artigo 1.º do presente diploma.
 
-###### Art. 13.º A partir de 1 de Julho do corrente ano o subsídio de refeição fixado no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, passa a ser de 850$00 mensais.
+Art. 13.º A partir de 1 de Julho do corrente ano o subsídio de refeição fixado no n.º 1 do artigo 1.º do [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, passa a ser de 850$00 mensais.
 
-###### Art. 14.º A partir de 1 de Julho do corrente ano são alargados os benefícios da ADSE:
+Art. 14.º A partir de 1 de Julho do corrente ano são alargados os benefícios da ADSE:
 
 a) Aos descendentes ou equiparados a quem, nos termos legais, seja atribuído o abono de família;
 
 b) Aos ascendentes a cargo do funcionário ou agente.
 
-###### Art. 15.º Por decreto regulamentar, a publicar dentro de cento e oitenta dias, serão regulados, em novos termos, a atribuição e o processamento dos subsídios de férias e de Natal aos funcionários e agentes que aos mesmos tenham direito.
+Art. 15.º Por decreto regulamentar, a publicar dentro de cento e oitenta dias, serão regulados, em novos termos, a atribuição e o processamento dos subsídios de férias e de Natal aos funcionários e agentes que aos mesmos tenham direito.
 
-###### Art. 16.º Passa a ser de 60% da remuneração principal o limite da remuneração por trabalho extraordinário fixado no n.º 1 do artigo 1.º do [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho.
+Art. 16.º Passa a ser de 60% da remuneração principal o limite da remuneração por trabalho extraordinário fixado no n.º 1 do artigo 1.º do [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho.
 
-###### Art. 17.º É abolida a gratificação pelo exercício de funções de encarregado de pessoal auxiliar.
+Art. 17.º É abolida a gratificação pelo exercício de funções de encarregado de pessoal auxiliar.
 
-###### Art. 18.º Os abonos correspondentes aos efeitos retroactivos do presente diploma serão pagos mediante regras a estabelecer por despacho do Ministro das Finanças e do Plano.
+Art. 18.º Os abonos correspondentes aos efeitos retroactivos do presente diploma serão pagos mediante regras a estabelecer por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 19.º - 1 - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para pagamento dos respectivos vencimentos.
+Art. 19.º - 1 - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para pagamento dos respectivos vencimentos.
 
 2 - Os orçamentos suplementares, eventualmente elaborados para este efeito, não contarão para o limite estabelecido no artigo 8.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
-###### Art. 20.º O presente diploma prevalece sobre todas e quaisquer disposições especiais ou regulamentares em contrário.
+Art. 20.º O presente diploma prevalece sobre todas e quaisquer disposições especiais ou regulamentares em contrário.
 
-###### Art. 21.º É revogado o [Decreto-Lei n.º 3/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1979-476685), de 11 de Janeiro.
+Art. 21.º É revogado o [Decreto-Lei n.º 3/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1979-476685), de 11 de Janeiro.
 
-###### Art. 22.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
+Art. 22.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 2 de Julho de 1979.**
+Promulgado em 2 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

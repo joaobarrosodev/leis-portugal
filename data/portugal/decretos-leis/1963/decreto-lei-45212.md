@@ -50,40 +50,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45212-1963-694010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c70cdfa4f4d9fbc911f761090646ca89c25f96dc8cdb4c2108435057ab2fc739
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 468b66dc40e175211c8cdb9e13eb6df23d4aaf32129f34b26aa6163d61c25db6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Ajudas de Custo
+- Autorização de Despesas
+- CABO Verde.Colónia Portuguesa
+- Definição de Competências
+- Despesas de Deslocação
+- Despesas Públicas
+- Direcção Geral da Aeronáutica Civil
+- ILHA do SAL
+- Ministério das Comunicações
+- Obras Públicas
+- Subsídio
+- Subsídio de Deslocação
+- Subsídio de Embarque
 relationships:
 - type: amended_by
   target: pt:dre:535198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:535198:por
+  label: "Mantidas em vigor nos anos de 1965 e 1966 as disposições do presente diploma, pelo DEC LEI.46090.22.12.1964.MCOMN,\
+    \ DG.IS [298] de 22.12.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46090-1964-535198
+  date: '1964-12-22'
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636700:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:05Z'
   warnings: []
   errors: []
 ---
@@ -106,19 +138,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministério das Comunicações, por intermédio da Direcção-Geral da Aeronáutica Civil, autorizado a proceder à execução das obras de ampliação e remodelação do aeroporto do Sal e a adquirir o equipamento necessário à sua adaptação às exigências operacionais das aeronaves utilizadas no transporte aéreo a grande distância.
+Artigo 1.º Fica o Ministério das Comunicações, por intermédio da Direcção-Geral da Aeronáutica Civil, autorizado a proceder à execução das obras de ampliação e remodelação do aeroporto do Sal e a adquirir o equipamento necessário à sua adaptação às exigências operacionais das aeronaves utilizadas no transporte aéreo a grande distância.
 
 § único. A importância máxima a despender, nos termos do presente artigo, será de 150000 contos, não podendo despender-se no ano corrente quantia superior a 40000 contos e no próximo ano 110000 contos ou o que se apurar como saldo.
 
-###### Art. 2.º As despesas resultantes das obras, da aquisição de material e equipamento, bem como quaisquer outras que se tornem necessárias à adaptação referida no artigo 1.º, serão feitas com dispensa do cumprimento de todas as formalidades legais, incluindo o visto do Tribunal de Contas.
+Art. 2.º As despesas resultantes das obras, da aquisição de material e equipamento, bem como quaisquer outras que se tornem necessárias à adaptação referida no artigo 1.º, serão feitas com dispensa do cumprimento de todas as formalidades legais, incluindo o visto do Tribunal de Contas.
 
 § 1.º A adjudicação de empreitadas e de fornecimentos de valores superiores a 400 contos, bem como a fixação das condições contratuais, especiais e gerais, técnicas e administrativas, aplicáveis à sua execução, carecem de prévia aprovação do Ministro das Comunicações, sobre proposta fundamentada da Direcção-Geral da Aeronáutica Civil.
 
 § 2.º A Direcção-Geral da Aeronáutica Civil, no prazo de 90 dias, a contar do final de cada semestre, organizará a prestação de contas a submeter à aprovação dos Ministros das Finanças e das Comunicações, por intermédio da 12.ª Repartição da Contabilidade Pública.
 
-###### Art. 3.º Todo o material e equipamento a empregar na execução das obras, bem como o destinado a ser aplicado nas instalações do referido aeroporto, beneficia da isenção de direitos aduaneiros e demais imposições aduaneiras ou de qualquer outra natureza.
+Art. 3.º Todo o material e equipamento a empregar na execução das obras, bem como o destinado a ser aplicado nas instalações do referido aeroporto, beneficia da isenção de direitos aduaneiros e demais imposições aduaneiras ou de qualquer outra natureza.
 
-###### Art. 4.º O pessoal da Direcção-Geral da Aeronáutica Civil que, em missão de serviço relacionada com a execução da adaptação prevista no artigo 1.º, tenha de se deslocar ao aeroporto do Sal terá direito, além dos vencimentos correspondentes às respectivas categorias que percebe na metrópole:
+Art. 4.º O pessoal da Direcção-Geral da Aeronáutica Civil que, em missão de serviço relacionada com a execução da adaptação prevista no artigo 1.º, tenha de se deslocar ao aeroporto do Sal terá direito, além dos vencimentos correspondentes às respectivas categorias que percebe na metrópole:
 
 a) A um subsídio antecipado de embarque no valor de: 4000$00 para os grupos de vencimentos de B a K; 3000$00 para os de L a Q, e 1500$00 para os de R a Y. Este abono será devido apenas na ida, com as restrições estabelecidas no artigo 288.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956;
 
@@ -126,14 +158,14 @@ b) Às ajudas de custo que forem fixadas para as deslocações às províncias u
 
 § único. O abono referido na alínea b) será reduzido a um terço no caso de doença comprovada, não provocada por acidente em serviço, que vá além de 30 dias. As faltas ao serviço por outro motivo que não seja a doença importam a perda desse abono.
 
-###### Art. 5.º É tornado extensivo ao pessoal deslocado para efeito de fiscalização de obras, de montagem de instalações ou de equipamentos o disposto na alínea b) do artigo 10.º do [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
+Art. 5.º É tornado extensivo ao pessoal deslocado para efeito de fiscalização de obras, de montagem de instalações ou de equipamentos o disposto na alínea b) do artigo 10.º do [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
 
-###### Art. 6.º Mediante decreto assinado pelos Ministros das Finanças e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
+Art. 6.º Mediante decreto assinado pelos Ministros das Finanças e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
 
-###### Art. 7.º Todas as despesas resultantes da aplicação do presente diploma serão suportadas pela verba a inscrever, para o efeito, no Orçamento Geral do Estado.
+Art. 7.º Todas as despesas resultantes da aplicação do presente diploma serão suportadas pela verba a inscrever, para o efeito, no Orçamento Geral do Estado.
 
-###### Art. 8.º É revogado o Decreto-Lei 41535, de 21 de Fevereiro de 1958.
+Art. 8.º É revogado o Decreto-Lei 41535, de 21 de Fevereiro de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44589-1962-159926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bca9f3d5d4ccdf9fdc4442ac6905b760f29418995e892b0832090adfc0d9aef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c80c9aab1813b375fabe42e016c97e52faa705bc209269d0d4cf172e1c46e7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cantina Escolar
+- Definição de Competências
+- Doação
+- Estabelecimento de Ensino
+- MAIA
+- Ministro da Educação Nacional
 relationships:
 - type: amended_by
   target: pt:dre:627984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627984:por
+  label: "Dada nova redacção ao art. 1º pelo DEC LEI.45019.09.05.1963.MEN, DG.IS [110] de 09.05.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45019-1963-627984
+  date: '1963-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:21Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +100,12 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nos termos do n.º 1.º do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Faria Moreira Ramalhão a importância de 250000$00 para fundo de manutenção da Cantina Escolar Joaquim Ramalhão, anexa às escolas do núcleo da Maia, concelho da Maia.
+Artigo 1.º Nos termos do n.º 1.º do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Faria Moreira Ramalhão a importância de 250000$00 para fundo de manutenção da Cantina Escolar Joaquim Ramalhão, anexa às escolas do núcleo da Maia, concelho da Maia.
 
-###### Art. 2.º A administração da cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o benemérito ou seu representante.
+Art. 2.º A administração da cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o benemérito ou seu representante.
 
-###### Art. 3.º Ao doador é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
+Art. 3.º Ao doador é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

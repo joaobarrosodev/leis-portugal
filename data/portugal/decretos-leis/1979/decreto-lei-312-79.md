@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19100/20082009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1979-378953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7b406af148f927e3ae6c343e93f03badbf5a276f8f15ea61fc4582ee6c9ad74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a7d14b6e8a8d0cd1d63d4a739eafe07500d444b644947a0e2f2591a706b939c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Estágio de Formação
+- Macau
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412192:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:37Z'
   warnings: []
   errors: []
 ---
@@ -96,38 +113,38 @@ Tornando-se necessário salvaguardar os interesses do ensino e os dos docentes a
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte
 
-###### Artigo 1.º - 1 - São criados no território de Macau e entram em funcionamento no ano escolar de 1979-1980 os estágios pedagógicos para os ensinos preparatório e secundário.
+Artigo 1.º - 1 - São criados no território de Macau e entram em funcionamento no ano escolar de 1979-1980 os estágios pedagógicos para os ensinos preparatório e secundário.
 
 2 - O Governo de Macau estabelecerá, para cada ano escolar, quais os grupos, subgrupos, disciplinas ou especialidades em que funcionarão os estágios referidos no número anterior e o número de candidatos a admitir em cada um deles.
 
-###### Art. 2.º - 1 - Aos estágios pedagógicos referidos no artigo anterior é aplicável, com adaptações julgadas necessárias, o disposto no Decreto-Lei n.º 49911, de 14 de Julho de 1969, nos Decretos n.os 49204 e 49205, ambos de 25 de Agosto de 1969, e no [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril.
+Art. 2.º - 1 - Aos estágios pedagógicos referidos no artigo anterior é aplicável, com adaptações julgadas necessárias, o disposto no Decreto-Lei n.º 49911, de 14 de Julho de 1969, nos Decretos n.os 49204 e 49205, ambos de 25 de Agosto de 1969, e no [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril.
 
 2 - As adaptações dos diplomas mencionados no número anterior serão efectuadas por despacho do Ministro da Educação e Investigação Científica, ouvido o Governo de Macau.
 
-###### Art. 3.º O regulamento dos estágios pedagógicos será definido por despacho conjunto do Secretário de Estado do Ensino Básico e Secundário e do Governador de Macau.
+Art. 3.º O regulamento dos estágios pedagógicos será definido por despacho conjunto do Secretário de Estado do Ensino Básico e Secundário e do Governador de Macau.
 
-###### Art. 4.º - 1 - Os orientadores de estágio serão recrutados pelos Serviços de Educação do Governo de Macau de entre docentes profissionalizados dos respectivos grupos, subgrupos, disciplinas ou especialidades.
+Art. 4.º - 1 - Os orientadores de estágio serão recrutados pelos Serviços de Educação do Governo de Macau de entre docentes profissionalizados dos respectivos grupos, subgrupos, disciplinas ou especialidades.
 
 2 - Se o recrutamento referido no número anterior recair em professor em serviço num estabelecimento de ensino em Portugal continental, é-lhe aplicável o regime de requisição previsto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, e os vencimentos a abonar-lhe serão os atribuídos no território de Macau à categoria que possui na função pública.
 
 3 - Os orientadores mencionados no número anterior serão nomeados por despacho do Ministro da Educação e Investigação Científica, sob proposta do Governo de Macau e após parecer favorável da respectiva direcção-geral de ensino.
 
-###### Art. 5.º - 1 - Aos orientadores de estágio é devida uma gratificação, de valor a fixar pelo Governo de Macau, paga mensalmente durante os meses que durar o estágio e a suportar pelo orçamento privativo do território de Macau.
+Art. 5.º - 1 - Aos orientadores de estágio é devida uma gratificação, de valor a fixar pelo Governo de Macau, paga mensalmente durante os meses que durar o estágio e a suportar pelo orçamento privativo do território de Macau.
 
 2 - As despesas com as deslocações de ida e volta dos orientadores de estágio, quando recrutados nos termos do n.º 2 do artigo 4.º, constituem encargos do Governo de Macau.
 
 3 - Aos orientadores referidos no número anterior são atribuídas todas as regalias concedidas aos professores em funções no território de Macau.
 
-###### Art. 6.º - 1 - Os professores estagiários perceberão durante doze meses os vencimentos correspondentes à sua categoria de professor contratado ou provisório, conforme os casos, dos estabelecimentos de ensino no território de Macau.
+Art. 6.º - 1 - Os professores estagiários perceberão durante doze meses os vencimentos correspondentes à sua categoria de professor contratado ou provisório, conforme os casos, dos estabelecimentos de ensino no território de Macau.
 
-###### Art. 7.º Os professores estagiários que obtiveram aproveitamento no estágio pedagógico cumprirão cinco anos escolares de serviço docente nos estabelecimentos de ensino de Macau, podendo no último ano daquele período ou nos seguintes ser opositores aos concursos de professores efectivos dos quadros dos estabelecimentos de ensino de Portugal ou de profissionalizados não efectivos para os mesmos estabelecimentos de ensino.
+Art. 7.º Os professores estagiários que obtiveram aproveitamento no estágio pedagógico cumprirão cinco anos escolares de serviço docente nos estabelecimentos de ensino de Macau, podendo no último ano daquele período ou nos seguintes ser opositores aos concursos de professores efectivos dos quadros dos estabelecimentos de ensino de Portugal ou de profissionalizados não efectivos para os mesmos estabelecimentos de ensino.
 
-###### Art. 8.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho conjunto do Ministro da Educação e Investigação Científica e do Governador de Macau.
+Art. 8.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho conjunto do Ministro da Educação e Investigação Científica e do Governador de Macau.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1979. - Carlos Alberto da Mota Pinto - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

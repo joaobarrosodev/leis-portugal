@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/10/24300/14051411.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -49,40 +49,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f75d61344c5f13f3c2ddd582691d42633babd3848b706fa2ad8332452a7c8a80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2421c67dea05d33e4396570a7730701d1fda5bde16e0a9dbf66e944c402af371
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação de Capitais
+- Importação de Capitais
+- Operações de Invisiveis Correntes
 relationships:
 - type: amended_by
   target: pt:dre:692224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI NUMERO 351-C/85, PUBLICADO NO DIARIO DA REPUBLICA, I SERIE, NUMERO 195, SUPLEMENTO, DE\
+    \ 850826.\026.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-08-26'
+- type: repealed_by
+  target: pt:dre:692224:por
+  label: "Revogado o Decreto-Lei n.º 44698, de 17 de Novembro de 1962, com as alterações introduzidas no presente diploma,\
+    \ pelo DEC LEI.351-C/85.26.08.1985.MFP, DR.IS [195]Supl de 26.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-c-1985-692224
+  date: '1985-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:18Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +158,9 @@ Nestas circunstâncias, ouvido o Conselho de Ministros para os Assuntos Económi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A redacção dos artigos 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 12.º, 15.º, 17.º, 27.º e 30.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, é modificada como a seguir se indica:
+Artigo 1.º A redacção dos artigos 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 12.º, 15.º, 17.º, 27.º e 30.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, é modificada como a seguir se indica:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º ...
 
@@ -105,7 +168,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Para efeito do disposto no parágrafo anterior, consideram-se como boletins não utilizados aqueles em relação aos quais se verifique não ter havido despacho alfandegário das mercadorias a que eles respeitam, ou só ter havido o despacho de parte dessas mercadorias, e quer eles tenham ou não servido para a liquidação, total ou parcial, das mesmas mercadorias.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 1.º ...
 
@@ -115,7 +178,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º As instituições de crédito que efectuarem as operações cambiais deverão anotá-las nos exemplares E dos respectivos boletins de registo prévio, os quais remeterão ao Banco de Portugal no próprio dia da liquidação das transacções a que respeitarem, ou no dia útil imediato. Sempre que os exemplares E não hajam sido utilizados pela totalidade, as instituições de crédito comunicarão igualmente ao Banco de Portugal, dentro do prazo referido, as utilizações parciais realizadas.
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1.º Os exemplares dos boletins de registo serão sete, correspondentes às letras A a G, destinando-se os exemplares A e B às alfândegas que devam proceder aos despachos, o C à inspecção de crédito e seguros ou à inspecção do comércio bancário da respectiva província ultramarina, os D e E aos interessados, o F ao Banco de Portugal e o G ao serviço ou entidade que emitir os boletins. Para facilidade de registos e verificação da utilização dos boletins, poderão os serviços ou entidades competentes determinar, sempre que o julguem conveniente, o desdobramento, em duas ou mais vias, dos exemplares C e G.
 
@@ -127,13 +190,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º ...
 
-###### Art. 5.º O disposto no artigo 3.º deste decreto-lei será aplicado a idênticas operações entre as províncias ultramarinas e o estrangeiro, com a diferença de que a concessão das autorizações ali previstas competirá às inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas e de que o exemplar E dos boletins de registo prévio deve ser remetido, ou a comunicação das utilizações parciais desse exemplar E ser feita, àquelas inspecções directamente ou por intermédio do Banco de Portugal quando se tratar de operações efectuadas no continente ou nas ilhas adjacentes.
+Art. 5.º O disposto no artigo 3.º deste decreto-lei será aplicado a idênticas operações entre as províncias ultramarinas e o estrangeiro, com a diferença de que a concessão das autorizações ali previstas competirá às inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas e de que o exemplar E dos boletins de registo prévio deve ser remetido, ou a comunicação das utilizações parciais desse exemplar E ser feita, àquelas inspecções directamente ou por intermédio do Banco de Portugal quando se tratar de operações efectuadas no continente ou nas ilhas adjacentes.
 
 § único. Quando o exemplar E do boletim de registo deva ser enviado, ou a comunicação das utilizações parciais desse exemplar E ser feita, por intermédio do Banco de Portugal, este remeterá o exemplar do boletim ou transmitirá a comunicação à autoridade cambial da respectiva província no prazo de oito dias a contar da data da recepção desse exemplar E ou da comunicação.
 
 ...
 
-###### Art. 8.º Nas importações das mercadorias sujeitas a restrições quantitativas nos termos da legislação aplicável, bem como nas importações de mercadorias nacionalizadas, a realização tanto do despacho como do registo a que se refere o artigo antecedente ficará dependente de autorização, passada pelos serviços ou entidades que no continente e ilhas adjacentes ou nas províncias ultramarinas tiverem competência para emitir boletins de registo prévio para as operações com o estrangeiro.
+Art. 8.º Nas importações das mercadorias sujeitas a restrições quantitativas nos termos da legislação aplicável, bem como nas importações de mercadorias nacionalizadas, a realização tanto do despacho como do registo a que se refere o artigo antecedente ficará dependente de autorização, passada pelos serviços ou entidades que no continente e ilhas adjacentes ou nas províncias ultramarinas tiverem competência para emitir boletins de registo prévio para as operações com o estrangeiro.
 
 § 1.º ...
 
@@ -141,7 +204,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º As autorizações a que se refere o precedente artigo será aplicável o disposto nos §§ 2.º e 3.º do artigo 2.º deste decreto-lei.
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 § 1.º A instituição de crédito à qual for solicitada a liquidação referida no presente artigo enviará à autoridade cambial do território em que as mercadorias forem importadas (a inspecção de crédito e seguros ou do comércio bancário de uma província ultramarina ou o Banco de Portugal, conforme o caso), na data da respectiva utilização pelo importador, ou no dia útil imediato, o exemplar III do correspondente boletim de registo, anotando nele os elementos essenciais da operação a realizar. A mesma instituição de crédito remeterá simultâneamente o exemplar IV à instituição de crédito do território nacional de exportação ou reexportação das mercadorias que deva efectuar a liquidação final da operação com o exportador ou reexportador. Esta instituição de crédito, por seu turno, enviará à autoridade cambial do respectivo território, na data do pagamento que efectuar ou no dia útil imediato, o mencionado exemplar IV do boletim de registo, depois de nele anotar os elementos essenciais da operação realizada. Mas quando as liquidações não respeitem à totalidade das importâncias constantes dos boletins, deverão as instituições de crédito anotar neles as utilizações parciais realizadas e proceder às correspondentes comunicações conforme antes se indicou para a remessa dos exemplares III e IV dos boletins.
 
@@ -149,7 +212,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 12.º As liquidações de operações de invisíveis correntes, que impliquem a realização de entregas ou de pagamentos a favor de residentes no continente e ilhas adjacentes por conta de residentes no estrangeiro, ou a favor destes residentes por conta daqueles, serão obrigatòriamente efectuadas por intermédio de instituições de crédito autorizadas a exercer o comércio de câmbios naqueles ou em quaisquer outros territórios nacionais.
+Art. 12.º As liquidações de operações de invisíveis correntes, que impliquem a realização de entregas ou de pagamentos a favor de residentes no continente e ilhas adjacentes por conta de residentes no estrangeiro, ou a favor destes residentes por conta daqueles, serão obrigatòriamente efectuadas por intermédio de instituições de crédito autorizadas a exercer o comércio de câmbios naqueles ou em quaisquer outros territórios nacionais.
 
 § 1.º ...
 
@@ -161,7 +224,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § 1.º ...
 
@@ -173,7 +236,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 § 1.º ...
 
@@ -181,15 +244,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 27.º Compete ao Ministro do Ultramar tomar as providências relativas à execução, nas províncias ultramarinas, das deliberações do Conselho de Ministros para os Assuntos Económicos quanto a operações de invisíveis correntes e de capitais entre as ditas províncias e o estrangeiro ou entre territórios nacionais. No uso desta competência, poderá o Ministro do Ultramar, por despacho, condicionar a capacidade de decisão das inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas, consoante a natureza ou a importância das operações de invisíveis correntes e de capitais privados.
+Art. 27.º Compete ao Ministro do Ultramar tomar as providências relativas à execução, nas províncias ultramarinas, das deliberações do Conselho de Ministros para os Assuntos Económicos quanto a operações de invisíveis correntes e de capitais entre as ditas províncias e o estrangeiro ou entre territórios nacionais. No uso desta competência, poderá o Ministro do Ultramar, por despacho, condicionar a capacidade de decisão das inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas, consoante a natureza ou a importância das operações de invisíveis correntes e de capitais privados.
 
 ...
 
-###### Art. 30.º Os documentos e actos necessários à execução deste decreto-lei, designadamente os pedidos de registo ou de autorização, os boletins de registo prévio, as autorizações e os boletins de registo posterior ao despacho aduaneiro, serão isentos de imposto do selo e de quaisquer emolumentos. Serão igualmente isentas as autorizações para pagamento antecipado de importações entre territórios nacionais, a que se refere o [Decreto-Lei n.º 47917](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47917-1967-390780), de 8 de Setembro de 1967.
+Art. 30.º Os documentos e actos necessários à execução deste decreto-lei, designadamente os pedidos de registo ou de autorização, os boletins de registo prévio, as autorizações e os boletins de registo posterior ao despacho aduaneiro, serão isentos de imposto do selo e de quaisquer emolumentos. Serão igualmente isentas as autorizações para pagamento antecipado de importações entre territórios nacionais, a que se refere o [Decreto-Lei n.º 47917](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47917-1967-390780), de 8 de Setembro de 1967.
 
 § único. O disposto no presente artigo não obsta a que possa ser exigido, pelos serviços e entidades que os emitirem, o pagamento dos impressos dos boletins de registo e dos respeitantes a autorizações.
 
-###### Art. 2.º - 1. O corpo do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) passa a ter a redacção seguinte:
+Art. 2.º - 1. O corpo do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) passa a ter a redacção seguinte:
 
 As transgressões ao disposto no presente decreto-lei e seus diplomas regulamentares e às normas e deliberações do Conselho de Ministros para o Comércio Externo referidas nos artigos 1.º e 19.º, bem como às normas e princípios reguladores mencionados nas alíneas a) e c) e § 2.º do artigo 25.º e no artigo 26.º, e ainda às instruções a que alude o artigo 28.º, serão punidas de conformidade com o disposto no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
@@ -199,21 +262,21 @@ As transgressões ao disposto no presente decreto-lei e seus diplomas regulament
 
 As transgressões ao disposto no presente decreto-lei, bem como aos diplomas regulamentares por ele previstos, serão punidas de conformidade com o disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), tendo em conta, na parte aplicável, o estatuído no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-###### Art. 3.º O § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, passa a constituir o § 1.º do mesmo artigo, e é-lhe aditado um novo parágrafo com a redacção que segue:
+Art. 3.º O § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, passa a constituir o § 1.º do mesmo artigo, e é-lhe aditado um novo parágrafo com a redacção que segue:
 
 § 2.º As empresas a que se refere o artigo 8.º do [Decreto-Lei n.º 47920](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783), de 8 de Setembro de 1967, enviarão também ao Banco de Portugal, em conformidade com as instruções que por este lhes forem transmitidas, os elementos de informação, sobre as operações que realizem, necessários à elaboração dos quadros da balança geral de pagamentos internacionais e à verificação dos princípios estabelecidos para a execução dessas operações.
 
-###### Art. 4.º A redacção dos artigos 8.º, 19.º, 20.º, 29.º, 33.º, 37.º, 41.º e 42.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461) é modificada como seguidamente se indica:
+Art. 4.º A redacção dos artigos 8.º, 19.º, 20.º, 29.º, 33.º, 37.º, 41.º e 42.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461) é modificada como seguidamente se indica:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § único. Para os fins do presente artigo, os bancos comerciais e casas de câmbio, bem como os bancos de investimento, enviarão à Inspecção-Geral de Crédito e Seguros cópia dos elementos de informação a que se refere o § 1.º do artigo anterior e quaisquer outros que sejam julgados necessários pela mesma Inspecção-Geral. Igualmente, as empresas referidas no artigo 8.º do [Decreto-Lei n.º 47920](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783) remeterão à mencionada Inspecção-Geral cópia dos elementos a que alude o § 2.º do artigo precedente.
 
 ...
 
-###### Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações para o exercício do comércio de câmbios venham a caducar nos termos do artigo anterior só poderão requerer nova autorização decorridos dois anos sobre a data da publicação no Diário do Governo do aviso mencionado no § 2.º do referido artigo.
+Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações para o exercício do comércio de câmbios venham a caducar nos termos do artigo anterior só poderão requerer nova autorização decorridos dois anos sobre a data da publicação no Diário do Governo do aviso mencionado no § 2.º do referido artigo.
 
-###### Art. 20.º É proibida a realização de operações cambiais directamente por quaisquer pessoas singulares ou colectivas, residentes no continente e ilhas adjacentes, não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com intervenção de uma instituição autorizada a exercer o mencionado comércio em território nacional.
+Art. 20.º É proibida a realização de operações cambiais directamente por quaisquer pessoas singulares ou colectivas, residentes no continente e ilhas adjacentes, não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com intervenção de uma instituição autorizada a exercer o mencionado comércio em território nacional.
 
 § 1.º ...
 
@@ -223,17 +286,17 @@ As transgressões ao disposto no presente decreto-lei, bem como aos diplomas reg
 
 ...
 
-###### Art. 29.º Os bancos comerciais poderão possuir ou deter, em suas próprias caixas ou em depósito que constituam no continente e ilhas adjacentes ou no estrangeiro, disponibilidades em ouro amoedado ou em barra, chapa, fita, limalha ou pó, e notas ou moedas metálicas estrangeiras com curso legal nos países que as emitiram e, bem assim, ter abertas, em seu nome, em instituições de crédito domiciliadas no estrangeiro contas de disponibilidades à ordem, expressas em moeda estrangeira.
+Art. 29.º Os bancos comerciais poderão possuir ou deter, em suas próprias caixas ou em depósito que constituam no continente e ilhas adjacentes ou no estrangeiro, disponibilidades em ouro amoedado ou em barra, chapa, fita, limalha ou pó, e notas ou moedas metálicas estrangeiras com curso legal nos países que as emitiram e, bem assim, ter abertas, em seu nome, em instituições de crédito domiciliadas no estrangeiro contas de disponibilidades à ordem, expressas em moeda estrangeira.
 
 § único ...
 
 ...
 
-###### Art. 33.º Os bancos comerciais, mediante autorização especial e prévia do Banco de Portugal e nas condições estabelecidas nessa autorização, poderão aplicar parte dos saldos das contas em moeda estrangeira, a que se refere o artigo 29.º, em operações a prazo não superior a um ano e, bem assim, poderão acordar com os titulares das contas referidas nos artigos 30.º e 31.º a aplicação de todos ou de parte dos respectivos saldos em depósitos na mesma moeda a prazo não superior a um ano, ou em operações de outra natureza, mas igualmente na mesma moeda, quando admitidas na autorização do Banco de Portugal.
+Art. 33.º Os bancos comerciais, mediante autorização especial e prévia do Banco de Portugal e nas condições estabelecidas nessa autorização, poderão aplicar parte dos saldos das contas em moeda estrangeira, a que se refere o artigo 29.º, em operações a prazo não superior a um ano e, bem assim, poderão acordar com os titulares das contas referidas nos artigos 30.º e 31.º a aplicação de todos ou de parte dos respectivos saldos em depósitos na mesma moeda a prazo não superior a um ano, ou em operações de outra natureza, mas igualmente na mesma moeda, quando admitidas na autorização do Banco de Portugal.
 
 ...
 
-###### Art. 37.º As disponibilidades em ouro e em moedas estrangeiras dos bancos comerciais não poderão exceder os quantitativos que forem fixados pelo Banco de Portugal, nos termos do artigo 25.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965.
+Art. 37.º As disponibilidades em ouro e em moedas estrangeiras dos bancos comerciais não poderão exceder os quantitativos que forem fixados pelo Banco de Portugal, nos termos do artigo 25.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965.
 
 § 1.º ...
 
@@ -241,7 +304,7 @@ As transgressões ao disposto no presente decreto-lei, bem como aos diplomas reg
 
 ...
 
-###### Art. 41.º ...
+Art. 41.º ...
 
 1.º ...
 
@@ -263,17 +326,17 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ...
 
-###### Art. 42.º As transgressões ao disposto no presente decreto-lei e nas portarias previstas nos artigos 22.º e 25.º serão puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 42.º As transgressões ao disposto no presente decreto-lei e nas portarias previstas nos artigos 22.º e 25.º serão puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-###### Art. 5.º A redacção dos artigos 2.º, 7.º, 8.º, 11.º, 16.º, 18.º, 19.º, 20.º, 26.º, 29.º, 33.º, 34.º, 45.º e 46.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), de 17 de Novembro de 1962, é modificada como seguidamente se indica:
+Art. 5.º A redacção dos artigos 2.º, 7.º, 8.º, 11.º, 16.º, 18.º, 19.º, 20.º, 26.º, 29.º, 33.º, 34.º, 45.º e 46.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), de 17 de Novembro de 1962, é modificada como seguidamente se indica:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § único. Para efeito do disposto no presente decreto-lei a expressão «bancos comerciais» compreende as instituições de crédito a que se refere a alínea c) e § 1.º do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963.
 
 ...
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 1.º Para os fins do presente artigo, os bancos comerciais, os bancos de investimento e as casas de câmbio enviarão à inspecção de crédito e seguros ou do comércio bancário da província os elementos de informação necessários à verificação do cumprimento dos princípios reguladores e instruções respeitantes a operações cambiais, aplicáveis na província nos termos da alínea c) e parágrafos do artigo 25.º e do artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460). Também as empresas a que se refere o artigo 8.º do [Decreto-Lei n.º 47920](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783), de 8 de Setembro de 1967, que sejam residentes nas províncias ultramarinas, remeterão às mencionadas inspecções os elementos de informação, sobre as operações que realizem, indispensáveis à verificação dos princípios estabelecidos para a execução dessas operações.
 
@@ -281,7 +344,7 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § 1.º Os bancos emissores, bancos comerciais e casas de câmbio, os bancos de investimento e as entidades ou serviços públicos que realizem operações cambiais nas províncias ultramarinas, bem como as empresas mencionadas no § 1.º do artigo precedente deste diploma, deverão enviar à inspecção de crédito e seguros ou do comércio bancário da respectiva província, de acordo com as instruções que por esta lhes forem transmitidas, os elementos de informação necessários à elaboração dos quadros da balança de pagamentos entre a província e o estrangeiro.
 
@@ -291,7 +354,7 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ...
 
-###### Art. 11.º Os bancos comerciais e as casas de câmbio que pretenderem exercer o comércio de câmbios numa província ultramarina deverão requerer a devida autorização, respectivamente, ao Ministro do Ultramar, por intermédio da Direcção-Geral de Economia, ou ao governo da província, por intermédio da competente inspecção de crédito e seguros ou do comércio bancário.
+Art. 11.º Os bancos comerciais e as casas de câmbio que pretenderem exercer o comércio de câmbios numa província ultramarina deverão requerer a devida autorização, respectivamente, ao Ministro do Ultramar, por intermédio da Direcção-Geral de Economia, ou ao governo da província, por intermédio da competente inspecção de crédito e seguros ou do comércio bancário.
 
 § 1.º A autorização a que se refere o presente artigo poderá ser concedida mediante despacho, devendo as instituições prestar, no prazo de quarenta e cinco dias, a caução que lhes for fixada e, se for caso disso, observar as condições especiais que o mesmo Ministro ou o governador da província estabelecer, ouvida, em qualquer dos casos, a competente inspecção de crédito e seguros ou do comércio bancário.
 
@@ -299,7 +362,7 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ...
 
-###### Art. 16.º As cauções referidas nos artigos anteriores serão prestadas por depósito do numerário ou de títulos da dívida pública portuguesa livremente transmissíveis, a efectuar no banco emissor da respectiva província à ordem da inspecção de crédito e seguros ou do comércio bancário da mesma província.
+Art. 16.º As cauções referidas nos artigos anteriores serão prestadas por depósito do numerário ou de títulos da dívida pública portuguesa livremente transmissíveis, a efectuar no banco emissor da respectiva província à ordem da inspecção de crédito e seguros ou do comércio bancário da mesma província.
 
 § 1.º No caso de a caução ser prestada total ou parcialmente por depósito de títulos da dívida pública portuguesa será considerado como valor destes títulos o da última cotação efectuada em bolsa anteriormente à prestação da caução, reduzido de 10 por cento. Mas quando se trate de títulos de dívida pública emitidos pelos governos das províncias ultramarinas e enquanto estes não estejam sujeitos a cotação em bolsa, será tomado o valor nominal dos mesmos títulos.
 
@@ -309,11 +372,11 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ...
 
-###### Art. 18.º A autorização para o exercício do comércio de câmbios numa província ultramarina, concedida a qualquer banco comercial ou casa de câmbio, caducará nos casos e termos previstos pelo artigo 18.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), competindo, conforme o caso, ao Ministro do Ultramar ou ao governador da província a faculdade referida no § 1.º desse artigo e devendo os avisos mencionados no § 2.º ser publicados pela Direcção-Geral de Economia no Diário do Governo e no Boletim Oficial das respectivas províncias ultramarinas, ou pela inspecção de crédito e seguros ou do comércio bancário no Boletim Oficial da província em causa.
+Art. 18.º A autorização para o exercício do comércio de câmbios numa província ultramarina, concedida a qualquer banco comercial ou casa de câmbio, caducará nos casos e termos previstos pelo artigo 18.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), competindo, conforme o caso, ao Ministro do Ultramar ou ao governador da província a faculdade referida no § 1.º desse artigo e devendo os avisos mencionados no § 2.º ser publicados pela Direcção-Geral de Economia no Diário do Governo e no Boletim Oficial das respectivas províncias ultramarinas, ou pela inspecção de crédito e seguros ou do comércio bancário no Boletim Oficial da província em causa.
 
-###### Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações venham a caducar nos termos do artigo anterior só poderão requerer nova autorização decorridos dois anos sobre a data da publicação, no Boletim Oficial da respectiva província dos avisos referidos no mesmo artigo.
+Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações venham a caducar nos termos do artigo anterior só poderão requerer nova autorização decorridos dois anos sobre a data da publicação, no Boletim Oficial da respectiva província dos avisos referidos no mesmo artigo.
 
-###### Art. 20.º É proibida a realização de operações cambiais directamente por quaisquer pessoas singulares ou colectivas, residentes numa província ultramarina, não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com a intervenção de uma instituição autorizada a exercer o mencionado comércio em território nacional, conforme o disposto nos artigos 5.º, 6.º, 14.º e 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e o estabelecido no presente diploma.
+Art. 20.º É proibida a realização de operações cambiais directamente por quaisquer pessoas singulares ou colectivas, residentes numa província ultramarina, não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com a intervenção de uma instituição autorizada a exercer o mencionado comércio em território nacional, conforme o disposto nos artigos 5.º, 6.º, 14.º e 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e o estabelecido no presente diploma.
 
 § 1.º ...
 
@@ -323,7 +386,7 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ...
 
-###### Art. 26.º A importação de moedas metálicas portuguesas, em circulação ou fora da circulação, é livre e a exportação das mesmas moedas fica sujeita, nas províncias ultramarinas, ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
+Art. 26.º A importação de moedas metálicas portuguesas, em circulação ou fora da circulação, é livre e a exportação das mesmas moedas fica sujeita, nas províncias ultramarinas, ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
 
 § 1.º ...
 
@@ -331,23 +394,23 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 ...
 
-###### Art. 29.º Os bancos emissores, nesta qualidade ou como agentes dos fundos cambiais, poderão possuir ou deter, em suas próprias caixas ou em depósito que constituam na província, no continente e ilhas adjacentes ou no estrangeiro, disponibilidades em ouro amoedado ou em barra, chapa, fita, limalha ou pó, e notas e moedas metálicas estrangeiras com curso legal nos países que as emitiram e, bem assim, ter abertas em seu nome, em instituições de crédito domiciliadas no estrangeiro, contas de disponibilidades à ordem expressas em moeda estrangeira.
+Art. 29.º Os bancos emissores, nesta qualidade ou como agentes dos fundos cambiais, poderão possuir ou deter, em suas próprias caixas ou em depósito que constituam na província, no continente e ilhas adjacentes ou no estrangeiro, disponibilidades em ouro amoedado ou em barra, chapa, fita, limalha ou pó, e notas e moedas metálicas estrangeiras com curso legal nos países que as emitiram e, bem assim, ter abertas em seu nome, em instituições de crédito domiciliadas no estrangeiro, contas de disponibilidades à ordem expressas em moeda estrangeira.
 
 § único ...
 
 ...
 
-###### Art. 33.º Os bancos emissores, nesta qualidade, poderão, mediante autorização especial e prévia da correspondente inspecção de crédito e seguros ou do comércio bancário e nas condições estabelecidas nessa autorização, aplicar parte dos saldos das contas em moeda estrangeira a que se refere o artigo 29.º em operações a prazo não superior a um ano, e, bem assim, acordar com os titulares das contas referidas nos artigos 30.º e 31.º a aplicação de todos ou de parte dos respectivos saldos em depósitos da mesma moeda a prazo não superior a um ano, ou em operações de outra natureza, mas igualmente na mesma moeda, quando admitidas na autorização das mencionadas inspecções.
+Art. 33.º Os bancos emissores, nesta qualidade, poderão, mediante autorização especial e prévia da correspondente inspecção de crédito e seguros ou do comércio bancário e nas condições estabelecidas nessa autorização, aplicar parte dos saldos das contas em moeda estrangeira a que se refere o artigo 29.º em operações a prazo não superior a um ano, e, bem assim, acordar com os titulares das contas referidas nos artigos 30.º e 31.º a aplicação de todos ou de parte dos respectivos saldos em depósitos da mesma moeda a prazo não superior a um ano, ou em operações de outra natureza, mas igualmente na mesma moeda, quando admitidas na autorização das mencionadas inspecções.
 
 § único ...
 
-###### Art. 34.º Os bancos emissores, como agentes dos fundos cambiais e nas condições por estes estabelecidas, adquirirão aos bancos comerciais e de investimento da província e venderão aos mesmos bancos a moeda estrangeira que os ditos bancos comerciais e de investimento possuam ou de que possam carecer para liquidação de operações entre a província e o estrangeiro.
+Art. 34.º Os bancos emissores, como agentes dos fundos cambiais e nas condições por estes estabelecidas, adquirirão aos bancos comerciais e de investimento da província e venderão aos mesmos bancos a moeda estrangeira que os ditos bancos comerciais e de investimento possuam ou de que possam carecer para liquidação de operações entre a província e o estrangeiro.
 
 § único. Apenas como agentes dos fundos cambiais das províncias e por sua conta e ordem, poderão os bancos emissores ultramarinos proceder directamente a operações de conversão de moedas estrangeiras.
 
 ...
 
-###### Art. 45.º ...
+Art. 45.º ...
 
 1.º ...
 
@@ -367,21 +430,21 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis corre
 
 § 5.º Mediante autorização especial e prévia da competente inspecção de crédito e seguros ou do comércio bancário, à importância referida na alínea a) do n.º 2.º do presente artigo poderá ser deduzido o montante dos encargos directamente relacionados com a transacção de mercadorias, invisíveis correntes ou capitais e com a correspondente operação cambial.
 
-###### Art. 46.º As transgressões ao disposto no presente decreto-lei e nos despachos e portarias previstos nos artigos 25.º, 27.º e 39.º serão puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 46.º As transgressões ao disposto no presente decreto-lei e nos despachos e portarias previstos nos artigos 25.º, 27.º e 39.º serão puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-###### Art. 6.º A redacção dos artigos 2.º, 6.º, 13.º, 24.º, 25.º, 28.º, 29.º e 32.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962, é alterada como a seguir se indica:
+Art. 6.º A redacção dos artigos 2.º, 6.º, 13.º, 24.º, 25.º, 28.º, 29.º e 32.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962, é alterada como a seguir se indica:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § único. Para efeito do disposto no presente decreto-lei, a expressão «bancos comerciais» compreende: no continente e ilhas adjacentes, os bancos emissores ultramarinos, nos casos previstos no artigo 46.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), e as casas bancárias, nos termos do § 1.º do seu artigo 2.º; e nas províncias ultramarinas, as instituições de crédito referidas na alínea c) e § 1.º do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963.
 
 ...
 
-###### Art. 6.º As instituições referidas no artigo 2.º, bem como as entidades ou serviços públicos que realizem operações de pagamentos interterritoriais e, ainda, as casas de câmbio, relativamente aos actos mencionados no artigo 3.º, enviarão ao Banco de Portugal ou às inspecções de crédito e seguros ou do comércio bancário das províncias, consoante o território onde exerçam a sua actividade e de acordo com as instruções que lhes forem transmitidas por aquele Banco ou por estas inspecções, os elementos de informação necessários à elaboração dos quadros das balanças de pagamentos entre territórios nacionais e à verificação do cumprimento dos princípios reguladores e instruções referidos nos artigos 25.º e 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962. Igualmente as empresas a que alude o artigo 8.º do [Decreto-Lei n.º 47920](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783), de 8 de Setembro de 1967, remeterão ao Banco de Portugal e às sobreditas inspecções, de acordo com as instruções que lhes serão transmitidas pela autoridade cambial do território em que forem residentes nos termos do artigo 2.º do [Decreto-Lei n.º 47917](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47917-1967-390780), também de 8 de Setembro de 1967, os elementos de informação, sobre as operações que realizem, indispensáveis à elaboração dos quadros das balanças de pagamentos interterritoriais e à verificação dos princípios estabelecidos para a execução dessas operações.
+Art. 6.º As instituições referidas no artigo 2.º, bem como as entidades ou serviços públicos que realizem operações de pagamentos interterritoriais e, ainda, as casas de câmbio, relativamente aos actos mencionados no artigo 3.º, enviarão ao Banco de Portugal ou às inspecções de crédito e seguros ou do comércio bancário das províncias, consoante o território onde exerçam a sua actividade e de acordo com as instruções que lhes forem transmitidas por aquele Banco ou por estas inspecções, os elementos de informação necessários à elaboração dos quadros das balanças de pagamentos entre territórios nacionais e à verificação do cumprimento dos princípios reguladores e instruções referidos nos artigos 25.º e 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962. Igualmente as empresas a que alude o artigo 8.º do [Decreto-Lei n.º 47920](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47920-1967-390783), de 8 de Setembro de 1967, remeterão ao Banco de Portugal e às sobreditas inspecções, de acordo com as instruções que lhes serão transmitidas pela autoridade cambial do território em que forem residentes nos termos do artigo 2.º do [Decreto-Lei n.º 47917](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47917-1967-390780), também de 8 de Setembro de 1967, os elementos de informação, sobre as operações que realizem, indispensáveis à elaboração dos quadros das balanças de pagamentos interterritoriais e à verificação dos princípios estabelecidos para a execução dessas operações.
 
 ...
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 § único. São exceptuados do disposto no presente artigo:
 
@@ -393,71 +456,71 @@ c) Os pagamentos e recebimentos a realizar no continente e ilhas adjacentes pela
 
 ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 § 1.º A movimentação das contas referidas no presente artigo far-se-á, a crédito, utilizando as contas de compensação do Banco de Portugal ou dos mencionados fundos cambiais, consoante o caso, em conformidade com os princípios reguladores e instruções a que aludem a alínea c) do artigo 25.º e o artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), e, a débito, por efeito de pagamentos ou por devolução de transferências que hajam sido efectuadas para crédito das mesmas contas, tudo em harmonia com os ditos princípios e instruções.
 
 § 2.º Nos princípios reguladores a que alude o parágrafo precedente serão estabelecidas, oportunamente, as condições em que os saldos das contas referidas no presente artigo poderão ser aplicados, no todo ou em parte, em depósitos da mesma moeda, a prazo não superior a um ano, ou em operações de outra natureza, igualmente na mesma moeda.
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 § único. Às contas referidas neste artigo é aplicável o disposto nos §§ 1.º e 2.º do artigo anterior.
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 § único. Às contas referidas no presente artigo é aplicável o disposto nos §§ 1.º e 2.º do artigo 24.º
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 § único. Às contas referidas neste artigo é aplicável o disposto nos §§ 1.º e 2.º do artigo 24.º
 
 ...
 
-###### Art. 32.º As transgressões ao disposto no presente decreto-lei são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 32.º As transgressões ao disposto no presente decreto-lei são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
-###### Art. 7.º - 1. Dentro do prazo de noventa dias, a contar da promulgação do presente decreto-lei, a Inspecção-Geral de Crédito e Seguros transmitirá aos competentes serviços do continente e ilhas adjacentes as instruções regulamentares sobre a emissão de vales de correio pagáveis em outros territórios nacionais, previstas no § único do artigo 12.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463).
+Art. 7.º - 1. Dentro do prazo de noventa dias, a contar da promulgação do presente decreto-lei, a Inspecção-Geral de Crédito e Seguros transmitirá aos competentes serviços do continente e ilhas adjacentes as instruções regulamentares sobre a emissão de vales de correio pagáveis em outros territórios nacionais, previstas no § único do artigo 12.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463).
 
 2. Nas instruções a que se refere o presente artigo serão tidas em consideração as disposições do dito [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), e bem assim o estatuído no [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e demais legislação complementar sobre operações de liquidação de transacções interterritoriais de mercadorias, de invisíveis correntes e de capitais privados.
 
 3. Quanto às instruções a aplicar numa província ultramarina sobre a emissão de vales de correio pagáveis em outros territórios nacionais, a respectiva inspecção de crédito e seguros ou do comércio bancário terá em conta as instruções referidas no n.º 1.
 
-###### Art. 8.º - 1. As declarações a que se refere o § 2.º do artigo 16.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463) serão preenchidas em três exemplares, devidamente visados pela inspecção de crédito e seguros ou do comércio bancário da província ultramarina, destinando-se o exemplar I a essa inspecção e os restantes aos interessados.
+Art. 8.º - 1. As declarações a que se refere o § 2.º do artigo 16.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463) serão preenchidas em três exemplares, devidamente visados pela inspecção de crédito e seguros ou do comércio bancário da província ultramarina, destinando-se o exemplar I a essa inspecção e os restantes aos interessados.
 
 2. Ao solicitarem as trocas previstas no artigo 20.º do citado [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), os viajantes deverão apresentar os exemplares das declarações em seu poder, nos quais a instituição de crédito anotará os elementos essenciais da operação.
 
 3. A instituição de crédito à qual for solicitada a troca de notas ou moedas metálicas enviará à autoridade cambial do território em que as notas e moedas forem importadas (a inspecção de crédito e seguros ou do comércio bancário de uma província ultramarina ou o Banco de Portugal, conforme o caso), na data da operação ou no dia útil imediato, o exemplar II da correspondente declaração. A mesma instituição de crédito remeterá simultâneamente o exemplar III da declaração à autoridade cambial de exportação das notas e moedas. Mas quando as trocas de notas e moedas não respeitem à totalidade das importâncias constantes das declarações, deverão as instituições de crédito anotar nelas as utilizações parciais realizadas e proceder às correspondentes comunicações conforme antes se indicou para a remessa dos exemplares II e III das declarações.
 
-###### Art. 9.º - 1. A troca de notas com curso legal numa província ultramarina, exportadas dessa província em conformidade com o previsto no artigo 16.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), será obrigatòriamente efectuada no continente e ilhas adjacentes pelo banco emissor ultramarino que houver emitido as mesmas notas. Tratando-se de uma troca em província ultramarina diferente daquela em que as notas tiverem curso legal, o banco emissor dessa província procederá obrigatòriamente à troca das mesmas notas.
+Art. 9.º - 1. A troca de notas com curso legal numa província ultramarina, exportadas dessa província em conformidade com o previsto no artigo 16.º do [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), será obrigatòriamente efectuada no continente e ilhas adjacentes pelo banco emissor ultramarino que houver emitido as mesmas notas. Tratando-se de uma troca em província ultramarina diferente daquela em que as notas tiverem curso legal, o banco emissor dessa província procederá obrigatòriamente à troca das mesmas notas.
 
 2. Ao efectuarem as operações de troca referidas no número precedente, os bancos emissores actuarão por conta dos fundos cambiais das províncias donde as notas houverem sido exportadas, pelo que a importância das operações que os mesmos bancos realizem deverão ser-lhes creditadas na moeda contra a qual as notas forem trocadas.
 
 3. Pelas operações de troca que efectuem nos termos do presente artigo, os bancos emissores poderão cobrar dos que as solicitem, além do prémio de transferência que seja devido, a importância dos encargos em que incorrerem para retorno das notas à província donde elas foram exportadas.
 
-###### Art. 10.º São aditados os seguintes artigos ao [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), que constituirão a secção IV do capítulo II do mesmo diploma, sob a designação de «Dos prémios e comissões de transferência e cobrança»:
+Art. 10.º São aditados os seguintes artigos ao [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), que constituirão a secção IV do capítulo II do mesmo diploma, sob a designação de «Dos prémios e comissões de transferência e cobrança»:
 
-###### Art. 31.º-A. As instituições de crédito mencionadas no artigo 2.º do presente decreto-lei poderão cobrar prémios de transferência sobre o valor da liquidação das operações de pagamentos interterritoriais que efectuarem e ressarcir-se dos encargos em que efectivamente incorrerem com a execução daquelas operações.
+Art. 31.º-A. As instituições de crédito mencionadas no artigo 2.º do presente decreto-lei poderão cobrar prémios de transferência sobre o valor da liquidação das operações de pagamentos interterritoriais que efectuarem e ressarcir-se dos encargos em que efectivamente incorrerem com a execução daquelas operações.
 
 § 1.º A simples abertura de contas em nome de residentes em outro território nacional não dará lugar à cobrança de qualquer prémio ou comissão.
 
 § 2.º Os prémios de transferência mencionados no presente artigo não poderão ultrapassar 0,6 por cento das respectivas importâncias. Este limite será reduzido a metade sempre que as operações de pagamentos interterritoriais provenham de operações em moeda estrangeira.
 
-###### Art. 31.º-B. Nas cobranças por conta de outrem, de letras e outros títulos, entre diferentes territórios nacionais, as instituições de crédito que as efectuarem poderão haver para si prémios de cobrança e, bem assim, ressarcir-se dos encargos em que efectivamente incorrerem com a execução dessas operações.
+Art. 31.º-B. Nas cobranças por conta de outrem, de letras e outros títulos, entre diferentes territórios nacionais, as instituições de crédito que as efectuarem poderão haver para si prémios de cobrança e, bem assim, ressarcir-se dos encargos em que efectivamente incorrerem com a execução dessas operações.
 
 § 1.º Os prémios de cobrança a que se refere o presente artigo não poderão exceder 1,2 por cento das respectivas importâncias. Este limite será reduzido a metade no caso previsto na segunda parte do § 2.º do artigo anterior.
 
 § 2.º Os prémios de cobrança mencionados no presente artigo não serão acumuláveis com os prémios de transferência a que alude o artigo precedente.
 
-###### Art. 31.º-C. Independentemente dos prémios de transferência ou de cobrança a que se referem os artigos precedentes, e das comissões que forem devidas ao agente do sistema instituído pelo [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465), de 17 de Novembro de 1962, as instituições de crédito cobrarão sempre dos ordenadores das operações de pagamentos interterritoriais uma comissão a favor dos fundos cambiais das províncias ultramarinas a que as aludidas operações respeitem.
+Art. 31.º-C. Independentemente dos prémios de transferência ou de cobrança a que se referem os artigos precedentes, e das comissões que forem devidas ao agente do sistema instituído pelo [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465), de 17 de Novembro de 1962, as instituições de crédito cobrarão sempre dos ordenadores das operações de pagamentos interterritoriais uma comissão a favor dos fundos cambiais das províncias ultramarinas a que as aludidas operações respeitem.
 
 § único. A comissão mencionada no presente artigo será de 0,5 por cento sobre a importância total das operações de pagamentos interterritoriais ou dos valores a cobrar e deverá ser entregue para crédito do respectivo fundo cambial no próprio dia da sua cobrança ou no dia útil imediato. Quando a operação respeitar a duas províncias ultramarinas, a importância da comissão cobrada será dividida em partes iguais pelos fundos cambiais dessas províncias.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Outubro de 1969.**
+Promulgado em 1 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

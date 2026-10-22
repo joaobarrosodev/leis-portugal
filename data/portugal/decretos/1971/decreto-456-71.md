@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/456-1971-633730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edc70cc3275def4280fc0256b75656acaa5a91e525bcf07eed43b2da554f404e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce9f347c7e0709e858969d564155210cc67f15ea34287217de252a288e343a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:45Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. As vagas existentes nas diversas categorias dos quadros técnico-aduaneiros das províncias ultramarinas à data da publicação deste diploma, bem como as que se vierem a dar nos noventa dias subsequentes, serão preenchidas de acordo com listas ordenadas dos funcionários das categorias imediatamente inferiores, com base nas condições seguintes:
+Artigo 1.º - 1. As vagas existentes nas diversas categorias dos quadros técnico-aduaneiros das províncias ultramarinas à data da publicação deste diploma, bem como as que se vierem a dar nos noventa dias subsequentes, serão preenchidas de acordo com listas ordenadas dos funcionários das categorias imediatamente inferiores, com base nas condições seguintes:
 
 a) Informações de serviço dos últimos cinco anos;
 
@@ -106,18 +106,18 @@ c) Antiguidade na categoria.
 
 4. Nos casos em que haja listas ainda válidas de candidatos aprovados em concurso, a ordem dos provimentos será a definida por essas listas.
 
-###### Art. 2.º - 1. As vagas das categorias de ingresso dos restantes quadros aduaneiros existentes à data da publicação deste diploma serão preenchidas de acordo com a orientação do n.º 3 do artigo 1.º
+Art. 2.º - 1. As vagas das categorias de ingresso dos restantes quadros aduaneiros existentes à data da publicação deste diploma serão preenchidas de acordo com a orientação do n.º 3 do artigo 1.º
 
 2. As restantes vagas dos quadros referidos no n.º 1 deste artigo existentes à data da publicação deste diploma, bem como as que se derem nos noventa dias subsequentes, serão preenchidas com base nas regras dos n.os 1, 2 e 4 do artigo 1.º
 
-###### Art. 3.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro do Ultramar.
+Art. 3.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho do Ministro do Ultramar.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 19 de Outubro de 1971.**
+Promulgado em 19 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 44/1968, 1º Suplemento, Série I de 1968-02-21
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 279 - 280
   pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04401/02790280.pdf
 entry_into_force_dates: []
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48254-1968-143548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c16bf98737d402cda2190b4914a3facecc62994356df1eff1d716ef9a3cec4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f038e060258c906476a709bbe6c315975e4aa281383407ba59c0b96a74fa1ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Carreira Militar
+- Militar
+- Oficial Miliciano
 relationships:
 - type: amended_by
   target: pt:dre:527234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527234:por
+  label: "Tornado aplicável aos oficiais ingressados no quadro permanente nos termos do Decreto-Lei n.º 44184 o disposto no\
+    \ artigo 11.º e seu § único do presente diploma, pelo DEC LEI.48882.27.02.1969.MX, DG.IS [49] de 27.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48882-1969-527234
+  date: '1969-02-27'
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:24Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +117,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro do Exército autorizado a mandar admitir à Academia Militar, sempre que as circunstâncias o exijam, para futuro ingresso nos quadros permanentes das armas e serviços, os oficiais milicianos nas condições fixadas no presente diploma.
+Artigo 1.º Fica o Ministro do Exército autorizado a mandar admitir à Academia Militar, sempre que as circunstâncias o exijam, para futuro ingresso nos quadros permanentes das armas e serviços, os oficiais milicianos nas condições fixadas no presente diploma.
 
 § único. A especialização da arma ou serviço a que a admissão é autorizada e, bem assim, o número de lugares a preencher serão objecto de despacho do Ministro do Exército.
 
-###### Art. 2.º Para admissão aos cursos da Academia Militar, os oficiais milicianos devem satisfazer as seguintes condições:
+Art. 2.º Para admissão aos cursos da Academia Militar, os oficiais milicianos devem satisfazer as seguintes condições:
 
 a) Serem admitidos a um curso de promoção a capitão, seguido de um estágio a realizar, respectivamente, nas escolas práticas e centros de instrução de operações especiais;
 
@@ -109,7 +131,7 @@ c) Servirem no ultramar, após o estágio, pelo período mínimo de dois anos, n
 
 § único. Os capitães milicianos que se encontrem a prestar serviço no ultramar e que desejem concorrer ao quadro permanente ao abrigo deste decreto-lei continuam na situação em que se encontram, sendo dispensados do estágio referido.
 
-###### Art. 3.º São condições de admissão aos cursos ou estágios a que se refere a alínea a) do artigo 2.º:
+Art. 3.º São condições de admissão aos cursos ou estágios a que se refere a alínea a) do artigo 2.º:
 
 1.ª Ser capitão ou tenente miliciano em serviço ou na disponibilidade;
 
@@ -121,39 +143,39 @@ c) Servirem no ultramar, após o estágio, pelo período mínimo de dois anos, n
 
 § 2.º Em igualdade de circunstâncias, têm preferência os oficiais que já prestaram serviço no ultramar.
 
-###### Art. 4.º Os oficiais milicianos admitidos aos cursos ou estágios frequentá-los-ão na escola prática que for designada e no cento de instrução de operações especiais, sendo, findos estes, prestadas informações individuais, que, além de outros elementos, deverão indicar concretamente a sua capacidade para o exercício futuro da função de capitães do quadro permanente.
+Art. 4.º Os oficiais milicianos admitidos aos cursos ou estágios frequentá-los-ão na escola prática que for designada e no cento de instrução de operações especiais, sendo, findos estes, prestadas informações individuais, que, além de outros elementos, deverão indicar concretamente a sua capacidade para o exercício futuro da função de capitães do quadro permanente.
 
 § único. A organização dos cursos e estágios será objecto de despacho ministerial.
 
-###### Art. 5.º Findo o curso e estágio, os oficiais que obtiverem despacho ministerial favorável serão nomeados para servir no ultramar por imposição.
+Art. 5.º Findo o curso e estágio, os oficiais que obtiverem despacho ministerial favorável serão nomeados para servir no ultramar por imposição.
 
 § único. Na data do embarque os tenentes milicianos com três anos no posto são promovidos a capitães, os restantes são graduados neste posto, sendo promovidos, qualquer que seja a situação em que se encontrem, logo que completem três anos no posto de tenente.
 
-###### Art. 6.º Finda a comissão de serviço no ultramar, e com base nas informações prestadas pelos comandantes da região ou comando territorial independente respectivo, os serviços competentes proporão a decisão ministerial quais os oficiais que devem ser efectivamente admitidos à Academia Militar.
+Art. 6.º Finda a comissão de serviço no ultramar, e com base nas informações prestadas pelos comandantes da região ou comando territorial independente respectivo, os serviços competentes proporão a decisão ministerial quais os oficiais que devem ser efectivamente admitidos à Academia Militar.
 
-###### Art. 7.º O Ministro do Exército fixará, por despacho, a organização dos cursos da Academia Militar a frequentar pelos oficiais milicianos a que se refere o presente diploma.
+Art. 7.º O Ministro do Exército fixará, por despacho, a organização dos cursos da Academia Militar a frequentar pelos oficiais milicianos a que se refere o presente diploma.
 
-###### Art. 8.º A situação militar destes oficiais durante a frequência da Academia Militar é a estabelecida para os restantes oficiais alunos.
+Art. 8.º A situação militar destes oficiais durante a frequência da Academia Militar é a estabelecida para os restantes oficiais alunos.
 
-###### Art. 9.º Findo o curso na Academia Militar, os capitães milicianos ingressam no quadro permanente como alferes graduados em capitães, independentemente de vacatura, tendo aplicação a doutrina do § 2.º do artigo 11.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947. Constituirão cursos que se situarão na escala da respectiva arma à esquerda dos cursos de cadetes da Academia Militar promovidos para o tirocínio no mesmo ano e contarão a antiguidade da mesma data.
+Art. 9.º Findo o curso na Academia Militar, os capitães milicianos ingressam no quadro permanente como alferes graduados em capitães, independentemente de vacatura, tendo aplicação a doutrina do § 2.º do artigo 11.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947. Constituirão cursos que se situarão na escala da respectiva arma à esquerda dos cursos de cadetes da Academia Militar promovidos para o tirocínio no mesmo ano e contarão a antiguidade da mesma data.
 
 § único. A ordem de antiguidade no posto é definida de acordo com o princípio estabelecido no n.º 1.º do § 1.º do artigo 49.º do decreto-lei atrás referido.
 
-###### Art. 10.º Os oficiais milicianos a que se refere o presente diploma serão mandados passar à disponibilidade em qualquer altura, antes do ingresso no quadro permanente, quando tenham informações desfavoráveis ou falta de aproveitamento no curso da Academia Militar.
+Art. 10.º Os oficiais milicianos a que se refere o presente diploma serão mandados passar à disponibilidade em qualquer altura, antes do ingresso no quadro permanente, quando tenham informações desfavoráveis ou falta de aproveitamento no curso da Academia Militar.
 
-###### Art. 11.º Aos oficiais que vierem a ingressar no quadro permanente, nos termos das disposições do presente diploma, será contado, para efeitos de reforma, todo o tempo de serviço anteriormente prestado no quadro de complemento, que não seja serviço militar obrigatório, desde que a respectiva contagem seja solicitada no prazo de 180 dias, a contar da data de ingresso no referido quadro permanente.
+Art. 11.º Aos oficiais que vierem a ingressar no quadro permanente, nos termos das disposições do presente diploma, será contado, para efeitos de reforma, todo o tempo de serviço anteriormente prestado no quadro de complemento, que não seja serviço militar obrigatório, desde que a respectiva contagem seja solicitada no prazo de 180 dias, a contar da data de ingresso no referido quadro permanente.
 
 § único. Os oficiais ficarão sujeitos, relativamente ao tempo contado, ao pagamento da quota legal calculada sobre o vencimento que então auferirem, acrescida do juro a que se refere o artigo 12.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, podendo o débito apurado ser pago, sem acréscimo de novos juros, em prestações mensais, a descontar em folha no número máximo de 60.
 
-###### Art. 12.º Os encargos correspondentes ao presente diploma serão suportados:
+Art. 12.º Os encargos correspondentes ao presente diploma serão suportados:
 
 a) O regresso ao serviço, curso de promoção a capitão, o estágio e os períodos de serviço: por conta das disponibilidades das verbas do orçamento ordinário do Ministério do Exército destinadas a vencimentos e outros abonos de pessoal dos quadros aprovados por lei;
 
 b) O serviço no ultramar: pelos orçamentos da província interessada ou por conta da verba consignada em «Despesa extraordinária do Orçamento do Estado - Encargos Gerais da Nação - Forças militares extraordinárias no ultramar», consoante se trate de serviço prestado em comissão normal ou em reforço.
 
-###### Art. 13.º Os casos de dúvida que surjam na aplicação do presente diploma serão resolvidos por despacho do Ministro do Exército, salvos os relativos ao artigo 11.º e seu § único, que serão resolvidos por despacho do Ministro das Finanças sobre informação da administração da Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 13.º Os casos de dúvida que surjam na aplicação do presente diploma serão resolvidos por despacho do Ministro do Exército, salvos os relativos ao artigo 11.º e seu § único, que serão resolvidos por despacho do Ministro das Finanças sobre informação da administração da Caixa Geral de Depósitos, Crédito e Previdência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

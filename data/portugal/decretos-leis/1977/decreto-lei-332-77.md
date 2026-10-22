@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18400/19581964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 201d515716c5732a051be5d5b57e8e2b51dc7344043b619406a75a20ec75603d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c604001d168acd2008679ce8cd59d59b8cb81c3307b7b6bfb838211ad56192b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dragapor-dragagens de Portugal
+- Empresa Pública
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276621:por
+  label: "Alterados os arts. 4º e 10º pelo DEC LEI.550/77.31.12.1977.MTC, DR.IS [302] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-1977-276621
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:295092:por
+  label: Alterado o n.º 1 do art. 6.º dos Estatutos da Dragapor pelo(a) Decreto-Lei n.º 144/78 - Diário da República n.º 136/1978,
+    Série I de 1978-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1978-295092
+  date: '1978-06-16'
+- type: amended_by
+  target: pt:dre:326734:por
+  label: Prorrogada por seis meses a publicação dos estatutos do pessoal da Dragapor previsto no n.º 1 do art. 11.º pelo(a)
+    Decreto-Lei n.º 369/78 - Diário da República n.º 275/1978, Série I de 1978-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1978-326734
+  date: '1978-11-29'
+- type: amended_by
+  target: pt:dre:380355:por
+  label: Alterado o n.º 1 do art. 11.º pelo(a) Decreto-Lei n.º 203/79 - Diário da República n.º 150/1979, Série I de 1979-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1979-380355
+  date: '1979-07-02'
+- type: amended_by
+  target: pt:dre:366445:por
+  label: "Alterado o n.º 1 do art. 11.º (na redacção dos Decretos-Lei n.º 369/78, de 29 de Novembro e n.º 203/79, de 02 de\
+    \ Julho) do presente diploma, pelo DEC LEI.477/79.14.12.1979.MTC, DR.IS [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/477-1979-366445
+  date: '1979-12-14'
+- type: amended_by
+  target: pt:dre:474149:por
+  label: Aditado um n.º 4 ao art. 19.º do Estatuto de Dragagens de Portugal, E. P. pelo(a) Decreto-Lei n.º 148/80 - Diário
+    da República n.º 119/1980, Série I de 1980-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1980-474149
+  date: '1980-05-23'
+- type: amended_by
+  target: pt:dre:468671:por
+  label: Transformada em sociedade anónima de responsabilidade limitada, passando a designar-se DRAGAPOR - Dragagens de Portugal,
+    S. A. R. L., a empresa pública Dragagens de Portugal, E. P. - DRAGAPOR, E.P., criada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 243-A/86 - Diário da República n.º 190/1986, 1º Suplemento, Série I de 1986-08-20, que determinou que aquela conserve
+    todos os bens, direitos e obrigações, incluindo as posições contratuais, integrantes do activo e passivo desta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-a-1986-468671
+  date: '1986-08-20'
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329577:por
+  label: Revogado o n.º 3 do art, 10.º pelo(a) Decreto-Lei n.º 291/78 - Diário da República n.º 216/1978, Série I de 1978-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1978-329577
+  date: '1978-09-19'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:09Z'
   warnings: []
   errors: []
 ---
@@ -119,39 +189,39 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criada a empresa pública Dragagens de Portugal, E. P., abreviadamente Dragapor, a qual goza de personalidade jurídica e autonomia administrativa e financeira e é dotada de património próprio.
+Artigo 1.º - 1. É criada a empresa pública Dragagens de Portugal, E. P., abreviadamente Dragapor, a qual goza de personalidade jurídica e autonomia administrativa e financeira e é dotada de património próprio.
 
 2. O Ministro de tutela da Dragapor é o Ministro dos Transportes e Comunicações.
 
-###### Art. 2.º - 1. A Dragapor terá como objecto principal a exploração, em moldes empresariais, do serviço de dragagens dos fundos marítimos, fluviais e outros do continente e ilhas.
+Art. 2.º - 1. A Dragapor terá como objecto principal a exploração, em moldes empresariais, do serviço de dragagens dos fundos marítimos, fluviais e outros do continente e ilhas.
 
 2. Poderá ainda a empresa dedicar-se, acessoriamente, desde que de tal não resulte prejuízo à satisfação das necessidades do território nacional, à exportação de serviços relacionados com o seu objecto principal.
 
-###### Art. 3.º - 1. A Dragapor integrará os serviços afectos à actividade de dragagem da Direcção-Geral de Portos e da Administração-Geral do Porto de Lisboa e rege-se pela lei aplicável às empresas públicas e pelo estatuto anexo ao presente decreto-lei, que dele faz parte integrante.
+Art. 3.º - 1. A Dragapor integrará os serviços afectos à actividade de dragagem da Direcção-Geral de Portos e da Administração-Geral do Porto de Lisboa e rege-se pela lei aplicável às empresas públicas e pelo estatuto anexo ao presente decreto-lei, que dele faz parte integrante.
 
 2. As alteraçõe aos estatutos anexos serão introduzidas por decreto referendado, nos termos do n.º 3.º do artigo 4.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
-###### Art. 4.º - 1. A entrada em funcionamento da Dragapor, que exige estejam previamente asseguradas as condições mínimas de uma gestão eficiente, não deverá ultrapassar 1 de Janeiro de 1978.
+Art. 4.º - 1. A entrada em funcionamento da Dragapor, que exige estejam previamente asseguradas as condições mínimas de uma gestão eficiente, não deverá ultrapassar 1 de Janeiro de 1978.
 
 2. A entrada em funcionamento da Dragapor considera-se efectivada na data da tomada de posse dos membros do conselho de gerência da empresa.
 
-###### Art. 5.º Na dependência do Ministro dos Transportes e Comunicações funcionará a comissão de instalação da Dragapor, composta por quatro a seis membros, a nomear por despacho daquela entidade, nela se integrando, necessariamente, um elemento da Direcção-Geral de Portos.
+Art. 5.º Na dependência do Ministro dos Transportes e Comunicações funcionará a comissão de instalação da Dragapor, composta por quatro a seis membros, a nomear por despacho daquela entidade, nela se integrando, necessariamente, um elemento da Direcção-Geral de Portos.
 
-###### Art. 6.º A comissão de instalação terá por atribuições organizar os serviços constitutivos da empresa, de modo que esta esteja em condições de funcionamento até à data prevista no artigo 4.º
+Art. 6.º A comissão de instalação terá por atribuições organizar os serviços constitutivos da empresa, de modo que esta esteja em condições de funcionamento até à data prevista no artigo 4.º
 
-###### Art. 7.º A comissão instaladora terá competência para praticar todos os actos indispensáveis ao exercício das suas atribuições, podendo aquela competência ser regulamentada por despacho do Ministro dos Transportes e Comunicações e, quando for caso disso, por despacho conjunto deste e do Ministro das Finanças.
+Art. 7.º A comissão instaladora terá competência para praticar todos os actos indispensáveis ao exercício das suas atribuições, podendo aquela competência ser regulamentada por despacho do Ministro dos Transportes e Comunicações e, quando for caso disso, por despacho conjunto deste e do Ministro das Finanças.
 
-###### Art. 8.º Até à data de entrada em funcionamento da empresa, a Direcção-Geral de Portos e a Administração-Geral do Porto de Lisboa continuarão a assegurar todos os serviços de dragagem delas dependentes, devendo, contudo, adoptar, de acordo com o estado de adiantamento dos trabalhos da comissão de instalação, as providências necessárias para adaptar os serviços às atribuições que, nos termos do que vier a ser estabelecido, caberão à empresa.
+Art. 8.º Até à data de entrada em funcionamento da empresa, a Direcção-Geral de Portos e a Administração-Geral do Porto de Lisboa continuarão a assegurar todos os serviços de dragagem delas dependentes, devendo, contudo, adoptar, de acordo com o estado de adiantamento dos trabalhos da comissão de instalação, as providências necessárias para adaptar os serviços às atribuições que, nos termos do que vier a ser estabelecido, caberão à empresa.
 
-###### Art. 9.º Para efeitos do disposto no artigo anterior a comissão de instalação da empresa promoverá encontros periódicos com a Direcção-Geral de Portos e a Administração-Geral do Porto de Lisboa, para análise de situações e problemas comuns, decorrentes da constituição da empresa determinada pelo presente diploma.
+Art. 9.º Para efeitos do disposto no artigo anterior a comissão de instalação da empresa promoverá encontros periódicos com a Direcção-Geral de Portos e a Administração-Geral do Porto de Lisboa, para análise de situações e problemas comuns, decorrentes da constituição da empresa determinada pelo presente diploma.
 
-###### Art. 10.º - 1. A empresa receberá o pessoal da Direcção-Geral de Portos e da Administração-Geral do Porto de Lisboa que se encontra exclusivamente afecto à actividade de dragagem.
+Art. 10.º - 1. A empresa receberá o pessoal da Direcção-Geral de Portos e da Administração-Geral do Porto de Lisboa que se encontra exclusivamente afecto à actividade de dragagem.
 
 2. A distribuição do pessoal far-se-á de acordo com as suas qualidades profissionais, sem prejuízo da consideração das funções que venha exercendo.
 
 3. Será facultado ao pessoal administrativo afecto à actividade de dragagem, quer da Direcção-Geral de Portos quer da Administração-Geral do Porto de Lisboa, a recusa à integração na empresa, devendo porém esta ser manifestada por escrito, no prazo de sessenta dias a contar da publicação do presente diploma.
 
-###### Art. 11.º - 1. O estatuto do pessoal da Dragapor será publicado no prazo de seis meses, contado da entrada em funcionamento da empresa e orientar-se-á pelos seguintes princípios fundamentais:
+Art. 11.º - 1. O estatuto do pessoal da Dragapor será publicado no prazo de seis meses, contado da entrada em funcionamento da empresa e orientar-se-á pelos seguintes princípios fundamentais:
 
 a) A afectação do pessoal da Direcção-Geral de Portos e da Administração-Geral do Porto de Lisboa processar-se-á com respeito pelos direitos e legítimas expectativas daquele à data da entrada em funcionamento da empresa;
 
@@ -163,21 +233,21 @@ c) As condições de trabalho e de remuneração na empresa serão progressivame
 
 3. O pessoal da Dragapor ficará abrangido pelo regime jurídico do contrato individual de trabalho e pelas convenções colectivas que vierem a ser celebradas pela empresa.
 
-###### Art. 12.º Os Ministros dos Transportes e Comunicações e das Finanças ficam autorizados a atribuir, por despacho conjunto, o montante necessário ao suporte das despesas a efectuar pela comissão de instalação, bem como à realização parcial do capital estatutário da empresa pública.
+Art. 12.º Os Ministros dos Transportes e Comunicações e das Finanças ficam autorizados a atribuir, por despacho conjunto, o montante necessário ao suporte das despesas a efectuar pela comissão de instalação, bem como à realização parcial do capital estatutário da empresa pública.
 
-###### Art. 13.º A determinação do capital estatutário da empresa será efectuado nos termos do artigo 4.º do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
+Art. 13.º A determinação do capital estatutário da empresa será efectuado nos termos do artigo 4.º do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
-###### Art. 14.º Por despacho das entidades competentes serão transferidos para a empresa pública os valores activos e passivos, os direitos e as obrigações que constituem a universalidade de bens afectos à respectiva exploração, hoje na titularidade da Direcção-Geral de Portos e da Administração-Geral do Porto de Lisboa, sem dependência de qualquer formalidade, à excepção dos actos de registo que no caso couberem.
+Art. 14.º Por despacho das entidades competentes serão transferidos para a empresa pública os valores activos e passivos, os direitos e as obrigações que constituem a universalidade de bens afectos à respectiva exploração, hoje na titularidade da Direcção-Geral de Portos e da Administração-Geral do Porto de Lisboa, sem dependência de qualquer formalidade, à excepção dos actos de registo que no caso couberem.
 
-###### Art. 15.º O presente diploma entrará em vigor na data da sua publicação.
+Art. 15.º O presente diploma entrará em vigor na data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DE DRAGAGENS DE PORTUGAL, E. P.
 
@@ -507,4 +577,4 @@ d) Um representante da Administração dos Portos do Douro e Leixões.
 
 As dúvidas suscitadas na interpretação ou aplicação do presente estatuto serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

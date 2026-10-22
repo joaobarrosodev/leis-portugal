@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 1º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3446-(4) a 3446-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29901/00040016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-x-1979-157030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea62b0e42370e63a1f63598404a23f3e195a087dcdacea3d232a3665b07cc628
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21351feb25f6c42acc4622785e77acd5cf5c3597418ebef93b409bd51f5e458e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Almada
+- Aveiro
+- Barreiro
+- Beja
+- Braga
+- Bragança
+- Caldas da Rainha
+- Castelo Branco
+- Coimbra
+- Covilhã
+- Évora
+- Faro
+- Figueira da Foz
+- Funchal
+- Guarda
+- Guimarães
+- Lamego
+- Leiria
+- Lisboa
+- Magistrado Judicial
+- Matosinhos
+- Oliveira de Azeméis
+- Penafiel
+- Ponta Delgada
+- Portalegre
+- Portimão
+- Porto
+- Procurador da República
+- Quadro de Pessoal
+- Santarém
+- Santo Tirso
+- Setúbal
+- Sintra
+- Tomar
+- Tribunal de Comarca
+- Tribunal de Execução das Penas
+- Tribunal de Família
+- Tribunal de Instrução Criminal
+- Tribunal de Menores
+- Tribunal de Primeira Instancia
+- Tribunal do Trabalho
+- Tribunal Judicial
+- Vila da Feira
+- Vila Franca de Xira
+- VILA NOVA de GAIA
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509976:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:44Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +169,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os mapas VI e VII anexos ao [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro, são substituídos pelos seguintes:
+Artigo 1.º Os mapas VI e VII anexos ao [Decreto-Lei n.º 269/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1978-330063), de 1 de Setembro, são substituídos pelos seguintes:
 
 MAPA VI
 
@@ -2576,12 +2643,12 @@ Viseu: 4 (1 para o Tribunal do Trabalho; 1 magistrado comum a Sátão).
 
 Vouzela: 1 (magistrado comum a Oliveira de Frades).
 
-###### Art. 2.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo.
 
-**Promulgado em 28 de Dezembro de 1979.**
+Promulgado em 28 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16700/15901593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1979-381981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c27d3f5ac75af2924d75a89cc77ca6528c00ceb6c63f1b326fbec696946b024
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1021aadb7d3cf9a14148e0ba8500a9643e5d9d6ad2d2e09030312be8d2843fa3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fraude Comercial
+- Indústria de Ourivesaria e Relojoaria
+- Pedra Preciosa
 relationships:
 - type: amended_by
   target: pt:dre:616264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365879:por
+  label: "Alterada a redacção do art. 3º e restringida a aplicação do nº 2 daquela disposição, pelo DEC LEI.495/79.1979.12.21.MAI,\
+    \ DR.IS [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/495-1979-365879
+  date: '1979-12-21'
+- type: amended_by
+  target: pt:dre:439105:por
+  label: "Alterados o nº 3 do art. 2º e o art. 4º pelo DEC LEI.358/83.10.09.1983.MJ, DR.IS [209] de 10.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1983-439105
+  date: '1983-09-10'
+- type: cites
+  target: pt:dre:324533:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616264:por
+  label: "Revogado pelo DEC LEI.139/91.1991.04.10.MF, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1991-616264
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:16Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +122,13 @@ Por outro lado, e para uma maior segurança na aplicação daquele decreto-lei, 
 
 Nestes termos, ouvida a Comissão Nacional para a Indústria e Comércio de Diamantes, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro, considera-se diamante em bruto ou não lapidado todo o diamante que não tenha sido lapidado na sua forma definitiva.
+Artigo 1.º - 1 - Para efeitos do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro, considera-se diamante em bruto ou não lapidado todo o diamante que não tenha sido lapidado na sua forma definitiva.
 
 2 - Considera-se diamante lapidado em forma definitiva aquele que tem alguma das configurações correntemente utilizadas no comércio de joalharia e constantes dos desenhos anexos ao decreto-lei, ou que a elas possam ser equiparadas.
 
 3 - Considera-se legalmente autorizada a posse ou detenção de diamantes em bruto ou não lapidados destinados a usos ou fins industriais, sempre que os possuam ou detenham entidades legalmente habilitadas ao exercício da respectiva actividade industrial e desde que possa ser comprovada a sua adequação qualitativa e quantitativa aos requisitos daquela actividade.
 
-###### Art. 2.º - 1 - Os portadores de diamantes em bruto ou não lapidados poderão proceder à sua legalização no momento de entrada no País no respectivo posto alfandegário.
+Art. 2.º - 1 - Os portadores de diamantes em bruto ou não lapidados poderão proceder à sua legalização no momento de entrada no País no respectivo posto alfandegário.
 
 2 - Os diamantes legalizados nos termos deste artigo serão fechados num envelope lacrado e assinado pelo chefe do posto alfandegário e por quem tiver requerido a legalização, por forma que as assinaturas cubram todos os pontos de colagem do envelope, indicando-se na sua face o número de diamantes nele contidos, a pessoa que requereu a legalização e o número e data de emissão do respectivo passaporte.
 
@@ -115,17 +138,17 @@ Nestes termos, ouvida a Comissão Nacional para a Indústria e Comércio de Diam
 
 5 - Se quem tiver requerido a legalização dos diamantes nos termos deste artigo for de nacionalidade estrangeira, poderá escolher a moeda em que pretende que lhe seja efectuado o pagamento e poderá proceder à exportação do respectivo preço mediante a exibição de documento passado pela Direcção-Geral das Alfândegas comprovativo de que o dinheiro é proveniente da venda dos diamantes legalizados.
 
-###### Art. 3.º - 1 - Todos os diamantes em bruto ou não lapidados apreendidos em território português a detentores que não possam provar que se destinam à empresa legalmente autorizada ou a seus agentes devidamente credenciados são considerados perdidos a favor da Fazenda Nacional e vendidos nos termos do artigo 1.º do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro.
+Art. 3.º - 1 - Todos os diamantes em bruto ou não lapidados apreendidos em território português a detentores que não possam provar que se destinam à empresa legalmente autorizada ou a seus agentes devidamente credenciados são considerados perdidos a favor da Fazenda Nacional e vendidos nos termos do artigo 1.º do [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), de 9 de Dezembro.
 
 2 - Todos os diamantes em bruto ou não lapidados que sejam objecto de tentativa de passagem para o exterior do País, que não sejam acompanhados de guias de exportação passadas pela empresa referida no [Decreto-Lei n.º 387/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1978-324533), são considerados perdidos nas condições expressas no n.º 1 deste artigo.
 
-###### Art. 4.º - 1 - Todos os diamantes apreendidos devem ser vendidos nos termos do artigo 3.º no prazo de trinta dias a contar da data da apreensão.
+Art. 4.º - 1 - Todos os diamantes apreendidos devem ser vendidos nos termos do artigo 3.º no prazo de trinta dias a contar da data da apreensão.
 
 2 - Os diamantes que se encontrem apreendidos à data da publicação deste decreto-lei devem ser vendidos nos mesmos termos, no prazo de trinta dias a contar da data de entrada em vigor deste decreto-lei.
 
-###### Art. 5.º A Direcção-Geral das Alfândegas, a Guarda Fiscal e a Polícia Judiciária deverão tomar todas as medidas necessárias a um rigoroso controle do tráfico interno de diamantes em bruto, bem como da sua saída do País.
+Art. 5.º A Direcção-Geral das Alfândegas, a Guarda Fiscal e a Polícia Judiciária deverão tomar todas as medidas necessárias a um rigoroso controle do tráfico interno de diamantes em bruto, bem como da sua saída do País.
 
-###### Art. 6.º - 1 - O produto da venda dos diamantes perdidos a favor da Fazenda Nacional será distribuído da seguinte forma:
+Art. 6.º - 1 - O produto da venda dos diamantes perdidos a favor da Fazenda Nacional será distribuído da seguinte forma:
 
 a) 72,5% para a Fazenda Nacional;
 
@@ -139,10 +162,10 @@ d) 5% para os que comprovadamente tenham propiciado a apreensão.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - Eduardo Henriques da Silva Correia - Álvaro Roque de Pinho Bissaia Barreto - Abel Pinto Repolho Correia.
 
-**Promulgado em 2 de Julho de 1979.**
+Promulgado em 2 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES**
+O Presidente da República, ANTÓNIO RAMALHO EANES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/16700/15901593.pdf))](https://files.diariodarepublica.pt/1s/1979/07/16700/15901593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/16700/15901593.pdf)

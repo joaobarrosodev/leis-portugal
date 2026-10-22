@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49262-1969-214476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 725ef864aa48ef45a95835d2f3d8d3460f6f727c1a099f9956c458ecb1304c58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 801bab291a5ace37a66f9c31d1c4666ed511576cadd4dc2c292da863e1052a48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:23Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +114,9 @@ Nestes termos, tendo em vista, pelo que respeita ao ensino agrícola, o disposto
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A partir do ano lectivo de 1969-1970, deixam de efectuar-se matrículas do 1.º ano do ciclo preparatório nas escolas práticas de agricultura, passando o curso de agente rural a ser constituído pelo ciclo profissional e pelo tirocínio regulados pelo [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957.
+Artigo 1.º A partir do ano lectivo de 1969-1970, deixam de efectuar-se matrículas do 1.º ano do ciclo preparatório nas escolas práticas de agricultura, passando o curso de agente rural a ser constituído pelo ciclo profissional e pelo tirocínio regulados pelo [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957.
 
-###### Art. 2.º - 1. Podem apresentar-se ao exame de admissão, previsto na alínea c) do artigo 115.º do [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), os candidatos que tenham frequentado com aproveitamento a 6.ª classe do ensino primário.
+Art. 2.º - 1. Podem apresentar-se ao exame de admissão, previsto na alínea c) do artigo 115.º do [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), os candidatos que tenham frequentado com aproveitamento a 6.ª classe do ensino primário.
 
 2. Os requerimentos serão instruídos com os seguintes documentos:
 
@@ -116,7 +128,7 @@ c) Certidão da habilitação a que se refere o número anterior.
 
 3. O bilhete de identidade será restituído depois de conferida e de feita, à margem do requerimento, a anotação da conferência.
 
-###### Art. 3.º - 1. Aos alunos do curso de formação agrícola que pretendam prosseguir estudos é facultada a matrícula nas disciplinas de Português e Matemática dos cursos de formação industrial.
+Art. 3.º - 1. Aos alunos do curso de formação agrícola que pretendam prosseguir estudos é facultada a matrícula nas disciplinas de Português e Matemática dos cursos de formação industrial.
 
 2. Mediante autorização do Ministro da Educação Nacional, se o número de candidatos o justificar, pode ser ministrado nas escolas práticas de agricultura o ensino das disciplinas a que se refere o número anterior.
 
@@ -124,23 +136,23 @@ c) Certidão da habilitação a que se refere o número anterior.
 
 4. As propinas de frequência e exame a satisfazer pelos alunos do curso de agente rural que se matriculem nas disciplinas a que se refere o n.º 1 são, para cada uma delas, as fixadas na tabela n.º 3, anexa ao [Decreto-Lei n.º 41381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41381-1957-251611), para a frequência e exame de uma disciplina.
 
-###### Art. 4.º - 1. Os alunos aprovados na parte escolar do curso de agente rural e nos exames de Português e Matemática, a que se refere o artigo anterior, podem ser admitidos, nas secções preparatórias para os institutos industriais, à frequência das disciplinas de Português, Inglês, História, Geografia, Física e Química, Matemática e Desenho, constituindo-se com esses alunos, nas disciplinas de Física e Química, turmas especiais, a cujo ensino serão consagradas cinco horas por semana.
+Art. 4.º - 1. Os alunos aprovados na parte escolar do curso de agente rural e nos exames de Português e Matemática, a que se refere o artigo anterior, podem ser admitidos, nas secções preparatórias para os institutos industriais, à frequência das disciplinas de Português, Inglês, História, Geografia, Física e Química, Matemática e Desenho, constituindo-se com esses alunos, nas disciplinas de Física e Química, turmas especiais, a cujo ensino serão consagradas cinco horas por semana.
 
 2. Os alunos aprovados nas disciplinas referidas no número anterior podem ingressar nas escolas de regentes agrícolas, nos institutos industriais e, quanto às alunas, nos cursos de serviço social e de enfermagem em igualdade de condições com os candidatos habilitados com o curso geral dos liceus.
 
 3. Se o número de candidatos à frequência o justificar, o ensino das disciplinas a que se refere o n.º 1 pode, mediante autorização do Ministro da Educação Nacional, ser ministrado nas escolas práticas de agricultura.
 
-###### Art. 5.º - 1. Sempre que o número de alunas matriculadas no curso de agente rural o justifique, o seu ensino obedecerá ao plano de estudos especial a seguir indicado, constituindo-se para esse efeito turmas exclusivamente femininas:
+Art. 5.º - 1. Sempre que o número de alunas matriculadas no curso de agente rural o justifique, o seu ensino obedecerá ao plano de estudos especial a seguir indicado, constituindo-se para esse efeito turmas exclusivamente femininas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/22500/12991302.pdf))](https://files.diariodarepublica.pt/1s/1969/09/22500/12991302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/22500/12991302.pdf)
 
 2. Os programas das disciplinas destinadas exclusivamente às alunas são os que acompanham o presente diploma.
 
-###### Art. 6.º - 1. No plano de estudos da Escola Técnica de Alcobaça é incluído o curso de formação agrícola regulado pelo [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), cujo ensino será especialmente orientado para a fruticultura, sendo conferido aos alunos que o concluírem o diploma de agente rural - auxiliar técnico de fruticultura.
+Art. 6.º - 1. No plano de estudos da Escola Técnica de Alcobaça é incluído o curso de formação agrícola regulado pelo [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), cujo ensino será especialmente orientado para a fruticultura, sendo conferido aos alunos que o concluírem o diploma de agente rural - auxiliar técnico de fruticultura.
 
 2. A constituição do curso em disciplinas e trabalhos e o número de horas a destinar ao ensino, em cada ano, são os que constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/22500/12991302.pdf))](https://files.diariodarepublica.pt/1s/1969/09/22500/12991302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/22500/12991302.pdf)
 
 3. Os programas a observar nas diversas disciplinas são os aprovados pela [Portaria n.º 17197](https://diariodarepublica.pt/dr/detalhe/portaria/17197-1959-432599), de 1 de Junho de 1959, com as seguintes alterações:
 
@@ -148,13 +160,13 @@ a) Em Indústrias Agrícolas e em Escrita Agrícola os programas serão, respect
 
 b) Em Horticultura, Jardinagem e Fruticultura o ensino será intensificado e ampliado de acordo com o número de horas que lhes vão atribuídas.
 
-###### Art. 7.º As Escolas Industrias de Josefa de Óbidos, de D. Luísa de Gusmão e de Clara de Resende são convertidas em escolas industriais e comerciais e nelas passa a ser também ministrado o ensino do curso geral de comércio e da secção preparatória para os institutos comerciais.
+Art. 7.º As Escolas Industrias de Josefa de Óbidos, de D. Luísa de Gusmão e de Clara de Resende são convertidas em escolas industriais e comerciais e nelas passa a ser também ministrado o ensino do curso geral de comércio e da secção preparatória para os institutos comerciais.
 
 Marcello Caetano - João Augusto Dias Rosas - José Hermano Saraiva.
 
-**Promulgado em 12 de Setembro de 1969**
+Promulgado em 12 de Setembro de 1969
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Setembro de 1989. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 87/1975, 1º Suplemento, Série I de 1975-04-14
   number: '87'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 556-(2) a 556-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/08701/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-a-1975-269597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 453970d770debf652ae1e6f17428a3de1c3c63a2742de6f0fe5569b07ffaa3fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa0cfea63c79b4043270d244004284abb0985f955a411f6552e33b42f36fdae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Câmara Municipal
+- Definição de Competências
+- Junta de Freguesia
+- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:250831:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250831:por
+  label: "Revogado pelo DEC LEI.294/77.1977.07.20.MJ DR.IS [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1977-250831
+  date: '1977-07-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:45Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +134,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As ocupações de fogos devolutos levadas a efeito para fins habitacionais, antes da entrada em vigor deste diploma, em prédios pertencentes a entidades públicas ou privadas, serão imediatamente legalizadas através da celebração de contrato de arrendamento.
+Artigo 1.º - 1. As ocupações de fogos devolutos levadas a efeito para fins habitacionais, antes da entrada em vigor deste diploma, em prédios pertencentes a entidades públicas ou privadas, serão imediatamente legalizadas através da celebração de contrato de arrendamento.
 
 2. Para os efeitos do número anterior considerar-se-ão devolutos os fogos em relação aos quais, à data da ocupação:
 
@@ -134,7 +156,7 @@ b) Reverterão a favor da câmara municipal as rendas relativas ao período deco
 
 7. Nos casos em que o proprietário se encontre em falta ao cumprimento no disposto no artigo 19.º do [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), de 12 de Setembro, a renda será fixada por avaliação, mandada efectuar pela câmara municipal.
 
-###### Art. 2.º Exceptuam-se do disposto no artigo precedente:
+Art. 2.º Exceptuam-se do disposto no artigo precedente:
 
 a) Os fogos destinados a venda;
 
@@ -152,7 +174,7 @@ g) Os fogos para habitação construídos para categorias populacionais determin
 
 h) Os fogos propriedade de emigrantes ou estrangeiros, desde que não tenha sido cometida por estes qualquer infracção ao disposto no [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731).
 
-###### Art. 3.º - 1. As ocupações de prédios urbanos já levadas a efeito, não autorizadas pelos proprietários, destinadas a fins não habitacionais, só poderão subsistir se aquele estiver de acordo na celebração do contrato de arrendamento.
+Art. 3.º - 1. As ocupações de prédios urbanos já levadas a efeito, não autorizadas pelos proprietários, destinadas a fins não habitacionais, só poderão subsistir se aquele estiver de acordo na celebração do contrato de arrendamento.
 
 2. Porém, se tiverem um fim social e humanitário, reconhecido pelo Ministério da Administração Interna como necessário e eficaz, será obrigatória a outorga do respectivo contrato, com a renda que vier a ser fixada por avaliação nos termos legais.
 
@@ -160,13 +182,13 @@ h) Os fogos propriedade de emigrantes ou estrangeiros, desde que não tenha sido
 
 4. Exceptuam-se do disposto neste artigo os casos previstos nas alíneas a), b), c), d), f), g) e h) do artigo 2.º deste diploma.
 
-###### Art. 4.º - 1. O contrato de arrendamento celebrado nos termos deste diploma será regido pelas disposições da lei geral respeitantes ao arrendamento para habitação e incluirá sempre a cláusula de antecipação de um mês de renda.
+Art. 4.º - 1. O contrato de arrendamento celebrado nos termos deste diploma será regido pelas disposições da lei geral respeitantes ao arrendamento para habitação e incluirá sempre a cláusula de antecipação de um mês de renda.
 
 2. Os arrendamentos reportar-se-ão à data do início da ocupação, devendo os inquilinos pagar as rendas em atraso no prazo máximo de seis meses a partir da data da entrada em vigor deste diploma.
 
 3. As rendas serão pagas aos senhorios ou quem os represente, devendo ser depositadas na Caixa Geral de Depósitos no caso de haver recusa, ausência ou desconhecimento da sua identidade, retendo a câmara municipal o valor correspondente à antecipação da renda até que ocorra mora ou denúncia unilateral do arrendamento por parte do inquilino, constituindo a referida importância receita consignada da câmara.
 
-###### Art. 5.º - 1. No prazo de trinta dias contados da data de notificação que para esse fim lhes seja feita, deverão os respectivos ocupantes despejar:
+Art. 5.º - 1. No prazo de trinta dias contados da data de notificação que para esse fim lhes seja feita, deverão os respectivos ocupantes despejar:
 
 a) Os fogos que não devam considerar-se devolutos nos termos do n.º 2 do artigo 1.º;
 
@@ -182,9 +204,9 @@ c) Os prédios referidos no artigo 3.º e não legalizados no prazo de vinte dia
 
 5. Sempre que a recusa referida no número anterior for devida ao facto de os ocupantes estarem, comprovadamente, impossibilitados economicamente de pagar a renda que foi fixada nos termos do n.º 6 do artigo 1.º, terão a faculdade de subarrendar parcialmente o fogo ocupado, não podendo os ocupantes cobrar ao subarrendatário renda proporcionalmente superior à do contrato.
 
-###### Art. 6.º Não poderá ser recusado durante mais de 60 dias o arrendamento de qualquer fogo que tivesse sido destinado a habitação no último arrendamento ou que, não tendo sido nunca arrendado, se destine àquele fim, nos termos do respectivo projecto ou da licença de utilização a que se refere o artigo 8.º do Regulamento Geral das Edificações Urbanas, devendo entender-se alterada nesse sentido a redacção de todos os artigos do [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), de 12 de Setembro, que a tal prazo se reportem.
+Art. 6.º Não poderá ser recusado durante mais de 60 dias o arrendamento de qualquer fogo que tivesse sido destinado a habitação no último arrendamento ou que, não tendo sido nunca arrendado, se destine àquele fim, nos termos do respectivo projecto ou da licença de utilização a que se refere o artigo 8.º do Regulamento Geral das Edificações Urbanas, devendo entender-se alterada nesse sentido a redacção de todos os artigos do [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), de 12 de Setembro, que a tal prazo se reportem.
 
-###### Art. 7.º - 1. Sempre que, relativamente a qualquer fogo destinado a habitação e sujeito à disciplina do [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), de 12 de Setembro, o senhorio não tenha feito à competente câmara municipal a comunicação exigida pelo artigo 19.º do mesmo diploma, deverá aquele corpo administrativo, logo que tenha conhecimento da infracção, sem prejuízo do procedimento penal previsto na lei, promover o seu arrendamento nos termos dos números seguintes.
+Art. 7.º - 1. Sempre que, relativamente a qualquer fogo destinado a habitação e sujeito à disciplina do [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), de 12 de Setembro, o senhorio não tenha feito à competente câmara municipal a comunicação exigida pelo artigo 19.º do mesmo diploma, deverá aquele corpo administrativo, logo que tenha conhecimento da infracção, sem prejuízo do procedimento penal previsto na lei, promover o seu arrendamento nos termos dos números seguintes.
 
 2. Estão sujeitos ao regime do número anterior os fogos declarados vagos, mas não arrendados no prazo do artigo 6.º do presente diploma.
 
@@ -198,9 +220,9 @@ c) Os prédios referidos no artigo 3.º e não legalizados no prazo de vinte dia
 
 7. O processo de atribuição bem como a celebração dos contratos deverão estar terminados no prazo máximo de trinta dias a partir da data da inscrição oficiosa na lista a que se refere este artigo.
 
-###### Art. 8.º Será punido com pena de prisão até dois anos aquele que ocupar qualquer fogo destinado a habitação, assim como qualquer loja, armazém ou dependência de qualquer prédio, ainda que em construção.
+Art. 8.º Será punido com pena de prisão até dois anos aquele que ocupar qualquer fogo destinado a habitação, assim como qualquer loja, armazém ou dependência de qualquer prédio, ainda que em construção.
 
-###### Art. 9.º - 1. Os fogos nos quais se verifiquem depredações dolosamente praticadas pelos proprietários, ou por ordem destes, que prejudiquem a sua habitabilidade poderão ser objecto, conforme a gravidade e a extensão dos danos produzidos:
+Art. 9.º - 1. Os fogos nos quais se verifiquem depredações dolosamente praticadas pelos proprietários, ou por ordem destes, que prejudiquem a sua habitabilidade poderão ser objecto, conforme a gravidade e a extensão dos danos produzidos:
 
 a) De expropriação, nos termos do artigo 1.º do [Decreto-Lei n.º 56/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1975-159761), de 13 de Fevereiro;
 
@@ -208,22 +230,22 @@ b) De arrendamento, nos termos do presente diploma, pela câmara municipal, depo
 
 2. As despesas feitas com a reparação prevista na alínea b) do número anterior serão cobradas pela câmara municipal; acrescidas de um juro de 11% ao ano, contado dia a dia, através da arrecadação das rendas correspondentes, até perfazer o montante despendido na execução das mesmas.
 
-###### Art. 10.º - 1. A câmara municipal, findo o prazo de validade das licenças para obras de reparação e reconstrução de fogos devolutos, ordenará, nos dez dias subsequentes, a respectiva vistoria.
+Art. 10.º - 1. A câmara municipal, findo o prazo de validade das licenças para obras de reparação e reconstrução de fogos devolutos, ordenará, nos dez dias subsequentes, a respectiva vistoria.
 
 2. Verificado pela vistoria que as obras não foram iniciadas ou não estão concluídas, por facto imputável ao senhorio, a câmara municipal poderá substituir-se a este na sua execução.
 
 3. Nos casos do número anterior, as despesas efectuadas pela câmara municipal serão cobradas pela forma indicada no n.º 2 do artigo precedente.
 
-###### Art. 11.º - 1. Nas acções de despejo relativas a imóveis destinados a habitação fundadas em falta de pagamento de renda e que se encontram pendentes, o utente poderá evitar o despejo desde que, no prazo de trinta dias a contar da data da entrada em vigor do presente diploma, proceda ao pagamento ou depósito da totalidade das rendas em dívida.
+Art. 11.º - 1. Nas acções de despejo relativas a imóveis destinados a habitação fundadas em falta de pagamento de renda e que se encontram pendentes, o utente poderá evitar o despejo desde que, no prazo de trinta dias a contar da data da entrada em vigor do presente diploma, proceda ao pagamento ou depósito da totalidade das rendas em dívida.
 
 2. Para o efeito do disposto no número anterior, ficarão suspensas, durante o prazo no mesmo estabelecido, as acções de despejo que nele se referem.
 
-###### Art. 12.º O presente diploma entra imediatamente em vigor.
+Art. 12.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos M. Arnão Metelo - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 14 de Abril de 1975.**
+Promulgado em 14 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

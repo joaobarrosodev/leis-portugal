@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16500/15621565.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1976-430620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a050c8ac0db3b265d0c03aa8c9842bb4d26349310fa196bcb194912d5eac5052
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c6d8b5c4a37ea179eabb4e7583e87cc2dccf55725218d41561c82e272e646ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque Natural da Serra da Estrela
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:641461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:694208:por
+  label: "Revogado pelo DR.50/97.1997.11.20.MAM, DR.IS-B [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-1997-694208
+  date: '1997-11-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:57Z'
   warnings: []
   errors: []
 ---
@@ -110,13 +125,13 @@ Considerando ainda os resultados dos reconhecimentos e estudos a que a Secretari
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Criação do Parque Natural da Serra da Estrela)
 
 Nos termos da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, é criado o Parque Natural da Serra da Estrela.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Delimitação da área)
 
@@ -164,7 +179,7 @@ u) Ao longo da estrada nacional n.º 232 até à vila de Gouveia, onde se inicio
 
 2. Os limites do Parque descritos no número anterior vão demarcados no mapa anexo ao presente decreto e que dele faz parte integrante.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Prazo)
 
@@ -176,13 +191,13 @@ u) Ao longo da estrada nacional n.º 232 até à vila de Gouveia, onde se inicio
 
 4. Os projectos de que sejam objecto as zonas que vierem a ser definidas como reservadas para recreio deverão prever a integração na paisagem, a resolução dos problemas de estabilização biofísica por processos integráveis com base na vegetação clímax ou tradicional, a valorização e protecção dos elementos físicos naturais e a valorização estética e ambiental.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Administração)
 
 Até à entrada em vigor da portaria que regulamentará a orgânica e o funcionamento do Parque, este será administrado por uma comissão instaladora, a que presidirá um representante do Serviço Nacional de Parques, Reservas e Património Paisagístico, a designar pelo Secretário de Estado do Ambiente, de que farão parte um representante do Ministério da Agricultura e Pescas, um do Ministério das Obras Públicas, um do Ministério da Habitação e Urbanismo, representantes dos municípios interessados, das juntas de freguesia locais e da Direcção-Geral do Turismo e representantes dos utentes dos baldios.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Contravenções)
 
@@ -202,7 +217,7 @@ f) O exercício da caça e da pesca, enquanto não for regulamentado pelas entid
 
 g) O depósito de materiais ou qualquer outra alteração de relevo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Multas)
 
@@ -220,7 +235,7 @@ d) Com a multa de 500$00 a 5000$00, as alíneas e) e f).
 
 3. Se o infractor se recusar a demolir as obras ou trabalhos efectuados para que for intimado, a comissão instaladora ou, de futuro, a direcção do Parque mandará proceder à demolição, apresentando a relação das despesas para cobrança ao infractor, recorrendo aos tribunais sempre que necessário.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Fiscalização)
 
@@ -228,7 +243,7 @@ d) Com a multa de 500$00 a 5000$00, as alíneas e) e f).
 
 2. Os autos de notícia por infracção ao disposto no presente decreto serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal, sem prejuízo de outras disposições legais aplicáveis.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Iniciativas sujeitas a autorização superior)
 
@@ -252,19 +267,19 @@ h) A caça e a pesca na área do Parque, quando existam regulamentos superiormen
 
 2. A autorização a que se refere o número anterior não dispensa quaisquer outros condicionamentos legalmente exigidos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. É aplicável às obras e trabalhos efectuados com inobservância do preceituado no número anterior o disposto no artigo 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730).
 
 2. São nulas e de nenhum efeito as licenças municipais ou outras concedidas com violação do regime instituído neste decreto.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Sinalização)
 
 Serão aprovados por portaria do Secretário de Estado do Ambiente os sinais indicativos de proibição, permissões e de condicionamento previstos neste decreto para os quais não existam já modelos legalmente estabelecidos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Despesas)
 
@@ -272,12 +287,12 @@ As despesas emergentes da execução do presente diploma serão suportadas pelas
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Álvaro Augusto Veiga de Oliveira - Eduardo Ribeiro Pereira.
 
-**Promulgado em 30 de Junho de 1976.**
+Promulgado em 30 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/16500/15621565.pdf))](https://files.diariodarepublica.pt/1s/1976/07/16500/15621565.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/16500/15621565.pdf)
 
-**O Primeiro-Ministro Interino, Vasco Fernando Leote de Almeida e Costa.**
+O Primeiro-Ministro Interino, Vasco Fernando Leote de Almeida e Costa.

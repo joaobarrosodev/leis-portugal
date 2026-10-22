@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1970-141252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc491e33f588aa1ca37f9dce0531d822cdb0954669e96925afdb698e659438f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 668676a51b8741bade9e2577d91f78497510dd5fd226b4372b7d315be95c28c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- AGA
+- Fundo de Compensação
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:408349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408349:por
+  label: "Determinado que seja cometido à AGA, na parte que se refere ao Grémio dos Amazenistas de Mercearia, a execução do\
+    \ disposto no § 4.º do art. 10.º do Dec Lei 47338 de 24-Nov de 1966, na redacção do presente diploma, pelo DEC LEI.7/74.1974.01.12.MF\
+    \ DG.IS [10], que substituiu o Estatuto anexo àquele diploma. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1974-408349
+  date: '1974-01-12'
+- type: cites
+  target: pt:dre:477363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629455:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:28Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +128,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 8.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363), de 24 de Novembro de 1966, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 8.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363), de 24 de Novembro de 1966, passa a ter a seguinte redacção:
 
-###### Art. 8.º É fixado em 3$70 o preço C. I. F. Tejo ou Leixões do quilograma das ramas amarelas com o grau polarimétrico mínimo de 97,5º, remetidas pelas empresas produtoras ultramarinas.
+Art. 8.º É fixado em 3$70 o preço C. I. F. Tejo ou Leixões do quilograma das ramas amarelas com o grau polarimétrico mínimo de 97,5º, remetidas pelas empresas produtoras ultramarinas.
 
-###### Art. 2.º Ao artigo 10.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363) são acrescentados os §§ 3.º e 4.º, com a seguinte redacção:
+Art. 2.º Ao artigo 10.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363) são acrescentados os §§ 3.º e 4.º, com a seguinte redacção:
 
 § 3.º Os agravamentos a que se refere o § 1.º deste artigo são cobrados pelas alfândegas, com dedução das importâncias correspondentes às seguintes percentagens, calculadas sobre o preço C. I. F. das ramas, por cada grau completo, sendo as fracções de grau calculadas proporcionalmente:
 
@@ -123,13 +146,13 @@ Abaixo de 94,5º, dedução de mais um diferencial de 4 por cento.
 
 § 4.º O despacho de ramas, sobre as quais incidiram agravamentos, só poderá ser liquidado em face da apresentação na alfândega do duplicado da guia comprovativa do depósito das importâncias correspondentes às mencionadas percentagens na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Fundo de Abastecimento, o qual promoverá a sua entrega, por intermédio do Grémio dos Armazenistas de Mercearia, às refinarias às quais tiverem sido distribuídas essas ramas.
 
-###### Art. 3.º É revogado o disposto no § 3.º do artigo 5.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363).
+Art. 3.º É revogado o disposto no § 3.º do artigo 5.º do [Decreto-Lei n.º 47337](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363).
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 16 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.
 
 Presidência da República, 28 de Julho de 1970. - MARCELLO CAETANO.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/24100/12231238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1974-471966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5af2985473de4d97ad1c7ad88a334749154c124ef15a606a48c307592f1a52b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5536377358da72ca1948dcc1d90cf252edcf4e978f2c244cae13c5fef0c4ff8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Público
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Geral de Minas e Serviços Geológicos
+- Licenciamento
+- Petróleo
+- Prospecção de Petróleo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470447:por
+  label: "Alterados os n.ºs 2 e 3 (aditado) do art. 11.º e a al. a) do n.º 2 do art. 92.º, pelo DEC LEI.266/80.1980.08.07.MIE\
+    \ DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-1980-470447
+  date: '1980-08-07'
+- type: amended_by
+  target: pt:dre:385986:por
+  label: "Aditado um n.º 3 ao art. 10.º, pelo DEC LEI.234/84.1984.07.12.PCM DR.IS [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1984-385986
+  date: '1984-07-12'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Alterado pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: cites
+  target: pt:dre:391661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418975:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:151535:por
+  label: "Revogado o art. 12.º e dada nova redacção a al. b) do n.º 1 do art. 10.º, pelo DEC LEI.174/85.1985.05.21.MIE DR.IS\
+    \ [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-1985-151535
+  date: '1985-05-21'
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.1990.05.02.MIE DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
   article_count: 0
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:51Z'
   warnings: []
   errors: []
 ---
@@ -1031,8 +1082,8 @@ c) A indemnização de quaisquer prejuízos causados ao Estado ou a terceiros po
 
 Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Setembro de 1974.**
+Promulgado em 30 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1976-506048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6bee2849ae347ee5783db9552d513535a776564bafb15c9b705ff974b73d1f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f19af20b81dbf8a2d761dc00ad9e17c663fe60811e7e5532655b249af1c8b041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Obras Públicas
+- Ordenamento do Território
+- Política de Solos
+- Rede de Estradas
+relationships:
+- type: cites
+  target: pt:dre:473332:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:53Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +95,7 @@ de 17 de Janeiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É constituída uma reserva de terrenos que garanta a possibilidade de construção dos seguintes lanços das auto-estradas:
+Artigo 1.º - 1. É constituída uma reserva de terrenos que garanta a possibilidade de construção dos seguintes lanços das auto-estradas:
 
 1.1. Auto-Estrada do Sul, lanço Fogueteiro-Setúbal.
 
@@ -98,18 +107,18 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 3. A largura da faixa a reservar será de 400 m, 200 m para cada lado da directriz que consta dos esboços corográficos anexos. Na zona correspondente aos nós a área a reservar, de forma circular, terá um diâmetro de 1300 m.
 
-###### Art. 2.º Logo que o projecto se encontre aprovado, as áreas referidas em 2 e 3 do artigo 1.º deste decreto-lei serão reduzidas para os limites correspondentes à área non aedificandi de acordo com as larguras previstas na [Portaria n.º 620/74](https://diariodarepublica.pt/dr/detalhe/portaria/620-1974-473332), de 27 de Setembro.
+Art. 2.º Logo que o projecto se encontre aprovado, as áreas referidas em 2 e 3 do artigo 1.º deste decreto-lei serão reduzidas para os limites correspondentes à área non aedificandi de acordo com as larguras previstas na [Portaria n.º 620/74](https://diariodarepublica.pt/dr/detalhe/portaria/620-1974-473332), de 27 de Setembro.
 
-###### Art. 3.º Os proprietário dos terrenos que constituem a reserva ficam interditos de fazer quaisquer obras ou construções ou plantações de espécies arbóreas ou arbustivas com carácter de permanência, até à aprovação do respectivo projecto, momento a partir do qual se passará a aplicar o disposto na [Portaria n.º 620/74](https://diariodarepublica.pt/dr/detalhe/portaria/620-1974-473332).
+Art. 3.º Os proprietário dos terrenos que constituem a reserva ficam interditos de fazer quaisquer obras ou construções ou plantações de espécies arbóreas ou arbustivas com carácter de permanência, até à aprovação do respectivo projecto, momento a partir do qual se passará a aplicar o disposto na [Portaria n.º 620/74](https://diariodarepublica.pt/dr/detalhe/portaria/620-1974-473332).
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 11 de Dezembro de 1975.**
+Promulgado em 11 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/01400/00800084.pdf))](https://files.diariodarepublica.pt/1s/1976/01/01400/00800084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01400/00800084.pdf)
 
-**O Ministro do Equipamento Social, Álvaro Augusto Veiga de Oliveira.**
+O Ministro do Equipamento Social, Álvaro Augusto Veiga de Oliveira.

@@ -49,36 +49,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1971-631672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89f6ee4562d9435a769222b2314bfbe1f68466d4002f3412ffdcb8d41414fccb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73b4dcfc27f1da94ee1f9137b729fa61411fa3e7a07e40b2fea28bedb22a132b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Médico
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
+- Estágio de Formação
+- Gestão Financeira
+- Hospitais da Universidade de Coimbra
+- Hospital de Santa Maria
+- Hospital de São João
+- Licenciatura
+- Lourenço Marques
+- Luanda
+- Médico
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:527451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:59Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +118,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O grau de licenciado em Medicina será conferido àqueles que, tendo obtido aprovação em todas as disciplinas do actual curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas, efectuem, com aproveitamento, um ano de prática clínica em hospitais escolares, sob a directa responsabilidade das respectivas Faculdades.
+Artigo 1.º O grau de licenciado em Medicina será conferido àqueles que, tendo obtido aprovação em todas as disciplinas do actual curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas, efectuem, com aproveitamento, um ano de prática clínica em hospitais escolares, sob a directa responsabilidade das respectivas Faculdades.
 
-###### Art. 2.º Esta prática clínica, de carácter transitório, manter-se-á durante um período de três anos, após a publicação da reforma do ensino médico, findos os quais todos os alunos ficarão integrados nos novos planos de estudo.
+Art. 2.º Esta prática clínica, de carácter transitório, manter-se-á durante um período de três anos, após a publicação da reforma do ensino médico, findos os quais todos os alunos ficarão integrados nos novos planos de estudo.
 
-###### Art. 3.º - 1. O ano de prática a que se refere o artigo 1.º será remunerado nas mesmas condições do antigo 1.º ano de internato geral, para o que os hospitais escolares inscreverão nos seus orçamentos verba apropriada.
+Art. 3.º - 1. O ano de prática a que se refere o artigo 1.º será remunerado nas mesmas condições do antigo 1.º ano de internato geral, para o que os hospitais escolares inscreverão nos seus orçamentos verba apropriada.
 
 2. Esta inscrição para os Hospitais de Santa Maria, de S. João e da Universidade de Coimbra será feita por força das verbas do III Plano de Fomento destinadas a formação de pessoal do Ministério da Saúde e Assistência.
 
@@ -111,17 +132,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Depois da vigência do Plano de Fomento as despesas serão suportadas por verba própria a inscrever no orçamento destinado àqueles hospitais universitários.
 
-###### Art. 4.º A admissão à prática clínica será assegurada, mediante requerimento, aos alunos que obtiverem aprovação em todas as disciplinas do actual curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas.
+Art. 4.º A admissão à prática clínica será assegurada, mediante requerimento, aos alunos que obtiverem aprovação em todas as disciplinas do actual curso médico-cirúrgico das Faculdades de Medicina das Universidades portuguesas.
 
-###### Art. 5.º Ficam revogados os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
+Art. 5.º Ficam revogados os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Novembro de 1971.**
+Promulgado em 11 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.
 

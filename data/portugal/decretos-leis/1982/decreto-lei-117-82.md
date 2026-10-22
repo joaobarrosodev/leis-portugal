@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08900/09070908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1982-607525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b6558cd2fddeca9a4b149b7aae910e89b1580be67c9aaf68596ec68d34c264d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed98292332e6d896eb6c2c5a9a8ad5282ded358abff09207f64e9189771d450f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Pessoal Docente
+- Trabalho a Tempo Parcial
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:147838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665150:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:44Z'
   warnings: []
   errors: []
 ---
@@ -98,23 +135,23 @@ Considerando que o [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/deta
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para suprir as causas e impedimentos de professores catedráticos ou adjuntos civis que não possam ser preenchidos pela acumulação de regência de outros professores da Academia Militar, poderá o CEME contratar, por convite, sem abertura de concurso prévio, mediante proposta do comandante da Academia Militar:
+Artigo 1.º Para suprir as causas e impedimentos de professores catedráticos ou adjuntos civis que não possam ser preenchidos pela acumulação de regência de outros professores da Academia Militar, poderá o CEME contratar, por convite, sem abertura de concurso prévio, mediante proposta do comandante da Academia Militar:
 
 a) Docentes de uma escola universitária;
 
 b) Individualidades civis de reconhecida competência científica, pedagógica ou profissional.
 
-###### Art. 2.º Os contratos a que se refere o número anterior são sempre feitos por conveniência urgente de serviço público, conferindo aos contratados o direito às correspondentes remunerações desde o dia em que entrarem em exercício efectivo de funções.
+Art. 2.º Os contratos a que se refere o número anterior são sempre feitos por conveniência urgente de serviço público, conferindo aos contratados o direito às correspondentes remunerações desde o dia em que entrarem em exercício efectivo de funções.
 
-###### Art. 3.º Os docentes contratados nos termos das alíneas a) e b) do artigo 1.º do presente decreto-lei terão direito a uma remuneração compreendida entre 20% e 60% dos vencimentos fixados no artigo 23.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959 (para os professores civis que não acumulem as suas funções na Academia Militar com outras funções públicas estranhas à mesma), em correspondência com o número de horas de serviço docente a prestar semanalmente e que será fixado entre um mínimo de 8 e um máximo de 22, incluindo aulas, sua preparação e apoio aos alunos, limites a que corresponderão efectivamente 2 e 6 horas de serviço de aulas.
+Art. 3.º Os docentes contratados nos termos das alíneas a) e b) do artigo 1.º do presente decreto-lei terão direito a uma remuneração compreendida entre 20% e 60% dos vencimentos fixados no artigo 23.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959 (para os professores civis que não acumulem as suas funções na Academia Militar com outras funções públicas estranhas à mesma), em correspondência com o número de horas de serviço docente a prestar semanalmente e que será fixado entre um mínimo de 8 e um máximo de 22, incluindo aulas, sua preparação e apoio aos alunos, limites a que corresponderão efectivamente 2 e 6 horas de serviço de aulas.
 
-###### Art. 4.º - 1 - Os docentes contratados ao abrigo do presente diploma poderão, por necessidade e conveniência do ensino e quando não seja possível o recurso ao disposto do artigo 27.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, acumular as funções de professor catedrático com as de adjunto e destas com aquelas, consoante tenham sido contratados, respectivamente, nas categorias de professor catedrático ou de adjunto, bem como acumular com o ensino de outras cadeiras afins.
+Art. 4.º - 1 - Os docentes contratados ao abrigo do presente diploma poderão, por necessidade e conveniência do ensino e quando não seja possível o recurso ao disposto do artigo 27.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, acumular as funções de professor catedrático com as de adjunto e destas com aquelas, consoante tenham sido contratados, respectivamente, nas categorias de professor catedrático ou de adjunto, bem como acumular com o ensino de outras cadeiras afins.
 
 2 - O regime de acumulação previsto no número anterior apenas será mantido enquanto subsistir o motivo que lhe deu origem, conferindo direito ao abono de gratificação de regência prevista no artigo 24.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 300/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1971-642732), de 14 de Julho, nas condições expressas no corpo do mesmo artigo e seu § único.
 
-###### Art. 5.º Consideram-se legalizadas as remunerações auferidas por docentes que exerceram funções em acumulação em anos lectivos anteriores e cujos provimentos não chegaram a efectuar-se.
+Art. 5.º Consideram-se legalizadas as remunerações auferidas por docentes que exerceram funções em acumulação em anos lectivos anteriores e cujos provimentos não chegaram a efectuar-se.
 
-###### Art. 6.º Os contratos do pessoal docente previstos no presente diploma apenas podem ser rescindidos nos casos seguintes:
+Art. 6.º Os contratos do pessoal docente previstos no presente diploma apenas podem ser rescindidos nos casos seguintes:
 
 a) Denúncia por qualquer das partes, até 30 dias antes do termo do respectivo prazo;
 
@@ -124,16 +161,16 @@ c) Mútuo acordo, a todo o tempo;
 
 d) Por decisão final proferida na sequência de processo disciplinar.
 
-###### Art. 7.º As dúvidas e os casos omissos resultantes da aplicação deste diploma serão resolvidos por despacho do Chefe do Estado-Maior do Exército.
+Art. 7.º As dúvidas e os casos omissos resultantes da aplicação deste diploma serão resolvidos por despacho do Chefe do Estado-Maior do Exército.
 
-###### Art. 8.º Os encargos resultantes da aplicação do presente diploma serão suportados por conta de dotações atribuídas a pessoal civil no orçamento do Estado-Maior do Exército.
+Art. 8.º Os encargos resultantes da aplicação do presente diploma serão suportados por conta de dotações atribuídas a pessoal civil no orçamento do Estado-Maior do Exército.
 
-###### Art. 9.º O presente decreto-lei produz efeitos em relação a todos os contratos celebrados relativamente aos anos lectivos de 1980-1981 e seguintes.
+Art. 9.º O presente decreto-lei produz efeitos em relação a todos os contratos celebrados relativamente aos anos lectivos de 1980-1981 e seguintes.
 
 Visto e aprovado em Conselho da Revolução em 20 de Janeiro de 1982.
 
-**Promulgado em 3 de Março de 1982.**
+Promulgado em 3 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

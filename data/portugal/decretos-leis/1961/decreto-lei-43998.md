@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/10/24900/13471348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43998-1961-182867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d07de79826949badbd5954220acf329c5fc0f65fb52101b4c1e849971fbd2000
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e6fee1ad18a5e3531e34ab83b957367b23b562ec6ca24866167eafadc699ab7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Agricultura
+- Gestão Administrativa
+- Gestão Financeira
+- Quadro de Pessoal
+- Secretário de Estado da Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:199622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:199622:por
+  label: "Extinto o Conselho Supeerior de Agricultura, criado pelo Dec Lei 41473 de 23-Dez de 1957, reorganizado pelo presente\
+    \ diploma, pelo DEC LEI.49122.15.07.1969.MECO, DG.IS [164] de 15.07.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49122-1969-199622
+  date: '1969-07-15'
+- type: cites
+  target: pt:dre:251185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:46Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +118,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Conselho Superior de Agricultura é presidido pelo Secretário de Estado da Agricultura, funcionará junto do seu Gabinete e tem como vice-presidente o secretário-geral do Ministério da Economia.
+Artigo 1.º O Conselho Superior de Agricultura é presidido pelo Secretário de Estado da Agricultura, funcionará junto do seu Gabinete e tem como vice-presidente o secretário-geral do Ministério da Economia.
 
-###### Art. 2.º O director-geral do Ensino Técnico Profissional e o director do Instituto Nacional de Estatística farão parte do Conselho Superior de Agricultura, como vogais permanentes.
+Art. 2.º O director-geral do Ensino Técnico Profissional e o director do Instituto Nacional de Estatística farão parte do Conselho Superior de Agricultura, como vogais permanentes.
 
 § único. Os vogais referidos no corpo deste artigo, bem como os indicados nas alíneas c), d) e e) do artigo 57.º do [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), de 23 de Dezembro de 1957, poderão fazer-se representar pelos seus substitutos legais.
 
-###### Art. 3.º Para maior eficiência da sua acção, o Conselho Superior de Agricultura será dividido em secções, podendo estas ser subdivididas em subsecções.
+Art. 3.º Para maior eficiência da sua acção, o Conselho Superior de Agricultura será dividido em secções, podendo estas ser subdivididas em subsecções.
 
 § único. Os vogais do Conselho poderão fazer-se representar nas reuniões das secções ou subsecções de que façam parte por delegados especializados nos assuntos ali a tratar.
 
-###### Art. 4.º Os vogais permanentes do Conselho e os que eventualmente forem convocados terão direito pela comparência às sessões:
+Art. 4.º Os vogais permanentes do Conselho e os que eventualmente forem convocados terão direito pela comparência às sessões:
 
 a) Ao abono de senhas de presença, de valor a fixar pelo Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças;
 
 b) Ao pagamento, nas condições estabelecidas na legislação em vigor, dos transportes e das ajudas de custo correspondentes à letra F do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 5.º O serviço de expediente e arquivo do Conselho Superior de Agricultura será executado, sob a direcção do respectivo secretário, por uma secretaria, à qual fica afecto o seguinte pessoal:
+Art. 5.º O serviço de expediente e arquivo do Conselho Superior de Agricultura será executado, sob a direcção do respectivo secretário, por uma secretaria, à qual fica afecto o seguinte pessoal:
 
 1 segundo-oficial.
 
@@ -127,12 +146,12 @@ b) Ao pagamento, nas condições estabelecidas na legislação em vigor, dos tra
 
 § único. O pessoal a que se faz referência será destacado dos quadros das Direcções-Gerais dos Serviços Agrícolas, dos Serviços Florestais e Aquícolas e dos Serviços Pecuários e da Junta de Colonização Interna, continuando a perceber os seus vencimentos pelos quadros a que pertençam.
 
-###### Art. 6.º As alterações orçamentais que se tornem necessárias para a execução do presente diploma serão efectuadas por simples decreto referendado pelos Ministro das Finanças e Secretário de Estado da Agricultura.
+Art. 6.º As alterações orçamentais que se tornem necessárias para a execução do presente diploma serão efectuadas por simples decreto referendado pelos Ministro das Finanças e Secretário de Estado da Agricultura.
 
-###### Art. 7.º Fica revogado o artigo 58.º do [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), de 23 de Dezembro de 1957.
+Art. 7.º Fica revogado o artigo 58.º do [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), de 23 de Dezembro de 1957.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

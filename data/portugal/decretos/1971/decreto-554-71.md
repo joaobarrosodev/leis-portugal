@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/554-1971-632271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aba396cd2eee869f6ca4235924badcd4b0f47b22cc532d519c35ec9bbb20e6e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e680d062fd52564bcb8d0484f20745ac161f54dbf8f3f523e3955520a897875c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:27Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +89,11 @@ Encontra-se vago o lugar de Deputado à Assembleia Nacional pelo círculo da Gui
 
 Usando da faculdade que me confere o n.º 3.º do artigo 81.º da Constituição Política, hei por bem decretar o seguinte:
 
-###### Artigo 1.º É fixado o dia 16 de Janeiro de 1972 para a eleição suplementar do Deputado à Assembleia Nacional pelo círculo eleitoral da província ultramarina da Guiné.
+Artigo 1.º É fixado o dia 16 de Janeiro de 1972 para a eleição suplementar do Deputado à Assembleia Nacional pelo círculo eleitoral da província ultramarina da Guiné.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Dezembro de 1971. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - António Manuel Gonçalves Rapazote - Joaquim Moreira da Silva Cunha.
 

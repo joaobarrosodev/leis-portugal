@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 280/1976, 1º Suplemento, Série I de 1976-11-30
   number: '280'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2660-(1) a 2660-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/28001/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/836-a-1976-156823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 230585933fc4155e900e2290848481a1ef2260d7413ade4f84cc681f08ee6ee5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d8a1563063f56878cf544e539c5fe26971a400bfd704e2bc9dd14d436da1953
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Pauta Aduaneira
+- Sobretaxa de Importação
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:201865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:44Z'
   warnings: []
   errors: []
 ---
@@ -90,26 +106,26 @@ de 30 de Novembro
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na lista anexa ao [Decreto-Lei n.º 720-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-b-1976-201865), de 9 de Outubro, deverá ser eliminado:
+Artigo 1.º Na lista anexa ao [Decreto-Lei n.º 720-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-b-1976-201865), de 9 de Outubro, deverá ser eliminado:
 
 ### Capítulo 37.º:
 
 37.07 Outras fitas cinematográficas, impressionadas e reveladas, mudas ou que contenham simultaneamente o registo da imagem e do som, negativas ou positivas.
 
-###### Art. 2.º Na lista anexa ao [Decreto-Lei n.º 720-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-c-1976-201866), de 9 de Outubro, deverá ser eliminado:
+Art. 2.º Na lista anexa ao [Decreto-Lei n.º 720-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-c-1976-201866), de 9 de Outubro, deverá ser eliminado:
 
 ### Capítulo 37.º
 
 37.07 Outras fitas cinematográficas, impressionadas e reveladas, mudas ou que contenham simultaneamente o registo da imagem e do som, negativas ou positivas.
 
-###### Art. 3.º Os materiais, partes e peças separadas, classificados por artigos pautais que abranjam também produtos acabados, incluídos na lista anexa ao [Decreto-Lei n.º 720-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-c-1976-201866), de 9 de Outubro, ficam isentos da obrigatoriedade de depósito prévio, quando importados por industriais dos respectivos sectores e comprovadamente destinados aos seus fabricos.
+Art. 3.º Os materiais, partes e peças separadas, classificados por artigos pautais que abranjam também produtos acabados, incluídos na lista anexa ao [Decreto-Lei n.º 720-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-c-1976-201866), de 9 de Outubro, ficam isentos da obrigatoriedade de depósito prévio, quando importados por industriais dos respectivos sectores e comprovadamente destinados aos seus fabricos.
 
-###### Art. 4.º Este diploma produz efeitos a partir de 14 de Outubro de 1976.
+Art. 4.º Este diploma produz efeitos a partir de 14 de Outubro de 1976.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 24 de Novembro de 1976.**
+Promulgado em 24 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

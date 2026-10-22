@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7090c596251421e28cd281cfadfbf7175955e99a45d04111e3529d5536b7358b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b4ec35a27503e95a7eadc66dc2c7d6d5a19e8da1cb9b257d907c500917fe529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do Registo Civil
+- Concurso
+- Conservatória dos Registos Centrais
+- Direcção Geral dos Registos e do Notariado
+- Oficial dos Registos e do Notariado
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Registo Civil
+- Serviços de Registo e Notariado
+relationships:
+- type: cites
+  target: pt:dre:140169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685465:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:25Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +119,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 12.º, 66.º, 116.º, 117.º, 173.º, 229.º, 231.º, 262.º, 313.º, 324.º, 326.º, 327.º, 328.º e 329.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 47678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47678-1967-508385), de 5 de Maio de 1967, com as alterações introduzidas pelo [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), de 12 de Junho de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 12.º, 66.º, 116.º, 117.º, 173.º, 229.º, 231.º, 262.º, 313.º, 324.º, 326.º, 327.º, 328.º e 329.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 47678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47678-1967-508385), de 5 de Maio de 1967, com as alterações introduzidas pelo [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), de 12 de Junho de 1969, passam a ter a seguinte redacção:
 
 ###### Artigo 9.º — (Actos lavrados no ultramar)
 
@@ -284,26 +309,26 @@ Completada a instrução, o conservador deve proferir despacho fundamentado, qua
 
 Se o conservador concluir pela impossibilidade legal de sanar a irregularidade por via administrativa, mas a irregularidade for de natureza a dever ser oficiosamente promovida pelos serviços, deverá suscitar a competente acção ao Ministério Público, nos termos do n.º 2 do artigo 313.º, remetendo-lhe cópia do processo.
 
-###### Art. 2.º As alterações introduzidas pelo artigo 1.º do presente diploma aplicam-se aos processos pendentes.
+Art. 2.º As alterações introduzidas pelo artigo 1.º do presente diploma aplicam-se aos processos pendentes.
 
-###### Art. 3.º - 1. Sem prejuízo do disposto no n.º 1 do artigo 25.º do Código do Registo Civil, em cada conservatória do registo civil serão organizados, em volumes separados, índices, que podem ser plurianuais das transcrições dos actos de registo ultramarinos de nascimento, casamento, óbito e diversos.
+Art. 3.º - 1. Sem prejuízo do disposto no n.º 1 do artigo 25.º do Código do Registo Civil, em cada conservatória do registo civil serão organizados, em volumes separados, índices, que podem ser plurianuais das transcrições dos actos de registo ultramarinos de nascimento, casamento, óbito e diversos.
 
 2. Os índices em volumes separados podem ser substituídos pela organização de verbetes onomásticos auxiliares e remissivos dos índices correspondentes às diversas espécies de assentos ultramarinos.
 
-###### Art. 4.º O prazo fixado no n.º 1 do artigo 9.º do Código do Registo Civil poderá ser dispensado, ou alterada a espécie de certidão nele exigida, mediante simples despacho do Ministro da Justiça.
+Art. 4.º O prazo fixado no n.º 1 do artigo 9.º do Código do Registo Civil poderá ser dispensado, ou alterada a espécie de certidão nele exigida, mediante simples despacho do Ministro da Justiça.
 
-###### Art. 5.º O artigo 87.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169), de 8 de Julho, passa a ter a seguinte redacção:
+Art. 5.º O artigo 87.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169), de 8 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 87.º - 1. Aos concursos para provimento em lugares de chefe de secção da Conservatória dos Registos Centrais são admitidos os primeiros-ajudantes do respectivo quadro, com classificação de serviço não inferior a Bom e em que lhes seja expressamente reconhecida aptidão para exercer essas funções.
+Art. 87.º - 1. Aos concursos para provimento em lugares de chefe de secção da Conservatória dos Registos Centrais são admitidos os primeiros-ajudantes do respectivo quadro, com classificação de serviço não inferior a Bom e em que lhes seja expressamente reconhecida aptidão para exercer essas funções.
 
 2. Na falta de concorrentes que satisfaçam os requisitos a que se refere o número anterior, o lugar vago poderá ser substituído no quadro por um lugar de primeiro-ajudante e este preenchido, independentemente de novo concurso, por qualquer requerente que preencha os requisitos para provimento em lugares dessa categoria, sem prejuízo das preferências estabelecidas na lei; o Lugar posto a concurso será posteriormente provido pelo primeiro-ajudante do mesmo quadro que primeiro satisfaça às condições legais.
 
-###### Art. 6.º Ao provimento dos lugares de técnico do quadro da Direcção-Geral dos Registos e do Notariado é aplicável, com as necessárias adaptações, o disposto no artigo 2.º do [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), de 20 de Dezembro.
+Art. 6.º Ao provimento dos lugares de técnico do quadro da Direcção-Geral dos Registos e do Notariado é aplicável, com as necessárias adaptações, o disposto no artigo 2.º do [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), de 20 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha.
 
-**Promulgado em 29 de Agosto de 1974.**
+Promulgado em 29 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

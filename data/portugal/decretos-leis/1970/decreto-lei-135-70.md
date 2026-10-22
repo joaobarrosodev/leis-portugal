@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1970-229145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a115f0d8ab3f44ed1a079c1a3c3ec862499af6ff5498fc89ba2dcb55fa8f764
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bd14496f0e75afff7e221318eeb5f45d565b186afe395ecb32c83fb8cbf9fd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Solos
+- Câmara Municipal
+- Direcção Geral da Fazenda Pública
+- Faro
+- Secretaria de Estado do Tesouro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:50Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +94,7 @@ Considerando que o terreno em questão lhe tinha sido cedido por portaria de 18 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. - 1. É autorizada a Secretaria de Estado do Tesouro, pela Direcção-Geral da Fazenda Pública, a ceder, a título definitivo, à Câmara Municipal de Faro, a parcela de terreno designada por «Horta da Areia», situada na cidade de Faro, com exclusão da área ocupada pelo caminho de ferro, parcela que tem a área de 29192,78 m2 e vai assinalada na planta anexa a este diploma, que dele faz parte integrante.
+Artigo único. - 1. É autorizada a Secretaria de Estado do Tesouro, pela Direcção-Geral da Fazenda Pública, a ceder, a título definitivo, à Câmara Municipal de Faro, a parcela de terreno designada por «Horta da Areia», situada na cidade de Faro, com exclusão da área ocupada pelo caminho de ferro, parcela que tem a área de 29192,78 m2 e vai assinalada na planta anexa a este diploma, que dele faz parte integrante.
 
 2. Pela cessão, a Câmara pagará ao Estado a importância de 891007$00, a satisfazer em vinte semestralidades, acrescidas do juro de 5 por cento ao ano sobre as importâncias em dívida até ser completado o pagamento, e entregará ainda, com destino ao liceu feminino daquela cidade, o terreno com a área de 28000 m2, no valor de 700000$00, indicado na planta também anexa a este diploma e que dele faz parte integrante.
 
@@ -99,12 +104,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 5 de Março de 1970.**
+Promulgado em 5 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 1 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/07600/03790381.pdf))](https://files.diariodarepublica.pt/1s/1970/04/07600/03790381.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/07600/03790381.pdf)
 
 Ministério das Finanças, 5 de Março de 1970. - O Ministro das Finanças, João Augusto Dias Rosas.

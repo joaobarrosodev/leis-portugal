@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 150/1975, 3º Suplemento, Série I de 1975-07-02
   number: '150'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 920-(20) a 920-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/15003/00200022.pdf
 entry_into_force_dates: []
@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-b-1975-640363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f67f79a1dee3fe9f30b284f35eb1f20af6f55e3c6398f84114e46d74e34e704
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 514116151f421a92aac02079a26643382ec9417424ca33f0be8f90637a4859bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Portugal
+- Contrato
+- FMI
+relationships:
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:23Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +103,23 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1 do artigo 3.º da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o governador do Banco de Portugal, em representação do Estado Português no Fundo Monetário Internacional, a depositar neste o instrumento previsto pela secção 1 do artigo XXIII do Acordo relativo àquele Fundo, pelo qual se declare que o Estado Português assume todas as obrigações de participante na Conta de Saque Especial, em harmonia com a sua lei, e tomou todas as providências necessárias para poder cumprir essas obrigações.
+Artigo 1.º É autorizado o governador do Banco de Portugal, em representação do Estado Português no Fundo Monetário Internacional, a depositar neste o instrumento previsto pela secção 1 do artigo XXIII do Acordo relativo àquele Fundo, pelo qual se declare que o Estado Português assume todas as obrigações de participante na Conta de Saque Especial, em harmonia com a sua lei, e tomou todas as providências necessárias para poder cumprir essas obrigações.
 
-###### Art. 2.º O Banco de Portugal assegurará, para além das especificadas no [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, as relações com o Fundo Monetário Internacional respeitantes à participação autorizada pelo artigo 1.º, adquirindo, detendo e utilizando os direitos de saque especiais atribuídos ao Estado Português ou que a este caiba ou seja facultado adquirir e realizando todas as operações e transacções que a dita participação importar, em harmonia com o regime estabelecido nos artigos XXI e seguintes do Acordo relativo àquele Fundo e nos respectivos anexos, complementos e regulamentos.
+Art. 2.º O Banco de Portugal assegurará, para além das especificadas no [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, as relações com o Fundo Monetário Internacional respeitantes à participação autorizada pelo artigo 1.º, adquirindo, detendo e utilizando os direitos de saque especiais atribuídos ao Estado Português ou que a este caiba ou seja facultado adquirir e realizando todas as operações e transacções que a dita participação importar, em harmonia com o regime estabelecido nos artigos XXI e seguintes do Acordo relativo àquele Fundo e nos respectivos anexos, complementos e regulamentos.
 
-###### Art. 3.º Aos direitos de saque especiais e às operações e transacções de que forem objecto é conferida a isenção prevista na alínea b) do artigo XXVII do Acordo Relativo ao Fundo Monetário Internacional, no respeitante a quaisquer contribuições, impostos ou imposições de natureza análoga que sobre eles pudessem, de outro modo, incidir, em consequência de disposições legais portuguesas.
+Art. 3.º Aos direitos de saque especiais e às operações e transacções de que forem objecto é conferida a isenção prevista na alínea b) do artigo XXVII do Acordo Relativo ao Fundo Monetário Internacional, no respeitante a quaisquer contribuições, impostos ou imposições de natureza análoga que sobre eles pudessem, de outro modo, incidir, em consequência de disposições legais portuguesas.
 
-###### Art. 4.º É autorizado o Ministro das Finanças a celebrar um contrato com o Banco de Portugal nos termos das bases anexas ao presente diploma e que dele são parte integrante.
+Art. 4.º É autorizado o Ministro das Finanças a celebrar um contrato com o Banco de Portugal nos termos das bases anexas ao presente diploma e que dele são parte integrante.
 
-###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+Art. 5.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 1 de Julho de 1975.**
+Promulgado em 1 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 BASES DO CONTRATO ENTRE O ESTADO E O BANCO DE PORTUGAL
 
@@ -168,4 +175,4 @@ BASE VII
 
 4. Pertencem ao Estado os juros pela detenção de direitos de saque especiais contados depois da imputação prevista no n.º 2, incidindo também sobre ele as comissões e contribuições respeitantes a factos posteriores àquele momento.
 
-**O Ministro das Finanças, José Joaquim Fragoso.**
+O Ministro das Finanças, José Joaquim Fragoso.

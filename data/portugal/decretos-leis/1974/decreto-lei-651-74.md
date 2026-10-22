@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 272/1974, 1º Suplemento, Série I de 1974-11-22
   number: '272'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1440-(1) a 1440-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27201/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/651-1974-151689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75f866a0bf685bcdc1bdeba009052d475ad59f71b31202d3b351b9045bd2388f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ffc649148161d27e43ee99044037a8ff6cbbf9d275b777e6a72dcdbb70ae6da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Geral da Polícia de Segurança Pública
+- Criação de Serviços
+- Definição de Competências
+- Diretor
+- Orgânica
+- PSP
+- Quadro de Pessoal
+- Serviço de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:476517:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:416664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691070:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476517:por
+  label: "Revogado pelo DEC LEI.494-A/76.23.06.1976.MAI, DR.IS [145]2ºSupl de 23.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/494-a-1976-476517
+  date: '1976-06-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:00Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +121,9 @@ Tornando-se necessário assegurar o imediato e regular funcionamento dos serviç
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no Comando-Geral da Polícia de Segurança Pública, e na dependência directa do comandante-geral, a Direcção de Serviços de Estrangeiros (DSE), a qual terá a seu cargo as atribuições definidas no artigo 1.º do [Decreto-Lei n.º 215/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1974-623237), de 22 de Maio, e demais legislação aplicável.
+Artigo 1.º É criada no Comando-Geral da Polícia de Segurança Pública, e na dependência directa do comandante-geral, a Direcção de Serviços de Estrangeiros (DSE), a qual terá a seu cargo as atribuições definidas no artigo 1.º do [Decreto-Lei n.º 215/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1974-623237), de 22 de Maio, e demais legislação aplicável.
 
-###### Art. 2.º - 1. A DSE do Comando-Geral da Polícia de Segurança Pública terá como director, em comissão, um oficial superior do Exército, do activo ou da reserva.
+Art. 2.º - 1. A DSE do Comando-Geral da Polícia de Segurança Pública terá como director, em comissão, um oficial superior do Exército, do activo ou da reserva.
 
 2. Ao director de Serviços de Estrangeiros compete a orientação e fiscalização dos serviços e submeter a despacho do comandante-geral da Polícia de Segurança Pública os assuntos que careçam de decisão superior.
 
@@ -102,7 +131,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. O director de Serviços de Estrangeiros será substituído, nas suas faltas e impedimentos, por um dos oficiais em serviço no Comando-Geral da Polícia de Segurança Pública.
 
-###### Art. 3.º - 1. Para execução das funções atribuídas à Polícia de Segurança Pública pelo [Decreto-Lei n.º 215/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1974-623237), de 22 de Maio, o quadro geral da mesma corporação, a que se refere o artigo 55.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, considera-se aumentado do seguinte pessoal:
+Art. 3.º - 1. Para execução das funções atribuídas à Polícia de Segurança Pública pelo [Decreto-Lei n.º 215/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1974-623237), de 22 de Maio, o quadro geral da mesma corporação, a que se refere o artigo 55.º do [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, considera-se aumentado do seguinte pessoal:
 
 Oficiais do Exéricto:
 
@@ -144,27 +173,27 @@ Pessoal auxiliar:
 
 3. É da competência do comandante-geral da Polícia de Segurança Pública a distribuição do pessoal acima referido pela DSE e pelos diferentes comandos de polícia e suas divisões e secções.
 
-###### Art. 4.º - 1. No aumento de pessoal policial, a que se refere o artigo antecedente, está incluído o que se destina especialmente ao serviço de transmissões da Polícia de Segurança Pública, cuja rede rádio é ampliada por imperativo de contrôle de estrangeiros em todo o País.
+Art. 4.º - 1. No aumento de pessoal policial, a que se refere o artigo antecedente, está incluído o que se destina especialmente ao serviço de transmissões da Polícia de Segurança Pública, cuja rede rádio é ampliada por imperativo de contrôle de estrangeiros em todo o País.
 
 2. As gratificações a todo o pessoal do serviço de transmissões, pelo exercício de funções especializadas, serão fixadas por despacho conjunto dos Ministros da Administração Interna e das Finanças, consoante as respectivas categorias e funções a desempenhar, e continuarão a ser suportadas pelo Orçamento Geral do Estado.
 
-###### Art. 5.º (transitório) - 1. Aos primeiros concursos de provas práticas, após a publicação deste diploma, para cada uma das categorias de chefe de secção, primeiro-oficial e segundo-oficial, que terá lugar, entre, respectivamente, os primeiros, segundos e terceiros-oficiais do quadro geral da Polícia de Segurança Pública, poderão ser admitidos os funcionários da classe concorrente que tenham um ano de serviço efectivo na respectiva categoria, contado até ao termo do prazo de abertura do concurso, com boas informações morais e profissionais.
+Art. 5.º (transitório) - 1. Aos primeiros concursos de provas práticas, após a publicação deste diploma, para cada uma das categorias de chefe de secção, primeiro-oficial e segundo-oficial, que terá lugar, entre, respectivamente, os primeiros, segundos e terceiros-oficiais do quadro geral da Polícia de Segurança Pública, poderão ser admitidos os funcionários da classe concorrente que tenham um ano de serviço efectivo na respectiva categoria, contado até ao termo do prazo de abertura do concurso, com boas informações morais e profissionais.
 
 2. Ao concurso para primeiro-oficial só poderão candidatar-se os segundos-oficiais que possuam a habilitação mínima do curso geral dos liceus ou equiparada.
 
 3 (transitório). Aos primeiros concursos para primeiro-oficial e segundo-oficial serão admitidos, excepcionalmente e pela última vez, os funcionários que se encontravam impossibilitados de concorrer novamente, por motivo de reprovação ou exclusão em anteriores concursos.
 
-###### Art. 6.º - 1. Aos concursos de provas públicas para terceiro-oficial só poderão candidatar-se os indivíduos, de ambos os sexos, que tenham mais de 21 anos e menos de 35 anos de idade à data da nomeação, salvo sendo já funcionários do Estado.
+Art. 6.º - 1. Aos concursos de provas públicas para terceiro-oficial só poderão candidatar-se os indivíduos, de ambos os sexos, que tenham mais de 21 anos e menos de 35 anos de idade à data da nomeação, salvo sendo já funcionários do Estado.
 
 2 (transitório). Tendo em vista acelerar o provimento das vagas, ao primeiro concurso que for aberto para a categoria de terceiro-oficial, após a publicação do presente diploma, poderão candidatar-se os escriturários-dactilógrafos de 1.ª e 2.ª classes do quadro geral e do quadro especial da Polícia de Segurança Pública que possuam, pelo menos, a habilitação do ciclo preparatório ou equiparada e tenham já completado três anos de serviço efectivo como funcionários, com boas informações morais e profissionais.
 
 3 (transitório). Serão também admitidos ao mesmo concurso, excepcionalmente e pela última vez, os escriturários-dactilógrafos de 1.ª classe que estavam impossibilitados de concorrer, por motivo de reprovações ou exclusões em anteriores concursos, desde que tenham boas informações morais e profissionais.
 
-###### Art. 7.º Quando não haja candidatos em número suficiente para preenchimento total dos lugares de primeiro-oficial e segundo-oficial, o quadro de terceiros-oficiais considerar-se-á aumentado do correspondente número de vagas existentes nas referidas categorias.
+Art. 7.º Quando não haja candidatos em número suficiente para preenchimento total dos lugares de primeiro-oficial e segundo-oficial, o quadro de terceiros-oficiais considerar-se-á aumentado do correspondente número de vagas existentes nas referidas categorias.
 
-###### Art. 8.º (transitório). Ao primeiro concurso para escriturários-dactilógrafos de 1.ª classe, após a publicação do presente diploma, serão admitidos os escriturários-dactilógrafos de 2.ª classe de qualquer dos quadros geral e especial da Polícia de Segurança Pública que tenham, pelo menos, um ano de serviço efectivo na categoria e boas informações morais e profissionais.
+Art. 8.º (transitório). Ao primeiro concurso para escriturários-dactilógrafos de 1.ª classe, após a publicação do presente diploma, serão admitidos os escriturários-dactilógrafos de 2.ª classe de qualquer dos quadros geral e especial da Polícia de Segurança Pública que tenham, pelo menos, um ano de serviço efectivo na categoria e boas informações morais e profissionais.
 
-###### Art. 9.º (transitório) - 1. Para preenchimento das vagas de escriturário-dactilógrafo de 2.ª classe será aberto, excepcionalmente, concurso documental entre candidatos de ambos os sexos que tenham, pelo menos, a escolaridade obrigatória, consoante a idade do concorrente, e perfeito conhecimento de dactilografia, a comprovar por exame prévio nesse sentido.
+Art. 9.º (transitório) - 1. Para preenchimento das vagas de escriturário-dactilógrafo de 2.ª classe será aberto, excepcionalmente, concurso documental entre candidatos de ambos os sexos que tenham, pelo menos, a escolaridade obrigatória, consoante a idade do concorrente, e perfeito conhecimento de dactilografia, a comprovar por exame prévio nesse sentido.
 
 2. Na classificação documental dos candidatos ter-se-á em consideração, pela sua ordem, as seguintes preferências:
 
@@ -178,7 +207,7 @@ Ter prestado serviço militar, a começar pela maior graduação militar;
 
 Menos idade.
 
-###### Art. 10.º - 1. O produto das multas, emolumentos e outras taxas cobradas pela Direcção de Serviços de Estrangeiros da Polícia de Segurança Pública, nos termos do [Decreto-Lei n.º 368/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1972-691070), de 30 de Setembro, terão o seguinte destino:
+Art. 10.º - 1. O produto das multas, emolumentos e outras taxas cobradas pela Direcção de Serviços de Estrangeiros da Polícia de Segurança Pública, nos termos do [Decreto-Lei n.º 368/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1972-691070), de 30 de Setembro, terão o seguinte destino:
 
 a) 25% para o Estado;
 
@@ -190,42 +219,42 @@ c) 60% para o Fundo Privativo do Comando-Geral da Polícia de Segurança Públic
 
 3. O produto da venda de cartões e impressos próprios dos Serviços de Estrangeiros constituirá receita do Fundo Privativo do Comando-Geral da Polícia de Segurança Pública, incluindo o da taxa do boletim de alojamento referido na alínea e) do n.º 1 do artigo 95.º do [Decreto-Lei n.º 368/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1972-691070), de 30 de Setembro.
 
-###### Art. 11.º - 1. No Comando-Geral da Polícia de Segurança Pública, dotado de autonomia administrativa, será constituído um fundo privativo que se designará por «Fundo Privativo do Comando-Geral da Polícia de Segurança Pública».
+Art. 11.º - 1. No Comando-Geral da Polícia de Segurança Pública, dotado de autonomia administrativa, será constituído um fundo privativo que se designará por «Fundo Privativo do Comando-Geral da Polícia de Segurança Pública».
 
 2. Constituirá receita daquele Fundo as importâncias arrecadadas nos termos da alínea c) do n.º 1 e n.º 3 do artigo anterior, que serão inscritas em orçamento privativo.
 
 3. Do mesmo orçamento constará o desenvolvimento da despesa a realizar com a instalação e funcionamento dos serviços da Direcção de Serviços de Estrangeiros do Comando-Geral da Polícia de Segurança Pública, que obedecerá ao preceituado na legislação em vigor para os demais serviços do Estado.
 
-###### Art. 12.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento privativo.
+Art. 12.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento privativo.
 
 2. Quando se verifique a necessidade de introduzir alterações no orçamento já aprovado, deverão estas ser efectuadas através do orçamento suplementar, dentro dos limites estabelecidos na lei.
 
-###### Art. 13.º Os orçamentos privativos, quer ordinários, quer suplementares, serão aprovados pelo Ministro da Administração Interna e visados pelo Ministro das Finanças.
+Art. 13.º Os orçamentos privativos, quer ordinários, quer suplementares, serão aprovados pelo Ministro da Administração Interna e visados pelo Ministro das Finanças.
 
-###### Art. 14.º O Comando-Geral da Polícia de Segurança Pública organizará a conta de gerência do Fundo Privativo, que está sujeita ao julgamento do Tribunal de Contas.
+Art. 14.º O Comando-Geral da Polícia de Segurança Pública organizará a conta de gerência do Fundo Privativo, que está sujeita ao julgamento do Tribunal de Contas.
 
-###### Art. 15.º Por despacho conjunto dos Ministros da Administração Interna e das Finanças, sob proposta do comandante-geral da Polícia de Segurança Pública, poderão ser fixadas gratificações a satisfazer pelo Fundo Privativo ao pessoal da Polícia de Segurança Pública que tenha intervenção nestes serviços.
+Art. 15.º Por despacho conjunto dos Ministros da Administração Interna e das Finanças, sob proposta do comandante-geral da Polícia de Segurança Pública, poderão ser fixadas gratificações a satisfazer pelo Fundo Privativo ao pessoal da Polícia de Segurança Pública que tenha intervenção nestes serviços.
 
-###### Art. 16.º Quando as exigências do serviço ou circunstâncias extraordinárias obriguem à realização de horas extraordinárias, estas serão executadas por despacho do comandante-geral até ao limite legal e suportadas pelo Fundo Privativo.
+Art. 16.º Quando as exigências do serviço ou circunstâncias extraordinárias obriguem à realização de horas extraordinárias, estas serão executadas por despacho do comandante-geral até ao limite legal e suportadas pelo Fundo Privativo.
 
-###### Art. 17.º O saldo disponível existente no final do ano económico no Fundo Privativo do Comando-Geral da Polícia de Segurança Pública transitará para o ano seguinte e será incluído na previsão da receita do orçamento privativo daquele ano.
+Art. 17.º O saldo disponível existente no final do ano económico no Fundo Privativo do Comando-Geral da Polícia de Segurança Pública transitará para o ano seguinte e será incluído na previsão da receita do orçamento privativo daquele ano.
 
-###### Art. 18.º (transitório) - 1. As receitas arrecadadas pela Direcção de Serviços de Estrangeiros do Comando-Geral da Polícia de Segurança Pública até à data da entrada em vigor deste diploma reverterão, na sua totalidade, para o Fundo Privativo daquele Comando.
+Art. 18.º (transitório) - 1. As receitas arrecadadas pela Direcção de Serviços de Estrangeiros do Comando-Geral da Polícia de Segurança Pública até à data da entrada em vigor deste diploma reverterão, na sua totalidade, para o Fundo Privativo daquele Comando.
 
 2. As despesas realizadas com a instalação e funcionamento, incluindo as do pessoal em regime de tarefa, para assegurar a execução dos serviços a cargo da Direcção de Serviços de Estrangeiros do Comando-Geral da Polícia de Segurança Pública até ao preenchimento das vagas previstas no quadro aprovado por este diploma, serão suportadas pelo Fundo Privativo do referido Comando.
 
 3. As receitas e despesas referidas nos números anteriores serão incluídas no primeiro orçamento privativo e conta de gerência a organizar.
 
-###### Art. 19.º Pelo Ministério das Finanças serão abertos, a favor do Ministério da Administração Interna, os créditos necessários para satisfação, no corrente ano económico, dos encargos resultantes da execução do presente diploma.
+Art. 19.º Pelo Ministério das Finanças serão abertos, a favor do Ministério da Administração Interna, os créditos necessários para satisfação, no corrente ano económico, dos encargos resultantes da execução do presente diploma.
 
-###### Art. 20.º As dúvidas que suscitar a execução do presente diploma serão resolvidas por despacho do Ministro da Administração Interna.
+Art. 20.º As dúvidas que suscitar a execução do presente diploma serão resolvidas por despacho do Ministro da Administração Interna.
 
-###### Art. 21.º Este decreto-lei entra imediatamente em vigor.
+Art. 21.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
 
-**Promulgado em 19 de Novembro de 1974.**
+Promulgado em 19 de Novembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

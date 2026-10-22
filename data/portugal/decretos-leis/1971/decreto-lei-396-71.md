@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1971-632682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3629aa023381a89081c83afd0a9230ef8bc7405490fac0bf76b86750ad31f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d7b3b667814b24d48570ab671b429198b06146a9ccb9bb24170d78666f0871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia Nacional
+- Eleição Legislativa
+- Recenseamento Eleitoral
+relationships:
+- type: cites
+  target: pt:dre:158237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446896:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:57Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +100,7 @@ Havendo conveniência em simplificar o regime estabelecido nos artigos 14.º e 1
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Para efeitos de elaboração do recenseamento dos eleitores da Assembleia Nacional, serão remetidos às respectivas comissões recenseadoras, até ao último dia de Fevereiro:
+Artigo 1.º - 1. Para efeitos de elaboração do recenseamento dos eleitores da Assembleia Nacional, serão remetidos às respectivas comissões recenseadoras, até ao último dia de Fevereiro:
 
 a) Pelas repartições e serviços civis, militares ou militarizados do Estado, para o efeito designados pelos titulares dos respectivos departamentos ministeriais, e, bem assim, pelos serviços das autarquias locais, e dos organismos corporativos e de coordenação económica, verbetes individuais do pessoal a incluir no recenseamento, bem como daquele que deverá deixar de o ser, ou cujos elementos de identificação tenham sofrido alteração;
 
@@ -105,7 +116,7 @@ d) Pelos juízes de direito e auditores dos tribunais especiais, por intermédio
 
 4. O Ministro do Interior poderá estabelecer, por portaria, os modelos dos verbetes e das relações de que trata o presente artigo, bem como o seu uso obrigatório, e determinar que constituam exclusivo da Imprensa Nacional.
 
-###### Art. 2.º - 1. Até 1 de Maio, por edital publicado em dois jornais locais, se os houver, e afixado nos lugares do estilo, os chefes de secretaria das câmaras municipais e, em Lisboa e no Porto, os administradores dos bairros anunciarão que na secretaria da câmara ou na da administração de bairro, por espaço de dez dias, poderão ser obtidas informações relativas ao recenseamento dos eleitores da Assembleia Nacional.
+Art. 2.º - 1. Até 1 de Maio, por edital publicado em dois jornais locais, se os houver, e afixado nos lugares do estilo, os chefes de secretaria das câmaras municipais e, em Lisboa e no Porto, os administradores dos bairros anunciarão que na secretaria da câmara ou na da administração de bairro, por espaço de dez dias, poderão ser obtidas informações relativas ao recenseamento dos eleitores da Assembleia Nacional.
 
 2. Para efeito do número anterior, considera-se recenseamento o ficheiro dos eleitores que há-de servir de base à organização do livro a que se refere o artigo 22.º da citada [Lei n.º 2015](https://diariodarepublica.pt/dr/detalhe/lei/2015-1946-158237).
 
@@ -113,8 +124,8 @@ d) Pelos juízes de direito e auditores dos tribunais especiais, por intermédio
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1978, 4º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2798-(54) a 2798-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29904/00540056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1978-274059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 891fba5e45b6304844c32790857c89186e9b6fe9f6a80e0293af63fd925c01a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 898db5a899dde987772b264754394cdffbb82a32ef35ba14d06ba92714073ec4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alteração Orçamental
+- Orçamento Geral do Estado
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274055:por
+  label: "Mantidas em vigor na parte aplicável as disposições constantes do presente diploma pelo DEC LEI.444/78.30.12.1978.MFP,\
+    \ DR.IS [299-4º Supl] de 30.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/444-1978-274055
+  date: '1978-12-30'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:281788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332190:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:09Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +133,7 @@ Despesas orçamentais
 
 Classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29904/00540056.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29904/00540056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29904/00540056.pdf)
 
 QUADRO II
 
@@ -114,7 +141,7 @@ Despesas orçamentais
 
 Classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29904/00540056.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29904/00540056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29904/00540056.pdf)
 
 Entre os reforços de verbas agora introduzidos, apresentam-se como mais significativos os seguintes:
 
@@ -148,19 +175,19 @@ Em execução da Lei n.º 474/78, de 28 de Dezembro:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Execução das alterações ao Orçamento Geral do Estado)
 
 Pelo presente diploma são postas em execução as alterações ao Orçamento Geral do Estado para 1978, decorrentes das alíneas a) e b) do n.º 1 e n.º 3 do artigo 1.º da [Lei n.º 74/78](https://diariodarepublica.pt/dr/detalhe/lei/74-1978-281788), de 28 de Dezembro.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Publicações das alterações orçamentais)
 
 As alterações orçamentais referidas no artigo anterior serão publicadas no Diário da República, por simples declaração da Direcção-Geral da Contabilidade Pública.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Utilização das verbas alteradas)
 
@@ -172,13 +199,13 @@ a) O prazo para a prévia autorização das despesas pelas entidades competentes
 
 b) As folhas, requisições e outros documentos de levantamento de fundos dos cofres do Estado darão entrada nas delegações da Direcção-Geral da Contabilidade Pública, impreterivelmente até 7 de Janeiro de 1979.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Fundamento legal de despesas)
 
 O presente diploma constitui fundamento legal bastante de todas as despesas, não previstas em lei anterior, realizadas por conta das inscrições ou reforços de verbas provenientes das alterações orçamentais referidas no artigo 2.º deste decreto-lei.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Encargos com os Serviços Médico-Sociais)
 
@@ -186,13 +213,13 @@ O presente diploma constitui fundamento legal bastante de todas as despesas, nã
 
 2 - A aplicação do disposto no número anterior deverá ser formalizada através de despacho conjunto dos Ministros das Finanças e do Plano e dos Assuntos Sociais.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Vigência do [Decreto-Lei n.º 75-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1978-332190))
 
 Mantêm-se em vigor as disposições do [Decreto-Lei n.º 75-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1978-332190), de 26 de Abril, que não forem contrariadas pelo presente diploma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Efeitos deste decreto-lei)
 
@@ -200,8 +227,8 @@ O presente diploma produz efeitos a partir do dia 1 de Dezembro do ano corrente.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 29 de Dezembro de 1978.**
+Promulgado em 29 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

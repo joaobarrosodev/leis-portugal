@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 156/1987, 1º Suplemento, Série I de 1987-07-10
   number: '156'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2740-(2) a 2740-(115)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf
 entry_into_force_dates: []
@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/25-1987-663571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2701be34a6462be6b8915064c779f63b3562ebc6253f3cc8f257ffb0c23defa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0c977fd2642af84a38d0a24a8fd1d49a917650cdcc41646ae823898f8b85bd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Londres
+- Poluição Marinha
+- Poluição pelos Navios
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:168219:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566034:por
+  label: "Aprovadas, para adesão, as emendas de 1984 introduzidas ao anexo ao Protocolo da Convenção Internacional pelo DEC.48/90.07.11.1990.MNE,\
+    \ DR.IS [257] de 07.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48-1990-566034
+  date: '1990-11-07'
+- type: amended_by
+  target: pt:dre:485051:por
+  label: Aprovadas, para adesão, as emendas de 6 de Março de 1992 ao anexo I ao Protocolo de 1978 da Convenção Internacional
+    para a Prevenção da Poluição por Navios, 1973, pelo DEC.19/98.1998.07.10.MNE, DR.IS-A [157]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/19-1998-485051
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:485055:por
+  label: Aprovadas, para adesão, as emendas de 6 de Março de 1992 ao anexo I ao Protocolo de 1978 relativo à Convenção Internacional
+    para a Prevenção da Poluição por Navios, 1973 pelo DEC.20/98.1998.07.10.MNE, DR.IS-A [157]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/20-1998-485055
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:485059:por
+  label: Aprovadas, para adesão, as emendas de 1989 ao anexo II do Protocolo de 1978, relativo à Convenção Internacional para
+    a Prevenção da Poluição por Navios, 1973, pelo DEC.22/98.1998.07.10.MNE, DR.IS-A [157]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/22-1998-485059
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:485063:por
+  label: Aprovadas, para adesão, as emendas de 1991 ao anexo I do Protocolo de 1978, relativo à Convenção Internacional para
+    a Prevenção da Poluição por Navios,1973 pelo DEC.23/98.1998.07.10.MNE, DR.IS-A [157]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/23-1998-485063
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:426757:por
+  label: "Estendida ao Território de Macau a aplicação da Convenção aprovada para Adesão pelo presente diploma, pelo DEC.173/99.1999.08.05.PR\
+    \ DR.IS-A [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/173-1999-426757
+  date: '1999-08-05'
+- type: amended_by
+  target: pt:dre:168219:por
+  label: "Aprovadas as emendas de 01.04.2004 ao anexo IV ao Protocolo de 1978 da Convenção Internacional para a Prevenção\
+    \ da Poluição por Navios, 1973 (MARPOL 73/78), aprovado para adesão pelo presente diploma, pelo DEC.6/2006.06.01.2006.MOPTC,\
+    \ DR.IS-B [5] de 06.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/6-2006-168219
+  date: '2006-01-06'
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:11Z'
   warnings: []
   errors: []
 ---
@@ -91,21 +139,21 @@ de 10 de Julho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado para adesão o Protocolo de 1978 relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973, feito em Londres em 17 de Fevereiro de 1978. O texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo 1.º É aprovado para adesão o Protocolo de 1978 relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973, feito em Londres em 17 de Fevereiro de 1978. O texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
-###### Art. 2.º As disposições do presente Protocolo e da Convenção serão lidas e interpretadas em conjunto como um único instrumento. O texto original em inglês e a restante tradução para português seguem em anexo ao presente decreto.
+Art. 2.º As disposições do presente Protocolo e da Convenção serão lidas e interpretadas em conjunto como um único instrumento. O texto original em inglês e a restante tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1987. - Aníbal António Cavaco Silva - Leonardo Eugênio Ramos Ribeiro de Almeida - Pedro José Rodrigues Pires de Miranda - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 4 de Junho de 1987.**
+Assinado em 4 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Junho de 1987.**
+Referendado em 8 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENÇÃO INTERNACIONAL PARA A PREVENÇÃO DA POLUIÇÃO POR NAVIOS, 1973
 
@@ -401,25 +449,19 @@ Disposições respeitantes aos relatórios sobre incidentes envolvendo substânc
 
 (em conformidade com o artigo 8 da Convenção)
 
-ARTIGO I
-
-Obrigação de relatar
+###### ARTIGO I — Obrigação de relatar
 
 1 - O capitão de um navio envolvido num incidente mencionado no artigo III do presente protocolo, ou outra pessoa encarregada do navio, relatará os pormenores de tal incidente sem demora e da forma mais completa possível, em conformidade com as disposições deste protocolo.
 
 2 - Em caso de abandono do navio referido no parágrafo 1 do presente artigo, ou quando o relatório estiver incompleto ou for impossível de obter, o proprietário, afretador, armador ou operador do navio ou seus representantes assumem, na medida do possível, as obrigações do capitão, nos termos das disposições deste protocolo.
 
-ARTIGO II
-
-Métodos de relatar
+###### ARTIGO II — Métodos de relatar
 
 1 - Sempre que possível, o relatório será transmitido por rádio, mas em qualquer caso pelas vias mais rápidas disponíveis no momento. Aos relatórios transmitidos por rádio será dada a mais alta prioridade possível.
 
 2 - Os relatórios serão enviados ao funcionário ou agência apropriada, especificados no parágrafo 2, alínea a), do artigo 8 da Convenção.
 
-ARTIGO III
-
-Quando há lugar a relatórios
+###### ARTIGO III — Quando há lugar a relatórios
 
 O relatório será elaborado sempre que um incidente envolva:
 
@@ -435,9 +477,7 @@ c) Qualquer descarga de uma substância prejudicial com o propósito de combater
 
 d) A previsão de qualquer descarga como as referidas nas alíneas a), b) ou c) do presente artigo.
 
-ARTIGO IV
-
-Conteúdo do relatório
+###### ARTIGO IV — Conteúdo do relatório
 
 1 - O relatório incluirá, em geral:
 
@@ -465,9 +505,7 @@ d) Se possível, o nome do expedidor, do destinatário ou do fabricante.
 
 4 - O relatório será completado, quando necessário, com outras informações relevantes solicitadas por qualquer destinatário do mesmo ou desde que a entidade que o enviou o considere apropriado.
 
-ARTIGO V
-
-Relatório suplementar
+###### ARTIGO V — Relatório suplementar
 
 Qualquer pessoa obrigada nos termos do presente protocolo a enviar um relatório, quando possível:
 
@@ -481,21 +519,21 @@ Arbitragem
 
 (em conformidade com o artigo 10 da Convenção)
 
-ARTIGO I
+###### ARTIGO I
 
 Salvo acordo em contrário das Partes em conflito, o processo de arbitragem far-se-á de conformidade com as normas estabelecidas no presente Protocolo.
 
-ARTIGO II
+###### ARTIGO II
 
 1 - Será constituído um tribunal arbitral a pedido de uma Parte na Convenção dirigido a outra Parte em aplicação do artigo 10 da presente Convenção. O pedido de arbitragem consistirá de uma exposição do caso acompanhada dos documentos comprovativos.
 
 2 - A Parte requerente informará o secretário-geral da Organização do seu pedido para a constituição de um tribunal, dos nomes das Partes no conflito e dos artigos da Convenção ou das regras sobre as quais há, na sua opinião, desacordo quanto à sua interpretação ou aplicação. O secretário-geral transmitirá esta informação a todas as Partes.
 
-ARTIGO III
+###### ARTIGO III
 
 O tribunal será composto de três membros: um árbitro nomeado por cada Parte no conflito e um terceiro nomeado por acordo entre os dois primeiros, que será o presidente.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - Se, no termo de um período de 60 dias a contar da nomeação do segundo árbitro, o presidente do tribunal não tiver sido nomeado, o secretário-geral da Organização, a pedido de qualquer das Partes, procederá à sua nomeação num período adicional de 60 dias, seleccionando-o de uma lista de pessoas qualificadas, previamente elaborada pelo Conselho da Organização.
 
@@ -507,23 +545,23 @@ ARTIGO IV
 
 5 - Em caso de falecimento ou não comparência de um árbitro por cuja nomeação uma das Partes é responsável, essa Parte nomeará um substituto num período de 60 dias, a contar da data do falecimento ou não comparência. Se essa Parte não proceder à nomeação, a arbitragem prosseguirá com os restantes árbitros. No caso de falecimento ou não comparência do presidente do tribunal, será nomeado um substituto em conformidade com as disposições do artigo III ou, na ausência de acordo entre os membros do tribunal, num período de 60 dias a contar do falecimento ou não comparência, em conformidade com as disposições do presente artigo.
 
-ARTIGO V
+###### ARTIGO V
 
 O tribunal pode ouvir e decidir sobre os pedidos reconvencionais emergentes directamente do assunto em conflito.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Qualquer Parte será responsável pela remuneração do seu árbitro, pelos custos consequentes e pelos custos resultantes da preparação da sua própria causa. A remuneração do presidente do tribunal e todas as despesas gerais motivadas pela arbitragem serão suportadas igualmente pelas Partes. O tribunal manterá o registo de todas as suas despesas e fornecerá uma informação final das mesmas.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Qualquer Parte na Convenção que tenha um interesse de natureza jurídica e possa ser afectada pela decisão do tribunal pode associar-se ao processo de arbitragem com o consentimento do tribunal, depois de participar por escrito às Partes que tenham iniciado o processo.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Qualquer tribunal arbitral constituído nos termos das disposições do presente protocolo estabelecerá as suas normas de funcionamento.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - As decisões do tribunal, tanto em matéria de procedimento e de locais de reunião, como sobre qualquer outro assunto que lhe seja submetido, serão tomadas por maioria de votos dos seus membros; a ausência ou abstenção de um dos membros do tribunal por cuja nomeação as Partes foram responsáveis não constituirá impedimento para que o tribunal tome uma decisão. Em caso de igualdade, o voto do presidente é de qualidade.
 
@@ -535,7 +573,7 @@ b) Permitirão ao tribunal a entrada no seu território, para audição de teste
 
 3 - A ausência ou não comparência de uma Parte não constituirá impedimento no processo.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - O tribunal pronunciará a sentença no período de 5 meses a contar da data da sua constituição, a não ser que decida, em caso de necessidade, prorrogar este prazo por um período suplementar não superior a 3 meses. A sentença do tribunal será acompanhada de uma exposição explicando as razões que a determinaram, será final, sem recurso, e será comunicada ao secretário-geral da Organização. As Partes cumprirão imediatamente a sentença.
 
@@ -1013,11 +1051,11 @@ A fim de permitir a ligação entre os encanamentos das instalações de recepç
 
 Dimensões padrão das flanges das uniões de descarga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Regra 20
 
-# Livro de Registo de Hidrocarbonetos
+Livro de Registo de Hidrocarbonetos
 
 1 - Todos os navios petroleiros de arqueação bruta igual ou superior a 150 t e todos os navios de arqueação bruta igual ou superior a 400 t que não sejam navios petroleiros possuirão um Livro de Registo de Hidrocarbonetos, podendo ou não fazer parte do diário náutico, de acordo com o modelo especificado no apêndice III ao presente anexo.
 
@@ -1101,7 +1139,7 @@ iii) Dimensão vertical (v(índice c)): A partir da linha base para cima, sem li
 
 b) Avaria no fundo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 2 - Sempre que apareçam neste capítulo os símbolos indicados na presente regra têm o significado nela definido.
 
@@ -1113,11 +1151,11 @@ Derrames hipotéticos de hidrocarbonetos
 
 a) Avaria no costado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 b) Avaria no fundo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Sempre que apareçam no presente capítulo os símbolos indicados neste parágrafo, têm o significado definido nesta regra.
 
@@ -1137,7 +1175,7 @@ Os encanamentos que servem os poços de aspiração, quando instalados dentro do
 
 4 - Quando uma avaria no fundo afectar simultaneamente quatro tanques centrais, o valor O(índice s) pode ser calculado de acordo com a fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 5 - A administração pode aceitar, como meio para reduzir o derrame de hidrocarbonetos no caso de avaria no fundo, a existência, em cada tanque de carga, de um sistema de trasfega de carga com grande poder de aspiração em emergência, capaz de trasfegar de um ou vários tanques danificados para tanques de lastro segregado ou para outros tanques de carga que estejam disponíveis, sempre que se possa assegurar que estes últimos têm suficiente capacidade residual. Este sistema só será aceitável se tiver capacidade para trasfegar, em 2 horas, uma quantidade de hidrocarbonetos igual a metade da capacidade do maior dos tanques danificados e se os tanques de lastro ou de carga tiverem uma capacidade equivalente de recepção. A aceitação de tal sistema limita-se a permitir o cálculo de O(índice s) por meio da fórmula (III). Os encanamentos para essas aspirações serão instalados a uma altura pelo menos igual à dimensão vertical da avaria no fundo v(índice s). A administração enviará à Organização as informações sobre os sistemas que tenha aceite, para divulgação pelas outras Partes na Convenção.
 
@@ -1155,7 +1193,7 @@ i) Entrega efectuada depois de 1 de Janeiro de 1977; e
 
 ii) Contrato de construção celebrado depois de 1 de Janeiro de 1974 ou, no caso de não ter sido previamente celebrado um contrato de construção, a quilha tenha sido assente ou se o navio petroleiro se encontrava numa fase equivalente de construção depois de 30 de Junho de 1974.
 
-2 - As dimensões e disposição dos tanques de carga dos navios petroleiros serão tais que os derrames hipotéticos O(índice c) ou O(índice s), calculados de acordo com a regra 23 do presente Anexo, em qualquer ponto do comprimento do navio, não excedam o maior dos seguintes valores: 30000 m3 ou 400 [([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf), mas com um máximo de 40000 m3.
+2 - As dimensões e disposição dos tanques de carga dos navios petroleiros serão tais que os derrames hipotéticos O(índice c) ou O(índice s), calculados de acordo com a regra 23 do presente Anexo, em qualquer ponto do comprimento do navio, não excedam o maior dos seguintes valores: 30000 m3 ou 400 [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf), mas com um máximo de 40000 m3.
 
 3 - O volume de qualquer tanque lateral de carga de hidrocarbonetos de um navio petroleiro não excederá 75% dos limites previstos no parágrafo 2 desta regra para os derrames hipotéticos de hidrocarbonetos. O volume de qualquer tanque central de carga de hidrocarbonetos não excederá 50000 m3. Todavia, nos navios petroleiros com tanques de lastro segregado, como definido na regra 13 do presente anexo, o volume permitido para um tanque lateral de carga de hidrocarbonetos situado entre dois tanques de lastro segregado, cada um de comprimento superior a l(índice c), pode ser aumentado até ao limite máximo previsto para os derrames hipotéticos de hidrocarbonetos, desde que a largura dos tanques laterais seja superior a t(índice c).
 
@@ -1261,7 +1299,7 @@ a) Informação relativa ao carregamento e à distribuição da carga necessári
 
 b) Dados sobre a capacidade do navio para cumprir os critérios de estabilidade em avaria estabelecidos na presente regra, incluindo a incidência das dispensas que possam ter sido concedidas nos termos do parágrafo 1, alínea c), desta regra.
 
-## APÊNDICE I
+APÊNDICE I
 
 Lista de hidrocarbonetos (ver nota *)
 
@@ -1371,7 +1409,7 @@ Fracção intermédia
 
 (nota *) A lista de hidrocarbonetos não deve ser considerada exaustiva.
 
-## APÊNDICE II
+APÊNDICE II
 
 Modelo de certificado
 
@@ -1385,7 +1423,7 @@ por ...
 
 (nome completo da pessoa competente ou do organismo autorizado nos termos das disposições Convenção Internacional para a Prevenção da Poluição por Navios, 1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Tipo de navio:
 
@@ -1405,7 +1443,7 @@ Data de assentamento da quilha, ou em que o navio se encontrava numa fase equiva
 
 Data de entrega do navio ou do termo de uma grande modificação ...
 
-# PARTE A — Todos os navios
+## PARTE A — Todos os navios
 
 O navio está equipado com:
 
@@ -1431,7 +1469,7 @@ Observações:
 
 (nota *) Riscar como apropriado.
 
-# PARTE B — Navios petroleiros (ver nota 1) (ver nota 2)
+## PARTE B — Navios petroleiros (ver nota 1) (ver nota 2)
 
 Porte bruto ... toneladas métricas. Comprimento do navio ... m.
 
@@ -1447,7 +1485,7 @@ A capacidade dos tanques de lastro segregado é de ... m3 e cumpre os requisitos
 
 A distribuição do lastro segregado é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Certifica-se:
 
@@ -1477,7 +1515,7 @@ Averbamento para navios existentes (ver nota 4):
 
 Certifica-se que este navio foi equipado de modo a cumprir os requisitos da Convenção Internacional para a Prevenção da Poluição por Navios, 1973, aplicáveis a navios existentes 3 anos após a entrada em vigor da Convenção.
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -1491,7 +1529,7 @@ Vistoria intermédia
 
 Certifica-se que na vistoria intermédia exigida pela regra 4, parágrafo 1, alínea c), do anexo I à Convenção se verificou que este navio e o estado em que se encontra cumprem as disposições pertinentes da Convenção.
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -1501,7 +1539,7 @@ Data ...
 
 (Selo branco ou carimbo da autoridade, conforme apropriado)
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -1513,7 +1551,7 @@ Data ...
 
 De acordo com as disposições da regra 8, parágrafos 2 e 4, do anexo I à Convenção, a validade deste certificado é prorrogada até ...
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -1525,11 +1563,11 @@ Data ...
 
 (nota 4) Este averbamento só é necessário no primeiro certificado emitido para um navio.
 
-## APÊNDICE III
+APÊNDICE III
 
 Modelo do Livro de Registo de Hidrocarbonetos
 
-# Livro de Registo de Hidrocarbonetos
+Livro de Registo de Hidrocarbonetos
 
 1 - Para navios petroleiros (ver nota 1)
 
@@ -1541,7 +1579,7 @@ Viagem de ... (data) ... para ... (data) ...
 
 a) Carga de hidrocarbonetos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (nota 1) Esta parte deve ser preenchida para navios petroleiros, incluindo navios de carga combinada e navios de transporte de asfalto que não sejam petroleiros, construídos e utilizados para transportar hidrocarbonetos a granel, com capacidade total igual ou superior a 200 m3. Não é necessário existir esta parte no Livro de Registo de Hidrocarbonetos emitido para um navio que não seja dos acima mencionados.
 
@@ -1555,7 +1593,7 @@ O Capitão ...
 
 b) Trasfega interna da carga de hidrocarbonetos durante a viagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 O abaixo assinado certifica que, adicionalmente ao registo supra, todas as válvulas de fundo, válvulas de descarga do costado, ligações e interligações dos tanques de carga e encanamentos foram trancadas ao ser concluída a trasfega interna da carga de hidrocarbonetos.
 
@@ -1567,7 +1605,7 @@ O Capitão ...
 
 c) Descarga de hidrocarbonetos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 O abaixo assinado certifica que, adicionalmente ao registo supra, todas as válvulas de fundo, válvulas de descarga no costado, ligações e interligações dos tanques de carga e encanamentos foram trancadas ao ser concluída a operação de descarga de hidrocarbonetos.
 
@@ -1579,7 +1617,7 @@ O Capitão ...
 
 d) Lastragem dos tanques de carga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 O abaixo assinado certifica que, adicionalmente ao registo supra, todas as válvulas de fundo, válvulas de descarga no costado, ligações e interligações dos tanques de carga e encanamentos foram trancadas ao ser concluída a operação de lastragem.
 
@@ -1591,7 +1629,7 @@ O Capitão ...
 
 e) Limpeza dos tanques de carga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ...
 
@@ -1601,7 +1639,7 @@ O Capitão ...
 
 f) Descarga de lastro sujo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado, ...
 
@@ -1609,7 +1647,7 @@ O Capitão, ...
 
 g) Descarga da água dos tanques de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1617,7 +1655,7 @@ O Capitão ...
 
 h) Eliminação de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1625,7 +1663,7 @@ O Capitão ...
 
 i) Descarga de lastro limpo contido nos tanques de carga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1633,7 +1671,7 @@ O Capitão ...
 
 j) Descarga no costado das águas dos porões contendo hidrocarbonetos acumulados nas casas das máquinas durante a estadia no porto (ver nota 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1643,7 +1681,7 @@ O Capitão ...
 
 k) Descargas acidentais ou outras descargas excepcionais de hidrocarbonetos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1673,7 +1711,7 @@ Operações desde ... (data) até ... (data).
 
 a) Lastragem ou limpeza dos tanques de combustível líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1681,7 +1719,7 @@ O Capitão ...
 
 b) Descarga de lastro sujo ou de água de limpeza dos tanques referidos na secção a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1689,7 +1727,7 @@ O Capitão ...
 
 c) Eliminação de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1697,11 +1735,11 @@ O Capitão ...
 
 d) Descarga no costado das águas dos porões contendo hidrocarbonetos acumulados nas casas das máquinas durante a estadia no porto (ver nota 5)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (nota 5) Quando a bomba for de arranque automático e descarregar sempre através de um separador, será suficiente registar diariamente «descarga automática dos porões através de um separador».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -1709,7 +1747,7 @@ O Capitão ...
 
 e) Descargas acidentais ou outras descargas excepcionais de hidrocarbonetos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ... O Oficial Encarregado ...
 
@@ -2043,7 +2081,7 @@ Descargas provenientes de um tanque de resíduos:
 
 Regra 9
 
-# Livro de Registo de Carga
+Livro de Registo de Carga
 
 1 - Todos os navios a que se aplica o presente anexo possuirão um Livro de Registo de Carga, podendo ou não fazer parte do diário náutico, de acordo com o modelo especificado no apêndice IV a este anexo.
 
@@ -2139,7 +2177,7 @@ Requisitos para minimizar a poluição acidental
 
 3 - No que respeita aos navios para transporte de produtos químicos, os requisitos mencionados no parágrafo 2 da presente regra incluirão, pelo menos, todas as disposições previstas no Código para a Construção e Equipamento de Navios para Transporte de Produtos Químicos Perigosos a Granel, adoptado pela Assembleia da Organização na Resolução A.212 (VII) com as eventuais emendas feitas pela Organização, desde que as emendas a esse Código sejam adoptadas e entrem em vigor de acordo com as disposições do artigo 16 da presente Convenção, no que respeita aos procedimentos de emendas a um apêndice a um anexo.
 
-## APÊNDICE I
+APÊNDICE I
 
 Directivas para classificação em categorias das substâncias líquidas nocivas
 
@@ -2153,13 +2191,13 @@ Categoria D - Substâncias praticamente não tóxicas para a vida aquática (com
 
 Outras substâncias líquidas (para os fins da regra 4 do presente anexo) - Substâncias que não sejam classificadas nas anteriores categorias A, B, C e D acima referidas.
 
-## APÊNDICE II
+APÊNDICE II
 
 Lista de substâncias líquidas nocivas transportadas a granel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
-## APÊNDICE III
+APÊNDICE III
 
 Lista de outras substâncias líquidas transportadas a granel
 
@@ -2255,9 +2293,9 @@ Tripropileno-glicol.
 
 Vinho.
 
-## APÊNDICE IV
+APÊNDICE IV
 
-# Livro de Registo de Carga para os Navios de Transporte de Substâncias Líquidas Nocivas a Granel
+Livro de Registo de Carga para os Navios de Transporte de Substâncias Líquidas Nocivas a Granel
 
 Nome do navio ...
 
@@ -2389,7 +2427,7 @@ h) Descargas acidentais ou excepcionais:
 
 (nota *) Deve ser aposta em todas as folhas do certificado.
 
-## APÊNDICE V
+APÊNDICE V
 
 Modelo de certificado
 
@@ -2401,7 +2439,7 @@ Certificado Internacional de Prevenção da Poluição para o Transporte de Subs
 
 Emitido de acordo com as disposições da Convenção Internacional para a Prevenção da Poluição por Navios, 1973, sob a autoridade do Governo de ... (designação oficial e completa do país) por ... (nome completo da pessoa competente ou designação oficial completa do organismo autorizado, nos termos das disposições da Convenção Internacional para a Prevenção da Poluição por Navios, 1973).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Certifica-se:
 
@@ -2427,7 +2465,7 @@ Vistorias intermédias
 
 Certifica-se que na vistoria intermédia exigida pela regra 10, parágrafo 1, alínea c), do anexo II à Convenção se verificou que este navio e o estado em que se encontra cumprem as disposições da Convenção.
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -2437,7 +2475,7 @@ Data ...
 
 (Selo branco ou carimbo da autoridade, conforme apropriado)
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -2449,7 +2487,7 @@ Data ...
 
 Nos termos das disposições da regra 12, parágrafos 2 e 4, do anexo à Convenção, a validade deste certificado é prorrogada até ...
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -2703,11 +2741,11 @@ A fim de permitir a ligação entre o encanamento das instalações de recepçã
 
 Dimensões padrão das flanges das uniões de descarga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Para navios de pontal igual ou inferior a 5 m, o diâmetro da união de descarga pode ser de 38 mm.
 
-## APÊNDICE
+APÊNDICE
 
 Modelo do certificado
 
@@ -2721,7 +2759,7 @@ por ...
 
 (nome completo da pessoa competente ou do organismo autorizado nos termos das disposições da Convenção Internacional para a Prevenção da Poluição por Navios, 1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Navio novo/navio existente (ver nota *).
 
@@ -2923,9 +2961,7 @@ Considerando que estes objectivos podem ser alcançados mais eficazmente pela co
 
 acordaram no seguinte:
 
-ARTIGO I
-
-Obrigações gerais
+###### ARTIGO I — Obrigações gerais
 
 1 - As Partes no presente Protocolo comprometem-se a cumprir as disposições:
 
@@ -2937,25 +2973,19 @@ b) Da Convenção Internacional para a Prevenção da Poluição por Navios, 197
 
 3 - Qualquer referência ao presente Protocolo constitui simultaneamente uma referência ao seu anexo.
 
-ARTIGO II
-
-Aplicação do anexo II à Convenção
+###### ARTIGO II — Aplicação do anexo II à Convenção
 
 1 - Não obstante o disposto no artigo 14, parágrafo 1, da Convenção, as Partes no presente Protocolo acordam que não ficarão vinculadas pelas disposições do anexo II à Convenção durante um período de 3 anos a partir da data da entrada em vigor do presente Protocolo, ou durante um período mais longo que possa ser acordado por uma maioria de dois terços das Partes no presente Protocolo no Comité de Protecção do Meio Marinho (daqui em diante referido como «o Comité») da Organização Marítima Internacional (daqui em diante referida como «a Organização»).
 
 2 - Durante o período estipulado no parágrafo 1 do presente artigo, as Partes no presente Protocolo não ficarão sujeitas a quaisquer obrigações nem terão direito de reivindicar quaisquer privilégios nos termos da Convenção, relativos às matérias respeitantes ao anexo II à Convenção, e todas as referências às Partes na Convenção não incluirão as Partes no presente Protocolo, no que respeita às matérias relacionadas com tal anexo.
 
-ARTIGO III
-
-Comunicação de informações
+###### ARTIGO III — Comunicação de informações
 
 O texto do artigo 11, parágrafo 1, alínea b), da Convenção é substituído pelo seguinte:
 
 Uma lista de inspectores nomeados ou de organismos reconhecidos que estejam autorizados a actuar em seu nome na condução dos assuntos relacionados com o projecto, construção, equipamento e operação de navios destinados ao transporte de substâncias prejudiciais, de acordo com as disposições das regras, a fim de ser distribuída às Partes para conhecimento dos seus funcionários. A administração notificará, portanto, a Organização das responsabilidades e condições específicas em que a autoridade foi delegada nos referidos inspectores ou organismos reconhecidos.
 
-ARTIGO IV
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### ARTIGO IV — Assinatura, ratificação, aceitação, aprovação e adesão
 
 1 - O presente Protocolo fica aberto à assinatura, desde 1 de Junho de 1978 até 31 de Maio de 1979, na sede da Organização, continuando a partir daí aberto para adesão. Os Estados podem tornar-se Partes no presente Protocolo mediante:
 
@@ -2967,9 +2997,7 @@ c) Adesão.
 
 2 - A ratificação, aceitação, aprovação ou adesão é concretizada mediante o depósito do correspondente instrumento junto do secretário-geral da Organização.
 
-ARTIGO V
-
-Entrada em vigor
+###### ARTIGO V — Entrada em vigor
 
 1 - O presente Protocolo entra em vigor 12 meses após a data em que pelo menos 15 Estados, cujas frotas mercantes combinadas constituam não menos de 50% da tonelagem de arqueação bruta da marinha mercante mundial, se tenham tornado Partes no presente Protocolo, de acordo com o seu artigo IV.
 
@@ -2977,15 +3005,11 @@ Entrada em vigor
 
 3 - Depois da data em que uma emenda ao presente Protocolo for considerada como aceite, de acordo com o artigo 16 da Convenção, qualquer instrumento de ratificação, aceitação, aprovação ou adesão depositado aplicar-se-á ao presente Protocolo como emendado.
 
-ARTIGO VI
-
-Emendas
+###### ARTIGO VI — Emendas
 
 Os procedimentos estabelecidos no artigo 16 da Convenção relativos às emendas aos artigos, a um anexo e a um apêndice a um anexo à Convenção aplicam-se, respectivamente, às emendas aos artigos, ao anexo e a um apêndice ao anexo ao presente Protocolo.
 
-ARTIGO VII
-
-Denúncia
+###### ARTIGO VII — Denúncia
 
 1 - O presente Protocolo pode ser denunciado por qualquer Parte no mesmo, em qualquer momento, após decorridos 5 anos a partir da entrada em vigor do Protocolo para essa Parte.
 
@@ -2993,9 +3017,7 @@ Denúncia
 
 3 - Uma denúncia produz efeitos 12 meses após a recepção da sua notificação pelo secretário-geral da Organização, ou após o termo de qualquer outro período mais longo indicado na notificação.
 
-ARTIGO VIII
-
-Depositário
+###### ARTIGO VIII — Depositário
 
 1 - O presente Protocolo é depositado junto do secretário-geral da Organização (daqui em diante referido como «o depositário»).
 
@@ -3015,9 +3037,7 @@ b) enviará cópias autenticadas do presente Protocolo a todos os Estados que o 
 
 3 - Logo que o presente Protocolo entre em vigor, será enviada uma cópia autenticada pelo depositário ao Secretariado das Nações Unidas, para registo e publicação, de acordo com o artigo 102 da Carta das Nações Unidas.
 
-ARTIGO IX
-
-Línguas
+###### ARTIGO IX — Línguas
 
 O presente Protocolo é redigido em exemplar único, cujos textos em espanhol, francês, inglês e russo fazem igualmente fé. Serão preparadas e depositadas com os originais assinados traduções oficiais em alemão, árabe, italiano e japonês.
 
@@ -3177,7 +3197,7 @@ c) Em qualquer caso, o calado na perpendicular a ré não será inferior ao cala
 
 3 - Em caso algum será transportada água de lastro nos tanques de carga, excepto nas raras viagens em que as condições meteorológicas sejam de tal modo severas que se torne necessário, na opinião do capitão, transportar água de lastro adicional nos tanques de carga para garantir a segurança do navio. Esta água de lastro adicional será tratada e descarregada em cumprimento da regra 9 e em conformidade com os requisitos da regra 15 do presente anexo, e esta operação registada no
 
-# Livro de Registo de Hidrocarbonetos mencionado na regra 20 deste anexo.
+Livro de Registo de Hidrocarbonetos mencionado na regra 20 deste anexo.
 
 4 - No caso de navios-tanques novos para transporte de petróleo bruto, o lastro adicional autorizado no parágrafo 3 da presente regra só será transportado em tanques de carga que tenham sido lavados com petróleo bruto, em conformidade com a regra 13B deste anexo, antes da largada de um porto ou terminal de descarga de hidrocarbonetos.
 
@@ -3291,7 +3311,7 @@ Localização protectiva dos espaços para lastro segregado
 
 2 - Os tanques de lastro segregado e os espaços que não sejam tanques de hidrocarbonetos situados na zona do comprimento do navio em que se situam os tanques de carga (L(índice t)) serão dispostos de modo a cumprir o seguinte requisito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 3 - Para os navios-tanques de porte bruto igual ou superior a 200000 t, o valor de J pode ser reduzido como segue:
 
@@ -3359,13 +3379,13 @@ No texto desta regra, eliminar a referência a «(1973)» em relação ao Certif
 
 Regras 21 a 25
 
-## APÊNDICE I
+APÊNDICE I
 
 Lista de hidrocarbonetos
 
 Sem alteração.
 
-## APÊNDICE II
+APÊNDICE II
 
 Modelo de certificado
 
@@ -3383,7 +3403,7 @@ por ...
 
 (nome completo da pessoa competente ou do organismo autorizado, nos termos das disposições do Protocolo de 1978 relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Tipo de navio:
 
@@ -3405,7 +3425,7 @@ Data da entrega do navio ou do termo de uma grande modificação ...
 
 (nota *) Riscar como apropriado.
 
-# PARTE A — Todos os navios
+## PARTE A — Todos os navios
 
 O navio está equipado com:
 
@@ -3435,7 +3455,7 @@ Averbamento para navios existentes (ver nota *):
 
 Certifica-se que este navio foi equipado de modo a cumprir os requisitos do Protocolo de 1978 Relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973, aplicáveis a navios existentes (ver nota **).
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3449,9 +3469,9 @@ Data ...
 
 (nota **) Os prazos, após a entrada em vigor do Protocolo, para a instalação de equipamento separador hidrocarbonetos/água, equipamento monitor da descarga de hidrocarbonetos, equipamento de filtragem de hidrocarbonetos e/ou disposições de tanques de resíduos, estão indicados nas regras 13A, parágrafo 3, 15, parágrafo 1, e 16, parágrafo 4, do anexo I ao Protocolo.
 
-# PARTE B — Navios petroleiros (ver nota *)
+## PARTE B — Navios petroleiros (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Certifica-se que este navio foi construído e equipado e deve operar de acordo com o seguinte:
 
@@ -3499,7 +3519,7 @@ Tanques de lastro segregado (ver nota *)
 
 A distribuição dos tanques de lastro segregado é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Tanques destinados a lastro limpo (ver nota *)
 
@@ -3507,7 +3527,7 @@ Este navio opera utilizando tanques de lastro limpo até ... (data), em conformi
 
 A designação dos tanques destinados a lastro limpo é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (nota *) Riscar se não for aplicável.
 
@@ -3521,7 +3541,7 @@ b) Um Manual de Operação e Equipamento do Sistema de Lavagem com Petróleo Bru
 
 Identificação do exemplar actualizado do manual ...
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3533,7 +3553,7 @@ Data ...
 
 Identificação do exemplar actualizado do manual ...
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3547,7 +3567,7 @@ Data ...
 
 (nota **) Riscar como apropriado.
 
-# PARTE C — Dispensas (ver nota *)
+## PARTE C — Dispensas (ver nota *)
 
 Certifica-se que este navio:
 
@@ -3557,7 +3577,7 @@ b) Opera com uma disposição especial de lastro, em conformidade com a regra 13
 
 estando por isso dispensado do cumprimento dos requisitos da regra 13 do anexo I ao Protocolo.
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3581,7 +3601,7 @@ Emitido em ... (local da emissão do certificado).
 
 .../.../19..
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3591,7 +3611,7 @@ Vistoria intermédia
 
 Certifica-se que na vistoria intermédia exigida pela regra 4, parágrafo 1, alínea c), do anexo I ao Protocolo de 1978 relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973, se verificou que este navio e o estado em que se encontra cumprem as disposições pertinentes deste Protocolo.
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3603,7 +3623,7 @@ A próxima vistoria intermédia deve realizar-se em ...
 
 (Selo branco ou carimbo da autoridade, conforme apropriado)
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3615,7 +3635,7 @@ A próxima vistoria intermédia deve realizar-se em ...
 
 (Selo branco ou carimbo da autoridade, conforme apropriado)
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3627,7 +3647,7 @@ A próxima vistoria intermédia deve realizar-se em ...
 
 (Selo branco ou carimbo da autoridade, conforme apropriado)
 
-**Assinado ...**
+Assinado ...
 
 (Assinatura do funcionário devidamente autorizado)
 
@@ -3637,7 +3657,7 @@ Data ...
 
 (Selo branco ou carimbo da autoridade, conforme apropriado)
 
-## APÊNDICE III
+APÊNDICE III
 
 Modelo do Livro de Registo de Hidrocarbonetos
 
@@ -3657,7 +3677,7 @@ Capacidade total dos tanques destinados a lastro limpo ... m3
 
 Os tanques seguintes são designados como tanques destinados a lastro limpo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Nota. - Os períodos abrangidos pelo suplemento devem corresponder aos períodos abrangidos pelo Livro de Registo de Hidrocarbonetos.
 
@@ -3665,7 +3685,7 @@ Nota. - Os períodos abrangidos pelo suplemento devem corresponder aos períodos
 
 A) Lastragem dos tanques destinados a lastro limpo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 O abaixo assinado certifica que, adicionalmente ao registo supra, todas as válvulas de fundo, ligações dos tanques de carga e dos encanamentos, bem como as ligações entre tanques ou interligações dos tanques, foram bem fechadas e trancadas no termo da lastragem dos tanques destinados a lastro limpo.
 
@@ -3677,7 +3697,7 @@ O Capitão ...
 
 B) Descarga de lastro limpo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 O abaixo assinado certifica que, adicionalmente ao registo supra, todas as válvulas de fundo, válvulas de descarga para o mar, ligações dos tanques de carga e encanamentos, bem como as ligações entre tanques ou interligações dos tanques, foram fechadas e trancadas no termo da descarga de lastro limpo e que a(s) bomba(s) e os encanamentos destinados às operações com lastro limpo foram devidamente limpos após a descarga de lastro limpo.
 
@@ -3709,11 +3729,11 @@ Deve ser utilizada uma coluna separada para cada tanque lavado com petróleo bru
 
 A) Lavagem com petróleo bruto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (nota *) Este Suplemento deverá estar apenso ao Livro de Registo de Hidrocarbonetos dos navios-tanques para transporte de petróleo bruto que operem com o processo de limpeza dos tanques de carga utilizando a lavagem com petróleo bruto, em conformidade com a regra 13B do anexo I ao Protocolo de 1978 relativo à Convenção Internacional para a Prevenção da Poluição por Navios, 1973, e destina-se a substituir a secção e) do Livro de Registo de Hidrocarbonetos. Os pormenores das operações de lastragem e de deslastragem e outras informações requeridas devem ser registados no Livro de Registo de Hidrocarbonetos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Os tanques foram lavados de acordo com os programas indicados no Manual de Operação e Equipamento (ver Nota 3), tendo sido verificado no termo da operação que estavam secos.
 
@@ -3731,7 +3751,7 @@ Nota 3. - Se não forem seguidos os programas indicados no Manual de Operação 
 
 B) Enxaguamento com água, ou limpeza com água, do fundo dos tanques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Data do registo ...
 
@@ -3759,15 +3779,15 @@ Nota. - Os períodos abrangidos pelo Suplemento devem corresponder aos períodos
 
 A) Embarque de água de lastro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 B) Redistribuição da água de lastro a bordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 C) Descarga da água de lastro para instalação de recepção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 ## ANEXO II — Regras para o controle da poluição por substâncias líquidas nocivas transportadas a granel
 
@@ -4739,7 +4759,7 @@ To enable pipes of reception facilities to be connected with the ship's discharg
 
 Standard Dimensions of Flanges for Discharge Connections
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Regulation 20
 
@@ -4827,7 +4847,7 @@ iii) Vertical extent (v(índice c)): from the base line upwards without limit
 
 (b) Bottom damage
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (Vertical extent from the base line (v(índice)): B/15 or 6 metres, whichever is less
 
@@ -4841,11 +4861,11 @@ Hypothetical Outflow of Oil
 
 (a) for side damages:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (b) for bottom damages:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 where: W(índice i) = volume of a wing tank in cubic metres assumed to be breached by the damage as specified in Regulation 22 of this Annex; W(índice i) for a segregated ballast tank may be taken equal to zero,
 
@@ -4877,7 +4897,7 @@ Piping serving such wells if installed within the double bottom shall be fitted 
 
 (4) In the case where bottom damage simultaneously involves four centre tanks, the value of O(índice s) may be calculated according to the formula
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (5) An Administration may credit as reducing oil outflow in case of bottom damage, an installed cargo transfer system having an emergency high suction in each cargo oil tank, capable of transferring from a breached tank or tanks to segregated ballast tanks or to available cargo tankage if it can be assured that such tanks will have sufficient ullage. Credit for such a system would be governed by ability to transfer in two hours of operation oil equal to one half of the largest of the breached tanks involved and by availability of equivalent receiving capacity in ballast or cargo tanks. The credit shall be confined to permitting calculation of O(índice s) according to formula (III). The pipes for such suctions shall be installed at least at a height not less than the vertical extent of the bottom damage v(índice s). The Administration shall supply the Organization with the information concerning the arrangements accepted by it, for circulation to other Parties to the Convention.
 
@@ -4895,7 +4915,7 @@ Limitation of Size and Arrangement of Cargo Tanks
 
 (ii) the building contract is placed after 1 January 1974, or in cases where no building contract has previously been placed, the keel is laid or the tanker is at a similar stage of construction after 30 June 1974.
 
-(2) Cargo tanks of oil tankers shall be of such size and arrangements that the hypothetical outflow O(índice c) or O(índice s) calculated in accordance with the provisions of Regulation 23 of this Annex anyhere in the lenght of the ship does not exceed 30,000 cubic metres or [([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf), whichever is the greater, but subject to a maximum of 40,000 cubic metres.
+(2) Cargo tanks of oil tankers shall be of such size and arrangements that the hypothetical outflow O(índice c) or O(índice s) calculated in accordance with the provisions of Regulation 23 of this Annex anyhere in the lenght of the ship does not exceed 30,000 cubic metres or [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf), whichever is the greater, but subject to a maximum of 40,000 cubic metres.
 
 (3) The volume of any one wing cargo oil tank of an oil tanker shall not exceed seventy-five per cent of the limits of the hypothetical oil outflow referred to in paragraph (2) of this Regulation. The volume of any one centre cargo oil tank shall not exceed 50,000 cubic metres. However, in segregated ballast oil tankers as defined in Regulation 13 of this Annex, the permitted volume of a wing cargo oil tank situated between two segregated ballast tanks, each exceeding l(índice c) in lengt, may be increased to the maximum limit of hypothetical oil outflow provided that the width of the wing tanks exceeds t(índice c).
 
@@ -5133,7 +5153,7 @@ by ...
 
 (full designation of the competent person or organization authorized under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Type of ship:
 
@@ -5193,7 +5213,7 @@ the requirements of Regulation 24 of Annex I of the Convention. The capacity of 
 
 The segregated ballast is distributed as follows:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (nota *) Delete as appropriate.
 
@@ -5291,7 +5311,7 @@ Voyage from ... (date) ... to ... (date) ...
 
 (a) Loading of oil cargo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 The undersigned certifies that in addition to the above all sea valves, overboard discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of loading oil cargo.
 
@@ -5301,7 +5321,7 @@ Master ...
 
 (b) Internal transfer of oil cargo during voyage
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 The undersigned certifies that in addition to the above all sea valves, overboard discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of internal transfer of oil cargo.
 
@@ -5311,7 +5331,7 @@ Master ...
 
 (c) Unloading of oil cargo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 The undersigned certifies that in addition to the above all sea valves, overboard discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of loading oil cargo.
 
@@ -5321,7 +5341,7 @@ Master ...
 
 (d) Ballasting of cargo tanks
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 The undersigned certifies that in addition to the above all sea valves, overboard discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of ballasting
 
@@ -5331,7 +5351,7 @@ Master ...
 
 (e) Cleaning of cargo tanks
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5339,7 +5359,7 @@ Master ...
 
 (f) Discharge of dirty ballast
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5347,7 +5367,7 @@ Master ...
 
 (g) Discharge of water from slop tanks
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5355,7 +5375,7 @@ Master ...
 
 (h) Disposal of residues
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5363,7 +5383,7 @@ Master ...
 
 (i) Discharge of clean ballast contained in cargo tanks
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5379,7 +5399,7 @@ Master ...
 
 (k) Accidental or other exceptional discharges of oil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5411,7 +5431,7 @@ Operations from ... (date), to ... (date)
 
 (a) Ballasting or cleaning of oil fuel tanks
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5419,7 +5439,7 @@ Master ...
 
 (b) Discharge of dirty ballast or cleaning water from tanks referred to under section (a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5427,7 +5447,7 @@ Master ...
 
 (c) Disposal of residues
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5443,7 +5463,7 @@ Master ...
 
 (e) Accidental or other exceptional discharges of oil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -5897,7 +5917,7 @@ APPENDIX II
 
 List of Noxious Liquid Substances Carried in Bulk
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 APPENDIX III
 
@@ -6149,7 +6169,7 @@ by ...
 
 (full official designation of the competent person or organization authorized under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 This is to certify:
 
@@ -6467,7 +6487,7 @@ To enable pipes of reception facilities to be connected with the ship's discharg
 
 Standard Dimension of Flanges for Discharge Connections
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 For ships having a moulded depth of 5 metres and less, the inner diameter of the discharge connection may be 38 milimetres.
 
@@ -6485,7 +6505,7 @@ by ...
 
 (full designation of the competent person or organization authorized under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 New/existing ship (ver nota *)
 
@@ -7059,7 +7079,7 @@ Protective Location of Segregated Ballast Spaces
 
 (2) Segregated ballast tanks and spaces other than oil tanks within the cargo tank length (L(índice t)) shall be so arranged as to comply with the following requirement:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (3) For tankers of 200,000 tons deadweight and above, the value of «J» may be reduced as follows:
 
@@ -7139,7 +7159,7 @@ by ...
 
 (full designation of the competent person or organization authorized under the provisions of the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Type of ship:
 
@@ -7205,7 +7225,7 @@ Date ...
 
 PART B - OIL TANKERS (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 It is certified that this ship is constructed and equipped, and must operate, in accordance with the following:
 
@@ -7259,7 +7279,7 @@ Segregated ballast tanks (ver nota **)
 
 The segregated ballast tanks are distributed as follows:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Dedicated clean ballast tanks (ver nota **)
 
@@ -7267,7 +7287,7 @@ This ship is operating with dedicated clean ballast tanks until ... (date), in a
 
 The dedicated clean ballast tanks are designated as follows:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (nota *) Delete as appropriate.
 
@@ -7417,13 +7437,13 @@ Total dedicated clean ballast capacity ... cubic metres
 
 The following tanks are designated as dedicated clean ballast tanks:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Note: The periods covered by the Supplement should be consistent with the periods covered by the Oil Record Book.
 
 (A) Ballasting of dedicated clean ballast tanks
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 The undersigned certifies that, in addition to the above, all sea valves, cargo tank and pipeline connexions and connexions between tanks or inter-tank connexions, were secured on the completion of ballasting of dedicated clean ballast tanks.
 
@@ -7433,7 +7453,7 @@ Master ...
 
 (B) Discharge of clean ballast
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 The undersigned certifies that, in addition to the above, all sea valves, overboard discharge valves, cargo tank and pipeline connexions and connexions between tanks or inter-tank connexions, were secured on completion of discharge of clean ballast and that the pump(s) and pipes designated for clean ballast operations were properly cleaned upon completion of discharge of clean ballast.
 
@@ -7465,7 +7485,7 @@ A separate column should be used for each tank washed or water rinsed.
 
 (A) Crude oil washing
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (nota *) This Supplement should be attached to the Oil Record Book for crude oil tankers operating with a cargo tank cleaning procedure using crude oil washing in accordance with Regulation 13B of Annex I of the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and is intended to replace Section (e) of the Oil Record Book. Details of ballasting and deballasting and other information required should be entered in the Oil Record Book.
 
@@ -7483,7 +7503,7 @@ Note 3 If the programmes given in the Operations and Equipment Manual are follow
 
 (B) Water rinsing or flushing of tank bottoms
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 Date of entry ... Officer in charge ...
 
@@ -7511,15 +7531,15 @@ Note: The periods covered by the Supplement should be consistent whit the period
 
 (A) Loading of ballast water
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (B) Re-allocation of ballast water within the ship
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 (c) Ballast water discharge to reception facility
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15601/00020115.pdf)
 
 ANNEX II
 

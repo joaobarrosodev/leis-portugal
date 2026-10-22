@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20500/18241825.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1978-329867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 232b7dce5d0eb02b40a5da5468f97fa6e1bf4e09c456d170e45a8e2d9effb043
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 240fec4162f03f0be70db5e89001c7c4764bfaa0d14a34b399cbe34f30e659ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Definição de Competências
+- Força Aérea
+- Forças Armadas
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:28Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +109,7 @@ Nestes termos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Na categoria de praças da Força Aérea estão englobados:
+Artigo 1.º - 1 - Na categoria de praças da Força Aérea estão englobados:
 
 Especialistas operadores;
 
@@ -126,7 +137,7 @@ b) De responsabilidade:
 
 Execução.
 
-###### Art. 2.º - 1 - As praças em serviço efectivo na Força Aérea podem encontrar-se numa das seguintes situações:
+Art. 2.º - 1 - As praças em serviço efectivo na Força Aérea podem encontrar-se numa das seguintes situações:
 
 a) Em preparação para ingresso nas diferentes especialidades;
 
@@ -140,7 +151,7 @@ d) Readmitidos - praças que permanecem nas fileiras a seu pedido após terem pr
 
 3 - Para efeito de vencimentos e abonos, são consideradas equivalentes a militares dos quadros permanentes as praças nas situações indicadas nas alíneas c) e d) do n.º 1.
 
-###### Art. 3.º - 1 - As praças da Força Aérea agrupam-se hierarquicamente segundo os postos:
+Art. 3.º - 1 - As praças da Força Aérea agrupam-se hierarquicamente segundo os postos:
 
 Primeiro-cabo;
 
@@ -158,9 +169,9 @@ b) O quantitativo de alunos para cada curso será calculado em função das nece
 
 c) O ingresso nos quadros de sargentos é feito no posto de furriel, no final dos cursos realizados com aproveitamento e pela ordem de classificação obtida.
 
-###### Art. 4.º Os efectivos de praças no serviço efectivo em todas as condições referidas no artigo 2.º são fixados por despacho do Chefe do Estado-Maior da Força Aérea, considerando as verbas orçamentadas e a sua mais racional aplicação.
+Art. 4.º Os efectivos de praças no serviço efectivo em todas as condições referidas no artigo 2.º são fixados por despacho do Chefe do Estado-Maior da Força Aérea, considerando as verbas orçamentadas e a sua mais racional aplicação.
 
-###### Art. 5.º - 1 - A permanência na efectividade para além do tempo normal de serviço efectivo regula-se pelas condições seguintes:
+Art. 5.º - 1 - A permanência na efectividade para além do tempo normal de serviço efectivo regula-se pelas condições seguintes:
 
 a) A situação de contratado tem início após o termo do tempo normal de serviço efectivo e pode prolongar-se até a praça completar quatro anos de serviço efectivo;
 
@@ -170,24 +181,24 @@ b) A situação de readmitido tem início na data em que o contratado perfizer q
 
 3 - Quando as circunstâncias o aconselharem, a situação de readmitidos, referida na alínea b) do n.º 1, pode ter início na data em que as praças completem o tempo mínimo de três anos de serviço indicado na alínea d) do n.º 1 do artigo 2.º
 
-###### Art. 6.º - 1 - As praças contratadas e readmitidas mantêm-se vinculadas ao serviço por meio de contratos, vigentes após deferimento de requerimento dos interessados.
+Art. 6.º - 1 - As praças contratadas e readmitidas mantêm-se vinculadas ao serviço por meio de contratos, vigentes após deferimento de requerimento dos interessados.
 
 2 - Os contratos referidos no n.º 1 são renovados de acordo com as normas a estabelecer pelo Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 7.º - 1 - O tempo normal de serviço efectivo a prestar pelas praças na Força Aérea é de dois anos, contados a partir da data da incorporação.
+Art. 7.º - 1 - O tempo normal de serviço efectivo a prestar pelas praças na Força Aérea é de dois anos, contados a partir da data da incorporação.
 
 2 - As praças que tenham sido incorporadas como voluntários ficam obrigadas a mais um ano de serviço, para além dos dois anos referidos no n.º 1.
 
 3 - O Chefe do Estado-Maior da Força Aérea, quando razões de serviço o aconselharem e atentas as condições que forem definidas na Lei do Serviço Militar, pode reduzir os tempos referidos nos n.os 1 e 2
 
-###### Art. 8.º - 1 - As praças readmitidas que actualmente se encontram autorizadas a permanecer nas fileiras por período de três anos ficam abrangidas pelo disposto nos n.os 1 e 2 do artigo 6.º, após o termo do actual período.
+Art. 8.º - 1 - As praças readmitidas que actualmente se encontram autorizadas a permanecer nas fileiras por período de três anos ficam abrangidas pelo disposto nos n.os 1 e 2 do artigo 6.º, após o termo do actual período.
 
 2 - As praças readmitidas que iniciaram o actual período de readmissão com idade superior a 30 anos podem ser autorizadas a continuar na efectividade de serviço em condições idênticas às estabelecidas para os segundos-sargentos dos QP, incluindo as situações de reserva e reforma com os respectivos limites de idade.
 
 Visto e aprovado em Conselho da Revolução em 17 de Agosto de 1978.
 
-**Promulgado em 17 de Agosto de 1978.**
+Promulgado em 17 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

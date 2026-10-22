@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13600/16951710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1982-395896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ba1ef673635251900d316bb388986e54e2a82fc024b7f6b8bb7dee2ce198829
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24e2478af1700704ca6331a025f8458e9423aa6ea32ce401b60d7c7eabf14455
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Portos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:233118:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309331:por
+  label: "Alterado o quadro de pessoal, a que se refere o artigo 21.º, pela PORT.856-C/89.30.09.1989.MF, DR.IS [226]4ºSupl\
+    \ de 30.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/856-c-1989-309331
+  date: '1989-09-30'
+- type: amended_by
+  target: pt:dre:233118:por
+  label: "Tranferidas as competências definidas nas alíneas a), b), c), e), f), g) e i) do n.º 3 do artigo 16.º para a Direcção-Geral\
+    \ dos Recursos Naturais, pelo DEC LEI.201/92.29.09.1992.MARN, DR.IS-A [225] de 29.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1992-233118
+  date: '1992-09-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 70/94, DE 31 DE DEZEMBRO DE 1993, PUBLICADO NO DR.IS-B, 27,\
+    \ DE 940202.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-02'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:305260:por
+  label: Revogado pelo(a) Decreto-Lei n.º 154/92 - Diário da República n.º 170/1992, 1º Suplemento, Série I-A de 1992-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1992-305260
+  date: '1992-07-25'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:34Z'
   warnings: []
   errors: []
 ---
@@ -907,12 +968,12 @@ São revogados os artigos 24.º e 28.º do [Decreto-Lei n.º 488/71](https://dia
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1982. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 28 de Maio de 1982.**
+Promulgado em 28 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do pessoal a que se refere o artigo 21.º do diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/13600/16951710.pdf))](https://files.diariodarepublica.pt/1s/1982/06/13600/16951710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/13600/16951710.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/02000/00860086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1975-159562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03c110ba05dd7da28316f0fe68f3fc3efeaefea5a9d769aa7b1bbffcfb5d90bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79071302944a94c053595adfbb1d9d1dcb320fd5f7264c64dc853299ae580de5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimentos Fabris da Armada
+- Gestão de Recursos Humanos
+- Marinha
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159876:por
+  label: "Alterado o artigo 4.º (entrada em vigor), pela DECL.DD9136.14.02.1975.CCEMFA, DG.IS [38] de 14.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-159876
+  date: '1975-02-14'
+- type: amended_by
+  target: pt:dre:316699:por
+  label: "Determinada a entrada em vigor [01.10.1975] da portaria referida no nº 2 do art. 2º [Port 440/75 de 18-Jul] e do\
+    \ despacho referido no art. 3º, ambos do presente diploma, pelo DEC LEI.739/75.31.12.1975.CR, DG.IS [300] de 31.12.1975\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/739-1975-316699
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:316704:por
+  label: "Integradas a partir de 01.01.1976 as Oficinas Gerais de Armas e Electrónica, criadas pelo presente diploma, no Arsenal\
+    \ do Alfeite, cuja orgânica consta do Dec Lei 28408 de 31-Dez de 1938, pelo DEC LEI.740/75.31.12.1975.CR, DG.IS [300]\
+    \ de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/740-1975-316704
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:632030:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181626:por
+  label: "Revogado o nº 1 do art. 2º do DEC LEI.550-A/76.1976.07.12.CR,DR.IS [161]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-a-1976-181626
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:41Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +137,22 @@ Considerando os aperfeiçoamentos registados no estatuto de empresas públicas d
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São estabelecimentos fabris da Armada: o Arsenal do Alfeite, a Fábrica Nacional de Cordoaria e as Oficinas Gerais de Armas e Electrónica.2. Enquanto não estiverem estruturadas as Oficinas Gerais de Armas e Electrónica, integram aquelas oficinas gerais as actuais oficinas da Direcção do Serviço de Armas Navais e da Direcção do Serviço de Electricidade e Comunicações.
+Artigo 1.º - 1. São estabelecimentos fabris da Armada: o Arsenal do Alfeite, a Fábrica Nacional de Cordoaria e as Oficinas Gerais de Armas e Electrónica.2. Enquanto não estiverem estruturadas as Oficinas Gerais de Armas e Electrónica, integram aquelas oficinas gerais as actuais oficinas da Direcção do Serviço de Armas Navais e da Direcção do Serviço de Electricidade e Comunicações.
 
 3. Os estabelecimentos referidos em 1 manterão, transitoriamente, as suas actuais orgânicas administrativas e financeiras.
 
-###### Art. 2.º - 1. Os quadros do pessoal do Arsenal do Alfeite continuam sendo os fixados no [Decreto n.º 533/71](https://diariodarepublica.pt/dr/detalhe/decreto/533-1971-632030), de 3 de Dezembro.
+Art. 2.º - 1. Os quadros do pessoal do Arsenal do Alfeite continuam sendo os fixados no [Decreto n.º 533/71](https://diariodarepublica.pt/dr/detalhe/decreto/533-1971-632030), de 3 de Dezembro.
 
 2. A Fábrica Nacional de Cordoaria e as Oficinas Gerais de Armas e Electrónica passarão a dispor de quadros privativos de pessoal civil permanente, correspondente às actividades que lhes estão cometidas, a fixar por portaria do Chefe do Estado-Maior da Armada, e para onde transitarão, sem qualquer prejuízo de direitos adquiridos, os actuais servidores da respectiva lotação pertencentes ao quadro do pessoal civil do Ministério da Marinha, cujos lugares ficam abatidos neste quadro.
 
-###### Art. 3.º As remunerações e condições de trabalho do pessoal civil e as gratificações do pessoal militar dos estabelecimentos fabris da Armada passam a ser fixadas em despacho conjunto do Conselho dos Chefes dos Estados-Maiores das Forças Armadas e dos Ministros das Finanças e do Trabalho.
+Art. 3.º As remunerações e condições de trabalho do pessoal civil e as gratificações do pessoal militar dos estabelecimentos fabris da Armada passam a ser fixadas em despacho conjunto do Conselho dos Chefes dos Estados-Maiores das Forças Armadas e dos Ministros das Finanças e do Trabalho.
 
-###### Art. 4.º As disposições do presente diploma entram em vigor em 1 de Janeiro de 1975.
+Art. 4.º As disposições do presente diploma entram em vigor em 1 de Janeiro de 1975.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores dos Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
 
-**Promulgado em 17 de Janeiro de 1975.**
+Promulgado em 17 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

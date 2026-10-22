@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1975-160128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54f50fc38cf5ac67b67aaa3bd8e70c394a9f267400242f1324a220c35516cc61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5918d69c0b02a2d7c9c3547ea8fa0c33cd1b33ab8ad21f185e50375843c0d1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Garantia
+- Julgamento
+- Processo Penal
+- Responsabilidade Civil
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:490450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado o Dec Lei 39931, de 24-Nov 1954, na redacção do presente diploma, a partir de 16.12.2011, sem prejuízo\
+    \ do disposto no n.º 1 do art. 2.º, pelo DEC LEI.254/2009.24.09.2009.MADRP, DR.IS [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:03Z'
   warnings: []
   errors: []
 ---
@@ -106,28 +130,28 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam revogadas todas as disposições de diplomas legais que concedam garantia administrativa a funcionários públicos, seja qual for a sua classe ou categoria ou o ramo de serviço a que pertençam, designadamente o artigo 412.º do Código Administrativo, o artigo 3.º, n.º 3, do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, o artigo 5.º do regulamento aprovado pelo [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 24 de Novembro de 1954, e o [Decreto n.º 47605](https://diariodarepublica.pt/dr/detalhe/decreto/47605-1967-509262), de 25 de Março de 1967.
+Artigo 1.º Ficam revogadas todas as disposições de diplomas legais que concedam garantia administrativa a funcionários públicos, seja qual for a sua classe ou categoria ou o ramo de serviço a que pertençam, designadamente o artigo 412.º do Código Administrativo, o artigo 3.º, n.º 3, do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, o artigo 5.º do regulamento aprovado pelo [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793), de 24 de Novembro de 1954, e o [Decreto n.º 47605](https://diariodarepublica.pt/dr/detalhe/decreto/47605-1967-509262), de 25 de Março de 1967.
 
-###### Art. 2.º É obrigatória a reabertura dos processos crimes em que tenha sido concedida a garantia administrativa a partir de 11 de Abril de 1933.
+Art. 2.º É obrigatória a reabertura dos processos crimes em que tenha sido concedida a garantia administrativa a partir de 11 de Abril de 1933.
 
-###### Art. 3.º O Ministério da Administração Interna, o Ministério da Economia, pela Secretaria de Estado da Agricultura, e as procuradorias da República informarão os agentes do Ministério Público junto dos tribunais competentes de todos os casos de concessão dessa garantia administrativa.
+Art. 3.º O Ministério da Administração Interna, o Ministério da Economia, pela Secretaria de Estado da Agricultura, e as procuradorias da República informarão os agentes do Ministério Público junto dos tribunais competentes de todos os casos de concessão dessa garantia administrativa.
 
-###### Art. 4.º Independentemente da informação referida no artigo anterior, o agente do Ministério Público dará cumprimento ao disposto no artigo 1.º sempre que:
+Art. 4.º Independentemente da informação referida no artigo anterior, o agente do Ministério Público dará cumprimento ao disposto no artigo 1.º sempre que:
 
 a) Tenha conhecimento directo da existência de tais processos;
 
 b) Seja informado dessa existência por qualquer entidade pública ou particular.
 
-###### Art. 5.º O prazo da prescrição do procedimento criminal pelos crimes objecto de processo em que foi concedida garantia administrativa, bem como o da respectiva responsabilidade civil, considera-se suspenso entre a data em que aquela garantia foi outorgada e a data de reabertura do processo.
+Art. 5.º O prazo da prescrição do procedimento criminal pelos crimes objecto de processo em que foi concedida garantia administrativa, bem como o da respectiva responsabilidade civil, considera-se suspenso entre a data em que aquela garantia foi outorgada e a data de reabertura do processo.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 6 de Fevereiro de 1975.**
+Promulgado em 6 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos.

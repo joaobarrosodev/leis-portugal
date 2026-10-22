@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/461-1976-427132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4c3a3800a0da5f529e9a4a7f4903bfea8e1f206547e7abb5b3298b059dfcdd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0232254a546d7a64e90fd313a0f6d2b2dc6b5d88c66a38dd239637281c105603
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Autorização de Despesas
+- Contrato
+- Definição de Competências
+- Direitos Cívicos
+- Direitos Políticos
+- Fundo de Fomento da Habitação
+- Governo
+- Habitação Social
+relationships:
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:29Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +107,26 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Fica o Governo autorizado, por despacho conjunto dos Ministros das Finanças e da Habitação, Urbanismo e Construção, a ceder, independentemente de concurso, aos cidadãos que eram titulares de contratos de aquisição de casas económicas rescindidos por motivos políticos, uma habitação tanto quanto possível idêntica, na mesma localidade ou naquela para onde o agregado familiar se tenha entretanto transferido.
+Artigo 1.º - 1. Fica o Governo autorizado, por despacho conjunto dos Ministros das Finanças e da Habitação, Urbanismo e Construção, a ceder, independentemente de concurso, aos cidadãos que eram titulares de contratos de aquisição de casas económicas rescindidos por motivos políticos, uma habitação tanto quanto possível idêntica, na mesma localidade ou naquela para onde o agregado familiar se tenha entretanto transferido.
 
 2. Caso não se encontrem disponíveis fogos propriedade do Fundo de Fomento da Habitação susceptíveis de serem afectos ao destino previsto no número anterior, fica aquele organismo autorizado a adquirir no mercado privado os fogos necessários para o referido fim.
 
 3. Para efeito dos números anteriores, os interessados devem requerer a atribuição da casa até ao dia 31 de A gosto de 1976 e a solução alternativa indicada, de aquisição, impor-se-á se o requerente o exigir e se a disponibilidade de fogo de propriedade pública se não verificar até 31 de Dezembro de 1976.
 
-###### Art. 2.º - 1. Se no momento da rescisão do contrato pelos referidos motivos o morador adquirente já tivesse pago o valor contratual da casa, ser-lhe-á passado o termo de quitação após a atribuição mencionada no artigo 1.º
+Art. 2.º - 1. Se no momento da rescisão do contrato pelos referidos motivos o morador adquirente já tivesse pago o valor contratual da casa, ser-lhe-á passado o termo de quitação após a atribuição mencionada no artigo 1.º
 
 2. Se, porém, no momento da rescisão o morador adquirente não tivesse satisfeito a totalidade das prestações, o termo da quitação ser-lhe-á passado logo que seja paga a totalidade das prestações previstas no contrato rescindido, sem qualquer correcção de valor
 
 3. O disposto nos números anteriores não prejudica o cumprimento pelo adquirente de quaisquer obrigações legais aplicáveis ao regime de casas económicas.
 
-###### Art. 3.º O disposto nos artigos anteriores é aplicável, com as necessárias adaptações, aos casos em que, com idênticos fundamentos, tenham sido rescindidos contratos de arrendamento de casas de renda económica.
+Art. 3.º O disposto nos artigos anteriores é aplicável, com as necessárias adaptações, aos casos em que, com idênticos fundamentos, tenham sido rescindidos contratos de arrendamento de casas de renda económica.
 
-###### Art. 4.º As dúvidas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Urbanismo e Construção.
+Art. 4.º As dúvidas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Urbanismo e Construção.
 
 José Baptista Pinheiro de Azevedo - Eduardo Ribeiro Pereira - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 29 de Maio de 1976.**
+Promulgado em 29 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

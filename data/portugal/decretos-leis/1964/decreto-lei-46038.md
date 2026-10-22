@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46038-1964-536578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59a6be37caec7508cc76a1d3f1974e1ffa8ffb827696f8ac13c7672b2db286e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cbd9871d83594775139f514aad5e5fba64c28021e7ba3bbd7c3da9be8e23d9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de ALTA Cultura
+- Ministério da Educação Nacional
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:216349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216349:por
+  label: "Dada nova redacção ao nº 1 do art. 6º e aos arts. 14º e 24º pelo DEC LEI.49457.24.12.1969.MEN, DG.IS [299] de 24.12.1969\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49457-1969-216349
+  date: '1969-12-24'
+- type: cites
+  target: pt:dre:185163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598351:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:11Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +146,9 @@ Instituto de Alta Cultura
 
 #### SECÇÃO I — Fins do Instituto
 
-###### Artigo 1.º O Instituto de Alta Cultura é uma pessoa colectiva de direito público, integrada no Ministério da Educação Nacional, e tem por fim concorrer para o desenvolvimento e aperfeiçoamento da cultura superior e da cultura artística, da investigação científica e das relações culturais com o estrangeiro e difusão da língua e cultura portuguesas.
+Artigo 1.º O Instituto de Alta Cultura é uma pessoa colectiva de direito público, integrada no Ministério da Educação Nacional, e tem por fim concorrer para o desenvolvimento e aperfeiçoamento da cultura superior e da cultura artística, da investigação científica e das relações culturais com o estrangeiro e difusão da língua e cultura portuguesas.
 
-###### Art. 2.º - 1. No que respeita à cultura superior e à cultura artística, são atribuições do Instituto:
+Art. 2.º - 1. No que respeita à cultura superior e à cultura artística, são atribuições do Instituto:
 
 a) Conceder bolsas de estudo, para serem utilizadas dentro ou fora do País, a diplomados, artistas ou estudiosos de comprovada idoneidade moral e intelectual que dêem garantias de útil cooperação ulterior com o Estado;
 
@@ -137,7 +164,7 @@ e) Promover ou auxiliar a realização de exposições artísticas e de cursos o
 
 3. O Instituto poderá equiparar a bolseiros, para subordinação ao regime de bolseiros do Instituto de Alta Cultura e nomeadamente para o efeito declarado no número precedente, os diplomados, artistas ou estudiosos que se encontrem nas condições da alínea a) do n.º 1 do presente artigo e cujo programa de trabalho, de reconhecido proveito para a cultura nacional, exija dispensa temporária, total ou parcial, das suas funções.
 
-###### Art. 3.º No que respeita à investigação científica, são atribuições do Instituto:
+Art. 3.º No que respeita à investigação científica, são atribuições do Instituto:
 
 a) Promover a investigação em todos os domínios da ciência e estimular as vocações que despertem para o trabalho científico;
 
@@ -159,7 +186,7 @@ i) Promover a correlação da investigação científica nacional com as activid
 
 j) Velar, sem prejuízo da autonomia dos estabelecimentos científicos, e de acordo com eles, por que os temas de investigação, pela sua importância, pelo pessoal que se lhes consagra e pelos meios de trabalho, dêem garantias de concorrer para a solução de grandes problemas em quaisquer dos seus aspectos ou para aplicações práticas de alcance nacional.
 
-###### Art. 4.º No que respeita às relações culturais com o estrangeiro e difusão da língua e cultura portuguesas, são atribuições do Instituto:
+Art. 4.º No que respeita às relações culturais com o estrangeiro e difusão da língua e cultura portuguesas, são atribuições do Instituto:
 
 a) Promover o intercâmbio intelectual, científico e cultural, individual ou colectivo, de professores, técnicos e artistas com os países e centros de cultura estrangeiros;
 
@@ -177,11 +204,11 @@ g) Promover ou estimular a tradução e a publicação, em países estrangeiros,
 
 h) Colaborar com outras instituições culturais, nacionais ou estrangeiras, podendo firmar acordo com elas, na execução de quaisquer dos fins definidos nos artigos precedentes.
 
-###### Art. 5.º O Instituto de Alta Cultura e a Junta de Investigações do Ultramar deverão colaborar entre si, em ordem à conveniente coordenação dos seus planos de actividade.
+Art. 5.º O Instituto de Alta Cultura e a Junta de Investigações do Ultramar deverão colaborar entre si, em ordem à conveniente coordenação dos seus planos de actividade.
 
 #### SECÇÃO II — Órgãos do Instituto
 
-###### Art. 6.º - 1. O Instituto desempenha as suas atribuições por intermédio dos seguintes órgãos:
+Art. 6.º - 1. O Instituto desempenha as suas atribuições por intermédio dos seguintes órgãos:
 
 a) Conselho Superior;
 
@@ -199,21 +226,21 @@ f) Secretariado.
 
 3. As deliberações do Instituto estão sujeitas a homologação ministerial.
 
-###### Art. 7.º - 1. O Conselho Superior tem a seu cargo a orientação superior do Instituto e compõe-se de um presidente, de um vice-presidente, de seis vogais e do secretário do Instituto.
+Art. 7.º - 1. O Conselho Superior tem a seu cargo a orientação superior do Instituto e compõe-se de um presidente, de um vice-presidente, de seis vogais e do secretário do Instituto.
 
 2. O vice-presidente tem a incumbência de coadjuvar o presidente no desempenho das suas funções, exercer as atribuições especificadas em despacho ministerial que o presidente nele delegue a título permanente e substituí-lo nas suas faltas ou impedimentos.
 
 3. O Conselho Superior reunirá, ordinàriamente, uma vez por mês e, extraordinàriamente, todas as vezes que o seu presidente o convoque.
 
-###### Art. 8.º - 1. O Conselho de Fomento Cultural, o Conselho de Investigação Científica e o Conselho de Intercâmbio Cultural são órgãos técnicos e consultivos que têm por fim estudar e propor ao Conselho Superior planos e outras providências sobre as actividades definidas respectivamente nos artigos 2.º, 3.º e 4.º, e, bem assim, estudar e informar os processos respeitantes a essas actividades, e compõe-se, cada um deles, de um presidente e de dois vogais, sendo o presidente escolhido de entre os vogais do Conselho Superior.
+Art. 8.º - 1. O Conselho de Fomento Cultural, o Conselho de Investigação Científica e o Conselho de Intercâmbio Cultural são órgãos técnicos e consultivos que têm por fim estudar e propor ao Conselho Superior planos e outras providências sobre as actividades definidas respectivamente nos artigos 2.º, 3.º e 4.º, e, bem assim, estudar e informar os processos respeitantes a essas actividades, e compõe-se, cada um deles, de um presidente e de dois vogais, sendo o presidente escolhido de entre os vogais do Conselho Superior.
 
 2. O presidente ou o vice-presidente do Instituto poderão, sempre que o julguem conveniente, convocar os conselhos técnicos ou comparecer às suas reuniões, assumindo a respectiva presidência; e o secretário do Instituto prestará a esses conselhos a necessária cooperação.
 
 3. Haverá reuniões conjuntas dos três conselhos técnicos, ou de dois deles, ou dos respectivos presidentes, para efeito de coordenação de estudos e propostas. Tais reuniões serão convocadas pelo presidente ou pelo vice-presidente do Instituto, que poderão nesse caso comparecer pessoalmente ou delegar a presidência no mais velho dos presidentes dos referidos conselhos.
 
-###### Art. 9.º O Conselho Executivo tem a seu cargo dar execução às deliberações do Conselho Superior e compõe-se do presidente, do vice-presidente do secretário do Instituto.
+Art. 9.º O Conselho Executivo tem a seu cargo dar execução às deliberações do Conselho Superior e compõe-se do presidente, do vice-presidente do secretário do Instituto.
 
-###### Art. 10.º - 1. O presidente, o vice-presidente e os vogais do Conselho Superior, bem como os vogais dos conselhos técnicos, são nomeados pelo Ministro da Educação Nacional de entre pessoas que tenham dado relevantes provas de interesse pelos assuntos da competência do Instituto. Ao referido Ministro competirá também a escolha dos presidentes dos conselhos técnicos.
+Art. 10.º - 1. O presidente, o vice-presidente e os vogais do Conselho Superior, bem como os vogais dos conselhos técnicos, são nomeados pelo Ministro da Educação Nacional de entre pessoas que tenham dado relevantes provas de interesse pelos assuntos da competência do Instituto. Ao referido Ministro competirá também a escolha dos presidentes dos conselhos técnicos.
 
 2. As nomeações são feitas por três anos, e renováveis por iguais períodos; mas o Ministro pode, em qualquer momento, substituir as pessoas nomeadas por outras.
 
@@ -221,11 +248,11 @@ f) Secretariado.
 
 4. O presidente do Instituto manterá na hierarquia dos funcionários do Ministério da Educação Nacional o lugar imediato ao do presidente da Junta Nacional da Educação. De futuro, não exercerá o cargo durante mais de nove anos seguidos.
 
-###### Art. 11.º - 1. Os conselhos do Instituto, através do secretário deste, deverão ouvir as entidades que possam fornecer-lhes elementos ou esclarecimentos úteis sobre os assuntos de que têm de se ocupar. Serão ouvidas, nomeadamente, as Universidades, os Estudos Gerais Universitários, a Academia das Ciências de Lisboa, a Academia Nacional de Belas-Artes e a Academia Portuguesa da História.
+Art. 11.º - 1. Os conselhos do Instituto, através do secretário deste, deverão ouvir as entidades que possam fornecer-lhes elementos ou esclarecimentos úteis sobre os assuntos de que têm de se ocupar. Serão ouvidas, nomeadamente, as Universidades, os Estudos Gerais Universitários, a Academia das Ciências de Lisboa, a Academia Nacional de Belas-Artes e a Academia Portuguesa da História.
 
 2. Os aludidos conselhos poderão, do mesmo modo, convidar a colaborar nos seus trabalhos delegados das instituições a que se refere o número anterior e outras individualidades de reconhecida competência.
 
-###### Art. 12.º - 1. O serviço prestado pelos membros dos conselhos que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
+Art. 12.º - 1. O serviço prestado pelos membros dos conselhos que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
 
 2. Aos membros dos conselhos que em serviço do Instituto se ausentarem da sua residência serão abonadas as despesas de transporte e ajudas de custo. A importância destas últimas será fixada pelos Ministros das Finanças e da Educação Nacional, sempre que não se trate de funcionários públicos.
 
@@ -233,9 +260,9 @@ f) Secretariado.
 
 4. O presidente e o vice-presidente do Instituto, quando professores, poderão ser dispensados do exercício das funções docentes.
 
-###### Art. 13.º O secretário do Instituto é coadjuvado por um secretário-adjunto, que assegurará a direcção dos serviços do Secretariado e a publicação regular do Anuário do Instituto.
+Art. 13.º O secretário do Instituto é coadjuvado por um secretário-adjunto, que assegurará a direcção dos serviços do Secretariado e a publicação regular do Anuário do Instituto.
 
-###### Art. 14.º - 1. O secretário e o secretário-adjunto são nomeados pelo Ministro da Educação Nacional, o primeiro de entre professores do ensino superior ou doutores, o segundo de entre licenciados.
+Art. 14.º - 1. O secretário e o secretário-adjunto são nomeados pelo Ministro da Educação Nacional, o primeiro de entre professores do ensino superior ou doutores, o segundo de entre licenciados.
 
 2. A nomeação far-se-á pelo período de um ano, findo o qual o nomeado cessará as suas funções ou será provido definitivamente.
 
@@ -245,17 +272,17 @@ f) Secretariado.
 
 #### SECÇÃO III — Património do Instituto
 
-###### Art. 15.º - 1. O Instituto goza de capacidade de adquirir, administrar e alienar bens, e pode exercer os direitos civis relativos aos interesses que representa, tudo nos termos das leis e regulamentos aplicáveis.
+Art. 15.º - 1. O Instituto goza de capacidade de adquirir, administrar e alienar bens, e pode exercer os direitos civis relativos aos interesses que representa, tudo nos termos das leis e regulamentos aplicáveis.
 
 2. A aquisição de bens pelo Instituto acha-se isenta de toda e qualquer tributação.
 
-###### Art. 16.º - 1. O Instituto pode aceitar qualquer liberalidade que lhe seja feita em vida ou por morte; mas deverá fazer a aceitação a benefício de inventário, mediante prévia autorização dos Ministros das Finanças e da Educação Nacional, se a liberalidade for acompanhada de encargo ou encargos estranhos aos fins do Instituto.
+Art. 16.º - 1. O Instituto pode aceitar qualquer liberalidade que lhe seja feita em vida ou por morte; mas deverá fazer a aceitação a benefício de inventário, mediante prévia autorização dos Ministros das Finanças e da Educação Nacional, se a liberalidade for acompanhada de encargo ou encargos estranhos aos fins do Instituto.
 
 2. Quando seja impossível ou manifestamente inconveniente satisfazer o encargo ou encargos impostos pelo autor da liberalidade, através da aplicação dos bens aos fins culturais por este determinados, poderá o Governo, mediante decreto fundamentado, autorizar a aplicação a outros fins, tanto quanto possível aproximados dos primeiros.
 
 3. Não se mostrando conveniente a conservação dos bens em espécie, serão eles vendidos e convertido o preço em títulos de dívida pública, mediante prévia autorização dos Ministros das Finanças e da Educação Nacional, salvo se a liberalidade for acompanhada de encargo incompatível com essa venda.
 
-###### Art. 17.º - 1. Constituem receitas do Instituto:
+Art. 17.º - 1. Constituem receitas do Instituto:
 
 a) As dotações e subsídios que o Estado, as províncias ultramarinas, as autarquias locais ou quaisquer entidades públicas ou particulares lhe concedam, quer para os fins gerais, quer para fins específicos que caibam no âmbito dos primeiros;
 
@@ -267,19 +294,19 @@ d) As receitas provenientes de cursos remunerados ou de serviços que eventualme
 
 2. A aplicação das dotações orçamentais e das demais receitas do Instituto continua sujeita às disposições em vigor das leis e regulamentos sobre contabilidade pública que no caso tiverem cabimento.
 
-###### Art. 18.º - 1. O Instituto goza de autonomia administrativa e tem um conselho administrativo, constituído pelo presidente, pelo secretário e pelo secretário-adjunto.
+Art. 18.º - 1. O Instituto goza de autonomia administrativa e tem um conselho administrativo, constituído pelo presidente, pelo secretário e pelo secretário-adjunto.
 
 2. O conselho administrativo reunirá, ordinàriamente, duas vezes por mês e, extraordinàriamente, sempre que o presidente do Instituto o convoque.
 
 3. Quando o presidente assim o determinar, participarão nas sessões do conselho outro ou outros funcionários do Instituto, mas sem voto.
 
-###### Art. 19.º - 1. O Instituto depositará na Caixa Geral de Depósitos, Crédito e Previdência todas as importâncias em dinheiro que receber, provenham do Estado ou de outra origem, e fará por meio de cheques todos os pagamentos que tenha de efectuar.
+Art. 19.º - 1. O Instituto depositará na Caixa Geral de Depósitos, Crédito e Previdência todas as importâncias em dinheiro que receber, provenham do Estado ou de outra origem, e fará por meio de cheques todos os pagamentos que tenha de efectuar.
 
 2. Os depósitos a que se refere o número anterior serão sempre feitos em nome do Instituto de Alta Cultura e a sua movimentação continuará isenta de imposto do selo e de prémio de transferência.
 
 #### SECÇÃO IV — Pessoal do Instituto
 
-###### Art. 20. - 1. O quadro do pessoal do Instituto de Alta Cultura continua integrado, para todos os efeitos legais, no quadro da Secretaria-Geral do Ministério da Educação Nacional, constante do mapa I anexo ao [Decreto-Lei n.º 36411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36411-1947-185163), de 12 de Julho de 1947, e é constituído da seguinte forma:
+Art. 20. - 1. O quadro do pessoal do Instituto de Alta Cultura continua integrado, para todos os efeitos legais, no quadro da Secretaria-Geral do Ministério da Educação Nacional, constante do mapa I anexo ao [Decreto-Lei n.º 36411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36411-1947-185163), de 12 de Julho de 1947, e é constituído da seguinte forma:
 
 a) Pessoal administrativo:
 
@@ -307,24 +334,24 @@ b) Pessoal menor:
 
 2. No lugar de chefe de secção, correspondente ao anterior lugar de chefe de secretaria, será colocado o actual titular, com dispensa de quaisquer formalidades.
 
-###### Art. 21.º O chefe de secção é livremente nomeado pelo Ministro de entre diplomados com um curso superior ou de entre funcionários do Ministério com categoria igual ou superior à de primeiro-oficial e compete-lhe coadjuvar o secretário-adjunto no que por este for determinado, designadamente na recolha e ordenação de todos os elementos necessários à publicação do Anuário do Instituto.
+Art. 21.º O chefe de secção é livremente nomeado pelo Ministro de entre diplomados com um curso superior ou de entre funcionários do Ministério com categoria igual ou superior à de primeiro-oficial e compete-lhe coadjuvar o secretário-adjunto no que por este for determinado, designadamente na recolha e ordenação de todos os elementos necessários à publicação do Anuário do Instituto.
 
-###### Art. 22.º O primeiro-oficial tem a seu cargo a organização e execução dos serviços de contabilidade e é o responsável imediato pela observância do disposto no artigo 4.º do [Decreto-Lei n.º 34332](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34332-1944-568711), de 27 de Dezembro de 1944.
+Art. 22.º O primeiro-oficial tem a seu cargo a organização e execução dos serviços de contabilidade e é o responsável imediato pela observância do disposto no artigo 4.º do [Decreto-Lei n.º 34332](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34332-1944-568711), de 27 de Dezembro de 1944.
 
-###### Art. 23.º As funções de tesoureiro são exercidas cumulativamente pelo segundo-oficial que o Ministro da Educação Nacional designe para o o efeito, sobre proposta do Conselho Superior, pertencendo-lhe o abono legal para falhas.
+Art. 23.º As funções de tesoureiro são exercidas cumulativamente pelo segundo-oficial que o Ministro da Educação Nacional designe para o o efeito, sobre proposta do Conselho Superior, pertencendo-lhe o abono legal para falhas.
 
-###### Art. 24.º O serviço de correspondência em línguas estrangeiras é assegurado, em regime de prestação eventual de serviços, por pessoa ou pessoas de especial competência, da escolha do secretário, homologada pelo Ministro da Educação Nacional, e remunerado nos termos estabelecidos em despacho do Ministro, sobre proposta do secretário.
+Art. 24.º O serviço de correspondência em línguas estrangeiras é assegurado, em regime de prestação eventual de serviços, por pessoa ou pessoas de especial competência, da escolha do secretário, homologada pelo Ministro da Educação Nacional, e remunerado nos termos estabelecidos em despacho do Ministro, sobre proposta do secretário.
 
-###### Art. 25.º Os leitores, bolseiros ou comissionados do Instituto de Alta Cultura que forem funcionários públicos conservam os seus vencimentos, pagos pelos respectivos serviços, e, bem assim, as regalias inerentes aos seus cargos, incluindo, se tiverem boa informação do Instituto, a contagem de tempo para efeito de diuturnidades.
+Art. 25.º Os leitores, bolseiros ou comissionados do Instituto de Alta Cultura que forem funcionários públicos conservam os seus vencimentos, pagos pelos respectivos serviços, e, bem assim, as regalias inerentes aos seus cargos, incluindo, se tiverem boa informação do Instituto, a contagem de tempo para efeito de diuturnidades.
 
 #### SECÇÃO V — Disposições diversas
 
-###### Art. 26.º - 1. Dentro do prazo de 90 dias, a contar da publicação deste decreto-lei, o Instituto de Alta Cultura elaborará e submeterá a aprovação ministerial o regulamento ou regulamentos necessários à sua inteira execução.
+Art. 26.º - 1. Dentro do prazo de 90 dias, a contar da publicação deste decreto-lei, o Instituto de Alta Cultura elaborará e submeterá a aprovação ministerial o regulamento ou regulamentos necessários à sua inteira execução.
 
 2. Enquanto não forem publicados esses regulamentos, continuará em vigor, na parte aplicável, a legislação anterior que não contrarie o espírito do presente diploma.
 
 3. Fica revogado o [Decreto-Lei n.º 38680](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38680-1952-598351), de 17 de Março de 1952, salvas as disposições transitórias dos seus artigos 27.º e 32.º, na medida em que ainda forem aplicáveis.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

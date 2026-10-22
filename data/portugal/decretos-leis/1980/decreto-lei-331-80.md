@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1980-469777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd1df5c165c1805e1ee4347999d5750e0b8ac0d9eaa97c7c88cb137561dd1407
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dad5f7378e7ab6494df0d89e84070e8cbc2da165b03dbd7babe6c8aeceb40d39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Honras Militares
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:579971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579971:por
+  label: "Alterados os arts. 11.º, 18.º, 21.º, 31.º, 38.º, 40.º, 41.º, 44.º, 45.º, 47.º, 59.º, 60.º, 63.º, 69.º, 71.º, 77.º,\
+    \ 79.º, 81.º, 94.º, 97.º, 98.º, 111.º, 115.º, 116.º, 121.º, 138.º, 148.º, 163.º e os quadros B, C, D e E anexos ao presente\
+    \ diploma, pelo DEC LEI.214/81.16.07.1981.CR, DR.IS [161] de 16.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1981-579971
+  date: '1981-07-16'
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686670:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:04Z'
   warnings: []
   errors: []
 ---
@@ -91,23 +116,23 @@ de 28 de Agosto
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado e posto em execução o Regulamento de Continências e Honras Militares, que faz parte integrante deste decreto-lei.
+Artigo 1.º É aprovado e posto em execução o Regulamento de Continências e Honras Militares, que faz parte integrante deste decreto-lei.
 
-###### Art. 2.º É revogado o Regulamento de Continências e Honras Militares para o Exército e para a Armada, aprovado pelo [Decreto n.º 26381](https://diariodarepublica.pt/dr/detalhe/decreto/26381-1936-686670), de 29 de Fevereiro de 1936.
+Art. 2.º É revogado o Regulamento de Continências e Honras Militares para o Exército e para a Armada, aprovado pelo [Decreto n.º 26381](https://diariodarepublica.pt/dr/detalhe/decreto/26381-1936-686670), de 29 de Fevereiro de 1936.
 
 Visto e aprovado em Conselho da Revolução em 9 de Junho de 1980.
 
-**Promulgado em 18 de Junho de 1980.**
+Promulgado em 18 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DE CONTINÊNCIAS E HONRAS MILITARES
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - A continência constitui a forma tradicional e obrigatória de saudação e de reconhecimento entre militares.
+Artigo 1.º - 1 - A continência constitui a forma tradicional e obrigatória de saudação e de reconhecimento entre militares.
 
 2 - Os militares hierarquicamente inferiores saúdam primeiro.
 
@@ -115,7 +140,7 @@ REGULAMENTO DE CONTINÊNCIAS E HONRAS MILITARES
 
 4 - Os militares uniformizados poderão fazer a continência para saudar indivíduos civis.
 
-###### Art. 2.º - 1 - A continência do militar desarmado é feita de cabeça levantada, dirigindo natural e francamente a cara para quem a recebe.
+Art. 2.º - 1 - A continência do militar desarmado é feita de cabeça levantada, dirigindo natural e francamente a cara para quem a recebe.
 
 Com um gesto vivo, eleva-se a mão direita aberta, no prolongamento do antebraço, com os dedos estendidos e unidos de modo que a última falange do indicador vá ficar a tocar no sobrolho direito ou no ponto correspondente da cobertura da cabeça, com a palma um pouco inclinada para baixo, o braço sensivelmente horizontal e no alinhamento dos ombros.
 
@@ -123,7 +148,7 @@ Com um gesto vivo, eleva-se a mão direita aberta, no prolongamento do antebraç
 
 3 - Os mutilados, estropiados ou acidentados, quando incapacitados de observar as disposições anteriores, tomarão uma atitude respeitosa.
 
-###### Art. 3.º A continência do militar armado é feita das seguintes formas:
+Art. 3.º A continência do militar armado é feita das seguintes formas:
 
 1) Com espada:
 
@@ -147,41 +172,41 @@ Ombro-arma;
 
 Sentido.
 
-###### Art. 4.º Quando as continências aplicáveis a que se referem os artigos 2.º e 3.º sejam feitas em andamento, além do que ali se preceitua, procede-se pelo modo seguinte:
+Art. 4.º Quando as continências aplicáveis a que se referem os artigos 2.º e 3.º sejam feitas em andamento, além do que ali se preceitua, procede-se pelo modo seguinte:
 
 1) Roda-se francamente a cabeça para o respectivo flanco, retomando a posição anterior ao desfazer a continência;
 
 2) O inferior hierárquico, se necessário, afasta-se lateralmente por forma a evitar que da continência resulte o contacto dos respectivos braços.
 
-###### Art. 5.º - 1 - A continência é iniciada por forma que o superior possa aperceber-se da sua execução e corresponder-lhe em tempo.
+Art. 5.º - 1 - A continência é iniciada por forma que o superior possa aperceber-se da sua execução e corresponder-lhe em tempo.
 
 2 - No caso da continência ao Estandarte Nacional e ao Presidente da República, é iniciada a cerca de 10 m e termina passados cerca de 5 m.
 
-###### Art. 6.º - 1 - O superior tem por obrigação corresponder à continência ou ao cumprimento que lhe for feito, excepto quando estiver em formatura que não comande.
+Art. 6.º - 1 - O superior tem por obrigação corresponder à continência ou ao cumprimento que lhe for feito, excepto quando estiver em formatura que não comande.
 
 2 - Quando se acharem reunidos informalmente diversos superiores, a continência ou cumprimento do inferior hierárquico é dirigida a todos e como tal deverá ser por todos correspondida.
 
 3 - Em cerimónias militares, a continência ou cumprimento é dirigida a quem presida e, portanto, correspondida apenas pela respectiva entidade.
 
-###### Art. 7.º - 1 - A continência é prestada a todos os oficiais e sargentos.
+Art. 7.º - 1 - A continência é prestada a todos os oficiais e sargentos.
 
 2 - Para efeitos de continências e honras militares, os militares graduados em qualquer posto têm os mesmos direitos e deveres dos que possuem esse posto.
 
-###### Art. 8.º Os cadetes dos estabelecimentos de ensino superior militar não têm direito a quaisquer honras (salvo as honras fúnebres - quadro D do capítulo IX) nem a continência, mas, quanto a esta, fazem-na a todas as patentes a partir de aspirante a oficial, inclusive.
+Art. 8.º Os cadetes dos estabelecimentos de ensino superior militar não têm direito a quaisquer honras (salvo as honras fúnebres - quadro D do capítulo IX) nem a continência, mas, quanto a esta, fazem-na a todas as patentes a partir de aspirante a oficial, inclusive.
 
 Contudo, são considerados de categoria imediatamente inferior a aspirante a oficial e como tal são-lhes aplicadas as disposições contidas nos n.os 4 e 5 do artigo 18.º no que diga respeito à ocupação de lugares.
 
-###### Art. 9.º Nas forças armadas, os graus de hierarquia militar, para efeitos de continências e honras militares, agrupam-se como consta do quadro seguinte:
+Art. 9.º Nas forças armadas, os graus de hierarquia militar, para efeitos de continências e honras militares, agrupam-se como consta do quadro seguinte:
 
 QUADRO A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
 
-###### Art. 10.º - 1 - A Bandeira, o Estandarte e o Hino Nacionais, como símbolos da Pátria, estão acima de toda a hierarquia militar. Todos os militares têm, portanto, a obrigação de lhes fazer a continência, quando uniformizados, e de se descobrirem e perfilarem, quando em trajo civil, nas circunstâncias previstas nos artigos 52.º e 56.º
+Art. 10.º - 1 - A Bandeira, o Estandarte e o Hino Nacionais, como símbolos da Pátria, estão acima de toda a hierarquia militar. Todos os militares têm, portanto, a obrigação de lhes fazer a continência, quando uniformizados, e de se descobrirem e perfilarem, quando em trajo civil, nas circunstâncias previstas nos artigos 52.º e 56.º
 
 2 - O Presidente da República tem direito a iguais saudações.
 
-###### Art. 11.º - 1 - Em terra, os Chefes de Estado estrangeiros ou os embaixadores que oficialmente os representem e os membros de famílias reais reinantes que oficialmente representem os respectivos monarcas têm direito a honras iguais às prestadas ao Presidente da República.
+Art. 11.º - 1 - Em terra, os Chefes de Estado estrangeiros ou os embaixadores que oficialmente os representem e os membros de famílias reais reinantes que oficialmente representem os respectivos monarcas têm direito a honras iguais às prestadas ao Presidente da República.
 
 2 - O Presidente da Assembleia da República, o Primeiro-Ministro, o Presidente do Supremo Tribunal de Justiça, os membros do Governo e os ministros plenipotenciários estrangeiros, quando em actos oficiais previamente anunciados, têm direito às honras constantes do quadro B do capítulo V do presente Regulamento.
 
@@ -193,7 +218,7 @@ QUADRO A
 
 6 - Nos navios de guerra deve observar-se o que sobre o assunto estatui a Ordenança do Serviço Naval.
 
-###### Art. 12.º - 1 - Aos oficiais comandantes de unidades e estabelecimentos militares, quer efectivos quer interinos, uniformizados ou trajando civilmente, são devidos, diariamente, à primeira entrada e última saída da sua unidade, entre as horas do içar e do arriar da Bandeira, a guarda formada e o toque de sentido, seguido do sinal respectivo, sempre que sejam das categorias 1.ª e 2.ª do quadro A (artigo 9.º).
+Art. 12.º - 1 - Aos oficiais comandantes de unidades e estabelecimentos militares, quer efectivos quer interinos, uniformizados ou trajando civilmente, são devidos, diariamente, à primeira entrada e última saída da sua unidade, entre as horas do içar e do arriar da Bandeira, a guarda formada e o toque de sentido, seguido do sinal respectivo, sempre que sejam das categorias 1.ª e 2.ª do quadro A (artigo 9.º).
 
 Os comandantes de fracções destacadas de unidades, quando da categoria 2.ª do quadro A (artigo 9.º), têm direito às mesmas honras.
 
@@ -207,13 +232,13 @@ Em qualquer dos casos os oficiais de serviço deverão apresentar-se ao comandan
 
 4 - Nos navios de guerra seguir-se-á o que determinar a Ordenança do Serviço Naval.
 
-###### Art. 13.º Os militares, quer fardados quer em trajo civil, deverão cumprimentar todos os seus superiores hierárquicos, mesmo que estes não estejam uniformizados, desde que os reconheçam ou logo que eles se identifiquem.
+Art. 13.º Os militares, quer fardados quer em trajo civil, deverão cumprimentar todos os seus superiores hierárquicos, mesmo que estes não estejam uniformizados, desde que os reconheçam ou logo que eles se identifiquem.
 
-###### Art. 14.º Um militar acompanhando um superior hierárquico uniformizado só presta continência às hierarquias a quem esse superior a fizer.
+Art. 14.º Um militar acompanhando um superior hierárquico uniformizado só presta continência às hierarquias a quem esse superior a fizer.
 
 Quando o referido superior trajar civilmente, o militar presta continência às hierarquias superiores à sua e corresponde às continências que lhe forem dirigidas.
 
-###### Art. 15.º O tratamento entre militares é regido pelos seguintes preceitos:
+Art. 15.º O tratamento entre militares é regido pelos seguintes preceitos:
 
 1) Na Armada. - Cabe aos almirantes da Armada, almirantes vice-almirantes e contra-almirantes a designação abreviada de «almirante», competindo a de «comandante» aos oficiais exercendo funções de comando e aos oficiais superiores quando, pelas funções que desempenham, lhes não deva ser dado outro tratamento.
 
@@ -251,11 +276,11 @@ O inferior, falando a superior hierárquico, designa-o pelo posto ou função qu
 
 Os oficiais da categoria 1.ª do quadro A (artigo 9.º) têm direito ao tratamento de «excelência».
 
-###### Art. 16.º O militar não tem o direito de dispensar as honras devidas ao seu posto ou cargo, a não ser em casos em que as circunstâncias o justifiquem.
+Art. 16.º O militar não tem o direito de dispensar as honras devidas ao seu posto ou cargo, a não ser em casos em que as circunstâncias o justifiquem.
 
 ### CAPÍTULO II — Continências e deferências dos militares isolados
 
-###### Art. 17.º - 1 - O militar desarmado faz a continência quer a pé firme quer em marcha.
+Art. 17.º - 1 - O militar desarmado faz a continência quer a pé firme quer em marcha.
 
 2 - Armado com sabre-baioneta, punhal, espada embainhada, pistola, espingarda ou pistola-metralhadora em bandoleira, a tiracolo ou recolhida faz a continência como se estivesse desarmado.
 
@@ -275,7 +300,7 @@ Se tem as mãos impedidas, toma uma atitude respeitosa, dirigindo natural e fran
 
 9 - Nos agrupamentos de militares sem constituírem formatura, o militar presente que primeiro avistar um superior de qualquer das categorias do quadro A (artigo 9.º) que se aproxima anuncia-o em voz alta, indicando-o pelo seu posto ou cargo, a fim de que por todos possa ser individualmente prestada a continência a que o mesmo tem direito.
 
-###### Art. 18.º O militar deve usar sempre de todas as deferências para com os seus superiores hierárquicos, nomeadamente:
+Art. 18.º O militar deve usar sempre de todas as deferências para com os seus superiores hierárquicos, nomeadamente:
 
 1) Não fumar diante do superior sem obter a devida autorização;
 
@@ -299,21 +324,21 @@ Nas embarcações os lugares de honra são, por ordem decrescente:
 
 6) Em acto de serviço, não montar ou embarcar nem se apear, de cavalo ou viatura, sem pedir licença ao superior presente.
 
-###### Art. 19.º O militar a quem o superior se dirigir toma imediatamente a posição de sentido e faz a continência. Mantém a posição de sentido enquanto o superior se não retirar ou o autorizar a tomar outra posição. Quando o superior se retirar, volta a prestar-lhe a continência.
+Art. 19.º O militar a quem o superior se dirigir toma imediatamente a posição de sentido e faz a continência. Mantém a posição de sentido enquanto o superior se não retirar ou o autorizar a tomar outra posição. Quando o superior se retirar, volta a prestar-lhe a continência.
 
-###### Art. 20.º O militar desarmado a pé firme toma a posição de sentido, volve por forma a tomar a frente paralela à direcção seguida por quem tenha de cumprimentar e faz a continência. Durante o desfile de qualquer força militar procede da mesma forma, conservando-se, porém, em sentido até escoamento da mesma. Faz a continência ao Estandarte Nacional e ao comandante da força, quando for seu superior e a ela tenha direito.
+Art. 20.º O militar desarmado a pé firme toma a posição de sentido, volve por forma a tomar a frente paralela à direcção seguida por quem tenha de cumprimentar e faz a continência. Durante o desfile de qualquer força militar procede da mesma forma, conservando-se, porém, em sentido até escoamento da mesma. Faz a continência ao Estandarte Nacional e ao comandante da força, quando for seu superior e a ela tenha direito.
 
-###### Art. 21.º O militar desarmado em marcha faz a continência sem interromper o movimento, excepto quando ao Estandarte e ao Presidente da República, casos em que interrompe a marcha e volve por forma a tomar a frente paralela à direcção seguida por aquele símbolo ou entidade.
+Art. 21.º O militar desarmado em marcha faz a continência sem interromper o movimento, excepto quando ao Estandarte e ao Presidente da República, casos em que interrompe a marcha e volve por forma a tomar a frente paralela à direcção seguida por aquele símbolo ou entidade.
 
-###### Art. 22.º O militar desarmado, quer a pé firme quer em marcha, estando de cabeça descoberta, não faz a continência.
+Art. 22.º O militar desarmado, quer a pé firme quer em marcha, estando de cabeça descoberta, não faz a continência.
 
 Se estiver em movimento toma uma atitude respeitosa, dirigindo natural e francamente a cara para quem recebe o cumprimento.
 
 No restante observa o preceituado nos artigos 19.º, 20.º e 21.º
 
-###### Art. 23.º Quando o Estandarte Nacional ou o Presidente da República estiverem parados, o militar desarmado em marcha, ao chegar em frente daquele símbolo ou entidade, pára, volve ao flanco, presta a continência e retoma a marcha.
+Art. 23.º Quando o Estandarte Nacional ou o Presidente da República estiverem parados, o militar desarmado em marcha, ao chegar em frente daquele símbolo ou entidade, pára, volve ao flanco, presta a continência e retoma a marcha.
 
-###### Art. 24.º - 1 - O militar armado a pé firme faz as seguintes continências:
+Art. 24.º - 1 - O militar armado a pé firme faz as seguintes continências:
 
 a) Apresentar-arma: à Bandeira e ao Estandarte Nacionais, ao Presidente da República, aos oficiais das categorias 1.ª e 2.ª do quadro A (artigo 9.º) e às outras entidades constantes do quadro B (capítulo V), mas a estas apenas nas condições fixadas no referido quadro;
 
@@ -325,15 +350,15 @@ d) Funeral-arma: à passagem de qualquer féretro.
 
 2 - Durante o desfile de qualquer força toma a posição de sentido (inclinar-arma), prestando ao comandante da força as continências indicadas no número anterior deste artigo.
 
-###### Art. 25.º O militar armado e em marcha faz a continência a todas as patentes do quadro A (artigo 9.º) superiores à sua. À passagem de qualquer força militar faz continência ao comandante da força, de acordo com a sua categoria hierárquica. Ao Estandarte Nacional e ao Presidente da República faz alto e a continência a pé firme.
+Art. 25.º O militar armado e em marcha faz a continência a todas as patentes do quadro A (artigo 9.º) superiores à sua. À passagem de qualquer força militar faz continência ao comandante da força, de acordo com a sua categoria hierárquica. Ao Estandarte Nacional e ao Presidente da República faz alto e a continência a pé firme.
 
-###### Art. 26.º - 1 - Quando um militar tenha de se dirigir a um superior hierárquico, aproxima-se a uma distância que lhe permita ser ouvido e pára. Menciona-o pela identidade de acordo com o preceituado no artigo 15.º, ao mesmo tempo que pede licença e faz a continência. Obtida a licença, avança até cerca de dois passos do superior e coloca-se na sua frente.
+Art. 26.º - 1 - Quando um militar tenha de se dirigir a um superior hierárquico, aproxima-se a uma distância que lhe permita ser ouvido e pára. Menciona-o pela identidade de acordo com o preceituado no artigo 15.º, ao mesmo tempo que pede licença e faz a continência. Obtida a licença, avança até cerca de dois passos do superior e coloca-se na sua frente.
 
 Para se retirar pede licença ao mesmo tempo que efectua a continência; em seguida volve para o lado em que vai seguir e retira.
 
 2 - Quando o referido superior estiver na presença de algum militar mais graduado ou mais antigo, terá, para atender o inferior hierárquico, de previamente pedir licença, procedendo de igual modo quando este se retirar.
 
-###### Art. 27.º - 1 - O militar armado que não estiver em formatura permanece em ombro-arma enquanto na presença do superior, se este for das categorias 1.ª, 2.ª ou 3.ª do quadro A (artigo 9.º), e em sentido, se for da categoria 4.ª do mesmo quadro.
+Art. 27.º - 1 - O militar armado que não estiver em formatura permanece em ombro-arma enquanto na presença do superior, se este for das categorias 1.ª, 2.ª ou 3.ª do quadro A (artigo 9.º), e em sentido, se for da categoria 4.ª do mesmo quadro.
 
 2 - Estando em formatura e sendo da categoria 4.ª do referido quadro ou de categoria inferior, o militar armado toma sempre a posição de sentido quando um superior se lhe dirija, o qual toma igualmente esta posição.
 
@@ -345,17 +370,17 @@ Para esta categoria ou inferior, o superior conserva-se sempre na posição de s
 
 b) Os militares das categorias 1.ª, 2.ª e 3.ª do mesmo quadro, quer em formatura quer fora dela, conservam a espada abatida enquanto os de graduação igual ou superior lhes estiverem falando.
 
-###### Art. 28.º O superior recebe na posição de sentido a apresentação de um inferior hierárquico, conservando-se também nesta posição os que se encontrem na proximidade imediata.
+Art. 28.º O superior recebe na posição de sentido a apresentação de um inferior hierárquico, conservando-se também nesta posição os que se encontrem na proximidade imediata.
 
-###### Art. 29.º Os militares armados nunca se descobrem.
+Art. 29.º Os militares armados nunca se descobrem.
 
-###### Art. 30.º Os militares uniformizados desarmados descobrem-se apenas:
+Art. 30.º Os militares uniformizados desarmados descobrem-se apenas:
 
 1) Quando entrem em locais onde for de uso os civis descobrirem-se;
 
 2) Quando em actos públicos de culto em que tomem parte, fora dos actos de serviço, seguindo, para este efeito, as mesmas regras da população civil.
 
-###### Art. 31.º - 1 - As sentinelas fazem as continências prescritas nos artigos anteriores para o militar armado a pé firme e sempre que seja possível, no armado a pé firme e, sempre que seja possível, as sentinelas param no ponto onde estiverem, tomando a frente do posto de sentinela e fazendo a continência.
+Art. 31.º - 1 - As sentinelas fazem as continências prescritas nos artigos anteriores para o militar armado a pé firme e sempre que seja possível, no armado a pé firme e, sempre que seja possível, as sentinelas param no ponto onde estiverem, tomando a frente do posto de sentinela e fazendo a continência.
 
 2 - As sentinelas dobradas executam os movimentos simultaneamente, regulando-se a da esquerda pela da direita.
 
@@ -383,11 +408,11 @@ b) À passagem de qualquer féretro executarão o movimento de funeral-arma;
 
 c) Durante o desfile de qualquer cortejo religioso tomam a posição de sentido.
 
-###### Art. 32.º Os militares, quer em marcha quer a pé firme, encontrando-se ou não de sentinela, perante a dificuldade de se certificarem, com oportunidade, da categoria de um superior hierárquico, nomeadamente por este se deslocar num meio rápido de transporte, prestam sempre a continência, sendo contudo admissível que essa continência seja inferior à que lhe seria devida.
+Art. 32.º Os militares, quer em marcha quer a pé firme, encontrando-se ou não de sentinela, perante a dificuldade de se certificarem, com oportunidade, da categoria de um superior hierárquico, nomeadamente por este se deslocar num meio rápido de transporte, prestam sempre a continência, sendo contudo admissível que essa continência seja inferior à que lhe seria devida.
 
-###### Art. 33.º As sentinelas das armas das guardas de honra só bradam às armas às hierarquias iguais ou superiores àquela para quem a guarda foi postada.
+Art. 33.º As sentinelas das armas das guardas de honra só bradam às armas às hierarquias iguais ou superiores àquela para quem a guarda foi postada.
 
-###### Art. 34.º Nos estacionamentos (acampamento, bivaque ou acantonamento) as sentinelas das armas só bradam às armas nos seguintes casos:
+Art. 34.º Nos estacionamentos (acampamento, bivaque ou acantonamento) as sentinelas das armas só bradam às armas nos seguintes casos:
 
 Às forças armadas ou desarmadas de qualquer efectivo ou comando;
 
@@ -395,43 +420,43 @@ Ao içar e ao arriar da Bandeira.
 
 ### CAPÍTULO III — Continências das forças militares
 
-###### Art. 35.º - 1 - Para efeito de continências, considera-se força a que tiver um efectivo mínimo de duas praças devidamente comandadas e as rondas militares às guarnições.
+Art. 35.º - 1 - Para efeito de continências, considera-se força a que tiver um efectivo mínimo de duas praças devidamente comandadas e as rondas militares às guarnições.
 
 2 - Para o mesmo efeito considera-se desarmada a força que não leva arma alguma ou que as leva como indica o n.º 2 do artigo 17.º
 
-###### Art. 36.º - 1 - Qualquer força faz continência à Bandeira, ao Estandarte e ao Hino Nacionais, ao Presidente da República, às entidades conforme se fixa no quadro B (capítulo V), aos militares de hierarquia superior à do comandante da força e ainda a outras forças, excepto a escoltas conduzindo presos, as quais não prestam nem correspondem a continências.
+Art. 36.º - 1 - Qualquer força faz continência à Bandeira, ao Estandarte e ao Hino Nacionais, ao Presidente da República, às entidades conforme se fixa no quadro B (capítulo V), aos militares de hierarquia superior à do comandante da força e ainda a outras forças, excepto a escoltas conduzindo presos, as quais não prestam nem correspondem a continências.
 
 2 - Quando qualquer força estacionada ou em marcha, armada ou não, se encontre com outra força em local em que esteja presente alguma das entidades mencionadas nas alíneas a), b) e c) do n.º 3 do artigo 31.º ou o comandante da sua unidade, a continência é prestada de preferência à entidade em causa.
 
 3 - Qualquer força que passar por uma unidade, estabelecimento militar ou local onde se esteja içando ou arriando a Bandeira Nacional com honras militares faz continência à direita ou à esquerda, não suspendendo a marcha, a não ser que tenha o caminho impedido, caso em que faz alto e volve ao flanco até final da prestação das honras militares.
 
-###### Art. 37.º - 1 - A força de efectivo até pelotão, estacionada ou em marcha, faz continência à voz do respectivo comandante.
+Art. 37.º - 1 - A força de efectivo até pelotão, estacionada ou em marcha, faz continência à voz do respectivo comandante.
 
 2 - A força de efectivo mais elevado, quando em marcha, faz a continência por companhias (ou subunidades equivalentes) ou pelotões depois do respectivo toque ou da voz de continência do comandante da força, voz que é cumprida pelos comandantes das fracções, a não ser que estas unidades marchem em linha ou formação cerrada, caso em que a continência é feita ao toque respectivo ou à voz do comandante da unidade.
 
 A pé firme, faz continência ao toque ou à voz do respectivo comandante, podendo ser feita por fracções, conforme este deliberar.
 
-###### Art. 38.º - 1 - Uma força estacionada e armada abre fileiras e apresenta armas à Bandeira e ao Estandarte Nacionais, ao Hino Nacional, ao Presidente da República, aos Ministros ou entidades com categoria equivalente dos departamentos militares e aos militares da categoria 1.ª do quadro A (artigo 9.º); faz ombro-arma a qualquer força e, bem assim, a todas as patentes, a partir de aspirante a oficial, superiores à do seu comandante, e toma a posição de sentido à passagem dos militares da categoria 4.ª do quadro A (artigo 9.º) sempre que estes sejam de patente superior à do comandante da força estacionada.
+Art. 38.º - 1 - Uma força estacionada e armada abre fileiras e apresenta armas à Bandeira e ao Estandarte Nacionais, ao Hino Nacional, ao Presidente da República, aos Ministros ou entidades com categoria equivalente dos departamentos militares e aos militares da categoria 1.ª do quadro A (artigo 9.º); faz ombro-arma a qualquer força e, bem assim, a todas as patentes, a partir de aspirante a oficial, superiores à do seu comandante, e toma a posição de sentido à passagem dos militares da categoria 4.ª do quadro A (artigo 9.º) sempre que estes sejam de patente superior à do comandante da força estacionada.
 
 2 - Quando pela retaguarda da força passar o Estandarte Nacional ou o Presidente da República, aquela força faz meia volta e presta a devida continência.
 
-###### Art. 39.º - 1 - As guardas, ao brado de armas, formam em ombro-arma e fazem as continências prescritas para as forças estacionadas e armadas.
+Art. 39.º - 1 - As guardas, ao brado de armas, formam em ombro-arma e fazem as continências prescritas para as forças estacionadas e armadas.
 
 2 - A bordo dos navios de guerra seguir-se-á o que determina a Ordenança do Serviço Naval.
 
-###### Art. 40.º - 1 - Uma força estacionada e desarmada toma a posição de sentido e abre fileiras à Bandeira, ao Estandarte e ao Hino Nacionais, ao Presidente da República, aos Ministros ou entidades com categoria equivalente dos departamentos militares e aos militares da categoria 1.ª do quadro A (artigo 9.º) e toma a posição de sentido à passagem de qualquer força e às categorias 2.ª, 3.ª e 4.ª do mesmo quadro, sempre que sejam de patente superior à do comandante da força.
+Art. 40.º - 1 - Uma força estacionada e desarmada toma a posição de sentido e abre fileiras à Bandeira, ao Estandarte e ao Hino Nacionais, ao Presidente da República, aos Ministros ou entidades com categoria equivalente dos departamentos militares e aos militares da categoria 1.ª do quadro A (artigo 9.º) e toma a posição de sentido à passagem de qualquer força e às categorias 2.ª, 3.ª e 4.ª do mesmo quadro, sempre que sejam de patente superior à do comandante da força.
 
 2 - Quando pela retaguarda da força passar o Estandarte Nacional ou o Presidente da República, aquela faz meia volta e abre fileiras.
 
 3 - O comandante da força faz sempre a continência prescrita no artigo 2.º
 
-###### Art. 41.º - 1 - Uma força armada ou desarmada em marcha faz continência à direita (esquerda) à voz de olhar-direita (esquerda); quando armada de espada, a força toma simultaneamente a posição de perfilar-arma.
+Art. 41.º - 1 - Uma força armada ou desarmada em marcha faz continência à direita (esquerda) à voz de olhar-direita (esquerda); quando armada de espada, a força toma simultaneamente a posição de perfilar-arma.
 
 2 - Os oficiais e os sargentos, quando armados de espada e exercendo comando, quer apeados, quer a cavalo, apresentam arma à Bandeira e ao Estandarte Nacionais, ao Presidente da República, aos Ministros ou entidades com categoria equivalente dos departamentos militares e aos militares da categoria 1.ª do quadro A (artigo 9.º).
 
-###### Art. 42.º A força armada que pela natureza ou forma de condução das armas não possa utilizá-las para a continência procede como se estivesse desarmada.
+Art. 42.º A força armada que pela natureza ou forma de condução das armas não possa utilizá-las para a continência procede como se estivesse desarmada.
 
-###### Art. 43.º As forças motorizadas executarão a continência em conformidade com o que estiver determinado, tendo em atenção o seguinte:
+Art. 43.º As forças motorizadas executarão a continência em conformidade com o que estiver determinado, tendo em atenção o seguinte:
 
 1) Quando em marcha, as vozes ou sinais de execução deverão ser dados, pelo menos, a 20 m antes da entidade, força ou símbolo que origina a continência;
 
@@ -441,21 +466,21 @@ A pé firme, faz continência ao toque ou à voz do respectivo comandante, poden
 
 4) Nas viaturas abertas, apenas faz continência o chefe de viatura.
 
-###### Art. 44.º A continência de forças militares em parada ou desfiles é prestada às entidades de acordo com a ordem de precedência constante da lista do protocolo do Estado em vigor.
+Art. 44.º A continência de forças militares em parada ou desfiles é prestada às entidades de acordo com a ordem de precedência constante da lista do protocolo do Estado em vigor.
 
-###### Art. 45.º - 1 - A presidência em cerimónias ou reuniões de carácter militar é atribuída às entidades de acordo com a ordem de precedência constante da lista do protocolo do Estado em vigor.
+Art. 45.º - 1 - A presidência em cerimónias ou reuniões de carácter militar é atribuída às entidades de acordo com a ordem de precedência constante da lista do protocolo do Estado em vigor.
 
 2 - A bordo dos navios da Armada seguir-se-á o estabelecido na Ordenança do Serviço Naval.
 
-###### Art. 46.º - 1 - Nenhuma força deve iniciar a marcha, destroçar, descansar, embarcar ou desembarcar de viaturas ou de embarcações militares e montar ou apear sem o seu comandante pedir licença ao superior que estiver presente, o que poderá ser efectuado por intermédio de um graduado dessa força.
+Art. 46.º - 1 - Nenhuma força deve iniciar a marcha, destroçar, descansar, embarcar ou desembarcar de viaturas ou de embarcações militares e montar ou apear sem o seu comandante pedir licença ao superior que estiver presente, o que poderá ser efectuado por intermédio de um graduado dessa força.
 
 2 - Fora dos casos de actividades de rotina e de instrução, nenhuma força deve sair da unidade ou destroçar após nela ter dado entrada sem solicitar licença, através da cadeia de comando, ao comandante ou oficial mais antigo presente na unidade.
 
-###### Art. 47.º - 1 - Nos locais de instrução, esta só será interrompida à aproximação de qualquer superior hierárquico quando esse ali chegar com a finalidade de a ela assistir ou nela participar.
+Art. 47.º - 1 - Nos locais de instrução, esta só será interrompida à aproximação de qualquer superior hierárquico quando esse ali chegar com a finalidade de a ela assistir ou nela participar.
 
 2 - Exceptua-se o caso de o superior se aproximar no decorrer de uma fase em que não convenha interromper a instrução e em que quem comanda ou presida a não suspenda, cumprimentando logo que possível o superior que ali chegou, apresentando as razões da não interrupção da mesma.
 
-###### Art. 48.º - 1 - Nas casernas, refeitórios, cobertas, salas de convívio e outros alojamentos, o militar presente que primeiro avistar um superior de qualquer das categorias do quadro A (artigo 9.º) que se aproxima, em acto de visita ou de revista previamente fixado, anuncia-o em voz alta, indicando-o pelo seu posto ou cargo, e o mais graduado ou antigo dos presentes dá a voz de sentido; este não manda à vontade sem verificar que todos estão em sentido e o superior o autorize.
+Art. 48.º - 1 - Nas casernas, refeitórios, cobertas, salas de convívio e outros alojamentos, o militar presente que primeiro avistar um superior de qualquer das categorias do quadro A (artigo 9.º) que se aproxima, em acto de visita ou de revista previamente fixado, anuncia-o em voz alta, indicando-o pelo seu posto ou cargo, e o mais graduado ou antigo dos presentes dá a voz de sentido; este não manda à vontade sem verificar que todos estão em sentido e o superior o autorize.
 
 A bordo dos navios de guerra só têm direito a esta voz as categorias 1.ª, 2.ª e 3.ª do quadro A (artigo 9.º).
 
@@ -463,15 +488,15 @@ A bordo dos navios de guerra só têm direito a esta voz as categorias 1.ª, 2.�
 
 3 - Em qualquer outra dependência ou local é aplicado o disposto no n.º 1, mesmo que não se trate de visita ou de revista previamente fixada.
 
-###### Art. 49.º As forças em trânsito dão a esquerda umas às outras e ultrapassam segundo as regras de trânsito.
+Art. 49.º As forças em trânsito dão a esquerda umas às outras e ultrapassam segundo as regras de trânsito.
 
-###### Art. 50.º Quando várias forças marcham no mesmo sentido ou se cruzam, têm precedência aquelas cujos comandantes sejam mais graduados ou antigos. Havendo necessidade de ultrapassagem ou cruzamento, estes só se farão depois de dada autorização pelo comandante mais graduado ou artigo, se não houver ordem superior que determine o contrário.
+Art. 50.º Quando várias forças marcham no mesmo sentido ou se cruzam, têm precedência aquelas cujos comandantes sejam mais graduados ou antigos. Havendo necessidade de ultrapassagem ou cruzamento, estes só se farão depois de dada autorização pelo comandante mais graduado ou artigo, se não houver ordem superior que determine o contrário.
 
-###### Art. 51.º Nos casos de assistência, em formatura, a cerimónias religiosas, serão tomadas as atitudes e posições definidas neste Regulamento que se considerem em conformidade com as respectivas normas rituais.
+Art. 51.º Nos casos de assistência, em formatura, a cerimónias religiosas, serão tomadas as atitudes e posições definidas neste Regulamento que se considerem em conformidade com as respectivas normas rituais.
 
 ### CAPÍTULO IV — Continências ao Hino Nacional e à Bandeira Nacional
 
-###### Art. 52.º - 1 - Como saudação que é à Pátria, o Hino Nacional só é tocado pelas bandas militares durante a continência à Bandeira e ao Estandarte Nacionais, ao Presidente da República e ainda como determina o quadro B do capítulo V. Concluídos os últimos acordes, nunca é recomeçado.
+Art. 52.º - 1 - Como saudação que é à Pátria, o Hino Nacional só é tocado pelas bandas militares durante a continência à Bandeira e ao Estandarte Nacionais, ao Presidente da República e ainda como determina o quadro B do capítulo V. Concluídos os últimos acordes, nunca é recomeçado.
 
 2 - Durante a execução do Hino Nacional por banda militar ou civil em actos oficiais, os militares presentes tomam a posição de sentido e fazem a continência, quando uniformizados, ou descobrem-se e perfilam-se, quando em trajo civil.
 
@@ -479,7 +504,7 @@ As forças desarmadas fazem sentido, abrem fileiras e os comandantes fazem conti
 
 As forças ou os militares armados apresentam armas.
 
-###### Art. 53.º - 1 - Nas unidades e estabelecimentos militares a Bandeira Nacional é içada às 8 horas e arriada à hora legal do pôr do Sol, aos domingos, feriados (anexo I) e quando superiormente determinado.
+Art. 53.º - 1 - Nas unidades e estabelecimentos militares a Bandeira Nacional é içada às 8 horas e arriada à hora legal do pôr do Sol, aos domingos, feriados (anexo I) e quando superiormente determinado.
 
 2 - Em navios amarrados ou fundeados em águas do continente, Regiões Autónomas da Madeira e Açores e território de Macau a Bandeira Nacional é içada diariamente às 8 horas e arriada à hora legal do pôr do Sol.
 
@@ -487,11 +512,11 @@ As forças ou os militares armados apresentam armas.
 
 4 - Nos portos de mar em que não haja fortificações encarregadas de prestar as honras, a Bandeira Nacional será içada na sede do comando da Armada, do Exército ou da Força Aérea, por esta ordem, e, se visível do mar, sempre que no porto fundeie algum navio de guerra nacional ou estrangeiro.
 
-###### Art. 54.º Quando entre o pôr do Sol e a hora do içar da Bandeira, no dia seguinte, passar, fundear ou largar de porto nacional algum navio de guerra estrangeiro, nas fortificações marítimas encarregadas de prestar as honras do porto e nos navios da Armada, fundeados ou amarrados à vista, será a Bandeira içada sem honras, sendo arriada igualmente sem honras logo que o navio passe ou fundeie.
+Art. 54.º Quando entre o pôr do Sol e a hora do içar da Bandeira, no dia seguinte, passar, fundear ou largar de porto nacional algum navio de guerra estrangeiro, nas fortificações marítimas encarregadas de prestar as honras do porto e nos navios da Armada, fundeados ou amarrados à vista, será a Bandeira içada sem honras, sendo arriada igualmente sem honras logo que o navio passe ou fundeie.
 
 Se este facto se der perto das horas regulamentares do içar, a Bandeira será arriada minutos antes dessas horas para ser novamente içada com as honras devidas.
 
-###### Art. 55.º - 1 - Se a Bandeira tiver de conservar-se içada depois do pôr do Sol, é arriada a esta hora com as honras devidas e içada em seguida sem honras.
+Art. 55.º - 1 - Se a Bandeira tiver de conservar-se içada depois do pôr do Sol, é arriada a esta hora com as honras devidas e içada em seguida sem honras.
 
 Por modo idêntico, na manhã seguinte é arriada sem honras para ser novamente içada com honras.
 
@@ -499,7 +524,7 @@ Por modo idêntico, na manhã seguinte é arriada sem honras para ser novamente 
 
 3 - A bordo dos navios de guerra seguir-se-á o que determina a Ordenança do Serviço Naval.
 
-###### Art. 56.º Nas unidades e estabelecimentos militares, o acto de içar ou de arriar a Bandeira Nacional constitui uma cerimónia de carácter solene e decorre observando-se as seguintes disposições:
+Art. 56.º Nas unidades e estabelecimentos militares, o acto de içar ou de arriar a Bandeira Nacional constitui uma cerimónia de carácter solene e decorre observando-se as seguintes disposições:
 
 1) As honras, presididas pelo oficial de serviço, são prestadas por uma força armada de efectivo de pelotão ou, no caso de impossibilidade de se dispor deste efectivo, por um que lhe seja o mais próximo.
 
@@ -521,15 +546,15 @@ A continência dura enquanto a Bandeira sobe ou desce.
 
 Não sendo esta visível tomam apenas a posição de sentido.
 
-###### Art. 57.º A Bandeira Nacional, tanto para o acto de içar como depois de arriada, é transportada por uma praça graduada, por forma condigna, em bandeja ou salva.
+Art. 57.º A Bandeira Nacional, tanto para o acto de içar como depois de arriada, é transportada por uma praça graduada, por forma condigna, em bandeja ou salva.
 
 Será içada (arriada) por graduado.
 
-###### Art. 58.º - 1 - Nas formaturas em que a unidade leva o Estandarte Nacional, este é conduzido por um oficial subalterno, escoltado por dois sargentos e um cabo, todos escolhidos entre os militares mais condecorados ou mais antigos, com comportamento exemplar. Os dois sargentos ladeiam o porta-estandarte a cerca de 1 m, ficando o comandante da escolta à direita e o cabo à retaguarda do porta-estandarte, a cerca de 1 m, quando a pé, e a cerca de 1,5 m, quando a cavalo.
+Art. 58.º - 1 - Nas formaturas em que a unidade leva o Estandarte Nacional, este é conduzido por um oficial subalterno, escoltado por dois sargentos e um cabo, todos escolhidos entre os militares mais condecorados ou mais antigos, com comportamento exemplar. Os dois sargentos ladeiam o porta-estandarte a cerca de 1 m, ficando o comandante da escolta à direita e o cabo à retaguarda do porta-estandarte, a cerca de 1 m, quando a pé, e a cerca de 1,5 m, quando a cavalo.
 
 2 - Os estandartes ou guiões das unidades ou estabelecimentos militares, que, em princípio, deverão ser conduzidos por um sargento-ajudante ou primeiro-sargento, não têm escolta própria, não deverão incorporar-se juntamente com o Estandarte Nacional na escolta deste, nem lhes é prestada qualquer continência.
 
-###### Art. 59.º - 1 - As forças militares recebem o Estandarte Nacional do modo seguinte: formada a força, o comandante dá ordem para o porta-estandarte receber o Estandarte. O oficial, acompanhado da respectiva escolta, tendo-o recebido no local onde estava guardado, avança à voz do comandante «avance o Estandarte», indo postar-se a 10 m em frente dele e com a frente voltada para a força, que já deve estar em posição de ombro-arma; recebe em seguida a continência de apresentar-arma, precedida da voz «continência ao Estandarte». As bandas de música executam o Hino Nacional e, na sua falta, as fanfarras ou os ternos de corneteiros (clarins) tocam a marcha de continência. À voz «ombro-arma», o porta-estandarte e a escolta vão ocupar o seu lugar na formatura.
+Art. 59.º - 1 - As forças militares recebem o Estandarte Nacional do modo seguinte: formada a força, o comandante dá ordem para o porta-estandarte receber o Estandarte. O oficial, acompanhado da respectiva escolta, tendo-o recebido no local onde estava guardado, avança à voz do comandante «avance o Estandarte», indo postar-se a 10 m em frente dele e com a frente voltada para a força, que já deve estar em posição de ombro-arma; recebe em seguida a continência de apresentar-arma, precedida da voz «continência ao Estandarte». As bandas de música executam o Hino Nacional e, na sua falta, as fanfarras ou os ternos de corneteiros (clarins) tocam a marcha de continência. À voz «ombro-arma», o porta-estandarte e a escolta vão ocupar o seu lugar na formatura.
 
 2 - Por forma análoga se procede quando o Estandarte retirar da formatura. À voz «retire o Estandarte», o porta-estandarte vai colocar-se a 10 m na frente do comandante e, voltado para ele, recebe a continência da força, retirando só depois desta terminada.
 
@@ -543,7 +568,7 @@ Será içada (arriada) por graduado.
 
 7 - Quando o Estandarte Nacional retirar, a escolta e a guarda de honra procedem de modo idêntico, acompanhando-o até ao local onde deve ficar e, depois de lhe prestarem as honras, voltam a ocupar o seu lugar na formatura ou seguem aos seus destinos, conforme as ordens recebidas.
 
-###### Art. 60.º - 1 - O Estandarte Nacional toma a posição de perfilar nos seguintes casos:
+Art. 60.º - 1 - O Estandarte Nacional toma a posição de perfilar nos seguintes casos:
 
 a) A pé firme:
 
@@ -565,31 +590,33 @@ Nos desfiles em continência, durante todo o percurso.
 
 Em todos os casos a escolta executará os movimentos ordenados para as forças em presença.
 
-###### Art. 61.º - 1 - O Estandarte Nacional é, em regra, guardado no gabinete do comandante da unidade ou do director do estabelecimento. Se a unidade ou estabelecimento não dispuser de gabinete ou sala condignos, o Estandarte deverá recolher, encapado ou na sua caixa, para local apropriado ou determinado pelo comando.
+Art. 61.º - 1 - O Estandarte Nacional é, em regra, guardado no gabinete do comandante da unidade ou do director do estabelecimento. Se a unidade ou estabelecimento não dispuser de gabinete ou sala condignos, o Estandarte deverá recolher, encapado ou na sua caixa, para local apropriado ou determinado pelo comando.
 
 2 - No caso das forças instaladas em bivaque, acantonamento ou acampamento, o comandante designará o local para guarda do Estandarte e uma força ou, pelo menos, uma sentinela para a sua guarda permanente.
 
-###### Art. 62.º - 1 - As forças não se instalam em bivaque, acantonamento ou acampamento nem abandonam o local onde estacionaram sem prestarem honras ao Estandarte Nacional da sua unidade, quando ele ali se encontrar.
+Art. 62.º - 1 - As forças não se instalam em bivaque, acantonamento ou acampamento nem abandonam o local onde estacionaram sem prestarem honras ao Estandarte Nacional da sua unidade, quando ele ali se encontrar.
 
 2 - Quando a força estacionada estiver acompanhada de banda de música, fanfarra e terno de corneteiros (clarins), estes também fazem parte da guarda de honra ao Estandarte.
 
-###### Art. 63.º Aos hinos estrangeiros e às bandeiras ou estandartes nacionais ou estrangeiros prestam-se honras militares iguais às que ficam regulamentadas para o Hino e Bandeira ou Estandarte Nacionais, tendo em atenção que após a execução do hino estrangeiro se seguirá, sempre, a do Hino Nacional.
+Art. 63.º Aos hinos estrangeiros e às bandeiras ou estandartes nacionais ou estrangeiros prestam-se honras militares iguais às que ficam regulamentadas para o Hino e Bandeira ou Estandarte Nacionais, tendo em atenção que após a execução do hino estrangeiro se seguirá, sempre, a do Hino Nacional.
 
-###### Art. 64.º - 1 - Os militares isolados transportados em viaturas, desde que não sejam transportes públicos, ao passarem a menos de 100 m de qualquer local onde se esteja a prestar honras à Bandeira Nacional, deverão parar e apear; se uniformizados, executam a continência à Bandeira; se trajam civilmente, descobrem-se e perfilam-se.
+Art. 64.º - 1 - Os militares isolados transportados em viaturas, desde que não sejam transportes públicos, ao passarem a menos de 100 m de qualquer local onde se esteja a prestar honras à Bandeira Nacional, deverão parar e apear; se uniformizados, executam a continência à Bandeira; se trajam civilmente, descobrem-se e perfilam-se.
 
 2 - As forças militares transportadas em viaturas não pararão nem apearão, devendo o respectivo comandante fazer a continência sem interromper o andamento.
 
 Caso as circunstâncias imponham a paragem, o comandante apeia-se e faz a continência.
 
-###### Art. 65.º Dentro do território nacional, a Bandeira Nacional, quando desfraldada em conjunto com as bandeiras de outros países, deve ocupar o lugar de honra.
+Art. 65.º Dentro do território nacional, a Bandeira Nacional, quando desfraldada em conjunto com as bandeiras de outros países, deve ocupar o lugar de honra.
 
-###### Art. 66.º A bordo dos navios de guerra deve observar-se o que sobre o assunto estabelece a Ordenança do Serviço Naval.
+Art. 66.º A bordo dos navios de guerra deve observar-se o que sobre o assunto estabelece a Ordenança do Serviço Naval.
 
-### CAPÍTULO V — SECÇÃO I
+### CAPÍTULO V
+
+#### SECÇÃO I
 
 Guardas de honra
 
-###### Art. 67.º Guarda de honra é a força armada destinada a:
+Art. 67.º Guarda de honra é a força armada destinada a:
 
 Acompanhar os Estandartes Nacionais como é determinado no n.º 3 do artigo 59.º do capítulo IV do presente Regulamento;
 
@@ -597,9 +624,9 @@ Prestar honras militares em actos solenes;
 
 Prestar honras fúnebres.
 
-###### Art. 68.º O efectivo das guardas de honra é o indicado no quadro B do presente capítulo.
+Art. 68.º O efectivo das guardas de honra é o indicado no quadro B do presente capítulo.
 
-###### Art. 69.º - 1 - Sempre que possível e salvo indicação superior em contrário, as guardas de honra formam em linha, dando a direita ao local junto do qual devem postar-se.
+Art. 69.º - 1 - Sempre que possível e salvo indicação superior em contrário, as guardas de honra formam em linha, dando a direita ao local junto do qual devem postar-se.
 
 2 - Os oficiais, com excepção do comandante da guarda de honra, formam no alinhamento da primeira fileira, imediatamente à direita das unidades ou subunidades que comandam.
 
@@ -611,11 +638,11 @@ O Estandarte ficará normalmente entre estes elementos e a força; em casos espe
 
 4 - Logo que postadas, as guardas de honra abrem fileiras, rectificam os alinhamentos e tomam a posição de descansar (à vontade). Tomarão a posição de firme quando começarem a chegar entidades oficiais.
 
-###### Art. 70.º - 1 - As guardas de honra, depois de postadas, só têm de prestar honras à passagem do Estandarte Nacional, do Presidente da República e das entidades de categoria superior àquelas a quem as mesmas guardas de honra são destinadas.
+Art. 70.º - 1 - As guardas de honra, depois de postadas, só têm de prestar honras à passagem do Estandarte Nacional, do Presidente da República e das entidades de categoria superior àquelas a quem as mesmas guardas de honra são destinadas.
 
 2 - Tomam, porém, a posição de sentido à passagem de forças militares, funerais, cortejos religiosos e de oficiais de patente superior à dos seus comandantes. Nestas circunstâncias, quando o comandante da guarda de honra não estiver armado de espada, não fará a continência referida no artigo 2.º do capítulo I, limitando-se a tomar a posição de sentido.
 
-###### Art. 71.º - 1 - Ao avistar a entidade a quem a guarda de honra é prestada, o seu comandante mandará sentido e ombro-arma, prestando-lhe depois a continência devida, mas apenas quando a entidade referida se tiver colocado no ponto de continência (ponto, em regra, a cerca de 10 m à frente do comandante da guarda de honra, onde a entidade se colocará na posição de sentido, pronta a receber a continência da guarda de honra).
+Art. 71.º - 1 - Ao avistar a entidade a quem a guarda de honra é prestada, o seu comandante mandará sentido e ombro-arma, prestando-lhe depois a continência devida, mas apenas quando a entidade referida se tiver colocado no ponto de continência (ponto, em regra, a cerca de 10 m à frente do comandante da guarda de honra, onde a entidade se colocará na posição de sentido, pronta a receber a continência da guarda de honra).
 
 2 - As continências a prestar e os hinos e marchas a executar pelas bandas de música, fanfarras e ternos de corneteiros (clarins) são as indicadas no quadro B do presente capítulo.
 
@@ -643,25 +670,25 @@ O séquito, durante a revista, mantém-se em sentido, no ponto de continência, 
 
 11 - No caso de não se efectuar o desfile, a guarda de honra prestará de novo a continência quando a entidade voltar ao ponto de continência. Seguidamente, esta saudará novamente o Estandarte Nacional.
 
-###### Art. 72.º - 1 - O desfile da guarda de honra (que somente se iniciará depois de a entidade se encontrar no ponto de desfile) faz-se, de preferência e sempre que possível, para a direita, evolucionando por forma que o flanco de cada fracção passe à distância aproximada de 10 m do ponto de desfile numa direcção paralela à da formatura inicial.
+Art. 72.º - 1 - O desfile da guarda de honra (que somente se iniciará depois de a entidade se encontrar no ponto de desfile) faz-se, de preferência e sempre que possível, para a direita, evolucionando por forma que o flanco de cada fracção passe à distância aproximada de 10 m do ponto de desfile numa direcção paralela à da formatura inicial.
 
 2 - As continências a prestar pela guarda de honra à entidade perante quem desfila são as indicadas no quadro B do presente capítulo, sendo o seu início e fim assinalados por bandeirolas, respectivamente, verde e vermelha.
 
 3 - O desfile será sempre feito ao som de uma marcha (nunca será o Hino Nacional).
 
-###### Art. 73.º - 1 - Sempre que a entidade não mande desfilar a guarda de honra, esta manter-se-á formada onde se encontra até que a mesma entidade determine que destroce ou abandone o quartel, edifício, monumento ou local onde se prestou a guarda de honra.
+Art. 73.º - 1 - Sempre que a entidade não mande desfilar a guarda de honra, esta manter-se-á formada onde se encontra até que a mesma entidade determine que destroce ou abandone o quartel, edifício, monumento ou local onde se prestou a guarda de honra.
 
 2 - Exceptua-se o caso de a referida entidade mandar aviso ao comandante da guarda de honra de que dispensa a mesma à sua saída ou permite que a mesma destroce, voltando a estar formada à sua saída.
 
 3 - Se a entidade mandar desfilar a guarda de honra, esta ordem, salvo indicação em contrário, subentende que a mesma pode destroçar no final do desfile e que a sua presença é dispensada à saída da entidade.
 
-###### Art. 74.º A guarda ao palácio ocupado pelo Presidente da República ou por Chefe de Estado estrangeiro em visita oficial ao País é comandada por um capitão ou primeiro-tenente e tem o efectivo mínimo de dois pelotões.
+Art. 74.º A guarda ao palácio ocupado pelo Presidente da República ou por Chefe de Estado estrangeiro em visita oficial ao País é comandada por um capitão ou primeiro-tenente e tem o efectivo mínimo de dois pelotões.
 
-###### Art. 75.º - 1 - No caso de um Chefe de Estado estrangeiro em visita oficial ao País ficar alojado em palácio do Estado, a guarda que entrar de serviço faz-se acompanhar de banda de música, que retira depois do render das guardas.
+Art. 75.º - 1 - No caso de um Chefe de Estado estrangeiro em visita oficial ao País ficar alojado em palácio do Estado, a guarda que entrar de serviço faz-se acompanhar de banda de música, que retira depois do render das guardas.
 
 2 - A banda de música citada executará o hino da nacionalidade respectiva, seguido do Hino Nacional, durante a cerimónia do render da guarda.
 
-###### Art. 76.º - 1 - Quando o Presidente da República regresse de missão oficial no estrangeiro ou, no País, presida a cerimónia de alto significado, poderá ser constituída uma formatura em alas ao longo do trajecto seguido por aquela alta entidade.
+Art. 76.º - 1 - Quando o Presidente da República regresse de missão oficial no estrangeiro ou, no País, presida a cerimónia de alto significado, poderá ser constituída uma formatura em alas ao longo do trajecto seguido por aquela alta entidade.
 
 2 - Honras semelhantes às indicadas no número anterior poderão ser prestadas a Chefes de Estado estrangeiros, ou embaixadores em sua representação, em visita oficial.
 
@@ -669,7 +696,7 @@ O séquito, durante a revista, mantém-se em sentido, no ponto de continência, 
 
 #### SECÇÃO II — Escoltas de honra
 
-###### Art. 77.º Escolta de honra é a força armada destinada a:
+Art. 77.º Escolta de honra é a força armada destinada a:
 
 Acompanhar estandartes nacionais;
 
@@ -677,19 +704,19 @@ Acompanhar altas entidades a quem se deva prestar esta honra militar;
 
 Acompanhar féretros em honras fúnebres.
 
-###### Art. 78.º As escoltas de honra destinadas a acompanhar altas entidades deverão ser a cavalo ou motorizadas.
+Art. 78.º As escoltas de honra destinadas a acompanhar altas entidades deverão ser a cavalo ou motorizadas.
 
-###### Art. 79.º O efectivo das escoltas de honra é o que consta do artigo 58.º do quadro B deste capítulo e do quadro D do capítulo IX, conforme se trate, respectivamente, de estandartes nacionais, altas entidades ou féretros.
+Art. 79.º O efectivo das escoltas de honra é o que consta do artigo 58.º do quadro B deste capítulo e do quadro D do capítulo IX, conforme se trate, respectivamente, de estandartes nacionais, altas entidades ou féretros.
 
-###### Art. 80.º A escolta de honra coloca-se, sempre que possível, dando a direita ao lado por onde há-de chegar quem (o que) tenha de acompanhar.
+Art. 80.º A escolta de honra coloca-se, sempre que possível, dando a direita ao lado por onde há-de chegar quem (o que) tenha de acompanhar.
 
-###### Art. 81.º - 1 - A escolta de honra, enquanto aguarda a chegada, para efeitos do artigo 77.º, só tem que prestar honras à passagem de estandartes nacionais, chefes de Estado e entidades de categoria superior à de quem vai escoltar.
+Art. 81.º - 1 - A escolta de honra, enquanto aguarda a chegada, para efeitos do artigo 77.º, só tem que prestar honras à passagem de estandartes nacionais, chefes de Estado e entidades de categoria superior à de quem vai escoltar.
 
 2 - Toma, porém, a posição de sentido à passagem de forças militares, funerais, cortejos religiosos e de oficiais de patente superior à do seu comandante.
 
-###### Art. 82.º O comandante da escolta de honra, logo que avista quem (o que) tenha de escoltar, mandará executar os movimentos adequados, por forma que à sua chegada seja prestada a continência devida.
+Art. 82.º O comandante da escolta de honra, logo que avista quem (o que) tenha de escoltar, mandará executar os movimentos adequados, por forma que à sua chegada seja prestada a continência devida.
 
-###### Art. 83.º - 1 - A escolta de honra marchará 10 m à retaguarda do Estandarte Nacional, da alta entidade ou do féretro a escoltar, devendo o comandante situar-se nos seguintes lugares:
+Art. 83.º - 1 - A escolta de honra marchará 10 m à retaguarda do Estandarte Nacional, da alta entidade ou do féretro a escoltar, devendo o comandante situar-se nos seguintes lugares:
 
 a) À estribeira direita da viatura escoltada, se a escolta é a cavalo;
 
@@ -697,59 +724,59 @@ b) Imediatamente à retaguarda da mesma viatura, se a escolta é motorizada.
 
 2 - Se o elemento escoltado passar entre tropas em alas, o comandante destas marchará imediatamente à sua retaguarda seguido pelo comandante da escolta de honra.
 
-###### Art. 84.º A escolta de honra destacará uma guarda avançada, que marchará 50 m à frente do elemento a acompanhar, com os seguintes efectivos:
+Art. 84.º A escolta de honra destacará uma guarda avançada, que marchará 50 m à frente do elemento a acompanhar, com os seguintes efectivos:
 
 1) Escolta motorizada - de dois motociclistas ou duas viaturas, até ao máximo de um esquadrão (ou unidade equivalente);
 
 2) Escolta a cavalo - de duas praças graduadas, até ao máximo de um esquadrão.
 
-###### Art. 85.º Quando a escolta de honra for constituída por um regimento, a sua guarda avançada destaca para 20 m à sua frente os seguintes batedores:
+Art. 85.º Quando a escolta de honra for constituída por um regimento, a sua guarda avançada destaca para 20 m à sua frente os seguintes batedores:
 
 1) Nas escoltas motorizadas - dois motociclistas ou duas viaturas;
 
 2) Nas escoltas a cavalo - quatro sargentos.
 
-###### Art. 86.º Durante a marcha escoltando uma alta entidade, a escolta de honra só presta continência à Bandeira e Estandarte Nacionais e ao Presidente da República.
+Art. 86.º Durante a marcha escoltando uma alta entidade, a escolta de honra só presta continência à Bandeira e Estandarte Nacionais e ao Presidente da República.
 
 #### SECÇÃO III — Salvas
 
-###### Art. 87.º - 1 - As salvas de artilharia atribuídas às entidades a quem se presta essa honra, quando superiormente tal for determinado, são as que constam do quadro B do presente capítulo.
+Art. 87.º - 1 - As salvas de artilharia atribuídas às entidades a quem se presta essa honra, quando superiormente tal for determinado, são as que constam do quadro B do presente capítulo.
 
 2 - Em terra, só se efectuam à chegada das entidades.
 
-###### Art. 88.º A bordo dos navios de guerra, as salvas que competem às diferentes categorias e as condições em que se efectuam são as indicadas na Ordenança do Serviço Naval.
+Art. 88.º A bordo dos navios de guerra, as salvas que competem às diferentes categorias e as condições em que se efectuam são as indicadas na Ordenança do Serviço Naval.
 
-###### Art. 89.º As entidades a quem são prestadas estas honras recebem-nas de pé, em continência, ou descobertas, quando trajando civilmente.
+Art. 89.º As entidades a quem são prestadas estas honras recebem-nas de pé, em continência, ou descobertas, quando trajando civilmente.
 
-###### Art. 90.º As fortificações marítimas ou baterias encarregadas de prestar as honras do porto correspondem, tiro por tiro, às salvas dos navios de guerra.
+Art. 90.º As fortificações marítimas ou baterias encarregadas de prestar as honras do porto correspondem, tiro por tiro, às salvas dos navios de guerra.
 
-###### Art. 91.º As fortificações marítimas ou baterias salvam com vinte e um tiros quando passar ou fundear navio conduzindo o Presidente da República, trazendo içado o respectivo distintivo ou quando, fundeado, içar esse distintivo.
+Art. 91.º As fortificações marítimas ou baterias salvam com vinte e um tiros quando passar ou fundear navio conduzindo o Presidente da República, trazendo içado o respectivo distintivo ou quando, fundeado, içar esse distintivo.
 
-###### Art. 92.º As salvas só podem ser dadas desde a hora do içar até à do arriar da Bandeira Nacional.
+Art. 92.º As salvas só podem ser dadas desde a hora do içar até à do arriar da Bandeira Nacional.
 
-###### Art. 93.º Quando por qualquer motivo não se cumprir o disposto nos artigos 90.º e 91.º, não só esta circunstância será comunicada oficialmente ao navio mas ainda as salvas serão dadas no dia seguinte, dentro do período indicado no artigo 92.º
+Art. 93.º Quando por qualquer motivo não se cumprir o disposto nos artigos 90.º e 91.º, não só esta circunstância será comunicada oficialmente ao navio mas ainda as salvas serão dadas no dia seguinte, dentro do período indicado no artigo 92.º
 
 #### SECÇÃO IV — Ordenanças
 
-###### Art. 94.º - 1 - As entidades constantes do quadro B (capítulo V), durante a permanência em unidade, estabelecimento militar, campo de instrução ou estacionamento, por motivo de visita previamente enunciada ou de serviço, deverão ser acompanhadas por ordenanças, cujo efectivo é o indicado no referido quadro.
+Art. 94.º - 1 - As entidades constantes do quadro B (capítulo V), durante a permanência em unidade, estabelecimento militar, campo de instrução ou estacionamento, por motivo de visita previamente enunciada ou de serviço, deverão ser acompanhadas por ordenanças, cujo efectivo é o indicado no referido quadro.
 
 2 - Nos navios de guerra não é observado o preceituado no n.º 1.
 
-###### Art. 95.º - 1 - Se as entidades se deslocarem a pé ou a cavalo, as ordenanças segui-las-ão a pé ou a cavalo, à distância aproximada de 10 m.
+Art. 95.º - 1 - Se as entidades se deslocarem a pé ou a cavalo, as ordenanças segui-las-ão a pé ou a cavalo, à distância aproximada de 10 m.
 
 2 - Quando a entidade se deslocar em automóvel, será acompanhada de uma só ordenança, que tomará o lugar ao lado do condutor.
 
-###### Art. 96.º O pessoal designado para ordenança de qualquer entidade deverá fazer a sua apresentação a um dos seus ajudantes, secretários ou adjuntos, ou à própria entidade, na ausência daqueles.
+Art. 96.º O pessoal designado para ordenança de qualquer entidade deverá fazer a sua apresentação a um dos seus ajudantes, secretários ou adjuntos, ou à própria entidade, na ausência daqueles.
 
 ### CAPÍTULO V — QUADRO B
 
 Honras a prestar às diferentes entidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
 
 ### CAPÍTULO VI — Revista de tropas
 
-###### Art. 97.º As revistas de tropas executam-se do modo seguinte:
+Art. 97.º As revistas de tropas executam-se do modo seguinte:
 
 1) As tropas, tendo entrado no campo onde se vai realizar a revista segundo as ordens de concentração que tiverem recebido, ocupam o lugar que lhes tiver sido determinado e tomam a posição de descansar (à vontade). Sempre que a formatura for em linha, as tropas abrem fileiras antes de tomarem a posição indicada;
 
@@ -783,23 +810,23 @@ Se a revista for passada a cavalo ou em viatura, apenas será feita pela frente 
 
 14) As bandas de música, fanfarras e ternos de corneteiros (clarins), durante a revista, procederão conforme se determina no artigo 108.º
 
-###### Art. 98.º O comandante das forças em parada, logo que é correspondida a continência de chegada e depois do toque de descansar-arma, acompanha, se for o caso, a entidade ao flanco direito das forças, para com ela iniciar a revista, seguindo à sua direita e a 1 m à retaguarda.
+Art. 98.º O comandante das forças em parada, logo que é correspondida a continência de chegada e depois do toque de descansar-arma, acompanha, se for o caso, a entidade ao flanco direito das forças, para com ela iniciar a revista, seguindo à sua direita e a 1 m à retaguarda.
 
 Terminada a revista, retoma o seu lugar de comando para fazer executar o desfile, continência final, se não houver desfile, ou cumprir qualquer outra determinação superior.
 
-###### Art. 99.º - 1 - Nas revistas passadas pelas entidades com categoria de Ministro ou oficiais da categoria 1.ª do quadro A (artigo 9.º), além do comandante das forças em parada, seguem-nos também, respectivamente, os seus chefes de gabinete ou de Estado-Maior.
+Art. 99.º - 1 - Nas revistas passadas pelas entidades com categoria de Ministro ou oficiais da categoria 1.ª do quadro A (artigo 9.º), além do comandante das forças em parada, seguem-nos também, respectivamente, os seus chefes de gabinete ou de Estado-Maior.
 
 2 - Quando a revista for passada pelo Presidente da República, além do comandante das forças em parada, acompanha-o um séquito que para tal fim for designado.
 
-###### Art. 100.º As entidades que pelo seu cargo têm direito a ajudantes são por estes acompanhadas durante a revista.
+Art. 100.º As entidades que pelo seu cargo têm direito a ajudantes são por estes acompanhadas durante a revista.
 
-###### Art. 101.º - 1 - Quando a entidade que deva passar a revista seja a mesma que assume o comando das forças em parada, a continência a que tiver direito é prestada quando atinja o ponto de continência, o que será anunciado pelo seu respectivo sinal, feito pelo corneteiro ou clarim de ordens.
+Art. 101.º - 1 - Quando a entidade que deva passar a revista seja a mesma que assume o comando das forças em parada, a continência a que tiver direito é prestada quando atinja o ponto de continência, o que será anunciado pelo seu respectivo sinal, feito pelo corneteiro ou clarim de ordens.
 
 2 - A continência termina ao toque de descansar-arma, feito pelo referido corneteiro ou clarim de ordens, procedendo-se relativamente a salvas conforme se indicou no artigo 97.º, se igual honra não vier a ser prestada depois a entidade de categoria superior.
 
 3 - Seguidamente iniciar-se-á a revista, procedendo-se conforme foi determinado no mesmo artigo 97.º
 
-###### Art. 102.º - 1 - Depois da revista, se a entidade não determinar o contrário, as forças em parada desfilam, ocupando aquela entidade o ponto de desfile.
+Art. 102.º - 1 - Depois da revista, se a entidade não determinar o contrário, as forças em parada desfilam, ocupando aquela entidade o ponto de desfile.
 
 2 - Deve indicar-se por uma bandeirola verde o ponto onde começa a continência e por uma vermelha onde termina. Quando não seja possível fixar no terreno as bandeirolas, serão estas seguras por duas ordenanças apeadas.
 
@@ -813,7 +840,7 @@ Iguais procedimentos serão observados por cada uma das restantes unidades.
 
 Por sua vez, serão as únicas que tocarão simultânea ou alternadamente e deixarão de tocar quando termine o desfile das unidades.
 
-###### Art. 103.º - 1 - O comandante das forças em parada, quando se inicie o desfile, marcha no seu lugar de comando, seguido pelo seu séquito, na seguinte disposição: 1 m à sua direita e à retaguarda, o Chefe do Estado-Maior; 10 m à retaguarda e dispostos a três de frente, segundo a ordem de precedência e categorias, os restantes oficiais do seu estado-maior; 10 m à retaguarda destes e a meio, a ordenança portadora do respectivo distintivo, seguida imediatamente pelo corneteiro ou clarim de ordens e restantes ordenanças.
+Art. 103.º - 1 - O comandante das forças em parada, quando se inicie o desfile, marcha no seu lugar de comando, seguido pelo seu séquito, na seguinte disposição: 1 m à sua direita e à retaguarda, o Chefe do Estado-Maior; 10 m à retaguarda e dispostos a três de frente, segundo a ordem de precedência e categorias, os restantes oficiais do seu estado-maior; 10 m à retaguarda destes e a meio, a ordenança portadora do respectivo distintivo, seguida imediatamente pelo corneteiro ou clarim de ordens e restantes ordenanças.
 
 2 - Passados 10 m além do ponto de desfile, coloca-se à direita e a 1 m à retaguarda da entidade que passou a revista, devendo o seu séquito incorporar-se por ordem de precedências ou categorias no da entidade que preside ao desfile.
 
@@ -821,29 +848,29 @@ Por sua vez, serão as únicas que tocarão simultânea ou alternadamente e deix
 
 4 - Terminado o desfile da última fracção, vai retomar o seu lugar de comando na formatura geral ou recolhe a quartéis, se as tropas já fizeram o mesmo.
 
-###### Art. 104.º As unidades de tipo batalhão, durante o desfile, conservam entre si uma distância de 20 m, podendo esta distância ser alterada para as tropas montadas ou motorizadas, conforme a velocidade em que se faça o desfile.
+Art. 104.º As unidades de tipo batalhão, durante o desfile, conservam entre si uma distância de 20 m, podendo esta distância ser alterada para as tropas montadas ou motorizadas, conforme a velocidade em que se faça o desfile.
 
-###### Art. 105.º - 1 - Terminado o desfile e formadas as unidades no local primitivo, se não recolheram a quartéis, o comandante das forças em parada vai receber da entidade as ordens e indicações que esta julgar dever dar-lhe, antes de ser prestada a continência final.
+Art. 105.º - 1 - Terminado o desfile e formadas as unidades no local primitivo, se não recolheram a quartéis, o comandante das forças em parada vai receber da entidade as ordens e indicações que esta julgar dever dar-lhe, antes de ser prestada a continência final.
 
 2 - A continência final só se presta se a entidade for da categoria 1.ª do quadro A (artigo 9.º) ou superior, tocando-se os hinos ou marchas adequadas.
 
-###### Art. 106.º Terminada a continência final, o comandante das forças solicita licença para mandar retirar por intermédio do seu adjunto ou ajudante. Concedida esta licença, manda unir fileiras e recolher a quartéis.
+Art. 106.º Terminada a continência final, o comandante das forças solicita licença para mandar retirar por intermédio do seu adjunto ou ajudante. Concedida esta licença, manda unir fileiras e recolher a quartéis.
 
-###### Art. 107.º - 1 - Nas revistas passadas aos regimentos ou unidades independentes pelo próprio comandante, a apresentação da força é feita pelo oficial mais graduado ou antigo que faça parte dela, seguindo-se por analogia o que ficou preceituado nos artigos anteriores.
+Art. 107.º - 1 - Nas revistas passadas aos regimentos ou unidades independentes pelo próprio comandante, a apresentação da força é feita pelo oficial mais graduado ou antigo que faça parte dela, seguindo-se por analogia o que ficou preceituado nos artigos anteriores.
 
 2 - À medida que o comandante do regimento se aproxima dos batalhões, o comandante respectivo vai ao encontro daquele no flanco e acompanha-o durante a revista da sua força.
 
 Procedimento idêntico é adoptado pelos comandantes das companhias ou unidades equivalentes em relação ao comandante de batalhão, quando for esta a entidade que efectue a revista.
 
-###### Art. 108.º - 1 - Durante as revistas de que tratam os artigos anteriores as bandas de música tocam marchas militares, podendo ou não ser acompanhadas por fanfarras ou por ternos de corneteiros (clarins).
+Art. 108.º - 1 - Durante as revistas de que tratam os artigos anteriores as bandas de música tocam marchas militares, podendo ou não ser acompanhadas por fanfarras ou por ternos de corneteiros (clarins).
 
 2 - Quando não exista banda de música, tocarão marchas militares as fanfarras ou os ternos de corneteiros (clarins). Os ternos de clarins das unidades montadas tocarão a marcha de guerra.
 
-###### Art. 109.º Nas revistas a bordo dos navios de guerra observar-se-á o determinado na Ordenança do Serviço Naval.
+Art. 109.º Nas revistas a bordo dos navios de guerra observar-se-á o determinado na Ordenança do Serviço Naval.
 
 ### CAPÍTULO VII — Formatura em alas
 
-###### Art. 110.º A formatura em alas tem normalmente por fim:
+Art. 110.º A formatura em alas tem normalmente por fim:
 
 Prestar honras ao Presidente da República;
 
@@ -851,7 +878,7 @@ Prestar honras a Chefes de Estado estrangeiros;
 
 Prestar honras fúnebres a altas entidades, quando tal for indicado por este Regulamento ou superiormente determinado.
 
-###### Art. 111.º - 1 - As forças que formarem em alas deverão organizar-se, quanto possível, do seguinte modo:
+Art. 111.º - 1 - As forças que formarem em alas deverão organizar-se, quanto possível, do seguinte modo:
 
 a) Comando das forças em alas (CFA):
 
@@ -951,7 +978,7 @@ Não são armadas baionetas;
 
 Os estandartes nacionais e guiões levarão um laço de crepe negro nas respectivas lanças.
 
-###### Art. 112.º - 1 - A formatura em alas poderá ser:
+Art. 112.º - 1 - A formatura em alas poderá ser:
 
 Simples;
 
@@ -961,7 +988,7 @@ Em xadrez.
 
 3 - Na formatura em alas em xadrez os militares formarão inicialmente em alas simples e, após se ter mandado numerar por dois, os números ímpares avançarão um passo, bem assim como os comandos, Estandarte Nacional e escolta, guiões, bandas, fanfarras e ternos de corneteiros (clarins).
 
-###### Art. 113.º - 1 - O comando superior providenciará para que cada unidade entre no itinerário a ocupar pelas alas em sentido contrário ao do percurso que será seguido pelo cortejo da entidade a quem se prestam honras.
+Art. 113.º - 1 - O comando superior providenciará para que cada unidade entre no itinerário a ocupar pelas alas em sentido contrário ao do percurso que será seguido pelo cortejo da entidade a quem se prestam honras.
 
 2 - O mesmo comando providenciará para que se executem reconhecimentos prévios e, se possível, marcações convenientes, por forma a cada unidade não ter qualquer dúvida sobre os limites da zona que deverá preencher com as suas forças em alas ao longo do itinerário que será percorrido pelo citado cortejo.
 
@@ -977,9 +1004,9 @@ Em xadrez.
 
 A primeira fileira da escolta do Estandarte Nacional e a primeira fileira das fanfarras e ternos de corneteiros (clarins) ficarão no alinhamento das alas.
 
-###### Art. 114.º As ruas transversais em que seja necessário manter o trânsito aberto não serão ocupadas pelas alas e o trânsito será interrompido apenas quando o cortejo se aproximar, devendo esta interrupção ser regulada pelos serviços de policiamento.
+Art. 114.º As ruas transversais em que seja necessário manter o trânsito aberto não serão ocupadas pelas alas e o trânsito será interrompido apenas quando o cortejo se aproximar, devendo esta interrupção ser regulada pelos serviços de policiamento.
 
-###### Art. 115.º - 1 - Dez minutos antes da hora de formatura pronta, o comando das forças com alas dispõe-se, convenientemente formado, com a organização indicada no n.º 1 do artigo 110.º, no extremo das alas oposto ao lado donde virá o cortejo.
+Art. 115.º - 1 - Dez minutos antes da hora de formatura pronta, o comando das forças com alas dispõe-se, convenientemente formado, com a organização indicada no n.º 1 do artigo 110.º, no extremo das alas oposto ao lado donde virá o cortejo.
 
 2 - À hora de formatura pronta, o clarim (requinta) de ordens do comando das forças em alas executa, por ordem do respectivo comandante, o toque de firme, sem sinal de execução, precedido do sinal da região militar ou equivalente a que as tropas pertencerem. Este toque será o aviso de que vai iniciar-se a revista às forças em alas pelo respectivo comandante.
 
@@ -1035,7 +1062,7 @@ se o CFA não é oficial general.
 
 11 - Terminada a revista, o comando das forças em alas desloca-se para a direita da primeira unidade em alas, do lado de onde virá o cortejo, ficando as viaturas em linha, intervaladas de 1 m, se possível com a frente alinhada pela respectiva fileira das alas, mantendo-se prontas (motores em funcionamento) para se intercalarem no cortejo.
 
-###### Art. 116.º - 1 - Logo que o cortejo se aproxime das alas (o que deverá ser apercebido pelo comandante das forças em alas pela aproximação dos batedores de vanguarda da escolta de honra), aquele comandante mandará executar o toque de firme (sem sinal de execução) precedido do sinal da região militar ou equivalente a que pertencem as tropas. Este toque será o aviso de que a entidade a quem se prestam honras vai entrar nas alas.
+Art. 116.º - 1 - Logo que o cortejo se aproxime das alas (o que deverá ser apercebido pelo comandante das forças em alas pela aproximação dos batedores de vanguarda da escolta de honra), aquele comandante mandará executar o toque de firme (sem sinal de execução) precedido do sinal da região militar ou equivalente a que pertencem as tropas. Este toque será o aviso de que a entidade a quem se prestam honras vai entrar nas alas.
 
 2 - O comandante da escolta de honra deve criar condições para que as viaturas do comando das forças em alas possam sair do local onde se encontram e ingressar no cortejo, imediatamente à retaguarda da viatura da entidade a quem se prestam honras. Para isto, poderá haver, se necessário, uma pequena paragem do cortejo. As viaturas da escolta do CFA não acompanham o comandante, devendo marchar imediatamente à retaguarda do grosso da escolta de honra.
 
@@ -1091,13 +1118,13 @@ Descansar;
 
 13 - Logo que a vanguarda da escolta de honra desembarace o itinerário, o CFA recolherá a quartéis.
 
-###### Art. 117.º - 1 - Se a entidade a quem se prestam honras tornar a percorrer, em sentido contrário, o mesmo itinerário, com as forças em alas, o comandante destas não mandará executar o toque de destroçar e irá colocar-se, com as viaturas de comando e escolta, no flanco das forças em alas, do lado de onde surgirá novamente o cortejo, dispondo-se as viaturas conforme o preceituado no n.º 11 do artigo 115.º
+Art. 117.º - 1 - Se a entidade a quem se prestam honras tornar a percorrer, em sentido contrário, o mesmo itinerário, com as forças em alas, o comandante destas não mandará executar o toque de destroçar e irá colocar-se, com as viaturas de comando e escolta, no flanco das forças em alas, do lado de onde surgirá novamente o cortejo, dispondo-se as viaturas conforme o preceituado no n.º 11 do artigo 115.º
 
 2 - Os comandantes de batalhão (ou das companhias não enquadradas), acompanhados dos seus corneteiros (clarins) de ordens deslocar-se-ão para o flanco da sua unidade, de onde surgirá novamente o cortejo.
 
 3 - Em tudo o mais proceder-se-á conforme o preceituado no artigo 116.º
 
-###### Art. 118.º Para as forças passarem das alas à coluna de marcha proceder-se-á do seguinte modo:
+Art. 118.º Para as forças passarem das alas à coluna de marcha proceder-se-á do seguinte modo:
 
 1) Por determinação dos comandantes de batalhão (ou companhias não enquadradas), os comandantes de pelotão darão a voz de direita (esquerda)-volver, por forma que todos os militares fiquem com a mesma frente que traziam ao entrarem no itinerário;
 
@@ -1109,7 +1136,7 @@ As fanfarras e outros elementos ocuparão os seus lugares na coluna de marcha.
 
 #### SECÇÃO I — Visitas a unidades e estabelecimentos militares em terra
 
-###### Art. 119.º Nas visitas oficiais, previamente anunciadas, a unidades e estabelecimentos militares em terra, o cerimonial à chegada da entidade deverá constar do seguinte:
+Art. 119.º Nas visitas oficiais, previamente anunciadas, a unidades e estabelecimentos militares em terra, o cerimonial à chegada da entidade deverá constar do seguinte:
 
 Uma guarda de honra com a composição indicada no capítulo V;
 
@@ -1121,7 +1148,7 @@ Após serem prestadas as honras devidas (continência, salvas, revista e desfile
 
 Seguidamente, desenvolver-se-á o programa estabelecido para a visita.
 
-###### Art. 120.º O cerimonial à partida da entidade será semelhante ao da chegada, mas processar-se-á por ordem inversa; considerar-se-ão, todavia, as seguintes alterações:
+Art. 120.º O cerimonial à partida da entidade será semelhante ao da chegada, mas processar-se-á por ordem inversa; considerar-se-ão, todavia, as seguintes alterações:
 
 1) Os cumprimentos de despedida serão muito mais breves, não havendo em regra cumprimentos individuais. Estará presente o comandante, director ou chefe (e o seu superior hierárquico, se for caso disso) acompanhado dos oficiais mais graduados, oficiais estes que formarão em linha, quanto possível próximo do local de saída;
 
@@ -1129,7 +1156,7 @@ Seguidamente, desenvolver-se-á o programa estabelecido para a visita.
 
 3) Não se executarão salvas.
 
-###### Art. 121.º - 1 - Nas visitas não anunciadas das entidades que adiante se indicam, uniformizadas ou trajando civilmente, a guarda formará ao brado de armas, executar-se-á o toque de sentido seguido do sinal adequado, sendo içado o distintivo correspondente, o qual se conservará no mastro enquanto as citadas entidades permanecerem na unidade ou estabelecimento militar.
+Art. 121.º - 1 - Nas visitas não anunciadas das entidades que adiante se indicam, uniformizadas ou trajando civilmente, a guarda formará ao brado de armas, executar-se-á o toque de sentido seguido do sinal adequado, sendo içado o distintivo correspondente, o qual se conservará no mastro enquanto as citadas entidades permanecerem na unidade ou estabelecimento militar.
 
 2 - O comandante e o oficial de serviço irão imediatamente receber a entidade visitante após a sua entrada e as ordenanças indicadas no capítulo V, secção IV (quadro B), apresentar-se-ão tão rapidamente quanto possível.
 
@@ -1155,23 +1182,23 @@ Outros oficiais da categoria 1.ª do quadro A (artigo 9.º), só quando uniformi
 
 5 - Os toques a que se faz referência neste artigo não se executam quando na unidade ou estabelecimento militar se encontrar qualquer entidade de categoria superior à que entra, a não ser o sinal de comandante.
 
-###### Art. 122.º As disposições contidas nos artigos desta secção, embora detalhadas, poderão eventualmente ser acrescidas de outras complementares resultantes de determinadas peculiaridades de cada um dos ramos das forças armadas.
+Art. 122.º As disposições contidas nos artigos desta secção, embora detalhadas, poderão eventualmente ser acrescidas de outras complementares resultantes de determinadas peculiaridades de cada um dos ramos das forças armadas.
 
 #### SECÇÃO II — Visitas a bordo de navios de guerra nacionais ou estrangeiros
 
-###### Art. 123.º A bordo dos navios de guerra seguir-se-ão as disposições constantes da Ordenança do Serviço Naval, nomeadamente as que constam dos artigos seguintes.
+Art. 123.º A bordo dos navios de guerra seguir-se-ão as disposições constantes da Ordenança do Serviço Naval, nomeadamente as que constam dos artigos seguintes.
 
-###### Art. 124.º - 1 - Todo o militar, quando entrar ou sair de bordo de um navio de guerra, deve saudar a Bandeira Nacional que se encontra içada à popa.
+Art. 124.º - 1 - Todo o militar, quando entrar ou sair de bordo de um navio de guerra, deve saudar a Bandeira Nacional que se encontra içada à popa.
 
 2 - A saudação referida é feita no patim superior do portaló ou na prancha de desembarque, voltando-se o militar para o local onde a Bandeira estiver içada e fazendo então a continência.
 
-###### Art. 125.º - 1 - Em cerimónias ou visitas oficiais é obrigatório o uso dos distintivos indicados na Ordenança do Serviço Naval, que serão arvorados à proa das embarcações miúdas da Armada quando conduzam as autoridades a que eles correspondem.
+Art. 125.º - 1 - Em cerimónias ou visitas oficiais é obrigatório o uso dos distintivos indicados na Ordenança do Serviço Naval, que serão arvorados à proa das embarcações miúdas da Armada quando conduzam as autoridades a que eles correspondem.
 
 2 - Os distintivos referidos são arvorados à proa das embarcações miúdas da Armada quando os oficiais ou autoridades militares que eles designam embarquem nelas devidamente uniformizados.
 
-###### Art. 126.º A flâmula, distintivo dos navios da Armada, é arvorada à proa das embarcações miúdas quando conduzam oficiais ou aspirantes a oficial, quer uniformizados, quer em trajo civil, desde o içar ao ao arriar da Bandeira Nacional nos navios da Armada e lhes não pertença distintivo especial.
+Art. 126.º A flâmula, distintivo dos navios da Armada, é arvorada à proa das embarcações miúdas quando conduzam oficiais ou aspirantes a oficial, quer uniformizados, quer em trajo civil, desde o içar ao ao arriar da Bandeira Nacional nos navios da Armada e lhes não pertença distintivo especial.
 
-###### Art. 127.º - 1 - Quando oficiais e aspirantes a oficial ou pessoas com categoria de oficial entrarem ou saírem de bordo de um navio da Armada, o contramestre de serviço fará o sinal de apito regulamentar e postar-se-á ao portaló o número de moços de cabos abaixo designados para as diversas categorias:
+Art. 127.º - 1 - Quando oficiais e aspirantes a oficial ou pessoas com categoria de oficial entrarem ou saírem de bordo de um navio da Armada, o contramestre de serviço fará o sinal de apito regulamentar e postar-se-á ao portaló o número de moços de cabos abaixo designados para as diversas categorias:
 
 Para oficiais generais, 4;
 
@@ -1181,9 +1208,9 @@ Para os outros oficiais e aspirantes a oficial, 2.
 
 3 - Quando for um oficial general ou qualquer comandante ou oficial do Estado-Maior da Armada mais graduado ou do mesmo posto do comandante do navio, o sinal de apito será feito pelo mestre do navio.
 
-###### Art. 128.º Quando uma embarcação com distintivo a que pertence guarda formada passar a menos de 100 m de distância de um navio da Armada, a guarda formará na tolda, ou tombadilho, quando a haja, com frente à embarcação e os clarins farão os devidos toques de continência. Nos navios onde não haja clarim nem guarda far-se-á somente o sinal de sentido com o apito.
+Art. 128.º Quando uma embarcação com distintivo a que pertence guarda formada passar a menos de 100 m de distância de um navio da Armada, a guarda formará na tolda, ou tombadilho, quando a haja, com frente à embarcação e os clarins farão os devidos toques de continência. Nos navios onde não haja clarim nem guarda far-se-á somente o sinal de sentido com o apito.
 
-###### Art. 129.º - 1 - As honras e salvas a prestar aos oficiais do Exército e da Força Aérea em visita oficial a bordo dos navios de guerra constam do quadro C anexo a esta secção.
+Art. 129.º - 1 - As honras e salvas a prestar aos oficiais do Exército e da Força Aérea em visita oficial a bordo dos navios de guerra constam do quadro C anexo a esta secção.
 
 2 - Os procedimentos a observar pelos oficiais visitantes constam do mesmo quadro.
 
@@ -1193,15 +1220,15 @@ QUADRO C
 
 Procedimentos a observar durante a vista de oficiais do Exército e da Força Aérea a bordo dos navios de guerra (quando em visita oficial).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
 
 #### SECÇÃO III — Visitas e retribuição de visitas nos portos nacionais e nas fronteiras terrestres
 
-###### Art. 130.º Nos portos nacionais, em visitas trocadas entre os comandantes de força naval ou de navio solto e as autoridades locais, deve observar-se o seguinte:
+Art. 130.º Nos portos nacionais, em visitas trocadas entre os comandantes de força naval ou de navio solto e as autoridades locais, deve observar-se o seguinte:
 
 Com excepção do porto de Lisboa, logo que chegue qualquer força naval ou navio solto nacional ou estrangeiro, as autoridades superiores da localidade (militar e civil) deverão mandar a bordo do navio-chefe ou navio solto um oficial (ou funcionário de igual categoria, quando se tratar de autoridades civis) para fazer visita preliminar, a qual não é retribuída. O comandante informar-se-á por intermédio deste oficial do grau de hierarquia daquela autoridade, bem como das horas mais convenientes para serem feitas as visitas a que se refere o artigo seguinte.
 
-###### Art. 131.º - 1 - O comandante da força naval ou do navio solto que entre em qualquer porto nacional, com excepção do porto de Lisboa, trocará visitas com as autoridades locais pela forma seguinte:
+Art. 131.º - 1 - O comandante da força naval ou do navio solto que entre em qualquer porto nacional, com excepção do porto de Lisboa, trocará visitas com as autoridades locais pela forma seguinte:
 
 a) Os Presidentes dos Governos Regionais, na área dos respectivos Governos, recebem sempre a primeira visita dos comandantes de forças navais e de navios soltos;
 
@@ -1219,23 +1246,23 @@ d) Os comandantes das forças armadas (ou das forças terrestres e das forças a
 
 4 - Os avisos sobre a chegada de força naval ou navio solto e hierarquias dos respectivos comandantes são feitos pela autoridade naval e, na sua falta, pela autoridade marítima.
 
-###### Art. 132.º A retribuição das visitas a que se refere o artigo anterior será feita no prazo de vinte e quatro horas pela seguinte forma:
+Art. 132.º A retribuição das visitas a que se refere o artigo anterior será feita no prazo de vinte e quatro horas pela seguinte forma:
 
 1) Os Presidentes dos Governos Regionais, os comandantes das forças armadas (ou das forças terrestres e das forças aéreas, se o comando não estiver unificado), sendo oficiais generais, e os governadores civis retribuem pessoalmente as visitas feitas por oficiais-generais e capitães-de-mar-e-guerra e, quando forem visitados por oficiais de graduação inferior, mandarão retribuir as visitas por um oficial de patente quanto possível igual, mas nunca inferior, à daqueles comandantes; na falta de oficiais que satisfaçam a esta condição, as autoridades civis atrás referidas poderão mandar retribuir a visita pelo Secretário do Governo;
 
 2) As outras autoridades civis ou militares retribuem pessoalmente as visitas feitas por todos os comandantes, quaisquer que sejam as suas patentes.
 
-###### Art. 133.º Quando, por doença, por serviço urgente ou por outro motivo justificado, qualquer autoridade militar não puder ir pessoalmente fazer ou retribuir a visita a que seja obrigada, será esta feita pela entidade que legalmente a substitua, explicando a razão por que o seu superior não a faz pessoalmente, devendo este dar conta do facto à autoridade militar de quem directamente depender.
+Art. 133.º Quando, por doença, por serviço urgente ou por outro motivo justificado, qualquer autoridade militar não puder ir pessoalmente fazer ou retribuir a visita a que seja obrigada, será esta feita pela entidade que legalmente a substitua, explicando a razão por que o seu superior não a faz pessoalmente, devendo este dar conta do facto à autoridade militar de quem directamente depender.
 
-###### Art. 134.º - 1 - As visitas de que trata o artigo 130.º só serão feitas quando o comandante da força naval ou navio solto chegar pela primeira vez ao porto ou depois de ter decorrido um ano sobre a sua última estada no mesmo.
+Art. 134.º - 1 - As visitas de que trata o artigo 130.º só serão feitas quando o comandante da força naval ou navio solto chegar pela primeira vez ao porto ou depois de ter decorrido um ano sobre a sua última estada no mesmo.
 
 2 - Fora das condições indicadas no n.º 1, as referidas visitas serão feitas sempre que forem substituídas as entidades ou os comandantes a que dizem respeito.
 
-###### Art. 135.º Nos comandos militares da fronteira terrestre, as visitas às autoridades do país vizinho serão feitas segundo as instruções que para cada caso forem dadas pelo escalão superior.
+Art. 135.º Nos comandos militares da fronteira terrestre, as visitas às autoridades do país vizinho serão feitas segundo as instruções que para cada caso forem dadas pelo escalão superior.
 
 ### CAPÍTULO IX — Honras fúnebres
 
-###### Art. 136.º - 1 - Quando falecer o Presidente da República ou qualquer militar na efectividade de serviço (quadro permanente ou quadro de complemento), ser-lhe-ão prestadas as honras fúnebres constantes do quadro D do presente capítulo.
+Art. 136.º - 1 - Quando falecer o Presidente da República ou qualquer militar na efectividade de serviço (quadro permanente ou quadro de complemento), ser-lhe-ão prestadas as honras fúnebres constantes do quadro D do presente capítulo.
 
 2 - Os militares do quadro permanente na situação de reserva, não prestando serviço, e os reformados terão as seguintes honras:
 
@@ -1253,33 +1280,33 @@ Guarda de honra: uma secção à entrada do cemitério, que executará três des
 
 Se de todo não for possível, a unidade ou unidades dos outros ramos mais próximos da localidade onde se efectua o funeral prestam as honras devidas ou reforçam o efectivo das forças referidas.
 
-###### Art. 137.º Poderão ser prestadas honras fúnebres militares a entidades não constantes do artigo anterior, quando tal for determinado superiormente. Esta determinação deverá indicar qual a categoria a aplicar do quadro D deste capítulo.
+Art. 137.º Poderão ser prestadas honras fúnebres militares a entidades não constantes do artigo anterior, quando tal for determinado superiormente. Esta determinação deverá indicar qual a categoria a aplicar do quadro D deste capítulo.
 
-###### Art. 138.º - 1 - Falecendo o Presidente da República, em todos os quartéis e estabelecimentos militares será içada a Bandeira Nacional a meia haste, assim se conservando durante o tempo que for determinado.
+Art. 138.º - 1 - Falecendo o Presidente da República, em todos os quartéis e estabelecimentos militares será içada a Bandeira Nacional a meia haste, assim se conservando durante o tempo que for determinado.
 
 2 - A Bandeira Nacional vai a tope antes de ser içada a meia haste ou posteriormente arriada.
 
 3 - Os estandartes nacionais e as bandeiras militares (estandartes, guiões, etc.) que tomarem parte nas cerimónias fúnebres (escoltas de honra, guardas de honra, formatura em alas) usarão um laço de crepe negro nas respectivas lanças.
 
-###### Art. 139.º O comandante da unidade que fornece todas as forças ou o maior efectivo acompanhará pessoalmente o funeral ou far-se-á representar por um oficial seu delegado, devendo apresentar condolências à família enlutada.
+Art. 139.º O comandante da unidade que fornece todas as forças ou o maior efectivo acompanhará pessoalmente o funeral ou far-se-á representar por um oficial seu delegado, devendo apresentar condolências à família enlutada.
 
-###### Art. 140.º - 1 - São dispensadas as honras fúnebres quando, por disposição escrita do finado, assim for desejado.
+Art. 140.º - 1 - São dispensadas as honras fúnebres quando, por disposição escrita do finado, assim for desejado.
 
 2 - Na falta da referida disposição escrita, se a família ou outras pessoas idóneas apresentarem pedido no sentido de dispensa de honras, poderá o mesmo ser ou não atendido pela entidade militar competente.
 
-###### Art. 141.º Durante o funeral, a uma do militar falecido será coberta com a Bandeira Nacional, fornecida pelo comando que faculta os meios para as honras a prestar.
+Art. 141.º Durante o funeral, a uma do militar falecido será coberta com a Bandeira Nacional, fornecida pelo comando que faculta os meios para as honras a prestar.
 
-###### Art. 142.º Sempre que em qualquer unidade ou estabelecimento militar esteja armada câmara ardente de militar, será içada a Bandeira Nacional, a meia haste, desde que a câmara ardente é armada até ao féretro sair da mesma.
+Art. 142.º Sempre que em qualquer unidade ou estabelecimento militar esteja armada câmara ardente de militar, será içada a Bandeira Nacional, a meia haste, desde que a câmara ardente é armada até ao féretro sair da mesma.
 
-###### Art. 143.º O pessoal que constitui as guardas de honra à câmara-ardente, a formatura em alas ou o acompanhamento dentro do cemitério pertencerá, sempre que possível, à unidade ou estabelecimento do extinto, no caso de o mesmo estar no serviço efectivo à data do falecimento. Quando o falecido estiver na situação de reserva, mas não prestando serviço, ou na de reforma, o citado pessoal será, sempre que possível, da última unidade ou estabelecimento onde prestou serviço.
+Art. 143.º O pessoal que constitui as guardas de honra à câmara-ardente, a formatura em alas ou o acompanhamento dentro do cemitério pertencerá, sempre que possível, à unidade ou estabelecimento do extinto, no caso de o mesmo estar no serviço efectivo à data do falecimento. Quando o falecido estiver na situação de reserva, mas não prestando serviço, ou na de reforma, o citado pessoal será, sempre que possível, da última unidade ou estabelecimento onde prestou serviço.
 
-###### Art. 144.º Os militares que constituem a guarda de honra à câmara-ardente manter-se-ão na posição de sentido.
+Art. 144.º Os militares que constituem a guarda de honra à câmara-ardente manter-se-ão na posição de sentido.
 
 A rendição destes militares deverá efectuar-se, no máximo, de meia em meia hora.
 
-###### Art. 145.º As escoltas de honra regular-se-ão pelo prescrito no capítulo V, secção II.
+Art. 145.º As escoltas de honra regular-se-ão pelo prescrito no capítulo V, secção II.
 
-###### Art. 146.º - 1 - A guarda de honra à entrada do cemitério tomará a posição de sentido para prestar continência a todas as patentes superiores à do seu comandante.
+Art. 146.º - 1 - A guarda de honra à entrada do cemitério tomará a posição de sentido para prestar continência a todas as patentes superiores à do seu comandante.
 
 2 - Ao aproximar-se o féretro, tomará a posição de funeral-armas e nesta posição se conservará até que o mesmo atinja a porta do cemitério. Durante esta continência a banda de música tocará uma marcha fúnebre ou, na sua falta, a fanfarra ou o terno de corneteiros (clarins) executarão a marcha de continência.
 
@@ -1289,13 +1316,13 @@ A rendição destes militares deverá efectuar-se, no máximo, de meia em meia h
 
 5 - A mesma guarda de honra recolherá a quartéis depois de o féretro e pessoas que o acompanham terem entrado no cemitério.
 
-###### Art. 147.º A formatura em alas nas ruas do trajecto entre a câmara-ardente e o cemitério regular-se-á pelo prescrito no capítulo VII e, quando no interior do cemitério, dentro do possível, pelas mesmas disposições.
+Art. 147.º A formatura em alas nas ruas do trajecto entre a câmara-ardente e o cemitério regular-se-á pelo prescrito no capítulo VII e, quando no interior do cemitério, dentro do possível, pelas mesmas disposições.
 
-###### Art. 148.º - 1 - A força referida no quadro D deste capítulo para as categorias V a XI do mesmo quadro, que constitui o acompanhamento dentro do cemitério, deverá estar postada em alas simples, a partir da porta de entrada, antes da chegada do féretro ao cemitério.
+Art. 148.º - 1 - A força referida no quadro D deste capítulo para as categorias V a XI do mesmo quadro, que constitui o acompanhamento dentro do cemitério, deverá estar postada em alas simples, a partir da porta de entrada, antes da chegada do féretro ao cemitério.
 
 2 - Logo que o cortejo fúnebre inicie o movimento a caminho do jazigo ou coval, o comandante da força ordenará que esta volte para o flanco do sentido do movimento e inicie a marcha em passo lento, em harmonia com o andamento do cortejo, ladeando e acompanhando o féretro. Fará alto junto do jazigo ou coval. Logo que as pessoas que acompanharam o féretro abandonam o local, reunir-se-á em formatura normal e recolherá a quartéis.
 
-###### Art. 149.º - 1 - Quando o militar falecido possuir condecorações, o comando que organiza as honras fúnebres nomeará um militar para transportar uma almofada com as condecorações, espada ou espadim (se for oficial) e o boné (se for oficial ou sargento) ou bóina do falecido desde a entrada do cemitério, seguindo imediatamente à retaguarda do féretro. Depositado o corpo no jazigo ou coval, os objectos transportados serão entregues à família do finado.
+Art. 149.º - 1 - Quando o militar falecido possuir condecorações, o comando que organiza as honras fúnebres nomeará um militar para transportar uma almofada com as condecorações, espada ou espadim (se for oficial) e o boné (se for oficial ou sargento) ou bóina do falecido desde a entrada do cemitério, seguindo imediatamente à retaguarda do féretro. Depositado o corpo no jazigo ou coval, os objectos transportados serão entregues à família do finado.
 
 2 - Quando o militar falecer desempenhando cargos em que disponha de um ou mais ajudantes, será um destes normalmente quem transportará a almofada com os objectos mencionados. Quando tal não suceder, o militar a nomear será da seguinte graduação:
 
@@ -1309,61 +1336,61 @@ Para sargentos: sargento;
 
 Para praças: praça.
 
-###### Art. 150.º - 1 - Os militares falecidos em serviço activo, na reserva ou reforma, quando galardoados com os graus da condecoração que abaixo se indica, terão as honras fúnebres dos militares do activo dos postos a seguir mencionados, se o posto que possuíam na hierarquia militar não era superior.
+Art. 150.º - 1 - Os militares falecidos em serviço activo, na reserva ou reforma, quando galardoados com os graus da condecoração que abaixo se indica, terão as honras fúnebres dos militares do activo dos postos a seguir mencionados, se o posto que possuíam na hierarquia militar não era superior.
 
 Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
 
 2 - Quando o falecido estiver na situação de reserva ou reforma e tiver posto igual ou superior ao indicado no quadro constante do número anterior terá honras fúnebres do seu posto como se estivesse no activo.
 
-###### Art. 151.º Quando ocorrer falecimento de Chefe de Estado estrangeiro ou de qualquer representante de nação estrangeira ser-lhe-ão prestadas as honras fúnebres militares que superiormente forem determinadas.
+Art. 151.º Quando ocorrer falecimento de Chefe de Estado estrangeiro ou de qualquer representante de nação estrangeira ser-lhe-ão prestadas as honras fúnebres militares que superiormente forem determinadas.
 
-###### Art. 152.º A bordo dos navios de guerra observa-se, em relação a honras fúnebres, o determinado na Ordenança do Serviço Naval.
+Art. 152.º A bordo dos navios de guerra observa-se, em relação a honras fúnebres, o determinado na Ordenança do Serviço Naval.
 
-###### Art. 153.º As honras fúnebres preceituadas neste capítulo poderão ser adaptadas ou complementadas por disposições peculiares do respectivo ramo das forças armadas.
+Art. 153.º As honras fúnebres preceituadas neste capítulo poderão ser adaptadas ou complementadas por disposições peculiares do respectivo ramo das forças armadas.
 
 QUADRO D
 
 Honras fúnebres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 154.º Os militares de qualquer categoria, em serviço activo, na reserva ou na reforma, quando galardoados com os graus da condecoração que a seguir se indicam e ostentando as respectivas insígnias, terão as honras dos postos mencionados no quadro a seguir inserido, se o posto que possuem na hierarquia militar não for superior:
+Art. 154.º Os militares de qualquer categoria, em serviço activo, na reserva ou na reforma, quando galardoados com os graus da condecoração que a seguir se indicam e ostentando as respectivas insígnias, terão as honras dos postos mencionados no quadro a seguir inserido, se o posto que possuem na hierarquia militar não for superior:
 
 Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
 
-###### Art. 155.º Não é permitido que forças militares efectuem guardas de honra ou tomem parte em cerimónias religiosas ou outras de carácter público, a não ser que se trate de solenidades promovidas pelas autoridades militares ou com a sua colaboração, superiormente determinada ou autorizada.
+Art. 155.º Não é permitido que forças militares efectuem guardas de honra ou tomem parte em cerimónias religiosas ou outras de carácter público, a não ser que se trate de solenidades promovidas pelas autoridades militares ou com a sua colaboração, superiormente determinada ou autorizada.
 
-###### Art. 156.º Não é permitido às bandas militares:
+Art. 156.º Não é permitido às bandas militares:
 
 1) Tomarem parte em cerimónias religiosas ou outras de carácter público, a não ser que as mesmas sejam promovidas pelas autoridades militares ou que a sua comparticipação seja superiormente determinada ou autorizada;
 
 2) Deslocarem-se na via pública tocando sem que acompanhem qualquer força militar.
 
-###### Art. 157.º As continências e honras inerentes aos oficiais em representação do Presidente da República serão sempre as devidas a este, independentemente do posto do representante.
+Art. 157.º As continências e honras inerentes aos oficiais em representação do Presidente da República serão sempre as devidas a este, independentemente do posto do representante.
 
-###### Art. 158.º Os Vice-Chefes do Estado-Maior dos três ramos das forças armadas têm precedência sobre os Comandantes-Chefes dos Açores e da Madeira e sobre os comandantes das regiões militares (comandos navais ou aéreos), na área da respectiva jurisdição, somente em cerimónias onde representem o ramo a que pertencem.
+Art. 158.º Os Vice-Chefes do Estado-Maior dos três ramos das forças armadas têm precedência sobre os Comandantes-Chefes dos Açores e da Madeira e sobre os comandantes das regiões militares (comandos navais ou aéreos), na área da respectiva jurisdição, somente em cerimónias onde representem o ramo a que pertencem.
 
-###### Art. 159.º - 1 - Aos representantes de quaisquer entidades militares que não sejam as referidas nos artigos 157.º e 158.º são apenas devidas as continências e honras inerentes ao seu posto e antiguidade.
+Art. 159.º - 1 - Aos representantes de quaisquer entidades militares que não sejam as referidas nos artigos 157.º e 158.º são apenas devidas as continências e honras inerentes ao seu posto e antiguidade.
 
 2 - Para as entidades civis as honras a prestar aos representantes são as devidas à entidade representada.
 
-###### Art. 160.º Os Comandantes-Chefes dos Açores e da Madeira, na área da sua jurisdição, terão sempre honras de vice-almirante ou general, mesmo que sejam capitães-de-mar-e-guerra ou coronéis.
+Art. 160.º Os Comandantes-Chefes dos Açores e da Madeira, na área da sua jurisdição, terão sempre honras de vice-almirante ou general, mesmo que sejam capitães-de-mar-e-guerra ou coronéis.
 
-###### Art. 161.º Os comandantes das regiões militares (comandos navais ou aéreos), na área do seu comando, têm precedência sobre todos os outros oficiais da mesma patente, independentemente da sua antiguidade.
+Art. 161.º Os comandantes das regiões militares (comandos navais ou aéreos), na área do seu comando, têm precedência sobre todos os outros oficiais da mesma patente, independentemente da sua antiguidade.
 
-###### Art. 162.º Nas cerimónias militares presididas por altas entidades, o comandante da unidade ou estabelecimento militar em que elas se realizam fica colocado:
+Art. 162.º Nas cerimónias militares presididas por altas entidades, o comandante da unidade ou estabelecimento militar em que elas se realizam fica colocado:
 
 1) Quando se constitua mesa de honra, entre os elementos que a compõem no lugar que lhe corresponda pela sua hierarquia;
 
 2) Quando não se constitua mesa de honra, imediatamente à esquerda da entidade que preside.
 
-###### Art. 163.º Em aquartelamentos ou estacionamentos de tropas estrangeiras em território nacional, as bandeiras de países estrangeiros nunca serão hasteadas em mastros implantados no solo, mas sim em mastros colocados em edifícios (quartéis-generais, comandos, secretarias, messes, etc.).
+Art. 163.º Em aquartelamentos ou estacionamentos de tropas estrangeiras em território nacional, as bandeiras de países estrangeiros nunca serão hasteadas em mastros implantados no solo, mas sim em mastros colocados em edifícios (quartéis-generais, comandos, secretarias, messes, etc.).
 
 ## ANEXO I — (Artigo 53.º)
 
@@ -1437,7 +1464,7 @@ d) A alta entidade será a primeira pessoa a desembarcar
 
 QUADRO E
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19800/23972431.pdf)
 
 ## ANEXO IV — (Artigo 97.º)
 

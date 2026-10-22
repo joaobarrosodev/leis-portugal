@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/325-1972-676635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83549b7fc09cc6cefdedd232299c0b741499e37277d6a596b94065600f2cdd3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f1ed64131d71a47d0d63a55a04df372191c31e889107cdc27b0f5d920fa4c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:17Z'
   warnings: []
   errors: []
 ---
@@ -89,29 +97,29 @@ Com fundamento no n.º 3 do artigo único do [Decreto-Lei n.º 467/71](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte.
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 120963000$00, destinados quer a reforçar verbas insuficientes dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 120963000$00, destinados quer a reforçar verbas insuficientes dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 12.º «Contas de ordem»:
+Capítulo 12.º «Contas de ordem»:
 
-###### Artigo 494.º «Fundo do Teatro» ... 3000000$00
+Artigo 494.º «Fundo do Teatro» ... 3000000$00
 
-###### Artigo 495.º «Fundo de Turismo» ... 55000000$00
+Artigo 495.º «Fundo de Turismo» ... 55000000$00
 
-### Capítulo 16.º «Despesas comuns»:
+Capítulo 16.º «Despesas comuns»:
 
 Reconversão e ampliação das escolas e instalações portuárias, oficinais e de armazenamento da marinha de guerra.
 
-###### Artigo 548.º «Bens duradouros» ... 43848000$00
+Artigo 548.º «Bens duradouros» ... 43848000$00
 
 ... 101848000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 5.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 5.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 77.º «Bens duradouros»:
+Artigo 77.º «Bens duradouros»:
 
 N.º 1 «Construções e grandes reparações»:
 
@@ -119,45 +127,45 @@ Alínea 18 «Estação de Melhoramento de Plantas, em Elvas ... 300000$00
 
 Ministério da Economia
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 432.º «Fundo de Fomento de Exportação»:
+Artigo 432.º «Fundo de Fomento de Exportação»:
 
 N.º 1 «Serviços gerais» ... 12250000$00
 
 Ministério das Comunicações
 
-### Capítulo 14.º «Juntas Autónomas dos Portos»:
+Capítulo 14.º «Juntas Autónomas dos Portos»:
 
 Distrito de Ponta Delgada
 
-###### Artigo 369.º «Investimentos»:N.º 1 «Material de transporte» ... 6565000$00
+Artigo 369.º «Investimentos»:N.º 1 «Material de transporte» ... 6565000$00
 
 ... 120963000$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação e melhoramento de edifícios» ... 300000$00
+Capítulo 7.º, grupo 8, artigo 193.º «Reembolso das despesas com a construção, conservação e melhoramento de edifícios» ... 300000$00
 
-### Capítulo 15.º, artigo 311.º «Fundo do Teatro» ... 3000000$00
+Capítulo 15.º, artigo 311.º «Fundo do Teatro» ... 3000000$00
 
-### Capítulo 15.º, artigo 312.º «Fundo de Turismo» ... 55000000$00
+Capítulo 15.º, artigo 312.º «Fundo de Turismo» ... 55000000$00
 
-### Capítulo 15.º, artigo 328.º «Fundo de Fomento de Exportação - Serviços gerais» ... 12250000$00
+Capítulo 15.º, artigo 328.º «Fundo de Fomento de Exportação - Serviços gerais» ... 12250000$00
 
 ... 70550000$00
 
 Receita extraordinária:
 
-### Capítulo 10.º, grupo 1, artigo 355.º «Reembolso do valor dos autofinanciamentos destinados a empreendimentos integrados no III Plano de Fomento»:
+Capítulo 10.º, grupo 1, artigo 355.º «Reembolso do valor dos autofinanciamentos destinados a empreendimentos integrados no III Plano de Fomento»:
 
 «Da Junta Autónoma dos Porto do Distrito de Ponta Delgada» ... 6565000$00
 
-### Capítulo 13.º, artigo 368.º «Importância de parte dos saldos de contas de anos económicos findos» ... 43848000$00
+Capítulo 13.º, artigo 368.º «Importância de parte dos saldos de contas de anos económicos findos» ... 43848000$00
 
 ... 50413000$00
 
@@ -165,8 +173,8 @@ Receita extraordinária:
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

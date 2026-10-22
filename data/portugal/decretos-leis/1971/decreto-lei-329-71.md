@@ -49,36 +49,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1971-642962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ba12955eb55261c0bf7a9818350c469bffc2ce56931701ac85ad48238a10b47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9731c16cae175d3fd527c74ba551782d0c80d3646077f7721c1dd10c5c021c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração de Portos
+- Administração Geral do Porto de Lisboa
+- Contrato de Concessão
+- Criação de Empresas
+- Depósito Franco
+- Exploração Portuária
+- Portos
+- Regime Jurídico
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:225777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:630239:por
+  label: "Rectificados o nº 2 da base II, o nº 2 da base III, o nº 1 da base VIII, e o nº 2 da base XV anexas pela RECT.DD384.27.08.1971.PC,\
+    \ DG.IS [202] de 27.08.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-630239
+  date: '1971-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:34Z'
   warnings: []
   errors: []
 ---
@@ -97,33 +128,33 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral do Porto de Lisboa autorizada a contratar com empresa a constituir nos termos do artigo 3.º a concessão do direito de construir e explorar em regime de serviço público um terminal portuário destinado à movimentação, armazenagem, embalagem, desembalagem, mistura e operações conexas, incidindo sobre fluidos a granel, com excepção dos derivados da destilação do petróleo bruto utilizados como combustíveis ou como lubrificantes de motores.
+Artigo 1.º Fica a Administração-Geral do Porto de Lisboa autorizada a contratar com empresa a constituir nos termos do artigo 3.º a concessão do direito de construir e explorar em regime de serviço público um terminal portuário destinado à movimentação, armazenagem, embalagem, desembalagem, mistura e operações conexas, incidindo sobre fluidos a granel, com excepção dos derivados da destilação do petróleo bruto utilizados como combustíveis ou como lubrificantes de motores.
 
-###### Art. 2.º - 1. A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante e baixam assinadas pelo Ministro das Comunicações.
+Art. 2.º - 1. A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante e baixam assinadas pelo Ministro das Comunicações.
 
 2. Os produtos a que se refere o artigo 1.º, o terreno onde serão construídas as instalações, o plano geral do estabelecimento, bem como os prazos em que este deverá estar concluído, constarão de anexos ao contrato de concessão, que serão aprovados pelo Ministro das Comunicações.
 
-###### Art. 3.º - 1. A concessionária revestirá a forma de sociedade anónima de responsabilidade limitada e terá a sua sede na cidade de Lisboa.
+Art. 3.º - 1. A concessionária revestirá a forma de sociedade anónima de responsabilidade limitada e terá a sua sede na cidade de Lisboa.
 
 2. A sociedade obedecerá na sua constituição ao disposto na [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, e artigos 21.º e seguintes do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
-###### Art. 4.º É autorizada a Administração-Geral do Porto de Lisboa a subscrever até 25 por cento do capital da concessionária.
+Art. 4.º É autorizada a Administração-Geral do Porto de Lisboa a subscrever até 25 por cento do capital da concessionária.
 
-###### Art. 5.º - 1. O Governo poderá nomear um administrador por parte do Estado.
+Art. 5.º - 1. O Governo poderá nomear um administrador por parte do Estado.
 
 2. O administrador nomeado exercerá o mandato nos termos do [Decreto-Lei n.º 139/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1970-225777), de 7 de Abril, com dispensa da observância do disposto no artigo 174.º do Código Comercial.
 
-###### Art. 6.º Ficarão sujeitos ao regime de depósito geral franco as mercadorias armazenadas no terminal portuário.
+Art. 6.º Ficarão sujeitos ao regime de depósito geral franco as mercadorias armazenadas no terminal portuário.
 
-###### Art. 7.º Os encargos a que der lugar o disposto no artigo 4.º serão liquidados em conta de verba adequada, inscrita ou a inscrever em orçamento da Administração-Geral do Porto de Lisboa.
+Art. 7.º Os encargos a que der lugar o disposto no artigo 4.º serão liquidados em conta de verba adequada, inscrita ou a inscrever em orçamento da Administração-Geral do Porto de Lisboa.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 16 de Julho de 1971.**
+Promulgado em 16 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -419,4 +450,4 @@ BASE XXIV
 
 3. O tribunal funcioná em Lisboa e será constituído por três árbitros, um dos quais será nomeado pela A. G. P. L., outro pela concessionária e o terceiro por acordo entre ambas ou, na falta deste, nos termos do Código de Processo Civil.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

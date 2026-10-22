@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42929-1960-281583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 147f72b9f61308ab056e45d17411ed6ef721131d2558ca67f2a6437f76fac02d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4d686aa23f57025b5e5967ea4adfb11d37a5ecb0c4189ed63b9523e76b000e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério da Marinha
+- Pessoal Civil
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:237155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369406:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:59Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +107,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No mapa I anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, são aumentados os lugares seguintes:
+Artigo 1.º No mapa I anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, são aumentados os lugares seguintes:
 
 B) Agentes técnicos
 
@@ -145,9 +161,9 @@ O) Pessoal de outras categorias:
 
 § 2.º O actual auxiliar de investigador do Instituto de Biologia Marítima, possuidor das habilitações legais exigidas, é provido num dos novos lugares de investigador de 3.ª classe criados pelo presente diploma.
 
-###### Art. 2.º Para efeitos de provimento, os lugares de auxiliar de investigador, estagiário e arquivista do Instituto de Biologia Marítima consideram-se incluídos na alínea b) do artigo 6.º do [Decreto-Lei n.º 37187](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37187-1948-369406), de 24 de Novembro de 1948.
+Art. 2.º Para efeitos de provimento, os lugares de auxiliar de investigador, estagiário e arquivista do Instituto de Biologia Marítima consideram-se incluídos na alínea b) do artigo 6.º do [Decreto-Lei n.º 37187](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37187-1948-369406), de 24 de Novembro de 1948.
 
-###### Art. 3.º São integradas nos grupos de vencimentos do mapa II anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, as categorias seguintes:
+Art. 3.º São integradas nos grupos de vencimentos do mapa II anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, as categorias seguintes:
 
 F - Investigadores de 1.ª classe do Instituto de Biologia Marítima.
 
@@ -177,9 +193,9 @@ Do grupo P - Analista e auxiliares de investigadores do Instituto de Biologia Ma
 
 Do grupo R - Fotógrafos.
 
-###### Art. 4.º No ano em curso, os encargos resultantes da execução do presente diploma serão suportados pela verba para tal efeito aditada à dotação inscrita no capítulo 5.º, artigo 179.º, n.º 1), do orçamento de despesa do Ministério da Marinha em vigor.
+Art. 4.º No ano em curso, os encargos resultantes da execução do presente diploma serão suportados pela verba para tal efeito aditada à dotação inscrita no capítulo 5.º, artigo 179.º, n.º 1), do orçamento de despesa do Ministério da Marinha em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

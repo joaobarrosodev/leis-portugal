@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 154/1978, 1º Suplemento, Série I de 1978-07-07
   number: '154'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1270-(3) a 1270-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15401/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1978-533775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 904c9c08f69e9ff8c7bb689cdc3e39b8966ea447e1c3a297620b841506dfe7f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1531284e05c2e59d2e13e173560f446deb19e5f975e37878b42e2f8d1aaac75c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
+- Impresso
+- Isenção Fiscal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:42Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +121,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 11.º, 28.º, 29.º, 85.º, 86.º, 88.º e 91.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 11.º, 28.º, 29.º, 85.º, 86.º, 88.º e 91.º do Código do Imposto Complementar passam a ter a seguinte redacção:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1.º ...
 
@@ -120,7 +139,7 @@ b) Os rendimentos referidos nas alíneas h) e n) do número anterior;
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 1.º Tratando-se de contribuintes com residência no território do continente e das Regiões Autónomas dos Açores e da Madeira:
 
@@ -136,13 +155,13 @@ Tratando-se de rendimentos provenientes exclusivamente do exercício de activida
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 b) As quotizações obrigatórias a que estejam sujeitos os titulares dos rendimentos do trabalho e bem assim quaisquer outras quotizações por eles pagas para organizações que tenham por fim a defesa dos seus interesses como trabalhadores;
 
 ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 a) Tratando-se de contribuintes residentes no continente ou nos territórios das Regiões Autónomas dos Açores e da Madeira:
 
@@ -158,7 +177,7 @@ Até 11 anos ... 8000$00
 
 ...
 
-###### Art. 85.º ...
+Art. 85.º ...
 
 13.º Os rendimentos de fabrico de tabaco nacional;
 
@@ -166,28 +185,28 @@ Até 11 anos ... 8000$00
 
 § único ...
 
-###### Art. 86.º Às pessoas colectivas aproveitam igualmente as isenções estabelecidas para as pessoas singulares no n.º 1.º do artigo 8.º, salvo as das alíneas h), i), j), l), m), x) e z) e no artigo 10.º
+Art. 86.º Às pessoas colectivas aproveitam igualmente as isenções estabelecidas para as pessoas singulares no n.º 1.º do artigo 8.º, salvo as das alíneas h), i), j), l), m), x) e z) e no artigo 10.º
 
 ...
 
-###### Art. 88.º ...
+Art. 88.º ...
 
 § 4.º Os contribuintes que só posteriormente a 15 de Dezembro do ano seguinte àquele a que os rendimentos respeitem tenham conhecimento da sua existência por virtude de apuramento para efeitos de impostos parcelares devem apresentar a declaração no prazo de quinze dias, a contar da notificação da matéria colectável fixada que não dê origem a liquidação ou, no caso de haver liquidação, a contar da notificação desta e, na sua falta, a contar do pagamento eventual ou, tendo havido débito ao tesoureiro para cobrança virtual, da data da abertura do cofre.
 
 ...
 
-###### Art. 91.º ...
+Art. 91.º ...
 
 2.º Tratando-se de contribuintes tributados em contribuição industrial, grupo A, não serão de considerar, para apuramento da matéria colectável deste imposto, os rendimentos correspondentes às contribuições e impostos dedutíveis à colecta daquela contribuição nos termos das alíneas a) e b) e § único do artigo 89.º do Código da Contribuição Industrial.
 
-###### Art. 2.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos do ano de 1977, se a declaração for apresentada no correspondente prazo estabelecido no artigo 11.º e seus §§ 4.º e 6.º e nos §§ 2.º e 3.º do artigo 17.º do Código, observando-se nesse caso o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março.
+Art. 2.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos do ano de 1977, se a declaração for apresentada no correspondente prazo estabelecido no artigo 11.º e seus §§ 4.º e 6.º e nos §§ 2.º e 3.º do artigo 17.º do Código, observando-se nesse caso o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo no que respeita às alterações aos artigos 8.º, alínea e) do n.º 1.º, 11.º, n.º 1.º, 28.º, 29.º e 85.º do mesmo Código, que se aplicam aos rendimentos e às tributações respeitantes aos anos de 1977 e seguintes.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo no que respeita às alterações aos artigos 8.º, alínea e) do n.º 1.º, 11.º, n.º 1.º, 28.º, 29.º e 85.º do mesmo Código, que se aplicam aos rendimentos e às tributações respeitantes aos anos de 1977 e seguintes.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 3 de Julho de 1978.**
+Promulgado em 3 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

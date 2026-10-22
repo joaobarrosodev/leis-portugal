@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26700/18311832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1975-310258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0acb5ba341d9ab34f6256bc5f6a8ea218412d37aeed7bc29966b0c2143aadb3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12e3807409654174f308543500b3a77a315cf0f11f10b89a25ee653c6406b82b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:402961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:311228:por
+  label: Retificado o § 1.º do art. 3.º do presente diploma, pelo(a) Rectificação - Diário do Governo n.º 286/1975, Série
+    I de 1975-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-311228
+  date: '1975-12-12'
+- type: repealed_by
+  target: pt:dre:366438:por
+  label: "Revogados os artigos 2.º e 4.º pelo DEC LEI.469/79.13.12.1979.MNE, DR.IS [286] de 13.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/469-1979-366438
+  date: '1979-12-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:39Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +121,17 @@ de 18 de Novembro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 41.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passa a ter a redacção seguinte:
+Artigo 1.º O artigo 41.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, passa a ter a redacção seguinte:
 
-###### Art. 41.º O Conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular e por representantes dos funcionários do serviço diplomático ou do restante pessoal, nos termos e em número a definir em decreto regulamentar.
+Art. 41.º O Conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular e por representantes dos funcionários do serviço diplomático ou do restante pessoal, nos termos e em número a definir em decreto regulamentar.
 
 § único. O chefe da Repartição do Pessoal será secretário do Conselho, sem voto.
 
-###### Art. 2.º O corpo do artigo 2.º e o artigo 3.º do [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, passam a ter a redacção seguinte:
+Art. 2.º O corpo do artigo 2.º e o artigo 3.º do [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, passam a ter a redacção seguinte:
 
-###### Art. 2.º A partir do ingresso no serviço diplomático as promoções até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
+Art. 2.º A partir do ingresso no serviço diplomático as promoções até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 3.º As promoções referidas no artigo anterior obedecem à ordem estabelecida pelo Conselho do Ministério.
+Art. 3.º As promoções referidas no artigo anterior obedecem à ordem estabelecida pelo Conselho do Ministério.
 
 § 1.º O Conselho do Ministério, ao elaborar as linhas de promoção, deve, a seguir a cada três propostas de promoção por mérito, indicar para o mesmo efeito o funcionário mais antigo na categoria dos funcionários a promover.
 
@@ -112,20 +143,20 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 § 5.º Os funcionários do serviço diplomático não poderão ser promovidos mais do que uma vez, no mesmo país, até à categoria de ministro de 2.ª classe, inclusive.
 
-###### Art. 3.º - 1. Os cargos de adjuntos de directores-gerais podem ser ocupados por ministros plenipotenciários de 1.ª ou de 2.ª classe, consoante as conveniências de serviço, entendendo-se que o provimento dos cargos numa das categorias implica o abatimento do mesmo número de unidades na outra categoria.
+Art. 3.º - 1. Os cargos de adjuntos de directores-gerais podem ser ocupados por ministros plenipotenciários de 1.ª ou de 2.ª classe, consoante as conveniências de serviço, entendendo-se que o provimento dos cargos numa das categorias implica o abatimento do mesmo número de unidades na outra categoria.
 
 2. Enquanto não forem inscritas no orçamento as dotações necessárias para pagamento da diferença de vencimentos e abonos de representação dos funcionários nomeados ao abrigo do disposto no número anterior, será ela satisfeita por força das disponibilidades das verbas da mesma natureza nas dotações do pessoal dos quadros aprovados por lei.
 
-###### Art. 4.º - 1. Até à publicação da nova lei orgânica do Ministério dos Negócios Estrangeiros, fica suspensa a aplicação do disposto no artigo 32.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, na parte final do corpo do artigo 2.º do [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, com a nova redacção dada pelo presente diploma, e na parte final do artigo 22.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, podendo os funcionários do serviço diplomático ser promovidos à categoria imediatamente superior com menos de três anos de efectivo serviço no cargo em que estiverem providos.
+Art. 4.º - 1. Até à publicação da nova lei orgânica do Ministério dos Negócios Estrangeiros, fica suspensa a aplicação do disposto no artigo 32.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, na parte final do corpo do artigo 2.º do [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, com a nova redacção dada pelo presente diploma, e na parte final do artigo 22.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, podendo os funcionários do serviço diplomático ser promovidos à categoria imediatamente superior com menos de três anos de efectivo serviço no cargo em que estiverem providos.
 
 2. Nas promoções a ministros plenipotenciários de 1.ª classe efectuadas nos termos do número anterior deverá ser ouvido o Conselho do Ministério.
 
-###### Art. 5.º O presente diploma terá carácter transitório e manter-se-á em vigor até à publicação da nova lei orgânica do Ministério.
+Art. 5.º O presente diploma terá carácter transitório e manter-se-á em vigor até à publicação da nova lei orgânica do Ministério.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Mário João de Oliveira Ruivo.
 
-**Promulgado em 7 de Novembro de 1975.**
+Promulgado em 7 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12400/12011201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1976-426892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12b11d375b69c220451ec5e844920084b1fc926f91f047136762a19d3326cead
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1768f14f6f9a2db8e579ca0d98b1b6741c5fc2cce28cdafe3420d9ff7cb761b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Cidadão Nacional
+- Desalojado
+- Direitos de Importação
+- Importação
+- Imposto Automóvel
+- Residente no Estrangeiro
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474317:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:39Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +127,18 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São revogadas as disposições do artigo 3.º do [Decreto-Lei n.º 402/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1974-474317), de 29 de Agosto, e do artigo 3.º do [Decreto-Lei n.º 528/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1975-312051), de 25 de Setembro.
+Artigo 1.º São revogadas as disposições do artigo 3.º do [Decreto-Lei n.º 402/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1974-474317), de 29 de Agosto, e do artigo 3.º do [Decreto-Lei n.º 528/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1975-312051), de 25 de Setembro.
 
-###### Art. 2.º O prazo estabelecido no artigo 2.º do [Decreto-Lei n.º 528/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1975-312051), de 25 de Setembro, fica alargado até 31 de Dezembro de 1975.
+Art. 2.º O prazo estabelecido no artigo 2.º do [Decreto-Lei n.º 528/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1975-312051), de 25 de Setembro, fica alargado até 31 de Dezembro de 1975.
 
-###### Art. 3.º O Ministro das Finanças poderá, por simples despacho, isentar de direitos e, bem assim, do imposto sobre a venda de veículos automóveis e da sobretaxa, criados, respectivamente, pelo [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, e [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, a importação dos veículos automóveis pertencentes aos nacionais residentes no estrangeiro à data de 24 de Abril de 1974, e adquiridos até essa data, desde que estes produzam prova concludente de que ali se encontravam como exilados políticos.
+Art. 3.º O Ministro das Finanças poderá, por simples despacho, isentar de direitos e, bem assim, do imposto sobre a venda de veículos automóveis e da sobretaxa, criados, respectivamente, pelo [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, e [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, a importação dos veículos automóveis pertencentes aos nacionais residentes no estrangeiro à data de 24 de Abril de 1974, e adquiridos até essa data, desde que estes produzam prova concludente de que ali se encontravam como exilados políticos.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha - José Augusto Fernandes.
 
-**Promulgado em 17 de Maio de 1976.**
+Promulgado em 17 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

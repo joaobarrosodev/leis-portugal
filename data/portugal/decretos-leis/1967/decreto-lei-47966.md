@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/09/22600/17461748.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47966-1967-391642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90801de42a80750525338afdb1a875877e77a187dddc98d84640f72cf34dcd5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a712b0367966334451d89d3c0d817825f469e30ffeef59ada781228b6c8be55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Nacional dos Vinhos
+- Região Demarcada
+- Taxa
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412798:por
+  label: "Determinada a aplicação à região vinícola da Madeira, o disposto no presente diploma, pelo DEC LEI.469/73.20.09.1973.MECO,\
+    \ DG.IS [221] de 20.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/469-1973-412798
+  date: '1973-09-20'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665159:por
+  label: "Revogado, na parte que afecta à Federação dos Vinicultores do Dão o produto de taxas incidentes sobre vinhos e produtos\
+    \ vínicos sem direito a denominação de origem, pelo DEC LEI.376/93.05.11.1993.MA, DR.IS-A [259] de 05.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1993-665159
+  date: '1993-11-05'
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogado pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:53Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +149,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As taxas a que se refere o [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, abrangem os vinhos e seus derivados engarrafados, sob marcas comerciais ou industriais, em recipientes de qualquer natureza e de capacidade até 5,3 l, ainda que de marca registada.
+Artigo 1.º As taxas a que se refere o [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, abrangem os vinhos e seus derivados engarrafados, sob marcas comerciais ou industriais, em recipientes de qualquer natureza e de capacidade até 5,3 l, ainda que de marca registada.
 
-###### Art. 2.º As taxas de que tratam os artigos 2.º e 3.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, e o artigo 2.º do [Decreto-Lei n.º 43550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018), de 21 de Março de 1961, incidem sobre os vinhos e seus derivados engarrafados, sob marcas comerciais ou industriais, em recipientes de qualquer natureza e de capacidade até 5,3 l, ainda que de marca registada.
+Art. 2.º As taxas de que tratam os artigos 2.º e 3.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, e o artigo 2.º do [Decreto-Lei n.º 43550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018), de 21 de Março de 1961, incidem sobre os vinhos e seus derivados engarrafados, sob marcas comerciais ou industriais, em recipientes de qualquer natureza e de capacidade até 5,3 l, ainda que de marca registada.
 
-###### Art. 3.º As taxas a que se referem os artigos anteriores são aplicáveis aos vinhos e derivados produzidos ou consumidos na região demarcada dos vinhos verdes, quando engarrafados, sob marcas comerciais ou industriais, em recipientes de qualquer natureza e de capacidade até 5,3 l, ainda que de marca registada.
+Art. 3.º As taxas a que se referem os artigos anteriores são aplicáveis aos vinhos e derivados produzidos ou consumidos na região demarcada dos vinhos verdes, quando engarrafados, sob marcas comerciais ou industriais, em recipientes de qualquer natureza e de capacidade até 5,3 l, ainda que de marca registada.
 
-###### Art. 4.º Os quantitativos das taxas referidas nos artigos anteriores são determinados pela forma seguinte:
+Art. 4.º Os quantitativos das taxas referidas nos artigos anteriores são determinados pela forma seguinte:
 
 a) O correspondente ao litro, por litro ou fracção, para cada recipiente de capacidade superior a 1 l;
 
@@ -113,13 +163,13 @@ b) O correspondente ao litro, para cada recipiente de capacidade compreendida en
 
 c) O correspondente a metade, para cada recipiente de capacidade inferior a 6 dl.
 
-###### Art. 5.º A cobrança das taxas mencionadas neste diploma será sempre efectuada através de selo ou cápsula emitidos, conforme a respectiva área de proveniência dos produtos, pela Junta Nacional do Vinho ou pelos organismos vinícolas das regiões demarcadas.
+Art. 5.º A cobrança das taxas mencionadas neste diploma será sempre efectuada através de selo ou cápsula emitidos, conforme a respectiva área de proveniência dos produtos, pela Junta Nacional do Vinho ou pelos organismos vinícolas das regiões demarcadas.
 
 § 1.º Os organismos vinícolas das regiões demarcadas deverão utilizar, para efeito do disposto no corpo deste artigo, relativamente aos vinhos típicos regionais, o respectivo selo de garantia regional e, para os restantes produtos provenientes da sua área, um selo ou cápsula iguais ou análogos aos adoptados pela Junta Nacional do Vinho.
 
 § 2.º Os organismos vinícolas das regiões demarcadas, por comum acordo, adaptarão os modelos de selos de garantia regional em uso, com vista à sua uniformização e a fim de os distinguir do modelo ou modelos utilizados na selagem dos produtos vínicos que não beneficiam de tal garantia, devendo os novos modelos ser aprovados por despacho do Secretário de Estado do Comércio.
 
-###### Art. 6.º O produto da cobrança das taxas a que se referem os artigos anteriores será distribuído do seguinte modo:
+Art. 6.º O produto da cobrança das taxas a que se referem os artigos anteriores será distribuído do seguinte modo:
 
 a) No caso dos vinhos e derivados provenientes das regiões demarcadas dos vinhos verdes e do Dão, em que a Junta Nacional do Vinho apenas exerce a sua acção de regularização do mercado, reverterá para este organismo, qualquer que seja a região de consumo, o equivalente a metade das taxas a que se referem os Decretos-Leis n.os 40037 e 43550 e o restante para o organismo vinícola da região de origem;
 
@@ -127,7 +177,7 @@ b) No caso dos vinhos e derivados provenientes das regiões demarcadas integrada
 
 c) Nos outros casos, qualquer que seja a região do consumo, reverterá integralmente para a Junta Nacional do Vinho.
 
-###### Art. 7.º O produto de cobrança que, nos termos do artigo anterior, reverte para a Junta Nacional do Vinho terá a seguinte aplicação:
+Art. 7.º O produto de cobrança que, nos termos do artigo anterior, reverte para a Junta Nacional do Vinho terá a seguinte aplicação:
 
 a) No caso referido na alínea a), para efeito de reajustamento económico dos preços dos produtos vínicos;
 
@@ -135,22 +185,22 @@ b) No caso referido na alínea b), metade para efeito de reajustamento económic
 
 c) Nos outros canos referidos na alínea c), de acordo com as disposições legais em vigor respeitantes às receitas gerais da Junta.
 
-###### Art. 8.º O produto da cobrança que, nos termos do artigo 6.º, reverte para os organismos vinícolas regionais terá a seguinte aplicação:
+Art. 8.º O produto da cobrança que, nos termos do artigo 6.º, reverte para os organismos vinícolas regionais terá a seguinte aplicação:
 
 a) No caso dos organismos das regiões demarcadas, em que a Junta Nacional , do Vinho apenas exerce a sua acção de regularização do mercado o equivalente às taxas previstas no [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992) para as despesas de administração e fiscalização dos respectivos organismos e o restante para o apetrechamento da produção por meio da extensão da rede de adegas cooperativas e para o estabelecimento e ampliação da capacidade de armazenagem necessária à regularização do mercado;
 
 b) No caso dos organismos das regiões demarcadas integradas na área da Junta Nacional do Vinho, para as despesas de administração e fiscalização dos respectivos organismos.
 
-###### Art. 9.º A venda, exposição à venda ou trânsito dos produtos abrangidos por este diploma sem a aposição nos respectivos recipientes dos selos ou cápsulas a que se refere o artigo 5.º constitui contravenção punível nos termos do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, sem prejuízo do pagamento das importâncias relativas às taxas correspondentes.
+Art. 9.º A venda, exposição à venda ou trânsito dos produtos abrangidos por este diploma sem a aposição nos respectivos recipientes dos selos ou cápsulas a que se refere o artigo 5.º constitui contravenção punível nos termos do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, sem prejuízo do pagamento das importâncias relativas às taxas correspondentes.
 
 § único. Em casos excepcionais devidamente justificados, poderá efectuar-se o trânsito entre armazéns e a armazenagem de produtos de garrafeira, reserva e similares sem a aposição dos selos nos respectivos recipientes, mediante prévia autorização dos organismos vinícolas que superintendem nas regiões de proveniência dos produtos e naquelas em que se efectue o trânsito ou armazenagem, desde que os selos devidos, perfeitamente identificados, acompanhem os produtos e a documentação inerente.
 
-###### Art. 10.º A partir da entrada em vigor do presente decreto-lei devem deixar de ser cobradas pelos organismos vinícolas das regiões demarcadas integradas na área da Junta Nacional do Vinho as taxas que se encontravam estabelecidas com base no manifesto da produção e que constituíam receitas dos referidos organismos regionais.
+Art. 10.º A partir da entrada em vigor do presente decreto-lei devem deixar de ser cobradas pelos organismos vinícolas das regiões demarcadas integradas na área da Junta Nacional do Vinho as taxas que se encontravam estabelecidas com base no manifesto da produção e que constituíam receitas dos referidos organismos regionais.
 
-###### Art. 11.º As dúvidas e casos omissos serão resolvidos em portaria do Secretário de Estado do Comércio.
+Art. 11.º As dúvidas e casos omissos serão resolvidos em portaria do Secretário de Estado do Comércio.
 
-###### Art. 12.º Ficam revogados por este diploma os Decretos-Leis n.os 42602 e 45717, respectivamente de 20 de Outubro de 1959 e de 16 de Maio de 1964, bem como o § 2.º do artigo 2.º, o § 2.º do artigo 3.º e a artigo 4.º do [Decreto-Lei n.º 45675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45675-1964-472536), de 23 de Abril de 1964.
+Art. 12.º Ficam revogados por este diploma os Decretos-Leis n.os 42602 e 45717, respectivamente de 20 de Outubro de 1959 e de 16 de Maio de 1964, bem como o § 2.º do artigo 2.º, o § 2.º do artigo 3.º e a artigo 4.º do [Decreto-Lei n.º 45675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45675-1964-472536), de 23 de Abril de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.

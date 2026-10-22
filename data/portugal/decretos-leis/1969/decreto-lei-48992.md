@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/05/10800/04990500.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48992-1969-201651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53685cc918e47d6935bb7a48f7bfc69689c7159cc8cf823e7ff7cfb278bf6c8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d23c600a04fd9d4b3e39d015b92551fd562f43f290ba44d2dbc4dc2fd163e278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Forças Armadas
+- Quadro Permanente do Exército
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:278508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644127:por
+  label: "Alterado o art. 2º e revogado e substituído o anexo do presente diploma, pelo DEC LEI.245/71.03.06.1971.MX, DG.IS\
+    \ [130] de 03.06.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-1971-644127
+  date: '1971-06-03'
+- type: amended_by
+  target: pt:dre:312194:por
+  label: "Tornado extensivo às praças readmitidas do Exército pelo DEC LEI.553/75.01.10.1975.CR, DG.IS [227] de 01.10.1975,\
+    \ com as alterações dele constantes\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1975-312194
+  date: '1975-10-01'
+- type: repealed_by
+  target: pt:dre:278508:por
+  label: Revogado a partir de 01.03.1978 pelo DEC LEI.399-A/77.22.09.1977.CR, DR.IS [220] de 22.09.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1977-278508
+  date: '1977-09-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:11Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +116,7 @@ Atendendo, finalmente, a que tal regime já se encontra em vigor noutros ramos d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O bilhete de identidade dos sargentos do quadro permanente do Exército substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
+Artigo 1.º O bilhete de identidade dos sargentos do quadro permanente do Exército substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
 
 Art.º 2.º O bilhete de identidade dos sargentos do quadro permanente passará a ser do modelo anexo ao presente diploma, nas cores amarela para os sargentos do activo e creme para os reformados.
 
@@ -111,12 +132,12 @@ Art.º 7.º (transitório). O Ministério do Exército tomará as necessárias m
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Mário Júlio Brito de Almeida Costa - José Manuel Bethencourt Conceição Rodrigues.
 
-**Promulgado em 9 de Abril de 1969.**
+Promulgado em 9 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1969/05/10800/04990500.pdf))](https://files.diariodarepublica.pt/1s/1969/05/10800/04990500.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/10800/04990500.pdf)
 
 Ministério do Exército, 9 de Abril de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.

@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1972-686226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cea44badcc75a42d40f48f08ddedd74b07b1f1cb12e05057c9d969dfbb7a535a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a8ee1cbbb2a4b4f950cc9bc09a82c773dc313c3f7e245d36140e6c706b9fc7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Horas Extraordinárias
+- Militar
+- Pessoal Civil
+- Polígono de Acústica Submarina dos Açores
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Subsídio de Alimentação
 relationships:
 - type: amended_by
   target: pt:dre:336682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681217:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:336682:por
+  label: "Revogadas as disposições do nº 1 do art. 1º pelo DEC LEI.384/75.22.07.1975.CR, DG.IS [167] de 22.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1975-336682
+  date: '1975-07-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:30Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +112,7 @@ de 10 de Novembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O pessoal do quadro criado pelo artigo 3.º do [Decreto-Lei n.º 162/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1972-681217), de 15 de Maio, tem direito aos vencimentos das categorias do mapa I anexo ao presente diploma.
+Artigo 1.º - 1. O pessoal do quadro criado pelo artigo 3.º do [Decreto-Lei n.º 162/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1972-681217), de 15 de Maio, tem direito aos vencimentos das categorias do mapa I anexo ao presente diploma.
 
 2. Os militares que não se encontrarem em comissão civil percebem os vencimentos inerentes ao seu posto ou graduação acrescidos da diferença para os vencimentos da categoria que ocuparem.
 
@@ -98,17 +120,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os trabalhos realizados além das horas normais serão remunerados a título de horas suplementares nas condições a fixar por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.
 
-###### Art. 2.º - 1. A admissão ao quadro realiza-se por escolha do director adjunto português do Polígono de Acústica Submarina dos Açores ou por concurso, observadas as condições que forem estabelecidas por despacho do Ministro da Defesa Nacional e as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quanto às habilitações mínimas.
+Art. 2.º - 1. A admissão ao quadro realiza-se por escolha do director adjunto português do Polígono de Acústica Submarina dos Açores ou por concurso, observadas as condições que forem estabelecidas por despacho do Ministro da Defesa Nacional e as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quanto às habilitações mínimas.
 
 2. As habilitações mínimas podem ser substituídas por habilitações adequadas aos cargos adquiridas nos estabelecimentos militares de ensino, conforme constar das referidas condições de admissão.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 3 de Novembro de 1972.**
+Promulgado em 3 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## Anexo — MAPA I
 
@@ -116,6 +138,6 @@ Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José d
 
 Quadro do pessoal da Comissão Executiva do Polígono de Acústica Submarina dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/26200/16211622.pdf))](https://files.diariodarepublica.pt/1s/1972/11/26200/16211622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/26200/16211622.pdf)
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

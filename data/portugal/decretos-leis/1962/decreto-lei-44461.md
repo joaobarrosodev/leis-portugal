@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/07/16100/09820982.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44461-1962-162603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4f0326f9c1a35a831cba91acc69e92f3ff4931d804ffddd158dc1cb990a2c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86f58a0b2f307f3c314a759e9ffe8b2d1d420eb767600cbe6b451fdb8804f035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Inspecção de Jogos
+- Definição de Competências
+- Formas de Provimento
+- Pessoal de Inspecção
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:146763:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:294476:por
+  label: "Alterado o quadro de pessoal do Conselho de Inspecção de Jogos aprovado pelo Dec Lei 36889, de 29-Mai-1948, na redacção\
+    \ do presente diploma, pelo DEC LEI.46360.29.05.1965.MI, DG.IS [120] de 29.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46360-1965-294476
+  date: '1965-05-29'
+- type: cites
+  target: pt:dre:304752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389191:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146763:por
+  label: "Revogado, a partir de 01.12.1970, pelo DEC LEI.585/70.26.11.1970.MI, DG.IS [275] de 26.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/585-1970-146763
+  date: '1970-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:32Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +133,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aumentado o quadro do pessoal do Conselho de Inspecção de Jogos com um lugar de inspector.
+Artigo 1.º É aumentado o quadro do pessoal do Conselho de Inspecção de Jogos com um lugar de inspector.
 
-###### Art. 2.º A um dos inspectores, a designar pelo Conselho de Inspecção de Jogos, incumbirá, além das funções referidas no artigo 9.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948:
+Art. 2.º A um dos inspectores, a designar pelo Conselho de Inspecção de Jogos, incumbirá, além das funções referidas no artigo 9.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948:
 
 1.º Chefiar, sob a superintendência do presidente, o serviço da secretaria do Conselho;
 
@@ -118,14 +151,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 7.º Cooperar com o vogal do Conselho proposto pelo Ministro das Finanças no exercício da competência que lhe está fixada no artigo 8.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948.
 
-###### Art. 3.º Os serviços da secretaria do Conselho de Inspecção de Jogos regulam-se, na parte aplicável, pelas normas estabelecidas para os serviços da Secretaria-Geral e da Direcção-Geral de Administração Política e Civil, do Ministério do Interior.
+Art. 3.º Os serviços da secretaria do Conselho de Inspecção de Jogos regulam-se, na parte aplicável, pelas normas estabelecidas para os serviços da Secretaria-Geral e da Direcção-Geral de Administração Política e Civil, do Ministério do Interior.
 
-###### Art. 4.º O corpo do artigo 6.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948, passa a ter a seguinte redacção.
+Art. 4.º O corpo do artigo 6.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948, passa a ter a seguinte redacção.
 
-###### Art. 6.º Os cargos a que alude o artigo antecedente serão exercidos por funcionários dos quadros permanentes do Estado ou dos corpos administrativos, requisitados pelo Ministro do Interior, por períodos, prorrogáveis, não superiores a dois anos.
+Art. 6.º Os cargos a que alude o artigo antecedente serão exercidos por funcionários dos quadros permanentes do Estado ou dos corpos administrativos, requisitados pelo Ministro do Interior, por períodos, prorrogáveis, não superiores a dois anos.
 
-###### Art. 5.º Os encargos a que der lugar este diploma serão satisfeitos, no ano corrente pelas disponibilidades das verbas dos artigos 24.º, 25.º, 26.º, 27.º e 31.º do capítulo 2.º do Ministério do Interior ao Conselho de Inspecção de Jogos.
+Art. 5.º Os encargos a que der lugar este diploma serão satisfeitos, no ano corrente pelas disponibilidades das verbas dos artigos 24.º, 25.º, 26.º, 27.º e 31.º do capítulo 2.º do Ministério do Interior ao Conselho de Inspecção de Jogos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

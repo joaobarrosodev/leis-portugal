@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 280/1976, 1º Suplemento, Série I de 1976-11-30
   number: '280'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2660-(1) a 2660-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/28001/00010011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/836-b-1976-156824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35682e6752c824d1aad7b0edd080e73a2f1ec4913cc41f77a7c514948c8f4a26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d51ffbf2cabe09a05fa2ab25feb2a7a15db538a7bc71cb3a2939d9a571de6248
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Ministério das Finanças
+- Reforço de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:193271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506061:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:671428:por
+  label: Rectificado pela DECL.DD8001.28.12.1976.PCM, DR.IS [300]Supl de 28.12.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-671428
+  date: '1976-12-28'
+- type: corrected_by
+  target: pt:dre:416466:por
+  label: Rectificado pela DECL.DD8002.30.12.1976.PCM, DR.IS [302] de 30.12.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-416466
+  date: '1976-12-30'
+- type: corrected_by
+  target: pt:dre:492709:por
+  label: Rectificado o capítulo 3.º «Presidência do Conselho de Ministros», artigo 73.º-A «Transferências - Empresas», n.º
+    1 do presente diploma pelo(a) Declaração - Diário da República n.º 4/1977, Série I de 1977-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-492709
+  date: '1977-01-06'
 article_structure:
-  article_count: 80
-  section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:45Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +165,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição e do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 7398788938$10 destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 7398788938$10 destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação Capítulo
 
@@ -108,7 +173,7 @@ Encargos Gerais da Nação Capítulo
 
 Serviços de Apoio do Conselho da Revolução
 
-###### Artigo 36.º «Outras despesas correntes»:
+Artigo 36.º «Outras despesas correntes»:
 
 N.º 3 «Para satisfação de todos os encargos com a Comissão Constitucional, cujo Estatuto foi promulgado pelo [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), de 30 de Junho» ... 5000000$00
 
@@ -116,21 +181,21 @@ Serviços Prisionais Militares
 
 Despesas correntes:
 
-###### Artigo 59.º-A «Outras despesas correntes»:
+Artigo 59.º-A «Outras despesas correntes»:
 
 N.º 1 «Para satisfação de todas as despesas a que se refere o artigo 9.º do [Decreto-Lei n.º 762/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1975-355330), de 31 de Dezembro» ... 35000000$00
 
-### Capítulo 3.º «Presidência do Conselho de Ministros»:
+Capítulo 3.º «Presidência do Conselho de Ministros»:
 
 Gabinete do Primeiro-Ministro
 
-###### Artigo 73.º-A «Transferências - Empresas»:
+Artigo 73.º-A «Transferências - Empresas»:
 
 N.º 1 «Movimento Unificado de Cooperativas» ... 100000$00
 
 Secretaria-Geral da Presidência do Conselho de Ministros
 
-###### Artigo 122.º «Outras despesas correntes»:
+Artigo 122.º «Outras despesas correntes»:
 
 N.º 4 «Para despesas resultantes de diplomas que alterem a estrutura dos Ministérios, para satisfação das quais não existem verbas adequadas inscritas no Orçamento Geral do Estado» ... 8000000$00
 
@@ -138,9 +203,9 @@ N.º 4 «Para despesas resultantes de diplomas que alterem a estrutura dos Minis
 
 Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
 
-### Capítulo 5.º «Despesas gerais da Força Aérea»:
+Capítulo 5.º «Despesas gerais da Força Aérea»:
 
-###### Artigo 84.º «Vencimentos e salários»:
+Artigo 84.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -152,7 +217,7 @@ A adicionar:
 
 2 «Pessoal além dos quadros» ... 5000000$00
 
-###### Artigo 106.º «Classes inactivas - Pensões de reserva» ... 25000000$00
+Artigo 106.º «Classes inactivas - Pensões de reserva» ... 25000000$00
 
 ###### Artigo 108.º «Bens duradouros»: — N.º 1 «Construções e grandes reparações» ... 7634657$80
 
@@ -160,33 +225,33 @@ N.º 2 «Material de defesa e segurança» ... 256000000$00
 
 ### Capítulo 7.º «Despesas comuns»: — Artigo 135.º «Abono de família» ... 5000000$00
 
-###### Artigo 136.º «Subsídios de férias e de Natal» ... 5000000$00
+Artigo 136.º «Subsídios de férias e de Natal» ... 5000000$00
 
-###### Artigo 139.º «Despesas de anos findos» ... 35000000$00
+Artigo 139.º «Despesas de anos findos» ... 35000000$00
 
 Despesa extraordinária
 
 Defesa Nacional
 
-### Capítulo 9.º «Estado-Maior-General das Forças Armadas»:
+Capítulo 9.º «Estado-Maior-General das Forças Armadas»:
 
 Infra-estruturas comuns NATO
 
 Despesas de 1.º estabelecimento, manutenção, funcionamento e fiscalização, nos termos do [Decreto-Lei n.º 44894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44894-1963-193271), de 21 de Fevereiro de 1963
 
-###### Artigo 151.º «Bens duradouros» ... 750000$00
+Artigo 151.º «Bens duradouros» ... 750000$00
 
-###### Artigo 153.º «Aquisição de serviços» ... 6000000$00
+Artigo 153.º «Aquisição de serviços» ... 6000000$00
 
 ... 400384657$80
 
 Defesa Nacional - Departamento do Exército
 
-### Capítulo 1.º «Gabinete do Chefe do Estado-Maior do Exército»:
+Capítulo 1.º «Gabinete do Chefe do Estado-Maior do Exército»:
 
 Chefe do Estado-Maior do Exército e Repartição do Gabinete
 
-###### Artigo 1.º «Vencimentos e salários»:
+Artigo 1.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -196,7 +261,7 @@ Diuturnidades a oficiais ... 32000$00
 
 Comissão de Contas e Apuramento de Responsabilidades
 
-###### Artigo 5.º «Vencimentos e salários»:
+Artigo 5.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -204,11 +269,11 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 Diuturnidades a oficiais ... 208000$00
 
-### Capítulo 2.º «Estado-Maior do Exército»:
+Capítulo 2.º «Estado-Maior do Exército»:
 
 Chefia do Serviço Cartográfico do Exército
 
-###### Artigo 18.º «Vencimentos e salários»:
+Artigo 18.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -216,11 +281,11 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 Diuturnidades a oficiais ... 928000$00
 
-### Capítulo 3.º «Serviços de instrução»:
+Capítulo 3.º «Serviços de instrução»:
 
 Instituto de Altos Estudos Militares
 
-###### Artigo 55.º «Vencimentos e salários»:
+Artigo 55.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -230,7 +295,7 @@ Diuturnidades a oficiais ... 2259840$00
 
 Academia Militar
 
-###### Artigo 68.º «Vencimentos e salários»:
+Artigo 68.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -246,7 +311,7 @@ Sargentos ... 2464000$00
 
 Escola Central de Sargentos
 
-###### Artigo 81.º «Vencimentos e salários»:
+Artigo 81.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -256,7 +321,7 @@ Diuturnidades a oficiais ... 717800$00
 
 Escola Militar de Electromecânica
 
-###### Artigo 102.º «Vencimentos e salários»:
+Artigo 102.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -274,7 +339,7 @@ Praças ... 765370$00
 
 Colégio Militar
 
-###### Artigo 168.º «Vencimentos e salários»:
+Artigo 168.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -290,7 +355,7 @@ Sargentos ... 577000$00
 
 Instituto Técnico Militar dos Pupilos do Exército
 
-###### Artigo 179.º «Vencimentos e salários»:
+Artigo 179.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -306,7 +371,7 @@ Sargentos ... 656000$00
 
 Cursos de sargentos milicianos
 
-###### Artigo 207.º «Vencimentos e salários»:
+Artigo 207.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -316,11 +381,11 @@ A adicionar:
 
 Vencimento complementar de furriéis evacuados nos termos do [Decreto-Lei n.º 26/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1976-506061), de 16 de Janeiro ... 2030400$00
 
-### Capítulo 4.º «Serviços do ajudante-general»:
+Capítulo 4.º «Serviços do ajudante-general»:
 
 Escriturários-dactilógrafos e pessoal militarizado
 
-###### Artigo 220.º «Vencimentos e salários»:
+Artigo 220.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -334,7 +399,7 @@ Diuturnidades a sargentos ... 17936000$00
 
 Tribunais militares territoriais de Lisboa
 
-###### Artigo 227.º «Vencimentos e salários»:
+Artigo 227.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -344,7 +409,7 @@ Diuturnidades a oficiais ... 96000$00
 
 Tribunal Militar Territorial do Porto
 
-###### Artigo 233.º «Vencimentos e salários»:
+Artigo 233.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -354,7 +419,7 @@ Diuturnidades a oficiais ... 32000$00
 
 Tribunal Militar Territorial de Tomar
 
-###### Artigo 239.º «Vencimentos e salários»:
+Artigo 239.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -362,11 +427,11 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 Diuturnidades a oficiais ... 32000$00
 
-### Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
+Capítulo 6.º «Regiões militares e comandos territoriais independentes»:
 
 Comando Territorial Independente dos Açores
 
-###### Artigo 328.º «Vencimentos e salários»:
+Artigo 328.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -374,9 +439,11 @@ Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
 Diuturnidades ... 32000$00
 
-### Capítulo 8.º «Encargos gerais»: — Oficiais
+Capítulo 8.º «Encargos gerais»:
 
-###### Artigo 383.º «Vencimentos e salários):
+Oficiais
+
+Artigo 383.º «Vencimentos e salários):
 
 N.º 1 «Vencimentos»:
 
@@ -396,7 +463,7 @@ Alínea 3 «Oficiais considerados supranumerários por p: moção. transferênci
 
 Sargentos e praças de pré
 
-###### Artigo 390.º «Vencimentos e salários»:
+Artigo 390.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -428,19 +495,21 @@ Alínea 3 «Pessoal além dos quadros»:
 
 Despesas gerais
 
-###### Artigo 413.º «Remunerações diversas - Em numerário»:
+Artigo 413.º «Remunerações diversas - Em numerário»:
 
 N.º 2 «Subvenção de campanha» ... 5702880$00
 
-###### Artigo 419.º-A «Transferências - Sector público»:
+Artigo 419.º-A «Transferências - Sector público»:
 
 N.º 1 «Fundo de Protecção e Acção Social dos Estabelecimentos Fabris do Exército» ... 29000000$00
 
-### Capítulo 9. «Despesas comuns». — Artigo 424.º «Subsídios de férias e de Natal» ... 56855480$00
+Capítulo 9. «Despesas comuns».
 
-### Capítulo 10 «Contas de ordem»:
+Artigo 424.º «Subsídios de férias e de Natal» ... 56855480$00
 
-###### Artigo 429.º «Fundo de Instrução do Exército»:
+Capítulo 10 «Contas de ordem»:
+
+Artigo 429.º «Fundo de Instrução do Exército»:
 
 N.º 1 «Encargos de carácter educativo e recreativo de reconhecido interesse para a instrução militar ...» 7500000$00
 
@@ -448,21 +517,23 @@ N.º 1 «Encargos de carácter educativo e recreativo de reconhecido interesse p
 
 Defesa Nacional - Departamento da Marinha
 
-### Capítulo 2.º «Encargos gerais da Marinha»:
+Capítulo 2.º «Encargos gerais da Marinha»:
 
 Pessoal militar
 
-###### Artigo 46.º «Classes inactivas - Pensões de reserva»:
+Artigo 46.º «Classes inactivas - Pensões de reserva»:
 
 N.º 1 «Oficiais, sargentos e praças da reserva da Armada, licenciados ou separados do serviço» ... 69500000$00
 
-###### Artigo 47.º «Classes inactivas - Outras despesas»:
+Artigo 47.º «Classes inactivas - Outras despesas»:
 
 N.º 2 «Subsídio de Natal» ... 10500000$00
 
-### Capítulo 11.º «Despesas comuns»: — Artigo 384.º «Abono de família aos funcionários» ... 4000000$00
+Capítulo 11.º «Despesas comuns»:
 
-###### Artigo 385.º «Subsídios de férias e de Natal» ... 32000000$00
+Artigo 384.º «Abono de família aos funcionários» ... 4000000$00
+
+Artigo 385.º «Subsídios de férias e de Natal» ... 32000000$00
 
 ... 116000000$00
 
@@ -472,15 +543,15 @@ Despesa extraordinária
 
 Outras despesas extraordinárias
 
-### Capítulo 16.º «Direcção-Geral de Fazenda»:
+Capítulo 16.º «Direcção-Geral de Fazenda»:
 
-###### Artigo 132.º «Outras despesas correntes»:
+Artigo 132.º «Outras despesas correntes»:
 
 N.º 1 «Despesas com a descolonização e cooperação com os novos Estados independentes» ... 505270000$00
 
 Ministério da Administração Interna
 
-### Capítulo 4.º «Polícia de Segurança Pública)»:
+Capítulo 4.º «Polícia de Segurança Pública)»:
 
 Alínea 1 «Pessoal dos quadros aprovados por lei»:
 
@@ -492,19 +563,19 @@ A adicionar:
 
 Diuturnidades a oficiais, comissários e agentes da Polícia de Segurança Pública, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 533/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1976-431449), de 8 de Julho ... 120000000$00
 
-###### Artigo 40.º Alimentação e alojamento - Em espécie» ... 2720000$00
+Artigo 40.º Alimentação e alojamento - Em espécie» ... 2720000$00
 
-###### Artigo 44.º «Remunerações diversas- Previdência social»:
+Artigo 44.º «Remunerações diversas- Previdência social»:
 
 N.º 1 «Encargos com a saúde» ... 5280000$00
 
-###### Artigo 48.º «Despesas gerais de funcionamento»:
+Artigo 48.º «Despesas gerais de funcionamento»:
 
 N.º 3 «Comunicações» ... 1000000$00
 
-### Capítulo 5.º «Guarda Nacional Republicana»:
+Capítulo 5.º «Guarda Nacional Republicana»:
 
-###### Artigo 62.º «Vencimentos e salários»:
+Artigo 62.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -518,19 +589,21 @@ Alínea 3 «Pessoal destacado de outros serviços do Estado» ... 81000$00
 
 Alínea 4 «Pessoal além dos quadros» ... 1755600$00
 
-###### Artigo 65.º «Deslocações» ... 8960000$00
+Artigo 65.º «Deslocações» ... 8960000$00
 
-###### Artigo 67.º «Alimentação e alojamento - Compensação de encargos» ... 23240000$00
+Artigo 67.º «Alimentação e alojamento - Compensação de encargos» ... 23240000$00
 
-###### Artigo 69.º «Remunerações por serviços auxiliares» ... 280000$00
+Artigo 69.º «Remunerações por serviços auxiliares» ... 280000$00
 
-###### Artigo 70.º «Remunerações diversas - Previdência social»:
+Artigo 70.º «Remunerações diversas - Previdência social»:
 
 N.º 1 «Encargos com a saúde» ... 1300000$00
 
-###### Artigo 72.º «Bens duradouros»: — N.º 2 «Material de aquartelamento e alojamento» ... 158300$00
+Artigo 72.º «Bens duradouros»:
 
-###### Artigo 73.º «Bens não duradouros»:
+N.º 2 «Material de aquartelamento e alojamento» ... 158300$00
+
+Artigo 73.º «Bens não duradouros»:
 
 N.º 1 «Combustíveis e lubrificantes» ... 18000000$00
 
@@ -538,9 +611,9 @@ N.º 4 «Consumos de secretaria» ... 1400000$00
 
 N.º 5 «Outros bens não duradouros» ... 470000$00
 
-###### Artigo 74.º «Conservação e aproveitamento de bens» ... 5800000$00
+Artigo 74.º «Conservação e aproveitamento de bens» ... 5800000$00
 
-###### Artigo 75.º «Despesas gerais de funcionamento»:
+Artigo 75.º «Despesas gerais de funcionamento»:
 
 N.º 1 «Encargos próprios das instalações» ... 1385000$00
 
@@ -552,13 +625,17 @@ N.º 4 «Publicidade e propaganda» ... 50000$00
 
 N.º 5 «Trabalhos especiais diversos» ... 100000$00
 
-###### Artigo 76.º «Transferências - Particulares»:
+Artigo 76.º «Transferências - Particulares»:
 
 N.º 1 «Subsídio para funerais ao pessoal da Guarda Nacional Republicana» ... 20000$00
 
-###### Artigo 77.º «Investimentos»: — N.º 2 «Maquinaria e equipamento»: ... 403000$00
+Artigo 77.º «Investimentos»:
 
-### Capítulo 10.º «Despesas comuns»: — Artigo 146.º «Subsídios de férias e de Natal» ... 70000000$00
+N.º 2 «Maquinaria e equipamento»: ... 403000$00
+
+Capítulo 10.º «Despesas comuns»:
+
+Artigo 146.º «Subsídios de férias e de Natal» ... 70000000$00
 
 ... 392000000$00
 
@@ -566,9 +643,9 @@ Ministério das Finanças
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 9.º «Guarda Fiscal»:
+Capítulo 9.º «Guarda Fiscal»:
 
-###### Artigo 108.º «Vencimentos e salários»:
+Artigo 108.º «Vencimentos e salários»:
 
 N.º 1 «Vencimentos»:
 
@@ -582,13 +659,13 @@ Alínea 2 «Pessoal de nomeação vitalícia além dos quadros»:
 
 Diuturnidades ao pessoal acima relacionado, nos termos do artigo 3.º do [Decreto-Lei n.º 24/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1974-407087), de 31 de Janeiro, [Decreto-Lei n.º 467/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1973-412800), de 20 de Setembro, e [Decreto-Lei n.º 533/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1976-431449), de 8 de Julho ... 395800$00
 
-###### Artigo 111.º «Subsídio de residência» ... 259200$00
+Artigo 111.º «Subsídio de residência» ... 259200$00
 
 Secretaria de Estado do Tesouro
 
-### Capítulo 15.º «Encargos da dívida pública»:
+Capítulo 15.º «Encargos da dívida pública»:
 
-###### Artigo 206.º «Fundo de Regularização da Dívida Pública»:
+Artigo 206.º «Fundo de Regularização da Dívida Pública»:
 
 N.º 2 «Despesa correspondente às seguintes receitas consignadas a este Fundo»:
 
@@ -596,23 +673,25 @@ Alínea 1 «Produto da remição de foros e venda de bens nacionais» ... 500000
 
 Secretaria de Estado dos Investimentos Públicos
 
-### Capítulo 20.º «Inspecção-Geral de Finanças»
+Capítulo 20.º «Inspecção-Geral de Finanças»
 
-###### Artigo 282.º «Transferências - Sector público», n.º 1 «Subsídios a autarquias locais» ... 50689353$10
+Artigo 282.º «Transferências - Sector público», n.º 1 «Subsídios a autarquias locais» ... 50689353$10
 
-### Capítulo 29.º «Despesas comuns»: — Artigo 427.º «Abono de família» ... 1000000$00
+Capítulo 29.º «Despesas comuns»:
 
-###### Artigo 428.º «Subsídios de férias e de Natal» ... 30000000$00
+Artigo 427.º «Abono de família» ... 1000000$00
 
-###### Artigo 430.º «Despesas de anos findos» ... 12015024$00
+Artigo 428.º «Subsídios de férias e de Natal» ... 30000000$00
+
+Artigo 430.º «Despesas de anos findos» ... 12015024$00
 
 ... 211359377$10
 
 Ministério da Agricultura e Pescas
 
-### Capítulo 17.º «Contas de ordem»:
+Capítulo 17.º «Contas de ordem»:
 
-###### Artigo 309.º «Direcção-Geral dos Serviços Pecuários»:
+Artigo 309.º «Direcção-Geral dos Serviços Pecuários»:
 
 N.º 2 «Laboratório Nacional de Investigação Veterinária» ... 500000$00
 
@@ -620,7 +699,7 @@ Despesa extraordinária
 
 Investimentos do Plano
 
-### Capítulo 18.º «Gabinete do Ministro»:
+Capítulo 18.º «Gabinete do Ministro»:
 
 Programas autónomos
 
@@ -628,9 +707,9 @@ Agricultura, silvicultura e pecuária
 
 Programa Autónomo do Desenvolvimento Pecuário dos Açores (PPA)
 
-###### Artigo 311.º «Outras despesas correntes» ... 9219000$00
+Artigo 311.º «Outras despesas correntes» ... 9219000$00
 
-###### Artigo 312.º «Outras despesas de capital» ... 29781000$00
+Artigo 312.º «Outras despesas de capital» ... 29781000$00
 
 ... 39500000$00
 
@@ -638,9 +717,9 @@ Ministério da Indústria e Tecnologia
 
 Secretaria de Estado da Indústria Ligeira
 
-### Capítulo 12.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
+Capítulo 12.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
 
-###### Artigo 175.º «Bens não duradouros»:
+Artigo 175.º «Bens não duradouros»:
 
 N.º 5 «Outros bens não duradouros»:
 
@@ -648,23 +727,31 @@ Alínea 1 «Trabalhos executados por conta de particulares ou de outros serviço
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 10.º «Despesas comuns»: — Artigo 197.º «Despesas de anos findos» ... 63000000$00
+Capítulo 10.º «Despesas comuns»:
+
+Artigo 197.º «Despesas de anos findos» ... 63000000$00
 
 Ministério dos Transportes e Comunicações
 
 Secretaria de Estado da Marinha Mercante
 
-### Capítulo 8.º «Direcção-Geral de Portos»:
+Capítulo 8.º «Direcção-Geral de Portos»:
 
-###### Artigo 261.º «Investimentos»: — N.º 1 «Portos» ... 5000000$00
+Artigo 261.º «Investimentos»:
 
-### Capítulo 13.º «Despesas comuns»: — Artigo 352.º «Subsídios de férias e de Natal» ... 3500000$00
+N.º 1 «Portos» ... 5000000$00
 
-### Capítulo 14.º Contas de ordem»: — Artigo 355.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
+Capítulo 13.º «Despesas comuns»:
 
-###### Artigo 356.º «Administração dos Portos do Douro e Leixões» ... 16200000$00
+Artigo 352.º «Subsídios de férias e de Natal» ... 3500000$00
 
-###### Artigo 359.º «Juntas Autónomas dos Portos»:
+Capítulo 14.º Contas de ordem»:
+
+Artigo 355.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
+
+Artigo 356.º «Administração dos Portos do Douro e Leixões» ... 16200000$00
+
+Artigo 359.º «Juntas Autónomas dos Portos»:
 
 Do Norte:
 
@@ -686,13 +773,13 @@ Despesa extraordinária
 
 Investimentos do Plano
 
-### Capítulo 20.º «Direcção-Geral de Portos»:
+Capítulo 20.º «Direcção-Geral de Portos»:
 
 Transportes e comunicações
 
 Melhoria das Infra-estruturas portuárias
 
-###### Artigo 378.º «Outras despesas de capital» (18) ... 1000000$00
+Artigo 378.º «Outras despesas de capital» (18) ... 1000000$00
 
 ... 69950000$00
 
@@ -700,7 +787,7 @@ Ministério da Educação e Investigação Científica
 
 Secretaria de Estado do Ensino Superior e Investigação Científica
 
-### Capítulo 5.º «Direcção-Geral do Ensino Superior»:
+Capítulo 5.º «Direcção-Geral do Ensino Superior»:
 
 Instrução universitária
 
@@ -708,13 +795,15 @@ Universidade Técnica de Lisboa
 
 Reitoria
 
-###### Artigo 554.º «Transferências - Instituições particulares»:
+Artigo 554.º «Transferências - Instituições particulares»:
 
 N.º 1 «Serviços Sociais da Universidade» ... 7600000$00
 
-### Capítulo 16.º «Despesas comuns»: — Artigo 1089.º «Abono de família» ... 35000000$00
+Capítulo 16.º «Despesas comuns»:
 
-###### Artigo 1090.º «Subsídios de férias e de Natal» ... 220000000$00
+Artigo 1089.º «Abono de família» ... 35000000$00
+
+Artigo 1090.º «Subsídios de férias e de Natal» ... 220000000$00
 
 ... 262600000$00
 
@@ -722,11 +811,11 @@ Ministério dos Assuntos Sociais
 
 Secretaria de Estado da Saúde
 
-### Capítulo 6.º «Direcção-Geral de Saúde»:
+Capítulo 6.º «Direcção-Geral de Saúde»:
 
 Direcção-Geral
 
-###### Artigo 79.º «Transferências Sector público»:
+Artigo 79.º «Transferências Sector público»:
 
 N.º 1 «Centros de saúde» ... 28871859$60
 
@@ -750,13 +839,13 @@ N.º 10 «Assistência a leprosos»:
 
 Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência aos Leprosos ...» ... 2024700$00
 
-###### Artigo 80.º «Transferências instituições particulares»:
+Artigo 80.º «Transferências instituições particulares»:
 
 N.º 1 «Estabelecimentos hospitalares«Alínea 1 «Subsídios de cooperação às Misericórdias para sustentação dos seus hospitais ... 20275300$00
 
-### Capítulo 7.º «Direcção-Geral dos Hospitais»:
+Capítulo 7.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 133.º «Transferências - Sector público»:
+Artigo 133.º «Transferências - Sector público»:
 
 N.º 1 «Estabelecimentos hospitalares»:
 
@@ -772,7 +861,7 @@ N.º 3 «Instituto Nacional de Sangue»:
 
 Alínea 1 «Comparticipação nos encargos da sua sustentação» ... 336000$00
 
-###### Artigo 134.º «Transferências Instituições particulares»:
+Artigo 134.º «Transferências Instituições particulares»:
 
 N.º 1 «Estabelecimentos hospitalares»:
 
@@ -786,15 +875,15 @@ N.º 3 «Assistência nas (doenças reumatismais e cardiovasculares» ... 387000
 
 Secretaria de Estado da Segurança Social
 
-### Capítulo 9.º «Gabinete do Secretário de Estado»:
+Capítulo 9.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 152.º «Transferências Sector público»:
+Artigo 152.º «Transferências Sector público»:
 
 N.º 1 «Caixa Nacional de Pensões» (3) ... 249725000$00
 
-### Capítulo 11.º «Direcção-Geral da Assistência Social»:
+Capítulo 11.º «Direcção-Geral da Assistência Social»:
 
-###### Artigo 184.º «Transferências - Instituições particulares»:
+Artigo 184.º «Transferências - Instituições particulares»:
 
 N.º 1 «Subsídios a instituições particulares de assistência» ... 125000000$00
 
@@ -802,9 +891,9 @@ Outras despesas extraordinárias
 
 Secretaria de Estado dos Retornados
 
-### Capítulo 26.º «Gabinete do Secretário de Estado»:
+Capítulo 26.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 238.º «Transferências - Sector público):
+Artigo 238.º «Transferências - Sector público):
 
 N.º 1 «Instituto de Apoio ao Retorno de Nacionais» ... 4000000000$00
 
@@ -814,85 +903,89 @@ Ministério da Comunicação Social
 
 Secretaria de Estado da Cultura
 
-### Capítulo 4.º «Direcção-Geral da Acção Cultural»:
+Capítulo 4.º «Direcção-Geral da Acção Cultural»:
 
 Direcção-Geral
 
-###### Artigo 11.º «Transferências - Sector público»:
+Artigo 11.º «Transferências - Sector público»:
 
 N.º 2 «Fundo de Fomento Cultural» ... 3000000$00
 
-### Capítulo 5.º «Serviços do Ministério»:
+Capítulo 5.º «Serviços do Ministério»:
 
-###### Artigo 81.º «Gratificações variáveis ou eventuais» (4) ... 250000$00
+Artigo 81.º «Gratificações variáveis ou eventuais» (4) ... 250000$00
 
-### Capítulo 6.º «Despesas comuns»: — Artigo 103.º «Abono de família» ... 400000$00
+Capítulo 6.º «Despesas comuns»:
 
-###### Artigo 104.º «Subsídios de férias e de Natal» ... 8000000$00
+Artigo 103.º «Abono de família» ... 400000$00
 
-### Capítulo 7.º «Contas de urdem»: — Artigo 107.º «Instituto Português de Cinema ... 40000000$00
+Artigo 104.º «Subsídios de férias e de Natal» ... 8000000$00
+
+Capítulo 7.º «Contas de urdem»:
+
+Artigo 107.º «Instituto Português de Cinema ... 40000000$00
 
 ... 51650000$00
 
 ... 7398788938$10
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado representativas de aumentos de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado representativas de aumentos de previsão de receitas:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 1.º, grupo 2, artigo 13.º, «Imposto sobre veículos» ... 1129807$70
+Capítulo 1.º, grupo 2, artigo 13.º, «Imposto sobre veículos» ... 1129807$70
 
-### Capítulo 2.º, grupo 1, artigo 15.º, «Sobretaxa de importação» ... 1146225000$00
+Capítulo 2.º, grupo 1, artigo 15.º, «Sobretaxa de importação» ... 1146225000$00
 
-### Capítulo 2.º, grupo 3, artigo 19.º «Imposto do selo» ... 427000000$00
+Capítulo 2.º, grupo 3, artigo 19.º «Imposto do selo» ... 427000000$00
 
-### Capítulo 2.º, grupo 3, artigo 24.º «Imposto sobre a venda de automóveis» ... 758304964$00
+Capítulo 2.º, grupo 3, artigo 24.º «Imposto sobre a venda de automóveis» ... 758304964$00
 
-### Capítulo 5.º, grupo 1, artigo 85.º «Serviços autónomos e empresas públicas» ... 51964963$20
+Capítulo 5.º, grupo 1, artigo 85.º «Serviços autónomos e empresas públicas» ... 51964963$20
 
-### Capítulo 6.º, grupo 3, artigo 93.º «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 1000000$00
+Capítulo 6.º, grupo 3, artigo 93.º «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 1000000$00
 
-### Capítulo 6.º, grupo 3, artigo 94.º «Serviços gerais» ... 256000000$00
+Capítulo 6.º, grupo 3, artigo 94.º «Serviços gerais» ... 256000000$00
 
-### Capítulo 7.º, grupo 10, artigo 117.º «vistorias e ensaios: Serviços da cultura popular e espectáculos» ... 250000$00
+Capítulo 7.º, grupo 10, artigo 117.º «vistorias e ensaios: Serviços da cultura popular e espectáculos» ... 250000$00
 
-### Capítulo 7.º, grupo 10, artigo 119.º «Trabalhos de conta de terceiros»:
+Capítulo 7.º, grupo 10, artigo 119.º «Trabalhos de conta de terceiros»:
 
 Serviços de inspecção agrícola e industrial ... 250000$00
 
-### Capítulo 7.º, grupo 10, artigo 122.º «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 2500000$00
+Capítulo 7.º, grupo 10, artigo 122.º «Serviços gerais - Fundo de Regularização da Dívida Pública» ... 2500000$00
 
-### Capítulo 9.º grupo 18, artigo 132.º «Serviços gerais- Fundo de Regularização da Dívida Pública» ... 1500000$00
+Capítulo 9.º grupo 18, artigo 132.º «Serviços gerais- Fundo de Regularização da Dívida Pública» ... 1500000$00
 
-### Capítulo 10.º, grupo 1, artigo 136.º «Juntas gerais dos distritos autónomos» ... 1000000$00
+Capítulo 10.º, grupo 1, artigo 136.º «Juntas gerais dos distritos autónomos» ... 1000000$00
 
-### Capítulo 14.º, artigo 157.º, «Reposições não abatidas nos pagamentos» ... 92194203$20
+Capítulo 14.º, artigo 157.º, «Reposições não abatidas nos pagamentos» ... 92194203$20
 
-### Capítulo 15.º artigo 160.º «Fundo de Instrução do Exército» ... 7500000$00
+Capítulo 15.º artigo 160.º «Fundo de Instrução do Exército» ... 7500000$00
 
-### Capítulo 15.º artigo 166.º «Direcção-Geral dos Serviços Pecuários»:
+Capítulo 15.º artigo 166.º «Direcção-Geral dos Serviços Pecuários»:
 
 Laboratório Nacional de Investigação Veterinária ... 500000$00
 
-### Capítulo 15.º, artigo 175.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
+Capítulo 15.º, artigo 175.º «Administração-Geral do Porto de Lisboa» ... 30000000$00
 
-### Capítulo 15.º, artigo 176.º «Administração dos Portos do Douro e Leixões ... 16200000$00
+Capítulo 15.º, artigo 176.º «Administração dos Portos do Douro e Leixões ... 16200000$00
 
-### Capítulo 15.º, artigo 179.º «Juntas autónomas dos portos» ... 14250000$00
+Capítulo 15.º, artigo 179.º «Juntas autónomas dos portos» ... 14250000$00
 
-### Capítulo 15.º, artigo 185.º «Instituto Português de Cinema» ... 40000000$00
+Capítulo 15.º, artigo 185.º «Instituto Português de Cinema» ... 40000000$00
 
 Receita extraordinária:
 
-### Capítulo 5.º, grupo 2, artigo 188.º «Estrangeiro» ... 6750000$00
+Capítulo 5.º, grupo 2, artigo 188.º «Estrangeiro» ... 6750000$00
 
-### Capítulo 12.º, artigo 191.º «Crédito interno» ... 4544270000$00
+Capítulo 12.º, artigo 191.º «Crédito interno» ... 4544270000$00
 
 ... 7398788938$10
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos:
+Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos:
 
 Do Ministério das Finanças
 
@@ -926,7 +1019,7 @@ A observação (4) aposta à dotação do capítulo 5.º artigo 81.º, é altera
 
 Desta verba, 770000$00 têm compensação em receita.
 
-###### Art. 4.º São autorizadas as seguintes alterações orçamentais nos orçamentos privativos:
+Art. 4.º São autorizadas as seguintes alterações orçamentais nos orçamentos privativos:
 
 Da Administração-Geral do Porto de Lisboa
 
@@ -936,7 +1029,7 @@ Despesa ordinária
 
 Despesas de capital:
 
-###### Artigo 29.º «Transferências. Sector público»:
+Artigo 29.º «Transferências. Sector público»:
 
 N.º 2 «Fundo de Melhoramentos» ... 30000000$00
 
@@ -946,7 +1039,7 @@ Receita ordinária
 
 Receitas correntes:
 
-###### Artigo 5.º «Venda de serviços e bens não duradouros»:
+Artigo 5.º «Venda de serviços e bens não duradouros»:
 
 N.º 6 «Diversos Outros sectores»:
 
@@ -966,7 +1059,7 @@ Despesa ordinária
 
 Despesas correntes.
 
-###### Artigo 1.º «Vencimentos e salários»:
+Artigo 1.º «Vencimentos e salários»:
 
 N.º 2 «Salários do pessoal eventual» ... 16200000$00
 
@@ -974,18 +1067,18 @@ Contrapartida
 
 Receita ordinária
 
-###### Artigo 6.º «Venda de serviços e bens não duradouros»:
+Artigo 6.º «Venda de serviços e bens não duradouros»:
 
 N.º 8 «Diversos - Outros sectores»:
 
 Alínea 18 «Taxas de utilização do terminal petrolífero» ... 16200000$00
 
-###### Art. 5.º A fim de satisfazer encargos respeitantes a anos económicos anteriores, fica a 1.ª Delegação da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 19795767$60, em conta da verba do capítulo 7.º, artigo 139.º, do actual orçamento da Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea, reforçada com a quantia de 35000000$00, através do presente diploma.
+Art. 5.º A fim de satisfazer encargos respeitantes a anos económicos anteriores, fica a 1.ª Delegação da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 19795767$60, em conta da verba do capítulo 7.º, artigo 139.º, do actual orçamento da Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea, reforçada com a quantia de 35000000$00, através do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares Henrique Medina Carreira.
 
-**Promulgado em 26 de Novembro de 1976.**
+Promulgado em 26 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

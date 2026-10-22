@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49215-1969-214774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae97432b0fc6d42853df209337f106d6c37704048db5a696a1bb847160db26d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27107a2f68d631b34e7b4d80563849d81d6833bafb8e44df6d22d8c1cf3eb6a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Aproveitamento Agrícola
+- Definição de Competências
+- Direcção Geral dos Serviços Hidráulicos
+- Domínio Público Marítimo
+- Hasta Pública
+- ZONA Adjacente
 relationships:
 - type: amended_by
   target: pt:dre:631400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313440:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:631400:por
+  label: "Revogado o art. 1º pelo DEC LEI.468/71.05.11.1971.MMAR, DG.IS [260] de 05.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/468-1971-631400
+  date: '1971-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:36Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +119,18 @@ Assim, considerando o interesse que existe em normalizar e fomentar o aproveitam
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral dos Serviços Hidráulicos poderá ser autorizada, mediante despacho do Ministro das Obras Públicas, a promover o arrendamento, pelo prazo máximo de vinte e cinco anos, de terrenos dominiais destinados a exploração agrícola, salineira ou de outras actividades económicas análogas.
+Artigo 1.º A Direcção-Geral dos Serviços Hidráulicos poderá ser autorizada, mediante despacho do Ministro das Obras Públicas, a promover o arrendamento, pelo prazo máximo de vinte e cinco anos, de terrenos dominiais destinados a exploração agrícola, salineira ou de outras actividades económicas análogas.
 
-###### Art. 2.º - 1. Os arrendamentos referidos no artigo anterior serão adjudicados em hasta pública.
+Art. 2.º - 1. Os arrendamentos referidos no artigo anterior serão adjudicados em hasta pública.
 
 2. Em casos especiais, poderá o Ministro das Obras Públicas dispensar a realização da hasta pública, sendo então o preço e demais condições do contrato fixados no despacho que autorizar o arrendamento.
 
-###### Art. 3.º Tratando-se de terrenos situados nas zonas de jurisdição dos departamentos marítimos e capitanias, os respectivos processos carecem de despacho concordante do Ministro da Marinha.
+Art. 3.º Tratando-se de terrenos situados nas zonas de jurisdição dos departamentos marítimos e capitanias, os respectivos processos carecem de despacho concordante do Ministro da Marinha.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 13 de Agosto de 1969.**
+Promulgado em 13 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

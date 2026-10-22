@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12500/12821290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1980-474550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68a7fc91f0d7e2cf043015b881669551ad22ed137e99df21665991af3f4d072e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e49f0f94f61857d60aecced3959f389ba51678ccf060edb5d395f3685cb8375
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Propriedade Industrial
+- Marca
+- Patente
 relationships:
 - type: amended_by
   target: pt:dre:139270:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:352675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ARTIGO 3 PELO DEC LEI 285/83 DE 21-JUN DR.IS [140].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-06-21'
+- type: repealed_by
+  target: pt:dre:139270:por
+  label: "Revogado pelo DEC LEI.16/95.1995.01.24.MIE, DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1995-139270
+  date: '1995-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:12Z'
   warnings: []
   errors: []
 ---
@@ -116,41 +137,41 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º De cinco em cinco anos, salvo quando forem devidas as taxas relativas à renovação do registo, os titulares dos registos de marcas deverão apresentar uma declaração de intenção de uso da sua marca, sem a qual esta se presumirá não usada.
+Artigo 1.º De cinco em cinco anos, salvo quando forem devidas as taxas relativas à renovação do registo, os titulares dos registos de marcas deverão apresentar uma declaração de intenção de uso da sua marca, sem a qual esta se presumirá não usada.
 
-###### Art. 2.º A partir da publicação do aviso de caducidade por falta de declaração de intenção de uso, o titular do registo terá o prazo de um ano para pedir a revalidação do registo, fazendo prova do uso da marca.
+Art. 2.º A partir da publicação do aviso de caducidade por falta de declaração de intenção de uso, o titular do registo terá o prazo de um ano para pedir a revalidação do registo, fazendo prova do uso da marca.
 
-###### Art. 3.º Se uma patente tiver por objecto um processo de fabrico de um produto novo, o mesmo produto fabricado por um terceiro será, salvo prova em contrário, considerado como fabricado pelo processo patenteado.
+Art. 3.º Se uma patente tiver por objecto um processo de fabrico de um produto novo, o mesmo produto fabricado por um terceiro será, salvo prova em contrário, considerado como fabricado pelo processo patenteado.
 
-###### Art. 4.º É revogado o n.º 3.º do artigo 53.º do Código da Propriedade Industrial, aprovado pelo Decreto-Lei n.º 30679, de 24 de Agosto de 1940.
+Art. 4.º É revogado o n.º 3.º do artigo 53.º do Código da Propriedade Industrial, aprovado pelo Decreto-Lei n.º 30679, de 24 de Agosto de 1940.
 
-###### Art. 5.º Os artigos 55.º, 56.º e 58.º do Código da Propriedade Industrial passam a ter a seguinte redacção:
+Art. 5.º Os artigos 55.º, 56.º e 58.º do Código da Propriedade Industrial passam a ter a seguinte redacção:
 
-###### Art. 55.º No mesmo requerimento não se pode pedir mais de um depósito e a cada modelo ou desenho corresponde um depósito diferente.
+Art. 55.º No mesmo requerimento não se pode pedir mais de um depósito e a cada modelo ou desenho corresponde um depósito diferente.
 
-###### Art. 56.º Poderão ser depositados o modelo de um objecto e o desenho que eventualmente o ornamente.
+Art. 56.º Poderão ser depositados o modelo de um objecto e o desenho que eventualmente o ornamente.
 
 ...
 
-###### Art. 58.º As diferenças de cor ou de material não implicam depósitos distintos.
+Art. 58.º As diferenças de cor ou de material não implicam depósitos distintos.
 
-###### Art. 6.º A título de sistema principal, é adoptada a classificação internacional dos produtos e serviços instituída pelo Acordo de Nice, de 15 de Junho de 1957, que passa a substituir o repertório e a classificação dos produtos actualmente em vigor.
+Art. 6.º A título de sistema principal, é adoptada a classificação internacional dos produtos e serviços instituída pelo Acordo de Nice, de 15 de Junho de 1957, que passa a substituir o repertório e a classificação dos produtos actualmente em vigor.
 
-###### Art. 7.º São registáveis as marcas denominadas de serviço, considerando-se aplicáveis para estas, na interpretação ou integração lógicas, todos os artigos do Código da Propriedade Industrial referentes a marcas de produtos.
+Art. 7.º São registáveis as marcas denominadas de serviço, considerando-se aplicáveis para estas, na interpretação ou integração lógicas, todos os artigos do Código da Propriedade Industrial referentes a marcas de produtos.
 
-###### Art. 8.º As tabelas n.os 3, 4 e 5 anexas ao Código da Propriedade Industrial são substituídas pelas tabelas anexas ao presente diploma.
+Art. 8.º As tabelas n.os 3, 4 e 5 anexas ao Código da Propriedade Industrial são substituídas pelas tabelas anexas ao presente diploma.
 
-###### Art. 9.º As taxas que respeitam ao regime jurídico das marcas de serviço são fixadas na tabela n.º 6 anexa ao Código da Propriedade Industrial, actualizadas pelo [Decreto-Lei n.º 32/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1974-407097), de 2 de Fevereiro, para as marcas de comércio de fábricas, ou por outra posterior actualização.
+Art. 9.º As taxas que respeitam ao regime jurídico das marcas de serviço são fixadas na tabela n.º 6 anexa ao Código da Propriedade Industrial, actualizadas pelo [Decreto-Lei n.º 32/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1974-407097), de 2 de Fevereiro, para as marcas de comércio de fábricas, ou por outra posterior actualização.
 
-###### Art. 10.º O presente decreto-lei entra em vigor trinta dias após a sua publicação.
+Art. 10.º O presente decreto-lei entra em vigor trinta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Índice das classes
 

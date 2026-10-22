@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42926-1960-281645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0555b81a89e4d1c7cbd91ec799591734bf15ef15bb7e09b56974e4c63b24d64e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 136e0df0bfc95cc995d36a2bf9984d71ddc61aa972103d4957256a55c36f594b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Exército
+- Lamego
+- Militar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:55Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +91,7 @@ Considerando a necessidade imperiosa de intensificar e, até certo ponto, centra
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Centro de Instrução de Operações Especiais (C. I. O. E.), com a missão de:
+Artigo 1.º É criado o Centro de Instrução de Operações Especiais (C. I. O. E.), com a missão de:
 
 a) Instruir os quadros do Exército nas várias modalidades de «operações especiais»;
 
@@ -94,21 +99,21 @@ b) Realizar estágios de subunidades, tendo em vista aperfeiçoar a sua actuaç�
 
 c) Levar a efeito estudos que, de qualquer modo, possam contribuir para melhorar a eficiência das Foras Armadas, no que diz respeito à sua actuação em «operações especiais», designadamente nas de maior interesse para a defesa do território nacional.
 
-###### Art. 2.º O C. I. O. E. fica aquartelado em Lamego, nas actuais instalações do regimento de infantaria n.º 9.
+Art. 2.º O C. I. O. E. fica aquartelado em Lamego, nas actuais instalações do regimento de infantaria n.º 9.
 
 § único. Durante a fase de organização do C. I. O. E., este funcionará adstrito ao regimento de infantaria n.º 9 e dependente dele apenas para efeitos administrativos.
 
-###### Art. 3.º Para efeitos de instrução, o C. I. O. E. dependerá da direcção da arma de infantaria.
+Art. 3.º Para efeitos de instrução, o C. I. O. E. dependerá da direcção da arma de infantaria.
 
-###### Art. 4.º Os oficiais e os sargentos do C. I. O. E, terão, quanto a alimentação, gratificações e alojamento, as mesmas regalias consideradas nas disposições em vigor para o pessoal prestando serviço nas escolas práticas no desempenho de idênticas funções.
+Art. 4.º Os oficiais e os sargentos do C. I. O. E, terão, quanto a alimentação, gratificações e alojamento, as mesmas regalias consideradas nas disposições em vigor para o pessoal prestando serviço nas escolas práticas no desempenho de idênticas funções.
 
 § 1.º Enquanto não forem atribuídas gratificações aos sargentos das escolas práticas, os sargentos monitores e os restantes sargentos do C. I. O. E. terão, respectivamente, 50 por cento das gratificações dos oficiais instrutores e dos restantes oficiais do Centro.
 
 § 2.º O pessoal que tome Parte em períodos de instrução exterior com uma duração superior a doze horas consecutivas terá direito ao abono de alimentação especial.
 
-###### Art. 5.º O regulamento e o quadro orgânico do C. I. O. E. constarão de portaria assinada pelo Ministro do Exército.
+Art. 5.º O regulamento e o quadro orgânico do C. I. O. E. constarão de portaria assinada pelo Ministro do Exército.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

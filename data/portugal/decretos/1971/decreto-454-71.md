@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/454-1971-633717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee7cd964e5fbb3ade0f589c9c02c5f3c5c4523acd7b42a4208990533d1153a8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a7946badb499297c39f0274cafcf03d708366185c91a50e5b1d513e397d54d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:446331:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:41Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +97,16 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O texto da nota (ver nota c) ao artigo 24 da Pauta de Exportação vigente em Moçambique, aprovada pelo [Decreto n.º 38146](https://diariodarepublica.pt/dr/detalhe/decreto/38146-1950-446331), de 30 de Dezembro de 1950, passa a ter a seguinte redacção:
+Artigo único. O texto da nota (ver nota c) ao artigo 24 da Pauta de Exportação vigente em Moçambique, aprovada pelo [Decreto n.º 38146](https://diariodarepublica.pt/dr/detalhe/decreto/38146-1950-446331), de 30 de Dezembro de 1950, passa a ter a seguinte redacção:
 
 (nota c) A exportação de dentes de elefante com peso inferior a 8 kg cada um está sujeita a autorização do governador-geral.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 13 de Outubro de 1971.**
+Promulgado em 13 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.

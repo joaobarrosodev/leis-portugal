@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/07400/04840490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1973-674846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 956acebd77624ddadec5fbd452445c550834354a3fb0ff541a61c5815d9eec11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4395f4e86fb70b638d95b8d508b298d581c03c41efe66a92b2336f56adadcdf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Empresa Pública de Parques Industriais
+- Estabelecimento Industrial
+- Estatuto
+- Instalação de Serviços
+- Licenciamento
+- Ordenamento do Território
+- Parque Industrial
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:221150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411991:por
+  label: "Determinada a integração no Fundo de Fomento Industrial do Serviço de Parques Industriais, pelo DEC LEI.632/73.1973.11.28.MECO,\
+    \ DG.IS [278]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/632-1973-411991
+  date: '1973-11-28'
+- type: amended_by
+  target: pt:dre:622835:por
+  label: "Dada nova redacção ao art. 7º e aditado um nº 2 ao art. 35º, ambos dos Estatutos, pelo DEC LEI.252/74.12.06.1974.MCE,\
+    \ DG.IS [136] de 12.06.1974 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-1974-622835
+  date: '1974-06-12'
+- type: amended_by
+  target: pt:dre:329869:por
+  label: "Substituídos os Estatutos da EPPI, com excepção do seu art. 36º, que se mantém em vigor, aprovados em anexo ao presente\
+    \ diploma, com as alterações introduzidas pelo Dec Lei 252/74 de 12-Jun, pelo DEC LEI.275/78.1978.09.06.MIT, DR.IS[205]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1978-329869
+  date: '1978-09-06'
+- type: amended_by
+  target: pt:dre:193621:por
+  label: "Extinta a EPPI pelo DEC LEI.39/86.04.03.1986.MPAT, DR.IS [52] de 04.03.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1986-193621
+  date: '1986-03-04'
+- type: cites
+  target: pt:dre:234925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do presente diploma, e art. 36º dos estatutos anexos, pelo DEC LEI.485/88.1988.12.30.MF,\
+    \ DR.IS [301]2ºSupl, a partir da entrada em vigor do referido diploma, sem prejuízo da manutenção dos benefícios já concedidos\
+    \ e dos regimes de caducidade previstos na legislação ao abrigo da qual estão a ser usufruidos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:221150:por
+  label: "Revogado pelo DEC LEI.232/92.22.10.1992.MPLAT, DR.IS-A [244] de 22.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1992-221150
+  date: '1992-10-22'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:07Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +164,11 @@ De acordo com a base XIV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/deta
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º Para efeitos do presente decreto-lei, entende-se por parque industrial uma aglomeração planeada de unidades industriais cujo estabelecimento visará objectivos de fomento industrial.
+Artigo 1.º Para efeitos do presente decreto-lei, entende-se por parque industrial uma aglomeração planeada de unidades industriais cujo estabelecimento visará objectivos de fomento industrial.
 
-###### Art. 2.º Só poderão adoptar a designação de «parque industrial» as instalações que obedeçam às disposições contidas no presente decreto-lei.
+Art. 2.º Só poderão adoptar a designação de «parque industrial» as instalações que obedeçam às disposições contidas no presente decreto-lei.
 
-###### Art. 3.º - 1. Os parques industriais disporão da área de terreno necessária ao seu desenvolvimento e expansão, que será devidamente organizada e apetrechada com as infra-estruturas, instalações e serviços adequados à eficaz laboração das indústrias a instalar.
+Art. 3.º - 1. Os parques industriais disporão da área de terreno necessária ao seu desenvolvimento e expansão, que será devidamente organizada e apetrechada com as infra-estruturas, instalações e serviços adequados à eficaz laboração das indústrias a instalar.
 
 2. As infra-estruturas, instalações e serviços referidos no número anterior serão, nomeadamente, os seguintes:
 
@@ -128,17 +190,17 @@ h) Serviços de segurança, nomeadamente de polícia, incêndio e pronto-socorro
 
 i) Serviços de apoio financeiro e administrativo, tais como estabelecimentos de crédito, gabinetes de contabilidade e gestão.
 
-###### Art. 4.º - 1. Cada parque industrial será gerido por um órgão próprio, responsável pelo cumprimento das disposições e normas aplicáveis, bem como pela manutenção do parque e funcionamento dos respectivos serviços e instalações.
+Art. 4.º - 1. Cada parque industrial será gerido por um órgão próprio, responsável pelo cumprimento das disposições e normas aplicáveis, bem como pela manutenção do parque e funcionamento dos respectivos serviços e instalações.
 
 2. A composição, poderes, modo de designação dos membros do órgão de administração e de um modo geral as normas reguladoras do seu funcionamento serão estabelecidas no estatuto de cada parque, a elaborar nos termos da alínea e) do artigo 14.º
 
-###### Art. 5.º O órgão de administração do parque reservará as áreas de terreno necessárias à instalação de serviços, públicos e privados, de apoio às empresas instaladas, de acordo com condições previamente estabelecidas em plano aprovado pela Secretaria de Estado da Indústria.
+Art. 5.º O órgão de administração do parque reservará as áreas de terreno necessárias à instalação de serviços, públicos e privados, de apoio às empresas instaladas, de acordo com condições previamente estabelecidas em plano aprovado pela Secretaria de Estado da Indústria.
 
-###### Art. 6.º Os parques industriais poderão dispor de edifícios para cedência por arrendamento, leasing ou venda.
+Art. 6.º Os parques industriais poderão dispor de edifícios para cedência por arrendamento, leasing ou venda.
 
-###### Art. 7.º As condições de cedência dos lotes de terreno e edifícios industriais que compõem o parque serão previamente aprovadas pelo Secretário de Estado da Indústria e publicadas no Diário do Governo.
+Art. 7.º As condições de cedência dos lotes de terreno e edifícios industriais que compõem o parque serão previamente aprovadas pelo Secretário de Estado da Indústria e publicadas no Diário do Governo.
 
-###### Art. 8.º - 1. As empresas, relativamente aos estabelecimentos industriais que instalem em parques, beneficiarão dos seguintes incentivos:
+Art. 8.º - 1. As empresas, relativamente aos estabelecimentos industriais que instalem em parques, beneficiarão dos seguintes incentivos:
 
 a) Quando exerçam uma actividade industrial classificada como prioritária, terão direito à graduação máxima dos incentivos fiscais decorrentes da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e da sua legislação complementar;
 
@@ -148,13 +210,13 @@ b) Quando exerçam uma actividade industrial não prioritária, gozarão de bene
 
 ### CAPÍTULO II — Promoção de parques industriais
 
-###### Art. 9.º A instalação de cada parque industrial dependerá de autorização do Conselho de Ministros para os Assuntos Económicos, sob proposta do Secretário de Estado da Indústria.
+Art. 9.º A instalação de cada parque industrial dependerá de autorização do Conselho de Ministros para os Assuntos Económicos, sob proposta do Secretário de Estado da Indústria.
 
-###### Art. 10.º Compete à Secretaria de Estado da Indústria estabelecer programas nacionais de parques industriais, na conformidade dos planos de fomento e das directrizes aprovadas pelo Governo em matéria de ordenamento do território.
+Art. 10.º Compete à Secretaria de Estado da Indústria estabelecer programas nacionais de parques industriais, na conformidade dos planos de fomento e das directrizes aprovadas pelo Governo em matéria de ordenamento do território.
 
-###### Art. 11.º A instalação de parques industriais no âmbito dos programas fixados pela Secretaria de Estado da Indústria pode ser promovida pelo Governo, pelas autarquias locais e por empresas especialmente constituídas para o efeito.
+Art. 11.º A instalação de parques industriais no âmbito dos programas fixados pela Secretaria de Estado da Indústria pode ser promovida pelo Governo, pelas autarquias locais e por empresas especialmente constituídas para o efeito.
 
-###### Art. 12.º As empresas especialmente constituídas para instalação e exploração de parques industriais, relativamente a essa actividade, poderão fruir dos seguintes benefícios:
+Art. 12.º As empresas especialmente constituídas para instalação e exploração de parques industriais, relativamente a essa actividade, poderão fruir dos seguintes benefícios:
 
 a) Isenção de sisa sobre as transmissões de imóveis exclusivamente destinados à implantação de parques industriais;
 
@@ -164,11 +226,11 @@ c) Isenção de contribuição predial sobre os rendimentos provenientes de arre
 
 d) Isenção ou redução de contribuição industrial.
 
-###### Art. 13.º - 1. Para aquisição dos terrenos necessários, as entidades públicas promotoras de parques industriais poderão utilizar as facilidades concedidas pela legislação em vigor referente à expropriação de imóveis por utilidade pública.
+Art. 13.º - 1. Para aquisição dos terrenos necessários, as entidades públicas promotoras de parques industriais poderão utilizar as facilidades concedidas pela legislação em vigor referente à expropriação de imóveis por utilidade pública.
 
 2. As empresas especialmente constituídas para a promoção de parques industriais poderão obter quando o interesse público do empreendimento o justifique, a expropriação de imóveis nos termos da lei.
 
-###### Art. 14.º A entidade promotora submeterá à Secretaria de Estado da Indústria, para efeitos de aprovação nos termos do artigo 9.º, o pré-projecto de cada parque, o qual deverá conter, além de outras indicações julgadas convenientes, os seguintes elementos:
+Art. 14.º A entidade promotora submeterá à Secretaria de Estado da Indústria, para efeitos de aprovação nos termos do artigo 9.º, o pré-projecto de cada parque, o qual deverá conter, além de outras indicações julgadas convenientes, os seguintes elementos:
 
 a) Justificação económica e urbanística da criação do parque industrial;
 
@@ -186,7 +248,7 @@ g) Condições de cedência das instalações, de edifícios e de lotes de terre
 
 h) Delimitação da área de protecção.
 
-###### Art. 15.º No caso de ser concedida autorização, será fixado um prazo à entidade interessada para submeter à aprovação da Secretaria de Estado da Indústria o projecto definitivo do parque industrial, que deverá incluir:
+Art. 15.º No caso de ser concedida autorização, será fixado um prazo à entidade interessada para submeter à aprovação da Secretaria de Estado da Indústria o projecto definitivo do parque industrial, que deverá incluir:
 
 a) Projecto de infra-estruturas;
 
@@ -200,19 +262,19 @@ e) Preços de locação de instalações e de fornecimento de serviços;
 
 f) Outras condições que lhe tenham sido impostas pela Secretaria de Estado da Indústria.
 
-###### Art. 16.º A Secretaria de Estado da Indústria, para efeito de aprovação dos requisitos referidos nos artigos 14.º e 15.º, promoverá a obtenção dos necessários pareceres e autorizações das entidades competentes.
+Art. 16.º A Secretaria de Estado da Indústria, para efeito de aprovação dos requisitos referidos nos artigos 14.º e 15.º, promoverá a obtenção dos necessários pareceres e autorizações das entidades competentes.
 
-###### Art. 17.º Os projectos das instalações fabris a construir nos parques serão objecto de prévia aprovação da Secretaria de Estado da Indústria, que promoverá a obtenção dos necessários pareceres e autorizações das entidades competentes, designadamente para cumprimento do artigo 3.º do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março de 1966.
+Art. 17.º Os projectos das instalações fabris a construir nos parques serão objecto de prévia aprovação da Secretaria de Estado da Indústria, que promoverá a obtenção dos necessários pareceres e autorizações das entidades competentes, designadamente para cumprimento do artigo 3.º do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março de 1966.
 
-###### Art. 18.º A ocupação do parque industrial por estabelecimentos fabris só poderá ter início após vistoria do mesmo pelos serviços competentes da Secretaria de Estado da Indústria, da qual será passado um certificado.
+Art. 18.º A ocupação do parque industrial por estabelecimentos fabris só poderá ter início após vistoria do mesmo pelos serviços competentes da Secretaria de Estado da Indústria, da qual será passado um certificado.
 
-###### Art. 19.º - 1. O não cumprimento, pela entidade promotora, das condições e prazos fixados para a instalação do parque, salvo motivo justificado, reconhecido e aceite pelo Secretário de Estado da Indústria, bem como a não observância continuada das condições estabelecidas para a sua exploração e gestão, determinam a revogação da autorização.
+Art. 19.º - 1. O não cumprimento, pela entidade promotora, das condições e prazos fixados para a instalação do parque, salvo motivo justificado, reconhecido e aceite pelo Secretário de Estado da Indústria, bem como a não observância continuada das condições estabelecidas para a sua exploração e gestão, determinam a revogação da autorização.
 
 2. Revogada a autorização, caducam os benefícios concedidos, ficando a entidade promotora obrigada a entregar ao Estado as importâncias que deixou de pagar e podendo o Governo promover a expropriação dos terrenos e instalações.
 
 ### CAPÍTULO III — Órgãos de execução
 
-###### Art. 20.º - 1. Para exercício da competência atribuída à Secretaria de Estado da Indústria no presente decreto-lei, é instituído um Serviço de Promoção de Parques Industriais, ao qual compete:
+Art. 20.º - 1. Para exercício da competência atribuída à Secretaria de Estado da Indústria no presente decreto-lei, é instituído um Serviço de Promoção de Parques Industriais, ao qual compete:
 
 a) Promover a realização dos estudos tendentes à elaboração dos programas nacionais de parques industriais;
 
@@ -232,39 +294,39 @@ g) Propor normas que regulamentarão o acesso dos empresários aos parques, bem 
 
 3. O quadro do pessoal do Serviço de Promoção de Parques Industriais é o constante do mapa anexo ao presente decreto-lei e que dele faz parte integrante.
 
-###### Art. 21.º O Secretário de Estado da Indústria fixará, por despacho, as normas de apresentação e apreciação dos processos decorrentes da aplicação deste decreto-lei.
+Art. 21.º O Secretário de Estado da Indústria fixará, por despacho, as normas de apresentação e apreciação dos processos decorrentes da aplicação deste decreto-lei.
 
-###### Art. 22.º Para a instalação de parques industriais a promover pelo Governo, nos termos da base XIV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, é criada a Empresa Pública de Parques Industriais, cujo estatuto constitui o anexo II ao presente decreto-lei e dele faz parte integrante.
+Art. 22.º Para a instalação de parques industriais a promover pelo Governo, nos termos da base XIV da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, é criada a Empresa Pública de Parques Industriais, cujo estatuto constitui o anexo II ao presente decreto-lei e dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 19 de Março de 1973.**
+Promulgado em 19 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 ## ANEXO I — Mapa a que se refere o artigo 20.º, n.º 2, do Decreto-Lei n.º 133/73, de 28 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/07400/04840490.pdf))](https://files.diariodarepublica.pt/1s/1973/03/07400/04840490.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/07400/04840490.pdf)
 
 ## ANEXO II — Estatuto da Empresa Pública de Parques Industriais, a que se refere o artigo 22.º do Decreto-Lei n.º 133/73
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º - 1. A Empresa Pública de Parques Industriais, abreviadamente designada neste Estatuto por «Empresa», é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, destinada essencialmente à instalação de parques e promoção de loteamentos industriais, sem prejuízo de outros fins que venham a ser-lhe confiados.
+Artigo 1.º - 1. A Empresa Pública de Parques Industriais, abreviadamente designada neste Estatuto por «Empresa», é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, destinada essencialmente à instalação de parques e promoção de loteamentos industriais, sem prejuízo de outros fins que venham a ser-lhe confiados.
 
 2. A Empresa rege-se pelas normas próprias das empresas comerciais em tudo quanto diga respeito à sua capacidade jurídica e competência dos seus órgãos, salvo no que se achar disposto na legislação que lhe é especialmente aplicável.
 
-###### Art. 2.º - 1. A Empresa tem sede em Lisboa e exerce as suas funções em todo o território do continente e ilhas adjacentes.
+Art. 2.º - 1. A Empresa tem sede em Lisboa e exerce as suas funções em todo o território do continente e ilhas adjacentes.
 
 2. Nas regiões de planeamento onde forem instalados parques industriais pela Empresa haverá delegações ou outra qualquer espécie de representação.
 
 3. As delegações regionais referidas no número anterior serão dirigidas por administradores, um por cada delegação que vier a ser constituída.
 
-###### Art. 3.º Constituem atribuições da Empresa:
+Art. 3.º Constituem atribuições da Empresa:
 
 a) Promover a instalação e assegurar a gestão dos parques industriais da iniciativa do Estado;
 
@@ -272,7 +334,7 @@ b) Promover a criação de loteamentos industriais, quando autorizados pelo Gove
 
 c) Prestar assistência técnica às entidades privadas e autarquias locais promotoras de parques industriais.
 
-###### Art. 4.º Para o desempenho das suas atribuições compete à Empresa:
+Art. 4.º Para o desempenho das suas atribuições compete à Empresa:
 
 a) Elaborar estudos económicos e financeiros necessários à criação de parques industriais;
 
@@ -296,7 +358,7 @@ i) Praticar os demais actos necessários à prossecução das suas atribuições
 
 #### SECÇÃO I
 
-###### Art. 5.º Os órgãos da Empresa são os seguintes:
+Art. 5.º Os órgãos da Empresa são os seguintes:
 
 a) Conselho de administração;
 
@@ -306,7 +368,7 @@ c) Conselho geral.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 6.º - 1. O conselho de administração é composto por:
+Art. 6.º - 1. O conselho de administração é composto por:
 
 a) Três administradores designados pelo Secretário de Estado da Indústria, um dos quais com a qualidade de presidente;
 
@@ -320,7 +382,7 @@ b) Administradores regionais designados pelo Secretário de Estado da Indústria
 
 5. O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o seu presidente o convocar.
 
-###### Art. 7.º - 1. Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção da Empresa e em especial:
+Art. 7.º - 1. Compete ao conselho de administração praticar todos os actos necessários à gestão e direcção da Empresa e em especial:
 
 a) Autorizar a execução de trabalhos incluídos nas suas atribuições;
 
@@ -340,21 +402,21 @@ h) Estabelecer a organização interna dos serviços e aprovar os respectivos re
 
 2. A competência dos administradores regionais será definida, para cada caso, pelo conselho de administração.
 
-###### Art. 8.º Competem também ao conselho de administração todos os poderes necessários para assegurar a existência da Empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento, a gestão do património e ainda o regular funcionamento dos serviços.
+Art. 8.º Competem também ao conselho de administração todos os poderes necessários para assegurar a existência da Empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento, a gestão do património e ainda o regular funcionamento dos serviços.
 
-###### Art. 9.º Nas suas faltas e impedimentos, o presidente do conselho de administração é substituído por um dos administradores que ele indicará.
+Art. 9.º Nas suas faltas e impedimentos, o presidente do conselho de administração é substituído por um dos administradores que ele indicará.
 
-###### Art. 10.º A Empresa obrigar-se-á mediante a assinatura de dois dos seus administradores, no entanto, para os actos de mero expediente será suficiente a assinatura de um deles.
+Art. 10.º A Empresa obrigar-se-á mediante a assinatura de dois dos seus administradores, no entanto, para os actos de mero expediente será suficiente a assinatura de um deles.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 11.º - 1. O conselho fiscal é constituído por um presidente e dois vogais, nomeados pelo período de três anos, renovável.
+Art. 11.º - 1. O conselho fiscal é constituído por um presidente e dois vogais, nomeados pelo período de três anos, renovável.
 
 2. O presidente será designado pelo Ministro das Finanças; um dos vogais será um revisor de contas designado pelo Ministro da Justiça e o outro será designado pelo Secretário de Estado da Indústria.
 
 3. Cada membro do conselho fiscal terá um suplente, designado nos mesmos termos.
 
-###### Art. 12.º - 1. O conselho fiscal reunirá ordinariamente duas vezes por ano e extraordinariamente sempre que o presidente o convocar, por sua iniciativa ou a requerimento do presidente do conselho de administração.
+Art. 12.º - 1. O conselho fiscal reunirá ordinariamente duas vezes por ano e extraordinariamente sempre que o presidente o convocar, por sua iniciativa ou a requerimento do presidente do conselho de administração.
 
 2. Os membros do conselho fiscal poderão assistir, isolada ou conjuntamente, às reuniões do conselho de administração.
 
@@ -362,7 +424,7 @@ h) Estabelecer a organização interna dos serviços e aprovar os respectivos re
 
 4. Sempre que se considere conveniente haverá reuniões conjuntas dos conselhos de administração e fiscal, que serão convocadas e presididas pelo presidente do conselho de administração ou por quem o substituir.
 
-###### Art. 13.º - 1. Compete ao conselho fiscal:
+Art. 13.º - 1. Compete ao conselho fiscal:
 
 a) Velar pelo cumprimento das leis aplicáveis ao funcionamento da Empresa e pela observância do presente Estatuto;
 
@@ -388,7 +450,7 @@ i) Pronunciar-se sobre qualquer assunto de interesse para a Empresa que lhe seja
 
 #### SECÇÃO IV — Conselho geral
 
-###### Art. 14.º - 1. O conselho geral é presidido pelo presidente do conselho de administração, que será coadjuvado por um vice-presidente escolhido, por eleição, de entre os vogais do conselho geral.
+Art. 14.º - 1. O conselho geral é presidido pelo presidente do conselho de administração, que será coadjuvado por um vice-presidente escolhido, por eleição, de entre os vogais do conselho geral.
 
 2. Compõem o conselho geral:
 
@@ -410,9 +472,9 @@ h) Um representante de cada uma das Corporações da Indústria e dos Transporte
 
 3. Os membros dos conselhos de administração e fiscal deverão assistir às reuniões do conselho geral e poderão participar nos seus trabalhos, usando da palavra e apresentando propostas e sugestões, mas não terão voto deliberativo.
 
-###### Art. 15.º As entidades que designarem representantes para o conselho geral deverão substituí-los quando as pessoas designadas cessem de exercer as funções em razão das quais hajam sido escolhidas, se achem legitimamente impedidas ou obtenham escusa da representação, nos casos em que tal seja admissível.
+Art. 15.º As entidades que designarem representantes para o conselho geral deverão substituí-los quando as pessoas designadas cessem de exercer as funções em razão das quais hajam sido escolhidas, se achem legitimamente impedidas ou obtenham escusa da representação, nos casos em que tal seja admissível.
 
-###### Art. 16.º - 1. Compete ao conselho geral:
+Art. 16.º - 1. Compete ao conselho geral:
 
 a) Apreciar o relatório e as contas de gerência anualmente apresentados pelo conselho de administração, bem como o correspondente parecer do conselho fiscal;
 
@@ -430,7 +492,7 @@ d) Sugerir ao conselho de administração e ao Governo, pelo Secretário de Esta
 
 #### SECÇÃO V — Disposições comuns
 
-###### Art. 17.º - 1. O presidente e os vogais do conselho de administração percebem os vencimentos mensais que forem fixados pelo Secretário de Estado da Indústria, com o acordo do Ministro das Finanças, ficando as remunerações sujeitas ao limite que for estabelecido pelo Conselho de Ministros.
+Art. 17.º - 1. O presidente e os vogais do conselho de administração percebem os vencimentos mensais que forem fixados pelo Secretário de Estado da Indústria, com o acordo do Ministro das Finanças, ficando as remunerações sujeitas ao limite que for estabelecido pelo Conselho de Ministros.
 
 2. Ao presidente e aos vogais do conselho fiscal será atribuída uma gratificação mensal, acumulável com outros vencimentos, fixada pelo Secretário de Estado da Indústria, com o acordo do Ministro das Finanças.
 
@@ -438,7 +500,7 @@ d) Sugerir ao conselho de administração e ao Governo, pelo Secretário de Esta
 
 4. Os membros dos corpos gerentes terão direito ao abono de despesas de transportes e de ajudas de custo todas as vezes que houverem de deslocar-se em serviço.
 
-###### Art. 18.º - 1. Os órgãos da Empresa só podem tomar deliberações quando estejam presentes a maioria dos membros de cada um desses órgãos.
+Art. 18.º - 1. Os órgãos da Empresa só podem tomar deliberações quando estejam presentes a maioria dos membros de cada um desses órgãos.
 
 2. As deliberações dos órgãos colegiais serão tomadas por maioria dos membros presentes, não sendo permitido o voto por correspondência ou procuração;
 
@@ -448,23 +510,23 @@ em caso de empate, o presidente terá voto de qualidade.
 
 4. As actas serão lavradas pelo funcionário da Empresa designado para esse efeito e assinadas por quem houver participado nas reuniões, devendo as referentes às reuniões dos conselhos de administração e fiscal ser aprovadas no final destas, em minuta, ou na reunião que se seguir.
 
-###### Art. 19.º Das deliberações definitivas e executórias da Administração cabe recurso contencioso, nos termos gerais de direito, para o Supremo Tribunal Administrativo.
+Art. 19.º Das deliberações definitivas e executórias da Administração cabe recurso contencioso, nos termos gerais de direito, para o Supremo Tribunal Administrativo.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 20.º - 1. O pessoal da Empresa será contratado ou assalariado e ficará sujeito ao regime jurídico do contrato individual de trabalho, com as adaptações exigidas pelas características da Empresa.
+Art. 20.º - 1. O pessoal da Empresa será contratado ou assalariado e ficará sujeito ao regime jurídico do contrato individual de trabalho, com as adaptações exigidas pelas características da Empresa.
 
 2. Poderão exercer funções na Empresa, em comissão de serviço, funcionários do Estado, dos institutos públicos e das autarquias locais, ficando os mesmos sujeitos, no que respeita às relações com os quadros de origem, ao regime sobre comissões de serviço aplicável ao respectivo quadro.
 
-###### Art. 21.º Para estímulo e distinção dos melhores servidores da Empresa, o conselho de administração, com o parecer favorável do conselho fiscal, poderá atribuir prémios, nas condições que forem estabelecidas em regulamento interno.
+Art. 21.º Para estímulo e distinção dos melhores servidores da Empresa, o conselho de administração, com o parecer favorável do conselho fiscal, poderá atribuir prémios, nas condições que forem estabelecidas em regulamento interno.
 
-###### Art. 22.º O pessoal da Empresa fica submetido ao regime geral de previdência social aplicável ao das empresas privadas, salvo aquele a que se refere o n.º 2 do artigo 20.º, que continua sujeito ao regime aplicável ao pessoal do respectivo quadro de origem.
+Art. 22.º O pessoal da Empresa fica submetido ao regime geral de previdência social aplicável ao das empresas privadas, salvo aquele a que se refere o n.º 2 do artigo 20.º, que continua sujeito ao regime aplicável ao pessoal do respectivo quadro de origem.
 
-###### Art. 23.º O pessoal da Empresa, incluindo os funcionários a que se refere o n.º 2 do artigo 20.º, fica sujeito, quanto às respectivas remunerações, à tributação que incide sobre as remunerações pagas pelas empresas privadas.
+Art. 23.º O pessoal da Empresa, incluindo os funcionários a que se refere o n.º 2 do artigo 20.º, fica sujeito, quanto às respectivas remunerações, à tributação que incide sobre as remunerações pagas pelas empresas privadas.
 
 ### CAPÍTULO IV — Gestão financeira e patrimonial
 
-###### Art. 24.º A gestão financeira e patrimonial da Empresa basear-se-á nos seguintes documentos:
+Art. 24.º A gestão financeira e patrimonial da Empresa basear-se-á nos seguintes documentos:
 
 a) Planos de actividade e financeiros;
 
@@ -472,11 +534,11 @@ b) Programas anuais de trabalho;
 
 c) Orçamentos anuais e suplementares.
 
-###### Art. 25.º Nos planos financeiros prever-se-ão especialmente, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a que se deverá recorrer.
+Art. 25.º Nos planos financeiros prever-se-ão especialmente, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a que se deverá recorrer.
 
-###### Art. 26.º A contabilidade da Empresa obedecerá às regras de gestão empresarial.
+Art. 26.º A contabilidade da Empresa obedecerá às regras de gestão empresarial.
 
-###### Art. 27.º Constituem receitas da Empresa:
+Art. 27.º Constituem receitas da Empresa:
 
 a) As dotações extraordinárias do orçamento geral do Estado ao abrigo dos planos de fomento;
 
@@ -492,13 +554,13 @@ f) O produto de empréstimos;
 
 g) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato devam pertencer-lhe.
 
-###### Art. 28.º A empresa pode contrair empréstimos a curto, médio e longo prazo em estabelecimentos bancários ou mediante a emissão de obrigações.
+Art. 28.º A empresa pode contrair empréstimos a curto, médio e longo prazo em estabelecimentos bancários ou mediante a emissão de obrigações.
 
-###### Art. 29.º - 1. A amortização dos bens da Empresa e, quando a ela houver lugar, a dos bens do domínio público sob a sua administração serão efectuadas nos termos que forem fixados pelo conselho de administração, ouvido o conselho fiscal, e homologados pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
+Art. 29.º - 1. A amortização dos bens da Empresa e, quando a ela houver lugar, a dos bens do domínio público sob a sua administração serão efectuadas nos termos que forem fixados pelo conselho de administração, ouvido o conselho fiscal, e homologados pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
 
 2. O valor anual das amortizações constituirá encargo de exploração e será escriturado em conta especial.
 
-###### Art. 30.º - 1. A Empresa poderá fazer provisões e reservas consentidas por lei às empresas comerciais, sendo obrigatórias, porém, as reservas seguintes:
+Art. 30.º - 1. A Empresa poderá fazer provisões e reservas consentidas por lei às empresas comerciais, sendo obrigatórias, porém, as reservas seguintes:
 
 a) Reserva para investimentos;
 
@@ -516,7 +578,7 @@ c) As importâncias resultantes da transmissão ou constituição de direitos re
 
 4. A reserva geral pode ser utilizada para cobrir eventuais deficits de exercício.
 
-###### Art. 31.º - 1. Quando a conta de gerência de um exercício encerre com excedentes, o conselho de administração levará à reserva geral 5 por cento, pelo menos, e atribuirá ao Estado 20 por cento, dispondo do remanescente nos termos indicados no número seguinte.
+Art. 31.º - 1. Quando a conta de gerência de um exercício encerre com excedentes, o conselho de administração levará à reserva geral 5 por cento, pelo menos, e atribuirá ao Estado 20 por cento, dispondo do remanescente nos termos indicados no número seguinte.
 
 2. Por deliberação do conselho de administração, aprovada pelo conselho fiscal e sancionada pelo conselho geral, o remanescente será destinado:
 
@@ -528,28 +590,28 @@ b) A reservas especiais ou à nova conta.
 
 4. Se a conta saldar com deficits que não possam ser suportados pela reserva geral, serão levados à conta do exercício seguinte.
 
-###### Art. 32.º - 1. Os fundos e disponibilidades em numerário serão depositados, sem prjuízo do disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), 5 de Abril de 1969, na Caixa Geral de Depósitos.
+Art. 32.º - 1. Os fundos e disponibilidades em numerário serão depositados, sem prjuízo do disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), 5 de Abril de 1969, na Caixa Geral de Depósitos.
 
 2. Pode, todavia, o Ministro das Finanças, ouvida a Caixa, autorizar as entidades referidas no número anterior a constituírem depósitos em estabelecimentos especiais de crédito, quando razões especiais o justifiquem.
 
-###### Art. 33.º O Secretário de Estado da Indústria fiscaliza os órgãos e os serviços da Empresa, responsabilizando os membros daqueles pelo não cumprimento das disposições legais.
+Art. 33.º O Secretário de Estado da Indústria fiscaliza os órgãos e os serviços da Empresa, responsabilizando os membros daqueles pelo não cumprimento das disposições legais.
 
-###### Art. 34.º Os conselhos de administração e fiscal prestarão ao Secretário de Estado da Indústria as informações que este tiver por convenientes.
+Art. 34.º Os conselhos de administração e fiscal prestarão ao Secretário de Estado da Indústria as informações que este tiver por convenientes.
 
-###### Art. 35.º O relatório e contas do conselho de administração e o parecer do conselho fiscal serão publicados no Diário do Governo e num jornal diário de grande tiragem da capital.
+Art. 35.º O relatório e contas do conselho de administração e o parecer do conselho fiscal serão publicados no Diário do Governo e num jornal diário de grande tiragem da capital.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 36.º - 1. A Empresa goza de isenção de contribuições, impostos, taxas, custas judiciais, emolumentos, licenças administrativas e demais imposições, gerais ou especiais, nos mesmos termos que o Estado.
+Art. 36.º - 1. A Empresa goza de isenção de contribuições, impostos, taxas, custas judiciais, emolumentos, licenças administrativas e demais imposições, gerais ou especiais, nos mesmos termos que o Estado.
 
 2. A Empresa goza também de isenção, relativamente aos edifícios construídos por ela ou por sua conta, das taxas sanitárias por vistorias a prédios urbanos e licenciamento de obras, habitação ou ocupação de prédios, estabelecidas na [Portaria n.º 23298](https://diariodarepublica.pt/dr/detalhe/portaria/23298-1968-234925), de 6 de Abril de 1968.
 
-###### Art. 37.º - 1. A Empresa conservará em arquivo, pelo prazo de dez anos, os elementos da sua escrita principal e a correspondência; os restantes documentos e elementos de escrita poderão ser inutilizados, mediante autorização do conselho de administração, depois de decorridos cinco anos sobre a sua entrada ou elaboração.
+Art. 37.º - 1. A Empresa conservará em arquivo, pelo prazo de dez anos, os elementos da sua escrita principal e a correspondência; os restantes documentos e elementos de escrita poderão ser inutilizados, mediante autorização do conselho de administração, depois de decorridos cinco anos sobre a sua entrada ou elaboração.
 
 2. Os documentos e livros que devam conservar-se em arquivo e a correspondência referida no número anterior poderão ser microfilmados, devendo os microfilmes ser autenticados com a assinatura do responsável pelo serviço; os respectivos originais poderão ser inutilizados após a microfilmagem, depois de resolução do conselho de administração e de lavrado auto em que fiquem relacionados.
 
 3. As fotocópias autenticadas têm a mesma força probatória dos originais, ainda que se trate de ampliação dos microfilmes que os reproduzem.
 
-###### Art. 38.º As dúvidas que se suscitarem na aplicação do presente Estatuto serão resolvidas por despacho do Secretário de Estado da Indústria, ouvido, sempre que necessário, o Ministro das Finanças.
+Art. 38.º As dúvidas que se suscitarem na aplicação do presente Estatuto serão resolvidas por despacho do Secretário de Estado da Indústria, ouvido, sempre que necessário, o Ministro das Finanças.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

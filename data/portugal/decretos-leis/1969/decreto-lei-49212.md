@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/20100/11491154.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49212-1969-214895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af4c9d250374efdb46457962a0bc476b719711fa5810f29c9eb8b974b74684b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 251420b5684e0662bb15aa449e305d7ddbfe1bd93996fa4e6565911ec08a19cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação Colectiva
+- Contrato de Trabalho
+- Instituto Nacional do Trabalho e Previdência
 relationships:
 - type: amended_by
   target: pt:dre:356557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147607:por
+  label: "Alterado o n.º 2 do artigo 1.º, o n.º 1 do artigo 5.º, os artigos 6.º, 7.º e 9.º, o n.º 2 do artigo 10.º, os artigos\
+    \ 12.º, 13.º, 14.º, 15.º e 16.º, o n.º 2 do artigo 17.º, o n.º 2 do artigo 18.º, o n.º 1 do artigo 19.º e os artigos 24.º,\
+    \ 26.º e 33.º, do presente diploma, pelo DEC LEI.492/70.22.10.1970.MCPS, DG.IS [245] de 22.10.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/492-1970-147607
+  date: '1970-10-22'
+- type: amended_by
+  target: pt:dre:421837:por
+  label: Alterados os prazos fixados nos n.ºs 4 a 6 do art. 12.º, no n.º 7 do art. 14.º e no n.º 1 do art. 19.º pelo(a) Decreto-Lei
+    n.º 377/73 - Diário do Governo n.º 172/1973, Série I de 1973-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1973-421837
+  date: '1973-07-24'
+- type: cites
+  target: pt:dre:155193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596513:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:356557:por
+  label: "Revogado, a partir de 19.03.1976, o presente diploma, na redacção dada pelo Decreto-Lei n.º 492/70, de 22 de Outubro,\
+    \ pelo DEC LEI.164-A/76.28.02.1976.MT, DG.IS [50-Supl] de 28.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-a-1976-356557
+  date: '1976-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:35Z'
   warnings: []
   errors: []
 ---
@@ -176,15 +214,15 @@ Ouvida a Câmara Corporativa;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A regulamentação das relações colectivas de trabalho será estabelecida por via convencional.
+Artigo 1.º - 1. A regulamentação das relações colectivas de trabalho será estabelecida por via convencional.
 
 2. Em casos excepcionais, sempre que o exijam os superiores interesses da economia nacional e da justiça social, bem como na ausência de organismos corporativos que representem determinado sector de actividade económica ou profissional, a regulamentação das condições de trabalho será feita por via administrativa.
 
 3. Os diferendos colectivos de trabalho serão dirimidos por conciliação e arbitragem.
 
-###### Art. 2.º As convenções colectivas, as decisões arbitrais e as portarias de regulamentação de trabalho não podem contrariar normas legais preceptivas ou proibitivas, nem incluir qualquer disposição que importe para os trabalhadores tratamento menos favorável do que o previsto na lei.
+Art. 2.º As convenções colectivas, as decisões arbitrais e as portarias de regulamentação de trabalho não podem contrariar normas legais preceptivas ou proibitivas, nem incluir qualquer disposição que importe para os trabalhadores tratamento menos favorável do que o previsto na lei.
 
-###### Art. 3.º - 1. Às convenções colectivas e às decisões arbitrais é vedado:
+Art. 3.º - 1. Às convenções colectivas e às decisões arbitrais é vedado:
 
 a) Contrariar de qualquer modo o direito reservado ao Estado de coordenar e regular superiormente a vida económica da Nação e de fiscalizar a observância das leis sociais;
 
@@ -196,7 +234,7 @@ d) Impor a obrigatoriedade de filiação sindical.
 
 2. O disposto nas alíneas c) e d) aplica-se igualmente às portarias de regulamentação de trabalho.
 
-###### Art. 4.º As convenções colectivas e as portarias de regulamentação de trabalho fixam retribuições mínimas e, para o seu cômputo, considerarão:
+Art. 4.º As convenções colectivas e as portarias de regulamentação de trabalho fixam retribuições mínimas e, para o seu cômputo, considerarão:
 
 a) As necessidades do trabalhador, atendendo ao custo de vida, nomeadamente no que se refere a alimentação, vestuário e alojamento;
 
@@ -212,13 +250,13 @@ f) Os níveis das remunerações praticadas em actividades similares;
 
 g) Os níveis de retribuição do trabalho no âmbito regional.
 
-###### Art. 5.º - 1. As regalias concedidas aos trabalhadores por algum dos modos previstos no artigo 1.º deste diploma só poderão ser diminuídas quando os novos instrumentos de regulamentação colectiva, apreciados no seu conjunto, sejam mais favoráveis aos trabalhadores que os então vigentes.
+Art. 5.º - 1. As regalias concedidas aos trabalhadores por algum dos modos previstos no artigo 1.º deste diploma só poderão ser diminuídas quando os novos instrumentos de regulamentação colectiva, apreciados no seu conjunto, sejam mais favoráveis aos trabalhadores que os então vigentes.
 
 2. O regime jurídico estabelecido por qualquer dos modos indicados no artigo 1.º não pode ser afastado nos contratos individuais de trabalho, salvo para estabelecer condições mais favoráveis aos trabalhadores.
 
 3. As entidades patronais não podem reduzir as remunerações ou outras condições de trabalho mais favoráveis que estivessem a praticar até à data do novo regime fixado por qualquer dos modos referidos no n.º 1 do presente diploma.
 
-###### Art. 6.º - 1. As convenções colectivas de trabalho são celebradas:
+Art. 6.º - 1. As convenções colectivas de trabalho são celebradas:
 
 a) Entre os organismos corporativos, representando entidades patronais e trabalhadores;
 
@@ -226,7 +264,7 @@ b) Entre empresas e organismos corporativos, representando trabalhadores.
 
 2. A convenção designa-se «contrato colectivo de trabalho», se celebrada entre organismos corporativos, e «acordo colectivo de trabalho», se celebrada entre organismos corporativos e empresas.
 
-###### Art. 7.º - 1. Podem celebrar convenções colectivas de trabalho:
+Art. 7.º - 1. Podem celebrar convenções colectivas de trabalho:
 
 a) Os grémios, representando as entidades patronais, ou estas próprias, consideradas singularmente, ou conjuntamente uns e outros;
 
@@ -234,17 +272,17 @@ b) Os sindicatos, Casas dos Pescadores e federações de Casas do Povo, represen
 
 2. Os grémios, os sindicatos e as Casas dos Pescadores podem, quando verificarem que os interesses são comuns, celebrar conjuntamente convenções colectivas de trabalho, assim como delegar nas respectivas uniões e federações a sua negociação.
 
-###### Art. 8.º As convenções colectivas obrigam todas as empresas e todos os trabalhadores representados pelos organismos celebrantes, bem como, quanto aos acordos, as entidades patronais signatárias e aquelas que aos mesmos acordos venham a aderir.
+Art. 8.º As convenções colectivas obrigam todas as empresas e todos os trabalhadores representados pelos organismos celebrantes, bem como, quanto aos acordos, as entidades patronais signatárias e aquelas que aos mesmos acordos venham a aderir.
 
-###### Art. 9.º Cumpre às partes que celebram as convenções colectivas velar pela sua execução e observância e colaborar no seu aperfeiçoamento e oportuna actualização.
+Art. 9.º Cumpre às partes que celebram as convenções colectivas velar pela sua execução e observância e colaborar no seu aperfeiçoamento e oportuna actualização.
 
-###### Art. 10.º - 1. A celebração das convenções colectivas de trabalho compete às direcções dos organismos corporativos e às gerências das empresas que nelas intervierem.
+Art. 10.º - 1. A celebração das convenções colectivas de trabalho compete às direcções dos organismos corporativos e às gerências das empresas que nelas intervierem.
 
 2. Sempre que na convenção colectiva se pretenda inserir qualquer cláusula sobre o trabalho das mulheres, deverá acompanhar as respectivas negociações um representante da secção feminina dos organismos sindicais interessados.
 
 3. Quando as circunstâncias o justifiquem, a iniciativa das negociações poderá partir das corporações ou do Instituto Nacional do Trabalho e Previdência; estes mesmos organismos poderão acompanhar as negociações no seu desenvolvimento.
 
-###### Art. 11.º As convenções colectivas conterão, tanto quanto possível, cláusulas sobre as seguintes matérias:
+Art. 11.º As convenções colectivas conterão, tanto quanto possível, cláusulas sobre as seguintes matérias:
 
 I) Área, âmbito e vigência da convenção;
 
@@ -276,7 +314,7 @@ XIV) Relações entre as partes outorgantes;
 
 XV) Questões transitórias.
 
-###### Art. 12.º - 1. A entidade que desejar a celebração de uma convenção colectiva, ou a sua revisão apresentará por escrito a sua proposta à entidade com quem pretende negociar, a qual, no prazo de trinta dias, deverá responder, informando se a aceita ou se a rejeita ou apresentando uma contraproposta.
+Art. 12.º - 1. A entidade que desejar a celebração de uma convenção colectiva, ou a sua revisão apresentará por escrito a sua proposta à entidade com quem pretende negociar, a qual, no prazo de trinta dias, deverá responder, informando se a aceita ou se a rejeita ou apresentando uma contraproposta.
 
 2. As propostas e contrapropostas serão sempre, fundamentadas e delas serão enviadas cópias à corporação e ao Instituto, Nacional do Trabalho e Previdência.
 
@@ -286,11 +324,11 @@ XV) Questões transitórias.
 
 5. Mediante autorização do Instituto Nacional do Trabalho e Previdência, poderá ser estabelecida uma prorrogação, nunca superior ao período de tempo mencionado no número anterior.
 
-###### Art. 13.º - 1. No caso de a negociação das convenções colectivas terminar sem acordo, cabe recurso à tentativa de conciliação.
+Art. 13.º - 1. No caso de a negociação das convenções colectivas terminar sem acordo, cabe recurso à tentativa de conciliação.
 
 2. Poderá também recorrer-se à tentativa de conciliação se a entidade a quem foi dirigida uma proposta de negociação não responder, ou se a negociação por sua culpa não prosseguir ou se for considerada dilatória.
 
-###### Art. 14.º - 1. Se na convenção não tiver sido estipulada a conciliação e o seu processo, compete ela à corporação que represente os interessados em causa.
+Art. 14.º - 1. Se na convenção não tiver sido estipulada a conciliação e o seu processo, compete ela à corporação que represente os interessados em causa.
 
 2. Se houver mais que uma corporação interessada, compete ao Instituto Nacional do Trabalho e Previdência designar a corporação competente para a actividade conciliatória.
 
@@ -306,13 +344,13 @@ XV) Questões transitórias.
 
 8. O documento referido no número anterior poderá ser substituído por um auto lavrado por acordo entre as partes.
 
-###### Art. 15.º - 1. Sempre que da tentativa de conciliação não tenha resultado acordo, qualquer das partes poderá tomar a iniciativa da arbitragem, notificando a outra para que nomeie, árbitro e identificando-lhe o seu.
+Art. 15.º - 1. Sempre que da tentativa de conciliação não tenha resultado acordo, qualquer das partes poderá tomar a iniciativa da arbitragem, notificando a outra para que nomeie, árbitro e identificando-lhe o seu.
 
 2. A parte notificada procederá à nomeação dentro do prazo de quinze dias, a contar do recebimento da notificação, e, se o não fizer, caberá tal nomeação à direcção da corporação, que, para o efeito, disporá de igual prazo.
 
 3. Havendo vários sindicatos ou grémios interessados nas negociações e não havendo acordo sobre a escolha do árbitro, a designação caberá igualmente à direcção da corporação.
 
-###### Art. 16.º - 1. Os árbitros nomeados reunir-se-ão a pedido de qualquer deles ou de uma ou ambas as partes, dentro de dez dias, para escolha do árbitro presidente.
+Art. 16.º - 1. Os árbitros nomeados reunir-se-ão a pedido de qualquer deles ou de uma ou ambas as partes, dentro de dez dias, para escolha do árbitro presidente.
 
 2. Se os dois árbitros não chegarem a acordo acerca da escolha, será ela feita pelo juiz presidente da junta disciplinar da corporação, dentro do prazo referido no número anterior.
 
@@ -320,11 +358,11 @@ XV) Questões transitórias.
 
 4. Os árbitros poderão ser coadjuvados por peritos, promover todas as diligências que entenderem convenientes e solicitar, aos serviços competentes do Estado e dos corpos administrativos, aos organismos corporativos e de coordenação económica, às empresas e aos trabalhadores, todos os elementos de informação de que necessitem.
 
-###### Art. 17.º - 1. Nenhum árbitro, depois de aceitar a sua designação, pode escusar-se a prosseguir a arbitragem, salvo por motivo superveniente, devidamente justificado.
+Art. 17.º - 1. Nenhum árbitro, depois de aceitar a sua designação, pode escusar-se a prosseguir a arbitragem, salvo por motivo superveniente, devidamente justificado.
 
 2. Se um ábitro falecer durante a arbitragem ou se impossibilitar ou obtiver escusa, deve a parte que o nomeou indicar novo árbitro dentro de quinze dias, a contar da notificação para esse efeito ordenada, seguindo-se, quando for caso disso, o disposto na parte final do n.º 2 do artigo 15.º; tratando-se do árbitro presidente, proceder-se-á à escolha de novo árbitro, nos termos previstos no artigo 16.º
 
-###### Art. 18.º - 1. Compete ao árbitro presidente:
+Art. 18.º - 1. Compete ao árbitro presidente:
 
 a) Convocar e dirigir as reuniões;
 
@@ -336,23 +374,23 @@ d) Redigir a decisão.
 
 2. Na primeira reunião definir-se-á com precisão o objecto da arbitragem.
 
-###### Art. 19.º - 1. A decisão final será proferida dentro de sessenta dias, a contar da nomeação dos árbitros, podendo este prazo, em circunstâncias excepcionais, ser prorrogado por mais trinta dias, mediante autorização do Instituto Nacional do Trabalho e Previdência.
+Art. 19.º - 1. A decisão final será proferida dentro de sessenta dias, a contar da nomeação dos árbitros, podendo este prazo, em circunstâncias excepcionais, ser prorrogado por mais trinta dias, mediante autorização do Instituto Nacional do Trabalho e Previdência.
 
 2. A decisão deverá ser fundamentada e antecedida de um relatório com as circunstâncias que originaram o diferendo, os pontos controvertidos, a forma como se precisou o objecto de arbitragem, as diligências efectuadas e a sua apreciação.
 
 3. Quando não houver unanimidade entre os árbitros, a decisão será proferida por maioria, devendo dela constar o voto do árbitro vencido e a sua justificação.
 
-###### Art. 20.º A decisão arbitral e as condições dela resultantes abrangerão sòmente as entidades patronais e os trabalhadores representados no litígio.
+Art. 20.º A decisão arbitral e as condições dela resultantes abrangerão sòmente as entidades patronais e os trabalhadores representados no litígio.
 
-###### Art. 21.º Não pode ser renovada a proposta para a revisão de uma convenção colectiva de trabalho antes de decorrer um ano sobre a decisão arbitral que a considerou inoportuna.
+Art. 21.º Não pode ser renovada a proposta para a revisão de uma convenção colectiva de trabalho antes de decorrer um ano sobre a decisão arbitral que a considerou inoportuna.
 
-###### Art. 22.º Os organismos corporativos e as empresas podem aderir às convenções colectivas de trabalho, produzindo essa adesão os mesmos efeitos da celebração.
+Art. 22.º Os organismos corporativos e as empresas podem aderir às convenções colectivas de trabalho, produzindo essa adesão os mesmos efeitos da celebração.
 
-###### Art. 23.º - 1. Quando a adesão for solicitada por um organismo corporativo representante das entidades patronais ou por empresas, o Instituto Nacional do Trabalho e Previdência ouvirá os organismos sindicais que hajam celebrado a convenção.
+Art. 23.º - 1. Quando a adesão for solicitada por um organismo corporativo representante das entidades patronais ou por empresas, o Instituto Nacional do Trabalho e Previdência ouvirá os organismos sindicais que hajam celebrado a convenção.
 
 2. De igual modo deverão ser ouvidos os organismos gremiais ou as empresas, quando a adesão for solicitada por organizações sindicais.
 
-###### Art. 24.º - 1. Os projectos de convenções colectivas de trabalho, os pedidos de adesão, os projectos de revisões, as actas de conciliação e as decisões arbitrais serão apresentados ao Instituto Nacional do Trabalho e Previdência, devendo simultâneamente ser remetidas cópias à corporação.
+Art. 24.º - 1. Os projectos de convenções colectivas de trabalho, os pedidos de adesão, os projectos de revisões, as actas de conciliação e as decisões arbitrais serão apresentados ao Instituto Nacional do Trabalho e Previdência, devendo simultâneamente ser remetidas cópias à corporação.
 
 2. O Instituto Nacional do Trabalho e Previdência poderá solicitar às partes interessadas, bem como às entidades encarregadas da conciliação e da arbitragem, os esclarecimentos que tiver por convenientes.
 
@@ -360,17 +398,17 @@ d) Redigir a decisão.
 
 4. O Instituto Nacional do Trabalho e Previdência procederá ao registo, numeração e arquivo de todos os instrumentos de regulamentação das relações colectivas de trabalho, integrando-os das cláusulas definidas nas revisões, nas actas de conciliação ou nas decisões arbitrais, ou em novas portarias, promoverá a sua publicação e recolherá os elementos indispensáveis à estimativa dos trabalhadores e empresas por eles abrangidos.
 
-###### Art. 25.º O Instituto Nacional do Trabalho e Previdência poderá dar às partes interessadas na celebração de uma convenção colectiva, ou na sua revisão, assim como às entidades encarregadas da conciliação e da arbitragem, a necessária colaboração, nomeadamente a da assistência jurídica e estudo e análise de estatísticas e índices da evolução do custo de vida.
+Art. 25.º O Instituto Nacional do Trabalho e Previdência poderá dar às partes interessadas na celebração de uma convenção colectiva, ou na sua revisão, assim como às entidades encarregadas da conciliação e da arbitragem, a necessária colaboração, nomeadamente a da assistência jurídica e estudo e análise de estatísticas e índices da evolução do custo de vida.
 
-###### Art. 26.º - 1. Das portarias de regulamentação do trabalho constarão as razões por que se não utilizou a via convencional, devendo igualmente ser fundamentadas.
+Art. 26.º - 1. Das portarias de regulamentação do trabalho constarão as razões por que se não utilizou a via convencional, devendo igualmente ser fundamentadas.
 
 2. As portarias serão sempre precedidas de estudos adequados realizados por comissões técnicas nomeadas pelo Ministro, das quais poderão fazer parte representantes dos organismos corporativos interessados.
 
 3. Quando as portarias respeitem a empresas públicas, a empresas concessionárias, a actividades sujeitas por lei a fiscalização do Governo, ou ainda quando a regulamentação a estabelecer venha a reflectir-se, por forma acentuada, em serviços do Estado, deverão fazer parte das comissões técnicas representantes das entidades ou Ministérios interessados.
 
-###### Art. 27.º O Ministro das Corporações e Previdência Social poderá, por portaria, fundamentada nos termos do artigo 26.º, tornar extensiva a aplicação de toda ou parte de uma convenção colectiva ou decisão arbitral em vigor a actividades ou profissões idênticas ou similares por ela não abrangidas.
+Art. 27.º O Ministro das Corporações e Previdência Social poderá, por portaria, fundamentada nos termos do artigo 26.º, tornar extensiva a aplicação de toda ou parte de uma convenção colectiva ou decisão arbitral em vigor a actividades ou profissões idênticas ou similares por ela não abrangidas.
 
-###### Art. 28.º - 1. Sem prejuízo das sanções especialmente previstas na lei e em portarias de regulamentação do trabalho aplicáveis aos trabalhadores e às entidades patronais, as infracções aos preceitos das convenções colectivas de trabalho e daquelas portarias serão punidas com multa de 200$00 a 500$00 por cada trabalhador em relação ao qual se verificar a infracção.
+Art. 28.º - 1. Sem prejuízo das sanções especialmente previstas na lei e em portarias de regulamentação do trabalho aplicáveis aos trabalhadores e às entidades patronais, as infracções aos preceitos das convenções colectivas de trabalho e daquelas portarias serão punidas com multa de 200$00 a 500$00 por cada trabalhador em relação ao qual se verificar a infracção.
 
 2. Quando a infracção for cometida por uma entidade patronal e não respeitar a trabalhadores individualmente considerados, mas a uma generalidade de prestadores de trabalho, a multa aplicável será de 500$00 a 10000$00.
 
@@ -378,30 +416,30 @@ d) Redigir a decisão.
 
 4. Conjuntamente com as multas, serão sempre cobradas as indemnizações que forem devidas aos trabalhadores prejudicados.
 
-###### Art. 29.º - 1. Sempre que, no caso de violação do disposto em convenções colectivas e portarias de regulamentação de trabalho, se use de coacção, falsificação, simulação ou qualquer meio fraudulento, a infracção será punida com multa de 1000$00 a 20000$00, salvo se pena mais grave for prevista na lei penal geral.
+Art. 29.º - 1. Sempre que, no caso de violação do disposto em convenções colectivas e portarias de regulamentação de trabalho, se use de coacção, falsificação, simulação ou qualquer meio fraudulento, a infracção será punida com multa de 1000$00 a 20000$00, salvo se pena mais grave for prevista na lei penal geral.
 
 2. A mera tentativa será punida com multa de 500$00 a 5000$00.
 
-###### Art. 30.º No caso de reincidência em qualquer das infracções punidas no presente diploma, são elevados ao dobro os limites mínimo e máximo das multas.
+Art. 30.º No caso de reincidência em qualquer das infracções punidas no presente diploma, são elevados ao dobro os limites mínimo e máximo das multas.
 
-###### Art. 31.º Na aplicação das multas, entre os limites fixados para cada uma, atender-se-á à natureza e gravidade do facto praticado, aos seus resultados, à intensidade do dolo ou grau da culpa, aos motivos da infracção, à situação económica e à personalidade do infractor.
+Art. 31.º Na aplicação das multas, entre os limites fixados para cada uma, atender-se-á à natureza e gravidade do facto praticado, aos seus resultados, à intensidade do dolo ou grau da culpa, aos motivos da infracção, à situação económica e à personalidade do infractor.
 
-###### Art. 32.º As multas aplicadas em conformidade com este diploma constituem receita das instituições de previdência dos trabalhadores abrangidos pelas convenções, portarias e decisões, com destino aos respectivos fundos de assistência, e, na falta delas, ao Fundo Nacional do Abono de Família, ao Fundo Comum das Casas do Povo e ao Fundo Comum das Casas dos Pescadores, consoante os casos e a natureza das actividades.
+Art. 32.º As multas aplicadas em conformidade com este diploma constituem receita das instituições de previdência dos trabalhadores abrangidos pelas convenções, portarias e decisões, com destino aos respectivos fundos de assistência, e, na falta delas, ao Fundo Nacional do Abono de Família, ao Fundo Comum das Casas do Povo e ao Fundo Comum das Casas dos Pescadores, consoante os casos e a natureza das actividades.
 
-###### Art. 33.º - 1. As convenções colectivas de trabalho, os pedidos de adesão, as revisões e as decisões arbitrais, bem como as portarias de regulamentação de trabalho, serão publicados no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência.
+Art. 33.º - 1. As convenções colectivas de trabalho, os pedidos de adesão, as revisões e as decisões arbitrais, bem como as portarias de regulamentação de trabalho, serão publicados no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência.
 
 2. É aplicável aos instrumentos referidos no número anterior o disposto na lei para a entrada em vigor dos diplomas legislativos, tomando por base a publicação no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência, conforme tenha sido feita em primeiro lugar naquele ou neste, salvo se for fixada data posterior.
 
 3. As cláusulas referentes à retribuição do trabalho e a outros benefícios de natureza pecuniária poderão ser acordadas ou determinadas para produzir efeitos a partir de data anterior à do início da vigência das restantes condições.
 
-###### Art. 34.º Ficam revogados o [Decreto-Lei n.º 36173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36173-1947-414413), de 6 de Março de 1947, o [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943, o [Decreto-Lei n.º 44784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44784-1962-155193), de 7 de Dezembro de 1962, e demais legislação complementar.
+Art. 34.º Ficam revogados o [Decreto-Lei n.º 36173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36173-1947-414413), de 6 de Março de 1947, o [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943, o [Decreto-Lei n.º 44784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44784-1962-155193), de 7 de Dezembro de 1962, e demais legislação complementar.
 
-###### Art. 35.º O Ministro das Corporações e Previdência Social fixará, por despacho, as regras a observar pelo Instituto Nacional do Trabalho e Previdência na aplicação das disposições do presente diploma.
+Art. 35.º O Ministro das Corporações e Previdência Social fixará, por despacho, as regras a observar pelo Instituto Nacional do Trabalho e Previdência na aplicação das disposições do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 8 de Agosto de 1969.**
+Promulgado em 8 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

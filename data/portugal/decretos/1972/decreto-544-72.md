@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 296/1972, 1º Suplemento, Série I de 1972-12-22
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2030-(23) a 2030-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29601/00230031.pdf
 entry_into_force_dates: []
@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/544-1972-423021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9efd992dca4ef3b2e2238633d2972d735e7cb860129b251b890ecaf556377d6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e361377f59cf6a4724300b8b34f248fb373387e4fba3caaf08b5dbf14dce542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Local
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Assembleia Legislativa
+- Autonomia Financeira
+- Conselho de Governo
+- Conselho Económico e Social
+- Conselho Legislativo
+- Definição de Competências
+- Estatuto
+- Governador
+- Junta Consultiva Provincial
+- Região Autónoma
+- Secretário Provincial
+relationships:
+- type: cites
+  target: pt:dre:674002:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:685037:por
+  label: Rectificado [no referente ao art. 18º] pela DECL.DD9638.05.02.1973.PC, DG.IS [30] de 05.02.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-685037
+  date: '1973-02-05'
+- type: corrected_by
+  target: pt:dre:422049:por
+  label: "Rectificado [no referente aos nºs 16º, 18º e 23º do nº 1 do art. 15º, ao nº 2 do art. 38º, ao nº 5 do art. 39º e\
+    \ ao nº 1 do art. 60º] pela RECT.DD335.15.05.1973.PC, DG.IS [114] de 15.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-422049
+  date: '1973-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:18Z'
   warnings: []
   errors: []
 ---
@@ -90,23 +119,23 @@ Ouvido o Governo da província e o Conselho Ultramarino, em sessão plenária;
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto Político-Administrativo da Província de Angola, que faz parte do presente decreto e entrará em vigor em todo o território da província em 1 de Janeiro de 1973.
+Artigo 1.º É aprovado o Estatuto Político-Administrativo da Província de Angola, que faz parte do presente decreto e entrará em vigor em todo o território da província em 1 de Janeiro de 1973.
 
-###### Art. 2.º - 1. O Governador providenciará por forma que Assembleia Legislativa e a Junta Consultiva Provincial comecem a funcionar em Maio de 1973.
+Art. 2.º - 1. O Governador providenciará por forma que Assembleia Legislativa e a Junta Consultiva Provincial comecem a funcionar em Maio de 1973.
 
 2. As eleições para os órgãos de governo próprio referidos no número anterior deverão realizar-se até 31 de Março de 1973, para o que se procederá a novo recenseamento eleitoral, de acordo com a legislação que estiver em vigor.
 
 3. Até à entrada em funcionamento da Assembleia Legislativa e da Junta Consultiva Provincial manter-se-ão em funções o Conselho Legislativo e o Conselho Económico e Social com a actual constituição.
 
-###### Art. 3.º Os serviços administrativos continuam a reger-se pelos respectivos diplomas orgânicos actualmente em vigor, nos quais serão introduzidas as alterações necessárias à adaptação ao estabelecido na Lei Orgânica do Ultramar e neste Estatuto.
+Art. 3.º Os serviços administrativos continuam a reger-se pelos respectivos diplomas orgânicos actualmente em vigor, nos quais serão introduzidas as alterações necessárias à adaptação ao estabelecido na Lei Orgânica do Ultramar e neste Estatuto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Dezembro de 1972.**
+Promulgado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODBIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODBIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
 
@@ -118,11 +147,11 @@ Antigo 1.º - 1. A província de Angola abrange o território português situado
 
 2. A capital da província é a cidade de Luanda.
 
-###### Art. 2.º A província de Angola é uma região autónoma da República Portuguesa, dotada de personalidade jurídica de direito público interno e usa a designação honorífica de Estado.
+Art. 2.º A província de Angola é uma região autónoma da República Portuguesa, dotada de personalidade jurídica de direito público interno e usa a designação honorífica de Estado.
 
-###### Art. 3.º As leis e demais diplomas dimanados dos órgãos de soberania ou dos de governo próprio, salvo disposição especial, entram em vigor, na capital da província e na área do seu concelho, no prazo de cinco dias e, no restante território, no de dez dias, contados ambos da publicação no Boletim Oficial.
+Art. 3.º As leis e demais diplomas dimanados dos órgãos de soberania ou dos de governo próprio, salvo disposição especial, entram em vigor, na capital da província e na área do seu concelho, no prazo de cinco dias e, no restante território, no de dez dias, contados ambos da publicação no Boletim Oficial.
 
-###### Art. 4.º A representação da província compete ao Governador-Geral ou, para actos determinados, a quem este designar; nos tribunais será representada.:
+Art. 4.º A representação da província compete ao Governador-Geral ou, para actos determinados, a quem este designar; nos tribunais será representada.:
 
 a) Pelos agentes do Ministério Público, segundo a sua hierarquia;
 
@@ -132,17 +161,17 @@ b) Pelos representantes legalmente designados junto dos tribunais especiais.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 5.º São órgãos de governo próprio da província o Governador-Geral e a Assembleia Legislativa, junto dos quais funciona a Junta Consultiva Provincial.
+Art. 5.º São órgãos de governo próprio da província o Governador-Geral e a Assembleia Legislativa, junto dos quais funciona a Junta Consultiva Provincial.
 
-###### Art. 6.º A função legislativa é exercida pelo Governador-Geral e pela Assembleia Legislativa, com respeito das normas constitucionais e das emanadas dos órgãos de soberania, e abrange todas as matérias que interessem exclusivamente à província e não sejam da competência da Assembleia Nacional ou do Governo.
+Art. 6.º A função legislativa é exercida pelo Governador-Geral e pela Assembleia Legislativa, com respeito das normas constitucionais e das emanadas dos órgãos de soberania, e abrange todas as matérias que interessem exclusivamente à província e não sejam da competência da Assembleia Nacional ou do Governo.
 
-###### Art. 7.º As funções executivas serão exercidas pelo Governador-Geral conjuntamente com os secretários provinciais e sob a sua orientação, coordenação e responsabilidade.
+Art. 7.º As funções executivas serão exercidas pelo Governador-Geral conjuntamente com os secretários provinciais e sob a sua orientação, coordenação e responsabilidade.
 
 #### SECÇÃO II — Governador-Geral
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 8.º - 1. O Governador-Geral é, no território da província, o mais alto agente e representante do Governo da República, a autoridade superior a todas as outras que na província sirvam, tanto civis como militares, e o administrador superior da Fazenda Pública.
+Art. 8.º - 1. O Governador-Geral é, no território da província, o mais alto agente e representante do Governo da República, a autoridade superior a todas as outras que na província sirvam, tanto civis como militares, e o administrador superior da Fazenda Pública.
 
 2. É indeclinável dever do Governador-Geral sustentar os direitos de soberania da Nação e promover o bem da província, em harmonia com os princípios consignados na Constituição e nas leis.
 
@@ -156,13 +185,13 @@ b) Pelos representantes legalmente designados junto dos tribunais especiais.
 
 7. O depoimento, em juízo, do Governador-Geral ou de quem o substituir, como parte, declarante ou testemunha, será tomado na sua residência.
 
-###### Art. 9.º O Governador-Geral não pode ausentar-se da província sem prévia anuência do Ministro do Ultramar, e quando haja de deslocar-se da capital para qualquer parte do território, com demora superior a vinte e quatro horas, comunicá-lo-á telegràficamente ao Ministro com a devida antecedência.
+Art. 9.º O Governador-Geral não pode ausentar-se da província sem prévia anuência do Ministro do Ultramar, e quando haja de deslocar-se da capital para qualquer parte do território, com demora superior a vinte e quatro horas, comunicá-lo-á telegràficamente ao Ministro com a devida antecedência.
 
-###### Art. 10.º O Governador-Geral tem um chefe de gabinete e dois secretários, podendo um destes ser substituído por um ajudante de campo de patente não superior a major ou capitão-tenente.
+Art. 10.º O Governador-Geral tem um chefe de gabinete e dois secretários, podendo um destes ser substituído por um ajudante de campo de patente não superior a major ou capitão-tenente.
 
 ##### SUBSECÇÃO II — Função legislativa
 
-###### Art. 11.º - 1. O Governador-Geral exerce a função legislativa:
+Art. 11.º - 1. O Governador-Geral exerce a função legislativa:
 
 a) Em todas as matérias que não sejam da competência exclusiva da Assembleia Legislativa;
 
@@ -172,7 +201,7 @@ c) Quando a Assembleia Legislativa haja sido dissolvida.
 
 2. Para o exercício da sua competência legislativa o Governador-Geral ouvirá sempre a Junta Consultiva Provincial.
 
-###### Art. 12.º - 1. No exercício da sua competência legislativa pertence especialmente ao Governador-Geral:
+Art. 12.º - 1. No exercício da sua competência legislativa pertence especialmente ao Governador-Geral:
 
 a) Regular a composição dos quadros e o recrutamento, atribuições, vencimentos, salários e outras formas de remuneração do respectivo pessoal, relativamente aos serviços administrativos, para os quais a lei lhe atribua competência, com observância dos limites postos pelas leis que definam a organização geral do ramo em que o serviço se integre;
 
@@ -184,11 +213,11 @@ d) Definir o regime tributário da província, criando, modificando ou extinguin
 
 2. A competência fixada na alínea a) não abrange a criação de novas categorias ou designações funcionais nem a alteração das letras que definem aquelas categorias.
 
-###### Art. 13.º A competência legislativa do Governador-Geral é exercida por meio de decretos provinciais, publicados no Boletim Oficial e precedidos, em regra, de preâmbulo justificativo, donde constará sempre que foi ouvida a Junta Consultiva Provincial.
+Art. 13.º A competência legislativa do Governador-Geral é exercida por meio de decretos provinciais, publicados no Boletim Oficial e precedidos, em regra, de preâmbulo justificativo, donde constará sempre que foi ouvida a Junta Consultiva Provincial.
 
 ##### SUBSECÇÃO III — Função executiva
 
-###### Art. 14.º - 1. O Governador-Geral responde perante o Governo da República pela administração da província e coordena e dirige superiormente a actividade dos secretários provinciais, que perante ele respondem polìticamente pelos seus actos.
+Art. 14.º - 1. O Governador-Geral responde perante o Governo da República pela administração da província e coordena e dirige superiormente a actividade dos secretários provinciais, que perante ele respondem polìticamente pelos seus actos.
 
 2. A competência executiva do Governador-Geral compreende a prática de todos os actos que a lei lhe atribua ou que não sejam da competência de outro órgão central ou provincial.
 
@@ -200,7 +229,7 @@ d) Definir o regime tributário da província, criando, modificando ou extinguin
 
 6. Pode o Governador-Geral também delegar nos governadores de distrito a execução do orçamento quanto a despesas correntes da administração e ao assalariamento do pessoal dos quadros ou do eventual.
 
-###### Art. 15.º - 1. No exercício da função executiva compete ao Governador-Geral, designadamente:
+Art. 15.º - 1. No exercício da função executiva compete ao Governador-Geral, designadamente:
 
 1.º Executar e fazer executar as disposições legais em vigor e as directivas do Governo da República e usar, para os fins legais e no interesse público, dos poderes que por ele lhe forem delegados;
 
@@ -272,13 +301,13 @@ d) Definir o regime tributário da província, criando, modificando ou extinguin
 
 ##### SUBSECÇÃO IV — Conselho de Governo
 
-###### Art. 16.º - 1. O Conselho de Governo é presidido pelo Governador-Geral e constituído pelos secretários-provinciais.
+Art. 16.º - 1. O Conselho de Governo é presidido pelo Governador-Geral e constituído pelos secretários-provinciais.
 
 2. Para as reuniões em que sejam tratadas matérias que interessem à defesa e à manutenção da ordem pública será sempre convocado o comandante-chefe das Forças Armadas.
 
 8. O procurador da República poderá ser convocado sempre que for julgado necessário.
 
-###### Art. 17.º O Conselho de Governo assiste ao Governador-Geral no exercício das suas funções, competindo-lhe, designadamente:
+Art. 17.º O Conselho de Governo assiste ao Governador-Geral no exercício das suas funções, competindo-lhe, designadamente:
 
 a) Assegurar a coordenação da actividade das secretarias provinciais e a recíproca informação dos respectivos secretários;
 
@@ -290,7 +319,7 @@ d) Assegurar a coordenação da execução pelas secretarias provinciais dos pro
 
 e) Aprovar, sob proposta do Governador-Geral, a nomeação de representantes da província nas empresas concessionárias.
 
-###### Art. 18.º O Conselho de Governo reúne sempre que seja convocado pelo Governador-Geral e, pelo menos, uma vez por quinzena.
+Art. 18.º O Conselho de Governo reúne sempre que seja convocado pelo Governador-Geral e, pelo menos, uma vez por quinzena.
 
 2. As reuniões quinzenais do Conselho de Governo serão gerais, mas as restantes poderão ser restritas aos membros do Conselho a quem respeite a natureza dos assuntos a tratar.
 
@@ -300,31 +329,31 @@ e) Aprovar, sob proposta do Governador-Geral, a nomeação de representantes da 
 
 ##### SUBSECÇÃO V — Secretários provinciais
 
-###### Art. 19.º O número e a designação das secretarias provinciais serão fixados por decreto do Ministro do Ultramar, sob proposta do Governador-Geral.
+Art. 19.º O número e a designação das secretarias provinciais serão fixados por decreto do Ministro do Ultramar, sob proposta do Governador-Geral.
 
-###### Art. 20.º O Governador-Geral poderá, por portaria, transferir quaisquer serviços de uma secretaria para outra e designar a secretaria provincial em que se integrarão novos serviços que porventura venham a ser criados.
+Art. 20.º O Governador-Geral poderá, por portaria, transferir quaisquer serviços de uma secretaria para outra e designar a secretaria provincial em que se integrarão novos serviços que porventura venham a ser criados.
 
-###### Art. 21.º Os secretários provinciais são nomeados e exonerados pelo Ministro do Ultramar, sob proposta do Governador-Geral, e quando este cessar o seu mandato ou for exonerado manter-se-ão no exercício dos seus cargos até nele serem confirmados ou substituídos.
+Art. 21.º Os secretários provinciais são nomeados e exonerados pelo Ministro do Ultramar, sob proposta do Governador-Geral, e quando este cessar o seu mandato ou for exonerado manter-se-ão no exercício dos seus cargos até nele serem confirmados ou substituídos.
 
-###### Art. 22.º - 1. Aos secretários provinciais compete a coordenação e orientação superior dos serviços da secretaria provincial para que forem nomeados e os demais que lhes forem atribuídos pelo Governador-Geral na portaria a que se refere o n.º 3 do artigo 14.º
+Art. 22.º - 1. Aos secretários provinciais compete a coordenação e orientação superior dos serviços da secretaria provincial para que forem nomeados e os demais que lhes forem atribuídos pelo Governador-Geral na portaria a que se refere o n.º 3 do artigo 14.º
 
 2. A precedência entre os secretários provinciais determina-se pela data da criação da respectiva secretaria provincial e, quando da mesma data, pela ordem da respectiva enumeração, salvo quanto à especialmente incumbida dos serviços de administração civil e segurança, que se denominará Secretaria-Geral, e cujo secretário provincial terá precedência sobre todos os outros e se denominará secretário-geral.
 
 3. Cada secretário provincial terá um chefe de gabinete e um secretário e terá direito ao uso de galhardete do modelo que venha a ser fixado em portaria pelo Ministro do Ultramar.
 
-###### Art. 23.º - 1. Os secretários provinciais respondem civil e criminalmente perante os tribunais.
+Art. 23.º - 1. Os secretários provinciais respondem civil e criminalmente perante os tribunais.
 
 2. Os actos definitivos e executórios dos secretários provinciais podem ser contenciosamente impugnados pelos interessados, com fundamento em incompetência, usurpação ou desvio de poder, vício de forma ou violação de lei, regulamento ou contrato administrativo.
 
-###### Art. 24.º Cada secretaria provincial terá um estatuto orgânico aprovado por decreto provincial, de que constará a composição dos serviços que assegurarão o expediente geral da secretaria e que constituirão uma repartição.
+Art. 24.º Cada secretaria provincial terá um estatuto orgânico aprovado por decreto provincial, de que constará a composição dos serviços que assegurarão o expediente geral da secretaria e que constituirão uma repartição.
 
 #### SECÇÃO III — Assembleia Legislativa
 
 ##### SUBSECÇÃO I — Composição
 
-###### Art. 25.º A Assembleia Legislativa é presidida pelo Governador-Geral e constituída por cinquenta e três vogais eleitos.
+Art. 25.º A Assembleia Legislativa é presidida pelo Governador-Geral e constituída por cinquenta e três vogais eleitos.
 
-###### Art. 26.º - 1. A eleição dos vogais da Assembleia Legislativa será feita entre cidadãos portugueses, com observância do seguinte:
+Art. 26.º - 1. A eleição dos vogais da Assembleia Legislativa será feita entre cidadãos portugueses, com observância do seguinte:
 
 a) Dois, por cada distrito, serão eleitos por sufrágio directo dos cidadãos inscritos nos cadernos gerais de recenseamento eleitoral;
 
@@ -340,17 +369,17 @@ f) Três, pelos organismos representativos dos interesses morais e culturais, de
 
 2. O regime da eleição dos vogais constará de decreto do Ministro do Ultramar.
 
-###### Art. 27.º - 1. A duração do mandato dos vogais da Assembleia Legislativa é de quatro anos, contados a partir do início da primeira sessão ordinária, podendo haver reeleição.
+Art. 27.º - 1. A duração do mandato dos vogais da Assembleia Legislativa é de quatro anos, contados a partir do início da primeira sessão ordinária, podendo haver reeleição.
 
 2. No caso de preenchimento de vaga ocorrida durante o quadriénio, os vogais servirão até ao fim do mesmo quadriénio.
 
-###### Art. 28.º - 1. As eleições devem realizar-se, pelo menos, trinta dias antes da primeira sessão ordinária da Assembleia, e em tudo quanto não estiver disposto na lei e neste Estatuto serão reguladas em portaria do Governador-Geral, publicada com a antecedência mínima de sessenta dias do acto eleitoral.
+Art. 28.º - 1. As eleições devem realizar-se, pelo menos, trinta dias antes da primeira sessão ordinária da Assembleia, e em tudo quanto não estiver disposto na lei e neste Estatuto serão reguladas em portaria do Governador-Geral, publicada com a antecedência mínima de sessenta dias do acto eleitoral.
 
 2. As vagas ocorridas durante o quadriénio serão preenchidas por meio de eleição realizada até sessenta dias depois da sua verificação, salvo se o termo do mandato se verificar dentro desse prazo ou no intervalo das sessões legislativas.
 
 3. Até oito dias antes da abertura da primeira sessão ordinária, ou, tratando-se de vaga ocorrida durante o quadriénio, durante os quinze dias seguintes à respectiva eleição, o Tribunal Administrativo verificará o apuramento e proclamará os vogais eleitos, cuja relação será publicada no Boletim Oficial.
 
-###### Art. 29.º - 1. São condições de elegibilidade para a Assembleia Legislativa:
+Art. 29.º - 1. São condições de elegibilidade para a Assembleia Legislativa:
 
 a) Ser cidadão português originário;
 
@@ -376,7 +405,7 @@ e) Os que hajam sido demitidos por facto que importe desonestidade;
 
 f) Os que exercerem funções consulares ou estiverem empregados em consulados estrangeiros.
 
-###### Art. 30.º - 1. As funções de vogal da Assembleia Legislativa são obrigatórias e remuneradas, por cada reunião a que assistam, com uma senha de presença de importância igual à trigésima parte do vencimento mensal, base e complementar, correspondente à categoria de director de serviço.
+Art. 30.º - 1. As funções de vogal da Assembleia Legislativa são obrigatórias e remuneradas, por cada reunião a que assistam, com uma senha de presença de importância igual à trigésima parte do vencimento mensal, base e complementar, correspondente à categoria de director de serviço.
 
 2. Aos vogais que não residam na capital da província ou na localidade onde se realize a sessão serão abonadas passagens e um subsídio a fixar pelo Governador-Geral em portaria.
 
@@ -388,7 +417,7 @@ b) Estar impedido de assìduamente colaborar nos trabalhos da Assembleia por mot
 
 c) Estar inibido do regular desempenho do cargo por circunstâncias de força maior.
 
-###### Art. 31.º - 1. Perdem o mandato os vogais que:
+Art. 31.º - 1. Perdem o mandato os vogais que:
 
 a) Tenham faltado, sem justificação, a mais de metade das reuniões efectuadas em cada ano civil;
 
@@ -400,7 +429,7 @@ c) Percam a nacionalidade portuguesa, fixem residência permanente fora da prov�
 
 ##### SUBSECÇÃO II — Competência
 
-###### Art. 32.º - 1. Compete à Assembleia Legislativa:
+Art. 32.º - 1. Compete à Assembleia Legislativa:
 
 a) Fazer diplomas legislativos sobre todas as matérias que interessem exclusivamente à província e não estejam reservadas à competência dos órgãos de soberania, e bem assim interpretá-los, suspendê-los e revogá-los;
 
@@ -446,25 +475,25 @@ l) Pronunciar-se, em geral, sobre todos os assuntos de interesse para a provínc
 
 ##### SUBSECÇÃO III — Funcionamento
 
-###### Art. 33.º - 1. A Assembleia Legislativa funciona, normalmente, na capital da província, devendo ser postos à sua disposição os meios para tanto necessários.
+Art. 33.º - 1. A Assembleia Legislativa funciona, normalmente, na capital da província, devendo ser postos à sua disposição os meios para tanto necessários.
 
 2. A Assembleia Legislativa terá secretaria privativa, cuja composição e orgânica serão estabelecidas pelo Governador-Geral em decreto provincial.
 
-###### Art. 34.º - 1. As reuniões da Assembleia Legislativa são públicas, excepto quando, para salvaguarda do interesse público, quem a elas presidir determinar o contrário, por iniciativa própria ou mediante proposta fundamentada de qualquer vogal.
+Art. 34.º - 1. As reuniões da Assembleia Legislativa são públicas, excepto quando, para salvaguarda do interesse público, quem a elas presidir determinar o contrário, por iniciativa própria ou mediante proposta fundamentada de qualquer vogal.
 
 2. As actas das reuniões públicas, logo depois de aprovadas, serão remetidas, por cópia, à administração da Imprensa Nacional, que as fará publicar em anexo ao Boletim Oficial.
 
 3. Das actas das reuniões secretas serão enviadas, urgentemente e com a mesma classificação de segurança, cópias ao Governador-Geral, que remeterá exemplares delas ao Ministro do Ultramar.
 
-###### Art. 35.º - 1. A convocação da Assembleia Legislativa é feita pelo Governador-Geral, mediante aviso publicado no Boletim Oficial com, pelo menos, oito dias de antecedência, podendo, todavia, este prazo ser reduzido em caso de urgência.
+Art. 35.º - 1. A convocação da Assembleia Legislativa é feita pelo Governador-Geral, mediante aviso publicado no Boletim Oficial com, pelo menos, oito dias de antecedência, podendo, todavia, este prazo ser reduzido em caso de urgência.
 
 2. O aviso deve indicar sempre, com toda a precisão, o motivo da convocação e o dia, hora e local das reuniões.
 
 3. Não são válidos nem produzem quaisquer efeitos os actos praticados em reuniões que não sejam precedidas de convocação feita pela forma determinada neste artigo.
 
-###### Art. 36.º As reuniões da Assembleia Legislativa podem assistir, com voto consultivo, membros do conselho do Governo, o procurador da República junto da Relação de Luanda e directores de serviços convocados pelo Governador-Geral.
+Art. 36.º As reuniões da Assembleia Legislativa podem assistir, com voto consultivo, membros do conselho do Governo, o procurador da República junto da Relação de Luanda e directores de serviços convocados pelo Governador-Geral.
 
-###### Art. 37.º - 1. A Assembleia Legislativa funciona em sessões ordinárias e extraordinárias.
+Art. 37.º - 1. A Assembleia Legislativa funciona em sessões ordinárias e extraordinárias.
 
 2. Haverá duas sessões ordinárias em cada ano civil, com começo, respectivamente, em Abril e em Outubro, não podendo qualquer delas exceder, normalmente, trinta dias, e as sessões extraordinárias que for preciso convocar.
 
@@ -474,13 +503,13 @@ l) Pronunciar-se, em geral, sobre todos os assuntos de interesse para a provínc
 
 5. Nos períodos de prorrogação das sessões ordinárias e nas sessões extraordinárias, a Assembleia só poderá ocupar-se dos assuntos expressamente indicados na ordem de prorrogação e no aviso de convocação.
 
-###### Art. 38.º - 1. A Assembleia Legislativa só pode funcionar estando presente metade e mais um dos vogais.
+Art. 38.º - 1. A Assembleia Legislativa só pode funcionar estando presente metade e mais um dos vogais.
 
 2. As deliberações são tomadas por maioria absoluta de votos, excepto quando a lei exigir outro quórum.
 
 3. O presidente só tem voto em caso de empate.
 
-###### Art. 39.º - 1. Os membros da Assembleia são invioláveis pelas opiniões que emitirem no exercício do seu mandato.
+Art. 39.º - 1. Os membros da Assembleia são invioláveis pelas opiniões que emitirem no exercício do seu mandato.
 
 2. A inviolabilidade pelas opiniões e votos não isenta os membros da Assembleia Legislativa da responsabilidade civil e criminal por difamação, calúnia e injúria, ultraje à moral pública ou provocação pública ao crime.
 
@@ -492,11 +521,11 @@ l) Pronunciar-se, em geral, sobre todos os assuntos de interesse para a provínc
 
 6. As infracções referidas neste artigo serão apreciadas por uma comissão constituída pelo presidente da Assembleia Legislativa e por dois vogais escolhidos pela mesma Assembleia; o presidente poderá delegar este encargo em quem, nos termos regimentais, o substituir.
 
-###### Art. 40.º - 1. A iniciativa dos diplomas da Assembleia Legislativa pertencerá indistintamente ao Governador-Geral e aos vogais, não podendo, porém, estes apresentar projectos ou propostas de alteração que envolvam aumento de despesa ou diminuição de receitas da província criadas por diplomas anteriores.
+Art. 40.º - 1. A iniciativa dos diplomas da Assembleia Legislativa pertencerá indistintamente ao Governador-Geral e aos vogais, não podendo, porém, estes apresentar projectos ou propostas de alteração que envolvam aumento de despesa ou diminuição de receitas da província criadas por diplomas anteriores.
 
 2. O número de assinaturas que deverão conter os projectos de diplomas da iniciativa dos vogais da Assembleia será fixado no seu regimento.
 
-###### Art. 41.º - 1. Os diplomas legislativos votados pela Assembleia serão enviados ao Governador-Geral para que este, no prazo de quinze dias, contados a partir da data da recepção, os assine e mande publicar.
+Art. 41.º - 1. Os diplomas legislativos votados pela Assembleia serão enviados ao Governador-Geral para que este, no prazo de quinze dias, contados a partir da data da recepção, os assine e mande publicar.
 
 2. Decorrido aquele prazo sem que se haja verificado a assinatura e a ordem de publicação, considera-se que o Governador não concorda com o texto votado.
 
@@ -508,7 +537,7 @@ l) Pronunciar-se, em geral, sobre todos os assuntos de interesse para a provínc
 
 6. Se, porém, a discordância se fundar em ofensa da Constituição ou de normas provenientes dos órgãos de soberania e o diploma for confirmado pela referida maioria, será enviado ao Ministro do Ultramar para apreciação do Conselho Ultramarino, reunido em sessão plenária, devendo a Assembleia e o Governador-Geral conformar-se com a sua deliberação.
 
-###### Art. 42.º - 1. Mediante proposta do Governador-Geral, fundamentada em razões de interesse público, o Governo da República pode decretar a dissolução da Assembleia Legislativa, devendo, nesse caso, mandar proceder a novas eleições, nos termos definidos na lei eleitoral.
+Art. 42.º - 1. Mediante proposta do Governador-Geral, fundamentada em razões de interesse público, o Governo da República pode decretar a dissolução da Assembleia Legislativa, devendo, nesse caso, mandar proceder a novas eleições, nos termos definidos na lei eleitoral.
 
 2. A proposta de dissolução deverá conter exposição pormenorizada das razões que a justifiquem.
 
@@ -518,9 +547,9 @@ l) Pronunciar-se, em geral, sobre todos os assuntos de interesse para a provínc
 
 ##### SUBSECÇÃO I — Composição
 
-###### Art. 43.º A Junta Consultiva Provincial é presidida pelo Governador-Geral, que poderá delegar o exercício regular dessas funções num vice-presidente da sua escolha.
+Art. 43.º A Junta Consultiva Provincial é presidida pelo Governador-Geral, que poderá delegar o exercício regular dessas funções num vice-presidente da sua escolha.
 
-###### Art. 44.º - 1. A Junta Consultiva Provincial é constituída por vogais eleitos, vogais natos e vogais nomeados.
+Art. 44.º - 1. A Junta Consultiva Provincial é constituída por vogais eleitos, vogais natos e vogais nomeados.
 
 2. Os vogais eleitos são em número de doze, fazendo-se a eleição com observância do seguinte:
 
@@ -554,17 +583,17 @@ d) O director provincial dos Serviços de Planeamento.
 
 9. O regime de eleição dos vogais constará de decreto do Ministro do Ultramar.
 
-###### Art. 45.º - 1. O Governador-Geral fará publicar no Boletim Oficial uma lista donde conste a indicação dos organismos a que se referem as alíneas b), c) e d) do n.º 2 do artigo anterior até sessenta dias antes da data marcada para a eleição.
+Art. 45.º - 1. O Governador-Geral fará publicar no Boletim Oficial uma lista donde conste a indicação dos organismos a que se referem as alíneas b), c) e d) do n.º 2 do artigo anterior até sessenta dias antes da data marcada para a eleição.
 
 2. Da omissão de qualquer organismo ou associação cabe recurso para o Ministro do Ultramar, que resolverá em definitivo.
 
 3. As eleições devem realizar-se, pelo menos, trinta dias antes da primeira sessão da Assembleia Legislativa, e em tudo o que não estiver disposto na lei e neste Estatuto será regulado por portaria do Governador-Geral.
 
-###### Art. 46.º A eleição dos vogais da Junta Consultiva Provincial é, na parte aplicável, regulada pelas disposições respeitantes à eleição dos vogais da Assembleia Legislativa, aplicando-se àquela, nos mesmos termos, as regras de funcionamento desta.
+Art. 46.º A eleição dos vogais da Junta Consultiva Provincial é, na parte aplicável, regulada pelas disposições respeitantes à eleição dos vogais da Assembleia Legislativa, aplicando-se àquela, nos mesmos termos, as regras de funcionamento desta.
 
 ##### SUBSECÇÃO II — Competência
 
-###### Art. 47.º - 1. A Junta Consultiva Provincial assistirá ao Governador-Geral no exercício das suas funções, competindo-lhe emitir parecer sobre todos os assuntos respeitantes ao Governo e à administração da província que por ele lhe forem submetidos.
+Art. 47.º - 1. A Junta Consultiva Provincial assistirá ao Governador-Geral no exercício das suas funções, competindo-lhe emitir parecer sobre todos os assuntos respeitantes ao Governo e à administração da província que por ele lhe forem submetidos.
 
 2. A Junta será obrigatóriamente ouvida sobre:
 
@@ -580,13 +609,13 @@ e) O exercício das funções previstas no n.º 16.º do do n.º 1 do artigo 15.
 
 f) As aberturas de créditos da competência do Governador-Geral.
 
-###### Art. 48.º - 1. Compete à Junta Consultiva Provincial aprovar o seu regimento e designar os procuradores da província à Câmara Corporativa.
+Art. 48.º - 1. Compete à Junta Consultiva Provincial aprovar o seu regimento e designar os procuradores da província à Câmara Corporativa.
 
 2. O regimento da Junta Consultiva Provincial adoptará, na parte aplicável, as regras estabelecidas no n.º 2 do artigo 32.º
 
 ##### SUBSECÇÃO III — Funcionamento
 
-###### Art. 49.º - 1. A Junta Consultiva Provincial funcionará em sessões plenárias ou por secções correspondentes aos interesses de ordem administrativa, social e económica, podendo reunir duas ou mais secções quando as matérias em estudo assim o exigirem.
+Art. 49.º - 1. A Junta Consultiva Provincial funcionará em sessões plenárias ou por secções correspondentes aos interesses de ordem administrativa, social e económica, podendo reunir duas ou mais secções quando as matérias em estudo assim o exigirem.
 
 2. No intervalo das sessões legislativas a Junta Consultiva Provincial poderá funcionar com uma secção especial constituída pelos vogais natos, pelos que o Governador-Geral designe entre os que lhe compete nomear e por aqueles que a Junta eleger entre os vogais eleitos, conforme for determinado no respectivo regimento, sem prejuízo do disposto no n.º 3 da base XLI da Lei Orgânica do Ultramar
 
@@ -600,7 +629,7 @@ f) As aberturas de créditos da competência do Governador-Geral.
 
 7. As sessões da Junta Consultiva Provincial não são públicas e delas será lavrada acta, que o Governador-Geral enviará ao Ministro do Ultramar.
 
-###### Art. 50.º Na designação dos procuradores à Câmara Corporativa observar-se-á o seguinte:
+Art. 50.º Na designação dos procuradores à Câmara Corporativa observar-se-á o seguinte:
 
 a) A Junta será especialmente convocada para esse fim pelo seu presidente, com a antecedência necessária;
 
@@ -614,7 +643,7 @@ e) O número dos procuradores a designar será o fixado na lei orgânica da Câm
 
 ### CAPÍTULO III — Serviços administrativos
 
-###### Art. 51.º Os Serviços de Administração Centrais da província compreendem:
+Art. 51.º Os Serviços de Administração Centrais da província compreendem:
 
 a) Repartição de Gabinete do Governador-Geral e as repartições de expediente de cada secretaria provincial a que se refere o artigo 24.º;
 
@@ -626,19 +655,19 @@ d) Serviços integrados em serviços nacionais;
 
 e) Outros serviços dotados de organização especial.
 
-###### Art. 52.º - 1. Na província haverá as direcções provinciais de serviços que a lei determinar, em harmonia com o seu estado de desenvolvimento, as circunstâncias peculiares do território e as necessidades do seu progresso.
+Art. 52.º - 1. Na província haverá as direcções provinciais de serviços que a lei determinar, em harmonia com o seu estado de desenvolvimento, as circunstâncias peculiares do território e as necessidades do seu progresso.
 
 2. Os serviços integrados em serviços nacionais, os serviços autónomos, as organizações militarizadas e os organismos de coordenação económica são dirigidos de acordo com os diplomas especiais que lhes digam respeito.
 
-###### Art. 53.º A organização dos serviços públicos da província deve basear-se, em principio, na divisão administrativa, podendo ser determinado para esse fim o agrupamento de distritos, concelhos ou circunscrições.
+Art. 53.º A organização dos serviços públicos da província deve basear-se, em principio, na divisão administrativa, podendo ser determinado para esse fim o agrupamento de distritos, concelhos ou circunscrições.
 
 ### CAPÍTULO IV — Regime financeiro
 
-###### Art. 54.º A província tem activo e passivo próprios, competindo-lhe a disposição dos seus bens e receitas e a responsabilidade das suas despesas e dívidas e dos seus actos e contratos.
+Art. 54.º A província tem activo e passivo próprios, competindo-lhe a disposição dos seus bens e receitas e a responsabilidade das suas despesas e dívidas e dos seus actos e contratos.
 
-###### Art. 55.º O orçamento da província é unitário, compreendendo a totalidade das receitas e despesas, incluindo as dos serviços autónomos de que podem ser publicados, à parte, desenvolvimentos especiais.
+Art. 55.º O orçamento da província é unitário, compreendendo a totalidade das receitas e despesas, incluindo as dos serviços autónomos de que podem ser publicados, à parte, desenvolvimentos especiais.
 
-###### Art. 56.º - 1. O orçamento será anualmente organizado, votado e mandado executar pelos órgãos da província.
+Art. 56.º - 1. O orçamento será anualmente organizado, votado e mandado executar pelos órgãos da província.
 
 2. O Governador-Geral apresentará à Assembleia Legislativa na segunda sessão ordinária de cada ano:
 
@@ -654,13 +683,13 @@ d) Indicação das despesas resultantes de diplomas legais que não tenham, sido
 
 4. Quando por qualquer circunstância o orçamento não possa entrar em execução no começo do ano económico, a cobrança das receitas, estabelecidas por tempo indeterminado ou por período que abranja a nova gerência, prosseguirá nos termos das leis preexistentes e, quanto às despesas ordinárias, continuarão provisòriamente em vigor, por duodécimos, o orçamento do ano anterior e os créditos sancionados durante ele para ocorrer a novos encargos permanentes.
 
-###### Art. 57.º - 1. As aberturas de crédito serão feitas por meio de portaria, ouvida a Junta Consultiva Provincial.
+Art. 57.º - 1. As aberturas de crédito serão feitas por meio de portaria, ouvida a Junta Consultiva Provincial.
 
 2. As transferências e reforços de verba realizam-se por meio de portaria ou de despacho do Governador-Geral, de harmonia com as leis de administração financeira.
 
-###### Art. 58.º O ordenamento das despesas cabe ao Governador-Geral ou aos secretários provinciais, se a estes for conferida a delegação prevista no n.º 5 do artigo 14.º
+Art. 58.º O ordenamento das despesas cabe ao Governador-Geral ou aos secretários provinciais, se a estes for conferida a delegação prevista no n.º 5 do artigo 14.º
 
-###### Art. 59.º - 1. A autonomia financeira da província, pode ser sujeita a restrições ocasionais que sejam indispensáveis por situações graves da sua Fazenda ou pelos perigos que estas possam envolver para a Nação.
+Art. 59.º - 1. A autonomia financeira da província, pode ser sujeita a restrições ocasionais que sejam indispensáveis por situações graves da sua Fazenda ou pelos perigos que estas possam envolver para a Nação.
 
 2. Nessas situações graves incluem-se os casos em que:
 
@@ -676,7 +705,7 @@ c) A falta de observância das leis de administração financeira, especialmente
 
 ### CAPÍTULO V — Administração local
 
-###### Art. 60.º - 1. Para os fins de administração local, o território da província divide-se em concelhos, que se formam de freguesias e se agrupam em distritos.
+Art. 60.º - 1. Para os fins de administração local, o território da província divide-se em concelhos, que se formam de freguesias e se agrupam em distritos.
 
 2. As sedes dos grandes concelhos poderão ser divididas em bairros.
 
@@ -684,13 +713,13 @@ c) A falta de observância das leis de administração financeira, especialmente
 
 4. Os postos administrativos dividem-se em regedorias e estas, quando a sua extensão o justifique, em grupos de povoações.
 
-###### Art. 61.º As denominações e sedes dos distritos em que se agrupam os concelhos e circunscrições são definidas por decreto do Ministro do Ultramar.
+Art. 61.º As denominações e sedes dos distritos em que se agrupam os concelhos e circunscrições são definidas por decreto do Ministro do Ultramar.
 
-###### Art. 62.º O Governador-Geral definirá em decreto provincial os concelhos e circunscrições que constituem os distritos, mas não poderá alterar o número e designação destes.
+Art. 62.º O Governador-Geral definirá em decreto provincial os concelhos e circunscrições que constituem os distritos, mas não poderá alterar o número e designação destes.
 
-###### Art. 63.º As autoridades administrativas são as referidas na base XLIX da Lei Orgânica do Ultramar e as suas atribuições e competências serão estabelecidas em lei especial.
+Art. 63.º As autoridades administrativas são as referidas na base XLIX da Lei Orgânica do Ultramar e as suas atribuições e competências serão estabelecidas em lei especial.
 
-###### Art. 64.º - 1. Nos distritos haverá juntas distritais, com competência deliberativa e consultiva, que coadjuvarão os governadores no exercício das suas funções.
+Art. 64.º - 1. Nos distritos haverá juntas distritais, com competência deliberativa e consultiva, que coadjuvarão os governadores no exercício das suas funções.
 
 2. A lei a que se refere o artigo anterior regulará a sua competência, atribuições, organização e funcionamento, tendo em conta as necessidades e possibilidades das respectivas regiões e meio social.
 
@@ -704,8 +733,8 @@ c) A falta de observância das leis de administração financeira, especialmente
 
 7. Nos concelhos, circunscrições e postos administrativos em que existem aglomerados populacionais importantes fora dos núcleos urbanos, enquanto não for possível a sua integração nas autarquias locais, podem ser criados, por decreto provincial, os órgãos de administração local que as circunstâncias tornem necessários.
 
-###### Art. 65.º - 1. O cargo de presidente da câmara será remunerado quando o desenvolvimento do concelho o justifique, podendo, pelo mesmo motivo, ser declarado incompatível com o exercício efectivo de outras funções públicas.
+Art. 65.º - 1. O cargo de presidente da câmara será remunerado quando o desenvolvimento do concelho o justifique, podendo, pelo mesmo motivo, ser declarado incompatível com o exercício efectivo de outras funções públicas.
 
 2. O Governador-Geral definirá em decreto provincial os casos em que haverá lugar a remuneração, o quantitativo, o regime desta e os casos de incompatibilidade.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

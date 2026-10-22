@@ -50,40 +50,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44830-1962-154850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 287f151433968b9390f8c6c1b349e3c0573e3dfcc1bade477f1fddf5e41e37e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f5d2569b3a453c833c5e4e9a3b0c7d98b9f0069e4f8aa1a923c20fdb3c3054d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção de Despejo
+- Câmara Municipal
+- Emolumento
+- Gratificação
+- Lisboa
+- Oficial Público
+- Porto
+- Processo Civil
+- Receita Própria
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:476532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314397:por
+  label: "Determinado que o disposto no art. 2.º do presente diploma seja aplicável aos oficiais de diligências das Câmaras\
+    \ Municipais de Lisboa e do Porto pelo DEC LEI.47801.19.07.1967.MI, DG.IS [167] de 19.07.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47801-1967-314397
+  date: '1967-07-19'
+- type: amended_by
+  target: pt:dre:413014:por
+  label: "Alterado o art. 2º pelo DEC LEI.56/74.16.02.1974.MI, DG.IS [40] de 16.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1974-413014
+  date: '1974-02-16'
+- type: repealed_by
+  target: pt:dre:476532:por
+  label: "Revogado o § único do art. 2º, com a redacção que lhe foi conferida pelo Dec Lei 56/74 de 16-Fev, pela LEI.1/79.02.01.1979.AR,\
+    \ DR.IS [1] de 02.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-1979-476532
+  date: '1979-01-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:44Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +125,17 @@ Considerando que, adoptadas tais providências, bem se justificará que as impor
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os administradores e os secretários das administrações dos bairros de Lisboa e do Porto passam a ter direito à gratificação mensal de 1000$00 pelo exercício das funções de chefia.
+Artigo 1.º Os administradores e os secretários das administrações dos bairros de Lisboa e do Porto passam a ter direito à gratificação mensal de 1000$00 pelo exercício das funções de chefia.
 
-###### Art. 2.º É fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.
+Art. 2.º É fixado em 2000$00 o ordenado mensal dos oficiais de diligências das administrações dos bairros.
 
 § único. Os oficiais de diligências terão direito a passe em carros eléctricos concedido pelas câmaras municipais.
 
-###### Art. 3.º Reverte para as Câmaras Municipais de Lisboa e do Porto a totalidade das importâncias que, a título de emolumentos, vêm sendo cobradas nos processos de despejo sumário julgados nos termos do n.º 4.º e do § único do artigo 109.º do Código Administrativo.
+Art. 3.º Reverte para as Câmaras Municipais de Lisboa e do Porto a totalidade das importâncias que, a título de emolumentos, vêm sendo cobradas nos processos de despejo sumário julgados nos termos do n.º 4.º e do § único do artigo 109.º do Código Administrativo.
 
-###### Art. 4.º Este decreto-lei entra em vigor em 1 de Janeiro de 1963.
+Art. 4.º Este decreto-lei entra em vigor em 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira -Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23000/24332434.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1977-279243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab6b47e7abe66c4578eea5e58943670ac50356d249acbfb100a4133fffe03ee8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 203f3c19bb155236e902741262290a74686cedb7bd8e37a48bf2100ac8510ffa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- BEI
+- Empréstimo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:416447:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:55Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +115,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica a Administração-Geral do Porto de Lisboa (AGPL), após aprovação pelo seu conselho de administração, autorizada a contrair no Banco Europeu de Investimentos, mediante contrato a celebrar, um empréstimo de 8 milhões de unidades de conta europeia, ou moeda estrangeira equivalente, destinado à cobertura financeira de trabalhos de reconstrução e desenvolvimento do cais de Alcântara e da realização de estudos sobre o tráfico de contentores e instalações correspondentes.
+Artigo 1.º - 1 - Fica a Administração-Geral do Porto de Lisboa (AGPL), após aprovação pelo seu conselho de administração, autorizada a contrair no Banco Europeu de Investimentos, mediante contrato a celebrar, um empréstimo de 8 milhões de unidades de conta europeia, ou moeda estrangeira equivalente, destinado à cobertura financeira de trabalhos de reconstrução e desenvolvimento do cais de Alcântara e da realização de estudos sobre o tráfico de contentores e instalações correspondentes.
 
 2 - As condições do empréstimo serão as praticadas pelo Banco Europeu de Investimentos, salvo quanto à taxa de juro, que deverá situar-se três pontos abaixo da aprovada pelo Banco para operações da mesma natureza.
 
-###### Art. 2.º As operações cambiais exigidas pelo presente empréstimo ficam desde já autorizadas e os movimentos de fundos a débito ou a crédito da AGPL serão assegurados pela Direcção-Geral do Tesouro.
+Art. 2.º As operações cambiais exigidas pelo presente empréstimo ficam desde já autorizadas e os movimentos de fundos a débito ou a crédito da AGPL serão assegurados pela Direcção-Geral do Tesouro.
 
-###### Art. 3.º O risco cambial da operação pode ser transferido para o Estado, a solicitação da AGPL, sendo nesse caso devido um prémio de 3% calculado sobre as importâncias em dívida, pagável semestralmente.
+Art. 3.º O risco cambial da operação pode ser transferido para o Estado, a solicitação da AGPL, sendo nesse caso devido um prémio de 3% calculado sobre as importâncias em dívida, pagável semestralmente.
 
-###### Art. 4.º A AGPL obriga-se a inscrever, anualmente, no seu orçamento, os valores necessários ao pagamento das amortizações, juros e demais encargos do empréstimo e do prémio a que se refere o artigo anterior.
+Art. 4.º A AGPL obriga-se a inscrever, anualmente, no seu orçamento, os valores necessários ao pagamento das amortizações, juros e demais encargos do empréstimo e do prémio a que se refere o artigo anterior.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 23 de Setembro de 1977.**
+Promulgado em 23 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

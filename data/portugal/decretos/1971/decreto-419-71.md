@@ -51,18 +51,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/419-1971-633100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac1278440bb7545be977505b7f2e1817bb790c436010d03c94bdc6b4d7fe00dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69592b477a86585098454b232a4fdd6f2a079871dc580924d6d203ee0299448f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:25Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer em conta da verba de despesas de anos económicos findos, inscrita nos orçamentos respectivos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer em conta da verba de despesas de anos económicos findos, inscrita nos orçamentos respectivos do actual ano económico, as seguintes quantias:
 
 Ministério das Finanças
 
@@ -115,7 +119,7 @@ Ministério das Corporações e Previdência Social
 
 Despesas dos anos de 1969 e 1970, referentes a conservação de semoventes, telefones, transportes e pagamento de serviços e encargos não especificados, contraídas pelo Conselho Superior de Acção Social, Secretaria-Geral, Serviços de Acção Social e suas delegações ... 1013$00
 
-###### Art. 2.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, pela verba consignada a despesas de anos económicos findos dos seus actuais orçamentos privativos, os seguintes serviços:
+Art. 2.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, pela verba consignada a despesas de anos económicos findos dos seus actuais orçamentos privativos, os seguintes serviços:
 
 Emissora Nacional de Radiodifusão
 
@@ -129,12 +133,12 @@ Instituto de Assistência Psiquiátrica
 
 Encargo respeitante à rectificação de diárias por internamentos no Hospital do Conde de Ferreira nos anos de 1969 e 1970, em dívida à Santa Casa da Misericórdia do Porto ... 1600000$00
 
-###### Art. 3.º É igualmente autorizada a Emissora Nacional de Radiodifusão a satisfazer a quantia de 133553$70 de conta do capítulo de despesa extraordinária do seu actual orçamento privativo, resultante de despesas com o alargamento ao ultramar dos seus serviços.
+Art. 3.º É igualmente autorizada a Emissora Nacional de Radiodifusão a satisfazer a quantia de 133553$70 de conta do capítulo de despesa extraordinária do seu actual orçamento privativo, resultante de despesas com o alargamento ao ultramar dos seus serviços.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Setembro de 1971.**
+Promulgado em 22 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

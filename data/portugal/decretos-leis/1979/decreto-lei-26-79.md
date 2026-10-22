@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/04500/02840284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1979-393641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc4d57c928a40288f23cfb2280770756a8f70ad744aef645bf0c328725b5971c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10f67c0bdc66cd3d3378be0aa035e26b89aa81f6e25cff2568b839d050ecc07c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Comissão de Gestão
+- Empresa Intervencionada
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:51Z'
   warnings: []
   errors: []
 ---
@@ -101,26 +122,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As comissões administrativas ou gestoras de empresas sujeitas ao regime de intervenção do Estado ficam obrigadas a apresentar o relatório a que se refere a alínea a) do artigo 1.º do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro, até 28 de Fevereiro de 1979, aos Ministérios das Finanças e do Plano e da Tutela.
+Artigo 1.º As comissões administrativas ou gestoras de empresas sujeitas ao regime de intervenção do Estado ficam obrigadas a apresentar o relatório a que se refere a alínea a) do artigo 1.º do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro, até 28 de Fevereiro de 1979, aos Ministérios das Finanças e do Plano e da Tutela.
 
-###### Art. 2.º O relatório do período de intervenção referido no artigo anterior integrará os elementos indicados no artigo 5.º do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), com excepção do balanço provisional corrigido, a que se refere a alínea c) do n.º 1, que deverá ser substituído pelo balanço de gestão reportado a 31 de Dezembro de 1978, e respectivas notas ao balanço a que alude o Plano Oficial de Contabilidade.
+Art. 2.º O relatório do período de intervenção referido no artigo anterior integrará os elementos indicados no artigo 5.º do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), com excepção do balanço provisional corrigido, a que se refere a alínea c) do n.º 1, que deverá ser substituído pelo balanço de gestão reportado a 31 de Dezembro de 1978, e respectivas notas ao balanço a que alude o Plano Oficial de Contabilidade.
 
-###### Art. 3.º O plano de viabilização económica financeira, a que alude a alínea e) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), reportar-se-á, no mínimo a um período de cinco anos (1979-1983), devendo cobrir, no entanto, período mais dilatado sempre que isso se torne indispensável para que todos os efeitos das acções de saneamento em que aquele plano se fundamenta se possam reflectir na exploração da empresa.
+Art. 3.º O plano de viabilização económica financeira, a que alude a alínea e) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), reportar-se-á, no mínimo a um período de cinco anos (1979-1983), devendo cobrir, no entanto, período mais dilatado sempre que isso se torne indispensável para que todos os efeitos das acções de saneamento em que aquele plano se fundamenta se possam reflectir na exploração da empresa.
 
-###### Art. 4.º Os relatórios das comissões interministeriais serão entregues simultaneamente aos Ministros das Finanças e do Plano e da Tutela, no prazo de trinta dias a contar da data da apresentação I relatório do período de intervenção.
+Art. 4.º Os relatórios das comissões interministeriais serão entregues simultaneamente aos Ministros das Finanças e do Plano e da Tutela, no prazo de trinta dias a contar da data da apresentação I relatório do período de intervenção.
 
-###### Art. 5.º - 1 - A inobservância dos prazos referidos nos artigos 1.º e 4.º constitui os seus agentes em responsabilidade disciplinar, cumulável com a eventual responsabilidade civil e penal.
+Art. 5.º - 1 - A inobservância dos prazos referidos nos artigos 1.º e 4.º constitui os seus agentes em responsabilidade disciplinar, cumulável com a eventual responsabilidade civil e penal.
 
 2 - A apreciação da responsabilidade disciplinar a que se refere o número anterior será efectuada, nos termos do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro.
 
-###### Art. 6.º São revogados expressamente os artigos 2.º, n.º 2, 3.º, n.º 7, e 7.º n.º 1, do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro.
+Art. 6.º São revogados expressamente os artigos 2.º, n.º 2, 3.º, n.º 7, e 7.º n.º 1, do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro.
 
-###### Art. 7.º O presente diploma entra imediatamente em vigor.
+Art. 7.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 12 de Fevereiro de 1979.**
+Promulgado em 12 de Fevereiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

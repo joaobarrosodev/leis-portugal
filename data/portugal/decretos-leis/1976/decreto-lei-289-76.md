@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09500/08600869.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1976-502205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b23cd440da097c6b08715b811913424e45c378d80778df2a3364f42d01493af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31453554732f7edd61a66ecacdd138927feba36a394086b2d602e5e469fe0fe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AVAL do Estado
+- Benefícios Fiscais
+- Contrato de Financiamento
+- Contrato de Garantia Financeira
+- Cosec
+- Crédito à Exportação
+- Crime
+- Definição de Competências
+- Empresa
+- Exportação
+- Financiamento
+- Fundo de Fomento de Exportação
+- Garantia
+- Ministro das Finanças
+- Ministro do Comércio Externo
+- Pessoa Coletiva
+- Pessoa Singular
+- Regime Jurídico
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:375626:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:390266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526203:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:428019:por
+  label: Rectificado pela DECL.DD8844.14.05.1976.PCM, DR.IS [113] de 14.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-428019
+  date: '1976-05-14'
+- type: corrected_by
+  target: pt:dre:241429:por
+  label: "Rectificado pela RECT.DD210.03.06.1976.PCM, DR.IS [130]Supl de 03.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-241429
+  date: '1976-06-03'
+- type: repealed_by
+  target: pt:dre:462620:por
+  label: "Revogados os tit. I e II pelo DEC LEI.481/80.16.10.1980.MFP, DR.IS [240] de 16.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/481-1980-462620
+  date: '1980-10-16'
+- type: repealed_by
+  target: pt:dre:579173:por
+  label: Revogados os tit. III (mantido, contudo, transitoriamente em vigor), IV e V do presente diploma pelo DEC LEI.169/81.20.06.1981.MFP,
+    DR.IS [139] de 20.06.198, sem prejuízo do disposto no nº 2 do art. 28º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1981-579173
+  date: '1981-06-20'
+- type: repealed_by
+  target: pt:dre:375626:por
+  label: "Revogado o tit. III pelo DEC LEI.372/82.10.09.1982.MFP, DR.IS [210] de 10.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1982-375626
+  date: '1982-09-10'
 article_structure:
   article_count: 54
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:06Z'
   warnings: []
   errors: []
 ---
@@ -530,8 +591,8 @@ As infracções ao estabelecido no presente diploma e ao que vier a ser determin
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 9 de Abril de 1976.**
+Promulgado em 9 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

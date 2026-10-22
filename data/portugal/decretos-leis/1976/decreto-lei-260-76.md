@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08400/07170727.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30ef40fa7d42f146576e0af435fd7f3cafff81afbc510f8263f6fa20e62e3e25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f549d213a1a96853fd06922971608872e98f3f8db6145599483e3860ade76b2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:655312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240846:por
+  label: "Alterados os art.s do 13º (na redacção da Decl DD8805, de 29-Abr de 1976), 17º e 49º, pelo DEC LEI.353-A/77.29.08.1977.MPLCE,\
+    \ DR.IS [199-2ºSupl] de 29.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-a-1977-240846
+  date: '1977-08-29'
+- type: amended_by
+  target: pt:dre:393621:por
+  label: "Alterados os art.s 13º (na redacção da Decl DD8805, de 29-Abr de 1976, e Dec Lei 353-A/77, de 29-Ago), 24º, nº 1\
+    \ do art. 25º, nºs 2 e 3 do art. 28º e nºs 3 e 4 do art. 45º e aditado um nº 4 ao art. 21º, pelo DEC LEI.25/79.19.02.1979.MFP,\
+    \ DR.IS [42] de 19.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1979-393621
+  date: '1979-02-19'
+- type: amended_by
+  target: pt:dre:383176:por
+  label: "Aditado um nº 7 ao art. 10º, pelo DEC LEI.76/79.07.04.1979.MFP, DR.IS [82] de 07.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1979-383176
+  date: '1979-04-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUM 4 DO ART 21 PELO DEC LEI 224/79 DE 19-JUL DR.IS [165], ANTERIORMENTE ADITADO PELO ART 2 DO DEC LEI\
+    \ 25/79 DE 19-FEV.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-07-19'
+- type: amended_by
+  target: pt:dre:382031:por
+  label: "Alterado o nº 4 do art. 21º, na redacção do Dec Lei 25/79, de 19-Fev, pelo DEC LEI.224/79.19.07.1979.MFP, DR.IS\
+    \ [165] de 19.07.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1979-382031
+  date: '1979-07-19'
+- type: amended_by
+  target: pt:dre:377888:por
+  label: "Recusada a ratificação do Dec Lei 76/79, de 07-Abr, que altera o presente diploma, pela RES.244/79.11.08.1979.AR,\
+    \ DR.IS [185] de 11.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/244-1979-377888
+  date: '1979-08-11'
+- type: amended_by
+  target: pt:dre:510019:por
+  label: "Aditado um art. 9º-A, pelo DEC LEI.519-S/79.28.12.1979.MF, DR.IS [298-3ºSupl] de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-s-1979-510019
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:470415:por
+  label: "Alterado o art. 28º, na redacção do Dec Lei 25/79, de 19-Fev, pelo DEC LEI.271/80.09.08.1980.MFP, DR.IS [183] de\
+    \ 09.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-1980-470415
+  date: '1980-08-09'
+- type: amended_by
+  target: pt:dre:659899:por
+  label: "Alterados os art.s 7º, 8º, 9º, 9º-A (o último na redacção do Dec Lei 519-S/79, de 28-Dez), 10º (na redacção do Dec\
+    \ Lei 76/79, de 07-Abr), 13º (na redacção da Decl DD8805, de 29-Abr de 1976, Dec Lei 353-A/77, de 29-Ago, e Dec Lei 25/79,\
+    \ de 19-Fev), 14º, 16º, 21º (o último na redacção do Dec Lei 25/79, de 19-Fev, e Dec Lei 224/79, de 19-Jul), 22º, 23º\
+    \ e 24º (o último na redacção do Dec Lei 25/79, de 19-Fev) e revogado o art. 25º, pelo DEC LEI.29/84.1984.01.20.MFP DR.IS\
+    \ [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1984-659899
+  date: '1984-01-20'
+- type: amended_by
+  target: pt:dre:227071:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral da norma contida no art. 1º do Dec Lei 29/84, de 20-Jan,\
+    \ que altera o nº 3 do art. 8º e os nºs 2 e 3 do art. 10º - quanto a este último artigo apenas na medida em que abrange\
+    \ o representante dos trabalhadores - do presente diploma, pelo AC.117/86.19.05.1986.TCS, DR.IS [114] de 19.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/117-1986-227071
+  date: '1986-05-19'
+- type: amended_by
+  target: pt:dre:572886:por
+  label: "Alterado o nº 2 do art. 13º e revogada a disposição «A aquisição e venda de bens de valor superior a 50000 contos»\
+    \ constante da al. c) do nº 1 do art. 13º do presente diploma, na redacção da Decl DD8805, de 29-Abr de 1976, Dec Lei\
+    \ 353-A/77, de de 29-Ago, Dec Lei 25/79, de 19-Fev, e Dec Lei 29/84, de 20-Jan, pela LEI.16/90.1990.07.20.AR, DR.IS [166]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1990-572886
+  date: '1990-07-20'
+- type: corrected_by
+  target: pt:dre:427429:por
+  label: Rectificado pela DECL.DD8805.29.04.1976.PCM, DR.IS [101] de 29.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427429
+  date: '1976-04-29'
+- type: corrected_by
+  target: pt:dre:426954:por
+  label: Rectificado pela DECL.DD8873.25.05.1976.PCM, DR.IS [122] de 25.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-426954
+  date: '1976-05-25'
+- type: repealed_by
+  target: pt:dre:572392:por
+  label: "Revogado o art. 29º, pela LEI.14/96.1996.04.20.AR, DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-1996-572392
+  date: '1996-04-20'
+- type: repealed_by
+  target: pt:dre:655312:por
+  label: "Revogado o presente diploma, a partir de 01.01.2000, na redacção do Dec Lei 353-A/77, de 29-Ago, Dec Lei 25/79,\
+    \ de 19-Fev, Dec Lei 76/79, de 07-Abr, Dec Lei 224/79, de 19-Jul, Dec Lei 519-S/79, de 28-Dez, Dec Lei 271/80, de 09-Ago,\
+    \ Dec Lei 29/84, de 20-Jan, Lei 16/90, de 20-Jul, e Lei 14/96, de 20-Abr, pelo DEC LEI.558/99.1999.12.17.MF DR.IS-A [292]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/558-1999-655312
+  date: '1999-12-17'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:44Z'
   warnings: []
   errors: []
 ---
@@ -652,8 +748,8 @@ b) As empresas poderão ser dispensadas pelo Ministro da Tutela das obrigações
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - João Pedro Tomás Rosa.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

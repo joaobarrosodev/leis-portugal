@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 10º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 1670-(188) a 1670-(188)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30310/01880188.pdf
 entry_into_force_dates: []
@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/821-1974-238246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff8040a8158ad987ab0688bd0dfb60a277ffdf8345c9e3a1f163b4561a29a945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83c567c88d09ebab060b01dc20f73f2f4123de5cbf3844261a3b8fb6ed719f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do Imposto de Capitais
+- Imposto de Capitais
+relationships:
+- type: cites
+  target: pt:dre:139406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159541:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:56Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +107,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São revogados os n.os 9.º e 10.º do artigo 10.º do Código do Imposto de Capitais, aprovado pelo [Decreto-Lei n.º 44561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44561-1962-159541), de 10 de Setembro de 1962.
+Artigo 1.º São revogados os n.os 9.º e 10.º do artigo 10.º do Código do Imposto de Capitais, aprovado pelo [Decreto-Lei n.º 44561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44561-1962-159541), de 10 de Setembro de 1962.
 
-###### Art. 2.º O presente diploma entra em vigor em 1 de Janeiro de 1975.
+Art. 2.º O presente diploma entra em vigor em 1 de Janeiro de 1975.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

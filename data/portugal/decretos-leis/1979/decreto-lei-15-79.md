@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03200/01860192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1979-393195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e13c3390c3a71bd16a3b0e7ceb2e0bf55a83e3faec927dd2bef4154abb81088b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be468de48030cf5f06b448418e4d2503c00c22fe3300c45d1647b2a9fe7eb402
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Concurso
+- Definição de Competências
+- Direcção Geral de Pessoal
+- Ensino Preparatório
+- Habilitações Literárias
+- Madeira.região Autónoma
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447962:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226596:por
+  label: Revogado pelo(a) Decreto-Lei n.º 581/80 - Diário da República n.º 301/1980, 2º Suplemento, Série I de 1980-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/581-1980-226596
+  date: '1980-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:56Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +146,7 @@ Nestes termos, ouvidos os Governos Regionais dos Açores e da Madeira:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral de Pessoal abrirá anualmente em cada grupo, subgrupo, disciplina ou especialidade dos estabelecimentos dos ensinos preparatório e secundário concurso para o preenchimento de lugares vagos que não possam ser assegurados:
+Artigo 1.º A Direcção-Geral de Pessoal abrirá anualmente em cada grupo, subgrupo, disciplina ou especialidade dos estabelecimentos dos ensinos preparatório e secundário concurso para o preenchimento de lugares vagos que não possam ser assegurados:
 
 a) Por pessoal docente dos quadros;
 
@@ -113,11 +160,11 @@ e) Por professores colocados ao abrigo do [Decreto-Lei n.º 373/77](https://diar
 
 f) Por professores contratados por mais do que um ano escolar, nos termos do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro, e do artigo 34.º do presente diploma.
 
-###### Art. 2.º O concurso decorrerá nas três fases especificadas nos artigos seguintes:
+Art. 2.º O concurso decorrerá nas três fases especificadas nos artigos seguintes:
 
 1 - Da 1.ª fase
 
-###### Art. 3.º - 1 - Poderão ser opositores à 1.ª fase do concurso os professores dos ensinos preparatório e secundário que a seguir se indicam por ordem de prioridade:
+Art. 3.º - 1 - Poderão ser opositores à 1.ª fase do concurso os professores dos ensinos preparatório e secundário que a seguir se indicam por ordem de prioridade:
 
 a) Professores efectivos, extraordinários do quadro e adjuntos casados com funcionários ou agentes do Estado e dos corpos administrativos ou com militares que, ao abrigo da preferência conjugal, requeiram a sua colocação na localidade onde se situa a residência familiar ou na localidade onde o cônjuge venha a exercer a sua actividade profissional no ano lectivo a que o concurso se refere;
 
@@ -153,7 +200,7 @@ a) Terem sido colocados na 1.ª fase do concurso imediatamente anterior;
 
 b) Estarem vinculados ao Ministério da Educação e Investigação Científica e terem concorrido a todo o continente sem terem obtido colocação ou tendo-a obtido apenas na 2.ª fase do concurso, na qualidade de portadores de habilitação própria.
 
-###### Art. 4.º - 1 - Após as reconduções e colocações previstas nas alíneas a) a f) do n.º 1 do artigo 3.º, as vagas ainda existentes serão preenchidas, por ordem de prioridade, por candidatos nas condições definidas nos restantes números deste artigo.
+Art. 4.º - 1 - Após as reconduções e colocações previstas nas alíneas a) a f) do n.º 1 do artigo 3.º, as vagas ainda existentes serão preenchidas, por ordem de prioridade, por candidatos nas condições definidas nos restantes números deste artigo.
 
 2 - Em primeiro lugar serão colocados os professores que se encontrem numa das seguintes situações:
 
@@ -179,7 +226,7 @@ a) Terem sido colocados na 1.ª fase do concurso imediatamente anterior;
 
 b) Terem concorrido a todo o continente, obtendo ou não colocação em fases posteriores do concurso imediatamente anterior.
 
-###### Art. 5.º - 1 - A colocação ao abrigo da preferência conjugal referida na alínea a) do n.º 1 do artigo 3.º deverá obedecer às condições a seguir indicadas:
+Art. 5.º - 1 - A colocação ao abrigo da preferência conjugal referida na alínea a) do n.º 1 do artigo 3.º deverá obedecer às condições a seguir indicadas:
 
 a) Para efeitos de aplicação desta preferência, consideram-se funcionários ou agentes os indivíduos que se encontrem providos em lugares de quadro ou contratados além do quadro em serviços e organismos da administração central e local, das forças armadas, da Administração Pública ou dos corpos administrativos;
 
@@ -197,7 +244,7 @@ e) Os candidatos poderão concorrer a uma e só uma localidade que não diste ma
 
 II - Da 2.ª fase
 
-###### Art. 6.º - 1 - Os lugares que não ficarem preenchidos após a 1.ª fase do concurso, bem como os lugares supervenientes, poderão ser preenchidos por candidatos ainda não colocados e segundo as preferências expressas no boletim de concurso, de acordo com as seguintes prioridades:
+Art. 6.º - 1 - Os lugares que não ficarem preenchidos após a 1.ª fase do concurso, bem como os lugares supervenientes, poderão ser preenchidos por candidatos ainda não colocados e segundo as preferências expressas no boletim de concurso, de acordo com as seguintes prioridades:
 
 a) Professores profissionalizados não efectivos para os quais possam ser encontrados, de acordo com as prioridades estabelecidas nas alíneas b), c) e d) do n.º 1 do artigo 3.º, lugares em grupo, subgrupo, disciplina ou especialidade a que corresponda a sua habilitação profissional;
 
@@ -215,33 +262,33 @@ f) Titulares de habilitação suficiente, candidatos ao concurso, que não tenha
 
 III - Da 3.ª fase
 
-###### Art. 7.º - 1 - Os lugares ainda vagos após a 2.ª fase do concurso poderão ser preenchidos por proposta dos conselhos directivos dos estabelecimentos de ensino, ou de quem as suas vezes fizer, a apresentar mediante autorização da Direcção-Geral de Pessoal.
+Art. 7.º - 1 - Os lugares ainda vagos após a 2.ª fase do concurso poderão ser preenchidos por proposta dos conselhos directivos dos estabelecimentos de ensino, ou de quem as suas vezes fizer, a apresentar mediante autorização da Direcção-Geral de Pessoal.
 
 2 - As propostas referidas no número anterior, sujeitas a homologação do director-geral de Pessoal, deverão recair em professores profissionalizados não efectivos e em candidatos portadores de habilitações próprias ou suficientes não colocados nas fases anteriores ou que a elas não tenham concorrido.
 
 IV - Da abertura do concurso
 
-###### Art. 8.º - 1 - O concurso previsto neste diploma será aberto, em cada ano, mediante aviso a publicar no Diário da República.
+Art. 8.º - 1 - O concurso previsto neste diploma será aberto, em cada ano, mediante aviso a publicar no Diário da República.
 
 2 - A candidatura ao concurso far-se-á mediante apresentação de um boletim, cujo modelo, em termos a definir no respectivo aviso de abertura, poderá ser diferente, consoante os diversos tipos de opositores.
 
 3 - Os prazos, condições e local de apresentação dos vários modelos de boletim serão fixados no aviso de abertura do concurso.
 
-###### Art. 9.º - 1 - Compete ao conselho directivo dos estabelecimentos dos ensinos preparatório e secundário, ou a quem as suas vezes fizer, determinar, por forma a indicar pela Direcção-Geral de Pessoal, as vagas existentes nos respectivos estabelecimentos de ensino por grupo, subgrupo, disciplina ou especialidade, expressas em horários completos de vinte e duas horas semanais, elaborados de acordo com as normas a estabelecer pelas direcções-gerais de ensino.
+Art. 9.º - 1 - Compete ao conselho directivo dos estabelecimentos dos ensinos preparatório e secundário, ou a quem as suas vezes fizer, determinar, por forma a indicar pela Direcção-Geral de Pessoal, as vagas existentes nos respectivos estabelecimentos de ensino por grupo, subgrupo, disciplina ou especialidade, expressas em horários completos de vinte e duas horas semanais, elaborados de acordo com as normas a estabelecer pelas direcções-gerais de ensino.
 
 2 - A indicação das vagas referidas no número anterior será feita em data a fixar, em cada ano escolar, pela Direcção-Geral de Pessoal, em função dos condicionalismos técnicos do concurso.
 
 3 - O não cumprimento, total ou parcial, por parte dos conselhos directivos, ou de quem as suas vezes fizer, do estabelecido nos números anteriores implica procedimento disciplinar.
 
-###### Art. 10.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, consideram-se também horários completos os compostos, pelo menos, de vinte horas semanais de serviço docente ou equiparado, não podendo em cada grupo, subgrupo, disciplina ou especialidade existir mais do que um horário nessas condições.
+Art. 10.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, consideram-se também horários completos os compostos, pelo menos, de vinte horas semanais de serviço docente ou equiparado, não podendo em cada grupo, subgrupo, disciplina ou especialidade existir mais do que um horário nessas condições.
 
 2 - Sem prejuízo do estabelecido no número anterior, os docentes serão remunerados pelo serviço efectivamente prestado, salvo se, possuindo vínculo contratual com o Ministério da Educação e Investigação Científica, tiverem concorrido a todo o continente.
 
-###### Art. 11.º Compete à Direcção-Geral de Pessoal ordenar, nos termos dos artigos 12.º e seguintes do presente diploma, e colocar os professores candidatos à 1.ª e 2.ª fases do concurso.
+Art. 11.º Compete à Direcção-Geral de Pessoal ordenar, nos termos dos artigos 12.º e seguintes do presente diploma, e colocar os professores candidatos à 1.ª e 2.ª fases do concurso.
 
 V - Da ordenação dos candidatos
 
-###### Art. 12.º - 1 - Os opositores ao concurso ao abrigo da preferência conjugal serão graduados, por ordem de prioridade dentro de cada um dos seguintes escalões:
+Art. 12.º - 1 - Os opositores ao concurso ao abrigo da preferência conjugal serão graduados, por ordem de prioridade dentro de cada um dos seguintes escalões:
 
 a) Professores efectivos;
 
@@ -265,9 +312,9 @@ c) Candidato cuja habilitação académica o situe em melhor escalão, consoante
 
 d) Candidato mais idoso.
 
-###### Art. 13.º Os docentes profissionalizados não efectivos serão ordenados por ordem decrescente da sua graduação profissional fixada de acordo com o estabelecido nos artigos 7.º, 8.º e 9.º e no n.º 3 do artigo 10.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), tendo em consideração o disposto no artigo 33.º do presente diploma.
+Art. 13.º Os docentes profissionalizados não efectivos serão ordenados por ordem decrescente da sua graduação profissional fixada de acordo com o estabelecido nos artigos 7.º, 8.º e 9.º e no n.º 3 do artigo 10.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), tendo em consideração o disposto no artigo 33.º do presente diploma.
 
-###### Art. 14.º - 1 - Os candidatos portadores de habilitação própria serão graduados de acordo com os escalões fixados na legislação em vigor.
+Art. 14.º - 1 - Os candidatos portadores de habilitação própria serão graduados de acordo com os escalões fixados na legislação em vigor.
 
 2 - Dentro de cada escalão, a ordenação dos candidatos será feita por ordem decrescente da respectiva graduação na docência.
 
@@ -289,7 +336,7 @@ a) Candidato com mais dias de serviço não convertidos em valores para efeito d
 
 b) Candidato mais idoso.
 
-###### Art. 15.º - 1 - Os candidatos portadores de habilitação suficiente serão graduados de acordo com os escalões definidos em despacho ministerial.
+Art. 15.º - 1 - Os candidatos portadores de habilitação suficiente serão graduados de acordo com os escalões definidos em despacho ministerial.
 
 2 - Dentro de cada escalão, a ordenação dos candidatos será feita por ordem decrescente da respectiva graduação na docência.
 
@@ -299,7 +346,7 @@ b) Candidato mais idoso.
 
 VI - Do mecanismo do concurso
 
-###### Art. 16.º A apresentação ao concurso far-se-á mediante preenchimento de um boletim normalizado, aprovado por despacho ministerial, do qual constarão obrigatoriamente:
+Art. 16.º A apresentação ao concurso far-se-á mediante preenchimento de um boletim normalizado, aprovado por despacho ministerial, do qual constarão obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -311,7 +358,7 @@ d) Tempo de serviço prestado em estabelecimentos de ensino oficial, incluindo o
 
 e) Códigos dos estabelecimentos de ensino, dos distritos e das zonas a que o candidato concorre, de acordo com a identificação estabelecida no aviso de abertura do concurso.
 
-###### Art. 17.º - 1 - Os candidatos ao abrigo da preferência conjugal apresentarão conjuntamente com o boletim do concurso:
+Art. 17.º - 1 - Os candidatos ao abrigo da preferência conjugal apresentarão conjuntamente com o boletim do concurso:
 
 a) Certificado de estado civil;
 
@@ -319,7 +366,7 @@ b) Prova da situação profissional do cônjuge.
 
 2 - Até ao limite do prazo de reclamação previsto no n.º 1 do artigo 29.º, os candidatos à colocação ao abrigo da preferência conjugal poderão apresentar provas de alteração da residência familiar ou do local de trabalho do cônjuge.
 
-###### Art. 18.º - 1 - O boletim de concurso para professores provisórios ou eventuais será obrigatoriamente acompanhado de certidão ou certidões comprovativas das habilitações académicas nele declaradas, ou de fotocópias notariais, das quais constarão as correspondentes classificações nos termos da alínea b) do artigo 16.º, sempre expressas na escala de 0 a 20 valores, e, quando for caso disso, de certidão comprovativa do tempo de serviço necessário à aquisição de habilitação própria.
+Art. 18.º - 1 - O boletim de concurso para professores provisórios ou eventuais será obrigatoriamente acompanhado de certidão ou certidões comprovativas das habilitações académicas nele declaradas, ou de fotocópias notariais, das quais constarão as correspondentes classificações nos termos da alínea b) do artigo 16.º, sempre expressas na escala de 0 a 20 valores, e, quando for caso disso, de certidão comprovativa do tempo de serviço necessário à aquisição de habilitação própria.
 
 2 - Nos casos previstos no n.º 5 do artigo 14.º, será da responsabilidade do candidato a declaração da média aritmética.
 
@@ -327,15 +374,15 @@ b) Prova da situação profissional do cônjuge.
 
 4 - Serão excluídos do concurso os candidatos que não apresentarem os documentos indispensáveis, bem como aqueles que preencherem irregularmente os boletins.
 
-###### Art. 19.º Os candidatos titulares de habilitação própria poderão concorrer aos vários grupos, subgrupos, disciplinas ou especialidades do mesmo ou diferentes níveis de ensino para os quais possuam essa habilitação, tendo, porém, em atenção as seguintes restrições:
+Art. 19.º Os candidatos titulares de habilitação própria poderão concorrer aos vários grupos, subgrupos, disciplinas ou especialidades do mesmo ou diferentes níveis de ensino para os quais possuam essa habilitação, tendo, porém, em atenção as seguintes restrições:
 
 a) Será de dois, sendo um do ensino preparatório e outro do ensino secundário, o número máximo de grupos, subgrupos, disciplinas ou especialidades a que os opositores ao concurso poderão candidatar-se, desde que, para tal, disponham de habilitação considerada própria;
 
 b) Dos dois grupos, subgrupos, disciplinas ou especialidades referidos na alínea anterior, um deles será obrigatoriamente aquele em que o candidato poderá solicitar recondução, se a ela tiver direito.
 
-###### Art. 20.º Será de dois, sendo um do ensino preparatório e outro do ensino secundário, o número máximo de grupos, subgrupos, disciplinas ou especialidades a que os opositores ao concurso poderão candidatar-se, desde que, para tal, disponham de habilitação considerada suficiente.
+Art. 20.º Será de dois, sendo um do ensino preparatório e outro do ensino secundário, o número máximo de grupos, subgrupos, disciplinas ou especialidades a que os opositores ao concurso poderão candidatar-se, desde que, para tal, disponham de habilitação considerada suficiente.
 
-###### Art. 21.º Os candidatos ao concurso definido por este diploma indicarão as suas preferências num e só num boletim, de acordo com o previsto em uma ou mais das alíneas seguintes:
+Art. 21.º Os candidatos ao concurso definido por este diploma indicarão as suas preferências num e só num boletim, de acordo com o previsto em uma ou mais das alíneas seguintes:
 
 a) Códigos dos estabelecimentos de ensino preparatório e secundário do continente, até ao limite de cinquenta;
 
@@ -345,9 +392,9 @@ c) Código da zona ou zonas do continente referenciadas no boletim de concurso.
 
 VII - Forma de provimento e seus efeitos
 
-###### Art. 22.º Os docentes profissionalizados não efectivos e os docentes provisórios ou eventuais, colocados ao abrigo do presente diploma, serão providos, mediante contrato, nos termos do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955).
+Art. 22.º Os docentes profissionalizados não efectivos e os docentes provisórios ou eventuais, colocados ao abrigo do presente diploma, serão providos, mediante contrato, nos termos do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955).
 
-###### Art. 23.º - 1 - Consideram-se vinculados ao Ministério da Educação e Investigação Científica os indivíduos que se encontrem numa das seguintes situações:
+Art. 23.º - 1 - Consideram-se vinculados ao Ministério da Educação e Investigação Científica os indivíduos que se encontrem numa das seguintes situações:
 
 a) Terem sido colocados na 1.ª ou na 2.ª fase do concurso;
 
@@ -355,19 +402,19 @@ b) Estando em exercício de funções docentes no dia 30 de Setembro do ano ante
 
 2 - As garantias conferidas pela [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, serão mantidas para os candidatos de habilitação de grau superior que, por força daquele diploma, concorram a funções docentes para todo o continente em grupo, subgrupo, disciplina ou especialidade para que possuam habilitação própria.
 
-###### Art. 24.º - 1 - A colocação dos professores dos quadros dos ensinos preparatório e secundário ao abrigo da preferência conjugal processar-se-á, nos termos do disposto nos artigos 11.º e 12.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), na situação de requisição prevista na alínea b) do artigo 2.º do mesmo diploma.
+Art. 24.º - 1 - A colocação dos professores dos quadros dos ensinos preparatório e secundário ao abrigo da preferência conjugal processar-se-á, nos termos do disposto nos artigos 11.º e 12.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), na situação de requisição prevista na alínea b) do artigo 2.º do mesmo diploma.
 
 2 - Os professores colocados ao abrigo do disposto no número anterior mantêm os vencimentos e regalias da sua categoria.
 
-###### Art. 25.º Os contratos a estabelecer por força do artigo 22.º vigorarão pelo período previsto no próprio contrato, não podendo, porém, tal período ultrapassar o dia 31 de Julho subsequente, sempre que o referido contrato se refira aos professores não abrangidos pelo n.º 1 do artigo 23.º deste diploma.
+Art. 25.º Os contratos a estabelecer por força do artigo 22.º vigorarão pelo período previsto no próprio contrato, não podendo, porém, tal período ultrapassar o dia 31 de Julho subsequente, sempre que o referido contrato se refira aos professores não abrangidos pelo n.º 1 do artigo 23.º deste diploma.
 
 VIII - Disposições gerais e transitórias
 
-###### Art. 26.º A deslocação referida na alínea f) do n.º 1 do artigo 3.º produz os efeitos da recondução prevista na alínea e) do mesmo número e artigo.
+Art. 26.º A deslocação referida na alínea f) do n.º 1 do artigo 3.º produz os efeitos da recondução prevista na alínea e) do mesmo número e artigo.
 
-###### Art. 27.º Para a docência das disciplinas dos 7.º, 8.º e 9.º anos de escolaridade a funcionar em estabelecimentos de ensino preparatório poderão ser colocados docentes profissionalizados não efectivos do ensino secundário e ainda docentes portadores de habilitações próprias ou suficientes para este nível de ensino.
+Art. 27.º Para a docência das disciplinas dos 7.º, 8.º e 9.º anos de escolaridade a funcionar em estabelecimentos de ensino preparatório poderão ser colocados docentes profissionalizados não efectivos do ensino secundário e ainda docentes portadores de habilitações próprias ou suficientes para este nível de ensino.
 
-###### Art. 28.º - 1 - Para efeitos da aplicação do presente diploma, considera-se:
+Art. 28.º - 1 - Para efeitos da aplicação do presente diploma, considera-se:
 
 a) Habilitação própria, a que permite o ingresso nos estágios pedagógicos dos ensinos preparatório e secundário ou nos respectivos quadros permanentes;
 
@@ -375,7 +422,7 @@ b) Habilitação suficiente, a que se encontre definida como tal por despacho mi
 
 2 - Ainda para efeitos de aplicação do disposto neste diploma, considera-se sempre que as habilitações próprias se referenciam aos grupos, subgrupos, disciplinas ou especialidades de docência nos diferentes níveis de ensino em que se integram, independentemente do estabelecimento de ensino em que o serviço é prestado.
 
-###### Art. 29.º - 1 - As listas provisórias de ordenação de candidatos serão publicadas no Diário da República, podendo os candidatos, no prazo de oito dias a contar da data da publicação, reclamar da sua ordenação.
+Art. 29.º - 1 - As listas provisórias de ordenação de candidatos serão publicadas no Diário da República, podendo os candidatos, no prazo de oito dias a contar da data da publicação, reclamar da sua ordenação.
 
 2 - É da competência do director-geral de Pessoal a decisão sobre as reclamações referidas no número anterior, que só serão consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais.
 
@@ -387,29 +434,29 @@ b) Habilitação suficiente, a que se encontre definida como tal por despacho mi
 
 6 - A não aceitação do lugar obtido em 2.ª fase implicará a impossibilidade de ser opositor à 3.ª fase do mesmo concurso e ainda a de ser opositor ao concurso relativo ao ano escolar seguinte àquele a que se refere o concurso.
 
-###### Art. 30.º Não são considerados abrangidos pelo presente diploma:
+Art. 30.º Não são considerados abrangidos pelo presente diploma:
 
 a) Os pedidos de recondução de docentes que acumulem com outro cargo ou função pública;
 
 b) Os pedidos de colocação de candidatos que exerçam outras funções públicas.
 
-###### Art. 31.º - 1 - Não poderão beneficiar da recondução estabelecida nas alíneas e) e f) do n.º 1 do artigo 3.º deste diploma os candidatos cuja colocação anterior tenha resultado de processo irregular e cuja responsabilidade, reconhecida por despacho ministerial, lhes seja imputável.
+Art. 31.º - 1 - Não poderão beneficiar da recondução estabelecida nas alíneas e) e f) do n.º 1 do artigo 3.º deste diploma os candidatos cuja colocação anterior tenha resultado de processo irregular e cuja responsabilidade, reconhecida por despacho ministerial, lhes seja imputável.
 
 2 - Para efeitos de recondução, poderá ser considerado, por despacho ministerial, como vinculado a estabelecimento de ensino diferente daquele em que está colocado qualquer professor que faça prova, até à data da abertura do concurso, de em concursos anteriores ter sido impedido de colocação naquele estabelecimento por irregularidades decorrentes do processo.
 
-###### Art. 32.º - 1 - O presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, cabendo a sua execução global às respectivas Secretarias Regionais de Educação e Cultura.
+Art. 32.º - 1 - O presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, cabendo a sua execução global às respectivas Secretarias Regionais de Educação e Cultura.
 
 2 - Para efeitos da aplicação do disposto no número anterior, não será permitido aos candidatos concorrer simultaneamente às vagas existentes no continente e nas Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 33.º - 1 - O n.º 1 do artigo 7.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), de 1 de Março, passa a ter a seguinte redacção:
+Art. 33.º - 1 - O n.º 1 do artigo 7.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), de 1 de Março, passa a ter a seguinte redacção:
 
 1 - A classificação profissional de cada professor é a classificação do Exame de Estado ou equivalente, acrescida de 1 valor por cada ano de serviço oficial, ou a ele equiparado, desde que classificado de Bom e até ao limite de 20 valores.
 
 2 - O disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), com a nova redacção dada pelo número anterior, só é aplicável ao concurso de professores efectivos dos ensinos preparatório e secundário nos anos de 1980 e seguintes.
 
-###### Art. 34.º É aplicável aos docentes profissionalizados não efectivos dos ensinos preparatório e secundário o disposto no [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955).
+Art. 34.º É aplicável aos docentes profissionalizados não efectivos dos ensinos preparatório e secundário o disposto no [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955).
 
-###### Art. 35.º São revogados:
+Art. 35.º São revogados:
 
 a) O [Decreto-Lei n.º 262/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1977-316748);
 
@@ -417,14 +464,14 @@ b) Os artigos 5.º e 6.º, n.º 2 do artigo 7.º e artigo 9.º do [Decreto-Lei n
 
 c) O n.º 3 do artigo 7.º e artigo 8.º do [Decreto-Lei n.º 13/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1978-447962), na parte que respeita aos ensinos preparatório e secundário.
 
-###### Art. 36.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 36.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 37.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 37.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 29 de Janeiro de 1979.**
+Promulgado em 29 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

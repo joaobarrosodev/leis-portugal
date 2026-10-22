@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/20400/20772078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1976-408756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19cb6e6efe73e12de667d6647224a46982dbf51e56100e54ed7f0e41ccfe6f31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9099ecac45992c27b8f14488f6f8bfaf7d97b91686a595b54eda97191663acaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA Civil
+- CASA Militar
+- Criação de Serviços
+- Definição de Competências
+- Formas de Provimento
+- Gabinete do Presidente da República
+- Orgânica
+- Pessoal de Gabinete
+- Presidência da República
+- Presidente da República
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:26Z'
   warnings: []
   errors: []
 ---
@@ -92,43 +121,43 @@ Considerando que se torna necessário reajustar a orgânica em vigor dos serviç
 
 Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 201.º da Constituição da República Portuguesa, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado junto do Presidente da República um gabinete destinado a prestar-lhe apoio directo e pessoal, que será constituído por um chefe de gabinete, um adjunto e três secretários, da sua livre escolha.
+Artigo 1.º - 1. É criado junto do Presidente da República um gabinete destinado a prestar-lhe apoio directo e pessoal, que será constituído por um chefe de gabinete, um adjunto e três secretários, da sua livre escolha.
 
 2. Aos membros do Gabinete do Presidente da República é aplicável o artigo 6.º do [Decreto-Lei n.º 785/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125), de 31 de Dezembro.
 
 3. Ao adjunto incumbe a chefia do grupo técnico a que se refere o n.º 3 do artigo 10.º
 
-###### Art. 2.º - 1. É criada a Casa Civil para apoio técnico e instrumental ao Presidente da República, constituída por um chefe da Casa Civil e oito assessores, um dos quais dirigirá o centro de apoio.
+Art. 2.º - 1. É criada a Casa Civil para apoio técnico e instrumental ao Presidente da República, constituída por um chefe da Casa Civil e oito assessores, um dos quais dirigirá o centro de apoio.
 
 2. No âmbito da Casa Civil haverá igualmente um corpo de consultores, constituído por especialistas de diversas matérias e de reconhecida competência, da livre escolha do Presidente da República.
 
 3. O chefe da Casa Civil e os assessores serão providos livremente pelo Presidente da República, considerando-se em exercício de funções, para todos os efeitos legais, desde a data do despacho de nomeação, que será publicado no Diário da República, com dispensa do visto do Tribunal de Contas.
 
-###### Art. 3.º - 1. Se o provimento em qualquer dos lugares previstos no n.º 1 do artigo anterior recair em trabalhadores da função pública ou de institutos públicos, empresas públicas ou nacionalizadas, exercerão os seus cargos em regime de requisição, com a faculdade de optarem pelas remunerações correspondentes aos cargos de origem.
+Art. 3.º - 1. Se o provimento em qualquer dos lugares previstos no n.º 1 do artigo anterior recair em trabalhadores da função pública ou de institutos públicos, empresas públicas ou nacionalizadas, exercerão os seus cargos em regime de requisição, com a faculdade de optarem pelas remunerações correspondentes aos cargos de origem.
 
 2. Quando os providos sejam funcionários públicos, administrativos, magistrados judiciais, do trabalho ou do Ministério Público, não se considera aberta vaga no quadro de origem, podendo, no entanto, o respectivo lugar ser preenchido interinamente.
 
 3. O tempo de serviço prestado pelos membros da Casa Civil que se encontrem abrangidos pelos números anteriores considera-se, para todos os efeitos legais, como se fosse prestado no quadro de origem.
 
-###### Art. 4.º - 1. Quando os consultores a que se refere o n.º 2 do artigo 2.º sejam escolhidos nos termos e condições previstos nos n.os 1 e 2 do artigo 3.º, exercerão as suas funções em regime de requisição, com direito às remunerações do lugar de origem e a uma gratificação mensal a fixar por despacho do Presidente da República.
+Art. 4.º - 1. Quando os consultores a que se refere o n.º 2 do artigo 2.º sejam escolhidos nos termos e condições previstos nos n.os 1 e 2 do artigo 3.º, exercerão as suas funções em regime de requisição, com direito às remunerações do lugar de origem e a uma gratificação mensal a fixar por despacho do Presidente da República.
 
 2. Os consultores que não sejam trabalhadores da função pública ou de institutos públicos, empresas públicas ou nacionalizadas prestarão serviço em regime contratual, nas condições a fixar, caso a caso, por despacho do Presidente da República.
 
-###### Art. 5.º - 1. É criada a Casa Militar, constituída por um chefe da Casa Militar, quatro assessores e três ajudantes de campo da livre escolha do Presidente da República.
+Art. 5.º - 1. É criada a Casa Militar, constituída por um chefe da Casa Militar, quatro assessores e três ajudantes de campo da livre escolha do Presidente da República.
 
 2. A chefia da Casa Militar caberá a um oficial de patente não inferior a oficial superior.
 
 3. Os assessores e os ajudantes de campo serão escolhidos de entre oficiais dos três ramos das forças armadas.
 
-###### Art. 6.º Os militares em serviço na Presidência da República são considerados, para todos os efeitos, militares em comissão normal de serviço e em funções de estado-maior.
+Art. 6.º Os militares em serviço na Presidência da República são considerados, para todos os efeitos, militares em comissão normal de serviço e em funções de estado-maior.
 
-###### Art. 7.º Os chefes das Casas Civil e Militar poderão dispor de um secretário pessoal, ao qual é aplicável o disposto no [Decreto-Lei n.º 785/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125), de 31 de Dezembro.
+Art. 7.º Os chefes das Casas Civil e Militar poderão dispor de um secretário pessoal, ao qual é aplicável o disposto no [Decreto-Lei n.º 785/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/785-1974-236125), de 31 de Dezembro.
 
-###### Art. 8.º Os chefes das Casas Civil e Militar e os assessores terão direito aos vencimentos fixados no artigo 1.º do Decreto n.º 506/75, de 18 de Setembro, respectivamente para as letras A e B.
+Art. 8.º Os chefes das Casas Civil e Militar e os assessores terão direito aos vencimentos fixados no artigo 1.º do Decreto n.º 506/75, de 18 de Setembro, respectivamente para as letras A e B.
 
-###### Art. 9.º Aos chefes do Gabinete, da Casa Civil e Militar e respectivos membros será atribuído um abono para despesas de representação, a fixar por despacho do Presidente da República, em montante não superior ao atribuído aos Secretários de Estado.
+Art. 9.º Aos chefes do Gabinete, da Casa Civil e Militar e respectivos membros será atribuído um abono para despesas de representação, a fixar por despacho do Presidente da República, em montante não superior ao atribuído aos Secretários de Estado.
 
-###### Art. 10.º - 1. Para desempenho das funções de coordenação geral e executivas, o Gabinete e Casas Civil e Militar disporão de um centro de apoio, dirigido por um dos assessores a designar por despacho do Presidente da República e na directa dependência da Casa Militar.
+Art. 10.º - 1. Para desempenho das funções de coordenação geral e executivas, o Gabinete e Casas Civil e Militar disporão de um centro de apoio, dirigido por um dos assessores a designar por despacho do Presidente da República e na directa dependência da Casa Militar.
 
 2. O centro de apoio compreende, para fins executivos, o sector de documentação e o sector de expediente, aos quais incumbe recolher e sistematizar a documentação de interesse para o Gabinete e Casas Civil e Militar e assegurar o serviço de expediente.
 
@@ -138,20 +167,20 @@ Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 201.º da Cons
 
 5. Ao pessoal referido nos n.os 3 e 4 deste artigo é aplicável o disposto no n.º 3 do artigo 2.º, n.º 1 do artigo 3.º e n.º 2 do artigo 12.º do presente diploma.
 
-###### Art. 11.º Os membros das Casas Civil e Militar e do Gabinete não terão direito a qualquer remuneração por trabalho extraordinário.
+Art. 11.º Os membros das Casas Civil e Militar e do Gabinete não terão direito a qualquer remuneração por trabalho extraordinário.
 
-###### Art. 12.º - 1. Os encargos resultantes da execução deste diploma serão suportados, no presente ano económico, por conta da dotação residual a inscrever no orçamento de «Encargos Gerais da Nação», afecta à Presidência da República.
+Art. 12.º - 1. Os encargos resultantes da execução deste diploma serão suportados, no presente ano económico, por conta da dotação residual a inscrever no orçamento de «Encargos Gerais da Nação», afecta à Presidência da República.
 
 2. Sempre que os membros das Casas Civil e Militar e do Gabinete sejam militares ou servidores civis do Estado e ainda que tenham optado pelas remunerações a que tiverem direito nos quadros de origem à data da nomeação, as mesmas ser-lhe-ão atribuídas por conta da dotação inscrita ou a inscrever no orçamento «Encargos Gerais da Nação» afecta à Presidência da República.
 
-###### Art. 13.º Ficam revogados os Decretos-Leis n.os 48154, [219/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1974-622617) e [755/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/755-1974-595102), de, respectivamente, 26 de Dezembro de 1967, 27 de Maio e 28 de Dezembro.
+Art. 13.º Ficam revogados os Decretos-Leis n.os 48154, [219/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1974-622617) e [755/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/755-1974-595102), de, respectivamente, 26 de Dezembro de 1967, 27 de Maio e 28 de Dezembro.
 
-###### Art. 14.º O presente diploma entra em vigor na data da sua publicação.
+Art. 14.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 24 de Agosto de 1976.**
+Promulgado em 24 de Agosto de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

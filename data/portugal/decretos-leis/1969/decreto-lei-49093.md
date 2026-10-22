@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49093-1969-199826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 375d7ce50edab063d5a250c0915e4677f5fb6a27cb1e8a4a8fe935cacb24510f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab758ec8b715628a331f72377b33980823f6bec5082dc7ca44cfe3106c890679
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
+- Reforço de Dotação
+relationships:
+- type: cites
+  target: pt:dre:277330:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:199640:por
+  label: Rectificado pela DECL.DD10434.09.07.1969.PC, DG.IS [159] de 09.07.1969
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1969-199640
+  date: '1969-07-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:51Z'
   warnings: []
   errors: []
 ---
@@ -86,18 +100,18 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério dos Negócios Estrangeiros, um crédito especial da quantia de 5000000$00, devendo a mesma importância constituir o n.º 5) do artigo 27.º do capítulo 5.º do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios, sob a rubrica de «Outras despesas resultantes de deslocações ao estrangeiro reguladas por legislação especial».
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério dos Negócios Estrangeiros, um crédito especial da quantia de 5000000$00, devendo a mesma importância constituir o n.º 5) do artigo 27.º do capítulo 5.º do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios, sob a rubrica de «Outras despesas resultantes de deslocações ao estrangeiro reguladas por legislação especial».
 
-###### Art. 2.º Para compensação do crédito aludido no artigo precedente é anulada igual importância na verba inscrita sob o artigo 13.º «Encargos de empréstimos a realizar», do capítulo 1.º do vigente orçamento do Ministério das Finanças.
+Art. 2.º Para compensação do crédito aludido no artigo precedente é anulada igual importância na verba inscrita sob o artigo 13.º «Encargos de empréstimos a realizar», do capítulo 1.º do vigente orçamento do Ministério das Finanças.
 
-###### Art. 3.º Às despesas a realizar em conta do crédito aberto pelo artigo 1.º do presente diploma são aplicáveis as disposições do artigo 3.º e seus parágrafos do [Decreto-Lei n.º 41135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41135-1957-277330), de 1 de Junho de 1957.
+Art. 3.º Às despesas a realizar em conta do crédito aberto pelo artigo 1.º do presente diploma são aplicáveis as disposições do artigo 3.º e seus parágrafos do [Decreto-Lei n.º 41135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41135-1957-277330), de 1 de Junho de 1957.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Marcello Caetano - João Augusto Dias Rosas - Alberto Marciano Gorjão Franco Nogueira.
 
-**Promulgado em 25 de Junho de 1969.**
+Promulgado em 25 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

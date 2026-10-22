@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/353-1971-635460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87efd6b22c57f4f2188ff5a16be6681a44b65b58da04b86892d15917c9fd0fd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d44bb2c93b3c6444b37226badfcbb2e137e3f7c18b6530568303acaa0dc9c969
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:444762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:40Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +110,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º De harmonia com o disposto no n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, e nos artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762), de 21 de Abril, e em conformidade com o previsto no Acordo aprovado pelo [Decreto-Lei n.º 43338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183), de 21 de Novembro de 1960, é autorizada a emissão de vinte promissórias, do valor global de 893000 contos, destinadas a substituir parte da importância em moeda portuguesa a pagar ao Fundo Monetário Internacional para realização do aumento da quota do nosso país neste organismo, referido no artigo 1.º do [Decreto-Lei n.º 148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762).
+Artigo 1.º De harmonia com o disposto no n.º 1.º do artigo 11.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008), de 22 de Novembro de 1960, e nos artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762), de 21 de Abril, e em conformidade com o previsto no Acordo aprovado pelo [Decreto-Lei n.º 43338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183), de 21 de Novembro de 1960, é autorizada a emissão de vinte promissórias, do valor global de 893000 contos, destinadas a substituir parte da importância em moeda portuguesa a pagar ao Fundo Monetário Internacional para realização do aumento da quota do nosso país neste organismo, referido no artigo 1.º do [Decreto-Lei n.º 148/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1971-444762).
 
-###### Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal, ao qual incumbe, nos termos do artigo 4.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) e das condições acordadas entre o Estado e o mesmo Banco, desempenhar as funções de depositário, mencionadas na secção 2 do artigo XIII do Acordo aprovado pelo [Decreto-Lei n.º 43338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183).
+Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal, ao qual incumbe, nos termos do artigo 4.º do [Decreto-Lei n.º 43341](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43341-1960-513008) e das condições acordadas entre o Estado e o mesmo Banco, desempenhar as funções de depositário, mencionadas na secção 2 do artigo XIII do Acordo aprovado pelo [Decreto-Lei n.º 43338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43338-1960-514183).
 
-###### Art. 3.º As promissórias referidas no artigo 1.º do presente diploma serão:
+Art. 3.º As promissórias referidas no artigo 1.º do presente diploma serão:
 
 Duas do valor nominal de 300000 contos, correspondentes cada uma a $10434782,61;
 
@@ -112,11 +124,11 @@ Uma do valor nominal de 35000 contos, correspondente a $1217391,30;
 
 Dezasseis do valor nominal de 500 contos, correspondente cada uma a $17391,30.
 
-###### Art. 4.º - 1. As promissórias a emitir não são negociáveis nem vencem juros e são pagáveis à vista e ao par, creditando a conta do Fundo Monetário Internacional no Banco de Portugal.
+Art. 4.º - 1. As promissórias a emitir não são negociáveis nem vencem juros e são pagáveis à vista e ao par, creditando a conta do Fundo Monetário Internacional no Banco de Portugal.
 
 2. No caso de ser paga sòmente uma parte da importância representada em qualquer das promissórias, passar-se-á uma nova promissória com as mesmas características e de valor nominal correspondente à quantia que ficou por pagar.
 
-###### Art. 5.º - 1. Das promissórias constarão:
+Art. 5.º - 1. Das promissórias constarão:
 
 a) O número de ordem;
 
@@ -130,12 +142,12 @@ e) Os direitos, isenções e garantias de que gozam e que são os dos restantes 
 
 2. As promissórias serão assinadas de chancela pelo Secretário de Estado do Tesouro e pelo presidente da Junta do Crédito Público, levando também a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta.
 
-###### Art. 6.º Este decreto entra imediatamente em vigor.
+Art. 6.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Agosto de 1971.**
+Promulgado em 11 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

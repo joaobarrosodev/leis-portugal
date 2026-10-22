@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3334-(56) a 3334-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00560060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-b-1979-393778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 965f5cc1b18273620a3e65a333c3d73af9fc6e6a914821ad09023a62de5568a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d3750e2dc268c365737d974d5f79c76f9257bbdc18c977f1b4b51e7687567c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Presidência da República
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:615796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401480:por
+  label: "Alterado o quadro de pessoal, pela PORT.881/84.1984.12.04.PCM, DR.IS [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/881-1984-401480
+  date: '1984-12-04'
+- type: amended_by
+  target: pt:dre:181043:por
+  label: "Alterado o quadro de pessoal, pela PORT.623/85.1985.08.21.PCM, DR.IS [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1985-181043
+  date: '1985-08-21'
+- type: amended_by
+  target: pt:dre:628279:por
+  label: "Aditado um art. 18º-A, pelo DEC LEI.44-A/86.1986.03.07.PCM, DR.IS [55]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-a-1986-628279
+  date: '1986-03-07'
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, com as alterações introduzidas pela Port 881/84, de 04-Dez e 623/85, de 21-Ago,\
+    \ pelo constante do anexo I da PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:464995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685197:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:615796:por
+  label: "Revogado pelo DEC LEI.288/2000.2000.11.13.PCM DR.IS-A [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-2000-615796
+  date: '2000-11-13'
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:13Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +135,9 @@ O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria-Geral da Presidência da República é um órgão de apoio administrativo cujas atribuições, orgânica e funcionamento se regem pelas disposições do presente diploma.
+Artigo 1.º A Secretaria-Geral da Presidência da República é um órgão de apoio administrativo cujas atribuições, orgânica e funcionamento se regem pelas disposições do presente diploma.
 
-###### Art. 2.º São atribuições da Secretaria-Geral da Presidência da República:
+Art. 2.º São atribuições da Secretaria-Geral da Presidência da República:
 
 a) Assegurar a eficiente execução dos serviços administrativos da Presidência;
 
@@ -110,7 +147,7 @@ b) Executar todo o serviço de expediente e outros que à Chancelaria das Ordens
 
 #### SECÇÃO I — Dos serviços em geral
 
-###### Art. 3.º - 1 - A Secretaria-Geral é dirigida pelo secretário-geral da Presidência da República.
+Art. 3.º - 1 - A Secretaria-Geral é dirigida pelo secretário-geral da Presidência da República.
 
 2 - O secretário-geral da Presidência da República, que, por inerência, é o secretário-geral das Ordens, coordena e superintende em todos os serviços da Secretaria-Geral, competindo-lhe:
 
@@ -134,7 +171,7 @@ i) Promover quaisquer estudos e trabalhos de investigação com vista ao esclare
 
 3. O secretário-geral perceberá uma quantia para despesas de representação que lhe for atribuída pela Presidência do Conselho de Ministros.
 
-###### Art. 4.º A Secretaria-Geral da Presidência da República compreende os seguintes serviços:
+Art. 4.º A Secretaria-Geral da Presidência da República compreende os seguintes serviços:
 
 a) A Direcção dos Serviços Administrativos;
 
@@ -142,7 +179,7 @@ b) A Secção da Chancelaria das Ordens.
 
 #### SECÇÃO II — Direcção dos Serviços Administrativos
 
-###### Art. 5.º A Direcção dos Serviços Administrativos tem a seu cargo a administração de pessoal, a contabilidade e a gestão patrimonial de todos os serviços da Presidência da República e compreende uma Repartição de Administração-Geral, que engloba as seguintes secções:
+Art. 5.º A Direcção dos Serviços Administrativos tem a seu cargo a administração de pessoal, a contabilidade e a gestão patrimonial de todos os serviços da Presidência da República e compreende uma Repartição de Administração-Geral, que engloba as seguintes secções:
 
 a) Secção de Pessoal e Expediente;
 
@@ -152,7 +189,7 @@ c) Secção do Património e Economato;
 
 d) Secção de Conservação das Instalações do Palácio e Jardins.
 
-###### Art. 6.º Compete ao director dos Serviços Administrativos:
+Art. 6.º Compete ao director dos Serviços Administrativos:
 
 a) Coadjuvar o secretário-geral no exercício das suas funções;
 
@@ -160,7 +197,7 @@ b) Submeter à consideração do secretário-geral todos os assuntos que careça
 
 c) Despachar todos os assuntos de carácter administrativo que estejam na alçada da sua competência ou aqueles em relação aos quais haja recebido delegação.
 
-###### Art. 7.º Compete ao chefe da Repartição de Administração-Geral:
+Art. 7.º Compete ao chefe da Repartição de Administração-Geral:
 
 a) Coadjuvar o director dos Serviços Administrativos em todos os actos da sua competência;
 
@@ -168,7 +205,7 @@ b) Orientar e fiscalizar o trabalho da Repartição, organizando a sua distribui
 
 c) Despachar todos os assuntos de carácter administrativo que estejam na alçada da sua competência ou aqueles em relação aos quais possa vir a receber delegação.
 
-###### Art. 8.º Compete à Secção de Pessoal e Expediente:
+Art. 8.º Compete à Secção de Pessoal e Expediente:
 
 a) Lavrar os autos de posse e declarações de compromisso de honra dos membros do Governo e de outras individualidades cujas posses sejam conferidas pelo Presidente da República;
 
@@ -180,7 +217,7 @@ d) Proceder ao processamento dos vencimentos e outras remunerações de todo o p
 
 e) Organizar e manter actualizados os processos individuais do mesmo.
 
-###### Art. 9.º Compete à Secção de Contabilidade:
+Art. 9.º Compete à Secção de Contabilidade:
 
 a) Preparar e elaborar as propostas de orçamento para cada ano económico;
 
@@ -192,7 +229,7 @@ d) Escriturar o livro de contas correntes com a inscrição de todas as rubricas
 
 e) Processar todas as despesas, de harmonia com as respectivas requisições ou obrigações antecipadamente assumidas, correspondentes à aquisição de bens materiais ou prestação de serviços.
 
-###### Art. 10.º Compete à Secção do Património e Economato:
+Art. 10.º Compete à Secção do Património e Economato:
 
 a) Dirigir as tarefas do pessoal auxiliar, nomeadamente cometendo aos encarregados dos diferentes serviços as suas missões específicas;
 
@@ -204,11 +241,13 @@ d) Zelar pela boa conservação do parque automóvel e exercer a fiscalização 
 
 e) Vigiar os depósitos ou armazéns de material e combustíveis ou lubrificantes e fiscalizar a utilização dos mesmos.
 
-###### Art. 11.º Compete à Secção de Conservação das Instalações do Palácio e Jardins manter no melhor estado de conservação o edifício da Presidência da República e o seu recheio, incluindo a residência oficial do Presidente da República, bem como os respectivos jardins, e promover todas as beneficiações que se mostrem convenientes, em colaboração com os serviços competentes de outros departamentos.
+Art. 11.º Compete à Secção de Conservação das Instalações do Palácio e Jardins manter no melhor estado de conservação o edifício da Presidência da República e o seu recheio, incluindo a residência oficial do Presidente da República, bem como os respectivos jardins, e promover todas as beneficiações que se mostrem convenientes, em colaboração com os serviços competentes de outros departamentos.
 
-#### SECÇÃO III — Secção da Chancelaria das Ordens
+#### SECÇÃO III
 
-###### Art. 12.º A Secção da Chancelaria das Ordens tem por missão:
+#### Secção da Chancelaria das Ordens
+
+Art. 12.º A Secção da Chancelaria das Ordens tem por missão:
 
 a) O expediente relativo às ordens honoríficas;
 
@@ -220,19 +259,19 @@ d) O desempenho de todas as tarefas administrativas que assegurem o regular func
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 13.º - 1 - A Secretaria-Geral da Presidência da República dispõe do pessoal do quadro publicado em anexo ao presente diploma.
+Art. 13.º - 1 - A Secretaria-Geral da Presidência da República dispõe do pessoal do quadro publicado em anexo ao presente diploma.
 
 2 - O quadro referido no número anterior poderá ser alterado por iniciativa do secretário-geral da Presidência da República mediante portaria conjunta do Primeiro-Ministro, do Ministro das Finanças e do Secretário de Estado da Administração Pública.
 
 3 - O pessoal da Secretaria-Geral será distribuído pelos diversos serviços que a integram mediante despacho do secretário-geral, ouvidos os responsáveis por aqueles serviços.
 
-###### Art. 14.º O lugar de secretário-geral será provido, em comissão de serviço por três anos renovável, por nomeação do Primeiro-Ministro, com a anuência prévia do Presidente da República, após apreciação curricular, e recair em indivíduo habilitado com licenciatura adequada, sempre que possível já vinculado à função pública, de reconhecida competência e que possua experiência válida para o exercício das funções.
+Art. 14.º O lugar de secretário-geral será provido, em comissão de serviço por três anos renovável, por nomeação do Primeiro-Ministro, com a anuência prévia do Presidente da República, após apreciação curricular, e recair em indivíduo habilitado com licenciatura adequada, sempre que possível já vinculado à função pública, de reconhecida competência e que possua experiência válida para o exercício das funções.
 
-###### Art. 15.º O lugar de director dos Serviços Administrativos será provido nos termos da lei geral.
+Art. 15.º O lugar de director dos Serviços Administrativos será provido nos termos da lei geral.
 
-###### Art. 16.º O lugar de chefe de repartição será provido, por escolha do Primeiro-Ministro e sob proposta do secretário-geral, de entre os chefes de secção com mais de três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com o curso superior adequado.
+Art. 16.º O lugar de chefe de repartição será provido, por escolha do Primeiro-Ministro e sob proposta do secretário-geral, de entre os chefes de secção com mais de três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com o curso superior adequado.
 
-###### Art. 17.º - 1 - As categorias de técnico auxiliar serão providas nos termos da lei geral.
+Art. 17.º - 1 - As categorias de técnico auxiliar serão providas nos termos da lei geral.
 
 2 - Os lugares de chefe de secção serão providos, por escolha do Primeiro-Ministro e sob proposta do secretário-geral, de entre diplomados com curso superior adequado ou entre os primeiros-oficiais do respectivo quadro com mais de três anos de bom e efectivo serviço na categoria.
 
@@ -242,9 +281,9 @@ d) O desempenho de todas as tarefas administrativas que assegurem o regular func
 
 5 - Os lugares de escriturário-dactilógrafo serão providos, por concurso de prestação de provas de selecção, de entre indivíduos que possuam como habilitação mínima a escolaridade obrigatória, de harmonia com a idade do candidato.
 
-###### Art. 18.º O lugar de encarregado do parque de viaturas automóveis será provido de entre os motoristas ligeiros de 1.ª classe com mais de cinco anos na categoria.
+Art. 18.º O lugar de encarregado do parque de viaturas automóveis será provido de entre os motoristas ligeiros de 1.ª classe com mais de cinco anos na categoria.
 
-###### Art. 19.º - 1 - O provimento do pessoal da Secretaria-Geral será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 19.º - 1 - O provimento do pessoal da Secretaria-Geral será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2 - Salvo disposição especial em contrário, as nomeações para os lugares do quadro anexo ao presente diploma serão feitas provisoriamente ou em comissão de serviço durante o período de um ano.
 
@@ -256,7 +295,7 @@ b) Regressará ao lugar de origem ou será exonerado, conforme se trate de comis
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 20.º - 1 - Até 31 de Dezembro de 1979, o provimento dos lugares criados pelo presente diploma poderá fazer-se de entre o pessoal que, à data da entrada em vigor deste decreto-lei, se encontre vinculado a qualquer título aos serviços da Presidência da República, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:
+Art. 20.º - 1 - Até 31 de Dezembro de 1979, o provimento dos lugares criados pelo presente diploma poderá fazer-se de entre o pessoal que, à data da entrada em vigor deste decreto-lei, se encontre vinculado a qualquer título aos serviços da Presidência da República, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -270,20 +309,20 @@ d) Para categoria correspondente às funções que o funcionário actualmente de
 
 3 - Para os efeitos das alíneas b) e c) do n.º 1, poderão considerar-se verificados, a título excepcional, os requisitos legais quando, não tendo sido possível a promoção à categoria imediatamente superior, o funcionário tenha exercido de facto as funções a esta correspondentes, durante o período de tempo prescrito na lei geral, por imperiosos motivos de serviço e por forma exemplar.
 
-###### Art. 21.º O quadro do pessoal referido neste diploma deixa de estar integrado no quadro único mencionado nos Decretos-Leis n.os 42593, de 19 de Outubro de 1959, e 39889, de 5 de Novembro de 1954.
+Art. 21.º O quadro do pessoal referido neste diploma deixa de estar integrado no quadro único mencionado nos Decretos-Leis n.os 42593, de 19 de Outubro de 1959, e 39889, de 5 de Novembro de 1954.
 
-###### Art. 22.º As despesas resultantes da execução deste decreto-lei serão satisfeitas no ano em curso de conta das disponibilidades das correspondentes dotações para o fim inscritas no vigente orçamento de Encargos Gerais da Nação.
+Art. 22.º As despesas resultantes da execução deste decreto-lei serão satisfeitas no ano em curso de conta das disponibilidades das correspondentes dotações para o fim inscritas no vigente orçamento de Encargos Gerais da Nação.
 
-###### Art. 23.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do Secretário de Estado da Administração Pública, de acordo com as respectivas competências.
+Art. 23.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do Secretário de Estado da Administração Pública, de acordo com as respectivas competências.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do pessoal a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29503/00560060.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29503/00560060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29503/00560060.pdf)

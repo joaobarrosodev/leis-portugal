@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/297-1971-642744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef88ea0736dc12be28b41eea0b79c7f094fa250faebba675520c91553affb671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b7f7eaa793e1770b2583779d99cc4cc0b0d053e78607738e2891c36da4464f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445498:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:14Z'
   warnings: []
   errors: []
 ---
@@ -89,191 +101,191 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 499099$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 499099$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 9.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
+Capítulo 9.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
 
-###### Artigo 144.º «Remunerações certas ao pessoal em exercício»:
+Artigo 144.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério das Finanças
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério do Interior
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 7.º «Remunerações certas ao pessoal em exercício»:
+Artigo 7.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério das Obras Públicas
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 11.º «Remunerações certas ao pessoal em exercício»:
+Artigo 11.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério do Ultramar
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 30.º «Remunerações certas ao pessoal em exercício»:
+Artigo 30.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério da Educação Nacional
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério da Economia
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 21.º «Remunerações certas ao pessoal em exercício»:
+Artigo 21.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Agrícolas»:
+Capítulo 5.º «Direcção-Geral dos Serviços Agrícolas»:
 
-###### Artigo 49.º «Remunerações certas ao pessoal em exercício»:
+Artigo 49.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante nove meses e oito dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante oito meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
 Ministério da Saúde e Assistência
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16300/10061008.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução representativas de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução representativas de redução em verbas de despesa:
 
 Encargos Gerais da Nação
 
-### Capítulo 9.º, artigo 144.º, n.º 1) ... 48186$00
+Capítulo 9.º, artigo 144.º, n.º 1) ... 48186$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 61161$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 61161$00
 
-### Capítulo 11.º, artigo 139.º, n.º 1) ... 11118$00
+Capítulo 11.º, artigo 139.º, n.º 1) ... 11118$00
 
 ... 72279$00
 
 Ministério do Interior
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 24093$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 24093$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 2.º, artigo 7.º, n.º 1) ... 24093$00
+Capítulo 2.º, artigo 7.º, n.º 1) ... 24093$00
 
 Ministério das Obras Públicas
 
-### Capítulo 2.º, artigo 11.º, n.º 1) ... 48186$00
+Capítulo 2.º, artigo 11.º, n.º 1) ... 48186$00
 
 Ministério do Ultramar
 
-### Capítulo 2.º, artigo 30.º, n.º 1) ... 72279$00
+Capítulo 2.º, artigo 30.º, n.º 1) ... 72279$00
 
 Ministério da Educação Nacional
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 72279$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 72279$00
 
 Ministério da Economia
 
-### Capítulo 2.º, artigo 21.º, n.º 1) ... 24093$00
+Capítulo 2.º, artigo 21.º, n.º 1) ... 24093$00
 
-### Capítulo 5.º, artigo 49.º, n.º 1) ... 11118$00
+Capítulo 5.º, artigo 49.º, n.º 1) ... 11118$00
 
 ... 35211$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 41600$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 41600$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 60893$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 60893$00
 
 ... 499099$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério da Economia:
+Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério da Economia:
 
 No desenvolvimento do quadro afecto à rubrica descrita no capítulo 1.º, artigo 1.º, n.º 1), onde se lê:
 
@@ -311,8 +323,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 28 de Junho de 1971.**
+Promulgado em 28 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

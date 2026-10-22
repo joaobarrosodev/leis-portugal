@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/10/25200/23522353.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43280-1960-514458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69552ab34501e05caceff098151599a087e838dcd55e9d5003fde0533fd2bf33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43e6423d6cb989d20dcd0101a16e4e038fac4fb98d698e484051bee21e962e19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Albergue de Mendicidade
+- Mendicidade
+- Serviço de Repressão da Mendicidade
 relationships:
 - type: amended_by
   target: pt:dre:428013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:428013:por
+  label: "Revogado a partir de 01.06.1976 pelo DEC LEI.365/76.15.05.1976.MAI, DR.IS [114] de 15.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1976-428013
+  date: '1976-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:10Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +114,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Compete ao Ministério do Interior, por intermédio das autoridades administrativas e policiais, estabelecer e fazer executar as medidas de carácter policial destinadas a reprimir a mendicidade, sem prejuízo da competência que a lei atribui à Polícia Judiciária.
+Artigo 1.º Compete ao Ministério do Interior, por intermédio das autoridades administrativas e policiais, estabelecer e fazer executar as medidas de carácter policial destinadas a reprimir a mendicidade, sem prejuízo da competência que a lei atribui à Polícia Judiciária.
 
-###### Art. 2.º Os mendigos recolhidos serão, conforme os casos:
+Art. 2.º Os mendigos recolhidos serão, conforme os casos:
 
 a) Enviados aos tribunais competentes para aplicação de medidas de segurança quando, tendo mais de 16 anos, se encontram nas condições previstas no n.º 2.º do artigo 71.º do Código Penal ou no artigo 4.º do [Decreto-Lei n.º 36448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36448-1947-182396), de 1 de Agosto de 1947;
 
@@ -110,44 +126,44 @@ c) Enviados aos estabelecimentos adequados, dependentes do Ministério da Saúde
 
 d) Mantidos nos albergues, nos restantes casos, pelo tempo indispensável para que se lhes proporcionem condições necessárias à angariação do seu sustento.
 
-###### Art. 3.º Os mendigos recolhidos, desde que não estejam abrangidos pela alínea a) do artigo anterior, poderão ainda ser objecto das seguintes medidas:
+Art. 3.º Os mendigos recolhidos, desde que não estejam abrangidos pela alínea a) do artigo anterior, poderão ainda ser objecto das seguintes medidas:
 
 a) Entregues às respectivas famílias ou a pessoas que se responsabilizem pela sua manutenção, quando inválidos, doentes ou menores de 16 anos;
 
 b) Enviados para a localidade da sua residência, ou, se não tiverem residência certa, para a localidade da sua naturalidade.
 
-###### Art. 4.º Os albergues e seus centros de trabalho são estabelecimentos oficiais, com personalidade jurídica e autonomia administrativa e financeira, e ficam sujeito à orientação e fiscalização do Ministério do Interior.
+Art. 4.º Os albergues e seus centros de trabalho são estabelecimentos oficiais, com personalidade jurídica e autonomia administrativa e financeira, e ficam sujeito à orientação e fiscalização do Ministério do Interior.
 
 § único. Consideram-se integrados nos albergues os postos de detenção concelhios.
 
-###### Art. 5.º O produto de subscrições, festas e espectáculos, promovidos pelo Ministério do Interior ou pelas comissões dirigentes dos albergues, para ocorrer aos encargos com a repressão policial da mendicidade, reverte para os albergues, conforme for determinado pelo Ministro do Interior.
+Art. 5.º O produto de subscrições, festas e espectáculos, promovidos pelo Ministério do Interior ou pelas comissões dirigentes dos albergues, para ocorrer aos encargos com a repressão policial da mendicidade, reverte para os albergues, conforme for determinado pelo Ministro do Interior.
 
-###### Art. 6.º Não são executórias sem aprovação do Ministro do Interior as deliberações das comissões dirigentes dos albergues que aprovem orçamentos ordinários ou suplementares ou fixem quadros, forma de provimento e vencimentos do pessoal.
+Art. 6.º Não são executórias sem aprovação do Ministro do Interior as deliberações das comissões dirigentes dos albergues que aprovem orçamentos ordinários ou suplementares ou fixem quadros, forma de provimento e vencimentos do pessoal.
 
-###### Art. 7.º Compete ao Tribunal de Contas julgar as contas de gerência dos albergues.
+Art. 7.º Compete ao Tribunal de Contas julgar as contas de gerência dos albergues.
 
 § 1.º As contas serão apresentadas até 15 de Março do ano seguinte àquele a que respeitarem.
 
 § 2.º Das contas de gerência submetidas a julgamento será remetido duplicado ao Ministério do Interior.
 
-###### Art. 8.º É criado o Serviço de Repressão da Mendicidade, que funcionará junto da Secretaria-Geral do Ministério do Interior, sob a chefia imediata de um director, com o vencimento da letra E.
+Art. 8.º É criado o Serviço de Repressão da Mendicidade, que funcionará junto da Secretaria-Geral do Ministério do Interior, sob a chefia imediata de um director, com o vencimento da letra E.
 
-###### Art. 9.º Compete ao director do Serviço de Repressão da Mendicidade propor ao Ministro do Interior as medidas de orientação e fiscalização das actividades relativas à repressão da mendicidade e superintender nos albergues.
+Art. 9.º Compete ao director do Serviço de Repressão da Mendicidade propor ao Ministro do Interior as medidas de orientação e fiscalização das actividades relativas à repressão da mendicidade e superintender nos albergues.
 
-###### Art. 10.º O director do Serviço de Repressão da Mendicidade é de livre nomeação do Ministro do Interior.
+Art. 10.º O director do Serviço de Repressão da Mendicidade é de livre nomeação do Ministro do Interior.
 
 § único. Se a nomeação recair em militar, no activo ou na reserva, aplicar-se-á o disposto no artigo 18.º do [Decreto-Lei n.º 28408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28408-1937-668912), de 31 de Dezembro de 1937.
 
-###### Art. 11.º Para assegurar o expediente do Serviço de Repressão da Mendicidade, considera-se o quadro da Secretaria-Geral aumentado de um lugar de terceiro-oficial, podendo ainda o Ministro do Interior, se o movimento o exigir, incumbir de cooperar nos trabalhos funcionários do próprio Ministério, sem prejuízo do desempenho das funções dos respectivos cargos e mediante o abono de gratificação a fixar pelo mesmo Ministro, de acordo com o Ministro das Finanças.
+Art. 11.º Para assegurar o expediente do Serviço de Repressão da Mendicidade, considera-se o quadro da Secretaria-Geral aumentado de um lugar de terceiro-oficial, podendo ainda o Ministro do Interior, se o movimento o exigir, incumbir de cooperar nos trabalhos funcionários do próprio Ministério, sem prejuízo do desempenho das funções dos respectivos cargos e mediante o abono de gratificação a fixar pelo mesmo Ministro, de acordo com o Ministro das Finanças.
 
-###### Art. 12.º Fixar-se-á anualmente, no diploma que regular o Fundo do Socorro Social, a parte das respectivas receitas destinada à instalação e manutenção dos albergues, que será aplicada conforme determinação do Ministro do Interior.
+Art. 12.º Fixar-se-á anualmente, no diploma que regular o Fundo do Socorro Social, a parte das respectivas receitas destinada à instalação e manutenção dos albergues, que será aplicada conforme determinação do Ministro do Interior.
 
 § único. Da participação a que se refere este artigo será deduzida e entregue nos cofres do Estado, até 31 de Dezembro de cada ano, a importância correspondente ao total da despesa efectuada no ano anterior com o Serviço de Repressão da Mendicidade.
 
-###### Art. 13.º O Ministro do Interior aprovará por portaria, até 31 de Dezembro de 1960, as normas regulamentares do funcionamento dos albergues.
+Art. 13.º O Ministro do Interior aprovará por portaria, até 31 de Dezembro de 1960, as normas regulamentares do funcionamento dos albergues.
 
-###### Art. 14.º Em tudo o que não for contrariado por este diploma mantêm-se em vigor as disposições dos Decretos-Leis n.os 30389, de 20 de Abril de 1940, e 36448, de 1 de Agosto de 1947.
+Art. 14.º Em tudo o que não for contrariado por este diploma mantêm-se em vigor as disposições dos Decretos-Leis n.os 30389, de 20 de Abril de 1940, e 36448, de 1 de Agosto de 1947.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

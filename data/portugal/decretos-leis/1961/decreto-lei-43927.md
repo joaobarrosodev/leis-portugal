@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43927-1961-180064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f37bc30ab2909cf0cfe0958745c8f9bfc4602d2244f68d1f224727ef1369acf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 507519e03e4a92619ab450eb6e835335d2a4eaaa28ba7b618dd533ce84980d9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquidiocese
+- Compensação Financeira
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Documento Autentico
+- Escola de Regentes Agrícolas
+- Évora
+- Fiscalização
+- Instalação de Serviços
+- Junta das Construções para o Ensino Técnico e Secundário
+- Obras Públicas
+- Transferência Patrimonial
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:26Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +102,9 @@ Tendo o Ministério das Obras Públicas e a Arquidiocese de Évora, de quem é p
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É a Junta das Construções para o Ensino Técnico e Secundário autorizada a celebrar com a Arquidiocese de Évora a escritura de transferência para a posse do Estado da Herdade da Mitra, para instalação da Escola de Regentes Agrícolas de Évora.
+Artigo 1.º É a Junta das Construções para o Ensino Técnico e Secundário autorizada a celebrar com a Arquidiocese de Évora a escritura de transferência para a posse do Estado da Herdade da Mitra, para instalação da Escola de Regentes Agrícolas de Évora.
 
-###### Art. 2.º Como compensação à Arquidiocese de Évora pela transferência da referida propriedade, obriga-se o Estado a efectuar os seguintes pagamentos:
+Art. 2.º Como compensação à Arquidiocese de Évora pela transferência da referida propriedade, obriga-se o Estado a efectuar os seguintes pagamentos:
 
 1.º Indemnização do Tesouro, no acto da escritura, a liquidar pela Junta das Construções para o Ensino Técnico e Secundário ... 1290000$00
 
@@ -103,10 +114,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ... 3290000$00
 
-###### Art. 3.º As obras a efectuar no Convento dos Agostinhos serão executadas sob a orientação e fiscalização da Direcção-Geral dos Edifícios e Monumentos Nacionais, sendo os correspondentes encargos suportados pela Junta das Construções para o Ensino Técnico e Secundário, não podendo despender-se com pagamentos relativos a trabalhos executados mais de 300000$00 no corrente ano e 700000$00, ou o que se apurar como saldo, no ano de 1962.
+Art. 3.º As obras a efectuar no Convento dos Agostinhos serão executadas sob a orientação e fiscalização da Direcção-Geral dos Edifícios e Monumentos Nacionais, sendo os correspondentes encargos suportados pela Junta das Construções para o Ensino Técnico e Secundário, não podendo despender-se com pagamentos relativos a trabalhos executados mais de 300000$00 no corrente ano e 700000$00, ou o que se apurar como saldo, no ano de 1962.
 
-###### Art. 4.º O Ministério das Obras Públicas assegurará a oportuna inscrição no respectivo orçamento da comparticipação do Fundo de Desemprego, em três anuidades, que não deverão exceder o ano de 1963.
+Art. 4.º O Ministério das Obras Públicas assegurará a oportuna inscrição no respectivo orçamento da comparticipação do Fundo de Desemprego, em três anuidades, que não deverão exceder o ano de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

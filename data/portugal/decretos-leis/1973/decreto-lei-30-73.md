@@ -48,40 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1973-684975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f501dfc82eca4ebc310ccc81dcfb9ead7036ddd1a053418a4030217fe176dc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53674b62086f0f596f09cbc3b8631ad0a4da4705b5c714020c4007e65b0c5120
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Base das Lajes
+- Transporte de Carga
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:447954:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:21Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +102,16 @@ Atendendo a que elas têm o fim de compensar o armamento nacional que, em execu�
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As receitas resultantes da aplicação do acordo entre os Governos Americano e Português sobre o transporte das cargas destinadas à base militar das Lajes serão atribuídas às companhias de navegação que forem indicadas por despacho conjunto dos Ministros das Finanças e da Marinha e nas condições nesse despacho definidas.
+Artigo 1.º As receitas resultantes da aplicação do acordo entre os Governos Americano e Português sobre o transporte das cargas destinadas à base militar das Lajes serão atribuídas às companhias de navegação que forem indicadas por despacho conjunto dos Ministros das Finanças e da Marinha e nas condições nesse despacho definidas.
 
-###### Art. 2.º Ficam validadas as entregas a companhias de navegação das receitas a que se refere o artigo anterior, que até esta data foram efectuadas nos termos do disposto no despacho n.º 84, de 21 de Outubro de 1967, do Ministro da Marinha.
+Art. 2.º Ficam validadas as entregas a companhias de navegação das receitas a que se refere o artigo anterior, que até esta data foram efectuadas nos termos do disposto no despacho n.º 84, de 21 de Outubro de 1967, do Ministro da Marinha.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 
-**Promulgado em 1 de Fevereiro de 1973.**
+Promulgado em 1 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/12/30300/24702472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47470-1966-488097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 677f7b696afa9cb649b5570dd49b8277b353f3b72ee59fb0985ff34ab91eb9d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 869eb0ebf938b171818b01ac97e02ae97263f90ec827dfbbe2e9249ddf7ae4c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Nacional dos Vinhos
+- Taxa
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140509:por
+  label: "Alterado o nº 1 do art. 6º pelo DEC LEI.79/77.03.03.1977.MCT, DR.IS [52] de 03.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1977-140509
+  date: '1977-03-03'
+- type: amended_by
+  target: pt:dre:448892:por
+  label: "Alterado o nº 1 do art. 6º pelo DEC LEI.30/78.02.02.1978.MCT, DR.IS [28] de 02.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1978-448892
+  date: '1978-02-02'
+- type: cites
+  target: pt:dre:472536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553965:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogado pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogado pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:45Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +134,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Sobre os vinhos e derivados existentes em poder do comércio armazenista ou exportador em 31 de Dezembro do ano corrente incide a taxa a que se refere o [Decreto-Lei n.º 46861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46861-1966-488820), de 7 de Fevereiro de 1966, a qual constitui receita da Junta Nacional do Vinho e é cobrada nos termos dos números seguintes.
+Artigo 1.º - 1. Sobre os vinhos e derivados existentes em poder do comércio armazenista ou exportador em 31 de Dezembro do ano corrente incide a taxa a que se refere o [Decreto-Lei n.º 46861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46861-1966-488820), de 7 de Fevereiro de 1966, a qual constitui receita da Junta Nacional do Vinho e é cobrada nos termos dos números seguintes.
 
 2. A liquidação da taxa efectuar-se-á em relação a todos os produtos de que sejam detentores os armazenistas sócios e registados no Grémio dos Armazenistas de Vinhos e os inscritos no Grémio do Comércio de Exportação de Vinhos, seja qual for o título por que os detenham e o ano da produção, exceptuando-se apenas os vinhos mencionados no § 1.º do artigo 1.º daquele diploma.
 
@@ -113,7 +148,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 7. Em casos especiais devidamente justificados poderá o Secretário de Estado do Comércio, em despacho, sob proposta da Junta Nacional do Vinho, autorizar a restituição ou dispensar o pagamento das quantias relativas à taxa que incida sobre produtos que se encontrem em armazém, com destino a ser envelhecidos e engarrafados.
 
-###### Art. 2.º - 1. Sobre os vinhos e derivados em poder da produção na área onde a Junta Nacional do Vinho exerce actualmente a sua acção de regularização do mercado, exceptuando os provenientes da região demarcada dos vinhos verdes e da região vinícola da Madeira, incidirá a taxa de $20 por litro, que constitui receita deste organismo.
+Art. 2.º - 1. Sobre os vinhos e derivados em poder da produção na área onde a Junta Nacional do Vinho exerce actualmente a sua acção de regularização do mercado, exceptuando os provenientes da região demarcada dos vinhos verdes e da região vinícola da Madeira, incidirá a taxa de $20 por litro, que constitui receita deste organismo.
 
 2. A taxa incidirá sobre a produção constante do manifesto.
 
@@ -121,7 +156,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Em casos especiais devidamente justificados poderá o Secretário de Estado do Comércio, em despacho, sob proposta da Junta Nacional do Vinho, dispensar o pagamento das quantias correspondentes à taxa que incida sobre produtos que se encontrem em adega, com destino a ser envelhecidos e engarrafados como marcas próprias.
 
-###### Art. 3.º Ficam obrigados ao pagamento da taxa a que se refere o artigo anterior:
+Art. 3.º Ficam obrigados ao pagamento da taxa a que se refere o artigo anterior:
 
 a) Os armazenistas, retalhistas, exportadores, destiladores e fabricantes de vinagre, pelos produtos que comprem à produção;
 
@@ -129,7 +164,7 @@ b) Os produtores-armazenistas, os produtores-retalhistas e os produtores-exporta
 
 c) Os produtores, pelos produtos da sua produção que sejam por eles vendidos directamente ao consumo, a este destinados, adquiridos pela Junta Nacional do Vinho ou que, no final da campanha, ainda não tenham sido objecto do pagamento da taxa por qualquer das entidades indicadas nas alíneas deste artigo.
 
-###### Art. 4.º - 1. A cobrança da taxa a que se refere o artigo 2.º será efectuada nos termos dos números seguintes deste artigo e, relativamente aos produtos que sejam objecto de trânsito, através das guias estabelecidas na [Portaria n.º 21010](https://diariodarepublica.pt/dr/detalhe/portaria/21010-1964-553965), de 28 de Dezembro de 1964.
+Art. 4.º - 1. A cobrança da taxa a que se refere o artigo 2.º será efectuada nos termos dos números seguintes deste artigo e, relativamente aos produtos que sejam objecto de trânsito, através das guias estabelecidas na [Portaria n.º 21010](https://diariodarepublica.pt/dr/detalhe/portaria/21010-1964-553965), de 28 de Dezembro de 1964.
 
 2. A taxa referente aos produtos saídos da produção acompanhados de guias de trânsito emitidas pelos grémios da lavoura e organismos vitivinícolas regionais será cobrada por estes no momento da emissão da respectiva guia.
 
@@ -145,25 +180,25 @@ c) Os produtores, pelos produtos da sua produção que sejam por eles vendidos d
 
 8. A taxa respeitante aos produtos manifestados, relativamente aos quais, no início da nova campanha, ainda não tenha sido cobrada por qualquer das formas indicadas nos números anteriores, será paga no grémio da lavoura respectivo pelo produtor, nos dez dias seguintes ao da data do registo do aviso de pagamento, deduzindo-se das quantias determinadas o valor correspondente aos produtos destinados ao consumo próprio e da casa agrícola do produtor, dentro dos limites a estabelecer oportunamente em despacho do Secretário de Estado do Comércio.
 
-###### Art. 5.º Os grémios da lavoura e os organismos vitivinícolas regionais remeterão à Junta Nacional do Vinho, nos dias 10, 20 e último de cada mês, o produto por eles arrecadado no decêndio anterior.
+Art. 5.º Os grémios da lavoura e os organismos vitivinícolas regionais remeterão à Junta Nacional do Vinho, nos dias 10, 20 e último de cada mês, o produto por eles arrecadado no decêndio anterior.
 
-###### Art. 6.º - 1. Não sendo pago no seu vencimento qualquer débito relativo às taxas a que se refere este diploma, começarão a contar-se imediatamente juros de mora, calculados pela percentagem de 2 por cento por cada mês até 12º e pela de 3 por cento por cada um dos meses seguintes.
+Art. 6.º - 1. Não sendo pago no seu vencimento qualquer débito relativo às taxas a que se refere este diploma, começarão a contar-se imediatamente juros de mora, calculados pela percentagem de 2 por cento por cada mês até 12º e pela de 3 por cento por cada um dos meses seguintes.
 
 2. Passados 60 dias sobre o vencimento do montante das taxas ou de qualquer das suas prestações sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo, para arrecadação das importâncias em dívida, de acordo com as disposições e segundo o processo aplicáveis à cobrança das demais taxas arrecadadas pela Junta Nacional do Vinho, considerando-se também vencidas, para o efeito, as prestações que ainda se devam.
 
 3. Não poderão ser emitidas guias de trânsito a quem não tenha pago qualquer débito vencido proveniente das taxas do presente diploma.
 
-###### Art. 7.º A receita resultante da cobrança das taxas a que se refere este decreto-lei será ùnicamente aplicada na cobertura dos encargos que resultem da intervenção, bem como no pagamento das despesas de cobrança.
+Art. 7.º A receita resultante da cobrança das taxas a que se refere este decreto-lei será ùnicamente aplicada na cobertura dos encargos que resultem da intervenção, bem como no pagamento das despesas de cobrança.
 
-###### Art. 8.º Fica suspensa durante o ano de 1967 a acção de intervenção da Junta Nacional do Vinho na região demarcada dos vinhos verdes, podendo o Secretário de Estado do Comércio, por despacho, determinar a restituição à Comissão de Viticultura daquela região do produto da cobrança da taxa que, nos termos do [Decreto-Lei n.º 45675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45675-1964-472536), de 23 de Abril de 1964, constitui receita da Junta com vista às despesas de intervenção.
+Art. 8.º Fica suspensa durante o ano de 1967 a acção de intervenção da Junta Nacional do Vinho na região demarcada dos vinhos verdes, podendo o Secretário de Estado do Comércio, por despacho, determinar a restituição à Comissão de Viticultura daquela região do produto da cobrança da taxa que, nos termos do [Decreto-Lei n.º 45675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45675-1964-472536), de 23 de Abril de 1964, constitui receita da Junta com vista às despesas de intervenção.
 
-###### Art. 9.º As dúvidas e casos omissos suscitados na aplicação do presente diploma serão resolvidos em despacho do Secretário de Estado do Comércio.
+Art. 9.º As dúvidas e casos omissos suscitados na aplicação do presente diploma serão resolvidos em despacho do Secretário de Estado do Comércio.
 
-###### Art. 10.º Fica revogado o [Decreto-Lei n.º 46861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46861-1966-488820), de 7 de Fevereiro de 1966.
+Art. 10.º Fica revogado o [Decreto-Lei n.º 46861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46861-1966-488820), de 7 de Fevereiro de 1966.
 
-###### Art. 11.º O presente diploma entra em vigor no dia 1 de Janeiro de 1967.
+Art. 11.º O presente diploma entra em vigor no dia 1 de Janeiro de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado.
 

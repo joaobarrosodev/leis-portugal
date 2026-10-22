@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/24600/15301544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1970-147591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95052e0294f09cf0efb1737c334abf806d34a264cfe913de0610f144cb6e0330
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f857c55a56c1ad48b7f9317b503fb9c4983701b7456f3b5f3d3048aa547bd9f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Contribuição Industrial
+- Contribuição Predial
+- Convenção
+- Dupla Tributação
+- Evasão Fiscal
+- Finlândia
+- Imposto Complementar
+- Imposto de Capitais
+- Imposto de Mais-Valias
+- Imposto para a Defesa e Valorização do Ultramar
+- Imposto Profissional
+- Imposto sobre a Indústria Agrícola
+- Imposto sobre o Rendimento
+- Mais-Valias
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:117447716:por
+  label: Tornada pública a decisão da República da Finlândia de denunciar a Convenção, que deixará de se aplicar em ou depois
+    de 01.01.2019, pelo(a) Aviso n.º 146/2018 - Diário da República n.º 245/2018, Série I de 2018-12-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/146-2018-117447716
+  date: '2018-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:43Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +109,15 @@ de 23 de Outubro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção entre Portugal e a Finlândia para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e sobre o Capital, assinada em Helsínquia em 27 de Abril de 1970, cujos textos em português e inglês vão anexos ao presente decreto-lei.
+Artigo único. É aprovada para ratificação a Convenção entre Portugal e a Finlândia para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e sobre o Capital, assinada em Helsínquia em 27 de Abril de 1970, cujos textos em português e inglês vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 30 de Setembro de 1970.**
+Promulgado em 30 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Convenção entre Portugal e a Finlândia para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e sobre o Capital.
 

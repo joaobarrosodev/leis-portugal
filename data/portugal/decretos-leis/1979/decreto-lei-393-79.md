@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21900/24722472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1979-369793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b76e05387574b8cab624b3ff2f9fc14a2c6d49b70d4fa8fb9525ea3588fe93c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 801bb3d6600d01332cee58ffa9d1e54f14c41d09ec379c49bf29090d0de378e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Militar
+- Pessoal Contratado
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:412068:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:02Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +110,7 @@ Considerando que esta limitação poderá dificultar a alguns militares, nomeada
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. Ao artigo 5.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, são aditados um n.º 5 e um n.º 6, com as seguintes redacções:
+Artigo único. Ao artigo 5.º do [Decreto-Lei n.º 316-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068), de 29 de Abril, são aditados um n.º 5 e um n.º 6, com as seguintes redacções:
 
 5 - Os militares que, tendo terminado o último período de contrato, declarem desejar concorrer à Academia Militar ou à Escola de Formação de Sargentos e tenham ou possam vir a obter as condições exigidas nos respectivos concursos são autorizados, excepcionalmente, a efectuar novos períodos anuais de contrato até à sua admissão ou exclusão definitiva nos respectivos cursos.
 
@@ -104,8 +118,8 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 Visto e aprovado em Conselho da Revolução em 31 de Agosto de 1979.
 
-**Promulgado em 10 de Setembro de 1979.**
+Promulgado em 10 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

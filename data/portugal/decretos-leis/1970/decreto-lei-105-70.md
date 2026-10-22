@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/03/06300/03120313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1970-228782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6fa5449731faf862de4b75ff29fadf943f18f863fbfbca09936c24a9632498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d5eb547095892fd3343ce7e143bf4c4a7b4a8cc66618d3a649dabb8a9ef3be6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Electrotécnica Portuguesa
+- Controlo de Qualidade
+- Equipamento Eléctrico
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:228207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353734:por
+  label: "Transferidas para a Região Autónoma dos Açores, integrando-as na Secretaria Regional respectiva, todas as competências\
+    \ prosseguidas pela 2ª Repartição (Normalização) da Inspecção Geral dos Produtos Agrícolas e Industriais, nos termos dopresente\
+    \ diploma e recentemente cometidas a Direcção Geral da Qualidade, atráves do DN 126/78 de 31-Mai, pela DEC LEI.522/79.31.12.1979.GMR-RAA,\
+    \ DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/522-1979-353734
+  date: '1979-12-31'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228207:por
+  label: "Revogado pelo DEC LEI.183/86.12.07.1986.MIC, DR.IS [158] de 12.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1986-228207
+  date: '1986-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:34Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +134,9 @@ Nestas condições:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Comissão Electrotécnica Portuguesa transita para a Inspecção-Geral dos Produtos Agrícolas e Industriais, onde funcionará como organismo técnico e científico de consulta, e é reorganizada de acordo com o estipulado nos artigos seguintes.
+Artigo 1.º A Comissão Electrotécnica Portuguesa transita para a Inspecção-Geral dos Produtos Agrícolas e Industriais, onde funcionará como organismo técnico e científico de consulta, e é reorganizada de acordo com o estipulado nos artigos seguintes.
 
-###### Art. 2.º Compete à Comissão Electrotécnica Portuguesa:
+Art. 2.º Compete à Comissão Electrotécnica Portuguesa:
 
 a) Dar parecer, de acordo com o artigo 6.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, sobre as normas portuguesas que respeitem a:
 
@@ -115,7 +148,7 @@ b) Propor ao Conselho de Normalização a adopção, como normas, de recomendaç
 
 c) Assegurar a representação portuguesa junto da Comissão Electrotécnica Internacional, colaborando com este organismo no estudo de convenções internacionais que respeitem à electricidade e manter contacto com outros organismos congéneres do estrangeiro.
 
-###### Art. 3.º - 1. A Comissão Electrotécnica Portuguesa é presidida por um engenheiro electrotécnico de reconhecida competência e de livre escolha do Secretário de Estado da Indústria e terá a seguinte composição:
+Art. 3.º - 1. A Comissão Electrotécnica Portuguesa é presidida por um engenheiro electrotécnico de reconhecida competência e de livre escolha do Secretário de Estado da Indústria e terá a seguinte composição:
 
 a) Um professor do grupo de Electrotecnia do Instituto Superior Técnico;
 
@@ -149,34 +182,34 @@ o) Um engenheiro electrotécnico, funcionário da Inspecção-Geral dos Produtos
 
 2. O inspector-geral dos Produtos Agrícolas e Industriais pode convocar, sempre que o julgar necessário, a Comissão Electrotécnica Portuguesa para reunir sob a sua presidência.
 
-###### Art. 4.º - 1. A nomeação dos membros da Comissão Electrotécnica Portuguesa que o não sejam em representação dos seus cargos será feita em portaria do Secretário de Estado da Indústria, por períodos de três anos, precedendo consulta às entidades nela representadas.
+Art. 4.º - 1. A nomeação dos membros da Comissão Electrotécnica Portuguesa que o não sejam em representação dos seus cargos será feita em portaria do Secretário de Estado da Indústria, por períodos de três anos, precedendo consulta às entidades nela representadas.
 
 2. Os vogais a que se referem as alíneas a) b), c) e d) do n.º 1 do artigo 3.º serão propostos pelo Ministro da Educação Nacional, o mencionado na alínea f) pelo Ministro do Ultramar, e o referido na alínea j) pelo Ministro das Comunicações.
 
-###### Art. 5.º A Comissão Electrotécnica Portuguesa reunirá com a presença da maioria dos seus componentes, por convocação do presidente, e as suas deliberações serão tomadas por maioria de votos dos membros presentes; a entidade que presidir à sessão terá voto de qualidade.
+Art. 5.º A Comissão Electrotécnica Portuguesa reunirá com a presença da maioria dos seus componentes, por convocação do presidente, e as suas deliberações serão tomadas por maioria de votos dos membros presentes; a entidade que presidir à sessão terá voto de qualidade.
 
-###### Art. 6.º - 1. A Comissão Electrotécnica Portuguesa pode constituir, para o estudo de casos especializados, grupos de trabalho com o mínimo de três vogais, que escolherão entre si o presidente. Estes grupos de trabalho podem convidar pessoas estranhas à Comissão Electrotécnica Portuguesa para tomarem parte nos seus trabalhos.
+Art. 6.º - 1. A Comissão Electrotécnica Portuguesa pode constituir, para o estudo de casos especializados, grupos de trabalho com o mínimo de três vogais, que escolherão entre si o presidente. Estes grupos de trabalho podem convidar pessoas estranhas à Comissão Electrotécnica Portuguesa para tomarem parte nos seus trabalhos.
 
 2. A Comissão Electrotécnica Portuguesa pode delegar em qualquer dos grupos de trabalho que tenha constituído e emitir parecer sobre os assuntos da sua especialidade que devam ser submetidos à apreciação do Conselho de Normalização.
 
 3. Os pareceres a transmitir à Comissão Electrotécnica Internacional, ainda que elaborados pelos grupos de trabalho, devem ser submetidos à apreciação da Comissão Electrotécnica Portuguesa.
 
-###### Art. 7.º Todo o expediente e mais serviço da Comissão Electrotécnica Portuguesa serão assegurados pela secretaria da Comissão, que ficará integrada na Repartição de Normalização.
+Art. 7.º Todo o expediente e mais serviço da Comissão Electrotécnica Portuguesa serão assegurados pela secretaria da Comissão, que ficará integrada na Repartição de Normalização.
 
-###### Art. 8.º Os membros da Comissão Electrotécnica Portuguesa têm direito, nas suas deslocações em serviço, a transportes e ajudas de custo correspondentes ao grupo C a F do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, se outras mais elevadas não corresponderem às respectivas categorias, sendo funcionários, e, bem assim, a senhas de presença pelas reuniões a que assistirem.
+Art. 8.º Os membros da Comissão Electrotécnica Portuguesa têm direito, nas suas deslocações em serviço, a transportes e ajudas de custo correspondentes ao grupo C a F do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, se outras mais elevadas não corresponderem às respectivas categorias, sendo funcionários, e, bem assim, a senhas de presença pelas reuniões a que assistirem.
 
-###### Art. 9.º - 1. Para satisfazer as necessidades decorrentes deste diploma, o quadro técnico da Inspecção-Geral dos Produtos Agrícolas e Industriais é aumentado com um engenheiro de 1.ª classe e o quadro administrativo com três terceiros-oficiais.
+Art. 9.º - 1. Para satisfazer as necessidades decorrentes deste diploma, o quadro técnico da Inspecção-Geral dos Produtos Agrícolas e Industriais é aumentado com um engenheiro de 1.ª classe e o quadro administrativo com três terceiros-oficiais.
 
 2. A primeira nomeação do engenheiro a que se refere o corpo do artigo é feita pelo Secretário de Estado da Indústria, sob proposta do inspector-geral dos Produtos Agrícolas e Industriais, e pode recair em um engenheiro de nomeação vitalícia e de qualquer categoria dos quadros da Inspecção-Geral dos Produtos Agrícolas e Industriais ou da Direcção-Geral dos Serviços Eléctricos; a este engenheiro será contada, para todos os efeitos, a antiguidade que tiver no quadro de que provém.
 
-###### Art. 10.º No corrente ano económico as despesas resultantes das alterações aos quadros previstas no artigo anterior serão suportadas pelas disponibilidades da verba de pessoal do quadro da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+Art. 10.º No corrente ano económico as despesas resultantes das alterações aos quadros previstas no artigo anterior serão suportadas pelas disponibilidades da verba de pessoal do quadro da Inspecção-Geral dos Produtos Agrícolas e Industriais.
 
-###### Art. 11.º Ficam revogados o [Decreto-Lei n.º 35543](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35543-1946-338834), de 22 de Março de 1946, e o [Decreto-Lei n.º 38168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38168-1951-323129), de 10 de Fevereiro de 1951.
+Art. 11.º Ficam revogados o [Decreto-Lei n.º 35543](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35543-1946-338834), de 22 de Março de 1946, e o [Decreto-Lei n.º 38168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38168-1951-323129), de 10 de Fevereiro de 1951.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 5 de Março de 1970.**
+Promulgado em 5 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45661-1964-471558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 662b018303f86bcd7815f107d144119c9036d220364c8f42bcfaa2b5ecab1dcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfe88f461887fb1a69a3b415a118cbaa3b34b4ed9bf8127396dda3a8f0d7ffda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato
+- Exército
+- Forças Armadas
+- Metrópole
+- Militar
+- Ministro do Exército
+- Oficial Miliciano
+- Serviço Militar
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:668690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:40Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +105,19 @@ Mas reconhecendo-se a vantagem em melhorar o enquadramento aproveitando os ofici
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os oficiais do quadro de complemento não abrangidos pelas obrigações de serviço previstas na Lei do Recrutamento e Serviço Militar nem mantidos ao serviço nas condições de quaisquer outras disposições legais podem continuar ou voltar ao serviço, quer na metrópole, quer no ultramar, em regime de contrato nas condições previstas no presente diploma.
+Artigo 1.º Os oficiais do quadro de complemento não abrangidos pelas obrigações de serviço previstas na Lei do Recrutamento e Serviço Militar nem mantidos ao serviço nas condições de quaisquer outras disposições legais podem continuar ou voltar ao serviço, quer na metrópole, quer no ultramar, em regime de contrato nas condições previstas no presente diploma.
 
-###### Art. 2.º Os contratos são válidos por períodos de três anos, renováveis, quando seguidos, até aos 35 anos de idade.
+Art. 2.º Os contratos são válidos por períodos de três anos, renováveis, quando seguidos, até aos 35 anos de idade.
 
-###### Art. 3.º Só são admitidos a contrato os oficiais com menos de 30 anos de idade no dia 1 de Janeiro do primeiro ano do contrato, data a partir da qual este começa a ser contado.
+Art. 3.º Só são admitidos a contrato os oficiais com menos de 30 anos de idade no dia 1 de Janeiro do primeiro ano do contrato, data a partir da qual este começa a ser contado.
 
 Para os oficiais que atinjam 35 anos de idade durante o período de contrato este sòmente prescreve no final do ano.
 
-###### Art. 4.º Os contratos, bem como a sua renovação, são requeridos ao Ministro do Exército até 90 dias antes do seu início.
+Art. 4.º Os contratos, bem como a sua renovação, são requeridos ao Ministro do Exército até 90 dias antes do seu início.
 
-###### Art. 5.º O número de contratados a admitir em cada ano é fixado por despacho do Ministro do Exército em função das vagas nos quadros aprovados por lei e das necessidades do ultramar.
+Art. 5.º O número de contratados a admitir em cada ano é fixado por despacho do Ministro do Exército em função das vagas nos quadros aprovados por lei e das necessidades do ultramar.
 
-###### Art. 6.º São condições de preferência de admissão a contrato as seguintes:
+Art. 6.º São condições de preferência de admissão a contrato as seguintes:
 
 1.ª Ter serviço de campanha com boas informações;
 
@@ -116,21 +129,21 @@ Para os oficiais que atinjam 35 anos de idade durante o período de contrato est
 
 5.ª Maior antiguidade.
 
-###### Art. 7.º O acesso dos oficiais contratados é o previsto nas disposições legais.
+Art. 7.º O acesso dos oficiais contratados é o previsto nas disposições legais.
 
-###### Art. 8.º O contrato poderá ser rescindido por qualquer das partes.
+Art. 8.º O contrato poderá ser rescindido por qualquer das partes.
 
 A rescisão pelo Ministério do Exército poderá fazer-se em qualquer altura por motivo disciplinar ou por incapacidade física do oficial contratado, não provocada por desastre em serviço.
 
 A rescisão pelo oficial só pode fazer-se no fim de cada ano de contrato.
 
-###### Art. 9.º Os oficiais contratados ficam sujeitos às colocações derivadas das necessidades de serviço, tanto da metrópole como do ultramar.
+Art. 9.º Os oficiais contratados ficam sujeitos às colocações derivadas das necessidades de serviço, tanto da metrópole como do ultramar.
 
-###### Art. 10.º Os oficiais milicianos contratados contribuirão com a quota legal para a Caixa Geral de Aposentações, nos termos do artigo 12.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, desde o início do contrato.
+Art. 10.º Os oficiais milicianos contratados contribuirão com a quota legal para a Caixa Geral de Aposentações, nos termos do artigo 12.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, desde o início do contrato.
 
-###### Art. 11.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas dos quadros aprovados por lei, orçamentos privativos das províncias ultramarinas e orçamento das forças militares extraordinárias no ultramar.
+Art. 11.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas dos quadros aprovados por lei, orçamentos privativos das províncias ultramarinas e orçamento das forças militares extraordinárias no ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47466-1966-488076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: becece9fa7fd26c3ec58a9663b39419520e00f3598728b0f34afe35ded86906d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb00e00b93b6cd2a5c7a2868ef15d41bbdd0688556a70ce1c5958b86fe7776d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Circulação de Mercadorias
+- Cobrança de Impostos
+- Comissão Reguladora do Comércio do Bacalhau
+- Definição de Competências
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Junta Nacional das Frutas
+- Organismos de Coordenação Económica
+relationships:
+- type: cites
+  target: pt:dre:503409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:41Z'
   warnings: []
   errors: []
 ---
@@ -95,31 +117,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passam a ser cobradas pelos organismos de coordenação económica as taxas que lhes são devidas, nos termos da legislação em vigor, na altura da entrada no continente e ilhas adjacentes dos produtos sujeitos à sua disciplina económica.
+Artigo 1.º Passam a ser cobradas pelos organismos de coordenação económica as taxas que lhes são devidas, nos termos da legislação em vigor, na altura da entrada no continente e ilhas adjacentes dos produtos sujeitos à sua disciplina económica.
 
 § 1.º As alfândegas receberão 5 por cento de todas as quantias cobradas nos termos do corpo deste artigo, sempre que tenham qualquer intervenção no desembaraço das respectivas mercadorias, devendo o seu valor ser entregue, mensalmente e por meio de guia, nos primeiros dez dias do mês seguinte àquele a que disser respeito, nas tesourarias das sedes das circunscrições aduaneiras correspondentes.
 
 § 2.º Os organismos poderão delegar a cobrança prevista neste artigo nas entidades que julgarem mais indicadas, depois de obtida a necessária autorização.
 
-###### Art. 2.º Para o efeito do disposto no artigo anterior, os interessados ou seus representantes são obrigados a preencher, em quadruplicado, e a entregar nos organismos de coordenação económica respectivos um boletim de cobrança de taxas, segundo modelo a aprovar por despacho do Secretário de Estado do Comércio.
+Art. 2.º Para o efeito do disposto no artigo anterior, os interessados ou seus representantes são obrigados a preencher, em quadruplicado, e a entregar nos organismos de coordenação económica respectivos um boletim de cobrança de taxas, segundo modelo a aprovar por despacho do Secretário de Estado do Comércio.
 
 § único. Os organismos devolverão aos interessados o original e duas cópias, depois de neles terem averbado o pagamento da taxa correspondente.
 
-###### Art. 3.º Os interessados ou seus representantes entregarão nas alfândegas, para efeito de despacho, o original e uma cópia do boletim de cobrança de taxas, devendo as alfândegas devolver a cópia ao organismo de coordenação económica respectivo, no prazo máximo de oito dias, após a confirmação das declarações.
+Art. 3.º Os interessados ou seus representantes entregarão nas alfândegas, para efeito de despacho, o original e uma cópia do boletim de cobrança de taxas, devendo as alfândegas devolver a cópia ao organismo de coordenação económica respectivo, no prazo máximo de oito dias, após a confirmação das declarações.
 
-###### Art. 4.º As declarações constantes do boletim de cobrança de taxas deverão ser em tudo idênticas às prestadas no bilhete de despacho aduaneiro.
+Art. 4.º As declarações constantes do boletim de cobrança de taxas deverão ser em tudo idênticas às prestadas no bilhete de despacho aduaneiro.
 
 § único. Na falta de observância do disposto neste artigo, as alfândegas não darão andamento ao despacho sem que se mostrem devidamente rectificadas as divergências.
 
-###### Art. 5.º Se a mercadoria a importar estiver isenta de taxa, mantém-se, para fins estatísticos, a obrigatoriedade de apresentação dos boletins a que se refere o artigo 2.º, nos quais o organismo deverá declarar a isenção, seguindo-se os trâmites estabelecidos no artigo 3.º
+Art. 5.º Se a mercadoria a importar estiver isenta de taxa, mantém-se, para fins estatísticos, a obrigatoriedade de apresentação dos boletins a que se refere o artigo 2.º, nos quais o organismo deverá declarar a isenção, seguindo-se os trâmites estabelecidos no artigo 3.º
 
-###### Art. 6.º Sempre que as alfândegas verifiquem entre as quantidades declaradas e as efectivamente apuradas a existência de diferenças para mais dos limites legais fixados no artigo 21.º do Regulamento das Alfândegas, com a redacção que lhe foi dada pelos Decretos-Leis n.os 32740 e 38279, respectivamente de 7 de Abril e 1 de Junho de 1951, ou 5 por cento, na hipótese de não estarem estabelecidos esses limites, o despacho não prosseguirá sem que os interessados ou seus representantes façam a prova de que se encontra paga ao organismo de coordenação económica respectivo a importância correspondente.
+Art. 6.º Sempre que as alfândegas verifiquem entre as quantidades declaradas e as efectivamente apuradas a existência de diferenças para mais dos limites legais fixados no artigo 21.º do Regulamento das Alfândegas, com a redacção que lhe foi dada pelos Decretos-Leis n.os 32740 e 38279, respectivamente de 7 de Abril e 1 de Junho de 1951, ou 5 por cento, na hipótese de não estarem estabelecidos esses limites, o despacho não prosseguirá sem que os interessados ou seus representantes façam a prova de que se encontra paga ao organismo de coordenação económica respectivo a importância correspondente.
 
-###### Art. 7.º Exceptuam-se do disposto nos preceitos anteriores do presente diploma as taxas devidas à Junta Nacional das Frutas e por esta directamente cobradas, bem como as cobradas pela Comissão Reguladora do Comércio de Bacalhau, nos termos do artigo 46.º do [Decreto-Lei n.º 26106](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26106-1935-538224), de 23 de Novembro de 1935.
+Art. 7.º Exceptuam-se do disposto nos preceitos anteriores do presente diploma as taxas devidas à Junta Nacional das Frutas e por esta directamente cobradas, bem como as cobradas pela Comissão Reguladora do Comércio de Bacalhau, nos termos do artigo 46.º do [Decreto-Lei n.º 26106](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26106-1935-538224), de 23 de Novembro de 1935.
 
-###### Art. 8.º É atribuída competência aos organismos de coordenação económica para cobrarem todas as taxas que, por força do disposto no § 3.º do artigo 72.º das instruções preliminares das pautas de importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, tenham deixado de ser cobradas pelas alfândegas.
+Art. 8.º É atribuída competência aos organismos de coordenação económica para cobrarem todas as taxas que, por força do disposto no § 3.º do artigo 72.º das instruções preliminares das pautas de importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, tenham deixado de ser cobradas pelas alfândegas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
 

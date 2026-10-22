@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46575-1965-510608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b32559e332fea68dcdd9c9e028b4d06f9ccac371d8f728abc659b52ad5da788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20f4c7eb6fcc325a182b384041145175a946978c9d6801692a5702ae2ddf66ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento Geral do Estado
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:52Z'
   warnings: []
   errors: []
 ---
@@ -85,27 +89,27 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 713500$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 308.º «Forças militares extraordinárias no ultramar», capítulo 12.º, do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 713500$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 308.º «Forças militares extraordinárias no ultramar», capítulo 12.º, do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
 
-###### Art. 2.º Para contrapartida do crédito aberto no artigo precedente são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 2.º Para contrapartida do crédito aberto no artigo precedente são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 9.º, artigo 275.º-A «Importância de parte dos saldos de contas de anos económicos findos» ... 10000000$00
+Capítulo 9.º, artigo 275.º-A «Importância de parte dos saldos de contas de anos económicos findos» ... 10000000$00
 
-### Capítulo 9.º, artigo 276.º «Produto da venda de títulos ou de empréstimos» ... 430000000$00
+Capítulo 9.º, artigo 276.º «Produto da venda de títulos ou de empréstimos» ... 430000000$00
 
-### Capítulo 9.º, artigo 276.º-A «Produto da venda de certificados de aforro» ... 30000000$00
+Capítulo 9.º, artigo 276.º-A «Produto da venda de certificados de aforro» ... 30000000$00
 
 ... 470000000$00
 
 Ministério das Finanças
 
-### Capítulo 4.º, artigo 33.º, n.º 1) ... 3500000$00
+Capítulo 4.º, artigo 33.º, n.º 1) ... 3500000$00
 
-### Capítulo 5.º, artigo 46.º, n.º 3), alínea 1 ... 40000000$00
+Capítulo 5.º, artigo 46.º, n.º 3), alínea 1 ... 40000000$00
 
-### Capítulo 7.º, artigo 69.º, n.º 1) ... 200000000$00
+Capítulo 7.º, artigo 69.º, n.º 1) ... 200000000$00
 
 ... 243500000$00
 
@@ -113,6 +117,6 @@ Ministério das Finanças
 
 Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

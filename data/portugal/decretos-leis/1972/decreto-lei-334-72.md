@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1972-676612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 294be99f8a8a6512702bdf44b6402226909086746e1833194520678aa2a41153
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9725db9b9081694783c3cc64cb95d83e17408f852ee6657ac38d332e93e51be6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Ordem dos Farmacêuticos
+relationships:
+- type: cites
+  target: pt:dre:200809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:53Z'
   warnings: []
   errors: []
 ---
@@ -112,25 +134,25 @@ Nestes termos:
 
 Precedendo resolução do Conselho Corporativo e usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É instituída a Ordem dos Farmacêuticos, que passa a regular-se pelo Estatuto anexo ao presente diploma.
+Artigo 1.º - 1. É instituída a Ordem dos Farmacêuticos, que passa a regular-se pelo Estatuto anexo ao presente diploma.
 
 2. O disposto nos artigos 15.º a 20.º, 22.º a 48.º, 55.º a 68.º e 97.º a 107.º do Estatuto a que se refere o número precedente considera-se matéria regulamentar, susceptível de ser alterada ou revogada por decreto simples.
 
-###### Art. 2.º - 1. É extinto o Sindicato Nacional dos Farmacêuticos.
+Art. 2.º - 1. É extinto o Sindicato Nacional dos Farmacêuticos.
 
 2. A Ordem dos Farmacêuticos sucede nos direitos e nas obrigações patrimoniais que, na data de entrada em vigor deste diploma, se achem na titularidade do Sindicato Nacional dos Farmacêuticos.
 
-###### Art. 3.º O Ministro das Corporações e Previdência Social designará uma comissão encarregada de promover eleições e de dirigir a Ordem até à tomada de posse dos primeiros corpos directivos.
+Art. 3.º O Ministro das Corporações e Previdência Social designará uma comissão encarregada de promover eleições e de dirigir a Ordem até à tomada de posse dos primeiros corpos directivos.
 
-###### Art. 4.º Fica revogado o [Decreto-Lei n.º 46997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46997-1966-475921), de 7 de Maio de 1966.
+Art. 4.º Fica revogado o [Decreto-Lei n.º 46997](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46997-1966-475921), de 7 de Maio de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 14 de Agosto de 1972.**
+Promulgado em 14 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ### CAPÍTULO I — Dos fins da Ordem
 
@@ -1124,4 +1146,4 @@ A Ordem dos Farmacêuticos reger-se-á pelos preceitos legais de direito sindica
 
 As dúvidas que se suscitem na interpretação e execução deste Estatuto serão resolvidas por despacho do Ministro das Corporações e Previdência Social.
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

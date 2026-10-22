@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11300/10851088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39b1f8bcc0bffa09fc96f71b9adb18a913550613cf31e53db512cac5fc43c0fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4a846377165bee7b88ffe6ba11472d3ce6e7e0ee388945f155a71d0d515dfd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Escola de Condução
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:375664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286512:por
+  label: "Altera o n.º 3 do artigo 1.º, pelo DEC LEI.366/77.02.09.1977.MTC, DR.IS [203] de 02.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1977-286512
+  date: '1977-09-02'
+- type: amended_by
+  target: pt:dre:378968:por
+  label: "Alterados os artigos 1.º, 2.º, 6.º, 7.º, 8.º e 11.º, pelo DEC LEI.305/79.18.08.1979.MTC, DR.IS [190] de 18.08.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1979-378968
+  date: '1979-08-18'
+- type: cites
+  target: pt:dre:161494:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:383215:por
+  label: "Revogado o disposto nos artigos 13.º e 14.º, pelo DEC LEI.127/79.11.05.1979.MTC, DR.IS [108] de 11.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1979-383215
+  date: '1979-05-11'
+- type: repealed_by
+  target: pt:dre:378959:por
+  label: "Revogado o n.º 3 do art. 11.º, pelo DEC LEI.315/79.20.08.1979.MTC, DR.IS [191] de 20.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1979-378959
+  date: '1979-08-20'
+- type: repealed_by
+  target: pt:dre:553008:por
+  label: "Revogado pelo DEC LEI.6/82.12.01.1982.MHOPT, DR.IS [9] de 12.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1982-553008
+  date: '1982-01-12'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:03Z'
   warnings: []
   errors: []
 ---
@@ -302,8 +335,8 @@ Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado no Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - José Augusto Fernandes - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 3 de Maio de 1976.**
+Promulgado em 3 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -47,40 +47,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1980-462061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 099ea8a25d0bc2c1e95effca04ee2bb5c3c3e2bd7c9e2fa6fe7d2d2b8be55cd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b50c0d6d2f66f111b82de9098c64cd450a935d6b25f78eea39e9b183c588296b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Função Pública
+- Orgânica
+- Proteção Social
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:145590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 3 E 6, REVOGADOS O NUM 2 DO ART 8 E O ART 2 E EXTINTOS 2 LUGARES DO QUADRO DE PESSOAL PELO DEC LEI
+    115/83 DE 24-FEV DR.IS [45]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-02-24'
+- type: amended_by
+  target: pt:dre:282916:por
+  label: Alterado o quadro de pessoal pela PORT.65/88.02.02.1988.MF, DR.IS [27] de 02.02.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1988-282916
+  date: '1988-02-02'
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Reestruturada, nos termos dos art.s 30º e 31º, a Direcção-Geral de Protecção Social aos Funcionários e Agentes da\
+    \ Administração Pública (ex-Assistência na Doença aos Servidores Civis do Estado, criada pelo Dec Lei 45002, de 27-Abr\
+    \ de 1963), pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011, passando a designar-se Direcção-Geral de Protecção\
+    \ Social aos Trabalhadores em Funções Públicas.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O NUM 2 DO ART 8 E DO ART 20 PELO DEC LEI 115/83 DE 24-FEV DR.IS [45]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-02-24'
+- type: repealed_by
+  target: pt:dre:353343:por
+  label: "Revogado, com excepção do art. 25º, pelo DEC LEI.279/99.1999.07.26.MF, DR.IS-A [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-1999-353343
+  date: '1999-07-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:24Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +175,7 @@ Nesta conformidade, o Governo decreta, nos termos da alínea a) do n.º 1 do art
 
 ### CAPÍTULO I — Natureza, âmbito, atribuições e competência
 
-###### Artigo 1.º - 1 - A Assistência na Doença aos Servidores Civis do Estado (ADSE) criada pelo [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, é transformada na Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública, a qual constitui um serviço dotado de autonomia administrativa, na directa dependência do Ministro das Finanças e do Plano, mantendo-se, todavia, a sigla ADSE.
+Artigo 1.º - 1 - A Assistência na Doença aos Servidores Civis do Estado (ADSE) criada pelo [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, é transformada na Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública, a qual constitui um serviço dotado de autonomia administrativa, na directa dependência do Ministro das Finanças e do Plano, mantendo-se, todavia, a sigla ADSE.
 
 2 - A Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública é um órgão da estrutura central do Ministério das Finanças e do Plano e destina-se a assegurar a protecção aos seus utentes nos domínios da promoção da saúde, prevenção da doença, cura e reabilitação e a proceder à verificação do direito aos encargos de família e seu registo, bem como intervir a favor do beneficiário no caso de eventos de carácter geral e típico que tenham como consequência uma alteração desfavorável do equilíbrio entre as suas necessidades e os meios de que dispõe para as satisfazer.
 
@@ -129,9 +195,9 @@ c) Os ascendentes ou equiparados.
 
 5 - Sempre que as circunstâncias o aconselhem, poderá a Direcção-Geral criar delegações em áreas geográficas cuja população beneficiária o justifique.
 
-###### Art. 2.º As formas de protecção facultadas ao abrigo deste decreto-lei poderão compreender, além de outras regalias sociais, todos os cuidados hospitalares e extra-hospitalares, tanto ambulatórios como em internamento, ficando a melhoria ou o alargamento de âmbito destes esquemas dependentes de autorização conjunta dos Ministros das Finanças e do Plano e dos Assuntos Sociais, sob proposta do director-geral.
+Art. 2.º As formas de protecção facultadas ao abrigo deste decreto-lei poderão compreender, além de outras regalias sociais, todos os cuidados hospitalares e extra-hospitalares, tanto ambulatórios como em internamento, ficando a melhoria ou o alargamento de âmbito destes esquemas dependentes de autorização conjunta dos Ministros das Finanças e do Plano e dos Assuntos Sociais, sob proposta do director-geral.
 
-###### Art. 3.º À Direcção-Geral de Protecção Social compete:
+Art. 3.º À Direcção-Geral de Protecção Social compete:
 
 a) Organizar, implementar, orientar e controlar todas as formas de protecção social referidas nos artigos anteriores, em estreita colaboração com a Direcção-Geral da Função Pública e com os serviços e instituições dependentes do Ministério dos Assuntos Sociais e outros organismos estatais ou particulares congéneres;
 
@@ -157,13 +223,13 @@ l) Propor a aplicação de sanções aos utentes quando se detectem infracções
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º - 1 - A administração compete ao director-geral, coadjuvado por um subdirecto-geral e pelo conselho administrativo.
+Art. 4.º - 1 - A administração compete ao director-geral, coadjuvado por um subdirecto-geral e pelo conselho administrativo.
 
 2 - O director-geral poderá delegar no subdirector-geral a prática de actos da sua competência.
 
 3 - Nas suas faltas e impedimentos legais o director-geral é substituído pelo subdirector-geral.
 
-###### Art. 5.º - 1 - O conselho administrativo é o órgão consultivo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 5.º - 1 - O conselho administrativo é o órgão consultivo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director-geral da ADSE, que presidirá;
 
@@ -191,7 +257,7 @@ g) Proceder à verificação regular dos fundos em cofre e em depósito e fiscal
 
 h) Apreciar os encargos dos acordos ou contratos a celebrar com entidades oficiais ou particulares e os contratos de fornecimento.
 
-###### Art. 6.º A Direcção-Geral compreende os seguintes serviços:
+Art. 6.º A Direcção-Geral compreende os seguintes serviços:
 
 1) Departamento dos Serviços Administrativos;
 
@@ -211,7 +277,7 @@ h) Apreciar os encargos dos acordos ou contratos a celebrar com entidades oficia
 
 Departamento dos Serviços Administrativos
 
-###### Art. 7.º - 1 - O Departamento dos Serviços Administrativos exerce a sua acção, fundamentalmente, nos domínios da administração financeira e patrimonial, do pessoal, do expediente geral e arquivo e da estatística.
+Art. 7.º - 1 - O Departamento dos Serviços Administrativos exerce a sua acção, fundamentalmente, nos domínios da administração financeira e patrimonial, do pessoal, do expediente geral e arquivo e da estatística.
 
 2 - Para o exercício das suas atribuições e competência o Departamento dos Serviços Administrativos compreende:
 
@@ -223,7 +289,7 @@ c) Repartição do Património;
 
 d) Repartição de Expediente e Pessoal.
 
-###### Art. 8.º - 1 - À Divisão de Contabilidade e Orçamento compete:
+Art. 8.º - 1 - À Divisão de Contabilidade e Orçamento compete:
 
 a) Preparar e elaborar o orçamento ordinário da ADSE e os orçamentos suplementares;
 
@@ -243,7 +309,7 @@ h) Preparar a elaboração do relatório e contas da ADSE.
 
 2 - Adstrita à Divisão de Contabilidade e Orçamento funciona a estatística, à qual cabe registar e tratar os dados com interesse estatístico e nosológico que proporcionem conhecimentos actualizados das actividades exercidas.
 
-###### Art. 9.º - 1 - A Repartição dos Serviços Financeiros exerce a sua acção no domínio dos meios financeiros e compreende as Secções de:
+Art. 9.º - 1 - A Repartição dos Serviços Financeiros exerce a sua acção no domínio dos meios financeiros e compreende as Secções de:
 
 a) Contas Correntes com Diversas Entidades;
 
@@ -277,7 +343,7 @@ d) Coligir todos os elementos de receita e despesa indispensáveis à organizaç
 
 e) Processar as requisições mensais de fundos de conta das dotações consignadas à ADSE no Orçamento Geral do Estado.
 
-###### Art. 10.º - 1 - A Repartição do Património exerce as suas atribuições nos domínios do economato, do inventário e cadastro e da segurança das instalações. Compreende as Secções de:
+Art. 10.º - 1 - A Repartição do Património exerce as suas atribuições nos domínios do economato, do inventário e cadastro e da segurança das instalações. Compreende as Secções de:
 
 a) Aprovisionamento e Cadastro;
 
@@ -321,7 +387,7 @@ e) Elaborar os balanços das existências quando for determinado;
 
 f) Recolher dados estatísticos específicos.
 
-###### Art. 11.º - 1 - A Repartição de Expediente e Pessoal exerce a sua acção, fundamentalmente, no domínio do pessoal, expediente geral e arquivo e compreende as Secções de:
+Art. 11.º - 1 - A Repartição de Expediente e Pessoal exerce a sua acção, fundamentalmente, no domínio do pessoal, expediente geral e arquivo e compreende as Secções de:
 
 a) Pessoal;
 
@@ -365,7 +431,7 @@ d) Proceder ao balanço mensal da tesouraria.
 
 Departamento de Inscrição e Apoio a Beneficiários e Serviços
 
-###### Art. 12.º - 1 - O Departamento de Inscrição e Apoio a Beneficiários e Serviços exerce a sua acção, fundamentalmente, nos domínios dos direitos e deveres dos beneficiários, da celebração de acordos entre a ADSE e outras entidades, bem como do apoio logístico no âmbito da sua competência.
+Art. 12.º - 1 - O Departamento de Inscrição e Apoio a Beneficiários e Serviços exerce a sua acção, fundamentalmente, nos domínios dos direitos e deveres dos beneficiários, da celebração de acordos entre a ADSE e outras entidades, bem como do apoio logístico no âmbito da sua competência.
 
 2 - Para a prossecução das suas atribuições e competência o Departamento de Inscrição e Apoio a Beneficiários e Serviços compreende duas repartições:
 
@@ -373,7 +439,7 @@ a) Repartição de Inscrição e Identificação;
 
 b) Repartição de Relações com Entidades e Serviços.
 
-###### Art. 13.º - 1 - À Repartição de Inscrição e Identificação compete assegurar todas as operações relativas aos pedidos de admissão de beneficiários, à efectivação das respectivas inscrições, à organização de processos e de ficheiros, onomástico e numérico, com vista à imediata identificação de beneficiários.
+Art. 13.º - 1 - À Repartição de Inscrição e Identificação compete assegurar todas as operações relativas aos pedidos de admissão de beneficiários, à efectivação das respectivas inscrições, à organização de processos e de ficheiros, onomástico e numérico, com vista à imediata identificação de beneficiários.
 
 2 - A Repartição de Inscrição e Identificação compreende três secções:
 
@@ -417,7 +483,7 @@ c) Satisfazer pedidos de cartões urgentes devidamente justificados;
 
 d) Elaborar mapas estatísticos sobre a actividade da Secção.
 
-###### Art. 14.º - 1 - À Repartição de Relações com Entidades e Serviços compete, fundamentalmente, a organização dos processos para celebração de acordos a estabelecer, para efeitos de cuidados de saúde, com entidades públicas, privadas e cooperativas.
+Art. 14.º - 1 - À Repartição de Relações com Entidades e Serviços compete, fundamentalmente, a organização dos processos para celebração de acordos a estabelecer, para efeitos de cuidados de saúde, com entidades públicas, privadas e cooperativas.
 
 2 - A Repartição de Relações com Entidades e Serviços compreende duas secções:
 
@@ -443,7 +509,7 @@ c) Elaborar todo o expediente necessário ao cálculo das quotizações devidas 
 
 Departamento de Encargos com Cuidados de Saúde
 
-###### Art. 15.º - 1 - Ao Departamento de Encargos com Cuidados de Saúde compete, fundamentalmente, a conferência e liquidação das comparticipações concedidas aos beneficiários nos cuidados de saúde.
+Art. 15.º - 1 - Ao Departamento de Encargos com Cuidados de Saúde compete, fundamentalmente, a conferência e liquidação das comparticipações concedidas aos beneficiários nos cuidados de saúde.
 
 2 - Na prossecução das suas atribuições e competências, o Departamento de Encargos com Cuidados de Saúde compreende três repartições:
 
@@ -453,7 +519,7 @@ b) Repartição de Liquidação de Abonos a Organismos Diversos;
 
 c) Repartição de Liquidação de Abonos a Funcionários Aposentados.
 
-###### Art. 16.º - 1 - À Repartição de Liquidação de Abonos Directos compete o registo, conferência e liquidação de abonos directos, quer às entidades com as quais forem celebrados acordos, quer aos beneficiários do activo que recorram às instituições particulares de cuidados de saúde.
+Art. 16.º - 1 - À Repartição de Liquidação de Abonos Directos compete o registo, conferência e liquidação de abonos directos, quer às entidades com as quais forem celebrados acordos, quer aos beneficiários do activo que recorram às instituições particulares de cuidados de saúde.
 
 2 - A Repartição de Liquidação de Abonos Directos compreende duas secções:
 
@@ -495,7 +561,7 @@ b) Colaborar com os organismos autónomos e corpos administrativos em matéria d
 
 c) Recolher elementos estatísticos específicos.
 
-###### Art. 17.º - 1 - À Repartição de Liquidação de Abonos a Organismos Diversos compete a conferência e liquidação das competências concedidas em cuidados de saúde aos beneficiários através dos serviços de que dependem e ainda de todo o receituário farmacêutico.
+Art. 17.º - 1 - À Repartição de Liquidação de Abonos a Organismos Diversos compete a conferência e liquidação das competências concedidas em cuidados de saúde aos beneficiários através dos serviços de que dependem e ainda de todo o receituário farmacêutico.
 
 2 - A Repartição de Liquidação de Abonos a Organismos Diversos compreende três secções:
 
@@ -531,7 +597,7 @@ b) Resolução de todo o expediente relativo aos problemas inerentes à conferê
 
 c) Recolha de elementos estatísticos específicos.
 
-###### Art. 18.º - 1 - À Repartição de Liquidação de Abonos a Funcionários Aposentados compete a conferência e liquidação das comparticipações concedidas em cuidados de saúde aos funcionários aposentados.
+Art. 18.º - 1 - À Repartição de Liquidação de Abonos a Funcionários Aposentados compete a conferência e liquidação das comparticipações concedidas em cuidados de saúde aos funcionários aposentados.
 
 2 - A Repartição de Liquidação de Abonos a Funcionários Aposentados compreende três secções:
 
@@ -583,13 +649,13 @@ c) Recolha de elementos estatísticos.
 
 Inspecção Médica
 
-###### Art. 19.º - 1 - À Inspecção Médica cabe exercer o contrôle e funcionamento do sistema estabelecido neste diploma, dar pareceres sobre assuntos da sua competência e colaborar na organização de processos de sindicância e de inquérito em matéria da sua especialidade, quando assim for determinado superiormente.
+Art. 19.º - 1 - À Inspecção Médica cabe exercer o contrôle e funcionamento do sistema estabelecido neste diploma, dar pareceres sobre assuntos da sua competência e colaborar na organização de processos de sindicância e de inquérito em matéria da sua especialidade, quando assim for determinado superiormente.
 
 2 - Aos técnicos da Inspecção Médica podem ser cometidos trabalhos de natureza interna ou externa, quando determinado pelo director-geral.
 
 Serviços Jurídicos e de Contencioso
 
-###### Art. 20.º - 1 - Aos Serviços Jurídicos e de Contencioso compete:
+Art. 20.º - 1 - Aos Serviços Jurídicos e de Contencioso compete:
 
 a) Elaborar estudos e pareces sobre assuntos de natureza jurídica que lhe sejam solicitados pelo director-geral;
 
@@ -605,7 +671,7 @@ e) Instruir processos disciplinares quando determinados pelo director-geral.
 
 Centro de Documentação
 
-###### Art. 21.º Ao Centro de Documentação compete:
+Art. 21.º Ao Centro de Documentação compete:
 
 a) A recolha e sistematização de documentação de interesse para a Direcção-Geral;
 
@@ -615,7 +681,7 @@ c) Assegurar a organização, actualização e conservação da biblioteca.
 
 Centro de Informática
 
-###### Art. 22.º O Centro de Informática, na dependência directa do director-geral, exerce a sua acção, fundamentalmente, nos seguintes domínios:
+Art. 22.º O Centro de Informática, na dependência directa do director-geral, exerce a sua acção, fundamentalmente, nos seguintes domínios:
 
 a) Análise funcional e orgânica;
 
@@ -629,7 +695,7 @@ e) Planeamento e contrôle.
 
 Serviço de Informação e Relações Públicas
 
-###### Art. 23.º O Serviço de Informação e Relações Públicas, na dependência directa do director-geral, exerce a sua acção no âmbito de:
+Art. 23.º O Serviço de Informação e Relações Públicas, na dependência directa do director-geral, exerce a sua acção no âmbito de:
 
 a) Atender e acolher as sugestões do público, encaminhando os pedidos, sugestões e reclamações apresentados e relativos aos vários domínios de actuação da Direcção-Geral para os serviços competentes;
 
@@ -639,7 +705,7 @@ c) Difundir matéria informativa referente à actividade da Direcção-Geral.
 
 ### CAPÍTULO III — Dos benefícios
 
-###### Art. 24.º - 1 - Os beneficiários da ADSE poderão recorrer livremente a qualquer médico de clínica geral ou de especialidades, bem como aos estabelecimentos hospitalares oficiais, particulares ou cooperativos.
+Art. 24.º - 1 - Os beneficiários da ADSE poderão recorrer livremente a qualquer médico de clínica geral ou de especialidades, bem como aos estabelecimentos hospitalares oficiais, particulares ou cooperativos.
 
 2 - Aos beneficiários da ADSE é facultado o recurso, quer em regime de internamento em enfermaria quer em regime ambulatório, a qualquer estabelecimento hospitalar dependente da Secretaria de Estado da Saúde, nos termos dos acordos aprovados ou a aprovar.
 
@@ -659,7 +725,7 @@ c) Difundir matéria informativa referente à actividade da Direcção-Geral.
 
 ### CAPÍTULO IV — Das infracções às normas e regulamentos
 
-###### Art. 25.º - 1 - Os beneficiários e seus familiares que iludirem, por actos ou omissões, as normas e regulamentos da Direcção-Geral, além de incorrerem em responsabilidade disciplinar, terão de repor as importâncias indevidamente recebidas, sem prejuízo das responsabilidades, civil ou penal, se a elas houver lugar.
+Art. 25.º - 1 - Os beneficiários e seus familiares que iludirem, por actos ou omissões, as normas e regulamentos da Direcção-Geral, além de incorrerem em responsabilidade disciplinar, terão de repor as importâncias indevidamente recebidas, sem prejuízo das responsabilidades, civil ou penal, se a elas houver lugar.
 
 2 - Os beneficiários que cometam qualquer infracção às normas e regulamentos da Direcção-Geral serão suspensos dos seus direitos pelo período de dez a cento e oitenta dias ou até ao máximo de dois anos.
 
@@ -667,27 +733,27 @@ c) Difundir matéria informativa referente à actividade da Direcção-Geral.
 
 ### CAPÍTULO V — Princípios de gestão
 
-###### Art. 26.º A Direcção-Geral aplicará as regras legais em vigor, o disposto neste diploma e os princípios de gestão por objectivos.
+Art. 26.º A Direcção-Geral aplicará as regras legais em vigor, o disposto neste diploma e os princípios de gestão por objectivos.
 
-###### Art. 27.º - 1 - As receitas da Direcção-Geral são as provenientes das dotações anualmente atribuídas no Orçamento Geral do Estado e, bem assim, quaisquer outras cuja cobrança esteja ou venha a ser autorizada.
+Art. 27.º - 1 - As receitas da Direcção-Geral são as provenientes das dotações anualmente atribuídas no Orçamento Geral do Estado e, bem assim, quaisquer outras cuja cobrança esteja ou venha a ser autorizada.
 
 2 - A Direcção-Geral arrecadará e administrará as suas receitas, satisfazendo por meio delas os encargos que legalmente lhe caibam.
 
-###### Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, a Direcção-Geral promoverá a elaboração do respectivo orçamento anual, que será submetido à aprovação do Ministro das Finanças e do Plano.
+Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, a Direcção-Geral promoverá a elaboração do respectivo orçamento anual, que será submetido à aprovação do Ministro das Finanças e do Plano.
 
 2 - A Direcção-Geral poderá ainda submeter à aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral.
 
-###### Art. 29.º Os fundos requisitados, bem como as receitas próprias, serão depositados na Caixa Geral de Depósitos em conta especial à ordem da Direcção-Geral.
+Art. 29.º Os fundos requisitados, bem como as receitas próprias, serão depositados na Caixa Geral de Depósitos em conta especial à ordem da Direcção-Geral.
 
-###### Art. 30.º A contabilidade da Direcção-Geral deverá responder às necessidades da sua gestão e permitir um contrôle orçamental permanente.
+Art. 30.º A contabilidade da Direcção-Geral deverá responder às necessidades da sua gestão e permitir um contrôle orçamental permanente.
 
 ### CAPÍTULO VI — Pessoal
 
-###### Art. 31.º - 1 - A Direcção-Geral dispõe do quadro do pessoal constante do mapa anexo ao presente diploma.
+Art. 31.º - 1 - A Direcção-Geral dispõe do quadro do pessoal constante do mapa anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, poderá ser revisto o quadro do pessoal da Direcção-Geral mediante portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 32.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 32.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -705,47 +771,47 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro da Direcção-Geral, quando vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 33.º Aos lugares de director-geral, subdirector-geral, director de serviços e chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 33.º Aos lugares de director-geral, subdirector-geral, director de serviços e chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 34.º Os lugares de chefe de departamento são equiparados, para todos os efeitos legais, a director de serviços.
+Art. 34.º Os lugares de chefe de departamento são equiparados, para todos os efeitos legais, a director de serviços.
 
-###### Art. 35.º O provimento dos lugares de chefe de repartição será feito, por escolha, sob proposta do director-geral, entre os chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria, ou, na falta destes, entre diplomados com curso superior e experiência adequada ao desempenho das respectivas funções.
+Art. 35.º O provimento dos lugares de chefe de repartição será feito, por escolha, sob proposta do director-geral, entre os chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria, ou, na falta destes, entre diplomados com curso superior e experiência adequada ao desempenho das respectivas funções.
 
-###### Art. 36.º Os lugares de técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 36.º Os lugares de técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 37.º - 1 - O provimento dos lugares do Centro de Informática será feito nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 37.º - 1 - O provimento dos lugares do Centro de Informática será feito nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
 2 - O responsável pelo Centro de Informática, a prover nas condições do número anterior, terá a categoria de chefe de divisão.
 
 3 - A entrada no quadro do pessoal de informática far-se-á somente após estágio realizado nos termos do artigo 27.º do citado [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
 
-###### Art. 38.º - 1 - Os lugares de técnico principal e técnico de 1.ª classe serão providos de entre, respectivamente, os técnicos de 1.ª e 2.ª classes com um mínimo de três anos de bom e efectivo serviço na categoria.
+Art. 38.º - 1 - Os lugares de técnico principal e técnico de 1.ª classe serão providos de entre, respectivamente, os técnicos de 1.ª e 2.ª classes com um mínimo de três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico de 2.ª classe serão providos de entre indivíduos habilitados com curso superior.
 
-###### Art. 39.º Os lugares de chefe de secção serão providos de entre:
+Art. 39.º Os lugares de chefe de secção serão providos de entre:
 
 a) Primeiros-oficiais ou técnicos auxiliares principais pertencentes ao quadro, com um mínimo de três anos de bom e efectivo serviço, que tenham revelado capacidade para o exercício de funções de coordenação e chefia e que tenham adquirido formação adequada;
 
 b) Indivíduos habilitados com curso superior e que revelem aptidão para o exercício do cargo.
 
-###### Art. 40.º Enquanto não for publicada legislação própria sobre a carreira de tesoureiros, estes serão providos, na Direcção-Geral, do seguinte modo:
+Art. 40.º Enquanto não for publicada legislação própria sobre a carreira de tesoureiros, estes serão providos, na Direcção-Geral, do seguinte modo:
 
 a) O lugar de tesoureiro de 1.ª classe será provido por escolha entre o tesoureiro de 2.ª classe ou os segundos-oficiais do quadro com três anos de bom e efectivo serviço nas categorias respectivas;
 
 b) O lugar de tesoureiro de 2.ª classe será provido por escolha entre os terceiros-oficiais do quadro ou entre indivíduos com o curso geral do ensino secundário ou equiparado.
 
-###### Art. 41.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos de entre, respectivamente, segundo-oficiais habilitados com o curso geral dos liceus e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.
+Art. 41.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos de entre, respectivamente, segundo-oficiais habilitados com o curso geral dos liceus e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de terceiro-oficial serão providos nos termos previstos no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 3 - O provimento dos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 42.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, os técnicos auxiliares de 1.ª e 2.ª classes com um mínimo de três anos de bom e efectivo serviço na categoria.
+Art. 42.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, os técnicos auxiliares de 1.ª e 2.ª classes com um mínimo de três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 43.º - 1 - Os lugares de operador de fotocomposição principal e de 1.ª e 2.ª classes serão providos de entre, respectivamente, os operadores de fotocomposição de 1.ª, 2.ª e 3.ª classes com um mínimo de três anos de bom e efectivo serviço nas respectivas categorias.
+Art. 43.º - 1 - Os lugares de operador de fotocomposição principal e de 1.ª e 2.ª classes serão providos de entre, respectivamente, os operadores de fotocomposição de 1.ª, 2.ª e 3.ª classes com um mínimo de três anos de bom e efectivo serviço nas respectivas categorias.
 
 2 - Os lugares de operador de fotocomposição de 3.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e formação profissional adequada, ou de entre funcionários ou agentes que desempenhem funções na mesma área funcional, habilitados com a escolaridade obrigatória, e que tenham adquirido formação e qualificação profissionais adequadas.
 
@@ -755,17 +821,17 @@ b) O lugar de tesoureiro de 2.ª classe será provido por escolha entre os terce
 
 5 - Os lugares de encarregado do pessoal auxiliar, bem como os de telefonista, contínuo, motorista, porteiro e servente serão providos nos termos da lei geral.
 
-###### Art. 44.º - 1 - Os funcionários da Direcção-Geral serão objecto de classificação anual de serviço, a qual traduzirá uma apreciação e avaliação do respectivo mérito nos termos que vierem a ser definidos.
+Art. 44.º - 1 - Os funcionários da Direcção-Geral serão objecto de classificação anual de serviço, a qual traduzirá uma apreciação e avaliação do respectivo mérito nos termos que vierem a ser definidos.
 
 2 - A atribuição da classificação de serviço de Muito bom durante dois anos consecutivos poderá reduzir de um ano, para efeitos de progressão na carreira, o tempo mínimo exigido no presente diploma.
 
-###### Art. 45.º - 1 - Com o objectivo de actualização e complemento de conhecimentos, deverão instituir-se, regularmente, cursos de formação e aperfeiçoamento profissional, conforme planos a estabelecer pelo pessoal dirigente.
+Art. 45.º - 1 - Com o objectivo de actualização e complemento de conhecimentos, deverão instituir-se, regularmente, cursos de formação e aperfeiçoamento profissional, conforme planos a estabelecer pelo pessoal dirigente.
 
 2 - Independentemente dos cursos referidos no número anterior, a Direcção-Geral poderá promover ou autorizar que os seus funcionários participem noutros cursos de formação e aperfeiçoamento profissionais e em seminários, colóquios, estágios ou outras realizações com os mesmos objectivos.
 
-###### Art. 46.º Os concursos serão regulamentados por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
+Art. 46.º Os concursos serão regulamentados por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### Art. 47.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares dos quadros poderá ser requisitado pessoal a outros organismos e serviços com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam, obtido o parecer favorável dos dirigentes dos serviços ou organismos de origem.
+Art. 47.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares dos quadros poderá ser requisitado pessoal a outros organismos e serviços com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam, obtido o parecer favorável dos dirigentes dos serviços ou organismos de origem.
 
 2 - O período de requisição, que será previamente fixado, não poderá exceder a duração de um ano, prazo este que poderá ser prorrogado por uma só vez.
 
@@ -775,19 +841,19 @@ b) O lugar de tesoureiro de 2.ª classe será provido por escolha entre os terce
 
 5 - O pessoal dos serviços da ADSE poderá, nas condições previstas nos números anteriores, ser requisitado para outros departamentos da Administração Pública.
 
-###### Art. 48.º - 1 - O pessoal dos serviços a que se refere o presente diploma poderá ser transitoriamente destacado para exercer funções em qualquer serviço ou organismo público e, inversamente, poderá o pessoal de outros serviços ou organismos ser destacado para os serviços da ADSE.
+Art. 48.º - 1 - O pessoal dos serviços a que se refere o presente diploma poderá ser transitoriamente destacado para exercer funções em qualquer serviço ou organismo público e, inversamente, poderá o pessoal de outros serviços ou organismos ser destacado para os serviços da ADSE.
 
 2 - Os destacamentos previstos no número anterior dependem do acordo dos interessados, não podem exceder o período de seis meses, prorrogável até ao limite de um ano, e não prejudicam de qualquer forma a situação dos funcionários perante os serviços de que dependem, os quais continuarão a assegurar as suas remunerações.
 
 3 - Os destacamentos carecem de autorização do membro do Governo de que dependa o funcionário, obtido o parecer favorável dos dirigentes dos serviços ou organismos competentes, cabendo a estes acordar quanto ao programa e duração da colaboração ou dos trabalhos a efectuar em comum pelos respectivos funcionários.
 
-###### Art. 49.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a satisfação de necessidades que não possam ser asseguradas pelo pessoal permanente.
+Art. 49.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a satisfação de necessidades que não possam ser asseguradas pelo pessoal permanente.
 
 2 - O contrato a que se refere o n.º 1 será celebrado pelo prazo de um ano a contar da posse, podendo ser renovado com dispensa de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas, e até ao limite de três anos.
 
 3 - O regime do pessoal contratado será o que estiver estabelecido nas disposições legais aplicáveis, nomeadamente naquelas em que se contêm o regime do pessoal nomeado e que não sejam incompatíveis com a natureza do vínculo contratual.
 
-###### Art. 50.º - 1 - A realização de estudos, bem como a elaboração de pareceres ou outros trabalhos de carácter eventual, poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras, singulares ou colectivas.
+Art. 50.º - 1 - A realização de estudos, bem como a elaboração de pareceres ou outros trabalhos de carácter eventual, poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras, singulares ou colectivas.
 
 2 - O contrato referido no número anterior deverá ser reduzido a escrito e nele fixadas as condições da sua prestação e o prazo de duração.
 
@@ -795,9 +861,9 @@ b) O lugar de tesoureiro de 2.ª classe será provido por escolha entre os terce
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 51.º Os funcionários do quadro da ADSE mantêm todos os direitos e regalias usufruídos à data da publicação do presente diploma.
+Art. 51.º Os funcionários do quadro da ADSE mantêm todos os direitos e regalias usufruídos à data da publicação do presente diploma.
 
-###### Art. 52.º - 1 - De acordo com os prazos fixados na lei geral, o primeiro provimento dos quadros do pessoal da Direcção-Geral a que respeita o presente diploma poderá fazer-se de entre o pessoal que à data da entrada em vigor do mesmo se encontra a prestar actividade, a qualquer título, na ADSE, incluindo o pessoal adido e o pessoal do quadro destacado noutros serviços, de acordo com as seguintes regras:
+Art. 52.º - 1 - De acordo com os prazos fixados na lei geral, o primeiro provimento dos quadros do pessoal da Direcção-Geral a que respeita o presente diploma poderá fazer-se de entre o pessoal que à data da entrada em vigor do mesmo se encontra a prestar actividade, a qualquer título, na ADSE, incluindo o pessoal adido e o pessoal do quadro destacado noutros serviços, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário possui;
 
@@ -819,22 +885,22 @@ d) Para categoria correspondente às funções que o funcionário ou agente actu
 
 7 - Quando, pela aplicação das normas constantes do presente diploma, puder resultar, para o funcionário ou agente, provimento em categoria remunerada por letra de vencimento inferior à que já detém, aquele manterá a actual designação funcional e respectiva remuneração, extinguindo-se os correspondentes lugares à medida que vagarem.
 
-###### Art. 53.º As atribuições cometidas à Direcção de Serviços do Abono de Família e das Pensões da Direcção-Geral da Contabilidade Pública, no que respeita aos encargos de família, transitarão para a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública nas condições que vierem a ser regulamentadas por decreto dos Ministros competentes.
+Art. 53.º As atribuições cometidas à Direcção de Serviços do Abono de Família e das Pensões da Direcção-Geral da Contabilidade Pública, no que respeita aos encargos de família, transitarão para a Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública nas condições que vierem a ser regulamentadas por decreto dos Ministros competentes.
 
-###### Art. 54.º A partir da entrada em vigor do presente diploma são revogados os Decretos-Leis n.os 45002, de 27 de Abril de 1963, e 709/75, de 19 de Dezembro.
+Art. 54.º A partir da entrada em vigor do presente diploma são revogados os Decretos-Leis n.os 45002, de 27 de Abril de 1963, e 709/75, de 19 de Dezembro.
 
-###### Art. 55.º As dúvidas surgidas na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano e, quando for caso disso, do membro do Governo que tiver a seu cargo a função pública ou do Ministro dos Assuntos Sociais.
+Art. 55.º As dúvidas surgidas na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano e, quando for caso disso, do membro do Governo que tiver a seu cargo a função pública ou do Ministro dos Assuntos Sociais.
 
-###### Art. 56.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 56.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal a que se refere o artigo 31.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23900/33963405.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23900/33963405.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23900/33963405.pdf)

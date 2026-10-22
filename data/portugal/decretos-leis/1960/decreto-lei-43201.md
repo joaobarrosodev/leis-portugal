@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43201-1960-514795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8b47a0830af95bd5556b295a978f40ece60068d15f7a77a08f9796fa362d5ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24b6eee4b2c92b2e9d5fada8ecd61beb11a51ddcfd830dd7bc1fc6334f45921d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Estatuto dos Refugiados
+- Genebra
+- Nova Iorque
+- ONU
+- Portugal
+- Refugiado
 relationships:
 - type: amended_by
   target: pt:dre:502239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:162164:por
+  label: "Aprovado para adesão o Protocolo adicional à Convenção aprovada para Adesão pelo presente diploma, pelo DEC.207/75.1975.04.17.MNE\
+    \ DR.IS-A [90]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/207-1975-162164
+  date: '1975-04-17'
+- type: amended_by
+  target: pt:dre:502239:por
+  label: "Alterado o art. 3º, pelo DEC LEI.281/76.1976.04.17.MNE DR.IS [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/281-1976-502239
+  date: '1976-04-17'
+- type: amended_by
+  target: pt:dre:371465:por
+  label: "Tornado público a aplicação ao Território de Macau, da Convenção aprovada para ratificação do presente diploma,\
+    \ pelo AV.83/99.1999.06.08.MNE DR.IS-A [150] DE 30/JUN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/83-1999-371465
+  date: '1999-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:54Z'
   warnings: []
   errors: []
 ---
@@ -88,23 +112,23 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovada, para adesão, a Convenção relativa ao estatuto dos refugiados, assinada em Genebra a 28 de Julho de 1951, e cujo texto em francês e respectiva tradução são os que seguem anexos ao presente decreto-lei.
+Artigo 1.º É aprovada, para adesão, a Convenção relativa ao estatuto dos refugiados, assinada em Genebra a 28 de Julho de 1951, e cujo texto em francês e respectiva tradução são os que seguem anexos ao presente decreto-lei.
 
-###### Art. 2.º No que respeita às obrigações assumidas pelo Governo Português em virtude da Convenção, a expressão «acontecimentos ocorridos antes de 1 de Janeiro de 1951», que figura no seu artigo 1.º, secção A, será compreendida como referente aos acontecimentos ocorridos antes de 1 de Janeiro de 1951 na Europa, devendo fazer-se a declaração respectiva no momento da adesão, conforme a alínea (1), secção B, do mencionado artigo 1.º
+Art. 2.º No que respeita às obrigações assumidas pelo Governo Português em virtude da Convenção, a expressão «acontecimentos ocorridos antes de 1 de Janeiro de 1951», que figura no seu artigo 1.º, secção A, será compreendida como referente aos acontecimentos ocorridos antes de 1 de Janeiro de 1951 na Europa, devendo fazer-se a declaração respectiva no momento da adesão, conforme a alínea (1), secção B, do mencionado artigo 1.º
 
-###### Art. 3.º A adesão por parte de Portugal à citada Convenção faz-se com as reservas seguintes, que devem ser declaradas nos termos do n.º 1 do artigo 42.º da mesma Convenção:
+Art. 3.º A adesão por parte de Portugal à citada Convenção faz-se com as reservas seguintes, que devem ser declaradas nos termos do n.º 1 do artigo 42.º da mesma Convenção:
 
 a) Em todos os casos em que a Convenção confere aos refugiados o tratamento mais favorável concedido aos nacionais de um país estrangeiro, esta cláusula não será interpretada de maneira a compreender o regime concedido aos nacionais do Brasil, país com que Portugal mantém relações de carácter especial.
 
 b) Quanto às disposições da Convenção que se referem a dispensa de reciprocidade, ficam ressalvados os princípios de ordem constitucional relativos à matéria.
 
-**Publique-se e cumpra-se como nele se contem.**
+Publique-se e cumpra-se como nele se contem.
 
 Paços do Governo da República, 1 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/10/22900/21892210.pdf))](https://files.diariodarepublica.pt/1s/1960/10/22900/21892210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/10/22900/21892210.pdf)
 
 Convenção relativa ao estatuto dos refugiados
 
@@ -474,7 +498,7 @@ No caso de um Estado federativo ou não unitário, as disposições seguintes ap
 
 ###### ARTIGO 46 — Comunicações pelo Secretário-Geral das Nações Unidas
 
-**O Secretário-Geral das Nações Unidas comunicará a todos os Estados Membros das Nações Unidas e aos Estados não membros indicados no artigo 39:**
+O Secretário-Geral das Nações Unidas comunicará a todos os Estados Membros das Nações Unidas e aos Estados não membros indicados no artigo 39:
 
 (a) As declarações e comunicações indicadas na secção B do artigo 1;
 
@@ -700,4 +724,4 @@ PARÁGRAFO 16
 
 A passagem do documento não dá ao seu detentor nenhum direito à protecção dos representantes diplomáticos e consulares do país de passagem e não confere a esses representantes um direito de protecção.
 
-## Anexo — [([ver documento original](https://files.diariodarepublica.pt/1s/1960/10/22900/21892210.pdf))](https://files.diariodarepublica.pt/1s/1960/10/22900/21892210.pdf)
+## Anexo — [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/10/22900/21892210.pdf)

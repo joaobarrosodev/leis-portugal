@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/14500/13981400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1976-431058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66b3b2f73f02cd1a865b60ec49d1369367a3684108200a9cea3e2d5af530d85d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b28dde91f1d94f271079c32f30477cf1b593f0ba5ecd83fed1eeadfa30ac61f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Reserva
+- Expropriação
+- Nacionalização
+- Prédio Rústico
+- Reforma Agrária
+- Reserva Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:425528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º, pela LEI.77/77.1977.09.29.PCM DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS ART 8 E 14 A 16 PELO DEC LEI 81/78 DE 29-ABR DR.IS [99]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-04-29'
+- type: repealed_by
+  target: pt:dre:425528:por
+  label: Revogados os arts. 8.º e 14.º a 16.º pelo(a) Decreto-Lei n.º 81/78 - Diário da República n.º 99/1978, Série I de
+    1978-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1978-425528
+  date: '1978-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:54Z'
   warnings: []
   errors: []
 ---
@@ -101,47 +131,47 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O direito de reserva previsto no artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, efectiva-se através da concessão pelo Estado, aos proprietários expropriados ou cujos prédios tenham sido nacionalizados, do direito de propriedade sobre uma área de terra equivalente a 50000 pontos, ou a 30 ha, independentemente da pontuação que lhe seja atribuível, nos termos referidos nas mesmas disposições.
+Artigo 1.º O direito de reserva previsto no artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, efectiva-se através da concessão pelo Estado, aos proprietários expropriados ou cujos prédios tenham sido nacionalizados, do direito de propriedade sobre uma área de terra equivalente a 50000 pontos, ou a 30 ha, independentemente da pontuação que lhe seja atribuível, nos termos referidos nas mesmas disposições.
 
-###### Art. 2.º - 1. O direito de reserva previsto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no n.º 2 do artigo 7.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, efectiva-se através da concessão pelo Estado, aos que a qualquer título que não o de propriedade perfeita explorassem uma área dos prédios expropriados ou nacionalizados nos termos referidos nas mesmas disposições, do direito à exploração de uma área de terra equivalente a 50000 pontos, ou a 30 ha, independentemente da pontuação que lhe seja atribuível.
+Art. 2.º - 1. O direito de reserva previsto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no n.º 2 do artigo 7.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, efectiva-se através da concessão pelo Estado, aos que a qualquer título que não o de propriedade perfeita explorassem uma área dos prédios expropriados ou nacionalizados nos termos referidos nas mesmas disposições, do direito à exploração de uma área de terra equivalente a 50000 pontos, ou a 30 ha, independentemente da pontuação que lhe seja atribuível.
 
 2. O direito à exploração a que se refere o número anterior é concedido aos seus beneficiários com o mesmo conteúdo do direito de que anteriormente eram titulares.
 
-###### Art. 3.º - 1. Aos reservatários é conferido o direito de optarem pela área equivalente a 50000 pontos ou pela área de 30 ha, independentemente da pontuação que lhe seja atribuível.
+Art. 3.º - 1. Aos reservatários é conferido o direito de optarem pela área equivalente a 50000 pontos ou pela área de 30 ha, independentemente da pontuação que lhe seja atribuível.
 
 2. Caso os reservatários optem pela área de 30 ha, esta será demarcada em terrenos de qualidade idêntica à dos terrenos expropriados ou nacionalizados, mas a pontuação que lhe corresponda nunca poderá ser superior à que foi atribuída aos terrenos expropriados ou nacionalizados.
 
-###### Art. 4.º - 1. A demarcação das áreas de reserva, consoante se trate da aplicação do preceituado no [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, ou no [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, compete, respectivamente, ao Centro Regional de Reforma Agrária ou à Comissão de Gestão Transitória da situação do prédio ou conjunto de prédios expropriados ou nacionalizados.
+Art. 4.º - 1. A demarcação das áreas de reserva, consoante se trate da aplicação do preceituado no [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, ou no [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, compete, respectivamente, ao Centro Regional de Reforma Agrária ou à Comissão de Gestão Transitória da situação do prédio ou conjunto de prédios expropriados ou nacionalizados.
 
 2. Caso o prédio ou conjunto de prédios expropriados ou nacionalizados se situem na área de actuação de dois ou mais dos organismos mencionados no número anterior, é competente para efectuar a demarcação aquele em cuja circunscrição se situar a maior área expropriada ou nacionalizada.
 
-###### Art. 5.º O acto de demarcação das áreas de reserva é obrigatoriamente precedido de audiência dos reservatários.
+Art. 5.º O acto de demarcação das áreas de reserva é obrigatoriamente precedido de audiência dos reservatários.
 
-###### Art. 6.º - 1. As áreas de reserva deverão localizar-se nos antigos prédios pertencentes aos reservatários ou o mais próximo possível deles.
+Art. 6.º - 1. As áreas de reserva deverão localizar-se nos antigos prédios pertencentes aos reservatários ou o mais próximo possível deles.
 
 2. Se nos antigos prédios dos reservatários estiverem instaladas unidades de produção já reconhecidas, a área de reserva só não será aí demarcada caso seja afectada a viabilidade económica da exploração destas.
 
-###### Art. 7.º Tratando-se de nacionalização ao abrigo do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, a área de reserva situar-se-á, obrigatoriamente, na zona nacionalizada.
+Art. 7.º Tratando-se de nacionalização ao abrigo do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, a área de reserva situar-se-á, obrigatoriamente, na zona nacionalizada.
 
-###### Art. 8.º - 1. Do acto de demarcação, que será notificado ao reservatário, cabe recurso para o respectivo Conselho Regional de Reforma Agrária, e da decisão deste para o Ministro da Agricultura e Pescas.
+Art. 8.º - 1. Do acto de demarcação, que será notificado ao reservatário, cabe recurso para o respectivo Conselho Regional de Reforma Agrária, e da decisão deste para o Ministro da Agricultura e Pescas.
 
 2. Caso o Conselho Regional de Reforma Agrária competente ainda não se ache constituído, o recurso será interposto directamente para o Ministro da Agricultura e Pescas.
 
-###### Art. 9.º - 1. O direito de reserva dos usufrutuários, usuários, superficiários e titulares de outros direitos da mesma natureza é exercido em sobreposição aos direitos de reserva dos respectivos proprietários.
+Art. 9.º - 1. O direito de reserva dos usufrutuários, usuários, superficiários e titulares de outros direitos da mesma natureza é exercido em sobreposição aos direitos de reserva dos respectivos proprietários.
 
 2. Se o direito de reserva do proprietário tiver caducado, os reservatários referidos no número anterior exercerão o direito de reserva nos termos aí indicados, em relação à entidade que o Centro Regional de Reforma Agrária ou a Comissão de Gestão Transitória competentes determinarem.
 
-###### Art. 10.º - 1. O direito de reserva dos arrendatários será exercido nas condições estabelecidas no n.º 1 do artigo anterior, em relação aos respectivos senhorios, ou, quando tal não seja possível, nos termos do n.º 2 do mesmo artigo.
+Art. 10.º - 1. O direito de reserva dos arrendatários será exercido nas condições estabelecidas no n.º 1 do artigo anterior, em relação aos respectivos senhorios, ou, quando tal não seja possível, nos termos do n.º 2 do mesmo artigo.
 
 2. A renda será fixada em conformidade com a disciplina prevista para o arrendamento rural, ficando todo o contrato submetido ao seu regime.
 
-###### Art. 11.º - 1. O direito de reserva dos titulares dos patrimónios e situações jurídicas referidas no artigo 16.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 14.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, é atribuído, conjuntamente, a todos os titulares, com a extensão e o conteúdo que caiba aos reservatários singulares correspondentes.
+Art. 11.º - 1. O direito de reserva dos titulares dos patrimónios e situações jurídicas referidas no artigo 16.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 14.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, é atribuído, conjuntamente, a todos os titulares, com a extensão e o conteúdo que caiba aos reservatários singulares correspondentes.
 
 2. Nas relações internas aplicar-se-á o regime jurídico a que o património ou situação jurídica estavam submetidos até à expropriação ou nacionalização, salvo quanto aos agrupamentos de facto, cujo direito de reserva ficará submetido ao regime da compropriedade, se a concessão for do direito de propriedade, e ao regime que os contitulares acordarem, no caso de concessão do direito de exploração.
 
 3. As quotas de cada um dos contitulares do agrupamento de facto, quer se trate de concessão do direito de propriedade, quer do direito de exploração, serão proporcionais aos valores expropriados ou nacionalizados.
 
-###### Art. 12.º Ao contitular ou contitulares dos patrimónios e situações jurídicas referidos no artigo 16.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 14.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, poderá o Conselho Regional de Reforma Agrária competente, ouvido o Centro Regional de Reforma Agrária ou a Comissão de Gestão Transitória respectiva, conceder a cada um deles a exploração de uma área de terra que, adicionada à do valor da quota que lhe couber na respectiva reserva, perfaça uma pontuação equivalente à que tinha nos prédios expropriados, mas nunca superior a 50000 pontos, desde que se encontrem numa das seguintes situações:
+Art. 12.º Ao contitular ou contitulares dos patrimónios e situações jurídicas referidos no artigo 16.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 14.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, poderá o Conselho Regional de Reforma Agrária competente, ouvido o Centro Regional de Reforma Agrária ou a Comissão de Gestão Transitória respectiva, conceder a cada um deles a exploração de uma área de terra que, adicionada à do valor da quota que lhe couber na respectiva reserva, perfaça uma pontuação equivalente à que tinha nos prédios expropriados, mas nunca superior a 50000 pontos, desde que se encontrem numa das seguintes situações:
 
 a) Exploradores directos e pessoais da terra e que dessa actividade retirem, predominantemente, os seus meios de subsistência;
 
@@ -153,7 +183,7 @@ d) Pessoas fisicamente diminuídas que aufiram da exploração agrícola, predom
 
 e) Nacionais retornados que vivam exclusivamente da exploração agrícola.
 
-###### Art. 13.º- 1. O direito à reserva adicional previsto no artigo anterior será requerido pelos interessados, nos termos aí referidos, competindo-lhes fazer prova dos respectivos fundamentos.
+Art. 13.º- 1. O direito à reserva adicional previsto no artigo anterior será requerido pelos interessados, nos termos aí referidos, competindo-lhes fazer prova dos respectivos fundamentos.
 
 2. Do indeferimento da pretensão cabe recurso para o Ministro da Agricultura e Pescas.
 
@@ -161,18 +191,18 @@ e) Nacionais retornados que vivam exclusivamente da exploração agrícola.
 
 4. O direito à reserva adicional caduca logo que deixem de se verificar quaisquer dos fundamentos previstos no artigo 12.º
 
-###### Art. 14.º Os Centros Regionais de Reforma Agrária e as Comissões de Gestão Transitória emitirão cartas de concessão do direito de reserva, que terão força probatória plena, nomeadamente para a primeira inscrição no registo predial e cujo modelo será definido por portaria do Ministro da Agricultura e Pescas.
+Art. 14.º Os Centros Regionais de Reforma Agrária e as Comissões de Gestão Transitória emitirão cartas de concessão do direito de reserva, que terão força probatória plena, nomeadamente para a primeira inscrição no registo predial e cujo modelo será definido por portaria do Ministro da Agricultura e Pescas.
 
-###### Art. 15.º Nos casos previstos no n.º 1 do artigo 9.º, no n.º 1 do artigo 10.º e no artigo 12.º não funciona o direito de preferência a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e o n.º 3 do artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho.
+Art. 15.º Nos casos previstos no n.º 1 do artigo 9.º, no n.º 1 do artigo 10.º e no artigo 12.º não funciona o direito de preferência a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e o n.º 3 do artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho.
 
-###### Art. 16.º Enquanto não estiverem em funcionamento os Conselhos Regionais de Reforma Agrária, a competência que lhes é atribuída neste diploma será exercida pelo Ministro da Agricultura e Pescas.
+Art. 16.º Enquanto não estiverem em funcionamento os Conselhos Regionais de Reforma Agrária, a competência que lhes é atribuída neste diploma será exercida pelo Ministro da Agricultura e Pescas.
 
-###### Art. 17.º As dúvidas surgidas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 17.º As dúvidas surgidas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Armando Bacelar.
 
-**Promulgado em 5 de Junho de 1976.**
+Promulgado em 5 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

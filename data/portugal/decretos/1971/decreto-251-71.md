@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/06/13600/08690875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/251-1971-644141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b06beb8b714c3d2086fdf56cf3ca5816887a8e40506fbf8efd21a3720b701b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0752eee34642915b9fc3b014ce20d6b8d767e51c50ec5510cdebfa123b3b99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Cidadão Estrangeiro
+- Cidadão Nacional
+- Direcção Geral dos Registos e do Notariado
+- Identificação Civil
+- Impresso
+- Pessoal Administrativo
+- Registo Criminal
+- Residência
+- Residência de Estrangeiros
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:506818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506818:por
+  label: "Revogado pelo DEC LEI.64/76.24.01.1976.MJ, DG.IS [20] de 24.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1976-506818
+  date: '1976-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:49Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +136,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os pedidos de bilhete de identidade ou de averbamento devem ser formulados em impressos próprios, assinados pelo requisitante.
+Artigo 1.º - 1. Os pedidos de bilhete de identidade ou de averbamento devem ser formulados em impressos próprios, assinados pelo requisitante.
 
 2. Se o requisitante não souber escrever, far-se-á menção dessa circunstância no lugar que nos impressos é reservado à assinatura.
 
@@ -112,7 +144,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. A competência territorial das repartições dependentes da Direcção dos Serviços de Identificação é fixada em portaria do Ministro da Justiça.
 
-###### Art. 2.º - 1. O pedido de bilhete de identidade deve ser acompanhado de duas fotografias do requisitante e de certidão de nascimento, de modelo especial, passada há menos de três meses, ou de documento que a substitua.
+Art. 2.º - 1. O pedido de bilhete de identidade deve ser acompanhado de duas fotografias do requisitante e de certidão de nascimento, de modelo especial, passada há menos de três meses, ou de documento que a substitua.
 
 2. As fotografias devem ser actuais, em tons de preto e branco, e oferecer boas condições de identificação do retratado; uma das fotografias deve apresentar-se colada no lugar próprio do impresso do pedido.
 
@@ -130,7 +162,7 @@ d) Pela cédula pessoal do requisitante, devidamente actualizada.
 
 5. Ao processo para a obtenção do certificado de notoriedade são aplicáveis as disposições legais que regulam a sua emissão para efeitos de casamento.
 
-###### Art. 3.º - 1. O pedido de renovação do bilhete de identidade deve ser acompanhado de duas fotografias do requisitante e do bilhete de identidade anterior.
+Art. 3.º - 1. O pedido de renovação do bilhete de identidade deve ser acompanhado de duas fotografias do requisitante e do bilhete de identidade anterior.
 
 2. Se o bilhete de identidade anterior não for apresentado, o requisitante deve declarar, no verso do impresso do pedido, os motivos que obstam à sua entrega, esclarecendo, em caso de destruição ou extravio, as circunstâncias em que teve lugar.
 
@@ -140,21 +172,21 @@ d) Pela cédula pessoal do requisitante, devidamente actualizada.
 
 5. A qualidade de funcionário ou a sua perda prova-se por declaração do superior hierárquico do interessado ou da entidade que tiver a seu cargo o respectivo processo individual, exarada, de preferência, no verso do impresso do pedido, e devidamente assinada e autenticada com o correspondente selo branco.
 
-###### Art. 4.º - 1. O pedido de segunda via do bilhete de identidade tem de ser acompanhado apenas de duas fotografias, mas o requisitante deve declarar, no verso do impresso do pedido, as circunstâncias que deram lugar à destruição ou extravio do bilhete original.
+Art. 4.º - 1. O pedido de segunda via do bilhete de identidade tem de ser acompanhado apenas de duas fotografias, mas o requisitante deve declarar, no verso do impresso do pedido, as circunstâncias que deram lugar à destruição ou extravio do bilhete original.
 
 2. A passagem da segunda via será recusada sempre que algum dos elementos de identificação mencionados no pedido seja diferente dos que constam do processo individual arquivado.
 
-###### Art. 5.º - 1. O pedido de averbamento deve ser acompanhado de duas fotografias do requisitante e do respectivo bilhete de identidade.
+Art. 5.º - 1. O pedido de averbamento deve ser acompanhado de duas fotografias do requisitante e do respectivo bilhete de identidade.
 
 2. O disposto nos n.os 4 e 5 do artigo 3.º do presente diploma é aplicável à prova da alteração dos elementos de identificação a averbar.
 
-###### Art. 6.º Se o requisitante do bilhete de identidade tiver nascido no estrangeiro e invocar a nacionalidade portuguesa com base no disposto no n.º 3 do artigo 18.º do Código Civil de 1867, e o pedido for instruído com certidão passada por conservatória do registo civil ou pela Conservatória dos Registos Centrais, de transcrição do registo de nascimento lavrado no país de origem, a prova de estabelecimento de domicílio em território nacional considera-se feita desde que da certidão conste o averbamento da respectiva declaração.
+Art. 6.º Se o requisitante do bilhete de identidade tiver nascido no estrangeiro e invocar a nacionalidade portuguesa com base no disposto no n.º 3 do artigo 18.º do Código Civil de 1867, e o pedido for instruído com certidão passada por conservatória do registo civil ou pela Conservatória dos Registos Centrais, de transcrição do registo de nascimento lavrado no país de origem, a prova de estabelecimento de domicílio em território nacional considera-se feita desde que da certidão conste o averbamento da respectiva declaração.
 
-###### Art. 7.º - 1. Os impressos do pedido de bilhete de identidade ou de averbamento devem ser apresentados pelo próprio interessado, devidamente preenchidos, de preferência à máquina ou, quando manuscritos, com letra bem legível; em qualquer dos casos, não se admitem emendas, rasuras ou entrelinhas.
+Art. 7.º - 1. Os impressos do pedido de bilhete de identidade ou de averbamento devem ser apresentados pelo próprio interessado, devidamente preenchidos, de preferência à máquina ou, quando manuscritos, com letra bem legível; em qualquer dos casos, não se admitem emendas, rasuras ou entrelinhas.
 
 2. Os serviços de recepção podem incumbir-se, a solicitação dos interessados, do preenchimento dos impressos a que se refere o número anterior, nas condições que vierem a ser determinadas por despacho do Ministro da Justiça.
 
-###### Art. 8.º - 1. Aos serviços de recepção dos pedidos de bilhete de identidade ou de averbamento compete:
+Art. 8.º - 1. Aos serviços de recepção dos pedidos de bilhete de identidade ou de averbamento compete:
 
 a) Assegurar que o requerente é o próprio apresentante do pedido;
 
@@ -168,7 +200,7 @@ e) Colar a fotografia no impresso do bilhete de identidade, e colher a assinatur
 
 2. A recepção deve ser imediatamente recusada se o pedido não for apresentado pelo próprio identificando, não se mostrar instruído com os documentos necessários, ou se os respectivos impressos não estiverem preenchidos correcta, completamente e em condições de perfeita legibilidade.
 
-###### Art. 9.º - 1. A nota de conferência a que se refere a alínea c) do n.º 1 do artigo anterior será datada e rubricada pelo funcionário conferente e, quando o pedido for instruído com a cédula pessoal, além da palavra «Conferido» deverá conter o número da cédula e do assento de nascimento, bem como a indicação da conservatória emitente; esta nota, sempre que lançada em conservatória intermediária, deve ser autenticada com o selo branco.
+Art. 9.º - 1. A nota de conferência a que se refere a alínea c) do n.º 1 do artigo anterior será datada e rubricada pelo funcionário conferente e, quando o pedido for instruído com a cédula pessoal, além da palavra «Conferido» deverá conter o número da cédula e do assento de nascimento, bem como a indicação da conservatória emitente; esta nota, sempre que lançada em conservatória intermediária, deve ser autenticada com o selo branco.
 
 2. A impressão digital do requerente, a colher nos impressos do pedido do bilhete de identidade, será a do indicador direito ou, quando esta impressão não possa ser colhida, do indicador esquerdo e, na sua falta, a de qualquer outro dedo das mãos; a impressão colhida, se não for a do indicador direito, levará a menção do dedo a que corresponde.
 
@@ -182,9 +214,9 @@ Não havendo possibilidade de colher qualquer impressão digital, deverá mencio
 
 6. A multa a que se refere o número anterior pode ser paga voluntàriamente no prazo de dez dias, a contar da recepção do respectivo aviso, expedido pela Direcção dos Serviços de Identificação; na falta de pagamento voluntário será imposta em processo de transgressão instaurado pelo Ministério Público, com base no auto lavrado pelos Serviços de Identificação.
 
-###### Art. 10.º Sempre que se suscitem dúvidas sobre a exactidão de qualquer dos elementos de identificação mencionados pelo interessado no pedido do bilhete de identidade ou de averbamento, o director dos Serviços pode exigir a apresentação da prova complementar que tenha por conveniente.
+Art. 10.º Sempre que se suscitem dúvidas sobre a exactidão de qualquer dos elementos de identificação mencionados pelo interessado no pedido do bilhete de identidade ou de averbamento, o director dos Serviços pode exigir a apresentação da prova complementar que tenha por conveniente.
 
-###### Art. 11.º - 1. O bilhete de identidade, além da data da emissão e do prazo de validade, conterá os seguintes elementos de identificação do respectivo titular:
+Art. 11.º - 1. O bilhete de identidade, além da data da emissão e do prazo de validade, conterá os seguintes elementos de identificação do respectivo titular:
 
 a) Número individual;
 
@@ -220,7 +252,7 @@ l) Assinatura.
 
 6. A menção da filiação poderá ser omitida a expresso pedido do requisitante.
 
-###### Art. 12.º - 1. Os nomes do interessado e dos seus progenitores serão inscritos no bilhete de identidade como se mostrarem fixados de conformidade com a lei do registo civil, em face da certidão de nascimento ou da cédula pessoal.
+Art. 12.º - 1. Os nomes do interessado e dos seus progenitores serão inscritos no bilhete de identidade como se mostrarem fixados de conformidade com a lei do registo civil, em face da certidão de nascimento ou da cédula pessoal.
 
 2. Se o assento de nascimento for anterior a 1 de Abril de 1911, e dele constar apenas o nome próprio, será inscrito o nome completo que tiver sido adoptado pelo interessado em actos ou documentos oficiais; se o interessado tiver usado, em actos ou documentos oficiais, nomes diversos, escolherá, entre eles, aquele que pretende adoptar para fins de identificação. Na falta de escolha, inscrever-se-á o primeiro nome completo com que o interessado se tiver identificado oficialmente.
 
@@ -232,7 +264,7 @@ b) Em casos excepcionais devidamente justificados, a inscrição dos nomes próp
 
 c) Na indicação da filiação, os apelidos dos progenitores que não sejam os dois últimos podem ser substituídos pelas respectivas iniciais.
 
-###### Art. 13.º - 1. A naturalidade é inscrita no bilhete de identidade mediante menção, sempre que possível sob a designação actual, da freguesia e da sede do concelho correspondente ao local do nascimento; a menção das freguesias urbanas poderá ser omitida.
+Art. 13.º - 1. A naturalidade é inscrita no bilhete de identidade mediante menção, sempre que possível sob a designação actual, da freguesia e da sede do concelho correspondente ao local do nascimento; a menção das freguesias urbanas poderá ser omitida.
 
 2. Em relação aos naturais do ultramar, inscreve-se o concelho ou equivalente, e a província.
 
@@ -240,39 +272,39 @@ c) Na indicação da filiação, os apelidos dos progenitores que não sejam os 
 
 4. Se da certidão ou documento equivalente não constar o local de nascimento, omite-se a menção da naturalidade.
 
-###### Art. 14.º No caso de não constar da certidão ou do documento equivalente a data do nascimento, essa indicação é omitida no bilhete de identidade, anotando-se sempre que possível, no espaço reservado a indicações eventuais, a data do baptismo ou do registo.
+Art. 14.º No caso de não constar da certidão ou do documento equivalente a data do nascimento, essa indicação é omitida no bilhete de identidade, anotando-se sempre que possível, no espaço reservado a indicações eventuais, a data do baptismo ou do registo.
 
-###### Art. 15.º - 1. A residência será indicada segundo as declarações do interessado, mediante a inscrição, no bilhete de identidade, da freguesia e do concelho em que se situe.
+Art. 15.º - 1. A residência será indicada segundo as declarações do interessado, mediante a inscrição, no bilhete de identidade, da freguesia e do concelho em que se situe.
 
 2. É aplicável à inscrição da residência o disposto nos n.os 1 a 3 do artigo 13.º
 
-###### Art. 16.º O estado civil será omitido quando o declarado no impresso do pedido resultar de facto que não tenha ingressado no registo civil português e a ele esteja obrigatòriamente sujeito, ou não se mostre provado pelos documentos apresentados.
+Art. 16.º O estado civil será omitido quando o declarado no impresso do pedido resultar de facto que não tenha ingressado no registo civil português e a ele esteja obrigatòriamente sujeito, ou não se mostre provado pelos documentos apresentados.
 
-###### Art. 17.º - 1. A nacionalidade do cidadão estrangeiro é inscrita no espaço reservado a indicações eventuais.
+Art. 17.º - 1. A nacionalidade do cidadão estrangeiro é inscrita no espaço reservado a indicações eventuais.
 
 2. Se o bilhete de identidade for requerido por estrangeiro nascido em território português e na respectiva certidão de nascimento não estiver averbada a perda da nacionalidade portuguesa, será o processo submetido ao visto da Conservatória dos Registos Centrais.
 
-###### Art. 18.º - 1. A definição da qualidade de funcionário do Estado ou equiparado, para efeito de inscrição no bilhete de identidade, e a forma de proceder a essa inscrição serão regulamentadas por despacho do Ministro da Justiça, sob proposta dos Serviços de Identificação.
+Art. 18.º - 1. A definição da qualidade de funcionário do Estado ou equiparado, para efeito de inscrição no bilhete de identidade, e a forma de proceder a essa inscrição serão regulamentadas por despacho do Ministro da Justiça, sob proposta dos Serviços de Identificação.
 
 2. Pode ser determinada forma diferente de inscrição conforme os bilhetes de identidade sejam emitidos manualmente ou por computador.
 
-###### Art. 19.º - 1. São nulos e não podem ser usados para qualquer efeito os bilhetes de identidade que tiverem ultrapassado o prazo de validade, os que se encontrem em mau estado de conservação ou contiverem elementos de identificação desactualizados, salvo a altura dos titulares de menor idade.
+Art. 19.º - 1. São nulos e não podem ser usados para qualquer efeito os bilhetes de identidade que tiverem ultrapassado o prazo de validade, os que se encontrem em mau estado de conservação ou contiverem elementos de identificação desactualizados, salvo a altura dos titulares de menor idade.
 
 2. Qualquer entidade ou serviço oficial perante quem sejam exibidos bilhetes de identidade nulos deve apreendê-los e remetê-los ao arquivo emissor, onde aguardarão que os interessados requeiram a respectiva renovação ou actualização.
 
-###### Art. 20.º - 1. As conservatórias do registo civil, quando praticarem actos que obriguem a apresentação do bilhete de identidade e envolvam alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira o correspondente averbamento, retendo, para tanto, o bilhete apresentado.
+Art. 20.º - 1. As conservatórias do registo civil, quando praticarem actos que obriguem a apresentação do bilhete de identidade e envolvam alteração de qualquer dos elementos nele inscritos, devem promover que o interessado requeira o correspondente averbamento, retendo, para tanto, o bilhete apresentado.
 
 2. Decorrido o prazo de sessenta dias, a contar da data em que se tenha verificado o facto a averbar sem que o averbamento devido tenha sido requerido, o conservador deve enviar o bilhete de identidade retido à repartição emissora, comunicando-lhe, por ofício, a sua desactualização e em que esta consiste.
 
 3. Os bilhetes de identidade remetidos oficiosamente, nos termos do número anterior, bem como os referidos nos artigos 11.º e seguintes do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, aguardam na repartição de identificação competente que o interessado requeira o averbamento devido.
 
-###### Art. 21.º - 1. Os impressos de bilhete de identidade a emitir por computador são do modelo anexo ao presente diploma, podendo o Ministro da Justiça autorizar, por simples despacho, a sua utilização nos bilhetes emitidos manualmente.
+Art. 21.º - 1. Os impressos de bilhete de identidade a emitir por computador são do modelo anexo ao presente diploma, podendo o Ministro da Justiça autorizar, por simples despacho, a sua utilização nos bilhetes emitidos manualmente.
 
 2. Os modelos de bilhete de identidade emitidos pelas repartições dependentes da Direcção dos Serviços de Identificação poderão a todo o tempo ser alterados em portaria do Ministro da Justiça.
 
 3. Para a emissão de bilhetes de identidade sem a menção da filiação será adoptado o modelo anexo ao [Decreto n.º 45754](https://diariodarepublica.pt/dr/detalhe/decreto/45754-1964-577153), de 5 de Junho de 1964.
 
-###### Art. 22.º - 1. Estão sujeitos a registo criminal:
+Art. 22.º - 1. Estão sujeitos a registo criminal:
 
 a) Os despachos de pronúncia ou equivalentes;
 
@@ -300,7 +332,7 @@ l) O falecimento dos réus e dos condenados.
 
 2. O registo criminal abrange as decisões proferidas por tribunais metropolitanos referentes a indivíduos de qualquer nacionalidade e as decisões proferidas por quaisquer tribunais relativamente a cidadãos portugueses naturais da metrópole ou nela residentes.
 
-###### Art. 23.º - 1. O registo criminal é organizado em cadastros individuais, constituídos por boletins de modelo superiormente aprovado ou pela sua fotocópia, de tal forma que em cada cadastro fiquem reunidos todos os boletins referentes ao mesmo indivíduo.
+Art. 23.º - 1. O registo criminal é organizado em cadastros individuais, constituídos por boletins de modelo superiormente aprovado ou pela sua fotocópia, de tal forma que em cada cadastro fiquem reunidos todos os boletins referentes ao mesmo indivíduo.
 
 2. A cada cadastro individual é atribuído um número, pelo qual é ordenado no arquivo numérico, e a que corresponde um ou mais verbetes onomásticos ordenados alfabèticamente.
 
@@ -310,7 +342,7 @@ l) O falecimento dos réus e dos condenados.
 
 5. Os boletins convertidos em suporte magnético ou respeitantes a indivíduos falecidos ou com mais de 70 anos de idade podem ser inutilizados depois de microfilmados.
 
-###### Art. 24.º - 1. Os boletins do registo criminal devem conter:
+Art. 24.º - 1. Os boletins do registo criminal devem conter:
 
 a) A indicação do tribunal remetente, do processo e do responsável pelo seu preenchimento;
 
@@ -330,11 +362,11 @@ c) A pena aplicada ou o tempo de internamento determinado.
 
 4. A forma de preenchimento e o conteúdo dos boletins poderão ser alterados por despacho do Ministro da Justiça, sob proposta da Direcção dos Serviços de Identificação.
 
-###### Art. 25.º - 1. Compete ao Ministério Público ou a quem exercer a acção penal promover que dos autos constem os elementos de identificação do arguido referidos no artigo anterior.
+Art. 25.º - 1. Compete ao Ministério Público ou a quem exercer a acção penal promover que dos autos constem os elementos de identificação do arguido referidos no artigo anterior.
 
 2. A notificação judicial a que se refere o artigo 83.º do Código de Processo Penal, quando respeite a arguidos, será feita com a obrigação de apresentação do bilhete de identidade ou, na sua falta, de cédula pessoal; no caso de se tratar de cidadão estrangeiro, qualquer dos documentos referidos pode ser substituído pelo passaporte.
 
-###### Art. 26.º - 1. Os boletins do registo criminal devem ser enviados à Direcção dos Serviços de Identificação no prazo de três dias a contar da data da decisão ou do facto sujeito a registo ou da baixa do processo à 1.ª instância.
+Art. 26.º - 1. Os boletins do registo criminal devem ser enviados à Direcção dos Serviços de Identificação no prazo de três dias a contar da data da decisão ou do facto sujeito a registo ou da baixa do processo à 1.ª instância.
 
 2. O preenchimento e remessa dos boletins são da responsabilidade do escrivão de direito da secção por onde corre o processo ou de quem exerça as correspondentes funções.
 
@@ -342,17 +374,17 @@ c) A pena aplicada ou o tempo de internamento determinado.
 
 4. Os boletins referentes a estrangeiros devem ser remetidos em duplicado aos Serviços de Identificação, que darão a um dos exemplares o destino previsto nas convenções existentes.
 
-###### Art. 27.º - 1. Se não for possível o preenchimento completo do boletim, o juiz da comarca deverá nele apor a declaração de ter verificado essa impossibilidade.
+Art. 27.º - 1. Se não for possível o preenchimento completo do boletim, o juiz da comarca deverá nele apor a declaração de ter verificado essa impossibilidade.
 
 2. O preenchimento incompleto do boletim desacompanhado da declaração referida no número anterior, o seu preenchimento incorrecto, a divergência não justificada dos elementos de identificação do arguido entre boletins referentes ao mesmo processo e a falta de cumprimento do prazo de remessa farão incorrer o responsável na multa de 50$00, a que será dado o destino previsto no n.º 3 do artigo 41.º
 
 3. É aplicável ao pagamento da multa a que se refere o número anterior o disposto no n.º 6 do artigo 9.º do presente diploma.
 
-###### Art. 28.º - 1. O recebimento dos boletins correctamente preenchidos deverá ser acusado, mediante a devolução do respectivo recibo pelos Serviços de Identificação, no prazo de três dias a contar da data da recepção.
+Art. 28.º - 1. O recebimento dos boletins correctamente preenchidos deverá ser acusado, mediante a devolução do respectivo recibo pelos Serviços de Identificação, no prazo de três dias a contar da data da recepção.
 
 2. Quando a recepção do boletim correctamente preenchido não for acusada nos oito dias seguintes à sua expedição, o responsável pelo processo deve comunicar o facto ao juiz que, por sua vez, o participará ao director dos Serviços de Identificação para instauração do competente procedimento disciplinar, se a ele houver lugar.
 
-###### Art. 29.º - 1. O conteúdo do registo criminal será certificado em face dos cadastros individuais de harmonia com o disposto nos artigos seguintes.
+Art. 29.º - 1. O conteúdo do registo criminal será certificado em face dos cadastros individuais de harmonia com o disposto nos artigos seguintes.
 
 2. Os certificados do registo criminal podem ser passados em impresso de modelo especial ou, mediante aposição de carimbo, chancela ou impressão mecânica, no próprio impresso de requisição ou requerimento.
 
@@ -364,7 +396,7 @@ c) A pena aplicada ou o tempo de internamento determinado.
 
 6. Os certificados são válidos por três meses a contar da data da sua emissão e exclusivamente para o fim indicado no requerimento ou na requisição.
 
-###### Art. 30.º - 1. Podem requerer certificados do registo criminal:
+Art. 30.º - 1. Podem requerer certificados do registo criminal:
 
 a) O próprio interessado;
 
@@ -380,11 +412,11 @@ d) Os advogados e solicitadores, em representação dos seus constituintes assis
 
 4. A indicação no requerimento do número do bilhete de identidade da pessoa a quem respeita o certificado só poderá ser dispensada pelo director dos Serviços de Identificação no caso de essa indicação se mostrar impossível ou muito difícil de obter, e não houver dúvidas sobre a correcção dos elementos de identificação declarados.
 
-###### Art. 31.º - 1. Os requerimentos destinados a obter certificados do registo criminal podem ser apresentados directamente na repartição competente para a sua emissão, ou por intermédio de qualquer repartição dependente da Direcção dos Serviços de Identificação, das secretarias judiciais ou, nos concelhos que não sejam sede de comarca ou julgado, das secretarias das câmaras municipais, dos serviços de identificação ultramarinos e das representações diplomáticas ou consulares portuguesas no estrangeiro.
+Art. 31.º - 1. Os requerimentos destinados a obter certificados do registo criminal podem ser apresentados directamente na repartição competente para a sua emissão, ou por intermédio de qualquer repartição dependente da Direcção dos Serviços de Identificação, das secretarias judiciais ou, nos concelhos que não sejam sede de comarca ou julgado, das secretarias das câmaras municipais, dos serviços de identificação ultramarinos e das representações diplomáticas ou consulares portuguesas no estrangeiro.
 
 2. Os certificados requeridos por advogados ou solicitadores nessa qualidade são remetidos directamente ao tribunal onde corre o processo.
 
-###### Art. 32.º - 1. Os certificados do registo criminal podem ser requisitados para fins de investigação policial, ou para fins de instrução de processos criminais, de execução de penas ou individuais de reclusos, pelos magistrados judiciais e do Ministério Público e pelas entidades com competência para instrução de processos das espécies referidas.
+Art. 32.º - 1. Os certificados do registo criminal podem ser requisitados para fins de investigação policial, ou para fins de instrução de processos criminais, de execução de penas ou individuais de reclusos, pelos magistrados judiciais e do Ministério Público e pelas entidades com competência para instrução de processos das espécies referidas.
 
 2. As requisições devem ser preenchidas em impressos próprios, acompanhadas, sempre que possível, do boletim dactiloscópico do identificando, não devendo ser aceites aquelas que se encontrem incompletas e incorrectamente preenchidas, apresentem emendas, rasuras ou entrelinhas, ou não indiquem o nome e categoria da pessoa que as assina.
 
@@ -392,9 +424,9 @@ d) Os advogados e solicitadores, em representação dos seus constituintes assis
 
 4. As autoridades ou entidades diplomáticas e consulares estrangeiras podem ser autorizadas a requisitar certificados do registo criminal nas mesmas condições em que o são as correspondentes autoridades nacionais.
 
-###### Art. 33.º Mediante proposta fundamentada da Direcção dos Serviços de Identificação, o Ministro da Justiça pode autorizar o requerimento ou a requisição de certificados do registo criminal formulados por entidades oficiais para fins não abrangidos no artigo anterior.
+Art. 33.º Mediante proposta fundamentada da Direcção dos Serviços de Identificação, o Ministro da Justiça pode autorizar o requerimento ou a requisição de certificados do registo criminal formulados por entidades oficiais para fins não abrangidos no artigo anterior.
 
-###### Art. 34.º - 1. Os certificados requisitados nos termos do n.º 1 do artigo 32.º conterão a transcrição integral do registo criminal, com excepção dos boletins de despachos de pronúncia ou equivalentes, relativos a processos em que já tenha sido proferida a decisão final, e dos boletins de condenações por contravenções, decorrido um ano sobre o trânsito em julgado da respectiva sentença.
+Art. 34.º - 1. Os certificados requisitados nos termos do n.º 1 do artigo 32.º conterão a transcrição integral do registo criminal, com excepção dos boletins de despachos de pronúncia ou equivalentes, relativos a processos em que já tenha sido proferida a decisão final, e dos boletins de condenações por contravenções, decorrido um ano sobre o trânsito em julgado da respectiva sentença.
 
 2. Os certificados requeridos para exercício de funções públicas ou equiparadas, naturalização ou junção a processos judiciais terão o conteúdo referido no número anterior, com excepção das condenações em pena suspensa declarada sem efeito e as decisões absolutórias ou acerca das quais se tenha verificado a reabilitação para o fim a que se destina o certificado.
 
@@ -414,21 +446,21 @@ f) As condenações em pena não superior a seis meses de prisão ou equivalente
 
 4. Os certificados requeridos ou requisitados ao abrigo de autorização especial terão o conteúdo que na mesma autorização for determinado.
 
-###### Art. 35.º Compete ao director dos Serviços de Identificação resolver quaisquer reclamações sobre a legalidade da transcrição nos certificados das notas do registo criminal, cabendo recurso da sua decisão para o tribunal de execução das penas.
+Art. 35.º Compete ao director dos Serviços de Identificação resolver quaisquer reclamações sobre a legalidade da transcrição nos certificados das notas do registo criminal, cabendo recurso da sua decisão para o tribunal de execução das penas.
 
-###### Art. 36.º - 1. Estão sujeitos ao registo especial de menores as decisões dos tribunais tutelares que apliquem ou alterem medidas de internamento em instituto médico-psicológico ou de reeducação e em prisão-escola ou estabelecimento equivalente.
+Art. 36.º - 1. Estão sujeitos ao registo especial de menores as decisões dos tribunais tutelares que apliquem ou alterem medidas de internamento em instituto médico-psicológico ou de reeducação e em prisão-escola ou estabelecimento equivalente.
 
 2. O registo especial de menores é organizado em arquivo próprio, é secreto e dele só poderão ser passados certificados quando requisitados pela Direcção-Geral dos Serviços Tutelares de Menores, pelos tribunais tutelares de menores ou de execução das penas e ainda, se o indivíduo em causa tiver cometido, depois dos 16 anos de idade, crime a que corresponda pena maior ou vier a ser declarado delinquente de difícil correcção, pelos tribunais comuns.
 
 3. À notação e remessa dos boletins de registo especial de menores é aplicável, com as necessárias adaptações, o disposto nos artigos 24.º a 28.º
 
-###### Art. 37.º - 1. Estão sujeitos a registo policial as detenções, as ordens policiais de expulsão do território português, os mandados de captura e a sua anulação.
+Art. 37.º - 1. Estão sujeitos a registo policial as detenções, as ordens policiais de expulsão do território português, os mandados de captura e a sua anulação.
 
 2. O registo policial abrange as decisões de autoridades da metrópole referentes a cidadãos de qualquer nacionalidade.
 
 3. São aplicáveis à organização do registo policial, com as necessárias adaptações, os artigos 23.º a 28.º
 
-###### Art. 38.º - 1. Os certificados do registo policial só podem ser requisitados pelas entidades competentes para proceder a investigação policial ou a instrução de processos criminais e para esses fins.
+Art. 38.º - 1. Os certificados do registo policial só podem ser requisitados pelas entidades competentes para proceder a investigação policial ou a instrução de processos criminais e para esses fins.
 
 2. São revogadas as disposições legais que determinem a junção de certificados do registo policial para fins diferentes dos referidos no número anterior.
 
@@ -436,7 +468,7 @@ f) As condenações em pena não superior a seis meses de prisão ou equivalente
 
 4. É aplicável à requisição de certificados do registo policial o disposto nos n.os 2 e 3 do artigo 32.º
 
-###### Art. 39.º - 1. Podem ser prestadas informações sobre a identidade civil ou criminal de qualquer indivíduo às entidades autorizadas a requisitar certificados do registo criminal.
+Art. 39.º - 1. Podem ser prestadas informações sobre a identidade civil ou criminal de qualquer indivíduo às entidades autorizadas a requisitar certificados do registo criminal.
 
 2. Mediante proposta fundamentada da Direcção dos Serviços de Identificação, pode o Ministro da Justiça autorizar por despacho:
 
@@ -448,7 +480,7 @@ c) A consulta de cadastros criminais ou policiais sem que, todavia, estes possam
 
 3. Em casos de reconhecida urgência, poderá o director dos Serviços de Identificação conceder a autorização referida no número anterior.
 
-###### Art. 40.º - 1. As taxas cobradas pelos Serviços de Identificação, que em hipótese alguma podem ser restituídas aos interessados, são pagas por meio de estampilhas fiscais coladas nos impressos do pedido de bilhete de identidade ou da sua actualização, e do requerimento de certificado do registo criminal.
+Art. 40.º - 1. As taxas cobradas pelos Serviços de Identificação, que em hipótese alguma podem ser restituídas aos interessados, são pagas por meio de estampilhas fiscais coladas nos impressos do pedido de bilhete de identidade ou da sua actualização, e do requerimento de certificado do registo criminal.
 
 2. Beneficiam da isenção de taxa:
 
@@ -462,7 +494,7 @@ c) Os certificados requisitados.
 
 4. Os documentos emitidos pelos Serviços de Identificação podem ser remetidos directamente aos interessados mediante prévio pagamento da franquia postal e das despesas de remessa.
 
-###### Art. 41.º - 1. Constituem exclusivo da Direcção dos Serviços de Identificação os modelos de impressos:
+Art. 41.º - 1. Constituem exclusivo da Direcção dos Serviços de Identificação os modelos de impressos:
 
 a) De bilhete de identidade;
 
@@ -486,24 +518,24 @@ f) De reclamação.
 
 6. Os modelos de documentos que devam ser emitidos por computador constituem exclusivo do Centro de Informática, com observância do regime estabelecido nos números anteriores.
 
-###### Art. 42.º - 1. Os impressos que se destinam à venda ao público poderão ser adquiridos nos serviços de recepção dos pedidos de bilhete de identidade ou de certificado do registo criminal, ou, exceptuando o impresso de bilhete de identidade, nos estabelecimentos de venda de valores selados autorizados pela Direcção dos Serviços de Identificação.
+Art. 42.º - 1. Os impressos que se destinam à venda ao público poderão ser adquiridos nos serviços de recepção dos pedidos de bilhete de identidade ou de certificado do registo criminal, ou, exceptuando o impresso de bilhete de identidade, nos estabelecimentos de venda de valores selados autorizados pela Direcção dos Serviços de Identificação.
 
 2. Os impressos de bilhete de identidade, antes de emitidos, em nenhum caso poderão ser entregues ao público; a infracção do que fica disposto, salvo dolo ou má fé, constitui negligência grave, pela qual é responsável o funcionário que tiver requisitado os impressos.
 
 3. Não é permitida a cedência a qualquer título de impressos de bilhete de identidade entre serviços de recepção diferentes.
 
-###### Art. 43.º - 1. O tempo de serviço como escriturário-dactilógrafo nos Serviços de Identificação ou nos Serviços Centrais da Direcção-Geral dos Registos e do Notariado é equiparado, para fins de provimento em lugares dos quadros do pessoal auxiliar dos registos e notariado, ao prestado nestes serviços.
+Art. 43.º - 1. O tempo de serviço como escriturário-dactilógrafo nos Serviços de Identificação ou nos Serviços Centrais da Direcção-Geral dos Registos e do Notariado é equiparado, para fins de provimento em lugares dos quadros do pessoal auxiliar dos registos e notariado, ao prestado nestes serviços.
 
 2. Aos funcionários a que se refere o número anterior é aplicável o disposto no artigo 125.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169), de 8 de Julho.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 17 de Maio de 1971.**
+Promulgado em 17 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13600/08690875.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13600/08690875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13600/08690875.pdf)
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

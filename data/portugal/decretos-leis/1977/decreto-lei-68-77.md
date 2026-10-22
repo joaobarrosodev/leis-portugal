@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04600/02930294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1977-141643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e36beb88c2af7333f0975c94205ab2fb638debf6365bf5e79c41be7b7cf99694
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fb6d5498eff2d8142da6210eb9b68caa7fb9a062d207972fc79be65bea2e934
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Escolar
+- Ensino Preparatório
+- Ensino Primário
+- Estabelecimento de Ensino
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Incapacidade Física
+- Incapacidade Psíquica
+- Incapacidade Temporária
+- Junta Médica
+- Pessoal Docente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:325559:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325559:por
+  label: Revogado pelo DEC LEI.109/85.15.04.1985.ME, DR.IS [87] de 15.04.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1985-325559
+  date: '1985-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:41Z'
   warnings: []
   errors: []
 ---
@@ -99,25 +120,25 @@ Considerando finalmente que se deverão estabelecer as normas que possibilitem, 
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República, o Governo decreta:
 
-###### Artigo 1.º - 1. Compete às direcções dos distritos escolares, para os docentes de ensino primário, e aos órgãos de gestão dos respectivos estabelecimentos de ensino preparatório, secundário e médio, a elaboração da proposta referida no n.º 1 do artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, a qual será enviada à Direcção-Geral de Pessoal e Administração ou Direcção-Geral do Ensino Secundário relativamente ao pessoal sob sua gestão.
+Artigo 1.º - 1. Compete às direcções dos distritos escolares, para os docentes de ensino primário, e aos órgãos de gestão dos respectivos estabelecimentos de ensino preparatório, secundário e médio, a elaboração da proposta referida no n.º 1 do artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, a qual será enviada à Direcção-Geral de Pessoal e Administração ou Direcção-Geral do Ensino Secundário relativamente ao pessoal sob sua gestão.
 
 2. A proposta será sempre acompanhada de um atestado médico.
 
 3. A respectiva Direcção-Geral, uma vez recebido o processo com elementos referidos nos números anteriores, promoverá, quando o julgar conveniente, a observação do docente pela junta médica do Ministério da Educação e Investigação Científica, a quem enviará o respectivo processo.
 
-###### Art. 2.º - 1. A junta médica verificará a situação clínica e indicará a provável duração de impedimento, as tarefas para as quais o docente esteja apto e, se for o caso, a redução do serviço de que beneficiará.
+Art. 2.º - 1. A junta médica verificará a situação clínica e indicará a provável duração de impedimento, as tarefas para as quais o docente esteja apto e, se for o caso, a redução do serviço de que beneficiará.
 
 2. A junta médica, considerando o estado clínico, e de acordo com o período provável de doença, marcará data para nova observação.
 
-###### Art. 3.º - 1. A Direcção-Geral de Pessoal e Administração ou a Direcção-Geral do Ensino Secundário, em face do parecer da junta médica, quando ouvida, apresentarão as propostas finais ao Ministro da Educação e Investigação Científica, ao abrigo do disposto no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+Art. 3.º - 1. A Direcção-Geral de Pessoal e Administração ou a Direcção-Geral do Ensino Secundário, em face do parecer da junta médica, quando ouvida, apresentarão as propostas finais ao Ministro da Educação e Investigação Científica, ao abrigo do disposto no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
 2. Sempre que se trate de docente do ensino preparatório, a Direcção-Geral de Pessoal e Administração fará acompanhar a proposta do parecer da Direcção-Geral do Ensino Básico.
 
-###### Art. 4.º A Direcção-Geral respectiva, ao comunicar a decisão ao interessado, indicará a data para nova observação médica, no caso de a incapacidade ou diminuição para o exercício de funções docentes não terem sido consideradas permanentes.
+Art. 4.º A Direcção-Geral respectiva, ao comunicar a decisão ao interessado, indicará a data para nova observação médica, no caso de a incapacidade ou diminuição para o exercício de funções docentes não terem sido consideradas permanentes.
 
-###### Art. 5.º Sem prejuízo do disposto no artigo anterior, o docente será sempre submetido a nova observação pela junta médica, a realizar no último mês do ano lectivo, para avaliação da situação prevista no n.º 1 do artigo 2.º deste diploma.
+Art. 5.º Sem prejuízo do disposto no artigo anterior, o docente será sempre submetido a nova observação pela junta médica, a realizar no último mês do ano lectivo, para avaliação da situação prevista no n.º 1 do artigo 2.º deste diploma.
 
-###### Art. 6.º - 1. A substituição de docentes a quem for atribuída dispensa far-se-á pelos critérios definidos nas alíneas seguintes, constituindo cada uma delas razão de preferência relativamente à seguinte:
+Art. 6.º - 1. A substituição de docentes a quem for atribuída dispensa far-se-á pelos critérios definidos nas alíneas seguintes, constituindo cada uma delas razão de preferência relativamente à seguinte:
 
 a) Completamento de horário de docente do mesmo grupo, subgrupo, disciplina ou especialidade do professor substituído, já em serviço no estabelecimento de ensino;
 
@@ -135,8 +156,8 @@ d) Regime de serviço extraordinário.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 14 de Fevereiro de 1977.**
+Promulgado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48791-1968-256456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 401d09723a8bcaeafd50b47e6b14446d9bfb7496ed982bbd8e2ec77397574427
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 211c2157ac70c9791a25bb8434dd68ca17d6163dcb52c2a5157dcb67ea9fce05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Cessão de Imóveis
+- Direcção Geral da Fazenda Pública
+- IPSS
+- Lares
+- Lisboa
+- Ministro das Finanças
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:56Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +97,7 @@ Atendendo a que a Câmara Municipal de Lisboa informou estar na disposição de 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizado o Ministério das Finanças, pela Direcção-Geral da Fazenda Pública, a ceder, a título definitivo, ao Lar de S. João de Deus, mediante o pagamento da compensação de 13834$00, para construção de um edifício destinado a alojar e socorrer pessoas necessitadas, a parcela de terreno do Estado, com a área de 276,67 m2, sita na Rua de Brito Aranha, em Lisboa, designada com o n.º 1 e delimitada a traço grosso, preto, na planta anexa a este decreto-lei e que dele fica a fazer parte integrante.
+Artigo único. É autorizado o Ministério das Finanças, pela Direcção-Geral da Fazenda Pública, a ceder, a título definitivo, ao Lar de S. João de Deus, mediante o pagamento da compensação de 13834$00, para construção de um edifício destinado a alojar e socorrer pessoas necessitadas, a parcela de terreno do Estado, com a área de 276,67 m2, sita na Rua de Brito Aranha, em Lisboa, designada com o n.º 1 e delimitada a traço grosso, preto, na planta anexa a este decreto-lei e que dele fica a fazer parte integrante.
 
 § 1.º O terreno cedido poderá reverter para o domínio e posse do Estado, por simples despacho ministerial, no caso de ser desviado dos fins da cessão ou de a eles não ser aplicado no prazo de dois anos após a publicação deste diploma, sem direito a qualquer restituição ou indemnização.
 
@@ -98,14 +105,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Dezembro de 1968.**
+Promulgado em 11 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/30200/18991900.pdf))](https://files.diariodarepublica.pt/1s/1968/12/30200/18991900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30200/18991900.pdf)
 
 Ministério das Finanças, 11 de Dezembro de 1968. - O Ministro das Finanças, João Augusto Dias Rosas.

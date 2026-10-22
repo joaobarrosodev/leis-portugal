@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 24/1976, 2º Suplemento, Série I de 1976-01-29
   number: '24'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 228-(5) a 228-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-c-1976-144462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88719383b1880be5376fdbedcf0c29e98a84f8d7df6e7775628d8762b7ed3c32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 572dc06d7ca2f7f6f285158257c854c38e46cead974385f1339f98a9de64f4cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Campanha Eleitoral
+- Círculo Eleitoral
+- Direito de Voto
+- Eleição Legislativa
+- Imunidade Parlamentar
+- Lei Eleitoral
+- Multa
+- Parlamentar
+- Sanção Penal
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:501640:por
+  label: Rectificado pela DECL.DD483.15.03.1976.PCM, DG.IS [63] de 15.03.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-501640
+  date: '1976-03-15'
+- type: corrected_by
+  target: pt:dre:502826:por
+  label: Rectificado pela DECL.DD484.05.04.1976.PCM, DG.IS [81] de 05.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502826
+  date: '1976-04-05'
+- type: corrected_by
+  target: pt:dre:428211:por
+  label: Rectificado pela DECL.DD8862.21.05.1976.PCM, DR.IS [115] de 21.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-428211
+  date: '1976-05-21'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:57Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +157,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Organização do colégio eleitoral
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Círculos eleitorais)
 
@@ -112,7 +167,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 3 - Os cidadãos eleitores residentes no estrangeiro são agrupados em dois círculos eleitorais, um abrangendo todo o território dos países europeus, outro englobando todos os demais países dos restantes continentes, e ambos terão a sua sede em Lisboa.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Número de distribuição dos Deputados)
 
@@ -122,13 +177,13 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 3 - Até 5 de Abril o Governo publicará o mapa com o número de Deputados e a sua distribuição pelos círculos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Colégios eleitorais)
 
 A cada círculo eleitoral corresponde um colégio eleitoral.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Natureza do mandato dos Deputados)
 
@@ -136,7 +191,7 @@ Os Deputados à Assembleia Legislativa são representantes do Povo Português e 
 
 ### CAPÍTULO II — Regime da eleição
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Modo de eleição)
 
@@ -144,7 +199,7 @@ Os Deputados à Assembleia Legislativa são representantes do Povo Português e 
 
 2 - Nos círculos com menos de 37500 eleitores inscritos, o sufrágio será por lista uninominal.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Organização das listas)
 
@@ -154,7 +209,7 @@ Os Deputados à Assembleia Legislativa são representantes do Povo Português e 
 
 3 - Após a publicação do mapa referido no n.º 3 do artigo 2.º, considerar-se-ão candidatos efectivos aqueles que preencherem número igual ao dos mandatos atribuídos ao respectivo colégio eleitoral, segundo a ordenação constante da declaração de candidatura, sendo os restantes candidatos suplentes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Critério de eleição nos colégios plurinominais)
 
@@ -172,11 +227,11 @@ Exemplo prático: Suponha-se que os mandatos a distribuir no colégio eleitoral 
 
 1) Pela aplicação da 2.ª regra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf)
 
 2) Pela aplicação da 3.ª regra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02402/00050024.pdf)
 
 Portanto:
 
@@ -188,7 +243,7 @@ Lista C - 4.º mandato.
 
 3) Pela aplicação da 4.ª regra: o 7.º mandato pertence ao termo da série com o valor de 3000, mas há duas listas (A e D) a que o mesmo termo corresponde. Pela 4.ª regra o 7.º mandato atribui-se à lista D.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Distribuição dos lugares dentro das listas)
 
@@ -198,13 +253,13 @@ Lista C - 4.º mandato.
 
 3 - No caso de o candidato eleito ter optado pelas funções de membro do Governo e finda a incompatibilidade por cessação destas funções, tomará assento na Assembleia Legislativa, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Critério da eleição nos colégios uninominais)
 
 Nos colégios uninominais o mandato será conferido ao candidato da lista que obtiver maior número de votos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Vagas ocorridas na Assembleia)
 
@@ -216,13 +271,13 @@ Nos colégios uninominais o mandato será conferido ao candidato da lista que ob
 
 ### CAPÍTULO I — Marcação da data de eleição
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Marcação da eleição)
 
-**O Presidente da República marcará a data da eleição dos Deputados à Assembleia Legislativa, com a antecedência mínima de sessenta dias.**
+O Presidente da República marcará a data da eleição dos Deputados à Assembleia Legislativa, com a antecedência mínima de sessenta dias.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Dia da eleição)
 
@@ -232,7 +287,7 @@ O dia da eleição será o mesmo dentro e fora do território eleitoral.
 
 #### SECÇÃO I — Propositura das candidaturas
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Poder de apresentação de candidaturas)
 
@@ -242,7 +297,7 @@ O dia da eleição será o mesmo dentro e fora do território eleitoral.
 
 3 - Os partidos políticos poderão apresentar candidaturas de Deputados independentes desde que como tal declaradas.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Coligações ou frentes de partidos para fins eleitorais)
 
@@ -254,13 +309,13 @@ O dia da eleição será o mesmo dentro e fora do território eleitoral.
 
 4 - É aplicável às coligações ou frentes de partidos, para fins eleitorais, o disposto no n.º 3 do artigo 12.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 7 de Novembro.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Proibição de candidatura «plurima»)
 
 Ninguém pode ser candidato a Deputado por mais de um círculo eleitoral ou figurar em mais de uma lista, sob pena de inelegibilidade.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Apresentação de candidaturas)
 
@@ -272,7 +327,7 @@ Ninguém pode ser candidato a Deputado por mais de um círculo eleitoral ou figu
 
 4 - Terminado o prazo para apresentação das listas o corregedor mandará afixar cópias das mesmas à porta do edifício do tribunal.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Requisitos formais da apresentação)
 
@@ -302,7 +357,7 @@ d) Aceitam a candidatura.
 
 9 - No caso de o candidato não cumprir o previsto no número anterior, o seu lugar na lista será automaticamente ocupado pelo primeiro candidato suplente cujo processo de candidatura preencher a totalidade dos requisitos legais.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Denominações, siglas e símbolos)
 
@@ -312,7 +367,7 @@ d) Aceitam a candidatura.
 
 3 - A denominação, sigla e símbolo das coligações ou frentes deverão obedecer aos requisitos do n.º 4 do artigo 5.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 7 de Novembro.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Mandatários das listas)
 
@@ -320,19 +375,19 @@ d) Aceitam a candidatura.
 
 2 - A morada do mandatário será sempre indicada no processo de candidatura, e, quando ele não residir na sede do círculo, escolherá ali domicílio para efeito de ser notificado.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Recepção das candidaturas)
 
 Findo o prazo para a apresentação das listas, o corregedor, sem prejuízo do disposto no artigo 16.º, n.º 3, verificará, dentro dos dois dias subsequentes, a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Irregularidades processuais)
 
 Verificando-se irregularidades processuais, o corregedor mandará notificar imediatamente o mandatário da lista para as suprir no prazo de três dias.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Rejeição de candidaturas)
 
@@ -344,7 +399,7 @@ Verificando-se irregularidades processuais, o corregedor mandará notificar imed
 
 4 - Findos os prazos dos n.os 2 e 3, o corregedor, em vinte e quatro horas, fará operar nas listas as rectificações ou aditamentos requeridos pelos respectivos mandatários e fará afixar à porta do edifício do tribunal as listas rectificadas ou completadas.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Reclamação)
 
@@ -356,7 +411,7 @@ Verificando-se irregularidades processuais, o corregedor mandará notificar imed
 
 4 - Ao governador civil será enviada cópia das referidas listas.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Sorteio das listas apresentadas)
 
@@ -364,7 +419,7 @@ Verificando-se irregularidades processuais, o corregedor mandará notificar imed
 
 2 - A realização do sorteio não implica a admissão das candidaturas, devendo considerar-se sem efeito relativamente à lista ou listas que, nos termos dos artigos 22.º, 23.º, 24.º e seguintes, venham a ser definitivamente rejeitadas.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Auto do sorteio)
 
@@ -372,7 +427,7 @@ Verificando-se irregularidades processuais, o corregedor mandará notificar imed
 
 2 - À Comissão Nacional das Eleições e ao tribunal da relação do distrito judicial respectivo serão enviadas cópias do auto.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Publicação das listas)
 
@@ -380,7 +435,7 @@ Verificando-se irregularidades processuais, o corregedor mandará notificar imed
 
 2 - No dia da eleição as listas sujeitas a sufrágio serão novamente publicadas por editais afixados à porta e no interior das assembleias de voto, a cujo presidente elas serão enviadas pelo governador civil, juntamente com os boletins de voto.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Imunidades dos candidatos)
 
@@ -390,7 +445,7 @@ Verificando-se irregularidades processuais, o corregedor mandará notificar imed
 
 #### SECÇÃO II — Contencioso da apresentação das candidaturas
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Recurso para o tribunal da relação)
 
@@ -400,19 +455,19 @@ Verificando-se irregularidades processuais, o corregedor mandará notificar imed
 
 3 - No caso de recursos relativos aos círculos judiciais dos Açores, a sua interposição perante o Tribunal da Relação de Lisboa poderá ser feita por via telegráfica, sem prejuízo do posterior envio de todos os elementos de prova referidos no artigo 30.º
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Legitimidade)
 
 Têm legitimidade para interpor o recurso os candidatos, os respectivos mandatários e os partidos políticos concorrentes à eleição no círculo.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Requerimento de interposição do recurso)
 
 O requerimento da interposição do recurso, do qual constarão os seus fundamentos, será entregue no competente tribunal da relação, acompanhado de todos os elementos de prova.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Decisão)
 
@@ -420,7 +475,7 @@ O tribunal da relação, em plenário, decidirá definitivamente no prazo de qua
 
 #### SECÇÃO III — Substituição e desistência de candidaturas
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Substituição de candidatos)
 
@@ -434,13 +489,13 @@ c) Falecimento até quinze dias antes do dia designado para a eleição.
 
 2 - A substituição é obrigatória nos casos das alíneas a) e b) do número anterior e deverá efectuar-se no prazo de três dias.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Nova publicação das listas)
 
 Proceder-se-á a nova publicação das listas de candidatos havendo substituição de candidatos ou anulação de decisão de rejeição de qualquer lista.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Desistência)
 
@@ -452,7 +507,7 @@ Proceder-se-á a nova publicação das listas de candidatos havendo substituiç�
 
 ### CAPÍTULO III — Constituição das assembleias de voto
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Assembleias de voto)
 
@@ -464,13 +519,13 @@ Proceder-se-á a nova publicação das listas de candidatos havendo substituiç�
 
 4 - Compete ao presidente da câmara ou da comissão administrativa municipal, ou, nos concelhos de Lisboa e Porto, aos administradores de bairro respectivos, fixar até ao 25.º dia anterior ao dia da eleição os desdobramentos e anexações previstos nos números anteriores, comunicando-os imediatamente às juntas de freguesia interessadas. Da decisão podem estas, ou dez eleitores, pelo menos, de qualquer das assembleias de voto, recorrer no prazo de dois dias para o governador civil, o qual decidirá definitivamente em igual prazo.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Dia e hora das assembleias de voto)
 
 As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 horas da manhã, em todo o território eleitoral.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Local das assembleias de voto)
 
@@ -478,7 +533,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 2 - Compete ao presidente da câmara ou da comissão administrativa municipal e, nos concelhos de Lisboa e Porto, aos administradores de bairro respectivos determinar os locais em que funcionarão as assembleias eleitorais.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Editais sobre as assembleias de voto)
 
@@ -486,7 +541,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 2 - No caso de desdobramento ou anexação de assembleias de voto, constará igualmente dos editais a indicação dos cidadãos que deverão votar em cada assembleia.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Mesas das assembleias de voto)
 
@@ -498,7 +553,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 4 - Salvo motivo de força maior ou justa causa, é obrigatório o desempenho das funções de membro da mesa da assembleia de voto.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Delegados das listas)
 
@@ -506,7 +561,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 2 - Os delegados das listas poderão não estar inscritos no recenseamento correspondente à assembleia de voto em que deverão exercer as suas funções.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Designação dos delegados das listas)
 
@@ -516,7 +571,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 3 - Não é lícito aos partidos impugnar a eleição nas secções de voto com base em falta de qualquer delegado.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Designação dos membros da mesa)
 
@@ -534,7 +589,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 7 - Para os efeitos dos n.os 1, 2, 4, 5 e 6 deste artigo, nos concelhos onde existirem bairros administrativos a competência atribuída ao presidente da câmara ou da comissão administrativa municipal caberá aos administradores de bairro respectivos.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Constituição da mesa)
 
@@ -544,7 +599,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 3 - Sem prejuízo do disposto no n.º 1, os membros das mesas das assembleias ou secções de voto deverão estar presentes no local do seu funcionamento uma hora antes da marcada para o início das operações eleitorais, a fim de que estas possam começar à hora fixada.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Permanência da mesa)
 
@@ -552,7 +607,7 @@ As assembleias de voto reunir-se-ão no dia marcado para as eleições, às 8 ho
 
 2 - Para a validade das operações eleitorais é necessária a presença, em cada momento, do presidente ou do seu suplente e de, pelo menos, dois vogais.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Poderes dos delegados das listas)
 
@@ -568,7 +623,7 @@ d) Não ser detidos durante o funcionamento da assembleia de voto, a não ser em
 
 e) Obter todas as certidões que requererem sobre as operações de votação e apuramento.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Cadernos eleitorais)
 
@@ -580,7 +635,7 @@ Os delegados das listas poderão extrair também cópia ou fotocópia dos cadern
 
 3 - As cópias ou fotocópias previstas nos números anteriores deverão ser obtidas o mais tardar até dois dias antes da eleição.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Outros elementos de trabalho da mesa)
 
@@ -592,37 +647,37 @@ Os delegados das listas poderão extrair também cópia ou fotocópia dos cadern
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Início e termo da campanha eleitoral)
 
 O período da campanha eleitoral inicia-se no 21.º dia anterior ao dia designado para a eleição e finda na antevéspera do dia marcado para a eleição.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Promoção e realização da campanha eleitoral)
 
 A promoção e realização da campanha eleitoral caberá sempre aos candidatos e aos partidos políticos, sem prejuízo da participação activa dos cidadãos na campanha.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Âmbito da campanha eleitoral)
 
 Qualquer candidato ou partido político poderá livremente realizar a campanha eleitoral em todo o território eleitoral.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Igualdade de oportunidade das candidaturas)
 
 Os candidatos, os partidos políticos e as frentes ou coligações que os propõem têm direito a igual tratamento por parte das entidades públicas e privadas a fim de efectuarem, livremente e nas melhores condições, a sua campanha eleitoral.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Neutralidade e imparcialidade das entidades públicas)
 
 Os titulares dos órgãos e os agentes do Estado, das pessoas colectivas de direito público, das pessoas colectivas de utilidade pública administrativa, das sociedades concessionárias de serviços públicos, de bens do domínio público ou de obras públicas e das sociedades de economia pública ou mista devem, no exercício das suas funções, manter rigorosa neutralidade perante as diversas candidaturas e os partidos políticos. Nessa qualidade, não poderão intervir, directa ou indirectamente, na campanha eleitoral, nem praticar actos que, de algum modo, favoreçam ou prejudiquem um concorrente às eleições em detrimento ou vantagem de outros.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Liberdade de expressão e de informação)
 
@@ -630,7 +685,7 @@ Os titulares dos órgãos e os agentes do Estado, das pessoas colectivas de dire
 
 2 - Durante o período da campanha eleitoral não poderão ser aplicadas às empresas que explorem meios de comunicação social, nem aos seus agentes, por actos integrados na campanha, quaisquer sanções, sem prejuízo da responsabilidade em que incorram, a qual só será efectivada após o dia da eleição.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Liberdade de reunião)
 
@@ -650,7 +705,7 @@ f) A presença de agentes de autoridade a reuniões organizadas por qualquer par
 
 g) O limite a que alude o artigo 11.º do [Decreto-Lei n.º 406/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1974-424767), de 29 de Agosto, será alargado até às 2 horas da madrugada durante a campanha eleitoral.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Proibição de divulgação de sondagens)
 
@@ -658,13 +713,13 @@ Desde o início da campanha eleitoral e até ao dia imediato ao da eleição é 
 
 ### CAPÍTULO II — Propaganda eleitoral
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Propaganda eleitoral)
 
 Entende-se por propaganda eleitoral toda a actividade que vise directa ou indirectamente promover candidaturas, seja actividade dos candidatos, dos partidos políticos, dos titulares dos seus órgãos ou seus agentes ou de quaisquer outras pessoas, bem como a publicação de textos ou imagens que exprimam ou reproduzam o conteúdo dessa actividade.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Direito de antena)
 
@@ -688,7 +743,7 @@ d) As estações privadas (onda média e de frequência modulada), ligadas a tod
 
 3 - Até vinte e quatro horas antes da abertura da campanha, as estações devem indicar à Comissão Nacional das Eleições o horário previsto para as emissões.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Distribuição dos tempos reservados)
 
@@ -700,7 +755,7 @@ d) As estações privadas (onda média e de frequência modulada), ligadas a tod
 
 4 - Na organização e repartição das séries de emissões deverá ficar prevista a inclusão de serviços externos.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Publicação de carácter jornalístico)
 
@@ -710,7 +765,7 @@ d) As estações privadas (onda média e de frequência modulada), ligadas a tod
 
 3 - As disposições do n.º 1 não se aplicam à imprensa estatizada, a qual deverá sempre inserir matéria respeitante à campanha eleitoral e cumprir, para efeito de igualdade de tratamento, o preceituado no decreto-lei referido no número anterior.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Salas de espectáculos)
 
@@ -720,7 +775,7 @@ d) As estações privadas (onda média e de frequência modulada), ligadas a tod
 
 3 - Até quarenta e oito horas depois da abertura da campanha, o governador civil, ouvidos os mandatários das listas, indicará os dias e as horas atribuídos a cada partido e coligação ou frente, de modo a assegurar a igualdade entre todos.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Propaganda fixa)
 
@@ -728,25 +783,25 @@ d) As estações privadas (onda média e de frequência modulada), ligadas a tod
 
 2 - Os espaços reservados nos locais previstos nos números anteriores serão tantos quantas as listas de candidatos propostas à eleição pelo círculo.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Utilização em comum ou troca)
 
 Os partidos políticos e as coligações ou frentes poderão acordar na utilização em comum ou na troca entre si de tempo de emissão ou espaço de publicação que lhes pertençam ou das salas de espectáculos cujo uso lhes seja atribuído.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Limites à publicação e difusão de propaganda eleitoral)
 
 As publicações referidas no artigo 59.º, n.º 1, que não tenham feito a comunicação ali prevista, não poderão inserir propaganda eleitoral, mas apenas a matéria que eventualmente lhes seja enviada pela própria Comissão Nacional das Eleições.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Edifícios públicos)
 
 Os governadores civis procurarão assegurar a cedência do uso, para os fins da campanha eleitoral, de edifícios públicos e recintos pertencentes ao Estado e outras pessoas colectivas de direito público, repartindo com igualdade a sua utilização pelos concorrentes no círculo em que se situar o edifício ou recinto.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Custo da utilização)
 
@@ -758,25 +813,25 @@ Os governadores civis procurarão assegurar a cedência do uso, para os fins da 
 
 4 - O preço referido no número anterior e demais condições de utilização serão uniformes para todas as candidaturas.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Órgãos dos partidos políticos)
 
 O preceituado nos artigos anteriores não é aplicável às publicações de carácter jornalístico que sejam propriedade de partidos políticos, o que deverá expressamente constar dos respectivos cabeçalhos.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Esclarecimento cívico)
 
 Sem prejuízo do disposto nos preceitos anteriores, a Comissão Nacional das Eleições promoverá na Radiotelevisão Portuguesa, na Radiodifusão Portuguesa e na imprensa programas destinados ao esclarecimento objectivo dos cidadãos sobre o significado das eleições para a vida do País, sobre o processo eleitoral e sobre o modo de cada eleitor votar.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Publicidade comercial)
 
 A partir da publicação do decreto que marque a data da eleição, é proibida a propaganda política feita directa ou indirectamente através dos meios de publicidade comercial.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Instalação de telefone)
 
@@ -784,7 +839,7 @@ A partir da publicação do decreto que marque a data da eleição, é proibida 
 
 2 - A instalação prevista no número anterior poderá ser requerida a partir da publicação do decreto que marque a data da eleição e deverá ser efectuada no prazo de oito dias a contar do requerimento.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Arrendamento)
 
@@ -794,7 +849,7 @@ A partir da publicação do decreto que marque a data da eleição, é proibida 
 
 ### CAPÍTULO III — Finanças eleitorais
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Contabilização das receitas e despesas)
 
@@ -802,19 +857,19 @@ A partir da publicação do decreto que marque a data da eleição, é proibida 
 
 2 - Todas as despesas de candidatura e campanha eleitoral serão suportadas pelos respectivos partidos.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Contribuições de valor pecuniário)
 
 Os partidos, candidatos e mandatários das listas não podem aceitar quaisquer contribuições de valor pecuniário destinadas à campanha eleitoral provenientes de pessoas singulares ou colectivas não nacionais ou de empresas nacionais.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Limite de despesas)
 
 Cada partido, coligação ou frente não poderá gastar com as respectivas candidaturas e campanha eleitoral mais do que a importância global correspondente a 80000$00 por cada candidato da respectiva lista, salvo as despesas de correio em montante a fixar pela Comissão Nacional das Eleições.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Fiscalização das contas)
 
@@ -832,7 +887,7 @@ Cada partido, coligação ou frente não poderá gastar com as respectivas candi
 
 #### SECÇÃO I — Exercício de direito de sufrágio
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Pessoalidade do voto)
 
@@ -852,13 +907,13 @@ Cada partido, coligação ou frente não poderá gastar com as respectivas candi
 
 8 - Os nomes dos eleitores que votarem através de representante constarão obrigatoriamente da acta das operações eleitorais.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Unicidade do voto)
 
 A cada eleitor só é permitido votar uma vez.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Direito e dever de votar)
 
@@ -868,7 +923,7 @@ A cada eleitor só é permitido votar uma vez.
 
 3 - Compete ao juiz de direito da comarca respectiva declarar justificado o não exercício de voto, se tal lhe for requerido pelo interessado no prazo de sessenta dias após a eleição.
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Segredo do voto)
 
@@ -876,19 +931,19 @@ A cada eleitor só é permitido votar uma vez.
 
 2 - Dentro da assembleia de voto e fora dela, até à distância de 500 m, ninguém poderá revelar em qual lista vai votar ou votou.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Voto dos cegos e deficientes)
 
 Os cegos e quaisquer outras pessoas afectadas por doença ou deficiência física notórias, que a mesa verifique não poderem praticar os actos descritos no artigo 92.º, votarão acompanhados de um cidadão eleitor por si escolhido que garantirá a fidelidade de expressão do seu voto e ficará obrigado a absoluto sigilo.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Requisitos do exercício do direito de voto)
 
 Para que o eleitor seja admitido a votar deverá estar inscrito no caderno eleitoral e ser reconhecida pela mesa a sua identidade.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Local do exercício do sufrágio)
 
@@ -896,7 +951,7 @@ O direito do voto será exercido apenas na assembleia eleitoral correspondente a
 
 #### SECÇÃO II — Votação
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Abertura da votação)
 
@@ -904,19 +959,19 @@ O direito do voto será exercido apenas na assembleia eleitoral correspondente a
 
 2 - Não havendo nenhuma irregularidade, imediatamente votarão o presidente, os vogais e os delegados das listas.
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Ordem da votação)
 
 Os eleitores votarão pela ordem de chegada à assembleia de voto, dispondo-se para o efeito em fila.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Continuidade das operações eleitorais)
 
 A assembleia eleitoral funcionará ininterruptamente até serem concluídas todas as operações de votação e apuramento.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Encerramento da votação)
 
@@ -924,7 +979,7 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 2 - O presidente declarará encerrada a votação logo que tiverem votado todos os eleitores inscritos ou, depois das 19 horas, logo que tiverem votado todos os eleitores presentes na assembleia de voto.
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Não realização da votação em qualquer assembleia de voto)
 
@@ -934,7 +989,7 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 3 - O reconhecimento da impossibilidade de a eleição se efectuar e o seu adiamento competem ao governador civil.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Polícia da assembleia de voto)
 
@@ -942,13 +997,13 @@ A assembleia eleitoral funcionará ininterruptamente até serem concluídas toda
 
 2 - Não serão admitidos na assembleia de voto e serão mandados retirar pelo presidente os cidadãos que se apresentarem manifestamente embriagados ou que forem portadores de qualquer arma.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Proibição de propaganda nas assembleias de voto)
 
 É proibida qualquer propaganda dentro das assembleias eleitorais e fora delas até à distância de 500 m.
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Proibição da presença de não eleitores)
 
@@ -968,7 +1023,7 @@ d) De um modo geral, não perturbar o acto eleitoral.
 
 3 - As imagens ou outros elementos de reportagem obtidos nos termos referidos no número anterior só poderão ser transmitidos após o encerramento das assembleias ou secções de voto.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Proibição da presença de força armada e casos em que pode ser requisitada)
 
@@ -980,7 +1035,7 @@ d) De um modo geral, não perturbar o acto eleitoral.
 
 4 - Nos casos previstos nos n.os 1 e 3 suspender-se-ão as operações eleitorais até que o presidente da mesa considere verificadas as condições para que possam prosseguir, sob pena de nulidade da eleição na respectiva assembleia ou secção de voto.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Boletins de voto)
 
@@ -998,7 +1053,7 @@ d) De um modo geral, não perturbar o acto eleitoral.
 
 7 - O presidente da câmara ou da comissão administrativa municipal ou, nos concelhos onde existirem bairros administrativos, o administrador de bairro e os presidentes das assembleias ou secções de voto prestarão contas ao governador civil dos boletins de voto que receberam, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Modo como vota cada eleitor)
 
@@ -1010,7 +1065,7 @@ d) De um modo geral, não perturbar o acto eleitoral.
 
 4 - Se, por inadvertência, o eleitor deteriorar o boletim, deverá pedir outro ao presidente, devolvendo-lhe o primeiro. O presidente escreverá no boletim devolvido a nota de inutilizado, rubricando-o, e conservá-lo-á para os efeitos do n.º 6 do artigo 91.º
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 (Voto em branco ou nulo)
 
@@ -1026,7 +1081,7 @@ c) No qual tenha sido feito qualquer corte, desenho ou rasura, ou quando tenha s
 
 3 - Não será considerado voto nulo o do boletim de voto no qual a cruz, embora não sendo perfeitamente desenhada ou excedendo os limites do quadrado, assinale inequivocamente a vontade do eleitor.
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 (Dúvidas, reclamações, protestos e contraprotestos)
 
@@ -1042,13 +1097,13 @@ c) No qual tenha sido feito qualquer corte, desenho ou rasura, ou quando tenha s
 
 #### SECÇÃO I — Apuramento parcial
 
-###### ARTIGO 95.º
+ARTIGO 95.º
 
 (Operação preliminar)
 
 Encerrada a votação, o presidente da assembleia de voto procederá à contagem dos boletins que não foram utilizados e, bem assim, dos que foram inutilizados pelos eleitores. Encerrá-los-á num sobrescrito próprio, que fechará e lacrará, para o efeito do n.º 6 do artigo 91.º
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 (Contagem dos votantes e dos boletins de voto)
 
@@ -1060,7 +1115,7 @@ Encerrada a votação, o presidente da assembleia de voto procederá à contagem
 
 4 - Será dado imediato conhecimento público do número de boletins de voto através de edital, que, depois de lido em voz alta pelo presidente, será afixado à porta principal da assembleia de voto.
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 (Contagem dos votos
 
@@ -1076,13 +1131,13 @@ O outro escrutinador registará numa folha branca ou, de preferência, num quadr
 
 5 - O apuramento assim efectuado será imediatamente publicado por edital afixado à porta principal do edifício da assembleia, em que se discriminarão o número de votos atribuídos a cada lista e o número de votos em branco e os votos nulos.
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 (Destino dos boletins de voto objecto de reclamação ou protesto)
 
 Os boletins de voto sobre os quais haja reclamação ou protesto serão, depois de rubricados, remetidos à assembleia de apuramento geral, com os documentos que lhes digam respeito.
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 (Destino dos restantes boletins)
 
@@ -1090,7 +1145,7 @@ Os boletins de voto sobre os quais haja reclamação ou protesto serão, depois 
 
 2 - Esgotado o prazo para a interposição dos recursos contenciosos, ou decididos definitivamente estes, o juiz promoverá a destruição dos boletins.
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 (Acta das operações eleitorais)
 
@@ -1118,7 +1173,7 @@ i) Quaisquer outras ocorrências que a mesa julgar dignas de menção;
 
 j) O número de reclamações, protestos e contraprotestos apensos à acta.
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 (Envio à assembleia de apuramento geral)
 
@@ -1126,13 +1181,13 @@ Nas vinte e quatro horas imediatas ao apuramento, os presidentes das assembleias
 
 #### SECÇÃO II — Apuramento geral
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 (Apuramento geral do círculo)
 
 O apuramento da eleição em cada círculo eleitoral e a proclamação dos candidatos eleitos de harmonia com o artigo 7.º e seguintes competem a uma assembleia de apuramento geral, a qual iniciará os seus trabalhos às 9 horas do quarto dia posterior ao da eleição, no edifício do governo civil.
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 (Assembleia de apuramento geral)
 
@@ -1152,7 +1207,7 @@ e) Um chefe de secretaria judicial da sede do distrito, escolhido pelo president
 
 3 - Os candidatos e os mandatários das listas poderão assistir, sem voto, mas com direito de reclamação, protesto ou contraprotesto, aos trabalhos da assembleia de apuramento geral.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 (Elementos do apuramento geral)
 
@@ -1162,13 +1217,13 @@ e) Um chefe de secretaria judicial da sede do distrito, escolhido pelo president
 
 3 - Nos arquipélagos dos Açores e da Madeira o apuramento geral poderá basear-se em correspondência telegráfica transmitida pelos presidentes das câmaras municipais ou das comissões administrativas municipais.
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 (Operação preliminar)
 
 No início dos seus trabalhos, a assembleia de apuramento deverá decidir se devem ou não contar-se os boletins de voto sobre os quais tenha recaído reclamação ou protesto, corrigindo, se for caso disso, o apuramento da respectiva assembleia de voto.
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 (Operações de apuramento geral)
 
@@ -1182,13 +1237,13 @@ c) Na distribuição dos mandatos de Deputados pelas diversas listas;
 
 d) Na determinação dos candidatos eleitos por cada lista.
 
-###### ARTIGO 107.º
+ARTIGO 107.º
 
 (Proclamação e publicação dos resultados)
 
 Os resultados do apuramento geral serão proclamados pelo presidente e, em seguida, publicados por meio de edital afixado à porta do edifício do governo civil.
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 (Acta do apuramento geral)
 
@@ -1198,13 +1253,13 @@ Os resultados do apuramento geral serão proclamados pelo presidente e, em segui
 
 3 - O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento geral, serão entregues ao governador civil, o qual os conservará e guardará sob sua responsabilidade.
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 (Envio à Comissão de Verificação de Poderes da Assembleia Legislativa)
 
 A Comissão Nacional das Eleições enviará à Comissão de Verificação de Poderes da Assembleia Legislativa um dos exemplares das actas de apuramento geral.
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 (Mapa nacional da eleição)
 
@@ -1222,7 +1277,7 @@ e) Número de mandatos atribuídos a cada partido, coligação ou frente, por c�
 
 f) Nomes dos Deputados eleitos, por círculos e por partidos, coligações ou frentes.
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 (Certidão ou fotocópia de apuramento)
 
@@ -1230,7 +1285,7 @@ Aos candidatos e aos mandatários de cada lista proposta à eleição, bem como,
 
 ### CAPÍTULO III — Contencioso eleitoral
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 (Recurso contencioso)
 
@@ -1240,7 +1295,7 @@ Aos candidatos e aos mandatários de cada lista proposta à eleição, bem como,
 
 3 - A petição especificará os fundamentos de facto e de direito do recurso e será acompanhada de todos os elementos de prova, incluindo fotocópia da acta da assembleia em que a irregularidade tiver ocorrido.
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Tribunal competente e prazos)
 
@@ -1248,7 +1303,7 @@ Aos candidatos e aos mandatários de cada lista proposta à eleição, bem como,
 
 2 - No prazo de quarenta e oito horas, o tribunal, em plenário, decidirá definitivamente do recurso, comunicando imediatamente a decisão ao governador civil e à Comissão Nacional das Eleições.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 (Nulidade das eleições)
 
@@ -1256,7 +1311,7 @@ Aos candidatos e aos mandatários de cada lista proposta à eleição, bem como,
 
 2 - Anulada a eleição de uma assembleia de voto ou de todo o círculo, os actos eleitorais correspondentes serão repetidos no oitavo dia posterior à decisão, havendo lugar, em qualquer caso, a uma nova assembleia de apuramento geral.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Verificação de poderes)
 
@@ -1268,7 +1323,7 @@ A Assembleia Legislativa verificará os poderes dos candidatos proclamados eleit
 
 #### SECÇÃO I — Princípios gerais
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 (Infracções eleitorais)
 
@@ -1276,7 +1331,7 @@ A Assembleia Legislativa verificará os poderes dos candidatos proclamados eleit
 
 #### SECÇÃO II — Infracções relativas à apresentação de candidaturas
 
-###### ARTIGO 117.º
+ARTIGO 117.º
 
 (Candidatura de cidadão inelegível)
 
@@ -1286,49 +1341,49 @@ A Assembleia Legislativa verificará os poderes dos candidatos proclamados eleit
 
 #### SECÇÃO III — Infracções relativas à campanha eleitoral
 
-###### ARTIGO 118.º
+ARTIGO 118.º
 
 (Violação de deveres de neutralidade e imparcialidade)
 
 Os cidadãos abrangidos pelo artigo 52.º que infringirem os deveres de neutralidade e imparcialidade aí prescritos serão punidos com prisão até dois anos e multa de 5000$00 e 20000$00.
 
-###### ARTIGO 119.º
+ARTIGO 119.º
 
 (Utilização indevida de denominação, sigla ou símbolo)
 
 Aquele que durante a campanha eleitoral utilizar a denominação, sigla ou símbolo de partido, coligação ou frente com o intuito de o prejudicar ou injuriar será punido com prisão até um ano e multa de 1000$00 a 5000$00.
 
-###### ARTIGO 120.º
+ARTIGO 120.º
 
 (Utilização de publicidade comercial)
 
 Aquele que infringir o disposto no artigo 68.º será punido com a multa de 10000$00 a 100000$00.
 
-###### ARTIGO 121.º
+ARTIGO 121.º
 
 (Violação dos deveres das estações privadas de rádio)
 
 A empresa proprietária de estação de rádio que não cumprir os deveres impostos pelos artigos 58.º e 65.º será punida por cada infracção cometida com a multa de 20000$00. Além disso, os administradores e o responsável pelo programa serão punidos com prisão até seis meses e multa de 1000$00 a 20000$00.
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Violação da liberdade de reunião eleitoral)
 
 Aquele que impedir a realização ou procedimento de reunião, comício, cortejo ou desfile de propaganda eleitoral será punido com prisão de seis meses a um ano e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 123.º
+ARTIGO 123.º
 
 (Reuniões, comícios, desfiles ou cortejos ilegais)
 
 Aquele que promover reuniões, comícios, desfiles ou cortejos em contravenção com o disposto no artigo 54.º será punido com prisão até seis meses.
 
-###### ARTIGO 124.º
+ARTIGO 124.º
 
 (Violação dos deveres dos proprietários de salas de espectáculos e dos que as explorem)
 
 O proprietário de sala de espectáculos ou aquele que a explora que não cumprir os deveres impostos pelos artigos 60.º, n.º 2, e 65.º será punido com prisão até seis meses e multa de 10000$00 a 50000$00.
 
-###### ARTIGO 125.º
+ARTIGO 125.º
 
 (Dano em material de propaganda eleitoral)
 
@@ -1336,13 +1391,13 @@ O proprietário de sala de espectáculos ou aquele que a explora que não cumpri
 
 2 - Não serão punidos os factos previstos no número anterior se o material de propaganda houver sido afixado na própria casa ou estabelecimento do agente sem seu consentimento ou contiver matéria francamente desactualizada.
 
-###### ARTIGO 126.º
+ARTIGO 126.º
 
 (Desvio de correspondência)
 
 O empregado dos correios que desencaminhar, retiver ou não entregar ao destinatário circulares, cartazes ou papéis de propaganda eleitoral de qualquer lista será punido com prisão até dois anos e multa de 500$00 a 5000$00.
 
-###### ARTIGO 127.º
+ARTIGO 127.º
 
 (Propaganda depois de encerrada a campanha eleitoral)
 
@@ -1350,13 +1405,13 @@ O empregado dos correios que desencaminhar, retiver ou não entregar ao destinat
 
 2 - Aquele que no dia da eleição fizer propaganda nas assembleias de voto ou nas suas imediações até 500 m será punido com prisão até seis meses e multa de 10000$00 a 10000$00.
 
-###### ARTIGO 128.º
+ARTIGO 128.º
 
 (Revelação ou divulgação de resultados de sondagens)
 
 Aquele que infringir o disposto no artigo 55.º será punido com prisão até um ano e multa de 5000$00 a 100000$00.
 
-###### ARTIGO 129.º
+ARTIGO 129.º
 
 (Receitas ilícitas das candidaturas)
 
@@ -1364,7 +1419,7 @@ Aquele que infringir o disposto no artigo 55.º será punido com prisão até um
 
 2 - Aos partidos políticos será aplicada a multa de 20000$00 a 100000$00, por cujo pagamento serão solidariamente responsáveis os membros dos órgãos centrais dos partidos, sem prejuízo de a importância da contribuição recebida reverter para o Estado.
 
-###### ARTIGO 130.º
+ARTIGO 130.º
 
 (Não contabilização de despesas e despesas ilícitas)
 
@@ -1376,7 +1431,7 @@ Aquele que infringir o disposto no artigo 55.º será punido com prisão até um
 
 4 - Aquele que, tendo feito quaisquer despesas de candidatura e campanha eleitoral, não as comunique ao partido em causa até quinze dias sobre o da eleição, para efeitos do cumprimento do n.º 2 do artigo 71.º, será punido com prisão até seis meses e multa de 5000$00 a 50000$00.
 
-###### ARTIGO 131.º
+ARTIGO 131.º
 
 (Não prestação de contas)
 
@@ -1386,7 +1441,7 @@ Aquele que infringir o disposto no artigo 55.º será punido com prisão até um
 
 #### SECÇÃO IV — Infracções relativas à eleição
 
-###### ARTIGO 132.º
+ARTIGO 132.º
 
 (Violação da capacidade eleitoral)
 
@@ -1396,31 +1451,31 @@ Aquele que infringir o disposto no artigo 55.º será punido com prisão até um
 
 3 - Aquele que dolosamente violar o disposto no artigo 75.º será punido com prisão maior de dois a oito anos e multa de 5000$00 a 20000$00.
 
-###### ARTIGO 133.º
+ARTIGO 133.º
 
 (Admissão ou exclusão abusiva do voto)
 
 Aquele que concorrer para que seja admitido a votar quem não tem esse direito ou para a exclusão de quem o tiver, e bem assim o médico que atestar falsamente uma impossibilidade de exercício do direito de voto, será punido com prisão até dois anos e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 134.º
+ARTIGO 134.º
 
 (Impedimento do sufrágio por abuso de autoridade)
 
 A autoridade que, dolosamente, no dia da eleição fizer, sobre qualquer pretexto, sair do seu domicílio ou permanecer fora dele qualquer eleitor para que não possa ir votar, será punida com prisão até dois anos e multa de 5000$00 a 20000$00.
 
-###### ARTIGO 135.º
+ARTIGO 135.º
 
 (Voto plúrimo)
 
 Aquele que votar mais de uma vez será punido com prisão maior de dois a oito anos e multa de 20000$00 a 100000$00.
 
-###### ARTIGO 136.º
+ARTIGO 136.º
 
 (Mandatário infiel)
 
 Aquele que acompanhar um cego ou um deficiente a votar e, dolosamente, exprimir infielmente a sua vontade será punido com prisão maior de dois a oito anos e multa de 5000$00 a 20000$00.
 
-###### ARTIGO 137.º
+ARTIGO 137.º
 
 (Violação de segredo de voto)
 
@@ -1428,7 +1483,7 @@ Aquele que acompanhar um cego ou um deficiente a votar e, dolosamente, exprimir 
 
 2 - Aquele que, na assembleia de voto ou nas suas imediações até 500 m, revelar em que lista vai votar ou votou será punido com multa de 100$00 a 1000$00.
 
-###### ARTIGO 138.º
+ARTIGO 138.º
 
 (Coacção e artifício fraudulento sobre o eleitor)
 
@@ -1436,19 +1491,19 @@ Aquele que acompanhar um cego ou um deficiente a votar e, dolosamente, exprimir 
 
 2 - Será agravada a pena prevista no número anterior se a ameaça for cometida com uso de arma ou a violência for exercida por mais de duas pessoas.
 
-###### ARTIGO 139.º
+ARTIGO 139.º
 
 (Abuso de funções públicas ou equiparadas)
 
 O cidadão investido de poder público, o funcionário ou agente do Estado ou de outra pessoa colectiva pública e o ministro de qualquer culto que, abusando das suas funções ou no exercício das mesmas, se servir delas para constranger ou induzir os eleitores a votar em determinadas listas ou abster-se de votar nelas, será punido com prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
 
-###### ARTIGO 140.º
+ARTIGO 140.º
 
 (Despedimento ou ameaça de despedimento)
 
 Aquele que despedir ou ameaçar despedir alguém do seu emprego, impedir ou ameaçar impedir alguém de obter emprego, aplicar ou ameaçar aplicar qualquer outra sanção abusiva, a fim de ele votar ou não votar, porque votou ou não votou em certa lista de candidatos, ou porque se absteve ou não de participar na campanha eleitoral, será punido com prisão até dois anos e multa até 20000$00, sem prejuízo da imediata readmissão do empregado se o despedimento ou outra sanção abusiva tiver chegado a efectivar-se.
 
-###### ARTIGO 141.º
+ARTIGO 141.º
 
 (Corrupção eleitoral)
 
@@ -1456,7 +1511,7 @@ Aquele que despedir ou ameaçar despedir alguém do seu emprego, impedir ou amea
 
 2 - A mesma pena será aplicada ao eleitor que aceitar qualquer dos benefícios previstos no número anterior.
 
-###### ARTIGO 142.º
+ARTIGO 142.º
 
 (Não exibição da urna)
 
@@ -1464,13 +1519,13 @@ Aquele que despedir ou ameaçar despedir alguém do seu emprego, impedir ou amea
 
 2 - Se na urna se encontrarem boletins de voto não introduzidos pelo presidente, será este punido também com a pena de prisão até seis meses.
 
-###### ARTIGO 143.º
+ARTIGO 143.º
 
 (Introdução de boletins na urna, desvio desta ou de boletins de voto)
 
 Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois do início da votação, se apoderar da urna com os boletins de voto nela recolhidos, mas ainda não apurados, ou se apoderar de um ou mais boletins de voto em qualquer momento, desde a abertura da assembleia eleitoral até ao apuramento geral da eleição, será punido com prisão maior de dois a oito anos e multa de 20000$00 a 200000$00.
 
-###### ARTIGO 144.º
+ARTIGO 144.º
 
 (Fraudes da mesa da assembleia de voto e da assembleia de apuramento geral)
 
@@ -1478,7 +1533,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 2 - As mesmas penas serão aplicadas ao membro da assembleia de apuramento geral que cometer qualquer dos actos previstos no número anterior.
 
-###### ARTIGO 145.º
+ARTIGO 145.º
 
 (Obstrução à fiscalização)
 
@@ -1486,19 +1541,19 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 2 - Se se tratar do presidente da mesa, a pena será de prisão maior de dois a oito anos.
 
-###### ARTIGO 146.º
+ARTIGO 146.º
 
 (Recusa de receber reclamações, protestos ou contraprotestos)
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.
 
-###### ARTIGO 147.º
+ARTIGO 147.º
 
 (Obstrução dos candidatos ou dos delegados das listas)
 
 O candidato ou delegado das listas que perturbar gravemente o funcionamento regular das operações eleitorais será punido com prisão até um ano e multa de 1000$00 a 10000$00.
 
-###### ARTIGO 148.º
+ARTIGO 148.º
 
 (Perturbação das assembleias de voto)
 
@@ -1508,43 +1563,43 @@ O candidato ou delegado das listas que perturbar gravemente o funcionamento regu
 
 3 - A mesma pena do número anterior, agravada com prisão até três meses, será aplicada aos que se introduzirem nas referidas assembleias munidos de armas, independentemente da imediata apreensão destas.
 
-###### ARTIGO 149.º
+ARTIGO 149.º
 
 (Não comparência da força armada)
 
 Sempre que seja necessária a presença da força armada nos casos previstos no artigo 90.º, n.º 3, o comandante da mesma será punido com pena de prisão até um ano se injustificadamente não comparecer.
 
-###### ARTIGO 150.º
+ARTIGO 150.º
 
 (Não comparecimento do dever de participação no processo eleitoral)
 
 Aquele que for nomeado para fazer parte de mesa de assembleia de voto e, sem motivo de força maior ou justa causa, não assumir ou abandonar essas funções será punido com multa de 1000$00 a 10000$00.
 
-###### ARTIGO 151.º
+ARTIGO 151.º
 
 (Falsificação de cadernos, boletins, actas ou documentos relativos à eleição)
 
 Aquele que, por qualquer modo, viciar, substituir, suprimir, destruir ou compuser falsamente os cadernos eleitorais, os boletins de voto, as actas das assembleias de voto ou de apuramento, ou quaisquer dos documentos respeitantes à eleição, será punido com prisão maior de dois a oito anos e multa de 10000$00 a 100000$00.
 
-###### ARTIGO 152.º
+ARTIGO 152.º
 
 (Denúncia caluniosa)
 
 Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção prevista na presente lei será punido com as penas aplicáveis à denúncia caluniosa.
 
-###### ARTIGO 153.º
+ARTIGO 153.º
 
 (Reclamação e recurso de má fé)
 
 Aquele que, com má fé, apresentar reclamação, recurso, protesto ou contraprotesto, ou aquele que impugnar decisões dos órgãos eleitorais através de recurso manifestamente infundado será punido com multa de 500$00 a 10000$00.
 
-###### ARTIGO 154.º
+ARTIGO 154.º
 
 (Não cumprimento de outras obrigações impostas na lei)
 
 Aquele que não cumprir nos seus precisos termos quaisquer das obrigações que lhe são impostas pela presente lei ou retardar injustificadamente o seu cumprimento será, na falta de incriminação especial, punido com multa de 1000$00 a 10000$00.
 
-###### ARTIGO 155.º
+ARTIGO 155.º
 
 (Não cumprimento de outras obrigações impostas por lei)
 
@@ -1552,7 +1607,7 @@ Aquele que não cumprir nos seus precisos termos quaisquer obrigações que lhe 
 
 ### CAPÍTULO II — Ilícito disciplinar
 
-###### ARTIGO 156.º
+ARTIGO 156.º
 
 (Responsabilidade disciplinar)
 
@@ -1560,7 +1615,7 @@ Tanto as infracções previstas neste diploma como as previstas no [Decreto-Lei 
 
 ## TÍTULO VI — Disposições finais
 
-###### ARTIGO 157.º
+ARTIGO 157.º
 
 (Certidões)
 
@@ -1572,7 +1627,7 @@ b) As certidões necessárias para instrução do processo de apresentação das
 
 c) As certidões de apuramento geral.
 
-###### ARTIGO 158.º
+ARTIGO 158.º
 
 (Isenções)
 
@@ -1586,13 +1641,13 @@ c) Os reconhecimentos notariais em documentos para fins eleitorais;
 
 d) As procurações forenses a utilizar em reclamações e recursos previstos na presente lei, devendo as mesmas especificar os processos a que se destinam.
 
-###### ARTIGO 159.º
+ARTIGO 159.º
 
 (Regime aplicável fora do território eleitoral)
 
 Fora do território eleitoral, a organização dos colégios eleitorais, a organização do processo eleitoral, a composição eleitoral e a eleição serão regulados em leis especiais a publicar.
 
-###### ARTIGO 160.º
+ARTIGO 160.º
 
 (Entrada em vigor)
 
@@ -1600,8 +1655,8 @@ Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes - António de Almeida Santos.
 
-**Promulgado em 29 de Janeiro de 1976.**
+Promulgado em 29 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

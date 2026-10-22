@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1976-426974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72f206f24b282df5ccde9f5004bb4d3125867fe03f26021623bc191b97a5c858
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ce809e703eb64fc8d502ec2c00924f8aa3cf942e46c6915edbf152a7c01ef67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arsenal do Alfeite
+- Autorização de Despesas
+- Banco de Fomento Nacional
+- Construção Naval
+- Contrato
+- Embarcação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:00Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +105,18 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Arsenal do Alfeite a celebrar contrato com a Centrala Morska Importowo-Eksportowa «Centromor» de Gdansk, Polónia, para a construção de três cascos para navios frigoríficos de 5500/3750 t deadweight.
+Artigo 1.º É autorizado o Arsenal do Alfeite a celebrar contrato com a Centrala Morska Importowo-Eksportowa «Centromor» de Gdansk, Polónia, para a construção de três cascos para navios frigoríficos de 5500/3750 t deadweight.
 
-###### Art. 2.º Para efeito do cumprimento dos prazos de entrega, poderá o Arsenal do Alfeite subcontratar a construção de um dos cascos com um estaleiro nacional.
+Art. 2.º Para efeito do cumprimento dos prazos de entrega, poderá o Arsenal do Alfeite subcontratar a construção de um dos cascos com um estaleiro nacional.
 
-###### Art. 3.º A fim de fazer face aos encargos da construção, poderá o Arsenal do Alfeite contratar com o Banco de Fomento Nacional um empréstimo em conta corrente até ao limite de 70% do valor contratual dos dois cascos que vai construir nos seus estaleiros, ficando também autorizado a utilizar as verbas orçamentais que lhe são consignadas para pagamento das despesas com pessoal, procedendo oportunamente ao seu reembolso ao Estado.
+Art. 3.º A fim de fazer face aos encargos da construção, poderá o Arsenal do Alfeite contratar com o Banco de Fomento Nacional um empréstimo em conta corrente até ao limite de 70% do valor contratual dos dois cascos que vai construir nos seus estaleiros, ficando também autorizado a utilizar as verbas orçamentais que lhe são consignadas para pagamento das despesas com pessoal, procedendo oportunamente ao seu reembolso ao Estado.
 
-###### Art. 4.º A celebração dos contratos previstos neste diploma tem dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas.
+Art. 4.º A celebração dos contratos previstos neste diploma tem dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 25 de Maio de 1976.**
+Promulgado em 25 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

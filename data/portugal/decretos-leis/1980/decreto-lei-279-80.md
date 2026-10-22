@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18700/21892190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1980-470813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2298a62b5e4d24ff7b785fdb44c04fb7d4902d211f7282ff60e29b5322d3589
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 592252d3366ba8f49e120aeefc41190b402342fda356ed817b10ac6b85451efd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:310428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676848:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310428:por
+  label: "Revogado pelo DEC LEI.134/83.1983.03.19.PCM, DR.IS [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1983-310428
+  date: '1983-03-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:17Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +134,7 @@ Nestes termos:
 
 Ao abrigo da autorização legislativa concedida pela [Lei n.º 33/80](https://diariodarepublica.pt/dr/detalhe/lei/33-1980-472079), de 28 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O imposto de turismo será cobrado nos municípios onde existam zonas de turismo ou compreendidos em regiões de turismo e incidirá sobre o preço dos serviços prestados, líquido de impostos e taxas:
+Artigo 1.º - 1 - O imposto de turismo será cobrado nos municípios onde existam zonas de turismo ou compreendidos em regiões de turismo e incidirá sobre o preço dos serviços prestados, líquido de impostos e taxas:
 
 a) Em estabelecimentos hoteleiros e similares, independentemente da entidade competente para o seu licenciamento, incluindo os aldeamentos e apartamentos turísticos, e em conjuntos turísticos;
 
@@ -112,25 +148,25 @@ d) No aluguer de veículos automóveis com ou sem condutor, nos termos do Decret
 
 3 - Para efeito do disposto na alínea b) do n.º 1, são considerados meios complementares de alojamento, além dos parques de campismo, quaisquer outras formas de alojamento não hoteleiro em que a permanência dos hóspedes não exceda três meses e cuja exploração seja tributável em contribuição industrial.
 
-###### Art. 2.º - 1 - O imposto a que se refere a alínea c) do n.º 1 do artigo anterior incidirá sobre o preço dos respectivos bilhetes, deduzidas as despesas por que seja devido imposto nos termos do mesmo artigo e será cobrado pelo estabelecimento organizador do serviço.
+Art. 2.º - 1 - O imposto a que se refere a alínea c) do n.º 1 do artigo anterior incidirá sobre o preço dos respectivos bilhetes, deduzidas as despesas por que seja devido imposto nos termos do mesmo artigo e será cobrado pelo estabelecimento organizador do serviço.
 
 2 - O imposto referido na alínea d) do artigo anterior incide sobre o valor do contrato de aluguer, independentemente de o percurso realizado abranger ou não exclusivamente território português.
 
 3 - Nos serviços sujeitos ao sistema «tudo incluído», regulado pelo [Decreto-Lei n.º 137/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061), de 30 de Março, o imposto será incorporado no preço dos mesmos serviços.
 
-###### Art. 3.º - São isentos de imposto de turismo os serviços não sujeitos aos regimes de preços livres ou de preços declarados a que se referem os Decretos-Leis n.os [329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e [75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro.
+Art. 3.º - São isentos de imposto de turismo os serviços não sujeitos aos regimes de preços livres ou de preços declarados a que se referem os Decretos-Leis n.os [329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e [75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro.
 
-###### Art. 4.º Os preços em vigor dos serviços sujeitos ao regime de preços declarados consideram-se acrescidos da importância do imposto de turismo que sobre eles recai, com arredondamento, por excesso, para cinquenta centavos ou escudos, independentemente de qualquer formalidade.
+Art. 4.º Os preços em vigor dos serviços sujeitos ao regime de preços declarados consideram-se acrescidos da importância do imposto de turismo que sobre eles recai, com arredondamento, por excesso, para cinquenta centavos ou escudos, independentemente de qualquer formalidade.
 
-###### Art. 5.º A taxa do imposto de turismo é de 3%.
+Art. 5.º A taxa do imposto de turismo é de 3%.
 
-###### Art. 6.º A liquidação do imposto de turismo será efectuada:
+Art. 6.º A liquidação do imposto de turismo será efectuada:
 
 a) Pelo prestador de serviços, que dele é considerado fiel depositário;
 
 b) Pela repartição de finanças respectiva, quando se verifique falta, total ou parcial, da liquidação do imposto nos termos da alínea a).
 
-###### Art. 7.º - 1 - Quando o estabelecimento não disponha de contabilidade regularmente organizada ou esta não forneça os elementos suficientes para a liquidação do imposto, este será calculado sobre o valor anual presumido dos serviços referidos no artigo 1.º, que será fixado pelo chefe da repartição de finanças do respectivo concelho.
+Art. 7.º - 1 - Quando o estabelecimento não disponha de contabilidade regularmente organizada ou esta não forneça os elementos suficientes para a liquidação do imposto, este será calculado sobre o valor anual presumido dos serviços referidos no artigo 1.º, que será fixado pelo chefe da repartição de finanças do respectivo concelho.
 
 2 - A determinação do valor referido no número anterior deverá ser requerida ao chefe da repartição de finanças dentro dos dez dias seguintes ao início da actividade e por este efectuada dentro dos trinta dias seguintes.
 
@@ -140,7 +176,7 @@ b) Pela repartição de finanças respectiva, quando se verifique falta, total o
 
 5 - Relativamente aos estabelecimentos em funcionamento à data da entrada em vigor do presente diploma, e em relação aos quais se não encontre fixado o valor anual presumido dos serviços prestados, o prazo referido no n.º 2 será de trinta dias a partir daquela data.
 
-###### Art. 8.º - 1 - O produto do imposto de turismo será entregue na Tesouraria da Fazenda Pública da área do estabelecimento, mensalmente, em relação ao mês anterior, mediante guia assinada pela entidade responsável pela entrega, contendo os elementos seguintes:
+Art. 8.º - 1 - O produto do imposto de turismo será entregue na Tesouraria da Fazenda Pública da área do estabelecimento, mensalmente, em relação ao mês anterior, mediante guia assinada pela entidade responsável pela entrega, contendo os elementos seguintes:
 
 a) Nome e domicílio da entidade que entrega o imposto e do estabelecimento e serviços a que este respeita;
 
@@ -156,25 +192,25 @@ e) Declaração, quando for caso disso, de que possui contabilidade regularmente
 
 3 - Mediante requerimento dos interessados ao chefe da repartição de finanças, poderá o imposto ser pago em quatro prestações iguais, com vencimento nos meses de Março, Junho, Setembro e Dezembro de cada ano.
 
-###### Art. 9.º As entidades a que compete o licenciamento das actividades compreendidas no artigo 1.º deverão dar dele conhecimento à repartição de finanças da área da localização dos respectivos estabelecimentos.
+Art. 9.º As entidades a que compete o licenciamento das actividades compreendidas no artigo 1.º deverão dar dele conhecimento à repartição de finanças da área da localização dos respectivos estabelecimentos.
 
-###### Art. 10.º Em tudo o que não contrariar o disposto no presente diploma aplicam-se ao imposto de turismo, com as necessárias adaptações, as normas reguladoras do imposto de transações que incide sobre prestação de serviços.
+Art. 10.º Em tudo o que não contrariar o disposto no presente diploma aplicam-se ao imposto de turismo, com as necessárias adaptações, as normas reguladoras do imposto de transações que incide sobre prestação de serviços.
 
-###### Art. 11.º As transgressões ao disposto no presente diploma serão punidas nos termos do artigo seguinte, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 11.º As transgressões ao disposto no presente diploma serão punidas nos termos do artigo seguinte, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 12.º - 1 - A falta de entrega nos cofres do Estado de todo ou parte do imposto devido será punida com multa igual à importância do imposto em falta, no mínimo de 500$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 1000$00, quando a infracção for cometida dolosamente, sem prejuízo das sanções estabelecidas no artigo 453.º do Código Penal, se houver abuso de confiança.
+Art. 12.º - 1 - A falta de entrega nos cofres do Estado de todo ou parte do imposto devido será punida com multa igual à importância do imposto em falta, no mínimo de 500$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 1000$00, quando a infracção for cometida dolosamente, sem prejuízo das sanções estabelecidas no artigo 453.º do Código Penal, se houver abuso de confiança.
 
 2 - A entrega nos cofres do Estado, fora do prazo estabelecido neste diploma, de todo ou parte do imposto devido será punida com multa igual a metade do imposto em falta, no mínimo de 250$00.
 
 3 - A falta de entrega ou a entrega fora dos prazos estabelecidos de quaisquer declarações ou documentos a apresentar, nos termos do presente diploma, pelos prestadores de serviço sujeitos ao imposto, bem como as inexactidões ou omissões praticadas em quaisquer dos referidos elementos, serão punidas com multa de 200$00 a 40000$00, havendo simples negligência, não podendo, porém, a mesma exceder o quantitativo do imposto não liquidado, no caso de a infracção originar falta de pagamento do imposto; havendo dolo, a multa aplicável será de 1000$00 a 200000$00.
 
-###### Art. 13.º O produto do imposto de turismo constitui receita do município da localização do estabelecimento prestador do serviço, salvo nos casos referidos nos n.os 1 e 2 do artigo 2.º, em que constitui receita, respectivamente, do município onde o serviço teve início e daquele onde foi celebrado o contrato de aluguer ou, quando este tenha sido realizado fora do território continental português, daquele onde vier a ser efectuado o respectivo pagamento.
+Art. 13.º O produto do imposto de turismo constitui receita do município da localização do estabelecimento prestador do serviço, salvo nos casos referidos nos n.os 1 e 2 do artigo 2.º, em que constitui receita, respectivamente, do município onde o serviço teve início e daquele onde foi celebrado o contrato de aluguer ou, quando este tenha sido realizado fora do território continental português, daquele onde vier a ser efectuado o respectivo pagamento.
 
-###### Art. 14.º - 1 - Transitoriamente, até que seja definido novo regime de regionalização turística, a manutenção e funcionamento dos órgãos regionais e locais de turismo constitui encargo dos municípios, sem prejuízo das comparticipações que àqueles venham a ser atribuídas pela Administração Central para apoio à execução dos respectivos planos de actividades e de receitas próprias de que, nos termos da lei, já disponham ou venham a dispor.
+Art. 14.º - 1 - Transitoriamente, até que seja definido novo regime de regionalização turística, a manutenção e funcionamento dos órgãos regionais e locais de turismo constitui encargo dos municípios, sem prejuízo das comparticipações que àqueles venham a ser atribuídas pela Administração Central para apoio à execução dos respectivos planos de actividades e de receitas próprias de que, nos termos da lei, já disponham ou venham a dispor.
 
 2 - O encargo a assumir pelos municípios será, pelo menos, de montante equivalente a metade do produto do imposto de turismo arrecadado.
 
-###### Art. 5.º - 1 - As isenções a que se refere o artigo 3.º produzem efeitos a partir de 1 de Janeiro de 1979.
+Art. 5.º - 1 - As isenções a que se refere o artigo 3.º produzem efeitos a partir de 1 de Janeiro de 1979.
 
 2 - Os estabelecimentos e actividades não abrangidos pela cobrança do imposto anteriormente à publicação da [Lei n.º 43/79](https://diariodarepublica.pt/dr/detalhe/lei/43-1979-276592), de 7 de Setembro, são excluídos da tributação do imposto de turismo até à publicação do presente diploma.
 
@@ -182,18 +218,18 @@ e) Declaração, quando for caso disso, de que possui contabilidade regularmente
 
 4 - O chefe da repartição de finanças do município da localização do estabelecimento promoverá oficiosamente a restituição do imposto de turismo indevidamente arrecadado nos termos deste diploma, emitindo os competentes títulos de anulação.
 
-###### Art. 16.º - 1 - Cada município pagará ao Tesouro, como compensação dos encargos de cobrança do imposto de turismo, mediante dedução na respectiva ordem de entrega de receita, 2,5% das quantias entregues.
+Art. 16.º - 1 - Cada município pagará ao Tesouro, como compensação dos encargos de cobrança do imposto de turismo, mediante dedução na respectiva ordem de entrega de receita, 2,5% das quantias entregues.
 
 2 - Esta percentagem poderá ser revista quando se mostre necessário.
 
-###### Art. 17.º As disposições do presente diploma não se aplicam às regiões autónomas.
+Art. 17.º As disposições do presente diploma não se aplicam às regiões autónomas.
 
-###### Art. 18.º As dúvidas suscitadas na execução do presente diploma serão esclarecidas por despacho dos Ministros da Administração Interna, das Finanças e do Plano e do Comércio e Turismo.
+Art. 18.º As dúvidas suscitadas na execução do presente diploma serão esclarecidas por despacho dos Ministros da Administração Interna, das Finanças e do Plano e do Comércio e Turismo.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 4 de Agosto de 1980.**
+Promulgado em 4 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

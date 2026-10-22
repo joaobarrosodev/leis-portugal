@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/11/27300/18691870.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47336-1966-477362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dadf6efcff311d8c75521b904557645d6d1faab36e003955b99693cd71611ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38934f8fc7e0beb57f6aeb663df55b4abc9bcca19cd5f3348b4b7b61a1c0098b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
 relationships:
 - type: amended_by
   target: pt:dre:256638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474095:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256638:por
+  label: "Revogado o presente diploma pelo DEC LEI.374-B/79.10.09.1979.MF, DR.IS [209-Supl] de 10.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-b-1979-256638
+  date: '1979-09-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:11Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +113,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para efeitos do imposto de transacções, as taras ou embalagens recuperáveis utilizadas só se consideram sujeitas a imposto quando forem efectivamente transaccionadas.
+Artigo 1.º Para efeitos do imposto de transacções, as taras ou embalagens recuperáveis utilizadas só se consideram sujeitas a imposto quando forem efectivamente transaccionadas.
 
-###### Art. 2.º O prazo estabelecido na alínea b) do § 2.º do artigo 1.º do Código do Imposto de Transacções para a devolução de mercadorias entregues à consignação é alterado para 300 dias.
+Art. 2.º O prazo estabelecido na alínea b) do § 2.º do artigo 1.º do Código do Imposto de Transacções para a devolução de mercadorias entregues à consignação é alterado para 300 dias.
 
-###### Art. 3.º São consideradas matéria-prima, para os fins previstos no Código do Imposto de Transacções, as mercadorias que forem incorporadas ou consumidas directamente nos actos da produção de outras mercadorias.
+Art. 3.º São consideradas matéria-prima, para os fins previstos no Código do Imposto de Transacções, as mercadorias que forem incorporadas ou consumidas directamente nos actos da produção de outras mercadorias.
 
-###### Art. 4.º Os prazos para a devolução de mercadorias estabelecidos no artigo 27.º e seu § 3.º do Código do Imposto de Transacções, para efeitos de anulação ou rectificação das liquidações de imposto, são alterados, respectivamente, para 45 e 60 dias.
+Art. 4.º Os prazos para a devolução de mercadorias estabelecidos no artigo 27.º e seu § 3.º do Código do Imposto de Transacções, para efeitos de anulação ou rectificação das liquidações de imposto, são alterados, respectivamente, para 45 e 60 dias.
 
-###### Art. 5.º Os produtores ou grossistas que disponham de elementos adequados à verificação das entradas e saídas das mercadorias e, bem assim, à fiscalização e liquidação do imposto de transacções poderão requerer à Direcção-Geral das Contribuições e Impostos autorização para serem dispensados da utilização dos livros e verbetes ou fichas referidos nos n.os 1.º a 4.º do artigo 75.º do Código do Imposto de Transacções.
+Art. 5.º Os produtores ou grossistas que disponham de elementos adequados à verificação das entradas e saídas das mercadorias e, bem assim, à fiscalização e liquidação do imposto de transacções poderão requerer à Direcção-Geral das Contribuições e Impostos autorização para serem dispensados da utilização dos livros e verbetes ou fichas referidos nos n.os 1.º a 4.º do artigo 75.º do Código do Imposto de Transacções.
 
 O requerimento será acompanhado de elementos bastantes para a apreciação do pedido.
 
-###### Art. 6.º A verba do n.º 23 da lista A anexa ao Código do Imposto de Transacções passa a ter a seguinte redacção:
+Art. 6.º A verba do n.º 23 da lista A anexa ao Código do Imposto de Transacções passa a ter a seguinte redacção:
 
 23. Máquinas, ferramentas e outros bens de equipamento afectos ao processo produtivo das mercadorias ou aos departamentos de apoio directo e exclusivo à produção de mercadorias.
 
@@ -123,8 +133,8 @@ Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do
 
 Compreendem-se nesta verba as partes, peças e acessórios dos referidos bens de equipamento, desde que adquiridos para nos mesmos serem aplicados.
 
-###### Art. 7.º O Ministro das Finanças promoverá a revisão das disposições do Código do Imposto de Transacções com vista à sua adaptação ao disposto no presente decreto-lei.
+Art. 7.º O Ministro das Finanças promoverá a revisão das disposições do Código do Imposto de Transacções com vista à sua adaptação ao disposto no presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

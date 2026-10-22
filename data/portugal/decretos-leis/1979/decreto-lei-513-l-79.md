@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 296/1979, 1º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3350-(4) a 3350-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29601/00040007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-l-1979-430015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91db742fa2b101878fb1b5d547bb78e3cb06f35ba8d737884b1cd4b5602c574f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e21fd67a6531ef149351e2a7f172a95f8cb6eea64f4b4dde4044b2936617a3a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Assistência Médica
+- Assistência Medicamentosa
+- Consulta Médica
+- Cuidados de Enfermagem
+- Cuidados Médicos
+- Deficiente
+- Meios Complementares de Diagnóstico
+- Pensão de Orfandade
+- Pensão Social
+- Prestações da Segurança Social
+- Proteção Social
+- Segurança Social
+- Suplemento de Pensão a Grandes Inválidos
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:474484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474484:por
+  label: Revogado, com efeitos a partir de 01.06.1980, pelo(a) Decreto-Lei n.º 160/80 - Diário da República n.º 122/1980,
+    Série I de 1980-05-27, nos termos do disposto no seu art. 16.º, sem prejuízo de se retroagirem a essa data os efeitos
+    dos direitos adquiridos ao abrigo do presente diploma, desde que confirmados naquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1980-474484
+  date: '1980-05-27'
 article_structure:
   article_count: 20
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:35Z'
   warnings: []
   errors: []
 ---
@@ -296,8 +322,8 @@ O presente decreto-lei produz efeitos a partir de 1 de Dezembro de 1979.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

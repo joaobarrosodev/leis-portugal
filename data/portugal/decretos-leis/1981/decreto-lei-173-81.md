@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14300/14681469.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1981-578352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c123a865b4bedf6377b2b308bff96f8e53a69b7bfd1aca55ecbb61930e991b6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20fb0ed0f2bb085e1efbc139176d68ad272542209815c203073b3abd60d2e3b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Ordenamento do Território
+- Região Militar
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: Revogado pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993, que o mantém, contudo, transitoriamente em
+    vigor, nos termos do seu art. 32º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:02Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +105,7 @@ Considerando a necessidade de adaptar as designações das áreas consideradas �
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos de divisão territorial militar terrestre do território nacional, são constituídas quatro regiões militares e duas zonas militares, a saber:
+Artigo 1.º - 1 - Para efeitos de divisão territorial militar terrestre do território nacional, são constituídas quatro regiões militares e duas zonas militares, a saber:
 
 a) Regiões militares:
 
@@ -116,7 +125,7 @@ Zona Militar da Madeira, com sede no Funchal.
 
 2 - O comandante da Região Militar de Lisboa tem a designação de governador militar de Lisboa.
 
-###### Art. 2.º As regiões militares abrangem as áreas a seguir indicadas e assinaladas no mapa anexo, coincidindo os seus limites com os dos concelhos limítrofes das referidas áreas:
+Art. 2.º As regiões militares abrangem as áreas a seguir indicadas e assinaladas no mapa anexo, coincidindo os seus limites com os dos concelhos limítrofes das referidas áreas:
 
 Região Militar do Norte: a totalidade dos distritos de Viana do Castelo, Braga, Porto, Vila Real e Bragança; os concelhos de Ovar, Espinho, Feira e Castelo de Paiva, do distrito de Aveiro; os concelhos de Cinfães, Resende, Lamego, Tarouca, Armamar, Tabuaço e S. João da Pesqueira, do distrito de Viseu.
 
@@ -126,20 +135,20 @@ Região Militar de Lisboa: a totalidade dos distritos de Lisboa e Setúbal; os c
 
 Região Militar do Sul: a totalidade dos distritos de Portalegre, Évora, Beja e Faro e o concelho de Coruche, do distrito de Santarém.
 
-###### Art. 3.º As zonas militares abrangem as áreas das regiões correspondentes, a seguir indicadas:
+Art. 3.º As zonas militares abrangem as áreas das regiões correspondentes, a seguir indicadas:
 
 Zona Militar dos Açores: Região Autónoma dos Açores.
 
 Zona Militar da Madeira: Região Autónoma da Madeira.
 
-###### Art. 4.º As alterações decorrentes da extinção da Região Militar de Tomar produzem efeitos desde 1 de Maio de 1975.
+Art. 4.º As alterações decorrentes da extinção da Região Militar de Tomar produzem efeitos desde 1 de Maio de 1975.
 
 Visto e aprovado em Conselho da Revolução em 27 de Maio de 1981.
 
-**Promulgado em 3 de Junho de 1981.**
+Promulgado em 3 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/14300/14681469.pdf))](https://files.diariodarepublica.pt/1s/1981/06/14300/14681469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/14300/14681469.pdf)

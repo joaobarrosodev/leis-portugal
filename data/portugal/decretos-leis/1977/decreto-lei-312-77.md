@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1977-255447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c20bd6e8f37e4baf4a5e47dd55f5e261e714a5f748294378db9b1e8f983fe9a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3027f76d70ec4d57f0caa95538f491f09a2d4a8dd1d38d67700c87597a835d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bombeiro
+- Exército
+- Força Aérea
+- Força Paramilitar
+- Forças Armadas
+- GNR
+- Guarda Fiscal
+- Macau
+- Marinha
+- Militar
+- Promoção Profissional
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:49Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +114,18 @@ Considerando a necessidade urgente de para o período de transição, em que se 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nas condições especiais de promoção fixadas por cada ramo, considera-se equivalente às funções específicas dos respectivos ramos o serviço prestado pelos oficiais do activo na Guarda Nacional Republicana, Polícia de Segurança Pública, Guarda Fiscal, batalhões de sapadores bombeiros, Forças de Segurança de Macau e Repartição dos Serviços de Marinha de Macau, no desempenho de funções idênticas às que lhes são exigidas, no estatuto próprio, para satisfação dessas condições.
+Artigo 1.º Nas condições especiais de promoção fixadas por cada ramo, considera-se equivalente às funções específicas dos respectivos ramos o serviço prestado pelos oficiais do activo na Guarda Nacional Republicana, Polícia de Segurança Pública, Guarda Fiscal, batalhões de sapadores bombeiros, Forças de Segurança de Macau e Repartição dos Serviços de Marinha de Macau, no desempenho de funções idênticas às que lhes são exigidas, no estatuto próprio, para satisfação dessas condições.
 
-###### Art. 2.º Os oficiais do activo que prestam serviço nos batalhões de sapadores bombeiros são considerados em comissão normal, nos termos do artigo 36.º do [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965.
+Art. 2.º Os oficiais do activo que prestam serviço nos batalhões de sapadores bombeiros são considerados em comissão normal, nos termos do artigo 36.º do [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965.
 
-###### Art. 3.º São autorizados os Chefes dos Estados-Maiores da Armada, Exército e Força Aérea a estabelecer, por diploma legal, a dispensa de condições especiais de promoção estabelecidas no respectivo estatuto do oficial.
+Art. 3.º São autorizados os Chefes dos Estados-Maiores da Armada, Exército e Força Aérea a estabelecer, por diploma legal, a dispensa de condições especiais de promoção estabelecidas no respectivo estatuto do oficial.
 
-###### Art. 4.º A dispensa de condições especiais de promoção só pode ser concedida por uma só vez a um mesmo oficial.
+Art. 4.º A dispensa de condições especiais de promoção só pode ser concedida por uma só vez a um mesmo oficial.
 
 Visto e aprovado em Conselho da Revolução em 6 de Julho de 1977.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

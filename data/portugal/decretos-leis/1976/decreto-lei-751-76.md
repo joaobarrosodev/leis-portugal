@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24500/23812387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/751-1976-409372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52c137e21563670a7b4b6f4ec8003f8b5ee85d0646446881301ea497019d69c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca1a649c51b91414f03ce28b25faeec42629f91fa1b39889ac1275f80457334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Fomento Nacional
+- Banco de Portugal
+- Definição de Competências
+- Desenvolvimento Industrial
+- Direcção Geral do Tesouro
+- EFTA
+- Estatuto
+- Fundo da EFTA para o Desenvolvimento Industrial de Portugal
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:403291:por
+  label: "Alterado o art. 2º pelo DEC LEI.237/77.04.06.1977.MF, DR.IS [130-Supl] de 04.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1977-403291
+  date: '1977-06-04'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:27Z'
   warnings: []
   errors: []
 ---
@@ -100,45 +120,45 @@ Nestes termos:
 
 O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos do Fundo da EFTA para o Desenvolvimento Industrial de Portugal, cujo texto em inglês e respectiva tradução são os que se publicam em seguida e ficam a fazer parte integrante deste decreto-lei.
+Artigo 1.º São aprovados os Estatutos do Fundo da EFTA para o Desenvolvimento Industrial de Portugal, cujo texto em inglês e respectiva tradução são os que se publicam em seguida e ficam a fazer parte integrante deste decreto-lei.
 
-###### Art. 2.º - 1. O Fundo da EFTA para o Desenvolvimento Industrial de Portugal terá, para efeitos da ordem jurídica portuguesa, personalidade e capacidade jurídica e beneficiará das imunidades, isenções e privilégios previstos no Protocolo sobre a Capacidade Legal, Privilégios e Imunidades da Associação Europeia de Comércio Livre.
+Art. 2.º - 1. O Fundo da EFTA para o Desenvolvimento Industrial de Portugal terá, para efeitos da ordem jurídica portuguesa, personalidade e capacidade jurídica e beneficiará das imunidades, isenções e privilégios previstos no Protocolo sobre a Capacidade Legal, Privilégios e Imunidades da Associação Europeia de Comércio Livre.
 
 2. Como consequência do disposto no número anterior, o Fundo goza de capacidade para a prática dos actos e contratos necessários à prossecução do objectivo fixado nos respectivos Estatutos, designadamente para celebrar contratos de empréstimo e beneficiar de quaisquer garantias, inclusive de natureza real, e bem assim para intervir em juízo instaurando acções e praticando e requerendo os actos processuais conducentes à cobrança e defesa dos seus créditos.
 
 3. Para efeitos da actividade a exercer pelo Fundo em Portugal, considera-se o mesmo domiciliado na sede do Banco de Fomento Nacional, em Lisboa.
 
-###### Art. 3.º É o Governo autorizado a pôr à disposição do Fundo a importância correspondente à contribuição de Portugal, no valor de 5176950 direitos de saque especiais, em cinco prestações anuais iguais e em escudos ou em qualquer outra moeda que o Fundo aceite.
+Art. 3.º É o Governo autorizado a pôr à disposição do Fundo a importância correspondente à contribuição de Portugal, no valor de 5176950 direitos de saque especiais, em cinco prestações anuais iguais e em escudos ou em qualquer outra moeda que o Fundo aceite.
 
-###### Art. 4.º Compete à Direcção-Geral do Tesouro efectuar o pagamento da contribuição de Portugal para o Fundo, de harmonia com o n.º 6 do artigo 3.º dos Estatutos do Fundo.
+Art. 4.º Compete à Direcção-Geral do Tesouro efectuar o pagamento da contribuição de Portugal para o Fundo, de harmonia com o n.º 6 do artigo 3.º dos Estatutos do Fundo.
 
-###### Art. 5.º - 1. Para cumprimento do disposto no n.º 3 do artigo 7.º dos Estatutos do Fundo, é autorizado o Governo a fornecer divisas que o Fundo aceite na importância necessária para completar os reembolsos das contribuições e o pagamento dos juros respectivos sempre que o Fundo, na altura, não disponha de meios suficientes para satisfazer essas responsabilidades.
+Art. 5.º - 1. Para cumprimento do disposto no n.º 3 do artigo 7.º dos Estatutos do Fundo, é autorizado o Governo a fornecer divisas que o Fundo aceite na importância necessária para completar os reembolsos das contribuições e o pagamento dos juros respectivos sempre que o Fundo, na altura, não disponha de meios suficientes para satisfazer essas responsabilidades.
 
 2. Logo que o Fundo disponha dos meios necessários, o Governo será reembolsado das importâncias fornecidas nos termos do número anterior.
 
-###### Art. 6.º Os membros efectivo e suplente que assegurarão a representação portuguesa na comissão directiva serão designados por despacho conjunto dos Ministros das Finanças e do Plano e Coordenação Económica.
+Art. 6.º Os membros efectivo e suplente que assegurarão a representação portuguesa na comissão directiva serão designados por despacho conjunto dos Ministros das Finanças e do Plano e Coordenação Económica.
 
-###### Art. 7.º - 1. É autorizado o conselho de gestão do Banco de Fomento Nacional a exercer as funções de comissão executiva do Fundo em Portugal e, mediante prévio acordo do Ministro das Finanças, a celebrar o contrato com o Fundo previsto no n.º 2 do artigo 12.º dos Estatutos.
+Art. 7.º - 1. É autorizado o conselho de gestão do Banco de Fomento Nacional a exercer as funções de comissão executiva do Fundo em Portugal e, mediante prévio acordo do Ministro das Finanças, a celebrar o contrato com o Fundo previsto no n.º 2 do artigo 12.º dos Estatutos.
 
 2. O Banco de Fomento Nacional prestará ao Fundo o necessário apoio técnico e administrativo e terá direito a uma remuneração pelos serviços prestados.
 
-###### Art. 8.º O Banco de Portugal poderá abrir nos seus livros, em nome do Fundo, as contas, em escudos ou em moeda estrangeira, que sejam necessárias ou convenientes para a realização, transferência ou conversão das contribuições referidas no artigo 3.º dos Estatutos do Fundo, bem como celebrar acordos de conformidade com o previsto no n.º 6 do referido artigo.
+Art. 8.º O Banco de Portugal poderá abrir nos seus livros, em nome do Fundo, as contas, em escudos ou em moeda estrangeira, que sejam necessárias ou convenientes para a realização, transferência ou conversão das contribuições referidas no artigo 3.º dos Estatutos do Fundo, bem como celebrar acordos de conformidade com o previsto no n.º 6 do referido artigo.
 
-###### Art. 9.º - 1. Nos termos do artigo 6.º do Protocolo referido no artigo 2.º deste diploma, o Fundo e os seus bens e rendimentos gozam de isenção de todos os impostos directos, gerais ou especiais, do Estado e das autarquias locais.
+Art. 9.º - 1. Nos termos do artigo 6.º do Protocolo referido no artigo 2.º deste diploma, o Fundo e os seus bens e rendimentos gozam de isenção de todos os impostos directos, gerais ou especiais, do Estado e das autarquias locais.
 
 2. Os objectos destinados a uso oficial do Fundo, bem como as publicações, ficam, aquando da importação, isentos de direitos aduaneiros e demais imposições cobrados pelas alfândegas.
 
 3. De igual modo, a exportação dos objectos e publicações referidos no número antecedente será livre das imposições cobradas pelas alfândegas.
 
-###### Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 6 de Outubro de 1976.**
+Promulgado em 6 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 EFTA INDUSTRIAL DEVELOPMENT FUND FOR PORTUGAL
 
@@ -454,7 +474,7 @@ g) Apresentar, periodicamente e quando lhe for solicitado, relatórios à Comiss
 
 ###### ARTIGO 13.º — Funções do Secretário-Geral e serviços do Secretariado
 
-**O Secretário-Geral dará cumprimento às decisões tomadas pelo Conselho no que respeita às actividades do Fundo e prestará a devida assistência à Comissão Directiva no desempenho das suas tarefas. Os serviços de secretariado serão assegurados pelo Secretariado da EFTA.**
+O Secretário-Geral dará cumprimento às decisões tomadas pelo Conselho no que respeita às actividades do Fundo e prestará a devida assistência à Comissão Directiva no desempenho das suas tarefas. Os serviços de secretariado serão assegurados pelo Secretariado da EFTA.
 
 ###### ARTIGO 14.º — Verificação de contas
 

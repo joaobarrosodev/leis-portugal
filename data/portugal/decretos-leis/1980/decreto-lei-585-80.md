@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1980, 4º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4244-(65) a 4244-(68)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30104/00650068.pdf
 entry_into_force_dates: []
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1980-226776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0adb0e0f32081190dcf54e29f7c60feeea54835a6b1f7cb2785e1c84652ad554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34943b89b4688cd12a5e8481523c1a1c10883b0c80ad40afa0aba9b672c02d21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agricultura
+- Cobrança de Impostos
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Predial
+- Crime
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Director de Finanças
+- Diretor Geral
+- Imposto sobre a Indústria Agrícola
+- Isenção Fiscal
+- Multa
+relationships:
+- type: cites
+  target: pt:dre:426885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667512:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:14Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +114,17 @@ Suspensa a sua liquidação e cobrança por força do disposto no [Decreto-Lei n
 
 Deste modo, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pelo artigo 3.º da [Lei n.º 47/80](https://diariodarepublica.pt/dr/detalhe/lei/47-1980-667512), de 9 de Dezembro, o seguinte:
 
-###### Artigo 1.º - 1 - É reposto em vigor o imposto sobre a indústria agrícola, cujo lançamento, liquidação e cobrança se encontravam suspensos pelo [Decreto-Lei n.º 410/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1976-426885), de 27 de Maio.
+Artigo 1.º - 1 - É reposto em vigor o imposto sobre a indústria agrícola, cujo lançamento, liquidação e cobrança se encontravam suspensos pelo [Decreto-Lei n.º 410/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1976-426885), de 27 de Maio.
 
 2 - Os contribuintes devem adoptar as providências necessárias à determinação do rendimento colectável pelo chefe da repartição de finanças respectiva e ao cumprimento das demais obrigações fiscais contidas na parte II do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, relativamente aos lucros dos anos de 1981 e seguintes.
 
-###### Art. 2.º Os artigos 319.º, 323.º, 329.º, 331.º, 336.º, 337.º, 338.º, 341.º, 342.º, 343.º, 345.º, 367.º, 376.º e 377.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
+Art. 2.º Os artigos 319.º, 323.º, 329.º, 331.º, 336.º, 337.º, 338.º, 341.º, 342.º, 343.º, 345.º, 367.º, 376.º e 377.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
 
-###### Art. 319.º Ficam igualmente isentas do imposto as explorações agrícolas, silvícolas ou pecuárias cujo lucro anual não seja superior a 200000$00 e as explorações agrícolas e pecuárias sem terra, referidas no § 2.º do artigo 315.º, cujo lucro anual não exceda 100000$00.
+Art. 319.º Ficam igualmente isentas do imposto as explorações agrícolas, silvícolas ou pecuárias cujo lucro anual não seja superior a 200000$00 e as explorações agrícolas e pecuárias sem terra, referidas no § 2.º do artigo 315.º, cujo lucro anual não exceda 100000$00.
 
 § único. ...
 
-###### Art. 323.º ...
+Art. 323.º ...
 
 a) Para os contribuintes que tenham contabilidade devidamente organizada, satisfaçam aos demais requisitos a que estão sujeitos os contribuintes do grupo A da contribuição industrial e o requeiram, o lucro será o revelado pela conta de resultados do exercício ou de ganhos e perdas, elaborada nos termos do artigo 22.º do Código da Contribuição Industrial, ao qual se deduzirá a renda constante da matriz quanto às explorações efectuadas em prédios não arrendados ou a parte que proporcionalmente lhe corresponder no caso de nos mesmos prédios se exercerem formas de exploração mista;
 
@@ -118,7 +142,7 @@ b) ...
 
 § 6.º A faculdade prevista na alínea a) não é aplicável aos contribuintes do imposto sobre a indústria agrícola sujeitos também à contribuição industrial do grupo A, os quais serão sempre tributados com base naquela contabilidade.
 
-###### Art. 329.º Todas as pessoas que tenham estabelecido explorações agrícolas, silvícolas ou pecuárias em prédios cujo rendimento colectável totalize mais de 100000$00 deverão apresentar, até 15 de Abril de cada ano, uma declaração do modelo aprovado, em que, além da identificação dos prédios, se indiquem, relativamente ao ano anterior, o regime de exploração, a renda paga, o equipamento móvel e fixo, a discriminação de todo o gado, incluindo o de trabalho, o rendimento bruto, as despesas e o lucro da exploração.
+Art. 329.º Todas as pessoas que tenham estabelecido explorações agrícolas, silvícolas ou pecuárias em prédios cujo rendimento colectável totalize mais de 100000$00 deverão apresentar, até 15 de Abril de cada ano, uma declaração do modelo aprovado, em que, além da identificação dos prédios, se indiquem, relativamente ao ano anterior, o regime de exploração, a renda paga, o equipamento móvel e fixo, a discriminação de todo o gado, incluindo o de trabalho, o rendimento bruto, as despesas e o lucro da exploração.
 
 § 1.º ...
 
@@ -126,9 +150,9 @@ b) ...
 
 § 3.º ...
 
-###### Art. 331.º Quando se presuma que as explorações, embora estabelecidas em prédios com um total de rendimento colectável não superior a 100000$00, são susceptíveis de produzir lucros que excedam 200000$00, serão notificados, por postal registado com aviso de recepção, os respectivos agricultores para apresentar, no prazo que lhes for designado, a declaração referida no artigo anterior.
+Art. 331.º Quando se presuma que as explorações, embora estabelecidas em prédios com um total de rendimento colectável não superior a 100000$00, são susceptíveis de produzir lucros que excedam 200000$00, serão notificados, por postal registado com aviso de recepção, os respectivos agricultores para apresentar, no prazo que lhes for designado, a declaração referida no artigo anterior.
 
-###### Art. 336.º ...
+Art. 336.º ...
 
 § 1.º ...
 
@@ -136,7 +160,7 @@ b) ...
 
 § 3.º ...
 
-###### Art. 337.º ...
+Art. 337.º ...
 
 § 1.º ...
 
@@ -144,13 +168,13 @@ b) ...
 
 § 3.º O director de finanças distrital poderá, nos concelhos ou bairros e em casos justificáveis, designar outros funcionários, além do chefe da repartição, para procederem ao cálculo do rendimento e dos encargos de cada contribuinte, fixando o montante dos seus lucros quando presumirem que os tenha obtido.
 
-###### Art. 338.º ...
+Art. 338.º ...
 
 § 1.º É da competência do director de finanças distrital decidir sobre a realização de exames e vistorias, que lhe serão propostos pelo chefe da repartição de finanças.
 
 § 2.º Os exames e vistorias serão efectuados por dois peritos nomeados pelo director de finanças distrital de entre os inscritos na lista a que se refere o artigo 136.º e terão por fim habilitar os mesmos peritos a emitir parecer sobre o lucro que a exploração produziu no ano imediatamente anterior.
 
-###### Art. 341.º Da fixação dos lucros tributáveis poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público, reclamar, de 1 a 15 de Junho, para o chefe da repartição de finanças.
+Art. 341.º Da fixação dos lucros tributáveis poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público, reclamar, de 1 a 15 de Junho, para o chefe da repartição de finanças.
 
 § 1.º A reclamação prevista neste artigo será feita por meio de requerimento dirigido ao chefe da repartição de finanças, em que, sob pena de ser liminarmente rejeitada, se aleguem os respectivos fundamentos e se indiquem os rendimentos brutos e o lucro tributável que devem ser considerados.
 
@@ -168,7 +192,7 @@ b) Se entender que a mesma não é procedente, remeter a reclamação à comiss�
 
 § 6.º As reclamações não terão efeitos suspensivos.
 
-###### Art. 342.º Em cada direcção de finanças distrital funcionará uma comissão de revisão dos lucros tributáveis, à qual competirá fixar a matéria colectável no caso previsto na alínea b) do § 3.º e § 5.º do artigo anterior, constituída pela forma seguinte:
+Art. 342.º Em cada direcção de finanças distrital funcionará uma comissão de revisão dos lucros tributáveis, à qual competirá fixar a matéria colectável no caso previsto na alínea b) do § 3.º e § 5.º do artigo anterior, constituída pela forma seguinte:
 
 Presidente - O director de finanças distrital.
 
@@ -180,7 +204,7 @@ Vogais - Um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 3.º O director-geral das Contribuições e Impostos poderá autorizar o funcionamento de mais de uma comissão distrital de revisão quando o elevado número de reclamantes ou outros motivos atendíveis o justifique, devendo, neste caso, designar o presidente e o delegado da Fazenda Nacional para cada comissão e providenciar no sentido de que a distribuição do serviço se faça, preferentemente, com base em ramos de actividade.
 
-###### Art. 343.º ...
+Art. 343.º ...
 
 § 1.º ...
 
@@ -188,9 +212,9 @@ Vogais - Um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 3.º Quando a reclamação do contribuinte for totalmente desatendida, a comissão distrital fixará, a título de custas, um agravamento à colecta, nunca superior a 5%, graduado conforme as circunstâncias, tendo em conta, nomeadamente, as despesas ocasionadas pelos exames ou vistorias.
 
-###### Art. 345.º O chefe da repartição de finanças e o director de finanças distrital, na qualidade de presidente da comissão referida no artigo 342.º, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que careçam para a fixação dos lucros tributáveis ou apreciação das reclamações.
+Art. 345.º O chefe da repartição de finanças e o director de finanças distrital, na qualidade de presidente da comissão referida no artigo 342.º, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que careçam para a fixação dos lucros tributáveis ou apreciação das reclamações.
 
-###### Art. 367.º ...
+Art. 367.º ...
 
 § 1.º A declaração será feita em duplicado e entregue antes que principie o exercício da actividade em cada concelho ou bairro quando a exploração inicialmente tenha sido estabelecida em prédios com um total de rendimento colectável superior a 100000$00 ou, nos demais casos, no prazo de trinta dias, a contar da data em que o mesmo rendimento passe a exceder aquele limite. Tratando-se das explorações referidas no § 2.º do artigo 315.º, a declaração deve ser apresentada independentemente do rendimento colectável dos prédios em que porventura a exploração agrícola ou pecuária sem terra vá iniciar-se.
 
@@ -198,7 +222,7 @@ Vogais - Um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 3.º ...
 
-###### Art. 376.º A falta das declarações exigidas nos artigos 329.º, 330.º, § 2.º, 331.º e 367.º, bem como as omissões ou inexactidões nelas praticadas, ou nos documentos que as devam acompanhar, serão punidas:
+Art. 376.º A falta das declarações exigidas nos artigos 329.º, 330.º, § 2.º, 331.º e 367.º, bem como as omissões ou inexactidões nelas praticadas, ou nos documentos que as devam acompanhar, serão punidas:
 
 a) No caso de simples negligência, com multa de 1000$00 a 100000$00, sendo infractor o contribuinte abrangido pela alínea a) do artigo 323.º, e com multa de 200$00 a 40000$00, se incluído na alínea b) do mesmo artigo;
 
@@ -216,12 +240,12 @@ b) Havendo dolo, com multa igual ao dobro do imposto liquidado, no mínimo de 20
 
 § 4.º A infracção ao disposto no § 5.º do artigo 323.º será punida com multa igual à despesa efectuada, no mínimo de 10000$00.
 
-###### Art. 377.º Pela apresentação fora de prazo de quaisquer declarações exigidas na parte II deste diploma e bem assim por qualquer infracção não especialmente prevenida no artigo anterior será aplicada a multa de 200$00 a 2000$00.
+Art. 377.º Pela apresentação fora de prazo de quaisquer declarações exigidas na parte II deste diploma e bem assim por qualquer infracção não especialmente prevenida no artigo anterior será aplicada a multa de 200$00 a 2000$00.
 
 Visto e aprovado em Conselho de Ministros de 16 e Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 30 de Dezembro de 1980.**
+Promulgado em 30 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 133/1978, 2º Suplemento, Série I de 1978-06-12
   number: '133'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1054-(41) a 1054-(44)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13302/00410044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1978-426136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2044f278fe142fa2682926067cc0401c70695525cc1053637499127c343270d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd0230aaed0e0c6f3654fab1f503d618fc2af1f8e20f1fe51621c590f9af559f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Profissional
+- Contribuições e Impostos
+- Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383612:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade de norma constante da alínea e) do parágrafo 2.º\
+    \ do artigo 1.º do Código do Imposto Profissional aprovado pelo Decreto-Lei 44305 de 27 de Abril de 1962, com a redacção\
+    \ constante do presente diploma, pela RES.62/79.03.03.1979.CR, DR.IS [52] de 03.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/62-1979-383612
+  date: '1979-03-03'
+- type: amended_by
+  target: pt:dre:392414:por
+  label: "Eliminada a al. e) do § 2º do art. 1º e alterados os arts. 5º, 21º, 57º e 66º e a tabela anexa ao Código do Imposto\
+    \ Profissional aprovado pelo Dec Lei 44305 de 27-Abr de 1962, com a redacção constante do presente diploma, pelo DEC LEI.198/82.21.05.1982.MFP,\
+    \ DR.IS [115] de 21.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1982-392414
+  date: '1982-05-21'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427440:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:533777:por
+  label: Rectificado pela DECL.DD7598.07.07.1978.PCM, DR.IS [154]Supl de 07.07.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-533777
+  date: '1978-07-07'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:07Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +134,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É revogado o artigo 31.º do Código do Imposto Profissional, passando os seus artigos 1.º, 5.º, 7.º, 15.º, 21.º, 38.º, 57.º, 66.º e 67.º a ter a seguinte redacção:
+Artigo 1.º É revogado o artigo 31.º do Código do Imposto Profissional, passando os seus artigos 1.º, 5.º, 7.º, 15.º, 21.º, 38.º, 57.º, 66.º e 67.º a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -114,19 +150,19 @@ e) As importâncias recebidas, a título de gratificação ou gorjeta, pelos emp
 
 ...
 
-###### Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 80000$00.
+Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 80000$00.
 
 § único ...
 
 ...
 
-###### Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração referida no artigo anterior e de harmonia com as regras estabelecidas nos artigos 7.º-A, 10.º e seguintes.
+Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração referida no artigo anterior e de harmonia com as regras estabelecidas nos artigos 7.º-A, 10.º e seguintes.
 
 § único. Quando as remunerações sejam estipuladas em moeda estrangeira ou de território sob administração portuguesa, a sua equivalência em escudos será estabelecida pelas cotações à data do vencimento.
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § 1.º ...
 
@@ -134,21 +170,21 @@ e) As importâncias recebidas, a título de gratificação ou gorjeta, pelos emp
 
 ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13302/00410044.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13302/00410044.pdf)
-
-§ único ...
-
-...
-
-###### Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13302/00410044.pdf)
 
 § único ...
 
 ...
 
-###### Art. 57.º ...
+Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.
+
+§ único ...
+
+...
+
+Art. 57.º ...
 
 ...
 
@@ -158,19 +194,19 @@ e) As importâncias recebidas, a título de gratificação ou gorjeta, pelos emp
 
 ...
 
-###### Art. 66.º A falta de entrega nos cofres do Estado das importâncias deduzidas nos termos dos artigos 26.º e 27.º, ou a entrega de quantia inferior à descontada, será punida com multa igual ao quantitativo em falta, no mínimo de 500$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal, se houver abuso de confiança.
+Art. 66.º A falta de entrega nos cofres do Estado das importâncias deduzidas nos termos dos artigos 26.º e 27.º, ou a entrega de quantia inferior à descontada, será punida com multa igual ao quantitativo em falta, no mínimo de 500$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal, se houver abuso de confiança.
 
-###### Art. 67.º A entrega nos cofres do Estado fora do prazo legal das importâncias deduzidas nos termos dos artigos 26.º e 27.º será punida com multa igual a metade dessas importâncias, no mínimo de 250$00.
+Art. 67.º A entrega nos cofres do Estado fora do prazo legal das importâncias deduzidas nos termos dos artigos 26.º e 27.º será punida com multa igual a metade dessas importâncias, no mínimo de 250$00.
 
-###### Art. 2.º É aditado ao Código do Imposto Profissional o artigo 7.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Código do Imposto Profissional o artigo 7.º-A, com a seguinte redacção:
 
-###### Art. 7-A - Os deficientes cujo grau de invalidez seja igual ou superior a 60% terão direito à dedução, na matéria colectável, da importância correspondente a 20% do rendimento líquido, a qual não poderá exceder 60000$00.
+Art. 7-A - Os deficientes cujo grau de invalidez seja igual ou superior a 60% terão direito à dedução, na matéria colectável, da importância correspondente a 20% do rendimento líquido, a qual não poderá exceder 60000$00.
 
 § único. Para efeitos do disposto neste artigo, deverão os contribuintes juntar à declaração modelo n.º 1 documento comprovativo do grau de invalidez, emitido por entidade competente.
 
-###### Art. 3.º A tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440), de 28 de Abril, é substituída pela tabela anexa ao presente decreto-lei.
+Art. 3.º A tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do [Decreto-Lei n.º 312/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1976-427440), de 28 de Abril, é substituída pela tabela anexa ao presente decreto-lei.
 
-###### Art. 4.º - 1 - As disposições constantes dos artigos 1.º, 5.º, 7.º, 7.º-A e 21.º do Código do Imposto Profissional, segundo a redacção dada pelos artigos 1.º e 2.º do presente decreto-lei, e bem assim a tabela das actividades exercidas por conta própria, a que se refere o artigo anterior, são aplicáveis às remunerações ou rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1978 e seguintes.
+Art. 4.º - 1 - As disposições constantes dos artigos 1.º, 5.º, 7.º, 7.º-A e 21.º do Código do Imposto Profissional, segundo a redacção dada pelos artigos 1.º e 2.º do presente decreto-lei, e bem assim a tabela das actividades exercidas por conta própria, a que se refere o artigo anterior, são aplicáveis às remunerações ou rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1978 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerarem a mais ou a menos deduzidas e entregues nos cofres do Estado, nos termos dos artigos 26.º, 27.º e 29.º do Código, serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -178,16 +214,16 @@ e) As importâncias recebidas, a título de gratificação ou gorjeta, pelos emp
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 6 de Junho de 1978.**
+Promulgado em 6 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 IMPOSTO PROFISSIONAL
 
 Tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 3.º do Decreto-Lei n.º 138/78
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13302/00410044.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13302/00410044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13302/00410044.pdf)
 
-**O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.**
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.

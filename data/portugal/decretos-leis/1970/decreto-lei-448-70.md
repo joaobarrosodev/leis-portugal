@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1970-148013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 950e8585feaa32b1c0eaf549f907f6e04ecf0039dad903ae4045fea394a28066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a10857365cd57e267551a969b70ca6eb3c293cb1ba02519b7ee1776ce2467008
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Compensação Financeira
+- Controlo Financeiro
+- Fundo Cambial
+- Gestão Financeira
+- Pagamento
+- Transferência de Verbas
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:18Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +105,22 @@ Reconhecendo-se a necessidade de dotar o actual sistema de um mecanismo com a ma
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º de artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Quando na balança de pagamentos externos de qualquer território nacional se registarem desequilíbrios fundamentais referidos no artigo 51.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, poderão ser estabelecidas prioridades para a liquidação das ordens de pagamento emitidas nesse território.
+Artigo 1.º Quando na balança de pagamentos externos de qualquer território nacional se registarem desequilíbrios fundamentais referidos no artigo 51.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, poderão ser estabelecidas prioridades para a liquidação das ordens de pagamento emitidas nesse território.
 
-###### Art. 2º - 1. Os Ministros das Finanças e do Ultramar estabelecerão, por despacho, a lista das rubricas em que se deverão conter as operações de transferência beneficiárias de liquidação prioritária e os condicionalismos a que as mesmas operações deverão obedecer.
+Art. 2º - 1. Os Ministros das Finanças e do Ultramar estabelecerão, por despacho, a lista das rubricas em que se deverão conter as operações de transferência beneficiárias de liquidação prioritária e os condicionalismos a que as mesmas operações deverão obedecer.
 
 2. Na lista referida no número anterior poderão ser estabelecidos limites máximos às transferências a efectuar prioritàriamente.
 
-###### Art. 3.º A autoridade cambial do território ordenador da operação apreciará, caso por caso, a licitude da atribuição de transferência prioritária e assinalará as ordens de pagamento beneficiárias desse regime.
+Art. 3.º A autoridade cambial do território ordenador da operação apreciará, caso por caso, a licitude da atribuição de transferência prioritária e assinalará as ordens de pagamento beneficiárias desse regime.
 
-###### Art. 4.º Em casos de reconhecidas dificuldades económicas, sociais ou políticas de um dado território nacional poderá, por despacho dos Ministros das Finanças e do Ultramar, ser autorizada a afectação de determinados quantitativos da conta de reserva de uma província ultramarina à liquidação de débitos bilaterais.
+Art. 4.º Em casos de reconhecidas dificuldades económicas, sociais ou políticas de um dado território nacional poderá, por despacho dos Ministros das Finanças e do Ultramar, ser autorizada a afectação de determinados quantitativos da conta de reserva de uma província ultramarina à liquidação de débitos bilaterais.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Setembro de 1970.**
+Promulgado em 16 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas - J. da Silva Cunha.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/450-1970-148009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0956b4e3a631102e033f5a90e59313fb91395a1a254bd759a97fb1f8d933e6cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77b101a46a0af6a363dca630612427e2978dbd48dad47091abcfc669c872e3d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401549:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:28Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +100,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado o Fundo Prisional da província de Macau, dotado de personalidade jurídica e autonomia administrativa e financeira, o qual será gerido por uma comissão administrativa constituída pelo delegado do procurador da República, que presidirá, pelo director da cadeia e por um funcionário de Fazenda, designado pelo governador.
+Artigo 1.º É criado o Fundo Prisional da província de Macau, dotado de personalidade jurídica e autonomia administrativa e financeira, o qual será gerido por uma comissão administrativa constituída pelo delegado do procurador da República, que presidirá, pelo director da cadeia e por um funcionário de Fazenda, designado pelo governador.
 
-###### Art. 2.º São receitas do Fundo Prisional:
+Art. 2.º São receitas do Fundo Prisional:
 
 a) 30 por cento da receita cobrada pelo Cofre Geral de Justiça prevista no n.º 6 do artigo 6.º do [Decreto n.º 48152](https://diariodarepublica.pt/dr/detalhe/decreto/48152-1967-401549), de 23 de Dezembro de 1967, com a alteração constante do artigo 23.º do [Decreto n.º 49374](https://diariodarepublica.pt/dr/detalhe/decreto/49374-1969-215761), de 12 de Novembro de 1969;
 
@@ -104,9 +112,9 @@ c) As receitas próprias de estabelecimentos prisionais;
 
 d) Quaisquer outras receitas a que por lei o Fundo tenha direito, bem como os donativos e liberalidades que lhe forem atribuídos, quando aceites pelo governador da província.
 
-###### Art. 3.º São encargos do Fundo Prisional todas as despesas inerentes à gestão das construções, reparações e apetrechamentos prisionais e ao funcionamento do mesmo Fundo.
+Art. 3.º São encargos do Fundo Prisional todas as despesas inerentes à gestão das construções, reparações e apetrechamentos prisionais e ao funcionamento do mesmo Fundo.
 
-###### Art. 4.º Compete à comissão administrativa do Fundo Prisional:
+Art. 4.º Compete à comissão administrativa do Fundo Prisional:
 
 a) Planificar as construções prisionais e de internamento adequadas às necessidades da província, submetendo os planos e projectos, alcançado o parecer favorável do Governo da província, à aprovação do Ministério, através da Direcção-Geral de Justiça, nos termos do artigo 2.º, n.º 7, do Decreto n.º 43203, de 7 de Outubro de 1960;
 
@@ -118,18 +126,18 @@ d) Prestar contas, nos termos legais, ao Tribunal Administrativo;
 
 e) Fazer superiormente as sugestões reputadas úteis ao aperfeiçoamento e boa gestão dos fins para que o Fundo foi criado.
 
-###### Art. 5.º O expediente do Fundo Prisional será assegurado por um funcionário a designar pelo governador, sob proposta do presidente da comissão administrativa.
+Art. 5.º O expediente do Fundo Prisional será assegurado por um funcionário a designar pelo governador, sob proposta do presidente da comissão administrativa.
 
-###### Art. 6.º É autorizado o governador a fixar por portaria gratificações aos vogais da comissão administrativa e ao funcionário referido no artigo anterior.
+Art. 6.º É autorizado o governador a fixar por portaria gratificações aos vogais da comissão administrativa e ao funcionário referido no artigo anterior.
 
-###### Art. 7.º As dúvidas que se suscitarem serão resolvidas por despacho do governador, que regulamentará também os aspectos que eventualmente o venham a requerer durante a execução do presente diploma.
+Art. 7.º As dúvidas que se suscitarem serão resolvidas por despacho do governador, que regulamentará também os aspectos que eventualmente o venham a requerer durante a execução do presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Setembro de 1970.**
+Promulgado em 11 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

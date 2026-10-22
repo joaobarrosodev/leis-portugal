@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 299/1979, 6º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 3446-(125) a 3446-(128)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29906/01250128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-s1-1979-157179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da419eb153bab057fe3484e27a3e3ce83b57ff8b76ec49d55e630800efb257b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98754122766ea7f6cc4c9a6cdab2e61472ec9ab60017d3d751bb06dde25a284a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jnict
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:354088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:326894:por
+  label: "Alterado o quadro de pessoal da JNICT, aprovado no presente diploma, pela PORT.144/85.13.03.1985.PCM, DR.IS [60]\
+    \ de 13.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-1985-326894
+  date: '1985-03-13'
+- type: amended_by
+  target: pt:dre:170526:por
+  label: "Alterado o quadro de pessoal pela PORT.918/85.1985.11.30.PCM,DR.IS [276]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/918-1985-170526
+  date: '1985-11-30'
+- type: cites
+  target: pt:dre:146953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354088:por
+  label: "Revogado pelo DEC LEI.374/88.1988.10.21.MPAT,DR.IS [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1988-354088
+  date: '1988-10-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:36Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +144,9 @@ Uma situação crítica, porém, se arrasta já há vários anos - o quadro de p
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 6.º, 7.º e 8.º do [Decreto-Lei n.º 47791](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47791-1967-314257), de 11 de Julho de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 6.º, 7.º e 8.º do [Decreto-Lei n.º 47791](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47791-1967-314257), de 11 de Julho de 1967, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - O lugar de presidente da Junta é provido em comissão de serviço por períodos de três anos, renováveis, mediante despacho conjunto do Primeiro-Ministro e do Ministro da Cultura e da Ciência, de entre personalidades de reconhecido mérito em matéria de política de ciência e tecnologia.
+Art. 5.º - 1 - O lugar de presidente da Junta é provido em comissão de serviço por períodos de três anos, renováveis, mediante despacho conjunto do Primeiro-Ministro e do Ministro da Cultura e da Ciência, de entre personalidades de reconhecido mérito em matéria de política de ciência e tecnologia.
 
 2 - O lugar de vice-presidente da Junta é provido em comissão de serviço por períodos de três anos, renováveis, mediante despacho conjunto do Primeiro-Ministro e do Ministro da Cultura e da Ciência, sob proposta do presidente da Junta, de entre personalidades de reconhecido mérito em matéria de política de ciência e tecnologia.
 
@@ -107,7 +154,7 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o 
 
 4 - Se os cargos de presidente e vice-presidente forem desempenhados por professores universitários, estes poderão optar pelos vencimentos a que tenham direito nas Universidades, bem como pelas remunerações complementares a que se referem os artigos 70.º e 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro.
 
-###### Art. 6.º - 1 - O conselho geral é constituído por:
+Art. 6.º - 1 - O conselho geral é constituído por:
 
 a) O presidente, que presidirá, e o vice-presidente da Junta;
 
@@ -121,7 +168,7 @@ e) Até cinco personalidades de reconhecido mérito em matéria de política e d
 
 2 - O conselho geral reunirá, pelo menos, três vezes por ano e sempre que o presidente da Junta o convoque.
 
-###### Art. 7.º - 1 - O lugar de secretário da Junta é provido em comissão de serviço por períodos de três anos, renováveis, mediante despacho do Secretário de Estado da Ciência, sob proposta do presidente da Junta, de entre técnicos superiores principais ou técnicos superiores de 1.ª classe com três anos, com reconhecida competência para o exercício das funções.
+Art. 7.º - 1 - O lugar de secretário da Junta é provido em comissão de serviço por períodos de três anos, renováveis, mediante despacho do Secretário de Estado da Ciência, sob proposta do presidente da Junta, de entre técnicos superiores principais ou técnicos superiores de 1.ª classe com três anos, com reconhecida competência para o exercício das funções.
 
 2 - O funcionário referido no número anterior secretariará o conselho geral e a comissão executiva e, de harmonia com as instruções do presidente da Junta, coordenará a elaboração dos documentos a submeter àqueles órgãos.
 
@@ -129,29 +176,29 @@ e) Até cinco personalidades de reconhecido mérito em matéria de política e d
 
 4 - Compete ao secretário superintender nos serviços administrativos da Junta.
 
-###### Art. 8.º - A comissão executiva é constituída pelo presidente e vice-presidente da Junta e por dois vogais do conselho geral, designados pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta, ouvido o conselho geral.
+Art. 8.º - A comissão executiva é constituída pelo presidente e vice-presidente da Junta e por dois vogais do conselho geral, designados pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta, ouvido o conselho geral.
 
-###### Art. 2.º Os artigos 2.º e 3.º do [Decreto-Lei n.º 601/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/601-1970-146953), de 5 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º e 3.º do [Decreto-Lei n.º 601/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/601-1970-146953), de 5 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º A execução dos serviços administrativos da Junta fica a cargo de uma repartição com três secções: expediente, contabilidade e pessoal.
+Art. 2.º A execução dos serviços administrativos da Junta fica a cargo de uma repartição com três secções: expediente, contabilidade e pessoal.
 
-###### Art. 3.º O chefe da repartição referida no artigo anterior será nomeado por despacho do Secretário de Estado da Ciência, sob proposta do presidente da Junta, de entre os chefes de secção com mais de três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior adequado.
+Art. 3.º O chefe da repartição referida no artigo anterior será nomeado por despacho do Secretário de Estado da Ciência, sob proposta do presidente da Junta, de entre os chefes de secção com mais de três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior adequado.
 
-###### Art. 3.º É criada na Junta a Divisão de Relações Internacionais, a que compete assegurar as acções referentes à cooperação internacional em matéria de ciência e tecnologia da competência da Junta.
+Art. 3.º É criada na Junta a Divisão de Relações Internacionais, a que compete assegurar as acções referentes à cooperação internacional em matéria de ciência e tecnologia da competência da Junta.
 
-###### Art. 4.º - 1 - O quadro de pessoal da Junta passa a ser o que consta do mapa anexo ao presente diploma.
+Art. 4.º - 1 - O quadro de pessoal da Junta passa a ser o que consta do mapa anexo ao presente diploma.
 
 2 - O quadro referido no número anterior pode ser alterado por portaria conjunta dos Ministros das Finanças e da Cultura e da Ciência e do Secretário de Estado da Administração Pública.
 
 3 - A distribuição do pessoal pelos diferentes serviços será determinada pelo presidente da Junta, ouvidos os respectivos dirigentes.
 
-###### Art. 5.º - 1 - O provimento dos lugares do quadro será feito por nomeação, salvo nos casos de provimento por contrato, nos termos da lei geral.
+Art. 5.º - 1 - O provimento dos lugares do quadro será feito por nomeação, salvo nos casos de provimento por contrato, nos termos da lei geral.
 
 2 - As nomeações serão provisórias durante um ano, findo o qual os funcionários serão providos definitivamente se tiverem revelado aptidão para o lugar.
 
 3 - Se o funcionário tiver já provimento definitivo e o lugar para que foi nomeado corresponder a cargo de idêntica natureza, será provido definitivamente.
 
-###### Art. 6.º - 1 - Até 31 de Dezembro de 1979, o primeiro provimento dos lugares agora criados será feito com o pessoal que à data da entrada em vigor deste diploma preste serviço na Junta a qualquer título, sem prejuízo das habilitações exigidas e de acordo com as seguintes regras:
+Art. 6.º - 1 - Até 31 de Dezembro de 1979, o primeiro provimento dos lugares agora criados será feito com o pessoal que à data da entrada em vigor deste diploma preste serviço na Junta a qualquer título, sem prejuízo das habilitações exigidas e de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possuí:
 
@@ -177,26 +224,26 @@ d) Para categoria correspondente às funções que o funcionário actualmente de
 
 9 - Os lugares não preenchidos nos termos dos números anteriores serão providos nos termos do artigo anterior e da lei geral, tendo em vista as necessidades dos serviços e as disponibilidades financeiras.
 
-###### Art. 7.º - 1 - O pessoal provido em comissão de serviço em cargos dirigentes à data da publicação deste diploma transita para os cargos equivalentes previstos no presente diploma, sem interrupção da contagem de tempo para efeitos de comissão de serviço.
+Art. 7.º - 1 - O pessoal provido em comissão de serviço em cargos dirigentes à data da publicação deste diploma transita para os cargos equivalentes previstos no presente diploma, sem interrupção da contagem de tempo para efeitos de comissão de serviço.
 
 2 - O pessoal provido definitivamente em lugares do quadro existentes à data da publicação deste diploma e que transite para lugares previstos no novo quadro de idêntica categoria não perde a antiguidade.
 
-###### Art. 8.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações orçamentais inscritas no orçamento privativo da Junta para o corrente ano.
+Art. 8.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações orçamentais inscritas no orçamento privativo da Junta para o corrente ano.
 
-###### Art. 9.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas, consoante os casos, por despacho conjunto dos Ministros das Finanças e da Cultura e da Ciência e do Secretário de Estado da Administração Pública ou por despacho simples do Ministro da Cultura e da Ciência.
+Art. 9.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas, consoante os casos, por despacho conjunto dos Ministros das Finanças e da Cultura e da Ciência e do Secretário de Estado da Administração Pública ou por despacho simples do Ministro da Cultura e da Ciência.
 
-###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Adérito de Oliveira Sedas Nunes.
 
-**Promulgado em 29 de Dezembro de 1979.**
+Promulgado em 29 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o n.º 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29906/01250128.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29906/01250128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29906/01250128.pdf)
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Adérito de Oliveira Sedas Nunes.

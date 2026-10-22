@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47155-1966-469444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa568f7b358f8a34c13bec7cd3c0d43bb1dfc70b9743db294ef60e2b11933164
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02ea0ba24eb158a27819cd299218b52ff09ae4ecd2aac8aa2170814e8298008d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Cessão de Imóveis
+- Domínio Privado do Estado
+- Domínio Público Hídrico
+- Ordenamento do Território
+- Tavira
+- Urbanização
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:56Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +103,9 @@ Tendo em atenção, finalmente, que a Comissão do Domínio Público Marítimo s
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como o lei, o seguinte:
 
-###### Artigo 1.º É desafectada do domínio público marítimo e integrada no domínio privado do Estado a parte da ilha de Tavira, situada no concelho de Tavira e distrito de Faro, com a área de 275000 m2, assinalada na planta anexa ao presente decreto-lei, do qual faz parte integrante.
+Artigo 1.º É desafectada do domínio público marítimo e integrada no domínio privado do Estado a parte da ilha de Tavira, situada no concelho de Tavira e distrito de Faro, com a área de 275000 m2, assinalada na planta anexa ao presente decreto-lei, do qual faz parte integrante.
 
-###### Art. 2.º A Direcção-Geral da Fazenda Pública fica autorizada a ceder à Câmara Municipal de Tavira, a título definitivo, o terreno a que se refere o artigo 1.º, a fim de ser urbanizado de harmonia com os planos aprovados pelo Ministério das Obras Públicas.
+Art. 2.º A Direcção-Geral da Fazenda Pública fica autorizada a ceder à Câmara Municipal de Tavira, a título definitivo, o terreno a que se refere o artigo 1.º, a fim de ser urbanizado de harmonia com os planos aprovados pelo Ministério das Obras Públicas.
 
 § 1.º Como compensação desta cedência a Câmara obriga-se a entregar ao Estado metade das receitas provenientes da alienação, licenciamentos ou arrendamento dos terrenos cedidos.
 
@@ -106,13 +113,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A cedência a que se refere o corpo deste artigo fica isenta de todos os impostos e efectuar-se-á por meio de auto, lavrado e assinado na Direcção de Finanças do Distrito de Faro, que será documento bastante para os registos a efectuar.
 
-###### Art. 3.º São mantidas as actuais ocupações dos terrenos onde se encontram implantadas construções licenciadas pela Direcção-Geral dos Serviços Hidráulicos, até ao termo dos prazos estabelecidos nas respectivas licenças, passando, porém, as rendas correspondentes a essas ocupações a ser entregues à Câmara Municipal de Tavira, que nos termos do § 1.º do artigo anterior depositará metade nos cofres do Estado.
+Art. 3.º São mantidas as actuais ocupações dos terrenos onde se encontram implantadas construções licenciadas pela Direcção-Geral dos Serviços Hidráulicos, até ao termo dos prazos estabelecidos nas respectivas licenças, passando, porém, as rendas correspondentes a essas ocupações a ser entregues à Câmara Municipal de Tavira, que nos termos do § 1.º do artigo anterior depositará metade nos cofres do Estado.
 
 § 1.º A renovação da ocupação dos terrenos será requerida à Câmara Municipal de Tavira com, pelo menos, um mês de antecedência em relação ao termo da validade da licença concedida. O valor das rendas estabelecidas nessas licenças poderá ser alterado mediante despacho do Ministro das Finanças, sob proposta fundamentada da Câmara Municipal de Tavira.
 
 § 2.º Se para execução do plano de urbanização superiormente aprovado for necessário proceder à demolição de construções existentes, os respectivos ocupantes não terão direito a qualquer indemnização.
 
-###### Art. 4.º A Câmara Municipal poderá alienar talhões de terreno compreendidos na zona cedida, nas seguintes condições:
+Art. 4.º A Câmara Municipal poderá alienar talhões de terreno compreendidos na zona cedida, nas seguintes condições:
 
 a) Os talhões onde se localizam as construções referidas no artigo 3.º, e desde que estas se harmonizem com o plano de urbanização, serão vendidos aos respectivos ocupantes que assim o requeiram pelo preço resultante de avaliação que para o efeito se realizará.
 
@@ -122,12 +129,12 @@ b) Os talhões não ocupados e destinados a construções particulares, conforme
 
 c) Serão reservados dois talhões para a Capitania do Porto de Tavira, que, no prazo máximo de seis meses a contar da data da publicação do presente decreto-lei, fixará, de acordo com a Câmara Municipal, a área e localização dos lotes de terreno indispensáveis para as suas necessidades.
 
-###### Art. 5.º Se ao terreno cedido não for dada a utilização no artigo 2.º ou se a Câmara Municipal não cumprir qualquer outra das condições impostas no presente decreto-lei, a cedência ficará imediatamente anulada, revertendo para o domínio publico marítimo todas as parcelas que ainda se encontrem na posse da Câmara Municipal e sem que a esta autarquia seja devida qualquer indemnização pelas benfeitorias realizadas.
+Art. 5.º Se ao terreno cedido não for dada a utilização no artigo 2.º ou se a Câmara Municipal não cumprir qualquer outra das condições impostas no presente decreto-lei, a cedência ficará imediatamente anulada, revertendo para o domínio publico marítimo todas as parcelas que ainda se encontrem na posse da Câmara Municipal e sem que a esta autarquia seja devida qualquer indemnização pelas benfeitorias realizadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19200/13941395.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19200/13941395.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19200/13941395.pdf)
 
 Ministério das Finanças, 19 de Agosto de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.

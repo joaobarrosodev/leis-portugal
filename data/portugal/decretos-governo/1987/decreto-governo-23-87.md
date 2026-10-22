@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/23-1987-419631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce7e15ca13d502af19edd9ae2c799833bd18197388eb137bf5daf6674b450f79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9759ebfa9f0c105d23d7a7d12ba08a164a1aa3487858e7d26c462e5fe69cd3e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Técnica
+- Meteorologia
+- Portugal
+- São Tomé
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:09Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 25 de Junho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo Relativo a Assistência Técnica entre Portugal e a República Democrática de São Tomé e Príncipe nos Domínios da Meteorologia e da Geofísica, celebrado em São Tomé em 8 de Dezembro de 1986, cujo texto acompanha o presente decreto.
+Artigo único. É aprovado o Acordo Relativo a Assistência Técnica entre Portugal e a República Democrática de São Tomé e Príncipe nos Domínios da Meteorologia e da Geofísica, celebrado em São Tomé em 8 de Dezembro de 1986, cujo texto acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1987. - Aníbal António Cavaco Silva - Pedro José Rodrigues Pires de Miranda - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 4 de Junho de 1987.**
+Assinado em 4 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Junho de 1987.**
+Referendado em 8 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Acordo Relativo a Assistência Técnica entre Portugal e a República Democrática de São Tomé e Príncipe nos Domínios da Meteorologia e da Geofísica.
 
@@ -109,15 +114,15 @@ Considerando as vantagens recíprocas que advêm da cooperação nos domínios c
 
 Considerando a prática até agora seguida pelos dois países na regulamentação da cooperação em áreas científicas, mediante a celebração de acordos especiais, e tendo também em conta a situação existente no sector da meteorologia em São Tomé e Príncipe, acordam ambas as partes no seguinte:
 
-###### Artigo 1.º O Estado Português prestará ao Estado da República Democrática de São Tomé e Príncipe a assistência técnica necessária ao fortalecimento dos diversos sectores do Instituto Nacional de Meteorologia de São Tomé e Príncipe, adiante designado pelas suas iniciais (INMSPT), e ao lançamento de futuras actividades nos domínios da meteorologia e da geofísica, nas condições previstas no presente Acordo.
+Artigo 1.º O Estado Português prestará ao Estado da República Democrática de São Tomé e Príncipe a assistência técnica necessária ao fortalecimento dos diversos sectores do Instituto Nacional de Meteorologia de São Tomé e Príncipe, adiante designado pelas suas iniciais (INMSPT), e ao lançamento de futuras actividades nos domínios da meteorologia e da geofísica, nas condições previstas no presente Acordo.
 
-###### Art. 2.º - 1 - O Estado Português, através do Instituto Nacional de Meteorologia e Geofísica, adiante designado pelas suas iniciais (INMG), quando solicitado, tomará as medidas necessárias para o fim a que se destina o presente Acordo, essencialmente as que se destinem à formação profissional que vise dotar o INMSTP de quadros tecnicamente qualificados, podendo, se for necessário, destacar, de harmonia com as suas possibilidades, os cooperantes e ou consultores indispensáveis para o efeito.
+Art. 2.º - 1 - O Estado Português, através do Instituto Nacional de Meteorologia e Geofísica, adiante designado pelas suas iniciais (INMG), quando solicitado, tomará as medidas necessárias para o fim a que se destina o presente Acordo, essencialmente as que se destinem à formação profissional que vise dotar o INMSTP de quadros tecnicamente qualificados, podendo, se for necessário, destacar, de harmonia com as suas possibilidades, os cooperantes e ou consultores indispensáveis para o efeito.
 
 2 - O pessoal técnico português será destacado ao abrigo dos acordos de cooperação existentes entre os dois países ou no quadro da cooperação multilateral.
 
 3 - Constituirão encargo do INMSTP as despesas locais de instalação, alimentação, assistência médico-medicamentosa e transportes de serviço.
 
-###### Art. 3.º O Estado Português, através do INMG, compromete-se, na medida das suas possibilidades, a apoiar, quando solicitado:
+Art. 3.º O Estado Português, através do INMG, compromete-se, na medida das suas possibilidades, a apoiar, quando solicitado:
 
 1) A organização e instalação de laboratórios de manutenção de instrumentos, de um sector de informática e de um arquivo agro-meteorológico;
 
@@ -135,9 +140,9 @@ Considerando a prática até agora seguida pelos dois países na regulamentaçã
 
 8) A assistência técnica periódica, com estadas de consultores de 30 a 60 dias por ano.
 
-###### Art. 4.º As lacunas do presente Acordo serão preenchidas subsidiariamente pelas disposições do Acordo Geral de Cooperação e Amizade e do Acordo de Cooperação Científica e Técnica entre Portugal e São Tomé e Príncipe, na medida em que analogia das situações o aconselhem.
+Art. 4.º As lacunas do presente Acordo serão preenchidas subsidiariamente pelas disposições do Acordo Geral de Cooperação e Amizade e do Acordo de Cooperação Científica e Técnica entre Portugal e São Tomé e Príncipe, na medida em que analogia das situações o aconselhem.
 
-###### Art. 5.º O presente Acordo entrará em vigor na data em que cada uma das Partes comunicar à outra terem sido compridos os respectivos preceitos constitucionais e poderá ser denunciado por qualquer das partes mediante aviso prévio de 60 dias.
+Art. 5.º O presente Acordo entrará em vigor na data em que cada uma das Partes comunicar à outra terem sido compridos os respectivos preceitos constitucionais e poderá ser denunciado por qualquer das partes mediante aviso prévio de 60 dias.
 
 Feito em São Tomé aos 8 de Dezembro de 1986.
 

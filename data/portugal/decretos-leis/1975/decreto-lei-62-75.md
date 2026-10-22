@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f11a3f80ed3a75d3410e3fbf9ead631ae47c7ebc7612b54124dbd16716b77ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ec3fb23dee9db75816303844396e6809fa4b36caac3c0fdbdb8ad0c8b9f8437
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Estudos
+- Criação de Serviços
+- Definição de Competências
+- Instituto Nacional de Estatística
+relationships:
+- type: cites
+  target: pt:dre:272419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509205:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:20Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +114,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º e 7.º do [Decreto-Lei n.º 47616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47616-1967-509204), de 30 de Março de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º e 7.º do [Decreto-Lei n.º 47616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47616-1967-509204), de 30 de Março de 1967, passam a ter a seguinte redacção:
 
-###### Art. 2.º Os centros de estudo são constituídos pelo director e por individualidades de reconhecido mérito nas matérias das respectivas atribuições.
+Art. 2.º Os centros de estudo são constituídos pelo director e por individualidades de reconhecido mérito nas matérias das respectivas atribuições.
 
-###### Art. 3.º Aos centros de estudo compete, em geral:
+Art. 3.º Aos centros de estudo compete, em geral:
 
 1.º Suscitar e apoiar o aproveitamento de trabalhos de investigação dos dados estatísticos no domínio que lhes seja definido no diploma que os constituam;
 
@@ -108,18 +132,18 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 6.º Publicar na revista ou por outros meios os trabalhos realizados nos termos dos n.os 1.º e 2.º ou outros de reconhecido interesse.
 
-###### Art. 7.º Continuam em funcionamento, com observância do disposto no presente diploma e com os fins específicos a cada um deles atribuído, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.
+Art. 7.º Continuam em funcionamento, com observância do disposto no presente diploma e com os fins específicos a cada um deles atribuído, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.
 
-###### Art. 2.º Os directores dos centros de estudo ficarão na dependência hierárquica do director do Instituto Nacional de Estatística.
+Art. 2.º Os directores dos centros de estudo ficarão na dependência hierárquica do director do Instituto Nacional de Estatística.
 
-###### Art. 3.º Os directores dos centros de estudo passam a ter as funções que eram atribuídas pelo [Decreto n.º 47617](https://diariodarepublica.pt/dr/detalhe/decreto/47617-1967-509205), de 30 de Março de 1967, à direcção dos centros de estudo.
+Art. 3.º Os directores dos centros de estudo passam a ter as funções que eram atribuídas pelo [Decreto n.º 47617](https://diariodarepublica.pt/dr/detalhe/decreto/47617-1967-509205), de 30 de Março de 1967, à direcção dos centros de estudo.
 
-###### Art. 4.º Fica revogado o [Decreto n.º 47617](https://diariodarepublica.pt/dr/detalhe/decreto/47617-1967-509205), de 30 de Março de 1967.
+Art. 4.º Fica revogado o [Decreto n.º 47617](https://diariodarepublica.pt/dr/detalhe/decreto/47617-1967-509205), de 30 de Março de 1967.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
 
-**Promulgado em 10 de Fevereiro de 1975.**
+Promulgado em 10 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

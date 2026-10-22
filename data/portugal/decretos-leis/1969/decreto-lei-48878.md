@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48878-1969-527450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f77fb82a0a3fedd9982a02b0e47abe6678737e23463528f66c0531aee8011388
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfea7d3c63553a8b452eb52a9333ced16d473821334be0beb938b845f5c5fe2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Formas de Provimento
+- Laboratório de Engenharia de Angola
+- Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique
+- Moçambique.Colónia Portuguesa
+- Pessoal Especializado
+- Pessoal Técnico Superior
+- Regime de Pessoal
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:263200:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:32Z'
   warnings: []
   errors: []
 ---
@@ -86,23 +99,23 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 7.º, 9.º e 12.º do [Decreto-Lei n.º 48691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48691-1968-263200), de 18 de Novembro de 1968, passam a ter a seguinte redacção:
+Artigo único. Os artigos 7.º, 9.º e 12.º do [Decreto-Lei n.º 48691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48691-1968-263200), de 18 de Novembro de 1968, passam a ter a seguinte redacção:
 
-###### Art. 7.º Os estagiários para especialistas terão direito aos vencimentos fixados para os segundos-assistentes da Universidade da respectiva província.
-
-...
-
-###### Art. 9.º Os especialistas terão direito ao vencimento dos professores extraordinários da Universidade da respectiva província.
+Art. 7.º Os estagiários para especialistas terão direito aos vencimentos fixados para os segundos-assistentes da Universidade da respectiva província.
 
 ...
 
-###### Art. 12.º Para aplicação do disposto nos artigos 2.º, 3.º, 7.º, 9.º e 11.º deste diploma, considerar-se-á a equivalência à Universidade da respectiva província, a qual abrangerá as categorias e vencimentos, sendo as gratificações fixadas em cada província por diploma legislativo, observando-se a hierarquia dos cargos.
+Art. 9.º Os especialistas terão direito ao vencimento dos professores extraordinários da Universidade da respectiva província.
+
+...
+
+Art. 12.º Para aplicação do disposto nos artigos 2.º, 3.º, 7.º, 9.º e 11.º deste diploma, considerar-se-á a equivalência à Universidade da respectiva província, a qual abrangerá as categorias e vencimentos, sendo as gratificações fixadas em cada província por diploma legislativo, observando-se a hierarquia dos cargos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 8 de Fevereiro de 1969.**
+Promulgado em 8 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

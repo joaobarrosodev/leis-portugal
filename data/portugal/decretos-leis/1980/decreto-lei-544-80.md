@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/26100/38223824.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/544-1980-457407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75f3e403c312f5129b44a0a494e3c3ee4475ab3ce6a63796b587cebf2f5020ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57ef41397759fde63922607e1899161934fdb1a52735d003987f37b4d20b0371
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guarda Fiscal
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:426933:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459047:por
+  label: Rectificado pela DECL.DD6746.29.11.1980.PCM, DR.IS [277] de 29.11.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459047
+  date: '1980-11-29'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:31Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +124,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A orgânica da Guarda Fiscal compreende:
+Artigo 1.º A orgânica da Guarda Fiscal compreende:
 
 a) O Comando-Geral da Guarda Fiscal;
 
@@ -120,41 +136,41 @@ d) A Companhia Independente da Madeira da Guarda Fiscal;
 
 e) O Batalhão de Apoio de Serviços da Guarda Fiscal.
 
-###### Art. 2.º O Comando-Geral da Guarda Fiscal é o órgão de planeamento, coordenação, direcção e fiscalização do comandante-geral da Guarda Fiscal.
+Art. 2.º O Comando-Geral da Guarda Fiscal é o órgão de planeamento, coordenação, direcção e fiscalização do comandante-geral da Guarda Fiscal.
 
-###### Art. 3.º O Centro de Instrução da Guarda Fiscal tem como missão principal o alistamento, formação, especialização e reciclagem do pessoal em serviço na Guarda Fiscal.
+Art. 3.º O Centro de Instrução da Guarda Fiscal tem como missão principal o alistamento, formação, especialização e reciclagem do pessoal em serviço na Guarda Fiscal.
 
-###### Art. 4.º Os batalhões da Guarda Fiscal têm como missão principal o accionamento e impulsionamento da actividade operacional, coordenando-a com as exigências da administração das suas subunidades.
+Art. 4.º Os batalhões da Guarda Fiscal têm como missão principal o accionamento e impulsionamento da actividade operacional, coordenando-a com as exigências da administração das suas subunidades.
 
-###### Art. 5.º A Companhia Independente da Madeira da Guarda Fiscal abrange a área geográfica da respectiva Região Autónoma e tem funções semelhantes às dos batalhões da Guarda Fiscal.
+Art. 5.º A Companhia Independente da Madeira da Guarda Fiscal abrange a área geográfica da respectiva Região Autónoma e tem funções semelhantes às dos batalhões da Guarda Fiscal.
 
-###### Art. 6.º O Batalhão de Apoio de Serviços da Guarda Fiscal tem como missão o apoio geral de serviços a todos os órgãos e unidades da Guarda Fiscal, dentro do nível que for estabelecido.
+Art. 6.º O Batalhão de Apoio de Serviços da Guarda Fiscal tem como missão o apoio geral de serviços a todos os órgãos e unidades da Guarda Fiscal, dentro do nível que for estabelecido.
 
-###### Art. 7.º Os batalhões da Guarda Fiscal compreendem:
+Art. 7.º Os batalhões da Guarda Fiscal compreendem:
 
 a) O comando do batalhão;
 
 b) Companhias da Guarda Fiscal.
 
-###### Art. 8.º As companhias da Guarda Fiscal têm como missão principal a administração básica das tropas da Guarda Fiscal, exercendo também acção coordenadora e impulsionadora da actividade operacional.
+Art. 8.º As companhias da Guarda Fiscal têm como missão principal a administração básica das tropas da Guarda Fiscal, exercendo também acção coordenadora e impulsionadora da actividade operacional.
 
-###### Art. 9.º As companhias da Guarda Fiscal compreendem, na generalidade:
+Art. 9.º As companhias da Guarda Fiscal compreendem, na generalidade:
 
 a) O comando da companhia;
 
 b) Secções da Guarda Fiscal.
 
-###### Art. 10.º As secções da Guarda Fiscal têm como missão principal a execução operacional das missões atribuídas à Guarda Fiscal.
+Art. 10.º As secções da Guarda Fiscal têm como missão principal a execução operacional das missões atribuídas à Guarda Fiscal.
 
-###### Art. 11.º As secções da Guarda Fiscal compreendem, na generalidade:
+Art. 11.º As secções da Guarda Fiscal compreendem, na generalidade:
 
 a) O comando da secção;
 
 b) Postos da Guarda Fiscal.
 
-###### Art. 12.º Os postos da Guarda Fiscal constituem as unidades elementares da Guarda Fiscal e guarnecem postos fiscais, postos de contrôle de passageiros, postos com missão de serviço especial, postos de serviço marítimo e outros órgãos que requeiram a necessidade da presença de elementos da Guarda Fiscal.
+Art. 12.º Os postos da Guarda Fiscal constituem as unidades elementares da Guarda Fiscal e guarnecem postos fiscais, postos de contrôle de passageiros, postos com missão de serviço especial, postos de serviço marítimo e outros órgãos que requeiram a necessidade da presença de elementos da Guarda Fiscal.
 
-###### Art. 13.º As sedes dos diferentes escalões de comando são fixadas de acordo com os seguintes critérios:
+Art. 13.º As sedes dos diferentes escalões de comando são fixadas de acordo com os seguintes critérios:
 
 a) Comando-Geral, em Lisboa;
 
@@ -174,7 +190,7 @@ g) Os postos, em local a definir, de acordo com a manobra de forças da Guarda F
 
 Os postos da Guarda Fiscal que guarnecem postos fiscais só poderão ser alterados com parecer favorável da Direcção-Geral das Alfândegas e constarão de lista anexa à Reforma Aduaneira.
 
-###### Art. 14.º - 1 - As áreas de responsabilidade a atribuir às unidades e subunidades são fixadas por despacho do comandante-geral, de acordo com os critérios gerais seguintes:
+Art. 14.º - 1 - As áreas de responsabilidade a atribuir às unidades e subunidades são fixadas por despacho do comandante-geral, de acordo com os critérios gerais seguintes:
 
 a) Manobra de forças da Guarda Fiscal;
 
@@ -184,19 +200,19 @@ b) Capacidade de comando dos diferentes escalões.
 
 3 - As áreas das companhias coincidirão, quanto possível, com as de distrito ou distritos administrativos.
 
-###### Art. 15.º Na Guarda Fiscal os diferentes comandos serão exercidos pelas entidades definidas em portaria.
+Art. 15.º Na Guarda Fiscal os diferentes comandos serão exercidos pelas entidades definidas em portaria.
 
-###### Art. 16.º O comandante-geral da Guarda Fiscal poderá proceder a correcções e ajustamentos de pessoal entre as unidades, sempre que as necessidades de serviço o imponham, sem alterações do efectivo global atribuído à Guarda Fiscal.
+Art. 16.º O comandante-geral da Guarda Fiscal poderá proceder a correcções e ajustamentos de pessoal entre as unidades, sempre que as necessidades de serviço o imponham, sem alterações do efectivo global atribuído à Guarda Fiscal.
 
-###### Art. 17.º O comandante-geral da Guarda Fiscal poderá mandar satisfazer os encargos com remunerações acessórias, dentro das disponibilidades orçamentais, em relação a pessoal das forças armadas prestando serviço em diligência da Guarda Fiscal por conveniência de serviço, nas mesmas condições que estiverem estabelecidas para o pessoal dos respectivos quadros orgânicos.
+Art. 17.º O comandante-geral da Guarda Fiscal poderá mandar satisfazer os encargos com remunerações acessórias, dentro das disponibilidades orçamentais, em relação a pessoal das forças armadas prestando serviço em diligência da Guarda Fiscal por conveniência de serviço, nas mesmas condições que estiverem estabelecidas para o pessoal dos respectivos quadros orgânicos.
 
-###### Art. 18.º O pessoal da Guarda Fiscal é nomeado segundo normas a fixar por portaria.
+Art. 18.º O pessoal da Guarda Fiscal é nomeado segundo normas a fixar por portaria.
 
-###### Art. 19.º A organização estabelecida nos artigos anteriores será posta em execução de acordo com as disponibilidades orçamentais e mediante as previsões constantes dos programas anuais da Guarda Fiscal.
+Art. 19.º A organização estabelecida nos artigos anteriores será posta em execução de acordo com as disponibilidades orçamentais e mediante as previsões constantes dos programas anuais da Guarda Fiscal.
 
-###### Art. 20.º Nos efectivos da Guarda Fiscal propostos neste diploma está incluído todo o pessoal do quadro paralelo, criado pelo [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio. A administração do pessoal deste quadro continuará a ser feita pelos diplomas específicos que lhe respeitam.
+Art. 20.º Nos efectivos da Guarda Fiscal propostos neste diploma está incluído todo o pessoal do quadro paralelo, criado pelo [Decreto-Lei n.º 386/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933), de 22 de Maio. A administração do pessoal deste quadro continuará a ser feita pelos diplomas específicos que lhe respeitam.
 
-###### Art. 21.º Serão estabelecidos por portaria os seguintes quadros:
+Art. 21.º Serão estabelecidos por portaria os seguintes quadros:
 
 a) Quadro de efectivos da Guarda Fiscal;
 
@@ -214,12 +230,12 @@ g) Quadro orgânico do Centro de Instrução da Guarda Fiscal;
 
 h) Quadro orgânico do Batalhão de Apoio de Serviços da Guarda Fiscal.
 
-###### Art. 22.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 22.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 28 de Outubro de 1980.**
+Promulgado em 28 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

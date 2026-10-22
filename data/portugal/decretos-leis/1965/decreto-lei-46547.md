@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46547-1965-510262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f90b65194ebd5cf40340a3cd2ccb5eac941aaa75520f74ee0b975f215daf19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0345857220e392028f3b0666f87d3706f094627f217181d4bda4584eae13202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Conselho Administrativo
+- Definição de Competências
+- Diretor
+- Ensino Técnico
+- Estabelecimento de Ensino
+- Instituto Industrial
+- Pessoal Docente
+- Quadro de Pessoal
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:633327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633327:por
+  label: "Convertido em Instituto Industrial e Comercial o Instituto Industrial de Coimbra, e aumentado o quadro de pessoal\
+    \ constante do anexo pelo DEC LEI.440/71.22.10.1971.MEN, DG.IS [249] de 22.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/440-1971-633327
+  date: '1971-10-22'
+- type: cites
+  target: pt:dre:162978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578900:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:42Z'
   warnings: []
   errors: []
 ---
@@ -108,33 +136,33 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Com a denominação de Instituto Industrial de Coimbra, é criado nessa cidade um estabelecimento de ensino técnico médio que será regido pelo presente diploma e pela legislação vigente aplicável aos institutos industriais.
+Artigo 1.º - 1. Com a denominação de Instituto Industrial de Coimbra, é criado nessa cidade um estabelecimento de ensino técnico médio que será regido pelo presente diploma e pela legislação vigente aplicável aos institutos industriais.
 
 2. Inicialmente serão ministrados no Instituto os cursos de Electrotecnia e Máquinas e de Química Laboratorial e Industrial, assim como as habilitações que facultam o ingresso no ensino superior; o plano de estudos pode, porém, ser ampliado logo que as instalações o permitam.
 
-###### Art. 2.º O Instituto será provisòriamente instalado em edifício colocado à disposição do Ministério da Educação Nacional pelo Governo Civil de Coimbra e que satisfaça aos requisitos para tal necessários.
+Art. 2.º O Instituto será provisòriamente instalado em edifício colocado à disposição do Ministério da Educação Nacional pelo Governo Civil de Coimbra e que satisfaça aos requisitos para tal necessários.
 
-###### Art. 3.º O quadro do pessoal docente, auxiliar de ensino, administrativo e menor do Instituto Industrial de Coimbra é o constante do mapa que acompanha este decreto-lei e dele faz parte integrante. O provimento dos lugares será feito gradualmente, à medida que as necessidades do serviço o exijam.
+Art. 3.º O quadro do pessoal docente, auxiliar de ensino, administrativo e menor do Instituto Industrial de Coimbra é o constante do mapa que acompanha este decreto-lei e dele faz parte integrante. O provimento dos lugares será feito gradualmente, à medida que as necessidades do serviço o exijam.
 
-###### Art. 4.º - 1. Os professores dos quadros dos Institutos Industriais de Lisboa e Porto podem ser colocados nos correspondentes lugares do Instituto Industrial de Coimbra desde que requeiram a sua transferência nos 30 dias imediatamente seguintes à publicação deste diploma.
+Art. 4.º - 1. Os professores dos quadros dos Institutos Industriais de Lisboa e Porto podem ser colocados nos correspondentes lugares do Instituto Industrial de Coimbra desde que requeiram a sua transferência nos 30 dias imediatamente seguintes à publicação deste diploma.
 
 2. Se os pedidos de transferência excederem, em qualquer grupo, o número de lugares a prover, gozarão de preferência os candidatos que tenham, na categoria, maior antiguidade.
 
-###### Art. 5.º - 1. As primeiras nomeações para os lugares de professor que não sejam providos nos termos do artigo antecedente podem recair em professores do ensino técnico profissional ou engenheiros que possuam, segundo os grupos, a habilitação exigida no artigo 68.º do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537), de 4 de Novembro de 1950, e tenham classificação não inferior a 14 valores em Exame de Estado ou no curso, ou ainda, ouvida a Junta Nacional da Educação, em pessoas de especial competência, demonstrada por título académicos ou por obra científica ou trabalhos de aplicação de reconhecido mérito.
+Art. 5.º - 1. As primeiras nomeações para os lugares de professor que não sejam providos nos termos do artigo antecedente podem recair em professores do ensino técnico profissional ou engenheiros que possuam, segundo os grupos, a habilitação exigida no artigo 68.º do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537), de 4 de Novembro de 1950, e tenham classificação não inferior a 14 valores em Exame de Estado ou no curso, ou ainda, ouvida a Junta Nacional da Educação, em pessoas de especial competência, demonstrada por título académicos ou por obra científica ou trabalhos de aplicação de reconhecido mérito.
 
 2. Caso os professores nomeados ocupem outros lugares dos quadros permanentes dos serviços públicos, serão considerados, mediante autorização de quem legalmente deva dá-la, em regime de comissão, pelo período de dois anos, contando-se esse tempo, para todos os efeitos legais, como de efectivo serviço nos lugares de que foram deslocados e podendo estes ser providos interinamente.
 
-###### Art. 6.º Até ao limite autorizado pelo Ministro da Educação Nacional, pode o serviço docente do Instituto Industrial de Coimbra ser desempenhado, em acumulação, por pessoal técnico de estabelecimentos do ensino superior.
+Art. 6.º Até ao limite autorizado pelo Ministro da Educação Nacional, pode o serviço docente do Instituto Industrial de Coimbra ser desempenhado, em acumulação, por pessoal técnico de estabelecimentos do ensino superior.
 
-###### Art. 7.º O primeiro provimento dos lugares de contínuo recairá em empregados da mesma classe ou da classe imediatamente inferior, pertencentes aos quadros dos serviços dependentes da Direcção-Geral do Ensino Técnico Profissional e designados por despacho ministerial.
+Art. 7.º O primeiro provimento dos lugares de contínuo recairá em empregados da mesma classe ou da classe imediatamente inferior, pertencentes aos quadros dos serviços dependentes da Direcção-Geral do Ensino Técnico Profissional e designados por despacho ministerial.
 
-###### Art. 8.º Até à constituição do conselho administrativo as suas funções são exercidas pelo director do Instituto.
+Art. 8.º Até à constituição do conselho administrativo as suas funções são exercidas pelo director do Instituto.
 
-###### Art. 9.º No primeiro ano de funcionamento do Instituto, se as circunstâncias o justificarem, podem as disposições do regulamento relativas às actividades escolares ser alteradas por despacho do Ministro da Educação Nacional.
+Art. 9.º No primeiro ano de funcionamento do Instituto, se as circunstâncias o justificarem, podem as disposições do regulamento relativas às actividades escolares ser alteradas por despacho do Ministro da Educação Nacional.
 
-###### Art. 10.º Os encargos ocasionados pelo provimento dos lugares criados por este decreto-lei serão satisfeitos, no presente ano económico, pelas disponibilidades da dotação inscrita no capítulo 5.º, artigo 824.º, n.º 1), do correspondente orçamento do Ministério da Educação Nacional.
+Art. 10.º Os encargos ocasionados pelo provimento dos lugares criados por este decreto-lei serão satisfeitos, no presente ano económico, pelas disponibilidades da dotação inscrita no capítulo 5.º, artigo 824.º, n.º 1), do correspondente orçamento do Ministério da Educação Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

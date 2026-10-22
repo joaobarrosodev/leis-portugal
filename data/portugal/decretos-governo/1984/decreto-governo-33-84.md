@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/33-1984-385575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 412e1cbfac13ee577bacd01b5245c2dfd1c1e6b55d2b92310c51b9f1ded6e940
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11c95c1d6c017dc8e8bbe9dbfda9849c92b21ce8242f4d9202ef78f758ecb94d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Proteção do Ambiente
+- Ramsar
+- ZONA Humida
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:00Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 10 de Julho
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o texto do Protocolo de Emenda da Convenção das Zonas Húmidas de Importância Internacional especialmente como Habitat de Aves Aquáticas, adoptado em Paris em 3 de Dezembro de 1982, cujos textos em francês e respectiva tradução para português são publicados em anexo.
+Artigo único. É aprovado, para adesão, o texto do Protocolo de Emenda da Convenção das Zonas Húmidas de Importância Internacional especialmente como Habitat de Aves Aquáticas, adoptado em Paris em 3 de Dezembro de 1982, cujos textos em francês e respectiva tradução para português são publicados em anexo.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - António d'Orey Capucho.
 
-**Assinado em 7 de Junho de 1984.**
+Assinado em 7 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1984.**
+Referendado em 8 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Texte corrigé de la version originale française de la Convention relative aux Zones humides d'Importance Internationale particulièrement comme Habitats des Oiseaux d'eau.
 
@@ -351,11 +356,11 @@ Considerando, além disso, que o texto da Convenção não prevê nenhum process
 
 acordam o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O artigo seguinte será inserido entre o artigo 10.º e o artigo 11.º da Concenção:
 
-###### ARTIGO 10.º-BIS
+ARTIGO 10.º-BIS
 
 1 - A presente Convenção poderá ser emendada numa reunião das Partes contratantes, convocada para este efeito em conformidade com o presente artigo.
 
@@ -371,19 +376,19 @@ O artigo seguinte será inserido entre o artigo 10.º e o artigo 11.º da Concen
 
 Para as Partes contratantes que depositem o instrumento de adesão depois da data em que dois terços das Partes contratantes tenham depositado o instrumento de adesão, a emenda entrará em vigor no primeiro dia do quarto mês a partir da data do depósito do respectivo instrumento de adesão.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 A expressão «o texto inglês servirá de referência em caso de divergência de interpretação», contida na cláusula que se segue ao artigo 12.º da Convenção, é substituída por «todos os textos são igualmente autênticos».
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O texto corrigido da versão original francesa da Convenção vai em anexo ao presente Protocolo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O presente Protocolo estará aberto para assinatura a partir de 3 de Dezembro de 1982 na sede da UNESCO, em Paris.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1 - Qualquer Estado referido no artigo 9.º, parágrafo 2, da Convenção poderá tornar-se Parte contratante deste Protocolo através de:
 
@@ -399,7 +404,7 @@ c) Adesão.
 
 4 - Qualquer Estado que se torne Parte contratante do presente Protocolo sem o ser da Convenção será considerado como parte da Convenção já emendada pelo presente Protocolo e a partir da data da entrada em vigor do presente.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1 - O presente Protocolo entra em vigor no primeiro dia do quarto mês a partir da data em que dois terços dos Estados que são Partes contratantes da Convenção na data em que o presente Protocolo é aberto para assinatura o assinarem sem reserva de ratificação, aceitação ou aprovação ou o ratificarem, aceitarem, aprovarem ou aderirem.
 
@@ -407,7 +412,7 @@ c) Adesão.
 
 3 - No que diz respeito aos Estados que se tornem Partes contratantes do presente Protocolo nos termos dos parágrafos 1 e 2 do artigo 5.º durante o período que decorre entre a abertura para assinatura do presente Protocolo e a sua entrada em vigor, o presente Protocolo entrará em vigor na data estipulada no parágrafo 1 acima mencionado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1 - O texto original do presente Protocolo, nas línguas inglesa e francesa, sendo ambas igualmente autênticas, será depositado junto do depositário, que enviará cópias autenticadas a todos os Estados que o tenham assinado ou que tenham depositado o respectivo instrumento de adesão.
 

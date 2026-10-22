@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/12800/13031304.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 619f846d3bb5732273abe560ad04e3da9fa99fc8206b388163196c85a6f04089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81237f7bef4e7e887780152775374faaa29d0921f9f917796097a56218cdd7fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Integração de Trabalhadores
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:17Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Integração de adidos na Administração Central)
 
@@ -120,7 +132,7 @@ c) Aos adidos em actividade junto da Direcção-Geral de Recrutamento e Formaç�
 
 5 - Aos adidos requisitados junto da Direcção-Geral de Recrutamento e Formação será por esta assegurada a sua colocação, sem interrupção de actividade, junto de outros serviços e organismos públicos, à medida que se forem esvaziando de conteúdo as atribuições inerentes à gestão do quadro geral de adidos cometidas àquela Direcção-Geral.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Lugares em que se fará a integração)
 
@@ -136,7 +148,7 @@ c) Aumentados aos mesmos quadros, nos termos deste diploma.
 
 3 - O alargamento dos quadros previstos na mesma alínea será feito mediante portaria do Ministro das Finanças e do Plano, do Ministro da pasta e do membro do Governo que tiver a seu cargo a função pública.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Categoria de integração)
 
@@ -146,7 +158,7 @@ a) Em categoria igual ou equivalente à que o adido possui, no caso de a mesma e
 
 b) Em categoria que resultar da aplicação de tabela de equivalências a aprovar mediante despacho do membro do Governo que tiver a seu cargo a função pública e do membro do Governo competente para o serviço ou organismo integrador nos demais casos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Forma de integração)
 
@@ -156,11 +168,11 @@ b) Em categoria que resultar da aplicação de tabela de equivalências a aprova
 
 3 - A publicação do diploma de provimento referido no n.º 1 corresponderá, por si, sem mais formalidades, à desvinculação do quadro geral de adidos dos funcionários adidos integrados.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Os funcionários a que se reporta o presente diploma ficam sujeitos ao regime de pessoal em vigor ou que vier a ser estabelecido para idênticas categorias dos quadros dos serviços em que se efectivar a integração, sendo-lhes contado, para todos os efeitos legais, designadamente antiguidade, promoção, diuturnidades e aposentação, todo o tempo de serviço prestado nos organismos de origem e, bem assim, o de permanência no quadro geral de adidos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Providências financeiras)
 
@@ -170,13 +182,13 @@ Os funcionários a que se reporta o presente diploma ficam sujeitos ao regime de
 
 3 - O Ministério das Finanças e do Plano tomará, em estreita articulação com o membro do Governo que tiver a seu cargo a função pública e os departamentos ministeriais interessados, as providências necessárias para assegurar a transferência daquelas verbas para os serviços e organismos integradores.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Resolução de dúvidas)
 
 As dúvidas resultantes da aplicação do presente diploma serão resolvidas mediante despacho do Ministro das Finanças e do Plano, do Ministro da pasta e do membro do Governo que tiver a seu cargo a função pública, de harmonia com a respectiva competência.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Entrada em vigor)
 
@@ -184,8 +196,8 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 27 de Maio de 1980.**
+Promulgado em 27 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

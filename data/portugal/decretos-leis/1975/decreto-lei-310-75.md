@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14500/08670869.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1975-337179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcaa4b8e8e621e80ca34f6a9f3bfa0c6fb4924b37ad28fd848ae328198a0e466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5432abfdd37c311656d2bf7811d3db79f3fc04a86870b0d4f548cc86fca9116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Religiosa
+- Capelão
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:515444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ": REVOGADO O DECRETO-LEI NUMERO 93/91 PUBLICADO NO DIARIO DA REPUBLICA, I SERIE-A, NUMERO 47, DE 910226.C\0.C\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-02-26'
+- type: cites
+  target: pt:dre:446891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479641:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:337002:por
+  label: Retificado o art. 1.º pelo(a) Declaração - Diário do Governo n.º 158/1975, Série I de 1975-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-337002
+  date: '1975-07-11'
+- type: repealed_by
+  target: pt:dre:484415:por
+  label: Revogado pelo DEC LEI.93/91.26.02.1991.MDN, DR.IS-A [47] de 26.02.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1991-484415
+  date: '1991-02-26'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:50Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +132,9 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passam a ter a redacção a seguir indicada os artigos 1.º, 12.º, 13.º, 14.º, n.º 1, e 16.º do [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), de 8 de Setembro de 1966, com as alterações introduzidas pelo [Decreto-Lei n.º 44/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1971-446891), de 20 de Fevereiro:
+Artigo 1.º Passam a ter a redacção a seguir indicada os artigos 1.º, 12.º, 13.º, 14.º, n.º 1, e 16.º do [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), de 8 de Setembro de 1966, com as alterações introduzidas pelo [Decreto-Lei n.º 44/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1971-446891), de 20 de Fevereiro:
 
-###### Artigo 1.º - 1. O Serviço de Assistência Religiosa das Forças Armadas integra a assistência religiosa nos três ramos militares e tem como objectivos:
+Artigo 1.º - 1. O Serviço de Assistência Religiosa das Forças Armadas integra a assistência religiosa nos três ramos militares e tem como objectivos:
 
 a) Assegurar a assistência religiosa ao pessoal tanto militar como civil, bem como aos seus familiares e demais pessoas sujeitas à jurisdição canónica do Ordinário Castrense;
 
@@ -120,7 +146,7 @@ b) Colaborar na acção formativa dos comandos, especialmente nos aspectos moral
 
 ...
 
-###### Art. 12.º - 1. Os capelães militares são graduados:
+Art. 12.º - 1. Os capelães militares são graduados:
 
 a) Em alferes ou subtenente no momento de serem admitidos como capelães militares eventuais, terminado o curso de formação, excepto os que tiverem mais de 35 anos, os quais são directamente graduados em tenente ou segundo-tenente;
 
@@ -134,13 +160,13 @@ d) Em major ou capitão-tenente ao perfazerem dez anos de serviço efectivo.
 
 3. Além das condições de tempo referidas no n.º 1, a graduação dos capelães no posto imediatamente superior depende de informações favoráveis, militares e eclesiásticas.
 
-###### Art. 13.º - 1. O limite máximo de tempo de serviço para os capelães militares titulares é de dezoito anos, contado desde o seu início após o estágio, ou, quanto aos capelães a que se refere o n.º 4 do artigo 9.º e o artigo 21.º, desde a sua primeira nomeação a qualquer título.
+Art. 13.º - 1. O limite máximo de tempo de serviço para os capelães militares titulares é de dezoito anos, contado desde o seu início após o estágio, ou, quanto aos capelães a que se refere o n.º 4 do artigo 9.º e o artigo 21.º, desde a sua primeira nomeação a qualquer título.
 
 2. Nenhum capelão pode continuar ao serviço depois dos 60 anos de idade.
 
 3. Os capelães militares eventuais podem, quando necessário, ser autorizados a manter-se ao serviço para além do período de serviço militar obrigatório, desde que tenham boas informações militares e eclesiásticas. O serviço prestado nestas condições é por períodos de um ano renováveis, até ao limite de quatro anos.
 
-###### Art. 14.º - 1. Os capelães militares titulares deixam de prestar serviço efectivo:
+Art. 14.º - 1. Os capelães militares titulares deixam de prestar serviço efectivo:
 
 a) Ao atingirem os limites de tempo de serviço ou de idade, independentemente de comprovação da junta médica;
 
@@ -150,13 +176,13 @@ b) Por motivo de doença, comprovada por junta médica militar.
 
 ...
 
-###### Art. 16.º Em casos de manifesta utilidade, a juízo da Chefia do Serviço de Assistência Religiosa das Forças Armadas e mediante acordo entre os ramos interessados, os capelães militares de determinado ramo podem:
+Art. 16.º Em casos de manifesta utilidade, a juízo da Chefia do Serviço de Assistência Religiosa das Forças Armadas e mediante acordo entre os ramos interessados, os capelães militares de determinado ramo podem:
 
 a) Acumular a actividade que prestam nesse ramo com a assistência religiosa a núcleos militares pertencentes ao mesmo ou a outro ramo;
 
 b) Transitar do ramo, dentro do quantitativo de capelães atribuídos a cada um, contando sempre para efeitos de graduação e aposentação o tempo de serviço já cumprido.
 
-###### Art. 2.º - 1. A Capelania-Mor das Forças Armadas é substituída pela Chefia do Serviço de Assistência Religiosa das Forças Armadas.
+Art. 2.º - 1. A Capelania-Mor das Forças Armadas é substituída pela Chefia do Serviço de Assistência Religiosa das Forças Armadas.
 
 2. A Chefia do Serviço de Assistência Religiosa das Forças Armadas depende, no aspecto militar, do Chefe do Estado-Maior-General das Forças Armadas e, no aspecto canónico, do Ordinário Castrense, do qual é a respectiva cúria.
 
@@ -172,7 +198,7 @@ c) Pelo pessoal militar ou civil necessário ao seu funcionamento.
 
 5. O capelão-chefe é nomeado pelo Chefe do Estado-Maior-General das Forças Armadas sob proposta do Ordinário Castrense. Será o sacerdote que o Ordinário Castrense nomear vigário-geral escolhido entre os capelães militares titulares de graduação mais elevada, independentemente da sua antiguidade, podendo, todavia, o Ordinário Castrense, a título excepcional, escolher outro sacerdote que a seu critério reúna as qualidades necessárias, para o que procederá às consultas que achar convenientes.
 
-###### Art. 3.º - 1. A Chefia do Serviço de Assistência Religiosa das Forças Armadas é assistida por um conselho, chamado Conselho do Serviço de Assistência Religiosa, do qual fazem parte, além do capelão-chefe, o adjunto da Chefia, os chefes do Serviço nos três ramos e quatro representantes dos capelães militares titulares, eleitos por estes trienalmente, cabendo dois representantes ao Exército, um à Armada e um à Força Aérea.
+Art. 3.º - 1. A Chefia do Serviço de Assistência Religiosa das Forças Armadas é assistida por um conselho, chamado Conselho do Serviço de Assistência Religiosa, do qual fazem parte, além do capelão-chefe, o adjunto da Chefia, os chefes do Serviço nos três ramos e quatro representantes dos capelães militares titulares, eleitos por estes trienalmente, cabendo dois representantes ao Exército, um à Armada e um à Força Aérea.
 
 2. O Conselho é convocado e presidido, em nome do Ordinário Castrense, pelo capelão-chefe das forças armadas ou, faltando este, pelo adjunto da Chefia.
 
@@ -190,7 +216,7 @@ e) Passagem à disponibilidade dos capelães militares por conveniência de serv
 
 f) Transferência dos capelães militares de um ramo para outro.
 
-###### Art. 4.º Os quadros publicados em anexo ao [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), com as alterações introduzidas pelo [Decreto-Lei n.º 44/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1971-446891), são substituídos pelos seguintes:
+Art. 4.º Os quadros publicados em anexo ao [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), com as alterações introduzidas pelo [Decreto-Lei n.º 44/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1971-446891), são substituídos pelos seguintes:
 
 a) Quadro I (Estado-Maior-General das Forças Armadas) - um capelão graduado em coronel ou capitão-de-mar-e-guerra e um capelão graduado em tenente-coronel ou capitão-de-fragata;
 
@@ -200,7 +226,7 @@ c) Quadro III (Armada) - um capelão graduado em capitão-de-fragata e cinco cap
 
 d) Quadro IV (Força Aérea) - um capelão graduado em tenente-coronel e sete capelães graduados em tenente, capitão ou major.
 
-###### Art. 5.º (Disposição transitória) - 1. Os capelães militares titulares que, à data da publicação do presente diploma, excederem os limites de tempo de serviço ou de idade fixados nos n.os 1 e 2 do artigo 13.º do [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), segundo a nova redacção constante do artigo 1.º, são aposentados sessenta dias após aquela data, contando-se todo o tempo de serviço efectivamente prestado, acrescido das percentagens de aumento de tempo de serviço a que tiverem direito.
+Art. 5.º (Disposição transitória) - 1. Os capelães militares titulares que, à data da publicação do presente diploma, excederem os limites de tempo de serviço ou de idade fixados nos n.os 1 e 2 do artigo 13.º do [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), segundo a nova redacção constante do artigo 1.º, são aposentados sessenta dias após aquela data, contando-se todo o tempo de serviço efectivamente prestado, acrescido das percentagens de aumento de tempo de serviço a que tiverem direito.
 
 2. Os capelães militares titulares que, à data da publicação do presente diploma, tenham mais de quinze anos de serviço efectivo e menos de dezoito podem, mediante requerimento apresentado até um ano depois daquela data, ser desligados do serviço, com direito à aposentação, nos termos do n.º 4 do artigo 18.º do [Decreto-Lei n.º 47188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47188-1966-479641), com as alterações introduzidas pelo [Decreto-Lei n.º 44/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1971-446891), independentemente de comprovação da junta médica.
 
@@ -208,8 +234,8 @@ d) Quadro IV (Força Aérea) - um capelão graduado em tenente-coronel e sete ca
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 19 de Junho de 1975.**
+Promulgado em 19 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

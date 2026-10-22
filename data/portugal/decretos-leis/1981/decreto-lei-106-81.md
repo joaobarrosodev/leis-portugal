@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11000/11201120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1981-573757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67e1695f1ff5b64c3dde1ccd1f20c48dd71c9a492b04fbfcec936cb78c263fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3906b443ae7e063511444fbff6c9c94c40b8ade42fc111a446ef2d78fee3b408
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- TIR
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307808:por
+  label: "Alterado o art. 3º pelo DEC LEI.17/83.1983.01.21.MFP DR.IS [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1983-307808
+  date: '1983-01-21'
+- type: cites
+  target: pt:dre:321312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:00Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +109,18 @@ Considerando que, para evitar a prática de fraudes, convém que as autoridades 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As autoridades aduaneiras poderão, sempre que o julguem necessário, fixar prazos para o percurso no território nacional de mercadorias transportadas ao abrigo do regime TIR e exigir que os veículos sigam um itinerário determinado.
+Artigo 1.º - 1 - As autoridades aduaneiras poderão, sempre que o julguem necessário, fixar prazos para o percurso no território nacional de mercadorias transportadas ao abrigo do regime TIR e exigir que os veículos sigam um itinerário determinado.
 
 2 - Quando, nos termos do n.º 1, forem fixados prazos, deverão as autoridades aduaneiras ter em consideração os regulamentos especiais a que os transportes estão sujeitos, particularmente os regulamentos relativos a horas de trabalho e a períodos de repouso obrigatório dos condutores dos veículos rodoviários.
 
-###### Art. 2.º Se os veículos referidos no artigo 1.º forem encontrados fora do itinerário designado ou se o prazo fixado para o percurso tiver sido excedido sem que os condutores apresentem razões válidas para tal, será o facto considerado transgressão fiscal, punível pelo artigo 51.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941, não podendo a multa ser inferior a 5000$00.
+Art. 2.º Se os veículos referidos no artigo 1.º forem encontrados fora do itinerário designado ou se o prazo fixado para o percurso tiver sido excedido sem que os condutores apresentem razões válidas para tal, será o facto considerado transgressão fiscal, punível pelo artigo 51.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941, não podendo a multa ser inferior a 5000$00.
 
-###### Art. 3.º Sempre que os condutores dos veículos não apresentem na estância aduaneira de saída o documento comprovativo de que as mercadorias que transportaram para o País foram apresentadas nas estâncias aduaneiras de destino, a saída dos veículos não será autorizada enquanto não for feita prova do pagamento dos direitos de importação.
+Art. 3.º Sempre que os condutores dos veículos não apresentem na estância aduaneira de saída o documento comprovativo de que as mercadorias que transportaram para o País foram apresentadas nas estâncias aduaneiras de destino, a saída dos veículos não será autorizada enquanto não for feita prova do pagamento dos direitos de importação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1981. - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 6 de Maio de 1981.**
+Promulgado em 6 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

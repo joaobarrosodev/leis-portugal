@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 281/1963, 1º Suplemento, Série I de 1963-11-30
   number: '281'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1887 - 1891
   pdf_url: https://files.diariodarepublica.pt/1s/1963/11/28101/18871891.pdf
 entry_into_force_dates: []
@@ -48,36 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45400-1963-432797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e7b58e86164eba349f586beb51f7049b1e927852057cb498af04f2ebc424f05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4004a3bec3fd7defeca68a47d5c4f50378da4f7f28b7eb4ea29ed3c9aea8d061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Contribuição Industrial
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Código de Processo das Contribuições e Impostos
+- Código do Imposto de Capitais
+- Código do Imposto Profissional
+relationships:
+- type: cites
+  target: pt:dre:159541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693241:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:10Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +153,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 10.º, 12.º e § único, 15.º, 24.º, 31.º e § 3.º, 54.º, § 1.º, 55.º, 57.º e § 1.º, 73.º, 74.º e § 1.º e 79.º do Código do Imposto Profissional, aprovado pelo [Decreto-Lei n.º 44305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44305-1962-516068), de 27 de Abril de 1962, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 10.º, 12.º e § único, 15.º, 24.º, 31.º e § 3.º, 54.º, § 1.º, 55.º, 57.º e § 1.º, 73.º, 74.º e § 1.º e 79.º do Código do Imposto Profissional, aprovado pelo [Decreto-Lei n.º 44305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44305-1962-516068), de 27 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 10.º No apuramento do rendimento colectável dos contribuintes, constantes da tabela anexa, que, para o exercício da sua actividade, careçam de instalação fixa e permanente, e a tenham, serão deduzidas às receitas os seguintes encargos:
+Art. 10.º No apuramento do rendimento colectável dos contribuintes, constantes da tabela anexa, que, para o exercício da sua actividade, careçam de instalação fixa e permanente, e a tenham, serão deduzidas às receitas os seguintes encargos:
 
 1.º Despesas com:
 
@@ -146,13 +179,13 @@ g) Trabalhos laboratoriais efectuados em estabelecimentos diferenciados dos que 
 
 ...
 
-###### Art. 12.º O rendimento colectável dos contribuintes que constam da tabela anexa e não tenham optado pelo regime estabelecido no artigo 8.º será sempre fixado pela comissão referida no artigo anterior.
+Art. 12.º O rendimento colectável dos contribuintes que constam da tabela anexa e não tenham optado pelo regime estabelecido no artigo 8.º será sempre fixado pela comissão referida no artigo anterior.
 
 § único. Quando os contribuintes exerçam a actividade fora do concelho ou bairro do seu domicílio, a repartição de finanças competente para a liquidação do imposto requisitará às dos concelhos ou bairros onde a actividade é exercida as informações necessárias para habilitar a comissão a fixar o rendimento.
 
 ...
 
-###### Art. 15.º Da fixação da matéria colectável, nos termos dos artigos 11.º e 12.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público, reclamar, de 1 a 15 de Abril, para uma comissão distrital assim constituída:
+Art. 15.º Da fixação da matéria colectável, nos termos dos artigos 11.º e 12.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo Ministério Público, reclamar, de 1 a 15 de Abril, para uma comissão distrital assim constituída:
 
 Presidente:
 
@@ -170,9 +203,9 @@ Dois delegados da respectiva categoria de contribuintes, designados pelo organis
 
 ...
 
-###### Art. 24.º Os contribuintes que, durante qualquer período do ano, tenham exercido em acumulação actividades por conta de outrem e que, relativamente às actividades desta natureza, hajam auferido rendimentos superiores a 150000$00 ficam sujeitos a um adicionamento sobre o excedente a esta quantia, obtido pela aplicação das taxas seguintes:
+Art. 24.º Os contribuintes que, durante qualquer período do ano, tenham exercido em acumulação actividades por conta de outrem e que, relativamente às actividades desta natureza, hajam auferido rendimentos superiores a 150000$00 ficam sujeitos a um adicionamento sobre o excedente a esta quantia, obtido pela aplicação das taxas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/28101/18871891.pdf))](https://files.diariodarepublica.pt/1s/1963/11/28101/18871891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/28101/18871891.pdf)
 
 § 1.º Para efeitos do disposto neste artigo, consideram-se apenas as acumulações provenientes do exercício de duas ou mais actividades por conta de outrem a cujos rendimentos não aproveite a isenção de imposto profissional, bem como de uma dessas actividades e de funções por conta de qualquer das entidades referidas nas alíneas a), b) e c) do artigo 4.º
 
@@ -184,7 +217,7 @@ Dois delegados da respectiva categoria de contribuintes, designados pelo organis
 
 ...
 
-###### Art. 31.º Os contribuintes que exerçam por sua conta, e com carácter de profissão, qualquer das actividades abrangidas pela tabela anexa serão colectados, segundo o local do exercício, em função dos rendimentos mínimos nela estabelecidos, ou dos rendimentos determinados nos termos dos artigos 7.º e seguintes, quando superiores.
+Art. 31.º Os contribuintes que exerçam por sua conta, e com carácter de profissão, qualquer das actividades abrangidas pela tabela anexa serão colectados, segundo o local do exercício, em função dos rendimentos mínimos nela estabelecidos, ou dos rendimentos determinados nos termos dos artigos 7.º e seguintes, quando superiores.
 
 Quando, porém, o contribuinte exercer a mesma actividade por conta própria e por conta de outrem, os rendimentos a comparar com os mínimos estabelecidos na tabela serão os correspondentes ao somatório dos provenientes do exercício das duas formas dessa actividade.
 
@@ -198,17 +231,17 @@ Quando, porém, o contribuinte exercer a mesma actividade por conta própria e p
 
 ...
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 § 1.º Os agentes do Ministério Público das contribuições e impostos poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativa, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
 
 ...
 
-###### Art. 55.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 55.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 ...
 
-###### Art. 57.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto profissional, arrecadado por cobrança virtual.
+Art. 57.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto profissional, arrecadado por cobrança virtual.
 
 § 1.º Contar-se-ão juros de 4 por cento ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
@@ -216,9 +249,9 @@ Quando, porém, o contribuinte exercer a mesma actividade por conta própria e p
 
 ...
 
-###### Art. 73.º As multas serão impostas mediante processo de transgressão.
+Art. 73.º As multas serão impostas mediante processo de transgressão.
 
-###### Art. 74.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
+Art. 74.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
 
 § 1.º Ainda que extinto o procedimento para aplicação da multa, instaurar-se-á processo de transgressão para exigência do imposto devido relativamente aos últimos cinco anos.
 
@@ -226,19 +259,19 @@ Quando, porém, o contribuinte exercer a mesma actividade por conta própria e p
 
 ...
 
-###### Art. 79.º Nos casos de pagamento espontâneo da multa nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 79.º Nos casos de pagamento espontâneo da multa nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
 § único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
 
-###### Art. 2.º É suprimido o § único do artigo 36.º do Código do Imposto Profissional.
+Art. 2.º É suprimido o § único do artigo 36.º do Código do Imposto Profissional.
 
-###### Art. 3.º São adicionadas à tabela anexa ao código as profissões de construtor civil diplomado, médico fisioterapeuta e topógrafo, com os elementos que constam do quadro seguinte e nos locais nele indicados:
+Art. 3.º São adicionadas à tabela anexa ao código as profissões de construtor civil diplomado, médico fisioterapeuta e topógrafo, com os elementos que constam do quadro seguinte e nos locais nele indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/28101/18871891.pdf))](https://files.diariodarepublica.pt/1s/1963/11/28101/18871891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/28101/18871891.pdf)
 
 § único. Os rendimentos provenientes do exercício das actividades de construtor civil diplomado e de topógrafo ficam sujeitos a imposto profissional a partir de 1 de Janeiro de 1964.
 
-###### Art. 4.º A rubrica da tabela anexa ao código:
+Art. 4.º A rubrica da tabela anexa ao código:
 
 Enfermeiros e parteiras:
 
@@ -254,9 +287,9 @@ Enfermeiros e auxiliares de enfermagem;
 
 Parteiras.
 
-###### Art. 5.º Os artigos 6.º, 9.º, 61.º, § 1.º, 62.º, 63.º e § único, 65.º e § 1.º, 88.º e §§ 2.º e 3.º, 89.º e § 1.º e 94.º e § único do Código do Imposto de Capitais, aprovado pelo [Decreto-Lei n.º 44561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44561-1962-159541), de 10 de Setembro de 1962, passam a ter a seguinte redacção:
+Art. 5.º Os artigos 6.º, 9.º, 61.º, § 1.º, 62.º, 63.º e § único, 65.º e § 1.º, 88.º e §§ 2.º e 3.º, 89.º e § 1.º e 94.º e § único do Código do Imposto de Capitais, aprovado pelo [Decreto-Lei n.º 44561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44561-1962-159541), de 10 de Setembro de 1962, passam a ter a seguinte redacção:
 
-###### Art. 6.º São compreendidos na secção B:
+Art. 6.º São compreendidos na secção B:
 
 1.º ...
 
@@ -280,7 +313,7 @@ Parteiras.
 
 ...
 
-###### Art. 9.º Estão isentos de imposto:
+Art. 9.º Estão isentos de imposto:
 
 1.º ...
 
@@ -298,15 +331,15 @@ Parteiras.
 
 ...
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 § 1.º Os agentes do Ministério Público das contribuições e impostos poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativa, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
 
 ...
 
-###### Art. 62.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugna-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 62.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugna-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
-###### Art. 63.º A liquidação do imposto entregue nos cofres do Estado e a liquidação adicional poderão ser objecto de reclamação ou de impugnação judicial por parte dos titulares dos rendimentos e das entidades responsáveis pela entrega, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 63.º A liquidação do imposto entregue nos cofres do Estado e a liquidação adicional poderão ser objecto de reclamação ou de impugnação judicial por parte dos titulares dos rendimentos e das entidades responsáveis pela entrega, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 § único. Os prazos para as reclamações ou impugnações contar-se-ão:
 
@@ -316,7 +349,7 @@ b) Quando apresentados pelas entidades responsáveis pela entrega, desde o dia i
 
 ...
 
-###### Art. 65.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto de capitais, arrecadado por cobrança virtual.
+Art. 65.º Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido no imposto de capitais, arrecadado por cobrança virtual.
 
 § 1.º Contar-se-ão juros de 4 por cento ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
@@ -324,7 +357,7 @@ b) Quando apresentados pelas entidades responsáveis pela entrega, desde o dia i
 
 ...
 
-###### Art. 88.º As multas serão impostas mediante processo de transgressão.
+Art. 88.º As multas serão impostas mediante processo de transgressão.
 
 § 1.º ...
 
@@ -332,7 +365,7 @@ b) Quando apresentados pelas entidades responsáveis pela entrega, desde o dia i
 
 § 3.º Transitada em julgado a sentença que declara a nulidade, o tribunal deverá remeter cópia nos oito dias seguintes à repartição de finanças competente para instaurar o processo de transgressão.
 
-###### Art. 89.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
+Art. 89.º Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida.
 
 § 1.º Ainda que extinto o procedimento para aplicação da multa, instaurar-se-á processo de transgressão para exigência do imposto devido relativamente aos últimos cinco anos.
 
@@ -340,37 +373,37 @@ b) Quando apresentados pelas entidades responsáveis pela entrega, desde o dia i
 
 ...
 
-###### Art. 94.º No caso de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 94.º No caso de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
 § único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
 
-###### Art. 6.º É aditado ao artigo 21.º do Código do Imposto de Capitais um § 3.º, com a seguinte redacção:
+Art. 6.º É aditado ao artigo 21.º do Código do Imposto de Capitais um § 3.º, com a seguinte redacção:
 
 § 3.º Nos juros das obrigações não compreendidas no parágrafo anterior a taxa será de 8 por cento.
 
 § único. A taxa reduzida nos termos do parágrafo aditado por este artigo só se aplica aos juros vencidos posteriormente a 31 de Dezembro de 1964.
 
-###### Art. 7.º São suprimidos o n.º 6.º do artigo 11.º e o § único do artigo 44.º do Código do Imposto de Capitais.
+Art. 7.º São suprimidos o n.º 6.º do artigo 11.º e o § único do artigo 44.º do Código do Imposto de Capitais.
 
-###### Art. 8.º Os artigos 223.º e 313.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de de 1963, passam a ter a seguinte redacção:
+Art. 8.º Os artigos 223.º e 313.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de de 1963, passam a ter a seguinte redacção:
 
-###### Art. 223.º Sobre a contribuição predial não recaem adicionais para o Estado além dos estabelecidos a favor das juntas autónomas dos portos na [Lei n.º 1788](https://diariodarepublica.pt/dr/detalhe/lei/1788-1925-213659), de 25 de Junho de 1925, e no [Decreto-Lei n.º 26209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26209-1936-687818), de 14 de Janeiro de 1936, e do adicional para o Fundo de Desemprego, a que se refere o artigo 3.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Julho de 1963.
+Art. 223.º Sobre a contribuição predial não recaem adicionais para o Estado além dos estabelecidos a favor das juntas autónomas dos portos na [Lei n.º 1788](https://diariodarepublica.pt/dr/detalhe/lei/1788-1925-213659), de 25 de Junho de 1925, e no [Decreto-Lei n.º 26209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26209-1936-687818), de 14 de Janeiro de 1936, e do adicional para o Fundo de Desemprego, a que se refere o artigo 3.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Julho de 1963.
 
 ...
 
-###### Art. 313.º Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 313.º Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
-###### Art. 9.º Nos artigos 6.º, § 1.º, 8.º, § 2.º, 9.º, 11.º, §§ 1.º e 2.º, 13.º, 14.º, 17.º, § 1.º, 25.º, 30.º, 34.º, 36.º, 39.º, § único, 47.º a 52.º, 77.º, 81.º e 83.º a 85.º do Código do Imposto Profissional, 14.º, § 3.º, 18.º, 25.º e §§ 2.º e 3.º, 29.º, §§ 1.º e 4.º, 31.º e § 3.º, 34.º, 35.º, 44.º, 45.º, § único, 52.º, 53.º, 54.º e § 1.º, 67.º, § 1.º, 92.º, 97.º, 99.º e 100.º do Código do Imposto de Capitais e 133.º, § 2.º, do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola a designação «secção de finanças» é substituída pela de «repartição de finanças».
+Art. 9.º Nos artigos 6.º, § 1.º, 8.º, § 2.º, 9.º, 11.º, §§ 1.º e 2.º, 13.º, 14.º, 17.º, § 1.º, 25.º, 30.º, 34.º, 36.º, 39.º, § único, 47.º a 52.º, 77.º, 81.º e 83.º a 85.º do Código do Imposto Profissional, 14.º, § 3.º, 18.º, 25.º e §§ 2.º e 3.º, 29.º, §§ 1.º e 4.º, 31.º e § 3.º, 34.º, 35.º, 44.º, 45.º, § único, 52.º, 53.º, 54.º e § 1.º, 67.º, § 1.º, 92.º, 97.º, 99.º e 100.º do Código do Imposto de Capitais e 133.º, § 2.º, do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola a designação «secção de finanças» é substituída pela de «repartição de finanças».
 
-###### Art. 10.º O artigo 158.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, passa a ter a seguinte redacção:
+Art. 10.º O artigo 158.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, passa a ter a seguinte redacção:
 
-###### Art. 158.º Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 158.º Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
 § único. Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação tributária for feita posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
 
-###### Art. 11.º São aditados aos artigos 80.º e 88.º do Código de Processo das Contribuições e Impostos os seguintes parágrafos:
+Art. 11.º São aditados aos artigos 80.º e 88.º do Código de Processo das Contribuições e Impostos os seguintes parágrafos:
 
-###### Art. 80.º ...
+Art. 80.º ...
 
 § único. Sem prejuízo do recurso hierárquico quando admitido neste código, a resolução do chefe da repartição de finanças só se tornará definitiva depois de confirmada pelo respectivo director de finanças, que poderá também ordenar a modificação ou revogação do decidido.
 
@@ -378,15 +411,15 @@ Para este efeito, os processos resolvidos em cada mês deverão ser remetidos à
 
 ...
 
-###### Art. 88.º ...
+Art. 88.º ...
 
 § único. Havendo recurso hierárquico para o director de finanças, é aplicável à sua decisão o disposto no § único do artigo 80.º Para esse efeito, será exercida pelo director-geral das Contribuições e Impostos a competência atribuída naquele preceito aos directores de finanças.
 
-###### Art. 12.º Enquanto não forem normalizados o preenchimento dos quadros de pessoal e os serviços de justiça fiscal nos distritos e nos concelhos ou bairros do País, é atribuída aos chefes das repartições de finanças a competência para, na qualidade de juízes auxiliares, julgarem extintas as execuções fiscais nelas instauradas, com fundamento na anulação da dívida exequenda ou em pagamento voluntário, realizado antes de efectuada a penhora.
+Art. 12.º Enquanto não forem normalizados o preenchimento dos quadros de pessoal e os serviços de justiça fiscal nos distritos e nos concelhos ou bairros do País, é atribuída aos chefes das repartições de finanças a competência para, na qualidade de juízes auxiliares, julgarem extintas as execuções fiscais nelas instauradas, com fundamento na anulação da dívida exequenda ou em pagamento voluntário, realizado antes de efectuada a penhora.
 
 § único. O disposto neste artigo deixará de aplicar-se na medida em que, para cada concelho ou bairro, forem considerados normalizados o provimento de pessoal e os serviços, por despacho do Ministro das Finanças publicado no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

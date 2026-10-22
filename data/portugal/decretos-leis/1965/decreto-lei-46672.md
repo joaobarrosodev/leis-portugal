@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,229 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 613932548adebb2ce2822183e63a39286722b7bfc8c85dcd6dac2201ccbdda3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92ad8a657fd40dbabf264d9b96ad42ccd7898816cde62b2e352e5c145d707dd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto dos Oficiais das Forças Armadas
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141389:por
+  label: "Alterados os arts. 23º, 42º, 69º, 87º e 92º, pelo DEC LEI.367/70.07.08.1970.PC, DG.IS [182] de 07.08.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1970-141389
+  date: '1970-08-07'
+- type: amended_by
+  target: pt:dre:476296:por
+  label: "Aditada uma alínea d) ao artigo 46.º, pelo DEC LEI.264/74.20.06.1974.MDN, DG.IS [142] de 20.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1974-476296
+  date: '1974-06-20'
+- type: amended_by
+  target: pt:dre:474104:por
+  label: "Aditado um § único ao artigo 90.º do Estatuto, pelo DEC LEI.463/74.18.09.1974.CCEMFA, DG.IS [218] de 18.09.1974\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/463-1974-474104
+  date: '1974-09-18'
+- type: amended_by
+  target: pt:dre:465451:por
+  label: "Alterados os limites de idade previstos para o grupo 1.º do mapa n.º 1 anexo ao presente diploma, pelo DEC LEI.622/74.16.11.1974.CCEMFA,\
+    \ DG.IS [267] de 16.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/622-1974-465451
+  date: '1974-11-16'
+- type: amended_by
+  target: pt:dre:481103:por
+  label: "Integrados os oficiais dos serviços (Exército), oriundos da Academia Militar, das classes (Armada), oriundos da\
+    \ Escola Naval, e das especialidades de engenheiros, intendência e contabilidade (Força Aérea) no 1.º grupo do mapa n.º\
+    \ 1 a que se refere o art. 47.º do presente diploma, alterado pelo Dec Lei 622/74, de 16-Nov, pelo DEC LEI.98-A/75.01.03.1975.CCEMFA,\
+    \ DG.IS [51] de 01.03.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-a-1975-481103
+  date: '1975-03-01'
+- type: amended_by
+  target: pt:dre:245537:por
+  label: "Alterados os artigos 70.º e 71.º do Estatuto, pelo DEC LEI.246-A/75.21.05.1975.CR, DG.IS [117]Supl de 21.05.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-a-1975-245537
+  date: '1975-05-21'
+- type: amended_by
+  target: pt:dre:234079:por
+  label: "Alterado o artigo 115.º do Estatuto, pelo DEC LEI.329-D/75.30.06.1975.CR, DG.IS [148]3ºSupl de 30.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-d-1975-234079
+  date: '1975-06-30'
+- type: amended_by
+  target: pt:dre:234082:por
+  label: "Alterado o corpo do artigo 22.º, os artigos 26.º, 38.º e 39.º, as condições 10) e 12) da alínea b) do artigo 42.º,\
+    \ o n.º 7 da alínea a) do artigo 46.º e alíneas c) e d) do mesmo artigo, o corpo do artigo 64.º, o corpo do artigo 66.º,\
+    \ o artigo 101.º e o corpo do artigo 104.º todos do Estatuto, pelo DEC LEI.329-A/75.30.06.1975.CR, DG.IS [148]2ºSupl de\
+    \ 30.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1975-234082
+  date: '1975-06-30'
+- type: amended_by
+  target: pt:dre:234085:por
+  label: "Alterada a al. c) do art. 31º pelo DEC LEI.329-H/75.30.06.1975.CR, DG.IS [148-4SUPL] de 30.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-h-1975-234085
+  date: '1975-06-30'
+- type: amended_by
+  target: pt:dre:336495:por
+  label: "Alterado o artigo 16.º e revogado o artigo 119.º do Estatuto, pelo DEC LEI.398/75.25.07.1975.CR, DG.IS [170] de\
+    \ 25.07.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1975-336495
+  date: '1975-07-25'
+- type: amended_by
+  target: pt:dre:408694:por
+  label: "Dada nova redacção à condição 12) da alínea b) do artigo 42.º do Estatuto, pelo DEC LEI.680/76.07.09.1976.CR, DR.IS\
+    \ [210] de 07.09.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/680-1976-408694
+  date: '1976-09-07'
+- type: amended_by
+  target: pt:dre:492716:por
+  label: Aditado um § 4.º ao art. 92.º do Estatuto dos Oficiais das Forças Armadas, aprovado pelo presente diploma, na redacção
+    do Dec Lei 367/70 de 07-ago, pelo(a) Decreto-Lei n.º 10/77 - Diário da República n.º 4/1977, Série I de 1977-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1977-492716
+  date: '1977-01-06'
+- type: amended_by
+  target: pt:dre:252452:por
+  label: "Alterado o quadro a que se refere o artigo 22.º, as designações de «almirante», «vice-almirante», «contra-almirante»\
+    \ e «comodoro» são substituídas, respectivamente, por «almirante da Armada», «almirante», «vice-almirante» e «contra-almirante»,\
+    \ o corpo e § 2.º do artigo 23.º, na alínea b) do corpo do artigo 45.º e no § 2.º do mesmo artigo, no corpo do artigo\
+    \ 63.º, na alínea a) do corpo do artigo 64.º, na alínea a) do artigo 65.º, no artigo 69.º, na alínea a) do corpo do artigo\
+    \ 87.º e na alínea a) do corpo do artigo 90.º, a designação de «almirante» é substituída por «almirante da Armada», os\
+    \ §§ 1.º e 2.º do artigo 24.º, no § 4.º do artigo 63.º, na alínea a) do corpo do artigo 64.º e no mapa a que se refere\
+    \ o artigo 47.º, a designação de «vice-almirante» é substituída por «almirante», o § 3.º do artigo 24.º, no n.º 8 da alínea\
+    \ b) do artigo 42.º, na alínea a) do corpo do artigo 64.º, nas alíneas a) e b) do artigo 65.º, na alínea a) do corpo do\
+    \ artigo 72.º, na alínea f) do § 1.º do artigo 79.º e no mapa n.º 1 a que se refere o artigo 47.º, a designação de «contra-almirante»\
+    \ é substituída por «vice-almirante», a alínea a) do corpo do artigo 60.º, na alínea b) do corpo do artigo 72.º, no §\
+    \ 4.º do artigo 73.º, na alínea e) do § 1.º do artigo 79.º e no mapa n.º 1 a que se refere o artigo 47.º e mapa n.º 3\
+    \ a que se refere o artigo 42.º, a designação de «comodoro» é substituída por «contra-almirante», e o artigo 55.º, pelo\
+    \ DEC LEI.230/77.02.06.1977.CR, DR.IS [128] de 02.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1977-252452
+  date: '1977-06-02'
+- type: amended_by
+  target: pt:dre:329024:por
+  label: "Alterada a alínea a) do artigo 85.º, pelo DEC LEI.299/78.29.09.1978.CR, DR.IS [225] de 29.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1978-329024
+  date: '1978-09-29'
+- type: amended_by
+  target: pt:dre:383592:por
+  label: "Alteradas as designações dos postos de oficiais generais da Armada constantes da condição 13) da alínea b) do artigo\
+    \ 42.º pelo DEC LEI.159/79.30.05.1979.CR, DR.IS [124] de 30.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1979-383592
+  date: '1979-05-30'
+- type: amended_by
+  target: pt:dre:458233:por
+  label: "Alterado o artigo 64.º do Estatuto, alterado pelo Decreto-Lei n.º 329-A/75, de 30 de Junho, pelo DEC LEI.547/80.18.11.1980.CR,\
+    \ DR.IS [267] de 18.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/547-1980-458233
+  date: '1980-11-18'
+- type: amended_by
+  target: pt:dre:388873:por
+  label: "Alterados os artigos 54.º, 75.º, 76.º, 77.º, 110.º e 111.º do Estatuto, pelo DEC LEI.5-A/81.23.01.1981.CR, DR.IS\
+    \ [19]Supl de 23.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1981-388873
+  date: '1981-01-23'
+- type: amended_by
+  target: pt:dre:579172:por
+  label: "Alterado o artigo 72.º do Estatuto, alterado pelo Decreto-Lei n.º 230/77, de 2 de Junho, pelo DEC LEI.168/81.20.06.1981.CR,\
+    \ DR.IS [139] de 20.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-1981-579172
+  date: '1981-06-20'
+- type: amended_by
+  target: pt:dre:564201:por
+  label: "Aditados dois subnúmeros à alínea b) do artigo 42.º, pelo DEC LEI.273/81.01.10.1981.CR, DR.IS [226] de 01.10.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1981-564201
+  date: '1981-10-01'
+- type: amended_by
+  target: pt:dre:609307:por
+  label: "Alterados os artigos 37.º e 40.º do Estatuto, pelo DEC LEI.82/82.16.03.1982.CR, DR.IS [62] de 16.03.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1982-609307
+  date: '1982-03-16'
+- type: amended_by
+  target: pt:dre:396883:por
+  label: "Alterados os artigos 14.º, 48.º e 104.º do Estatuto, pelo DEC LEI.314/82.09.08.1982.CR, DR.IS [182] de 09.08.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-1982-396883
+  date: '1982-08-09'
+- type: amended_by
+  target: pt:dre:374446:por
+  label: "Aditado um § ao artigo 92.º do Estatuto, na redacção dos Decretos-Leis n.ºs 367/70 e 7/77, respectivamente de 7\
+    \ de Agosto e de 6 de Janeiro, pelo DEC LEI.345/82.02.09.1982.CR, DR.IS [203] de 02.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1982-374446
+  date: '1982-09-02'
+- type: amended_by
+  target: pt:dre:375629:por
+  label: "Alterado o n.º 8) da alínea b) do artigo 42.º do Estatuto, pelo DEC LEI.367/82.10.09.1982.CR, DR.IS [210] de 10.09.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1982-375629
+  date: '1982-09-10'
+- type: amended_by
+  target: pt:dre:376411:por
+  label: "Alterados os artigos 12.º, 72.º, 75.º e 77.º do Estatuto, pelo DEC LEI.431/82.25.10.1982.CR, DR.IS [247] de 25.10.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/431-1982-376411
+  date: '1982-10-25'
+- type: amended_by
+  target: pt:dre:385039:por
+  label: "Substituídos os mapas 1 e 3 a que se referem, respectivamente, os artigos 47.º e 42.º do Estatuto, pelos mapas 1\
+    \ e 3 anexos ao DEC LEI.136/84.07.05.1984.MDN, DR.IS [105] de 07.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1984-385039
+  date: '1984-05-07'
+- type: amended_by
+  target: pt:dre:400790:por
+  label: "Substituído o mapa n.º 2 a que se refere o art. 96.º do Estatuto promulgado pelo presente diploma, pelo DEC LEI.362/84.19.11.1984.MDN,\
+    \ DR.IS [268] de 19.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1984-400790
+  date: '1984-11-19'
+- type: amended_by
+  target: pt:dre:195175:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas dos arts. 107º, 108º, 110º, 111º e 112º,\
+    \ pelo AC.81/86.1986.03.12.TCS, DR.IS [93] de 22/Abr/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/81-1986-195175
+  date: '1986-03-12'
+- type: repealed_by
+  target: pt:dre:474764:por
+  label: "Revogado o § 1.º do artigo 23.º, com a redacção que lhe foi dada pelo Decreto-Lei n.º 367/70, de 07-Ago, pelo DEC\
+    \ LEI.409/74.05.09.1974.CCEMFA, DG.IS [207] de 05.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/409-1974-474764
+  date: '1974-09-05'
+- type: repealed_by
+  target: pt:dre:600354:por
+  label: "Revogado o § único do artigo 23.º do Estatuto, pelo DEC LEI.44/82.10.02.1982.CR, DR.IS [34] de 10.02.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1982-600354
+  date: '1982-02-10'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.1990.01.24.MDN, DR.IS [20]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:18Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +295,11 @@ ESTATUTO DOS OFICIAIS DAS FORÇAS ARMADAS
 
 ### CAPÍTULO I — Introdução
 
-###### Artigo 1.º O presente estatuto destina-se a estabelecer as normas fundamentais que regem a carreira dos oficiais das forças armadas, na parte comum aos três ramos - Exército, Armada e Força Aérea.
+Artigo 1.º O presente estatuto destina-se a estabelecer as normas fundamentais que regem a carreira dos oficiais das forças armadas, na parte comum aos três ramos - Exército, Armada e Força Aérea.
 
 As disposições peculiares a cada ramo das forças armadas serão objecto dos Estatutos do Oficial do Exército, do Oficial da Armada e do Oficial da Força Aérea, os quais serão promulgados por decreto.
 
-###### Art. 2.º Em cada um dos ramos das forças armadas o conjunto dos oficiais compreende:
+Art. 2.º Em cada um dos ramos das forças armadas o conjunto dos oficiais compreende:
 
 a) Oficiais dos quadros permanentes;
 
@@ -120,23 +309,23 @@ b) Oficiais de complemento.
 
 § 2.º Diploma especial definirá as disposições aplicáveis aos oficiais de complemento.
 
-###### Art. 3.º Consideram-se oficiais dos quadros permanentes os que, destinados voluntàriamente à carreira das armas, adquiriram preparação especial para o seu exercício e servem nas forças armadas com carácter de permanência.
+Art. 3.º Consideram-se oficiais dos quadros permanentes os que, destinados voluntàriamente à carreira das armas, adquiriram preparação especial para o seu exercício e servem nas forças armadas com carácter de permanência.
 
 ### CAPÍTULO II — Obrigações e direitos
 
-###### Art. 4.º O oficial deve estar sempre pronto a fazer todos os sacrifícios necessários para servir a Pátria e para cumprir fiel e exactamente as ordens que recebe e os deveres que lhe incumbem, pondo nos seus actos toda a sua energia, dedicação e lealdade.
+Art. 4.º O oficial deve estar sempre pronto a fazer todos os sacrifícios necessários para servir a Pátria e para cumprir fiel e exactamente as ordens que recebe e os deveres que lhe incumbem, pondo nos seus actos toda a sua energia, dedicação e lealdade.
 
-###### Art. 5.º O oficial deve regular o seu procedimento pelas normas da virtude e da honra e subordinar os seus actos às imposições decorrentes do dever militar e à obrigação de assegurar a sua respeitabilidade e o prestígio das forças armadas.
+Art. 5.º O oficial deve regular o seu procedimento pelas normas da virtude e da honra e subordinar os seus actos às imposições decorrentes do dever militar e à obrigação de assegurar a sua respeitabilidade e o prestígio das forças armadas.
 
 § único. Os actos do oficial serão apreciados segundo as regras da disciplina militar.
 
-###### Art. 6.º O oficial deve praticar a camaradagem e assegurar a solidariedade moral entre todos os seus companheiros de armas, sem prejuízo, porém, do respeito pelas regras da honra e da disciplina e do dever de punir ou participar as infracções de que tenha conhecimento.
+Art. 6.º O oficial deve praticar a camaradagem e assegurar a solidariedade moral entre todos os seus companheiros de armas, sem prejuízo, porém, do respeito pelas regras da honra e da disciplina e do dever de punir ou participar as infracções de que tenha conhecimento.
 
-###### Art. 7.º O oficial deve estimular os seus subordinados e conceder-lhes a adequada iniciativa, de forma a procurar desenvolver-lhes a aptidão para agirem por si próprios, mas deve tomar sobre si a responsabilidade pelos actos praticados por sua ordem.
+Art. 7.º O oficial deve estimular os seus subordinados e conceder-lhes a adequada iniciativa, de forma a procurar desenvolver-lhes a aptidão para agirem por si próprios, mas deve tomar sobre si a responsabilidade pelos actos praticados por sua ordem.
 
-###### Art. 8.º O oficial deve dedicar-se devotadamente à sua carreira e ao serviço, diligenciando aperfeiçoar as suas qualidades morais e aumentar a sua competência profissional e o nível dos seus conhecimentos.
+Art. 8.º O oficial deve dedicar-se devotadamente à sua carreira e ao serviço, diligenciando aperfeiçoar as suas qualidades morais e aumentar a sua competência profissional e o nível dos seus conhecimentos.
 
-###### Art. 9.º O oficial deve estar sempre pronto a cooperar na realização dos fins superiores do Estado e defender os princípios fundamentais da ordem política e social estabelecidos na Constituição, sendo-lhe permitido exercer o direito de voto, de harmonia com a lei eleitoral.
+Art. 9.º O oficial deve estar sempre pronto a cooperar na realização dos fins superiores do Estado e defender os princípios fundamentais da ordem política e social estabelecidos na Constituição, sendo-lhe permitido exercer o direito de voto, de harmonia com a lei eleitoral.
 
 § 1.º Os oficiais que se encontrem nas situações de comissão normal, de inactividade temporária ou de reserva, mas prestando serviço efectivo, não podem inscrever-se em agremiações de carácter partidário ou exercer quaisquer actividades políticas, nem colocar-se, por qualquer forma, em dependência estranha à dos chefes e autoridades militares.
 
@@ -144,55 +333,55 @@ b) Oficiais de complemento.
 
 § 3.º Não podem apresentar-se uniformizados os oficiais que sejam candidatos à eleição para deputados, no exercício das actividades políticas para fins de propaganda eleitoral, e os que sejam membros da Assembleia Nacional, no exercício dessas funções.
 
-###### Art. 10.º O oficial deve cumprir os seus deveres com todas as suas forças e possibilidades, enfrentando todos os perigos que se lhe deparem.
+Art. 10.º O oficial deve cumprir os seus deveres com todas as suas forças e possibilidades, enfrentando todos os perigos que se lhe deparem.
 
-###### Art. 11.º O oficial deve aceitar a responsabilidade de todos os seus actos, procurar dignificar a função que exerce e observar e fazer observar o princípio da autoridade, estando sempre pronto a comandar e disposto a obedecer.
+Art. 11.º O oficial deve aceitar a responsabilidade de todos os seus actos, procurar dignificar a função que exerce e observar e fazer observar o princípio da autoridade, estando sempre pronto a comandar e disposto a obedecer.
 
-###### Art. 12.º O oficial tem direito à obediência dos seus subordinados em tudo o que se refira ao serviço da Nação ou ao prestígio e valorização moral e material das forças armadas.
+Art. 12.º O oficial tem direito à obediência dos seus subordinados em tudo o que se refira ao serviço da Nação ou ao prestígio e valorização moral e material das forças armadas.
 
-###### Art. 13.º O oficial, em qualquer situação, não pode exercer funções ou mesteres de tal categoria que sejam impróprios do seu grau hierárquico ou lesivos do decoro militar ou que, de qualquer forma, o coloquem em dependência que afecte a sua respeitabilidade ou a dignidade da sua posição para com as forças armadas ou para com a sociedade. As actividades consentidas devem constituir complemento da sua cultura geral ou da sua especialidade técnica e serem consideradas atinentes à valorização profissional do oficial ou prestigiantes para as forças armadas.
+Art. 13.º O oficial, em qualquer situação, não pode exercer funções ou mesteres de tal categoria que sejam impróprios do seu grau hierárquico ou lesivos do decoro militar ou que, de qualquer forma, o coloquem em dependência que afecte a sua respeitabilidade ou a dignidade da sua posição para com as forças armadas ou para com a sociedade. As actividades consentidas devem constituir complemento da sua cultura geral ou da sua especialidade técnica e serem consideradas atinentes à valorização profissional do oficial ou prestigiantes para as forças armadas.
 
-###### Art. 14.º O oficial em serviço efectivo não pode aceitar nomeação ou provimento em qualquer cargo, comissão, função, emprego ou mester, público ou privativo, sem prévia autorização do titular do departamento militar a que pertence. Não lhe será permitido o exercício de quaisquer actividades não militares que se relacionem com decisões ou informações em que possa ter de intervir no desempenho das suas atribuições oficiais ou que tenham ligação com o armamento, apetrechamento ou reparação de materiais de qualquer espécie destinados às forças armadas. Não lhe será igualmente permitido exercer quaisquer actividades de natureza industrial, comercial ou bancária, salvo se nisso houver interesse para as forças armadas ou para o Estado.
+Art. 14.º O oficial em serviço efectivo não pode aceitar nomeação ou provimento em qualquer cargo, comissão, função, emprego ou mester, público ou privativo, sem prévia autorização do titular do departamento militar a que pertence. Não lhe será permitido o exercício de quaisquer actividades não militares que se relacionem com decisões ou informações em que possa ter de intervir no desempenho das suas atribuições oficiais ou que tenham ligação com o armamento, apetrechamento ou reparação de materiais de qualquer espécie destinados às forças armadas. Não lhe será igualmente permitido exercer quaisquer actividades de natureza industrial, comercial ou bancária, salvo se nisso houver interesse para as forças armadas ou para o Estado.
 
 § 1.º Da mesma forma não é permitido ao oficial da reserva licenciado aceitar a nomeação ou provimento em qualquer cargo, comissão ou emprego público civil sem prévia autorização do titular do departamento a que pertence.
 
 § 2.º Os titulares dos departamentos militares podem, quando o julgarem conveniente, cancelar as autorizações concedidas a qualquer oficial nos termos do corpo e § 1.º deste artigo para o exercício de comissão de serviço público, militar ou civil, estranha ao ramo das forças armadas de que é originário.
 
-###### Art. 15.º Ao oficial em serviço efectivo é vedado dirigir ou fazer parte do corpo directivo ou redactorial de qualquer órgão de informação que não seja exclusivamente de natureza técnica militar. Salvo caso de prévia autorização do titular do departamento respectivo, é igualmente vedado ao oficial tratar em órgãos de informação de assuntos relativos à política interna ou externa da Nação ou que afectem a defesa nacional.
+Art. 15.º Ao oficial em serviço efectivo é vedado dirigir ou fazer parte do corpo directivo ou redactorial de qualquer órgão de informação que não seja exclusivamente de natureza técnica militar. Salvo caso de prévia autorização do titular do departamento respectivo, é igualmente vedado ao oficial tratar em órgãos de informação de assuntos relativos à política interna ou externa da Nação ou que afectem a defesa nacional.
 
-###### Art. 16.º A celebração do casamento do oficial regula-se pela lei civil, com as restrições que a sua condição de oficial exigir, o que deve ser objecto de lei especial.
+Art. 16.º A celebração do casamento do oficial regula-se pela lei civil, com as restrições que a sua condição de oficial exigir, o que deve ser objecto de lei especial.
 
-###### Art. 17.º Não carecem de confirmação ou comprovação as participações ou declarações feitas ou assinadas por oficiais das forças armadas junto das autoridades ou das estações oficiais desde que a confirmação ou comprovação não sejam expressamente exigidas por lei.
+Art. 17.º Não carecem de confirmação ou comprovação as participações ou declarações feitas ou assinadas por oficiais das forças armadas junto das autoridades ou das estações oficiais desde que a confirmação ou comprovação não sejam expressamente exigidas por lei.
 
 Por seu lado, todos os oficiais devem conduzir-se com a necessária correcção perante a população e as autoridades civis, pondo sempre o maior escrúpulo nas participações ou nas declarações que perante elas subscrevam.
 
-###### Art. 18.º O oficial só pode aceitar a intimação de prisão quando emanada de autoridade militar competente.
+Art. 18.º O oficial só pode aceitar a intimação de prisão quando emanada de autoridade militar competente.
 
 Quando lhe for dada ordem de prisão por autoridade civil, deve revelar imediatamente a sua identidade e colocar-se à disposição da autoridade militar, comunicando-lhe a ocorrência.
 
 § único. Nos crimes a que corresponda pena que, segundo o Código de Processo Penal, não admita caução nos crimes, consumados, frustrados ou tentados, contra a segurança do Estado e nos casos de flagrante delito a que corresponda pena maior, o oficial pode ser detido por autoridade civil, mas esta deve promover a sua imediata entrega à autoridade militar.
 
-###### Art. 19.º O bilhete de identidade do oficial substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil. Para esse efeito o bilhete de identidade militar conterá todos os dados essenciais de identificação.
+Art. 19.º O bilhete de identidade do oficial substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil. Para esse efeito o bilhete de identidade militar conterá todos os dados essenciais de identificação.
 
 § único. Esta disposição é igualmente extensiva aos aspirantes a oficial e aos cadetes das escolas superiores de ensino militar.
 
-###### Art. 20.º O oficial tem direito à detenção, uso e porte de armas de qualquer natureza e beneficia das reduções nos transportes colectivos (terrestres, fluviais, marítimos, ou aéreos) que forem concedidos pelas empresas concessionárias ou a estas impostas pelo Governo.
+Art. 20.º O oficial tem direito à detenção, uso e porte de armas de qualquer natureza e beneficia das reduções nos transportes colectivos (terrestres, fluviais, marítimos, ou aéreos) que forem concedidos pelas empresas concessionárias ou a estas impostas pelo Governo.
 
-###### Art. 21.º Aos oficiais generais e oficiais superiores é devido o tratamento de «Excelência»; aos capitães e oficiais subalternos o de «Senhoria».
+Art. 21.º Aos oficiais generais e oficiais superiores é devido o tratamento de «Excelência»; aos capitães e oficiais subalternos o de «Senhoria».
 
 ### CAPÍTULO III — Hierarquia e funções
 
-###### Art. 22.º Os oficiais agrupam-se hieràrquicamente em categorias e postos, cuja correspondência nos três ramos das forças armadas se expressa no quadro seguinte:
+Art. 22.º Os oficiais agrupam-se hieràrquicamente em categorias e postos, cuja correspondência nos três ramos das forças armadas se expressa no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf))](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf)
 
 § único. O posto de aspirante a oficial é, especialmente no que respeita a continência e honras militares, considerado na categoria de oficial subalterno.
 
-###### Art. 23.º O posto de marechal ou de almirante constitui uma alta dignidade e só poderá ser conferido por distinção e a título excepcional ao general ou ao vice-almirante ou contra-almirante que, no exercício de funções de comando ou de direcção suprema, tenha revelado predicados, praticado feitos ou prestado à Nação serviços tão excepcionais que por eles mereça a recompensa dessa alta dignidade.
+Art. 23.º O posto de marechal ou de almirante constitui uma alta dignidade e só poderá ser conferido por distinção e a título excepcional ao general ou ao vice-almirante ou contra-almirante que, no exercício de funções de comando ou de direcção suprema, tenha revelado predicados, praticado feitos ou prestado à Nação serviços tão excepcionais que por eles mereça a recompensa dessa alta dignidade.
 
 § único. Os marechais e almirantes desempenham funções de inspecção de que darão exclusivamente conta ao Ministro de Defesa Nacional e ao titular do departamento a que pertençam.
 
-###### Art. 24.º Em cada posto, ou em postos correspondentes, a hierarquia é determinada pela antiguidade relativa, com excepção dos casos em que a natureza das funções que os oficiais exercem se deva sobrepor àquela antiguidade, de acordo com o disposto neste estatuto e na legislação própria de cada ramo das forças armadas.
+Art. 24.º Em cada posto, ou em postos correspondentes, a hierarquia é determinada pela antiguidade relativa, com excepção dos casos em que a natureza das funções que os oficiais exercem se deva sobrepor àquela antiguidade, de acordo com o disposto neste estatuto e na legislação própria de cada ramo das forças armadas.
 
 § 1.º O general ou vice-almirante que desempenhe as funções de chefe do Estado-Maior General das Forças Armadas será hieràrquicamente superior a todos os oficiais generais, seguindo-se-lhe imediatamente o que desempenhe as funções de presidente do Supremo Tribunal Militar.
 
@@ -202,39 +391,39 @@ Quando lhe for dada ordem de prisão por autoridade civil, deve revelar imediata
 
 § 4.º Os oficiais investidos em funções de comando-chefe de forças de dois ou mais ramos são hierárquicamente superiores aos oficiais do mesmo posto que comandam cada uma dessas forças, independentemente da sua antiguidade relativa.
 
-###### Art. 25.º A antiguidade relativa entre oficiais do mesmo posto, ou de postos correspondentes, é determinada pela data da antiguidade no posto expressa nos diplomas de promoção e, em igualdade desta, pela antiguidade no posto inferior, e assim sucessivamente.
+Art. 25.º A antiguidade relativa entre oficiais do mesmo posto, ou de postos correspondentes, é determinada pela data da antiguidade no posto expressa nos diplomas de promoção e, em igualdade desta, pela antiguidade no posto inferior, e assim sucessivamente.
 
 § 1.º Sempre que por qualquer disposição legal seja alterada a colocação de um oficial na escala do seu posto, ou que o oficial ingresse num quadro diferente daquele em que foi promovido ao posto em que se dá o ingresso, a data da sua antiguidade no posto passará a ser a do oficial que, nas novas condições, lhe fica imediatamente à esquerda.
 
 § 2.º Sempre que oficiais do mesmo quadro forem promovidos a um dado posto na mesma data, e se no novo posto tiver de verificar-se ordenação relativa diferente da anterior, deve esta ordenação relativa constar expressamente do diploma ou documento que publica as promoções, não se aplicando, assim, o disposto no corpo deste artigo.
 
-###### Art. 26.º Aos oficiais compete desempenhar funções de comando, chefia, direcção e ainda as de natureza especializada características dos respectivos quadros e postos.
+Art. 26.º Aos oficiais compete desempenhar funções de comando, chefia, direcção e ainda as de natureza especializada características dos respectivos quadros e postos.
 
 A todos os oficiais cabem sempre funções de justiça e de instrução.
 
 § único. As funções próprias de cada posto nos diversos quadros são especificadas nos estatutos dos oficiais de cada ramo das forças armadas e na legislação dos organismos que envolvam oficiais de dois ou mais daqueles ramos.
 
-###### Art. 27.º Os oficiais não podem ser nomeados para desempenhar funções que correspondam a posto inferior àquele a tenham ascendido.
+Art. 27.º Os oficiais não podem ser nomeados para desempenhar funções que correspondam a posto inferior àquele a tenham ascendido.
 
 Os oficiais que desempenharem funções de posto superior ao seu são considerados, enquanto naquela situação, com autoridade correspondente a esse posto em relação a todos os que lhe estão directamente subordinados.
 
-###### Art. 28.º Aos oficiais deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à sua adequada preparação em cada posto e para os postos imediatos.
+Art. 28.º Aos oficiais deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à sua adequada preparação em cada posto e para os postos imediatos.
 
 § único. Regulamentação específica para cada ramo das forças armadas estabelecerá o sistema de rotação de funções para satisfação do expresso no corpo deste artigo.
 
 ### CAPÍTULO IV — Quadros
 
-###### Art. 29.º Em cada ramo das forças armadas os oficiais distribuem-se por quadros, nos quais são inscritos por postos e por ordem de antiguidade.
+Art. 29.º Em cada ramo das forças armadas os oficiais distribuem-se por quadros, nos quais são inscritos por postos e por ordem de antiguidade.
 
 § 1.º Para os oficiais do activo, diploma especial de cada ramo das forças armadas fixará os correspondentes efectivos.
 
 § 2.º Para os oficiais nas situações de reserva, de reforma e de separado do serviço os efectivos não são fixos em virtude de a passagem àquelas situações ocorrer independentemente de vacatura.
 
-###### Art. 30.º Os departamentos das forças armadas providenciarão para que os respectivos quadros dos oficiais do activo estejam sempre preenchidos.
+Art. 30.º Os departamentos das forças armadas providenciarão para que os respectivos quadros dos oficiais do activo estejam sempre preenchidos.
 
 Quando haja vagas em qualquer dos quadros, deve promover-se o seu preenchimento imediato por oficiais que reúnam as necessárias condições legais de promoção.
 
-###### Art. 31.º O ingresso nos quadros dos oficiais do activo faz-se pela forma seguinte:
+Art. 31.º O ingresso nos quadros dos oficiais do activo faz-se pela forma seguinte:
 
 a) Para os oficiais oriundos da Escola Naval e Academia Militar: independentemente de vacatura e nas condições estabelecidas para cada ramo das forças armadas;
 
@@ -244,7 +433,7 @@ c) Para os oficiais destinados aos quadros do serviço geral, técnicos e outros
 
 d) Para os oficiais promovidos de sargento, por distinção: independentemente de vacatura e nas condições estabelecidas para cada ramo das forças armadas.
 
-###### Art. 32.º São abatidos definitivamente aos quadros permanentes das forças armadas os oficiais que:
+Art. 32.º São abatidos definitivamente aos quadros permanentes das forças armadas os oficiais que:
 
 a) Sejam julgados incapazes de todo o serviço e não possam transitar para a situação de reforma;
 
@@ -254,7 +443,7 @@ c) Tenham sofrido a pena de demissão;
 
 d) Tenham passagem aos quadros de complemento.
 
-###### Art. 33.º Têm passagem a oficiais de complemento os oficiais dos quadros permanentes:
+Art. 33.º Têm passagem a oficiais de complemento os oficiais dos quadros permanentes:
 
 a) Que, depois de terem prestado, como oficial, um mínimo de oito anos de serviço efectivo nas forças armadas, assim o tenham requerido e a tanto sejam autorizados;
 
@@ -266,7 +455,7 @@ c) Que, tendo sido considerados incapazes do serviço activo, não reúnam as co
 
 ### CAPÍTULO V — Situações
 
-###### Art. 34.º Os quadros permanentes dos oficiais englobam:
+Art. 34.º Os quadros permanentes dos oficiais englobam:
 
 a) Activo;
 
@@ -276,7 +465,7 @@ c) Reforma;
 
 d) Separado do serviço.
 
-###### Art. 35.º Consideram-se no activo os oficiais que, não tendo atingido os limites de idade estabelecidos no artigo 47.º deste estatuto, nem tendo sido julgados incapazes para o serviço activo, se encontrem nele presentes ou em condições de serem ou virem a ser chamados ao seu desempenho.
+Art. 35.º Consideram-se no activo os oficiais que, não tendo atingido os limites de idade estabelecidos no artigo 47.º deste estatuto, nem tendo sido julgados incapazes para o serviço activo, se encontrem nele presentes ou em condições de serem ou virem a ser chamados ao seu desempenho.
 
 § 1.º Em relação à prestação de serviço, os oficiais do activo podem estar:
 
@@ -296,7 +485,7 @@ b) Adidos ao quadro;
 
 c) Supranumerários.
 
-###### Art. 36.º São considerados em comissão normal os oficiais do activo que prestam serviço nos departamentos militares ou desempenham funções militares fora destes departamentos. Designadamente, estão em comissão normal os oficiais:
+Art. 36.º São considerados em comissão normal os oficiais do activo que prestam serviço nos departamentos militares ou desempenham funções militares fora destes departamentos. Designadamente, estão em comissão normal os oficiais:
 
 a) Colocados nas forças, unidades, serviços, estabelecimentos e demais organismos dos departamentos militares;
 
@@ -308,7 +497,7 @@ d) Fazendo parte da Casa Militar do Presidente da República;
 
 e) Colocados na Guarda Nacional Republicana, na Guarda Fiscal, na Polícia de Segurança Pública, na Polícia de Viação e Trânsito e nas direcções e repartições provinciais dos serviços de marinha do ultramar.
 
-###### Art. 37.º São considerados em comissão especial os oficiais do activo desempenhando funções públicas que não sejam de natureza militar, fora dos departamentos das forças armadas. Designadamente, encontram-se em comissão especial os oficiais do activo que exerçam os seguintes cargos ou funções:
+Art. 37.º São considerados em comissão especial os oficiais do activo desempenhando funções públicas que não sejam de natureza militar, fora dos departamentos das forças armadas. Designadamente, encontram-se em comissão especial os oficiais do activo que exerçam os seguintes cargos ou funções:
 
 a) Presidente da República;
 
@@ -322,21 +511,21 @@ e) Comissão civil remunerada, nos casos não abrangidos nas alíneas anteriores
 
 § único. Os oficiais em comissão especial no desempenho de funções a que não corresponda o direito ao uso de insígnias militares próprias não podem fazer uso do uniforme em actos de serviço relativas àquelas funções.
 
-###### Art. 38.º Consideram-se na inactividade temporária os oficiais do activo afastados temporàriamente do serviço por doença, licença da competente junta médica ou motivo disciplinar. Os oficiais são colocados na inactividade temporária nos seguintes casos:
+Art. 38.º Consideram-se na inactividade temporária os oficiais do activo afastados temporàriamente do serviço por doença, licença da competente junta médica ou motivo disciplinar. Os oficiais são colocados na inactividade temporária nos seguintes casos:
 
 a) Por motivo de doença ou de licença da junta - quando, no período de um ano, excedam 180 dias de impedimento por doença ou licença da junta, ou de um adicionado ao outro;
 
 b) Por motivo disciplinar - quando lhes for aplicada a pena de inactividade prevista no Regulamento de Disciplina Militar.
 
-###### Art. 39.º Consideram-se de licença ilimitada os oficiais a quem seja concedida licença nos termos do artigo 104.º deste estatuto.
+Art. 39.º Consideram-se de licença ilimitada os oficiais a quem seja concedida licença nos termos do artigo 104.º deste estatuto.
 
-###### Art. 40.º Nenhum oficial do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que preste um mínimo de três anos de serviço nesta comissão.
+Art. 40.º Nenhum oficial do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que preste um mínimo de três anos de serviço nesta comissão.
 
 § único. Para os efeitos deste artigo, não será contado como afastamento da comissão normal o tempo de exercício dos cargos de Presidente da República, Presidente do Conselho de Ministros, de Ministro, Secretário e Subsecretário de Estado, de governador de província ultramarina e de embaixador ou ministro plenipotenciário em país estrangeiro.
 
-###### Art. 41.º Os oficiais do activo consideram-se no quadro quando são contados nos efectivos a que se refere o § 1.º do artigo 29.º
+Art. 41.º Os oficiais do activo consideram-se no quadro quando são contados nos efectivos a que se refere o § 1.º do artigo 29.º
 
-###### Art. 42.º Consideram-se adidos aos quadros, não se contando nos efectivos aprovados por lei, os oficiais do activo que:
+Art. 42.º Consideram-se adidos aos quadros, não se contando nos efectivos aprovados por lei, os oficiais do activo que:
 
 a) Estejam nas situações de comissão especial, inactividade temporária e licença ilimitada;
 
@@ -366,7 +555,7 @@ b) Estando em comissão normal:
 
 12) Por razões específicas de qualquer ramo das forças armadas devem ser colocados na situação de adidos aos quadros, de acordo com disposições fixadas no estatuto do respectivo ramo.
 
-###### Art. 43.º Consideram-se supranumerários os oficiais do activo em comissão normal que, não estando adidos, não possam ocupar vaga nos quadros por falta de vacatura.
+Art. 43.º Consideram-se supranumerários os oficiais do activo em comissão normal que, não estando adidos, não possam ocupar vaga nos quadros por falta de vacatura.
 
 § 1.º A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
 
@@ -384,9 +573,9 @@ f) Regresso da situação de adido.
 
 § 2.º Os oficiais supranumerários preenchem as primeiras vacaturas que ocorram nos respectivos quadros.
 
-###### Art. 44.º As mudanças de situação dos oficiais em relação ao quadro a que pertencem são sempre determinadas por portaria, sendo tais mudanças referidas à data em que, nos termos legais, os oficiais forem considerados abrangidos pela condição que as motivou.
+Art. 44.º As mudanças de situação dos oficiais em relação ao quadro a que pertencem são sempre determinadas por portaria, sendo tais mudanças referidas à data em que, nos termos legais, os oficiais forem considerados abrangidos pela condição que as motivou.
 
-###### Art. 45.º São mantidos na situação do activo sem dependência de idade:
+Art. 45.º São mantidos na situação do activo sem dependência de idade:
 
 a) Os oficiais que desempenhem as funções de Presidente da República, de Presidente do Conselho de Ministros, de Ministro, Secretário e Subsecretário de departamentos militares, enquanto exercerem esses cargos;
 
@@ -396,7 +585,7 @@ b) Os marechais e almirantes.
 
 § 2.º No caso de a alta dignidade de marechal ou de almirante ser conferida a oficial general que se encontre noutra situação, tal facto implica o seu regresso ao activo.
 
-###### Art. 46.º Transitam para a situação de reserva os oficiais abrangidos por qualquer das condições indicadas nas alíneas seguintes:
+Art. 46.º Transitam para a situação de reserva os oficiais abrangidos por qualquer das condições indicadas nas alíneas seguintes:
 
 a) Tendo prestado quinze ou mais anos de serviço:
 
@@ -426,9 +615,9 @@ c) Requeiram a passagem à reserva depois de completarem 60 anos de idade e 40 d
 
 § 3.º A data da passagem à situação de reserva é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 47.º Os limites de idade para a passagem à situação de reserva são os indicados no mapa n.º 1 anexo a este diploma.
+Art. 47.º Os limites de idade para a passagem à situação de reserva são os indicados no mapa n.º 1 anexo a este diploma.
 
-###### Art. 48.º Os oficiais que tenham transitado para a reserva podem encontrar-se numa das seguintes condições:
+Art. 48.º Os oficiais que tenham transitado para a reserva podem encontrar-se numa das seguintes condições:
 
 a) Efectividade de serviço;
 
@@ -440,7 +629,7 @@ c) Licença ilimitada.
 
 § 2.º Os oficiais que ao transitarem do activo para a reserva estejam na situação de licença ilimitada são colocados na reserva na mesma situação.
 
-###### Art. 49.º Transitam para a reforma os oficiais que deixem de estar no activo ou na reserva, por serem abrangidos por qualquer das seguintes condições:
+Art. 49.º Transitam para a reforma os oficiais que deixem de estar no activo ou na reserva, por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado quinze ou mais anos de serviço, atinjam 70 anos de idade;
 
@@ -458,15 +647,15 @@ c) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 § 2.º A data da passagem à situação de reforma é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 50.º Ficam separados do serviço os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados das forças armadas.
+Art. 50.º Ficam separados do serviço os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados das forças armadas.
 
 § único. Os oficiais separados do serviço ficam privados do uso de uniforme, distintivos e insígnias militares e perdem os direitos constantes dos artigos 17.º, 18.º, 19.º e 20.º deste estatuto.
 
 ### CAPÍTULO VI — Informações e condições de aptidão física
 
-###### Art. 51.º Os oficiais são objecto de informação periódica dos comandantes, directores ou chefes a que estão subordinados directamente.
+Art. 51.º Os oficiais são objecto de informação periódica dos comandantes, directores ou chefes a que estão subordinados directamente.
 
-###### Art. 52.º A informação periódica dos oficiais destina-se essencialmente a:
+Art. 52.º A informação periódica dos oficiais destina-se essencialmente a:
 
 a) Contribuir para a selecção dos oficiais, de maneira que os melhores e mais aptos para exercerem as funções que competem aos altos postos sejam promovidos mais ràpidamente;
 
@@ -476,19 +665,19 @@ c) Permitir que o valor dos oficiais, considerados no conjunto do seu quadro, po
 
 d) Estimular o aperfeiçoamento individual dos oficiais pelo oportuno esclarecimento das suas deficiências.
 
-###### Art. 53.º A informação periódica dos oficiais deve abranger a apreciação das suas qualidades intelectuais, de carácter, sociais, morais, militares, profissionais e físicas.
+Art. 53.º A informação periódica dos oficiais deve abranger a apreciação das suas qualidades intelectuais, de carácter, sociais, morais, militares, profissionais e físicas.
 
-###### Art. 54.º A informação periódica dos oficiais é confidencial, devendo os informadores esclarecer os oficiais que informam, sempre que o julgarem conveniente, quanto aos defeitos susceptíveis de serem corrigidos.
+Art. 54.º A informação periódica dos oficiais é confidencial, devendo os informadores esclarecer os oficiais que informam, sempre que o julgarem conveniente, quanto aos defeitos susceptíveis de serem corrigidos.
 
-###### Art. 55.º Os generais e os vice-almirantes e contra-almirantes não estão sujeitos a informação periódica. Também não estão sujeitos à mesma informação os brigadeiros e os comodoros dos quadros em que estes postos forem os mais elevados.
+Art. 55.º Os generais e os vice-almirantes e contra-almirantes não estão sujeitos a informação periódica. Também não estão sujeitos à mesma informação os brigadeiros e os comodoros dos quadros em que estes postos forem os mais elevados.
 
-###### Art. 56.º Sempre que a cadeia de comando o permita, na informação periódica dos oficiais devem intervir vários informadores, os quais se pronunciarão quanto à maneira como o informador antecedente apreciou os seus oficiais, considerados no seu conjunto, caso julguem que a orientação seguida não foi uniforme ou que foi excessivamente benevolente ou rigorosa.
+Art. 56.º Sempre que a cadeia de comando o permita, na informação periódica dos oficiais devem intervir vários informadores, os quais se pronunciarão quanto à maneira como o informador antecedente apreciou os seus oficiais, considerados no seu conjunto, caso julguem que a orientação seguida não foi uniforme ou que foi excessivamente benevolente ou rigorosa.
 
-###### Art. 57.º Sempre que das informações periódicas dos oficiais constem referências dignas de reparo, as entidades apropriadas de cada ramo das forças armadas poderão convocar os oficiais a que respeitem essas referências, quer para os louvar, quer para os precaver contra as suas deficiências, sempre no sentido de promover o seu aperfeiçoamento e de os incitar ao cumprimento dos seus deveres.
+Art. 57.º Sempre que das informações periódicas dos oficiais constem referências dignas de reparo, as entidades apropriadas de cada ramo das forças armadas poderão convocar os oficiais a que respeitem essas referências, quer para os louvar, quer para os precaver contra as suas deficiências, sempre no sentido de promover o seu aperfeiçoamento e de os incitar ao cumprimento dos seus deveres.
 
-###### Art. 58.º A periodicidade e o tipo de informação a utilizar serão estabelecidos por cada ramo das forças armadas no respectivo estatuto.
+Art. 58.º A periodicidade e o tipo de informação a utilizar serão estabelecidos por cada ramo das forças armadas no respectivo estatuto.
 
-###### Art. 59.º As condições de aptidão física dos oficiais são apreciadas periòdicamente por meio de:
+Art. 59.º As condições de aptidão física dos oficiais são apreciadas periòdicamente por meio de:
 
 a) Inspecções médicas;
 
@@ -496,7 +685,7 @@ b) Prestação de provas físicas.
 
 § único. As inspecções médicas e a prestação de provas físicas a que se refere o corpo do artigo serão regulamentadas em cada ramo das forças armadas, no respectivo estatuto, na medida em que forem consideradas necessárias.
 
-###### Art. 60.º Independentemente das inspecções médicas periódicas a que se refere o artigo 59.º, os oficiais deverão ser observados por juntas médicas:
+Art. 60.º Independentemente das inspecções médicas periódicas a que se refere o artigo 59.º, os oficiais deverão ser observados por juntas médicas:
 
 a) Para efeito de promoção a brigadeiro ou comodoro e a major ou capitão-tenente;
 
@@ -506,17 +695,17 @@ c) Sempre que for julgado conveniente.
 
 § único. As inspecções médicas a que se refere a alínea a) deste artigo poderão ser dispensadas pelo titular do respectivo departamento das forças armadas, quando, por motivos imperiosos de serviço, o oficial não possa ser presente a uma junta médica.
 
-###### Art. 61.º Os oficiais que não possuam a necessária aptidão física para o desempenho das funções que competem ao seu posto serão, conforme as circunstâncias, passados à reserva ou reforma ou abatidos aos quadros permanentes, podendo, neste último caso, passarem a oficial de complemento.
+Art. 61.º Os oficiais que não possuam a necessária aptidão física para o desempenho das funções que competem ao seu posto serão, conforme as circunstâncias, passados à reserva ou reforma ou abatidos aos quadros permanentes, podendo, neste último caso, passarem a oficial de complemento.
 
 § único. De acordo com a regulamentação própria de cada ramo das forças armadas, os oficiais que não possuam suficiente aptidão física para desempenhar as funções relativas ao seu posto no quadro a que pertencem poderão ser transferidos para outro quadro a que respeitem funções para cujo desempenho possuam necessária aptidão física.
 
 ### CAPÍTULO VII — Promoções
 
-###### Art. 62.º Os oficiais ascendem aos postos referidos no artigo 22.º por promoção, nos termos estabelecidos neste estatuto.
+Art. 62.º Os oficiais ascendem aos postos referidos no artigo 22.º por promoção, nos termos estabelecidos neste estatuto.
 
 § único. Pode, contudo, atribuir-se aos oficiais graduação em posto superior ao seu, nos termos previstos neste diploma.
 
-###### Art. 63.º Com excepção da promoção aos postos de marechal e almirante, os oficiais podem ser promovidos:
+Art. 63.º Com excepção da promoção aos postos de marechal e almirante, os oficiais podem ser promovidos:
 
 a) Por diuturnidade, que consiste no acesso automático a posto superior, decorrido o período de permanência fixado neste estatuto e satisfeitas as condições de promoção, mantendo-se no novo posto a antiguidade relativa do posto anterior, salvo os casos de preterição;
 
@@ -534,7 +723,7 @@ d) Por distinção, que consiste na promoção, independentemente da posição q
 
 § 4.º A promoção ao posto de vice-almirante é regulada no Estatuto do Oficial da Armada.
 
-###### Art. 64.º A promoção dos oficiais apenas se verifica nos quadros do activo, com as seguintes excepções:
+Art. 64.º A promoção dos oficiais apenas se verifica nos quadros do activo, com as seguintes excepções:
 
 a) Aos postos de marechal e de almirante também podem ser promovidos os generais e os vice-almirantes ou contra-almirantes da reserva ou da reforma;
 
@@ -544,7 +733,7 @@ c) Ao abrigo do disposto na legislação a que se refere o artigo 114.º deste e
 
 § único. A promoção por distinção também pode ter lugar a título póstumo.
 
-###### Art. 65.º A promoção dos oficiais realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 22.º, tendo em conta as seguintes excepções:
+Art. 65.º A promoção dos oficiais realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 22.º, tendo em conta as seguintes excepções:
 
 a) Os contra-almirantes podem ascender directamente a almirantes;
 
@@ -552,7 +741,7 @@ b) Os coronéis e os capitães-de-mar-e-guerra, nos quadros em que existam os po
 
 c) A promoção por distinção pode, em casos muito excepcionais, realizar-se a posto superior ao posto imediato do oficial a promover.
 
-###### Art. 66.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro (no quadro, adidos ou supranumerários).
+Art. 66.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro (no quadro, adidos ou supranumerários).
 
 § 1.º Nas promoções por diuturnidade, distinção ou por ingresso no oficialato, quando os oficiais promovidos não devam ficar na situação de adidos e não haja vacatura nos quadros, ficarão na situação de supranumerários.
 
@@ -560,11 +749,11 @@ c) A promoção por distinção pode, em casos muito excepcionais, realizar-se a
 
 § 3.º Os oficiais adidos ao quadro aos quais caiba a promoção por antiguidade ou por escolha e que continuem adidos no novo posto serão promovidos independentemente de a vacatura poder ser ou não preenchida por outro oficial.
 
-###### Art. 67.º Quando nas promoções por antiguidade ou por escolha a vacatura não possa ser preenchida, a promoção realizar-se-á nos graus hierárquicos inferiores para todos os oficiais a quem ela pertenceria como se se tivesse dado o movimento.
+Art. 67.º Quando nas promoções por antiguidade ou por escolha a vacatura não possa ser preenchida, a promoção realizar-se-á nos graus hierárquicos inferiores para todos os oficiais a quem ela pertenceria como se se tivesse dado o movimento.
 
 § único. O efectivo fixado para o posto mais elevado no qual se realizaram promoções ao abrigo do disposto neste artigo fica aumentado, transitòriamente, do número de oficiais que forem promovidos nessas condições.
 
-###### Art. 68.º Para serem promovidos os oficiais têm de satisfazer às condições de promoção, tendo apenas em conta as excepções previstas neste estatuto ou no estatuto de cada ramo das forças armadas.
+Art. 68.º Para serem promovidos os oficiais têm de satisfazer às condições de promoção, tendo apenas em conta as excepções previstas neste estatuto ou no estatuto de cada ramo das forças armadas.
 
 § único. As condições de promoção dividem-se em:
 
@@ -572,17 +761,17 @@ a) Condições gerais - comuns a todos os quadros das forças armadas;
 
 b) Condições especiais - próprias de cada quadro.
 
-###### Art. 69.º A promoção aos postos de marechal e de almirante, nas condições definidas no artigo 23.º deste estatuto, realiza-se por deliberação do Conselho de Ministros, mediante proposta do titular do respectivo departamento, com a concordância do Ministro da Defesa Nacional. Para efeitos da elaboração do correspondente processo é obrigatòriamente ouvido o Conselho Superior do Exército, Conselho Superior da Armada ou Conselho Superior da Aeronáutica, conforme o ramo a que o oficial pertença, devendo a proposta ter parecer favorável, quanto à natureza dos fundamentos, do Supremo Tribunal Militar.
+Art. 69.º A promoção aos postos de marechal e de almirante, nas condições definidas no artigo 23.º deste estatuto, realiza-se por deliberação do Conselho de Ministros, mediante proposta do titular do respectivo departamento, com a concordância do Ministro da Defesa Nacional. Para efeitos da elaboração do correspondente processo é obrigatòriamente ouvido o Conselho Superior do Exército, Conselho Superior da Armada ou Conselho Superior da Aeronáutica, conforme o ramo a que o oficial pertença, devendo a proposta ter parecer favorável, quanto à natureza dos fundamentos, do Supremo Tribunal Militar.
 
-###### Art. 70.º A promoção por diuturnidade tem lugar na promoção a tenente ou segundo-tenente dos alferes e dos guardas-marinhas e subtenentes que completem um ano de permanência nestes postos.
+Art. 70.º A promoção por diuturnidade tem lugar na promoção a tenente ou segundo-tenente dos alferes e dos guardas-marinhas e subtenentes que completem um ano de permanência nestes postos.
 
-###### Art. 71.º A promoção por antiguidade tem lugar nas promoções aos seguintes postos:
+Art. 71.º A promoção por antiguidade tem lugar nas promoções aos seguintes postos:
 
 a) Tenentes-coronéis e capitães-de-fragata, nos quadros em que estes postos não sejam os mais elevados.
 
 b) Capitães e primeiros-tenentes.
 
-###### Art. 72.º A promoção por escolha tem lugar na promoção aos seguintes postos:
+Art. 72.º A promoção por escolha tem lugar na promoção aos seguintes postos:
 
 a) General e contra-almirante.
 
@@ -598,7 +787,7 @@ e) Major e capitão-tenente.
 
 § 2.º No estatuto de cada ramo das forças armadas será designado o organismo que deve ser ouvido no caso das promoções por escolha.
 
-###### Art. 73.º A promoção por distinção pode realizar-se a todos os postos, com exclusão dos referidos no artigo 23.º e no § 4.º do artigo 63.º deste estatuto.
+Art. 73.º A promoção por distinção pode realizar-se a todos os postos, com exclusão dos referidos no artigo 23.º e no § 4.º do artigo 63.º deste estatuto.
 
 § 1.º A promoção por distinção aos postos de oficial general é da competência do Conselho de Ministros, mediante proposta do titular do departamento das forças armadas a que pertença o oficial a promover, ouvido o Conselho Superior do Exército, da Armada ou da Aeronáutica.
 
@@ -610,7 +799,7 @@ e) Major e capitão-tenente.
 
 § 5.º A promoção por distinção não exige a satisfação das condições de promoção.
 
-###### Art. 74.º As condições gerais de promoção dos oficiais são as seguintes:
+Art. 74.º As condições gerais de promoção dos oficiais são as seguintes:
 
 1.ª Bom comportamento militar e civil e perfeito espírito militar;
 
@@ -620,7 +809,7 @@ e) Major e capitão-tenente.
 
 4.ª Aptidão física adequada.
 
-###### Art. 75.º Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção são, normalmente, elementos de apreciação:
+Art. 75.º Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção são, normalmente, elementos de apreciação:
 
 a) As informações a que se refere o capítulo VI deste estatuto;
 
@@ -630,19 +819,19 @@ c) Outros documentos que constem do processo individual do oficial.
 
 A verificação da 4.ª condição geral de promoção baseia-se nas inspecções médicas e na prestação de provas físicas de que tratam os artigos 59.º a 61.º deste estatuto.
 
-###### Art. 76.º O oficial que não satisfaça à 1.ª e 2.ª condições gerais de promoção deixará de estar no activo.
+Art. 76.º O oficial que não satisfaça à 1.ª e 2.ª condições gerais de promoção deixará de estar no activo.
 
 O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído temporàriamente da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será passado à reserva ou a oficial de complemento, nas condições que forem estabelecidas no estatuto de cada ramo das forças armadas.
 
 Ao oficial que não satisfaça à 4.ª condição geral de promoção será aplicado o disposto no artigo 61.º deste estatuto.
 
-###### Art. 77.º Quando houver dúvidas sobre se o oficial satisfaz à 1.ª e 2.ª condições gerais de promoção, deverá o mesmo ser submetido a julgamento em Conselho Superior de Disciplina ou organismo equivalente.
+Art. 77.º Quando houver dúvidas sobre se o oficial satisfaz à 1.ª e 2.ª condições gerais de promoção, deverá o mesmo ser submetido a julgamento em Conselho Superior de Disciplina ou organismo equivalente.
 
 Nenhum oficial pode ser dado como não satisfazendo à 3.ª condição geral de promoção sem ser ouvido o Conselho Superior do Exército, o Conselho Superior da Armada ou a Comissão Técnica da Força Aérea.
 
-###### Art. 78.º O oficial contra o qual se esteja a proceder a auto de corpo de delito, processo de averiguações, ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o titular do respectivo departamento militar assim o entender por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª e 3.ª condições gerais de promoção.
+Art. 78.º O oficial contra o qual se esteja a proceder a auto de corpo de delito, processo de averiguações, ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o titular do respectivo departamento militar assim o entender por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª e 3.ª condições gerais de promoção.
 
-###### Art. 79.º As condições especiais de promoção, que serão fixadas no estatuto de cada ramo das forças armadas, abrangem:
+Art. 79.º As condições especiais de promoção, que serão fixadas no estatuto de cada ramo das forças armadas, abrangem:
 
 a) Tempo de permanência no posto;
 
@@ -666,13 +855,13 @@ f) Para general ou contra-almirante - dezanove anos.
 
 § 2.º Quando razões imperiosas o exijam, os tempos mínimos referidos no parágrafo anterior podem ser reduzidos em qualquer dos ramos das forças armadas por portaria do respectivo titular.
 
-###### Art. 80.º Os titulares dos departamentos das forças armadas podem, por despacho fundamentado e publicado na ordem do respectivo ramo, dispensar, num só posto, das condições especiais a que se refere a alínea b) do artigo anterior qualquer oficial que, por conveniência excepcional do serviço, seja impedido de as realizar.
+Art. 80.º Os titulares dos departamentos das forças armadas podem, por despacho fundamentado e publicado na ordem do respectivo ramo, dispensar, num só posto, das condições especiais a que se refere a alínea b) do artigo anterior qualquer oficial que, por conveniência excepcional do serviço, seja impedido de as realizar.
 
-###### Art. 81.º Os oficiais devem oportunamente ser nomeados para desempenhar cargos onde, com o devido tempo, possam satisfazer às condições especiais de promoção.
+Art. 81.º Os oficiais devem oportunamente ser nomeados para desempenhar cargos onde, com o devido tempo, possam satisfazer às condições especiais de promoção.
 
 § único. Em cada ramo das forças armadas e através do seu estatuto podem, no entanto, ser especificadas as funções para as quais não há obrigatoriedade de nomear ao abrigo do corpo deste artigo.
 
-###### Art. 82.º O oficial impossibilitado de satisfazer as condições especiais de promoção, por estar investido nas funções de Presidente da República ou de Presidente do Conselho de Ministros, será delas dispensado; nas funções de Ministro, Secretário ou Subsecretário de Estado igual procedimento é aplicado, salvo no que respeita à prestação de provas e frequência de cursos ou estágios.
+Art. 82.º O oficial impossibilitado de satisfazer as condições especiais de promoção, por estar investido nas funções de Presidente da República ou de Presidente do Conselho de Ministros, será delas dispensado; nas funções de Ministro, Secretário ou Subsecretário de Estado igual procedimento é aplicado, salvo no que respeita à prestação de provas e frequência de cursos ou estágios.
 
 O Conselho de Ministros pode, depois de ouvido o Conselho Superior do Exército, o Conselho Superior da Armada ou o Conselho Superior da Aeronáutica, dispensar da prestação de provas ou da frequência de cursos ou estágios para promoção o oficial que estiver investido nas funções atrás mencionadas, salvo as exigidas para o acesso a oficial general, que podem, todavia, ser substituídas por provas finais directas, autorizadas pelo Presidente do Conselho, com a concordância do Ministro da Defesa Nacional. Os fundamentos da dispensa, com a enumeração das qualidades e serviços que a justificam, deverão ser publicados na ordem do departamento a que o oficial pertença.
 
@@ -684,13 +873,13 @@ O Conselho de Ministros pode, depois de ouvido o Conselho Superior do Exército,
 
 § 4.º O oficial nas condições deste artigo que, posteriormente à data em que lhe competia a promoção, for abrangido pelo limite de idade, continuará no activo durante o tempo mínimo indispensável para satisfazer as condições que lhe faltam, se delas não for dispensado.
 
-###### Art. 83.º Os oficiais prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual será presente o respectivo processo, com menção, quando possível, das circunstâncias em que o oficial foi feito prisioneiro, dos seus serviços em campanha o do seu procedimento enquanto prisioneiro.
+Art. 83.º Os oficiais prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual será presente o respectivo processo, com menção, quando possível, das circunstâncias em que o oficial foi feito prisioneiro, dos seus serviços em campanha o do seu procedimento enquanto prisioneiro.
 
 Nos casos em que o Supremo Tribunal Militar não possa emitir parecer ou este for desfavorável, o oficial só pode ser promovido depois de julgado, após a libertação.
 
 § único. Os oficiais nas condições deste artigo são promovidos com dispensa da condição de promoção referida na alínea b) do artigo 79.º
 
-###### Art. 84.º Os oficiais podem ser excluídos temporàriamente da promoção, ficando numa das seguintes situações:
+Art. 84.º Os oficiais podem ser excluídos temporàriamente da promoção, ficando numa das seguintes situações:
 
 a) Demorados;
 
@@ -702,7 +891,7 @@ b) Preteridos.
 
 § 3.º Os oficiais que, em resultado da promoção por escolha de outros oficiais, sofram perda de antiguidade relativamente a estes não são considerados como excluídos temporàriamente da promoção, não lhes sendo aplicáveis as disposições respeitantes a esta exclusão.
 
-###### Art. 85.º A demora na promoção tem lugar nos seguintes casos:
+Art. 85.º A demora na promoção tem lugar nos seguintes casos:
 
 a) Quando os oficiais aguardem julgamento do Conselho Superior de Disciplina ou organismo equivalente, nas condições a que se refere o artigo 77.º;
 
@@ -724,7 +913,7 @@ g) Nos outros casos em que a lei expressamente o determine.
 
 § 3.º Os oficiais demorados na promoção são promovidos logo que cessem os motivos que os colocaram nessa situação, independentemente de existir ou não vacatura nos quadros, desde que desses motivos não deva resultar outro procedimento de acordo com o disposto na legislação em vigor.
 
-###### Art. 86.º A preterição na promoção tem lugar quando se verifiquem as circunstâncias seguintes:
+Art. 86.º A preterição na promoção tem lugar quando se verifiquem as circunstâncias seguintes:
 
 a) A exclusão da promoção seja motivada por o oficial não ter satisfeito à 3.ª condição geral de promoção, conforme o disposto no artigo 76.º;
 
@@ -738,7 +927,7 @@ c) Nos outros casos em que a lei expressamente o determine.
 
 § 3.º Na promoção por diuturnidade os oficiais preteridos são promovidos logo que cessem os motivos que os excluíram da promoção.
 
-###### Art. 87.º A data da antiguidade no posto, a que se refere o artigo 25.º deste estatuto, corresponde:
+Art. 87.º A data da antiguidade no posto, a que se refere o artigo 25.º deste estatuto, corresponde:
 
 a) À data do diploma de promoção, nas promoções aos postos de marechal ou almirante;
 
@@ -768,11 +957,11 @@ g) À data de antiguidade do oficial que lhe fica imediatamente à esquerda no n
 
 § 3.º Nas promoções que correspondam ao ingresso no oficialato, a regulamentação das datas de antiguidade será feita no estatuto de cada ramo das forças armadas.
 
-###### Art. 88.º Quando um oficial atinja o limite de idade a que se refere o artigo 47.º posteriormente à data em que lhe caiba promoção por diuturnidade, não passará à situação de reserva até que essa promoção seja publicada, após o que passará então a essa situação ou continuará no activo de acordo com o limite de idade do novo posto.
+Art. 88.º Quando um oficial atinja o limite de idade a que se refere o artigo 47.º posteriormente à data em que lhe caiba promoção por diuturnidade, não passará à situação de reserva até que essa promoção seja publicada, após o que passará então a essa situação ou continuará no activo de acordo com o limite de idade do novo posto.
 
-###### Art. 89.º A passagem à situação de reserva de um oficial que atinja o limite de idade a que se refere o artigo 47.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse oficial ao posto seguinte.
+Art. 89.º A passagem à situação de reserva de um oficial que atinja o limite de idade a que se refere o artigo 47.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse oficial ao posto seguinte.
 
-###### Art. 90.º O diploma de promoção tem a forma de:
+Art. 90.º O diploma de promoção tem a forma de:
 
 a) Para a promoção aos postos de marechal e almirante, decreto-lei;
 
@@ -782,9 +971,9 @@ b) Para promoção aos restantes postos:
 
 2) Portaria do titular do respectivo departamento, nos restantes casos.
 
-###### Art. 91.º Os processos de promoção dos oficiais são confidenciais.
+Art. 91.º Os processos de promoção dos oficiais são confidenciais.
 
-###### Art. 92.º Os oficiais podem ser graduados em posto superior:
+Art. 92.º Os oficiais podem ser graduados em posto superior:
 
 a) Quando, sendo coronéis ou capitães-de-mar-e-guerra, passem à reserva e satisfaçam às condições que forem estabelecidas no estatuto de cada ramo das forças armadas;
 
@@ -798,7 +987,7 @@ c) Em tempo de guerra, segundo legislação especial.
 
 ### CAPÍTULO VIII — Tempo de serviço e de permanência no posto
 
-###### Art. 93.º Conta-se como tempo de serviço:
+Art. 93.º Conta-se como tempo de serviço:
 
 a) O tempo de permanência do oficial no activo, quando:
 
@@ -820,9 +1009,9 @@ b) O de ausência ilegítima do serviço;
 
 c) O de licença registada.
 
-###### Art. 94.º Conta-se como tempo de serviço efectivo nas forças armadas o referido no artigo anterior, com exclusão, para o oficial do activo, do respeitante a comissão especial e, para o oficial na reserva ou na reforma, do relativo ao desempenho de funções que, quando exercidas por oficiais do activo, correspondem a comissão especial.
+Art. 94.º Conta-se como tempo de serviço efectivo nas forças armadas o referido no artigo anterior, com exclusão, para o oficial do activo, do respeitante a comissão especial e, para o oficial na reserva ou na reforma, do relativo ao desempenho de funções que, quando exercidas por oficiais do activo, correspondem a comissão especial.
 
-###### Art. 95.º Conta-se como tempo de permanência no posto o decorrido:
+Art. 95.º Conta-se como tempo de permanência no posto o decorrido:
 
 a) Em comissão normal;
 
@@ -840,11 +1029,11 @@ b) O de licença registada.
 
 § 2.º O tempo de permanência no posto é contado a partir da data de antiguidade nesse posto.
 
-###### Art. 96.º O tempo de serviço nas forças armadas, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes do mapa n.º 2 anexo a este diploma.
+Art. 96.º O tempo de serviço nas forças armadas, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes do mapa n.º 2 anexo a este diploma.
 
 ### CAPÍTULO IX — Licenças
 
-###### Art. 97.º As licenças que são aplicáveis aos oficiais destinam-se a:
+Art. 97.º As licenças que são aplicáveis aos oficiais destinam-se a:
 
 a) Usar dos indispensáveis períodos de repouso;
 
@@ -856,7 +1045,7 @@ d) Frequentar cursos ou estágios em estabelecimentos de ensino superior ou de c
 
 e) Interromper a prestação de serviço por motivo de natureza particular.
 
-###### Art. 98.º As licenças que podem ser concedidas ao oficial do activo para os fins referidos no artigo anterior são as seguintes:
+Art. 98.º As licenças que podem ser concedidas ao oficial do activo para os fins referidos no artigo anterior são as seguintes:
 
 a) As que constam do Regulamento de Disciplina Militar;
 
@@ -874,23 +1063,23 @@ f) Ilimitada.
 
 § 2.º A licença ilimitada também pode ser concedida ao oficial da reserva licenciado.
 
-###### Art. 99.º As licenças a que se refere a alínea a) do artigo anterior são reguladas pelo disposto no Regulamento de Disciplina Militar.
+Art. 99.º As licenças a que se refere a alínea a) do artigo anterior são reguladas pelo disposto no Regulamento de Disciplina Militar.
 
-###### Art. 100.º Designa-se licença por serviço no ultramar a licença concedida pela prestação de serviço no ultramar, no desempenho de funções próprias da comissão normal, de sete dias por cada semestre e até ao máximo de 60 dias.
+Art. 100.º Designa-se licença por serviço no ultramar a licença concedida pela prestação de serviço no ultramar, no desempenho de funções próprias da comissão normal, de sete dias por cada semestre e até ao máximo de 60 dias.
 
 § 1.º Esta licença só pode ser gozada no prazo de um ano, contado desde a data do regresso do oficial do ultramar.
 
 § 2.º O oficial no uso desta licença tem direito aos vencimentos metropolitanos. No caso de a licença não ser gozada na metrópole, tal facto não pode implicar aumento de despesa com vencimentos e transportes.
 
-###### Art. 101.º Designa-se licença da junta a licença concedida para tratamento e recuperação, por período arbitrado por junta médica, até ao máximo de 180 dias no período de um ano.
+Art. 101.º Designa-se licença da junta a licença concedida para tratamento e recuperação, por período arbitrado por junta médica, até ao máximo de 180 dias no período de um ano.
 
-###### Art. 102.º Designa-se licença para estudos a licença concedida, a requerimento dos interessados, para efeitos de frequência de cursos, cadeiras ou estágios em estabelecimentos de ensino superior ou de categoria equivalente, nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros das forças armadas.
+Art. 102.º Designa-se licença para estudos a licença concedida, a requerimento dos interessados, para efeitos de frequência de cursos, cadeiras ou estágios em estabelecimentos de ensino superior ou de categoria equivalente, nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros das forças armadas.
 
-###### Art. 103.º Designa-se licença registada a licença concedida, a requerimento dos interessados, por motivos de natureza particular que justifiquem tal pretensão.
+Art. 103.º Designa-se licença registada a licença concedida, a requerimento dos interessados, por motivos de natureza particular que justifiquem tal pretensão.
 
 § único. A licença registada não pode ser concedida por mais de seis meses, seguidos ou interpolados, dentro de um período de cinco anos.
 
-###### Art. 104.º Designa-se licença ilimitada a licença concedida por período não inferior a um ano ao oficial que a requeira e possa ser dispensado do serviço.
+Art. 104.º Designa-se licença ilimitada a licença concedida por período não inferior a um ano ao oficial que a requeira e possa ser dispensado do serviço.
 
 § 1.º A licença ilimitada apenas pode ser concedida ao oficial que tenha prestado, pelo menos, oito anos de serviço efectivo nas forças armadas.
 
@@ -902,65 +1091,65 @@ b) Um ano após o oficial ter entrado nesta situação, quando concedida ao ofic
 
 § 3.º O oficial do activo ou da reserva na situação de licença ilimitada pode interrompê-la se lhe tiver sido concedida há mais de um ano. A licença cessa 90 dias depois de o oficial apresentar a respectiva declaração ou, antes deste prazo, se o desejar e for autorizado pelo titular do respectivo departamento.
 
-###### Art. 105.º As licenças que constam do Regulamento de Disciplina Militar, as resultantes de serviço no ultramar e as da junta são concedidas com vencimentos; as licenças registada e ilimitada são concedidas sem quaisquer vencimentos ou pensões; a licença para estudos pode ser concedida com ou sem vencimentos, tendo em conta o interesse para as forças armadas dos estudos para que a licença é concedida.
+Art. 105.º As licenças que constam do Regulamento de Disciplina Militar, as resultantes de serviço no ultramar e as da junta são concedidas com vencimentos; as licenças registada e ilimitada são concedidas sem quaisquer vencimentos ou pensões; a licença para estudos pode ser concedida com ou sem vencimentos, tendo em conta o interesse para as forças armadas dos estudos para que a licença é concedida.
 
-###### Art. 106.º A competência para a concessão de licença, as condições de delegação dessa competência e as sanções para o não aproveitamento escolar, nos casos de licença para estudos com vencimentos, são objecto do estatuto de cada ramo das forças armadas.
+Art. 106.º A competência para a concessão de licença, as condições de delegação dessa competência e as sanções para o não aproveitamento escolar, nos casos de licença para estudos com vencimentos, são objecto do estatuto de cada ramo das forças armadas.
 
 ### CAPÍTULO X — Recursos
 
-###### Art. 107.º O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelo oficial:
+Art. 107.º O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelo oficial:
 
 a) Em matéria de promoção, demoras, preterições e posição na escala de antiguidades;
 
 b) Que se considere prejudicado quanto à mudança de situação.
 
-###### Art. 108.º Os recursos são dirigidos ao presidente do Supremo Tribunal Militar. O prazo máximo para a sua interposição é de 30 dias, a partir da data em que os interessados tomarem conhecimento oficial da decisão ou do documento legal que motiva o recurso.
+Art. 108.º Os recursos são dirigidos ao presidente do Supremo Tribunal Militar. O prazo máximo para a sua interposição é de 30 dias, a partir da data em que os interessados tomarem conhecimento oficial da decisão ou do documento legal que motiva o recurso.
 
 § único. Para efeito do disposto neste artigo conta-se como data de conhecimento oficial da decisão ou documento que dá origem ao recurso a da respectiva transcrição na ordem do organismo em que o oficial presta serviço ou aquela em que foi feita a comunicação ao oficial no mesmo organismo.
 
-###### Art. 109.º Não é admitido recurso contra o escalonamento realizado para efeitos de promoção por escolha, contra as decisões ou classificações obtidas em cursos, estágios, tirocínios e provas exigidas para promoção e contra as decisões relativas à não satisfação da 3.ª condição geral de promoção.
+Art. 109.º Não é admitido recurso contra o escalonamento realizado para efeitos de promoção por escolha, contra as decisões ou classificações obtidas em cursos, estágios, tirocínios e provas exigidas para promoção e contra as decisões relativas à não satisfação da 3.ª condição geral de promoção.
 
 § único. O oficial pode, contudo, reclamar, seguindo a via hierárquica, contra o escalonamento ou contra as classificações obtidas, com base em erros de escrita ou de cálculo ou em quaisquer inexactidões materiais devidas a omissão ou lapso manifesto.
 
-###### Art. 110.º As decisões ou acórdãos do Supremo Tribunal Militar, proferidos no exercício da competência que lhe é atribuída nesta matéria pelo artigo 107.º, carecem de homologação do titular do departamento a que pertence o recorrente.
+Art. 110.º As decisões ou acórdãos do Supremo Tribunal Militar, proferidos no exercício da competência que lhe é atribuída nesta matéria pelo artigo 107.º, carecem de homologação do titular do departamento a que pertence o recorrente.
 
 § único. Quando as decisões sejam favoráveis aos recorrentes, mas não tenham homologação, poderão os mesmos apelar, em última instância, para o Conselho de Ministros, dentro do prazo de quinze dias, a partir da data em que os interessados tomarem conhecimento da não homologação.
 
-###### Art. 111.º A recusa da homologação será sempre devidamente fundamentada e publicada juntamente com o acórdão do Supremo Tribunal Militar na ordem do respectivo ramo das forças armadas.
+Art. 111.º A recusa da homologação será sempre devidamente fundamentada e publicada juntamente com o acórdão do Supremo Tribunal Militar na ordem do respectivo ramo das forças armadas.
 
 § único. Em qualquer caso, as decisões do Supremo Tribunal Militar são sempre publicadas na ordem referida neste artigo.
 
-###### Art. 112.º A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
+Art. 112.º A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
 
 ### CAPÍTULO XI — Outras disposições
 
-###### Art. 113.º A carta-patente é o documento de encarte do oficial dos quadros permanentes e é equivalente, para todos os efeitos legais, ao diploma de funções públicas estabelecido para os funcionários civis.
+Art. 113.º A carta-patente é o documento de encarte do oficial dos quadros permanentes e é equivalente, para todos os efeitos legais, ao diploma de funções públicas estabelecido para os funcionários civis.
 
 § 1.º As disposições relativas à carta-patente, incluindo o modelo e o imposto do selo, são fixadas por diploma próprio.
 
 § 2.º A carta-patente é conferida no acto de acesso ao primeiro posto do quadro de oficiais do activo.
 
-###### Art. 114.º Os casos em que se deve verificar a promoção a título excepcional, por serviços prestados, dos oficiais que passaram à reserva e à reforma por motivo de invalidez, desastre em serviço e doença contraída em serviço ou por motivo do mesmo, bem como a dos oficiais reabilitados em consequência da revisão do processo criminal ou disciplinar, são regulados por legislação especial.
+Art. 114.º Os casos em que se deve verificar a promoção a título excepcional, por serviços prestados, dos oficiais que passaram à reserva e à reforma por motivo de invalidez, desastre em serviço e doença contraída em serviço ou por motivo do mesmo, bem como a dos oficiais reabilitados em consequência da revisão do processo criminal ou disciplinar, são regulados por legislação especial.
 
-###### Art. 115.º Para efeitos de aplicação do disposto no § 1.º do artigo 93.º, consideram-se todos os cursos da Escola Naval, da Academia Militar e extintas escolas suas antecessoras que não tenham sido objecto de aplicação daquele preceito, mediante indemnização do que for devido à Caixa Geral de Aposentações.
+Art. 115.º Para efeitos de aplicação do disposto no § 1.º do artigo 93.º, consideram-se todos os cursos da Escola Naval, da Academia Militar e extintas escolas suas antecessoras que não tenham sido objecto de aplicação daquele preceito, mediante indemnização do que for devido à Caixa Geral de Aposentações.
 
-###### Art. 116.º As condições em que os oficiais fìsicamente diminuídos em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública, ou em outro serviço com aqueles directamente relacionados, podem continuar no activo são reguladas por legislação especial.
+Art. 116.º As condições em que os oficiais fìsicamente diminuídos em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública, ou em outro serviço com aqueles directamente relacionados, podem continuar no activo são reguladas por legislação especial.
 
-###### Art. 117.º Legislação especial regulará a situação dos sacerdotes da religião católica nas forças armadas e a sua graduação em oficial.
+Art. 117.º Legislação especial regulará a situação dos sacerdotes da religião católica nas forças armadas e a sua graduação em oficial.
 
-###### Art. 118.º A situação do oficial assistido pela Assistência aos Tuberculosos das Forças Armadas é objecto de disposições especiais.
+Art. 118.º A situação do oficial assistido pela Assistência aos Tuberculosos das Forças Armadas é objecto de disposições especiais.
 
 ### CAPÍTULO XII — Disposições transitórias e finais
 
-###### Art. 119.º Enquanto não forem regulamentadas as condições em que é autorizada a celebração do casamento do oficial das forças armadas, nos termos do disposto no artigo 16.º deste estatuto, são mantidas em vigor as disposições sobre tal matéria existentes em cada um dos ramos das forças armadas.
+Art. 119.º Enquanto não forem regulamentadas as condições em que é autorizada a celebração do casamento do oficial das forças armadas, nos termos do disposto no artigo 16.º deste estatuto, são mantidas em vigor as disposições sobre tal matéria existentes em cada um dos ramos das forças armadas.
 
-###### Art. 120.º O preceituado neste diploma, na parte que, para cada ramo das forças armadas, constitua matéria nova, entra em vigor quando regulamentado no respectivo estatuto.
+Art. 120.º O preceituado neste diploma, na parte que, para cada ramo das forças armadas, constitua matéria nova, entra em vigor quando regulamentado no respectivo estatuto.
 
 Transitòriamente, mantêm-se as prescrições em vigor.
 
-###### Art. 121.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro da Defesa Nacional, ouvidos os titulares dos respectivos departamentos militares.
+Art. 121.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro da Defesa Nacional, ouvidos os titulares dos respectivos departamentos militares.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
 
@@ -968,7 +1157,7 @@ Para ser presente à Assembleia Nacional.
 
 Mapa n.º 1 (a que se refere o artigo 47.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf))](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf)
 
 Notas:
 
@@ -978,6 +1167,6 @@ Notas:
 
 Mapa n.º 2 (a que se refere o artigo 96.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf))](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/27100/15471560.pdf)
 
 Gabinete do Ministro da Defesa Nacional, 29 de Novembro de 1965. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.

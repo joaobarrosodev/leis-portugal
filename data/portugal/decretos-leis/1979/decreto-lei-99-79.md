@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/09400/07290729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1979-382648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14f38f5410b013d8ae7bca0bc4cdb95c68ade0443f92fa4946a42a1855e2b798
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63bb2031b45d5af75966b4179a0ac8e8b979ade2d29136dc9f25d44034ff8d5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Geral dos Serviços Agrícolas
+- Extinção de Serviços
+- Instituto da Reforma Agrária
+- Secretaria Regional da Agricultura e Pescas
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:392242:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:51Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +113,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 8/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1979-392242), de 20 de Janeiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto-Lei n.º 8/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1979-392242), de 20 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - As despesas com os serviços agora integrados constituem, a partir de 1 de Janeiro de 1979, encargo do orçamento regional.
+Art. 4.º - 1 - As despesas com os serviços agora integrados constituem, a partir de 1 de Janeiro de 1979, encargo do orçamento regional.
 
 2 - Os encargos assumidos até 31 de Dezembro de 1978, devidamente justificados, que não puderem ser liquidados e pagos dentro dos prazos legais previstos para o encerramento das contas, sê-lo-ão por verbas apropriadas do orçamento do Ministério da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 2 de Abril de 1979.**
+Promulgado em 2 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

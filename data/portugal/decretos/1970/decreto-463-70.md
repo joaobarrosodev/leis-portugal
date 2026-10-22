@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f0a7d77c59bfa5f8e800610f4ca97019d6b6abd30005cb98c3ee6370d3fce7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0716cfc965161f5d1ce12d41338a3d0c5aa7935b6eb2321644c85cf5c48bcef4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:541460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693413:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:34Z'
   warnings: []
   errors: []
 ---
@@ -100,113 +112,113 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulga o seguinte:
 
-###### Artigo 1.º Os Institutos de Investigação Científica de Angola e Moçambique regem-se pelo regulamento aprovado pelo presente decreto, que dele faz parte integrante e segue assinado pelo Ministro do Ultramar.
+Artigo 1.º Os Institutos de Investigação Científica de Angola e Moçambique regem-se pelo regulamento aprovado pelo presente decreto, que dele faz parte integrante e segue assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º Os Institutos dependem do Ministro do Ultramar, por intermédio dos Governos-Gerais e da Junta de Investigações do Ultramar.
+Art. 2.º Os Institutos dependem do Ministro do Ultramar, por intermédio dos Governos-Gerais e da Junta de Investigações do Ultramar.
 
-###### Art. 3.º - 1. Cada Instituto será dirigido por um director, nomeado nos termos do artigo 15.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963.
+Art. 3.º - 1. Cada Instituto será dirigido por um director, nomeado nos termos do artigo 15.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963.
 
 2. Os directores dos Institutos desempenharão tais funções em acumulação com as que exercerem no corpo docente da Universidade.
 
 3. A acumulação do cargo de director do Instituto é remunerada nos termos do artigo 60.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 4.º Cada Instituto terá um conselho de direcção, que coadjuvará o director, será por ele presidido e de que farão parte o subdirector, os chefes dos departamentos e o adjunto administrativo, secretário do conselho.
+Art. 4.º Cada Instituto terá um conselho de direcção, que coadjuvará o director, será por ele presidido e de que farão parte o subdirector, os chefes dos departamentos e o adjunto administrativo, secretário do conselho.
 
-###### Art. 5.º Os Institutos poderão criar e manter núcleos, estações, centros, museus, arquivos, bibliotecas, aquários e jardins, botânicos e zoológicos, em diversas localidades da província.
+Art. 5.º Os Institutos poderão criar e manter núcleos, estações, centros, museus, arquivos, bibliotecas, aquários e jardins, botânicos e zoológicos, em diversas localidades da província.
 
-###### Art. 6.º Os Institutos serão dotados no orçamento da respectiva província, gozarão de autonomia administrativa e financeira e constituirão pessoas jurídicas, com capacidade para aquisição e alienação de bens, nos termos da lei.
+Art. 6.º Os Institutos serão dotados no orçamento da respectiva província, gozarão de autonomia administrativa e financeira e constituirão pessoas jurídicas, com capacidade para aquisição e alienação de bens, nos termos da lei.
 
-###### Art. 7.º Os Institutos apresentarão, até 31 de Março de cada ano, ao Ministério do Ultramar, por intermédio dos Governos-Gerais, relatório circunstanciado dos serviços realizados no ano anterior e o plano de trabalhos para o seguinte, que serão submetidos a despacho com parecer, sugestões ou propostas da Junta de Investigações do Ultramar.
+Art. 7.º Os Institutos apresentarão, até 31 de Março de cada ano, ao Ministério do Ultramar, por intermédio dos Governos-Gerais, relatório circunstanciado dos serviços realizados no ano anterior e o plano de trabalhos para o seguinte, que serão submetidos a despacho com parecer, sugestões ou propostas da Junta de Investigações do Ultramar.
 
-###### Art. 8.º - 1. Os Institutos submeterão à apreciação da Junta de Investigações do Ultramar todas as propostas de provimento, promoção, renovação ou rescisão de contratos do respectivo pessoal científico, bem como as de concessão de bolsas de estudo e subsídios para investigação.
+Art. 8.º - 1. Os Institutos submeterão à apreciação da Junta de Investigações do Ultramar todas as propostas de provimento, promoção, renovação ou rescisão de contratos do respectivo pessoal científico, bem como as de concessão de bolsas de estudo e subsídios para investigação.
 
 2. A Junta de Investigações do Ultramar cooperará, de acordo com as necessidades dos Institutos, na preparação do pessoal a eles destinados.
 
-###### Art. 9.º Os actuais directores dos Institutos de Investigação Científica de Angola e Moçambique transitarão para os lugares da mesma designação, sem dependência de quaisquer formalidades, na forma de provimento em que actualmente se encontram e conservando todos os direitos adquiridos.
+Art. 9.º Os actuais directores dos Institutos de Investigação Científica de Angola e Moçambique transitarão para os lugares da mesma designação, sem dependência de quaisquer formalidades, na forma de provimento em que actualmente se encontram e conservando todos os direitos adquiridos.
 
-###### Art. 10.º Os actuais adjuntos administrativos transitarão para o lugar de adjunto administrativo, sem dependência de quaisquer formalidades.
+Art. 10.º Os actuais adjuntos administrativos transitarão para o lugar de adjunto administrativo, sem dependência de quaisquer formalidades.
 
-###### Art. 11.º Os actuais estagiários dos Institutos transitarão para o novo quadro na categoria de assistentes estagiários, contando o tempo de serviço prestado para os efeitos dos artigos 19.º e 22.º do Regulamento anexo.
+Art. 11.º Os actuais estagiários dos Institutos transitarão para o novo quadro na categoria de assistentes estagiários, contando o tempo de serviço prestado para os efeitos dos artigos 19.º e 22.º do Regulamento anexo.
 
-###### Art. 12.º Os actuais terceiros-assistentes, se tiverem boas informações de serviço, transitarão para o novo quadro na categoria de segundo-assistente.
+Art. 12.º Os actuais terceiros-assistentes, se tiverem boas informações de serviço, transitarão para o novo quadro na categoria de segundo-assistente.
 
-###### Art. 13.º - 1. Os actuais segundos-assistentes transitarão para o novo quadro na categoria de segundo-assistente.
+Art. 13.º - 1. Os actuais segundos-assistentes transitarão para o novo quadro na categoria de segundo-assistente.
 
 2. Idêntico procedimento será adoptado para os contratados fora do quadro com expressa equiparação a segundo-assistente.
 
-###### Art. 14.º - 1. Os actuais primeiros-assistentes transitarão para o novo quadro na categoria de primeiro-assistente, se houverem sido observadas no seu provimento as disposições do artigo 27.º do Regulamento anexo. Caso contrário, transitarão na categoria de segundo-assistente e na situação de nomeados, contando, para efeito do n.º 1.º do artigo 24.º, o tempo de serviço prestado.
+Art. 14.º - 1. Os actuais primeiros-assistentes transitarão para o novo quadro na categoria de primeiro-assistente, se houverem sido observadas no seu provimento as disposições do artigo 27.º do Regulamento anexo. Caso contrário, transitarão na categoria de segundo-assistente e na situação de nomeados, contando, para efeito do n.º 1.º do artigo 24.º, o tempo de serviço prestado.
 
 2. O disposto na parte final do número anterior é aplicável aos contratados fora do quadro com expressa equiparação a primeiro-assistente.
 
-###### Art. 15.º - 1. Os actuais investigadores transitarão para o novo quadro na categoria de investigador, se houverem sido observadas no seu provimento as disposições do artigo 27.º do Regulamento anexo. Caso contrário, transitarão na categoria de primeiro-assistente, contando, para o efeito do n.º 1.º do artigo 25.º, o tempo de serviço prestado.
+Art. 15.º - 1. Os actuais investigadores transitarão para o novo quadro na categoria de investigador, se houverem sido observadas no seu provimento as disposições do artigo 27.º do Regulamento anexo. Caso contrário, transitarão na categoria de primeiro-assistente, contando, para o efeito do n.º 1.º do artigo 25.º, o tempo de serviço prestado.
 
 2. O preceito da parte final do número anterior é aplicável aos actuais contratados fora do quadro com expressa equiparação a investigador.
 
-###### Art. 16.º Os actuais praticantes de 2.ª classe com mais de cinco anos de bons serviços ou com o 2.º ciclo do ensino liceal ou equivalente e os actuais praticantes de 1.ª classe transitarão para o novo quadro na categoria de praticantes, observado o disposto no artigo 26.º
+Art. 16.º Os actuais praticantes de 2.ª classe com mais de cinco anos de bons serviços ou com o 2.º ciclo do ensino liceal ou equivalente e os actuais praticantes de 1.ª classe transitarão para o novo quadro na categoria de praticantes, observado o disposto no artigo 26.º
 
-###### Art. 17.º Os actuais ajudantes técnicos de 1.ª classe transitarão para o novo quadro na categoria de ajudantes técnicos e os de 2.ª classe na categoria de auxiliares técnicos, observado o disposto no artigo 26.º
+Art. 17.º Os actuais ajudantes técnicos de 1.ª classe transitarão para o novo quadro na categoria de ajudantes técnicos e os de 2.ª classe na categoria de auxiliares técnicos, observado o disposto no artigo 26.º
 
-###### Art. 18.º Os actuais assistentes técnicos de 1.ª classe transitarão para o novo quadro na categoria de adjuntos técnicos e os de 2.ª classe na categoria de assistentes técnicos, observado o disposto no artigo 26.º
+Art. 18.º Os actuais assistentes técnicos de 1.ª classe transitarão para o novo quadro na categoria de adjuntos técnicos e os de 2.ª classe na categoria de assistentes técnicos, observado o disposto no artigo 26.º
 
-###### Art. 19.º Os actuais auxiliares de investigador de 1.ª e 2.ª classes transitarão para o novo quadro na categoria de adjuntos de investigação, observado o disposto no artigo 26.º
+Art. 19.º Os actuais auxiliares de investigador de 1.ª e 2.ª classes transitarão para o novo quadro na categoria de adjuntos de investigação, observado o disposto no artigo 26.º
 
-###### Art. 20.º - 1. O pessoal administrativo, o pessoal dos serviços gerais e o pessoal técnico auxiliar contratado fora do quadro, que actualmente preste serviço nos Institutos, ingressará nos respectivos novos quadros na categoria que possui actualmente, sem dependência de quaisquer formalidades.
+Art. 20.º - 1. O pessoal administrativo, o pessoal dos serviços gerais e o pessoal técnico auxiliar contratado fora do quadro, que actualmente preste serviço nos Institutos, ingressará nos respectivos novos quadros na categoria que possui actualmente, sem dependência de quaisquer formalidades.
 
 2. Quando nos novos quadros não exista lugar da categoria presentemente possuída, os funcionários ingressarão na categoria imediatamente superior.
 
-###### Art. 21.º Os actuais chefes de secretaria transitarão para o lugar de chefe de secção de pessoal, expediente e arquivo, sem dependência de quaisquer formalidades.
+Art. 21.º Os actuais chefes de secretaria transitarão para o lugar de chefe de secção de pessoal, expediente e arquivo, sem dependência de quaisquer formalidades.
 
-###### Art. 22.º Os actuais auxiliares de administração de 1.ª e 2.ª classes transitarão para as categorias de escriturários-dactilógrafos de 1.ª e 2.ª classes, respectivamente, sem dependência de quaisquer formalidades.
+Art. 22.º Os actuais auxiliares de administração de 1.ª e 2.ª classes transitarão para as categorias de escriturários-dactilógrafos de 1.ª e 2.ª classes, respectivamente, sem dependência de quaisquer formalidades.
 
-###### Art. 23.º O funcionário que presentemente desempenha as funções de fiel de armazém no Instituto de Investigação Científica de Moçambique transita, sem dependência de quaisquer formalidades, para o lugar de fiel de armazém do mesmo Instituto, previsto no quadro V do Regulamento anexo.
+Art. 23.º O funcionário que presentemente desempenha as funções de fiel de armazém no Instituto de Investigação Científica de Moçambique transita, sem dependência de quaisquer formalidades, para o lugar de fiel de armazém do mesmo Instituto, previsto no quadro V do Regulamento anexo.
 
-###### Art. 24.º O lugar de chefe do Centro de Cálculo Científico e Mecanográfico do Instituto de Investigação Científica de Angola será desempenhado, em primeiro provimento, pelo engenheiro-chefe (geógrafo) do quadro n.º 1 da Junta Autónoma de Estradas de Angola que presentemente dirige o Grupo de Cálculo Automático da mesma Junta, o qual transitará para o quadro de pessoal técnico superior do Instituto de Investigação Científica na categoria de especialista superior.
+Art. 24.º O lugar de chefe do Centro de Cálculo Científico e Mecanográfico do Instituto de Investigação Científica de Angola será desempenhado, em primeiro provimento, pelo engenheiro-chefe (geógrafo) do quadro n.º 1 da Junta Autónoma de Estradas de Angola que presentemente dirige o Grupo de Cálculo Automático da mesma Junta, o qual transitará para o quadro de pessoal técnico superior do Instituto de Investigação Científica na categoria de especialista superior.
 
-###### Art. 25.º O pessoal técnico especializado actualmente afecto a actividades de cálculo científico e mecanográfico em outros serviços provinciais poderá ser mandado transitar para o Centro de Cálculo Científico e Mecanográfico do Instituto de Investigação Científica, por despacho do Ministro ou do governador-geral, conforme se trate de pessoal pertencente ao quadro comum ou ao quadro privativo, sendo colocado na categoria cujo vencimento corresponda ou mais se aproxime da remuneração que actualmente aufira.
+Art. 25.º O pessoal técnico especializado actualmente afecto a actividades de cálculo científico e mecanográfico em outros serviços provinciais poderá ser mandado transitar para o Centro de Cálculo Científico e Mecanográfico do Instituto de Investigação Científica, por despacho do Ministro ou do governador-geral, conforme se trate de pessoal pertencente ao quadro comum ou ao quadro privativo, sendo colocado na categoria cujo vencimento corresponda ou mais se aproxime da remuneração que actualmente aufira.
 
-###### Art. 26.º Os funcionários referidos nos artigos 16.º, 17.º, 18.º e 19.º transitarão para os novos lugares na situação de contratados, só ingressando no quadro permanente depois de cumpridas as disposições dos n.os 1 e 2 do artigo 37.º do Regulamento anexo.
+Art. 26.º Os funcionários referidos nos artigos 16.º, 17.º, 18.º e 19.º transitarão para os novos lugares na situação de contratados, só ingressando no quadro permanente depois de cumpridas as disposições dos n.os 1 e 2 do artigo 37.º do Regulamento anexo.
 
-###### Art. 27.º Ao pessoal que transita para os novos quadros, anexos ao Regulamento aprovado pelo presente diploma, será contado, para todos os efeitos legais, incluindo os de recondução, nomeação definitiva e promoção, o tempo de serviço prestado nos Institutos como contratado, interino ou assalariado permanente e eventual.
+Art. 27.º Ao pessoal que transita para os novos quadros, anexos ao Regulamento aprovado pelo presente diploma, será contado, para todos os efeitos legais, incluindo os de recondução, nomeação definitiva e promoção, o tempo de serviço prestado nos Institutos como contratado, interino ou assalariado permanente e eventual.
 
-###### Art. 28.º - 1. A transição do pessoal do quadro comum ou equiparado para os novos quadros far-se-á mediante relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo, e sem dependência de quaisquer outras formalidades.
+Art. 28.º - 1. A transição do pessoal do quadro comum ou equiparado para os novos quadros far-se-á mediante relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo, e sem dependência de quaisquer outras formalidades.
 
 2. A transição do pessoal dos quadros privativos ou equiparado far-se-á mediante relação nominal constante de portaria do Governo da província, anotada pelo Tribunal Administrativo e publicada no Boletim Oficial, e sem dependência de quaisquer outras formalidades.
 
 3. O actual pessoal assalariado que deva permanecer na mesma condição transitará para os novos quadros mediante simples despacho do governador-geral, publicado no Boletim Oficial.
 
-###### Art. 29.º Ao pessoal dos Institutos que não satisfaça as condições fixadas para a transição para os novos quadros será assegurada a situação de contratado fora do quadro, na categoria que possua à data da publicação do presente diploma e pelo tempo que durar o impedimento.
+Art. 29.º Ao pessoal dos Institutos que não satisfaça as condições fixadas para a transição para os novos quadros será assegurada a situação de contratado fora do quadro, na categoria que possua à data da publicação do presente diploma e pelo tempo que durar o impedimento.
 
-###### Art. 30.º Até serem publicadas as portarias e despachos a que se refere o artigo 28.º, o pessoal dos Institutos de Investigação Científica de Angola e Moçambique manter-se-á nos seus actuais lugares, continuando a ser remunerado por conta das verbas que até aqui suportaram os respectivos encargos.
+Art. 30.º Até serem publicadas as portarias e despachos a que se refere o artigo 28.º, o pessoal dos Institutos de Investigação Científica de Angola e Moçambique manter-se-á nos seus actuais lugares, continuando a ser remunerado por conta das verbas que até aqui suportaram os respectivos encargos.
 
-###### Art. 31.º Se da transição para os novos quadros resultar para alguns agentes diminuição de vencimento ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para que transitarem, os seus actuais vencimentos e outras regalias inerentes.
+Art. 31.º Se da transição para os novos quadros resultar para alguns agentes diminuição de vencimento ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para que transitarem, os seus actuais vencimentos e outras regalias inerentes.
 
-###### Art. 32.º O pessoal auxiliar não relacionado no Regulamento anexo, tal coma o pessoal de campo e outro, será assalariado, observando-se o disposto no Estatuto do Funcionalismo Ultramarino.
+Art. 32.º O pessoal auxiliar não relacionado no Regulamento anexo, tal coma o pessoal de campo e outro, será assalariado, observando-se o disposto no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 33.º - 1. Fica desde já integrado no Instituto de Investigação Científica de Angola, com todo o seu material, aparelhagem, equipamento e mais bens materiais, o Grupo de Cálculo Automático da Junta Autónoma de Estradas de Angola.
+Art. 33.º - 1. Fica desde já integrado no Instituto de Investigação Científica de Angola, com todo o seu material, aparelhagem, equipamento e mais bens materiais, o Grupo de Cálculo Automático da Junta Autónoma de Estradas de Angola.
 
 2. O contrato de arrendamento das máquinas em serviço do Grupo de Cálculo Automático da Junta Autónoma de Estradas de Angola passará, cumpridas as formalidades legais, para a responsabilidade do Instituto de Investigação Científica de Angola, que poderá propor a sua alteração, denúncia ou rescisão, nos termos de direito.
 
 3. Igual transferência de inventário e responsabilidades poderá ser determinada em relação a outros serviços provinciais pelos governadores-gerais de Angola ou de Moçambique com vista à melhor realização dos objectivos fixados nos artigos 87.º a 89.º do Regulamento anexo.
 
-###### Art. 34.º Os órgãos legislativos da província, expedirão os diplomas necessários ao cumprimento das atribuições conferidas ao Centro de Cálculo Científico e Mecanográfico pelo Regulamento anexo.
+Art. 34.º Os órgãos legislativos da província, expedirão os diplomas necessários ao cumprimento das atribuições conferidas ao Centro de Cálculo Científico e Mecanográfico pelo Regulamento anexo.
 
-###### Art. 35.º Até cento e vinte dias, contados a partir da data de entrada em vigor do presente diploma, o director do Instituto de Investigação Científica de Angola submeterá à aprovação do respectivo governador-geral os projectos de regulamento interno dos Centros de Documentação Científica e de Cálculo Científico e Mecanográfico.
+Art. 35.º Até cento e vinte dias, contados a partir da data de entrada em vigor do presente diploma, o director do Instituto de Investigação Científica de Angola submeterá à aprovação do respectivo governador-geral os projectos de regulamento interno dos Centros de Documentação Científica e de Cálculo Científico e Mecanográfico.
 
-###### Art. 36.º São isentos de direitos e outras imposições aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, material de acampamento, automóveis, sobresselentes e acessórios, combustíveis e lubrificantes, armas e munições e quaisquer outros materiais ou artigos que os Institutos importarem e que se destinem aos seus serviços e aos trabalhos que deverão executar.
+Art. 36.º São isentos de direitos e outras imposições aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, material de acampamento, automóveis, sobresselentes e acessórios, combustíveis e lubrificantes, armas e munições e quaisquer outros materiais ou artigos que os Institutos importarem e que se destinem aos seus serviços e aos trabalhos que deverão executar.
 
-###### Art. 37.º São extintos os lugares discriminados nos quadros I, II e III anexos ao [Decreto n.º 41029](https://diariodarepublica.pt/dr/detalhe/decreto/41029-1957-654312), de 15 de Março de 1957, e os criados por legislação complementar subsequente.
+Art. 37.º São extintos os lugares discriminados nos quadros I, II e III anexos ao [Decreto n.º 41029](https://diariodarepublica.pt/dr/detalhe/decreto/41029-1957-654312), de 15 de Março de 1957, e os criados por legislação complementar subsequente.
 
-###### Art. 38.º - 1. Depois de efectuada, segundo os preceitos do presente decreto, a colocação dos servidores actuais dos Institutos nos diferentes quadros de pessoal, o número de unidades em cada uma das categorias dos mesmos constantes será fixado pelos órgãos legislativos provinciais de harmonia com a evolução das necessidades dos Institutos.
+Art. 38.º - 1. Depois de efectuada, segundo os preceitos do presente decreto, a colocação dos servidores actuais dos Institutos nos diferentes quadros de pessoal, o número de unidades em cada uma das categorias dos mesmos constantes será fixado pelos órgãos legislativos provinciais de harmonia com a evolução das necessidades dos Institutos.
 
 2. O preenchimento dos lugares que venham a ser criados efectuar-se-á à medida que forem orçamentadas as verbas respectivas, ficando os governadores-gerais autorizados a abrir os créditos necessários à execução do que se estabelece no presente diploma, dentro das disponibilidades das províncias.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Setembro de 1970.**
+Promulgado em 14 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.
 
@@ -214,7 +226,7 @@ REGULAMENTO DOS INSTITUTOS DE INVESTIGAÇÃO CIENTÍFICA DE ANGOLA E MOÇAMBIQUE
 
 ### CAPÍTULO I — Das atribuições e competência
 
-###### Artigo 1.º São atribuições dos Institutos de Investigação Científica de Angola e Moçambique:
+Artigo 1.º São atribuições dos Institutos de Investigação Científica de Angola e Moçambique:
 
 1.º Concorrer para o progresso da Ciência por meio da investigação científica e ampliar por todas as formas o conhecimento do meio físico, biológico e humano;
 
@@ -222,9 +234,9 @@ REGULAMENTO DOS INSTITUTOS DE INVESTIGAÇÃO CIENTÍFICA DE ANGOLA E MOÇAMBIQUE
 
 3.º Fomentar a cultura das populações.
 
-###### Art. 2.º Os Institutos exercem a sua actividade principalmente no domínio das ciências geográficas, geofísicas, geológicas, biológicas e humanas.
+Art. 2.º Os Institutos exercem a sua actividade principalmente no domínio das ciências geográficas, geofísicas, geológicas, biológicas e humanas.
 
-###### Art. 3.º Para a realização das suas atribuições, compete aos Institutos de Investigação Científica:
+Art. 3.º Para a realização das suas atribuições, compete aos Institutos de Investigação Científica:
 
 1.º Criar e manter as bases de investigação e os respectivos serviços necessários ao bom funcionamento deles;
 
@@ -274,7 +286,7 @@ REGULAMENTO DOS INSTITUTOS DE INVESTIGAÇÃO CIENTÍFICA DE ANGOLA E MOÇAMBIQUE
 
 ### CAPÍTULO II — Da organização
 
-###### Art. 4.º - 1. Cada um dos Institutos de Investigação Científica de Angola e Moçambique compreenderá, além da direcção, os seguintes departamentos:
+Art. 4.º - 1. Cada um dos Institutos de Investigação Científica de Angola e Moçambique compreenderá, além da direcção, os seguintes departamentos:
 
 1.º Departamento dos serviços centrais;
 
@@ -298,13 +310,13 @@ REGULAMENTO DOS INSTITUTOS DE INVESTIGAÇÃO CIENTÍFICA DE ANGOLA E MOÇAMBIQUE
 
 6. A regulamentação interna de cada departamento será elaborada pelos Institutos e aprovada pelo Governo-Geral da respectiva província.
 
-###### Art. 5.º - 1. O departamento dos serviços centrais será chefiado pelo director do Instituto, que poderá delegar essa função, no todo ou em parte, no subdirector.
+Art. 5.º - 1. O departamento dos serviços centrais será chefiado pelo director do Instituto, que poderá delegar essa função, no todo ou em parte, no subdirector.
 
 2. O centro de cálculo científico e mecanográfico será chefiado por um especialista superior, do quadro técnico superior do Instituto, e os restantes por um membro do respectivo pessoal científico. As chefias serão exercidas em comissão ordinária de serviço, proposta pelo director.
 
 3. Aos chefes dos departamentos será atribuída uma gratificação pelo exercício da chefia, constante do quadro VI anexo a este regulamento.
 
-###### Art. 6.º - 1. Os núcleos, estações, centros, museus, arquivos, bibliotecas, aquários, jardins botânicos e zoológicos funcionarão sob a égide de um ou mais dos departamentos referidos no artigo 4.º
+Art. 6.º - 1. Os núcleos, estações, centros, museus, arquivos, bibliotecas, aquários, jardins botânicos e zoológicos funcionarão sob a égide de um ou mais dos departamentos referidos no artigo 4.º
 
 2. A direcção de cada estabelecimento referido no número anterior será exercida, em comissão ordinária de serviço, por um membro do pessoal do Instituto, proposto pelo director de entre os funcionários mais qualificados para a respectiva finalidade.
 
@@ -314,17 +326,17 @@ REGULAMENTO DOS INSTITUTOS DE INVESTIGAÇÃO CIENTÍFICA DE ANGOLA E MOÇAMBIQUE
 
 ### CAPÍTULO III — Da direcção
 
-###### Art. 7.º - 1. Os directores serão coadjuvados por um subdirector e por um adjunto administrativo.
+Art. 7.º - 1. Os directores serão coadjuvados por um subdirector e por um adjunto administrativo.
 
 2. Pelo exercício das suas funções os directores perceberão a gratificação fixada no quadro VI anexo.
 
-###### Art. 8.º - 1. O subdirector será nomeado, em comissão ordinária de serviço, por proposta do director, de entre os investigadores do Instituto.
+Art. 8.º - 1. O subdirector será nomeado, em comissão ordinária de serviço, por proposta do director, de entre os investigadores do Instituto.
 
 2. O subdirector perceberá a gratificação constante do quadro VI anexo.
 
-###### Art. 9.º O adjunto administrativo será nomeado, por proposta do director do Instituto, de entre os indivíduos licenciados em Direito, em Ciências Económicas e Financeiras, em Finanças ou Economia ou em Ciências Sociais e Política Ultramarina e exercerá o lugar em comissão de serviço.
+Art. 9.º O adjunto administrativo será nomeado, por proposta do director do Instituto, de entre os indivíduos licenciados em Direito, em Ciências Económicas e Financeiras, em Finanças ou Economia ou em Ciências Sociais e Política Ultramarina e exercerá o lugar em comissão de serviço.
 
-###### Art. 10.º - 1. Ao director compete:
+Art. 10.º - 1. Ao director compete:
 
 1.º Superintender na administração do Instituto;
 
@@ -362,7 +374,7 @@ REGULAMENTO DOS INSTITUTOS DE INVESTIGAÇÃO CIENTÍFICA DE ANGOLA E MOÇAMBIQUE
 
 2. Nos termos da lei geral, o director poderá delegar alguma ou algumas das suas competências no subdirector.
 
-###### Art. 11.º Ao conselho de direcção compete:
+Art. 11.º Ao conselho de direcção compete:
 
 1.º Dar parecer sobre:
 
@@ -396,13 +408,13 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 4.º Tomar conhecimento dos trabalhos em curso, mediante exposições feitas pelos chefes dos respectivos departamentos ou pelos directos responsáveis.
 
-###### Art. 12.º - 1. Nas reuniões do conselho de direcção podem tomar parte, sem direito a voto, membros do pessoal científico ou técnico superior do Instituto, quando o director o julgar conveniente.
+Art. 12.º - 1. Nas reuniões do conselho de direcção podem tomar parte, sem direito a voto, membros do pessoal científico ou técnico superior do Instituto, quando o director o julgar conveniente.
 
 2. O director poderá convocar, para serem ouvidas pelo conselho ou lhe prestarem esclarecimento, quaisquer outras entidades, alheias ou não aos serviços ou trabalhos do Instituto.
 
-###### Art. 13.º A acta de cada uma das sessões do conselho será elaborada pelo respectivo secretário e aprovada pelos participantes com direito a voto. Aos participantes sem direito a voto fica ressalvado o direito de fazerem exarar declaração, circunscrita à intervenção que tenham tido nos trabalhos.
+Art. 13.º A acta de cada uma das sessões do conselho será elaborada pelo respectivo secretário e aprovada pelos participantes com direito a voto. Aos participantes sem direito a voto fica ressalvado o direito de fazerem exarar declaração, circunscrita à intervenção que tenham tido nos trabalhos.
 
-###### Art. 14.º Ao subdirector compete:
+Art. 14.º Ao subdirector compete:
 
 1.º A chefia do departamento dos serviços centrais, quando lhe seja delegada pelo director;
 
@@ -412,7 +424,7 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 4.º Tomar parte nas sessões do conselho de direcção e do conselho administrativo.
 
-###### Art. 15.º Compete aos chefes dos departamentos referidos no artigo 4.º e aos directores dos estabelecimentos referidos no artigo 6.º deste Regulamento:
+Art. 15.º Compete aos chefes dos departamentos referidos no artigo 4.º e aos directores dos estabelecimentos referidos no artigo 6.º deste Regulamento:
 
 1.º Cooperar com o director na orientação dos departamentos ou serviços por que são responsáveis, superintendendo nas respectivas divisões e secções;
 
@@ -424,21 +436,21 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 ### CAPÍTULO IV — Do pessoal científico e técnico superior
 
-###### Art. 16.º O pessoal científico dos Institutos de Investigação Científica de Angola e Moçambique compreende, além do director, o subdirector, investigadores, primeiros-assistentes, segundos-assistentes e assistentes estagiários, segundo o quadro I anexo ao presente diploma.
+Art. 16.º O pessoal científico dos Institutos de Investigação Científica de Angola e Moçambique compreende, além do director, o subdirector, investigadores, primeiros-assistentes, segundos-assistentes e assistentes estagiários, segundo o quadro I anexo ao presente diploma.
 
-###### Art. 17.º O pessoal científico e técnico superior dos Institutos, com excepção do director, será nomeado ou contratado, nos termos do Estatuto do Funcionalismo Ultramarino, pelo Ministro do Ultramar, sob proposta do director do Instituto, ouvida a Junta de Investigações do Ultramar.
+Art. 17.º O pessoal científico e técnico superior dos Institutos, com excepção do director, será nomeado ou contratado, nos termos do Estatuto do Funcionalismo Ultramarino, pelo Ministro do Ultramar, sob proposta do director do Instituto, ouvida a Junta de Investigações do Ultramar.
 
-###### Art. 18.º Na admissão do pessoal científico e técnico superior, além das condições especiais previstas para cada categoria, observar-se-ão também as normas gerais para admissão nos serviços públicos, excepto a respeitante ao limite máximo de idade, cuja observância poderá ser dispensada em casos devidamente fundamentados, de especial interesse para a investigação.
+Art. 18.º Na admissão do pessoal científico e técnico superior, além das condições especiais previstas para cada categoria, observar-se-ão também as normas gerais para admissão nos serviços públicos, excepto a respeitante ao limite máximo de idade, cuja observância poderá ser dispensada em casos devidamente fundamentados, de especial interesse para a investigação.
 
-###### Art. 19.º - 1. Os assistentes estagiários são contratados pelo prazo improrrogável de vinte e quatro meses, podendo, no entanto, após decorridos doze meses, se houverem revelado aptidão para a investigação, ser contratados na categoria de segundo-assistente.
+Art. 19.º - 1. Os assistentes estagiários são contratados pelo prazo improrrogável de vinte e quatro meses, podendo, no entanto, após decorridos doze meses, se houverem revelado aptidão para a investigação, ser contratados na categoria de segundo-assistente.
 
 2. Aos assistentes estagiários que, ao fim de dezoito meses, não revelem aptidão para prosseguir a carreira de investigador ser-lhes-á notificado o facto dentro dos trinta dias seguintes, podendo, porém, manter-se ao serviço até ao termo dos respectivos contratos.
 
-###### Art. 20.º Podem ser contratados como assistentes estagiários os indivíduos licenciados ou diplomados com curso superior que, pela apreciação do relatório final do curso, da tese de licenciatura, do curriculum ou de outras informações, se presumam capazes de seguir uma carreira científica.
+Art. 20.º Podem ser contratados como assistentes estagiários os indivíduos licenciados ou diplomados com curso superior que, pela apreciação do relatório final do curso, da tese de licenciatura, do curriculum ou de outras informações, se presumam capazes de seguir uma carreira científica.
 
-###### Art. 21.º Os segundos-assistentes serão contratados pelo prazo de um ano, renovável por períodos iguais até ao máximo de três anos, findos os quais ou serão nomeados para o quadro científico do Instituto, ou cessarão funções.
+Art. 21.º Os segundos-assistentes serão contratados pelo prazo de um ano, renovável por períodos iguais até ao máximo de três anos, findos os quais ou serão nomeados para o quadro científico do Instituto, ou cessarão funções.
 
-###### Art. 22.º Podem ser contratados como segundos-assistentes:
+Art. 22.º Podem ser contratados como segundos-assistentes:
 
 1.º Os assistentes estagiários dos Institutos com dezoito meses nessa categoria, com boas informações de serviço;
 
@@ -446,9 +458,9 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 3.º Os licenciados ou diplomados com um curso superior com mais de três anos de trabalhos de investigação que apresentem um curriculum que justifique o contrato.
 
-###### Art. 23.º O provimento dos lugares de primeiro-assistente e de investigador será feito por nomeação para o quadro científico do Instituto.
+Art. 23.º O provimento dos lugares de primeiro-assistente e de investigador será feito por nomeação para o quadro científico do Instituto.
 
-###### Art. 24.º Podem ser nomeados primeiros-assistentes:
+Art. 24.º Podem ser nomeados primeiros-assistentes:
 
 1.º Os segundos-assistentes licenciados dos Institutos com, pelo menos, dois anos de bons serviços nessa categoria que apresentem um curriculum do qual conste uma publicação de nível idêntico ao exigido de uma tese de doutoramento;
 
@@ -456,7 +468,7 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 3.º Os licenciados com, pelo menos, seis anos de trabalhos de investigação que apresentem um curriculum do qual conste uma publicação de nível idêntico ao exigido de uma tese de doutoramento.
 
-###### Art. 25.º Podem ser nomeados investigadores:
+Art. 25.º Podem ser nomeados investigadores:
 
 1.º Os primeiros-assistentes dos Institutos com mais de três anos de bons serviços nessa categoria que apresentem curriculum científico do qual conste uma publicação de índole e nível idênticos aos exigidos da dissertação para a obtenção do título de professor agregado das Universidades;
 
@@ -464,7 +476,7 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 3.º Os licenciados por Universidades portuguesas ou estrangeiras com mais de dez anos de trabalhos de investigação, que apresentem informações idóneas e um curriculum científico do qual constem duas publicações de índole e nível idênticos aos exigidos das teses de doutoramento ou das dissertações para obtenção de título de professor agregado das Universidades.
 
-###### Art. 26.º - 1. O quadro do pessoal técnico superior dos Institutos compreenderá especialistas superiores, especialistas, analistas, assistentes de especialistas, analistas-adjuntos, estagiários para especialistas, programadores e programadores-adjuntos, segundo os quadros II e II-A anexos.
+Art. 26.º - 1. O quadro do pessoal técnico superior dos Institutos compreenderá especialistas superiores, especialistas, analistas, assistentes de especialistas, analistas-adjuntos, estagiários para especialistas, programadores e programadores-adjuntos, segundo os quadros II e II-A anexos.
 
 2. As categorias funcionais referidas no número que antecede serão providas em indivíduos com cursos universitários e especialização apropriada à prestação de serviços de apoio às diferentes actividades dos Institutos, salvo quanto às categorias de programador e programador-adjunto, que, quando tal se impuser, poderão ser providas, em condições a fixar no regulamento interno do centro de cálculo científico e mecanográfico, em técnicos altamente especializados em cálculo científico e mecanográfico, de comprovada e reconhecida competência profissional e com as habilitações literárias mínimas do 3.º ciclo liceal [alíneas f), g) e h)] ou equivalente.
 
@@ -474,7 +486,7 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 5. Os assistentes de especialista, analistas, analistas-adjuntos, programadores e programadores adjuntos com mais de três anos de contrato, reconhecida competência e boa folha de serviços poderão ser nomeados para o quadro dos Institutos.
 
-###### Art. 27.º - 1. As apreciações dos curricula e dos trabalhos para efeito de aplicação do disposto dos artigos 22.º, 24.º e 25.º serão feitas por, pelo menos, três individualidades para esse efeito nomeadas pelo Ministro do Ultramar, precedendo proposta do director do respectivo Instituto, com concordância da presidência da Junta de Investigações do Ultramar, de entre investigadores dos Institutos, professores catedráticos, professores extraordinários e professores agregados das Universidades, primeiros-assistentes dos Institutos, doutores ou ainda outros especialistas de reconhecida competência e de hierarquia igual ou superior à do lugar para que o candidato é proposto.
+Art. 27.º - 1. As apreciações dos curricula e dos trabalhos para efeito de aplicação do disposto dos artigos 22.º, 24.º e 25.º serão feitas por, pelo menos, três individualidades para esse efeito nomeadas pelo Ministro do Ultramar, precedendo proposta do director do respectivo Instituto, com concordância da presidência da Junta de Investigações do Ultramar, de entre investigadores dos Institutos, professores catedráticos, professores extraordinários e professores agregados das Universidades, primeiros-assistentes dos Institutos, doutores ou ainda outros especialistas de reconhecida competência e de hierarquia igual ou superior à do lugar para que o candidato é proposto.
 
 2. Os pareceres destas individualidades servirão de base e ficarão apensos à proposta de nomeação do candidato, a elaborar pelo director do Instituto, e que com os mesmos será publicada no Boletim Oficial da respectiva província.
 
@@ -482,7 +494,7 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 4. As nomeações a que se refere o n.º 1 serão feitas por despacho do Ministro do Ultramar, que, sob proposta fundamentada da Junta de Investigações, fixará os subsídios únicos a que terão direito as individualidades designadas pelo trabalho de apreciação que lhes seja cometido.
 
-###### Art. 28.º - 1. Os vencimentos e as gratificações do pessoal científico e técnico superior dos Institutos são os constantes dos quadros I, II e II-A anexos a este regulamento.
+Art. 28.º - 1. Os vencimentos e as gratificações do pessoal científico e técnico superior dos Institutos são os constantes dos quadros I, II e II-A anexos a este regulamento.
 
 2. Estas gratificações só são atribuíveis a pessoal que não exerça fora do Instituto qualquer outra actividade remunerada, quer oficial, quer particular.
 
@@ -490,17 +502,17 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 ### CAPÍTULO V — Do pessoal técnico auxiliar e técnico adjunto
 
-###### Art. 29.º - 1. Haverá em cada um dos Institutos pessoal técnico auxiliar, que cooperará com o pessoal científico, técnico superior, técnico adjunto e colaboradores científicos nas actividades dos diferentes serviços dos seus departamentos e na manutenção e operação do apetrechamento e da aparelhagem científica utilizados na investigação.
+Art. 29.º - 1. Haverá em cada um dos Institutos pessoal técnico auxiliar, que cooperará com o pessoal científico, técnico superior, técnico adjunto e colaboradores científicos nas actividades dos diferentes serviços dos seus departamentos e na manutenção e operação do apetrechamento e da aparelhagem científica utilizados na investigação.
 
 2. O pessoal técnico auxiliar compreenderá praticantes, operadores, auxiliares técnicos, catalogadores, monitores, ajudantes técnicos, ajudantes de documentalistas e codificadores, segundo os quadros III, III-A e III-B anexos.
 
 3. Os regulamentos internos do centro de documentação científica e do centro de cálculo científico e mecanográfico estabelecerão as condições de provimento do pessoal técnico auxiliar dos respectivos quadros, podendo o centro de cálculo científico e mecanográfico fixar prémios de rendimento a atribuir aos operadores.
 
-###### Art. 30.º O pessoal técnico auxiliar dos Institutos será nomeado ou contratado, observando-se o disposto no Estatuto do Funcionalismo Ultramarino, excepto no respeitante a limite máximo de idade, cuja observância poderá ser dispensada nos casos em que as necessidades dos Institutos e a especialização dos interessados o imponham.
+Art. 30.º O pessoal técnico auxiliar dos Institutos será nomeado ou contratado, observando-se o disposto no Estatuto do Funcionalismo Ultramarino, excepto no respeitante a limite máximo de idade, cuja observância poderá ser dispensada nos casos em que as necessidades dos Institutos e a especialização dos interessados o imponham.
 
-###### Art. 31.º Podem ser contratados como praticantes os indivíduos habilitados com o 2.º ciclo do ensino liceal ou equivalente, pelo período de um ano, renovável até ao máximo de três anos além do primeiro, findos os quais, tendo em atenção as informações de serviço, ou serão contratados na categoria de auxiliares técnicos ou cessarão funções.
+Art. 31.º Podem ser contratados como praticantes os indivíduos habilitados com o 2.º ciclo do ensino liceal ou equivalente, pelo período de um ano, renovável até ao máximo de três anos além do primeiro, findos os quais, tendo em atenção as informações de serviço, ou serão contratados na categoria de auxiliares técnicos ou cessarão funções.
 
-###### Art. 32.º - 1. Podem ser contratados como ajudantes técnicos, pelo período de um ano, renovável até ao máximo de três anos, além do primeiro:
+Art. 32.º - 1. Podem ser contratados como ajudantes técnicos, pelo período de um ano, renovável até ao máximo de três anos, além do primeiro:
 
 1.º Os auxiliares técnicos dos Institutos com dois anos de serviço nessa categoria, com boas informações de serviço;
 
@@ -516,15 +528,15 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 3. Os ajudantes técnicos contratados ao atingirem quatro anos de serviço nos Institutos, tendo em atenção as informações de serviço e o curriculum, ou serão nomeados para o quadro técnico dos Institutos ou cessarão funções.
 
-###### Art. 33.º - 1. O pessoal técnico adjunto coadjuvará directamente o pessoal científico e técnico superior e os colaboradores científicos na condução da investigação ou na criação, operação e manutenção do apetrechamento técnico e aparelhagem científica por aquela requeridos.
+Art. 33.º - 1. O pessoal técnico adjunto coadjuvará directamente o pessoal científico e técnico superior e os colaboradores científicos na condução da investigação ou na criação, operação e manutenção do apetrechamento técnico e aparelhagem científica por aquela requeridos.
 
 2. O pessoal técnico adjunto compreenderá assistentes técnicos, assistentes de documentalistas, codificadores-chefes, adjuntos técnicos, documentalistas-adjuntos, operadores de máquinas periféricas, adjuntos de investigação, documentalistas e operadores de computadores, segundo os quadros III, III-A e III-B anexos.
 
 3. Os regulamentos internos do centro de documentação científica e do centro de cálculo científico e mecanográfico estabelecerão as condições de provimento do pessoal técnico adjunto dos respectivos quadros.
 
-###### Art. 34.º Podem ser nomeados assistentes técnicos os ajudantes técnicos dos Institutos com mais de quatro anos de serviço nessa categoria, com boas informações de serviço e um curriculum que justifiquem a nomeação.
+Art. 34.º Podem ser nomeados assistentes técnicos os ajudantes técnicos dos Institutos com mais de quatro anos de serviço nessa categoria, com boas informações de serviço e um curriculum que justifiquem a nomeação.
 
-###### Art. 35.º - 1. Podem ser contratados como assistentes técnicos pelo período de um ano renovável até ao máximo de três anos para além do primeiro:
+Art. 35.º - 1. Podem ser contratados como assistentes técnicos pelo período de um ano renovável até ao máximo de três anos para além do primeiro:
 
 1.º Os regentes agrícolas e agentes técnicos com mais de quatro anos de experiência, com informações idóneas e um curriculum que justifiquem o contrato;
 
@@ -534,39 +546,39 @@ l) Quaisquer outros assuntos ou problemas respeitantes à vida do Instituto que 
 
 2. Os assistentes técnicos contratados ao atingirem quatro anos de serviço nos Institutos, tendo em atenção as informações de serviço e o curriculum, ou serão nomeados, para o quadro permanente dos Institutos ou cessarão funções.
 
-###### Art. 36.º - 1. Podem ser nomeados adjuntos técnicos os assistentes técnicos dos Institutos que tenham mais de quatro anos de serviço na categoria, boas informações de serviço e um curriculum que justifiquem a nomeação.
+Art. 36.º - 1. Podem ser nomeados adjuntos técnicos os assistentes técnicos dos Institutos que tenham mais de quatro anos de serviço na categoria, boas informações de serviço e um curriculum que justifiquem a nomeação.
 
 2. Podem ser nomeados adjuntos de investigação os adjuntos técnicos dos Institutos diplomados com um curso médio que tenham, pelo menos, dois anos de serviço na categoria, boas informações de serviço e um curriculum que justifique a nomeação.
 
-###### Art. 37.º - 1. A apreciação dos curricula, das informações, da competência e de mais elementos ou, eventualmente, de provas práticas ou teóricas que possam elucidar sobre o mérito do pessoal técnico auxiliar e adjunto para efeitos de contrato ou nomeação será feita por, pelo menos, três membros do pessoal científico ou técnico superior dos Institutos, de outros organismos congéneres ou da Universidade, para esse efeito designados ou convidados pelo director, que tiverem afinidades com as matérias ou especialidades do serviço para que o candidato é proposto e que tenham categoria igual ou superior à do lugar a prover.
+Art. 37.º - 1. A apreciação dos curricula, das informações, da competência e de mais elementos ou, eventualmente, de provas práticas ou teóricas que possam elucidar sobre o mérito do pessoal técnico auxiliar e adjunto para efeitos de contrato ou nomeação será feita por, pelo menos, três membros do pessoal científico ou técnico superior dos Institutos, de outros organismos congéneres ou da Universidade, para esse efeito designados ou convidados pelo director, que tiverem afinidades com as matérias ou especialidades do serviço para que o candidato é proposto e que tenham categoria igual ou superior à do lugar a prover.
 
 2. Os pareceres destas individualidades servirão de base à elaboração da proposta de admissão ou promoção a apresentar pelo director.
 
-###### Art. 38.º Os quadros do pessoal técnico adjunto e auxiliar serão fixados, de harmonia com as necessidades dos Institutos e sob proposta fundamentada dos directores, ouvido o conselho de direcção, por portaria dos Governos-Gerais.
+Art. 38.º Os quadros do pessoal técnico adjunto e auxiliar serão fixados, de harmonia com as necessidades dos Institutos e sob proposta fundamentada dos directores, ouvido o conselho de direcção, por portaria dos Governos-Gerais.
 
-###### Art. 39.º - 1. Os vencimentos e gratificações do pessoal técnico adjunto e auxiliar são os constantes dos quadros III, III-A e III-B anexos.
+Art. 39.º - 1. Os vencimentos e gratificações do pessoal técnico adjunto e auxiliar são os constantes dos quadros III, III-A e III-B anexos.
 
 2. Estas gratificações só serão atribuíveis a pessoal que não exerça fora do Instituto qualquer actividade remunerada, quer oficial, quer particular.
 
 ### CAPÍTULO VI — Dos colaboradores científicos ou técnicos - Do pessoal contratado fora do quadro
 
-###### Art. 40.º Além do pessoal científico, técnico superior, adjunto e auxiliar previsto neste Regulamento, poderá ser solicitada ou admitida a colaboração eventual de cientistas, técnicos e auxiliares, nacionais ou estrangeiros.
+Art. 40.º Além do pessoal científico, técnico superior, adjunto e auxiliar previsto neste Regulamento, poderá ser solicitada ou admitida a colaboração eventual de cientistas, técnicos e auxiliares, nacionais ou estrangeiros.
 
-###### Art. 41.º Às pessoas a que se refere o artigo anterior poderão ser atribuídos pelos Institutos subsídios e meios necessários, quer em pessoal, quer em material ou serviços, para a realização das investigações ou trabalhos para que sejam solicitados ou admitidos.
+Art. 41.º Às pessoas a que se refere o artigo anterior poderão ser atribuídos pelos Institutos subsídios e meios necessários, quer em pessoal, quer em material ou serviços, para a realização das investigações ou trabalhos para que sejam solicitados ou admitidos.
 
-###### Art. 42.º Aos membros do corpo docente da Universidade que cooperem efectivamente nos trabalhos de investigação do Instituto e que não exerçam qualquer outra actividade remunerada, pública ou particular, poderão ser atribuídos subsídios de investigação até ao limite mensal de 4000$00, que não serão acumuláveis com o subsídio a que se refere o § 2.º do artigo 12.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963.
+Art. 42.º Aos membros do corpo docente da Universidade que cooperem efectivamente nos trabalhos de investigação do Instituto e que não exerçam qualquer outra actividade remunerada, pública ou particular, poderão ser atribuídos subsídios de investigação até ao limite mensal de 4000$00, que não serão acumuláveis com o subsídio a que se refere o § 2.º do artigo 12.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963.
 
-###### Art. 43.º Os Institutos poderão, para execução de trabalhos especiais, contratar fora dos respectivos quadros pessoal especializado, nos termos do artigo 45.º, alínea c), do Estatuto do Funcionalismo Ultramarino.
+Art. 43.º Os Institutos poderão, para execução de trabalhos especiais, contratar fora dos respectivos quadros pessoal especializado, nos termos do artigo 45.º, alínea c), do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 44.º Os Institutos podem ainda subsidiar trabalhos em colaboração livre, mediante autorização do governador da província.
+Art. 44.º Os Institutos podem ainda subsidiar trabalhos em colaboração livre, mediante autorização do governador da província.
 
 ### CAPÍTULO VII — Do serviço administrativo - Do pessoal administrativo e dos serviços gerais
 
-###### Art. 45.º - 1. Haverá em cada Instituto de Investigação científica um serviço administrativo, incluído no departamento dos serviços centrais.
+Art. 45.º - 1. Haverá em cada Instituto de Investigação científica um serviço administrativo, incluído no departamento dos serviços centrais.
 
 2. O serviço administrativo compreenderá uma secção do pessoal, expediente e arquivo e uma secção de contabilidade.
 
-###### Art. 46.º Pelo serviço administrativo correrá todo o expediente relativo:
+Art. 46.º Pelo serviço administrativo correrá todo o expediente relativo:
 
 Ao orçamento e sua execução;
 
@@ -578,27 +590,27 @@ Ao orçamento e sua execução;
 
 A outras funções que lhe forem superiormente determinadas.
 
-###### Art. 47.º - 1. O pessoal administrativo e dos serviços gerais dos Institutos é o constante do quadro IV anexo a este diploma.
+Art. 47.º - 1. O pessoal administrativo e dos serviços gerais dos Institutos é o constante do quadro IV anexo a este diploma.
 
 2. Ao adjunto administrativo caberá a direcção do serviço administrativo, segundo a orientação do chefe do departamento dos serviços centrais.
 
 3. O adjunto administrativo perceberá a gratificação mensal constante do quadro VI anexo.
 
-###### Art. 48.º Serão providos por nomeação os lugares do quadro IV da categoria superior à letra S e por contrato ou assalariamento os restantes.
+Art. 48.º Serão providos por nomeação os lugares do quadro IV da categoria superior à letra S e por contrato ou assalariamento os restantes.
 
-###### Art. 49.º Os lugares de chefe de secção, primeiro-oficial, segundo-oficial e terceiro-oficial serão providos por promoção dos funcionários da classe imediatamente inferior do quadro dos Institutos, nos termos do Estatuto do Funcionalismo Ultramarino, desde que possuam pelo menos a habilitação do ciclo preparatório do ensino secundário ou equiparada.
+Art. 49.º Os lugares de chefe de secção, primeiro-oficial, segundo-oficial e terceiro-oficial serão providos por promoção dos funcionários da classe imediatamente inferior do quadro dos Institutos, nos termos do Estatuto do Funcionalismo Ultramarino, desde que possuam pelo menos a habilitação do ciclo preparatório do ensino secundário ou equiparada.
 
-###### Art. 50.º - 1. Os lugares de escriturário-dactilógrafo de 1.ª classe serão providos por concurso de provas públicas, nos termos do Estatuto do Funcionalismo Ultramarino, entre os indivíduos que possuam habilitação correspondente à escolaridade obrigatória.
+Art. 50.º - 1. Os lugares de escriturário-dactilógrafo de 1.ª classe serão providos por concurso de provas públicas, nos termos do Estatuto do Funcionalismo Ultramarino, entre os indivíduos que possuam habilitação correspondente à escolaridade obrigatória.
 
 2. Os lugares de escriturário-dactilógrafo de 2.ª classe e telefonista serão providos por concurso de provas públicas, nos termos do Estatuto do Funcionalismo Ultramarino, entre indivíduos habilitados com o exame de instrução primária.
 
-###### Art. 51.º - 1. O recrutamento de contínuos de 2.ª classe será feito por escolha.
+Art. 51.º - 1. O recrutamento de contínuos de 2.ª classe será feito por escolha.
 
 2. Ascenderão à 1.ª classe os contínuos que tenham mais de cinco anos de serviço, com boas informações.
 
 3. Os lugares de servente serão providos por assalariamento, nas termos do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 52.º Ao adjunto administrativo compete:
+Art. 52.º Ao adjunto administrativo compete:
 
 1.º Coadjuvar o director do Instituto em assuntos de carácter administrativo, quando delegados pelo mesmo director e de acordo com as suas instruções;
 
@@ -630,7 +642,7 @@ A outras funções que lhe forem superiormente determinadas.
 
 15.º Exercer funções notariais para lavrar escrituras e contratos em que outorgue o Instituto.
 
-###### Art. 53.º Ao chefe da secção de pessoal, expediente e arquivo compete:
+Art. 53.º Ao chefe da secção de pessoal, expediente e arquivo compete:
 
 1.º Zelar pela boa e pontual execução das tarefas a seu cargo e pela disciplina do pessoal na sua dependência hierárquica;
 
@@ -656,7 +668,7 @@ A outras funções que lhe forem superiormente determinadas.
 
 12.º Promover a cobrança e contabilização dos emolumentos de secretaria e organizar as respectivas contas de responsabilidade.
 
-###### Art. 54.º Ao chefe da secção de contabilidade compete:
+Art. 54.º Ao chefe da secção de contabilidade compete:
 
 1.º Zelar pela boa e pontual execução das tarefas a seu cargo e pela disciplina do pessoal na sua dependência hierárquica;
 
@@ -672,21 +684,21 @@ A outras funções que lhe forem superiormente determinadas.
 
 7.º Promover o processamento das folhas de vencimento do pessoal.
 
-###### Art. 55.º Os chefes das secções de pessoal, expediente e arquivo e de contabilidade perceberão a gratificação mensal constante do quadro VI anexo.
+Art. 55.º Os chefes das secções de pessoal, expediente e arquivo e de contabilidade perceberão a gratificação mensal constante do quadro VI anexo.
 
-###### Art. 56.º - 1. O serviço de tesouraria é exercido pelo tesoureiro, sob a fiscalização do conselho administrativo, do director do Instituto e do adjunto administrativo.
+Art. 56.º - 1. O serviço de tesouraria é exercido pelo tesoureiro, sob a fiscalização do conselho administrativo, do director do Instituto e do adjunto administrativo.
 
 2. As funções de tesoureiro do Instituto serão exercidas por um primeiro-oficial, que receberá por esse serviço a gratificação a que se refere o quadro VI.
 
 ### CAPÍTULO VIII — Do conselho administrativo
 
-###### Art. 57.º - 1. O conselho administrativo de cada um dos Institutos de Investigação Científica será constituído pelo director, que preside, pelo subdirector, pelo adjunto administrativo e pelo chefe da secção de contabilidade, tendo o director, ou quem as suas vezes fizer, voto de qualidade.
+Art. 57.º - 1. O conselho administrativo de cada um dos Institutos de Investigação Científica será constituído pelo director, que preside, pelo subdirector, pelo adjunto administrativo e pelo chefe da secção de contabilidade, tendo o director, ou quem as suas vezes fizer, voto de qualidade.
 
 2. Servirá de secretário, sem voto, o chefe da secção de contabilidade.
 
-###### Art. 58.º O conselho reunirá normalmente duas vezes por mês e extraordinàriamente quando o director o entender necessário.
+Art. 58.º O conselho reunirá normalmente duas vezes por mês e extraordinàriamente quando o director o entender necessário.
 
-###### Art. 59.º Ao conselho administrativo compete:
+Art. 59.º Ao conselho administrativo compete:
 
 1.º Administrar as verbas consignadas no orçamento e autorizar a realização das despesas dentro dos preceitos regulamentares e da mais rigorosa economia;
 
@@ -698,7 +710,7 @@ A outras funções que lhe forem superiormente determinadas.
 
 5.º Prestar as contas da sua gerência ao Tribunal Administrativo da província, nos termos e prazos regulamentares.
 
-###### Art. 60.º Ao presidente do conselho administrativo compete:
+Art. 60.º Ao presidente do conselho administrativo compete:
 
 1.º Convocar a reunião do conselho, quando julgue necessário ou conveniente, fixando a respectiva agenda;
 
@@ -712,7 +724,7 @@ A outras funções que lhe forem superiormente determinadas.
 
 6.º Assinar e fazer autenticar com o selo branco as contas e outros documentos que exijam a sua assinatura.
 
-###### Art. 61.º Ao tesoureiro compete:
+Art. 61.º Ao tesoureiro compete:
 
 1.º Receber, contar e arrecadar, mediante os respectivos documentos devidamente conferidos e visados pelo presidente do conselho administrativo, as quantias que lhe sejam entregues para darem entrada no cofre;
 
@@ -722,19 +734,19 @@ A outras funções que lhe forem superiormente determinadas.
 
 4.º Elaborar, até ao quinto dia útil de cada mês, a conta de caixa das receitas e despesas do mês anterior, para conferência e verificação do conselho administrativo.
 
-###### Art. 62.º O tesoureiro poderá ter em seu poder a importância considerada indispensável, até ao máximo de 5000$00, para ocorrer ao pagamento de pequenas despesas de carácter urgente, da qual prestará contas ao conselho administrativo.
+Art. 62.º O tesoureiro poderá ter em seu poder a importância considerada indispensável, até ao máximo de 5000$00, para ocorrer ao pagamento de pequenas despesas de carácter urgente, da qual prestará contas ao conselho administrativo.
 
-###### Art. 63.º O tesoureiro é responsável perante o conselho administrativo por todo o numerário e outros valores que lhe forem confiados.
+Art. 63.º O tesoureiro é responsável perante o conselho administrativo por todo o numerário e outros valores que lhe forem confiados.
 
-###### Art. 64.º - 1. As importâncias recebidas do Estado ou de outras proveniências são obrigatòriamente depositadas no banco emissor da província; fazendo-se todos os pagamentos das despesas por meio de cheques.
+Art. 64.º - 1. As importâncias recebidas do Estado ou de outras proveniências são obrigatòriamente depositadas no banco emissor da província; fazendo-se todos os pagamentos das despesas por meio de cheques.
 
 2. Os depósitos no banco emissor da província serão sempre feitos em nome dos Institutos.
 
 ### CAPÍTULO IX — Do serviço de selecção e preparação de pessoal
 
-###### Art. 65.º Haverá em cada um dos Institutos de Investigação Científica um serviço de selecção e preparação de pessoal, compreendido no departamento dos serviços centrais.
+Art. 65.º Haverá em cada um dos Institutos de Investigação Científica um serviço de selecção e preparação de pessoal, compreendido no departamento dos serviços centrais.
 
-###### Art. 66.º - 1. Ao serviço de selecção e preparação de pessoal compete:
+Art. 66.º - 1. Ao serviço de selecção e preparação de pessoal compete:
 
 1.º Promover a adequada selecção e permanente preparação e aperfeiçoamento profissional do pessoal do Instituto;
 
@@ -754,45 +766,45 @@ A outras funções que lhe forem superiormente determinadas.
 
 7. O serviço organizará periòdicamente cursos de actualização e reciclagem no domínio das ciências e técnicas básicas, destinados a contribuir para a permanente actualização e aperfeiçoamento do pessoal do Instituto.
 
-###### Art. 67.º - 1. A chefia do serviço de selecção e preparação de pessoal ficará a cargo de um membro do pessoal científico do Instituto, designado pelo director, e que agirá de harmonia com a orientação fixada pelo conselho de direcção.
+Art. 67.º - 1. A chefia do serviço de selecção e preparação de pessoal ficará a cargo de um membro do pessoal científico do Instituto, designado pelo director, e que agirá de harmonia com a orientação fixada pelo conselho de direcção.
 
 2. Ao chefe do serviço será abonada uma gratificação mensal constante do quadro VI anexo.
 
 ### CAPÍTULO X — Do centro de documentação científica
 
-###### Art. 68.º Cada Instituto de Investigação Científica terá um centro de documentação científica, que funcionará na dependência do departamento dos serviços centrais.
+Art. 68.º Cada Instituto de Investigação Científica terá um centro de documentação científica, que funcionará na dependência do departamento dos serviços centrais.
 
-###### Art. 69.º O centro exercerá as suas funções à escala provincial, competindo-lhe actuar como central colectora, selectora e difusora de documentação e informação em todos os domínios do conhecimento, procurando servir não só as necessidades do pessoal do Instituto, mas também as de todos os estudiosos, nacionais ou estrangeiros.
+Art. 69.º O centro exercerá as suas funções à escala provincial, competindo-lhe actuar como central colectora, selectora e difusora de documentação e informação em todos os domínios do conhecimento, procurando servir não só as necessidades do pessoal do Instituto, mas também as de todos os estudiosos, nacionais ou estrangeiros.
 
-###### Art. 70.º Para esse efeito, o centro compreenderá as secções que forem julgadas necessárias e que constarão de regulamento próprio.
+Art. 70.º Para esse efeito, o centro compreenderá as secções que forem julgadas necessárias e que constarão de regulamento próprio.
 
-###### Art. 71.º - 1. O centro será chefiado por um membro do pessoal científico ou técnico superior do Instituto, designado pelo director.
+Art. 71.º - 1. O centro será chefiado por um membro do pessoal científico ou técnico superior do Instituto, designado pelo director.
 
 2. O chefe do centro de documentação científica perceberá a gratificação mensal constante do quadro VI anexo.
 
-###### Art. 72.º O restante pessoal do centro será o constante do quadro III-A anexo.
+Art. 72.º O restante pessoal do centro será o constante do quadro III-A anexo.
 
 ### CAPÍTULO XI — Dos serviços de oficinas e armazém e de fotografia e som
 
-###### Art. 73.º Em cada um dos Institutos de Investigação Científica haverá um serviço de oficinas e armazém, compreendido no departamento dos serviços centrais.
+Art. 73.º Em cada um dos Institutos de Investigação Científica haverá um serviço de oficinas e armazém, compreendido no departamento dos serviços centrais.
 
-###### Art. 74.º O serviço de oficinas e armazém compreende as seguintes secções: secção de armazém; secção de oficinas mecânicas; secção de oficinas eléctricas e electrónicas, além de outras que forem julgadas convenientes.
+Art. 74.º O serviço de oficinas e armazém compreende as seguintes secções: secção de armazém; secção de oficinas mecânicas; secção de oficinas eléctricas e electrónicas, além de outras que forem julgadas convenientes.
 
-###### Art. 75.º Compete ao serviço de oficinas e armazém:
+Art. 75.º Compete ao serviço de oficinas e armazém:
 
 1.º Recolher, conservar e reparar todos os materiais, viaturas e equipamentos pertencentes ao Instituto ou de cuja guarda este seja encarregado;
 
 2.º Prestar todos os serviços da sua especialidade necessários aos trabalhos dos vários departamentos do Instituto, nomeadamente na aquisição, construção, operação e manutenção da aparelhagem científica.
 
-###### Art. 76.º O serviço será da responsabilidade de um encarregado geral, agente técnico de engenharia do quadro do pessoal técnico adjunto do Instituto, designado pelo director e que desempenhará as suas funções de harmonia com as determinações do chefe do departamento.
+Art. 76.º O serviço será da responsabilidade de um encarregado geral, agente técnico de engenharia do quadro do pessoal técnico adjunto do Instituto, designado pelo director e que desempenhará as suas funções de harmonia com as determinações do chefe do departamento.
 
-###### Art. 77.º Haverá neste serviço o pessoal constante do quadro V, anexo, destinado a manter em condições de trabalho eficiente as viaturas, máquinas, aparelhos, instrumentos de precisão e outros, a preparar o material de carpintaria e serralharia necessário aos diversos departamentos e a servir de motorista sempre que lhe for determinado.
+Art. 77.º Haverá neste serviço o pessoal constante do quadro V, anexo, destinado a manter em condições de trabalho eficiente as viaturas, máquinas, aparelhos, instrumentos de precisão e outros, a preparar o material de carpintaria e serralharia necessário aos diversos departamentos e a servir de motorista sempre que lhe for determinado.
 
-###### Art. 78.º - 1. O pessoal a que se refere o artigo anterior será contratado, observando-se o disposto no Estatuto do Funcionalismo Ultramarino, excepto, quanto ao pessoal operário especializado e quando se imponha, o respeitante a limite máximo de idade.
+Art. 78.º - 1. O pessoal a que se refere o artigo anterior será contratado, observando-se o disposto no Estatuto do Funcionalismo Ultramarino, excepto, quanto ao pessoal operário especializado e quando se imponha, o respeitante a limite máximo de idade.
 
 2. Podem ser contratados, independentemente do limite de idade, nas categorias constantes do quadro V, os assalariados dos Institutos habilitados com o exame de instrução primária, com mais de quatro anos de serviço com boas informações e que tenham adquirido competência especializada que o justifique.
 
-###### Art. 79.º Compete ao encarregado geral do serviço:
+Art. 79.º Compete ao encarregado geral do serviço:
 
 1.º Superintender em todas as secções do serviço e informar da forma como elas funcionam;
 
@@ -804,11 +816,11 @@ A outras funções que lhe forem superiormente determinadas.
 
 5.º Propor a aquisição ou alienação do material de oficina e do material em depósito e a alienação do equipamento já sem utilidade para o serviço.
 
-###### Art. 80.º O encarregado geral do serviço é responsável por todo o material que lhe seja confiado e não esteja entregue ao fiel do armazém.
+Art. 80.º O encarregado geral do serviço é responsável por todo o material que lhe seja confiado e não esteja entregue ao fiel do armazém.
 
-###### Art. 81.º Haverá em cada um dos Institutos de Investigação Científica um serviço de fotografia e som, compreendido no departamento dos serviços centrais.
+Art. 81.º Haverá em cada um dos Institutos de Investigação Científica um serviço de fotografia e som, compreendido no departamento dos serviços centrais.
 
-###### Art. 82.º O serviço de fotografia e som compreende as seguintes secções:
+Art. 82.º O serviço de fotografia e som compreende as seguintes secções:
 
 De depósito e equipamento;
 
@@ -820,13 +832,13 @@ De armazém de material sensível e de produtos químicos;
 
 De arquivo de imagens fotográficas e sons.
 
-###### Art. 83.º - 1. O serviço é dirigido por um encarregado, que será um adjunto-técnico do quadro do Instituto, designado pelo director e que desempenhará as suas funções de harmonia com as determinações do chefe do departamento.
+Art. 83.º - 1. O serviço é dirigido por um encarregado, que será um adjunto-técnico do quadro do Instituto, designado pelo director e que desempenhará as suas funções de harmonia com as determinações do chefe do departamento.
 
 2. O serviço disporá do pessoal técnico adjunto e auxiliar necessário ao seu funcionamento.
 
 3. O serviço contará ainda com o pessoal de que necessitar e cujas categorias serão das constantes do quadro V anexo.
 
-###### Art. 84.º - 1. Compete ao técnico encarregado do serviço:
+Art. 84.º - 1. Compete ao técnico encarregado do serviço:
 
 1.º Superintender em todas as secções do serviço;
 
@@ -840,19 +852,19 @@ De arquivo de imagens fotográficas e sons.
 
 2. O técnico encarregado do serviço é o responsável por todo o serviço e material que lhe seja confiado e não esteja entregue aos fiéis.
 
-###### Art. 85.º Quando o desenvolvimento dos serviços de oficinas e armazém e fotografia e som o justificar, será a sua direcção superior conjunta confiada a um engenheiro mecânico ou electrotécnico do quadro do pessoal técnico superior do Instituto, designado pelo director e que actuará de harmonia com a orientação fixada pelo chefe do departamento dos serviços centrais.
+Art. 85.º Quando o desenvolvimento dos serviços de oficinas e armazém e fotografia e som o justificar, será a sua direcção superior conjunta confiada a um engenheiro mecânico ou electrotécnico do quadro do pessoal técnico superior do Instituto, designado pelo director e que actuará de harmonia com a orientação fixada pelo chefe do departamento dos serviços centrais.
 
-###### Art. 86.º Ao engenheiro a que se refere o artigo anterior, aos encarregados dos serviços de oficinas e armazém e de fotografia e som, aos encarregados de secção e aos fiéis serão abonadas as gratificações mensais constantes do quadro VI anexo.
+Art. 86.º Ao engenheiro a que se refere o artigo anterior, aos encarregados dos serviços de oficinas e armazém e de fotografia e som, aos encarregados de secção e aos fiéis serão abonadas as gratificações mensais constantes do quadro VI anexo.
 
 ### CAPÍTULO XII — Do centro de cálculo científico e mecanográfico
 
-###### Art. 87.º - 1. O centro de cálculo científico e mecanográfico de cada um dos Institutos de Investigação Científica funcionará como serviço centralizado de informática das Universidades e organismos de investigação científica e tecnológica e dos serviços públicos provinciais que dele hajam necessidade.
+Art. 87.º - 1. O centro de cálculo científico e mecanográfico de cada um dos Institutos de Investigação Científica funcionará como serviço centralizado de informática das Universidades e organismos de investigação científica e tecnológica e dos serviços públicos provinciais que dele hajam necessidade.
 
 2. O centro poderá igualmente prestar serviços da mesma natureza a quaisquer outras entidades.
 
 3. O regulamento interno do centro fixará as condições em que os seus serviços serão prestados a entidades estranhas ao Instituto, públicas e privadas.
 
-###### Art. 88.º Ao centro de cálculo científico e mecanográfico compete:
+Art. 88.º Ao centro de cálculo científico e mecanográfico compete:
 
 1.º Fomentar a automação dos cálculos e processos de natureza repetitiva que se apresentem na província, nos domínios da investigação, da técnica, da gestão e da informação em geral;
 
@@ -870,9 +882,9 @@ De arquivo de imagens fotográficas e sons.
 
 8.º Estudar, em colaboração com centros de documentação científica, o processo de automatização da consulta dos seus ficheiros de informação.
 
-###### Art. 89.º O centro compreenderá um núcleo científico e técnico e um núcleo de processamento administrativo.
+Art. 89.º O centro compreenderá um núcleo científico e técnico e um núcleo de processamento administrativo.
 
-###### Art. 90.º - 1. O centro será assistido por um conselho consultivo, presidido por um membro do corpo docente da Universidade e de que farão parte representantes qualificados dos institutos de investigação provinciais, do laboratório de engenharia, da junta autónoma de estradas, dos serviços geográficos e cadastrais, dos serviços de estatística, dos serviços aduaneiros, dos serviços de Fazenda, dos serviços de portos, caminhos de ferro e transportes, dos serviços hidráulicos, dos serviços de planeamento e integração económica, da junta provincial de povoamento, dos serviços de economia, dos serviços de geologia e minas, dos serviços meteorológicos e de outras entidades, públicas ou privadas, cuja presença, pela sua especialização ou pelo maior uso da informática, for julgada conveniente pelo governador-geral em portaria.
+Art. 90.º - 1. O centro será assistido por um conselho consultivo, presidido por um membro do corpo docente da Universidade e de que farão parte representantes qualificados dos institutos de investigação provinciais, do laboratório de engenharia, da junta autónoma de estradas, dos serviços geográficos e cadastrais, dos serviços de estatística, dos serviços aduaneiros, dos serviços de Fazenda, dos serviços de portos, caminhos de ferro e transportes, dos serviços hidráulicos, dos serviços de planeamento e integração económica, da junta provincial de povoamento, dos serviços de economia, dos serviços de geologia e minas, dos serviços meteorológicos e de outras entidades, públicas ou privadas, cuja presença, pela sua especialização ou pelo maior uso da informática, for julgada conveniente pelo governador-geral em portaria.
 
 2. O conselho consultivo funcionará normalmente em secções, de harmonia com o regulamento interno do centro, havendo uma secção permanente, que será constituída pelos representantes da Universidade, dos institutos de investigação, do laboratório de engenharia e dos serviços de estatística.
 
@@ -880,11 +892,11 @@ De arquivo de imagens fotográficas e sons.
 
 4. Os membros do conselho consultivo terão direito a senhas de presença, a fixar pelo governador-geral no limite legal.
 
-###### Art. 91.º - 1. A chefia do centro será exercida por um especialista superior, com a coadjuvação de dois analistas do quadro do centro, cada um dos quais terá a seu cargo um dos núcleos a que se refere o artigo 89.º.
+Art. 91.º - 1. A chefia do centro será exercida por um especialista superior, com a coadjuvação de dois analistas do quadro do centro, cada um dos quais terá a seu cargo um dos núcleos a que se refere o artigo 89.º.
 
 2. Os analistas a que se refere o número anterior perceberão a gratificação mensal constante do quadro VI anexo.
 
-###### Art. 92.º - 1. O director do Instituto, sob proposta do chefe do centro e ouvido o conselho consultivo, poderá propor ao governador-geral a constituição de grupos de trabalho especializados, de carácter temporário, para algum dos fins seguintes:
+Art. 92.º - 1. O director do Instituto, sob proposta do chefe do centro e ouvido o conselho consultivo, poderá propor ao governador-geral a constituição de grupos de trabalho especializados, de carácter temporário, para algum dos fins seguintes:
 
 a) Análise dos problemas postos pela automação de quaisquer serviços ou de tarefas específicas dos mesmos;
 
@@ -906,21 +918,21 @@ f) Análise das implicações de ordem administrativa ou sócio-económica da au
 
 ### CAPÍTULO XIII — Do património
 
-###### Art. 93.º - 1. Os Institutos de Investigação Científica poderão adquirir por título gratuito quaisquer bens que se destinem à realização dos seus fins, só se tornando necessária a autorização do Governo para a aceitação de legados ou doações que envolvam encargos pecuniários.
+Art. 93.º - 1. Os Institutos de Investigação Científica poderão adquirir por título gratuito quaisquer bens que se destinem à realização dos seus fins, só se tornando necessária a autorização do Governo para a aceitação de legados ou doações que envolvam encargos pecuniários.
 
 2. Os bens legados ou doados aos Institutos sob qualquer cláusula modal terão o destino determinado pelo doador ou testador.
 
 3. As aquisições referidas no corpo deste artigo são isentas de quaisquer contribuições e impostos.
 
-###### Art. 94.º - 1. Os Institutos de Investigação Científica poderão efectuar pequenas adaptações, reparações ou consertos de carácter urgente nos edifícios de que forem proprietários ou que lhes tenham sido concedidos.
+Art. 94.º - 1. Os Institutos de Investigação Científica poderão efectuar pequenas adaptações, reparações ou consertos de carácter urgente nos edifícios de que forem proprietários ou que lhes tenham sido concedidos.
 
 2. As construções novas e as grandes obras de adaptação, remodelação ou reparação devem ser autorizadas pelo Governo da província, por proposta do director do Instituto e precedendo parecer e estudo de técnicos qualificados, devendo observar-se as normas legais vigentes para as obras da mesma natureza do Governo da província, nomeadamente no respeitante à competência dos serviços provinciais de obras públicas.
 
-###### Art. 95.º - 1. No caso de serem doados ou legados aos Institutos de Investigação Científica bens imobiliários sem dependência de qualquer cláusula modal e de estes não serem considerados necessários aos seus fins, poderão tais bens ser alienados e o produto da alienação convertido em títulos da dívida pública portuguesa ou em outros bens imobiliários necessários aos fins dos Institutos.
+Art. 95.º - 1. No caso de serem doados ou legados aos Institutos de Investigação Científica bens imobiliários sem dependência de qualquer cláusula modal e de estes não serem considerados necessários aos seus fins, poderão tais bens ser alienados e o produto da alienação convertido em títulos da dívida pública portuguesa ou em outros bens imobiliários necessários aos fins dos Institutos.
 
 2. A determinação dos valores em que deve efectuar-se a conversão de que trata o número anterior será feita por proposta do conselho de direcção, aprovada pelo Governo da província, ouvidos os serviços de Fazenda.
 
-###### Art. 96.º Constituem receitas dos Institutos:
+Art. 96.º Constituem receitas dos Institutos:
 
 1.º As dotações e subsídios que o Estado, a província ultramarina, os corpos administrativos ou quaisquer entidades públicas ou particulares lhes concedam, quer para os seus fins gerais, quer para aplicações determinadas e que caibam nas suas incumbências legais;
 
@@ -944,20 +956,20 @@ f) Análise das implicações de ordem administrativa ou sócio-económica da au
 
 ### CAPÍTULO XIV — Disposições gerais
 
-###### Art. 97.º - 1. O pessoal dos quadros dos Institutos terá direito a casa ou subsídio para renda de casa a fixar pelo governador-geral de harmonia com as condições locais.
+Art. 97.º - 1. O pessoal dos quadros dos Institutos terá direito a casa ou subsídio para renda de casa a fixar pelo governador-geral de harmonia com as condições locais.
 
 2. O pessoal dos Institutos terá direito a abono de família, ajudas de custo, subsídios de campo e isolamento e outras regalias, nas condições em que são atribuídos aos funcionários da província de igual categoria.
 
-###### Art. 98.º A Junta de Investigações do Ultramar promoverá a coordenação dos trabalhos dos Institutos com os dos seus restantes organismos.
+Art. 98.º A Junta de Investigações do Ultramar promoverá a coordenação dos trabalhos dos Institutos com os dos seus restantes organismos.
 
-###### Art. 99.º Os Institutos submeterão à aprovação dos Governos-Gerais o respectivo regimento interno.
+Art. 99.º Os Institutos submeterão à aprovação dos Governos-Gerais o respectivo regimento interno.
 
-###### Art. 100.º Os Institutos enviarão aos Governos-Gerais o projecto anual do orçamento, nos termos e prazos legais.
+Art. 100.º Os Institutos enviarão aos Governos-Gerais o projecto anual do orçamento, nos termos e prazos legais.
 
 Ministério do Ultramar, 14 de Setembro de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/23300/14241437.pdf))](https://files.diariodarepublica.pt/1s/1970/10/23300/14241437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/23300/14241437.pdf)
 
 Ministério do Ultramar, 14 de Setembro de 1970 - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

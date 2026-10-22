@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 101/1976, 1º Suplemento, Série I de 1976-04-29
   number: '101'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 940-(1) a 940-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10101/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-1976-412068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 052354682d3917a5a99ffbe7954c6df0ad1146acff6f88b470331f0251300de9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5b2e25bee8ef17874d0ea2599e13234f5d2afe0d74bd51cfc4f2442dfae6603
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Pessoal Contratado
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369793:por
+  label: "Aditados os n.os 5 e 6 ao art. 5.º pelo DEC LEI.393/79.21.09.1979.CR, DR.IS [219] de 21.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/393-1979-369793
+  date: '1979-09-21'
+- type: amended_by
+  target: pt:dre:580293:por
+  label: "Dada nova redacção ao artigo 8.º pelo DEC LEI.194/81.09.07.1981.CR, DR.IS [155] de 09.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1981-580293
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:662296:por
+  label: "Alterado o art. 3º, aditado o nº 5 ao art. 5º e revogado o art. 7º pelo DEC LEI.120/87.1987.03.16.CR DR.IS [62]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1987-662296
+  date: '1987-03-16'
+- type: cites
+  target: pt:dre:310580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:24Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +132,15 @@ Tendo em vista, finalmente, a recente publicação dos Decretos-Leis n.º 577-A/
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os militares que cumpriram o serviço militar obrigatório poderão, voluntariamente, continuar ou regressar ao serviço efectivo, por um período de tempo limitado, na situação de contratados.
+Artigo 1.º - 1. Os militares que cumpriram o serviço militar obrigatório poderão, voluntariamente, continuar ou regressar ao serviço efectivo, por um período de tempo limitado, na situação de contratados.
 
 2. O serviço militar na situação de contratado tem por finalidade satisfazer as necessidades ocasionais do Exército e despertar vocações para a carreira das armas.
 
-###### Art. 2.º - 1. Os militares na situação de contratados destinam-se ao desempenho das funções de instrução e operacionais, excepto aqueles que, possuindo especialidade militar ou curso civil, a fixar por despacho do Chefe do Estado-Maior do Exército, apresentem manifesto interesse em serem utilizados em serviços próprios da sua especialização.
+Art. 2.º - 1. Os militares na situação de contratados destinam-se ao desempenho das funções de instrução e operacionais, excepto aqueles que, possuindo especialidade militar ou curso civil, a fixar por despacho do Chefe do Estado-Maior do Exército, apresentem manifesto interesse em serem utilizados em serviços próprios da sua especialização.
 
 2. Os militares na situação de contratados desempenham as funções e serviços indicados no n.º 1, de acordo com o seu posto e especialidade.
 
-###### Art. 3.º - 1. Podem ingressar na situação de militar contratado os oficiais e os sargentos de complemento e as praças que o requeiram ao Chefe do Estado-Maior do Exército, e tal seja deferido, desde que satisfaçam às seguintes condições:
+Art. 3.º - 1. Podem ingressar na situação de militar contratado os oficiais e os sargentos de complemento e as praças que o requeiram ao Chefe do Estado-Maior do Exército, e tal seja deferido, desde que satisfaçam às seguintes condições:
 
 a) Ter bom comportamento militar e civil;
 
@@ -127,9 +160,9 @@ b) Melhores informações;
 
 c) Menor idade.
 
-###### Art. 4.º Os quantitativos de oficiais, sargentos e praças a admitir na situação de militares contratados serão estabelecidos por despacho do Chefe do Estado-Maior do Exército.
+Art. 4.º Os quantitativos de oficiais, sargentos e praças a admitir na situação de militares contratados serão estabelecidos por despacho do Chefe do Estado-Maior do Exército.
 
-###### Art. 5.º - 1. A situação de militar contratado pressupõe a existência de sucessivos períodos de contrato.
+Art. 5.º - 1. A situação de militar contratado pressupõe a existência de sucessivos períodos de contrato.
 
 2. O primeiro período de contrato terá a duração necessária até completar dois anos de serviço contados desde a data da incorporação.
 
@@ -137,11 +170,11 @@ c) Menor idade.
 
 4. A prorrogação de qualquer dos períodos anuais de contrato é feita mediante requerimento do interessado ao Chefe do Estado-Maior do Exército, devendo o mesmo fazer prova das condições exigidas no artigo 3.º do presente diploma, com excepção das indicadas nas alíneas c) e d) do n.º 1 do mesmo artigo.
 
-###### Art. 6.º A todos os militares na situação de contratados é facultado a frequência de cursos conducentes ao seu ingresso no quadro permanente.
+Art. 6.º A todos os militares na situação de contratados é facultado a frequência de cursos conducentes ao seu ingresso no quadro permanente.
 
-###### Art. 7.º As praças na situação de contratados podem requerer o seu ingresso no quadro de readmitidos, após concluírem três anos de serviço efectivo contados da data da sua incorporação.
+Art. 7.º As praças na situação de contratados podem requerer o seu ingresso no quadro de readmitidos, após concluírem três anos de serviço efectivo contados da data da sua incorporação.
 
-###### Art. 8.º Os militares na situação de contratados poderão passar à situação de disponibilidade:
+Art. 8.º Os militares na situação de contratados poderão passar à situação de disponibilidade:
 
 a) No final de cada um dos períodos de contrato, a seu pedido ou quando não tiverem informação favorável do respectivo comandante (ou equivalente);
 
@@ -151,9 +184,9 @@ b) Em qualquer momento:
 
 2) A seu requerimento, por motivos excepcionais, desde que não haja inconveniente para o serviço.
 
-###### Art. 9.º Serão promovidos, respectivamente, a alferes miliciano e a furriel miliciano, na data do seu ingresso na situação de militar contratado (se tal não se tiver verificado anteriormente), os aspirantes a oficial miliciano e os segundos-furriéis milicianos que reúnam, para tal, as respectivas condições legais.
+Art. 9.º Serão promovidos, respectivamente, a alferes miliciano e a furriel miliciano, na data do seu ingresso na situação de militar contratado (se tal não se tiver verificado anteriormente), os aspirantes a oficial miliciano e os segundos-furriéis milicianos que reúnam, para tal, as respectivas condições legais.
 
-###### Art. 10.º - 1. Os militares na situação de contratados terão direito aos seguintes vencimentos:
+Art. 10.º - 1. Os militares na situação de contratados terão direito aos seguintes vencimentos:
 
 a) Oficiais e sargentos: os que estiverem fixados para os restantes militares de igual posto;
 
@@ -165,18 +198,18 @@ b) Praças:
 
 2. Estes vencimentos serão revistos e actualizados, sempre que tal se verifique em relação aos vencimentos dos restantes militares.
 
-###### Art. 11.º Os militares incorporados de acordo com o estipulado no [Decreto-Lei n.º 620/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/620-1975-310580), de 12 de Novembro, quando na efectividade do serviço e a partir do final do período de tempo legalmente considerado como serviço militar obrigatório, deverão ser considerados, para todos os efeitos, na situação de contratados.
+Art. 11.º Os militares incorporados de acordo com o estipulado no [Decreto-Lei n.º 620/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/620-1975-310580), de 12 de Novembro, quando na efectividade do serviço e a partir do final do período de tempo legalmente considerado como serviço militar obrigatório, deverão ser considerados, para todos os efeitos, na situação de contratados.
 
-###### Art. 12.º Com a entrada em vigor do presente diploma ficam revogadas todas as disposições legais e determinações anteriores que permitem aos oficiais e sargentos de complemento iniciar em regime de voluntariado qualquer período de serviço efectivo após o cumprimento do serviço militar obrigatório.
+Art. 12.º Com a entrada em vigor do presente diploma ficam revogadas todas as disposições legais e determinações anteriores que permitem aos oficiais e sargentos de complemento iniciar em regime de voluntariado qualquer período de serviço efectivo após o cumprimento do serviço militar obrigatório.
 
-###### Art. 13.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Chefe do Estado-Maior do Exército.
+Art. 13.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Chefe do Estado-Maior do Exército.
 
-###### Art. 14.º O presente diploma entra imediatamente em vigor.
+Art. 14.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 29 de Abril de 1976.**
+Promulgado em 29 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

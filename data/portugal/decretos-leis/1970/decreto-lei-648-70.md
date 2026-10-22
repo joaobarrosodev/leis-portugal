@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/648-1970-146023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 023ed58da8fcd5fd66aa677394820fd7729e6266e1e98042d53a47be1b2e8144
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d9e74c10ce32082e0a29a6e73ed2e521e2ad6a42b32953d250505d388757b86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Fiscal
+- Controlo Financeiro
+- Fiscalização
+- Multa
+- Prestação de Contas
+- Publicitação
+- Regime Jurídico
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:215705:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:14Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +103,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 1.º, 3.º, 37.º e 49.º do [Decreto-Lei n.º 49381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49381-1969-215705), de 15 de Novembro de 1969, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 3.º, 37.º e 49.º do [Decreto-Lei n.º 49381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49381-1969-215705), de 15 de Novembro de 1969, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. As sociedades anónimas de responsabilidade limitada terão um órgão interno de fiscalização da respectiva gerência, que, normalmente, será o conselho fiscal.
+Artigo 1.º - 1. As sociedades anónimas de responsabilidade limitada terão um órgão interno de fiscalização da respectiva gerência, que, normalmente, será o conselho fiscal.
 
 2. O conselho fiscal será composto por três membros efectivos e um ou dois suplentes, ou por cinco efectivos e dois suplentes, conforme for estabelecido nos estatutos, podendo estes, porém, se o capital não exceder 2500000$00, determinar que a fiscalização seja exercida por um único fiscal efectivo e um suplente; ressalva-se o preceituado nos n.os 2 e 3 do artigo 5.º e no artigo 6.º
 
@@ -111,7 +123,7 @@ b) Tratando-se de outro, é substituído pelo suplente mais velho, salvo se a as
 
 7. Esgotados os suplentes eleitos, os cargos vagos, tanto de membro efectivo como de suplente, são preenchidos por nova eleição.
 
-###### Art. 3.º - 1. Os membros do conselho fiscal ou o fiscal único, efectivos e suplentes, são eleitos pela assembleia geral, que indicará entre eles o presidente; todavia, a primeira designação pode ser feita nos estatutos ou pela assembleia constitutiva.
+Art. 3.º - 1. Os membros do conselho fiscal ou o fiscal único, efectivos e suplentes, são eleitos pela assembleia geral, que indicará entre eles o presidente; todavia, a primeira designação pode ser feita nos estatutos ou pela assembleia constitutiva.
 
 2. Se for eleita uma pessoa colectiva que não seja sociedade de revisão de contas, deve ela, em carta registada dirigida ao presidente da assembleia geral, designar uma pessoa singular como seu representante para o exercício das respectivas funções.
 
@@ -123,7 +135,7 @@ b) Tratando-se de outro, é substituído pelo suplente mais velho, salvo se a as
 
 6. As funções dos membros do conselho fiscal ou do fiscal único designados em substituição de outros cessam na data em que cessariam as destes.
 
-###### Art. 37.º - 1. A falta de apresentação para publicação no Diário do Governo e num dos jornais mais lidos da localidade, dentro do prazo de sessenta dias a contar da data da assembleia geral que aprove as contas do exercício, dos documentos referidos no n.º 1 do artigo anterior e a inobservância das disposições a que a sua publicidade deve obedecer são puníveis com multa de 5000$00 a 100000$00, imposta à sociedade respectiva.
+Art. 37.º - 1. A falta de apresentação para publicação no Diário do Governo e num dos jornais mais lidos da localidade, dentro do prazo de sessenta dias a contar da data da assembleia geral que aprove as contas do exercício, dos documentos referidos no n.º 1 do artigo anterior e a inobservância das disposições a que a sua publicidade deve obedecer são puníveis com multa de 5000$00 a 100000$00, imposta à sociedade respectiva.
 
 2. Independentemente da multa aplicada, a sociedade infractora terá de proceder à publicação completa de todos os documentos em falta, ou pelo menos de os apresentar para publicação no Diário do Governo e num dos jornais mais lidos da localidade, dentro do prazo de trinta dias a contar da notificação que lhe seja feita, pela Inspecção-Geral de Finanças, para nova publicação completa dos documentos com as alterações mencionadas na notificação.
 
@@ -133,16 +145,16 @@ b) Tratando-se de outro, é substituído pelo suplente mais velho, salvo se a as
 
 5. As sanções previstas neste artigo são aplicáveis judicialmente, com base em auto lavrado pela Inspecção-Geral de Finanças.
 
-###### Art. 49.º - 1. O presente diploma não se aplica às sociedades civis nem às sociedades cooperativas, cujo conselho fiscal, quando existir, continua a reger-se pelo direito anterior.
+Art. 49.º - 1. O presente diploma não se aplica às sociedades civis nem às sociedades cooperativas, cujo conselho fiscal, quando existir, continua a reger-se pelo direito anterior.
 
 2. As disposições sobre responsabilidade civil contidas no presente diploma não são aplicáveis aos actos ou omissões anteriores ao começo da sua vigência, os quais continuarão sujeitos ao regime jurídico precedente.
 
 Visto e aprovedo em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 14 de Dezembro de 1970.**
+Promulgado em 14 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

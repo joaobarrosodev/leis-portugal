@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43371-1960-512868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f3ed6af9042eda8b0c59554e9511453fe0ef0d29465537a3a95cd0a05abee3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38100edcb4ab42249c9c1226160f0bac50bd2cbeb2cfa34fee7b55d1d40a7fcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água
+- Águas Subterrâneas
+- Licenciamento
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:380510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "19940222 - DETERMINADA A NAO APLICAÇÃO DO PRESENTE DIPLOMA, NA MATERA RESPEITANTE AO DECRETO LEI 46/94, DE 22 DE\
+    \ FEVEREIRO, PUBLICADO NO DR.IS-A, 44.\0S-A, 44."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a não aplicação do presente diploma, na matéria respeitante ao DEC LEI.46/94.1994.02.22.MARN, DR.IS-A\
+    \ [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: cites
+  target: pt:dre:180825:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:50Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +111,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 1.º e 4.º do [Decreto-Lei n.º 30448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30448-1940-180825), de 18 de Maio de 1940, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 4.º do [Decreto-Lei n.º 30448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30448-1940-180825), de 18 de Maio de 1940, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Fica dependente de licença a abertura de poços de captação de água de profundidade superior a 50 m ou que utilizem uma potência superior a 3 cv, qualquer que seja a sua profundidade, na área dos concelhos de Lisboa, Oeiras, Cascais, Sintra e Loures, e ainda a abertura de poços de captação de água com profundidade superior a 25 m ou que utilizem uma potência superior a 3 cv, qualquer que seja a sua profundidade, nos concelhos do Cartaxo, Alenquer, Azambuja, Vila Franca de Xira e na região da margem esquerda do Tejo compreendida entre a Ponte do Marechal Carmona e a ponte do caminho de ferro do Setil, limitada pela distância de 6 km à margem do rio.
+Artigo 1.º Fica dependente de licença a abertura de poços de captação de água de profundidade superior a 50 m ou que utilizem uma potência superior a 3 cv, qualquer que seja a sua profundidade, na área dos concelhos de Lisboa, Oeiras, Cascais, Sintra e Loures, e ainda a abertura de poços de captação de água com profundidade superior a 25 m ou que utilizem uma potência superior a 3 cv, qualquer que seja a sua profundidade, nos concelhos do Cartaxo, Alenquer, Azambuja, Vila Franca de Xira e na região da margem esquerda do Tejo compreendida entre a Ponte do Marechal Carmona e a ponte do caminho de ferro do Setil, limitada pela distância de 6 km à margem do rio.
 
 ...
 
-###### Art. 4.º No prazo de três meses, se anteriormente o não houverem feito, todos os proprietários de poços de captação de água existentes nos concelhos do Cartaxo, Alenquer e Azambuja com profundidade superior a 25 m ou que utilizem uma potência superior a 3 cv, qualquer que seja a sua profundidade, são obrigados a manifestá-los na Comissão de Fiscalização das Águas de Lisboa, do Ministério das Obras Públicas, com a descrição das suas características.
+Art. 4.º No prazo de três meses, se anteriormente o não houverem feito, todos os proprietários de poços de captação de água existentes nos concelhos do Cartaxo, Alenquer e Azambuja com profundidade superior a 25 m ou que utilizem uma potência superior a 3 cv, qualquer que seja a sua profundidade, são obrigados a manifestá-los na Comissão de Fiscalização das Águas de Lisboa, do Ministério das Obras Públicas, com a descrição das suas características.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

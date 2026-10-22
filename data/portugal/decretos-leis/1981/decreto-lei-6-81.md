@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02000/01960197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1981-390029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6363dabc75f7e7b1bb2e8c1c6bd382caa1297065465699a109ffd4ca83f45274
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66a318b183d43f06da283f3ef5fcf32b8682775842e4205ba0ae9cdaa4368681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Mercadoria
+- Tributação
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397907:por
+  label: Alterado o n.º 1 do art. 1.º e aditado o art. 10.º pelo(a) Decreto-Lei n.º 321/82 - Diário da República n.º 185/1982,
+    Série I de 1982-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1982-397907
+  date: '1982-08-12'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:212979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667512:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:44Z'
   warnings: []
   errors: []
 ---
@@ -96,33 +134,33 @@ Usando da autorização conferida pelo artigo 3.º da [Lei n.º 47/80](https://d
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas enviadas a particulares ou que estejam contidas nas bagagens pessoais dos viajantes, ficam sujeitas a um direito aduaneiro englobado (direito aduaneiro forfaitaire) de 10% ad valorem, desde que se trate de importações sem carácter comercial e que o valor global das mercadorias não exceda, por remessa ou por viajante, 100 unidades de conta europeias.
+Artigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas enviadas a particulares ou que estejam contidas nas bagagens pessoais dos viajantes, ficam sujeitas a um direito aduaneiro englobado (direito aduaneiro forfaitaire) de 10% ad valorem, desde que se trate de importações sem carácter comercial e que o valor global das mercadorias não exceda, por remessa ou por viajante, 100 unidades de conta europeias.
 
 2 - Estão excluídas da aplicação deste direito aduaneiro englobado as mercadorias compreendidas no capítulo 24.º da Pauta de Importação, aprovada pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959.
 
-###### Art. 2.º - 1 - Consideram-se sem carácter comercial as importações que, simultaneamente, apresentem um carácter ocasional e respeitem exclusivamente a mercadorias destinadas a uso pessoal ou familiar dos beneficiários ou ainda, tratando-se de viajantes, sejam por eles importadas para as oferecerem como lembranças.
+Art. 2.º - 1 - Consideram-se sem carácter comercial as importações que, simultaneamente, apresentem um carácter ocasional e respeitem exclusivamente a mercadorias destinadas a uso pessoal ou familiar dos beneficiários ou ainda, tratando-se de viajantes, sejam por eles importadas para as oferecerem como lembranças.
 
 2 - Estas mercadorias não devem representar, pela sua natureza ou quantidade, qualquer preocupação de ordem comercial.
 
-###### Art. 3.º A tributação englobada aplica-se independentemente da franquia concedida às mercadorias contidas nas bagagens pessoais dos viajantes em conformidade com os artigos 1.º e 2.º, n.º 1, do [Decreto-Lei n.º 463/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1980-462236), de 11 de Outubro.
+Art. 3.º A tributação englobada aplica-se independentemente da franquia concedida às mercadorias contidas nas bagagens pessoais dos viajantes em conformidade com os artigos 1.º e 2.º, n.º 1, do [Decreto-Lei n.º 463/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1980-462236), de 11 de Outubro.
 
-###### Art. 4.º - 1 - O direito aduaneiro englobado não se aplica às mercadorias importadas nas condições definidas nos artigos anteriores para as quais o interessado, antes de terem sido sujeitas ao referido direito, tenha pedido a aplicação dos direitos de importação respectivos.
+Art. 4.º - 1 - O direito aduaneiro englobado não se aplica às mercadorias importadas nas condições definidas nos artigos anteriores para as quais o interessado, antes de terem sido sujeitas ao referido direito, tenha pedido a aplicação dos direitos de importação respectivos.
 
 2 - No caso previsto no número anterior, todas as mercadorias que constituam a importação ficarão sujeitas aos respectivos direitos, sem prejuízo das franquias previstas nos artigos 1.º e 2.º, n.º 1, do [Decreto-Lei n.º 463/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1980-462236), de 11 de Outubro.
 
 3 - Para efeito da aplicação dos n.os 1 e 2, entende-se por direitos de importação tanto os direitos aduaneiros como as taxas de efeito equivalente.
 
-###### Art. 5.º Gozam do regime da pauta mínima os objectos separados de bagagem que, estando sujeitos ao pagamento de direitos, lhes não seja aplicável o direito aduaneiro englobado a que se refere o artigo 1.º
+Art. 5.º Gozam do regime da pauta mínima os objectos separados de bagagem que, estando sujeitos ao pagamento de direitos, lhes não seja aplicável o direito aduaneiro englobado a que se refere o artigo 1.º
 
-###### Art. 6.º É dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º
+Art. 6.º É dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º
 
-###### Art. 7.º É extensivo à carga transportada por via aérea o disposto no n.º 9 do artigo 72.º das Instruções Preliminares da Pauta de Importação e nos artigos 1.º e 5.º deste diploma.
+Art. 7.º É extensivo à carga transportada por via aérea o disposto no n.º 9 do artigo 72.º das Instruções Preliminares da Pauta de Importação e nos artigos 1.º e 5.º deste diploma.
 
-###### Art. 8.º Ficam revogados o corpo do artigo 2.º e o seu § 1.º, a alínea d) do artigo 3.º e o artigo 4.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960, os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 49471](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49471-1969-212979), de 27 de Dezembro de 1969, assim como o n.º 3.º do artigo 13.º e o n.º 8.º do artigo 17.º das Instruções Preliminares da Pauta de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959.
+Art. 8.º Ficam revogados o corpo do artigo 2.º e o seu § 1.º, a alínea d) do artigo 3.º e o artigo 4.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960, os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 49471](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49471-1969-212979), de 27 de Dezembro de 1969, assim como o n.º 3.º do artigo 13.º e o n.º 8.º do artigo 17.º das Instruções Preliminares da Pauta de Importação, aprovadas pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959.
 
-###### Art. 9.º A alínea e) do artigo 3.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960, passa a ter a seguinte redacção:
+Art. 9.º A alínea e) do artigo 3.º do [Decreto-Lei n.º 43400](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43400-1960-512836), de 15 de Dezembro de 1960, passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -130,8 +168,8 @@ e) Sem prejuízo do que se achar estabelecido nos regulamentos anexos à Conven�
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 15 de Janeiro de 1981.**
+Promulgado em 15 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

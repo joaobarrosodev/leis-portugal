@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44480-1962-163835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a785510592dea1f196bfd2821947ef572d35a74416dfde92e4de6b1f3097e85a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5729836b037c2fe9210cb58474b1899850ee8b75693dfdd938f6907810633a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Serviços Agrícolas
+- Laboratório de Fitofarmacologia
+- Produto Fitofarmacêutico
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:41Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +97,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Laboratório de Fitofarmacologia, instalado pela Direcção-Geral dos Serviços Agrícolas em execução do II Plano de Fomento, é um organismo de estudo e de cooperação técnica dependente da orientação científica da Estação Agronómica Nacional, destinado a resolver e esclarecer problemas relacionados com a produção, comércio e aplicação dos produtos fitofarmacêuticos.
+Artigo 1.º O Laboratório de Fitofarmacologia, instalado pela Direcção-Geral dos Serviços Agrícolas em execução do II Plano de Fomento, é um organismo de estudo e de cooperação técnica dependente da orientação científica da Estação Agronómica Nacional, destinado a resolver e esclarecer problemas relacionados com a produção, comércio e aplicação dos produtos fitofarmacêuticos.
 
 § único. As atribuições do Laboratório no que respeita à homologação dos referidos produtos, bem como as necessárias relações com a Direcção-Geral de Saúde, Direcção-Geral dos Serviços Pecuários, Direcção-Geral dos Serviços Florestais, Inspecção-Geral dos Produtos Agrícolas e Industriais e com a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, serão fixadas em decreto regulamentar publicado pelos Ministérios da Economia e da Saúde e Assistência.
 
-###### Art. 2.º Consideram-se produtos fitofarmacêuticos, para os efeitos deste diploma, os produtos químicos e biológicos destinados à defesa da produção vegetal, com exclusão dos adubos e correctivos.
+Art. 2.º Consideram-se produtos fitofarmacêuticos, para os efeitos deste diploma, os produtos químicos e biológicos destinados à defesa da produção vegetal, com exclusão dos adubos e correctivos.
 
-###### Art. 3.º Ao Laboratório compete designadamente:
+Art. 3.º Ao Laboratório compete designadamente:
 
 1.º Reunir os elementos de informação existentes sobre as características físicas, químicas e biológicas dos produtos fitofarmacêuticos submetidos à homologação e promover a realização de estudos sobre as mesmas características, quando se considerem insuficientes, para devida apreciação dos produtos, as informações já existentes.
 
@@ -115,7 +119,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 7.º Dar parecer sobre as características físicas, químicas e biológicas dos produtos fitofarmacêuticos fabricados e formulados no País e estabelecer os protocolos da sua aplicação.
 
-###### Art. 4.º O Laboratório de Fitofarmacologia procederá a estudos da sua competência:
+Art. 4.º O Laboratório de Fitofarmacologia procederá a estudos da sua competência:
 
 a) Por iniciativa própria;
 
@@ -129,16 +133,16 @@ d) A pedido de industriais e de comerciantes da especialidade ou de lavradores.
 
 § 2.º Os estudos realizados de harmonia com o estabelecido nas alíneas c) e d) serão pagos segundo tabela aprovada por portaria do Ministro das Finanças e do Secretário de Estado da Agricultura, sob proposta da Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 5.º Os serviços do Laboratório serão distribuídos por secções e subsecções, de acordo com o que for estabelecido no regulamento.
+Art. 5.º Os serviços do Laboratório serão distribuídos por secções e subsecções, de acordo com o que for estabelecido no regulamento.
 
-###### Art. 6.º O Laboratório de Fitofarmacologia será ouvido pela Inspecção-Geral dos Produtos Agrícolas o Industriais sempre que se trate da importação de produtos contemplados na posição 38.11 da pauta de importação.
+Art. 6.º O Laboratório de Fitofarmacologia será ouvido pela Inspecção-Geral dos Produtos Agrícolas o Industriais sempre que se trate da importação de produtos contemplados na posição 38.11 da pauta de importação.
 
-###### Art. 7.º A Direcção-Geral das Alfândegas solicitará ao Laboratório de Fitofarmacologia a verificação das respectivas características físicas, químicas e biológicas sempre que se apresentem a despacho produtos fitofarmacêuticos que gozem de isenção de direitos.
+Art. 7.º A Direcção-Geral das Alfândegas solicitará ao Laboratório de Fitofarmacologia a verificação das respectivas características físicas, químicas e biológicas sempre que se apresentem a despacho produtos fitofarmacêuticos que gozem de isenção de direitos.
 
-###### Art. 8.º As importâncias arrecadadas nos termos do § 2.º do artigo 4.º darão entrada nos cofres do Tesouro em «Consignação de receitas», a fim de servirem de contrapartida a despesas a realizar pelo Ministério da Economia, Secretaria de Estado da Agricultura, em execução do presente diploma.
+Art. 8.º As importâncias arrecadadas nos termos do § 2.º do artigo 4.º darão entrada nos cofres do Tesouro em «Consignação de receitas», a fim de servirem de contrapartida a despesas a realizar pelo Ministério da Economia, Secretaria de Estado da Agricultura, em execução do presente diploma.
 
-###### Art. 9.º O regulamento do Laboratório será publicado em portaria conjunta do Ministro da Saúde e Assistência o do Secretário de Estado da Agricultura.
+Art. 9.º O regulamento do Laboratório será publicado em portaria conjunta do Ministro da Saúde e Assistência o do Secretário de Estado da Agricultura.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

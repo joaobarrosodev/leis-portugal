@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1979-381131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 615bca05a973a361ef46197cd4a19823ae6def576debd49767c1b7f32baf56c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b37022e968ed1bfe0855d211e0cff6c548d5bf1156197f4612b43b516f31a43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Desemprego
+- Gabinete de Gestão do Fundo de Desemprego
+- Quotização
 relationships:
 - type: amended_by
   target: pt:dre:210867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:210867:por
+  label: "Prorrogado até 31.12.1979 o prazo previsto no n.º 4 do art. 1.º do presente diploma, pelo DEC LEI.490-D/79.19.12.1979.MT,\
+    \ DR.IS [291-Supl] de 19.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/490-d-1979-210867
+  date: '1979-12-19'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627272:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:35Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +121,7 @@ Assim:
 
 O Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Gabinete de Gestão do Fundo de Desemprego poderá conceder aos contribuintes que tenham quotizações e taxa de compensação pela mora em débito à data da publicação do presente diploma o seu pagamento em prestações.
+Artigo 1.º - 1 - O Gabinete de Gestão do Fundo de Desemprego poderá conceder aos contribuintes que tenham quotizações e taxa de compensação pela mora em débito à data da publicação do presente diploma o seu pagamento em prestações.
 
 2 - O pagamento do débito global poderá ser realizado num máximo de sessenta prestações mensais e iguais.
 
@@ -120,20 +137,20 @@ O Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição
 
 8 - A falta de pagamento de qualquer prestação determina o vencimento imediato de todas as restantes.
 
-###### Art. 2.º - 1 - Quando o contribuinte que tenha quotizações em débito ao Fundo de Desemprego pretenda celebrar um contrato de viabilização ao abrigo do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e legislação complementar, deste constará o acordo para pagamento do débito ao Fundo de Desemprego, o qual ficará sujeito ao regime do próprio contrato de viabilização.
+Art. 2.º - 1 - Quando o contribuinte que tenha quotizações em débito ao Fundo de Desemprego pretenda celebrar um contrato de viabilização ao abrigo do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e legislação complementar, deste constará o acordo para pagamento do débito ao Fundo de Desemprego, o qual ficará sujeito ao regime do próprio contrato de viabilização.
 
 2 - O contrato de viabilização só subsistirá desde que o acordo com o Fundo de Desemprego seja pontualmente cumprido.
 
-###### Art. 3.º A multa prevista no § único do artigo 6.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) será reduzida a metade quando o executado efectue o seu pagamento no prazo previsto no artigo 175.º do Código de Processo das Contribuições e Impostos.
+Art. 3.º A multa prevista no § único do artigo 6.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) será reduzida a metade quando o executado efectue o seu pagamento no prazo previsto no artigo 175.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 4.º A taxa de compensação pela mora prevista no § único do artigo 14.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) é elevada para 20%.
+Art. 4.º A taxa de compensação pela mora prevista no § único do artigo 14.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272) é elevada para 20%.
 
-###### Art. 5.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Ministro do Trabalho.
+Art. 5.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Ministro do Trabalho.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Eusébio Marques de Carvalho.
 
-**Promulgado em 11 de Junho de 1979.**
+Promulgado em 11 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

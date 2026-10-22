@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/06/14200/13631366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13040919930ad8a5dc6fc27af0378cd2fa929b40d01c30d63eadf3d3ce43c711
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 926bea24f629ac023af78467f3843fced88b5a4d3a2229b61ba007e0e1354987
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Farinha
+- Indústria da Moagem
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:466178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:466178:por
+  label: "Revogado pelo DEC LEI.664/74.26.11.1974.MECO, DG.IS [275] de 26.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/664-1974-466178
+  date: '1974-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:40Z'
   warnings: []
   errors: []
 ---
@@ -199,32 +231,32 @@ Com fundamento no que fica exposto;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As quotas de rateio de trigo atribuídas às fábricas de moagem de farinhas espoadas, serão proporcionais à capacidade de laboração das fábricas, calculada sobre o apetrechamento legal de que a fábrica disponha nesta data e nos termos do [Decreto n.º 28746](https://diariodarepublica.pt/dr/detalhe/decreto/28746-1938-365553), de 7 de Junho de 1938.
+Artigo 1.º As quotas de rateio de trigo atribuídas às fábricas de moagem de farinhas espoadas, serão proporcionais à capacidade de laboração das fábricas, calculada sobre o apetrechamento legal de que a fábrica disponha nesta data e nos termos do [Decreto n.º 28746](https://diariodarepublica.pt/dr/detalhe/decreto/28746-1938-365553), de 7 de Junho de 1938.
 
 § 1.º A quota de rateio das fábricas em regime de concentração temporária de fabrico, salvo no caso do artigo 19.º do [Decreto n.º 28746](https://diariodarepublica.pt/dr/detalhe/decreto/28746-1938-365553), continua a ser determinada nos termos daquele decreto, tendo em conta o coeficiente c previsto no seu artigo 2.º Quando, porém, na dita concentração entrem fábricas cuja linha tenha sido reduzida ao abrigo do presente diploma, serão tomadas em conta as linhas anteriores àquela redução para efeito da aplicação do coeficiente c.
 
 § 2.º A Direcção-Geral dos Serviços Industriais fará publicar no Diário do Governo a lista das quotas de rateio calculadas nos termos do corpo deste artigo.
 
-###### Art. 2.º Sem prejuízo das quotas de rateio, podem ser autorizadas reduções nas linhas de moenda das fábricas cujo apetrechamento venha a ser remodelado e renovado, com o fim de lhes aumentar a utilização.
+Art. 2.º Sem prejuízo das quotas de rateio, podem ser autorizadas reduções nas linhas de moenda das fábricas cujo apetrechamento venha a ser remodelado e renovado, com o fim de lhes aumentar a utilização.
 
-###### Art. 3.º As fusões de duas ou mais fábricas de moagem de farinhas espoadas de trigo que vierem a realizar-se a partir desta data serão, sempre que necessário, acompanhadas de remodelação e modernização do equipamento e darão direito, para as unidades resultantes, a uma quota de rateio igual à soma das quotas de rateio das fábricas fusionadas, fixadas no artigo 1.º
+Art. 3.º As fusões de duas ou mais fábricas de moagem de farinhas espoadas de trigo que vierem a realizar-se a partir desta data serão, sempre que necessário, acompanhadas de remodelação e modernização do equipamento e darão direito, para as unidades resultantes, a uma quota de rateio igual à soma das quotas de rateio das fábricas fusionadas, fixadas no artigo 1.º
 
 § 1.º Em cada fusão, a soma das quotas de rateio das fábricas abrangidas deverá ficar compreendida entre 1 e 2,5 por cento, salvo casos especiais devidamente justificados.
 
 § 2.º Na concessão das autorizações previstas neste artigo, serão tidas em conta as conveniências de localização das fábricas.
 
-###### Art. 4.º Quando a conveniente localização da indústria de moagem o aconselhar, poderá ser autorizada a cisão de fábricas, desde que as fracções se destinem a fusão com outras fábricas, nos termos do artigo 3.º e seus parágrafos, ou, se ficarem independentes, as respectivas quotas de rateio não sejam inferiores a 2 por cento.
+Art. 4.º Quando a conveniente localização da indústria de moagem o aconselhar, poderá ser autorizada a cisão de fábricas, desde que as fracções se destinem a fusão com outras fábricas, nos termos do artigo 3.º e seus parágrafos, ou, se ficarem independentes, as respectivas quotas de rateio não sejam inferiores a 2 por cento.
 
 § único. A soma das quotas de rateio das fracções em que uma fábrica se cindir será igual à quota de rateio da fábrica cindida.
 
-###### Art. 5.º A fim de estabelecer o esquema que sirva de base à reorganização da indústria da moagem, a Direcção-Geral dos Serviços Industriais e a Federação Nacional dos Industriais de Moagem apresentarão, dentro do prazo de dez meses, à aprovação do Secretário de Estado da Indústria, o plano mais conveniente de localização de fábricas e as regras a observar na fixação do complemento da linha de trituração para os efeitos dos artigos 2.º, 3.º e 4.º
+Art. 5.º A fim de estabelecer o esquema que sirva de base à reorganização da indústria da moagem, a Direcção-Geral dos Serviços Industriais e a Federação Nacional dos Industriais de Moagem apresentarão, dentro do prazo de dez meses, à aprovação do Secretário de Estado da Indústria, o plano mais conveniente de localização de fábricas e as regras a observar na fixação do complemento da linha de trituração para os efeitos dos artigos 2.º, 3.º e 4.º
 
-###### Art. 6.º Após a aprovação do esquema a que se refere o artigo anterior, a Direcção-Geral dos Serviços Industriais, por acordo com a Federação Nacional dos Industriais de Moagem, deverá estimular as fusões e, remodelações previstas neste decreto e propor superiormente a aplicação do disposto no artigo 19.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, às empresas com equipamentos muito antigos ou de admissão inadequada.
+Art. 6.º Após a aprovação do esquema a que se refere o artigo anterior, a Direcção-Geral dos Serviços Industriais, por acordo com a Federação Nacional dos Industriais de Moagem, deverá estimular as fusões e, remodelações previstas neste decreto e propor superiormente a aplicação do disposto no artigo 19.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, às empresas com equipamentos muito antigos ou de admissão inadequada.
 
-###### Art. 7.º Aos créditos da Federação Nacional dos Industriais de Moagem sobre as empresas singulares ou colectivas proprietárias de fábricas de moagem, devidos por financiamentos levados a efeito para execução da reorganização prevista no presente diploma, é aplicável o disposto no artigo único e seu parágrafo do [Decreto-Lei n.º 39695](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39695-1954-634119), de 14 de Junho de 1954.
+Art. 7.º Aos créditos da Federação Nacional dos Industriais de Moagem sobre as empresas singulares ou colectivas proprietárias de fábricas de moagem, devidos por financiamentos levados a efeito para execução da reorganização prevista no presente diploma, é aplicável o disposto no artigo único e seu parágrafo do [Decreto-Lei n.º 39695](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39695-1954-634119), de 14 de Junho de 1954.
 
-###### Art. 8.º São revogados os artigos 3.º, 4.º, 6.º, 8.º, 9.º, 18.º e 23.º do [Decreto n.º 28746](https://diariodarepublica.pt/dr/detalhe/decreto/28746-1938-365553), de 7 de Junho de 1938.
+Art. 8.º São revogados os artigos 3.º, 4.º, 6.º, 8.º, 9.º, 18.º e 23.º do [Decreto n.º 28746](https://diariodarepublica.pt/dr/detalhe/decreto/28746-1938-365553), de 7 de Junho de 1938.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

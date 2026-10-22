@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29300/32903294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1979-365886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9061aaebfe4d8f0a8ccdbcf7d850a7147742cd6568430d411e2798be6832e815
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64643c6ecaec9be2fdce2faf167c7a5c32f91566fd313416738f99eb628d54a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Coordenação da Região Centro
+- Comissão de Coordenação da Região de Lisboa e VALE do TEJO
+- Comissão de Coordenação da Região do Alentejo
+- Comissão de Coordenação da Região do Algarve
+- Comissão de Coordenação da Região Norte
+- Comissão de Coordenação Regional
+- Desenvolvimento Regional
+- GAT
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:540841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567409:por
+  label: "Alterada a alínea e) do artigo 6.º e os artigos 9.º e 10.º pelo DEC LEI.338/81.10.12.1981.MAI, DR.IS [283] de 10.12.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1981-567409
+  date: '1981-12-10'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para o Ministério das Cidades, Ordenamento do Território e Ambiente das Comissões de Coordenação\
+    \ das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve (integradas no agora extinto Ministério do Planeamento),\
+    \ pelo DEC LEI.120/2002.2002.05.03.PCM, DR.IS-A [102], participando a Ministra de Estado e das Finanças na definição das\
+    \ linhas de orientação destes serviços\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:540841:por
+  label: "Extintas as Comissões de Coordenação Regional pelo DEC LEI.104/2003.2003.05.23.MCOTA DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2003-540841
+  date: '2003-05-23'
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692379:por
+  label: Rectificado pela DECL.DD6618.04.01.1980.PCM, DR.IS [16] de 19.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692379
+  date: '1980-01-04'
+- type: repealed_by
+  target: pt:dre:611345:por
+  label: Revogado o n.º 3 do art. 1.º e respectivo anexo do pelo(a) Decreto-Lei n.º 46/89 - Diário da República n.º 38/1989,
+    Série I de 1989-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1989-611345
+  date: '1989-02-15'
+- type: repealed_by
+  target: pt:dre:521866:por
+  label: "Revogado com excepção do seu art. 1.º pelo DEC LEI.224/2001.2001.08.09.MPLA DR.IS-A [184], sem prejuízo do disposto\
+    \ no n.º 3 do art. 1.º do mesmo diploma legal\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2001-521866
+  date: '2001-08-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:47Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +191,7 @@ Finalmente, quer-se deixar bem sublinhado o carácter evolutivo com que se enten
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São criadas, como órgãos externos do Ministério da Administração Interna, as comissões de coordenação regional (CCR), que integram os organismos a que se referem o [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), de 11 de Março de 1969, e o artigo 2.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto.
+Artigo 1.º - 1 - São criadas, como órgãos externos do Ministério da Administração Interna, as comissões de coordenação regional (CCR), que integram os organismos a que se referem o [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), de 11 de Março de 1969, e o artigo 2.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto.
 
 2 - As CCR agora criadas denominam-se:
 
@@ -140,11 +209,11 @@ c) CCR do Algarve, com sede em Faro.
 
 4 - As áreas de actuação das CCR podem ser alteradas por despacho do Ministro da Administração Interna, publicado na 1.ª série do Diário da República, sob proposta das respectivas CCR e ouvidos os municípios interessados, com observância dos agrupamentos de municípios definidos no [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março.
 
-###### Art. 2.º As CCR dependem do Ministro da Administração Interna, que convocará as reuniões periódicas necessárias à sua coordenação, com o concurso dos responsáveis dos serviços competentes da Administração Central.
+Art. 2.º As CCR dependem do Ministro da Administração Interna, que convocará as reuniões periódicas necessárias à sua coordenação, com o concurso dos responsáveis dos serviços competentes da Administração Central.
 
-###### Art. 3.º As CCR são os organismos incumbidos de exercer, no respectivo âmbito regional, a coordenação e compatibilização das acções de apoio técnico, financeiro e administrativo às autarquias locais e executar, no âmbito dos planos regionais e em colaboração com os serviços competentes, as medidas de interesse para o desenvolvimento da respectiva região, visando a institucionalização de formas de cooperação e diálogo entre as autarquias locais e o poder central.
+Art. 3.º As CCR são os organismos incumbidos de exercer, no respectivo âmbito regional, a coordenação e compatibilização das acções de apoio técnico, financeiro e administrativo às autarquias locais e executar, no âmbito dos planos regionais e em colaboração com os serviços competentes, as medidas de interesse para o desenvolvimento da respectiva região, visando a institucionalização de formas de cooperação e diálogo entre as autarquias locais e o poder central.
 
-###### Art. 4.º Para o desempenho das suas atribuições compete, nomeadamente, às CCR:
+Art. 4.º Para o desempenho das suas atribuições compete, nomeadamente, às CCR:
 
 a) Exercer na respectiva área de actuação, em ligação com a Direcção-Geral de Acção Regional e Local, a competência que a nível central é atribuída a esta pelo artigo 20.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto:
 
@@ -154,7 +223,7 @@ c) Apoiar na respectiva área de actuação as acções ligadas à competência 
 
 d) Contribuir para o estudo e executar actividades de apoio e coordenação de acções intersectoriais de interesse para a região, a realizar em ligação ou através dos serviços competentes quando lhes sejam cometidas por lei ou autorizadas por despacho do MAI ou conjunto com o responsável do departamento interessado.
 
-###### Art. 5.º - 1 - As CCR compreendem os seguintes órgãos:
+Art. 5.º - 1 - As CCR compreendem os seguintes órgãos:
 
 a) Presidente;
 
@@ -180,7 +249,7 @@ e) Repartição Administrativa e Financeira.
 
 3 - Considerando o nível de instalação e as características de cada uma das CCR, a entrada em funcionamento dos órgãos e serviços previstos nos números anteriores fica condicionada a despacho específico do Ministro da Administração Interna.
 
-###### Art. 6.º Compete ao presidente de cada CCR:
+Art. 6.º Compete ao presidente de cada CCR:
 
 a) Definir e propor ao Ministro da Administração Interna as orientações a adoptar nas actividades da CCR e respectivos serviços;
 
@@ -198,7 +267,7 @@ g) Propor a nomeação e conferir posse aos funcionários e outros agentes dos s
 
 h) Exercer as demais funções necessárias ao bom funcionamento e desempenho das atribuições da CCR.
 
-###### Art. 7.º Compete ao vice-presidente:
+Art. 7.º Compete ao vice-presidente:
 
 a) Coadjuvar o presidente na sua acção;
 
@@ -206,11 +275,11 @@ b) Substituir o presidente nas suas faltas e impedimentos;
 
 c) Presidir ao conselho administrativo.
 
-###### Art. 8.º - 1 - O conselho administrativo é constituído pelo vice-presidente da CCR, que preside, pelo chefe da repartição administrativa e financeira e pelo responsável pelos serviços de contabilidade e tesouraria respectivos.
+Art. 8.º - 1 - O conselho administrativo é constituído pelo vice-presidente da CCR, que preside, pelo chefe da repartição administrativa e financeira e pelo responsável pelos serviços de contabilidade e tesouraria respectivos.
 
 2 - Compete ao conselho administrativo controlar a legalidade de todos os actos da CCR nos domínios administrativo e financeiro.
 
-###### Art. 9.º - 1 - O conselho consultivo regional é constituído por um representante de cada agrupamento de municípios e é presidido, sem direito a voto, pelo presidente da CCR da área respectiva.
+Art. 9.º - 1 - O conselho consultivo regional é constituído por um representante de cada agrupamento de municípios e é presidido, sem direito a voto, pelo presidente da CCR da área respectiva.
 
 2 - Os governadores civis dos distritos abrangidos pelas CCR podem assistir às reuniões do conselho consultivo, de cuja convocatória lhes será dado obrigatoriamente conhecimento.
 
@@ -220,7 +289,7 @@ c) Presidir ao conselho administrativo.
 
 5 - O conselho consultivo tem duas reuniões ordinárias anuais; uma para se pronunciar sobre o programa de actividades e o orçamento e outra com o fim de analisar o relatório anual de actividades e as contas, tendo ainda as reuniões extraordinárias julgadas convenientes.
 
-###### Art. 10.º - 1 - O conselho coordenador regional é constituído pelo presidente e vice-presidente da CCR e pelos directores dos GAT da respectiva área.
+Art. 10.º - 1 - O conselho coordenador regional é constituído pelo presidente e vice-presidente da CCR e pelos directores dos GAT da respectiva área.
 
 2 - Os directores-gerais da Direcção-Geral da Acção Regional e Local e do Gabinete de Apoio às Autarquias Locais podem assistir ou fazer-se representar nas reuniões do conselho coordenador, de cuja convocatória lhes será dado obrigatoriamente conhecimento.
 
@@ -238,9 +307,9 @@ c) Propor medidas que facilitem a compatibilização das actuações dos diverso
 
 6 - O conselho coordenador pode reunir em sessões restritas para tratar de assuntos específicos de interesse directo para determinada área funcional ou espacial.
 
-###### Art. 11.º As CCR são dotadas, a título excepcional, de autonomia administrativa e financeira.
+Art. 11.º As CCR são dotadas, a título excepcional, de autonomia administrativa e financeira.
 
-###### Art. 12.º Constituem receitas das CCR:
+Art. 12.º Constituem receitas das CCR:
 
 a) As transferências, subsídios e comparticipações do Estado ou de outras entidades públicas;
 
@@ -250,7 +319,7 @@ c) Os saldos de gerência de cada ano;
 
 d) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
 
-###### Art. 13.º - 1 - A previsão e cômputo das receitas e despesas de cada ano financeiro constarão do orçamento elaborado pelas CCR e aprovado pelo Ministro da Administração Interna até 15 de Dezembro do ano anterior àquele a que respeita.
+Art. 13.º - 1 - A previsão e cômputo das receitas e despesas de cada ano financeiro constarão do orçamento elaborado pelas CCR e aprovado pelo Ministro da Administração Interna até 15 de Dezembro do ano anterior àquele a que respeita.
 
 2 - O orçamento referido no número anterior será organizado de acordo com os programas de actividades anuais, sendo nele observados os princípios da classificação em vigor para o Orçamento Geral do Estado.
 
@@ -260,19 +329,19 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 
 5 - As revisões a que se refere o número anterior serão aprovadas pelo Ministro da Administração Interna.
 
-###### Art. 14.º As contas de gerência são enviadas ao Tribunal de Contas até 31 de Março do ano seguinte àquele a que respeitam.
+Art. 14.º As contas de gerência são enviadas ao Tribunal de Contas até 31 de Março do ano seguinte àquele a que respeitam.
 
-###### Art. 15.º - 1 - Os valores financeiros sob administração das CCR são obrigatoriamente depositados na Caixa Geral de Depósitos.
+Art. 15.º - 1 - Os valores financeiros sob administração das CCR são obrigatoriamente depositados na Caixa Geral de Depósitos.
 
 2 - As contas de depósito serão movimentadas por meio de cheques assinados pelo presidente da CCR ou pelo vice-presidente e pelo chefe da Repartição Administrativa e Financeira.
 
-###### Art. 16.º - 1 - O pessoal de cada uma das CCR integra os quadros próprios a publicar no regulamento do presente diploma.
+Art. 16.º - 1 - O pessoal de cada uma das CCR integra os quadros próprios a publicar no regulamento do presente diploma.
 
 2 - O regulamento a que se refere o número anterior estabelecerá, nomeadamente, as formas e condições a que obedecerá a comunicabilidade entre os quadros das diversas CCR e entre estas e os serviços centrais do Ministério.
 
 3 - O pessoal dos quadros das CCR reger-se-á pelas normas constantes do presente diploma e, na sua falta, pelas disposições do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto, e respectiva legislação regulamentar.
 
-###### Art. 17.º - 1 - Os lugares de presidente são providos por despacho conjunto do Primeiro-Ministro e do Ministro da Administração Interna, em comissão de serviço, nos termos do n.º 1 dos artigos 2.º e 4.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 25 de Junho, de entre pessoas habilitadas com licenciatura adequada e de reconhecida competência para o exercício do cargo.
+Art. 17.º - 1 - Os lugares de presidente são providos por despacho conjunto do Primeiro-Ministro e do Ministro da Administração Interna, em comissão de serviço, nos termos do n.º 1 dos artigos 2.º e 4.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 25 de Junho, de entre pessoas habilitadas com licenciatura adequada e de reconhecida competência para o exercício do cargo.
 
 2 - Os lugares de vice-presidente das CCR e restante pessoal dirigente são providos por despacho do Ministro da Administração Interna, sob proposta do presidente respectivo.
 
@@ -282,19 +351,19 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 
 5 - Os responsáveis dos núcleos regionais de coordenação dos GAT têm categoria de director de serviços.
 
-###### Art. 18.º - 1 - Mediante despacho do presidente, poderão constituir-se equipas de projecto para a realização de objectivos que ultrapassem a competência específica própria de uma direcção de serviços.
+Art. 18.º - 1 - Mediante despacho do presidente, poderão constituir-se equipas de projecto para a realização de objectivos que ultrapassem a competência específica própria de uma direcção de serviços.
 
 2 - O despacho designará sempre o objectivo do projecto, o seu responsável, as pessoas que o constituem, bem como o respectivo mandato e o prazo para a sua realização.
 
 3 - A equipa de projecto funcionará na dependência dos directores de serviços e o seu responsável disporá de poderes de direcção relativamente aos membros que a integram.
 
-###### Art. 19.º - 1 - As CCR poderão estabelecer contratos com outras entidades nacionais ou estrangeiras, públicas ou privadas, para realização de estudos, inquéritos e outros trabalhos de carácter técnico ou eventual, no âmbito da sua competência.
+Art. 19.º - 1 - As CCR poderão estabelecer contratos com outras entidades nacionais ou estrangeiras, públicas ou privadas, para realização de estudos, inquéritos e outros trabalhos de carácter técnico ou eventual, no âmbito da sua competência.
 
 2 - Os contratos referidos no número anterior deverão ser reduzidos a escrito, com a indicação da natureza do trabalho, da remuneração, do prazo previsto para a execução e das respectivas condições.
 
 3 - Sempre que os contratos previstos nos números anteriores impliquem dispêndio em divisas estrangeiras carecem de acordo do Ministério das Finanças.
 
-###### Art. 20.º - 1 - O património actualmente utilizado pelas comissões de planeamento regional continuará afecto à actividade das CCR.
+Art. 20.º - 1 - O património actualmente utilizado pelas comissões de planeamento regional continuará afecto à actividade das CCR.
 
 2 - No caso de as instalações afectas às comissões terem sido anteriormente utilizadas por serviços de ex-juntas distritais, poderá o Estado, obtida a concordância da respectiva assembleia distrital, suceder na sua propriedade ou contrato de arrendamento, sem dependência de quaisquer formalidades, salvo o respectivo registo ou comunicação ao senhorio, respectivamente.
 
@@ -302,21 +371,21 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 
 4 - O parque automóvel afecto às CCR e GAT por eles condenado continua sujeito à aplicação do disposto nos Decretos-Leis n.os 49/78, de 23 de Março, e n.º 50/78, de 28 de Março.
 
-###### Art. 21.º As dúvidas e casos omissos suscitados na vidos outros departamentos quando estiverem em despacho do Ministro da Administração Interna, ouvidos outros departamentos, quando estiverem em causa matérias das respectivas competências.
+Art. 21.º As dúvidas e casos omissos suscitados na vidos outros departamentos quando estiverem em despacho do Ministro da Administração Interna, ouvidos outros departamentos, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 22.º São revogados os Decretos-Leis n.os 48905 de 11 de Março de 1969, 49364, de 8 de Novembro de 1969, 524/74, de 8 de Outubro, e o artigo 2.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto.
+Art. 22.º São revogados os Decretos-Leis n.os 48905 de 11 de Março de 1969, 49364, de 8 de Novembro de 1969, 524/74, de 8 de Outubro, e o artigo 2.º do [Decreto-Lei n.º 342/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208), de 19 de Agosto.
 
-###### Art. 23.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 23.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 30 de Novembro de 1979.**
+Promulgado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo a que se refere o n.º 3 do artigo 1.º
+Anexo a que se refere o n.º 3 do artigo 1.º
 
 Municípios
 
@@ -438,4 +507,4 @@ Albufeira, Faro, Loulé, Olhão e S. Brás de Alportel;
 
 Alcoutim, Castro Marim, Tavira e Vila Real de Santo António.
 
-**O Ministro da Administração Interna, Manuel da Costa Brás.**
+O Ministro da Administração Interna, Manuel da Costa Brás.

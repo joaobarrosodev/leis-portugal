@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19000/16771678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1978-299068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b302e19582efdccf53a5c72195bbd877ecfa440150fe3dc3d0c906b877ce0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f0a4e62a57058c492250b0deea3e116157a2bae29c6e22ef598d3ffb66dd856
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Delegação de Competências
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383187:por
+  label: "Dada nova redacção ao artigo 4º e nº 1 do artigo 5º pelo DEC LEI.81/79.09.04.1979.MT, DR.IS [83] de 09.04.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1979-383187
+  date: '1979-04-09'
+- type: cites
+  target: pt:dre:277174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS NUMEROS 2, 3 E 4 DO ARTIGO 5 E O NUMERO 3 DO ARTIGO 6 PELO DECRETO LEI 243/82, DE 22 DE JUNHO, PUBLICADO\
+    \ NO DR.IS, 141.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-06-22'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:58Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +126,7 @@ Com o presente diploma pretende-se transferir para a Região Autónoma a compet�
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Região Autónoma dos Açores as seguintes competências:
+Artigo 1.º São transferidas para a Região Autónoma dos Açores as seguintes competências:
 
 a) Regulamentar, por via administrativa, nos termos da legislação nacional que vigorar, as condições de trabalho de sectores de actividade profissional ou económica circunscritos exclusivamente ao território da Região Autónoma;
 
@@ -116,17 +148,17 @@ i) Administrar e gerir o sistema de protecção no desemprego;
 
 j) Apoiar e levar a efeito acções de formação e reabilitação e criar as condições indispensáveis à sua realização.
 
-###### Art. 2.º - 1 - A vigência dos instrumentos de regulamentação de trabalho convencional ou não de âmbito territorial da Região depende da respectiva publicação no jornal oficial da Região Autónoma dos Açores, tendo em consideração o disposto no n.º 2.
+Art. 2.º - 1 - A vigência dos instrumentos de regulamentação de trabalho convencional ou não de âmbito territorial da Região depende da respectiva publicação no jornal oficial da Região Autónoma dos Açores, tendo em consideração o disposto no n.º 2.
 
 2 - Sem prejuízo do disposto no número anterior, os instrumentos de regulamentação de trabalho devem ser publicados no Boletim do Trabalho e Emprego.
 
-###### Art. 3.º - 1 - Na regulamentação colectiva de trabalho de âmbito não regional deverá ser cumprido o disposto no n.º 2 do artigo 231.º da Constituição.
+Art. 3.º - 1 - Na regulamentação colectiva de trabalho de âmbito não regional deverá ser cumprido o disposto no n.º 2 do artigo 231.º da Constituição.
 
 2 - Os instrumentos de regulamentação colectiva de trabalho referidos no número anterior serão obrigatoriamente publicados no jornal oficial da Região, sem prejuízo da sua entrada em vigor a partir da publicação no Boletim do Trabalho e Emprego.
 
-###### Art. 4.º Mantém-se em tudo o legalmente estabelecido no que respeita às comissões de conciliação e julgamento e aos tribunais do trabalho.
+Art. 4.º Mantém-se em tudo o legalmente estabelecido no que respeita às comissões de conciliação e julgamento e aos tribunais do trabalho.
 
-###### Art. 5.º - 1 - Em função da transferência provisória de competências consagrada no artigo 1.º, são extintas as delegações da Direcção-Geral das Relações Colectivas de Trabalho, os centros permanentes de emprego e o Centro de Formação Profissional n.º 18, que funcionavam na Região Autónoma dos Açores, na dependência do Governo da República.
+Art. 5.º - 1 - Em função da transferência provisória de competências consagrada no artigo 1.º, são extintas as delegações da Direcção-Geral das Relações Colectivas de Trabalho, os centros permanentes de emprego e o Centro de Formação Profissional n.º 18, que funcionavam na Região Autónoma dos Açores, na dependência do Governo da República.
 
 2 - As atribuições e competências em matérias de inspecção do trabalho na Região Autónoma dos Açores continuam a caber à Inspecção do Trabalho, do Ministério do Trabalho.
 
@@ -134,7 +166,7 @@ j) Apoiar e levar a efeito acções de formação e reabilitação e criar as co
 
 4 - Os órgãos do Governo Regional poderão solicitar directamente aos serviços da Inspecção do Trabalho situados na Região Autónoma as acções inerentes ao exercício das suas competências.
 
-###### Art. 6.º - 1 - O pessoal adstrito aos serviços extintos por força do disposto no artigo anterior transita para a Secretaria Regional do Trabalho, com dispensa de qualquer formalidade, nos termos gerais definidos quanto aos restantes serviços extintos ou integrados na Região Autónoma.
+Art. 6.º - 1 - O pessoal adstrito aos serviços extintos por força do disposto no artigo anterior transita para a Secretaria Regional do Trabalho, com dispensa de qualquer formalidade, nos termos gerais definidos quanto aos restantes serviços extintos ou integrados na Região Autónoma.
 
 2 - Não estão abrangidos pelo disposto no número anterior os delegados e subdelegados da Direcção-Geral das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, os quais poderão passar a prestar serviço no Governo Regional, nos termos gerais da requisição, mediante as devidas formalidades.
 
@@ -144,22 +176,22 @@ j) Apoiar e levar a efeito acções de formação e reabilitação e criar as co
 
 5 - O pessoal integrado nos termos dos números anteriores ficará sujeito ao disposto no artigo 49.º do [Decreto-Lei n.º 318-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-b-1976-345524), de 30 de Abril.
 
-###### Art. 7.º A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto no artigo 5.º transita para o Governo Regional, com dispensa de qualquer formalidade.
+Art. 7.º A administração de todos os bens e património em geral afectos aos serviços extintos por força do disposto no artigo 5.º transita para o Governo Regional, com dispensa de qualquer formalidade.
 
-###### Art. 8.º - 1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de trabalho e emprego.
+Art. 8.º - 1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de trabalho e emprego.
 
 2 - Será assegurado pelo Ministério do Trabalho e pela Secretaria de Estado da Administração Pública, quando solicitado pela Secretaria Regional do Trabalho, de acordo com as capacidades daquelas entidades, todo o apoio técnico relativo à definição das carreiras profissionais.
 
-###### Art. 9.º O Ministro da República garantirá a articulação entre os serviços dependentes do Ministério do Trabalho e os serviços da Secretaria Regional do Trabalho.
+Art. 9.º O Ministro da República garantirá a articulação entre os serviços dependentes do Ministério do Trabalho e os serviços da Secretaria Regional do Trabalho.
 
-###### Art. 10.º A partir de 1 de Janeiro de 1979, as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
+Art. 10.º A partir de 1 de Janeiro de 1979, as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
 
-###### Art. 11.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para os Açores e do Trabalho.
+Art. 11.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para os Açores e do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Manuel Maldonado Gonelha.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

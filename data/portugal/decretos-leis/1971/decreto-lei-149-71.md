@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1971-444759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dbb5c38ac5b2275ae154380f869fe3fb488f44e0e614beb0d57c2709346739e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74a2c713f829f7a293aa1de47c2993da4154c2b2eb379bbc0d1096a87f62638a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Portugal
+- Contrato
+- FMI
+- Ministro das Finanças
+relationships:
+- type: cites
+  target: pt:dre:444762:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:644476:por
+  label: Rectificado pela DECL.DD10185.11.05.1971.PC, DG.IS [110] de 11.05.1971
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1971-644476
+  date: '1971-05-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:12Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +104,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro das Finanças a realizar com o Banco de Portugal, em representação do Estado, um contrato nos termos das bases anexas a este diploma e que dele são parte integrante.
+Artigo 1.º É autorizado o Ministro das Finanças a realizar com o Banco de Portugal, em representação do Estado, um contrato nos termos das bases anexas a este diploma e que dele são parte integrante.
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor.
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 14 de Abril de 1971.**
+Promulgado em 14 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -167,4 +180,4 @@ BASE XII
 
 A partir da data da assinatura do presente contrato deixa de ter aplicação o disposto nas cláusulas 2.ª a 9.ª, inclusive, do contrato de 10 de Setembro de 1965, mas as entregas e embolsos, em moeda nacional, que tenham sido efectuados em execução do estipulado nas cláusulas 2.ª e 4.ª daquele contrato serão tidos em consideração para a determinação da importância do crédito do Banco sobre o Estado referido na base VII, bem como para efeito do estipulado nas bases V, VI e VIII, todas do presente contrato.
 
-**O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro das Finanças, João Augusto Dias Rosas.

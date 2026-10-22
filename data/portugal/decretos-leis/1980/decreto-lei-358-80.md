@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1980-464029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c392a17d5331a1fc5954d1ee0047c2e8832aa0171d9d335294d937b72e4a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30803bac8fc5e66e6cc559cefeff6b67457de3074f66bc685a1194b1827f01e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Operação Cambial
+- Região Autónoma
+- Sector Público Administrativo
+- Setor Empresarial do Estado
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:393785:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:29Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +106,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para os Governos das Regiões Autónomas dos Açores e da Madeira as competências atribuídas ao Ministério das Finanças e do Plano pelo Decreto com força de lei n.º 14611, de 23 de Novembro de 1927, a legislação complementar, e pelo [Decreto-Lei n.º 513-I/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785), de 24 de Dezembro, quanto a autorizações para dispêndios em moeda estrangeira a realizar pelas entidades que exerçam a sua actividade exclusivamente nas regiões, e designadamente:
+Artigo 1.º São transferidas para os Governos das Regiões Autónomas dos Açores e da Madeira as competências atribuídas ao Ministério das Finanças e do Plano pelo Decreto com força de lei n.º 14611, de 23 de Novembro de 1927, a legislação complementar, e pelo [Decreto-Lei n.º 513-I/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785), de 24 de Dezembro, quanto a autorizações para dispêndios em moeda estrangeira a realizar pelas entidades que exerçam a sua actividade exclusivamente nas regiões, e designadamente:
 
 a) Os serviços públicos, com ou sem autonomia administrativa ou financeira, integrados na Administração Regional;
 
@@ -109,24 +120,24 @@ e) As instituições de piedade, assistência e beneficência que por qualquer t
 
 f) As empresas públicas e institutos equiparados que exerçam a sua actividade exclusivamente nas regiões ou se encontrem sob a sua tutela ou superintendência exclusivas.
 
-###### Art. 2.º - 1 - A aprovação dos orçamentos cambiais globais de cada uma das regiões autónomas, englobando a previsão das receitas e despesas em moeda estrangeira do conjunto das entidades compreendidas no artigo 1.º, compete ao Ministro das Finanças e do Plano, nos termos da legislação vigente sobre o orçamento cambial do sector público.
+Art. 2.º - 1 - A aprovação dos orçamentos cambiais globais de cada uma das regiões autónomas, englobando a previsão das receitas e despesas em moeda estrangeira do conjunto das entidades compreendidas no artigo 1.º, compete ao Ministro das Finanças e do Plano, nos termos da legislação vigente sobre o orçamento cambial do sector público.
 
 2 - Antes da aprovação do orçamento cambial global respeitante a cada exercício, referida no número anterior, os dispêndios em moeda estrangeira a realizar pelas entidades mencionadas no artigo 1.º deverão ser submetidos à aprovação prévia do Ministro das Finanças e do Plano, em conformidade com o disposto no Decreto com força de lei n.º 14611, de 23 de Novembro de 1927, e legislação complementar.
 
-###### Art. 3.º Sem prejuízo do disposto no artigo anterior, as autoridades competentes, nos termos da legislação regional aplicável, para conceder as autorizações para dispêndios em moeda estrangeira deverão observar as orientações de política monetária e cambial definidas pelo Governo da República.
+Art. 3.º Sem prejuízo do disposto no artigo anterior, as autoridades competentes, nos termos da legislação regional aplicável, para conceder as autorizações para dispêndios em moeda estrangeira deverão observar as orientações de política monetária e cambial definidas pelo Governo da República.
 
-###### Art. 4.º As operações em moeda estrangeira, nomeadamente todo o movimento cambial de compra e venda de divisas, serão efectuadas nos termos legais aplicáveis às operações cambiais do sector público, competindo às Secretarias Regionais de Finanças a emissão de todas as guias e recibos necessários para o efeito, com ressalva do disposto no artigo 4.º do [Decreto-Lei n.º 513-I/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785), de 24 de Dezembro, quanto à compra de meios de pagamento sobre o exterior para deslocações em serviço ao estrangeiro.
+Art. 4.º As operações em moeda estrangeira, nomeadamente todo o movimento cambial de compra e venda de divisas, serão efectuadas nos termos legais aplicáveis às operações cambiais do sector público, competindo às Secretarias Regionais de Finanças a emissão de todas as guias e recibos necessários para o efeito, com ressalva do disposto no artigo 4.º do [Decreto-Lei n.º 513-I/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785), de 24 de Dezembro, quanto à compra de meios de pagamento sobre o exterior para deslocações em serviço ao estrangeiro.
 
-###### Art. 5.º Os governos das regiões autónomas enviarão à Direcção-Geral do Tesouro, até ao final do trimestre seguinte, nota discriminada, por entidades, de todos os dispêndios em moeda estrangeira efectivamente realizados em cada trimestre.
+Art. 5.º Os governos das regiões autónomas enviarão à Direcção-Geral do Tesouro, até ao final do trimestre seguinte, nota discriminada, por entidades, de todos os dispêndios em moeda estrangeira efectivamente realizados em cada trimestre.
 
-###### Art. 6.º Às operações em moeda estrangeira efectuadas no âmbito do presente decreto-lei serão aplicáveis, com as necessárias adaptações, todas as disposições legais reguladoras do movimento cambial do sector público, designadamente o Decreto com força de lei n.º 14611, de 23 de Novembro de 1927, e legislação complementar, e o [Decreto-Lei n.º 513-I/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785), de 24 de Dezembro.
+Art. 6.º Às operações em moeda estrangeira efectuadas no âmbito do presente decreto-lei serão aplicáveis, com as necessárias adaptações, todas as disposições legais reguladoras do movimento cambial do sector público, designadamente o Decreto com força de lei n.º 14611, de 23 de Novembro de 1927, e legislação complementar, e o [Decreto-Lei n.º 513-I/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785), de 24 de Dezembro.
 
-###### Art. 7.º As dúvidas suscitadas na execução do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 7.º As dúvidas suscitadas na execução do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 28 de Agosto de 1980.**
+Promulgado em 28 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

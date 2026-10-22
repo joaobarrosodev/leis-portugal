@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1973-411991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d67e47e916d4bafb66590961dde245376ec993225fee436a8aa53eb5c185c49a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 091937ad179266412beeba1ed3e1b0ebbecec33ff1d79b477a95a289844fc76f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Tecnologia Industrial
+- Conselho de Directores Gerais
+- Criação de Serviços
+- Delegação Regional
+- Direcção Geral da Indústria Transformadora
+- Direcção Geral da Qualidade e Segurança Industrial
+- Direcção Geral de Energia
+- Direcção Geral de Minas e Serviços Geológicos
+- Extinção de Serviços
+- Formas de Provimento
+- Fundo de Fomento Industrial
+- Gabinete de Estudos e Planeamento
+- Instituto Português de Normalização
+- Integração de Serviços
+- Ministério da Economia
+- Orgânica
+- Pessoal Dirigente
+- Política Industrial
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Secretaria de Estado da Indústria
+- Serviço de Apoio ao Investidor
+- Serviço de Parques Indústriais
 relationships:
 - type: amended_by
   target: pt:dre:182018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447768:por
+  label: "Extinto o Gabinete de Estudos e Planeamento, criado no âmbito da Secretaria de Estado da Indústria, pelo DR.3/78.19.01.1978.PCM,\
+    \ DR.IS [16] de 19.01.1978, nos termos do disposto nos nºs 1 e 2 do art. 25º daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1978-447768
+  date: '1978-01-19'
+- type: amended_by
+  target: pt:dre:471113:por
+  label: "Extinta a Repartição da Propriedade Industrial, criada pelo Decreto n.º 7036, de 17 de Outubro de 1920, alterado\
+    \ pelo presente diploma, pelo DR.37/80.19.08.1980.MCT, DR.IS [190] de 19.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/37-1980-471113
+  date: '1980-08-19'
+- type: amended_by
+  target: pt:dre:182018:por
+  label: "Extinta a Direcção Geral da Qualidade e Segurança Industrial, pelo DEC LEI.205/85.1985.06.26.MIE, DR.IS [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1985-182018
+  date: '1985-06-26'
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:27Z'
   warnings: []
   errors: []
 ---
@@ -128,9 +201,9 @@ Nestes termos, usando da faculdade conferida pela primeira parte do n.º 2.º do
 
 ### CAPÍTULO I — Atribuições e estruturas
 
-###### Artigo 1.º A Secretaria de Estado da Indústria é o departamento do Ministério da Economia incumbido de estudar e promover a execução da política industrial do Governo, e assegurar a observância das disposições reguladoras das actividades industriais.
+Artigo 1.º A Secretaria de Estado da Indústria é o departamento do Ministério da Economia incumbido de estudar e promover a execução da política industrial do Governo, e assegurar a observância das disposições reguladoras das actividades industriais.
 
-###### Art. 2.º - 1. A Secretaria de Estado da Indústria compreende, além do Gabinete do Secretário de Estado, os seguintes órgãos, serviços e organismos:
+Art. 2.º - 1. A Secretaria de Estado da Indústria compreende, além do Gabinete do Secretário de Estado, os seguintes órgãos, serviços e organismos:
 
 a) O Conselho dos Directores-Gerais;
 
@@ -154,11 +227,11 @@ j) O Fundo de Fomento Industrial;
 
 l) O Instituto Português de Normalização.
 
-###### Art. 3.º Mediante despacho conjunto, do Ministro da Economia e do Secretário de Estado da Indústria, poderão ser constituídas na Secretaria de Estado da Indústria as comissões eventuais que se mostrarem convenientes para o exercício das funções de estudo ou executivas com carácter transitório e cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes.
+Art. 3.º Mediante despacho conjunto, do Ministro da Economia e do Secretário de Estado da Indústria, poderão ser constituídas na Secretaria de Estado da Indústria as comissões eventuais que se mostrarem convenientes para o exercício das funções de estudo ou executivas com carácter transitório e cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes.
 
 ### CAPÍTULO II — Órgãos, serviços e organismos
 
-###### Art. 4.º - 1. Compete ao Conselho dos Directores-Gerais coadjuvar o Secretário de Estado na programação e harmonização das actividades dos diversos órgãos e serviços da Secretaria de Estado.
+Art. 4.º - 1. Compete ao Conselho dos Directores-Gerais coadjuvar o Secretário de Estado na programação e harmonização das actividades dos diversos órgãos e serviços da Secretaria de Estado.
 
 2. O Conselho será presidido pelo Secretário de Estado e terá como vogais permanentes os directores-gerais da Secretaria de Estado e o presidente do conselho administrativo do Fundo de Fomento Industrial.
 
@@ -166,7 +239,7 @@ l) O Instituto Português de Normalização.
 
 4. O Secretário de Estado poderá delegar temporariamente a presidência do Conselho numa dos vogais permanentes.
 
-###### Art. 5.º - 1. Incumbe ao Gabinete de Estudos e Planeamento:
+Art. 5.º - 1. Incumbe ao Gabinete de Estudos e Planeamento:
 
 a) Prestar apoio técnico ao Secretário de Estado da Indústria na formulação da política industrial e no planeamento do sector;
 
@@ -182,11 +255,11 @@ f) Colaborar nos trabalhos decorrentes da participação do País nas relações
 
 g) Desempenhar as demais atribuições que lhe sejam cometidas por lei.
 
-###### Art. 6.º - 1. Compete à Direcção de Serviços Centrais prestar apoio técnico e administrativo à actividade de toda a Secretaria de Estado nos domínios da gestão de pessoal, da organização e métodos, do contencioso e da contabilidade e gestão orçamental.
+Art. 6.º - 1. Compete à Direcção de Serviços Centrais prestar apoio técnico e administrativo à actividade de toda a Secretaria de Estado nos domínios da gestão de pessoal, da organização e métodos, do contencioso e da contabilidade e gestão orçamental.
 
 2. Transitam para a Direcção de Serviços Centrais as funções actualmente cometidas pelo artigo 231.º do Código da Propriedade Industrial ao Serviço de Invenções da Repartição de Propriedade Industrial da Direcção-Geral do Comércio.
 
-###### Art. 7.º - 1. Incumbe à Comissão de Tecnologia Industrial:
+Art. 7.º - 1. Incumbe à Comissão de Tecnologia Industrial:
 
 a) Definir as orientações e coordenar os trabalhos de investigação a realizar no âmbito da Secretaria de Estado, integrando-os na perspectiva mais ampla da inovação tecnológica;
 
@@ -194,7 +267,7 @@ b) Prestar apoio ao Secretário de Estado no estudo das matérias respeitantes a
 
 2. A composição e o modo de funcionamento da Comissão serão definidos por portaria do Secretário de Estado da Indústria, ouvido o Secretariado da Administração Pública.
 
-###### Art. 8.º Compete à Direcção-Geral de Minas e Serviços Geológicos:
+Art. 8.º Compete à Direcção-Geral de Minas e Serviços Geológicos:
 
 a) Estabelecer o quadro de expansão das indústrias extractivas, tendo em conta as orientações definidas para a política industrial e os objectivos gerais de desenvolvimento da indústria, fixados, nomeadamente, nos planos de fomento e seus programas de execução;
 
@@ -220,7 +293,7 @@ k) Dar parecer e prestar informações, em matéria da sua competência, a outro
 
 l) Desempenhar outras atribuições que lhe sejam cometidas por lei.
 
-###### Art. 9.º Compete à Direcção-Geral da Indústria Transformadora:
+Art. 9.º Compete à Direcção-Geral da Indústria Transformadora:
 
 a) Estabelecer o quadro de expansão das indústrias transformadoras, tendo em conta as orientações definidas para a política industrial e os objectivos gerais do desenvolvimento da indústria, fixados, nomeadamente, nos planos de fomento e seus programas de execução;
 
@@ -250,7 +323,7 @@ m) Assegurar as ligações do Estado com os centros técnicos de cooperação in
 
 n) Desempenhar outras atribuições que lhe sejam cometidas por lei.
 
-###### Art. 10.º - 1. Compete à Direcção-Geral de Energia:
+Art. 10.º - 1. Compete à Direcção-Geral de Energia:
 
 a) Estabelecer o quadro de expansão do sector energético, tendo em conta as orientações de política sectorial definidas e os objectivos gerais de desenvolvimento económico fixados, nomeadamente, nos planos de fomento e seus programas de execução;
 
@@ -280,7 +353,7 @@ m) Desempenhar outras atribuições que lhe sejam cometidas por lei.
 
 2. Transitam para a Direcção-Geral de Energia as funções que actualmente estão a cargo da Direcção-Geral dos Combustíveis e Reactores Nucleares Industriais da Junta de Energia Nuclear.
 
-###### Art. 11.º - 1. Compete à Direcção-Geral da Qualidade e Segurança Industriais:
+Art. 11.º - 1. Compete à Direcção-Geral da Qualidade e Segurança Industriais:
 
 a) Elaborar, em directa colaboração com os departamentos ministeriais competentes e as direcções-gerais que superintendem nas actividades em causa, projectos de regulamentos de higiene e segurança industriais, de processos de fabrico e de qualidade de produtos;
 
@@ -298,11 +371,11 @@ f) Desempenhar as demais atribuições que lhe sejam cometidas por lei.
 
 3. A Direcção-Geral da Qualidade e Segurança Industriais superintenderá administrativamente nas delegações regionais da Secretaria de Estado da Indústria, às quais incumbe, além do exercício, no seu âmbito regional, das atribuições referidas no n.º 1 deste artigo, assegurar as ligações funcionais entre as entidades públicas ou privadas situadas na respectiva área e os diferentes órgãos e serviços da Secretaria de Estado da Indústria competentes em razão da matéria.
 
-###### Art. 12.º - 1. O Fundo de Fomento Industrial é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
+Art. 12.º - 1. O Fundo de Fomento Industrial é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira.
 
 2. Incumbe ao Fundo assegurar, em cooperação com os demais órgãos e serviços da Secretaria de Estado da Indústria, a execução da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, no respeitante à concessão dos benefícios e outras medidas nela previstos para estímulo, orientação e apoio da iniciativa privada, tendo em conta os objectivos da política industrial.
 
-###### Art. 13.º - 1. O Instituto Português de Normalização é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira e aberto à adesão de empresas e instituições privadas, de harmonia com as modalidades que forem definidas no respectivo diploma orgânico.
+Art. 13.º - 1. O Instituto Português de Normalização é um organismo dotado de personalidade jurídica e de autonomia administrativa e financeira e aberto à adesão de empresas e instituições privadas, de harmonia com as modalidades que forem definidas no respectivo diploma orgânico.
 
 2. Incumbe ao Instituto Português de Normalização elaborar, a fim de serem sujeitas a homologação do Governo, normas em todos os domínios da actividade económica, não só da indústria como também da agricultura, comércio e serviços, bem como promover a sua aplicação, competindo-lhe em especial:
 
@@ -330,19 +403,19 @@ h) Desempenhar outras atribuições que, no domínio da normalização, lhe venh
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 14.º - 1. O pessoal da Secretaria de Estado da Indústria integra-se em quadros únicos correspondentes ao pessoal dirigente, técnico superior, técnico administrativo e auxiliar.
+Art. 14.º - 1. O pessoal da Secretaria de Estado da Indústria integra-se em quadros únicos correspondentes ao pessoal dirigente, técnico superior, técnico administrativo e auxiliar.
 
 2. Serão estabelecidas em decreto-lei a composição e as regras aplicáveis à gestão dos quadros referidos no número anterior.
 
 3. Serão criadas as carreiras de pessoal técnico e de pessoal administrativo, as quais serão organizadas pelo diploma referido no número anterior.
 
-###### Art. 15.º - 1. O provimento do pessoal da Secretaria de Estado da Indústria será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 15.º - 1. O provimento do pessoal da Secretaria de Estado da Indústria será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. Sem prejuízo do disposto nos artigos 16.º e 17.º, as nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Se o funcionário nomeado provisoriamente já tiver provimento definitivo noutro lugar da Secretaria de Estado da Indústria manterá o direito ao mesmo durante o prazo da nomeação provisória, que nesse caso é reduzido a um ano.
 
-###### Art. 16.º - 1. Se a nomeação do pessoal dirigente ou técnico superior da Secretaria de Estado da Indústria recair em funcionário público ou administrativo, será feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
+Art. 16.º - 1. Se a nomeação do pessoal dirigente ou técnico superior da Secretaria de Estado da Indústria recair em funcionário público ou administrativo, será feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
 
 2. Verificando-se a prorrogação, considera-se aberta vaga no quadro donde proceda o funcionário, podendo este, no entanto, regressar ao mesmo quadro, a seu pedido, desde que se encontre vago o cargo que desempenhava ou outro da mesma categoria.
 
@@ -350,71 +423,71 @@ h) Desempenhar outras atribuições que, no domínio da normalização, lhe venh
 
 4. No decurso dessa situação, o funcionário terá direito ao vencimento correspondente à sua categoria, a cargo do departamento onde prestar serviço, ou, se tal não for possível, por conta das verbas orçamentais do departamento onde haja prestado serviço ao abrigo do disposto no n.º 1 deste artigo.
 
-###### Art. 17.º Os lugares de director-geral e subdirector-geral serão providos, de entre diplomados com curso superior e de reconhecida competência, em comissão de serviço por períodos renováveis de três anos, sendo-lhes aplicável o regime estabelecido nos n.os 2 e seguintes do artigo 16.º, caso possuam já a qualidade de funcionário.
+Art. 17.º Os lugares de director-geral e subdirector-geral serão providos, de entre diplomados com curso superior e de reconhecida competência, em comissão de serviço por períodos renováveis de três anos, sendo-lhes aplicável o regime estabelecido nos n.os 2 e seguintes do artigo 16.º, caso possuam já a qualidade de funcionário.
 
-###### Art. 18.º O tempo de serviço prestado na Secretaria de Estado da Indústria nos termos dos artigos 16.º e 17.º considera-se, para todos os efeitos, como prestado no quadro de origem dos funcionários.
+Art. 18.º O tempo de serviço prestado na Secretaria de Estado da Indústria nos termos dos artigos 16.º e 17.º considera-se, para todos os efeitos, como prestado no quadro de origem dos funcionários.
 
-###### Art. 19.º - 1. O pessoal cuja admissão seja exigida por necessidades eventuais ou extraordinárias dos serviços poderá, nos termos da legislação vigente, ser requisitado a quaisquer serviços públicos ou organismos de coordenação económica, mas a requisição não poderá ter duração superior a um ano, improrrogável.
+Art. 19.º - 1. O pessoal cuja admissão seja exigida por necessidades eventuais ou extraordinárias dos serviços poderá, nos termos da legislação vigente, ser requisitado a quaisquer serviços públicos ou organismos de coordenação económica, mas a requisição não poderá ter duração superior a um ano, improrrogável.
 
 2. Poderá ser atribuída aos requisitados uma gratificação mensal, de montante a fixar pelo Secretário de Estado da Indústria, ouvido o Ministro das Finanças.
 
-###### Art. 20.º - 1. Poderá ser contratado ou assalariado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente.
+Art. 20.º - 1. Poderá ser contratado ou assalariado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente.
 
 2. A realização de estudos, inquéritos e outros trabalhos de carácter técnico e eventual poderá ser confiada, mediante contratos, a entidades nacionais ou estrangeiras estranhas aos serviços.
 
-###### Art. 21.º Os requisitos exigíveis para o ingresso nos quadros referidos no n.º 1 do artigo 14.º, bem como para promoção dentro de cada quadro, serão definidos no diploma a que se refere o n.º 2 do mesmo artigo.
+Art. 21.º Os requisitos exigíveis para o ingresso nos quadros referidos no n.º 1 do artigo 14.º, bem como para promoção dentro de cada quadro, serão definidos no diploma a que se refere o n.º 2 do mesmo artigo.
 
-###### Art. 22.º Aos directores de serviços e chefes de divisão poderão ser atribuídas gratificações de montante a fixar por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria, consoante a natureza ou o ónus especial dos respectivos cargos.
+Art. 22.º Aos directores de serviços e chefes de divisão poderão ser atribuídas gratificações de montante a fixar por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria, consoante a natureza ou o ónus especial dos respectivos cargos.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 23.º A estrutura, as normas de funcionamento e as dotações de pessoal dos órgãos, serviços e organismos referidos no n.º 1 do artigo 2.º deste decreto-lei, assim como as demais disposições necessárias para assegurar o exercício da competência que lhes é cometida, serão estabelecidas nos respectivos diplomas orgânicos, a publicar nos termos do artigo seguinte.
+Art. 23.º A estrutura, as normas de funcionamento e as dotações de pessoal dos órgãos, serviços e organismos referidos no n.º 1 do artigo 2.º deste decreto-lei, assim como as demais disposições necessárias para assegurar o exercício da competência que lhes é cometida, serão estabelecidas nos respectivos diplomas orgânicos, a publicar nos termos do artigo seguinte.
 
-###### Art. 24.º A nova orgânica fixada no presente decreto-lei será posta em execução à medida que for julgado conveniente mediante diplomas específicos dos novos órgãos e serviços por ele criados, sem prejuízo da ulterior publicação dos regulamentos que se mostrem necessários.
+Art. 24.º A nova orgânica fixada no presente decreto-lei será posta em execução à medida que for julgado conveniente mediante diplomas específicos dos novos órgãos e serviços por ele criados, sem prejuízo da ulterior publicação dos regulamentos que se mostrem necessários.
 
-###### Art. 25.º O Serviço de Apoio ao Investidor, criado pelo [Decreto-Lei n.º 534/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1971-632031), de 3 de Dezembro, e o Serviço de Parques Industriais, criado pelo [Decreto-Lei n.º 133/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1973-674846), de 28 de Março, serão integrados no Fundo de Fomento Industrial.
+Art. 25.º O Serviço de Apoio ao Investidor, criado pelo [Decreto-Lei n.º 534/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1971-632031), de 3 de Dezembro, e o Serviço de Parques Industriais, criado pelo [Decreto-Lei n.º 133/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1973-674846), de 28 de Março, serão integrados no Fundo de Fomento Industrial.
 
-###### Art. 26.º Os órgãos e serviços da Secretaria de Estado da Indústria existentes à data da publicação deste decreto-lei serão extintos ou integrados nos órgãos ou serviços nele previstos, através dos diplomas a que se refere o artigo 24.º, continuando até então em funcionamento de harmonia com a legislação respectiva.
+Art. 26.º Os órgãos e serviços da Secretaria de Estado da Indústria existentes à data da publicação deste decreto-lei serão extintos ou integrados nos órgãos ou serviços nele previstos, através dos diplomas a que se refere o artigo 24.º, continuando até então em funcionamento de harmonia com a legislação respectiva.
 
-###### Art. 27.º - 1. O quadro de pessoal dirigente e técnico superior dos órgãos e serviços da Secretaria de Estado da Indústria referidas nas alíneas a) a i) do n.º 1 do artigo 2.º terá, provisoriamente, a composição constante do mapa anexo ao presente decreto-lei.
+Art. 27.º - 1. O quadro de pessoal dirigente e técnico superior dos órgãos e serviços da Secretaria de Estado da Indústria referidas nas alíneas a) a i) do n.º 1 do artigo 2.º terá, provisoriamente, a composição constante do mapa anexo ao presente decreto-lei.
 
 2. A composição definitiva do quadro referido no número anterior será fixada pela forma prevista no n.º 2 do artigo 14.º quando se encontrarem determinadas as necessidades de pessoal do Fundo de Fomento Industrial.
 
-###### Art. 28.º - 1. A partir da entrada em vigor da presente decreto-lei, os lugares de director-geral poderão ser providos em conformidade com a estrutura definida no n.º 1 do artigo 2.º, independentemente da publicação dos respectivos diplomas orgânicos.
+Art. 28.º - 1. A partir da entrada em vigor da presente decreto-lei, os lugares de director-geral poderão ser providos em conformidade com a estrutura definida no n.º 1 do artigo 2.º, independentemente da publicação dos respectivos diplomas orgânicos.
 
 2. Tendo em vista facilitar a gradual preparação e instalação da nova orgânica estabelecidas pelo presente decreto-lei, o Secretário de Estado da Indústria determinará, por despacho, quais os serviços e órgãos existentes em que superintenderá cada um dos directores-gerais nomeados ao abrigo do n.º 1, até à entrada em vigor do diploma ou diplomas a publicar nos termos do artigo 24.º
 
 3. Durante o período transitório a que corresponde a aplicação do n.º 2 deste artigo, os directores-gerais que superintenderem nos serviços actualmente existentes terão a competência atribuída aos dirigentes destes mesmos serviços pela legislação em vigor.
 
-###### Art. 29.º Os directores-gerais poderão receber do Secretário de Estado da Indústria delegação de competências para despachar quaisquer assuntos relativos às funções específicas dos respectivos serviços.
+Art. 29.º Os directores-gerais poderão receber do Secretário de Estado da Indústria delegação de competências para despachar quaisquer assuntos relativos às funções específicas dos respectivos serviços.
 
-###### Art. 30.º - 1. Independentemente da publicação dos diplomas previstos no artigo 24.º e dentro dos limites resultantes do mapa anexo ao presente decreto-lei, podem desde já ser providos os lugares de subdirector-geral, director de serviços e chefe de divisão, cujo preenchimento se mostrar indispensável à necessária continuidade das funções da Secretaria de Estado.
+Art. 30.º - 1. Independentemente da publicação dos diplomas previstos no artigo 24.º e dentro dos limites resultantes do mapa anexo ao presente decreto-lei, podem desde já ser providos os lugares de subdirector-geral, director de serviços e chefe de divisão, cujo preenchimento se mostrar indispensável à necessária continuidade das funções da Secretaria de Estado.
 
 2. Os lugares referidos no número anterior serão providos por funcionários diplomados com curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 31.º O pessoal actualmente colocado nos diversos serviços e organismos da Secretaria de Estado da Indústria será distribuído pelos lugares dos órgãos, serviços e organismos agora criados nas mesmas categorias, ou em categorias equivalentes, ou que as substituam, desde que satisfaça aos requisitos de provimento, mediante lista aprovada pelo Secretário de Estado da Indústria e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, salvo anotação pelo Tribunal de Contas das novas situações desse pessoal.
+Art. 31.º O pessoal actualmente colocado nos diversos serviços e organismos da Secretaria de Estado da Indústria será distribuído pelos lugares dos órgãos, serviços e organismos agora criados nas mesmas categorias, ou em categorias equivalentes, ou que as substituam, desde que satisfaça aos requisitos de provimento, mediante lista aprovada pelo Secretário de Estado da Indústria e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, salvo anotação pelo Tribunal de Contas das novas situações desse pessoal.
 
-###### Art. 32.º - 1. No preenchimento dos lugares dos quadros previstos no artigo 14.º será dada preferência, observados os requisitos de provimento e caso não haja inconveniente, aos funcionários actualmente em serviço na Secretaria de Estado da Indústria, continuando os que não forem providos nos termos do artigo anterior a vencer pela letra em que se encontrem classificados e a desempenhar as suas actuais funções ou outras de nível equivalente que lhes sejam cometidas.
+Art. 32.º - 1. No preenchimento dos lugares dos quadros previstos no artigo 14.º será dada preferência, observados os requisitos de provimento e caso não haja inconveniente, aos funcionários actualmente em serviço na Secretaria de Estado da Indústria, continuando os que não forem providos nos termos do artigo anterior a vencer pela letra em que se encontrem classificados e a desempenhar as suas actuais funções ou outras de nível equivalente que lhes sejam cometidas.
 
 2. Os funcionários de provimento vitalício que não forem providos em lugares de categoria igual manterão os seus lugares actuais, sendo estes extintos à medida que forem vagando.
 
-###### Art. 33.º - 1. As quantias cobradas pelas Direcções-Gerais da Indústria Extractiva, da Indústria Transformadora e da Energia por serviços prestados no exercício das suas funções de promoção, assistência técnica e fiscalização constituem receitas próprias, a despender mediante orçamentos privativos aprovados pelo Secretário de Estado da Indústria.
+Art. 33.º - 1. As quantias cobradas pelas Direcções-Gerais da Indústria Extractiva, da Indústria Transformadora e da Energia por serviços prestados no exercício das suas funções de promoção, assistência técnica e fiscalização constituem receitas próprias, a despender mediante orçamentos privativos aprovados pelo Secretário de Estado da Indústria.
 
 2. As receitas a que se refere o número anterior serão acumuláveis, transitando os respectivos saldos de umas gerências para outras e serão escrituradas em receitas do Estado a aplicar através de dotação global.
 
-###### Art. 34.º O exercício das atribuições e das competências conferidas à Direcção-Geral de Energia pelo n.º 2 do artigo 10.º fica dependente da reorganização da Junta de Energia Nuclear.
+Art. 34.º O exercício das atribuições e das competências conferidas à Direcção-Geral de Energia pelo n.º 2 do artigo 10.º fica dependente da reorganização da Junta de Energia Nuclear.
 
-###### Art. 35.º É extinto o Serviço de Invenções da Repartição da Propriedade Industrial da Direcção-Geral do Comércio referido no artigo 230.º do Código da Propriedade Industrial.
+Art. 35.º É extinto o Serviço de Invenções da Repartição da Propriedade Industrial da Direcção-Geral do Comércio referido no artigo 230.º do Código da Propriedade Industrial.
 
-###### Art. 36.º As alterações orçamentais necessárias à execução do presente decreto-lei serão efectuadas por decretos referendados pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
+Art. 36.º As alterações orçamentais necessárias à execução do presente decreto-lei serão efectuadas por decretos referendados pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 21 de Novembro de 1973.**
+Promulgado em 21 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -422,7 +495,7 @@ Mapa a que se refere o artigo 27.º
 
 a) Cargos, categorias e lugares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/27800/22992306.pdf))](https://files.diariodarepublica.pt/1s/1973/11/27800/22992306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/27800/22992306.pdf)
 
 b) Números de lugares, distribuídos por serviços
 
@@ -508,4 +581,4 @@ Direcção-Geral da Qualidade e Segurança Industriais:
 
 26 técnicos de 2.ª classe.
 
-**O Ministro da Economia, Manuel Artur Cotta Agostinho Dias.**
+O Ministro da Economia, Manuel Artur Cotta Agostinho Dias.

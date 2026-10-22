@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 6º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 1670-(122) a 1670-(122)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30306/01220122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1974-235941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0911183dc9cdf2dc55f3f17c94fba4d4866cec2a43d94d67db680690b3db11b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b6807476d822a43a6b2864a3e9f32a91e209434595c18ad2527cc124cfc2947
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Diretor Geral
+- Gestão Administrativa
+- Gratificação
+- Junta de Crédito Público
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:278925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471720:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278925:por
+  label: "Revogado pelo DEC LEI.424/77.11.10.1977.MF, DR.IS [235] de 11.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/424-1977-278925
+  date: '1977-10-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:39Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +126,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O vogal da Junta do Crédito Público, representante do Estado, que for designado nos termos do § 3.º do artigo 2.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, para exercer funções depois de 1 de Janeiro de 1975 e até à data em que entrar em vigor a nova estrutura da Junta do Crédito Público, tomará posse do seu cargo perante o presidente da mesma Junta e terá desde logo a qualidade de vice-presidente.
+Artigo 1.º - 1. O vogal da Junta do Crédito Público, representante do Estado, que for designado nos termos do § 3.º do artigo 2.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, para exercer funções depois de 1 de Janeiro de 1975 e até à data em que entrar em vigor a nova estrutura da Junta do Crédito Público, tomará posse do seu cargo perante o presidente da mesma Junta e terá desde logo a qualidade de vice-presidente.
 
 2. Havendo impedimento do presidente da Junta do Crédito Público, o vogal a que se refere o número anterior tomará posse perante o Secretário de Estado do Tesouro.
 
-###### Art. 2.º - 1. Nos casos de impedimento ou vaga do presidente da Junta do Crédito Público, o director-geral dos respectivos serviços assumirá as funções de vogal da mesma Junta.
+Art. 2.º - 1. Nos casos de impedimento ou vaga do presidente da Junta do Crédito Público, o director-geral dos respectivos serviços assumirá as funções de vogal da mesma Junta.
 
 2. Ocorrendo simultaneamente impedimento ou vaga do director-geral, as funções de vogal da Junta serão assumidas pelo chefe da repartição central que o substitui nos termos do artigo 49.º do regulamento aprovado pelo [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940.
 
@@ -117,8 +144,8 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

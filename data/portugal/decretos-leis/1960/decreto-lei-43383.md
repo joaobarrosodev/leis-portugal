@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43383-1960-512778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 984471f20afdeabf4e2f98d70216624c8bc2de769ff9f359d89220eea3b80903
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af877f59cd2efa30154f3f34cbc9d2999aa3c895bb6094d6a0da7a911cba98ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Competência Jurisdicional
+- Contribuições e Impostos
+- Processo Tributário
+relationships:
+- type: cites
+  target: pt:dre:166466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288846:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:55Z'
   warnings: []
   errors: []
 ---
@@ -99,35 +114,35 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A competência conferida aos chefes das secções de finanças concelhias pelo artigo 2.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437), de 13 de Abril de 1929, passará a caber, nos distritos de Lisboa e Porto, aos juízes dos tribunais privativos de 1.ª instância do contencioso.
+Artigo 1.º A competência conferida aos chefes das secções de finanças concelhias pelo artigo 2.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437), de 13 de Abril de 1929, passará a caber, nos distritos de Lisboa e Porto, aos juízes dos tribunais privativos de 1.ª instância do contencioso.
 
-###### Art. 2.º A remessa dos processos para julgamento, bem como a sua devolução, far-se-á sob registo postal, expedindo-se conjuntamente uma guia em duplicado, num dos exemplares da qual será passado recibo, devidamente autenticado, que se enviará à entidade remetente nos três dias seguintes ao da recepção.
+Art. 2.º A remessa dos processos para julgamento, bem como a sua devolução, far-se-á sob registo postal, expedindo-se conjuntamente uma guia em duplicado, num dos exemplares da qual será passado recibo, devidamente autenticado, que se enviará à entidade remetente nos três dias seguintes ao da recepção.
 
-###### Art. 3.º O prazo para julgamento é de 30 dias, contados da data da entrada dos processos na secção de finanças ou na secretaria do tribunal.
+Art. 3.º O prazo para julgamento é de 30 dias, contados da data da entrada dos processos na secção de finanças ou na secretaria do tribunal.
 
-###### Art. 4.º Os tribunais de 1.ª instância do contencioso das contribuições e impostos não têm alçada. Exceptuam-se os tribunais de Lisboa e Porto, que têm alçada de 1000$00.
+Art. 4.º Os tribunais de 1.ª instância do contencioso das contribuições e impostos não têm alçada. Exceptuam-se os tribunais de Lisboa e Porto, que têm alçada de 1000$00.
 
-###### Art. 5.º Os artigos 28.º e 30.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437) passam a ter a seguinte redacção:
+Art. 5.º Os artigos 28.º e 30.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437) passam a ter a seguinte redacção:
 
-###### Art. 28.º Os processos de transgressão instaurados fora dos distritos de Lisboa e Porto, em que os respectivos autos tenham sido levantados pelo chefe da secção de finanças ou por um seu superior hierárquico, serão apenas instruídos na secção de finanças, subindo ao tribunal de 2.ª instância para julgamento.
+Art. 28.º Os processos de transgressão instaurados fora dos distritos de Lisboa e Porto, em que os respectivos autos tenham sido levantados pelo chefe da secção de finanças ou por um seu superior hierárquico, serão apenas instruídos na secção de finanças, subindo ao tribunal de 2.ª instância para julgamento.
 
 ...
 
-###### Art. 30.º É obrigatório o recurso por parte da Fazenda Nacional:
+Art. 30.º É obrigatório o recurso por parte da Fazenda Nacional:
 
 a) Nas reclamações contenciosas, quando a decisão seja contrária à Fazenda e às informações oficiais e o valor da causa exceda 2000$00, sendo o recurso para o tribunal de 2.ª instância, e 5000$00, quando seja para o Supremo Tribunal Administrativo;
 
 b) Nos processos de transgressão, quando a decisão seja contrária à Fazenda e a multa exceda 2000$00, desde que o recurso tenha lugar para o tribunal de 2.ª instância, e 5000$00, desde que seja para o Supremo Tribunal Administrativo.
 
-###### Art. 6.º As anulações com fundamento em cessação de factos tributários, quer em contribuição industrial, quer em impsto profissional, serão concedidas oficiosamente pelo chefe da secção de finanças, desde que tenha sido apresentada participação elaborada conforme os modelos anexos ao [Decreto-Lei n.º 31948](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31948-1942-166466), de 1 de Abril de 1942, e as informações oficiais confirmem inteiramente o facto.
+Art. 6.º As anulações com fundamento em cessação de factos tributários, quer em contribuição industrial, quer em impsto profissional, serão concedidas oficiosamente pelo chefe da secção de finanças, desde que tenha sido apresentada participação elaborada conforme os modelos anexos ao [Decreto-Lei n.º 31948](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31948-1942-166466), de 1 de Abril de 1942, e as informações oficiais confirmem inteiramente o facto.
 
 § 1.º Tendo a participação de cessação sido apresentada fora do prazo fixado no artigo 2.º do [Decreto n.º 17730](https://diariodarepublica.pt/dr/detalhe/decreto/17730-1929-288846), de 7 de Dezembro de 1929, não será de conceder a anulação da contribuição ou imposto relativo a qualquer trimestre do ano em que teve lugar a cessação; e sendo a participação apresentada depois de decorrido esse ano, a anulação a conceder será ùnicamente a que respeitar aos trimestres completos ainda por decorrer à data daquela apresentação.
 
 § 2.º Se as informações não confirmarem inteiramente a cessação dos factos tributários, os contribuintes serão notificados para, no prazo de oito dias, apresentarem, querendo, a sua reclamação contenciosa, oferecendo logo as provas admitidas por lei.
 
-###### Art. 7.º Este diploma entra em vigor no dia 1 de Janeiro de 1961.
+Art. 7.º Este diploma entra em vigor no dia 1 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

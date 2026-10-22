@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09200/07880788.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1980-681625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f990e3721c2daffc57ddcaaf444061e382e033208519d3942e15925f6cbf6c66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a85ea3eaebf954c7b13d30919e488fa2dae3b650b7e5720e930b43627e99050a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Direcção Geral do Pessoal do MAR e Estudos Náuticos
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547635:por
+  label: "Extinta a Direcção-Geral do Pessoal do Mar e Estudos Náuticos, criada pelo presente diploma, pelo DEC LEI.317/89.22.09.1989.MOPTC,\
+    \ DR.IS [219] de 22.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-1989-547635
+  date: '1989-09-22'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:235970:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:42Z'
   warnings: []
   errors: []
 ---
@@ -98,28 +116,28 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Direcção-Geral do Pessoal do Mar e Estudos Náuticos, abreviadamente designada DGPMEN, com as atribuições conferidas pela [Portaria n.º 873/74](https://diariodarepublica.pt/dr/detalhe/portaria/873-1974-235970), de 31 de Dezembro, à Direcção-Geral do Pessoal do Mar e à Direcção-Geral dos Estudos Náuticos.
+Artigo 1.º É criada a Direcção-Geral do Pessoal do Mar e Estudos Náuticos, abreviadamente designada DGPMEN, com as atribuições conferidas pela [Portaria n.º 873/74](https://diariodarepublica.pt/dr/detalhe/portaria/873-1974-235970), de 31 de Dezembro, à Direcção-Geral do Pessoal do Mar e à Direcção-Geral dos Estudos Náuticos.
 
-###### Art. 2.º As atribuições, competência, estrutura e quadro de pessoal da DGPMEN serão definidos em decreto regulamentar, a publicar no prazo de cento e oitenta dias a contar da data da publicação do presente diploma.
+Art. 2.º As atribuições, competência, estrutura e quadro de pessoal da DGPMEN serão definidos em decreto regulamentar, a publicar no prazo de cento e oitenta dias a contar da data da publicação do presente diploma.
 
-###### Art. 3.º - 1 - A DGPMEN será dirigida por um director-geral, nomeado em comissão de serviço, nos termos da lei geral.
+Art. 3.º - 1 - A DGPMEN será dirigida por um director-geral, nomeado em comissão de serviço, nos termos da lei geral.
 
 2 - Até à publicação do diploma a que se refere o artigo anterior será da competência do director-geral do Pessoal do Mar e Estudos Náuticos o desempenho das funções actualmente exercidas pelo director-geral do Pessoal do Mar e pelo director-geral dos Estudos Náuticos.
 
 3 - Ao director-geral do Pessoal do Mar e Estudos Náuticos compete apresentar no prazo máximo de sessenta dias o projecto de diploma referido no artigo 2.º
 
-###### Art. 4.º O pessoal provido nos lugares dos quadros da Direcção-Geral do Pessoal do Mar e da Direcção-Geral dos Estudos Náuticos e o restante pessoal ao seu serviço transitarão para a DGPMEN, mantendo todos os seus anteriores direitos e regalias.
+Art. 4.º O pessoal provido nos lugares dos quadros da Direcção-Geral do Pessoal do Mar e da Direcção-Geral dos Estudos Náuticos e o restante pessoal ao seu serviço transitarão para a DGPMEN, mantendo todos os seus anteriores direitos e regalias.
 
-###### Art. 5.º Transitarão para a DGPMEN os bens e direitos do Estado, incluindo os emergentes dos contratos de arrendamento e outros afectos à Direcção-Geral do Pessoal do Mar e à Direcção-Geral dos Estudos Náuticos.
+Art. 5.º Transitarão para a DGPMEN os bens e direitos do Estado, incluindo os emergentes dos contratos de arrendamento e outros afectos à Direcção-Geral do Pessoal do Mar e à Direcção-Geral dos Estudos Náuticos.
 
-###### Art. 6.º No presente ano económico, as despesas com execução deste diploma serão suportadas pelas dotações inscritas no Orçamento Geral do Estado para a Direcção-Geral do Pessoal do Mar e Direcção-Geral dos Estudos Náuticos, fazendo-se as alterações orçamentais necessárias.
+Art. 6.º No presente ano económico, as despesas com execução deste diploma serão suportadas pelas dotações inscritas no Orçamento Geral do Estado para a Direcção-Geral do Pessoal do Mar e Direcção-Geral dos Estudos Náuticos, fazendo-se as alterações orçamentais necessárias.
 
-###### Art. 7.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
+Art. 7.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 12 de Abril de 1980.**
+Promulgado em 12 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

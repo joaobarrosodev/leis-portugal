@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47190-1966-480512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e241563e167ab36754c0168f8770badb21cb53aaa62d4ca9e9f58f0b9a89d19d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 607df7d7a901e2292c63d67ef4e01787f56f696b5186a4cc3d5f1979e0ba56c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Argentina
+- Convenção
+- Lisboa
+- Portugal
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:603259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603259:por
+  label: "Substituída a Convenção, pelo DEC.10/2009.03.04.2009.MNE, DR.IS [66] de 03.04.2009, na data da sua entrada em vigor.\0\
+    .\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/10-2009-603259
+  date: '2009-04-03'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:16Z'
   warnings: []
   errors: []
 ---
@@ -89,27 +100,27 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção de segurança social argentino-portuguesa, assinada em Lisboa em 21 de Maio de 1966, cujos textos em português e espanhol vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção de segurança social argentino-portuguesa, assinada em Lisboa em 21 de Maio de 1966, cujos textos em português e espanhol vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 CONVENÇÃO DE SEGURANÇA SOCIAL ARGENTINO-PORTUGUESA
 
-**O Presidente da República Portuguesa e o Presidente da República Argentina, inspirados pelo desejo de harmonizar as relações entre os dois países em matéria de segurança social, decidiram celebrar uma Convenção e para esse efeito nomearam como seus plenipotenciários:**
+O Presidente da República Portuguesa e o Presidente da República Argentina, inspirados pelo desejo de harmonizar as relações entre os dois países em matéria de segurança social, decidiram celebrar uma Convenção e para esse efeito nomearam como seus plenipotenciários:
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 O Sr. Dr. Alberto Marciano Gorjão Franco Nogueira, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Argentina:**
+O Presidente da República Argentina:
 
 O Sr. Enrique S. Rabinovitz Hantover, Subsecretario de Seguridad Social;
 
 os quais, havendo trocado os seus respectivos poderes, achados em boa e devida forma, acordaram nas seguintes disposições:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### ARTIGO 1.º
 
@@ -169,7 +180,7 @@ As autoridades competentes dos dois Estados contratantes poderão, de comum acor
 
 Os nacionais portugueses ou argentinos que possam fazer valer no outro Estado contratante um direito a prestações pecuniárias correspondente aos regimes de invalidez, velhice ou morte ou ao seguro contra acidentes de trabalho e doenças profissionais conservam esse direito sem qualquer limitação quando se transfiram para o território do seu próprio Estado.
 
-# PARTE II — Disposições especiais
+## PARTE II — Disposições especiais
 
 A) Prestações de invalidez, velhice e morte
 
@@ -219,7 +230,7 @@ Os nacionais portugueses e argentinos beneficiarão das prestações relativas a
 
 Se para avaliar o grau de incapacidade em caso de acidente de trabalho ou de doença profissional a legislação de um dos Estados contratantes preceituar que sejam tomados em consideração os acidentes de trabalho e as doenças profissionais anteriormente ocorridos, sê-lo-ão também os acidentes de trabalho e as doenças profissionais anteriormente ocorridos ao abrigo da legislação do outro Estado como se tivessem ocorrido sob a legislação do primeiro Estado.
 
-# PARTE III — Disposições diversas e transitórias
+## PARTE III — Disposições diversas e transitórias
 
 ###### ARTIGO 15.º
 
@@ -329,4 +340,4 @@ Pelo Governo da República Argentina:
 
 Enrique S. Rabinovitz Hantover, Subsecretario de Seguridad Social.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/09/21000/14711478.pdf))](https://files.diariodarepublica.pt/1s/1966/09/21000/14711478.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/09/21000/14711478.pdf)

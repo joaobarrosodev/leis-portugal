@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42836-1960-278716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96ac61cafe1dc2758871dcdfe791636d26dddc026507d92ad8a725925e49dc51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bedf636b9e2847b04f0cb5e25916f24ad2b3d4a51fa92d49d4ce5cf5ae1e899c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Concessão
+- Empresa Estrangeira
+- Ministro das Comunicações
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405543:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:58Z'
   warnings: []
   errors: []
 ---
@@ -92,23 +107,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com The Western Union Telegraph Company um adicional ao contrato de concessão de cabos telegráficos submarinos que ligam Horta a Canso e Horta a Waterville, assinado em 28 de Fevereiro de 1956, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
+Artigo único. É o Governo, por intermédio do Ministro das Comunicações, autorizado a celebrar com The Western Union Telegraph Company um adicional ao contrato de concessão de cabos telegráficos submarinos que ligam Horta a Canso e Horta a Waterville, assinado em 28 de Fevereiro de 1956, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelo Ministro das Comunicações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
-## Anexo ao Decreto-Lei n.º 42836
+Anexo ao Decreto-Lei n.º 42836
 
 Termo do contrato adicional a celebrar entre o Governo Português e The Western Union Telegraph Company
 
-###### Artigo 1.º Ao artigo 9.º do contrato de 28 de Fevereiro de 1956 é acrescentado um § 6.º, com a seguinte redacção:
+Artigo 1.º Ao artigo 9.º do contrato de 28 de Fevereiro de 1956 é acrescentado um § 6.º, com a seguinte redacção:
 
 § 6.º Isentar a actividade da Companhia de quaisquer contribuições, impostos ou taxas, presentes ou futuras, não previstos no presente contrato.
 
-###### Art. 2.º O artigo 12.º do mesmo contrato é substituído pelo seguinte:
+Art. 2.º O artigo 12.º do mesmo contrato é substituído pelo seguinte:
 
-###### Art. 12.º A anuidade que a Companhia se obriga a pagar pela licença de amarração referida no n.º 6.º do artigo 7.º compõe-se das duas seguintes parcelas, expressas na unidade monetária definida na Convenção internacional das telecomunicações:
+Art. 12.º A anuidade que a Companhia se obriga a pagar pela licença de amarração referida no n.º 6.º do artigo 7.º compõe-se das duas seguintes parcelas, expressas na unidade monetária definida na Convenção internacional das telecomunicações:
 
 a) 160000 francos-ouro pelo tráfego que transitar pelos cabos da Companhia e entre estes cabos e os de outras concessionárias, excepto o cabo da Deutsche Atlantische Telegraphengesellschaft (DAT) que liga a Horta a Nacquiville (França);
 
@@ -134,12 +149,12 @@ Neste último caso a parcela da anuidade referida na alínea b) do corpo deste a
 
 § 5.º O Governo compromete-se a tornar extensivos à Companhia, em substituição dos encargos fixados neste artigo, quaisquer outros resultantes de critérios mais favoráveis que, porventura, venham a ser estabelecidos em contratos com outras concessionárias de cabos submarinos em analogia de circunstâncias técnicas ou de exploração.
 
-###### Art. 3.º O corpo do artigo 16.º do citado contrato passa a ter a redacção seguinte:
+Art. 3.º O corpo do artigo 16.º do citado contrato passa a ter a redacção seguinte:
 
-###### Art. 16.º Salvo caso de força maior, a inobservância das obrigações estabelecidas no presente contrato sujeita a Companhia às multas que forem fixadas em despacho ministerial, dado sob parecer dos CTT. A multa por cada falta não será inferior a 0,1 por cento nem superior a 5 por cento do valor da anuidade estabelecida no artigo 12.º e reverterá para os CTT.
+Art. 16.º Salvo caso de força maior, a inobservância das obrigações estabelecidas no presente contrato sujeita a Companhia às multas que forem fixadas em despacho ministerial, dado sob parecer dos CTT. A multa por cada falta não será inferior a 0,1 por cento nem superior a 5 por cento do valor da anuidade estabelecida no artigo 12.º e reverterá para os CTT.
 
-###### Art. 4.º O presente contrato adicional, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1935, considera-se em vigor desde 1 de Janeiro de 1958 e é válido pelo prazo de doze anos, a contar da data da entrada em vigor do contrato inicial: 1 de Janeiro de 1955.
+Art. 4.º O presente contrato adicional, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1935, considera-se em vigor desde 1 de Janeiro de 1958 e é válido pelo prazo de doze anos, a contar da data da entrada em vigor do contrato inicial: 1 de Janeiro de 1955.
 
-###### Art. 5.º O pagamento dos acréscimos da anuidade do primitivo contrato já vencidos nos termos deste contrato adicional e das prestações da nova parcela da anuidade também já vencidas nas mesmas condições será efectuado dentro do prazo de 30 dias, a contar da data da assinatura do contrato.
+Art. 5.º O pagamento dos acréscimos da anuidade do primitivo contrato já vencidos nos termos deste contrato adicional e das prestações da nova parcela da anuidade também já vencidas nas mesmas condições será efectuado dentro do prazo de 30 dias, a contar da data da assinatura do contrato.
 
 Ministério das Comunicações, 8 de Fevereiro de 1960. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

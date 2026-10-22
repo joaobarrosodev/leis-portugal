@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1975-336167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 482b61a55e77b6d5d26fa9960b8c40ef5467d6219c742a9428ba7718b97c6498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c235db9467eb58e6d87ea202b97633ecc687dd097f6a2345f1784f75cf645a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Força Aérea
+- Militar
+- Pessoal Navegante
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:236570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407942:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:36Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Considerando ainda que a faculdade conferida pelo n.º 1.º, alínea b), da [Por
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Ao artigo 14.º do [Decreto-Lei n.º 711/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/711-1973-407942), de 31 de Dezembro, é aditado o n.º 4, com a redacção seguinte:
+Artigo único. Ao artigo 14.º do [Decreto-Lei n.º 711/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/711-1973-407942), de 31 de Dezembro, é aditado o n.º 4, com a redacção seguinte:
 
 4. O ingresso no quadro de oficiais navegadores é extensivo aos oficiais milicianos habilitados com a parte escolar do curso de Aeronáutica da Academia Militar que se encontrem nas condições expressas na Portaria conjunta do Ministério do Exército e da Secretaria de Estado da Aeronáutica n.º 15477, de 25 de Julho de 1955, sem prejuízo, no que respeita a antiguidade, do preceituado nos n.os 2 e 3.
 
@@ -100,8 +112,8 @@ Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, 
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 16 de Maio de 1975.**
+Promulgado em 16 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

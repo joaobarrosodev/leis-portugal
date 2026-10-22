@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1973-413065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4d76dc0b22c7c8131e2daf3f378a66453e358a6c50ac69ff1c66a2a73950959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26b81b91073c5254bc356ca0b997e3de720491c654bd1b76718a69afbfe04a93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Forças Armadas
+- GNR
+- Integração de Trabalhadores
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:413987:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:28Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +97,12 @@ de 6 de Outubro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Não são exigíveis as condições 3.ª e 7.ª do n.º 1 do artigo 4.º do [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, para a admissão na Guarda Nacional Republicana dos oficiais do quadro de complemento das forças armadas constantes da lista publicada no Diário do Governo, 2.ª série, n.º 191, de 16 de Agosto de 1973.
+Artigo único. Não são exigíveis as condições 3.ª e 7.ª do n.º 1 do artigo 4.º do [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, para a admissão na Guarda Nacional Republicana dos oficiais do quadro de complemento das forças armadas constantes da lista publicada no Diário do Governo, 2.ª série, n.º 191, de 16 de Agosto de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 27 de Setembro de 1973.**
+Promulgado em 27 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

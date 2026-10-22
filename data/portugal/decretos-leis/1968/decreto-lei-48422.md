@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/06/13600/08650865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48422-1968-272379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc90b1d26ea30b5d188ffd160bd6d38a9a1ad4111ccb0da2e07e9df2af3d0e1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c19918d477f9e4adec6f7cab2a26aee850342d30916c67debc8816b37f833e6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Ministério do Exército
 relationships:
 - type: amended_by
   target: pt:dre:631786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390785:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:272870:por
+  label: "Rectificado o preâmbulo pela RECT.DD511.03.07.1968.PC, DG.IS [156] de 03.07.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1968-272870
+  date: '1968-07-03'
+- type: repealed_by
+  target: pt:dre:631786:por
+  label: "Revogado, a partir de 01.07.1971, pelo DEC LEI.507/71.20.11.1971.MX, DG.IS [273] de 20.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/507-1971-631786
+  date: '1971-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:33Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +120,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério do Exército, por intermédio do conselho administrativo da Chefia do Serviço de Orçamento e Administração, a celebrar com a Companhia IBM Portuguesa, S. A. R. L., os contratos necessários à execução das tarefas cometidas ao Serviço Mecanográfico do Exército, com o seguinte valor máximo:
+Artigo 1.º É autorizado o Ministério do Exército, por intermédio do conselho administrativo da Chefia do Serviço de Orçamento e Administração, a celebrar com a Companhia IBM Portuguesa, S. A. R. L., os contratos necessários à execução das tarefas cometidas ao Serviço Mecanográfico do Exército, com o seguinte valor máximo:
 
 Ano económico de 1968 ... 3891662$00
 
@@ -112,10 +134,10 @@ Ano económico de 1970 e seguintes ... 4875436$00
 
 3. A quantia mencionada no corpo do artigo, referente a 1970 e seguintes, corresponde ao somatório das seguintes importâncias: 969492$00 respeitantes ao aluguer do equipamento periférico necessário ao novo sistema; 3805944$00 respeitantes ao aluguer do novo sistema, e 100000$00 como reserva para outras necessidades que se venham a verificar.
 
-###### Art. 2.º Fica autorizado o Ministério do Exército a inscrever anualmente no seu orçamento próprio o crédito necessário à execução do disposto no presente diploma.
+Art. 2.º Fica autorizado o Ministério do Exército a inscrever anualmente no seu orçamento próprio o crédito necessário à execução do disposto no presente diploma.
 
-###### Art. 3.º Ficam revogados os Decretos n.os 43275, de 28 de Outubro de 1960, e 45270, de 25 de Setembro de 1963, e o [Decreto-Lei n.º 47922](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47922-1967-390785), de 8 de Setembro de 1967.
+Art. 3.º Ficam revogados os Decretos n.os 43275, de 28 de Outubro de 1960, e 45270, de 25 de Setembro de 1963, e o [Decreto-Lei n.º 47922](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47922-1967-390785), de 8 de Setembro de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

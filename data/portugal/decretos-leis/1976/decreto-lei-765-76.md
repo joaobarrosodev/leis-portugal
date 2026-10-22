@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/24800/24112412.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/765-1976-409516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6e41e0c239f06e6f322381d6db49c8415844e25b87a337aa5501cc111805f0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dd9167da0a34fb06dff9c9a623231e17b6511ac26524b9462cc2add9ebd66f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imposto de Compensação
+- Licença de Transporte
+- Pagamento
+- Taxa
+- Transporte
+- Transporte de Carga
+- Transporte de Mercadorias
+- Transporte Particular
+- Transporte Público
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140344:por
+  label: "Alterado o art. 31º do Dec Lei 45331 de 28-Out de 1963, com a redacção conferida pelo presente diploma, pela LEI.20/77.05.03.1977.AR,\
+    \ DR.IS [54] de 05.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-1977-140344
+  date: '1977-03-05'
+- type: cites
+  target: pt:dre:161084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:140344:por
+  label: "Revogado, com efeitos a partir de 01.01.1977, o art. 3º do presente diploma, sem prejuízo da sua aplicação plena\
+    \ aos actos decorrentes do exercício financeiro do ano económico de 1976, pela LEI.20/77.05.03.1977.AR, DR.IS [54] de\
+    \ 05.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-1977-140344
+  date: '1977-03-05'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:36Z'
   warnings: []
   errors: []
 ---
@@ -117,11 +161,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 22.º, a alínea 6) do corpo do artigo 23.º, o artigo 27.º e o artigo 31.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 22.º, a alínea 6) do corpo do artigo 23.º, o artigo 27.º e o artigo 31.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, passam a ter a seguinte redacção:
 
-###### Art. 22.º Os proprietários de veículos automóveis ligeiros de passageiros e ligeiros mistos, uns e outros de serviço particular, que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação com a taxa anual de 18000$00.
+Art. 22.º Os proprietários de veículos automóveis ligeiros de passageiros e ligeiros mistos, uns e outros de serviço particular, que utilizem carburantes ou combustíveis normais ou de substituição definidos no [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação com a taxa anual de 18000$00.
 
-###### Art. 23.º Ficam isentos do imposto de compensação:
+Art. 23.º Ficam isentos do imposto de compensação:
 
 1) ...
 
@@ -143,7 +187,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 27.º Os veículos que, excedendo os limites de peso ou pressão sobre o solo ou de dimensões definidas nos artigos 18.º e 19.º do Código da Estrada, transitem nas vias públicas, mediante autorização especial, por itinerários previamente estabelecidos e se destinem exclusivamente ao transporte de grandes objectos, de forma e peso indivisíveis, ficarão sujeitos a um regime tributário especial em que o valor, em escudos, do imposto de circulação ou de camionagem, para cada veículo e por cada percurso efectuado em carga, será calculado pela fórmula seguinte:
+Art. 27.º Os veículos que, excedendo os limites de peso ou pressão sobre o solo ou de dimensões definidas nos artigos 18.º e 19.º do Código da Estrada, transitem nas vias públicas, mediante autorização especial, por itinerários previamente estabelecidos e se destinem exclusivamente ao transporte de grandes objectos, de forma e peso indivisíveis, ficarão sujeitos a um regime tributário especial em que o valor, em escudos, do imposto de circulação ou de camionagem, para cada veículo e por cada percurso efectuado em carga, será calculado pela fórmula seguinte:
 
 I = p x C x 0,20
 
@@ -151,13 +195,13 @@ em que p é o percurso total expresso em quilómetros e C a carga útil transpor
 
 ...
 
-###### Art. 31.º - 1.º As licenças para transportes particulares ou públicos só são válidas quando se mostre ter sido efectuado o pagamento dos impostos de circulação, camionagem e compensação, quando devidos, relativos ao último período de cobrança de que haja terminado o respectivo prazo de pagamento voluntário.
+Art. 31.º - 1.º As licenças para transportes particulares ou públicos só são válidas quando se mostre ter sido efectuado o pagamento dos impostos de circulação, camionagem e compensação, quando devidos, relativos ao último período de cobrança de que haja terminado o respectivo prazo de pagamento voluntário.
 
 2.º Os condutores dos veículos automóveis de passageiros de serviço particular são obrigados a apresentar, sempre que competentemente lhes sejam exigidos, os documentos comprovativos do pagamento do imposto de compensação, quando devido, relativos ao último período de cobrança de que haja terminado o respectivo prazo de pagamento voluntário.
 
-###### Art. 2.º As alterações estabelecidas no artigo anterior, que restringem a incidência do imposto de compensação, fixam a respectiva taxa e criam a nova isenção, produzem efeitos a partir de 1 de Julho do corrente ano.
+Art. 2.º As alterações estabelecidas no artigo anterior, que restringem a incidência do imposto de compensação, fixam a respectiva taxa e criam a nova isenção, produzem efeitos a partir de 1 de Julho do corrente ano.
 
-###### Art. 3.º - 1. A receita actualmente proveniente do imposto de compensação e repartida entre o Fundo Especial de Transportes Terrestres e o Tesouro, em conformidade com a alínea d) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, será assegurada pelo Fundo de Abastecimento nos termos dos números seguintes.
+Art. 3.º - 1. A receita actualmente proveniente do imposto de compensação e repartida entre o Fundo Especial de Transportes Terrestres e o Tesouro, em conformidade com a alínea d) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, será assegurada pelo Fundo de Abastecimento nos termos dos números seguintes.
 
 2. O Fundo de Abastecimento compensará o Fundo Especial de Transportes Terrestres e o Tesouro através do pagamento da percentagem de 7% do preço de venda do gasóleo, por cada metro cúbico do gasóleo consumido no mercado interno.
 
@@ -169,12 +213,12 @@ em que p é o percurso total expresso em quilómetros e C a carga útil transpor
 
 6. A importância relativa ao 3.º trimestre do corrente ano será determinada a partir da data de entrada em vigor do actual preço do gasóleo.
 
-###### Art. 4.º O prazo de cobrança à boca do cofre do imposto de compensação respeitante ao 3.º e 4.º trimestres do corrente ano, calculado com base na taxa fixada pelo presente diploma, decorrerá respectivamente durante os próximos meses de Dezembro e Fevereiro.
+Art. 4.º O prazo de cobrança à boca do cofre do imposto de compensação respeitante ao 3.º e 4.º trimestres do corrente ano, calculado com base na taxa fixada pelo presente diploma, decorrerá respectivamente durante os próximos meses de Dezembro e Fevereiro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 12 de Outubro de 1976.**
+Promulgado em 12 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03300/02820282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1976-506651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 424c5fc4e2a2d9ff7b37a6df6857d45623111197b93f8cf991771fa3d6762f8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6a897e6048a653eda166e67a4e14038968d127bd91466d1be6fe4b6b4e3d5bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Eleição
+- Orgânica
+- Presidente
+- Serviços de Justiça Fiscal
+- Tribunal Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:476172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633133:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:14Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +120,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 4.º da Organização dos Serviços de Justiça Fiscal, aprovada pelo [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º da Organização dos Serviços de Justiça Fiscal, aprovada pelo [Decreto-Lei n.º 45006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45006-1963-628298), de 27 de Abril de 1963, passa a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1. Os juízes do tribunal de 2.ª instância elegerão, de entre eles, o seu presidente.
 
@@ -107,12 +130,12 @@ A eleição far-se-á por escrutínio secreto, no prazo de trinta dias a contar 
 
 § 2.º ...
 
-###### Art. 2.º Para o preenchimento da vaga existente, o prazo referido no artigo anterior contar-se-á da entrada em vigor deste diploma.
+Art. 2.º Para o preenchimento da vaga existente, o prazo referido no artigo anterior contar-se-á da entrada em vigor deste diploma.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 30 de Janeiro de 1976.**
+Promulgado em 30 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

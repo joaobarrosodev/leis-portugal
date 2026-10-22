@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19900/11951198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/340-1972-676583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db345b6555c43e0c71ccfb38bea5f6eafdc056220210c0a84a64f4a88bb3b214
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5b892a968f2abb268fc1c77d1847611582f604c13bac9fdd87154e8cbc88086
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Contrato de Concessão
+- Criação de Serviços
+- Definição de Competências
+- Fiscalização
+- Fraude Comercial
+- Indústria de Ourivesaria e Relojoaria
+- Indústria Mineira
+- Pedra Preciosa
+- PSP
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:616264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476125:por
+  label: Alteradas as punições para os crimes previstos nos arts. 26.º, 27.º n.sº 1 e 2 do art. 28.º e art. 29.º e revogados
+    os arts. 30.º e 32.º e o n.º 2 do art. 33.º pelo(a) Decreto-Lei n.º 282/74 - Diário do Governo n.º 147/1974, Série I de
+    1974-06-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1974-476125
+  date: '1974-06-26'
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616264:por
+  label: "Revogado pelo DEC LEI.139/91.10.04.1991.MF, DR.IS-A [83] de 10.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1991-616264
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:27Z'
   warnings: []
   errors: []
 ---
@@ -114,31 +141,31 @@ Nestes termos, por motivo de urgência, ao abrigo do § 3.º do artigo l36.º da
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º A prospecção, pesquisa e exploração de diamantes só é lícita quando realizada nos termos e segundo as condições estabelecidas na lei.
+Artigo 1.º A prospecção, pesquisa e exploração de diamantes só é lícita quando realizada nos termos e segundo as condições estabelecidas na lei.
 
-###### Art. 2.º - 1. Para a prevenção e repressão do tráfico ilícito de diamantes não lapidados ou talhados serão estabelecidas nos terrenos com ocorrências diamantíferas ou susceptíveis de as terem zonas de exploração, zonas de reserva e zonais de protecção.
+Art. 2.º - 1. Para a prevenção e repressão do tráfico ilícito de diamantes não lapidados ou talhados serão estabelecidas nos terrenos com ocorrências diamantíferas ou susceptíveis de as terem zonas de exploração, zonas de reserva e zonais de protecção.
 
 2. Compete à Direcção Provincial de Geologia e Minas organizar e manter sempre actualizado o cadastro das zonas referidas no número anterior.
 
-###### Art. 3.º São zonas de exploração as áreas situadas dentro dos claims demarcados estritamente necessários à exploração dos jazigos diamantíferos, as áreas diamantíferas ainda não demarcadas, mas com exploração autorizada, umas e outras acrescidas de uma faixa envolvente cujos limites não podem ir além de 1000 m de distância dos jazigos descobertos, e, bem assim, o terreno ocupado pelas instalações mecânicas e estabelecimentos de serviço da exploração de diamantes e faixa envolvente de 500 m de largura.
+Art. 3.º São zonas de exploração as áreas situadas dentro dos claims demarcados estritamente necessários à exploração dos jazigos diamantíferos, as áreas diamantíferas ainda não demarcadas, mas com exploração autorizada, umas e outras acrescidas de uma faixa envolvente cujos limites não podem ir além de 1000 m de distância dos jazigos descobertos, e, bem assim, o terreno ocupado pelas instalações mecânicas e estabelecimentos de serviço da exploração de diamantes e faixa envolvente de 500 m de largura.
 
-###### Art. 4.º - 1. As faixas envolventes a que se refere o artigo anterior serão definidas em cada caso pelo Governador da província, ouvidos os serviços competentes e o concessionário, de modo que a respectiva zona de exploração se limite ao mínimo compatível com as estritas necessidades de laboração, a defesa que se pretende assegurar e a fácil identificação da delimitação.
+Art. 4.º - 1. As faixas envolventes a que se refere o artigo anterior serão definidas em cada caso pelo Governador da província, ouvidos os serviços competentes e o concessionário, de modo que a respectiva zona de exploração se limite ao mínimo compatível com as estritas necessidades de laboração, a defesa que se pretende assegurar e a fácil identificação da delimitação.
 
 2. Mais, ocorrendo motivos ponderosos, pode o Ministro do Ultramar, ouvida a respectiva província, fixar os limites da faixa envolvente do depósito diamantífero a distância superior a 1000 m dos extremos dos jazigos descobertos.
 
 3. Por factos supervenientes, as faixas envolventes referidas nos números anteriores podem ser modificadas a todo o tempo, ouvido o concessionário ou a seu requerimento.
 
-###### Art. 5.º - 1. Os limites das zonas de exploração serão assinalados no terreno por postes bem visíveis com a altura de, pelo menos, metro e meio e colocados nos vértices dos polígonos que as definem e nos pontos de cruzamento destes com as vias de acesso ou caminhos públicos, encimados por tabuletas voltadas para o exterior com os dizeres «Zona de exploração - Acesso proibido», acrescidos do nome ou denominação do concessionário.
+Art. 5.º - 1. Os limites das zonas de exploração serão assinalados no terreno por postes bem visíveis com a altura de, pelo menos, metro e meio e colocados nos vértices dos polígonos que as definem e nos pontos de cruzamento destes com as vias de acesso ou caminhos públicos, encimados por tabuletas voltadas para o exterior com os dizeres «Zona de exploração - Acesso proibido», acrescidos do nome ou denominação do concessionário.
 
 2. Sob informação favorável dos serviços competentes, pode o Governo da província, ouvido o concessionário, determinar a vedação contínua, no todo ou em parte, das zonas referidas no número anterior.
 
 3. Se os trabalhos previstos nos números anteriores não forem efectuados nas condições e prazos fixados, pode o Governo da província mandá-los executar à custa do concessionário.
 
-###### Art. 6.º - 1. O acesso a uma zona de exploração e faixas envolventes é estritamente reservado ao pessoal do concessionário adstrito aos trabalhos respectivos, processando-se as entradas e saídas ùnicamente pelas vias a isso destinadas e mediante o condicionalismo regulamentado pelo concessionário.
+Art. 6.º - 1. O acesso a uma zona de exploração e faixas envolventes é estritamente reservado ao pessoal do concessionário adstrito aos trabalhos respectivos, processando-se as entradas e saídas ùnicamente pelas vias a isso destinadas e mediante o condicionalismo regulamentado pelo concessionário.
 
 2. O acesso a uma zona de exploração e faixas envolventes das autoridades judiciais e policiais ou seus agentes e da inspecção Provincial de Geologia e Minas, em objecto de serviço, faz-se nos termos gerais de direito e dos respectivos diplomas orgânicos.
 
-###### Art. 7.º - 1. A pedido do concessionário, o Governo da província pode autorizar que os empregados das centrais de escolha fiquem privados de comunicação com o exterior por tempo não superior a quarenta e cinco dias.
+Art. 7.º - 1. A pedido do concessionário, o Governo da província pode autorizar que os empregados das centrais de escolha fiquem privados de comunicação com o exterior por tempo não superior a quarenta e cinco dias.
 
 2. O regime de isolamento de que trata o número antecedente só pode ser autorizado depois de estarem assegurados os serviços de alimentação, higiene, assistência médica e recreio.
 
@@ -146,33 +173,33 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e 
 
 4. Relativamente a cada empregado, findo um período de isolamento não poderá seguir-se outro antes de decorridas duas semanas.
 
-###### Art. 8.º - 1. Ao concessionário é reconhecido o direito de pedir a deslocação dos residentes para a instalação de uma zona de exploração.
+Art. 8.º - 1. Ao concessionário é reconhecido o direito de pedir a deslocação dos residentes para a instalação de uma zona de exploração.
 
 2. Para ressarcir os danos e incómodos causados às populações deslocadas, o Governo da província, ouvidos os serviços provinciais competentes e o governo do distrito, fixará, em seu prudente arbítrio, as compensações devidas pelo concessionário que individualmente, quer ao agregado populacional em conjunto.
 
 3. É permitida a expropriação por utilidade pública dos bens situados em zona de exploração a instalar.
 
-###### Art. 9.º Quando uma zona de exploração inclua na sua área estrada ou caminho público, o concessionário construirá à sua custa vias de substituição segundo traçado e características que a entidade competente fixar.
+Art. 9.º Quando uma zona de exploração inclua na sua área estrada ou caminho público, o concessionário construirá à sua custa vias de substituição segundo traçado e características que a entidade competente fixar.
 
-###### Art. 10.º - 1. A pedido do concessionário, o Governador da província, ouvidos os serviços provinciais competentes e o governo do distrito, pode criar em volta do depósito ou jazigo de diamantes encontrado, enquanto se não iniciar a sua exploração, uma zona de reserva, cujos limites não podem exceder a distância de 3 km a contar do extremo do depósito ou jazigo.
+Art. 10.º - 1. A pedido do concessionário, o Governador da província, ouvidos os serviços provinciais competentes e o governo do distrito, pode criar em volta do depósito ou jazigo de diamantes encontrado, enquanto se não iniciar a sua exploração, uma zona de reserva, cujos limites não podem exceder a distância de 3 km a contar do extremo do depósito ou jazigo.
 
 2. As disposições relativas à soma de exploração são extensivas, na parte aplicável, à zona de reserva.
 
-###### Art. 11.º O Governador da província, ouvidos os serviços provinciais competentes e o governador do distrito, estabelecerá zonas de protecção envolvendo zonas de exploração e de reserva, com vista a prevenir a subtracção e a receptação de diamantes e a pesquisa e extracção deles por quem não estiver autorizado.
+Art. 11.º O Governador da província, ouvidos os serviços provinciais competentes e o governador do distrito, estabelecerá zonas de protecção envolvendo zonas de exploração e de reserva, com vista a prevenir a subtracção e a receptação de diamantes e a pesquisa e extracção deles por quem não estiver autorizado.
 
-###### Art. 12.º - 1. A configuração das zonas de protecção deve fixar-se, sendo possível, em função de limites localmente bem assinaláveis, como rios, linhas de água, estradas e caminhos, linhas de fronteira, cristas e linhas de cumeada.
+Art. 12.º - 1. A configuração das zonas de protecção deve fixar-se, sendo possível, em função de limites localmente bem assinaláveis, como rios, linhas de água, estradas e caminhos, linhas de fronteira, cristas e linhas de cumeada.
 
 2. As povoações classificadas existentes não podem, em caso algum, ficar abrangidas pelas zonas de protecção.
 
 3. Tratando-se de povoações não classificadas, será aplicável o disposto no artigo 8.º
 
-###### Art. 13.º - 1. Os limites das zonas de protecção serão assinalados no terreno por postes bem visíveis com a altura de, pelo menos, metro e meio, colocados nos vértices dos polígonos que as definem a naqueles pontos da linha poligonal em que as condições topográficas os tornem necessários para assinalar convenientemente a zona.
+Art. 13.º - 1. Os limites das zonas de protecção serão assinalados no terreno por postes bem visíveis com a altura de, pelo menos, metro e meio, colocados nos vértices dos polígonos que as definem a naqueles pontos da linha poligonal em que as condições topográficas os tornem necessários para assinalar convenientemente a zona.
 
 2. À entrada nas zonas de protecção das vias de acesso e de trânsito ou de outros caminhos que não sejam itinerários da rede fundamental de estradas do plano rodoviário da província serão também colocados postes bem visíveis com a altura de, pelo menos, metro e meio, encimados por tabuletas voltadas para o lado exterior com os seguintes dizeres: «Zona de protecção - Trânsito proibido», acrescidos do nome ou denominação do concessionário beneficiado pela zona de protecção.
 
 3. Nos lugares indicados no número antecedente será afixado um mapa da zona, de material não sujeito a fácil deterioração, sendo aplicável ainda o disposto no n.º 3 do artigo 5.º
 
-###### Art. 14.º - 1. É da competência do governador do distrito respectivo autorizar o acesso a uma zona de protecção para fixação de residência dentro da sua área.
+Art. 14.º - 1. É da competência do governador do distrito respectivo autorizar o acesso a uma zona de protecção para fixação de residência dentro da sua área.
 
 2. O trânsito através de uma zona de protecção fora das vias que constituam os itinerários da rede fundamental de estradas do plano rodoviário da província depende de prévia licença do governador do distrito ou da autoridade em quem delegar.
 
@@ -190,27 +217,27 @@ d) O fim para que foi passada e, sendo caso disso, as condições específicas e
 
 5. A recusa será sempre expressamente justificada.
 
-###### Art. 15.º - 1. Sem autorização do governador do distrito, fundada em razões de oportunidade, de conveniência ou de necessidade, é proibido na zona de protecção o exercício do comércio, indústria, agricultura, pecuária ou qualquer outra actividade económica.
+Art. 15.º - 1. Sem autorização do governador do distrito, fundada em razões de oportunidade, de conveniência ou de necessidade, é proibido na zona de protecção o exercício do comércio, indústria, agricultura, pecuária ou qualquer outra actividade económica.
 
 2. Têm, contudo, sempre direito a licença as pessoas que, ao tempo da criação da zona, já residiam ou exerciam na respectiva área qualquer actividade.
 
-###### Art. 16.º - 1. Quando, posteriormente à autorização, ocorrerem motivos que tornem inconveniente a residência ou o exercício das actividades permitidas na zona de protecção, a governador do distrito poderá revogar a autorização.
+Art. 16.º - 1. Quando, posteriormente à autorização, ocorrerem motivos que tornem inconveniente a residência ou o exercício das actividades permitidas na zona de protecção, a governador do distrito poderá revogar a autorização.
 
 2. As pessoas que tiverem de ser deslocadas ou de cessar a actividade em que se ocupavam têm direito a indemnização, que o governador do distrito fixará pela forma prescrita no artigo 8.º, na parte aplicável.
 
-###### Art. 17.º - 1. A vigilância e fiscalização dentro das zonais de exploração e faixas envolventes compete aos concessionários, que destinarão, para o efeito, os empregados necessários.
+Art. 17.º - 1. A vigilância e fiscalização dentro das zonais de exploração e faixas envolventes compete aos concessionários, que destinarão, para o efeito, os empregados necessários.
 
 2. O pessoal de vigilância e fiscalização do concessionário tem, dentro das zonas de exploração e faixas envolventes, os mesmos poderes e a atribuições da Polícia Mineira nas zonas de protecção ou de reserva.
 
-###### Art. 18.º - 1. Sem prejuízo das inspecções que a Inspecção-Geral de Minas do Ministério do Ultramar considerar convenientes, compete à Inspecção Provincial dos Serviços de Geologia e Minas realizar inspecções periódicas cujos intervalos nunca sejam superiores a um ano, com o objectivo específico de observar se, nas zonas de exploração e faixas envolventes, os serviços de vigilância ou fiscalização estão actuando com eficiência.
+Art. 18.º - 1. Sem prejuízo das inspecções que a Inspecção-Geral de Minas do Ministério do Ultramar considerar convenientes, compete à Inspecção Provincial dos Serviços de Geologia e Minas realizar inspecções periódicas cujos intervalos nunca sejam superiores a um ano, com o objectivo específico de observar se, nas zonas de exploração e faixas envolventes, os serviços de vigilância ou fiscalização estão actuando com eficiência.
 
 2. Por cada inspecção realizada com o objectivo descrito no número anterior será elaborado o respectivo relatório de modelo aprovar e apresentado à Inspecção-Geral de Minas, sem prejuízo de se tomarem imediatamente, na província, as medidas que a esse nível se imponham e cuja necessidade se tenha revelado através da inspecção realizada.
 
-###### Art. 19.º - 1. É criada, em Angola, com sede em Henrique de Carvalho e como corpo especializado da Polícia de Segurança Pública, mas na dependência directa do Governo da província, a Polícia Mineira, organizada em unidades móveis, afectas às regiões diamantíferas da província.
+Art. 19.º - 1. É criada, em Angola, com sede em Henrique de Carvalho e como corpo especializado da Polícia de Segurança Pública, mas na dependência directa do Governo da província, a Polícia Mineira, organizada em unidades móveis, afectas às regiões diamantíferas da província.
 
 2. São desde já criadas uma unidade móvel na sede da corporação, outra no Cuango e outra em Cassanje, as quais manterão destacamentos nos locais carecidos de mais intenso policiamento.
 
-###### Art. 20.º À Polícia Mineira incumbe zelar pelo cumprimento das leis de prevenção e repressão do tráfico ilícito de diamantes não lapidados ou talhados, impedir as acções de terceiros que a esse tráfico possam conduzir, descobrir e denunciar as infracções cometidas, competindo-lhe, em especial:
+Art. 20.º À Polícia Mineira incumbe zelar pelo cumprimento das leis de prevenção e repressão do tráfico ilícito de diamantes não lapidados ou talhados, impedir as acções de terceiros que a esse tráfico possam conduzir, descobrir e denunciar as infracções cometidas, competindo-lhe, em especial:
 
 a) Fiscalizar e manter em constante contrôle o trânsito nas zonas de protecção e de reserva, exigindo a exibição das licenças de acesso, vigiando discretamente as pessoas que nelas circulam e os lugares suspeitos de serem procurados em especial para a pesquisa a exploração ilegais de diamantes e, em geral, para a prática das infracções previstas no presente diploma, revistando mercadorias passíveis de ocultação de diamantes não lapidados ou talhados e apreendendo os objectos de infracção que forem encontrados;
 
@@ -222,19 +249,19 @@ d) Colaborar com as restantes autoridades policiais no combate ao tráfico ilíc
 
 e) Propor, através do respectivo comandante, as medidas que parecerem úteis ao aperfeiçoamento do serviço, quer quanto à orgânica da corporação, quer quanto à reestruturação de zonas de reserva ou criação e reestruturação de zonas de protecção.
 
-###### Art. 21.º Os efectivos da Polícia Mineira constarão do comandante, oficiais, chefes de brigada, guardas e guardas auxiliares.
+Art. 21.º Os efectivos da Polícia Mineira constarão do comandante, oficiais, chefes de brigada, guardas e guardas auxiliares.
 
-###### Art. 22.º - 1. Sob proposta da Polícia de Segurança Pública e ouvida a Inspecção Provincial dos Serviços de Geologia e Minas, o Governo-Geral de Angola elaborará o regulamento e fixará o quadro e as condições de provimento do pessoal da Polícia Mineira.
+Art. 22.º - 1. Sob proposta da Polícia de Segurança Pública e ouvida a Inspecção Provincial dos Serviços de Geologia e Minas, o Governo-Geral de Angola elaborará o regulamento e fixará o quadro e as condições de provimento do pessoal da Polícia Mineira.
 
 2. Os efectivos da Polícia Mineira poderão ser preenchidos com pessoal destacado das tropas especiais das forças de terra, mar e ar ou que nelas hajam prestado serviço.
 
-###### Art. 23.º - 1. Os encargos patrimoniais da Polícia Mineira serão suportados pelos concessionários, proporcionalmente às áreas das respectivas concessões, por verbas globalmente postas ao dispor do Governo da província a inscritas no orçamento.
+Art. 23.º - 1. Os encargos patrimoniais da Polícia Mineira serão suportados pelos concessionários, proporcionalmente às áreas das respectivas concessões, por verbas globalmente postas ao dispor do Governo da província a inscritas no orçamento.
 
 2. A Polícia Mineira poderá dispor de um fundo de maneio especialmente destinado a satisfazer gratificações previstas no presente diploma.
 
-###### Art. 24.º É criada, com sede em Henrique de Carvalho e jurisdição sobre toda a área do Julgado Municipal de 1.ª classe do Saurimo, uma subinspecção da Polícia Judiciária, com as seguintes unidades: um subinspector, dois agentes de 1.ª classe e um servente.
+Art. 24.º É criada, com sede em Henrique de Carvalho e jurisdição sobre toda a área do Julgado Municipal de 1.ª classe do Saurimo, uma subinspecção da Polícia Judiciária, com as seguintes unidades: um subinspector, dois agentes de 1.ª classe e um servente.
 
-###### Art. 25.º - 1. Aquele que, munido de licença mineira para espécie diferente, encontrar diamantes na execução das tarefas inerentes à sua licença, é obrigado a apresentá-los à autoridade ou agente da autoridade mais próxima, com indicação da data e do local onde os achou.
+Art. 25.º - 1. Aquele que, munido de licença mineira para espécie diferente, encontrar diamantes na execução das tarefas inerentes à sua licença, é obrigado a apresentá-los à autoridade ou agente da autoridade mais próxima, com indicação da data e do local onde os achou.
 
 2. A autoridade ou agente de autoridade a que o número anterior se refere, não se suscitando suspeita quanto à exactidão do achado, remeterá os diamantes pelo meio mais seguro aos serviços de geologia e minas.
 
@@ -242,44 +269,44 @@ e) Propor, através do respectivo comandante, as medidas que parecerem úteis ao
 
 4. Do valor da venda caberá metade ao achador, um quarto ao concessionário que promover a venda e o quarto restante ao Estado se o achado tiver ocorrido fora da área concedida, ou ao concessionário se dentro dela, sendo sempre aplicável à fracção atribuída ao concessionário o regime contratual que vigorar para os rendimentos da exploração.
 
-###### Art. 26.º - 1. Todo aquele que, fora dos casos legalmente autorizados, possuir ou simplesmente detiver, extrair do solo, comprar ou vender, introduzir em território nacional ou dele levar ou por qualquer forma intervier no tráfico ilícito de diamantes não lapidados ou talhados, ainda que a título de mera cumplicidade ou de encobrimento, será punido com a pena de oito a doze anos de prisão maior.
+Art. 26.º - 1. Todo aquele que, fora dos casos legalmente autorizados, possuir ou simplesmente detiver, extrair do solo, comprar ou vender, introduzir em território nacional ou dele levar ou por qualquer forma intervier no tráfico ilícito de diamantes não lapidados ou talhados, ainda que a título de mera cumplicidade ou de encobrimento, será punido com a pena de oito a doze anos de prisão maior.
 
 2. O disposto no número antecedente é aplicável no caso em que o diamante, já submetido a uma ou mais operações de corte, não seja ainda considerado como diamante lapidado.
 
 3. À tentativa será aplicada a pena prevista no n.º 1 deste artigo.
 
-###### Art. 27.º Os crimes contra o património que tenham por objecto os bens de que trata o artigo anterior são punidos com a pena de oito a doze anos de prisão maior, se outra mais grave lhes não couber.
+Art. 27.º Os crimes contra o património que tenham por objecto os bens de que trata o artigo anterior são punidos com a pena de oito a doze anos de prisão maior, se outra mais grave lhes não couber.
 
-###### Art. 28.º - 1. A mera pesquisa de diamantes, sem licença, é punida, quando exercida em lugar a ela defeso por acto da Administração devidamente publicado ou cuja licença de prospecção e pesquisa ou concessão tenha sido atribuída a outrem, com a pena de oito a doze anos de prisão maior.
+Art. 28.º - 1. A mera pesquisa de diamantes, sem licença, é punida, quando exercida em lugar a ela defeso por acto da Administração devidamente publicado ou cuja licença de prospecção e pesquisa ou concessão tenha sido atribuída a outrem, com a pena de oito a doze anos de prisão maior.
 
 2. Ocorrendo em lugar diverso dos considerados no número anterior será punida com pena de prisão.
 
-###### Art. 29.º Aquele que, sem licença do concessionário ou do director de exploração, entrar em zona de exploração de diamantes é punido com pena de prisão.
+Art. 29.º Aquele que, sem licença do concessionário ou do director de exploração, entrar em zona de exploração de diamantes é punido com pena de prisão.
 
-###### Art. 30.º O empregado da concessionária que sair da zona de exploração sem licença do director é punido com pena de prisão, mediante participação do representante da concessionária.
+Art. 30.º O empregado da concessionária que sair da zona de exploração sem licença do director é punido com pena de prisão, mediante participação do representante da concessionária.
 
-###### Art. 31.º - 1. Aquele que entrar, sem licença, em zona de protecção é punido com prisão até seis meses.
+Art. 31.º - 1. Aquele que entrar, sem licença, em zona de protecção é punido com prisão até seis meses.
 
 2. Igual pena será aplicada a quem entrar em zona de protecção ou sair dela por outros pontos que não sejam os indicados na respectiva licença.
 
-###### Art. 32.º Quem fizer comércio de diamantes lapidados ou talhados fora das joalharias e dos estabelecimentos autorizados a exercer essa actividade é punido com prisão até seis meses e apreensão dos diamantes, que se declararão perdidos a favor do Estado.
+Art. 32.º Quem fizer comércio de diamantes lapidados ou talhados fora das joalharias e dos estabelecimentos autorizados a exercer essa actividade é punido com prisão até seis meses e apreensão dos diamantes, que se declararão perdidos a favor do Estado.
 
-###### Art. 33.º - 1. A instrução preparatória dos processos por crimes previstos neste diploma compete ao Ministério Público e Polícia Judiciária, segundo as regras de competência em razão do lugar, podendo o representante do Ministério Público respectivo requerer o deferimento da competência à Polícia Judiciária sempre que entender conveniente, nos termos do § 3.º do artigo 15.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
+Art. 33.º - 1. A instrução preparatória dos processos por crimes previstos neste diploma compete ao Ministério Público e Polícia Judiciária, segundo as regras de competência em razão do lugar, podendo o representante do Ministério Público respectivo requerer o deferimento da competência à Polícia Judiciária sempre que entender conveniente, nos termos do § 3.º do artigo 15.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
 
 2. A instrução contraditória e o julgamento dos processos por crimes previstos no presente diploma são da competência da comarca de Luanda.
 
-###### Art. 34.º Os presos sem culpa formada cuja captura não tenha sido ordenada pelo juiz serão presentes ao tribunal mais próximo do lugar da detenção ou de acesso mais fácil.
+Art. 34.º Os presos sem culpa formada cuja captura não tenha sido ordenada pelo juiz serão presentes ao tribunal mais próximo do lugar da detenção ou de acesso mais fácil.
 
-###### Art. 35.º Quem, por denúncia ou outro modo, der causa à apreensão de diamantes não lapidados ou talhados terá direito a uma gratificação correspondente a metade do valor dos diamantes apreendidos, e que lhe será satisfeita segundo os termos aplicáveis dos n.os 3 e 4 do artigo 25.º do presente diploma.
+Art. 35.º Quem, por denúncia ou outro modo, der causa à apreensão de diamantes não lapidados ou talhados terá direito a uma gratificação correspondente a metade do valor dos diamantes apreendidos, e que lhe será satisfeita segundo os termos aplicáveis dos n.os 3 e 4 do artigo 25.º do presente diploma.
 
-###### Art. 36.º O Governo-Geral de Angola adoptará as providências e os concessionários de diamantes apresentarão as propostas e cumprirão as obrigações que lhes são impostas no presente diploma, a fim de que, no prazo de seus meses a partir da data da sua vigência, estejam definidas, cadastradas e assinaladas no terreno as zonas de exploração, de reserva e de protecção e seja instalada a Polícia Mineira.
+Art. 36.º O Governo-Geral de Angola adoptará as providências e os concessionários de diamantes apresentarão as propostas e cumprirão as obrigações que lhes são impostas no presente diploma, a fim de que, no prazo de seus meses a partir da data da sua vigência, estejam definidas, cadastradas e assinaladas no terreno as zonas de exploração, de reserva e de protecção e seja instalada a Polícia Mineira.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

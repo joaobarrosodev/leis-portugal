@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/233-1970-142354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e1f1262f8f65f67659a473e098f8e9dbe900da12b06f0478abe2e0182d3eeb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48ff87b466e8bbcae5bd2f53779a70b30fbad8b28a4fbc178229a8593ad061ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:29Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +101,9 @@ Tornando-se necessário actualizar o disposto no [Decreto n.º 44209](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O serviço prestado no ultramar pelos militares da Armada nos comandos-chefes das forças armadas, nos comandos territoriais da Armada, nas forças e unidades da Armada designadas para longa comissão de serviço que lhes estejam atribuídas e nas direcções e repartições provinciais dos serviços de marinha é classificado como comissão militar e regulado pelo disposto neste diploma.
+Artigo 1.º O serviço prestado no ultramar pelos militares da Armada nos comandos-chefes das forças armadas, nos comandos territoriais da Armada, nas forças e unidades da Armada designadas para longa comissão de serviço que lhes estejam atribuídas e nas direcções e repartições provinciais dos serviços de marinha é classificado como comissão militar e regulado pelo disposto neste diploma.
 
-###### Art. 2.º - 1. A nomeação dos militares da Armada para prestar serviço nos comandos, forças, unidades e serviços referidos no artigo anterior far-se-á:
+Art. 2.º - 1. A nomeação dos militares da Armada para prestar serviço nos comandos, forças, unidades e serviços referidos no artigo anterior far-se-á:
 
 a) Por escolha;
 
@@ -105,7 +117,7 @@ c) Por imposição de serviço.
 
 4. A nomeação por imposição de serviço é adoptada quando não houver oferecidos ou estes não satisfaçam às condições exigidas. Neste caso, as nomeações também são feitas em conformidade com as normas estabelecidas por despacho do Ministro da Marinha e publicadas na Ordem da Armada.
 
-###### Art. 3.º - 1. Nos casos em que as nomeações sejam feitas por portaria, este diploma será:
+Art. 3.º - 1. Nos casos em que as nomeações sejam feitas por portaria, este diploma será:
 
 a) Dos Ministros da Marinha e do Ultramar, quando se trate de militares que pertençam conjuntamente à lotação dos comandos territoriais da Armada e das direcções ou repartições provinciais dos serviços de marinha;
 
@@ -115,7 +127,7 @@ c) Do Ministro da Marinha, nos restantes casos, salvo se a nomeação competir, 
 
 2. A designação de oficiais para prestar serviço nas direcções e repartições provinciais dos serviços de marinha é precedida de consulta ao Ministro do Ultramar.
 
-###### Art. 4.º - 1. O tempo obrigatório das comissões é o seguinte:
+Art. 4.º - 1. O tempo obrigatório das comissões é o seguinte:
 
 a) Dois anos normalmente para os nomeados por escolha ou por imposição de serviço;
 
@@ -123,25 +135,25 @@ b) Quatro anos para os nomeados por oferecimento.
 
 2. O tempo de duração da comissão é contado desde a data do desembarque na província ultramarina de destino até à véspera do dia de embarque de regresso à metrópole. Para os militares integrados em guarnições de unidades da Armada ou embarcados em navio transporte de tropas o tempo de viagem é contado na duração da comissão.
 
-###### Art. 5.º - 1. Os militares nomeados por escolha ou por imposição de serviço podem passar à comissão por oferecimento em qualquer altura da sua comissão, desde que essa passagem lhes seja concedida.
+Art. 5.º - 1. Os militares nomeados por escolha ou por imposição de serviço podem passar à comissão por oferecimento em qualquer altura da sua comissão, desde que essa passagem lhes seja concedida.
 
 2. Aos militares nestas condições a comissão é considerada, para todos os efeitos, como de oferecimento e a data do seu início é contada nas condições fixadas no artigo anterior.
 
-###### Art. 6.º - 1. Aos militares nomeados por oferecimento que terminarem o tempo obrigatório da comissão pode esta ser prorrogada por períodos de um ano, até ao máximo de dois períodos, a requerimento do interessado, salvo se houver outros militares oferecidos ou inscritos para a mesma comissão.
+Art. 6.º - 1. Aos militares nomeados por oferecimento que terminarem o tempo obrigatório da comissão pode esta ser prorrogada por períodos de um ano, até ao máximo de dois períodos, a requerimento do interessado, salvo se houver outros militares oferecidos ou inscritos para a mesma comissão.
 
 2. Os requerimentos dos militares pedindo prorrogação do seu tempo de comissão de serviço deverão dar entrada, conforme os casos, no Ministério do Ultramar ou na 1.ª ou 2.ª Repartição da Direcção do Serviço do Pessoal do Ministério da Marinha até noventa dias antes da data do termo da respectiva comissão.
 
-###### Art. 7.º Aos militares nomeados por oferecimento que tenham completado dois anos de comissão pode ser concedida desistência de a continuar, caso seja julgado oportuno, mas perdem o direito às passagens de regresso para as famílias e ao abono de ajudas de custo de embarque de regresso, salvo tratando-se de militares que tenham já efectuado uma outra comissão por imposição ou por escolha posteriormente a 1 de Janeiro de 1961.
+Art. 7.º Aos militares nomeados por oferecimento que tenham completado dois anos de comissão pode ser concedida desistência de a continuar, caso seja julgado oportuno, mas perdem o direito às passagens de regresso para as famílias e ao abono de ajudas de custo de embarque de regresso, salvo tratando-se de militares que tenham já efectuado uma outra comissão por imposição ou por escolha posteriormente a 1 de Janeiro de 1961.
 
-###### Art. 8.º Quando se não trate de militares em serviço nos comandos-chefes que, em conformidade com a legislação em vigor, hajam sido nomeados pelo Ministro da Defesa Nacional, as concessões referidas nos artigos 5.º, 6.º e 7.º competem ao Ministro da Marinha, que ouvirá o Ministro do Ultramar se os militares pertencerem às lotações das direcções e repartições provinciais dos serviços de marinha.
+Art. 8.º Quando se não trate de militares em serviço nos comandos-chefes que, em conformidade com a legislação em vigor, hajam sido nomeados pelo Ministro da Defesa Nacional, as concessões referidas nos artigos 5.º, 6.º e 7.º competem ao Ministro da Marinha, que ouvirá o Ministro do Ultramar se os militares pertencerem às lotações das direcções e repartições provinciais dos serviços de marinha.
 
-###### Art. 9.º - 1. O Ministro da Marinha pode dar por finda a comissão dos militares no ultramar em qualquer altura da sua duração, sem prejuízo dos direitos consignados neste diploma, e, em caso de emergência ou quando o interesse nacional o determine, pode suspender o regresso à metrópole dos militares que tenham terminado a sua comissão.
+Art. 9.º - 1. O Ministro da Marinha pode dar por finda a comissão dos militares no ultramar em qualquer altura da sua duração, sem prejuízo dos direitos consignados neste diploma, e, em caso de emergência ou quando o interesse nacional o determine, pode suspender o regresso à metrópole dos militares que tenham terminado a sua comissão.
 
 2. O disposto no número anterior não se aplica aos militares que, nos termos da legislação em vigor, hajam sido nomeados para os comandos-chefes pelo Ministro da Defesa Nacional e quando se trate de militares em serviço nas direcções e repartições provinciais dos serviços de marinha será precedido de consulta ao Ministério do Ultramar.
 
 3. Quando a comissão seja dada por finda por motivo disciplinar, os militares perdem o direito ao abono de ajudas de custo de regresso e à licença a que se referem as alíneas a) e e) do artigo seguinte:
 
-###### Art. 10.º Os militares nomeados para comissão no ultramar têm os seguintes direitos:
+Art. 10.º Os militares nomeados para comissão no ultramar têm os seguintes direitos:
 
 a) Ajudas de custo de embarque, na ida e no regresso, pagas antes do embarque, mediante recibo passado à entidade que deve efectuar o respectivo abono;
 
@@ -153,7 +165,7 @@ d) Contagem, para efeitos de reserva e de reforma, do tempo de serviço no ultra
 
 e) Licença de sete dias por cada semestre completo de comissão até ao máximo de sessenta dias, com os vencimentos metropolitanos fixados pela lei. No caso de a referida licença não ser gozada na metrópole, a mesma não deve implicar qualquer aumento de despesa com vencimentos ou transportes.
 
-###### Art. 11.º - 1. Aos militares nomeados para comissão nas direcções e repartições provinciais dos serviços de marinha, por escolha ou por oferecimento ou ainda por imposição de serviço, quando tenham já efectuado qualquer comissão por imposição ou por escolha posteriormente a 1 de Janeiro de 1961, além dos direitos consignados no artigo anterior, são-lhes também concedidas passagens, por conta do Estado, para as famílias, além das demais regalias que lhes devam competir pela legislação do Ministério do Ultramar aplicável na província a que se destinam.
+Art. 11.º - 1. Aos militares nomeados para comissão nas direcções e repartições provinciais dos serviços de marinha, por escolha ou por oferecimento ou ainda por imposição de serviço, quando tenham já efectuado qualquer comissão por imposição ou por escolha posteriormente a 1 de Janeiro de 1961, além dos direitos consignados no artigo anterior, são-lhes também concedidas passagens, por conta do Estado, para as famílias, além das demais regalias que lhes devam competir pela legislação do Ministério do Ultramar aplicável na província a que se destinam.
 
 2. Aos militares nomeados nas condições referidas no número anterior para as restantes comissões no ultramar de que trata o artigo 1.º, além dos direitos consignados no artigo 10.º, são-lhes concedidos mais os seguintes:
 
@@ -165,11 +177,11 @@ c) Assistência médica e medicamentosa para as famílias durante o período da 
 
 d) Alojamento por conta do Estado na localidade da guarnição, quando possível, ou subsídio de renda de casa.
 
-###### Art. 12.º - 1. Os militares que já tenham efectuado, pelo menos, duas comissões no ultramar, iniciadas depois de 1 de Janeiro de 1961, das quais uma por imposição de serviço ou por escolha, têm direito a mais 10 por cento do vencimento base por cada nova comissão nos comandos, forças ou unidades de que trata o artigo 1.º, para que tenham sido ou venham a ser nomeados por imposição ou por escolha, após a publicação do [Decreto-Lei n.º 49107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49107-1969-199627), de 7 de Julho de 1969.
+Art. 12.º - 1. Os militares que já tenham efectuado, pelo menos, duas comissões no ultramar, iniciadas depois de 1 de Janeiro de 1961, das quais uma por imposição de serviço ou por escolha, têm direito a mais 10 por cento do vencimento base por cada nova comissão nos comandos, forças ou unidades de que trata o artigo 1.º, para que tenham sido ou venham a ser nomeados por imposição ou por escolha, após a publicação do [Decreto-Lei n.º 49107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49107-1969-199627), de 7 de Julho de 1969.
 
 2. O abono de que trata este artigo é também devido, a partir da data da publicação do [Decreto-Lei n.º 49107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49107-1969-199627), de 7 de Julho de 1969, aos militares que, tendo já cumprido, posteriormente a 1 de Janeiro de 1961, pelo menos, duas comissões de serviço, sendo uma delas por imposição ou por escolha, se encontravam naquela data no cumprimento de outra comissão por imposição ou por escolha.
 
-###### Art. 13.º Para os efeitos do disposto neste diploma são considerados como família do militar:
+Art. 13.º Para os efeitos do disposto neste diploma são considerados como família do militar:
 
 a) A mulher;
 
@@ -179,11 +191,11 @@ c) As filhas solteiras;
 
 d) Outras pessoas que, estando a seu cargo, confiram direito ao abono de família.
 
-###### Art. 14.º É condição necessária para o militar ter direito ao transporte de família que esta o acompanhe ou se lhe vá reunir antes de doze meses do final da comissão. O militar que case durante a comissão com senhora domiciliada na província onde esteja em serviço tem direito ao transporte de regresso da família, independentemente do tempo de comissão que tenha cumprido depois do casamento.
+Art. 14.º É condição necessária para o militar ter direito ao transporte de família que esta o acompanhe ou se lhe vá reunir antes de doze meses do final da comissão. O militar que case durante a comissão com senhora domiciliada na província onde esteja em serviço tem direito ao transporte de regresso da família, independentemente do tempo de comissão que tenha cumprido depois do casamento.
 
-###### Art. 15.º Aos militares de que trata este diploma são aplicáveis as disposições do [Decreto n.º 47349](https://diariodarepublica.pt/dr/detalhe/decreto/47349-1966-477338), de 28 de Novembro de 1966. Quando, porém, se trate de militares em serviço nas direcções e repartições provinciais dos serviços de marinha, a autorização, pelo Ministro da Marinha, para deixarem a efectividade de serviço nas condições previstas naquele diploma será precedida de consulta ao Ministério do Ultramar.
+Art. 15.º Aos militares de que trata este diploma são aplicáveis as disposições do [Decreto n.º 47349](https://diariodarepublica.pt/dr/detalhe/decreto/47349-1966-477338), de 28 de Novembro de 1966. Quando, porém, se trate de militares em serviço nas direcções e repartições provinciais dos serviços de marinha, a autorização, pelo Ministro da Marinha, para deixarem a efectividade de serviço nas condições previstas naquele diploma será precedida de consulta ao Ministério do Ultramar.
 
-###### Art. 16.º Aos militares abrangidos por este diploma é dada por finda a comissão nos casos seguintes:
+Art. 16.º Aos militares abrangidos por este diploma é dada por finda a comissão nos casos seguintes:
 
 a) Quando, preenchendo lugares em quadros orgânicos, sejam promovidos ou transitem para a reserva sem que nesses quadros exista vaga correspondente ao novo posto ou situação, salvo nos casos previstos no artigo seguinte;
 
@@ -191,21 +203,21 @@ b) Quando, tendo recolhido à metrópole por opinião da competente junta médic
 
 c) Quando lhes venha a caber a realização na metrópole de condições de promoção ao posto imediato e o serviço o permita ou se torne imperativo.
 
-###### Art. 17.º - 1. Os militares da Armada em comissão no ultramar preenchendo lugares fixados em quadros orgânicos, nomeadamente nos comandos territoriais da Armada e nas direcções e repartições provinciais dos serviços de marinha, que forem promovidos dentro do período normal da sua comissão poderão, mesmo que não haja vaga correspondente ao novo posto, terminar esse período desde que a promoção não vá além de capitão-de-mar-e-guerra, tratando-se de oficiais, de sargento-ajudante, tratando-se de sargentos, e de cabo, tratando-se de praças.
+Art. 17.º - 1. Os militares da Armada em comissão no ultramar preenchendo lugares fixados em quadros orgânicos, nomeadamente nos comandos territoriais da Armada e nas direcções e repartições provinciais dos serviços de marinha, que forem promovidos dentro do período normal da sua comissão poderão, mesmo que não haja vaga correspondente ao novo posto, terminar esse período desde que a promoção não vá além de capitão-de-mar-e-guerra, tratando-se de oficiais, de sargento-ajudante, tratando-se de sargentos, e de cabo, tratando-se de praças.
 
 2. A diferença legal de vencimentos em relação aos inscritos nas tabelas de despesa respectivas, devida aos militares promovidos nas condições deste artigo, será coberta por prévio reforço das competentes verbas.
 
-###### Art. 18.º - 1. Quando os militares da Armada em comissão no ultramar tenham de deslocar-se à metrópole em consequência de decisão, devidamente homologada, da competente junta médica, continuam em comissão militar e as viagens de ida e volta são por conta do Estado.
+Art. 18.º - 1. Quando os militares da Armada em comissão no ultramar tenham de deslocar-se à metrópole em consequência de decisão, devidamente homologada, da competente junta médica, continuam em comissão militar e as viagens de ida e volta são por conta do Estado.
 
 2. Os militares de que trata este artigo baixam ao Hospital da Marinha logo que cheguem à metrópole, o que deve constar na respectiva guia de marcha. As condições em que os citados militares devem regressar à mesma província ultramarina para completar as respectivas comissões de serviço e aquelas que devem regular a sua substituição são fixadas por despacho do Ministro da Marinha, que ouvirá o Ministro do Ultramar sempre que as decisões a tomar envolvam pessoal que pertence às lotações das direcções ou repartições provinciais dos serviços de marinha.
 
-###### Art. 19.º Os militares da Armada nomeados para comissão no ultramar passam à situação de adidos aos quadros:
+Art. 19.º Os militares da Armada nomeados para comissão no ultramar passam à situação de adidos aos quadros:
 
 a) Quando recebam guia para o Ministério do Ultramar, no caso de irem prestar serviço nas direcções e repartições provinciais dos serviços de marinha;
 
 b) A contar da data de embarque, no caso de irem preencher lugares dos quadros orgânicos dos comandos territoriais da Armada, de pertencerem ou se destinarem a unidades atribuídas àqueles comandos com carácter permanente ou ainda quando vão exercer funções nos comandos-chefes e a legislação em vigor assim o estabeleça.
 
-###### Art. 20.º - 1. Os militares referidos no artigo anterior, depois de completadas as suas comissões, ingressam nos quadros ou ficam supranumerários:
+Art. 20.º - 1. Os militares referidos no artigo anterior, depois de completadas as suas comissões, ingressam nos quadros ou ficam supranumerários:
 
 a) Quando se apresentem no Ministério da Marinha com guia do Ministério do Ultramar, depois de terem gozado a licença a que se refere a alínea e) do artigo 10.º, caso tenham desempenhado cargos fixados na orgânica das direcções e repartições provinciais dos serviços de marinha;
 
@@ -213,13 +225,13 @@ b) A contar da data da sua apresentação na apropriada repartição da Direcç�
 
 2. Os militares evacuados para tratamento na metrópole não ingressam nos quadros nem são colocados na situação de supranumerários enquanto, nos termos da legislação em vigor, continuem a receber vencimentos ultramarinos.
 
-###### Art. 21.º É revogado o [Decreto n.º 44209](https://diariodarepublica.pt/dr/detalhe/decreto/44209-1962-517840), de 27 de Fevereiro de 1962.
+Art. 21.º É revogado o [Decreto n.º 44209](https://diariodarepublica.pt/dr/detalhe/decreto/44209-1962-517840), de 27 de Fevereiro de 1962.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Maio de 1970.**
+Promulgado em 4 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

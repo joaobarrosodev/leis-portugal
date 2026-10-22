@@ -47,36 +47,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/74-1984-401071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f04f7a7434a212a5557fd1710a12d1dd77a1c0026e153c344a89e037a9b13754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4502db6df073c828bf7901cf24fa8c18f28e1c08697ff17ab068d4892a08b6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EFTA
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:41Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +88,19 @@ de 26 de Novembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovadas as Decisões do Conselho da EFTA n.os 8 e 9 de 1984 e as Decisões do Conselho Misto da Associação EFTA-Finlândia n.os 3 e 4 de 1984, adoptadas na 11.ª Reunião Simultânea, realizada em 29 de Junho de 1984, que acrescentam o parágrafo 6 quater ao anexo G à Convenção de Estocolmo e emendam a alínea a) do parágrafo 6 ter daquele anexo G, cujos textos em inglês e respectivas traduções para português vão juntos ao presente decreto.
+Artigo único. São aprovadas as Decisões do Conselho da EFTA n.os 8 e 9 de 1984 e as Decisões do Conselho Misto da Associação EFTA-Finlândia n.os 3 e 4 de 1984, adoptadas na 11.ª Reunião Simultânea, realizada em 29 de Junho de 1984, que acrescentam o parágrafo 6 quater ao anexo G à Convenção de Estocolmo e emendam a alínea a) do parágrafo 6 ter daquele anexo G, cujos textos em inglês e respectivas traduções para português vão juntos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama -Ernâni Rodrigues Lopes - Maria Raquel Lopes de Bethencourt Ferreira.
 
-**Assinado em 14 de Novembro de 1984.**
+Assinado em 14 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 15 de Novembro de 1984.**
+Referendado em 15 de Novembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Decision of the Council No. 8 of 1984
 
@@ -157,7 +158,7 @@ decide:
 
 3 - O secretário-geral depositará o texto da presente Decisão junto do Governo da Suécia.
 
-## Anexo à Decisão do Conselho n.º 8 de 1984
+Anexo à Decisão do Conselho n.º 8 de 1984
 
 Alteração do anexo G à Convenção
 
@@ -225,7 +226,7 @@ decide:
 
 3 - O secretário-geral da Associação Europeia de Comércio Livre depositará o texto da presente Decisão junto do Governo do Suécia.
 
-## Anexo à Decisão do Conselho Misto n.º 3 de 1984
+Anexo à Decisão do Conselho Misto n.º 3 de 1984
 
 Alteração do anexo G à Convenção
 
@@ -357,7 +358,7 @@ decide:
 
 3 - O secretário-geral da Associação Europeia de Comércio Livre depositará o texto da presente Decisão junto do Governo da Suécia.
 
-## Anexo à Decisão do Conselho Misto n.º 4 de 1984
+Anexo à Decisão do Conselho Misto n.º 4 de 1984
 
 Alteração do anexo G da Convenção
 

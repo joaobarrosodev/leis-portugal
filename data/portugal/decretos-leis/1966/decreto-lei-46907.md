@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46907-1966-486899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e18af7d8e25d3dc63f9ec07fb1ecb14dd3f4f68e300780a5f794d486514595e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b60fc9ab899f49217f8eb2d5f02b63ebfe738b2c35ede01d3fe8502eb5fc9f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Brasil
+- Convenção
+- Energia Nuclear
+- Portugal
+- RIO de Janeiro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:25Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +91,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo dos Estados Unidos do Brasil para a cooperação na utilização da energia nuclear para fins pacíficos, assinado na cidade do Rio de Janeiro em 18 de Junho de 1965, cujo texto vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo entre o Governo da República Portuguesa e o Governo dos Estados Unidos do Brasil para a cooperação na utilização da energia nuclear para fins pacíficos, assinado na cidade do Rio de Janeiro em 18 de Junho de 1965, cujo texto vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -98,13 +103,13 @@ ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DOS ESTADOS UNIDOS D
 
 O Governo da República Portuguesa e o Governo dos Estados Unidos do Brasil, desejando estabelecer uma cooperação estreita no campo da utilização da energia nuclear para fins pacíficos, resolveram celebrar um acordo e, para esse fim, nomearam os seguintes plenipotenciários:
 
-**O Presidente da República Portuguesa, S. Ex.ª o Sr. Prof. Francisco de Paula Leite Pinto, presidente da Junta de Energia Nuclear; e**
+O Presidente da República Portuguesa, S. Ex.ª o Sr. Prof. Francisco de Paula Leite Pinto, presidente da Junta de Energia Nuclear; e
 
-**O Presidente da República dos Estados Unidos do Brasil, S. Ex.ª o Sr. Embaixador Vasco Tristão Leitão da Cunha, Ministro de Estado das Relações Exteriores,**
+O Presidente da República dos Estados Unidos do Brasil, S. Ex.ª o Sr. Embaixador Vasco Tristão Leitão da Cunha, Ministro de Estado das Relações Exteriores,
 
 Os quais, depois de haverem exibido seus plenos poderes, achados em boa e devida forma, convêm no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Para os fins do presente Acordo:
 
@@ -122,13 +127,13 @@ f) O termo «material físsil especial» designa o plutónio; o urânio 233; o u
 
 g) O termo «pessoa» designa toda a pessoa física ou jurídica, qualquer grupo de pessoas dotadas ou não de personalidade jurídica, qualquer instituição pública ou privada, qualquer instituição ou empresa governamental, com excepção das Partes Contratantes.
 
-ARTIGO II
+###### ARTIGO II
 
 As Partes Contratantes prestar-se-ão mùtuamente ajuda e assistência para estimular e desenvolver a utilização da energia nuclear para fins pacíficos.
 
 Qualquer actividade que não diga respeito à utilização da energia nuclear para fins pacíficos acha-se excluída da cooperação prevista no presente Acordo.
 
-ARTIGO III
+###### ARTIGO III
 
 A cooperação a ser prestada nos termos do presente Acordo poderá estender-se aos seguintes campos:
 
@@ -152,13 +157,13 @@ e) Construção de instalações e equipamentos;
 
 f) Fornecimento de minérios, materiais férteis e radioisótopos.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1. A cooperação prevista no presente Acordo far-se-á segundo modalidades que serão acordadas em cada caso. Tal cooperação não poderá, contudo, contrariar as leis e regulamentos em vigor nos territórios de ambas as Partes, nem os acordos internacionais de que as mesmas sejam partes no momento da entrada em vigor do presente Acordo.
 
 2. A execução de programas de cooperação realizados em virtude do presente Acordo será confiada às entidades competentes de conformidade com a legislação das Partes Contratantes e, em particular, à Comissão Nacional de Energia Nuclear, no Brasil, e à Junta de Energia Nuclear, em Portugal (doravante denominadas, respectivamente, Comissão e Junta).
 
-ARTIGO V
+###### ARTIGO V
 
 1. A Comissão e a Junta poderão pôr à disposição uma da outra, bem como à disposição de pessoas estabelecidas nos territórios de ambas as Partes Contratantes e devidamente autorizadas pela Comissão ou pela Junta, os conhecimentos de que dispuserem em assuntos relacionados com o campo de aplicação do presente Acordo.
 
@@ -166,11 +171,11 @@ ARTIGO V
 
 3. Os conhecimentos considerados de valor comercial pela Parte Contratante que deles dispuser só serão comunicados sob condições a serem fixadas pela referida Parte Contratante.
 
-ARTIGO VI
+###### ARTIGO VI
 
 As Partes Contratantes facilitarão, através de reuniões periódicas de professores e cientistas brasileiros e portugueses, o intercâmbio de conhecimentos relacionados com o campo de aplicação do presente Acordo.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1. - a) As Partes Contratantes poderão ceder uma à outra ou a pessoas estabelecidas em seus territórios, devidamente autorizadas pela Comissão ou pela Junta - sob condições comerciais -, licenças ou sublicenças de patentes de sua propriedade, ou sobre as quais tenham o direito de conceder licenças ou sublicenças, e cujo objecto diga respeito ao campo de aplicação do presente Acordo.
 
@@ -178,11 +183,11 @@ b) Fica excluída do presente Acordo a concessão de licenças ou sublicenças d
 
 2. As Partes Contratantes declaram-se dispostas a encorajar e facilitar a concessão, a pessoas estabelecidas em seus territórios, de licenças ou sublicenças sobre patentes pertencentes a pessoas estabelecidas em seus territórios e cujo objecto se refira ao campo de aplicação do presente Acorda. Tais licenças ou sublicenças só serão concedidas com o assentimento dessas pessoas e nas condições por elas fixadas.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 As Partes Contratantes promoverão o intercâmbio de estudantes, técnicos e professores e, com vistas ao aperfeiçoamento da sua formação, o acesso de estagiários aos estabelecimentos de pesquisa situados em seus territórios.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1. Quando conveniente, será facilitada a colaboração de cientistas e técnicos de uma das Partes Contratantes na prospecção de minérios dentro do território da outra Parte.
 
@@ -190,17 +195,17 @@ ARTIGO IX
 
 3. Os resultados obtidos nessa colaboração serão comunicados a ambas as Partes Contratantes, mas não serão divulgados por nenhuma das Partes senão mediante concordância prévia da outra. As Partes Contratantes poderão consultar-se sobre os referidos resultados, quando entenderem conveniente.
 
-ARTIGO X
+###### ARTIGO X
 
 1. As Partes Contratantes prestar-se-ão assistência mútua, na medida do possível, para a aquisição e construção, por uma ou outra das Partes Contratantes ou por pessoas estabelecidas em seus territórios e devidamente autorizadas pela Comissão ou pela Junta, de equipamentos e outros elementos necessários aos trabalhos de investigação, desenvolvimento e produção relativos à energia nuclear nos territórios de ambas as Partes.
 
 2. As Partes Contratantes esforçar-se-ão igualmente por estimular os fornecimentos e trocas de radioisótopos entre si.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Sem prejuízo dos compromissos internacionais assumidos anteriormente, o Governo Português declara-se disposto a negociar com o Governo Brasileiro o fornecimento de minério de urânio ou de urânio metálico ao Governo Brasileiro ou a entidades por ele designadas.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Os contratos concluídos em virtude do presente Acordo poderão conter quaisquer garantias e serem ajustados a cada caso particular. Sem prejuízo das disposições contidas nos ditos contratos, nenhuma disposição do presente Acordo poderá ser interpretada como impondo qualquer responsabilidade a qualquer das Partes Contratantes no que diz respeito a:
 
@@ -210,7 +215,7 @@ b) Consequência do uso feito de quaisquer conhecimentos, matérias ou equipamen
 
 c) Medida em que esses conhecimentos, matérias ou equipamentos convêm a determinadas aplicações ou utilizações particulares.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1. As Partes Contratantes obrigam-se a garantir que:
 
@@ -222,17 +227,17 @@ b) Com esse objectivo, nenhum material fértil ou material físsil especial prov
 
 3. Reconhecendo a importância da Agência Internacional de Energia Atómica, as Partes Contratantes consultar-se-ão periòdicamente com o intuito de determinar se existem, em matéria de fiscalização, sectores em relação aos quais convenha ser pedida a colaboração da referida Agência.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1. Por solicitação de qualquer das Partes Contratantes, os representantes destas reunir-se-ão a fim de resolverem os problemas porventura suscitados pela aplicação do presente Acordo, verificarem seu funcionamento e examinarem outras medidas de cooperação além daquelas previstas no presente Acordo.
 
 2. Estas consultas dirão respeito, particularmente, ao exame de questões de interesse comum relativas à investigação, à tecnologia da produção, à saúde, à segurança e às questões económicas decorrentes das utilizações pacíficas da energia nuclear.
 
-ARTIGO XV
+###### ARTIGO XV
 
 O presente Acordo será ratificado pelos dois países nos termos das respectivas disposições constitucionais.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 a) O presente Acordo será válido por um período ele vinte anos, a contar do dia em que cada uma das Partes tenha recebido da outra notificação, por escrito, de que foram cumpridas as formalidades legais e constitucionais requeridas para a sua entrada em vigor;
 

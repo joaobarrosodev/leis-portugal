@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12100/11651167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1976-426921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c00a7fd1ecbff1241205313b67e353425b062d5c9f64088a4bf1545c26b2f352
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69856790bdb93afa321a8c52d83b375a60fd119880f0c9da4f4165bdd73e7d61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- RDP
+- TAXA de Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:656106:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392420:por
+  label: "Alterado o nº 2 do art. 2º pelo DEC LEI.203/82.1982.05.22.MFP DR.IS [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1982-392420
+  date: '1982-05-22'
+- type: amended_by
+  target: pt:dre:307778:por
+  label: "Alterado o nº 2 do art. 2º pelo DEC LEI.33/83.1983.01.24.PCM DR.IS [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1983-307778
+  date: '1983-01-24'
+- type: amended_by
+  target: pt:dre:661320:por
+  label: "Alterado o nº 2 do art. 2º pelo DEC LEI.59/84.1984.02.23.PCM DR.IS [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-1984-661320
+  date: '1984-02-23'
+- type: amended_by
+  target: pt:dre:234496:por
+  label: Alterado o art. 2.º (na redação dos Dec Lei 203/82 de 22-mai, 33/83 de 24-jan e 52/84 de 23-fev) do presente diploma,
+    pelo(a) Decreto-Lei n.º 2/89 - Diário da República n.º 5/1989, Série I de 1989-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1989-234496
+  date: '1989-01-06'
+- type: amended_by
+  target: pt:dre:247046:por
+  label: Alterado o art. 2.º (com a redação dada pelos Dec Lei 203/82 de 22-Mai, 33/83 de 24-Jan, 59/84 de 23-Fev e 2/89 de
+    06-Jan) pelo DEC LEI.411/90.1990.12.31.PCM DR.IS [300]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1990-247046
+  date: '1990-12-31'
+- type: cites
+  target: pt:dre:160097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507648:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656106:por
+  label: "Revogado pela LEI.30/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2003-656106
+  date: '2003-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:20Z'
   warnings: []
   errors: []
 ---
@@ -121,11 +175,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São abolidos o licenciamento e as taxas de radiodifusão sonora de aparelhos radiorreceptores, a que se referem o artigo 32.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) e o Decreto-Lei n.º 41486, ambos de 30 de Dezembro de 1957, com a alteração constante do [Decreto n.º 87/75](https://diariodarepublica.pt/dr/detalhe/decreto/87-1975-160097), de 27 de Fevereiro.
+Artigo 1.º - 1. São abolidos o licenciamento e as taxas de radiodifusão sonora de aparelhos radiorreceptores, a que se referem o artigo 32.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) e o Decreto-Lei n.º 41486, ambos de 30 de Dezembro de 1957, com a alteração constante do [Decreto n.º 87/75](https://diariodarepublica.pt/dr/detalhe/decreto/87-1975-160097), de 27 de Fevereiro.
 
 2. O licenciamento, fixação e cobrança de taxas de aparelhos receptores de televisão serão objecto de regulamentação autónoma.
 
-###### Art. 2.º - 1. É instituída uma taxa anual de radiodifusão de âmbito nacional, a cobrar em duodécimos, mensal e indirectamente, por intermédio das distribuidoras de energia eléctrica, a ela ficando sujeitos os consumidores domésticos de iluminação e outros usos.
+Art. 2.º - 1. É instituída uma taxa anual de radiodifusão de âmbito nacional, a cobrar em duodécimos, mensal e indirectamente, por intermédio das distribuidoras de energia eléctrica, a ela ficando sujeitos os consumidores domésticos de iluminação e outros usos.
 
 2. Para o efeito são considerados os seguintes escalões:
 
@@ -137,7 +191,7 @@ c) Consumo anual de mais de 240 kWh - taxa mensal de 30$00.
 
 3. Sob proposta fundamentada da administração da Radiodifusão Portuguesa, E. P., os quantitativos da taxa nacional de radiodifusão sonora, bem como os respectivos escalões de incidência, podem ser objecto de revisão, mediante portaria conjunta dos Ministros da Comunicação Social, das Finanças e da Indústria e Tecnologia.
 
-###### Art. 3.º - 1. A taxa instituída pelo presente diploma constará do recibo relativo ao preço da energia eléctrica consumida, mas com autonomia contabilística em relação àquele e em lugar fisicamente separável do mesmo.
+Art. 3.º - 1. A taxa instituída pelo presente diploma constará do recibo relativo ao preço da energia eléctrica consumida, mas com autonomia contabilística em relação àquele e em lugar fisicamente separável do mesmo.
 
 2. O não pagamento pontual de um dos duodécimos da nova taxa acarretará o vencimento jurídico imediato dos restantes duodécimos, para o efeito da sua cobrança coerciva, sendo a mesma exigível em dobro.
 
@@ -147,26 +201,26 @@ c) Consumo anual de mais de 240 kWh - taxa mensal de 30$00.
 
 5. As quantias em dívida vencerão juros de mora à taxa anual de 10%.
 
-###### Art. 4.º - 1. A administração da Radiodifusão Portuguesa, E. P., promoverá a reestruturação dos respectivos serviços, designadamente os serviços administrativos, de contabilidade, tesouraria e expediente, em conjugação com os das empresas distribuidoras de energia, que funcionarão como exactoras dos meios de receita daquela.
+Art. 4.º - 1. A administração da Radiodifusão Portuguesa, E. P., promoverá a reestruturação dos respectivos serviços, designadamente os serviços administrativos, de contabilidade, tesouraria e expediente, em conjugação com os das empresas distribuidoras de energia, que funcionarão como exactoras dos meios de receita daquela.
 
 2. A mesma administração estruturará um plano de reclassificação e reutilização do pessoal dispensado das funções ou tarefas que deixem de existir por força da aplicação do presente diploma.
 
 3. Quer a reestruturação prevista no n.º 1, quer a planificação prevista no n.º 2, carecem de homologação do Ministro da Comunicação Social.
 
-###### Art. 5.º O pagamento do serviço prestado pelas distribuidoras de energia eléctrica à Radiodifusão Portuguesa, E. P., será feito em duodécimos mensais, por dedução, no valor das taxas recebidas de uma percentagem a fixar por despacho conjunto dos Ministros da Indústria e Tecnologia e da Comunicação Social.
+Art. 5.º O pagamento do serviço prestado pelas distribuidoras de energia eléctrica à Radiodifusão Portuguesa, E. P., será feito em duodécimos mensais, por dedução, no valor das taxas recebidas de uma percentagem a fixar por despacho conjunto dos Ministros da Indústria e Tecnologia e da Comunicação Social.
 
-###### Art. 6.º Deixa de vigorar, com referência ao início do ano de 1976, o acordo entre a Emissora Nacional e os CTT relativo à cobrança das taxas de radiodifusão sonora.
+Art. 6.º Deixa de vigorar, com referência ao início do ano de 1976, o acordo entre a Emissora Nacional e os CTT relativo à cobrança das taxas de radiodifusão sonora.
 
-###### Art. 7.º Do regulamento aprovado pelo [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, continuam em vigor as disposições relativas à cobrança coerciva das taxas e multas e à fiscalização técnica das instalações radioeléctricas receptoras de radiodifusão, na parte não revogada pelo disposto no presente diploma.
+Art. 7.º Do regulamento aprovado pelo [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, continuam em vigor as disposições relativas à cobrança coerciva das taxas e multas e à fiscalização técnica das instalações radioeléctricas receptoras de radiodifusão, na parte não revogada pelo disposto no presente diploma.
 
-###### Art. 8.º A execução do disposto no presente diploma será, até onde se mostre necessário, regulamentada por portaria conjunta dos Ministros da Comunicação Social, das Finanças e da Indústria e Tecnologia.
+Art. 8.º A execução do disposto no presente diploma será, até onde se mostre necessário, regulamentada por portaria conjunta dos Ministros da Comunicação Social, das Finanças e da Indústria e Tecnologia.
 
-###### Art. 9.º O presente diploma entra em vigor na data da sua publicação.
+Art. 9.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - António de Almeida Santos.
 
-**Promulgado em 13 de Maio de 1976.**
+Promulgado em 13 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

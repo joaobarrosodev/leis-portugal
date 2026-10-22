@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a00b5d87e492ca993630628c9b9baad0dc873ad50ba4e47249c835430b14e273
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f584f6d98664ee9a12f251a41d589907d1a65f3cd839af5042a5d3c9e92edb1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- CASA do Estado
+- Definição de Competências
+- Direcção Geral do Ensino Superior e das Belas Artes
+- Diuturnidades
+- Ensino Superior
+- Estudos Gerais Universitários
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Reitor
+- Remuneração
+- Subsídio de Renda de CASA
 relationships:
 - type: amended_by
   target: pt:dre:676420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:238643:por
+  label: "Alterado o art. 11º pelo DEC LEI.46255.19.03.1965.MU, DG.IS [66] de 19.03.1965 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46255-1965-238643
+  date: '1965-03-19'
+- type: amended_by
+  target: pt:dre:472924:por
+  label: "Alterado o art. 4º pelo DEC LEI.47002.10.05.1966.MU, DG.IS [110] de 10.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47002-1966-472924
+  date: '1966-05-10'
+- type: amended_by
+  target: pt:dre:478073:por
+  label: "Alterado o art. 11º (com a redacção constante do Dec Lei 46255 de 19-Mar de 1965) pelo DEC LEI.47253.10.10.1966.MU,\
+    \ DG.IS [235] de 10.10.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47253-1966-478073
+  date: '1966-10-10'
+- type: amended_by
+  target: pt:dre:214258:por
+  label: "Alterado o art. 11º (com a redacção conferida pelos Dec Lei 46255 de 19-Mar de 1965 e 47253 de 10-Out de 1966) pelo\
+    \ DEC LEI.49274.27.09.1969.MU, DG.IS [227] de 27.09.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49274-1969-214258
+  date: '1969-09-27'
+- type: amended_by
+  target: pt:dre:676420:por
+  label: "Mantido em vigor [com carácter interpretativo] o disposto no art. 11º deste diploma, com a redacção que lhe foi\
+    \ dada pelos Dec Lei 46255, de 19-Mar de 1965, 47253, de 10-Out de 1966, e 49274 de 27-Set de 1969, pelo DEC LEI.306/72.16.08.1972.MU,\
+    \ DG.IS [190] de 16.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-1972-676420
+  date: '1972-08-16'
+- type: cites
+  target: pt:dre:156596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163635:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:56Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +139,13 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os Estudos Gerais Universitários de Angola e de Moçambique regem-se pela legislação vigente para as Universidades, em tudo o que não for contrariado pelo presente diploma e pelos Decreto-lei n.º 44530, de 21 de Agosto de 1962, e [Decreto n.º 44644](https://diariodarepublica.pt/dr/detalhe/decreto/44644-1962-156596), de 24 de Outubro de 1962.
+Artigo 1.º Os Estudos Gerais Universitários de Angola e de Moçambique regem-se pela legislação vigente para as Universidades, em tudo o que não for contrariado pelo presente diploma e pelos Decreto-lei n.º 44530, de 21 de Agosto de 1962, e [Decreto n.º 44644](https://diariodarepublica.pt/dr/detalhe/decreto/44644-1962-156596), de 24 de Outubro de 1962.
 
-###### Art. 2.º A competência atribuída ao Ministro da Educação Nacional para as Universidades será exercida, no que respeita aos Estudos Gerais, pelo Ministro do Ultramar, tratando-se de questões meramente administrativas, pelo Ministro da Educação Nacional, tratando-se de questões meramente pedagógicas, e pelos dois conjuntamente, tratando-se de questões simultâneamente administrativas e pedagógicas.
+Art. 2.º A competência atribuída ao Ministro da Educação Nacional para as Universidades será exercida, no que respeita aos Estudos Gerais, pelo Ministro do Ultramar, tratando-se de questões meramente administrativas, pelo Ministro da Educação Nacional, tratando-se de questões meramente pedagógicas, e pelos dois conjuntamente, tratando-se de questões simultâneamente administrativas e pedagógicas.
 
-###### Art. 3.º A Direcção-Geral do Ensino Superior e das Belas-Artes tem, em relação aos Estudos Gerais, as atribuições que lhe cabem quanto às Universidades, competindo-lhe submeter à apreciação do Ministro do Ultramar, ou do Ministro da Educação Nacional, ou dos dois, conforme os casos, os assuntos respeitantes àqueles Estudos, bem como assegurar a execução dos respectivos despachos.
+Art. 3.º A Direcção-Geral do Ensino Superior e das Belas-Artes tem, em relação aos Estudos Gerais, as atribuições que lhe cabem quanto às Universidades, competindo-lhe submeter à apreciação do Ministro do Ultramar, ou do Ministro da Educação Nacional, ou dos dois, conforme os casos, os assuntos respeitantes àqueles Estudos, bem como assegurar a execução dos respectivos despachos.
 
-###### Art. 4.º Os senados dos Estatutos Gerais são constituídos:
+Art. 4.º Os senados dos Estatutos Gerais são constituídos:
 
 a) Pelo reitor, que é presidente nato;
 
@@ -116,17 +167,17 @@ i) Por um representante dos assistentes dos Estudos Gerais.
 
 § único. Na falta de professores catedráticos, os vogais referidos nas alíneas c) a g) serão substituídos pelo elemento docente mais categorizado do respectivo curso e, havendo vários dessa categoria, pelo mais antigo.
 
-###### Art. 5.º Aos senados dos Estudos Gerais cabem as atribuições dos senados e conselho universitários e dos conselhos escolares das Faculdades e escolas e institutos superiores.
+Art. 5.º Aos senados dos Estudos Gerais cabem as atribuições dos senados e conselho universitários e dos conselhos escolares das Faculdades e escolas e institutos superiores.
 
-###### Art. 6.º Os reitores dos Estudos Gerais têm a competência dos reitores das Universidades e dos directores das Faculdades, escolas e institutos superiores.
+Art. 6.º Os reitores dos Estudos Gerais têm a competência dos reitores das Universidades e dos directores das Faculdades, escolas e institutos superiores.
 
 § único. Quando algum curso funcione fora da localidade sede da reitoria, poderá o reitor delegar num professor, relativamente a esse curso, as atribuições que os Ministros do Ultramar e da Educação Nacional fixem por despacho conjunto.
 
-###### Art. 7.º Os assuntos referentes aos Estudos Gerais serão submetidos a despacho do governador-geral exclusivamente pelo reitor.
+Art. 7.º Os assuntos referentes aos Estudos Gerais serão submetidos a despacho do governador-geral exclusivamente pelo reitor.
 
 § único. A competência do governador-geral não pode ser delegada.
 
-###### Art. 8.º Os Estudos Gerais compreendem os seguintes cursos:
+Art. 8.º Os Estudos Gerais compreendem os seguintes cursos:
 
 a) Curso de Ciências Pedagógicas;
 
@@ -150,31 +201,31 @@ j) Curso de Medicina Veterinária.
 
 § único. Para cada um dos cursos das alíneas b) a j) será determinado por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, em função das possibilidades docentes e das necessidades discentes, o número dos anos a professar no ultramar e o dos que deverão ser cursados nos estabelecimentos congéneres da metrópole.
 
-###### Art. 9.º Os quadros do pessoal dos Estudos Gerais serão fixados em portaria conjunta dos Ministros do Ultramar e da Educação Nacional.
+Art. 9.º Os quadros do pessoal dos Estudos Gerais serão fixados em portaria conjunta dos Ministros do Ultramar e da Educação Nacional.
 
-###### Art. 10.º O pessoal docente será recrutado e provido segundo o regime em vigor para as Universidades, e o restante pessoal nas condições a estabelecer em portaria do Ministro do Ultramar.
+Art. 10.º O pessoal docente será recrutado e provido segundo o regime em vigor para as Universidades, e o restante pessoal nas condições a estabelecer em portaria do Ministro do Ultramar.
 
-###### Art. 11.º Os cargos docentes, técnicos e administrativos poderão ser desempenhados em comissão de serviço por pessoal das Universidades e das escolas superiores da metrópole.
+Art. 11.º Os cargos docentes, técnicos e administrativos poderão ser desempenhados em comissão de serviço por pessoal das Universidades e das escolas superiores da metrópole.
 
 § único. O serviço em comissão considera-se, para todos os efeitos legais, prestado na Universidade ou escola a que o funcionário pertencer.
 
-###### Art. 12.º As remunerações mensais que competem ao pessoal docente são as seguintes:
+Art. 12.º As remunerações mensais que competem ao pessoal docente são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/18300/10621063.pdf))](https://files.diariodarepublica.pt/1s/1963/08/18300/10621063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/18300/10621063.pdf)
 
 § 1.º O serviço de regência de cursos teóricos ou de trabalhos práticos, além do obrigatório, é remunerado nas condições estabelecidas para as Universidades, mas o quantitativo das respectivas gratificações tem o acréscimo de 100 por cento.
 
 § 2.º Ao pessoal docente que não exerça qualquer outra actividade remunerada, oficial ou particular, poderá ser atribuído um subsídio, de quantitativo não excedente a 4000$00 mensais, para a realização de determinado trabalho de investigação científica nos Estudos Gerais ou institutos da província.
 
-###### Art. 13.º É aplicável aos reitores e aos professores, com uma ou duas diuturnidades, o disposto no artigo 274.º do Estatuto do Funcionalismo Ultramarino.
+Art. 13.º É aplicável aos reitores e aos professores, com uma ou duas diuturnidades, o disposto no artigo 274.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 14.º O pessoal docente, técnico e administrativo terá direito a habitação gratuita fornecida pelo Estado ou, na falta dela, a um subsídio para renda de casa a fixar pelo governador-geral, de harmonia com as condições locais.
+Art. 14.º O pessoal docente, técnico e administrativo terá direito a habitação gratuita fornecida pelo Estado ou, na falta dela, a um subsídio para renda de casa a fixar pelo governador-geral, de harmonia com as condições locais.
 
-###### Art. 15.º Enquanto se não efectivar a integração prevista no artigo 12.º do [Decreto-Lei n.º 44530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44530-1962-163635), o director de cada um dos institutos de investigação científica será nomeado por portaria conjunta dos Ministros do Ultramar e da Educação Nacional, de entre o pessoal docente dos respectivos Estudos Gerais Universitários, ouvidos o reitor, o presidente da Junta de Investigações do Ultramar e o governador-geral.
+Art. 15.º Enquanto se não efectivar a integração prevista no artigo 12.º do [Decreto-Lei n.º 44530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44530-1962-163635), o director de cada um dos institutos de investigação científica será nomeado por portaria conjunta dos Ministros do Ultramar e da Educação Nacional, de entre o pessoal docente dos respectivos Estudos Gerais Universitários, ouvidos o reitor, o presidente da Junta de Investigações do Ultramar e o governador-geral.
 
 § único. O regime estabelecido neste artigo poderá estender-se a outros institutos de investigação mediante despacho conjunto dos dois Ministros.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

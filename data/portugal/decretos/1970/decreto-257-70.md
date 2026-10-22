@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/257-1970-142531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d74844ba0bd068a8ec84f49c892c3b8580d935dad18b0ab4a679fada838a35e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efa6c27fb816b3b7a9ba4684125cca35fe25c294ab5896bcb02503510671d95f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:47Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +92,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta Autónoma dos Portos do Arquipélago da Madeira a celebrar contrato para o fornecimento de um flutuador metálico destinado a uma draga escavadora, seus pertences e respectivos sobresselentes, incluindo transporte para o porto de Funchal, com exclusão do reboque, e bem assim a montagem da draga no flutuador, pela importância de 2150000$00.
+Artigo 1.º É autorizada a Junta Autónoma dos Portos do Arquipélago da Madeira a celebrar contrato para o fornecimento de um flutuador metálico destinado a uma draga escavadora, seus pertences e respectivos sobresselentes, incluindo transporte para o porto de Funchal, com exclusão do reboque, e bem assim a montagem da draga no flutuador, pela importância de 2150000$00.
 
-###### Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá em cada ano exceder as quantias seguintes:
+Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá em cada ano exceder as quantias seguintes:
 
 Em 1970 ... 1290000$00
 
@@ -100,8 +104,8 @@ Em 1971 ... 860000$00
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 25 de Maio de 1970.**
+Promulgado em 25 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

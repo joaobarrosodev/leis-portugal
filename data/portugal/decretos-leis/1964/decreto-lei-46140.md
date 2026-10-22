@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 305/1964, 1º Suplemento, Série I de 1964-12-31
   number: '305'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2015 - 2020
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/30501/20152020.pdf
 entry_into_force_dates: []
@@ -47,36 +47,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46140-1964-355114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66ee20dd921c988f9bddfa0092ed055db341a42880e507a04d5d96208290df1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa62324fb7fb15a7f0186ab7c660277652563a628f3ed0c7ca13c267668b7e9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abrantes
+- Açores
+- Águeda
+- Alcácer do SAL
+- Alcobaça
+- Alenquer
+- Almada
+- Alverca do Ribatejo
+- Amora
+- Anadia
+- Angra do Heroísmo
+- Arcos de Valdevez
+- Aveiro
+- Barcelos
+- Barreiro
+- Beja
+- Benavente
+- Braga
+- Bragança
+- Caldas da Rainha
+- Cantanhede
+- Cartaxo
+- Cascais
+- Castelo Branco
+- Chaves
+- Coimbra
+- Coruche
+- Costa de Caparica
+- Covilhã
+- Criação de Lugares
+- Cuba
+- Elvas
+- Estatuto Judiciário
+- Estremoz
+- Évora
+- FAFE
+- Faro
+- Figueira da Foz
+- Fronteira.povoação
+- Funchal
+- Fundão
+- Golegã
+- Guarda
+- Horta
+- ILHA de Santa Maria
+- Ilha do Pico
+- Ilha Graciosa
+- Juiz
+- Lagos
+- Lamego
+- Leiria
+- Lisboa
+- Loulé
+- Lourinhã
+- Lousã
+- Madeira.ilha Adjacente
+- Mafra
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Mértola
+- Montalegre
+- Montemor-o-Novo
+- Montijo
+- Moura
+- Odemira
+- Olhão
+- Ourique
+- Ovar
+- Penafiel
+- PESO da Régua
+- Pessoal de Justiça
+- Pombal
+- Ponta Delgada
+- Ponta do SOL
+- Ponte de LIMA
+- Portalegre
+- Portimão
+- Póvoa de Santa IRIA
+- Póvoa de Varzim
+- Póvoação
+- Quadro de Pessoal
+- Redondo
+- Reguengos de Monsaraz
+- Ribeira Grande
+- RIO Maior
+- Salvaterra de Magos
+- Santa Comba DÃO
+- Santa CRUZ
+- Santarém
+- Santiago do Cacém
+- Santo Tirso
+- são Vicente
+- Seixal
+- Serpa
+- Sesimbra
+- Setúbal
+- Silves
+- Sintra
+- Tavira
+- Tomar
+- Tondela
+- Torres Novas
+- Tribunal da Relação
+- Viana do Castelo
+- Vila da Feira
+- VILA do Conde
+- VILA Franca do Campo
+- Vila Real
+- Vila Real de Santo António
+- Vila Viçosa
+- Viseu
+relationships:
+- type: cites
+  target: pt:dre:299207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:49Z'
   warnings: []
   errors: []
 ---
@@ -129,21 +256,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aumentado de quatro juízes desembargadores o quadro da Relação de Lisboa.
+Artigo 1.º É aumentado de quatro juízes desembargadores o quadro da Relação de Lisboa.
 
-###### Art. 2.º São criadas as comarcas do Seixal e de Benavente, com a classe, área, sede e composição constantes dos mapas anexos ao Estatuto Judiciário, alterados nos termos do presente diploma.
+Art. 2.º São criadas as comarcas do Seixal e de Benavente, com a classe, área, sede e composição constantes dos mapas anexos ao Estatuto Judiciário, alterados nos termos do presente diploma.
 
-###### Art. 3.º - 1. Os tribunais das novas comarcas só começarão a funcionar depois de o Conselho Superior Judiciário verificar a suficiência das suas instalações e das casas para residência dos magistrados e de os respectivos juízes serem empossados.
+Art. 3.º - 1. Os tribunais das novas comarcas só começarão a funcionar depois de o Conselho Superior Judiciário verificar a suficiência das suas instalações e das casas para residência dos magistrados e de os respectivos juízes serem empossados.
 
 2. Até ao começo do funcionamento dos novos tribunais, conservam as comarcas de Almada, Vila Franca de Xira e Coruche, assim como o julgado municipal de Benavente, a competência de que gozam presentemente, mantendo-se também a actual constituição dos respectivos tribunais colectivos.
 
 3. Os tribunais de comarca referidos no número anterior conservam ainda a competência actual, mesmo depois da entrada em funcionamento dos tribunais criados por este diploma, relativamente às acções que neles estejam pendentes.
 
-###### Art. 4.º É aplicável aos tribunais das novas comarcas o que, quanto a boletins do registo criminal, se dispõe no artigo 758.º do Estatuto Judiciário.
+Art. 4.º É aplicável aos tribunais das novas comarcas o que, quanto a boletins do registo criminal, se dispõe no artigo 758.º do Estatuto Judiciário.
 
-###### Art. 5.º Os artigos 119.º, 191.º, 227.º, 234.º e 430.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Art. 5.º Os artigos 119.º, 191.º, 227.º, 234.º e 430.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 119.º - 1. Os magistrados judiciais são promovidos à classe superior e à 2.ª instância nos termos seguintes:
+Art. 119.º - 1. Os magistrados judiciais são promovidos à classe superior e à 2.ª instância nos termos seguintes:
 
 a) ...
 
@@ -157,13 +284,13 @@ c) Não havendo magistrados classificados para a promoção por mérito, as prom
 
 ...
 
-###### Art. 191.º Aos magistrados do Ministério Público é contado, para efeitos de antiguidade, o tempo de serviço prestado como interinos quando seguido do provimento efectivo na mesma função, desde que satisfaçam, à data da nomeação interina, aos requisitos exigidos para a nomeação efectiva e se tenham observado as formalidades de que esta nomeação depende.
+Art. 191.º Aos magistrados do Ministério Público é contado, para efeitos de antiguidade, o tempo de serviço prestado como interinos quando seguido do provimento efectivo na mesma função, desde que satisfaçam, à data da nomeação interina, aos requisitos exigidos para a nomeação efectiva e se tenham observado as formalidades de que esta nomeação depende.
 
 Quando ao tempo da nomeação interina não satisfaçam a todos aqueles requisitos, ser-lhes-á contado o tempo de serviço posterior à data em que os houverem completado.
 
 ...
 
-###### Art. 227.º ...
+Art. 227.º ...
 
 a) ...
 
@@ -181,13 +308,13 @@ g) ...
 
 ...
 
-###### Art. 234.º - 1. ...
+Art. 234.º - 1. ...
 
 2. A graduação, na respectiva lista de antiguidades, dos delegados nomeados por despachos publicados na mesma data é determinada, sem prejuízo do disposto no artigo 191.º, pela mais alta classificação obtida no concurso; entre os da mesma classificação, atender-se-á ao tempo de serviço que houverem prestado como interinos e, em igualdade de condições, os mais velhos antecederão os mais novos.
 
 ...
 
-###### Art. 430.º - 1. À classificação extraordinária são chamados obrigatòriamente todos os magistrados judiciais que:
+Art. 430.º - 1. À classificação extraordinária são chamados obrigatòriamente todos os magistrados judiciais que:
 
 a) Se encontrem no terço superior da escala de antiguidade da respectiva classe;
 
@@ -199,9 +326,9 @@ b) ...
 
 4. ...
 
-###### Art. 6.º Os encargos a que der lugar a execução do presente diploma serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto dos Ministros da Justiça e das Finanças.
+Art. 6.º Os encargos a que der lugar a execução do presente diploma serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto dos Ministros da Justiça e das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48676-1968-263561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8979e002bdbe35a696f64499aa0342ed80cda9f641572928c15c04eff4fc1184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a44fa6a167f85b275b0f77f6f19c7eb2d5ed78211c711092ec20aae13eb24d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- Gratificação
+- Militar
+- Recrutamento de Pessoal
+- Remuneração
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:05Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +96,7 @@ Considerando, finalmente, que se torna necessário assegurar o seu regular recru
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As praças da Guarda Fiscal passam a ter a seguinte classificação:
+Artigo 1.º As praças da Guarda Fiscal passam a ter a seguinte classificação:
 
 a) Soldado provisório;
 
@@ -105,17 +110,17 @@ e) Segundo-cabo com mais de cinco anos;
 
 f) Primeiro-cabo.
 
-###### Art. 2.º O alistamento dos soldados na Guarda Fiscal será efectuado conforme as necessidades de incorporação, a requerimento dos interessados, mediante despacho do comandante-geral, após as provas de admissão estabelecidas e tem carácter provisório durante a frequência do centro de alistados, convertendo-se em definitivo logo que a terminem com aproveitamento.
+Art. 2.º O alistamento dos soldados na Guarda Fiscal será efectuado conforme as necessidades de incorporação, a requerimento dos interessados, mediante despacho do comandante-geral, após as provas de admissão estabelecidas e tem carácter provisório durante a frequência do centro de alistados, convertendo-se em definitivo logo que a terminem com aproveitamento.
 
-###### Art. 3.º Os vencimentos das praças e as gratificações dos sargentos da Guarda Fiscal são os constantes dos mapas anexos a este diploma.
+Art. 3.º Os vencimentos das praças e as gratificações dos sargentos da Guarda Fiscal são os constantes dos mapas anexos a este diploma.
 
-###### Art. 4.º Este diploma entra em vigor em 1 de Novembro de 1968 e os encargos resultantes serão satisfeitos, no corrente ano, pelas disponibilidades das verbas dos artigos 157.º e 158.º do orçamento das despesas do Ministério das Finanças.
+Art. 4.º Este diploma entra em vigor em 1 de Novembro de 1968 e os encargos resultantes serão satisfeitos, no corrente ano, pelas disponibilidades das verbas dos artigos 157.º e 158.º do orçamento das despesas do Ministério das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 30 de Outubro de 1968.**
+Promulgado em 30 de Outubro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -123,12 +128,12 @@ MAPA I
 
 Vencimento das praças da Guarda Fiscal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/26500/16621662.pdf))](https://files.diariodarepublica.pt/1s/1968/11/26500/16621662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/26500/16621662.pdf)
 
 MAPA II
 
 Gratificações mensais das sargentos da Guarda Fiscal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/26500/16621662.pdf))](https://files.diariodarepublica.pt/1s/1968/11/26500/16621662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/26500/16621662.pdf)
 
 Ministério das Finanças, 30 de Outubro de 1968. - O Ministro das Finanças, João Augusto Dias Rosas.

@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1980-678814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bcb57a2582d709a5fad8d7bd5e2794e1ce753e0fe0fe209e121a93c67250776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52f036e7d1f2bf1ea6a85e310589cfcba2f7aa0b268219e3130308a934e52e89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Pessoal Civil
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:437048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:53Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +104,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao artigo 6.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, são aditados um § 3.º e um § 4.º, com a seguinte redacção:
+Artigo 1.º Ao artigo 6.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, são aditados um § 3.º e um § 4.º, com a seguinte redacção:
 
 § 3.º Pela expressão «renda módica», referida na parte final do § 1.º, entende-se o quantitativo resultante da dedução de, no mínimo, um décimo e, no máximo, um sexto do vencimento mensal do beneficiário.
 
 § 4.º As casas atribuídas aos beneficiários dos Serviços Sociais da Guarda Nacional Republicana mediante arrendamento simples serão desocupadas pelos mesmos no prazo de noventa dias a contar da data em que o respectivo arrendatário deixe de prestar serviço efectivo.
 
-###### Art. 2.º O artigo 12.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 2.º O artigo 12.º do mesmo diploma passa a ter a seguinte redacção:
 
-###### Art. 12.º São beneficiários dos Serviços Sociais da Guarda Nacional Republicana, mediante desconto nos vencimentos ou pensões das quotizações que forem fixadas por despacho ministerial:
+Art. 12.º São beneficiários dos Serviços Sociais da Guarda Nacional Republicana, mediante desconto nos vencimentos ou pensões das quotizações que forem fixadas por despacho ministerial:
 
 a) Os oficiais do quadro de complemento em serviço na Guarda Nacional Republicana;
 
@@ -121,8 +128,8 @@ e) As viúvas, enquanto nesta situação, e os órfãos, enquanto menores, do pe
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1980. - Francisco Sá Carneiro - Eurico de Melo - Aníbal António Cavaco Silva.
 
-**Promulgado em 21 de Fevereiro de 1980.**
+Promulgado em 21 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

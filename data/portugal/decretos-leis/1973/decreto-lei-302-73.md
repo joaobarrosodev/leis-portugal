@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1973-422673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6368b0e43e4e2ae844a34ae07d076a1a570a64d78871e81f5949ea51e4975b93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4292e77f0d4918a268f074405453301c986f5b8571d9c7b49c0c54454e0b429b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CECA
+- Dinamarca
+- Política Pautal
+- Portugal
+- Reino Unido
+relationships:
+- type: cites
+  target: pt:dre:675058:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:22Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +102,16 @@ Nesta conformidade, e em face do princípio constante do parágrafo 1 do artigo 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Relativamente aos produtos originários da Dinamarca e do Reino Unido e enumerados na lista anexa ao Protocolo n.º 1 do Acordo celebrado entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro, os direitos de importação aplicados serão eliminados progressivamente nas proporções e segundo o calendário estabelecido no parágrafo 2 do artigo 1.º do mesmo Protocolo.
+Artigo 1.º Relativamente aos produtos originários da Dinamarca e do Reino Unido e enumerados na lista anexa ao Protocolo n.º 1 do Acordo celebrado entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro, os direitos de importação aplicados serão eliminados progressivamente nas proporções e segundo o calendário estabelecido no parágrafo 2 do artigo 1.º do mesmo Protocolo.
 
-###### Art. 2.º Os restantes produtos, aos quais se aplicará o Acordo referido no artigo anterior quando originários da Dinamarca e do Reino Unido, beneficiarão do tratamento aplicável aos países da E. F. T. A.
+Art. 2.º Os restantes produtos, aos quais se aplicará o Acordo referido no artigo anterior quando originários da Dinamarca e do Reino Unido, beneficiarão do tratamento aplicável aos países da E. F. T. A.
 
-###### Art. 3.º O presente decreto-lei caducará com a entrada em vigor do Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro lado, e, o mais tardar, no dia 31 de Dezembro de 1973.
+Art. 3.º O presente decreto-lei caducará com a entrada em vigor do Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro lado, e, o mais tardar, no dia 31 de Dezembro de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 30 de Maio de 1973.**
+Promulgado em 30 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

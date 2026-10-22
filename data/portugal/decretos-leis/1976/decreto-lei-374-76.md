@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11700/11291129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1976-428221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 487e650a0e7b9a1ede4d5aa1d9006d12ae0e1cf1d9b4010f52f1d6cb3015ff00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ced78222ab5313f8dc45a95b68e2bb4a9bccd05f176517aa092d7e8f35fa985
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Ministério dos Assuntos Sociais
+- Orçamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: corrected_by
+  target: pt:dre:407116:por
+  label: Rectificado pela DECL.DD8085.12.11.1976.PCM, DR.IS [265] de 12.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-407116
+  date: '1976-11-12'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:08Z'
   warnings: []
   errors: []
 ---
@@ -92,26 +108,26 @@ Considerando que se impõe definir os termos em que se efectuará a integração
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Enquanto não se verificar a integração do orçamento da Junta Central das Casas do Povo no Orçamento Geral do Estado, as despesas do organismo que não puderem ser cobertas pelas receitas próprias constituem, a partir de 1 de Janeiro de 1976, encargo do Tesouro.
+Artigo 1.º Enquanto não se verificar a integração do orçamento da Junta Central das Casas do Povo no Orçamento Geral do Estado, as despesas do organismo que não puderem ser cobertas pelas receitas próprias constituem, a partir de 1 de Janeiro de 1976, encargo do Tesouro.
 
-###### Art. 2.º - 1. A fim de ocorrer às despesas referidas no artigo anterior, será, anualmente, inscrita uma dotação no orçamento do Ministério dos Assuntos Sociais.
+Art. 2.º - 1. A fim de ocorrer às despesas referidas no artigo anterior, será, anualmente, inscrita uma dotação no orçamento do Ministério dos Assuntos Sociais.
 
 2. Para o corrente ano económico é aberto no Ministério das Finanças, a favor do Ministério dos Assuntos Sociais, um crédito especial da quantia de 40000 contos, a inscrever no orçamento em vigor do segundo dos mencionados Ministérios, sob a forma seguinte:
 
 ### Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 31.º «Transferências - Sector público»:
+Artigo 31.º «Transferências - Sector público»:
 
 N.º 3 «Subsídio à Junta Central das Casas do Povo».
 
 3. Para compensação do crédito aludido no número precedente é aumentada igual quantia à verba descrita no capítulo 2.º, grupo 1, artigo 15.º «Sobretaxa de importação», do actual orçamento das receitas do Estado.
 
-###### Art. 3.º Os orçamentos ordinários e suplementares a elaborar pela Junta Central das Casas do Povo nas circunstâncias previstas no artigo 1.º serão aprovados pelo Ministro dos Assuntos Sociais e visados pelo Ministro das Finanças.
+Art. 3.º Os orçamentos ordinários e suplementares a elaborar pela Junta Central das Casas do Povo nas circunstâncias previstas no artigo 1.º serão aprovados pelo Ministro dos Assuntos Sociais e visados pelo Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 10 de Maio de 1976.**
+Promulgado em 10 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

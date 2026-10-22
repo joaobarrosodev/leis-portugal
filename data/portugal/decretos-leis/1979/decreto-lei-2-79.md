@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1979-476676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d01c9b790e0f56b31058570d2946d65c3876408c0b8e7cb2b416cbd2f981070e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 632e1c2500655746704bcfb42b1cb55e8f05ad2edb42894eb24fa4b912084869
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Indemnização
+- Nacionalização
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:197687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:393203:por
+  label: Rectificado pela DECL.DD7167.12.02.1979.PCM, DR.IS [36] de 12.02.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-393203
+  date: '1979-02-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:46Z'
   warnings: []
   errors: []
 ---
@@ -116,11 +129,11 @@ Quando se verificar esta última situação, procurar-se-á determinar o valor d
 
 Nestes termos, usando da faculdade conferida pelo artigo 8.º, n.º 1, alínea c), e artigo 37.º n.º 2, da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A indemnização provisória corresponde ao somatório do valor fundiário com o valor do capital de exploração calculados nos termos do presente decreto-lei.
+Artigo 1.º - 1 - A indemnização provisória corresponde ao somatório do valor fundiário com o valor do capital de exploração calculados nos termos do presente decreto-lei.
 
 2 - O capital de exploração para efeitos deste diploma abrange as máquinas, alfaias e equipamentos agrícolas, os efectivos pecuários, os produtos armazenados, os frutos pendentes e os avanços às culturas.
 
-###### Art. 2.º - 1 - Nos concelhos onde vigora o cadastro geométrico da propriedade rústica, o valor fundiário dos prédios rústicos será calculado através da capitalização do rendimento líquido cadastral inscrito na matriz à data da expropriação ou da nacionalização, ou da ocupação efectiva, no caso de esta ter sido anterior, a taxas de capitalização variáveis de concelho para concelho.
+Art. 2.º - 1 - Nos concelhos onde vigora o cadastro geométrico da propriedade rústica, o valor fundiário dos prédios rústicos será calculado através da capitalização do rendimento líquido cadastral inscrito na matriz à data da expropriação ou da nacionalização, ou da ocupação efectiva, no caso de esta ter sido anterior, a taxas de capitalização variáveis de concelho para concelho.
 
 2 - No caso de nas matrizes estar inscrita a renda fundiária e não o rendimento líquido cadastral, aplicar-se-ão àquelas rendas fundiárias os coeficientes constantes da tabela I anexa a este diploma, de forma a obter-se o rendimento líquido cadastral, que servirá de base para o cálculo do valor fundiário, nos termos do número anterior.
 
@@ -130,15 +143,15 @@ Nestes termos, usando da faculdade conferida pelo artigo 8.º, n.º 1, alínea c
 
 5 - Os valores fundiários dos prédios situados em mais do que um concelho serão calculados por aplicação das taxas de capitalização e coeficientes estabelecidos para os concelhos que abranjam a maior parte das respectivas áreas.
 
-###### Art. 3.º - 1 - O capital de exploração dos prédios rústicos expropriados ou nacionalizados será calculado com base em inventários das existências à data da expropriação ou nacionalização, ou da ocupação efectiva, no caso de esta ter sido anterior, assinados pela entidade que sofreu a expropriação ou nacionalização e visados por um organismo do MAP, depois de ouvidos os trabalhadores permanentes da respectiva exploração.
+Art. 3.º - 1 - O capital de exploração dos prédios rústicos expropriados ou nacionalizados será calculado com base em inventários das existências à data da expropriação ou nacionalização, ou da ocupação efectiva, no caso de esta ter sido anterior, assinados pela entidade que sofreu a expropriação ou nacionalização e visados por um organismo do MAP, depois de ouvidos os trabalhadores permanentes da respectiva exploração.
 
 2 - Na falta de inventário, o capital de exploração será calculado mediante a reconstituição dos respectivos elementos existentes às datas referidas no número anterior, nas mesmas condições.
 
-###### Art. 4.º Na avaliação dos capitais de exploração, com base nas disposições do artigo anterior, seguir-se-ão os critérios estabelecidos nos artigos seguintes.
+Art. 4.º Na avaliação dos capitais de exploração, com base nas disposições do artigo anterior, seguir-se-ão os critérios estabelecidos nos artigos seguintes.
 
-###### Art. 5.º O gado, discriminado por espécies, raças e idades, será valorado aos preços correntes em Dezembro de 1975 ou, quando tais actos se tiverem verificado em momento posterior, à data da expropriação, da nacionalização ou da ocupação efectiva, conforme o que primeiramente tenha ocorrido.
+Art. 5.º O gado, discriminado por espécies, raças e idades, será valorado aos preços correntes em Dezembro de 1975 ou, quando tais actos se tiverem verificado em momento posterior, à data da expropriação, da nacionalização ou da ocupação efectiva, conforme o que primeiramente tenha ocorrido.
 
-###### Art. 6.º - 1 - O valor das máquinas, alfaias e outros equipamentos agrícolas será calculado em função do respectivo custo e idade à data da expropriação, da nacionalização ou da ocupação efectiva, conforme o acto que primeiramente tenha ocorrido, por aplicação da seguinte fórmula:
+Art. 6.º - 1 - O valor das máquinas, alfaias e outros equipamentos agrícolas será calculado em função do respectivo custo e idade à data da expropriação, da nacionalização ou da ocupação efectiva, conforme o acto que primeiramente tenha ocorrido, por aplicação da seguinte fórmula:
 
 Vind - Vb x (1 - t)(elevado n)
 
@@ -154,13 +167,13 @@ n - idade das máquinas em anos.
 
 2 - A taxa de amortização (t) referida no número anterior é a constante da tabela III anexa a este diploma.
 
-###### Art. 7.º - 1 - Se a expropriação ou nacionalização, ou a ocupação que eventualmente a tenha precedido, tiver ocorrido logo após a realização dos «avanços às culturas» ou ao longo da cultura que imediatamente os seguiu, o empresário será integralmente reembolsado das respectivas despesas.
+Art. 7.º - 1 - Se a expropriação ou nacionalização, ou a ocupação que eventualmente a tenha precedido, tiver ocorrido logo após a realização dos «avanços às culturas» ou ao longo da cultura que imediatamente os seguiu, o empresário será integralmente reembolsado das respectivas despesas.
 
 2 - Para efeitos deste diploma, consideram-se «avanços às culturas» as despesas feitas com operações cujos benefícios se repercutem não só na cultura que imediatamente se segue mas também em culturas subsequentes.
 
-###### Art. 8.º Os produtos armazenados serão valorados aos preços correntes em Dezembro de 1975 quando tais actos se tiverem verificado em momento posterior à data da expropriação ou nacionalização, ou da ocupação efectiva, conforme o que primeiramente tenha ocorrido.
+Art. 8.º Os produtos armazenados serão valorados aos preços correntes em Dezembro de 1975 quando tais actos se tiverem verificado em momento posterior à data da expropriação ou nacionalização, ou da ocupação efectiva, conforme o que primeiramente tenha ocorrido.
 
-###### Art. 9.º - 1 - Os «frutos pendentes» não colhidos serão valorados aos preços correntes na época da colheita, deduzidas as despesas normais feitas desde a data da expropriação ou nacionalização, ou da ocupação que eventualmente a tenha precedido até à colheita e operações complementares.
+Art. 9.º - 1 - Os «frutos pendentes» não colhidos serão valorados aos preços correntes na época da colheita, deduzidas as despesas normais feitas desde a data da expropriação ou nacionalização, ou da ocupação que eventualmente a tenha precedido até à colheita e operações complementares.
 
 2 - Os «frutos pendentes» colhidos serão valorados aos preços correntes em Dezembro de 1975 quando tais actos se tiverem verificado em momento posterior à data da expropriação, nacionalização ou da ocupação efectiva, conforme o que primeiramente tenha ocorrido.
 
@@ -184,7 +197,7 @@ t - taxa de juro.
 
 6 - A quantidade de resina a considerar como «fruto pendente» é a correspondente à produção anual média dos cinco anos imediatamente anteriores ao da expropriação ou nacionalização, ou da ocupação que eventualmente a tenha precedido.
 
-###### Art. 10.º - 1 - Para efeitos do disposto neste diploma considera-se «frutos pendentes» a porção em curso à data da expropriação ou nacionalização, ou da ocupação que eventualmente a tenha precedido, que o empresário não chegou a colher, e a produção já colhida pelo empresário.
+Art. 10.º - 1 - Para efeitos do disposto neste diploma considera-se «frutos pendentes» a porção em curso à data da expropriação ou nacionalização, ou da ocupação que eventualmente a tenha precedido, que o empresário não chegou a colher, e a produção já colhida pelo empresário.
 
 2 - A quantidade de «frutos pendentes» não colhidos a considerar será a que tiver sido efectivamente colhida e, no caso de ser desconhecido o seu quantitativo, a previsível.
 
@@ -192,40 +205,40 @@ t - taxa de juro.
 
 4 - O material lenhoso existente no pinhal explorado em corte raso ou no eucaliptal explorado em talhadia não é considerado «fruto pendente», compreendendo-se o seu valor no do capital fundiário.
 
-###### Art. 11.º No caso de a situação actual da exploração agrícola tornar inexequível o disposto no n.º 2 do artigo 3.º deste diploma, o capital de exploração será, em cada distrito, correspondente às percentagens do valor fundiário constantes da tabela IV anexa a este diploma, aplicando-se aos prédios situados em mais do que um distrito as percentagens estabelecidas para os distritos que abranjam a maior parte das respectivas áreas.
+Art. 11.º No caso de a situação actual da exploração agrícola tornar inexequível o disposto no n.º 2 do artigo 3.º deste diploma, o capital de exploração será, em cada distrito, correspondente às percentagens do valor fundiário constantes da tabela IV anexa a este diploma, aplicando-se aos prédios situados em mais do que um distrito as percentagens estabelecidas para os distritos que abranjam a maior parte das respectivas áreas.
 
-###### Art. 12.º - 1 - À indemnização provisória será deduzido o montante correspondente ao valor fundiário e do capital de exploração da reserva já demarcada e entregue, calculado na proporção entre a pontuação da reserva e a pontuação total do prédio expropriado ou nacionalizado.
+Art. 12.º - 1 - À indemnização provisória será deduzido o montante correspondente ao valor fundiário e do capital de exploração da reserva já demarcada e entregue, calculado na proporção entre a pontuação da reserva e a pontuação total do prédio expropriado ou nacionalizado.
 
 2 - No caso de ter sido formulado pedido de reserva e enquanto esta não for demarcada e entregue, a dedução à indemnização será equivalente ao valor fundiário e do capital de exploração da reserva pedida, calculado nos termos deste diploma.
 
 3 - O valor obtido nos termos do número anterior será corrigido logo que se verifique a demarcação e a entrega da reserva ou imediatamente após o indeferimento do respectivo pedido.
 
-###### Art. 13.º - 1 - A indemnização correspondente ao capital de exploração das reservas necessário à sua racional exploração será paga em espécie ou, quando tal não seja possível, corresponderá ao valor de substituição à data do pagamento da indemnização.
+Art. 13.º - 1 - A indemnização correspondente ao capital de exploração das reservas necessário à sua racional exploração será paga em espécie ou, quando tal não seja possível, corresponderá ao valor de substituição à data do pagamento da indemnização.
 
 2 - O capital de exploração referido no número anterior será determinado, caso a caso, pelos departamentos do Ministério da Agricultura e Pescas que forem designados por despacho do Ministro.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Francisco de Paula Ferreira Moniz Borba.
 
-**Promulgado em 6 de Dezembro de 1978.**
+Promulgado em 6 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 TABELA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf))](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf))](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
 
 TABELA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf))](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
 
 TABELA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf))](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/01/00700/00290034.pdf)
 
-**O Ministro das Finanças e do Plano, José da Silva Nunes. - O Secretário de Estado do Fomento Agrário e Florestas, Francisco de Paula Ferreira Moniz Borba.**
+O Ministro das Finanças e do Plano, José da Silva Nunes. - O Secretário de Estado do Fomento Agrário e Florestas, Francisco de Paula Ferreira Moniz Borba.

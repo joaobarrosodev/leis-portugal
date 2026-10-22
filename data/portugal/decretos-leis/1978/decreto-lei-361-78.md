@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 273/1978, 1º Suplemento, Série I de 1978-11-27
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2494-(9) a 2494-(63)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf
 entry_into_force_dates: []
@@ -46,40 +46,204 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3726463b7b522dc20460553f2ae42263ec9eab94dbe1900b30930d44f5928e40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40a6b462948ea6e2308ba7466bdf00f97b5d96a3b5aaa4aecb08c3051452e0d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Estatuto do Pessoal
+- Fundo de Aposentação
+- Instituto Nacional de Pilotagem dos Portos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:469069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392600:por
+  label: "Alterados os coeficientes a aplicar às verbas das tabelas A, B e C, a que se referem os artigos 24.º e 30.º do Regulamento\
+    \ de Prestação de Serviços e Taxas, anexo I do presente diploma, pela PORT.49/79.26.01.1979.MTC, DR.IS [22] de 26.01.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-1979-392600
+  date: '1979-01-26'
+- type: amended_by
+  target: pt:dre:382793:por
+  label: "Alterados os artigos 2.º, 3.º, 6.º, 9.º, 12.º, 14.º, 17.º, 25.º, 29.º, 31.º, 38.º, 44.º, 46.º, 54.º, 64.º, 71.º,\
+    \ 80.º e 82.º, do Estatuto do INPP, os artigos 1.º, 4.º, 5.º, 6.º, 14.º, 15.º, 20.º, 29.º, 30.º, 35.º, 40.º, 42.º, 53.º,\
+    \ 63.º, 64.º, 69.º, e 73.º, do Estatuto do Pessoal os artigos 1.º, 2.º, 3.º, 4.º, 7.º, 8.º, 11.º, 18.º, 21.º, 22.º, 23.º,\
+    \ 24.º, 27.º, 28.º, 29.º, 30.º, 31.º, 33.º, 36.º, 40.º, 41.º, 44.º, 50.º, 54.º, 57.º, 58.º, 60.º, 67.º, 75.º, 82.º, 88.º,\
+    \ 93.º, 93.º, e 99.º, a nota B da tabela C do anexo II e a figura do anexo IV, constantes do presente diploma, pela PORT.240/79.24.05.1979.MTC,\
+    \ DR.IS [119] de 24.05.1979\0.1979\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/240-1979-382793
+  date: '1979-05-24'
+- type: amended_by
+  target: pt:dre:383219:por
+  label: "Acrescentado um artigo 67.º-A ao capítulo II da parte II do (Decreto-Lei), dada nova redacção ao n.º 3 do art. 1.º\
+    \ e acrescentada uma divisão XI ao capítulo III do Regulamento de Prestação de Serviços e Taxas que constitui o anexo\
+    \ IV do presente diploma pela PORT.273/79.09.06.1979.PCM, DR.IS [133] de 09.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-1979-383219
+  date: '1979-06-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUM 1 DO ART 64 PELA PORT 123/80 DE 17-MAR DR.IS [64]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-03-17'
+- type: amended_by
+  target: pt:dre:678396:por
+  label: "Alterado o n.º 1 do artigo 64.º pela PORT.123/80.17.03.1980.MTC, DR.IS [64] de 17.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-1980-678396
+  date: '1980-03-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 73 PELA PORT 443/80 DE 26-JUL DR.IS [171]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-07-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS VALORES CONSTANTES DA TABELA D ANEXA, PELA PORT 366/83 DE 02-ABR DR.IS [76]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-04-02'
+- type: amended_by
+  target: pt:dre:326308:por
+  label: "Actualizados os coeficientes pela PORT.143/85.12.03.1985.MMAR, DR.IS [59] de 12.03.1985 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-1985-326308
+  date: '1985-03-12'
+- type: amended_by
+  target: pt:dre:609829:por
+  label: Alterados os arts. 35º e 72º, aditado um art. 51º-A , revogado o art. 73º e alterados os arts. 58º e 59º do Estatuto
+    constante do anexo I, pelo DEC LEI.188/89.03.06.1989.MOPTC, DR.IS [127] de 03.06.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-1989-609829
+  date: '1989-06-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 19 E 31 DO ESTATUTO DO PESSOAL DO INPP PELO DEC LEI 356/91 DE 20-SET DR.IS-A [217]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-20'
+- type: amended_by
+  target: pt:dre:301632:por
+  label: "Alterados os artigos 19.º e 31.º do Estatuto, que constitui o anexo I, pelo DEC LEI.356/91.20.09.1991.MOPTC, DR.IS-A\
+    \ [217] de 20.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1991-301632
+  date: '1991-09-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A PERCENTAGEM DESTINADA AO FUNDO DE APOSENTAÇÕES DO INPP, PELA PORT 280/93 DE 11-MAR DR.IS-B [59]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 57 E REVOGADOS OS ART 58 A 67 (A PARTIR DA ENTRADA EM VIGOR DA PORTARIA DE FIXAÇÃO DOS QUADROS DE
+    PESSOAL DE CADA DEPARTAMENTO DO INPP) E OS ART 78 E 79 PELO DEC LEI 403/93 DE 07-DEZ DR.IS-A [285]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ACTUALIZADOS OS VALORES DAS SENHAS DE PRESENÇA NOS ÓRGÃOS COLEGIAIS PELA PORT 210/95 DE 22-MAR DR.IS-B[69].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-03-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A PERCENTAGEM DESTINADA AO FUNDO DE APOSENTAÇÕES DO INPP PELA PORT 500/95 DE 25-MAI DR.IS-B [121]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PASSOU PARA A DEPENDENCIA DO MINISTRO DO EQUIPAMENTO SOCIAL PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ACTUALIZADO O VALOR DAS SENHAS A PERCERBER PELA PRESENÇA NOS ÓRGÃOS COLEGIAIS DO INPP A QUE SE REFEREM OS NUM 2\
+    \ E 3 DO ART 42 DO ESTATUTO DO PESSOAL CONSTANTE DO ANEXO I, PELA PORT 240/96 DE 04-JUL DR.IS-B [153]\0]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-04'
+- type: amended_by
+  target: pt:dre:361882:por
+  label: "Alterada a redacção dos arts. 9º, 10º, 11º, 12º, 13º e 14º, bem como da epígrafe da secção I da divisão II do cap.\
+    \ II e revogados os arts. 15º e 19º pelo Dec Lei.143/97.1997.06.06.MEPAT, DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1997-361882
+  date: '1997-06-06'
+- type: amended_by
+  target: pt:dre:506016:por
+  label: "Suspensa a aplicação nos portos do continente do art. 5º, pelo DEC LEI.234-A/98.1998.07.22.MEPAT DR.IS-A [167]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-a-1998-506016
+  date: '1998-07-22'
+- type: amended_by
+  target: pt:dre:223012:por
+  label: "Extinto o Instituto Nacional de Pilotagem dos Portos pelo, DEC LEI.331/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1998-223012
+  date: '1998-11-03'
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:554142:por
+  label: "Revogados os artigos 58.º a 67.º (a partir da entrada em vigor da portaria de fixação dos quadros de pessoal de\
+    \ cada departamento do INPP), e os artigos 78.º e 79.º pelo DEC LEI.403/93.07.12.1993.MM, DR.IS-A [285] de 07.12.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1993-554142
+  date: '1993-12-07'
+- type: repealed_by
+  target: pt:dre:223012:por
+  label: "Revogado, com excepção da al. d) do nº 1, nº 2, 3 e 4 do art. 35º, arts. 58º, 59º e 72º, com a redacção que lhes\
+    \ foi dada pelos arts. 1º e 5º do Dec Lei 188/89 de 03-Jun, mantendo-se ainda em vigor as disposições do Dec Lei 188/89\
+    \ de 03-Jun, pelo DEC LEI.331/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1998-223012
+  date: '1998-11-03'
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogado o art. 72º do presente diploma, na redacção do Dec Lei 188/89 de 03-Jun, pelo DEC LEI.229/2005.29.12.2005.MFAP,\
+    \ DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
 article_structure:
   article_count: 0
-  section_count: 73
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 77
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:48Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +270,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-# PARTE I — Disposições comuns
+## PARTE I — Disposições comuns
 
 ### CAPÍTULO I — Generalidades
 
@@ -752,7 +916,7 @@ b) Tempo parcial.
 
 2 - Os contratos que forem celebrados nos termos e para os efeitos do número anterior deverão especificar obrigatoriamente a natureza das tarefas a executar, prazo de duração e remuneração.
 
-# PARTE II — Disposições especiais
+## PARTE II — Disposições especiais
 
 ### CAPÍTULO I — Departamento central
 
@@ -934,7 +1098,7 @@ O departamento de pilotagem de Vila Real de Santo António terá o seguinte quad
 
 1 marinheiro.
 
-# PARTE III — Disposições finais e transitórias
+## PARTE III — Disposições finais e transitórias
 
 ###### ARTIGO 68.º — (Regime de serviço prestado no conselho de gestão)
 
@@ -968,7 +1132,7 @@ b) Mais 15%, quando prestado de modo contínuo ou intermitente ou por turnos e d
 
 1 - A aposentação e o cálculo das respectivas pensões de aposentação do pessoal no activo que já pertencia aos quadros das extintas corporações e secções de pilotos à data da entrada em vigor do presente diploma continuam a reger-se pelas disposições do [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, com as alterações que posteriormente lhe foram introduzidas pela [Portaria n.º 279/76](https://diariodarepublica.pt/dr/detalhe/portaria/279-1976-427453), de 3 de Maio, excepto quanto à alteração introduzida por esta portaria ao corpo do artigo 53.º do [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), o qual passa a ter a seguinte redacção:
 
-###### Art. 53.º A pensão de aposentação, para o pessoal a aposentar, determina-se fazendo incidir, mensalmente, as percentagens a seguir indicadas sobre o vencimento base que receberia se estivesse no activo, depois de deduzido do quantitativo correspondente à taxa do imposto profissional aplicável nessa situação:
+Art. 53.º A pensão de aposentação, para o pessoal a aposentar, determina-se fazendo incidir, mensalmente, as percentagens a seguir indicadas sobre o vencimento base que receberia se estivesse no activo, depois de deduzido do quantitativo correspondente à taxa do imposto profissional aplicável nessa situação:
 
 ... Percentagens
 
@@ -1084,7 +1248,7 @@ Ao Ministro dos Transportes e Comunicações caberá decidir sobre a eventual ex
 
 ###### ARTIGO 89.º — (Encargos decorrentes da execução deste diploma)
 
-**O Ministro das Finanças e do Plano fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução deste diploma.**
+O Ministro das Finanças e do Plano fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução deste diploma.
 
 ###### ARTIGO 90.º — (Legislação revogada)
 
@@ -1092,11 +1256,11 @@ Fica revogado o [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/dec
 
 Alfredo Jorge Nobre da Costa - José da Silva Lopes - Amílcar José de Gouveia Marques.
 
-**Promulgado em 27 de Outubro de 1978.**
+Promulgado em 27 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Estatuto do pessoal
 
@@ -1738,7 +1902,9 @@ b) Mais 15%, quando prestado de modo contínuo ou intermitente ou por turnos e d
 
 3 - O preceituado no n.º 1 deste artigo será revisto no caso de alteração do regime estabelecido no Estatuto da Aposentação, a que se refere o n.º 1 do artigo 58.º
 
-##### DIVISÃO VII — SECÇÃO I
+##### DIVISÃO VII
+
+#### SECÇÃO I
 
 Assistência
 
@@ -1886,11 +2052,11 @@ Os concursos de admissão já abertos à data da publicação do presente estatu
 
 ## ANEXO 1 — Modelo de cartão de identidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
 
 Nota. - Em diagonal, do canto superior esquerdo ao canto inferior direito, tem impressa uma faixa verde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
 
 ## ANEXO II — Tabelas de inaptidão e de incapacidade
 
@@ -4298,6 +4464,6 @@ Serviço de reboques:
 
 A tabela portuária.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)

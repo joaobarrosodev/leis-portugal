@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/14-1983-311411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3539a94b34ee286b445cb72f6bbbf6cd62e66dee7060e7ed5b5eec97b801db4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465f12b9b8451a2544bab30f680b015a3910a9c8be2810cf1984321eed1d4124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Económica
+- Moçambique
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:26Z'
   warnings: []
   errors: []
 ---
@@ -87,29 +91,29 @@ de 24 de Fevereiro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Económica entre a República Portuguesa e a República Popular de Moçambique, assinado no Maputo em 30 de Junho de 1982, cujo texto acompanha o presente decreto.
+Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Económica entre a República Portuguesa e a República Popular de Moçambique, assinado no Maputo em 30 de Junho de 1982, cujo texto acompanha o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão - Vasco Luís Caldeira Coelho Futscher Pereira.
 
-**Assinado em 1 de Fevereiro de 1983.**
+Assinado em 1 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1983.**
+Referendado em 2 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Protocolo Adicional ao Acordo de Cooperação Económica entre a República Portuguesa e a República Popular de Moçambique.
 
 Nos termos do Acordo Geral de Cooperação e do Acordo de Cooperação Económica celebrados entre a República Portuguesa e a República Popular de Moçambique e para execução dos princípios definidos nos mesmos, decidem os Estados signatários subscrever o seguinte Protocolo:
 
-ARTIGO I
+###### ARTIGO I
 
 O Governo da República Portuguesa e o Governo da República Popular de Moçambique comprometem-se, na medida das suas possibilidades e quando para o efeito solicitados, a promover, estimular e desenvolver, em regime de reciprocidade, acções de cooperação no domínio económico.
 
-ARTIGO II
+###### ARTIGO II
 
 A cooperação entre as partes compreenderá, designadamente:
 
@@ -125,11 +129,11 @@ e) A colaboração de serviços públicos e entidades do sector produtivo, espec
 
 f) A constituição de empresas mistas ou apenas de uma das partes e outras formas de associação.
 
-ARTIGO III
+###### ARTIGO III
 
 As acções de cooperação previstas no artigo anterior integrar-se-ão em programas de cooperação cujo âmbito, objectivos, encargos financeiros e responsabilidades de execução serão definidos, em cada caso, pelos serviços ou organismos competentes de ambas as Partes.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - A prestação de trabalho por cooperantes portugueses no domínio da cooperação técnico-económica ficará sujeita às condições do presente Protocolo.
 
@@ -139,7 +143,7 @@ ARTIGO IV
 
 4 - Oportunamente, e logo que o desenvolvimento das acções de cooperação assim o justifique, as Partes subscreverão um Protocolo Adicional, com vista a regulamentar o estatuto legal dos cooperantes de nacionalidade moçambicana que venham a prestar serviço em território português e no qual, sem prejuízo do princípio de reciprocidade de tratamento, se concretizarão as alterações eventualmente adequadas.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - O recrutamento de cooperantes obedecerá às seguintes regras:
 
@@ -153,7 +157,7 @@ a) Com excepção das situações decorrentes da apresentação de candidaturas 
 
 b) A Parte Moçambicana escolherá, de entre os candidatos referidos na alínea anterior, aqueles que considere adequados à satisfação das necessidades apresentadas.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - A prestação de serviço dos cooperantes portugueses será efectuada ao abrigo de contrato escrito, celebrado entre o trabalhador e o organismo, ou empresa moçambicana da área económica com a qual irá colaborar, de harmonia com as condições adiante enunciadas e visado pelas Partes Moçambicana e Portuguesa.
 
@@ -161,13 +165,13 @@ ARTIGO VI
 
 3 - Ao visarem os contratos, nos termos dos números precedentes, ambas as Partes assumem, subsidiariamente, a responsabilidade pelo seu cumprimento.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - Para todos os efeitos previstos neste Protocolo, considera-se família do cooperante o cônjuge e os filhos menores e incapazes.
 
 2 - Beneficia da qualificação formulada no número precedente a pessoa que anteriormente à data da assinatura do respectivo contrato já viva em situação marital com o cooperante e, bem assim, os respectivos filhos menores e incapazes.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - O cooperante e os membros do seu agregado familiar ficarão sujeitos às leis da República Popular de Moçambique.
 
@@ -189,13 +193,13 @@ ARTIGO VIII
 
 10 - Os cooperantes exercerão a sua actividade na República Popular de Moçambique, mas não terão a qualidade de funcionários desse Estado nem o direito de, enquanto cooperantes, serem nomeados para os quadros regulares e permanentes da sua administração.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - Os contratos terão, em regra, a duração de 1 ano contado a partir da data do desembarque do cooperante no território da República Popular de Moçambique.
 
 2 - O contrato considerar-se-á, automaticamente, prorrogado por 1 ano, excepto se qualquer das Partes, até 60 dias antes do final do respectivo prazo de vigência, comunicar à outra a intenção de o não fazer, com conhecimento às entidades que visam o contrato.
 
-ARTIGO X
+###### ARTIGO X
 
 1 - O Governo de Moçambique concederá ao cooperante isenção dos impostos sobre a importação e reexportação e de todos os outros encargos fiscais aplicáveis aos bens móveis e aos objectos de uso pessoal e doméstico do cooperante e das pessoas de família a seu cargo, cuja importação tenha lugar no acto de chegada ao território moçambicano, no início da missão e nos 6 meses seguintes, compreendendo, nomeadamente:
 
@@ -217,11 +221,11 @@ e) Recheio normal de uma casa.
 
 5 - Os bens a que se referem os números anteriores poderão ser expedidos 90 dias antes do termo do prazo do contrato celebrado com o cooperante.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Durante o período de prestação de serviço, o cooperante ficará isento de todas as contribuições e impostos da República Popular de Moçambique, com excepção do imposto do selo, imposto de consumo e outros encargos fiscais da mesma natureza.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1 - Fica a cargo da República Portuguesa:
 
@@ -239,7 +243,7 @@ b) O repatriamento do cooperante acompanhado de sua família e transporte das re
 
 4 - Constituirão encargo, respectivamente do Estado Português e da República Popular de Moçambique, as despesas ocasionadas com o transporte do cooperante e do seu agregado familiar entre o local de residência habitual e o ponto de embarque em Portugal e entre o ponto de desembarque e o local de prestação de serviço no território moçambicano, tanto à ida como na viagem de regresso.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - Os organismos contratantes da República Popular de Moçambique atribuirão ao cooperante uma remuneração mensal, paga na sua moeda nacional e no local habitual da prestação de serviço.
 
@@ -251,7 +255,7 @@ ARTIGO XIII
 
 5 - O cooperante, inicialmente contratado para prestar serviço na Administração Pública e posteriormente transferido para o sector estatal empresarial, perde o direito ao complemento referido no número anterior, devendo, neste caso, o novo salário ser ajustado por acordo entre as entidades mencionadas no artigo VI.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 1 - A República Popular de Moçambique assegurará ao cooperante o direito de transferir mensalmente uma importância de 50% sobre o vencimento mensal.
 
@@ -259,7 +263,7 @@ ARTIGO XIV
 
 3 - As transferências referidas nos números anteriores serão executadas pelo Banco de Moçambique para uma instituição bancária portuguesa.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1 - A entidade contratante na República Popular de Moçambique garante ao cooperante:
 
@@ -281,7 +285,7 @@ b) Seguro de acidente de trabalho e de doença profissional por valor igual a 25
 
 c) Seguro de acidentes pessoais no valor igual a 25 vezes o salário mensal, que não poderá ser inferior a 750000 meticais nem superior a 1500000 meticais, sem prejuízo do direito ao recebimento de outras indemnizações que decorrem da lei moçambicana e das cláusulas do respectivo contrato.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 1 - Em caso de doença devidamente comprovada, que imposibilite o cooperante de exercer as suas funções por um período superior a 90 dias, será a sua prestação de serviço dada por finda, cabendo as despesas do seu repatriamento e dos seus familiares ao Governo Português ou a entidade contratante da República Popular de Moçambique, conforme o facto se tenha verificado ou não no primeiro ano de serviço.
 
@@ -299,11 +303,11 @@ ARTIGO XVI
 
 8 - No caso de repatriamento ou morte do cooperante, o Governo Português desencadeará todas as acções necessárias à sua eventual substituição, salvo indicação contrária das autoridades da República Popular de Moçambique.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 A Parte Moçambicana atribuirá aos cooperantes do sexo feminino, nos casos de gravidez e parto, os mesmos direitos e regalias reconhecidos pela lei moçambicana em casos idênticos às suas trabalhadoras.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1 - Em cada ano de serviço, o cooperante terá direito ao gozo de 30 dias de férias remuneradas, que poderão ser acumuladas, no todo ou em parte, com o período de férias do ano seguinte, sempre que a entidade contratante e o cooperante assim acordem.
 
@@ -315,7 +319,7 @@ ARTIGO XVIII
 
 5 - No caso de o cooperante não querer usar do direito referido no n.º 3 deste artigo, o contratante pagar-lhe-á, em moeda local, a quantia correspondente ao preço das passagens ali mencionadas.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1 - A rescisão do contrato pela entidade empregadora com justa causa ou pelo cooperante sem justa causa fará incorrer este na perda de todos os direitos e garantias previstos para o termo normal da prestação de serviço.
 
@@ -323,7 +327,7 @@ ARTIGO XIX
 
 3 - O pagamento da indemnização prevista no número anterior será efectuado integralmente e transferido para Portugal no prazo de 15 dias, a contar da data da rescisão.
 
-ARTIGO XX
+###### ARTIGO XX
 
 1 - Considera-se justa causa de rescisão do contrato qualquer facto ou circunstância que signifique o não cumprimento, pelos outorgantes, das obrigações contratuais e que torne prática e imediatamente impossível a subsistência da relação contratual.
 
@@ -333,7 +337,7 @@ ARTIGO XX
 
 A decisão proferida pelas autoridades de Moçambique será imediatamente comunicada ao cooperante e à referida embaixada.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1 - O cooperante manterá em Portugal a situação jurídica que possuía à data em que se vinculou à cooperação.
 
@@ -343,7 +347,7 @@ ARTIGO XXI
 
 4 - Caso o cooperante não esteja vinculado à função pública e não tenha anteriormente procedido a quaisquer descontos para as instituições de previdência e segurança social, o Estado Português procurará promover, de acordo com a legislação em vigor, o acesso do mesmo à fruição dos benefícios e regalias sociais de que participam os demais trabalhadores portugueses, como se a prestação de serviço na República Popular de Moçambique tivesse tido lugar em território português.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 1 - Para trabalhar em empresas privadas operando em Moçambique, poderá o Governo Português, nos termos da sua legislação, promover a requisição de pessoal técnico.
 
@@ -351,11 +355,11 @@ ARTIGO XXII
 
 3 - Se o pessoal em causa for contratado por empresa portuguesa no âmbito de convénio de cooperação e assistência técnica entre aquela e entidade contratante da República Popular de Moçambique, as regalias previstas nos n.os 1 e 2 somente serão concedidas se os convénios respectivos forem registados no Instituto para a Cooperação Económica.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 De acordo com as disposições aplicáveis das Convenções de Viena sobre Relações Diplomáticas e Relações Consulares, o Estado solicitado dispensará aos cooperantes seus nacionais a protecção e a assistência que julgar adequadas.
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 1 - A organização e envio de missões operar-se-á a pedido de uma das Partes e mediante a posterior confirmação da outra.
 
@@ -367,23 +371,23 @@ A entidade solicitante concederá um subsídio de 200 meticais por dia aos membr
 
 4 - Ao pessoal que integrar as missões será assegurada a assistência médica nos termos do artigo XV, n.º 2, alínea a), e do artigo XVI na parte aplicável.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 Cada uma das Partes Contratantes procurará facultar aos cidadãos nacionais da outra Parte que se mostrem detentores das necessárias qualificações o acesso à reciclagem e frequência de estágios, em organismos públicos e privados, com vista ao seu aperfeiçoamento profissional.
 
-ARTIGO XXVI
+###### ARTIGO XXVI
 
 As Partes facilitarão amplamente o intercâmbio entre os seus centros de documentação, serviços públicos e instituições especializadas, mediante consultas mútuas, trocas de informações e pedidos de documentos.
 
-ARTIGO XXVII
+###### ARTIGO XXVII
 
 Os Governos dos 2 países comprometem-se a que as respectivas empresas ou organismos do sector produtivo dêem preferência, em igualdade de circunstâncias e sempre que tal exceda a capacidade dos meios locais, aos equipamentos, empresas e gabinetes de estudos técnicos do outro país.
 
-ARTIGO XXVIII
+###### ARTIGO XXVIII
 
 As dúvidas e omissões relacionadas com a interpretação e a aplicação do presente Protocolo serão solucionadas, dentro de um espírito de cooperação e amizade, por via de negociação diplomática entre ambos os Estados.
 
-ARTIGO XXIX
+###### ARTIGO XXIX
 
 1 - O presente Protocolo entra em vigor na data em que ficar concluída a troca de notas pelas quais cada uma das Partes Contratantes comunicará outra que se encontram cumpridas as formalidades constitucionais exigidas para a sua vigência na respectiva ordem jurídica interna.
 

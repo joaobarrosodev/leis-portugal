@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/7-1987-663276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d353680e3ab00eceffc2e2ea761e9c325e87b81a84d2817c99a5b918483db4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 296dfdf33b042e292b15793b92b15b9630cc4770e9efa5bc47ee51040c777fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Checoslováquia
+- Comércio
+- Convenção
+- Denominação de Origem
+- Portugal
+- Propriedade Industrial
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:25Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +94,19 @@ de 4 de Fevereiro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo sobre a Protecção das Indicações de Proveniência, das Denominações de Origem e de Outras Denominações Geográficas e Similares entre o Governo da República Portuguesa e o Governo da República Socialista da Checoslováquia, assinado em Lisboa em 10 de Janeiro de 1986, cujo texto original em francês e respectiva tradução para português seguem em anexo ao presente diploma.
+Artigo único. É aprovado o Acordo sobre a Protecção das Indicações de Proveniência, das Denominações de Origem e de Outras Denominações Geográficas e Similares entre o Governo da República Portuguesa e o Governo da República Socialista da Checoslováquia, assinado em Lisboa em 10 de Janeiro de 1986, cujo texto original em francês e respectiva tradução para português seguem em anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Pedro José Rodrigues Pires de Miranda - Fernando Augusto dos Santos Martins.
 
-**Assinado em 17 de Dezembro de 1986.**
+Assinado em 17 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1986.**
+Referendado em 27 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Acordo entre o Governo da República Portuguesa e o Governo da República Socialista Checoslovaca sobre a Protecção das Indicações de Providência, das Denominações de Origem e de Outras Denominações Geográficas e Similares.
 
@@ -112,13 +118,13 @@ Animados do desejo de proteger eficazmente contra a concorrência desleal os pro
 
 decidiram concluir o presente Acordo e estabelecem o seguinte:
 
-###### Artigo 1.º As Partes Contratantes comprometem-se a tomar todas as medidas necessárias para proteger de maneira eficaz:
+Artigo 1.º As Partes Contratantes comprometem-se a tomar todas as medidas necessárias para proteger de maneira eficaz:
 
 1) Os produtos agrícolas, industriais e artesanais que provenham do território da outra Parte Contratante contra a concorrência desleal nas actividades comerciais e industriais, incluindo os consumidores, contra qualquer fraude sobre a origem dos produtos;
 
 2) Os nomes, as denominações e as representações gráficas abrangidos pelos artigos 2.º e 3.º e pelo artigo 6.º, n.º 2, assim com as denominações que constam dos anexos A e B do presente Acordo, em virtude do presente Acordo e do Protocolo a ele respeitante.
 
-###### Art. 2.º - 1 - No território da República Portuguesa os nomes «República Socialista Checoslovaca», «República Socialista Checa» e «República Socialista Eslovaca», a denominação «Checoslováquia», os nomes históricos dos diferentes países e as denominações dos territórios e regiões situados na República Socialista Checoslovaca, assim como as denominações que constam do anexo A do presente Acordo, são exclusivamente reservados aos produtos ou mercadorias checoslovacos e não podem ser utilizados senão nas condições previstas pela legislação checoslocava, a menos que os n.os 2 e 3 do presente artigo não estipulem o contrário.
+Art. 2.º - 1 - No território da República Portuguesa os nomes «República Socialista Checoslovaca», «República Socialista Checa» e «República Socialista Eslovaca», a denominação «Checoslováquia», os nomes históricos dos diferentes países e as denominações dos territórios e regiões situados na República Socialista Checoslovaca, assim como as denominações que constam do anexo A do presente Acordo, são exclusivamente reservados aos produtos ou mercadorias checoslovacos e não podem ser utilizados senão nas condições previstas pela legislação checoslocava, a menos que os n.os 2 e 3 do presente artigo não estipulem o contrário.
 
 2 - Se uma das denominações constantes do anexo A do presente Acordo for utilizada para produtos ou mercadorias que não sejam aqueles a que ela é atribuída no dito anexo A, o presente número é somente aplicável:
 
@@ -128,7 +134,7 @@ b) Quando a utilização da denominação for de natureza a prejudicar a reputa�
 
 3 - O n.º 1 não impede o titular legítimo de indicar nos seus produtos ou mercadorias, nas embalagens destes, nos documentos comerciais ou na publicidade o seu nome ou o da sua firma comercial, desde que este contenha o nome de uma pessoa física. A utilização do nome ou da designação da firma comercial na qualidade de sinal só é admissível unicamente num caso e de uma maneira que permita não induzir em erro sobre a origem dos produtos ou das mercadorias.
 
-###### Art. 3.º - 1 - No território da República Socialista Checoslovaca o nome «República Portuguesa», as denominações «Portugal», «Portugalia» e «Lusitania» e «Ibéria» e as denominações dos territórios e regiões situados na República Portuguesa, bem como as denominações que constam do anexo B do presente Acordo, estão exclusivamente reservados para os produtos e mercadorias portuguesas e só podem aí ser utilizados nas condições previstas pela legislação portuguesa, a menos que os n.os 2 e 3 do presente artigo não estipulem o contrário.
+Art. 3.º - 1 - No território da República Socialista Checoslovaca o nome «República Portuguesa», as denominações «Portugal», «Portugalia» e «Lusitania» e «Ibéria» e as denominações dos territórios e regiões situados na República Portuguesa, bem como as denominações que constam do anexo B do presente Acordo, estão exclusivamente reservados para os produtos e mercadorias portuguesas e só podem aí ser utilizados nas condições previstas pela legislação portuguesa, a menos que os n.os 2 e 3 do presente artigo não estipulem o contrário.
 
 2 - Se uma das denominações que constam do anexo B do presente Acordo for utilizada para produtos ou mercadorias que não sejam aqueles a que ela é atribuída no dito anexo B, o n.º 1 é somente aplicável:
 
@@ -142,7 +148,7 @@ Art.º 4.º - 1 - Se uma das denominações protegidas nos termos do presente Ac
 
 2 - Os nomes geográficos de países terceiros que coincidam com as denominações que constam dos anexos A e B ou com outras indicações de origem de uma das Partes Contratantes poderão ser utilizados pelos países terceiros unicamente no caso de a indicação do país de origem estar indicada de maneira a não permitir o perigo de confusão sobre a origem e sobre a natureza dos produtos importados.
 
-###### Art. 5.º - 1 - Se os nomes e denominações protegidos em virtude do presente Acordo forem utilizados em actividades comerciais e industriais infringindo as suas disposições para os produtos ou mercadorias, ou o seu acondicionamento, ou a sua embalagem, ou sobre as facturas, os títulos de transporte ou outros documentos comerciais ou na publicidade, a dita utilização será reprimida, em virtude deste mesmo Acordo, por todos os meios judiciários ou administrativos que, segundo a legislação da Parte Contratante onde a protecção for reivindicada, sejam tomados em consideração para lutar contra a concorrência desleal ou para reprimir denominações ilícitas.
+Art. 5.º - 1 - Se os nomes e denominações protegidos em virtude do presente Acordo forem utilizados em actividades comerciais e industriais infringindo as suas disposições para os produtos ou mercadorias, ou o seu acondicionamento, ou a sua embalagem, ou sobre as facturas, os títulos de transporte ou outros documentos comerciais ou na publicidade, a dita utilização será reprimida, em virtude deste mesmo Acordo, por todos os meios judiciários ou administrativos que, segundo a legislação da Parte Contratante onde a protecção for reivindicada, sejam tomados em consideração para lutar contra a concorrência desleal ou para reprimir denominações ilícitas.
 
 2 - As disposições do presente artigo aplicam-se mesmo quando os ditos nomes ou as ditas denominações são utilizados em tradução, ou em transcrição, ou com a indicação da verdadeira proveniência, ou com a adjunção de termos, tais como «espécie», «tipo», «forma», «maneira», «imitação», «qualidade», ou de forma distinta, desde que, apesar da distinção, o perigo de confusão se mantenha no momento em que as mercadorias são postas em circulação.
 
@@ -150,15 +156,15 @@ Art.º 4.º - 1 - Se uma das denominações protegidas nos termos do presente Ac
 
 4 - As disposições do presente artigo não se aplicam às mercadorias em trânsito.
 
-###### Art. 6.º - 1 - As disposições do artigo 5.º, n.º 1, aplicam-se igualmente quando nos produtos ou mercadorias, no seu acondicionamento ou na sua embalagem exterior, assim como nas facturas, nos títulos de transporte ou noutros documentos comerciais ou na publicidade, são utilizados sinais, marcas, nomes, inscrições ou representações gráficas que contenham, directamente ou indirectamente, indicações falsas ou falaciosas sobre a proveniência, natureza, variedade ou as qualidades substanciais dos produtos ou mercadorias.
+Art. 6.º - 1 - As disposições do artigo 5.º, n.º 1, aplicam-se igualmente quando nos produtos ou mercadorias, no seu acondicionamento ou na sua embalagem exterior, assim como nas facturas, nos títulos de transporte ou noutros documentos comerciais ou na publicidade, são utilizados sinais, marcas, nomes, inscrições ou representações gráficas que contenham, directamente ou indirectamente, indicações falsas ou falaciosas sobre a proveniência, natureza, variedade ou as qualidades substanciais dos produtos ou mercadorias.
 
 2 - Quando os nomes ou representações gráficas de locais, de edifícios, de monumentos, de rios, de montanhas, de personagens históricas ou literárias, de trajes nacionais, de motivos de folclore, etc., de uma Parte Contratante que aí gozem de uma reputação específica ou possuam um poder de atracção específico são no território da outra Parte Contratante utilizados nas actividades comerciais e industriais para produtos ou mercadorias que não sejam originários da dita Parte Contratante, são considerados como indicações falsas ou falaciosas sobre a proveniência, a menos que, nas dadas circunstâncias, só se possa atribuir razoavelmente ao nome ou à representação gráfica um sentido descritivo ou fantasista.
 
-###### Art. 7.º As acções por violação do presente Acordo podem ser intentadas perante os tribunais das Partes Contratantes não só por pessoas físicas e morais que, de acordo com a legislação das Partes Contratantes, tenham capacidade para as introduzir, mas também pelas associações e agrupamentos que, directamente ou indirectamente, representem os produtores, fabricantes, comerciantes ou consumidores interessados e que tenham a sua sede numa das Partes Contratantes, desde que a legislação da Parte na qual se encontre essa sede os habilite a actuar em matéria civil. Nas mesmas condições, podem fazer valer direitos e meios de direito em processo penal, na medida prevista pela legislação da Parte na qual o processo decorre.
+Art. 7.º As acções por violação do presente Acordo podem ser intentadas perante os tribunais das Partes Contratantes não só por pessoas físicas e morais que, de acordo com a legislação das Partes Contratantes, tenham capacidade para as introduzir, mas também pelas associações e agrupamentos que, directamente ou indirectamente, representem os produtores, fabricantes, comerciantes ou consumidores interessados e que tenham a sua sede numa das Partes Contratantes, desde que a legislação da Parte na qual se encontre essa sede os habilite a actuar em matéria civil. Nas mesmas condições, podem fazer valer direitos e meios de direito em processo penal, na medida prevista pela legislação da Parte na qual o processo decorre.
 
-###### Art. 8.º Os produtos ou mercadorias, embalagens, facturas, títulos de transporte e outros documentos comerciais, assim como os meios publicitários que se encontrem no território de uma das Partes Contratantes no momento da entrada em vigor do presente Acordo e que tenham sido munidos licitamente com indicações cuja utilização não seja permitida pelo presente Acordo, poderão ser postos em venda ou em consumo durante um ano após a data da entrada em vigor do presente Acordo.
+Art. 8.º Os produtos ou mercadorias, embalagens, facturas, títulos de transporte e outros documentos comerciais, assim como os meios publicitários que se encontrem no território de uma das Partes Contratantes no momento da entrada em vigor do presente Acordo e que tenham sido munidos licitamente com indicações cuja utilização não seja permitida pelo presente Acordo, poderão ser postos em venda ou em consumo durante um ano após a data da entrada em vigor do presente Acordo.
 
-###### Art. 9.º - 1 - As marcas registadas e válidas antes da data de 1 de Janeiro de 1980 e que sejam contrárias:
+Art. 9.º - 1 - As marcas registadas e válidas antes da data de 1 de Janeiro de 1980 e que sejam contrárias:
 
 a) Às denominações de origem Porto, Oporto, Port, Portwine e outras traduções e Pilsen, Pilsner, Pilsener, Pils e outras traduções protegidas nos termos do presente Acordo podem doravante ser utilizadas até ao fim do prazo de dois anos, o mais tardar, a partir da entrada em vigor do presente Acordo;
 
@@ -168,7 +174,7 @@ b) Às denominações abrangidas pelos artigos 2.º e 3.º ou inscritas nas list
 
 3 - Os prazos determinados nos n.os 1 e 2 do presente artigo também são aplicáveis às denominações que serão abrangidas pelo presente Acordo em virtude de uma modificação ou de um complemento das listas anexas ao presente Acordo e terão início no dia em que a modificação ou o complemento entrarem em vigor.
 
-###### Art. 10.º - 1 - Para atingir os objectivos do presente Acordo as Partes Contratantes acordaram em criar uma comissão mista composta por representantes das Partes Contratantes, que se reunirá cada vez que o pedido seja formulado por uma das Partes Contratantes. As suas sessões decorrerão, alternativamente, em Portugal e na Checoslováquia.
+Art. 10.º - 1 - Para atingir os objectivos do presente Acordo as Partes Contratantes acordaram em criar uma comissão mista composta por representantes das Partes Contratantes, que se reunirá cada vez que o pedido seja formulado por uma das Partes Contratantes. As suas sessões decorrerão, alternativamente, em Portugal e na Checoslováquia.
 
 2 - A Comissão Mista será incumbida de examinar as propostas de modificação ou de alargamento das listas que constam dos anexos A e B deste Acordo, assim como de deliberar sobre as questões relacionadas com a aplicação do Acordo e sobre a revisão do Protocolo.
 
@@ -178,15 +184,15 @@ As deliberações da Comissão Mista devem ser confirmadas por troca de notas en
 
 4 - Nos caso de notificação ou de alargamento da lista das denominações referentes aos produtos ou mercadorias provenientes do território de uma Parte Contratante, a disposição do artigo 8.º é aplicável, precisando-se que o prazo de um ano tem início na data em que a outra Parte Contatante notifique a modificação ou o complemento.
 
-###### Art. 11.º - 1 - O presente Acordo não exclui uma protecção mais extensa que nas Partes Contratantes é ou será concedida no futuro, em virtude da legislação interna ou de outros acordos internacionais, às denominações protegidas em virtude do presente Acordo.
+Art. 11.º - 1 - O presente Acordo não exclui uma protecção mais extensa que nas Partes Contratantes é ou será concedida no futuro, em virtude da legislação interna ou de outros acordos internacionais, às denominações protegidas em virtude do presente Acordo.
 
 2 - As disposições deste Acordo não produzem nenhuma mudança da protecção relativa às denominações de origem que na data da entrada em vigor do presente Acordo já beneficiem da protecção nos territórios das duas Partes Contratantes para os produtos ou mercadorias da Parte Contratante respectiva em virtude do Acordo de Lisboa para a Protecção das Denominações de Origem e o Seu Registo Internacional.
 
-###### Art. 12.º O Serviço para as Invenções e as Descobertas da Checoslováquia e o Instituto Nacional da Propriedade Industrial de Portugal contactar-se-ão regularmente sobre os projectos a submeter à Comissão Mista, assim como sobre todos os problemas relativos à aplicação do presente Acordo.
+Art. 12.º O Serviço para as Invenções e as Descobertas da Checoslováquia e o Instituto Nacional da Propriedade Industrial de Portugal contactar-se-ão regularmente sobre os projectos a submeter à Comissão Mista, assim como sobre todos os problemas relativos à aplicação do presente Acordo.
 
-###### Art. 13.º As Partes Contratantes esforçar-se-ão por resolver pela via diplomática todos os casos de violação do presente Acordo levados ao seu conhecimento.
+Art. 13.º As Partes Contratantes esforçar-se-ão por resolver pela via diplomática todos os casos de violação do presente Acordo levados ao seu conhecimento.
 
-###### Art. 14.º - 1 - Este Acordo entrará em vigor 30 dias após a data da troca das notas confirmando que as disposições constitucionais foram cumpridas para ambas as Partes Contratantes.
+Art. 14.º - 1 - Este Acordo entrará em vigor 30 dias após a data da troca das notas confirmando que as disposições constitucionais foram cumpridas para ambas as Partes Contratantes.
 
 2 - O Acordo entrará em vigor por um período ilimitado, mas poderá ser denunciado, por escrito, a todo o momento por qualquer das Partes Contratantes com um pré-aviso de um ano, pelo menos.
 
@@ -198,7 +204,7 @@ Pedro José Rodrigues Pires de Miranda, Ministro dos Negócios Estrangeiros.
 
 Pelo Governo da República Socialista Checoslovaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf), Embaixador Extraordinário e Plenipotenciário.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf), Embaixador Extraordinário e Plenipotenciário.
 
 Protocolo
 
@@ -216,7 +222,7 @@ As Partes Contratantes, desejando esclarecer algumas disposições do Acordo sob
 
 6 - As denominações dos territórios e regiões mencionadas no artigo 2.º, n.º 1, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 7 - As denominações dos territórios e regiões mencionadas no artigo 3.º, n.º 1, são as seguintes:
 
@@ -234,71 +240,71 @@ Lista das indicações de proveniência, das denominações de origem e de outra
 
 1 - Vinhos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 2 - Produtos de padaria e de pastelaria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 3 - Cerveja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 4 - Peixes e produtos de peixes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 5 - Carne e produtos de carnes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 6 - Produtos agrícolas, incluindo tabaco:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 7 - Frutos e legumes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 8 - Produtos de leite e queijos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 9 - Águas e águas minerais naturais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 10 - Sais minerais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 11 - Aguardentes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 12 - Produtos de vidro e de porcelana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 13 - Produtos de artesanato, bordados e rendas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 14 - Joalharia e bijutaria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 15 - Máquinas, produtos de aço e de ferro e outros produtos industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 16 - Jogos, brinquedos, instrumentos musicais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 17 - Produtos de pedra e de cerâmica, pedra, materiais de construção, terras minerais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 ## ANEXO B — I - Vinhos
 
@@ -306,11 +312,11 @@ A) Denominações de vinhos produzidos nas regiões legalmente delimitadas
 
 1 - Vinhos generosos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 2 - Outros vinhos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 B) Denominações de vinhos produzidos noutras regiões delimitadas
 
@@ -398,7 +404,7 @@ Les produits naturels, industriels et artisanaux qui proviennent du territoire d
 
 2) Les noms, les dénominations et les représentations graphiques visés aux articles 2 et 3 et à l'article 6, alinéa 2, ainsi que les dénominations figurant dans les annexes A et B du présent Accord, en vertu du présent Accord et du Protocole à ce dernier.
 
-###### Art. 2 - 1 - Sur le territoire de la République portugaise les noms «République socialiste tchécoslovaque», «République socialiste tchéque» et «République socialiste slovaque», la dénomination «Tchécoslovaquie», les noms historiques des différents pays et les dénominations des territoires et régions situés en République socialiste tchécoslovaque, ainsi que les dénominations figurant dans l'annexe A du présent Accord, sont exclusivement réservés aux produits ou marchandises tchécoslovaques et ne peuvent y être utilisés qu'aux conditions prévues par la législation tchécoslovaque, à moins que les alinéas 2 et 3 du présent article ne stipulent pas autrement.
+Art. 2 - 1 - Sur le territoire de la République portugaise les noms «République socialiste tchécoslovaque», «République socialiste tchéque» et «République socialiste slovaque», la dénomination «Tchécoslovaquie», les noms historiques des différents pays et les dénominations des territoires et régions situés en République socialiste tchécoslovaque, ainsi que les dénominations figurant dans l'annexe A du présent Accord, sont exclusivement réservés aux produits ou marchandises tchécoslovaques et ne peuvent y être utilisés qu'aux conditions prévues par la législation tchécoslovaque, à moins que les alinéas 2 et 3 du présent article ne stipulent pas autrement.
 
 2 - Si l'une des dénominations figurant dans l'annexe A du présent Accord est utilisée pour des produits ou marchandises autres que ceux auxquels elle est attribuée dans ladite annexe A, le premier alinéa est seulement applicable:
 
@@ -408,7 +414,7 @@ b) Lorsque l'utilisation de la dénomination est de nature à porter préjudice 
 
 3 - L'alinéa premier n'empêche pas le titulaire légitime d'indiquer sur ses produits ou marchandises, sur les emballages de ceux-ci, sur les papiers d'affaires ou dans la publicité son nom ou sa raison sociale, pourvu qu'elle contienne le nom d'une personne physique. L'utilisation du nom ou de la raison sociale en qualité de signe est admissible uniquement dans un cas et d'une manière ne permettant pas d'induire en erreur sur l'origine des produits ou des marchandises.
 
-###### Art. 3 - 1 - Sur le territoire de la République socialiste tchécoslovaque le nome «République portugaise», les dénominations «Portugal», «Portugalia» et «Lusitania» et «Ibéria» et les dénominations des territoires et régions situés en République portugaise, ainsi que les dénominations figurant dans l'annexe B du présent Accord, sont exclusivement réservés aux produits ou marchandises portugais et ne peuvent y être utilisés qu'aux conditions prévues par la législation portugaise, à moins que les alinéas 2 et 3 du présent article ne stipulent pas autrement.
+Art. 3 - 1 - Sur le territoire de la République socialiste tchécoslovaque le nome «République portugaise», les dénominations «Portugal», «Portugalia» et «Lusitania» et «Ibéria» et les dénominations des territoires et régions situés en République portugaise, ainsi que les dénominations figurant dans l'annexe B du présent Accord, sont exclusivement réservés aux produits ou marchandises portugais et ne peuvent y être utilisés qu'aux conditions prévues par la législation portugaise, à moins que les alinéas 2 et 3 du présent article ne stipulent pas autrement.
 
 2 - Si l'une des dénominations figurant dans l'annexe B du présent Accord est utilisée pour des produits ou marchandises autres que ceux auxquels est attribuée dans ladite annexe B, le premier alinéa est seulement applicable:
 
@@ -418,11 +424,11 @@ b) Lorsque l'utilisation de la dénomination est de nature à porter préjudice 
 
 3 - L'alinéa premier n'empêche pas le titulaire légitime d'indiquer sur ses produits ou marchandises, sur les emballages de ceux-ci, sur les papier d'affaires ou dans la publicité son nom ou sa raison sociale, pourvu qu'elle contienne le nom d'une personne physique. L'utilisation du nom ou de la raison sociale en qualité de signe est admissible uniquement dans un cas et d'une manière ne permettant pas d'une induire en erreur sur l'origine des produits ou des marchandises.
 
-###### Art. 4 - 1 - Si l'une des dénominations protégées aux termes du présent Accord pour les produits ou marchandises d'une Partie contractante est indentique avec la dénomination d'un territoire ou d'un endroit situé sur le territoire de l'autre Partie contractante, une telle dénomination peut être utilisée uniquement au cas où le pays d'origine serait indiqué de façon marquée et d'une manière excluant toute tromperie sur l'origine et sur la nature des produits ou marchandises.
+Art. 4 - 1 - Si l'une des dénominations protégées aux termes du présent Accord pour les produits ou marchandises d'une Partie contractante est indentique avec la dénomination d'un territoire ou d'un endroit situé sur le territoire de l'autre Partie contractante, une telle dénomination peut être utilisée uniquement au cas où le pays d'origine serait indiqué de façon marquée et d'une manière excluant toute tromperie sur l'origine et sur la nature des produits ou marchandises.
 
 2 - Les noms géographiques de tiers pays qui coincident avec les dénominations figurant dans les annexes A et B ou avec d'autres indications de provenance de l'une des Parties contractantes pourront être utilisés par les pays tiers exclusivement au cas où l'indication du pays d'origine serait indiquée d'une manière excluant le risque de confusion sur l'origine et sur la nature des produits importés.
 
-###### Art. 5 - 1 - Si les noms et dénominations protégés en vertu du présent Accord sont utilisés dans les activités commerciales et industrielles en violation de ses dispositions pour des produits ou marchandises, ou leur conditionnement, ou leur emballage, ou sur les factures, sur les titres de transport ou d'autres papiers d'affaires ou dans la publicité, ladite utilisation est reprimée, en vertu même de l'Accord, par tous les moyens judiciaires ou administratifs qui, selon la législation de la Partie contractante où la protection est revendiquée, entrent en considération pour lutter contre la concurrence déloyale ou pour réprimer des dénominations illicites.
+Art. 5 - 1 - Si les noms et dénominations protégés en vertu du présent Accord sont utilisés dans les activités commerciales et industrielles en violation de ses dispositions pour des produits ou marchandises, ou leur conditionnement, ou leur emballage, ou sur les factures, sur les titres de transport ou d'autres papiers d'affaires ou dans la publicité, ladite utilisation est reprimée, en vertu même de l'Accord, par tous les moyens judiciaires ou administratifs qui, selon la législation de la Partie contractante où la protection est revendiquée, entrent en considération pour lutter contre la concurrence déloyale ou pour réprimer des dénominations illicites.
 
 2 - Les dispositions du présent article s'appliquent même lorsque lesdits noms ou lesdites dénominations sont utilisés, soit en traduction, soit en transcription, soit avec l'indication de la provenance véritable, soit avec l'adjonction de termes, tels que «sorte», «type», «forme», «manière», «imitation», «qualité», ou en une forme distincte, pourvu que, malgré la distinction, le danger de confusion subsiste lors de la mise des marchandises en circulation.
 
@@ -430,15 +436,15 @@ b) Lorsque l'utilisation de la dénomination est de nature à porter préjudice 
 
 4 - Les dispositions du présent article ne s'appliquent pas aux marchandises en transit.
 
-###### Art. 6 - 1 - Les dispositions de l'article 5, alinéa premier, s'appliquent également lorsque sur les produits ou marchandises, leur conditionnement ou leur emballage extérieur, ainsi que sur les factures, sur les titres de transport ou sur d'autres papiers d'affaires ou dans la publicité, sont utilisés des signes, marques, noms, inscriptions ou des représentations graphiques qui contiennent, directement ou indirectement, des indications fausses ou fallacieuses sur la provenance, nature, veriété ou les qualités substancielles des produits ou marchandises.
+Art. 6 - 1 - Les dispositions de l'article 5, alinéa premier, s'appliquent également lorsque sur les produits ou marchandises, leur conditionnement ou leur emballage extérieur, ainsi que sur les factures, sur les titres de transport ou sur d'autres papiers d'affaires ou dans la publicité, sont utilisés des signes, marques, noms, inscriptions ou des représentations graphiques qui contiennent, directement ou indirectement, des indications fausses ou fallacieuses sur la provenance, nature, veriété ou les qualités substancielles des produits ou marchandises.
 
 2 - Lorsque les noms ou représentations graphiques de lieux, d'édifices, de monuments, de rivières, de montagnes, de personnages historiques ou littéraires, de costumes nationaux, de motifs de folklore, etc., d'une Partie contractante qui y jouissent d'une renommé particulière ou possèdent un pouvoir attractif particulier sont sur le territoire de l'autre Partie contractante utilisés dans les activités commerciales et industrielles pour des produits ou marchandises qui ne sont pas originaires de ladite Partie contractante, ils sont considérés comme des indications fausses ou fallacieuses sur la provenance, à moins que, dans les circunstances données, on ne puisse attribuer raisonnablement au nom ou à la représentation graphique qu'un sens descriptif ou fantaisiste.
 
-###### Art. 7 Les actions pour violation du présent Accord peuvent être intentées devant les tribunaux des Parties contractantes non seulement par personnes physiques et morales qui, d'après la législation des Parties contractantes, ont qualité pour les introduire, mais aussi par les associations et groupements qui, directement ou indirectement, représentent les producteurs, fabricants, commerçants ou consommateurs intéressés et qui ont leur siège dans l'une des Parties contractantes, entant que la législation de la Partie dans lequel se trouve ce siège leur donne qualité pour agir en matière civile. Dans les mêmes conditions, ils peuvent faire valoir des droits et des moyens de droit en procédure pénale, dans la mésure prévue par la législation de la Partie dans laquelle la procédure se déroule.
+Art. 7 Les actions pour violation du présent Accord peuvent être intentées devant les tribunaux des Parties contractantes non seulement par personnes physiques et morales qui, d'après la législation des Parties contractantes, ont qualité pour les introduire, mais aussi par les associations et groupements qui, directement ou indirectement, représentent les producteurs, fabricants, commerçants ou consommateurs intéressés et qui ont leur siège dans l'une des Parties contractantes, entant que la législation de la Partie dans lequel se trouve ce siège leur donne qualité pour agir en matière civile. Dans les mêmes conditions, ils peuvent faire valoir des droits et des moyens de droit en procédure pénale, dans la mésure prévue par la législation de la Partie dans laquelle la procédure se déroule.
 
-###### Art. 8 Les produits ou marchandises, emballages, factures, titres de transport et autres papiers d'affaires, ainsi que les moyens publicitaires qui se trouvent sur le territoire de l'une des Parties contractantes à l'époque de l'entrée du présent Accord en vigueur et qui ont été munis licitement d'indications dont le présent Accord ne permet pas l'utilisation, peuvent être mis en vente ou en consommation dans une année suivante la date de l'entrée du présent Accord en vigueur.
+Art. 8 Les produits ou marchandises, emballages, factures, titres de transport et autres papiers d'affaires, ainsi que les moyens publicitaires qui se trouvent sur le territoire de l'une des Parties contractantes à l'époque de l'entrée du présent Accord en vigueur et qui ont été munis licitement d'indications dont le présent Accord ne permet pas l'utilisation, peuvent être mis en vente ou en consommation dans une année suivante la date de l'entrée du présent Accord en vigueur.
 
-###### Art. 9 - 1 - Les marques enregistrées et valables avant la date du 1er Janvier 1980 et qui sont contraires:
+Art. 9 - 1 - Les marques enregistrées et valables avant la date du 1er Janvier 1980 et qui sont contraires:
 
 a) Aux appellations d'origine Porto, Oporto, Port, Portwine et d'autres traductions et Pilsen, Pilsner, Pilsener, Pils et d'autres traductions protégées aux termes du présent Accord peuvent être désormais utilisées jusqu'à l'expiration de deux années, au plus tard, à compter de l'entrée du présent Accord en vigueur;
 
@@ -448,7 +454,7 @@ b) Aux dénominations visées aux articles 2 et 3 ou inscrites sur les listes an
 
 3 - Les délais déterminés aux alinéas 1 et 2 du présent article sont aussi applicables aux dénominations sur lesquelles le présent Accord portera en vertu d'une modification ou d'un complément des listes annexées au présent Accord et commencent à courir le jour où la modification ou le complément entrera em vigueur.
 
-###### Art. 10 - 1 - Pour atteindre les objectifs du présent Accord les Parties contractantes conviennent de créer une commission mixte composée de représentants des deux Parties contractantes, que se réunira chaque fois que l'une ou l'autre des Parties contractantes en formulera la demande. Elle tiendra ses séances, alternativement, au Portugal et en Tchécoslovaquie.
+Art. 10 - 1 - Pour atteindre les objectifs du présent Accord les Parties contractantes conviennent de créer une commission mixte composée de représentants des deux Parties contractantes, que se réunira chaque fois que l'une ou l'autre des Parties contractantes en formulera la demande. Elle tiendra ses séances, alternativement, au Portugal et en Tchécoslovaquie.
 
 2 - La Commission mixte sera chargée d'examiner les propositions de modification ou d'élargissement des listes figurant dans les annexes A et B à cet Accord, ainsi que de délibérer sur les questions en rapport avec l'application de l'Accord et sur la revision du Protocole.
 
@@ -458,15 +464,15 @@ Les délibérations de la Commission mixte doivent être confirmées par échang
 
 4 - En cas de modification ou d'élargissement de la liste des dénominations afférantes aux produits ou marchandises provenants du territoire d'une Partie contractante, la disposition de l'article 8 est applicable, étant précisé que le délai d'une année commence à courir de la date où l'autre Partie contractante notifie la modification ou le complément.
 
-###### Art. 11 - 1 - Le présent Accord n'exclut pas une protection plus étendue qui dans les Parties contractantes est ou sera accordée à l'avenir, en vertu de la législation interne ou d'autres accords internationaux, aux dénominations protégées en vertu du présent Accord.
+Art. 11 - 1 - Le présent Accord n'exclut pas une protection plus étendue qui dans les Parties contractantes est ou sera accordée à l'avenir, en vertu de la législation interne ou d'autres accords internationaux, aux dénominations protégées en vertu du présent Accord.
 
 2 - Les dispositions de cet Accord ne produisent aucun changement de la protection relative aux appellations d'origine qui à la date d'entrée en vigueur du présent Accord jouissent déjà de la protection sur les territoires des deux Parties contractantes pour les produits ou marchandises de la Partie contractante respective, en vertu de l'Arrangement de Lisbonne pour la protection des appellations d'origine et leur enregistrement international.
 
-###### Art. 12 L'Office pour les Inventions et les Decouvertes de la Tchécoslovaquie et l'Institut National de la Propriété Industrielle du Portugal seront en contact regulier sur les projects à soummetre à la Commission mixte, ainsi que sur tous les problèmes relatifs à l'ápplication du présent Accord.
+Art. 12 L'Office pour les Inventions et les Decouvertes de la Tchécoslovaquie et l'Institut National de la Propriété Industrielle du Portugal seront en contact regulier sur les projects à soummetre à la Commission mixte, ainsi que sur tous les problèmes relatifs à l'ápplication du présent Accord.
 
-###### Art. 13 Les Parties contractantes s'enfforceront de régler para la voie diplomatique tous les cas de violation du présent Accord portés à leur connaissance.
+Art. 13 Les Parties contractantes s'enfforceront de régler para la voie diplomatique tous les cas de violation du présent Accord portés à leur connaissance.
 
-###### Art. 14 - 1 - Cet Accord entrera en vigueur 30 jours après la date d'échange des notes confirmant que les dispositions constitutionelles ont étés accomplis par les deux Parties contractantes.
+Art. 14 - 1 - Cet Accord entrera en vigueur 30 jours après la date d'échange des notes confirmant que les dispositions constitutionelles ont étés accomplis par les deux Parties contractantes.
 
 2 - L'Accord rentrera en vigueur pour une période ilimitée, mais il pourra être dénoncé par écrit à tout moment par quelqu'une des Parties contractantes avec un préavis d'une année, au moins.
 
@@ -478,7 +484,7 @@ Pedro José Rodrigues Pires de Miranda.
 
 Pour le Gouvernement de la République Socialiste Tchécoslovaque:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 Protocole
 
@@ -496,7 +502,7 @@ Les Parties contractantes, désirant apporter des précisions sur l'application 
 
 6 - Dénominations des territoires et régions mentionées à l'article 2, alinéa premier, sont les suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 7 - Dénominations des territoires et régions mentionnés à l'article 3, alinéa premier, sont les suivantes:
 
@@ -514,71 +520,71 @@ Liste des indications de provenance, des appellations d'origine et d'autres dén
 
 1 - Vins:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 2 - Produits de boulangerie et de confiserie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 3 - Bière:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 4 - Poissons et produits de poissons:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 5 - Viande et produits de viandes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 6 - Produits agricoles, y compris tabac:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 7 - Fruits et légumes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 8 - Produits de lait et fromages:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 9 - Eaux et eaux minérale naturelles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 10 - Sels minéraux:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 11 - Eaux-de-vie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 12 - Produits de verre et de porcelaine:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 13 - Produits d'arts et de métiers, broderies, dentelles:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 14 - Joaillerie et bijouterie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 15 - Machines, produits d'acier et de fer et autres produits industriels:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 16 - Jeux, jouets, instruments de musique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 17 - Produits de pierre et de céramique, pierre, matériaux de construction, terres minéraux:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 ANNEXE B
 
@@ -588,11 +594,11 @@ A) Denominations de vins produits dans les régions légalement delimitées
 
 1 - Vins «generosos»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 2 - Autres vins:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04280438.pdf)
 
 B) Dénominations des vins produits dans autres régions delimitées
 

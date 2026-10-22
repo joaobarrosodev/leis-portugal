@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1974-473547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2accd2b6caae5f585e399a097742e58b5f0b4af86d9837938d16b558b77a3f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8c6e02e6aaee2c721240dd56063ff9fce146752ff9154153e374a48af2d1f26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério da Coordenação Interterritorial
+- Ministério da Educação e Cultura
+- Transferência de Competências
+- Universidade de Lourenço Marques
+- Universidade de Luanda
+relationships:
+- type: cites
+  target: pt:dre:476495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:26Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +100,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Salvo o disposto no artigo seguinte, a competência atribuída ao Ministro da Educação e Cultura na legislação por que se regem as Universidades de Luanda e de Lourenço Marques passa a ser exercida pelo Ministro da Coordenação Interterritorial.
+Artigo 1.º Salvo o disposto no artigo seguinte, a competência atribuída ao Ministro da Educação e Cultura na legislação por que se regem as Universidades de Luanda e de Lourenço Marques passa a ser exercida pelo Ministro da Coordenação Interterritorial.
 
-###### Art. 2.º Exceptuam-se da regra do artigo anterior as matérias a seguir enumeradas, cuja resolução compete cumulativamente aos Ministros da Coordenação Interterritorial e da Educação e Cultura:
+Art. 2.º Exceptuam-se da regra do artigo anterior as matérias a seguir enumeradas, cuja resolução compete cumulativamente aos Ministros da Coordenação Interterritorial e da Educação e Cultura:
 
 a) Aprovação de planos de estudo e de experiências pedagógicas;
 
@@ -107,16 +116,16 @@ e) Decisão em última instância dos processos de transferência entre Universi
 
 f) Adopção de regras especiais quanto aos alunos militares.
 
-###### Art. 3.º O Ministro da Coordenação Interterritorial pode, por simples despacho, delegar, no todo ou em parte, nos órgãos de governo de Angola e de Moçambique a competência que exclusivamente lhe cabe quanto às Universidades de Luanda e de Lourenço Marques, respectivamente, os quais, por seu turno, poderão exercer igual faculdade em relação às competentes autoridades académicas.
+Art. 3.º O Ministro da Coordenação Interterritorial pode, por simples despacho, delegar, no todo ou em parte, nos órgãos de governo de Angola e de Moçambique a competência que exclusivamente lhe cabe quanto às Universidades de Luanda e de Lourenço Marques, respectivamente, os quais, por seu turno, poderão exercer igual faculdade em relação às competentes autoridades académicas.
 
-###### Art. 4.º As dúvidas que vierem a ser suscitadas na execução do presente decreto-lei serão resolvidas por despacho do Ministro da Coordenação Interterritorial, com excepção das relativas ao disposto no artigo 2.º, que serão resolvidas por despacho conjunto daquele Ministro e do Ministro da Educação e Cultura.
+Art. 4.º As dúvidas que vierem a ser suscitadas na execução do presente decreto-lei serão resolvidas por despacho do Ministro da Coordenação Interterritorial, com excepção das relativas ao disposto no artigo 2.º, que serão resolvidas por despacho conjunto daquele Ministro e do Ministro da Educação e Cultura.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos - Vitorino Magalhães Godinho.
 
-**Promulgado em 24 de Setembro de 1974.**
+Promulgado em 24 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais dos Estados de Angola e Moçambique. - A. Almeida Santos.

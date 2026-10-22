@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48031-1967-389208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d375a9ddbec03355306dc6e5b803c090d302a98d04b30a5cc4603762bf4d509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bfebc9ed5304c521c1671d6ad07c4b0d608198bf51e72c1e97afed94302258d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amortização
+- Companhia das Águas de Lisboa
+- Inspecção Geral de Crédito e Seguros
+- Obrigações
+relationships:
+- type: cites
+  target: pt:dre:597505:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:09Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +99,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a Companhia das Águas de Lisboa, S. A. R. L., a emitir 120000 obrigações, de cupão, do valor nominal de 1000$00 cada uma, em títulos de uma, cinco e dez obrigações.
+Artigo 1.º - 1. É autorizada a Companhia das Águas de Lisboa, S. A. R. L., a emitir 120000 obrigações, de cupão, do valor nominal de 1000$00 cada uma, em títulos de uma, cinco e dez obrigações.
 
 2. O juro nominal das obrigações será de 6 por cento, pagável semestralmente em 15 de Junho e 15 de Dezembro de cada ano.
 
-###### Art. 2.º - 1. A emissão será lançada em duas fases de valor global de 60000 contos cada uma, devendo a primeira ser oferecida à subscrição no corrente ano e a segunda em data a fixar oportunamente por portaria do Ministro das Finanças.
+Art. 2.º - 1. A emissão será lançada em duas fases de valor global de 60000 contos cada uma, devendo a primeira ser oferecida à subscrição no corrente ano e a segunda em data a fixar oportunamente por portaria do Ministro das Finanças.
 
 2. A amortização das obrigações será efectuada semestralmente, por sorteio e pelo valor nominal, em 15 de Junho e 15 de Dezembro de cada ano.
 
@@ -105,17 +113,17 @@ Em relação aos 60000 contos da fase inicial, a primeira amortização realizar
 
 4. A amortização poderá ser antecipada por sorteio ou por compra no mercado, devendo as datas das amortizações extraordinárias coincidir com as das normais.
 
-###### Art. 3.º - 1. A estas obrigações é concedido o aval do Estado, nos termos e condições da base IV, aprovada pelo [Decreto-Lei n.º 38665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38665-1952-597505), de 4 de Março de 1952.
+Art. 3.º - 1. A estas obrigações é concedido o aval do Estado, nos termos e condições da base IV, aprovada pelo [Decreto-Lei n.º 38665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38665-1952-597505), de 4 de Março de 1952.
 
 2. Quando a empresa reconhecer não estar habilitada a satisfazer os encargos da amortização e juros nas datas fixadas para o respectivo pagamento, dará do facto conhecimento à Direcção-Geral da Fazenda Pública, com a antecipação de 45 dias do vencimento dos referidos encargos, devendo aquela Direcção-Geral obter os meios financeiros indispensáveis à sua cobertura.
 
 3. O Estado poderá transformar em acções da empresa devedora os créditos de que não for reembolsado até ao termo do ano seguinte ao da constituição dos mesmos, devendo aquela promover obrigatòriamente, e por força do presente diploma, o correspondente aumento de capital.
 
-###### Art. 4.º Os juros das obrigações a emitir beneficiarão da isenção do imposto complementar e da redução a metade do imposto de capitais.
+Art. 4.º Os juros das obrigações a emitir beneficiarão da isenção do imposto complementar e da redução a metade do imposto de capitais.
 
-###### Art. 5.º A emissão das obrigações da 1.ª fase só poderá efectivar-se depois de dar entrada na Inspecção-Geral de Crédito e Seguros o documento comprovativo de ter sido efectuado o competente registo na Conservatória do Registo Comercial e um exemplar do Diário do Governo em que tenha sido publicado o respectivo plano de amortização.
+Art. 5.º A emissão das obrigações da 1.ª fase só poderá efectivar-se depois de dar entrada na Inspecção-Geral de Crédito e Seguros o documento comprovativo de ter sido efectuado o competente registo na Conservatória do Registo Comercial e um exemplar do Diário do Governo em que tenha sido publicado o respectivo plano de amortização.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

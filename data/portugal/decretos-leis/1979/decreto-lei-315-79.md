@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19100/20102011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1979-378959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8285308c242b34c7e095a26f4e03466078cf196f3d991316f9c5d8562815e9c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c815f2c943f1349bd363d4f99668cff5507e175953e4dfabdccfccbaadab36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Escola de Condução
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:375664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:253395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428031:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553008:por
+  label: "Revogado pelo DEC LEI.6/82.12.01.1982.MHOPT, DR.IS [9] de 12.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1982-553008
+  date: '1982-01-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:41Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +118,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A mudança ou transformação de instalações das escolas de condução depende de prévia autorização da Direcção-Geral de Viação.
+Artigo 1.º - 1 - A mudança ou transformação de instalações das escolas de condução depende de prévia autorização da Direcção-Geral de Viação.
 
 2 - A autorização a que se refere o número anterior será recusada quando:
 
@@ -108,13 +128,13 @@ b) Envolva prejuízo para a qualidade do ensino ou para o bom funcionamento da e
 
 c) Implique situações de injustificada concorrência com escolas de condução existentes no mesmo concelho, pela proximidade entre estas e o local para onde as novas instalações são propostas.
 
-###### Art. 2.º - 1 - As instalações das escolas de condução a que se refere o artigo anterior compreendem edifício ou parte de edifício a tal exclusivamente destinado, composto de compartimentos amplos e arejados, em boas condições de higiene e limpeza e de fácil acesso entre si, dotadas das arrecadações necessárias ao exercício da actividade.
+Art. 2.º - 1 - As instalações das escolas de condução a que se refere o artigo anterior compreendem edifício ou parte de edifício a tal exclusivamente destinado, composto de compartimentos amplos e arejados, em boas condições de higiene e limpeza e de fácil acesso entre si, dotadas das arrecadações necessárias ao exercício da actividade.
 
 2 - O equipamento pedagógico destinado a apetrechar as instalações referidas no número anterior deve permitir a adequada e completa ilustração do ensino ministrado e compreender o material indispensável à boa habilitação dos instruendos para as provas que constituem o exame de condução.
 
-###### Art. 3.º Às escolas de condução que tiverem instalações e apetrechamento aprovados ao abrigo do presente diploma e seus regulamentos não se aplica, quanto a estes aspectos, o disposto no n.º 2 do artigo 12.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio.
+Art. 3.º Às escolas de condução que tiverem instalações e apetrechamento aprovados ao abrigo do presente diploma e seus regulamentos não se aplica, quanto a estes aspectos, o disposto no n.º 2 do artigo 12.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio.
 
-###### Art. 4.º - 1 - São consideradas infracções:
+Art. 4.º - 1 - São consideradas infracções:
 
 a) A utilização de instalações não aprovadas pela Direcção-Geral de Viação;
 
@@ -148,16 +168,16 @@ c) De 1000$00 a 5000$00, as infracções previstas nas alíneas g) e h).
 
 6 - O disposto no presente artigo é aplicável a todas as escolas de condução, independentemente de terem ou não instalações e apetrechamento aprovados ao abrigo do presente diploma.
 
-###### Art. 5.º Os tribunais devem enviar à Direcção-Geral de Viação certidão de todas as decisões proferidas relativamente às infracções previstas no presente diploma e seus regulamentos para anotação no cadastro a que se refere o artigo 16.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio.
+Art. 5.º Os tribunais devem enviar à Direcção-Geral de Viação certidão de todas as decisões proferidas relativamente às infracções previstas no presente diploma e seus regulamentos para anotação no cadastro a que se refere o artigo 16.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio.
 
-###### Art. 6.º Por portaria do Ministro dos Transportes e Comunicações, serão aprovados os regulamentos necessários à boa execução do presente diploma.
+Art. 6.º Por portaria do Ministro dos Transportes e Comunicações, serão aprovados os regulamentos necessários à boa execução do presente diploma.
 
-###### Art. 7.º É revogado o disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, o n.º 4 do artigo 53.º do Código da Estrada, bem como o disposto no n.º 5, alíneas g) e h), e no penúltimo parágrafo do n.º 8 do artigo 43.º do Regulamento do Código da Estrada.
+Art. 7.º É revogado o disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, o n.º 4 do artigo 53.º do Código da Estrada, bem como o disposto no n.º 5, alíneas g) e h), e no penúltimo parágrafo do n.º 8 do artigo 43.º do Regulamento do Código da Estrada.
 
 Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

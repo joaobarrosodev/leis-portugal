@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/398-1972-690004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fe7fcc59ba7a403e1164c865413d6bd74fd1de676adf2494fcfa338b6f5a2ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d646d2b65b6d9b4c6fdcaf07d95ea0fb58bca2058b992ea1bed1065e478edd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:05Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Por se tratar de uma propriedade do Estado, é aplicada a modalidade de regime f
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É submetida ao regime florestal total a Tapada da Ajuda, situada na freguesia de Alcântara, concelho de Lisboa, com a superfície de 103,4000 ha, assim discriminada: 30,1000 ha de povoamento misto; 4,6000 ha de acacial; 3,1000 ha de povoamento de cupressos; 2,8000 ha de eucaliptal; 1,8000 ha de pinhal; 0,3000 ha de sobreiral; 40,9000 ha de cultura arvense, pomar e vinha; 4,400 ha de reserva botânica, e 15,4000 ha de área social, conforme consta do respectivo plano de arborização, tratamento e exploração e planta autêntica, sendo-lhe aplicáveis as disposições legais e regulamentares daquele regime.
+Artigo 1.º É submetida ao regime florestal total a Tapada da Ajuda, situada na freguesia de Alcântara, concelho de Lisboa, com a superfície de 103,4000 ha, assim discriminada: 30,1000 ha de povoamento misto; 4,6000 ha de acacial; 3,1000 ha de povoamento de cupressos; 2,8000 ha de eucaliptal; 1,8000 ha de pinhal; 0,3000 ha de sobreiral; 40,9000 ha de cultura arvense, pomar e vinha; 4,400 ha de reserva botânica, e 15,4000 ha de área social, conforme consta do respectivo plano de arborização, tratamento e exploração e planta autêntica, sendo-lhe aplicáveis as disposições legais e regulamentares daquele regime.
 
-###### Art. 2.º Em cumprimento do citado plano e em satisfação do referido decreto-lei, deverão ser observadas as seguintes condições:
+Art. 2.º Em cumprimento do citado plano e em satisfação do referido decreto-lei, deverão ser observadas as seguintes condições:
 
 a) Conservar o arvoredo na densidade tècnicamente aconselhável;
 
@@ -102,16 +106,16 @@ b) Manter a taxa de arborização nunca inferior a um terço da superfície tota
 
 c) Seguir os preceitos estabelecidos para a conservação do solo.
 
-###### Art. 3.º Deverá a Tapada ser sinalizada com as tabuletas regulamentares a que se referem o artigo 46.º, suas alíneas e parágrafos do citado Regulamento, postas de modo que de cada uma delas se possa avistar a imediata e a antecedente.
+Art. 3.º Deverá a Tapada ser sinalizada com as tabuletas regulamentares a que se referem o artigo 46.º, suas alíneas e parágrafos do citado Regulamento, postas de modo que de cada uma delas se possa avistar a imediata e a antecedente.
 
-###### Art. 4.º O Instituto Superior de Agronomia manterá, pelo menos, um guarda florestal auxiliar com os deveres e regalias consignados no referido [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793).
+Art. 4.º O Instituto Superior de Agronomia manterá, pelo menos, um guarda florestal auxiliar com os deveres e regalias consignados no referido [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793).
 
-###### Art. 5.º A execução do presente decreto só terá lugar decorrido o prazo de trinta dias, a contar da data da afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação da propriedade.
+Art. 5.º A execução do presente decreto só terá lugar decorrido o prazo de trinta dias, a contar da data da afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação da propriedade.
 
 Marcello Caetano - José Eduardo Mendes Ferrão.
 
-**Promulgado em 11 de Outubro de 1972.**
+Promulgado em 11 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

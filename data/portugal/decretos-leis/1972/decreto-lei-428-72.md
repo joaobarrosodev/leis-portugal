@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 254/1972, 1º Suplemento, Série I de 1972-10-31
   number: '254'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1576-(12) a 1576-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/10/25401/00120016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5b5093ef7826f662beb91c037fb45069b3f06d8f2e86612baf8715340f1196e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b9611299b0179ef4b0a5eeff768133eda88024811f618fbbf86deff378a821c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Definição de Competências
+- Instituto dos Produtos Florestais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:416455:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTO O INSTITUTO DOS PRODUTOS FLORESTAIS, PELO DECRETO LEI 466/88, DE 15 DE DEZEMBRO, PUBLICADO NO DR.IS, 288.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-12-15'
+- type: cites
+  target: pt:dre:164797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:291609:por
+  label: "Rectificado pela RECT.DD312.31.10.1972.MECO, DG.IS [254]Supl de 31.10.1972, que procede à publicação do Preâmbulo\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/nao-especificado/1972-291609
+  date: '1972-10-31'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 466/88, DE 15 DE DEZEMBRO, PUBLICADO NO DR.IS, 288.\0NO DR.IS, 288."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:26Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +154,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Constituição e fins
 
-###### Artigo 1.º - 1. O Instituto dos Produtos Florestais, criado ao abrigo do artigo 5.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, é um organismo de coordenação económica, dotado de personalidade jurídica e autonomia financeira.
+Artigo 1.º - 1. O Instituto dos Produtos Florestais, criado ao abrigo do artigo 5.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, é um organismo de coordenação económica, dotado de personalidade jurídica e autonomia financeira.
 
 2. A acção do Instituto exerce-se em toda a área do continente e ilhas adjacentes.
 
 3. O Instituto tem a sua sede em Lisboa, podendo estabelecer delegações onde for julgado necessário.
 
-###### Art. 2.º São atribuições do Instituto:
+Art. 2.º São atribuições do Instituto:
 
 a) Coordenar e disciplinar as actividades de produção, transformação e comercialização de madeiras, cortiça, resinas, seus derivados e subprodutos, ficando os respectivos organismos corporativos obrigados a cumprir e a fazer cumprir as instruções regulamentares emanadas do Instituto;
 
@@ -112,7 +172,7 @@ d) Promover a expansão no estrangeiro dos produtos das actividades coordenadas;
 
 e) Certificar a origem, qualidade e peso dos produtos.
 
-###### Art. 3.º - 1. Para o desempenho das suas atribuições, compete, em especial, ao Instituto:
+Art. 3.º - 1. Para o desempenho das suas atribuições, compete, em especial, ao Instituto:
 
 a) Propor as condições a que devem obedecer as actividades coordenadas e prestar-lhes assistência técnica, em ordem ao aperfeiçoamento da exploração e do fabrico, sua rendibilidade e melhoria da qualidade dos produtos;
 
@@ -148,15 +208,15 @@ p) Exercer as demais funções que lhe sejam cometidas por lei ou que se mostrem
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 4.º São órgãos do Instituto a direcção e o conselho geral.
+Art. 4.º São órgãos do Instituto a direcção e o conselho geral.
 
-###### Art. 5.º - 1. A direcção é constituída por um presidente e três directores.
+Art. 5.º - 1. A direcção é constituída por um presidente e três directores.
 
 2. O presidente da direcção e os directores são escolhidos por decisão conjunta do Ministro da Economia e do Secretário de Estado do Comércio.
 
 3. O presidente da direcção será substituído, nas suas faltas ou impedimentos, pelo director designado pelo Secretário de Estado do Comércio, mediante proposta do presidente da direcção.
 
-###### Art. 6.º - 1. À direcção compete:
+Art. 6.º - 1. À direcção compete:
 
 a) Pronunciar-se sobre os quadros do pessoal e a organização interna dos serviços necessários à realização dos fins do Instituto;
 
@@ -172,7 +232,7 @@ f) Apreciar e deliberar sobre os assuntos que o presidente entenda deverem ser r
 
 2. Para obrigar o Instituto, assinar cheques e outros documentos relativos ao levantamento e recebimento de fundos é indispensável a intervenção do presidente da direcção a de um director ou, na falta ou impedimento do primeiro, de dois directores.
 
-###### Art. 7.º - 1. Compete especialmente ao presidente da direcção:
+Art. 7.º - 1. Compete especialmente ao presidente da direcção:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -198,7 +258,7 @@ j) Desempenhar, por delegação do Governo, os serviços ou funções que lhe fo
 
 3. O presidente tem voto de qualidade.
 
-###### Art. 8.º - 1. O conselho geral é constituído por um presidente e pelos seguintes vogais:
+Art. 8.º - 1. O conselho geral é constituído por um presidente e pelos seguintes vogais:
 
 a) Os membros da direcção;
 
@@ -252,7 +312,7 @@ z') Um representante do Ministério do Ultramar.
 
 3. Os representantes dos serviços serão designados pelos respectivos membros do Governo, os dos consumidores nos termos que forem estabelecidos pelo Secretário de Estado do Comércio e os das actividades segundo o disposto na [Lei n.º 1/71](https://diariodarepublica.pt/dr/detalhe/lei/1-1971-445933), de 29 de Janeiro.
 
-###### Art. 9.º - 1. O presidente do conselho geral é eleito pelo conselho de entre os vogais que não sejam membros da direcção do Instituto.
+Art. 9.º - 1. O presidente do conselho geral é eleito pelo conselho de entre os vogais que não sejam membros da direcção do Instituto.
 
 2. O presidente fica impedido da representação que lhe cabia como vogal no conselho geral, sendo substituído pela forma prescrita para a respectiva representação.
 
@@ -262,7 +322,7 @@ z') Um representante do Ministério do Ultramar.
 
 5. O mandato de presidente do conselho geral tem a mesma duração e deve coincidir com o dos representantes das actividades.
 
-###### Art. 10.º - 1. O conselho geral compreende quatro secções:
+Art. 10.º - 1. O conselho geral compreende quatro secções:
 
 1.ª Celulose a pasta celulósica;
 
@@ -278,7 +338,7 @@ z') Um representante do Ministério do Ultramar.
 
 4. Por portaria do Secretário de Estado do Comércio, podem ser criadas novas secções, modificadas as existentes ou alterada a sua composição.
 
-###### Art. 11.º Compete ao conselho geral:
+Art. 11.º Compete ao conselho geral:
 
 a) Eleger o presidente e o seu substituto;
 
@@ -292,23 +352,23 @@ e) Pronunciar-se sobre os regulamentos das actividades coordenadas pelo Institut
 
 f) Dar parecer sobre todos os assuntos que lhe forem submetidos pelo presidente e pelo presidente da direcção.
 
-###### Art. 12.º - 1. O conselho geral poderá reunir por secções ou com a totalidade dos seus membros, mediante convocação do presidente, por iniciativa própria ou por solicitação do presidente da direcção ou da maioria dos vogais.
+Art. 12.º - 1. O conselho geral poderá reunir por secções ou com a totalidade dos seus membros, mediante convocação do presidente, por iniciativa própria ou por solicitação do presidente da direcção ou da maioria dos vogais.
 
 2. As deliberações do conselho geral serão tomadas por maioria, tendo o presidente voto de qualidade.
 
 3. O presidente pode suspender qualquer deliberação do conselho geral que repute contrária à lei, aos interesses dos sectores coordenados ou da economia nacional, submetendo-a à decisão do Secretário de Estado do Comércio.
 
-###### Art. 13.º - 1. Os vogais do conselho geral, com excepção do seu presidente e dos membros da direcção, têm direito a uma senha de presença e, bem assim, ao pagamento de despesas de deslocação, se residirem fora da Lisboa, competindo ao Instituto o respectivo pagamento.
+Art. 13.º - 1. Os vogais do conselho geral, com excepção do seu presidente e dos membros da direcção, têm direito a uma senha de presença e, bem assim, ao pagamento de despesas de deslocação, se residirem fora da Lisboa, competindo ao Instituto o respectivo pagamento.
 
 2. A remuneração do presidente do conselho geral será fixada em despacho do Secretário de Estado do Comércio.
 
 ### CAPÍTULO III — Serviços e pessoal
 
-###### Art. 14.º O Instituto será dotado de serviços necessários ao seu funcionamento, os quais serão aprovados em despacho do Secretário de Estado do Comércio.
+Art. 14.º O Instituto será dotado de serviços necessários ao seu funcionamento, os quais serão aprovados em despacho do Secretário de Estado do Comércio.
 
-###### Art. 15.º O quadro do pessoal do Instituto e os respectivos vencimentos serão aprovados por despacho conjunto do Ministro da Economia e do Secretário de Estado do Comércio.
+Art. 15.º O quadro do pessoal do Instituto e os respectivos vencimentos serão aprovados por despacho conjunto do Ministro da Economia e do Secretário de Estado do Comércio.
 
-###### Art. 16.º - 1. Aos serviços laboratoriais do Instituto compete realizar estudos de carácter tecnológico dos produtos das actividades coordenadas e proceder às análises que forem necessárias para o exercício das suas funções ou que lhe forem requeridas pelas entidades públicas ou privadas relacionadas com os sectores coordenados.
+Art. 16.º - 1. Aos serviços laboratoriais do Instituto compete realizar estudos de carácter tecnológico dos produtos das actividades coordenadas e proceder às análises que forem necessárias para o exercício das suas funções ou que lhe forem requeridas pelas entidades públicas ou privadas relacionadas com os sectores coordenados.
 
 2. Os laboratórios do Instituto são, para todos os efeitos, considerados oficiais.
 
@@ -316,27 +376,27 @@ f) Dar parecer sobre todos os assuntos que lhe forem submetidos pelo presidente 
 
 ### CAPÍTULO IV — Disciplina e fiscalização
 
-###### Art. 17.º - 1. As entidades que exercem as actividades coordenadas pelo Instituto ficam sujeitas à acção disciplinar do organismo.
+Art. 17.º - 1. As entidades que exercem as actividades coordenadas pelo Instituto ficam sujeitas à acção disciplinar do organismo.
 
 2. Independentemente da sua competência própria em matéria de infracções disciplinares contra a economia nacional, o Instituto exercerá sempre e directamente a acção disciplinar da competência dos organismos corporativas quando as respectivas actividades não estejam organizadas corporativamente.
 
-###### Art. 18.º - 1. É obrigatória a inscrição no Instituto: dos industriais, exportadores, importadores e armazenistas de madeira e vime, pastas celulósicas e papel, cortiça e produtos resinosos, seus derivados e subprodutos, bem como quaisquer comerciantes que interfiram no comércio interno de matérias-primas entre a produção e a indústria.
+Art. 18.º - 1. É obrigatória a inscrição no Instituto: dos industriais, exportadores, importadores e armazenistas de madeira e vime, pastas celulósicas e papel, cortiça e produtos resinosos, seus derivados e subprodutos, bem como quaisquer comerciantes que interfiram no comércio interno de matérias-primas entre a produção e a indústria.
 
 2. Os requisitos exigíveis para a inscrição das entidades referidas no número anterior serão fixados em portaria do Secretário de Estado do Comércio.
 
 3. Consideram-se inscritas no Instituto as entidades já inscritas na Junta Nacional da Cortiça, na Junta Nacional dos Resinosos e no Grémio dos Exportadoras de Madeiras, sem prejuízo da observância dos requisitas que vierem a ser fixados nos termos do número anterior.
 
-###### Art. 19.º O Secretário de Estado do Comércio poderá determinar, em portaria, a obrigatoriedade de inscrição de actividades sujeitas à disciplina do Instituto e não contempladas no artigo anterior, bem como fixar as condições necessárias à sua inscrição.
+Art. 19.º O Secretário de Estado do Comércio poderá determinar, em portaria, a obrigatoriedade de inscrição de actividades sujeitas à disciplina do Instituto e não contempladas no artigo anterior, bem como fixar as condições necessárias à sua inscrição.
 
-###### Art. 20.º Ao presidente da direcção, directores e funcionários da fiscalização é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
+Art. 20.º Ao presidente da direcção, directores e funcionários da fiscalização é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
 
-###### Art. 21.º - 1. Os funcionários da fiscalização são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Secretário de Estado do Comércio, têm o direito de uso a porte de arma de defesa, mediante requisição do Instituto, e podem requisitar o auxílio da força pública, sempre que seja oposta resistência ao exercício das suas funções.
+Art. 21.º - 1. Os funcionários da fiscalização são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Secretário de Estado do Comércio, têm o direito de uso a porte de arma de defesa, mediante requisição do Instituto, e podem requisitar o auxílio da força pública, sempre que seja oposta resistência ao exercício das suas funções.
 
 2. A fiscalização deverá efectuar-se em todos os locais onde se exerçam as actividades coordenadas ou os respectivos produtos e subprodutos se encontrem à venda, armazenados, em trânsito ou em laboração.
 
-###### Art. 22.º Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
+Art. 22.º Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
 
-###### Art. 23.º - 1. Quando verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete, os funcionários devem levantar auto de notícia.
+Art. 23.º - 1. Quando verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete, os funcionários devem levantar auto de notícia.
 
 2. O cumprimento do dever de levantar auto de notícia e de lhe dar seguimento não depende de ordem expressa, considerando-se os funcionários da fiscalização ou equiparadas permanentemente em serviço para o efeito, os quais incorrem em responsabilidade disciplinar e criminal, nos termos do artigo 168.º do Código de Processo Penal, se não derem aos autos o destino legal.
 
@@ -344,19 +404,19 @@ f) Dar parecer sobre todos os assuntos que lhe forem submetidos pelo presidente 
 
 4. Do auto de notícia constará a apreensão dos géneros a artigos que forem objecto de infracções, sempre que a ela haja lugar.
 
-###### Art. 24.º Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja da sua competência devem ser imediatamente participados às autoridades competentes.
+Art. 24.º Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja da sua competência devem ser imediatamente participados às autoridades competentes.
 
-###### Art. 25.º Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, ou processo de exportação, da que tomem conhecimento no exercício das suas funções.
+Art. 25.º Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, ou processo de exportação, da que tomem conhecimento no exercício das suas funções.
 
-###### Art. 26.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aquelas que, depois de identificados os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
+Art. 26.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aquelas que, depois de identificados os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
 
-###### Art. 27.º Os que se recusarem a prestar aos funcionários dos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
+Art. 27.º Os que se recusarem a prestar aos funcionários dos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
 
-###### Art. 28.º Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
+Art. 28.º Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
 
 ### CAPÍTULO V — Regime financeiro
 
-###### Art. 29.º - 1. Constituam receitas do Instituto:
+Art. 29.º - 1. Constituam receitas do Instituto:
 
 a) As importâncias resultantes das taxas que incidam sobre os produtos das actividades coordenadas;
 
@@ -376,35 +436,35 @@ g) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 3. Quando as taxas recaírem sobre produtos exportados, a sua cobrança será efectuada directamente pelo Instituto, mantendo-se, porém, através das estações aduaneiras, nos termos vigentes, até à publicação da portaria referida no número anterior.
 
-###### Art. 30.º As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, nos termos do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, e movimentadas por meio de cheques, assinados nos termos do n.º 2 do artigo 6.º
+Art. 30.º As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, nos termos do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, e movimentadas por meio de cheques, assinados nos termos do n.º 2 do artigo 6.º
 
-###### Art. 31.º As despesas do Instituto são as que resultam da execução dos diplomas que o regem, em conformidade com os orçamentos superiormente aprovados.
+Art. 31.º As despesas do Instituto são as que resultam da execução dos diplomas que o regem, em conformidade com os orçamentos superiormente aprovados.
 
-###### Art. 32.º Mediante despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, o Instituto poderá contrair na Caixa Geral da Depósitos, Crédito e Previdência ou em outras instituições de crédito empréstimos e assumir as responsabilidades que forem indispensáveis à realização das suas atribuições, com consignação de receita própria ou outras garantias.
+Art. 32.º Mediante despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, o Instituto poderá contrair na Caixa Geral da Depósitos, Crédito e Previdência ou em outras instituições de crédito empréstimos e assumir as responsabilidades que forem indispensáveis à realização das suas atribuições, com consignação de receita própria ou outras garantias.
 
-###### Art. 33.º O Instituto poderá conceder ou obter, em benefício das actividades coordenadas, créditos directos de natureza geral ou sobre mercadorias depositadas em regime da armazéns gerais, nas condições que vierem a ser estabelecidas e de harmonia com as disposições legais e regulamentares aplicáveis.
+Art. 33.º O Instituto poderá conceder ou obter, em benefício das actividades coordenadas, créditos directos de natureza geral ou sobre mercadorias depositadas em regime da armazéns gerais, nas condições que vierem a ser estabelecidas e de harmonia com as disposições legais e regulamentares aplicáveis.
 
-###### Art. 34.º - 1. Os empréstimos concedidos pelo Instituto ou outras formas de crédito serão sempre assegurados por garantia idónea.
+Art. 34.º - 1. Os empréstimos concedidos pelo Instituto ou outras formas de crédito serão sempre assegurados por garantia idónea.
 
 2. Nos casos em que os produtos sobre que incidem garantia real possam ser transformados ou vendidos, o Instituto conserva sobre o produto transformado, sobre a quantia paga a título de preço ou sobre o crédito resultante da venda as preferências que lhe competiam em relação aos produtos onerados.
 
-###### Art. 35.º Os empréstimos concedidos pelo Instituto, seja qual for o seu montante, serão válidos, mesmo quando celebrados por simples escrito particular, sujeito ùnicamente ao imposto do selo.
+Art. 35.º Os empréstimos concedidos pelo Instituto, seja qual for o seu montante, serão válidos, mesmo quando celebrados por simples escrito particular, sujeito ùnicamente ao imposto do selo.
 
-###### Art. 36.º As certidões passadas pelo Instituto de que constem as importâncias dos empréstimos em dívida, bem como os respectivos encargos, servem de título executivo, e a cobrança coerciva terá lugar nos termos do artigo único do [Decreto-Lei n.º 48704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48704-1968-263180), de 25 de Novembro de 1968.
+Art. 36.º As certidões passadas pelo Instituto de que constem as importâncias dos empréstimos em dívida, bem como os respectivos encargos, servem de título executivo, e a cobrança coerciva terá lugar nos termos do artigo único do [Decreto-Lei n.º 48704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48704-1968-263180), de 25 de Novembro de 1968.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 37.º O presidente da direcção do Instituto corresponder-se-á directamente com todas as entidades oficiais, de quem podará solicitar, sempre que o julgue conveniente, os elementos e a colaboração que necessite.
+Art. 37.º O presidente da direcção do Instituto corresponder-se-á directamente com todas as entidades oficiais, de quem podará solicitar, sempre que o julgue conveniente, os elementos e a colaboração que necessite.
 
-###### Art. 38.º O Instituto usará um selo branco, cuja aposição produzirá os mesmos efeitos que o de qualquer serviço do Estado.
+Art. 38.º O Instituto usará um selo branco, cuja aposição produzirá os mesmos efeitos que o de qualquer serviço do Estado.
 
-###### Art. 39.º - 1. A Junta Nacional da Cortiça e a Junta Nacional dos Resinosos são extintas a partir da entrada em vigor do presente diploma.
+Art. 39.º - 1. A Junta Nacional da Cortiça e a Junta Nacional dos Resinosos são extintas a partir da entrada em vigor do presente diploma.
 
 2. A competência atribuída aos organismos extintos nos diplomas que regulam as actividades coordenadas passa para o Instituto dos Produtos Florestais.
 
 3. Transitam para o Instituto o activo e passivo dos organismos extintos, bem como quaisquer direitos, incluindo os emergentes de contratos da arrendamento.
 
-###### Art. 40.º - 1. Enquanto não forem estabelecidas as taxas a que se refere a alínea a) do n.º 1 do artigo 29.º continuarão a vigorar a favor do Instituto todas as taxas e outras receitas que vinham sendo cobradas pelos organismos extintos.
+Art. 40.º - 1. Enquanto não forem estabelecidas as taxas a que se refere a alínea a) do n.º 1 do artigo 29.º continuarão a vigorar a favor do Instituto todas as taxas e outras receitas que vinham sendo cobradas pelos organismos extintos.
 
 2. Passam a constituir receitas do Instituto dos Produtos Florestais a percentagem de 20 por cento das taxas que vinham sendo cobradas pela Junta Nacional dos Resinosos e entregue à União dos Grémios de Industriais e Exportadores de Produtos Resinosos, nos termos do n.º 3 do artigo 31.º do [Decreto n.º 29630](https://diariodarepublica.pt/dr/detalhe/decreto/29630-1939-198356), de 25 de Maio de 1939, assim como a taxa de 0,25 por cento sobre o valor F. O. B. dos contratos de exportação das madeiras que era cobrada pelo Grémio dos Exportadores de Madeiras.
 
@@ -412,20 +472,20 @@ g) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 4. O Secretário de Estado do Comércio determinará a parte dos saldos existentes na União dos Grémios de Industriais e Exportadores de Produtos Resinosos e no Grémio dos Exportadores de Madeiras que deverá ser transferida para o Instituto.
 
-###### Art. 41.º Para o Instituto transita todo o pessoal dos organismos extintos, bem como o da fiscalização da União dos Grémios de Industriais e Exportadores de Produtos Resinosos e do Grémio dos Exportadores de Madeiras e outro pessoal destes organismos que for considerado necessário, nos termos a estabelecer pelo Secretário de Estado do Comércio.
+Art. 41.º Para o Instituto transita todo o pessoal dos organismos extintos, bem como o da fiscalização da União dos Grémios de Industriais e Exportadores de Produtos Resinosos e do Grémio dos Exportadores de Madeiras e outro pessoal destes organismos que for considerado necessário, nos termos a estabelecer pelo Secretário de Estado do Comércio.
 
-###### Art. 42.º O Instituto submeterá à aprovação superior o orçamento para 1973, nas condições que lhe forem determinadas pelo Secretário de Estado do Comércio.
+Art. 42.º O Instituto submeterá à aprovação superior o orçamento para 1973, nas condições que lhe forem determinadas pelo Secretário de Estado do Comércio.
 
-###### Art. 43.º Enquanto não for publicada a portaria a que se refere o n.º 2 do artigo 18.º do presente diploma, continuam a ser aplicados os princípios que regulavam a inscrição na Junta Nacional da Cortiça, na Junta Nacional dos Resinosos, na União dos Grémios de Industriais e Exportadores de Produtos Resinosos e no Grémio dos Exportadoras de Madeiras.
+Art. 43.º Enquanto não for publicada a portaria a que se refere o n.º 2 do artigo 18.º do presente diploma, continuam a ser aplicados os princípios que regulavam a inscrição na Junta Nacional da Cortiça, na Junta Nacional dos Resinosos, na União dos Grémios de Industriais e Exportadores de Produtos Resinosos e no Grémio dos Exportadoras de Madeiras.
 
-###### Art. 44.º Ficam revogados os seguintes diplomas: [Decreto n.º 27001](https://diariodarepublica.pt/dr/detalhe/decreto/27001-1936-363708), de 12 de Setembro de 1936, [Decreto n.º 27164](https://diariodarepublica.pt/dr/detalhe/decreto/27164-1936-323173), de 7 de Novembro de 1936, [Decreto n.º 39555](https://diariodarepublica.pt/dr/detalhe/decreto/39555-1954-217539), de 8 de Março de 1954, [Decreto n.º 44388](https://diariodarepublica.pt/dr/detalhe/decreto/44388-1962-164797), de 7 de Junho de 1964, com excepção do artigo 4.º, e [Decreto n.º 48350](https://diariodarepublica.pt/dr/detalhe/decreto/48350-1968-234699), da 24 da Abril da 1968.
+Art. 44.º Ficam revogados os seguintes diplomas: [Decreto n.º 27001](https://diariodarepublica.pt/dr/detalhe/decreto/27001-1936-363708), de 12 de Setembro de 1936, [Decreto n.º 27164](https://diariodarepublica.pt/dr/detalhe/decreto/27164-1936-323173), de 7 de Novembro de 1936, [Decreto n.º 39555](https://diariodarepublica.pt/dr/detalhe/decreto/39555-1954-217539), de 8 de Março de 1954, [Decreto n.º 44388](https://diariodarepublica.pt/dr/detalhe/decreto/44388-1962-164797), de 7 de Junho de 1964, com excepção do artigo 4.º, e [Decreto n.º 48350](https://diariodarepublica.pt/dr/detalhe/decreto/48350-1968-234699), da 24 da Abril da 1968.
 
-###### Art. 45.º Este decreto-lei entra em vigor em 1 de Janeiro de 1973.
+Art. 45.º Este decreto-lei entra em vigor em 1 de Janeiro de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 31 de Outubro de 1972.**
+Promulgado em 31 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

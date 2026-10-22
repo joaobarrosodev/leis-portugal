@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 155/1976, 3º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1476-(23) a 1476-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00230024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-n-1976-353914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10d5609197a9bcba3efff0f5113bb03cd37b7cbd372d2e05446951a764fae89d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffe6a27db86168352ebb1d0a81292403deea453b9389103897a962db45d436c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Assistência Técnica
+- Cabo Verde
+- Convenção
+- Lisboa
+- Portugal
+- Rectificação de TIPO de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:29Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +103,15 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo Relativo a Assistência Técnica entre Portugal e Cabo Verde - Aeroporto Internacional de Amílcar Cabral assinado em 1 de Janeiro de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo Relativo a Assistência Técnica entre Portugal e Cabo Verde - Aeroporto Internacional de Amílcar Cabral assinado em 1 de Janeiro de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Walter Ruivo Pinto Gomes Rosa - Ernesto Augusto de Melo Antunes - José Augusto Fernandes.
 
-**Assinado em 5 de Julho de 1976.**
+Assinado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO RELATIVO A ASSISTÊNCIA TÉCNICA ENTRE PORTUGAL E CABO VERDE - AEROPORTO INTERNACIONAL DE AMÍLCAR CABRAL
 
@@ -112,11 +125,11 @@ Considerando ainda a situação existente no que se refere ao regular funcioname
 
 As Partes Contratantes decidem concluir o seguinte Acordo:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O Estado Português prestará ao Estado de Cabo Verde a assistência técnica necessária ao funcionamento dos serviços do Aeroporto Internacional de Amílcar Cabral, nas condições previstas no presente Acordo.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. O Estado Português, através do órgão competente, destacará, de harmonia com as suas possibilidades, os cooperantes indispensáveis ao normal funcionamento do Aeroporto.
 
@@ -124,7 +137,7 @@ O Estado Português prestará ao Estado de Cabo Verde a assistência técnica ne
 
 3. O Estado de Cabo Verde suportará as despesas com transporte e ajudas de custo decorrentes das deslocações referidas no n.º 2 deste artigo.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O Estado Português, através do órgão competente, cooperará, na medida das suas possibilidades, na prossecução dos seguintes objectivos:
 
@@ -144,17 +157,17 @@ c) Garantir, quando solicitado, a assessoria técnica às delegações de Cabo V
 
 d) Dar parecer, quando solicitado, nos estudos relativos à criação e estruturação no Estado de Cabo Verde do organismo competente de aviação civil.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 1. O Estado Português, por delegação do Estado de Cabo Verde, através do órgão competente, realizará a emissão de certificados de navegabilidade e de licenciamento de pessoal navegante e outro, podendo proceder às respectivas revalidações, que serão reconhecidas pelo Ministério de Transportes e Comunicações de Cabo Verde.
 
 2. O Estado de Cabo Verde suportará as despesas inerentes à prossecução dos objectivos mencionados no n.º 1 deste artigo.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O Estado Português, através do órgão competente, cooperará, na medida das suas possibilidades, com a Embaixada de Cabo Verde em Lisboa (Agência Comercial), no domínio da aquisição de materiais e equipamentos necessários ao funcionamento do Aeroporto.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. O Estado Português, através da Direcção-Geral da Aeronáutica Civil, designará um seu representante qualificado como interlocutor oficial no Aeroporto.
 
@@ -164,11 +177,11 @@ O Estado Português, através do órgão competente, cooperará, na medida das s
 
 4. No desempenho da sua missão, o representante da Direcção-Geral da Aeronáutica Civil actuará em ligação com a autoridade diplomática de Portugal.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Os diferendos relacionados com a interpretação ou com a aplicação deste Acordo serão decididos nos termos do Acordo Geral de Cooperação e Amizade.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. O presente Acordo entra em vigor no dia 1 de Janeiro de 1976, podendo, por acordo das Partes Contratantes, ser revisto.
 

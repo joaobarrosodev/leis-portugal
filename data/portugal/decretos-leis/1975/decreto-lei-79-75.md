@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/04500/02850286.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1975-160144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 331f9d539c78f903c7c6d780d0206cec29fd9455322583cc7f826d762b0d00c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8acc6de423b3eace0e1501e1311a604225938e76a50c6389abc5f657c8070285
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda aos Sinistrados
+- Autonomia Administrativa
+- Autonomia Financeira
+- Definição de Competências
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:473774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631660:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:37Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +117,11 @@ Considerando que as disposições do presente decreto-lei vão ao encontro do ob
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Serviço Nacional de Ambulâncias (SNA), criado pelo [Decreto-Lei n.º 511/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1971-631660), de 22 de Novembro, com as alterações introduzidas pelo [Decreto-Lei n.º 447/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1974-473774), de 13 de Setembro, é dotado de personalidade jurídica e autonomia administrativa e financeira, dispondo de património próprio.
+Artigo 1.º O Serviço Nacional de Ambulâncias (SNA), criado pelo [Decreto-Lei n.º 511/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1971-631660), de 22 de Novembro, com as alterações introduzidas pelo [Decreto-Lei n.º 447/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1974-473774), de 13 de Setembro, é dotado de personalidade jurídica e autonomia administrativa e financeira, dispondo de património próprio.
 
-###### Art. 2.º A competência atribuída ao Comando-Geral da Polícia de Segurança Pública, nos termos do artigo 3.º do [Decreto-Lei n.º 447/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1974-473774), de 13 de Setembro, passa para o órgão próprio do SNA, à data da entrada em vigor do decreto que regulamenta o presente diploma.
+Art. 2.º A competência atribuída ao Comando-Geral da Polícia de Segurança Pública, nos termos do artigo 3.º do [Decreto-Lei n.º 447/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1974-473774), de 13 de Setembro, passa para o órgão próprio do SNA, à data da entrada em vigor do decreto que regulamenta o presente diploma.
 
-###### Art. 3.º - 1. Constituem receitas do SNA, além das previstas no artigo 6.º do [Decreto-Lei n.º 511/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1971-631660), de 22 de Novembro, as seguintes:
+Art. 3.º - 1. Constituem receitas do SNA, além das previstas no artigo 6.º do [Decreto-Lei n.º 511/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1971-631660), de 22 de Novembro, as seguintes:
 
 a) As doações, heranças ou legados;
 
@@ -118,7 +137,7 @@ c) Outras receitas.
 
 5. O SNA apresentará ao Ministro da Defesa Nacional, até 30 de Abril de cada ano, o relatório de actividades e as contas de gerência relativos ao ano anterior para serem submetidos, no prazo legal, a julgamento do Tribunal de Contas.
 
-###### Art. 4.º - 1. Constituem encargos do SNA todas as despesas decorrentes do funcionamento dos seus serviços e da execução, exploração, conservação e ampliação dos empreendimentos ou serviços a seu cargo.
+Art. 4.º - 1. Constituem encargos do SNA todas as despesas decorrentes do funcionamento dos seus serviços e da execução, exploração, conservação e ampliação dos empreendimentos ou serviços a seu cargo.
 
 2. Na prossecução das suas atribuições, pode ainda o SNA:
 
@@ -130,36 +149,36 @@ c) Atribuir subsídios e prémios relacionados com acções de socorrismo e prep
 
 d) Contratar com entidades nacionais ou estrangeiras a realização de estudos, pareceres ou projectos necessários à prossecução das suas atribuições.
 
-###### Art. 5.º - 1. Por decreto referendado pelo Ministro da Defesa Nacional, e também pelo Ministro das Finanças quando envolva aumento de despesas, podem ser criados, extintos ou modificados os órgãos e serviços do SNA, definidas as suas atribuições, competência, constituição e funcionamento, assim como reguladas as formas de provimento, vencimentos e outras remunerações do respectivo pessoal.
+Art. 5.º - 1. Por decreto referendado pelo Ministro da Defesa Nacional, e também pelo Ministro das Finanças quando envolva aumento de despesas, podem ser criados, extintos ou modificados os órgãos e serviços do SNA, definidas as suas atribuições, competência, constituição e funcionamento, assim como reguladas as formas de provimento, vencimentos e outras remunerações do respectivo pessoal.
 
 2. Por portaria conjunta dos Ministros da Defesa Nacional e das Finanças são fixadas as dotações em pessoal do SNA.
 
 3. Além do pessoal permanente, poderá ser contratado para prestação de serviços eventuais ou assalariado, nos termos legais e dentro das disponibilidades orçamentais respectivas, o pessoal indispensável à boa execução dos serviços que não podem ser desempenhados por pessoal dos quadros.
 
-###### Art. 6.º - 1. O pessoal civil actualmente apresentado no Ministério da Defesa Nacional, em serviço no SNA, cedido por outros Ministérios, pode ser provido, a seu requerimento, sem interrupção de funções, em lugares das suas categorias actuais ou equivalentes às desempenhadas à data da sua transferência dos quadros donde é oriundo, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
+Art. 6.º - 1. O pessoal civil actualmente apresentado no Ministério da Defesa Nacional, em serviço no SNA, cedido por outros Ministérios, pode ser provido, a seu requerimento, sem interrupção de funções, em lugares das suas categorias actuais ou equivalentes às desempenhadas à data da sua transferência dos quadros donde é oriundo, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
 
 2. O pessoal actualmente em regime de prestação eventual de serviço será provido, independentemente de concurso e limite máximo de idade, em lugares equivalentes do quadro, desde que preencha as condições de nomeação a estabelecer no diploma regulamentar.
 
 3. Ao pessoal a transferir para o SNA, nos termos dos números anteriores, será contado, para todos os efeitos legais, o tempo de serviço anteriormente prestado, qualquer que tenha sido a sua situação.
 
-###### Art. 7.º - 1. O pessoal militar prestando serviço no SNA é considerado em comissão civil, com direito a optar pelo vencimento correspondente ao cargo que desempenhar ou ao soldo ou à pensão de reserva a que tiver direito.
+Art. 7.º - 1. O pessoal militar prestando serviço no SNA é considerado em comissão civil, com direito a optar pelo vencimento correspondente ao cargo que desempenhar ou ao soldo ou à pensão de reserva a que tiver direito.
 
 2. O pessoal civil de outros quadros pode prestar serviço no SNA em regime de comissão de serviço.
 
-###### Art. 8.º O primeiro provimento dos lugares previstos nos quadros iniciais do SNA será feito por escolha do Ministro da Defesa Nacional.
+Art. 8.º O primeiro provimento dos lugares previstos nos quadros iniciais do SNA será feito por escolha do Ministro da Defesa Nacional.
 
-###### Art. 9.º O SNA celebrará acordos com os serviços sociais de outro organismo estadual a fim de o seu pessoal usufruir dos respectivos benefícios.
+Art. 9.º O SNA celebrará acordos com os serviços sociais de outro organismo estadual a fim de o seu pessoal usufruir dos respectivos benefícios.
 
-###### Art. 10.º As dúvidas que surgirem na interpretação do presente decreto-lei serão resolvidas por despacho do Ministro da Defesa Nacional.
+Art. 10.º As dúvidas que surgirem na interpretação do presente decreto-lei serão resolvidas por despacho do Ministro da Defesa Nacional.
 
-###### Art. 11.º Mantêm-se em vigor as disposições dos Decretos-Leis n.os [511/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1971-631660), de 22 de Novembro, e [447/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1974-473774), de 13 de Setembro, que não forem prejudicadas pelo presente diploma.
+Art. 11.º Mantêm-se em vigor as disposições dos Decretos-Leis n.os [511/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1971-631660), de 22 de Novembro, e [447/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1974-473774), de 13 de Setembro, que não forem prejudicadas pelo presente diploma.
 
-###### Art. 12.º O presente diploma entra imediatamente em vigor.
+Art. 12.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - José da Silva Lopes.
 
-**Promulgado em 14 de Fevereiro de 1975.**
+Promulgado em 14 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

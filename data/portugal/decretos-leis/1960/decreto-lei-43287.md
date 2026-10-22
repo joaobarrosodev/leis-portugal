@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43287-1960-514428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f553a0f4d3e37b1d60f8c01c907adddd53e4272b04eae5f6a671557cb9f56825
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c17440a92a6ae781ae17781aadef550bf53644fc83491f8e3885dac34bf326b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agricultura
+- Águas Subterrâneas
+- Direcção Geral dos Serviços Hidráulicos
+relationships:
+- type: cites
+  target: pt:dre:561186:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:14Z'
   warnings: []
   errors: []
 ---
@@ -91,28 +98,28 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a realizar, com o material de sondagens que lhe está atribuído, pesquisas e captações de águas subterrâneas para fins exclusivamente agrícolas que lhe sejam requeridos:
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a realizar, com o material de sondagens que lhe está atribuído, pesquisas e captações de águas subterrâneas para fins exclusivamente agrícolas que lhe sejam requeridos:
 
 a) Por outros departamentos do Estado, pelos corpos administrativos e pessoas colectivas de utilidade pública administrativa;
 
 b) Por associados dos grémios da lavoura, por intermédio destes.
 
-###### Art. 2.º Os trabalhos serão feitos sob inteira e exclusiva direcção do serviço competente da Direcção-Geral dos Serviços Hidráulicos, sendo vedado aos interessados interferir neles.
+Art. 2.º Os trabalhos serão feitos sob inteira e exclusiva direcção do serviço competente da Direcção-Geral dos Serviços Hidráulicos, sendo vedado aos interessados interferir neles.
 
-###### Art. 3.º Serão de conta das entidades a quem os serviços forem prestados todas as despesas com o transporte do material na ida e no regresso, o transporte do pessoal especializado, seus vencimentos, salários, abono de família, ajudas de custo e subsídios de marcha, os salários e abono de família do pessoal jornaleiro, os combustíveis e lubrificantes e, bem assim, todo o material que seja incorporado nos furos e nas captações e o de uso corrente que se inutilize no serviço.
+Art. 3.º Serão de conta das entidades a quem os serviços forem prestados todas as despesas com o transporte do material na ida e no regresso, o transporte do pessoal especializado, seus vencimentos, salários, abono de família, ajudas de custo e subsídios de marcha, os salários e abono de família do pessoal jornaleiro, os combustíveis e lubrificantes e, bem assim, todo o material que seja incorporado nos furos e nas captações e o de uso corrente que se inutilize no serviço.
 
 § único. Exceptuam-se as despesas resultantes das avarias no material, da perda ou quebra de ferramentas e do seu desgaste e o custo da tubagem que for retirada dos furos.
 
-###### Art. 4.º As despesas referidas no corpo do artigo anterior são acrescidas da percentagem de 30 por cento, a qual constituirá o fundo de conservação e renovação do material de sondagens hidrogeológicas e será depositada na Caixa Geral de Depósitos, Crédito e Previdência à ordem da Direcção-Geral dos Serviços Hidráulicos.
+Art. 4.º As despesas referidas no corpo do artigo anterior são acrescidas da percentagem de 30 por cento, a qual constituirá o fundo de conservação e renovação do material de sondagens hidrogeológicas e será depositada na Caixa Geral de Depósitos, Crédito e Previdência à ordem da Direcção-Geral dos Serviços Hidráulicos.
 
 § 1.º Os depósitos que constituem o fundo de conservação e renovação destinam-se exclusivamente a beneficiar e substituir o equipamento a que se refere o presente diploma, depreciado com o uso ou com o progresso da técnica.
 
 § 2.º A utilização das importâncias depositadas neste fundo será feita através do Orçamento Geral do Estado, devendo a Direcção-Geral dos Serviços Hidráulicos entregar nos cofres públicos, como reembolso, a quantia a aplicar, para servir de contrapartida a dotação de igual montante a inscrever no respectivo orçamento de despesas consignado à mesma Direcção-Geral.
 
-###### Art. 5.º Para ocorrer às despesas referidas nos artigos 3.º e 4.º as entidades interessadas depositarão prèviamente nos cofres do Tesouro as importâncias computadas necessárias pela Direcção-Geral dos Serviços Hidráulicos, à qual compete processar as respectivas guias de operações de tesouraria e a elaboração das contas correntes com aquelas entidades, que lhe remeterão para este efeito um exemplar das referidas guias tendo averbado o pagamento.
+Art. 5.º Para ocorrer às despesas referidas nos artigos 3.º e 4.º as entidades interessadas depositarão prèviamente nos cofres do Tesouro as importâncias computadas necessárias pela Direcção-Geral dos Serviços Hidráulicos, à qual compete processar as respectivas guias de operações de tesouraria e a elaboração das contas correntes com aquelas entidades, que lhe remeterão para este efeito um exemplar das referidas guias tendo averbado o pagamento.
 
-###### Art. 6.º As verbas necessárias para satisfação de todas as despesas motivadas pela manutenção, conservação e renovação do material serão inscritas no orçamento de despesa do Ministério das Obras Públicas, no capítulo relativo à Direcção-Geral dos Serviços Hidráulicos.
+Art. 6.º As verbas necessárias para satisfação de todas as despesas motivadas pela manutenção, conservação e renovação do material serão inscritas no orçamento de despesa do Ministério das Obras Públicas, no capítulo relativo à Direcção-Geral dos Serviços Hidráulicos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

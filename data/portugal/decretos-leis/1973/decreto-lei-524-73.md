@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1973-412230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbb674fa5670ad621b5544e465a9468165440e0e35170f0291ce5a723aafcfa3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83101d1409f602469e7caa51fcc3df96d4016d5dd730526b13400cd6f40bc75e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Preparatório
+- Isenção de Propinas
+- Pagamento
+relationships:
+- type: cites
+  target: pt:dre:421823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675790:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:37Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +112,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A frequência do ensino preparatório é gratuita.
+Artigo 1.º - 1. A frequência do ensino preparatório é gratuita.
 
 2. Enquanto não estiver generalizado o ensino preparatório de quatro anos, é também gratuita a frequência dos dois primeiros anos subsequentes do actual ciclo preparatório do ensino secundário, nos ramos de ensino liceal e técnico.
 
-###### Art. 2.º É concedida isenção de propinas aos agentes de ensino que se matriculem em cursos de ensino superior ou outros cursos de aperfeiçoamento de acordo com planos aprovados pelo Ministro da Educação Nacional.
+Art. 2.º É concedida isenção de propinas aos agentes de ensino que se matriculem em cursos de ensino superior ou outros cursos de aperfeiçoamento de acordo com planos aprovados pelo Ministro da Educação Nacional.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 27 de Setembro de 1973.**
+Promulgado em 27 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

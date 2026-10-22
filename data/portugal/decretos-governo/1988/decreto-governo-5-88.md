@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/5-1988-284762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d05850a70277f10220e5fb62565605e2a793d78adff02410681beba8f0da422d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86cd0f9625c80f753deeba3a9bb773c82638f9a3a56dea30ed13e5aa544bac37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Europa
+- Genebra
+- Poluição Transfronteiriça
+- Portugal
+- Proteção do Ambiente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:31Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +94,19 @@ de 9 de Abril
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiras a Longa Distância Relativo ao Financiamento a Longo Prazo do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa (EMEP), cujo texto original em francês e a respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para adesão, o Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiras a Longa Distância Relativo ao Financiamento a Longo Prazo do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa (EMEP), cujo texto original em francês e a respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 14 de Março de 1988.**
+Assinado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLE À LA CONVENTION DE 1979 SUR LA POLLUTION ATMOSPHÉRIQUE E TRANSFRONTIÈRE À LONGUE DISTANCE RELATIF AU FINANCEMENT À LONG TERME DU PROGRAMME CONCERTÉ DE SURVEILLANCE CONTINUE ET D'ÉVALUATION DU TRANSPORT À LONGUE DISTANCE DES POLLUANTS ATMOSPHÉRIQUES EN EUROPE (EMEP).
 
@@ -348,7 +354,7 @@ Tendo em conta os elementos a considerar na elaboração de um instrumento ofici
 
 acordam o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Definições
 
@@ -364,13 +370,13 @@ Para os fins do presente Protocolo:
 
 (nota a) Estes centros internacionais são actualmente o Centro de Coordenação de Produtos Químicos, o Centro de Síntese Meteorológico Este e o Centro de Síntese Meteorológico Oeste.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Financiamento do EMEP
 
 Os recursos do EMEP cobrem as despesas anuais dos centros internacionais cooperantes no quadro do EMEP nas actividades inscritas no programa de trabalho do órgão director do EMEP.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Contribuições
 
@@ -384,7 +390,7 @@ Contribuições
 
 5 - As contribuições em espécie - obrigatórias ou voluntárias - são depositadas no fundo geral de afectação especial.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Repartição de despesas
 
@@ -400,13 +406,13 @@ c) Seis anos após a entrada em vigor do presente Protocolo ou, se for posterior
 
 3 - As alterações ao anexo são adoptadas por consenso pelo órgão executivo.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Orçamento anual
 
 O orçamento anual do EMEP é fixado pelo órgão director do EMEP e adoptado pelo órgão executivo no mínimo um ano antes do início do exercício financeiro a que corresponde.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Alteração ao Protocolo
 
@@ -416,13 +422,13 @@ Alteração ao Protocolo
 
 3 - Uma alteração ao presente Protocolo, que não uma alteração ao seu anexo, poderá ser adoptada por consenso pelos representantes das Partes Contratantes do Protocolo e entrará em vigor, para as Partes Contratantes do Protocolo que as aceitarem, 90 dias depois da data em que dois terços dessas Partes Contratantes tenham depositado o seu instrumento de aceitação junto do depositário. A alteração entrará em vigor para todas as outras Partes Contratantes 90 dias depois da data em que cada Parte Contratante depositar o seu instrumento de aceitação da alteração.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Resolução dos diferendos
 
 Se surgir um diferendo entre duas ou mais Partes Contratantes do presente Protocolo quanto à interpretação ou aplicação do Protocolo, essas Partes procurarão uma solução por negociação ou por qualquer outro método de decisão por elas julgado aceitável.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Assinatura
 
@@ -430,7 +436,7 @@ Assinatura
 
 2 - Tratando-se de assuntos da sua competência, as organizações de integração económica regional mencionadas podem, por si próprias, exercer os direitos e assumir as responsabilidades que o presente Protocolo confere aos seus Estados membros. Nestes casos, os Estados membros destas organizações não estarão habilitados a exercer esses direitos individualmente.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Rectificação, aceitação, aprovação e adesão
 
@@ -440,7 +446,7 @@ Rectificação, aceitação, aprovação e adesão
 
 3 - Os instrumentos de ratificação, aceitação, aprovação ou adesão serão depositados junto do Secretário-Geral da Organização das Nações Unidas, que exercerá as funções de depositário.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Entrada em vigor
 
@@ -452,7 +458,7 @@ b) O total das quotas-partes ONU desses Estados e organizações exceda 40%.
 
 2 - Para cada Estado e organização mencionados no n.º 1 do artigo 8.º que ratifique, aceite ou aprove o presente Protocolo ou adira logo que as condições referidas na alínea a) do n.º 1 deste artigo estejam satisfeitas, o Protocolo entrará em vigor no nonagésimo dia a contar da data do depósito, efectuado pelo referido Estado ou organização, do instrumento de ratificação, aceitação, aprovação ou adesão.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Denúncia
 
@@ -460,7 +466,7 @@ Denúncia
 
 2 - As obrigações financeiras da Parte que denuncia o Protocolo mantêm-se inalteráveis até que a denúncia produza efeitos.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Textos autênticos
 
@@ -472,7 +478,7 @@ Feito em Genebra aos 28 dias do mês de Setembro do ano de 1984.
 
 ## ANEXO
 
-## Anexo referido no artigo 4.º do Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiras a Longa Distância Relativo ao Financiamento a Longo Prazo do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa (EMEP).
+Anexo referido no artigo 4.º do Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiras a Longa Distância Relativo ao Financiamento a Longo Prazo do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa (EMEP).
 
 As contribuições obrigatórias para a repartição das despesas do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa (EMEP) são calculados segundo a seguinte tabela:
 

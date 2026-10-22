@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1970-225777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abed7513a5e8cbc63ceb1937e3b2f452be60538414045f074a3cc39311ba8c06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 509371e86135f1bb90ae12a209a98e3d318ad203a34baeb2eafa8967b274183b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Delegado do Governo
+- Empresa
+- Empresa Participada
+- Mandato
+- Pessoal Dirigente
+- Sociedades
+relationships:
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:53Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +105,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O mandato dos administradores por parte do Estado, nomeados nos termos do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, terá sempre a duração de três anos, contados desde o dia imediato ao da primeira assembleia geral ordinária das respectivas sociedades que se seguir à nomeação até ao dia em que se realizar a assembleia geral ordinária no último ano do triénio.
+Artigo 1.º - 1. O mandato dos administradores por parte do Estado, nomeados nos termos do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, terá sempre a duração de três anos, contados desde o dia imediato ao da primeira assembleia geral ordinária das respectivas sociedades que se seguir à nomeação até ao dia em que se realizar a assembleia geral ordinária no último ano do triénio.
 
 2. Quando se trate de nomeações para substituição de administradores antes do termo normal do mandato ou para preenchimento de lugares vagos, o mandato abrangerá também o período que decorrer desde a data da publicação do correspondente despacho no Diário do Governo até à primeira assembleia geral ordinária que se efectuar.
 
-###### Art. 2.º Aos administradores por parte do Estado aplica-se o preceituado na [Lei n.º 2105](https://diariodarepublica.pt/dr/detalhe/lei/2105-1960-503782), de 6 de Junho de 1960, mesmo que sejam designados para a administração de empresas excluídas da aplicação desse diploma por força de lei ou de contrato aprovado por lei.
+Art. 2.º Aos administradores por parte do Estado aplica-se o preceituado na [Lei n.º 2105](https://diariodarepublica.pt/dr/detalhe/lei/2105-1960-503782), de 6 de Junho de 1960, mesmo que sejam designados para a administração de empresas excluídas da aplicação desse diploma por força de lei ou de contrato aprovado por lei.
 
-###### Art. 3.º (transitório) - 1. Os administradores por parte do Estado nomeados há mais de três anos, contados até à data do início da vigência deste diploma, cessarão funções:
+Art. 3.º (transitório) - 1. Os administradores por parte do Estado nomeados há mais de três anos, contados até à data do início da vigência deste diploma, cessarão funções:
 
 a) Se até àquela data ainda não se tiver efectuado a assembleia geral ordinária de 1970, no dia da realização dela;
 
@@ -105,15 +119,15 @@ b) Em caso contrário, no dia 30 de Abril de 1970.
 
 2. Os administradores nomeados há menos de três anos, contados até ao início da vigência deste diploma, cessarão funções no dia da primeira assembleia geral ordinária que se realizar após a data em que perfizerem o triénio.
 
-###### Art. 4.º A recondução dos administradores por parte do Estado depende sempre de deliberação expressa da entidade competente.
+Art. 4.º A recondução dos administradores por parte do Estado depende sempre de deliberação expressa da entidade competente.
 
-###### Art. 5.º Este decreto-lei entra imediatamente em vigor.
+Art. 5.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

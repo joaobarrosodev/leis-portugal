@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/431-1971-633508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f5b625d444e010533f2d3cbb54a84bb870acd33f9b35621789848a325ce2d08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff6823c5e00e522be325663ef8c54f8675a8b7bfb9a89d651e2af3afdcdd5747
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:31Z'
   warnings: []
   errors: []
 ---
@@ -95,36 +95,36 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Na comarca de Sotavento é criado um lugar de delegado do procurador da República, além do actualmente existente.
+Artigo 1.º Na comarca de Sotavento é criado um lugar de delegado do procurador da República, além do actualmente existente.
 
-###### Art. 2.º - 1. O serviço de processos de cada delegado é o correspondente à distribuição que tiver sido feita pelos dois ofícios do cartório, competindo o do primeiro ofício ao mais antigo na comarca e o do segundo ofício ao mais moderno.
+Art. 2.º - 1. O serviço de processos de cada delegado é o correspondente à distribuição que tiver sido feita pelos dois ofícios do cartório, competindo o do primeiro ofício ao mais antigo na comarca e o do segundo ofício ao mais moderno.
 
 2. Os processos crimes ou de outra jurisdição afecta à competência do tribunal, instaurados mediante participação ou auto de notícia levantado por um dos delegados do procurador da República em exercício, não terão distribuição, carregando-se por certeza ao ofício respectivo.
 
 3. O serviço correspondente à propositura e seguimento das acções do Estado ou dos corpos administrativos compete ao delegado que tiver a seu cargo o serviço de consulta jurídica do Governo.
 
-###### Art. 3.º O serviço de consulta jurídica do Governo incumbe ao delegado mais antigo no quadro, sem prejuízo nas questões mais complexas de poder ser também ouvido o outro delegado, sempre que assim for entendido, para mais perfeito esclarecimento da decisão a tomar.
+Art. 3.º O serviço de consulta jurídica do Governo incumbe ao delegado mais antigo no quadro, sem prejuízo nas questões mais complexas de poder ser também ouvido o outro delegado, sempre que assim for entendido, para mais perfeito esclarecimento da decisão a tomar.
 
-###### Art. 4.º São inerências do delegado mais antigo no quadro as de vogal do Conselho do Governo, director das cadeias central e comarcã, presidente do Conselho Disciplinar Central, representante do Ministério Público junto do Tribunal Administrativo e vogal do Conselho Legislativo, incumbindo ao mais moderno as de director do Arquivo Provincial do Registo Criminal e Policial, presidente da Comissão de Assistência Judiciária, vogal do Conselho Criminal, vogal do Conselho dos Transportes Terrestres, vogal do Cofre Geral de Justiça e vogal da Caixa de Crédito.
+Art. 4.º São inerências do delegado mais antigo no quadro as de vogal do Conselho do Governo, director das cadeias central e comarcã, presidente do Conselho Disciplinar Central, representante do Ministério Público junto do Tribunal Administrativo e vogal do Conselho Legislativo, incumbindo ao mais moderno as de director do Arquivo Provincial do Registo Criminal e Policial, presidente da Comissão de Assistência Judiciária, vogal do Conselho Criminal, vogal do Conselho dos Transportes Terrestres, vogal do Cofre Geral de Justiça e vogal da Caixa de Crédito.
 
-###### Art. 5 .º - 1. Nas suas ausências e impedimentos, os delegados da comarca de Sotavento substituem-se recìprocamente, em acumulação com as funções próprias.
+Art. 5 .º - 1. Nas suas ausências e impedimentos, os delegados da comarca de Sotavento substituem-se recìprocamente, em acumulação com as funções próprias.
 
 2. Na falta de provimento de um dos lugares de delegado, pode o Ministro do Ultramar autorizar, por despacho e mediante proposta do Governo da província, que as suas funções sejam transitòriamente desempenhadas por um delegado do procurador da República colocado na situação a que se refere o artigo 94.º do Estatuto do Funcionalismo Ultramarino, que se encontre na sede da comarca com carácter permanente.
 
 3. No caso do número anterior, o delegado nomeado por despacho terá direito à remuneração correspondente ao exercício de funções por acumulação.
 
-###### Art. 6.º A comarca de Barlavento é, para todos os efeitos, elevada à 1ª classe.
+Art. 6.º A comarca de Barlavento é, para todos os efeitos, elevada à 1ª classe.
 
-###### Art. 7.º O sistema de duplo delegado instituído por este diploma pode ser alargado a outras comarcas, mediante portaria do Ministro do Ultramar, à medida que as conveniências do serviço o forem justificando.
+Art. 7.º O sistema de duplo delegado instituído por este diploma pode ser alargado a outras comarcas, mediante portaria do Ministro do Ultramar, à medida que as conveniências do serviço o forem justificando.
 
-###### Art. 8.º Os encargos criados pelo presente diploma serão cobertos por dotação ou reforço de verbas, logo que para tanto na província se verifiquem as correspondentes disponibilidades orçamentais.
+Art. 8.º Os encargos criados pelo presente diploma serão cobertos por dotação ou reforço de verbas, logo que para tanto na província se verifiquem as correspondentes disponibilidades orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Setembro de 1971.**
+Promulgado em 24 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

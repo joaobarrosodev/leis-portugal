@@ -47,40 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6749a21070801d8824798a1731d56b78ccda2674d1ddddf561df9bd3874c23c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5a6245d69001c63176fe6c27550e53f005932005a8c853d3003f6f945b97d8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Criação de Serviços
+- Definição de Competências
+- Directoria da Polícia Judiciária
+- Estado Português da Índia
+- Formas de Provimento
+- Gestão Administrativa
+- Gestão Financeira
+- Governador
+- Inspecção da Polícia Judiciária
+- Macau.Colónia Portuguesa
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Pessoal Dirigente
+- Polícia Judiciária
+- Procurador da República
+- PSP
+- Recrutamento de Pessoal
+- Substituição de Funções
+- Transferência de Pessoal
+- Tribunal de Polícia
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:560177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633500:por
+  label: "Elevada para Sudirectoria a Inspecção da Polícia Judiciária de Macau criada neste diploma pelo DEC LEI.430/71.12.10.1971.MU,\
+    \ DG.IS [240] de 12.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1971-633500
+  date: '1971-10-12'
+- type: cites
+  target: pt:dre:303870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638086:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:513826:por
+  label: "Rectificados os arts. 7º e 15º pela RECT.DD700.20.10.1960.PC, DG.IS [244] de 20.10.1960\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1960-513826
+  date: '1960-10-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:19Z'
   warnings: []
   errors: []
 ---
@@ -95,41 +148,41 @@ Sendo urgente a criação, em Luanda, Lourenço Marques e Macau, de tribunais de
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São tornados extensivos ao ultramar, na parte aplicável, os Decretos-Leis n.os 35042, de 20 de Outubro de 1945, 36288, de 19 de Maio de 1947, 39351, de 7 de Setembro de 1953, e 39757, de 13 de Agosto de 1954, na sua actual redacção e com as alterações constantes deste diploma.
+Artigo 1.º São tornados extensivos ao ultramar, na parte aplicável, os Decretos-Leis n.os 35042, de 20 de Outubro de 1945, 36288, de 19 de Maio de 1947, 39351, de 7 de Setembro de 1953, e 39757, de 13 de Agosto de 1954, na sua actual redacção e com as alterações constantes deste diploma.
 
-###### Art. 2.º 1. Ao Ministro do Ultramar compete a superintendência e a orientação superior da acção da Polícia Judiciária do ultramar, que na metrópole pertencem ao Ministro da Justiça e ao procurador-geral da República.
+Art. 2.º 1. Ao Ministro do Ultramar compete a superintendência e a orientação superior da acção da Polícia Judiciária do ultramar, que na metrópole pertencem ao Ministro da Justiça e ao procurador-geral da República.
 
 2. A competência referida no número anterior será exercida por intermédio dos serviços de justiça do Ministério do Ultramar.
 
-###### Art. 3.º A Polícia Judiciária do ultramar é um organismo auxiliar do Ministério Público e está sujeita à orientação e fiscalização directas dos procuradores da República.
+Art. 3.º A Polícia Judiciária do ultramar é um organismo auxiliar do Ministério Público e está sujeita à orientação e fiscalização directas dos procuradores da República.
 
-###### Art. 4.º 1. São criadas directorias da Polícia Judiciária em Luanda, Lourenço Marques e Goa, dirigidas por ajudantes do procurador da República, e uma inspecção em Macau, dirigida por um inspector adjunto.
+Art. 4.º 1. São criadas directorias da Polícia Judiciária em Luanda, Lourenço Marques e Goa, dirigidas por ajudantes do procurador da República, e uma inspecção em Macau, dirigida por um inspector adjunto.
 
 2. São criadas subinspecções da Polícia Judiciária nos distritos de Benguela e de Manica e Sofala, dirigidas por subinspectores, dependentes das directorias das respectivas províncias.
 
-###### Art. 5.º O Ministro do Ultramar poderá, por portaria, criar nas capitais das províncias de governo simples e nas sedes dos distritos administrativos das províncias de governo-geral as subinspecções que forem necessárias.
+Art. 5.º O Ministro do Ultramar poderá, por portaria, criar nas capitais das províncias de governo simples e nas sedes dos distritos administrativos das províncias de governo-geral as subinspecções que forem necessárias.
 
-###### Art. 6.º As directorias, inspecções e as subinspecções com sede nas capitais das províncias de governo simples poderão corresponder-se directamente, em assuntos de natureza técnica, com a Directoria da Polícia Judiciária da metrópole.
+Art. 6.º As directorias, inspecções e as subinspecções com sede nas capitais das províncias de governo simples poderão corresponder-se directamente, em assuntos de natureza técnica, com a Directoria da Polícia Judiciária da metrópole.
 
-###### Art. 7.º A Polícia Judiciária e o Ministério Público poderão requisitar as diligências ou exames que caibam na competência do Laboratório da Polícia Científica, que funciona na Directoria da Polícia Judiciária da metrópole, respectivamente por intermédio da referida Directoria e dos procuradores da República, no regime que for definido por despacho do Ministro da Justiça.
+Art. 7.º A Polícia Judiciária e o Ministério Público poderão requisitar as diligências ou exames que caibam na competência do Laboratório da Polícia Científica, que funciona na Directoria da Polícia Judiciária da metrópole, respectivamente por intermédio da referida Directoria e dos procuradores da República, no regime que for definido por despacho do Ministro da Justiça.
 
 § único. As mesmas entidades poderão solicitar a colaboração de quaisquer outros estabelecimentos ou laboratórios da especialidade, públicos ou privados.
 
-###### Art. 8.º Compete à Polícia Judiciária proceder à instrução preparatória nas comarcas de Luanda, Lourenço Marques e Macau e ainda, nas duas primeiras, à instrução das questões gentílicas, ressalvada a competência que por lei pertença a outras entidades para certas categorias de crimes.
+Art. 8.º Compete à Polícia Judiciária proceder à instrução preparatória nas comarcas de Luanda, Lourenço Marques e Macau e ainda, nas duas primeiras, à instrução das questões gentílicas, ressalvada a competência que por lei pertença a outras entidades para certas categorias de crimes.
 
-###### Art. 9.º 1. Os directores da Polícia Judiciária em Luanda e Lourenço Marques têm as atribuições que na metrópole pertencem aos directores, subdirectores e inspectores adjuntos e o de Goa, ainda, as que pertencem aos inspectores. O inspector adjunto de Macau exerce cumulativamente as funções que cabem aos subdirectores e aos inspectores.
+Art. 9.º 1. Os directores da Polícia Judiciária em Luanda e Lourenço Marques têm as atribuições que na metrópole pertencem aos directores, subdirectores e inspectores adjuntos e o de Goa, ainda, as que pertencem aos inspectores. O inspector adjunto de Macau exerce cumulativamente as funções que cabem aos subdirectores e aos inspectores.
 
 2. Aos ajudantes referidos no número anterior compete exercer sobre o pessoal das províncias onde têm sede as atribuições que competem aos directores de serviço. O inspector adjunto exercerá sobre o pessoal da respectiva província as atribuições dos chefes de repartição provincial.
 
 3. Os subinspectores têm a competência e as atribuições que na metrópole pertencem aos subinspectores das brigadas com sede nas capitais de distrito.
 
-###### Art. 10.º 1. Os ajudantes do procurador da República que dirijam as directorias e os inspectores adjuntos serão substituídos pelos magistrados do Ministério Público que o procurador designar; na falta destes serão substituídos por quem os governadores designarem.
+Art. 10.º 1. Os ajudantes do procurador da República que dirijam as directorias e os inspectores adjuntos serão substituídos pelos magistrados do Ministério Público que o procurador designar; na falta destes serão substituídos por quem os governadores designarem.
 
 2. Nas províncias de Angola, Moçambique e Macau os ajudantes e o inspector adjunto serão substituídos nas suas funções de juízes do tribunal de polícia pelo magistrado do Ministério Público ou conservador que o presidente da Relação designar, ouvido o procurador da República, ou ainda por qualquer substituto do juiz de direito, igualmente designado pelo presidente da Relação.
 
 3. Os subinspectores serão substituídos pelo funcionário da subinspecção mais graduado e, em caso de igualdade de graduação, pelo mais antigo.
 
-###### Art. 11.º 1. O Ministro do Ultramar fixará, por portaria, os quadros das directorias, inspecções e subinspecções das províncias ultramarinas.
+Art. 11.º 1. O Ministro do Ultramar fixará, por portaria, os quadros das directorias, inspecções e subinspecções das províncias ultramarinas.
 
 2. Quando as necessidades de serviço o impuserem poderá ser admitido, por despacho do Ministro do Ultramar, o pessoal extraordinário que for julgado indispensável, e bem assim ser deslocado, em comissão eventual, de uma para outra província ultramarina, o pessoal que se tornar necessário.
 
@@ -139,13 +192,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Poderão ser contratados, além do quadro, pelos governadores das províncias, os agentes auxiliares de qualquer classe que forem indispensáveis.
 
-###### Art. 12.º 1. Aos funcionários da Polícia Judiciária do ultramar de categoria igual ou superior a inspector são aplicáveis as disposições relativas à classificação de serviço e disciplina que vigoram para os magistrados do Ministério Público do ultramar.
+Art. 12.º 1. Aos funcionários da Polícia Judiciária do ultramar de categoria igual ou superior a inspector são aplicáveis as disposições relativas à classificação de serviço e disciplina que vigoram para os magistrados do Ministério Público do ultramar.
 
 2. Os restantes funcionários ficam sujeitos ao regime geral de disciplina aplicável aos funcionários civis do ultramar.
 
-###### Art. 13.º As inspecções ordinárias aos serviços ultramarinos da Polícia Judiciária serão efectuadas pelos inspectores superiores dos serviços de justiça do Ministério do Ultramar.
+Art. 13.º As inspecções ordinárias aos serviços ultramarinos da Polícia Judiciária serão efectuadas pelos inspectores superiores dos serviços de justiça do Ministério do Ultramar.
 
-###### Art. 14.º 1. O [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989) aplicar-se-á com as alterações constantes dos números seguintes:
+Art. 14.º 1. O [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989) aplicar-se-á com as alterações constantes dos números seguintes:
 
 2. Compete aos governadores das províncias autorizar, sob informação dos ajudantes ou inspectores adjuntos, que sejam destacados agentes da Polícia Judiciária para serviço permanente junto das entidades referidas no artigo 67.º, desde que não importe alteração de quadros.
 
@@ -165,29 +218,29 @@ c) Autorizar ou ordenar que seja deferida à Polícia Judiciária a competência
 
 7. As importâncias devidas na metrópole ao Cofre Geral dos Tribunais darão no ultramar entrada nos cofres da Fazenda Nacional, enquanto não for, por diploma legal, criado o cofre privativo da Polícia Judiciária.
 
-###### Art. 15.º Os procuradores da República poderão autorizar que sejam destacados agentes da Polícia Judiciária para procederem a determinadas investigações, ou por certos períodos, para junto da delegação da Procuradoria da República.
+Art. 15.º Os procuradores da República poderão autorizar que sejam destacados agentes da Polícia Judiciária para procederem a determinadas investigações, ou por certos períodos, para junto da delegação da Procuradoria da República.
 
-###### Art. 16.º 1. Nas Directorias de Luanda e Lourenço Marques e na inspecção de Macau funcionará um tribunal de polícia, presidido nas duas primeiras pelos ajudantes que dirigirem as directorias e na última pelo inspector adjunto, com competência para julgar as infracções a que corresponda processo de transgressão ou sumário e, quanto às duas primeiras, as transgressões cometidas por indígenas cujo julgamento pertença aos tribunais comuns.
+Art. 16.º 1. Nas Directorias de Luanda e Lourenço Marques e na inspecção de Macau funcionará um tribunal de polícia, presidido nas duas primeiras pelos ajudantes que dirigirem as directorias e na última pelo inspector adjunto, com competência para julgar as infracções a que corresponda processo de transgressão ou sumário e, quanto às duas primeiras, as transgressões cometidas por indígenas cujo julgamento pertença aos tribunais comuns.
 
 2. Nos tribunais de polícia não haverá férias judiciais.
 
-###### Art. 17.º 1. Nos Tribunais de Polícia de Luanda e Lourenço Marques o Ministério Público será representado pelo magistrado do Ministério Público ou funcionário licenciado em Direito dependente da Procuradoria-Geral da República que o procurador, anualmente, designar.
+Art. 17.º 1. Nos Tribunais de Polícia de Luanda e Lourenço Marques o Ministério Público será representado pelo magistrado do Ministério Público ou funcionário licenciado em Direito dependente da Procuradoria-Geral da República que o procurador, anualmente, designar.
 
 2. No Tribunal de Polícia de Macau o Ministério Público será representado por pessoa idónea, nomeada anualmente pelo governador, sob proposta do delegado do procurador da República.
 
 3. Nos mesmos tribunais, servirá de escrivão o chefe da secretaria da directoria ou inspecção e de oficial de diligências o agente de 2.ª classe ou auxiliar que o ajudante ou inspector adjunto designar.
 
-###### Art. 18.º Os ajudantes do procurador da República a que se refere este diploma serão nomeados nos mesmos termos em que o são os actuais ajudantes do ultramar, pertencendo ao Ministro do Ultramar a designação dos que hão-de dirigir a Polícia Judiciária.
+Art. 18.º Os ajudantes do procurador da República a que se refere este diploma serão nomeados nos mesmos termos em que o são os actuais ajudantes do ultramar, pertencendo ao Ministro do Ultramar a designação dos que hão-de dirigir a Polícia Judiciária.
 
-###### Art. 19.º 1. Os lugares de inspector adjunto e de inspector serão providos por licenciados em Direito com reconhecida competência e idoneidade para o exercício do cargo, tendo preferência os que tenham exercido as funções de inspector da Polícia Judiciária da metrópole.
+Art. 19.º 1. Os lugares de inspector adjunto e de inspector serão providos por licenciados em Direito com reconhecida competência e idoneidade para o exercício do cargo, tendo preferência os que tenham exercido as funções de inspector da Polícia Judiciária da metrópole.
 
 2. Estes lugares poderão ser providos, em comissão de serviço, renovável, por magistrados do Ministério Público.
 
-###### Art. 20.º O desempenho de funções, nos serviços da Polícia Judiciária do ultramar, por magistrados, será para todos os efeitos considerado efectivo serviço judicial.
+Art. 20.º O desempenho de funções, nos serviços da Polícia Judiciária do ultramar, por magistrados, será para todos os efeitos considerado efectivo serviço judicial.
 
-###### Art. 21.º Os lugares de médico legista serão providos por contrato, por médicos habilitados com o curso superior de Medicina Legal.
+Art. 21.º Os lugares de médico legista serão providos por contrato, por médicos habilitados com o curso superior de Medicina Legal.
 
-###### Art. 22.º 1. Os lugares de subinspectores, chefes de brigada e agentes de 1.ª e 2.ª classe serão providos, por concurso, pelo pessoal de categoria imediatamente inferior ao do lugar vago.
+Art. 22.º 1. Os lugares de subinspectores, chefes de brigada e agentes de 1.ª e 2.ª classe serão providos, por concurso, pelo pessoal de categoria imediatamente inferior ao do lugar vago.
 
 2. Só serão admitidos aos concursos para chefe de brigada os agentes de 1.ª classe que tenham frequentado com aproveitamento o curso de especialização a que se refere a alínea b) do artigo 9.º do [Decreto n.º 41516](https://diariodarepublica.pt/dr/detalhe/decreto/41516-1958-303870), de 1 de Fevereiro de 1958.
 
@@ -195,45 +248,45 @@ c) Autorizar ou ordenar que seja deferida à Polícia Judiciária a competência
 
 4. Os lugares indicados no n.º 1 deste artigo poderão também ser providos, em comissão ordinária de serviço, por funcionários do quadro da Polícia Judiciária da metrópole de categoria equivalente.
 
-###### Art. 23.º Os lugares de agentes auxiliares de 1.ª classe serão providos, por contrato, por indivíduos com o 1.º ciclo dos liceus ou habilitação equivalente, que sejam aprovados em inspecção médica e exame sumário das faculdades necessárias para o exercício da função.
+Art. 23.º Os lugares de agentes auxiliares de 1.ª classe serão providos, por contrato, por indivíduos com o 1.º ciclo dos liceus ou habilitação equivalente, que sejam aprovados em inspecção médica e exame sumário das faculdades necessárias para o exercício da função.
 
-###### Art. 24.º Ao provimento dos lugares de agentes auxiliares de 2.ª classe aplicam-se as disposições reguladoras do provimento dos lugares de guardas auxiliares da Polícia de Segurança Pública das respectivas províncias.
+Art. 24.º Ao provimento dos lugares de agentes auxiliares de 2.ª classe aplicam-se as disposições reguladoras do provimento dos lugares de guardas auxiliares da Polícia de Segurança Pública das respectivas províncias.
 
-###### Art. 25.º Os lugares de agentes-motoristas serão providos por agentes auxiliares, devidamente habilitados, designados pelos ajudantes ou inspectores adjuntos.
+Art. 25.º Os lugares de agentes-motoristas serão providos por agentes auxiliares, devidamente habilitados, designados pelos ajudantes ou inspectores adjuntos.
 
-###### Art. 26.º O provimento do pessoal administrativo será feito na forma prescrita para o provimento do pessoal dependente das procuradorias da República.
+Art. 26.º O provimento do pessoal administrativo será feito na forma prescrita para o provimento do pessoal dependente das procuradorias da República.
 
-###### Art. 27.º As condições e programas dos concursos serão estabelecidos, em diploma legal, pelos governos das províncias.
+Art. 27.º As condições e programas dos concursos serão estabelecidos, em diploma legal, pelos governos das províncias.
 
-###### Art. 28.º As nomeações para lugares dos quadros da Polícia Judiciária do ultramar poderão ser definitivas se recaírem em indivíduos que já sejam funcionários públicos.
+Art. 28.º As nomeações para lugares dos quadros da Polícia Judiciária do ultramar poderão ser definitivas se recaírem em indivíduos que já sejam funcionários públicos.
 
-###### Art. 29.º Os inspectores adjuntos e os inspectores que forem delegados do procurador da República do quadro da metrópole poderão ser admitidos a concurso para juízes de direito do ultramar, nos mesmos termos em que o são os delegados nomeados ao abrigo do disposto no artigo 2.º do Decreto n.º 35567, de 30 de Março de 1946.
+Art. 29.º Os inspectores adjuntos e os inspectores que forem delegados do procurador da República do quadro da metrópole poderão ser admitidos a concurso para juízes de direito do ultramar, nos mesmos termos em que o são os delegados nomeados ao abrigo do disposto no artigo 2.º do Decreto n.º 35567, de 30 de Março de 1946.
 
-###### Art. 30.º 1. O Ministro do Ultramar poderá autorizar que os agentes de qualquer classe, chefes de brigada e subinspectores, que ainda os não possuam, frequentem os cursos de especialização a que se refere a alínea b) do artigo 9.º do [Decreto n.º 41516](https://diariodarepublica.pt/dr/detalhe/decreto/41516-1958-303870).
+Art. 30.º 1. O Ministro do Ultramar poderá autorizar que os agentes de qualquer classe, chefes de brigada e subinspectores, que ainda os não possuam, frequentem os cursos de especialização a que se refere a alínea b) do artigo 9.º do [Decreto n.º 41516](https://diariodarepublica.pt/dr/detalhe/decreto/41516-1958-303870).
 
 2. Constituem encargo do Estado as despesas de transporte dos funcionários que hajam de deslocar-se para frequentar os cursos referidos no número anterior e nos n.os 2 e 3 do artigo 22.º Estes funcionários ficarão na metrópole na situação de comissão eventual.
 
-###### Art. 31.º 1. As categorias e vencimentos do pessoal da Polícia Judiciária do ultramar são os constantes do mapa anexo a este diploma.
+Art. 31.º 1. As categorias e vencimentos do pessoal da Polícia Judiciária do ultramar são os constantes do mapa anexo a este diploma.
 
 2. As situações de comissão eventual no ultramar regem-se pela respectiva legislação, mas, mediante autorização dos Ministros da Justiça e das Finanças, o vencimento do pessoal do quadro da Polícia Judiciária da metrópole poderá continuar a ser suportado pelo orçamento correspondente.
 
 3. Os Ministros da Justiça ou do Ultramar, conforme os casos, poderão atribuir subsídios ou gratificações extraordinárias pelo desempenho de missões de particular dificuldade ou responsabilidade ou que impliquem deslocação temporária da metrópole para o ultramar ou entre províncias ultramarinas.
 
-###### Art. 32.º 1. Os ajudantes do procurador da República a que se refere este diploma têm os mesmos vencimentos, regalias e mais direitos dos actuais ajudantes.
+Art. 32.º 1. Os ajudantes do procurador da República a que se refere este diploma têm os mesmos vencimentos, regalias e mais direitos dos actuais ajudantes.
 
 2. Os inspectores adjuntos e os inspectores gozam dos mesmos direitos e regalias dos delegados do procurador da República, mas os que não forem delegados só serão admitidos aos concursos para juízes de direito do ultramar se o requererem e se tiverem cinco anos de exercício efectivo de funções, com boas informações.
 
-###### Art. 33.º Pelas funções referidas no artigo 17.º o representante do Ministério Público auferirá a gratificação mensal de 1000$00.
+Art. 33.º Pelas funções referidas no artigo 17.º o representante do Ministério Público auferirá a gratificação mensal de 1000$00.
 
-###### Art. 34.º 1. Para os efeitos do n.º 1 do artigo 4.º é criado em cada uma das Procuradorias da República de Luanda, Lourenço Marques e Goa um lugar de ajudante do procurador.
+Art. 34.º 1. Para os efeitos do n.º 1 do artigo 4.º é criado em cada uma das Procuradorias da República de Luanda, Lourenço Marques e Goa um lugar de ajudante do procurador.
 
 2. Os procuradores da República poderão delegar nos ajudantes que dirijam as directorias da Polícia Judiciária as funções directivas dos serviços do registo e identificação criminal e policial.
 
 3. Os procuradores serão substituídos pelo ajudante mais antigo, mas cabendo a substituição ao ajudante que dirija a directoria será este substituído nos termos do artigo 10.º
 
-###### Art. 35.º O Ministro do Ultramar poderá determinar, por portaria, que o inspector adjunto de Macau dirija os serviços provinciais do registo e identificação criminal e policial.
+Art. 35.º O Ministro do Ultramar poderá determinar, por portaria, que o inspector adjunto de Macau dirija os serviços provinciais do registo e identificação criminal e policial.
 
-###### Art. 36.º 1. O actual pessoal das secções de polícia de investigação criminal dos Corpos da Polícia de Segurança Pública de Angola e Moçambique transitará para os quadros das respectivas províncias da Polícia Judiciária, de harmonia com os seus actuais cargos e na forma que for determinada por despacho do governador da província.
+Art. 36.º 1. O actual pessoal das secções de polícia de investigação criminal dos Corpos da Polícia de Segurança Pública de Angola e Moçambique transitará para os quadros das respectivas províncias da Polícia Judiciária, de harmonia com os seus actuais cargos e na forma que for determinada por despacho do governador da província.
 
 2. Enquanto não for dada execução ao disposto no número anterior o pessoal nele referido manter-se-á na situação em que presentemente se encontra e continuará a ser abonado dos vencimentos que são atribuídos pela legislação actualmente em vigor.
 
@@ -263,9 +316,9 @@ c) Autorizar ou ordenar que seja deferida à Polícia Judiciária a competência
 
 9. O primeiro provimento dos lugares dos quadros privativos das províncias, ressalvadas as disposições deste artigo, poderá ser feito livremente pelos governadores.
 
-###### Art. 37.º Ficam desde já os governadores das províncias ultramarinas de Angola, Moçambique, Estado da Índia e Macau autorizados a abrir os créditos especiais necessários à execução deste decreto-lei, utilizando para esse efeito as disponibilidades orçamentais ou, na sua falta, os saldos das contas de exercícios findos.
+Art. 37.º Ficam desde já os governadores das províncias ultramarinas de Angola, Moçambique, Estado da Índia e Macau autorizados a abrir os créditos especiais necessários à execução deste decreto-lei, utilizando para esse efeito as disponibilidades orçamentais ou, na sua falta, os saldos das contas de exercícios findos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -275,6 +328,6 @@ Mapa anexo ao Decreto-Lei n.º 43125
 
 Cargos e categorias do pessoal da Polícia Judiciária do ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/08/19200/18791882.pdf))](https://files.diariodarepublica.pt/1s/1960/08/19200/18791882.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/08/19200/18791882.pdf)
 
 Ministério do Ultramar, 19 de Agosto de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.

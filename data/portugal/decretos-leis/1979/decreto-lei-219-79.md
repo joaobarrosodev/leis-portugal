@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da7413f516af7b106fbb9893ddf14e1947185668c95a35fac47258900a8bfc26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 381cdb315313a37c0e9cb13bc4489179c98fb9c551a66656d5a742ee3376b165
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Denominação de Instituição
+- Escola Preparatória
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:581982:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425556:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:06Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +107,11 @@ Considerando finalmente que a denominação de alguns estabelecimentos de ensino
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nas localidades em que exista um único estabelecimento do ensino preparatório ou um único estabelecimento do ensino secundário, este será designado pelo nome da localidade em que se situe, seguido do nome do concelho, se a localidade não for sede de concelho.
+Artigo 1.º - 1 - Nas localidades em que exista um único estabelecimento do ensino preparatório ou um único estabelecimento do ensino secundário, este será designado pelo nome da localidade em que se situe, seguido do nome do concelho, se a localidade não for sede de concelho.
 
 2 - Nas localidades em que exista mais que um estabelecimento do ensino preparatório ou mais que um estabelecimento do ensino secundário, estes serão designados pelo nome da freguesia, bairro ou zona em que se situam, seguido do nome da localidade e do nome do concelho, se a localidade não for sede de concelho.
 
-###### Art. 2.º - 1 - Para os estabelecimentos dos ensinos preparatório e secundário já criados à data da entrada em vigor do presente diploma proceder-se-á de acordo com o seguinte:
+Art. 2.º - 1 - Para os estabelecimentos dos ensinos preparatório e secundário já criados à data da entrada em vigor do presente diploma proceder-se-á de acordo com o seguinte:
 
 a) Se na localidade existir um único estabelecimento do ensino preparatório e um único estabelecimento do ensino secundário, este será designado nos termos do n.º 1 do artigo 1.º, ainda que no respectivo diploma legal de criação tenha sido atribuído nome de patrono;
 
@@ -110,11 +121,11 @@ c) Se na localidade existir mais que um estabelecimento do ensino preparatório 
 
 2 - Mantém-se o nome de patrono dos estabelecimentos dos ensinos preparatório e secundário que lhes foi atribuído no respectivo diploma legal de criação, desde que, na localidade em que se situam, exista mais que um estabelecimento do ensino preparatório e mais que um estabelecimento do ensino secundário.
 
-###### Art. 3.º Para efeitos do disposto no presente diploma, a designação de todos os estabelecimentos dos ensinos preparatório e secundário já criados à data da entrada em vigor do presente diploma passará a constar de portaria do Ministro da Educação e Investigação Científica, a publicar no prazo de noventa dias, a contar da data da publicação deste decreto-lei.
+Art. 3.º Para efeitos do disposto no presente diploma, a designação de todos os estabelecimentos dos ensinos preparatório e secundário já criados à data da entrada em vigor do presente diploma passará a constar de portaria do Ministro da Educação e Investigação Científica, a publicar no prazo de noventa dias, a contar da data da publicação deste decreto-lei.
 
-###### Art. 4.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 4.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 5.º É revogada toda a legislação contrária ao disposto no presente diploma, nomeadamente:
+Art. 5.º É revogada toda a legislação contrária ao disposto no presente diploma, nomeadamente:
 
 a) O [Decreto Regulamentar n.º 27/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1977-252267), de 13 de Maio;
 
@@ -122,8 +133,8 @@ b) Os artigos 2.º e 3.º do [Decreto-Lei n.º 80/78](https://diariodarepublica.
 
 Carlos Alberto da Mota Pinto - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 2 de Julho de 1979.**
+Promulgado em 2 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

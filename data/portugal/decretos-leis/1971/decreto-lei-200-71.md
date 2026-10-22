@@ -48,36 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1971-644533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1656a775d4ca5e16e694898bd02fdef2d19062d5e040b039d3d7c3537956e3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc1e3f21c70a4a83c1012444b08afd69cddf784dc7589ebfbd94749dba18a198
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Aproveitamento Hidroeléctrico
+- Barragem
+- Comissão
+- Convenção
+- Cooperação Transfronteira
+- Definição de Competências
+- Delegação Portuguesa
+- Descarga de ÁGUA Residual
+- Domínio Privado do Estado
+- Espanha
+- Estatuto
+- Expropriação
+- Fronteiras
+- Obras Públicas
+- Portugal
+- Propriedade do Estado
+- Região Fronteiriça
+- Regulamento
+- RIO Douro
+- Servidão Administrativa
+- Vogal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:35Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +110,15 @@ de 13 de Maio
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados o Estatuto de Funcionamento da Comissão Internacional criada pelo Convénio Luso-Espanhol para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, o Regulamento para a Constituição de Servidões, Expropriações e Ocupações Necessárias à Realização das Obras para o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, o Regulamento para a Informação dos Projectos de Execução das Obras dos Aproveitamentos dos Troços Internacionais do Rio Douro e dos Seus Afluentes e das Modificações Que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas, o Anexo I ao Regulamento para a Informação dos Projectos: Condições Técnicas Especiais a Que Deverão Obedecer os Projectos das Obras de Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, o Regulamento do Pagamento de Despesas da Comissão Internacional Luso-Espanhola para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes e a Composição da Comissão Internacional a que se refere o artigo 14.º do Convénio e das subcomissões estabelecidas no artigo 13.º do Estatuto da mesma Comissão, elaborados pela Comissão Internacional Luso-Espanhola, criada pelo artigo 14.º do Convénio para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, de 16 de Julho de 1964, reunida de 3 a 6 de Junho de 1969, e adoptados pelo plenário da mesma e cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
+Artigo único. São aprovados o Estatuto de Funcionamento da Comissão Internacional criada pelo Convénio Luso-Espanhol para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, o Regulamento para a Constituição de Servidões, Expropriações e Ocupações Necessárias à Realização das Obras para o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, o Regulamento para a Informação dos Projectos de Execução das Obras dos Aproveitamentos dos Troços Internacionais do Rio Douro e dos Seus Afluentes e das Modificações Que Alterem a Implantação ou Disposição das Barragens, Tomadas de Água e Descargas, o Anexo I ao Regulamento para a Informação dos Projectos: Condições Técnicas Especiais a Que Deverão Obedecer os Projectos das Obras de Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, o Regulamento do Pagamento de Despesas da Comissão Internacional Luso-Espanhola para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes e a Composição da Comissão Internacional a que se refere o artigo 14.º do Convénio e das subcomissões estabelecidas no artigo 13.º do Estatuto da mesma Comissão, elaborados pela Comissão Internacional Luso-Espanhola, criada pelo artigo 14.º do Convénio para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, de 16 de Julho de 1964, reunida de 3 a 6 de Junho de 1969, e adoptados pelo plenário da mesma e cujos textos, em português e espanhol, vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Maio de 1971.**
+Promulgado em 3 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Estatuto de Funcionamento da Comissão Internacional criada pelo Convénio Luso-Espanhol para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes.
 
@@ -448,7 +470,7 @@ Serão da conta dos concessionários as despesas resultantes da organização do
 
 A subcomissão, em cada caso, determinará que despesas devem ser efectuadas por conta deste depósito.
 
-## Anexo I ao Regulamento para Informação dos Projectos
+Anexo I ao Regulamento para Informação dos Projectos
 
 Condições Técnicas Especiais a que Deverão Obedecer os Projectos das Obras de Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes.
 
@@ -690,4 +712,4 @@ Representantes dos Ministérios das Obras Públicas;
 
 Representantes dos concessionários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/11200/06970713.pdf))](https://files.diariodarepublica.pt/1s/1971/05/11200/06970713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/11200/06970713.pdf)

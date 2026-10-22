@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12000/11601162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1980-474525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8719f8b41f984ee7a7232e9f2f518023b02493d01ca78e959c8fbe0834d6bae4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f4a2d7a48315acf8d3471e391207d59e5dc551abc8f9e73dbc02a597849770f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheque
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Tesouraria da Fazenda Pública
+- VALE de Correio
 relationships:
 - type: amended_by
   target: pt:dre:686384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380887:por
+  label: "Alterados os art.s 4º, 6.º e 7º e aditados os art.s 4º-A, 7º-A e 7º-B, pelo DEC LEI.481/82.24.12.1982.MFP, DR.IS\
+    \ [296] de 24.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/481-1982-380887
+  date: '1982-12-24'
+- type: cites
+  target: pt:dre:148422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643950:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:686384:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 275-A/93 - Diário da República n.º 185/1993, 1º Suplemento,
+    Série I-A de 1993-08-09, salvo o disposto no art. 52.º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-a-1993-686384
+  date: '1993-08-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:55Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +155,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Poderão ser realizados em numerário, por vale de correio ou por cheque sacado sobre instituições de crédito localizadas em território nacional, excluídas as caixas de crédito agrícolas mútuo:
+Artigo 1.º - 1 - Poderão ser realizados em numerário, por vale de correio ou por cheque sacado sobre instituições de crédito localizadas em território nacional, excluídas as caixas de crédito agrícolas mútuo:
 
 a) Os pagamentos totais ou parciais de contribuições, impostos ou demais receitas a efectuar nas tesourarias da Fazenda Pública, independentemente da fase em que a cobrança se situar;
 
@@ -112,11 +169,11 @@ c) Os pagamentos ou entregas de fundos por operações de tesouraria em qualquer
 
 4 - Nos pagamentos referidos no n.º 1 poderão ser utilizadas simultaneamente mais do que uma das modalidades nele permitidas, sem prejuízo da aplicação do disposto no artigo 7.º, n.º 2, do presente decreto-lei quanto aos pagamentos efectuados por meio de cheque.
 
-###### Art. 2.º - 1 - Os vales de correio ou cheques a que se refere o artigo anterior serão emitidos ou endossados à ordem do tesoureiro da Fazenda Pública do concelho, bairro ou localidade em que tiverem de ser efectuados os pagamentos, de qualquer outro exactor do Tesouro ou do Banco de Portugal, como caixa geral do Tesouro.
+Art. 2.º - 1 - Os vales de correio ou cheques a que se refere o artigo anterior serão emitidos ou endossados à ordem do tesoureiro da Fazenda Pública do concelho, bairro ou localidade em que tiverem de ser efectuados os pagamentos, de qualquer outro exactor do Tesouro ou do Banco de Portugal, como caixa geral do Tesouro.
 
 2 - Não poderão ser aceites cheques com data de emissão anterior em mais de três dias à da sua entrega para pagamento da dívida.
 
-###### Art. 3.º - 1 - Deverão ser visados pela instituição de crédito sacada os cheques que se destinem aos seguintes pagamentos:
+Art. 3.º - 1 - Deverão ser visados pela instituição de crédito sacada os cheques que se destinem aos seguintes pagamentos:
 
 a) Aquisição de valores selados e impressos ou outros valores com idêntico tratamento legal;
 
@@ -128,7 +185,7 @@ c) Todas as receitas por operações de tesouraria que tenham natureza emolument
 
 3 - As instituições de crédito serão responsáveis perante os cofres do Tesouro pelas importâncias correspondentes aos cheques que tenham visado, para o que deverão cativar imediatamente nas contas de depósitos sacadas os montantes respectivos.
 
-###### Art. 4.º - 1 - Os cheques e vales de correio destinados a pagamentos nas tesourarias da Fazenda Pública, quando se trate de receita virtual, poderão ser enviados às mesmas pelo correio e, neste caso, sob registo e com remessa de sobrescrito, devidamente endereçado e estampilhado, para devolução imediata, se possível, dos respectivos recibos.
+Art. 4.º - 1 - Os cheques e vales de correio destinados a pagamentos nas tesourarias da Fazenda Pública, quando se trate de receita virtual, poderão ser enviados às mesmas pelo correio e, neste caso, sob registo e com remessa de sobrescrito, devidamente endereçado e estampilhado, para devolução imediata, se possível, dos respectivos recibos.
 
 2 - A remessa deverá ser feita com a antecedência mínima de três dias úteis em relação ao último dia do prazo de pagamento, identificando-se sempre a dívida a pagar, com indicação do imposto, prestação, número e nome do contribuinte, ou por remessa do aviso respectivo.
 
@@ -136,11 +193,11 @@ c) Todas as receitas por operações de tesouraria que tenham natureza emolument
 
 4 - Na falta de remessa do sobrescrito estampilhado referido no n.º 1 deste artigo, os recibos serão devolvidos aos contribuintes, devendo o porte ser pago pelo destinatário, sem que possa vir a ser exigido ao remetente.
 
-###### Art. 5.º - 1 - Os tesoureiros da Fazenda Pública dos bairros fiscais e demais tesoureiros do concelho de Lisboa procederão, quanto aos vales de correio que lhes sejam enviados para os fins do presente diploma, como as demais tesourarias relativamente ao pagamento de vales de correio.
+Art. 5.º - 1 - Os tesoureiros da Fazenda Pública dos bairros fiscais e demais tesoureiros do concelho de Lisboa procederão, quanto aos vales de correio que lhes sejam enviados para os fins do presente diploma, como as demais tesourarias relativamente ao pagamento de vales de correio.
 
 2 - Nas tesourarias que funcionam junto dos tribunais de 1.ª instância das contribuições e impostos apenas serão pagos os vales de correio endereçados aos juízes, delegados ou tesoureiros.
 
-###### Art. 6.º - 1 - Se for recebido, como forma de pagamento, algum cheque com preterição de requisitos essenciais ou inobservância de outras condições legais, o tesoureiro da Fazenda Pública oficiará, nos dois dias úteis seguintes, sob registo e com aviso de recepção, ao sacador para, no prazo de cinco dias úteis, regularizar a situação, mediante a entrega da importância respectiva.
+Art. 6.º - 1 - Se for recebido, como forma de pagamento, algum cheque com preterição de requisitos essenciais ou inobservância de outras condições legais, o tesoureiro da Fazenda Pública oficiará, nos dois dias úteis seguintes, sob registo e com aviso de recepção, ao sacador para, no prazo de cinco dias úteis, regularizar a situação, mediante a entrega da importância respectiva.
 
 2 - Não tendo sido feita tal regularização no prazo indicado no número anterior, proceder-se-á à reconstituição da dívida nos termos dos n.os 2 e 3 do artigo 8.º do presente diploma.
 
@@ -148,7 +205,7 @@ c) Todas as receitas por operações de tesouraria que tenham natureza emolument
 
 4 - Os cheques na condições referidas no n.º 1, endossados por entidades públicas cuja sede não se localize no concelho onde foram entregues em pagamento, serão enviados à Direcção-Geral do Tesouro como transferência de fundos.
 
-###### Art. 7.º - 1 - No caso de devolução de cheques por falta de provisão, o tesoureiro oficiará nos dois dias úteis seguintes, sob registo e com aviso de recepção ao sacador, para no prazo de cinco dias úteis regularizar a situação mediante a entrega da importância respectiva, em numerário ou cheque visado.
+Art. 7.º - 1 - No caso de devolução de cheques por falta de provisão, o tesoureiro oficiará nos dois dias úteis seguintes, sob registo e com aviso de recepção ao sacador, para no prazo de cinco dias úteis regularizar a situação mediante a entrega da importância respectiva, em numerário ou cheque visado.
 
 2 - O pagamento a que se refere o número anterior será acrescido de uma importância calculada pela aplicação de uma taxa de regularização calculada pelo tesoureiro da Fazenda Pública, de 5% sobre o valor da dívida, sem qualquer adicional, constituindo receita do Estado e não podendo o produto dessa percentagem ser inferior a 200$00, nem superior a 100000$00, sendo as competentes guias de pagamento processadas pelo tesoureiro da Fazenda Pública.
 
@@ -156,17 +213,17 @@ c) Todas as receitas por operações de tesouraria que tenham natureza emolument
 
 4 - Se o pagamento não for feito dentro do prazo indicado no n.º 1 deste artigo, o tesoureiro da Fazenda Pública processará as competentes guias de pagamento, de harmonia e para os efeitos do artigo 24.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 8.º - 1 - Serão considerados nulos os pagamentos, totais ou parciais, efectuados através de cheques que venham a ser devolvidos e que não sejam regularizados nos termos previstos nos artigos 6.º e 7.º deste diploma.
+Art. 8.º - 1 - Serão considerados nulos os pagamentos, totais ou parciais, efectuados através de cheques que venham a ser devolvidos e que não sejam regularizados nos termos previstos nos artigos 6.º e 7.º deste diploma.
 
 2 - Considerando-se total ou parcialmente nulo qualquer pagamento, promover-se-á o necessário para, em conformidade com a lei aplicável, se proceder à cobrança da receita em dívida, sem prejuízo da aplicação das sanções previstas para falta de pagamento do imposto e do disposto no artigo 10.º
 
 3 - Sendo virtual a receita anulada, extrair-se-á novo título em face dos elementos de receita, que se debitará ao tesoureiro para efeitos de cobrança.
 
-###### Art. 9.º Expirado o prazo para regularização do cheque devolvido, quer por falta de provisão, quer por falta de preterição de formalidades essenciais, dar-se-á cumprimento ao disposto nos n.os 3 e 4 do artigo 4.º-A do [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro.
+Art. 9.º Expirado o prazo para regularização do cheque devolvido, quer por falta de provisão, quer por falta de preterição de formalidades essenciais, dar-se-á cumprimento ao disposto nos n.os 3 e 4 do artigo 4.º-A do [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro.
 
-###### Art. 10.º O tesoureiro a quem haja sido devolvido um cheque sem cobertura deverá participar a infracção ao tribunal territorialmente competente quando o pagamento não for regularizado no prazo e nos termos previstos no artigo 7.º
+Art. 10.º O tesoureiro a quem haja sido devolvido um cheque sem cobertura deverá participar a infracção ao tribunal territorialmente competente quando o pagamento não for regularizado no prazo e nos termos previstos no artigo 7.º
 
-###### Art. 11.º - 1 - No caso de extravio de cheques e de vales de correio que tenham sido enviados para pagamento nas tesourarias da Fazenda Pública ao abrigo do disposto no artigo 4.º, os devedores poderão fazer prova perante os tesoureiros, através de requerimento, de que cumpriram integralmente as suas obrigações, no prazo de quinze dias a contar da data em que tiveram conhecimento do extravio.
+Art. 11.º - 1 - No caso de extravio de cheques e de vales de correio que tenham sido enviados para pagamento nas tesourarias da Fazenda Pública ao abrigo do disposto no artigo 4.º, os devedores poderão fazer prova perante os tesoureiros, através de requerimento, de que cumpriram integralmente as suas obrigações, no prazo de quinze dias a contar da data em que tiveram conhecimento do extravio.
 
 2 - O envio de qualquer aviso ou notificação para pagamento, relaxe ou em processo de execução fiscal relativos à importância em dívida constituirá presunção inilidível do conhecimento do extravio.
 
@@ -174,11 +231,11 @@ c) Todas as receitas por operações de tesouraria que tenham natureza emolument
 
 4 - Em processo de execução fiscal pode sempre ser invocado pelo devedor o cumprimento atempado das obrigações em dívida, mediante a produção de prova do extravio.
 
-###### Art. 12.º - 1 - Sendo efectuados pagamentos de direito e mais imposições nos termos do artigo 94.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, com a redacção do [Decreto-Lei n.º 464/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1970-148422), de 9 de Outubro, os cheques serão enviados diariamente como transferência de fundos, processada nos termos regulamentares, ao Banco de Portugal, que procederá ao recebimento da respectiva importância das entidades que os tenham emitido ou das que forem responsáveis.
+Art. 12.º - 1 - Sendo efectuados pagamentos de direito e mais imposições nos termos do artigo 94.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, com a redacção do [Decreto-Lei n.º 464/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1970-148422), de 9 de Outubro, os cheques serão enviados diariamente como transferência de fundos, processada nos termos regulamentares, ao Banco de Portugal, que procederá ao recebimento da respectiva importância das entidades que os tenham emitido ou das que forem responsáveis.
 
 2 - Os cheques devolvidos serão escriturados como transferência de fundos para os respectivos cofres do Tesouro.
 
-###### Art. 13.º - 1 - Nas tesourarias da Fazenda Pública onde continuar a vigorar o actual sistema de passagens de fundos em dinheiro aplicar-se-ão as regras constantes do presente decreto-lei, com as ressalvas consignadas nos números seguintes.
+Art. 13.º - 1 - Nas tesourarias da Fazenda Pública onde continuar a vigorar o actual sistema de passagens de fundos em dinheiro aplicar-se-ão as regras constantes do presente decreto-lei, com as ressalvas consignadas nos números seguintes.
 
 2 - Os cheques recebidos serão transferidos, no prazo de vinte e quatro horas e com as formalidades estabelecidas para as passagens de fundos em moeda corrente, para o Banco de Portugal, sede, filial ou agência, como caixa geral do Tesouro, o qual procederá à respectiva cobrança.
 
@@ -190,16 +247,16 @@ c) Todas as receitas por operações de tesouraria que tenham natureza emolument
 
 6 - Serão dispensados, em relação aos títulos a que se refere o número anterior, o reconhecimento notarial e a junção do conhecimento ou guias de cobrança previstos no artigo 12.º do [Decreto n.º 19968](https://diariodarepublica.pt/dr/detalhe/decreto/19968-1931-434040), de 29 de Junho de 1931.
 
-###### Art. 14.º A Direcção-Geral do Tesouro emitirá as instruções adequadas para a boa execução do presente diploma.
+Art. 14.º A Direcção-Geral do Tesouro emitirá as instruções adequadas para a boa execução do presente diploma.
 
-###### Art. 15.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho, sob parecer do director-geral do Tesouro.
+Art. 15.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho, sob parecer do director-geral do Tesouro.
 
-###### Art. 16.º São revogadas todas as disposições ainda em vigor do [Decreto n.º 7248](https://diariodarepublica.pt/dr/detalhe/decreto/7248-1921-362566), de 25 de Janeiro de 1921, o artigo 8.º do [Decreto n.º 19968](https://diariodarepublica.pt/dr/detalhe/decreto/19968-1931-434040), de 29 de Junho de 1931, o [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e o [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943, o [Decreto-Lei n.º 46495](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46495-1965-292336), de 18 de Agosto de 1965, e o [Decreto-Lei n.º 233/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1971-643950), de 25 de Maio.
+Art. 16.º São revogadas todas as disposições ainda em vigor do [Decreto n.º 7248](https://diariodarepublica.pt/dr/detalhe/decreto/7248-1921-362566), de 25 de Janeiro de 1921, o artigo 8.º do [Decreto n.º 19968](https://diariodarepublica.pt/dr/detalhe/decreto/19968-1931-434040), de 29 de Junho de 1931, o [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e o [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943, o [Decreto-Lei n.º 46495](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46495-1965-292336), de 18 de Agosto de 1965, e o [Decreto-Lei n.º 233/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1971-643950), de 25 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 19 de Maio de 1980.**
+Promulgado em 19 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

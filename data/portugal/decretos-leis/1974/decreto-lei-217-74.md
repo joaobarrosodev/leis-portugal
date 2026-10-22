@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/12300/06540657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a393e5fbd99c06c657a1e7ceb319756aa3b10e1f812fdff301ddd302c1ae26ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bca21c1877450b182c35e10dbab358ab2228f3ae8c35cd94c6497dfd8c7d50ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Empresa Privada
+- Empresa Pública
+- Função Pública
+- Habitação
+- Pensão de Invalidez
+- Pensão de Reforma
+- Pensão Social
+- Preço
+- Previdência Social
+- Remuneração
+- Sector Público Administrativo
+- Setor Privado
+- Trabalhador
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476152:por
+  label: "Prorrogados por dez dias todos os prazos fixados neste diploma pelo DEC LEI.289/74.27.06.1974.PCM, DG.IS [148] de\
+    \ 27.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1974-476152
+  date: '1974-06-27'
+- type: amended_by
+  target: pt:dre:402959:por
+  label: "Prorrogados até 31.07.1974 os prazos fixados no nº 3 do art. 6º e no nº 3 do art. 9º pelo DEC LEI.306/74.06.07.1974.PCM,\
+    \ DG.IS [156-Supl] de 06.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-1974-402959
+  date: '1974-07-06'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411331:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474564:por
+  label: "Revogado o artigo 10.º pelo DEC LEI.170/80.29.05.1980.PCM, DR.IS [124] de 29.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1980-474564
+  date: '1980-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:23Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +193,7 @@ De todos os portugueses se espera a cooperação nesta obra comum de progresso, 
 
 Nestes termos, usando da faculdade conferida pelo n.º 3.º do n.º 1 do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A todos os trabalhadores por conta de outrem, incluindo funcionários públicos e administrativos, é garantida uma remuneração não inferior a 3300$00.
+Artigo 1.º - 1. A todos os trabalhadores por conta de outrem, incluindo funcionários públicos e administrativos, é garantida uma remuneração não inferior a 3300$00.
 
 2. Não se aplica o disposto no número anterior:
 
@@ -163,65 +209,65 @@ d) Às entidades patronais com cinco ou menos trabalhadores, quando se verifique
 
 4. A remuneração a que se refere o n.º 1 entende-se como referente a trabalho a tempo completo.
 
-###### Art. 2.º - 1. Para efeitos do n.º 1 do artigo anterior, a remuneração dos trabalhadores em regime de tempo parcial, ou pagos à quinzena, à semana e ao dia, será calculada multiplicando o valor da remuneração horária do trabalho pelo número de horas mensais, quinzenais, semanais ou diárias prestadas.
+Art. 2.º - 1. Para efeitos do n.º 1 do artigo anterior, a remuneração dos trabalhadores em regime de tempo parcial, ou pagos à quinzena, à semana e ao dia, será calculada multiplicando o valor da remuneração horária do trabalho pelo número de horas mensais, quinzenais, semanais ou diárias prestadas.
 
 2. O valor da remuneração horária do trabalho traduz-se na fórmula (3300$00 x 12)/(52 x n), sendo n o número de horas correspondente ao período normal de trabalho semanal.
 
 3. O processo de cálculo previsto nos números anteriores apenas se aplica aos trabalhadores em relação aos quais não esteja estabelecido o pagamento dos descansos semanais.
 
-###### Art. 3.º - 1. A partir da entrada em vigor do presente diploma não poderão praticar-se remunerações inferiores à prevista nos termos dos artigos precedentes, ainda que aquelas tenham sido estabelecidas em contratos de trabalho anteriormente celebrados ou estejam estipuladas em instrumentos de regulamentação colectiva vigentes.
+Art. 3.º - 1. A partir da entrada em vigor do presente diploma não poderão praticar-se remunerações inferiores à prevista nos termos dos artigos precedentes, ainda que aquelas tenham sido estabelecidas em contratos de trabalho anteriormente celebrados ou estejam estipuladas em instrumentos de regulamentação colectiva vigentes.
 
-###### Art. 4.º - 1. Todas as remunerações iguais ou superiores a 7500$00 mensais são estabilizadas no seu montante actual e não poderão ser alteradas durante o prazo de trinta dias, a contar da data da entrada em vigor do presente diploma.
+Art. 4.º - 1. Todas as remunerações iguais ou superiores a 7500$00 mensais são estabilizadas no seu montante actual e não poderão ser alteradas durante o prazo de trinta dias, a contar da data da entrada em vigor do presente diploma.
 
 2. O disposto no número anterior aplica-se aos vencimentos e a todas as outras formas de remuneração de administradores, gerentes, directores ou membros dos órgãos sociais ou similares de quaisquer sociedades ou empresas privadas ou públicas.
 
 3. Não poderão ser alterados os quantitativos dos prémios, gratificações e outras formas de retribuição percebidas por aqueles que aufiram as remunerações previstas no n.º 1.
 
-###### Art. 5.º - 1. No que se refere a remunerações compreendidas entre 3300$00 e 7500$00 mantém-se a liberdade de contratação no sector privado.
+Art. 5.º - 1. No que se refere a remunerações compreendidas entre 3300$00 e 7500$00 mantém-se a liberdade de contratação no sector privado.
 
 2. As entidades patronais devem comunicar, no prazo de vinte e quatro horas, ao Ministério do Trabalho - Divisão de Salários - quaisquer alterações verificadas nas retribuições vigentes e que se compreendam nos limites definidos no número anterior.
 
 3. Poderá o Governo não autorizar as alterações que considere incompatíveis com a estabilidade económica ou contrárias à justiça social.
 
-###### Art. 6.º - 1. O Governo poderá criar mecanismos de conciliação adequados para os diferendos entre entidades patronais e trabalhadores e respectivas organizações representativas.
+Art. 6.º - 1. O Governo poderá criar mecanismos de conciliação adequados para os diferendos entre entidades patronais e trabalhadores e respectivas organizações representativas.
 
 2. O Governo poderá intervir, para salvaguarda da estabilidade económica ou garantia da justiça social, na solução de diferendos entre as entidades patronais e trabalhadores e respectivas organizações representativas, designadamente fixando remunerações e estabelecendo condições para a laboração das empresas.
 
 3. O Governo publicará, no prazo de trinta dias, legislação adequada sobre organizações sindicais de trabalhadores e associações patronais, bem como legislação que regulamente a greve, o lock-out e as relações colectivas de trabalho.
 
-###### Art. 7.º Sem prejuízo da imediata entrada em vigor das remunerações previstas no artigo 1.º, o Governo aprovará, no prazo de trinta dias, medidas necessárias à revisão dos vencimentos do funcionalismo público e administrativo.
+Art. 7.º Sem prejuízo da imediata entrada em vigor das remunerações previstas no artigo 1.º, o Governo aprovará, no prazo de trinta dias, medidas necessárias à revisão dos vencimentos do funcionalismo público e administrativo.
 
-###### Art. 8.º - 1. São congelados durante trinta dias os preços dos bens e serviços em todos os estádios de produção, transformação e comercialização, aos níveis praticados em 24 de Abril de 1974.
+Art. 8.º - 1. São congelados durante trinta dias os preços dos bens e serviços em todos os estádios de produção, transformação e comercialização, aos níveis praticados em 24 de Abril de 1974.
 
 2. Se nesse dia não tiver sido registada qualquer transacção, os preços a observar serão os praticados na data imediatamente anterior em que tenha havido transacções.
 
 3. Aos produtos vendidos em regime de lota ou leilão não se aplica o disposto no n.º 1, mantendo-se em vigor as margens de comercialização fixadas em diplomas anteriores.
 
-###### Art. 9.º - 1. São congeladas por trinta dias as rendas de prédios urbanos aos níveis praticados em 24 de Abril passado.
+Art. 9.º - 1. São congeladas por trinta dias as rendas de prédios urbanos aos níveis praticados em 24 de Abril passado.
 
 2. Excluem-se do disposto no número anterior os fogos para habitação por curtos períodos em praias, termas ou outros locais de vilegiatura.
 
 3. O Governo promoverá, no prazo de trinta dias, a publicação do diploma destinado a evitar a especulação com rendas de habitação e com transacções de prédios urbanos.
 
-###### Art. 10.º - 1. O abono de família é fixado, em relação a cada descendente ou equiparado, no quantitativo mensal de 240$00.
+Art. 10.º - 1. O abono de família é fixado, em relação a cada descendente ou equiparado, no quantitativo mensal de 240$00.
 
 2. O disposto no número anterior é aplicável a todos os beneficiários dos regimes de abono de família.
 
-###### Art. 11.º O quantitativo mensal das pensões de invalidez e velhice atribuídas aos beneficiários da Caixa Nacional de Pensões e das caixas de reforma ou previdência com entidades patronais contribuintes não pode ser inferior a metade do montante mensal da remuneração fixada no artigo 1.º
+Art. 11.º O quantitativo mensal das pensões de invalidez e velhice atribuídas aos beneficiários da Caixa Nacional de Pensões e das caixas de reforma ou previdência com entidades patronais contribuintes não pode ser inferior a metade do montante mensal da remuneração fixada no artigo 1.º
 
-###### Art. 12.º No prazo de quinze dias, a contar da data de entrada em vigor deste diploma, será fixada, por despacho do Ministro dos Assuntos Sociais, uma pensão social a atribuir a todas as pessoas inscritas no Instituto da Família e Acção Social ou na Misericórdia de Lisboa para efeitos de concessão de subsídios de assistência.
+Art. 12.º No prazo de quinze dias, a contar da data de entrada em vigor deste diploma, será fixada, por despacho do Ministro dos Assuntos Sociais, uma pensão social a atribuir a todas as pessoas inscritas no Instituto da Família e Acção Social ou na Misericórdia de Lisboa para efeitos de concessão de subsídios de assistência.
 
-###### Art. 13.º Os quantitativos fixados nos artigos 10.º e 11.º deste diploma poderão ser aumentados por despacho do Ministro dos Assuntos Sociais.
+Art. 13.º Os quantitativos fixados nos artigos 10.º e 11.º deste diploma poderão ser aumentados por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 14.º Os benefícios previstos nos artigos 10.º, 11.º e 12.º do presente diploma serão concedidos a partir do dia 1 de Julho de 1974.
+Art. 14.º Os benefícios previstos nos artigos 10.º, 11.º e 12.º do presente diploma serão concedidos a partir do dia 1 de Julho de 1974.
 
-###### Art. 15.º - 1. É criada no Ministério da Coordenação Económica a Comissão de Apoio às Pequenas e Médias Empresas, com o objectivo de acelerar e alargar as formas de auxílio a essas unidades produtivas.
+Art. 15.º - 1. É criada no Ministério da Coordenação Económica a Comissão de Apoio às Pequenas e Médias Empresas, com o objectivo de acelerar e alargar as formas de auxílio a essas unidades produtivas.
 
 2. Esta Comissão integrará representantes de vários serviços do Ministério e das instituições de crédito, sendo a regulamentação da sua actividade feita por despacho do Ministro da Coordenação Económica.
 
 3. No prazo de três meses deverá proceder-se à institucionalização de formas permanentes de apoio às pequenas e médias empresas.
 
-###### Art. 16.º - 1. A venda de bens ou a prestação de serviços com infracção do disposto no artigo 8.º, n.º 1, do presente diploma constitui crime de especulação punido nos termos gerais, mas com o seguinte regime específico:
+Art. 16.º - 1. A venda de bens ou a prestação de serviços com infracção do disposto no artigo 8.º, n.º 1, do presente diploma constitui crime de especulação punido nos termos gerais, mas com o seguinte regime específico:
 
 A pena de prisão não será extraordinariamente reduzida nem substituída por multa, não podendo para além dos casos a que se refere o artigo 88.º do Código Penal ser decretada a suspensão da pena. Não se aplica o regime específico havendo mera negligência.
 
@@ -237,7 +283,7 @@ A tentativa de açambarcamento, bem como a frustração, serão sempre puníveis
 
 5. Os agentes das infracções serão solidariamente responsáveis pelo pagamento do quantitativo das multas.
 
-###### Art. 17.º - 1. As infracções cometidas em matéria de preços e abastecimentos poderão ser comunicadas por qualquer pessoa, quer directamente à Inspecção-Geral das Actividades Económicas, quer através da Polícia Judiciária, Polícia de Segurança Pública, Guarda Nacional Republicana e Guarda Fiscal.
+Art. 17.º - 1. As infracções cometidas em matéria de preços e abastecimentos poderão ser comunicadas por qualquer pessoa, quer directamente à Inspecção-Geral das Actividades Económicas, quer através da Polícia Judiciária, Polícia de Segurança Pública, Guarda Nacional Republicana e Guarda Fiscal.
 
 2. Nesta última hipótese, aquelas entidades levantarão imediatamente o respectivo auto sumário e enviá-lo-ão, no prazo de vinte e quatro horas, à delegação mais próxima da Inspecção Geral das Actividades Económicas.
 
@@ -245,18 +291,18 @@ A tentativa de açambarcamento, bem como a frustração, serão sempre puníveis
 
 4. A comunicação das infracções relativas a rendimentos do trabalho será feita à Divisão de Salários do Ministério do Trabalho, devendo a Inspecção do Trabalho levantar auto sumário, que será enviado no prazo de vinte e quatro horas ao tribunal competente.
 
-###### Art. 18.º Se se verificarem restrições no abastecimento público poderá o Secretário de Estado do Abastecimento e Preços, por simples despacho, tomar as medidas previstas no [Decreto-Lei n.º 158/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1974-411331), de 19 de Abril, relativas à requisição compulsiva de quaisquer produtos ou mercadorias.
+Art. 18.º Se se verificarem restrições no abastecimento público poderá o Secretário de Estado do Abastecimento e Preços, por simples despacho, tomar as medidas previstas no [Decreto-Lei n.º 158/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1974-411331), de 19 de Abril, relativas à requisição compulsiva de quaisquer produtos ou mercadorias.
 
-###### Art. 19.º O Governo publicará, no prazo de trinta dias, legislação instituindo mecanismos para o contrôle directo e selectivo dos preços.
+Art. 19.º O Governo publicará, no prazo de trinta dias, legislação instituindo mecanismos para o contrôle directo e selectivo dos preços.
 
-###### Art. 20.º As dúvidas surgidas na interpretação e aplicação deste diploma serão resolvidas por despacho conjunto assinado pelo adjunto do Primeiro-Ministro e pelo Ministro ou Ministros dos departamentos interessados.
+Art. 20.º As dúvidas surgidas na interpretação e aplicação deste diploma serão resolvidas por despacho conjunto assinado pelo adjunto do Primeiro-Ministro e pelo Ministro ou Ministros dos departamentos interessados.
 
-###### Art. 21.º Este diploma entra imediatamente em vigor.
+Art. 21.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida - Avelino António Pacheco Gonçalves - Mário Murteira.
 
-**Promulgado em 27 de Maio de 1974.**
+Promulgado em 27 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14400/14581458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1980-473696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36c4761795e91507873db13685cc3b9baa710baa305aef9dd1f6b980f60d44c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b554ece44c194caac1f23f61afe02017680dba5e56d7fa9c96e131a3e342b4f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consultor
+- Contratação de Pessoal
+- Duração do Trabalho
+- Estabelecimento Hospitalar
+- Médico
+- Ministério dos Assuntos Sociais
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:309502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:05Z'
   warnings: []
   errors: []
 ---
@@ -98,32 +125,32 @@ Assim:
 
 O Governo decreta, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Quando necessário ao bom funcionamento dos serviços, as unidades de saúde dependentes do Ministério dos Assuntos Sociais podem contratar consultores médicos, para além dos quadros ou mapas, com vista a obter apoio técnico no âmbito de especialidades.
+Artigo 1.º - 1 - Quando necessário ao bom funcionamento dos serviços, as unidades de saúde dependentes do Ministério dos Assuntos Sociais podem contratar consultores médicos, para além dos quadros ou mapas, com vista a obter apoio técnico no âmbito de especialidades.
 
 2 - A contratação referida no número anterior carece de autorização do Departamento de Recursos Humanos da Saúde, a qual deverá ter prioritariamente em conta as necessidades locais da prática de especialidades não asseguradas pelos quadros ou mapas existentes.
 
-###### Art. 2.º - 1 - A função de consultor médico só pode ser exercida por médicos que possuam, pelo menos, o grau de especialista.
+Art. 2.º - 1 - A função de consultor médico só pode ser exercida por médicos que possuam, pelo menos, o grau de especialista.
 
 2 - Não se aplica à função de consultor médico a proibição constante do artigo 18.º, n.º 1, do [Decreto-Lei n.º 674/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1975-309502), de 27 de Novembro.
 
-###### Art. 3.º - 1 - Os consultores médicos devem prestar um mínimo de quatro horas de serviço semanal.
+Art. 3.º - 1 - Os consultores médicos devem prestar um mínimo de quatro horas de serviço semanal.
 
 2 - Em casos em que tecnicamente se justifique, poderá aquele mínimo ser dispensado por despacho do Ministro dos Assuntos Sociais.
 
 3 - Quando as condições de organização dos cuidados de saúde numa determinada região o aconselhem, poderá o Ministro dos Assuntos Sociais autorizar o exercício de funções de consultor em mais do que uma unidade de saúde, até ao limite máximo global de doze horas semanais.
 
-###### Art. 4.º - 1 - Pelo exercício do cargo de consultor é devida uma remuneração calculada na base do vencimento/hora da categoria médica respectiva, acrescida, quando seja o caso, de subsídio de deslocação, atribuído e calculado nos termos prescritos para a função pública.
+Art. 4.º - 1 - Pelo exercício do cargo de consultor é devida uma remuneração calculada na base do vencimento/hora da categoria médica respectiva, acrescida, quando seja o caso, de subsídio de deslocação, atribuído e calculado nos termos prescritos para a função pública.
 
 2 - À importância referida no número anterior poderá, quando se justifique, acrescer um suplemento pelo tempo de deslocação, calculado na base de uma hora de vencimento por cada 60 km.
 
-###### Art. 5.º Os encargos a que se refere o artigo anterior são suportados pelas unidades de saúde onde o serviço seja prestado.
+Art. 5.º Os encargos a que se refere o artigo anterior são suportados pelas unidades de saúde onde o serviço seja prestado.
 
-###### Art. 6.º É revogado o artigo 4.º do [Decreto-Lei n.º 536/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1975-312061), de 26 de Setembro.
+Art. 6.º É revogado o artigo 4.º do [Decreto-Lei n.º 536/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1975-312061), de 26 de Setembro.
 
 Visto e aprovado em Conselho de Ministro de 4 de Junho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 13 de Junho de 1980.**
+Promulgado em 13 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

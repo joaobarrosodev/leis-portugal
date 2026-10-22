@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18000/18801884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1976-429804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0728a8c67d7b69e0f6145fa83633f925d502eddb52f974b3daa98c960b08a058
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf6f9765ad3d400bc40d4a984c92392e7a0292d02c2618227edb627f478e66b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação de Socorros Mútuos
+- Estatuto
+- Montepio Geral
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:307226:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:15Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +111,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam revogados o artigo 119.º, § único do artigo 132.º e artigo 189.º dos estatutos do Montepio Geral.
+Artigo 1.º Ficam revogados o artigo 119.º, § único do artigo 132.º e artigo 189.º dos estatutos do Montepio Geral.
 
-###### Art. 2.º Os artigos 9.º, 16.º, 101.º, 103.º, 104.º, 105.º, 110.º, 112.º, 113.º, 114.º, 115.º, 116.º, 118.º, 120.º, 121.º, 122.º, 123.º, 125.º, 126.º, 127.º, 128.º, 129.º, 130.º, 131.º, 133.º, 134.º, 136.º, 158.º, 159.º, 178.º e 179.º dos estatutos do Montepio Geral passam a ter a seguinte redacção:
-
-...
-
-###### Art. 9.º A direcção pode excepcionalmente suspender, até à celebração da primeira assembleia geral, a aceitação de propostas para admissão de sécios, aumentos de capital ou subscrição noutras modalidades, devendo em tal caso notificar o conselho fiscal e a mesa da assembleia geral dos motivos da decisão.
+Art. 2.º Os artigos 9.º, 16.º, 101.º, 103.º, 104.º, 105.º, 110.º, 112.º, 113.º, 114.º, 115.º, 116.º, 118.º, 120.º, 121.º, 122.º, 123.º, 125.º, 126.º, 127.º, 128.º, 129.º, 130.º, 131.º, 133.º, 134.º, 136.º, 158.º, 159.º, 178.º e 179.º dos estatutos do Montepio Geral passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 16.º ...
+Art. 9.º A direcção pode excepcionalmente suspender, até à celebração da primeira assembleia geral, a aceitação de propostas para admissão de sécios, aumentos de capital ou subscrição noutras modalidades, devendo em tal caso notificar o conselho fiscal e a mesa da assembleia geral dos motivos da decisão.
+
+...
+
+Art. 16.º ...
 
 1.º ...
 
@@ -140,7 +153,7 @@ e) ...
 
 ...
 
-###### Art. 101.º ...
+Art. 101.º ...
 
 § 1.º Os sécios que sejam fornecedores do Montepio ou que tenham com ele contratos de compra ou venda só podem fazer parte das assembleias gerais em que se trate da reforma dos estatutos, da fusão ou da dissolução e liquidação do Montepio.
 
@@ -148,7 +161,7 @@ e) ...
 
 ...
 
-###### Art. 103.º A assembleia geral ordinária reúne, pelo menos, duas vezes por ano: a primeira, de Janeiro a Março, para discutir o relatório, os actos e as contas da gerência do ano anterior e respectivo parecer do conselho fiscal e deliberar a tal respeito; a segunda, em Dezembro, para votar o orçamento das despesas para o ano seguinte.
+Art. 103.º A assembleia geral ordinária reúne, pelo menos, duas vezes por ano: a primeira, de Janeiro a Março, para discutir o relatório, os actos e as contas da gerência do ano anterior e respectivo parecer do conselho fiscal e deliberar a tal respeito; a segunda, em Dezembro, para votar o orçamento das despesas para o ano seguinte.
 
 § 1.º De três em três anos haverá uma assembleia geral eleitoral, em Dezembro, para eleger os corpos sociais representativos dos sócios que devem entrar em exercício no dia 1 de Janeiro do ano seguinte.
 
@@ -158,7 +171,7 @@ e) ...
 
 § 4.º Na eleição prevista no § 1.º, o voto será universal e secreto e os sócios poderão entregar o seu voto na sele, filial e agências do Montepio Geral onde funcionam mesas de voto no mesmo dia e horas.
 
-###### Art. 104.º A assembleia geral será extraordinariamente convocada por iniciativa do presidente da mesa ou sempre que a direcção ou o conselho fiscal o solicitarem ou ainda a requerimento de, pelo menos, 3% dos sócios no pleno gozo dos seus direitos, mas, neste último caso, observar-se-á o seguinte:
+Art. 104.º A assembleia geral será extraordinariamente convocada por iniciativa do presidente da mesa ou sempre que a direcção ou o conselho fiscal o solicitarem ou ainda a requerimento de, pelo menos, 3% dos sócios no pleno gozo dos seus direitos, mas, neste último caso, observar-se-á o seguinte:
 
 a) ...
 
@@ -168,7 +181,7 @@ b) ...
 
 § 2.º ...
 
-###### Art. 105.º ...
+Art. 105.º ...
 
 § 1.º ...
 
@@ -178,7 +191,7 @@ b) ...
 
 ...
 
-###### Art. 110.º ...
+Art. 110.º ...
 
 1.º ...
 
@@ -206,11 +219,11 @@ b) ...
 
 ...
 
-###### Art. 112.º ...
+Art. 112.º ...
 
 § único. O contrôle da gestão pelos trabalhadores exercer-se-á nos termos a definir pela lei e pelos órgãos que a mesma reconhecer como competentes.
 
-###### Art. 113.º Os membros dos corpos sociais eleitos em assembleia geral devem:
+Art. 113.º Os membros dos corpos sociais eleitos em assembleia geral devem:
 
 1.º Ser portugueses, maiores ou emancipados, no pleno gozo dos seus direitos civis;
 
@@ -226,7 +239,7 @@ b) ...
 
 § 3.º Os membros da direcção exercerão as suas funções em tempo completo e serão remunerados; os restantes membros dos corpos sociais têm direito apenas a senhas de presença.
 
-###### Art. 114.º Os membros dos corpos sociais, representativos dos sócios, são eleitos por períodos trienais.
+Art. 114.º Os membros dos corpos sociais, representativos dos sócios, são eleitos por períodos trienais.
 
 § 1.º ...
 
@@ -242,7 +255,7 @@ b) ...
 
 § 2.º ...
 
-###### Art. 115.º É expressamente proibido aos membros dos corpos sociais:
+Art. 115.º É expressamente proibido aos membros dos corpos sociais:
 
 1.º Negociar directa ou indirectamente com o Montepio e designadamente fazer com ele contratos de empréstimo;
 
@@ -250,11 +263,11 @@ b) ...
 
 § único. A contravenção do disposto neste artigo importa, para os infractores, a emergente responsabilidade por perdas e danos, a revogabilidade do mandato e a suspensão da sua capacidade eleitoral, activa e passiva, caso se trate de membros eleitos pelos sócios, pelo espaço de cinco anos.
 
-###### Art. 116.º Não se compreendem nas restrições do n.º 1.º do artigo 115.º depósitos, aluguer de cofres, arrecadação e administração de valores, constituição ou fruição de rendas vitalícias e contratos de empréstimo para habitação própria.
+Art. 116.º Não se compreendem nas restrições do n.º 1.º do artigo 115.º depósitos, aluguer de cofres, arrecadação e administração de valores, constituição ou fruição de rendas vitalícias e contratos de empréstimo para habitação própria.
 
 ...
 
-###### Art. 118.º As deliberações da direcção e do conselho fiscal provam-se pelas suas actas, depois de aprovadas; dessas devem constar sempre os nomes dos membros presentes à respectiva sessão.
+Art. 118.º As deliberações da direcção e do conselho fiscal provam-se pelas suas actas, depois de aprovadas; dessas devem constar sempre os nomes dos membros presentes à respectiva sessão.
 
 § 1.º ...
 
@@ -264,11 +277,11 @@ b) ...
 
 ...
 
-###### Art. 120.º A mesa da assembleia geral é composta de um presidente e de um 1.º e 2.º secretários.
+Art. 120.º A mesa da assembleia geral é composta de um presidente e de um 1.º e 2.º secretários.
 
 § único. Na falta ou impedimento do presidente, este será substituído pelo 1.º secretário.
 
-###### Art. 121.º ...
+Art. 121.º ...
 
 1.º ...
 
@@ -282,7 +295,7 @@ b) ...
 
 6.º Apreciar as justificações a que se refere a alínea b) do artigo 104.º
 
-###### Art. 122.º ...
+Art. 122.º ...
 
 1.º Lavrar as actas das sessões e passar certidões das mesmas ou dos documentos nelas referidos, nos termos dos §§ 1.º e 2.º do artigo 111.º
 
@@ -290,19 +303,19 @@ b) ...
 
 3.º ...
 
-###### Art. 123.º A mesa tem a seu cargo os livros das actas das sessões da assembleia geral, o das posses, o registo da correspondência privativa e quaisquer outros que se julgue necessários.
+Art. 123.º A mesa tem a seu cargo os livros das actas das sessões da assembleia geral, o das posses, o registo da correspondência privativa e quaisquer outros que se julgue necessários.
 
 ...
 
-###### Art. 125.º A direcção é composta de cinco membros, que entre si nomearão o presidente e distribuirão os respectivos pelouros.
+Art. 125.º A direcção é composta de cinco membros, que entre si nomearão o presidente e distribuirão os respectivos pelouros.
 
 § único. Dos cinco membros, um máximo de dois poderá ser nomeado por despacho conjunto dos Ministérios dos Assuntos Sociais e das Finanças.
 
-###### Art. 126.º ...
+Art. 126.º ...
 
 § único. A aprovação, pela assembleia geral, das contas e dos actos da gerência e respectivo parecer do conselho fiscal iliba os membros da direcção de responsabilidade para com o Montepio, decorridos seis meses, salvo provando-se que nos documentos publicados houve indicações falsas ou omissões, mas a aprovação será nula, quando esses documentos não tenham estado patentes, conforme o estipulado no § 2.º do artigo 103.º
 
-###### Art. 127.º Compete à direcção:
+Art. 127.º Compete à direcção:
 
 1.º ...
 
@@ -364,15 +377,15 @@ b) ...
 
 § 6.º Designar os sécios para exercerem a representação nos corpos gerentes de sociedades ou empresas de que o Montepio seja accionista ou obrigacionista, revertendo as respectivas remunerações para o Montepio, que reembolsará o sócio das despesas inerentes ao exercício daquela função.
 
-###### Art. 128.º A direcção reúne diariamente e as suas decisões só serão válidas com o voto da maioria dos seus membros.
+Art. 128.º A direcção reúne diariamente e as suas decisões só serão válidas com o voto da maioria dos seus membros.
 
 § único. As votações serão sempre nominais, excepto quando se trate dos casos previstos no artigo 174.º, e devem constar das actas.
 
-###### Art. 129.º O conselho fiscal é composto por três membros eleitos em assembleia geral.
+Art. 129.º O conselho fiscal é composto por três membros eleitos em assembleia geral.
 
 § único. Na elaboração das listas deverá incluir-se sempre que possível um revisor oficial de contas.
 
-###### Art. 130.º Compete ao conselho fiscal:
+Art. 130.º Compete ao conselho fiscal:
 
 1.º ...
 
@@ -396,13 +409,13 @@ b) ...
 
 § 2.º A responsabilidade dos membros do conselho fiscal é regulada pelo disposto no § único do artigo 126.º
 
-###### Art. 131.º O conselho fiscal não poderá deliberar sem estarem presentes todos os membros e as suas deliberações só têm validade quando tomadas por maioria.
+Art. 131.º O conselho fiscal não poderá deliberar sem estarem presentes todos os membros e as suas deliberações só têm validade quando tomadas por maioria.
 
 § único. É aplicável ao conselho fiscal o disposto no § único do artigo 128.º
 
 ...
 
-###### Art. 133.º A eleição dos corpos sociais é feita trienalmente por escrutínio secreto, sem prejuízo da revogabilidade do mandato quando a assembleia o julgue conveniente.
+Art. 133.º A eleição dos corpos sociais é feita trienalmente por escrutínio secreto, sem prejuízo da revogabilidade do mandato quando a assembleia o julgue conveniente.
 
 § 1.º Durante o mês de Outubro do ano da realização do acto eleitoral podem ser apresentadas candidaturas na secretaria do Montepio.
 
@@ -426,7 +439,7 @@ Mesa da assembleia geral, direcção e conseselho fiscal.
 
 § 10.º A eleição das comissões é igualmente feita por escrutínio secreto, sendo o número dos seus componentes fixado pela assembleia geral, salvo o disposto no capítulo XVII.
 
-###### Art. 134.º Cada mesa de voto será constituída no mínimo por um presidente e dois vogais.
+Art. 134.º Cada mesa de voto será constituída no mínimo por um presidente e dois vogais.
 
 § 1.º Cada lista poderá credenciar um vogal para cada mesa de voto.
 
@@ -434,7 +447,7 @@ Mesa da assembleia geral, direcção e conseselho fiscal.
 
 § 3.º A designação dos presidentes e vogais das mesas de voto deverá ser feita com a antecedência mínima de cinco dias em relação à data da assembleia geral eleitoral.
 
-###### Art. 135.º O voto deverá ser entregue ao presidente da mesa de voto, dobrado em quatro, com os nomes voltados para dentro.
+Art. 135.º O voto deverá ser entregue ao presidente da mesa de voto, dobrado em quatro, com os nomes voltados para dentro.
 
 § 1.º Não é permitido o voto por procuração.
 
@@ -448,26 +461,26 @@ c) Este sobrescrito seja introduzido noutro também endereçado ao presidente da
 
 § 3.º Nas eleições dos corpos sociais considera-se eleita a lista que obtiver maior número de votos após a recepção das actas de todas as mesas de voto.
 
-###### Art. 136.º Quando houver necessidade de realizar eleição extraordinária de algum ou alguns membros dos corpos sociais, será convocada uma assembleia para esse efeito.
+Art. 136.º Quando houver necessidade de realizar eleição extraordinária de algum ou alguns membros dos corpos sociais, será convocada uma assembleia para esse efeito.
 
 ...
 
-###### Art. 158.º A alienação, troca ou oneração de quaisquer valores representativos dos fundos do Montepio só podem ser feitas nos termos indicados no n.º 5 do artigo 110.º, sem prejuízo das disposições legais aplicáveis.
+Art. 158.º A alienação, troca ou oneração de quaisquer valores representativos dos fundos do Montepio só podem ser feitas nos termos indicados no n.º 5 do artigo 110.º, sem prejuízo das disposições legais aplicáveis.
 
 § único ...
 
-###### Art. 159.º As disponibilidades do Montepio serão depositadas na Caixa Económica de Lisboa até ao limite que a assembleia geral fixar e vencem pelo menos juro de taxa anual igual à dos depósitos na mesma Caixa.
+Art. 159.º As disponibilidades do Montepio serão depositadas na Caixa Económica de Lisboa até ao limite que a assembleia geral fixar e vencem pelo menos juro de taxa anual igual à dos depósitos na mesma Caixa.
 
 ...
 
-###### Art. 178.º Em caso de reconhecida conveniência, pode a direcção modificar a importância da jóia sem prejuízo das disposições legais aplicáveis.
+Art. 178.º Em caso de reconhecida conveniência, pode a direcção modificar a importância da jóia sem prejuízo das disposições legais aplicáveis.
 
-###### Art. 179.º Por proposta da direcção, pode a assembleia geral alterar os limites de subscrição estabelecidos nos artigos 19.º, 35.º, 52.º e 61.º
+Art. 179.º Por proposta da direcção, pode a assembleia geral alterar os limites de subscrição estabelecidos nos artigos 19.º, 35.º, 52.º e 61.º
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

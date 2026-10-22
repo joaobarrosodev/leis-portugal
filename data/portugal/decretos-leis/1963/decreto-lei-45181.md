@@ -48,36 +48,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45181-1963-693393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bce3d6b8546d031841d57df159e9d103a1b8ad5497b6e5065e5b078fb17160d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9bf90cd6475481ef445edf143e51a17d46f595ac0511da7489bdc25815d2e70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direitos de Importação
+- Fertilizante
+- Ministério da Economia
+- Ministro das Finanças
+- Sal Químico
+- Taxa
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:56Z'
   warnings: []
   errors: []
 ---
@@ -86,12 +92,12 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministro das Finanças a reduzir para $266 por quilograma a taxa pautal a aplicar ao amoníaco anidro a importar, até ao quantitativo de 8000 t, pelas empresas produtoras de adubos azotados que o utilizem como matéria-prima da sua indústria.
+Artigo 1.º Fica autorizado o Ministro das Finanças a reduzir para $266 por quilograma a taxa pautal a aplicar ao amoníaco anidro a importar, até ao quantitativo de 8000 t, pelas empresas produtoras de adubos azotados que o utilizem como matéria-prima da sua indústria.
 
-###### Art. 2.º As quantidades de amoníaco anidro que poderão ser importadas por cada empresa nas condições do presente diploma serão fixadas ouvido o Ministério da Economia.
+Art. 2.º As quantidades de amoníaco anidro que poderão ser importadas por cada empresa nas condições do presente diploma serão fixadas ouvido o Ministério da Economia.
 
-###### Art. 3.º O disposto nos artigos anteriores aplica-se ao amoníaco anidro já submetido a despacho de importação cujos direitos se encontrem garantidos na data da publicação deste decreto-lei.
+Art. 3.º O disposto nos artigos anteriores aplica-se ao amoníaco anidro já submetido a despacho de importação cujos direitos se encontrem garantidos na data da publicação deste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

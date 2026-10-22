@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46245-1965-238617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa637c4938cdd113cf9958f6e38df22b7c150e6c5e41c9faf8789049f8fbf7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef35fdefdf57ea00ebb7d8f87ccf400215612425b3ca295cf6e0d73621f66645
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- Direcção Geral da Fazenda Pública
+- Marinha Grande
+- OBRA Social
+relationships:
+- type: cites
+  target: pt:dre:514836:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:34Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +98,9 @@ Considerando que a parcela pretendida se destina a um empreendimento de elevado 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Federação de Caixas de Previdência - Obras Sociais, uma parcela de terreno com a área de 32400 m2, sita na freguesia e concelho da Marinha Grande e demarcada na planta anexa a este diploma, do qual faz parte integrante, sendo excluída do terreno a ceder uma faixa de 2 m de largura, a contar do topo das travessas, ao longo do caminho de ferro florestal.
+Artigo 1.º É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Federação de Caixas de Previdência - Obras Sociais, uma parcela de terreno com a área de 32400 m2, sita na freguesia e concelho da Marinha Grande e demarcada na planta anexa a este diploma, do qual faz parte integrante, sendo excluída do terreno a ceder uma faixa de 2 m de largura, a contar do topo das travessas, ao longo do caminho de ferro florestal.
 
-###### Art. 2.º A parcela de terreno objecto da cessão destina-se à construção de um centro de educação infantil e de outras obras de carácter social incluídas no âmbito da competência da cessionária, definida pelos artigos 3.º e 4.º dos Estatutos da Federação de Caixas de Previdência - Obras Sociais, anexos à [Portaria n.º 17967](https://diariodarepublica.pt/dr/detalhe/portaria/17967-1960-514836), de 23 de Setembro de 1960, não podendo ser alienada no todo ou em parte.
+Art. 2.º A parcela de terreno objecto da cessão destina-se à construção de um centro de educação infantil e de outras obras de carácter social incluídas no âmbito da competência da cessionária, definida pelos artigos 3.º e 4.º dos Estatutos da Federação de Caixas de Previdência - Obras Sociais, anexos à [Portaria n.º 17967](https://diariodarepublica.pt/dr/detalhe/portaria/17967-1960-514836), de 23 de Setembro de 1960, não podendo ser alienada no todo ou em parte.
 
 § 1.º Pela cessão, a Federação pagará a compensação de 405250$00, a satisfazer no acto da assinatura do respectivo auto.
 
@@ -100,12 +108,12 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A cessão efectivar-se-á por meio de auto, a lavrar na Repartição de Finanças do concelho da Marinha Grande, e é isenta de impostos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocência Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06600/03310332.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06600/03310332.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06600/03310332.pdf)
 
 Ministério das Finanças, 19 de Março de 1965. - O Ministro das Finanças, António Manuel Pinto Barbosa.

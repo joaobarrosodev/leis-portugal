@@ -47,40 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/19-1984-654963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f97c35bb71842da324a67649ac3b402aaca6b92bb02c80096fcd784595dc7b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbba2d044cd75616d85aa210667688762447c385465e87a7dd97aed7675e4bea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Dinamarca
+- Portugal
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: celex:31968R1016
   label: null
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:49Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +95,19 @@ de 24 de Abril
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo do Reino da Dinamarca Relativo aos Transportes Rodoviários Internacionais de Passageiros e Mercadorias, assinado em Lisboa, em 22 de Julho de 1981, bem como o Protocolo estabelecido ao abrigo do seu artigo 17.º, cujos textos em francês, e respectiva tradução para português, acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo do Reino da Dinamarca Relativo aos Transportes Rodoviários Internacionais de Passageiros e Mercadorias, assinado em Lisboa, em 22 de Julho de 1981, bem como o Protocolo estabelecido ao abrigo do seu artigo 17.º, cujos textos em francês, e respectiva tradução para português, acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - João Rosado Correia.
 
-**Assinado em 27 de Março de 1984.**
+Assinado em 27 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Março de 1984.**
+Referendado em 30 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Accord entre le Gouvernement de la République portugaise et le Gouvernement du Royaume du Danemark concernant les Transports internationaux de Personnes et de Marchandises par Route.
 

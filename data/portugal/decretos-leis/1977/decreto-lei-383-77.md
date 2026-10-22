@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21000/22102224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,162 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6380b6eb184d004e9abac45287cd15ab7940c14908c6bd43bfc3aa64f047ffa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cc9dc715c49616b6f9a2f28f6715f117ad466eb881b3b9955ac9e6e9a0e42f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Orgânica
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTA A DIRECÇÃO GERAL DOS RECURSOS E APROVEITAMENTOS HIDRÁULICOS, PELO DECRETO-LEI NUMERO 246/87, PUBLICADO NO\
+    \ DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 137, DE 17/6/87.\017/6/87.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:227055:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459605:por
+  label: "Substituido o quadro de pessoal aprovado presente diploma, com as alterações do Dec Lei 500/77 de 28-Nov, DR.IS\
+    \ [275] Port.424/78 de 28-Jul, DR.IS [172], Port. 387/79 de 2-Ago, DR.IS [177] e Dec Lei 113/80 de 12-Mai, DR.IS [109]\
+    \ pela PORT.1081/80.1980.12.19.PCM DR.IS [292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-1980-459605
+  date: '1980-12-19'
+- type: amended_by
+  target: pt:dre:397364:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Recursos e Aproveitamentos Hidráulicos aprovado pelo presente\
+    \ diplo,a, alterado pela portaria 1081/80, de 19 de Dezembro e pela portaria 280/82, de 16 de Março, pela PORT.741/82.29.07.1982.MFP,\
+    \ DR.IS [173] de 29.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1982-397364
+  date: '1982-07-29'
+- type: amended_by
+  target: pt:dre:227055:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, alterado pelas Port 1081/80, de 19-Dez, 280/82, de\
+    \ 16-Mar, 590/83, de 20-Mai, 147/84, de 14-Mar, 175/84, de 28-Mar, 939/84, de 19-Dez, 48/85, de 24-Jan, pelo Dec Lei 153/85,\
+    \ de 09-Mai e pela Port 92/86, de 28-Mar, pela PORT.234/86.22.05.1986.MF, DR.IS [117] de 22.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-1986-227055
+  date: '1986-05-22'
+- type: cites
+  target: pt:dre:138289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:281208:por
+  label: Rectificado pela DECL.DD7661.03.12.1977.PCM, DR.IS [279] de 03.12.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-281208
+  date: '1977-12-03'
 article_structure:
-  article_count: 1
-  section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:14Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +304,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º São atribuições da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos as acções de estudo e executivas da gestão, quantitativa e qualitativa, dos recursos hídricos nacionais superficiais e subterrâneos, nomeadamente as exercidas nas seguintes grandes áreas de actuação:
+Artigo 1.º São atribuições da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos as acções de estudo e executivas da gestão, quantitativa e qualitativa, dos recursos hídricos nacionais superficiais e subterrâneos, nomeadamente as exercidas nas seguintes grandes áreas de actuação:
 
 1) Estudo dos recursos hídricos nacionais, incluindo a recolha e tratamento dos dados da observação hidrológica, da prospecção hidrogeológica, do estudo das reservas de água subterrâneas e da hidrografia fluvial;
 
@@ -216,67 +338,67 @@ c) Defesa contra a poluição e a eutrofização das águas públicas, incluindo
 
 10) Organização e apoio das comissões nacionais e representação nacional nas organizações internacionais especializadas em problemas de gestão e utilização de recursos hídricos, hidrologia, economia da água e obras hidráulicas, em colaboração com as entidades interessadas.
 
-###### Art. 2.º - 1. No âmbito das atribuições cometidas à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos pelo artigo 1.º do presente diploma mantém-se aplicável a legislação em vigor, devendo reportar-se a esta Direcção-Geral as referências nela contidas à Direcção-Geral dos Serviços Hidráulicos.
+Art. 2.º - 1. No âmbito das atribuições cometidas à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos pelo artigo 1.º do presente diploma mantém-se aplicável a legislação em vigor, devendo reportar-se a esta Direcção-Geral as referências nela contidas à Direcção-Geral dos Serviços Hidráulicos.
 
 2. São revogados os artigos 6.º, 7.º, 9.º, 10.º, 11.º e 12.º do [Decreto-Lei n.º 605/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1972-163788), de 29 de Dezembro.
 
 ### CAPÍTULO II — Estrutura dos serviços
 
-###### Art. 3.º - 1. A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos disporá dos seguintes serviços centrais, técnicos e administrativos:
+Art. 3.º - 1. A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos disporá dos seguintes serviços centrais, técnicos e administrativos:
 
 a) Gabinete de Planeamento Hidráulico, compreendendo:
 
-##### Divisão de Estudos e Planeamento;
+Divisão de Estudos e Planeamento;
 
-##### Divisão de Estudos Económicos;
+Divisão de Estudos Económicos;
 
-##### Divisão de Topografia e Cartografia Hidráulica;
+Divisão de Topografia e Cartografia Hidráulica;
 
 Centro de Informática e Cálculo Automático;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 b) Direcção dos Serviços de Obras Hidráulicas, compreendendo:
 
-##### Divisão de Projectos de Aproveitamentos Hidráulicos;
+Divisão de Projectos de Aproveitamentos Hidráulicos;
 
-##### Divisão de Projectos de Hidráulica Fluvial;
+Divisão de Projectos de Hidráulica Fluvial;
 
 ##### Divisão de Construção;
 
-##### Divisão de Fiscalização e Exploração;
+Divisão de Fiscalização e Exploração;
 
-##### Divisão de Conservação;
+Divisão de Conservação;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 c) Direcção dos Serviços de Hidrologia, compreendendo:
 
-##### Divisão de Hidrometria;
+Divisão de Hidrometria;
 
-##### Divisão de Estudos Hidrológicos;
+Divisão de Estudos Hidrológicos;
 
-##### Divisão de Geoidrologia;
+Divisão de Geoidrologia;
 
-##### Divisão de Hidrografia Fluvial;
+Divisão de Hidrografia Fluvial;
 
 Centro de Tecnologia Hidrológica;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 d) Direcção dos Serviços de Contrôle da Poluição, compreendendo:
 
-##### Divisão de Estudos da Qualidade das Águas;
+Divisão de Estudos da Qualidade das Águas;
 
-##### Divisão de Contrôle da Poluição;
+Divisão de Contrôle da Poluição;
 
-##### Divisão de Estudos de Normalização do Uso das Águas;
+Divisão de Estudos de Normalização do Uso das Águas;
 
 Centro de Estudos Especiais;
 
 Laboratório;
 
-#### Secção de Expediente Técnico;
+Secção de Expediente Técnico;
 
 (Esta Direcção trabalhará em ligação com outros sectores interessados, tal como a Comissão Nacional contra a Poluição do Mar, nas zonas influenciadas pela propagação da maré.)
 
@@ -316,7 +438,7 @@ Laboratório;
 
 Fiscalização (polícia das águas);
 
-#### Secção de serviços administrativos.
+Secção de serviços administrativos.
 
 4. Cada secção hidráulica será dividida em lanços.
 
@@ -328,7 +450,7 @@ Fiscalização (polícia das águas);
 
 ### CAPÍTULO III — Competência dos serviços
 
-###### Art. 4.º Ao Gabinete de Planeamento Hidráulico, cuja actividade será exercida em colaboração com o Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas, compete:
+Art. 4.º Ao Gabinete de Planeamento Hidráulico, cuja actividade será exercida em colaboração com o Gabinete de Planeamento e Contrôle do Ministério das Obras Públicas, compete:
 
 1) Na Divisão de Estudos e Planeamento:
 
@@ -374,7 +496,7 @@ c) Proceder à análise e programação aplicada à gestão administrativa dos s
 
 d) Realizar o cálculo automático necessário às funções dos vários serviços.
 
-###### Art. 5.º À Direcção dos Serviços de Obras Hidráulicas compete:
+Art. 5.º À Direcção dos Serviços de Obras Hidráulicas compete:
 
 1) Na Divisão de Projectos de Aproveitamentos Hidráulicos:
 
@@ -442,7 +564,7 @@ e) Promover e acompanhar a aplicação do Regulamento das Pequenas Barragens de 
 
 f) Promover a coordenação e normalização das actividades das direcções hidráulicas no sector da fiscalização e polícia das águas.
 
-###### Art. 6.º À Direcção dos Serviços de Hidrologia compete:
+Art. 6.º À Direcção dos Serviços de Hidrologia compete:
 
 1) Na Divisão de Hidrometria:
 
@@ -508,7 +630,7 @@ e) Prestar apodo técnico à Comissão Portuguesa para o Programa Hidrológico I
 
 (Esta Direcção trabalhará em ligação com outros sectores interessados, tal como a Comissão Nacional contra a Poluição do Mar, nas zonas influenciadas pela propagação da maré.)
 
-###### Art. 7.º À Direcção dos Serviços de Contrôle da Poluição compete:
+Art. 7.º À Direcção dos Serviços de Contrôle da Poluição compete:
 
 1) Na Divisão de Estudos da Qualidade das Águas:
 
@@ -574,7 +696,7 @@ g) Prestar apoio técnico à Comissão Portuguesa para o Programa Hidrológico I
 
 (Esta Direcção trabalhará em ligação com outros sectores interessados, tal como a Comissão Nacional contra a Poluição do Mar, nas zonas influenciadas pela propagação da maré.)
 
-###### Art. 8.º À Direcção dos Serviços Administrativos compete:
+Art. 8.º À Direcção dos Serviços Administrativos compete:
 
 1) Na Repartição de Pessoal:
 
@@ -610,7 +732,7 @@ e) Preparar, recolher e divulgar elementos documentais necessários à execuçã
 
 f) Promover o expediente geral.
 
-###### Art. 9.º À Divisão de Contrôle e Coordenação compete:
+Art. 9.º À Divisão de Contrôle e Coordenação compete:
 
 a) Coordenar os planos de obras hidráulicas sectoriais da Direcção-Geral, incluindo os das direcções hidráulicas;
 
@@ -622,7 +744,7 @@ d) Proceder à análise crítica dos planos e programas de execução de estudos
 
 e) Proceder a estudos de produtividade e de métodos aplicados ao contrôle e coordenação dos planos de estudos e obras hidráulicas.
 
-###### Art. 10.º Ao Centro de Documentação e Secretariado para as Relações Internacionais compete:
+Art. 10.º Ao Centro de Documentação e Secretariado para as Relações Internacionais compete:
 
 a) Efectuar a pesquisa, aquisição ou anotação de documentação técnica e científica especializada de interesse para os serviços;
 
@@ -640,7 +762,7 @@ g) Apoiar os núcleos de documentação técnica especializada de cada uma das d
 
 h) Efectuar e manter actualizada a correspondência e o intercâmbio de documentação com os organismos internacionais especializados, dando apoio e recebendo orientação das comissões nacionais portuguesas e dos respectivos secretariados técnicos, quando existam.
 
-###### Art. 11.º Às direcções hidráulicas compete:
+Art. 11.º Às direcções hidráulicas compete:
 
 1) Nos estudos e obras:
 
@@ -726,7 +848,7 @@ e) Assegurar os serviços de reprografia.
 
 ### CAPÍTULO IV — Órgãos de apoio
 
-###### Art. 12.º - 1. Na Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos funcionará um Centro de Estudos dos Recursos Hídricos, que tem como funções coordenar dados e resultados dos estudos e trabalhos dos diversos serviços da Direcção-Geral e de outros organismos e promover os estudos complementares que sejam necessários aos seus seguintes objectivos:
+Art. 12.º - 1. Na Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos funcionará um Centro de Estudos dos Recursos Hídricos, que tem como funções coordenar dados e resultados dos estudos e trabalhos dos diversos serviços da Direcção-Geral e de outros organismos e promover os estudos complementares que sejam necessários aos seus seguintes objectivos:
 
 a) Avaliação das disponibilidades e das necessidades de recursos hídricos e efectivação dos respectivos balanços hídricos, a nível nacional, regional ou de bacia hidrográfica, tendo em conta as áreas não nacionais das bacias hidrográficas;
 
@@ -742,7 +864,7 @@ e) Propostas de medidas técnicas, legislativas e económicas necessárias à op
 
 3. A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos poderá obter, mediante simples ajuste, a colaboração, a título eventual, de técnicos de reconhecida competência, que se torne necessária aos estudos e objectivos do Centro de Estudos dos Recursos Hídricos.
 
-###### Art. 13.º - 1. A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos será assistida por dois órgãos de apoio - um Conselho Técnico e um Conselho de Gestão Administrativa e de Pessoal.
+Art. 13.º - 1. A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos será assistida por dois órgãos de apoio - um Conselho Técnico e um Conselho de Gestão Administrativa e de Pessoal.
 
 2. O Conselho Técnico terá a seguinte constituição:
 
@@ -810,15 +932,15 @@ z") Um secretário, sem voto, a designar para cada reunião pelo presidente.
 
 6. O Conselho Técnico poderá funcionar em plenário ou por secções, cuja composição será fixada por despacho do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico e que, em princípio, serão as seguintes:
 
-#### Secção interna, constituída somente pelos vogais da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos;
+Secção interna, constituída somente pelos vogais da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos;
 
-#### Secção de planeamento e obras hidráulicas;
+Secção de planeamento e obras hidráulicas;
 
-#### Secção de protecção dos recursos hídricos.
+Secção de protecção dos recursos hídricos.
 
 7. O presidente poderá convocar reuniões do Conselho Técnico ou das suas secções, ou ainda reuniões restritas a um certo número de vogais, quando a natureza e o âmbito do assunto a tratar o justifique.
 
-###### Art. 14.º - 1. O Conselho de Gestão Administrativa e de Pessoal é um órgão consultivo interno que terá a seguinte constituição:
+Art. 14.º - 1. O Conselho de Gestão Administrativa e de Pessoal é um órgão consultivo interno que terá a seguinte constituição:
 
 a) O director-geral, que presidirá;
 
@@ -848,7 +970,7 @@ d) Outros assuntos de gestão administrativa e de pessoal sobre os quais o presi
 
 4. O presidente poderá convocar reuniões do Conselho de Gestão Administrativa e de Pessoal restritas a um certo número de vogais, quando a natureza e o âmbito do assunto a tratar o justifique e o plenário do Conselho o aprove.
 
-###### Art. 15.º Cada direcção hidráulica será assistida por um conselho de bacias hidrográficas com funções consultivas e com a seguinte constituição:
+Art. 15.º Cada direcção hidráulica será assistida por um conselho de bacias hidrográficas com funções consultivas e com a seguinte constituição:
 
 a) O director da direcção hidráulica, que presidirá;
 
@@ -876,13 +998,13 @@ l) Um secretário, sem voto, a designar pelo presidente
 
 ### CAPÍTULO V — Medidas de gestão técnica
 
-###### Art. 16.º Nos termos do artigo 11.º do Decreto-Lei n.º 48482, de 11 de Julho de 1968, conjugados com os do artigo 1.º do presente diploma, a competência da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos respeitante ao licenciamento ou concessão de águas públicas e à execução de obras será exercida pelos seus escalões hierárquicos, de acordo com o que for fixado pelo Ministro das Obras Públicas ou pelo Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, tendo em atenção a descentralização de atribuições e o aumento da competência dos serviços regionais.
+Art. 16.º Nos termos do artigo 11.º do Decreto-Lei n.º 48482, de 11 de Julho de 1968, conjugados com os do artigo 1.º do presente diploma, a competência da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos respeitante ao licenciamento ou concessão de águas públicas e à execução de obras será exercida pelos seus escalões hierárquicos, de acordo com o que for fixado pelo Ministro das Obras Públicas ou pelo Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, tendo em atenção a descentralização de atribuições e o aumento da competência dos serviços regionais.
 
-###### Art. 17.º - 1. A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos estudará e proporá medidas técnicas, legislativas, económicas e fiscais adequadas a uma racional gestão dos recursos hídricos, superficiais e subterrâneos, em moldes actualizados e de acordo com as circunstâncias nacionais, tendo como objectivos o seu estudo sistemático, a sua conservação e protecção, especialmente da qualidade, e a defesa contra a poluição.
+Art. 17.º - 1. A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos estudará e proporá medidas técnicas, legislativas, económicas e fiscais adequadas a uma racional gestão dos recursos hídricos, superficiais e subterrâneos, em moldes actualizados e de acordo com as circunstâncias nacionais, tendo como objectivos o seu estudo sistemático, a sua conservação e protecção, especialmente da qualidade, e a defesa contra a poluição.
 
 2. Para os efeitos do número anterior, será revisto e regulamentado o [Decreto-Lei n.º 48483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48483-1968-272667), de 11 de Julho de 1968, em termos a estudar e a propor pela Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, considerando a aplicação dos princípios poluidor-pagador e utente-pagador.
 
-###### Art. 18.º - 1. As taxas, emolumentos e multas cobrados pela Direcção-Geral dos Recursos e Apoveitamentos Hidráulicos, quer através das licenças por si emitidas, quer pelas acções de gestão e polícia das águas a seu cargo, nos termos da legislação vigente ou a promulgar, sê-lo-ão mediante guias e serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, constituindo receita própria da Direcção-Geral.
+Art. 18.º - 1. As taxas, emolumentos e multas cobrados pela Direcção-Geral dos Recursos e Apoveitamentos Hidráulicos, quer através das licenças por si emitidas, quer pelas acções de gestão e polícia das águas a seu cargo, nos termos da legislação vigente ou a promulgar, sê-lo-ão mediante guias e serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, constituindo receita própria da Direcção-Geral.
 
 2. A receita própria constituída pelos depósitos referidos no número anterior destina-se exclusivamente a acções e trabalhos de estudo, conservação e protecção de recursos hídricos referidos no artigo 7.º
 
@@ -894,9 +1016,9 @@ l) Um secretário, sem voto, a designar pelo presidente
 
 ### CAPÍTULO VI — Relações internacionais
 
-###### Art. 19.º À Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos incumbe assegurar a organização e o apoio logístico e de secretariado das comissões e associações nacionais e as relações com as organizações internacionais especializadas em problemas de gestão e utilização de recursos hídricos, hidrologia, economia da água e obras hidráulicas.
+Art. 19.º À Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos incumbe assegurar a organização e o apoio logístico e de secretariado das comissões e associações nacionais e as relações com as organizações internacionais especializadas em problemas de gestão e utilização de recursos hídricos, hidrologia, economia da água e obras hidráulicas.
 
-###### Art. 20.º - 1. De acordo com o n.º 1 do artigo 2.º do [Decreto n.º 117-B/76](https://diariodarepublica.pt/dr/detalhe/decreto/117-b-1976-317131), de 9 de Fevereiro, a Comissão Portuguesa para o Programa Hidrológico Internacional, a seguir designada por CPPHI, funcionará na Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
+Art. 20.º - 1. De acordo com o n.º 1 do artigo 2.º do [Decreto n.º 117-B/76](https://diariodarepublica.pt/dr/detalhe/decreto/117-b-1976-317131), de 9 de Fevereiro, a Comissão Portuguesa para o Programa Hidrológico Internacional, a seguir designada por CPPHI, funcionará na Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
 
 2. A CPPHI será constituída por um presidente, que será, em princípio, o director-geral dos serviços referidos no número anterior, e por oito vogais permanentes, que serão designados por despacho conjunto dos Ministros ou Secretários de Estado interessados e do Ministro das Obras Públicas ou do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, sob proposta do presidente da CPPHI.
 
@@ -910,7 +1032,7 @@ l) Um secretário, sem voto, a designar pelo presidente
 
 ### CAPÍTULO VII — Pessoal
 
-###### Art. 21.º - 1. O quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos é o constante do mapa anexo a este diploma e que dele faz parte integrante.
+Art. 21.º - 1. O quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos é o constante do mapa anexo a este diploma e que dele faz parte integrante.
 
 2. O pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos será agrupado de acordo com a seguinte classificação:
 
@@ -928,7 +1050,7 @@ d) Pessoal auxiliar.
 
 5. O quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos poderá ser alterado por portaria conjunta do Ministro das Obras Públicas e do Secretário de Estado da Administração Pública e, quando envolver aumento de despesa, do Ministro das Finanças.
 
-###### Art. 22.º - 1. O provimento do pessoal do quadro da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos será feito por nomeação ou contrato, nos termos da lei geral, de entre indivíduos aprovados em concurso público para o respectivo lugar, salvo os casos especiais constantes do presente diploma ou da legislação específica do Ministério das Obras Públicas.
+Art. 22.º - 1. O provimento do pessoal do quadro da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos será feito por nomeação ou contrato, nos termos da lei geral, de entre indivíduos aprovados em concurso público para o respectivo lugar, salvo os casos especiais constantes do presente diploma ou da legislação específica do Ministério das Obras Públicas.
 
 2. Os provimentos efectuados nos termos do número anterior terão carácter provisório durante um ano, sendo os funcionários considerados em regime de estágio nesse período, findo o qual serão providos definitivamente, se tiverem revelado aptidão para os respectivos lugares, ou exonerados no caso contrário.
 
@@ -936,7 +1058,7 @@ d) Pessoal auxiliar.
 
 4. Além do pessoal do quadro, poderá ser contratado ou assalariado, em regime de prestação eventual de serviço ou de tarefa, outro pessoal necessário ao serviço da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, sem prejuízo do disposto nos n.os 1 e 3 do artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro, desde que no respectivo orçamento tenham cabimento as despesas correspondentes.
 
-###### Art. 23.º - 1. Serão preenchidos por escolha do Ministro das Obras Públicas, mediante proposta do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, os lugares de:
+Art. 23.º - 1. Serão preenchidos por escolha do Ministro das Obras Públicas, mediante proposta do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, os lugares de:
 
 a) Director-geral, nos termos do [Decreto-Lei n.º 118/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1975-160715), de 8 de Março, e do artigo 9.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro;
 
@@ -956,7 +1078,7 @@ e) Directores de serviços regionais, pela forma prevista na alínea n) do artig
 
 3. O preenchimento dos lugares de pessoal dirigente será feito em regime de comissão de serviço, por tempo indeterminado, exceptuando-se deste regime o lugar de chefe de repartição e o pessoal dirigente com nomeação definitiva, que consta das observações insertas no mapa de pessoal anexo ao presente diploma.
 
-###### Art. 24.º - 1. O recrutamento do pessoal para os lugares do quadro que não sejam preenchidos ao abrigo do artigo 25.º será efectuado de harmonia com as seguintes regras:
+Art. 24.º - 1. O recrutamento do pessoal para os lugares do quadro que não sejam preenchidos ao abrigo do artigo 25.º será efectuado de harmonia com as seguintes regras:
 
 a) Pessoal técnico:
 
@@ -996,7 +1118,7 @@ c) Pessoal auxiliar, nos termos da lei geral.
 
 5. o acesso do restante pessoal far-se-á nos termos da lei geral, tendo em atenção o regime consignado no [Decreto-Lei n.º 103/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1976-507194), de 4 de Fevereiro.
 
-###### Art. 25.º - 1. O primeiro provimento nas vagas do quadro aprovado pelo presente diploma será feito:
+Art. 25.º - 1. O primeiro provimento nas vagas do quadro aprovado pelo presente diploma será feito:
 
 a) De entre funcionários vitalícios e contratados do quadro da extinta Direcção-Geral dos Serviços Hidráulicos que, após a publicação do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), tenham ficado a prestar serviço na Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, de acordo com o despacho de 10 de Fevereiro de 1976 do Ministro das Obras Públicas, publicado no Diário do Governo, 2.ª série, n.º 65, de 17 de Março de 1976, e a lista anexa ao mesmo despacho, publicada no Diário da República, 2.ª série, n.º 119, de 21 de Maio de 1976, bem como o pessoal que posteriormente tenha ingressado no quadro e ficado a prestar serviço nesta Direcção-Geral;
 
@@ -1012,9 +1134,9 @@ b) De entre pessoal da extinta Direcção-Geral dos Serviços Hidráulicos que t
 
 6. No preenchimento das vagas do novo quadro levar-se-ão em conta as classificações obtidas em concursos de promoção já efectuados na Direcção-Geral dos Serviços Hidráulicos, os anos de bom e efectivo serviço prestado ao Estado, as habilitações literárias e outros elementos que atestem o mérito do funcionário.
 
-###### Art. 26.º Para o preenchimento dos lugares do quadro não abrangidos no primeiro provimento poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto-Lei n.º 27236, de 23 de Novembro de 1936, sempre que não haja opositores obrigatórios em número suficiente.
+Art. 26.º Para o preenchimento dos lugares do quadro não abrangidos no primeiro provimento poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto-Lei n.º 27236, de 23 de Novembro de 1936, sempre que não haja opositores obrigatórios em número suficiente.
 
-###### Art. 27.º - 1. Serão organizados cursos de frequência obrigatória tendo em vista a preparação e aperfeiçoamento do pessoal no que se refere, designadamente, aos problemas específicos da actividade técnica e administrativa da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
+Art. 27.º - 1. Serão organizados cursos de frequência obrigatória tendo em vista a preparação e aperfeiçoamento do pessoal no que se refere, designadamente, aos problemas específicos da actividade técnica e administrativa da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
 
 2. Por despacho do Ministro das Obras Públicas os actuais concursos de promoção poderão ser substituídos por cursos de formação adequados.
 
@@ -1024,22 +1146,22 @@ b) De entre pessoal da extinta Direcção-Geral dos Serviços Hidráulicos que t
 
 ### CAPÍTULO VIII — Disposições diversas
 
-###### Art. 28.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Obras Públicas ou do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico e do Secretário de Estado da Administração Pública e, quando envolverem aumento de despesa, do Ministro das Finanças.
+Art. 28.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro das Obras Públicas ou do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico e do Secretário de Estado da Administração Pública e, quando envolverem aumento de despesa, do Ministro das Finanças.
 
-###### Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 29.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - João Orlindo de Almeida Pina.
 
-**Promulgado em 12 de Agosto de 1977.**
+Promulgado em 12 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA ANEXO
 
 Quadro e vencimentos do pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/21000/22102224.pdf))](https://files.diariodarepublica.pt/1s/1977/09/21000/22102224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/21000/22102224.pdf)
 
-**O Ministro das Obras Públicas, João Orlindo de Almeida Pina.**
+O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43992-1961-182861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d066821ebf5d33f242fa26e0a004a128728bf9b7bb57133b931dfe0926f3e7fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc981f19e37420e8f9d60c012c441a958e8e1660433afc01460281fbf99e20c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Consultivo
+- Junta de Energia Nuclear
+- Orgânica
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:216882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:43Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +102,16 @@ Convindo introduzir algumas alterações na orgânica da Junta de Energia Nuclea
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É reposto em vigor o artigo 1.º do [Decreto-Lei n.º 39581](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39581-1954-216882), de 29 de Março de 1954.
+Artigo 1.º É reposto em vigor o artigo 1.º do [Decreto-Lei n.º 39581](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39581-1954-216882), de 29 de Março de 1954.
 
-###### Art. 2.º Quando o lugar de presidente da Junta for desempenhado por professor catedrático de Universidade, poderá este, mediante autorização do Presidente do Conselho e sem qualquer encargo para o Estado, ser nomeado para participar nos júris de concurso e doutoramento da sua Universidade, bem como proferir nela lições e conferências.
+Art. 2.º Quando o lugar de presidente da Junta for desempenhado por professor catedrático de Universidade, poderá este, mediante autorização do Presidente do Conselho e sem qualquer encargo para o Estado, ser nomeado para participar nos júris de concurso e doutoramento da sua Universidade, bem como proferir nela lições e conferências.
 
-###### Art. 3.º O presidente e os directores-gerais da Junta de Energia Nuclear são incluídos no n.º 1.º do artigo 1.º do regulamento anexo ao [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
+Art. 3.º O presidente e os directores-gerais da Junta de Energia Nuclear são incluídos no n.º 1.º do artigo 1.º do regulamento anexo ao [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
 
-###### Art. 4.º Do conselho consultivo da Junta de Energia Nuclear passa a fazer parte como vogal o director do Instituto Nacional de Investigação Industrial.
+Art. 4.º Do conselho consultivo da Junta de Energia Nuclear passa a fazer parte como vogal o director do Instituto Nacional de Investigação Industrial.
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Novembro de 1961 e revoga o artigo 26.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Novembro de 1961 e revoga o artigo 26.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

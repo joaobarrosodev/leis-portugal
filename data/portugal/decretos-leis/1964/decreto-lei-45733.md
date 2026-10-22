@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45733-1964-576704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bc5951e42563a9c3afa4c4eb12188221806eeb6e5d48545ffd3b0b585c6bf3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4380dfcbb48d06f4f9b4246a568cab492f8785569521b4518d701e8e7bbff4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Especialidade Militar
+- Exército
+- Forças Armadas
+- Militar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:230544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668687:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:13Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +120,7 @@ Com posteriores alterações de pormenor, o princípio de aproveitamento estabel
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro de amanuenses do Exército, criado pelos artigos 44.º e 45.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, alterado pelo artigo 1.º do [Decreto-Lei n.º 28484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28484-1938-230544), de 19 de Fevereiro de 1938, pelo artigo 1.º do [Decreto-Lei n.º 32692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32692-1943-301397), de 20 de Fevereiro de 1943, e pelo artigo 22.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956, passa a ter a designação de «quadro de sargentos do serviço geral do Exército» (Q. S. S. G. E.), com a seguinte constituição:
+Artigo 1.º O quadro de amanuenses do Exército, criado pelos artigos 44.º e 45.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, alterado pelo artigo 1.º do [Decreto-Lei n.º 28484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28484-1938-230544), de 19 de Fevereiro de 1938, pelo artigo 1.º do [Decreto-Lei n.º 32692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32692-1943-301397), de 20 de Fevereiro de 1943, e pelo artigo 22.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956, passa a ter a designação de «quadro de sargentos do serviço geral do Exército» (Q. S. S. G. E.), com a seguinte constituição:
 
 Sargentos-ajudantes ... 100
 
@@ -111,7 +132,7 @@ Total ... 790
 
 § único. Os sargentos do quadro de amanuenses do Exército referido no corpo do artigo transitam automàticamente para o Q. S. S. G. E.
 
-###### Art. 2.º No quadro de sargentos do serviço geral do Exército ingressam:
+Art. 2.º No quadro de sargentos do serviço geral do Exército ingressam:
 
 a) Os sargentos-ajudantes que não reúnam as condições de promoção a alferes do quadro do serviço geral do Exército ou que atinjam a idade de 55 anos;
 
@@ -129,9 +150,9 @@ e) Os primeiros e segundos-sargentos enfermeiros hípicos que atinjam respectiva
 
 § 3.º A aptidão para ingresso no Q. S. S. G. E. a que se referem as alíneas d) e c) do corpo do artigo será avaliada pela Junta Hospitalar de Inspecção e por provas a fixar mediante despacho ministerial.
 
-###### Art. 3.º Os sargentos do Q. S. S. G. E. transitam para a situação de reforma aos 60 anos.
+Art. 3.º Os sargentos do Q. S. S. G. E. transitam para a situação de reforma aos 60 anos.
 
-###### Art. 4.º Os sargentos que, nos termos do artigo 2.º, devam passar ao Q. S. S. G. E. e não tenham vacatura são considerados supranumerários a este quadro no respectivo posto, preenchendo posteriormente vaga nas condições estabelecidas no presente decreto-lei.
+Art. 4.º Os sargentos que, nos termos do artigo 2.º, devam passar ao Q. S. S. G. E. e não tenham vacatura são considerados supranumerários a este quadro no respectivo posto, preenchendo posteriormente vaga nas condições estabelecidas no presente decreto-lei.
 
 A data da passagem à situação de supranumerário é sempre a do facto que originou a passagem ao Q. S. S. G. E.
 
@@ -139,7 +160,7 @@ A data da passagem à situação de supranumerário é sempre a do facto que ori
 
 § 2.º Enquanto não entrar em vigor a doutrina constante do corpo do artigo, os sargentos continuam a ser considerados no seu quadro de origem, onde preenchem vaga, até que ocorra vacatura no seu posto no Q. S. S. G. E., ingressando então neste quadro, nas condições estabelecidas no presente diploma.
 
-###### Art. 5.º No quadro de sargentos do serviço geral do Exército efectuar-se-ão promoções nas seguintes condições:
+Art. 5.º No quadro de sargentos do serviço geral do Exército efectuar-se-ão promoções nas seguintes condições:
 
 A sargento-ajudante: mediante vacatura, por prestação de provas dos primeiros-sargentos, as quais não alteram a escala, mas são eliminatórias.
 
@@ -155,7 +176,7 @@ A segundo-sargento: por diuturnidade, contando para o efeito o tempo de furiel n
 
 § 4.º A prestação de provas dos primeiros-sargentos a que se refere o corpo do artigo pode ser repetida por uma só vez.
 
-###### Art. 6.º Sempre que haja solicitação de vacaturas no Q. S. S. G. E. para ingresso e para promoção, observar-se-ão as seguintes regras:
+Art. 6.º Sempre que haja solicitação de vacaturas no Q. S. S. G. E. para ingresso e para promoção, observar-se-ão as seguintes regras:
 
 Sargento-ajudante:
 
@@ -169,13 +190,13 @@ Duas vagas para ingresso.
 
 Uma vaga para promoção.
 
-###### Art. 7.º Os sargentos do Q. S. S. G. E. serão nele inscritos na escala do seu posto e na posição correspondente à antiguidade.
+Art. 7.º Os sargentos do Q. S. S. G. E. serão nele inscritos na escala do seu posto e na posição correspondente à antiguidade.
 
 Em caso de igualdade tem aplicação a regra geral dos demais quadros.
 
 § único. Os sargentos que, nos termos do § 2.º do artigo 4.º, continuem temporàriamente a preencher vaga no quadro de origem à data do facto que originou a passagem ao Q. S. S. G. E., serão desde logo inscritos na respectiva escala, de conformidade com a sua antiguidade, no sentido de se possibilitar sempre a nomeação adequada para serviço, incluindo a mobilização.
 
-###### Art. 8.º Os sargentos que transitam para o Q. S. S. G. E. serão à data da sua passagem a este quadro reclassificados em termos de especialidade, com vista ao seu melhor aproveitamento.
+Art. 8.º Os sargentos que transitam para o Q. S. S. G. E. serão à data da sua passagem a este quadro reclassificados em termos de especialidade, com vista ao seu melhor aproveitamento.
 
 § 1.º Todos podem ser destinados à função de secretariado; contudo, nas especialidades das armas e serviços em que se reconhecer carência poderão continuar a desempenhar as funções de tais especialidades e bem assim ser nomeados para essas funções no ultramar, em situações compatíveis com a sua idade e estado físico.
 
@@ -183,6 +204,6 @@ Em caso de igualdade tem aplicação a regra geral dos demais quadros.
 
 3.º Serão fixadas por despacho ministerial as especialidades das armas e serviços considerados em carência e bem assim estabelecidas as condições a observar quanto à aplicação da doutrina do parágrafo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

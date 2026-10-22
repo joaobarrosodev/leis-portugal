@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01400/00790080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1977-138293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eae19ebfe3bfd7409a6735bdec27af99eee837c51da9dda161b3fbc9a689e2de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fa0e0d96088baf3c5d933c76f20add6f5f1dfc3bd851289aff9c64cbb2f22ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Direitos Aduaneiros
+- Gestão Financeira
+- Gestão Orçamental
+- Imposto do SELO
+- Madeira.região Autónoma
+- Receita Própria
+- Receita Pública
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228206:por
+  label: "Alterado o art. 1.º pelo DEC LEI.186/86.14.07.1986.MF, DR.IS [159] de 14.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1986-228206
+  date: '1986-07-14'
+- type: amended_by
+  target: pt:dre:662751:por
+  label: "Alterado o nº 2 do art. 3º pela LEI.2/88.26.01.1988.AR, DR.IS [21-Supl] de 26.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1988-662751
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:469072:por
+  label: Alterado o art. 3.º pela LEI.65/90.28.12.1990.AR, DR.IS [298-3ºSupl] de 28.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1990-469072
+  date: '1990-12-28'
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:23Z'
   warnings: []
   errors: []
 ---
@@ -99,32 +137,32 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Constituem receitas da Região Autónoma dos Açores e da Região Autónoma da Madeira todos os impostos, taxas e adicionais cobrados, respectivamente, em cada uma delas, incluindo o imposto do selo, os direitos aduaneiros e demais imposições cobradas pela Alfândega, nomeadamente a taxa de salvação nacional incidente sobre a gasolina e outros combustíveis derivados do petróleo.
+Artigo 1.º - 1. Constituem receitas da Região Autónoma dos Açores e da Região Autónoma da Madeira todos os impostos, taxas e adicionais cobrados, respectivamente, em cada uma delas, incluindo o imposto do selo, os direitos aduaneiros e demais imposições cobradas pela Alfândega, nomeadamente a taxa de salvação nacional incidente sobre a gasolina e outros combustíveis derivados do petróleo.
 
 2. Para efeitos deste diploma, os impostos consideram-se cobrados na Região Autónoma onde devam ser liquidados nos termos da lei.
 
 3. Relativamente ao imposto complementar, constitui receita de cada Região Autónoma o devido pelas pessoas que nela tenham a residência ou a sede, consoante se trate da secção A ou da secção B, ou representação permanente, tratando-se de pessoa colectiva que não seja sociedade com sede fora de Portugal.
 
-###### Art. 2.º Como contrapartida do imposto de transacções e da taxa de compensação sobre gasolina, relativos às mercadorias destinadas às Regiões Autónomas e liquidados no continente, será atribuída a cada uma daquelas uma importância a fixar pelo Ministro das Finanças, ouvido o respectivo Governo Regional.
+Art. 2.º Como contrapartida do imposto de transacções e da taxa de compensação sobre gasolina, relativos às mercadorias destinadas às Regiões Autónomas e liquidados no continente, será atribuída a cada uma daquelas uma importância a fixar pelo Ministro das Finanças, ouvido o respectivo Governo Regional.
 
-###### Art. 3.º - 1. A cobrança dos impostos será feita pelos serviços competentes do Estado e o produto entregue mensalmente nas agências do Banco de Portugal para ser creditado na conta da Região Autónoma respectiva.
+Art. 3.º - 1. A cobrança dos impostos será feita pelos serviços competentes do Estado e o produto entregue mensalmente nas agências do Banco de Portugal para ser creditado na conta da Região Autónoma respectiva.
 
 2. Cada Região Autónoma pagará ao Tesouro, como compensação da cobrança, mediante dedução na respectiva ordem de entrega de receita, 5% das quantias entregues.
 
 3. Esta percentagem poderá ser revista quando se mostrar necessário.
 
-###### Art. 4.º O estabelecido neste diploma não afecta o regime financeiro das autarquias locais, incluindo o disposto sobre os adicionais aos impostos que constituem receitas destas e o sistema da respectiva repartição pelas autarquias locais do continente e das Regiões Autónomas.
+Art. 4.º O estabelecido neste diploma não afecta o regime financeiro das autarquias locais, incluindo o disposto sobre os adicionais aos impostos que constituem receitas destas e o sistema da respectiva repartição pelas autarquias locais do continente e das Regiões Autónomas.
 
-###### Art. 5.º As dúvidas levantadas na execução deste diploma serão resolvidas por despacho do Ministro das Finanças, ouvidas as Regiões Autónomas interessadas.
+Art. 5.º As dúvidas levantadas na execução deste diploma serão resolvidas por despacho do Ministro das Finanças, ouvidas as Regiões Autónomas interessadas.
 
-###### Art. 6.º - 1. O disposto neste diploma aplica-se desde a data da entrada em vigor da Constituição da República Portuguesa.
+Art. 6.º - 1. O disposto neste diploma aplica-se desde a data da entrada em vigor da Constituição da República Portuguesa.
 
 2. Fica o Ministro das Finanças autorizado a tomar as medidas necessárias para execução deste diploma, com base em proposta que, para o efeito, lhe for presente pelas Direcções-Gerais das Contribuições e Impostos, das Alfândegas e da Contabilidade Pública.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 6 de Janeiro de 1977.**
+Promulgado em 6 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

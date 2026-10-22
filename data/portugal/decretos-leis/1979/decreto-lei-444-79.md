@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/25900/28712874.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1979-363279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec1b93a41a3283fb32ed1c98d9c21916547d4a2d589337f112b778a7d7988b46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 655081acbbf571a25e38bc00e858a6cf2dcd884e08664e249d3d9b550b419e24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águas Residuais
+- Definição de Competências
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Estabelecimento Industrial
+- Gabinete da Área de Sines
+- Poluição da água
+- Poluição Industrial
+- Proteção do Ambiente
+- Resíduo Industrial
+- Saúde Pública
+- Zona Industrial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:286114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420995:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:53Z'
   warnings: []
   errors: []
 ---
@@ -113,17 +138,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É atribuída competência ao Gabinete da Área de Sines para, em relação à zona da sua actuação directa, fazer cumprir limites máximos de concentração para cada um dos principais poluentes hídricos a descarregar por unidades industriais e ou urbanas instaladas ou a instalar naquela zona, sem prejuízo da competência atribuída à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos pelo [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114).
+Artigo 1.º - 1 - É atribuída competência ao Gabinete da Área de Sines para, em relação à zona da sua actuação directa, fazer cumprir limites máximos de concentração para cada um dos principais poluentes hídricos a descarregar por unidades industriais e ou urbanas instaladas ou a instalar naquela zona, sem prejuízo da competência atribuída à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos pelo [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114).
 
 2 - Para efeitos deste diploma, consideram-se como poluentes hídricos quaisquer substâncias presentes num substrato líquido, quer em suspensão, quer dissolvidas, quer em emulsão, que pelas suas características físicas, químicas, biológicas ou radioactivas possam causar danos à saúde pública, ser prejudiciais ao equilíbrio da fauna e flora ou tornar imprópria a água para as utilizações a que se destina.
 
-###### Art. 2.º - 1 - Os valores dos limites máximos de concentrações dos diversos poluentes hídricos serão fixados por portaria conjunta das Secretarias de Estado do Plano e do Urbanismo e Ambiente.
+Art. 2.º - 1 - Os valores dos limites máximos de concentrações dos diversos poluentes hídricos serão fixados por portaria conjunta das Secretarias de Estado do Plano e do Urbanismo e Ambiente.
 
 2 - Os valores referidos no número anterior serão propostos pela Secretaria de Estado do Urbanismo e Ambiente, após o respectivo estudo prévio elaborado sob a sua responsabilidade, com apoio da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, em conjunto com o Gabinete da Área de Sines e ouvida a Comissão Nacional contra a Poluição do Mar, na parte que lhe respeite; na lista dos valores referidos, assim como nas eventuais alterações posteriores, serão consideradas as propostas a fazer pelo Gabinete da Área de Sines, atendendo ao seu particular conhecimento quanto às condicionantes da zona em causa e aos meios de avaliação e detecção que já possui ou que virá a possuir em consequência da aplicação deste decreto-lei.
 
 3 - Para o estabelecimento dos valores referidos no n.º 1 do presente artigo será, por questão metodológica, considerada a acção de cada substância poluente isoladamente, excepto se forem conhecidos objectivamente os efeitos conjugados devidos à presença simultânea de vários poluentes.
 
-###### Art. 3.º - 1 - O Gabinete da Área de Sines instalará e manterá postos de colheita para medição de concentrações para cada poluente à saída de cada indústria e promoverá o tratamento da informação obtida junto das unidades industriais ou de quaisquer serviços públicos competentes.
+Art. 3.º - 1 - O Gabinete da Área de Sines instalará e manterá postos de colheita para medição de concentrações para cada poluente à saída de cada indústria e promoverá o tratamento da informação obtida junto das unidades industriais ou de quaisquer serviços públicos competentes.
 
 A medição de concentrações será efectuada em laboratório através de aparelhos apropriados, utilizando métodos de medição actualizados. Estes métodos serão fixados em portaria conjunta das Secretarias de Estado do Plano e do Urbanismo e Ambiente e sob proposta desta última, ouvida a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
 
@@ -135,7 +160,7 @@ A medição de concentrações será efectuada em laboratório através de apare
 
 5 - O Gabinete da Área de Sines manterá periodicamente informada a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, de acordo com o calendário a estabelecer, quanto aos dados que tenha recolhido, quer quanto às concentrações verificadas no meio receptor, quer quanto às concentrações dos poluentes observadas nas descargas hidrícas, assim como anunciará imediatamente quaisquer infracções que tenha verificado. O mesmo Gabinete fornecerá aos serviços daquela Direcção-Geral quaisquer informações complementares que estes lhe solicitarem.
 
-###### Art. 4.º - 1 - Quando se tratar de poluentes descarregados por várias unidades industriais, a fixação dos teores a cumprir por cada indústria, por forma a respeitar as quotas-partes de concentração máxima, será efectuada pelo Gabinete da Área de Sines mediante notificação ou nos termos do artigo 4.º, alínea e), do articulado do modelo n.º 1 anexo à [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho.
+Art. 4.º - 1 - Quando se tratar de poluentes descarregados por várias unidades industriais, a fixação dos teores a cumprir por cada indústria, por forma a respeitar as quotas-partes de concentração máxima, será efectuada pelo Gabinete da Área de Sines mediante notificação ou nos termos do artigo 4.º, alínea e), do articulado do modelo n.º 1 anexo à [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho.
 
 2 - Os valores fixados poderão ser revistos caso as medições de concentração o aconselharem e desde que se mantenham dentro dos limites máximos previstos no artigo 2.º
 
@@ -153,7 +178,7 @@ b) Não se ultrapassarem esses limites máximos de concentração mesmo quando a
 
 6 - No caso de os efluentes directos das unidades fabris ou dos finais das estações depuradoras serem lançados para os meios receptores (linhas de água, lagoas, albufeiras e mar), os esquemas e projectos referidos nos n.os 4 e 5 deste artigo terão de ser também apreciados e licenciados pela Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, do mesmo modo que o são para as restantes áreas do País.
 
-###### Art. 5.º - 1 - Quando, por quaisquer motivos de força maior, directamente imputáveis à laboração das unidades industriais, ou ainda na eventualidade de descargas anómalas para os meios hídricos receptores, se verifiquem situações de emergência que constituam sério e iminente risco ou ameaça à saúde e segurança dos trabalhadores e da população da área, poderá o Gabinete da Área de Sines suspender a laboração de instalações fabris até que deixem de verificar-se as anomalias referidas.
+Art. 5.º - 1 - Quando, por quaisquer motivos de força maior, directamente imputáveis à laboração das unidades industriais, ou ainda na eventualidade de descargas anómalas para os meios hídricos receptores, se verifiquem situações de emergência que constituam sério e iminente risco ou ameaça à saúde e segurança dos trabalhadores e da população da área, poderá o Gabinete da Área de Sines suspender a laboração de instalações fabris até que deixem de verificar-se as anomalias referidas.
 
 2 - Os causadores das ocorrências referidas são responsáveis pelos prejuízos causados, quer a terceiros, quer, nomeadamente, no meio receptor, como resultado da poluição lançada, ficando obrigados ao pagamento dos custos inerentes à respectiva recuperação.
 
@@ -163,19 +188,19 @@ b) Não se ultrapassarem esses limites máximos de concentração mesmo quando a
 
 5 - As petições que não obtenham despacho definitivo dentro deste prazo consideram-se, para todos os efeitos, como deferidas.
 
-###### Art. 6.º - 1 - O Gabinete da Área de Sines cobrará taxas às unidades fabris pelos serviços de colecta e depuração dos efluentes lançados na sua rede de colectores e estações depuradoras.
+Art. 6.º - 1 - O Gabinete da Área de Sines cobrará taxas às unidades fabris pelos serviços de colecta e depuração dos efluentes lançados na sua rede de colectores e estações depuradoras.
 
 2 - Essas taxas serão estabelecidas proporcionalmente às cargas poluentes (caudais e cargas unitárias), nos montantes e formas a aprovar por portaria conjunta dos Secretários de Estado do Plano e do Urbanismo e Ambiente, através de parecer da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
 
 3 - Pelos lançamentos que o Gabinete da Área de Sines ou as unidades industriais efectuarem nos meios hidrícos naturais (mar, lagoas e albufeiras, linhas de água e águas subterrâneas) serão pagas taxas à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, conforme previsto no [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro. Essas taxas serão fixadas por meio de portaria conjunta dos Secretários de Estado do Plano e do Urbanismo e Ambiente; elas deverão seguir, no aconselhável, o que estiver ou for estipulado para o resto do País.
 
-###### Art. 7.º - 1 - A infracção por parte das unidades industriais dos condicionamentos técnicos fixados ao abrigo deste diploma fará incorrê-las em responsabilidade civil, nos termos gerais de direito, e ainda no pagamento de multas com carácter cumulativo para além das taxas atrás referidas, nos termos a definir por portaria conjunta dos Secretários de Estado do Plano e do Urbanismo e Ambiente.
+Art. 7.º - 1 - A infracção por parte das unidades industriais dos condicionamentos técnicos fixados ao abrigo deste diploma fará incorrê-las em responsabilidade civil, nos termos gerais de direito, e ainda no pagamento de multas com carácter cumulativo para além das taxas atrás referidas, nos termos a definir por portaria conjunta dos Secretários de Estado do Plano e do Urbanismo e Ambiente.
 
 2 - As multas impostas nos termos do número anterior serão aplicadas e recebidas pelo Gabinete da Área de Sines, na sua totalidade, e constituem sua receita, quando as descargas se efectuarem para a rede geral de colectores da Área. Do mesmo modo, o Gabinete da Área de Sines receberá as quantias resultantes das multas devidas pelos lançamentos anómalos directos nos meios receptores efectuados pelas unidades fabris, reservando um quantitativo parcelar para entrega à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, como entidade nacional gestora da qualidade das águas públicas, de acordo com as normas que vierem a existir conforme o número anterior.
 
 3 - A prática reiterada das infracções a que se refere o n.º 1 deste artigo, devida a negligência comprovada, determinará que o Gabinete da Área de Sines obtenha a reversão do direito de superfície da unidade industrial mediante justa indemnização, calculada nos termos do artigo 8.º da [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995).
 
-###### Art. 8.º - 1 - O acto de aplicação de multa é definitivo e executório e dele cabe recurso contencioso de plena jurisdição, sem efeito suspensivo.
+Art. 8.º - 1 - O acto de aplicação de multa é definitivo e executório e dele cabe recurso contencioso de plena jurisdição, sem efeito suspensivo.
 
 2 - A cobrança coerciva das multas aplicadas nos termos dos artigos anteriores será feita através do processo de execução fiscal, de harmonia com o disposto nos artigos 144.º e seguintes do Código de Processo das Contribuições e Impostos, não lhe sendo, contudo, aplicável o disposto no artigo 160.º daquele diploma.
 
@@ -183,14 +208,14 @@ b) Não se ultrapassarem esses limites máximos de concentração mesmo quando a
 
 4 - Será competente para a execução o tribunal de 1.ª instância das contribuições e impostos que abranja a sede do GAS.
 
-###### Art. 9.º As dúvidas resultantes da aplicação do presente diploma, que entra imediatamente em vigor, são resolvidas por despacho conjunto dos Secretários de Estado do Plano e do Urbanismo e Ambiente.
+Art. 9.º As dúvidas resultantes da aplicação do presente diploma, que entra imediatamente em vigor, são resolvidas por despacho conjunto dos Secretários de Estado do Plano e do Urbanismo e Ambiente.
 
-###### Art. 10.º Os direitos e deveres consignados ao Gabinete da Área de Sines neste decreto-lei têm carácter transitório e cessarão no momento em que os órgãos e serviços do citado Gabinete que se ocupam da preservação da qualidade do ambiente sejam integrados ou transitarem para outro qualquer departamento. Então se definirão os termos da cessação das atribuições e da respectiva transferência.
+Art. 10.º Os direitos e deveres consignados ao Gabinete da Área de Sines neste decreto-lei têm carácter transitório e cessarão no momento em que os órgãos e serviços do citado Gabinete que se ocupam da preservação da qualidade do ambiente sejam integrados ou transitarem para outro qualquer departamento. Então se definirão os termos da cessação das atribuições e da respectiva transferência.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Carlos Jorge Mendes Correia Gago - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
 
-**Promulgado em 23 de Outubro de 1979.**
+Promulgado em 23 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

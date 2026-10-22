@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/26600/17161716.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/559-1970-147236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e47672f66c893f9a8ecc32c55fc7627f146d7011e1cae20257c49d66d8219ce0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7f713ddbcfde2304f7c4cc30ee9cfeea56d6984fb8f0e8dc9e59a8d5615d8f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Cônjuge
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Protecção à Família
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:411815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:286507:por
+  label: "Revogado pelo DEC LEI.373/77.05.09.1977.MEIC, DR.IS [205] de 05.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1977-286507
+  date: '1977-09-05'
+- type: repealed_by
+  target: pt:dre:411815:por
+  label: Revogado pelo DEC LEI.139-A/90.28.04.1990.ME, DR.IS [98-Supl] de 28.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-a-1990-411815
+  date: '1990-04-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:17Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ No âmbito de política geral de auxílio à família, a legislação vigente pr
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. - 1. Podem ser colocadas em comissão, com os vencimentos e regalias da sua categoria, professoras dos quadros dos ensinos liceal e técnico, casadas, para prestarem serviço na localidade onde esteja colocado o cônjuge, quando as necessidades de serviço determinarem a chamada de professor eventual ou provisório do respectivo grupo e o cônjuge seja, por ordem de preferência:
+Artigo único. - 1. Podem ser colocadas em comissão, com os vencimentos e regalias da sua categoria, professoras dos quadros dos ensinos liceal e técnico, casadas, para prestarem serviço na localidade onde esteja colocado o cônjuge, quando as necessidades de serviço determinarem a chamada de professor eventual ou provisório do respectivo grupo e o cônjuge seja, por ordem de preferência:
 
 a) Professor do quadro do ramo de ensino a que pertencer a professora;
 
@@ -106,8 +122,8 @@ c) Funcionário público, militar ou civil, cuja colocação depende de ordem su
 
 Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

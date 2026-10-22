@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/27100/28002802.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1977-281414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 317996d8dab03b2d6360bb2a1bccab21d73dacd8663c3978e2dc1be3ec3f7c7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d554983b687446ac81cdca5002be49f9aaf5a1dfd4efd3b39f83d348c9793f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANO Propedêutico
+- Comissão Científico-pedagógica do ANO Propedêutico
+- Definição de Competências
+- Ensino Superior
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298440:por
+  label: Alterados o corpo do art. 7º e o corpo e a al. i) do art. 9º, aditados os n.ºs 4 e 5 ao art. 8.º e o n.º 3 ao art.
+    13.º, bem como são aditados os arts. 1º-A, 14º-A e 18º-A ao presente diploma, por ratificação, pela LEI.33/78.22.06.1978.AR,
+    DR.IS [141] de 22.06.1978, que o republicou em anexo, com todas as alterações
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-1978-298440
+  date: '1978-06-22'
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:279620:por
+  label: Rectificado pela DECL.DD7676.16.12.1977.PCM, DR.IS [289] de 16.12.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-279620
+  date: '1977-12-16'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:10Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +126,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É instituído, a nível nacional, a partir do ano lectivo de 1977-1978 o Ano Propedêutico do ensino superior oficial, que funcionará na dependência da Direcção-Geral do Ensino Superior.
+Artigo 1.º É instituído, a nível nacional, a partir do ano lectivo de 1977-1978 o Ano Propedêutico do ensino superior oficial, que funcionará na dependência da Direcção-Geral do Ensino Superior.
 
-###### Art. 2.º - 1 - No Ano Propedêutico será ministrado o ensino das disciplinas introdutórias às matérias dos planos de estudo dos vários cursos do ensino superior, bem como outras disciplinas consideradas importantes para a formação dos candidatos ao ensino superior.
+Art. 2.º - 1 - No Ano Propedêutico será ministrado o ensino das disciplinas introdutórias às matérias dos planos de estudo dos vários cursos do ensino superior, bem como outras disciplinas consideradas importantes para a formação dos candidatos ao ensino superior.
 
 2 - Para acesso a cada curso do ensino superior será fixado um plano de estudos constituído por cinco disciplinas, de acordo com o seguinte esquema:
 
@@ -118,7 +144,7 @@ d) Uma disciplina de opção correspondente a uma língua estrangeira.
 
 4 - No caso dos estudantes que tenham como nucleares as disciplinas de língua estrangeira de opção, a disciplina prevista na alínea d) será substituída por outra disciplina complementar.
 
-###### Art. 3.º - 1 - A frequência e aproveitamento em todas as disciplinas do Ano Propedêutico são obrigatórios como condições de matrícula nas escolas do ensino superior oficial.
+Art. 3.º - 1 - A frequência e aproveitamento em todas as disciplinas do Ano Propedêutico são obrigatórios como condições de matrícula nas escolas do ensino superior oficial.
 
 2 - Podem matricular-se no Ano Propedêutico os candidatos que possuam o curso complementar do ensino secundário ou equivalente oficial, adequado, nos termos da legislação em vigor, à inscrição no curso ou cursos superiores a que se desejem candidatar.
 
@@ -132,9 +158,9 @@ d) Uma disciplina de opção correspondente a uma língua estrangeira.
 
 7 - Por despacho do Ministro da Educação e Investigação Científica podem ser reconhecidos, apenas para efeito de prosseguimento de estudos, equivalência ao Ano Propedêutico de habilitações obtidas em países estrangeiros.
 
-###### Art. 4.º Serão regulados por portaria do Ministro da Educação e Investigação Científica a organização e o funcionamento do Ano Propedêutico, nomeadamente no que respeita ao plano de estudos, programa de cada disciplina, métodos de avaliação e organização pedagógica.
+Art. 4.º Serão regulados por portaria do Ministro da Educação e Investigação Científica a organização e o funcionamento do Ano Propedêutico, nomeadamente no que respeita ao plano de estudos, programa de cada disciplina, métodos de avaliação e organização pedagógica.
 
-###### Art. 5.º - 1 - A organização e funcionamento do Ano Propedêutico serão assegurados pelos seguintes órgãos:
+Art. 5.º - 1 - A organização e funcionamento do Ano Propedêutico serão assegurados pelos seguintes órgãos:
 
 a) Conselho Orientador;
 
@@ -142,7 +168,7 @@ b) Comissão Pedagógico-Científica.
 
 2 - O apoio logístico e administrativo do Ano Propedêutico será prestado pelo Serviço de Apoio ao Ano Propedêutico (SAAP), e por quaisquer outros organismos ou serviços cuja colaboração venha a ser considerada necessária.
 
-###### Art. 6.º O Conselho Orientador do Ano Propedêutico é constituído por:
+Art. 6.º O Conselho Orientador do Ano Propedêutico é constituído por:
 
 a) Director-geral do Ensino Superior;
 
@@ -156,7 +182,7 @@ e) Director do SAAP;
 
 f) Coordenadores da Comissão Nacional Pedagógico-Científica.
 
-###### Art. 7.º Compete ao Conselho Orientador:
+Art. 7.º Compete ao Conselho Orientador:
 
 a) Coordenar as acções necessárias à organização e funcionamento do Ano Propedêutico;
 
@@ -164,7 +190,7 @@ b) Propor a aprovação do plano geral de actividades do Ano Propedêutico, tend
 
 c) Elaborar propostas de correcção e melhoria do funcionamento e organização do Ano Propedêutico.
 
-###### Art. 8.º - 1 - A Comissão Pedagógico-Científica do Ano Propedêutico é constituída por:
+Art. 8.º - 1 - A Comissão Pedagógico-Científica do Ano Propedêutico é constituída por:
 
 a) Um presidente, professor catedrático ou extraordinário de uma Universidade portuguesa;
 
@@ -176,7 +202,7 @@ c) Um docente responsável por cada uma das disciplinas que constituem o plano d
 
 3 - O presidente e os coordenadores poderão ser simultaneamente os responsáveis por uma disciplina.
 
-###### Art. 9.º Compete à Comissão Pedagógico-Científica do Ano Propedêutico:
+Art. 9.º Compete à Comissão Pedagógico-Científica do Ano Propedêutico:
 
 a) Propor o projecto de regulamento de organização e funcionamento das actividades científicas e pedagógicas do Ano Propedêutico, a aprovar por despacho do Ministro da Educação e Investigação Científica;
 
@@ -196,27 +222,27 @@ h) Organizar todo o esquema de funcionamento do Ano Propedêutico, em ordem à i
 
 i) Colaborar com o Conselho Coordenador no aperfeiçoamento das actividades do Ano Propedêutico.
 
-###### Art. 10.º Para cada disciplina do plano de estudos do Ano Propedêutico será constituído um grupo de apoio pedagógico, com um máximo de três elementos, que coadjuvarão o responsável da respectiva disciplina.
+Art. 10.º Para cada disciplina do plano de estudos do Ano Propedêutico será constituído um grupo de apoio pedagógico, com um máximo de três elementos, que coadjuvarão o responsável da respectiva disciplina.
 
-###### Art. 11.º Por portaria do Ministro da Educação e Investigação Científica serão regulamentadas as ligações entre os vários órgãos do Ano Propedêutico e entre estes e os organismos ou serviços que lhes prestem colaboração.
+Art. 11.º Por portaria do Ministro da Educação e Investigação Científica serão regulamentadas as ligações entre os vários órgãos do Ano Propedêutico e entre estes e os organismos ou serviços que lhes prestem colaboração.
 
-###### Art. 12.º - 1 - O pessoal docente chamado a prestar serviço no Ano Propedêutico exercerá as suas funções em acumulação ou nos regimes de comissão de serviço, destacamento ou de simples prestação de serviço, regimes em que o serviço prestado contará, para todos os efeitos, como exercido no lugar de origem.
+Art. 12.º - 1 - O pessoal docente chamado a prestar serviço no Ano Propedêutico exercerá as suas funções em acumulação ou nos regimes de comissão de serviço, destacamento ou de simples prestação de serviço, regimes em que o serviço prestado contará, para todos os efeitos, como exercido no lugar de origem.
 
 2 - Poderão, ainda, ser contratados colaboradores eventuais, cujos contratos deverão obrigatoriamente especificar o objectivo da tarefa a realizar, o prazo de execução, a remuneração a pagar e, ainda, que os contratados nestas condições não adquirem a qualidade de agentes administrativos.
 
-###### Art. 13.º - 1 - O presidente e os restantes membros da Comissão Pedagógico-Científica não nomeados em comissão de serviço ou por destacamento, terão direito, mensalmente, a um abono de montante igual à gratificação actualmente fixada para os membros das comissões instaladoras das novas Universidades, nos termos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
+Art. 13.º - 1 - O presidente e os restantes membros da Comissão Pedagógico-Científica não nomeados em comissão de serviço ou por destacamento, terão direito, mensalmente, a um abono de montante igual à gratificação actualmente fixada para os membros das comissões instaladoras das novas Universidades, nos termos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
 
 2 - Os restantes elementos docentes não nomeados em comissão de serviço ou por destacamento têm direito a um abono mensal igual à gratificação actualmente atribuída aos membros das comissões instaladoras dos Institutos Politécnicos, nos termos daquele diploma.
 
 3 - Quando forem utilizados meios de ensino à distância através da TV, os apresentadores das lições por este meio terão direito a auferir 1000$00 por cada lição apresentada.
 
-###### Art. 14.º - 1 - Os estudantes inscritos no Ano Propedêutico estão sujeitos ao pagamento da propina de matrícula no valor de 100$00 anuais e de uma propina de inscrição no valor de 800$00 anuais, que poderá ser liquidada em duas prestações no valor de 400$00 cada uma.
+Art. 14.º - 1 - Os estudantes inscritos no Ano Propedêutico estão sujeitos ao pagamento da propina de matrícula no valor de 100$00 anuais e de uma propina de inscrição no valor de 800$00 anuais, que poderá ser liquidada em duas prestações no valor de 400$00 cada uma.
 
 2 - A propina de matrícula e a primeira prestação da inscrição serão liquidadas no acto da matrícula; e a segunda prestação da inscrição será liquidada durante o mês de Março.
 
 3 - As propinas serão liquidadas por meio de estampilhas fiscais e o seu não pagamento implica a anulação da respectiva matrícula.
 
-###### Art. 15.º - 1 - O prazo de matrícula será fixado anualmente por despacho do Ministro da Educação e Investigação Científica.
+Art. 15.º - 1 - O prazo de matrícula será fixado anualmente por despacho do Ministro da Educação e Investigação Científica.
 
 2 - Serão autorizados a entregar os boletins de matrícula fora do prazo estabelecido no número anterior os candidatos que o requeiram nos trinta dias subsequentes ao termo do mesmo prazo.
 
@@ -224,18 +250,18 @@ i) Colaborar com o Conselho Coordenador no aperfeiçoamento das actividades do A
 
 4 - Igualmente será facultado o pagamento da segunda prestação de inscrição, até ao dia 30 de Abril, mediante o pagamento da propina suplementar de 50$00.
 
-###### Art. 16.º É autorizado o Ministro da Educação e Investigação Científica a celebrar os contratos necessários com as entidades que poderão colaborar na realização de cursos ministrados pelo sistema de ensino à distância, nomeadamente a Radiotelevisão Portuguesa, E. P.
+Art. 16.º É autorizado o Ministro da Educação e Investigação Científica a celebrar os contratos necessários com as entidades que poderão colaborar na realização de cursos ministrados pelo sistema de ensino à distância, nomeadamente a Radiotelevisão Portuguesa, E. P.
 
-###### Art. 17.º Até final do corrente ano económico as despesas com a organização e funcionamento do Ano Propedêutico serão satisfeitas pelas verbas orçamentadas pelo ex-Serviço Cívico Estudantil ou organismo que lhe vier a suceder.
+Art. 17.º Até final do corrente ano económico as despesas com a organização e funcionamento do Ano Propedêutico serão satisfeitas pelas verbas orçamentadas pelo ex-Serviço Cívico Estudantil ou organismo que lhe vier a suceder.
 
-###### Art. 18.º Sempre que o Ano Propedêutico ministre as suas lições pelo sistema de ensino à distância, através da Radiotelevisão Portuguesa, o Instituto de Tecnologia Educativa prestará a necessária colaboração e suportará os encargos decorrentes dessa acção que não sejam suportados directamente pelo orçamento do ex-Serviço Cívico Estudantil ou do organismo que lhe vier a suceder.
+Art. 18.º Sempre que o Ano Propedêutico ministre as suas lições pelo sistema de ensino à distância, através da Radiotelevisão Portuguesa, o Instituto de Tecnologia Educativa prestará a necessária colaboração e suportará os encargos decorrentes dessa acção que não sejam suportados directamente pelo orçamento do ex-Serviço Cívico Estudantil ou do organismo que lhe vier a suceder.
 
-###### Art. 19.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 19.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 11 de Novembro de 1977.**
+Promulgado em 11 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

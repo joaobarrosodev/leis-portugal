@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26000/25362537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/803-1976-407334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9187078a52d878a0d78d26e8f567ce62d2026339f59930f62c1f0e7ff545cb7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c37b242d085360f411a527c0aafd9c7f6e71de7f28f04bfd91f3e5de243a9671
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Viação
+- Equivalência de Categorias
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Rectificação de TIPO de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229958:por
+  label: Alterado o art. 1.º do presente diploma, com as alterações constantes das Port 31/78, de 16-jan, e 26-E/80, de 09-jan,
+    pelo(a) Portaria n.º 148-D/80 - Diário da República n.º 76/1980, 3º Suplemento, Série I de 1980-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-d-1980-229958
+  date: '1980-03-31'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:18Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +124,17 @@ Nestes termos:
 
 Ao abrigo do disposto no artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterado o quadro do pessoal a que se refere o n.º 1 do artigo 11.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que passa a ser o que consta do mapa anexo a este diploma e dele faz parte integrante.
+Artigo 1.º É alterado o quadro do pessoal a que se refere o n.º 1 do artigo 11.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que passa a ser o que consta do mapa anexo a este diploma e dele faz parte integrante.
 
-###### Art. 2.º Os lugares do quadro a que se refere o artigo anterior são preenchidos pelo actual pessoal do quadro permanente, contratado não pertencente ao quadro, assalariado, em regime de prestação eventual de serviço e de tarefa, por meio de relação nominal, publicada no Diário da República, na qual constem as categorias e classes em que o referido pessoal fica provido, previamente aprovada pelo Ministro dos Transportes e Comunicações e visada pelo Tribunal de Contas.
+Art. 2.º Os lugares do quadro a que se refere o artigo anterior são preenchidos pelo actual pessoal do quadro permanente, contratado não pertencente ao quadro, assalariado, em regime de prestação eventual de serviço e de tarefa, por meio de relação nominal, publicada no Diário da República, na qual constem as categorias e classes em que o referido pessoal fica provido, previamente aprovada pelo Ministro dos Transportes e Comunicações e visada pelo Tribunal de Contas.
 
-###### Art. 3.º As vagas existentes, à data da publicação do presente diploma, nos lugares de acesso resultantes da presente alteração são providas pelo pessoal pertencente ao anterior quadro permanente que exerça ou tenha exercido funções, ainda que em regime de interinidade, na categoria ou classe imediatamente inferior, desde que possua as habilitações legais exigidas para esse provimento.
+Art. 3.º As vagas existentes, à data da publicação do presente diploma, nos lugares de acesso resultantes da presente alteração são providas pelo pessoal pertencente ao anterior quadro permanente que exerça ou tenha exercido funções, ainda que em regime de interinidade, na categoria ou classe imediatamente inferior, desde que possua as habilitações legais exigidas para esse provimento.
 
-###### Art. 4.º - 1. O pessoal não pertencente ao quadro permanente, qualquer que seja o regime de prestação de trabalho em que exerce funções à data da publicação do presente diploma, é provido, com dispensa de concurso e limite de idade, em lugares de ingresso, desde que possua os restantes requisitos legais exigidos para esse provimento.
+Art. 4.º - 1. O pessoal não pertencente ao quadro permanente, qualquer que seja o regime de prestação de trabalho em que exerce funções à data da publicação do presente diploma, é provido, com dispensa de concurso e limite de idade, em lugares de ingresso, desde que possua os restantes requisitos legais exigidos para esse provimento.
 
 2. A integração do pessoal nos termos do número anterior e o abono dos respectivos vencimentos não dependem de quaisquer formalidades, salvo o visto das novas situações pelo Tribunal de Contas.
 
-###### Art. 5.º No provimento dos lugares do quadro de pessoal técnico levar-se-ão em conta as seguintes equiparações, para todos os efeitos, de categorias e classes previstas no quadro alterado a que se refere o artigo 1.º com as categorias e classes previstas no quadro anexo ao presente diploma, pela forma seguinte:
+Art. 5.º No provimento dos lugares do quadro de pessoal técnico levar-se-ão em conta as seguintes equiparações, para todos os efeitos, de categorias e classes previstas no quadro alterado a que se refere o artigo 1.º com as categorias e classes previstas no quadro anexo ao presente diploma, pela forma seguinte:
 
 a) Os engenheiros civis-chefes, os engenheiros mecânicos-chefes e os técnicos especialistas serão providos em lugares de técnico principal;
 
@@ -119,30 +144,30 @@ c) Os examinadores-chefes, examinadores de 1.ª classe e examinadores de 2.ª cl
 
 d) O desenhador-chefe será provido no lugar de desenhador principal.
 
-###### Art. 6.º Os funcionários aprovados em concurso ainda válido à data da publicação deste decreto serão colocados, por ordem de classificação obtida no respectivo concurso, nas vagas do quadro correspondentes às categorias ou classes dos lugares a que tenham concorrido.
+Art. 6.º Os funcionários aprovados em concurso ainda válido à data da publicação deste decreto serão colocados, por ordem de classificação obtida no respectivo concurso, nas vagas do quadro correspondentes às categorias ou classes dos lugares a que tenham concorrido.
 
-###### Art. 7.º - 1. Os directores de viação passam a ter a categoria de chefe de divisão e os respectivos lugares serão providos por escolha do Ministro dos Transportes e Comunicações, mediante proposta do director-geral, de entre os técnicos do quadro da Direcção-Geral de Viação ou de entre indivíduos estranhos àquele quadro de reconhecida competência e habilitados com curso superior adequado.
+Art. 7.º - 1. Os directores de viação passam a ter a categoria de chefe de divisão e os respectivos lugares serão providos por escolha do Ministro dos Transportes e Comunicações, mediante proposta do director-geral, de entre os técnicos do quadro da Direcção-Geral de Viação ou de entre indivíduos estranhos àquele quadro de reconhecida competência e habilitados com curso superior adequado.
 
 2. Os directores de viação que, nos termos da alínea g) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, se encontrem actualmente no exercício efectivo dessas funções manter-se-ão nessa situação, para todos os efeitos, até que lhes seja dada por finda a respectiva comissão de serviço.
 
-###### Art. 8.º A satisfação dos encargos resultantes deste diploma será feita através das dotações inscritas, conjuntamente, nas rubricas «Vencimentos e salários», «Pessoal dos quadros aprovados por lei», «Pessoal contratado não pertencente aos quadros» e «Salários do pessoal eventual», do orçamento da Direcção-Geral de Viação aprovado para o ano de 1976, para o que serão feitas as necessárias alterações orçamentais.
+Art. 8.º A satisfação dos encargos resultantes deste diploma será feita através das dotações inscritas, conjuntamente, nas rubricas «Vencimentos e salários», «Pessoal dos quadros aprovados por lei», «Pessoal contratado não pertencente aos quadros» e «Salários do pessoal eventual», do orçamento da Direcção-Geral de Viação aprovado para o ano de 1976, para o que serão feitas as necessárias alterações orçamentais.
 
-###### Art. 9.º O quadro constante do mapa anexo a que se refere o artigo 1.º do presente diploma pode ser alterado por portaria conjunta do Ministro dos Transportes e Comunicações e dos Ministros da Administração Interna e das Finanças.
+Art. 9.º O quadro constante do mapa anexo a que se refere o artigo 1.º do presente diploma pode ser alterado por portaria conjunta do Ministro dos Transportes e Comunicações e dos Ministros da Administração Interna e das Finanças.
 
-###### Art. 10.º Fica revogada a alínea g) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, na parte que se refere aos directores de viação.
+Art. 10.º Fica revogada a alínea g) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, na parte que se refere aos directores de viação.
 
-###### Art. 11.º Este decreto entra em vigor na data da sua publicação.
+Art. 11.º Este decreto entra em vigor na data da sua publicação.
 
 Mário Soares - Manuel da Costa Brás - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 26 de Outubro de 1976.**
+Promulgado em 26 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal da Direcção-Geral de Viação a que se refere o artigo 1.º do Decreto-Lei n.º 803/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/26000/25362537.pdf))](https://files.diariodarepublica.pt/1s/1976/11/26000/25362537.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/26000/25362537.pdf).
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Primeiro-Ministro, Mário Soares. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

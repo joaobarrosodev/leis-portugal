@@ -46,36 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1973-675981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f5448fb3a8c7408e839a85f18215bec368f1e08c6590cab7e98095b9795fb00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6522a8aa52d5c55f25e5a7dec6f7b024f0f16c0d1d9e09b9131a59847eee8f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditoria Jurídica
+- Conselho Superior de Obras Públicas e Transportes
+- Definição de Competências
+- Direcção de Obras Públicas
+- Horta
+- Ministério das Obras Públicas
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
+- Secretário Geral
+relationships:
+- type: cites
+  target: pt:dre:139239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:24Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +130,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Secretaria-Geral do Ministério das Obras Públicas, dirigida por um secretário-geral, é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
+Artigo 1.º A Secretaria-Geral do Ministério das Obras Públicas, dirigida por um secretário-geral, é um órgão de estudo, coordenação e apoio técnico-administrativo, ao qual incumbe essencialmente:
 
 a) Colaborar com os órgãos da Presidência do Conselho e de outros departamentos no estudo e execução das providências de âmbito geral pertinentes à reforma administrativa;
 
@@ -102,7 +140,7 @@ c) Desempenhar as funções de utilidade comum aos diversos órgãos e serviços
 
 d) Assegurar o expediente dos Gabinetes do Ministro e dos Secretários de Estado em tudo o que se não compreenda na competência privativa dos membros dos gabinetes.
 
-###### Art. 2.º - 1. A Secretaria-Geral compreende os serviços seguintes:
+Art. 2.º - 1. A Secretaria-Geral compreende os serviços seguintes:
 
 a) Divisão de Pessoal;
 
@@ -126,11 +164,11 @@ c) Tesourarias de obras públicas.
 
 5. A Direcção de Obras Públicas do Distrito da Horta depende administrativamente da Secretaria-Geral.
 
-###### Art. 3.º - 1. A Auditoria Jurídica é dirigida por um procurador da República, designado nos termos da lei.
+Art. 3.º - 1. A Auditoria Jurídica é dirigida por um procurador da República, designado nos termos da lei.
 
 2. Poderá ser adstrito à Auditoria Jurídica o pessoal da Secretaria-Geral que for necessário ao exercício das respectivas funções.
 
-###### Art. 4.º - 1. É aprovado o quadro do pessoal constante do mapa anexo a este diploma e que dele faz parte integrante.
+Art. 4.º - 1. É aprovado o quadro do pessoal constante do mapa anexo a este diploma e que dele faz parte integrante.
 
 2. São preenchidos por escolha do Ministro das Obras Públicas os seguintes lugares:
 
@@ -142,13 +180,13 @@ b) Chefes de divisão - entre engenheiros e técnicos dos quadros do Ministério
 
 4. O secretário-geral faz parte da Secção Permanente do Conselho Superior de Obras Públicas e Transportes.
 
-###### Art. 5.º Consideram-se referidas às tesourarias de obras públicas e aos tesoureiros do quadro aprovado pelo presente diploma as disposições legais vigentes relativas às pagadorias de obras públicas e aos pagadores privativos do Ministério, inclusive as respeitantes à respectiva admissão e promoção.
+Art. 5.º Consideram-se referidas às tesourarias de obras públicas e aos tesoureiros do quadro aprovado pelo presente diploma as disposições legais vigentes relativas às pagadorias de obras públicas e aos pagadores privativos do Ministério, inclusive as respeitantes à respectiva admissão e promoção.
 
-###### Art. 6.º Poderão ser alteradas por decreto do Ministro das Obras Públicas, desde que daí não resulte aumento de despesa, a organização da Secretaria-Geral e a composição do respectivo quadro de pessoal.
+Art. 6.º Poderão ser alteradas por decreto do Ministro das Obras Públicas, desde que daí não resulte aumento de despesa, a organização da Secretaria-Geral e a composição do respectivo quadro de pessoal.
 
-###### Art. 7.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas.
+Art. 7.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Obras Públicas.
 
-###### Art. 8.º - 1. O primeiro preenchimento das vagas do quadro aprovado por este diploma poderá ser feito:
+Art. 8.º - 1. O primeiro preenchimento das vagas do quadro aprovado por este diploma poderá ser feito:
 
 a) De entre funcionários vitalícios e contratados dos quadros do Ministério das Obras Públicas;
 
@@ -160,30 +198,30 @@ b) De entre pessoal da Secretaria-Geral do Ministério das Obras Públicas que p
 
 4. A integração do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 9.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
+Art. 9.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
 
 2. O Ministro das Obras Públicas poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários em número suficiente com o tempo mínimo de serviço referido na disposição anterior.
 
 3. O primeiro preenchimento dos lugares de chefe de secção poderá ser feito pela forma estabelecida no artigo 3.º do [Decreto-Lei n.º 372/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1970-139239), de 11 de Agosto.
 
-###### Art. 10.º - 1. Os encargos resultantes do presente diploma terão compensação nas disponibilidades existentes na dotação consignada no orçamento do Ministério das Obras Públicas, em execução ao pagamento de vencimentos a pessoal contratado não pertencente ao quadro da Secretaria-Geral.
+Art. 10.º - 1. Os encargos resultantes do presente diploma terão compensação nas disponibilidades existentes na dotação consignada no orçamento do Ministério das Obras Públicas, em execução ao pagamento de vencimentos a pessoal contratado não pertencente ao quadro da Secretaria-Geral.
 
 2. Cumprido que seja o disposto no n.º 2 do artigo 8.º, e enquanto não se concretizem as necessárias providências de carácter orçamental, poderão ser utilizadas na satisfação dos encargos resultantes deste diploma as disponibilidades referidas no número anterior.
 
-###### Art. 11.º O presente diploma entrará em vigor no dia 1 de Maio de 1973.
+Art. 11.º O presente diploma entrará em vigor no dia 1 de Maio de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Quadro de pessoal a que se refere o artigo 4.º do Decreto-Lei n.º 168/73
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/04/08700/05710572.pdf))](https://files.diariodarepublica.pt/1s/1973/04/08700/05710572.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/04/08700/05710572.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

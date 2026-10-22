@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1972-681984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d1b4e264323e7895f2fc4d4465543404f51e3a1a4ad421945aff9aed446a86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ef6f082c0cc0941d760be79cdbdf546a25e9df646a160af253957c54788fcd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código de Processo Penal
+- Processo Penal
+relationships:
+- type: cites
+  target: pt:dre:361367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681985:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:44Z'
   warnings: []
   errors: []
 ---
@@ -174,9 +192,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos do Código de Processo Penal adiante referidos passam a ter a seguinte redacção:
+Artigo 1.º Os artigos do Código de Processo Penal adiante referidos passam a ter a seguinte redacção:
 
-###### Art. 3.º Quando, para se conhecer da existência da infracção penal, seja necessário resolver qualquer questão de natureza não penal que não possa convenientemente decidir-se no processo penal, pode o juiz suspender o processo, para que se intente e julgue a respectiva acção no tribunal competente.
+Art. 3.º Quando, para se conhecer da existência da infracção penal, seja necessário resolver qualquer questão de natureza não penal que não possa convenientemente decidir-se no processo penal, pode o juiz suspender o processo, para que se intente e julgue a respectiva acção no tribunal competente.
 
 § 1.º Presume-se a inconveniência do julgamento da questão prejudicial no processo penal:
 
@@ -194,7 +212,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 70.º O processo penal é secreto até ser notificado o despacho de pronúncia ou equivalente ou até haver despacho definitivo que mande arquivar o processo.
+Art. 70.º O processo penal é secreto até ser notificado o despacho de pronúncia ou equivalente ou até haver despacho definitivo que mande arquivar o processo.
 
 Têm obrigação de guardar segredo de justiça os magistrados que dirijam a instrução e os funcionários que nela participem.
 
@@ -210,31 +228,31 @@ Logo que a instrução preparatória seja dirigida contra pessoa determinada, a 
 
 ...
 
-###### Art. 81.º Nos autos, termos e certidões do processo não poderão usar-se abreviaturas, excepto quando estas tenham significado inequívoco.
+Art. 81.º Nos autos, termos e certidões do processo não poderão usar-se abreviaturas, excepto quando estas tenham significado inequívoco.
 
 § único. As datas e os números poderão ser escritos por algarismos; nas ressalvas, porém, os números que tenham sido rasurados ou emendados deverão ser escritos por extenso, quando lhes estejam ligados direitos ou responsabilidades.
 
 ...
 
-###### Art. 130.º Se o arguido for declarado irresponsável antes do julgamento, ficará sem efeito a acusação, se a tiver havido. Se a irresponsabilidade for declarada no julgamento, será o réu absolvido da pena.
+Art. 130.º Se o arguido for declarado irresponsável antes do julgamento, ficará sem efeito a acusação, se a tiver havido. Se a irresponsabilidade for declarada no julgamento, será o réu absolvido da pena.
 
 § único. Quando se mostre que a falta de integridade mental do arguido foi posterior à prática da infracção, será suspensa a execução do despacho de pronúncia, ou equivalente, bem como os termos ulteriores do processo, incluindo a execução da sentença e cumprimento da pena, até que o arguido recupere o pleno uso das suas faculdades mentais.
 
 ...
 
-###### Art. 132.º Quando houver indícios suficientes de que o arguido julgado irresponsável por falta de integridade mental deve ser declarado criminalmente perigoso, nos termos do § único do artigo 68.º do Código Penal, o incidente de alienação mental prosseguirá no mesmo tribunal para prova do facto previsto pela lei e sua perpetração pelo demente e dos demais requisitos exigidos por aquele preceito para declaração de perigosidade criminal e aplicação da medida de segurança prevista no n.º 1.º do artigo 70.º do citado Código, observando-se, com as necessárias acomodações, os termos do processo de segurança relativos à defesa, provas e julgamento.
+Art. 132.º Quando houver indícios suficientes de que o arguido julgado irresponsável por falta de integridade mental deve ser declarado criminalmente perigoso, nos termos do § único do artigo 68.º do Código Penal, o incidente de alienação mental prosseguirá no mesmo tribunal para prova do facto previsto pela lei e sua perpetração pelo demente e dos demais requisitos exigidos por aquele preceito para declaração de perigosidade criminal e aplicação da medida de segurança prevista no n.º 1.º do artigo 70.º do citado Código, observando-se, com as necessárias acomodações, os termos do processo de segurança relativos à defesa, provas e julgamento.
 
 § único. Se o arguido não for perigoso criminalmente, nos termos daquele § único, mas o seu estado exigir que seja internado, poderá o juiz autorizar o internamento, cumprindo à família ou à autoridade administrativa efectivá-lo.
 
 ...
 
-###### Art. 136.º Se durante a execução da pena ou da medida de segurança sobrevier ao condenado qualquer doença ou perturbação que, afectando gravemente a sua integridade mental, determine o internamento hospitalar, suspender-se-á essa execução, nos termos do n.º 1.º do artigo 118.º do Código Penal.
+Art. 136.º Se durante a execução da pena ou da medida de segurança sobrevier ao condenado qualquer doença ou perturbação que, afectando gravemente a sua integridade mental, determine o internamento hospitalar, suspender-se-á essa execução, nos termos do n.º 1.º do artigo 118.º do Código Penal.
 
-###### Art. 137.º Compete ao Tribunal de Execução das Penas aplicar aos condenados a medida de internamento a que se refere o n.º 1.º do artigo 70.º do Código Penal e suspender a execução da pena ou medida de segurança, nos termos do artigo anterior.
+Art. 137.º Compete ao Tribunal de Execução das Penas aplicar aos condenados a medida de internamento a que se refere o n.º 1.º do artigo 70.º do Código Penal e suspender a execução da pena ou medida de segurança, nos termos do artigo anterior.
 
 ...
 
-###### Art. 192.º Nos crimes de ofensas corporais, os peritos devem descrever os ferimentos ou lesões, indicar as suas causas e instrumentos que as produziram e a duração da doença ou impossibilidade de trabalho que causaram.
+Art. 192.º Nos crimes de ofensas corporais, os peritos devem descrever os ferimentos ou lesões, indicar as suas causas e instrumentos que as produziram e a duração da doença ou impossibilidade de trabalho que causaram.
 
 Se não for possível fixar definitivamente a duração da doença ou impossibilidade de trabalho, indicar-se-á a duração mínima previsível e proceder-se-á a novo exame, findo esse prazo.
 
@@ -244,13 +262,13 @@ A alteração do prazo de duração da doença ou impossibilidade de trabalho, p
 
 ...
 
-###### Art. 244.º O Ministério Público poderá ouvir o arguido durante a instrução preparatória, sempre que o entenda conveniente, nos termos dos artigos 264.º e 265.º, e poderá também confrontá-lo com as testemunhas ou com os ofendidos.
+Art. 244.º O Ministério Público poderá ouvir o arguido durante a instrução preparatória, sempre que o entenda conveniente, nos termos dos artigos 264.º e 265.º, e poderá também confrontá-lo com as testemunhas ou com os ofendidos.
 
 ...
 
 ### CAPÍTULO IV — Das perguntas
 
-###### Art. 250.º Logo que, com base na denúncia ou no resultado de diligências probatórias, a instrução preparatória seja dirigida contra pessoa determinada, é obrigatório interrogá-la como arguido.
+Art. 250.º Logo que, com base na denúncia ou no resultado de diligências probatórias, a instrução preparatória seja dirigida contra pessoa determinada, é obrigatório interrogá-la como arguido.
 
 § 1.º Cessa a obrigatoriedade do interrogatório do arguido:
 
@@ -264,9 +282,9 @@ O juiz do processo, antes do despacho de pronúncia, e abrindo para tanto oficio
 
 § 3.º O interrogatório do arguido só poderá ser feito numa fase da instrução preparatória posterior à indicada no corpo do artigo, quando se entenda, em despacho fundamentado, que a sua realização nesta fase é susceptível de prejudicar gravemente a instrução.
 
-###### Art. 251.º É arguido aquele sobre quem recaia forte suspeita de ter perpetrado uma infracção, cuja existência esteja suficientemente comprovada.
+Art. 251.º É arguido aquele sobre quem recaia forte suspeita de ter perpetrado uma infracção, cuja existência esteja suficientemente comprovada.
 
-###### Art. 252.º Não deve ser interrogado como testemunha ou declarante todo aquele a respeito de quem se procure na instrução averiguar dos fundamentos da suspeita de ter cometido uma infracção.
+Art. 252.º Não deve ser interrogado como testemunha ou declarante todo aquele a respeito de quem se procure na instrução averiguar dos fundamentos da suspeita de ter cometido uma infracção.
 
 O seu interrogatório obedecerá ao disposto para os arguidos em liberdade no artigo 265.º
 
@@ -280,7 +298,7 @@ O requerimento não pode ser indeferido:
 
 3.º Quando o suspeito tiver sido interrogado ou notificado para depor, como testemunha ou declarante, sobre factos pelos quais possa ser incriminado.
 
-###### Art. 253.º Os arguidos presos serão interrogados quando apresentados ao juiz com o respectivo processo ou indicação das provas que fundamentaram a captura.
+Art. 253.º Os arguidos presos serão interrogados quando apresentados ao juiz com o respectivo processo ou indicação das provas que fundamentaram a captura.
 
 O interrogatório será feito exclusivamente pelo juiz, com a assistência de advogado e com a presença do escrivão que escreve o auto; quando o arguido tiver advogado constituído, deverá este ser convocado, e, não comparecendo nem enviando substituto, será nomeado defensor oficioso, de preferência entre os indicados pelo arguido. O agente do Ministério Público poderá sempre assistir.
 
@@ -290,7 +308,7 @@ Não é admitida a presença de quaisquer outras pessoas, a não ser que, por mo
 
 § único. O advogado ou o agente do Ministério Público que interferirem durante o interrogatório não poderão continuar a assistir; o advogado será substituído por defensor ad hoc, ou por uma testemunha, que deverá declarar na acta, conjuntamente com o escrivão, ter assistido a todo o interrogatório.
 
-###### Art. 254.º O interrogatório obedecerá às seguintes normas:
+Art. 254.º O interrogatório obedecerá às seguintes normas:
 
 1.º O arguido será perguntado pelo seu nome, estado, profissão, idade, naturalidade, filiação, última residência, se já esteve alguma vez preso, quando e porquê, se foi ou não condenado e porquê. Será advertido de que a falta de resposta a estas perguntas o fará incorrer na pena de desobediência e a sua falsidade na pena de falsas declarações.
 
@@ -300,55 +318,55 @@ Não é admitida a presença de quaisquer outras pessoas, a não ser que, por mo
 
 4.º Prestando declarações, o arguido poderá confessar ou negar os factos ou a sua participação neles e indicar as circunstâncias que justifiquem ou desculpem os factos cometidos.
 
-###### Art. 255.º O arguido nunca será obrigado a responder precipitadamente às perguntas, que lhe serão repetidas, sempre que pareça que as não compreendeu; esta repetição terá principalmente lugar quando a resposta não concordar com a pergunta e, neste caso, não se escreverá senão a resposta dada à pergunta repetida.
+Art. 255.º O arguido nunca será obrigado a responder precipitadamente às perguntas, que lhe serão repetidas, sempre que pareça que as não compreendeu; esta repetição terá principalmente lugar quando a resposta não concordar com a pergunta e, neste caso, não se escreverá senão a resposta dada à pergunta repetida.
 
 Nas perguntas feitas sobre circunstâncias mais particulares e factos mais remotos, dar-se-á ao arguido o tempo conveniente para se recordar dos factos com exactidão.
 
-###### Art. 256.º Se o arguido confessa a infracção, será especialmente perguntado pelos motivos dela, tempo, lugar, modo e meios empregados para o seu cometimento.
+Art. 256.º Se o arguido confessa a infracção, será especialmente perguntado pelos motivos dela, tempo, lugar, modo e meios empregados para o seu cometimento.
 
-###### Art. 257.º Se o arguido negar o crime ou os factos que lhe são imputados, será perguntado sobre quaisquer circunstâncias ou provas que possam contrariar aquelas em que se baseia a imputação. Se, para comprovação das suas declarações, o arguido oferecer documentos ou indicar testemunhas, deverão ser recebidos os documentos e ser tomada nota das testemunhas e dos factos essenciais sobre que possam depor. As testemunhas assim arroladas serão ouvidas na instrução preparatória, sempre que possível e conveniente; mas, se não depuserem na instrução preparatória, deverão ser ouvidas na instrução contraditória, se houver lugar a ela e couberem no número legal.
+Art. 257.º Se o arguido negar o crime ou os factos que lhe são imputados, será perguntado sobre quaisquer circunstâncias ou provas que possam contrariar aquelas em que se baseia a imputação. Se, para comprovação das suas declarações, o arguido oferecer documentos ou indicar testemunhas, deverão ser recebidos os documentos e ser tomada nota das testemunhas e dos factos essenciais sobre que possam depor. As testemunhas assim arroladas serão ouvidas na instrução preparatória, sempre que possível e conveniente; mas, se não depuserem na instrução preparatória, deverão ser ouvidas na instrução contraditória, se houver lugar a ela e couberem no número legal.
 
-###### Art. 258.º Se o arguido confessar os factos, mas alegar quaisquer circunstâncias que o justifiquem ou desculpem, será perguntado sobre essas circunstâncias e sobre as provas que puder oferecer, procedendo-se como se dispõe no artigo anterior.
+Art. 258.º Se o arguido confessar os factos, mas alegar quaisquer circunstâncias que o justifiquem ou desculpem, será perguntado sobre essas circunstâncias e sobre as provas que puder oferecer, procedendo-se como se dispõe no artigo anterior.
 
-###### Art. 259.º Se o arguido negar factos que já constem dos depoimentos de testemunhas, das respostas dos outros arguidos ou das declarações dos participantes, ofendidos ou outras pessoas, poderá o juiz ler-lhe esses depoimentos, respostas ou declarações, omitindo, quando necessário à continuação da instrução, a identidade das testemunhas, e instá-lo sobre esses factos.
+Art. 259.º Se o arguido negar factos que já constem dos depoimentos de testemunhas, das respostas dos outros arguidos ou das declarações dos participantes, ofendidos ou outras pessoas, poderá o juiz ler-lhe esses depoimentos, respostas ou declarações, omitindo, quando necessário à continuação da instrução, a identidade das testemunhas, e instá-lo sobre esses factos.
 
-###### Art. 260.º Se o arguido não souber a língua portuguesa ou for surdo-mudo, o juiz nomeará um intérprete, observando-se, na parte aplicável, o disposto no artigo 235.º e seus parágrafos.
+Art. 260.º Se o arguido não souber a língua portuguesa ou for surdo-mudo, o juiz nomeará um intérprete, observando-se, na parte aplicável, o disposto no artigo 235.º e seus parágrafos.
 
-###### Art. 261.º As perguntas não serão sugestivas nem cavilosas, nem acompanhadas de dolosas persuasões, falsas promessas ou ameaças.
+Art. 261.º As perguntas não serão sugestivas nem cavilosas, nem acompanhadas de dolosas persuasões, falsas promessas ou ameaças.
 
 § único. O juiz ou agente do Ministério Público que violar o disposto neste artigo incorrerá na respectiva pena disciplinar.
 
-###### Art. 262.º O arguido poderá ditar as suas respostas e, não o fazendo, serão ditadas pelo juiz, conservando tanto quanto possível as próprias expressões do arguido, de maneira que cada palavra possa ser bem compreendida por ele.
+Art. 262.º O arguido poderá ditar as suas respostas e, não o fazendo, serão ditadas pelo juiz, conservando tanto quanto possível as próprias expressões do arguido, de maneira que cada palavra possa ser bem compreendida por ele.
 
 O auto de perguntas será lido ao arguido antes de encerrado, consignando-se expressamente se este o ratificou ou as alterações que lhe fez.
 
 O defensor poderá fazer anteceder a sua assinatura da arguição de qualquer nulidade.
 
-###### Art. 263.º Encerrado e assinado o auto de perguntas, o juiz verificará se existem os requisitos legais justificativos da captura, e validará esta, ordenando a recolha do arguido à cadeia, ou mandará que ele seja colocado em liberdade sob caução ou termo de identidade, de acordo com a lei, ou que seja solto, sem prejuízo da continuação da instrução.
+Art. 263.º Encerrado e assinado o auto de perguntas, o juiz verificará se existem os requisitos legais justificativos da captura, e validará esta, ordenando a recolha do arguido à cadeia, ou mandará que ele seja colocado em liberdade sob caução ou termo de identidade, de acordo com a lei, ou que seja solto, sem prejuízo da continuação da instrução.
 
-###### Art. 264.º Os subsequentes interrogatórios de arguidos presos serão feitos, na instrução preparatória, pelo agente do Ministério Público e, na instrução contraditória, pelo juiz; terão a assistência do defensor e obedecerão, na parte aplicável, ao disposto nos artigos 250.º e seguintes.
+Art. 264.º Os subsequentes interrogatórios de arguidos presos serão feitos, na instrução preparatória, pelo agente do Ministério Público e, na instrução contraditória, pelo juiz; terão a assistência do defensor e obedecerão, na parte aplicável, ao disposto nos artigos 250.º e seguintes.
 
-###### Art. 265.º Se o arguido não estiver preso, os interrogatórios serão feitos, na instrução preparatória, pelo agente do Ministério Público.
+Art. 265.º Se o arguido não estiver preso, os interrogatórios serão feitos, na instrução preparatória, pelo agente do Ministério Público.
 
 § 1.º O primeiro interrogatório obedecerá, na parte aplicável, às normas dos artigos 253.º e seguintes.
 
 § 2.º Tanto no primeiro interrogatório como nos ulteriores o arguido poderá fazer-se assistir de advogado.
 
-###### Art. 266.º Os requerentes a que se refere o § único do artigo 252.º prestarão declarações, que lhes serão tomadas no prazo de cinco dias, confessando, negando ou justificando os factos que constem da denúncia ou sejam objecto do processo e possam ser-lhes imputados. O juiz poderá seguidamente proceder a interrogatório, e decidirá, consoante os casos:
+Art. 266.º Os requerentes a que se refere o § único do artigo 252.º prestarão declarações, que lhes serão tomadas no prazo de cinco dias, confessando, negando ou justificando os factos que constem da denúncia ou sejam objecto do processo e possam ser-lhes imputados. O juiz poderá seguidamente proceder a interrogatório, e decidirá, consoante os casos:
 
 1.º Que o requerente fique sujeito às obrigações indicadas nos n.os 1.º, 2.º e 3.º do § 2.º do artigo 270.º, durante o prazo legal da instrução preparatória, não podendo, porém, durante esse prazo, ser preso sem novo interrogatório e decisão judiciais;
 
 2.º Verificando a forte suspeita de responsabilidade penal, que ao requerente sejam aplicáveis as disposições legais relativas à situação de arguido e se considere iniciado o prazo de instrução preparatória.
 
-###### Art. 267.º Se houver co-arguidos na mesma infracção, a cada um se farão separadamente os interrogatórios, findos os quais se procederá à acareação de uns com os outros ou com os ofendidos, se for necessário para melhor indagação da verdade.
+Art. 267.º Se houver co-arguidos na mesma infracção, a cada um se farão separadamente os interrogatórios, findos os quais se procederá à acareação de uns com os outros ou com os ofendidos, se for necessário para melhor indagação da verdade.
 
-###### Art. 268.º É nulo o interrogatório efectuado com violação do disposto no artigo 253.º, ou qualquer interrogatório sem a assistência de defensor, quando obrigatória, ou se o advogado foi indevidamente impedido de assistir, quando facultativa.
+Art. 268.º É nulo o interrogatório efectuado com violação do disposto no artigo 253.º, ou qualquer interrogatório sem a assistência de defensor, quando obrigatória, ou se o advogado foi indevidamente impedido de assistir, quando facultativa.
 
 É nula a acusação que não tenha sido precedida de interrogatório do arguido, nos casos em que este é obrigatório.
 
 ### CAPÍTULO V — Da liberdade provisória
 
-###### Art. 269.º Os arguidos devem permanecer à disposição do tribunal, ficando desde o primeiro interrogatório sujeitos às seguintes obrigações:
+Art. 269.º Os arguidos devem permanecer à disposição do tribunal, ficando desde o primeiro interrogatório sujeitos às seguintes obrigações:
 
 1.º Provar a sua identidade;
 
@@ -380,7 +398,7 @@ O termo de identidade é isento de imposto de justiça, custas ou selos.
 
 Se houver fundada suspeita de o arguido se eximir a receber a notificação ou se não comparecer depois de notificado, deverá ser ordenada a sua comparência sob custódia. Em tais casos, a execução do mandado de comparência só pode ser adiada nos termos do artigo 304.º, e o interrogatório efectuar-se-á imediatamente, sem que o arguido recolha à cadeia.
 
-###### Art. 270.º Fora dos casos previstos no artigo 286.º, não pode ser ordenada a prisão, nem esta será mantida, ficando os arguidos em liberdade provisória.
+Art. 270.º Fora dos casos previstos no artigo 286.º, não pode ser ordenada a prisão, nem esta será mantida, ficando os arguidos em liberdade provisória.
 
 § 1.º Em liberdade provisória mediante termo de identidade, o arguido fica sujeito às obrigações referidas no artigo anterior.
 
@@ -402,13 +420,13 @@ Se houver fundada suspeita de o arguido se eximir a receber a notificação ou s
 
 8.ª Qualquer outra obrigação a que possa ser subordinada a liberdade condicional.
 
-###### Art. 271.º Ficam em liberdade provisória mediante caução os arguidos por crimes a que caiba pena de prisão por mais de seis meses ou pena a que corresponda processo correccional ou de querela, se não estiverem compreendidos nos §§ 2.º e 3.º do artigo 291.º, bem como os vadios e equiparados e aqueles a quem forem aplicáveis medidas de segurança privativas de liberdade.
+Art. 271.º Ficam em liberdade provisória mediante caução os arguidos por crimes a que caiba pena de prisão por mais de seis meses ou pena a que corresponda processo correccional ou de querela, se não estiverem compreendidos nos §§ 2.º e 3.º do artigo 291.º, bem como os vadios e equiparados e aqueles a quem forem aplicáveis medidas de segurança privativas de liberdade.
 
-###### Art. 272.º Se o arguido estiver impossibilitado de prestar caução ou tiver grandes dificuldades ou inconvenientes em prestá-la, deverá o juiz, oficiosamente ou sob promoção do Ministério Público, ou a requerimento do próprio interessado, substituí-la pela obrigação de o mesmo arguido se apresentar ao tribunal ou à autoridade por ele designada, em dias e horas pré-estabelecidos ou quando o juiz o entenda necessário, obrigação esta que acrescerá às que lhe tiverem sido impostas.
+Art. 272.º Se o arguido estiver impossibilitado de prestar caução ou tiver grandes dificuldades ou inconvenientes em prestá-la, deverá o juiz, oficiosamente ou sob promoção do Ministério Público, ou a requerimento do próprio interessado, substituí-la pela obrigação de o mesmo arguido se apresentar ao tribunal ou à autoridade por ele designada, em dias e horas pré-estabelecidos ou quando o juiz o entenda necessário, obrigação esta que acrescerá às que lhe tiverem sido impostas.
 
 § único. A substituição prevista neste artigo não poderá fazer-se nos casos em que, sendo autorizada a prisão preventiva, o juiz considere indispensável a caução ou a prisão nos termos do § 3.º do artigo 291.º
 
-###### Art. 273.º A prisão preventiva sem culpa formada poderá ser revogada, ordenando-se a soltura do arguido, sempre que se verifique não subsistirem os requisitos que a justificaram, e poderá ser de novo ordenada, sem prejuízo da unidade dos prazos que a lei estabelece, se sobrevierem motivos que a justifiquem legalmente.
+Art. 273.º A prisão preventiva sem culpa formada poderá ser revogada, ordenando-se a soltura do arguido, sempre que se verifique não subsistirem os requisitos que a justificaram, e poderá ser de novo ordenada, sem prejuízo da unidade dos prazos que a lei estabelece, se sobrevierem motivos que a justifiquem legalmente.
 
 Nos mesmos termos poderá ser revogada ou decretada a liberdade provisória antes da culpa formada.
 
@@ -416,7 +434,7 @@ Após a culpa formada, a prisão preventiva só pode ser revogada em recurso int
 
 A liberdade provisória após a culpa formada pode ser revogada, ou alterado o seu condicionamento, por inobservância das obrigações impostas, nos termos estabelecidos para a liberdade provisória antes da culpa formada.
 
-###### Art. 274.º A caução tem por fim assegurar eficazmente a comparência dos arguidos a todos os termos do processo em que ela seja necessária e o cumprimento das obrigações impostas pela lei ou pelo juiz, e subsiste enquanto não transitar em julgado o despacho que mandar arquivar o processo ou a sentença absolutória, ou enquanto não começar a executar-se a sentença condenatória.
+Art. 274.º A caução tem por fim assegurar eficazmente a comparência dos arguidos a todos os termos do processo em que ela seja necessária e o cumprimento das obrigações impostas pela lei ou pelo juiz, e subsiste enquanto não transitar em julgado o despacho que mandar arquivar o processo ou a sentença absolutória, ou enquanto não começar a executar-se a sentença condenatória.
 
 A caução será arbitrada pelo juiz, ouvido o Ministério Público, tendo em atenção a gravidade da infracção, o dano causado e as circunstâncias do arguido.
 
@@ -428,11 +446,11 @@ Em tal caso manter-se-ão distintas as duas cauções.
 
 § 3.º A caução prestada para o fim referido no § 1.º deste artigo subsiste até decisão final. No caso de condenação, o juiz mandará pagar pelo valor da caução, em primeiro lugar, a multa e o imposto de justiça e em seguida a indemnização ao ofendido. Se for insuficiente o valor da caução consignada a este pagamento, poderá instaurar-se execução pela importância que faltar.
 
-###### Art. 275.º A liberdade provisória mediante caução ou termo de identidade pode ser requerida ou decretada no juízo onde pender o processo ou naquele em que o arguido for preso; neste último caso, assinar-se-á ao arguido prazo razoável para comparecer no juízo da culpa, se não for onerosa ou difícil para o arguido a deslocação, e remeter-se-á ao juízo da culpa o processo de concessão da liberdade provisória.
+Art. 275.º A liberdade provisória mediante caução ou termo de identidade pode ser requerida ou decretada no juízo onde pender o processo ou naquele em que o arguido for preso; neste último caso, assinar-se-á ao arguido prazo razoável para comparecer no juízo da culpa, se não for onerosa ou difícil para o arguido a deslocação, e remeter-se-á ao juízo da culpa o processo de concessão da liberdade provisória.
 
-###### Art. 276.º Quando deva ser exigida caução, o juiz arbitrará sempre o seu valor no acto da apresentação do arguido em juízo.
+Art. 276.º Quando deva ser exigida caução, o juiz arbitrará sempre o seu valor no acto da apresentação do arguido em juízo.
 
-###### Art. 277.º A caução pode ser prestada por meio de depósito, penhor, hipoteca, fiança bancária ou fiança, pelos arguidos que já tenham sido interrogados.
+Art. 277.º A caução pode ser prestada por meio de depósito, penhor, hipoteca, fiança bancária ou fiança, pelos arguidos que já tenham sido interrogados.
 
 § 1.º O arguido deverá indicar o meio por que pretende prestá-la e, se não residir na comarca, designar pessoa residente na sede que receba as notificações que hajam de lhe ser feitas.
 
@@ -442,17 +460,17 @@ Em tal caso manter-se-ão distintas as duas cauções.
 
 § 4.º A prestação de caução será processada por apenso.
 
-###### Art. 278.º É lícito aos arguidos que tenham requerido ou prestado caução por qualquer dos meios admitidos na lei substituí-lo por outro legalmente admissível.
+Art. 278.º É lícito aos arguidos que tenham requerido ou prestado caução por qualquer dos meios admitidos na lei substituí-lo por outro legalmente admissível.
 
-###### Art. 279.º Se a caução for por depósito, será este feito em dinheiro na Caixa Geral de Depósitos; se for por penhor, só pode ser de títulos de crédito, pedras ou metais preciosos, que serão depositados na referida Caixa.
+Art. 279.º Se a caução for por depósito, será este feito em dinheiro na Caixa Geral de Depósitos; se for por penhor, só pode ser de títulos de crédito, pedras ou metais preciosos, que serão depositados na referida Caixa.
 
 Em qualquer caso, o valor será suficiente para garantir a importância da caução e as custas e selos da execução, que a secção calculará.
 
 § único. Ouvido o Ministério Público, será admitido o depósito, se for julgado suficiente, e, feito ele, ficará à ordem do juiz da causa, que julgará prestada a caução.
 
-###### Art. 280.º Se a caução for por hipoteca, juntar-se-á certidão dos ónus que pesem sobre os prédios oferecidos para caução, certidão do rendimento colectável desses prédios, por onde se mostre que o valor destes é igual ou superior ao dobro do valor a caucionar, e certificado do registo provisório da hipoteca ou certidão da apresentação com a declaração de que está nas condições de ser registada. O juiz, ouvido o Ministério Público, se julgar suficiente a hipoteca, autorizá-la-á e, depois de junto o certificado do registo definitivo, julgará prestada a caução.
+Art. 280.º Se a caução for por hipoteca, juntar-se-á certidão dos ónus que pesem sobre os prédios oferecidos para caução, certidão do rendimento colectável desses prédios, por onde se mostre que o valor destes é igual ou superior ao dobro do valor a caucionar, e certificado do registo provisório da hipoteca ou certidão da apresentação com a declaração de que está nas condições de ser registada. O juiz, ouvido o Ministério Público, se julgar suficiente a hipoteca, autorizá-la-á e, depois de junto o certificado do registo definitivo, julgará prestada a caução.
 
-###### Art. 281.º Se a caução for por fiança bancária, juntar-se-á documento comprovativo.
+Art. 281.º Se a caução for por fiança bancária, juntar-se-á documento comprovativo.
 
 Se a caução for por outra espécie de fiança, indicar-se-á o nome de fiador idóneo e conhecido em juízo ou de fiador e subfiador idóneo e conhecido em juízo.
 
@@ -460,7 +478,7 @@ O arguido pode oferecer mais de um fiador, respondendo todos solidàriamente pel
 
 § único. Se o fiador ou o subfiador não residir na comarca onde pender o processo, escolherá nela pessoa que receba as notificações.
 
-###### Art. 282.º Se, posteriormente ao despacho que arbitrou a caução, se verificarem ou forem conhecidas circunstâncias que a tornem inadmissível, desnecessária ou insuficiente, deverá a caução ser declarada sem efeito, dispensada ou reforçada, conforme os casos, depois de ouvido o Ministério Público.
+Art. 282.º Se, posteriormente ao despacho que arbitrou a caução, se verificarem ou forem conhecidas circunstâncias que a tornem inadmissível, desnecessária ou insuficiente, deverá a caução ser declarada sem efeito, dispensada ou reforçada, conforme os casos, depois de ouvido o Ministério Público.
 
 § 1.º A caução é inadmissível, e deverá ser quebrada, quando se verifiquem os casos em que a lei impõe a prisão preventiva.
 
@@ -470,7 +488,7 @@ O arguido pode oferecer mais de um fiador, respondendo todos solidàriamente pel
 
 § 4.º Se o arguido, notificado para reforçar a caução, não indicar bens para o reforço exigido ou novo e idóneo fiador ou subfiador, no prazo de cinco dias, ficará a caução sem efeito e o arguido será preso em todos os casos em que é admissível a captura ou não deva prescindir-se de caução.
 
-###### Art. 283.º O fiador, ou o proprietário dos bens depositados, hipotecados ou empenhados, será avisado das notificações feitas ao arguido para comparecer em juízo.
+Art. 283.º O fiador, ou o proprietário dos bens depositados, hipotecados ou empenhados, será avisado das notificações feitas ao arguido para comparecer em juízo.
 
 Verificada a falta injustificada ou o não cumprimento de qualquer outra obrigação, será, nos termos do § 4.º do artigo 291.º, quebrada a caução, e recolhido à prisão o arguido, a quem só poderá ser concedida de novo a liberdade provisória no despacho de pronúncia ou em recurso do despacho de pronúncia ou da decisão final, se for caso disso.
 
@@ -480,15 +498,15 @@ Verificada a falta injustificada ou o não cumprimento de qualquer outra obriga�
 
 § 3.º A execução sobre os valores da caução, ou sobre o património do fiador ou do subfiador, correrá por apenso ao processo.
 
-###### Art. 284.º Do despacho que negar ou conceder a liberdade provisória mediante caução e arbitrar o valor desta, e bem assim do que a julgar quebrada, compete recurso, restrito ao conhecimento do que nesses despachos se decidiu.
+Art. 284.º Do despacho que negar ou conceder a liberdade provisória mediante caução e arbitrar o valor desta, e bem assim do que a julgar quebrada, compete recurso, restrito ao conhecimento do que nesses despachos se decidiu.
 
 § único. Terminada a caução, proferir-se-á despacho mandando cancelar o registo de hipoteca, restituir o depósito feito ou os objectos dados em penhor, ou declarando extinta a responsabilidade do fiador e do subfiador.
 
-###### Art. 285.º É da competência do juiz a modificação das condições de liberdade provisória, quebra, dispensa e reforço de caução.
+Art. 285.º É da competência do juiz a modificação das condições de liberdade provisória, quebra, dispensa e reforço de caução.
 
 ### CAPÍTULO VI — Da prisão
 
-###### Art. 286.º A prisão preventiva só pode ser autorizada:
+Art. 286.º A prisão preventiva só pode ser autorizada:
 
 1.º Em flagrante delito, nos termos do artigo 287.º;
 
@@ -496,19 +514,19 @@ Verificada a falta injustificada ou o não cumprimento de qualquer outra obriga�
 
 3.º Pelo não cumprimento de obrigações a que ficar subordinada a liberdade provisória, nos termos do n.º 2.º e § 4.º do artigo 291.º
 
-###### Art. 287.º Em flagrante delito a que corresponda pena de prisão todas as autoridades ou agentes de autoridade devem, e qualquer pessoa do povo pode, prender os infractores.
+Art. 287.º Em flagrante delito a que corresponda pena de prisão todas as autoridades ou agentes de autoridade devem, e qualquer pessoa do povo pode, prender os infractores.
 
 § único. Se ao facto punível não corresponder pena de prisão, o infractor só poderá ser detido por qualquer autoridade ou agente da autoridade quando não for conhecido o seu nome e residência e não possa ser imediatamente determinado, ou quando se trate de arguidos em liberdade provisória ou condenados em liberdade condicional que tenham infringido as obrigações a que estejam sujeitos.
 
-###### Art. 288.º É flagrante delito todo o facto punível que se está cometendo ou que se acabou de cometer. Reputa-se também flagrante delito o caso em que o infractor é, logo após a infracção, perseguido por qualquer pessoa, ou foi encontrado a seguir à prática da infracção com objectos ou sinais que mostrem claramente que a cometeu ou nela participou.
+Art. 288.º É flagrante delito todo o facto punível que se está cometendo ou que se acabou de cometer. Reputa-se também flagrante delito o caso em que o infractor é, logo após a infracção, perseguido por qualquer pessoa, ou foi encontrado a seguir à prática da infracção com objectos ou sinais que mostrem claramente que a cometeu ou nela participou.
 
-###### Art. 289.º Para a prisão dos réus em flagrante e quando à infracção corresponder a pena de prisão é permitida a entrada tanto na casa ou no lugar onde o facto se está cometendo, ainda que não seja acessível ao público, como naquele a que o infractor se acolheu, independentemente de qualquer formalidade.
+Art. 289.º Para a prisão dos réus em flagrante e quando à infracção corresponder a pena de prisão é permitida a entrada tanto na casa ou no lugar onde o facto se está cometendo, ainda que não seja acessível ao público, como naquele a que o infractor se acolheu, independentemente de qualquer formalidade.
 
-###### Art. 290.º A entrega dos presos em flagrante delito ao Poder Judicial deve ser feita em acto seguido à prisão ou no mais curto espaço de tempo possível, dadas as circunstâncias, salvo o disposto nas leis de polícia, sob pena de procedimento criminal, que será imediatamente instaurado contra os que infringirem esta disposição.
+Art. 290.º A entrega dos presos em flagrante delito ao Poder Judicial deve ser feita em acto seguido à prisão ou no mais curto espaço de tempo possível, dadas as circunstâncias, salvo o disposto nas leis de polícia, sob pena de procedimento criminal, que será imediatamente instaurado contra os que infringirem esta disposição.
 
 § único. A entrega poderá ser feita em um posto policial ou da Guarda Nacional Republicana, ou a qualquer autoridade ou agente da autoridade encarregados de manter a ordem pública, se não forem estes que tenham efectuado a captura, devendo os presos ser remetidos para juízo, nos termos deste artigo.
 
-###### Art. 291.º Só é autorizada a prisão preventiva fora de flagrante delito:
+Art. 291.º Só é autorizada a prisão preventiva fora de flagrante delito:
 
 1.º Quando se verifiquem cumulativamente os seguintes requisitos:
 
@@ -540,11 +558,11 @@ c) Quando, em razão da natureza e circunstâncias do crime, ou da personalidade
 
 O arguido em liberdade provisória mediante termo de identidade deverá prestar caução, se faltar ao cumprimento das obrigações que lhe incumbem, e, se infringir de novo essas obrigações, poderá ser preso, nos termos da primeira parte deste parágrafo.
 
-###### Art. 292.º A captura em flagrante delito ou fora de flagrante delito não deve ser efectuada ou ordenada, quando haja fundadas razões para crer que o facto foi cometido pelo arguido em circunstâncias que dirimam a sua responsabilidade criminal. Se o processo prosseguir ficará o arguido em liberdade provisória, com ou sem caução, consoante a gravidade do crime.
+Art. 292.º A captura em flagrante delito ou fora de flagrante delito não deve ser efectuada ou ordenada, quando haja fundadas razões para crer que o facto foi cometido pelo arguido em circunstâncias que dirimam a sua responsabilidade criminal. Se o processo prosseguir ficará o arguido em liberdade provisória, com ou sem caução, consoante a gravidade do crime.
 
 § único. Quando a acção penal depender de acusação particular ou de participação de certas pessoas, a prisão em flagrante delito só pode ter lugar quando o titular do direito de acusação ou participação em juízo declare à autoridade ou agente da autoridade que pretende exercer aquele direito.
 
-###### Art. 293.º Fora dos casos de flagrante delito, a prisão em cadeia pública ou a detenção em domicílio privado ou estabelecimento de alienados só poderá ser levada a efeito mediante ordem por escrito do juiz, do Ministério Público ou das demais autoridades de polícia judiciária.
+Art. 293.º Fora dos casos de flagrante delito, a prisão em cadeia pública ou a detenção em domicílio privado ou estabelecimento de alienados só poderá ser levada a efeito mediante ordem por escrito do juiz, do Ministério Público ou das demais autoridades de polícia judiciária.
 
 § único. São autoridades de polícia judiciária, além do Ministério Público:
 
@@ -554,7 +572,7 @@ O arguido em liberdade provisória mediante termo de identidade deverá prestar 
 
 3.º Os presidentes das câmaras municipais, ou os vice-presidentes quando neles estejam delegadas as funções de autoridade policial.
 
-###### Art. 294.º O Chefe do Estado não responde perante os tribunais por actos praticados no exercício das suas funções; por crimes estranhos ao exercício das suas funções responderá perante os tribunais comuns, mas só depois de findo o mandato, e também só depois de findo o mandato poderá ser preso.
+Art. 294.º O Chefe do Estado não responde perante os tribunais por actos praticados no exercício das suas funções; por crimes estranhos ao exercício das suas funções responderá perante os tribunais comuns, mas só depois de findo o mandato, e também só depois de findo o mandato poderá ser preso.
 
 Os membros do Governo só podem ser presos se, depois de formada a culpa, o Supremo Tribunal de Justiça, em sessão plena e com a assistência do procurador-geral da República, decidir que eles devem ser imediatamente julgados, caso em que ficarão suspensos.
 
@@ -564,7 +582,7 @@ De igual imunidade gozam os Procuradores à Câmara Corporativa e os membros do 
 
 Os magistrados judiciais e do Ministério Público não podem ser presos sem culpa formada, excepto em flagrante delito e se ao crime corresponder pena maior. Neste caso, a prisão será comunicada ao presidente do tribunal competente para o julgamento, a quem o preso será apresentado dentro do prazo de quarenta e oito horas; o presidente averiguará da legalidade da prisão e procederá ao interrogatório, nos termos dos artigos 253.º e seguintes, e depois remeterá o processo a entidade instrutora.
 
-###### Art. 295.º Os mandados de captura serão sempre passados em triplicado e assinados pelo juiz, devendo conter:
+Art. 295.º Os mandados de captura serão sempre passados em triplicado e assinados pelo juiz, devendo conter:
 
 1.º A identificação da pessoa que há-de ser presa, mencionando o seu nome e, se possível, a residência e mais características que possam identificá-la e facilitar a captura.
 
@@ -576,7 +594,7 @@ Os magistrados judiciais e do Ministério Público não podem ser presos sem cul
 
 § único. Quando se trate de condenado, deverão constar dos mandados de captura os elementos dos n.os 1.º e 4.º, a infracção cometida, a pena aplicada e a indicação da sentença que a decretou. Se a prisão resultar da conversão da multa, deve também constar do mandado o montante a pagar ou depositar.
 
-###### Art. 296.º Os mandados de captura judiciais são exequíveis em todo o território nacional; serão entregues ao agente do Ministério Público da respectiva comarca, que os fará cumprir pelos oficiais de diligências do tribunal.
+Art. 296.º Os mandados de captura judiciais são exequíveis em todo o território nacional; serão entregues ao agente do Ministério Público da respectiva comarca, que os fará cumprir pelos oficiais de diligências do tribunal.
 
 Quer o juiz, quer o Ministério Público, podem solicitar a execução de mandados de captura às autoridades policiais; para esse efeito deverão ser passados exemplares do mandado de captura em número conveniente, podendo também as autoridades copiá-lo em novos exemplares, desde que autentiquem as cópias com a sua assinatura.
 
@@ -590,35 +608,35 @@ Em caso de urgência, é admitida a requisição da captura por qualquer meio de
 
 § 4.º Se a captura for efectuada por qualquer autoridade, por o oficial ter certificado a impossibilidade de cumprimento, observar-se-á o disposto no § único do artigo 87.º
 
-###### Art. 297.º Se o indiciado for achado em comarca diversa, poderá o mandado ser remetido ao Ministério Público ou a qualquer autoridade policial, com competência nessa comarca.
+Art. 297.º Se o indiciado for achado em comarca diversa, poderá o mandado ser remetido ao Ministério Público ou a qualquer autoridade policial, com competência nessa comarca.
 
 § único. Nenhuma autoridade pode recusar o cumprimento de mandado de captura vindo de comarca diversa, salvo se tiver sido expedido sem as formalidades legais indicadas no artigo 295.º
 
-###### Art. 298.º As ordens de captura do Ministério Público ou de autoridades de polícia judiciária estão sujeitas, com as devidas adaptações, aos requisitos e regime dos mandados de captura judiciais.
+Art. 298.º As ordens de captura do Ministério Público ou de autoridades de polícia judiciária estão sujeitas, com as devidas adaptações, aos requisitos e regime dos mandados de captura judiciais.
 
-###### Art. 299.º A prisão fora de flagrante delito poderá ser feita em qualquer dia e hora, salvas as restrições dos artigos seguintes.
+Art. 299.º A prisão fora de flagrante delito poderá ser feita em qualquer dia e hora, salvas as restrições dos artigos seguintes.
 
-###### Art. 300.º De dia, é sempre permitida a entrada em casa do arguido ou em qualquer lugar que lhe pertença ou esteja na sua posse, para o prender por crime punível com pena maior.
+Art. 300.º De dia, é sempre permitida a entrada em casa do arguido ou em qualquer lugar que lhe pertença ou esteja na sua posse, para o prender por crime punível com pena maior.
 
 § 1.º A entrada em casa alheia, seja ou não habitada, ou suas dependências fechadas, qualquer que seja o crime, ou em casa do arguido por crime punível com pena correccional, sòmente será permitida com autorização dos moradores da casa ou seus donos, ou quando o mandado de captura expressamente o ordenar.
 
 § 2.º Se, no caso do parágrafo anterior, for recusada a entrada e o mandado de captura a não autorizar, o oficial, autoridade ou agente, incumbido de efectuar a prisão, certificará o facto e os motivos da recusa e as razões do conhecimento ou suspeita de que o acusado se encontra acolhido nessa casa e, junto logo aos autos o mandado com a certidão, decidirá o juiz se deve ou não ordenar a entrada nessa casa e, em conformidade com essa decisão, se passará novo mandado.
 
-###### Art. 301.º De noite, a entrada em casa habitada ou suas dependências fechadas, para a prisão de qualquer arguido, só será permitida, consentindo os moradores. Se o consentimento for negado, a autoridade ou agente dela que deva efectuar a captura tomará as precauções necessárias para evitar a fuga do arguido.
+Art. 301.º De noite, a entrada em casa habitada ou suas dependências fechadas, para a prisão de qualquer arguido, só será permitida, consentindo os moradores. Se o consentimento for negado, a autoridade ou agente dela que deva efectuar a captura tomará as precauções necessárias para evitar a fuga do arguido.
 
 § único. A entrada, durante a noite, não poderá ser negada nas casas e lugares sujeitos por lei a fiscalização especial da polícia.
 
-###### Art. 302.º A autoridade ou agente da autoridade que precisar de entrar em qualquer casa ou suas dependências fechadas, para efectuar uma prisão, deverá mostrar a ordem de captura, sempre que lhe seja pedida. Se a entrada lhe for negada, nos casos em que a lei a permite, poderá usar da força para a efectivar, passando nesse caso certidão da ocorrência.
+Art. 302.º A autoridade ou agente da autoridade que precisar de entrar em qualquer casa ou suas dependências fechadas, para efectuar uma prisão, deverá mostrar a ordem de captura, sempre que lhe seja pedida. Se a entrada lhe for negada, nos casos em que a lei a permite, poderá usar da força para a efectivar, passando nesse caso certidão da ocorrência.
 
-###### Art. 303.º Só é permitido o internamento de qualquer pessoa em estabelecimento de detenção mediante ordem escrita, datada e assinada por autoridade competente, da qual constem a identificação do detido e a indicação dos motivos da prisão.
+Art. 303.º Só é permitido o internamento de qualquer pessoa em estabelecimento de detenção mediante ordem escrita, datada e assinada por autoridade competente, da qual constem a identificação do detido e a indicação dos motivos da prisão.
 
-###### Art. 304.º Se o crime não admitir a liberdade provisória do arguido mediante caução, este só poderá deixar de ser recolhido à cadeia por doença que ponha em risco a sua vida, comprovada por atestado médico, podendo o juiz mandar examinar o doente por um ou mais médicos e resolver em face dos respectivos pareceres.
+Art. 304.º Se o crime não admitir a liberdade provisória do arguido mediante caução, este só poderá deixar de ser recolhido à cadeia por doença que ponha em risco a sua vida, comprovada por atestado médico, podendo o juiz mandar examinar o doente por um ou mais médicos e resolver em face dos respectivos pareceres.
 
 § 1.º Os médicos que tenham de examinar o doente ou que atestem a sua doença deverão sempre indicar o espaço de tempo provável durante o qual a entrada na prisão põe em perigo a sua vida, e, findo ele, se procederá a novo exame.
 
 § 2.º No caso previsto neste artigo, a autoridade poderá tomar todas as precauções para evitar a fuga do arguido, devendo mandar guardar a casa onde ele se encontra, ou ordenando a sua transferência para um hospital onde fique sob custódia.
 
-###### Art. 305.º Ninguém pode ser preso por crime que admita a liberdade provisória mediante caução:
+Art. 305.º Ninguém pode ser preso por crime que admita a liberdade provisória mediante caução:
 
 1.º Se, por motivo de doença, houver perigo de vida em que o arguido recolha à prisão, e o médico o ateste, podendo o juiz mandar examinar o doente por outro facultativo e resolver se há ou não razões para adiar a prisão, observando-se o disposto nos §§ 1.º e 2.º do artigo anterior;
 
@@ -626,13 +644,13 @@ Em caso de urgência, é admitida a requisição da captura por qualquer meio de
 
 3.º Se estiver tratando o cônjuge, ou algum ascendente, descendente, irmão ou afim nos mesmos graus, e o juiz entender que a assistência do arguido é indispensável ao doente, não podendo, porém, adiar-se a prisão por mais de um mês.
 
-###### Art. 306.º É proibida a toda a autoridade ou agente da autoridade, encarregados de efectuar qualquer prisão, maltratar ou fazer qualquer insulto ou violência aos presos, e só no caso de resistência, fuga ou tentativa de fuga lhe será lícito usar da força ou dos meios indispensáveis para vencer essa resistência ou para efectuar ou manter a prisão.
+Art. 306.º É proibida a toda a autoridade ou agente da autoridade, encarregados de efectuar qualquer prisão, maltratar ou fazer qualquer insulto ou violência aos presos, e só no caso de resistência, fuga ou tentativa de fuga lhe será lícito usar da força ou dos meios indispensáveis para vencer essa resistência ou para efectuar ou manter a prisão.
 
-###### Art. 307.º Todo o oficial encarregado de cumprir qualquer mandado de captura ou remoção de preso se fará acompanhar, sendo necessário, de força militar suficiente para evitar qualquer resistência do indiciado ou a sua evasão. Esta força será requisitada à autoridade civil ou militar mais próxima do lugar onde houver de efectuar-se a prisão.
+Art. 307.º Todo o oficial encarregado de cumprir qualquer mandado de captura ou remoção de preso se fará acompanhar, sendo necessário, de força militar suficiente para evitar qualquer resistência do indiciado ou a sua evasão. Esta força será requisitada à autoridade civil ou militar mais próxima do lugar onde houver de efectuar-se a prisão.
 
 § único. Todos os agentes encarregados da manutenção da ordem pública são obrigados, sem prejuízo do serviço que desempenhem, a auxiliar o oficial incumbido de realizar qualquer prisão, quando este lhes peça a sua intervenção e exiba o respectivo mandado de captura.
 
-###### Art. 308.º Nenhum arguido pode estar preso sem culpa formada além dos prazos marcados na lei.
+Art. 308.º Nenhum arguido pode estar preso sem culpa formada além dos prazos marcados na lei.
 
 § 1.º Desde a captura até à notificação ao arguido da acusação ou do pedido de instrução contraditória pelo Ministério Público, esses prazos não podem exceder:
 
@@ -650,17 +668,17 @@ Em caso de urgência, é admitida a requisição da captura por qualquer meio de
 
 § 3.º Mantém-se a culpa formada até à decisão final, a não ser que em qualquer recurso o arguido seja despronunciado ou absolvido.
 
-###### Art. 309.º Decorridos os prazos indicados no artigo anterior, e sem prejuízo do disposto no artigo 334.º, é obrigatória a libertação do arguido, que será colocado em liberdade provisória mediante caução e sujeito às obrigações que lhe forem prescritas nos termos do § 2.º do artigo 270.º
+Art. 309.º Decorridos os prazos indicados no artigo anterior, e sem prejuízo do disposto no artigo 334.º, é obrigatória a libertação do arguido, que será colocado em liberdade provisória mediante caução e sujeito às obrigações que lhe forem prescritas nos termos do § 2.º do artigo 270.º
 
 § 1.º Se for inadmissível a liberdade provisória, o juiz poderá, ouvido o Ministério Público e o defensor do arguido, em despacho fundamentado, marcar desde logo a data das diligências que repute indispensáveis para ultimação da instrução e prorrogar os referidos prazos por período não excedente a sessenta dias.
 
 § 2.º A prisão preventiva considerar-se-á suspensa, para efeito da contagem dos respectivos prazos, no caso previsto no n.º 1.º do artigo 118.º do Código Penal, se a presença do detido for indispensável à continuação da instrução.
 
-###### Art. 310.º Os prazos de prisão preventiva, no caso de não cumprimento das obrigações inerentes à liberdade provisória, são os correspondentes à infracção cometida, ou os prazos mínimos estabelecidos na lei se em razão da infracção for inadmissível a prisão preventiva.
+Art. 310.º Os prazos de prisão preventiva, no caso de não cumprimento das obrigações inerentes à liberdade provisória, são os correspondentes à infracção cometida, ou os prazos mínimos estabelecidos na lei se em razão da infracção for inadmissível a prisão preventiva.
 
 § único. Quando se trate de vadios ou equiparados que infrinjam as obrigações que lhes tenham sido impostas em liberdade provisória, os prazos de prisão preventiva serão de trinta dias desde a captura até ao despacho preliminar em processo de segurança e de dois meses desde esse despacho até à decisão final em primeira instância.
 
-###### Art. 311.º Os presos sem culpa formada serão apresentados ao juiz da causa ou do lugar da prisão, dentro do prazo de quarenta e oito horas após a detenção. Quando a captura não tenha sido ordenada pelo juiz, pode o agente do Ministério Público, reconhecendo absolutamente necessária maior dilação, autorizar que a apresentação se faça no prazo de cinco dias.
+Art. 311.º Os presos sem culpa formada serão apresentados ao juiz da causa ou do lugar da prisão, dentro do prazo de quarenta e oito horas após a detenção. Quando a captura não tenha sido ordenada pelo juiz, pode o agente do Ministério Público, reconhecendo absolutamente necessária maior dilação, autorizar que a apresentação se faça no prazo de cinco dias.
 
 § 1.º Os presos não poderão comunicar com pessoa alguma antes do primeiro interrogatório. O juiz, ou o agente do Ministério Público na instrução preparatória, poderá ordenar em decisão fundamentada que o arguido continue incomunicável depois de interrogado, contanto que a incomunicabilidade não exceda quarenta e oito horas.
 
@@ -670,7 +688,7 @@ Em caso de urgência, é admitida a requisição da captura por qualquer meio de
 
 Do «habeas corpus»
 
-###### Art. 312.º Os detidos à ordem de autoridades cuja competência territorial não exceda a área da comarca, por motivos da competência dos tribunais comarcãos, poderão requerer ao juiz da comarca onde se encontrem que ordene a sua imediata apresentação em juízo, com algum dos fundamentos seguintes:
+Art. 312.º Os detidos à ordem de autoridades cuja competência territorial não exceda a área da comarca, por motivos da competência dos tribunais comarcãos, poderão requerer ao juiz da comarca onde se encontrem que ordene a sua imediata apresentação em juízo, com algum dos fundamentos seguintes:
 
 a) Estar excedido o prazo para a entrega ao Poder Judicial;
 
@@ -682,13 +700,13 @@ d) Ser a detenção motivada por facto pelo qual a lei não a permita.
 
 § único. O requerimento para os efeitos deste artigo, firmado em qualquer dos fundamentos nele indicados, será subscrito por advogado e, conjuntamente, pelo detido ou por seu cônjuge, ascendente ou descendente capaz.
 
-###### Art. 313.º Recebido o requerimento, o juiz notificará imediatamente a entidade que tiver o detido à sua guarda para remeter ao tribunal cópia da ordem de prisão e informar da data em que esta se efectuou, das razões legais que a justificam e do local onde o detido se encontra.
+Art. 313.º Recebido o requerimento, o juiz notificará imediatamente a entidade que tiver o detido à sua guarda para remeter ao tribunal cópia da ordem de prisão e informar da data em que esta se efectuou, das razões legais que a justificam e do local onde o detido se encontra.
 
 Se a prisão tiver sido efectuada em flagrante, nos casos em que só por esse motivo é permitida, far-se-á disso declaração expressa.
 
 § único. A entidade que tiver o detido à sua guarda será também notificada de que, até decisão final, aquele não poderá ser transferido sem autorização do juiz para outro local de detenção.
 
-###### Art. 314.º A resposta à notificação referida no artigo anterior será dada no prazo de vinte e quatro horas, se a detenção tiver lugar na sede da comarca, e no máximo de três dias, em caso diferente.
+Art. 314.º A resposta à notificação referida no artigo anterior será dada no prazo de vinte e quatro horas, se a detenção tiver lugar na sede da comarca, e no máximo de três dias, em caso diferente.
 
 Em face da resposta, o juiz, com audiência oral do Ministério Público, cujas declarações constarão da acta, decidirá se se verificam as condições indicadas no artigo 312.º, e, em caso afirmativo, ordenará que o detido lhe seja presente, seguindo-se os trâmites dos artigos 253.º e seguintes.
 
@@ -700,7 +718,7 @@ Em face da resposta, o juiz, com audiência oral do Ministério Público, cujas 
 
 § 4.º Quando a reclamação seja manifestamente destituída de fundamento, o juiz condenará na própria decisão, solidàriamente, o reclamante e o advogado na indemnização de 500$00 a 5000$00 para o Cofre Geral dos Tribunais.
 
-###### Art. 315.º Pode usar-se da providência extraordinária do habeas corpus, nos termos dos artigos seguintes, a favor de qualquer indivíduo que se encontre ilegalmente detido e ao qual não seja aplicável o disposto no artigo 312.º, por não ser da competência dos tribunais de comarca conhecer dos motivos da detenção, ou por haver sido esta ordenada por autoridade cuja competência territorial exceda a área da comarca ou por ter sido efectuada e mantida por ordem de autoridade judicial insusceptível de recurso.
+Art. 315.º Pode usar-se da providência extraordinária do habeas corpus, nos termos dos artigos seguintes, a favor de qualquer indivíduo que se encontre ilegalmente detido e ao qual não seja aplicável o disposto no artigo 312.º, por não ser da competência dos tribunais de comarca conhecer dos motivos da detenção, ou por haver sido esta ordenada por autoridade cuja competência territorial exceda a área da comarca ou por ter sido efectuada e mantida por ordem de autoridade judicial insusceptível de recurso.
 
 § único. Só pode haver lugar à providência referida neste artigo quando se trate de prisão efectiva e actual, ferida de ilegalidade por qualquer dos seguintes motivos:
 
@@ -712,7 +730,7 @@ c) Manter-se além dos prazos legais para a apresentação em juízo e para a fo
 
 d) Prolongar-se além do tempo fixado por decisão judicial para a duração da pena ou medida de segurança ou da sua prorrogação.
 
-###### Art. 316.º A petição de habeas corpus será formulada pelo preso, ou por seu cônjuge, ascendente ou descendente capaz, por meio de requerimento assinado por advogado e dirigido ao presidente do Supremo Tribunal de Justiça.
+Art. 316.º A petição de habeas corpus será formulada pelo preso, ou por seu cônjuge, ascendente ou descendente capaz, por meio de requerimento assinado por advogado e dirigido ao presidente do Supremo Tribunal de Justiça.
 
 § 1.º Do requerimento deverá constar: a identificação do preso, a entidade que o prendeu ou mandou prender, a data da captura, o local da prisão, os motivos desta e os fundamentos da sua ilegalidade.
 
@@ -720,7 +738,7 @@ d) Prolongar-se além do tempo fixado por decisão judicial para a duração da 
 
 § 3.º Se a ordem de prisão tiver sido dada pelo juiz da comarca, o requerimento será enviado directamente ao presidente da Relação respectiva.
 
-###### Art. 317.º O presidente da Relação ou o juiz a quem for entregue o requerimento referido no artigo 316.º fará logo remeter o duplicado à entidade responsável pela prisão, a qual responderá dentro do mais breve prazo possível.
+Art. 317.º O presidente da Relação ou o juiz a quem for entregue o requerimento referido no artigo 316.º fará logo remeter o duplicado à entidade responsável pela prisão, a qual responderá dentro do mais breve prazo possível.
 
 § 1.º Se na resposta se informar que o preso foi libertado, o juiz porá termo à reclamação, ficando abertos ao requerente os meios normais para a reparação da ofensa que tiver sofrido.
 
@@ -728,11 +746,11 @@ d) Prolongar-se além do tempo fixado por decisão judicial para a duração da 
 
 § 3.º Se não for dada resposta no prazo que o juiz julgue suficiente, remeter-se-á simplesmente o requerimento com essa informação.
 
-###### Art. 318.º O requerimento e a resposta, se a houver, serão apresentados na primeira sessão ordinária da secção criminal do Supremo Tribunal de Justiça, salvo se o presidente, considerando a urgência do assunto, resolver convocar para o efeito uma sessão extraordinária da mesma secção.
+Art. 318.º O requerimento e a resposta, se a houver, serão apresentados na primeira sessão ordinária da secção criminal do Supremo Tribunal de Justiça, salvo se o presidente, considerando a urgência do assunto, resolver convocar para o efeito uma sessão extraordinária da mesma secção.
 
 § único. A secção funcionará com todos os juízes em exercício, no mínimo de três, e com a assistência do Ministério Público. Em férias, o presidente do Supremo, ou quem suas vezes fizer, convocará os juízes da secção criminal que se encontrem em Lisboa e, não os havendo em número suficiente, chamará os juizes mais antigos da secção cível que estejam na capital. Se ainda assim não for possível formar a sessão, serão mandados regressar a Lisboa os juízes da secção criminal que mais perto se encontrem.
 
-###### Art. 319.º A deliberação será tomada por maioria, podendo decidir-se:
+Art. 319.º A deliberação será tomada por maioria, podendo decidir-se:
 
 a) Indeferir o pedido por falta de fundamento bastante;
 
@@ -744,17 +762,17 @@ d) Declarar ilegal a prisão e ordenar a imediata libertação do recluso.
 
 § único. Se não estiver junta ao requerimento a resposta da autoridade responsável pela prisão a que se refere o artigo 317.º, apenas poderão tomar-se as decisões enunciadas nas alíneas a) e b) do presente artigo, conforme a convicção que resultar do requerimento. Poderá, no entanto, ordenar-se a junção dessa resposta, se for considerada necessária para fundamento de qualquer decisão. Neste último caso, sem prejuízo do disposto na primeira parte da alínea b), o presidente do tribunal mandará notificar aquela entidade para responder no prazo que lhe fixar, sob pena de desobediência. Recebida a resposta, decidir-se-á nos termos deste artigo.
 
-###### Art. 320.º Tendo-se ordenado inquérito, será o respectivo relatório enviado ao presidente do Supremo Tribunal de Justiça, que o fará apresentar na primeira sessão ordinária da secção criminal, ou em sessão extraordinária que decida convocar, a fim de ser tomada a decisão que no caso couber, nos termos do artigo anterior.
+Art. 320.º Tendo-se ordenado inquérito, será o respectivo relatório enviado ao presidente do Supremo Tribunal de Justiça, que o fará apresentar na primeira sessão ordinária da secção criminal, ou em sessão extraordinária que decida convocar, a fim de ser tomada a decisão que no caso couber, nos termos do artigo anterior.
 
-###### Art. 321.º Poderá a todo o tempo ser sanada a ilegalidade da prisão que simplesmente resulte da incompetência de quem a ordenou ou efectuou, devendo o Supremo Tribunal de Justiça ordenar nesse sentido as providências convenientes, quando verifique que a prisão é de manter.
+Art. 321.º Poderá a todo o tempo ser sanada a ilegalidade da prisão que simplesmente resulte da incompetência de quem a ordenou ou efectuou, devendo o Supremo Tribunal de Justiça ordenar nesse sentido as providências convenientes, quando verifique que a prisão é de manter.
 
-###### Art. 322.º As decisões serão fundamentadas e transcritas na acta pelo juiz mais moderno.
+Art. 322.º As decisões serão fundamentadas e transcritas na acta pelo juiz mais moderno.
 
 § 1.º As ordens dirigidas a quaisquer entidades para execução das deliberações do tribunal serão passadas pelo secretário e assinadas pelo presidente.
 
 § 2.º As entidades notificadas deverão no mais curto prazo comunicar ao Supremo Tribunal de Justiça o cumprimento das ordens para anotação no livro de actas.
 
-###### Art. 323.º Serão punidas com as penas do artigo 291.º do Código Penal:
+Art. 323.º Serão punidas com as penas do artigo 291.º do Código Penal:
 
 a) A recusa da entrega do preso na cadeia que o Supremo Tribunal indicar para ficar detido à sua ordem;
 
@@ -764,17 +782,17 @@ c) A nova detenção, pelo mesmo facto e em idênticas condições, de qualquer 
 
 § único. Não poderá ser concedida a garantia administrativa nos processos instaurados pelos crimes a que se referem o presente artigo e o § 2.º do artigo 314.º
 
-###### Art. 324.º Quando julgue a petição manifestamente infundada, o Supremo Tribunal condenará solidàriamente o requerente e o seu defensor na indemnização de 5000$00 a 20000$00 para o Cofre Geral dos Tribunais, sem prejuízo do disposto nos parágrafos seguintes.
+Art. 324.º Quando julgue a petição manifestamente infundada, o Supremo Tribunal condenará solidàriamente o requerente e o seu defensor na indemnização de 5000$00 a 20000$00 para o Cofre Geral dos Tribunais, sem prejuízo do disposto nos parágrafos seguintes.
 
 § 1.º Se se mostrar que o requerente teve o propósito de demorar ou prejudicar investigações em curso a seu respeito, ou perturbar a marcha de algum processo em que fosse arguido, ou por outro modo dificultar a pronta acção da justiça, será condenado em prisão por injúria ao tribunal, para o que o procurador-geral da República mandará instaurar a competente acção penal com base na certidão da acta, que terá o valor do corpo de delito.
 
 § 2.º Quanto ao advogado que tenha ou deva ter conhecimento da falta de fundamento legal da petição, ser-lhe-á aplicada pelo Supremo Tribunal a suspensão do exercício da advocacia pelo período de três meses a um ano.
 
-###### Art. 325.º A providência extraordinária de habeas corpus não tem aplicação aos militares sujeitos a foro especial.
+Art. 325.º A providência extraordinária de habeas corpus não tem aplicação aos militares sujeitos a foro especial.
 
 ### CAPÍTULO VIII — Da Instrução contraditória
 
-###### Art. 326.º A instrução preparatória considera-se finda:
+Art. 326.º A instrução preparatória considera-se finda:
 
 1.º Quando tenha sido obtida prova bastante para fundamentar a acusação ou deva ter lugar a abstenção de acusação.
 
@@ -782,7 +800,7 @@ c) A nova detenção, pelo mesmo facto e em idênticas condições, de qualquer 
 
 § único. Finda a instrução preparatória, o Ministério Público, se for caso disso, deduzirá a acusação ou requererá a instrução contraditória.
 
-###### Art. 327.º Nos processos de querela haverá sempre instrução contraditória para esclarecer e completar a prova indiciária da acusação, e para realizar as diligências requeridas pelo arguido destinadas a ilidir ou enfraquecer aquela prova e a preparar ou corroborar a defesa.
+Art. 327.º Nos processos de querela haverá sempre instrução contraditória para esclarecer e completar a prova indiciária da acusação, e para realizar as diligências requeridas pelo arguido destinadas a ilidir ou enfraquecer aquela prova e a preparar ou corroborar a defesa.
 
 O juiz poderá ordenar as diligências complementares de prova que se mostrem necessárias.
 
@@ -794,13 +812,13 @@ O juiz poderá ordenar as diligências complementares de prova que se mostrem ne
 
 3.º Em todas as formas de processo, por decisão do juiz, para realização de diligências complementares de prova que julgue convenientes para receber ou rejeitar a acusação.
 
-###### Art. 328.º O requerimento do Ministério Público para abertura da instrução contraditória, nos casos referidos no corpo do artigo anterior e no n.º 1.º do seu § único, será articulado e deverá indicar a identificação do arguido e os factos que lhe são imputados; deverá ainda referir os factos acerca dos quais entenda haver indícios suficientes e aqueles que que importe esclarecer, promovendo as diligências convenientes de prova.
+Art. 328.º O requerimento do Ministério Público para abertura da instrução contraditória, nos casos referidos no corpo do artigo anterior e no n.º 1.º do seu § único, será articulado e deverá indicar a identificação do arguido e os factos que lhe são imputados; deverá ainda referir os factos acerca dos quais entenda haver indícios suficientes e aqueles que que importe esclarecer, promovendo as diligências convenientes de prova.
 
 O requerimento do arguido para abertura da instrução contraditória, no caso referido no n.º 2.º do § único do mesmo artigo, será apresentado até cinco dias depois da notificação da acusação, devendo articular os factos que pretenda provar, juntando logo todos os documentos que devam ser apreciados, indicando outros meios de prova que queira produzir e oferecendo o rol de testemunhas com a menção dos factos a que devam depor.
 
-###### Art. 329.º A instrução contraditória requerida pelo Ministério Público só pode ser denegada quando seja inadmissível, quando o juiz seja incompetente, ou quando este verifique não ter havido crime, estar extinta a acção penal ou haver elementos de facto que comprovem a irresponsabilidade do arguido.
+Art. 329.º A instrução contraditória requerida pelo Ministério Público só pode ser denegada quando seja inadmissível, quando o juiz seja incompetente, ou quando este verifique não ter havido crime, estar extinta a acção penal ou haver elementos de facto que comprovem a irresponsabilidade do arguido.
 
-###### Art. 330.º A instrução contraditória é sempre presidida pelo juiz.
+Art. 330.º A instrução contraditória é sempre presidida pelo juiz.
 
 Aos actos de instrução contraditória poderão assistir o agente do Ministério Público, o arguido, o seu defensor e o advogado dos assistentes.
 
@@ -808,7 +826,7 @@ Aos actos de instrução contraditória poderão assistir o agente do Ministéri
 
 § 2.º As diligências de prova serão efectuadas pela ordem mais conveniente para o apuramento da verdade. O juiz deverá indeferir, por despacho fundamentado, as diligências requeridas que não interessem à instrução do processo ou sirvam apenas para protelar o seu andamento, e ordenará oficiosamente aquelas que considerar úteis ou se tenham mostrado indispensáveis.
 
-###### Art. 331.º O número de testemunhas oferecidas em instrução contraditória não poderá ser superior ao das que podem ser arroladas para a audiência de discussão e julgamento, e não excederá três por cada facto que se pretenda provar.
+Art. 331.º O número de testemunhas oferecidas em instrução contraditória não poderá ser superior ao das que podem ser arroladas para a audiência de discussão e julgamento, e não excederá três por cada facto que se pretenda provar.
 
 § 1.º Sendo vários os arguidos, cada um deles poderá indicar testemunhas até ao limite fixado neste artigo.
 
@@ -816,13 +834,13 @@ Aos actos de instrução contraditória poderão assistir o agente do Ministéri
 
 O juiz, porém, se considerar dispensáveis essas diligências para apreciação da instrução, poderá determinar que as deprecadas sejam juntas aos autos, após a pronúncia, a fim de serem lidas e discutidas na audiência de julgamento.
 
-###### Art. 332.º Só o juiz poderá inquirir as testemunhas; o agente do Ministério Público, o arguido ou o seu defensor e o advogado dos assistentes apenas poderão requerer que sejam feitas quaisquer perguntas para completar ou esclarecer os depoimentos.
+Art. 332.º Só o juiz poderá inquirir as testemunhas; o agente do Ministério Público, o arguido ou o seu defensor e o advogado dos assistentes apenas poderão requerer que sejam feitas quaisquer perguntas para completar ou esclarecer os depoimentos.
 
 O juiz fará estas perguntas se as julgar necessárias ao esclarecimento da verdade.
 
 § único. As testemunhas podem ser contraditadas, findo o depoimento, e o juiz ordenará as acareações que julgar indispensáveis.
 
-###### Art. 333.º Quando for requerido algum exame, indicar-se-ão logo os quesitos a que os peritos devem responder; o juiz e os representantes da acusação e da defesa que não tenham requerido o exame, e ainda que este tenha sido ordenado oficiosamente, poderão formular os quesitos que julguem necessários.
+Art. 333.º Quando for requerido algum exame, indicar-se-ão logo os quesitos a que os peritos devem responder; o juiz e os representantes da acusação e da defesa que não tenham requerido o exame, e ainda que este tenha sido ordenado oficiosamente, poderão formular os quesitos que julguem necessários.
 
 § 1.º O juiz poderá rejeitar os quesitos que não forem úteis para o esclarecimento da verdade.
 
@@ -830,19 +848,19 @@ O juiz fará estas perguntas se as julgar necessárias ao esclarecimento da verd
 
 § 3.º Os peritos serão sempre nomeados pelo juiz.
 
-###### Art. 334.º As diligências da instrução contraditória, havendo arguidos presos, serão realizadas dentro de três meses, se à infracção couber pena a que corresponda processo de querela, dois meses, se for pena a que corresponda processo correccional, e um mês, se for pena a que corresponda processo de polícia correccional. Estes prazos poderão ser acrescidos do tempo absolutamente indispensável, não excedente a trinta dias, para decidir incidentes ou excepções processuais deduzidos pela defesa e para proceder a diligências de defesa que não pudessem ter sido realizadas antes, quando a própria defesa não desistir dessas diligências. Pelo mesmo prazo, pode o juiz, em despacho fundamentado, depois de ouvidas as partes, prorrogar a prisão preventiva.
+Art. 334.º As diligências da instrução contraditória, havendo arguidos presos, serão realizadas dentro de três meses, se à infracção couber pena a que corresponda processo de querela, dois meses, se for pena a que corresponda processo correccional, e um mês, se for pena a que corresponda processo de polícia correccional. Estes prazos poderão ser acrescidos do tempo absolutamente indispensável, não excedente a trinta dias, para decidir incidentes ou excepções processuais deduzidos pela defesa e para proceder a diligências de defesa que não pudessem ter sido realizadas antes, quando a própria defesa não desistir dessas diligências. Pelo mesmo prazo, pode o juiz, em despacho fundamentado, depois de ouvidas as partes, prorrogar a prisão preventiva.
 
 § 1.º Não havendo arguidos presos, os prazos da instrução contraditória serão de seis meses, quatro meses e dois meses, respectivamente.
 
 § 2.º Se forem vários os arguidos, o juiz poderá apreciar separadamente a situação de qualquer deles, embora não estejam concluídas as diligências da instrução contraditória quanto aos restantes, se em face das provas já produzidas puder decidir com segurança quanto a ele.
 
-###### Art. 335.º Se antes de ordenada a instrução contraditória tiver sido deduzida acusação, finda ela ou decorrido o prazo para se realizar, será notificado o arguido para, no prazo de dois dias, dizer o que se lhe oferecer, e, em seguida, será continuado o processo com vista ao Ministério Público e notificado o assistente para, em igual prazo, manterem ou não a acusação, depois do que o juiz, apreciando todas as provas produzidas, proferirá despacho de pronúncia ou não pronúncia.
+Art. 335.º Se antes de ordenada a instrução contraditória tiver sido deduzida acusação, finda ela ou decorrido o prazo para se realizar, será notificado o arguido para, no prazo de dois dias, dizer o que se lhe oferecer, e, em seguida, será continuado o processo com vista ao Ministério Público e notificado o assistente para, em igual prazo, manterem ou não a acusação, depois do que o juiz, apreciando todas as provas produzidas, proferirá despacho de pronúncia ou não pronúncia.
 
-###### Art. 336.º Do despacho que ordenar a abertura da instrução contraditória só haverá recurso pelos fundamentos indicados no artigo 329.º O recurso seguirá com o que for interposto do despacho de pronúncia.
+Art. 336.º Do despacho que ordenar a abertura da instrução contraditória só haverá recurso pelos fundamentos indicados no artigo 329.º O recurso seguirá com o que for interposto do despacho de pronúncia.
 
 ### CAPÍTULO IX — Do encerramento da instrução
 
-###### Art. 337.º A instrução preparatória deverá ultimar-se, havendo arguidos presos, em prazo consentâneo com a duração da prisão preventiva indicada no § 1.º do artigo 308.º
+Art. 337.º A instrução preparatória deverá ultimar-se, havendo arguidos presos, em prazo consentâneo com a duração da prisão preventiva indicada no § 1.º do artigo 308.º
 
 Não havendo arguidos presos, o prazo da instrução preparatória será de três meses em processo de querela e de dois meses nas demais formas de processo, contados a partir do momento em que a instrução preparatória seja dirigida contra pessoa determinada.
 
@@ -864,29 +882,29 @@ Se o retardamento for de imputar a louvados, técnicos ou peritos, não serão c
 
 ...
 
-###### Art. 349.º Se da instrução resultarem indícios suficientes da existência do facto punível, de quem foram os seus agentes e da sua responsabilidade, o Ministério Público, se para isso tiver legitimidade, deduzirá a acusação. O assistente, havendo-o, será notificado para deduzir a sua acusação, sendo-lhe para esse fim facultado o exame do processo.
+Art. 349.º Se da instrução resultarem indícios suficientes da existência do facto punível, de quem foram os seus agentes e da sua responsabilidade, o Ministério Público, se para isso tiver legitimidade, deduzirá a acusação. O assistente, havendo-o, será notificado para deduzir a sua acusação, sendo-lhe para esse fim facultado o exame do processo.
 
 Se a acção penal depender de acusação da parte, deduzirá esta a acusação no prazo legal, a contar da notificação que para esse fim lhe for feita, e em seguida será o processo concluso ao Ministério Público para acusar também pelos mesmos factos, limitar a sua acusação ou abster-se de acusar.
 
 § único. Passará a provisória a acusação a que se siga instrução contraditória. A acusação provisória poderá ser alterada, finda a instrução contraditória.
 
-###### Art. 350.º Havendo arguidos presos, a acusação será deduzida no prazo de cinco dias em processo de querela e de três dias nas demais formas de processo. Para este efeito, o processo será concluso ao Ministério Público pelo menos seis ou quatro dias, respectivamente, antes de terminarem os prazos a que se refere o § 1.º do artigo 308.º O assistente será notificado, na data da conclusão do processo ao Ministério Público, para formular a sua acusação até dois dias após o termo do prazo em que este pode fazê-lo.
+Art. 350.º Havendo arguidos presos, a acusação será deduzida no prazo de cinco dias em processo de querela e de três dias nas demais formas de processo. Para este efeito, o processo será concluso ao Ministério Público pelo menos seis ou quatro dias, respectivamente, antes de terminarem os prazos a que se refere o § 1.º do artigo 308.º O assistente será notificado, na data da conclusão do processo ao Ministério Público, para formular a sua acusação até dois dias após o termo do prazo em que este pode fazê-lo.
 
-###### Art. 351.º Se o juiz entender que se provam factos, diversos dos apontados pelo Ministério Público, de que resulte uma alteração substancial da acusação, assim o declarará em despacho fundamentado, ordenando que o processo lhe volte com vista para poder deduzir acusação.
+Art. 351.º Se o juiz entender que se provam factos, diversos dos apontados pelo Ministério Público, de que resulte uma alteração substancial da acusação, assim o declarará em despacho fundamentado, ordenando que o processo lhe volte com vista para poder deduzir acusação.
 
 § único. Se o juiz apenas qualificar diversamente os factos apontados pelo Ministério Público ou julgar provados factos que não alterem substancialmente a acusação, assim o fará constar do seu despacho de pronúncia ou equivalente, recebendo todavia a acusação.
 
-###### Art. 352.º A acusação, quando não tenha sido precedida de instrução contraditória, será notificada aos arguidos presos ou seus advogados no prazo de vinte e quatro horas ou, não havendo arguidos presos, no prazo de cinco dias. O mesmo se observará em relação ao requerimento do Ministério Público para abertura da instrução contraditória.
+Art. 352.º A acusação, quando não tenha sido precedida de instrução contraditória, será notificada aos arguidos presos ou seus advogados no prazo de vinte e quatro horas ou, não havendo arguidos presos, no prazo de cinco dias. O mesmo se observará em relação ao requerimento do Ministério Público para abertura da instrução contraditória.
 
 § 1.º A partir da data da notificação, o processo será facultado para exame aos advogados dos arguidos, os quais, no prazo de cinco dias, poderão, quando não requeiram a instrução contraditória, arguir nulidades, sugerir diligências, oferecer documentos e alegarem o que entenderem conveniente a bem da defesa. Se o tribunal ordenar as diligências sugeridas, observar-se-á o disposto no n.º 3.º do § único do artigo 327.º
 
 § 2.º Se não for possível efectuar a notificação, o processo seguirá sem ela.
 
-###### Art. 353.º Decorrido o prazo estabelecido no § 1.º do artigo anterior, o juiz conferirá despacho, recebendo ou rejeitando a acusação ou ordenando a instrução contraditória, como no caso couber. Sempre que esta tenha lugar, deverá ser nomeado defensor oficioso ao arguido, quando ele não haja constituído advogado.
+Art. 353.º Decorrido o prazo estabelecido no § 1.º do artigo anterior, o juiz conferirá despacho, recebendo ou rejeitando a acusação ou ordenando a instrução contraditória, como no caso couber. Sempre que esta tenha lugar, deverá ser nomeado defensor oficioso ao arguido, quando ele não haja constituído advogado.
 
 § único. O despacho do juiz ordenando a instrução contraditória será proferido no prazo de dois dias.
 
-###### Art. 354.º Antes de apreciar a acusação, o juiz, no despacho que a receba ou rejeite, conhecerá sempre das nulidades da instrução ou de actos praticados durante a instrução, verificará se foram ordenadas ou efectuadas prisões arbitrárias e se se observaram os prazos legais da instrução.
+Art. 354.º Antes de apreciar a acusação, o juiz, no despacho que a receba ou rejeite, conhecerá sempre das nulidades da instrução ou de actos praticados durante a instrução, verificará se foram ordenadas ou efectuadas prisões arbitrárias e se se observaram os prazos legais da instrução.
 
 § 1.º Também o juiz ordenará a junção de certificado do registo criminal do arguido e de certidão do registo de nascimento do arguido ou do ofendido, quando necessários para se classificar a infracção, determinar ou graduar a responsabilidade dos seus agentes, ou apreciar a legitimidade para a acção penal, se ainda não estiverem no processo.
 
@@ -896,19 +914,19 @@ Se a acção penal depender de acusação da parte, deduzirá esta a acusação 
 
 § 4.º Se, depois de junto o certificado do registo criminal, se conhecer que algum dos arguidos foi posteriormente pronunciado ou julgado por outra infracção, juntar-se-á ao processo novo certificado.
 
-###### Art. 355.º Os processos em que houver réus presos serão apresentados aos magistrados pelo escrivão, que os informará desse facto.
+Art. 355.º Os processos em que houver réus presos serão apresentados aos magistrados pelo escrivão, que os informará desse facto.
 
 § único. Se, por culpa do juiz, do agente do Ministério Público ou do escrivão, se demorar a soltura dos presos, serão aplicáveis aos responsáveis as penas disciplinares de multa, transferência ou suspensão e, no caso de reincidência, a de suspensão ou outra mais grave, segundo os casos.
 
 ...
 
-###### Art. 358.º O Ministério Público dará a sua querela no prazo de oito dias a contar da data em que o processo lhe for continuado com vista, salvo o disposto no artigo 350.º, e em seguida será notificado o assistente, havendo-o, para o mesmo fim e em igual prazo.
+Art. 358.º O Ministério Público dará a sua querela no prazo de oito dias a contar da data em que o processo lhe for continuado com vista, salvo o disposto no artigo 350.º, e em seguida será notificado o assistente, havendo-o, para o mesmo fim e em igual prazo.
 
 ...
 
-###### Art. 365.º Deduzida querela definitiva pelo Ministério Público e pelo assistente, havendo-o, irá o processo imediatamente concluso ao juiz para, no prazo de oito dias, lançar o seu despacho de pronúncia ou de não pronúncia.
+Art. 365.º Deduzida querela definitiva pelo Ministério Público e pelo assistente, havendo-o, irá o processo imediatamente concluso ao juiz para, no prazo de oito dias, lançar o seu despacho de pronúncia ou de não pronúncia.
 
-###### Art. 366.º O despacho de pronúncia conterá:
+Art. 366.º O despacho de pronúncia conterá:
 
 1.º O nome, profissão e morada, quando conhecidos, ou as indicações necessárias para se conhecer a identidade dos arguidos;
 
@@ -926,23 +944,23 @@ Se a acção penal depender de acusação da parte, deduzirá esta a acusação 
 
 § único. Se o Ministério Público ou a parte acusadora tiverem deixado de indicar na sua querela as provas a produzir na audiência de julgamento, o juiz fá-los-á notificar para, no prazo de dois dias, as oferecerem.
 
-###### Art. 367.º O despacho de não pronúncia deve declarar, nos termos dos artigos 343.º e seguintes, se o processo deve aguardar a produção de melhor prova ou se deve arquivar-se, e os fundamentos da decisão.
+Art. 367.º O despacho de não pronúncia deve declarar, nos termos dos artigos 343.º e seguintes, se o processo deve aguardar a produção de melhor prova ou se deve arquivar-se, e os fundamentos da decisão.
 
-###### Art. 368.º Se os arguidos estiverem presos, o despacho de não pronúncia ordenará que sejam imediatamente postos em liberdade.
+Art. 368.º Se os arguidos estiverem presos, o despacho de não pronúncia ordenará que sejam imediatamente postos em liberdade.
 
 ...
 
-###### Art. 386.º O Ministério Público deduzirá a sua queixa no prazo de cinco dias, a contar da data em que o processo lhe for concluso para esse fim, salvo o disposto no artigo 350.º
+Art. 386.º O Ministério Público deduzirá a sua queixa no prazo de cinco dias, a contar da data em que o processo lhe for concluso para esse fim, salvo o disposto no artigo 350.º
 
 § único. No caso previsto no § único do artigo 349.º, o prazo para o Ministério Público e o assistente manterem ou modificarem a sua queixa será de três dias, a contar da data da vista ou notificação.
 
 ...
 
-###### Art. 389.º O despacho de pronúncia ou de não pronúncia será proferido no prazo de cinco dias.
+Art. 389.º O despacho de pronúncia ou de não pronúncia será proferido no prazo de cinco dias.
 
 ...
 
-###### Art. 425.º O réu será interrogado pelo presidente do tribunal e perguntado primeiramente pelo seu nome, estado, filiação, idade, naturalidade, residência, se sabe ler e escrever, se já esteve preso ou respondeu e, no caso afirmativo, quando e por que motivo. A falta de resposta a estas perguntas fará incorrer o réu na pena de desobediência e a sua falsidade na pena de falsas declarações. Em seguida, será interrogado sobre os factos de que é acusado.
+Art. 425.º O réu será interrogado pelo presidente do tribunal e perguntado primeiramente pelo seu nome, estado, filiação, idade, naturalidade, residência, se sabe ler e escrever, se já esteve preso ou respondeu e, no caso afirmativo, quando e por que motivo. A falta de resposta a estas perguntas fará incorrer o réu na pena de desobediência e a sua falsidade na pena de falsas declarações. Em seguida, será interrogado sobre os factos de que é acusado.
 
 § 1.º Antes de começar o interrogatório do réu, acerca dos factos de que é acusado, deverá o juiz adverti-lo de que não é obrigado a responder às perguntas que lhe vão ser feitas, pois tem apenas por fim proporcionar-lhe o ensejo de se defender e contribuir para o esclarecimento da verdade, e não o de obter elementos para a sua condenação.
 
@@ -956,7 +974,7 @@ Se a acção penal depender de acusação da parte, deduzirá esta a acusação 
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 625.º As decisões penais, transitadas em julgado, têm força executiva em todo o território nacional.
+Art. 625.º As decisões penais, transitadas em julgado, têm força executiva em todo o território nacional.
 
 A execução correrá nos próprios autos e no juízo da 1.ª instância em que o processo tiver corrido.
 
@@ -966,7 +984,7 @@ A execução correrá nos próprios autos e no juízo da 1.ª instância em que 
 
 § 3.º As decisões absolutórias são exequíveis logo que pronunciadas, sem prejuízo do disposto quanto a liberdade provisória.
 
-###### Art. 626.º Não é exequível decisão ou sentença penal:
+Art. 626.º Não é exequível decisão ou sentença penal:
 
 1.º Que não emane de tribunal com jurisdição penal;
 
@@ -978,13 +996,13 @@ A execução correrá nos próprios autos e no juízo da 1.ª instância em que 
 
 § único. Quando seja certa a pessoa que foi réu no processo, mas insuficiente ou inexacta a sua identificação, proceder-se-á à rectificação desta nos autos, depois de realizadas as diligências necessárias.
 
-###### Art. 627.º Compete ao Ministério Público promover a execução das penas e medidas de segurança, e bem assim a execução por imposto de justiça, indemnização por danos e mais quantias devidas ao Estado.
+Art. 627.º Compete ao Ministério Público promover a execução das penas e medidas de segurança, e bem assim a execução por imposto de justiça, indemnização por danos e mais quantias devidas ao Estado.
 
 § único. O agente do Ministério Público junto do tribunal da execução enviará ao serviço competente do Ministério da Justiça, no prazo de cinco dias após o trânsito em julgado, cópia, em duplicado, da sentença ou acórdão que aplique penas ou medidas de segurança em cuja execução aquele deva superintender.
 
-###### Art. 628.º Cabe ao juiz competente para a execução da pena decidir, oficiosamente ou a requerimento do Ministério Público ou do condenado, as questões relativas ao início, duração e suspensão da execução da pena, e à extinção da responsabilidade penal, bem como a conversão da multa em prisão.
+Art. 628.º Cabe ao juiz competente para a execução da pena decidir, oficiosamente ou a requerimento do Ministério Público ou do condenado, as questões relativas ao início, duração e suspensão da execução da pena, e à extinção da responsabilidade penal, bem como a conversão da multa em prisão.
 
-###### Art. 629.º Cabe ao Tribunal de Execução das Penas decidir sobre a modificação ou substituição das penas ou medidas de segurança, no decurso da execução, e em especial:
+Art. 629.º Cabe ao Tribunal de Execução das Penas decidir sobre a modificação ou substituição das penas ou medidas de segurança, no decurso da execução, e em especial:
 
 1.º Decidir sobre as alterações do estado de perigosidade criminal, anteriormente declarado, que devam ter por efeito a substituição das penas ou medidas de segurança;
 
@@ -1006,17 +1024,17 @@ A execução correrá nos próprios autos e no juízo da 1.ª instância em que 
 
 § 2.º A decisão sobre a aplicação de amnistia, indulto ou comutação de penas é da competência do Tribunal de Execução das Penas, sempre que os processos aí se encontrem, ainda que transitòriamente.
 
-###### Art. 630.º As providências sobre execução de penas, referidas no artigo 628.º, são objecto de incidente, quando requeridas pelo condenado. Se a decisão for proferida oficiosamente ou a requerimento do Ministério Público, tanto este como o condenado podem interpor recurso, sem efeito suspensivo. O condenado, porém, pode suscitar um incidente na execução sempre que a decisão sobre essas questões lhe seja desfavorável.
+Art. 630.º As providências sobre execução de penas, referidas no artigo 628.º, são objecto de incidente, quando requeridas pelo condenado. Se a decisão for proferida oficiosamente ou a requerimento do Ministério Público, tanto este como o condenado podem interpor recurso, sem efeito suspensivo. O condenado, porém, pode suscitar um incidente na execução sempre que a decisão sobre essas questões lhe seja desfavorável.
 
-###### Art. 631.º No processamento dos incidentes, com excepção do incidente de alienação mental, que segue os trâmites que dele são próprios, o juiz, recebido o requerimento do condenado levantando a questão, ou reclamação posterior à notificação da decisão desfavorável, proferida oficiosamente ou a requerimento do Ministério Público, nomeará um advogado ao condenado, se este o não tiver constituído, e pedirá, se for caso disso, às entidades competentes os documentos e informações necessários.
+Art. 631.º No processamento dos incidentes, com excepção do incidente de alienação mental, que segue os trâmites que dele são próprios, o juiz, recebido o requerimento do condenado levantando a questão, ou reclamação posterior à notificação da decisão desfavorável, proferida oficiosamente ou a requerimento do Ministério Público, nomeará um advogado ao condenado, se este o não tiver constituído, e pedirá, se for caso disso, às entidades competentes os documentos e informações necessários.
 
 Antes da decisão, ouvirá o Ministério Público e o defensor. O condenado poderá ser ouvido pessoalmente, acompanhado pelo defensor, se o pretender e este não se encontrar fora da comarca.
 
 ### CAPÍTULO II — Da execução das penas corporais
 
-###### Art. 632.º Os réus condenados em pena ou medida de segurança privativas de liberdade darão entrada na prisão por mandado do respectivo juiz.
+Art. 632.º Os réus condenados em pena ou medida de segurança privativas de liberdade darão entrada na prisão por mandado do respectivo juiz.
 
-###### Art. 633.º As penas privativas de liberdade da mesma espécie, que não devam ser cumpridas como uma única pena, consideram-se, para efeitos de execução, como uma só pena de duração igual à sua soma.
+Art. 633.º As penas privativas de liberdade da mesma espécie, que não devam ser cumpridas como uma única pena, consideram-se, para efeitos de execução, como uma só pena de duração igual à sua soma.
 
 § 1.º Quando concorram, na execução, várias penas privativas de liberdade ou penas e medidas de segurança que não possam ser simultâneamente executadas, inicia-se a execução pelas penas privativas de liberdade, e de entre estas pelas mais graves, cumprindo-se seguidamente a prisão resultante da conversão da pena de multa. Só depois se executam, se ainda for caso disso, as medidas de segurança.
 
@@ -1024,7 +1042,7 @@ Antes da decisão, ouvirá o Ministério Público e o defensor. O condenado pode
 
 Quando haja lugar a uma pena única, nos termos do artigo 102.º do Código Penal, atender-se-á à duração dessa pena e, no caso de várias penas privativas de liberdade, à duração resultante da soma das penas exequíveis.
 
-###### Art. 634.º Aos réus condenados em pena de desterro para lugar certo e determinado será passada guia assinada pelo juiz da respectiva comarca para se apresentarem ao agente do Ministério Público da comarca onde tiver de ser cumprida a pena, a fim de ele fiscalizar o seu cumprimento. Este inicia-se na data do visto posto na guia por esse magistrado.
+Art. 634.º Aos réus condenados em pena de desterro para lugar certo e determinado será passada guia assinada pelo juiz da respectiva comarca para se apresentarem ao agente do Ministério Público da comarca onde tiver de ser cumprida a pena, a fim de ele fiscalizar o seu cumprimento. Este inicia-se na data do visto posto na guia por esse magistrado.
 
 § 1.º Se a pena de desterro não for para lugar certo e determinado, o réu deverá declarar para onde vai residir, e ser-lhe-ão passadas guias para se apresentar ao agente do Ministério Público da comarca para onde for residir.
 
@@ -1032,7 +1050,7 @@ Quando haja lugar a uma pena única, nos termos do artigo 102.º do Código Pena
 
 § 3.º O agente do Ministério Público da comarca onde for cumprida a pena de desterro informará imediatamente o juiz da execução da data do início do cumprimento do desterro.
 
-###### Art. 635.º A suspensão da pena resultante de condenação condicional abrange os efeitos de natureza penal da condenação.
+Art. 635.º A suspensão da pena resultante de condenação condicional abrange os efeitos de natureza penal da condenação.
 
 § 1.º A caducidade da condenação condicional não extingue a responsabilidade civil por danos, pelo imposto de justiça e custas.
 
@@ -1044,17 +1062,17 @@ Quando haja lugar a uma pena única, nos termos do artigo 102.º do Código Pena
 
 § 5.º Se, posteriormente ao despacho que declarou sem efeito a pena suspensa, se verificar que o réu, durante o período da suspensão, cometeu qualquer crime que determine a caducidade da suspensão, aquele despacho será livremente revogável, procedendo-se consoante o disposto na segunda parte do artigo 89.º do Código Penal.
 
-###### Art. 636.º Terminando o cumprimento da pena ou medida de segurança privativas de liberdade, os condenados serão soltos por mandado do respectivo juiz. Aos que estiverem cumprindo a pena de desterro e aos que se encontrem em liberdade condicional ou em liberdade vigiada será notificada a cessação da pena ou medida de segurança por mandado do mesmo juiz.
+Art. 636.º Terminando o cumprimento da pena ou medida de segurança privativas de liberdade, os condenados serão soltos por mandado do respectivo juiz. Aos que estiverem cumprindo a pena de desterro e aos que se encontrem em liberdade condicional ou em liberdade vigiada será notificada a cessação da pena ou medida de segurança por mandado do mesmo juiz.
 
-###### Art. 637.º Os directores dos estabelecimentos prisionais deverão comunicar ao agente do Ministério Público junto do tribunal onde tenham corrido os respectivos processos o falecimento dos réus presos, a sua fuga, qualquer suspensão ou interrupção na execução da pena ou causa da sua modificação, substituição ou extinção total ou parcial, bem como a soltura do réu, sendo juntas ao processo estas comunicações para aquele magistrado promover o que tiver por conveniente.
+Art. 637.º Os directores dos estabelecimentos prisionais deverão comunicar ao agente do Ministério Público junto do tribunal onde tenham corrido os respectivos processos o falecimento dos réus presos, a sua fuga, qualquer suspensão ou interrupção na execução da pena ou causa da sua modificação, substituição ou extinção total ou parcial, bem como a soltura do réu, sendo juntas ao processo estas comunicações para aquele magistrado promover o que tiver por conveniente.
 
 ### CAPÍTULO III — Da execução por multa, Imposto de justiça, custas e indemnizações
 
-###### Art. 638.º A multa será paga após o trânsito em julgado da sentença que a impuser e pelo quantitativo exacto nesta fixado, não podendo ser acrescida de quaisquer adicionais.
+Art. 638.º A multa será paga após o trânsito em julgado da sentença que a impuser e pelo quantitativo exacto nesta fixado, não podendo ser acrescida de quaisquer adicionais.
 
 § único. O prazo para o pagamento será de dez dias a contar da notificação para esse efeito. A notificação pode ser efectuada no acto do julgamento, mas nesse caso o prazo do pagamento será de quinze dias. Se o condenado não estiver presente no julgamento, a notificação considera-se feita com a remessa de aviso registado para o domicílio constante do processo.
 
-###### Art. 639.º O juiz, desde que o condenado o requeira, poderá:
+Art. 639.º O juiz, desde que o condenado o requeira, poderá:
 
 1.º Prorrogar o prazo de pagamento da multa até um mês;
 
@@ -1066,7 +1084,7 @@ Quando haja lugar a uma pena única, nos termos do artigo 102.º do Código Pena
 
 § 3.º A prorrogação do prazo de pagamento da multa e a faculdade do pagamento em prestações, nos termos deste artigo, só poderão ser concedidas quando o quantitativo total da multa exceda 1000$00; as prestações mensais não poderão ser inferiores a um terço dos proventos mensais do condenado.
 
-###### Art. 640.º Findo o prazo de pagamento da multa ou a sua prorrogação, sem que o réu efectue o pagamento, proceder-se-á nos termos seguintes:
+Art. 640.º Findo o prazo de pagamento da multa ou a sua prorrogação, sem que o réu efectue o pagamento, proceder-se-á nos termos seguintes:
 
 1.º Tendo o réu bens suficientes e desembaraçados de que o tribunal tenha conhecimento ou que o réu indique no prazo de pagamento, comprovando a sua titularidade, o Ministério Público promoverá logo a execução, que seguirá os termos das execuções por custas, com observância do disposto no artigo 1696.º do Código Civil;
 
@@ -1088,17 +1106,17 @@ Quando haja lugar a uma pena única, nos termos do artigo 102.º do Código Pena
 
 § 6.º A execução incluirá, além da multa, o imposto de justiça e as custas, bem como as indemnizações, se os interessados o requererem ao Ministério Público antes de findar o prazo de pagamento voluntário.
 
-###### Art. 641.º Ao juízo da execução, quando for diverso do da causa, e ao competente serviço do Ministério da Justiça deve ser enviada cópia da decisão que converta a multa em prisão, que verifique a diminuição do quantitativo da multa em dívida ou a duração da prisão a cumprir, e comunicada a data em que se inicia a prisão resultante da conversão.
+Art. 641.º Ao juízo da execução, quando for diverso do da causa, e ao competente serviço do Ministério da Justiça deve ser enviada cópia da decisão que converta a multa em prisão, que verifique a diminuição do quantitativo da multa em dívida ou a duração da prisão a cumprir, e comunicada a data em que se inicia a prisão resultante da conversão.
 
-###### Art. 642.º O réu, o assistente e qualquer terceiro, condenados no processo, devem pagar o imposto de justiça e as custas no prazo e nos termos fixados no artigo 638.º
+Art. 642.º O réu, o assistente e qualquer terceiro, condenados no processo, devem pagar o imposto de justiça e as custas no prazo e nos termos fixados no artigo 638.º
 
 § 1.º Na falta de pagamento, observar-se-á o disposto no n.º 1.º do artigo 640.º
 
 § 2.º Ao réu pode ser autorizado o pagamento do imposto de justiça até seis prestações mensais, desde que ofereça caução idónea; tratando-se de fiança, o fiador e o subfiador, quando o houver, ficam solidàriamente obrigados ao pagamento das prestações.
 
-###### Art. 643.º A execução por indemnização, movida contra o réu ou assistente, seguirá os termos da execução em processo civil no juízo da condenação e por apenso, salvo o disposto no § 3.º do artigo 34.º
+Art. 643.º A execução por indemnização, movida contra o réu ou assistente, seguirá os termos da execução em processo civil no juízo da condenação e por apenso, salvo o disposto no § 3.º do artigo 34.º
 
-###### Art. 644.º Pelo produto dos bens executados ao devedor os pagamentos são feitos pela ordem seguinte:
+Art. 644.º Pelo produto dos bens executados ao devedor os pagamentos são feitos pela ordem seguinte:
 
 1.º As multas penais;
 
@@ -1110,12 +1128,12 @@ Quando haja lugar a uma pena única, nos termos do artigo 102.º do Código Pena
 
 5.º As indemnizações.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Outubro próximo.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Outubro próximo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 17 de Maio de 1972.**
+Promulgado em 17 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

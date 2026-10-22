@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19800/17301730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1978-299422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db1d509d9984dc78f395d7413c2338b8071abd9d14de5a78ea377e0c858eceac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e120669a7f5abbfd5a360e6c178ab02e163b8a20f48fc4064c6600462167892
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Desenvolvimento
+- Crédito à Exportação
+- Exportação
 relationships:
 - type: amended_by
   target: pt:dre:374274:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374274:por
+  label: Revogado pelo DEC LEI.195/88.30.05.1988.MCT, DR.IS [125] de 30.05.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1988-374274
+  date: '1988-05-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:18Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +111,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os créditos a médio ou a longo prazo que instituições de crédito concedam a empresas ou agrupamentos de empresas para financiamento de investimentos poderão vir a ser integrados nos contratos de desenvolvimento para a exportação a celebrar por tais empresas ou agrupamentos de empresas.
+Artigo 1.º - 1 - Os créditos a médio ou a longo prazo que instituições de crédito concedam a empresas ou agrupamentos de empresas para financiamento de investimentos poderão vir a ser integrados nos contratos de desenvolvimento para a exportação a celebrar por tais empresas ou agrupamentos de empresas.
 
 2 - A aplicação do previsto no número precedente deste artigo, a solicitar oportunamente pelas empresas ou pelos agrupamentos de empresas interessadas, fica dependente da verificação pelas entidades que intervenham nos contratos em representação do Estado de que os investimentos financiados pelos referidos créditos se integram no objecto dos contratos a celebrar e de que os mesmos créditos não foram concedidos há mais de um ano relativamente à data da apresentação das propostas dos ditos contratos.
 
-###### Art. 2.º Desde que os referidos créditos bancários a médio ou a longo prazo sejam incluídos em contratos de desenvolvimento, ao abrigo do artigo anterior, as respectivas condições de prazo e juros e as das garantias eventualmente concedidas pela Companhia de Seguro de Créditos serão revistas, de maneira que fiquem em situação idêntica à que caracteriza os créditos com o mesmo objecto obtidos em consequência da celebração dos contratos em causa.
+Art. 2.º Desde que os referidos créditos bancários a médio ou a longo prazo sejam incluídos em contratos de desenvolvimento, ao abrigo do artigo anterior, as respectivas condições de prazo e juros e as das garantias eventualmente concedidas pela Companhia de Seguro de Créditos serão revistas, de maneira que fiquem em situação idêntica à que caracteriza os créditos com o mesmo objecto obtidos em consequência da celebração dos contratos em causa.
 
-###### Art. 3.º O disposto no presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O disposto no presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

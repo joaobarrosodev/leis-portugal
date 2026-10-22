@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/12/30100/23452346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47433-1966-488127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5c6be7a1998d438d59b77d2f03d9f2e08bc19027e0d2f10666d32a0179566bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 624c5a2a0a2d9caff828c8b9281619e4f8c17610eb1f5752f8a18f93edb75b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Previdência
+- Contribuições da Segurança Social
+- CP
+- Previdência Social
+- Trabalhador Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:228656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594099:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228656:por
+  label: "Revogado pelo DEC LEI.103/70.14.03.1970.MCPS, DG.IS [62] de 14.03.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1970-228656
+  date: '1970-03-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:36Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +119,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 40262](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40262-1955-236369), de 29 de Julho de 1955, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 40262](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40262-1955-236369), de 29 de Julho de 1955, passa a ter a seguinte redacção:
 
-###### Artigo 1.º Todos os empregados e assalariados ao serviço da Companhia dos Caminhos de Ferro Portugueses que não estejam actualmente abrangidos pelas caixas referidas no artigo 1.º do [Decreto-Lei n.º 39557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39557-1954-217558), de 9 de Março de 1954, passam a contribuir, a partir de 1 de Julho de 1955, com 5 por cento das suas remunerações normais para a Caixa de Previdência dos Ferroviários, que será constituída ao abrigo do disposto na segunda parte do artigo 2.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943, e se destinará a conceder pensões de reforma por invalidez e velhice e subsídios por morte e assumirá a concessão do abono de família, em conformidade com o disposto no respectivo regulamento e no presente diploma.
+Artigo 1.º Todos os empregados e assalariados ao serviço da Companhia dos Caminhos de Ferro Portugueses que não estejam actualmente abrangidos pelas caixas referidas no artigo 1.º do [Decreto-Lei n.º 39557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39557-1954-217558), de 9 de Março de 1954, passam a contribuir, a partir de 1 de Julho de 1955, com 5 por cento das suas remunerações normais para a Caixa de Previdência dos Ferroviários, que será constituída ao abrigo do disposto na segunda parte do artigo 2.º do [Decreto-Lei n.º 32674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32674-1943-594099), de 20 de Fevereiro de 1943, e se destinará a conceder pensões de reforma por invalidez e velhice e subsídios por morte e assumirá a concessão do abono de família, em conformidade com o disposto no respectivo regulamento e no presente diploma.
 
 § 1.º Será inscrito na Caixa de Previdência dos Ferroviários todo o pessoal que, de futuro, ingressar em qualquer dos quadros da Companhia, excluído apenas o pessoal da polícia privativa e os aprendizes e praticantes, os quais, porém, beneficiarão de abono de família.
 
@@ -107,7 +129,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Ao pessoal referido no corpo deste artigo será facultada a contagem na Caixa de Previdência dos Ferroviários da totalidade ou parte do tempo de serviço na Companhia, mediante o pagamento das respectivas contribuições, nos termos a definir no regulamento da mesma Caixa.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

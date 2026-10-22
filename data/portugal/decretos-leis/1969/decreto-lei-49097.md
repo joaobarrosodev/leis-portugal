@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49097-1969-199822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acf187e486774f3e57c4836fc0c306cbb68a0bc2c9ca9864f690f995e463e3c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4155ff7f1467a294ed216f312fa7fc0aff05f689b00f812568b2b145381ab507
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Autorização de Despesas
+- Caixa Geral de Depósitos Crédito e Previdência
+- Empréstimo
+- Plano de Fomento
+relationships:
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:53Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +103,9 @@ Ouvida a Caixa Geral de Depósitos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para execução do programa de obras e instalações integrado no III Plano de Fomento é a Administração dos Portos do Douro e Leixões autorizada a contrair, no ano de 1969, o empréstimo de 50000 contos, mediante contrato com a Caixa Geral de Depósitos, Crédito e Previdência, e destinados às obras e instalações previstas no programa para 1969.
+Artigo 1.º Para execução do programa de obras e instalações integrado no III Plano de Fomento é a Administração dos Portos do Douro e Leixões autorizada a contrair, no ano de 1969, o empréstimo de 50000 contos, mediante contrato com a Caixa Geral de Depósitos, Crédito e Previdência, e destinados às obras e instalações previstas no programa para 1969.
 
-###### Art. 2.º As importâncias utilizadas por força do empréstimo previsto no artigo 1.º vencerão juros à taxa anual de 5 por cento e serão amortizadas juntamente com o pagamento dos juros em vinte prestações, vencendo-se a primeira em 31 de Dezembro de 1969 e as restantes no último dia de cada um dos semestres seguintes.
+Art. 2.º As importâncias utilizadas por força do empréstimo previsto no artigo 1.º vencerão juros à taxa anual de 5 por cento e serão amortizadas juntamente com o pagamento dos juros em vinte prestações, vencendo-se a primeira em 31 de Dezembro de 1969 e as restantes no último dia de cada um dos semestres seguintes.
 
 § 1.º Os juros e amortização do empréstimo constituem encargo obrigatório do fundo de melhoramentos previsto no artigo 21.º, alínea a), do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), de 20 de Julho de 1948.
 
@@ -104,8 +113,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Fernando Alberto de Oliveira.
 
-**Promulgado em 25 de Junho de 1969.**
+Promulgado em 25 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1973-412055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40078d6745769142ac7de4743b1f524db24e3e7d4b2f138967ff64832e8028f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29118ef9d03cdffe0cc8a9e2d2e30056cac71150278129864ec4c0213296b6bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Companhia de Diamantes de Angola
+- Contrato
+- Empréstimo
+relationships:
+- type: cites
+  target: pt:dre:240268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401915:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:22Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +98,19 @@ de 22 de Novembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato de empréstimo na conformidade das bases anexas a este decreto-lei, que dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o referido contrato.
+Artigo 1.º É o Governo autorizado a celebrar com a Companhia de Diamantes de Angola, em nome do Estado Português e também em representação da província de Angola, um contrato de empréstimo na conformidade das bases anexas a este decreto-lei, que dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar, a quem, por delegação do Governo, competirá outorgar o referido contrato.
 
-###### Art. 2.º Ficam isentos de quaisquer contribuições e impostos, incluindo o do selo, o contrato e os rendimentos relativos ao empréstimo a que respeita o artigo 1.º
+Art. 2.º Ficam isentos de quaisquer contribuições e impostos, incluindo o do selo, o contrato e os rendimentos relativos ao empréstimo a que respeita o artigo 1.º
 
-###### Art. 3.º Este decreto entra imediatamente em vigor.
+Art. 3.º Este decreto entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 14 de Novembro de 1973.**
+Promulgado em 14 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - B. Rebelo de Sousa.
 
@@ -132,4 +144,4 @@ BASE V
 
 O pagamento das anuidades de reembolso do empréstimo e dos respectivos juros quando feito pelo Estado Português de Angola será objecto da necessária inscrição orçamental e efectuado por dedução na participação anual daquele Estado nos lucros da Companhia e nos dividendos que lhe caibam, operando-se assim, por compensação, o referido pagamento.
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.

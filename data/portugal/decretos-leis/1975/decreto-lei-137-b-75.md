@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 64/1975, 2º Suplemento, Série I de 1975-03-17
   number: '64'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 410-(3) a 410-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06402/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-b-1975-303241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d518788ed1ceac348659f6d0381ed1f1a78d241a5ace637cc23a998f6f55f09a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fd87ec6c71282acca381d667eeffb70393482f48ad596e3a8cb445198ffdb82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Direito de Voto
+- Eleição Legislativa
+- Lei Eleitoral
+- Multa
+- Parlamentar
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:43Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +113,13 @@ Salvaguardando as disposições das leis eleitorais vigentes;
 
 Nos termos do disposto na Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Domínio de aplicação)
 
 Os cidadãos portugueses devidamente recenseados que à data da eleição dos Deputados à Assembleia Constituinte presumivelmente se encontrem embarcados poderão exercer o seu direito de voto nos termos do presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Exercício do direito de voto)
 
@@ -111,25 +127,25 @@ Os cidadãos portugueses devidamente recenseados que à data da eleição dos De
 
 2. Cada eleitor não poderá nomear, validamente, mais de um representante.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Representante)
 
 O representante deverá estar devidamente inscrito na mesma comissão de recenseamento do representado e só pessoalmente poderá exercer o direito de voto que lhe foi delegado.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Âmbito de representação)
 
 A representação envolve a transferência para o representante dos direitos e deveres que pertenciam ao representado na eleição de Deputados à Assembleia Constituinte.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Impedimento)
 
 Não poderá exercer pessoalmente o seu direito de voto o representado presente no território eleitoral no dia da eleição se já tiver nomeado validamente representante seu.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Nomeação de representante)
 
@@ -137,7 +153,7 @@ Não poderá exercer pessoalmente o seu direito de voto o representado presente 
 
 2. É considerada inexistente a nomeação de representante feita de outra qualquer forma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Mensagem telegráfica)
 
@@ -147,7 +163,7 @@ Não poderá exercer pessoalmente o seu direito de voto o representado presente 
 
 3. Até quarenta e oito horas antes do dia da eleição e após a designação do presidente da assembleia ou secção de voto respectiva deverá ser-lhe remetida pela comissão de recenseamento aquela mensagem telegráfica.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Modo como vota o representante)
 
@@ -155,25 +171,25 @@ Não poderá exercer pessoalmente o seu direito de voto o representado presente 
 
 2. O presidente da mesa, depois de reconhecer o votante como o representante validamente nomeado, para o que conferirá a mensagem telegráfica que lhe é apresentada com a que para o mesmo efeito lhe foi remetida pela comissão de recenseamento, dirá o nome do representado em voz alta e entregará um boletim de voto ao representante.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Acta das operações eleitorais)
 
 Para além dos elementos consignados na Lei Eleitoral constarão da acta os nomes dos eleitores que votaram através de representante.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Não cumprimento de outras obrigações impostas por lei)
 
 Aquele que não cumprir nos seus precisos termos quaisquer obrigações que lhe são impostas pelo presente diploma ou retardar injustificadamente o seu cumprimento será, na falta de incriminação especial, punido com multa de 1000$00 a 10000$00.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Legislação aplicável)
 
 Em tudo o que não estiver expressamente regulado no presente diploma observar-se-á o disposto no [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro (Lei Eleitoral - 2.ª parte), e demais legislação eleitoral.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Entrada em vigor)
 
@@ -181,11 +197,11 @@ Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 17 de Março de 1975.**
+Promulgado em 17 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 TELEGRAMA
 

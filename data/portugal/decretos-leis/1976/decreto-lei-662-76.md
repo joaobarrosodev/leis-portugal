@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18100/18871896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7de3aa682e9e6dba06eae726176b4bf41143cc665ac796c7384c0878fa617e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c30587314ee8c6800057a01bebf46f61023cbbb73a5c33caf05d26f43dad1b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Enatur
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:292310:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416414:por
+  label: "Alterada a al. j) do art. 5º e o art. 12º e suspensa a aplicação da al. d) do nº1 do art. 4º e dos arts. 13º, 26º\
+    \ e 27º dos estatutos da Enatur e dos arts. 17º, 19º, 20º e 21º do presente diploma, pelo DEC LEI.886/76.29.12.1976.MF,\
+    \ DR.IS [301] de 29.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/886-1976-416414
+  date: '1976-12-29'
+- type: amended_by
+  target: pt:dre:251193:por
+  label: Transferido para a ENATUR-Empresa Nacional de Turismo, E. P. (cujos Estatutos constam do presente diploma), e integrado
+    no respectivo património, o conjunto dos valores activos e passivos, incluindo os imóveis do Estado afectos à exploração,
+    que constitui o Estabelecimento Termal das Caldas de Monchique, previsto no Dec 20816 de 20-Jan 1932, assim como é transferida
+    para aquela empresa pública a titularidade de todos os direitos que legal ou contratualmente, estão na posse útil do Estabelecimento
+    Termal das Caldas de Monchique e na esfera jurídica do Estado, pelo(a) Despacho Normativo n.º 162/77 - Diário da República
+    n.º 172/1977, Série I de 1977-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/162-1977-251193
+  date: '1977-07-27'
+- type: amended_by
+  target: pt:dre:228469:por
+  label: "Alterada a alínea d), n.º 1 do artigo 7.º, o artigo 9.º, revogada a alínea c) do artigo 7.º, o n.º 3 do artigo 8.º,\
+    \ e os artigos 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 23.º e 25.º, pelo DEC LEI.157/86.25.06.1986.PCM,\
+    \ DR.IS [143] de 25.06.1986\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1986-228469
+  date: '1986-06-25'
+- type: cites
+  target: pt:dre:229109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520183:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:161366:por
+  label: "Rectificado pela RECT.DD132.14.10.1976.PCM, DR.IS [241]Supl de 14.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-161366
+  date: '1976-10-14'
+- type: repealed_by
+  target: pt:dre:292310:por
+  label: "Revogado pelo DEC LEI.151/92.21.07.1992.MCT, DR.IS-A [166] de 21.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1992-292310
+  date: '1992-07-21'
 article_structure:
-  article_count: 2
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:17Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +190,15 @@ Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. É criada a Enatur - Empresa Nacional de Turismo, E. P., que poderá designar-se abreviadamente por Enatur.
+Artigo 1.º - 1. É criada a Enatur - Empresa Nacional de Turismo, E. P., que poderá designar-se abreviadamente por Enatur.
 
 2. A Enatur revestirá a natureza de empresa pública, com personalidade jurídica, dotada de autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º - 1. A Enatur reger-se-á pelos respectivos estatutos, pelas normas constantes do presente decreto-lei e demais diplomas reguladores das empresas públicas, na parte aplicável.
+Art. 2.º - 1. A Enatur reger-se-á pelos respectivos estatutos, pelas normas constantes do presente decreto-lei e demais diplomas reguladores das empresas públicas, na parte aplicável.
 
 2. São aprovados os estatutos da Enatur, que se publicam em anexo ao presente diploma, dele fazendo parte integrante.
 
-###### Art. 3.º - 1. O Ministério do Comércio Externo será o Ministério da Tutela.
+Art. 3.º - 1. O Ministério do Comércio Externo será o Ministério da Tutela.
 
 2. No exercício desta tutela, poderá o Ministério do Comércio Externo:
 
@@ -162,11 +214,11 @@ e) Exercer toda a competência que pertença ao Governo, que não esteja express
 
 3. Sempre que se torne necessária a autorização ou aprovação de outros Ministérios para os actos da Enatur, competirá ao Ministério da Tutela providenciar no sentido da sua obtenção.
 
-###### Art. 4.º O capital estatutário da Enatur será realizado em numerário e nos diversos bens móveis, direitos, universalidades e demais valores que forem integrados no respectivo património.
+Art. 4.º O capital estatutário da Enatur será realizado em numerário e nos diversos bens móveis, direitos, universalidades e demais valores que forem integrados no respectivo património.
 
-###### Art. 5.º O capital inicial da Enatur será de 100000 contos, em numerário, dotado pelo Estado.
+Art. 5.º O capital inicial da Enatur será de 100000 contos, em numerário, dotado pelo Estado.
 
-###### Art. 6.º - 1. O capital da Enatur será aumentado em relação directa dos valores que forem integrados no seu património.
+Art. 6.º - 1. O capital da Enatur será aumentado em relação directa dos valores que forem integrados no seu património.
 
 2. Os aumentos de capital serão determinados por despacho conjunto dos Ministérios das Finanças e do Comércio Externo e, se for caso disso, do Ministério da Tutela da empresa da qual foi desafectado o bem ou bens a integrar na Enatur e dela constarão, pelo menos:
 
@@ -182,7 +234,7 @@ d) Acto através do qual se processa a transmissão.
 
 4. O diploma será título bastante para se efectuarem os registos da transmissão dele resultante.
 
-###### Art. 7.º - 1. Serão transferidos para a Enatur e integrados no respectivo património os seguintes bens:
+Art. 7.º - 1. Serão transferidos para a Enatur e integrados no respectivo património os seguintes bens:
 
 a) Imóveis do Estado afectos à exploração de estabelecimentos hoteleiros e similares, salvo no caso de se tratar de monumentos nacionais ou imóveis classificados;
 
@@ -196,13 +248,13 @@ e) A universalidade que constitui os estabelecimentos referidos na alínea anter
 
 2. Os bens referidos no número anterior constituirão bens de capital da Enatur e serão integrados, em princípio, pelos valores que constarem do cadastro do Estado e dos balanços e inventários das sociedades ou empresas.
 
-###### Art. 8.º - 1. A Enatur assumirá a responsabilidade pela liquidação do passivo inerente à exploração dos estabelecimentos referidos nas alíneas b) e e) do n.º 1 do artigo 7.º
+Art. 8.º - 1. A Enatur assumirá a responsabilidade pela liquidação do passivo inerente à exploração dos estabelecimentos referidos nas alíneas b) e e) do n.º 1 do artigo 7.º
 
 2. Sempre que os técnicos da Enatur tenham dúvidas sobre a veracidade dos elementos contabilísticos dos estabelecimentos, estes serão objecto de exame por técnicos nomeados pelo Ministério das Finanças, que fixarão os valores do passivo a transferir.
 
 3. O Estado assegurará a cobertura do eventual deficit das responsabilidades globais assumidas pela Enatur, nos termos do n.º 1 deste artigo.
 
-###### Art. 9.º - 1. À Enatur competirá, relativamente aos bens indicados no artigo 7.º, propor as medidas que considerar necessárias para uma gestão eficaz, designadamente:
+Art. 9.º - 1. À Enatur competirá, relativamente aos bens indicados no artigo 7.º, propor as medidas que considerar necessárias para uma gestão eficaz, designadamente:
 
 a) A expropriação ou desafectação de bens e a consequente incorporação no seu património;
 
@@ -216,7 +268,7 @@ d) A cisão de empresas e a incorporação do património dela resultante na Ena
 
 3. Não é aplicável neste caso o disposto na alínea a) do artigo 6.º do [Decreto-Lei n.º 631/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1975-310385), de 14 de Novembro.
 
-###### Art. 10.º - 1. Os actos e contratos resultantes das medidas previstas no artigo anterior beneficiarão das seguintes isenções fiscais:
+Art. 10.º - 1. Os actos e contratos resultantes das medidas previstas no artigo anterior beneficiarão das seguintes isenções fiscais:
 
 a) Imposto da sisa, no que se refere a transmissões dos imóveis abrangidos;
 
@@ -226,11 +278,11 @@ c) Imposto do selo.
 
 2. Estes actos e contratos beneficiarão ainda de isenção dos emolumentos notariais e de registo.
 
-###### Art. 11.º - 1. O diploma que aprovar alguma das medidas previstas no artigo 9.º, uma vez publicado nos termos do artigo 3.º do [Decreto-Lei n.º 631/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1975-310385), constituirá documento bastante para a celebração dos actos necessários à sua execução e respectivo registo, ficando dispensado o cumprimento de todas as formalidades e normas reguladoras das deliberações das empresas, previstas na lei geral ou nos estatutos.
+Art. 11.º - 1. O diploma que aprovar alguma das medidas previstas no artigo 9.º, uma vez publicado nos termos do artigo 3.º do [Decreto-Lei n.º 631/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/631-1975-310385), constituirá documento bastante para a celebração dos actos necessários à sua execução e respectivo registo, ficando dispensado o cumprimento de todas as formalidades e normas reguladoras das deliberações das empresas, previstas na lei geral ou nos estatutos.
 
 2. Competirá ao conselho de gerência da Enatur e às comissões administrativas ou aos corpos gerentes das empresas abrangidas, conforme for o caso, a prática dos actos necessários à boa execução das referidas medidas.
 
-###### Art. 12.º - 1. Independentemente das medidas previstas nos artigos anteriores, caberá à Enatur superintender na gestão das empresas, cuja actividade se exerce no sector do turismo, que estejam sob intervenção governamental.
+Art. 12.º - 1. Independentemente das medidas previstas nos artigos anteriores, caberá à Enatur superintender na gestão das empresas, cuja actividade se exerce no sector do turismo, que estejam sob intervenção governamental.
 
 2. Para este efeito, a Enatur deverá:
 
@@ -244,17 +296,17 @@ d) Receber o relatório e contas das empresas, bem como os balancetes trimestrai
 
 3. Poderá ainda a Enatur propor ao Governo a substituição dos gestores provisórios e das comissões administrativas das empresas referidas no n.º 1.
 
-###### Art. 13.º - 1. A Enatur poderá ainda criar empresas destinadas à prossecução das suas atribuições.
+Art. 13.º - 1. A Enatur poderá ainda criar empresas destinadas à prossecução das suas atribuições.
 
 2. Estas empresas poderão ser constituídas exclusivamente com capitais da Enatur ou pela associação com empresas privadas.
 
-###### Art. 14.º - 1. As empresas sob intervenção governamental ficam autorizadas a celebrar com a Enatur ou com as empresas referidas no artigo anterior, contratos de exploração das unidades turístico-hoteleiras de que são proprietárias.
+Art. 14.º - 1. As empresas sob intervenção governamental ficam autorizadas a celebrar com a Enatur ou com as empresas referidas no artigo anterior, contratos de exploração das unidades turístico-hoteleiras de que são proprietárias.
 
 2. O pessoal que trabalha nessas unidades ficará sob a direcção da empresa gestora, mantendo, no entanto, o seu vínculo de trabalho relativamente às empresas a que pertencem as unidades, enquanto elas não tiverem a sua individualidade jurídica.
 
 3. Sempre que for extinta qualquer empresa, os trabalhadores serão transferidos para a empresa onde for integrada a respectiva unidade, mantendo todos os seus direitos, designadamente no que respeita à antiguidade.
 
-###### Art. 15.º - 1. A Enatur poderá requisitar às empresas referidas no artigo 12.º trabalhadores que nelas prestem serviço.
+Art. 15.º - 1. A Enatur poderá requisitar às empresas referidas no artigo 12.º trabalhadores que nelas prestem serviço.
 
 2. Os trabalhadores requisitados nos termos do número anterior serão pagos, em princípio, pelas respectivas empresas e manterão todos os seus direitos relativamente à empresa, contando-se, para todos os efeitos, incluindo a antiguidade, todo o tempo de serviço prestado na Enatur.
 
@@ -262,7 +314,7 @@ d) Receber o relatório e contas das empresas, bem como os balancetes trimestrai
 
 4. A requisição prevista neste artigo carece do acordo do trabalhador interessado para se tornar eficaz.
 
-###### Art. 16.º - 1. No desempenho das suas atribuições, competirá ainda à Enatur:
+Art. 16.º - 1. No desempenho das suas atribuições, competirá ainda à Enatur:
 
 a) Colaborar com o Banco de Portugal na definição de uma política de crédito para o sector;
 
@@ -278,13 +330,13 @@ f) Promover a emissão de obrigações;
 
 g) Prestar serviços de apoio técnico.
 
-###### Art. 17.º - 1. Caberá à Enatur a exploração das zonas de jogo de fortuna ou azar.
+Art. 17.º - 1. Caberá à Enatur a exploração das zonas de jogo de fortuna ou azar.
 
 2. Enquanto se mantiverem em vigor os actuais contratos de concessão das zonas de jogo, caberá à Enatur superintender em tudo o que respeite ao estudo e execução dos mesmos contratos, sem prejuízo da competência de fiscalização do funcionamento das salas de jogo pelo Conselho de Inspecção de Jogos.
 
-###### Art. 18.º Constituirão receitas da Enatur as rendas devidas pela utilização dos bens transferidos para a Enatur nos termos da alínea c) do n.º 1 do artigo 7.º
+Art. 18.º Constituirão receitas da Enatur as rendas devidas pela utilização dos bens transferidos para a Enatur nos termos da alínea c) do n.º 1 do artigo 7.º
 
-###### Art. 19.º - 1. A Enatur estabelecerá, em colaboração com a Direcção-Geral do Turismo, com as câmaras municipais e com os respectivos órgãos locais de turismo, os planos para aplicação das verbas provenientes das zonas de jogo que devam ser aplicadas em planos de animação e promoção, bem como nas infra-estruturas e nos equipamentos necessários ao desenvolvimento turístico nas diversas regiões.
+Art. 19.º - 1. A Enatur estabelecerá, em colaboração com a Direcção-Geral do Turismo, com as câmaras municipais e com os respectivos órgãos locais de turismo, os planos para aplicação das verbas provenientes das zonas de jogo que devam ser aplicadas em planos de animação e promoção, bem como nas infra-estruturas e nos equipamentos necessários ao desenvolvimento turístico nas diversas regiões.
 
 2. A execução dos planos referidos no número anterior caberá à Enatur, com a colaboração das demais entidades interessadas, se for necessário.
 
@@ -292,7 +344,7 @@ g) Prestar serviços de apoio técnico.
 
 4. O disposto neste artigo não prejudica a competência das entidades ou departamentos interessados.
 
-###### Art. 20.º - 1. A Enatur, em colaboração com a Direcção-Geral do Turismo e as empresas concessionárias, deverá proceder ao estudo dos actuais contratos de concessão das zonas de jogo e das normas respeitantes à respectiva exploração e do jogo em geral, com vista à sua eventual revisão e ao melhor aproveitamento das receitas de jogo e do equipamento a ele afecto, no quadro da nova política do turismo.
+Art. 20.º - 1. A Enatur, em colaboração com a Direcção-Geral do Turismo e as empresas concessionárias, deverá proceder ao estudo dos actuais contratos de concessão das zonas de jogo e das normas respeitantes à respectiva exploração e do jogo em geral, com vista à sua eventual revisão e ao melhor aproveitamento das receitas de jogo e do equipamento a ele afecto, no quadro da nova política do turismo.
 
 2. Com vista à concretização dos fins previstos no número anterior, o Ministério do Comércio Externo poderá determinar:
 
@@ -300,7 +352,7 @@ a) A suspensão da execução dos programas previstos nos contratos de concessã
 
 b) A substituição de investimentos ou iniciativas previstas nesses contratos por outros de igual montante considerados mais urgentes.
 
-###### Art. 21.º - 1. A Enatur poderá nomear um delegado junto das empresas concessionárias das zonas de jogo, ao qual serão aplicáveis as normas reguladoras da actividade dos delegados do Governo.
+Art. 21.º - 1. A Enatur poderá nomear um delegado junto das empresas concessionárias das zonas de jogo, ao qual serão aplicáveis as normas reguladoras da actividade dos delegados do Governo.
 
 2. Ao delegado da Enatur competirá especialmente, sem prejuízo da competência do Conselho de Inspecção de Jogos:
 
@@ -318,43 +370,43 @@ d) Apresentar sugestões para a eventual revisão dos contratos de concessão.
 
 ### CAPÍTULO II — Disposições diversas e transitórias
 
-###### Art. 22.º - 1. Sob proposta da Enatur, poderão ser nomeados para exercer funções na empresa, em comissão de serviço por tempo indeterminado, funcionários do Estado ou de institutos públicos, os quais manterão todos os direitos inerentes ao seu quadro de origem, considerando-se todo o período da comissão como prestado nesse mesmo quadro.
+Art. 22.º - 1. Sob proposta da Enatur, poderão ser nomeados para exercer funções na empresa, em comissão de serviço por tempo indeterminado, funcionários do Estado ou de institutos públicos, os quais manterão todos os direitos inerentes ao seu quadro de origem, considerando-se todo o período da comissão como prestado nesse mesmo quadro.
 
 2. O pessoal previsto no número anterior manterá a sua qualidade de subscritor da Caixa Geral de Aposentações, passando a descontar para ela sobre a remuneração que auferir na Enatur, salvo se esta for inferior.
 
-###### Art. 23.º Da comissão administrativa do Fundo de Turismo passa a fazer parte um representante da Enatur.
+Art. 23.º Da comissão administrativa do Fundo de Turismo passa a fazer parte um representante da Enatur.
 
-###### Art. 24.º As dúvidas suscitadas na aplicação do presente diploma, bem como as eventuais lacunas verificadas, poderão ser resolvidas ou integradas por despacho do Ministro do Comércio Externo e do Ministro interessado.
+Art. 24.º As dúvidas suscitadas na aplicação do presente diploma, bem como as eventuais lacunas verificadas, poderão ser resolvidas ou integradas por despacho do Ministro do Comércio Externo e do Ministro interessado.
 
-###### Art. 25.º É revogado o [Decreto n.º 44154](https://diariodarepublica.pt/dr/detalhe/decreto/44154-1962-520183), de 17 de Janeiro de 1962.
+Art. 25.º É revogado o [Decreto n.º 44154](https://diariodarepublica.pt/dr/detalhe/decreto/44154-1962-520183), de 17 de Janeiro de 1962.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## Anexo a que se refere o n.º 2 do artigo 2.º
+Anexo a que se refere o n.º 2 do artigo 2.º
 
 ESTATUTOS DA ENATUR - EMPRESA NACIONAL DE TURISMO, E. P.
 
 ### CAPÍTULO I — Da denominação, sede e atribuições
 
-###### Artigo 1.º - 1. A Enatur - Empresa Nacional de Turismo, E. P., que poderá designar-se pela abreviatura Enatur, é uma empresa pública dotada de personalidade jurídica e de autonomia administrativa e financeira e património próprio.
+Artigo 1.º - 1. A Enatur - Empresa Nacional de Turismo, E. P., que poderá designar-se pela abreviatura Enatur, é uma empresa pública dotada de personalidade jurídica e de autonomia administrativa e financeira e património próprio.
 
 2. A Enatur terá como Ministério da Tutela o Ministério do Comércio Externo.
 
-###### Art. 2.º A Enatur terá duração indeterminada e o seu início, para todos os efeitos, contar-se-á da data da publicação destes estatutos.
+Art. 2.º A Enatur terá duração indeterminada e o seu início, para todos os efeitos, contar-se-á da data da publicação destes estatutos.
 
-###### Art. 3.º - 1. A sede da Enatur é em Lisboa.
+Art. 3.º - 1. A sede da Enatur é em Lisboa.
 
 2. Quando tal se justifique, poderá o conselho de gerência criar filiais ou delegações para qualquer região do continente.
 
 3. Nos Açores e na Madeira existirão filiais ou agências com a autonomia adequada à lei constitucional ou ordinária e às necessidades regionais.
 
-###### Art. 4.º - 1. São atribuições da Enatur:
+Art. 4.º - 1. São atribuições da Enatur:
 
 a) Gerir os bens, estabelecimentos e participações financeiras que venham a integrar-se no seu património nos termos do artigo 7.º do Decreto-Lei n.º 662/76, de 4 de Agosto;
 
@@ -368,7 +420,7 @@ e) Prestar às entidades públicas competentes o apoio que lhe for pedido nas di
 
 2. A Enatur poderá ainda desempenhar quaisquer funções específicas que o Governo entenda cometer-lhe, desde que seja dotada dos meios necessários para a sua execução, sempre que elas representem novo encargo financeiro.
 
-###### Art. 5.º Para a prossecução das suas atribuições, compete especialmente à Enatur:
+Art. 5.º Para a prossecução das suas atribuições, compete especialmente à Enatur:
 
 a) Integrar no seu património os estabelecimentos pertencentes ao Estado afectos à actividade turística ou à exploração do jogo;
 
@@ -408,11 +460,11 @@ s) Filiar-se em organismos ou associações nacionais ou internacionais.
 
 ### CAPÍTULO II — Do capital e reservas
 
-###### Art. 6.º - 1. A Enatur tem um capital inicial de 100000 contos, dotado em numerário pelo Estado.
+Art. 6.º - 1. A Enatur tem um capital inicial de 100000 contos, dotado em numerário pelo Estado.
 
 2. O capital previsto no número anterior poderá ser aumentado, por uma ou mais vezes, nos termos do artigo 6.º do Decreto-Lei n.º 662/76.
 
-###### Art. 7.º - 1. A Enatur terá um fundo de reserva geral sem limite máximo, constituído por transferência de, pelo menos, 25% dos resultados líquidos apurados em cada exercício.
+Art. 7.º - 1. A Enatur terá um fundo de reserva geral sem limite máximo, constituído por transferência de, pelo menos, 25% dos resultados líquidos apurados em cada exercício.
 
 2. Será também criado um fundo de reserva para investimentos, a constituir de acordo com as regras quanto a autofinanciamento que vierem a ser fixadas pelo Governo.
 
@@ -422,25 +474,27 @@ s) Filiar-se em organismos ou associações nacionais ou internacionais.
 
 5. A constituição de reservas deverá fazer-se com respeito pela taxa máxima do autofinanciamento bruto que haja sido definida para a empresa pelos Ministros da Tutela, das Finanças e responsável pelo planeamento.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Dos órgãos
 
-###### Art. 8.º São órgãos da Enatur o conselho de gerência, a comissão de fiscalização e o conselho geral.
+Art. 8.º São órgãos da Enatur o conselho de gerência, a comissão de fiscalização e o conselho geral.
 
-###### Art. 9.º - 1. O conselho de gerência será composto por três a cinco membros, sendo um o presidente.
+Art. 9.º - 1. O conselho de gerência será composto por três a cinco membros, sendo um o presidente.
 
 2. Os membros do conselho de gerência exercem as suas funções por períodos renováveis de três anos.
 
-###### Art. 10.º - 1. Os membros do conselho de gerência serão nomeados pelo Conselho de Ministros, sob proposta do Ministro do Comércio Externo.
+Art. 10.º - 1. Os membros do conselho de gerência serão nomeados pelo Conselho de Ministros, sob proposta do Ministro do Comércio Externo.
 
 2. Da nomeação constará qual o membro que desempenhará as funções de presidente.
 
-###### Art. 11.º A comissão de fiscalização é composta pelo director-geral do Turismo, que presidirá, e por dois membros nomeados por despacho conjunto dos Ministros das Finanças e do Comércio Externo.
+Art. 11.º A comissão de fiscalização é composta pelo director-geral do Turismo, que presidirá, e por dois membros nomeados por despacho conjunto dos Ministros das Finanças e do Comércio Externo.
 
-###### Art. 12.º Os membros não permanentes da comissão de fiscalização exercem as suas funções pelo período de três anos, só podendo ser renovado, e por uma só vez, o de revisor oficial de contas.
+Art. 12.º Os membros não permanentes da comissão de fiscalização exercem as suas funções pelo período de três anos, só podendo ser renovado, e por uma só vez, o de revisor oficial de contas.
 
-###### Art. 13.º - 1. O conselho geral compõe-se dos seguintes elementos:
+Art. 13.º - 1. O conselho geral compõe-se dos seguintes elementos:
 
 a) Os membros do conselho de gerência;
 
@@ -468,11 +522,11 @@ l) Um representante de cada uma das comissões de trabalhadores das empresas ref
 
 3. Sempre que o considere conveniente, o conselho geral poderá convidar a fazerem-se representar outros organismos ou serviços públicos, empresas públicas ou nacionalizadas e determinados sectores da actividade turística e solicitar ao Ministério do Comércio Externo a nomeação de elementos dos serviços estaduais competentes nas matérias a apreciar.
 
-###### Art. 14.º Os vencimentos dos membros do conselho de gerência e da comissão de fiscalização serão fixados por despacho conjunto do Ministro das Finanças e do Ministro do Comércio Externo.
+Art. 14.º Os vencimentos dos membros do conselho de gerência e da comissão de fiscalização serão fixados por despacho conjunto do Ministro das Finanças e do Ministro do Comércio Externo.
 
 #### SECÇÃO II — Do conselho de gerência
 
-###### Art. 15.º - 1. O conselho de gerência terá todos os poderes necessários à prossecução das atribuições da Enatur e das funções que lhe forem especialmente cometidas.
+Art. 15.º - 1. O conselho de gerência terá todos os poderes necessários à prossecução das atribuições da Enatur e das funções que lhe forem especialmente cometidas.
 
 2. Para este efeito, compete ao conselho de gerência a prática de todos os actos necessários à gestão e direcção da Enatur e em especial:
 
@@ -512,17 +566,17 @@ q) Outorgar em todos os contratos em representação da empresa.
 
 4. A alienação e oneração de bens imóveis, bem como a pratica de algum dos actos previstos nas alíneas h), n) e o) do n.º 2, só poderão realizar-se nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786).
 
-###### Art. 16.º - 1. O conselho de gerência pode delegar, por acta, o exercício dos seus poderes em um ou mais dos seus membros ou em outros trabalhadores e autorizar que se proceda à subdelegação desses poderes, estabelecendo, em cada caso, os respectivos limites e condições.
+Art. 16.º - 1. O conselho de gerência pode delegar, por acta, o exercício dos seus poderes em um ou mais dos seus membros ou em outros trabalhadores e autorizar que se proceda à subdelegação desses poderes, estabelecendo, em cada caso, os respectivos limites e condições.
 
 2. O conselho pode ainda constituir mandatários, especificando, parte cada caso, os poderes que lhe são conferidos, bem como os respectivos limites e condições.
 
-###### Art. 17.º - 1. A cada membro do conselho de gerência poderão ser atribuídos pelouros, correspondentes a um ou mais serviços da Enatur.
+Art. 17.º - 1. A cada membro do conselho de gerência poderão ser atribuídos pelouros, correspondentes a um ou mais serviços da Enatur.
 
 2. A distribuição de pelouros não dispensa o dever de colaboração mútua inerente a todos os membros do conselho de gerência, bem como o de fiscalizar e tomar conhecimento de todos os assuntos da Enatur e de propor providências relativas a qualquer deles.
 
 3. A atribuição de pelouros e dos correspondentes poderes aos membros do conselho de gerência, bem como a definição das respectivas normas reguladoras, far-se-á nos termos do n.º 1 do artigo 16.º
 
-###### Art. 18.º Compete, nomeadamente, ao presidente do conselho de gerência ou a quem o substituir:
+Art. 18.º Compete, nomeadamente, ao presidente do conselho de gerência ou a quem o substituir:
 
 a) Convocar as reuniões deste conselho;
 
@@ -532,13 +586,13 @@ c) Praticar tudo o mais que especialmente lhe incumbir por força da lei ou dos 
 
 d) Rubricar os livros da empresa, podendo fazê-lo por meio de chancela.
 
-###### Art. 19.º O presidente será substituído nas suas faltas ou impedimentos pelo modo e ordem seguintes:
+Art. 19.º O presidente será substituído nas suas faltas ou impedimentos pelo modo e ordem seguintes:
 
 a) Pelo vogal que o conselho eleger na primeira reunião de cada ano para o afeito;
 
 b) Pelo vogal mais antigo ou, em igualdade de circunstâncias, pelo mais velho.
 
-###### Art. 20.º Para obrigar a Enatur é necessário que todos os actos e contratos praticados ou celebrados em seu nome sejam assinados, pelo menos, por dois membros do conselho de gerência ou pelos representantes designados nos termos do artigo 16.º
+Art. 20.º Para obrigar a Enatur é necessário que todos os actos e contratos praticados ou celebrados em seu nome sejam assinados, pelo menos, por dois membros do conselho de gerência ou pelos representantes designados nos termos do artigo 16.º
 
 rt. 21.º - 1. O conselho de gerência reúne ordinariamente, pelo menos, uma vez por semana e extraordinariamente sempre que for convocado pelo presidente.
 
@@ -546,15 +600,15 @@ rt. 21.º - 1. O conselho de gerência reúne ordinariamente, pelo menos, uma ve
 
 3. As resoluções do conselho são tomadas por maioria de votos dos membros presentes, cabendo ao presidente voto de qualidade.
 
-###### Art. 22.º Às reuniões do conselho de gerência poderão assistir os membros da comissão de fiscalização, sendo, porém, obrigatória essa presença sempre que se trate de alguns dos assuntos previstos no n.º 3 do artigo 15.º
+Art. 22.º Às reuniões do conselho de gerência poderão assistir os membros da comissão de fiscalização, sendo, porém, obrigatória essa presença sempre que se trate de alguns dos assuntos previstos no n.º 3 do artigo 15.º
 
-###### Art. 23.º - 1. Das reuniões do conselho de gerência serão lavradas actas, que serão assinadas por todos os membros presentes, bem como pelos da comissão de fiscalização que nelas participarem.
+Art. 23.º - 1. Das reuniões do conselho de gerência serão lavradas actas, que serão assinadas por todos os membros presentes, bem como pelos da comissão de fiscalização que nelas participarem.
 
 2. Os participantes das reuniões poderão votar «vencido» quanto às decisões de que discordem, fundamentando o seu voto.
 
 #### SECÇÃO III — Da comissão de fiscalização
 
-###### Art. 24.º - 1. Compete à comissão de fiscalização:
+Art. 24.º - 1. Compete à comissão de fiscalização:
 
 a) Acompanhar o funcionamento da Enatur e velar pelo cumprimento das normas reguladoras do seu funcionamento e das lei e regulamentos que lhe são aplicáveis;
 
@@ -574,7 +628,7 @@ h) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja sub
 
 2. A comissão de fiscalização pode ser coadjuvada por técnicos especialmente designados ou contratados para esse efeito ou por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 25.º - 1. comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocada pelo presidente.
+Art. 25.º - 1. comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocada pelo presidente.
 
 2. Para a comissão deliberar validamente é indispensável a presença da maioria absoluta de membros em exercício.
 
@@ -584,7 +638,7 @@ h) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja sub
 
 #### SECÇÃO IV — Do conselho geral
 
-###### Art. 26.º - 1. Ao conselho geral, que tem funções consultivas, compete nomeadamente dar parecer:
+Art. 26.º - 1. Ao conselho geral, que tem funções consultivas, compete nomeadamente dar parecer:
 
 a) Até 15 de Outubro de cada ano, sobre os planos anuais de actividade e financeiro e o orçamento relativo ao ano seguinte;
 
@@ -602,31 +656,31 @@ b) Elaborar o respectivo regulamento interno.
 
 3. O conselho poderá solicitar ao conselho de gerência e à comissão de fiscalização os elementos relativos aos assuntos a apreciar que considere necessários para o desempenho das suas funções.
 
-###### Art. 27.º - 1. O conselho geral poderá funcionar em plenário ou por secções, de acordo com o respectivo regulamento interno.
+Art. 27.º - 1. O conselho geral poderá funcionar em plenário ou por secções, de acordo com o respectivo regulamento interno.
 
 2. O plenário do conselho reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocado a pedido de um terço dos seus membros ou pelo presidente.
 
 #### SECÇÃO V — Dos trabalhadores
 
-###### Art. 28.º - 1. Os trabalhadores da Enatur, incluindo os membros do conselho de gerência, estão sujeitos às normas do contrato individual do trabalho ou as que resultem do regime de comissão de serviço em que se encontrem.
+Art. 28.º - 1. Os trabalhadores da Enatur, incluindo os membros do conselho de gerência, estão sujeitos às normas do contrato individual do trabalho ou as que resultem do regime de comissão de serviço em que se encontrem.
 
 2. Não se aplicam aos membros do conselho de gerência as normas do contrato de trabalho que contrariem as disposições legais sobre os administradores ou gestores de empresas públicas.
 
 3. O disposto nos números anteriores não prejudica a existência de regulamentos internos sobre pessoal, os quais deverão ser aprovados pelos órgãos dos trabalhadores e não poderão contrariar o estabelecido na lei e nos contratos colectivos.
 
-###### Art. 29.º - 1. Salvo quando em representação da Enatur, é vedado aos membros do conselho de gerência e da comissão de fiscalização, bem como a todos os demais trabalhadores, fazer parte dos corpo gerentes de qualquer empresa ligada à actividade turística ou nestas exercer cumulativamente quaisquer funções.
+Art. 29.º - 1. Salvo quando em representação da Enatur, é vedado aos membros do conselho de gerência e da comissão de fiscalização, bem como a todos os demais trabalhadores, fazer parte dos corpo gerentes de qualquer empresa ligada à actividade turística ou nestas exercer cumulativamente quaisquer funções.
 
 2. Os membros do conselho de gerência e os directores da Enatur não poderão desempenhar quaisquer outros cargos remunerados.
 
-###### Art. 30.º - 1. A Enatur promoverá a formação e o aperfeiçoamento profissional, quer dos seus trabalhadores, quer dos das empresas nas quais superintenda, seja qual for o vínculo.
+Art. 30.º - 1. A Enatur promoverá a formação e o aperfeiçoamento profissional, quer dos seus trabalhadores, quer dos das empresas nas quais superintenda, seja qual for o vínculo.
 
 2. Para este efeito, a Enatur estabelecerá, em colaboração com os organismos oficiais competentes e as organizações sindicais, planos específicos de actuação.
 
 ### CAPÍTULO IV — Da gestão patrimonial e financeira
 
-###### Art. 31.º A gestão da Enatur deve ser conduzida de acordo com os objectivos fixados no planeamento económico nacional e segundo princípios de economicidade que possam ser objectivamente fixados e controlados em relação às suas atribuições.
+Art. 31.º A gestão da Enatur deve ser conduzida de acordo com os objectivos fixados no planeamento económico nacional e segundo princípios de economicidade que possam ser objectivamente fixados e controlados em relação às suas atribuições.
 
-###### Art. 32.º - 1. A gestão financeira e patrimonial da Enatur será disciplinada pelos seguintes instrumentos de gestão:
+Art. 32.º - 1. A gestão financeira e patrimonial da Enatur será disciplinada pelos seguintes instrumentos de gestão:
 
 a) Planos de actividade e financeiros anuais e plurianuais;
 
@@ -640,7 +694,7 @@ rt. 33.º - 1. A contabilidade da Enatur deve ser organizada de forma a correspo
 
 2. Mensalmente será elaborado um balancete da situação, a apresentar ao conselho de gerência e à comissão de fiscalização.
 
-###### Art. 34.º - 1. Os orçamentos anuais de exploração e de investimento serão enviados ao Ministro do Comércio Externo, acompanhados do respectivo plano de actividade e do parecer do conselho geral, até 30 de Outubro do ano anterior àquele a que respeitarem.
+Art. 34.º - 1. Os orçamentos anuais de exploração e de investimento serão enviados ao Ministro do Comércio Externo, acompanhados do respectivo plano de actividade e do parecer do conselho geral, até 30 de Outubro do ano anterior àquele a que respeitarem.
 
 2. Na falta de despacho do Ministro até 15 de Dezembro do mesmo ano, estes documentos consideram-se tacitamente aprovados.
 
@@ -650,7 +704,7 @@ a) Relativamente aos orçamentos de exploração originem diminuição significa
 
 b) Relativamente aos orçamentos de investimentos, sejam significativamente excedidos os valores inicialmente atribuídos a cada grupo de projectos.
 
-###### Art. 35.º - 1. Até 31 de Março de cada ano, a Enatur enviará ao Ministro do Comércio Externo, para aprovação, acompanhados dos pareceres da comissão de fiscalização e do conselho geral, os seguintes elementos:
+Art. 35.º - 1. Até 31 de Março de cada ano, a Enatur enviará ao Ministro do Comércio Externo, para aprovação, acompanhados dos pareceres da comissão de fiscalização e do conselho geral, os seguintes elementos:
 
 a) O relatório, o balanço e as contas anuais de gerência com referência a 31 de Dezembro do ano anterior;
 
@@ -662,7 +716,7 @@ c) Um mapa de origem e a aplicação de fundos.
 
 3. No prazo de trinta dias, contado da data da sua aprovação, os documentos referidos nos números anteriores deverão ser publicados no Diário da República.
 
-###### Art. 36.º Os recursos financeiros da Enatur serão, entre outros, os seguintes:
+Art. 36.º Os recursos financeiros da Enatur serão, entre outros, os seguintes:
 
 a) O rendimento de bens próprios;
 
@@ -678,14 +732,14 @@ f) As comparticipações, dotações e subsídios do Estado ou de outras entidad
 
 g) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, lhe devam pertencer.
 
-###### Art. 37.º - 1. Os rendimentos e outras receitas da Enatur inerentes à sua actividade suportarão todas as despesas de gestão, incluindo encargos com juros, amortizações e os eventuais prejuízos.
+Art. 37.º - 1. Os rendimentos e outras receitas da Enatur inerentes à sua actividade suportarão todas as despesas de gestão, incluindo encargos com juros, amortizações e os eventuais prejuízos.
 
 2. Eventualmente, e como contrapartida de encargos especiais que sejam cometidos à Enatur pelo Estado, poderão tais encargos ser cobertos através do subsídios ou empréstimos sem juro concedidos pelo Estado ou outras entidades públicas.
 
-###### Art. 38.º A Enatur ficará sujeita ao regime fiscal e ao sistema de participação do Estado nos seus resultados fixados na legislação geral sobre empresas públicas.
+Art. 38.º A Enatur ficará sujeita ao regime fiscal e ao sistema de participação do Estado nos seus resultados fixados na legislação geral sobre empresas públicas.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 39.º Para efeito do período dos mandatos dos membros dos órgãos sociais, o corrente ano não contará.
+Art. 39.º Para efeito do período dos mandatos dos membros dos órgãos sociais, o corrente ano não contará.
 
-**O Ministro do Comércio Externo, Joaquim Jorge de Pinho Campinos.**
+O Ministro do Comércio Externo, Joaquim Jorge de Pinho Campinos.

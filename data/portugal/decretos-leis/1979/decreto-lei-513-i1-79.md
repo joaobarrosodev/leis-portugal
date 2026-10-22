@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 297/1979, 4º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3366-(116) a 3366-(119)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29704/01160119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i1-1979-147397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6cab8e7b78a813d8b81e0ac5d9d94c855f693d53e10a546d4c826f8b1b2e6c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a5310f69d14e7110648e3b0a07937ce1b57075f23856ef3289eb589dde882da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Departamento de Gestão Financeira dos Serviços de Saúde
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 171/89, PUBLICADA NO DR.IS. 52, DE 890303. EXTINTO O DEPARTAMENTO DE\
+    \ GESTÃO FINANCEIRA DOS SERVIÇOS DE SAÚDE PELO DECRETO LEI 10/93, PUBLICADO NO DR.IS-A, 12, DE 930115. REVOGADO PELO DECRETO\
+    \ LEI 308/93, DE 2 DE SETEMBRO, PUBLICADO NO DR.IS-A, 206, DE 930902, MANTENDO-SE CONTUDO EM VIGOR O QUADRO ANEXO, ATE\
+    \ A ENTRADA EM VIGOR DO DIPLOMA QUE PUBLICARA O NOVO QUADRO, PREVISTO NO NUMERO 1 DO ARTIGO 27 DESTE DIPLOMA.\0TIGO 27\
+    \ DESTE DIPLOMA.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:586004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal do Departamento de Gestão Financeira dos Serviços de Saúde, pelo(a) Portaria n.º 147/88
+    - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:612847:por
+  label: "Alterado o presente diploma, pela PORT.171/89.03.03.1989.MF, DR.IS [52] de 03.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/171-1989-612847
+  date: '1989-03-03'
+- type: amended_by
+  target: pt:dre:586004:por
+  label: Extinto o Departamento de Gestão Financeira dos Serviços de Saúde, pelo(a) Decreto-Lei n.º 10/93 - Diário da República
+    n.º 12/1993, Série I-A de 1993-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1993-586004
+  date: '1993-01-15'
+- type: cites
+  target: pt:dre:221738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:28Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +147,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado, na Secretaria de Estado da Saúde, o Departamento de Gestão Financeira dos Serviços de Saúde, tendo por atribuição reorganizar a gestão dos recursos financeiros disponíveis, através do estabelecimento de critérios de financiamento dos serviços, em ordem à distribuição das verbas necessárias ao seu regular funcionamento e controlada expansão.
+Artigo 1.º - 1 - É criado, na Secretaria de Estado da Saúde, o Departamento de Gestão Financeira dos Serviços de Saúde, tendo por atribuição reorganizar a gestão dos recursos financeiros disponíveis, através do estabelecimento de critérios de financiamento dos serviços, em ordem à distribuição das verbas necessárias ao seu regular funcionamento e controlada expansão.
 
 2 - Compete também ao Departamento de Gestão Financeira elaborar o orçamento da Secretaria de Estado da Saúde e coordenar, orientar e inspeccionar as actividades económico-financeiras dos serviços e estabelecimentos de saúde, preparando planos gerais ou especiais para o efeito, e proceder à sua avaliação.
 
 3 - Ao Departamento de Gestão Financeira compete ainda conceder as autorizações de despesas dos serviços dependentes da Secretaria de Estado da Saúde que excedam as competências dos respectivos órgãos de gestão, até ao montante de 2000 contos.
 
-###### Art. 2.º O Departamento de Gestão Financeira é dirigido por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
+Art. 2.º O Departamento de Gestão Financeira é dirigido por um director-geral, coadjuvado por um subdirector-geral, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Gestão Económico-Financeira;
 
@@ -118,7 +161,7 @@ b) Direcção de Serviços de Orçamento e Contas;
 
 c) Repartição dos Serviços Administrativos.
 
-###### Art. 3.º - 1 - Compete à Direcção de Serviços de Gestão Económico-Financeira:
+Art. 3.º - 1 - Compete à Direcção de Serviços de Gestão Económico-Financeira:
 
 a) Definir os sistemas e normas a que deverá obedecer a recolha dos fundos destinados ao financiamento dos serviços dependentes da Secretaria de Estado da Saúde, tendo em conta a natureza e características das diversas fontes;
 
@@ -148,7 +191,7 @@ b) Divisão dos Serviços de Avaliação e Contrôle de Gestão.
 
 4 - À Divisão dos Serviços de Avaliação e Contrôle de Gestão competem as funções especificadas nas alíneas e), f), g), h) e i) do n.º 1 do presente artigo.
 
-###### Art. 4.º - 1 - Compete à Direcção de Serviços de Orçamento e Contas:
+Art. 4.º - 1 - Compete à Direcção de Serviços de Orçamento e Contas:
 
 a) Realizar os estudos orçamentais necessários ao desenvolvimento de adequada gestão previsional dos serviços;
 
@@ -178,7 +221,7 @@ b) Divisão dos Serviços de Revisão de Contas e Inspecção.
 
 4 - À Divisão dos Serviços de Revisão de Contas e Inspecção competem as funções especificadas nas alíneas f), g), h) e i) do n.º 1 do presente artigo.
 
-###### Art. 5.º - 1 - Compete à Repartição dos Serviços Administrativos:
+Art. 5.º - 1 - Compete à Repartição dos Serviços Administrativos:
 
 a) Dar apoio instrumental aos serviços técnicos do Departamento;
 
@@ -198,9 +241,9 @@ a) Secção de Pessoal, Expediente Geral e Arquivo;
 
 b) Secção de Contabilidade e Economato.
 
-###### Art. 6.º São transferidas para o Departamento de Gestão Financeira as atribuições de gestão financeira dos serviços centrais da Direcção-Geral de Saúde, da Direcção-Geral dos Hospitais e dos Serviços Médico-Sociais centrais.
+Art. 6.º São transferidas para o Departamento de Gestão Financeira as atribuições de gestão financeira dos serviços centrais da Direcção-Geral de Saúde, da Direcção-Geral dos Hospitais e dos Serviços Médico-Sociais centrais.
 
-###### Art. 7.º - 1 - O Departamento de Gestão Financeira dispõe do quadro de pessoal anexo ao presente diploma, do qual faz parte integrante.
+Art. 7.º - 1 - O Departamento de Gestão Financeira dispõe do quadro de pessoal anexo ao presente diploma, do qual faz parte integrante.
 
 2 - O provimento dos lugares do quadro referido no n.º 1 será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
@@ -210,11 +253,11 @@ b) Secção de Contabilidade e Economato.
 
 5 - As nomeações terão carácter provisório durante um ano, findo o qual os funcionários serão providos definitivamente, se tiverem revelado aptidão para o cargo, ou exonerados.
 
-###### Art. 8.º - 1 - O lugar de chefe de repartição será provido por livre escolha do Secretário de Estado da Saúde, sob proposta do director-geral, de entre indivíduos com curso superior adequado, ou de entre os chefes de secção com o mínimo de três anos de bom e efectivo serviço nessas funções e experiência apropriada ao exercício do cargo.
+Art. 8.º - 1 - O lugar de chefe de repartição será provido por livre escolha do Secretário de Estado da Saúde, sob proposta do director-geral, de entre indivíduos com curso superior adequado, ou de entre os chefes de secção com o mínimo de três anos de bom e efectivo serviço nessas funções e experiência apropriada ao exercício do cargo.
 
 2 - Os lugares de chefe de secção são providos por despacho do Secretário de Estado da Saúde, sob proposta do director-geral, por primeiros-oficiais de comprovada experiência no domínio das funções a que se destinam com, pelo menos, três anos de bom e efectivo serviço na categoria, ou por indivíduos habilitados com curso superior adequado.
 
-###### Art. 9.º - 1 - O pessoal dos quadros da Direcção-Geral de Saúde, da Direcção-Geral dos Hospitais e dos serviços centrais dos Serviços Médico-Sociais que se encontra afecto a tarefas relativas à gestão financeira transita para lugar equivalente do quadro do Departamento de Gestão Financeira, podendo ainda, até 31 de Dezembro de 1979, ser provido em lugar de categoria superior se reunir os requisitos de habilitação e de tempo de serviço para promoção sem perda de quaisquer direitos.
+Art. 9.º - 1 - O pessoal dos quadros da Direcção-Geral de Saúde, da Direcção-Geral dos Hospitais e dos serviços centrais dos Serviços Médico-Sociais que se encontra afecto a tarefas relativas à gestão financeira transita para lugar equivalente do quadro do Departamento de Gestão Financeira, podendo ainda, até 31 de Dezembro de 1979, ser provido em lugar de categoria superior se reunir os requisitos de habilitação e de tempo de serviço para promoção sem perda de quaisquer direitos.
 
 2 - Aos técnicos auxiliares contabilistas aplica-se a norma de provimento constante do número anterior e o disposto no n.º 3 do artigo 7.º deste diploma.
 
@@ -226,7 +269,7 @@ b) Secção de Contabilidade e Economato.
 
 6 - Para efeito de provimento em categoria superior será contado o tempo de serviço anteriormente prestado nos serviços referidos no n.º 1, independentemente do vínculo, ressalvadas as habilitações literárias exigidas.
 
-###### Art. 10.º - 1 - Além do pessoal compreendido no quadro anexo, o Secretário de Estado da Saúde pode requisitar, para prestarem serviço no Departamento de Gestão Financeira, até ao máximo de quatro administradores da carreira de administração hospitalar licenciados em Finanças, por um período não superior a três anos, obtido o acordo prévio dos interessados e dos respectivos serviços de origem.
+Art. 10.º - 1 - Além do pessoal compreendido no quadro anexo, o Secretário de Estado da Saúde pode requisitar, para prestarem serviço no Departamento de Gestão Financeira, até ao máximo de quatro administradores da carreira de administração hospitalar licenciados em Finanças, por um período não superior a três anos, obtido o acordo prévio dos interessados e dos respectivos serviços de origem.
 
 2 - Findo o período de requisição, os administradores regressarão aos lugares de origem nas condições que ali tinham e sem perda de quaisquer direitos ou regalias.
 
@@ -236,24 +279,24 @@ b) Secção de Contabilidade e Economato.
 
 5 - Os administradores requisitados são pagos por verbas próprias do Departamento de Gestão Financeira, sendo a sua remuneração, durante a requisição, a correspondente à categoria de assessor.
 
-###### Art. 11.º - 1 - O Departamento de Gestão Financeira apresentará anualmente, até 31 de Maio, o relatório e contas da aplicação dos recursos financeiros postos à disposição da Secretaria de Estado da Saúde no ano anterior.
+Art. 11.º - 1 - O Departamento de Gestão Financeira apresentará anualmente, até 31 de Maio, o relatório e contas da aplicação dos recursos financeiros postos à disposição da Secretaria de Estado da Saúde no ano anterior.
 
 2 - Trimestralmente, apresentará ao Secretário de Estado da Saúde a posição de contas da Secretaria de Estado.
 
-###### Art. 12.º - 1 - É extinta a Comissão Coordenadora de Financiamento dos Serviços de Saúde, criada pelo [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro, transitando para o Departamento de Gestão Financeira todas as verbas afectas à referida Comissão.
+Art. 12.º - 1 - É extinta a Comissão Coordenadora de Financiamento dos Serviços de Saúde, criada pelo [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro, transitando para o Departamento de Gestão Financeira todas as verbas afectas à referida Comissão.
 
 2 - Até à inscrição orçamental de dotações destinadas ao Departamento de Gestão Financeira, as despesas a realizar serão pagas por conta das correspondentes verbas inscritas no orçamento em vigor para a Comissão Coordenadora de Financiamento dos Serviços de Saúde, nomeadamente das dotações dos serviços centrais dos Serviços Médico-Sociais e das Direcções-Gerais de Saúde e dos Hospitais.
 
-###### Art. 13.º As dúvidas suscitadas na aplicação do presente decreto-lei serão resolvidas por despacho conjunto dos Ministros das Finanças e da Coordenação Social e dos Assuntos Sociais e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
+Art. 13.º As dúvidas suscitadas na aplicação do presente decreto-lei serão resolvidas por despacho conjunto dos Ministros das Finanças e da Coordenação Social e dos Assuntos Sociais e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
 Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do Departamento de Gestão Financeira dos Serviços de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29704/01160119.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29704/01160119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29704/01160119.pdf)

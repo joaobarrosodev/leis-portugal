@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad092b7eb1abb2f7f36192b77f4423b679cd24b23311f8f7d4230deea8156441
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d75a28044593c4605ec8a9062cb2fa37091f092113aa010377d848be1fb85004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Berlengas
+- Proteção do Ambiente
+- Reserva Natural da Berlenga
 relationships:
 - type: amended_by
   target: pt:dre:546991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421784:por
+  label: Aditado um artigo 6.º-A pelo DEC LEI.219/87.29.05.1987.MPAT, DR.IS [123] de 29.05.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1987-421784
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:546991:por
+  label: "Alterados os arts. 6º-A, 9º e 10º e aditados os arts. 6º-B, 6º-C e 6º-D ao presente diploma, pelo DEC LEI.293/89.02.09.1989.MPAT,\
+    \ DR.IS [202] de 02.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1989-546991
+  date: '1989-09-02'
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:41Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +126,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, a Reserva Natural da Berlenga.
+Artigo 1.º É criada, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, a Reserva Natural da Berlenga.
 
-###### Art. 2.º A área da Reserva Natural da Berlenga tem por limite a linha batimétrica dos 30 m à volta da Berlenga e inclui todas as suas ilhas, ilhéus e área marítima, conforme o mapa anexo ao presente diploma e que dele faz parte integrante.
+Art. 2.º A área da Reserva Natural da Berlenga tem por limite a linha batimétrica dos 30 m à volta da Berlenga e inclui todas as suas ilhas, ilhéus e área marítima, conforme o mapa anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 3.º Na área da Reserva ficam definidas as seguintes zonas com utilização específica, de acordo com o mapa anexo ao presente diploma:
+Art. 3.º Na área da Reserva ficam definidas as seguintes zonas com utilização específica, de acordo com o mapa anexo ao presente diploma:
 
 a) Áreas de reserva de recreio: uma, definida pelo carreiro do Mosteiro, sua praia e encosta do bairro dos pescadores, incluindo o local de permissão de acampamento; outra, limitada à zona envolvente da Fortaleza de São João Baptista;
 
@@ -120,7 +142,7 @@ d) Área de reserva natural integral: constituída por toda a zona a norte do ca
 
 e) Área de reserva marinha: definida pelas águas que envolvem a ilha até à batimétrica dos 30 m. Trata-se de uma área oceânica de grande interesse para a prática do mergulho científico ou recreativo, onde se protege igualmente a fauna e a flora subaquáticas.
 
-###### Art. 4.º - 1 - Na área de reserva de recreio é proibido:
+Art. 4.º - 1 - Na área de reserva de recreio é proibido:
 
 a) Fazer lume fora dos locais para o efeito estabelecidos;
 
@@ -138,7 +160,7 @@ a) O livre desembarque e acesso de pessoas, apenas condicionado pela capacidade 
 
 b) Acampar no local que para o efeito for designado.
 
-###### Art. 5.º - 1 - Na área de reserva natural parcial é proibido:
+Art. 5.º - 1 - Na área de reserva natural parcial é proibido:
 
 a) Transitar fora dos trilhos e caminhos estabelecidos no plano de ordenamento;
 
@@ -154,7 +176,7 @@ f) Instalar barracas ou tendas de campismo.
 
 2 - É permitido o acesso por barco a todos os ilhéus, para a actividade da pesca à linha.
 
-###### Art. 6.º - 1 - Na área de reserva natural integral é proibido o acesso de pessoas, bem como qualquer tipo de actividade.
+Art. 6.º - 1 - Na área de reserva natural integral é proibido o acesso de pessoas, bem como qualquer tipo de actividade.
 
 2 - A proibição de acesso constante no número anterior não abrange:
 
@@ -164,13 +186,13 @@ b) Visitantes com fins científicos ou outros de interesse relevante, devidament
 
 c) Os pescadores, que deverão dirigir-se de e para os pesqueiros caminhando, exclusivamente, pelos trilhos sinalizados para o efeito.
 
-###### Art. 7.º - 1 - Além das actividades que, nos termos dos artigos anteriores, constituem contravenção, poderão ainda ser consideradas contravenções outras actividades a definir por portaria do Ministro da Qualidade de Vida, depois de ouvido o Estado-Maior da Armada nas matérias que lhe dizem directamente respeito.
+Art. 7.º - 1 - Além das actividades que, nos termos dos artigos anteriores, constituem contravenção, poderão ainda ser consideradas contravenções outras actividades a definir por portaria do Ministro da Qualidade de Vida, depois de ouvido o Estado-Maior da Armada nas matérias que lhe dizem directamente respeito.
 
 2 - Na portaria referida no número anterior serão igualmente definidas as multas correspondentes às contravenções.
 
-###### Art. 8.º É proibido na área da Reserva Natural da Berlenga construir, reconstruir, ampliar ou alterar construções existentes, bem como efectuar qualquer obra de aterro ou escavação, conforme consta também dos Decretos n.os 41615, de 10 de Maio de 1958 (servidões militares), e 458/71, de 5 de Novembro (domínio público marítimo).
+Art. 8.º É proibido na área da Reserva Natural da Berlenga construir, reconstruir, ampliar ou alterar construções existentes, bem como efectuar qualquer obra de aterro ou escavação, conforme consta também dos Decretos n.os 41615, de 10 de Maio de 1958 (servidões militares), e 458/71, de 5 de Novembro (domínio público marítimo).
 
-###### Art. 9.º - 1 - As infracções ao disposto nos artigos anteriores, sem prejuízo de outras sanções aplicáveis, são puníveis com as seguintes multas:
+Art. 9.º - 1 - As infracções ao disposto nos artigos anteriores, sem prejuízo de outras sanções aplicáveis, são puníveis com as seguintes multas:
 
 a) 500$00 a 5000$00, no que se refere ao n.º 1 do artigo 4.º;
 
@@ -186,11 +208,11 @@ d) 5000$00 a 50000$00, no que se refere ao artigo 8.º
 
 4 - Se as obras referidas no número anterior se localizarem em área da jurisdição da autoridade marítima, esta será responsável pelo cumprimento das determinações emanadas do director da Reserva.
 
-###### Art. 10.º - 1 - A fiscalização compete ao Serviço Nacional de Parques, Reservas e Património Paisagístico, devendo as entidades que integram o conselho geral da Reserva Natural da Berlenga colaborar naquela fiscalização.
+Art. 10.º - 1 - A fiscalização compete ao Serviço Nacional de Parques, Reservas e Património Paisagístico, devendo as entidades que integram o conselho geral da Reserva Natural da Berlenga colaborar naquela fiscalização.
 
 2 - Na área da jurisdição da autoridade marítima, esta, para além das suas atribuições específicas, deverá exercer a fiscalização referida no número anterior.
 
-###### Art. 11.º - 1 - A Reserva Natural da Berlenga disporá, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, dos seguintes órgãos e serviços:
+Art. 11.º - 1 - A Reserva Natural da Berlenga disporá, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, dos seguintes órgãos e serviços:
 
 a) Director;
 
@@ -218,22 +240,22 @@ Associação «Amigos da Berlenga».
 
 3 - Os serviços administrativos da Reserva ficarão a cargo dos serviços centrais do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 12.º Os membros do conselho geral da Reserva Natural da Berlenga têm direito, nos termos da legislação geral, a senhas de presença por cada sessão a que compareçam.
+Art. 12.º Os membros do conselho geral da Reserva Natural da Berlenga têm direito, nos termos da legislação geral, a senhas de presença por cada sessão a que compareçam.
 
-###### Art. 13.º Na área da Reserva Natural da Berlenga são permitidos trabalhos, actividades ou estudos que interessem à defesa nacional, mediante despacho favorável do respectivo titular e do Ministro da Qualidade de Vida, no qual se estabelecerá, caso exista, a classificação de segurança correspondente.
+Art. 13.º Na área da Reserva Natural da Berlenga são permitidos trabalhos, actividades ou estudos que interessem à defesa nacional, mediante despacho favorável do respectivo titular e do Ministro da Qualidade de Vida, no qual se estabelecerá, caso exista, a classificação de segurança correspondente.
 
-###### Art. 14.º - 1 - As despesas resultantes da execução do presente diploma e, bem assim, as que resultem da necessidade de dar cumprimento às finalidades para que a Reserva foi criada serão suportadas pelas verbas adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
+Art. 14.º - 1 - As despesas resultantes da execução do presente diploma e, bem assim, as que resultem da necessidade de dar cumprimento às finalidades para que a Reserva foi criada serão suportadas pelas verbas adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
 2 - Exceptuam-se do disposto no número anterior as despesas com infra-estruturas portuárias e faróis, bem como as relativas a obras nos edifícios de apoio turístico, que são da responsabilidade das entidades competentes.
 
-###### Art. 15.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Qualidade de Vida ou por despacho conjunto do Ministro da Qualidade de Vida e dos titulares de outros departamentos do Estado interessados.
+Art. 15.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Qualidade de Vida ou por despacho conjunto do Ministro da Qualidade de Vida e dos titulares de outros departamentos do Estado interessados.
 
 Visto e aprovado em Conselho de Ministros de 7 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 24 de Agosto de 1981.**
+Promulgado em 24 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20200/23452347.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20200/23452347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20200/23452347.pdf)

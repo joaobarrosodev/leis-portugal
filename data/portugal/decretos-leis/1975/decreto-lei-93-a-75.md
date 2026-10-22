@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 50/1975, 2º Suplemento, Série I de 1975-02-28
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 322-(5) a 322-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/05002/00050010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-a-1975-175479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aef680f5b8905bfe285a866d0ed9d339866d95aab80841a391a1347c75361b57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dd0fcbad46bcfea3790c51d1067a0e68024828e4cd2131fc13ae4c8660bfbf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Campanha Eleitoral
+- Direito de Voto
+- Eleição Legislativa
+- Militar
+- Parlamentar
+- Sistema Eleitoral
+- Território não Autónomo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336079:por
+  label: "Alterado o art. 12º pelo DEC LEI.147-E/75.21.03.1975.MCINT, DG.IS [68-3SUPL] de 21.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-e-1975-336079
+  date: '1975-03-21'
+- type: amended_by
+  target: pt:dre:638879:por
+  label: "Aditado o nº3 ao art. 3º pelo DEC LEI.163-D/75.27.03.1975.MCINT, DG.IS [73-3SUPL] de 27.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-d-1975-638879
+  date: '1975-03-27'
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526985:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:51Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +129,19 @@ Salvaguardadas as disposições das leis eleitorais vigentes no território elei
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Domínio de aplicação)
 
 Os militares portugueses, devidamente recenseados, que à data da eleição dos Deputados à Assembleia Constituinte se encontrem a prestar serviço nos territórios ultramarinos ainda sob administração portuguesa exercerão o direito de voto nos termos da lei eleitoral em vigor no respectivo território e, na parte aplicável, nos termos que vigoram no território eleitoral, com as especialidades constantes do presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Número de Deputados)
 
 Os eleitores referidos no artigo 1.º não contarão para o efeito do apuramento do número de Deputados atribuído aos vários círculos eleitorais, nos termos do artigo 2.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro, e do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Lugar de exercício do direito de voto)
 
@@ -118,7 +149,7 @@ Os eleitores referidos no artigo 1.º não contarão para o efeito do apuramento
 
 2. Os militares referidos no artigo 1.º, nascidos no estrangeiro ou em qualquer território ultramarino sob administração portuguesa, exercerão o direito de voto em relação às listas propostas à eleição no círculo de Lisboa.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Publicação das listas)
 
@@ -126,19 +157,19 @@ Os eleitores referidos no artigo 1.º não contarão para o efeito do apuramento
 
 2. No dia da eleição, as listas referidas no n.º 1 serão novamente publicadas por editais afixados à porta e no interior das assembleias de voto, a cujo presidente serão, para o efeito, enviadas, juntamente com os boletins de voto, pela autoridade superior do território.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Comunicação da composição das listas)
 
 Para o efeito do cumprimento do disposto no artigo anterior, a Comissão Nacional das Eleições comunicará telegraficamente, ou por outro meio seguro e expedito, no prazo de dois dias a contar do conhecimento do resultado do respectivo sorteio, à autoridade superior de cada território ultramarino ainda sob administração portuguesa a composição das listas definitivamente admitidas nos círculos do território eleitoral.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Nova publicação das listas)
 
 Proceder-se-á a nova publicação das listas havendo substituição de candidatos ou anulação da decisão de rejeição de qualquer lista.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Desistência de lista)
 
@@ -146,19 +177,19 @@ Proceder-se-á a nova publicação das listas havendo substituição de candidat
 
 2. É nula a votação em lista que tenha sido objecto de desistência.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Âmbito das assembleias de voto)
 
 A autoridade superior de cada um dos territórios ultramarinos ainda sob administração portuguesa definirá e anunciará, até vinte dias antes do designado para a eleição, as áreas geográficas, administrativas ou militares a que corresponderão as assembleias de voto dos militares referidos no artigo 1.º, bem como o número de eleitores militares que deverá votar em cada assembleia.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Local das assembleias de voto)
 
 As assembleias de voto dos militares referidos no artigo 1.º reunir-se-ão nos lugares que forem designados e anunciados pela autoridade superior do território, e que ofereçam as indispensáveis condições de capacidade, segurança e acesso, de preferência em dependências adequadas dos quartéis.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Delegados das listas)
 
@@ -166,7 +197,7 @@ As assembleias de voto dos militares referidos no artigo 1.º reunir-se-ão nos 
 
 2. Até ao décimo segundo dia anterior à data da eleição, os candidatos ou os mandatários das diferentes listas, se assim o desejarem, indicarão, por escrito, à autoridade superior do território tantos delegados e tantos suplentes quantas as secções de voto em que tenham sido desdobradas as assembleias referidas no artigo 8.º
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Falta de delegados das listas)
 
@@ -174,13 +205,13 @@ As assembleias de voto dos militares referidos no artigo 1.º reunir-se-ão nos 
 
 2. Em caso de não indicação ou de falta dos delegados de todas as listas, a escolha dos membros da mesa ou mesas das assembleias de voto será efectuada pela autoridade superior do território.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Desdobramento dos cadernos)
 
 A autoridade superior de cada território ultramarino ainda sob administração portuguesa, imediatamente após a entrada em vigor do presente diploma, promoverá o desdobramento dos cadernos de recenseamento do correspondente círculo eleitoral, por forma a que os militares referidos no artigo 1.º sejam recenseados em caderno ou cadernos próprios e separados.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Certificação de inscrição)
 
@@ -192,31 +223,31 @@ A autoridade superior de cada território ultramarino ainda sob administração 
 
 4. A autoridade superior de cada um dos territórios ultramarinos ainda sob administração portuguesa e o Ministério da Administração Interna poderão concertar entre si uma forma de emissão oficiosa das certidões a que se refere o n.º 1 e de entrega das mesmas ao eleitor respectivo.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Campanha eleitoral)
 
 O período da campanha eleitoral inicia-se em 20 de Março de 1975 e finda na antevéspera do dia marcado para a eleição.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Promoção e realização da campanha eleitoral)
 
 A promoção e realização da campanha eleitoral caberão aos candidatos e aos partidos políticos que tenham apresentado listas de candidatos no território eleitoral, que para o efeito utilizarão, em regra, a via postal.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Âmbito da campanha eleitoral)
 
 Com ressalva do disposto nos artigos 55.º e 59.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, a campanha eleitoral incluirá sempre a elucidação dos eleitores através da remessa a estes, feita directamente ou através das autoridades militares do respectivo território, de documentação escrita.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Condição de exercício do direito de voto)
 
 Para que o eleitor seja admitido a votar, deverá estar inscrito no caderno eleitoral, ou ser portador da certidão a que se refere o artigo 13.º, e ser reconhecida pela mesa a sua identidade.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Proibição da presença de força armada e excepções)
 
@@ -228,7 +259,7 @@ Para que o eleitor seja admitido a votar, deverá estar inscrito no caderno elei
 
 4. Nos casos previstos nos n.os 1 e 3, suspender-se-ão as operações eleitorais até que o presidente considere verificadas as condições para que possam prosseguir, sob pena de nulidade da eleição na respectiva assembleia ou secção de voto.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Boletins de voto)
 
@@ -242,13 +273,13 @@ Para que o eleitor seja admitido a votar, deverá estar inscrito no caderno elei
 
 5. A autoridade superior de cada território ultramarino ainda sob administração portuguesa procederá à distribuição dos boletins de voto pelos presidentes das assembleias de voto até à antevéspera da eleição, devendo entregar a cada um, em sobrescrito fechado e lacrado, espécie e número de boletins correspondentes aos presumivelmente necessários relativamente a cada círculo do território eleitoral, acrescido de 30%.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Remessa de boletins de voto)
 
 Para o efeito de possibilitar à autoridade superior de cada território ultramarino ainda sob administração portuguesa o cumprimento do disposto no n.º 5 do artigo antecedente, o Ministério da Administração Interna, através do Ministério da Coordenação Interterritorial, enviará àquela autoridade, até quinze dias antes do designado para a eleição, o número e espécie de boletins de voto que tiver requisitado.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Modo como vota cada eleitor)
 
@@ -262,25 +293,25 @@ Reconhecido pelo presidente da mesa, independentemente da exibição ou não exi
 
 3. Voltando para junto da mesa, o eleitor entregará o boletim ao presidente, que o introduzirá na urna, enquanto os escrutinadores descarregarão o voto, se o nome do eleitor constar dos cadernos, rubricando este em coluna a isso destinada, e na linha correspondente ao nome do eleitor, ou relacionando o nome do eleitor, em caderno separado a isso destinado, se o eleitor tiver exibido a certidão a que se refere o n.º 2 do artigo 3.º
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Dúvidas, reclamações, protestos e contraprotestos)
 
 Qualquer eleitor inscrito na assembleia de voto, ou detentor da certidão a que se refere o artigo 13.º, ou qualquer delegado de lista admitida em círculo do território eleitoral, poderá suscitar dúvidas e apresentar, por escrito, reclamação, protesto ou contra-protesto relativo às operações eleitorais da mesma assembleia e instruí-lo com os documentos convenientes.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Contagem dos votantes e dos boletins de voto)
 
 A contagem dos votantes será efectuada pela contagem das descargas levadas a efeito nos termos do n.º 3 do artigo 21.º
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Acta das operações eleitorais)
 
 Da acta prevista no artigo 85.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, constará, além das menções constantes do mesmo artigo, o número de votos obtido por cada lista em relação ao respectivo círculo do território eleitoral.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Destino dos boletins de voto sobre os quais não haja reclamação ou protesto)
 
@@ -288,7 +319,7 @@ Da acta prevista no artigo 85.º do [Decreto-Lei n.º 73-A/75](https://diariodar
 
 2. Esgotado o prazo para a interposição dos recursos contenciosos, ou decididos definitivamente estes, a autoridade superior do território promoverá a destruição dos boletins.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Composição da assembleia de apuramento geral)
 
@@ -302,13 +333,13 @@ c) Os presidentes das assembleias de voto da sede do círculo;
 
 d) Um funcionário judicial, escolhido pelo presidente.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Operações de apuramento geral)
 
 Além dos actos de apuramento geral referidos no artigo 91.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, deverá também ser apurado o número total de votos obtido por cada lista em relação ao respectivo círculo do território eleitoral.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Envio à assembleia de apuramento geral)
 
@@ -316,25 +347,25 @@ Além dos actos de apuramento geral referidos no artigo 91.º do [Decreto-Lei n.
 
 2. Independentemente do disposto no n.º 1, a mesma assembleia de apuramento geral enviará, dentro do mesmo prazo, à mesma destinatária, directamente ou por intermédio do governador civil do distrito, e pelo seguro do correio aéreo, ou por próprio, que cobrará recibo da entrega, as actas, os cadernos e mais documentos respeitantes à eleição, retendo cópia ou fotocópia de todos os elementos enviados.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Operações de apuramento geral)
 
 A assembleia de apuramento geral de cada círculo do território eleitoral incluirá, entre os actos de apuramento geral, a menção do número de militares que votaram nos círculos eleitorais correspondentes aos territórios ultramarinos ainda sob administração portuguesa nas listas admitidas naqueles círculos, directamente e mediante certidão, de tudo isso fazendo menção na respectiva acta de apuramento geral a enviar à Comissão Nacional das Eleições.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Mapa nacional da eleição)
 
 Do mapa oficial com o resultado das eleições constará o número de militares que votaram nas listas admitidas em cada círculo do território eleitoral, apesar de não inscritos no respectivo círculo.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Recurso contencioso)
 
 Na hipótese de o recurso previsto no artigo 98.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, não ser decidido no prazo de quarenta e oito horas previsto no mesmo artigo, considerar-se-á o recurso julgado definitivamente improcedente, facto de que a autoridade superior do território dará conhecimento no dia imediato, por via telegráfica, à Comissão Nacional das Eleições, directamente ou através do Ministério da Administração Interna, a qual, pela mesma via, ou outra igualmente expedita, o comunicará ao presidente das assembleias distritais de apuramento geral que devam tomá-lo em conta nas respectivas operações.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Não realização total ou parcial de eleições)
 
@@ -344,7 +375,7 @@ Na hipótese de o recurso previsto no artigo 98.º do [Decreto-Lei n.º 73-A/75]
 
 3. A autoridade superior do território deverá fundamentar e instruir os requerimentos referidos neste artigo e fazê-los chegar à secretaria do Tribunal da Relação de Lisboa até ao quarto dia, inclusive, posterior ao designado para a eleição. O Tribunal da Relação de Lisboa decidirá definitivamente dentro das quarenta e oito horas seguintes, comunicando a decisão no próprio dia da leitura do acórdão ou no dia imediato, por via telegráfica, à autoridade requerente.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Ilícito eleitoral)
 
@@ -352,13 +383,13 @@ Na hipótese de o recurso previsto no artigo 98.º do [Decreto-Lei n.º 73-A/75]
 
 2. Às infracções relativas à mesma eleição cometidas nos territórios ultramarinos ainda sob administração portuguesa aplicam-se as correspondentes regras previstas no título V do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, com ressalva do disposto no artigo seguinte.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Entrada abusiva da força armada nas assembleias de voto)
 
 A autoridade militar ou policial por cuja ordem alguma força militar ou policial se apresentar no local onde estiver reunida uma assembleia de voto, ou na sua proximidade, até 50 m, sem requisição do presidente da mesa, ou fora dos casos em que é lícita essa apresentação, independentemente de requisição, será punida com pena de prisão até um ano.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Isenções)
 
@@ -372,13 +403,13 @@ c) Reconhecimentos notariais em documentos para fins eleitorais;
 
 d) Procurações forenses a utilizar em reclamações e recursos relacionados com as eleições, devendo as mesmas especificar os processos e fins a que se destinam.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Delegação de competência)
 
 A autoridade superior de cada território poderá, mediante despacho, a que dará a devida publicidade, delegar na Comissão Eleitoral Territorial prevista no artigo 133.º do [Decreto-Lei n.º 73-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-a-1975-526985), de 20 de Fevereiro, ou noutra cuja composição definirá, nomeando os respectivos membros, ou em autoridades militares ou administrativas, que igualmente identificará, a execução de quaisquer actos incluídos na competência que lhe é atribuída pelo presente diploma.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Dúvidas de interpretação e aplicação)
 
@@ -390,8 +421,8 @@ Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Antó
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 28 de Fevereiro de 1975.**
+Promulgado em 28 de Fevereiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

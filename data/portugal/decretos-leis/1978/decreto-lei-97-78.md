@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/11500/09000906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1978-296381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fe223223603d015f8ed5e7296bdc3d4d0836a946ce940ecf17cb48722a9c009
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02882006b13f6a9cf6b65c3f2c6ecdc647a60a9aeb603e55ff710e3e5ed5c85a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Fabrico Industrial
+- Fertilizante
+- Fiscalização
+- Importação
+- Licenciamento
+- Preço
+- Regulamento
+- Taxa
+- Venda
 relationships:
 - type: amended_by
   target: pt:dre:573542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557873:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573542:por
+  label: "Revogado, pelo DEC LEI.256/90.07.08.1990.MIE, DR.IS [181] de 07.08.1990, nos termos do nº2 do art. 12º do mesmo\
+    \ diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1990-573542
+  date: '1990-08-07'
 article_structure:
-  article_count: 66
+  article_count: 65
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:10Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +132,17 @@ Tendo em vista o exposto:
 
 Usando da autorização conferida pela [Lei n.º 17/78](https://diariodarepublica.pt/dr/detalhe/lei/17-1978-409707), de 28 de Março, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Exercício das Actividades de Fabrico, Preparação, Mistura, Importação e Venda de Adubos e Correctivos Agrícolas em anexo ao presente diploma.
+Artigo 1.º É aprovado o Regulamento do Exercício das Actividades de Fabrico, Preparação, Mistura, Importação e Venda de Adubos e Correctivos Agrícolas em anexo ao presente diploma.
 
-###### Art. 2.º Fica revogado o [Decreto n.º 21204](https://diariodarepublica.pt/dr/detalhe/decreto/21204-1932-557873), de 4 de Maio de 1932, e toda a legislação posterior sobre o assunto.
+Art. 2.º Fica revogado o [Decreto n.º 21204](https://diariodarepublica.pt/dr/detalhe/decreto/21204-1932-557873), de 4 de Maio de 1932, e toda a legislação posterior sobre o assunto.
 
 Mário Soares - Carlos Montês Melancia.
 
-**Promulgado em 2 de Maio de 1978.**
+Promulgado em 2 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DO EXERCÍCIO DAS ACTIVIDADES DE FABRICO, PREPARAÇÃO, MISTURA, IMPORTAÇÃO E VENDA DE ADUBOS E CORRECTIVOS AGRÍCOLAS.
 
@@ -332,7 +364,7 @@ A colheita de amostras de adubos e correctivos agrícolas deverá fazer-se como 
 
 2 - De cada lote que se vai sujeitar à acção fiscal separar-se-ão aleatoriamente, seguindo a Norma I-1476, os n sacos donde se vão retirar as tomas. Quando não for possível ou prático seguir estritamente esta norma, devem escolher-se ao acaso os n sacos. O número n de sacos atrás referidos é dado pelo quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/11500/09000906.pdf))](https://files.diariodarepublica.pt/1s/1978/05/11500/09000906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/11500/09000906.pdf)
 
 3 - Escolhidos os n sacos, cada um deles é aberto, e com uma sonda apropriada é retirada, de cada saco, a todo o comprimento, a quantidade de adubo ou correctivo que a sonda comporte, de modo a obter-se uma toma respeitante a cada saco de cerca de 1 kg, introduzindo-se a sonda tantas vezes quantas as necessárias.
 
@@ -500,4 +532,4 @@ A infracção ao disposto no n.º 2 do artigo 27.º constitui contravenção pun
 
 A publicidade e a venda como adubos de quaisquer correctivos agrícolas, expressamente proibidas pelo artigo 28.º, constituem crimes puníveis com a pena de prisão de dez dias a dois anos e multa.
 
-**O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.**
+O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.

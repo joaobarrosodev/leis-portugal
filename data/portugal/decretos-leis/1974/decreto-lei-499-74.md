@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1974-473551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5560307a453db063fadd3c0f346a52c6f7bb772d04c33fcd1d629085ab2d5edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00928da465b15ba96e860d84284d2e8a32e138b9aa79a60cd3f81b9b42e36151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- BASE Aérea
+- Forças Armadas
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427104:por
+  label: "Alterado o quadro de pessoal aprovado pelo Decreto-Lei 42066, de 29 de Dezembro, na redacção do presente diploma\
+    \ pelo Dec Lei.464/76.11.06.1976.CR, DR.IS [136] de 11.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/464-1976-427104
+  date: '1976-06-11'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:239442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504326:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181630:por
+  label: "Revogado o artigo 2.º do presente diploma pelo Dec Lei.550-E/76.12.07.1976.CR, DR.IS [161-Supl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-e-1976-181630
+  date: '1976-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:24Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +130,18 @@ Considerando que a constituição a título definitivo de uma nova base aérea n
 
 Usando da faculdade conferida pela [Lei n.º 4/74](https://diariodarepublica.pt/dr/detalhe/lei/4-1974-446364), de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na dependência do Comando da 1.ª Região Aérea, é constituída uma base aérea que mantém a actual finalidade, organização e localização da Base Aérea n.º 11.
+Artigo 1.º Na dependência do Comando da 1.ª Região Aérea, é constituída uma base aérea que mantém a actual finalidade, organização e localização da Base Aérea n.º 11.
 
-###### Art. 2.º Os efectivos constantes da [Portaria n.º 22423](https://diariodarepublica.pt/dr/detalhe/portaria/22423-1967-239442), de 4 de Janeiro de 1967, são provisoriamente e sem prejuízo de futuras reorganizações do quadro de efectivos da Força Aérea aumentados ao mesmo quadro.
+Art. 2.º Os efectivos constantes da [Portaria n.º 22423](https://diariodarepublica.pt/dr/detalhe/portaria/22423-1967-239442), de 4 de Janeiro de 1967, são provisoriamente e sem prejuízo de futuras reorganizações do quadro de efectivos da Força Aérea aumentados ao mesmo quadro.
 
-###### Art. 3.º Os encargos resultantes da aplicação deste diploma serão custeados no presente ano económico pelo orçamento suplementar da Defesa, sem que daí resulte aumento para o orçamento geral da Nação.
+Art. 3.º Os encargos resultantes da aplicação deste diploma serão custeados no presente ano económico pelo orçamento suplementar da Defesa, sem que daí resulte aumento para o orçamento geral da Nação.
 
-###### Art. 4.º É revogado o [Decreto-Lei n.º 47565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47565-1967-504326), de 27 de Fevereiro de 1967, e toda a legislação anteriormente promulgada que contrarie as disposições deste diploma.
+Art. 4.º É revogado o [Decreto-Lei n.º 47565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47565-1967-504326), de 27 de Fevereiro de 1967, e toda a legislação anteriormente promulgada que contrarie as disposições deste diploma.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores. - Francisco da Costa Gomes - Manuel Diogo Neto.
 
-**Promulgado em 20 de Setembro de 1974.**
+Promulgado em 20 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

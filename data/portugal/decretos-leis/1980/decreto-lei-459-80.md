@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23500/33093312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1980-462245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f478bf3a0bd6920e8e71e2f01707a7487421f5ac26e7828fb218c4c1fda59cf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e3ab4e84ea7b87cc358accb2e29e9d33b5b3d3b07aa3f6fc9e934a5854b49bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Incentivos Fiscais
+- Investimento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:231318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:458980:por
+  label: Rectificado pela DECL.DD6583.25.11.1980.PCM, DR.IS [283] de 09.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-458980
+  date: '1980-11-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:08Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +140,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito do diploma)
 
@@ -122,7 +148,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Os incentivos fiscais de que beneficiam os investimentos referidos no número anterior são os previstos nos termos da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, da [Lei n.º 2081](https://diariodarepublica.pt/dr/detalhe/lei/2081-1956-231318), de 4 de Junho de 1956, e demais legislação aplicável.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Incentivos financeiros)
 
@@ -132,7 +158,7 @@ a) Bonificações das taxas de juro dos financiamentos;
 
 b) Alargamento dos prazos de carência e de amortização dos financiamentos.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Projectos de grande incidência económica e social)
 
@@ -146,7 +172,7 @@ b) Satisfaçam as condições das alíneas a) a f) do artigo 4.º
 
 3 - O contrato referido no número anterior será objecto de proposta conjunta dos Ministros das Finanças e do Plano e do Comércio e Turismo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Condições de acesso - Regime geral)
 
@@ -166,7 +192,7 @@ f) Comprovar que estão regularizadas as suas obrigações para com o Estado e a
 
 g) Uma vez concluído o empreendimento, obter a confirmação da declaração de utilidade turística.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Método dos pontos)
 
@@ -176,7 +202,7 @@ g) Uma vez concluído o empreendimento, obter a confirmação da declaração de
 
 3 - Os Ministros das Finanças e do Plano e do Comércio e Turismo definirão, por portaria conjunta, o processo de cálculo da pontuação do projecto, para efeitos dos números anteriores.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Bonificação de juros)
 
@@ -186,7 +212,7 @@ g) Uma vez concluído o empreendimento, obter a confirmação da declaração de
 
 3 - A taxa de bonificação incidirá sobre a parcela do empréstimo bancário referente a aplicações em activo fixo corpóreo, incluindo os terrenos afectos ao projecto.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Pontuação provisória e definitiva de incentivos)
 
@@ -198,7 +224,7 @@ g) Uma vez concluído o empreendimento, obter a confirmação da declaração de
 
 4 - A bonificação só será corrigida quando a pontuação definitiva se afastar em mais de 10% da pontuação provisória.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Regime simplificado)
 
@@ -210,13 +236,13 @@ b) Demonstrem empregar menos de vinte trabalhadores no momento da apresentação
 
 c) Se proponham construir ou beneficiar unidades hoteleiras ou meios complementares de alojamento cujo montante de investimentos, a preços constantes, não exceda 50000 contos ou estabelecimentos similares de hotelaria cujo investimento, nas mesmas condições, não exceda 15000 contos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Bonificação de juros)
 
 Os incentivos financeiros atribuídos aos investimentos previstos no artigo anterior consistirão numa bonificação da taxa de juro dos financiamentos associados ao projecto, cujo montante será determinado em função da capacidade a instalar ou a beneficiar e do tipo de empreendimento, em termos a definir na portaria referida no n.º 3 do artigo 5.º
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Pagamento das bonificações)
 
@@ -230,13 +256,13 @@ ARTIGOS 11.º
 
 2 - A atribuição de benefícios nos termos do número anterior terá em conta, designadamente, o tipo de empreendimento e seu período de vida útil, o equilíbrio financeiro do projecto e a sua relevância do ponto de vista da política global de turismo.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Fiscalização)
 
 Para efeitos da aplicação dos artigos anteriores, os Ministérios do Finanças e do Plano e do Comércio e Turismo reservam-se o direito de acompanhar e fiscalizar a execução do projecto.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Processo)
 
@@ -248,7 +274,7 @@ Para efeitos da aplicação dos artigos anteriores, os Ministérios do Finanças
 
 4 - As regras de processo constantes deste artigo não são aplicáveis aos projectos que venham a ser abrangidos pelo disposto no artigo 3.º
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Prestação de elementos adicionais)
 
@@ -258,7 +284,7 @@ Para efeitos da aplicação dos artigos anteriores, os Ministérios do Finanças
 
 3 - O não fornecimento no prazo devido dos elementos solicitados, salvo justificação atendível, implicará o indeferimento e consequente arquivo do respectivo processo.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Decisão ministerial)
 
@@ -270,7 +296,7 @@ Para efeitos da aplicação dos artigos anteriores, os Ministérios do Finanças
 
 4 - Caso se verifique a aprovação tácita prevista no n.º 3, o Fundo de Turismo comunicará esse facto à empresa promotora do projecto, às entidades intervenientes no processo e ao Ministério do Trabalho.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Requisitos adicionais)
 
@@ -278,43 +304,43 @@ Para efeitos da aplicação dos artigos anteriores, os Ministérios do Finanças
 
 2 - A inobservância dessas condições pode implicar a caducidade total ou parcial dos benefícios concedidos.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Revogação dos benefícios concedidos)
 
 A concessão de bonificações de juros de crédito a longo prazo, previstas no presente diploma, poderá ser revogada se o investidor não vier a realizar o projecto de investimento nos prazos e condições aprovados, excepto se tal for devido a facto que lhe seja imputável.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Perda da utilidade turística)
 
 Quando, no decurso do prazo dos financiamentos objecto de benefícios no âmbito do presente diploma, for retirada, nos termos da lei vigente, a utilidade turística aos empreendimentos a que se destinaram esses financiamentos, aplicar-se-á o disposto no artigo 17.º, devendo ainda as empresas promotoras restituir, no prazo de noventa dias a contar da respectiva notificação, as importâncias correspondentes aos benefícios financeiros já efectivados, acrescidas de juros calculados à taxa aplicável a operações activas de prazo correspondente.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Contabilização dos benefícios)
 
 A contabilidade das empresas dará expressão adequada aos benefícios concedidos, que serão registados em conta especial de proveitos, lançando nas correspondentes contas os custos financeiros sem qualquer dedução dos referidos benefícios.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Concorrência legal de incentivos)
 
 Sempre que haja concorrência entre os incentivos agora fixados e incentivos da mesma natureza previstos noutros diplomas, apenas serão concedidos os que forem mais favoráveis às empresas que os requeiram, sem prejuízo dos apoios que possam vir a ser concedidos através do Fundo de Turismo.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Correcção monetária)
 
 Os valores de 1 milhão de contos e de 50000 contos e 15000 contos, referidos, respectivamente, na alínea a) do n.º 1 do artigo 3.º e na alínea c) do artigo 8.º, serão objecto de correcção monetária automática, nos termos do artigo 45.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943).
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Dúvidas)
 
 As dúvidas suscitadas pela aplicação do disposto neste diploma serão esclarecidas por despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Data de entrada em vigor)
 
@@ -322,8 +348,8 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

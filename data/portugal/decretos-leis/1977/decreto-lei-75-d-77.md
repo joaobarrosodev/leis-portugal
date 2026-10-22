@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(13) a 318-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00130015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43570d1c352974ca7801a7eae44e6f353f3670acddcbdc442e625cbf51f99e31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51800d4114fbafa4c79b555ed0b86f09f994b78dc6a92fd91fac7bf0359a5929
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Crédito Externo
+- Fundo de Garantia de Riscos Cambiais
+- TAXA de Câmbio
 relationships:
 - type: amended_by
   target: pt:dre:406086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278718:por
+  label: "Alterados alguns artigos e aditados outros aos Estatutos aprovados pelo presente diploma pelo DEC LEI.418/77.1977.10.03.MF\
+    \ DR.IS [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/418-1977-278718
+  date: '1977-10-03'
+- type: amended_by
+  target: pt:dre:394740:por
+  label: "Aditado um nº 5 ao art 4º dos Estatutos aprovados pelo presente diploma pelo DEC LEI.91/81.1981.04.29.MFP DR.IS\
+    \ [98]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1981-394740
+  date: '1981-04-29'
+- type: amended_by
+  target: pt:dre:660726:por
+  label: "Aditado um nº 6 ao art. 4º dos Estatutos aprovados pelo DEC LEI.40/84.1984.02.03.MFP, DR.IS [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1984-660726
+  date: '1984-02-03'
+- type: amended_by
+  target: pt:dre:291832:por
+  label: "Aditados um nº 7 ao art 4º e um nº 4 ao art 11º aos Estatutos aprovados pelo presente diploma pelo DEC LEI.330-A/84.1984.10.15.MFP\
+    \ DR.IS [239]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-a-1984-291832
+  date: '1984-10-15'
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406086:por
+  label: Revogado, a partir de 26.12.1990, o presente diploma, extinto, com efeitos a 30.11.1990, o Fundo de Garantia de Riscos
+    Cambiais e determinada a transferência da universalidade dos direitos, obrigações e responsabilidades para a Direcção-Geral
+    do Tesouro DEC LEI.403/90.1990.12.21.MF DR.IS [293]2ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1990-406086
+  date: '1990-12-21'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:51Z'
   warnings: []
   errors: []
 ---
@@ -98,37 +136,37 @@ Assim:
 
 O Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
 
-###### Artigo único. É criado pelo presente diploma o Fundo de Garantia de Riscos Cambiais, que se regerá pelo estatuto anexo.
+Artigo único. É criado pelo presente diploma o Fundo de Garantia de Riscos Cambiais, que se regerá pelo estatuto anexo.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DO FUNDO DE GARANTIA DE RISCOS CAMBIAIS
 
 ### CAPÍTULO I — Da natureza, objecto e fins do Fundo
 
-###### Artigo 1.º O Fundo de Garantia de Riscos Cambiais, adiante designado abreviadamente por Fundo, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira funcionando junto do Banco de Portugal.
+Artigo 1.º O Fundo de Garantia de Riscos Cambiais, adiante designado abreviadamente por Fundo, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira funcionando junto do Banco de Portugal.
 
-###### Art. 2.º O Fundo rege-se pelas disposições do presente Estatuto e respectivos diplomas regulamentares.
+Art. 2.º O Fundo rege-se pelas disposições do presente Estatuto e respectivos diplomas regulamentares.
 
-###### Art. 3.º O Fundo tem a sua sede em Lisboa e a sua gestão compete ao Banco de Portugal, realizando este em nome e por conta e ordem do Fundo as operações próprias ao seu objecto.
+Art. 3.º O Fundo tem a sua sede em Lisboa e a sua gestão compete ao Banco de Portugal, realizando este em nome e por conta e ordem do Fundo as operações próprias ao seu objecto.
 
-###### Art. 4.º - 1. O Fundo tem por objecto suportar os riscos resultantes da fixação da taxa de câmbio nas operações de crédito externo que revistam relevante interesse nacional e se processem de harmonia com a legislação e regulamentação cambial aplicável e os acordos de compensação e de pagamentos bilaterais e multilaterais, assinados pelo Estado ou pelo Banco de Portugal, por conta e ordem do Estado.
+Art. 4.º - 1. O Fundo tem por objecto suportar os riscos resultantes da fixação da taxa de câmbio nas operações de crédito externo que revistam relevante interesse nacional e se processem de harmonia com a legislação e regulamentação cambial aplicável e os acordos de compensação e de pagamentos bilaterais e multilaterais, assinados pelo Estado ou pelo Banco de Portugal, por conta e ordem do Estado.
 
 2. Compreende-se ainda no objecto do Fundo a prática de operações financeiras no mercado monetário interbancário e a constituição de depósitos de qualquer natureza em instituições de crédito, conformes com o seu objecto principal, com vista à aplicação das suas disponibilidades e outros fundos em moeda nacional.
 
-###### Art. 5.º - 1. No exercício das funções referidas no n.º 1 do artigo anterior o Fundo apreciará propostas de fixação de câmbio que lhe sejam apresentadas por instituições de crédito ou por entidades interessadas nas operações referidas no artigo anterior, dando preferência às que se relacionem com investimentos de reconhecido interesse nacional.
+Art. 5.º - 1. No exercício das funções referidas no n.º 1 do artigo anterior o Fundo apreciará propostas de fixação de câmbio que lhe sejam apresentadas por instituições de crédito ou por entidades interessadas nas operações referidas no artigo anterior, dando preferência às que se relacionem com investimentos de reconhecido interesse nacional.
 
 2. A aprovação de cada fixação de câmbio será consubstanciada em contrato a celebrar, por prato limitado, com o respectivo beneficiário, no qual serão inscritas as condições de prestação de tal garantia.
 
-###### Art. 6.º - 1. Em cada movimento relacionado com operações aprovadas nos termos do artigo anterior a instituição de crédito que realizar a correspondente operação cambial notificará o Fundo da diferença que se verificar entre o câmbio de venda a particulares no dia da utilização e o câmbio fixado no contrato a que se refere o n.º 2 do artigo anterior.
+Art. 6.º - 1. Em cada movimento relacionado com operações aprovadas nos termos do artigo anterior a instituição de crédito que realizar a correspondente operação cambial notificará o Fundo da diferença que se verificar entre o câmbio de venda a particulares no dia da utilização e o câmbio fixado no contrato a que se refere o n.º 2 do artigo anterior.
 
 2. Se a diferença a que alude o número anterior for em valor absoluto superior a 3%, o Fundo pagará ou receberá do beneficiário, consoante se trate respectivamente de uma diferença positiva ou negativa, uma importância igual ao valor absoluto de tal diferença, diminuída de 3%.
 
-###### Art. 7.º - 1. O Fundo não é obrigado a apreciar propostas relativamente a moedas estrangeiras em relação às quais não estejam estabelecidos câmbios de compra e venda.
+Art. 7.º - 1. O Fundo não é obrigado a apreciar propostas relativamente a moedas estrangeiras em relação às quais não estejam estabelecidos câmbios de compra e venda.
 
 2. O Fundo poderá recusar a fixação de câmbio relativamente a operações que lhe sejam apresentadas para apreciação desde que circunstâncias de natureza monetária e cambial excepcional o justifiquem.
 
@@ -136,7 +174,7 @@ ESTATUTO DO FUNDO DE GARANTIA DE RISCOS CAMBIAIS
 
 ### CAPÍTULO II — Do capital e outros recursos do Fundo
 
-###### Art. 8.º - 1. O capital do Fundo é de 1 milhão de contos.
+Art. 8.º - 1. O capital do Fundo é de 1 milhão de contos.
 
 2. O capital será representado de 1000 certificados de participação, do valor nominal de 1000000$00 cada um.
 
@@ -146,7 +184,7 @@ ESTATUTO DO FUNDO DE GARANTIA DE RISCOS CAMBIAIS
 
 5. Os certificados de participação emitidos pelo Fundo só serão transmissíveis entre instituições de crédito e as transmissões só se poderão fazer pelo valor nominal.
 
-###### Art. 9.º O Fundo disporá ainda das seguintes receitas e outros recursos:
+Art. 9.º O Fundo disporá ainda das seguintes receitas e outros recursos:
 
 a) O produto da arrecadação de comissões ou sobretaxas de juro fixadas pelo Banco de Portugal de harmonia com a alínea b) do artigo 28.º da sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, e que dele faz parte integrante, especialmente cobradas com tal finalidade;
 
@@ -160,21 +198,21 @@ e) As dotações orçamentais específicas ou créditos especiais abertos que as
 
 f) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.
 
-###### Art. 10.º Constituirá encargo fixo anual do Fundo a remuneração dos certificados de participação a uma taxa de juro determinada pela taxa reguladora do Banco de Portugal acrescida de 0,5%, remuneração cuja liquidação o Estado garantirá, designadamente, se necessário, através da atribuição de dotações orçamentais, referidas na alínea e) do artigo anterior.
+Art. 10.º Constituirá encargo fixo anual do Fundo a remuneração dos certificados de participação a uma taxa de juro determinada pela taxa reguladora do Banco de Portugal acrescida de 0,5%, remuneração cuja liquidação o Estado garantirá, designadamente, se necessário, através da atribuição de dotações orçamentais, referidas na alínea e) do artigo anterior.
 
-###### Art. 11.º - 1. Os resultados líquidos apurados pelo Fundo constituem receita do Estado, se positivos, e são da responsabilidade directa do Estado, se negativos, sendo estes regularizados até 30 de Junho do ano seguinte ao de cada exercício, salvo o disposto no n.º 3 do presente artigo.
+Art. 11.º - 1. Os resultados líquidos apurados pelo Fundo constituem receita do Estado, se positivos, e são da responsabilidade directa do Estado, se negativos, sendo estes regularizados até 30 de Junho do ano seguinte ao de cada exercício, salvo o disposto no n.º 3 do presente artigo.
 
 2. Durante cinco exercícios, os lucros líquidos apurados pelo Fundo serão obrigatoriamente afectos à constituição de um fundo de reserva.
 
 3. No caso de o Fundo apurar prejuízos, a sua cobertura far-se-á em primeiro lugar por recursos ao fundo de reserva e apenas supletivamente por recurso a dotações orçamentais específicas.
 
-###### Art. 12.º - 1. Com vista ao exercício das funções descritas no artigo 4.º e para efectuar os pagamentos referidos no n.º 2 do artigo 6.º poderá o Fundo contrair empréstimos.
+Art. 12.º - 1. Com vista ao exercício das funções descritas no artigo 4.º e para efectuar os pagamentos referidos no n.º 2 do artigo 6.º poderá o Fundo contrair empréstimos.
 
 2. Os empréstimos contraídos em cada exercício nos termos do número anterior deverão ser liquidados antes da data mencionada no n.º 1 do artigo 11.º
 
 ### CAPÍTULO III — Das operações do Fundo
 
-###### Art. 13.º - 1. As propostas de fixação de câmbio a que se alude no artigo 5.º conterão, entre outras, as seguintes indicações:
+Art. 13.º - 1. As propostas de fixação de câmbio a que se alude no artigo 5.º conterão, entre outras, as seguintes indicações:
 
 a) Montante da operação;
 
@@ -190,13 +228,13 @@ a) Apresentar deliberação ou compromisso de financiamento por parte da institu
 
 b) Obter parecer da instituição de crédito encarregada da realização das operações cambiais.
 
-###### Art. 14.º - 1. Será efectuada uma análise preliminar à proposta apresentada, nomeadamente quanto ao seu enquadramento nas leis, regulamentos e instruções em vigor e relacionados com as operações cujo risco cambial se pretende cobrir e ainda quanto ao grau de satisfação que os elementos apresentados oferecem para a apreciação definitiva da referida proposta.
+Art. 14.º - 1. Será efectuada uma análise preliminar à proposta apresentada, nomeadamente quanto ao seu enquadramento nas leis, regulamentos e instruções em vigor e relacionados com as operações cujo risco cambial se pretende cobrir e ainda quanto ao grau de satisfação que os elementos apresentados oferecem para a apreciação definitiva da referida proposta.
 
 2. Decidido o prosseguimento do estudo, será elaborado parecer sobre a viabilidade da fixação de câmbio, tendo em conta o interesse da operação, a sua viabilidade e, no caso de empréstimos, a garantia de reembolso de harmonia com o calendário fixado.
 
 3. Caso a proposta seja aprovada, será celebrado o respectivo contrato, nos termos e condições que vierem a ser estabelecidos.
 
-###### Art. 15.º - 1. O Fundo só poderá fixar câmbios por prazo que não exceda um ano, a partir da data do contrato.
+Art. 15.º - 1. O Fundo só poderá fixar câmbios por prazo que não exceda um ano, a partir da data do contrato.
 
 2. Findo o prazo referido no número anterior, o Fundo poderá proceder sucessivamente a novas fixações de câmbio, cada uma delas por período não superior a um ano.
 
@@ -208,13 +246,13 @@ b) Obter parecer da instituição de crédito encarregada da realização das op
 
 6. Ao efectuar uma nova fixação de câmbios nos termos do n.º 2 o Fundo contabilizará na mesma data os resultados negativos ou positivos que se tiverem verificado durante o período de fixação de câmbio anterior em consequência de variações cambiais.
 
-###### Art. 16.º Os prémios de garantia de risco cambial e as comissões ou sobretaxas a praticar nas suas operações serão estabelecidos pelo Banco de Portugal, de harmonia com a alínea b) do artigo 28.º da sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, e que dele faz parte integrante.
+Art. 16.º Os prémios de garantia de risco cambial e as comissões ou sobretaxas a praticar nas suas operações serão estabelecidos pelo Banco de Portugal, de harmonia com a alínea b) do artigo 28.º da sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, e que dele faz parte integrante.
 
-###### Art. 17.º - 1. A fixação do câmbio dá ao Fundo o direito de, por si ou por interposta pessoa, exercer rigorosa fiscalização sobre a finalidade da operação.
+Art. 17.º - 1. A fixação do câmbio dá ao Fundo o direito de, por si ou por interposta pessoa, exercer rigorosa fiscalização sobre a finalidade da operação.
 
 2. Os beneficiários são obrigados a permitir o exame da sua contabilidade e a fornecer os elementos de informação que justificadamente lhes forem solicitados e ainda a autorizar, quando se trate de créditos ligados a investimentos, a inspecção aos bens ligados com a aplicação do crédito obtido.
 
-###### Art. 18.º - 1. O Fundo denunciará a sua obrigação se a operação cujo risco cambial tenha sido coberto não houver sido realizada nos termos legais ou contratualmente estabelecidos.
+Art. 18.º - 1. O Fundo denunciará a sua obrigação se a operação cujo risco cambial tenha sido coberto não houver sido realizada nos termos legais ou contratualmente estabelecidos.
 
 2. O Fundo denunciará igualmente a sua obrigação sempre que os beneficiários faltem ao cumprimento pontual de quaisquer outras obrigações constantes dos respectivos contratos.
 
@@ -222,26 +260,26 @@ b) Obter parecer da instituição de crédito encarregada da realização das op
 
 ### CAPÍTULO IV — Dos serviços e contas do Fundo
 
-###### Art. 19.º - 1. Como gestor do Fundo, o Barco de Portugal assegurará os serviços indispensáveis ao seu adequado funcionamento.
+Art. 19.º - 1. Como gestor do Fundo, o Barco de Portugal assegurará os serviços indispensáveis ao seu adequado funcionamento.
 
 2. Sem prejuízo do disposto no número anterior, os demais serviços do Banco de Portugal assegurarão a colaboração que se mostre necessária ao mais correcto e eficiente desempenho das suas funções.
 
 3. O recurso pelo Fundo aos órgãos e serviços do Banco de Portugal, nos termos dos números anteriores, não implicará o pagamento de qualquer remuneração ou compensação.
 
-###### Art. 20.º - 1. Será elaborado um plano de contas próprio que permita a escrituração das operações realizadas pelo Fundo e que identifique, por forma clara, a estrutura patrimonial e o funcionamento do mesmo Fundo.
+Art. 20.º - 1. Será elaborado um plano de contas próprio que permita a escrituração das operações realizadas pelo Fundo e que identifique, por forma clara, a estrutura patrimonial e o funcionamento do mesmo Fundo.
 
 2. O Banco de Portugal, como gestor do Fundo, apresentará até 31 de Março de cada ano ao Ministério das Finanças o relatório sobre a actividade do Fundo e as contas do mesmo referidas a 31 de Dezembro do ano anterior.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 21.º - 1. Obtida a concordância dos diversos interessados, poderão ser transferidos para o Fundo os direitos e obrigações assumidos pelo Estado relativamente à fixação de câmbios em operações de crédito externo em curso, desde que enquadráveis nas disposições do presente Estatuto.
+Art. 21.º - 1. Obtida a concordância dos diversos interessados, poderão ser transferidos para o Fundo os direitos e obrigações assumidos pelo Estado relativamente à fixação de câmbios em operações de crédito externo em curso, desde que enquadráveis nas disposições do presente Estatuto.
 
 2. A referida transferência produzirá efeitos perante terceiros após publicação no Diário da República de decreto do Ministro das Finanças, sob proposta do Banco de Portugal.
 
-###### Art. 22.º No caso de dissolução do Fundo, as instituições de crédito serão reembolsadas pelo Estado, através da emissão de títulos da dívida pública, na proporção eventualmente não coberta pelo património líquido do Fundo.
+Art. 22.º No caso de dissolução do Fundo, as instituições de crédito serão reembolsadas pelo Estado, através da emissão de títulos da dívida pública, na proporção eventualmente não coberta pelo património líquido do Fundo.
 
-###### Art. 23.º Qualquer omissão ou lacuna do presente Estatuto será, sempre que possível, integrada por recurso à Lei Orgânica do Banco de Portugal.
+Art. 23.º Qualquer omissão ou lacuna do presente Estatuto será, sempre que possível, integrada por recurso à Lei Orgânica do Banco de Portugal.
 
-###### Art. 24.º O Banco de Portugal poderá começar a realizar operações de fixação de câmbios por conta do Fundo imediatamente após a publicação do presente diploma, escriturando-se em contas transitórias a regularizar por transferência para o Fundo, após a sua constituição.
+Art. 24.º O Banco de Portugal poderá começar a realizar operações de fixação de câmbios por conta do Fundo imediatamente após a publicação do presente diploma, escriturando-se em contas transitórias a regularizar por transferência para o Fundo, após a sua constituição.
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

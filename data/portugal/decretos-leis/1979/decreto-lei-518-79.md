@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29800/34043407.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c191c3aecde0670a0512fca37b2744445dd81fc8469b272c616d109c06ad156d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e79276c0037c818966fc4cb1cde8bad82c0e6448c2ceb76a5ae7d83aa1f15240
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Definição de Competências
+- Direcção Geral do Património do Estado
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:520429:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310413:por
+  label: "Alterados os artigos 1º, 2º e 3º e, aditado o artigo 8º-A pelo DEC LEI.129/83.14.03.1983.MFP, DR.IS [60] de 14.03.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1983-310413
+  date: '1983-03-14'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Alterada a designação da Direcção Geral do Património do Estado, prevista no presente diploma, para Direcção Geral\
+    \ do Património, pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:432175:por
+  label: "Transitados para a Direcção-Geral do Património, cuja orgânica foi a provada pelo presente diploma, os bens patrimoniais\
+    \ pertencentes ao IIAE, ou que lhe estejam afectos pelo DEC LEI.215/2002.22.10.2002.MF, DR.IS-A [244] de 22.10.2002, nos\
+    \ termos do art. 8.º do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
+  date: '2002-10-22'
+- type: cites
+  target: pt:dre:253025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430596:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520429:por
+  label: "Revogado, a partir de 01.04.007 e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, e determinado\
+    \ que Direcção-Geral do Tesouro e Finanças suceda nas atribuições da Direcção-Geral, cuja orgânica foi aprovada no presente\
+    \ diploma, pelo DR.21/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007, nos termos do seu n.º 1 do art. 11.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-2007-520429
+  date: '2007-03-29'
 article_structure:
-  article_count: 1
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:50Z'
   warnings: []
   errors: []
 ---
@@ -124,9 +167,9 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral do Património do Estado, adiante designada abreviadamente por DGPE, é o departamento do Ministério das Finanças que tem como objectivo assegurar a gestão do património do Estado e intervir na gestão patrimonial do sector público, nos termos em que a lei o definir.
+Artigo 1.º A Direcção-Geral do Património do Estado, adiante designada abreviadamente por DGPE, é o departamento do Ministério das Finanças que tem como objectivo assegurar a gestão do património do Estado e intervir na gestão patrimonial do sector público, nos termos em que a lei o definir.
 
-###### Art. 2.º As atribuições da DGPE exercem-se, fundamentalmente, nos seguintes domínios:
+Art. 2.º As atribuições da DGPE exercem-se, fundamentalmente, nos seguintes domínios:
 
 a) Cadastro e inventário;
 
@@ -140,7 +183,7 @@ d) Gestão de veículos do Estado e outras formas especializadas de gestão patr
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 3.º - 1 - Para o exercício das suas atribuições, a DGPE dispõe dos seguintes serviços operativos:
+Art. 3.º - 1 - Para o exercício das suas atribuições, a DGPE dispõe dos seguintes serviços operativos:
 
 a) Direcção dos Serviços de Cadastro e Inventário;
 
@@ -158,11 +201,11 @@ f) Serviços regionais.
 
 3 - O apoio administrativo à DGPE será prestado por uma Direcção dos Serviços Administrativos.
 
-###### Art. 4.º Para o cumprimento das atribuições da DGPE, os serviços e organismos públicos, bem como as entidades privadas, fornecerão as informações de que ela careça.
+Art. 4.º Para o cumprimento das atribuições da DGPE, os serviços e organismos públicos, bem como as entidades privadas, fornecerão as informações de que ela careça.
 
 #### SECÇÃO II — Direcção dos Serviços de Cadastro e Inventário
 
-###### Art. 5.º Compete à Direcção dos Serviços de Cadastro e Inventário:
+Art. 5.º Compete à Direcção dos Serviços de Cadastro e Inventário:
 
 a) Manter organizado o cadastro e o inventário dos bens do Estado em ordem à elaboração da conta do património do Estado;
 
@@ -170,7 +213,7 @@ b) Providenciar sobre a actualização e tratamento dos dados relativos ao secto
 
 #### SECÇÃO III — Direcção dos Serviços de Gestão Patrimonial
 
-###### Art. 6.º - 1 - Compete à Direcção dos Serviços de Gestão Patrimonial:
+Art. 6.º - 1 - Compete à Direcção dos Serviços de Gestão Patrimonial:
 
 a) Promover a aquisição de bens imóveis para o património do Estado, salvo por expropriação;
 
@@ -186,7 +229,7 @@ e) Intervir, nos termos previstos na lei, em todos os actos de aquisição de im
 
 #### SECÇÃO IV — Direcção dos Serviços Especiais e de Inspecção Patrimonial
 
-###### Art. 7.º - 1 - Compete à Direcção dos Serviços Especiais e de Inspecção Patrimonial:
+Art. 7.º - 1 - Compete à Direcção dos Serviços Especiais e de Inspecção Patrimonial:
 
 a) Superintender na administração dos palácios e monumentos nacionais e do Arquivo Histórico do Ministério das Finanças, enquanto se mantiverem no âmbito da DGPE, visando a valorização sob os aspectos culturais e materiais do património artístico e histórico do Estado;
 
@@ -212,7 +255,7 @@ f) Paço dos Duques, em Guimarães.
 
 #### SECÇÃO V — Direcção dos Serviços de Gestão de Veículos do Estado
 
-###### Art. 8.º Compete à Direcção dos Serviços de Gestão de Veículos do Estado:
+Art. 8.º Compete à Direcção dos Serviços de Gestão de Veículos do Estado:
 
 a) Propor linhas orientadoras para a definição de políticas no domínio do parque de viaturas do Estado, nomeadamente nos sectores de organização e estruturação, renovação e aquisição, contrôle e fiscalização, reparação e manutenção, e ainda no dos recursos humanos;
 
@@ -232,29 +275,33 @@ h) Definir indicadores de gestão, orientar a recolha de dados estatísticos e p
 
 #### SECÇÃO VI — Serviços delegados
 
-###### Art. 9.º - 1 - Compete aos serviços delegados assegurar as atribuições gerais da DGPE junto dos diversos Ministérios e outros órgãos e serviços.
+Art. 9.º - 1 - Compete aos serviços delegados assegurar as atribuições gerais da DGPE junto dos diversos Ministérios e outros órgãos e serviços.
 
 2 - Os serviços delegados serão criados onde se justifique a sua implantação, por decreto regulamentar assinado pelo Ministro das Finanças e pelo Secretário de Estado da Administração Pública, do qual conste a sua estrutura, competência, funcionamento e quadro de pessoal.
 
 #### SECÇÃO VII — Serviços regionais
 
-###### Art. 10.º - 1 - Compete aos serviços regionais assegurar as atribuições gerais da DGPE, na área respectiva, em conformidade com as directivas superiores.
+Art. 10.º - 1 - Compete aos serviços regionais assegurar as atribuições gerais da DGPE, na área respectiva, em conformidade com as directivas superiores.
 
 2 - Os serviços regionais terão o nível correspondente a divisão e serão criados por decreto regulamentar em que se defina a sua localização e área de competência, nos termos do n.º 2 do artigo 9.º
 
 3 - Compete em especial aos serviços regionais promover a definição e inventário do património público regional, bem como assegurar a sua gestão eficaz.
 
-#### SECÇÃO VIII — Divisão Técnica de Obras e Avaliação
+#### SECÇÃO VIII
 
-###### Art. 11.º À Divisão Técnica de Obras e Avaliação compete:
+##### Divisão Técnica de Obras e Avaliação
+
+Art. 11.º À Divisão Técnica de Obras e Avaliação compete:
 
 a) Avaliar as propriedades rústicas e urbanas, no âmbito dos objectivos da DGPE;
 
 b) Vistoriar os prédios do Estado, pronunciar-se sobre as obras de que careçam e fiscalizar a sua execução.
 
-#### SECÇÃO IX — Divisão de Estudos Patrimoniais
+#### SECÇÃO IX
 
-###### Art. 12.º Compete à Divisão de Estudos Patrimoniais:
+##### Divisão de Estudos Patrimoniais
+
+Art. 12.º Compete à Divisão de Estudos Patrimoniais:
 
 a) Colaborar nos estudos e providências necessários à implementação de um plano racional de instalações para os serviços públicos e na execução de medidas para a instalação desses serviços nos casos de urgência;
 
@@ -264,11 +311,11 @@ c) Realizar trabalhos de investigação patrimonial.
 
 #### SECÇÃO X — Núcleo de Informática
 
-###### Art. 13.º Compete ao Núcleo de Informática realizar acções no domínio do tratamento automático das informações de que a DGPE necessite em ligação com o Instituto de Informática, nos termos do artigo 28.º do [Decreto-Lei n.º 464/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1977-280768), de 11 de Novembro.
+Art. 13.º Compete ao Núcleo de Informática realizar acções no domínio do tratamento automático das informações de que a DGPE necessite em ligação com o Instituto de Informática, nos termos do artigo 28.º do [Decreto-Lei n.º 464/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1977-280768), de 11 de Novembro.
 
 #### SECÇÃO XI — Direcção dos Serviços Administrativos
 
-###### Art. 14.º Compete à Direcção dos Serviços Administrativos prestar apoio à DGPE nas seguintes áreas:
+Art. 14.º Compete à Direcção dos Serviços Administrativos prestar apoio à DGPE nas seguintes áreas:
 
 a) Expediente e arquivo;
 
@@ -282,24 +329,24 @@ e) Recolha estatística.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 15.º A estrutura, competência, funciona-mento e quadro de pessoal dos serviços referidos no capítulo II deste diploma constarão de decretos regulamentares assinados pelo Ministro das Finanças e pelo Secretário de Estado da Administração Pública, a serem publicados no prazo de noventa dias após a entrada em vigor do presente decreto-lei.
+Art. 15.º A estrutura, competência, funciona-mento e quadro de pessoal dos serviços referidos no capítulo II deste diploma constarão de decretos regulamentares assinados pelo Ministro das Finanças e pelo Secretário de Estado da Administração Pública, a serem publicados no prazo de noventa dias após a entrada em vigor do presente decreto-lei.
 
-###### Art. 16.º - 1 - As normas sobre o regime de pessoal constarão de decreto regulamentar assinado pelo Ministro das Finanças e pelo Secretário de Estado da Administração Pública, a publicar no prazo de noventa dias após a entrada em vigor do presente decreto-lei.
+Art. 16.º - 1 - As normas sobre o regime de pessoal constarão de decreto regulamentar assinado pelo Ministro das Finanças e pelo Secretário de Estado da Administração Pública, a publicar no prazo de noventa dias após a entrada em vigor do presente decreto-lei.
 
 2 - No diploma referido no número anterior constará a definição e forma de atribuição das remunerações acessórias a que houver lugar nos termos da lei.
 
-###### Art. 17.º - 1 - Enquanto não estiver implementada a primeira fase da descentralização do parque de viaturas do Estado - criação de frotas regionais na tutela dos diferentes Ministérios -, referida na alínea e) do artigo 8.º, a competência atribuída por este diploma à Direcção dos Serviços de Gestão de Veículos do Estado ficará suspensa, continuando o seu exercício a ser assegurado pelo Gabinete de Gestão dos Veículos do Estado (GVE), a menos que o Ministro das Finanças determine a transferência de competências.
+Art. 17.º - 1 - Enquanto não estiver implementada a primeira fase da descentralização do parque de viaturas do Estado - criação de frotas regionais na tutela dos diferentes Ministérios -, referida na alínea e) do artigo 8.º, a competência atribuída por este diploma à Direcção dos Serviços de Gestão de Veículos do Estado ficará suspensa, continuando o seu exercício a ser assegurado pelo Gabinete de Gestão dos Veículos do Estado (GVE), a menos que o Ministro das Finanças determine a transferência de competências.
 
 2 - Verificando-se uma das condições referidas no número anterior, o Gabinete de Gestão de Veículos do Estado será extinto, transferindo-se o exercício efectivo das suas atribuições para a DGPE, que as exercerá através da Direcção dos Serviços de Gestão de Veículos do Estado.
 
 3 - A extinção do Gabinete de Gestão de Veículos do Estado e o início das funções da Direcção dos Serviços de Gestão de Veículos do Estado serão determinados por despacho do Ministro das Finanças, no qual se regulará, também, a situação e transferência do pessoal.
 
-###### Art. 18.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando envolvam matéria sobre regime de pessoal.
+Art. 18.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando envolvam matéria sobre regime de pessoal.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Adérito de Oliveira Sedas Nunes.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

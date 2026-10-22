@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44851-1963-192833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 149f068ca85ff910f3d9c781c6e96c9d135363761cde258a5591865994f214ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b2924f20184d81599862754aa2de6dc1bd365fdb90ba5ccf57fbb6942ace8bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Solos
+- Almada
+- Câmara Municipal
+- Direcção Geral da Fazenda Pública
+- Estabelecimento de Ensino
+- Obras Públicas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:54Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +95,13 @@ Considerando que, como este, outros pedidos têm sido deferidos no intuito de fa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Almada, mediante pagamento da importância de 712$00, uma parcela de terreno com a área de 712 m2, no sítio da Fonte da Telha, da freguesia da Costa da Caparica, a confrontar do nascente com propriedade de Carvalho Serra, Lda., e do norte, sul e poente com terrenos do Estado, conforme planta anexa a este diploma e que dele faz parte integrante, destinada à construção de uma escola primária.
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Almada, mediante pagamento da importância de 712$00, uma parcela de terreno com a área de 712 m2, no sítio da Fonte da Telha, da freguesia da Costa da Caparica, a confrontar do nascente com propriedade de Carvalho Serra, Lda., e do norte, sul e poente com terrenos do Estado, conforme planta anexa a este diploma e que dele faz parte integrante, destinada à construção de uma escola primária.
 
 § 1.º O terreno cedido poderá reverter para o domínio e posse do listado, por simples despacho ministerial, se a obra a que se destina não estiver concluída dois anos após a sua publicação, sem que isso implique a restituição da importância paga.
 
 § 2.º A cessão efectivar-se-á por meio de auto a celebrar na Secção de Finanças do concelho de Almada e é isenta de impostos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Janeiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - Pedro Mário Soares Martinez.
 
@@ -103,6 +109,6 @@ Para ser presente à Assembleia Nacional.
 
 DUNAS DA COSTA DA CAPARICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/01200/00270027.pdf))](https://files.diariodarepublica.pt/1s/1963/01/01200/00270027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/01200/00270027.pdf)
 
 Ministério das Finanças, 15 de Janeiro de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.

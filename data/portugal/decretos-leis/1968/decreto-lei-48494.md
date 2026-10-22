@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48494-1968-273595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efa931ff224885286342c7c6f9866e9dc57fb381e9c8d9ce81d7924086863662
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2cc73235e8b6f07da1091f5b473e662f2ec7017c2ee21da491cac4948d4ad06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Criança
+- HAIA
+- Menoridade
+- Portugal
+- Proteção à Infância
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:05Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +91,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -281,21 +287,21 @@ Desejando estabelecer disposições comuns relativas à competência das autorid
 
 Resolveram celebrar uma convenção com aquela finalidade e concordaram com as disposições seguintes:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 As autoridades, quer judiciais, quer administrativas, do Estado da residência habitual do menor, sob reserva das disposições dos artigos 3.º, 4.º e 5.º, alínea III, da presente Convenção, são competentes para decretar medidas visando a protecção da sua pessoa ou dos seus bens.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As autoridades competentes, nos termos do artigo 1.º, decretam as medidas previstas pela respectiva lei interna.
 
 Esta lei determina as condições de aplicação, modificação e cessação das citadas medidas, bem como regulamenta os seus efeitos, tanto no que respeita às relações entre o menor e as pessoas ou instituições que o têm a seu cargo como relativamente a terceiros.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 São reconhecidos em todos os Estados contratantes os regimes jurídicos que, nos termos da lei interna do Estado de que o menor é nacional, entrem em vigor de pleno direito.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Se as autoridades do Estado donde o menor é nacional consideram que o interesse do mesmo assim o exige, podem, de acordo com a respectiva lei interna e depois de terem informado as autoridades do Estado da residência habitual daquele, decretar medidas visando a protecção da sua pessoa ou dos seus bens.
 
@@ -305,7 +311,7 @@ A aplicação das medidas tomadas é assegurada pelas autoridades do Estado de q
 
 As medidas decretadas em virtude das alíneas precedentes do presente artigo substituem as medidas eventualmente tomadas pelas autoridades do Estado onde o menor tem a sua residência habitual.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Se a residência habitual de um menor mudar de um Estado contratante para outro, as medidas tomadas pelas autoridades do Estado da antiga residência habitual continuam a vigorar enquanto as autoridades da nova residência não as levantem ou substituam.
 
@@ -313,43 +319,43 @@ As medidas decretadas pelas autoridades do Estado da antiga residência habitual
 
 No caso da mudança de residência de um menor que estava sob a protecção das autoridades do Estado de que o mesmo é nacional, as medidas tomadas por aquelas, de acordo com a respectiva lei interna, continuam a vigorar no Estado da nova residência habitual.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 As autoridades do Estado de que o menor é nacional podem, de acordo com as autoridades do Estado onde ele tem a sua residência habitual ou possui bens, confiar a estas a execução das medidas tomadas.
 
 A mesma faculdade pertence às autoridades do Estado da residência habitual do menor relativamente às autoridades do Estado onde o menor possui bens.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 As medidas tomadas pelas autoridades competentes de acordo com os artigos precedentes da presente Convenção são reconhecidas em todos os Estados contratantes. Se, todavia, aquelas medidas implicam actos de execução num Estado diferente daquele onde foram tomadas, o reconhecimento e a execução das mesmas são regulados quer pelo direito interno do Estado onde é pedida a execução, quer pelas convenções internacionais.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Não obstante as disposições dos artigos 3.º, 4.º e 5.º, alínea III, da presente Convenção, as autoridades do Estado da residência habitual do menor podem decretar medidas de protecção desde que o menor esteja ameaçado de um perigo sério na sua pessoa ou seus bens.
 
 As autoridades dos outros Estados contratantes não são obrigadas a reconhecer aquelas medidas.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Em todos os casos de urgência, as autoridades de cada Estado contratante em cujo território se e contra o menor ou bens que lhe pertençam tomam as medidas de protecção necessárias.
 
 As medidas decretadas em obediência à alínea precedente cessam, sob reserva dos efeitos definitivos das mesmas, logo que as autoridades competentes, de acordo com a presente Convenção, tomarem as medidas exigidas pela situação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Na medida do possível, a fim de assegurar a continuidade do regime aplicado ao menor, as autoridades de um Estado contratante não decretam medidas a respeito daquele senão depois de terem procedido a uma troca de impressões com as autoridades dos outros Estados contratantes cujas decisões estão ainda em vigor.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Todas as autoridades que decretaram medidas de acordo com as disposições da presente Convenção informarão sem demora as autoridades do Estado de que o menor é nacional e, sendo caso disso, as da sua residência habitual.
 
 Cada Estado contratante designará as autoridades que podem dar e receber directamente as informações a que se refere a alínea precedente e notificará aquela designação ao Ministério dos Negócios Estrangeiros dos Países Baixos.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Para os fins da presente Convenção entende-se por «menor» toda a pessoa que tem esta qualidade, quer segundo a lei interna do Estado de que a mesma é nacional, quer segundo a lei interna do Estado onde tem a sua residência habitual.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 A presente Convenção aplica-se a todos os menores que têm a sua residência habitual num dos Estados contratantes.
 
@@ -357,45 +363,45 @@ Todavia, as competências atribuídas pela presente Convenção às autoridades 
 
 Cada Estado contratante pode reservar-se o direito de limitar a aplicação da presente Convenção aos menores que são nacionais de um dos Estados contratantes.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Para os fins da presente Convenção, se a lei interna do Estado de que o menor é nacional consiste num sistema não unificado, entende-se por «lei interna do Estado de que o menor é nacional» e por «autoridades do Estado de que o menor é nacional» a lei e as autoridades determinadas pelas normas em vigor naquele sistema, e, na falta destas, pela ligação mais efectiva que o menor tem com uma das legislações que compõem aquele sistema.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Cada Estado contratante pode reservar a competência das suas autoridades, chamadas a decidir sobre um pedido de anulação ou dissolução de casamento ou de separação dos pais de um menor, para decretar medidas visando a protecção da sua pessoa ou dos seus bens.
 
 As autoridades dos outros Estados contratantes não são obrigadas a reconhecer aquelas medidas.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 As disposições da presente Convenção não podem ser afastadas nos Estados contratantes a não ser que a respectiva aplicação seja manifestamente incompatível com a ordem pública.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 A presente Convenção apenas se aplica às medidas decretadas após a sua entrada em vigor.
 
 São reconhecidos a partir do momento da entrada em vigor da Convenção os regimes jurídicos que, nos termos da lei interna do Estado de que o menor é nacional, entrem em vigor de pleno direito.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Nas relações entre os Estados contratantes a presente Convenção substitui a Convenção para Regulamentar a Tutela dos Menores, assinada na Haia em 12 de Junho de 1902.
 
 A presente Convenção não derroga as disposições de outras convenções que no momento da sua entrada em vigor obriguem outros Estados contratantes.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 A presente Convenção fica aberta à assinatura dos Estados representados na 9.ª sessão da Conferência da Haia de Direito Internacional Privado.
 
 A Convenção será ratificada e os instrumentos da ratificação serão depositados no Ministério dos Negócios Estrangeiros dos Países Baixos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 A presente Convenção entrará em vigor no sexagésimo dia após o depósito do terceiro instrumento de ratificação previsto pelo artigo 19.º, alínea II.
 
 A Convenção entrará em vigor para cada Estado signatário que a tenha ratificado posteriormente no sexagésimo dia após o depósito do respectivo instrumento de ratificação.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Qualquer Estado não representado na 9.ª sessão da Conferência da Haia de Direito Internacional Privado poderá aderir à presente Convenção, após a sua entrada em vigor, nos termos do artigo 20.º, alínea I. O instrumento de adesão será depositado no Ministério dos Negócios Estrangeiros dos Países Baixos.
 
@@ -403,7 +409,7 @@ A adesão apenas produzirá efeito nas relações entre o Estado aderente e os E
 
 A Convenção entrará em vigor, entre o Estado aderente e o Estado que declarou aceitar a adesão, no sexagésimo dia depois da notificação mencionada na alínea precedente.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Qualquer Estado no momento da assinatura da ratificação ou da adesão poderá declarar que a presente Convenção se aplicará ao conjunto dos territórios que ele represente no plano internacional ou a um ou a vários de entre eles. Esta declaração produzirá efeito a partir do momento da entrada em vigor da Convenção relativamente ao Estado em causa.
 
@@ -411,7 +417,7 @@ Mais tarde, toda a comunicação desta natureza será comunicada ao Ministério 
 
 Quando a declaração de extensão for feita no momento da assinatura ou da ratificação, a Convenção entrará em vigor para os territórios visados por aquela, nos termos do disposto no artigo 20.º Quando a declaração de extensão for feita no momento de adesão, a Convenção entrará em vigor relativamente aos territórios visados por aquela, nos termos do disposto no artigo 21.º
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Qualquer Estado poderá, o mais tardar no momento da ratificação ou da adesão, fazer as reservas previstas nos artigos 13.º, alínea III, e 15.º, alínea I, da presente Convenção. Nenhuma outra reserva será admitida.
 
@@ -421,7 +427,7 @@ Cada Estado contratante poderá em qualquer momento retirar uma reserva que tenh
 
 O efeito da reserva cessará no sexagésimo dia após a notificação mencionada na alínea precedente.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 A presente Convenção terá a duração de cinco anos, a partir da data da sua entrada em vigor, nos termos do artigo 20.º, alínea I, mesmo para os Estados que a tenham ratificado ou a ela tenham aderido posteriormente.
 
@@ -433,7 +439,7 @@ A denúncia poderá limitar-se a alguns territórios aos quais se aplica a Conve
 
 A denúncia apenas produzirá efeitos relativamente ao Estado que tenha feito a respectiva notificação. A Convenção continuará em vigor relativamente aos restantes Estados contratantes.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 O Ministério dos Negócios Estrangeiros dos Países Baixos notificará os Estados a que se refere o artigo 19.º e, bem assim, os Estados que tenham aderido à presente Convenção, nos termos do artigo 21.º, do seguinte:
 

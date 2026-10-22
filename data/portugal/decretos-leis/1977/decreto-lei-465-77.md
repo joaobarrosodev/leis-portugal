@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1977-280769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e1d28bf55b510a0eb9b13853ba8a5ee62df7a3b602480ef186c8499d8a055a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a62fae1711aba251848813546bcc96f704c1895c1541e2c769be74a4d9c7a3ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- ILHA de Porto Santo
+- Madeira.região Autónoma
+- PSP
+- Subsídio de Fixação
+- Subsídio de Residência
+relationships:
+- type: cites
+  target: pt:dre:590511:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:40Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +102,14 @@ Por isso o Governo, em relação a vários serviços, desde há muito tomou prov
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extensivo aos elementos da Polícia de Segurança Pública colocados na ilha de Porto Santo o disposto no artigo 1.º e § 1.º do [Decreto-Lei n.º 38477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38477-1951-590511), de 29 de Outubro de 1951.
+Artigo 1.º É extensivo aos elementos da Polícia de Segurança Pública colocados na ilha de Porto Santo o disposto no artigo 1.º e § 1.º do [Decreto-Lei n.º 38477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38477-1951-590511), de 29 de Outubro de 1951.
 
-###### Art. 2.º O presente diploma produz efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
+Art. 2.º O presente diploma produz efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

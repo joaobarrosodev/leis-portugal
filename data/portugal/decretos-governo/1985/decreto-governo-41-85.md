@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/41-1985-178326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fddc7559510c20ca77de68e31456845cf2aadf1f58df7f6fbc5fad3ef5c87e66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50e04d54df96e8456b5877f0f9b83ae0b15cd10c6cedb7615ba735f5bc8c6769
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benin
+- Convenção
+- Cooperação Económica
+- Cooperação Técnica
+- Cotonu
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:22Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +93,19 @@ de 17 de Outubro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República Popular do Benim, assinado em Cotonou em 26 de Julho de 1984, cujo texto em língua francesa e a respectiva tradução acompanham o presente decreto.
+Artigo único. É aprovado o Acordo de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República Popular do Benim, assinado em Cotonou em 26 de Julho de 1984, cujo texto em língua francesa e a respectiva tradução acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama.
 
-**Assinado em 4 de Outubro de 1985.**
+Assinado em 4 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Outubro de 1985.**
+Referendado em 7 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ACCORD DE COOPÉRATION ÉCONOMIQUE ET TECHNIQUE ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA REPUBLIQUE POPULAIRE DU BÉNIN.
 
@@ -179,49 +185,49 @@ Desejosos de reforçar os laços de cooperação mútua nos domínios económico
 
 Conscientes dos benefícios recíprocos de tal cooperação; e Conscientes de que a mesma contribuirá para o estreitamento das relações de amizade entre os dois povos, acordaram nas disposições seguintes:
 
-ARTIGO I
+###### ARTIGO I
 
 A fim de realizar os objectivos do presente Acordo, as duas Partes Contratantes expressaram o seu desejo em procurar assegurar, num espírito de igualdade e de vantagens mútuas e tendo em conta os interesses económicos dos dois países, a cooperação económica e técnica, por forma a permitir o mais completo aproveitamento das possibilidades decorrentes do progresso das suas respectivas economias.
 
-ARTIGO II
+###### ARTIGO II
 
 Com a finalidade de atingir tais objectivos, as Partes Contratantes, reconhecendo a importância de que se reveste a cooperação económica e técnica para o desenvolvimento das suas relações económicas, favorecerão, por todos os meios possíveis, a instauração e o alargamento da cooperação entre firmas, organizações económicas e instituições do Benim e de Portugal nos diferentes domínios, em especial a indústria, a agricultura, os transportes, o turismo, a engenharia, a pesca, o comércio, o desenvolvimento técnico e a formação profissional nos dois países e com países terceiros, tendo em conta os benefícios mútuos que daí resultarão.
 
-ARTIGO III
+###### ARTIGO III
 
 As Partes Contratantes favorecerão a conclusão de acordos específicos nos diferentes domínios, nomeadamente os enumerados no artigo anterior.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Dentro deste espírito e com o objectivo de facilitar o desenvolvimento de projectos resultantes da cooperação prevista no presente Acordo, as duas Partes Contratantes favorecerão as relações no plano económico, nomeadamente através da concessão das necessárias facilidades e autorizações administrativas, tendo em conta as leis e regulamentos, bem como a política económica, em vigor nos seus respectivos países.
 
-ARTIGO V
+###### ARTIGO V
 
 A cooperação prevista nos artigos I e II será aplicada tendo em conta os planos de desenvolvimento de cada uma das Partes Contratantes.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os pagamentos referentes às operações realizadas no âmbito do presente Acordo serão efectuados em divisas convertíveis, em conformidade com as leis e regulamentos em vigor em cada país.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Com vista a alcançar os objectivos do presente Acordo, as Partes Contratantes concordam na criação de uma comissão mista composta por representantes das duas Partes, que se reunirá de 2 em 2 anos ou sempre que uma ou outra Parte Contratante o solicite. Tal Comissão reunir-se-á alternadamente em Portugal e no Benim.
 
 Fora das sessões da comissão mista, os contactos entre as duas Partes Contratantes serão assegurados por via diplomática.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 A comissão mista ficará encarregue de examinar a aplicação do presente Acordo e de sugerir as propostas susceptíveis de promover a cooperação entre as duas Partes Contratantes e de propor soluções para os problemas surgidos.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O presente Acordo é válido durante 5 anos. Decorrido este prazo, o Acordo será anualmente prorrogado por recondução tácita, caso não seja denunciado por escrito 6 meses antes da data do seu termo.
 
-ARTIGO X
+###### ARTIGO X
 
 Caso cesse a validade do presente Acordo, todos os compromissos assumidos antes da sua denúncia serão mantidos em conformidade com as suas disposições.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Acordo entrará em vigor à data da troca dos instrumentos de ratificação.
 

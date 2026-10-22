@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/75-1983-442313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87979c1eab8882d072bae5e29ac1e4289c6a7539210db1fe645128c9b892563e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95f39d46d080e127b00d954c13e4f25c27d93da3f222dd03c94ca2299e72662a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Encargos Gerais da Nação
+- Ministério da Habitação Obras Públicas e Transportes
+- Ministério das Finanças e do Plano
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:296224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:24Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +95,11 @@ de 20 de Setembro
 
 Com fundamento no n.º 3 do artigo 5.º do [Decreto-Lei n.º 93/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1978-296224), de 13 de Maio, o Governo decreta, nos termos, da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 1503702 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças e do Plano créditos especiais, no montante de 1503702 contos, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento do Estado em vigor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/21700/33033306.pdf))](https://files.diariodarepublica.pt/1s/1983/09/21700/33033306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/21700/33033306.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento do Estado, representativas de aumento de previsão de receitas:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento do Estado, representativas de aumento de previsão de receitas:
 
 Orçamento das receitas do Estado
 
@@ -98,75 +107,75 @@ Receitas correntes
 
 ... Em contos
 
-### Capítulo 05 «Transferências»:
+Capítulo 05 «Transferências»:
 
 Grupo 01 «Sector público»:
 
-###### Artigo 02 «Fundos autónomos» ... 49800
+Artigo 02 «Fundos autónomos» ... 49800
 
-###### Artigo 03 «Serviços autónomos» ... 2000
+Artigo 03 «Serviços autónomos» ... 2000
 
 Grupo 06 «Exterior»:
 
-###### Artigo 03 «Transferências diversas» ... 6000
+Artigo 03 «Transferências diversas» ... 6000
 
 Captulo 07 «Venda de serviços e bens não duradouros»:
 
 Grupo 10 «Diversos - Outros sectores»:
 
-###### Artigo 05 «Publicações e impressos: serviços de educação» ... 20000
+Artigo 05 «Publicações e impressos: serviços de educação» ... 20000
 
-###### Artigo 10 «Diversos serviços e bens não duradouros: serviços diversos» ... 13258
+Artigo 10 «Diversos serviços e bens não duradouros: serviços diversos» ... 13258
 
 Receitas de capital
 
 ... Em contos
 
-### Capítulo 10 «Transferências»:
+Capítulo 10 «Transferências»:
 
 Grupo 01 «Sector público»:
 
-###### Artigo 02 «Fundos autónomos: outros» ... 65950
+Artigo 02 «Fundos autónomos: outros» ... 65950
 
-###### Artigo 03 «Serviços autónomos» ... 98000
+Artigo 03 «Serviços autónomos» ... 98000
 
-### Capítulo 11 «Activos financeiros»:
+Capítulo 11 «Activos financeiros»:
 
 Grupo 04 «Títulos a médio e longo prazos -
 
 Sector público»:
 
-###### Artigo 02 «Fundos autónomos - Por aval ou responsabilidade do Estado» ... 20000
+Artigo 02 «Fundos autónomos - Por aval ou responsabilidade do Estado» ... 20000
 
 Contas de ordem
 
 ... Em contos
 
-### Capítulo 15 «Contas de ordem»:
+Capítulo 15 «Contas de ordem»:
 
 Grupo 03 «Finanças e do Plano»:
 
-###### Artigo 05 «Assistência na Doença aos Servidores Civis do Estado» ... 34094
+Artigo 05 «Assistência na Doença aos Servidores Civis do Estado» ... 34094
 
 Grupo 04 «Administração Interna»:
 
-###### Artigo 01 «Serviço Nacional de Bombeiros» ... 532000
+Artigo 01 «Serviço Nacional de Bombeiros» ... 532000
 
 Grupo 08 «Indústria, Energia e Exportação»
 
-###### Artigo 04 «Comissão Nacional Portuguesa da Conferência Mundial de Energia» ... 600
+Artigo 04 «Comissão Nacional Portuguesa da Conferência Mundial de Energia» ... 600
 
-###### Artigo 05 «Direcção-Geral da Qualidade» ... 13000
+Artigo 05 «Direcção-Geral da Qualidade» ... 13000
 
-###### Artigo 07 «Direcção-Geral de Geologia e Minas» ... 180000
+Artigo 07 «Direcção-Geral de Geologia e Minas» ... 180000
 
 Grupo 12 «Habitação, Obras Públicas e Transportes: Departamento dos Transportes»:
 
-###### Artigo 02 «Administração-Geral do Porto de Lisboa» ... 469000
+Artigo 02 «Administração-Geral do Porto de Lisboa» ... 469000
 
 ... 1503702
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos:
+Art. 3.º São autorizadas as seguintes alterações de rubricas nos orçamentos:
 
 17 - Ministério da Habitação, Obras Públicas e Transportes - Departamento de Transportes
 
@@ -234,7 +243,7 @@ A observação aposta à rubrica descrita no cap. 12, div. 01, C. F. 8.07.0, C. 
 
 (22) Tem compensação em receita do Fundo Especial de Transportes Terrestres (FETT).
 
-###### Art. 4.º São autorizadas as seguintes alterações no orçamento privativo da
+Art. 4.º São autorizadas as seguintes alterações no orçamento privativo da
 
 Administração-Geral do Porto de Lisboa
 
@@ -254,18 +263,18 @@ Receitas de capital
 
 ... Em contos
 
-### Capítulo 13 «Outras receitas de capital»:
+Capítulo 13 «Outras receitas de capital»:
 
-###### Artigo 01 «Saldo de gerência» ... 469000
+Artigo 01 «Saldo de gerência» ... 469000
 
 Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Alípio Barrosa Pereira Dias - José Augusto Seabra - José Veiga Simão - João Rosado Correia.
 
-**Assinado em 1 de Setembro de 1983.**
+Assinado em 1 de Setembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 3 de Setembro de 1983.**
+Referendado em 3 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

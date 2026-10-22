@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11800/11391139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1976-428234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76fe877aa43ae5c82cd16eded569cfa598b81fd1bf126121ea34c54de730dd0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae6cf1d170e6c1f38d0fb1848d92c773f1703e89e40994c9cdb98184b509b11e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cunhagem de Moeda
+- Definição de Competências
+- Imprensa Nacional-Casa da Moeda
+- Moeda Comemorativa
+- Secretário de Estado do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473690:por
+  label: "Alterados os limites de cunhagem de moedas comemorativas pelo DEC LEI.200/80.24.06.1980.MFP, DR.IS [143] de 24.06.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1980-473690
+  date: '1980-06-24'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:14Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +114,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Secretário de Estado do Tesouro a mandar proceder na Imprensa Nacional-Casa da Moeda à cunhagem de moeda de prata comemorativa do «25 de Abril», no valor total de 350000000$00, sendo 250000000$00 em moedas do valor facial de 250$00 cada uma e 100000000$00 em moedas do valor facial de 100$00.
+Artigo 1.º - 1. É autorizado o Secretário de Estado do Tesouro a mandar proceder na Imprensa Nacional-Casa da Moeda à cunhagem de moeda de prata comemorativa do «25 de Abril», no valor total de 350000000$00, sendo 250000000$00 em moedas do valor facial de 250$00 cada uma e 100000000$00 em moedas do valor facial de 100$00.
 
 2. A moeda de 250$00 terá o toque de 680 milésimos, diâmetro de 37 mm e peso de 25 g.
 
@@ -105,18 +122,18 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. Estas moedas serão ambas serrilhadas, com uma tolerância de 5(por mil), para mais ou para menos, no toque e no peso.
 
-###### Art. 2.º - 1. O anverso será igual para ambas as moedas. Na parte superior do anverso constará o valor facial de 100$00 e 250$00, respectivamente, e, na parte inferior, a legenda «República Portuguesa», circunscrevendo uma estilização das quinas do escudo nacional.
+Art. 2.º - 1. O anverso será igual para ambas as moedas. Na parte superior do anverso constará o valor facial de 100$00 e 250$00, respectivamente, e, na parte inferior, a legenda «República Portuguesa», circunscrevendo uma estilização das quinas do escudo nacional.
 
 2. O reverso da moeda do valor facial de 100$00 é composto, sobre o eixo vertical, por uma forma paralelepipédica em desintegração, pela intercepção perpendicular da legenda «25 de Abril de 1974».
 
 3. No reverso da moeda do valor facial de 250$00, o campo é preenchido por formas geométricas que se entrelaçam e a legenda «25 de Abril de 1974» ocupa os espaços que essas formas determinam.
 
-###### Art. 3.º Ninguém poderá ser obrigado a receber em qualquer pagamento mais de 1000$00 destas moedas.
+Art. 3.º Ninguém poderá ser obrigado a receber em qualquer pagamento mais de 1000$00 destas moedas.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 7 de Maio de 1976.**
+Promulgado em 7 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -49,36 +49,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49053-1969-200811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8b353e0807e2eb2dcb8a0e090c74e5fd01a618e4b9fed2c01c0c50f2355d28e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef9186ec43f92cdbc4748d10954b3b94c45ed9227c9361b20a86826a27fdeecd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do Registo Predial
+- Emolumento
+- Registo Automóvel
+- Registo Predial
+relationships:
+- type: cites
+  target: pt:dre:391416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509406:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:36Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 29.º, 34.º, 38.º, 45.º, 46.º, 47.º, 48.º, 52.º, 54.º, 58.º, 78.º, 93.º, 149.º, 152.º, 158.º, 168.º, 181.º, 191.º, 200.º, 201.º, 262.º, 266.º, 267.º, 271.º e 272.º do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 47611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47611-1967-509406), de 28 de Março de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 29.º, 34.º, 38.º, 45.º, 46.º, 47.º, 48.º, 52.º, 54.º, 58.º, 78.º, 93.º, 149.º, 152.º, 158.º, 168.º, 181.º, 191.º, 200.º, 201.º, 262.º, 266.º, 267.º, 271.º e 272.º do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 47611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47611-1967-509406), de 28 de Março de 1967, passam a ter a seguinte redacção:
 
 ###### Artigo 29.º — (...)
 
@@ -349,9 +361,9 @@ O registo prova-se por meio de certidões, fotocópias e notas de registo, inclu
 
 2. (O actual n.º 4).
 
-###### Art. 2.º Os livros actualmente em uso nas conservatórias de registo predial podem ser utilizados, com as necessárias adaptações, até findarem, e os modelos de impressos até seis meses após a entrada em vigor do presente diploma.
+Art. 2.º Os livros actualmente em uso nas conservatórias de registo predial podem ser utilizados, com as necessárias adaptações, até findarem, e os modelos de impressos até seis meses após a entrada em vigor do presente diploma.
 
-###### Art. 3.º Os artigos 10.º, 12.º e 19.º da tabela de emolumentos anexa ao Código do Registo Predial, a que se refere o artigo 1.º deste diploma, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 10.º, 12.º e 19.º da tabela de emolumentos anexa ao Código do Registo Predial, a que se refere o artigo 1.º deste diploma, passam a ter a seguinte redacção:
 
 ###### Artigo 10.º — Por cada nota de registo ... 20$00
 
@@ -361,32 +373,32 @@ O registo prova-se por meio de certidões, fotocópias e notas de registo, inclu
 
 O imposto devido pelas certidões e notas de registo, bem como o custo de impressos e verbetes estatísticos e as despesas do correio realizadas pelo conservador, serão pagos, separadamente, pelo requerente.
 
-###### Art. 4.º O disposto nos n.os 2 e 3 do artigo 25.º do [Decreto-Lei n.º 47952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47952-1967-391416), de 22 de Setembro de 1967, é aplicável, com as necessárias adaptações, ao pagamento do imposto de selo correspondente a cada folha do livro de inscrições referentes a veículos automóveis, quando formado por folhas soltas.
+Art. 4.º O disposto nos n.os 2 e 3 do artigo 25.º do [Decreto-Lei n.º 47952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47952-1967-391416), de 22 de Setembro de 1967, é aplicável, com as necessárias adaptações, ao pagamento do imposto de selo correspondente a cada folha do livro de inscrições referentes a veículos automóveis, quando formado por folhas soltas.
 
-###### Art. 5.º Fica revogado o artigo 284.º do Código do Registo Predial.
+Art. 5.º Fica revogado o artigo 284.º do Código do Registo Predial.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 16 de Maio de 1969.**
+Promulgado em 16 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Modelo do livro A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf))](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
 
 Modelo do livro B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf))](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
 
 Modelo do livro C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf))](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
 
 Modelo do livro F
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf))](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/13700/06530657.pdf)
 
 Ministério da Justiça, 16 de Maio de 1969. - O Ministro da Justiça, Mário Júlio Brito de Almeida Gosta.

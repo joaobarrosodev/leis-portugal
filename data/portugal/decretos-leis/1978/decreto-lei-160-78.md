@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15100/12001201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1978-297993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5aaff25150674c9fff244e68123bdb234edec6ea521a1f578b40daffa4c91df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f6f22809334926b2ecf20af1dde292998d52135fd832b09304e20e501231648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação e Cultura
+- OBRA Social
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475285:por
+  label: "Autorizado o provimento em lugares de auxiliar de educação, constantes do mapa anexo ao presente diploma, pelo DEC\
+    \ LEI.114/80.12.05.1980.MECI, DR.IS [109] de 12.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-1980-475285
+  date: '1980-05-12'
+- type: amended_by
+  target: pt:dre:395324:por
+  label: "Alterado o quadro de pessoal pelo DEC.79/82.1982.06.21.MFP, DR.IS [140]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/79-1982-395324
+  date: '1982-06-21'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:473758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:32Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +136,11 @@ A Obra Social do Ministério da Educação e Cultura foi criada pelo [Decreto-Le
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Obra Social do Ministério da Educação e Cultura (OSMEC) tem o pessoal constante no mapa anexo a este diploma, o qual passa a fazer parte dos quadros únicos a que se referem os artigos 26.º e 27.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+Artigo 1.º - 1 - A Obra Social do Ministério da Educação e Cultura (OSMEC) tem o pessoal constante no mapa anexo a este diploma, o qual passa a fazer parte dos quadros únicos a que se referem os artigos 26.º e 27.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
 
 2 - O quadro da OSMEC, referido no número anterior, poderá ser alterado por decreto referendado pelos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura.
 
-###### Art. 2.º As formas de recrutamento e os regimes de provimento do pessoal da OSMEC são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes, relativamente aos lugares que não se encontram contemplados naquele diploma:
+Art. 2.º As formas de recrutamento e os regimes de provimento do pessoal da OSMEC são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes, relativamente aos lugares que não se encontram contemplados naquele diploma:
 
 a) O lugar de técnico de serviço social de 1.ª classe será provido, mediante concurso documental, de entre indivíduos habilitados com o curso de assistente social;
 
@@ -110,7 +154,7 @@ e) O lugar de auxiliar de educação será provido, mediante concurso documental
 
 f) O lugar de primeiro-verificador - restaurante - será provido mediante concurso documental, dando-se preferência aos candidatos habilitados com o curso geral dos liceus ou equivalente e o curso adequado de indústria hoteleira ou equivalente e, pelo menos, três anos de prática de actividade neste sector, podendo ainda concorrer os indivíduos possuidores de carteira profissional da indústria hoteleira, comprovada pelo sindicato respectivo, e que tenham mais de três anos de prática no sector.
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto na legislação em vigor sobre excedente de pessoal, poderá o Ministro da Educação e Cultura autorizar, para a realização de tarefas de natureza transitória que não possam ser asseguradas pelo pessoal dos quadros:
+Art. 3.º - 1 - Sem prejuízo do disposto na legislação em vigor sobre excedente de pessoal, poderá o Ministro da Educação e Cultura autorizar, para a realização de tarefas de natureza transitória que não possam ser asseguradas pelo pessoal dos quadros:
 
 a) A contratação de pessoal além dos quadros, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários;
 
@@ -118,26 +162,26 @@ b) A realização de contratos de prestação de serviço, que serão reduzidos 
 
 2 - A utilização das disponibilidades de vencimentos do pessoal dos quadros a que se refere a alínea a) do número anterior carece de prévia autorização do Ministro das Finanças e do Plano.
 
-###### Art. 4.º - 1 - O pessoal vinculado a qualquer título à OSMEC à data da entrada em vigor deste diploma será provido, desde que satisfaça os requisitos relativos às habilitações exigidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e no presente diploma, em lugares idênticos ou de categoria equivalente do quadro anexo, mediante lista nominativa aprovada por despacho do Ministro da Educação e Cultura, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 4.º - 1 - O pessoal vinculado a qualquer título à OSMEC à data da entrada em vigor deste diploma será provido, desde que satisfaça os requisitos relativos às habilitações exigidas no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e no presente diploma, em lugares idênticos ou de categoria equivalente do quadro anexo, mediante lista nominativa aprovada por despacho do Ministro da Educação e Cultura, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
 2 - O pessoal que actualmente presta serviço na OSMEC e que não for possível prover nos termos do número anterior mantém-se na situação em que se encontrar à data da entrada em vigor do presente decreto-lei.
 
-###### Art. 5.º Os encargos resultantes da execução deste diploma serão suportados pelo orçamento privativo da OSMEC.
+Art. 5.º Os encargos resultantes da execução deste diploma serão suportados pelo orçamento privativo da OSMEC.
 
-###### Art. 6.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 15 de Junho de 1978.**
+Promulgado em 15 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 160/78, desta data
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/15100/12001201.pdf))](https://files.diariodarepublica.pt/1s/1978/07/15100/12001201.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15100/12001201.pdf)
 
-**O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.**
+O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.

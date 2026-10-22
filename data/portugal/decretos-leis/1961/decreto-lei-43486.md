@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43486-1961-556787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d59fc7fb8c0d69defbe25cdc7aa0b80224aadee3450d9fb72302cc6948656a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38cbed5fc03b69276a512d7768412ee0a1f735c3f59baa43dcc1dfccd76380cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Administrativa
+- Comissão de Coordenação Económica
+- Gestão Orçamental
+- Organismo Corporativo
+- Órgãos Sociais
+- Secretário de Estado do Comércio
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:281450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350763:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:35Z'
   warnings: []
   errors: []
 ---
@@ -92,39 +107,39 @@ Convindo ainda esclarecer algumas questões conexas com o mesmo problema e sobre
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Até 30 de Novembro de cada ano os organismos dependentes da Comissão de Coordenação Económica submeterão à aprovação do Secretário de Estado do Comércio os seus orçamentos ordinários para o ano seguinte.
+Artigo 1.º Até 30 de Novembro de cada ano os organismos dependentes da Comissão de Coordenação Económica submeterão à aprovação do Secretário de Estado do Comércio os seus orçamentos ordinários para o ano seguinte.
 
 § único. Os organismos corporativos cujos diplomas orgânicos prescrevam a aprovação dos respectivos orçamentos no próprio ano a que respeitam apresentarão os seus orçamentos para o corrente ano dentro do prazo estabelecido em despacho do Secretário de Estado do Comércio.
 
-###### Art. 2.º Os orçamentos dos organismos de coordenação económica serão elaborados pelos conselhos administrativos, que os submeterão à apreciação dos conselhos gerais, juntas ou comissões reguladoras.
+Art. 2.º Os orçamentos dos organismos de coordenação económica serão elaborados pelos conselhos administrativos, que os submeterão à apreciação dos conselhos gerais, juntas ou comissões reguladoras.
 
 § 1.º Nas juntas e comissões reguladoras em que exista mais de um vice-presidente, os conselhos administrativos serão constituídos pelo presidente e pelos vice-presidentes em exercício.
 
 § 2.º As funções legalmente atribuídas aos conselhos administrativos serão desempenhadas nos institutos pelas direcções.
 
-###### Art. 3.º As contas dos organismos de coordenação económica deverão ser encerradas até 30 de Abril do ano seguinte àquele a que respeitem e enviadas ao Tribunal de Contas até 31 do mês imediato.
+Art. 3.º As contas dos organismos de coordenação económica deverão ser encerradas até 30 de Abril do ano seguinte àquele a que respeitem e enviadas ao Tribunal de Contas até 31 do mês imediato.
 
-###### Art. 4.º Os orçamentos dos organismos corporativos dependentes da Comissão de Coordenação Económica serão elaborados pelas respectivas direcções e submetidos por estas aos conselhos ou assembleias gerais.
+Art. 4.º Os orçamentos dos organismos corporativos dependentes da Comissão de Coordenação Económica serão elaborados pelas respectivas direcções e submetidos por estas aos conselhos ou assembleias gerais.
 
 § único. As reuniões dos conselhos ou assembleias gerais para apreciação dos orçamentos ordinários para o ano seguinte deverão realizar-se até 20 de Novembro de cada ano, sem prejuízo do disposto no § único do artigo 1.º
 
-###### Art. 5.º Termina em 30 de Abril de cada ano o prazo para encerramento e apresentação das contas do ano anterior pelas direcções dos organismos corporativos dependentes da Comissão de Coordenação Económica aos conselhos ou assembleias gerais.
+Art. 5.º Termina em 30 de Abril de cada ano o prazo para encerramento e apresentação das contas do ano anterior pelas direcções dos organismos corporativos dependentes da Comissão de Coordenação Económica aos conselhos ou assembleias gerais.
 
 § único. Consideram-se revogadas as disposições especiais prescrevendo a apresentação de balanços por semestres, passando os organismos a elaborar normalmente um só balanço anual, referido a 31 de Dezembro.
 
-###### Art. 6.º Os orçamentos suplementares poderão ser apresentados à aprovação superior pelas direcções ou conselhos administrativos, independentemente da apreciação por outros órgãos dos respectivos organismos, sempre que se limitem a propor transferências de verbas entre artigos da mesma classe do capítulo I das despesas.
+Art. 6.º Os orçamentos suplementares poderão ser apresentados à aprovação superior pelas direcções ou conselhos administrativos, independentemente da apreciação por outros órgãos dos respectivos organismos, sempre que se limitem a propor transferências de verbas entre artigos da mesma classe do capítulo I das despesas.
 
-###### Art. 7.º Os livros principais de contabilidade e os livros de actas dos organismos terão os termos de abertura e de encerramento e as folhas rubricados pelo presidente da Comissão de Coordenação Económica, que, para o efeito, poderá delegar no chefe da 1.ª Repartição.
+Art. 7.º Os livros principais de contabilidade e os livros de actas dos organismos terão os termos de abertura e de encerramento e as folhas rubricados pelo presidente da Comissão de Coordenação Económica, que, para o efeito, poderá delegar no chefe da 1.ª Repartição.
 
 § único. No caso dos organismos corporativos, a delegação prevista neste artigo poderá também efectuar-se nos delegados do Governo que não exerçam cargos directivos.
 
-###### Art. 8.º O Secretário de Estado do Comércio estabelecerá, em despacho, quais as disposições do [Decreto-Lei n.º 29049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29049-1938-350763), de 10 de Outubro de 1938, que deverão considerar-se aplicáveis a todos os organismos dependentes da Comissão de Coordenação Económica.
+Art. 8.º O Secretário de Estado do Comércio estabelecerá, em despacho, quais as disposições do [Decreto-Lei n.º 29049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29049-1938-350763), de 10 de Outubro de 1938, que deverão considerar-se aplicáveis a todos os organismos dependentes da Comissão de Coordenação Económica.
 
-###### Art. 9.º Sempre que as necessidades dos serviços o exijam, poderá o Secretário de Estado do Comércio delegar no presidente da Comissão de Coordenação Económica o despacho dos assuntos mais correntes relativos aos organismos.
+Art. 9.º Sempre que as necessidades dos serviços o exijam, poderá o Secretário de Estado do Comércio delegar no presidente da Comissão de Coordenação Económica o despacho dos assuntos mais correntes relativos aos organismos.
 
-###### Art. 10.º A nomeação de comissões administrativas para os organismos corporativos dependentes da Secretaria de Estado do Comércio suspende a actividade de quaisquer órgãos administrativos dos respectivos organismos, salvo nos casos em que o Secretário de Estado declare inconveniente esse regime.
+Art. 10.º A nomeação de comissões administrativas para os organismos corporativos dependentes da Secretaria de Estado do Comércio suspende a actividade de quaisquer órgãos administrativos dos respectivos organismos, salvo nos casos em que o Secretário de Estado declare inconveniente esse regime.
 
-**Publique-se e cumpra-se com nele se contém.**
+Publique-se e cumpra-se com nele se contém.
 
 Paços do Governo da República, 26 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 

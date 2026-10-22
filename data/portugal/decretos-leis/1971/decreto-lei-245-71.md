@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1971-644127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 763db645f090e565e2078d2c6a813169f941f6cee5e61a3447667314adfa1797
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8cf1d8ce2276a5548a5f2d4429933e6f8c935ba68fbcc7c4403bbd6f6979344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bilhete de Identidade
+- Forças Armadas
+- Quadro Permanente do Exército
+- Sargento
+relationships:
+- type: cites
+  target: pt:dre:141220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201651:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:00Z'
   warnings: []
   errors: []
 ---
@@ -91,22 +103,22 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 48992](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48992-1969-201651), de 7 de Maio de 1969, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto-Lei n.º 48992](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48992-1969-201651), de 7 de Maio de 1969, passa a ter a seguinte redacção:
 
-###### Art. 2.º O bilhete de identidade dos sargentos do quadro permanente passará a ser do modelo anexo ao presente diploma, nas cores amarela para os sargentos do activo e creme para os da reserva e reformados.
+Art. 2.º O bilhete de identidade dos sargentos do quadro permanente passará a ser do modelo anexo ao presente diploma, nas cores amarela para os sargentos do activo e creme para os da reserva e reformados.
 
-###### Art. 2.º É revogado o anexo ao [Decreto-Lei n.º 48992](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48992-1969-201651), de 7 de Maio de 1969, e substituído pelo anexo ao presente diploma.
+Art. 2.º É revogado o anexo ao [Decreto-Lei n.º 48992](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48992-1969-201651), de 7 de Maio de 1969, e substituído pelo anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 5 de Maio de 1971.**
+Promulgado em 5 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO — Bilhete de identidade para sargentos em serviço activo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/13000/08470848.pdf))](https://files.diariodarepublica.pt/1s/1971/06/13000/08470848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/13000/08470848.pdf)
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

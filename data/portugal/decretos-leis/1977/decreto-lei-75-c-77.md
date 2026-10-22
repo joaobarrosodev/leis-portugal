@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(12) a 318-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00120013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-c-1977-509013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b74295a15b72adcf6c6dacd3f479da1cb998ccc7b7f1560953286d29a6ca7573
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d102f9ae624381d18eb8351d78e453eb18e34d3cf5e1cf395f1bd28b82c9531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conta Bancária
+- Depósito Bancário
+- Emigrante
+- Instituição de Crédito
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:569902:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252978:por
+  label: "Alterado o nº 1 do art. 3º pelo DEC LEI.220/77.28.05.1977.MF, DR.IS [124] de 28.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-1977-252978
+  date: '1977-05-28'
+- type: cites
+  target: pt:dre:307237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:569902:por
+  label: "Revogado pelo DEC LEI.140-A/86.14.06.1986.MF, DR.IS [134-Supl] de 14.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-1986-569902
+  date: '1986-06-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:51Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +136,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. As instituições de crédito podem abrir contas de depósito expressas em escudos em nome de emigrantes ou equiparados, sob a forma de:
+Artigo 1.º - 1. As instituições de crédito podem abrir contas de depósito expressas em escudos em nome de emigrantes ou equiparados, sob a forma de:
 
 a) Contas à ordem;
 
@@ -115,7 +150,7 @@ c) Contas a prazo não superior a um ano.
 
 4. As contas a que se refere o n.º 1 serão adiante designadas simplesmente por «contas de depósito».
 
-###### Art. 2.º - 1. Só podem ser titulares de contas de depósito emigrantes portugueses ou equiparados que residam no estrangeiro há mais de seis meses.
+Art. 2.º - 1. Só podem ser titulares de contas de depósito emigrantes portugueses ou equiparados que residam no estrangeiro há mais de seis meses.
 
 2. Consideram-se também emigrantes para efeitos deste diploma aqueles que tenham adquirido a nacionalidade estrangeira, bem como os seus descendentes directos em 1.º grau.
 
@@ -125,13 +160,13 @@ c) Contas a prazo não superior a um ano.
 
 5. A prova de qualidade de emigrante ou equiparado a que se refere o anterior n.º 3 deve ser apresentada dentro do prazo de cento e oitenta dias, a contar da data da constituição do depósito.
 
-###### Art. 3.º - 1. As contas de depósito podem ter co-titulares residentes em Portugal, desde que esses co-titulares sejam ou cônjuge, ascendentes ou descendentes em 1.º grau do emigrante ou equiparado.
+Art. 3.º - 1. As contas de depósito podem ter co-titulares residentes em Portugal, desde que esses co-titulares sejam ou cônjuge, ascendentes ou descendentes em 1.º grau do emigrante ou equiparado.
 
 2. Os titulares das contas de depósito podem autorizar que residentes em território nacional movimentem tais contas nas condições e dentro dos montantes que estabeleçam sem prejuízo das condicionantes que estiverem legalmente determinadas.
 
 3. Constitui documento adequado para os efeitos previstos no número anterior uma procuração passada pelo titular da conta em que este especifique os poderes que pretende conferir ou qualquer outro documento que a instituição depositária considere suficiente e que traduza uma inequívoca manifestação de vontade do titular da conta.
 
-###### Art. 4.º - 1. As contas de depósito só podem ser creditadas:
+Art. 4.º - 1. As contas de depósito só podem ser creditadas:
 
 a) Com transferências do estrangeiro efectuadas através do sistema bancário ou pelos serviços dos correios por meio de vales internacionais;
 
@@ -141,19 +176,19 @@ c) Pelos juros vencidos a pagar pelo depositário.
 
 2. Fora dos casos previstos no número anterior, o crédito nestas contas só pode realizar-se com autorização especial e prévia do Banco de Portugal.
 
-###### Art. 5.º 1. - As contas de depósito, quando à ordem, bem como com pré-aviso e a prazo, nos respectivos vencimentos, podem ser movimentadas a débito sem qualquer restrição.
+Art. 5.º 1. - As contas de depósito, quando à ordem, bem como com pré-aviso e a prazo, nos respectivos vencimentos, podem ser movimentadas a débito sem qualquer restrição.
 
 2. A movimentação que tenha por objecto a aquisição de bens imóveis não carece de qualquer especial autorização do Banco de Portugal para formalização do correspondente acto aquisitivo.
 
-###### Art. 6.º No caso de mobilização antecipada de fundos depositados a prazo, quer em escudos, quer em moeda estrangeira, aplica-se o disposto no [Decreto-Lei n.º 75-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-b-1977-509012), de 28 de Fevereiro.
+Art. 6.º No caso de mobilização antecipada de fundos depositados a prazo, quer em escudos, quer em moeda estrangeira, aplica-se o disposto no [Decreto-Lei n.º 75-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-b-1977-509012), de 28 de Fevereiro.
 
-###### Art. 7.º - 1. Sempre que na renovação de um depósito o titular tenha deixado de residir no estrangeiro há mais de um ano, o correspondente depósito deixa de beneficiar do regime de depósitos instituídos para os emigrantes portugueses ou equiparados, ficando, automaticamente, sujeito ao regime dos depósitos abertos em nome de residentes.
+Art. 7.º - 1. Sempre que na renovação de um depósito o titular tenha deixado de residir no estrangeiro há mais de um ano, o correspondente depósito deixa de beneficiar do regime de depósitos instituídos para os emigrantes portugueses ou equiparados, ficando, automaticamente, sujeito ao regime dos depósitos abertos em nome de residentes.
 
 2. A instituição de crédito depositária, sempre que tenha dúvidas quanto à manutenção da qualidade de emigrante ou equiparado por parte do titular de uma conta, pode exigir que o mesmo faça prova dessa qualidade, sob pena de se lhe aplicar o disposto no anterior n.º 1.
 
-###### Art. 8.º As instruções de natureza técnica que se venham a mostrar necessárias para a boa execução do presente diploma serão transmitidas às instituições de crédito por circular do Banco de Portugal.
+Art. 8.º As instruções de natureza técnica que se venham a mostrar necessárias para a boa execução do presente diploma serão transmitidas às instituições de crédito por circular do Banco de Portugal.
 
-###### Art. 9.º São revogados:
+Art. 9.º São revogados:
 
 a) O [Decreto-Lei n.º 545/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1976-430444), de 10 de Julho;
 
@@ -163,8 +198,8 @@ c) As alíneas b) e c) do artigo 7.º do [Decreto-Lei n.º 729-H/75](https://dia
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

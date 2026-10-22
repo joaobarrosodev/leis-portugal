@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19900/24472454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1980-469663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eedd99f86047a63fd97d8c69520f1c01e0159e88b34923484fd177ddc6f54b77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c60876ec03d5a3fe6f639db6baa3f49822cd31e6fe640c19153f2a65a44ce75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Biblioteca Nacional
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELA PORTARIA 118/83, PUBLICADA NO DR.IS, 27, DE 830202. ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 157/88,\
+    \ PUBLICADA NO DR.IS, 62, DE 880315. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:410282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564179:por
+  label: "Alterado o quadro de pessoal da Biblioteca Nacional de Lisboa, pela PORT.881/81.02.10.1981.PCM, DR.IS [227] de 02.10.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/881-1981-564179
+  date: '1981-10-02'
+- type: amended_by
+  target: pt:dre:421039:por
+  label: "Alargada a área de recrutamento para o lugar de chefe da divisão de Serviços de Investigação do quadro de pessoal\
+    \ aprovado pelo presente diploma, pela PORT.398/87.1987.05.12.MF DR.IS [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-1987-421039
+  date: '1987-05-12'
+- type: amended_by
+  target: pt:dre:421463:por
+  label: "Alargada a área de recrutamento para o lugar de chefe de divisão do quadro de pessoal aprovado pelo presente diploma,\
+    \ pela PORT.413/87.1987.05.18.MF DR.IS [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1987-421463
+  date: '1987-05-18'
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461780:por
+  label: Rectificado pela DECL.DD6916.26.09.1980.PCM, DR.IS [223] de 26.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-461780
+  date: '1980-09-26'
+- type: corrected_by
+  target: pt:dre:462437:por
+  label: Rectificada a Declaração DD6916, de 26 de Setembro de 1980, que rectificou o presente diploma, pela DECL.DD6822.20.10.1980.PCM,
+    DR.IS [243] de 20.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462437
+  date: '1980-10-20'
+- type: repealed_by
+  target: pt:dre:410282:por
+  label: "Revogado pelo DEC LEI.106-A/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-a-1992-410282
+  date: '1992-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:06Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +169,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Biblioteca Nacional, abreviadamente designada BN, é o organismo da Secretaria de Estado da Cultura encarregado de assegurar o tratamento e a conservação do património documental português que lhe é inerente:
+Artigo 1.º A Biblioteca Nacional, abreviadamente designada BN, é o organismo da Secretaria de Estado da Cultura encarregado de assegurar o tratamento e a conservação do património documental português que lhe é inerente:
 
 a) Produzido em Portugal;
 
@@ -112,11 +179,11 @@ c) Referente a Portugal, onde quer que seja produzido;
 
 d) Considerado de interesse para a cultura nacional.
 
-###### Art. 2.º - 1 - A BN é dotada de autonomia administrativa e financeira, com personalidade jurídica e património próprio.
+Art. 2.º - 1 - A BN é dotada de autonomia administrativa e financeira, com personalidade jurídica e património próprio.
 
 2 - A BN goza também de autonomia científica e técnica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pela Secretaria de Estado da Cultura.
 
-###### Art. 3.º São atribuições da BN:
+Art. 3.º São atribuições da BN:
 
 a) Receber e adquirir, tratar e conservar a documentação produzida em Portugal, em língua portuguesa, sobre Portugal e a considerada de interesse para a cultura nacional;
 
@@ -152,7 +219,7 @@ q) Organizar realizações de natureza formativa, quer a nível interno, quer ex
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º A BN compreende os seguintes órgãos e serviços:
+Art. 4.º A BN compreende os seguintes órgãos e serviços:
 
 a) Director;
 
@@ -172,11 +239,11 @@ h) Núcleo de Planeamento;
 
 i) Arquivo Histórico.
 
-###### Art. 5.º - 1 - O director é o órgão de direcção e representação da BN.
+Art. 5.º - 1 - O director é o órgão de direcção e representação da BN.
 
 2 - O director é coadjuvado no exercício das suas competências por um subdirector.
 
-###### Art. 6.º - 1 - Além do exercício das competências que lhe sejam conferidas nos termos da lei, compete ao director:
+Art. 6.º - 1 - Além do exercício das competências que lhe sejam conferidas nos termos da lei, compete ao director:
 
 a) Superintender nos serviços da BN e orientar e coordenar as suas actividades;
 
@@ -194,15 +261,15 @@ f) Superintender nas relações internacionais da BN e assegurar a representaç�
 
 3 - No âmbito das atribuições gerais da BN, o director poderá cometer às diversas unidades orgânicas funções não expressamente atribuídas no presente diploma.
 
-###### Art. 7.º O conselho administrativo é o órgão de gestão financeira e patrimonial da BN.
+Art. 7.º O conselho administrativo é o órgão de gestão financeira e patrimonial da BN.
 
-###### Art. 8.º - 1 - O conselho administrativo é composto pelo director da BN, por um representante da Direcção-Geral da Contabilidade Pública e pelo director de Serviços de Administração Geral, que secretariará.
+Art. 8.º - 1 - O conselho administrativo é composto pelo director da BN, por um representante da Direcção-Geral da Contabilidade Pública e pelo director de Serviços de Administração Geral, que secretariará.
 
 2 - Ao representante da Direcção-Geral da Contabilidade Pública serão atribuídas senhas de presença, nos termos da lei geral.
 
-###### Art. 9.º O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente quando for convocado pelo seu presidente, por sua iniciativa ou por solicitação de qualquer dos seus membros.
+Art. 9.º O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente quando for convocado pelo seu presidente, por sua iniciativa ou por solicitação de qualquer dos seus membros.
 
-###### Art. 10.º Compete ao conselho administrativo:
+Art. 10.º Compete ao conselho administrativo:
 
 a) Autorizar a realização de despesas, nos termos permitidos por lei;
 
@@ -218,9 +285,9 @@ f) Providenciar pela organização e manutenção do cadastro dos bens pertencen
 
 g) Apreciar as contas de gerência a submeter anualmente ao Tribunal de Contas.
 
-###### Art. 11.º O conselho técnico consultivo é o órgão de colaboração e consulta do director no exercício das atribuições da BN.
+Art. 11.º O conselho técnico consultivo é o órgão de colaboração e consulta do director no exercício das atribuições da BN.
 
-###### Art. 12.º O conselho técnico consultivo terá a seguinte constituição:
+Art. 12.º O conselho técnico consultivo terá a seguinte constituição:
 
 a) Director;
 
@@ -232,9 +299,9 @@ d) Um representante do pessoal de investigação;
 
 e) Cinco representantes do pessoal técnico superior.
 
-###### Art. 13.º O conselho técnico consultivo reunirá ordinariamente uma vez por mês e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.
+Art. 13.º O conselho técnico consultivo reunirá ordinariamente uma vez por mês e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.
 
-###### Art. 14.º Compete ao conselho técnico consultivo:
+Art. 14.º Compete ao conselho técnico consultivo:
 
 a) Colaborar na definição dos planos e programas de actividades;
 
@@ -246,9 +313,9 @@ d) Emitir parecer sobre critérios gerais de admissão, avaliação e selecção
 
 e) Propor ou dar parecer sobre medidas relativas ao desenvolvimento ou ampliação das actividades da BN.
 
-###### Art. 15.º À Direcção de Serviços de Coordenação Biblioteconómica cabe assegurar as acções que permitam aos utilizadores a consulta de fundos documentais da BN.
+Art. 15.º À Direcção de Serviços de Coordenação Biblioteconómica cabe assegurar as acções que permitam aos utilizadores a consulta de fundos documentais da BN.
 
-###### Art. 16.º A Direcção de Serviços de Coordenação Biblioteconómica compreende:
+Art. 16.º A Direcção de Serviços de Coordenação Biblioteconómica compreende:
 
 a) A Divisão de Serviços Biblioteconómicos Gerais;
 
@@ -256,7 +323,7 @@ b) A Divisão de Serviços dos Reservados;
 
 c) A Divisão de Serviços Especiais.
 
-###### Art. 17.º À Divisão de Serviços Biblioteconómicos Gerais, que compreende as áreas de aquisição, catalogação, classificação e análise, leitura geral e empréstimo, compete:
+Art. 17.º À Divisão de Serviços Biblioteconómicos Gerais, que compreende as áreas de aquisição, catalogação, classificação e análise, leitura geral e empréstimo, compete:
 
 a) Assegurar a entrada, registo e contrôle das espécies recebidas ao abrigo das normas relativas ao depósito legal e por compra, oferta ou permuta;
 
@@ -272,7 +339,7 @@ f) Assegurar o funcionamento da sala de leitura geral e respectivos depósitos;
 
 g) Elaborar e fornecer ao Núcleo de Planeamento os registos e estatísticas relativos à Direcção de Serviços.
 
-###### Art. 18.º À Divisão de Serviços dos Reservados, que compreende as áreas de manuscritos e impressos, compete o desempenho das tarefas específicas do seu âmbito de actividades, de forma a permitir a consulta dos seus fundos por parte dos utilizadores, e, nomeadamente:
+Art. 18.º À Divisão de Serviços dos Reservados, que compreende as áreas de manuscritos e impressos, compete o desempenho das tarefas específicas do seu âmbito de actividades, de forma a permitir a consulta dos seus fundos por parte dos utilizadores, e, nomeadamente:
 
 a) Catalogação e identificação do conteúdo das espécies;
 
@@ -282,7 +349,7 @@ c) Organização e edição dos respectivos catálogos;
 
 d) Funcionamento da sala de leitura e respectivo depósito.
 
-###### Art. 19.º À Divisão de Serviços Especiais, que compreende as áreas de periódicos, cartografia, iconografia, numismática e medalhística, áudio-visuais, deficientes visuais, publicações de organismos internacionais, publicações oficiais e antiguidades e obras de arte, compete assegurar o desempenho das tarefas específicas do seu âmbito de actividades, de forma a permitir a consulta por parte dos utilizadores, e, nomeadamente:
+Art. 19.º À Divisão de Serviços Especiais, que compreende as áreas de periódicos, cartografia, iconografia, numismática e medalhística, áudio-visuais, deficientes visuais, publicações de organismos internacionais, publicações oficiais e antiguidades e obras de arte, compete assegurar o desempenho das tarefas específicas do seu âmbito de actividades, de forma a permitir a consulta por parte dos utilizadores, e, nomeadamente:
 
 a) Catalogação e identificação do conteúdo das espécies;
 
@@ -292,15 +359,15 @@ c) Organização e edição dos catálogos respectivos;
 
 d) Funcionamento das salas de leitura que lhe estão afectas e respectivos depósitos.
 
-###### Art. 20.º À Direcção de Serviços de Investigação e de Actividades Culturais compete, em geral, desempenhar acções nos domínios da investigação e actividades culturais.
+Art. 20.º À Direcção de Serviços de Investigação e de Actividades Culturais compete, em geral, desempenhar acções nos domínios da investigação e actividades culturais.
 
-###### Art. 21.º A Direcção de Serviços de Investigação e de Actividades Culturais compreende:
+Art. 21.º A Direcção de Serviços de Investigação e de Actividades Culturais compreende:
 
 a) A Divisão dos Serviços de Investigação;
 
 b) A Divisão dos Serviços de Actividades Culturais.
 
-###### Art. 22.º À Divisão de Serviços de Investigação, que compreende as áreas de biblioteconomia, bibliografia nacional corrente (BNC) e contrôle bibliográfico universal (CBU), catálogos colectivos e actividades editoriais e publicações, compete:
+Art. 22.º À Divisão de Serviços de Investigação, que compreende as áreas de biblioteconomia, bibliografia nacional corrente (BNC) e contrôle bibliográfico universal (CBU), catálogos colectivos e actividades editoriais e publicações, compete:
 
 a) Assegurar as tarefas de tratamento documental necessárias ao funcionamento específico dos sectores que a compõem e zelar pelo funcionamento das respectivas salas de leitura;
 
@@ -324,7 +391,7 @@ j) Estudar os fundos impressos da BN e promover a sua divulgação através de m
 
 l) Tratar espólios, legados e doações de natureza documental e produzir sobre os mesmos os convenientes estudos.
 
-###### Art. 23.º À Divisão dos Serviços de Actividades Culturais compete:
+Art. 23.º À Divisão dos Serviços de Actividades Culturais compete:
 
 a) Organizar as realizações de natureza cultural de iniciativa da BN e apoiar as que forem solicitadas por outras entidades mediante autorização do membro do Governo que tutelar a área da cultura;
 
@@ -334,9 +401,9 @@ c) Coordenar o circuito de produção-comercialização das publicações da BN;
 
 d) Assegurar o serviço de relações com o público.
 
-###### Art. 24.º À Direcção de Serviços de Administração Geral compete desempenhar acções referentes aos domínios da gestão administrativa e de apoio geral aos serviços da BN.
+Art. 24.º À Direcção de Serviços de Administração Geral compete desempenhar acções referentes aos domínios da gestão administrativa e de apoio geral aos serviços da BN.
 
-###### Art. 25.º A Direcção de Serviços de Administração Geral compreende:
+Art. 25.º A Direcção de Serviços de Administração Geral compreende:
 
 a) A Divisão de Serviços Técnicos de Apoio;
 
@@ -344,7 +411,7 @@ b) A Repartição de Pessoal, Expediente e Serviços Gerais;
 
 c) A Repartição da Contabilidade, Património e Aprovisionamento.
 
-###### Art. 26.º - 1 - À Repartição de Pessoal, Expediente e Serviços Gerais compete:
+Art. 26.º - 1 - À Repartição de Pessoal, Expediente e Serviços Gerais compete:
 
 a) Desenvolver as acções relativas a uma boa gestão de recursos humanos;
 
@@ -366,7 +433,7 @@ a) Secção de Pessoal, a que compete a administração de pessoal;
 
 b) Secção de Expediente, a que compete assegurar o expediente geral e o arquivo.
 
-###### Art. 27.º - 1 - À Repartição de Contabilidade, Património e Aprovisionamento compete:
+Art. 27.º - 1 - À Repartição de Contabilidade, Património e Aprovisionamento compete:
 
 a) Organizar e manter actualizado o inventário e cadastro dos bens da BN;
 
@@ -386,7 +453,7 @@ a) A Secção de Contabilidade e Tesouraria, a que compete assegurar os serviço
 
 b) A Secção do Património e Aprovisionamento, a que compete assegurar os assuntos relativos ao património e aprovisionamento da BN.
 
-###### Art. 28.º À Divisão de Serviços Técnicos de Apoio, que inclui as áreas de laboratórios, oficinas e manutenção e obras, compete:
+Art. 28.º À Divisão de Serviços Técnicos de Apoio, que inclui as áreas de laboratórios, oficinas e manutenção e obras, compete:
 
 a) Assegurar a reprodução fotográfica das espécies conservadas na BN;
 
@@ -404,7 +471,7 @@ g) Assegurar o funcionamento dos sistemas de condicionamento de climatização n
 
 h) Zelar pela segurança das instalações e património.
 
-###### Art. 29.º À Divisão de Informática, chefiada por um chefe de divisão compete:
+Art. 29.º À Divisão de Informática, chefiada por um chefe de divisão compete:
 
 a) Definir os projectos informáticos, colaborar nos correspondentes sistemas de informação e definir o conteúdo e pormenor das informações necessárias;
 
@@ -418,7 +485,7 @@ e) Manter, gerir e explorar os ficheiros em suporte informático;
 
 f) Executar outros trabalhos que lhe sejam cometidos no domínio da informática.
 
-###### Art. 30.º - 1 - Ao Núcleo de Planeamento, que funciona na dependência da direcção, compete:
+Art. 30.º - 1 - Ao Núcleo de Planeamento, que funciona na dependência da direcção, compete:
 
 a) Recolher e tratar os registos e dados estatísticos relativos à actividade da BN;
 
@@ -428,7 +495,7 @@ c) Assegurar a necessária articulação com o Gabinete de Planeamento da Secret
 
 2 - O Núcleo de Planeamento será orientado por um técnico superior designado pelo director.
 
-###### Art. 31.º Ao Arquivo Histórico, que funciona na dependência da direcção, compete:
+Art. 31.º Ao Arquivo Histórico, que funciona na dependência da direcção, compete:
 
 a) Acolher, tratar e conservar documentação com mais de quarenta anos, resultante das actividades da BN como serviço público;
 
@@ -436,7 +503,7 @@ b) Facultar a consulta dos documentos mediante autorização superior.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 32.º - 1 - Constituem receitas da BN:
+Art. 32.º - 1 - Constituem receitas da BN:
 
 a) As dotações inscritas no Orçamento Geral do Estado;
 
@@ -458,27 +525,27 @@ i) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 2 - Compete ao membro do Governo que tutelar a área da cultura a fixação, por despacho, em cada ano económico, das taxas a cobrar pelos serviços referidos nas alíneas b), e) e h) do n.º 1 do presente artigo, bem como das condições em que pode verificar-se a isenção dessas taxas.
 
-###### Art. 33.º O depósito legal das receitas cobradas será efectuado nos termos da legislação aplicável.
+Art. 33.º O depósito legal das receitas cobradas será efectuado nos termos da legislação aplicável.
 
-###### Art. 34.º - 1 - Terão preferência no desembaraço aduaneiro as publicações, obras de arte, matérias-primas e bens de equipamento destinados à BN, quando a sua importação revista carácter de urgência e seja apresentado o competente pedido ao chefe da delegação aduaneira.
+Art. 34.º - 1 - Terão preferência no desembaraço aduaneiro as publicações, obras de arte, matérias-primas e bens de equipamento destinados à BN, quando a sua importação revista carácter de urgência e seja apresentado o competente pedido ao chefe da delegação aduaneira.
 
 2 - No pedido a que se refere o número anterior serão mencionados o termo de responsabilidade anualmente prestado pelo presidente do conselho administrativo e demais indicações relativas às mercadorias, devendo as ulteriores formalidades inerentes ao seu despacho alfandegário realizar-se no prazo de oito dias, contados da verificação das mesmas mercadorias.
 
 3 - As alfândegas poderão, sempre que o entenderem conveniente, proceder à verificação das mercadorias à chegada aos serviços a que se destinem.
 
-###### Art. 35.º - 1 - O património da BN é constituído pelos bens e direitos recebidos ou adquiridos para o exercício da sua actividade ou no exercício da mesma.
+Art. 35.º - 1 - O património da BN é constituído pelos bens e direitos recebidos ou adquiridos para o exercício da sua actividade ou no exercício da mesma.
 
 2 - O conselho administrativo deve gerir o património de acordo com as normas que regulam o domínio privado do Estado.
 
-###### Art. 36.º A BN pode promover directamente a realização de quaisquer obras de conservação e beneficiação das suas instalações até aos montantes que vierem a ser definidos por portaria conjunta do Ministério da Habitação e Obras Públicas e do membro do Governo que tutelar a área da cultura.
+Art. 36.º A BN pode promover directamente a realização de quaisquer obras de conservação e beneficiação das suas instalações até aos montantes que vierem a ser definidos por portaria conjunta do Ministério da Habitação e Obras Públicas e do membro do Governo que tutelar a área da cultura.
 
 ### CAPÍTULO IV
 
-###### Art. 37.º - 1 - A BN dispõe do pessoal constante do quadro anexo ao presente diploma, e que dele faz parte integrante.
+Art. 37.º - 1 - A BN dispõe do pessoal constante do quadro anexo ao presente diploma, e que dele faz parte integrante.
 
 2 - Os contingentes de pessoal fixado no quadro anexo podem ser alterados quando o desenvolvimento das acções que cabem à BN o justificar, por portaria conjunta do Ministro das Finanças e do Plano, do membro do Governo que tutelar a área da cultura e do membro do Governo que tiver a seu cargo a reforma administrativa.
 
-###### Art. 38.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
+Art. 38.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -492,7 +559,7 @@ b) Será exonerado ou regressará ao serviço de origem, conforme se trate de no
 
 5 - O tempo de serviço em regime de comissão conta para todos os efeitos legais, quer no lugar de origem, quando à comissão se não seguir provimento definitivo, quer quando findar a comissão.
 
-###### Art. 39 - 1 - As formas de provimento e os regimes de recrutamento do pessoal dirigente da BN são os seguintes:
+Art. 39 - 1 - As formas de provimento e os regimes de recrutamento do pessoal dirigente da BN são os seguintes:
 
 a) Os lugares de director, de subdirector, de director de serviços e de chefe de divisão serão providos nos termos da lei geral;
 
@@ -500,17 +567,17 @@ b) Os lugares de chefe de repartição serão providos de entre chefes de secç�
 
 2 - O cargo de director da BN é equiparado ao de director-geral e o de subdirector ao de subdirector-geral.
 
-###### Art. 40.º O pessoal de investigação é recrutado de entre indivíduos de reconhecida competência na área científica em que irão desempenhar as suas funções, da seguinte forma:
+Art. 40.º O pessoal de investigação é recrutado de entre indivíduos de reconhecida competência na área científica em que irão desempenhar as suas funções, da seguinte forma:
 
 a) Investigador principal - por concurso de provas públicas de apreciação curricular e discussão de um programa de investigação, de entre investigadores com, pelo menos, cinco anos de bom e efectivo serviço na categoria;
 
 b) Investigador - por concurso de provas públicas de apreciação curricular e discussão de um projecto de investigação, de entre pessoal técnico superior de 1.ª classe da BN ou de entre indivíduos de reconhecida competência e mérito no domínio da investigação.
 
-###### Art. 41.º O pessoal técnico superior será provido, de acordo com o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada, devendo os bibliotecários e conservadores possuir o curso respectivo.
+Art. 41.º O pessoal técnico superior será provido, de acordo com o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada, devendo os bibliotecários e conservadores possuir o curso respectivo.
 
-###### Art. 42.º O pessoal técnico será provido de acordo com o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com o curso superior adequado.
+Art. 42.º O pessoal técnico será provido de acordo com o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com o curso superior adequado.
 
-###### Art. 43.º - 1 - Os lugares de chefe de secção serão providos, sob proposta do director da BN, de entre primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nessa categoria.
+Art. 43.º - 1 - Os lugares de chefe de secção serão providos, sob proposta do director da BN, de entre primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nessa categoria.
 
 2 - O lugar de tesoureiro de 1.ª classe será provido, sob proposta do director da BN, de entre segundos-oficiais com, pelo menos, três anos de bom e efectivo serviço nessa categoria.
 
@@ -520,15 +587,15 @@ b) Investigador - por concurso de provas públicas de apreciação curricular e 
 
 5 - Os lugares de escriturário-dactilógrafo serão providos nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 44.º - 1 - Os lugares de técnico auxiliar de biblioteca serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 44.º - 1 - Os lugares de técnico auxiliar de biblioteca serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
 2 - Os lugares de técnico auxiliar principal e de 1.ª classe serão providos de entre, respectivamente, os técnicos auxiliares de 1.ª classe e os técnicos auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço.
 
 3 - Os técnicos auxiliares de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 45.º Os lugares das carreiras operárias serão providos nos termos previstos na [Portaria n.º 739/79](https://diariodarepublica.pt/dr/detalhe/portaria/739-1979-231330), de 31 de Dezembro.
+Art. 45.º Os lugares das carreiras operárias serão providos nos termos previstos na [Portaria n.º 739/79](https://diariodarepublica.pt/dr/detalhe/portaria/739-1979-231330), de 31 de Dezembro.
 
-###### Art. 46.º - 1 - Os auxiliares de biblioteca serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 46.º - 1 - Os auxiliares de biblioteca serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
 2 - Os lugares de operador de reprografia de 1.ª e 2.ª classes serão providos de entre, respectivamente, os operadores de reprografia de 2.ª e 3.ª classes com um mínimo de três anos de bom e efectivo serviço nessas categorias.
 
@@ -538,23 +605,23 @@ b) Investigador - por concurso de provas públicas de apreciação curricular e 
 
 5 - Os lugares de servente serão providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 47.º Os lugares das carreiras de pessoal de informática serão providos nos termos previstos no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 47.º Os lugares das carreiras de pessoal de informática serão providos nos termos previstos no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 48.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em outros lugares do quadro, poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário a requisitar e a anuência do membro do Governo de que depende, obtido parecer favorável do dirigente do serviço ou organismo de origem.
+Art. 48.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em outros lugares do quadro, poderá ser requisitado pessoal a outros organismos e serviços, com o acordo prévio do funcionário a requisitar e a anuência do membro do Governo de que depende, obtido parecer favorável do dirigente do serviço ou organismo de origem.
 
 2 - O período de requisição, que será previamente fixado, poderá ser prorrogado uma única vez, nunca devendo a duração da requisição exceder o prazo de um ano.
 
 3 - Os lugares de que sejam titulares no quadro de origem os funcionários requisitados poderão ser providos interinamente enquanto se mantiver a situação.
 
-###### Art. 49.º - 1 - O pessoal do quadro da BN poderá ser transitoriamente destacado para exercer funções em outro serviço ou organismo público e, inversamente, poderá o pessoal do quadro de outros serviços ou organismos públicos ser destacado para os serviços da BN.
+Art. 49.º - 1 - O pessoal do quadro da BN poderá ser transitoriamente destacado para exercer funções em outro serviço ou organismo público e, inversamente, poderá o pessoal do quadro de outros serviços ou organismos públicos ser destacado para os serviços da BN.
 
 2 - Os destacamentos a que se refere o número anterior dependem do acordo dos interessados, não podem exceder o período de seis meses, prorrogável até ao limite de um ano, e não prejudicam de nenhuma forma a situação dos funcionários em relação aos serviços de que dependem, os quais assegurarão as suas remunerações.
 
 3 - Os destacamentos carecem de autorização do membro do Governo de que depende o funcionário, obtido o parecer favorável dos dirigentes dos serviços ou organismos competentes.
 
-###### Art. 50.º Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a satisfação de necessidades que não possam ser asseguradas pelo pessoal do quadro, devendo os respectivos contratos ser celebrados nos termos da lei geral.
+Art. 50.º Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável para a satisfação de necessidades que não possam ser asseguradas pelo pessoal do quadro, devendo os respectivos contratos ser celebrados nos termos da lei geral.
 
-###### Art. 51.º - 1 - Sempre que houver necessidade de garantir o funcionamento dos serviços continuadamente para além do período normal de trabalho, poderão ser organizados horários de trabalho por turnos rotativos, que são havidos como períodos normais de trabalho, independentemente do dia da semana em que recaiam.
+Art. 51.º - 1 - Sempre que houver necessidade de garantir o funcionamento dos serviços continuadamente para além do período normal de trabalho, poderão ser organizados horários de trabalho por turnos rotativos, que são havidos como períodos normais de trabalho, independentemente do dia da semana em que recaiam.
 
 2 - Os turnos referidos no n.º 1 serão organizados por despacho do director da BN, seguindo-se as seguintes regras:
 
@@ -568,7 +635,7 @@ d) Ao pessoal que trabalha por turnos será garantido que o dia de descanso sema
 
 e) Ao trabalho extraordinário do pessoal que normalmente trabalha por turnos são aplicadas as regras gerais em vigor para o restante pessoal.
 
-###### Art. 52.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras estranhas aos serviços da BN.
+Art. 52.º - 1 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras estranhas aos serviços da BN.
 
 2 - O contrato referido no número anterior deverá ser reduzido a escrito, nele se fixando as obrigações mútuas e o prazo de duração.
 
@@ -576,7 +643,7 @@ e) Ao trabalho extraordinário do pessoal que normalmente trabalha por turnos s�
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 53.º - 1 - Enquanto não forem criados os cursos de formação a que se refere o n.º 1 do artigo 6.º do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, poderá a BN promover a realização de cursos de formação ou actualização profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 53.º - 1 - Enquanto não forem criados os cursos de formação a que se refere o n.º 1 do artigo 6.º do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, poderá a BN promover a realização de cursos de formação ou actualização profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
 2 - Enquanto não forem criados os cursos de formação previstos no n.º 1 do artigo 6.º do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, é considerada habilitação suficiente:
 
@@ -586,7 +653,7 @@ b) Para ingresso na carreira de técnicos auxiliares de biblioteca, no que se re
 
 c) Para ingresso na carreira de auxiliares de técnicos de biblioteca, de formação interna ministrada pela BN.
 
-###### Art. 54.º - 1 - O primeiro preenchimento dos lugares do quadro aprovado por este diploma será feito com a ordem de prioridade seguinte:
+Art. 54.º - 1 - O primeiro preenchimento dos lugares do quadro aprovado por este diploma será feito com a ordem de prioridade seguinte:
 
 a) Pessoal pertencente ao quadro da BN;
 
@@ -602,24 +669,24 @@ c) Pessoal em regime eventual ou que à data da entrada em vigor do presente dip
 
 5 - Os lugares do quadro que ficarem vagos após os primeiros provimentos serão preenchidos de acordo com as necessidades dos serviços da BN, na medida em que o consintam as disponibilidades orçamentais.
 
-###### Art. 55.º Os processos de primeiro provimento resultantes da aplicação deste diploma deverão dar entrada no Tribunal de Contas no prazo de sessenta dias após a entrada em vigor do presente diploma.
+Art. 55.º Os processos de primeiro provimento resultantes da aplicação deste diploma deverão dar entrada no Tribunal de Contas no prazo de sessenta dias após a entrada em vigor do presente diploma.
 
-###### Art. 56.º A execução do presente diploma no corrente ano fica condicionada à existência de disponibilidades financeiras no orçamento da BN.
+Art. 56.º A execução do presente diploma no corrente ano fica condicionada à existência de disponibilidades financeiras no orçamento da BN.
 
-###### Art. 57.º As dúvidas que ocorram na aplicação do presente diploma serão resolvidas por despacho do membro do Governo que tutelar a área da cultura, com o acordo do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a reforma administrativa, quando estiverem em causa matérias das suas competências.
+Art. 57.º As dúvidas que ocorram na aplicação do presente diploma serão resolvidas por despacho do membro do Governo que tutelar a área da cultura, com o acordo do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a reforma administrativa, quando estiverem em causa matérias das suas competências.
 
-###### Art. 58.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 58.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 13 de Agosto de 1980.**
+Promulgado em 13 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Quadro de pessoal da Biblioteca Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19900/24472454.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19900/24472454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19900/24472454.pdf)

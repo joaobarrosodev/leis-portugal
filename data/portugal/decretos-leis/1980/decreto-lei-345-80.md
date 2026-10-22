@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20200/24902493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1980-463995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6095e9fb1b2186d31222e1bdd4fe7b91a8578d5fe13d8985f7abd87298fa14df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22433ef5c61b89d07dc016ca8fdbff8a67cd5b68b39f9206ddd9bc1ae5a7e8ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armador
+- Construção Naval
+- Financiamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569350:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:547176:por
+  label: Revogado, na parte em que regula os esquemas de apoio financeiro a conceder a estaleiros, pelo DEC LEI.296/89.04.09.1989.MIE,
+    DR.IS [203] de 04.09.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1989-547176
+  date: '1989-09-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:17Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +148,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma regula os esquemas de apoio financeiro a conceder a estaleiros e a armadores nacionais relativamente à construção de navios novos e de estruturas metálicas flutuantes, ao jumboizing, às reconversões e grandes adaptações de navios.
+Artigo 1.º O presente diploma regula os esquemas de apoio financeiro a conceder a estaleiros e a armadores nacionais relativamente à construção de navios novos e de estruturas metálicas flutuantes, ao jumboizing, às reconversões e grandes adaptações de navios.
 
-###### Art. 2.º - 1 - Os apoios a conceder aos estaleiros são os seguintes:
+Art. 2.º - 1 - Os apoios a conceder aos estaleiros são os seguintes:
 
 a) Garantia de custos. - O diferencial entre o custo orçamentado reportado à data da conclusão dos trabalhos a que respeite e o correspondente ao momento da apresentação do pedido referido no artigo 4.º poderá ser coberto pelo Estado até ao limite de 25% do primeiro daqueles custos.
 
@@ -139,7 +166,7 @@ e) Garantias a prestar no financiamento à construção. - Usar-se-á a hipoteca
 
 2 - Os apoios financeiros previstos nas alíneas a), b) e c) do número anterior não poderão, em cada caso, ultrapassar, em conjunto, 25% do custo reportado à data da conclusão dos trabalhos.
 
-###### Art. 3.º - 1 - Os apoios a conceder ao armador respeitam às condições do crédito a obter no mercado financeiro interno, dentro do seguinte quadro de referência:
+Art. 3.º - 1 - Os apoios a conceder ao armador respeitam às condições do crédito a obter no mercado financeiro interno, dentro do seguinte quadro de referência:
 
 a) Montante do crédito a obter internamente. - Até ao limite de 80% do valor contratual (em correspondência com o nível de capitais próprios envolvidos, no caso de armador nacional);
 
@@ -155,15 +182,15 @@ d) Garantias a prestar pelo armador. - Usar-se-á a hipoteca do navio, completad
 
 4 - O limite do valor referido no número anterior será objecto de revisão nos termos do artigo 45.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943).
 
-###### Art. 4.º - 1 - Os pedidos de qualquer das formas de apoio financeiro previstas nos artigos anteriores serão apresentados pelos estaleiros e pelos armadores relativamente às encomendas a adjudicar por estes últimos.
+Art. 4.º - 1 - Os pedidos de qualquer das formas de apoio financeiro previstas nos artigos anteriores serão apresentados pelos estaleiros e pelos armadores relativamente às encomendas a adjudicar por estes últimos.
 
 2 - Os pedidos serão apresentados à Comissão de Assistência Financeira a Novas Construções em Estaleiros Navais, adiante designada por Comissão.
 
-###### Art. 5.º - 1 - A Comissão é presidida por um representante do Ministério das Finanças e do Plano e terá como membros permanentes representantes dos Ministérios da Indústria e Energia, da Agricultura e Pescas, dos Transportes e Comunicações e do Trabalho.
+Art. 5.º - 1 - A Comissão é presidida por um representante do Ministério das Finanças e do Plano e terá como membros permanentes representantes dos Ministérios da Indústria e Energia, da Agricultura e Pescas, dos Transportes e Comunicações e do Trabalho.
 
 2 - A Comissão, no exercício das suas funções, será completada com representantes dos Ministérios da Defesa Nacional e do Comércio e Turismo, se o projecto em apreciação respeitar ao apetrechamento da Armada ou a uma acção de exportação.
 
-###### Art. 6.º Os pedidos deverão conter pelo menos os seguintes elementos:
+Art. 6.º Os pedidos deverão conter pelo menos os seguintes elementos:
 
 a) Identificação do armador;
 
@@ -179,20 +206,20 @@ f) Análise previsional de exploração do navio por parte do armador, quando se
 
 g) Elementos necessários à realização da análise macroeconómica a que se refere o n.º 3 do artigo 3.º
 
-###### Art. 7.º A Comissão apreciará os elementos que lhe forem presentes, podendo solicitar outros de que careça ao estaleiro ou ao armador, bem como assessorar-se de técnicos de comprovada competência, a fim de poder avaliar devidamente os pedidos que lhe sejam presentes e formular a sua proposta final no prazo máximo de trinta dias a contar da apresentação daqueles.
+Art. 7.º A Comissão apreciará os elementos que lhe forem presentes, podendo solicitar outros de que careça ao estaleiro ou ao armador, bem como assessorar-se de técnicos de comprovada competência, a fim de poder avaliar devidamente os pedidos que lhe sejam presentes e formular a sua proposta final no prazo máximo de trinta dias a contar da apresentação daqueles.
 
-###### Art. 8.º - 1 - Com base na proposta da Comissão, os Ministros das Finanças e do Plano e da Indústria e Energia e ainda, conforme os casos, os Ministros da Defesa Nacional, da Agricultura e Pescas, do Comércio e Turismo ou dos Transportes e Comunicações decidirão por despacho conjunto os níveis de apoio a conceder em cada operação.
+Art. 8.º - 1 - Com base na proposta da Comissão, os Ministros das Finanças e do Plano e da Indústria e Energia e ainda, conforme os casos, os Ministros da Defesa Nacional, da Agricultura e Pescas, do Comércio e Turismo ou dos Transportes e Comunicações decidirão por despacho conjunto os níveis de apoio a conceder em cada operação.
 
 2 - Os apoios financeiros previstos nas alíneas a) a d) do n.º 1 do artigo 2.º e nas alíneas a) a c) do n.º 1 do artigo 3.º serão obrigatoriamente graduados em função do grau de incorporação nacional e conforme parecer a formular em cada caso pelo representante do Ministro da Indústria e Energia.
 
-###### Art. 9.º A bonificação das taxas de juro, na parte que exceda os limites atribuídos ao Banco de Portugal, no âmbito da orientação do Governo em matéria de política de desenvolvimento económico, será suportada por verbas directamente inscritas no OGE para o efeito.
+Art. 9.º A bonificação das taxas de juro, na parte que exceda os limites atribuídos ao Banco de Portugal, no âmbito da orientação do Governo em matéria de política de desenvolvimento económico, será suportada por verbas directamente inscritas no OGE para o efeito.
 
-###### Art. 10.º As verbas a considerar para efeitos de garantia de custos, de comparticipação no projecto, nos custos de formação e para bonificações complementares de taxas de juro deverão ser previstas em termos que atendam à característica plurianual das construções a que se refere o presente diploma e garantam a sua execução sem soluções de continuidade, para o que o Ministério das Finanças e do Plano poderá recorrer aos mecanismos e instrumentos adequados, designadamente os previstos na [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto.
+Art. 10.º As verbas a considerar para efeitos de garantia de custos, de comparticipação no projecto, nos custos de formação e para bonificações complementares de taxas de juro deverão ser previstas em termos que atendam à característica plurianual das construções a que se refere o presente diploma e garantam a sua execução sem soluções de continuidade, para o que o Ministério das Finanças e do Plano poderá recorrer aos mecanismos e instrumentos adequados, designadamente os previstos na [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 21 de Agosto de 1980.**
+Promulgado em 21 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

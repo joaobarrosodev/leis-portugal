@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/616-1971-166011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3a7f20d7caf3ab08e63418daa44464304cfae2f9d2e249b502f32ecbb3c05f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 405ef1939f83af0fa50e738e907f7253682d324c76b08f9407c27382d3b3981a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento de Água
+- Abono para Falhas
+- Ajudas de Custo
+- Delegação
+- Distribuição de Energia Elétrica
+- Federação de Municípios
+- Gestão de Recursos Humanos
+- Prémio de Produtividade
+- Proteção Social
+- Serviços Municipalizados
+- Subsídio de Transporte
+relationships:
+- type: cites
+  target: pt:dre:674849:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:40Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +115,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As federações de municípios podem atribuir ao pessoal dos quadros prémios de produtividade, nos termos que forem estabelecidos, com autorização do Ministro do Interior, nos respectivos regulamentos internos.
+Artigo 1.º As federações de municípios podem atribuir ao pessoal dos quadros prémios de produtividade, nos termos que forem estabelecidos, com autorização do Ministro do Interior, nos respectivos regulamentos internos.
 
-###### Art. 2.º O pessoal das federações de municípios que seja obrigado a efectuar serviços fora da localidade onde exerça normalmente as funções do seu cargo, ou que for fixada para centro da sua actividade funcional, tem direito ao abono para transportes e a ajudas de custo, nos termos das tabelas legalmente estabelecidas.
+Art. 2.º O pessoal das federações de municípios que seja obrigado a efectuar serviços fora da localidade onde exerça normalmente as funções do seu cargo, ou que for fixada para centro da sua actividade funcional, tem direito ao abono para transportes e a ajudas de custo, nos termos das tabelas legalmente estabelecidas.
 
-###### Art. 3.º - 1. As federações de municípios podem estabelecer delegações dos seus serviços, sempre que se mostre conveniente a respectiva desconcentração.
+Art. 3.º - 1. As federações de municípios podem estabelecer delegações dos seus serviços, sempre que se mostre conveniente a respectiva desconcentração.
 
 2. Quando as delegações compreendam serviços de tesouraria, poderão estes ser assegurados por proposto do tesoureiro ou por escriturário-dactilógrafo de 1.ª classe, aos quais será aplicável o disposto na parte final do § 7.º do artigo 142.º do Código Administrativo.
 
 3. A fiscalização e o funcionamento das delegações previstas neste artigo podem ser confiados, mediante autorização do corpo administrativo ou conselho de administração de que dependam e sem prejuízo das funções próprias dos seus cargos, a serventuários dos quadros das câmaras municipais e serviços municipalizados dos concelhos federados, os quais perceberão as gratificações que forem fixadas pela federação e aprovadas pelo Ministro do Interior.
 
-###### Art. 4.º - 1. As funções de tesoureiro de serviços municipalizados de concelhos integrados em federações de municípios que neles tenham sede poderão ser desempenhadas pelo tesoureiro da federação, mediante gratificação mensal a fixar nos termos do § 4.º do artigo 184.º do Código Administrativo.
+Art. 4.º - 1. As funções de tesoureiro de serviços municipalizados de concelhos integrados em federações de municípios que neles tenham sede poderão ser desempenhadas pelo tesoureiro da federação, mediante gratificação mensal a fixar nos termos do § 4.º do artigo 184.º do Código Administrativo.
 
 2. Com autorização dos respectivos conselhos de administração, podem outros serventuários dos quadros das federações de municípios prestar serviços remunerados por meio de gratificação, a fixar com observância do artigo 8.º do [Decreto-Lei n.º 40014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40014-1954-674849), de 31 de Dezembro de 1954, em serviços municipalizados dos concelhos federados.
 
-###### Art. 5.º - 1. Os indivíduos que ingressem nos quadros de pessoal das federações de municípios e se encontrem, à data da admissão, inscritos como beneficiários de qualquer caixa de previdência e abono de família, podem ser dispensados de inscrição na Caixa Geral de Aposentações.
+Art. 5.º - 1. Os indivíduos que ingressem nos quadros de pessoal das federações de municípios e se encontrem, à data da admissão, inscritos como beneficiários de qualquer caixa de previdência e abono de família, podem ser dispensados de inscrição na Caixa Geral de Aposentações.
 
 2. A dispensa de inscrição a que alude o número anterior depende ùnicamente de declaração escrita em tal sentido, apresentada pelo interessado no acto da posse.
 
@@ -122,22 +137,22 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O pessoal referido no número antecedente não poderá beneficiar de quaisquer regalias resultantes do regime de previdência estabelecido no estatuto jurídico do funcionalismo administrativo, ficando, porém, em tudo o mais submetido às disposições do mencionado estatuto.
 
-###### Art. 6.º O juízo competente para as execuções por dívidas às federações de municípios é o da câmara municipal do concelho do domicílio do devedor ou, se este não estiver abrangido na federação, o do município em cuja circunscrição administrativa se situar a respectiva sede.
+Art. 6.º O juízo competente para as execuções por dívidas às federações de municípios é o da câmara municipal do concelho do domicílio do devedor ou, se este não estiver abrangido na federação, o do município em cuja circunscrição administrativa se situar a respectiva sede.
 
-###### Art. 7.º - 1. Nos serviços municipalizados de distribuição de água ou de energia eléctrica a leitura dos contadores pode ser feita trimestralmente, devendo os consumos assim verificados ser cobrados em três prestações mensais, as duas primeiras de quantitativo igual ao valor do consumo médio mensal do ano anterior e a última da importância que se mostrar em dívida após a leitura.
+Art. 7.º - 1. Nos serviços municipalizados de distribuição de água ou de energia eléctrica a leitura dos contadores pode ser feita trimestralmente, devendo os consumos assim verificados ser cobrados em três prestações mensais, as duas primeiras de quantitativo igual ao valor do consumo médio mensal do ano anterior e a última da importância que se mostrar em dívida após a leitura.
 
 2. Tratando-se de novos consumidores, e enquanto não for possível observar o disposto no número anterior, o montante das duas primeiras prestações será calculado, por estimativa, em função das características do contador instalado e da rede interior, passando a ser estabelecido com base no valor do consumo médio mensal registado no 1.º trimestre, logo que se proceda à leitura.
 
 3. A receita proveniente da cobrança mensalmente realizada deverá dar entrada no cofre da tesouraria dos serviços até ao dia quinze de cada mês.
 
-###### Art. 8.º - 1. Ao pessoal dos quadros dos corpos administrativos e seus serviços municipalizados, bem como das federações de municípios, legalmente incumbido da cobrança de receitas fora das tesourarias respectivas, poderá ser concedido abono para falhas de quantitativo não excedente a metade do de idêntico abono a que tiver direito o tesoureiro responsável pelo cofre em que as receitas arrecadadas devam dar entrada.
+Art. 8.º - 1. Ao pessoal dos quadros dos corpos administrativos e seus serviços municipalizados, bem como das federações de municípios, legalmente incumbido da cobrança de receitas fora das tesourarias respectivas, poderá ser concedido abono para falhas de quantitativo não excedente a metade do de idêntico abono a que tiver direito o tesoureiro responsável pelo cofre em que as receitas arrecadadas devam dar entrada.
 
 2. O pessoal que receber abono para falhas prestará caução de montante a fixar nos regulamentos internos dos serviços a cujos quadros pertençam.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches - João Augusto Dias Rosas.
 
-**Promulgado em 28 de Dezembro de 1971.**
+Promulgado em 28 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

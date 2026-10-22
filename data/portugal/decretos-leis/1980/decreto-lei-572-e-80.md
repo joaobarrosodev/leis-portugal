@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 297/1980, 4º Suplemento, Série I de 1980-12-26
   number: '297'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4216-(56) a 4216-(58)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/29704/00560058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/572-e-1980-568107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d720f957a85db28bcf6fa27026583a8ad4a6e908b412db436d12e517652d3dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adfc8c90330b3e54593d9cf039cb5d9dc815ca8703fca806b0f9cd85b83cd181
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Obras Públicas e Transportes
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:638540:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638540:por
+  label: "Revogado, a partir de 01.06.2007, pelo DR.62/2007.29.05.2007.MOPTC, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/62-2007-638540
+  date: '2007-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:02Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +139,7 @@ Considerando, finalmente, que a natureza das funções do pessoal em causa acons
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal dirigente, conselheiro e técnico superior do Conselho Superior de Obras Públicas e Transportes (CSOPT) passa a ser o que figura no mapa anexo n.º 1.
+Artigo 1.º - 1 - O pessoal dirigente, conselheiro e técnico superior do Conselho Superior de Obras Públicas e Transportes (CSOPT) passa a ser o que figura no mapa anexo n.º 1.
 
 2 - O vencimento do presidente do CSOPT será fixado com base no da letra A, acrescido de 25%.
 
@@ -118,21 +149,21 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Por força dos artigos 4.º e 12.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, o pessoal dirigente referido no n.º 1 deste artigo, com excepção do chefe de repartição, passa ao regime de comissão de serviço e é-lhe assegurado o direito ao provimento definitivo na categoria indicada no mapa anexo n.º 2.
 
-###### Art. 2.º - 1 - As categorias de engenheiro inspector-geral de obras públicas, engenheiro inspector superior de obras públicas, engenheiro inspector superior electrotécnico e arquitecto inspector superior de obras públicas do quadro do pessoal do CSOPT passam a ter a designação única de inspector-geral de obras públicas e transportes.
+Art. 2.º - 1 - As categorias de engenheiro inspector-geral de obras públicas, engenheiro inspector superior de obras públicas, engenheiro inspector superior electrotécnico e arquitecto inspector superior de obras públicas do quadro do pessoal do CSOPT passam a ter a designação única de inspector-geral de obras públicas e transportes.
 
 2 - O número de lugares de presidente de secção acrescido do de inspectores-gerais de obras públicas e transportes é o correspondente ao dos lugares actualmente existentes para as categorias referidas no n.º 1 deste artigo, de acordo com o mapa I anexo ao [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
 
 3 - Em consequência do disposto no artigo 5.º do presente diploma, é criado no CSOPT um lugar de chefe de repartição, que acrescerá ao mapa I anexo ao [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
 
-###### Art. 3.º O actual pessoal referido no mapa anexo n.º 1 transita para as categorias nele indicadas, através de diplomas de provimento aprovados pelos Ministros da Habitação e Obras Públicas e dos Transportes e Comunicações, com dispensa de quaisquer outras formalidades, salvo o visto ou anotação do Tribunal de Contas.
+Art. 3.º O actual pessoal referido no mapa anexo n.º 1 transita para as categorias nele indicadas, através de diplomas de provimento aprovados pelos Ministros da Habitação e Obras Públicas e dos Transportes e Comunicações, com dispensa de quaisquer outras formalidades, salvo o visto ou anotação do Tribunal de Contas.
 
-###### Art. 4.º - 1 - O recrutamento do pessoal do CSOPT, a que se refere o mapa anexo n.º 1, far-se-á, até à publicação da nova lei orgânica, de acordo com a legislação em vigor, nomeadamente: o artigo 1.º do [Decreto-Lei n.º 99/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1971-445755), de 24 de Março, os n.os 2 e 3 do artigo 6.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, e o [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho.
+Art. 4.º - 1 - O recrutamento do pessoal do CSOPT, a que se refere o mapa anexo n.º 1, far-se-á, até à publicação da nova lei orgânica, de acordo com a legislação em vigor, nomeadamente: o artigo 1.º do [Decreto-Lei n.º 99/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1971-445755), de 24 de Março, os n.os 2 e 3 do artigo 6.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, e o [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho.
 
 2 - Os lugares de presidente de secção serão preenchidos por despacho conjunto dos Ministros da Habitação e Obras Públicas e dos Transportes e Comunicações entre os inspectores-gerais de obras públicas e transportes, por proposta do presidente do CSOPT, ouvidos estes.
 
 3 - O secretário do conselho será recrutado de entre chefes de divisão e assessores dos quadros de pessoal dos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações com licenciatura em Engenharia Civil, nos termos da lei geral. Finda a comissão de serviço, regressará ao quadro de origem.
 
-###### Art. 5.º - 1 - É criada no CSOPT uma Repartição dos Serviços Administrativos, com as secções de:
+Art. 5.º - 1 - É criada no CSOPT uma Repartição dos Serviços Administrativos, com as secções de:
 
 a) Expediente, Pessoal e Arquivo;
 
@@ -166,26 +197,26 @@ c) Assegurar, nos aspectos da sua utilização, conservação, vigilância e seg
 
 d) Promover a aquisição de bens necessários ao funcionamento do CSOPT e à sua inventariação, velando pelo bom aproveitamento e conservação dos mesmos.
 
-###### Art. 6.º Os encargos com o pessoal emergentes da publicação deste diploma poderão ser satisfeitos, durante o corrente ano, pelas disponibilidades das dotações orçamentais consignadas ao pagamento de remunerações certas e permanentes do pessoal do quadro do CSOPT.
+Art. 6.º Os encargos com o pessoal emergentes da publicação deste diploma poderão ser satisfeitos, durante o corrente ano, pelas disponibilidades das dotações orçamentais consignadas ao pagamento de remunerações certas e permanentes do pessoal do quadro do CSOPT.
 
-###### Art. 7.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros da Habitação e Obras Públicas e dos Transportes e Comunicações e do membro do Governo responsável pela função pública e também, quando envolverem matéria da sua competência, do Ministro das Finanças e do Plano.
+Art. 7.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros da Habitação e Obras Públicas e dos Transportes e Comunicações e do membro do Governo responsável pela função pública e também, quando envolverem matéria da sua competência, do Ministro das Finanças e do Plano.
 
-###### Art. 8.º São revogadas todas as disposições legais em vigor que contrariem o que no presente diploma se contém.
+Art. 8.º São revogadas todas as disposições legais em vigor que contrariem o que no presente diploma se contém.
 
-###### Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 26 de Dezembro de 1980.**
+Promulgado em 26 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA ANEXO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29704/00560058.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29704/00560058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29704/00560058.pdf)
 
 MAPA ANEXO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29704/00560058.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29704/00560058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29704/00560058.pdf)

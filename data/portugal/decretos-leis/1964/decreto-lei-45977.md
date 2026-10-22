@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45977-1964-537212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c04b9db6567489116de2340c9bff7dc93154e6d7be80937a7d042d1a5e3ad14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3895d05ba9274aa400579189de179c6ccb06c695e341295602dfb3a999b8b232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código da Contribuição Industrial
+- Código do Imposto Complementar
+- Código do Imposto Profissional
+relationships:
+- type: cites
+  target: pt:dre:432796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:51Z'
   warnings: []
   errors: []
 ---
@@ -89,23 +108,23 @@ Considerando que há que observar o disposto no artigo 6.º do [Decreto-Lei n.º
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aditados ao Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, os artigos 51.º-A e 101.º-A, com a seguinte redacção:
+Artigo 1.º São aditados ao Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, os artigos 51.º-A e 101.º-A, com a seguinte redacção:
 
-###### Art. 51.º-A. A Direcção-Geral das Contribuições e Impostos poderá efectuar as correcções que entender necessárias para a determinação do lucro tributável sempre que os resultados apurados, em face da escrita, relativamente a instalações situadas no território do continente e ilhas adjacentes, pertencentes a contribuintes que possuam quaisquer formas de representação permanente ou instalações comerciais ou industriais fora desse território, se afastem dos que se apurariam usando critérios correntes de imputação contabilística de custos e proveitos, bem como preços normais, considerando-se como tais os susceptíveis de serem atribuídos em caso de transacção efectuada em mercado livre entre um comprador e um vendedor independentes um do outro.
+Art. 51.º-A. A Direcção-Geral das Contribuições e Impostos poderá efectuar as correcções que entender necessárias para a determinação do lucro tributável sempre que os resultados apurados, em face da escrita, relativamente a instalações situadas no território do continente e ilhas adjacentes, pertencentes a contribuintes que possuam quaisquer formas de representação permanente ou instalações comerciais ou industriais fora desse território, se afastem dos que se apurariam usando critérios correntes de imputação contabilística de custos e proveitos, bem como preços normais, considerando-se como tais os susceptíveis de serem atribuídos em caso de transacção efectuada em mercado livre entre um comprador e um vendedor independentes um do outro.
 
 § único. Igual procedimento se adaptará para com os contribuintes que beneficiem de isenção parcial de contribuição industrial ou em relação aos quais se verifiquem a existência de posições de terceiros dominantes no capital ou interferências directas ou indirectas na gestão quando se reconheça que tais situações provocam desvios no apuramento dos resultados em prejuízo do cômputo da matéria colectável.
 
 ...
 
-###### Art. 101.º-A. A anulação referida no § 2.º do artigo 85.º será efectuada por dedução na colecta ou nas suas prestações que se encontrem por cobrar em 15 de Setembro, processando-se título de anulação pelo que exceda a importância em dívida.
+Art. 101.º-A. A anulação referida no § 2.º do artigo 85.º será efectuada por dedução na colecta ou nas suas prestações que se encontrem por cobrar em 15 de Setembro, processando-se título de anulação pelo que exceda a importância em dívida.
 
 § 1.º Para efeito do disposto neste artigo, as repartições de finanças averbarão até 15 de Setembro nos conhecimentos das colectas provisórias as anulações a que haja lugar, creditando o tesoureiro através da relação do modelo n.º 27 anexo ao Regulamento Geral da Administração Pública, documentada com os conhecimentos anulados na totalidade e com um certificado das anulações parciais devidamente discriminadas, indicando o número do conhecimento, o nome do contribuinte e a importância que se anulou.
 
 § 2.º Quando a importância por cobrar respeite às duas prestações, a anulação começará pela importância da segunda, computando-se na primeira o excedente, se o houver.
 
-###### Art. 2.º O artigo 14.º, n.º 25.º, o § único do artigo 27.º, o artigo 89.º, § 2.º, e o corpo do artigo 138.º passam a ter a seguinte redacção:
+Art. 2.º O artigo 14.º, n.º 25.º, o § único do artigo 27.º, o artigo 89.º, § 2.º, e o corpo do artigo 138.º passam a ter a seguinte redacção:
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
@@ -115,13 +134,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 § único. O lucro tributável das agências das sociedades de seguros com sede no estrangeiro será determinado aplicando à receita total dos respectivos prémios de seguros directos e de resseguros aceites a percentagem obtida pela relação percentual que existir em cada exercício entre a soma algébrica dos resultados líquidos das contas de ganhos e perdas de todas as sociedades nacionais e a receita total das mesmas sociedades em prémios de seguros directos e de resseguros aceites.
 
 ...
 
-###### Art. 89.º ...
+Art. 89.º ...
 
 ...
 
@@ -129,21 +148,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 138.º As decisões da Direcção-Geral das Contribuições e Impostos a que se referem os artigos 26.º, 30.º, 31.º, 35.º, 37.º, alínea a), 38.º, § único, 40.º, 41.º e 51.º-A, § único, que envolvam divergência com o critério do contribuinte ser-lhe-ão notificadas com indicação dos respectivos fundamentos.
+Art. 138.º As decisões da Direcção-Geral das Contribuições e Impostos a que se referem os artigos 26.º, 30.º, 31.º, 35.º, 37.º, alínea a), 38.º, § único, 40.º, 41.º e 51.º-A, § único, que envolvam divergência com o critério do contribuinte ser-lhe-ão notificadas com indicação dos respectivos fundamentos.
 
 ...
 
-###### Art. 3.º É aditada ao artigo 4.º do Código do Imposto Profissional, aprovado pelo [Decreto-Lei n.º 44305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44305-1962-516068), de 27 de Abril de 1962, a alínea i), com a seguinte redacção:
+Art. 3.º É aditada ao artigo 4.º do Código do Imposto Profissional, aprovado pelo [Decreto-Lei n.º 44305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44305-1962-516068), de 27 de Abril de 1962, a alínea i), com a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 ...
 
 i) Os vencimentos e quaisquer outras remunerações auferidos pela prestação de serviços nas infra-estruturas N. A. T. O. situadas em território nacional, nos termos do artigo 1.º do [Decreto-Lei n.º 45843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45843-1964-580100), de 1 de Agosto de 1964.
 
-###### Art. 4.º É aditado ao n.º 1 do artigo 8.º do Código do Imposto Complementar, aprovado pelo [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, a alínea z'), com a seguinte redacção:
+Art. 4.º É aditado ao n.º 1 do artigo 8.º do Código do Imposto Complementar, aprovado pelo [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, a alínea z'), com a seguinte redacção:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1.º ...
 
@@ -151,8 +170,8 @@ i) Os vencimentos e quaisquer outras remunerações auferidos pela prestação d
 
 z') Os vencimentos e quaisquer outras remunerações auferidas pela prestação de serviços nas infra-estruturas N. A. T. O. situadas em território nacional, nos termos do artigo 1.º do [Decreto-Lei n.º 45843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45843-1964-580100), de 1 de Agosto de 1964.
 
-###### Art. 5.º As disposições dos artigos 1.º e 2.º do presente diploma têm já aplicação na determinação do lucro tributável respeitante ao ano de 1963.
+Art. 5.º As disposições dos artigos 1.º e 2.º do presente diploma têm já aplicação na determinação do lucro tributável respeitante ao ano de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47240-1966-478208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b56b1b5360138baf68da38654b9037176b3060cd9f7de7a6270d8fdbb548787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2acaa9d8d35856bdd9a51ed917091d0d735c2418934ace9137222aa9c99122c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Geral dos Serviços Eléctricos
+- Direcção Geral dos Serviços Hidráulicos
+- Energia Elétrica
+- Governo
+- Inventário
+- Investimento Público
+- Projeto de Investimento
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:313646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:34Z'
   warnings: []
   errors: []
 ---
@@ -136,13 +167,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Governo, através dos departamentos competentes, promoverá os estudos necessários para completar e manter actualizado o inventário dos recursos hidroeléctricos nacionais e para a elaboração dos projectos dos centros produtores de energia eléctrica de origem hidráulica, quer se destinem apenas à produção da energia, quer a fins múltiplos.
+Artigo 1.º O Governo, através dos departamentos competentes, promoverá os estudos necessários para completar e manter actualizado o inventário dos recursos hidroeléctricos nacionais e para a elaboração dos projectos dos centros produtores de energia eléctrica de origem hidráulica, quer se destinem apenas à produção da energia, quer a fins múltiplos.
 
-###### Art. 2.º Os estudos referidos no artigo anterior, na parte que não for realizada directamente pelos serviços oficiais, serão confiados às empresas concessionárias dos aproveitamentos hidroeléctricos incluídos na rede eléctrica primária, devendo, para esse fim, ser postos à disposição das empresas incumbidas de tais trabalhos todos os elementos relativos a estudos da mesma natureza efectuados pela Direcção-Geral dos Serviços Hidráulicos ou por outras entidades, bem como os demais elementos de informação disponíveis.
+Art. 2.º Os estudos referidos no artigo anterior, na parte que não for realizada directamente pelos serviços oficiais, serão confiados às empresas concessionárias dos aproveitamentos hidroeléctricos incluídos na rede eléctrica primária, devendo, para esse fim, ser postos à disposição das empresas incumbidas de tais trabalhos todos os elementos relativos a estudos da mesma natureza efectuados pela Direcção-Geral dos Serviços Hidráulicos ou por outras entidades, bem como os demais elementos de informação disponíveis.
 
 § único. Os trabalhos de inventário dos recursos hidroeléctricos nacionais serão orientados pela Direcção-Geral dos Serviços Hidráulicos, à qual compete a definição dos elementos a reunir e a coordenação entre os estudos das empresas e os que aquela Direcção-Geral tenha empreendido ou venha a empreender directamente.
 
-###### Art. 3.º O Governo poderá determinar que as empresas concessionárias mencionadas no artigo 2.º executem, dentro de prazos a fixar:
+Art. 3.º O Governo poderá determinar que as empresas concessionárias mencionadas no artigo 2.º executem, dentro de prazos a fixar:
 
 a) Os anteprojectos dos aproveitamentos que lhes forem indicados, tendo em vista a definição das suas características essenciais, designadamente estimativa de custo, potência a instalar e energia produtível, permanente e temporária, em ano médio e no ano mais seco ou nos períodos hidrològicamente críticos que forem mais adequados;
 
@@ -150,26 +181,26 @@ b) Os projectos de aproveitamento cuja execução se considere conveniente, de h
 
 § único. As empresas deverão manter as Direcções-Gerais dos Serviços Hidráulicos e dos Serviços Eléctricos no conhecimento da forma como decorrem os trabalhos que lhes forem confiados.
 
-###### Art. 4.º As decisões do Governo previstas nos artigos 2.º e 3.º serão tomadas em despacho conjunto do Ministro das Obras Públicas e do Secretário de Estado da Indústria.
+Art. 4.º As decisões do Governo previstas nos artigos 2.º e 3.º serão tomadas em despacho conjunto do Ministro das Obras Públicas e do Secretário de Estado da Indústria.
 
-###### Art. 5.º As empresas concessionárias dos aproveitamentos hidroeléctricos incluídos na rede eléctrica primária ficam obrigadas a aceitar as concessões dos aproveitamentos projectados por determinação do Governo, nos termos do artigo 3.º, sempre que, assegurados os meios financeiros para a sua execução, as respectivas cláusulas garantam o equilíbrio económico da exploração.
+Art. 5.º As empresas concessionárias dos aproveitamentos hidroeléctricos incluídos na rede eléctrica primária ficam obrigadas a aceitar as concessões dos aproveitamentos projectados por determinação do Governo, nos termos do artigo 3.º, sempre que, assegurados os meios financeiros para a sua execução, as respectivas cláusulas garantam o equilíbrio económico da exploração.
 
 § único. Se a qualquer empresa for outorgada a concessão de aproveitamentos cujos estudos ou obras tenham sido executados por outra entidade, fica aquela empresa obrigada a pagar a esta entidade uma justa indemnização pelo montante das despesas comprovadamente ocasionadas por esses trabalhos, podendo essa indemnização, na falta de acordo entre os interessados, ser determinada com base nos elementos fornecidos pela referida entidade, ouvido o Conselho Superior de Obras Públicas, ou por outros meios que, em cada caso, o Governo entender mais adequados.
 
-###### Art. 6.º Os futuros aproveitamentos hidroeléctricos de regularização interanual, bem como aqueles cuja potência e localização o permitam sem encargos desproporcionados, serão integrados na rede eléctrica primária e as respectivas concessões outorgadas às empresas mencionadas no artigo 2.º, observando-se o condicionalismo imposto pelo artigo 5.º e seu parágrafo. Às mesmas empresas será confiada a exploração das centrais de futuros aproveitamentos de fins múltiplos executados pelo Estado, sem prejuízo da aplicação da regra estabelecida no artigo 98.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, nos casos correspondentes às condições previstas no § único do presente artigo.
+Art. 6.º Os futuros aproveitamentos hidroeléctricos de regularização interanual, bem como aqueles cuja potência e localização o permitam sem encargos desproporcionados, serão integrados na rede eléctrica primária e as respectivas concessões outorgadas às empresas mencionadas no artigo 2.º, observando-se o condicionalismo imposto pelo artigo 5.º e seu parágrafo. Às mesmas empresas será confiada a exploração das centrais de futuros aproveitamentos de fins múltiplos executados pelo Estado, sem prejuízo da aplicação da regra estabelecida no artigo 98.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, nos casos correspondentes às condições previstas no § único do presente artigo.
 
 § único. Poderão, contudo, ser outorgadas concessões a outras entidades quando se trate de aproveitamentos hidroeléctricos que constituam ampliação de centros produtores já existentes ou nos casos em que os encargos da sua ligação à rede de transporte, o valor da potência disponível e as características da energia produtível aconselhem que as respectivas centrais sejam ligadas directamente às redes de distribuição.
 
-###### Art. 7.º Na outorga das concessões poderão dispensar-se ou modificar-se as formalidades previstas no título III, capítulo II, do [Decreto n.º 5787-IIII](https://diariodarepublica.pt/dr/detalhe/decreto/5787-iiii-1919-274808), de 10 de Maio de 1919, no Regulamento do Aproveitamento das Aguas Públicas por Concessão, aprovado pelo [Decreto n.º 6287](https://diariodarepublica.pt/dr/detalhe/decreto/6287-1919-351149), de 20 de Dezembro de 1919, e no [Decreto n.º 16767](https://diariodarepublica.pt/dr/detalhe/decreto/16767-1929-356305), de 20 de Abril de 1929.
+Art. 7.º Na outorga das concessões poderão dispensar-se ou modificar-se as formalidades previstas no título III, capítulo II, do [Decreto n.º 5787-IIII](https://diariodarepublica.pt/dr/detalhe/decreto/5787-iiii-1919-274808), de 10 de Maio de 1919, no Regulamento do Aproveitamento das Aguas Públicas por Concessão, aprovado pelo [Decreto n.º 6287](https://diariodarepublica.pt/dr/detalhe/decreto/6287-1919-351149), de 20 de Dezembro de 1919, e no [Decreto n.º 16767](https://diariodarepublica.pt/dr/detalhe/decreto/16767-1929-356305), de 20 de Abril de 1929.
 
-###### Art. 8.º No âmbito geral da reorganização da indústria da electricidade é reconhecido carácter prioritário à reestruturação da rede eléctrica primária, com vista ao aperfeiçoamento da orgânica actual, à revisão e actualização do regime das concessões e à sistematização dos regimes tarifários de venda de energia, em alta e em baixa tensão.
+Art. 8.º No âmbito geral da reorganização da indústria da electricidade é reconhecido carácter prioritário à reestruturação da rede eléctrica primária, com vista ao aperfeiçoamento da orgânica actual, à revisão e actualização do regime das concessões e à sistematização dos regimes tarifários de venda de energia, em alta e em baixa tensão.
 
 § 1.º Para facilitar a realização dos objectivos referidos no corpo deste artigo, o Secretário de Estado da Indústria poderá determinar, por despacho, a realização dos estudos que forem considerados necessários. Estes estudos tanto poderão ser cometidos às empresas concessionárias como ao Repartidor Nacional de Cargas, ou a outras entidades ou organizações, nacionais ou estrangeiras, habilitadas.
 
 § 2.º Os estudos de reestruturação, depois de superiormente apreciados, serão submetidos às empresas da rede primária, que, nos termos dos seus estatutos, decidirão sobre o mérito das soluções que neles se contenham.
 
-###### Art. 9.º As instalações a que se refere a alínea c) do corpo do artigo 2.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, serão abrangidas por uma única concessão.
+Art. 9.º As instalações a que se refere a alínea c) do corpo do artigo 2.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, serão abrangidas por uma única concessão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.

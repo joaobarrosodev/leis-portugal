@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 298/1979, 3º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3414-(28) a 3414-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29803/00280031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m-1979-510013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75c2c817994aa96e4e98853c193ce64c0f548667d3005c82cd3d3f003369daf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5355ebbae0fb8b2fb37e256b1dbdcc93bdc54e25a411d8728ac8f5be320b73d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Ajudas de Custo
+- Deslocação em Serviço
+- Função Pública
 relationships:
 - type: amended_by
   target: pt:dre:176328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:282877:por
+  label: "Actualizados, a partir de 01.01.1988, os valores das ajudas de custo previstas no presente diploma, pelo DEC LEI.26/88.30.01.1988.MF,\
+    \ DR.IS [25] de 30.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1988-282877
+  date: '1988-01-30'
+- type: amended_by
+  target: pt:dre:614668:por
+  label: Actualizados a partir de 01.01.1989, os valores das ajudas de custo previstas no presente diploma, pelo(a) Decreto-Lei
+    n.º 98/89 - Diário da República n.º 73/1989, Série I de 1989-03-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1989-614668
+  date: '1989-03-29'
+- type: amended_by
+  target: pt:dre:497787:por
+  label: "Actualizados os valores das ajudas de custo previstas no presente diploma, pela PORT.53/91.19.01.1991.MF, DR.IS-B\
+    \ [16] de 19.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1991-497787
+  date: '1991-01-19'
+- type: amended_by
+  target: pt:dre:549389:por
+  label: "Actualizados os valores das ajudas de custo previstas no presente diploma, pela PORT.77-A/92.05.02.1992.MF, DR.IS-B\
+    \ [30]2ºSupl de 05.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-a-1992-549389
+  date: '1992-02-05'
+- type: amended_by
+  target: pt:dre:664491:por
+  label: "Actualizados os valores das ajudas de custo previstas no presente diploma, pela PORT.1164-A/92.18.12.1992.MF, DR.IS-B\
+    \ [291]2ºSupl de 18.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1164-a-1992-664491
+  date: '1992-12-18'
+- type: amended_by
+  target: pt:dre:501637:por
+  label: "Actualizados os valores das ajudas de custo previstas no presente diploma, pela PORT.79-A/94.04.02.1994.MF, DR.IS-B\
+    \ [29]2ºSupl de 04.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-a-1994-501637
+  date: '1994-02-04'
+- type: amended_by
+  target: pt:dre:620704:por
+  label: "Alterados os art.s 2º e 6º, pelo DEC LEI.248/94.1994.10.07.MPLAT, DR.IS-A [232], que substitui todas as referências\
+    \ a «residência oficial» pela expressão «domicílio profissional.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-1994-620704
+  date: '1994-10-07'
+- type: amended_by
+  target: pt:dre:667495:por
+  label: "Actualizados os valores das ajudas de custo previstas no presente diploma, pela PORT.1093-A/94.07.12.1994.MF, DR.IS-B\
+    \ [282]Supl de 07.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1093-a-1994-667495
+  date: '1994-12-07'
+- type: amended_by
+  target: pt:dre:694235:por
+  label: "Actualizados os valores das ajudas de custo previstas no presente diploma, pela PORT.101-A/96.04.04.1996.PCM, DR.IS-B\
+    \ [81]2ºSupl de 04.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-a-1996-694235
+  date: '1996-04-04'
+- type: amended_by
+  target: pt:dre:424351:por
+  label: "Alterados os valores das ajudas de custo previstas no presente diploma, pela PORT.29-A/98.1998.01.16.PCM, DR.IS-B\
+    \ [13]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-a-1998-424351
+  date: '1998-01-16'
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:367852:por
+  label: "Revogados os nºs 2 e 3 pelo DEC LEI.45/84.1984.02.03.PCM DR.IS [29]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1984-367852
+  date: '1984-02-03'
+- type: repealed_by
+  target: pt:dre:176328:por
+  label: "Revogado pelo DEC LEI.106/98.1998.04.24.PCM, DR.IS-A [96] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-1998-176328
+  date: '1998-04-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:21Z'
   warnings: []
   errors: []
 ---
@@ -286,8 +380,8 @@ Este diploma entra em vigor no primeiro dia útil do mês seguinte àquele em qu
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/22300/23462348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1977-278241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b3e7cff929db9e8c1f4ae5fc159e5316d577333aedfa3023e3a0a4e7aabd3b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9a4cc251994cb29f1c488667b19bf3ccc39e4199768be16645b5590ddf483e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ensino Profissional
+- Escola Profissional de Pesca
+- Formas de Provimento
+- Lisboa
+- Orgânica
+- Pesca
+- Pessoal Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:655516:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ": ALTERADA A DESIGNACAO DA ESCOLA, PARA ESCOLA PORTUGUESA DE PESCA, PELO DECRETO LEI 16/89, DE 11 DE JANEIRO, PUBLICADO\
+    \ NO DR.IS, 9, DE 890111.\01.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-01-11'
+- type: amended_by
+  target: pt:dre:655516:por
+  label: "Extinta pelo DEC LEI.322/93.1993.09.21.MM, DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1993-655516
+  date: '1993-09-21'
+- type: cites
+  target: pt:dre:472173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234358:por
+  label: Revogado pelo(a) Decreto-Lei n.º 16/89 - Diário da República n.º 9/1989, Série I de 1989-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1989-234358
+  date: '1989-01-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:40Z'
   warnings: []
   errors: []
 ---
@@ -100,25 +134,25 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, como estabelecimento de ensino profissional da pesca, a Escola Profissional de Pesca de Lisboa, cuja orgânica consta deste decreto-lei.
+Artigo 1.º É criada, como estabelecimento de ensino profissional da pesca, a Escola Profissional de Pesca de Lisboa, cuja orgânica consta deste decreto-lei.
 
-###### Art. 2.º A Escola Profissional de Pesca de Lisboa, adiante designada por Escola de Pesca, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa.
+Art. 2.º A Escola Profissional de Pesca de Lisboa, adiante designada por Escola de Pesca, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa.
 
-###### Art. 3.º - 1 - A Escola de Pesca constitui um estabelecimento do ensino profissional, tendo como atribuições preparar profissionais para as indústrias ligadas ao aproveitamento dos recursos vivos aquáticos, habilitando-os para o exercício das capturas, conservação e transformação do pescado e para a prática das culturas das espécies aquáticas.
+Art. 3.º - 1 - A Escola de Pesca constitui um estabelecimento do ensino profissional, tendo como atribuições preparar profissionais para as indústrias ligadas ao aproveitamento dos recursos vivos aquáticos, habilitando-os para o exercício das capturas, conservação e transformação do pescado e para a prática das culturas das espécies aquáticas.
 
 2 - Para os fins consignados no número anterior serão criados na Escola de Pesca cursos de habilitação, de aperfeiçoamento e de actualização, os quais poderão funcionar em regime de internato.
 
-###### Art. 4.º A Escola de Pesca conferirá as categorias profissionais de pesca a que se refere o Regulamento de Inscrição Marítima e Lotações dos Navios da Marinha Mercante e da Pesca e outras que vierem a ser instituídas em relação às actividades ligadas ao aproveitamento dos recursos vivos aquáticos.
+Art. 4.º A Escola de Pesca conferirá as categorias profissionais de pesca a que se refere o Regulamento de Inscrição Marítima e Lotações dos Navios da Marinha Mercante e da Pesca e outras que vierem a ser instituídas em relação às actividades ligadas ao aproveitamento dos recursos vivos aquáticos.
 
-###### Art. 5.º - 1 - Compete ao Secretário de Estado das Pescas, sob proposta do director da Escola de Pesca, ouvido o conselho pedagógico, criar e alterar, mediante portaria, os cursos, seus programas e condições de admissão, e fixar, se necessário, por despacho, o número máximo de alunos a ingressar na Escola de Pesca em cada curso e em cada ano lectivo.
+Art. 5.º - 1 - Compete ao Secretário de Estado das Pescas, sob proposta do director da Escola de Pesca, ouvido o conselho pedagógico, criar e alterar, mediante portaria, os cursos, seus programas e condições de admissão, e fixar, se necessário, por despacho, o número máximo de alunos a ingressar na Escola de Pesca em cada curso e em cada ano lectivo.
 
 2 - Tendo havido fixação de número máximo de alunos e verificando-se excesso de candidatos em relação ao número fixado, os critérios de selecção serão os que constarem do Regulamento Interno da Escola de Pesca, aprovado por portaria do Secretário de Estado das Pescas.
 
 3 - Mediante despacho do Secretário de Estado das Pescas, sob proposta do director da Escola de Pesca, ouvido o conselho pedagógico, poderá ser facultada a frequência da Escola de Pesca a alunos estrangeiros.
 
-###### Art. 6.º A Escola de Pesca funciona na dependência directa da Direcção-Geral da Administração-Geral das Pescas, da Secretaria de Estado das Pescas.
+Art. 6.º A Escola de Pesca funciona na dependência directa da Direcção-Geral da Administração-Geral das Pescas, da Secretaria de Estado das Pescas.
 
-###### Art. 7.º - 1 - A Escola de Pesca dispõe dos seguintes órgãos directivos:
+Art. 7.º - 1 - A Escola de Pesca dispõe dos seguintes órgãos directivos:
 
 a) Director da Escola;
 
@@ -144,7 +178,7 @@ O director da Escola, que presidirá;
 
 Um professor eleito, em representação do corpo docente;
 
-**O secretário da Escola.**
+O secretário da Escola.
 
 6 - O conselho pedagógico terá a seguinte constituição:
 
@@ -154,9 +188,9 @@ Um representante eleito de cada uma das secções de formação que vierem a ser
 
 7 - O modo de eleição dos representantes referidos nos n.os 5 e 6 do presente artigo será definido no regulamento interno da Escola de Pesca.
 
-###### Art. 8.º O funcionamento dos órgãos directivos será fixado no regulamento interno da Escola de Pesca.
+Art. 8.º O funcionamento dos órgãos directivos será fixado no regulamento interno da Escola de Pesca.
 
-###### Art. 9.º - 1 - A Escola de Pesca disporá de um conselho administrativo, constituído pelo director da Escola, que presidirá, pelo secretário da Escola e por dois vogais, a designar pelo conselho directivo de entre os docentes.
+Art. 9.º - 1 - A Escola de Pesca disporá de um conselho administrativo, constituído pelo director da Escola, que presidirá, pelo secretário da Escola e por dois vogais, a designar pelo conselho directivo de entre os docentes.
 
 2 - Compete ao conselho administrativo:
 
@@ -170,19 +204,19 @@ d) Organizar a contabilidade e fiscalizar a sua estruturação.
 
 3 - As despesas da Escola de Pesca serão realizadas por força das verbas consignadas no Orçamento Geral do Estado.
 
-###### Art. 10.º - 1 - O pessoal da Escola de Pesca consta do quadro anexo a este decreto-lei, que dele faz parte integrante.
+Art. 10.º - 1 - O pessoal da Escola de Pesca consta do quadro anexo a este decreto-lei, que dele faz parte integrante.
 
 2 - Os lugares constantes do quadro são previstos para o pleno funcionamento da Escola de Pesca e irão sendo preenchidos à medida das necessidades funcionais e das possibilidades orçamentais.
 
 3 - O pessoal da Escola de Pesca terá de possuir uma formação particularmente adequada aos cargos a desempenhar, tendo em atenção as características específicas das matérias cujo ensino será ministrado.
 
-###### Art. 11.º - 1 - O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos do presente diploma.
+Art. 11.º - 1 - O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos do presente diploma.
 
 2 - As nomeações de acordo com o número anterior terão carácter provisório durante um ano, findo o qual o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3 - Quando o provimento dos lugares recair em funcionário proveniente de outros serviços do Estado, o tempo de serviço neles prestado contará para efeitos de nomeação definitiva.
 
-###### Art. 12.º - 1 - Por despacho do Secretário de Estado das Pescas, sob proposta do director-geral da Administração-Geral das Pescas, os lugares do quadro serão providos de harmonia com as condições seguintes:
+Art. 12.º - 1 - Por despacho do Secretário de Estado das Pescas, sob proposta do director-geral da Administração-Geral das Pescas, os lugares do quadro serão providos de harmonia com as condições seguintes:
 
 a) O director da Escola será nomeado de entre indivíduos habilitados com curso superior;
 
@@ -198,15 +232,15 @@ f) O pessoal técnico bem como o pessoal administrativo e o pessoal auxiliar ser
 
 2 - O primeiro provimento dos lugares do quadro poderá fazer-se directamente para qualquer das categorias aí previstas.
 
-###### Art. 13.º - 1 - Enquanto não for assegurado um preenchimento dos lugares do quadro, poderá o director da Escola, ouvido o conselho pedagógico, sempre que as necessidades do ensino o exijam, contratar pessoal docente, em regime de prestação de serviço ou de tarefa, a tempo parcial ou tempo completo, contrato que não vinculará, de qualquer modo e em qualquer caso, o contrato do regime da função pública.
+Art. 13.º - 1 - Enquanto não for assegurado um preenchimento dos lugares do quadro, poderá o director da Escola, ouvido o conselho pedagógico, sempre que as necessidades do ensino o exijam, contratar pessoal docente, em regime de prestação de serviço ou de tarefa, a tempo parcial ou tempo completo, contrato que não vinculará, de qualquer modo e em qualquer caso, o contrato do regime da função pública.
 
 2 - O pessoal docente contratado nos termos do número anterior perceberá, durante a vigência do contrato e mensalmente, x/15 do vencimento que compete a igual categoria do quadro, sendo x o número de horas semanais a leccionar, até o máximo de quinze.
 
-###### Art. 14.º O director da Escola, ouvido o conselho pedagógico, poderá contratar, em regime de tarefa, para a realização de estudos, inquéritos, projectos ou outros trabalhos de carácter técnico, entidades nacionais ou estrangeiras estranhas ao serviço, contrato que não vinculará, de qualquer modo e em qualquer caso, o contratado ao regime da função pública.
+Art. 14.º O director da Escola, ouvido o conselho pedagógico, poderá contratar, em regime de tarefa, para a realização de estudos, inquéritos, projectos ou outros trabalhos de carácter técnico, entidades nacionais ou estrangeiras estranhas ao serviço, contrato que não vinculará, de qualquer modo e em qualquer caso, o contratado ao regime da função pública.
 
-###### Art. 15.º Sempre que na Escola de Pesca funcionem cursos na modalidade de internato, poderá o director da Escola, ouvido o conselho directivo, contratar, em regime de tarefa, o pessoal necessário à manutenção daquela modalidade, contrato que não vinculará, de qualquer modo e em qualquer caso, o contratado ao regime da função pública.
+Art. 15.º Sempre que na Escola de Pesca funcionem cursos na modalidade de internato, poderá o director da Escola, ouvido o conselho directivo, contratar, em regime de tarefa, o pessoal necessário à manutenção daquela modalidade, contrato que não vinculará, de qualquer modo e em qualquer caso, o contratado ao regime da função pública.
 
-###### Art. 16.º - 1 - Como órgão consultivo da Secretaria de Estado das Pescas, no âmbito da formação profissional, funcionará o conselho técnico profissional.
+Art. 16.º - 1 - Como órgão consultivo da Secretaria de Estado das Pescas, no âmbito da formação profissional, funcionará o conselho técnico profissional.
 
 2 - O conselho técnico profissional terá a seguinte constituição:
 
@@ -230,24 +264,24 @@ Representantes das associações de armadores.
 
 5 - O secretariado do conselho técnico profissional será assegurado por um funcionário da Escola de Pesca, a nomear pelo director da Escola. Este funcionário, que será designado por secretário do conselho, não terá direito a voto, cumprindo-lhe preparar todo o expediente relacionado com o conselho.
 
-###### Art. 17.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas, quando respeitantes ao regime de pessoal, por despacho conjunto do Ministro da Agricultura e Pescas e do Secretário de Estado da Administração Pública, sendo as dúvidas relativas ao ensino e formação profissional resolvidas por despacho do Secretário de Estado das Pescas.
+Art. 17.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas, quando respeitantes ao regime de pessoal, por despacho conjunto do Ministro da Agricultura e Pescas e do Secretário de Estado da Administração Pública, sendo as dúvidas relativas ao ensino e formação profissional resolvidas por despacho do Secretário de Estado das Pescas.
 
-###### Art. 18.º O Secretário de Estado das Pescas, ouvido o conselho técnico profissional, poderá alterar, mediante portaria, a orgânica da Escola de Pesca no que diz respeito a matéria estritamente relacionada com o ensino e formação profissional.
+Art. 18.º O Secretário de Estado das Pescas, ouvido o conselho técnico profissional, poderá alterar, mediante portaria, a orgânica da Escola de Pesca no que diz respeito a matéria estritamente relacionada com o ensino e formação profissional.
 
-###### Art. 19.º As alterações à orgânica da Escola de Pesca relativas ao regime de pessoal, ao quadro de pessoal e a matéria de carácter financeiro serão objecto de portaria conjunta dos Ministros da Agricultura e Pescas e das Finanças e do Secretário de Estado da Administração Pública.
+Art. 19.º As alterações à orgânica da Escola de Pesca relativas ao regime de pessoal, ao quadro de pessoal e a matéria de carácter financeiro serão objecto de portaria conjunta dos Ministros da Agricultura e Pescas e das Finanças e do Secretário de Estado da Administração Pública.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 22 de Julho de 1977.**
+Promulgado em 22 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal
 
 Escola Profissional de Pesca de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22300/23462348.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22300/23462348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/22300/23462348.pdf)
 
-**O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.**
+O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.

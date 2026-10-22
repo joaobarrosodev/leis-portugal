@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18100/18961910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d9f03e7580651a9cc6a753e595be006064fe3bbc6702f98c07322411f500494
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1ac5f5daf2b5143ad566e57e338e41b8543ad25075114a83c233d3c0574c180
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Instaladora
+- Definição de Competências
+- Empresa Pública
+- EPAC
+- Estatuto
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Instituto dos Cereais
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:404481:por
+  label: "Extinto o Instituto dos Cereais pelo DEC LEI.551/77.1977.12.31.MAP, DR.IS [302]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/551-1977-404481
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:587623:por
+  label: "Dada nova redacção ao nº 1 do art. 9º e art. 21º dos Estatutos da Empresa Pública do Abastecimento de Cereais (EPAC),\
+    \ aprovados pelo presente diploma, pelo DEC LEI.293-B/86.1986.09.12.MAPA, DR.IS [210]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-b-1986-587623
+  date: '1986-09-12'
+- type: amended_by
+  target: pt:dre:693841:por
+  label: "Determinado que a A EPAC - Empresa para Agroalimentação e Cereais, S. A., suceda automática e globalmente à Empresa\
+    \ Pública de Abastecimento de Cereais (EPAC) pelo DEC LEI.26/91.11.01.1991.MAPA, DR.IS-A [[9]] de 11.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1991-693841
+  date: '1991-01-11'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:291607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 84
+  article_count: 83
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:18Z'
   warnings: []
   errors: []
 ---
@@ -107,13 +164,13 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São instituídas as empresas públicas Empresa Pública do Abastecimento de Cereais, abreviadamente EPAC, e Instituto dos Cereais, E. P., abreviadamente ICEP.
+Artigo 1.º - 1. São instituídas as empresas públicas Empresa Pública do Abastecimento de Cereais, abreviadamente EPAC, e Instituto dos Cereais, E. P., abreviadamente ICEP.
 
 2. As duas empresas regem-se pela lei aplicável às empresas públicas, pelos regulamentos que vierem a ser aprovados e pelos estatutos que, em anexo, fazem parte integrante do presente decreto-lei.
 
 3. Ambas as empresas iniciarão a sua actividade na data fixada no decreto referido no n.º 2 do artigo 3.º do presente diploma.
 
-###### Art. 2.º - 1. A comissão de gestão do Instituto dos Cereais, nomeada por despacho ministerial de 13 de Abril de 1976, publicado no Diário da República, 2.ª série, n.º 108, de 8 de Maio do mesmo ano, assistida pelos representantes dos trabalhadores, será a comissão instaladora das duas empresas, para o que lhe são concedidos todos os poderes necessários ao exercício das respectivas funções, destacando-se como tarefas prioritárias:
+Art. 2.º - 1. A comissão de gestão do Instituto dos Cereais, nomeada por despacho ministerial de 13 de Abril de 1976, publicado no Diário da República, 2.ª série, n.º 108, de 8 de Maio do mesmo ano, assistida pelos representantes dos trabalhadores, será a comissão instaladora das duas empresas, para o que lhe são concedidos todos os poderes necessários ao exercício das respectivas funções, destacando-se como tarefas prioritárias:
 
 a) Proceder à estruturação dos serviços próprios das duas empresas, tendo em atenção os interesses dos sectores relacionados com o seu âmbito de actividade e através da sua auscultação;
 
@@ -125,25 +182,25 @@ d) Proceder a um inventário, afectando a cada uma das empresas o património, d
 
 2. A comissão de gestão referida no número anterior poderá ser oportunamente alargada por simples despacho do Ministro da Tutela.
 
-###### Art. 3.º - 1. A comissão instaladora referida no artigo anterior deverá, no prazo máximo de cento e oitenta dias, apresentar ao Ministro da Tutela as conclusões a que tenha chegado, devendo este, por portaria, aprovar os quadros do pessoal de ambas as empresas.
+Art. 3.º - 1. A comissão instaladora referida no artigo anterior deverá, no prazo máximo de cento e oitenta dias, apresentar ao Ministro da Tutela as conclusões a que tenha chegado, devendo este, por portaria, aprovar os quadros do pessoal de ambas as empresas.
 
 2. O Governo, através de decreto referendado pelo Primeiro-Ministro, pelo Ministro das Finanças e pelo Ministro da Tutela, atribuirá a cada uma das empresas agora criadas os respectivos património, direitos e obrigações, operando-se a respectiva transmissão por força do mesmo decreto, que servirá de título suficiente para todos os efeitos legais, inclusive os de registo.
 
 3. O decreto aludido no número anterior fixará a data do início da actividade de uma e outra empresas e extinguirá o Instituto dos Cereais.
 
-###### Art. 4.º Os poderes de tutela do Governo sobre as duas empresas criadas pelo presente decreto-lei são exercidos pelo Ministro do Comércio Interno, salvo disposição expressa em contrário.
+Art. 4.º Os poderes de tutela do Governo sobre as duas empresas criadas pelo presente decreto-lei são exercidos pelo Ministro do Comércio Interno, salvo disposição expressa em contrário.
 
-###### Art. 5.º O Governo, mediante proposta do Ministro do Comércio Interno, concederá às duas empresas as isenções tributárias de que justificadamente possam beneficiar.
+Art. 5.º O Governo, mediante proposta do Ministro do Comércio Interno, concederá às duas empresas as isenções tributárias de que justificadamente possam beneficiar.
 
-###### Art. 6.º As dúvidas que a interpretação e a aplicação do presente diploma possam suscitar serão resolvidas por despacho do Ministro do Comércio Interno.
+Art. 6.º As dúvidas que a interpretação e a aplicação do presente diploma possam suscitar serão resolvidas por despacho do Ministro do Comércio Interno.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ESTATUTOS DA EMPRESA PÚBLICA DO ABASTECIMENTO DE CEREAIS (EPAC)
 
@@ -583,7 +640,7 @@ g) Os membros dos órgãos da Empresa terão ainda direito às regalias sociais 
 
 2. Os membros dos órgãos da Empresa que, de harmonia com o número anterior, forem nomeados em substituição de outros cujo mandato haja cessado antes do seu termo normal manter-se-ão em funções até à data em que terminaria o mandato daqueles que substituíram.
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.
 
 ESTATUTOS DO INSTITUTO DOS CEREAIS, E. P. (ICEP)
 
@@ -1055,4 +1112,4 @@ g) Os membros dos órgãos da empresa terão ainda direito às regalias sociais 
 
 2. Os membros dos órgãos da empresa que, de harmonia com o número anterior forem nomeados em substituição de outros cujo mandato haja cessado antes do seu termo normal manter-se-ão em funções até a data em que terminaria o mandato daqueles que substituíram.
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

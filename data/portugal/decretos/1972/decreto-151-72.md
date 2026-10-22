@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22b27702549365252ab49722de41db44340756678c945b08f53c0195dca7f2c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88d0ade793ddc231fde2a97fc0519b3912c90073e49b024f229b514d5256efe3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto sobre a Produção de Petróleo
+- Imposto sobre o Rendimento do Petróleo
+- Petróleo
+- Prospecção de Petróleo
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332926:por
+  label: "Dada nova redacção ao art. 15.º e revogados os n.ºs 3 a 7 do art. 14.º, o art. 16.º, o n.º 2 do art. 26.º, o art.\
+    \ 44.º e a al. c) do art. 80.º, pelo DR.45-A/80.1980.09.09.MFP DR.IS [208]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-a-1980-332926
+  date: '1980-09-09'
+- type: cites
+  target: pt:dre:160170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590108:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.02.05.1990.MIE, DR.IS [100] de 02.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:55Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +138,13 @@ Dada a necessidade de regulamentar a execução do [Decreto-Lei n.º 625/71](htt
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento da Renda de Superfície, do Imposto sobre a Produção de Petróleo (Royalty) e do Imposto sobre o Rendimento do Petróleo, criado pelo [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), de 31 de Dezembro, o qual segue assinado pelo Ministro das Finanças e da Economia e faz parte integrante do presente diploma.
+Artigo único. É aprovado o Regulamento da Renda de Superfície, do Imposto sobre a Produção de Petróleo (Royalty) e do Imposto sobre o Rendimento do Petróleo, criado pelo [Decreto-Lei n.º 625/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/625-1971-165993), de 31 de Dezembro, o qual segue assinado pelo Ministro das Finanças e da Economia e faz parte integrante do presente diploma.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 12 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 12 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República MARCELLO CAETANO.
 
@@ -109,7 +154,7 @@ Regulamento da Renda de Superfície, do Imposto sobre a Produção de Petróleo 
 
 Definições
 
-###### Artigo 1.º Para efeitos do presente Regulamento, entende-se por:
+Artigo 1.º Para efeitos do presente Regulamento, entende-se por:
 
 1 - Petróleo. - Mistura natural de hidrocarbonetos líquidos ou gasosos, incluindo todas as substâncias de qualquer natureza que com eles se encontrem em combinação, suspensão ou mistura, com exclusão dos hidrocarbonetos sólidos e de todas as concentrações de hidrocarbonetos naturais cuja exploração não possa ser feita pelos métodos normais de exploração por sondagem.
 
@@ -133,7 +178,7 @@ Definições
 
 Incidência
 
-###### Art. 2.º - 1. As pessoas singulares ou colectivas detentoras de concessões para prospecção, pesquisa, desenvolvimento e exploração de petróleo em Portugal europeu, compreendida a respectiva plataforma continental, estão sujeitas ao pagamento ao Estado de uma renda de superfície anual cujo montante será fixado para cada concessão por despacho do Ministro das Finanças e do Secretário de Estado da Indústria entre os limites de 100$00 e 20000$00 por quilómetro quadrado ou fracção.
+Art. 2.º - 1. As pessoas singulares ou colectivas detentoras de concessões para prospecção, pesquisa, desenvolvimento e exploração de petróleo em Portugal europeu, compreendida a respectiva plataforma continental, estão sujeitas ao pagamento ao Estado de uma renda de superfície anual cujo montante será fixado para cada concessão por despacho do Ministro das Finanças e do Secretário de Estado da Indústria entre os limites de 100$00 e 20000$00 por quilómetro quadrado ou fracção.
 
 2. A renda fixada será, dentro dos limites estabelecidos no número anterior, objecto de actualização, de cinco em cinco anos, de acordo com a variação do valor do escudo.
 
@@ -141,33 +186,33 @@ Incidência
 
 Liquidação
 
-###### Art. 3.º A liquidação da renda de superfície será efectuada pela Direcção-Geral de Minas e Serviços Geológicos em mapa de que extrairá, para remessa à repartição de finanças do concelho ou bairro da sede do contribuinte ou, sendo esta situada fora do território português europeu, no concelho ou bairro onde estiver situada a sua representação permanente neste território, até ao dia 10 de Dezembro, nota com os elementos necessários para o processamento dos respectivos conhecimentos.
+Art. 3.º A liquidação da renda de superfície será efectuada pela Direcção-Geral de Minas e Serviços Geológicos em mapa de que extrairá, para remessa à repartição de finanças do concelho ou bairro da sede do contribuinte ou, sendo esta situada fora do território português europeu, no concelho ou bairro onde estiver situada a sua representação permanente neste território, até ao dia 10 de Dezembro, nota com os elementos necessários para o processamento dos respectivos conhecimentos.
 
-###### Art. 4.º - 1. Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões de que resultou prejuízo para o Estado, a Direcção-Geral de Minas e Serviços Geológicos deverá repará-los mediante liquidação adicional, mas sempre com observância do disposto no artigo 5.º
+Art. 4.º - 1. Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões de que resultou prejuízo para o Estado, a Direcção-Geral de Minas e Serviços Geológicos deverá repará-los mediante liquidação adicional, mas sempre com observância do disposto no artigo 5.º
 
 2. Efectuada a liquidação adicional será imediatamente remetida à respectiva repartição de finanças a nota com os elementos necessários ao processamento dos respectivos conhecimentos.
 
 3. Se, por virtude de omissão no mapa da liquidação, deixar de liquidar-se renda de superfície no prazo normal, proceder-se-á à respectiva liquidação, observando-se o disposto nos n.os 1 e 2 deste artigo.
 
-###### Art. 5.º Só poderá ser liquidada renda de superfície até ao fim dos cinco anos seguintes àquele a que respeite.
+Art. 5.º Só poderá ser liquidada renda de superfície até ao fim dos cinco anos seguintes àquele a que respeite.
 
 Cobrança
 
-###### Art. 6.º - 1. Em face da nota referida no artigo 3.º, as repartições de finanças processarão os respectivos conhecimentos de forma que sejam entregues nas tesourarias da Fazenda Pública até ao dia 20 de Dezembro, devendo os tesoureiros expedir até 25 desse mês os avisos para pagamento à boca do cofre e por uma só vez durante o mês de Janeiro do ano a que a renda respeite.
+Art. 6.º - 1. Em face da nota referida no artigo 3.º, as repartições de finanças processarão os respectivos conhecimentos de forma que sejam entregues nas tesourarias da Fazenda Pública até ao dia 20 de Dezembro, devendo os tesoureiros expedir até 25 desse mês os avisos para pagamento à boca do cofre e por uma só vez durante o mês de Janeiro do ano a que a renda respeite.
 
 2. A renda relativa ao primeiro ano será paga em conjunto com a do ano imediato.
 
-###### Art. 7.º - 1. Nos casos de omissão no mapa da liquidação e de liquidação adicional, o contribuinte será notificado pela respectiva repartição de finanças para satisfazer o pagamento dentro de quinze dias.
+Art. 7.º - 1. Nos casos de omissão no mapa da liquidação e de liquidação adicional, o contribuinte será notificado pela respectiva repartição de finanças para satisfazer o pagamento dentro de quinze dias.
 
 2. Se o não fizer, proceder-se-á a cobrança virtual, sem prejuízo do direito de reclamação e impugnação, devendo o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.
 
-###### Art. 8.º Não sendo a renda paga no mês do vencimento começarão a correr imediatamente juros de mora.
+Art. 8.º Não sendo a renda paga no mês do vencimento começarão a correr imediatamente juros de mora.
 
-###### Art. 9.º Passados sessenta dias sobre o vencimento da renda sem que se mostre efectuado o respectivo pagamento, haverá procedimento executivo.
+Art. 9.º Passados sessenta dias sobre o vencimento da renda sem que se mostre efectuado o respectivo pagamento, haverá procedimento executivo.
 
 Reclamações e recursos
 
-###### Art. 10.º - 1. Os contribuintes e as pessoas solidárias ou subsidiàriamente responsáveis pelo pagamento da renda de superfície poderão reclamar contra a liquidação desta, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 10.º - 1. Os contribuintes e as pessoas solidárias ou subsidiàriamente responsáveis pelo pagamento da renda de superfície poderão reclamar contra a liquidação desta, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 2. O processo gracioso correrá seus termos na Direcção-Geral de Minas e Serviços Geológicos, devendo a reclamação ser dirigida ao director-geral, ao qual compete a respectiva decisão.
 
@@ -175,11 +220,11 @@ Reclamações e recursos
 
 4. A impugnação judicial, dirigida ao tribunal competente, será apresentada, em duplicado, na repartição de finanças do concelho ou bairro em que a renda de superfície deva ser paga, devendo o duplicado ser remetido por essa repartição à Direcção-Geral de Minas e Serviços Geológicos para que esta preste as informações que tiver por convenientes com vista à instrução do processo nos termos do artigo 93.º do respectivo Código.
 
-###### Art. 11.º - 1. Quando, por motivos imputáveis aos serviços, tenha sido liquidada renda de superfície superior à devida, a Direcção-Geral de Minas e Serviços Geológicos procederá à anulação oficiosa, se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
+Art. 11.º - 1. Quando, por motivos imputáveis aos serviços, tenha sido liquidada renda de superfície superior à devida, a Direcção-Geral de Minas e Serviços Geológicos procederá à anulação oficiosa, se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
 
 2. Não se procederá a anulação quando o seu quantitativo seja inferior a 50$00.
 
-###### Art. 12.º - 1. Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido na renda, arrecadada por cobrança virtual.
+Art. 12.º - 1. Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido na renda, arrecadada por cobrança virtual.
 
 2. Tratando-se de anulações resultantes de decisões proferidas na Direcção-Geral de Minas e Serviços Geológicos ou em processo gracioso, serão os títulos processados por essa Direcção-Geral e imediatamente remetidos à repartição de finanças competente para a cobrança da renda.
 
@@ -191,13 +236,13 @@ Reclamações e recursos
 
 Incidência
 
-###### Art. 13.º - 1. A produção de petróleo em Portugal europeu, compreendida a respectiva plataforma continental, fica sujeita a imposto sobre a produção de petróleo (royalty).
+Art. 13.º - 1. A produção de petróleo em Portugal europeu, compreendida a respectiva plataforma continental, fica sujeita a imposto sobre a produção de petróleo (royalty).
 
 2. O imposto é devido pela entidade ou entidades que tenham participação no petróleo produzido e em relação à parte que a cada uma compete.
 
 Determinação da matéria colectável
 
-###### Art. 14.º - 1. A produção tributável corresponderá às quantidades de ramas, gás comercial e gasolina natural, determinadas no ponto de medida fixado pela fiscalização, deduzidas das quantidades consumidas in natura nas operações de prospecção, pesquisa, desenvolvimento e exploração.
+Art. 14.º - 1. A produção tributável corresponderá às quantidades de ramas, gás comercial e gasolina natural, determinadas no ponto de medida fixado pela fiscalização, deduzidas das quantidades consumidas in natura nas operações de prospecção, pesquisa, desenvolvimento e exploração.
 
 2. A dedução das quantidades consumidas in natura só poderá ser aceite depois de aprovada pelo serviço competente da Direcção-Geral de Minas e Serviços Geológicos.
 
@@ -211,7 +256,7 @@ Determinação da matéria colectável
 
 7. Tratando-se de imposto pago em espécie, a compensação da parte anulada em virtude da decisão do tribunal arbitral será feita conforme for acordado entre o contribuinte e a Direcção-Geral de Minas e Serviços Geológicos.
 
-###### Art. 15.º - 1. Quando o imposto deva ser pago em dinheiro, o valor em escudos da produção tributável será determinado de acordo com as alíneas seguintes:
+Art. 15.º - 1. Quando o imposto deva ser pago em dinheiro, o valor em escudos da produção tributável será determinado de acordo com as alíneas seguintes:
 
 a) Para as quantidades de ramas ou gasolina natural produzidas que sejam vendidas às refinarias instaladas na metrópole para tratamento, por qualquer processo e para qualquer fim, ou ao Governo, ao abrigo de direito preferencial de compra contratualmente estabelecido, as respectivas valorizações serão feitas aos preços reais;
 
@@ -231,7 +276,7 @@ f) Para as quantidades a que se refere o n.º 3 do artigo anterior, o valor ser�
 
 4. Quando o recurso de que trata o número anterior for totalmente desatendido, o Secretário de Estado da Indústria poderá fixar, a título de custas, um agravamento ao imposto, graduado conforme as circunstâncias, mas nunca superior a 5 por cento.
 
-###### Art. 16.º - 1. Para efeitos do artigo anterior, os «preços afixados» (posted prices) referidos na alínea b) do seu n.º 1 serão determinados pelo contribuinte com base nos «preços afixados» (posted prices) de ramas de qualidade e densidade comparáveis e vigorando nos principais centros internacionais de exportação de ramas, tendo em conta as diferenças de qualidade, densidade, situação geográfica e outros factores relevantes.
+Art. 16.º - 1. Para efeitos do artigo anterior, os «preços afixados» (posted prices) referidos na alínea b) do seu n.º 1 serão determinados pelo contribuinte com base nos «preços afixados» (posted prices) de ramas de qualidade e densidade comparáveis e vigorando nos principais centros internacionais de exportação de ramas, tendo em conta as diferenças de qualidade, densidade, situação geográfica e outros factores relevantes.
 
 2. Para as gasolinas naturais, consideram-se como «preços afixados» (posted prices) os preços F. O. B. da gasolina de refinação correntes no centro exportador deste refinado mais próximo de Lisboa, feitas as necessárias correcções relativas à sua composição, preços dos constituintes leves e outros factores relevantes.
 
@@ -245,7 +290,7 @@ f) Para as quantidades a que se refere o n.º 3 do artigo anterior, o valor ser�
 
 7. O contravalor em escudos dos «preços afixados» em dólares dos Estados Unidos da América por unidade de venda, para cada qualidade e densidade, será calculado pela equivalência estabelecida pelo Fundo Monetário Internacional à data da venda ou exportação, ou, na falta daquela equivalência, por outra aceite conjuntamente pelo Governo e pelo contribuinte.
 
-###### Art. 17.º - 1. Para efeitos de liquidação do imposto, as empresas apresentarão, na Direcção-Geral de Minas e Serviços Geológicos, durante o mês imediato ao termo do trimestre a que respeitar, uma declaração, em duplicado, pormenorizada, sobre as quantidades produzidas ou como tal consideradas nos termos deste diploma, no período a que respeite, as deduções por consumos in natura, o valor de venda e seu cálculo e outros elementos demonstrativos da observância rigorosa das disposições legais e contratuais aplicáveis.
+Art. 17.º - 1. Para efeitos de liquidação do imposto, as empresas apresentarão, na Direcção-Geral de Minas e Serviços Geológicos, durante o mês imediato ao termo do trimestre a que respeitar, uma declaração, em duplicado, pormenorizada, sobre as quantidades produzidas ou como tal consideradas nos termos deste diploma, no período a que respeite, as deduções por consumos in natura, o valor de venda e seu cálculo e outros elementos demonstrativos da observância rigorosa das disposições legais e contratuais aplicáveis.
 
 2. Os exemplares da declaração referida no número anterior destinam-se um ao declarante e outro à Direcção-Geral de Minas e Serviços Geológicos, devendo o primeiro ser visado pela referida Direcção-Geral e autenticado com o respectivo selo branco.
 
@@ -253,7 +298,7 @@ f) Para as quantidades a que se refere o n.º 3 do artigo anterior, o valor ser�
 
 Taxa
 
-###### Art. 18.º A taxa do imposto será da 12,5 por cento, com as seguintes excepções:
+Art. 18.º A taxa do imposto será da 12,5 por cento, com as seguintes excepções:
 
 a) 16 2/3 por cento no caso de ramas e gás comercial, produzidos em cada campo até à data da aprovação do respectivo plano de exploração;
 
@@ -263,73 +308,73 @@ c) 16 2/3 por cento no caso de gasolina natural, produzida em cada campo após a
 
 Liquidação
 
-###### Art. 19.º A liquidação do imposto será feita pela Direcção-Geral de Minas e Serviços Geológicos até ao fim do segundo mês seguinte ao último do trimestre a que o imposto respeita, competindo à mesma Direcção-Geral o processamento imediato das guias, em triplicado, para o respectivo pagamento.
+Art. 19.º A liquidação do imposto será feita pela Direcção-Geral de Minas e Serviços Geológicos até ao fim do segundo mês seguinte ao último do trimestre a que o imposto respeita, competindo à mesma Direcção-Geral o processamento imediato das guias, em triplicado, para o respectivo pagamento.
 
-###### Art. 20.º - 1. Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houver quaisquer omissões, de que resultou prejuízo para o Estado, a Direcção-Geral de Minas e Serviços Geológicos deverá repará-los mediante liquidação adicional, mas sempre com observância do disposto no artigo 22.º
+Art. 20.º - 1. Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houver quaisquer omissões, de que resultou prejuízo para o Estado, a Direcção-Geral de Minas e Serviços Geológicos deverá repará-los mediante liquidação adicional, mas sempre com observância do disposto no artigo 22.º
 
 2. Se por virtude de omissão deixar de liquidar-se o imposto sobre a produção de petróleo no prazo normal, proceder-se-á à respectiva liquidação, observando-se o disposto no n.º 1.
 
-###### Art. 21.º - 1. Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 21.º - 1. Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
 
 2. O juro será contado dia a dia, desde o termo do prazo para a apresentação da declaração ou para o cumprimento da obrigação de que resultar atraso na liquidação, até à data em que vier a ser suprida ou corrigida a falta.
 
-###### Art. 22.º A disposição do artigo 5.º é, igualmente, aplicável ao imposto sobre a produção de petróleo.
+Art. 22.º A disposição do artigo 5.º é, igualmente, aplicável ao imposto sobre a produção de petróleo.
 
-###### Art. 23.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 50$00.
+Art. 23.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 50$00.
 
-###### Art. 24.º Na Direcção-Geral de Minas e Serviços Geológicos organizar-se-á, em relação a cada contribuinte, um processo em que se incorporem as declarações e outros elementos relativos à liquidação e cobrança do imposto.
+Art. 24.º Na Direcção-Geral de Minas e Serviços Geológicos organizar-se-á, em relação a cada contribuinte, um processo em que se incorporem as declarações e outros elementos relativos à liquidação e cobrança do imposto.
 
 Cobrança
 
-###### Art. 25.º O imposto será pago trimestralmente em espécie ou em dinheiro, à opção do Governo.
+Art. 25.º O imposto será pago trimestralmente em espécie ou em dinheiro, à opção do Governo.
 
-###### Art. 26.º - 1. O pagamento em espécie será efectuado de harmonia com a notificação feita ao contribuinte pela Direcção-Geral de Minas e Serviços Geológicos.
+Art. 26.º - 1. O pagamento em espécie será efectuado de harmonia com a notificação feita ao contribuinte pela Direcção-Geral de Minas e Serviços Geológicos.
 
 2. Na falta de pagamento dentro do prazo que houver sido estabelecido, será o imposto que se encontre em dívida convertido em escudos com observância das disposições aplicáveis à determinação do imposto a pagar em dinheiro, para seu pagamento em conjunto com a multa cominada no artigo 31.º
 
-###### Art. 27.º - 1. O pagamento em dinheiro será efectuado na tesouraria da Fazenda Pública do concelho ou bairro da sede do contribuinte ou, sendo esta situada fora do território português europeu, no concelho ou bairro onde estiver situada a sua representação permanente nesse território, até ao fim do mês seguinte ao da liquidação, mediante as guias a que se refere o artigo 19.º, solicitadas pelo contribuinte na Direcção-Geral de Minas e Serviços Geológicos.
+Art. 27.º - 1. O pagamento em dinheiro será efectuado na tesouraria da Fazenda Pública do concelho ou bairro da sede do contribuinte ou, sendo esta situada fora do território português europeu, no concelho ou bairro onde estiver situada a sua representação permanente nesse território, até ao fim do mês seguinte ao da liquidação, mediante as guias a que se refere o artigo 19.º, solicitadas pelo contribuinte na Direcção-Geral de Minas e Serviços Geológicos.
 
 2. Efectuado o pagamento, será um dos exemplares da guia, devidamente averbado, enviado pela repartição de finanças à Direcção-Geral de Minas e Serviços Geológicos até ao fim do segundo dia útil seguinte ao do pagamento.
 
 Reclamações e recursos
 
-###### Art. 28.º É aplicável a este imposto o preceituado para a renda de superfície nos artigos 10.º, 11.º e 12.º
+Art. 28.º É aplicável a este imposto o preceituado para a renda de superfície nos artigos 10.º, 11.º e 12.º
 
 Penalidades
 
-###### Art. 29.º As transgressões ao disposto no presente capítulo serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 29.º As transgressões ao disposto no presente capítulo serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 30.º A falta ou inexactidão das declarações a que se refere o artigo 17.º, bem como as omissões nelas praticadas, serão punidas com a multa de 5000$00 a 100000$00, havendo simples negligência, e com multa igual ao dobro do imposto não liquidado, com o mínimo de 10000$00 e o máximo de 2000000$00, havendo dolo.
+Art. 30.º A falta ou inexactidão das declarações a que se refere o artigo 17.º, bem como as omissões nelas praticadas, serão punidas com a multa de 5000$00 a 100000$00, havendo simples negligência, e com multa igual ao dobro do imposto não liquidado, com o mínimo de 10000$00 e o máximo de 2000000$00, havendo dolo.
 
-###### Art. 31.º A falta do pagamento do imposto ao Estado dentro do prazo estabelecido será punida com multa igual ao dobro do imposto em dívida.
+Art. 31.º A falta do pagamento do imposto ao Estado dentro do prazo estabelecido será punida com multa igual ao dobro do imposto em dívida.
 
-###### Art. 32.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 5000$00 a 100000$00.
+Art. 32.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 5000$00 a 100000$00.
 
-###### Art. 33.º - 1. Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes ou membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 33.º - 1. Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes ou membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
 2. A responsabilidade solidária prevista neste artigo só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou o acto delituoso.
 
 3. Após a extinção das pessoas colectivas, responderão solidàriamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 34.º - 1. Quando os actos ou omissões tiverem sido praticados por procurador ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
+Art. 34.º - 1. Quando os actos ou omissões tiverem sido praticados por procurador ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
 
 2. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
 
-###### Art. 35.º Verificada qualquer infracção ao disposto neste capítulo e não havendo pagamento espontâneo da multa nos termos do artigo 40.º, a Direcção-Geral de Minas e Serviços Geológicos remeterá à repartição de finanças do concelho ou bairro em que foi cometida a infracção o auto de notícia levantado por funcionário que a tiver verificado.
+Art. 35.º Verificada qualquer infracção ao disposto neste capítulo e não havendo pagamento espontâneo da multa nos termos do artigo 40.º, a Direcção-Geral de Minas e Serviços Geológicos remeterá à repartição de finanças do concelho ou bairro em que foi cometida a infracção o auto de notícia levantado por funcionário que a tiver verificado.
 
-###### Art. 36.º Os tribunais das contribuições e impostos são competentes para conhecer e julgar as infracções previstas neste diploma, devendo ser comunicadas à Direcção-Geral de Minas e Serviços Geológicos as decisões proferidas.
+Art. 36.º Os tribunais das contribuições e impostos são competentes para conhecer e julgar as infracções previstas neste diploma, devendo ser comunicadas à Direcção-Geral de Minas e Serviços Geológicos as decisões proferidas.
 
-###### Art. 37.º - 1. Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste capítulo, dentro de cinco anos, contados da data em que a infracção foi cometida.
+Art. 37.º - 1. Só poderá ser instaurado processo de transgressão, para aplicação das multas cominadas neste capítulo, dentro de cinco anos, contados da data em que a infracção foi cometida.
 
 2. Ainda que extinto o procedimento para aplicação da multa, levantar-se-á auto para exigência do imposto devido, relativamente aos últimos cinco anos.
 
 3. Se o processo de transgressão estiver parado durante cinco anos, ficará extinto o procedimento para aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
 
-###### Art. 38.º Sobre as multas estabelecidas neste capítulo não incidirá nenhum adicional e o seu produto será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926.
+Art. 38.º Sobre as multas estabelecidas neste capítulo não incidirá nenhum adicional e o seu produto será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926.
 
-###### Art. 39.º A obrigação de pagar qualquer multa prescreve passados dez anos sobre o trânsito em julgado da condenação.
+Art. 39.º A obrigação de pagar qualquer multa prescreve passados dez anos sobre o trânsito em julgado da condenação.
 
-###### Art. 40.º - 1. Nos casos de pagamento espontâneo da multa nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 40.º - 1. Nos casos de pagamento espontâneo da multa nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
 2. O pagamento nos termos do número anterior será efectuado mediante guias processadas pela Direcção-Geral de Minas e Serviços Geológicos.
 
@@ -341,13 +386,13 @@ Penalidades
 
 Incidência
 
-###### Art. 41.º As pessoas singulares ou colectivas concessionárias ou arrendatárias, que exerçam em Portugal europeu, compreendida a respectiva plataforma continental, a indústria extractiva de petróleo, incluindo prospecção, pesquisa, desenvolvimento e exploração, bem como todas as que com elas se encontrem de qualquer forma associadas (joint-venture, farm-out, etc.), ficam sujeitas ao pagamento ao Estado do imposto sobre o rendimento do petróleo que incide sobre os seus rendimentos tributáveis determinados nos termos dos artigos 42.º a 61.º deste Regulamento.
+Art. 41.º As pessoas singulares ou colectivas concessionárias ou arrendatárias, que exerçam em Portugal europeu, compreendida a respectiva plataforma continental, a indústria extractiva de petróleo, incluindo prospecção, pesquisa, desenvolvimento e exploração, bem como todas as que com elas se encontrem de qualquer forma associadas (joint-venture, farm-out, etc.), ficam sujeitas ao pagamento ao Estado do imposto sobre o rendimento do petróleo que incide sobre os seus rendimentos tributáveis determinados nos termos dos artigos 42.º a 61.º deste Regulamento.
 
 Determinação da matéria colectável
 
-###### Art. 42.º O rendimento tributável reportar-se-á ao saldo revelado pela conta de resultados do exercício ou de ganhos e perdas elaborada em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício e os custos ou perdas imputáveis ao mesmo, uns e outros corrigidos nos termos deste Regulamento.
+Art. 42.º O rendimento tributável reportar-se-á ao saldo revelado pela conta de resultados do exercício ou de ganhos e perdas elaborada em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício e os custos ou perdas imputáveis ao mesmo, uns e outros corrigidos nos termos deste Regulamento.
 
-###### Art. 43.º - 1. Consideram-se proveitos ou ganhos realizados no exercício os provenientes de quaisquer transacções ou operações realizadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, designadamente os resultantes:
+Art. 43.º - 1. Consideram-se proveitos ou ganhos realizados no exercício os provenientes de quaisquer transacções ou operações realizadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, designadamente os resultantes:
 
 a) Da actividade básica, tais como os resultantes da venda de produtos e de quaisquer outros bens ou serviços e bem assim de bónus e abatimentos conseguidos e de comissões e corretagens;
 
@@ -371,17 +416,17 @@ i) De quaisquer contratos ou acordos relativos à cedência de direitos ou compa
 
 3. São ainda havidas como proveitos ou ganhos as indemnizações que, de algum modo, representem compensação dos que deixarem de ser obtidos.
 
-###### Art. 44.º Sempre que, por incúria do contribuinte ou de operador por conta deste, se verifique acidente ou deficiência de operação de que resulte falta de produção ou perda de quaisquer quantidades de petróleo, considerar-se-á como proveito ou ganho da empresa o valor, determinado nos termos da alínea f) do artigo 15.º, das quantidades perdidas ou tècnicamente susceptíveis de terem sido produzidas se tal acidente ou deficiência se não tivesse verificado.
+Art. 44.º Sempre que, por incúria do contribuinte ou de operador por conta deste, se verifique acidente ou deficiência de operação de que resulte falta de produção ou perda de quaisquer quantidades de petróleo, considerar-se-á como proveito ou ganho da empresa o valor, determinado nos termos da alínea f) do artigo 15.º, das quantidades perdidas ou tècnicamente susceptíveis de terem sido produzidas se tal acidente ou deficiência se não tivesse verificado.
 
-###### Art. 45.º Para efeitos da determinação dos proveitos ou ganhos, considerar-se-ão as vendas como efectuadas nas condições que constam do artigo 15.º deste Regulamento.
+Art. 45.º Para efeitos da determinação dos proveitos ou ganhos, considerar-se-ão as vendas como efectuadas nas condições que constam do artigo 15.º deste Regulamento.
 
-###### Art. 46.º - 1. Os valores das existências de materiais, produtos ou mercadorias a considerar nos proveitos e custos, ou a ter em conta na determinação dos lucros ou perdas de exercício, serão os que resultarem da aplicação de critérios valorimétricos que, podendo ser objecto de contrôle contabilístico inequívoco, sejam geralmente aceites pela técnica contabilística como válidos para exprimirem o resultado do exercício, e, além disso, utilizem custos efectivos de aquisição ou de produção.
+Art. 46.º - 1. Os valores das existências de materiais, produtos ou mercadorias a considerar nos proveitos e custos, ou a ter em conta na determinação dos lucros ou perdas de exercício, serão os que resultarem da aplicação de critérios valorimétricos que, podendo ser objecto de contrôle contabilístico inequívoco, sejam geralmente aceites pela técnica contabilística como válidos para exprimirem o resultado do exercício, e, além disso, utilizem custos efectivos de aquisição ou de produção.
 
 2. Podem ainda ser aceites pela Direcção-Geral das Contribuições e Impostos outros critérios especiais de valorimetria, incluindo os que utilizem custos padrões, quando sejam ajustados às condições da actividade e as empresas disponham de elementos que possibilitem a sua correcta apreciação.
 
 3. Sempre que se verificar mudança de critério valorimétrico, além da sua fundamentação no relatório a que se refere a alínea g) do n.º 1 do artigo 55.º, deverão constar expressamente da conta de resultados do exercício ou de ganhos e perdas os montantes das valorizações ou desvalorizações resultantes da alteração, acrescendo os das primeiras aos proveitos ou lucros sem que os das últimas se acrescentem aos custos ou perdas do exercício, salvo se a Direcção-Geral das Contribuições e Impostos autorizar o contrário. No cálculo dos resultados do exercício ou dos exercícios seguintes tomar-se-ão como custos das existências a que este artigo se reporta os que acabaram por ser considerados para os fins nele referidos.
 
-###### Art. 47.º Consideram-se custos ou perdas imputáveis ao exercício os que, dentro dos limites considerados razoáveis pela Direcção-Geral das Contribuições e Impostos, se tornou indispensável suportar para a realização dos proveitos ou ganhos sujeitos a imposto e para a manutenção da fonte produtora, designadamente os seguintes:
+Art. 47.º Consideram-se custos ou perdas imputáveis ao exercício os que, dentro dos limites considerados razoáveis pela Direcção-Geral das Contribuições e Impostos, se tornou indispensável suportar para a realização dos proveitos ou ganhos sujeitos a imposto e para a manutenção da fonte produtora, designadamente os seguintes:
 
 a) Encargos da actividade básica, acessória ou complementar, relativos à produção ou aquisição de quaisquer bens ou serviços, tais como os respeitantes a materiais diversos, artigos de consumo corrente, mão-de-obra, energia e outros gastos gerais de produção, conservação ou reparação;
 
@@ -411,7 +456,7 @@ m) Donativos concedidos ao Estado a às autarquias locais, bem como os concedido
 
 n) 80 por cento dos gastos suportados com a manutenção facultativa de creches, lactários, cantinas, bibliotecas e escolas, bem como outras realizações de utilidade social devidamente reconhecidas pela Direcção-Geral das Contribuições e Impostos em benefício do pessoal da empresa e seus familiares.
 
-###### Art. 48.º - 1. As taxas das reintegrações e amortizações referidas nas alíneas f), g) e h) do artigo anterior são as indicadas na tabela anexa a este diploma, para os elementos que dela constem, e as das tabelas anexas à [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, para os restantes, com observância das regras nela estabelecidas.
+Art. 48.º - 1. As taxas das reintegrações e amortizações referidas nas alíneas f), g) e h) do artigo anterior são as indicadas na tabela anexa a este diploma, para os elementos que dela constem, e as das tabelas anexas à [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, para os restantes, com observância das regras nela estabelecidas.
 
 2. Poderão aceitar-se reintegrações e amortizações correspondentes a taxas superiores às das tabelas quando resultam de disposições legais ou de cláusulas de contratos de concessão, ou quando se trate de desvalorizações excepcionais provenientes de causas anormais devidamente comprovadas, devendo, nesta última hipótese, ser solicitada autorização prévia à Direcção-Geral das Contribuições e Impostos, em exposição fundamentada.
 
@@ -419,7 +464,7 @@ n) 80 por cento dos gastos suportados com a manutenção facultativa de creches,
 
 4. Para os fins designados na primeira parte da alínea a) do artigo 50.º, consideram-se como respeitantes a cada exercício as reintegrações ou amortizações que lhe caberiam se fossem calculadas com base em taxas iguais a metade das fixadas nas respectivas tabelas.
 
-###### Art. 49.º Para afeitos deste diploma, o custo de concessão a que se refere a alínea g) do artigo 47.º compreende:
+Art. 49.º Para afeitos deste diploma, o custo de concessão a que se refere a alínea g) do artigo 47.º compreende:
 
 a) Despesas efectivamente feitas pela concessionária, devidamente comprovadas, com vista à obtenção da concessão;
 
@@ -429,7 +474,7 @@ c) Encargos de natureza administrativa, designadamente gastos em benefício do p
 
 d) Encargos com perfuração de poços não produtivos em áreas não demarcadas definitivamente, designadamente com consumo de materiais, mão-de-obra, serviços prestados por terceiros e reintegração do equipamento e instalações utilizadas nessas operações.
 
-###### Art. 50.º Não se consideram custos ou perdas do exercício:
+Art. 50.º Não se consideram custos ou perdas do exercício:
 
 a) As reintegrações e amortizações contabilizadas fora do ano a que respeitam e as que excedam as taxas das respectivas tabelas ou ultrapassem as que foram autorizadas pela Direcção-Geral das Contribuições e Impostos nos termos do n.º 2 do artigo 48.º;
 
@@ -453,13 +498,13 @@ j) Os juros intercalares nos termos do § 1.º do artigo 192.º do Código Comer
 
 k) Os direitos e mais imposições aduaneiras de importação sobre artigos que venham a ser vendidos e para os quais se tenha verificado isenção anterior.
 
-###### Art. 51.º A Direcção-Geral das Contribuições e Impostos poderá efectuar as correcções que entender necessárias para a determinação do lucro tributável sempre que os resultados apurados, em face da escrita, se afastem, em virtude da existência de posições de terceiros dominantes no capital ou interferências directas ou indirectas na gestão, dos que se apurariam usando critérios correntes de imputação contabilística de custos e proveitos, bem como preços normais, considerando-se como tais os susceptíveis de serem atribuídos em transacções efectuadas em mercado livre entre um comprador e um vendedor independentes.
+Art. 51.º A Direcção-Geral das Contribuições e Impostos poderá efectuar as correcções que entender necessárias para a determinação do lucro tributável sempre que os resultados apurados, em face da escrita, se afastem, em virtude da existência de posições de terceiros dominantes no capital ou interferências directas ou indirectas na gestão, dos que se apurariam usando critérios correntes de imputação contabilística de custos e proveitos, bem como preços normais, considerando-se como tais os susceptíveis de serem atribuídos em transacções efectuadas em mercado livre entre um comprador e um vendedor independentes.
 
-###### Art. 52.º - 1. Os prejuízos verificados em determinado exercício serão deduzidos aos rendimentos tributáveis, havendo-os, de um, ou mais, dos cinco anos posteriores.
+Art. 52.º - 1. Os prejuízos verificados em determinado exercício serão deduzidos aos rendimentos tributáveis, havendo-os, de um, ou mais, dos cinco anos posteriores.
 
 2. Os prejuízos a deduzir serão os determinados nos termos estabelecidos neste capítulo para a determinação da matéria colectável.
 
-###### Art. 53.º - 1. Os contribuintes deste imposto ficam sujeitos a todas as obrigações relativas à escrituração comercial previstas na lei geral ou em legislação especial aplicável, devendo possuir ainda os seguintes livros:
+Art. 53.º - 1. Os contribuintes deste imposto ficam sujeitos a todas as obrigações relativas à escrituração comercial previstas na lei geral ou em legislação especial aplicável, devendo possuir ainda os seguintes livros:
 
 a) Para registo, por produtos, das vendas para fora da metrópole, especificando para cada venda da sede, suas filiais, sucursais e demais dependências, data da venda, identificação do comprador, características e destino do produto, quantidade (em unidades dos contratos de venda e correspondentes unidades do sistema métrico decimal) e valores de venda (em moedas dos contratos de venda e seu correspondente valor em escudos);
 
@@ -473,13 +518,13 @@ b) Para registo, por produtos, das vendas feitas para o mercado da metrópole, e
 
 5. Os contribuintes deverão centralizar em estabelecimento situado no território do continente e ilhas adjacentes a escrituração das operações realizadas em todos os estabelecimentos ou instalações da empresa.
 
-###### Art. 54.º - 1. Os contribuintes sujeitos ao imposto apresentarão durante o mês de Abril de cada ano, na repartição de finanças do concelho ou bairro onde tiverem a sua sede, uma declaração, em triplicado, elaborada segundo o modelo n.º 1 anexo.
+Art. 54.º - 1. Os contribuintes sujeitos ao imposto apresentarão durante o mês de Abril de cada ano, na repartição de finanças do concelho ou bairro onde tiverem a sua sede, uma declaração, em triplicado, elaborada segundo o modelo n.º 1 anexo.
 
 2. Se o contribuinte for uma pessoa singular, ou pessoa colectiva com sede fora do território do continente e ilhas adjacentes, a declaração deverá ser apresentada na repartição de finanças do concelho ou bairro da metrópole onde estiver situado o estabelecimento principal ou, na falta de instalações comerciais ou industriais neste território, onde existir a representação permanente.
 
 3. Verificando-se a cessação da actividade e tendo as contas do exercício em que se verificou a cessação sido aprovadas antes de terminado o prazo estabelecido no n.º 1 deste artigo, a declaração será apresentada conjuntamente com a exigida no artigo 56.º
 
-###### Art. 55.º - 1. A declaração de que trata o artigo precedente será acompanhada dos seguintes documentos:
+Art. 55.º - 1. A declaração de que trata o artigo precedente será acompanhada dos seguintes documentos:
 
 a) Relação dos representantes permanentes, administradores, gerentes e membros do conselho fiscal;
 
@@ -515,7 +560,7 @@ h) Certidão em que se inclua a parte do Estado nos impostos dedutíveis nos ter
 
 3. Os documentos mencionados neste artigo consideram-se parte integrante da declaração.
 
-###### Art. 56.º - 1. Havendo cessação do exercício da actividade que sujeitava a empresa ao pagamento do imposto, a declaração e documento referidos no artigo anterior serão apresentados dentro do prazo de quinze dias a contar da aprovação das contas relativas ao período do ano da cessação em que a actividade foi exercida, mas sem poder exceder o último dia do mês de Abril do ano seguinte ao da cessação.
+Art. 56.º - 1. Havendo cessação do exercício da actividade que sujeitava a empresa ao pagamento do imposto, a declaração e documento referidos no artigo anterior serão apresentados dentro do prazo de quinze dias a contar da aprovação das contas relativas ao período do ano da cessação em que a actividade foi exercida, mas sem poder exceder o último dia do mês de Abril do ano seguinte ao da cessação.
 
 2. A cessação só terá lugar para efeitos deste artigo desde que:
 
@@ -525,21 +570,21 @@ b) Termine a liquidação das existências de produtos resultantes da actividade
 
 c) Se extinga o direito do contribuinte ao exercício da actividade extractiva de petróleo ou à sua participação no petróleo extraído.
 
-###### Art. 57.º - 1. A declaração referida no artigo 54.º e os documentos que a têm de acompanhar serão sempre escritos em língua portuguesa e assinados pelos contribuintes ou pelos seus representantes legais ou mandatários, e ainda pelo respectivo técnico de contas responsável, que deverá estar obrigatóriamente inscrito na Direcção-Geral das Contribuições e Impostos, nos termos do artigo 52.º do Código da Contribuição Industrial, os quais rubricarão os documentos que acompanham a declaração.
+Art. 57.º - 1. A declaração referida no artigo 54.º e os documentos que a têm de acompanhar serão sempre escritos em língua portuguesa e assinados pelos contribuintes ou pelos seus representantes legais ou mandatários, e ainda pelo respectivo técnico de contas responsável, que deverá estar obrigatóriamente inscrito na Direcção-Geral das Contribuições e Impostos, nos termos do artigo 52.º do Código da Contribuição Industrial, os quais rubricarão os documentos que acompanham a declaração.
 
 2. Serão recusadas as declarações que não estiverem assinadas e rubricadas nos termos indicados, sem prejuízo das sanções estabelecidas para a falta da sua apresentação.
 
-###### Art. 58.º Quando a declaração não for considerada suficientemente clara, o contribuinte será notificado pela respectiva repartição de finanças para prestar, por escrito, no prazo que lhe for fixado, não superior a quinze dias, os esclarecimentos indispensáveis.
+Art. 58.º Quando a declaração não for considerada suficientemente clara, o contribuinte será notificado pela respectiva repartição de finanças para prestar, por escrito, no prazo que lhe for fixado, não superior a quinze dias, os esclarecimentos indispensáveis.
 
-###### Art. 59.º - 1. Os contribuintes deverão organizar e conservar a sua escrita de modo que se possa apurar clara e inequìvocamente e controlar o rendimento tributável, com inteira observância das disposições deste Regulamento.
+Art. 59.º - 1. Os contribuintes deverão organizar e conservar a sua escrita de modo que se possa apurar clara e inequìvocamente e controlar o rendimento tributável, com inteira observância das disposições deste Regulamento.
 
 2. Poderá, entretanto, o Ministro das Finanças tornar obrigatória, por portaria, a existência de determinados livros, documentos e outros elementos de escrita e observância de certas normas na sua arrumação.
 
-###### Art. 60.º - 1. Apresentada a declaração a que se refere o artigo 54.º, o triplicado será logo remetido pela repartição de finanças directamente à Direcção-Geral das Contribuições e Impostos, a qual, em face desses elementos, e de outros de que dispuser ou puder obter, determinará a matéria colectável sujeita a imposto.
+Art. 60.º - 1. Apresentada a declaração a que se refere o artigo 54.º, o triplicado será logo remetido pela repartição de finanças directamente à Direcção-Geral das Contribuições e Impostos, a qual, em face desses elementos, e de outros de que dispuser ou puder obter, determinará a matéria colectável sujeita a imposto.
 
 2. Na falta ou insuficiência das declarações, proceder-se-á a exame à escrita e, subsistindo a impossibilidade de determinar a matéria colectável de harmonia com as disposições deste Regulamento, ou, havendo dúvida fundada sobre se o resultado da escrita corresponde ou não à realidade, será a matéria colectável fixada na repartição de finanças onde, nos termos do artigo 54.º, deve ser entregue a declaração, com observância das normas estabelecidas no Código da Contribuição Industrial para a fixação da matéria colectável dos contribuintes do grupo B, com as necessárias adaptações e com notificação das fixações aos contribuintes para efeito de reclamação dentro do prazo de quinze dias para a comissão de que trata o artigo 71.º do mesmo Código.
 
-###### Art. 61.º - 1. As decisões da Direcção-Geral das Contribuições e Impostos a que se referem os artigos 46.º, n.os 2 e 3, 47.º, alíneas a) a d), i), j), l) e n), 48.º, n.os 2 e 3, 50.º, alínea b), e 51.º, que envolvam divergências com o critério do contribuinte ser-lhe-ão notificadas com indicação dos respectivos fundamentos.
+Art. 61.º - 1. As decisões da Direcção-Geral das Contribuições e Impostos a que se referem os artigos 46.º, n.os 2 e 3, 47.º, alíneas a) a d), i), j), l) e n), 48.º, n.os 2 e 3, 50.º, alínea b), e 51.º, que envolvam divergências com o critério do contribuinte ser-lhe-ão notificadas com indicação dos respectivos fundamentos.
 
 2. Destas decisões cabe recurso hierárquico para o Ministro das Finanças, a interpor no prazo de oito dias.
 
@@ -549,69 +594,69 @@ c) Se extinga o direito do contribuinte ao exercício da actividade extractiva d
 
 Taxa
 
-###### Art. 62.º - 1. A taxa do imposto é de 50 por cento.
+Art. 62.º - 1. A taxa do imposto é de 50 por cento.
 
 2. Sobre o imposto não recaem quaisquer adicionais para o Estado nem para as autarquias locais.
 
 Liquidação
 
-###### Art. 63.º Determinada a matéria colectável, a repartição de finanças em que deve ser apresentada a declaração procederá à liquidação do imposto até ao dia 15 de Junho.
+Art. 63.º Determinada a matéria colectável, a repartição de finanças em que deve ser apresentada a declaração procederá à liquidação do imposto até ao dia 15 de Junho.
 
-###### Art. 64.º Do imposto liquidado, e até à concorrência da respectiva importância, deduzir-se-á a parte do Estado nos impostos sobre o rendimento liquidados ao mesmo contribuinte no ano a que aquele imposto respeita.
+Art. 64.º Do imposto liquidado, e até à concorrência da respectiva importância, deduzir-se-á a parte do Estado nos impostos sobre o rendimento liquidados ao mesmo contribuinte no ano a que aquele imposto respeita.
 
-###### Art. 65.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-los mediante liquidação adicional, mas sempre com observância do disposto no artigo 68.º
+Art. 65.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a repartição de finanças deverá repará-los mediante liquidação adicional, mas sempre com observância do disposto no artigo 68.º
 
-###### Art. 66.º A repartição de finanças deverá também proceder à liquidação adicional quando, depois de liquidado o imposto, seja de exigir, em virtude de exame à escrita do contribuinte ou fixação da matéria colectável nos termos do n.º 2 do artigo 79.º, maior imposto do que o que foi liquidado.
+Art. 66.º A repartição de finanças deverá também proceder à liquidação adicional quando, depois de liquidado o imposto, seja de exigir, em virtude de exame à escrita do contribuinte ou fixação da matéria colectável nos termos do n.º 2 do artigo 79.º, maior imposto do que o que foi liquidado.
 
-###### Art. 67.º Se, por omissão ao lançamento, deixar de liquidar-se imposto, proceder-se-á à determinação do lucro tributável e à respectiva liquidação, observando-se as disposições aplicáveis deste Regulamento com as necessárias adaptações.
+Art. 67.º Se, por omissão ao lançamento, deixar de liquidar-se imposto, proceder-se-á à determinação do lucro tributável e à respectiva liquidação, observando-se as disposições aplicáveis deste Regulamento com as necessárias adaptações.
 
-###### Art. 68.º É aplicável a este imposto o preceituado nos artigos 5.º, 21.º e 23.º
+Art. 68.º É aplicável a este imposto o preceituado nos artigos 5.º, 21.º e 23.º
 
-###### Art. 69.º - 1. Na repartição de finanças competente para a liquidação do imposto organizar-se-á, em relação a cada contribuinte, um processo em que se incorporem as declarações e outros elementos que se relacionem com o exercício ou cessação da actividade.
+Art. 69.º - 1. Na repartição de finanças competente para a liquidação do imposto organizar-se-á, em relação a cada contribuinte, um processo em que se incorporem as declarações e outros elementos que se relacionem com o exercício ou cessação da actividade.
 
 2. Na Direcção-Geral das Contribuições e Impostos organizar-se-á igualmente, em relação a cada contribuinte, um processo em que se incorporem os elementos aí existentes que se relacionem com a determinação da matéria colectável.
 
 Cobrança
 
-###### Art. 70.º Os conhecimentos de cobrança serão entregues anualmente nas tesourarias da Fazenda Pública até 20 de Junho.
+Art. 70.º Os conhecimentos de cobrança serão entregues anualmente nas tesourarias da Fazenda Pública até 20 de Junho.
 
-###### Art. 71.º - 1. O imposto será pago em duas prestações iguais, com vencimento em Julho e Outubro, se o montante exceder 100000$00.
+Art. 71.º - 1. O imposto será pago em duas prestações iguais, com vencimento em Julho e Outubro, se o montante exceder 100000$00.
 
 2. O imposto de montante até 100000$00 deverá ser pago de uma só vez, em Julho.
 
-###### Art. 72.º - 1. Nos casos de cessação da actividade, omissão ao lançamento e de liquidação adicional, o contribuinte será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
+Art. 72.º - 1. Nos casos de cessação da actividade, omissão ao lançamento e de liquidação adicional, o contribuinte será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
 
 2. Se o não fizer, proceder-se-á a cobrança virtual, sem prejuízo do direito de reclamação e impugnação, devendo então o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.
 
 3. Quando a liquidação adicional, ou por omissão ao lançamento, se faça antes da época do vencimento de alguma das prestações em que a cobrança normalmente deveria ser efectuada, o disposto no número anterior observar-se-á apenas em relação à parte do imposto correspondente à prestação que, na ausência de erro ou omissão, já se teria vencido ou cujo prazo de cobrança estaria em curso.
 
-###### Art. 73.º Não sendo paga qualquer prestação, ou a totalidade do imposto, no mês do vencimento, começarão a correr imediatamente juros de mora.
+Art. 73.º Não sendo paga qualquer prestação, ou a totalidade do imposto, no mês do vencimento, começarão a correr imediatamente juros de mora.
 
-###### Art. 74.º Passados sessenta dias sobre o vencimento do imposto ou de qualquer das suas prestações sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo para arrecadação da totalidade do imposto, considerando-se vencidas, para o efeito, as prestações ainda não pagas.
+Art. 74.º Passados sessenta dias sobre o vencimento do imposto ou de qualquer das suas prestações sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo para arrecadação da totalidade do imposto, considerando-se vencidas, para o efeito, as prestações ainda não pagas.
 
-###### Art. 75.º - 1. Os conhecimentos de cobrança serão constituídos por um conhecimento principal e por tantos conhecimentos parciais quantas as prestações em que a colecta for dividida, mencionando o primeiro a totalidade do imposto liquidado.
+Art. 75.º - 1. Os conhecimentos de cobrança serão constituídos por um conhecimento principal e por tantos conhecimentos parciais quantas as prestações em que a colecta for dividida, mencionando o primeiro a totalidade do imposto liquidado.
 
 2. Os conhecimentos deverão ser autenticados com o selo branco da respectiva direcção de finanças, ou com o carimbo em uso nos serviços mecanográficos, quando processados mecânicamente.
 
-###### Art. 76.º - 1. Se o contribuinte satisfizer, por uma só vez, todo o imposto devido, o tesoureiro entregar-lhe-á apenas o conhecimento principal, inutilizando os conhecimentos parciais.
+Art. 76.º - 1. Se o contribuinte satisfizer, por uma só vez, todo o imposto devido, o tesoureiro entregar-lhe-á apenas o conhecimento principal, inutilizando os conhecimentos parciais.
 
 2. Haver-se-ão por cobrados os conhecimentos parciais que se encontrem separados do respectivo conhecimento principal.
 
-###### Art. 77.º - 1. É vedado aos tesoureiros receber a segunda prestação deixando por cobrar a primeira.
+Art. 77.º - 1. É vedado aos tesoureiros receber a segunda prestação deixando por cobrar a primeira.
 
 2. A inobservância do disposto neste artigo importa para o tesoureiro a obrigação de pagar a prestação não recebida, devendo a respectiva importância ser logo incluída na relação de cobrança sem prejuízo de regresso sobre o contribuinte, nos termos da lei civil.
 
 Fiscalização
 
-###### Art. 78.º - 1. As pessoas singulares ou colectivas sujeitas ao imposto sobre o rendimento do petróleo deverão apresentar na repartição de finanças em que, nos termos do artigo 54.º, tem de ser apresentada a declaração para a determinação da matéria colectável uma participação em que indiquem a data do início da actividade que as sujeita ao pagamento do imposto.
+Art. 78.º - 1. As pessoas singulares ou colectivas sujeitas ao imposto sobre o rendimento do petróleo deverão apresentar na repartição de finanças em que, nos termos do artigo 54.º, tem de ser apresentada a declaração para a determinação da matéria colectável uma participação em que indiquem a data do início da actividade que as sujeita ao pagamento do imposto.
 
 2. A participação será feita em duplicado e entregue dentro do prazo de quinze dias, a contar do início da actividade.
 
-###### Art. 79.º - 1. As escritas dos contribuintes sujeitos ao imposto serão examinadas pelo menos uma vez em cada quinquénio e ainda sempre que a Direcção-Geral das Contribuições e Impostos o considere conveniente.
+Art. 79.º - 1. As escritas dos contribuintes sujeitos ao imposto serão examinadas pelo menos uma vez em cada quinquénio e ainda sempre que a Direcção-Geral das Contribuições e Impostos o considere conveniente.
 
 2. Sempre que em face do exame à escrita se verifique a impossibilidade de controlar a matéria colectável já determinada nos termos deste Regulamento com base nos elementos da escrita, ou desse exame resultem dúvidas fundadas sobre se o resultado apurado corresponde ou não à realidade, será a matéria colectável determinada de novo, na respectiva repartição de finanças, de harmonia com as disposições do Código da Contribuição Industrial aplicáveis aos contribuintes do grupo B, com as necessárias adaptações e com notificação das fixações aos contribuintes para efeito de reclamação dentro do prazo de quinze dias para a comissão de que trata o artigo 71.º do mesmo Código.
 
-###### Art. 80.º A Direcção-Geral de Minas e Serviços Geológicos remeterá à Direcção-Geral das Contribuições e Impostos até 30 de Abril de cada ano:
+Art. 80.º A Direcção-Geral de Minas e Serviços Geológicos remeterá à Direcção-Geral das Contribuições e Impostos até 30 de Abril de cada ano:
 
 a) Mapa donde constem, em relação a cada contribuinte do imposto sobre a produção de petróleo (royalty), as quantidades dos produtos e respectivos valores que serviram de base à liquidação do imposto respeitante ao ano anterior, pago em dinheiro, discriminadas por produtos e por quantidades produzidas e não produzidas mas que foram, no entanto, consideradas como tal, deduzidas das correspondentes às anulações concedidas;
 
@@ -621,7 +666,7 @@ c) Mapa dos «preços afixados» (posted prices) utilizados para efeito da liqui
 
 Reclamações e recursos
 
-###### Art. 81.º - 1. Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 81.º - 1. Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 2. Quando seja impugnada a determinação da matéria colectável que serviu de base à liquidação do imposto, podem os tribunais ordenar oficiosamente um arbitramento, que será efectuado nos termos do Código de Processo Civil.
 
@@ -629,69 +674,69 @@ Reclamações e recursos
 
 4. Os peritos por parte da Fazenda Nacional serão indicados pela Inspecção-Geral de Finanças ou pela Direcção-Geral de Minas e Serviços Geológicos, conforme for julgado mais conveniente.
 
-###### Art. 82.º - 1. Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
+Art. 82.º - 1. Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
 
 2. O mesmo se observará quando em exame à escrita ou em face da fixação da matéria colectável, nos termos do n.º 2 do artigo 79.º, se verificar que o rendimento determinado ou fixado de novo é inferior ao que serviu de base à liquidação.
 
 3. Não se procederá a anulação quando o seu quantitativo seja inferior a 50$00.
 
-###### Art. 83.º É aplicável a este imposto o preceituado nos n.os 1, 3 e 4 do artigo 12.º
+Art. 83.º É aplicável a este imposto o preceituado nos n.os 1, 3 e 4 do artigo 12.º
 
 Penalidades
 
-###### Art. 84.º A inobservância de qualquer das disposições do artigo 53.º será punida com a multa de 10000$00 a 500000$00.
+Art. 84.º A inobservância de qualquer das disposições do artigo 53.º será punida com a multa de 10000$00 a 500000$00.
 
-###### Art. 85.º A falta das declarações a que se referem os artigos 54.º e 56.º, bem como as omissões ou inexactidões nelas praticadas ou nos documentos que as devem acompanhar, serão punidas com a multa de 5000$00 a 100000$00, havendo simples negligência, e com multa igual ao dobro do imposto não liquidado, com o mínimo de 10000$00 e o máximo da 2000000$00, havendo dolo.
+Art. 85.º A falta das declarações a que se referem os artigos 54.º e 56.º, bem como as omissões ou inexactidões nelas praticadas ou nos documentos que as devem acompanhar, serão punidas com a multa de 5000$00 a 100000$00, havendo simples negligência, e com multa igual ao dobro do imposto não liquidado, com o mínimo de 10000$00 e o máximo da 2000000$00, havendo dolo.
 
-###### Art. 86.º Incorrem na multa de 100000$00 a 1000000$00 os contribuintes que não tenham escrita ou que, tendo-a, não observem o disposto no artigo 59.º
+Art. 86.º Incorrem na multa de 100000$00 a 1000000$00 os contribuintes que não tenham escrita ou que, tendo-a, não observem o disposto no artigo 59.º
 
-###### Art. 87.º A infracção do artigo 78.º será punida com multa de 5000$00 a 100000$00.
+Art. 87.º A infracção do artigo 78.º será punida com multa de 5000$00 a 100000$00.
 
-###### Art. 88.º - 1. A recusa da exibição da escrita e dos documentos com ela relacionados, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com multa de 100000$00 a 2000000$00, na qual incorrerão solidàriamente entre si os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida e técnicos de contas, que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
+Art. 88.º - 1. A recusa da exibição da escrita e dos documentos com ela relacionados, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com multa de 100000$00 a 2000000$00, na qual incorrerão solidàriamente entre si os directores, administradores, gerentes, membros do conselho fiscal, liquidatários, administradores da massa falida e técnicos de contas, que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
 
 2. Transitada em julgado a decisão que aplicou a multa, o tribunal participá-lo-á, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo técnico de contas e outros responsáveis.
 
-###### Art. 89.º Os funcionárias públicos que deixarem de cumprir alguma das obrigações impostas neste capítulo incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+Art. 89.º Os funcionárias públicos que deixarem de cumprir alguma das obrigações impostas neste capítulo incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
-###### Art. 90.º Por qualquer infracção não especialmente prevenida nos a artigos 84.º a 89.º será aplicada multa de 5000$00 a 100000$00.
+Art. 90.º Por qualquer infracção não especialmente prevenida nos a artigos 84.º a 89.º será aplicada multa de 5000$00 a 100000$00.
 
-###### Art. 91.º As multas serão impostas mediante processo de transgressão.
+Art. 91.º As multas serão impostas mediante processo de transgressão.
 
-###### Art. 92.º Sobre as multas fixadas neste capítulo não incidirá nenhum adicional.
+Art. 92.º Sobre as multas fixadas neste capítulo não incidirá nenhum adicional.
 
-###### Art. 93.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
+Art. 93.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
 
-###### Art. 94.º É aplicável a este imposto o preceituado nos artigos 29.º, 33.º, 34.º, 37.º, n.º 1, 39.º e 40.º, n.º 1.
+Art. 94.º É aplicável a este imposto o preceituado nos artigos 29.º, 33.º, 34.º, 37.º, n.º 1, 39.º e 40.º, n.º 1.
 
-###### Art. 95.º - 1. A instauração de procedimento para aplicação da multa estabelecida no artigo 88.º será averbada na inscrição do técnico de contas responsável e terá como efeito a suspensão dos direitos dela emergentes durante a pendência do processo.
+Art. 95.º - 1. A instauração de procedimento para aplicação da multa estabelecida no artigo 88.º será averbada na inscrição do técnico de contas responsável e terá como efeito a suspensão dos direitos dela emergentes durante a pendência do processo.
 
 2. Se a decisão for condenatória, a inscrição será cancelada.
 
-###### Art. 96.º O Ministro das Finanças poderá ordenar o cancelamento das inscrições referentes aos técnicos de contas que houverem subscrito declarações nas quais se verifiquem omissões ou inexactidões cuja responsabilidade deva imputar-se-lhes, sem prejuízo das penalidades aplicáveis aos contribuintes.
+Art. 96.º O Ministro das Finanças poderá ordenar o cancelamento das inscrições referentes aos técnicos de contas que houverem subscrito declarações nas quais se verifiquem omissões ou inexactidões cuja responsabilidade deva imputar-se-lhes, sem prejuízo das penalidades aplicáveis aos contribuintes.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 97.º - 1. Os exames às escritas das pessoas singulares ou colectivas sujeitas ao imposto sobre o rendimento do petróleo serão realizados, a requisição da Direcção-Geral das Contribuições e Impostos, pela Inspecção-Geral de Finanças, ou ainda, quando o Ministro das Finanças o julgue conveniente, pelos técnicos economistas do quadro do Serviço de Prevenção a Fiscalização Tributária.
+Art. 97.º - 1. Os exames às escritas das pessoas singulares ou colectivas sujeitas ao imposto sobre o rendimento do petróleo serão realizados, a requisição da Direcção-Geral das Contribuições e Impostos, pela Inspecção-Geral de Finanças, ou ainda, quando o Ministro das Finanças o julgue conveniente, pelos técnicos economistas do quadro do Serviço de Prevenção a Fiscalização Tributária.
 
 2. O funcionário encarregado do serviço pode ser autorizado pela Inspecção-Geral de Finanças ou pela Direcção-Geral das Contribuições e Impostos, conforme o quadro a que pertença, a examinar a contabilidade de outras empresas que tenham ligação com o contribuinte ou com ele mantenham relações comerciais ou industriais.
 
 3. A Inspecção-Geral de Finanças e a Direcção-Geral das Contribuições e Impostos, conforme o caso, poderão solicitar à Direcção-Geral de Minas e Serviços Geológicos a indicação de técnicos em assuntos da petróleo para colaborar nos exames a efectuar.
 
-###### Art. 98.º As declarações, participações e outros documentos a apresentar pelos contribuintes ou quaisquer entidades na Direcção-Geral de Minas e Serviços Geológicos ou nas repartições de finanças podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
+Art. 98.º As declarações, participações e outros documentos a apresentar pelos contribuintes ou quaisquer entidades na Direcção-Geral de Minas e Serviços Geológicos ou nas repartições de finanças podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
 
-###### Art. 99.º - 1. A falta de pagamento da renda de superfície, ou do imposto sobre o rendimento do petróleo, dentro do prazo da cobrança voluntária, ou a falta de pagamento do imposto sobre a produção de petróleo dentro do prazo estabelecido, são motivos de caducidade da respectiva concessão.
+Art. 99.º - 1. A falta de pagamento da renda de superfície, ou do imposto sobre o rendimento do petróleo, dentro do prazo da cobrança voluntária, ou a falta de pagamento do imposto sobre a produção de petróleo dentro do prazo estabelecido, são motivos de caducidade da respectiva concessão.
 
 2. A declaração da caducidade é da competência do Conselho de Ministros para os Assuntos Económicos, mediante proposta do Secretário de Estado da Indústria.
 
-###### Art. 100.º Quaisquer dúvidas relativas à aplicação deste Regulamento serão esclarecidas nas respectivas esferas de acção por despachos do Secretário de Estado do Orçamento ou do Secretário de Estado da Indústria, conforme o caso.
+Art. 100.º Quaisquer dúvidas relativas à aplicação deste Regulamento serão esclarecidas nas respectivas esferas de acção por despachos do Secretário de Estado do Orçamento ou do Secretário de Estado da Indústria, conforme o caso.
 
-**O Ministro das Finanças e da Economia. João Augusto Dias Rosas.**
+O Ministro das Finanças e da Economia. João Augusto Dias Rosas.
 
 Tabela de reintegrações e amortizações
 
 Activo corpóreo (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf))](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
 
 (nota 1) Tratando-se de grandes reparações, considerando-se como tais as que aumentem o valor real ou a duração provável de utilização dos elementos do activo imobilizado, aceitar-se-ão como taxas máximas as que forem calculadas com base nos períodos de utilidade esperada dessas reparações.
 
@@ -699,13 +744,13 @@ Para os elementos adquiridos em estado de uso as taxas máximas serão determina
 
 Activo Incorpóreo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf))](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
 
-**O Ministro das Finanças e da Economia, João Augusto Dias Rosas.**
+O Ministro das Finanças e da Economia, João Augusto Dias Rosas.
 
 Modelo n.º 1 (artigo 54.º do regulamento aprovado pelo Decreto n.º 151/72).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf))](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
 
 Nota. - Esta declaração deve ser processada em triplicado e apresentada anualmente na repartição de finanças competente para a liquidação do imposto, durante o mês de Abril (artigo 54.º do Regulamento).
 
@@ -715,6 +760,6 @@ Também deve ser apresentada esta declaração nos quinze dias seguintes à cess
 
 Modelo n.º 2 (artigo 55.º n.º 1, alínea f), do regulamento aprovado pelo Decreto n.º 151/72]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf))](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/10700/05710585.pdf)
 
-**O Ministro das Finanças e da Economia, João Augusto Dias Rosas.**
+O Ministro das Finanças e da Economia, João Augusto Dias Rosas.

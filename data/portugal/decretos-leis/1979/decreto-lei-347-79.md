@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19900/21172123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1979-378539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbbc3d0fce95949ba7db6ac1dd9ae44fbccf374e066dff6722c450b4c30bb135
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ccaacf1ac808b2f8515555f8dcb0a26f048e20f6cbb12bb3741ce45343ab96d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Departamento de Planeamento da Segurança Social
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366472:por
+  label: "Alterado o art. 23.º do presente diploma, pelo DEC LEI.472/79.14.12.1979.PCM, DR.IS [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1979-366472
+  date: '1979-12-14'
+- type: amended_by
+  target: pt:dre:461798:por
+  label: "Alterado o art. 21º pelo DEC LEI.405/80.26.09.1980.PCM, DR.IS [223] de 26.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1980-461798
+  date: '1980-09-26'
+- type: amended_by
+  target: pt:dre:387354:por
+  label: "Criados lugares no quadro de pessoal publicado em anexo ao presente diploma, na redacção da Port 26-C/80, de 09-Jan,\
+    \ pela PORT.425/84.29.06.1984.PCM, DR.IS [149] de 29.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1984-387354
+  date: '1984-06-29'
+- type: amended_by
+  target: pt:dre:179850:por
+  label: "Criado um lugar no quadro de pessoal anexo ao presente diploma, pela PORT.527/85.31.07.1985.PCM, DR.IS [174] de\
+    \ 31.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/527-1985-179850
+  date: '1985-07-31'
+- type: amended_by
+  target: pt:dre:285766:por
+  label: "Alterado o quadro de pessoal pela PORT.168/88.19.03.1988.MF, DR.IS [66] de 19.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1988-285766
+  date: '1988-03-19'
+- type: amended_by
+  target: pt:dre:373270:por
+  label: "Alterado o quadro de pessoal do Departamento de Planeamento da Segurança Social pela PORT.430/88.1988.07.06.MF,DR.IS\
+    \ [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-1988-373270
+  date: '1988-07-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:07Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +178,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza, atribuições e competências
 
-###### Artigo 1.º - 1 - O Departamento de Planeamento da Segurança Social, adiante designado abreviadamente por «Departamento», é um órgão de estudo, coordenação e apoio técnico no domínio da formulação da política e do planeamento da segurança social que, nos termos do disposto no n.º 1 do artigo 37.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, funciona na dependência do Ministro dos Assuntos Sociais.
+Artigo 1.º - 1 - O Departamento de Planeamento da Segurança Social, adiante designado abreviadamente por «Departamento», é um órgão de estudo, coordenação e apoio técnico no domínio da formulação da política e do planeamento da segurança social que, nos termos do disposto no n.º 1 do artigo 37.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, funciona na dependência do Ministro dos Assuntos Sociais.
 
 2 - O Departamento será apoiado por núcleos de planeamento a constituir nos órgãos da estrutura regional da segurança social e, quando as circunstâncias o justifiquem, nas direcções-gerais ou serviços equiparados da estrutura orgânica central.
 
-###### Art. 2.º - 1 - Nos termos do n.º 1 do artigo 13.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, o Departamento, no exercício das suas atribuições, actua especificamente nas áreas seguintes:
+Art. 2.º - 1 - Nos termos do n.º 1 do artigo 13.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, o Departamento, no exercício das suas atribuições, actua especificamente nas áreas seguintes:
 
 a) Planeamento;
 
@@ -124,7 +194,7 @@ a) Realização de estudos;
 
 b) Prestação de apoio técnico.
 
-###### Art. 3.º Para o desempenho das suas atribuições, compete ao Departamento:
+Art. 3.º Para o desempenho das suas atribuições, compete ao Departamento:
 
 1) Em matéria de planeamento no sector da segurança social, e de acordo com o processo definido pela respectiva orgânica central:
 
@@ -178,7 +248,7 @@ b) Realizar, no âmbito das funções de planeamento e programação, as acçõe
 
 ### CAPÍTULO II — Organização interna e funcionamento
 
-###### Art. 4.º - 1 - O Departamento é dirigido por um director, com a categoria de director-geral.
+Art. 4.º - 1 - O Departamento é dirigido por um director, com a categoria de director-geral.
 
 2 - Ao director, além de dirigir a actividade global do Departamento, superintendendo nas suas áreas de acção, compete, em especial:
 
@@ -204,7 +274,7 @@ c) Definir os indicadores que permitam avaliar a eficácia e eficiência das ac�
 
 d) Contribuir para a permanente articulação de trabalho interáreas, promovendo entre elas a pronta circulação de informação e o relacionamento desburocratizado.
 
-###### Art. 5.º - 1 - Para o desempenho das suas atribuições, o Departamento compreende os seguintes serviços:
+Art. 5.º - 1 - Para o desempenho das suas atribuições, o Departamento compreende os seguintes serviços:
 
 a) Direcção de Serviços de Planeamento;
 
@@ -214,7 +284,7 @@ c) Serviço de Apoio Administrativo.
 
 2 - Os serviços a que se referem as alíneas a) e b) do número anterior correspondem a áreas permanentes de acção em cujo âmbito poderão constituir-se, nos termos da regulamentação interna do Departamento, os núcleos funcionais e os projectos julgados necessários.
 
-###### Art. 6.º - 1 - À Direcção de Serviços de Planeamento incumbe, em geral, o exercício das competências referidas nos n.os 1 e 3 do artigo 3.º
+Art. 6.º - 1 - À Direcção de Serviços de Planeamento incumbe, em geral, o exercício das competências referidas nos n.os 1 e 3 do artigo 3.º
 
 2 - À Direcção de Serviços de Coordenação e Avaliação de Programas incumbe, em geral, o exercício das competências referidas no n.º 2 do artigo 3.º
 
@@ -222,7 +292,7 @@ c) Serviço de Apoio Administrativo.
 
 4 - Ao Serviço de Apoio Administrativo compete prestar o apoio administrativo e logístico exigido pelo funcionamento do Departamento, assegurando o necessário em matéria de expediente, arquivo e pessoal, contabilidade e património.
 
-###### Art. 7.º - 1 - Para o desempenho das suas atribuições o Departamento articulará a sua actividade com a dos outros serviços ou entidades que de qualquer modo intervenham em matéria de planeamento e programação, designadamente:
+Art. 7.º - 1 - Para o desempenho das suas atribuições o Departamento articulará a sua actividade com a dos outros serviços ou entidades que de qualquer modo intervenham em matéria de planeamento e programação, designadamente:
 
 a) Os órgãos e serviços a que se refere o n.º 2 do artigo 1.º do presente diploma;
 
@@ -230,9 +300,9 @@ b) Os órgãos central, regionais, sectoriais e interministeriais de planeamento
 
 2 - O Departamento poderá, mediante relacionamento directo, solicitar as informações e quaisquer outros elementos de que carece no exercício da sua actividade a todos os órgãos, serviços e instituições de segurança social, os quais ficam obrigados a prestar-lhe a colaboração necessária.
 
-###### Art. 8.º Os aspectos relativos ao funcionamento do Departamento que não se encontrem previstos no presente diploma serão objecto de regulamento interno proposto pelo director e aprovado por portaria conjunta do Ministro dos Assuntos Sociais e pelo membro do Governo que tiver a seu cargo a Administração Pública.
+Art. 8.º Os aspectos relativos ao funcionamento do Departamento que não se encontrem previstos no presente diploma serão objecto de regulamento interno proposto pelo director e aprovado por portaria conjunta do Ministro dos Assuntos Sociais e pelo membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### Art. 9.º - 1 - Junto do Departamento funcionará a Comissão de Planeamento da Segurança Social para assegurar a coordenação das actividades a prosseguir, no âmbito do planeamento e da programação, pelos órgãos, serviços e instituições do sector.
+Art. 9.º - 1 - Junto do Departamento funcionará a Comissão de Planeamento da Segurança Social para assegurar a coordenação das actividades a prosseguir, no âmbito do planeamento e da programação, pelos órgãos, serviços e instituições do sector.
 
 2 - A Comissão será composta por:
 
@@ -244,19 +314,19 @@ b) Delegados dos órgãos e serviços a que se refere o n.º 2 do artigo 1.º do
 
 4 - A Comissão estabelecerá as suas normas internas de funcionamento em regulamento a aprovar por despacho ministerial.
 
-###### Art. 10.º - 1 - Junto do Departamento funcionará a Comissão Consultiva de Estatística da Segurança Social, que se ocupará dos assuntos de natureza estatística que interessam aos diversos órgãos e serviços do sector.
+Art. 10.º - 1 - Junto do Departamento funcionará a Comissão Consultiva de Estatística da Segurança Social, que se ocupará dos assuntos de natureza estatística que interessam aos diversos órgãos e serviços do sector.
 
 2 - A Comissão referida no número anterior integra-se no âmbito e contribui para a realização dos fins da Comissão Consultiva de Estatística do Ministério dos Assuntos Sociais, criada ao abrigo do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março.
 
 3 - A composição e as normas internas de funcionamento da Comissão Consultiva de Estatística da Segurança Social constarão de regulamento a aprovar por despacho ministerial.
 
-###### Art. 11.º - 1 - Poderá ser autorizada, mediante despacho ministerial e sob proposta do director do Departamento, a celebração de contratos de prestação de serviço com entidades privadas ou públicas, bem como o convite a entidades nacionais ou estrangeiras para realizarem inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições do Departamento.
+Art. 11.º - 1 - Poderá ser autorizada, mediante despacho ministerial e sob proposta do director do Departamento, a celebração de contratos de prestação de serviço com entidades privadas ou públicas, bem como o convite a entidades nacionais ou estrangeiras para realizarem inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições do Departamento.
 
 2 - Os contratos deverão ser reduzidos a escrito e mencionar a natureza do trabalho, o seu montante e o prazo previsto para a sua execução, sendo pagos por força de dotações próprias a inscrever para tal fim no orçamento do Departamento, não conferindo em nenhum caso às entidades contratadas a qualidade de agente administrativo.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 12.º - 1 - O pessoal do Departamento agrupar-se-á de acordo com a seguinte classificação:
+Art. 12.º - 1 - O pessoal do Departamento agrupar-se-á de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -270,7 +340,7 @@ e) Pessoal auxiliar.
 
 2 - O quadro e as carreiras do pessoal do Departamento terão a composição constante do mapa anexo ao presente diploma, que poderá ser alterado, sempre que as circunstâncias o justifiquem, nos termos do disposto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
-###### Art. 13.º - 1 - Os lugares de director do Departamento, director de serviços e chefe de divisão serão providos nos termos da lei geral.
+Art. 13.º - 1 - Os lugares de director do Departamento, director de serviços e chefe de divisão serão providos nos termos da lei geral.
 
 2 - O lugar de director é equiparado ao cargo de director-geral.
 
@@ -280,7 +350,7 @@ e) Pessoal auxiliar.
 
 5 - Exceptuam-se do regime estabelecido no presente artigo os lugares a preencher pelo pessoal dirigente com nomeação definitiva que consta das observações insertas no mapa de pessoal anexo ao presente diploma.
 
-###### Art. 14.º Os lugares da carreira de pessoal técnico superior serão providos da seguinte forma:
+Art. 14.º Os lugares da carreira de pessoal técnico superior serão providos da seguinte forma:
 
 1) Técnico assessor - por concurso documental e avaliação curricular, de entre os técnicos superiores principais do quadro do Departamento habilitados com licenciatura com, pelo menos, seis anos de bom e efectivo serviço na categoria e que tenham revelado capacidade de concepção, coordenação e orientação;
 
@@ -290,7 +360,7 @@ e) Pessoal auxiliar.
 
 4) Técnico superior de 2.ª classe - por concurso documental, de entre funcionários do quadro do Departamento habilitados com licenciatura e de entre indivíduos a ele estranhos com as mesmas habilitações, com preferência pelos primeiros e pelos que possuírem estágios com aproveitamento ou especialização em planeamento.
 
-###### Art. 15.º O pessoal técnico auxiliar do quadro do Departamento será provido da seguinte forma:
+Art. 15.º O pessoal técnico auxiliar do quadro do Departamento será provido da seguinte forma:
 
 1) Técnico auxiliar principal - por concurso documental, de entre os técnicos auxiliares de 1.ª classe do quadro do Departamento com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -298,7 +368,7 @@ e) Pessoal auxiliar.
 
 3) Técnico auxiliar de 2.ª classe - por concurso documental, de entre os funcionários do Departamento habilitados com o curso geral dos liceus ou equiparado e de indivíduos estranhos ao quadro com iguais habilitações, com preferência pelos primeiros e pelos que possuírem estágios com aproveitamento ou especialização em funções de planeamento.
 
-###### Art. 16.º O pessoal administrativo do quadro do Departamento será provido da seguinte forma:
+Art. 16.º O pessoal administrativo do quadro do Departamento será provido da seguinte forma:
 
 1) Chefe de secção - por escolha do Ministro dos Assuntos Sociais sob proposta do director do Departamento, de entre os primeiros-oficiais com mais de três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior adequado ao desempenho das respectivas funções;
 
@@ -314,9 +384,9 @@ b) Escriturários-dactilógrafos do quadro do Departamento com, pelo menos, trê
 
 5) Escriturários-dactilógrafos - por concurso de provas escritas e práticas de que constará obrigatoriamente uma prova de dactilografia a que serão admitidos indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 17.º O recrutamento do pessoal auxiliar do quadro do Departamento será feito pela forma prevista na legislação geral.
+Art. 17.º O recrutamento do pessoal auxiliar do quadro do Departamento será feito pela forma prevista na legislação geral.
 
-###### Art. 18.º - 1 - O provimento do pessoal do Departamento será feito por nomeação provisória ou comissão de serviço, durante o período de um ano, salvo os casos de provimento por contrato, nos termos da lei geral e sem prejuízo do disposto no artigo 13.
+Art. 18.º - 1 - O provimento do pessoal do Departamento será feito por nomeação provisória ou comissão de serviço, durante o período de um ano, salvo os casos de provimento por contrato, nos termos da lei geral e sem prejuízo do disposto no artigo 13.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -328,9 +398,9 @@ b) Será exonerado ou regressará ao lugar de origem conforme se trate de nomea�
 
 4 - Para efeitos do disposto no n.º 1, será contado o tempo de serviço prestado ao Departamento em regime de contrato.
 
-###### Art. 19.º O pessoal do quadro do Departamento ficará sujeito ao regime jurídico da função pública. incluindo o previsto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+Art. 19.º O pessoal do quadro do Departamento ficará sujeito ao regime jurídico da função pública. incluindo o previsto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 20.º - 1 - Quando as necessidades de serviço o exijam, poderá o Departamento, por despacho ministerial, sob proposta do director, recorrer às seguintes situações especiais:
+Art. 20.º - 1 - Quando as necessidades de serviço o exijam, poderá o Departamento, por despacho ministerial, sob proposta do director, recorrer às seguintes situações especiais:
 
 a) Destacamento - não ocupando o funcionário lugar do quadro, sendo pago pelo organismo ou serviço de origem e não podendo o lugar de que é titular ser preenchido por qualquer forma;
 
@@ -340,7 +410,7 @@ b) Requisição - não ocupando o funcionário lugar no quadro, sendo pago pelo 
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 21.º - 1 - O pessoal que à data da publicação do presente diploma estiver a qualquer título afecto ao Grupo Coordenador de Planeamento da Secretaria de Estado da Segurança Social será provido nos lugares do quadro do Departamento, a que se refere o n.º 2 do artigo 12.º, reclassificado de harmonia com as atribuições e áreas de actuação específicas do Departamento, com respeito pelas regras estabelecidas nos n.os 1, 2, 3 e 5 do artigo 22.º do presente diploma.
+Art. 21.º - 1 - O pessoal que à data da publicação do presente diploma estiver a qualquer título afecto ao Grupo Coordenador de Planeamento da Secretaria de Estado da Segurança Social será provido nos lugares do quadro do Departamento, a que se refere o n.º 2 do artigo 12.º, reclassificado de harmonia com as atribuições e áreas de actuação específicas do Departamento, com respeito pelas regras estabelecidas nos n.os 1, 2, 3 e 5 do artigo 22.º do presente diploma.
 
 2 - Nos organismos donde provier o pessoal a integrar no quadro do Departamento, serão abatidos aos respectivos quadros do pessoal os lugares que aqueles ocupavam.
 
@@ -352,7 +422,7 @@ b) Requisição - não ocupando o funcionário lugar no quadro, sendo pago pelo 
 
 6 - A proposta do referido grupo de trabalho será objecto de decisão conjunta do Ministro das Finanças e do Plano e do Ministro dos Assuntos Sociais.
 
-###### Art. 22.º - 1 - O provimento a que se refere o artigo anterior será feito com a observância das seguintes regras:
+Art. 22.º - 1 - O provimento a que se refere o artigo anterior será feito com a observância das seguintes regras:
 
 a) Para qualquer lugar do quadro e com respeito pelas habilitações literárias exigidas no presente diploma;
 
@@ -368,29 +438,29 @@ c) Para lugar do quadro que integre as funções efectivamente exercidas pelo in
 
 5 - As presentes regras de provimento não são aplicáveis à categoria de técnico assessor.
 
-###### Art. 23.º Quando as remunerações das categorias atribuídas ao pessoal referido no artigo 2.º forem inferiores às remunerações que o mesmo pessoal vem auferindo, será atribuído a este um complemento correspondente à diferença entre aquelas remunerações até que, por promoção ou revisão salarial, seja alcançado o quantitativo das segundas.
+Art. 23.º Quando as remunerações das categorias atribuídas ao pessoal referido no artigo 2.º forem inferiores às remunerações que o mesmo pessoal vem auferindo, será atribuído a este um complemento correspondente à diferença entre aquelas remunerações até que, por promoção ou revisão salarial, seja alcançado o quantitativo das segundas.
 
-###### Art. 24.º Caso venham a ser criados quadros únicos no âmbito do Ministério dos Assuntos Sociais, o pessoal entretanto provido nos lugares do quadro a que se refere o n.º 2 do artigo 12.º para eles transitará, sem prejuízo dos direitos adquiridos.
+Art. 24.º Caso venham a ser criados quadros únicos no âmbito do Ministério dos Assuntos Sociais, o pessoal entretanto provido nos lugares do quadro a que se refere o n.º 2 do artigo 12.º para eles transitará, sem prejuízo dos direitos adquiridos.
 
-###### Art. 25.º Transitam para o Departamento toda a documentação, equipamento e outros valores adstritos ao exercício das competências que lhe estio cometidas, nomeadamente os contratos de arrendamento das instalações destinadas ao seu funcionamento.
+Art. 25.º Transitam para o Departamento toda a documentação, equipamento e outros valores adstritos ao exercício das competências que lhe estio cometidas, nomeadamente os contratos de arrendamento das instalações destinadas ao seu funcionamento.
 
-###### Art. 26.º Os encargos decorrentes da execução do presente diploma serão suportados pelas entidades de origem do pessoal, no ano de 1979, e pela dotação orçamental do Departamento, nos anos seguintes.
+Art. 26.º Os encargos decorrentes da execução do presente diploma serão suportados pelas entidades de origem do pessoal, no ano de 1979, e pela dotação orçamental do Departamento, nos anos seguintes.
 
-###### Art. 27.º As competências dos núcleos de planeamento previstos no n.º 2 do artigo 1.º do presente diploma serão definidas nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, sob proposta do director do Departamento, ouvida a Comissão de Planeamento da Segurança Social.
+Art. 27.º As competências dos núcleos de planeamento previstos no n.º 2 do artigo 1.º do presente diploma serão definidas nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, sob proposta do director do Departamento, ouvida a Comissão de Planeamento da Segurança Social.
 
-###### Art. 28.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro dos Assuntos Sociais, do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
+Art. 28.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro dos Assuntos Sociais, do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 1979. - Carlos Alberto da Mota Pinto - Acácio Manuel Pereira Magro - António Jorge de Figueiredo Lopes - João Pinto Ribeiro.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19900/21172123.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19900/21172123.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19900/21172123.pdf)
 
 Observação. - Enquanto se encontrarem providos quatro funcionários na categoria de primeiro-oficial, só pode ser preenchida uma vaga em cada uma das categorias de segundo-oficial e terceiro-oficial. As restantes vagas previstas só poderão ser preenchidas à medida que forem extintos os lugares referidos na alínea b).
 
@@ -398,4 +468,4 @@ Departamento de Planeamento da Segurança Social
 
 Mapa comparativo de encargos com pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19900/21172123.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19900/21172123.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19900/21172123.pdf)

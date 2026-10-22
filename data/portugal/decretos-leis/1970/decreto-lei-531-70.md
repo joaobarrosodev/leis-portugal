@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/26000/16751676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1970-147667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f44417bb50ff73732bfc67557c9c0bf0a993f6bbef76f63510cff30a07a77b7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f340980c2b5f722af6ec70d1c7216680f77e9a98167ba266149196f767bf60dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Militar
+- Pessoal Navegante
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:407942:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:214249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272389:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:407942:por
+  label: "Revogado pelo DEC LEI.711/73.31.12.1973.PC, DG.IS [302] de 31.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/711-1973-407942
+  date: '1974-12-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:03Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +112,14 @@ Havendo vantagem em que as condições sejam idênticas às estatuídas no [Decr
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O corpo do artigo único do Decreto-Lei no 48427, de 11 de Junho de 1968, passa a ter a seguinte redacção:
+Artigo único. O corpo do artigo único do Decreto-Lei no 48427, de 11 de Junho de 1968, passa a ter a seguinte redacção:
 
-###### Artigo único. Poderão ter ingresso no quadro permanente de oficiais pilotos navegadores da Força Aérea os oficiais milicianos pilotos aviadores que o desejam e obedeçam à condição de terem um mínimo de dez anos consecutivos de serviço efectivo, dos quais quatro, pelo menos, em campanha, com muito boas informações.
+Artigo único. Poderão ter ingresso no quadro permanente de oficiais pilotos navegadores da Força Aérea os oficiais milicianos pilotos aviadores que o desejam e obedeçam à condição de terem um mínimo de dez anos consecutivos de serviço efectivo, dos quais quatro, pelo menos, em campanha, com muito boas informações.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

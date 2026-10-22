@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 26/1975, 1º Suplemento, Série I de 1975-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 132-(1) a 132-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/02601/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-a-1975-617139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ab4ec378267986201e62a5822df45868b85d4ba86af3123d492da0745277f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25d9fcf00db8f0f868d9f9816a41cbd68114e70b623afcbee2b8a9db5a47e2b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Nacional dos Vinhos
+- Vinho
+- Vitivinicultor
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:52Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +125,7 @@ Nestes termos:
 
 Usando da faculdade conferida no artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os produtores de vinho maduro cuja produção exceda 500 hl ficam obrigados a fazer a entrega à Junta Nacional do Vinho de uma parte da sua produção na colheita de 1974, com exclusão dos vinhos defeituosos ou alterados, nas seguintes percentagens:
+Artigo 1.º - 1. Os produtores de vinho maduro cuja produção exceda 500 hl ficam obrigados a fazer a entrega à Junta Nacional do Vinho de uma parte da sua produção na colheita de 1974, com exclusão dos vinhos defeituosos ou alterados, nas seguintes percentagens:
 
 ... Percentagem
 
@@ -141,22 +149,22 @@ Produtores de mais de 12500 hl ... 35
 
 5. Os produtores abrangidos por este diploma entregarão os vinhos produzidos nas regiões demarcadas do Douro e do Dão nos respectivos organismos vitivinícolas regionais, que os entregarão à Junta.
 
-###### Art. 2.º - 1. Os produtores que tenham vinhos maduros ou verdes legalmente considerados defeituosos ou alterados ficam obrigados a comunicar aos organismos das respectivas áreas a sua existência e a proceder à entrega nos seus armazéns.
+Art. 2.º - 1. Os produtores que tenham vinhos maduros ou verdes legalmente considerados defeituosos ou alterados ficam obrigados a comunicar aos organismos das respectivas áreas a sua existência e a proceder à entrega nos seus armazéns.
 
 2. Os vinhos de queima retirados aos produtores com produção até 500 hl e às adegas cooperativas serão pagos até noventa dias após a entrega.
 
 3. Os vinhos de queima retirados aos produtores com mais de 500 hl serão pagos até cento e oitenta dias após a entrega.
 
-###### Art. 3.º Em portarias dos Secretários de Estado da Agricultura e do Abastecimento e Preços serão estabelecidas as condições de compra e demais normas indispensáveis à execução deste diploma.
+Art. 3.º Em portarias dos Secretários de Estado da Agricultura e do Abastecimento e Preços serão estabelecidas as condições de compra e demais normas indispensáveis à execução deste diploma.
 
-###### Art. 4.º As infracções do disposto neste diploma e nas portarias publicadas em sua execução constituem transgressões puníveis com a multa de 6$00 por litro de vinho objecto de infracção.
+Art. 4.º As infracções do disposto neste diploma e nas portarias publicadas em sua execução constituem transgressões puníveis com a multa de 6$00 por litro de vinho objecto de infracção.
 
-###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+Art. 5.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 31 de Janeiro de 1975.**
+Promulgado em 31 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

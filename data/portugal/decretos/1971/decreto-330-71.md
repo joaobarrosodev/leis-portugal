@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/330-1971-643119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f66ad56b277e32d14a26a547f3193e3325ac3c84981aefd429bbfc7e2c3a51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fa0cae1f1635449bcb5be8e9a51ecb3682bcfb7191beed9e6a113070a2dbb0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:29Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +96,20 @@ Considerando que a Comissão do Domínio Público Marítimo se pronunciou favor�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São desafectados do domínio público marítimo os terrenos do estuário do rio Sado representados na planta anexa, limitados a norte pelo paralelo 38º 29' 10'' N., a oeste pelo meridiano 8º 48' 6'' W. de Greenwich, a leste pelo meridiano 8º 47' 17'' W. de Greenwich e a sul pelo paralelo 38º 28' 15'' N.
+Artigo 1.º São desafectados do domínio público marítimo os terrenos do estuário do rio Sado representados na planta anexa, limitados a norte pelo paralelo 38º 29' 10'' N., a oeste pelo meridiano 8º 48' 6'' W. de Greenwich, a leste pelo meridiano 8º 47' 17'' W. de Greenwich e a sul pelo paralelo 38º 28' 15'' N.
 
-###### Art. 2.º Os referidos terrenos serão destinados à implantação de um estaleiro de construção naval e às suas zonas de protecção e expansão, não podendo neles ser construídos aterros, docas, cais, molhes ou outras obras que possam afectar o regime flúvio-marítimo sem que os respectivos projectos sejam aprovados pelo Ministro das Obras Públicas.
+Art. 2.º Os referidos terrenos serão destinados à implantação de um estaleiro de construção naval e às suas zonas de protecção e expansão, não podendo neles ser construídos aterros, docas, cais, molhes ou outras obras que possam afectar o regime flúvio-marítimo sem que os respectivos projectos sejam aprovados pelo Ministro das Obras Públicas.
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 16 de Julho de 1971.**
+Promulgado em 16 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Desafectação de terrenos do domínio público marítimo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/18200/11351136.pdf))](https://files.diariodarepublica.pt/1s/1971/08/18200/11351136.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/18200/11351136.pdf)
 
-**O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

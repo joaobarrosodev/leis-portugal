@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 73/1976, 2º Suplemento, Série I de 1976-03-26
   number: '73'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 610-(3) a 610-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07302/00030012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-1976-383264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a601bc4e129b3c2d2899642db03f1a9ccae467486bca6db4830a6ae07b1dda1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09801ae352d2d340262696b550459cb564a7f3ed6fa7255471055105bfd4cb8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Fiscalização
+- Conselho de Administração
+- Criação de Empresas
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- Petrogal
+- Prospecção de Petróleo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146547:por
+  label: "Transformada em sociedade anónima de capitais maioritariamente públicos, com a denominação de PETROGAL, S.A., a\
+    \ empresa pública PETROGAL, E.P., criada neste diploma, pelo DEC LEI.103-A/89.04.04.1989.MIE, DR.IS [78-Supl] de 04.04.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-a-1989-146547
+  date: '1989-04-04'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:497831:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 60
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:55Z'
   warnings: []
   errors: []
 ---
@@ -100,47 +125,47 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É instituída a empresa pública Petróleos de Portugal, E. P., abreviadamente Petrogal.
+Artigo 1.º - 1. É instituída a empresa pública Petróleos de Portugal, E. P., abreviadamente Petrogal.
 
 2. A Petrogal é uma pessoa colectiva de direito público que se rege pela lei aplicável às empresas públicas e pelo estatuto que, em anexo, faz parte integrante do presente decreto.
 
 3. A instituição declarada neste artigo produz efeitos a partir de 1 de Abril de 1976.
 
-###### Art. 2.º - 1. É transferida para a Petrogal, na data fixada pelo n.º 3 do artigo precedente, a universalidade dos direitos e obrigações de cada uma das empresas que, nos termos do artigo 4.º do [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril, assumiram a posição jurídica das sociedades cuja nacionalização foi declarada no n.º 1 do artigo 1.º do mesmo decreto-lei.
+Art. 2.º - 1. É transferida para a Petrogal, na data fixada pelo n.º 3 do artigo precedente, a universalidade dos direitos e obrigações de cada uma das empresas que, nos termos do artigo 4.º do [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril, assumiram a posição jurídica das sociedades cuja nacionalização foi declarada no n.º 1 do artigo 1.º do mesmo decreto-lei.
 
 2. As transmissões previstas no número anterior operam-se por virtude do presente diploma, que servirá de título suficiente para todos os efeitos legais, inclusive os de registo.
 
 3. As mesmas transmissões serão registadas mediante averbamento e ficam isentas de todos os impostos, taxas e emolumentos.
 
-###### Art. 3.º É igualmente transferida para a Petrogal, na data a que se refere o artigo anterior e de harmonia com as regras nele dispostas, a titularidade das quotas nacionalizadas nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril.
+Art. 3.º É igualmente transferida para a Petrogal, na data a que se refere o artigo anterior e de harmonia com as regras nele dispostas, a titularidade das quotas nacionalizadas nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril.
 
-###### Art. 4.º Os direitos de participação social e as obrigações conexas que, por força do disposto no artigo 2.º, hajam sido transferidos para a Petrogal poderão ser distraídos da titularidade desta, mediante resolução do Conselho de Ministros.
+Art. 4.º Os direitos de participação social e as obrigações conexas que, por força do disposto no artigo 2.º, hajam sido transferidos para a Petrogal poderão ser distraídos da titularidade desta, mediante resolução do Conselho de Ministros.
 
-###### Art. 5.º - 1. Transitam para a Petrogal, independentemente de quaisquer formalidades, os trabalhadores que, de harmonia com o n.º 1 do artigo 5.º e o n.º 2 do artigo 7.º do [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril, hajam transitado para as empresas nacionalizadas ou tenham sido admitidos nelas e que em 1 de Abril de 1976 devessem considerar-se ao serviço das mesmas empresas, se estas então subsistissem.
+Art. 5.º - 1. Transitam para a Petrogal, independentemente de quaisquer formalidades, os trabalhadores que, de harmonia com o n.º 1 do artigo 5.º e o n.º 2 do artigo 7.º do [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril, hajam transitado para as empresas nacionalizadas ou tenham sido admitidos nelas e que em 1 de Abril de 1976 devessem considerar-se ao serviço das mesmas empresas, se estas então subsistissem.
 
 2. Os trabalhadores de que trata este artigo transitam para a Petrogal integrados nos quadros de origem e com os direitos e obrigações emergentes da respectiva situação nesses quadros.
 
 3. Os direitos mencionados no número precedente não prejudicam a faculdade de, nos termos estatutários, o conselho de gerência proceder à conversão de quadros de origem em quadros únicos e promover a unificação do regime do pessoal.
 
-###### Art. 6.º Enquanto não for reordenado o sector petrolífero, a Petrogal sujeita-se, com respeito às actividades que exercer nesse sector, à disciplina legal vigente e ao regime estabelecido nos instrumentos que autorizavam o exercício das referidas actividades às sociedades nacionalizadas pelo [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril.
+Art. 6.º Enquanto não for reordenado o sector petrolífero, a Petrogal sujeita-se, com respeito às actividades que exercer nesse sector, à disciplina legal vigente e ao regime estabelecido nos instrumentos que autorizavam o exercício das referidas actividades às sociedades nacionalizadas pelo [Decreto-Lei n.º 205-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-a-1975-497831), de 16 de Abril.
 
-###### Art. 7.º Sob proposta do Ministro da Indústria e Tecnologia, o Governo concederá à Petrogal as isenções tributárias que justificadamente possam beneficiá-la, consideradas aquelas de que gozam as empresas nacionalizadas.
+Art. 7.º Sob proposta do Ministro da Indústria e Tecnologia, o Governo concederá à Petrogal as isenções tributárias que justificadamente possam beneficiá-la, consideradas aquelas de que gozam as empresas nacionalizadas.
 
-###### Art. 8.º Os poderes de tutela do Governo sobre a Petrogal são exercidos pelo Ministro da Indústria e Tecnologia, salva disposição expressa em contrário.
+Art. 8.º Os poderes de tutela do Governo sobre a Petrogal são exercidos pelo Ministro da Indústria e Tecnologia, salva disposição expressa em contrário.
 
-###### Art. 9.º Consideram-se extintas em 1 de Abril de 1976 as empresas cujos direitos e obrigações são transferidos para a Petrogal nos termos do artigo 2.º
+Art. 9.º Consideram-se extintas em 1 de Abril de 1976 as empresas cujos direitos e obrigações são transferidos para a Petrogal nos termos do artigo 2.º
 
-###### Art. 10.º As dúvidas que suscitarem a interpretação e a aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho conjunto do Primeiro-Ministro e do Ministro da Indústria e Tecnologia.
+Art. 10.º As dúvidas que suscitarem a interpretação e a aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho conjunto do Primeiro-Ministro e do Ministro da Indústria e Tecnologia.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## Anexo ao Decreto-Lei n.º 217-A/76
+Anexo ao Decreto-Lei n.º 217-A/76
 
 ESTATUTO DE PETRÓLEOS DE PORTUGAL, E. P. - PETROGAL
 
@@ -734,4 +759,4 @@ g) Os membros dos órgãos da empresa terão ainda direito às regalias sociais 
 
 2. Os membros dos órgãos da empresa que, de harmonia com o número anterior, forem nomeados em substituição de outros cujo mandato haja cessado antes do seu termo normal, manter-se-ão em funções até à data em que terminaria o mandato daqueles que substituíram.
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

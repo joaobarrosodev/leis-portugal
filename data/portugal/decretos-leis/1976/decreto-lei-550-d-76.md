@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 161/1976, 1º Suplemento, Série I de 1976-07-12
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(3) a 1540-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16101/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-d-1976-181629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f7f9a9ab25b4ac67a58442240e571f7b99c660da2b43e27472c0794c7ef2948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d8bd6b953b45222a54188df3afa8bdd605953734cd525119e75211386957628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Instituto de Defesa Nacional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:381345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329023:por
+  label: "Alterados os artigos 4.º, 5.º, 6.º, 7.º, 8.º e 11.º e a designação de \"Departamento de Estudos e Ensino\", para\
+    \ \"Departamento de Estudos\", constante do n.º 2 do quadro anexo ao presente diploma, pelo DEC LEI.298/78.29.09.1978.CR,\
+    \ DR.IS [225] de 29.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1978-329023
+  date: '1978-09-29'
+- type: cites
+  target: pt:dre:466056:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:429632:por
+  label: Rectificado pela DECL.DD8248.13.08.1976.EMGFA, DR.IS [189] de 13.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-429632
+  date: '1976-08-13'
+- type: repealed_by
+  target: pt:dre:381345:por
+  label: "Revogado pelo DEC LEI.261/79.01.08.1979.CR, DR.IS [176] de 01.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1979-381345
+  date: '1979-08-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:51Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +121,9 @@ Atendendo a que se encontram suspensas sine die pelo [Decreto-Lei n.º 635/74](h
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Instituto da Defesa Nacional (IDN), na dependência do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA).
+Artigo 1.º É criado o Instituto da Defesa Nacional (IDN), na dependência do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA).
 
-###### Art. 2.º - 1. O IDN tem por missão:
+Art. 2.º - 1. O IDN tem por missão:
 
 a) Contribuir para a definição de uma doutrina de defesa comum aos três ramos das FA, no quadro da política geral definida pelos órgãos de soberania;
 
@@ -109,7 +133,7 @@ c) Contribuir para o esclarecimento recíproco de quadros das FA, da administra�
 
 2. O Instituto e os estabelecimentos superiores de ensino dos três ramos das FA coordenam as suas actividades pedagógicas por forma a garantir a unidade de doutrina nos programas das matérias afins.
 
-###### Art. 3.º Para os fins expressos no artigo anterior, o IDN, de acordo com directivas dimanas do Estado-Maior-General das Forças Armadas (EMGFA):
+Art. 3.º Para os fins expressos no artigo anterior, o IDN, de acordo com directivas dimanas do Estado-Maior-General das Forças Armadas (EMGFA):
 
 a) Organiza anualmente cursos ou estágios para militares e para civis da administração pública e das actividades privadas, onde serão ministrados os conhecimentos a que se refere o artigo 2.º;
 
@@ -119,7 +143,7 @@ c) Promove e patrocina viagens, visitas, conferências e encontros nacionais e i
 
 d) Ocupa-se de outras actividades relacionadas com as anteriores.
 
-###### Art. 4.º Para a consecução dos seus objectivos, dispõe o IDN de:
+Art. 4.º Para a consecução dos seus objectivos, dispõe o IDN de:
 
 a) Conselho directivo;
 
@@ -129,7 +153,7 @@ c) Departamento de estudos e ensino;
 
 d) Departamento de apoio.
 
-###### Art. 5.º - 1. O IDN é dirigido por um conselho directivo formado por quatro membros, sendo um oficial general de qualquer ramo das FA, que preside, e os restantes os directores do Instituto de Altos Estudos Militares (IAEM), Instituto Superior Naval de Guerra (ISNG) e Escola Superior da Força Aérea (ESFA).
+Art. 5.º - 1. O IDN é dirigido por um conselho directivo formado por quatro membros, sendo um oficial general de qualquer ramo das FA, que preside, e os restantes os directores do Instituto de Altos Estudos Militares (IAEM), Instituto Superior Naval de Guerra (ISNG) e Escola Superior da Força Aérea (ESFA).
 
 2. A nomeação do presidente directivo, colocado em comissão de serviço no EMGFA pelo CEMGFA, deve ter em atenção o critério de atribuição sucessiva do cargo a representantes de cada um dos ramos das FA, não devendo a permanência no mesmo ser superior a três anos.
 
@@ -141,7 +165,7 @@ d) Departamento de apoio.
 
 6. O presidente do conselho directivo é coadjuvado pelo chefe do departamento de estudos e ensino, nomeado por despacho do CEMGFA de entre os assessores, o qual dirige as actividades pedagógicas de acordo com a orientação superiormente estabelecida.
 
-###### Art. 6.º - 1. Ao conselho directivo compete, especialmente:
+Art. 6.º - 1. Ao conselho directivo compete, especialmente:
 
 a) Definir as actividades pedagógicas do Instituto, garantindo a sua coordenação com os estabelecimentos superiores de ensino dos ramos;
 
@@ -153,9 +177,9 @@ d) Apreciar os estudos elaborados no Instituto que possam contribuir para a defi
 
 2. O conselho directivo dispõe da assembleia de docentes como órgão de consulta e estudo para todos os assuntos pedagógicos e de doutrina, à qual compete, quando consultada, dar parecer sobre os planos e programas das actividades pedagógicas desenvolvidas no Instituto.
 
-###### Art. 7.º A assembleia de docentes é constituída por todos os assessores, militares e civis, podendo reunir apenas com o grupo de assessores militares quando o assunto da consulta for do foro militar, o que será definido caso a caso pelo conselho directivo.
+Art. 7.º A assembleia de docentes é constituída por todos os assessores, militares e civis, podendo reunir apenas com o grupo de assessores militares quando o assunto da consulta for do foro militar, o que será definido caso a caso pelo conselho directivo.
 
-###### Art. 8.º O departamento de estudos e ensino é chefiado por um oficial general de qualquer ramo, nomeado de entre os assessores, e sob proposta do conselho directivo, por despacho do CEMOFA, ouvido o CEM do respectivo ramo, e compreende o corpo de assessores, o gabinete de planeamento e a biblioteca.
+Art. 8.º O departamento de estudos e ensino é chefiado por um oficial general de qualquer ramo, nomeado de entre os assessores, e sob proposta do conselho directivo, por despacho do CEMOFA, ouvido o CEM do respectivo ramo, e compreende o corpo de assessores, o gabinete de planeamento e a biblioteca.
 
 2. O chefe do departamento de estudos e ensino dirige as actividades pedagógicas, coadjuvado pelos assessores, dentro da orientação definida pelo conselho directivo.
 
@@ -171,36 +195,36 @@ b) Propor a nomeação e exoneração dos assessores e a sua distribuição pela
 
 c) Dar informações e pareceres sobre as actividades desenvolvidas durante os cursos, estágios, conferências, ciclos de estudo, colóquios e afins.
 
-###### Art. 9.º O departamento de apoio é chefiado pelo adjunto, coronel do Exército ou da Força Aérea ou capitão-de-mar-e-guerra, compreende a secção técnica, a secretaria e os serviços administrativos e tem à sua responsabilidade o suporte técnico, administrativo e logístico das actividades pedagógicas e de investigação do IDN e o enquadramento e administração do pessoal.
+Art. 9.º O departamento de apoio é chefiado pelo adjunto, coronel do Exército ou da Força Aérea ou capitão-de-mar-e-guerra, compreende a secção técnica, a secretaria e os serviços administrativos e tem à sua responsabilidade o suporte técnico, administrativo e logístico das actividades pedagógicas e de investigação do IDN e o enquadramento e administração do pessoal.
 
-###### Art. 10.º As gratificações dos membros do conselho directivo, assessores, chefe do gabinete de planeamento e oficial adjunto do Instituto são fixadas mediante despacho conjunto do CEMGFA e do Ministro das Finanças.
+Art. 10.º As gratificações dos membros do conselho directivo, assessores, chefe do gabinete de planeamento e oficial adjunto do Instituto são fixadas mediante despacho conjunto do CEMGFA e do Ministro das Finanças.
 
-###### Art. 11.º - 1. O pessoal militar e civil atribuído ao IDN é o constante do quadro anexo a este diploma.
+Art. 11.º - 1. O pessoal militar e civil atribuído ao IDN é o constante do quadro anexo a este diploma.
 
 2. O pessoal militar colocado no IDN é considerado em comissão de serviço no EMGFA, pelo qual é pago, abrindo vaga no quadro de origem.
 
 3. Quaisquer alterações no quadro de pessoal a que se refere o número anterior serão objecto de portaria do CEMGFA.
 
-###### Art. 12.º O pessoal menor e de secretaria, contratado e assalariado, do quadro ou eventual, em serviço no IAEDN à data da publicação do [Decreto-Lei n.º 635/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/635-1974-466056), de 26 de Dezembro, e que se encontra a prestar serviço no EMGFA será mandado apresentar no IDN a partir da presente data, conforme requisição do conselho directivo, sem prejuízo algum para a sua situação e direitos adquiridos.
+Art. 12.º O pessoal menor e de secretaria, contratado e assalariado, do quadro ou eventual, em serviço no IAEDN à data da publicação do [Decreto-Lei n.º 635/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/635-1974-466056), de 26 de Dezembro, e que se encontra a prestar serviço no EMGFA será mandado apresentar no IDN a partir da presente data, conforme requisição do conselho directivo, sem prejuízo algum para a sua situação e direitos adquiridos.
 
-###### Art. 13.º O conselho directivo proporá, no prazo de trinta dias, através do EMGFA, a orgânica e funcionamento do Instituto, a aprovar e a pôr em vigor, a título provisório, por despacho do CEMGFA.
+Art. 13.º O conselho directivo proporá, no prazo de trinta dias, através do EMGFA, a orgânica e funcionamento do Instituto, a aprovar e a pôr em vigor, a título provisório, por despacho do CEMGFA.
 
-###### Art. 14.º Todos os encargos decorrentes da execução deste diploma serão satisfeitos pelo EMGFA através de dotações específicas a atribuir para o funcionamento do IDN e a inscrever no Orçamento Geral do Estado.
+Art. 14.º Todos os encargos decorrentes da execução deste diploma serão satisfeitos pelo EMGFA através de dotações específicas a atribuir para o funcionamento do IDN e a inscrever no Orçamento Geral do Estado.
 
-###### Art. 15.º São revogados os Decretos-Leis n.os 48146, de 13 de Dezembro de 1967, 49461, de 17 de Dezembro de 1969, e 635/74, de 20 de Novembro, e demais legislação em contrário.
+Art. 15.º São revogados os Decretos-Leis n.os 48146, de 13 de Dezembro de 1967, 49461, de 17 de Dezembro de 1969, e 635/74, de 20 de Novembro, e demais legislação em contrário.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Julho de 1976.**
+Promulgado em 12 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Instituto da Defesa Nacional
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/16101/00030005.pdf))](https://files.diariodarepublica.pt/1s/1976/07/16101/00030005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/16101/00030005.pdf)
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

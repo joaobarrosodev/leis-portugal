@@ -49,40 +49,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43015-1960-503633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fac28b9fee0efb7ffe1683d2a14a66c5dd4dc10ed66b9a2dfb86e5a20ac28d87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ca8894eb263f9695551001d6fb7e6ff3c5f3e7937805b393ac9dce647957eea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agulha Magnética
+- Cartografia
+- Embarcação
+- Embarcação de Pesca
+- Embarcação de Recreio
+- Fiscalização
+- Marinha Mercante
+- Regulamento
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:513400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:467220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:513400:por
+  label: "Revogadas todas as disposições do regulamento aprovado pelo presente diploma, respeitantes a agulhas magnéticas\
+    \ ou electromagnéticas e suas bitáculas pelo Dec Lei.51/97.1997.03.01.MEPAT DR.IS-A [51]\01]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1997-513400
+  date: '1997-03-01'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:39Z'
   warnings: []
   errors: []
 ---
@@ -101,23 +124,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado e posto em execução o Regulamento do Serviço de Cartas, Publicações e Instrumentos Náuticos de Que Devem Ser Munidas as Embarcações Mercantes, de Pesca e de Recreio, que vai anexo a este decreto e baixa assinado pelo Ministro da Marinha.
+Artigo 1.º É aprovado e posto em execução o Regulamento do Serviço de Cartas, Publicações e Instrumentos Náuticos de Que Devem Ser Munidas as Embarcações Mercantes, de Pesca e de Recreio, que vai anexo a este decreto e baixa assinado pelo Ministro da Marinha.
 
 § único. A designação de «embarcação» considerada neste regulamento é, em geral, preferida à de navios ou barcos quando há necessidade de indicar maior extensão aos preceitos enunciados, fazendo-se incidir sobre corpos flutuantes de qualquer tonelagem de arqueação, independentemente da actividade a que se dediquem e transportando pessoas a bordo.
 
-###### Art. 2.º Todas as disposições de carácter técnico insertas no regulamento aprovado pelo presente decreto podem ser actualizadas por portaria do Ministro da Marinha, quando assim seja julgado conveniente.
+Art. 2.º Todas as disposições de carácter técnico insertas no regulamento aprovado pelo presente decreto podem ser actualizadas por portaria do Ministro da Marinha, quando assim seja julgado conveniente.
 
-###### Art. 3.º Ficam revogadas todas as disposições em contrário, nomeadamente as constantes das Portarias de 26 de Outubro de 1898 do Ministério dos Negócios da Marinha e Ultramar, n.º 2488, de 2 de Novembro de 1920, n.º 6281, de 11 de Julho de 1929, n.º 6574, de 27 de Dezembro de 1929, e n.º 12130, de 20 de Novembro de 1947, e do [Decreto n.º 14639](https://diariodarepublica.pt/dr/detalhe/decreto/14639-1927-678786), de 28 de Novembro de 1927, e regulamento anexo.
+Art. 3.º Ficam revogadas todas as disposições em contrário, nomeadamente as constantes das Portarias de 26 de Outubro de 1898 do Ministério dos Negócios da Marinha e Ultramar, n.º 2488, de 2 de Novembro de 1920, n.º 6281, de 11 de Julho de 1929, n.º 6574, de 27 de Dezembro de 1929, e n.º 12130, de 20 de Novembro de 1947, e do [Decreto n.º 14639](https://diariodarepublica.pt/dr/detalhe/decreto/14639-1927-678786), de 28 de Novembro de 1927, e regulamento anexo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Regulamento do Serviço de Cartas, Publicações e Instrumentos Náuticos de Que Devem Ser Munidas as Embarcações Mercantes, de Pesca e de Recreio.
 
-###### Artigo 1.º O presente regulamento aplica-se a todas as embarcações portuguesas, sejam ou não pertencentes ao Estado ou a organismos de carácter autónomo, apenas se exceptuando do âmbito da sua jurisdição as pertencentes à marinha de guerra e as que não escalem portos metropolitanos, e as suas disposições aplicam-se a todas as agulhas magnéticas ou electromagnéticas e suas bitáculas.
+Artigo 1.º O presente regulamento aplica-se a todas as embarcações portuguesas, sejam ou não pertencentes ao Estado ou a organismos de carácter autónomo, apenas se exceptuando do âmbito da sua jurisdição as pertencentes à marinha de guerra e as que não escalem portos metropolitanos, e as suas disposições aplicam-se a todas as agulhas magnéticas ou electromagnéticas e suas bitáculas.
 
-###### Art. 2.º Para efeitos de aplicação do presente regulamento, as embarcações, de acordo com a classificação estabelecida no [Decreto-Lei n.º 24235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24235-1934-467220), de 27 de Julho de 1934, quanto às zonas em que exercem a sua actividade, são agrupadas da seguinte forma:
+Art. 2.º Para efeitos de aplicação do presente regulamento, as embarcações, de acordo com a classificação estabelecida no [Decreto-Lei n.º 24235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24235-1934-467220), de 27 de Julho de 1934, quanto às zonas em que exercem a sua actividade, são agrupadas da seguinte forma:
 
 a) De tráfego local ou de pesca local; navegando apenas dentro da área da respectiva capitania ou fazendo navegação dentro dos limites fixados no artigo 19.º do [Decreto-Lei n.º 24235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24235-1934-467220);
 
@@ -129,7 +152,7 @@ d) De longo curso ou de pesca longínqua.
 
 § único. Nos grupos referidos no artigo 2.º estão incluídos os navios de passageiros, de emigrantes, de carga e mistos, os rebocadores, os salvádegos, as dragas e ainda quaisquer outros meios flutuantes empregados em serviços ou fins diversos dos citados anteriormente, como científicos, de desporto ou recreio, e independentemente da tonelagem, sistema de propulsão ou constituição do casco.
 
-###### Art. 3.º Todas as embarcações que vão para o mar devem ser providas de cartas, roteiros, listas de faróis, tábuas náuticas e de azimutes e almanaques náuticos, de edição recente, em número suficiente para a viagem projectada, assim como para as escalas que as circunstâncias de navegação possam determinar e, bem assim, dos instrumentos náuticos e agulhas referidos no quadro anexo.
+Art. 3.º Todas as embarcações que vão para o mar devem ser providas de cartas, roteiros, listas de faróis, tábuas náuticas e de azimutes e almanaques náuticos, de edição recente, em número suficiente para a viagem projectada, assim como para as escalas que as circunstâncias de navegação possam determinar e, bem assim, dos instrumentos náuticos e agulhas referidos no quadro anexo.
 
 § 1.º As cartas empregadas devem estar correctas dos avisos aos navegantes e ser de edição dos serviços oficiais nacionais ou estrangeiros.
 
@@ -137,9 +160,9 @@ d) De longo curso ou de pesca longínqua.
 
 § 3.º A Direcção de Hidrografia e Navegação, que neste diploma será designada abreviadamente por D. H. N., ou as capitanias devem verificar, por ocasião das vistorias, a existência de todos os instrumentos náuticos e se as agulhas têm e estão válidos os certificados previstos no presente regulamento.
 
-###### Art. 4.º As agulhas magnéticas que as diversas embarcações deverão ter a bordo, convenientemente instaladas e em boas condições de funcionamento, são, de acordo com o grupo a que se refere o artigo 2.º:
+Art. 4.º As agulhas magnéticas que as diversas embarcações deverão ter a bordo, convenientemente instaladas e em boas condições de funcionamento, são, de acordo com o grupo a que se refere o artigo 2.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf))](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf)
 
 § 1.º Exceptuam-se das disposições deste artigo:
 
@@ -149,11 +172,11 @@ d) De longo curso ou de pesca longínqua.
 
 3) As embarcações do grupo a), de porte superior a 5 t, isentas de massas magnéticas perturbadoras e que actuem nos meios e limites fixados na alínea 1), nas quais a agulha terá as características indicadas na alínea 2).
 
-###### Art. 5.º Nos grupos c) e d) a agulha-padrão poderá ser seca ou líquida e as outras deverão ser líquidas.
+Art. 5.º Nos grupos c) e d) a agulha-padrão poderá ser seca ou líquida e as outras deverão ser líquidas.
 
 Nas embarcações dos outros grupos são só de admitir agulhas líquidas.
 
-###### Art. 6.º As embarcações do grupo a), fora das excepções do § 1.º do artigo 4.º, ou quando fizerem a navegação dentro dos limites do artigo 19.º do [Decreto-Lei n.º 24235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24235-1934-467220), deverão ter uma agulha cuja rosa tenha o diâmetro mínimo de 15 cm, montada em local que seja bem visível pelo marinheiro do leme e permita marcações azimutais.
+Art. 6.º As embarcações do grupo a), fora das excepções do § 1.º do artigo 4.º, ou quando fizerem a navegação dentro dos limites do artigo 19.º do [Decreto-Lei n.º 24235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24235-1934-467220), deverão ter uma agulha cuja rosa tenha o diâmetro mínimo de 15 cm, montada em local que seja bem visível pelo marinheiro do leme e permita marcações azimutais.
 
 As embarcações do grupo b) deverão ter uma agulha com rosa de diâmetro mínimo de 15 cm, instalada em local com visibilidade em torno de todo o horizonte, apenas com as limitações impostas pela chaminé, mastros ou outras superestruturas de diâmetro relativamente pequeno. Essa agulha pode ser de tecto, com rosa de duas vistas, graduada de 0º a 360º na sua face superior, ou de qualquer outro tipo, de preferência de projecção, montada em bitácula ou instalada numa mesa, por ante a vante da roda do leme, desde que os sectores de visibilidade sejam suficientemente amplos para permitir marcações azimutais.
 
@@ -167,7 +190,7 @@ Entre o local onde está intalada a agulha-padrão ou padrão-governo e a casa d
 
 Das condições a que devem obedecer as agulhas e as suas bitáculas
 
-###### Art. 7.º As agulhas deverão obedecer a um mínimo de condições que as tornem eficientes no meio em que são utilizadas.
+Art. 7.º As agulhas deverão obedecer a um mínimo de condições que as tornem eficientes no meio em que são utilizadas.
 
 Assim:
 
@@ -269,19 +292,19 @@ O capacete da agulha de governo pode ter apenas uma janela que dê boa visibilid
 
 O capacete da agulha de tecto terá normalmente uma janela na parte superior.
 
-###### Art. 8.º A D. H. N. procederá, por sua iniciativa ou a pedido da entidade interessada, ao exame de qualquer agulha ou bitácula, verificando as suas condições de funcionamento e, em especial, se obedecem aos preceitos estabelecidos no artigo anterior, usando-se para isso o impresso do modelo A em anexo.
+Art. 8.º A D. H. N. procederá, por sua iniciativa ou a pedido da entidade interessada, ao exame de qualquer agulha ou bitácula, verificando as suas condições de funcionamento e, em especial, se obedecem aos preceitos estabelecidos no artigo anterior, usando-se para isso o impresso do modelo A em anexo.
 
 § único. Em resultado desse exame será passado um certificado, no modelo B em anexo, ou notificada a entidade interessada das deficiências encontradas.
 
 Da instalação das agulhas
 
-###### Art. 9.º Quando da elaboração dos planos e durante a construção de uma embarcação na qual se preveja a instalação de agulhas magnéticas, deve haver o melhor critério na escolha dos locais a estas destinados, evitando-se, na medida do possível, a colocação indeterminada de massas de ferro na sua vizinhança imediata, sobretudo verticais (chaminés, mastros, etc.) ou móveis (paus de carga, ventiladores, etc.), recorrendo-se nestes casos, quanto possível, ao emprego de materiais não magnéticos.
+Art. 9.º Quando da elaboração dos planos e durante a construção de uma embarcação na qual se preveja a instalação de agulhas magnéticas, deve haver o melhor critério na escolha dos locais a estas destinados, evitando-se, na medida do possível, a colocação indeterminada de massas de ferro na sua vizinhança imediata, sobretudo verticais (chaminés, mastros, etc.) ou móveis (paus de carga, ventiladores, etc.), recorrendo-se nestes casos, quanto possível, ao emprego de materiais não magnéticos.
 
 Como norma, as agulhas devem ser instaladas no plano longitudinal da embarcação.
 
 Deverá ter-se sempre presente que o campo magnético produzido por uma peça magnética nas proximidades da agulha (antepara, etc.) poderá ser sensìvelmente alterado se ela for sujeita a temperaturas elevadas ou a qualquer esforço de natureza mecânica (picagem, etc.).
 
-###### Art. 10.º Apenas para servir de guia, e não como regras rígidas, impossíveis, por vezes, de serem compatíveis com as exigências da construção naval, referem-se os seguintes princípios:
+Art. 10.º Apenas para servir de guia, e não como regras rígidas, impossíveis, por vezes, de serem compatíveis com as exigências da construção naval, referem-se os seguintes princípios:
 
 a) Nenhuma peça de material magnético, em especial vertical, deverá ser colocada a menos de 3 m do centro do morteiro da agulha-padrão ou a menos de 1,5 m do da agulha de governo;
 
@@ -295,9 +318,9 @@ Quanto a motores eléctricos, dínamos ou resistências de qualquer aparelhagem 
 
 e) A distância mínima entre duas agulhas magnéticas instaladas em posições próximas deve ser de 2 m.
 
-###### Art. 11.º À D. H. N. compete pronunciar-se sobre a instalação das agulhas a bordo e, bem assim, emitir o seu parecer sobre todos os assuntos de carácter técnico referente a agulhas magnéticas que sejam submetidos à sua apreciação.
+Art. 11.º À D. H. N. compete pronunciar-se sobre a instalação das agulhas a bordo e, bem assim, emitir o seu parecer sobre todos os assuntos de carácter técnico referente a agulhas magnéticas que sejam submetidos à sua apreciação.
 
-###### Art. 12.º No caso de novas construções realizadas em Portugal continental ou ilhas adjacentes, ou quando sejam efectuadas reparações ou alterações nas embarcações que possam afectar as condições magnéticas do local onde se encontra instalada uma agulha magnética, deverá o estaleiro, armador ou seu agente remeter à D. H. N. os respectivos planos em duplicado com os esclarecimentos indispensáveis quanto à natureza dos materiais empregados na vizinhança das agulhas e quaisquer outros que habilitem esta Direcção a dar o seu parecer.
+Art. 12.º No caso de novas construções realizadas em Portugal continental ou ilhas adjacentes, ou quando sejam efectuadas reparações ou alterações nas embarcações que possam afectar as condições magnéticas do local onde se encontra instalada uma agulha magnética, deverá o estaleiro, armador ou seu agente remeter à D. H. N. os respectivos planos em duplicado com os esclarecimentos indispensáveis quanto à natureza dos materiais empregados na vizinhança das agulhas e quaisquer outros que habilitem esta Direcção a dar o seu parecer.
 
 Um dos exemplares daqueles planos ficará no arquivo da referida Direcção.
 
@@ -305,7 +328,7 @@ Um dos exemplares daqueles planos ficará no arquivo da referida Direcção.
 
 Das inspecções
 
-###### Art. 13.º Após a construção, reparação ou modificação, e antes da entrada ao serviço da embarcação em que devam ser instaladas agulhas magnéticas, o armador ou seu agente deverá requisitar à D. H. N. a respectiva inspecção, segundo o modelo C, em anexo a este regulamento.
+Art. 13.º Após a construção, reparação ou modificação, e antes da entrada ao serviço da embarcação em que devam ser instaladas agulhas magnéticas, o armador ou seu agente deverá requisitar à D. H. N. a respectiva inspecção, segundo o modelo C, em anexo a este regulamento.
 
 Dessa inspecção será feito um relatório circunstanciado à entidade interessada.
 
@@ -313,17 +336,17 @@ Dessa inspecção será feito um relatório circunstanciado à entidade interess
 
 Quando se verificar esta delegação, será o relatório da inspecção enviado à D. H. N., remetendo esta uma cópia ou extracto à entidade interessada.
 
-###### Art. 14.º Quanto a novas construções, aquisições, reparações ou modificações levadas a efeito fora de Portugal continental e ilhas adjacentes, o armador ou seu agente deverá requisitar a inspecção referida no artigo 13.º antes da entrada ao serviço da embarcação, se esta tiver o seu porto de armamento no continente ou ilhas adjacentes; caso contrário, será efectuada, logo que possível, quando a embarcação escalar um porto do continente ou ilhas adjacentes, competindo ao armador ou seu agente dar conhecimento à D. H. N., com a necessária antecedência, do local e data julgada mais oportuna para esse efeito.
+Art. 14.º Quanto a novas construções, aquisições, reparações ou modificações levadas a efeito fora de Portugal continental e ilhas adjacentes, o armador ou seu agente deverá requisitar a inspecção referida no artigo 13.º antes da entrada ao serviço da embarcação, se esta tiver o seu porto de armamento no continente ou ilhas adjacentes; caso contrário, será efectuada, logo que possível, quando a embarcação escalar um porto do continente ou ilhas adjacentes, competindo ao armador ou seu agente dar conhecimento à D. H. N., com a necessária antecedência, do local e data julgada mais oportuna para esse efeito.
 
-###### Art. 15.º Sempre que a agulha for compensada, será inspeccionada, bem como a respectiva bitácula.
+Art. 15.º Sempre que a agulha for compensada, será inspeccionada, bem como a respectiva bitácula.
 
 Da compensação das agulhas
 
-###### Art. 16.º Como regra, a compensação de uma agulha envolve a sua regulação e vice-versa, pelo que adiante se designará por «compensação» não só a operação de neutralizar ou atenuar o campo perturbador no local da agulha, mediante a colocação de correctores - compensação -, como a elaboração da tabela dos desvios remanescentes - regulação.
+Art. 16.º Como regra, a compensação de uma agulha envolve a sua regulação e vice-versa, pelo que adiante se designará por «compensação» não só a operação de neutralizar ou atenuar o campo perturbador no local da agulha, mediante a colocação de correctores - compensação -, como a elaboração da tabela dos desvios remanescentes - regulação.
 
 A compensação de uma agulha será feita quando se verifiquem as circunstâncias mencionadas no artigo 18.º, a pedido do estaleiro, armador ou seu. agente ou ainda por iniciativa da D. H. N., precedendo consulta do livro respectivo e se constate a existência de desvios superiores a 5º na latitude do local da última compensação ou próximo dela.
 
-###### Art. 17.º Como rotina para a compensação de agulhas instaladas em bitáculas ou suportes fixos estabelecem-se os seguintes períodos:
+Art. 17.º Como rotina para a compensação de agulhas instaladas em bitáculas ou suportes fixos estabelecem-se os seguintes períodos:
 
 Embarcações dos grupos a) e b) - de dois em dois anos.
 
@@ -337,7 +360,7 @@ Na autorização, lançada sobre os mesmos impressos, será sempre fixado um nov
 
 O original será entregue ao armador ou seu agente, para apresentação na capitania respectiva, ficando o duplicado em arquivo na D. H. N.
 
-###### Art. 18.º As agulhas das novas construções ou das embarcações que tenham sofrido grandes reparações ou alterações que afectem o campo magnético no local das agulhas terão de ser compensadas, não podendo a capitania em cuja área se situa o estaleiro conceder autorização de saída às embarcações sem a apresentação do certificado de compensação.
+Art. 18.º As agulhas das novas construções ou das embarcações que tenham sofrido grandes reparações ou alterações que afectem o campo magnético no local das agulhas terão de ser compensadas, não podendo a capitania em cuja área se situa o estaleiro conceder autorização de saída às embarcações sem a apresentação do certificado de compensação.
 
 Nessas embarcações, como norma, a compensação deverá ser rectificada dentro de seis meses, ou antes se se verificarem grandes alterações na tabela de desvios, do que deve ser dado conhecimento à D. H. N.
 
@@ -351,17 +374,17 @@ Em qualquer caso, a embarcação não poderá iniciar o seu serviço normal sem 
 
 § 2.º Quanto a novas construções, aquisições, reparações ou modificações efectuadas fora de Portugal continental ou ilhas adjacentes, é de aplicar o princípio consignado no artigo 14.º
 
-###### Art. 19.º As compensações serão efectuadas, quanto possível, no porto de Lisboa. Contudo, quando razões justificáveis aconselhem outro porto, nomeadamente quanto a embarcações dos grupos a) e b), em que, por norma, se utilizará o seu porto de matrícula, o estaleiro, armador ou seu agente dirigirá o pedido à capitania respectiva, que o enviará à D. H. N. com a devida informação.
+Art. 19.º As compensações serão efectuadas, quanto possível, no porto de Lisboa. Contudo, quando razões justificáveis aconselhem outro porto, nomeadamente quanto a embarcações dos grupos a) e b), em que, por norma, se utilizará o seu porto de matrícula, o estaleiro, armador ou seu agente dirigirá o pedido à capitania respectiva, que o enviará à D. H. N. com a devida informação.
 
 Com excepção da Capitania do Porto de Lisboa, todas as outras capitanias deverão remeter à D. H. N., até 31 de Janeiro de cada ano, uma lista das embarcações, no modelo E em anexo, que devam ser compensadas dentro desse ano, com indicação das datas mais convenientes para esse serviço, tendo em vista o menor prejuízo para as suas actividades.
 
 Nessa lista será citada, para cada embarcação, a data da última compensação.
 
-###### Art. 20.º Os pedidos de compensação serão feitos em impressos do modelo C em anexo, com a possível antecedência, sendo o dia e hora estabelecidos de comum acordo com a D. H. N. Convirá que a embarcação esteja, pelo menos, um dia a vários rumos antes de ser compensada, para que se anulem ou reduzam os desvios de natureza sub-permanente.
+Art. 20.º Os pedidos de compensação serão feitos em impressos do modelo C em anexo, com a possível antecedência, sendo o dia e hora estabelecidos de comum acordo com a D. H. N. Convirá que a embarcação esteja, pelo menos, um dia a vários rumos antes de ser compensada, para que se anulem ou reduzam os desvios de natureza sub-permanente.
 
 § único. A D. H. N. elaborará as instruções a fornecer ao capitão ou seu delegado, na altura de ser requisitada a compensação das agulhas, sobre o que é necessário haver a bordo para aquele serviço se efectuar.
 
-###### Art. 21.º Os transportes, alimentação e alojamento do pessoal das vistorias fora do porto de Lisboa, bem como o seu transporte de e para bordo, neste, são de conta do estaleiro, armador ou de seus agentes.
+Art. 21.º Os transportes, alimentação e alojamento do pessoal das vistorias fora do porto de Lisboa, bem como o seu transporte de e para bordo, neste, são de conta do estaleiro, armador ou de seus agentes.
 
 § único. Estes encargos, bem como os dos respectivos emolumentos, e independentemente de qualquer outro procedimento que deva ter lugar, são ainda de conta da entidade requisitante, quando o serviço se não tenha podido efectuar por qualquer dos seguintes motivos:
 
@@ -371,7 +394,7 @@ b) Mau funcionamento da agulha e seus pertences, mau estado da bitácula ou outr
 
 c) Falta de comparência da embarcação à hora aprazada, quando não se verifiquem motivos de força maior.
 
-###### Art. 22.º Quando a compensação tenha lugar, será passado um certificado, do modelo F em anexo, que será comum a todas as agulhas compensadas de uma mesma embarcação.
+Art. 22.º Quando a compensação tenha lugar, será passado um certificado, do modelo F em anexo, que será comum a todas as agulhas compensadas de uma mesma embarcação.
 
 As tabelas de desvios feitas no modelo G em anexo serão enviadas à entidade requisitante, se não tiverem sido deixadas a bordo.
 
@@ -381,30 +404,30 @@ O oficial encarregado elaborará um relatório onde mencionará todas as circuns
 
 Este relatório será enviado à entidade requisitante, a qual dele dará sempre conhecimento ao capitão ou mestre da embarcação.
 
-###### Art. 23.º Os capitães das embarcações dos grupos c) e d) que naveguem em regiões de latitudes magnéticas diferentes da do local em que foram compensadas as suas agulhas, e nas quais não tenha sido colocada ainda a barra flinders, deverão providenciar para que sejam determinados desvios nas proas E e W, conforme as instruções que receberem para esse efeito.
+Art. 23.º Os capitães das embarcações dos grupos c) e d) que naveguem em regiões de latitudes magnéticas diferentes da do local em que foram compensadas as suas agulhas, e nas quais não tenha sido colocada ainda a barra flinders, deverão providenciar para que sejam determinados desvios nas proas E e W, conforme as instruções que receberem para esse efeito.
 
-###### Art. 24.º Em princípio, não devem ser alteradas no mar as posições dos correctores. Quando, porém, razões de qualquer ordem imponham a revisão da compensação, os capitães ou mestres deverão enviar à D. H. N., conjuntamente com a justificação da medida tomada, uma cópia da tabela de desvios correspondente à nova posição dos correctores.
+Art. 24.º Em princípio, não devem ser alteradas no mar as posições dos correctores. Quando, porém, razões de qualquer ordem imponham a revisão da compensação, os capitães ou mestres deverão enviar à D. H. N., conjuntamente com a justificação da medida tomada, uma cópia da tabela de desvios correspondente à nova posição dos correctores.
 
 Igualmente será enviada à mesma Direcção uma cópia da tabela dos desvios com a posição dos correctores quando se efectue uma composição em qualquer porto estrangeiro ou do ultramar.
 
-###### Art. 25.º Os valores dos desvios constantes das tabelas devem ser verificados com bastante frequência, especialmente quando haja variação de rumo, embarque ou desembarque de carga susceptível de influência magnética, alteração na posição de massas magnéticas relativamente próximas das agulhas (paus de carga, ventiladores, cabos de aço, etc.), encalhe ou outro acontecimento do qual derive trepidação forte do casco e superstruturas, tempestades eléctricas, ou quando a embarcação navegue na proximidade de regiões onde sejam de recear anomalias ou rápidas variações da declinação, ou tenha estado imobilizada na mesma proa durante bastante tempo.
+Art. 25.º Os valores dos desvios constantes das tabelas devem ser verificados com bastante frequência, especialmente quando haja variação de rumo, embarque ou desembarque de carga susceptível de influência magnética, alteração na posição de massas magnéticas relativamente próximas das agulhas (paus de carga, ventiladores, cabos de aço, etc.), encalhe ou outro acontecimento do qual derive trepidação forte do casco e superstruturas, tempestades eléctricas, ou quando a embarcação navegue na proximidade de regiões onde sejam de recear anomalias ou rápidas variações da declinação, ou tenha estado imobilizada na mesma proa durante bastante tempo.
 
 Os valores dos desvios e respectivos rumos da agulha devem ser registados num livro designado por «Livro de registo de desvios», que poderá ser comum a todas as agulhas magnéticas existentes a bordo. Dele constarão as coordenadas geográficas do local de observação, processo utilizado e demais circunstâncias julgadas de interesse, como estado do mar ou outra qualquer causa que possa influir no grau de precisão dos valores obtidos.
 
-###### Art. 26.º Sempre que o entender conveniente, a D. H. N. poderá delegar no capitão do porto ou noutro oficial qualificado as funções que lhe compitam por este regulamento.
+Art. 26.º Sempre que o entender conveniente, a D. H. N. poderá delegar no capitão do porto ou noutro oficial qualificado as funções que lhe compitam por este regulamento.
 
-###### Art. 27.º As importâncias devidas pelos serviços de inspecção, compensação e exames às agulhas magnéticas a efectuar pelo pessoal da D. H. N. ou seus delegados serão determinadas em portaria.
+Art. 27.º As importâncias devidas pelos serviços de inspecção, compensação e exames às agulhas magnéticas a efectuar pelo pessoal da D. H. N. ou seus delegados serão determinadas em portaria.
 
 Ministério da Marinha, 8 de Junho de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
 Quadro a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf))](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf)
 
 Nota. - A montagem e utilização a bordo da girobússola, radar, sondador e outros aparelhos electrónicos de auxílio à navegação devem estar de acordo com a legislação em vigor.
 
 Do Modelo A ao Modelo G
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf))](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/06/13400/13351342.pdf)
 
 Ministério da Marinha, 8 de Junho de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

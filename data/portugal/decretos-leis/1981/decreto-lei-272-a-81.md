@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 225/1981, 1º Suplemento, Série I de 1981-09-30
   number: '225'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2614-(2) a 2614-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/22501/00020027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,151 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-a-1981-329610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d069d92fe23481c16a82b434b713d6a30fca9c494a775147dc3872e232ab589e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 105cd5539266fbaa8c49ca2997e93d6849afd88bdd626dd795ee7ab1d6277afe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Ajuda Judicial
+- Código de Processo do Trabalho
+- Definição de Competências
+- Despedimento
+- Direito do Trabalho
+- Execução de Sentença
+- Execução por Dívidas
+- Incapacidade Física
+- Indemnização
+- Inspecção do Trabalho
+- Julgamento
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Ministério Público
+- Multa
+- Notificação
+- Pensão de Invalidez
+- Prazo
+- Prazo Processual
+- Prescrição da Acção
+- Processo Civil
+- Processo Disciplinar
+- Processo Judicial
+- Processo Laboral
+- Processo Penal
+- Recurso
+- Trabalhador
+- Trabalho
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:683065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DADA NOVA REDACÇÃO AOS ART 21, 26 E 36 PELO DEC LEI 315/89 DE 21-SET DR.IS [218] ADITADOS PELO MESMO DIPLOMA NO LIVRO
+    I, TÍTULO II, CAP II, SECÇÃO II, O ART 16-A, NO LIVRO I, TÍTULO III, CAP III, ART 27-A, NO LIVRO I, TÍTULO III, AO CAP
+    IV A SECÇÃO I, COM A EPIGRAFE 'DESPEDIMENTO INDIVIDUAL', QUE ANTECEDE O ART 38, NO LIVRO I, TÍTULO III, AO CAP IV A SECÇÃO
+    II, COM OS ART 45-A A 45-C E ALTERADA A NUMERAÇÃO, NO LIVRO I, TÍTULO VI, DO ACTUAL CAP II PARA CAP III, SENDO ADITADO
+    UM NOVO CAP II, COM OS ART 156-A A 156-H.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-21'
+- type: amended_by
+  target: pt:dre:547664:por
+  label: Alterados os arts 21.º, 26.º e 36.º; aditado no livro I, tít II, cap II, sec II o art 16.º-A aditado no livro I,
+    tít III, cap III, o art. 27.º-A,no livro I, tít III, cap IV aditado a secção I, com a epígrafe «Despedimento individual»,
+    que antecede o art. 38.º, no livro I, tít. III, cap IV, aditada a sec. II, com os arts 45.º-A, 45.º-B e 45.º-C, no livro
+    I, tít VI, o atual cap II passa a cap. III, e aditado um novo cap. II, com os arts 156.º-A, 156.º-B, 156.º-C, 156.º-D,
+    156.º-E; 156.º-F, 156.º-G e 156.º - H; todos do Código de Processo do Trabalho, aprovado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 315/89 - Diário da República n.º 218/1989, Série I de 1989-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1989-547664
+  date: '1989-09-21'
+- type: amended_by
+  target: pt:dre:694035:por
+  label: "Mantido em vigor o disposto no Livro II do Código do Processo do Trabalho considerando-se efectuadas para as correspondentes\
+    \ Disposições do presente diploma, a remissão do Art. 195ºdeste Código pelo DEC LEI.17/91.1991.01.10.MJ DR.IS-A [8]\0\
+    [8]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1991-694035
+  date: '1991-01-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "CONFERIDA NOVA REDACÇÃO AOS ART 21, NA REDACÇÃO DO DEC LEI 315/89 DE 21-SET DR.IS [218] E 190, PELO DEC LEI 65/91\
+    \ DE 08-FEV DR.IS-A [33]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:478257:por
+  label: "Alterados os art.s 21º (na redacção do Dec Lei 315/89, de 21-Set) e 190º, pelo DEC LEI.65/91.08.02.1991.MJ, DR.IS-A\
+    \ [33] de 08.02.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1991-478257
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:289777:por
+  label: "Alterado o art. 26º pela LEI.22/94.1994.06.30.AR, DR.IS-A [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-1994-289777
+  date: '1994-06-30'
+- type: cites
+  target: pt:dre:167391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324319:por
+  label: "Revogado o art. 49º do Código pelo DEC LEI.115/85.18.04.1985.MTSS, DR.IS [90] de 18.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1985-324319
+  date: '1985-04-18'
+- type: repealed_by
+  target: pt:dre:683065:por
+  label: "Revogado pelo DEC LEI.480/99.1999.11.09.MJ, DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/480-1999-683065
+  date: '1999-11-09'
 article_structure:
-  article_count: 196
-  section_count: 60
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 195
+  section_count: 63
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:52Z'
   warnings: []
   errors: []
 ---
@@ -122,19 +233,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Código de Processo do Trabalho, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código de Processo do Trabalho, que faz parte do presente decreto-lei.
 
-###### Art. 2.º Todas as alterações que de futuro se façam sobre a matéria do Código de Processo do Trabalho deverão ser inscritas no lugar próprio deste diploma, mediante a substituição dos artigos alterados, a supressão das disposições que devam ser eliminadas ou o adicionamento dos preceitos que se mostrem necessários.
+Art. 2.º Todas as alterações que de futuro se façam sobre a matéria do Código de Processo do Trabalho deverão ser inscritas no lugar próprio deste diploma, mediante a substituição dos artigos alterados, a supressão das disposições que devam ser eliminadas ou o adicionamento dos preceitos que se mostrem necessários.
 
-###### Art. 3.º Este diploma entra em vigor no dia 1 de Janeiro de 1982, ficando, entretanto, revogado o [Decreto-Lei n.º 537/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1979-230900), de 31 de Dezembro, pelo que vigorará, até àquela data, o Código de Processo do Trabalho aprovado pelo [Decreto-Lei n.º 45497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45497-1963-680446), de 30 de Dezembro de 1963.
+Art. 3.º Este diploma entra em vigor no dia 1 de Janeiro de 1982, ficando, entretanto, revogado o [Decreto-Lei n.º 537/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1979-230900), de 31 de Dezembro, pelo que vigorará, até àquela data, o Código de Processo do Trabalho aprovado pelo [Decreto-Lei n.º 45497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45497-1963-680446), de 30 de Dezembro de 1963.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 25 de Setembro de 1981.**
+Promulgado em 25 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CÓDIGO DE PROCESSO DO TRABALHO
 
@@ -158,7 +269,7 @@ e) Aos princípios gerais do direito processual comum.
 
 3 - As normas subsidiárias não se aplicam quando forem incompatíveis com a índole do processo regulado neste Código.
 
-# LIVRO I — Do processo civil
+## LIVRO I — Do processo civil
 
 ## TÍTULO I — Da acção
 
@@ -852,7 +963,9 @@ O regime do julgamento dos recursos é o que resulta, com as necessárias adapta
 
 ## TÍTULO V — Processo de execução
 
-### CAPÍTULO I — Título executivo
+### CAPÍTULO I
+
+## Título executivo
 
 ###### Artigo 91.º — (Espécies de títulos executivos)
 
@@ -1548,7 +1661,7 @@ Em tudo o que não vai previsto nesta secção deve observar-se, na parte aplic�
 
 O acórdão do Supremo Tribunal de Justiça sobre as questões a que se refere o artigo 177.º tem o valor de assento e como tal é designado, e será publicado na 1.ª série do Diário da República e no Boletim do Trabalho e Emprego.
 
-# LIVRO II — DO PROCESSO PENAL
+## LIVRO II — DO PROCESSO PENAL
 
 ## TÍTULO I — Da acção
 
@@ -1672,4 +1785,4 @@ Nos autos de notícia levantados pela Inspecção do Trabalho ou outras autorida
 
 Às hipóteses não directamente previstas é aplicável, com as necessárias adaptações, o regime de processo de transgressão.
 
-**O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.**
+O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.

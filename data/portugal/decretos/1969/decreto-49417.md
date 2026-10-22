@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49417-1969-217090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24bc4b86dd9f70d27ccf929bab080301ca6a9110fc58d83dd732b30c5689e4a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1814f2df0250068e0edf5f29615548ec83103bb2cfbc9626e84b5c9ec0616028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Conselho Administrativo
+- Fundos Autónomos
+- Governador
+- Moçambique.Colónia Portuguesa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:419246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:344188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:34Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +112,13 @@ Por motivo de urgência, de harmonia com o disposto no § 1.º do artigo 150.º 
 
 Usando da Faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Em cada uma das províncias de Angola e de Moçambique é reorganizado o Fundo de Fomento Pecuário, adiante designado por «Fundo», de harmonia com as disposições seguintes.
+Artigo 1.º - 1. Em cada uma das províncias de Angola e de Moçambique é reorganizado o Fundo de Fomento Pecuário, adiante designado por «Fundo», de harmonia com as disposições seguintes.
 
 2. O Fundo é um património autónomo, dotado de personalidade jurídica e gestão administrativa e financeira próprias.
 
-###### Art. 2.º O Fundo destina-se a incrementar a produção animal, a comercialização e a industrialização dos produtos, subprodutos e despojos de sua origem.
+Art. 2.º O Fundo destina-se a incrementar a produção animal, a comercialização e a industrialização dos produtos, subprodutos e despojos de sua origem.
 
-###### Art. 3.º Para a consecução dos fins previstos no artigo anterior, compete ao Fundo:
+Art. 3.º Para a consecução dos fins previstos no artigo anterior, compete ao Fundo:
 
 a) Apoiar e estimular a produção animal quer directamente junto do produtor, quer indirectamente através da disciplina da comercialização e do fomento da industrialização;
 
@@ -122,19 +132,19 @@ e) Promover a preparação e aperfeiçoamento técnico do pessoal e a divulgaç�
 
 f) Apoiar os serviços provinciais de veterinária no estabelecimento e desenvolvimento das infra-estruturas necessárias ao fomento das explorações animais.
 
-###### Art. 4.º O Fundo terá receitas próprias e orçamento privativo e será gerido por um conselho administrativo, que prestará contas da sua gestão, presidido pelo director dos serviços de veterinária da respectiva província.
+Art. 4.º O Fundo terá receitas próprias e orçamento privativo e será gerido por um conselho administrativo, que prestará contas da sua gestão, presidido pelo director dos serviços de veterinária da respectiva província.
 
-###### Art. 5.º - 1. Constarão de diploma regulamentar, a publicar pelos Governos-Gerais de Angola e de Moçambique, as receitas do Fundo e a composição e atribuições do conselho administrativo, que poderá ter a participação do sector privado com interesses nas actividades pecuárias.
+Art. 5.º - 1. Constarão de diploma regulamentar, a publicar pelos Governos-Gerais de Angola e de Moçambique, as receitas do Fundo e a composição e atribuições do conselho administrativo, que poderá ter a participação do sector privado com interesses nas actividades pecuárias.
 
 2. No diploma a que se refere o número anterior pode ser prevista a criação de comissões e subcomissões com fins específicos de estudo ou orientação de problemas ligados ao fomento da produção, comercialização e industrialização pecuárias, e também fixada a remuneração mensal dos membros do conselho administrativo e o quantitativo de senhas de presença aos membros das comissões e subcomissões, as quais serão acumuláveis com quaisquer vencimentos ou remunerações, sem limite legal.
 
-###### Art. 6.º - 1. Os planos de acção organizados pelo conselho administrativo, sobre os quais serão elaborados os orçamentos anuais, devem ser aprovados pelo governador-geral, em data a fixar no diploma regulamentar.
+Art. 6.º - 1. Os planos de acção organizados pelo conselho administrativo, sobre os quais serão elaborados os orçamentos anuais, devem ser aprovados pelo governador-geral, em data a fixar no diploma regulamentar.
 
 2. O conselho administrativo deve também submeter à aprovação do governador-geral um relatório anual e da sua actividade.
 
-###### Art. 7.º Os contratos celebrados pelo conselho administrativo do Fundo, em ordem a atingir os objectivos assinalados no artigo 2.º, têm a fé pública dos documentos autênticos e serão lavrados pelo funcionário que o governador-geral designar sob proposta do conselho administrativo.
+Art. 7.º Os contratos celebrados pelo conselho administrativo do Fundo, em ordem a atingir os objectivos assinalados no artigo 2.º, têm a fé pública dos documentos autênticos e serão lavrados pelo funcionário que o governador-geral designar sob proposta do conselho administrativo.
 
-###### Art. 8.º O conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:
+Art. 8.º O conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:
 
 a) A colaboração dos especialistas dos diversos órgãos da administração;
 
@@ -142,13 +152,13 @@ b) O contrato de técnicos nacionais ou estrangeiros;
 
 c) O contrato ou assalariamento de pessoal estritamente indispensável ao funcionamento da secretaria do conselho administrativo, e das estruturas ou empreendimentos dependentes do apoio do Fundo.
 
-###### Art. 9.º O presente decreto entra em vigor na data da publicação do diploma regulamentar a que se refere o artigo 5.º, considerando-se revogados, nessa data: a Diploma Legislativo Ministerial n.º 2, de 26 de Maio de 1967, o Diploma Legislativo n.º 2874, de 26 de Dezembro de 1957, e a [Portaria n.º 10244](https://diariodarepublica.pt/dr/detalhe/portaria/10244-1942-344188), de 2 de Julho de 1958, publicados na província de Angola; o Diploma Legislativo Ministerial n.º 5, de 11 de Outubro de 1961, o artigo 50.º do Diploma Legislativo n.º 2057, de 14 de Janeiro de 1961, e o Diploma Legislativo n.º 2431, de 21 de Dezembro de 1963, publicados na província de Moçambique.
+Art. 9.º O presente decreto entra em vigor na data da publicação do diploma regulamentar a que se refere o artigo 5.º, considerando-se revogados, nessa data: a Diploma Legislativo Ministerial n.º 2, de 26 de Maio de 1967, o Diploma Legislativo n.º 2874, de 26 de Dezembro de 1957, e a [Portaria n.º 10244](https://diariodarepublica.pt/dr/detalhe/portaria/10244-1942-344188), de 2 de Julho de 1958, publicados na província de Angola; o Diploma Legislativo Ministerial n.º 5, de 11 de Outubro de 1961, o artigo 50.º do Diploma Legislativo n.º 2057, de 14 de Janeiro de 1961, e o Diploma Legislativo n.º 2431, de 21 de Dezembro de 1963, publicados na província de Moçambique.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Novembro de 1969.**
+Promulgado em 11 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 301/1974, 1º Suplemento, Série I de 1974-12-28
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1630-(7) a 1630-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30101/00070007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/752-1974-595085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2505bb1604e86cf111c3a9b0d86db4cd8f40bff98c6a511f26ae05e5c9fdafc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0f4378a1dea1d2086db729c57cc2f8e359483846920b5373986eb6d5829b303
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diretor
+- Museu
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:508223:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:05Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +107,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 28.º do [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 28.º do [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965, passa a ter a seguinte redacção:
 
-###### Art. 28.º Os directores dos museus são escolhidos pela forma seguinte:
+Art. 28.º Os directores dos museus são escolhidos pela forma seguinte:
 
 a) Quanto aos museus nacionais, livremente pelo Ministro de entre pessoas de reconhecida competência;
 
@@ -106,8 +119,8 @@ b) Quanto aos restantes museus, pela forma estabelecida para o recrutamento dos 
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel Rodrigues de Carvalho.
 
-**Promulgado em 26 de Dezembro de 1974.**
+Promulgado em 26 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/09200/05990604.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1975-158400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5623d279b2973337efaf3bc57c2e8ef244726738f22a52ad858c8a4285d6df4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb88bf09cc492cec2155d312f143aabb5a03bf38b6145f31a8827509ebd1de32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Alienação de Acções
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Definição de Competências
+- Direcção Geral dos Registos e do Notariado
+- Fiscalização
+- Imposto Complementar
+- Imposto do SELO
+- Imposto sobre Sucessões e Doações
+- Inspeção Geral de Finanças
+- Inspecção Geral de Crédito e Seguros
+- Procuradoria Geral da República
+- Registo de Valores Mobiliários
+- Sanção
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:339827:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:03Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +188,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Registo obrigatório)
 
@@ -172,7 +196,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 2. Todavia, este diploma não se aplica às acções nominativas, salvo o disposto no artigo 17.º
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Eficácia do registo de acções perante a sociedade)
 
@@ -180,19 +204,19 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 2. Todavia, a transmissão registada produz efeitos desde a data da transmissão, a qual, quando não coincida com a do registo, deve constar do referido livro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Emissão de acções)
 
 Quando da emissão de acções, a sociedade emitirá para cada accionista um certificado de acções.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Transmissão de acções)
 
 Sem prejuízo do disposto no n.º 1 do artigo 2.º, as acções transmitem-se mediante a emissão de um certificado de acções a favor do adquirente.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Certificado de acções)
 
@@ -214,13 +238,13 @@ f) A assinatura e o carimbo ou selo branco da entidade emitente.
 
 3. Poderá proceder-se ao desdobramento do certificado de acções mediante a emissão de novos certificados, que, quando sejam emitidos em nome do anterior accionista, indicarão a data da emissão do anterior certificado e a circunstância do desdobramento, sendo, neste caso, dispensada a comunicação à sociedade, a que se refere o artigo 14.º
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Competência para a emissão de certificados)
 
 Sem prejuízo do disposto no artigo 3.º, a emissão de certificados de acções compete aos corretores das bolsas de valores ou aos notários, e quanto a transmissões efectuadas em juízo, aos magistrados do Ministério Público.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Emissão de certificados no caso de transmissão entre vivos)
 
@@ -228,7 +252,7 @@ Sem prejuízo do disposto no artigo 3.º, a emissão de certificados de acções
 
 2. Nos casos de transmissão na bolsa ou por adjudicação ou venda judicial, vale como data de emissão do certificado, para os efeitos do artigo 4.º, a data da operação, da adjudicação ou da venda judicial, respectivamente.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Emissão de certificados no caso de transmissão por morte)
 
@@ -248,7 +272,7 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 4. Deve sempre mencionar-se no certificado o facto de a transmissão se ter efectuado por morte do accionista e a data desta, que vale como data da emissão do certificado, para os efeitos do artigo 4.º, e, no caso do n.º 2, a qualidade de cabeça-de-casal.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Dispensa de apresentação de acções depositadas)
 
@@ -256,13 +280,13 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 2. Quando a instituição de crédito entregar as acções em face do primitivo certificado, deverá cancelar a declaração a que se refere o número anterior.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Comunicação à sociedade)
 
 Os corretores, notários e magistrados do Ministério Público devem enviar às sociedades, por correio registado, cópia dos certificados das respectivas acções emitidos por seu intermédio, no prazo de oito dias, a contar da emissão.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Cancelamento e arquivo de certificados)
 
@@ -270,7 +294,7 @@ Os corretores, notários e magistrados do Ministério Público devem enviar às 
 
 2. Devem arquivar também uma cópia dos certificados emitidos por seu intermédio.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Registo de acções)
 
@@ -278,7 +302,7 @@ Os corretores, notários e magistrados do Ministério Público devem enviar às 
 
 2. A sociedade não pode cancelar o registo de acções a favor de certa pessoa sem inscrever as mesmas acções em nome do respectivo adquirente, sem prejuízo do disposto no n.º 2 do artigo 8.º
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Usufruto de acções)
 
@@ -298,7 +322,7 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 4. Deve sempre mencionar-se no certificado o facto extintivo do usufruto e a sua data, que vale como data da emissão do certificado, para os efeitos do artigo 4.º
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Registo de acções em circulação)
 
@@ -312,7 +336,7 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 5. O registo das acções nos termos deste diploma obriga a sociedade a cancelar o registo relativo às mesmas acções efectuado nos termos do artigo 111.º do Código do Imposto Complementar.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Restrições relativas a acções não registadas)
 
@@ -322,7 +346,7 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 3. A partir da mesma data e tratando-se de transmissões entre vivos que não sejam por adjudicação ou venda judicial, não poderão ser emitidos certificados de acções sem que se faça prova do pagamento da multa a que se refere o n.º 2 do artigo 20.º, quanto à infracção ao disposto no n.º 1 do artigo 14.º
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Pagamento de dividendos)
 
@@ -330,7 +354,7 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 2. No caso de compra de cupões por instituições de crédito, a sociedade será dispensada da apresentação dos certificados, desde que tais instituições declarem terem-lhe sido apresentados e estarem em correspondência com os cupões.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Imposto sobre as sucessões e doações)
 
@@ -340,7 +364,7 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 3. O § único do artigo 6.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § único. ...
 
@@ -348,7 +372,7 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 2.º Os créditos, ainda que representados por títulos ou constituídos por quotas ou outros interesses em sociedade, pertencem ao domicílio do credor, salvo tratando-se de títulos sujeitos ao regime dos artigos 182.º e seguintes, os quais se consideram situados sempre no continente e ilhas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Imposto complementar)
 
@@ -358,13 +382,13 @@ d) Prova de que foi pago ou está assegurado o respectivo imposto sucessório, q
 
 3. O disposto no § 2.º dos artigos 3.º e 84.º do Código do Imposto Complementar, e bem assim o regime especial estabelecido nos seus artigos 111.º a 127.º, passa a aplicar-se apenas às obrigações e aos seus rendimentos.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Imposto do selo)
 
 Os certificados de acções emitidas nos termos deste diploma são isentos do imposto do selo.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Sanções)
 
@@ -400,7 +424,7 @@ e) Com a pena da alínea anterior, o sucessor a título gratuito que tente preva
 
 11. A falta de cumprimento no prazo que for fixado da determinação feita ao abrigo do número anterior sujeita o infractor à pena aplicável ao crime de desobediência qualificada.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Aplicação aos fundos de investimentos mobiliários)
 
@@ -408,7 +432,7 @@ e) Com a pena da alínea anterior, o sucessor a título gratuito que tente preva
 
 2. As acções pertencentes a fundos de investimentos mobiliários serão registadas em nome destes.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Regulamentação, fiscalização e entrada em vigor)
 
@@ -422,8 +446,8 @@ e) Com a pena da alínea anterior, o sucessor a título gratuito que tente preva
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 16 de Abril de 1975.**
+Promulgado em 16 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

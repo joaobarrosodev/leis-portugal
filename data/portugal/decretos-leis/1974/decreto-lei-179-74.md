@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/10100/05890589.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1974-623068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47bc9622cbf2815180bb9361f41c8b1ff1032214d4a8fcec01f2a3ab0dd3862d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b677c4ba49de8bd75a999ede3d47f0edc73f4d14d14ddd70ee915646e33a755b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- FAOJ
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Integração de Trabalhadores
+- Secretariado para a Juventude
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280737:por
+  label: "Extinto o Fundo de Apoio aos Organismos Juvenis pelo DEC LEI.478/77.15.11.1977.MEIC, DR.IS [264] de 15.11.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/478-1977-280737
+  date: '1977-11-15'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:56Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +116,22 @@ Nestes termos:
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado no Ministério da Educação Nacional, no âmbito dos órgãos e serviços centrais, o Fundo de Apoio aos Organismos Juvenis.
+Artigo 1.º - 1. É criado no Ministério da Educação Nacional, no âmbito dos órgãos e serviços centrais, o Fundo de Apoio aos Organismos Juvenis.
 
 2. O Fundo é dotado de personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 2.º São atribuições do Fundo o apoio e estímulo das actividades juvenis para o preenchimento dos tempos livres, integrados numa permanente formação democrática e aperfeiçoamento cultural, visando a participação esclarecida dos jovens na vida colectiva e fomentando o trabalho de grupo numa perspectiva de integração social.
+Art. 2.º São atribuições do Fundo o apoio e estímulo das actividades juvenis para o preenchimento dos tempos livres, integrados numa permanente formação democrática e aperfeiçoamento cultural, visando a participação esclarecida dos jovens na vida colectiva e fomentando o trabalho de grupo numa perspectiva de integração social.
 
-###### Art. 3.º Os objectivos definidos no artigo anterior serão realizados em conformidade com regulamento a publicar de acordo com os princípios que inspiram a acção da Junta de Salvação Nacional.
+Art. 3.º Os objectivos definidos no artigo anterior serão realizados em conformidade com regulamento a publicar de acordo com os princípios que inspiram a acção da Junta de Salvação Nacional.
 
-###### Art. 4.º - 1. Transita para o Fundo, sem dependência de quaisquer formalidades, o património, incluindo arrendamentos e documentação, do extinto Secretariado para a Juventude.
+Art. 4.º - 1. Transita para o Fundo, sem dependência de quaisquer formalidades, o património, incluindo arrendamentos e documentação, do extinto Secretariado para a Juventude.
 
 2. O pessoal em serviço no extinto Secretariado para a Juventude passa com os mesmos direitos para o Fundo, considerando-se para todos os efeitos o tempo de serviço prestado.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 30 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.

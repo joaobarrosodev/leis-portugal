@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1983-450824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ab10d3c277572601b26e45b3acd4a01ead2f83158ab74e94d5381c775ad8567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdf7aab56c256c35a924a488d0b59f6f7e89a18a350e5507db3d59b983993e8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imóvel Classificado
+- Património Cultural
+- Protecção do Património
 relationships:
 - type: amended_by
   target: pt:dre:321683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321683:por
+  label: "Alterado o art. 1º pelo DEC 67/97.1997.12.31.MC, DR.IS-B [301] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/67-1997-321683
+  date: '1997-12-31'
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:42Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +120,7 @@ Em conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São classificados como de interesse público os seguintes imóveis:
+Artigo 1.º São classificados como de interesse público os seguintes imóveis:
 
 Distrito de Bragança:
 
@@ -146,7 +174,7 @@ Concelho de Mangualde:
 
 Igreja matriz de Mangualde.
 
-###### Art. 2.º São classificados como valores concelhios os seguintes imóveis:
+Art. 2.º São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Beja:
 
@@ -168,12 +196,12 @@ Cruzeiro de Aldeia da Ponte.
 
 Francisco José Pereira Pinto Balsemão - Francisco António Lucas Pires.
 
-**Assinado em 22 de Abril de 1983.**
+Assinado em 22 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Abril de 1983.**
+Referendado em 27 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

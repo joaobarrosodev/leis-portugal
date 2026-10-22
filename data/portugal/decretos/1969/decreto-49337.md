@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49337-1969-215523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0196058cd6a88af2df7c77e0cfd9bac7cc0e76d01ffd9295c3a2030ceda291ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ea0058f69d56604c17919bcc4e73ed32ffc47ba61b8799e74784b44ef7fd8e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:54Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +95,14 @@ Tendo em vista o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizados os Serviços Sociais das Forças Armadas a celebrar contrato com Carlos Augusto Durão para execução da empreitada de construção de um prédio da categoria III (para oficiais) no lote 475, em Olivais Sul.
+Artigo 1.º São autorizados os Serviços Sociais das Forças Armadas a celebrar contrato com Carlos Augusto Durão para execução da empreitada de construção de um prédio da categoria III (para oficiais) no lote 475, em Olivais Sul.
 
-###### Art. 2.º Seja qual for o valor da obra a realizar, não poderão os Serviços Sociais das Forças Armadas despender com pagamentos relativos à obra executada, por virtude do contrato, mais de 1798095$60 no corrente ano económico, 3000000$00 no ano de 1970 e 3000000$00, ou o que se apurar como saldo, no ano de 1971.
+Art. 2.º Seja qual for o valor da obra a realizar, não poderão os Serviços Sociais das Forças Armadas despender com pagamentos relativos à obra executada, por virtude do contrato, mais de 1798095$60 no corrente ano económico, 3000000$00 no ano de 1970 e 3000000$00, ou o que se apurar como saldo, no ano de 1971.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 22 de Outubro de 1969.**
+Promulgado em 22 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/08/18500/11211125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:54:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: daaea798f7cdb0ec5ae57eb6cb976544d754f345313a6521c1baa6eeda4a00fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86fbd533c31f4191035524e76fbc853ef3bbf2d9c74d0e715f60c4d856711c9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:54:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco de Portugal
+- Conselho Nacional de Crédito
+- Contribuições e Impostos
+- Crédito Bancário
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Grémio Nacional dos Bancos e Casas Bancárias
+- Imposto de Capitais
+- Inspecção Geral de Crédito e Seguros
+- Instituição de Crédito
+- Mercado Cambial
+- Mercado de Capitais
+- Ministro das Finanças
+- Política de Crédito
+- Política Económica
+- Política Financeira
 relationships:
 - type: amended_by
   target: pt:dre:448953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:390268:por
+  label: "Revogados os arts. 2.º a 6.º, 21.º e 24.º pelo DEC LEI.47910.07.09.1967.MF, DG.IS [209] de 07.09.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47910-1967-390268
+  date: '1967-09-07'
+- type: repealed_by
+  target: pt:dre:225988:por
+  label: "Revogado o art. 29º pelo DEC LEI.183/70.1970.04.28.MF DG.IS [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1970-225988
+  date: '1970-04-28'
+- type: repealed_by
+  target: pt:dre:276626:por
+  label: "Revogado o art. 7º pelo DEC LEI.535/77.30.12.1977.MF, DR.IS [301] de 30.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/535-1977-276626
+  date: '1977-12-30'
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do art. 27º, pelo DEC LEI.485/88.1988.12.30.MF, DRI.S [301]2ºSupl, a\
+    \ partir da entrada em vigor do referido diploma, sem prejuízo da manutenção dos benefícios já concedidos e dos regimes\
+    \ de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:448953:por
+  label: "Revogado pelo DEC LEI.298/92.31.12.1992.MF, DR.IS-A [301]6ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1992-448953
+  date: '1992-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:54:15Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +211,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º do C
 
 ### CAPÍTULO I — Das operações das instituições de crédito
 
-###### Artigo 1.º Os depósitos de disponibilidades monetárias nas instituições de crédito só poderão revestir uma das seguintes formas:
+Artigo 1.º Os depósitos de disponibilidades monetárias nas instituições de crédito só poderão revestir uma das seguintes formas:
 
 a) Depósitos à ordem;
 
@@ -129,7 +225,7 @@ c) Depósitos com pré-aviso.
 
 § 3.º Os depósitos com pré-aviso serão exigíveis depois de prevenido o depositário, por escrito, com a antecipação fixada na cláusula do pré-aviso, antecipação que não poderá exceder 90 dias.
 
-###### Art. 2.º O valor das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da metrópole e promissórias de fomento nacional, deverá ser, em qualquer momento, igual, pelo menos, à soma das seguintes importâncias:
+Art. 2.º O valor das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da metrópole e promissórias de fomento nacional, deverá ser, em qualquer momento, igual, pelo menos, à soma das seguintes importâncias:
 
 a) 15 por cento das responsabilidades à vista em moeda nacional;
 
@@ -139,13 +235,13 @@ c) 5 por cento do total dos depósitos em moeda nacional constituídos por prazo
 
 § único. Além dos depósitos à ordem e das demais responsabilidades imediatamente exigíveis, são considerados como responsabilidades à vista, para efeitos deste artigo, os depósitos em moeda nacional com pré-aviso inferior a 30 dias.
 
-###### Art. 3.º Nas disponibilidades de caixa dos bancos comerciais a que se refere o artigo antecedente, não poderão contar-se, entre os valores mencionados no § 1.º do artigo 57.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, os cheques emitidos por esses bancos quer sobre as suas próprias sucursais, ou vice-versa, quer sobre outras instituições de crédito.
+Art. 3.º Nas disponibilidades de caixa dos bancos comerciais a que se refere o artigo antecedente, não poderão contar-se, entre os valores mencionados no § 1.º do artigo 57.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, os cheques emitidos por esses bancos quer sobre as suas próprias sucursais, ou vice-versa, quer sobre outras instituições de crédito.
 
-###### Art. 4.º Para determinação da situação de liquidez dos bancos comerciais, os excedentes das disponibilidades de caixa sobre as importâncias mínimas apuradas em conformidade com o disposto no artigo 2.º serão considerados como coberturas das diversas categorias de responsabilidades nesse artigo enumeradas, proporcionalmente às referidas importâncias mínimas.
+Art. 4.º Para determinação da situação de liquidez dos bancos comerciais, os excedentes das disponibilidades de caixa sobre as importâncias mínimas apuradas em conformidade com o disposto no artigo 2.º serão considerados como coberturas das diversas categorias de responsabilidades nesse artigo enumeradas, proporcionalmente às referidas importâncias mínimas.
 
-###### Art. 5.º A parte do valor das responsabilidades em moeda nacional, mencionadas nas alíneas a) e b) do artigo 2.º, que exceda a importância das disponibilidades de caixa com a composição indicada no mesmo artigo e calculada nos termos do artigo anterior, deverá estar sempre totalmente garantida pelos, valores activos indicados no artigo 60.º do Decreto-Lei n.º 42041, mas os efeitos comerciais em poder de correspondentes no País e os saldos em instituições de crédito domiciliadas no País, referidos respectivamente nas alíneas h) e j) desse artigo, poderão ter vencimentos não superiores a 180 dias.
+Art. 5.º A parte do valor das responsabilidades em moeda nacional, mencionadas nas alíneas a) e b) do artigo 2.º, que exceda a importância das disponibilidades de caixa com a composição indicada no mesmo artigo e calculada nos termos do artigo anterior, deverá estar sempre totalmente garantida pelos, valores activos indicados no artigo 60.º do Decreto-Lei n.º 42041, mas os efeitos comerciais em poder de correspondentes no País e os saldos em instituições de crédito domiciliadas no País, referidos respectivamente nas alíneas h) e j) desse artigo, poderão ter vencimentos não superiores a 180 dias.
 
-###### Art. 6.º A importância total das responsabilidades à vista em moeda nacional dos bancos comerciais e dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos ou com pré-avisos iguais ou superiores a 30 dias deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
+Art. 6.º A importância total das responsabilidades à vista em moeda nacional dos bancos comerciais e dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos ou com pré-avisos iguais ou superiores a 30 dias deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
 
 a) As disponibilidades de caixa referidas no artigo 2.º;
 
@@ -157,11 +253,11 @@ d) Os empréstimos ou contas correntes a prazos superiores a um ano, mas não a 
 
 § único. As importâncias dos valores referidos nas alíneas c) e d) do presente artigo que não resultarem da aplicação de capitais próprios dos bancos comerciais nunca poderão exceder o montante dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos superiores a 90 dias, salvo nos casos previstos na alínea d) do artigo 62.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
 
-###### Art. 7.º Nenhuma instituição de crédito poderá, sem prévia autorização do Ministro das Finanças, conferir aos seus correspondentes poderes para a realização de quaisquer operações bancárias.
+Art. 7.º Nenhuma instituição de crédito poderá, sem prévia autorização do Ministro das Finanças, conferir aos seus correspondentes poderes para a realização de quaisquer operações bancárias.
 
 ### CAPÍTULO II — Das taxas de juro
 
-###### Art. 8.º Os bancos comerciais não poderão abonar juros a taxas superiores aos seguintes limites:
+Art. 8.º Os bancos comerciais não poderão abonar juros a taxas superiores aos seguintes limites:
 
 a) 0,5 por cento, nos depósitos à ordem;
 
@@ -173,7 +269,7 @@ d) 3,5 por cento, nos depósitos a prazo superior a 90 dias e até um ano.
 
 § único. Dentro dos limites estabelecidos no presente artigo, poderá o Ministro das Finanças fixar por despacho, mediante proposta do Grémio Nacional dos Bancos e Casas Bancárias, limites de juro mais discriminados consoante a duração do pré-aviso e prazos dos depósitos.
 
-###### Art. 9.º Os estabelecimentos especiais de crédito mencionados na alínea f) do artigo 2.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) não poderão abonar, aos depósitos que estejam legalmente autorizados a receber, juros a taxas superiores aos seguintes limites:
+Art. 9.º Os estabelecimentos especiais de crédito mencionados na alínea f) do artigo 2.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) não poderão abonar, aos depósitos que estejam legalmente autorizados a receber, juros a taxas superiores aos seguintes limites:
 
 a) 2 por cento, nos depósitos à ordem e nos depósitos com pré-aviso inferior a 30 dias, até à importância de 20000$00, e 1,25 por cento acima desta importância;
 
@@ -183,9 +279,9 @@ c) 3,5 por cento, nos depósitos a prazo superior a 90 dias e até um ano;
 
 d) 4 por cento, nos depósitos a prazo superior a um ano.
 
-###### Art. 10.º É vedado a todas as instituições de crédito atribuir aos seus depositantes quaisquer vantagens ou prémios que, directa ou indirectamente, possam traduzir-se em retribuições dos seus depósitos superiores às taxas máximas fixadas nos artigos 8.º e 9.º antecedentes.
+Art. 10.º É vedado a todas as instituições de crédito atribuir aos seus depositantes quaisquer vantagens ou prémios que, directa ou indirectamente, possam traduzir-se em retribuições dos seus depósitos superiores às taxas máximas fixadas nos artigos 8.º e 9.º antecedentes.
 
-###### Art. 11.º As instituições de crédito não poderão cobrar, pelas suas operações activas, juros de taxas superiores aos seguintes limites:
+Art. 11.º As instituições de crédito não poderão cobrar, pelas suas operações activas, juros de taxas superiores aos seguintes limites:
 
 a) No desconto de efeitos comerciais e noutras operações de crédito por prazo não superior a seis meses, o valor da taxa de desconto do Banco de Portugal acrescido de 1,5 por cento;
 
@@ -197,15 +293,15 @@ d) Nas operações por prazos superiores a cinco anos, o valor daquela taxa de d
 
 § único. O Ministro das Finanças poderá autorizar taxas superiores às referidas nas alíneas c) e d) do corpo deste artigo, desde que as operações a que respeitem envolvam a aplicação de recursos especiais e se destinem a fins de reconhecido interesse para a economia nacional.
 
-###### Art. 12.º Nas operações de crédito efectuadas pelas instituições parabancárias a que alude o artigo 5.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, ou com mediação das sociedades referidas no [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, as taxas de juro máximas não poderão exceder as referidas no artigo anterior.
+Art. 12.º Nas operações de crédito efectuadas pelas instituições parabancárias a que alude o artigo 5.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, ou com mediação das sociedades referidas no [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, as taxas de juro máximas não poderão exceder as referidas no artigo anterior.
 
-###### Art. 13.º As taxas de juro acordadas com observância do disposto nos artigos 11.º e 12.º não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do Banco de Portugal durante o prazo pelo qual foram feitas as operações.
+Art. 13.º As taxas de juro acordadas com observância do disposto nos artigos 11.º e 12.º não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do Banco de Portugal durante o prazo pelo qual foram feitas as operações.
 
-###### Art. 14.º As instituições de crédito, bem como as instituições parabancárias, não podem substituir-se, directa ou indirectamente, aos depositantes, ou outros credores seus por operações bancárias, nos pagamentos dos impostos por eles devidos com relação aos juros dos respectivos depósitos e operações.
+Art. 14.º As instituições de crédito, bem como as instituições parabancárias, não podem substituir-se, directa ou indirectamente, aos depositantes, ou outros credores seus por operações bancárias, nos pagamentos dos impostos por eles devidos com relação aos juros dos respectivos depósitos e operações.
 
-###### Art. 15.º A Direcção-Geral das Contribuições e Impostos exercerá a fiscalização que lhe compete para observância das disposições fiscais relativas aos juros de depósitos nas instituições de crédito.
+Art. 15.º A Direcção-Geral das Contribuições e Impostos exercerá a fiscalização que lhe compete para observância das disposições fiscais relativas aos juros de depósitos nas instituições de crédito.
 
-###### Art. 16.º Serão consideradas como juros para efeitos dos limites fixados nos artigos 11.º e 12.º quaisquer comissões cobradas pelas instituições de crédito e pelas instituições parabancárias sobre as operações que efectuem.
+Art. 16.º Serão consideradas como juros para efeitos dos limites fixados nos artigos 11.º e 12.º quaisquer comissões cobradas pelas instituições de crédito e pelas instituições parabancárias sobre as operações que efectuem.
 
 § 1.º Exceptuam-se do disposto neste artigo os prémios de transferência referentes a letras e outros efeitos comerciais pagáveis em praça localizada em concelho diferente daquele em que tiver lugar o desconto.
 
@@ -213,17 +309,17 @@ d) Nas operações por prazos superiores a cinco anos, o valor daquela taxa de d
 
 § 3.º Tratando-se de empréstimos contratados com mediação das sociedades referidas no [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), deverá compreender-se dentro dos limites fixados nos artigos 11.º e 12.º a soma do juro recebido pelo mutuante com as comissões cobradas pelas entidades mediadoras.
 
-###### Art. 17.º O Ministro das Finanças poderá, por portaria, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, alterar os limites de taxa de juro referidos nos artigos 8.º, 9.º e 11.º, bem como fixar taxas de juro para quaisquer outras operações bancárias.
+Art. 17.º O Ministro das Finanças poderá, por portaria, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, alterar os limites de taxa de juro referidos nos artigos 8.º, 9.º e 11.º, bem como fixar taxas de juro para quaisquer outras operações bancárias.
 
 ### CAPÍTULO III — Do mercado monetário e do banco emissor, central e de reserva
 
-###### Art. 18.º Em circunstâncias especiais da conjuntura monetária e financeira e atentas as necessidades de financiamento do desenvolvimento económico nacional, o Ministro das Finanças, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, poderá estabelecer, por portaria, limites ao crédito a conceder pelas instituições de crédito e instituições parabancárias.
+Art. 18.º Em circunstâncias especiais da conjuntura monetária e financeira e atentas as necessidades de financiamento do desenvolvimento económico nacional, o Ministro das Finanças, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, poderá estabelecer, por portaria, limites ao crédito a conceder pelas instituições de crédito e instituições parabancárias.
 
-###### Art. 19.º Ao Ministro das Finanças compete, nos termos do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), fixar directivas tendentes a coordenar o volume e a distribuição do crédito com as necessidades de cada um dos sectores económicos.
+Art. 19.º Ao Ministro das Finanças compete, nos termos do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), fixar directivas tendentes a coordenar o volume e a distribuição do crédito com as necessidades de cada um dos sectores económicos.
 
-###### Art. 20.º O Governo procederá à regulamentação das operações de crédito bancário que tenham por objecto financiar as vendas a prestações de bens de consumo duradouro produzidos em território nacional ou importados do estrangeiro, tendo em consideração o regime legal sobre as operações de crédito a médio e longo prazo previsto pelo artigo 17.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962.
+Art. 20.º O Governo procederá à regulamentação das operações de crédito bancário que tenham por objecto financiar as vendas a prestações de bens de consumo duradouro produzidos em território nacional ou importados do estrangeiro, tendo em consideração o regime legal sobre as operações de crédito a médio e longo prazo previsto pelo artigo 17.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962.
 
-###### Art. 21.º O Ministro das Finanças poderá, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Credito, estabelecer, por portaria:
+Art. 21.º O Ministro das Finanças poderá, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Credito, estabelecer, por portaria:
 
 a) Os limites e as condições a que devem obedecer as coberturas mencionadas no artigo 60.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) e nos artigos 5.º e 6.º do presente diploma;
 
@@ -231,54 +327,54 @@ b) A participação das promissórias de fomento nacional nas disponibilidades d
 
 c) As relações referidas no artigo 71.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
 
-###### Art. 22.º O Banco de Portugal, na sua qualidade de banco emissor, central e de reserva, deverá, nos termos previstos pelo § 2.º do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) e de harmonia com o estabelecido nos seus estatutos e nos contratos com o Estado, adoptar, sempre que as circunstâncias o exijam, as providências atinentes a regular o funcionamento do mercado monetário e a promover a coordenação da circulação monetária com as necessidades da actividade económica.
+Art. 22.º O Banco de Portugal, na sua qualidade de banco emissor, central e de reserva, deverá, nos termos previstos pelo § 2.º do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) e de harmonia com o estabelecido nos seus estatutos e nos contratos com o Estado, adoptar, sempre que as circunstâncias o exijam, as providências atinentes a regular o funcionamento do mercado monetário e a promover a coordenação da circulação monetária com as necessidades da actividade económica.
 
-###### Art. 23.º Em circunstâncias especiais da conjuntura monetária, poderá o Banco de Portugal aplicar taxas de juro acima da taxa reguladora, nas operações de redesconto e, bem assim, nas de empréstimos directos não abrangidas pelos contratos de abertura de créditos em conta corrente, celebrados com as instituições de crédito, para além dos limites que forem oportunamente comunicados pelo Banco de Portugal a estas instituições.
+Art. 23.º Em circunstâncias especiais da conjuntura monetária, poderá o Banco de Portugal aplicar taxas de juro acima da taxa reguladora, nas operações de redesconto e, bem assim, nas de empréstimos directos não abrangidas pelos contratos de abertura de créditos em conta corrente, celebrados com as instituições de crédito, para além dos limites que forem oportunamente comunicados pelo Banco de Portugal a estas instituições.
 
-###### Art. 24.º O Banco de Portugal, na sua qualidade de banco emissor, central e de reserva, poderá alterar, com o acordo do Ministro das Finanças, as percentagens das disponibilidades de caixa indicadas no artigo 2.º do presente diploma.
+Art. 24.º O Banco de Portugal, na sua qualidade de banco emissor, central e de reserva, poderá alterar, com o acordo do Ministro das Finanças, as percentagens das disponibilidades de caixa indicadas no artigo 2.º do presente diploma.
 
-###### Art. 25.º As disponibilidades em moedas estrangeiras dos bancos comerciais, constituídas nos termos dos artigos 29.º a 36.º e §§ 1.º e 2.º do artigo 37.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, poderão ser limitadas pelo Banco de Portugal, tendo em consideração a conjuntura dos mercados monetário e cambial e a situação daquelas instituições.
+Art. 25.º As disponibilidades em moedas estrangeiras dos bancos comerciais, constituídas nos termos dos artigos 29.º a 36.º e §§ 1.º e 2.º do artigo 37.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, poderão ser limitadas pelo Banco de Portugal, tendo em consideração a conjuntura dos mercados monetário e cambial e a situação daquelas instituições.
 
 ### CAPÍTULO IV — Do mercado financeiro
 
-###### Art. 26.º Em conformidade com o previsto no artigo 27.º da [Lei n.º 2124](https://diariodarepublica.pt/dr/detalhe/lei/2124-1964-535177), de 19 de Dezembro de 1964, fica o Ministro das Finanças autorizado a adoptar as providências necessárias para incentivar o mercado financeiro, com vista a assegurar a normalidade do seu funcionamento e a prossecução da política de desenvolvimento económico nacional.
+Art. 26.º Em conformidade com o previsto no artigo 27.º da [Lei n.º 2124](https://diariodarepublica.pt/dr/detalhe/lei/2124-1964-535177), de 19 de Dezembro de 1964, fica o Ministro das Finanças autorizado a adoptar as providências necessárias para incentivar o mercado financeiro, com vista a assegurar a normalidade do seu funcionamento e a prossecução da política de desenvolvimento económico nacional.
 
-###### Art. 27.º Para os efeitos indicados no artigo anterior, poderá o Ministro das Finanças isentar, total ou parcialmente, do imposto sobre a aplicação de capitais e do imposto complementar os juros das obrigações emitidas por empresas cujos empreendimentos estejam abrangidos nos planos ou programas de fomento a que se refere o artigo 4.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), ou, embora neles não compreendidos, apresentem superior interesse do ponto de vista do desenvolvimento económico nacional.
+Art. 27.º Para os efeitos indicados no artigo anterior, poderá o Ministro das Finanças isentar, total ou parcialmente, do imposto sobre a aplicação de capitais e do imposto complementar os juros das obrigações emitidas por empresas cujos empreendimentos estejam abrangidos nos planos ou programas de fomento a que se refere o artigo 4.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), ou, embora neles não compreendidos, apresentem superior interesse do ponto de vista do desenvolvimento económico nacional.
 
 ### CAPÍTULO V — Dos elementos de informação monetária e financeira
 
-###### Art. 28.º As instituições de crédito e as instituições parabancárias são obrigadas a enviar ao Banco do Portugal, de harmonia com as instruções por este transmitidas, os balancetes mensais e demais elementos de informação relativos à sua situação e às operações que realizem nos mercados monetário e financeiro.
+Art. 28.º As instituições de crédito e as instituições parabancárias são obrigadas a enviar ao Banco do Portugal, de harmonia com as instruções por este transmitidas, os balancetes mensais e demais elementos de informação relativos à sua situação e às operações que realizem nos mercados monetário e financeiro.
 
-###### Art. 29.º Para complemento dos elementos de informação respeitantes à balança geral de pagamentos internacionais, referidos no § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), fica o Banco de Portugal autorizado a solicitar a quaisquer entidades, e estas obrigadas a prestar-lhe, os elementos de informação necessários à elaboração periódica de um balanço das importações e exportações de capitais e à determinação do valor líquido do crédito ou endividamento externo da economia nacional.
+Art. 29.º Para complemento dos elementos de informação respeitantes à balança geral de pagamentos internacionais, referidos no § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), fica o Banco de Portugal autorizado a solicitar a quaisquer entidades, e estas obrigadas a prestar-lhe, os elementos de informação necessários à elaboração periódica de um balanço das importações e exportações de capitais e à determinação do valor líquido do crédito ou endividamento externo da economia nacional.
 
-###### Art. 30.º As instituições de crédito, as instituições parabancárias e as outras entidades referidas nos artigos 28.º e 29.º enviarão à Inspecção-Geral de Crédito e Seguros cópia dos elementos de informação que remeteram ao Banco de Portugal em cumprimento do disposto nesses artigos.
+Art. 30.º As instituições de crédito, as instituições parabancárias e as outras entidades referidas nos artigos 28.º e 29.º enviarão à Inspecção-Geral de Crédito e Seguros cópia dos elementos de informação que remeteram ao Banco de Portugal em cumprimento do disposto nesses artigos.
 
 ### CAPÍTULO VI — Disposições especiais e transitórias
 
-###### Art. 31.º As infracções ao disposto no presente diploma serão punidas de harmonia com a lei geral e com o estabelecido nos artigos 89.º a 98.º, inclusive, do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
+Art. 31.º As infracções ao disposto no presente diploma serão punidas de harmonia com a lei geral e com o estabelecido nos artigos 89.º a 98.º, inclusive, do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
 
 § único. Sem prejuízo das sanções previstas no presente artigo, o Grémio Nacional dos Bancos e Casas Bancárias poderá aplicar as sanções disciplinares cominadas nos seus estatutos sempre que os seus agremiados adoptem, na sua concorrência, práticas incompatíveis com os princípios de uma competição razoável, ou que estejam em desacordo com a ética bancária.
 
-###### Art. 32.º Sem prejuízo das sanções previstas no presente artigo 31.º, às entidades que não enviaram nos prazos fixados os elementos contabilísticos ou informativos solicitados, nos termos legais, em circulares ou instruções enviadas sob registo e com aviso de recepção pela Inspecção-Geral de Crédito e Seguros ou pelo Banco de Portugal, poderá ser aplicada multa, cuja importância não excederá 10000$00.
+Art. 32.º Sem prejuízo das sanções previstas no presente artigo 31.º, às entidades que não enviaram nos prazos fixados os elementos contabilísticos ou informativos solicitados, nos termos legais, em circulares ou instruções enviadas sob registo e com aviso de recepção pela Inspecção-Geral de Crédito e Seguros ou pelo Banco de Portugal, poderá ser aplicada multa, cuja importância não excederá 10000$00.
 
 § único. A aplicação da multa é da competência do inspector-geral de Crédito e Seguros.
 
-###### Art. 33.º Os artigos 2.º a 6.º e § 2.º do artigo 16.º entram em vigor 60 dias após a data da publicação do presente diploma.
+Art. 33.º Os artigos 2.º a 6.º e § 2.º do artigo 16.º entram em vigor 60 dias após a data da publicação do presente diploma.
 
-###### Art. 34.º Os depósitos existentes à data da publicação deste diploma, com condições diferentes das nele estabelecidas, deverão harmonizar-se com as prescrições fixadas, nos seguintes prazos:
+Art. 34.º Os depósitos existentes à data da publicação deste diploma, com condições diferentes das nele estabelecidas, deverão harmonizar-se com as prescrições fixadas, nos seguintes prazos:
 
 a) Os depósitos à ordem com pré-aviso, nos termos do artigo 50.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), até quinze dias após a publicação deste diploma;
 
 b) Os depósitos a prazo, nos termos do mesmo artigo, a partir do termo do prazo para que foram constituídos.
 
-###### Art. 35.º Nas operações activas de crédito efectuadas em data anterior à da publicação deste diploma manter-se-ão, até ao respectivo vencimento, as taxas de juro acordadas quando da sua realização.
+Art. 35.º Nas operações activas de crédito efectuadas em data anterior à da publicação deste diploma manter-se-ão, até ao respectivo vencimento, as taxas de juro acordadas quando da sua realização.
 
-###### Art. 36.º Os actuais correspondentes bancários deverão requerer a competente autorização no prazo de 30 dias, a contar da publicação do presente diploma, e os que não obtiverem autorização deverão cessar a sua actividade nos 60 dias ulteriores ao despacho de indeferimento.
+Art. 36.º Os actuais correspondentes bancários deverão requerer a competente autorização no prazo de 30 dias, a contar da publicação do presente diploma, e os que não obtiverem autorização deverão cessar a sua actividade nos 60 dias ulteriores ao despacho de indeferimento.
 
-###### Art. 37.º Para todos os efeitos fiscais os depósitos com pré-aviso, igual ou superior a 30 dias, são equiparados aos depósitos a prazo.
+Art. 37.º Para todos os efeitos fiscais os depósitos com pré-aviso, igual ou superior a 30 dias, são equiparados aos depósitos a prazo.
 
-###### Art. 38.º São revogados o artigo 37.º do [Decreto n.º 10634](https://diariodarepublica.pt/dr/detalhe/decreto/10634-1925-437415), de 20 de Março de 1925, o [Decreto-Lei n.º 27711](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27711-1937-426118), de 19 de Maio de 1937, os §§ 1.º e 2.º do artigo 41.º e o artigo 42.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, o corpo do artigo 11.º e os artigos 23.º, 24.º, 50.º, 58.º e 59.º e os §§ 2.º e 3.º do artigo 57.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+Art. 38.º São revogados o artigo 37.º do [Decreto n.º 10634](https://diariodarepublica.pt/dr/detalhe/decreto/10634-1925-437415), de 20 de Março de 1925, o [Decreto-Lei n.º 27711](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27711-1937-426118), de 19 de Maio de 1937, os §§ 1.º e 2.º do artigo 41.º e o artigo 42.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, o corpo do artigo 11.º e os artigos 23.º, 24.º, 50.º, 58.º e 59.º e os §§ 2.º e 3.º do artigo 57.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

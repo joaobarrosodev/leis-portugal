@@ -50,36 +50,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47477-1966-488104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60a7d3c5339513abba2ecb8dfcaa1a9bf64013945782cb183a12551793cdfa03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67ca26df8556483fce227c379afe008360ee6c1b27f017cc87c437a5c8ea5da5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- Caixa Sindical de Previdência
+- Carreira Profissional
+- Federação das Caixas de Previdência e Abono de Família
+- Formas de Provimento
+- Instituições de Previdência Social
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:46Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +137,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aplicável ao provimento dos cargos de presidente e vice-presidente das instituições de previdência da 1.ª e 2.ª categorias referidas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, da Federação de Caixas de Previdência e Abono de Família e do Instituto de Obras Sociais, previstos na mesma lei, bem como ao provimento dos cargos de presidente e de vice-presidente das caixas sindicais de previdência e de reforma ou de previdência constituídas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, até à integração destas instituições no sistema daquele primeiro diploma, o disposto no artigo 14.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936.
+Artigo único. É aplicável ao provimento dos cargos de presidente e vice-presidente das instituições de previdência da 1.ª e 2.ª categorias referidas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, da Federação de Caixas de Previdência e Abono de Família e do Instituto de Obras Sociais, previstos na mesma lei, bem como ao provimento dos cargos de presidente e de vice-presidente das caixas sindicais de previdência e de reforma ou de previdência constituídas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, até à integração destas instituições no sistema daquele primeiro diploma, o disposto no artigo 14.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Vareta - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

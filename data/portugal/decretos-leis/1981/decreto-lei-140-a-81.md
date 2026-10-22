@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 125/1981, 2º Suplemento, Série I de 1981-06-01
   number: '125'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1254-(5) a 1254-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/12502/00050015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-a-1981-149261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d99e58a88c1689bdb7d8d9a10573a2d557ae0106465c980bdf7e3695926d001
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 667465438726b9925b8633749307ac625d6c03f8d94fe74d413ddbd8c57b6c48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Transacções
+- Imposto de Transacções
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397337:por
+  label: "Revogado o artigo 5.º pelo DEC LEI.303/82.31.07.1982.MFP, DR.IS [175] de 31.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1982-397337
+  date: '1982-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:33Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +177,9 @@ Usando da autorização legislativa concedida pelas alíneas a) a e) e g) a i) d
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 6.º, 7.º, 8.º, 22.º, 27.º, 49.º, 51.º, 58.º, 59.º e 80.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 6.º, 7.º, 8.º, 22.º, 27.º, 49.º, 51.º, 58.º, 59.º e 80.º do Código do Imposto de Transacções passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 a) ...
 
@@ -130,7 +199,7 @@ a) As pessoas que mandem efectuar a terceiros as operações referidas no § 1.�
 
 b) As pessoas cuja actividade consista na reparação ou beneficiação de bens importados temporariamente para esse efeito.
 
-###### Art. 6.º Ficam também isentas do imposto:
+Art. 6.º Ficam também isentas do imposto:
 
 1.º As importações de mercadorias, sempre que gozem de isenção do pagamento de direitos nos termos das seguintes disposições:
 
@@ -156,7 +225,7 @@ f) Artigos 1.º e 2.º do [Decreto-Lei n.º 16/81](https://diariodarepublica.pt/
 
 § 2.º ...
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 a) ...
 
@@ -168,7 +237,7 @@ d) ...
 
 e) ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § 1.º ...
 
@@ -178,7 +247,7 @@ e) ...
 
 § 4.º Nos casos em que no mesmo estabelecimento seja exercida actividade de retalhista cumulativamente com a de produtor ou grossista, sem separação física das respectivas existências, o imposto correspondente às mercadorias transaccionadas a retalho incidirá sobre o preço efectivo da transacção ou, não o havendo, sobre o preço normal da venda a retalho, salvo tendo sido concedida a dispensa prevista no § único do artigo 79.º-A, caso em que o imposto incidirá sobre o valor determinado nos termos do corpo do presente artigo ou do seu § 1.º, desde que exista comprovante desse valor e o respectivo documento seja considerado idóneo pelos serviços da administração fiscal.
 
-###### Art. 22.º A taxa do imposto é de 15%, salvo nas transacções compreendidas nas alíneas seguintes:
+Art. 22.º A taxa do imposto é de 15%, salvo nas transacções compreendidas nas alíneas seguintes:
 
 a) Mercadorias constantes da lista II anexa ao Código - taxa de 30%;
 
@@ -194,7 +263,7 @@ d) Cerveja - taxa específica de 12$00 por litro.
 
 § 3.º Os concentrados de cerveja serão tributados pelo décuplo da taxa referida na alínea d) do presente artigo.
 
-###### Art. 27.º É permitida a anulação ou rectificação da liquidação do imposto relativo às transacções de mercadorias que tiverem sido devolvidas aos produtores ou grossistas registados no prazo previsto na alínea a) do artigo 41.º, desde que os seus adquirentes ou destinatários tenham processado a competente guia ou nota de devolução, da qual constem os elementos referidos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo 70.º, com dispensa dos que respeitarem a preços e valores.
+Art. 27.º É permitida a anulação ou rectificação da liquidação do imposto relativo às transacções de mercadorias que tiverem sido devolvidas aos produtores ou grossistas registados no prazo previsto na alínea a) do artigo 41.º, desde que os seus adquirentes ou destinatários tenham processado a competente guia ou nota de devolução, da qual constem os elementos referidos nos n.os 1.º, 2.º, 3.º e 6.º do corpo do artigo 70.º, com dispensa dos que respeitarem a preços e valores.
 
 § 1.º ...
 
@@ -204,7 +273,7 @@ d) Cerveja - taxa específica de 12$00 por litro.
 
 § 4.º ...
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 a) ...
 
@@ -218,7 +287,7 @@ c) ...
 
 § 3.º Os produtores ou grossistas que se encontrem inscritos no registo por força do disposto no corpo deste artigo e passem a reunir as condições determinantes da tributação pelo grupo C da contribuição industrial manter-se-ão registados, sem prejuízo de eventual cancelamento da inscrição ao abrigo do disposto no § 1.º do artigo 57.º
 
-###### Art. 51.º ...
+Art. 51.º ...
 
 a) ...
 
@@ -228,7 +297,7 @@ b) ...
 
 § 2.º As declarações referidas neste artigo serão apresentadas na repartição de finanças da área da situação do estabelecimento principal e das filiais, sucursais, agências, delegações ou outras instalações comerciais ou industriais dependentes ou na do domicílio, quando não tenham estabelecimento, devendo ser exibido no mesmo acto o cartão de identificação passado pelo Gabinete do Registo Nacional e, bem assim, o certificado de comerciante, quando exigível para o exercício da actividade.
 
-###### Art. 58.º ...
+Art. 58.º ...
 
 § 1.º Será dispensada a notificação, produzindo o cancelamento efeitos imediatos, sempre que este seja promovido oficiosamente com base em fundadas suspeitas de que o registo é utilizado para cobrir a emissão fraudulenta de declarações de responsabilidade modelos n.os 5 ou 6, ao abrigo dos artigos 64.º ou 65.º, com vista à evasão do imposto, designadamente nos seguintes casos:
 
@@ -240,19 +309,19 @@ c) Inscrição em nome de pessoas insolventes ou que venham a ser propositadamen
 
 § 2.º Os certificados de registo de que forem possuidoras as pessoas cujas inscrições tenham sido canceladas serão devolvidos à repartição de finanças da respectiva área no prazo previsto na alínea d) do artigo 41.º
 
-###### Art. 59.º A Direcção-Geral das Contribuições e Impostos fará publicar no Diário da República, em jornais diários e em boletins ou outras publicações das respectivas associações de classe os nomes dos titulares cujos registos tenham sido cancelados, sempre que nisso veja conveniência e, designadamente, nos casos das actuações fraudulentas referidas no § 1.º do artigo 58.º, com indicação das residências ou sedes e respectivos números dos registos.
+Art. 59.º A Direcção-Geral das Contribuições e Impostos fará publicar no Diário da República, em jornais diários e em boletins ou outras publicações das respectivas associações de classe os nomes dos titulares cujos registos tenham sido cancelados, sempre que nisso veja conveniência e, designadamente, nos casos das actuações fraudulentas referidas no § 1.º do artigo 58.º, com indicação das residências ou sedes e respectivos números dos registos.
 
 § único. É aplicável o disposto no § 2.º do artigo 66.º aos produtores ou grossistas que fornecerem mercadorias, sem liquidação do imposto devido, a coberto de declarações de responsabilidade modelos n.os 5 ou 6 que respeitem a registos cancelados e a que haja sido dada a publicidade referida neste artigo.
 
-###### Art. 80.º Na escrituração dos livros e verbetes referidos nos artigos 75.º e 76.º não são permitidos atrasos superiores a noventa dias.
+Art. 80.º Na escrituração dos livros e verbetes referidos nos artigos 75.º e 76.º não são permitidos atrasos superiores a noventa dias.
 
 § único ...
 
-###### Art. 2.º É revogado o artigo 78.º do Código do Imposto de Transacções.
+Art. 2.º É revogado o artigo 78.º do Código do Imposto de Transacções.
 
-###### Art. 3.º São aditados ao Código do Imposto de Transacções os artigos 31.º-A e 44.º-A, com a seguinte redacção:
+Art. 3.º São aditados ao Código do Imposto de Transacções os artigos 31.º-A e 44.º-A, com a seguinte redacção:
 
-###### Art. 31.º-A. Quando, relativamente a determinadas mercadorias, tenha sido suportado imposto pelo adquirente e, posteriormente à aquisição, se verifique ser devido imposto por ulterior transacção das mesmas mercadorias, poderá o director-geral das Contribuições e Impostos, a requerimento dos produtores ou grossistas registados e sujeitos ao imposto, autorizar a compensação, por dedução em futuras entregas da importância do imposto que, documentalmente e por forma inequívoca, se prove ter sido efectivamente suportado pelos requerentes.
+Art. 31.º-A. Quando, relativamente a determinadas mercadorias, tenha sido suportado imposto pelo adquirente e, posteriormente à aquisição, se verifique ser devido imposto por ulterior transacção das mesmas mercadorias, poderá o director-geral das Contribuições e Impostos, a requerimento dos produtores ou grossistas registados e sujeitos ao imposto, autorizar a compensação, por dedução em futuras entregas da importância do imposto que, documentalmente e por forma inequívoca, se prove ter sido efectivamente suportado pelos requerentes.
 
 § 1.º O disposto neste artigo é igualmente aplicável aos casos de aquisição de matérias-primas destinadas à produção, se se verificar que, tendo sido suportado o respectivo imposto pelo adquirente, as mesmas sejam por este utilizadas na produção de mercadorias por cujas transacções seja devido imposto.
 
@@ -260,13 +329,13 @@ c) Inscrição em nome de pessoas insolventes ou que venham a ser propositadamen
 
 § 3.º Havendo já processo de transgressão instaurado, o pedido referido neste artigo deverá ser apresentado até ao termo do prazo de trinta dias estabelecido nos artigos 117.º e 140.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 44.º-A Para a cobrança do imposto de transacções, a Fazenda Nacional goza do privilégio referido no artigo 736.º do Código Civil.
+Art. 44.º-A Para a cobrança do imposto de transacções, a Fazenda Nacional goza do privilégio referido no artigo 736.º do Código Civil.
 
-###### Art. 4.º São aprovadas as novas listas I, II, III e IV anexas a este diploma, as quais se consideram inseridas no Código do Imposto de Transacções e que substituem as listas actualmente em vigor.
+Art. 4.º São aprovadas as novas listas I, II, III e IV anexas a este diploma, as quais se consideram inseridas no Código do Imposto de Transacções e que substituem as listas actualmente em vigor.
 
-###### Art. 5.º O artigo 4.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, passa a ter a seguinte redacção:
+Art. 5.º O artigo 4.º do [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - O regime estabelecido pelos artigos 6.º a 12.º do [Decreto-Lei n.º 480/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1976-431042), de 18 de Junho, é aplicável às transacções dos aparelhos e máquinas referidos nas verbas n.os 1, 4 e 27 da lista II e verbas n.os 2, 3 e 4 da lista III, anexas ao Código do Imposto de Transacções, e, bem assim, dos aparelhos e máquinas, electrificados, a seguir indicados:
+Art. 4.º - 1 - O regime estabelecido pelos artigos 6.º a 12.º do [Decreto-Lei n.º 480/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1976-431042), de 18 de Junho, é aplicável às transacções dos aparelhos e máquinas referidos nas verbas n.os 1, 4 e 27 da lista II e verbas n.os 2, 3 e 4 da lista III, anexas ao Código do Imposto de Transacções, e, bem assim, dos aparelhos e máquinas, electrificados, a seguir indicados:
 
 a) Aparelhos de ar condicionado, climatizadores e desumidificadores;
 
@@ -288,9 +357,9 @@ i) Torradeiras.
 
 2 - ...
 
-###### Art. 6.º Os artigos 4.º, 13.º e 19.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, passam a ter a seguinte redacção:
+Art. 6.º Os artigos 4.º, 13.º e 19.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 a) ...
 
@@ -306,9 +375,9 @@ f) ...
 
 2 - ...
 
-###### Art. 13.º A taxa do imposto de transacções devido pelas prestações de serviços é de 5%.
+Art. 13.º A taxa do imposto de transacções devido pelas prestações de serviços é de 5%.
 
-###### Art. 19.º - 1 - ...
+Art. 19.º - 1 - ...
 
 2 - O imposto devido pelas chamadas telefónicas poderá ser entregue na tesouraria da Fazenda Pública da área da sede das empresas concessionárias, mediante autorização a conceder pelo director-geral das Contribuições e Impostos, podendo neste caso o imposto ser pago nos dois meses seguintes àquele em que o imposto se torne devido nos termos da alínea e) do artigo 7.º
 
@@ -316,21 +385,21 @@ f) ...
 
 4 - ...
 
-###### Art. 7.º - 1 - A importância do imposto de transacções devido pelas chamadas telefónicas, nos termos do [Decreto-Lei n.º 213/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1980-471889), de 9 de Julho, não poderá ser transferida para os utentes do serviço durante a vigência da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, não sendo aplicável neste caso o disposto nos artigos 16.º, n.º 1, alínea a), e 17.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
+Art. 7.º - 1 - A importância do imposto de transacções devido pelas chamadas telefónicas, nos termos do [Decreto-Lei n.º 213/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1980-471889), de 9 de Julho, não poderá ser transferida para os utentes do serviço durante a vigência da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril, não sendo aplicável neste caso o disposto nos artigos 16.º, n.º 1, alínea a), e 17.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
 
 2 - A inobservância do disposto no número anterior será punida com multa de 1000$00 a 10000$00 por cada infracção e em relação a cada utente, sendo aplicável a estas transgressões o disposto nos artigos 28.º e 34.º a 38.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
 
-###### Art. 8.º - 1 - O disposto no artigo 13.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 6.º do presente decreto-lei. entrará em vigor no dia 1 de Julho de 1981.
+Art. 8.º - 1 - O disposto no artigo 13.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 6.º do presente decreto-lei. entrará em vigor no dia 1 de Julho de 1981.
 
 2 - O disposto no artigo 7.º deste decreto-lei é aplicável às chamadas telefónicas cuja cobrança das respectivas taxas se verifique a partir da vigência da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 31 de Maio de 1981.**
+Promulgado em 31 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Listas a que se referem os artigos 5.º e 22.º do Código do Imposto de Transacções e o artigo 4.º do Decreto-Lei n.º 140-A/81, de 1 de Junho.
 

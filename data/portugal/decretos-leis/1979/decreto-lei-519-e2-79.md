@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 299/1979, 8º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 3446-(152) a 3446-(176)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29908/01520176.pdf
 entry_into_force_dates: []
@@ -47,40 +47,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e2-1979-157046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7507a54cbf5840704f67a0b4536fc7df7249181f88c80213a4802d8904c5e425
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 949d4b7e66b1b7a2174ece2fee3b1a409ead9e5b8754dc0ca2dabad2a69b6da7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Ensino Técnico Profissional
+- Habilitações Literárias
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:186759:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390467:por
+  label: "Alterados os mapas 2 e 3 anexos ao presente diploma, pelo DN.15/81.14.01.1981.PCM, DR.IS [11] de 14.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-1981-390467
+  date: '1981-01-14'
+- type: amended_by
+  target: pt:dre:601299:por
+  label: "Alterados os mapas 2 e 3 anexos ao presente diploma, na redacção do Despacho Normativo 15/81, de 14 de Janeiro,\
+    \ pelo DN.3/82.14.01.1982.MFP, DR.IS [11] de 14.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-1982-601299
+  date: '1982-01-14'
+- type: amended_by
+  target: pt:dre:311427:por
+  label: "Alterados os mapas 2 e 3 anexos ao presente diploma, na redacção do Despacho Normativo 3/82, de 14 de Janeiro, pelo\
+    \ DN.57/83.23.02.1983.MFP, DR.IS [44] de 23.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/57-1983-311427
+  date: '1983-02-23'
+- type: cites
+  target: pt:dre:140488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658425:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678778:por
+  label: Rectificado pela DECL.DD6754.21.02.1980.PCM, DR.IS [54] de 05.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678778
+  date: '1980-02-21'
+- type: corrected_by
+  target: pt:dre:679427:por
+  label: Rectificado pela DECL.DD720.21.02.1980.PCM, DR.IS [43] de 21.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679427
+  date: '1980-02-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:06Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +218,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São unificados os grupos, subgrupos, disciplinas e especialidades dos ensinos liceal e técnico-profissional segundo o disposto no mapa n.º 1 anexo ao presente diploma.
+Artigo 1.º São unificados os grupos, subgrupos, disciplinas e especialidades dos ensinos liceal e técnico-profissional segundo o disposto no mapa n.º 1 anexo ao presente diploma.
 
-###### Art. 2.º - 1 - As habilitações consideradas como próprias e suficientes para os diversos grupos e disciplinas e especialidades do ensino preparatório são as constantes do mapa n.º 2 anexo ao presente diploma.
+Art. 2.º - 1 - As habilitações consideradas como próprias e suficientes para os diversos grupos e disciplinas e especialidades do ensino preparatório são as constantes do mapa n.º 2 anexo ao presente diploma.
 
 2 - As habilitações consideradas como próprias e suficientes para os diversos grupos, subgrupos e disciplinas do ensino secundário são as constantes do mapa n.º 3 anexo a este decreto-lei.
 
-###### Art. 3.º As alterações das habilitações referidas no artigo anterior far-se-ão por despacho normativo dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
+Art. 3.º As alterações das habilitações referidas no artigo anterior far-se-ão por despacho normativo dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
 
-###### Art. 4.º - 1 - O 12.º grupo do ensino secundário é dividido nos seguintes subgrupos:
+Art. 4.º - 1 - O 12.º grupo do ensino secundário é dividido nos seguintes subgrupos:
 
 a) 12.º grupo A (Mecanotecnia);
 
@@ -147,31 +242,31 @@ f) 12.º grupo F (outras especialidades não consignadas nos subgrupos anteriore
 
 2 - Para efeitos de concursos, o 12.º grupo F desenvolve-se pelas diversas especialidades que o integram, correspondendo a cada uma delas um número de código.
 
-###### Art. 5.º - 1 - São adicionados aos quadros das escolas preparatórias 2400 lugares de professor efectivo distribuídos pelos respectivos grupos e disciplinas, nos termos do mapa n.º 4 anexo ao presente diploma.
+Art. 5.º - 1 - São adicionados aos quadros das escolas preparatórias 2400 lugares de professor efectivo distribuídos pelos respectivos grupos e disciplinas, nos termos do mapa n.º 4 anexo ao presente diploma.
 
 2 - São adicionados aos quadros das escolas secundárias 3200 lugares de professor efectivo distribuídos pelos respectivos grupos, subgrupos e disciplinas, nos termos do mapa n.º 5 anexo a este decreto-lei.
 
-###### Art. 6.º A afectação dos lugares criados nos termos do artigo anterior aos quadros de cada uma das escolas preparatórias ou secundárias far-se-á por portaria do Ministro da Educação, a publicar no prazo de trinta dias contado a partir da entrada em vigor do presente diploma, através de anexação de um mapa global de todos os estabelecimentos.
+Art. 6.º A afectação dos lugares criados nos termos do artigo anterior aos quadros de cada uma das escolas preparatórias ou secundárias far-se-á por portaria do Ministro da Educação, a publicar no prazo de trinta dias contado a partir da entrada em vigor do presente diploma, através de anexação de um mapa global de todos os estabelecimentos.
 
-###### Art. 7.º - 1 - A constituição dos quadros referidos no artigo anterior será obrigatoriamente revista no prazo máximo de três anos, por força de portaria do Ministro da Educação, se a mesma não originar aumento de encargos, ou de portaria dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, se de tal resultar agravamento orçamental.
+Art. 7.º - 1 - A constituição dos quadros referidos no artigo anterior será obrigatoriamente revista no prazo máximo de três anos, por força de portaria do Ministro da Educação, se a mesma não originar aumento de encargos, ou de portaria dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, se de tal resultar agravamento orçamental.
 
 2 - Por despacho ministerial, a publicar no Diário da República, pode ser autorizada a alteração da quantificação dos quadros de qualquer estabelecimento, desde que não seja aumentado nas diversas categorias o número total de lugares do quadro de cada grau de ensino.
 
-###### Art. 8.º Nos concursos para professores efectivos dos ensinos preparatório e secundário não haverá recuperação de vagas sempre que os lugares já providos excedam as necessidades reais do estabelecimento de ensino em resultado da diminuição da sua frequência escolar ou de alteração de currículos.
+Art. 8.º Nos concursos para professores efectivos dos ensinos preparatório e secundário não haverá recuperação de vagas sempre que os lugares já providos excedam as necessidades reais do estabelecimento de ensino em resultado da diminuição da sua frequência escolar ou de alteração de currículos.
 
-###### Art. 9.º - 1 - Os professores efectivos do ensino liceal à data da publicação do presente diploma integram-se no correspondente quadro do mesmo estabelecimento de ensino e no grupo, subgrupo ou disciplina nos termos do mapa referido no artigo 1.º, independentemente de quaisquer formalidades legais, excepto anotação pelo Tribunal de Contas.
+Art. 9.º - 1 - Os professores efectivos do ensino liceal à data da publicação do presente diploma integram-se no correspondente quadro do mesmo estabelecimento de ensino e no grupo, subgrupo ou disciplina nos termos do mapa referido no artigo 1.º, independentemente de quaisquer formalidades legais, excepto anotação pelo Tribunal de Contas.
 
 2 - Os professores efectivos de Lavores Femininos do ensino liceal são integrados, nas condições referidas no número anterior, no 12.º grupo D.
 
-###### Art. 10.º - 1 - Os docentes que à data da publicação do presidente diploma se encontrem na situação de profissionalizados não efectivos do ensino liceal para os correspondentes grupos, subgrupos e disciplinas consideram-se, para todos os efeitos legais, profissionalizados para os grupos, subgrupos e disciplinas do ensino secundário segundo o mapa de unificação referido no artigo 1.º
+Art. 10.º - 1 - Os docentes que à data da publicação do presidente diploma se encontrem na situação de profissionalizados não efectivos do ensino liceal para os correspondentes grupos, subgrupos e disciplinas consideram-se, para todos os efeitos legais, profissionalizados para os grupos, subgrupos e disciplinas do ensino secundário segundo o mapa de unificação referido no artigo 1.º
 
 2 - O disposto no número anterior aplica-se aos licenciados dos ramos educacionais das Faculdades de Ciências, bem como aos licenciados ou bacharéis em ensino, devendo, porém, os mesmos, quando for caso disso, optar, em concurso, por um dos grupos ou sub-grupos em que, nos termos legais em vigor, são considerados profissionalizados.
 
-###### Art. 11.º - 1 - Aos indivíduos que no ano escolar de 1979-1980 se encontrem a frequentar os estágios previstos no [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril, é aplicável, para todos os efeitos legais, o disposto no artigo anterior.
+Art. 11.º - 1 - Aos indivíduos que no ano escolar de 1979-1980 se encontrem a frequentar os estágios previstos no [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril, é aplicável, para todos os efeitos legais, o disposto no artigo anterior.
 
 2 - Aos indivíduos que venham a concluir as licenciaturas dos ramos educacionais das Faculdades de Ciências e as licenciaturas ou bacharelatos em ensino aplica-se o disposto no n.º 2 do artigo anterior.
 
-###### Art. 12.º - 1 - Os professores efectivos dos grupos, subgrupos e disciplinas em que estão integrados, independentemente de quaisquer formalidades legais.
+Art. 12.º - 1 - Os professores efectivos dos grupos, subgrupos e disciplinas em que estão integrados, independentemente de quaisquer formalidades legais.
 
 2 - Sem prejuízo do disposto no número anterior, operar-se-ão as seguintes integrações:
 
@@ -189,35 +284,35 @@ f) Dos actuais titulares de lugares de quadro de outras especialidades do 12.º 
 
 3 - O disposto no número anterior verificar-se-á para os correspondentes lugares nos novos grupos, sub-grupos e disciplinas e nos mesmos estabelecimentos de ensino, independentemente de quaisquer formalidades legais, salvo anotação do Tribunal de Contas nos casos referidos nas alíneas d), e) e f).
 
-###### Art. 13.º Os professores efectivos de Canto Coral dos liceus e escolas secundárias integram-se, nos mesmos estabelecimentos de ensino, nos correspondentes lugares de Música, independentemente de quaisquer formalidades legais, excepto anotação pelo Tribunal de Contas.
+Art. 13.º Os professores efectivos de Canto Coral dos liceus e escolas secundárias integram-se, nos mesmos estabelecimentos de ensino, nos correspondentes lugares de Música, independentemente de quaisquer formalidades legais, excepto anotação pelo Tribunal de Contas.
 
-###### Art. 14.º Os lugares do quadro dos estabelecimentos do ensino secundário da disciplina de Educação Física e os lugares do quadro dos estabelecimentos do ensino preparatório da disciplina de Trabalhos Manuais integram lugares masculinos e femininos.
+Art. 14.º Os lugares do quadro dos estabelecimentos do ensino secundário da disciplina de Educação Física e os lugares do quadro dos estabelecimentos do ensino preparatório da disciplina de Trabalhos Manuais integram lugares masculinos e femininos.
 
-###### Art. 15.º É revogada toda a legislação em contrário, nomeadamente:
+Art. 15.º É revogada toda a legislação em contrário, nomeadamente:
 
 a) Os artigos 2.º, 3.º, 12.º e 14.º do [Decreto-Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1977-140488), de 1 de Março;
 
 b) Os n.os 1 e 2, as alíneas b) e c) do n.º 4 e os n.os 5, 7, 8, 8.2, 9, 10, 11, 12, 19, 20 e 28 da [Portaria n.º 26/79](https://diariodarepublica.pt/dr/detalhe/portaria/26-1979-392259), de 18 de Janeiro.
 
-###### Art. 16.º A criação e afectação de lugares nos estabelecimentos dos ensinos preparatório e secundário das Regiões Autónomas da Madeira e dos Açores far-se-á por diploma dos respectivos Governos Regionais.
+Art. 16.º A criação e afectação de lugares nos estabelecimentos dos ensinos preparatório e secundário das Regiões Autónomas da Madeira e dos Açores far-se-á por diploma dos respectivos Governos Regionais.
 
-###### Art. 17.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 17.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 18.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa n.º 1 a que se refere o artigo 1.º do Decreto-Lei n.º 519-E2/79, de 29 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29908/01520176.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29908/01520176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29908/01520176.pdf)
 
-**O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.**
+O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.
 
 Mapa n.º 2 a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 519-E2/19, de 29 de Dezembro
 
@@ -1067,13 +1162,13 @@ Curso do magistério primário (ver nota a).
 
 (nota a) Desde que os respectivos titulares comprovem aproveitamento nos cursos de informação técnico-pedagógica, organizados pelas Direcções-Gerais dos Ensinos Básico e Secundário e dos Desportos.
 
-**O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.**
+O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.
 
 Mapa n.º 3 a que se refere o n.º 2 de artigo 2.º do Decreto-Lei n.º 519-E2/79, de 29 de Dezembro
 
 Ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29908/01520176.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29908/01520176.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29908/01520176.pdf)
 
 Mapa n.º 4 a que se refere o n.º 1 do artigo 5.º do Decreto-Lei n.º 519-E2/79, de 29 de Dezembro
 
@@ -1153,4 +1248,4 @@ Grupo B ... 10
 
 Total ... 3200
 
-**O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.**
+O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.

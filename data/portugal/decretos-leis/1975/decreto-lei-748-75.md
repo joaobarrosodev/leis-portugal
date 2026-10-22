@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 300/1975, 2º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2160-(10) a 2160-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30002/00100010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/748-1975-355277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7c049bb5510119a0411cedb5bd833dc2616e3d1444bf1fee05b2d2c5d2f7048
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9b2270faf062987d1fd04dd39bd6ba79044b003d8a1cc1dc6ebf8ba9a0d3c62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Dívida Pública
+- Emissão de Títulos
+- Empréstimo Interno
+- Instituição de Crédito
+- Junta de Crédito Público
+- Ministro das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:11Z'
   warnings: []
   errors: []
 ---
@@ -102,18 +114,18 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Pode o Ministro das Finanças, por simples despacho, autorizar a Junta do Crédito Público a confiar, no todo ou em parte, a instituições de crédito as tarefas administrativas ligadas à emissão e ao serviço de qualquer empréstimo de dívida pública.
+Artigo 1.º - 1. Pode o Ministro das Finanças, por simples despacho, autorizar a Junta do Crédito Público a confiar, no todo ou em parte, a instituições de crédito as tarefas administrativas ligadas à emissão e ao serviço de qualquer empréstimo de dívida pública.
 
 2. As normas a observar na execução dessas tarefas serão ajustadas entre a Junta do Crédito Público e a instituição de crédito designada pelo Ministro das Finanças, que fixará também as condições de remuneração dos respectivos serviços.
 
-###### Art. 2.º Os encargos resultantes da remuneração referida no artigo anterior, bem como os que respeitem a reembolso ou compensação de despesas efectuadas pela instituição de crédito relacionadas com as tarefas que lhe forem confiadas, serão satisfeitos em conta das dotações inscritas nos orçamentos de despesa do Ministério das Finanças dos anos em que tiverem lugar.
+Art. 2.º Os encargos resultantes da remuneração referida no artigo anterior, bem como os que respeitem a reembolso ou compensação de despesas efectuadas pela instituição de crédito relacionadas com as tarefas que lhe forem confiadas, serão satisfeitos em conta das dotações inscritas nos orçamentos de despesa do Ministério das Finanças dos anos em que tiverem lugar.
 
-###### Art. 3.º Este decreto entra em vigor na data da publicação.
+Art. 3.º Este decreto entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 19 de Dezembro de 1975.**
+Promulgado em 19 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

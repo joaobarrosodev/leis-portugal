@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47319-1966-479272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec7932a7013711d3d972d328ae474ce4bfee51b52c5bb0e3d7e91f79c7d5e746
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ed646843bab2c3d4ec5b6838f3c26f79fdfc1789061393231ebf52d293a68c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Ensino Superior e das Belas Artes
+- Extinção de Lugares
+- Ministério da Educação Nacional
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:185163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:05Z'
   warnings: []
   errors: []
 ---
@@ -108,28 +124,28 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal da Direcção-Geral do Ensino Superior e das Belas-Artes passa a ser o seguinte:
+Artigo 1.º O quadro do pessoal da Direcção-Geral do Ensino Superior e das Belas-Artes passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/26900/18371838.pdf))](https://files.diariodarepublica.pt/1s/1966/11/26900/18371838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/26900/18371838.pdf)
 
 § único. Os inspectores superiores e os inspectores serão providos nos termos do artigo 13.º do [Decreto-Lei n.º 32241](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32241-1942-337439), de 5 de Setembro de 1942.
 
-###### Art. 2.º Os funcionários do quadro da Direcção-Geral, bem como os do quadro da Inspecção Superior das Bibliotecas e Arquivos, que é extinto, irão ocupar, sem dependência de quaisquer formalidades, lugares da mesma categoria no novo quadro da Direcção-Geral.
+Art. 2.º Os funcionários do quadro da Direcção-Geral, bem como os do quadro da Inspecção Superior das Bibliotecas e Arquivos, que é extinto, irão ocupar, sem dependência de quaisquer formalidades, lugares da mesma categoria no novo quadro da Direcção-Geral.
 
 § 1.º A escriturária de 2.ª classe, contratada, além do quadro, da Inspecção Superior será provida num lugar de dactilógrafo da Direcção-Geral.
 
 § 2.º A arrumação do pessoal no novo quadro, de harmonia com o disposto no corpo do presente artigo, constará de relação a publicar no Diário do Governo.
 
-###### Art. 3.º Nos lugares de oficial e aspirante do novo quadro da Direcção-Geral que ficarem vagos depois da arrumação referida no artigo anterior ou que vagarem dentro dos 90 dias seguintes à entrada em vigor do presente diploma poderá o Ministro da Educação Nacional prover pessoas que em concurso para lugares da mesma categoria do quadro único de pessoal do Ministério da Educação Nacional tenham sido aprovados em qualquer altura.
+Art. 3.º Nos lugares de oficial e aspirante do novo quadro da Direcção-Geral que ficarem vagos depois da arrumação referida no artigo anterior ou que vagarem dentro dos 90 dias seguintes à entrada em vigor do presente diploma poderá o Ministro da Educação Nacional prover pessoas que em concurso para lugares da mesma categoria do quadro único de pessoal do Ministério da Educação Nacional tenham sido aprovados em qualquer altura.
 
-###### Art. 4.º É aumentado de um continuo de 1.ª classe e de dois serventes o quadro do pessoal menor do Ministério da Educação Nacional fixado pelo [Decreto-Lei n.º 36411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36411-1947-185163), de 12 de Julho de 1947, e acrescentado de três unidades o número atribuído à Direcção-Geral do Ensino Superior e das Belas-Artes no artigo 8.º do mesmo diploma.
+Art. 4.º É aumentado de um continuo de 1.ª classe e de dois serventes o quadro do pessoal menor do Ministério da Educação Nacional fixado pelo [Decreto-Lei n.º 36411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36411-1947-185163), de 12 de Julho de 1947, e acrescentado de três unidades o número atribuído à Direcção-Geral do Ensino Superior e das Belas-Artes no artigo 8.º do mesmo diploma.
 
 § único. O contínuo de 1.ª classe da Inspecção Superior das Bibliotecas e Arquivos irá ocupar, sem dependência de quaisquer formalidades, o lugar dessa categoria a que se refere o presente artigo.
 
-###### Art. 5.º Poderão os Ministros das Finanças e da Educação Nacional autorizar que, pelas disponibilidades das dotações para pessoal dos serviços de bibliotecas e arquivos, quer da própria Direcção-Geral, quer dos estabelecimentos a ela administrativamente subordinados, ou por força de verbas especialmente inscritas, seja contratado, além dos quadros, pessoal técnico, administrativo e menor para a realização de trabalhos que respeitem àqueles serviços e se considerem indispensáveis.
+Art. 5.º Poderão os Ministros das Finanças e da Educação Nacional autorizar que, pelas disponibilidades das dotações para pessoal dos serviços de bibliotecas e arquivos, quer da própria Direcção-Geral, quer dos estabelecimentos a ela administrativamente subordinados, ou por força de verbas especialmente inscritas, seja contratado, além dos quadros, pessoal técnico, administrativo e menor para a realização de trabalhos que respeitem àqueles serviços e se considerem indispensáveis.
 
 § único. Idêntica faculdade terão aqueles Ministros em relação aos serviços de belas-artes da Direcção-Geral e estabelecimentos a ela administrativamente subordinados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

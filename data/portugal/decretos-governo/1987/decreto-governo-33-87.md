@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/33-1987-497445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 138fb21f4bb41bc9706bdd9fa65d8a5d06e2e4446d836f507e44953ecb46d040
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acdf0668ab2895321152e70a2241add5afc57123d660b753ac3b15265d9531bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Covilhã
+- Medidas Preventivas
+- Universidade da Beira Interior
 relationships:
 - type: amended_by
   target: pt:dre:313823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313823:por
+  label: Prorrogado, por um ano, o prazo previsto no nº 1 do art. 1º pelo DEC.1/90.02.01.1990.MPLAT, DR.IS [1] de 02.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/1-1990-313823
+  date: '1990-01-02'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:19Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Ao abrigo do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 794/76](http
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de dois anos a área definida na planta anexa a este diploma e que dele faz parte integrante.
+Artigo 1.º - 1 - Para efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de dois anos a área definida na planta anexa a este diploma e que dele faz parte integrante.
 
 2 - As medidas preventivas referidas no número anterior consistem na sujeição a autorização da Câmara Municipal da Covilhã, precedida de parecer favorável da Universidade da Beira Interior, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, da prática dos actos ou actividades seguintes:
 
@@ -114,20 +126,20 @@ e) Derrube de árvores em maciço, com qualquer área;
 
 f) Destruição do solo vivo e do coberto vegetal.
 
-###### Art. 2.º - 1 - Compete à Câmara Municipal da Covilhã, à Universidade da Beira Interior e à Comissão de Coordenação Regional do Centro promover a fiscalização do cumprimento das medidas estabelecidas neste diploma.
+Art. 2.º - 1 - Compete à Câmara Municipal da Covilhã, à Universidade da Beira Interior e à Comissão de Coordenação Regional do Centro promover a fiscalização do cumprimento das medidas estabelecidas neste diploma.
 
 2 - A Câmara Municipal da Covilhã é competente para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292).
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Alberto José Nunes Correia Ralha.
 
-**Assinado em 16 de Outubro de 1987.**
+Assinado em 16 de Outubro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1987.**
+Referendado em 21 de Outubro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/25200/38643864.pdf))](https://files.diariodarepublica.pt/1s/1987/11/25200/38643864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/25200/38643864.pdf)

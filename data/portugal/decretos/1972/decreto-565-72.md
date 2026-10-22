@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/565-1972-665172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2247004579553384065cdac2d795253ead7f784f115fb484d549767d245df46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ab15ffcb0b8217403260c4caaf03fa5eb33871fde50442025c56d712c434057
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:36Z'
   warnings: []
   errors: []
 ---
@@ -88,43 +92,43 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 15185547$80, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 15185547$80, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 16.º «Despesas comuns»:
+Capítulo 16.º «Despesas comuns»:
 
 Forças militares extraordinárias no ultramar
 
-###### Artigo 538.º «Outras despesas correntes»:
+Artigo 538.º «Outras despesas correntes»:
 
 N.º 2 «Outras despesas com as forças militares extraordinárias no ultramar» ... 605600$20
 
 Ministério da Justiça
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 625.º «Serviços prisionais» ... 6000000$00
+Artigo 625.º «Serviços prisionais» ... 6000000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 7.º «Direcção-Geral da Educação Física, Desportos e Saúde Escolar»:
+Capítulo 7.º «Direcção-Geral da Educação Física, Desportos e Saúde Escolar»:
 
 Estádio Nacional
 
-###### Artigo 1158.º «Bens duradouros»:
+Artigo 1158.º «Bens duradouros»:
 
 N.º 1 «Material de educação cultura e recreio» ... 5000$00
 
-###### Artigo 1159.º «Bens não duradouros»:
+Artigo 1159.º «Bens não duradouros»:
 
 N.º 1 «Combustíveis e lubrificantes» ... 15000$00
 
 N.º 3 «Outras bens não duradouros» ... 15000$00
 
-###### Artigo 1160.º «Conservação e aproveitamento de bens» ... 25000$00
+Artigo 1160.º «Conservação e aproveitamento de bens» ... 25000$00
 
-###### Artigo 1162.º «Investimentos»:
+Artigo 1162.º «Investimentos»:
 
 N.º 2 «Maquinaria e equipamento» ... 90000$00
 
@@ -134,21 +138,21 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 7.º «Direcção-Geral dos Serviços Florestais e Aquícolas»:
+Capítulo 7.º «Direcção-Geral dos Serviços Florestais e Aquícolas»:
 
-###### Artigo 188.º «Deslocações»:
+Artigo 188.º «Deslocações»:
 
 N.º 2 «Outras despesas» ... 75000$00
 
-###### Artigo 194.º «Bens não duradouros »:
+Artigo 194.º «Bens não duradouros »:
 
 N.º 2 «Combustíveis e lubrificantes» ... 25000$00
 
 N.º 5 « Consumos de secretaria» ... 3000$00
 
-###### Artigo 195.º «Conservação e aproveitamento de bens» ... 93000$00
+Artigo 195.º «Conservação e aproveitamento de bens» ... 93000$00
 
-###### Artigo 196.º «Despesas gerais de funcionamento»:
+Artigo 196.º «Despesas gerais de funcionamento»:
 
 N.º 8 «Comunicações» ... 4000$00
 
@@ -156,15 +160,15 @@ N.º 8 «Comunicações» ... 4000$00
 
 Ministério das Comunicações
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 250.º «Administração dos Portos do Douro e Leixões» ... 8000000$00
+Artigo 250.º «Administração dos Portos do Douro e Leixões» ... 8000000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral de Saúde»:
+Capítulo 4.º «Direcção-Geral de Saúde»:
 
-###### Artigo 63.º «Transferências - Sector público»:
+Artigo 63.º «Transferências - Sector público»:
 
 N.º 4 «Assistência a alienados»:
 
@@ -172,23 +176,23 @@ Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assi
 
 ... 15185547$80
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
 
-### Capítulo 3.º, grupo 2, artigo 117.º «Multas diversas» ... 200000$00
+Capítulo 3.º, grupo 2, artigo 117.º «Multas diversas» ... 200000$00
 
-### Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 229947$60
+Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 229947$60
 
-### Capítulo 7.º, grupo 10, artigo 225.º «Estádio Nacional» ... 150000$00
+Capítulo 7.º, grupo 10, artigo 225.º «Estádio Nacional» ... 150000$00
 
-### Capítulo 14.º, artigo 308.º «Reposições não abatidas nos pagamentos» ... 605600$20
+Capítulo 14.º, artigo 308.º «Reposições não abatidas nos pagamentos» ... 605600$20
 
-### Capítulo 15.º, artigo 314.º «Serviços prisionais» ... 6000000$00
+Capítulo 15.º, artigo 314.º «Serviços prisionais» ... 6000000$00
 
-### Capítulo 15.º, artigo 331.º «Administração dos Portos do Douro e Leixões» ... 8000000$00
+Capítulo 15.º, artigo 331.º «Administração dos Portos do Douro e Leixões» ... 8000000$00
 
 ... 15185547$80
 
-###### Art. 3.º - 1. É anulada a quantia de 5915000$00 na dotação descrita em receita extraordinária, receitas de capital, sob o capitulo 10.º «Transferências», grupo 1 «Sector público», artigo 356.º «Comparticipação do Fundo de Fomento de Exportação nas despesas do III Plano de Fomento», do orçamento das receitas para o corrente ano económico.
+Art. 3.º - 1. É anulada a quantia de 5915000$00 na dotação descrita em receita extraordinária, receitas de capital, sob o capitulo 10.º «Transferências», grupo 1 «Sector público», artigo 356.º «Comparticipação do Fundo de Fomento de Exportação nas despesas do III Plano de Fomento», do orçamento das receitas para o corrente ano económico.
 
 2. É inscrita no mesmo orçamento a seguinte previsão de receita:
 
@@ -196,13 +200,13 @@ Receita extraordinária
 
 Receitas correntes:
 
-### Capítulo 5.º «Transferências»:
+Capítulo 5.º «Transferências»:
 
 Grupo 1 «Sector público»:
 
-###### Artigo 349.º-B «Comparticipação do Fundo de Fomento de Exportação nas despesas do III Plano de Fomento» ... 5915000$00
+Artigo 349.º-B «Comparticipação do Fundo de Fomento de Exportação nas despesas do III Plano de Fomento» ... 5915000$00
 
-###### Art. 4.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
+Art. 4.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
 
 Reforços
 
@@ -210,17 +214,17 @@ Despesa ordinária:
 
 Despesas correntes:
 
-###### Artigo 13.º «Abono de família» ... 1000000$00
+Artigo 13.º «Abono de família» ... 1000000$00
 
-###### Artigo 22.º «Bens não duradouros»:
+Artigo 22.º «Bens não duradouros»:
 
 N.º 2 «Combustíveis e lubrificantes» ... 1500000$00
 
-###### Artigo 23.º «Conservação e aproveitamento de bens» ... 2000000$00
+Artigo 23.º «Conservação e aproveitamento de bens» ... 2000000$00
 
 Despesas de capital:
 
-###### Artigo 32.º «Transferências - Sector público»:
+Artigo 32.º «Transferências - Sector público»:
 
 N.º 1 «Fundo de Melhoramentos» ... 3500000$00
 
@@ -232,14 +236,14 @@ Receita ordinária:
 
 Receitas correntes:
 
-###### Artigo 2.º «Taxas, multas e outras penalidades»:
+Artigo 2.º «Taxas, multas e outras penalidades»:
 
 N.º 1 «Taxas» ... 8000000$00
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias - José Veiga Simão - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 15 de Dezembro de 1972.**
+Promulgado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

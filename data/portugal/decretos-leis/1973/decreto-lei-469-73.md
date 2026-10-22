@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-1973-412798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec1a02b2c2f7b210eca441a7f9aa440f4c0abd1ddef519700aced168519646a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ee4fb903e61a9c7f3d89bffd1dc0af705f91802403c4817fcd67c9f7c73bb20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Análise Laboratorial
+- Arquipélago da Madeira
+- Comércio
+- Definição de Competências
+- Junta Nacional dos Vinhos
+- Vinha
+- Vinho
+- ZONA Vitivinícola
+relationships:
+- type: cites
+  target: pt:dre:189119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605573:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:18Z'
   warnings: []
   errors: []
 ---
@@ -101,24 +117,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulugo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Compete à Junta Nacional do Vinho, através da sua delegação na Madeira, a disciplina das actividades ligadas à produção e ao comércio interno e externo do vinho da Madeira, bem como de outros produtos vínicos produzidos ou consumidos no arquipélago da Madeira.
+Artigo 1.º Compete à Junta Nacional do Vinho, através da sua delegação na Madeira, a disciplina das actividades ligadas à produção e ao comércio interno e externo do vinho da Madeira, bem como de outros produtos vínicos produzidos ou consumidos no arquipélago da Madeira.
 
-###### Art. 2.º - 1. As análises dos produtos vínicos que se mostrem necessárias para os fins a que se refere o n.º 1 do artigo antecedente poderão ser efectuadas nos laboratórios da Junta Nacional do Vinho ou na Estação Agrária do Funchal.
+Art. 2.º - 1. As análises dos produtos vínicos que se mostrem necessárias para os fins a que se refere o n.º 1 do artigo antecedente poderão ser efectuadas nos laboratórios da Junta Nacional do Vinho ou na Estação Agrária do Funchal.
 
 2. Os boletins ou certificados de análise e outros documentos emanados dos laboratórios indicados no número anterior, para os efeitos no mesmo previstos, têm carácter oficial.
 
-###### Art. 3.º - 1. À região vinícola da Madeira é aplicável o disposto nos Decretos-Leis n.os 26317, 40037, 43550 e 47966, respectivamente de 30 de Janeiro de 1936, 18 de Janeiro de 1955, 21 de Março de 1961 e 27 de Setembro de 1967, bem como nos diplomas complementares destes decretos-leis.
+Art. 3.º - 1. À região vinícola da Madeira é aplicável o disposto nos Decretos-Leis n.os 26317, 40037, 43550 e 47966, respectivamente de 30 de Janeiro de 1936, 18 de Janeiro de 1955, 21 de Março de 1961 e 27 de Setembro de 1967, bem como nos diplomas complementares destes decretos-leis.
 
 2. Nos anos em que as receitas da delegação da Junta Nacional do Vinho na Madeira não forem suficientes para fazer face às despesas, a Junta poderá cobrir os saldos negativos com a necessária comparticipação e nos anos em que houver saldos positivos reverterão os mesmos para a Junta até ao limite das comparticipações entregues nos termos indicados.
 
-###### Art. 4.º As dúvidas na execução deste diploma serão resolvidas, consoante a natureza dos casos, em portarias do Ministro das Finanças ou do Secretário de Estado do Comércio.
+Art. 4.º As dúvidas na execução deste diploma serão resolvidas, consoante a natureza dos casos, em portarias do Ministro das Finanças ou do Secretário de Estado do Comércio.
 
-###### Art. 5.º Ficam revogados o artigo 22.º do [Decreto n.º 16084](https://diariodarepublica.pt/dr/detalhe/decreto/16084-1928-605573), de 29 de Outubro de 1928, bem como o artigo 4.º e os n.os 1.º e 2.º e §§ 1.º, 2.º e 3.º do artigo 6.º do [Decreto-Lei n.º 30517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30517-1940-189119), de 18 de Junho de 1940.
+Art. 5.º Ficam revogados o artigo 22.º do [Decreto n.º 16084](https://diariodarepublica.pt/dr/detalhe/decreto/16084-1928-605573), de 29 de Outubro de 1928, bem como o artigo 4.º e os n.os 1.º e 2.º e §§ 1.º, 2.º e 3.º do artigo 6.º do [Decreto-Lei n.º 30517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30517-1940-189119), de 18 de Junho de 1940.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 12 de Setembro de 1973.**
+Promulgado em 12 de Setembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

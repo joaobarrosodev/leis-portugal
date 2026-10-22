@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 237/1983, 1º Suplemento, Série I de 1983-10-14
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3604-(1) a 3604-(196)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf
 entry_into_force_dates: []
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/79-1983-294354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bf8907a9ebbd295fd3219b377ae99eb5887351c0f5c014203427db9e06c2828
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e12cda273c581e3aa3616e8097f6a035d6bb74690247a707e3399904ceb56ab2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Embarcação
+- Higiene do Trabalho
+- Navegação Marítima
+- Pessoal do MAR
+- Portugal
+- Salvaguarda da VIDA Humana no MAR
+- Segurança Marítima
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:636390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485048:por
+  label: "Aprovadas para Adesão as emendas ao Anexo da Convenção, e ao apêndice do referdio Anexo, aprovada pelo presente\
+    \ diploma, pelo DEC.21/98.1998.07.10.MNE, DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/21-1998-485048
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:426768:por
+  label: "Estendida ao Território de Macau a aplicação da Convenção aprovada para Ratificação pelo presente diploma, pelo\
+    \ DEC.172/99.1999.08.05.PR DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/172-1999-426768
+  date: '1999-08-05'
+- type: amended_by
+  target: pt:dre:636422:por
+  label: "Aprovadas as emendas ao anexo da Convenção pelo DEC.16/2007.27.07.2007.MOPTC, DR.IS [144] de 27.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/16-2007-636422
+  date: '2007-07-27'
+- type: amended_by
+  target: pt:dre:636390:por
+  label: "Aprovadas as emendas ao anexo da Convenção pelo DEC.17/2007.01.08.2007.MNE, DR.IS [147] de 01.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/17-2007-636390
+  date: '2007-08-01'
 article_structure:
-  article_count: 1
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:29Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +121,19 @@ de 14 de Outubro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, cujos textos em inglês e a respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama.
 
-**Assinado em 4 de Outubro de 1983.**
+Assinado em 4 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Outubro de 1983.**
+Referendado em 6 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ATTACHMENT 1
 
@@ -1154,7 +1185,7 @@ Bilge Pumping Arrangements in Passenger Ships
 
 (ii) The requirements are summarized in the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (iii) Sanitary, ballast and general service pumps may be accepted as independent power bilge pumps if fitted with the necessary connexions to the bilge pumping system.
 
@@ -1186,11 +1217,11 @@ Bilge Pumping Arrangements in Passenger Ships
 
 (i) The diameter of the bilge main shall be calculated according to the following formulae provided that the actual internal diameter of the bilge main may be of the nearest standard size acceptable to the Administration:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 or
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 The diameter of the bilge branch pipes shall be determined by rules to be made by the Administration.
 
@@ -1556,9 +1587,9 @@ Definitions
 
 For the purpose of this Chapter, unless expressly provided otherwise:
 
-(a) "Non-combustible material" means a material which neither burns nor gives off inflammable vapours in sufficient quantity for self-ignition when heated to approximately 750ºC (1,382ºF) this being determined to the satisfaction of the Administration by an established test procedure.(ver nota [([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Any other material is a combustible material.
+(a) "Non-combustible material" means a material which neither burns nor gives off inflammable vapours in sufficient quantity for self-ignition when heated to approximately 750ºC (1,382ºF) this being determined to the satisfaction of the Administration by an established test procedure.(ver nota [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Any other material is a combustible material.
 
-(nota [([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Reference is made to Recommendation on Test Method for Qualifying Marine Construction Materials as Non-Combustible, adopted by the Organization by Resolution A.270(VIII).
+(nota [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Reference is made to Recommendation on Test Method for Qualifying Marine Construction Materials as Non-Combustible, adopted by the Organization by Resolution A.270(VIII).
 
 (b) "A Standard Fire Test" is one in which specimens of the relevant bulkheads or decks are exposed in a test furnace to temperatures corresponding approximately to the standard time-temperature curve. The specimen shall have an exposed surface of not less than 4.65 square metres (50 square feet) and height (or length of deck) of 2.44 metres (8 feet) resembling as closely as possible the intended construction and including where appropriate at least one joint. The standard time-temperature curve is defined by a smooth curve drawn through the following points:
 
@@ -1752,7 +1783,7 @@ Fire hoses shall be of material approved by the Administration and sufficient in
 
 Standard dimensions of flanges for the international shore connexion required in this Chapter to be installed in the ship shall be in accordance with the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 The connexion shall be constructed of material suitable for 10.5 kilogrammes per square centimetre (150 pounds per square inch) service. The flange shall have a flat face on one side and the other shall have permanently attached thereto a coupling that will fit the ship's hydrant and hose. The connexion shall be kept aboard the ship together with a gasket of any material suitable for 10.5 kilogrammes per square centimetre (150 pounds per square inch) service, together with four 16 millimetre (5/8 inch) bolts, 50 millimetres (2 inches) in length and eight washers.
 
@@ -2236,7 +2267,7 @@ Laboratories (in which inflammable liquids are stowed).
 
 (d) In approving structural fire protection details, the Administration shall have regard to the risk of heat transmission at intersections and terminal points of required thermal barriers.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Regulation 21
 
@@ -2404,13 +2435,13 @@ Restriction of Combustible Materials
 
 (g) Paints, varnishes and other finishes used on exposed interior surfaces shall not be of a nature to offer an undue fire hazard in the judgement of the Administration and shall not be capable of producing excessive quantities of smoke or other toxic properties.
 
-(h) Primary deck coverings, if applied, within accommodation and service spaces and control stations, shall be of approved material which will not readily ignite, or give rise to toxic or explosive hazards at elevated temperatures. (ver nota [([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))
+(h) Primary deck coverings, if applied, within accommodation and service spaces and control stations, shall be of approved material which will not readily ignite, or give rise to toxic or explosive hazards at elevated temperatures. (ver nota [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))
 
 (i) Waste-paper receptacles shall be constructed of non-combustible materials and with solid sides and bottoms.
 
 (nota *) Reference is made to Guidelines on the Evaluation of Fire Hazard Properties of Materials, adopted by the Organization by Resolution A.166(ES.IV).
 
-(nota [([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Reference is made to Improved Provisional Guidelines on Test Procedures for Primary Deck Covering, adopted by the Organization by Resolution A.214(VII).
+(nota [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Reference is made to Improved Provisional Guidelines on Test Procedures for Primary Deck Covering, adopted by the Organization by Resolution A.214(VII).
 
 Regulation 28
 
@@ -3000,7 +3031,7 @@ General Requirements for Cargo Ships of 4,000 tons Gross Tonnage and Upwards oth
 
 (b) In accommodation spaces, the corridor bulkheads shall be of steel or be constructed of "B" Class panels.
 
-(c) Deck coverings within accommodation spaces on the decks forming the crown of machinery and cargo spaces shall be of a type which will not readily ignite. (ver nota [([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))
+(c) Deck coverings within accommodation spaces on the decks forming the crown of machinery and cargo spaces shall be of a type which will not readily ignite. (ver nota [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))
 
 (d) Interior stairways below the weather deck shall be of steel or other suitable material. Crew lift trunks within accommodation shall be of steel or equivalent material.
 
@@ -3012,7 +3043,7 @@ General Requirements for Cargo Ships of 4,000 tons Gross Tonnage and Upwards oth
 
 (h) Power ventilation of machinery spaces shall be capable of being stopped from an easily accessible position outside the machinery spaces.
 
-(nota [([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Reference is made to Improved Provisional Guidelines on Test Procedures for Primary Deck Coverings, adopted by the Organization by Resolution A.214(VII).
+(nota [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)) Reference is made to Improved Provisional Guidelines on Test Procedures for Primary Deck Coverings, adopted by the Organization by Resolution A.214(VII).
 
 Regulation 52
 
@@ -4060,7 +4091,7 @@ Specification of a Lifebuoy
 
 (nota *) The following ranges of visibilities of the light might be expected in given atmospheric conditions.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Regulation 22
 
@@ -4224,7 +4255,7 @@ The following table fixes according to the length of the ship:
 
 (C) the minimum lifeboat capacity required for a ship engaged on short international voyages.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Regulation 29
 
@@ -4298,7 +4329,7 @@ Certificated Lifeboatmen
 
 (a) In passenger ships there shall be, for every lifeboat carried in order to comply with this Chapter, a number of lifeboatmen at least equal to that specified in the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (b) The allocation of the certificated lifeboatmen to each lifeboat remains within the discretion of the master.
 
@@ -4334,7 +4365,7 @@ Number of Lifebuoys to be Provided
 
 The minimum number of lifebuoys with which passenger ships are provided shall be fixed by the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 PART C - CARGO SHIPS ONLY
 
@@ -4596,13 +4627,13 @@ Radiotelegraph Installations
 
 (g) The main and reserve transmitters shall when connected to the main antenna, have a minimum normal range as specified below, that is to say, they must be capable of transmitting clearly perceptible signals from ship to ship by
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 day and under normal conditions and circumstances over the specified ranges. (ver nota *) (Clearly perceptible signals will normally be received if the R.M.S. value of the field strength at the receiver is at least 50 microvolts per metre.)
 
 (nota *) In the absence of a direct measurement of the field strenght the following data may be used as a guide for approximately determining the normal range:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (h) (i) The main and reserve receivers shall be capable of receiving the radiotelegraph distress frequency and the classes of emission assigned by the Radio Regulations for that frequency.
 
@@ -5180,17 +5211,17 @@ The following signals shall be used by life-saving stations and maritime rescue 
 
 (a) Replies from life-saving stations or maritime rescue units to distress signals made by a ship or person:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 If necessary the day signals may be given at night or the night signals by day.
 
 (b) Landing signals for the guidance of small boats with crews or persons in distress:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (c) Signals to be employed in connexion with the use of shore life-saving apparatus:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (d) Signals used by aircraft engaged on search and rescue operations to direct ships towards an aircraft, ship or person in distress (see explanatory Note below):
 
@@ -5470,7 +5501,7 @@ In no case shall Vd be assumed to be less than 100 mm.
 
 TABLE I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (ii) In "filled compartments" which are not trimmed in accordance with Regulation 3 of this Chapter and where the boundary surface has an inclination to the horizontal which is less than 30 degrees, the cargo surface has an inclination of 30 degrees to the horizontal after loading.
 
@@ -5484,7 +5515,7 @@ total heeling moment = 1.06 x calculated transverse heeling moment.
 
 In all cases the weight of cargo in a "filled compartment" shall be the volume of the whole cargo space divided by the stowage factor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (d) In "partly filled compartments" the adverse effect of the vertical shift of grain surfaces shall be taken into account as follows:
 
@@ -5518,13 +5549,13 @@ In the following paragraphs it is assumed that the total heeling moment for a co
 
 (ii) After the assumed shift of grain the final void pattern shall be as shown in Figure 2 below:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (b) In and abreast hatchways:
 
 After the assumed shift of grain the final void pattern shall be as shown in the following Figure 3 or Figure 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (C) COMPARTMENTS LOADED IN COMBINATION
 
@@ -5564,13 +5595,13 @@ It may be assumed that under the influence of ship motion underdeck voids will b
 
 (b) the volume of each feeder is equal to the volume of the underdeck void outboard of the hatchside girder and its continuation.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (B) TRUNKS SITUATED OVER MAIN HATCHWAYS
 
 After the assumed shift of grain the final void pattern shall be as shown in Figure 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 SECTION IV - ASSUMED VOLUMETRIC HEELING MOMENT OF PARTLY FILLED COMPARTMENTS
 
@@ -5620,7 +5651,7 @@ A ship not having on board documents of authorization issued in accordance with 
 
 (d) Throughout the voyage the metacentric height after correction for the free surface effects of liquids in tanks shall be 0.3 metre or that given by the following formula, whichever is the greater:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 PART C - GRAIN FITTINGS AND SECURING
 
@@ -5690,7 +5721,7 @@ Where divisions do not extend to the full depth of the hold such divisions and t
 
 (ii) The maximum unsupported span for shifting boards of various thicknesses shall be as follows:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 If thicknesses greater than these are provided the maximum unsupported span will vary directly with the increase in thickness.
 
@@ -5730,7 +5761,7 @@ H(índice 1) is the vertical unsupported span in metres and shall be taken as th
 
 (ii) Subject to the provisions of sub-paragraphs (iii) and (iv) below, the minimum size of wood shores shall be as follows:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Shores of 7 metres or more in length shall be securely bridged at approximately mid-length.
 
@@ -5752,7 +5783,7 @@ TABLE I(ver nota 1)
 
 B(m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 For other values of h or B the loads shall be determined by linear interpolation or extrapolation as necessary.
 
@@ -5764,7 +5795,7 @@ TABLE II(ver nota 1)
 
 L(m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 For other values of h or L the loads shall be determined by linear interpolation or extrapolation as necessary.
 
@@ -5782,7 +5813,7 @@ Bearing Reaction at the Upper End of Upright as Percentage of Load (Table I)
 
 B(m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 For other values of h or B the reaction loads shall be determined by linear interpolation or extrapolation as necessary.
 
@@ -5794,7 +5825,7 @@ Bearing Reaction at the Upper End of Upright as Percentage of Load (Table II)
 
 L(m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 For other values of h or L the reaction loads shall be determined by linear interpolation or extrapolation as necessary.
 
@@ -5814,7 +5845,7 @@ Maximum load at the bottom ... 60% of the appropriate total load from Table II
 
 The thickness of horizontal wooden boards may also be determined having regard to the vertical distribution of the loading represented by Tables III and IV above and in such cases
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 When the vertical distribution of the loading is assumed to be uniform, i.e. rectangular, k shall be taken as equal to 1.0. For a trapezoidal distribution
 
@@ -6108,49 +6139,49 @@ Form of Safety Certificate for Passenger Ships
 
 PASSENGER SHIP SAFETY CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Form of Safety Construction Certificate for Cargo Ships
 
 CARGO SHIP SAFETY CONSTRUCTION CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Form of Safety Equipment Certificate for Cargo Ships
 
 CARGO SHIP SAFETY EQUIPMENT CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Form of Safety Radiotelegraphy Certificate for Cargo Ships
 
 CARGO SHIP SAFETY RADIOTELEGRAPHY CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Form of Safety Radiotelephony Certificate for Cargo Ships
 
 CARGO SHIP SAFETY RADIOTELEPHONY CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Form of Exemption Certificate
 
 EXEMPTION CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Form of Safety Certificate for Nuclear Passenger Ships
 
 NUCLEAR PASSENGER SHIP SAFETY CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Form of Safety Certificate for Nuclear Cargo Ships
 
 NUCLEAR CARGO SHIP SAFETY CERTIFICATE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 ATTACHMENT 2
 
@@ -6480,23 +6511,17 @@ Considerando que o melhor meio de atingir este fim é a conclusão de uma Conven
 
 acordam nas seguintes disposições:
 
-ARTIGO I
-
-Obrigações gerais decorrentes da Convenção
+###### ARTIGO I — Obrigações gerais decorrentes da Convenção
 
 a) Os Governos Contratantes comprometem-se a tornar efectivas as disposições da presente Convenção e do seu Anexo, o qual constitui uma parte integrante da presente Convenção. Qualquer referência à presente Convenção constitui uma referência simultânea ao Anexo.
 
 b) Os Governos Contratantes comprometem-se a promulgar todas as leis, decretos, ordens e regulamentos e a tomar todas as medidas que possam vir a ser necessárias para dar à presente Convenção pleno e completo efeito, a fim de garantir que, sob o ponto de vista da salvaguarda da vida humana, um navio está apto para o serviço ao qual é destinado.
 
-ARTIGO II
-
-Aplicação
+###### ARTIGO II — Aplicação
 
 A presente Convenção aplica-se aos navios autorizados a arvorar a bandeira dos Estados cujos Governos são Governos Contratantes.
 
-ARTIGO III
-
-Leis e regulamentos
+###### ARTIGO III — Leis e regulamentos
 
 Os Governos Contratantes comprometem-se a comunicar e depositar junto do Secretário-Geral da Organização Marítima Consultiva Intergovernamental (a seguir designada por «Organização»):
 
@@ -6506,17 +6531,13 @@ b) O texto das leis, decretos e regulamentos que tiverem sido promulgados sobre 
 
 c) Um número suficiente de exemplares dos certificados passados por esse Governo, em conformidade com as disposições da presente Convenção, para serem entregues aos Governos Contratantes, que os levarão ao conhecimento dos seus funcionários.
 
-ARTIGO IV
-
-Casos de força maior
+###### ARTIGO IV — Casos de força maior
 
 a) Um navio que, no momento de largar para uma viagem, não esteja sujeito às prescrições da presente Convenção não pode ser obrigado a submeter-se a elas por motivo de desvio da sua rota originado por mau tempo ou por qualquer outra causa de força maior.
 
 b) As pessoas que estiverem a bordo de um navio por motivos de força maior ou em consequência de obrigação imposta ao comandante de transportar náufragos, ou quaisquer outras pessoas, não serão tomadas em linha de conta quando se tratar de verificar a aplicação ao navio de qualquer das prescrições da presente Convenção.
 
-ARTIGO V
-
-Transporte de pessoas em caso de emergência
+###### ARTIGO V — Transporte de pessoas em caso de emergência
 
 a) Um Governo Contratante pode autorizar que um navio transporte maior número de pessoas do que aquele que seria permitido noutras circunstâncias pela presente Convenção, quando se trate de evacuar pessoas de um território com o fim de as subtrair a uma ameaça à segurança das suas vidas.
 
@@ -6524,9 +6545,7 @@ b) Uma autorização desta natureza não priva os restantes Governos Contratante
 
 c) O Governo Contratante que concede aquela autorização deve comunicar esse facto ao Secretário-Geral da Organização, juntamente com um relatório sobre as circunstâncias que motivaram a concessão de tal autorização.
 
-ARTIGO VI
-
-Tratados e convenções anteriores
+###### ARTIGO VI — Tratados e convenções anteriores
 
 a) A presente Convenção substitui e anula entre os Governos Contratantes a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, assinada em Londres em 17 de Junho de 1960.
 
@@ -6540,15 +6559,11 @@ c) Contudo, na medida em que tais tratados, convenções ou acordos estejam em o
 
 d) Todas as matérias que não sejam expressamente consideradas na presente Convenção ficam sujeitas à legislação dos Governos Contratantes.
 
-ARTIGO VII
-
-Regras especiais resultantes de acordos
+###### ARTIGO VII — Regras especiais resultantes de acordos
 
 Quando, de acordo com a presente Convenção, tiverem sido estabelecidas regras especiais, por acordo entre todos, ou entre alguns dos Governos Contratantes, essas regras devem ser comunicadas ao Secretário-Geral da Organização, a fim de as levar ao conhecimento de todos os Governos Contratantes.
 
-ARTIGO VIII
-
-Alterações
+###### ARTIGO VIII — Alterações
 
 a) A presente Convenção pode ser alterada por qualquer dos processos previstos nos parágrafos seguintes.
 
@@ -6596,9 +6611,7 @@ f) Qualquer declaração de aceitação ou objecção a uma alteração ou qualq
 
 g) O Secretário-Geral da Organização informa todos os Governos Contratantes de quaisquer alterações que entrem em vigor como previsto no presente artigo, assim como a data de entrada em vigor de cada uma.
 
-ARTIGO IX
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### ARTIGO IX — Assinatura, ratificação, aceitação, aprovação e adesão
 
 a) A presente Convenção está aberta para assinatura na sede da Organização de 1 de Novembro de 1974 até 1 de Julho de 1975 e em seguida manter-se-á aberta à adesão. Os Estados podem tornar-se partes da presente Convenção por:
 
@@ -6612,9 +6625,7 @@ b) A ratificação, aceitação, aprovação ou adesão efectuam-se pelo depósi
 
 c) O Secretário-Geral da Organização informa os Governos de todos os Estados que assinaram a presente Convenção ou que a ela aderiram da assinatura ou depósito do instrumento de ratificação, aceitação, aprovação ou adesão e a data do seu depósito.
 
-ARTIGO X
-
-Entrada em vigor
+###### ARTIGO X — Entrada em vigor
 
 a) A presente Convenção entra em vigor doze meses depois da data em que se tenham tornado partes desta Convenção, de acordo com o artigo IX, pelo menos, vinte e cinco Estados cujas frotas mercantes representem, no total, pelo menos, 50% da tonelagem de arqueação bruta da frota mercante mundial.
 
@@ -6622,9 +6633,7 @@ b) Qualquer instrumento de ratificação, aceitação, aprovação ou adesão de
 
 c) Qualquer instrumento de ratificação, aceitação, aprovação ou adesão depositado depois da data em que uma alteração à presente Convenção é considerada ter sido aceite, de acordo com o artigo VIII, aplica-se à Convenção na sua forma modificada.
 
-ARTIGO XI
-
-Denúncia
+###### ARTIGO XI — Denúncia
 
 a) A presente Convenção pode ser denunciada por qualquer Governo Contratante, em qualquer altura, depois de decorrido um período de cinco anos a contar da data na qual a Convenção entra em vigor para esse Governo.
 
@@ -6632,17 +6641,13 @@ b) A denúncia é efectuada por depósito de um instrumento de denúncia junto d
 
 c) A denúncia produz efeito um ano após a recepção do instrumento de denúncia pelo Secretário-Geral da Organização, a não ser que nele se especifique outro prazo mais longo.
 
-ARTIGO XII
-
-Depósito e registo
+###### ARTIGO XII — Depósito e registo
 
 a) A presente Convenção é depositada junto do Secretário-Geral da Organização, o qual deve enviar cópias autenticadas aos Governos de todos os Estados que tenham assinado a presente Convenção ou a ela tenham aderido.
 
 b) Logo que a presente Convenção entre em vigor, o texto é enviado pelo Secretário-Geral da Organização ao Secretário-Geral das Nações Unidas, para registo e publicação, de acordo com o artigo 102.º da Carta das Nações Unidas.
 
-ARTIGO XIII
-
-Línguas
+###### ARTIGO XIII — Línguas
 
 A presente Convenção é elaborada num exemplar único em línguas chinesa, inglesa, francesa, russa e espanhola, fazendo igualmente fé todos os textos. Serão elaboradas traduções oficiais em línguas árabe, alemã e italiana, que serão depositadas com o exemplar original assinado.
 
@@ -6650,11 +6655,13 @@ Em testemunho do que os abaixo assinados, devidamente autorizados para este efei
 
 Feita em Londres no dia 1 de Novembro de 1974.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
-# PARTE A
+## PARTE A
 
 Aplicação, definições, etc.
 
@@ -6738,7 +6745,7 @@ a) Quando as presentes regras determinem que sejam instalados ou existam a bordo
 
 b) Qualquer Administração que autorize nesses termos a substituição de uma instalação, material, dispositivo ou aparelho, ou dos seus tipos ou disposições, deve comunicar tais características à Organização, com um relatório das experiências feitas, e a Organização deve dar conhecimento dele aos outros Governos Contratantes, para informação dos seus funcionários.
 
-# PARTE B — Vistorias e certificados
+## PARTE B — Vistorias e certificados
 
 Regra 6
 
@@ -6876,7 +6883,7 @@ Benefícios
 
 Os benefícios da presente Convenção não podem ser reclamados em favor de qualquer navio que não possua os certificados exigidos válidos.
 
-# PARTE C — Acidentes
+## PARTE C — Acidentes
 
 Regra 21
 
@@ -6888,7 +6895,7 @@ b) Cada Governo Contratante compromete-se a fornecer à Organização todas as i
 
 ### CAPÍTULO II-1 — Construção - Subdivisão e estabilidade, máquinas e instalações eléctricas
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 Regra 1
 
@@ -6958,7 +6965,7 @@ Para fins de aplicação das disposições das regras 4 e 5 do presente capítul
 
 j) Em qualquer caso, os volumes e as superfícies serão calculados na ossada.
 
-# PARTE B — Compartimentagem e estabilidade (ver nota 1)
+## PARTE B — Compartimentagem e estabilidade (ver nota 1)
 
 (A parte B aplica-se somente a navios de passageiros, salvo a regra 19, que se aplica também a navios de carga)
 
@@ -7522,7 +7529,7 @@ b) - i) Os navios devem ser providos, pelo menos, de três bombas accionadas mec
 
 ii) O quadro a seguir indica o número de bombas exigível:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 iii) As bombas de serviço sanitário, as bombas de lastro e de serviço geral podem ser aceites como bombas de esgoto independentes quando tiverem as necessárias ligações com os encanamentos de esgoto.
 
@@ -7552,11 +7559,11 @@ ii) Tanto no interior como debaixo dos paióis de carvão e dos tanques de combu
 
 i) O diâmetro do colector principal de esgoto deve ser calculado pelas fórmulas seguintes, podendo o diâmetro interior real do colector ter o valor normalizado mais próximo julgado aceitável pela Administração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 ou:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O diâmetro das derivações deve ser determinado por meio de regras a estabelecer pela Administração.
 
@@ -7610,7 +7617,7 @@ b) As portas estanques de charneira, chapas desmontáveis, vigias, portalós, po
 
 c) No diário de bordo devem ser registados todos os exercícios e inspecções exigidos pela regra 21 do presente capítulo, com indicação expressa de todos os defeitos observados.
 
-# PARTE CMáquinas e instalações eléctricas (ver nota 1)
+PARTE CMáquinas e instalações eléctricas (ver nota 1)
 
 (Esta parte aplica-se aos navios de passageiros e aos navios de carga)
 
@@ -7846,7 +7853,7 @@ Todos os navios devem ter dois meios de comunicação de ordens da ponte para a 
 
 ### CAPÍTULO II-2 — Construção - Prevenção, detecção e extinção de incêndios
 
-# PARTE A — Generalidades (ver nota 1)
+## PARTE A — Generalidades (ver nota 1)
 
 (nota 1) Veja a «Recomendação sobre medidas de segurança para casas de máquinas de navios de carga periodicamente não assistidas, esclarecendo-se que tais medidas complementam as normalmente necessárias para uma casa de máquinas assistida», aprovada pela Organização mediante a Resolução A.211(VII).
 
@@ -8106,7 +8113,7 @@ h) União internacional de ligação a terra:
 
 Os flanges da união internacional de ligação a terra, exigida a bordo pelo presente capítulo, devem estar de acordo com as dimensões normalizadas especificadas no seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 A união deve ser construída de material adequado para a pressão de serviço de 10,5 kg por centímetro quadrado (150 libras por polegada quadrada). A flange deve ter de um lado uma face plana e do outro lado deve ter permanentemente montada uma união que possa servir nas bocas de incêndio ou mangueiras do navio. Esta união deve conservar-se a bordo com uma junta de material adequado para a pressão de serviço de 10,5 kg por centímetro quadrado (150 libras por polegada quadrada), assim como com quatro parafusos de 16 mm (5/8 de polegada) de diâmetro e de 50 mm (2 polegadas) de comprimento e oito anilhas.
 
@@ -8340,7 +8347,7 @@ Equivalências
 
 Sempre que no presente capítulo se especifique para qualquer navio novo ou existente um determinado tipo de dispositivo, aparelho, agente extintor ou instalação, pode ser autorizado o uso de outro tipo de dispositivo, aparelho, etc., desde que a Administração verifique que a sua eficácia não é inferior.
 
-# PARTE B — Medidas de segurança contra incêndios em navios de passageiros que transportem mais de 36 passageiros
+## PARTE B — Medidas de segurança contra incêndios em navios de passageiros que transportem mais de 36 passageiros
 
 Regra 17
 
@@ -8590,25 +8597,25 @@ TABELA 1
 
 Anteparas limite de zonas verticais principais ou de zonas horizontais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 TABELA 2
 
 Anteparas que não limitem zonas verticais principais nem zonas horizontais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 TABELA 3
 
 Pavimentos que formem saltos em zonas verticais principais ou que limitem zonas horizontais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 TABELA 4
 
 Pavimentos que não formem saltos em zonas verticais principais nem limitem zonas horizontais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Regra 21
 
@@ -9106,7 +9113,7 @@ v) Parar os ventiladores de tiragem forçada e tiragem induzida, as bombas de tr
 
 e) Os comandos exigidos para os ventiladores devem obedecer ao especificado no parágrafo f) da regra 25 do presente capítulo. Os comandos de qualquer instalação fixa de extinção de incêndios e os comandos exigidos nas alíneas i), ii), iii) e v) do parágrafo d) da presente regra e a alínea v) do parágrafo a) da regra 33 do presente capítulo devem estar situados num posto de segurança ou agrupados no menor número possível de postos que a Administração admita como satisfatório. Tal posto ou postos devem estar localizados de modo que não possam ficar isolados em caso de incêndio declarado no local que servem e devem ter acesso seguro a partir de um pavimento descoberto.
 
-# PARTE C — Medidas de segurança contra incêndios em navios de passageiros que não transportem mais de 36 passageiros
+## PARTE C — Medidas de segurança contra incêndios em navios de passageiros que não transportem mais de 36 passageiros
 
 Regra 35
 
@@ -9358,7 +9365,7 @@ b) Os motores que accionam os ventiladores de tiragem forçada e induzida, as bo
 
 c) Todos os encanamentos de aspiração de combustível líquido de um tanque de reserva, de decantação, ou serviço diário, situados acima do duplo fundo, devem ser providos de torneiras ou válvulas que possam ser fechadas do exterior do local em que se encontram no caso de se declarar um incêndio no local onde esses tanques estão situados. No caso especial de deep tanks situados num túnel de veios, ou de encanamentos, devem ser instaladas válvulas nos tanques, mas a manobra em caso de incêndio pode ser feita por intermédio de uma válvula adicional, montada no encanamento ou encanamentos fora do túnel ou túneis.
 
-# PARTE D — Medidas de segurança contra incêndios em navios de carga (ver nota 1)
+## PARTE D — Medidas de segurança contra incêndios em navios de carga (ver nota 1)
 
 Regra 51
 
@@ -9492,7 +9499,9 @@ b) Os motores que accionam os ventiladores de tiragem forçada e induzida, as bo
 
 c) Todos os encanamentos de aspiração de combustível líquido de um tanque de reserva, de decantação ou de serviço diário, situados acima do duplo fundo, devem ser providos de machos ou válvulas que possam ser fechados do exterior do local em que se encontram no caso de se declarar um incêndio no local onde esses tanques estão situados. No caso especial de deep tanks situados num túnel de veios ou de encanamentos, devem ser instaladas válvulas nos tanques, mas a manobra em caso de incêndio pode ser feita por intermédio de uma válvula adicional montada no encanamento ou encanamentos fora do túnel ou túneis.
 
-# PARTE E — Medidas de segurança contra incêndios em navios-tanques
+PARTE E
+
+Medidas de segurança contra incêndios em navios-tanques
 
 Regra 55
 
@@ -9718,7 +9727,9 @@ Agulhetas de mangueira
 
 Todas as agulhetas para mangueira devem ser de um tipo aprovado, de duplo efeito (jacto e pulverização) e com dispositivo de fecho.
 
-# PARTE F — Medidas especiais de segurança contra incêndios em navios de passageiros existentes
+PARTE F
+
+Medidas especiais de segurança contra incêndios em navios de passageiros existentes
 
 [Para efeitos de aplicação desta parte do presente capítulo qualquer referência a regras ... (1948) deve entender-se por regras do capítulo II da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1948, e qualquer referência a regras ... (1960) refere-se, salvo indicação em contrário, às regras do capítulo II da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960.]
 
@@ -9910,7 +9921,7 @@ Chamadas e exercícios periódicos
 
 Nos exercícios de combate a incêndios, a que se faz referência na regra 26 do capítulo III da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960, será exigido que cada membro da tripulação conheça bem a disposição e as instalações do navio, assim como os seus próprios deveres e o modo de utilização de qualquer equipamento que possa ter necessidade de usar. O comandante deve exigir que a tripulação se familiarize com as suas obrigações e deve instruí-la nesse sentido.
 
-### CAPÍTULO III
+CAPÍTULO III
 
 Meios de salvação, etc.
 
@@ -9920,11 +9931,11 @@ Aplicação
 
 a) Este capítulo, salvo indicação em contrário, aplica-se como segue aos navios novos que fazem viagens internacionais:
 
-# Parte A - Navios de passageiros e navios de carga;
+Parte A - Navios de passageiros e navios de carga;
 
-# Parte B - Navios de passageiros;
+Parte B - Navios de passageiros;
 
-# Parte C - Navios de carga.
+Parte C - Navios de carga.
 
 b) No caso de navios existentes que façam viagens internacionais, cujas quilhas foram assentes ou que a construção se encontre em estado equivalente à data ou depois da data de entrada em vigor da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960, devem observar-se as disposições do capítulo III daquela Convenção, aplicáveis aos navios novos, tais como são definidas naquela Convenção.
 
@@ -9942,7 +9953,9 @@ iii) O número total de pessoas a bordo não seja aumentado como consequência d
 
 3) Os parágrafos a), b), e) e f) da regra 29 do presente capítulo.
 
-# PARTE A — Disposições gerais
+PARTE A
+
+Disposições gerais
 
 (A parte A aplica-se tanto a navios de passageiros como a navios de carga)
 
@@ -10416,7 +10429,7 @@ h) Deve haver sempre a possibilidade de largar as bóias de salvação instantan
 
 (nota 1) Os sinais luminosos terão aproximadamente a intensidade luminosa abaixo indicada, para umas dadas condições atmosféricas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Regra 22
 
@@ -10534,7 +10547,9 @@ c) Pelo menos uma vez em cada quatro meses, diversos grupos de embarcações sal
 
 d) O sinal de alarme para a chamada dos passageiros aos postos de reunião compõe-se de uma série de sete ou mais silvos curtos, seguidos de um silvo longo, emitidos quer pelo apito, quer pela sirene. Nos navios de passageiros, com excepção dos navios que efectuam viagens internacionais curtas, este sinal deve ser completado por outros sinais produzidos electricamente em todo o navio e comandados da ponte de navegação. O significado de todos os sinais que interessam aos passageiros, com instruções precisas sobre o que deverão fazer em caso de emergência, deve ser claramente indicado, em línguas apropriadas, nos avisos afixados nos camarotes e outros lugares bem visíveis, nos locais destinados a uso dos passageiros.
 
-# PARTE B — Aplicável somente a navios de passageiros
+PARTE B
+
+Aplicável somente a navios de passageiros
 
 Regra 27
 
@@ -10578,7 +10593,7 @@ B - O número reduzido de pares de turcos que pode ser autorizado excepcionalmen
 
 C - A capacidade mínima exigida para as embarcações salva-vidas em navios que efectuam viagens internacionais curtas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Regra 29
 
@@ -10652,7 +10667,7 @@ Tripulantes encartados para embarcações salva-vidas
 
 a) Nos navios de passageiros deve haver, para cada embarcação salva-vidas existente a bordo em satisfação do estabelecido no presente capítulo, um número de tripulantes encartados pelo menos igual ao que indica a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 b) A distribuição dos tripulantes encartados pelas embarcações salva-vidas é das atribuições do comandante.
 
@@ -10688,9 +10703,11 @@ Número de bóias de salvação
 
 O número mínimo de bóias de salvação que deve ter um navio de passageiros é fixado pela tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
-# PARTE C — Aplicável somente a navios de carga
+PARTE C
+
+Aplicável somente a navios de carga
 
 Regra 35
 
@@ -10774,9 +10791,13 @@ Iluminação de emergência
 
 A iluminação prescrita na alínea ii) do parágrafo a) e nas alíneas ii) e iii) do parágrafo b) da regra 19 do presente capítulo deve poder ser fornecida, durante pelo menos três horas, pela fonte de energia de emergência, exigida pela regra 26 do capítulo II-1. Nos navios de arqueação bruta igual ou superior a 1600 t, a Administração deve tomar medidas para garantir a iluminação dos corredores, escadas e saídas, de maneira que todas as pessoas a bordo possam chegar facilmente aos locais de manobra e das embarcações salva-vidas e das jangadas.
 
-### CAPÍTULO IV — Radiotelegrafia e radiotelefonia
+CAPÍTULO IV
 
-# PARTE A — Aplicação e definições
+Radiotelegrafia e radiotelefonia
+
+PARTE A
+
+Aplicação e definições
 
 Regra 1
 
@@ -10838,7 +10859,9 @@ b) As isenções autorizadas pelo parágrafo a) da presente regra só podem ser 
 
 c) Cada Administração deve submeter à Organização, logo que possível, após o primeiro dia de Janeiro de cada ano, um relatório indicando todas as isenções concedidas em virtude dos parágrafos a) e b) da presente regra, no decurso do ano civil precedente, e dando os motivos destas isenções.
 
-# PARTE BEscutas — Regra 6
+PARTE BEscutas
+
+Regra 6
 
 Escuta radiotelegráfica
 
@@ -10898,7 +10921,9 @@ Escuta radiotelefónica de VHF
 
 Todo o navio provido de estação radiotelefónica de ondas métricas (VHF), de acordo com a regra 18 do capítulo V, deve manter escuta, na ponte, nos períodos e nos canais prescritos pelos Governos Contratantes referidos naquela regra.
 
-# PARTE C — Condições técnicas exigidas
+PARTE C
+
+Condições técnicas exigidas
 
 Regra 9
 
@@ -10954,11 +10979,11 @@ f) O emissor principal e o emissor de reserva devem ter uma profundidade de modu
 
 g) O emissor principal e o emissor de reserva, quando ligados à antena principal, devem ter um alcance mínimo normal, como é especificado na tabela abaixo, isto é, eles devem poder emitir sinais claramente perceptíveis de navio para navio de dia e em condições e circunstâncias normais nas distâncias especificadas (ver nota 1). (Sinais claramente perceptíveis devem normalmente ser recebidos se o valor eficaz da intensidade de campo no receptor for, pelo menos, de 50 (mi)V/m.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (nota 1) Na falta da medida directa de intensidade de campo, os dados seguintes podem servir de guia para determinar aproximadamente o alcance normal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 h) - i) O receptor principal e o receptor de reserva devem ter possibilidade de receber a frequência radiotelegráfica de socorro e as classes de emissão determinadas no Regulamento das Radiocomunicações, para esta frequência;
 
@@ -11250,7 +11275,9 @@ vii) Na medida do possível, deve assinalar as avarias que poderão impedir o se
 
 b) Antes de aprovar um novo tipo de auto-alarme radiotelefónico, a Administração interessada deve assegurar-se, por meio de ensaios práticos feitos nas condições de funcionamento equivalentes às que se encontram na prática, de que o equipamento obedece às prescrições do parágrafo a) da presente regra.
 
-# PARTE D — Registos de radiocomunicações
+PARTE D
+
+Registos de radiocomunicações
 
 Regra 19
 
@@ -11288,7 +11315,9 @@ v) Pormenores da conservação das baterias, incluindo um registo das cargas (se
 
 c) Os registos de radiocomunicações devem estar disponíveis para serem inspeccionados pelos funcionários autorizados pela Administração para esse efeito.
 
-### CAPÍTULO V — Segurança da navegação
+CAPÍTULO V
+
+Segurança da navegação
 
 Regra 1
 
@@ -11530,17 +11559,17 @@ São os seguintes os sinais que devem ser empregados pelas estações e unidades
 
 a) Resposta das estações ou unidades marítimas de salvamento aos sinais de perigo emitidos por um navio ou uma pessoa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Se for necessário os sinais de dia podem ser feitos de noite e vice-versa.
 
 b) Sinais de desmbarque destinados a orientar as embarcações que transportem tripulações ou pessoas em perigo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 c) Sinais a empregar em ligação com o uso dos meios de salvação instalados na costa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 d) Sinais usados pelas aeronaves que efectuam operações de busca e salvamento para orientar os navios em direcção a uma aeronave, um navio ou uma pessoa em perigo (veja nota no final desta regra):
 
@@ -11630,9 +11659,13 @@ Código Internacional de Sinais
 
 Todos os navios de acordo com a presente Convenção que sejam obrigados a possuir uma instalação radiotelegráfica ou radiotelefónica devem possuir o Código Internacional de Sinais. Esta publicação será também levada por qualquer outro navio, se na opinião da Administração for considerada necessária.
 
-### CAPÍTULO VI — Transporte de grão
+CAPÍTULO VI
 
-# PARTE A — Condições gerais
+Transporte de grão
+
+PARTE A
+
+Condições gerais
 
 Regra 1
 
@@ -11650,7 +11683,7 @@ b) O termo «compartimento cheio» diz respeito a qualquer compartimento no qual
 
 c) O termo «compartimento parcialmente cheio» refere-se a qualquer compartimento em que o grão a granel não se encontra carregado da maneira prescrita no parágrafo b) da presente regra.
 
-d) O termo «ângulo de alagamento» ([([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)(índice f)) significa o ângulo de inclinação no qual imergem as aberturas do casco, superstruturas ou casotas do convés que não sejam estanques. Na aplicação desta definição não é necessário ter em conta as pequenas aberturas, através das quais não possa haver alagamento progressivo.
+d) O termo «ângulo de alagamento» ([(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)(índice f)) significa o ângulo de inclinação no qual imergem as aberturas do casco, superstruturas ou casotas do convés que não sejam estanques. Na aplicação desta definição não é necessário ter em conta as pequenas aberturas, através das quais não possa haver alagamento progressivo.
 
 Regra 3
 
@@ -11674,7 +11707,7 @@ b) As características de estabilidade intacta de qualquer navio transportando g
 
 i) O ângulo de inclinação devido ao escorregamento do grão não deve exceder os 12º, excepto se a Administração, na sua autorização e de acordo com a regra 10 do presente capítulo, exigir um ângulo menor de inclinação, caso considere que a experiência mostra que é necessário (ver nota 1);
 
-ii) No diagrama de estabilidade estática, a área líquida ou residual entre a curva dos braços de inclinação e a curva dos braços de estabilidade até ao ângulo de inclinação que corresponde à diferença máxima entre as ordenadas das duas curvas, ou a 40º, ou ao «ângulo de alagamento» ([([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)(índice f)), o que for menor, deve, em todas as condições de carga, não ser menor do que 0,075 m radianos; e
+ii) No diagrama de estabilidade estática, a área líquida ou residual entre a curva dos braços de inclinação e a curva dos braços de estabilidade até ao ângulo de inclinação que corresponde à diferença máxima entre as ordenadas das duas curvas, ou a 40º, ou ao «ângulo de alagamento» ([(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)(índice f)), o que for menor, deve, em todas as condições de carga, não ser menor do que 0,075 m radianos; e
 
 iii) A altura metacêntrica inicial, depois da correcção devida aos efeitos das superfícies livres dos líquidos nos tanques, não deve ser menor do que 0,30 m.
 
@@ -11784,19 +11817,23 @@ Isenção para determinadas viagens
 
 A Administração, ou o Governo Contratante em nome da Administração, pode, quando entender que o carácter abrigado e as condições de viagem são tais que a aplicação de qualquer das disposições das regras 3 a 12 do presente capítulo não é razoável nem necessária, dispensar dessas disposições particulares certos navios ou classes de navios.
 
-# PARTE B — Cálculo dos momentos inclinantes supostos
+PARTE B
 
-#### Secção I - Descrição dos vazios supostos e método de cálculo da estabilidade intacta.
+Cálculo dos momentos inclinantes supostos
 
-#### Secção II - Momento volumétrico inclinante suposto de um compartimento completamente cheio.
+Secção I - Descrição dos vazios supostos e método de cálculo da estabilidade intacta.
 
-#### Secção III - Momento volumétrico inclinante suposto de alimentadores e troncos.
+Secção II - Momento volumétrico inclinante suposto de um compartimento completamente cheio.
 
-#### Secção IV - Momento volumétrico e inclinante suposto de compartimentos parcialmente cheios.
+Secção III - Momento volumétrico inclinante suposto de alimentadores e troncos.
 
-#### Secção V - Condições de carga alternativas para navios existentes.
+Secção IV - Momento volumétrico e inclinante suposto de compartimentos parcialmente cheios.
 
-#### SECÇÃO I — Descrição dos vazios supostos e método do cálculo da estabilidade intacta
+Secção V - Condições de carga alternativas para navios existentes.
+
+SECÇÃO I
+
+Descrição dos vazios supostos e método do cálculo da estabilidade intacta
 
 A) Generalidades
 
@@ -11818,7 +11855,7 @@ Em nenhum caso se deve tomar Vd inferior a 100 mm.
 
 TABELA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 ii) Nos «compartimentos completamente cheios» que não são estivados de acordo com a regra 3 do presente capítulo e cujas superfícies limitadoras têm uma inclinação, em relação à horizontal, de menos de 30º, a superfície da carga tem uma inclinação de 30º em relação à horizontal, depois de efectuada a carga;
 
@@ -11832,13 +11869,15 @@ Momento inclinante total = 1,06 x momento inclinante transversal calculado.
 
 Em todos os casos, o peso da carga de um «compartimento completamente cheio» deve ser igual ao volume do espaço total de carga dividido pelo factor estiva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 d) Nos «compartimentos parcialmente cheios» o efeito desfavorável do escorregamento vertical de superfície do grão deve ser calculado tendo em conta o seguinte:Momento inclinante total = 1,12 x momento inclinante transversal calculado.
 
 e) Pode ser adoptado qualquer outro método de igual efeito para o cálculo das compensações requeridas nos precedentes parágrafos c) e d).
 
-#### SECÇÃO II — Momento volumétrico inclinante suposto de um compartimento cheio
+SECÇÃO II
+
+Momento volumétrico inclinante suposto de um compartimento cheio
 
 A) Generalidades
 
@@ -11864,13 +11903,13 @@ i) Se um compartimento tem duas ou mais escotilhas principais pelas quais pode s
 
 ii) Depois de suposto o escorregamento do grão, o arranjo final do vazio será o que mostra a figura 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 b) Na zona da escotilha e ao nível desta:
 
 Depois de suposto o escorregamento do grão, o arranjo final dos vazios será o que mostram as figuras 3 ou 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 C) Compartimentos carregados em comum
 
@@ -11900,7 +11939,9 @@ c) Com divisões centrais eficazes que não se estendem até à escotilha da cob
 
 Dado que não se admitem transferências na horizontal de vazios ao mesmo nível da divisória na coberta, supõe-se que a zona de vazio que se pode transferir do lado baixo para este nível deve ser feita transferindo por cima da divisória para os vazios situados nos lados altos, de acordo com os princípios enumerados nos parágrafos a) e b) precedentes.
 
-#### SECÇÃO III — Momento volumétrico inclinante suposto em alimentadores e troncos
+SECÇÃO III
+
+Momento volumétrico inclinante suposto em alimentadores e troncos
 
 A) Alimentadores laterais convenientemente situados (veja figura 5)
 
@@ -11910,15 +11951,17 @@ a) Os alimentadores se estendam ao longo de todo o comprimento da coberta e as a
 
 b) O volume de cada alimentador seja igual ao volume do espaço vazio situado por baixo da coberta, pelo lado de fora da sicorda da escotilha e seu prolongamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 B) Troncos situados sobre as escotilhas principais
 
 Depois do admitido escorregamento do grão, a disposição final dos vazios é a que mostra a figura 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
-#### SECÇÃO IV — Momento volumétrico inclinante suposto em compartimentos parcialmente cheios
+SECÇÃO IV
+
+Momento volumétrico inclinante suposto em compartimentos parcialmente cheios
 
 A) Generalidades
 
@@ -11930,7 +11973,9 @@ Num compartimento em que as divisórias longitudinais não sejam contínuas entr
 
 Esta correcção não é aplicada a compartimentos inferiores, em nenhum caso de carga em comum, em que o compartimento superior seja um «compartimento completamente cheio» ou um «compartimento parcialmente cheio».
 
-#### SECÇÃO V — Outras condições de carga para navios existentes
+SECÇÃO V
+
+Outras condições de carga para navios existentes
 
 A) Generalidades
 
@@ -11966,11 +12011,15 @@ c) Nos «compartimentos parcialmente cheios» todas as superfícies livres do gr
 
 d) Durante toda a viagem a altura metacêntrica, depois de corrigida devido aos espelhos líquidos existentes nos tanques, deve ser 0,30 m ou a dada pela fórmula seguinte, se este segundo valor for maior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
-# PARTE C — Dispositivos de travamento para carga de grão e sua fixação
+PARTE C
 
-#### SECÇÃO I — Resistência dos dispositivos de travamento para carga de grão a granel
+Dispositivos de travamento para carga de grão e sua fixação
+
+SECÇÃO I
+
+Resistência dos dispositivos de travamento para carga de grão a granel
 
 A) Generalidades (com inclusão de cargas de trabalho).
 
@@ -11984,7 +12033,9 @@ E) Cobertura da carga a granel.
 
 F) Fixação das tampas das escotilhas em compartimentos cheios.
 
-#### SECÇÃO II — Fixação de carga de grão a granel em compartimentos parcialmente cheios
+SECÇÃO II
+
+Fixação de carga de grão a granel em compartimentos parcialmente cheios
 
 A) Modalidades de fixação.
 
@@ -11992,7 +12043,9 @@ B) Modos de sobreposição de carga.
 
 C) Grão ensacado.
 
-#### SECÇÃO I — Resistência dos dispositivos de travamento para carga de grão a granel
+SECÇÃO I
+
+Resistência dos dispositivos de travamento para carga de grão a granel
 
 A) Generalidades
 
@@ -12036,7 +12089,7 @@ i) Os meios-fios devem ter uma espessura mínima de 50 mm, mantidos de modo que 
 
 ii) O máximo vão entre apoios dos meios-fios deve ser o seguinte, em função da espessura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Para espessuras maiores que as indicadas, o máximo vão entre apoios varia em proporção directa com o aumento de espessura;
 
@@ -12076,7 +12129,7 @@ i) As escoras de madeira, quando utilizadas, devem ser de uma peça única e dev
 
 ii) Sob reserva com o disposto nas alíneas iii) e iv) do presente parágrafo, as medidas mínimas das escoras de madeira devem ser:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 As escoras com 7 m ou mais de comprimento devem ser seguramente escoradas a meio comprimento aproximadamente;
 
@@ -12098,7 +12151,7 @@ TABELA I (ver nota a)
 
 B (m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (nota a) Para converter estas cargas em unidades inglesas (t/pé) considera-se que 1 kg por metro de comprimento equivale a 0,0003 t por pé de comprimento.
 
@@ -12112,7 +12165,7 @@ TABELA II (ver nota a)
 
 L (m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 (nota a) Para converter estas cargas em unidades inglesas (t/pé) considera-se que 1 kg por metro de comprimento equivale a 0,0003 t por pé de comprimento.
 
@@ -12130,7 +12183,7 @@ Valores da reacção no extremo superior do prumo em percentagem de carga (tabel
 
 B (m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Para outros valores de h ou B as reacções devem ser determinadas por interpolação ou extrapolação linear, conforme necessário.
 
@@ -12142,7 +12195,7 @@ Valores da reacção no extremo superior do prumo como percentagem da carga (tab
 
 L (m)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Para outros valores de h e L as reacções devem ser determinadas por interpolação ou extrapolação, conforme necessário.
 
@@ -12162,7 +12215,7 @@ Carga máxima da parte inferior - 60% da carga total correspondente à da tabela
 
 A espessura das tábuas de madeira horizontais podem também ser calculadas considerando uma distribuição vertical das cargas indicadas nas tabelas III e IV, e nestes casos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 Se admitir que a distribuição vertical das cargas é uniforme, isto é, rectangular, considera-se K igual a 0,1. Para uma distribuição trapezoidal
 
@@ -12210,7 +12263,9 @@ Se não houver grão a granel ou outra carga sobre um «compartimento cheio», a
 
 Nos documentos de autorização emitidos de acordo com a regra 10 do presente capítulo devem ser incluídos os preceitos de segurança considerados necessários pela Administração.
 
-#### SECÇÃO II — Fixação da carga do grão nos compartimentos parcialmente cheios
+SECÇÃO II
+
+Fixação da carga do grão nos compartimentos parcialmente cheios
 
 A) Modalidades de fixação
 
@@ -12238,7 +12293,9 @@ C) Grão ensacado
 
 Só devem ser utilizados sacos que estejam em bom estado, os quais devem ser bem cheios e seguramente fechados.
 
-### CAPÍTULO VII — Transporte de cargas perigosas
+CAPÍTULO VII
+
+Transporte de cargas perigosas
 
 Regra 1
 
@@ -12356,7 +12413,9 @@ iv) Fogos de artifício pouco susceptíveis de explodir violentamente, excepto n
 
 b) Apesar das disposições do parágrafo a) da presente regra, podem ser transportadas em navios de passageiros quantidades maiores ou tipos diferentes de explosivos quando sejam aplicadas medidas especiais de segurança aprovadas pela Administração.
 
-### CAPÍTULO VIII — Navios nucleares
+CAPÍTULO VIII
+
+Navios nucleares
 
 Regra 1
 
@@ -12444,7 +12503,7 @@ Acidentes
 
 No caso de se produzir qualquer acidente susceptível de criar perigo no meio ambiente, o comandante do navio nuclear deve informar imediatamente a Administração. O comandante deve também avisar imediatamente as Administrações competentes de qualquer país em cujas águas o navio se encontre ou daquele de cujas águas se aproxime.
 
-## APÊNDICE
+APÊNDICE
 
 Modelo de certificado de segurança para navios de passageiros:
 
@@ -12456,7 +12515,7 @@ Para uma viagem internacional/viagem internacional curta
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome), certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
@@ -12470,7 +12529,7 @@ II - Que a vistoria mostrou que o navio satisfaz às exigências das regras anex
 
 3) Às linhas de carga de compartimentagem seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 III - Que os meios de salvação são suficientes para um número total máximo de ... pessoas, a saber:
 
@@ -12492,7 +12551,7 @@ V - Que o navio está munido de um aparelho lança-cabos e de um equipamento de 
 
 VI - Que o navio obedece às prescrições das regras no que diz respeito às instalações radiotelegráficas, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 VII - Que as instalações radiotelegráficas das embarcações salva-vidas com motor e/ou o equipamento de radiocomunicações portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das regras.
 
@@ -12528,7 +12587,7 @@ Certificado de segurança de construção para navio de carga
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome) certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
@@ -12560,7 +12619,7 @@ Certificado de segurança do equipamento para navio de carga
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome) certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
@@ -12616,13 +12675,13 @@ Certificado de segurança radiotelegráfica para navio de carga
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome) certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
 I - Que o navio acima mencionado obedece às prescrições das regras anexas à Convenção acima citada no que diz respeito à radiotelegrafia e radar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 II - Que as instalações radiotelegráficas das embarcações salva-vidas com motor e ou o equipamento de radiocomunicações portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das presentes regras.
 
@@ -12652,13 +12711,13 @@ Certificado de segurança radiotelefónica para navio de carga
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome) certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
 I - Que o navio acima mencionado obedece às prescrições das regras anexas à Convenção acima citada no que diz respeito à radiotelefonia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 II - Que o funcionamento do equipamento de radiocomunicações portátil para embarcações e jangadas salva-vidas, se existir, satisfaz às disposições das referidas regras.
 
@@ -12688,7 +12747,7 @@ Certificado de dispensa
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome) certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
@@ -12722,7 +12781,7 @@ Certificado de segurança para navio nuclear de passageiros
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome) certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
@@ -12738,7 +12797,7 @@ III - Que a vistoria constatou que o navio satisfaz as exigências das regras an
 
 3) Às linhas de carga de compartimentagem seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 IV - Que os meios de salvação são suficientes para um número total máximo de ... pessoas, a saber:
 
@@ -12760,7 +12819,7 @@ VI - Que o navio está munido de um aparelho lança-cabos e de um equipamento de
 
 VII - Que o navio obedece às prescrições das regras no que diz respeito às instalações radiotelegráficas, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 VIII - Que as instalações radiotelegráficas das embarcações salva-vidas com motor e ou o equipamento de radiocomunicações portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das regras.
 
@@ -12796,7 +12855,7 @@ Certificado de segurança para navio nuclear de carga
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1974
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 O Governo ... (nome) certifica:/Eu, abaixo assinado, ... (nome), certifico:
 
@@ -12828,7 +12887,7 @@ VI - Que o navio está munido de um aparelho lança-cabos e de um equipamento de
 
 VII - Que o navio obedece às prescrições das regras no que diz respeito às instalações radiotelegráficas, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23701/00010196.pdf)
 
 VIII - Que as instalações radiotelegráficas das embarcações salva-vidas com motor e/ou o equipamento de radiocomunicações portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das regras.
 
@@ -12880,7 +12939,7 @@ Tomando nota do trabalho que o Comité de Segurança Marítima da Organização 
 
 Convida a Organização a prosseguir os seus trabalhos neste campo, dando-lhe grande prioridade, para que as prescrições técnicas da Convenção de 1974 possam ser revistas, se necessário, com referência particular para os assuntos cobertos pelas recomendações deste Apêndice.
 
-## APÊNDICE
+APÊNDICE
 
 Recomendações para ulterior aperfeiçoamento do Regulamento Internacional para a Salvaguarda da Vida Humana no Mar
 

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/622-1971-165999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80fea8f19670d55696ddc82b6a254847417d0e7574f73c8bbb4d7057a8b9d39b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c4910c56b9fdfa3c782389c7dfaab03534e8ccb9b88e4151103cf73d4ad5127
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633919:por
+  label: null
+  source: null
 article_structure:
-  article_count: 74
-  section_count: 66
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:02Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +111,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos Gerais da Nação
 
@@ -217,23 +237,23 @@ Do artigo 56.º, n.º 1) «Pagamento de serviços ...», alínea 2 «Para a circ
 
 Para o artigo 54.º, n.º 2) «Telefones», alínea 2 «Para a circunscrição da zona sul» ... +3000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 60260505$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 60260505$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 10.º «Secretaria de Estado da Aeronáutica - Gabinete do Secretário de Estado»:
+Capítulo 10.º «Secretaria de Estado da Aeronáutica - Gabinete do Secretário de Estado»:
 
-###### Artigo 175.º, n.º 2) «Ajudas de custo aos adidos aeronáuticos em»:
+Artigo 175.º, n.º 2) «Ajudas de custo aos adidos aeronáuticos em»:
 
 Bona ... 67500$00
 
-### Capítulo 12.º «Despesas de nos económicos findos»:
+Capítulo 12.º «Despesas de nos económicos findos»:
 
-###### Artigo 340.º «Despesas de anos económicos findos» ... 3100000$00
+Artigo 340.º «Despesas de anos económicos findos» ... 3100000$00
 
-### Capítulo 13.º «Defesa Nacional»:
+Capítulo 13.º «Defesa Nacional»:
 
-###### Artigo 342.º «Forças militares extraordinárias no ultramar» ... 2225680$40
+Artigo 342.º «Forças militares extraordinárias no ultramar» ... 2225680$40
 
 ... 5393180$40
 
@@ -241,73 +261,73 @@ Ministério das Finanças
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 15.º «Direcção-Geral das Contribuições e Impostos»:
+Capítulo 15.º «Direcção-Geral das Contribuições e Impostos»:
 
-###### Artigo 170.º, n.º 2), alínea 1 «Impressos, ...» ... 600000$00
+Artigo 170.º, n.º 2), alínea 1 «Impressos, ...» ... 600000$00
 
-### Capítulo 21.º «Abono de família aos funcionários»:
+Capítulo 21.º «Abono de família aos funcionários»:
 
-###### Artigo 235.º «Despesas com o abono de família aos funcionários» ... 600000$00
+Artigo 235.º «Despesas com o abono de família aos funcionários» ... 600000$00
 
 ... 1200000$00
 
 Ministério da Marinha
 
-### Capítulo 1.º «Gabinete do Ministro - Missões e comissões de serviço e de estudo no estrangeiro»:
+Capítulo 1.º «Gabinete do Ministro - Missões e comissões de serviço e de estudo no estrangeiro»:
 
-###### Artigo 10.º, n.º 1), alínea 1 «Passagens e outras despesas de transporte ...» ... 400000$00
+Artigo 10.º, n.º 1), alínea 1 «Passagens e outras despesas de transporte ...» ... 400000$00
 
-###### Artigo 11.º, n.º 1) «Pagamento de serviços ...», alínea 1 «Manutenção dos serviços dos adidos navais ...» ... 80000$00
+Artigo 11.º, n.º 1) «Pagamento de serviços ...», alínea 1 «Manutenção dos serviços dos adidos navais ...» ... 80000$00
 
-### Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
+Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
 
 Serviço do Pessoal
 
 Direcção
 
-###### Artigo 34.º, n.º 1) «Serviços clínicos e de hospitalização», alínea 1 «Internato de oficiais, sargentos e praças ...» ... 200000$00
+Artigo 34.º, n.º 1) «Serviços clínicos e de hospitalização», alínea 1 «Internato de oficiais, sargentos e praças ...» ... 200000$00
 
-###### Artigo 35.º, n.º 3), alínea 1 «Passagens do pessoal militar ...» ... 180000$00
+Artigo 35.º, n.º 3), alínea 1 «Passagens do pessoal militar ...» ... 180000$00
 
 Oficiais, sargentos e praças das reservas da Marinha
 
-###### Artigo 44.º, n.º 1) «Vencimentos», alínea 1 «Oficiais, sargentos e praças das reservas da Marinha ...» ... 1000000$00
+Artigo 44.º, n.º 1) «Vencimentos», alínea 1 «Oficiais, sargentos e praças das reservas da Marinha ...» ... 1000000$00
 
 Serviço de Saúde Naval
 
 Hospital da Marinha
 
-###### Artigo 63.º, n.º 2) «Medicamentos ...» ... 900000$00
+Artigo 63.º, n.º 2) «Medicamentos ...» ... 900000$00
 
 Museu de Marinha
 
-###### Artigo 96.º, n.º 1), alínea 1 «Objectos e documentos de valor histórico, ...» ... 80000$00
+Artigo 96.º, n.º 1), alínea 1 «Objectos e documentos de valor histórico, ...» ... 80000$00
 
-###### Artigo 97.º, n.º 3) «De móveis» ... 50000$00
+Artigo 97.º, n.º 3) «De móveis» ... 50000$00
 
-###### Artigo 99.º, n.º 1) «Luz, ...» ... 60000$00
+Artigo 99.º, n.º 1) «Luz, ...» ... 60000$00
 
-### Capítulo 4.º «Superintendência dos Serviços do Material»:
+Capítulo 4.º «Superintendência dos Serviços do Material»:
 
 Navios e material flutuante
 
-###### Artigo 114.º, n.º 1) «De material de defesa ...», alínea 2 «Docagem, ...» ... 4000000$00
+Artigo 114.º, n.º 1) «De material de defesa ...», alínea 2 «Docagem, ...» ... 4000000$00
 
-###### Artigo 115.º «Material de consumo corrente»:
+Artigo 115.º «Material de consumo corrente»:
 
 N.º 2) «Combustíveis e lubrificantes ...» ... 1500000$00
 
 N.º 3) «Despesas miúdas de material ...» ... 50000$00
 
-###### Artigo 116.º «Despesas de higiene, ...»:
+Artigo 116.º «Despesas de higiene, ...»:
 
 N.º 1), alínea 1 «Medicamentos e apósitos ...» ... 40000$00
 
 N.º 3) «Corrente eléctrica» ... 150000$00
 
-###### Artigo 118.º, n.º 1) «Pagamento de serviços ...» ... 270000$0O
+Artigo 118.º, n.º 1) «Pagamento de serviços ...» ... 270000$0O
 
-###### Artigo 119.º «Outros encargos»:
+Artigo 119.º «Outros encargos»:
 
 N.º 1) «Encargos marítimos»:
 
@@ -319,57 +339,57 @@ N.º 2) «Despesas de representação» ... 80000$00
 
 Direcção do Serviço de Armas Navais
 
-###### Artigo 137.º, n.º 1), alínea 1 «Energia eléctrica e gás ...» ... 42000$00
+Artigo 137.º, n.º 1), alínea 1 «Energia eléctrica e gás ...» ... 42000$00
 
 Direcção das Infra-Estruturas Navais
 
-###### Artigo 159.º, n.º 2) «Telefones» ... 135000$00
+Artigo 159.º, n.º 2) «Telefones» ... 135000$00
 
-### Capítulo 5.º «Comandos, forças e unidades em terra»:
+Capítulo 5.º «Comandos, forças e unidades em terra»:
 
 Comando Naval dos Açores
 
-###### Artigo 176.º, n.º 1) «Móveis» ... 25500$00
+Artigo 176.º, n.º 1) «Móveis» ... 25500$00
 
-###### Artigo 177.º, n.º 3) «De móveis» ... 70000$00
+Artigo 177.º, n.º 3) «De móveis» ... 70000$00
 
-###### Artigo 181.º, n.º 1) «Renda do depósito de Ponta Delgada» ... 4400$00
+Artigo 181.º, n.º 1) «Renda do depósito de Ponta Delgada» ... 4400$00
 
 Escola Naval
 
-###### Artigo 196.º, n.º 1) «Móveis» ... 80000$00
+Artigo 196.º, n.º 1) «Móveis» ... 80000$00
 
-###### Artigo 199.º, n.º 1) «Luz, ...» ... 40000$00
+Artigo 199.º, n.º 1) «Luz, ...» ... 40000$00
 
-###### Artigo 201.º, n.º 1) «Publicidade ...» ... 55000$00
+Artigo 201.º, n.º 1) «Publicidade ...» ... 55000$00
 
 Grupo n.º 1 de Escolas da Armada
 
-###### Artigo 203.º, n.º 1) «Móveis» ... 122000$00
+Artigo 203.º, n.º 1) «Móveis» ... 122000$00
 
-###### Artigo 204.º, n.º 3) «De móveis» ... 199000$00
+Artigo 204.º, n.º 3) «De móveis» ... 199000$00
 
-###### Artigo 205.º «Material de consumo corrente»:
+Artigo 205.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...» ... 113000$00
 
 N.º 2) «Artigos especiais para consumo das aulas ...» ... 82000$00
 
-###### Artigo 206.º, n.º 1) «Luz, ...» ... 12000$00
+Artigo 206.º, n.º 1) «Luz, ...» ... 12000$00
 
-###### Artigo 209.º, n.º 1) «Publicidade ...» ... 10000$00
+Artigo 209.º, n.º 1) «Publicidade ...» ... 10000$00
 
-###### Artigo 210.º, n.º 2) «Pagamento aos professores primários para leccionarem os recrutas ...» ... 10000$00
+Artigo 210.º, n.º 2) «Pagamento aos professores primários para leccionarem os recrutas ...» ... 10000$00
 
 Grupo n.º 2 de Escolas da Armada
 
-###### Artigo 217.º, n.º 3) «Encargos com cursos de preparação» ... 113000$00
+Artigo 217.º, n.º 3) «Encargos com cursos de preparação» ... 113000$00
 
 Escola de Fuzileiros
 
-###### Artigo 221.º, n.º 1) «Luz, ...» ... 290000$00
+Artigo 221.º, n.º 1) «Luz, ...» ... 290000$00
 
-###### Artigo 222.º «Despesas de comunicações»:
+Artigo 222.º «Despesas de comunicações»:
 
 N.º 2) «Telefones» ... 20000$00
 
@@ -377,17 +397,17 @@ N.º 3) «Transportes» ... 20000$00
 
 Força de Fuzileiros do Continente
 
-###### Artigo 233.º «Despesas de conservação ...»:
+Artigo 233.º «Despesas de conservação ...»:
 
 N.º 2), alínea 1 «Veículos com motor» ... 125000$00
 
 N.º 3) «De móveis» ... 55000$00
 
-###### Artigo 234.º, n.º 1) «Matérias-primas ...» ... 40000$00
+Artigo 234.º, n.º 1) «Matérias-primas ...» ... 40000$00
 
-###### Artigo 236.º, n.º 2) «Telefones» ... 30000$00
+Artigo 236.º, n.º 2) «Telefones» ... 30000$00
 
-### Capítulo 8.º «Direcção-Geral dos Serviços de Fomento Marítimo»:
+Capítulo 8.º «Direcção-Geral dos Serviços de Fomento Marítimo»:
 
 Departamentos, capitanias e delegações
 
@@ -395,41 +415,41 @@ Tribunais marítimos
 
 Polícia Marítima
 
-###### Artigo 278.º, n.º 2) «De semoventes», alínea 1 «Navios e embarcações» ... 218000$00
+Artigo 278.º, n.º 2) «De semoventes», alínea 1 «Navios e embarcações» ... 218000$00
 
-###### Artigo 279.º, n.º 2) «Artigos de expediente ...» ... 1500$00
+Artigo 279.º, n.º 2) «Artigos de expediente ...» ... 1500$00
 
-###### Artigo 280.º, n.º 1) «Luz, ...» ... 46500$00
+Artigo 280.º, n.º 1) «Luz, ...» ... 46500$00
 
-###### Artigo 281.º, n.º 2) «Telefones» ... 30000$00
+Artigo 281.º, n.º 2) «Telefones» ... 30000$00
 
-###### Artigo 283.º, n.º 1) «Rendas de casa ...» ... 25000$00
+Artigo 283.º, n.º 1) «Rendas de casa ...» ... 25000$00
 
 Instituto de Biologia Marítima
 
-###### Artigo 294.º, n.º 1) «Dotação para custeio de serviços» ... 100000$00
+Artigo 294.º, n.º 1) «Dotação para custeio de serviços» ... 100000$00
 
 ... 11218900$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços externos do Ministério»:
+Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços externos do Ministério»:
 
-###### Artigo 27.º, n.º 1) «Pessoal contratado e assalariado» ... 6160000$00
+Artigo 27.º, n.º 1) «Pessoal contratado e assalariado» ... 6160000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 53.º «Despesas de conservação e aproveitamento do material»:
+Artigo 53.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1) «De imóveis», alínea 24 «Casa da Moeda e Contrastaria do Porto» ... 300000$00
 
 N.º 2) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado», alínea 10 «Junta Central de Portos - Obras a realizar no edifício da Rua da Prata» ... 400000$00
 
-### Capítulo 11.º «Direcção-Geral das Construções Escolares»:
+Capítulo 11.º «Direcção-Geral das Construções Escolares»:
 
-###### Artigo 103.º «Construções e obras novas»:
+Artigo 103.º «Construções e obras novas»:
 
 N.º 2) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal»:
 
@@ -437,9 +457,9 @@ Alínea 4 «Construção da estufa n.º 16 do Instituto de Botânica do Dr. Gon�
 
 Alínea 6 «Construção de um lago no Fetário do Jardim Botânico do Dr. Gonçalo Sampaio, anexo à Faculdade de Ciências do Porto» ... 180000$00
 
-### Capítulo 14.º «III Plano de Fomento»:
+Capítulo 14.º «III Plano de Fomento»:
 
-###### Artigo 122.º «Educação e investigação ligada ao ensino»:
+Artigo 122.º «Educação e investigação ligada ao ensino»:
 
 N.º 1) «Instalações e apetrechamento inicial»:
 
@@ -449,29 +469,29 @@ Alínea 3 «Edifícios do ciclo preparatório de ensino secundário, ...» ... 6
 
 Ministério do Ultramar
 
-### Capítulo 13.º «Organismos dependentes - Instituto Hidrográfico»:
+Capítulo 13.º «Organismos dependentes - Instituto Hidrográfico»:
 
-###### Artigo 130.º, n.º 1) «Contribuição ao Instituto» ... 250000$00
+Artigo 130.º, n.º 1) «Contribuição ao Instituto» ... 250000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 1.º «Gabinete do Ministro - Secretariado para a Juventude»:
+Capítulo 1.º «Gabinete do Ministro - Secretariado para a Juventude»:
 
-###### Artigo 13.º-A «Outros encargos»:
+Artigo 13.º-A «Outros encargos»:
 
 N.º 1) «Encargos resultantes do seu funcionamento» ... 15000000$00
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 23.º, n.º 3) «Pagamento de serviços ...», alínea 6 «Instalação e funcionamento de serviços» ... 17546200$00
+Artigo 23.º, n.º 3) «Pagamento de serviços ...», alínea 6 «Instalação e funcionamento de serviços» ... 17546200$00
 
-### Capítulo 4.º «Direcção-Geral do Ensino Liceal - Ensino liceal - Liceus»:
+Capítulo 4.º «Direcção-Geral do Ensino Liceal - Ensino liceal - Liceus»:
 
-###### Artigo 798.º, n.º 1) «Móveis»:
+Artigo 798.º, n.º 1) «Móveis»:
 
 Liceu de Setúbal ... 70000$00
 
-###### Artigo 801.º, n.º 2) «Luz, ...»:
+Artigo 801.º, n.º 2) «Luz, ...»:
 
 Liceu de Castelo Branco ... 15000$00
 
@@ -481,7 +501,7 @@ Liceu de Setúbal ... 10000$00
 
 ... 30000$00
 
-###### Artigo 802.º «Despesas de comunicações»:
+Artigo 802.º «Despesas de comunicações»:
 
 N.º 2) «Telefones»:
 
@@ -497,17 +517,17 @@ N.º 3) «Transportes»:
 
 Liceu de Setúbal ... 1000$00
 
-### Capítulo 5.º «Direcção-Geral de Ensino Técnico Profissional»:
+Capítulo 5.º «Direcção-Geral de Ensino Técnico Profissional»:
 
 Ensino industrial e comercial
 
 Escolas técnicas, industriais, comerciais e industriais-comerciais
 
-###### Artigo 871.º, n.º 2) «Móveis»:
+Artigo 871.º, n.º 2) «Móveis»:
 
 Escola Industrial e Comercial de Setúbal ... 25000$00
 
-###### Artigo 872.º «Despesas de conservação ...»:
+Artigo 872.º «Despesas de conservação ...»:
 
 N.º 1), alínea 2 «Prédios urbanos»:
 
@@ -521,7 +541,7 @@ N.º 3) «De móveis»:
 
 Escola Industrial e Comercial de Setúbal ... 12500$00
 
-###### Artigo 873.º «Material de consumo corrente»:
+Artigo 873.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...»:
 
@@ -543,15 +563,15 @@ Escola Industrial e Comercial de Setúbal ... 8000$00
 
 ... 20000$00
 
-###### Artigo 874.º, n.º 2) «Luz, ...»:
+Artigo 874.º, n.º 2) «Luz, ...»:
 
 Escola Industrial e Comercial de Setúbal ... 46000$00
 
-###### Artigo 877.º, n.º 3) «Pagamento de serviços ...»:
+Artigo 877.º, n.º 3) «Pagamento de serviços ...»:
 
 Escola Industrial de Machado de Castro ... 12300$00
 
-###### Artigo 878.º, n.º 1) «Força motriz»:
+Artigo 878.º, n.º 1) «Força motriz»:
 
 Escola Industrial e Comercial de Setúbal ... 7500$00
 
@@ -561,25 +581,25 @@ Ensino médio
 
 Escola de Regentes Agrícolas de Santarém
 
-###### Artigo 889.º, n.º 2) «Pessoal contratado não pertencente aos quadros» ... 45000$00
+Artigo 889.º, n.º 2) «Pessoal contratado não pertencente aos quadros» ... 45000$00
 
 Escola de Regentes Agrícolas de Évora
 
-###### Artigo 903.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 60000$00
+Artigo 903.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 60000$00
 
-### Capítulo 8.º «Serviços do ciclo preparatório do ensino secundário»:
+Capítulo 8.º «Serviços do ciclo preparatório do ensino secundário»:
 
 Direcção de Serviços
 
-###### Artigo 991.º, n.º 2) «De móveis» ... 3600$00
+Artigo 991.º, n.º 2) «De móveis» ... 3600$00
 
 Escolas preparatórias
 
-###### Artigo 1001.º, n.º 1) «Móveis»:
+Artigo 1001.º, n.º 1) «Móveis»:
 
 Escola Preparatória de Pedro de Santarém, Lisboa ... 40000$00
 
-###### Artigo 1002.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos»:
+Artigo 1002.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos»:
 
 Escola Preparatória de Pedro de Santarém, Lisboa ... 150000$00
 
@@ -587,7 +607,7 @@ Escola Preparatória de Pedro Vaz de Caminha, Porto ... 100000$00
 
 ... 250000$00
 
-###### Artigo 1003.º «Material de consumo corrente»:
+Artigo 1003.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...»:
 
@@ -597,11 +617,11 @@ N.º 2) «Impressos»:
 
 Escola Preparatória de Pedro de Santarém, Lisboa ... 20000$00
 
-###### Artigo 1005.º, n.º 2) «Telefones»:
+Artigo 1005.º, n.º 2) «Telefones»:
 
 Escola Preparatória de Garcia de Orta, Castelo de Vide ... 2000$00
 
-###### Artigo 1006.º «Encargos das instalações»:
+Artigo 1006.º «Encargos das instalações»:
 
 N.º 1) «Rendas de casa»:
 
@@ -621,21 +641,21 @@ Escola Preparatória de António Nobre, Matosinhos ... 20000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica civil - Aeroporto do Sal»:
+Capítulo 4.º «Aeronáutica civil - Aeroporto do Sal»:
 
-###### Artigo 115.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 480000$00
+Artigo 115.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 480000$00
 
-###### Artigo 120.º, n.º 1) «Força motriz» ... 320000$00
+Artigo 120.º, n.º 1) «Força motriz» ... 320000$00
 
 ... 800000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 5.º «Direcção-Geral dos Hospitais»:
+Capítulo 5.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 71.º, n.º 2) «De móveis» ... 12000$00
+Artigo 71.º, n.º 2) «De móveis» ... 12000$00
 
-###### Artigo 72.º «Material de consumo corrente»:
+Artigo 72.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 28500$00
 
@@ -645,142 +665,142 @@ N.º 2) «Artigos de expediente ...» ... 59500$00
 
 ... 60260505$40
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 1279325$00
+Capítulo 7.º, artigo 176.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 1279325$00
 
-### Capítulo 7.º, artigo 202.º «Reposições não abatidas nos pagamentos» ... 4732007$70
+Capítulo 7.º, artigo 202.º «Reposições não abatidas nos pagamentos» ... 4732007$70
 
 ... 6011332$70
 
 Encargos Gerais da Nação
 
-### Capítulo 10.º, artigo 175.º, n.º 2):
+Capítulo 10.º, artigo 175.º, n.º 2):
 
 Pretória ... 67500$00
 
-### Capítulo 10.º, artigo 183.º, n.º 1) ... 593672$70
+Capítulo 10.º, artigo 183.º, n.º 1) ... 593672$70
 
 ... 661172$70
 
 Ministério das Finanças
 
-### Capítulo 10.º, artigo 130.º, n.º 2) ... 300000$00
+Capítulo 10.º, artigo 130.º, n.º 2) ... 300000$00
 
-### Capítulo 15.º, artigo 176.º, n.º 3) ... 600000$00
+Capítulo 15.º, artigo 176.º, n.º 3) ... 600000$00
 
-### Capítulo 16.º, artigo 177.º, n.º 1) ... 600000$00
+Capítulo 16.º, artigo 177.º, n.º 1) ... 600000$00
 
 ... 1500000$00
 
 Ministério da Marinha
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 330000$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 330000$00
 
-### Capítulo 2.º, artigo 21.º, n.º 1) ... 130000$00
+Capítulo 2.º, artigo 21.º, n.º 1) ... 130000$00
 
-### Capítulo 3.º, artigo 38.º, n.º 1), alínea 1 ... 200000$00
+Capítulo 3.º, artigo 38.º, n.º 1), alínea 1 ... 200000$00
 
-### Capítulo 3.º, artigo 38.º, n.º 1), alínea 2 ... 85000$00
+Capítulo 3.º, artigo 38.º, n.º 1), alínea 2 ... 85000$00
 
-### Capítulo 3.º, artigo 41.º, n.º 1) ... 8463900$00
+Capítulo 3.º, artigo 41.º, n.º 1) ... 8463900$00
 
-### Capítulo 3.º, artigo 48.º, n.º 1) ... 932000$00
+Capítulo 3.º, artigo 48.º, n.º 1) ... 932000$00
 
-### Capítulo 4.º, artigo 132.º, n.º 2), alínea 1 ... 42000$00
+Capítulo 4.º, artigo 132.º, n.º 2), alínea 1 ... 42000$00
 
-### Capítulo 5.º, artigo 193.º, n.º 1) ... 416000$00
+Capítulo 5.º, artigo 193.º, n.º 1) ... 416000$00
 
-### Capítulo 7.º, artigo 254.º, n.º 1) ... 620000$00
+Capítulo 7.º, artigo 254.º, n.º 1) ... 620000$00
 
 ... 11218900$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 150000$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 150000$00
 
-### Capítulo 2.º, artigo 7.º, n.º 1) ... 5000000$00
+Capítulo 2.º, artigo 7.º, n.º 1) ... 5000000$00
 
-### Capítulo 2.º, artigo 10.º, n.º 1) ... 200000$00
+Capítulo 2.º, artigo 10.º, n.º 1) ... 200000$00
 
-### Capítulo 2.º, artigo 10.º, n.º 2) ... 200000$00
+Capítulo 2.º, artigo 10.º, n.º 2) ... 200000$00
 
-### Capítulo 2.º, artigo 13.º, n.º 1) ... 100000$00
+Capítulo 2.º, artigo 13.º, n.º 1) ... 100000$00
 
-### Capítulo 2.º, artigo 13.º, n.º 4) ... 50000$00
+Capítulo 2.º, artigo 13.º, n.º 4) ... 50000$00
 
-### Capítulo 2.º, artigo 13.º, n.º 5) ... 15000$00
+Capítulo 2.º, artigo 13.º, n.º 5) ... 15000$00
 
-### Capítulo 5.º, artigo 26.º, n.º 1) ... 150000$00
+Capítulo 5.º, artigo 26.º, n.º 1) ... 150000$00
 
-### Capítulo 5.º, artigo 34.º, n.º 3) ... 150000$00
+Capítulo 5.º, artigo 34.º, n.º 3) ... 150000$00
 
-### Capítulo 5.º, artigo 36.º, n.º 2) ... 145000$00
+Capítulo 5.º, artigo 36.º, n.º 2) ... 145000$00
 
 ... 6160000$00
 
 Ministério do Ultramar
 
-### Capítulo 13.º, artigo 129.º, n.º 12) ... 250000$00
+Capítulo 13.º, artigo 129.º, n.º 12) ... 250000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º, artigo 14.º, n.º 1) «Provisão para satisfação de encargos com a remodelação dos serviços centrais» ... 17546200$00
+Capítulo 2.º, artigo 14.º, n.º 1) «Provisão para satisfação de encargos com a remodelação dos serviços centrais» ... 17546200$00
 
-### Capítulo 2.º, artigo 23.º, n.º 3), alínea 6 ... 43500$00
+Capítulo 2.º, artigo 23.º, n.º 3), alínea 6 ... 43500$00
 
-### Capítulo 4.º, artigo 795.º, n.º 1) ... 110500$00
+Capítulo 4.º, artigo 795.º, n.º 1) ... 110500$00
 
-### Capítulo 5.º, artigo 868.º, n.º 1) ... 307300$00
+Capítulo 5.º, artigo 868.º, n.º 1) ... 307300$00
 
-### Capítulo 6.º, artigo 936.º, n.º 1), alínea 1 ... 15000000$00
+Capítulo 6.º, artigo 936.º, n.º 1), alínea 1 ... 15000000$00
 
-### Capítulo 8.º, artigo 1001.º, n.º 1) ... 40000$00
+Capítulo 8.º, artigo 1001.º, n.º 1) ... 40000$00
 
-### Capítulo 8.º, artigo 1002.º, n.º 1), alínea 1 ... 250000$00
+Capítulo 8.º, artigo 1002.º, n.º 1), alínea 1 ... 250000$00
 
-### Capítulo 8.º, artigo 1002.º, n.º 3) ... 3600$00
+Capítulo 8.º, artigo 1002.º, n.º 3) ... 3600$00
 
-### Capítulo 8.º, artigo 1003.º, n.º 1) ... 30000$00
+Capítulo 8.º, artigo 1003.º, n.º 1) ... 30000$00
 
-### Capítulo 8.º, artigo 1003.º, n.º 2) ... 20000$00
+Capítulo 8.º, artigo 1003.º, n.º 2) ... 20000$00
 
-### Capítulo 8.º, artigo 1006.º, n.º 1) ... 206000$00
+Capítulo 8.º, artigo 1006.º, n.º 1) ... 206000$00
 
-### Capítulo 8.º, artigo 1007.º, n.º 1) ... 2000$00
+Capítulo 8.º, artigo 1007.º, n.º 1) ... 2000$00
 
 ... 33559100$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º, artigo 110.º, n.º 2) ... 320000$00
+Capítulo 4.º, artigo 110.º, n.º 2) ... 320000$00
 
-### Capítulo 4.º, artigo 110.º, n.º 3) ... 230000$00
+Capítulo 4.º, artigo 110.º, n.º 3) ... 230000$00
 
-### Capítulo 4.º, artigo 112.º, n.º 2), alínea 1 ... 250000$00
+Capítulo 4.º, artigo 112.º, n.º 2), alínea 1 ... 250000$00
 
 ... 800000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 5.º, artigo 69.º, n.º 1) ... 75000$00
+Capítulo 5.º, artigo 69.º, n.º 1) ... 75000$00
 
-### Capítulo 5.º, artigo 73.º, n.º 1) ... 25000$00
+Capítulo 5.º, artigo 73.º, n.º 1) ... 25000$00
 
 ... 100000$00
 
 ... 60260505$40
 
-###### Art. 4.º A fim de satisfazer encargos respeitantes a anos económicos anteriores, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 3237706$40, em conta da verba do capítulo 12.º, artigo 340.º, do actual orçamento de Encargos Gerais da Nação, reforçada com a quantia de 3100000$00, através do presente diploma.
+Art. 4.º A fim de satisfazer encargos respeitantes a anos económicos anteriores, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 3237706$40, em conta da verba do capítulo 12.º, artigo 340.º, do actual orçamento de Encargos Gerais da Nação, reforçada com a quantia de 3100000$00, através do presente diploma.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 28 de Dezembro de 1971.**
+Promulgado em 28 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

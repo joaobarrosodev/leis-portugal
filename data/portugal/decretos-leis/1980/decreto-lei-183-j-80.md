@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/1980, 2º Suplemento, Série I de 1980-06-09
   number: '132'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1364-(63) a 1364-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00630065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-j-1980-324955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f68819f7520a2702c37634d9a70b665c8078beb8306dda4d9892c50b748e0451
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e64daeeef5a841124a4066a0276966490a60196f035ffe9e057eeba3a77e0783
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Regulamento do Imposto do SELO
+- Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625669:por
+  label: Alterado o art. 94 da Tabela Geral do Imposto do Selo, aprovada pelo Dec 21916 de 28-Nov de 1932, com a redacção
+    do presente diploma, pelo DEC LEI.133/89.27.04.1989.MF, DR.IS [97] de 27.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1989-625669
+  date: '1989-04-27'
+- type: amended_by
+  target: pt:dre:575296:por
+  label: "Dada nova redacção ao art. 61-A da Tabela Geral do Imposto de Selo, aprovado pelo Dec 21916 de 28-Nov 1932, alterado\
+    \ pelo presente diploma, pelo DEC LEI.205/90.25.06.1990.MF, DR.IS [144] de 25.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1990-575296
+  date: '1990-06-25'
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472370:por
+  label: Rectificado pela DECL.DD6975.17.07.1980.PCM, DR.IS [163] de 17.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472370
+  date: '1980-07-17'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:26Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +132,7 @@ Para finalizar, refere-se que a taxa do papel selado se fixou em 30$00, correspo
 
 Nesta conformidade, ao abrigo da autorização concedida pelo artigo 23.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É fixada em 30$00 a taxa do papel selado propriamente dito, a que se refere o artigo 6.º do Regulamento do Imposto do Selo, e as demais taxas da Tabela Geral do Imposto do Selo em que esteja prevista como norma de pagamento o papel selado e, bem assim, as correspondentes àquela taxa constantes das seguintes disposições da mesma Tabela:
+Artigo 1.º - 1 - É fixada em 30$00 a taxa do papel selado propriamente dito, a que se refere o artigo 6.º do Regulamento do Imposto do Selo, e as demais taxas da Tabela Geral do Imposto do Selo em que esteja prevista como norma de pagamento o papel selado e, bem assim, as correspondentes àquela taxa constantes das seguintes disposições da mesma Tabela:
 
 a) Verba XL do artigo 4;
 
@@ -128,9 +158,9 @@ j) Alínea b) do artigo 157.
 
 3 - A actualização prevista no número anterior será observada sempre que o imposto correspondente ao papel selado deva ou possa ser pago por meio de estampilha ou selo de verba.
 
-###### Art. 2.º Os artigos 111.º e 248.º-A do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
+Art. 2.º Os artigos 111.º e 248.º-A do Regulamento do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 111.º ...
+Art. 111.º ...
 
 § 1.º O imposto do selo devido pelas letras e livranças, nos termos do artigo 101 da Tabela, poderá ainda ser pago por meio de selo especial nas condições a estabelecer em portaria do Ministro das Finanças e do Plano e mediante autorização a conceder, em cada caso, pelo director-geral das Contribuições e Impostos.
 
@@ -138,7 +168,7 @@ j) Alínea b) do artigo 157.
 
 ...
 
-###### Art. 248.º-A. ...
+Art. 248.º-A. ...
 
 a) Multa de 5% do quantitativo em falta, no mínimo de 50$00, quando a obrigação consistir no pagamento ou entrega do imposto nos cofres do Estado;
 
@@ -146,9 +176,9 @@ b) ...
 
 § único. ...
 
-###### Art. 3.º São aditadas ao n.º 2 do artigo 48 da Tabela Geral do Imposto do Selo as alíneas c) e d), com a seguinte redacção:
+Art. 3.º São aditadas ao n.º 2 do artigo 48 da Tabela Geral do Imposto do Selo as alíneas c) e d), com a seguinte redacção:
 
-###### Art. 48 ...
+Art. 48 ...
 
 1 - ...
 
@@ -160,9 +190,9 @@ c) Os vales-cheques, avisos de pagamento e avisos de transferência emitidos a f
 
 d) Os cheques pagos directamente em numerário a favor de emigrantes.
 
-###### Art. 4.º Os artigos 61-A, 94 e 141 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
+Art. 4.º Os artigos 61-A, 94 e 141 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Art. 61-A. ...
+Art. 61-A. ...
 
 1 - ...
 
@@ -172,7 +202,7 @@ d) Os cheques pagos directamente em numerário a favor de emigrantes.
 
 ...
 
-###### Art. 94 Fiança: quando esta não seja acessória de qualquer contrato especialmente taxado nesta tabela, cada folha - 30$00 (papel selado);
+Art. 94 Fiança: quando esta não seja acessória de qualquer contrato especialmente taxado nesta tabela, cada folha - 30$00 (papel selado);
 
 Acresce sobre o seu valor - 2(por mil) (estampilha ou selo de verba).
 
@@ -180,7 +210,7 @@ Acresce sobre o seu valor - 2(por mil) (estampilha ou selo de verba).
 
 ...
 
-###### Art. 141 ...
+Art. 141 ...
 
 1 - ...
 
@@ -202,7 +232,7 @@ r) As importâncias respeitantes ao imposto de transacções escrituradas nos re
 
 7 - ...
 
-###### Art. 5.º Será pago por meio de verba o imposto do selo devido nos termos das seguintes disposições da Tabela Geral do Imposto do Selo:
+Art. 5.º Será pago por meio de verba o imposto do selo devido nos termos das seguintes disposições da Tabela Geral do Imposto do Selo:
 
 a) Artigos 6, 7, 8, 9 e 9-A;
 
@@ -220,7 +250,7 @@ g) Artigo 139 (segunda taxa);
 
 h) Artigos 155, 169 e 170.
 
-###### Art. 6.º Será pago por meio de estampilha ou selo de verba o imposto devido nos termos das seguintes disposições da Tabela Geral do Imposto do Selo:
+Art. 6.º Será pago por meio de estampilha ou selo de verba o imposto devido nos termos das seguintes disposições da Tabela Geral do Imposto do Selo:
 
 a) Artigos 102 e 119;
 
@@ -232,14 +262,14 @@ d) Artigo 159 (segunda taxa);
 
 e) Artigo 162.
 
-###### Art. 7.º Será pago por meio de papel selado, selo a tinta de óleo ou selo especial o imposto referido no n.º 1, alíneas a) e c), e n.º 2 do artigo 101 da Tabela Geral do Imposto do Selo.
+Art. 7.º Será pago por meio de papel selado, selo a tinta de óleo ou selo especial o imposto referido no n.º 1, alíneas a) e c), e n.º 2 do artigo 101 da Tabela Geral do Imposto do Selo.
 
-###### Art. 8.º As disposições constantes dos artigos 5.º, 6.º e 7.º do presente diploma entrarão em vigor trinta dias após a sua publicação.
+Art. 8.º As disposições constantes dos artigos 5.º, 6.º e 7.º do presente diploma entrarão em vigor trinta dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 6 de Junho de 1980.**
+Promulgado em 6 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

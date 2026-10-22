@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/11/27000/15511560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44720-1962-155458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2e1002c743a9f558f10e636c11b5dbc1e7cb869e59aacb0529fed6b79c10b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3436b56371f47be0f125a9c9a8e8f015608eeab33be1a5b25906070bfd83c353
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Baldio
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Junta de Colonização Interna
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:361296:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:215933:por
+  label: "Aditadas as als. c), d) e e) ao nº 1 do art. 20º pelo DEC LEI.49294.08.10.1969.MECO, DG.IS [236] de 08.10.1969\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49294-1969-215933
+  date: '1969-10-08'
+- type: amended_by
+  target: pt:dre:585845:por
+  label: "Extinta a Junta de Colonização Interna, cujo regime jurídico consta do presente diploma, e determinada a transferência\
+    \ das suas funções e pessoal para o Instituto de Reorganização Agrária, pelo DEC LEI.539/74.12.10.1974.MECO, DG.IS [238-Supl]\
+    \ de 12.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/539-1974-585845
+  date: '1974-10-12'
+- type: cites
+  target: pt:dre:164863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634291:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:361296:por
+  label: "Revogado pelo DEC LEI.482/88.1988.12.26.MAPA DR.IS [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/482-1988-361296
+  date: '1988-12-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:08Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +270,7 @@ Do regime jurídico da colonização interna
 
 1. Fins gerais da colonização Interna
 
-###### Artigo 1.º A colonização interna, como factor de promoção do desenvolvimento económico e do progresso social dos meios rurais, visa os seguintes objectivos fundamentais:
+Artigo 1.º A colonização interna, como factor de promoção do desenvolvimento económico e do progresso social dos meios rurais, visa os seguintes objectivos fundamentais:
 
 1.º Promover, com recurso a adequados meios técnicos e jurídicos, a correcção dos defeitos da estrutura agrária para que a agricultura possa adaptar-se às exigências técnicas do desenvolvimento da economia e corresponder aos imperativos sociais da vida contemporânea;
 
@@ -235,7 +282,7 @@ Do regime jurídico da colonização interna
 
 2. Atribuições da Junta de Colonização Interna em matéria de colonização
 
-###### Art. 2.º Compete, em geral, à Junta de Colonização Interna orientar, estimular e quando necessário promover directamente a realização dos objectivos essenciais da colonização e, em especial:
+Art. 2.º Compete, em geral, à Junta de Colonização Interna orientar, estimular e quando necessário promover directamente a realização dos objectivos essenciais da colonização e, em especial:
 
 a) Efectuar o estudo das possibilidades de colonização dos terrenos pertencentes a autarquias locais, dos que adquirir ou lhe forem entregues pelo Estado, dos beneficiados e a beneficiar pelas obras de fomento hidroagrícola, incluindo nestes os terrenos adjacentes que se considerem necessários à criação de novas explorações agrícolas assentes em superfícies irrigadas e de sequeiro que assegurem um conveniente ordenamento cultural;
 
@@ -251,7 +298,7 @@ e) Estudar, propor e executar as providências adequadas à resolução dos prob
 
 1. Elaboração dos planos gerais de colonização
 
-###### Art. 3.º Na elaboração dos planos gerais de colonização ter-se-á em vista:
+Art. 3.º Na elaboração dos planos gerais de colonização ter-se-á em vista:
 
 a) Valorizar a terra e aperfeiçoar o trabalho agrícola mediante operações de parcelamento e emparcelamento e obras de melhoramento fundiário que se mostrem necessárias;
 
@@ -263,7 +310,7 @@ d) Promover a difusão da propriedade agrícola familiar;
 
 e)Estudar a rede de comunicações mais conveniente à valorização dos meios rurais abrangidos e ao escoamento dos respectivos produtos.
 
-###### Art. 4.º Do plano geral de colonização referente a cada perímetro, além de outros elementos que se julguem necessários, constarão ainda:
+Art. 4.º Do plano geral de colonização referente a cada perímetro, além de outros elementos que se julguem necessários, constarão ainda:
 
 a) O estudo pormenorizado da situação económica e social do perímetro e à exposição das soluções gerais a adoptar com vista à sua valorização;
 
@@ -273,25 +320,25 @@ c) A estimativa do custo total dos empreendimentos e os respectivos planos de fi
 
 d) A previsão dos resultados de carácter económico e financeiro e, se possível, de ordem social da execução do plano.
 
-###### Art. 5.º - 1. Os planos gerais de colonização serão elaborados em estreita, colaboração com os serviços competentes dos vários Ministérios, competindo aos serviços de planeamento regional, logo que sejam criados, fixar as directrizes a observar na elaboração dos referidos planos, bem como acompanhar a sua execução.
+Art. 5.º - 1. Os planos gerais de colonização serão elaborados em estreita, colaboração com os serviços competentes dos vários Ministérios, competindo aos serviços de planeamento regional, logo que sejam criados, fixar as directrizes a observar na elaboração dos referidos planos, bem como acompanhar a sua execução.
 
 2. A Secretaria de Estado da Agricultura promoverá que sejam designados os funcionários dos diversos Ministérios cuja colaboração seja necessária e deva ser prestada por técnicos especializados.
 
 2. Aprovação dos planos gerais
 
-###### Art. 6.º - 1. Os planos gerais de colonização serão sujeitos à aprovação do Conselho de Ministros, podendo o Presidente do Conselho, quando a importância do empreendimento o justifique, mandar submetê-los a parecer da Câmara Corporativa.
+Art. 6.º - 1. Os planos gerais de colonização serão sujeitos à aprovação do Conselho de Ministros, podendo o Presidente do Conselho, quando a importância do empreendimento o justifique, mandar submetê-los a parecer da Câmara Corporativa.
 
 2. Se a Câmara Corporativa não for ouvida, serão chamados a dar o seu parecer sobre o plano os grémios da lavoura e as Casas do Povo com acção nas zonas que o plano abranger.
 
 3. Efeitos jurídicos da aprovação dos planos
 
-###### Art. 7.º - 1. Publicada no Diário do Governo a aprovação dos planos gerais de colonização, serão jurìdicamente ineficazes os actos entre vivos posteriormente realizados, susceptíveis de prejudicar a sua execução, salvo se a Junta de Colonização Interna reconhecer que não afectam a, execução dos projectos de colonização.
+Art. 7.º - 1. Publicada no Diário do Governo a aprovação dos planos gerais de colonização, serão jurìdicamente ineficazes os actos entre vivos posteriormente realizados, susceptíveis de prejudicar a sua execução, salvo se a Junta de Colonização Interna reconhecer que não afectam a, execução dos projectos de colonização.
 
 2. A ineficácia cessa logo que em face dos projectos de colonização correspondentes ao plano aprovado se mostre não existir o prejuízo que a determina.
 
 4. Projectos de colonização
 
-###### Art. 8.º - 1. Aprovados os planos gerais, proceder-se-á à elaboração dos respectivos projectos de colonização, com observância do que se dispõe no artigo 5.º em relação à elaboração dos planos.
+Art. 8.º - 1. Aprovados os planos gerais, proceder-se-á à elaboração dos respectivos projectos de colonização, com observância do que se dispõe no artigo 5.º em relação à elaboração dos planos.
 
 2. Independentemente da referência aos elementos cuja menção vier a ser determinada em regulamento, do projecto de colonização constará:
 
@@ -319,13 +366,13 @@ l) A indicação dos terrenos, edifícios e quaisquer direitos a expropriar, nos
 
 5. Aprovação dos projectos
 
-###### Art. 9.º Os projectos de colonização serão submetidos à aprovação do Conselho de Ministros, devendo a respectiva execução ser ordenada por despacho a publicar no Diário do Governo.
+Art. 9.º Os projectos de colonização serão submetidos à aprovação do Conselho de Ministros, devendo a respectiva execução ser ordenada por despacho a publicar no Diário do Governo.
 
 ### CAPÍTULO III — Execução dos projectos
 
 1. Reserva de terras e expropriação
 
-###### Art. 10.º - 1. Os terrenos, edifícios e quaisquer direitos a eles inerentes poderão ser expropriados por utilidade pública urgente, sem dependência de qualquer outra formalidade, mas sòmente na medida em que o exija a execução dos projectos de colonização e sem prejuízo do disposto no número imediato.
+Art. 10.º - 1. Os terrenos, edifícios e quaisquer direitos a eles inerentes poderão ser expropriados por utilidade pública urgente, sem dependência de qualquer outra formalidade, mas sòmente na medida em que o exija a execução dos projectos de colonização e sem prejuízo do disposto no número imediato.
 
 2. Para os efeitos da alínea a) do artigo 12.º não poderão, no entanto, ser expropriados:
 
@@ -347,11 +394,11 @@ d) Os terrenos, situados nos perímetros de colonização não dominados pelas o
 
 2. Assistência técnica e financeira
 
-###### Art. 11.º - 1. A Junta de Colonização Interna prestará aos proprietários interessados a assistência técnica necessária ao racional parcelamento das suas terras, constituição de explorações agrícolas e elaboração dos contratos de arrendamento ou parceria que estes se proponham fazer nos termos previstos nas alíneas b) e c) do n.º 2 do artigo 10.º, bem como a possível assistência financeira para instalação e equipamento das referidas explorações nos termos da Lei dos Melhoramentos Agrícolas e por força das verbas previstas para execução dos projectos.
+Art. 11.º - 1. A Junta de Colonização Interna prestará aos proprietários interessados a assistência técnica necessária ao racional parcelamento das suas terras, constituição de explorações agrícolas e elaboração dos contratos de arrendamento ou parceria que estes se proponham fazer nos termos previstos nas alíneas b) e c) do n.º 2 do artigo 10.º, bem como a possível assistência financeira para instalação e equipamento das referidas explorações nos termos da Lei dos Melhoramentos Agrícolas e por força das verbas previstas para execução dos projectos.
 
 2. A Junta de Colonização Interna poderá prestar assistência financeira aos compradores ou foreiros das parcelas referidas na alínea c) do n.º 2 do artigo 10.º, quer para a compra das parcelas, quer para a instalação e apetrechamento das explorações criadas, bem como a necessária assistência técnica.
 
-###### Art. 12.º Os terrenos pertencentes ao Estado ou às autarquias locais e os obtidos por compra ou expropriação, situados nos perímetros a colonizar, podem ser destinados:
+Art. 12.º Os terrenos pertencentes ao Estado ou às autarquias locais e os obtidos por compra ou expropriação, situados nos perímetros a colonizar, podem ser destinados:
 
 a) À instalação de casais agrícolas que constituam unidades económicas viáveis;
 
@@ -359,11 +406,11 @@ b) À constituição de glebas, com casa de habitação ou sem ela, subsidiária
 
 c) A atribuição as autarquias locais e às Casas do Povo e suas federações ou para fins de carácter cultural, espiritual, social, económico e desportivo.
 
-###### Art. 13.º - 1. Para a instalação de casais agrícolas, a Junta de Colonização Interna realizará as obras de melhoramento fundiário e as construções indispensáveis à mais económica e eficiente exploração dos terrenos que os constituem, promovendo em cada perímetro a construção dos edifícios necessários à instalação de serviços de assistência técnica, assistência médico-social, escolas e outros melhoramentos indispensáveis ao bem-estar social e espiritual e ao progresso económico dos novos núcleos populacionais.
+Art. 13.º - 1. Para a instalação de casais agrícolas, a Junta de Colonização Interna realizará as obras de melhoramento fundiário e as construções indispensáveis à mais económica e eficiente exploração dos terrenos que os constituem, promovendo em cada perímetro a construção dos edifícios necessários à instalação de serviços de assistência técnica, assistência médico-social, escolas e outros melhoramentos indispensáveis ao bem-estar social e espiritual e ao progresso económico dos novos núcleos populacionais.
 
 2. Os serviços de assistência técnica deverão manter explorações-piloto instaladas em casais agrícolas.
 
-###### Art. 14.º - 1. As obras de interesse geral serão, conforme os casos, inteiramente custeadas ou simplesmente comparticipadas pelo Estado.
+Art. 14.º - 1. As obras de interesse geral serão, conforme os casos, inteiramente custeadas ou simplesmente comparticipadas pelo Estado.
 
 2. Sempre que os projectos de colonização incidam sobre terrenos pertencentes às autarquias locais, comparticiparão elas no custo das obras de interesse geral, até ao limite de 50 por cento desse custo. Esta comparticipação será deduzida ao valor dos terrenos, ficando as autarquias com o direito de cobrar dos colonos ou glebeiros a parte excedente, que será paga em prestações que se consideram vencidas nas datas em que a Junta de Colonização Interna fizer ao Tesouro as entregas referidas no artigo 72.º do [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948.
 
@@ -375,11 +422,11 @@ c) A atribuição as autarquias locais e às Casas do Povo e suas federações o
 
 O valor do rendimento será determinado multiplicando o rendimento líquido anual pelo factor que, ao tempo, tiver sido fixado pelo Secretário de Estado da Agricultura, mediante proposta da Junta de Colonização Interna.
 
-###### Art. 15.º - 1. Os terrenos necessários à construção de edifícios de interesse para a vida dos aldeamentos instalados pela Junta de Colonização Interna, e cuja construção não constitua encargo do Estado, serão vendidos mediante proposta em carta fechada, com prévia fixação das condições de licitação por despacho do Secretário de Estado da Agricultura.
+Art. 15.º - 1. Os terrenos necessários à construção de edifícios de interesse para a vida dos aldeamentos instalados pela Junta de Colonização Interna, e cuja construção não constitua encargo do Estado, serão vendidos mediante proposta em carta fechada, com prévia fixação das condições de licitação por despacho do Secretário de Estado da Agricultura.
 
 2. O Secretário de Estado da Agricultura pode autorizar a cedência gratuita dos terrenos indispensáveis à construção de edifícios destinados à instalação de cooperativas com sede nos aldeamentos.
 
-###### Art. 16.º As vendas ou cedências gratuitas referidas no artigo anterior poderão ser declaradas nulas e de nenhum efeito, por despacho do Secretário de Estado da Agricultura, regressando os terrenos à posse da Junta de Colonização Interna no estado em que se encontrarem, nos casos previstos nos respectivos contratos e designadamente:
+Art. 16.º As vendas ou cedências gratuitas referidas no artigo anterior poderão ser declaradas nulas e de nenhum efeito, por despacho do Secretário de Estado da Agricultura, regressando os terrenos à posse da Junta de Colonização Interna no estado em que se encontrarem, nos casos previstos nos respectivos contratos e designadamente:
 
 1.º Se na construção do edifício não for observado o projecto aprovado pela Junta de Colonização Interna;
 
@@ -387,7 +434,7 @@ O valor do rendimento será determinado multiplicando o rendimento líquido anua
 
 3. Indivisibilidade das unidades de exploração agrícola
 
-###### Art. 17.º - 1. Sem prejuízo do disposto na lei quanto a casais agrícolas e quanto a unidades de cultura, a divisão em substância, entre vivos ou por morte, de qualquer prédio rústico ou exploração agrícola situados nos perímetros de colonização só poderá realizar-se, seja qual for o número ou a área dos prédios que constituam a exploração, quando a Junta de Colonização Interna emitir, a pedido de qualquer interessado, parecer favorável à divisão pretendida.
+Art. 17.º - 1. Sem prejuízo do disposto na lei quanto a casais agrícolas e quanto a unidades de cultura, a divisão em substância, entre vivos ou por morte, de qualquer prédio rústico ou exploração agrícola situados nos perímetros de colonização só poderá realizar-se, seja qual for o número ou a área dos prédios que constituam a exploração, quando a Junta de Colonização Interna emitir, a pedido de qualquer interessado, parecer favorável à divisão pretendida.
 
 2. Se a Junta de Colonização Interna recusar parecer favorável à divisão, observar-se-á o seguinte:
 
@@ -399,13 +446,13 @@ b) Não conseguindo os interessados acordar-se quanto adjudicação, proceder-se
 
 ### CAPÍTULO IV — Fundo de Fomento de Cooperação
 
-###### Art. 18.º É criado um Fundo de Fomento de Cooperação, do montante de 20000 contos, constituído por força de dotações orçamentais de 2000 contos que, a partir de 1963 e até sua integral realização, serão anualmente inscritas no orçamento da Secretaria de Estado da Agricultura, sob a rubrica «Dotações para constituir o Fundo de Fomento de Cooperação».
+Art. 18.º É criado um Fundo de Fomento de Cooperação, do montante de 20000 contos, constituído por força de dotações orçamentais de 2000 contos que, a partir de 1963 e até sua integral realização, serão anualmente inscritas no orçamento da Secretaria de Estado da Agricultura, sob a rubrica «Dotações para constituir o Fundo de Fomento de Cooperação».
 
-###### Art. 19.º - 1. O Fundo de Fomento de Cooperação gozará de autonomia administrativa e financeira, terá escrita própria das suas receitas e despesas e será gerido pelo conselho administrativo da Junta de Colonização Interna, que o destinará, exclusivamente, à concessão de créditos para instalação e funcionamento de cooperativas.
+Art. 19.º - 1. O Fundo de Fomento de Cooperação gozará de autonomia administrativa e financeira, terá escrita própria das suas receitas e despesas e será gerido pelo conselho administrativo da Junta de Colonização Interna, que o destinará, exclusivamente, à concessão de créditos para instalação e funcionamento de cooperativas.
 
 2. A concessão de créditos será aprovada pelo Secretário de Estado da Agricultura sob proposta do conselho administrativo da Junta de Colonização Interna precedida de parecer da Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 20.º - 1. Constituem receitas do Fundo de Fomento de Cooperação:
+Art. 20.º - 1. Constituem receitas do Fundo de Fomento de Cooperação:
 
 a) Às dotações orçamentais a ele consignadas;
 
@@ -413,23 +460,23 @@ b) As importâncias que a Junta de Colonização Interna arrecadar, provenientes
 
 2. As dotações inscritas no orçamento para constituir o Fundo de Fomento de Cooperação são aplicáveis as disposições contidas nos artigos 26.º e 27.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-###### Art. 21.º Os empréstimos vencem o juro previsto na Lei dos Melhoramentos Agrícolas e os respectivos contratos serão celebrados nas condições e com as cláusulas aprovadas pelo Secretário de Estado da Agricultura, mediante proposta do conselho administrativo da Junta de Colonização Interna.
+Art. 21.º Os empréstimos vencem o juro previsto na Lei dos Melhoramentos Agrícolas e os respectivos contratos serão celebrados nas condições e com as cláusulas aprovadas pelo Secretário de Estado da Agricultura, mediante proposta do conselho administrativo da Junta de Colonização Interna.
 
 ### CAPÍTULO V — Centros de preparação de colonos
 
-###### Art. 22.º A Junta de Colonização Interna instalará, em colaboração com as Casas do Povo, centros de preparação de colonos, onde deverão permanecer, pelo período de tempo julgado indispensável para uma satisfatória preparação, os candidatos a colonos, bem como os membros da família que com eles coabitem.
+Art. 22.º A Junta de Colonização Interna instalará, em colaboração com as Casas do Povo, centros de preparação de colonos, onde deverão permanecer, pelo período de tempo julgado indispensável para uma satisfatória preparação, os candidatos a colonos, bem como os membros da família que com eles coabitem.
 
-###### Art. 23.º Os programas da instrução a ministrar aos candidatos a colonos, bem como o regime em que deverão permanecer nos centros de preparação de colonos, constarão de regulamento a publicar em portaria pelo Secretário de Estado da Agricultura.
+Art. 23.º Os programas da instrução a ministrar aos candidatos a colonos, bem como o regime em que deverão permanecer nos centros de preparação de colonos, constarão de regulamento a publicar em portaria pelo Secretário de Estado da Agricultura.
 
-###### Art. 24.º O Secretário de Estado da Agricultura fica autorizado, mediante proposta da Junta de Colonização Interna, a subsidiar as Casas do Povo e as instituições particulares que se dediquem à preparação e educação profissional de rurais e que com ela possam colaborar na preparação de colonos.
+Art. 24.º O Secretário de Estado da Agricultura fica autorizado, mediante proposta da Junta de Colonização Interna, a subsidiar as Casas do Povo e as instituições particulares que se dediquem à preparação e educação profissional de rurais e que com ela possam colaborar na preparação de colonos.
 
-###### Art. 25.º Os encargos com a instalação e funcionamento dos centros de preparação de colonos, bem como os de concessão de subsídios a instituições particulares que se dediquem à educação profissional de rurais, serão custeados por força de dotações orçamentais da Secretaria de Estado da Agricultura e ainda por força das verbas que, para o efeito, forem concedidas por serviços dependentes de outros Ministérios e por organismos de coordenação económica e corporativos.
+Art. 25.º Os encargos com a instalação e funcionamento dos centros de preparação de colonos, bem como os de concessão de subsídios a instituições particulares que se dediquem à educação profissional de rurais, serão custeados por força de dotações orçamentais da Secretaria de Estado da Agricultura e ainda por força das verbas que, para o efeito, forem concedidas por serviços dependentes de outros Ministérios e por organismos de coordenação económica e corporativos.
 
 ### CAPÍTULO VI — Glebas e casais agrícolas
 
-###### Art. 26.º O Secretário de Estado da Agricultura fixará para cada caso, mediante proposta da Junta de Colonização Interna, as regras a observar na distribuição de glebas sem casa, competindo-lhe ainda concede-las em fruição definitiva, por alvará de que constará a identificação da gleba, servidões activas e passivas, preço, prazo de amortização e demais condições da concessão.
+Art. 26.º O Secretário de Estado da Agricultura fixará para cada caso, mediante proposta da Junta de Colonização Interna, as regras a observar na distribuição de glebas sem casa, competindo-lhe ainda concede-las em fruição definitiva, por alvará de que constará a identificação da gleba, servidões activas e passivas, preço, prazo de amortização e demais condições da concessão.
 
-###### Art. 27.º - 1. A fruição definitiva das glebas sem casa poderá ser rescindida pelo Secretário de Estado da Agricultura, mediante proposta da Junta de Colonização Interna, nos casos seguintes:
+Art. 27.º - 1. A fruição definitiva das glebas sem casa poderá ser rescindida pelo Secretário de Estado da Agricultura, mediante proposta da Junta de Colonização Interna, nos casos seguintes:
 
 a) Condenação definitiva do concessionário por crime punível com pena maior;
 
@@ -439,13 +486,13 @@ c) Abandono da gleba ou incúria manifesta e prolongada na sua exploração.
 
 2. Em caso de rescisão, são aplicáveis as disposições do artigo 44.º do [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948.
 
-###### Art. 28.º O casal agrícola constitui uma unidade econòmicamente viável, de tipo familiar, indivisível, inalienável e impenhorável, salvas as excepções expressamente consignadas na lei.
+Art. 28.º O casal agrícola constitui uma unidade econòmicamente viável, de tipo familiar, indivisível, inalienável e impenhorável, salvas as excepções expressamente consignadas na lei.
 
-###### Art. 29.º Os artigos 22.º a 24.º, 34.º, 39.º, 42.º a 44.º, 62.º, 66.º, 67.º, 70.º, 72.º, 78.º, 80.º, 81.º e 84.º a 87.º do [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948, passam a ter a seguinte redacção:
+Art. 29.º Os artigos 22.º a 24.º, 34.º, 39.º, 42.º a 44.º, 62.º, 66.º, 67.º, 70.º, 72.º, 78.º, 80.º, 81.º e 84.º a 87.º do [Decreto n.º 36709](https://diariodarepublica.pt/dr/detalhe/decreto/36709-1948-242001), de 5 de Janeiro de 1948, passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 22.º São condições necessárias para obter a concessão de um casal agrícola:
+Art. 22.º São condições necessárias para obter a concessão de um casal agrícola:
 
 a) Ser chefe de família, do sexo masculino;
 
@@ -455,7 +502,7 @@ c) Reunir as condições de aptidão e idoneidade consideradas necessárias;
 
 d) Não ser titular de outro casal agrícola.
 
-###### Art. 23.º Constituem indistintamente motivos de preferência para a concessão de casais agrícolas:
+Art. 23.º Constituem indistintamente motivos de preferência para a concessão de casais agrícolas:
 
 a) Ter servido nas forças armadas durante mais tempo e com bom comportamento militar;
 
@@ -471,7 +518,7 @@ f) Ter concluído com bom aproveitamento os cursos de preparação de colonos.
 
 § único. Poderão obter a concessão de um casal de família, independentemente do limite de idade a que se refere o artigo anterior e beneficiando da preferência aí reconhecida, os filhos dos colonos cujos casais estejam em fruição definitiva e os arrendatários e parceiros de prédios adquiridos pela Junta de Colonização Interna.
 
-###### Art. 24.º Os pretendentes à concessão de casais agrícolas devem solicitar a sua inscrição em pedido dirigido e enviado à Junta de Colonização Interna, de que constarão os seguintes elementos:
+Art. 24.º Os pretendentes à concessão de casais agrícolas devem solicitar a sua inscrição em pedido dirigido e enviado à Junta de Colonização Interna, de que constarão os seguintes elementos:
 
 a) Nome, filiação, naturalidade, estado e residência do interessado;
 
@@ -493,11 +540,11 @@ h) Quaisquer outros elementos que devam ser considerados para admissão do inter
 
 ...
 
-###### Art. 34.º A fruição provisória do casal caduca pelo falecimento do colono, salvo se a viúva e descendentes que com ele coabitem reunirem condições que assegurem a normal exploração do casal.
+Art. 34.º A fruição provisória do casal caduca pelo falecimento do colono, salvo se a viúva e descendentes que com ele coabitem reunirem condições que assegurem a normal exploração do casal.
 
 ...
 
-###### Art. 39.º O preço do casal será fixado pela Junta de Colonização Interna, ouvido o colono, com base no valor das terras que o constituírem, acrescido do custo das edificações e mais melhoramentos nelas realizados, bem como, na proporção que lhe competir, o custo das obras de vedação, acesso, irrigação ou outras que, embora comuns a vários colonos ou proprietários, interessem ao casal.
+Art. 39.º O preço do casal será fixado pela Junta de Colonização Interna, ouvido o colono, com base no valor das terras que o constituírem, acrescido do custo das edificações e mais melhoramentos nelas realizados, bem como, na proporção que lhe competir, o custo das obras de vedação, acesso, irrigação ou outras que, embora comuns a vários colonos ou proprietários, interessem ao casal.
 
 § 1.º Ao custo das obras será deduzido o montante das comparticipações que, para a sua realização, tiverem sido concedidas pelo Estado.
 
@@ -505,13 +552,13 @@ h) Quaisquer outros elementos que devam ser considerados para admissão do inter
 
 ...
 
-###### Art. 42.º O Secretário de Estado da Agricultura poderá rescindir a adjudicação do casal, mediante proposta da Junta de Colonização Interna ou a requerimento do colono ou dos seus herdeiros.
+Art. 42.º O Secretário de Estado da Agricultura poderá rescindir a adjudicação do casal, mediante proposta da Junta de Colonização Interna ou a requerimento do colono ou dos seus herdeiros.
 
 § 1.º Do despacho da rescisão não há recurso e, no caso de o colono não abandonar o casal no prazo de 30 dias, a contar da data em que dela for notificado, a Junta de Colonização Interna poderá promover o seu despejo, por intermédio da autoridade policial do respectivo concelho.
 
 § 2.º A doutrina do parágrafo anterior é aplicável também nos casos de cessação da fruição provisória do casal.
 
-###### Art. 43.º A proposta da Junta de Colonização Interna, para os efeitos do artigo 42.º, só poderá basear-se nalguma das circunstâncias seguintes:
+Art. 43.º A proposta da Junta de Colonização Interna, para os efeitos do artigo 42.º, só poderá basear-se nalguma das circunstâncias seguintes:
 
 a) Condenação definitiva do colono por crime punível com pena maior;
 
@@ -529,7 +576,7 @@ f) Mau comportamento do colono ou de seus familiares, com ofensa dos bons costum
 
 § 2.º Nos casos previstos na alínea f) a proposta da Junta de Colonização Interna tem de ser fundamentada nas conclusões de inquérito que ordenará, sob proposta dos serviços de assistência social do respectivo aldeamento.
 
-###### Art. 44.º Em caso de rescisão, o colono ou os seus herdeiros tem sempre direito a ser indemnizados do valor das benfeitorias úteis que tiverem realizado e não afectem a substância do prédio ou o seu destino económico.
+Art. 44.º Em caso de rescisão, o colono ou os seus herdeiros tem sempre direito a ser indemnizados do valor das benfeitorias úteis que tiverem realizado e não afectem a substância do prédio ou o seu destino económico.
 
 § 1.º O valor das benfeitorias é calculado pelo custo delas, se não exceder o valor do benefício à data da rescisão. No caso contrário não poderá o colono haver mais do que esse valor.
 
@@ -537,19 +584,19 @@ f) Mau comportamento do colono ou de seus familiares, com ofensa dos bons costum
 
 ...
 
-###### Art. 62.º O colono é obrigado à cumprir as determinações constantes do presente diploma, a dedicar-se à exploração do casal com a diligência e cuidado de um bom agricultor e a realizar, dentro dos prazos fixados pelos serviços de assistência técnica, os tratamentos profilácticos de plantas e animais.
+Art. 62.º O colono é obrigado à cumprir as determinações constantes do presente diploma, a dedicar-se à exploração do casal com a diligência e cuidado de um bom agricultor e a realizar, dentro dos prazos fixados pelos serviços de assistência técnica, os tratamentos profilácticos de plantas e animais.
 
 § único. Quando qualquer colono deixe de executar nos prazos fixados os tratamentos profilácticos que lhe forem determinados, deverão os serviços de assistência técnica do respectivo aldeamento promover a sua realização e debitar o colono pelo encargo respectivo, acrescido de 25 por cento, que constituirão receita da entidade que executar os tratamentos.
 
 ...
 
-###### Art. 66.º A Junta de Colonização Interna facultará aos colonos, por empréstimo, o capital indispensável à exploração dos respectivos casais, podendo reforçá-lo, designadamente quando necessário à realização de melhoramentos fundiários.
+Art. 66.º A Junta de Colonização Interna facultará aos colonos, por empréstimo, o capital indispensável à exploração dos respectivos casais, podendo reforçá-lo, designadamente quando necessário à realização de melhoramentos fundiários.
 
-###### Art. 67.º Os gados, alfaias e mobílias constituirão garantia especial do empréstimo, ficando o colono seu fiel depositário e não podendo dispor deles sem prévia autorização da Junta de Colonização Interna.
+Art. 67.º Os gados, alfaias e mobílias constituirão garantia especial do empréstimo, ficando o colono seu fiel depositário e não podendo dispor deles sem prévia autorização da Junta de Colonização Interna.
 
 ...
 
-###### Art. 70.º O preço do casal, acrescido da importância do empréstimo a que se refere o artigo 66.º, será pago em 30 prestações anuais sem juro, a partir do ano imediato àquele em que tiver sido concedida a fruição definitiva.
+Art. 70.º O preço do casal, acrescido da importância do empréstimo a que se refere o artigo 66.º, será pago em 30 prestações anuais sem juro, a partir do ano imediato àquele em que tiver sido concedida a fruição definitiva.
 
 § 1.º O Secretário de Estado da Agricultura poderá, mediante proposta da Junta de Colonização Interna, dividir a importância a amortizar em duas outras fracções e fixar o período em que cada uma dessas fracções deverá ser amortizada.
 
@@ -557,11 +604,11 @@ f) Mau comportamento do colono ou de seus familiares, com ofensa dos bons costum
 
 ...
 
-###### Art. 72.º As prestações devidas pelo preço do casal e pelos empréstimos efectuados serão depositadas nas delegações da Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Junta de Colonização Interna, que as entregará ao Tesouro.
+Art. 72.º As prestações devidas pelo preço do casal e pelos empréstimos efectuados serão depositadas nas delegações da Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Junta de Colonização Interna, que as entregará ao Tesouro.
 
 ...
 
-###### Art. 78.º Além de casais agrícolas, a Junta de Colonização Interna pode constituir glebas destinadas:
+Art. 78.º Além de casais agrícolas, a Junta de Colonização Interna pode constituir glebas destinadas:
 
 a) A completar propriedades existentes, de forma a constituírem unidades econòmicamente viáveis;
 
@@ -571,32 +618,32 @@ c) A servir de complemento do salário agrícola.
 
 ...
 
-###### Art. 80.º As glebas sem casa, ressalvada autorização por escrito da Junta de Colonização Interna, são inalienáveis e impenhoráveis enquanto não estiver decorrido o prazo de amortização.
+Art. 80.º As glebas sem casa, ressalvada autorização por escrito da Junta de Colonização Interna, são inalienáveis e impenhoráveis enquanto não estiver decorrido o prazo de amortização.
 
 § único. O preço das glebas deverá ser pago em prestações anuais não superiores a 30, em que se incluirão juros da taxa de 2 por cento, nas delegações da Caixa Geral de Depósitos, Crédito e Previdência da sede dos respectivos concelhos, mediante guia passada pela Junta de Colonização Interna.
 
-###### Art. 81.º Nos terrenos cuja divisão não seja de aconselhar, a Junta de Colonização Interna estabelecerá o regime de logradouro comum, destinando-os à cultura ou apascentação de gado no interesse dos moradores mais necessitados.
+Art. 81.º Nos terrenos cuja divisão não seja de aconselhar, a Junta de Colonização Interna estabelecerá o regime de logradouro comum, destinando-os à cultura ou apascentação de gado no interesse dos moradores mais necessitados.
 
 § único. Quando houver que realizar despesas na adaptação a logradouro comum, estas serão amortizadas juntamente com o preço dos terrenos no prazo máximo de 30 anos, em prestações a que se adicionará o montante de juros à taxa de 2 por cento.
 
 ...
 
-###### Art. 84.º Os terrenos que não forem divididos nem submetidos ao regime de logradouro comum podem ser atribuídos às autarquias locais, às Casas do Povo e suas federações, ou destinados a fins de carácter cultural, espiritual, social, económico e desportivo nas condições que forem fixadas por despacho do Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna.
+Art. 84.º Os terrenos que não forem divididos nem submetidos ao regime de logradouro comum podem ser atribuídos às autarquias locais, às Casas do Povo e suas federações, ou destinados a fins de carácter cultural, espiritual, social, económico e desportivo nas condições que forem fixadas por despacho do Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna.
 
-###### Art. 85.º A atribuição dos terrenos referidos no artigo anterior será feita por alvará do Secretário de Estado da Agricultura, devendo dele constar as respectivas delimitações.
+Art. 85.º A atribuição dos terrenos referidos no artigo anterior será feita por alvará do Secretário de Estado da Agricultura, devendo dele constar as respectivas delimitações.
 
-###### Art. 86.º Do alvará referido no artigo anterior constará, também, o programa de realizações a executar obrigatòriamente no prazo de cinco anos.
+Art. 86.º Do alvará referido no artigo anterior constará, também, o programa de realizações a executar obrigatòriamente no prazo de cinco anos.
 
-###### Art. 87.º Os terrenos ficarão pertencendo às entidades a que forem atribuídos quando derem cumprimento às obrigações referidas no artigo anterior. No caso contrário ser-lhes-á dado o destino que o Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna, julgar mais conveniente.
+Art. 87.º Os terrenos ficarão pertencendo às entidades a que forem atribuídos quando derem cumprimento às obrigações referidas no artigo anterior. No caso contrário ser-lhes-á dado o destino que o Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna, julgar mais conveniente.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 30.º São extensivas às vias de comunicação construídas pela Junta de Colonização Interna as medidas de protecção e defesa estabelecidas na lei para as estradas municipais, competindo a sua fiscalização à mesma Junta.
+Art. 30.º São extensivas às vias de comunicação construídas pela Junta de Colonização Interna as medidas de protecção e defesa estabelecidas na lei para as estradas municipais, competindo a sua fiscalização à mesma Junta.
 
-###### Art. 31.º A Junta de Colonização Interna poderá publicar os regulamentos de polícia que se tornarem necessários à defesa, conservação e conveniente exploração das propriedades na sua posse e dos aldeamentos instalados ou em instalação.
+Art. 31.º A Junta de Colonização Interna poderá publicar os regulamentos de polícia que se tornarem necessários à defesa, conservação e conveniente exploração das propriedades na sua posse e dos aldeamentos instalados ou em instalação.
 
-###### Art. 32.º Ficam revogados a [Lei n.º 2072](https://diariodarepublica.pt/dr/detalhe/lei/2072-1954-634291), de 18 de Junho de 1954, com excepção dos seus artigos 10.º, 11.º e 24.º, e o Decreto-Lei nº 41459, de 20 de Dezembro de 1957.
+Art. 32.º Ficam revogados a [Lei n.º 2072](https://diariodarepublica.pt/dr/detalhe/lei/2072-1954-634291), de 18 de Junho de 1954, com excepção dos seus artigos 10.º, 11.º e 24.º, e o Decreto-Lei nº 41459, de 20 de Dezembro de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

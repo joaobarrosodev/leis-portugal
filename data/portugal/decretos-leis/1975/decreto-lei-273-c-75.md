@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 127/1975, 1º Suplemento, Série I de 1975-06-03
   number: '127'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 770-(5) a 770-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/12701/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-c-1975-626601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6f91372cb38b697133abfac8322f9f9cdf7c85834957d0f87d184a166b3e14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f6cda275fb63e3a935fe977353bdbaed8810f9431d8ed09c7283bed7eb46ac3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Casa Degradada
+- Expropriação
+- Indemnização
+- Prédio Rústico
+- Prédio Urbano
+- Secretário de Estado da Habitação e Urbanismo
+- Utilidade Pública
+- ZONA Degradada
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:05Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +136,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O valor dos prédios a expropriar por utilidade pública em zonas consideradas degradadas será fixado por portaria conjunta do Secretário de Estado da Habitação e Urbanismo e do Secretário de Estado das Finanças.
+Artigo 1.º - 1. O valor dos prédios a expropriar por utilidade pública em zonas consideradas degradadas será fixado por portaria conjunta do Secretário de Estado da Habitação e Urbanismo e do Secretário de Estado das Finanças.
 
 2. Na fixação dos valores de indemnização de terrenos com edificações ter-se-á essencialmente em consideração:
 
@@ -128,28 +150,28 @@ c) O dispêndio a realizar na recuperação das edificações para condições n
 
 4. Os terrenos ocupados por barracas ou «bairros de lata» serão avaliados nos termos do número anterior.
 
-###### Art. 2.º - 1. São consideradas zonas degradadas, por iniciativa das autarquias locais ou ouvidas estas, para os efeitos deste diploma, aquelas que, não apresentando condições normais de habitabilidade, assim forem declaradas por portaria do Secretário de Estado da Habitação e Urbanismo, nomeadamente os «bairros de lata» e «ilhas».
+Art. 2.º - 1. São consideradas zonas degradadas, por iniciativa das autarquias locais ou ouvidas estas, para os efeitos deste diploma, aquelas que, não apresentando condições normais de habitabilidade, assim forem declaradas por portaria do Secretário de Estado da Habitação e Urbanismo, nomeadamente os «bairros de lata» e «ilhas».
 
 2. Entender-se-á que a autarquia local ouvida se pronuncia no sentido de considerar degradada a zona a que respeitar a consulta quando nada disser no prazo de doze dias.
 
-###### Art. 3.º - 1. Declarada a utilidade pública dos prédios, as autarquias locais poderão tomar imediatamente posse administrativa dos mesmos, com a presença ao acto do expropriado ou um seu representante, consignando-se no auto de posse a área expropriada.
+Art. 3.º - 1. Declarada a utilidade pública dos prédios, as autarquias locais poderão tomar imediatamente posse administrativa dos mesmos, com a presença ao acto do expropriado ou um seu representante, consignando-se no auto de posse a área expropriada.
 
 2. No caso de o expropriado não comparecer ao acto nem nomear representante, este será indicado pelo tribunal da comarca respectiva, no prazo de três dias.
 
-###### Art. 4.º - 1. Havendo divergências quanto à área expropriada, o expropriado reclamará no próprio auto e instruirá a sua reclamação com provas, no prazo de cinco dias.
+Art. 4.º - 1. Havendo divergências quanto à área expropriada, o expropriado reclamará no próprio auto e instruirá a sua reclamação com provas, no prazo de cinco dias.
 
 2. Nos cinco dias imediatos à apresentação das provas, a entidade expropriante decidirá a reclamação.
 
 3. Da decisão poderá recorrer o expropriado, no prazo de cinco dias, para o Secretário de Estado da Habitação e Urbanismo.
 
-###### Art. 5.º Decorridos cinco dias sobre o auto de posse administrativa ou da decisão definitiva da reclamação, opera-se a transmissão definitiva da propriedade para a entidade expropriante.
+Art. 5.º Decorridos cinco dias sobre o auto de posse administrativa ou da decisão definitiva da reclamação, opera-se a transmissão definitiva da propriedade para a entidade expropriante.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - José Joaquim Fragoso - José Augusto Fernandes.
 
-**Promulgado em 30 de Maio de 1975.**
+Promulgado em 30 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

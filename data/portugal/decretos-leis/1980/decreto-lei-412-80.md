@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1980-461650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac1950e4683a8466d329d811114dc7fba73bae46ca057572846ba78f1eeb57b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a1d8489a6440a02a6755ba993f3f07a3dfc5faba26c65b747bd90b3c55700f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Gestão Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:544667:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:569099:por
+  label: "Alterados os nºs. 1 e 2 do art. 18º pelo DEC LEI.301/81.06.11.1981.MJ, DR.IS [256] de 06.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1981-569099
+  date: '1981-11-06'
+- type: amended_by
+  target: pt:dre:309770:por
+  label: "Alterado o artigo 2º pelo DEC LEI.124/83.08.03.1983.ME, DR.IS [55] de 08.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1983-309770
+  date: '1983-03-08'
+- type: amended_by
+  target: pt:dre:171363:por
+  label: "Alterados os n.ºs 1.1 e 1.2 do artigo 5.º pelo DEC LEI.460/85.04.11.1985.ME, DR.IS [253] de 04.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/460-1985-171363
+  date: '1985-11-04'
+- type: amended_by
+  target: pt:dre:544667:por
+  label: "Mantido em vigor, até à revisão das disposições sobre o reordenamento e reajustamento anual da rede escolar, o art.\
+    \ 22º deste diploma, pelo DEC LEI.20/2006.31.01.2006.ME, DR.IS-A [22] de 31.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2006-544667
+  date: '2006-01-31'
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:19Z'
   warnings: []
   errors: []
 ---
@@ -398,8 +437,8 @@ O presente diploma entra imediatamente em vigor, produzindo efeitos a partir de 
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
 
-**Promulgado em 19 de Setembro de 1980.**
+Promulgado em 19 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

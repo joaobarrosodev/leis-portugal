@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1970-141596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6967d1cba6bad0949f193a511b54e93917d3d16295a531a7095ed5f4dd1bbb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e3e1e17ad67f15b36fe41cd57e9aa9db21692b5c70213da5ac50f102ff57c03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Imposto Especial sobre o Consumo de Tabaco
+- Madeira.ilha Adjacente
+- Tabaco
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:142530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263070:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:21Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +106,13 @@ Considerando que o preço de venda ao público das cigarrilhas de produção ins
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 43766](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43766-1961-172904), de 30 de Junho de 1961, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 43766](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43766-1961-172904), de 30 de Junho de 1961, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Os tabacos destinados ao consumo do continente e ilhas adjacentes, quer de fabrico nacional (1.º grupo), quer estrangeiro (2.º grupo), ficam sujeitos a um imposto de consumo, das taxas a seguir indicadas, sobre o qual não incidirá adicional algum, seja para o Estado, seja para os corpos administrativos.
+Artigo 1.º Os tabacos destinados ao consumo do continente e ilhas adjacentes, quer de fabrico nacional (1.º grupo), quer estrangeiro (2.º grupo), ficam sujeitos a um imposto de consumo, das taxas a seguir indicadas, sobre o qual não incidirá adicional algum, seja para o Estado, seja para os corpos administrativos.
 
 § único. ...
 
-###### Art. 2.º As espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:
+Art. 2.º As espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:
 
 a) 1.º grupo:
 
@@ -147,12 +164,12 @@ Charutos - taxa de 2$50 sobre cada charuto.
 
 § 3.º ...
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor.
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 6 de Julho de 1970.**
+Promulgado em 6 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/04/09200/04940497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46303-1965-236712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df7c4802400e07d7e40f9b79c4bebdbacb38e9763ff6c173b64038cde89013bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79423c21dbb580c8bc463195aa56fdcc58c6c0f981c0b316856b7a693e1205e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Exportação
+- Exportação
+- Instituição de Crédito
+- Seguro de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:142087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:526203:por
+  label: "Revogado pelo DEC LEI.48950.03.04.1969.MF, DG.IS [79] de 03.04.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48950-1969-526203
+  date: '1969-04-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:02Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +141,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. As operações de crédito à exportação tem por objecto facultar às empresas agrícolas, industriais ou comerciais recursos destinados a financiar a exportação de bens e serviços.
+Artigo 1.º - 1. As operações de crédito à exportação tem por objecto facultar às empresas agrícolas, industriais ou comerciais recursos destinados a financiar a exportação de bens e serviços.
 
 2. Ficam sujeitas ao disposto no presente diploma as operações de crédito à exportação em que os interessados pretendam prevalecer-se dos benefícios que nele se estabelecem.
 
-###### Art. 2.º - 1. As operações de crédito à exportação podem revestir as seguintes modalidades:
+Art. 2.º - 1. As operações de crédito à exportação podem revestir as seguintes modalidades:
 
 a) Operações de pré-financiamento;
 
@@ -120,33 +157,33 @@ a) Pré-financiamentos correntes;
 
 b) Pré-financiamentos especiais.
 
-###### Art. 3.º - 1. As operações de crédito à exportação podem ser realizadas a curto, médio e longo prazo.
+Art. 3.º - 1. As operações de crédito à exportação podem ser realizadas a curto, médio e longo prazo.
 
 2. Consideram-se a curto prazo as operações em que os recursos são concedidos por período não superior a um ano; a médio prazo, aquelas em que os recursos são facultados por período superior a um ano, mas não excedente a cinco anos; e a longo prazo, as operações em que os recursos são concedidos por período superior a cinco anos.
 
 3. O prazo das operações conta-se a partir da data em que os recursos são, no todo ou em parte, colocados à disposição do beneficiário do crédito.
 
-###### Art. 4.º - 1. As operações de pré-financiamento corrente não podem efectuar-se por prazo superior a um ano, nem por período execedente a dois anos as de pré-financiamento especial.
+Art. 4.º - 1. As operações de pré-financiamento corrente não podem efectuar-se por prazo superior a um ano, nem por período execedente a dois anos as de pré-financiamento especial.
 
 2. Depende de prévia autorização do Ministro das Finanças, no continente e ilhas adjacentes, e daquele e do Ministro do Ultramar, nas províncias ultramarinas, a realização de quaisquer operações de financiamento por prazo superior a dez anos.
 
-###### Art. 5.º - 1. Os Ministros das Finanças e da Economia, para o continente e ilhas adjacentes, e o primeiro e o do ultramar, para cada uma das províncias ultramarinas, fixarão, por portaria conjunta, as espécies de bens e serviços que podem ser objecto de operações de crédito à exportação nos termos do presente diploma.
+Art. 5.º - 1. Os Ministros das Finanças e da Economia, para o continente e ilhas adjacentes, e o primeiro e o do ultramar, para cada uma das províncias ultramarinas, fixarão, por portaria conjunta, as espécies de bens e serviços que podem ser objecto de operações de crédito à exportação nos termos do presente diploma.
 
 2. O Fundo de Fomento de Exportação, no continente e ilhas adjacentes, e os serviços a que competir o licenciamento e registo prévio de operações de comércio externo, nas províncias ultramarinas, estabelecerão, em conformidade com a portaria a que se refere o número anterior, as listas dos bens e serviços por ela abrangidos.
 
-###### Art. 6.º - 1. Só podem beneficiar de créditos concedidos nos termos do presente diploma as exportações de serviços prestados por empresas nacionais e de bens de origem nacional devidamente certificada em conformidade com o disposto nos artigos 6.º a 8.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, e no [Decreto n.º 44260](https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052), de 31 de Março de 1962.
+Art. 6.º - 1. Só podem beneficiar de créditos concedidos nos termos do presente diploma as exportações de serviços prestados por empresas nacionais e de bens de origem nacional devidamente certificada em conformidade com o disposto nos artigos 6.º a 8.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, e no [Decreto n.º 44260](https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052), de 31 de Março de 1962.
 
 2. Os Ministros das Finanças e da Economia, no continente e ilhas adjacentes, e o primeiro e o do ultramar, nas províncias ultramarinas, poderão, quando o justifiquem os interesses da economia nacional, autorizar de modo geral, mediante portaria, ou caso a caso, através de despacho, a concessão, nos termos do presente diploma, de crédito à exportação de bens que não reúnam as condições estabelecidas no número anterior.
 
-###### Art. 7.º Salvo preceito expresso na portaria referida no n.º 1 do artigo 5.º ou prévia autorização do Ministro das Finanças, no continente e ilhas adjacentes, e daquele e do Ministro do Ultramar, nas províncias ultramarinas, não podem ser objecto de operações de crédito a médio ou longo prazo, nos termos do presente diploma, as exportações de matérias-primas, de produtos alimentares e de quaisquer outros bens de consumo imediato, nem financiadas a longo prazo as exportações de bens de equipamento de valor global inferior ao que para o efeito venha a fixar-se na mencionada portaria e as de bens de consumo duradouro.
+Art. 7.º Salvo preceito expresso na portaria referida no n.º 1 do artigo 5.º ou prévia autorização do Ministro das Finanças, no continente e ilhas adjacentes, e daquele e do Ministro do Ultramar, nas províncias ultramarinas, não podem ser objecto de operações de crédito a médio ou longo prazo, nos termos do presente diploma, as exportações de matérias-primas, de produtos alimentares e de quaisquer outros bens de consumo imediato, nem financiadas a longo prazo as exportações de bens de equipamento de valor global inferior ao que para o efeito venha a fixar-se na mencionada portaria e as de bens de consumo duradouro.
 
-###### Art. 8.º Para a concessão de pré-financiamento ou financiamento deve o beneficiário, de acordo com o que vier a ser estabelecido nas instruções previstas no artigo 37.º, apresentar prova de que os bens ou serviços em causa podem, em face do disposto nos artigos 5.º e 6.º, ser objecto de operações de crédito à exportação nos termos deste diploma.
+Art. 8.º Para a concessão de pré-financiamento ou financiamento deve o beneficiário, de acordo com o que vier a ser estabelecido nas instruções previstas no artigo 37.º, apresentar prova de que os bens ou serviços em causa podem, em face do disposto nos artigos 5.º e 6.º, ser objecto de operações de crédito à exportação nos termos deste diploma.
 
-###### Art. 9.º O pré-financiamento especial e o financiamento não serão outorgados quando as condições de pagamento estipuladas no contrato com o importador e as garantias prestadas por este se afastem das usuais em transacções do mesmo tipo e não se verifiquem circunstâncias que, atentos os superiores interesses da economia nacional, justifiquem a concessão ao importador do regime excepcional convencionado.
+Art. 9.º O pré-financiamento especial e o financiamento não serão outorgados quando as condições de pagamento estipuladas no contrato com o importador e as garantias prestadas por este se afastem das usuais em transacções do mesmo tipo e não se verifiquem circunstâncias que, atentos os superiores interesses da economia nacional, justifiquem a concessão ao importador do regime excepcional convencionado.
 
-###### Art. 10.º Concedido o pré-financiamento especial ou o financiamento, o exportador não poderá, sem prévio consentimento da instituição de crédito, introduzir quaisquer alterações no seu contrato com o importador, nomeadamente no que respeita às garantias e à forma e datas de pagamento do preço da transacção.
+Art. 10.º Concedido o pré-financiamento especial ou o financiamento, o exportador não poderá, sem prévio consentimento da instituição de crédito, introduzir quaisquer alterações no seu contrato com o importador, nomeadamente no que respeita às garantias e à forma e datas de pagamento do preço da transacção.
 
-###### Art. 11.º - 1. O Ministro das Finanças, por portaria e com observância do disposto no artigo 24.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, poderá fixar os limites máximos das taxas de juro a aplicar nas operações de crédito à exportação realizadas nos termos do presente diploma.
+Art. 11.º - 1. O Ministro das Finanças, por portaria e com observância do disposto no artigo 24.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, poderá fixar os limites máximos das taxas de juro a aplicar nas operações de crédito à exportação realizadas nos termos do presente diploma.
 
 2. O Ministro das Finanças poderá ainda estabelecer por portaria, e observando igualmente o disposto no artigo 24.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), taxas diversas para diferentes sectores da actividade económica.
 
@@ -156,21 +193,21 @@ b) Pré-financiamentos especiais.
 
 5. As instituições de crédito não poderão cobrar das empresas financiadas, a título de comissões, prémios de transferência ou a qualquer outro semelhante, importâncias que, conjuntamente com a taxa de juro, excedam os limites fixados nos termos dos números anteriores.
 
-###### Art. 12.º As instituições de crédito, para acautelarem a eficácia da sua assistência às empresas financiadas, poderão assegurar nos respectivos contratos o direito de fiscalizar, pela forma própria, a actividade dessas empresas em tudo o que respeita às operações a médio e longo prazo realizadas nos termos do presente diploma.
+Art. 12.º As instituições de crédito, para acautelarem a eficácia da sua assistência às empresas financiadas, poderão assegurar nos respectivos contratos o direito de fiscalizar, pela forma própria, a actividade dessas empresas em tudo o que respeita às operações a médio e longo prazo realizadas nos termos do presente diploma.
 
-###### Art. 13.º As transgressões ao disposto neste diploma são punidas nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), no território do continente e ilhas adjacentes, e do artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), nas províncias ultramarinas.
+Art. 13.º As transgressões ao disposto neste diploma são punidas nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), no território do continente e ilhas adjacentes, e do artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), nas províncias ultramarinas.
 
 #### SECÇÃO II — Das operações de pré-financiamento
 
-###### Art. 14.º - 1. As operações de pré-financiamento corrente têm por objecto facultar às empresas produtoras de bens ou serviços destinados à exportação, bem como às empresas exportadoras, recursos que lhes permitam cobrir as suas necessidades de capital circulante correspondentes ao volume das exportações que realizem.
+Art. 14.º - 1. As operações de pré-financiamento corrente têm por objecto facultar às empresas produtoras de bens ou serviços destinados à exportação, bem como às empresas exportadoras, recursos que lhes permitam cobrir as suas necessidades de capital circulante correspondentes ao volume das exportações que realizem.
 
 2. O pré-financiamento corrente não poderá em caso algum abranger as necessidades de capital circulante da empresa que resultem do diferimento do pagamento das suas exportações.
 
-###### Art. 15.º - 1. As operações de pré-financiamento especial têm por objecto facultar às empresas produtoras e exportadoras recursos necessários à execução de encomendas firmes destinadas à exportação.
+Art. 15.º - 1. As operações de pré-financiamento especial têm por objecto facultar às empresas produtoras e exportadoras recursos necessários à execução de encomendas firmes destinadas à exportação.
 
 2. O montante do pré-financiamento especial não poderá exceder as necessidades resultantes da própria execução da encomenda, nem 80 por cento do valor desta última.
 
-###### Art. 16.º - 1. As operações de pré-financiamento a curto prazo realizar-se-ão:
+Art. 16.º - 1. As operações de pré-financiamento a curto prazo realizar-se-ão:
 
 a) Por desconto de títulos de crédito renováveis durante todo o período da operação, de acordo com as necessidades da empresa beneficiária;
 
@@ -180,21 +217,21 @@ b) Por empréstimo ou abertura de crédito em conta corrente, podendo fazer-se r
 
 #### SECÇÃO III — Das operações de financiamento
 
-###### Art. 17.º As operações de financiamento à exportação têm por objecto facultar ao exportador recursos correspondentes ao seu crédito sobre o importador.
+Art. 17.º As operações de financiamento à exportação têm por objecto facultar ao exportador recursos correspondentes ao seu crédito sobre o importador.
 
-###### Art. 18.º O crédito concedido não excederá:
+Art. 18.º O crédito concedido não excederá:
 
 a) Se o financiamento for a curto prazo, 90 por cento do débito do importador ou o valor coberto pelo seguro de crédito, quando exista;
 
 b) Se o financiamento for a médio ou longo prazo, 85 por cento do débito do importador ou 95 por cento do valor coberto pelo seguro de crédito, quando exista.
 
-###### Art. 19.º O prazo das operações de financiamento não pode, em caso algum, exceder o período que medeia entre a data da constituição do crédito do exportador sobre o importador e a do último pagamento a efectuar por este nos termos do contrato.
+Art. 19.º O prazo das operações de financiamento não pode, em caso algum, exceder o período que medeia entre a data da constituição do crédito do exportador sobre o importador e a do último pagamento a efectuar por este nos termos do contrato.
 
-###### Art. 20.º Para poderem beneficiar de financiamento, os créditos do exportador sobre o importador serão sempre representados por letras, livranças, promissórias ou títulos equivalentes, os quais, juntamente com o contrato respectivo e os demais documentos exigidos pelo presente diploma e pela legislação em vigor, servirão de base à concessão do crédito à exportação.
+Art. 20.º Para poderem beneficiar de financiamento, os créditos do exportador sobre o importador serão sempre representados por letras, livranças, promissórias ou títulos equivalentes, os quais, juntamente com o contrato respectivo e os demais documentos exigidos pelo presente diploma e pela legislação em vigor, servirão de base à concessão do crédito à exportação.
 
-###### Art. 21.º As condições financeiras das operações de crédito à exportação não podem, nomeadamente no tocante ao respectivo reembolso, ser mais favoráveis que as concedidas pelo exportador ao importador.
+Art. 21.º As condições financeiras das operações de crédito à exportação não podem, nomeadamente no tocante ao respectivo reembolso, ser mais favoráveis que as concedidas pelo exportador ao importador.
 
-###### Art. 22.º - 1. As operações de financiamento a curto prazo realizar-se-ão:
+Art. 22.º - 1. As operações de financiamento a curto prazo realizar-se-ão:
 
 a) Por desconto de títulos de crédito subscritos pelo importador;
 
@@ -208,7 +245,7 @@ b) Por empréstimo.
 
 #### SECÇÃO IV — Das garantias
 
-###### Art. 23.º - 1. As operações de crédito à exportação a médio prazo serão asseguradas por qualquer das garantias reais ou pessoais legalmente admissíveis, além da prevista no n.º 4 do artigo 22.º
+Art. 23.º - 1. As operações de crédito à exportação a médio prazo serão asseguradas por qualquer das garantias reais ou pessoais legalmente admissíveis, além da prevista no n.º 4 do artigo 22.º
 
 2. Dispensar-se-á a prestação de qualquer garantia, à excepção da prevista no n.º 4 do artigo 22.º para as operações de financiamento, quando se verifique um dos seguintes factos:
 
@@ -216,7 +253,7 @@ a) Ser a dispensa autorizada por deliberação específica da administração da
 
 b) Encontrar-se seguro contra riscos políticos, cambiais e comerciais o crédito do exportador sobre o importador e forem transferidos para a instituição de crédito os direitos emergentes da respectiva apólice.
 
-###### Art. 24.º - 1. As operações de crédito à exportação a longo prazo serão asseguradas por qualquer das seguintes garantias, além da prevista no n.º 4 do artigo 22.º;
+Art. 24.º - 1. As operações de crédito à exportação a longo prazo serão asseguradas por qualquer das seguintes garantias, além da prevista no n.º 4 do artigo 22.º;
 
 a) Hipoteca;
 
@@ -226,57 +263,57 @@ c) Fiança ou aval prestados pelo Estado, pelas províncias ultramarinas, por in
 
 2. Dispensar-se-á qualquer das garantias indicadas nas alíneas a) a c) do número anterior quando se encontrar seguro contra riscos políticos, cambiais e comerciais o crédito do exportador sobre o importador e forem transferidos para a instituição de crédito os direitos emergentes da respectiva apólice.
 
-###### Art. 25.º O penhor constituído em garantia das operações reguladas por este diploma considerar-se-á de natureza mercantil, ficando sujeito às disposições do [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939, e do [Decreto-Lei n.º 32032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32032-1942-314423), de 22 de Maio de 1942.
+Art. 25.º O penhor constituído em garantia das operações reguladas por este diploma considerar-se-á de natureza mercantil, ficando sujeito às disposições do [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939, e do [Decreto-Lei n.º 32032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32032-1942-314423), de 22 de Maio de 1942.
 
 #### SECÇÃO V — Do seguro de crédito à exportação
 
-###### Art. 26.º - 1. Enquanto não se criar para o efeito organismo ou instituição adequada, o Estado, pelo Fundo de Fomento de Exportação e através de departamento especializado que nele se constituirá, poderá garantir contra riscos políticos, cambiais e comerciais as exportações de bens e serviços susceptíveis de financiamento nos termos deste diploma.
+Art. 26.º - 1. Enquanto não se criar para o efeito organismo ou instituição adequada, o Estado, pelo Fundo de Fomento de Exportação e através de departamento especializado que nele se constituirá, poderá garantir contra riscos políticos, cambiais e comerciais as exportações de bens e serviços susceptíveis de financiamento nos termos deste diploma.
 
 2. As garantias de riscos comerciais só serão concedidas pelo Fundo de Fomento de Exportação quando os interesses da economia nacional o justifiquem e enquanto a indústria seguradora não estiver em condições de as prestar.
 
-###### Art. 27.º - 1. O Fundo de Fomento de Exportação fixará caso por caso o valor e o custo da garantia a conceder, mas o primeiro não excederá nunca 85 por cento do valor da exportação, quando se trate de riscos políticos ou cambiais, e 80 por cento, quando se trate de riscos comerciais.
+Art. 27.º - 1. O Fundo de Fomento de Exportação fixará caso por caso o valor e o custo da garantia a conceder, mas o primeiro não excederá nunca 85 por cento do valor da exportação, quando se trate de riscos políticos ou cambiais, e 80 por cento, quando se trate de riscos comerciais.
 
 2. Quando as características e condições da exportação o justifiquem, poderão as garantias de riscos políticos e cambiais ser prestadas com redução de encargo para o exportador ou, a título excepcional, sem encargo.
 
 #### SECÇÃO VI — Das instituições de crédito
 
-###### Art. 28.º - 1. As operações de crédito à exportação a curto prazo serão exclusivamente realizadas pelas instituições referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Art. 28.º - 1. As operações de crédito à exportação a curto prazo serão exclusivamente realizadas pelas instituições referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 2. Os bancos comerciais poderão incluir os valores resultantes das operações de crédito a curto prazo que efectuem nos termos do presente diploma nas garantias das suas responsabilidades à vista em moeda nacional a que se refere o artigo 60.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) e o artigo 78.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
-###### Art. 29.º - 1. Os bancos emissores nas suas operações de redesconto darão, dentro da orientação geral do crédito, prioridade aos títulos resultantes de operações de crédito à exportação realizadas pelos bancos comerciais nos termos do presente diploma.
+Art. 29.º - 1. Os bancos emissores nas suas operações de redesconto darão, dentro da orientação geral do crédito, prioridade aos títulos resultantes de operações de crédito à exportação realizadas pelos bancos comerciais nos termos do presente diploma.
 
 2. Antes da concessão de qualquer crédito podem os bancos comerciais solicitar do respectivo banco emissor um compromisso de redesconto dos títulos através dos quais a operação se efectue.
 
-###### Art. 30.º - 1. As operações de crédito à exportação a médio e longo prazo serão realizadas, tanto no território do continente e ilhas adjacentes como nas províncias ultramarinas, pelos bancos de investimento, pelos institutos de crédito do Estado e pelos bancos comerciais.
+Art. 30.º - 1. As operações de crédito à exportação a médio e longo prazo serão realizadas, tanto no território do continente e ilhas adjacentes como nas províncias ultramarinas, pelos bancos de investimento, pelos institutos de crédito do Estado e pelos bancos comerciais.
 
 2. Os bancos comerciais só poderão aplicar, em operações que efectuem a médio e longo prazo, os seus capitais próprios, nos termos que vierem a ser estabelecidos nas instruções previstas no artigo 37.º
 
-###### Art. 31.º - 1. Na aplicação dos seus recursos, a Caixa Geral de Depósitos, Crédito e Previdência dará prioridade aos empréstimos que lhe sejam solicitados pelos bancos de investimento para a realização das operações de crédito à exportação a médio e longo prazo previstas no artigo antecedente.
+Art. 31.º - 1. Na aplicação dos seus recursos, a Caixa Geral de Depósitos, Crédito e Previdência dará prioridade aos empréstimos que lhe sejam solicitados pelos bancos de investimento para a realização das operações de crédito à exportação a médio e longo prazo previstas no artigo antecedente.
 
 2. Os empréstimos a que se refere o número anterior serão concedidos por prazo e em condições compatíveis com os das operações de crédito à exportação a que se destinem.
 
 3. As taxas de juro dos empréstimos previstos no n.º 1 do presente artigo serão fixadas pelo Ministro das Finanças, sob proposta da Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 32.º - 1. Fica o Ministro das Finanças autorizado a facultar aos bancos de investimento, mediante empréstimo, recursos destinados à realização de operações de crédito à exportação a médio e longo prazo nos termos do presente diploma.
+Art. 32.º - 1. Fica o Ministro das Finanças autorizado a facultar aos bancos de investimento, mediante empréstimo, recursos destinados à realização de operações de crédito à exportação a médio e longo prazo nos termos do presente diploma.
 
 2. O prazo, juro e demais condições dos empréstimos a que se refere o número anterior serão fixados pelo Ministro das Finanças de acordo com as condições das operações de crédito à exportação a que os recursos se destinem.
 
-###### Art. 33.º Para a realização das operações de crédito à exportação que o presente diploma lhes comete, poderão os bancos de investimento recorrer, mediante prévio acordo com as instituições de crédito respectivas, à colaboração das agências, filiais e delegações da Caixa Geral de Depósitos, Crédito e Previdência e dos bancos comerciais, no território do continente e ilhas adjacentes, e aos das agências, filiais ou delegações dos Bancos de Angola e Nacional Ultramarino e dos bancos comerciais, nas províncias ultramarinas.
+Art. 33.º Para a realização das operações de crédito à exportação que o presente diploma lhes comete, poderão os bancos de investimento recorrer, mediante prévio acordo com as instituições de crédito respectivas, à colaboração das agências, filiais e delegações da Caixa Geral de Depósitos, Crédito e Previdência e dos bancos comerciais, no território do continente e ilhas adjacentes, e aos das agências, filiais ou delegações dos Bancos de Angola e Nacional Ultramarino e dos bancos comerciais, nas províncias ultramarinas.
 
-###### Art. 34.º Os bancos de investimento poderão realizar as operações cambiais necessárias à cobrança de quaisquer títulos de crédito relativos às exportações financiadas e à integral liquidação destas últimas.
+Art. 34.º Os bancos de investimento poderão realizar as operações cambiais necessárias à cobrança de quaisquer títulos de crédito relativos às exportações financiadas e à integral liquidação destas últimas.
 
 ### CAPÍTULO II — Do crédito às transacções interterritoriais
 
-###### Art. 35.º As disposições do presente diploma serão também aplicáveis ao pré-financiamento e ao financiamento das transacções de bens e serviços que se efectuem entre as diversas parcelas do território nacional.
+Art. 35.º As disposições do presente diploma serão também aplicáveis ao pré-financiamento e ao financiamento das transacções de bens e serviços que se efectuem entre as diversas parcelas do território nacional.
 
 ### CAPÍTULO III — Disposições transitórias
 
-###### Art. 36.º As instituições de crédito que pretendam realizar operações de crédito à exportação, nos termos do presente decreto-lei, harmonizarão as suas condições de funcionamento com o que nele se estabelece, introduzindo nos seus estatutos, dentro do prazo de 180 dias, as modificações que para o efeito se tornem necessárias.
+Art. 36.º As instituições de crédito que pretendam realizar operações de crédito à exportação, nos termos do presente decreto-lei, harmonizarão as suas condições de funcionamento com o que nele se estabelece, introduzindo nos seus estatutos, dentro do prazo de 180 dias, as modificações que para o efeito se tornem necessárias.
 
-###### Art. 37.º Os Ministros das Finanças, Ultramar e Economia expedirão portaria com as instruções necessárias à execução do presente diploma.
+Art. 37.º Os Ministros das Finanças, Ultramar e Economia expedirão portaria com as instruções necessárias à execução do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

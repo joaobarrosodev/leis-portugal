@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 297/1979, 1º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3366-(1) a 3366-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29701/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b60d0615fc4c0359bf6260034e7418747db1e1b6bbfed8c3af1cf0feecba65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3342d1104b4a0a80cf82bd841cfdadbba37a4fe3692e4c21872979ba486ab44e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Departamento de Recursos Humanos da Saúde
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
+- Prorrogação de Prazo
+- Quadro de Pessoal
+- Recursos Humanos
+- Região Autónoma
+- Regime de Instalação
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298998:por
+  label: "Alterados os artigos 2.º n.ºs 2 e 3, e 8.º, pelo DEC LEI.96/80.05.05.1980.PCM, DR.IS [103]Supl de 05.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1980-298998
+  date: '1980-05-05'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:43Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +137,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Cessação do regime de instalação)
 
@@ -110,7 +145,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Exceptuam-se do disposto no número anterior as administrações distritais dos serviços de saúde e os serviços de saúde das regiões autónomas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Conversão dos mapas em quadros de pessoal)
 
@@ -120,7 +155,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - Os quadros de pessoal serão publicados no Diário da República, após visto do Ministério das Finanças e dos Secretários de Estado da Administração Pública e da Saúde.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Provimento dos lugares)
 
@@ -138,13 +173,13 @@ e) O pessoal originário das Misericórdias que não reúna os requisitos habili
 
 2 - Para efeitos do disposto na alínea a) do número anterior, conta-se todo o tempo de serviço prestado, à data da publicação do presente diploma, na respectiva carreira profissional.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Manutenção das remunerações auferidas)
 
 Os funcionários providos, nos termos do artigo anterior, em lugares correspondentes a categorias inferiores às por si possuídas manterão a mesma remuneração até que a diferença venha a ser absorvida por futuros aumentos.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Congelamento dos movimentos de pessoal)
 
@@ -152,7 +187,7 @@ Os funcionários providos, nos termos do artigo anterior, em lugares corresponde
 
 2 - As admissões previstas no número anterior têm de ser precedidas de justificação detalhada e de parecer favorável do Departamento de Recursos Humanos.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Condicionamentos aos movimentos de pessoal)
 
@@ -164,7 +199,7 @@ b) Dar cumprimento ao disposto na lei geral e na legislação específica da car
 
 Parecer favorável do Departamento de Recursos Humanos.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Órgãos directivos)
 
@@ -172,7 +207,7 @@ Parecer favorável do Departamento de Recursos Humanos.
 
 2 - Não existindo disposições legais que identifiquem esses dirigentes, serão acrescentados aos quadros de pessoal os lugares necessários e neles providos os que vierem a ser nomeados por despacho do Secretário de Estado da Saúde, sob proposta do Departamento de Recursos Humanos.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Carreiras profissionais e quadros de pessoal)
 
@@ -180,13 +215,13 @@ Parecer favorável do Departamento de Recursos Humanos.
 
 2 - Durante o 2.º semestre de 1980, o Departamento de Recursos Humanos elaborará, a partir de projectos a apresentar pelos serviços e estabelecimentos de saúde até 31 de Março do mesmo ano, os novos quadros de pessoal.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Regiões autónomas)
 
 O prazo do regime de instalação previsto no [Decreto-Lei n.º 164/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1979-383866), de 1 de Junho, é prorrogado, para os serviços de saúde das regiões autónomas, até 30 de Junho de 1980, podendo a sua cessação ser determinada, antecipadamente, por portaria do Secretário Regional competente.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Dúvidas)
 
@@ -194,8 +229,8 @@ As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por 
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

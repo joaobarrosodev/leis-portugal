@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/05000/02580261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1980-678829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc8c1200e31945751509d54683d962e6dc9b4b7c0fcffcec3965ea12879c92da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fa37f5a811b1a9aabbf9e5faa99215cda4efacf9acf3031f45edd4d55a78f57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo Central de Registos e Informações
+- Carreira Profissional
+- Conselho Superior de Polícia
+- Definição de Competências
+- Directoria-geral da Polícia Judiciária
+- Gabinete Nacional da Interpol
+- Inspecção da Polícia Judiciária
+- Instrução Criminal
+- Investigação Criminal
+- Laboratório de Polícia Científica
+- Livre Trânsito
+- Ministério Público
+- Ministro da Justiça
+- Orgânica
+- Pessoal Dirigente
+- Polícia Judiciária
+- Prevenção Criminal
+- Procurador Geral da República
+- Promoção Profissional
+- Quadro de Pessoal
+- Segredo Profissional
 relationships:
 - type: amended_by
   target: pt:dre:553435:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:677628:por
+  label: Rectificado pela DECL.DD6808.21.03.1980.PCM, DR.IS [76] de 31.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-677628
+  date: '1980-03-21'
+- type: repealed_by
+  target: pt:dre:380091:por
+  label: "Revogado pelo DEC LEI.458/82.24.11.1982.MJ, DR.IS [272] de 24.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1982-380091
+  date: '1982-11-24'
+- type: repealed_by
+  target: pt:dre:553435:por
+  label: "Revogado pelo DEC LEI.295-A/90.21.09.1990.MJ, DR.IS [219]Supl de 21.09.1990, nos termos do seu artigo 182.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-a-1990-553435
+  date: '1990-09-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:16Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +140,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 20.º, 21.º, 22.º, 25.º, 30.º, 53.º, 54.º, 70.º, 71.º, 80.º, 85.º, 99.º, 100.º, 104.º, 105.º e 107.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 20.º, 21.º, 22.º, 25.º, 30.º, 53.º, 54.º, 70.º, 71.º, 80.º, 85.º, 99.º, 100.º, 104.º, 105.º e 107.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, passam a ter a seguinte redacção:
 
 ###### ARTIGO 20.º — (Composição do Conselho Superior de Polícia)
 
@@ -290,20 +330,20 @@ Os lugares de subinspector são providos por promoção de agentes de 1.ª class
 
 2 - Em igualdade de circunstâncias, prevalece a antiguidade na categoria.
 
-###### Art. 2.º São revogados os artigos 56.º, 57.º, 58.º, 59.º, 60.º e 61.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro.
+Art. 2.º São revogados os artigos 56.º, 57.º, 58.º, 59.º, 60.º e 61.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro.
 
-###### Art. 3.º - 1 - O actual Conselho Superior de Polícia submeterá à aprovação do Ministro da Justiça, no prazo de trinta dias, o projecto do novo regulamento eleitoral.
+Art. 3.º - 1 - O actual Conselho Superior de Polícia submeterá à aprovação do Ministro da Justiça, no prazo de trinta dias, o projecto do novo regulamento eleitoral.
 
 2 - Enquanto não for publicado o diploma que regulamenta as classificações de serviço na função pública, as normas actualmente em vigor serão adaptadas, tendo em conta as alterações agora introduzidas, mediante despacho do Ministro da Justiça, sob proposta do director-geral.
 
-###### Art. 4.º No prazo de trinta dias será aprovado o regulamento a que se refere o alínea c) do n.º 2 do artigo 100.º
+Art. 4.º No prazo de trinta dias será aprovado o regulamento a que se refere o alínea c) do n.º 2 do artigo 100.º
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 20 de Fevereiro de 1980.**
+Promulgado em 20 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

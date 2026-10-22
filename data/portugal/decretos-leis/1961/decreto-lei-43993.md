@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43993-1961-182862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8254d8fd41e9f79f30c342461a7be45294fd32afb1ea1c66d534468ebeb7dcd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5d1b9661f030b7f2157679a0597d2b7993342aab3ca288fa1558950b0de8b24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia Nacional
+- Direito de Voto
+- Direitos Civis
+- Eleição Legislativa
+- Estatuto do Oficial do Exército
+- Exército
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:45Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +114,15 @@ Considerando, finalmente, não se julgar admissível que à generalidade dos ofi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A redacção do corpo do artigo 43.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ser a seguinte:
+Artigo 1.º A redacção do corpo do artigo 43.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ser a seguinte:
 
-###### Art. 43.º O oficial do Exército está sempre pronto a cooperar na realização dos fins superiores do Estado e a defender os princípios fundamentais de ordem política e social estabelecidos na Constituição. É, porém, proibido ao oficial do Exército em serviço efectivo exercer actividades políticas, tomar parte em pugnas da mesma natureza, inscrever-se em agremiações de carácter partidário ou por qualquer forma colocar-se em dependência estranha à dos chefes e autoridades militares.
+Art. 43.º O oficial do Exército está sempre pronto a cooperar na realização dos fins superiores do Estado e a defender os princípios fundamentais de ordem política e social estabelecidos na Constituição. É, porém, proibido ao oficial do Exército em serviço efectivo exercer actividades políticas, tomar parte em pugnas da mesma natureza, inscrever-se em agremiações de carácter partidário ou por qualquer forma colocar-se em dependência estranha à dos chefes e autoridades militares.
 
 É permitido, no entanto, aos oficiais do Exército exercer o direito de voto na eleição dos Deputados à Assembleia Nacional e, aos que fizerem parte do colégio eleitoral previsto no artigo 72.º da Constituição, na eleição do Chefe do Estado.
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor em todo o território nacional.
+Art. 2.º Este decreto-lei entra imediatamente em vigor em todo o território nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

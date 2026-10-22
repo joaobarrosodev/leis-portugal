@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/18200/09810983.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49169-1969-198914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a4418548ed99e1f25a8d764ebada2a4a602f4655365bb1fcb4cfad5534cd8f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec6f6597d77741e82d7a4da085a6aa3524f512736fa92f3380a0c531cc63f84a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Obras Públicas
+- Criação de Lugares
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral das Construções Escolares
+- Extinção de Serviços
+- Gabinete de Estudos e Planeamento
+- Ministério das Obras Públicas
+- Orgânica
+- Quadro de Pessoal
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:329874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676440:por
+  label: "Alterado, no referente ao pessoal dirigente, o quadro de pessoal da Direcção-Geral das Construções Escolares pelo\
+    \ DEC LEI.313/72.17.08.1972.MOP, DG.IS [191] de 17.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/313-1972-676440
+  date: '1972-08-17'
+- type: amended_by
+  target: pt:dre:422187:por
+  label: "Alterada a constituição do conselho orientador constante do art. 5º pelo DEC LEI.234/73.14.05.1973.MOP, DG.IS [234]\
+    \ de 14.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1973-422187
+  date: '1973-05-14'
+- type: amended_by
+  target: pt:dre:411165:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Construções Escolares, aprovado pelo presente diploma, pelo DEC\
+    \ LEI.677/73.20.12.1973.MOP, DG.IS [295] de 20.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/677-1973-411165
+  date: '1973-12-20'
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329874:por
+  label: "Revogado pelo DEC LEI.279/78.07.09.1978.MHOP, DR.IS [206] de 07.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-1978-329874
+  date: '1978-09-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:16Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +152,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no Ministério das Obras Públicas a Direcção-Geral das Construções Escolares, para a qual transitam as funções dos seguintes organismos, que são extintos: Junta das Construções para o Ensino Técnico e Secundário; Comissão Administrativa das Novas Instalações Universitárias; Comissão Administrativa do Plano de Obras da Cidade Universitária de Coimbra, e Delegação para as Obras de Construção de Escolas Primárias, da Direcção-Geral dos Edifícios e Monumentos Nacionais.
+Artigo 1.º É criada no Ministério das Obras Públicas a Direcção-Geral das Construções Escolares, para a qual transitam as funções dos seguintes organismos, que são extintos: Junta das Construções para o Ensino Técnico e Secundário; Comissão Administrativa das Novas Instalações Universitárias; Comissão Administrativa do Plano de Obras da Cidade Universitária de Coimbra, e Delegação para as Obras de Construção de Escolas Primárias, da Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 2.º Compete à Direcção-Geral das Construções Escolares o estudo, projecto, construção, ampliação, restauro, conservação e apetrechamento dos edifícios escolares de todos os graus e ramos de ensino, das residências de professores e estudantes, das instalações desportivas e culturais dos organismos circum-escolares e de outras instalações compreendidas nos planos de construções escolares aprovados pelo Governo.
+Art. 2.º Compete à Direcção-Geral das Construções Escolares o estudo, projecto, construção, ampliação, restauro, conservação e apetrechamento dos edifícios escolares de todos os graus e ramos de ensino, das residências de professores e estudantes, das instalações desportivas e culturais dos organismos circum-escolares e de outras instalações compreendidas nos planos de construções escolares aprovados pelo Governo.
 
-###### Art. 3.º - 1. A Direcção-Geral das Construções Escolares disporá dos seguintes serviços técnicos e administrativos:
+Art. 3.º - 1. A Direcção-Geral das Construções Escolares disporá dos seguintes serviços técnicos e administrativos:
 
 1) Gabinete de Estudos e Planeamento;
 
@@ -147,9 +190,9 @@ b) Secção de Expediente Geral e Pessoal.
 
 2. O Ministro das Obras Públicas determinará, por despacho, os distritos abrangidos por cada direcção externa.
 
-###### Art. 4.º Será das atribuições do Gabinete de Estudos e Planeamento estudar de forma permanente os problemas relacionados com o projecto, construção, apetrechamento e métodos de utilização dos edifícios escolares, em ordem a obter as soluções mais adequadas às exigências pedagógicas e construtivas, dentro do melhor aproveitamento dos recursos financeiros.
+Art. 4.º Será das atribuições do Gabinete de Estudos e Planeamento estudar de forma permanente os problemas relacionados com o projecto, construção, apetrechamento e métodos de utilização dos edifícios escolares, em ordem a obter as soluções mais adequadas às exigências pedagógicas e construtivas, dentro do melhor aproveitamento dos recursos financeiros.
 
-###### Art. 5.º - 1. Junto da Direcção-Geral das Construções Escolares funcionará um conselho orientador, com a seguinte constituição:
+Art. 5.º - 1. Junto da Direcção-Geral das Construções Escolares funcionará um conselho orientador, com a seguinte constituição:
 
 a) O director-geral, que servirá de presidente;
 
@@ -187,15 +230,15 @@ o) O chefe da Repartição dos Serviços Administrativos, que servirá de secret
 
 4. Os vogais do conselho, com excepção dos funcionários da Direcção-Geral das Construções Escolares, têm direito a uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
 
-###### Art. 6.º O quadro do pessoal da Direcção-Geral das Construções Escolares será o constante do mapa anexo a este diploma.
+Art. 6.º O quadro do pessoal da Direcção-Geral das Construções Escolares será o constante do mapa anexo a este diploma.
 
-###### Art. 7.º Para além dos previstos no artigo 3.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968; são providos por escolha do Ministro das Obras Públicas os seguintes lugares:
+Art. 7.º Para além dos previstos no artigo 3.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968; são providos por escolha do Ministro das Obras Públicas os seguintes lugares:
 
 a) Subdirector-geral - entre os directores de serviços, o director do Gabinete de Estudos e Planeamento, os engenheiros chefes de divisão e os engenheiros-chefes do quadro;
 
 b) Director do Gabinete de Estudos e Planeamento - entre engenheiros civis chefes de divisão e engenheiros civis ou arquitectos-chefes ou de 1.ª classe do quadro ou entre engenheiros e arquitectos de reconhecida competência estranhos ao quadro.
 
-###### Art. 8.º - 1. O primeiro provimento dos lugares do quadro aprovado por este diploma poderá ser feito:
+Art. 8.º - 1. O primeiro provimento dos lugares do quadro aprovado por este diploma poderá ser feito:
 
 a) De entre funcionários vitalícios e contratados dos quadros do Ministério;
 
@@ -207,34 +250,34 @@ b) De entre pessoal dos organismos referidos no artigo 1.º que à data da entra
 
 4. A colocação do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 9.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
+Art. 9.º - 1. Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
 
 2. O Ministro das Obras Públicas poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários, em número suficiente, como tempo mínimo de serviço referido na disposição anterior.
 
-###### Art. 10.º Consideram-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os contratos do pessoal que se encontre em serviço nos organismos extintos pelo presente diploma à data da sua entrada em vigor e que, não ingressando no quadro referido no artigo 6.º, transite, porém, para a Direcção-Geral das Construções Escolares e, bem assim, os contratos de prestação de serviço lavrados nos termos da legislação própria dos referidos organismos.
+Art. 10.º Consideram-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os contratos do pessoal que se encontre em serviço nos organismos extintos pelo presente diploma à data da sua entrada em vigor e que, não ingressando no quadro referido no artigo 6.º, transite, porém, para a Direcção-Geral das Construções Escolares e, bem assim, os contratos de prestação de serviço lavrados nos termos da legislação própria dos referidos organismos.
 
-###### Art. 11.º É aumentado de duas unidades o número de engenheiros inspectores-gerais de obras públicas do quadro do Conselho Superior de Obras Públicas.
+Art. 11.º É aumentado de duas unidades o número de engenheiros inspectores-gerais de obras públicas do quadro do Conselho Superior de Obras Públicas.
 
-###### Art. 12.º Ingressa no quadro do Conselho Superior de Obras Públicas, como inspector-geral de obras públicas, o engenheiro que exerce atualmente o cargo de presidente da Junta das Construções para o Ensino Técnico e Secundário.
+Art. 12.º Ingressa no quadro do Conselho Superior de Obras Públicas, como inspector-geral de obras públicas, o engenheiro que exerce atualmente o cargo de presidente da Junta das Construções para o Ensino Técnico e Secundário.
 
-###### Art. 13.º Os encargos resultantes do presente diploma que não tenham cabimento nas dotações do Orçamento Geral do Estado serão suportados pelo Fundo de Desemprego.
+Art. 13.º Os encargos resultantes do presente diploma que não tenham cabimento nas dotações do Orçamento Geral do Estado serão suportados pelo Fundo de Desemprego.
 
-###### Art. 14.º Cumprido que seja o disposto no n.º 2 do artigo 8.º, e enquanto não se concretizem as necessárias providências de carácter orçamental, poderão ser utilizadas, na satisfação dos encargos com pessoal resultantes do presente diploma, as disponibilidades das verbas orçamentais que vêm suportando os referidos encargos, bem como, em relação aos encargos resultantes do disposto no artigo 11.º, as disponibilidades existentes na verba orçamental consignada no orçamento do Ministério das Obras Públicas em execução ao pagamento do pessoal do quadro do Conselho Superior de Obras Públicas.
+Art. 14.º Cumprido que seja o disposto no n.º 2 do artigo 8.º, e enquanto não se concretizem as necessárias providências de carácter orçamental, poderão ser utilizadas, na satisfação dos encargos com pessoal resultantes do presente diploma, as disponibilidades das verbas orçamentais que vêm suportando os referidos encargos, bem como, em relação aos encargos resultantes do disposto no artigo 11.º, as disponibilidades existentes na verba orçamental consignada no orçamento do Ministério das Obras Públicas em execução ao pagamento do pessoal do quadro do Conselho Superior de Obras Públicas.
 
-###### Art. 15.º - 1. Este decreto-lei entra em vigor no dia 1 de Outubro de 1969, transitando nessa data para a Direcção-Geral das Construções Escolares as obras a cargo dos organismos extintos, bem como todos os seus bens patrimoniais.
+Art. 15.º - 1. Este decreto-lei entra em vigor no dia 1 de Outubro de 1969, transitando nessa data para a Direcção-Geral das Construções Escolares as obras a cargo dos organismos extintos, bem como todos os seus bens patrimoniais.
 
 2. As obras a cargo pròpriamente da Direcção-Geral dos Edifícios e Monumentos Nacionais transitarão à medida que for determinado pelo Ministro das Obras Públicas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 24 de Julho de 1969.**
+Promulgado em 24 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Pessoal e vencimentos da Direcção-Geral das Construções Escolares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/18200/09810983.pdf))](https://files.diariodarepublica.pt/1s/1969/08/18200/09810983.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/18200/09810983.pdf)
 
 Ministério das Obras Públicas, 24 de Julho de 1969. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

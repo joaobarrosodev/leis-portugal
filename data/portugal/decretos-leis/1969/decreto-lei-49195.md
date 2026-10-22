@@ -49,36 +49,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49195-1969-198534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58aa33cbb9377e7574d09102bca52061de4d3a1aa29c2c0cae4547054f3bf1b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab431e0b7ac6d3533888ca0679e945f3df620e4323d15b0f048554fbf918a7c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Imóveis
+- Crédito à Habitação
+- Habitação Social
+- Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514845:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:30Z'
   warnings: []
   errors: []
 ---
@@ -101,12 +113,12 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Dos empréstimos a que se referem a base XVIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, e os artigos 1.º e 3.º do [Decreto-Lei n.º 43186](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43186-1960-514845), de 23 de Setembro de 1960, só podem beneficiar os interessados cujos agregados familiares não tenham, na data da autorização dos empréstimos, rendimento superior a dez vezes a prestação máxima para amortização das casas económicas ou, no caso de tal acontecer, capitação superior a 3000$00.
+Artigo único. Dos empréstimos a que se referem a base XVIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, e os artigos 1.º e 3.º do [Decreto-Lei n.º 43186](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43186-1960-514845), de 23 de Setembro de 1960, só podem beneficiar os interessados cujos agregados familiares não tenham, na data da autorização dos empréstimos, rendimento superior a dez vezes a prestação máxima para amortização das casas económicas ou, no caso de tal acontecer, capitação superior a 3000$00.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 6 de Agosto de 1969.**
+Promulgado em 6 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

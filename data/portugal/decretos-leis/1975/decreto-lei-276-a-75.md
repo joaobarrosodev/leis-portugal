@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 128/1975, 2º Suplemento, Série I de 1975-06-04
   number: '128'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 774-(3) a 774-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/12802/00030003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-a-1975-389779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c815261b9c44d03eb811afb285d07d2f7d8de62d8b7e50c7eb8f66dc4cdfe4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbe1a5118718f87711239fa47518f473eee4bafd251302cc253e6a6408a833cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diploma
+- Forças Armadas
+- Militar
+- Promoção Profissional
+- Reserva
+relationships:
+- type: cites
+  target: pt:dre:370791:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:08Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +100,12 @@ Considerando que, pelo [Decreto-Lei n.º 31532](https://diariodarepublica.pt/dr/
 
 Usando os poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São dispensados do visto do Tribunal de Contas os diplomas de promoção dos militares dos três ramos das forças armadas e, bem assim, os respeitantes à passagem dos mesmos militares à situação de reserva.
+Artigo único. São dispensados do visto do Tribunal de Contas os diplomas de promoção dos militares dos três ramos das forças armadas e, bem assim, os respeitantes à passagem dos mesmos militares à situação de reserva.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 4 de Junho de 1975.**
+Promulgado em 4 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

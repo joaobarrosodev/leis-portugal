@@ -47,40 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/15-1983-311414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dfd44a71aa3f70be3ad4aa97010528cebce0b4fe1598bb4ba7940da54e1a0d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a843a3d0dc8b983d438fa014da3570b3f78ee6aee75719e6aab79877ef8c359
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia Informática
+- Licenciatura
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:419452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:26Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +102,20 @@ Ao abrigo do artigo 16.º do [Decreto-Lei n.º 769-B/76](https://diariodarepubli
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado na Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa o curso de licenciatura em Engenharia Informática.
+Artigo 1.º É criado na Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa o curso de licenciatura em Engenharia Informática.
 
-###### Art. 2.º - 1 - O curso de licenciatura em Engenharia Informática, a que se refere o Despacho n.º 24/79 do Secretário de Estado do Ensino Superior, publicado no Diário da República, 2.ª série, de 3 de Novembro de 1979, cessará de ser ministrado quando o curso de licenciatura em Engenharia Informática a que se refere o presente diploma esteja integralmente em funcionamento.
+Art. 2.º - 1 - O curso de licenciatura em Engenharia Informática, a que se refere o Despacho n.º 24/79 do Secretário de Estado do Ensino Superior, publicado no Diário da República, 2.ª série, de 3 de Novembro de 1979, cessará de ser ministrado quando o curso de licenciatura em Engenharia Informática a que se refere o presente diploma esteja integralmente em funcionamento.
 
 2 - As condições de cessação de funcionamento serão fixadas por portaria do Ministro da Educação.
 
 Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
 
-**Promulgado em 7 de Fevereiro de 1983.**
+Promulgado em 7 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente dá República, ANTÓNIO RAMALHO EANES.**
+O Presidente dá República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Fevereiro de 1983.**
+Referendado em 9 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

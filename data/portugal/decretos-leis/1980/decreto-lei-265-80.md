@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1980-470453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 962839d254c1607f3354ab2fd2f6054369268ea0762e7f7044309e7f552b18d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fde4fd72d9557932d8e1932e5b88510e5a3f6153ab5728e4bdbd00752241c533
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Alimentação e Nutrição
+- Criação de Serviços
+- Definição de Competências
+- Orgânica
+- Produto Alimentar
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:07Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +113,9 @@ Com estas duas entidades estão, assim, criadas as bases fundamentais para, sem 
 
 Nestes termos, o Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, junto do Centro de Estudos de Nutrição do Instituto Nacional de Saúde Dr. Ricardo Jorge, o Conselho de Alimentação e Nutrição (CAN).
+Artigo 1.º É criado, junto do Centro de Estudos de Nutrição do Instituto Nacional de Saúde Dr. Ricardo Jorge, o Conselho de Alimentação e Nutrição (CAN).
 
-###### Art. 2.º O Conselho de Alimentação e Nutrição (CAN) terá as seguintes atribuições:
+Art. 2.º O Conselho de Alimentação e Nutrição (CAN) terá as seguintes atribuições:
 
 a) Formular os princípios orientadores de uma política de alimentação e nutrição que atenda às necessidades de uma correcta prática alimentar para todos os estratos da população, tendo presente os recursos disponíveis no País e a necessidade de racionalizar as importações;
 
@@ -122,7 +131,7 @@ f) Tomar a iniciativa da divulgação de práticas correctas de alimentação ra
 
 g) Estabelecer o intercâmbio de conhecimentos, de experiência e de técnicas com organismos congéneres de outros países, com vista a intensificar a colaboração internacional na defesa de uma mais racional repartição dos recursos alimentares existentes do Mundo.
 
-###### Art. 3.º - 1 - O Conselho será presidido pelo director do Centro de Estudos e Nutrição do Instituto Nacional de Saúde Dr. Ricardo Jorge, que representará o Ministério dos Assuntos Sociais, e terá como vice-presidente o director do Instituto de Qualidade Alimentar, que representará o Ministério da Agricultura e Pescas.
+Art. 3.º - 1 - O Conselho será presidido pelo director do Centro de Estudos e Nutrição do Instituto Nacional de Saúde Dr. Ricardo Jorge, que representará o Ministério dos Assuntos Sociais, e terá como vice-presidente o director do Instituto de Qualidade Alimentar, que representará o Ministério da Agricultura e Pescas.
 
 2 - O Conselho terá como vogais permanentes:
 
@@ -142,18 +151,18 @@ g) Um representante do Instituto Nacional de Investigação Agrária (INIA);
 
 h) Um representante do Insttuto Nacional de Investigação das Pescas.
 
-###### Art. 4.º Com o acordo do presidente, os membros do Conselho poderão ser assistidos, durante as reuniões, por peritos, sem direito a voto, para o esclarecimento dos assuntos a tratar.
+Art. 4.º Com o acordo do presidente, os membros do Conselho poderão ser assistidos, durante as reuniões, por peritos, sem direito a voto, para o esclarecimento dos assuntos a tratar.
 
-###### Art. 5.º Sempre que se mostre conveniente, poderá o presidente convidar a participar naquelas reuniões outros elementos de organismos oficiais e ainda individualidades especialmente qualificadas.
+Art. 5.º Sempre que se mostre conveniente, poderá o presidente convidar a participar naquelas reuniões outros elementos de organismos oficiais e ainda individualidades especialmente qualificadas.
 
-###### Art. 6.º O funcionamento do Conselho será regulado por portaria dos Ministros dos Assuntos Sociais e da Agricultura e Pescas.
+Art. 6.º O funcionamento do Conselho será regulado por portaria dos Ministros dos Assuntos Sociais e da Agricultura e Pescas.
 
-###### Art. 7.º As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros dos Assuntos Sociais e da Agricultura e Pescas.
+Art. 7.º As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros dos Assuntos Sociais e da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Julho de 1980.**
+Promulgado em 21 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

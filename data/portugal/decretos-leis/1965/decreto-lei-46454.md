@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46454-1965-292089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f009b5234f323b7fe7b2f132a66a63fbfe7a0b589c9854091d926ef85bc50873
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac8dc291295caf955d32dee2701e5c4b095880eb1844f4c25388af7ad31b6124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Freguesia
+- Vagos
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:59Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +96,20 @@ Considerando que se verificam todas as demais condições referidas no artigo 9.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Fonte de Angeão, com sede na actual povoação do mesmo nome.
+Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Fonte de Angeão, com sede na actual povoação do mesmo nome.
 
 § único. A freguesia de Fonte de Angeão é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo da confluência da ribeira do Salta com a ribeira do Vale, segue, no sentido dos ponteiros do relógio, pelo curso desta até ao caminho do Salgueiro Velho e por este até à encruzilhada das Brejeiras; daqui avança para sul, em linha recta, em direcção a um marco situado no extremo sul do pinhal de Manuel da Costa Pinto; prossegue pelo caminho de Cabreiros de Moita Senhosa, passando pelas encruzilhadas do caminho dos Defuntos, do caminho das Gesteiras e do caminho das Canas, donde inflecte para noroeste até ao cruzamento com o caminho das Quintas; continua por este caminho até à estrada municipal n.º 599, que atinge num ponto situado à distância de 195 m a nascente de um aqueduto; deste ponto segue para sul, em linha recta, até um marco, no limite do concelho de Cantanhede, situado na extremidade sul da propriedade de Glória de Jesus Carvalheira, à distância de 400 m para nascente da estrada municipal n.º 598; encaminhando-se, pelo limite do concelho de Cantanhede, para noroeste, cruza com a estrada municipal n.º 598 e passa pelos marcos colocados nas propriedades de Serafim de Oliveira e de Manuel Simões Cavaco e ainda pela bifurcação do caminho dos Brajeirões com o caminho da Gândara, prosseguindo até esta povoação no sítio em que se localizam três marcos dos limites dos concelhos de Vagos, Mira e Cantanhede, implantados junto à casa de Ramiro Francisco Rumor; seguindo para nordeste, pelos limites dos concelhos de Mira e Vagos, atinge o marco situado na extremidade sudoeste da propriedade de Abílio José Tavares, daqui inflectindo para noroeste pelos referidos limites até ao marco denominado do Soalheiro; prossegue, em linha recta, de novo para nordeste, até ao marco de triangulação denominado de Eira Velha; avança depois, sempre em linha recta, para este, cruzando a estrada municipal n.º 598, até ao marco situado na extremidade norte da propriedade de Artur Neto, donde continua até ao começo da vala das Barrentas; prosseguindo por esta vala, alcança a ribeira do Salta, cujo curso segue no sentido nordeste, até atingir a confluência com a ribeira do Vale, ponto em que se iniciou a presente descrição.
+Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo da confluência da ribeira do Salta com a ribeira do Vale, segue, no sentido dos ponteiros do relógio, pelo curso desta até ao caminho do Salgueiro Velho e por este até à encruzilhada das Brejeiras; daqui avança para sul, em linha recta, em direcção a um marco situado no extremo sul do pinhal de Manuel da Costa Pinto; prossegue pelo caminho de Cabreiros de Moita Senhosa, passando pelas encruzilhadas do caminho dos Defuntos, do caminho das Gesteiras e do caminho das Canas, donde inflecte para noroeste até ao cruzamento com o caminho das Quintas; continua por este caminho até à estrada municipal n.º 599, que atinge num ponto situado à distância de 195 m a nascente de um aqueduto; deste ponto segue para sul, em linha recta, até um marco, no limite do concelho de Cantanhede, situado na extremidade sul da propriedade de Glória de Jesus Carvalheira, à distância de 400 m para nascente da estrada municipal n.º 598; encaminhando-se, pelo limite do concelho de Cantanhede, para noroeste, cruza com a estrada municipal n.º 598 e passa pelos marcos colocados nas propriedades de Serafim de Oliveira e de Manuel Simões Cavaco e ainda pela bifurcação do caminho dos Brajeirões com o caminho da Gândara, prosseguindo até esta povoação no sítio em que se localizam três marcos dos limites dos concelhos de Vagos, Mira e Cantanhede, implantados junto à casa de Ramiro Francisco Rumor; seguindo para nordeste, pelos limites dos concelhos de Mira e Vagos, atinge o marco situado na extremidade sudoeste da propriedade de Abílio José Tavares, daqui inflectindo para noroeste pelos referidos limites até ao marco denominado do Soalheiro; prossegue, em linha recta, de novo para nordeste, até ao marco de triangulação denominado de Eira Velha; avança depois, sempre em linha recta, para este, cruzando a estrada municipal n.º 598, até ao marco situado na extremidade norte da propriedade de Artur Neto, donde continua até ao começo da vala das Barrentas; prosseguindo por esta vala, alcança a ribeira do Salta, cujo curso segue no sentido nordeste, até atingir a confluência com a ribeira do Vale, ponto em que se iniciou a presente descrição.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Fonte de Angeão realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Covão do Lobo.
+Art. 3.º A eleição da Junta de Freguesia de Fonte de Angeão realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Covão do Lobo.
 
 § 1.º A Junta, eleita nos termos deste artigo, servirá até final do quadriénio em curso.
 
 § 2.º A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Vagos.
 
-###### Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

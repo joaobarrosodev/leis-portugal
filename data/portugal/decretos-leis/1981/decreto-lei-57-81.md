@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/07500/08000800.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1981-389377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d1257a11ef4e563a0102f8a40326eb45f86e4db5914d0dc1497e05980ba6d67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a12dfe5a25d9359b4113f1bf6d7ca588f98f585bebaad1e47c62111a75e468a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Subsídio de Férias
 relationships:
 - type: amended_by
   target: pt:dre:491439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234080:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491439:por
+  label: "Revogado, a partir de 01.01.2010, pelo DEC LEI.296/2009.14.10.2009.MDN, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-2009-491439
+  date: '2009-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:41Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +108,12 @@ Considerando que se torna necessário contemplar de igual forma a situação de 
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. Os militares que, por passarem à situação de disponibilidade, deixem a efectividade de serviço têm direito, no ano de passagem àquela situação, ao subsídio de férias, qualquer que seja a data em que tal se verifique, desde que o número de subsídios abonados durante a sua permanência nas fileiras não seja superior ao número de anos completos de serviço prestado.
+Artigo único. Os militares que, por passarem à situação de disponibilidade, deixem a efectividade de serviço têm direito, no ano de passagem àquela situação, ao subsídio de férias, qualquer que seja a data em que tal se verifique, desde que o número de subsídios abonados durante a sua permanência nas fileiras não seja superior ao número de anos completos de serviço prestado.
 
 Visto e aprovado em Conselho da Revolução em 20 de Novembro de 1980.
 
-**Promulgado em 2 de Fevereiro de 1981.**
+Promulgado em 2 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

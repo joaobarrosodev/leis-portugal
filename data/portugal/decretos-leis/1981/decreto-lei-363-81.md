@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1981, 4º Suplemento, Série I de 1981-12-31
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3414-(40) a 3414-(42)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30004/00400042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1981-144399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b50d2d0063819986371454a878fd5857876225b21bb9233981be68a9c6dce6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d9f0d7888f012fef96b03fcdb98563f19a1010a34cd3ac9a744b9a4f934c266
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Desalfândegamento
+- Importação
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:694041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227847:por
+  label: "Alterados os arts. 2º e 3º e elevado para 10 dias úteis o prazo previsto no art. 12º deste diploma, pelo DEC LEI.199/86.1986.07.21.MF,\
+    \ DR.IS [165]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1986-227847
+  date: '1986-07-21'
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607530:por
+  label: Rectificado pela DECL. DD3322.1982.04.05.PCM, DR.IS [89] de 17/Abr/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-607530
+  date: '1982-04-05'
+- type: repealed_by
+  target: pt:dre:546985:por
+  label: "Revogados os nºs 2 e 3 do art. 2º, na redacção dada pelo Dec Lei 199/86 de 21-Jul, pelo DEC LEI.291/89.1989.09.02.MF,\
+    \ DR.IS [202]\0202]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1989-546985
+  date: '1989-09-02'
+- type: repealed_by
+  target: pt:dre:694041:por
+  label: Revogado pelo DEC LEI.16/91.1991.01.10.MF, DR.IS-A [8], decorridos 180 dias sobre a entrada em vigor daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1991-694041
+  date: '1991-01-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:19Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +138,7 @@ I
 
 Regime normal de descarga directa
 
-###### Artigo 1.º - 1 - As mercadorias vindas do estrangeiro, por qualquer via, serão classificadas, pelos serviços aduaneiros competentes, para efeitos de descarga directa, em 3 categorias:
+Artigo 1.º - 1 - As mercadorias vindas do estrangeiro, por qualquer via, serão classificadas, pelos serviços aduaneiros competentes, para efeitos de descarga directa, em 3 categorias:
 
 Muito críticas;
 
@@ -126,7 +156,7 @@ c) Nas não críticas, a fiscalização será exercida inopinadamente desde o lo
 
 2 - O critério que presidirá à classificação das mercadorias em muito críticas, e não críticas basear-se-á na idoneidade dos importadores, sobrecarga fiscal e natureza da mercadoria.
 
-###### Art. 2.º - 1 - A descarga directa não poderá ser efectuada sem que:
+Art. 2.º - 1 - A descarga directa não poderá ser efectuada sem que:
 
 a) Previamente seja processado o competente bilhete de despacho, no qual a mercadoria será classificada segundo os critérios referidos no artigo anterior;
 
@@ -144,21 +174,21 @@ e) A instalação previamente indicada para armazenar a mercadoria, que deverá 
 
 3 - No caso do título de propriedade não se encontrar legalizado em nome do importador, nos 30 dias imediatos ao pedido da descarga directa, deverá ser prestada garantia nos termos do artigo 179.º do citado Regulamento das Alfândegas.
 
-###### Art. 3.º - 1 - A verificação será pedida no prazo de 30 dias, contados a partir da data do pedido da descarga directa das mercadorias.
+Art. 3.º - 1 - A verificação será pedida no prazo de 30 dias, contados a partir da data do pedido da descarga directa das mercadorias.
 
 2 - Em casos devidamente justificados, o prazo referido no número anterior poderá ser prorrogado pelos directores das alfândegas por igual período, findo o qual serão consideradas como demoradas.
 
-###### Art. 4.º Nos casos de mercadorias classificadas de críticas ou não críticas e em que, por força de factos anómalos, as mesmas tenham que passar à categoria de muito críticas, serão inventariadas e sujeitas à fiscalização permanente a expensas do importador.
+Art. 4.º Nos casos de mercadorias classificadas de críticas ou não críticas e em que, por força de factos anómalos, as mesmas tenham que passar à categoria de muito críticas, serão inventariadas e sujeitas à fiscalização permanente a expensas do importador.
 
 II
 
 Regime simplificado da descarga directa
 
-###### Art. 5.º Os importadores que não desejarem ficar sujeitos aos condicionalismos previstos no capítulo anterior poderão beneficiar do «regime simplificado».
+Art. 5.º Os importadores que não desejarem ficar sujeitos aos condicionalismos previstos no capítulo anterior poderão beneficiar do «regime simplificado».
 
-###### Art. 6.º Só poderão beneficiar deste regime os importadores aos quais a administração aduaneira reconheça idoneidade fiscal e que simultaneamente lhe ofereçam as necessárias garantias financeiras.
+Art. 6.º Só poderão beneficiar deste regime os importadores aos quais a administração aduaneira reconheça idoneidade fiscal e que simultaneamente lhe ofereçam as necessárias garantias financeiras.
 
-###### Art. 7.º - 1 - Os importadores interessados em beneficiar do «regime simplificado» requerê-lo-ão ao director da respectiva alfândega no prazo de 30 dias.
+Art. 7.º - 1 - Os importadores interessados em beneficiar do «regime simplificado» requerê-lo-ão ao director da respectiva alfândega no prazo de 30 dias.
 
 2 - O requerimento será acompanhado de uma ficha de informações, na qual constará, designadamente:
 
@@ -184,42 +214,42 @@ i) Instituições bancárias que normalmente utiliza.
 
 4 - Se os importadores utilizarem os serviços de um ou mais despachantes oficiais, a relação referida na alínea h) deve ser confirmada pelos mesmos. Porém, aos importadores que hajam iniciado nesse ano a sua actividade não lhes será exigida essa relação.
 
-###### Art. 8.º O director da alfândega, recebido o pedido e a ficha referidos no n.º 1 do artigo 7.º, mandará instruir o mesmo com as informações que tiver por mais convenientes, designadamente informações bancárias, informação do despachante oficial, se o houver, visita por funcionários aduaneiros às instalações e respectivo parecer, após o que, no prazo citado no aludido n.º 1, proferirá a sua decisão, da qual será notificado o interessado.
+Art. 8.º O director da alfândega, recebido o pedido e a ficha referidos no n.º 1 do artigo 7.º, mandará instruir o mesmo com as informações que tiver por mais convenientes, designadamente informações bancárias, informação do despachante oficial, se o houver, visita por funcionários aduaneiros às instalações e respectivo parecer, após o que, no prazo citado no aludido n.º 1, proferirá a sua decisão, da qual será notificado o interessado.
 
-###### Art. 9.º Sendo a decisão favorável, a alfândega respectiva celebrará com o requerente um «acordo de regime simplificado», que será assinado pelos directores das alfândegas e pelos importadores ou seus representantes legais, do qual constarão as condições em que poderão receber mercadorias em descarga directa, beneficiando deste regime e no qual serão definidos os compromissos a que ficam obrigados e as sanções de que serão passíveis no caso de violação.
+Art. 9.º Sendo a decisão favorável, a alfândega respectiva celebrará com o requerente um «acordo de regime simplificado», que será assinado pelos directores das alfândegas e pelos importadores ou seus representantes legais, do qual constarão as condições em que poderão receber mercadorias em descarga directa, beneficiando deste regime e no qual serão definidos os compromissos a que ficam obrigados e as sanções de que serão passíveis no caso de violação.
 
-###### Art. 10.º - 1 - O «acordo» só produzirá efeitos depois de apresentada, perante os directores das alfândegas respectivas, uma caução bancária anual no montante de 10% da totalidade dos direitos e outras imposições pagas ou garantidas no ano anterior pelo importador, a qual responderá não só pelos direitos e outras imposições cobradas pelas alfândegas, como também pelo valor das mercadorias.
+Art. 10.º - 1 - O «acordo» só produzirá efeitos depois de apresentada, perante os directores das alfândegas respectivas, uma caução bancária anual no montante de 10% da totalidade dos direitos e outras imposições pagas ou garantidas no ano anterior pelo importador, a qual responderá não só pelos direitos e outras imposições cobradas pelas alfândegas, como também pelo valor das mercadorias.
 
 2 - Para os importadores que hajam iniciado a actividade no ano do pedido, bem como para aqueles que tenham importado mercadorias isentas ou livres de direitos, o montante será proposto pelo interessado e decidido pelos directores das alfândegas.
 
-###### Art. 11.º O «acordo» conterá obrigatoriamente os locais de armazenagem autorizados e os tipos de mercadorias que poderão beneficiar do «regime simplificado».
+Art. 11.º O «acordo» conterá obrigatoriamente os locais de armazenagem autorizados e os tipos de mercadorias que poderão beneficiar do «regime simplificado».
 
-###### Art. 12.º O «acordo» conterá ainda o compromisso do importador em não utilizar ou modificar a totalidade ou parte da mercadoria antes de liberta da acção fiscal, comprometendo-se a alfândega a proceder ao desembaraço aduaneiro das mercadorias no prazo máximo de 3 dias úteis, a contar da data do pedido de verificação.
+Art. 12.º O «acordo» conterá ainda o compromisso do importador em não utilizar ou modificar a totalidade ou parte da mercadoria antes de liberta da acção fiscal, comprometendo-se a alfândega a proceder ao desembaraço aduaneiro das mercadorias no prazo máximo de 3 dias úteis, a contar da data do pedido de verificação.
 
 III
 
 Disposições gerais
 
-###### Art. 13.º - 1 - A utilização ou modificação das mercadorias antes do desembaraço aduaneiro, bem como a armazenagem em locais diversos daqueles para os quais foi autorizada a descarga, serão punidas com a suspensão de qualquer dos regimes, por um período de 6 a 24 meses, independentemente do facto de ser qualificado de transgressão fiscal punível com a multa de 8 a 20 vezes o valor dos direitos e demais imposições devidos ou, não se tornando possível a determinação destes, com a multa de 100000$00 a 2000000$00.
+Art. 13.º - 1 - A utilização ou modificação das mercadorias antes do desembaraço aduaneiro, bem como a armazenagem em locais diversos daqueles para os quais foi autorizada a descarga, serão punidas com a suspensão de qualquer dos regimes, por um período de 6 a 24 meses, independentemente do facto de ser qualificado de transgressão fiscal punível com a multa de 8 a 20 vezes o valor dos direitos e demais imposições devidos ou, não se tornando possível a determinação destes, com a multa de 100000$00 a 2000000$00.
 
 2 - Em caso de reincidência, será o importador excluído definitivamente do regime autorizado, sem embargo do procedimento fiscal aplicável.
 
-###### Art. 14.º Não são permitidas descargas directas, em qualquer dos regimes, de mercadorias chegadas ao País, em grupagem, transportadas por via férrea, via rodoviária, incluindo o regime de transporte internacional rodoviário (TIR), assim como em contentores, salvo casos especiais devidamente justificados autorizados pelo respectivo director da alfândega.
+Art. 14.º Não são permitidas descargas directas, em qualquer dos regimes, de mercadorias chegadas ao País, em grupagem, transportadas por via férrea, via rodoviária, incluindo o regime de transporte internacional rodoviário (TIR), assim como em contentores, salvo casos especiais devidamente justificados autorizados pelo respectivo director da alfândega.
 
-###### Art. 15.º Independentemente dos actos de fiscalização previstos nos artigos anteriores, os importadores facultarão aos funcionários aduaneiros e demais agentes de fiscalização as suas instalações, bem como os meios indispensáveis para certificação da situação das mercadorias.
+Art. 15.º Independentemente dos actos de fiscalização previstos nos artigos anteriores, os importadores facultarão aos funcionários aduaneiros e demais agentes de fiscalização as suas instalações, bem como os meios indispensáveis para certificação da situação das mercadorias.
 
-###### Art. 16.º Não serão aplicadas quaisquer disposições legais aduaneiras em vigor que contrariem, de qualquer modo, o disposto no presente diploma.
+Art. 16.º Não serão aplicadas quaisquer disposições legais aduaneiras em vigor que contrariem, de qualquer modo, o disposto no presente diploma.
 
-###### Art. 17.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 17.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 18.º A regulamentação do presente decreto-lei será objecto de portaria do Ministro de Estado e das Finanças e do Plano.
+Art. 18.º A regulamentação do presente decreto-lei será objecto de portaria do Ministro de Estado e das Finanças e do Plano.
 
-###### Art. 19.º Este diploma entra em vigor 30 dias após a publicação da respectiva regulamentação.
+Art. 19.º Este diploma entra em vigor 30 dias após a publicação da respectiva regulamentação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 31 de Dezembro de 1981.**
+Promulgado em 31 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

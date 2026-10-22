@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b166df6ea7381722f4e9ad65e3bf339054e0bc1c6b14433ac97050c802464f60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f80553c79aed5aadf2db34e72005224ae8779c940ace44a7ad9ec0219df2666
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartório Notarial
+- Conservatória do Registo Automóvel
+- Conservatória do Registo Civil
+- Conservatória do Registo Comercial
+- Conservatória do Registo Predial
+- Conservatória dos Registos Centrais
+- Direcção Geral dos Registos e do Notariado
+- Emolumento
+- Orgânica
+- Remuneração
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:502778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273632:por
+  label: "Introduzida a categoria de chefe de secção ao quadro de pessoal auxiliar da Conservatória dos Registos Centrais\
+    \ fixado no art. 30º pelo DEC LEI.48503.29.07.1968.MJ, DG.IS [178] de 29.07.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48503-1968-273632
+  date: '1968-07-29'
+- type: amended_by
+  target: pt:dre:227266:por
+  label: "Dada nova redacção aos artigos 1.º, 2.º, 3.º, 11.º, 15.º, 19.º, 20.º, 21.º, 23.º, 25.º, 26.º, 27.º, 30.º, 31.º,\
+    \ 32.º, 33.º, 37.º, 38.º,39.º, 42.º, 44.º, 47.º, 48.º, 49.º, 52.º e 64.º , pelo DEC LEI.15/70.12.01.1970.MJ, DG.IS [11]\
+    \ de 14.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1970-227266
+  date: '1970-01-12'
+- type: amended_by
+  target: pt:dre:685465:por
+  label: "Alterados os arts. 38º, 40º, 48º e 65º pelo DEC LEI.530/72.20.12.1972.MJ, DG.IS [294] de 20.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1972-685465
+  date: '1972-12-20'
+- type: amended_by
+  target: pt:dre:502778:por
+  label: "Altera o nº 6 do art. 38º do presente diploma, na redacção que lhe foi conferida pelo Dec Lei 530/72 de 20-Dez,\
+    \ pelo DEC LEI.258/76.08.04.1976.MAI, DG.IS [84] de 08.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1976-502778
+  date: '1976-04-08'
+- type: cites
+  target: pt:dre:268041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:11Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +175,7 @@ Usando da faculdade conferida pela 1.ª parte de n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Registos centrais
 
-###### Artigo 1.º Junto da Direcção-Geral dos Registos e de Notariado funciona a Conservatória dos Registos Centrais, à qual compete em especial:
+Artigo 1.º Junto da Direcção-Geral dos Registos e de Notariado funciona a Conservatória dos Registos Centrais, à qual compete em especial:
 
 a) O registo central da nacionalidade;
 
@@ -112,37 +183,37 @@ b) O registo central do estado civil;
 
 c) O registo central das escrituras e testamentos.
 
-###### Art. 2.º O director-geral pode confiar à Conservatória dos Registos Centrais não só a organização da estatística anual dos actos de registo e notariais, como parte do serviço técnico de consultas a cargo da 2.ª Repartição da Direcção-Geral dos Registos e do Notariado.
+Art. 2.º O director-geral pode confiar à Conservatória dos Registos Centrais não só a organização da estatística anual dos actos de registo e notariais, como parte do serviço técnico de consultas a cargo da 2.ª Repartição da Direcção-Geral dos Registos e do Notariado.
 
 #### SECÇÃO II — Conservatórias do registo civil, predial, comercial e de automóveis
 
-###### Art. 3.º - 1. Na sede de cada concelho do continente e das ilhas adjacentes haverá uma conservatória do registo civil, uma conservatória do registo predial e uma conservatória do registo comercial, cuja competência se estende a toda a área do concelho.
+Art. 3.º - 1. Na sede de cada concelho do continente e das ilhas adjacentes haverá uma conservatória do registo civil, uma conservatória do registo predial e uma conservatória do registo comercial, cuja competência se estende a toda a área do concelho.
 
 2. Na sede dos concelhos de Lisboa e Porto pode haver mais de uma conservatória do registo civil e do registo predial.
 
-###### Art. 4.º - 1. A adaptação da competência territorial dos serviços de registo predial e comercial às áreas concelhias, mediante a criação de conservatórias privativas na sede de cada concelho, só será efectuada à medida que o incremento dos serviços o justifique.
+Art. 4.º - 1. A adaptação da competência territorial dos serviços de registo predial e comercial às áreas concelhias, mediante a criação de conservatórias privativas na sede de cada concelho, só será efectuada à medida que o incremento dos serviços o justifique.
 
 2. A competência territorial das conservatórias de Lisboa e Porto deve ser fixada com base na divisão administrativa do respectivo concelho e por forma que o volume e o rendimento do serviço de cada conservatória da mesma espécie sejam, tanto quanto possível, igualados.
 
 3. As alterações que vierem a ser introduzidas na demarcação administrativa da área de qualquer concelho, bem como nos limites das respectivas freguesias, só são consideradas, para fins de registo, à medida que, pelo Ministério da Justiça, for determinado o reajustamento da área das correspondentes conservatórias às alterações administrativas.
 
-###### Art. 5.º As conservatórias do registo comercial podem funcionar como repartições autónomas ou em regime de anexação com outra conservatória de espécie diferente, com sede na mesma localidade.
+Art. 5.º As conservatórias do registo comercial podem funcionar como repartições autónomas ou em regime de anexação com outra conservatória de espécie diferente, com sede na mesma localidade.
 
-###### Art. 6.º - 1. Nas cidades que sirvam de sede às direcções dos serviços de viação haverá uma conservatória de registo de automóveis, com jurisdição na área da respectiva circunscrição.
+Art. 6.º - 1. Nas cidades que sirvam de sede às direcções dos serviços de viação haverá uma conservatória de registo de automóveis, com jurisdição na área da respectiva circunscrição.
 
 2. Às conservatórias de registo de automóveis é aplicável o disposto no artigo anterior.
 
-###### Art. 7.º As conservatórias em que normalmente se verifique grande afluência de serviço podem ser divididas em secções e organizadas em regime de secretaria.
+Art. 7.º As conservatórias em que normalmente se verifique grande afluência de serviço podem ser divididas em secções e organizadas em regime de secretaria.
 
-###### Art. 8.º Quando as circunstâncias o aconselhem, pode ser determinada a fusão de duas ou mais conservatórias da mesma espécie, com sede na mesma localidade, para funcionarem como conservatória única, dividida e organizada nos termos previstos no artigo anterior.
+Art. 8.º Quando as circunstâncias o aconselhem, pode ser determinada a fusão de duas ou mais conservatórias da mesma espécie, com sede na mesma localidade, para funcionarem como conservatória única, dividida e organizada nos termos previstos no artigo anterior.
 
 #### SECÇÃO III — Postos do registo civil
 
-###### Art. 9.º - 1. Nas freguesias rurais onde a densidade de população e as dificuldades de comunicações com a sede do concelho os tornem necessários pode haver um posto de registo civil.
+Art. 9.º - 1. Nas freguesias rurais onde a densidade de população e as dificuldades de comunicações com a sede do concelho os tornem necessários pode haver um posto de registo civil.
 
 2. Nos estabelecimentos hospitalares de grande movimento pode, igualmente, funcionar um posto de registo civil.
 
-###### Art. 10.º - 1. Cada posto rural ou hospitalar pode servir, respectivamente, mais de uma freguesia ou estabelecimento dependente da mesma administração.
+Art. 10.º - 1. Cada posto rural ou hospitalar pode servir, respectivamente, mais de uma freguesia ou estabelecimento dependente da mesma administração.
 
 2. Os postos do registo civil são designados pelo nome da freguesia ou do estabelecimento hospitalar da respectiva sede e pertencem à conservatória do registo civil em cuja área estejam situados.
 
@@ -150,23 +221,23 @@ c) O registo central das escrituras e testamentos.
 
 #### SECÇÃO IV — Cartórios notariais
 
-###### Art. 11.º - 1. Na sede de cada concelho do continente e das ilhas adjacentes haverá um ou mais cartórios notariais, cuja competência tem por limite a área do respectivo concelho.
+Art. 11.º - 1. Na sede de cada concelho do continente e das ilhas adjacentes haverá um ou mais cartórios notariais, cuja competência tem por limite a área do respectivo concelho.
 
 2. Em Lisboa e Porto haverá cartórios privativos para os serviços de protesto de letras e de outros títulos de crédito.
 
-###### Art. 12.º - 1. Em todos os concelhos, excluídos os de Lisboa e Porto, onde haja mais do que um cartório os serviços notariais funcionam em regime de secretaria.
+Art. 12.º - 1. Em todos os concelhos, excluídos os de Lisboa e Porto, onde haja mais do que um cartório os serviços notariais funcionam em regime de secretaria.
 
 2. Em igual regime funcionam, nos concelhos de Lisboa e Porto, os cartórios privativos do protesto de letras.
 
 #### SECÇÃO V — Serviços anexados
 
-###### Art. 13.º - 1. Os serviços de registo e do notariado da mesma sede, que normalmente tenham pequeno movimento, podem ser anexados entre si, pela forma que as circunstâncias mostrem mais conveniente, a fim de funcionarem numa única repartição, com despesas e pessoal comuns.
+Art. 13.º - 1. Os serviços de registo e do notariado da mesma sede, que normalmente tenham pequeno movimento, podem ser anexados entre si, pela forma que as circunstâncias mostrem mais conveniente, a fim de funcionarem numa única repartição, com despesas e pessoal comuns.
 
 2. O regime de anexação pode cessar ou ser modificado logo que a evolução do movimento dos serviços ou outras circunstâncias especiais o justifiquem.
 
 #### SECÇÃO VI — Classificação das conservatórias e cartórios
 
-###### Art. 14.º - 1. As conservatórias do registo civil e predial e os cartórios notariais são divididos em três classes.
+Art. 14.º - 1. As conservatórias do registo civil e predial e os cartórios notariais são divididos em três classes.
 
 2. A classe correspondente a cada conservatória ou cartório é fixada em função do movimento e rendimento do respectivo serviço, devendo, porém, manter-se, na medida do possível, a proporção aproximada de um lugar de 1.ª classe para dois de 2.ª e três de 3.ª
 
@@ -176,25 +247,25 @@ c) O registo central das escrituras e testamentos.
 
 #### SECÇÃO VII — Instalações e funcionamento dos serviços
 
-###### Art. 15.º - 1. Constitui encargo obrigatório das câmaras municipais o fornecimento de casa, água e luz para a conveniente instalação e funcionamento das conservatórias do registo civil e predial.
+Art. 15.º - 1. Constitui encargo obrigatório das câmaras municipais o fornecimento de casa, água e luz para a conveniente instalação e funcionamento das conservatórias do registo civil e predial.
 
 2. O encargo é extensivo a todos os serviços de registo e do notariado, quando instalados em edifício cuja construção tenha sido subsidiada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 3. O arrendamento de prédios destinados aos serviços de registo e do notariado cuja instalação não pertence às câmaras municipais, fica a cargo do Estado, representado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 16.º - 1. Pode ser requisitado, nos termos da lei geral, o arrendamento de prédios onde estejam instaladas conservatórias ou cartórios notariais quando, uma vez findo o respectivo contrato com o conservador ou notário que o haja celebrado, o senhorio se recuse a renová-lo em justas condições.
+Art. 16.º - 1. Pode ser requisitado, nos termos da lei geral, o arrendamento de prédios onde estejam instaladas conservatórias ou cartórios notariais quando, uma vez findo o respectivo contrato com o conservador ou notário que o haja celebrado, o senhorio se recuse a renová-lo em justas condições.
 
 2. A requisição é igualmente permitida no caso de o conservador ou notário arrendatário deixar de exercer na localidade as suas funções e não ser obtida a transmissão contratual do arrendamento.
 
-###### Art. 17.º As despesas de instalação dos postos do registo civil constituem encargo da junta de freguesia ou do estabelecimento hospitalar da sua sede.
+Art. 17.º As despesas de instalação dos postos do registo civil constituem encargo da junta de freguesia ou do estabelecimento hospitalar da sua sede.
 
-###### Art. 18.º É aplicável ao horário de serviço das conservatórias e cartórios notariais o regime previsto na lei geral, na parte que não for contrariada pelo regulamento do presente diploma.
+Art. 18.º É aplicável ao horário de serviço das conservatórias e cartórios notariais o regime previsto na lei geral, na parte que não for contrariada pelo regulamento do presente diploma.
 
 ### CAPÍTULO II — Do pessoal
 
 #### SECÇÃO I — Conservadores e notários
 
-###### Art. 19.º - 1. Cada conservatória e cada cartório notarial é chefiado respectivamente por um conservador e por um notário.
+Art. 19.º - 1. Cada conservatória e cada cartório notarial é chefiado respectivamente por um conservador e por um notário.
 
 2. Na Conservatória dos Registos Centrais há ainda um conservador adjunto.
 
@@ -202,7 +273,7 @@ c) O registo central das escrituras e testamentos.
 
 4. Os serviços anexados funcionam, conforme os casos, sob a chefia de um só conservador ou conservador-notário.
 
-###### Art. 20.º - 1. O ingresso nos quadros de conservador ou notário é reservado aos cidadãos portugueses, de ambos os sexos, aprovados em concurso de habilitação, comum a essas funções.
+Art. 20.º - 1. O ingresso nos quadros de conservador ou notário é reservado aos cidadãos portugueses, de ambos os sexos, aprovados em concurso de habilitação, comum a essas funções.
 
 2. São dispensados do concurso de habilitação:
 
@@ -214,11 +285,11 @@ c) Os licenciados com a classificação mínima de 14 valores nos cursos complem
 
 3. Os conservadores do registo civil providos à data da publicação do [Decreto-Lei n.º 37666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37666-1949-268041), de 19 de Dezembro de 1949, podem igualmente ser nomeados, com dispensa do concurso de habilitação, conservadores do registo predial ou notários.
 
-###### Art. 21.º - 1. Os conservadores e notários são funcionários públicos vitalícios e exercem as suas funções na área de jurisdição da respectiva conservatória ou cartório.
+Art. 21.º - 1. Os conservadores e notários são funcionários públicos vitalícios e exercem as suas funções na área de jurisdição da respectiva conservatória ou cartório.
 
 2. Os conservadores e notários são substituídos, na sua falta ou impedimento, pelos respectivos ajudantes ou por conservador ou notário da mesma localidade e, na falta ou impedimento de uns e outros, pelo secretário da câmara municipal, enquanto não for designada outra pessoa idónea pelo director-geral.
 
-###### Art. 22.º - 1. O exercício do cargo de conservador ou notário é incompatível:
+Art. 22.º - 1. O exercício do cargo de conservador ou notário é incompatível:
 
 a) Com qualquer função pública remunerada, salvo o disposto no artigo 25.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935;
 
@@ -228,7 +299,7 @@ c) Com o exercício da advocacia, salvo nos casos previstos no regulamento do pr
 
 2. O exercício das actividades a que se refere a alínea b) do número anterior pode ser autorizado, aos conservadores, pelo Ministro da Justiça, desde que dele não resultem prejuízos para a função.
 
-###### Art. 23.º - 1. Os conservadores e notários são integrados em três quadros distintos: um de conservadores do registo civil, outro de conservadores do registo predial e o terceiro de notários.
+Art. 23.º - 1. Os conservadores e notários são integrados em três quadros distintos: um de conservadores do registo civil, outro de conservadores do registo predial e o terceiro de notários.
 
 2. Os funcionários pertencentes a cada um dos quadros são agrupados em três classes, segundo a sua antiguidade e classificação de serviço.
 
@@ -238,9 +309,9 @@ c) Com o exercício da advocacia, salvo nos casos previstos no regulamento do pr
 
 5. Os funcionários providos em lugares anexados nos termos do artigo 13.º serão colocados simultâneamente nos quadros a que pertençam os lugares que ocupam, enquanto durar a acumulação das respectivas funções.
 
-###### Art. 24.º O acesso dos conservadores e notários à classe imediata é realizado, quanto às vagas abertas no respectivo quadro, segundo a ordem por que forem graduados pelo conselho da Direcção-Geral dos Registos e do notariado, de harmonia com a sua antiguidade, classificação de serviço e cadastro disciplinar.
+Art. 24.º O acesso dos conservadores e notários à classe imediata é realizado, quanto às vagas abertas no respectivo quadro, segundo a ordem por que forem graduados pelo conselho da Direcção-Geral dos Registos e do notariado, de harmonia com a sua antiguidade, classificação de serviço e cadastro disciplinar.
 
-###### Art. 25.º - 1. Os lugares vagos de conservador e notário são providos mediante concurso documental aberto perante a Direcção-Geral dos Registos e do Notariado, nos termos previstos no regulamento do presente diploma, salvo em caso de transferência compulsiva ou determinada por conveniência de serviço.
+Art. 25.º - 1. Os lugares vagos de conservador e notário são providos mediante concurso documental aberto perante a Direcção-Geral dos Registos e do Notariado, nos termos previstos no regulamento do presente diploma, salvo em caso de transferência compulsiva ou determinada por conveniência de serviço.
 
 2. Os magistrados judiciais e do Ministério Público, bem como o chefe da repartição técnica, os assessores e inspectores da Direcção-Geral dos Registos e do Notariado podem concorrer às vagas de 2.ª classe, quando tenham, pelo menos, oito anos de bom e efectivo serviço, e às de 1.ª classe quando tiverem dezasseis anos de serviço nas mesmas condições.
 
@@ -248,23 +319,23 @@ c) Com o exercício da advocacia, salvo nos casos previstos no regulamento do pr
 
 4. Os agentes do Ministério Público a que se refere o artigo 346.º do Estatuto Judiciário são providos, independentemente de concurso, em lugares de conservadores ou notários, nos termos daquele preceito.
 
-###### Art. 26.º Os funcionários que sejam nomeados conservadores ou notários, nos termos do artigo anterior, ocupam nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores, independentemente da classe do lugar em que foram providos.
+Art. 26.º Os funcionários que sejam nomeados conservadores ou notários, nos termos do artigo anterior, ocupam nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores, independentemente da classe do lugar em que foram providos.
 
-###### Art. 27.º - 1. Os lugares de conservador dos Registos Centrais e seu adjunto serão providos, por livre escolha do Ministro da Justiça, entre os chefes de repartição e inspectores da Direcção-Geral dos Registos e do Notariado ou conservadores e notários com mais de dez anos de bom e efectivo serviço.
+Art. 27.º - 1. Os lugares de conservador dos Registos Centrais e seu adjunto serão providos, por livre escolha do Ministro da Justiça, entre os chefes de repartição e inspectores da Direcção-Geral dos Registos e do Notariado ou conservadores e notários com mais de dez anos de bom e efectivo serviço.
 
 2. O provimento do lugar de adjunto é sempre feito em comissão de serviço por períodos trienais renováveis.
 
-###### Art. 28.º - 1. Os conservadores e notários podem ser nomeados, com autorização do Ministro da Justiça, para desempenhar comissões temporárias de serviço público, nos termos da lei.
+Art. 28.º - 1. Os conservadores e notários podem ser nomeados, com autorização do Ministro da Justiça, para desempenhar comissões temporárias de serviço público, nos termos da lei.
 
 2. Os lugares dos comissionados podem ser providos interinamente, enquanto durar a comissão, e podem ser declarados vagos quando a comissão se prolongue além de três anos.
 
-###### Art. 29.º - 1. Os conservadores e notários que terminem o desempenho de uma comissão de serviço ou o cumprimento de pena disciplinar, nos casos em que a comissão ou pena tenha determinado a vacatura dos respectivos lugares, ficam na situação de adidos até nova colocação.
+Art. 29.º - 1. Os conservadores e notários que terminem o desempenho de uma comissão de serviço ou o cumprimento de pena disciplinar, nos casos em que a comissão ou pena tenha determinado a vacatura dos respectivos lugares, ficam na situação de adidos até nova colocação.
 
 2. Aos adidos é abonado, enquanto se mantiverem nessa situação, o ordenado da sua categoria, mas se deixarem de tomar posse no prazo legal do lugar onde forem colocados passarão à situação de licença ilimitada ou, se a ela não tiverem direito, serão exonerados.
 
 #### SECÇÃO II — Pessoal auxiliar
 
-###### Art. 30.º O pessoal auxiliar dos serviços do registo e do notariado compreende as seguintes categorias de funcionários:
+Art. 30.º O pessoal auxiliar dos serviços do registo e do notariado compreende as seguintes categorias de funcionários:
 
 a) Primeiros, segundos e terceiros-ajudantes;
 
@@ -272,27 +343,27 @@ b) Escriturários de 1.ª e 2.ª classes;
 
 c) Contínuos.
 
-###### Art. 31.º - 1. Cada conservatória ou cartório notarial tem um quadro do pessoal auxiliar privativo com a composição determinada pelo regulamento do presente diploma.
+Art. 31.º - 1. Cada conservatória ou cartório notarial tem um quadro do pessoal auxiliar privativo com a composição determinada pelo regulamento do presente diploma.
 
 2. O quadro do pessoal dos serviços organizados em regime de secretaria é comum a todas as secções ou cartórios que a constituam.
 
 3. Sempre que as circunstâncias o exijam, tem o Ministro da Justiça a faculdade de autorizar a admissão temporária de pessoal assalariado, além do quadro, para a execução de trabalhos extraordinários.
 
-###### Art. 32.º O provimento dos lugares dos quadros auxiliares é feito por contrato, de harmonia com as disposições consignadas no regulamento do presente diploma.
+Art. 32.º O provimento dos lugares dos quadros auxiliares é feito por contrato, de harmonia com as disposições consignadas no regulamento do presente diploma.
 
-###### Art. 33.º - 1. Os funcionários dos quadros auxiliares gozam de todos os direitos e estão sujeitos a todos os deveres dos funcionários contratados dos quadros permanentes dos serviços do Estado.
+Art. 33.º - 1. Os funcionários dos quadros auxiliares gozam de todos os direitos e estão sujeitos a todos os deveres dos funcionários contratados dos quadros permanentes dos serviços do Estado.
 
 2. Os contínuos da Conservatória dos Registos Centrais têm direito à concessão do fardamento previsto pelo [Decreto-Lei n.º 22848](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22848-1933-317693), de 19 de Junho de 1933.
 
 3. Aos funcionários que à data da publicação do [Decreto-Lei n.º 37666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37666-1949-268041), de 19 de Dezembro de 1949, desempenhavam as funções de ajudante de conservador ou notário é contado o tempo de serviço prestado nessas funções para efeito da aposentação, desde que paguem à Caixa as respectivas quotas.
 
-###### Art. 34.º - 1. Os funcionários auxiliares estão sujeitos às incompatibilidades e inibições estabelecidas na lei geral para os funcionários públicos e não podem exercer a profissão de solicitador, comerciante ou industrial, salvo quando autorizados pelo Ministro da Justiça.
+Art. 34.º - 1. Os funcionários auxiliares estão sujeitos às incompatibilidades e inibições estabelecidas na lei geral para os funcionários públicos e não podem exercer a profissão de solicitador, comerciante ou industrial, salvo quando autorizados pelo Ministro da Justiça.
 
 2. Os funcionários que à data da publicação do [Decreto-Lei n.º 37666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37666-1949-268041) exerciam a profissão de solicitador podem continuar a exercê-la, enquanto essa faculdade não lhes for retirada por despacho do Ministro da Justiça.
 
 #### SECÇÃO III — Ajudantes dos postos do registo civil
 
-###### Art. 35.º - 1. Cada posto do registo civil é chefiado por um ajudante nomeado pelo Ministro da Justiça, sob proposta do respectivo conservador.
+Art. 35.º - 1. Cada posto do registo civil é chefiado por um ajudante nomeado pelo Ministro da Justiça, sob proposta do respectivo conservador.
 
 2. Os ajudantes dos postos rurais e hospitalares são substituídos, na sua falta ou impedimento, respectivamente pelo secretário da junta de freguesia e pelo chefe da secretaria do estabelecimento, ou por quem as suas vezes fizer.
 
@@ -300,9 +371,9 @@ c) Contínuos.
 
 #### SECÇÃO I — Remuneração dos funcionários
 
-###### Art. 36.º A remuneração dos conservadores e notários é constituída por uma parte fixa ou ordenado e pela participação no rendimento emolumentar líquido da respectiva repartição.
+Art. 36.º A remuneração dos conservadores e notários é constituída por uma parte fixa ou ordenado e pela participação no rendimento emolumentar líquido da respectiva repartição.
 
-###### Art. 37.º - 1. Os ordenados dos conservadores e notários quando sirvam em lugares da classe correspondente à sua classe pessoal são os seguintes:
+Art. 37.º - 1. Os ordenados dos conservadores e notários quando sirvam em lugares da classe correspondente à sua classe pessoal são os seguintes:
 
 a) Na 1.ª classe - 5400$00.
 
@@ -316,7 +387,7 @@ c) Na 3.ª classe - 3000$00.
 
 4. O ordenado equivale, para todos os efeitos, ao vencimento da categoria e é abonado sempre que, segundo a lei geral, se mantém o direito a esse vencimento.
 
-###### Art. 38.º - 1. A participação dos conservadores e notários no rendimento emolumentar dos serviços é determinada pela aplicação das seguintes percentagens sobre a receita mensal líquida:
+Art. 38.º - 1. A participação dos conservadores e notários no rendimento emolumentar dos serviços é determinada pela aplicação das seguintes percentagens sobre a receita mensal líquida:
 
 a) Até 5000$00 na 3.ª classe, 7500$00 na 2.ª classe e 10000$00 na 1.ª classe - 30 por cento;
 
@@ -330,15 +401,15 @@ c) Sobre o excedente até 50000$00 - 5 por cento para os conservadores e 10 por 
 
 4. Sobre a participação emolumentar dos conservadores ou notários incide a contribuição industrial de 15 por cento, nos termos do artigo 2.º do [Decreto-Lei n.º 26644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26644-1936-361368), de 28 de Maio de 1936.
 
-###### Art. 39.º - 1. O conservador ou notário que exerça funções em serviços anexados recebe sòmente o ordenado de um dos lugares acumulados, mas tem direito à participação emolumentar de todos eles, tomando-se a soma das respectivas receitas líquidas para a determinação da percentagem aplicável.
+Art. 39.º - 1. O conservador ou notário que exerça funções em serviços anexados recebe sòmente o ordenado de um dos lugares acumulados, mas tem direito à participação emolumentar de todos eles, tomando-se a soma das respectivas receitas líquidas para a determinação da percentagem aplicável.
 
 2. Se os lugares anexados forem de classe diferente atender-se-á ao da classe superior para a fixação do ordenado e aplicação dos escalões relativos à participação emolumentar.
 
-###### Art. 40.º - 1. A participação emolumentar corresponde ao vencimento de exercício e só é de abonar nos casos em que a este haja direito.
+Art. 40.º - 1. A participação emolumentar corresponde ao vencimento de exercício e só é de abonar nos casos em que a este haja direito.
 
 2. Nos casos de vacatura do lugar, ausência ou impedimento do respectivo titular, ou quaisquer outros em que, segundo a lei geral, haja lugar a perda ou desconto do vencimento de exercício, pode o Ministro da Justiça autorizar que a participação emolumentar perdida seja abonada, no todo ou em parte, ao respectivo substituto ou, nas conservatórias divididas em secções e nas secretarias notariais, aos restantes conservadores ou notários.
 
-###### Art. 41.º No caso de provimento interino do lugar, em virtude de o titular efectivo se encontrar suspenso, ao abrigo da assistência aos funcionários civis tuberculosos, no desempenho de qualquer comissão de serviço ou em qualquer outra situação que importe um afastamento prolongado, observar-se-á o seguinte:
+Art. 41.º No caso de provimento interino do lugar, em virtude de o titular efectivo se encontrar suspenso, ao abrigo da assistência aos funcionários civis tuberculosos, no desempenho de qualquer comissão de serviço ou em qualquer outra situação que importe um afastamento prolongado, observar-se-á o seguinte:
 
 a) Se a situação do titular efectivo lhe der direito a receber a totalidade do vencimento, o Cofre dos Conservadores, Notários e Funcionários de Justiça abona ao interino o ordenado correspondente à classe do lugar;
 
@@ -346,11 +417,11 @@ b) Se ao efectivo for descontada a parte emolumentar, constituirá esta a remune
 
 c) Se a situação do efectivo importar perda total do vencimento, o interino recebe o ordenado correspondente à classe e a participação emolumentar ou a parte dela que o Ministro da Justiça fixar.
 
-###### Art. 42. Aos conservadores e notários que sejam desligados do serviço a aguardar aposentação é abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a pensão provisória que lhes for fixada pela Caixa Geral de Aposentações.
+Art. 42. Aos conservadores e notários que sejam desligados do serviço a aguardar aposentação é abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a pensão provisória que lhes for fixada pela Caixa Geral de Aposentações.
 
-###### Art. 43.º A quota legal para a Caixa Geral de Aposentações é paga pelo conservador e notário sobre a totalidade das respectivas remunerações, líquidas de contribuição industrial.
+Art. 43.º A quota legal para a Caixa Geral de Aposentações é paga pelo conservador e notário sobre a totalidade das respectivas remunerações, líquidas de contribuição industrial.
 
-###### Art. 44.º Ao pessoal do quadro auxiliar dos serviços de registo e do notariado correspondem os vencimentos seguintes:
+Art. 44.º Ao pessoal do quadro auxiliar dos serviços de registo e do notariado correspondem os vencimentos seguintes:
 
 1.º Ajudantes:
 
@@ -376,7 +447,7 @@ De 2.ª classe - 1500$00.
 
 3.º Contínuos - 1300$00.
 
-###### Art. 45.º - 1. Do emolumento especial que for devido pela realização de actos fora da repartição reverterá:
+Art. 45.º - 1. Do emolumento especial que for devido pela realização de actos fora da repartição reverterá:
 
 a) A totalidade para o conservador ou notário, se o acto for presidido e lavrado por este funcionário;
 
@@ -386,7 +457,7 @@ c) Metade para o conservador ou notário e metade para o ajudante, se o acto for
 
 2. Os emolumentos a que se refere o número anterior estão sujeitos a todos os descontos legais.
 
-###### Art. 46.º Os ajudantes dos postos do registo civil têm direito:
+Art. 46.º Os ajudantes dos postos do registo civil têm direito:
 
 a) A metade dos emolumentos correspondentes aos assentos de nascimento e de óbito realizados com base em autos de declarações lavrados no posto;
 
@@ -396,13 +467,13 @@ c) À totalidade dos emolumentos cobrados pela requisição, realizada por seu i
 
 #### SECÇÃO II — Receita e despesa
 
-###### Art. 47.º - 1. Constitui receita líquida de cada conservatória, secretaria ou cartório notarial o total dos emolumentos cobrados em cada mês, depois de deduzidas as verbas que, nos termos da lei, devam reverter para os funcionários, para a Conservatória dos Registos Centrais ou para outras entidades, bem como a importância necessária para pagar os vencimentos e outros abonos a que tenha direito o pessoal do respectivo quadro auxiliar, quando não constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 47.º - 1. Constitui receita líquida de cada conservatória, secretaria ou cartório notarial o total dos emolumentos cobrados em cada mês, depois de deduzidas as verbas que, nos termos da lei, devam reverter para os funcionários, para a Conservatória dos Registos Centrais ou para outras entidades, bem como a importância necessária para pagar os vencimentos e outros abonos a que tenha direito o pessoal do respectivo quadro auxiliar, quando não constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2. Da receita líquida de cada serviço sai a participação emolumentar do conservador ou notário, revertendo o restante, integralmente, para o Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 3. Os emolumentos arrecadados pelos serviços de registo e do notariado estão ùnicamente sujeitos aos descontos previstos neste diploma.
 
-###### Art. 48.º - 1. Ficam a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça as seguintes despesas:
+Art. 48.º - 1. Ficam a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça as seguintes despesas:
 
 a) Os ordenados dos conservadores e notários;
 
@@ -442,7 +513,7 @@ o) O fornecimento dos livros necessários ao início do funcionamento de novas c
 
 5. Nas despesas de apetrechamento e aquisição de mobiliário a cargo do Cofre considera-se compreendido o fornecimento de todos os objectos de utilização permanente necessários ao funcionamento dos serviços.
 
-###### Art. 49.º - 1. Serão satisfeitos pelos conservadores e notários, por força das taxas de reembolso e da participação que lhes couber na receita emolumentar, os encargos dos serviços resultantes de:
+Art. 49.º - 1. Serão satisfeitos pelos conservadores e notários, por força das taxas de reembolso e da participação que lhes couber na receita emolumentar, os encargos dos serviços resultantes de:
 
 a) Aquisição e encadernação dos respectivos livros, incluindo o previsto no artigo 30.º do Código do Registo Civil;
 
@@ -460,29 +531,29 @@ e) O pagamento de metade do salário do pessoal a que se refere a alínea g) do 
 
 ### CAPÍTULO IV — Disposições transitórias
 
-###### Art. 50.º - 1. É mantida a área de competência actual das conservatórias do registo predial em funcionamento até que, em relação a cada concelho, seja determinada a adaptação prevista no n.º 1 do artigo 4.º
+Art. 50.º - 1. É mantida a área de competência actual das conservatórias do registo predial em funcionamento até que, em relação a cada concelho, seja determinada a adaptação prevista no n.º 1 do artigo 4.º
 
 2. É igualmente mantida, em matéria de registo comercial, a actual competência da conservatória da sede da comarca, enquanto nos concelhos compreendidos na sua área não forem criadas conservatórias privativas.
 
-###### Art. 51.º Os serviços de protesto de letras e de outros títulos de crédito em Coimbra e Funchal continuam a cargo das conservatórias a que se acham actualmente adstritos, até vagarem os respectivos lugares de conservador.
+Art. 51.º Os serviços de protesto de letras e de outros títulos de crédito em Coimbra e Funchal continuam a cargo das conservatórias a que se acham actualmente adstritos, até vagarem os respectivos lugares de conservador.
 
-###### Art. 52.º Nas freguesias que não sejam sede de concelho são mantidos até vagarem os cartórios notariais nelas existentes à data da publicação do presente diploma.
+Art. 52.º Nas freguesias que não sejam sede de concelho são mantidos até vagarem os cartórios notariais nelas existentes à data da publicação do presente diploma.
 
-###### Art. 53.º Nas conservatórias, secretarias e cartórios notariais cuja receita atinja o escalão previsto na alínea d) do n.º 1 do artigo 150.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951, continuar-se-á a liquidar, a favor dos actuais conservadores e notários, a percentagem aí prevista, até à vacatura dos respectivos lugares.
+Art. 53.º Nas conservatórias, secretarias e cartórios notariais cuja receita atinja o escalão previsto na alínea d) do n.º 1 do artigo 150.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951, continuar-se-á a liquidar, a favor dos actuais conservadores e notários, a percentagem aí prevista, até à vacatura dos respectivos lugares.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 54.º - 1. Os requerimentos legalmente indispensáveis para a realização de qualquer acto de registo e, bem assim, os directamente relacionados com actos de registo ou notariais que devam ser apresentados em outras repartições podem, a pedido dos interessados e sem prejuízo dos demais serviços, ser redigidos nas conservatórias ou cartórios notariais pelos respectivos funcionários, mediante o pagamento de uma taxa do valor de 40$00, a qual não excederá 20$00 quando o requerimento se destinar a obter simples certidões.
+Art. 54.º - 1. Os requerimentos legalmente indispensáveis para a realização de qualquer acto de registo e, bem assim, os directamente relacionados com actos de registo ou notariais que devam ser apresentados em outras repartições podem, a pedido dos interessados e sem prejuízo dos demais serviços, ser redigidos nas conservatórias ou cartórios notariais pelos respectivos funcionários, mediante o pagamento de uma taxa do valor de 40$00, a qual não excederá 20$00 quando o requerimento se destinar a obter simples certidões.
 
 2. As taxas pagas pela redacção dos requerimentos revertem, como emolumento de natureza pessoal sujeito aos descontos legais, em proveito de todos os funcionários da repartição, segundo a proporção dos respectivos ordenados.
 
-###### Art. 55.º - 1. Das decisões proferidas pelos conservadores e notários sobre reclamações contra erros de conta, bem como da sua recusa a efectuar algum registo nos termos requeridos ou a praticar qualquer acto da sua competência, podem os interessados reclamar para o director-geral dos Registos e do Notariado.
+Art. 55.º - 1. Das decisões proferidas pelos conservadores e notários sobre reclamações contra erros de conta, bem como da sua recusa a efectuar algum registo nos termos requeridos ou a praticar qualquer acto da sua competência, podem os interessados reclamar para o director-geral dos Registos e do Notariado.
 
 2. Se a decisão do conservador ou notário admitir recurso para o tribunal da comarca, a faculdade de reclamação só pode ser exercida antes de interposto o recurso a que haja lugar, nos termos das disposições legais aplicáveis.
 
 3. Do despacho proferido pelo director-geral sobre a reclamação não há recurso; mas quando for desfavorável ao reclamante poderá este, no prazo de oito dias, a contar da notificação daquele despacho, interpor o recurso que couber da decisão inicial do conservador ou notário.
 
-###### Art. 56.º - 1. As contas de emolumentos e demais encargos legais devidos por actos de registo ou do notariado que não forem voluntàriamente pagas são exigíveis pela forma prescrita para a execução por custas judiciais.
+Art. 56.º - 1. As contas de emolumentos e demais encargos legais devidos por actos de registo ou do notariado que não forem voluntàriamente pagas são exigíveis pela forma prescrita para a execução por custas judiciais.
 
 2. A execução terá por base um certificado da conta, passado pelo conservador ou notário, e será promovida pelo Ministério Público.
 
@@ -492,40 +563,40 @@ e) O pagamento de metade do salário do pessoal a que se refere a alínea g) do 
 
 5. Excluem-se do disposto no número anterior os mandatários, os gestores de negócios cuja gestão seja ratificada e os que fizerem as declarações para registo, oficiosamente.
 
-###### Art. 57.º - 1. É obrigatória a existência do selo branco em todas as conservatórias, secretarias e cartórios notariais.
+Art. 57.º - 1. É obrigatória a existência do selo branco em todas as conservatórias, secretarias e cartórios notariais.
 
 2. O selo será em relevo, de forma circular, e conterá o escudo nacional e a designação da respectiva repartição.
 
 3. A aposição do selo branco junto da assinatura do conservador, notário ou ajudante em qualquer documento emanado da respectiva repartição tem o mesmo valor que o reconhecimento notarial.
 
-###### Art. 58.º Quando esteja atrasado o serviço de inspecção, pode o Ministro da Justiça, sobre proposta do director-geral, nomear inspectores extraordinários, em comissão temporária de serviço, escolhendo-os entre os conservadores e notários ou funcionários do quadro da Direcção-Geral dos Registos e do Notariado qualificados para o efeito.
+Art. 58.º Quando esteja atrasado o serviço de inspecção, pode o Ministro da Justiça, sobre proposta do director-geral, nomear inspectores extraordinários, em comissão temporária de serviço, escolhendo-os entre os conservadores e notários ou funcionários do quadro da Direcção-Geral dos Registos e do Notariado qualificados para o efeito.
 
-###### Art. 59.º - 1. O Ministro da Justiça pode autorizar, sobre proposta do director-geral, a requisição de qualquer conservador ou notário para, temporàriamente, prestar serviço na repartição técnica, quando os trabalhos de elaboração de diplomas legislativos ou outros de carácter extraordinário, a cargo daquela repartição, assim o exijam.
+Art. 59.º - 1. O Ministro da Justiça pode autorizar, sobre proposta do director-geral, a requisição de qualquer conservador ou notário para, temporàriamente, prestar serviço na repartição técnica, quando os trabalhos de elaboração de diplomas legislativos ou outros de carácter extraordinário, a cargo daquela repartição, assim o exijam.
 
 2. Aos funcionários requisitados, que são considerados, para todos os efeitos, em comissão de serviço, é abonado, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, o vencimento correspondente ao de assessor do quadro da Direcção-Geral.
 
-###### Art. 60.º Aos membros do conselho administrativo dos Cofres é abonada pelo Cofre Geral dos Tribunais, uma gratificação mensal, a fixar por despacho do Ministro da Justiça.
+Art. 60.º Aos membros do conselho administrativo dos Cofres é abonada pelo Cofre Geral dos Tribunais, uma gratificação mensal, a fixar por despacho do Ministro da Justiça.
 
-###### Art. 61.º - 1. O Cofre dos Conservadores, Notários e Funcionários de Justiça assume a responsabilidade solidária que caiba ao Estado, nos termos do Código Civil, pelos danos que os funcionários dos serviços de registo e do notariado causem a terceiros no exercício das suas funções.
+Art. 61.º - 1. O Cofre dos Conservadores, Notários e Funcionários de Justiça assume a responsabilidade solidária que caiba ao Estado, nos termos do Código Civil, pelos danos que os funcionários dos serviços de registo e do notariado causem a terceiros no exercício das suas funções.
 
 2. O direito de regresso contra os funcionários directamente responsáveis é exercido pelo Cofre, representado, para esse efeito, pelo Ministério Público.
 
-###### Art. 62.º - 1. Os impressos de recibos e contas passadas pelos conservadores e notários, bem como os seus duplicados, são isentos de selo.
+Art. 62.º - 1. Os impressos de recibos e contas passadas pelos conservadores e notários, bem como os seus duplicados, são isentos de selo.
 
 2. Não são devidos emolumentos pela legalização dos livros dos conservadores e notários.
 
-###### Art. 63.º À receita emolumentar arrecadada pelos serviços prestados nas conservatórias do registo civil, como intermediárias da requisição de bilhetes de identidade, será deduzida mensalmente a despesa realizada com a transferência das taxas correspondentes aos bilhetes requisitados.
+Art. 63.º À receita emolumentar arrecadada pelos serviços prestados nas conservatórias do registo civil, como intermediárias da requisição de bilhetes de identidade, será deduzida mensalmente a despesa realizada com a transferência das taxas correspondentes aos bilhetes requisitados.
 
-###### Art. 64.º - 1. O Ministro da Justiça pode determinar que os livros e impressos em uso nas conservatórias e cartórios notariais passem a ser fornecidos por um serviço central dependente do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 64.º - 1. O Ministro da Justiça pode determinar que os livros e impressos em uso nas conservatórias e cartórios notariais passem a ser fornecidos por um serviço central dependente do Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2. No caso previsto no número anterior os livros serão legalizados na Direcção-Geral dos Registos e do Notariado, nos termos estabelecidos no artigo 40.º do Código do Notariado.
 
-###### Art. 65.º O prazo previsto no n.º 2 do artigo 13.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, pode ser prorrogado por despacho do Ministro da Justiça.
+Art. 65.º O prazo previsto no n.º 2 do artigo 13.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, pode ser prorrogado por despacho do Ministro da Justiça.
 
-###### Art. 66.º Os lugares de chefe de secção da Direcção-Geral dos Registos e do Notariado são providos, por livre escolha do Ministro, entre os primeiros-oficiais do respectivo quadro, com mais de três anos de bom e efectivo serviço, ou entre licenciados em Direito de comprovada competência.
+Art. 66.º Os lugares de chefe de secção da Direcção-Geral dos Registos e do Notariado são providos, por livre escolha do Ministro, entre os primeiros-oficiais do respectivo quadro, com mais de três anos de bom e efectivo serviço, ou entre licenciados em Direito de comprovada competência.
 
-###### Art. 67.º O presente diploma entra em vigor no de 1 de Janeiro de 1962.
+Art. 67.º O presente diploma entra em vigor no de 1 de Janeiro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/20-1987-421034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5da0cd2b980575c2a1c51589eca4803811673ce506b29dc370a647fc2dab205
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 037b08e0c282b2e9c696f4dc6b8a8f5bdc0d417aeb55976c1b03a8f0455c97b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avião
+- Convenção
+- Embarcação
+- Gestão de Resíduos
+- Incineração de Resíduos
+- OSLO
+- Poluição Marinha
+- Poluição pelos Navios
+- Portugal
+- Proteção do Ambiente
+- Resíduo
+relationships:
+- type: cites
+  target: pt:dre:685068:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:06Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +103,19 @@ de 13 de Maio
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para ratificação o Protocolo Modificando a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, feita em Oslo em 15 de Fevereiro de 1972, aprovada pelo [Decreto n.º 491/72](https://diariodarepublica.pt/dr/detalhe/decreto/491-1972-685068), de 6 de Dezembro, e o Código de Prática de Incineração de Resíduos no Mar, previsto naquele Protocolo, assinado em 2 de Março de 1983, cujos textos originais em inglês e as respectivas traduções em português seguem em anexo ao presente decreto.
+Artigo único. É aprovado para ratificação o Protocolo Modificando a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, feita em Oslo em 15 de Fevereiro de 1972, aprovada pelo [Decreto n.º 491/72](https://diariodarepublica.pt/dr/detalhe/decreto/491-1972-685068), de 6 de Dezembro, e o Código de Prática de Incineração de Resíduos no Mar, previsto naquele Protocolo, assinado em 2 de Março de 1983, cujos textos originais em inglês e as respectivas traduções em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1987. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Pedro José Rodrigues Pires de Miranda - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 7 de Abril de 1987.**
+Assinado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Protocol Amending the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft
 
@@ -824,7 +839,7 @@ APPENDIX 2
 
 Seventh annual report on the activities of the Oslo Commission
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10900/19451960.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10900/19451960.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10900/19451960.pdf)
 
 APPENDIX 3
 
@@ -1080,7 +1095,7 @@ n) Condições especiais relacionadas com a operação da instalação de incine
 
 o) Informações adicionais, tais como os factores pertinentes listados no anexo III da Convenção ou os requisitos de monitorização.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 7.º relatório anual sobre as actividades da Comissão de Oslo
 
@@ -1096,9 +1111,9 @@ Latitude.
 
 3 - Resíduos incinerados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10900/19451960.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10900/19451960.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10900/19451960.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves
 

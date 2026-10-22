@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1972-291665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e84f3cf038c695d51a95404a0a27ca0d3c193963824bb2049eae350ca576463
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b22b0d13df786675cae9d55dd4459fdb79c6cdf33fe04966dec10507c7babb05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Administrativo
+- Definição de Competências
+- Despesas de Representação
+- Direção
+- Gestão Administrativa
+- Gestão Financeira
+- Orgânica
+- Pessoal Dirigente
+- Presidência do Conselho
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime de Pessoal
+- Remuneração
+- Secretariado Nacional da Emigração
 relationships:
 - type: amended_by
   target: pt:dre:256809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476341:por
+  label: "Transferido para o Ministério do Trabalho, criado pela al. i) do art. 1º do Dec Lei 203/74 de 15-Mai, o Secretariado\
+    \ Nacional da Emigração, cuja criação e orgânica, no âmbito da Presidência do Conselho, constam do Dec Lei 402/70 de 22-Ago,\
+    \ com as alterações que lhe foram introduzidas pelo presente diploma, pelo DEC LEI.303/74.06.07.1974.PCM, DG.IS [156]\
+    \ de 06.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1974-476341
+  date: '1974-07-06'
+- type: amended_by
+  target: pt:dre:256809:por
+  label: "Extinto o Secretariado Nacional da Emigração, cuja criação no âmbito da Presidência do Conselho e organização constam\
+    \ do Dec Lei 402/70 de 22-Ago, com as alterações constantes do presente diploma, pelo DEC LEI.763/74.30.12.1974.MT, DG.IS\
+    \ [302-Supl] de 30.12.1974, que determinou a transição para o Instituto da Emigração, nele criado, do património do secretariado\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/763-1974-256809
+  date: '1974-12-30'
+- type: cites
+  target: pt:dre:139395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665932:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:398107:por
+  label: "Rectificado pela RECT.DD365.11.02.1972.PC, DG.IS [35] de 11.02.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-398107
+  date: '1972-02-11'
 article_structure:
-  article_count: 1
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:27Z'
   warnings: []
   errors: []
 ---
@@ -110,13 +179,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º O Secretariado Nacional da Emigração é um organismo dependente da Presidência do Conselho, dotado de personalidade jurídica e com autonomia administrativa e financeira.
+Artigo 1.º O Secretariado Nacional da Emigração é um organismo dependente da Presidência do Conselho, dotado de personalidade jurídica e com autonomia administrativa e financeira.
 
-###### Art. 2.º - 1. Pode o Presidente do Conselho delegar num dos Ministros a competência para a resolução dos assuntos que correm pelo Secretariado Nacional da Emigração.
+Art. 2.º - 1. Pode o Presidente do Conselho delegar num dos Ministros a competência para a resolução dos assuntos que correm pelo Secretariado Nacional da Emigração.
 
 2. No caso de haver delegação, entende-se que todos os poderes conferidos ao Presidente do Conselho neste diploma podem ser exercidos pelo Ministro delegado, salvo quanto ao disposto no n.º 2 do artigo 4.º
 
-###### Art. 3.º São atribuições do Secretariado:
+Art. 3.º São atribuições do Secretariado:
 
 a) Dar execução à política fixada pelo Governo em relação aos movimentos migratórios, quer para o estrangeiro, quer para as províncias ultramarinas;
 
@@ -130,7 +199,7 @@ e) Participar na negociação de acordos internacionais sobre emigração e acom
 
 f) Colaborar com organismos congéneres estrangeiros, nos termos superiormente definidos.
 
-###### Art. 4.º - 1. Para o exercício das suas atribuições compete, em especial, ao Secretariado Nacional da Emigração:
+Art. 4.º - 1. Para o exercício das suas atribuições compete, em especial, ao Secretariado Nacional da Emigração:
 
 a) Propor ao Governo a regulamentação legal a adoptar nas matérias das suas atribuições;
 
@@ -160,9 +229,9 @@ m) Informar o Ministério da Educação Nacional sobre as necessidades de ensino
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 5.º São órgãos do Secretariado a direcção e o conselho administrativo.
+Art. 5.º São órgãos do Secretariado a direcção e o conselho administrativo.
 
-###### Art. 6.º - 1. A direcção do Secretariado compete ao secretário nacional da Emigração, coadjuvado por um adjunto.
+Art. 6.º - 1. A direcção do Secretariado compete ao secretário nacional da Emigração, coadjuvado por um adjunto.
 
 2. O lugar de secretário nacional da Emigração será provido, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ao exercício das respectivas funções.
 
@@ -172,7 +241,7 @@ m) Informar o Ministério da Educação Nacional sobre as necessidades de ensino
 
 5. O secretário nacional será substituído nas suas faltas ou impedimentos pelo adjunto.
 
-###### Art. 7.º - 1. Compete, em especial, ao secretário nacional da Emigração:
+Art. 7.º - 1. Compete, em especial, ao secretário nacional da Emigração:
 
 a) Superintender nos serviços do Secretariado;
 
@@ -190,13 +259,13 @@ g) Contratar o pessoal cuja admissão não dependa de despacho superior.
 
 2. O secretário nacional pode delegar no adjunto a competência que considere necessária para a maior eficiência dos serviços.
 
-###### Art. 8.º - 1. O conselho administrativo é constituído pelo secretário nacional da Emigração, que presidirá, por um representante do Ministério das Finanças e outro do Fundo de Desenvolvimento da Mão-de-Obra, a designar, respectivamente, pelos Ministros das Finanças e das Corporações e Previdência Social.
+Art. 8.º - 1. O conselho administrativo é constituído pelo secretário nacional da Emigração, que presidirá, por um representante do Ministério das Finanças e outro do Fundo de Desenvolvimento da Mão-de-Obra, a designar, respectivamente, pelos Ministros das Finanças e das Corporações e Previdência Social.
 
 2. Servirá de secretário do conselho administrativo, sem voto, o chefe da Divisão dos Serviços Centrais.
 
 3. Os representantes do Ministério das Finanças e do Fundo de Desenvolvimento da Mão-de-Obra são remunerados através de uma gratificação mensal de montante a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 9.º Compete ao conselho administrativo:
+Art. 9.º Compete ao conselho administrativo:
 
 a) Emitir parecer sobre os projectos de orçamento;
 
@@ -220,11 +289,11 @@ j) Orientar e organizar a contabilidade e fiscalizar a sua escrituração;
 
 l) Emitir parecer sobre as contas, depois de elaboradas.
 
-###### Art. 10.º O conselho administrativo reúne ordinàriamente uma vez por mês e extraordinàriamente sempre que o presidente o convoque, por sua iniciativa ou de algum dos vogais.
+Art. 10.º O conselho administrativo reúne ordinàriamente uma vez por mês e extraordinàriamente sempre que o presidente o convoque, por sua iniciativa ou de algum dos vogais.
 
 ### CAPÍTULO III — Serviços
 
-###### Art. 11.º - 1. O Secretariado Nacional da Emigração compreende os seguintes serviços:
+Art. 11.º - 1. O Secretariado Nacional da Emigração compreende os seguintes serviços:
 
 a) Gabinete de Estudos e Relações Públicas;
 
@@ -238,7 +307,7 @@ Serviços de inspecção;
 
 c) Direcção dos Serviços de Migração, com duas divisões:
 
-##### Divisão das Migrações Interterritoriais;
+Divisão das Migrações Interterritoriais;
 
 ##### Divisão da Emigração;
 
@@ -246,25 +315,25 @@ d) Direcção dos Serviços de Assistência e Acção Cultural, com duas divisõ
 
 ##### Divisão de Acção Interna;
 
-##### Divisão de Acção Externa.
+Divisão de Acção Externa.
 
 e) Serviços externos.
 
 2. A organização e competência dos serviços serão definidas em diploma regulamentar.
 
-###### Art. 12.º - 1. Poderão ser criadas delegações do Secretariado quer no País, quer no estrangeiro.
+Art. 12.º - 1. Poderão ser criadas delegações do Secretariado quer no País, quer no estrangeiro.
 
 2. A criação de delegações em território nacional e o aumento do quadro do pessoal do Secretariado necessário para o seu funcionamento terão lugar por decreto.
 
 3. As delegações em país estrangeiro serão criadas por decreto, também referendado pelos Ministros das Finanças e dos Negócios Estrangeiros, no qual se fixarão o quadro do pessoal e as respectivas remunerações e dirigidas por um chefe de delegação directamente dependente do secretário nacional.
 
-###### Art. 13.º - 1. As delegações em território nacional serão dirigidas por um chefe de delegação.
+Art. 13.º - 1. As delegações em território nacional serão dirigidas por um chefe de delegação.
 
 2. O cargo de chefe de delegação poderá ser exercido, cumulativamente, pelo chefe da Divisão Regional do Serviço Nacional de Emprego, o qual dependerá directamente, no tocante ao exercício destas funções, do secretário nacional.
 
 3. No caso referido no número anterior, será fixada, por despacho do Presidente do Conselho, ouvido o Ministro das Finanças, uma gratificação mensal a atribuir pelo exercício do cargo.
 
-###### Art. 14.º - 1. Poderão ser criadas, a título permanente ou temporário, subdelegações do Secretariado tanto em território racional, nas regiões de maior densidade emigratória ou nos postos de fronteira terrestre, como em país estrangeiro.
+Art. 14.º - 1. Poderão ser criadas, a título permanente ou temporário, subdelegações do Secretariado tanto em território racional, nas regiões de maior densidade emigratória ou nos postos de fronteira terrestre, como em país estrangeiro.
 
 2. As subdelegações ficarão subordinadas às respectivas delegações e terão por objectivo coadjuvar o serviço daquelas ou acudir a quaisquer necessidades temporárias.
 
@@ -272,33 +341,33 @@ e) Serviços externos.
 
 4. As subdelegações temporárias serão criadas por despacho do secretário nacional, no qual deverão ser fixadas as respectivas funções e as providências necessárias quanto à deslocação de pessoal do quadro permanente e à contratação do pessoal eventual.
 
-###### Art. 15.º - 1. Poderão ser instituídas, em Lisboa e Porto, Casas do Emigrante, subordinadas ao Secretariado e destinadas a receber os emigrantes que aguardem embarque e, quando o necessitem, aqueles que regressem do estrangeiro com destino às suas terras, assegurando-lhes alojamento e alimentação em condições higiénicas e económicas.
+Art. 15.º - 1. Poderão ser instituídas, em Lisboa e Porto, Casas do Emigrante, subordinadas ao Secretariado e destinadas a receber os emigrantes que aguardem embarque e, quando o necessitem, aqueles que regressem do estrangeiro com destino às suas terras, assegurando-lhes alojamento e alimentação em condições higiénicas e económicas.
 
 2. Enquanto não forem instituídas as Casas do Emigrante, ou quando se mostrarem insuficientes para ocorrerem aos fins a que são destinadas, o Secretariado poderá celebrar com quaisquer entidades os acordos necessários para garantir a satisfação desses fins.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 16.º - 1. O Secretariado disporá do pessoal constante do quadro anexo ao presente diploma.
+Art. 16.º - 1. O Secretariado disporá do pessoal constante do quadro anexo ao presente diploma.
 
 2. O quadro a que alude o número anterior poderá ser alterado por decreto referendado pelo Ministro das Finanças.
 
 3. A distribuição incluindo a transferência, do pessoal do Secretariado pelos diversos serviços e delegações é feita por despacho do secretário nacional.
 
-###### Art. 17.º Os requisitos do provimento e os processos de recrutamento do pessoal do quadro serão fixados em diploma regulamentar.
+Art. 17.º Os requisitos do provimento e os processos de recrutamento do pessoal do quadro serão fixados em diploma regulamentar.
 
-###### Art. 18.º Os requisitos de admissão aos concursos, o sistema das provas, a constituição dos júris, a forma de homologação dos resultados e os prazos de validade dos concursos de prestação de provas para os lugares em que a admissão ou promoção de pessoal dependem da aprovação nestes concursos serão estabelecidos em regulamento aprovado por decreto.
+Art. 18.º Os requisitos de admissão aos concursos, o sistema das provas, a constituição dos júris, a forma de homologação dos resultados e os prazos de validade dos concursos de prestação de provas para os lugares em que a admissão ou promoção de pessoal dependem da aprovação nestes concursos serão estabelecidos em regulamento aprovado por decreto.
 
-###### Art. 19.º - 1. As nomeações para os lugares do quadro terão carácter provisório durante dois anos, prorrogáveis por mais um ano, findos os quais o funcionário será provido definitivamente, se tiver dado provas de aptidão para o lugar, ou exonerado, no caso contrário.
+Art. 19.º - 1. As nomeações para os lugares do quadro terão carácter provisório durante dois anos, prorrogáveis por mais um ano, findos os quais o funcionário será provido definitivamente, se tiver dado provas de aptidão para o lugar, ou exonerado, no caso contrário.
 
 2. Se o funcionário já tiver provimento definitivo noutro lugar, manterá o direito ao mesmo durante o prazo de nomeação provisória, o qual, nesse caso, será reduzido a um ano.
 
 3. Poderá ser provido interinamente o lugar em que estiver provido definitivamente o funcionário a que se refere o número anterior.
 
-###### Art. 20.º - 1. Os lugares do quadro de pessoal dirigente e técnico do Secretariado poderão ser providos em comissão de serviço, pelo período de dois anos, renovável, por funcionários de outros serviços do Estado.
+Art. 20.º - 1. Os lugares do quadro de pessoal dirigente e técnico do Secretariado poderão ser providos em comissão de serviço, pelo período de dois anos, renovável, por funcionários de outros serviços do Estado.
 
 2. O tempo de serviço desempenhado no Secretariado, nos termos do número anterior, considera-se, para todos os efeitos, como prestado no quadro de origem dos funcionários.
 
-###### Art. 21.º - 1. Sempre que não seja possível, por falta de candidatos provados, preencher vagas de lugares cujo provimento dependa de concurso, poderá, para assegurar o exercício das respectivas funções, ser nomeado interinamente pessoal, por despacho do secretário nacional.
+Art. 21.º - 1. Sempre que não seja possível, por falta de candidatos provados, preencher vagas de lugares cujo provimento dependa de concurso, poderá, para assegurar o exercício das respectivas funções, ser nomeado interinamente pessoal, por despacho do secretário nacional.
 
 2. O pessoal a nomear deverá possuir as habilitações literárias exigidas para o cargo e receberá a remuneração a ele correspondente.
 
@@ -306,7 +375,7 @@ e) Serviços externos.
 
 4. Os encargos com o pessoal admitido ao abrigo do n.º 1 deste artigo serão satisfeitos por força das verbas inscritas para remunerações dos respectivos lugares do quadro.
 
-###### Art. 22.º - 1. As necessidades transitórias do Secretariado, quando não possam ser asseguradas pelo pessoal do quadro, serão satisfeitas por pessoal eventual, a contratar ou a assalariar além do quadro.
+Art. 22.º - 1. As necessidades transitórias do Secretariado, quando não possam ser asseguradas pelo pessoal do quadro, serão satisfeitas por pessoal eventual, a contratar ou a assalariar além do quadro.
 
 2. A realização de estudos, inquéritos ou outros trabalhos de carácter técnico e eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras, estranhas aos serviços, as quais exercerão a sua actividade sob a orientação do secretário nacional.
 
@@ -316,19 +385,19 @@ e) Serviços externos.
 
 5. O pessoal eventual poderá exercer funções em regime de tempo parcial, com horário a fixar por despacho do secretário nacional, de harmonia com as conveniências do serviço.
 
-###### Art. 23.º - 1. Pode o pessoal do Secretariado, admitido nos termos dos dois artigos anteriores, tomar posse ou entrar no exercício de funções e iniciar-se o processamento das correspondentes remunerações antes do visto do Tribunal de Contas e da publicação dos diplomas de provimento, desde que deles conste o reconhecimento da urgente conveniência do serviço.
+Art. 23.º - 1. Pode o pessoal do Secretariado, admitido nos termos dos dois artigos anteriores, tomar posse ou entrar no exercício de funções e iniciar-se o processamento das correspondentes remunerações antes do visto do Tribunal de Contas e da publicação dos diplomas de provimento, desde que deles conste o reconhecimento da urgente conveniência do serviço.
 
 2. Nos casos previstos no número anterior, se o Tribunal de Contas vier a recusar o visto, o agente cessará imediatamente o exercício de funções, mas não haverá lugar a reposição de vencimentos.
 
-###### Art. 24.º - 1. O secretário nacional tem direito a um subsídio mensal para despesas de representação, a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
+Art. 24.º - 1. O secretário nacional tem direito a um subsídio mensal para despesas de representação, a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
 2. Quando em serviço no estrangeiro o secretário nacional goza das facilidades diplomáticas que em idênticas circunstâncias são dadas aos funcionários superiores do Ministério dos Negócios Estrangeiros e ser-lhe-á atribuída a ajuda de custo constante da tabela que vigorar para os funcionários de igual categoria do mesmo Ministério.
 
-###### Art. 25.º Os médicos, inspectores e os técnicos de serviço social que façam parte da escala de serviço externo terão direito a gratificação mensal a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
+Art. 25.º Os médicos, inspectores e os técnicos de serviço social que façam parte da escala de serviço externo terão direito a gratificação mensal a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 26.º Por despacho do Presidente do Conselho, sob proposta do secretário nacional e ouvido o Ministro das Finanças, poderão ser atribuídas gratificações mensais ou eventuais a pessoal que exerça determinadas funções especializadas.
+Art. 26.º Por despacho do Presidente do Conselho, sob proposta do secretário nacional e ouvido o Ministro das Finanças, poderão ser atribuídas gratificações mensais ou eventuais a pessoal que exerça determinadas funções especializadas.
 
-###### Art. 27.º - 1. Os inspectores, médicos, técnicos de serviço social, chefes de delegação e demais funcionários do Secretariado de categoria não inferior a chefe de repartição têm direito ao uso de um cartão especial de identificação, segundo modelo a fixar por portaria do Presidente do Conselho.
+Art. 27.º - 1. Os inspectores, médicos, técnicos de serviço social, chefes de delegação e demais funcionários do Secretariado de categoria não inferior a chefe de repartição têm direito ao uso de um cartão especial de identificação, segundo modelo a fixar por portaria do Presidente do Conselho.
 
 2. Os referidos funcionários serão considerados, quando no exercício das suas funções, como autoridades públicas e gozam das seguintes prerrogativas:
 
@@ -336,17 +405,17 @@ a) Dispensa de licença de uso e porte de arma de defesa, nos termos da legisla�
 
 b) Livre trânsito em todas as gares e estações de caminho de ferro, portos, docas e cais de embarque, aeródromos e aeroportos nacionais, incluindo a entrada em comboios, navios ou aviões neles existentes.
 
-###### Art. 28.º Os contínuos têm direito ao uso de um cartão especial de livre trânsito para acesso, quando em serviço, aos locais referidos na alínea b) do n.º 2 do artigo anterior.
+Art. 28.º Os contínuos têm direito ao uso de um cartão especial de livre trânsito para acesso, quando em serviço, aos locais referidos na alínea b) do n.º 2 do artigo anterior.
 
-###### Art. 29.º Os inspectores, médicos e técnicos de serviço social, quando não se encontrem a prestar serviço no exterior, devem permanecer no Secretariado durante o horário normal do seu funcionamento e executar os trabalhos técnicos ou de secretaria de que forem incumbidos.
+Art. 29.º Os inspectores, médicos e técnicos de serviço social, quando não se encontrem a prestar serviço no exterior, devem permanecer no Secretariado durante o horário normal do seu funcionamento e executar os trabalhos técnicos ou de secretaria de que forem incumbidos.
 
 ### CAPÍTULO V — Administração e meios financeiros
 
-###### Art. 30.º O Secretariado goza de capacidade de adquirir, administrar e alienar bens, nos termos das disposições aplicáveis, e pode exercer os direitos civis relativos aos interesses que representa.
+Art. 30.º O Secretariado goza de capacidade de adquirir, administrar e alienar bens, nos termos das disposições aplicáveis, e pode exercer os direitos civis relativos aos interesses que representa.
 
-###### Art. 31.º O Secretariado arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos que legalmente lhe caibam.
+Art. 31.º O Secretariado arrecadará e administrará as receitas próprias e satisfará por meio delas os encargos que legalmente lhe caibam.
 
-###### Art. 32.º Constituirão receitas próprias do Secretariado:
+Art. 32.º Constituirão receitas próprias do Secretariado:
 
 a) Uma dotação global a inscrever anualmente no Orçamento Geral do Estado;
 
@@ -376,17 +445,17 @@ n) Os saldos verificados em gerências anteriores;
 
 o) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
 
-###### Art. 33.º - 1. O conselho administrativo requisitará mensalmente à 1.ª Repartição da Direcção-Geral da Contabilidade Pública a importância correspondente ao duodécimo da dotação a que se refere a alínea a) do artigo
+Art. 33.º - 1. O conselho administrativo requisitará mensalmente à 1.ª Repartição da Direcção-Geral da Contabilidade Pública a importância correspondente ao duodécimo da dotação a que se refere a alínea a) do artigo
 
 anterior.
 
 2. Tal requisição, depois de visada pela mesma Repartição, será expedida com a respectiva autorização de pagamento para o Banco de Portugal, como caixa geral do Tesouro, sendo a importância correspondente transferida pelo Secretariado para a sua conta de depósito à ordem na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 34.º O Secretariado pode contrair empréstimos, adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento nos termos legais, mediante autorização do Presidente do Conselho, concedida caso por caso.
+Art. 34.º O Secretariado pode contrair empréstimos, adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento nos termos legais, mediante autorização do Presidente do Conselho, concedida caso por caso.
 
-###### Art. 35.º As heranças, legados e doações em que sejam constituídos encargos para o Secretariado apenas poderão ser aceites mediante autorização do Presidente, do Conselho, ouvido o Ministro das Finanças.
+Art. 35.º As heranças, legados e doações em que sejam constituídos encargos para o Secretariado apenas poderão ser aceites mediante autorização do Presidente, do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 36.º Constituirão encargo do Secretariado:
+Art. 36.º Constituirão encargo do Secretariado:
 
 a) As despesas com vencimentos, salários, gratificações, abonos de família, ajudas de custo, deslocações e subsídios de viagem, bem como outras despesas com o pessoal previstas na lei;
 
@@ -402,59 +471,59 @@ c) A concessão de subsídios a iniciativas de carácter social e assistencial e
 
 d) Quaisquer outras despesas a realizar pelo Secretariado dentro das atribuições e competência que lhe são conferidas por lei.
 
-###### Art. 37.º Poderão ser constituídos fundos permanentes, em termos a fixar por despacho do Presidente do Conselho, sob proposta do secretário nacional.
+Art. 37.º Poderão ser constituídos fundos permanentes, em termos a fixar por despacho do Presidente do Conselho, sob proposta do secretário nacional.
 
-###### Art. 38.º - 1. Os levantamentos de fundos serão feitos por meio de cheques.
+Art. 38.º - 1. Os levantamentos de fundos serão feitos por meio de cheques.
 
 2. Os pagamentos serão também efectuados, em regra, por meio de cheques e estes entregues em troca dos competentes recibos, devidamente legalizados.
 
 3. Os cheques serão nominativos e assinados por dois dos membros do conselho administrativo, considerando-se para este efeito, como tal, o chefe da Divisão dos Serviços Centrais.
 
-###### Art. 39.º A movimentação dos depósitos do Secretariado está isenta de imposto do selo e prémio de transferência.
+Art. 39.º A movimentação dos depósitos do Secretariado está isenta de imposto do selo e prémio de transferência.
 
-###### Art. 40.º A Caixa Geral de Depósitos, Crédito e Previdência enviará mensalmente ao Secretariado extracto das contas correntes nela existentes.
+Art. 40.º A Caixa Geral de Depósitos, Crédito e Previdência enviará mensalmente ao Secretariado extracto das contas correntes nela existentes.
 
 Art. 4l.º - 1. Anualmente, até 1 de Agosto, a secção de contabilidade e tesouraria elaborará um projecto de orçamento do Secretariado para o ano seguinte, sobre o qual o conselho administrativo emitirá parecer até 31 de Agosto.
 
 2. O projecto de orçamento, com visto do Ministro das Finanças, será submetido, pelo secretário nacional, à aprovação do Presidente do Conselho.
 
-###### Art. 42.º - 1. As alterações do orçamento serão feitas por orçamentos suplementares, aos quais se aplicará o disposto no artigo anterior devendo o conselho administrativo emitir parecer no prazo de quinze dias, a contar da data em que lhe for apresentado o projecto.
+Art. 42.º - 1. As alterações do orçamento serão feitas por orçamentos suplementares, aos quais se aplicará o disposto no artigo anterior devendo o conselho administrativo emitir parecer no prazo de quinze dias, a contar da data em que lhe for apresentado o projecto.
 
 2. A utilização dos reforços com contrapartida em excessos de receita cobrados sobre as previsões orçamentais far-se-á também por orçamento suplementar, ao qual será aplicável o disposto no número anterior e que não contará para os limites estabelecidos na lei.
 
-###### Art. 43.º As contas do Secretariado serão apresentadas à aprovação do Tribunal de Contas até 31 de Março do ano posterior àquele a que disserem respeito.
+Art. 43.º As contas do Secretariado serão apresentadas à aprovação do Tribunal de Contas até 31 de Março do ano posterior àquele a que disserem respeito.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 44.º - 1. Pode o Secretariado solicitar de quaisquer entidades, públicas ou privadas, os elementos de informação necessários ao cabal cumprimento das suas atribuições.
+Art. 44.º - 1. Pode o Secretariado solicitar de quaisquer entidades, públicas ou privadas, os elementos de informação necessários ao cabal cumprimento das suas atribuições.
 
 2. Para os efeitos do disposto no número anterior, os serviços do Secretariado poderão corresponder-se livremente com as referidas entidades por qualquer via.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 45.º Pertence ao Presidente do Conselho a competência atribuída em matéria de emigração ao Ministro do Interior.
+Art. 45.º Pertence ao Presidente do Conselho a competência atribuída em matéria de emigração ao Ministro do Interior.
 
-###### Art. 46.º Enquanto não for revista a legislação vigente sobre emigração, as funções atribuídas por disposição legal à Junta da Emigração ou ao respectivo presidente não forem referidas no presente diploma, serão exercidas pelo secretário nacional, o qual poderá, porém, por despacho, atribuí-las a qualquer dos serviços do Secretariado.
+Art. 46.º Enquanto não for revista a legislação vigente sobre emigração, as funções atribuídas por disposição legal à Junta da Emigração ou ao respectivo presidente não forem referidas no presente diploma, serão exercidas pelo secretário nacional, o qual poderá, porém, por despacho, atribuí-las a qualquer dos serviços do Secretariado.
 
-###### Art. 47.º - 1. A extensão da actividade do Secretariado às ilhas adjacentes ficará dependente da entrada em funcionamento das respectivas delegações.
+Art. 47.º - 1. A extensão da actividade do Secretariado às ilhas adjacentes ficará dependente da entrada em funcionamento das respectivas delegações.
 
 2. Pertencerá entretanto aos governos civis dos distritos autónomos, na parte aplicável, a competência atribuída no presente diploma ao Secretariado em matéria de emigração.
 
-###### Art. 48.º A actual delegação do Porto mantém as atribuições e competência que lhe estão presentemente cometidas até à sua reorganização, nos termos do n.º 2 do artigo 12.º do presente diploma.
+Art. 48.º A actual delegação do Porto mantém as atribuições e competência que lhe estão presentemente cometidas até à sua reorganização, nos termos do n.º 2 do artigo 12.º do presente diploma.
 
-###### Art. 49.º O pessoal do quadro do Secretariado, salvo o disposto no artigo seguinte, manter-se-á nos lugares presentemente ocupados, devendo as suas situações ser oportunamente revistas de harmonia com as conveniências de serviço.
+Art. 49.º O pessoal do quadro do Secretariado, salvo o disposto no artigo seguinte, manter-se-á nos lugares presentemente ocupados, devendo as suas situações ser oportunamente revistas de harmonia com as conveniências de serviço.
 
-###### Art. 50.º - 1. Os funcionários que ocupam os actuais lugares do quadro de inspector-chefe, inspector, técnico de serviço social de 3.ª classe e servente ficarão providos, respectivamente, nos lugares de inspector-chefe dos serviços médicos, inspector de 2.ª classe, técnico do serviço social de 2.ª classe e de contínuo de 2.ª classe, independentemente de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
+Art. 50.º - 1. Os funcionários que ocupam os actuais lugares do quadro de inspector-chefe, inspector, técnico de serviço social de 3.ª classe e servente ficarão providos, respectivamente, nos lugares de inspector-chefe dos serviços médicos, inspector de 2.ª classe, técnico do serviço social de 2.ª classe e de contínuo de 2.ª classe, independentemente de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
 2. Até ao provimento dos lugares do quadro, os actuais inspectores contratados vencerão como inspectores de 2.ª classe, utilizando-se para o efeito as verbas disponíveis para o pagamento aos inspectores de 1.ª classe.
 
-###### Art. 51.º - 1. O actual pessoal auxiliar de secretaria contratado para serviço eventual ao abrigo do artigo 2.º do [Decreto-Lei n.º 39039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39039-1952-665932), de 17 de Dezembro de 1952, e do artigo 12.º do [Decreto-Lei n.º 402/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1970-139395), de 22 de Agosto, poderá ser provido nos lugares de escriturário-dactilógrafo de 2.ª classe, com dispensa de concurso.
+Art. 51.º - 1. O actual pessoal auxiliar de secretaria contratado para serviço eventual ao abrigo do artigo 2.º do [Decreto-Lei n.º 39039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39039-1952-665932), de 17 de Dezembro de 1952, e do artigo 12.º do [Decreto-Lei n.º 402/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1970-139395), de 22 de Agosto, poderá ser provido nos lugares de escriturário-dactilógrafo de 2.ª classe, com dispensa de concurso.
 
 2. O pessoal referido no número anterior será admitido ao primeiro concurso para provimento dos lugares de escriturário-dactilógrafo de 1.ª classe.
 
-###### Art. 52.º Ao primeiro concurso para terceiros-oficiais serão admitidos os escriturários-dactilógrafos de 1.ª classe que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada e tenham um mínimo de três anos de serviço no Secretariado como pessoal eventual ou do quadro.
+Art. 52.º Ao primeiro concurso para terceiros-oficiais serão admitidos os escriturários-dactilógrafos de 1.ª classe que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada e tenham um mínimo de três anos de serviço no Secretariado como pessoal eventual ou do quadro.
 
-###### Art. 53.º - 1. Enquanto não for revisto, manter-se-á em vigor o regime das taxas previstas no artigo 24.º do [Decreto-Lei n.º 36558](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36558-1947-635997), de 28 de Outubro de 1947, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 37037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37037-1948-374057), de 1 de Setembro de 1948, com as alterações constantes dos números seguintes.
+Art. 53.º - 1. Enquanto não for revisto, manter-se-á em vigor o regime das taxas previstas no artigo 24.º do [Decreto-Lei n.º 36558](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36558-1947-635997), de 28 de Outubro de 1947, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 37037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37037-1948-374057), de 1 de Setembro de 1948, com as alterações constantes dos números seguintes.
 
 2. As importâncias correspondentes às taxas que constituam receita do Secretariado serão entregues na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Secretariado.
 
@@ -462,19 +531,19 @@ Art. 4l.º - 1. Anualmente, até 1 de Agosto, a secção de contabilidade e teso
 
 4. As taxas sobre o custo das passagens serão pagas através de guias a emitir pelas empresas e prèviamente visadas pela secção de contabilidade e tesouraria do Secretariado.
 
-###### Art. 54.º Os autos de transgressão a que se refere o artigo 47.º do [Decreto n.º 24459](https://diariodarepublica.pt/dr/detalhe/decreto/24459-1934-445297), de 3 de Setembro de 1934, serão remetidos ao Secretariado e distribuídos aos serviços de inspecção, competindo a decisão ao secretário nacional.
+Art. 54.º Os autos de transgressão a que se refere o artigo 47.º do [Decreto n.º 24459](https://diariodarepublica.pt/dr/detalhe/decreto/24459-1934-445297), de 3 de Setembro de 1934, serão remetidos ao Secretariado e distribuídos aos serviços de inspecção, competindo a decisão ao secretário nacional.
 
-###### Art. 55.º Enquanto não for revisto o regime legal relativo à emissão de passaportes para emigrantes e aos exames médicos aos mesmos, as respectivas taxas constituirão receitas do Secretariado e passam a ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Secretariado, através de guias a emitir por este.
+Art. 55.º Enquanto não for revisto o regime legal relativo à emissão de passaportes para emigrantes e aos exames médicos aos mesmos, as respectivas taxas constituirão receitas do Secretariado e passam a ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Secretariado, através de guias a emitir por este.
 
-###### Art. 56.º - 1. No prazo de sessenta dias a contar da data deste diploma, será apresentado ao Presidente do Conselho, cumpridas as formalidades legais, o projecto do orçamento respeitante ao ano de 1972.
+Art. 56.º - 1. No prazo de sessenta dias a contar da data deste diploma, será apresentado ao Presidente do Conselho, cumpridas as formalidades legais, o projecto do orçamento respeitante ao ano de 1972.
 
 2. Até aprovação desse orçamento far-se-á a cobrança das receitas pela forma indicada no presente decreto-lei, e a efectivação das despesas terá lugar de harmonia com o orçamento já aprovado, requisitando o conselho administrativo à 1.ª Repartição da Direcção-Geral da Contabilidade Pública as importâncias necessárias à satisfação daquelas despesas, e com observância do disposto no n.º 2 do artigo 33.º
 
-###### Art. 57.º - 1. Fica o Ministro das Finanças autorizado a tomar as providências de ordem financeira indispensáveis à execução deste diploma, até à aprovação do orçamento a que se refere o n.º 1 do artigo anterior, podendo as respectivas despesas ser efectuadas em conta das dotações do orçamento em vigor nos termos que o mesmo Ministro determinar.
+Art. 57.º - 1. Fica o Ministro das Finanças autorizado a tomar as providências de ordem financeira indispensáveis à execução deste diploma, até à aprovação do orçamento a que se refere o n.º 1 do artigo anterior, podendo as respectivas despesas ser efectuadas em conta das dotações do orçamento em vigor nos termos que o mesmo Ministro determinar.
 
 2. Na satisfação dos encargos com o pessoal resultante da execução deste diploma poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal no orçamento em vigor.
 
-###### Art. 58.º São revogados:
+Art. 58.º São revogados:
 
 a) Os artigos 1.º a 19.º do [Decreto-Lei n.º 36558](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36558-1947-635997), de 28 de Outubro de 1947;
 
@@ -492,11 +561,11 @@ g) Os artigos 1.º a 12.º, 15.º e 16.º do [Decreto-Lei n.º 402/70](https://d
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Janeiro de 1972.**
+Promulgado em 12 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro de pessoal do Secretariado Nacional da Emigração a que se refere o artigo 16.º do Decreto-Lei n.º 15/72
 
@@ -570,4 +639,4 @@ Pessoal auxiliar:
 
 8 paquetes ... 1000$00
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

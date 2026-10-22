@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1970-146050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfd8172ce8f169140614efc49cce1966eb0513683dd53a31f27b771004f057d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39825b66a84ef99b03861dcf01c20e43b6e2409a9ab17af0c61058c7bad69330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diploma Legal
+- Força Aérea
+- Militar
+- Promoção por Mérito
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:503637:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:06Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +103,7 @@ Tornando-se necessário promulgar legislação que contemple os casos dignos de 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Podem ser promovidos por distinção os sargentos e praças da Força Aérea que, em campanha, na manutenção da ordem pública ou serviços directamente relacionados, ou ainda em situações de grande perigo, pratiquem actos que revelem elevadas virtudes militares, cívicas e morais, prestigiantes para a Força Aérea ou para o País, nomeadamente:
+Artigo 1.º Podem ser promovidos por distinção os sargentos e praças da Força Aérea que, em campanha, na manutenção da ordem pública ou serviços directamente relacionados, ou ainda em situações de grande perigo, pratiquem actos que revelem elevadas virtudes militares, cívicas e morais, prestigiantes para a Força Aérea ou para o País, nomeadamente:
 
 a) Actos de coragem física ou moral, de abnegação e de excepcional valor militar para os quais deva ser chamada a atenção pública;
 
@@ -102,9 +111,9 @@ b) Feitos distintos em campanha, isoladamente ou no comando de tropas em combate
 
 c) Serviços relevantes que muito tenham contribuído para o bom êxito de uma acção militar, de uma campanha em que se encontrem envolvidas forças militares portuguesas, ou ainda de uma acção de manutenção da ordem pública.
 
-###### Art. 2.º A promoção por distinção aplica-se a sargentos e praças da Força Aérea em qualquer situação militar, não exige a satisfação das condições de promoção e pode, também, efectuar-se a título póstumo.
+Art. 2.º A promoção por distinção aplica-se a sargentos e praças da Força Aérea em qualquer situação militar, não exige a satisfação das condições de promoção e pode, também, efectuar-se a título póstumo.
 
-###### Art. 3.º - 1. A promoção por distinção de sargentos e praças pode efectuar-se, em casos excepcionais, a posto superior ao imediato.
+Art. 3.º - 1. A promoção por distinção de sargentos e praças pode efectuar-se, em casos excepcionais, a posto superior ao imediato.
 
 2. Os cabos e soldados só podem ser promovidos por distinção a postos até segundo-sargento, inclusive.
 
@@ -112,7 +121,7 @@ c) Serviços relevantes que muito tenham contribuído para o bom êxito de uma a
 
 4. Os referidos militares, quando promovidos por distinção, mantêm-se na categoria de «Pessoal militar permanente» ou «Pessoal militar não permanente» a que anteriormente pertenciam.
 
-###### Art. 4.º - 1. A promoção por distinção de sargentos e praças da Força Aérea terá lugar por iniciativa do Secretário de Estado da Aeronáutica ou por proposta de entidade de hierarquia equivalente ou superior a comandante de zona aérea.
+Art. 4.º - 1. A promoção por distinção de sargentos e praças da Força Aérea terá lugar por iniciativa do Secretário de Estado da Aeronáutica ou por proposta de entidade de hierarquia equivalente ou superior a comandante de zona aérea.
 
 2. Os processos de promoção são instruídos com os documentos necessários a uma perfeita apreciação do acto ou actos que justifiquem a distinção, nomeadamente ordens, relatórios e depoimentos de testemunhas, devendo, quando julgado necessário ou conveniente, ser ordenada uma instrução contraditória do processo.
 
@@ -130,16 +139,16 @@ b) Portaria do Secretário de Estado da Aeronáutica, nas promoções a qualquer
 
 c) Decreto, nas promoções a alferes ou a tenente.
 
-###### Art. 5.º - 1. O pessoal promovido por distinção, nas condições expressas no presente decreto-lei, contará a antiguidade da data em que foi praticado o feito que motivou a promoção ou outra que for proposta e sancionada pelo diploma de promoção.
+Art. 5.º - 1. O pessoal promovido por distinção, nas condições expressas no presente decreto-lei, contará a antiguidade da data em que foi praticado o feito que motivou a promoção ou outra que for proposta e sancionada pelo diploma de promoção.
 
 2. O mesmo pessoal terá direito aos vencimentos do novo posto a partir da data de antiguidade.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 15 de Dezembro de 1970.**
+Promulgado em 15 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

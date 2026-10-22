@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21000/26022603.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1980-461060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1f43aaf3c57182407c4899c0b8d8fba5aad55b37c624e144d0cdeb474a9f1ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ad2abba5537d89c9d46dc0e280edbe26fb302168f3ab7a45264a812e8c4b8c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Forças Armadas
+- Quadro de Pessoal
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243553:por
+  label: "Substituído o mapa II anexo ao Dcereto-Lei 550-E/76, de 12 de Julho, na redacção do presente diploma pela PORT.1012-M/82.29.10.1982.CR,\
+    \ DR.IS [251-3.º Supl] de 29.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-m-1982-243553
+  date: '1982-10-29'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:138353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329867:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:42Z'
   warnings: []
   errors: []
 ---
@@ -95,28 +127,28 @@ Considerando simultaneamente a necessidade de proporcionar aos sargentos dos qua
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O mapa anexo ao [Decreto-Lei n.º 167/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1977-139197), de 23 de Abril, é substituído, no que respeita a sargentos, pelo mapa anexo ao presente diploma.
+Artigo 1.º O mapa anexo ao [Decreto-Lei n.º 167/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1977-139197), de 23 de Abril, é substituído, no que respeita a sargentos, pelo mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1 - O preenchimento dos lugares aumentados aos quadros por este diploma, inscritos no mapa referido no artigo anterior com a designação «primeiros-sargentos, segundos-sargentos ou furriéis», no ano de 1980, é parcialmente feito através do ingresso do pessoal que actualmente se encontra supranumerário aos quadros, nos termos do artigo 10.º do [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353), de 27 de Janeiro.
+Art. 2.º - 1 - O preenchimento dos lugares aumentados aos quadros por este diploma, inscritos no mapa referido no artigo anterior com a designação «primeiros-sargentos, segundos-sargentos ou furriéis», no ano de 1980, é parcialmente feito através do ingresso do pessoal que actualmente se encontra supranumerário aos quadros, nos termos do artigo 10.º do [Decreto-Lei n.º 35/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353), de 27 de Janeiro.
 
 2 - O preenchimento do remanescente dos lugares referidos no número anterior será feito nos anos de 1980 e 1981 através do ingresso nos quadros de pessoal que entretanto conclua os respectivos cursos de formação.
 
-###### Art. 3.º O preenchimento dos lugares agora adicionados ao quadro nos postos de sargento-mor, sargento-chefe e sargento-ajudante será feito nos anos de 1980, 1981 e 1982 através da promoção de pessoal que entretanto reúna as necessárias condições legais.
+Art. 3.º O preenchimento dos lugares agora adicionados ao quadro nos postos de sargento-mor, sargento-chefe e sargento-ajudante será feito nos anos de 1980, 1981 e 1982 através da promoção de pessoal que entretanto reúna as necessárias condições legais.
 
-###### Art. 4.º A composição dos quadros de que trata este decreto-lei, no que respeita à distribuição dos efectivos totais pelos diferentes postos, pode posteriormente ser feita por portaria do Chefe do Estado-Maior da Força Aérea.
+Art. 4.º A composição dos quadros de que trata este decreto-lei, no que respeita à distribuição dos efectivos totais pelos diferentes postos, pode posteriormente ser feita por portaria do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 5.º Os lugares de primeiro-cabo readmitidos constantes do mapa anexo ao [Decreto-Lei n.º 167/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1977-139197), de 23 de Abril, serão ajustados às necessidades do serviço, nos termos do artigo 4.º do [Decreto-Lei n.º 272/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1978-329867), de 6 de Setembro.
+Art. 5.º Os lugares de primeiro-cabo readmitidos constantes do mapa anexo ao [Decreto-Lei n.º 167/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1977-139197), de 23 de Abril, serão ajustados às necessidades do serviço, nos termos do artigo 4.º do [Decreto-Lei n.º 272/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1978-329867), de 6 de Setembro.
 
 Visto e aprovado em Conselho da Revolução em 17 de Julho de 1980.
 
-**Promulgado em 23 de Julho de 1980.**
+Promulgado em 23 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro.
 
 Pessoal militar permanente privativo da Força Aérea
 
 Sargentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21000/26022603.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21000/26022603.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21000/26022603.pdf)

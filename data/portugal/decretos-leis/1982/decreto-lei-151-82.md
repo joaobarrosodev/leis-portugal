@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/10000/11011103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1982-393050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5f31001267b4e0eed8fe170fdc293990b2b2e56e3a5688cce1fbc3d301676f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6beb60ca8018eb13f0a72eebbe7b3bab18dccaa6978c2268c0b523b0d586826c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Justiça
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:663908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380923:por
+  label: "Alargado o quadro de pessoal aprovado pelo presente diploma, pela PORT.634/84.25.08.1984.PCM, DR.IS [197] de 25.08.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/634-1984-380923
+  date: '1984-08-25'
+- type: amended_by
+  target: pt:dre:380948:por
+  label: "Alargado o quadro de pessoal aprovado pelo presente diploma, pela PORT.642/84.27.08.1984.PCM, DR.IS [198] de 27.08.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1984-380948
+  date: '1984-08-27'
+- type: amended_by
+  target: pt:dre:227049:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.228/86.21.05.1986.MF, DR.IS [116] de 21.05.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-1986-227049
+  date: '1986-05-21'
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal pelo(a) Port 316/87 - Diário da República n.º 89/1987, Série I de 1987-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663908:por
+  label: Revogado pelo(a) Dec Lei 250/91 - Diário da República n.º 161/1991, Série I-A de 1991-07-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1991-663908
+  date: '1991-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:20Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +149,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Compete ao secretário-geral orientar e coordenar superiormente os serviços, distribuir o pessoal, gerir os recursos comuns do Ministério e submeter a despacho do Ministro da Justiça os assuntos que dele careçam.
+Artigo 1.º - 1 - Compete ao secretário-geral orientar e coordenar superiormente os serviços, distribuir o pessoal, gerir os recursos comuns do Ministério e submeter a despacho do Ministro da Justiça os assuntos que dele careçam.
 
 2 - Compete, ainda, ao secretário-geral representar o Ministério, enquanto órgão da Administração Pública, na falta ou impedimento do respectivo membro do Governo.
 
-###### Art. 2.º Na falta de secretário-geral, ou nos seus impedimentos, o respectivo cargo será desempenhado, sucessivamente:
+Art. 2.º Na falta de secretário-geral, ou nos seus impedimentos, o respectivo cargo será desempenhado, sucessivamente:
 
 a) Pelo director-geral que for designado por despacho ministerial;
 
 b) Pelo secretário-geral-adjunto.
 
-###### Art. 3.º O quadro de pessoal da Secretaria-Geral constante do mapa I anexo ao [Decreto-Lei n.º 238/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1980-472487), de 18 de Julho, é substituído pelo mapa anexo ao presente diploma.
+Art. 3.º O quadro de pessoal da Secretaria-Geral constante do mapa I anexo ao [Decreto-Lei n.º 238/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1980-472487), de 18 de Julho, é substituído pelo mapa anexo ao presente diploma.
 
-###### Art. 4.º - 1 - O provimento dos lugares não dirigentes do quadro de pessoal anexo ao presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 4.º - 1 - O provimento dos lugares não dirigentes do quadro de pessoal anexo ao presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -129,7 +179,7 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro da Secretaria-Geral em que vier a ser provido definitivamente finda a comissão.
 
-###### Art. 5.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro, poderá ser requisitado pessoal a outros organismos e serviços com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam.
+Art. 5.º - 1 - Para a realização de tarefas que não possam ser asseguradas pelo pessoal provido em lugares do quadro, poderá ser requisitado pessoal a outros organismos e serviços com o acordo prévio do funcionário ou agente a requisitar e a anuência do membro do Governo de que dependam.
 
 2 - O período de requisição será previamente fixado, não podendo exceder a duração de 1 ano, prazo este que poderá ser prorrogado por uma só vez.
 
@@ -137,7 +187,7 @@ b) No lugar do quadro da Secretaria-Geral em que vier a ser provido definitivame
 
 4 - Os lugares de que sejam titulares no quadro de origem os funcionários requisitados poderão ser providos interinamente enquanto se mantiver a requisição.
 
-###### Art. 6.º - 1 - Quando as necessidades do serviço o exijam, poderá ser destacado para a Secretaria-Geral pessoal de outros organismos e serviços.
+Art. 6.º - 1 - Quando as necessidades do serviço o exijam, poderá ser destacado para a Secretaria-Geral pessoal de outros organismos e serviços.
 
 2 - Os destacamentos previstos no número anteterior dependem do acordo dos interessados e carecem de autorização do membro do Governo de que dependam.
 
@@ -145,28 +195,28 @@ b) No lugar do quadro da Secretaria-Geral em que vier a ser provido definitivame
 
 4 - Os destacamentos não prejudicam, por qualquer forma, a situação do pessoal destacado perante os serviços de origem, continuando estes a assegurar-lhe as respectivas remunerações.
 
-###### Art. 7.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal e da demais legislação sobre a matéria, pode ser contratado além do quadro o pessoal indispensável para satisfação de necessidades dos serviços centrais do Ministério que não possam ser asseguradas pelo pessoal permanente.
+Art. 7.º - 1 - Sem prejuízo das normas sobre excedentes de pessoal e da demais legislação sobre a matéria, pode ser contratado além do quadro o pessoal indispensável para satisfação de necessidades dos serviços centrais do Ministério que não possam ser asseguradas pelo pessoal permanente.
 
 2 - O regime do pessoal contratado é o constante do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, na parte que lhe for aplicável.
 
-###### Art. 8.º O regime de pessoal e as normas de provimento dos lugares do quadro a que se refere o artigo 3.º são os referidos no [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro.
+Art. 8.º O regime de pessoal e as normas de provimento dos lugares do quadro a que se refere o artigo 3.º são os referidos no [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro.
 
-###### Art. 9.º A transição do pessoal ao serviço da Secretaria-Geral para os lugares do quadro a que se refere o artigo 3.º far-se-á, respeitado o disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, e observadas as habilitações estabelecidas, para categoria idêntica à que o funcionário ou agente já possui.
+Art. 9.º A transição do pessoal ao serviço da Secretaria-Geral para os lugares do quadro a que se refere o artigo 3.º far-se-á, respeitado o disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, e observadas as habilitações estabelecidas, para categoria idêntica à que o funcionário ou agente já possui.
 
-###### Art. 10.º Os encargos resultantes da execução do presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, na medida em que excedam as dotações orçamentais e enquanto o Orçamento Geral do Estado não se encontrar devidamente dotado.
+Art. 10.º Os encargos resultantes da execução do presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, na medida em que excedam as dotações orçamentais e enquanto o Orçamento Geral do Estado não se encontrar devidamente dotado.
 
-###### Art. 11.º São revogados o artigo 5.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, na redacção do [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro, e o artigo 12.º deste diploma, na redacção que lhe foi dada pelo [Decreto-Lei n.º 238/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1980-472487), de 18 de Julho.
+Art. 11.º São revogados o artigo 5.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, na redacção do [Decreto-Lei n.º 497/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1979-365881), de 21 de Dezembro, e o artigo 12.º deste diploma, na redacção que lhe foi dada pelo [Decreto-Lei n.º 238/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1980-472487), de 18 de Julho.
 
-###### Art. 12.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o do Ministro de Estado e das Finanças e do Plano e com o do membro do Governo que tiver a seu cargo a Administração Pública, quando estejam em causa matérias da respectiva competência.
+Art. 12.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Justiça, que será conjunto com o do Ministro de Estado e das Finanças e do Plano e com o do membro do Governo que tiver a seu cargo a Administração Pública, quando estejam em causa matérias da respectiva competência.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Abril de 1982.**
+Promulgado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/10000/11011103.pdf))](https://files.diariodarepublica.pt/1s/1982/04/10000/11011103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/10000/11011103.pdf)

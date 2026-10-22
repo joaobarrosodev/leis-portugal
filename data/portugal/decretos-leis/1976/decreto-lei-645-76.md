@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17700/18251828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/645-1976-430986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8c6e8506af3f330d3cf3c121c25d509423d51d8d75d24ffd216757aab0023d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42ddbeaa86542f2e535071a9b00f98c354745f83490c861c734b894c1584025d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicação Social
+- Margens de Comercialização
+- Preço
+- Publicação
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:196218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409344:por
+  label: Prorrogado por trinta dias o prazo previsto no n.º 2 do art. 2.º pelo(a) Despacho - Diário da República n.º 253/1976,
+    Série I de 1976-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1976-409344
+  date: '1976-10-28'
+- type: cites
+  target: pt:dre:168803:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:447354:por
+  label: "Revogados os arts. 2º e 3º do presente diploma, pela LEI.12/78.21.03.1978.AR, DR.IS [67] de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-1978-447354
+  date: '1978-03-21'
+- type: repealed_by
+  target: pt:dre:654546:por
+  label: "Revogado o nº 2 do art. 1º pelo DEC LEI.117/84.1984.04.09.PCM DR.IS [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1984-654546
+  date: '1984-04-09'
+- type: repealed_by
+  target: pt:dre:196218:por
+  label: "Revogado pela LEI.2/99.1999.01.13.AR, DR.IS-A [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1999-196218
+  date: '1999-01-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:05Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +141,11 @@ De fora foram deixadas algumas outras incluídas no projecto circulado para reco
 
 Nestes termos e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A partir da data da entrada em vigor do presente diploma os preços de venda ao público, as tabelas de publicidade e as margens de comercialização das publicações periódicas serão estabelecidos livremente pelas respectivas empresas editoras.
+Artigo 1.º - 1. A partir da data da entrada em vigor do presente diploma os preços de venda ao público, as tabelas de publicidade e as margens de comercialização das publicações periódicas serão estabelecidos livremente pelas respectivas empresas editoras.
 
 2. Os preços de venda ao público, as tabelas de publicidade e as margens de comercialização das publicações periódicas editadas por empresas estatizadas ou sob intervenção do Estado serão estabelecidos por despacho conjunto dos Ministros das Finanças e da Comunicação Social, sob proposta das respectivas administrações, ouvidos as comissões de trabalhadores e os respectivos directores.
 
-###### Art. 2.º - 1. Os trabalhadores das empresas estatizadas Radiodifusão Portuguesa, E. P., e Radiotelevisão Portuguesa, E. P., bem como os das empresas estatizadas ou sob intervenção do Estado, editoras de publicações periódicas ou unitárias, não poderão preencher mais de um posto de trabalho remunerado, na mesma empresa ou em empresa diversa, ainda que não estatizada ou sob intervenção do Estado.
+Art. 2.º - 1. Os trabalhadores das empresas estatizadas Radiodifusão Portuguesa, E. P., e Radiotelevisão Portuguesa, E. P., bem como os das empresas estatizadas ou sob intervenção do Estado, editoras de publicações periódicas ou unitárias, não poderão preencher mais de um posto de trabalho remunerado, na mesma empresa ou em empresa diversa, ainda que não estatizada ou sob intervenção do Estado.
 
 2. Os trabalhadores que à data da entrada em vigor do presente diploma se encontrem na situação que o número anterior proíbe devem, no prazo máximo de sessenta dias, contados a partir daquela data, comunicar por escrito à administração da ou das empresas estatizadas ou sob administração do Estado em que ocupem postos de trabalho, qual o posto por que optam e qual ou quais os que abandonam, bem como as respectivas categorias profissionais, horários, remunerações e sindicatos, devendo a opção produzir efeitos no primeiro dia do mês seguinte ao do termo do mencionado prazo de sessenta dias.
 
@@ -127,7 +157,7 @@ Nestes termos e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea 
 
 6. A violação do disposto nos n.os 1 e 2, devidamente comprovada, constitui justa causa da rescisão imediata do contrato ou contratos de trabalho entre o infractor e qualquer das empresas mencionadas no referido n.º 1.
 
-###### Art. 3.º - 1. É facultada aos trabalhadores das empresas mencionadas no n.º 1 do artigo anterior a permuta dos respectivos lugares e a transferência, empresa a empresa, nas condições constantes dos números seguintes.
+Art. 3.º - 1. É facultada aos trabalhadores das empresas mencionadas no n.º 1 do artigo anterior a permuta dos respectivos lugares e a transferência, empresa a empresa, nas condições constantes dos números seguintes.
 
 2. A permuta colocará o permutante, quanto a direitos e deveres, nas mesmas condições em que se encontrava o trabalhador que com ele permutou, à excepção da antiguidade e dos direitos dela decorrentes, que acompanham o trabalhador.
 
@@ -139,7 +169,7 @@ Nestes termos e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea 
 
 6. As administrações requeridas, ouvida a comissão de trabalhadores e, quando os requerentes forem jornalistas o director e o conselho da redacção, poderão autorizar ou recusar a permuta ou a transferência, conforme considerem ou não o interesse dos requerentes conciliável com o interesse das empresas, sendo que a recusa de uma delas equivale à recusa de ambas, devendo o despacho de concordância ser objecto de homologação do Ministro da Comunicação Social.
 
-###### Art. 4.º - 1. Até à publicação do diploma regulador dos limites horários do trabalho nacional, nenhum trabalhador das empresas mencionadas no n.º 1 do artigo 2.º poderá trabalhar menos de trinta e cinco e mais de quarenta e cinco horas por semana.
+Art. 4.º - 1. Até à publicação do diploma regulador dos limites horários do trabalho nacional, nenhum trabalhador das empresas mencionadas no n.º 1 do artigo 2.º poderá trabalhar menos de trinta e cinco e mais de quarenta e cinco horas por semana.
 
 2. O Ministro do Trabalho poderá, excepcionalmente, e em casos devidamente justificados, autorizar períodos semanais de trabalho inferiores a trinta e cinco horas, a requerimento dos trabalhadores interessados, com o parecer favorável da administração e da comissão de trabalhadores da respectiva empresa.
 
@@ -153,29 +183,29 @@ Nestes termos e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea 
 
 7. Só com a autorização expressa do Ministério do Trabalho podem os trabalhadores referidos no número antecedente prestar em cada mês trabalho extraordinário a que corresponda remuneração superior a 10% da remuneração mensal ilíquida do trabalhador que o preste.
 
-###### Art. 5.º O Ministro da Comunicação Social determinará por despacho quais as publicações periódicas editadas por empresas estatizadas ou sob intervenção do Estado que devem ser publicadas ao domingo e a partir de que data, ouvido o conselho consultivo previsto no artigo 10.º e tomado em conta o equilíbrio financeiro das respectivas empresas.
+Art. 5.º O Ministro da Comunicação Social determinará por despacho quais as publicações periódicas editadas por empresas estatizadas ou sob intervenção do Estado que devem ser publicadas ao domingo e a partir de que data, ouvido o conselho consultivo previsto no artigo 10.º e tomado em conta o equilíbrio financeiro das respectivas empresas.
 
-###### Art. 6.º - 1. A partir da data de entrada em vigor do presente diploma, é obrigatória a menção em lugar certo e caracteres bem visíveis, de todos os números de todas as publicações periódicas, da tiragem média correspondente ao mês imediatamente anterior ao da menção de que se trate.
+Art. 6.º - 1. A partir da data de entrada em vigor do presente diploma, é obrigatória a menção em lugar certo e caracteres bem visíveis, de todos os números de todas as publicações periódicas, da tiragem média correspondente ao mês imediatamente anterior ao da menção de que se trate.
 
 2. A falta de menção prevista no número antecedente ou a sua consciente inexactidão farão incorrer a empresa editora em multa de 5000$00 a 50000$0 e cada um dos seus administradores e membros do respectivo órgão de fiscalização, bem como o director da publicação, em multa equivalente ao mínimo da décima parte e ao máximo da quinta parte do ordenado mensal correspondente às respectivas funções.
 
 3. As multas previstas no número antecedente serão aplicadas pelo tribunal territorialmente competente, em função da sede da empresa editora.
 
-###### Art. 7.º - 1. As sobras das publicações periódicas editadas por empresas estatizadas ou sob intervenção do Estado não poderão exceder a percentagem sobre a respectiva tiragem que vier a ser fixada por despacho do Ministro da Comunicação Social, ouvidos o conselho de imprensa e o conselho consultivo previsto no artigo 10.º
+Art. 7.º - 1. As sobras das publicações periódicas editadas por empresas estatizadas ou sob intervenção do Estado não poderão exceder a percentagem sobre a respectiva tiragem que vier a ser fixada por despacho do Ministro da Comunicação Social, ouvidos o conselho de imprensa e o conselho consultivo previsto no artigo 10.º
 
 2. Em caso de infracção não justificada do limite previsto no número antecedente, cada um dos membros da administração da empresa e o director da publicação de que se trate incorrerá na pena de multa correspondente ao mínimo da décima parte e ao máximo da quinta parte do ordenado mensal correspondente às respectivas funções.
 
 3. As multas previstas no número antecedente serão aplicadas pelo tribunal territorialmente competente, em. função da sede da empresa editora.
 
-###### Art. 8.º - 1. Sem prejuízo do disposto na alínea d) do n.º 5 do artigo 17.º da Lei de Imprensa, aprovada pelo [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, o conselho de imprensa, dentro do prazo de noventa dias, a contar da entrada em vigor do presente diploma, organizará e divulgar o contrôle da tiragem e das sobras previsto nos artigos antecedentes.
+Art. 8.º - 1. Sem prejuízo do disposto na alínea d) do n.º 5 do artigo 17.º da Lei de Imprensa, aprovada pelo [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, o conselho de imprensa, dentro do prazo de noventa dias, a contar da entrada em vigor do presente diploma, organizará e divulgar o contrôle da tiragem e das sobras previsto nos artigos antecedentes.
 
 2. O Ministro da Comunicação Social proporcionará ao conselho de imprensa o apoio que considere necessário à execução do esquema que vier a ser estabelecido, destacando e se necessário requisitando para o efeito, por simples despacho, os convenientes agentes e meios materiais.
 
-###### Art. 9.º - 1. O Ministro da Comunicação Social poderá, por despacho simples, limitar o número de páginas das publicações periódicas editadas por empresas estatizadas ou sob intervenção do Estado, ouvidas as respectivas administrações, que, por seu turno, ouvirão o director, quando tal limitação se imponha para defesa do equilíbrio económico das respectivas empresas.
+Art. 9.º - 1. O Ministro da Comunicação Social poderá, por despacho simples, limitar o número de páginas das publicações periódicas editadas por empresas estatizadas ou sob intervenção do Estado, ouvidas as respectivas administrações, que, por seu turno, ouvirão o director, quando tal limitação se imponha para defesa do equilíbrio económico das respectivas empresas.
 
 2. O despacho do Ministro da Comunicação Social é susceptível de recurso de plena jurisdição, nos termos gerais de direito.
 
-###### Art. 10.º - 1. Os presidentes dos conselhos de administração, conselhos de gerência ou equivalentes das empresas estatizadas ou sob intervenção do Estado, editoras de publicações periódicas, ou quem as suas vezes fizer, constituem um conselho consultivo em relação à administração de cada uma delas em ordem à coordenação da respectiva gestão.
+Art. 10.º - 1. Os presidentes dos conselhos de administração, conselhos de gerência ou equivalentes das empresas estatizadas ou sob intervenção do Estado, editoras de publicações periódicas, ou quem as suas vezes fizer, constituem um conselho consultivo em relação à administração de cada uma delas em ordem à coordenação da respectiva gestão.
 
 2. O conselho consultivo será presidido pelo presidente mais velho, com voto de qualidade.
 
@@ -185,7 +215,7 @@ Nestes termos e no uso da faculdade conferida pelo artigo 3.º, n.º 1, alínea 
 
 5. Poderão facultativamente assistir às reuniões do conselho consultivo ou ser solicitados para o efeito os restantes administradores ou gerentes e os, directores das publicações periódicas editadas pelas empresas nele representadas, para o que dever ser-lhes dado conhecimento das respectivas convocatórias.
 
-###### Art. 11.º Compete, nomeadamente, ao conselho consultivo pronunciar-se sobre:
+Art. 11.º Compete, nomeadamente, ao conselho consultivo pronunciar-se sobre:
 
 a) A fixação dos preços de venda ao público, das tabelas de publicidade e das margens de comercialização das publicações periódicas editadas pelas empresas nele representadas;
 
@@ -201,12 +231,12 @@ f) O estudo exploratório de uma acção concertada quanto à aquisição de mat
 
 g) Medidas de reestruturação das empresas nele representadas e da correspondente actividade, nomeadamente relativas aos respecvos circuitos de publicidade e distribuição.
 
-###### Art. 12.º O presente diploma entra em vigor quinze dias após a data da sua publicação.
+Art. 12.º O presente diploma entra em vigor quinze dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - João Pedro Tomás Rosa.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

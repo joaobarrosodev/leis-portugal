@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48360-1968-274646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7be0b5cecc7340903b7b0929f22e0ae3b91d646a0afa7360584e6b2f4403de6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e9a01f95575631f97d25a2dbe822d707e2fe03e2b559532566e1f3f23c98586
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Missão Permanente de Portugal Junto dos Organismos Internacionais com Sede em Genebra
 relationships:
 - type: amended_by
   target: pt:dre:506599:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160544:por
+  label: "Alterado o art. 3º pelo DEC LEI.100/75.03.03.1975.MNE, DG.IS [52] de 03.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1975-160544
+  date: '1975-03-03'
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650356:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:12Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +113,18 @@ Tendo em vista o artigo 3.º do [Decreto-Lei n.º 47331](https://diariodarepubli
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada em Genebra uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá assegurar a representação de Portugal nos organismos e organizações internacionais com sede naquela cidade junto dos quais não haja delegações que dependam, por lei especial, de outra entidade.
+Artigo 1.º É criada em Genebra uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá assegurar a representação de Portugal nos organismos e organizações internacionais com sede naquela cidade junto dos quais não haja delegações que dependam, por lei especial, de outra entidade.
 
-###### Art. 2.º A missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e será regulada, na parte aplicável, pelas disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, em tudo que não for contrário às disposições do presente diploma legal, pelos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
+Art. 2.º A missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e será regulada, na parte aplicável, pelas disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, em tudo que não for contrário às disposições do presente diploma legal, pelos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
 
-###### Art. 3.º A missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
+Art. 3.º A missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
 
 § único. O representante permanente aludido no corpo deste artigo será acreditado junto dos organismos ou organizações internacionais a indicar por despacho do Ministro dos Negócios Estrangeiros, podendo também, por despacho da mesma entidade, ser designado para assegurar a representação de Portugal no departamento europeu das Nações Unidas.
 
-###### Art. 4.º As despesas da missão permanente serão satisfeitas por conta da verba global anualmente inscrita no orçamento do Ministério dos Negócios Estrangeiros, sendo-lhe aplicáveis o disposto nos parágrafos do artigo 9.º e no artigo 10.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.
+Art. 4.º As despesas da missão permanente serão satisfeitas por conta da verba global anualmente inscrita no orçamento do Ministério dos Negócios Estrangeiros, sendo-lhe aplicáveis o disposto nos parágrafos do artigo 9.º e no artigo 10.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.
 
 § único (transitório). As despesas efectuadas e a efectuar este ano económico com a missão permanente a que alude este decreto-lei serão suportadas pela verba do capítulo 5.º, artigo 36.º, n.º 3), alínea 5, do orçamento do Ministério dos Negócios Estrangeiros actualmente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

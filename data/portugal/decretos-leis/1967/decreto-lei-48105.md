@@ -49,36 +49,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48105-1967-400637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20ffe1e5b404b02d3701c679781a2e636e37829d3e06dd03b2cda4186afd0903
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c491ce5185dcf7ffca25f946e3dc18b780f90a93503281bf32b8ae4104bd4ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- Caixa de Reforma
+- Caixa Sindical de Previdência
+- Certificado Especial de Dívida Pública
+- Fundo Nacional de Abono de Família
+- Instituições de Previdência Social
+- Pensões
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:34Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +116,11 @@ Considerando que pelo artigo 186.º do [Decreto n.º 45266](https://diariodarepu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os certificados especiais da dívida pública a emitir nos termos do artigo 2.º do [Decreto-Lei n.º 37440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37440-1949-258727), de 6 de Junho de 1949, a favor das instituições de previdência de qualquer das categorias previstas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, bem como das caixas sindicais de previdência ou das caixas de reforma ou de previdência constituídas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, e ainda do Fundo Nacional do Abono de Família, serão objecto de ajustamento, tendo especialmente em atenção a melhoria das pensões.
+Artigo 1.º Os certificados especiais da dívida pública a emitir nos termos do artigo 2.º do [Decreto-Lei n.º 37440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37440-1949-258727), de 6 de Junho de 1949, a favor das instituições de previdência de qualquer das categorias previstas na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, bem como das caixas sindicais de previdência ou das caixas de reforma ou de previdência constituídas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, e ainda do Fundo Nacional do Abono de Família, serão objecto de ajustamento, tendo especialmente em atenção a melhoria das pensões.
 
-###### Art. 2.º O critério a adoptar para o efeito do artigo anterior será estabelecido por acordo entre o Ministro das Finanças e o Ministro das Corporações e Previdência Social.
+Art. 2.º O critério a adoptar para o efeito do artigo anterior será estabelecido por acordo entre o Ministro das Finanças e o Ministro das Corporações e Previdência Social.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

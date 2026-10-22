@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45954-1964-536781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e85641a326ffda5522a38b00e3ea8a6b66756c931f7714abd2b8806e03fdaab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11d930d401d67619b3474f29a6eb7fe0d8920f35dfb6368cfd9344a90b1a0eae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Fundação
+- Fundação Amélia da Silva de Mello
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:38Z'
   warnings: []
   errors: []
 ---
@@ -85,15 +88,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aprovados os estatutos da Fundação Amélia da Silva de Mello, criada por Manuel Augusto José de Mello, instituição particular de utilidade pública administrativa, perpétua e dotada de personalidade jurídica.
+Artigo 1.º São aprovados os estatutos da Fundação Amélia da Silva de Mello, criada por Manuel Augusto José de Mello, instituição particular de utilidade pública administrativa, perpétua e dotada de personalidade jurídica.
 
-###### Art. 2.º Os estatutos da Fundação, anexos ao presente diploma, poderão ser alterados nos termos previstos no seu artigo 15.º, sempre, porém, mediante aprovação do Governo.
+Art. 2.º Os estatutos da Fundação, anexos ao presente diploma, poderão ser alterados nos termos previstos no seu artigo 15.º, sempre, porém, mediante aprovação do Governo.
 
-###### Art. 3.º A Fundação goza das isenções fiscais concedidas pela lei geral às pessoas colectivas de utilidade pública administrativa.
+Art. 3.º A Fundação goza das isenções fiscais concedidas pela lei geral às pessoas colectivas de utilidade pública administrativa.
 
-###### Art. 4.º No caso de a Fundação vir a ser extinta, os bens que se apurarem em liquidação reverterão para instituições que prossigam fins análogos aos enunciados nos estatutos, escolhidas pela comissão liquidatária.
+Art. 4.º No caso de a Fundação vir a ser extinta, os bens que se apurarem em liquidação reverterão para instituições que prossigam fins análogos aos enunciados nos estatutos, escolhidas pela comissão liquidatária.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -105,7 +108,7 @@ Instituição, duração, sede, património e fins
 
 Art.º 1.º A Fundação Amélia da Silva de Mello é uma instituição portuguesa, particular, de carácter perpétuo, que mediante reconhecimento oficial constitui uma pessoa colectiva de utilidade publica administrativa, com sede em Lisboa, e em local a designar pela direcção.
 
-###### Art. 2.º O património da Fundação é inicialmente constituído pelos seguintes bens:
+Art. 2.º O património da Fundação é inicialmente constituído pelos seguintes bens:
 
 600 acções da Companhia União Fabril.
 
@@ -129,7 +132,7 @@ Art.º 1.º A Fundação Amélia da Silva de Mello é uma instituição portugue
 
 7000 acções da Sogefi - Sociedade de Gestão e Financiamentos, S. A. R. L. (a constituir).
 
-###### Art. 3.º Constituem receitas da Fundação:
+Art. 3.º Constituem receitas da Fundação:
 
 a) Os rendimentos dos bens do seu património ou de serviços prestados a quem possa retribuí-los;
 
@@ -137,7 +140,7 @@ b) Os donativos e subsídios de qualquer natureza que lhe sejam atribuídos;
 
 c) As heranças, legados ou doações de que venha a ser destinatária e sejam aceites pela direcção.
 
-###### Art. 4.º A Fundação visa, genèricamente, fins de educação e de assistência e, em especial, procurará, na medida das suas possibilidades, dar preferência aos objectivos seguintes:
+Art. 4.º A Fundação visa, genèricamente, fins de educação e de assistência e, em especial, procurará, na medida das suas possibilidades, dar preferência aos objectivos seguintes:
 
 a) Atribuir subsídios a centros ou instituições de investigação científica aplicada à indústria ou ao progresso das ciências médicas, ou montá-los e sustentá-los total ou parcialmente;
 
@@ -147,7 +150,7 @@ c) Atribuir bolsas de estudo para formação de sacerdotes da religião católic
 
 d) Conceder donativos para obras de construção, ampliação e melhoramento de estabelecimentos hospitalares, bem como subsídios para o seu equipamento e sustentação.
 
-###### Art. 5.º Perderá o benefício da bolsa de estudo:
+Art. 5.º Perderá o benefício da bolsa de estudo:
 
 1.º O que, sem ser por motivo de doença devidamente comprovada, não tiver aproveitamento em qualquer ano do seu curso ou não alcance a classificação mínima que for estabelecida pela direcção;
 
@@ -157,15 +160,15 @@ II
 
 Administração, fiscalização e órgãos consultivos
 
-###### Art. 6.º A Fundação será administrada por uma direcção e fiscalizada por um conselho fiscal.
+Art. 6.º A Fundação será administrada por uma direcção e fiscalizada por um conselho fiscal.
 
-###### Art. 7.º A direcção é composta por três membros, dos quais um presidente e dois vogais.
+Art. 7.º A direcção é composta por três membros, dos quais um presidente e dois vogais.
 
 § 1.º O primeiro presidente da direcção será o instituidor, que livremente designará os dois primeiros vogais, a título vitalício.
 
 § 2.º Falecido o instituidor, a presidência da direcção será exercida por mandato trienal, pertencendo ao instituidor designar a pessoa que há-de exercer as funções no primeiro triénio e competindo à direcção eleger de entre os seus membros, findo o primeiro triénio e daí por diante, o seu presidente.
 
-###### Art. 8.º Cada membro da direcção terá o direito de designar o sucessor que há-de prover a vaga por ele aberta em caso de falecimento ou de renúncia, bem como um substituto para as suas faltas e impedimentos.
+Art. 8.º Cada membro da direcção terá o direito de designar o sucessor que há-de prover a vaga por ele aberta em caso de falecimento ou de renúncia, bem como um substituto para as suas faltas e impedimentos.
 
 § 1.º A designação do sucessor poderá ser feita por carta, entregue, fechada e lacrada, ao presidente do conselho fiscal e depositada no cofre da Fundação sob responsabilidade deste e a todo o tempo substituível pelo director designaste ou por testamento.
 
@@ -177,7 +180,7 @@ Administração, fiscalização e órgãos consultivos
 
 § 5.º A faculdade que o instituidor tem de, nos termos do presente artigo, designar o seu sucessor como membro da direcção é independente da que lhe compete, nos termos do artigo anterior, de designar o presidente, podendo a escolha deste recair em algum dos membros já pertencentes à direcção.
 
-###### Art. 9.º Competem à direcção os poderes de gerência do património da Fundação, a representação desta em juízo e fora dele, a prática de todos os actos necessários ao preenchimento dos fins da instituição e a organização, até 31 de Março de cada ano, das contas de gerência do ano anterior, bem como do inventário e balanço referidos a 31 de Dezembro.
+Art. 9.º Competem à direcção os poderes de gerência do património da Fundação, a representação desta em juízo e fora dele, a prática de todos os actos necessários ao preenchimento dos fins da instituição e a organização, até 31 de Março de cada ano, das contas de gerência do ano anterior, bem como do inventário e balanço referidos a 31 de Dezembro.
 
 § 1.º A direcção poderá adquirir a título oneroso os bens imobiliários que forem necessários ao preenchimento dos fins institucionais ou à instalação dos seus serviços, aceitar heranças, contanto que o faça a benefício de inventário, e doações e legados puros.
 
@@ -185,7 +188,7 @@ Administração, fiscalização e órgãos consultivos
 
 § 3.º Podem ser adquiridos, para aplicação dos recursos da Fundação, os títulos que a direcção julgar indicados, sendo permitido a esta confiar a respectiva administração a sociedades de gestão.
 
-###### Art. 10.º A direcção poderá delegar no seu presidente ou em qualquer dos seus membros o exercício normal das suas atribuições e repartir entre todos ou por alguns deles os poderes de execução das suas deliberações e de gerência corrente de certo ou certos ramos da actividade da Fundação, podendo também constituir quaisquer mandatários para fins especiais.
+Art. 10.º A direcção poderá delegar no seu presidente ou em qualquer dos seus membros o exercício normal das suas atribuições e repartir entre todos ou por alguns deles os poderes de execução das suas deliberações e de gerência corrente de certo ou certos ramos da actividade da Fundação, podendo também constituir quaisquer mandatários para fins especiais.
 
 § 1.º Dependem de deliberação da direcção as resoluções que digam respeito à aplicação ou disposição do património da Fundação e à instauração de acções em juízo.
 
@@ -193,13 +196,13 @@ Administração, fiscalização e órgãos consultivos
 
 § 3.º A Fundação fica obrigada pela assinatura do presidente da direcção, enquanto for o instituidor, ou de dois directores, podendo a assinatura de um deles ser substituída pela de um mandatário, agindo dentro dos limites do seu mandato.
 
-###### Art. 11.º O conselho fiscal será constituído por cinco membros, dos quais três serão, ex officio, os presidentes dos conselhos de administração, ou do órgão que lhes corresponder, do Banco Totta-Aliança, da Companhia de Seguros Império e da Companhia União Fabril e dois serão pessoas idóneas escolhidas por votação dos membros ex officio para exercerem as funções por períodos de cinco anos, renováveis.
+Art. 11.º O conselho fiscal será constituído por cinco membros, dos quais três serão, ex officio, os presidentes dos conselhos de administração, ou do órgão que lhes corresponder, do Banco Totta-Aliança, da Companhia de Seguros Império e da Companhia União Fabril e dois serão pessoas idóneas escolhidas por votação dos membros ex officio para exercerem as funções por períodos de cinco anos, renováveis.
 
 § 1.º Quando os presidentes dos conselhos de administração das sociedades mencionadas neste artigo forem membros da direcção da Fundação, a representação recairá na pessoa que for indicada pelo conselho de administração da respectiva sociedade, em reunião a que não assistirá o presidente impedido.
 
 § 2.º Os membros do conselho fiscal, uma vez este completo, elegerão de entre si o respectivo presidente, cujo mandato será quinquenal.
 
-###### Art. 12.º Compete ao conselho fiscal:
+Art. 12.º Compete ao conselho fiscal:
 
 1.º Pronunciar-se sobre as contas prestadas pela direcção em cada gerência anual;
 
@@ -215,9 +218,9 @@ Administração, fiscalização e órgãos consultivos
 
 § único. No parecer sobre as contas de gerência o conselho pronunciar-se-á sobre se os rendimentos foram aplicados de harmonia com os fins estatutários.
 
-###### Art. 13.º As funções do conselho fiscal são gratuitas.
+Art. 13.º As funções do conselho fiscal são gratuitas.
 
-###### Art. 14.º Poderá a direcção constituir comissões consultivas para estudo dos pedidos de bolsas de estudo e de subsídios, da realização de projectos ou da gerência de centros, institutos ou estabelecimentos por ela montados.
+Art. 14.º Poderá a direcção constituir comissões consultivas para estudo dos pedidos de bolsas de estudo e de subsídios, da realização de projectos ou da gerência de centros, institutos ou estabelecimentos por ela montados.
 
 III
 
@@ -225,10 +228,10 @@ Alteração e interpretação dos estatutos
 
 Extinção da Fundação
 
-###### Art. 15.º Os presentes estatutos poderão ser modificados, em vida do instituidor, por mera vontade deste. Depois do seu falecimento, a alteração só pode ser deliberada em reunião conjunta da direcção e do conselho fiscal, sob proposta da direcção, e contanto que seja respeitada a vontade manifestada pelo instituidor quanto a denominação e fins.
+Art. 15.º Os presentes estatutos poderão ser modificados, em vida do instituidor, por mera vontade deste. Depois do seu falecimento, a alteração só pode ser deliberada em reunião conjunta da direcção e do conselho fiscal, sob proposta da direcção, e contanto que seja respeitada a vontade manifestada pelo instituidor quanto a denominação e fins.
 
-###### Art. 16.º No caso de surgirem dúvidas na interpretação de qualquer disposição dos presentes estatutos em vida do instituidor, prevalecerá a opinião deste. Após o seu falecimento a direcção optará sempre pelo sentido que for mais adequado ao preenchimento cabal dos fins da instituição.
+Art. 16.º No caso de surgirem dúvidas na interpretação de qualquer disposição dos presentes estatutos em vida do instituidor, prevalecerá a opinião deste. Após o seu falecimento a direcção optará sempre pelo sentido que for mais adequado ao preenchimento cabal dos fins da instituição.
 
-###### Art. 17.º Se por qualquer causa a Fundação vier a ser extinta, os bens que em liquidação se apurarem reverterão para instituições que prossigam fins análogos aos enunciados no artigo 4.º dos presentes estatutos e que serão escolhidas pela comissão liquidatária.
+Art. 17.º Se por qualquer causa a Fundação vier a ser extinta, os bens que em liquidação se apurarem reverterão para instituições que prossigam fins análogos aos enunciados no artigo 4.º dos presentes estatutos e que serão escolhidas pela comissão liquidatária.
 
 Lisboa, 7 de Outubro de 1964. - Manuel Augusto José de Mello.

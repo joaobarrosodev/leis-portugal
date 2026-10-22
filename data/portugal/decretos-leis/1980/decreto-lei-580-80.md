@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/1980, 2º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4244-(27) a 4244-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7a022e48862674e5175df73ff478d2c9a8d8b5d45dad04d2a519be9d121b409
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e08400d4d04c97b9b1044b02710dc7d248a96ad7c99704d9032dfb75661891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:195779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312447:por
+  label: "Alterada a alínea b) do nº 3 do artigo 10º pelo DEC LEI.146/83.04.04.1983.ME, DR.IS [77] de 04.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-1983-312447
+  date: '1983-04-04'
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471884:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275864:por
+  label: "Revogado pelo DEC LEI.150-A/85.08.05.1985.ME, DR.IS [105]Supl de 08.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-a-1985-275864
+  date: '1985-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:10Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +178,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 I - Dos contratos em geral
 
-###### Artigo 1.º Para a docência nos ensinos preparatório e secundário o Ministério da Educação e Ciência celebrará contratos plurianuais, anuais e temporários com docentes que:
+Artigo 1.º Para a docência nos ensinos preparatório e secundário o Ministério da Educação e Ciência celebrará contratos plurianuais, anuais e temporários com docentes que:
 
 a) No ano escolar imediatamente anterior já se encontrassem em exercício de funções nos ensinos preparatório ou secundário;
 
@@ -136,7 +188,7 @@ c) Se hajam candidatado pela primeira vez à celebração de qualquer dos referi
 
 II - Dos contratos plurianuais
 
-###### Art. 2.º Os contratos plurianuais referidos no artigo anterior serão celebrados com docentes que se encontrem numa das seguintes situações;
+Art. 2.º Os contratos plurianuais referidos no artigo anterior serão celebrados com docentes que se encontrem numa das seguintes situações;
 
 a) Serem professores em exercício de funções em estabelecimentos de ensino oficial, desde que portadores de habilitações próprias para a docência nos ensinos preparatório ou secundário;
 
@@ -144,7 +196,7 @@ b) Outros candidatos não incluídos na alínea anterior, desde que portadores d
 
 c) Estarem integrados em contratos de completamento de habilitações referidas no n.º 3 do artigo 1.º do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro, com a redacção que lhe foi dada pela [Lei n.º 67/79](https://diariodarepublica.pt/dr/detalhe/lei/67-1979-365132), de 4 de Outubro.
 
-###### Art. 3.º - 1 - Os contratos não podem ser celebrados com docentes que, embora nas condições do artigo anterior, se encontrem, em qualquer dos dois anos imediatamente anteriores, numa das seguintes situações:
+Art. 3.º - 1 - Os contratos não podem ser celebrados com docentes que, embora nas condições do artigo anterior, se encontrem, em qualquer dos dois anos imediatamente anteriores, numa das seguintes situações:
 
 a) Não terem aceite colocação para estabelecimento de ensino ou círculo ou zona escolar a que tenham concorrido;
 
@@ -164,7 +216,7 @@ f) Terem obtido classificação inferior a Bom ou a Suficiente, de acordo com as
 
 4 - Compete aos conselhos directivos dos estabelecimentos de ensino, ou a quem as suas vezes fizer, confirmar as condições constantes do n.º 1, alíneas d) a f), e do n.º 2.
 
-###### Art. 4.º - 1 - Para efeitos do disposto no artigo 2.º do presente diploma, os estabelecimentos de ensino serão agrupados em círculos escolares.
+Art. 4.º - 1 - Para efeitos do disposto no artigo 2.º do presente diploma, os estabelecimentos de ensino serão agrupados em círculos escolares.
 
 2 - Entende-se por círculo escolar o conjunto de estabelecimentos de ensino preparatório ou o conjunto de estabelecimentos de ensino secundário existentes numa dada região.
 
@@ -174,25 +226,25 @@ f) Terem obtido classificação inferior a Bom ou a Suficiente, de acordo com as
 
 5 - Os círculos e zonas escolares poderão ser alterados por despacho normativo do Ministro da Educação e Ciência, ouvidos os sindicatos dos professores, sempre que se verifiquem implicações de rede escolar ou necessidades fundamentadas resultantes da experiência colhida.
 
-###### Art. 5.º - 1 - Os contratos terão, em regra, a duração de dois anos escolares, sendo automaticamente renováveis se não forem rescindidos por qualquer das partes, nos termos dos artigos 25.º e 26.º deste diploma.
+Art. 5.º - 1 - Os contratos terão, em regra, a duração de dois anos escolares, sendo automaticamente renováveis se não forem rescindidos por qualquer das partes, nos termos dos artigos 25.º e 26.º deste diploma.
 
 2 - O contrato plurianual não pode ser renovado aos docentes que se tenham profissionalizado em exercício, os quais deverão ser opositores ao concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro.
 
-###### Art. 6.º - 1 - O Ministério da Educação e Ciência fixará anualmente o número de lugares em cada grupo, subgrupo e disciplina para cuja docência serão celebrados contratos plurianuais.
+Art. 6.º - 1 - O Ministério da Educação e Ciência fixará anualmente o número de lugares em cada grupo, subgrupo e disciplina para cuja docência serão celebrados contratos plurianuais.
 
 2 - O número de lugares em cada grupo, subgrupo e disciplina será o que resultar da diferença existente entre o número total de horários docentes de vinte ou mais horas já distribuídos ou a distribuir a professores não efectivos em cada estabelecimento de ensino à data de 31 de Outubro de cada ano e o número de lugares vagos do quadro.
 
 3 - O Ministério da Educação e Ciência estabelecerá, para cada ano escolar e por grupo, subgrupo e disciplina, percentagens de lugares disponíveis para contratos plurianuais, que em nenhum caso serão inferiores a 75% da diferença resultante da aplicação do número anterior deste artigo e cujo arredondamento se fará por defeito.
 
-###### Art. 7.º Fixado nos termos do artigo 6.º o número de lugares para cuja docência serão celebrados contratos plurianuais, será aberto concurso de provimento, a realizar de acordo com as normas indicadas nos artigos seguintes.
+Art. 7.º Fixado nos termos do artigo 6.º o número de lugares para cuja docência serão celebrados contratos plurianuais, será aberto concurso de provimento, a realizar de acordo com as normas indicadas nos artigos seguintes.
 
-###### Art. 8.º - 1 - O concurso será aberto durante o mês de Janeiro de cada ano, mediante aviso a publicar no Diário da República, que incluirá o número de lugares fixado nos termos do artigo 6.º
+Art. 8.º - 1 - O concurso será aberto durante o mês de Janeiro de cada ano, mediante aviso a publicar no Diário da República, que incluirá o número de lugares fixado nos termos do artigo 6.º
 
 2 - A candidatura ao concurso far-se-á mediante apresentação de um boletim de modelo normalizado, que, em termos a definir no aviso de abertura, poderá ser diferente, consoante os diversos tipos de opositores.
 
 3 - Os prazos, condições e local de apresentação do boletim serão fixados no aviso de abertura.
 
-###### Art. 9.º - 1 - Do boletim de concurso referido no n.º 2 do artigo anterior constarão obrigatoriamente:
+Art. 9.º - 1 - Do boletim de concurso referido no n.º 2 do artigo anterior constarão obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -206,7 +258,7 @@ e) Códigos dos estabelecimentos de ensino, círculos e zonas, nos termos do art
 
 2 - São aplicáveis ao concurso as normas constantes do artigo 18.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
-###### Art. 10.º - 1 - A ordenação dos candidatos far-se-á de acordo com as prioridades definidas no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
+Art. 10.º - 1 - A ordenação dos candidatos far-se-á de acordo com as prioridades definidas no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
 2 - A ordenação referida no número anterior observará ainda as regras definidas nos artigos 14.º e 15.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), no que se refere aos portadores de habilitações próprias e aos docentes nas condições da alínea c) do artigo 2.º do presente diploma.
 
@@ -220,9 +272,9 @@ c) Outros candidatos portadores de habilitação própria para os ensinos prepar
 
 d) Candidatos portadores de habilitação própria para os ensinos preparatório ou secundário não incluídos nas alíneas anteriores.
 
-###### Art. 11.º Ao concurso são aplicáveis, com as adaptações que se mostrarem necessárias, as normas definidas na alínea a) do artigo 19.º e no artigo 20.º, ambos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
+Art. 11.º Ao concurso são aplicáveis, com as adaptações que se mostrarem necessárias, as normas definidas na alínea a) do artigo 19.º e no artigo 20.º, ambos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
-###### Art. 12.º Os candidatos indicarão num e só num boletim, de acordo com o previsto em uma ou mais das alíneas seguintes, e sempre por ordem decrescente das suas preferências:
+Art. 12.º Os candidatos indicarão num e só num boletim, de acordo com o previsto em uma ou mais das alíneas seguintes, e sempre por ordem decrescente das suas preferências:
 
 a) O código dos estabelecimentos de ensino, até ao máximo de 50;
 
@@ -230,33 +282,33 @@ b) O código dos círculos escolares, até ao máximo de 20;
 
 c) O código das zonas em que se integram os círculos.
 
-###### Art. 13.º As listas provisórias de ordenação dos candidatos seguirão os trâmites e efeitos previstos nos n.os 1 e 2 do artigo 33.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
+Art. 13.º As listas provisórias de ordenação dos candidatos seguirão os trâmites e efeitos previstos nos n.os 1 e 2 do artigo 33.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
-###### Art. 14.º O concurso a que se refere o artigo 7.º deste decreto-lei será realizado por forma que qualquer concorrente não seja ultrapassado nas suas preferências por outro candidato com inferior prioridade.
+Art. 14.º O concurso a que se refere o artigo 7.º deste decreto-lei será realizado por forma que qualquer concorrente não seja ultrapassado nas suas preferências por outro candidato com inferior prioridade.
 
-###### Art. 15.º - 1 - As desistências do concurso só serão permitidas dentro do prazo de reclamação referido, por remissão, no artigo 13.º
+Art. 15.º - 1 - As desistências do concurso só serão permitidas dentro do prazo de reclamação referido, por remissão, no artigo 13.º
 
 2 - As desistências fora do prazo referido no número anterior implicam a impossibilidade de o docente celebrar qualquer tipo de contrato para o ano a que o concurso respeitar e para o ano seguinte.
 
-###### Art. 16.º - 1 - A lista definitiva de colocações será publicada em Diário da República e dela caberá exclusivamente o recurso hierárquico, a interpor no prazo de trinta dias, contados a partir do dia imediato ao daquela publicação.
+Art. 16.º - 1 - A lista definitiva de colocações será publicada em Diário da República e dela caberá exclusivamente o recurso hierárquico, a interpor no prazo de trinta dias, contados a partir do dia imediato ao daquela publicação.
 
 2 - A lista referida no número anterior constituirá o único meio de comunicação aos interessados das respectivas colocações.
 
 3 - À não aceitação do lugar pelo candidato é aplicável o disposto no n.º 2 do artigo anterior.
 
-###### Art. 17.º Para todos os efeitos legais, considera-se que a não apresentação de reclamação por parte dos candidatos às listas provisórias referidas no artigo 13.º deste diploma equivale à aceitação tácita das mesmas listas, dela resultando a intempestividade do recurso hierárquico previsto no n.º 1 do artigo 16.º cujo fundamento seja o erro na elaboração das listas.
+Art. 17.º Para todos os efeitos legais, considera-se que a não apresentação de reclamação por parte dos candidatos às listas provisórias referidas no artigo 13.º deste diploma equivale à aceitação tácita das mesmas listas, dela resultando a intempestividade do recurso hierárquico previsto no n.º 1 do artigo 16.º cujo fundamento seja o erro na elaboração das listas.
 
 III - Dos contratos anuais
 
-###### Art. 18.º Os contratos anuais serão celebrados entre o Ministério da Educação e Ciência e os docentes colocados, nos termos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
+Art. 18.º Os contratos anuais serão celebrados entre o Ministério da Educação e Ciência e os docentes colocados, nos termos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
 IV - Dos contratos temporários
 
-###### Art. 19.º Os contratos temporários serão celebrados entre o Ministério da Educação e Ciência e os docentes dos ensinos preparatório e secundário que se encontrem a substituir transitoriamente outros docentes, por impedimento destes, nos termos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
+Art. 19.º Os contratos temporários serão celebrados entre o Ministério da Educação e Ciência e os docentes dos ensinos preparatório e secundário que se encontrem a substituir transitoriamente outros docentes, por impedimento destes, nos termos do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
 V - Dos direitos e deveres das partes
 
-###### Art. 20.º - 1 - Nos contratos plurianuais a celebrar nos termos do presente diploma constituem obrigações do Ministério da Educação e Ciência:
+Art. 20.º - 1 - Nos contratos plurianuais a celebrar nos termos do presente diploma constituem obrigações do Ministério da Educação e Ciência:
 
 a) Garantir, durante a vigência do contrato, serviço docente ou equiparado no estabelecimento com o qual o contrato foi celebrado ou em estabelecimento do mesmo ou dos círculos escolares aos quais o docente se candidatou e de acordo com as prioridades por ele manifestadas;
 
@@ -270,7 +322,7 @@ b) No caso previsto na alínea anterior, será deslocado o candidato menos gradu
 
 3 - A renovação do contrato, bem como a transferência do contratado, nos termos da alínea a) do número anterior será feita pela Direcção-Geral de Pessoal anteriormente ao concurso previsto neste diploma.
 
-###### Art. 21.º - 1 - Para efeitos de aplicação do artigo anterior:
+Art. 21.º - 1 - Para efeitos de aplicação do artigo anterior:
 
 a) A colocação é de aceitação obrigatória se a mesma respeitar ao círculo em que o professor se encontre colocado ou a que tenha concorrido;
 
@@ -278,19 +330,19 @@ b) A colocação depende de prévia concordância do professor, manifestada em d
 
 2 - Sempre que da aplicação do disposto no número anterior se verificar a total impossibilidade de se proceder a transferência, em virtude da inexistência de lugares, poderá o Ministro da Educação e Ciência atribuir ao professor, durante a vigência do contrato, outras funções, nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, desde que as mesmas se enquadrem no n.º 1 do artigo 1.º daquele diploma, sem prejuízo de manutenção dos direitos e obrigações decorrentes do contrato.
 
-###### Art. 22.º - 1 - Se durante a vigência do contrato plurianual o docente for submetido a junta médica e, por decisão desta, vier a beneficiar da redução de serviço prevista no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), o docente integrar-se-á imediatamente na situação de contratado anualmente.
+Art. 22.º - 1 - Se durante a vigência do contrato plurianual o docente for submetido a junta médica e, por decisão desta, vier a beneficiar da redução de serviço prevista no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), o docente integrar-se-á imediatamente na situação de contratado anualmente.
 
 - Os docentes referidos no número anterior passarão, de imediato, a gozar da respectiva redução de serviço.
 
 3 - Sempre que a situação referida no n.º 1 ocorra para além do termo do prazo do concurso referido no artigo 8.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), deverão os interessados apresentar o boletim para o respectivo concurso no prazo de oito dias após a definição daquela situação.
 
-###### Art. 23.º É obrigação do docente contratado assegurar, durante a vigência do contrato, o serviço docente ou equiparado que lhe for atribuído.
+Art. 23.º É obrigação do docente contratado assegurar, durante a vigência do contrato, o serviço docente ou equiparado que lhe for atribuído.
 
-###### Art. 24.º - 1 - É obrigação do professor que se profissionalizar em exercício apresentar-se anualmente a concurso de professores efectivos a, pelo menos, quinze estabelecimentos onde tenham sido declaradas vagas no aviso de abertura do respectivo concurso.
+Art. 24.º - 1 - É obrigação do professor que se profissionalizar em exercício apresentar-se anualmente a concurso de professores efectivos a, pelo menos, quinze estabelecimentos onde tenham sido declaradas vagas no aviso de abertura do respectivo concurso.
 
 2 - Os docentes que não derem cumprimento ao disposto no número anterior só poderão ser colocados ao abrigo do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), na qualidade de novos candidatos.
 
-###### Art. 25.º - 1 - O Ministério da Educação e Ciência poderá rescindir o contrato sempre que:
+Art. 25.º - 1 - O Ministério da Educação e Ciência poderá rescindir o contrato sempre que:
 
 a) Os professores incorrerem, durante a vigência do contrato, em alguma das situações previstas nas alíneas b) a e) do artigo 3.º deste diploma;
 
@@ -300,9 +352,9 @@ b) Os professores profissionalizandos venham a ser abrangidos pela situação pr
 
 3 - Os docentes a quem, nos termos do n.º 1, for rescindido o contrato só poderão candidatar-se a qualquer concurso na qualidade de novos candidatos.
 
-###### Art. 26.º Constitui motivo de rescisão do contrato por parte do docente contratado o não cumprimento, por parte do Ministério da Educação e Ciência, do disposto nas alíneas a) e b) do n.º 1 do artigo 20.º do presente diploma.
+Art. 26.º Constitui motivo de rescisão do contrato por parte do docente contratado o não cumprimento, por parte do Ministério da Educação e Ciência, do disposto nas alíneas a) e b) do n.º 1 do artigo 20.º do presente diploma.
 
-###### Art. 27.º - 1 - Constitui motivo para requerimento de suspensão do contrato por parte do docente, desde que o mesmo não tenha sido convocado para realizar a profissionalização em exercício:
+Art. 27.º - 1 - Constitui motivo para requerimento de suspensão do contrato por parte do docente, desde que o mesmo não tenha sido convocado para realizar a profissionalização em exercício:
 
 a) O exercício de funções docentes como cooperante, professor do ensino português no estrangeiro, bolseiro ou leitor em Universidades portuguesas ou estrangeiras;
 
@@ -320,7 +372,7 @@ b) Se a mesma se verificar no decurso do segundo ano do contrato, o professor te
 
 VI - Da profissionalização e da formação em exercício
 
-###### Art. 28.º A profissionalização em exercício, referida na alínea b) do n.º 1 do artigo 20.º deste diploma, será realizada por um período de dois anos escolares, mediante o cumprimento de um plano de trabalho individual visando o completamento ou aperfeiçoamento de cada uma das seguintes componentes:
+Art. 28.º A profissionalização em exercício, referida na alínea b) do n.º 1 do artigo 20.º deste diploma, será realizada por um período de dois anos escolares, mediante o cumprimento de um plano de trabalho individual visando o completamento ou aperfeiçoamento de cada uma das seguintes componentes:
 
 a) Informação científica;
 
@@ -328,11 +380,11 @@ b) Informação ou formação no âmbito das ciências da educação;
 
 c) Observação e prática pedagógicas orientadas.
 
-###### Art. 29.º - 1 - O completamento ou aperfeiçoamento das componentes referidas nas alíneas a) e b) do artigo anterior serão garantidos por apoio directo, por apoio documental e áudio-visual e, ainda, na medida das possibilidades, por colaboração de instituições do ensino superior.
+Art. 29.º - 1 - O completamento ou aperfeiçoamento das componentes referidas nas alíneas a) e b) do artigo anterior serão garantidos por apoio directo, por apoio documental e áudio-visual e, ainda, na medida das possibilidades, por colaboração de instituições do ensino superior.
 
 2 - A observação e prática pedagógicas serão orientadas pelos conselhos pedagógicos, apoiados por equipas de orientadores pedagógicos.
 
-###### Art. 30.º - 1 - A coordenação da profissionalização em exercício caberá:
+Art. 30.º - 1 - A coordenação da profissionalização em exercício caberá:
 
 a) A nível nacional: ao conselho orientador e às direcções-gerais de ensino até à concretização do disposto no artigo 31.º;
 
@@ -342,7 +394,7 @@ c) A nível local: aos conselhos pedagógicos dos estabelecimentos de ensino.
 
 2 - As competências dos órgãos referidos no número anterior serão definidas no respectivo diploma regulamentar.
 
-###### Art. 31.º - 1 - Será criado, no âmbito das estruturas centrais do Ministério da Educação e Ciência, um órgão de concepção e coordenação da formação de professores.
+Art. 31.º - 1 - Será criado, no âmbito das estruturas centrais do Ministério da Educação e Ciência, um órgão de concepção e coordenação da formação de professores.
 
 2 - A criação referida no número anterior será feita por decreto-lei, a publicar no prazo de sessenta dias a contar da entrada em vigor do presente diploma.
 
@@ -350,13 +402,13 @@ c) A nível local: aos conselhos pedagógicos dos estabelecimentos de ensino.
 
 4 - Até à revisão e reestruturação mencionadas no número anterior, os membros do actual conselho orientador reger-se-ão pelo disposto no artigo seguinte.
 
-###### Art. 32.º - 1 - Os membros do actual conselho orientador desempenharão as suas funções com dispensa total do exercício das funções de origem.
+Art. 32.º - 1 - Os membros do actual conselho orientador desempenharão as suas funções com dispensa total do exercício das funções de origem.
 
 2 - Os referidos membros têm direito à gratificação de 4000$00 mensais, paga durante os doze meses do ano, com exclusão do subsídio de férias e do 13.º mês.
 
 3 - Os membros do conselho orientador são nomeados por conveniência urgente de serviço público, sendo-lhes devida a respectiva gratificação desde a data do início do exercício das respectivas funções.
 
-###### Art. 33.º - 1 - As equipas de apoio pedagógico são constituídas pelos orientadores pedagógicos.
+Art. 33.º - 1 - As equipas de apoio pedagógico são constituídas pelos orientadores pedagógicos.
 
 2 - As referidas equipas são organizadas a nível das zonas constantes do mapa III anexo ao presente diploma.3 - A constituição das mencionadas equipas será função do número de professores em profissionalização da localização das escolas onde a mesma terá lugar e do número e qualificação dos professores da respectiva zona, com vista não só ao acompanhamento da profissionalização em exercício de professores, como também à dinamização de acções de formação contínua dos mesmos.
 
@@ -374,7 +426,7 @@ c) A preparação e apoio profissional para o exercício das suas funções.
 
 7 - Aos actuais e futuros orientadores pedagógicos é aplicável o disposto no n.º 3 do artigo anterior.
 
-###### Art. 34.º - 1 - As equipas de apoio pedagógico das zonas referidas no n.º 2 do artigo anterior funcionarão em centros de apoio, a definir pelo actual conselho orientador, em conjunto com as direcções-gerais de ensino.
+Art. 34.º - 1 - As equipas de apoio pedagógico das zonas referidas no n.º 2 do artigo anterior funcionarão em centros de apoio, a definir pelo actual conselho orientador, em conjunto com as direcções-gerais de ensino.
 
 2 - Os referidos centros de apoio terão as seguintes finalidades:
 
@@ -384,7 +436,7 @@ b) Apoiar acções de coordenação, a nível regional ou local, da profissional
 
 3 - As Direcções-Gerais dos Ensinos Básico, Secundário, Particular e Cooperativo, do Pessoal e do Equipamento Escolar e o Instituto de Tecnologia Educativa dotarão os centros com meios humanos, financeiros e materiais necessários ao seu funcionamento.
 
-###### Art. 35.º - 1 - As competências dos conselhos pedagógicos dos estabelecimentos de ensino preparatório e secundário em matéria de profissionalização em exercício de docentes constam do respectivo regulamento de funcionamento.
+Art. 35.º - 1 - As competências dos conselhos pedagógicos dos estabelecimentos de ensino preparatório e secundário em matéria de profissionalização em exercício de docentes constam do respectivo regulamento de funcionamento.
 
 2 - No âmbito dos conselhos pedagógicos, os delegados de grupo, subgrupo ou disciplina que acompanham a actividade dos professores em profissionalização têm direito:
 
@@ -394,17 +446,17 @@ b) À gratificação prevista no n.º 2 do artigo 32.º;
 
 c) A preparação e apoio profissional para o exercício das suas funções.
 
-###### Art. 36.º - 1 - O acesso à profissionalização em exercício durante a vigência dos contratos plurianuais, com excepção dos referidos na alínea c) do artigo 2.º do presente diploma, respeitará uma lista ordenada a nível nacional por cada grupo, subgrupo, ou disciplina.
+Art. 36.º - 1 - O acesso à profissionalização em exercício durante a vigência dos contratos plurianuais, com excepção dos referidos na alínea c) do artigo 2.º do presente diploma, respeitará uma lista ordenada a nível nacional por cada grupo, subgrupo, ou disciplina.
 
 2 - Consoante as necessidades do ensino e as possibilidades técnicas de que o Ministério da Educação e Ciência disponha, os professores serão convocados para a profissionalização em exercício de acordo com a referida lista nacional, preferindo sempre os que possuírem mais elevada graduação na docência de entre os que se encontrem contratados plurianualmente.
 
 3 - A graduação na docência far-se-á segundo as regras estabelecidas no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro.
 
-###### Art. 37.º - 1 - A profissionalização far-se-á no estabelecimento de ensino para o qual foi celebrado contrato ou em estabelecimento do mesmo círculo.
+Art. 37.º - 1 - A profissionalização far-se-á no estabelecimento de ensino para o qual foi celebrado contrato ou em estabelecimento do mesmo círculo.
 
 2 - O docente integrado no esquema da profissionalização em exercício terá um horário de quinze ou dezasseis horas e um número de turmas a fixar em regulamento próprio.
 
-###### Art. 38.º - 1 - A profissionalização em exercício não se poderá processar no período em que os docentes se encontrem a desempenhar funções nos conselhos directivos ou pedagógicos dos estabelecimentos de ensino preparatório ou secundário.
+Art. 38.º - 1 - A profissionalização em exercício não se poderá processar no período em que os docentes se encontrem a desempenhar funções nos conselhos directivos ou pedagógicos dos estabelecimentos de ensino preparatório ou secundário.
 
 2 - Sempre que os docentes referidos no número anterior adquiram direito à profissionalização em exercício, de acordo com a lista nacional, observar-se-á o seguinte:
 
@@ -414,7 +466,7 @@ b) No caso referido na alínea anterior e completada a profissionalização, con
 
 3 - O disposto nos números anteriores é aplicável aos docentes abrangidos pelo [Decreto-Lei n.º 901/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/901-1976-416439), de 31 de Dezembro.
 
-###### Art. 39.º - 1 - Poderão ser integrados na lista ordenada nacional docentes que se encontrem numa das seguintes situações:
+Art. 39.º - 1 - Poderão ser integrados na lista ordenada nacional docentes que se encontrem numa das seguintes situações:
 
 a) Professores efectivos de Trabalhos Manuais do ensino preparatório e professores efectivos do 12.º grupo do ensino secundário, desde que portadores de curso superior considerado habilitação própria para grupo, subgrupo ou disciplina dos respectivos ensinos diferentes daquele em que já são efectivos;
 
@@ -424,7 +476,7 @@ c) Professores extraordinários do quadro do ensino secundário ainda não profi
 
 2 - Os professores referidos nas alíneas do número anterior serão integrados tomando-se por base a classificação da habilitação académica do respectivo curso superior, acrescida de um valor por cada ano de serviço prestado, até ao limite de vinte anos.
 
-###### Art. 40.º - 1 - A não aceitação de colocação para efeito de profissionalização por parte dos docentes provisórios ou eventuais implica:
+Art. 40.º - 1 - A não aceitação de colocação para efeito de profissionalização por parte dos docentes provisórios ou eventuais implica:
 
 a) A não prorrogação do contrato;
 
@@ -438,7 +490,7 @@ b) A impossibilidade de realizar a profissionalização em exercício durante os
 
 5 - Aos docentes referidos no n.º 3 é aplicável o disposto no n.º 3 do artigo 22.º do presente diploma.
 
-###### Art. 41.º - 1 - Os professores profissionalizandos que, por motivos fundamentados, nomeadamente doença devidamente comprovada, não adquiram a profissionalização no final do período contratual respectivo terão direito à prorrogação do contrato por mais um ano escolar, nos termos do artigo 5.º, para efeitos exclusivos de profissionalização.
+Art. 41.º - 1 - Os professores profissionalizandos que, por motivos fundamentados, nomeadamente doença devidamente comprovada, não adquiram a profissionalização no final do período contratual respectivo terão direito à prorrogação do contrato por mais um ano escolar, nos termos do artigo 5.º, para efeitos exclusivos de profissionalização.
 
 2 - Se, finda a prorrogação do contrato, o profissionalizando continuar a não adquirir a profissionalização, ser-lhe-á o mesmo rescindido pelo Ministério da Educação e Ciência.
 
@@ -450,13 +502,13 @@ b) A impossibilidade de realizar a profissionalização em exercício durante os
 
 VII - Disposições finais e transitórias
 
-###### Art. 42.º - 1 - O disposto nas alíneas d) e f) do n.º 1 do artigo 3.º do presente diploma só será considerado, respectivamente, após revisão do regime de faltas e licenças e consequente definição dos critérios da sua aplicação e revisão das normas a que deve obedecer a classificação do serviço do pessoal docente.
+Art. 42.º - 1 - O disposto nas alíneas d) e f) do n.º 1 do artigo 3.º do presente diploma só será considerado, respectivamente, após revisão do regime de faltas e licenças e consequente definição dos critérios da sua aplicação e revisão das normas a que deve obedecer a classificação do serviço do pessoal docente.
 
 2 - Até à publicação das normas a que deverá obedecer a classificação do serviço do pessoal docente, considera-se Bom ou Suficiente, conforme os casos, o tempo de serviço prestado pelos docentes, salvo disposição legal ou informação que determine o contrário.
 
-###### Art. 43.º A transferência referida na alínea a) do n.º 2 do artigo 20.º do presente diploma efectuar-se-á por apostilha ao contrato, não ficando sujeita a quaisquer formalidades legais, excepto a notação pelo Tribunal de Contas.
+Art. 43.º A transferência referida na alínea a) do n.º 2 do artigo 20.º do presente diploma efectuar-se-á por apostilha ao contrato, não ficando sujeita a quaisquer formalidades legais, excepto a notação pelo Tribunal de Contas.
 
-###### Art. 44.º - 1 - Os docentes já profissionalizados que à data da entrada em vigor do presente diploma se encontrem contratados plurianualmente poderão, enquanto se não efectivarem, optar pela manutenção do contrato plurianual ou por concorrerem, ainda que na vigência daquele contrato, ao concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
+Art. 44.º - 1 - Os docentes já profissionalizados que à data da entrada em vigor do presente diploma se encontrem contratados plurianualmente poderão, enquanto se não efectivarem, optar pela manutenção do contrato plurianual ou por concorrerem, ainda que na vigência daquele contrato, ao concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596).
 
 2 - Os docentes que optarem por ser opositores ao concurso previsto pelo [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596) são considerados como tendo sido colocados na 1.ª fase do concurso respeitante ao ano escolar imediatamente anterior.
 
@@ -464,23 +516,23 @@ VII - Disposições finais e transitórias
 
 4 - Enquanto se mantiverem contratados plurianualmente, é aplicável aos docentes referidos no n.º 1 disposto no artigo 24.º e alínea b) do n.º 1 do artigo 25.º, ambos do presente diploma.
 
-###### Art. 45.º - 1 - Aos docentes que denunciarem o contrato plurianual nos termos do artigo 5.º, tendo tal denúncia sido apresentada ao director-geral de Pessoal antes da abertura do concurso previsto neste diploma e relativo ao ano escolar seguinte àquele em que termina o período de contrato, é aplicável o disposto no n.º 2 do artigo anterior, sendo recuperado, para efeitos de concurso, o respectivo lugar de contrato plurianual.
+Art. 45.º - 1 - Aos docentes que denunciarem o contrato plurianual nos termos do artigo 5.º, tendo tal denúncia sido apresentada ao director-geral de Pessoal antes da abertura do concurso previsto neste diploma e relativo ao ano escolar seguinte àquele em que termina o período de contrato, é aplicável o disposto no n.º 2 do artigo anterior, sendo recuperado, para efeitos de concurso, o respectivo lugar de contrato plurianual.
 
 2 - Os docentes que denunciarem o contrato plurianual nos termos do artigo 5.º e tenham cumprido as formalidades de denúncia estabelecidas no artigo 9.º do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), com a redacção que lhe foi dada pela [Lei n.º 67/79](https://diariodarepublica.pt/dr/detalhe/lei/67-1979-365132), não poderão ser opositores ao concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596) referente ao ano escolar seguinte àquele em que termina o respectivo período de contrato, excepto no que se refere à 3.ª fase daquele concurso.
 
 3 - Aos docentes que não cumprirem as formalidades previstas no número anterior é aplicável o disposto no n.º 2 do artigo 15.º deste diploma.
 
-###### Art. 46.º Os docentes contratados plurianualmente que não se encontrem a realizar a profissionalização em exercício só poderão denunciar o contrato plurianual no fim do primeiro ano da sua vigência ou da respectiva prorrogação ou prorrogações por motivos devidamente justificados e como tal reconhecidos por despacho ministerial, manifestando tal intenção em requerimento dirigido ao Ministro da Educação e Ciência antes da abertura do concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596) para o ano escolar seguinte, e sendo considerados, para efeitos deste concurso, como tendo sido colocados na 1.ª fase do concurso respeitante ao ano escolar imediatamente anterior.
+Art. 46.º Os docentes contratados plurianualmente que não se encontrem a realizar a profissionalização em exercício só poderão denunciar o contrato plurianual no fim do primeiro ano da sua vigência ou da respectiva prorrogação ou prorrogações por motivos devidamente justificados e como tal reconhecidos por despacho ministerial, manifestando tal intenção em requerimento dirigido ao Ministro da Educação e Ciência antes da abertura do concurso previsto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596) para o ano escolar seguinte, e sendo considerados, para efeitos deste concurso, como tendo sido colocados na 1.ª fase do concurso respeitante ao ano escolar imediatamente anterior.
 
-###### Art. 47.º A profissionalização em exercício dos docentes dos grupos A e B do ensino secundário agrícola só poderá efectuar-se em estabelecimentos de ensino secundário dotados de exploração agrícola.
+Art. 47.º A profissionalização em exercício dos docentes dos grupos A e B do ensino secundário agrícola só poderá efectuar-se em estabelecimentos de ensino secundário dotados de exploração agrícola.
 
-###### Art. 48.º - 1 - Os docentes profissionalizados de um mesmo ou de diferente grau de ensino só poderão ser admitidos à contratação plurianual e consequente profissionalização em exercício do mesmo ou de outro grau de ensino para que possuam igualmente habilitação própria desde que não haja quaisquer outros candidatos ainda não colocados, salvo se estes não tiverem concorrido aos estabelecimentos, círculos ou zonas onde existam, por preencher, lugares para contratação plurianual.
+Art. 48.º - 1 - Os docentes profissionalizados de um mesmo ou de diferente grau de ensino só poderão ser admitidos à contratação plurianual e consequente profissionalização em exercício do mesmo ou de outro grau de ensino para que possuam igualmente habilitação própria desde que não haja quaisquer outros candidatos ainda não colocados, salvo se estes não tiverem concorrido aos estabelecimentos, círculos ou zonas onde existam, por preencher, lugares para contratação plurianual.
 
 2 - A admissão prevista no número anterior depende de requerimento a apresentar pelo interessado ao director-geral de Pessoal, no prazo fixado no aviso de abertura do concurso para a contratação plurianual, podendo indicar, por ordem de prioridade, um máximo de vinte estabelecimentos de ensino.
 
 3 - O disposto nos números anteriores não é aplicável aos docentes do ensino primário que, sendo portadores de habilitação própria para os ensinos preparatório ou secundário, concorrerão em igualdade de circunstâncias com os restantes candidatos portadores de idênticas habilitações para o respectivo grau de ensino.
 
-###### Art. 49.º - 1 - Os professores de quadros não pertencentes aos ensinos preparatório e secundário, colocados em regime de contratação plurianual nos ensinos preparatório e secundário ao abrigo do presente diploma, mantêm-se na situação de requisitados, nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, até que:
+Art. 49.º - 1 - Os professores de quadros não pertencentes aos ensinos preparatório e secundário, colocados em regime de contratação plurianual nos ensinos preparatório e secundário ao abrigo do presente diploma, mantêm-se na situação de requisitados, nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, até que:
 
 a) Efectuem a sua profissionalização em exercício e nela obtenham ou não aproveitamento;
 
@@ -492,7 +544,7 @@ b) Sejam convocados para a profissionalização em exercício e não aceitem a r
 
 4 - A não apresentação do pedido da exoneração nos termos do número anterior determina, para o respectivo professor, o regresso imediato ao seu lugar de origem.
 
-###### Art. 50.º - 1 - Quando um candidato ao concurso para a contratação plurianual prevista neste diploma concorrer por círculos escolares, os estabelecimentos de ensino respectivos são percorridos por ordem crescente dos números dos códigos desses estabelecimentos, procedendo-se do seguinte modo:
+Art. 50.º - 1 - Quando um candidato ao concurso para a contratação plurianual prevista neste diploma concorrer por círculos escolares, os estabelecimentos de ensino respectivos são percorridos por ordem crescente dos números dos códigos desses estabelecimentos, procedendo-se do seguinte modo:
 
 a) Logo que o candidato obtenha colocação deixa de ser considerado como tal em relação a qualquer outra vaga do mesmo círculo;
 
@@ -504,7 +556,7 @@ a) Logo que o candidato obtenha colocação deixa de ser considerado como tal em
 
 b) Mantém, todavia, a possibilidade de obter colocação noutro estabelecimento de entre aqueles a que concorreu, nos termos do artigo 12.º deste decreto-lei ou ainda de outro círculo escolar ou de outra zona escolar a que, em qualquer dos casos, tenha conferido preferência.
 
-###### Art. 51.º - 1 - Os docentes referidos no artigo 39.º do presente diploma realizarão a sua profissionalização em exercício na escola a cujo quadro pertencem.
+Art. 51.º - 1 - Os docentes referidos no artigo 39.º do presente diploma realizarão a sua profissionalização em exercício na escola a cujo quadro pertencem.
 
 2 - Os docentes referidos no número anterior mantêm, enquanto tal, os direitos à sua categoria e o tempo em que decorrer a sua profissionalização é contado, para efeito de atribuição de fases, como se tivesse sido prestado no grupo, subgrupo, disciplina ou especialidade em que realizam a sua profissionalização em exercício.
 
@@ -514,56 +566,56 @@ a) Obrigatoriamente, para outro estabelecimento de ensino da mesma localidade;
 
 b) Com o acordo do docente, para outro estabelecimento de ensino do mesmo círculo.
 
-###### Art. 52.º Sempre que os docentes profissionalizados não efectivos contratados plurianualmente à data da publicação do presente diploma se efectivarem, considera-se extinto o contrato a partir da data da sua tomada de posse na categoria de efectivo.
+Art. 52.º Sempre que os docentes profissionalizados não efectivos contratados plurianualmente à data da publicação do presente diploma se efectivarem, considera-se extinto o contrato a partir da data da sua tomada de posse na categoria de efectivo.
 
-###### Art. 53.º No prazo de cento e vinte dias após a publicação do presente diploma, o Ministério da Educação e Ciência definirá em decreto-lei as regras a que obedecerão os contratos com os professores referidos na alínea c) do n.º 1 do artigo 2.º deste diploma, nomeadamente a determinação do número de lugares, o local da prestação de serviço, a duração e condições de contrato.
+Art. 53.º No prazo de cento e vinte dias após a publicação do presente diploma, o Ministério da Educação e Ciência definirá em decreto-lei as regras a que obedecerão os contratos com os professores referidos na alínea c) do n.º 1 do artigo 2.º deste diploma, nomeadamente a determinação do número de lugares, o local da prestação de serviço, a duração e condições de contrato.
 
-###### Art. 54.º A contratação plurianual dos docentes do ensino médio será definida, pelo Governo, em diploma autónomo.
+Art. 54.º A contratação plurianual dos docentes do ensino médio será definida, pelo Governo, em diploma autónomo.
 
-###### Art. 55.º Para efeitos do concurso a que se refere o artigo 7.º do presente diploma serão utilizadas técnicas informáticas.
+Art. 55.º Para efeitos do concurso a que se refere o artigo 7.º do presente diploma serão utilizadas técnicas informáticas.
 
-###### Art. 56.º Em tudo o que não estiver previsto no presente diploma, aplicam-se, com as adaptações necessárias, as regras constantes do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), com a redacção que lhe foi dada pela [Lei n.º 67/79](https://diariodarepublica.pt/dr/detalhe/lei/67-1979-365132), e, na sua impossibilidade, as regras gerais da função pública sobre contratos de provimento.
+Art. 56.º Em tudo o que não estiver previsto no presente diploma, aplicam-se, com as adaptações necessárias, as regras constantes do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), com a redacção que lhe foi dada pela [Lei n.º 67/79](https://diariodarepublica.pt/dr/detalhe/lei/67-1979-365132), e, na sua impossibilidade, as regras gerais da função pública sobre contratos de provimento.
 
-###### Art. 57.º A entrada em exercício de funções do pessoal docente contratado plurianualmente ao abrigo do presente diploma far-se-á por conveniência urgente de serviço, sendo-lhe devidos vencimentos, nos termos do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, desde a data do início de funções.
+Art. 57.º A entrada em exercício de funções do pessoal docente contratado plurianualmente ao abrigo do presente diploma far-se-á por conveniência urgente de serviço, sendo-lhe devidos vencimentos, nos termos do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, desde a data do início de funções.
 
-###### Art. 58.º Os lugares de professor-adjunto ainda preenchidos extinguir-se-ão quando vagarem.
+Art. 58.º Os lugares de professor-adjunto ainda preenchidos extinguir-se-ão quando vagarem.
 
-###### Art. 59.º O disposto no presente diploma aplica-se, com as necessárias adaptações, à profissionalização em exercício no ensino particular e cooperativo.
+Art. 59.º O disposto no presente diploma aplica-se, com as necessárias adaptações, à profissionalização em exercício no ensino particular e cooperativo.
 
-###### Art. 60.º Os actuais orientadores pedagógicos, que foram recrutados nos termos do artigo 32.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), com a redacção dada pelo [Decreto-Lei n.º 217/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1980-471884), completarão o período de quatro anos previsto no n.º 4 do artigo 35.º do diploma primeiramente citado, integrando-se, posteriormente, no estabelecido pelo n.º 5 do artigo 33.º do presente diploma.
+Art. 60.º Os actuais orientadores pedagógicos, que foram recrutados nos termos do artigo 32.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), com a redacção dada pelo [Decreto-Lei n.º 217/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1980-471884), completarão o período de quatro anos previsto no n.º 4 do artigo 35.º do diploma primeiramente citado, integrando-se, posteriormente, no estabelecido pelo n.º 5 do artigo 33.º do presente diploma.
 
-###### Art. 61.º A aplicação do presente diploma nas Regiões Autónomas da Madeira e dos Açores é da competência dos respectivos Governos Regionais, nomeadamente no que concerne à definição dos círculos escolares a que se refere o n.º 3 do artigo 4.º deste decreto-lei.
+Art. 61.º A aplicação do presente diploma nas Regiões Autónomas da Madeira e dos Açores é da competência dos respectivos Governos Regionais, nomeadamente no que concerne à definição dos círculos escolares a que se refere o n.º 3 do artigo 4.º deste decreto-lei.
 
-###### Art. 62.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência.
+Art. 62.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência.
 
-###### Art. 63.º São revogados:
+Art. 63.º São revogados:
 
 a) O [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro;
 
 b) O [Decreto-Lei n.º 217/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1980-471884), de 9 de Julho.
 
-###### Art. 64.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 64.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 30 de Dezembro de 1980.**
+Promulgado em 30 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o n.º 3 do artigo 4.º do Decreto-Lei n.º 580/80, de 31 de Dezembro
 
 Ensino preparatório
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf)
 
 Mapa II a que se refere o n.º 3 do artigo 4.º do Decreto-Lei n.º 580/80, de 31 de Dezembro
 
 Ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf)
 
 Mapa III a que se refere o n.º 4 do artigo 4.º do Decreto-Lei n.º 580/80, de 31 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30102/00270037.pdf)

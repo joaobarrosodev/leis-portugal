@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10
   number: '209'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2258-(1) a 2258-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20901/00010014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 006422bdd8fb54c8d4ed2e69b3ae2d725f6509004f6912a132a77a97f3c0e4d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4eb7783c42d447801982233bca9fb4da85f2d5852057e57ddd5df4de7f1b8f90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos Judiciários
+- Concurso
+- Conselho Administrativo
+- Conselho de Gestão
+- Conselho Pedagógico
+- Criação de Serviços
+- Curso de Formação
+- Definição de Competências
+- Diretor
+- Estágio de Formação
+- Formação Profissional
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:165851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517226:por
+  label: "Alterados os arts. 24º, 27º, 30º, 31º, 36º, 37º, 38º, 43º, 44º, 49º, 51º, 54º, 56º, 65º, 66º, 78º e 79º pelo DEC\
+    \ LEI.264-A/81.03.09.1981.PCM, DR.IS [202-Supl] de 03.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-a-1981-517226
+  date: '1981-09-03'
+- type: amended_by
+  target: pt:dre:375852:por
+  label: Substituído o quadro de pessoal da secretaria do Centros de Estudos Judiciários pelo(a) Portaria n.º 883/82 - Diário
+    da República n.º 218/1982, Série I de 1982-09-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-1982-375852
+  date: '1982-09-20'
+- type: amended_by
+  target: pt:dre:475558:por
+  label: Alterados os arts. 1.º, 5.º, 8.º, 9.º, 13.º, 23.º, 24.º, 28.º, 29.º, 35.º, 36.º, 37.º, 45.º, 46.º, 49.º, 50.º, 51.º,
+    52.º, 53.º, 55.º e 67.º, do presente diploma, alterado pelo Dec Lei 264-A/81, de 03-set, pelo(a) Decreto-Lei n.º 146-A/84
+    - Diário da República n.º 107/1984, 1º Suplemento, Série I de 1984-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-a-1984-475558
+  date: '1984-05-09'
+- type: amended_by
+  target: pt:dre:358757:por
+  label: "Alterado o artigo 66.º do presente diploma, na redacção dada pelo Decreto-Lei 264-A/81, de 03 de Setembro, pelo\
+    \ DEC LEI.404/88.09.11.1988.MJ, DR.IS [259] de 09.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-1988-358757
+  date: '1988-11-09'
+- type: amended_by
+  target: pt:dre:613937:por
+  label: Alterado o quadro de pessoal e revogado o art 24.º do presente diploma, alterado pelo Dec Lei 246-A/81, de 03-set,
+    pelo(a) Decreto-Lei n.º 83/89 - Diário da República n.º 69/1989, Série I de 1989-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1989-613937
+  date: '1989-03-23'
+- type: amended_by
+  target: pt:dre:674023:por
+  label: Alterados arts 13.º, 15.º, 16.º, 18.º, 26.º, 28.º, 29.º, 30.º, 31.º, 32.º, 34.º, 35.º, 36.º, 37.º, 39.º, 40.º, 45.º,
+    46.º, 47.º, 48.º, 49.º, 50.º, 51.º, 52.º, 55.º e 60.º pelo(a) Decreto-Lei n.º 395/93 - Diário da República n.º 275/1993,
+    Série I-A de 1993-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/395-1993-674023
+  date: '1993-11-24'
+- type: cites
+  target: pt:dre:276594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350351:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:364760:por
+  label: Rectificado pela DECL.DD7148.17.10.1979.PCM, DR.IS [240] de 17.10.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-364760
+  date: '1979-10-17'
+- type: repealed_by
+  target: pt:dre:152372:por
+  label: Revogada a al c) do n.º 2 do art 28.º pelo(a) Decreto-Lei n.º 144/85 - Diário da República n.º 105/1985, Série I
+    de 1985-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1985-152372
+  date: '1985-05-08'
+- type: repealed_by
+  target: pt:dre:165851:por
+  label: "Revogado pela LEI.16/98.1998.04.08.AR, DR.IS-A [83] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1998-165851
+  date: '1998-04-08'
 article_structure:
   article_count: 81
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:32Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +301,7 @@ Prevê-se finalmente a organização pelo Centro de Estudos Judiciários de curs
 
 Usando da autorização concedida pela [Lei n.º 31/79](https://diariodarepublica.pt/dr/detalhe/lei/31-1979-276594), de 7 de Setembro, e no uso da competência que lhe é própria, o Governo decreta, nos termos das alíneas b) e a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-## TÍTULO I
+TÍTULO I
 
 Organização
 
@@ -510,7 +599,7 @@ e) Realizar as demais tarefas que lhe sejam atribuídas pelo regulamento interno
 
 3 - Aos provimentos e regime de prestação de serviço aplica-se subsidiariamente o disposto na Lei Orgânica do Ministério da Justiça.
 
-## TÍTULO II
+TÍTULO II
 
 Funcionamento
 
@@ -952,7 +1041,7 @@ b) Ao conselho de disciplina, quanto às restantes penas.
 
 2 - Quando o infractor for funcionário ou agente do Estado, administrativo ou de instituto público, comunicar-se-á ao respectivo superior hierárquico a aplicação das penas previstas nas alíneas d) e e) do artigo 69.º
 
-## TÍTULO III
+TÍTULO III
 
 Disposições finais e transitórias
 
@@ -1024,12 +1113,12 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Pedro de Lemos e Sousa Macedo.
 
-**Promulgado em 10 de Setembro de 1979.**
+Promulgado em 10 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o n.º 2 do artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20901/00010014.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20901/00010014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20901/00010014.pdf)

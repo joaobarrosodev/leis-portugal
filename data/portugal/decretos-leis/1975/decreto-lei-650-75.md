@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/650-1975-310259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed5b86e649dbf7ac63d3cca332d8a2a4d3e4ee10fa6f4bd944553dd5c62d4956
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39782f979b89bd341e38b50e15c5a30bca320b9645f35f4a4e7632ef35165bbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Habitação
+- Licenciamento de Obras
+- Normas de Segurança
+- Prédio Urbano
+- Regulamento Geral das Edificações Urbanas
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:123279819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:501274:por
+  label: "Prorrogado até 31.07.1976 o prazo previsto no art. 4º do presente diploma pelo DEC LEI.210/76.22.03.1976.MHUC, DG.IS\
+    \ [69] de 22.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1976-501274
+  date: '1976-03-22'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: amended_by
+  target: pt:dre:123279819:por
+  label: Repristinado, a partir do dia 15.11.2019, o presente Diploma, pelo(a) Decreto-Lei n.º 95/2019 - Diário da República
+    n.º 136/2019, Série I de 2019-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:40Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +128,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 46.º, 50.º, 65.º, 66.º, 67.º, 68.º, 69.º, 70.º, 71.º, 77.º, 84.º, 87.º e 110.º do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei 38382, de 7 de Agosto de 1951, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 46.º, 50.º, 65.º, 66.º, 67.º, 68.º, 69.º, 70.º, 71.º, 77.º, 84.º, 87.º e 110.º do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei 38382, de 7 de Agosto de 1951, passam a ter a seguinte redacção:
 
-###### Art. 46.º - 1. A largura dos lanços das escadas nas moradias unifamiliares será, no mínimo, de 0,80 m.
+Art. 46.º - 1. A largura dos lanços das escadas nas moradias unifamiliares será, no mínimo, de 0,80 m.
 
 2. Nas edificações para habitação colectiva até dois pisos ou quatro habitações, servidas pela mesma escada, os lanços desta terão a largura mínima de 0,90 m.
 
@@ -121,7 +150,7 @@ As dimensões adoptadas manter-se-ão constantes nos lanços entre pisos consecu
 
 ...
 
-###### Art. 50.º - 1. Nas edificações para habitação colectiva, quando a altura do último piso destinado a habitação exceder 11,5 m, é obrigatória a instalação de ascensores.
+Art. 50.º - 1. Nas edificações para habitação colectiva, quando a altura do último piso destinado a habitação exceder 11,5 m, é obrigatória a instalação de ascensores.
 
 A altura referida é medida a partir da cota mais baixa do arranque dos degraus ou rampas de acesso do interior do edifício.
 
@@ -131,7 +160,7 @@ A altura referida é medida a partir da cota mais baixa do arranque dos degraus 
 
 ...
 
-###### Art. 65.º - 1. A altura mínima, piso a piso, em edificações destinadas à habitação é de 2,70 m (27M), não podendo ser o pé-direito livre mínimo inferior a 2,40 m (24M).
+Art. 65.º - 1. A altura mínima, piso a piso, em edificações destinadas à habitação é de 2,70 m (27M), não podendo ser o pé-direito livre mínimo inferior a 2,40 m (24M).
 
 2. Excepcionalmente, em vestíbulos, corredores, instalações sanitárias, despensas e arrecadações será admissível que o pé-direito se reduza ao mínimo de 2,20 m (22M).
 
@@ -139,9 +168,9 @@ A altura referida é medida a partir da cota mais baixa do arranque dos degraus 
 
 4. Nos tectos com vigas, inclinados, abobadados ou, em geral, contendo superfícies salientes, a altura piso a piso e ou o pé-direito mínimos definidos nos n.os 1 e 3 devem ser mantidos, pelo menos, em 80% da superfície do tecto, admitindo-se na superfície restante que o pé-direito livre possa descer até ao mínimo de 2,20 m ou de 2,70 m, respectivamente, nos casos de habitação e de comércio.
 
-###### Art. 66.º - 1. Os compartimentos de habitação não poderão ser em número e área inferiores aos indicados no quadro seguinte:
+Art. 66.º - 1. Os compartimentos de habitação não poderão ser em número e área inferiores aos indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/26700/18321835.pdf))](https://files.diariodarepublica.pt/1s/1975/11/26700/18321835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26700/18321835.pdf)
 
 2. No número de compartimentos acima referidos não se incluem vestíbulos, instalações sanitárias, arrumos e outros compartimentos de função similar.
 
@@ -151,9 +180,9 @@ A altura referida é medida a partir da cota mais baixa do arranque dos degraus 
 
 5. O tipo de fogo é definido pelo número de quartos de dormir, e para a sua identificação utiliza-se o símbolo T(índice x), em que x representa o número de quartos de dormir.
 
-###### Art. 67.º - 1. As áreas brutas dos fogos terão os seguintes valores mínimos:
+Art. 67.º - 1. As áreas brutas dos fogos terão os seguintes valores mínimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/26700/18321835.pdf))](https://files.diariodarepublica.pt/1s/1975/11/26700/18321835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26700/18321835.pdf)
 
 2. Para os fins do disposto neste Regulamento, considera-se:
 
@@ -163,7 +192,7 @@ b) Área útil (Au) é a soma das áreas de todos os compartimentos da habitaç�
 
 c) Área habitável (Ah) é a soma das áreas dos compartimentos da habitação, com excepção de vestíbulos, circulações interiores, instalações sanitárias, arrumos e outros compartimentos de função similar, e mede-se pelo perímetro interior das paredes que limitam o fogo, descontando encalços até 30 cm, paredes interiores, divisórias e condutas.
 
-###### Art. 68.º - 1. Nas habitações T(índice 0), T(índice 1) e T(índice 2), a área mínima para instalações sanitárias é de 3,5 m2, sendo o equipamento mínimo definido de acordo com o artigo 84.º
+Art. 68.º - 1. Nas habitações T(índice 0), T(índice 1) e T(índice 2), a área mínima para instalações sanitárias é de 3,5 m2, sendo o equipamento mínimo definido de acordo com o artigo 84.º
 
 2. Nas habitações T(índice 3) e T(índice 4), a área mínima para instalações sanitárias é de 4,5 m2, subdividida em dois espaços com acesso independente.
 
@@ -173,7 +202,7 @@ c) Área habitável (Ah) é a soma das áreas dos compartimentos da habitação,
 
 5. Nas instalações sanitárias desdobradas haverá como equipamento mínimo uma banheira, uma bacia de retrete, um bidé e um lavatório, num dos espaços; e uma bacia de duche, uma bacia de retrete e um lavatório, no outro.
 
-###### Art. 69.º - 1. As dimensões dos compartimentos das habitações referidas no n.º 1 do artigo 66.º obedecerão às exigências seguintes:
+Art. 69.º - 1. As dimensões dos compartimentos das habitações referidas no n.º 1 do artigo 66.º obedecerão às exigências seguintes:
 
 a) Quando a respectiva área for menor que 9,5 m2, a dimensão mínima será 2,10 m;
 
@@ -187,11 +216,11 @@ d) Quando a respectiva área for maior ou igual a 15 m2, o comprimento não pode
 
 3. Exceptua-se do preceituado no número anterior o compartimento destinado a cozinha, em que a dimensão mínima admitida será de 1,70 m, sem prejuízo de que a distância mínima livre entre bancadas situadas em paredes opostas seja de 1,10 m.
 
-###### Art. 70.º - 1. A largura dos corredores das habitações não deve ser inferior a 1,10 m.
+Art. 70.º - 1. A largura dos corredores das habitações não deve ser inferior a 1,10 m.
 
 2. No caso de corredores secundários com comprimento igual ou menor que 1,50 m, poderá autorizar-se a largura mínima de 0,90 m.
 
-###### Art. 71.º - 1. Os compartimentos das habitações referidos no n.º 1 do artigo 66.º serão sempre iluminados e ventilados por um ou mais vãos praticados nas peredes, em comunicação directa com o exterior e cuja área total não será inferior a um décimo da área do compartimento com o mínimo de 1,08 m2 medidos no tosco.
+Art. 71.º - 1. Os compartimentos das habitações referidos no n.º 1 do artigo 66.º serão sempre iluminados e ventilados por um ou mais vãos praticados nas peredes, em comunicação directa com o exterior e cuja área total não será inferior a um décimo da área do compartimento com o mínimo de 1,08 m2 medidos no tosco.
 
 2. Nos casos em que as condições climáticas e de ruído tal justifiquem, será permitido o uso de varandas envidraçadas, consideradas para efeito deste artigo como espaço exterior, de acordo com os condicionamentos seguintes:
 
@@ -207,7 +236,7 @@ d) A área de ventilação do envidraçado da varanda será, no mínimo, igual a
 
 ...
 
-###### Art. 77.º - 1. Só é permitida a construção de caves destinadas a habitação em casos excepcionais, em que a orientação e o desafogo do local permitam assegurar-lhes boas condições de habitabilidade, reconhecidas pelas câmaras municipais, devendo, neste caso, todos os compartimentos satisfazer às condições especificadas neste Regulamento para os andares de habitação e ainda ao seguinte:
+Art. 77.º - 1. Só é permitida a construção de caves destinadas a habitação em casos excepcionais, em que a orientação e o desafogo do local permitam assegurar-lhes boas condições de habitabilidade, reconhecidas pelas câmaras municipais, devendo, neste caso, todos os compartimentos satisfazer às condições especificadas neste Regulamento para os andares de habitação e ainda ao seguinte:
 
 a) A cave deverá ter, pelo menos, uma parede exterior completamente desafogada a partir de 0,15 m abaixo do nível do pavimento interior;
 
@@ -223,11 +252,11 @@ d) O escoamento dos esgotos deverá ser conseguido por gravidade.
 
 ...
 
-###### Art. 84.º - 1. Em cada habitação, as instalações sanitárias serão quantitativamente proporcionadas ao número de compartimentos e terão, como mínimo, uma instalação com lavatório, banheira, uma bacia de retrete e um bidé.
+Art. 84.º - 1. Em cada habitação, as instalações sanitárias serão quantitativamente proporcionadas ao número de compartimentos e terão, como mínimo, uma instalação com lavatório, banheira, uma bacia de retrete e um bidé.
 
 2. Em cada cozinha é obrigatória a instalação de um lava-louça e uma saída de esgoto através de um ramal de ligação com 50 mm de diâmetro e construída com materiais que permitam o escoamento a temperaturas até 70ºC, sem alteração no tempo das características físicas das tubagens desse ramal.
 
-###### Art. 87.º - 1. As instalações sanitárias terão iluminação e renovação permanente de ar asseguradas directamente do exterior da edificação, e a área total envidraçada do vão ou vãos abertos na parede, em contacto directo com o exterior, não poderá ser inferior a 0,54 m2, medida no tosco, devendo a parte de abrir ter, pelo menos, 0,36 m2.
+Art. 87.º - 1. As instalações sanitárias terão iluminação e renovação permanente de ar asseguradas directamente do exterior da edificação, e a área total envidraçada do vão ou vãos abertos na parede, em contacto directo com o exterior, não poderá ser inferior a 0,54 m2, medida no tosco, devendo a parte de abrir ter, pelo menos, 0,36 m2.
 
 2. Em casos especiais, justificados por características próprias da edificação no seu conjunto, poderá exceptuar-se o disposto no número anterior, desde que fique eficazmente assegurada a renovação constante e suficiente do ar, por ventilação natural ou forçada, desde que o respectivo sistema obedeça ao condicionalismo previsto no artigo 17.º
 
@@ -235,24 +264,24 @@ d) O escoamento dos esgotos deverá ser conseguido por gravidade.
 
 ...
 
-###### Art. 110.º - 1. As condutas de fumo que sirvam chaminés, fogões de aquecimento, caloríferos e outras origens de fumo semelhantes serão independentes.
+Art. 110.º - 1. As condutas de fumo que sirvam chaminés, fogões de aquecimento, caloríferos e outras origens de fumo semelhantes serão independentes.
 
 2. No entanto, poderão ser aplicadas soluções de execução de condutas colectivas a que se ligam, com desfasamento de um piso, as fugas individuais.
 
 3. É indispensável, como complemento às soluções definidas no n.º 2, instalação nas saídas das chaminés de exaustores estáticos, convenientemente conformados e dimensionados.
 
-###### Art. 2.º São revogados os artigos 48.º e 49.º do Regulamento Geral das Edificações Urbanas.
+Art. 2.º São revogados os artigos 48.º e 49.º do Regulamento Geral das Edificações Urbanas.
 
-###### Art. 3.º O Secretário de Estado da Habitação e Urbanismo fica autorizado a, por portaria, definir instruções para recuperação e transformação de habitação, com dispensa das disposições imperativas do Regulamento Geral das Edificações Urbanas.
+Art. 3.º O Secretário de Estado da Habitação e Urbanismo fica autorizado a, por portaria, definir instruções para recuperação e transformação de habitação, com dispensa das disposições imperativas do Regulamento Geral das Edificações Urbanas.
 
-###### Art. 4.º - 1. As alterações relativas aos artigos 66.º, 67.º, 68.º, 69.º, 70.º, 71.º, 77.º, 84.º, 87.º e 110.º só entram em vigor no dia 1 de Dezembro de 1975.
+Art. 4.º - 1. As alterações relativas aos artigos 66.º, 67.º, 68.º, 69.º, 70.º, 71.º, 77.º, 84.º, 87.º e 110.º só entram em vigor no dia 1 de Dezembro de 1975.
 
 2. Todavia, quanto aos processos iniciados até à referida data, poderão os requerentes optar pela aplicação do regime anterior ao do actual.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 6 de Novembro de 1975.**
+Promulgado em 6 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

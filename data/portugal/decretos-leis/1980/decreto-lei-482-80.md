@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/482-1980-462617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08f7c295b50ad39052e873dbf4295914c0337298d9257439c17ece6361919e56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dff3ebb0244e9ab3f01054d1a742dd4fcfc6c5991e027334885af721fa193d5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AGA
+- Bebida Alcoólica
+- Comércio
+- Definição de Competências
+- Direcção Geral de Fiscalização Económica
+- Embalagem
+- Etiquetagem
+- Importação
+- Regime Jurídico
+- Whisky
 relationships:
 - type: amended_by
   target: pt:dre:496081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179993:por
+  label: "Aditado um nº 4 ao artigo 5º pelo DEC LEI.305/85.29.07.1985.MCT, DR.IS [172] de 29.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1985-179993
+  date: '1985-07-29'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:458237:por
+  label: Rectificado pela DECL.DD6717.05.11.1980.PCM, DR.IS [267] de 18.11.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-458237
+  date: '1980-11-05'
+- type: repealed_by
+  target: pt:dre:496081:por
+  label: Revogadas a al. a) do n.º 4 do art. 9.º e a al. a) do n.º 4 do art. 11.º pelo(a) Decreto-Lei n.º 340/87 - Diário
+    da República n.º 242/1987, Série I de 1987-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1987-496081
+  date: '1987-10-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:30Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +138,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos do presente diploma, considera-se whisky a bebida espirituosa com aroma e sabor próprios, proveniente do destilado obtido de mosto de cereais fermentado, sacrificado pela diástase do malte nele contido, com ou sem outras diástases naturais.
+Artigo 1.º Para efeitos do presente diploma, considera-se whisky a bebida espirituosa com aroma e sabor próprios, proveniente do destilado obtido de mosto de cereais fermentado, sacrificado pela diástase do malte nele contido, com ou sem outras diástases naturais.
 
-###### Art. 2.º - 1 - A bebida espirituosa referida no artigo anterior deverá obedecer aos requisitos seguintes:
+Art. 2.º - 1 - A bebida espirituosa referida no artigo anterior deverá obedecer aos requisitos seguintes:
 
 a) Ser destilada a menos de 95% de volume a 20ºC, de tal modo que o produto da destilação possua aroma e sabor provenientes das matérias-primas utilizadas;
 
@@ -118,33 +160,33 @@ Soma de aldeídos (expressos em acetaldeído), ésteres (expressos em acetato de
 
 2 - Presume-se não ser whisky o produto que não satisfizer os requisitos mencionados na alínea c) do número anterior.
 
-###### Art. 3.º Ao produto da destilação só é permitido adicionar, antes do engarrafamento:
+Art. 3.º Ao produto da destilação só é permitido adicionar, antes do engarrafamento:
 
 a) Água pura, com o fim de baixar o seu teor alcoólico para o valor mínimo de 40% de álcool em volume a 20ºC; e
 
 b) Caramelo, nas quantidades mínimas necessárias à normalização da cor do produto engarrafado.
 
-###### Art. 4.º - 1 - É permitida a lotação (blending, assemblage) de vários destilados, desde que cada um deles separadamente satisfaça à definição e aos requisitos de whisky constantes dos artigos 1.º e 2.º
+Art. 4.º - 1 - É permitida a lotação (blending, assemblage) de vários destilados, desde que cada um deles separadamente satisfaça à definição e aos requisitos de whisky constantes dos artigos 1.º e 2.º
 
 2 - No caso de lotação, a idade do lote será a do whisky de destilação mais recente nele contido.
 
-###### Art. 5.º - 1 - As designações de Scotch whisky (whisky escocês), Irish whisky (whisky irlandês), Canadian whisky (whisky canadiano) e bourbon são reservadas aos whiskies destilados e envelhecidos, respectivamente, na Escócia, na República da Irlanda ou na Irlanda do Norte, no Canadá e nos Estados Unidos da América, de acordo com as leis que nesses territórios regulam a produção das bebidas espirituosas assim designadas.
+Art. 5.º - 1 - As designações de Scotch whisky (whisky escocês), Irish whisky (whisky irlandês), Canadian whisky (whisky canadiano) e bourbon são reservadas aos whiskies destilados e envelhecidos, respectivamente, na Escócia, na República da Irlanda ou na Irlanda do Norte, no Canadá e nos Estados Unidos da América, de acordo com as leis que nesses territórios regulam a produção das bebidas espirituosas assim designadas.
 
 2 - No caso de lotação, só é permitido usar as disposições referidas no número anterior quando cada um dos componentes separadamente satisfaça a respectiva designação.
 
 3 - A designação de whisky português (whisky) é reservada ao whisky destilado e envelhecido em Portugal que satisfaça os requisitos constantes dos artigos 1.º e 2.º
 
-###### Art. 6.º É proibida a utilização:
+Art. 6.º É proibida a utilização:
 
 a) Das designações mencionadas no artigo anterior quando referidas a qualquer produto que não satisfaça os requisitos dele constantes, ainda que tal designação seja acompanhada da indicação da verdadeira origem do produto em ligação com expressões como «tipo de», «imitação de», «género de» ou similares;
 
 b) De marcas, registadas ou não, rótulos, cartazes ou publicidade susceptíveis de, mediante a utilização de palavras, sinais gráficos ou quaisquer outros meios, induzir o consumidor em erro quanto ao verdadeiro país de origem do produto.
 
-###### Art. 7.º O whisky não poderá ser importado, vendido ou exposto para venda no mercado interno com teor alcoólico inferior a 40% em volume a 20ºC.
+Art. 7.º O whisky não poderá ser importado, vendido ou exposto para venda no mercado interno com teor alcoólico inferior a 40% em volume a 20ºC.
 
-###### Art. 8.º O whisky importado deverá ser acompanhado dos certificados de origem e envelhecimento, emitidos pelas competentes autoridades governamentais do país em que o whisky foi produzido.
+Art. 8.º O whisky importado deverá ser acompanhado dos certificados de origem e envelhecimento, emitidos pelas competentes autoridades governamentais do país em que o whisky foi produzido.
 
-###### Art. 9.º - 1 - A fim de garantir a genuinidade do Scotch whisky (whisky escocês), quando importado com graduação alcoólica superior à estabelecida para consumo ou em recipientes que não satisfaçam os requisitos para tal venda, observar-se-ão as regras constantes dos números seguintes, para que o whisky escocês possa ser engarrafado sob esta designação.
+Art. 9.º - 1 - A fim de garantir a genuinidade do Scotch whisky (whisky escocês), quando importado com graduação alcoólica superior à estabelecida para consumo ou em recipientes que não satisfaçam os requisitos para tal venda, observar-se-ão as regras constantes dos números seguintes, para que o whisky escocês possa ser engarrafado sob esta designação.
 
 2 - O whisky só poderá sair das alfândegas sob contrôle directo da AGA e fiscalização da Direcção-Geral da Fiscalização Económica (DGFE), com destino às instalações de engarrafamento por aquela aprovadas.
 
@@ -180,9 +222,9 @@ d) A afixação dos rótulos aos recipientes será feita de modo a impedir a sua
 
 11 - É proibido o armazenamento, nas instalações de engarrafamento, de matérias-primas ou produtos cuja utilização não seja permitida nas operações de lotação, diluição, engarrafamento, rotulagem e selagem de Scotch whisky.
 
-###### Art. 10.º A fim de se garantir a genuinidade do Irish whisky (whisky irlandês), do Canadian whisky (whisky canadiano) e do bourbon, quando importados nas condições referidas no n.º 1 do artigo anterior, observar-se-á, com as necessárias adaptações, o disposto nos seus n.os 2 a 9, para que tais whiskies possam ser engarrafados sob as aludidas designações.
+Art. 10.º A fim de se garantir a genuinidade do Irish whisky (whisky irlandês), do Canadian whisky (whisky canadiano) e do bourbon, quando importados nas condições referidas no n.º 1 do artigo anterior, observar-se-á, com as necessárias adaptações, o disposto nos seus n.os 2 a 9, para que tais whiskies possam ser engarrafados sob as aludidas designações.
 
-###### Art. 11.º - 1 - A fim de se garantir a genuinidade whisky produzido em território português, observar-se-ão, sem prejuízo do disposto nos artigos 1.º, 2.º, 3.º e 6.º, as regras constantes dos números seguintes.
+Art. 11.º - 1 - A fim de se garantir a genuinidade whisky produzido em território português, observar-se-ão, sem prejuízo do disposto nos artigos 1.º, 2.º, 3.º e 6.º, as regras constantes dos números seguintes.
 
 2 - O whisky só poderá ser produzido, diluído, engarrafado, rotulado e selado sob o contrôle da AGA e fiscalização da DGFE, em instalações por aquela autorizadas, as quais serão sempre distintas das utilizadas para engarrafamento de whisky estrangeiro.
 
@@ -218,26 +260,26 @@ d) A afixação dos rótulos aos recipientes será feita de modo a impedir a sua
 
 11 - É proibido o armazenamento, nas instalações de produção ou de engarrafamento, de matérias-primas ou produtos cuja utilização não seja permitida nas operações de produção, lotação, diluição, engarrafamento, rotulagem e selagem de whisky português.
 
-###### Art. 12.º Os selos a fornecer pela AGA serão de cores diferentes para o whisky estrangeiro importado já engarrafado, para o whisky estrangeiro engarrafado em Portugal e para o whisky produzido em território português.
+Art. 12.º Os selos a fornecer pela AGA serão de cores diferentes para o whisky estrangeiro importado já engarrafado, para o whisky estrangeiro engarrafado em Portugal e para o whisky produzido em território português.
 
-###### Art. 13.º A partir do dia 1 de Janeiro de 1981, não será permitida a preparação ou a venda de qualquer bebida espirituosa de imitação do whisky, designadamente a mistura de whisky com álcool etílico, ainda que de origem vegetal.
+Art. 13.º A partir do dia 1 de Janeiro de 1981, não será permitida a preparação ou a venda de qualquer bebida espirituosa de imitação do whisky, designadamente a mistura de whisky com álcool etílico, ainda que de origem vegetal.
 
-###### Art. 14.º - 1 - As infracções ao disposto no presente diploma serão punidas, consoante os casos, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e do [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro.
+Art. 14.º - 1 - As infracções ao disposto no presente diploma serão punidas, consoante os casos, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e do [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro.
 
 2 - As infracções a este decreto-lei não puníveis pelos diplomas referidos no número anterior serão punidas com multa de 1000$00 a 10000$00.
 
 3 - Pela falsificação ou falta de características legais do whisky presume-se responsável o engarrafador cujas iniciais figurem no recipiente ou, na falta ilegal de tal menção, a entidade que lançou o whisky no mercado interno.
 
-###### Art. 15.º Mantém-se em vigor, relativamente ao whisky, o [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro, em tudo quanto não contrarie o disposto no presente diploma.
+Art. 15.º Mantém-se em vigor, relativamente ao whisky, o [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro, em tudo quanto não contrarie o disposto no presente diploma.
 
-###### Art. 16.º As dúvidas que se suscitarem na interpretação e execução deste decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
+Art. 16.º As dúvidas que se suscitarem na interpretação e execução deste decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
 
-###### Art. 17.º O presente diploma entra em vigor no prazo de trinta dias a contar da data da sua publica ção, com excepção das disposições constantes dos n.os 4 e 5 do artigo 9.º e dos n.os 4 e 5 do artigo 11.º, os quais entrarão em vigor no prazo de noventa dias a contar da mesma data.
+Art. 17.º O presente diploma entra em vigor no prazo de trinta dias a contar da data da sua publica ção, com excepção das disposições constantes dos n.os 4 e 5 do artigo 9.º e dos n.os 4 e 5 do artigo 11.º, os quais entrarão em vigor no prazo de noventa dias a contar da mesma data.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

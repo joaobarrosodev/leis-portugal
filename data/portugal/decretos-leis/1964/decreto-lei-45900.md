@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45900-1964-539265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e399180032874e47bfb510fd6386590452b83becd9d7003a39a3879d924e5db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e47d545e9239069a5c4c4bd0e0a6fb38505325a1dc2e351f0679df4d20c529c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Geral de Depósitos Crédito e Previdência
+- Caixa Nacional de Crédito
+- Centeio
+- Cereal
+- Empréstimo
+- Federação Nacional dos Produtores de Trigo
+- Financiamento
+- Fundo de Abastecimento
+- Preço
+- Trigo
+relationships:
+- type: cites
+  target: pt:dre:371001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:26Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +153,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Mantém-se em vigor para a campanha de 1964-1965 o disposto no [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, com as alterações constantes dos artigos seguintes.
+Artigo 1.º Mantém-se em vigor para a campanha de 1964-1965 o disposto no [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, com as alterações constantes dos artigos seguintes.
 
-###### Art. 2.º As tabelas reguladoras do preço dos diversos tipos de trigo, para a colheita de 1965, são as seguintes:
+Art. 2.º As tabelas reguladoras do preço dos diversos tipos de trigo, para a colheita de 1965, são as seguintes:
 
 a) Trigo mole:
 
@@ -149,22 +175,22 @@ Preço estabelecido para o trigo mole de igual peso de hectolitro, para os trigo
 
 § único. Por portaria do Ministério da Economia serão definidas as classes e os métodos de classificação e análise dos trigos a que se refere este artigo.
 
-###### Art. 3.º Os processos de apreciação e de comercialização dos trigos poderão ser alterados por portaria do Ministério da Economia.
+Art. 3.º Os processos de apreciação e de comercialização dos trigos poderão ser alterados por portaria do Ministério da Economia.
 
-###### Art. 4.º Para a colheita de 1965 o preço-base da compra de centeio pela Federação Nacional dos Produtores de Trigo, assim como o preço e as condições de aquisição do milho pela Federação Nacional dos Produtores de Trigo, serão determinados, por portaria do Secretário de Estado do Comércio, até ao fim do corrente ano.
+Art. 4.º Para a colheita de 1965 o preço-base da compra de centeio pela Federação Nacional dos Produtores de Trigo, assim como o preço e as condições de aquisição do milho pela Federação Nacional dos Produtores de Trigo, serão determinados, por portaria do Secretário de Estado do Comércio, até ao fim do corrente ano.
 
-###### Art. 5.º É concedido à lavoura, a título excepcional, durante os anos de 1964 e 1965, e através do Fundo de Abastecimento, um subsídio cujo valor e forma de distribuição serão fixados por despacho do Ministro da Economia.
+Art. 5.º É concedido à lavoura, a título excepcional, durante os anos de 1964 e 1965, e através do Fundo de Abastecimento, um subsídio cujo valor e forma de distribuição serão fixados por despacho do Ministro da Economia.
 
-###### Art. 6.º Fica desde já o Fundo de Abastecimento autorizado a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até 130000 contos, destinado a fazer face aos encargos provenientes da subvenção referida no artigo anterior.
+Art. 6.º Fica desde já o Fundo de Abastecimento autorizado a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até 130000 contos, destinado a fazer face aos encargos provenientes da subvenção referida no artigo anterior.
 
 § único. O prazo e as outras condições do empréstimo previsto no corpo deste artigo serão fixados por acordo entre a Caixa Geral de Depósitos, Crédito e Previdência e o Fundo de Abastecimento e aprovados pelos Ministros das Finanças e da Economia.
 
-###### Art. 7.º O financiamento à campanha do trigo de 1964-1965, concedido pela Caixa Nacional de Crédito, ao abrigo do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941, será de 800$00 por hectare, dividido em duas prestações, sendo a primeira de 550$00 e a segunda de 250$00.
+Art. 7.º O financiamento à campanha do trigo de 1964-1965, concedido pela Caixa Nacional de Crédito, ao abrigo do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941, será de 800$00 por hectare, dividido em duas prestações, sendo a primeira de 550$00 e a segunda de 250$00.
 
 § 1.º O valor a mutuar por cada beneficiário, para efeitos de atribuição do financiamento previsto no corpo deste artigo, não poderá exceder 75 por cento do máximo mutuado nas campanhas de 1961-1962 e 1962-1963.
 
 § 2.º O montante global a conceder a cada produtor não poderá ir além de 225000$00.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 180/1974, 1º Suplemento, Série I de 1974-08-03
   number: '180'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 870-(1) a 870-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/18001/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1974-629576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4deabc4c5b001733da60919d4831332397a81eb0f1acde035c5761e71cd38c68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1f7cc055b4dc08b263aa58083b0494e93d11a563a392e7055b8ba129306b178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete Governamental
+- Pessoal de Gabinete
+- Primeiro-ministro
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:146676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:415648:por
+  label: "Revogadas as disposições deste diploma pelo DEC LEI.683-A/74.30.11.1974.PCM, DG.IS [274]2ºSupl de 30.11.1974, em\
+    \ tudo o que o contrariem\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/683-a-1974-415648
+  date: '1974-11-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:48Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +119,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Gabinete do Primeiro-Ministro tem a seguinte composição:
+Artigo 1.º O Gabinete do Primeiro-Ministro tem a seguinte composição:
 
 Chefe do Gabinete;
 
@@ -108,24 +131,24 @@ Adido de imprensa;
 
 Secretário particular.
 
-###### Art. 2.º - 1. Os lugares de chefe do Gabinete, adido de imprensa e secretário particular serão providos livremente pelo Primeiro Ministro, que a todo o tempo poderá exonerar os nomeados.
+Art. 2.º - 1. Os lugares de chefe do Gabinete, adido de imprensa e secretário particular serão providos livremente pelo Primeiro Ministro, que a todo o tempo poderá exonerar os nomeados.
 
 2. O adjunto militar será um oficial de qualquer dos ramos das forças armadas, requisitado para prestar serviço no Gabinete.
 
 3. O adjunto diplomático será um funcionário ou qualquer pessoa de reconhecido mérito, livremente nomeado pelo Primeiro-Ministro.
 
-###### Art. 3.º Quando sejam funcionários, os membros do Gabinete referidos no artigo 1.º terão a faculdade de optar pelos abonos, vencimentos e gratificações correspondentes aos cargos de origem, os quais lhes serão atribuídos de conta do orçamento da Presidência do Conselho de Ministros, sempre que tal se mostre conveniente.
+Art. 3.º Quando sejam funcionários, os membros do Gabinete referidos no artigo 1.º terão a faculdade de optar pelos abonos, vencimentos e gratificações correspondentes aos cargos de origem, os quais lhes serão atribuídos de conta do orçamento da Presidência do Conselho de Ministros, sempre que tal se mostre conveniente.
 
-###### Art. 4.º Caso o adjunto diplomático não seja funcionário, ficará com direito a perceber remuneração não inferior à de segundo-secretário de embaixada.
+Art. 4.º Caso o adjunto diplomático não seja funcionário, ficará com direito a perceber remuneração não inferior à de segundo-secretário de embaixada.
 
-###### Art. 5.º Com ressalva do que está contrariado expressamente neste diploma, mantêm-se inteiramente em vigor as disposições contidas no [Decreto-Lei n.º 621/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-1970-146676) de 18 de Dezembro.
+Art. 5.º Com ressalva do que está contrariado expressamente neste diploma, mantêm-se inteiramente em vigor as disposições contidas no [Decreto-Lei n.º 621/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-1970-146676) de 18 de Dezembro.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 2 de Agosto de 1974.**
+Promulgado em 2 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

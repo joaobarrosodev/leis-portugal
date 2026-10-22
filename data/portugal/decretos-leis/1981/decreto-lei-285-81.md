@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23200/26912692.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1981-561660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 369e0d02cce97efb115a65b48f18f68f5c983263bccea2df42581eba227dfd3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d8745ea2974240fc357c9e1b81bb170de7f35c0a30e8d1d4acd2b0ad84cf4bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Empresa Pública
+- Função Pública
+- Mobilidade de Pessoal
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019 pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:226046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:569111:por
+  label: Rectificado pela DECL.DD4087.1981.10.26.PCM, DR.IS [254] de 04/Nov/1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-569111
+  date: '1981-10-26'
+- type: repealed_by
+  target: pt:dre:392862:por
+  label: "Revogados os arts. 8º e 20º-A do Dec Lei 140/81, de 30-Mai, com a redacção dada pelo presente diploma, pelo DEC\
+    \ LEI.166/82.1982.05.10.MAI, DR.IS [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1982-392862
+  date: '1982-05-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:05Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +150,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É acrescentado ao [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, o artigo 20.º - A, com a seguinte redacção:
+Artigo 1.º É acrescentado ao [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, o artigo 20.º - A, com a seguinte redacção:
 
-###### Art. 20.º-A - 1 - Os funcionários e agentes admitidos ao abrigo e nos termos das excepções previstas nos artigos 6.º e 20.º deste diploma não podem concorrer ou ser providos, ainda que interinamente ou em comissão de serviço, em categoria diferente ou em lugar do quadro ou ser requisitados ou contratados, ainda que em regime eventual, para funções cujo preenchimento esteja sujeito aos condicionamentos previstos neste artigo sem que sejam observados tais condicionamentos.
+Art. 20.º-A - 1 - Os funcionários e agentes admitidos ao abrigo e nos termos das excepções previstas nos artigos 6.º e 20.º deste diploma não podem concorrer ou ser providos, ainda que interinamente ou em comissão de serviço, em categoria diferente ou em lugar do quadro ou ser requisitados ou contratados, ainda que em regime eventual, para funções cujo preenchimento esteja sujeito aos condicionamentos previstos neste artigo sem que sejam observados tais condicionamentos.
 
 2 - O disposto no número anterior não prejudica os direitos de acesso reconhecidos pelo Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, aos assistentes, enquanto a sua admissão continuar condicionada por portaria do Ministro da Educação e Ciência, nos termos do [Decreto-Lei n.º 200-J/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-j-1980-226046), de 24 de Junho.
 
-###### Art. 2.º Os artigos 8.º e 15.º, n.º 3, do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 8.º e 15.º, n.º 3, do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 8.º - 1 - A admissão de pessoal em empresas públicas fica condicionada pelo prazo de um ano, prorrogável por portaria conjunta dos Ministros das Finanças e do Plano e da Reforma Administrativa, nos termos do artigo 1.º do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro, e sujeita ao disposto no n.º 4 deste artigo.
+Art. 8.º - 1 - A admissão de pessoal em empresas públicas fica condicionada pelo prazo de um ano, prorrogável por portaria conjunta dos Ministros das Finanças e do Plano e da Reforma Administrativa, nos termos do artigo 1.º do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro, e sujeita ao disposto no n.º 4 deste artigo.
 
 2 - Para efeitos do número anterior, as empresas interessadas deverão dirigir a correspondente solicitação à Direcção-Geral de Integração Administrativa, a qual deverá dar resposta ao pedido no prazo de trinta dias, findos os quais se presume a inexistência de adidos ou excedentes disponíveis.
 
@@ -122,18 +168,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - As admissões de pessoal nas empresas públicas efectuadas sem observância das formalidades estabelecidas neste preceito são nulas e de nenhum efeito, ficando o gestor ou empregados dessas empresas que hajam autorizado a admissão ou contribuído para essa autorização responsáveis civilmente pelos prejuízos causados aos trabalhadores e à empresa, sem prejuízo da correspondente responsabilidade disciplinar.
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - ...
 
 3 - Sempre que num quadro existam lugares de ingresso que não seja possível preencher nos termos do n.º 2, poder-se-á determinar a abertura de concurso, o qual poderá ser reservado a funcionários e agentes ou alargado a não vinculados que reúnam, em qualquer dos casos, os requisitos legais.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Setembro de 1981.**
+Promulgado em 25 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

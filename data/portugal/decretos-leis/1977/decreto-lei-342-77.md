@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19100/20092013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,145 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1977-256208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e73a0016267ebda9b1acd478e19f0e1e74dabbc77d76f74c223eeed5e48ed9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c420bced605c3f0f1c2dd356a949b878903bc1feeacfa293cd04b09536220424
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Comissão Consultiva de Estatística
+- Direcção Geral da Acção Regional e Local
+- Gabinete de Informação e Relações Públicas
+- GAT
+- GNR
+- Inspeção Geral da Administração Interna
+- Ministério da Administração Interna
+- Orgânica
+- PSP
+- Secretaria de Estado da Integração Administrativa
+- Secretaria Geral
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
+- Serviço de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:663315:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276644:por
+  label: "Prorrogado o prazo previsto no nº1 do art. 32º do presente diploma, pelo DEC LEI.532/77.30.12.1977.MAI, DR.IS [301]\
+    \ de 30.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/532-1977-276644
+  date: '1977-12-30'
+- type: amended_by
+  target: pt:dre:393185:por
+  label: "Alterados os quadros de pessoal da Secretaria Geral e da Direcção Geral da Acção Regional e Local, aprovados pelo\
+    \ Decreto-Lei 320/73 de 28 de Junho, e mantidos em vigor pelas disposições do n.º 2 do artigo 32.º do presente diploma,\
+    \ pela PORT.62/79.07.02.1979.PCM, DR.IS [32] de 07.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-1979-393185
+  date: '1979-02-07'
+- type: amended_by
+  target: pt:dre:471881:por
+  label: "Alterado o artigo 24.º pelo DEC LEI.212/80.09.07.1980.MAI, DR.IS [156] de 09.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1980-471881
+  date: '1980-07-09'
+- type: amended_by
+  target: pt:dre:600518:por
+  label: "Criado um lugar no quadro de pessoal aprovado pelo presente diploma, pela PORT.166/82.1982.02.06.MFP, DR.IS [31]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/166-1982-600518
+  date: '1982-02-06'
+- type: amended_by
+  target: pt:dre:442974:por
+  label: "Alterados os arts. 1º, 2º, 4º, 5º, 15º, 16º, 17º, 19º, 20º, 21º, 22º, 23º, 24,º 25º, 26º, 27º 28º e aditados os\
+    \ arts. 24º-A, 24º-B, 24º-C, 24º-D, 24º-E e 24º-F, pelo DEC LEI.410/83.1983.11.23.PCM, DR.IS [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/410-1983-442974
+  date: '1983-11-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: INTEGRADA A INSPECCAO-GERAL DA ADMINISTRAÇÃO INTERNA NO MINISTÉRIO DO PLANO E DA ADMINISTRAÇÃO DO TERRITÓRIO, PELO
+    DEC LEI 497/85 DE 17-DEZ DR.IS [290]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-12-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTA A INSPECCAO-GERAL DA ADMINISTRAÇÃO INTERNA (INTEGRADA NO MINISTÉRIO DO PLANO E DA ADMINISTRAÇÃO DO TERRITORIO)\
+    \ PELO DEC LEI 130/86 DE 07-JUN DR.IS [130]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-06-07'
+- type: amended_by
+  target: pt:dre:229097:por
+  label: Extinta a Inspecção-Geral da Administração Interna, criada pelo presente diploma, integrada no Ministério do Plano
+    e da Administração do Território pelo Dec Lei 497/85, de 17-dez, pelo(a) Decreto-Lei n.º 130/86 - Diário da República
+    n.º 130/1986, Série I de 1986-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1986-229097
+  date: '1986-06-07'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525225:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365886:por
+  label: "Revogado o artigo 2.º pelo DEC LEI.494/79.21.12.1979.MAI, DR.IS [293] de 21.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/494-1979-365886
+  date: '1979-12-21'
+- type: repealed_by
+  target: pt:dre:663315:por
+  label: "Revogado pelo DEC LEI.55/87.1987.01.31.MAI, DR.IS [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1987-663315
+  date: '1987-01-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:19Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +231,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Ministério da Administração Interna compreende os seguintes serviços:
+Artigo 1.º O Ministério da Administração Interna compreende os seguintes serviços:
 
 a) Secretaria-Geral;
 
@@ -150,13 +255,13 @@ j) Serviço de Estrangeiros;
 
 l) Serviços dependentes da Secretaria de Estado da Integração Administrativa.
 
-###### Art. 2.º - 1. São criadas, como órgãos externos, as comissões de coordenação técnica regional, cuja competência e área de actuação serão definidas em regulamento.
+Art. 2.º - 1. São criadas, como órgãos externos, as comissões de coordenação técnica regional, cuja competência e área de actuação serão definidas em regulamento.
 
 2. Consideram-se integrados nos órgãos criados no número anterior os serviços dependentes das comissões criadas pelo [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), de 11 de Março de 1969, e pelo [Decreto n.º 49364](https://diariodarepublica.pt/dr/detalhe/decreto/49364-1969-215771), de 8 de Novembro seguinte, alterados pelo [Decreto-Lei n.º 524/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1974-472882), de 8 de Outubro, em tudo o que respeite às suas funções de coordenação de apoio técnico às autarquias.
 
-###### Art. 3.º A Secretaria-Geral é o organismo de coordenação e apoio técnico administrativo, especialmente incumbido de exercer as funções de carácter comum aos diversos serviços centrais do Ministério.
+Art. 3.º A Secretaria-Geral é o organismo de coordenação e apoio técnico administrativo, especialmente incumbido de exercer as funções de carácter comum aos diversos serviços centrais do Ministério.
 
-###### Art. 4.º No desempenho das suas atribuições, compete, designadamente, à Secretaria-Geral:
+Art. 4.º No desempenho das suas atribuições, compete, designadamente, à Secretaria-Geral:
 
 a) Prestar ao Ministro e aos restantes membros do Governo em funções no Ministério a assistência técnica e administrativa que lhe for solicitada e que não se inclua na competência própria dos demais serviços;
 
@@ -178,7 +283,7 @@ i) Instruir, estudar e informar os processos administrativos que hajam de ser su
 
 j) Tomar a seu cargo a guarda, conservação e administração dos edifícios ocupados pelos serviços dependentes do Ministério.
 
-###### Art. 5.º - 1. A Secretaria-Geral é dirigida por um secretário-geral e compreende os seguintes serviços:
+Art. 5.º - 1. A Secretaria-Geral é dirigida por um secretário-geral e compreende os seguintes serviços:
 
 a) Direcção de Serviços Administrativos;
 
@@ -186,11 +291,11 @@ b) Direcção de Serviços de Documentação.
 
 2. Junto da Secretaria-Geral funciona a Comissão Consultiva de Estatística.
 
-###### Art. 6.º A Auditoria Jurídica, directamente dependente do Ministro, é o organismo de consulta jurídica e de apoio legislativo e contencioso dos membros do Governo que integram o Ministério.
+Art. 6.º A Auditoria Jurídica, directamente dependente do Ministro, é o organismo de consulta jurídica e de apoio legislativo e contencioso dos membros do Governo que integram o Ministério.
 
-###### Art. 7.º A orientação e coordenação técnico-jurídica da Auditoria compete a um auditor jurídico, designado nos termos do Estatuto Judiciário.
+Art. 7.º A orientação e coordenação técnico-jurídica da Auditoria compete a um auditor jurídico, designado nos termos do Estatuto Judiciário.
 
-###### Art. 8.º Para o desempenho das suas atribuições, compete à Auditoria Jurídica:
+Art. 8.º Para o desempenho das suas atribuições, compete à Auditoria Jurídica:
 
 a) Colaborar na elaboração de projectos de diplomas legais;
 
@@ -204,7 +309,7 @@ e) Acompanhar o andamento dos mesmos processos de recurso dando satisfação, se
 
 f) Apoiar o agente do Ministério Público competente em matérias relacionadas com o Ministério da Administração Interna que corram por quaisquer tribunais.
 
-###### Art. 9.º Na dependência directa do Ministro funciona o Gabinete de Informação e Relações Públicas, organismo destinado especialmente a:
+Art. 9.º Na dependência directa do Ministro funciona o Gabinete de Informação e Relações Públicas, organismo destinado especialmente a:
 
 a) Assegurar um sistema informativo que garanta a qualidade e a oportunidade da informação respeitante ao Ministério;
 
@@ -212,7 +317,7 @@ b) Manter um sistema de relações públicas eficiente que permita o esclarecime
 
 c) Assegurar, no domínio das suas atribuições, a coordenação de acções sectoriais dos diversos organismos do Ministério.
 
-###### Art. 10.º Para o desempenho das suas atribuições, compete ao Gabinete de Informação e Relações Públicas:
+Art. 10.º Para o desempenho das suas atribuições, compete ao Gabinete de Informação e Relações Públicas:
 
 a) Organizar os serviços de recepção do público;
 
@@ -224,11 +329,11 @@ d) Assegurar a eficiência e a oportunidade das relações com os órgãos de co
 
 e) Recolher, tratar e difundir pelos serviços as notícias dos órgãos de comunicação social de interesse para o Ministério.
 
-###### Art. 11.º O responsável pela orientação e coordenação do Gabinete de Informação e Relações Públicas terá a categoria de director de serviços.
+Art. 11.º O responsável pela orientação e coordenação do Gabinete de Informação e Relações Públicas terá a categoria de director de serviços.
 
-###### Art. 12.º O Secretariado Técnico dos Assuntos para o Processo Eleitoral é o organismo directamente dependente do Ministro da Administração Interna com atribuições de organização e execução dos processos eleitorais e de consulta e apoio em matéria eleitoral e sociologia eleitoral.
+Art. 12.º O Secretariado Técnico dos Assuntos para o Processo Eleitoral é o organismo directamente dependente do Ministro da Administração Interna com atribuições de organização e execução dos processos eleitorais e de consulta e apoio em matéria eleitoral e sociologia eleitoral.
 
-###### Art. 13.º Para o desempenho das suas atribuições, compete especialmente ao Secretariado Técnico dos Assuntos para o Processo Eleitoral:
+Art. 13.º Para o desempenho das suas atribuições, compete especialmente ao Secretariado Técnico dos Assuntos para o Processo Eleitoral:
 
 a) Planificar e apoiar tecnicamente a realização de eleições, quer a nível nacional quer a nível local, para tanto recorrendo à colaboração dos órgãos autárquicos;
 
@@ -242,21 +347,21 @@ e) Assegurar a estatística dos actos eleitorais, promovendo a publicação dos 
 
 f) Organizar o registo dos cidadãos eleitos para os órgãos de soberania e do poder local, bem como para os das regiões autónomas.
 
-###### Art. 14.º O Secretariado Técnico dos Assuntos para o Processo Eleitoral é dirigido por um director-geral e dispõe dos seguintes serviços:
+Art. 14.º O Secretariado Técnico dos Assuntos para o Processo Eleitoral é dirigido por um director-geral e dispõe dos seguintes serviços:
 
 a) Direcção de Serviços Jurídicos Eleitorais;
 
 b) Direcção de Serviços de Cadastro e Logística Eleitorais.
 
-###### Art. 15.º - 1. A Inspecção-Geral da Administração Interna é o organismo do Ministério incumbido de preparar e executar as acções ligadas à competência do Governo quanto ao exercício da tutela inspectiva sobre a administração local autárquica.
+Art. 15.º - 1. A Inspecção-Geral da Administração Interna é o organismo do Ministério incumbido de preparar e executar as acções ligadas à competência do Governo quanto ao exercício da tutela inspectiva sobre a administração local autárquica.
 
 2. A Inspecção-Geral da Administração Interna é dirigida por um inspector-geral.
 
-###### Art. 16.º - 1. A Inspecção-Geral da Administração Interna desenvolve a sua acção em todo o território em que o Governo Central exercer poderes de tutela sobre as autarquias locais.
+Art. 16.º - 1. A Inspecção-Geral da Administração Interna desenvolve a sua acção em todo o território em que o Governo Central exercer poderes de tutela sobre as autarquias locais.
 
 2. A Inspecção-Geral da Administração Interna poderá ainda prestar a colaboração solicitada pelos órgãos das regiões autónomas em matérias relacionadas com idênticos poderes de tutela que estes detêm sobre as autarquias locais.
 
-###### Art. 17.º No desempenho das suas atribuições, compete, especialmente, à Inspecção-Geral da Administração Interna:
+Art. 17.º No desempenho das suas atribuições, compete, especialmente, à Inspecção-Geral da Administração Interna:
 
 a) Proceder a visitas de inspecção ordinária às autarquias locais, mediante planos gerais, aprovados pelo Ministro da Administração Interna;
 
@@ -268,11 +373,11 @@ d) Propor e instruir processos disciplinares, quando resultantes das suas visita
 
 e) Instruir outros processos disciplinares, quando assim for determinado por despacho ministerial e desde que os arguidos façam parte dos serviços referidos na alínea b).
 
-###### Art. 18.º Compete ao Ministro da Administração Interna decidir os processos instaurados pela Inspecção-Geral da Administração Interna e ordenar as inspecções extraordinárias, as sindicâncias, os inquéritos e os processos disciplinares que hajam de ser instruídos pela mesma.
+Art. 18.º Compete ao Ministro da Administração Interna decidir os processos instaurados pela Inspecção-Geral da Administração Interna e ordenar as inspecções extraordinárias, as sindicâncias, os inquéritos e os processos disciplinares que hajam de ser instruídos pela mesma.
 
-###### Art. 19.º A Direcção-Geral de Acção Regional e Local é o organismo incumbido de exercer funções normativas conducentes a garantir a compatibilização dos planos e programas municipais e estudar e propor as medidas relativas às finanças locais.
+Art. 19.º A Direcção-Geral de Acção Regional e Local é o organismo incumbido de exercer funções normativas conducentes a garantir a compatibilização dos planos e programas municipais e estudar e propor as medidas relativas às finanças locais.
 
-###### Art. 20.º Para o desempenho das suas atribuições, compete, especialmente, à Direcção-Geral de Acção Regional e Local:
+Art. 20.º Para o desempenho das suas atribuições, compete, especialmente, à Direcção-Geral de Acção Regional e Local:
 
 a) Proceder à recolha, tratamento e análise da informação estatística em matéria da sua competência;
 
@@ -306,15 +411,15 @@ p) Fomentar e participar na introdução de novas técnicas de gestão financeir
 
 q) Promover acções de reciclagem do pessoal técnico das autarquias.
 
-###### Art. 21.º A Direcção-Geral de Acção Regional e Local é dirigida por um director-geral e compreende os seguintes serviços:
+Art. 21.º A Direcção-Geral de Acção Regional e Local é dirigida por um director-geral e compreende os seguintes serviços:
 
 a) Núcleo de Apoio à Coordenação Técnica Regional;
 
 b) Direcção de Serviços de Acção Regional e Local.
 
-###### Art. 22.º O Gabinete de Apoio às Autarquias Locais é o organismo do Ministério da Administração Interna incumbido da coordenação, estudo e execução de medidas de natureza administrativa de apoio às autarquias, bem como da institucionalização de formas de cooperação e diálogo entre estas e o Poder Central.
+Art. 22.º O Gabinete de Apoio às Autarquias Locais é o organismo do Ministério da Administração Interna incumbido da coordenação, estudo e execução de medidas de natureza administrativa de apoio às autarquias, bem como da institucionalização de formas de cooperação e diálogo entre estas e o Poder Central.
 
-###### Art. 23.º Para o desempenho das suas atribuições, compete, nomeadamente, ao Gabinete de Apoio às Autarquias Locais:
+Art. 23.º Para o desempenho das suas atribuições, compete, nomeadamente, ao Gabinete de Apoio às Autarquias Locais:
 
 a) Proceder à recolha, tratamento e análise da informação estatística em matérias da sua competência;
 
@@ -346,25 +451,25 @@ o) Prestar apoio administrativo ao Conselho Nacional dos Serviços de Incêndios
 
 p) Propor soluções e incentivar a criação de mecanismos que assegurem as ligações do poder local ao Poder Central.
 
-###### Art. 24.º O Gabinete de Apoio às Autarquias Locais é dirigido por um director-geral e compreende os seguintes serviços:
+Art. 24.º O Gabinete de Apoio às Autarquias Locais é dirigido por um director-geral e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Formação e Assessoria;
 
 b) Direcção de Serviços Administrativos e de Pessoal.
 
-###### Art. 25.º A Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e os serviços dependentes da Secretaria de Estado da Integração Administrativa regem-se por legislação especial.
+Art. 25.º A Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e os serviços dependentes da Secretaria de Estado da Integração Administrativa regem-se por legislação especial.
 
-###### Art. 26.º - 1. É criado o lugar de director-geral do Gabinete de Apoio às Autarquias Locais, com a categoria correspondente à letra B do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 26.º - 1. É criado o lugar de director-geral do Gabinete de Apoio às Autarquias Locais, com a categoria correspondente à letra B do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. É criado o lugar de director do Gabinete de Informação e Relações Públicas, com a categoria correspondente à letra D do preceito referido no número anterior.
 
-###### Art. 27.º - 1. Os cargos de secretário-geral do Ministério da Administração Interna e de inspector-geral da Administração Interna são providos, por escolha do Ministro, de entre licenciados em direito de reconhecida competência.
+Art. 27.º - 1. Os cargos de secretário-geral do Ministério da Administração Interna e de inspector-geral da Administração Interna são providos, por escolha do Ministro, de entre licenciados em direito de reconhecida competência.
 
 2. Os cargos de director de Gabinete de Informação e Relações Públicas, de director-geral do Secretariado Técnico para os Assuntos do Processo Eleitoral, de director-geral da Acção Regional e Local e de director-geral do Gabinete de Apoie às Autarquias Locais são preenchidos, por escolha do Ministro, de entre pessoas habilitadas com curso superior adequado e de reconhecida competência para o desempenho do cargo.
 
 3. Os cargos a que se referem os números anteriores são desempenhados em comissão de serviço por período indeterminado, sem prejuízo, se for caso disso, das remunerações e regalias atribuídas ao lugar de origem e contando-se para todos os efeitos legais, como se neste fora prestado, todo o tempo em que se mantiverem no desempenho dos cargos.
 
-###### Art. 28.º - 1. Com excepção do pessoal dos serviços referidos no artigo 25.º, o pessoal administrativo do Ministério constitui um quadro único que fica adstrito à Secretaria-Geral.
+Art. 28.º - 1. Com excepção do pessoal dos serviços referidos no artigo 25.º, o pessoal administrativo do Ministério constitui um quadro único que fica adstrito à Secretaria-Geral.
 
 2. O pessoal técnico e de inspecção forma quadros próprios de cada serviço.
 
@@ -374,21 +479,21 @@ b) Direcção de Serviços Administrativos e de Pessoal.
 
 5. Serão previstas em regulamento as condições de transferência dentro do quadro único a que se refere o n.º 1, bem como o processo de equivalência de categorias entre os quadros próprios de cada serviço.
 
-###### Art. 29.º - 1. Salvo quanto aos cargos providos em regime de comissão de serviço ou outros excluídos por lei, o ingresso e a promoção obedecem ao princípio geral do concurso público, de provas ou documental.
+Art. 29.º - 1. Salvo quanto aos cargos providos em regime de comissão de serviço ou outros excluídos por lei, o ingresso e a promoção obedecem ao princípio geral do concurso público, de provas ou documental.
 
 2. Por via regulamentar estabelecer-se-ão, para cada classe de funcionários, as formas e condições a que o concurso deve obedecer, bem como as regras de avaliação de mérito.
 
 3. As propostas de provimento ou de promoção serão sempre fundamentadas.
 
-###### Art. 30.º - 1. Os serviços do Ministério acham-se submetidos, nos assuntos da sua competência, ao dever geral de colaboração entre os vários departamentos que o compõem ou que integram outros serviços do Estado.
+Art. 30.º - 1. Os serviços do Ministério acham-se submetidos, nos assuntos da sua competência, ao dever geral de colaboração entre os vários departamentos que o compõem ou que integram outros serviços do Estado.
 
 2. Os relatórios, estudos e outros documentos de interesse geral serão sempre publicados, ainda que em resumo, no Boletim do Ministério.
 
-###### Art. 31.º - 1. Mediante proposta fundamentada, pode o Ministro da Administração Interna, com o acordo do Ministro das Finanças quanto a remunerações, autorizar a contratação de especialistas e de técnicos de vários ramos para tarefas específicas e por períodos determinados, quando o seu concurso seja necessário à prossecução de missões que caibam no âmbito dos serviços do Ministério.
+Art. 31.º - 1. Mediante proposta fundamentada, pode o Ministro da Administração Interna, com o acordo do Ministro das Finanças quanto a remunerações, autorizar a contratação de especialistas e de técnicos de vários ramos para tarefas específicas e por períodos determinados, quando o seu concurso seja necessário à prossecução de missões que caibam no âmbito dos serviços do Ministério.
 
 2. Os indivíduos recrutados nos termos deste artigo não adquirem a qualidade de agentes administrativos.
 
-###### Art. 32.º - 1. O presente diploma será regulamentado dentro do prazo de noventa dias, a contar da data da sua publicação no Diário da República.
+Art. 32.º - 1. O presente diploma será regulamentado dentro do prazo de noventa dias, a contar da data da sua publicação no Diário da República.
 
 2. Até à regulamentação deste diploma, consideram-se em vigor, como legislação complementar, o [Decreto-Lei n.º 320/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1973-421074), de 26 de Junho, o [Decreto n.º 347/73](https://diariodarepublica.pt/dr/detalhe/decreto/347-1973-421599), de 11 de Junho, o Decreto-Lei n.º 48805, de 11 de Março de 1969, o [Decreto n.º 49364](https://diariodarepublica.pt/dr/detalhe/decreto/49364-1969-215771), de 8 de Novembro do mesmo ano, e os Decretos-Leis n.º 534/76, de 8 de Outubro, e 328/76, de 7 de Maio.
 
@@ -396,16 +501,16 @@ b) Direcção de Serviços Administrativos e de Pessoal.
 
 4. Enquanto não for publicado o diploma a que alude o n.º 1 deste artigo, fica o Ministro da Administração Interna autorizado a definir, por despacho orientador, publicado no Diário da República, as regras de funcionamento dos serviços a que se referem os artigos 2.º, 9.º e 22.º do presente diploma.
 
-###### Art. 33.º As dúvidas que surgirem na interpretação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, com o acordo do Ministro das Finanças e ou do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 33.º As dúvidas que surgirem na interpretação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, com o acordo do Ministro das Finanças e ou do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 34.º Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 34.º Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 35.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 35.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 4 de Agosto de 1977.**
+Promulgado em 4 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

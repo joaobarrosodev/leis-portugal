@@ -47,36 +47,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44566-1962-159960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 438516555b5545f62d62d20120e6d7cc59524e5441104e3ed4d6ebcdebfac5ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a39b1d1898ce450882fc01770ced9fc3df34629f660004c5b715c5ae026b2ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mulher
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:08Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +96,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a medalha Mérito feminino - Pela Pátria, destinada a galardoar as mulheres portuguesas que, por actos ou serviços de assinalado mérito, se distingam na defesa da integridade territorial ou do património moral da Nação.
+Artigo 1.º É criada a medalha Mérito feminino - Pela Pátria, destinada a galardoar as mulheres portuguesas que, por actos ou serviços de assinalado mérito, se distingam na defesa da integridade territorial ou do património moral da Nação.
 
 § 1.º Esta medalha pode ser concedida a título póstumo.
 
 § 2.º A título excepcional, a medalha poderá ser concedida a mulheres estrangeiras.
 
-###### Art. 2.º A medalha Mérito feminino - Pela Pátria é instituída em três classes: ouro, prata e cobre.
+Art. 2.º A medalha Mérito feminino - Pela Pátria é instituída em três classes: ouro, prata e cobre.
 
 § 1.º A medalha de ouro só poderá ser atribuída pela prática de actos que revelem excepcional coragem e heroísmo e envolvam grave e iminente risco de vida praticados na defesa da manutenção da soberania nacional.
 
@@ -111,13 +112,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º A mulher já condecorada com medalha de ouro ou de prata não pode ser agraciada com medalha de menor grau.
 
-###### Art. 3.º A medalha Mérito feminino - Pela Pátria é concedida pelo Ministro da Defesa Nacional ou por qualquer dos titulares dos três ramos das forças armadas, por sua iniciativa ou mediante proposta fundamentada de entidade de categoria igual ou superior a comandante de região militar, governador militar ou comandante militar territorial independente. Quando se trate de proposta de entidade não dependente dos departamentos das forças armadas, terá aquela de ser sancionada pelo titular da pasta de que depender o proponente.
+Art. 3.º A medalha Mérito feminino - Pela Pátria é concedida pelo Ministro da Defesa Nacional ou por qualquer dos titulares dos três ramos das forças armadas, por sua iniciativa ou mediante proposta fundamentada de entidade de categoria igual ou superior a comandante de região militar, governador militar ou comandante militar territorial independente. Quando se trate de proposta de entidade não dependente dos departamentos das forças armadas, terá aquela de ser sancionada pelo titular da pasta de que depender o proponente.
 
 § único. O gabinete do Ministro da Defesa Nacional organizará o registo e arquivo dos elementos essenciais relativos às medalhas concedidas, por forma a poder prestar aos departamentos das forças armadas encarregados da organização dos processos de concessão as informações necessárias à perfeita elaboração dos mesmos e à não sobreposição das concessões.
 
-###### Art. 4.º Perde o direito ao uso da medalha Mérito feminino - Pela Pátria a agraciada que seja condenada a pena maior.
+Art. 4.º Perde o direito ao uso da medalha Mérito feminino - Pela Pátria a agraciada que seja condenada a pena maior.
 
-###### Art. 5.º A medalha é circular, com 32 mm de diâmetro, de ouro, prata ou cobre, conforme as respectivas classes.
+Art. 5.º A medalha é circular, com 32 mm de diâmetro, de ouro, prata ou cobre, conforme as respectivas classes.
 
 A face da medalha ostenta uma mão feminina sustendo um gláudio, glorificado com uma coroa de louros. Na parte superior tem um coração carregado com as cinco quinas, representando o amor pátrio, entre os dizeres «Mérito feminino», postos em orla. Por debaixo do punho do gláudio as palavras «Pela Pátria». Toda a composição dentro de uma coroa feita de duas fiadas de folhas de carvalho e uma de louro.
 
@@ -129,12 +130,12 @@ A medalha é orlada de um resplendor de raios formando um conjunto cruciforme.
 
 § único. Os modelos das insígnias da medalha vão publicados em anexo a este diploma.
 
-###### Art. 6.º A medalha é usada do lado esquerdo do peito, suspensa de uma fita de seda moirée azul-médio em forma de laço.
+Art. 6.º A medalha é usada do lado esquerdo do peito, suspensa de uma fita de seda moirée azul-médio em forma de laço.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Kaulza Oliveira de Arriaga.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/21000/12191220.pdf))](https://files.diariodarepublica.pt/1s/1962/09/21000/12191220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/21000/12191220.pdf)
 
 Presidência do Conselho e Ministérios do Exército e da Marinha, 12 de Setembro de 1962. - O Ministro da Defesa Nacional, António de Oliveira Salazar. - O Ministro do Exército, Mário José Pereira da Silva. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

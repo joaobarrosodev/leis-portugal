@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1971-166018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fbf9480aee85e6e281021f8997e153fb78284cf5a7e1e8a70a742c1c9e2cd61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e7dc9274e7527353551ab225df257ba9096090964348dce2bcd096f38858f39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Convenção
+- Doença Profissional
+- Estudante
+- França
+- Lisboa
+- Pensão de Invalidez
+- Pensão de Velhice
+- Portugal
+- Prestações da Segurança Social
+- Prestações Familiares
+- Previdência Social
+- Segurança Social
+- Subsídio por Morte
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:251240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251240:por
+  label: Aprovado o Acordo Adicional [com alterações] à Convenção Geral entre Portugal e a França sobre Segurança Social,
+    aprovada pelo presente diploma, pelo(a) Decreto n.º 100/77 - Diário da República n.º 177/1977, Série I de 1977-08-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/100-1977-251240
+  date: '1977-08-02'
+- type: corrected_by
+  target: pt:dre:398782:por
+  label: "Rectificados o art. 5º do texto em português, e o art. 2º do texto em francês, ambos da Convenção Geral entre Portugal\
+    \ e a França sobre Segurança Social, aprovado para ratificação neste diploma, pela RECT.DD371.10.03.1972.PC, DG.IS [59]\
+    \ de 10.03.1972\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-398782
+  date: '1972-03-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:33Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +119,15 @@ de 28 de Dezembro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Geral entre Portugal e a França sobre Segurança Social, assinada em Lisboa em 29 de Julho de 1971, cujos textos em português e francês vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção Geral entre Portugal e a França sobre Segurança Social, assinada em Lisboa em 29 de Julho de 1971, cujos textos em português e francês vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 10 de Dezembro de 1971.**
+Promulgado em 10 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 CONVENÇÃO GERAL ENTRE PORTUGAL E A FRANÇA SOBRE SEGURANÇA SOCIAL
 

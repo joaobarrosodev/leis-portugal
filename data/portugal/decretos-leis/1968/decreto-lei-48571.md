@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48571-1968-264772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6615cf51528ed78f05db855531d2f518bed2dbdf1a665ab6e48faf7f896baed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 839d2e600f12aea795662e02ba31151067e036db05e868151af1ea6127fb53bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Hidrografia
+- Organização Hidrográfica Internacional
+- Portugal
+- Regulamento
+- Segurança da Navegação
+- Segurança Marítima
 relationships:
 - type: amended_by
   target: pt:dre:278055:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333087:por
+  label: "Ratificada a emenda ao artigo X (2) da Convenção Relativa à Organização Hidrográfica Internacional (aprovada, para\
+    \ ratificação, no presente diploma), aprovada na XIII Conferência Hidrográfica Internacional, e aprovada, para ratificação,\
+    \ pela Res 9/90 de 28-Mar, pelo DEC.16/90.28.03.1990.PR, DR.IS [73] de 28.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/16-1990-333087
+  date: '1990-03-28'
+- type: amended_by
+  target: pt:dre:333096:por
+  label: "Aprovada, para ratificação, a emenda do artigo X (2), aprovada na XIII Conferência Hidrográfica Internacional, da\
+    \ Convenção relativa a Organização Hidrográfica Internacional, aprovada, para ratificação, neste diploma, pela RES.9/90.28.03.1990.AR,\
+    \ DR.IS [73] de 28.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/9-1990-333096
+  date: '1990-03-28'
+- type: amended_by
+  target: pt:dre:278044:por
+  label: "Ratificado o Protocolo de Emendas, adoptado no Mónaco em 14.04.2005, à Convenção Relativa à Organização Hidrográfica\
+    \ Internacional (aprovado, para ratificação, pela Res 66/2011 de 04-Abr) pelo DEC.40/2011.04.04.2011.PR, DR.IS [66] de\
+    \ 04.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/40-2011-278044
+  date: '2011-04-04'
+- type: amended_by
+  target: pt:dre:278055:por
+  label: "Aprovado o Protocolo de Emendas, adoptado no Mónaco em 14.04.2005, à Convenção Relativa à Organização Hidrográfica\
+    \ Internacional, aprovada, para ratificação, pelo presente diploma, pela RES.66/2011.04.04.2011.AR, DR.IS [66] de 04.04.2011,\
+    \ que publicou o texto consolidado da referida convenção.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/66-2011-278055
+  date: '2011-04-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:31Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +124,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção Relativa à Organização Hidrográfica Internacional, concluída no Mónaco em 3 de Maio de 1967, cujo texto em francês e respectiva tradução para português vão ser anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção Relativa à Organização Hidrográfica Internacional, concluída no Mónaco em 3 de Maio de 1967, cujo texto em francês e respectiva tradução para português vão ser anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -863,11 +898,11 @@ Desejosos de continuarem numa base intergovernamental a sua colaboração em mat
 
 Concordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 É criada pela presente Convenção uma Organização Hidrográfica Internacional, daqui em diante designada por Organização, cuja sede será no Mónaco.
 
-ARTIGO II
+###### ARTIGO II
 
 A Organização terá um carácter consultivo e puramente técnico.
 
@@ -881,11 +916,11 @@ c) A adopção de métodos seguros e eficazes para a execução e a exploração
 
 d) O progresso das ciências relativas à hidrografia e das técnicas utilizadas nos levantamentos oceanográficos.
 
-ARTIGO III
+###### ARTIGO III
 
 São membros da Organização os Governos partes da presente Convenção.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A Organização compreende:
 
@@ -893,7 +928,7 @@ A Conferência Hidrográfica Internacional, daqui em diante designada por Confer
 
 O Bureau Hidrográfico Internacional, daqui em diante designado por Bureau, dirigido pelo comité de direcção.
 
-ARTIGO V
+###### ARTIGO V
 
 A Conferência tem por atribuições:
 
@@ -911,7 +946,7 @@ f) Adoptar pela maioria de dois terços dos Governos membros as modificações a
 
 g) Adoptar pela maioria prevista no parágrafo anterior todos os outros regulamentos particulares cujo estabelecimento se prove ser necessário, especialmente o estatuto dos directores e do pessoal do Bureau.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1. A Conferência compõe-se dos representantes dos Governos membros. Reunir-se-á em sessão ordinária todos os cinco anos. Poderá reunir-se em sessão extraordinária a pedido de um Governo membro ou do Bureau, sob reserva de aprovação da maioria dos Governos membros.
 
@@ -927,13 +962,13 @@ ARTIGO VI
 
 7. A Conferência constituirá as suas próprias comissões, incluindo a comissão de finanças mencionada no artigo VII.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1. O contrôle da gestão financeira da Organização é assegurada por uma comissão de finanças onde cada um dos Governos membros se poderá fazer representar por um delegado.
 
 2. A comissão reunir-se-á por ocasião das sessões da Conferência. Poderá reunir-se em sessão extraordinária.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Para a realização dos objectivos definidos no artigo II, o Bureau é encarregado especialmente de:
 
@@ -953,11 +988,11 @@ g) Desenvolver e facilitar a aplicação dos conhecimentos oceanográficos no in
 
 h) Cooperar com os organismos internacionais e as instituições científicas que tenham objectivos afins.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O Bureau compõe-se de um comité de direcção e do pessoal técnico e administrativo necessário à Organização.
 
-ARTIGO X
+###### ARTIGO X
 
 1. O comité de direcção administra o Bureau conforme as disposições da presente Convenção e dos seus regulamentos e as directivas dadas pela Conferência.
 
@@ -965,19 +1000,19 @@ ARTIGO X
 
 3. O presidente do comité de direcção representa a Organização.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As modalidades de funcionamento da Organização estão definidas pelo regulamento geral e pelo regulamento financeiro, que estão anexos à presente Convenção, mas que não são dela parte integrante.
 
-ARTIGO XII
+###### ARTIGO XII
 
 As línguas oficiais da Organização são o francês e o inglês.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 A Organização possui personalidade jurídica. Usufrui no território de cada um dos seus membros, e sob reserva de acordo do Governo membro interessado, privilégios e imunidades que lhe são necessários para o exercício das suas funções e para a realização dos seus objectivos.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 As despesas necessárias ao funcionamento da Organização são cobertas:
 
@@ -985,19 +1020,19 @@ a) Por contribuições ordinárias anuais dos Governos membros, segundo uma esca
 
 b) Por dádivas, legados, subvenções e outros recursos, depois da aprovação pela comissão de finanças.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Todos os Governos membros que estejam atrasados dois anos no pagamento das suas contribuições ficam privados das vantagens e prerrogativas concedidas aos Governos membros pela Convenção e pelos regulamentos, até ao pagamento das contribuições em atraso.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 O orçamento da Organização é preparado pelo comité de direcção, examinado pela comissão de finanças e aprovado pela Conferência.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Qualquer diferendo relativo à interpretação ou à aplicação da presente Convenção que não seja regulado por negociação ou pelos bons ofícios do comité de direcção será, a pedido de uma das partes em litígio, submetido a um árbitro designado pelo presidente do Tribunal de Justiça.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 1. A presente Convenção estará patente no Mónaco em 3 de Maio de 1967, e em seguida na Legação do Principado de Mónaco em Paris, de 1 de Junho a 31 de Dezembro de 1967, para ser assinada por qualquer Governo que, data de 3 de Maio de 1967, participe nos trabalhos do Bureau.
 
@@ -1011,17 +1046,17 @@ b) Assinando-a sob reserva de ratificação ou de aprovação e depositando segu
 
 4. O Governo do Principado de Mónaco informará os Governos mencionados no parágrafo 1 acima transcrito e o presidente do comité de direcção de todas as assinaturas e de todos os depósitos de instrumentos de ratificação ou de aprovação.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 1. A presente Convenção entrará em vigor três meses após a data em que vinte e oito Governos se tenham tornado membros, conforme as disposições do n.º 2 do artigo XVIII.
 
 2. O Governo do Principado de Mónaco comunicará esta data a todos os Governos signatários e ao presidente do comité de direcção.
 
-ARTIGO XX
+###### ARTIGO XX
 
 Depois da sua entrada em vigor, a presente Convenção estará aberta à adesão do Governo de qualquer Estado marítimo, que fará o pedido ao Governo do Principado de Mónaco, precisando a tonelagem das suas frotas, e cuja admissão terá de ser aprovada por dois terços dos Governos membros. A referida aprovação será notificada ao Governo interessado pelo Governo do Principado de Mónaco. A Convenção entrará em vigor para o Governo do referido Estado na data em que aquele tenha feito o depósito do instrumento de adesão junto do Governo do Principado de Mónaco, que informará todos os Governos membros e o presidente do comité de direcção.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1. Qualquer Parte contratante pode propor modificações à presente Convenção.
 
@@ -1029,13 +1064,13 @@ ARTIGO XXI
 
 3. A modificação entra em vigor para todas as Partes contratantes três meses após as notificações de aprovação de dois terços das Partes contratantes terem sido recebidas pelo Governo do Principado de Mónaco. Este informará as Partes contratantes e o presidente do comité de direcção, precisando a data da entrada em vigor da modificação.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 1. Após a expiração de um prazo de cinco anos a partir da sua entrada em vigor, a presente Convenção poderá ser denunciada por qualquer das Partes contratantes com um pré-aviso, pelo menos, de um ano, por meio de uma notificação dirigida ao Governo do Principado de Mónaco. A denúncia terá efeito a partir de 1 de Janeiro seguinte à expiração do prazo do pré-aviso e originará a renúncia do Governo interessado aos direitos e vantagens conferidos pela qualidade de membro da Organização.
 
 2. O Governo do Principado de Mónaco informará as Partes contratantes e o presidente do comité de direcção de toda a notificação de denúncia por ele recebida.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 Após a entrada em vigor da presente Convenção, esta será registada pelo Governo do Principado de Mónaco junto do Secretariado das Nações Unidas, conforme o disposto no artigo 102.º da Carta das Nações Unidas.
 

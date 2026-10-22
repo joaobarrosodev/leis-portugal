@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11500/13511353.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1982-392399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cee5ebfc08b56d266086413d85d5570054affbbd04603091c00a594c04c70975
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d670fc9167215e41f56d16b8fd6413cf08c32a31c39abfdc0b2b9f5f1814c51f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Pauta Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:04Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +120,13 @@ Considerando as alterações propostas ao texto da nomenclatura para a classific
 
 O Governo, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e em execução da alínea c) do artigo 22.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, decreta o seguinte:
 
-###### Artigo 1.º O texto da Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, com a redacção constante do [Decreto-Lei n.º 542/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1977-276612), de 31 de Dezembro, é alterado como segue:
+Artigo 1.º O texto da Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, com a redacção constante do [Decreto-Lei n.º 542/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1977-276612), de 31 de Dezembro, é alterado como segue:
 
 SUMÁRIO
 
 #### SECÇÃO VI ...:
 
-### CAPÍTULO 33.º - Óleos essenciais e resinóides; produtos de perfumaria ou de toucador preparados e cosméticos preparados.
+CAPÍTULO 33.º - Óleos essenciais e resinóides; produtos de perfumaria ou de toucador preparados e cosméticos preparados.
 
 Regras gerais para interpretação da Pauta
 
@@ -228,17 +256,17 @@ Notas:
 
 ...
 
-Artigo pautal 38.08:
+###### Artigo pautal 38.08:
 
 Colofónias e ácidos resínicos e seus derivados, com excepção das gomas-ésteres do n.º 39.05; essências de colofónia e óleos de colofónia.
 
-Artigo pautal 40.01:
+###### Artigo pautal 40.01:
 
 Látex de borracha natural, mesmo adicionado de látex de borracha sintética; látex de borracha natural pré-vulcanizado; borracha natural, balata, guta-percha e gomas naturais análogas:
 
 ...
 
-Artigo pautal 40.08:
+###### Artigo pautal 40.08:
 
 Placas, folhas, tiras, varas e perfis de borracha vulcanizada não endurecida.
 
@@ -300,16 +328,16 @@ Notas:
 
 *4 - A tributação das mercadorias incluídas neste capítulo é feita tomando por base o peso real, com excepção, porém, das abrangidas pelos artigos 67.01.04, 67.01.05 e 67.02.01.
 
-Artigo pautal 90.16:
+###### Artigo pautal 90.16:
 
 Instrumentos para desenho, traçado e cálculo (tais como máquinas para desenho, pantógrafos, estojos de desenho, réguas e quadrantes de cálculo); máquinas, aparelhos e instrumentos de medida e de verificação não especificados neste capítulo (tais como máquinas para equilibrar peças, planímetros, micrómetros, calibres, padrões e metros); projectores de perfis:
 
-###### Art. 2.º São eliminados os artigos pautais 45.02.01 e 45.02.02 da Pauta dos Direitos de Importação.
+Art. 2.º São eliminados os artigos pautais 45.02.01 e 45.02.02 da Pauta dos Direitos de Importação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Maio de 1982.**
+Promulgado em 5 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

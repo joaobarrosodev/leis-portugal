@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/25700/23382339.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1978-327343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31e68814cb8842edfedca1f98beb267d4b5be624f47822166998f5eaecaf63d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb13f2e0d9316add593b7b2863eef85273f5ad561cbee3dc744fc8560bbcc73a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Militar
+- Pensionista
+- PSP
+- Remuneração
+- Remuneração Acessória
+- Subsídio de Férias
 relationships:
 - type: amended_by
   target: pt:dre:491437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491437:por
+  label: "Extinto, a partir de 01.01.2010, o suplemento a que se refere o art. 3º deste diploma (tornado extensivo ao pessoal\
+    \ não policial pelos Dec Lei 172-F/86 de 30-Jun e 248/87 de 19-Jun), que é revogado, a partir daquela data, pelo DEC LEI.299/2009.14.10.2009.MAI,\
+    \ DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2009-491437
+  date: '2009-10-14'
+- type: cites
+  target: pt:dre:310386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:14Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +115,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os vencimentos base a abonar mensalmente aos oficiais do Exército em serviço na Polícia de Segurança Pública serão dos quantitativos fixados para os oficiais das forças armadas.
+Artigo 1.º - 1 - Os vencimentos base a abonar mensalmente aos oficiais do Exército em serviço na Polícia de Segurança Pública serão dos quantitativos fixados para os oficiais das forças armadas.
 
 2 - Os vencimentos base a abonar mensalmente aos comissários e agentes da Polícia de Segurança Pública serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/25700/23382339.pdf))](https://files.diariodarepublica.pt/1s/1978/11/25700/23382339.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/25700/23382339.pdf)
 
 3 - Os comandantes de secção e adjuntos dos comandos distritais da Polícia de Segurança Pública, quando oficiais subalternos, serão abonados do vencimento base do primeiro-comissário.
 
 4 - Os guardas provisórios serão abonados do vencimento mensal de 6800$00.
 
-###### Art. 2.º - 1 - O disposto no artigo anterior produzirá efeitos desde 1 de Janeiro de 1978.
+Art. 2.º - 1 - O disposto no artigo anterior produzirá efeitos desde 1 de Janeiro de 1978.
 
 2 - Os abonos correspondentes aos efeitos retroactivos do presente diploma poderão ser pagos em prestações até ao final do ano em curso, mediante regras a estabelecer por despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
 
-###### Art. 3.º - 1 - Os oficiais do Exército em comissão normal de serviço na Polícia de Segurança Pública e os oficiais integrados a título definitivo na mesma, nos termos do [Decreto-Lei n.º 632/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386), de 14 de Novembro, bem como os comissários e agentes em serviço activo, com as excepções definidas no número seguinte, percebem um «suplemento por comissão de serviço policial» do quantitativo mensal correspondente às percentagens abaixo designadas, arredondadas para a centena de escudos superior, dos vencimentos base de capitão, no caso das alíneas a), b) e c), e de primeiro-subchefe, para as alíneas d) e e):
+Art. 3.º - 1 - Os oficiais do Exército em comissão normal de serviço na Polícia de Segurança Pública e os oficiais integrados a título definitivo na mesma, nos termos do [Decreto-Lei n.º 632/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1975-310386), de 14 de Novembro, bem como os comissários e agentes em serviço activo, com as excepções definidas no número seguinte, percebem um «suplemento por comissão de serviço policial» do quantitativo mensal correspondente às percentagens abaixo designadas, arredondadas para a centena de escudos superior, dos vencimentos base de capitão, no caso das alíneas a), b) e c), e de primeiro-subchefe, para as alíneas d) e e):
 
 ... Percentagens
 
@@ -132,28 +149,28 @@ e) Guardas ... 5
 
 4 - O suplemento por comissão de serviço policial é considerado no abono dos subsídios de férias e de Natal.
 
-###### Art. 4.º As pensões dos militares na situação de reserva na efectividade de serviço, quando na prestação deste estejam subordinados a normas regulamentares idênticas às estabelecidas para os militares do activo, serão acrescidas no quantitativo necessário por forma a igualar as remunerações que lhes corresponderiam se se encontrassem na situação do activo.
+Art. 4.º As pensões dos militares na situação de reserva na efectividade de serviço, quando na prestação deste estejam subordinados a normas regulamentares idênticas às estabelecidas para os militares do activo, serão acrescidas no quantitativo necessário por forma a igualar as remunerações que lhes corresponderiam se se encontrassem na situação do activo.
 
-###### Art. 5.º - 1 - São reduzidas no quantitativo correspondente a 30% do aumento do vencimento base as remunerações acessórias não previstas em lei ou decreto-lei, independentemente das formas que revistam e dos motivos que determinaram a sua concessão ou das rubricas orçamentais por onde são processadas.
+Art. 5.º - 1 - São reduzidas no quantitativo correspondente a 30% do aumento do vencimento base as remunerações acessórias não previstas em lei ou decreto-lei, independentemente das formas que revistam e dos motivos que determinaram a sua concessão ou das rubricas orçamentais por onde são processadas.
 
 2 - É proibida a criação, aumento ou extensão das remunerações acessórias, salvo em casos devidamente fundamentados em propostas que mereçam a aprovação dos Ministros da Administração Interna e das Finanças e do Plano, e sempre mediante a publicação de decreto-lei.
 
 3 - O disposto no presente artigo prevalece sobre toda e qualquer disposição especial em contrário.
 
-###### Art. 6.º Em caso algum a aplicação do presente diploma poderá implicar diminuição da retribuição global actualmente percebida.
+Art. 6.º Em caso algum a aplicação do presente diploma poderá implicar diminuição da retribuição global actualmente percebida.
 
-###### Art. 7.º O disposto nos artigos 3.º, 4.º e 5.º deste diploma produz efeitos a partir de 1 de Junho do corrente ano.
+Art. 7.º O disposto nos artigos 3.º, 4.º e 5.º deste diploma produz efeitos a partir de 1 de Junho do corrente ano.
 
-###### Art. 8.º Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentadas para pagamento dos respectivos vencimentos.
+Art. 8.º Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis para a execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentadas para pagamento dos respectivos vencimentos.
 
-###### Art. 9.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, devendo, contudo, os assuntos ser sempre presentes ao Ministro das Finanças e do Plano quando envolverem encargos financeiros.
+Art. 9.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, devendo, contudo, os assuntos ser sempre presentes ao Ministro das Finanças e do Plano quando envolverem encargos financeiros.
 
-###### Art. 10.º O subsídio de férias a abonar ao pessoal abrangido pelo presente diploma será pago, no corrente ano, no mês em que for publicado.
+Art. 10.º O subsídio de férias a abonar ao pessoal abrangido pelo presente diploma será pago, no corrente ano, no mês em que for publicado.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - António Gonçalves Ribeiro.
 
-**Promulgado em 25 de Outubro de 1978.**
+Promulgado em 25 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

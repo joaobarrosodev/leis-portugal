@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/09/21600/12511251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49240-1969-214030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1e6c08d5cec102712afa435cb2d2bc31d6fd6a7bc3d88420d71464793b916a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cb0f898c16592ec352368d3fbc7e93a1b46b8e31f1ff1c8cdb4c1a109cebdf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Financeira do Estado
+- Contabilidade Pública
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:565980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:281447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:565980:por
+  label: "Revogado pelo DEC LEI.332/90.29.10.1990.MF, DR.IS [250] de 29.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-1990-565980
+  date: '1990-10-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:47Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +109,22 @@ Considerando que é aconselhável, para acelerar o fomento económico nacional, 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Fica o Ministro das Finanças autorizado a aplicar as receitas depositadas nos cofres públicos, com consignação a organismos do Estado e outras disponibilidades existentes na Caixa Geral do Tesouro, cuja utilização não esteja prevista a curto prazo, em promissórias de fomento nacional, em certificados especiais da dívida pública, na aquisição de outros títulos do Estado, na constituição de depósitos a prazo e ainda noutras aplicações rentáveis.
+Artigo 1.º - 1. Fica o Ministro das Finanças autorizado a aplicar as receitas depositadas nos cofres públicos, com consignação a organismos do Estado e outras disponibilidades existentes na Caixa Geral do Tesouro, cuja utilização não esteja prevista a curto prazo, em promissórias de fomento nacional, em certificados especiais da dívida pública, na aquisição de outros títulos do Estado, na constituição de depósitos a prazo e ainda noutras aplicações rentáveis.
 
 2. Sempre que as operações financeiras referidas no número anterior se concretizem através da aquisição de quaisquer títulos de crédito, não deverá ser feita a sua incorporação na carteira do Estado, podendo ser alienados, a todo o momento, por venda ou troca por outros títulos de crédito emitidos por instituições públicas ou privadas.
 
-###### Art. 2.º A emissão das promissórias de fomento nacional e dos certificados especiais da dívida pública subordinar-se-á, na parte aplicável, às disposições contidas, respectivamente, no [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960, e no artigo 38.º e seus parágrafos do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
+Art. 2.º A emissão das promissórias de fomento nacional e dos certificados especiais da dívida pública subordinar-se-á, na parte aplicável, às disposições contidas, respectivamente, no [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960, e no artigo 38.º e seus parágrafos do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
-###### Art. 3.º - 1. Os rendimentos provenientes das operações mencionadas no artigo 1.º serão depositadas nos cofres do Tesouro e escriturados em conta especial de operações de tesouraria, na qual se fará o movimento das diferenças provenientes de flutuação de valores.
+Art. 3.º - 1. Os rendimentos provenientes das operações mencionadas no artigo 1.º serão depositadas nos cofres do Tesouro e escriturados em conta especial de operações de tesouraria, na qual se fará o movimento das diferenças provenientes de flutuação de valores.
 
 2. Os excedentes que venham a acumular-se nesta conta poderão ser utilizados como recursos ordinários do Orçamento Geral do Estado, mediante transferência determinada em despacho do Ministro das Finanças.
 
-###### Art. 4.º O serviço referente às operações autorizadas por este diploma ficará a cargo da Direcção-Geral da Fazenda Pública, que, de acordo com a Direcção-Geral da Contabilidade Pública, tornará as providências necessárias para se abrirem na escrita do Estado, em operações de tesouraria, as contas necessárias ao registo destas operações.
+Art. 4.º O serviço referente às operações autorizadas por este diploma ficará a cargo da Direcção-Geral da Fazenda Pública, que, de acordo com a Direcção-Geral da Contabilidade Pública, tornará as providências necessárias para se abrirem na escrita do Estado, em operações de tesouraria, as contas necessárias ao registo destas operações.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 3 de Setembro de 1969.**
+Promulgado em 3 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1973-422017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e4713a0d106c0f1d1a53609b0f1efcdf3f56ffdf331f6a0c33b89d42fe68821
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0115812c7e4514d2d5b9914293ca8676ae26653a959c2dda291e324526ab6e17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Barcelos
+- Cascais
+- Círculo Judicial
+- Coimbra
+- Criação de Lugares
+- Criação de Serviços
+- Distrito Judicial
+- Espinho
+- Estatuto Judiciário
+- Formas de Provimento
+- Jurisdição
+- Lisboa
+- Loures
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Matosinhos
+- Ministério Público
+- Nordeste
+- Oeiras
+- Oliveira de Azeméis
+- Orgânica
+- Organização Judiciária
+- Organização Tutelar de Menores
+- Polícia Judiciária
+- Portimão
+- Porto
+- Porto Santo
+- Santo Tirso
+- Subsídio de Viagem
+- Supremo Tribunal de Justiça
+- Tomar
+- Tribunal da Relação
+- Tribunal de Comarca
+- Tribunal de Família
+- Tribunal de Menores
+- VILA do Conde
+- VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:602770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602770:por
+  label: "Extinta a comarca de Grândola, criada pelo presente diploma, pelo DEC LEI.25/2009.26.01.2009.MJ, DR.IS [17] de 26.01.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2009-602770
+  date: '2009-01-26'
+- type: cites
+  target: pt:dre:141866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680658:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:421252:por
+  label: "Rectificado [no referente ao nº 1 do art. 7º e ao art. 19º - este na nova redacção que conferiu ao nº 1 do art.\
+    \ 616º do Estatuto Judiciário, aprovado pelo Dec Lei 44278 de 14-Abr de 1962] pela RECT.DD353.30.06.1973.PC, DG.IS [152]\
+    \ de 30.06.1973\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-421252
+  date: '1973-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:36Z'
   warnings: []
   errors: []
 ---
@@ -190,57 +273,57 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. No Supremo Tribunal de Justiça são criados três lugares de juiz conselheiro.
+Artigo 1.º - 1. No Supremo Tribunal de Justiça são criados três lugares de juiz conselheiro.
 
 2. São criados dois lugares de juiz desembargador na Relação de Lisboa, três na do Porto e dois na de Coimbra.
 
-###### Art. 2.º - 1. É criado um distrito judicial com sede em Évora.
+Art. 2.º - 1. É criado um distrito judicial com sede em Évora.
 
 2. As comarcas abrangidas pelo novo distrito judicial e pelos distritos judiciais de Lisboa, Porto e Coimbra são as constantes do mapa III anexo ao Estatuto Judiciário.
 
 3. O quadro de magistrados do Tribunal da Relação de Évora é fixado no mapa I do referido Estatuto.
 
-###### Art. 3.º Com a classe, área, sede e composição resultantes dos mapas anexos ao Estatuto Judiciário são criadas as comarcas de Albufeira, Almeida, Alvaiázere, Armamar, Boticas, Carrazeda de Ansiães, Castelo de Paiva, Condeixa-a-Nova, Espinho, Ferreira do Alentejo, Ferreira do Zêzere, Grândola, Mação, Marinha Grande, Matosinhos, Moita, Murça, Penacova, Ponte da Barca, S. João da Madeira, Sátão, Tábua, Vila Nova de Foz Côa, Vila Nova de Gaia e Vouzela.
+Art. 3.º Com a classe, área, sede e composição resultantes dos mapas anexos ao Estatuto Judiciário são criadas as comarcas de Albufeira, Almeida, Alvaiázere, Armamar, Boticas, Carrazeda de Ansiães, Castelo de Paiva, Condeixa-a-Nova, Espinho, Ferreira do Alentejo, Ferreira do Zêzere, Grândola, Mação, Marinha Grande, Matosinhos, Moita, Murça, Penacova, Ponte da Barca, S. João da Madeira, Sátão, Tábua, Vila Nova de Foz Côa, Vila Nova de Gaia e Vouzela.
 
-###### Art. 4.º - 1. As comarcas de Almada, Beja, Bragança, Cascais, Castelo Branco, Covilhã, Évora, Faro, Guarda, Oeiras, Oliveira de Azeméis, Ovar, Pombal, Portalegre, Santo Tirso, Sintra e Vila Franca de Xira passam a ser consideradas de 1.ª classe.
+Art. 4.º - 1. As comarcas de Almada, Beja, Bragança, Cascais, Castelo Branco, Covilhã, Évora, Faro, Guarda, Oeiras, Oliveira de Azeméis, Ovar, Pombal, Portalegre, Santo Tirso, Sintra e Vila Franca de Xira passam a ser consideradas de 1.ª classe.
 
 2. Passam a ser consideradas de 2.ª classe as comarcas de Alenquer, Benavente, Cartaxo, Elvas, Estarreja, Felgueiras, Mafra, Paredes, Rio Maior, Santiago do Cacém e Seixal.
 
-###### Art. 5.º - 1. O tribunal da comarca do Funchal é constituído por três juízos, que têm competência cumulativa em matéria cível e criminal.
+Art. 5.º - 1. O tribunal da comarca do Funchal é constituído por três juízos, que têm competência cumulativa em matéria cível e criminal.
 
 2. Os tribunais das comarcas de Barcelos, Loures, Oeiras, Sintra, Vila Franca de Xira e Vila Nova de Famalicão são consttuídos por dois juízos, cuja competência é fixada nos termos do número anterior.
 
-###### Art. 6.º - 1. Cada vara cível dos tribunais cíveis das comarcas de Lisboa e Porto será constituída por três corregedores: um presidente e dois adjuntos.
+Art. 6.º - 1. Cada vara cível dos tribunais cíveis das comarcas de Lisboa e Porto será constituída por três corregedores: um presidente e dois adjuntos.
 
 2. No tribunal cível da comarca de Lisboa são criados os 12.º e 13.º juízos cíveis.
 
-###### Art. 7.º - 1. São criados os 4.º e 5.º juízos do tribunal de família de Lisboa e os 2.º e 3.º juízos do tribunal de família do Proto.
+Art. 7.º - 1. São criados os 4.º e 5.º juízos do tribunal de família de Lisboa e os 2.º e 3.º juízos do tribunal de família do Proto.
 
 2. A área de jurisdição do tribunal de família de Lisboa passa a abranger as comarcas de Cascais, Loures e Oeiras; a do tribunal de família do Porto, as comarcas de Espinho, Santo Tirso e Vila do Conde.
 
-###### Art. 8.º São criados no tribunal criminal da comarca de Lisboa o 3.º juízo de polícia e os 4.º e 5.º juízos de instrução criminal e no tribunal criminal da comarca do Porto o 2.º juízo de polícia e os 3.º e 4.º juízos de instrução criminal.
+Art. 8.º São criados no tribunal criminal da comarca de Lisboa o 3.º juízo de polícia e os 4.º e 5.º juízos de instrução criminal e no tribunal criminal da comarca do Porto o 2.º juízo de polícia e os 3.º e 4.º juízos de instrução criminal.
 
-###### Art. 9.º - 1. São criados os círculos judiciais de Barcelos, Barreiro, Oliveira de Azeméis, Portimão e Tomar e o 3.º Circulo Judicial de Lisboa.
+Art. 9.º - 1. São criados os círculos judiciais de Barcelos, Barreiro, Oliveira de Azeméis, Portimão e Tomar e o 3.º Circulo Judicial de Lisboa.
 
 2. A sede e composição dos novos círculos judiciais e as dos já existentes são as fixadas nos mapas anexos ao Estatuto Judiciário.
 
-###### Art. 10.º Com a área, sede e composição constantes do mapa VIII do Estatuto Judiciário, são criados os julgados municipais de Nordeste e Porto Santo.
+Art. 10.º Com a área, sede e composição constantes do mapa VIII do Estatuto Judiciário, são criados os julgados municipais de Nordeste e Porto Santo.
 
-###### Art. 11.º Em cada um dos tribunais tutelares centrais de menores de Lisboa e Porto é criado um 3.º juízo.
+Art. 11.º Em cada um dos tribunais tutelares centrais de menores de Lisboa e Porto é criado um 3.º juízo.
 
-###### Art. 12.º A área de jurisdição do tribunal de família, da câmara de falências e do tribunal tutelar central de menores do Porto abrange as comarcas de Matosinhos e Vila Nova de Gaia.
+Art. 12.º A área de jurisdição do tribunal de família, da câmara de falências e do tribunal tutelar central de menores do Porto abrange as comarcas de Matosinhos e Vila Nova de Gaia.
 
-###### Art. 13.º - 1. Nas áreas das comarcas de Matosinhos e Vila Nova de Gaia compete à Polícia Judiciária a investigação e instrução de crimes de que não sejam conhecidos os agentes e a que corresponda a forma do processo correccional ou de querela, a organização dos processos de segurança e o exercício da prevenção criminal, sem prejuízo da competência legal que lhe caiba relativamente a outros casos.
+Art. 13.º - 1. Nas áreas das comarcas de Matosinhos e Vila Nova de Gaia compete à Polícia Judiciária a investigação e instrução de crimes de que não sejam conhecidos os agentes e a que corresponda a forma do processo correccional ou de querela, a organização dos processos de segurança e o exercício da prevenção criminal, sem prejuízo da competência legal que lhe caiba relativamente a outros casos.
 
 2. Aos processos organizados nos termos do número anterior é aplicável o disposto nos artigos 17.º, 18.º e 20.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
 
 3. Sem prejuízo da competência que actualmente cabe à Polícia Judiciária, serão fixadas em portaria do Ministro da Justiça as condições de que depende o alargamento dessa competência, quanto às matérias referidas nos números anteriores, às comarcas de Espinho, Póvoa de Varzim e Vila do Conde, do distrito judicial do Porto, às comarcas de Almada, Barreiro, Cascais, Funchal, Loures, Oeiras, Ponta do Sol, Santa Cruz, S. Vicente, Seixal, Sintra e Vila Franca de Xira, do distrito judicial de Lisboa, e às comarcas de Albufeira, Faro, Lagos, Loulé, Moita, Montijo, Olhão, Portimão, Silves, Tavira e Vila Real de Santo António, do distrito judicial de Évora.
 
-###### Art. 14.º É aplicável aos tribunais das novas comarcas, quanto aos boletins do registo criminal, o disposto no artigo 758.º do Estatuto Judiciário.
+Art. 14.º É aplicável aos tribunais das novas comarcas, quanto aos boletins do registo criminal, o disposto no artigo 758.º do Estatuto Judiciário.
 
-###### Art. 15.º Ao primeiro provimento de todos os lugares de funcionários de justiça dos tribunais e juízos criados pelo presente decreto-lei aplica-se o disposto no artigo 767.º do Estatuto Judiciário.
+Art. 15.º Ao primeiro provimento de todos os lugares de funcionários de justiça dos tribunais e juízos criados pelo presente decreto-lei aplica-se o disposto no artigo 767.º do Estatuto Judiciário.
 
-###### Art. 16.º - 1. Os lugares aumentados nos quadros de juízes dos tribunais superiores e das varas cíveis, em virtude do disposto nos artigos 1.º e 6.º, n.º 1, só serão preenchidos depois de declaradas abertas as correspondentes vagas, em portaria do Ministro da Justiça.
+Art. 16.º - 1. Os lugares aumentados nos quadros de juízes dos tribunais superiores e das varas cíveis, em virtude do disposto nos artigos 1.º e 6.º, n.º 1, só serão preenchidos depois de declaradas abertas as correspondentes vagas, em portaria do Ministro da Justiça.
 
 2. Os quadros do pessoal das secretarias dos tribunais e juízos criados por este diploma serão fixados em portaria do Ministro da Justiça.
 
@@ -248,21 +331,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. A extensão de jurisdição prevista no n.º 2 do artigo 7.º fica dependente de portaria do Ministro da Justiça que ordene essa extensão e fixe os respectivos termos ou modalidades.
 
-###### Art. 17.º - 1. Até ao começo do funcionamento dos novos tribunais, juízos e círculos, conservam os anteriores que abranjam as áreas que vão integrar-se nas novas jurisdições a competência de que gozam actualmente, a qual se manterá, depois disso, quanto às acções que neles estejam pendentes, sem prejuízo do disposto no n.º 3.
+Art. 17.º - 1. Até ao começo do funcionamento dos novos tribunais, juízos e círculos, conservam os anteriores que abranjam as áreas que vão integrar-se nas novas jurisdições a competência de que gozam actualmente, a qual se manterá, depois disso, quanto às acções que neles estejam pendentes, sem prejuízo do disposto no n.º 3.
 
 2. Enquanto não entrarem em funcionamento todos os juízos criados pelo presente diploma nos tribunais de família de Lisboa e Porto, o colectivo nestes tribunais será constituído de acordo com as determinações do Conselho Superior Judiciário.
 
 3. Os processos e demais papéis em andamento ou existentes nos tribunais municipais onde por este diploma são criadas comarcas que os substituem transitam para a comarca que a cada um suceder, logo que esta entre em funcionamento.
 
-###### Art. 18.º Os magistrados que se acharem colocados em comarcas de classe diversa daquela que pessoalmente têm, em virtude de entrada em vigor de disposições constantes deste decreto-lei ou por ele determinadas, continuarão servindo nos seus lugares, sendo-lhes aplicável o disposto no artigo 753.º do Estatuto Judiciário.
+Art. 18.º Os magistrados que se acharem colocados em comarcas de classe diversa daquela que pessoalmente têm, em virtude de entrada em vigor de disposições constantes deste decreto-lei ou por ele determinadas, continuarão servindo nos seus lugares, sendo-lhes aplicável o disposto no artigo 753.º do Estatuto Judiciário.
 
-###### Art. 19.º As disposições adiante referidas do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Art. 19.º As disposições adiante referidas do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 3.º Os distritos judiciais têm as sedes em Lisboa, Porto, Coimbra e Évora e abrangem as comarcas constantes do mapa anexo a este Estatuto; em cada um deles exerce jurisdição um tribunal de Relação.
+Art. 3.º Os distritos judiciais têm as sedes em Lisboa, Porto, Coimbra e Évora e abrangem as comarcas constantes do mapa anexo a este Estatuto; em cada um deles exerce jurisdição um tribunal de Relação.
 
 ...
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. Nas comarcas de Lisboa e Porto há um tribunal cível, um tribunal criminal e um tribunal de família, com a composição descrita no mapa anexo ao presente Estatuto. Junto do tribunal cível funciona uma câmara de falências. A área de jurisdição dos tribunais de família e câmaras pode exceder a da comarca onde têm a sua sede.
 
@@ -270,19 +353,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. ...
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 2. O Tribunal de Execução das Penas de Lisboa compõe-se de três juízos e exerce jurisdição na área dos distritos judiciais de Lisboa, Coimbra e Évora; a jurisdição do tribunal do Porto abrange a área do respectivo distrito judicial.
 
 ...
 
-###### Art. 31.º - 1. O tribunal colectivo das varas cíveis é constituído pelo presidente da vara por onde corre o processo e pelos dois corregedores-adjuntos da vara.
+Art. 31.º - 1. O tribunal colectivo das varas cíveis é constituído pelo presidente da vara por onde corre o processo e pelos dois corregedores-adjuntos da vara.
 
 2. ...
 
 ...
 
-###### Art. 36.º - 1. ...
+Art. 36.º - 1. ...
 
 2. Independentemente da repartição do serviço de preparação dos processos entrados na vara pelos corregedores que nela funcionam, concluído o julgamento da matéria de facto, o processo é distribuído entre os juízes que constituem o colectivo para os fins do n.º 5 do artigo 653.º e do n.º 2 do artigo 658.º do Código de Processo Civil.
 
@@ -292,13 +375,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 38.º - 1. O plenário do Tribunal Criminal de Lisboa exerce jurisdição na área dos distritos judiciais de Lisboa e Évora e o do Porto na área dos distritos judiciais do Porto e Coimbra.
+Art. 38.º - 1. O plenário do Tribunal Criminal de Lisboa exerce jurisdição na área dos distritos judiciais de Lisboa e Évora e o do Porto na área dos distritos judiciais do Porto e Coimbra.
 
 2. ...
 
 ...
 
-###### Art. 46.º - 1. No tribunal cível de Lisboa os juízes substituem-se uns aos outros, quando as suas faltas ou impedimentos não excedam o limite de quinze dias, nos termos seguintes:
+Art. 46.º - 1. No tribunal cível de Lisboa os juízes substituem-se uns aos outros, quando as suas faltas ou impedimentos não excedam o limite de quinze dias, nos termos seguintes:
 
 a) Os presidentes das varas são substituídos pelos respectivos adjuntos, começando pelo mais antigo;
 
@@ -310,13 +393,13 @@ d) Como presidente do tribunal colectivo, os juízes dos juízos cíveis são su
 
 2. Os juízes dos tribunais de família substituem-se nos termos das alíneas a) e c) do número anterior; não sendo a substituição possível ou suficiente, o presidente da Relação designará o substituto.
 
-###### Art. 47.º No tribunal criminal de Lisboa, as substituições são feitas nos termos seguintes:
+Art. 47.º No tribunal criminal de Lisboa, as substituições são feitas nos termos seguintes:
 
 ...
 
 d) Os juízes dos juízos de policia, nos termos da alínea c) do n.º 1 do artigo 46.º, e, estando todos impedidos, são substituídos pelos juízes do Tribunal de Execução das Penas, a começar pelo mais moderno.
 
-###### Art. 48.º - 1. É aplicável ao tribunal cível e ao tribunal de família do Porto o disposto no artigo 46.º, com as necessárias adaptações.
+Art. 48.º - 1. É aplicável ao tribunal cível e ao tribunal de família do Porto o disposto no artigo 46.º, com as necessárias adaptações.
 
 2. Ao tribunal criminal da mesma comarca são aplicáveis as regras das alíneas a) a d) do artigo 47.º
 
@@ -326,7 +409,7 @@ Estando impedidos todos os juízes dos juízos de policia, são chamados como su
 
 3. ...
 
-###### Art. 49.º - 1. Quando as faltas ou impedimentos excedam o limite fixado no artigo 46.º ou quando, fora desse caso, as conveniências do serviço o exijam, os juízes das comarcas de Lisboa e Porto e daquelas em que haja mais de um juízo serão substituídos por qualquer outro juiz em exercício na comarca ou conservador dos registos predial e civil que o presidente da Relação designar.
+Art. 49.º - 1. Quando as faltas ou impedimentos excedam o limite fixado no artigo 46.º ou quando, fora desse caso, as conveniências do serviço o exijam, os juízes das comarcas de Lisboa e Porto e daquelas em que haja mais de um juízo serão substituídos por qualquer outro juiz em exercício na comarca ou conservador dos registos predial e civil que o presidente da Relação designar.
 
 2. Quando na sede da comarca em que se tornar necessária a substituição, fora de Lisboa e Porto, houver tribunal tutelar central de menores, o juiz deste assegurará a substituição, na falta ou impedimento do juiz ou juízes de direito
 
@@ -334,7 +417,7 @@ do tribunal dessa comarca.
 
 ...
 
-###### Art. 141.º - 1. ...
+Art. 141.º - 1. ...
 
 2. ...
 
@@ -348,7 +431,7 @@ do tribunal dessa comarca.
 
 ...
 
-###### Art. 167.º - 1. Enquanto o Ministério da Justiça, através dos serviços competentes, não construir casas de renda limitada para residência dos magistrados, todos os municípios são obrigados a fornecer casas mobiladas para habitação dos magistrados judiciais da comarca ou sede do círculo e a prover à sua conservação, mediante o pagamento da respectiva renda, que não deve exceder um décimo dos vencimentos orçamentais dos magistrados. Em Lisboa, Porto, Coimbra e Évora, o Ministro da Justiça fixará os termos em que, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, é efectuada a compensação aos magistrados que desempenham cargos dependentes do Ministério da Justiça, enquanto lhes não seja fornecida habitação de harmonia com o disposto neste artigo.
+Art. 167.º - 1. Enquanto o Ministério da Justiça, através dos serviços competentes, não construir casas de renda limitada para residência dos magistrados, todos os municípios são obrigados a fornecer casas mobiladas para habitação dos magistrados judiciais da comarca ou sede do círculo e a prover à sua conservação, mediante o pagamento da respectiva renda, que não deve exceder um décimo dos vencimentos orçamentais dos magistrados. Em Lisboa, Porto, Coimbra e Évora, o Ministro da Justiça fixará os termos em que, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, é efectuada a compensação aos magistrados que desempenham cargos dependentes do Ministério da Justiça, enquanto lhes não seja fornecida habitação de harmonia com o disposto neste artigo.
 
 2. ...
 
@@ -360,7 +443,7 @@ do tribunal dessa comarca.
 
 ...
 
-###### Art. 197.º - 1. O procurador-geral é coadjuvado no exercício das suas funções por dezanove ajudantes, distribuídos pela forma seguinte:
+Art. 197.º - 1. O procurador-geral é coadjuvado no exercício das suas funções por dezanove ajudantes, distribuídos pela forma seguinte:
 
 a) ...
 
@@ -374,7 +457,7 @@ e) Oito desempenham o serviço de consulta jurídica como auditores junto dos v�
 
 2. ...
 
-###### Art. 198.º - 1. ...
+Art. 198.º - 1. ...
 
 2. ...
 
@@ -382,13 +465,13 @@ e) Oito desempenham o serviço de consulta jurídica como auditores junto dos v�
 
 ...
 
-###### Art. 400.º - 1. O Conselho Superior Judiciário é constituído por um presidente, que é o presidente do Supremo Tribunal de Justiça, um vice-presidente, quatro vogais (que serão os presidentes das Relações de Lisboa, Porto, Coimbra e Évora) e um secretário, juiz de direito de 1.ª instância, nomeado pelo Ministro da Justiça em comissão de serviço permanente.
+Art. 400.º - 1. O Conselho Superior Judiciário é constituído por um presidente, que é o presidente do Supremo Tribunal de Justiça, um vice-presidente, quatro vogais (que serão os presidentes das Relações de Lisboa, Porto, Coimbra e Évora) e um secretário, juiz de direito de 1.ª instância, nomeado pelo Ministro da Justiça em comissão de serviço permanente.
 
 2. ...
 
 ...
 
-###### Art. 516.º. - 1. ...
+Art. 516.º. - 1. ...
 
 2. O Supremo Conselho Disciplinar é constituído por todos os membros do Conselho Superior Judiciário e pelos cinco juízes mais antigos do Supremo Tribunal de Justiça.
 
@@ -396,7 +479,7 @@ e) Oito desempenham o serviço de consulta jurídica como auditores junto dos v�
 
 ...
 
-###### Art. 614.º - 1. O Conselho Geral tem a sede em Lisboa e é constituído pelo presidente e onze membros, dos quais seis são eleitos pela assembleia geral e cinco nomeados pelo presidente da Ordem, devendo um destes ser advogado inscrito pelo distrito forense do Porto, outro pelo de Coimbra, outro pelo de Évora e um outro por qualquer comarca, com exclusão das que correspondam a sedes de Relação.
+Art. 614.º - 1. O Conselho Geral tem a sede em Lisboa e é constituído pelo presidente e onze membros, dos quais seis são eleitos pela assembleia geral e cinco nomeados pelo presidente da Ordem, devendo um destes ser advogado inscrito pelo distrito forense do Porto, outro pelo de Coimbra, outro pelo de Évora e um outro por qualquer comarca, com exclusão das que correspondam a sedes de Relação.
 
 2. ...
 
@@ -404,7 +487,7 @@ e) Oito desempenham o serviço de consulta jurídica como auditores junto dos v�
 
 ...
 
-###### Art. 616.º - 1. São quatro os conselho distritais e correspondem a outros tantos distritos forenses: o de Lisboa abrange as comarcas do Distrito Judicial de Lisboa; os do Porto, Coimbra e Évora coincidem com os distritos das respectivas Relações.
+Art. 616.º - 1. São quatro os conselho distritais e correspondem a outros tantos distritos forenses: o de Lisboa abrange as comarcas do Distrito Judicial de Lisboa; os do Porto, Coimbra e Évora coincidem com os distritos das respectivas Relações.
 
 As sedes dos conselhos distritais são Lisboa, Porto, Coimbra e Évora.
 
@@ -416,7 +499,7 @@ As sedes dos conselhos distritais são Lisboa, Porto, Coimbra e Évora.
 
 ...
 
-###### Art. 679.º - 1. ...
+Art. 679.º - 1. ...
 
 2. ...
 
@@ -428,15 +511,15 @@ As sedes dos conselhos distritais são Lisboa, Porto, Coimbra e Évora.
 
 ...
 
-###### Art. 721.º - 1. A câmara tem uma secção na sede de cada um dos distritos judiciais do Porto, Coimbra e Évora, por intermédio das quais, e nas respectivas áreas, exercerá designadamente as funções constantes das alíneas d), e), f), i), j), m) e p) do artigo 713.º
+Art. 721.º - 1. A câmara tem uma secção na sede de cada um dos distritos judiciais do Porto, Coimbra e Évora, por intermédio das quais, e nas respectivas áreas, exercerá designadamente as funções constantes das alíneas d), e), f), i), j), m) e p) do artigo 713.º
 
 2. ...
 
 ...
 
-###### Art. 723.º As secções usarão a denominação de «Câmara dos Solicitadores, Secção de ... (Porto, Coimbra ou Évora)».
+Art. 723.º As secções usarão a denominação de «Câmara dos Solicitadores, Secção de ... (Porto, Coimbra ou Évora)».
 
-###### Art. 20.º Passam a ter a redacção adiante indicada os seguintes artigos da Organização Tutelar de Menores, aprovada pelo [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44288-1962-322682), de 20 de Abril de 1962:
+Art. 20.º Passam a ter a redacção adiante indicada os seguintes artigos da Organização Tutelar de Menores, aprovada pelo [Decreto-Lei n.º 44288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44288-1962-322682), de 20 de Abril de 1962:
 
 Art.2.º - 1. ...
 
@@ -446,23 +529,23 @@ Art.2.º - 1. ...
 
 ...
 
-###### Art. 63.º - 1. Quando entenda que a medida aplicável excede a sua competência, o juiz do tribunal tutelar comarcão deve remeter os autos ao tribunal central com jurisdição na área respectiva, o qual ficará a ser competente para todos os termos ulteriores do processo, se o respectivo juiz vier a ordenar a observação do menor ou se, em face de observação anteriormente feita por determinação do tribunal comarcão, julgar aplicável medida da sua exclusiva competência; no caso contrário, os autos são devolvidos ao tribunal comarcão, que será então o competente.
+Art. 63.º - 1. Quando entenda que a medida aplicável excede a sua competência, o juiz do tribunal tutelar comarcão deve remeter os autos ao tribunal central com jurisdição na área respectiva, o qual ficará a ser competente para todos os termos ulteriores do processo, se o respectivo juiz vier a ordenar a observação do menor ou se, em face de observação anteriormente feita por determinação do tribunal comarcão, julgar aplicável medida da sua exclusiva competência; no caso contrário, os autos são devolvidos ao tribunal comarcão, que será então o competente.
 
 2. ...
 
-###### Art. 21.º - 1. Os mapas I, III, IV, V, VI e VII anexos ao Estatuto Judiciário passam a ter a redacção constante deste decreto-lei.
+Art. 21.º - 1. Os mapas I, III, IV, V, VI e VII anexos ao Estatuto Judiciário passam a ter a redacção constante deste decreto-lei.
 
 2. No mapa VIII anexo ao mesmo diploma são introduzidas as alterações adiante indicadas.
 
-###### Art. 22.º Os encargos a que der lugar a execução deste decreto-lei, na parte em que não forem cobertos por novas dotações ou por transferências de verbas do Orçamento Geral do Estado, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso possa ser dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
+Art. 22.º Os encargos a que der lugar a execução deste decreto-lei, na parte em que não forem cobertos por novas dotações ou por transferências de verbas do Orçamento Geral do Estado, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso possa ser dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 12 de Abril de 1973.**
+Promulgado em 12 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA I
 
@@ -2650,4 +2733,4 @@ Vila Nova de Cerveira:
 
 ...
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

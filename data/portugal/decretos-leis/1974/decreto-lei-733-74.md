@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/29700/16011603.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/733-1974-468034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4904746d147ad13f2f2ac2151191479961c1c874f3604cbcd5a37caa5dc59388
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59a6cfb2e3f4ed85279d6b75102ef52cf2e3b508385162bfa251c8c6fa447bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Coutada
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:417646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:216537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417646:por
+  label: "Revogado pelo DEC LEI.311/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1987-417646
+  date: '1987-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:52Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +124,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Consideram-se coutadas com fins turísticos as exploradas por empresas turísticas e reconhecidas por portaria conjunta dos Secretários de Estado do Comércio Externo e Turismo e da Agricultura e do Subsecretário de Estado do Ambiente.
+Artigo 1.º Consideram-se coutadas com fins turísticos as exploradas por empresas turísticas e reconhecidas por portaria conjunta dos Secretários de Estado do Comércio Externo e Turismo e da Agricultura e do Subsecretário de Estado do Ambiente.
 
-###### Art. 2.º - 1. As empresas que pretendam explorar coutadas com fins turísticos estão sujeitas a registo especial na Direcção-Geral do Turismo.
+Art. 2.º - 1. As empresas que pretendam explorar coutadas com fins turísticos estão sujeitas a registo especial na Direcção-Geral do Turismo.
 
 2. Compete à Direcção-Geral do Turismo apreciar a capacidade técnica e financeira das empresas requerentes do registo, as quais deverão apresentar os seguintes elementos:
 
@@ -124,11 +140,11 @@ d) Prova da respectiva capacidade financeira para execução do empreendimento.
 
 3. Além dos elementos referidos no número anterior, a Direcção-Geral do Turismo poderá ainda solicitar quaisquer outros que considere necessários.
 
-###### Art. 3.º As empresas que tenham obtido registo na Direcção-Geral do Turismo poderão requerer o reconhecimento do fim turístico das coutadas que pretendam explorar à Direcção-Geral dos Serviços Florestais e Aquícolas, que organizará o processo depois de ouvidos o Ministério do Equipamento Social e do Ambiente, através do Subsecretário de Estado do Ambiente, e a Direcção-Geral do Turismo.
+Art. 3.º As empresas que tenham obtido registo na Direcção-Geral do Turismo poderão requerer o reconhecimento do fim turístico das coutadas que pretendam explorar à Direcção-Geral dos Serviços Florestais e Aquícolas, que organizará o processo depois de ouvidos o Ministério do Equipamento Social e do Ambiente, através do Subsecretário de Estado do Ambiente, e a Direcção-Geral do Turismo.
 
-###### Art. 4.º O requerimento a que se refere o artigo anterior deverá obedecer ao disposto no artigo 132.º do Decreto n.º 47847, de 14 de Agosto de 1967, com as alterações resultantes do artigo 110.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, e ainda no artigo 109.º deste último diploma, salvo no caso das coutadas já existentes.
+Art. 4.º O requerimento a que se refere o artigo anterior deverá obedecer ao disposto no artigo 132.º do Decreto n.º 47847, de 14 de Agosto de 1967, com as alterações resultantes do artigo 110.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, e ainda no artigo 109.º deste último diploma, salvo no caso das coutadas já existentes.
 
-###### Art. 5.º - 1. Os requerimentos a que se refere o artigo 3.º deste diploma serão sempre acompanhados de um programa de exploração, que deverá conter, nomeadamente:
+Art. 5.º - 1. Os requerimentos a que se refere o artigo 3.º deste diploma serão sempre acompanhados de um programa de exploração, que deverá conter, nomeadamente:
 
 a) Identificação da entidade que explorará a coutada e prova do respectivo registo na Direcção-Geral do Turismo;
 
@@ -158,51 +174,51 @@ n) Outros elementos considerados necessários.
 
 2. As alterações ao programa de exploração referido no número anterior deverão ser submetidas à aprovação da Direcção-Geral dos Serviços Florestais e Aquícolas e da Direcção-Geral do Turismo.
 
-###### Art. 6.º As coutadas com fins turísticos ficam obrigadas ao cumprimento do projecto de ordenamento cinegético previsto no artigo 110.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241).
+Art. 6.º As coutadas com fins turísticos ficam obrigadas ao cumprimento do projecto de ordenamento cinegético previsto no artigo 110.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241).
 
-###### Art. 7.º O reconhecimento do fim turístico das coutadas poderá ficar dependente do cumprimento de outras obrigações, além das previstas na lei, a estabelecer na portaria de reconhecimento.
+Art. 7.º O reconhecimento do fim turístico das coutadas poderá ficar dependente do cumprimento de outras obrigações, além das previstas na lei, a estabelecer na portaria de reconhecimento.
 
-###### Art. 8.º As coutadas com fins turísticos poderão exceder o limite máximo da área estabelecida na alínea b) do artigo 105.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), quando o respectivo programa de exploração e os interesses agrários e turísticos o justifiquem.
+Art. 8.º As coutadas com fins turísticos poderão exceder o limite máximo da área estabelecida na alínea b) do artigo 105.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), quando o respectivo programa de exploração e os interesses agrários e turísticos o justifiquem.
 
-###### Art. 9.º O prazo da concessão de coutadas reconhecidas para fins turísticos conta-se a partir do momento determinado na respectiva portaria para o início da sua exploração.
+Art. 9.º O prazo da concessão de coutadas reconhecidas para fins turísticos conta-se a partir do momento determinado na respectiva portaria para o início da sua exploração.
 
-###### Art. 10.º É proibido o exercício da caça nas coutadas com fins turísticos, antes do momento fixado para o início da sua exploração.
+Art. 10.º É proibido o exercício da caça nas coutadas com fins turísticos, antes do momento fixado para o início da sua exploração.
 
-###### Art. 11.º - 1. Nas coutadas com fins turísticos será cobrada uma quantia pela autorização de caçar, podendo ainda ser fixado um preço por caça abatida.
+Art. 11.º - 1. Nas coutadas com fins turísticos será cobrada uma quantia pela autorização de caçar, podendo ainda ser fixado um preço por caça abatida.
 
 2. Os preços por caça abatida a praticar serão propostos pelos concessionários e aprovados pela Direcção-Geral do Turismo, ouvida a Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 3. A proposta da empresa deverá conter os elementos justificativos dos preços.
 
-###### Art. 12.º - 1. As peças de caça abatidas podem ser livremente comercializadas e despachadas pela empresa concessionária, independentemente do disposto no artigo 184.º do Decreto n.º 47847, de 14 de Agosto de 1967.
+Art. 12.º - 1. As peças de caça abatidas podem ser livremente comercializadas e despachadas pela empresa concessionária, independentemente do disposto no artigo 184.º do Decreto n.º 47847, de 14 de Agosto de 1967.
 
 2. Todas as peças de caça que forem transportadas para fora das coutadas são obrigatoriamente seladas.
 
 3. Cada caçador só pode transportar para fora da coutada um número de peças igual ao limite máximo diário autorizado para cada espécie pela lei geral.
 
-###### Art. 13.º - 1. O exercício da caça nas coutadas com fins turísticos não está limitado quanto aos dias nem quanto ao número máximo de espécies a abater, dentro do respectivo período venatório.
+Art. 13.º - 1. O exercício da caça nas coutadas com fins turísticos não está limitado quanto aos dias nem quanto ao número máximo de espécies a abater, dentro do respectivo período venatório.
 
 2. Os cidadãos nacionais e estrangeiros que residam em território português só podem, porém, exercer a caça nas coutadas com fins turísticos nos dias em que a mesma seja permitida, segundo o regime geral.
 
-###### Art. 14.º - 1. As empresas concessionárias estão obrigadas a autorizar a entrada gratuita de caçadores residentes no concelho da localização da coutada para exercer a caça aos coelhos.
+Art. 14.º - 1. As empresas concessionárias estão obrigadas a autorizar a entrada gratuita de caçadores residentes no concelho da localização da coutada para exercer a caça aos coelhos.
 
 2. Compete à Direcção-Geral dos Serviços Florestais e Aquícolas, ouvida a Direcção-Geral do Turismo, fixar o número mínimo de entradas em cada época venatória.
 
 3. Compete à comissão venatória concelhia regular o processo e a ordem a que obedecerão as entradas, por forma a garantir a igualdade de oportunidades a todos os caçadores do concelho que para o efeito se inscrevam.
 
-###### Art. 15.º A exploração de coutadas turísticas deverá ser conduzida por forma que a população cinegética não seja inferior, no início de cada época venatória, à existente no da imediatamente anterior.
+Art. 15.º A exploração de coutadas turísticas deverá ser conduzida por forma que a população cinegética não seja inferior, no início de cada época venatória, à existente no da imediatamente anterior.
 
-###### Art. 16.º O exercício dos poderes conferidos ao Secretário de Estado da Agricultura, pelo artigo 85.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), depende de audiência prévia da Direcção-Geral do Turismo, nos casos em que seja susceptível de provocar alteração nos compromissos turísticos assumidos e comprovados.
+Art. 16.º O exercício dos poderes conferidos ao Secretário de Estado da Agricultura, pelo artigo 85.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), depende de audiência prévia da Direcção-Geral do Turismo, nos casos em que seja susceptível de provocar alteração nos compromissos turísticos assumidos e comprovados.
 
-###### Art. 17.º - 1. Os concessionários de coutadas com fins turísticos estão isentos de qualquer taxa até ao momento fixado para o início da exploração.
+Art. 17.º - 1. Os concessionários de coutadas com fins turísticos estão isentos de qualquer taxa até ao momento fixado para o início da exploração.
 
 2. A falta de exploração de qualquer coutada com fins turísticos, após o termo do prazo fixado para o seu início, acarreta a obrigação de pagamento das taxas que teriam sido normalmente aplicadas, com o agravamento a que se refere o artigo 116.º, n.º 1, do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241).
 
 3. O disposto no número anterior não se aplica em casos devidamente justificados e reconhecidos por despacho conjunto dos Secretários de Estado do Comércio Externo e Turismo e da Agricultura.
 
-###### Art. 18.º Os concessionários de coutadas com fins turísticos beneficiam da redução de 50% das taxas previstas no artigo 113.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), durante os primeiros três anos da exploração da coutada.
+Art. 18.º Os concessionários de coutadas com fins turísticos beneficiam da redução de 50% das taxas previstas no artigo 113.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), durante os primeiros três anos da exploração da coutada.
 
-###### Art. 19.º - 1. As empresas que explorem coutadas com fins turísticos ficam obrigadas a confirmar à Direcção-Geral do Turismo e à Direcção-Geral dos Serviços Florestais e Aquícolas, com oito dias de antecedência, a realização das caçadas «de batida», que serão fiscalizadas pela última daquelas direcções-gerais.
+Art. 19.º - 1. As empresas que explorem coutadas com fins turísticos ficam obrigadas a confirmar à Direcção-Geral do Turismo e à Direcção-Geral dos Serviços Florestais e Aquícolas, com oito dias de antecedência, a realização das caçadas «de batida», que serão fiscalizadas pela última daquelas direcções-gerais.
 
 2. Ficam ainda obrigadas a participar, até 31 de Maio de cada ano, os seguintes elementos referentes à época finda:
 
@@ -226,20 +242,20 @@ i) Indicação dos meios de transporte e equipamento hoteleiro que serviram a co
 
 j) Outros elementos que forem considerados necessários.
 
-###### Art. 20.º As autorizações especiais de caça e as revalidações referidas no artigo 10.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241) poderão ser emitidas pela Direcção-Geral dos Serviços Florestais e Aquícolas a requerimento das empresas concessionárias de coutadas turísticas ou de agências de viagens e turismo da classe A.
+Art. 20.º As autorizações especiais de caça e as revalidações referidas no artigo 10.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241) poderão ser emitidas pela Direcção-Geral dos Serviços Florestais e Aquícolas a requerimento das empresas concessionárias de coutadas turísticas ou de agências de viagens e turismo da classe A.
 
-###### Art. 21.º Compete à Direcção-Geral dos Serviços Florestais e Aquícolas e à Direcção-Geral do Turismo, no âmbito das respectivas atribuições, fiscalizar a execução dos programas de exploração das coutadas turísticas e o cumprimento das demais obrigações impostas por lei.
+Art. 21.º Compete à Direcção-Geral dos Serviços Florestais e Aquícolas e à Direcção-Geral do Turismo, no âmbito das respectivas atribuições, fiscalizar a execução dos programas de exploração das coutadas turísticas e o cumprimento das demais obrigações impostas por lei.
 
-###### Art. 22.º O não cumprimento pelas empresas concessionárias das obrigações impostas por lei ou decorrentes dos planos de exploração acarreta a extinção do reconhecimento do fim turístico das coutadas.
+Art. 22.º O não cumprimento pelas empresas concessionárias das obrigações impostas por lei ou decorrentes dos planos de exploração acarreta a extinção do reconhecimento do fim turístico das coutadas.
 
-###### Art. 23.º Compete aos Secretários de Estado do Comércio Externo e Turismo e da Agricultura, em despacho conjunto, aprovar as instruções necessárias à execução do presente diploma bem como resolver as dúvidas que se suscitem quanto à sua interpretação.
+Art. 23.º Compete aos Secretários de Estado do Comércio Externo e Turismo e da Agricultura, em despacho conjunto, aprovar as instruções necessárias à execução do presente diploma bem como resolver as dúvidas que se suscitem quanto à sua interpretação.
 
-###### Art. 24.º É revogado o n.º 2 do artigo 2.º do [Decreto-Lei n.º 49439](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49439-1969-216537), de 15 de Dezembro de 1969.
+Art. 24.º É revogado o n.º 2 do artigo 2.º do [Decreto-Lei n.º 49439](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49439-1969-216537), de 15 de Dezembro de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar - José Augusto Fernandes.
 
-**Promulgado em 12 de Dezembro de 1974.**
+Promulgado em 12 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

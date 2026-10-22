@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46364-1965-294374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7adb43eb3d8c7866e11c56dceefb5e03b5d2e1eb96bdd6f7b07724f1569137a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aaf75cdfa2005b5d12221634fa0885cf424a3a801b6a0f50e67cb76e8d66ebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Direcção Geral da Contabilidade Pública
+- Lisboa
+- XI Congresso Internacional da Vinha e do Vinho
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:30Z'
   warnings: []
   errors: []
 ---
@@ -91,26 +95,26 @@ Tornando-se conveniente estabelecer as normas administrativas que permitam soluc
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os trabalhos de preparação e realização do XI Congresso Internacional da Vinha e do Vinho incumbirão a uma Comissão executiva e a um comissariado-geral.
+Artigo 1.º Os trabalhos de preparação e realização do XI Congresso Internacional da Vinha e do Vinho incumbirão a uma Comissão executiva e a um comissariado-geral.
 
 § 1.º Da aludida comissão fará parte um delegado da Direcção-Geral da Contabilidade Pública, que ficará agregado ao comissariado-geral.
 
 § 2.º Os membros da comissão executiva e do comissariado-geral serão designados por portaria do Secretário de Estado da Agricultura, com o acordo dos Ministros ou Secretários de Estado de que os designados dependerem.
 
-###### Art. 2.º As despesas a efectuar com a preparação e realização do Congresso, incluindo as relativas ao pessoal considerado necessário, serão satisfeitas nas condições que forem aprovadas pelo Secretário de Estado da Agricultura, com a concordância do Ministro das Finanças, em conta de dotação a inscrever no orçamento do Ministério da Economia com contrapartida parcial nas receitas provenientes das contribuições dos organismos corporativos e de coordenação económica e outras.
+Art. 2.º As despesas a efectuar com a preparação e realização do Congresso, incluindo as relativas ao pessoal considerado necessário, serão satisfeitas nas condições que forem aprovadas pelo Secretário de Estado da Agricultura, com a concordância do Ministro das Finanças, em conta de dotação a inscrever no orçamento do Ministério da Economia com contrapartida parcial nas receitas provenientes das contribuições dos organismos corporativos e de coordenação económica e outras.
 
-###### Art. 3.º O comissariado-geral procederá ao levantamento das importâncias necessárias mediante requisição de fundos a enviar à 11.ª Repartição da Direcção-Geral da Contabilidade Pública.
+Art. 3.º O comissariado-geral procederá ao levantamento das importâncias necessárias mediante requisição de fundos a enviar à 11.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
 § 1.º As importâncias que não forem imediatamente aplicadas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a movimentação ulterior por meio de cheque.
 
 § 2.º As requisições de fundos e os cheques serão assinados pelo comissário-geral e pelo delegado da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 4.º As despesas serão realizadas pelo comissário-geral sem dependência de quaisquer formalidades ou requisitos, carecendo apenas do visto do delegado da Direcção-Geral da Contabilidade Pública.
+Art. 4.º As despesas serão realizadas pelo comissário-geral sem dependência de quaisquer formalidades ou requisitos, carecendo apenas do visto do delegado da Direcção-Geral da Contabilidade Pública.
 
 Findos os trabalhos do Congresso, serão as contas respectivas encerradas pelo comissariado-geral, no prazo de 60 dias, e sujeitas aos vistos do Ministro das Finanças e do Secretário de Estado da Agricultura, que, a serem concedidos, legitimam a competente prestação de contas.
 
-###### Art. 5.º Mediante decreto assinado pelo Ministro das Finanças e Secretário de Estado da Agricultura, serão promulgadas as alterações orçamentais que se reconhecerem necessárias para a execução do presente diploma.
+Art. 5.º Mediante decreto assinado pelo Ministro das Finanças e Secretário de Estado da Agricultura, serão promulgadas as alterações orçamentais que se reconhecerem necessárias para a execução do presente diploma.
 
-**Publique-se e cumpria-se como nele se contém.**
+Publique-se e cumpria-se como nele se contém.
 
 Paços do Governo da República, 31 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado.

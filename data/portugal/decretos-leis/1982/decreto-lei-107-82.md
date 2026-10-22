@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08200/08460847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1982-607138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 610427fe8f13abf952a43b987c9dbf7fb9c9fd984cad1f85fb09482870d204a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10db06248e1645655908ffed2c749b8b46f89f01e6df892a73ab7bf95f4a7199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Medicina Pedagógica
+- Coimbra
+- Comissão Instaladora
+- Criação de Serviços
+- Definição de Competências
+- Instituto de Acção Social Escolar
+- Lisboa
+- Medicina Escolar
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152361:por
+  label: "Prorrogados até 30.06.1985 (com efeitos desde 01.11.1984) o regime de instalação dos centros de medicina pedagógica\
+    \ e os mandatos das respectivas comissões instaladoras pelo DEC LEI.147/85.08.05.1985.ME, DR.IS [105] de 08.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1985-152361
+  date: '1985-05-08'
+- type: amended_by
+  target: pt:dre:665341:por
+  label: "Extintos os centros de medicina pedagógica criados no presente diploma, pelo DEC LEI.141/93.26.04.1993.ME, DR.IS-A\
+    \ [97] de 26.04.1993, nos termos do n.º 3 do seu artigo 22.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1993-665341
+  date: '1993-04-26'
+- type: cites
+  target: pt:dre:158890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:29Z'
   warnings: []
   errors: []
 ---
@@ -115,13 +165,13 @@ Convindo assegurar condições de estabilidade de emprego ao pessoal envolvido n
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados, na dependência da Direcção dos Serviços Médico-Pedagógicos, do Instituto de Acção Social Escolar, os Centros de Medicina Pedagógica de Lisboa, Coimbra e Porto, adiante designados abreviadamente por Centros.
+Artigo 1.º São criados, na dependência da Direcção dos Serviços Médico-Pedagógicos, do Instituto de Acção Social Escolar, os Centros de Medicina Pedagógica de Lisboa, Coimbra e Porto, adiante designados abreviadamente por Centros.
 
-###### Art. 2.º - 1 - Os Centros integram, respectivamente, os centros de medicina pedagógica e as unidades de apoio médico-pedagógico, referidos na alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 124/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1981-573728), de 25 de Maio.
+Art. 2.º - 1 - Os Centros integram, respectivamente, os centros de medicina pedagógica e as unidades de apoio médico-pedagógico, referidos na alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 124/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1981-573728), de 25 de Maio.
 
 2 - Os Centros sucedem, para todos os efeitos legais, aos serviços neles integrados.
 
-###### Art. 3.º Para efeitos do presente diploma compete, nomeadamente, ao Instituto de Acção Social Escolar:
+Art. 3.º Para efeitos do presente diploma compete, nomeadamente, ao Instituto de Acção Social Escolar:
 
 a) Definir as linhas gerais de orientação e funcionamento dos Centros;
 
@@ -131,19 +181,19 @@ c) Coordenar a acção dos Centros;
 
 d) Estabelecer regras no domínio da verificação de contas a exercer sobre os Centros.
 
-###### Art. 4.º - 1 - Os Centros são colocados em regime de instalação, o qual obedecerá às normas fixadas no presente diploma.
+Art. 4.º - 1 - Os Centros são colocados em regime de instalação, o qual obedecerá às normas fixadas no presente diploma.
 
 2 - Durante o período de instalação, os Centros gozam de autonomia administrativa.
 
 3 - O período de instalação terá a duração de 1 ano, podendo ser prorrogado por mais 1 ano, mediante despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Educação e das Universidades.
 
-###### Art. 5.º - 1 - São instituídas comissões instaladoras por cada Centro, que exercerão o seu mandato durante o período referido no artigo anterior.
+Art. 5.º - 1 - São instituídas comissões instaladoras por cada Centro, que exercerão o seu mandato durante o período referido no artigo anterior.
 
 2 - As comissões instaladoras serão constituídas por 1 presidente e 2 vogais, nomeados por despacho do Ministro da Educação e das Universidades de entre individualidades de reconhecida competência.
 
 3 - Os membros das comissões instaladoras têm direito à gratificação fixada para os membros de idênticas comissões dos estabelecimentos de ensino superior não universitário.
 
-###### Art. 6.º Compete à comissão instaladora:
+Art. 6.º Compete à comissão instaladora:
 
 a) Dirigir, orientar e coordenar as actividades e funcionamento do respectivo Centro, assegurando a sua gestão administrativa e patrimonial;
 
@@ -165,11 +215,11 @@ i) Zelar pela observância das normas legais e regulamentares aplicáveis;
 
 j) Submeter ao presidente do Instituto de Acção Social Escolar todas as questões que careçam de resolução superior e nomeadamente as relativas às matérias constantes das alíneas c), d) e e) do presente artigo.
 
-###### Art. 7.º Durante o período de instalação, as despesas com o funcionamento dos Centros serão satisfeitas por dotações do Instituto de Acção Social Escolar.
+Art. 7.º Durante o período de instalação, as despesas com o funcionamento dos Centros serão satisfeitas por dotações do Instituto de Acção Social Escolar.
 
-###### Art. 8.º Todas as receitas darão entrada na Caixa Geral de Depósitos em conta especial.
+Art. 8.º Todas as receitas darão entrada na Caixa Geral de Depósitos em conta especial.
 
-###### Art. 9.º - 1 - O pessoal que vem desempenhando funções nos serviços referidos no n.º 1 do artigo 2.º do presente diploma e o que for admitido durante o período de instalação será contratado nos termos do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
+Art. 9.º - 1 - O pessoal que vem desempenhando funções nos serviços referidos no n.º 1 do artigo 2.º do presente diploma e o que for admitido durante o período de instalação será contratado nos termos do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
 
 2 - As admissões a efectuar durante o período de instalação far-se-ão com observância das disposições legais sobre recrutamento e provimento em cargos públicos e de acordo com o disposto no [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio.
 
@@ -177,16 +227,16 @@ j) Submeter ao presidente do Instituto de Acção Social Escolar todas as quest�
 
 4 - Para o exercício de funções de carácter técnico, nomeadamente funções médicas, de enfermagem e de diagnóstico e terapêutica, poderá ainda ser admitido pessoal em regime de tempo parcial ou de acumulação, de acordo com as disposições legais em vigor.
 
-###### Art. 10.º - 1 - A estrutura e as atribuições dos Centros criados pelo presente diploma, bem como os respectivos quadros de pessoal, serão fixadas em decreto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, que deverá ser publicado até ao termo do período fixado para o regime de instalação.
+Art. 10.º - 1 - A estrutura e as atribuições dos Centros criados pelo presente diploma, bem como os respectivos quadros de pessoal, serão fixadas em decreto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, que deverá ser publicado até ao termo do período fixado para o regime de instalação.
 
 2 - O pessoal que desempenhar funções a tempo completo naqueles Centros e o que for admitido em idêntico regime durante o período de instalação que se encontre em exercício à data da publicação do diploma referido no número anterior será provido nos lugares dos quadros, nos termos a fixar no mesmo diploma.
 
-###### Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
+Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

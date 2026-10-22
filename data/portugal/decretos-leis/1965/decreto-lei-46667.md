@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46667-1965-512248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3dcb5317d1a34daee01747927d8b4d02ca18a264d54de81686a02bb325a9448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de1155b208d85b35d52a52c7e1beb0e3d4e82f295fb1fc5a384393dfb8d0f59d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Universitário do Porto
+- Conselho Administrativo
+- Definição de Competências
+- Direção
+- Diretor
+- Ministro da Educação Nacional
+- Orgânica
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:311673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310246:por
+  label: "Alterados os arts. 1.º, 13.º, 18.º, 20.º e 21.º, aditados novos arts., que ficam sendo os 23.º, 24.º, 25.º, 26.º,\
+    \ 27.º e 28.º, passando os actuais arts. 23.º, 24.º, 25.º e 26.º a ser os 29.º, 30.º, 31.º e 32.º do presente diploma,\
+    \ pelo DEC LEI.47658.28.04.1967.MEN, DG.IS [101] de 28.04.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47658-1967-310246
+  date: '1967-04-28'
+- type: amended_by
+  target: pt:dre:311673:por
+  label: "Extinto o Centro Universitário da Universidade do Porto, cujo funcionamento se encontra regulado pelo presente diploma,\
+    \ alterado pelo Dec Lei 47658, de 28-Abr 1967, bem como determinado que o pessoal e o seu património são transferidos\
+    \ para os Serviços Sociais da Universidade do Porto, pelo DEC LEI.159/83.19.04.1983.ME, DR.IS [90] de 19.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1983-311673
+  date: '1983-04-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:18Z'
   warnings: []
   errors: []
 ---
@@ -100,25 +122,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Fins e atribuições do Centro Universitário do Porto
 
-###### Artigo 1.º - 1. O Centro Universitário do Porto é um organismo que se encontra na dependência directa do reitor da Universidade do Porto e tem por fim colaborar na formação integral dos alunos, proporcionando-lhes boas condições para se consagrarem ao estudo e a outras actividades complementares, dentro de um espírito de perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.
+Artigo 1.º - 1. O Centro Universitário do Porto é um organismo que se encontra na dependência directa do reitor da Universidade do Porto e tem por fim colaborar na formação integral dos alunos, proporcionando-lhes boas condições para se consagrarem ao estudo e a outras actividades complementares, dentro de um espírito de perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.
 
 2. O Centro passa a reger-se pelas disposições deste diploma.
 
-###### Art. 2.º - 1. As actividades do Centro, que não excluem as análogas actividades de outros organismos, destinam-se, de modo primacial, a assegurar o funcionamento regular e permanente dos serviços considerados essenciais para a realização dos fins previstos no artigo anterior.
+Art. 2.º - 1. As actividades do Centro, que não excluem as análogas actividades de outros organismos, destinam-se, de modo primacial, a assegurar o funcionamento regular e permanente dos serviços considerados essenciais para a realização dos fins previstos no artigo anterior.
 
 2. Os serviços do Centro serão definidos em despacho do Ministro da Educação Nacional, mediante prévia audiência do reitor.
 
-###### Art. 3.º O Centro procurará chamar os membros do corpo docente e os do corpo discente a colaborarem nas suas actividades, de modo a realizar-se o ideal assinalado no artigo 1.º e proporcionar-se aos segundos uma experiência directiva e de organização.
+Art. 3.º O Centro procurará chamar os membros do corpo docente e os do corpo discente a colaborarem nas suas actividades, de modo a realizar-se o ideal assinalado no artigo 1.º e proporcionar-se aos segundos uma experiência directiva e de organização.
 
 #### SECÇÃO II — Órgãos do Centro
 
-###### Art. 4.º O Centro tem os seguintes órgãos:
+Art. 4.º O Centro tem os seguintes órgãos:
 
 a) Direcção;
 
 b) Conselho administrativo.
 
-###### Art. 5.º A direcção tem a seu cargo a orientação das actividades do Centro e compõe-se dos seguintes membros:
+Art. 5.º A direcção tem a seu cargo a orientação das actividades do Centro e compõe-se dos seguintes membros:
 
 a) Director do Centro, que presidirá;
 
@@ -126,7 +148,7 @@ b) Subdirector do Centro;
 
 c) Directores dos serviços.
 
-###### Art. 6.º - 1. Compete em especial à direcção deliberar:
+Art. 6.º - 1. Compete em especial à direcção deliberar:
 
 a) Sobre os planos de acção, orçamento e relatório do Centro;
 
@@ -136,7 +158,7 @@ c) Sobre qualquer outro assunto que o director do Centro lhe submeta.
 
 2. O reitor poderá mandar suspender quaisquer actividades do Centro que considere contrárias aos interesses gerais da Universidade.
 
-###### Art. 7.º Compete ao director do Centro:
+Art. 7.º Compete ao director do Centro:
 
 a) Convocar as reuniões da direcção e orientar os seus trabalhos;
 
@@ -146,19 +168,19 @@ c) Promover o cumprimento dessas deliberações;
 
 d) Superintender na administração de todos os serviços do Centro.
 
-###### Art. 8.º Compete ao subdirector coadjuvar o director do Centro e substituí-lo nas suas faltas ou impedimentos.
+Art. 8.º Compete ao subdirector coadjuvar o director do Centro e substituí-lo nas suas faltas ou impedimentos.
 
-###### Art. 9.º - 1. Compete aos directores de serviços administrar os mesmos.
+Art. 9.º - 1. Compete aos directores de serviços administrar os mesmos.
 
 2. Os directores de serviços poderão ter adjuntos, que os coadjuvarão e substituirão nas suas faltas ou impedimentos, cabendo a substituição, quando haja mais de um adjunto no serviço, àquele que o director do Centro designar para o efeito.
 
-###### Art. 10.º O conselho administrativo auxilia o director do Centro na superintendência da administração dos serviços e compõe-se dos seguintes membros:
+Art. 10.º O conselho administrativo auxilia o director do Centro na superintendência da administração dos serviços e compõe-se dos seguintes membros:
 
 a) Director do Centro, que presidirá, podendo delegar no subdirector;
 
 b) Duas pessoas com competência em assuntos administrativos e financeiros.
 
-###### Art. 11.º - 1. Compete em especial ao conselho administrativo:
+Art. 11.º - 1. Compete em especial ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento a submeter à direcção;
 
@@ -170,9 +192,9 @@ d) Elaborar as contas anuais do Centro.
 
 2. As contas anuais do Centro serão sujeitas à aprovação do conselho administrativo da Universidade.
 
-###### Art. 12.º Tanto a direcção como o conselho administrativo reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados pelo seu presidente.
+Art. 12.º Tanto a direcção como o conselho administrativo reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados pelo seu presidente.
 
-###### Art. 13.º - 1. O director do Centro é nomeado pelo Ministro da Educação Nacional, sobre proposta do reitor.
+Art. 13.º - 1. O director do Centro é nomeado pelo Ministro da Educação Nacional, sobre proposta do reitor.
 
 2. O subdirector do Centro, os directores de serviços e os vogais do conselho administrativo são nomeados pelo reitor, sobre proposta do director do Centro.
 
@@ -182,13 +204,13 @@ d) Elaborar as contas anuais do Centro.
 
 5. As nomeações, que terão por objecto pessoas de reconhecida competência para o desempenho das respectivas funções, serão feitas por períodos de três anos, ou de um quanto aos directores de serviços e seus adjuntos, podendo ser renovadas por iguais períodos, uma ou mais vezes, e podendo os nomeados ser livremente exonerados em qualquer momento.
 
-###### Art. 14.º - 1. Poderá haver em cada escola uma delegação do Centro.
+Art. 14.º - 1. Poderá haver em cada escola uma delegação do Centro.
 
 2. Compete à delegação representar o Centro na escola respectiva, tomando iniciativas dentro do plano geral de acção aprovado e formulando propostas a submeter à direcção do Centro, no interesse dos estudantes da mesma escola.
 
 #### SECÇÃO III — Receitas e despesas do Centro
 
-###### Art. 15.º Constituem receitas do Centro:
+Art. 15.º Constituem receitas do Centro:
 
 a) A dotação que, como subsídio, lhe for consignada no Orçamento Geral do Estado;
 
@@ -204,11 +226,11 @@ f) As quotizações previstas no artigo 22.º;
 
 g) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou por diverso título.
 
-###### Art. 16.º - 1. Haverá na Caixa Geral de Depósitos, Crédito e Previdência uma conta aberta à ordem do conselho administrativo, sendo nela depositadas as receitas e por ela satisfeitas as despesas do Centro.
+Art. 16.º - 1. Haverá na Caixa Geral de Depósitos, Crédito e Previdência uma conta aberta à ordem do conselho administrativo, sendo nela depositadas as receitas e por ela satisfeitas as despesas do Centro.
 
 2. Só podem realizar-se quaisquer despesas depois de verificado o seu cabimento nas dotações orçamentais do Centro.
 
-###### Art. 17.º - 1. Os pagamentos são feitos mediante cheques assinados pelo director do Centro, ou pelo subdirector quando o substituir na presidência do conselho administrativo.
+Art. 17.º - 1. Os pagamentos são feitos mediante cheques assinados pelo director do Centro, ou pelo subdirector quando o substituir na presidência do conselho administrativo.
 
 2. Exceptuam-se os pagamentos das despesas inerentes à gestão ordinária dos serviços, os quais podem ser realizados em numerário pelo director do Centro ou com autorização sua.
 
@@ -216,30 +238,30 @@ g) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou 
 
 #### SECÇÃO IV — Disposições diversas
 
-###### Art. 18.º O pessoal técnico, administrativo e menor do Centro e os respectivos vencimentos constarão de quadro a estabelecer em portaria conjunta dos Ministros das Finanças e da Educação Nacional, definindo-se em despacho deste último as condições de provimento dos lugares, com prioridade para o pessoal já existente.
+Art. 18.º O pessoal técnico, administrativo e menor do Centro e os respectivos vencimentos constarão de quadro a estabelecer em portaria conjunta dos Ministros das Finanças e da Educação Nacional, definindo-se em despacho deste último as condições de provimento dos lugares, com prioridade para o pessoal já existente.
 
-###### Art. 19.º O director do Centro pode autorizar a realização para este, e por quaisquer pessoas, de trabalhos eventuais, em regime de prestação de serviços, mediante a remuneração que fixar caso a caso.
+Art. 19.º O director do Centro pode autorizar a realização para este, e por quaisquer pessoas, de trabalhos eventuais, em regime de prestação de serviços, mediante a remuneração que fixar caso a caso.
 
-###### Art. 20.º - 1. Aos membros da direcção e do conselho administrativo, bem como, ao, pessoal do Centro e aos indivíduos chamados a prestar serviços nos termos do artigo anterior, serão abonadas ajudas de custo e despesas de transporte, nos termos da lei geral, quando tenham de se deslocar em serviço do Centro.
+Art. 20.º - 1. Aos membros da direcção e do conselho administrativo, bem como, ao, pessoal do Centro e aos indivíduos chamados a prestar serviços nos termos do artigo anterior, serão abonadas ajudas de custo e despesas de transporte, nos termos da lei geral, quando tenham de se deslocar em serviço do Centro.
 
 2. Aos que desempenhem funções no Centro e não percebam deste um vencimento poderá o Ministro da Educação Nacional atribuir gratificações ou senhas de presença, cujo montante fixará em despacho, com o acordo do Ministro das Finanças.
 
-###### Art. 21.º O tempo de serviço prestado ao Centro pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, desde que a dispensa deste seja prèviamente autorizada por despacho ministerial.
+Art. 21.º O tempo de serviço prestado ao Centro pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, desde que a dispensa deste seja prèviamente autorizada por despacho ministerial.
 
-###### Art. 22.º Os antigos alunos da Universidade podem inscrever-se como amigos do Centro, pagando as quotizações e gozando dos direitos que forem fixados no regulamento interno do Centro.
+Art. 22.º Os antigos alunos da Universidade podem inscrever-se como amigos do Centro, pagando as quotizações e gozando dos direitos que forem fixados no regulamento interno do Centro.
 
-###### Art. 23.º - 1. Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento do Centro às circunstâncias que forem ocorrendo.
+Art. 23.º - 1. Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento do Centro às circunstâncias que forem ocorrendo.
 
 2. As portarias deverão ser assinadas também pelo Ministro das Finanças se envolverem aumento de despesa.
 
-###### Art. 24.º Dentro de seis meses, a contar da entrada em vigor do presente diploma, a direcção submeterá à aprovação do reitor um regulamento interno do Centro.
+Art. 24.º Dentro de seis meses, a contar da entrada em vigor do presente diploma, a direcção submeterá à aprovação do reitor um regulamento interno do Centro.
 
-###### Art. 25.º As dúvidas que surgirem na interpretação e aplicação deste decreto-lei e diplomas complementares serão resolvidas pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças sempre que se trate de assunto de carácter financeiro.
+Art. 25.º As dúvidas que surgirem na interpretação e aplicação deste decreto-lei e diplomas complementares serão resolvidas pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças sempre que se trate de assunto de carácter financeiro.
 
-###### Art. 26.º - 1. O regime constante do presente diploma poderá, por meio de portaria, ser tornado extensivo, com as adaptações que se mostrem necessárias ou vantajosas, aos outros centros universitários já existentes, assim como, por meio de portaria, poderão ser criados novos centros e fazer-se-lhes essa mesma extensão.
+Art. 26.º - 1. O regime constante do presente diploma poderá, por meio de portaria, ser tornado extensivo, com as adaptações que se mostrem necessárias ou vantajosas, aos outros centros universitários já existentes, assim como, por meio de portaria, poderão ser criados novos centros e fazer-se-lhes essa mesma extensão.
 
 2. As portarias serão expedidas pelo Ministro da Educação Nacional, juntamente com o das Finanças, quanto à metrópole, e com o do Ultramar, quanto às províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

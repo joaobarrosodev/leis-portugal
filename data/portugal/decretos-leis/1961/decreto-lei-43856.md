@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43856-1961-173133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f7a647f237a26c54635868b07e4e518344b7de4721c12547850577b21f186b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 149f685c48c9a5ef8e7dbeebf73d74993848cd7bc3aa6757a7c6fdcd7af94948
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Capital Social
+- Cooperativa Agrícola
+- Direcção Geral dos Serviços Agrícolas
+- Secretário de Estado da Agricultura
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:343432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370061:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:02Z'
   warnings: []
   errors: []
 ---
@@ -93,30 +106,30 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O capital social mínimo das cooperativas agrícolas será o que pelo Secretário de Estado da Agricultura, ouvida a Direcção-Geral dos Serviços Agrícolas, for considerado indispensável para assegurar a sua conveniente instalação e apetrechamento e o seu regular funcionamento. Quando às cooperativas sejam concedidos subsídios ou empréstimos por entidades oficiais ou organismos corporativos ou de coordenação económica, atender-se-á ao respectivo montante na fixação do capital social.
+Artigo 1.º - 1. O capital social mínimo das cooperativas agrícolas será o que pelo Secretário de Estado da Agricultura, ouvida a Direcção-Geral dos Serviços Agrícolas, for considerado indispensável para assegurar a sua conveniente instalação e apetrechamento e o seu regular funcionamento. Quando às cooperativas sejam concedidos subsídios ou empréstimos por entidades oficiais ou organismos corporativos ou de coordenação económica, atender-se-á ao respectivo montante na fixação do capital social.
 
 2. A Direcção-Geral dos Serviços Agrícolas só promoverá a aprovação da constituição das cooperativas agrícolas depois de verificar que o referido capital social mínimo está subscrito pelos sócios fundadores ou garantida a sua subscrição dentro do prazo que vier a ser fixado.
 
-###### Art. 2.º - 1. A subscrição de acções deverá ser feita, sempre que possível, proporcionalmente à actividade com que cada sócio contribuir para o funcionamento da associação.
+Art. 2.º - 1. A subscrição de acções deverá ser feita, sempre que possível, proporcionalmente à actividade com que cada sócio contribuir para o funcionamento da associação.
 
 2. As amortizações anuais dos empréstimos concedidos à cooperativa far-se-ão à custa dos fundos constituídos para tal fim e, se estes forem insuficientes, mediante o recurso à emissão de novas acções a subscrever pelos associados, proporcionalmente também à actividade exercida durante esse ano.
 
-###### Art. 3.º A eleição das direcções das cooperativas agrícolas carece de homologação do Secretário de Estado da Agricultura.
+Art. 3.º A eleição das direcções das cooperativas agrícolas carece de homologação do Secretário de Estado da Agricultura.
 
-###### Art. 4.º - 1. A assembleia geral das cooperativas agrícolas será normalmente constituída por todos os seus sócios.
+Art. 4.º - 1. A assembleia geral das cooperativas agrícolas será normalmente constituída por todos os seus sócios.
 
 2. Quando, porém, o número de sócios for tão elevado que a intervenção de todos possa prejudicar o normal funcionamento da assembleia geral, o Secretário de Estado da Agricultura tem a faculdade de determinar, quer no acto da aprovação dos estatutos, quer posteriormente, que neles se introduzam alterações no sentido de que a assembleia geral seja constituída não pela totalidade mas por um número mais restrito de sócios, nos quais os restantes deleguem, segundo normas a determinar e a inserir também nos estatutos, poderes de intervenção na assembleia geral em representação de toda a massa associativa.
 
 3. O disposto no n.º 2 é aplicável às cooperativas já constituídas.
 
-###### Art. 5.º - 1. O delegado da Direcção-Geral dos Serviços Agrícolas pode, em decisão fundamentada, suspender a execução das deliberações da direcção ou da assembleia geral das cooperativas agrícolas que reputar contrárias à lei, aos estatutos, ao interesse geral ou aos interesses fundamentais da associação.
+Art. 5.º - 1. O delegado da Direcção-Geral dos Serviços Agrícolas pode, em decisão fundamentada, suspender a execução das deliberações da direcção ou da assembleia geral das cooperativas agrícolas que reputar contrárias à lei, aos estatutos, ao interesse geral ou aos interesses fundamentais da associação.
 
 2. Se no prazo de dez dias, após tal decisão ter sido tomada, o Secretário de Estado da Agricultura a não confirmar, anulando deliberação suspensa, pode esta ser plenamente executada.
 
-###### Art. 6.º O mandato das comissões administrativas durará sòmente pelo prazo considerado necessário para completa normalização do funcionamento das associações.
+Art. 6.º O mandato das comissões administrativas durará sòmente pelo prazo considerado necessário para completa normalização do funcionamento das associações.
 
-###### Art. 7.º É revogado o disposto no § 1.º do artigo 3.º do [Decreto n.º 31551](https://diariodarepublica.pt/dr/detalhe/decreto/31551-1941-370061), de 4 de Outubro de 1941, e no artigo único do [Decreto n.º 32385](https://diariodarepublica.pt/dr/detalhe/decreto/32385-1942-343432), de 13 de Novembro de 1942.
+Art. 7.º É revogado o disposto no § 1.º do artigo 3.º do [Decreto n.º 31551](https://diariodarepublica.pt/dr/detalhe/decreto/31551-1941-370061), de 4 de Outubro de 1941, e no artigo único do [Decreto n.º 32385](https://diariodarepublica.pt/dr/detalhe/decreto/32385-1942-343432), de 13 de Novembro de 1942.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

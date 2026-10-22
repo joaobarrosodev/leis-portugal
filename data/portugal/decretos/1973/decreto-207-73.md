@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/207-1973-422025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab75ca15e27129f3b316a227125432cbc4ed7b490deca80edb63bcf7130aaae7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac5d8f112ca257e8da82d780a2b26ae8e24e30f34caad51a273dfe3a36961c10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:423021:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:21Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º Para os fins de administração local, o território de Angola divide-se nos seguintes distritos:
+Artigo 1.º Para os fins de administração local, o território de Angola divide-se nos seguintes distritos:
 
 a) Benguela, com sede na cidade de Benguela;
 
@@ -124,14 +128,14 @@ o) Uíge, com sede na cidade de Carmona;
 
 p) Zaire, com sede na cidade de S. Salvador.
 
-###### Art. 2.º Compete ao Governador-Geral de Angola a definição, por decreto provincial, dos limites de cada um dos distritos mencionados no artigo anterior, e bem assim dos concelhos e circunscrições administrativas que os formem.
+Art. 2.º Compete ao Governador-Geral de Angola a definição, por decreto provincial, dos limites de cada um dos distritos mencionados no artigo anterior, e bem assim dos concelhos e circunscrições administrativas que os formem.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Abril de 1973.**
+Promulgado em 23 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

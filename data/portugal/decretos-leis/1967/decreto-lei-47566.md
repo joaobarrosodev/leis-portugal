@@ -47,36 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47566-1967-504327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8fca19868c1dc234f8e361fcc0f0ce4a00e2f2dd177f41fe657d8f0a6eada3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97703e8bd47475ded1f473e98b167b00862a6c39c5eff1ef455e3b8f55bebc2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Empréstimo Interno
+- Financiamento
+- Junta de Crédito Público
+- Juros
+- Obrigações do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:226659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693026:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:22Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +133,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 5 por cento, 1967 - Fomento económico», até à importância total nominal de 1 milhão de contos.
+Artigo 1.º - 1. É autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 5 por cento, 1967 - Fomento económico», até à importância total nominal de 1 milhão de contos.
 
 2. O produto do empréstimo referido no presente artigo destinar-se-á exclusivamente ao financiamento de investimentos previstos em planos aprovados pelo Conselho de Ministros para os Assuntos Económicos, podendo para tanto ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimento em termos idênticos aos estabelecidos nos artigos 18.º e 19.º do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960.
 
-###### Art. 2.º - 1. O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, desdobrar-se-á em séries de 50000 contos, autorizando-se desde já a Direcção-Geral da Fazenda Pública a emitir a obrigação geral correspondente às cinco primeiras séries, no total de 250000 contos.
+Art. 2.º - 1. O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, desdobrar-se-á em séries de 50000 contos, autorizando-se desde já a Direcção-Geral da Fazenda Pública a emitir a obrigação geral correspondente às cinco primeiras séries, no total de 250000 contos.
 
 2. As restantes séries poderão ser emitidas sucessiva ou simultâneamente, sendo desde já autorizada a oportuna emissão das respectivas obrigações gerais.
 
-###### Art. 3.º - 1. A representação do empréstimo far-se-á em títulos de cupão de uma, cinco e dez obrigações do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
+Art. 3.º - 1. A representação do empréstimo far-se-á em títulos de cupão de uma, cinco e dez obrigações do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
 
 2. Quando os tomadores deste empréstimo pretenderem receber os títulos já invertidos em certificados de dívida inscrita de qualquer montante, as operações de reversão serão isentas de pagamento de emolumentos e da taxa de 3$00 a que se referem os n.os I, III e IX da tabela anexa ao [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960.
 
@@ -115,25 +149,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os títulos ou certificados representativos deste empréstimo poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de dois anos, e, no caso de serem entregues aos portadores certificados de dívida inscrita provisórios, será dispensável a indicação nos mesmos certificados dos números dos títulos neles representados.
 
-###### Art. 4.º - 1. O juro nominal das obrigações será de 5 por cento, pagável aos trimestres, em 15 de Janeiro, 15 de Abril, 15 de Julho e 15 de Outubro de cada ano.
+Art. 4.º - 1. O juro nominal das obrigações será de 5 por cento, pagável aos trimestres, em 15 de Janeiro, 15 de Abril, 15 de Julho e 15 de Outubro de cada ano.
 
 2. Os primeiros juros vencer-se-ão em 15 de Abril de 1967, só sendo devidos a contar da data em que as correspondentes importâncias entrarem na posse do Estado, de harmonia com o disposto na parte aplicável do artigo 11.º do [Decreto-Lei n.º 46152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46152-1965-226659).
 
-###### Art. 5.º - 1. As obrigações deste empréstimo serão obrigatòriamente amortizadas ao par em dez unidades iguais.
+Art. 5.º - 1. As obrigações deste empréstimo serão obrigatòriamente amortizadas ao par em dez unidades iguais.
 
 2. A primeira amortização, relativa às obrigações das cinco primeiras séries, far-se-á em 15 de Janeiro de 1972.
 
-###### Art. 6.º - 1. As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+Art. 6.º - 1. As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças inscritas nos orçamentos dos anos económicos em que tiverem lugar.
 
 2. O encargo efectivo do empréstimo, excluídas as despesas da sua representação e colocação, não deverá, porém, exceder 5 1/4 por cento.
 
-###### Art. 7.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, incluindo a insenção do imposto sobre as sucessões e doações.
+Art. 7.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, incluindo a insenção do imposto sobre as sucessões e doações.
 
-###### Art. 8.º Poderá o Ministro das Finanças contratar com a Caixa Geral de Depósitos, Crédito e Previdência ou com outras instituições de crédito nacionais a colocação total ou parcial dos títulos, ou fazê-la por subscrição pública ou por venda no mercado.
+Art. 8.º Poderá o Ministro das Finanças contratar com a Caixa Geral de Depósitos, Crédito e Previdência ou com outras instituições de crédito nacionais a colocação total ou parcial dos títulos, ou fazê-la por subscrição pública ou por venda no mercado.
 
-###### Art. 9.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este decreto-lei.
+Art. 9.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

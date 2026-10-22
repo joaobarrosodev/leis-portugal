@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 235/1974, 1º Suplemento, Série I de 1974-10-09
   number: '235'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1194-(1) a 1194-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23501/00010002.pdf
 entry_into_force_dates: []
@@ -49,36 +49,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1974-226219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 259ca052f6e049a482cd6e28c1a0afce268f7923ade180fd320d3f544aa14f90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 751915b7be4fe7f6c2e4918c5cbffb86ab71d50aa611f7c1488d828f55af9625
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Código Penal
+- Forças Armadas
+- GNR
+- Guarda Fiscal
+- Justiça Militar
+- Militar
+- Perdão da Pena
+- Pessoal Civil
+- Polícia de Viação e Trânsito
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:147436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676583:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:45Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +128,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São amnistiadas as seguintes infracções da competência do foro militar, cometidas por elementos das forças armadas, da Guarda Nacional Republicana, da Guarda Fiscal, da Polícia de Segurança Pública, da extinta Polícia de Viação e Trânsito e funcionários civis em serviço nas forças armadas, com excepção das praticadas no exercício de cargos políticos, ou ainda por civis sujeitos ao foro militar quanto a delitos por estes cometidos depois de 26 de Abril de 1974:
+Artigo 1.º São amnistiadas as seguintes infracções da competência do foro militar, cometidas por elementos das forças armadas, da Guarda Nacional Republicana, da Guarda Fiscal, da Polícia de Segurança Pública, da extinta Polícia de Viação e Trânsito e funcionários civis em serviço nas forças armadas, com excepção das praticadas no exercício de cargos políticos, ou ainda por civis sujeitos ao foro militar quanto a delitos por estes cometidos depois de 26 de Abril de 1974:
 
 a) Os crimes de homicídio, de ofensas corporais e dano, culposos, e as contravenções que constem dos respectivos processos;
 
@@ -113,20 +148,20 @@ h) As infracções previstas no [Decreto-Lei n.º 420/70](https://diariodarepubl
 
 i) Os crimes essencialmente militares e militares a que não caiba pena superior à de presídio militar de seis anos e um dia a oito anos, ou equivalente.
 
-###### Art. 2.º A presente amnistia não extingue a responsabilidade civil emergente dos factos delituosos praticados, nem compreende a anulação dos efeitos das penas, tais como transferência, mudança de quadro, baixa de posto ou de serviço, eliminação, demissão, reforma e descida na escala de antiguidade.
+Art. 2.º A presente amnistia não extingue a responsabilidade civil emergente dos factos delituosos praticados, nem compreende a anulação dos efeitos das penas, tais como transferência, mudança de quadro, baixa de posto ou de serviço, eliminação, demissão, reforma e descida na escala de antiguidade.
 
-###### Art. 3.º - 1. São perdoadas as penas aplicadas, não superiores a oito anos de prisão maior ou equivalentes, por crimes essencialmente militares ou militares aos indivíduos que tenham participado activamente no Movimento das Forças Armadas de 25 de Abril de 1974 e disso façam prova plena.
+Art. 3.º - 1. São perdoadas as penas aplicadas, não superiores a oito anos de prisão maior ou equivalentes, por crimes essencialmente militares ou militares aos indivíduos que tenham participado activamente no Movimento das Forças Armadas de 25 de Abril de 1974 e disso façam prova plena.
 
 2. O perdão da pena nos termos do número anterior implica a extinção de todos os efeitos da pena e as penas acessórias.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Jaime Silvério Marques - Manuel Diogo Neto.
 
-**Promulgado em 5 de Setembro de 1974.**
+Promulgado em 5 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos Boletins Oficiais dos Estados e províncias ultramarinas. - Almeida Santos.

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 199/1977, 2º Suplemento, Série I de 1977-08-29
   number: '199'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2080-(23) a 2080-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19902/00230024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-s-1977-240863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5943d2aba257a17968791b218d326322994ae4c113e0e4cd43ffd27d07f114cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6935f924fb816d6b3db2d0dba7c12566bbdb308925dfe18712a331af7d121d07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banca
+- Banco de Portugal
+- Caixa Geral de Depósitos
+- Empréstimo
+- Fiscalização
+- Garantia
+- Instituição de Crédito
+- Instituições Parabancárias
+- Sociedade Mediadora
 relationships:
 - type: amended_by
   target: pt:dre:448953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448953:por
+  label: "Revogado pelo DEC LEI.298/92.31.12.1992.MF, DR.IS-A [301]6ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1992-448953
+  date: '1992-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:44Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +141,13 @@ Nestes termos:
 
 Usando da autorização concedida pela [Lei n.º 51/77](https://diariodarepublica.pt/dr/detalhe/lei/51-1977-408721), de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º, o seguinte:
 
-###### Artigo 1.º Ficam sujeitas à fiscalização do Banco de Portugal todas as instituições de crédito, incluindo a Caixa Geral de Depósitos, bem como as instituições parabancárias e as sociedades autorizadas a exercer a actividade comercial de mediação na realização de empréstimos hipotecários.
+Artigo 1.º Ficam sujeitas à fiscalização do Banco de Portugal todas as instituições de crédito, incluindo a Caixa Geral de Depósitos, bem como as instituições parabancárias e as sociedades autorizadas a exercer a actividade comercial de mediação na realização de empréstimos hipotecários.
 
-###### Art. 2.º A fiscalização é exercida a título gratuito, pelo que deixa de ser exigível o pagamento da respectiva quota.
+Art. 2.º A fiscalização é exercida a título gratuito, pelo que deixa de ser exigível o pagamento da respectiva quota.
 
-###### Art. 3.º As entidades referidas ao artigo 1.º estão sujeitas a registo especial no Banco de Portugal.
+Art. 3.º As entidades referidas ao artigo 1.º estão sujeitas a registo especial no Banco de Portugal.
 
-###### Art. 4.º Quanto às instituições de crédito nacionais, quer se encontrem ou não nacionalizadas, e às instituições parabancárias, o registo abrangerá os seguintes elementos:
+Art. 4.º Quanto às instituições de crédito nacionais, quer se encontrem ou não nacionalizadas, e às instituições parabancárias, o registo abrangerá os seguintes elementos:
 
 a) Denominação da instituição;
 
@@ -134,7 +169,7 @@ i) O lugar e a data da criação de filiais, agências e quaisquer outras sucurs
 
 j) As alterações que se verificarem nos elementos referidos nos números anteriores.
 
-###### Art. 5.º Quando às instituições de crédito estrangeiras, o registo abrangerá:
+Art. 5.º Quando às instituições de crédito estrangeiras, o registo abrangerá:
 
 a) A denominação da instituição;
 
@@ -152,28 +187,28 @@ g) O lugar do estabelecimento principal em Portugal e das suas filiais, agência
 
 h) As alterações que se verificarem nos elementos referidos nos números anteriores.
 
-###### Art. 6.º As sociedades autorizadas a exercer a actividade comercial de mediação na realização de empréstimos hipotecários estão igualmente sujeitas a registo especial no Banco de Portugal, do qual constarão todos os elementos referidos nas alíneas a) a g) do n.º 1 e no n.º 2 do artigo 28.º do [Decreto-Lei n.º 119/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1974-412221), de 23 de Março, devendo o registo e respectivos averbamentos ser requeridos no prazo e termos fixados no seu n.º 3.
+Art. 6.º As sociedades autorizadas a exercer a actividade comercial de mediação na realização de empréstimos hipotecários estão igualmente sujeitas a registo especial no Banco de Portugal, do qual constarão todos os elementos referidos nas alíneas a) a g) do n.º 1 e no n.º 2 do artigo 28.º do [Decreto-Lei n.º 119/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1974-412221), de 23 de Março, devendo o registo e respectivos averbamentos ser requeridos no prazo e termos fixados no seu n.º 3.
 
-###### Art. 7.º - 1. Quanto às instituições de crédito e instituições parabancárias, o registo deve ser requerido no prazo de trinta dias, a contar da data da constituição definitiva ou da autorização para se estabelecer em Portugal, tratando-se, neste caso, de instituições de crédito estrangeiras, mas sempre antes do início da actividade.
+Art. 7.º - 1. Quanto às instituições de crédito e instituições parabancárias, o registo deve ser requerido no prazo de trinta dias, a contar da data da constituição definitiva ou da autorização para se estabelecer em Portugal, tratando-se, neste caso, de instituições de crédito estrangeiras, mas sempre antes do início da actividade.
 
 2. O averbamento das alterações ao registo deve ser requerido no prazo de trinta dias, a contar da data em que elas se verificarem.
 
-###### Art. 8.º - 1. Ficam isentos do pagamento de qualquer taxa os actos de registo e respectivos averbamentos.
+Art. 8.º - 1. Ficam isentos do pagamento de qualquer taxa os actos de registo e respectivos averbamentos.
 
 2. Do registo e das suas alterações serão graciosamente passadas certidões sumárias a quem mostre interesse legítimo em requerê-las.
 
-###### Art. 9.º Sem prejuízo das sanções previstas na lei geral, as infracções ao disposto no presente diploma em matéria de registo serão punidas de conformidade com os artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+Art. 9.º Sem prejuízo das sanções previstas na lei geral, as infracções ao disposto no presente diploma em matéria de registo serão punidas de conformidade com os artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-###### Art. 10.º O procedimento contravencional pelas transgressões praticadas é da competência do Banco de Portugal.
+Art. 10.º O procedimento contravencional pelas transgressões praticadas é da competência do Banco de Portugal.
 
-###### Art. 11.º Ficam revogados os artigos 8.º, 36.º, 37.º e 38.º, todos do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, o artigo 3.º do [Decreto-Lei n.º 46302](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46302-1965-236711), de 27 de Abril de 1965, na parte respeitante à quota de fiscalização e ao registo especial, e ainda os artigos 29.º, 32.º e 33.º do [Decreto-Lei n.º 119/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1974-412221), de 23 de Março.
+Art. 11.º Ficam revogados os artigos 8.º, 36.º, 37.º e 38.º, todos do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, o artigo 3.º do [Decreto-Lei n.º 46302](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46302-1965-236711), de 27 de Abril de 1965, na parte respeitante à quota de fiscalização e ao registo especial, e ainda os artigos 29.º, 32.º e 33.º do [Decreto-Lei n.º 119/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1974-412221), de 23 de Março.
 
-###### Art. 12.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 12.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 4 de Agosto de 1977.**
+Promulgado em 4 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

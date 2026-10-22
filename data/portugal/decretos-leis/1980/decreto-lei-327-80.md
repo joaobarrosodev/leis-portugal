@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7652229435b899c9f22209adae1680dad8dcf16bb774837d458009ec8ea7f1a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 056ea742eabdc46e27655ae04e37b69e7fbceff91e8b4c66ca1bafe534d40682
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Crime
+- Definição de Competências
+- Equipamento de Combate a Incêndios
+- Fiscalização
+- GNR
+- Guarda Fiscal
+- Incêndio
+- Multa
+- Prevenção de Incêndios
+- Proteção Civil
+- Proteção da Floresta
+- Proteção do Ambiente
+- Proteção Social
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:108010872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580313:por
+  label: "Ratificado, com emendas, o presente diploma, pela LEI.10/81.1981.07.10.AR DR.IS [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-1981-580313
+  date: '1981-07-10'
+- type: cites
+  target: pt:dre:147581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:01Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +140,7 @@ Nestes termos:
 
 Ao abrigo da autorização legislativa concedida pela [Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/lei/27-1980-472100), de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Governo providenciará no sentido de melhorar a prevenção e a detecção dos incêndios florestais, designadamente através das seguintes acções:
+Artigo 1.º - 1 - O Governo providenciará no sentido de melhorar a prevenção e a detecção dos incêndios florestais, designadamente através das seguintes acções:
 
 a) Elaboração de planos para a detecção e diminuição das causas dos incêndios florestais no País, de modo prioritário nas áreas a definir como «zonas críticas»;
 
@@ -116,7 +156,7 @@ e) Realização de estudos que visem a melhoria dos meios de detecção e preven
 
 3 - Para a elaboração dos planos referidos na alínea a) do n.º 1 serão ouvidas as autarquias locais.
 
-###### Art. 2.º - 1 - Competirá a órgãos regionais de protecção civil, em matéria de protecção, detecção e combate de incêndios florestais, designadamente:
+Art. 2.º - 1 - Competirá a órgãos regionais de protecção civil, em matéria de protecção, detecção e combate de incêndios florestais, designadamente:
 
 a) Propor medidas destinadas a prevenir e detectar incêndios florestais;
 
@@ -138,7 +178,7 @@ h) Emitir os pareceres que, sobre matérias da sua competência, lhes sejam soli
 
 3 - No continente, os órgãos regionais de protecção civil serão presididos pelo governo civil do respectivo distrito.
 
-###### Art. 3.º - 1 - Os municípios têm responsabilidades em matéria de protecção civil.
+Art. 3.º - 1 - Os municípios têm responsabilidades em matéria de protecção civil.
 
 2 - Para efeitos de prevenção, detecção e combate de incêndios florestais, os municípios, ou associações de municípios, integrarão nos seus órgãos de coordenação de protecção civil representantes:
 
@@ -150,7 +190,7 @@ c) Dos serviços de ordenamento e gestão florestais;
 
 d) Da produção florestal.
 
-###### Art. 4.º - 1 - Qualquer pessoa que detecte um incêndio florestal é obrigada a tentar a sua extinção, com a máxima urgência, através de todos os meios de que eventualmente disponha.
+Art. 4.º - 1 - Qualquer pessoa que detecte um incêndio florestal é obrigada a tentar a sua extinção, com a máxima urgência, através de todos os meios de que eventualmente disponha.
 
 2 - Quando a actuação nos termos do número anterior não resulte ou não ofereça perspectivas de ser eficaz, é obrigatória a comunicação da ocorrência às autoridades policiais ou corpos de bombeiros pelo meio mais rápido.
 
@@ -160,29 +200,29 @@ d) Da produção florestal.
 
 5 - As entidades que recebam quaisquer das comunicações referidas no n.º 2 devem informar os órgãos de protecção civil da área.
 
-###### Art. 5.º - 1 - Quando os meios normais disponíveis se revelem insuficientes para a extinção do incêndio, os órgãos regionais de protecção civil poderão requisitar os serviços de cidadãos e viaturas existentes nas localidades mais próximas, desde que indispensáveis para o socorro de vidas e bens.
+Art. 5.º - 1 - Quando os meios normais disponíveis se revelem insuficientes para a extinção do incêndio, os órgãos regionais de protecção civil poderão requisitar os serviços de cidadãos e viaturas existentes nas localidades mais próximas, desde que indispensáveis para o socorro de vidas e bens.
 
 2 - Poderão ainda os órgãos regionais de protecção civil solicitar a colaboração das forças armadas, de acordo com as normas e procedimentos estabelecidos.
 
-###### Art. 6.º Quando colabore na extinção de qualquer incêndio florestal, o comandante do corpo de bombeiros interveniente deverá comunicar a ocorrência ao município da sua área de actuação, o qual, por sua vez, fica obrigado a indicar aos serviços de ordenamento e gestão florestais e aos órgãos regionais de protecção civil a localização da zona atingida e a data do incêndio, para efeitos de acções a desenvolver posteriormente.
+Art. 6.º Quando colabore na extinção de qualquer incêndio florestal, o comandante do corpo de bombeiros interveniente deverá comunicar a ocorrência ao município da sua área de actuação, o qual, por sua vez, fica obrigado a indicar aos serviços de ordenamento e gestão florestais e aos órgãos regionais de protecção civil a localização da zona atingida e a data do incêndio, para efeitos de acções a desenvolver posteriormente.
 
-###### Art. 7.º Poderão ser concedidos subsídios ao Conselho Coordenador do Serviço Nacional de Bombeiros e a outras entidades, com vista a suportar:
+Art. 7.º Poderão ser concedidos subsídios ao Conselho Coordenador do Serviço Nacional de Bombeiros e a outras entidades, com vista a suportar:
 
 a) A totalidade dos encargos com a alimentação e compensação de eventuais perdas de salários de pessoal empenhado no combate a incêndios florestais;
 
 b) O custo da aquisição e uso do equipamento de detecção, combate e extinção de incêndios florestais.
 
-###### Art. 8.º - 1 - A fiscalização do estabelecido neste diploma e seus regulamentos compete especialmente à polícia florestal, à Guarda Nacional Republicana, à Polícia de Segurança Pública e à Guarda Fiscal.
+Art. 8.º - 1 - A fiscalização do estabelecido neste diploma e seus regulamentos compete especialmente à polícia florestal, à Guarda Nacional Republicana, à Polícia de Segurança Pública e à Guarda Fiscal.
 
 2 - As autoridades e seus agentes com competência para fiscalizarem o cumprimento desta lei e diplomas regulamentares deverão levantar autos de notícia de todas as infracções que presenciem ou lhes sejam comunicadas.
 
-###### Art. 9.º Poderão formar-se corpos especiais de vigilantes de incêndios, aos quais sejam confiadas certas zonas de floresta ou determinadas vias de comunicação, com o objectivo de nelas fiscalizarem o cumprimento das disposições deste diploma e seus regulamentos.
+Art. 9.º Poderão formar-se corpos especiais de vigilantes de incêndios, aos quais sejam confiadas certas zonas de floresta ou determinadas vias de comunicação, com o objectivo de nelas fiscalizarem o cumprimento das disposições deste diploma e seus regulamentos.
 
-###### Art. 10.º - 1 - As pessoas que não executarem os trabalhos preventivos referidos na segunda parte da alínea b) do artigo 2.º serão punidas com multa de 1000$00 a 10000$00 e notificadas para os executarem no prazo de oito dias, se outro não for fixado pela autoridade fiscalizadora, em função da natureza desses trabalhos.
+Art. 10.º - 1 - As pessoas que não executarem os trabalhos preventivos referidos na segunda parte da alínea b) do artigo 2.º serão punidas com multa de 1000$00 a 10000$00 e notificadas para os executarem no prazo de oito dias, se outro não for fixado pela autoridade fiscalizadora, em função da natureza desses trabalhos.
 
 2 - Passado o prazo referido no número anterior, o órgão regional de protecção civil mandará proceder, a expensas do infractor, aos trabalhos necessários ao cumprimento das disposições regulamentares.
 
-###### Art. 11.º As infracções das regras estabelecidas por força do disposto na alínea c) do artigo 2.º serão punidas:
+Art. 11.º As infracções das regras estabelecidas por força do disposto na alínea c) do artigo 2.º serão punidas:
 
 a) Com pena de um a dois meses de prisão e multa de 1000$00 a 10000$00, a utilização de fogo ou o emprego de máquinas susceptíveis de provocarem a deflagração de incêndios e o lançamento de balões ou fogo de artifício;
 
@@ -190,22 +230,22 @@ b) Com multa de 5000$00, o lançamento de pontas de cigarro ou de qualquer outro
 
 c) Com multa de 500$00, o acesso a locais proibidos, salvo em casos justificados.
 
-###### Art. 12.º A infracção ao disposto no n.º 1 do artigo 4.º constitui crime de desobediência.
+Art. 12.º A infracção ao disposto no n.º 1 do artigo 4.º constitui crime de desobediência.
 
-###### Art. 13.º A inobservância ou recusa de cumprimento do disposto no n.º 2 do artigo 4.º constitui crime de desobediência qualificada.
+Art. 13.º A inobservância ou recusa de cumprimento do disposto no n.º 2 do artigo 4.º constitui crime de desobediência qualificada.
 
-###### Art. 14.º - 1 - Os sinistrados de incêndios florestais que não beneficiem do disposto na legislação sobre acidentes de trabalho no que respeita às consequências da sua intervenção, gratuita ou onerosa, no respectivo combate terão direito a internamento hospitalar e a assistência médica e medicamentosa e a indemnizações ou pensões de acordo com o disposto na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) e no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246).
+Art. 14.º - 1 - Os sinistrados de incêndios florestais que não beneficiem do disposto na legislação sobre acidentes de trabalho no que respeita às consequências da sua intervenção, gratuita ou onerosa, no respectivo combate terão direito a internamento hospitalar e a assistência médica e medicamentosa e a indemnizações ou pensões de acordo com o disposto na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) e no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246).
 
 2 - Aplica-se, porém, o disposto no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951, quando se trate de sinistrados subscritores da Caixa Geral de Aposentações vítimas de acidentes previstos no mesmo diploma.
 
-###### Art. 15.º Ao Governo compete tomar as disposições tendentes à reconstituição dos povoamentos florestais atingidos por incêndios.
+Art. 15.º Ao Governo compete tomar as disposições tendentes à reconstituição dos povoamentos florestais atingidos por incêndios.
 
-###### Art. 16.º Este diploma entra em vigor na data da sua publicação e revoga o [Decreto-Lei n.º 488/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1970-147581), de 21 de Outubro.
+Art. 16.º Este diploma entra em vigor na data da sua publicação e revoga o [Decreto-Lei n.º 488/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1970-147581), de 21 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 14 de Agosto de 1980.**
+Promulgado em 14 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

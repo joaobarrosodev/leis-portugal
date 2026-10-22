@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01400/01080109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1978-447909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0f2d624114f635744430a70bf98e8bce6095a706660832beb72ea2416e0a5c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd95dc5af0d493ca708b72fdafdfc93e953b3ebc168c0fda09d7256602821d6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Valores
+- Comissão para a Regularização das Liquidações das Operações da Bolsa de Lisboa
+- Corretor
+- Gestão Bancária
+- Gestor
+- Lisboa
+- Regime Jurídico
+- Sociedade Corretora
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:07Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +114,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Qualquer corretor das bolsas de valores poderá ser sujeito a um regime provisório de gestão, nos termos do presente diploma, quando se verifique à data da sua publicação alguma das situações referidas no artigo seguinte.
+Artigo 1.º Qualquer corretor das bolsas de valores poderá ser sujeito a um regime provisório de gestão, nos termos do presente diploma, quando se verifique à data da sua publicação alguma das situações referidas no artigo seguinte.
 
-###### Art. 2.º São causas justificativas, individual ou conjuntamente, de sujeição ao regime provisório de gestão:
+Art. 2.º São causas justificativas, individual ou conjuntamente, de sujeição ao regime provisório de gestão:
 
 a) Encerramento total do estabelecimento;
 
@@ -110,36 +124,36 @@ b) Abandono de instalações ou do estabelecimento pelo corretor, quando afecte 
 
 c) Incumprimento de forma reiterada das obrigações para com o Estado, a Previdência Social, os trabalhadores e as entidades que hajam recorrido aos serviços do corretor.
 
-###### Art. 3.º O regime provisório de gestão visa a liquidação, em títulos ou em dinheiro, das operações sobre títulos em que o corretor haja intervindo, e outras directamente com elas relacionadas, e implica a gestão corrente do estabelecimento enquanto se mostrar necessária à realização daqueles fins.
+Art. 3.º O regime provisório de gestão visa a liquidação, em títulos ou em dinheiro, das operações sobre títulos em que o corretor haja intervindo, e outras directamente com elas relacionadas, e implica a gestão corrente do estabelecimento enquanto se mostrar necessária à realização daqueles fins.
 
-###### Art. 4.º - 1 - Verificada qualquer das situações previstas no artigo 2.º, a comissão directiva da respectiva bolsa proporá ao Secretário de Estado do Tesouro a nomeação de gestores para os fins visados no artigo 3.º, bem como a suspensão do corretor, nos termos do artigo 8.º
+Art. 4.º - 1 - Verificada qualquer das situações previstas no artigo 2.º, a comissão directiva da respectiva bolsa proporá ao Secretário de Estado do Tesouro a nomeação de gestores para os fins visados no artigo 3.º, bem como a suspensão do corretor, nos termos do artigo 8.º
 
 2 - Os gestores nomeados terão todos os poderes de administração do estabelecimento do corretor, devendo actuar em estreita colaboração com o Secretário de Estado do Tesouro e a comissão directiva da bolsa, respondendo apenas pelos seus actos perante o Estado representado por aquele.
 
-###### Art. 5.º Os gestores serão designados de entre funcionários ou agentes da administração central, local e regional ou de institutos públicos ou de qualquer empresa pública ou nacionalizada exercendo as suas funções em regime de acumulação ou de comissão de serviço, não se abrindo vaga nos quadros de origem que apenas podem ser preenchidos interinamente.
+Art. 5.º Os gestores serão designados de entre funcionários ou agentes da administração central, local e regional ou de institutos públicos ou de qualquer empresa pública ou nacionalizada exercendo as suas funções em regime de acumulação ou de comissão de serviço, não se abrindo vaga nos quadros de origem que apenas podem ser preenchidos interinamente.
 
-###### Art. 6.º A partir da publicação no Diário da República do despacho que estabeleceu o regime provisório de gestão, não poderão os respectivos corretores dispor de quaisquer bens móveis ou imóveis que lhes pertençam, à excepção dos impenhoráveis, sem autorização do Secretário de Estado do Tesouro, sob informação dos gestores nomeados e ouvida a comissão directiva da bolsa, sendo ineficazes os actos praticados sem tal autorização.
+Art. 6.º A partir da publicação no Diário da República do despacho que estabeleceu o regime provisório de gestão, não poderão os respectivos corretores dispor de quaisquer bens móveis ou imóveis que lhes pertençam, à excepção dos impenhoráveis, sem autorização do Secretário de Estado do Tesouro, sob informação dos gestores nomeados e ouvida a comissão directiva da bolsa, sendo ineficazes os actos praticados sem tal autorização.
 
-###### Art. 7.º O regime provisório de gestão terminará, sob proposta dos gestores nomeados e ouvida a comissão directiva da bolsa, quando estiverem concluídos os trabalhos de liquidação das operações em atraso ou esgotadas as possibilidades de lhes pôr termo, devendo nessa altura ser também proposta uma solução definitiva para resolver a situação dos corretores visados, nomeadamente a declaração de falência, se houver fundamento para tal.
+Art. 7.º O regime provisório de gestão terminará, sob proposta dos gestores nomeados e ouvida a comissão directiva da bolsa, quando estiverem concluídos os trabalhos de liquidação das operações em atraso ou esgotadas as possibilidades de lhes pôr termo, devendo nessa altura ser também proposta uma solução definitiva para resolver a situação dos corretores visados, nomeadamente a declaração de falência, se houver fundamento para tal.
 
-###### Art. 8.º O regime provisório de gestão implicará automaticamente a suspensão do corretor, o qual ficará no entanto obrigado a prestar aos gestores nomeados todas as informações necessárias ao desempenho das suas funções.
+Art. 8.º O regime provisório de gestão implicará automaticamente a suspensão do corretor, o qual ficará no entanto obrigado a prestar aos gestores nomeados todas as informações necessárias ao desempenho das suas funções.
 
-###### Art. 9.º As providências tomadas ao abrigo do presente diploma não excluem eventual instauração de procedimento disciplinar ou criminal.
+Art. 9.º As providências tomadas ao abrigo do presente diploma não excluem eventual instauração de procedimento disciplinar ou criminal.
 
-###### Art. 10.º Todos os empregados dos corretores, sujeitos ou não ao regime provisório de gestão, que hajam sido transferidos para prestar serviço em empresas públicas ou nacionalizadas serão obrigados a fornecer aos gestores nomeados nos termos do presente diploma e às comissões directivas das bolsas de valores os esclarecimentos necessários à completa regularização das operações sobre títulos cujas liquidações estejam em atraso à data do despacho que estabelecer o regime provisório de gestão.
+Art. 10.º Todos os empregados dos corretores, sujeitos ou não ao regime provisório de gestão, que hajam sido transferidos para prestar serviço em empresas públicas ou nacionalizadas serão obrigados a fornecer aos gestores nomeados nos termos do presente diploma e às comissões directivas das bolsas de valores os esclarecimentos necessários à completa regularização das operações sobre títulos cujas liquidações estejam em atraso à data do despacho que estabelecer o regime provisório de gestão.
 
-###### Art. 11.º O regime previsto no presente diploma é também aplicável aos indivíduos que, tendo exercido as funções de corretor, não tenham, à data da sua publicação, solvido integralmente as obrigações resultantes do exercício daquela profissão.
+Art. 11.º O regime previsto no presente diploma é também aplicável aos indivíduos que, tendo exercido as funções de corretor, não tenham, à data da sua publicação, solvido integralmente as obrigações resultantes do exercício daquela profissão.
 
-###### Art. 12.º Por despacho do Secretário de Estado do Tesouro será extinta a Comissão para a Regularização das Liquidações das Operações da Bolsa de Lisboa, transferindo-se para a Bolsa de Valores de Lisboa os respectivos activo e passivo e passando a competir à mesma as diligências para regularização das operações que ainda se encontrem em atraso à data daquele despacho.
+Art. 12.º Por despacho do Secretário de Estado do Tesouro será extinta a Comissão para a Regularização das Liquidações das Operações da Bolsa de Lisboa, transferindo-se para a Bolsa de Valores de Lisboa os respectivos activo e passivo e passando a competir à mesma as diligências para regularização das operações que ainda se encontrem em atraso à data daquele despacho.
 
-###### Art. 13.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Secretário de Estado do Tesouro.
+Art. 13.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Secretário de Estado do Tesouro.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 3 de Janeiro de 1978.**
+Promulgado em 3 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 50/1976, 1º Suplemento, Série I de 1976-02-28
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 446-(1) a 446-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/05001/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-1976-356557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a92721ee6a0b7f966ba98932503ac3db1b9f6ce71fd9cd96624a4cd5530363d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: febfd981332ed02f081c0a827c1d611e7b8ecf7fef385d774815b159b7c911b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação Colectiva
+- Contrato Coletivo de Trabalho
+- Contrato de Trabalho
+- Convenção Coletiva de Trabalho
+- Ministério do Trabalho
+- Regime Jurídico
+- Relações de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:157052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416415:por
+  label: "Alterados os arts. 1º, 2º, 4º, 5º, 6º, 7º, 8º, 10º, 11º, 13º, 16º, 18º, 19º, 20º, 21º, 22º, 23º, 24º e 25º do presente\
+    \ diploma, pelo DEC LEI.887/76.29.12.1976.MT, DR.IS [301] de 29.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/887-1976-416415
+  date: '1976-12-29'
+- type: amended_by
+  target: pt:dre:240852:por
+  label: "Alterados os arts. 1º, 6º 16º, 19º e 22º do presente diploma, na redacção do Dec Lei 887/76, de 29-Dez, pelo DEC\
+    \ LEI.353-G/77.29.08.1977.MPCE, DR.IS [199-2ºSupl] de 29.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-g-1977-240852
+  date: '1977-08-29'
+- type: cites
+  target: pt:dre:147607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157052:por
+  label: Revogado o presente diploma, com as alterações introduzidas pelo Dec Lei 887/76 de 29-dez e pelo Dec Lei 353-G/77
+    de 29-ago, pelo(a) Decreto-Lei n.º 519-C1/79 - Diário da República n.º 299/1979, 3º Suplemento, Série I de 1979-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-c1-1979-157052
+  date: '1979-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:02Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +149,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação)
 
@@ -114,7 +163,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. O regime jurídico da regulamentação colectiva de trabalho para os trabalhadores do Estado, das autarquias locais, institutos de direito público e pessoas colectivas de direito privado e utilidade pública será objecto de diploma específico dos Ministérios das Finanças, da Administração Interna e do Trabalho.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Modos de regulamentação)
 
@@ -122,13 +171,13 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 2. A regulamentação das relações colectivas de trabalho pode também ser feita por via administrativa, nos termos dos artigos 20.º e 21.º
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Objecto)
 
 Os instrumentos a que se refere o artigo anterior regulamentam as condições de trabalho e as garantias dos trabalhadores.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Limites)
 
@@ -142,7 +191,7 @@ c) Incluir qualquer disposição que importe para os trabalhadores tratamento me
 
 d) Estabelecer regulamentação das actividades económicas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Efeitos jurídicos)
 
@@ -154,7 +203,7 @@ d) Estabelecer regulamentação das actividades económicas.
 
 4. Caso os sindicatos não escolham a convenção mais favorável nos termos e no prazo indicados nos números anteriores, cabe ao Ministro do Trabalho emitir despacho que determine a prevalência pretendida pelo n.º 2.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Sujeitos)
 
@@ -168,7 +217,7 @@ b) As entidades patronais ou as associações patronais.
 
 3. Só as associações sindicais e patronais devidamente registadas nos termos do respectivo regime jurídico podem celebrar convenções colectivas de trabalho.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Forma e capacidade)
 
@@ -186,7 +235,7 @@ d) No caso das empresas nacionalizadas, os membros dos conselhos de gerência ou
 
 3. Com vista às negociações, os representantes legítimos das associações sindicais e patronais deverão oportunamente fazer as necessárias consultas aos trabalhadores e às entidades patronais interessados, não podendo, no entanto, invocar tal necessidade para obter a interrupção do curso do processo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Conteúdo obrigatório)
 
@@ -202,7 +251,7 @@ d) A data da celebração.
 
 2. O disposto no número anterior aplica-se, com as necessárias adaptações, às decisões arbitrais e às portarias de regulamentação e extensão.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Âmbito de aplicação)
 
@@ -212,13 +261,13 @@ d) A data da celebração.
 
 3. Em caso de cessão total ou parcial de uma empresa, a entidade patronal cessionária ficará obrigada a observar, até ao termo do respectivo prazo de vigência, o instrumento de regulamentação colectiva que vincula a entidade patronal cedente.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Obrigações das partes)
 
 Os sindicatos e associações patronais devem fazer executar e observar, por parte dos seus associados, as convenções colectivas que tenham celebrado ou que tenham sido celebradas pelas federações, uniões e confederações em que se integram e são responsáveis pelas violações que tenham promovido.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Processo)
 
@@ -230,7 +279,7 @@ Os sindicatos e associações patronais devem fazer executar e observar, por par
 
 4. Das propostas e respostas serão enviadas cópias ao Ministério do Trabalho.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Fixação prévia do acréscimo global de encargos)
 
@@ -238,7 +287,7 @@ Os sindicatos e associações patronais devem fazer executar e observar, por par
 
 2. O Ministério do Trabalho e o Ministério responsável pelo sector de actividade fornecerão às partes todo o apoio técnico que por elas seja requerido.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Conciliação)
 
@@ -254,7 +303,7 @@ b) Por uma das partes, no caso de falta de resposta à proposta de celebração 
 
 4. Os conflitos colectivos de trabalho que resultem da celebração ou revisão de uma convenção colectiva aplicável a empresas públicas ou nacionalizadas podem ser obrigatoriamente submetidos a conciliação por despacho conjunto dos Ministros interessados.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Mediação)
 
@@ -268,7 +317,7 @@ b) Por uma das partes, no caso de falta de resposta à proposta de celebração 
 
 5. Até ao termo do prazo fixado no número anterior, o mediador poderá realizar todos os contactos, com cada uma das partes em separado, que considere convenientes e viáveis no sentido da obtenção de um acordo.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Arbitragem)
 
@@ -288,7 +337,7 @@ b) Por uma das partes, no caso de falta de resposta à proposta de celebração 
 
 8. A decisão arbitral tem os mesmos efeitos jurídicos da convenção colectiva.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Arbitragem obrigatória)
 
@@ -296,13 +345,13 @@ b) Por uma das partes, no caso de falta de resposta à proposta de celebração 
 
 2. No caso previsto no número anterior, o eventual desacordo entre as partes quanto à nomeação do terceiro árbitro poderá ser suprido por despacho do Ministro de Tutela.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Adesão)
 
 As associações sindicais e as associações patronais ou as entidades patronais podem acordar em aderir às convenções colectivas de trabalho.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Comissões paritárias)
 
@@ -318,7 +367,7 @@ As associações sindicais e as associações patronais ou as entidades patronai
 
 6. A pedido da comissão poderá participar nas reuniões, sem direito a voto, um representante do Ministério do Trabalho.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Depósito)
 
@@ -326,7 +375,7 @@ As associações sindicais e as associações patronais ou as entidades patronai
 
 2. O depósito será recusado se os referidos instrumentos de regulamentação não obedecerem ao disposto no artigo 8.º deste diploma.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Portarias de extensão)
 
@@ -338,7 +387,7 @@ As associações sindicais e as associações patronais ou as entidades patronai
 
 4. Nos quinze dias seguintes ao da publicação do aviso, podem os interessados no processo de extensão deduzir oposição fundamentada.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Portarias de regulamentação)
 
@@ -350,7 +399,7 @@ As associações sindicais e as associações patronais ou as entidades patronai
 
 4. Da portaria cabe recurso para o Conselho de Ministros.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Publicação e entrada em vigor)
 
@@ -358,7 +407,7 @@ As associações sindicais e as associações patronais ou as entidades patronai
 
 2. Os instrumentos de regulamentação colectiva de trabalho entrarão em vigor após a sua publicação, nos mesmos termos das leis.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Prazo de vigência)
 
@@ -368,13 +417,13 @@ As associações sindicais e as associações patronais ou as entidades patronai
 
 3. O disposto no número anterior aplica-se igualmente às portarias de regulamentação e de extensão.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Anulação de cláusulas ilegais)
 
 As associações sindicais e patronais, bem como os trabalhadores e entidades patronais interessados, podem propor acção de anulação, perante os tribunais de trabalho, das cláusulas dos instrumentos de regulamentação colectiva de trabalho.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Sanções)
 
@@ -394,7 +443,7 @@ As associações sindicais e patronais, bem como os trabalhadores e entidades pa
 
 8. O produto das multas reverterá para o Fundo de Desemprego.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Entrada em vigor)
 
@@ -402,8 +451,8 @@ Este diploma entra imediatamente em vigor e revoga o [Decreto-Lei n.º 49212](ht
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - João Pedro Tomás Rosa.
 
-**Promulgado em 28 de Fevereiro de 1976.**
+Promulgado em 28 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

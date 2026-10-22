@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1980-474704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4996d9caccb2dae0fa969c0bdeabe7bb588c063edf08f0ac7d009fd2db2981f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67211877644920ee1c584c7767bb6619f8eee5a0ee02a844943c3ceeb44b365a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Higiene e Medicina Tropical
+- Ministério da Educação e Ciência
+relationships:
+- type: cites
+  target: pt:dre:430470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:01Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +108,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto de Higiene e Medicina Tropical, criado pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, integrado na Secretaria de Estado da Saúde, nos termos previstos no [Decreto-Lei n.º 576/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1976-430470), de 21 de Julho, é transferido para a Universidade Nova de Lisboa, passando a depender do Ministério da Educação e Ciência.
+Artigo 1.º O Instituto de Higiene e Medicina Tropical, criado pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, integrado na Secretaria de Estado da Saúde, nos termos previstos no [Decreto-Lei n.º 576/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1976-430470), de 21 de Julho, é transferido para a Universidade Nova de Lisboa, passando a depender do Ministério da Educação e Ciência.
 
-###### Art. 2.º - 1 - Visando a articulação do Instituto com a Faculdade de Ciências Médicas da Universidade Nova de Lisboa, será publicado um diploma, no prazo de cento e oitenta dias a contar da data da entrada em vigor do presente decreto-lei, onde serão definidas a estrutura e organização, bem como o regime jurídico do pessoal daquele Instituto.
+Art. 2.º - 1 - Visando a articulação do Instituto com a Faculdade de Ciências Médicas da Universidade Nova de Lisboa, será publicado um diploma, no prazo de cento e oitenta dias a contar da data da entrada em vigor do presente decreto-lei, onde serão definidas a estrutura e organização, bem como o regime jurídico do pessoal daquele Instituto.
 
 2 - Durante o período referido no número anterior, o Instituto manterá os regimes jurídico e de administração financeira previstos no [Decreto-Lei n.º 576/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1976-430470) em tudo o que não for contrário ao disposto no presente diploma.
 
 3 - Até à data da publicação do diploma a que se refere o n.º 1 deste artigo, manter-se-á o actual regime jurídico do pessoal em serviço no Instituto.
 
-###### Art. 3.º - 1 - É criada uma comissão de gestão para o Instituto, constituída por um presidente e dois vogais, designados por despacho do Ministro da Educação e Ciência.
+Art. 3.º - 1 - É criada uma comissão de gestão para o Instituto, constituída por um presidente e dois vogais, designados por despacho do Ministro da Educação e Ciência.
 
 2 - Compete à comissão de gestão:
 
@@ -110,20 +124,20 @@ a) Assegurar a direcção e o funcionamento do Instituto;
 
 b) Elaborar e apresentar superiormente o projecto do diploma referido no n.º 1 do artigo anterior, com vista a possibilitar a sua publicação no prazo estabelecido.
 
-###### Art. 4.º - 1 - A gestão administrativa, financeira e patrimonial do Instituto será assegurada, durante o período referido no n.º 1 do artigo 2.º, por um conselho administrativo.
+Art. 4.º - 1 - A gestão administrativa, financeira e patrimonial do Instituto será assegurada, durante o período referido no n.º 1 do artigo 2.º, por um conselho administrativo.
 
 2 - O conselho administrativo é constituído pelo presidente da comissão de gestão, que preside, e por dois vogais, designados por despacho do Ministro da Educação e Ciência.
 
-###### Art. 5.º - 1 - As dotações orçamentais a atribuir ao Instituto, no Orçamento Geral do Estado, serão concedidas através do Ministério da Educação e Ciência.
+Art. 5.º - 1 - As dotações orçamentais a atribuir ao Instituto, no Orçamento Geral do Estado, serão concedidas através do Ministério da Educação e Ciência.
 
 2 - As verbas inscritas, no corrente ano económico, no orçamento do Ministério dos Assuntos Sociais a favor do Instituto serão transferidas para o Ministério da Educação e Ciência.
 
-###### Art. 6.º O presente diploma entra imediatamente em vigor.
+Art. 6.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 19 de Maio de 1980.**
+Promulgado em 19 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/272-1971-643349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 865edabea6dfb1467673be8b6eab75d83057331a06bba323d13e7b7cac05fb09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7328a0d5bfa4fdd1527faf1fa8706c7dcf1de6fb33ece361eb0af2ecdda46c14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:00Z'
   warnings: []
   errors: []
 ---
@@ -89,20 +89,20 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a província de Angola a contrair no Banco de Angola um empréstimo, no montante de 250000000$00, à taxa de 4 por cento ao ano e amortizável em doze anos.
+Artigo 1.º - 1. É autorizada a província de Angola a contrair no Banco de Angola um empréstimo, no montante de 250000000$00, à taxa de 4 por cento ao ano e amortizável em doze anos.
 
 2. O empréstimo será objecto de contrato a celebrar entre o Ministro do Ultramar, em representação da província, e o Banco de Angola.
 
-###### Art. 2.º O produto do empréstimo será integralmente aplicado no financiamento de empreendimentos previstos no III Plano de Fomento.
+Art. 2.º O produto do empréstimo será integralmente aplicado no financiamento de empreendimentos previstos no III Plano de Fomento.
 
-###### Art. 3.º No orçamento geral da província de Angola serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
+Art. 3.º No orçamento geral da província de Angola serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e amortizações do empréstimo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Junho de 1971.**
+Promulgado em 4 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

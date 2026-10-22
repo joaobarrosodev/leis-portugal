@@ -51,18 +51,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/132-1971-445695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad786504f3ddcfeca9003bc2ee59a6e5e5dfa21f5c8c4a436a393356ace09305
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62cff960b62fd5081ede534cde7da7a3f35b4ecfa85f9d87cfaabca9023a7f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239401:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:50Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +111,18 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os possuidores de terrenos da província de Cabo Verde ou das suas autarquias locais que não tenham oportunamente cumprido as formalidades requeridas para a regularização dos seus direitos, mas ocupem esses terrenos realizando o respectivo aproveitamento, como se proprietários fossem, numa posse pública, pacífica e contínua de mais de quinze anos, devem, invocando esta, solicitar aos serviços competentes, no prazo de cinco anos, a partir da data em que for anunciado no Boletim Oficial o início das operações de cadastro na área ocupada, que lhes sejam conferidos, gratuitamente, títulos de propriedade perfeita.
+Artigo 1.º - 1. Os possuidores de terrenos da província de Cabo Verde ou das suas autarquias locais que não tenham oportunamente cumprido as formalidades requeridas para a regularização dos seus direitos, mas ocupem esses terrenos realizando o respectivo aproveitamento, como se proprietários fossem, numa posse pública, pacífica e contínua de mais de quinze anos, devem, invocando esta, solicitar aos serviços competentes, no prazo de cinco anos, a partir da data em que for anunciado no Boletim Oficial o início das operações de cadastro na área ocupada, que lhes sejam conferidos, gratuitamente, títulos de propriedade perfeita.
 
 2. A prova da posse referida no número anterior é feita por documento passado a solicitação do interessado pela junta de freguesia da área onde se situam os terrenos, mediante o depoimento de, pelo menos, duas testemunhas de reconhecida idoneidade, de preferência proprietários de terrenos confinantes com aqueles cuja legalização se pretende, e confirmado pelo conhecimento da autoridade administrativa local.
 
-###### Art. 2.º O título de propriedade perfeita só será concedido após a prova de aproveitamento e demais requisitos exigidos no corpo do artigo 197.º do Regulamento de Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
+Art. 2.º O título de propriedade perfeita só será concedido após a prova de aproveitamento e demais requisitos exigidos no corpo do artigo 197.º do Regulamento de Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Março de 1971.**
+Promulgado em 26 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

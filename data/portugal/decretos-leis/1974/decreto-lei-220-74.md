@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/12300/06580658.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1974-622619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 178c0e1535a140331881c7a2ec598207c0630e66e0d9f7328b25d878e7fd7032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5482fda9e97238096874319db49ac66f5d8583a2a5600cd9739d73ddd980fbb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Registos e do Notariado
+- Direcção Geral dos Serviços Judiciários
+- Direcção Geral dos Serviços Prisionais
+- Governo Provisório I
+- Ministério da Justiça
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472163:por
+  label: "Convertido no de Secretário de Estado da Justiça o cargo de Subsecretário de Estado da Administração Judiciária,\
+    \ criado no presente diploma, pelo DEC LEI.548/74.23.10.1974.MJ, DG.IS [247] de 23.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/548-1974-472163
+  date: '1974-10-23'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:24Z'
   warnings: []
   errors: []
 ---
@@ -90,12 +112,12 @@ de 27 de Maio
 
 Usando da faculdade conferida pelo n.º 3.º do n.º 1 do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É criado no Ministério da Justiça o cargo de Subsecretário de Estado da Administração Judiciária, ao qual caberá despachar, além de outros que lhe forem conferidos pelo Ministro, os assuntos respeitantes à Direcção-Geral dos Serviços Judiciários, à Direcção-Geral dos Registos e do Notariado e à Direcção-Geral dos Serviços Prisionais.
+Artigo único. É criado no Ministério da Justiça o cargo de Subsecretário de Estado da Administração Judiciária, ao qual caberá despachar, além de outros que lhe forem conferidos pelo Ministro, os assuntos respeitantes à Direcção-Geral dos Serviços Judiciários, à Direcção-Geral dos Registos e do Notariado e à Direcção-Geral dos Serviços Prisionais.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Salgado Zenha - Vasco Vieira de Almeida.
 
-**Promulgado em 24 de Maio de 1974.**
+Promulgado em 24 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

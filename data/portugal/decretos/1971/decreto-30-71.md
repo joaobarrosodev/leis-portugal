@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/30-1971-447276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b02fd91e769703265466496bab966fab625936a053edb0d0722dc051dd65851d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 149988e259ecac0d0d463ebde6e4e7b4195c6ac9094815d4007a292f71eb29e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:314407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:15Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Por motivo de urgência, ao abrigo do que preceitua a alínea a) do n.º III da 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Na província ultramarina de Timor, junto da comissão administrativa da Caixa Económica Postal dos Serviços dos Correios, Telégrafos e Telefones intervirá como delegado do Governo da província o inspector provincial de Fazenda, que, obrigatòriamente, tomará parte em todas as sessões da mesma comissão administrativa e a quem especialmente serão atribuídas as funções de:
+Artigo 1.º - 1. Na província ultramarina de Timor, junto da comissão administrativa da Caixa Económica Postal dos Serviços dos Correios, Telégrafos e Telefones intervirá como delegado do Governo da província o inspector provincial de Fazenda, que, obrigatòriamente, tomará parte em todas as sessões da mesma comissão administrativa e a quem especialmente serão atribuídas as funções de:
 
 a) Fiscalizar a actividade da Caixa Económica Postal de Timor;
 
@@ -110,16 +118,16 @@ e) Propor ao Governo da província todas as medidas que julgue convenientes em o
 
 2. Com vista ao desempenho das suas funções, serão fornecidos ao delegado do Governo da província todos os dados, informações e esclarecimentos que o mesmo solicitar através do presidente da comissão administrativa, o qual, na primeira sessão a realizar, dará conhecimento aos restantes membros da comissão dos pedidos daquela natureza que houver recebido, podendo convocar uma sessão extraordinária para o efeito, se entender que o assunto se reveste de uma importância e urgência que tal justifique.
 
-###### Art. 2.º O presidente e vogais da comissão administrativa da Caixa Económica Postal de Timor, bem como o delegado do Governo da província referido no artigo anterior, serão substituídos, quando impedidos de comparecer, pelos seus substitutos legais e, na falta destes, pelos funcionários dos respectivos serviços, de preferência da mesma categoria, que sejam designados por despacho do Governo da província a publicar no Boletim Oficial, designação essa que se manterá apenas enquanto os titulares dos lugares ou seus substitutos legais, se os houver, estiverem impedidos de os exercer.
+Art. 2.º O presidente e vogais da comissão administrativa da Caixa Económica Postal de Timor, bem como o delegado do Governo da província referido no artigo anterior, serão substituídos, quando impedidos de comparecer, pelos seus substitutos legais e, na falta destes, pelos funcionários dos respectivos serviços, de preferência da mesma categoria, que sejam designados por despacho do Governo da província a publicar no Boletim Oficial, designação essa que se manterá apenas enquanto os titulares dos lugares ou seus substitutos legais, se os houver, estiverem impedidos de os exercer.
 
-###### Art. 3.º Ao delegado do Governo junto da Caixa Económica Postal de Timor será fixado pelo Governo da província um subsídio de presença por cada sessão a que assistir, subsídio que será encargo da Caixa, quando para esse fim houver fundos disponíveis, e que será liquidado por forma idêntica à que é seguida para pagamento do subsídio de presença aos membros da comissão administrativa.
+Art. 3.º Ao delegado do Governo junto da Caixa Económica Postal de Timor será fixado pelo Governo da província um subsídio de presença por cada sessão a que assistir, subsídio que será encargo da Caixa, quando para esse fim houver fundos disponíveis, e que será liquidado por forma idêntica à que é seguida para pagamento do subsídio de presença aos membros da comissão administrativa.
 
-###### Art. 4.º Fica revogado, para a província de Timor, na parte que lhe é aplicável, o § 1.º do artigo 118.º da Organização dos Correios, Telégrafos e Telefones do Ultramar, aprovada pelo [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
+Art. 4.º Fica revogado, para a província de Timor, na parte que lhe é aplicável, o § 1.º do artigo 118.º da Organização dos Correios, Telégrafos e Telefones do Ultramar, aprovada pelo [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 27 de Janeiro de 1971.**
+Promulgado em 27 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

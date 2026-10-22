@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11000/12541263.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1982-392453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eb3ffb5eb56ce6030879c59570cd16f268ad5f8f73bc5a6ba759997a47316cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbc0b41871f1d71cc7f917cf58090e5aa536e1b354f17cab79785f4a1e56ec27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educador de Infância
+- Jardim de Infância
+- Ministério da Educação e das Universidades
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:282714:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:421204:por
+  label: "Revogado, na parte respeitante a educadores de infância não efectivos, pelo DEC LEI.200/87.02.05.1987.MEC, DR.IS\
+    \ [100] de 02.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1987-421204
+  date: '1987-05-02'
+- type: repealed_by
+  target: pt:dre:282714:por
+  label: "Revogado pelo DEC LEI.35/88.04.02.1988.ME, DR.IS [29] de 04.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1988-282714
+  date: '1988-02-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:47Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +186,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Da criação do quadro único
 
-###### Artigo 1.º - 1 - É criado o quadro único de educadores de infância dos jardins-de-infância da educação pré-escolar da rede pública do Ministério da Educação e das Universidades, no qual se integram os respectivos quadros privativos.
+Artigo 1.º - 1 - É criado o quadro único de educadores de infância dos jardins-de-infância da educação pré-escolar da rede pública do Ministério da Educação e das Universidades, no qual se integram os respectivos quadros privativos.
 
 2 - Para efeitos do disposto no número anterior, considera-se quadro privativo a dotação atribuída, em termos de lugares do quadro de educadores, a cada um dos jardins-de-infância.
 
-###### Art. 2.º - 1 - Os lugares do quadro de educadores de cada jardim-de-infância serão estabelecidos na portaria referida no artigo 4.º do Estatuto dos Jardins-de-Infância, aprovado pelo [Decreto-Lei n.º 542/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1979-230889), de 31 de Dezembro, que proceder à respectiva criação.
+Art. 2.º - 1 - Os lugares do quadro de educadores de cada jardim-de-infância serão estabelecidos na portaria referida no artigo 4.º do Estatuto dos Jardins-de-Infância, aprovado pelo [Decreto-Lei n.º 542/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1979-230889), de 31 de Dezembro, que proceder à respectiva criação.
 
 2 - Consideram-se como constituindo o quadro privativo de educadores de infância dos respectivos estabelecimentos os lugares já criados pelas Portarias n.os [378/79](https://diariodarepublica.pt/dr/detalhe/portaria/378-1979-381496), de 27 de Julho, [394/79](https://diariodarepublica.pt/dr/detalhe/portaria/394-1979-381363), de 3 de Agosto, [586/79](https://diariodarepublica.pt/dr/detalhe/portaria/586-1979-363116), de 7 de Novembro, [682/80](https://diariodarepublica.pt/dr/detalhe/portaria/682-1980-460654), de 19 de Setembro, [746/81](https://diariodarepublica.pt/dr/detalhe/portaria/746-1981-565206), de 1 de Setembro, e [762/81](https://diariodarepublica.pt/dr/detalhe/portaria/762-1981-564982), de 5 de Setembro.
 
@@ -127,17 +198,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO II — Do provimento dos lugares do quadro
 
-###### Art. 3.º - 1 - O provimento de lugares do quadro único será feito por concurso anual, a abrir, mediante aviso a publicar no Diário da República, pela Direcção-Geral de Pessoal, até 31 de Janeiro de cada ano.
+Art. 3.º - 1 - O provimento de lugares do quadro único será feito por concurso anual, a abrir, mediante aviso a publicar no Diário da República, pela Direcção-Geral de Pessoal, até 31 de Janeiro de cada ano.
 
 2 - O director-geral de Pessoal poderá, em casos excepcionais, devidamente justificados, alterar, por despacho a publicar no Diário da República, a data referida no número anterior.
 
-###### Art. 4.º - 1 - Os lugares do quadro privativo de educadores de cada jardim-de-infância serão postos a concurso, de acordo com as necessidades fundamentadas do respectivo estabelecimento.
+Art. 4.º - 1 - Os lugares do quadro privativo de educadores de cada jardim-de-infância serão postos a concurso, de acordo com as necessidades fundamentadas do respectivo estabelecimento.
 
 2 - A relação dos lugares a preencher pelo concurso referido no número anterior basear-se-á em proposta fundamentada da respectiva Direcção-Geral de Ensino, tendo por base a frequência de cada jardim-de-infância relativamente a 15 de Outubro imediatamente anterior.
 
 ### CAPÍTULO III — Da apresentação a concurso
 
-###### Art. 5.º - 1 - O prazo para requerer a admissão ao concurso é de 10 dias úteis, contado a partir do dia seguinte ao da publicação no Diário da República do aviso referido no n.º 1 do artigo 3.º do presente diploma.
+Art. 5.º - 1 - O prazo para requerer a admissão ao concurso é de 10 dias úteis, contado a partir do dia seguinte ao da publicação no Diário da República do aviso referido no n.º 1 do artigo 3.º do presente diploma.
 
 2 - O prazo a que se refere o número anterior beneficiará de uma dilação de 20 dias para os candidatos que se encontrem numa das seguintes situações:
 
@@ -147,17 +218,17 @@ b) Estejam como cooperantes em países de expressão portuguesa;
 
 c) Se encontrem ao serviço no âmbito do ensino português no estrangeiro.
 
-###### Art. 6.º - 1 - A admissão ao concurso será feita através do preenchimento de um boletim de concurso e de uma ficha a editar pela Imprensa Nacional-Casa da Moeda.
+Art. 6.º - 1 - A admissão ao concurso será feita através do preenchimento de um boletim de concurso e de uma ficha a editar pela Imprensa Nacional-Casa da Moeda.
 
 2 - Os documentos referidos no número anterior serão entregues nas delegações escolares, que confirmarão, se for caso disso, os elementos deles constantes, ou nas estações oficiais referenciadas no respectivo aviso de abertura do concurso.
 
-###### Art. 7.º O concurso realiza-se com recuperação automática de vagas de forma a que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
+Art. 7.º O concurso realiza-se com recuperação automática de vagas de forma a que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
 
-###### Art. 8.º - 1 - O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Diário da República da data da vacatura do lugar, coincidindo esta com a data do despacho ministerial que autorize a transferência do antigo titular.
+Art. 8.º - 1 - O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Diário da República da data da vacatura do lugar, coincidindo esta com a data do despacho ministerial que autorize a transferência do antigo titular.
 
 2 - A Direcção-Geral de Pessoal poderá, nomeadamente por inexistência de frequência, proceder à não recuperação de lugares que tenham ficado vagos em resultado de transferência dos respectivos titulares.
 
-###### Art. 9.º Podem ser opositores ao concurso referido no n.º 1 do artigo 3.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
+Art. 9.º Podem ser opositores ao concurso referido no n.º 1 do artigo 3.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
 
 a) Educadores de infância já providos no quadro, ainda que na situação de licença ilimitada há mais de 1 ano;
 
@@ -165,7 +236,7 @@ b) Candidatos habilitados com o curso das escolas normais de educadores de infâ
 
 ### CAPÍTULO IV — Da ordenação dos candidatos
 
-###### Art. 10.º - 1 - Dentro de cada uma das situações referidas no número anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
+Art. 10.º - 1 - Dentro de cada uma das situações referidas no número anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
 
 a) Classificação profissional;
 
@@ -175,13 +246,13 @@ c) Tempo de serviço prestado em jardim-de-infância particular após a conclus�
 
 2 - A classificação profissional corresponde, para todos os efeitos legais, à classificação final obtida no curso das escolas normais de educadores de infância ou equivalente, determinada nos termos da legislação vigente.
 
-###### Art. 11.º - 1 - A graduação profissional de cada candidato é a classificação profissional acrescida de um valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do artigo anterior e até ao limite de 20 valores.
+Art. 11.º - 1 - A graduação profissional de cada candidato é a classificação profissional acrescida de um valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do artigo anterior e até ao limite de 20 valores.
 
 2 - O número de anos de serviço mencionado no número anterior é o quociente inteiro da divisão por 365 do número de dias de serviço prestado, desde o dia 1 de Setembro do ano em que o educador concluiu o curso das escolas normais de educadores de infância, ou equivalente, até 30 de Setembro imediatamente anterior à data de abertura do concurso.
 
 3 - É ainda considerado para efeitos de graduação profissional o tempo de serviço militar obrigatório, desde que prestado após a conclusão do curso das escolas normais de educadores de infância ou equivalente.
 
-###### Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo 9.º, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
+Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo 9.º, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
 
 2 - Em caso de empate, prefere, sucessivamente:
 
@@ -193,7 +264,7 @@ c) O candidato com mais tempo de serviço, expresso em dias, prestado em estabel
 
 d) O candidato mais idoso.
 
-###### Art. 13.º - 1 - Para efeitos de preenchimento, os lugares do quadro único distribuem-se por direcções escolares.
+Art. 13.º - 1 - Para efeitos de preenchimento, os lugares do quadro único distribuem-se por direcções escolares.
 
 2 - Ainda para efeitos do disposto no número anterior, as direcções escolares agrupam-se em zonas, conforme consta do mapa anexo ao presente diploma.
 
@@ -201,7 +272,7 @@ d) O candidato mais idoso.
 
 ### CAPÍTULO V — Do mecanismo do concurso
 
-###### Art. 14.º - 1 - Dos impressos referidos no n.º 1 do artigo 60.º do presente diploma constarão, obrigatoriamente:
+Art. 14.º - 1 - Dos impressos referidos no n.º 1 do artigo 60.º do presente diploma constarão, obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -217,9 +288,9 @@ f) Código dos jardins-de-infância, dos concelhos, dos distritos escolares e da
 
 2 - As delegações escolares e demais estações oficiais referidas no n.º 2 do artigo 6.º, após cumprido o disposto no mesmo número, farão entrega dos originais dos impressos conforme for determinado no aviso de abertura do concurso.
 
-###### Art. 15.º Compete à Direcção-Geral de Pessoal realizar o concurso para o preenchimento dos lugares vagos do quadro único de educadores de infância, podendo, para o efeito, utilizar técnicas de informática.
+Art. 15.º Compete à Direcção-Geral de Pessoal realizar o concurso para o preenchimento dos lugares vagos do quadro único de educadores de infância, podendo, para o efeito, utilizar técnicas de informática.
 
-###### Art. 16.º - 1 - Os candidatos ao concurso indicarão as suas preferências num, e só num, boletim, de acordo com o previsto numa ou mais das alíneas seguintes:
+Art. 16.º - 1 - Os candidatos ao concurso indicarão as suas preferências num, e só num, boletim, de acordo com o previsto numa ou mais das alíneas seguintes:
 
 a) Código dos jardins-de-infância do continente, até ao limite de 50;
 
@@ -235,7 +306,7 @@ a) Logo que o candidato obtenha colocação, deixa de ser considerado como tal e
 
 b) Mantém, todavia, a possibilidade de obter colocação noutro jardim-de-infância de entre aqueles a que concorreu, nos termos deste artigo, segundo os códigos a que tenha conferido preferência.
 
-###### Art. 17.º - 1 - A lista provisória de ordenação dos candidatos será publicada no Diário da República, podendo os mesmos, no prazo de 8 dias úteis a contar do dia seguinte ao da data da publicação, reclamar da sua ordenação, sendo, porém, aplicável o disposto no n.º 2 do artigo 5.º para os candidatos nele mencionados.
+Art. 17.º - 1 - A lista provisória de ordenação dos candidatos será publicada no Diário da República, podendo os mesmos, no prazo de 8 dias úteis a contar do dia seguinte ao da data da publicação, reclamar da sua ordenação, sendo, porém, aplicável o disposto no n.º 2 do artigo 5.º para os candidatos nele mencionados.
 
 2 - É da competência do director-geral de Pessoal a decisão sobre as reclamações referidas no número anterior, que só são consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais.
 
@@ -245,21 +316,21 @@ b) Mantém, todavia, a possibilidade de obter colocação noutro jardim-de-infâ
 
 5 - As desistências do concurso só serão admitidas dentro do prazo de reclamações previsto no n.º 1 deste artigo, devendo ser apresentadas em papel selado, com a assinatura reconhecida notarialmente.
 
-###### Art. 18.º Para todos os efeitos considera-se que a não apresentação de reclamação por parte dos candidatos à lista provisória referida no n.º 1 do artigo anterior equivale à aceitação tácita da mesma lista, dela resultando a intempestividade do recurso hierárquico previsto no n.º 3 do mesmo artigo.
+Art. 18.º Para todos os efeitos considera-se que a não apresentação de reclamação por parte dos candidatos à lista provisória referida no n.º 1 do artigo anterior equivale à aceitação tácita da mesma lista, dela resultando a intempestividade do recurso hierárquico previsto no n.º 3 do mesmo artigo.
 
-###### Art. 19.º Decididas as reclamações, a Direcção-Geral de Pessoal fará publicar no Diário da República a lista definitiva de colocações.
+Art. 19.º Decididas as reclamações, a Direcção-Geral de Pessoal fará publicar no Diário da República a lista definitiva de colocações.
 
 ### CAPÍTULO VI — Forma desprovimento e seus efeitos
 
-###### Art. 20.º O provimento dos educadores nos quadros dos jardins-de-infância entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
+Art. 20.º O provimento dos educadores nos quadros dos jardins-de-infância entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
 
-###### Art. 21.º - 1 - Até ao dia 15 de Setembro do ano escolar a que o concurso respeita, mas com efeitos desde o dia 1 de Setembro, os educadores nomeados para os quadros dos jardins-de-infância nos termos do respectivo concurso previsto neste diploma tomarão posse provisória, seguida de exercício, dos lugares que, nos termos da lista definitiva, lhes hajam sido atribuídos, lavrando-se para o efeito o competente termo.
+Art. 21.º - 1 - Até ao dia 15 de Setembro do ano escolar a que o concurso respeita, mas com efeitos desde o dia 1 de Setembro, os educadores nomeados para os quadros dos jardins-de-infância nos termos do respectivo concurso previsto neste diploma tomarão posse provisória, seguida de exercício, dos lugares que, nos termos da lista definitiva, lhes hajam sido atribuídos, lavrando-se para o efeito o competente termo.
 
 2 - A posse provisória referida no número anterior transformar-se-á em definitiva após a publicação do provimento no Diário da República, procedendo-se, para o efeito, à respectiva anotação no termo de posse provisória.
 
 3 - Para efeitos do disposto no número anterior, a lista definitiva prevista no artigo 19.º será homologada por despacho ministerial.
 
-###### Art. 22.º - 1 - A não comparência dos educadores para efeitos do disposto no n.º 1 do artigo anterior, bem como a declaração expressa antecipada de não tomar posse do respectivo lugar, determina:
+Art. 22.º - 1 - A não comparência dos educadores para efeitos do disposto no n.º 1 do artigo anterior, bem como a declaração expressa antecipada de não tomar posse do respectivo lugar, determina:
 
 a) A anulação da nomeação;
 
@@ -269,7 +340,7 @@ b) A impossibilidade de, no respectivo ano escolar e no seguinte, serem colocado
 
 3 - O disposto na alínea b) do n.º 1 poderá não ser aplicado em virtude de motivos devidamente justificados e fundamentados, reconhecidos como tal por despacho ministerial.
 
-###### Art. 23.º - 1 - No caso de ao provimento dos lugares dos quadros de educadores dos jardins-de-infância ser recusado o visto do Tribunal de Contas, considera-se nula a posse provisória mencionada no artigo 21.º, a qual não originará, porém, para o interessado, a perda da qualidade de educador, salvo se for a falta daquela qualidade o fundamento da recusa.
+Art. 23.º - 1 - No caso de ao provimento dos lugares dos quadros de educadores dos jardins-de-infância ser recusado o visto do Tribunal de Contas, considera-se nula a posse provisória mencionada no artigo 21.º, a qual não originará, porém, para o interessado, a perda da qualidade de educador, salvo se for a falta daquela qualidade o fundamento da recusa.
 
 2 - Até ao conhecimento oficial pela respectiva direcção escolar da recusa do visto são devidos os abonos aos interessados, na qualidade de educadores dos quadros na 1.ª fase.
 
@@ -279,9 +350,9 @@ b) A impossibilidade de, no respectivo ano escolar e no seguinte, serem colocado
 
 5 - O disposto no número anterior não é aplicável nos casos em que a recusa do visto se fundamentar na falta de posse da respectiva habilitação profissional ou em inibição para o exercício da função pública, casos em que o interessado cessará imediatamente o exercício de funções.
 
-###### Art. 24.º A posse provisória mencionada no artigo 21.º do presente diploma confere ao respectivo educador todos os direitos e deveres inerentes à qualidade de educador do quadro.
+Art. 24.º A posse provisória mencionada no artigo 21.º do presente diploma confere ao respectivo educador todos os direitos e deveres inerentes à qualidade de educador do quadro.
 
-###### Art. 25.º - 1 - O provimento dos educadores no quadro dos jardins-de-infância determina para os mesmos o direito à atribuição das 2.ª fase, 3.ª fase ou 4.ª fase previstas no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 7 de Dezembro, consoante o tempo de serviço anteriormente prestado.
+Art. 25.º - 1 - O provimento dos educadores no quadro dos jardins-de-infância determina para os mesmos o direito à atribuição das 2.ª fase, 3.ª fase ou 4.ª fase previstas no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 7 de Dezembro, consoante o tempo de serviço anteriormente prestado.
 
 2 - Para efeitos do disposto no número anterior, é contado todo o tempo de serviço docente anteriormente prestado, nas seguintes condições:
 
@@ -295,9 +366,9 @@ b) A partir de 7 de Maio de 1976, inclusive, todo o tempo de serviço prestado, 
 
 ### CAPÍTULO VII — Da colocação de educadores de Infância não pertencentes aos quadros
 
-###### Art. 26.º O preenchimento de lugares vagos e disponíveis existentes na educação pré-escolar que não possa ser assegurado pelos educadores do quadro único previsto neste diploma será feito por educadores habilitados com o curso das escolas normais de educadores de infância ou equivalente.
+Art. 26.º O preenchimento de lugares vagos e disponíveis existentes na educação pré-escolar que não possa ser assegurado pelos educadores do quadro único previsto neste diploma será feito por educadores habilitados com o curso das escolas normais de educadores de infância ou equivalente.
 
-###### Art. 27.º Para efeitos do disposto no artigo anterior observar-se-ão as seguintes prioridades:
+Art. 27.º Para efeitos do disposto no artigo anterior observar-se-ão as seguintes prioridades:
 
 a) Educadores de infância não pertencentes aos quadros que requeiram a sua recondução no jardim-de-infância onde se encontravam colocados no ano escolar imediatamente anterior por efeitos de concurso;
 
@@ -307,7 +378,7 @@ c) Educadores de infância não pertencentes ao quadro já em serviço em jardim
 
 d) Educadores de infância novos candidatos ao concurso referido no artigo seguinte.
 
-###### Art. 28.º - 1 - O preenchimento dos lugares vagos e disponíveis após as reconduções e colocações previstas nas alíneas a) e b) do n.º 1 do artigo anterior far-se-á por concurso anual aberto nos primeiros 10 dias de Julho, o qual será realizado em 2 fases, sendo a 1.ª de âmbito distrital e a 2.ª de âmbito regional.
+Art. 28.º - 1 - O preenchimento dos lugares vagos e disponíveis após as reconduções e colocações previstas nas alíneas a) e b) do n.º 1 do artigo anterior far-se-á por concurso anual aberto nos primeiros 10 dias de Julho, o qual será realizado em 2 fases, sendo a 1.ª de âmbito distrital e a 2.ª de âmbito regional.
 
 2 - Para a realização da 2.ª fase do concurso tomar-se-ão em consideração as regiões constantes do mapa anexo ao presente diploma.
 
@@ -315,7 +386,7 @@ d) Educadores de infância novos candidatos ao concurso referido no artigo segui
 
 4 - Em caso de necessidade devidamente fundamentada, poderá o director-geral de Pessoal alterar, por despacho a publicar no Diário da República, a data de abertura do concurso previsto no n.º 1 deste artigo.
 
-###### Art. 29.º - 1 - Compete às direcções escolares, no que se refere às reconduções e colocações previstas nas alíneas a) e b) do artigo 27.º:
+Art. 29.º - 1 - Compete às direcções escolares, no que se refere às reconduções e colocações previstas nas alíneas a) e b) do artigo 27.º:
 
 a) Ordenar, de acordo com o disposto nos artigos 10.º, 11.º e 12.º do presente diploma, os candidatos, elaborando a respectiva lista provisória;
 
@@ -337,7 +408,7 @@ d) Decidir das reclamações apresentadas pelos candidatos e afixar nos locais d
 
 e) Proceder às colocações relativas à 1.ª fase do concurso, de acordo com as preferências dos candidatos e por ordem da respectiva posição na lista ordenada.
 
-###### Art. 30.º - 1 - Compete à direcção escolar que vier a ser designada nos termos do n.º 3 do artigo 28.º deste decreto-lei realizar a 2.ª fase do concurso, procedendo:
+Art. 30.º - 1 - Compete à direcção escolar que vier a ser designada nos termos do n.º 3 do artigo 28.º deste decreto-lei realizar a 2.ª fase do concurso, procedendo:
 
 a) À determinação dos lugares vagos e disponíveis na respectiva região e à sua afixação;
 
@@ -353,7 +424,7 @@ e) Às colocações relativas à 2.ª fase, de acordo com a preferência dos can
 
 ### CAPÍTULO VIII — Das reconduções
 
-###### Art. 31.º - 1 - Para efeitos do disposto na alínea a) do artigo 27.º entende-se por recondução a renovação da colocação do educador no jardim-de-infância onde exerce funções.
+Art. 31.º - 1 - Para efeitos do disposto na alínea a) do artigo 27.º entende-se por recondução a renovação da colocação do educador no jardim-de-infância onde exerce funções.
 
 2 - Podem solicitar recondução os educadores que, cumulativamente, reúnam as seguintes condições:
 
@@ -367,17 +438,17 @@ a) Educadores colocados em lugares que entraram em funcionamento após o início
 
 b) Educadores colocados após o início do ano escolar por erros de concurso imputáveis à administração, reconhecidos como tal, caso a caso, por despacho ministerial.
 
-###### Art. 32.º O provimento resultante das reconduções far-se-á independentemente de quaisquer formalidades legais, inclusive o visto do Tribunal de Contas.
+Art. 32.º O provimento resultante das reconduções far-se-á independentemente de quaisquer formalidades legais, inclusive o visto do Tribunal de Contas.
 
-###### Art. 33.º Os pedidos de recondução serão apresentados no prazo de 10 dias úteis, contados a partir do dia seguinte ao da publicação no Diário da República da lista definitiva de colocação dos educadores do quadro, em requerimento em papel selado dirigido ao respectivo director escolar.
+Art. 33.º Os pedidos de recondução serão apresentados no prazo de 10 dias úteis, contados a partir do dia seguinte ao da publicação no Diário da República da lista definitiva de colocação dos educadores do quadro, em requerimento em papel selado dirigido ao respectivo director escolar.
 
 ### CAPÍTULO IX — Da preferência conjugal
 
-###### Art. 34.º - 1 - Os pedidos de colocação ao abrigo da alínea b) do artigo 27.º do presente diploma serão apresentados, mediante requerimento em papel selado, dirigido ao director escolar do distrito onde se situa a localidade ou freguesia pretendidas, acompanhado de certidão do estado civil, de prova da situação profissional do cônjuge e ainda de atestado de residência ou de documento comprovativo do local e trabalho do cônjuge, passado pelo competente serviço.
+Art. 34.º - 1 - Os pedidos de colocação ao abrigo da alínea b) do artigo 27.º do presente diploma serão apresentados, mediante requerimento em papel selado, dirigido ao director escolar do distrito onde se situa a localidade ou freguesia pretendidas, acompanhado de certidão do estado civil, de prova da situação profissional do cônjuge e ainda de atestado de residência ou de documento comprovativo do local e trabalho do cônjuge, passado pelo competente serviço.
 
 2 - O requerimento a que se refere o número anterior será apresentado no prazo de 10 dias úteis, contado a partir do dia seguinte ao da publicação no Diário da República da lista definitiva de colocações dos educadores do quadro.
 
-###### Art. 35.º - 1 - A colocação ao abrigo da preferência conjugal deverá obedecer às seguintes condições:
+Art. 35.º - 1 - A colocação ao abrigo da preferência conjugal deverá obedecer às seguintes condições:
 
 a) Consideram-se funcionários ou agentes os indivíduos que se encontrem providos em lugares de quadro ou contratados além do quadro e ainda os eventuais em tempo completo há mais de 1 ano, em serviços e organismos da administração central e local, da forças armadas, da Administração Pública ou dos corpos administrativos, mesmo que na situação de aposentação, reforma ou reserva;
 
@@ -393,7 +464,7 @@ c) O candidato terá de optar pela localidade ou freguesia da residência do cô
 
 ### CAPÍTULO X — Da abertura do concurso
 
-###### Art. 36.º - 1 - Em cada ano escolar, considera-se aberto, independentemente de quaisquer formalidades, o concurso previsto no artigo 28.º deste diploma.
+Art. 36.º - 1 - Em cada ano escolar, considera-se aberto, independentemente de quaisquer formalidades, o concurso previsto no artigo 28.º deste diploma.
 
 2 - No prazo legalmente estabelecido os candidatos apresentarão numa e só numa direcção escolar a sua candidatura através do preenchimento de um e só um boletim de concurso e de uma ficha de modelo a editar pela Imprensa Nacional-Casa da Moeda.
 
@@ -405,11 +476,11 @@ c) O candidato terá de optar pela localidade ou freguesia da residência do cô
 
 6 - Relativamente a cada ano escolar, são excluídos do concurso os educadores que se candidatarem em mais de um distrito escolar.
 
-###### Art. 37.º Os candidatos que desejem ser colocados em distrito escolar diferente daquele onde exercem funções apresentarão, além do documento referido no artigo anterior, uma declaração, devidamente autenticada com o selo branco ou carimbo a óleo em uso na respectiva direcção escolar, do tempo de serviço prestado até 30 de Junho.
+Art. 37.º Os candidatos que desejem ser colocados em distrito escolar diferente daquele onde exercem funções apresentarão, além do documento referido no artigo anterior, uma declaração, devidamente autenticada com o selo branco ou carimbo a óleo em uso na respectiva direcção escolar, do tempo de serviço prestado até 30 de Junho.
 
 ### CAPÍTULO XI — Da ordenação dos candidatos
 
-###### Art. 38.º Os candidatos serão ordenados pelos escalões definidos nas alíneas seguintes e por ordem decrescente da sua graduação profissional, fixada nos termos dos artigos 10.º, 11.º e 12.º deste diploma relativamente ao concurso para o quadro único:
+Art. 38.º Os candidatos serão ordenados pelos escalões definidos nas alíneas seguintes e por ordem decrescente da sua graduação profissional, fixada nos termos dos artigos 10.º, 11.º e 12.º deste diploma relativamente ao concurso para o quadro único:
 
 a) Educadores de infância não pertencentes aos quadros que, tendo direito à recondução, a não obtiveram ou a não quiseram solicitar;
 
@@ -427,7 +498,7 @@ g) Educadores de infância que façam prova de possuir o curso das escolas norma
 
 ### CAPÍTULO XII — Do mecanismo do concurso
 
-###### Art. 39.º - 1 - No boletim de concurso referido no artigo 36.º do presente diploma os candidatos poderão indicar, por ordem de prioridade:
+Art. 39.º - 1 - No boletim de concurso referido no artigo 36.º do presente diploma os candidatos poderão indicar, por ordem de prioridade:
 
 a) Um máximo de 50 jardins-de-infância situados no distrito escolar a que se candidatam;
 
@@ -443,11 +514,11 @@ b) Todos os distritos escolares que se integram na zona a que pertence o distrit
 
 c) Um máximo de 4 zonas do continente.
 
-###### Art. 40.º - 1 - Os candidatos à 1.ª fase do concurso poderão apresentar na direcção escolar a que se candidataram reclamação à lista ordenada provisória referida na alínea b) do n.º 1 do artigo 29.º nos 8 dias úteis subsequentes à sua afixação.
+Art. 40.º - 1 - Os candidatos à 1.ª fase do concurso poderão apresentar na direcção escolar a que se candidataram reclamação à lista ordenada provisória referida na alínea b) do n.º 1 do artigo 29.º nos 8 dias úteis subsequentes à sua afixação.
 
 2 - Da lista definitiva que vier a ser afixada nos termos da alínea c) do n.º 1 do artigo 29.º não cabe qualquer reclamação, mas apenas recurso hierárquico, a interpor no prazo de 30 dias, contado a partir da data da respectiva afixação.
 
-###### Art. 41.º - 1 - Para efeitos da 2.ª fase do concurso, nos 20 dias subsequentes à afixação da lista definitiva de colocações mencionada na alínea c) do n.º 1 do artigo 29.º, a direcção escolar remeterá à direcção escolar designada nos termos do n.º 3 do artigo 28.º:
+Art. 41.º - 1 - Para efeitos da 2.ª fase do concurso, nos 20 dias subsequentes à afixação da lista definitiva de colocações mencionada na alínea c) do n.º 1 do artigo 29.º, a direcção escolar remeterá à direcção escolar designada nos termos do n.º 3 do artigo 28.º:
 
 a) A relação dos lugares ainda vagos e disponíveis no respectivo distrito;
 
@@ -455,9 +526,9 @@ b) Os boletins de concurso e as fichas dos educadores que se candidataram no res
 
 2 - A direcção escolar referida na segunda parte do número anterior ordenará os candidatos de acordo com o disposto no artigo 38.º e dará cumprimento ao estabelecido no artigo 30.º
 
-###### Art. 42.º À 2.ª fase do concurso é aplicável o disposto no artigo 40.º do presente diploma.
+Art. 42.º À 2.ª fase do concurso é aplicável o disposto no artigo 40.º do presente diploma.
 
-###### Art. 43.º - 1 - O preenchimento de lugares ainda vagos após o encerramento da 2.ª fase do concurso referido nos artigos 41.º e 42.º será feita através dos candidatos ainda não colocados que tenham manifestado a preferência estabelecida na alínea c) do n.º 2 do artigo 39.º do presente diploma.
+Art. 43.º - 1 - O preenchimento de lugares ainda vagos após o encerramento da 2.ª fase do concurso referido nos artigos 41.º e 42.º será feita através dos candidatos ainda não colocados que tenham manifestado a preferência estabelecida na alínea c) do n.º 2 do artigo 39.º do presente diploma.
 
 2 - Para efeitos do disposto no número anterior a direcção escolar designada nos termos do n.º 3 do artigo 28.º remeterá à Direcção-Geral de Pessoal:
 
@@ -465,37 +536,37 @@ a) A lista dos lugares ainda vagos e disponíveis existentes nos distritos escol
 
 b) Os boletins de concurso e as respectivas fichas dos candidatos que tenham manifestado a preferência referida na alínea c) do n.º 2 do artigo 39.º
 
-###### Art. 44.º - 1 - Compete à Direcção-Geral de Pessoal proceder às colocações dos candidatos referidos no artigo anterior, ordenando-os, para o efeito, de acordo com o estabelecido no artigo 38.º
+Art. 44.º - 1 - Compete à Direcção-Geral de Pessoal proceder às colocações dos candidatos referidos no artigo anterior, ordenando-os, para o efeito, de acordo com o estabelecido no artigo 38.º
 
 2 - Para efeitos de cumprimento do estabelecido no número anterior poderá o director-geral cometer a execução das tarefas dele resultantes a uma entidade dependente da Direcção-Geral de Pessoal, nomeadamente uma das suas delegações.
 
-###### Art. 45.º - 1 - Às colocações efectuadas nos termos do artigo anterior são aplicáveis as regras estabelecidas para 1.ª e 2.ª fases do concurso previsto no artigo 28.º
+Art. 45.º - 1 - Às colocações efectuadas nos termos do artigo anterior são aplicáveis as regras estabelecidas para 1.ª e 2.ª fases do concurso previsto no artigo 28.º
 
 2 - Por despacho ministerial a publicar no Diário da República poderão ser estabelecidas adaptações que o desenvolvimento normal do processo justifique carecer.
 
-###### Art. 46.º - 1 - Se após as colocações efectuadas nos termos dos artigos 44.º e 45.º ainda existirem lugares por preencher, deverão os directores escolares efectuar a nomeação de educadores interessados no exercício das respectivas funções, desde que reúnam as condições legais exigidas por este diploma ou, na sua falta, de auxiliares de educação, mediante regras a definir por despacho ministerial.
+Art. 46.º - 1 - Se após as colocações efectuadas nos termos dos artigos 44.º e 45.º ainda existirem lugares por preencher, deverão os directores escolares efectuar a nomeação de educadores interessados no exercício das respectivas funções, desde que reúnam as condições legais exigidas por este diploma ou, na sua falta, de auxiliares de educação, mediante regras a definir por despacho ministerial.
 
 2 - Se existir mais de um educador interessado, o director escolar nomeará o candidato com maior graduação profissional.
 
-###### Art. 47.º Aos educadores de infância que vierem a ser colocados ao abrigo do concurso previsto no artigo 28.º deste diploma, bem como aos colocados ao abrigo do artigo 43.º que não aceitarem a colocação que lhes vier a ser atribuída de acordo com as preferências pelos mesmos manifestadas, é aplicável o estabelecido nas alíneas a) e b) do n.º 1 e nos n.os 2 e 3 do artigo 22.º deste decreto-lei.
+Art. 47.º Aos educadores de infância que vierem a ser colocados ao abrigo do concurso previsto no artigo 28.º deste diploma, bem como aos colocados ao abrigo do artigo 43.º que não aceitarem a colocação que lhes vier a ser atribuída de acordo com as preferências pelos mesmos manifestadas, é aplicável o estabelecido nas alíneas a) e b) do n.º 1 e nos n.os 2 e 3 do artigo 22.º deste decreto-lei.
 
 ### CAPÍTULO XIII — Do exercício de funções e abonos de vencimentos aos educadores não pertencentes aos quadros
 
-###### Art. 48.º - 1 - As nomeações dos educadores não pertecentes aos quadros decorrentes do disposto neste diploma coincidem com a data a partir da qual os mesmos educadores adquirem direito ao correspondente abono de vencimentos e são da competência do director-geral de Pessoal, que a poderá delegar nos directores escolares relativamente às nomeações que venham a verificar-se na área em que superintendem.
+Art. 48.º - 1 - As nomeações dos educadores não pertecentes aos quadros decorrentes do disposto neste diploma coincidem com a data a partir da qual os mesmos educadores adquirem direito ao correspondente abono de vencimentos e são da competência do director-geral de Pessoal, que a poderá delegar nos directores escolares relativamente às nomeações que venham a verificar-se na área em que superintendem.
 
 2 - As colocações decorrentes da 1.ª e da 2.ª fases do concurso previsto no artigo 28.º reportam-se sempre a 1 de Setembro do respectivo ano escolar, sendo devidos vencimentos aos respectivos educadores desde essa data.
 
-###### Art. 49.º - 1 - Os vencimentos dos educadores de infância são abonados pelas direcções escolares respectivas.
+Art. 49.º - 1 - Os vencimentos dos educadores de infância são abonados pelas direcções escolares respectivas.
 
 2 - O disposto no número anterior aplica-se às colocações da 2.ª fase do concurso previsto no artigo 28.º, sendo competente para o processamento dos abonos a direcção escolar onde se situe o respectivo jardim-de-infância.
 
-###### Art. 50.º A colocação de educadores do quadro ao abrigo da preferência conjugal far-se-á no regime de requisição previsto na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+Art. 50.º A colocação de educadores do quadro ao abrigo da preferência conjugal far-se-á no regime de requisição previsto na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 51.º - 1 - As nomeações dos educadores de infância não pertencentes aos quadros poderão ser renovados por despacho ministerial, com dispensa de todas as formalidades legais, sempre que as mesmas tenham decorrido da 1.ª e da 2.ª fases do concurso previsto no artigo 28.º
+Art. 51.º - 1 - As nomeações dos educadores de infância não pertencentes aos quadros poderão ser renovados por despacho ministerial, com dispensa de todas as formalidades legais, sempre que as mesmas tenham decorrido da 1.ª e da 2.ª fases do concurso previsto no artigo 28.º
 
 2 - O disposto no número anterior não se aplica aos casos em que o nomeado não se encontre vinculado ao Ministério da Educação e das Universidades.
 
-###### Art. 52.º - 1 - Consideram-se vinculados ao Ministério da Educação e das Universidades até 31 de Agosto do respectivo ano escolar:
+Art. 52.º - 1 - Consideram-se vinculados ao Ministério da Educação e das Universidades até 31 de Agosto do respectivo ano escolar:
 
 a) Os educadores de infância colocados na 1.ª e na 2.ª fases do concurso referido no artigo 28.º deste diploma;
 
@@ -503,23 +574,23 @@ b) Os educadores de infância já em exercício de funções docentes no ano esc
 
 2 - Aos educadores abrangidos pelo disposto na alínea b) do número anterior, o Ministro da Educação e das Universidades atribuirá funções nos termos que vierem a ser estabelecidos por despacho ministerial.
 
-###### Art. 53.º Os educadores vinculados ao Ministério da Educação e das Universidades nos termos do artigo anterior consideram-se, para todos os efeitos legais, em serviço desde o dia 1 de Setembro, sendo abonados pelas direcções escolares a que pertencerem, no caso estabelecido na alínea a) do n.º 1, ou pela direcção escolar em que se inscreveram, no caso do disposto na alínea b) do mesmo número.
+Art. 53.º Os educadores vinculados ao Ministério da Educação e das Universidades nos termos do artigo anterior consideram-se, para todos os efeitos legais, em serviço desde o dia 1 de Setembro, sendo abonados pelas direcções escolares a que pertencerem, no caso estabelecido na alínea a) do n.º 1, ou pela direcção escolar em que se inscreveram, no caso do disposto na alínea b) do mesmo número.
 
-###### Art. 54.º Aos educadores de infância não abrangidos pelo disposto no artigo 52.º é aplicável o estabelecido nos artigos 1.º, 3.º e 7.º do [Decreto-Lei n.º 354/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1974-475555), de 14 de Agosto.
+Art. 54.º Aos educadores de infância não abrangidos pelo disposto no artigo 52.º é aplicável o estabelecido nos artigos 1.º, 3.º e 7.º do [Decreto-Lei n.º 354/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1974-475555), de 14 de Agosto.
 
-###### Art. 55.º As nomeações dos educadores de infância não pertencentes aos quadros serão efectuadas por conveniência urgente de serviço público, aplicando-se-lhes o disposto no § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, e no artigo 1.º do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.
+Art. 55.º As nomeações dos educadores de infância não pertencentes aos quadros serão efectuadas por conveniência urgente de serviço público, aplicando-se-lhes o disposto no § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, e no artigo 1.º do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.
 
 ### CAPÍTULO XIV — Disposições finais e transitórias
 
-###### Art. 56.º Para efeitos do presente diploma, o ano escolar inicia-se em 1 de Setembro e termina a 31 de Agosto.
+Art. 56.º Para efeitos do presente diploma, o ano escolar inicia-se em 1 de Setembro e termina a 31 de Agosto.
 
-###### Art. 57.º Para todos os efeitos, nomeadamente para admissão na função pública, os educadores de infância são considerados como docentes.
+Art. 57.º Para todos os efeitos, nomeadamente para admissão na função pública, os educadores de infância são considerados como docentes.
 
-###### Art. 58.º - 1 - Sempre que um jardim-de-infância deixar de ter frequência superior a 10 crianças poderá o funcionamento do mesmo ser suspenso por despacho ministerial.
+Art. 58.º - 1 - Sempre que um jardim-de-infância deixar de ter frequência superior a 10 crianças poderá o funcionamento do mesmo ser suspenso por despacho ministerial.
 
 2 - Poderá igualmente ser mandado reactivar, por despacho ministerial, o funcionamento de um jardim-de-infância desde que deixe de existir o motivo da suspensão daquele funcionamento.
 
-###### Art. 59.º - 1 - A suspensão de lugares de educador poderá ser determinada, por despacho ministerial, desde que se verifique que, a cada lugar, não corresponde a frequência de, pelo menos, 10 crianças.
+Art. 59.º - 1 - A suspensão de lugares de educador poderá ser determinada, por despacho ministerial, desde que se verifique que, a cada lugar, não corresponde a frequência de, pelo menos, 10 crianças.
 
 2 - Para os efeitos previstos no número anterior, o processo de suspensão será organizado pela Direcção-Geral do Ensino Básico, mediante proposta fundamentada do conselho consultivo do respectivo jardim-de-infância, que terá em consideração, nomeadamente:
 
@@ -529,52 +600,52 @@ b) O atendimento das especificidades locais previsto no n.º 2 do artigo 16.º d
 
 3 - A suspensão poderá ser dada por finda desde que o aumento de frequência o justifique ou mediante proposta fundamentada do conselho consultivo do respectivo jardim-de-infância.
 
-###### Art. 60.º - 1 - O titular ou titulares de lugares do quadro de educadores de jardins-de-infância cujo funcionamento seja mandado suspender nos termos do n.º 1 do artigo 58.º e ainda os titulares abrangidos pelo estabelecido no artigo anterior poderão ser mandados prestar serviço em jardim-de-infância que não se situe para além de 30 km do primeiro.
+Art. 60.º - 1 - O titular ou titulares de lugares do quadro de educadores de jardins-de-infância cujo funcionamento seja mandado suspender nos termos do n.º 1 do artigo 58.º e ainda os titulares abrangidos pelo estabelecido no artigo anterior poderão ser mandados prestar serviço em jardim-de-infância que não se situe para além de 30 km do primeiro.
 
 2 - Com o acordo dos interessados poderão os educadores referidos no n.º 1 deste artigo ser mandados prestar serviço, por despacho ministerial, em qualquer jardim-de-infância.
 
-###### Art. 61.º - 1 - Os titulares de lugares do quadro de educadores de jardins-de-infância abrangidos pelo disposto nos artigos 58.º, 59.º e 60.º poderão ainda ser afectados ao exercício de funções ligadas à educação pré-escolar nos termos de regras a estabelecer por despacho ministerial, sendo, para o efeito, solicitada a participação dos sindicatos dos professores.
+Art. 61.º - 1 - Os titulares de lugares do quadro de educadores de jardins-de-infância abrangidos pelo disposto nos artigos 58.º, 59.º e 60.º poderão ainda ser afectados ao exercício de funções ligadas à educação pré-escolar nos termos de regras a estabelecer por despacho ministerial, sendo, para o efeito, solicitada a participação dos sindicatos dos professores.
 
 2 - Salvo com o acordo do interessado, as deslocações resultantes do disposto no número anterior não poderão efectuar-se para além de 30 km da residência do educador.
 
 3 - Às deslocações referidas neste artigo serão aplicáveis os regimes de destacamento ou requisição, consoante os casos, previstos no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507) ou de legislação subsequente.
 
-###### Art. 62.º Os titulares de lugares de quadro de educadores de jardins-de-infância abrangidos pelos artigos 58.º, 59.º e 60.º regressarão aos seus lugares de origem logo que os mesmos entrem de novo em funcionamento, salvo se, por efeitos de concurso, tenham adquirido direito ao provimento em lugar do quadro de outro jardim-de-infância.
+Art. 62.º Os titulares de lugares de quadro de educadores de jardins-de-infância abrangidos pelos artigos 58.º, 59.º e 60.º regressarão aos seus lugares de origem logo que os mesmos entrem de novo em funcionamento, salvo se, por efeitos de concurso, tenham adquirido direito ao provimento em lugar do quadro de outro jardim-de-infância.
 
-###### Art. 63.º No concurso para preenchimento de lugares do quadro de educadores de infância, a realizar em Janeiro de 1982, serão postos a concurso todos os lugares constantes do quadro único.
+Art. 63.º No concurso para preenchimento de lugares do quadro de educadores de infância, a realizar em Janeiro de 1982, serão postos a concurso todos os lugares constantes do quadro único.
 
-###### Art. 64.º - 1 - É competente para conferir posse aos educadores nomeados para o quadro e aos educadores não pertencentes ao quadro o delegado escolar do respectivo conselho ou zona escolar.
+Art. 64.º - 1 - É competente para conferir posse aos educadores nomeados para o quadro e aos educadores não pertencentes ao quadro o delegado escolar do respectivo conselho ou zona escolar.
 
 2 - Após a tomada de posse, o original do respectivo termo será remetido à respectiva direcção escolar e serão feitas as competentes comunicações de posse, nos termos legais em vigor, pela respectiva delegação escolar.
 
-###### Art. 65.º - 1 - No primeiro concurso para o preenchimento dos lugares do quadro de educadores de infância que vier a realizar-se nos termos do artigo 3.º do presente diploma não é aplicável o disposto no artigo 21.º
+Art. 65.º - 1 - No primeiro concurso para o preenchimento dos lugares do quadro de educadores de infância que vier a realizar-se nos termos do artigo 3.º do presente diploma não é aplicável o disposto no artigo 21.º
 
 2 - Após a publicação no Diário da República do provimento dos educadores referidos no número anterior, estes tomarão posse definitiva nos 15 dias subsequentes àquela publicação, salvo se o mencionado provimento se não efectuar até 15 de Setembro de 1982, caso em que aos respectivos educadores se aplica o estabelecido nos artigos 21.º e seguintes deste decreto-lei.
 
-###### Art. 66.º - 1 - Os educadores de infância que venham a tomar posse nos termos da primeira parte do n.º 2 do artigo anterior manter-se-ão em exercício de funções no jardim-de-infância em que se encontram colocados na situação de não pertencentes aos quadros, apresentando-se no jardim-de-infância em cujo quadro foram providos até ao dia 16 de Setembro de 1982.
+Art. 66.º - 1 - Os educadores de infância que venham a tomar posse nos termos da primeira parte do n.º 2 do artigo anterior manter-se-ão em exercício de funções no jardim-de-infância em que se encontram colocados na situação de não pertencentes aos quadros, apresentando-se no jardim-de-infância em cujo quadro foram providos até ao dia 16 de Setembro de 1982.
 
 2 - Enquanto se verificar a situação prevista no número anterior, os respectivos educadores mantêm-se na situação de requisitados nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507) ou legislação subsequente.
 
 3 - O disposto no número anterior não é aplicável aos educadores que forem providos no quadro do jardim-de-infância em que já se encontrem em exercício de funções na qualidade de não pertencente ao quadro.
 
-###### Art. 67.º O presente diploma será aplicável às Regiões Autónomas dos Açores e da Madeira através de diploma regional, no qual poderão introduzir as alterações necessárias à sua situação específica.
+Art. 67.º O presente diploma será aplicável às Regiões Autónomas dos Açores e da Madeira através de diploma regional, no qual poderão introduzir as alterações necessárias à sua situação específica.
 
-###### Art. 68.º O presente diploma poderá ser regulamentado por portaria do Ministro da Educação e das Universidades.
+Art. 68.º O presente diploma poderá ser regulamentado por portaria do Ministro da Educação e das Universidades.
 
-###### Art. 69.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas inscritas nas competentes rubricas do orçamento do Ministério da Educação e das Universidades a favor das direcções escolares.
+Art. 69.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas inscritas nas competentes rubricas do orçamento do Ministério da Educação e das Universidades a favor das direcções escolares.
 
-###### Art. 70.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Administração Interna, da Educação e das Universidades, dos Assuntos Sociais e da Reforma Administrativa, consoante a sua natureza.
+Art. 70.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Administração Interna, da Educação e das Universidades, dos Assuntos Sociais e da Reforma Administrativa, consoante a sua natureza.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Maio de 1982.**
+Promulgado em 4 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 2 do artigo 13.º do Decreto-Lei n.º 000/81, de 15 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/11000/12541263.pdf))](https://files.diariodarepublica.pt/1s/1982/05/11000/12541263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11000/12541263.pdf)
 
-**O Ministro da Educação e das Universidades, Vítor Pereira Crespo.**
+O Ministro da Educação e das Universidades, Vítor Pereira Crespo.

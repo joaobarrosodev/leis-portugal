@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46984-1966-475893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e6f0f696ed2ace76bb407922df766c826d63ffed90b58167c4dfa8c4e28b167
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8874739be875031c307a99c7ef70f4510e9d03a0b3361cd39ddccdaef328851
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Função Pública
+- Funcionário Público
+- Ministério dos Negócios Estrangeiros
+- Promoção Profissional
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:59Z'
   warnings: []
   errors: []
 ---
@@ -88,30 +95,30 @@ Não se prevendo com o presente diploma qualquer aumento do número de unidades 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O pessoal burocrático do quadro privativo do Ministério dos Negócios Estrangeiros é constituído por 3 chefes de secção, 7 primeiros-oficiais, 13 segundos-oficiais, 15 terceiros-oficiais, 18 escriturários e 42 dactilógrafos.
+Artigo 1.º O pessoal burocrático do quadro privativo do Ministério dos Negócios Estrangeiros é constituído por 3 chefes de secção, 7 primeiros-oficiais, 13 segundos-oficiais, 15 terceiros-oficiais, 18 escriturários e 42 dactilógrafos.
 
 § 1.º Os funcionários com a categoria actual de estenógrafo e de arquivista são integrados na categoria de terceiro-oficial, independentemente de quaisquer formalidades.
 
 § 2.º O funcionário que ocupa actualmente o lugar de fiel do arquivo é integrado na categoria de escriturário, independentemente de quaisquer formalidades.
 
-###### Art. 2.º A admissão do pessoal burocrático é feita mediante concurso para os lugares de dactilógrafo ou de terceiro-oficial.
+Art. 2.º A admissão do pessoal burocrático é feita mediante concurso para os lugares de dactilógrafo ou de terceiro-oficial.
 
-###### Art. 3.º A admissão ao concurso para os lugares de dactilógrafo é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos 35 anos de idade e possuam as habilitações mínimas do 1.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
+Art. 3.º A admissão ao concurso para os lugares de dactilógrafo é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos 35 anos de idade e possuam as habilitações mínimas do 1.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
 
-###### Art. 4.º A admissão ao concurso para os lugares de terceiro-oficial é aberta aos funcionários do quadro privativo com a categoria de escriturário que possuam as habilitações mínimas do 2.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
+Art. 4.º A admissão ao concurso para os lugares de terceiro-oficial é aberta aos funcionários do quadro privativo com a categoria de escriturário que possuam as habilitações mínimas do 2.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
 
 § 1.º O concurso para terceiro-oficial incluirá uma prova facultativa de estenografia.
 
 § 2.º Quando não forem aprovados candidatos em número suficiente para o preenchimento das vagas de terceiro-oficial existentes, será aberto novo concurso, ao qual poderão ser admitidos todos os cidadãos portugueses originários, com as habilitações requeridas no corpo deste artigo.
 
-###### Art. 5.º O limite de idade fixado em 35 anos nos artigos 3.º e 4.º não se aplica aos candidatos que sejam já funcionários públicos.
+Art. 5.º O limite de idade fixado em 35 anos nos artigos 3.º e 4.º não se aplica aos candidatos que sejam já funcionários públicos.
 
-###### Art. 6.º AS nomeações para dactilógrafo e as promoções a terceiro-oficial serão feitas pela ordem de classificação no concurso.
+Art. 6.º AS nomeações para dactilógrafo e as promoções a terceiro-oficial serão feitas pela ordem de classificação no concurso.
 
-###### Art. 7.º As promoções aos lugares de escriturário serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão, de harmonia com um critério de antiguidade, sobre os dactilógrafos considerados aptos pelo Conselho do Ministério e que reunirem as condições de acesso previstas na lei geral.
+Art. 7.º As promoções aos lugares de escriturário serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão, de harmonia com um critério de antiguidade, sobre os dactilógrafos considerados aptos pelo Conselho do Ministério e que reunirem as condições de acesso previstas na lei geral.
 
-###### Art. 8.º As promoções aos lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão sobre os funcionários da categoria inferior que reunirem as condições de acesso previstas na lei geral e sobre cuja aptidão se tenha pronunciado favoràvelmente o Conselho do Ministério, tendo em conta a antiguidade, os serviços prestados e o conhecimento de línguas estrangeiras e de estenografia.
+Art. 8.º As promoções aos lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão sobre os funcionários da categoria inferior que reunirem as condições de acesso previstas na lei geral e sobre cuja aptidão se tenha pronunciado favoràvelmente o Conselho do Ministério, tendo em conta a antiguidade, os serviços prestados e o conhecimento de línguas estrangeiras e de estenografia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da Republica, 28 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

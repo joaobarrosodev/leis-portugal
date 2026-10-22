@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/11/26100/16841687.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1971-631380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a56a3280050eaba047dede3d1572d05ed330a2c92e73952b24ebcf0489603ece
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e1b062a4f1de8557631fe2f731f1c4bdaee165567a857130afc2c2945d1d06b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Definição de Competências
+- Financiamento
+- Formas de Provimento
+- Fundo de Fomento da Habitação
+- Gratificação
+- Ministério das Obras Públicas
+- Orgânica
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Senha de Presença
 relationships:
 - type: amended_by
   target: pt:dre:665133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340652:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665133:por
+  label: "Revogado, a partir de 04.01.1973, o Dec Lei 49033 de 28-Mai de 1969, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.583/72.30.12.1972.MOP, DG.IS [302] de 30.12.1972, sem prejuízo do disposto no art. 27º deste último diploma,\
+    \ que manteve transitoriamente em vigor os arts. 20º a 26º do citado Dec Lei 49033.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/583-1972-665133
+  date: '1972-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:32Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +144,15 @@ Verificando-se a necessidade de dotar o Fundo de Fomento da Habitação, institu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 12.º, 17.º e 23.º do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 12.º, 17.º e 23.º do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. Constituem atribuições do Fundo o estudo da problemática social da habitação e a realização, no âmbito da competência do Ministério das Obras Públicas, da política habitacional definida pelo Governo.
+Art. 2.º - 1. Constituem atribuições do Fundo o estudo da problemática social da habitação e a realização, no âmbito da competência do Ministério das Obras Públicas, da política habitacional definida pelo Governo.
 
 2. Serão prosseguidas pelo Fundo as atribuições cometidas ao Ministério das Obras Públicas em matéria da habitação e em especial a coordenação do respectivo sector.
 
 3. A intervenção do Estado relativamente ao financiamento do estudo e execução de operações ou trabalhos de urbanização, incluindo a renovação de aglomerados, é prosseguida pelo Fundo nos termos do artigo 50.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730) e demais legislação aplicável.
 
-###### Art. 3.º Para prossecução das suas atribuições, cabe ao Fundo:
+Art. 3.º Para prossecução das suas atribuições, cabe ao Fundo:
 
 a) Adquirir terrenos para construção;
 
@@ -120,27 +172,27 @@ h) Superintender, nos termos legais, na construção de casas económicas;
 
 i) Atribuir subsídios de renda de casa, nos termos de regulamento a aprovar pelo Ministro das Obras Públicas.
 
-###### Art. 4.º Sem prejuízo do disposto no n.º 1 do artigo 6.º, carecerá sempre de autorização do Ministro das Obras Públicas:
+Art. 4.º Sem prejuízo do disposto no n.º 1 do artigo 6.º, carecerá sempre de autorização do Ministro das Obras Públicas:
 
 a) A colaboração referida na alínea f) do artigo 3.º, quando solicitado pelas entidades interessadas;
 
 b) A aprovação de contratos de valor superior a 400000$00, bem como a realização de despesas superiores a esse montante, que sejam relativas a trabalhos não compreendidos no plano anual de actividades ou que não tenham sido já, por qualquer forma, superiormente autorizadas.
 
-###### Art. 5.º - 1. As condições em que deverá processar-se a colaboração dos serviços do Ministério com os das câmaras municipais dos concelhos abrangidos pelos planos de construções do Fundo constarão de despacho do Ministro das Obras Públicas.
+Art. 5.º - 1. As condições em que deverá processar-se a colaboração dos serviços do Ministério com os das câmaras municipais dos concelhos abrangidos pelos planos de construções do Fundo constarão de despacho do Ministro das Obras Públicas.
 
 2. A conservação e limpeza de jardins e espaços públicos e dos arruamentos próprios e de acesso aos agrupamentos de habitações, incluindo os passeios, e das canalizações de esgotos, água e luz ficam a cargo das câmaras municipais.
 
-###### Art. 6.º - 1. O Fundo submeterá anualmente à aprovação do Ministro das Obras Públicas o seu plano de actividades, incluindo um programa de construção e alienação de lotes de terreno e edifícios, que será elaborado atendendo ao nível social dos previsíveis utentes, onde se indicará o número e tipo de fogos a arrendar ou a distribuir segundo os diversos regimes legais.
+Art. 6.º - 1. O Fundo submeterá anualmente à aprovação do Ministro das Obras Públicas o seu plano de actividades, incluindo um programa de construção e alienação de lotes de terreno e edifícios, que será elaborado atendendo ao nível social dos previsíveis utentes, onde se indicará o número e tipo de fogos a arrendar ou a distribuir segundo os diversos regimes legais.
 
 2. Do programa de construção constarão obrigatòriamente as importâncias a pagar pelos moradores, tendo em atenção as suas possibilidades económicas, o custo dos fogos e o nível das rendas praticadas na localidade.
 
 3. Sempre que a lei o exija, o plano de actividades referido no n.º 1 será igualmente submetido, na parte correspondente, à aprovação dos Ministros competentes.
 
-###### Art. 7.º - 1. O número de fogos destinados a alojamento ou realojamento de famílias de modestos recursos, a construir ou a subsidiar nos termos da respectiva legislação especial, constará do plano de actividades a que se refere o n.º 1 do artigo anterior.
+Art. 7.º - 1. O número de fogos destinados a alojamento ou realojamento de famílias de modestos recursos, a construir ou a subsidiar nos termos da respectiva legislação especial, constará do plano de actividades a que se refere o n.º 1 do artigo anterior.
 
 2. O Ministro das Obras Públicas fixará anualmente, por portaria, a importância da contribuição do Fundo para a construção das casas referidas no n.º 1.
 
-###### Art. 8.º - 1. Constituem receitas do Fundo, para os fins dos n.os 1 e 2 do artigo 2.º deste diploma:
+Art. 8.º - 1. Constituem receitas do Fundo, para os fins dos n.os 1 e 2 do artigo 2.º deste diploma:
 
 a) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações orçamentais e de comparticipações do Fundo de Desemprego, bem como as do Fundo das Casas Económicas previstas no n.º 2 deste artigo;
 
@@ -162,7 +214,7 @@ f) As importâncias provenientes de empréstimos contraídos.
 
 ...
 
-###### Art. 11.º Além do presidente, constituem o conselho directivo do Fundo:
+Art. 11.º Além do presidente, constituem o conselho directivo do Fundo:
 
 a) Um representante do Ministério das Finanças;
 
@@ -178,13 +230,13 @@ f) Dois representantes das entidades privadas cuja acção se enquadre nos objec
 
 g) Um representante das instituições de previdência, designado pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 12.º - 1. O conselho administrativo é constituído pelo presidente, por três vogais do conselho directivo, designados para o efeito pelo período de dois anos, e pelos directores dos serviços.
+Art. 12.º - 1. O conselho administrativo é constituído pelo presidente, por três vogais do conselho directivo, designados para o efeito pelo período de dois anos, e pelos directores dos serviços.
 
 2. Às reuniões do conselho administrativo assistirá sempre um delegado do Tribunal de Contas, sem voto.
 
 ...
 
-###### Art. 17.º - 1. Os membros do conselho directivo, com excepção dos que pertençam ao conselho administrativo, têm direito ao abono de uma senha de presença por cada sessão a que assistirem.
+Art. 17.º - 1. Os membros do conselho directivo, com excepção dos que pertençam ao conselho administrativo, têm direito ao abono de uma senha de presença por cada sessão a que assistirem.
 
 2. Os vogais do conselho administrativo, bem como o representante do Tribunal de Contas, têm direito a uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
 
@@ -192,19 +244,19 @@ g) Um representante das instituições de previdência, designado pelo Ministro 
 
 ...
 
-###### Art. 23.º Independentemente de procedimento judicial, poderá o Fundo rescindir os contratos dos arrendatários que, para obtenção ou utilização das respectivas casas, hajam incorrido em qualquer das irregularidades previstas no regulamento do presente diploma.
+Art. 23.º Independentemente de procedimento judicial, poderá o Fundo rescindir os contratos dos arrendatários que, para obtenção ou utilização das respectivas casas, hajam incorrido em qualquer das irregularidades previstas no regulamento do presente diploma.
 
-###### Art. 2.º O quadro do pessoal do Fundo passa a ser o constante do mapa anexo ao presente diploma.
+Art. 2.º O quadro do pessoal do Fundo passa a ser o constante do mapa anexo ao presente diploma.
 
-###### Art. 3.º O lugar de presidente do Fundo será preenchido conforme o disposto na alínea b) do artigo 3.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
+Art. 3.º O lugar de presidente do Fundo será preenchido conforme o disposto na alínea b) do artigo 3.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
 
-###### Art. 4.º Para a admissão aos lugares de técnicos será exigível curso superior adequado ou habilitação equivalente.
+Art. 4.º Para a admissão aos lugares de técnicos será exigível curso superior adequado ou habilitação equivalente.
 
-###### Art. 5.º - 1. O lugar de tesoureiro será preenchido por escolha do Ministro das Obras Públicas entre os oficiais de secretaria do quadro do Fundo.
+Art. 5.º - 1. O lugar de tesoureiro será preenchido por escolha do Ministro das Obras Públicas entre os oficiais de secretaria do quadro do Fundo.
 
 2. O tesoureiro terá direito ao abono mensal de 400$00 para falhas e está sujeito a prestação de caução, a fixar por despacho do Ministro das Obras Públicas.
 
-###### Art. 6.º - 1. O primeiro preenchimento das vagas do quadro aprovado por este diploma poderá ser feito:
+Art. 6.º - 1. O primeiro preenchimento das vagas do quadro aprovado por este diploma poderá ser feito:
 
 a) De entre funcionários vitalícios e contratados do quadro do Fundo;
 
@@ -212,22 +264,22 @@ b) De entre pessoal do Fundo que possua as habilitações legais e que à data d
 
 2. Aplicar-se-á, no restante, o disposto nos n.os 2 a 4 do artigo 28.º do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969.
 
-###### Art. 7.º - 1. Para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo anterior, poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto n.º 27232, de 23 de Novembro de 1936.
+Art. 7.º - 1. Para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo anterior, poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto n.º 27232, de 23 de Novembro de 1936.
 
 2. O Ministro das Obras Públicas poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários, em número suficiente, com o tempo mínimo de serviço referido na disposição anterior.
 
-###### Art. 8.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1972, podendo, todavia, ser publicada antes dessa data, mas para produzir efeitos a partir da mesma, a lista a que se refere o artigo 6.º
+Art. 8.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1972, podendo, todavia, ser publicada antes dessa data, mas para produzir efeitos a partir da mesma, a lista a que se refere o artigo 6.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 27 de Outubro de 1971.**
+Promulgado em 27 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 2.º do decreto-lei n.º 473/71 de 6 de Novembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/26100/16841687.pdf))](https://files.diariodarepublica.pt/1s/1971/11/26100/16841687.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/26100/16841687.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

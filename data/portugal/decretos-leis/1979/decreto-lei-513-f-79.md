@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3334-(76) a 3334-(82)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00760082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f-1979-393782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5910ebd0e72083469908c1f562a6447d12d81ed7007616e409d70d41a3b66093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b66d36a5fd5de190f8602d32683dcd0e5b71909782ad6f8e353132fce3fabb6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Notariado
+- Conservatória dos Registos Centrais
+- Reconhecimento Notarial
+- Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:478043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381682:por
+  label: "Alterados os arts. 77º, 133º e 179.º do Código do Notariado, aprovado pelo Dec Lei 47619, de 31-Mar 1967, na redacção\
+    \ dada pelo presente diploma, pelo DEC LEI.193-A/80.1980.06.18.MJ, DR.IS [138]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-a-1980-381682
+  date: '1980-06-18'
+- type: amended_by
+  target: pt:dre:451218:por
+  label: "Alterados os arts. 33º, 34º, 36º (na redacção do Dec Lei 49056, de 12-Jun 1969) 143º, 169º, 203º e 211º, do Código\
+    \ do Notariado, aprovado pelo Dec Lei 47619, de 31-Mar 1967) pelo DEC LEI.194/83.1983.05.17.MJ, DR.IS [113]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1983-451218
+  date: '1983-05-17'
+- type: amended_by
+  target: pt:dre:380970:por
+  label: "Alterados os arts. 71º, 72º, 77º, nº 2, 108º, 109º, 142º, nº 1 (este último na redacção do Dec Lei 49056, de 12-Jun\
+    \ 1969), e 203º, nº 2, pelo DEC LEI.286/84.1984.08.23.MJ, DR.IS [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-1984-380970
+  date: '1984-08-23'
+- type: amended_by
+  target: pt:dre:399780:por
+  label: "Conferida nova redacção as seguintes normas do Código do Notariado, aprovado pelo Dec Lei 47619, de 31-Mar 1967:\
+    \ 169º (na redacção do Dec Lei 194/83, de 17-Mai) e 203º (na redacção do Dec Lei 194/83, de 17-Mai e 286/84, de 23-Ago)\
+    \ pelo DEC LEI.321/84.1984.10.02.MFP, DR.IS [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1984-399780
+  date: '1984-10-02'
+- type: amended_by
+  target: pt:dre:332393:por
+  label: "Alterada a redacção conferida aos arts. 32º, 33º, 34º, 35º, 36º, 44º, 48º, 62º, 71º, 76º, 77º, 78º, 81º, 108º, 109º,\
+    \ 114º, 142º, 150º, 157º, 169º, 179º, 202º e 203º do Código do Notariado, aprovado pelo Dec Lei 47619, de 31-Mar 1967,\
+    \ pelo DEC LEI.67/90.1990.03.01.MJ, DR.IS, [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1990-332393
+  date: '1990-03-01'
+- type: cites
+  target: pt:dre:509209:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:478043:por
+  label: "Revogado o Código do Notariado aprovado pelo Dec Lei 47619, de 31-Mar 1967, na redacção do presente diploma, pelo\
+    \ DEC LEI.207/95.1995.08.14.MJ,Dr.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1995-478043
+  date: '1995-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:23Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +159,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 10.º, 12.º, 13.º, 14.º, 23.º, 29.º, 30.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º, 38.º, 43.º, 44.º, 48.º, 62.º, 71.º, 72.º, 76.º, 77.º, 78.º, 81.º, 98.º, 108.º, 109.º, 114.º, 118.º, 122.º, 133.º, 138.º, 142.º, 143.º, 149.º, 150.º, 153.º, 157.º, 169.º, 170.º, 179.º, 182.º, 191.º, 202.º, 203.º, 211.º, 212.º e 216.º do Código do Notariado, aprovado pelo [Decreto-Lei n.º 47619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47619-1967-509209), de 31 de Março de 1967, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 10.º, 12.º, 13.º, 14.º, 23.º, 29.º, 30.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º, 38.º, 43.º, 44.º, 48.º, 62.º, 71.º, 72.º, 76.º, 77.º, 78.º, 81.º, 98.º, 108.º, 109.º, 114.º, 118.º, 122.º, 133.º, 138.º, 142.º, 143.º, 149.º, 150.º, 153.º, 157.º, 169.º, 170.º, 179.º, 182.º, 191.º, 202.º, 203.º, 211.º, 212.º e 216.º do Código do Notariado, aprovado pelo [Decreto-Lei n.º 47619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47619-1967-509209), de 31 de Março de 1967, passam a ter a seguinte redacção:
 
 ###### ARTIGO 10.º — (Livros de actos notariais)
 
@@ -570,12 +617,12 @@ Havendo mais de uma repartição de finanças na sede do cartório, é enviado u
 
 2. ...
 
-###### Art. 2.º Ficam revogados os artigos 25.º, 94.º e 97.º do Código do Notariado.
+Art. 2.º Ficam revogados os artigos 25.º, 94.º e 97.º do Código do Notariado.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43947-1961-183227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84b015f4646596155961564d47091903d575927e0183ae77d3f0149c61885b8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de9cf5ff2b9d32695ab25014e79fdb7ab5491985de7f7ba00badf1b831e47873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Câmara Municipal
+- Covilhã
+- Definição de Competências
+- Denominação de Instituição
+- Ensino Liceal
+- Estabelecimento de Ensino
+- Figueira da Foz
+- Médico
+- Ministro da Educação Nacional
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Portimão
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:298042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480761:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:30Z'
   warnings: []
   errors: []
 ---
@@ -96,35 +123,35 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os Liceus Municipais da Covilhã, Figueira da Foz e Portimão passam a liceus nacionais e neles será ministrado o ensino dos três ciclos.
+Artigo 1.º Os Liceus Municipais da Covilhã, Figueira da Foz e Portimão passam a liceus nacionais e neles será ministrado o ensino dos três ciclos.
 
 § único. O ensino dos anos do 3.º ciclo começará a funcionar, gradualmente, no ano escolar de 1962-1963.
 
-###### Art. 2.º Até à entrega ao Ministério da Educação Nacional dos edifícios destinados aos Liceus da Covilhã, Figueira da Foz e Portimão, a que se refere o mapa anexo ao [Decreto-Lei n.º 41572](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41572-1958-305041), de 28 de Março de 1958, as câmaras municipais das respectivas localidades ficam obrigadas a suportar os encargos com o arrendamento dos edifícios ou salas que se tornem necessárias ao bom funcionamento do serviço escolar.
+Art. 2.º Até à entrega ao Ministério da Educação Nacional dos edifícios destinados aos Liceus da Covilhã, Figueira da Foz e Portimão, a que se refere o mapa anexo ao [Decreto-Lei n.º 41572](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41572-1958-305041), de 28 de Março de 1958, as câmaras municipais das respectivas localidades ficam obrigadas a suportar os encargos com o arrendamento dos edifícios ou salas que se tornem necessárias ao bom funcionamento do serviço escolar.
 
-###### Art. 3.º São fixados os seguintes quadros do pessoal docente, de secretaria e menor dos Liceus da Covilhã, Figueira da Foz e Portimão:
+Art. 3.º São fixados os seguintes quadros do pessoal docente, de secretaria e menor dos Liceus da Covilhã, Figueira da Foz e Portimão:
 
 Professores efectivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
 
 Professores contratados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
 
 Pessoal de secretaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
 
 Pessoal menor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23100/12661267.pdf)
 
-###### Art. 4.º Os funcionários dos quadros do pessoal de secretaria e menor dos Liceus da Covilhã, Figueira da Foz e Portimão ingressam nos quadros fixados pelo artigo 3.º do presente diploma, com dispensa de todas as formalidades legais.
+Art. 4.º Os funcionários dos quadros do pessoal de secretaria e menor dos Liceus da Covilhã, Figueira da Foz e Portimão ingressam nos quadros fixados pelo artigo 3.º do presente diploma, com dispensa de todas as formalidades legais.
 
 § único. O Ministro da Educação Nacional fixará, em despacho, a data a partir da qual deverá ser feito o provimento dos lugares de aspirante.
 
-###### Art. 5.º Os médicos municipais que até à data da publicação do presente diploma tenham prestado serviço de médico escolar, pelo menos durante três anos e com boa informação, nos Liceus da Covilhã, Figueira da Foz e Portimão poderão ser admitidos, no prazo de três anos, ao concurso para médicos escolares do quadro da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
+Art. 5.º Os médicos municipais que até à data da publicação do presente diploma tenham prestado serviço de médico escolar, pelo menos durante três anos e com boa informação, nos Liceus da Covilhã, Figueira da Foz e Portimão poderão ser admitidos, no prazo de três anos, ao concurso para médicos escolares do quadro da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
 
 § 1.º Até à apresentação ao concurso os médicos a que se refere o presente artigo continuarão prestando serviço nos mesmos liceus, em acumulação com os seus cargos e com a gratificação que for fixada pelo Ministro da Educação Nacional, de acordo com o Ministro das Finanças.
 
@@ -132,10 +159,10 @@ Pessoal menor
 
 § 3.º Os médicos a que se refere o corpo do presente artigo, uma vez aprovados no concurso de provas, poderão ingressar no quadro a que se refere o parágrafo anterior.
 
-###### Art. 6.º O Ministro da Educação Nacional esclarecerá em despacho as dúvidas que suscitar o presente diploma.
+Art. 6.º O Ministro da Educação Nacional esclarecerá em despacho as dúvidas que suscitar o presente diploma.
 
-###### Art. 7.º Os encargos com a execução do presente diploma serão satisfeitos no corrente ano económico pelas disponibilidades das dotações dos artigos 734.º, n.º 1), e 892.º, n.º 1), do orçamento de despesa do Ministério da Educação Nacional, respectivamente para o pessoal da Direcção-Geral do Ensino Liceal e pessoal da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
+Art. 7.º Os encargos com a execução do presente diploma serão satisfeitos no corrente ano económico pelas disponibilidades das dotações dos artigos 734.º, n.º 1), e 892.º, n.º 1), do orçamento de despesa do Ministério da Educação Nacional, respectivamente para o pessoal da Direcção-Geral do Ensino Liceal e pessoal da Direcção-Geral da Educação Física, Desportos e Saúde Escolar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

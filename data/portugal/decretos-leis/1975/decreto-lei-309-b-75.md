@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 144/1975, 2º Suplemento, Série I de 1975-06-25
   number: '144'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 866-(3) a 866-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14402/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-b-1975-304485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef74297415db9318e1de676279534d40175dce24cfda6e34d9f32732e8f4fb7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 570efda2aa8df4e8b430c637a020b3ef6c0fd7528b69f5a7b5117aea552ea772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Exame
+- Habilitações Literárias
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:337441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512977:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:48Z'
   warnings: []
   errors: []
 ---
@@ -98,20 +123,20 @@ Atendendo a que, de acordo com o novo currículo, a habilitação concedida pelo
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Consideram-se para todos os efeitos legais como habilitados com o Exame de Estado para a docência no ensino primário os indivíduos que no ano lectivo de 1974-1975 tenham concluído com aproveitamento o 4.º semestre do plano de estudos do curso do magistério primário em vigor no mesmo ano lectivo. Admite-se, contudo, a realização de Exame de Estado pelos indivíduos com a habilitação atrás mencionada, desde que o requeiram.
+Artigo 1.º Consideram-se para todos os efeitos legais como habilitados com o Exame de Estado para a docência no ensino primário os indivíduos que no ano lectivo de 1974-1975 tenham concluído com aproveitamento o 4.º semestre do plano de estudos do curso do magistério primário em vigor no mesmo ano lectivo. Admite-se, contudo, a realização de Exame de Estado pelos indivíduos com a habilitação atrás mencionada, desde que o requeiram.
 
-###### Art. 2.º A classificação profissional dos indivíduos mencionados no artigo anterior será calculada na base da média das médias globais do 1.º e 2.º anos, considerando-se a do 1.º ano com o coeficiente 1 e a do 2.º ano com o coeficiente 2, estabelecendo-se como média do 1.º ano a nota quantitativa resultante das médias globais do 1.º e 2.º semestres, arredondada às unidades, e, relativamente ao 2.º ano, a classificação quantitativa global atribuída no final do ano lectivo.
+Art. 2.º A classificação profissional dos indivíduos mencionados no artigo anterior será calculada na base da média das médias globais do 1.º e 2.º anos, considerando-se a do 1.º ano com o coeficiente 1 e a do 2.º ano com o coeficiente 2, estabelecendo-se como média do 1.º ano a nota quantitativa resultante das médias globais do 1.º e 2.º semestres, arredondada às unidades, e, relativamente ao 2.º ano, a classificação quantitativa global atribuída no final do ano lectivo.
 
-###### Art. 3.º O disposto nos artigos anteriores substitui, para todos os efeitos legais, o estabelecido nos artigos 1.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e 18.º, 19.º e 21.º, § único, do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
+Art. 3.º O disposto nos artigos anteriores substitui, para todos os efeitos legais, o estabelecido nos artigos 1.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e 18.º, 19.º e 21.º, § único, do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
 
-###### Art. 4.º A contagem do tempo de serviço relativamente à concessão de diuturnidades e à determinação da valorização profissional realiza-se a partir da data de entrada em exercício.
+Art. 4.º A contagem do tempo de serviço relativamente à concessão de diuturnidades e à determinação da valorização profissional realiza-se a partir da data de entrada em exercício.
 
-###### Art. 5.º O presente diploma entra imediatamente em vigor.
+Art. 5.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - António Carlos Magalhães Arnão Metelo - José Joaquim Fragoso - José Emílio da Silva.
 
-**Promulgado em 25 de Junho de 1975.**
+Promulgado em 25 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

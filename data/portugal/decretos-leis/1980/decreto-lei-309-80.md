@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19000/22342234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1980-471098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f32567b997d2ab8c721f5604077534e5885f1f1dc6d2b153697d6719c652e95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 677d1db2b163ddc41f8b42229286be6cf99d7a7c72b9da7e6b689631c3fa44e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Corpo de Tropas Paraquedistas
+- Militar
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:336755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429636:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:43Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +115,18 @@ Considerando o disposto no artigo 5.º do [Decreto-Lei n.º 350/75](https://diar
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O mapa 1, anexo à [Portaria n.º 508/76](https://diariodarepublica.pt/dr/detalhe/portaria/508-1976-429636), de 12 de Agosto, passa a integrar também a especialidade de enfermeiro pára-quedista, que actualmente consta do mapa 3 anexo à mesma portaria.
+Artigo 1.º O mapa 1, anexo à [Portaria n.º 508/76](https://diariodarepublica.pt/dr/detalhe/portaria/508-1976-429636), de 12 de Agosto, passa a integrar também a especialidade de enfermeiro pára-quedista, que actualmente consta do mapa 3 anexo à mesma portaria.
 
-###### Art. 2.º Os actuais oficiais e sargentos graduados enfermeiros pára-quedistas em serviço efectivo podem, mediante requerimento dirigido ao Chefe do Estado-Maior da Força Aérea, transitar para a categoria de «pessoal militar permanente privativo do Corpo de Tropas Pára-Quedistas», a que se refere o mapa indicado no artigo 1.º Terão no novo quadro os postos e as antiguidades que têm na sua actual categoria de «pessoal equiparado a militar».
+Art. 2.º Os actuais oficiais e sargentos graduados enfermeiros pára-quedistas em serviço efectivo podem, mediante requerimento dirigido ao Chefe do Estado-Maior da Força Aérea, transitar para a categoria de «pessoal militar permanente privativo do Corpo de Tropas Pára-Quedistas», a que se refere o mapa indicado no artigo 1.º Terão no novo quadro os postos e as antiguidades que têm na sua actual categoria de «pessoal equiparado a militar».
 
-###### Art. 3.º O quadro a que se refere o presente diploma não receberá recompletamentos no futuro e terá existência legal enquanto se mantiver ao serviço efectivo o pessoal que nele ingresse nos termos do artigo anterior.
+Art. 3.º O quadro a que se refere o presente diploma não receberá recompletamentos no futuro e terá existência legal enquanto se mantiver ao serviço efectivo o pessoal que nele ingresse nos termos do artigo anterior.
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 17 de Julho de 1980.
 
-**Promulgado em 5 de Agosto de 1980.**
+Promulgado em 5 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

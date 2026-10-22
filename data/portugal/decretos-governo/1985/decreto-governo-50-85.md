@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 273/1985, 1º Suplemento, Série I de 1985-11-27
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3944-(1) a 3944-(90)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf
 entry_into_force_dates: []
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/50-1985-268591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45e8c7546d705a60ed13ec45f412f44f47d0c1a9027cbe2dc0bfe1d37df67fae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bdd92103bd09ab3204ea051659a5259395c577c91ce979019dab61fe5161345
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arbitragem
+- Bagagem
+- Berna
+- Contrato
+- Convenção
+- Imunidade Diplomática
+- Organização Intergovernamental para os Transportes Internacionais Ferroviários
+- Portugal
+- Privilegios e Imunidades
+- Transporte
+- Transporte de Carga
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Internacional
 relationships:
 - type: amended_by
   target: pt:dre:211027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213803:por
+  label: "Publicadas as modificações relativas às Regras Uniformes respeitantes ao contrato de transporte internacional ferroviário\
+    \ de passageiros e bagagens (CIV) e as modificações respeitantes às Regras Uniformes relativas ao contrato de transporte\
+    \ internacional ferroviário de mercadorias (CIM) que constituem, respectivamente, os Apêndices A e B da convenção, pelo\
+    \ AV.275/96.06.09.1996.MNE, DR.IS-A [225] de 27.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/275-1996-213803
+  date: '1996-09-06'
+- type: amended_by
+  target: pt:dre:501832:por
+  label: "Alterados os art 2º. 3º, 4º, 7º, 11º e 19º da Convenção, bem como os art 1º. 14º, 17º, 41º, 42º, 43º, 53º e 55º\
+    \ do Apêndice A, e os art 1º, 18º, 40º, 43º, 44º, 47º e 58º do Apêncide B constantes da referida Convenção, aprovada para\
+    \ ratificação pelo presente diploma, pelo Dec.10/97.1997.02.19.MNE, DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/10-1997-501832
+  date: '1997-02-19'
+- type: amended_by
+  target: pt:dre:211027:por
+  label: "Aprovado o protocolo que altera a Convenção pelo DEC.3/2004.25.03.2004.MNE, DR.IS-A [72] de 25.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-2004-211027
+  date: '2004-03-25'
 article_structure:
-  article_count: 160
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:31Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +138,15 @@ Sem prejuízo das reservas especificadas no artigo 2.º, é aprovada, para ratif
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 
-**Assinado em 5 de Novembro de 1985.**
+Assinado em 5 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Novembro de 1985.**
+Referendado em 12 de Novembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONVENTION RELATIVE AUX TRANSPORTS INTERNATIONAUX FERROVIAIRES (COTIF)
 
@@ -1003,7 +1038,7 @@ Article 11
 
 Billets
 
-§ 1 - Les billets délivrés pour un transport international doivent porter le sigle CIV. À titre transitoire, le signe [([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf) est admis.
+§ 1 - Les billets délivrés pour un transport international doivent porter le sigle CIV. À titre transitoire, le signe [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf) est admis.
 
 § 2 - Les tarifs internationaux ou les accords entre chemins de fer déterminent la forme et le contenu des billets, ainsi que la langue et les caractères dans lesquels ils doivent être imprimés et remplis.
 
@@ -1157,7 +1192,7 @@ Bulletin de bagages
 
 § 2 - Les bulletins de bagages délivrés pour un transport international doivent porter le sigle CIV.
 
-À titre transitoire, le signe [([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf) est admis.
+À titre transitoire, le signe [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf) est admis.
 
 § 3 - Les tarifs internationaux au les accords entre chemins de fer déterminent la forme et le contenu des bulletins de bagages, ainsi que la langue et les caractères dans lesquels ils doivent être imprimés et remplis.
 
@@ -3237,9 +3272,13 @@ Reconhecendo a necessidade de adaptar as disposições do direito dos transporte
 
 acordaram no seguinte:
 
-## TÍTULO I — Generalidades
+TÍTULO I
 
-###### Artigo 1.º — Organização Intergovernamental
+Generalidades
+
+Artigo 1.º
+
+Organização Intergovernamental
 
 § 1 - As Partes, na presente Convenção constituem, na qualidade de Estados membros, a Organização Intergovernamental para os Transportes Internacionais Ferroviários (OTIF), a seguir denominada «Organização».
 
@@ -3253,13 +3292,17 @@ As relações entre a Organização e o Estado em que se encontra fixada a sua s
 
 § 3 - As línguas de trabalho da Organização serão o francês e o alemão.
 
-###### Artigo 2.º — Objectivo da Organização
+Artigo 2.º
+
+Objectivo da Organização
 
 § 1 - A Organização tem essenclalmente por objectivo estabelecer um regime legal uniforme aplicável aos transportes de passageiros, bagagens e mercadorias em tráfego internacional directo entre os Estados membros que utilizem as vias ferroviárias, assim como facilitar a aplicação e o desenvolvimento desse regime.
 
 § 2 - O regime legal previsto no § 1 poderá igualmente ser aplicado aos transportes internacionais directos que, além de linhas ferroviárias, utilizem linhas em vias terrestres e marítimas e em vias de água interiores.
 
-###### Artigo 3.º — Regras uniformes CIV o CIM
+Artigo 3.º
+
+Regras uniformes CIV o CIM
 
 § 1 - Os transportes em tráfego internacional directo ficam sujeitos:
 
@@ -3273,15 +3316,19 @@ As relações entre a Organização e o Estado em que se encontra fixada a sua s
 
 § 4 - As Regras uniformes CIV e CIM, incluindo os respectivos anexos, fazem parte integrante da Convenção.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Definição da noção de «convenção»
 
 Nos textos que se seguem, a expressão «convenção» abrange a Convenção propriamente dita, o Protocolo mencionado no artigo 1.º, § 2.º, segunda parte, e os apêndices A e B, incluindo os respectivos anexos, referidos no artigo 3.º, §§ 1 e 4.
 
-## TÍTULO II — Estrutura e funcionamento
+TÍTULO II
 
-###### Artigo 5.º — Órgãos
+Estrutura e funcionamento
+
+Artigo 5.º
+
+Órgãos
 
 O funcionamento da Organização será assegurado pelos seguintes órgãos:
 
@@ -3295,7 +3342,9 @@ Comissão de Peritos para o Transporte de Mercadorias Perigosas;
 
 Repartição Central dos Transportes Internacionais Ferroviários (OCTI).
 
-###### Artigo 6.º — Assembleia Geral
+Artigo 6.º
+
+Assembleia Geral
 
 § 1 - A Assembleia Geral será constituída pelos representantes dos Estados membros.
 
@@ -3331,7 +3380,9 @@ Com o acordo da maioria dos Estados membros, a Repartição Central convidará o
 
 § 7 - Antes das sessões da Assembleia Geral, e de acordo com as directivas da Comissão Administrativa, a Comissão de Revisão será convocada para proceder ao exame preliminar das propostas mencionadas no artigo 19.º, § 2.
 
-###### Artigo 7.º — Comissão Administrativa
+Artigo 7.º
+
+Comissão Administrativa
 
 § 1 - A Comissão Administrativa será constituída por representantes de 11 Estados membros.
 
@@ -3367,7 +3418,9 @@ k) Elaborar e enviar aos Estados membros, com vista à Assembleia geral encarreg
 
 § 3 - Se nada for decidido em contrário, a Comissão efectuará as suas reuniões na sede da Organização. Realizará 2 sessões por ano; além disso, reunir-se-á por decisão do presidente ou quando 4 dos seus membros o solicitarem. As actas das sessões serão enviadas a todos os Estados membros.
 
-###### Artigo 8.º — Comissões
+Artigo 8.º
+
+Comissões
 
 § 1 - A Comissão de Revisão e a Comissão de Peritos para o Transporte de Mercadorias Perigosas, a seguir designada por Comissão de Peritos, serão constituídas por representantes dos Estados membros.
 
@@ -3409,7 +3462,9 @@ As actas serão distribuídas aos Estados membros.
 
 § 11 - As Comissões poderão adoptar um regulamento interno.
 
-###### Artigo 9.º — Repartição Central
+Artigo 9.º
+
+Repartição Central
 
 § 1 - A Repartição Central dos Transportes Internacionais Ferroviários terá a seu cargo o secretariado da Organização.
 
@@ -3447,7 +3502,9 @@ o) Facilitar as relações financeiras resultantes do tráfego internacional, as
 
 § 3 - O boletim periódico conterá as informações necessárias à aplicação da Convenção, assim como estudos, pareceres e informações importantes para a interpretação, aplicação e evolução do direito de transporte ferroviário; será publicado nas línguas de trabalho.
 
-###### Artigo 10.º — Lista das linhas
+Artigo 10.º
+
+Lista das linhas
 
 § 1 - Os Estados membros enviarão à Repartição Central as suas comunicações relativas à inscrição ou à exclusão de linhas nas ou das listas mencionadas no artigo 3.º, § 2.
 
@@ -3459,7 +3516,9 @@ A Repartição Central notificará a inscrição ou a exclusão de uma linha a t
 
 § 3 - Uma linha deixará de estar abrangida pela Convenção ao fim de um mês a contar da data da notificação da sua exclusão, excepto no que se refere aos transportes em curso, que deverão ser concluídos.
 
-###### Artigo 11.º — Finanças
+Artigo 11.º
+
+Finanças
 
 § 1 - O montante das despesas será determinado, para cada exercício, pela Comissão Administrativa, sob proposta da Repartição Central.
 
@@ -3483,9 +3542,13 @@ Ao fim de um prazo complementar de 2 anos, a Assembleia Geral verificará se a a
 
 § 7 - A concordância da escrita com os documentos de contabilidade será verificada pelo Governo Suíço, que apresentará um relatório à Comissão Administrativa.
 
-## TÍTULO III — Arbitragem
+TÍTULO III
 
-###### Artigo 12.º — Competência
+Arbitragem
+
+Artigo 12.º
+
+Competência
 
 § 1 - Os litígios entre Estados membros surgidos da interpretação ou da aplicação da Convenção, assim como os litígios entre Estados membros e a Organização decorrentes da interpretação ou da aplicação do Protocolo sobre os privilégios e imunidades, poderão, a pedido de uma das Partes, ser submetidos a um tribunal arbitral. As Partes determinarão livremente a composição do tribunal arbitral e o processo de arbitragem.
 
@@ -3503,7 +3566,9 @@ decorrentes da aplicação das Regras uniformes CIV e das Regras uniformes CIM, 
 
 § 4 - Qualquer Estado que tenha feito uma reserva nos termos do § 3 poderá a ela renunclar em qualquer momento, disso informando o governo depositário. A renúncia à reserva produzirá efeito um mês após a data em que o governo depositário dela der conhecimento aos Estados.
 
-###### Artigo 13.º — Compromisso. Secretaria
+Artigo 13.º
+
+Compromisso. Secretaria
 
 As Partes concluirão um compromisso especificando particularmente:
 
@@ -3515,7 +3580,9 @@ c) O local fixado para sede do tribunal.
 
 O compromisso deverá ser levado ao conhecimento da Repartição Central, que desempenhará as funções de Secretaria.
 
-###### Artigo 14.º — Árbitros
+Artigo 14.º
+
+Árbitros
 
 § 1 - A Repartição Central elaborará e manterá actualizada uma lista de árbitros. Cada Estado membro poderá inscrever na lista de árbitros 2 dos seus nacionais, especialistas em direito internacional de transportes.
 
@@ -3533,7 +3600,9 @@ Em caso de desacordo entre as Partes sobre a designação do árbitro único ou,
 
 A intervenção de uma terceira Parte no litígio não terá efeitos na composição do tribunal arbitral.
 
-###### Artigo 15.º — Processo. Custas
+Artigo 15.º
+
+Processo. Custas
 
 § 1 - O tribunal arbitral decidirá sobre o processo a adoptar, tendo em conta, nomeadamente, as seguintes disposições:
 
@@ -3549,15 +3618,21 @@ d) Salvo disposição imperativa em contrário do direito do lugar da sede do tr
 
 A sentença arbitral fixará as custas e despesas e decidirá sobre a repartição das mesmas pelas Partes, assim como sobre a repartição dos honorários dos árbitros.
 
-###### Artigo 16.º — Prescrição. Força executória
+Artigo 16.º
+
+Prescrição. Força executória
 
 § 1 - O recurso ao processo arbitral tem, quanto à interrupção da prescrição, o mesmo efeito que o previsto pelo direito material aplicável à acção perante o juiz ordinário.
 
 § 2 - A sentença do tribunal arbitral adquirirá força executória em cada um dos Estados membros, em relação às empresas de transporte ou aos utentes, após o cumprimento das formalidades prescritas no Estado em que a execução deva ter lugar. Não é admitida a revisão de fundo do assunto.
 
-## TÍTULO IV — Disposições diversas
+TÍTULO IV
 
-###### Artigo 17.º — Cobrança dos créditos não pagos entre empresas de transporte
+Disposições diversas
+
+Artigo 17.º
+
+Cobrança dos créditos não pagos entre empresas de transporte
 
 § 1 - As notas de créditos provenientes de transportes sujeitos às Regras uniformes e que fiquem por pagar poderão ser enviadas pela empresa de transporte credora à Repartição Central, para lhe facilitar a sua cobrança; para o efeito, a Repartição Central intimará a empresa de transporte devedora a regularizar a quantia em dívida ou a apresentar os motivos da sua recusa em pagar.
 
@@ -3571,7 +3646,9 @@ A sentença arbitral fixará as custas e despesas e decidirá sobre a repartiç�
 
 § 6 - Se o Estado membro declarar que, apesar do não pagamento, mantém a inscrição das linhas dessa empresa, ou se não responder num prazo de 6 semanas à comunicação da Repartição Central, caber-lhe-á, de pleno direito, garantir a regularização de todos os créditos resultantes dos transportes sujeitos às Regras uniformes.
 
-###### Artigo 18.º — Sentenças, penhoras e cauções
+Artigo 18.º
+
+Sentenças, penhoras e cauções
 
 § 1 - Quando as sentenças proferidas pelo juiz competente ao abrigo das disposições da Convenção, tenha ou não havido contestação do pedido, se tornem executórias em consequência das leis aplicadas por esse juiz, adquirem força executória em cada um dos outros Estados membros após o cumprimento das formalidades prescritas no Estado em que a execução deva ter lugar. Não é admitida a revisão de fundo do assunto.
 
@@ -3587,9 +3664,13 @@ Os vagões particulares, assim como os objectos de qualquer natureza neles conti
 
 § 4 - A caução a fornecer para garantla de pagamento das despesas não poderá ser exigida nas acções judiciais baseadas na Convenção.
 
-## TÍTULO V — Alteração da Convenção
+TÍTULO V
 
-###### Artigo 19.º — Competência
+Alteração da Convenção
+
+Artigo 19.º
+
+Competência
 
 § 1 - Os Estados membros enviarão as respectivas propostas de alteração da Convenção à Repartição Central, que as levará, de imediato, ao conhecimento dos Estados membros.
 
@@ -3603,13 +3684,13 @@ Em face de uma proposta de alteração, a Assembleia Geral poderá decidir, pela
 
 a) Regras uniformes CIV:
 
-###### Artigo 1.º, § 3; artigo 4.º, § 2; artigos 5.º (exceptuando o § 2), 6.º, 9.º, a 14.º 15.º (exceptuando o § 6), 16.º a 21.º, 22.º, § 3; artigos 23.º a 25.º, 37.º, 43.º (exceptuando os §§ 2 e 4), 48.º, 49.º, 56.º a 58.º e 61.º;
+Artigo 1.º, § 3; artigo 4.º, § 2; artigos 5.º (exceptuando o § 2), 6.º, 9.º, a 14.º 15.º (exceptuando o § 6), 16.º a 21.º, 22.º, § 3; artigos 23.º a 25.º, 37.º, 43.º (exceptuando os §§ 2 e 4), 48.º, 49.º, 56.º a 58.º e 61.º;
 
 As quantias expressas em unidades de conta nos artigos 30.º, 31.º, 38.º, 40.1 e 41.º, sempre que a alteração vise um aumento dessas quantias;
 
 b) Regras uniformes CIM:
 
-###### Artigo 1.º, § 2; artigo 3.º, §§ 2 a 5; artigos 4.º, 5.º, 6.º, (exceptuando o § 3), 7.º, 8.º, 11.º a 13.º, 14.º (exceptuando o § 7), 15.º a 17.º, 19.º (exceptuando o § 4), 20.º (exceptuando o § 3), 21.º a 24.º, 25.º (exceptuando o § 3), 26.º (exceptuando o § 2), 27.º e 28.º, §§ 3 e 6; artigos 29.º, 30.º (exceptuando o § 3), 31.º, 32.º, (exceptuando o § 3), 33.º (exceptuando o § 5), 34.º, 38.º, 39.º, 41.º, 45.º, 46.º, 47.º (exceptuando o § 3), 48.º (na medida em que apenas se trate de proceder a uma adaptação ao direito de transporte internacional marítimo), 52.º, 53.º, 59.º a 61.º, 64.º e 65.º;
+Artigo 1.º, § 2; artigo 3.º, §§ 2 a 5; artigos 4.º, 5.º, 6.º, (exceptuando o § 3), 7.º, 8.º, 11.º a 13.º, 14.º (exceptuando o § 7), 15.º a 17.º, 19.º (exceptuando o § 4), 20.º (exceptuando o § 3), 21.º a 24.º, 25.º (exceptuando o § 3), 26.º (exceptuando o § 2), 27.º e 28.º, §§ 3 e 6; artigos 29.º, 30.º (exceptuando o § 3), 31.º, 32.º, (exceptuando o § 3), 33.º (exceptuando o § 5), 34.º, 38.º, 39.º, 41.º, 45.º, 46.º, 47.º (exceptuando o § 3), 48.º (na medida em que apenas se trate de proceder a uma adaptação ao direito de transporte internacional marítimo), 52.º, 53.º, 59.º a 61.º, 64.º e 65.º;
 
 A quantia expressa em unidades de conta no artigo 40.º, quando a alteração vise um aumento dessa quantia;
 
@@ -3621,7 +3702,9 @@ Regulamento Relativo ao Transporte Internacional Ferroviário de Volumes Express
 
 § 4 - A Comissão de Peritos decidirá sobre as propostas de alteração relativas às disposições do Regulamento Relativo ao Transporte Internacional Ferroviário de Mercadorias Perigosas (RID), Anexo I às Regras uniformes CIM.
 
-###### Artigo 20.º — Decisões de Assembleia Geral
+Artigo 20.º
+
+Decisões de Assembleia Geral
 
 § 1 - As alterações decididas pela Assembleia Geral ficarão consignadas num protocolo assinado pelos representantes dos Estados membros. Este protocolo será submetido a ratificação, aceitação ou aprovação; os instrumentos de ratificação, aceitação ou aprovação serão depositados, o mais breve possível, junto do governo depositário.
 
@@ -3631,7 +3714,9 @@ Regulamento Relativo ao Transporte Internacional Ferroviário de Volumes Express
 
 Esta suspensão não terá efeito para os Estados membros que tiverem comunicado à Repartição Central que aplicarão as modificações decididas pela Assembleia Geral sem terem depositado o respectivo instrumento de ratificação, aceitação ou aprovação.
 
-###### Artigo 21.º — Decisões das Comissões
+Artigo 21.º
+
+Decisões das Comissões
 
 § 1 - As alterações decididas pelas Comissões serão notificadas aos Estados membros pela Repartição Central.
 
@@ -3639,15 +3724,21 @@ Esta suspensão não terá efeito para os Estados membros que tiverem comunicado
 
 Todavia, se um Estado membro formular objecções contra uma decisão da Comissão de Revisão no prazo de 4 meses e denunciar a Convenção o mais tardar 2 meses antes da data prevista para a entrada em vigor dessa decisão, esta só entrará em vigor no momento em que a denúncia feita pelo Estado interessado produzir efeito.
 
-## TÍTULO VI — Disposições finais
+TÍTULO VI
 
-###### Artigo 22.º — Assinatura, ratificação aceitação e aprovação da Convenção
+Disposições finais
+
+Artigo 22.º
+
+Assinatura, ratificação aceitação e aprovação da Convenção
 
 § 1 - A Convenção permanecerá aberta em Berna, junto do Governo Suíço, até 31 de Dezembro de 1980, à assinatura dos Estados que tiverem sido convidados para a 8.º Conferência da Revisão Ordinária das Convenções CIM e CIV.
 
 § 2 - A Convenção será submetida a ratificação, aceitação ou aprovação; os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Governo Suíço, governo depositário.
 
-###### Artigo 23.º — Adesão à Convenção
+Artigo 23.º
+
+Adesão à Convenção
 
 § 1 - Os Estados que, convidados para 8.ª Conferência da Revisão Ordinária das Convenções CIM e CIV, não tiverem assinado a Convenção no prazo previsto no artigo 22.º, § 1, poderão, entretanto, notificar a respectiva adesão à Convenção antes da sua entrada em vigor. O instrumento de adesão será depositado junto do governo depositário.
 
@@ -3661,17 +3752,23 @@ Após o depósito do instrumento de adesão, esta tornar-se-á efectiva no 1.º 
 
 § 3 - Qualquer adesão à Convenção só poderá reportar-se à Convenção e às respectivas alterações então em vigor.
 
-###### Artigo 24.º — Entrada em vigor de Convenção
+Artigo 24.º
+
+Entrada em vigor de Convenção
 
 § 1 - Quando os instrumentos de ratificação, aceitação, aprovação ou adesão tiverem sido depositados por 15 Estados, o governo depositário contactará os governos interessados com vista a acordar sobre a entrada em vigor da Convenção.
 
 § 2 - A entrada em vigor da Convenção implicará a revogação completa das Convenções Internacionais Relativas, respectivamente, ao Transporte de Mercadorias por Caminho de Ferro (CIM) e de Passageiros e Bagagens (CIV), de 7 de Fevereiro de 1970, bem como da Convenção Adicional à CIV Relativa à Responsabilidade do Caminho de Ferro pela Morte e Ferimento de Passageiros, de 26 de Fevereiro de 1966.
 
-###### Artigo 25.º — Denúncia da Convenção
+Artigo 25.º
+
+Denúncia da Convenção
 
 Qualquer Estado membro que deseje denunciar a Convenção dará conhecimento da sua intenção ao governo depositário. A denúncia produzirá efeito em 31 de Dezembro do ano seguinte.
 
-###### Artigo 26.º — Funções do governo depositário
+Artigo 26.º
+
+Funções do governo depositário
 
 O governo depositário comunicará aos Estados convidados para a 8.ª Conferência da Revisão Ordinária das Convenções CIM e CIV, aos outros Estados que tenham aderido à Convenção, assim como à Repartição Central:
 
@@ -3681,11 +3778,15 @@ b) A data em que a Convenção entrar em vigor, em cumprimento do artigo 24.º;
 
 c) O depósito dos instrumentos de ratificação, aceitação ou aprovação dos protocolos referidos no artigo 20.º
 
-###### Artigo 27.º — Reservas à Convenção
+Artigo 27.º
+
+Reservas à Convenção
 
 Não são admitidas reservas à Convenção, a não ser as que a mesma preveja.
 
-###### Artigo 28.º — Textos da Convenção
+Artigo 28.º
+
+Textos da Convenção
 
 A Convenção é concluída e assinada em língua francesa.
 
@@ -3777,7 +3878,7 @@ Pela Jugoslávia:
 
 Protocolo sobre os Privilégios e Imunidades da Organização Intergovernamental para os Transportes Internacionais Ferroviários (OTIF).
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 § 1 - No âmbito das suas actividades oficiais, a Organização beneficlará do privilégio de jurisdição e de execução, excepto nos seguintes casos:
 
@@ -3807,13 +3908,13 @@ Ao abrigo do presente artigo, não será concedida qualquer isenção em relaç�
 
 § 5 - As actividades oficiais da Organização previstas no presente Protocolo serão as que correspondam aos objectivos definidos no artigo 2.º da Convenção.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 § 1 - A Organização poderá receber e deter quaisquer fundos, divisas, numerário ou valores mobiliários; poderá dispor deles livremente para quaisquer fins previstos na Convenção e possuir contas em qualquer moeda, na medida necessária para fazer face aos seus compromissos.
 
 § 2 - No que respeita às comunicações oficiais e à transferência de documentação, a Organização beneficiará de um tratamento igual ao concedido por cada Estado membro às outras organizações internacionais similares.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 No território de cada Estado membro os representantes dos Estados membros gozarão, no exercício das suas funções e pelo período correspondente à duração das suas viagens de serviço, dos seguintes privilégios e imunidades:
 
@@ -3829,7 +3930,7 @@ e) Isenção para eles próprios e respectivos cônjuges de todas as medidas de 
 
 f) No que respeita às regulamentações monetárias ou de câmbio, as mesmas facilidades que as concedidas aos representantes de governos estrangeiros em missão oficial temporária.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 No território de cada Estado membro os funcionários da Organização gozarão, no exercício das suas funções, dos seguintes privilégios e imunidades:
 
@@ -3845,7 +3946,7 @@ e) No que respeita à regulamentação cambial, os mesmos privilégios que os ge
 
 f) Em período de crise internacional, as mesmas facilidades de repatriamento, tanto para si próprios como para os membros da sua família que façam parte do respectivo agregado familiar, que as geralmente reconhecidas aos funcionários das organizações internacionais.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Os peritos a quem a Organização recorra, quando exerçam funções junto da Organização ou para ela desempenhem determinadas funções, gozarão dos privilégios e imunidades a seguir mencionados, na medida em que estes forem necessários ao exercício das suas funções, incluindo o período das viagens efectuadas no exercício dessas funções ou no decurso dessas missões:
 
@@ -3857,7 +3958,7 @@ c) Facilidades de câmbio necessárias à transferência da respectiva remunera�
 
 d) As mesmas facilidades, no que respeita à bagagem pessoal, que as concedidas aos agentes dos governos estrangeiros em missão oficial temporária.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 § 1 - Os privilégios e imunidades previstos neste Protocolo são instituídos unicamente com o fim de assegurar, em quaisquer circunstâncias, o livre funcionamento da Organização e a completa independência das pessoas a quem são concedidos. As autoridades competentes poderão retirar qualquer imunidade em todos os casos em que a sua manutenção possa obstar à acção da justiça e nos casos em que a mesma possa ser retirada sem prejudicar a realização do objectivo para que foi concedida.
 
@@ -3869,13 +3970,13 @@ A Comissão Administrativa, para o director-geral;
 
 O director-geral, para os outros funcionários, assim como para os peritos solicitados pela Organização.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 § 1 - Nenhuma das disposições deste Protocolo poderá pôr em causa o direito que cada Estado membro tem para tomar todas as precauções úteis no interesse da segurança pública.
 
 § 2 - A Organização prestará sempre a sua colaboração às autoridades competentes dos Estados membros com vista a facilitar uma boa administração da justiça, assegurar o respeito pelas leis e regulamentos dos Estados membros em causa e impedir quaisquer abusos que possam dar lugar os privilégios e imunidades previstos neste Protocolo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Nenhum Estado membro é obrigado a conceder os privilégios e imunidades mencionados neste Protocolo:
 
@@ -3885,17 +3986,21 @@ No artigo 4.º, com excepção das alíneas a), b) e d);
 
 No artigo 5.º, com excepção das alíneas a) e b), aos seus próprios nacionais ou às pessoas que tenham a sua residência permanente nesse Estado.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 A Organização poderá concluir com um ou vários Estados membros acordos complementares com vista à aplicação das disposições deste Protocolo relativamente a esse Estado membro ou a esses Estados membros, assim como outros acordos com vista a garantir o bom funcionamento da Organização.
 
-## Apêndice A à Convenção Relativa aos Transportes Internacionais Ferroviários (COTIF), de 9 de Maio de 1980
+Apêndice A à Convenção Relativa aos Transportes Internacionais Ferroviários (COTIF), de 9 de Maio de 1980
 
 REGRAS UNIFORMES RELATIVAS AO TRANSPORTE INTERNACIONAL FERROVIÁRIO DE PASSAGEIROS E BAGAGENS (CIV).
 
-## TÍTULO I — Generalidades
+TÍTULO I
 
-###### Artigo 1.º — Campo de aplicação
+Generalidades
+
+Artigo 1.º
+
+Campo de aplicação
 
 § 1 - Sem prejuízo das excepções previstas nos artigos 2.º, 3.º e 33.º, as Regras uniformes aplicam-se a todos os transportes de passageiros e bagagens efectuados com títulos de transporte internacionais estabelecidos para um percurso que inclua os territórios de, pelo menos, 2 Estados e que compreendam exclusivamente as linhas inscritas na lista prevista nos artigos 3.º e 10.º da Convenção.
 
@@ -3905,7 +4010,9 @@ As Regras uniformes aplicam-se igualmente, no que se refere à responsabilidade 
 
 § 3 - Nas Regras uniformes, o termo «estação» abrange as estações ferroviárias, os portos dos serviços de navegação e quaisquer outros estabelecimentos de empresas de transporte abertos ao público para o cumprimento do contrato de transporte.
 
-###### Artigo 2.º — Excepções ao campo de aplicação
+Artigo 2.º
+
+Excepções ao campo de aplicação
 
 § 1 - Os transportes cujas estações de partida e de destino estejam situadas no território de um mesmo Estado e que apenas utilizem o território de um outro Estado em trânsito não ficarão sujeitos às regras uniformes:
 
@@ -3915,13 +4022,17 @@ b) Se os Estados ou caminhos de ferro interessados acordarem em não considerar 
 
 § 2 - Os transportes entre estações de 2 Estados limítrofes e os transportes entre estações de 2 Estados em trânsito pelo território de um terceiro Estado, se as linhas pelas quais se efectuar o transporte forem exclusivamente exploradas por um caminho de ferro de um desses 3 Estados e se as leis e regulamentos de nenhum deles a isso se opuserem, ficarão sujeitos ao regime do tráfego interno aplicável a esse caminho de ferro.
 
-###### Artigo 3.º — Reserva relativa à responsabilidade em caso de morte e ferimento de passageiros
+Artigo 3.º
+
+Reserva relativa à responsabilidade em caso de morte e ferimento de passageiros
 
 § 1 - Qualquer Estado poderá, no momento em que assinar a Convenção ou depositar o respectivo instrumento de ratificação, de aceitação, de aprovação ou de adesão, reservar-se o direito de não aplicar aos passageiros vítimas de acidentes ocorridos no seu território o conjunto das disposições relativas à responsabilidade do caminho de ferro em caso de morte e ferimento de passageiros, quando estes sejam seus nacionais ou tenham a sua residência habitual nesse Estado.
 
 § 2 - Qualquer Estado que tenha feito a reserva citada no parágrafo anterior poderá a ela renunciar em qualquer momento, informando a este respeito o governo depositário. A renúncia à reserva produzirá os seus efeitos um mês após a data em que o Governo Suíço dela tiver dado conhecimento aos Estados.
 
-###### Artigo 4.º — Obrigação de transportar
+Artigo 4.º
+
+Obrigação de transportar
 
 § 1 - O caminho de ferro é obrigado a efectuar, nas condições previstas nas Regras uniformes, qualquer transporte de passageiros e de bagagens, desde que:
 
@@ -3935,7 +4046,9 @@ c) O transporte não seja impedido por circunstâncias que o caminho de ferro n�
 
 § 3 - Qualquer infracção cometida pelo caminho de ferro a este artigo poderá dar lugar a uma acção para reparação do dano causado.
 
-###### Artigo 5.º — Tarifas. Acordos particulares
+Artigo 5.º
+
+Tarifas. Acordos particulares
 
 § 1 - As tarifas internacionais deverão conter todas as condições especiais aplicáveis ao transporte, designadamente os elementos necessários ao cálculo do preço de transporte e das despesas por operações acessórias e, se for caso disso, as condições de conversão das moedas.
 
@@ -3955,7 +4068,9 @@ As alterações introduzidas nos preços de transporte e nas despesas por opera�
 
 § 5 - Em cada estação aberta ao tráfego internacional o passageiro poderá tomar conhecimento das tarifas internacionais ou dos respectivos resumos, com a indicação dos preços dos bilhetes internacionais que ali se encontrem à venda e dos taxas correspondentes para as bagagens.
 
-###### Artigo 6.º — Unidade de conta. Câmbio de conversão ou de aceitação das moedas
+Artigo 6.º
+
+Unidade de conta. Câmbio de conversão ou de aceitação das moedas
 
 § 1 - A unidade de conta prevista pelas Regras uniformes é o direito de saque especial, conforme definido pelo Fundo Monetário Internacional.
 
@@ -3981,13 +4096,17 @@ a) Efectua a conversão das quantias expressas em unidades monetárias estrangei
 
 b) Aceita, em pagamento, moedas estrangeiras (câmbio de aceitação).
 
-###### Artigo 7.º — Disposições complementares
+Artigo 7.º
+
+Disposições complementares
 
 § 1 - Dois ou mais Estados ou dois ou mais caminhos de ferro poderão estabelecer disposições complementares para a aplicação das Regras uniformes. Elas não poderão derrogar as Regras uniformes, a não ser que estas expressamente o prevejam.
 
 § 2 - As disposições complementares entrarão em vigor e serão publicadas nas formas previstas pelas leis e regulamentos de cada Estado. As disposições complementares e a sua entrada em vigor serão comunicadas à Repartição Central.
 
-###### Artigo 8.º — Direito nacional
+Artigo 8.º
+
+Direito nacional
 
 § 1 - Na falta de estipulação nas Regras uniformes, nas disposições complementares e nas tarifas internacionais será aplicável o direito nacional.
 
@@ -3995,17 +4114,25 @@ b) Aceita, em pagamento, moedas estrangeiras (câmbio de aceitação).
 
 § 3 - Para a aplicação das disposições relativas à responsabilidade do caminho de ferro em caso de morte e ferimento de passageiros, o direito nacional é o do Estado em cujo território tenha ocorrido o acidente ao passageiro, incluindo as regras relativas aos conflitos de leis.
 
-## TÍTULO II — Contrato de transporte
+TÍTULO II
 
-### CAPÍTULO I — Transporte de passageiros
+Contrato de transporte
 
-###### Artigo 9.º — Horários e utilização de comboios
+CAPÍTULO I
+
+Transporte de passageiros
+
+Artigo 9.º
+
+Horários e utilização de comboios
 
 § 1 - O caminho de ferro deverá levar ao conhecimento do público, de forma adequada, o horário dos comboios.
 
 § 2 - Os horários ou as tarifas deverão indicar as restrições à utilização de certos comboios ou de certas classes de carruagens.
 
-###### Artigo 10.º — Não admissão ao transporte. Admissão sob condição
+Artigo 10.º
+
+Não admissão ao transporte. Admissão sob condição
 
 § 1 - Não serão admitidas ao transporte ou poderão ser excluídas do mesmo durante o percurso:
 
@@ -4015,9 +4142,11 @@ b) As pessoas que, em concequência de uma doença ou por outras razões, possam
 
 § 2 - O transporte de pessoas que sofram de doenças contagiosas reger-se-á pelas convenções e regulamentos internacionais ou, na falta destes, pelas leis e regulamentos de cada Estado.
 
-###### Artigo 11.º — Bilhetes
+Artigo 11.º
 
-§ 1 - Os bilhetes emitidos para um transporte internacional deverão incluir a sigla CIV. O sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf) será admitido a título transitório.
+Bilhetes
+
+§ 1 - Os bilhetes emitidos para um transporte internacional deverão incluir a sigla CIV. O sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf) será admitido a título transitório.
 
 § 2 - As tarifas internacionais ou os acordos entre caminhos de ferro determinarão a forma e o conteúdo dos bilhetes, assim como a língua e os caracteres em que os mesmos deverão ser impressos e preenchidos.
 
@@ -4043,7 +4172,9 @@ f) O prazo de validade.
 
 § 7 - O prazo de validade dos bilhetes e as paragens durante o percurso serão regulados pelas tarifas internacionais.
 
-###### Artigo 12.º — Direito ao transporte. Passageiro sem bilhete válido
+Artigo 12.º
+
+Direito ao transporte. Passageiro sem bilhete válido
 
 § 1 - Desde o início da viagem, o passageiro deverá ser portador de um bilhete válido; deverá conservá-lo durante toda a viagem e, se lhe for solicitado, apresentá-lo a qualquer agente do caminho de ferro encarregado do controle, devendo devolvê-lo no fim da viagem. As tarifas internacionais poderão prever excepções.
 
@@ -4053,7 +4184,9 @@ f) O prazo de validade.
 
 § 4 - O passageiro que recusar o pagamento imediato do preço do transporte ou da sobretaxa poderá ser excluído do transporte. O passageiro excluído não poderá exigir que as bagagens sejam postas à sua disposição numa estação que não seja a de destino.
 
-###### Artigo 13.º — Redução de preços para crianças
+Artigo 13.º
+
+Redução de preços para crianças
 
 § 1 - Até aos 5 anos completos, as crianças para as quais não seja exigido um lugar separado serão transportadas gratuitamente e sem bilhete.
 
@@ -4063,13 +4196,17 @@ Esta redução não será obrigatorlamente aplicável aos preços dos bilhetes q
 
 § 3 - Todavia, as tarifas internacionais poderão prever limites de idade diferentes dos referidos nos §§ 1 e 2, na medida em que esses limites não sejam inferiores nem a 4 anos completos, no que respeita à gratuitidade de transporte mencionada no § 1, nem a 10 anos completos, no caso de aplicação dos preços reduzidos mencionados no § 2.
 
-###### Artigo 14.º — Ocupação de lugares
+Artigo 14.º
+
+Ocupação de lugares
 
 § 1 - A ocupação, atribuição e reserva de lugares nos comboios serão reguladas pelas disposições aplicáveis pelo caminho de ferro.
 
 § 2 - Nas condições fixadas pelas tarifas internacionais, o passageiro poderá utilizar um lugar de uma classe superior ou um comboio de uma categoria de preço superior às mencionadas no bilhete ou solicitar a alteração do itinerário.
 
-###### Artigo 15.º — Transporte de volumes de mão e de animais nas carruagens
+Artigo 15.º
+
+Transporte de volumes de mão e de animais nas carruagens
 
 § 1 - O passageiro poderá levar consigo, gratuitamente, nas carruagens objectos fáceis de transportar (volumes de mão).
 
@@ -4095,15 +4232,21 @@ d) Animais vivos, salvo excepção prevista nas disposições complementares ou 
 
 Esta disposição não afecta a responsabilidade que possa caber ao caminho de ferro nos termos do artigo 26.º
 
-###### Artigo 16.º — Perda de correspondência. Supressão de comboios
+Artigo 16.º
+
+Perda de correspondência. Supressão de comboios
 
 § 1 - Quando, devido ao atraso de um comboio, se perder a correspondência com outro comboio ou quando um comboio for suprimido na totalidade ou em parte do seu percurso e o passageiro queira prosseguir viagem, o caminho de ferro deverá encaminhá-lo, com os seus volumes de mão e bagagem, na medida do possível e sem qualquer sobretaxa, para um comboio que se dirija para a mesma estação de destino, pela mesma linha ou por uma outra linha dependente dos caminhos de ferro que participem no itinerário do transporte inicial, de modo a permitir que o passageiro chegue ao destino com o mínimo de atraso.
 
 § 2 - O caminho de ferro deve, se for caso disso, certificar no bilhete que se perdeu a correspondência ou que o comboio foi suprimido, prolongar a validade do bilhete na medida necessária e validá-lo para o novo itinerário, para uma classe superior ou para um comboio de uma categoria de preço superior. Todavia, as tarifas ou os horários poderão excluir a utilização de certos comboios.
 
-### CAPÍTULO II — Transporte de bagagens
+CAPÍTULO II
 
-###### Artigo 17.º — Objectos autorizados
+Transporte de bagagens
+
+Artigo 17.º
+
+Objectos autorizados
 
 § 1 - Serão admitidos ao transporte como bagagem os objectos afectos aos fins da viagem contidos em malas, cestos, malas de mão, sacos de viagem e outras embalagens do mesmo tipo, bem como as próprias embalagens.
 
@@ -4111,7 +4254,9 @@ Esta disposição não afecta a responsabilidade que possa caber ao caminho de f
 
 § 3 - As tarifas ou os horários poderão excluir ou limitar o transporte de bagagens em certos comboios ou em certas categorias de comboios.
 
-###### Artigo 18.º — Objectos excluídos
+Artigo 18.º
+
+Objectos excluídos
 
 Serão excluídos do transporte como bagagem:
 
@@ -4125,7 +4270,9 @@ d) Os objectos que causem embaraço ou de volume excessivo;
 
 e) As matérias e objectos perigosos, principalmente armas carregadas, matérias e objectos explosivos ou inflamáveis, matérias comburentes, tóxicas, radioactivas ou corrosivas, assim como matérias infecciosas ou que causem repugnância; as tarifas internacionais poderão aceitar, sob condição, como bagagem algumas dessas matérias e objectos.
 
-###### Artigo 19.º — Registo e transportes de bagagens
+Artigo 19.º
+
+Registo e transportes de bagagens
 
 § 1 - O registo das bagagens só se efectuará mediante apresentação de bilhetes válidos pelo menos até ao destino das bagagens e para o itinerário mencionado nos bilhetes.
 
@@ -4145,11 +4292,13 @@ Se as bagagens tiverem de ser sujeitas a transbordo numa estação de correspond
 
 O encaminhamento das bagagens só poderá realizar-se nas condições acima indicadas se as formalidades exigidas à partida ou no percurso da viagem pelas autoridades alfandegárias ou por outras autoridades administrativas a isso não se opuserem.
 
-###### Artigo 20.º — Senha de bagagens
+Artigo 20.º
+
+Senha de bagagens
 
 § 1 - No momento do registo das bagagens dever ser entregue uma senha ao passageiro.
 
-§ 2 - As senhas de bagagens destinadas a um transporte internacional deverão conter a sigla CIV. A título transitório é admitido o sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf))](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf).
+§ 2 - As senhas de bagagens destinadas a um transporte internacional deverão conter a sigla CIV. A título transitório é admitido o sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/27301/00010090.pdf).
 
 § 3 - As tarifas internacionais ou os acordos entre os caminhos de ferro determinarão a forma e o conteúdo das senhas de bagagens, assim como a língua e os caracteres em que as mesmas deverão ser impressas e preenchidas.
 
@@ -4169,7 +4318,9 @@ f) O preço do transporte e outras despesas.
 
 § 5 - O passageiro deverá certificar-se, no momento da recepção da senha de bagagens, se esta foi preenchida de acordo com as suas indicações.
 
-###### Artigo 21.º — Estado, acondicionamento embalagem e marcação das bagagens
+Artigo 21.º
+
+Estado, acondicionamento embalagem e marcação das bagagens
 
 § 1 - Os volumes cujo estado ou acondicionamento seja defeituoso ou cuja embalagem seja insuficiente ou que apresentem sinais manifestos de avaria poderão ser recusados pelos serviços do caminho de ferro. Se, no entanto, este os aceitar, poderá fazer uma menção apropriada na senha de bagagens. A aceitação da senha de bagagens que inclua uma tal menção pelo passageiro será considerada como prova de que o mesmo reconheceu a sua exactidão.
 
@@ -4183,7 +4334,9 @@ As indicações desactualizadas deverão ser tornadas ilegíveis ou suprimidas p
 
 O caminho de ferro poderá recusar os volumes que não tragam as indicações exigidas.
 
-###### Artigo 22.º — Responsabilidade do passageiro. Verificação. Sobretaxa
+Artigo 22.º
+
+Responsabilidade do passageiro. Verificação. Sobretaxa
 
 § 1 - O passageiro será responsável por todas as consequências resultantes da inobservância dos artigos 17.º, 18.º e 21.º, § 2.
 
@@ -4193,7 +4346,9 @@ O caminho de ferro poderá recusar os volumes que não tragam as indicações ex
 
 Em caso de infracção aos artigos 17.º e 18.º, o caminho de ferro poderá cobrar uma sobretaxa fixada pelas tarifas internacionais, sem prejuízo do pagamento da diferença do preço do transporte e de uma indemnização por qualquer dano eventualmente causado.
 
-###### Artigo 23.º — Entrega
+Artigo 23.º
+
+Entrega
 
 § 1 - A entrega das bagagens far-se-á contra a entrega da senha de bagagens e, se for caso disso, contra o pagamento de despesas que onerem a remessa. O caminho de ferro terá, sem a isso ser obrigado, o direito de verificar se o detentor da senha tem legitimidade para receber as bagagens.
 
@@ -4215,13 +4370,19 @@ b) A entrega de animais vivos a terceiros.
 
 § 8 - Quanto ao mais, a entrega de bagagens efectuar-se-á de acordo com as disposições em vigor na estação encarregada da entrega.
 
-### CAPÍTULO III — Disposições comuns ao transporte de passageiros e de bagagens
+CAPÍTULO III
 
-###### Artigo 24.º — Cumprimento das formalidades administrativas
+Disposições comuns ao transporte de passageiros e de bagagens
+
+Artigo 24.º
+
+Cumprimento das formalidades administrativas
 
 O passageiro deverá observar as disposições das alfândegas ou de outras autoridades administrativas, tanto no que respeita à sua pessoa e aos animais que consigo transportar, como no que respeita à verificação dos seus volumes de mão e bagagens. Deverá assistir a essa verificação, salvo excepção prevista pelas leis e regulamentos de cada Estado. O caminho de ferro não será responsável perante o passageiro pelos prejuízos resultantes do facto de este não ter tido em conta essas obrigações.
 
-###### Artigo 25.º — Reembolso, restituição e pagamento suplementar
+Artigo 25.º
+
+Reembolso, restituição e pagamento suplementar
 
 § 1 - O preço de transporte será reembolsado, na totalidade ou em parte, quando:
 
@@ -4243,11 +4404,17 @@ Em determinados casos essas tarifas poderão excluir o reembolso do preço do tr
 
 § 6 - Em todos os casos não previstos neste artigo e na falta de acordo entre os caminhos de ferro serão aplicadas as disposições em vigor no Estado de partida.
 
-## TÍTULO III — Responsabilidade
+TÍTULO III
 
-### CAPÍTULO I — Responsabilidade do caminho de ferro em caso de morte ou de ferimento de passageiros
+Responsabilidade
 
-###### Artigo 26.º — Fundamento de responsabilidade
+CAPÍTULO I
+
+Responsabilidade do caminho de ferro em caso de morte ou de ferimento de passageiros
+
+Artigo 26.º
+
+Fundamento de responsabilidade
 
 § 1 - O caminho de ferro será responsável pelo prejuízo resultante da morte, de ferimento ou de qualquer outro dano causado à integridade física ou mental de um passageiro por motivo de acidente relacionado com a exploração ferroviária, ocorrido durante a permanência do passageiro nos veículos, à entrada para ou à saída dos mesmos.
 
@@ -4265,7 +4432,9 @@ c) Se o acidente for devido ao comportamento de um terceiro, que o caminho de fe
 
 § 4 - O caminho de ferro responsável nos termos deste capítulo será aquele que, de acordo com a lista das linhas previstas nos artigos 3.º e 10.º da Convenção, explore a linha na qual se tenha verificado o acidente. Se, de acordo com essa lista, existir uma exploração em comum por dois caminhos de ferro, cada um deles será responsável.
 
-###### Artigo 27.º — Indemnização em caso de morte
+Artigo 27.º
+
+Indemnização em caso de morte
 
 § 1 - Em caso de morte do passageiro, a indemnização compreenderá:
 
@@ -4275,7 +4444,9 @@ b) As indemnizações previstas no artigo 28.º, se a morte não tiver ocorrido 
 
 § 2 - Se, por morte do passageiro, as pessoas em relação às quais ele tinha ou deveria ter obrigação alimentar, nos termos da lei, ficarem privadas do seu sustento, terão igualmente direito a uma indemnização por essa perda. A acção de indemnização por perdas e danos de pessoas a quem o passageiro assegurasse a manutenção sem a isso ser obrigado por lei ficará sujeita ao direito nacional.
 
-###### Artigo 28.º — Indemnização em caso de ferimento
+Artigo 28.º
+
+Indemnização em caso de ferimento
 
 Em caso de ferimento ou de qualquer outro dano causado à integridade física ou mental do passageiro a indemnização compreenderá:
 
@@ -4283,11 +4454,15 @@ a) As despesas necessárias, designadamente as referentes ao tratamento e ao tra
 
 b) A reparação do prejuízo causado, quer por incapacidade para o trabalho total ou parcial, quer pelo aumento das suas necessidades.
 
-###### Artigo 29.º — Reparação de outros prejuízos
+Artigo 29.º
+
+Reparação de outros prejuízos
 
 O direito nacional determinará se e em que medida o caminho de ferro deverá indemnizar outros prejuízos além dos previstos nos artigos 27.º e 28.º designadamente os prejuízos de ordem moral e física (pretium doloris) e estética.
 
-###### Artigo 30.º — Forma e limite das indemnizações em caso de morte ou de ferimento
+Artigo 30.º
+
+Forma e limite das indemnizações em caso de morte ou de ferimento
 
 § 1 - As indemnizações previstas nos artigos 27.º, § 2.º, e 28.º, alínea b), deverão ser pagas em capital. Todavia, se o direito nacional permitir a atribuição de uma renda, serão pagas sob esta forma quando o passageiro lesado ou os interessados referidos no artigo 27.º § 2, o pedirem.
 
@@ -4295,15 +4470,21 @@ O direito nacional determinará se e em que medida o caminho de ferro deverá in
 
 Todavia, para aplicação das Regras uniformes é fixado um limite máximo de 70000 unidades de conta em capital, ou em renda anual correspondente a esse capital, por cada passageiro, no caso de o direito nacional prever um limite máximo de montante inferior
 
-###### Artigo 31.º — Limite das indemnizações em caso de perde ou avaria de objectos
+Artigo 31.º
+
+Limite das indemnizações em caso de perde ou avaria de objectos
 
 Quando o caminho de ferro seja responsável nos termos do artigo 26.º, § 1, segunda parte, deverá reparar os prejuízos até ao limite de 700 unidades de conta por cada passageiro.
 
-###### Artigo 32.º — Proibição de limitação da responsabilidade
+Artigo 32.º
+
+Proibição de limitação da responsabilidade
 
 As disposições tarifárias e as constantes de acordos particulares concluídos entre o caminho de ferro e o passageiro que visem excluir antecipadamente, no todo ou em parte, a responsabilidade do caminho de ferro em caso de morte ou ferimento de passageiros ou que tenham por efeito inverter o ónus da prova que caberia ao caminho de ferro ou que estabeleçam limites inferiores aos fixados nos artigos 30.º, § 2, e 31.º são nulas de pleno direito. No entanto, esta nulidade não implicará a nulidade do contrato de transporte.
 
-###### Artigo 33.º — Transportes mistos
+Artigo 33.º
+
+Transportes mistos
 
 § 1 - Sem prejuízo do disposto no § 2, as disposições relativas à responsabilidade do caminho de ferro em caso de morte e ferimento de passageiros não serão aplicáveis aos danos ocorridos durante o transporte em linhas não ferroviárias inscritas na lista das linhas prevista nos artigos 3.º e 10.º da Convenção.
 
@@ -4313,15 +4494,21 @@ Para efeitos de aplicação do presente parágrafo, entende-se por «Estado no t
 
 § 3 - Quando, por circunstâncias excepcionais, o caminho de ferro se veja obrigado a interromper provisoriamente a sua exploração e transporte ou faça transportar os passageiros através de um outro meio de transporte, a sua responsabilidade reger-se-á pela legislação relativa a esse meio de transporte. No entanto, permanecerão aplicáveis o artigo 18.º da Convenção e os artigos 8.º, 48.º a 53.º e 55.º das Regras uniformes.
 
-### CAPÍTULO II — Responsabilidade do caminho de ferro relativamente a bagagens
+CAPÍTULO II
 
-###### Artigo 34.º — Responsabilidade colectiva dos caminhos de ferro
+Responsabilidade do caminho de ferro relativamente a bagagens
+
+Artigo 34.º
+
+Responsabilidade colectiva dos caminhos de ferro
 
 § 1 - O caminho de ferro que aceitar bagagens para transporte fica, ao emitir uma senha de bagagens, responsabilizado pela execução do transporte na totalidade do percurso até à entrega.
 
 § 2 - Cada caminho de ferro subsequente, pelo simples facto de tomar a seu cargo as bagagens, participa no contrato de transporte e assume as obrigações dele decorrentes, sem prejuízo do disposto no artigo 51.º, § 3, no que se refere ao caminho de ferro de destino.
 
-###### Artigo 35.º — Âmbito da responsabilidade
+Artigo 35.º
+
+Âmbito da responsabilidade
 
 § 1 - O caminho de ferro será responsável pelo prejuízo resultante da perda total ou parcial e da avaria das bagagens ocorridas a partir da aceitação para transporte até à sua entrega, assim como por qualquer atraso verificado na mesma.
 
@@ -4335,13 +4522,17 @@ b) Natureza especial das bagagens;
 
 c) Expedição, como bagagem, de objectos excluídos do transporte.
 
-###### Artigo 36.º — Ónus da prova
+Artigo 36.º
+
+Ónus da prova
 
 § 1 - A prova de que a perda, a avaria ou o atraso na entrega tiveram por motivo um dos factos previstos no artigo 35.º, § 2, cabe ao caminho de ferro.
 
 § 2 - Quando o caminho de ferro concluir que a perda ou avaria terá eventualmente resultado, dadas as circunstâncias de facto, de um ou mais dos riscos específicos previstos no artigo 35.º, § 3, haverá presunção de que deles resultou. No entanto, o interessado conserva o direito de provar que o dano não teve por causa, no todo, ou em parte, um desses riscos.
 
-###### Artigo 37.º — Presunção de perda de bagagens
+Artigo 37.º
+
+Presunção de perda de bagagens
 
 § 1 - O interessado poderá, sem ter de fornecer outras provas, considerar um volume como perdido quando este lhe não for entregue ou colocado à sua disposição nos 14 dias seguintes ao pedido de entrega apresentado de acordo com o artigo 23.º, § 3.
 
@@ -4351,7 +4542,9 @@ c) Expedição, como bagagem, de objectos excluídos do transporte.
 
 § 4 - Se o volume encontrado não for reclamado dentro do prazo previsto no § 3 ou se o volume for encontrado mais de 1 ano após o pedido de entrega, o caminho de ferro disporá do mesmo em conformidade com as leis e regulamentos do Estado a que pertença.
 
-###### Artigo 38.º — Indemnização em caso de perda
+Artigo 38.º
+
+Indemnização em caso de perda
 
 § 1 - Em caso de perda, total ou parcial, das bagagens, o caminho de ferro, para além de todas as outras indemnizações, deverá pagar:
 
@@ -4363,7 +4556,9 @@ O modo de indemnização, por quilograma em falta ou por volume, será determina
 
 § 2 - O caminho de ferro deverá restituir também o preço do transporte, os direitos aduaneiros e outras quantias desembolsadas na altura do transporte do volume perdido.
 
-###### Artigo 39.º — Indemnização em caso de avaria
+Artigo 39.º
+
+Indemnização em caso de avaria
 
 § 1 - Em caso de avaria das bagagens, o caminho de ferro deverá, para além de todas as outras indemnizações, pagar uma indemnização equivalente à depreciação das bagagens.
 
@@ -4373,7 +4568,9 @@ a) Se a totalidade das bagagens ficar depreciada em virtude da avaria, o montant
 
 b) Se apenas uma parte das bagagens ficar depreciada em virtude da avaria, o montante que teria atingido em caso de perda da parte depreciada.
 
-###### Artigo 40.º — Indemnização em caso de atraso na entrega
+Artigo 40.º
+
+Indemnização em caso de atraso na entrega
 
 § 1 - Em caso de atraso na entrega das bagagens, o caminho de ferro deverá pagar, por período indivisível de 24 horas a contar do pedido de entrega, mas com um máximo de 14 dias:
 
@@ -4391,7 +4588,9 @@ A forma de indemnização, por quilograma ou por volume, será determinada pelas
 
 § 5 - Em nenhum caso poderá o cúmulo da indemnização prevista no § 1 com as dos artigos 38.º e 39.º dar lugar ao pagamento de uma indemnização mais elevada à que seria devida em caso de perda total das bagagens.
 
-###### Artigo 41.º — Veículos automóveis acompanhados
+Artigo 41.º
+
+Veículos automóveis acompanhados
 
 § 1 - Em caso de atraso no carregamento por motivo imputável ao caminho de ferro ou de atraso na entrega de um veículo automóvel acompanhado, o caminho de ferro deverá pagar, quando o interessado provar que dele resultou prejuízo, uma indemnização cujo montante não poderá exceder o preço do transporte do veículo.
 
@@ -4403,15 +4602,21 @@ A forma de indemnização, por quilograma ou por volume, será determinada pelas
 
 § 5 - As outras disposições referentes à responsabilidade pelas bagagens serão igualmente aplicáveis ao transporte dos veículos automóveis acompanhados.
 
-### CAPÍTULO III — Disposições comuns relativas à responsabilidade
+CAPÍTULO III
 
-###### Artigo 42.º — Indemnização em caso de dolo ou culpa grave
+Disposições comuns relativas à responsabilidade
+
+Artigo 42.º
+
+Indemnização em caso de dolo ou culpa grave
 
 Quando o prejuízo resultar de dolo ou culpa grave imputável ao caminho de ferro, não se aplicarão as disposições dos artigos 30.º, 31.º e 38.º a 41.º das Regras uniformes ou as previstas pelo direito nacional que limitem as indemnizações a um determinado montante.
 
 Em caso de culpa grave, a indemnização por perda, avaria ou atraso na entrega das bagagens ficará, porém, limitada ao dobro dos máximos previstos nos artigos 38.º a 41.º
 
-###### Artigo 43.º — Juros da indemnização
+Artigo 43.º
+
+Juros da indemnização
 
 § 1 - O interessado poderá pedir juros da indemnização, calculados à razão de 5% ao ano, a partir do dia da reclamação prevista no artigo 49.º ou, se não tiver havido reclamação, a partir do dia em que tenha sido posta acção em juízo.
 
@@ -4421,23 +4626,31 @@ Em caso de culpa grave, a indemnização por perda, avaria ou atraso na entrega 
 
 § 4 - No que diz respeito às bagagens, se o interessado não remeter ao caminho de ferro, no prazo conveniente que lhe for fixado, os documentos justificativos necessários para a liquidação definitiva da reclamação, não se vencerão juros entre o termo do prazo fixado e a remessa dos documentos.
 
-###### Artigo 44.º — Responsabilidade em caso de acidente nuclear
+Artigo 44.º
+
+Responsabilidade em caso de acidente nuclear
 
 O caminho de ferro ficará isento da responsabilidade que lhe cabe nos termos das Regras uniformes quando o dano tiver sido causado por um acidente nuclear e quando, nos termos das leis e regulamentos de um Estado que regulem a responsabilidade no domínio da energia nuclear, a entidade incumbida da exploração de uma instalação nuclear, ou outra pessoa que a substitua, seja responsável por esse dano.
 
-###### Artigo 45.º — Responsabilidade do caminho de forro pelos seus agentes
+Artigo 45.º
+
+Responsabilidade do caminho de forro pelos seus agentes
 
 O caminho de ferro será responsável pelos seus agentes e pelas outras pessoas que empregue na execução do transporte.
 
 No entanto, se, a pedido de um passageiro, esses agentes e outras pessoas prestarem serviços que não sejam da competência do caminho de ferro, serão considerados como agindo por conta do passageiro ao qual prestem esses serviços.
 
-###### Artigo 46.º — Outras acções
+Artigo 46.º
+
+Outras acções
 
 Em todos os casos em que se apliquem as Regras uniformes, qualquer acção de responsabilidade, seja a que título for, só poderá ser movida contra o caminho de ferro nas condições e dentro dos limites das mencionadas Regras.
 
 O mesmo se aplica a qualquer acção movida contra os agentes e outras pessoas pelos quais o caminho de ferro responda nos termos do artigo 45.º
 
-###### Artigo 47.º — Disposições especiais
+Artigo 47.º
+
+Disposições especiais
 
 § 1 - Sem prejuízo do disposto no artigo 41.º, a responsabilidade do caminho de ferro pelo prejuízo causado pelo atraso ou supressão de um comboio ou pela falta de uma correspondência ficará sujeita às leis e regulamentos do Estado em que o facto tenha ocorrido.
 
@@ -4445,9 +4658,13 @@ O mesmo se aplica a qualquer acção movida contra os agentes e outras pessoas p
 
 § 3 - Os restantes artigos do título III e do título IV não serão aplicáveis aos casos previstos nos §§ 1 e 2.
 
-## TÍTULO IV — Exercício dos direitos
+TÍTULO IV
 
-###### Artigo 48.º — Verificação de perda parcial ou de avaria das bagagens
+Exercício dos direitos
+
+Artigo 48.º
+
+Verificação de perda parcial ou de avaria das bagagens
 
 § 1 - Quando uma perda parcial ou uma avaria das bagagens seja descoberta ou presumida pelo caminho de ferro ou o interessado alegue a sua existência, o caminho de ferro deverá levantar, sem demora e, se possível, na presença do interessado, um auto que certifique, conforme a natureza do prejuízo, o estado das bagagens, o seu peso e, tanto quanto possível, a importância do prejuízo, a sua causa e o momento em que se tenha produzido.
 
@@ -4457,7 +4674,9 @@ Uma cópia desse auto deverá ser entregue gratuitamente ao interessado.
 
 § 3 - Em caso de perda de volumes, o interessado deverá, a fim de facilitar as buscas do caminho de ferro, fornecer uma descrição tão exacta quanto possível dos volumes perdidos.
 
-###### Artigo 49.º — Reclamações
+Artigo 49.º
+
+Reclamações
 
 § 1 - As reclamações relativas à responsabilidade do caminho de ferro em caso de morte ou de ferimento de passageiros deverão ser dirigidas, por escrito, a um dos seguintes caminhos de ferro:
 
@@ -4477,11 +4696,15 @@ No momento da regularização da reclamação, o caminho de ferro poderá exigir
 
 § 4 - Os bilhetes, as senhas de bagagens e outros documentos que o interessado julgar útil juntar à reclamação deverão ser apresentados, quer no original, quer em cópias devidamente legalizadas, se o caminho de ferro o exigir.
 
-###### Artigo 50.º — Pessoas que poderão mover acção contra o caminho de forro
+Artigo 50.º
+
+Pessoas que poderão mover acção contra o caminho de forro
 
 A acção judicial contra o caminho de ferro competirá à pessoa que apresente o bilhete ou a senha de bagagens, conforme o caso, ou que, na falta destes, justifique o seu direito de outra forma.
 
-###### Artigo 51.º — Caminhos de ferro contra os quais poderão ser movidas acções
+Artigo 51.º
+
+Caminhos de ferro contra os quais poderão ser movidas acções
 
 § 1 - A acção judicial baseada na responsabilidade do caminho de ferro em caso de morte ou de ferimento de passageiros só poderá ser movida contra o caminho de ferro responsável nos termos do artigo 26.º, § 4. Em caso de co-exploração por dois caminhos de ferro, o autor poderá escolher qualquer deles.
 
@@ -4495,7 +4718,9 @@ Poderá ser intentada acção contra o caminho de ferro de destino, mesmo que es
 
 § 5 - A acção judicial poderá ser intentada contra um caminho de ferro que não os previstos nos §§ 2 e 3 quando for apresentada como pedido reconvencional ou como excepção na instância relativa a um pedido principal baseado no mesmo contrato de transporte.
 
-###### Artigo 52.º — Competência
+Artigo 52.º
+
+Competência
 
 § 1 - As acções judiciais baseadas na responsabilidade do caminho de ferro em caso de morte ou de ferimento de passageiros apenas poderão ser intentadas perante a jurisdição competente do Estado em cujo território tiver ocorrido o acidente ao passageiro, a menos que tenha sido decidido de forma diferente nos acordos entre Estados ou nos actos de concessão.
 
@@ -4503,7 +4728,9 @@ Poderá ser intentada acção contra o caminho de ferro de destino, mesmo que es
 
 Quando um caminho de ferro explorar redes autónomas em diversos Estados, cada uma destas redes será considerada como um caminho de ferro distinto para efeitos de aplicação deste parágrafo.
 
-###### Artigo 53.º — Extinção da acção resultante da responsabilidade em caso de morte e ferimento de passageiros
+Artigo 53.º
+
+Extinção da acção resultante da responsabilidade em caso de morte e ferimento de passageiros
 
 § 1 - Qualquer acção movida pelo interessado com fundamento na responsabilidade do caminho de ferro em caso de morte e ferimento de passageiros extinguir-se-á se o interessado não tiver comunicado o acidente sofrido pelo passageiro, no prazo de 3 meses a contar da data em que tiver tomado conhecimento do dano, a um dos caminhos de ferro aos quais possa ser apresentada uma reclamação, de acordo com o artigo 49.º, § 1.
 
@@ -4519,7 +4746,9 @@ c) O acidente não tiver sido comunicado, ou tiver sido comunicado tardiamente, 
 
 d) O interessado provar que o acidente teve por causa uma falta do caminho de ferro.
 
-###### Artigo 54.º — Extinção da acção resultante do contrato de transporte de bagagens
+Artigo 54.º
+
+Extinção da acção resultante do contrato de transporte de bagagens
 
 § 1 - A recepção das bagagens pelo interessado extingue qualquer acção contra o caminho de ferro, resultante do contrato de transporte, em caso de perda parcial, de avaria ou de atraso na entrega.
 
@@ -4541,7 +4770,9 @@ c) Em caso de atraso na entrega, se o interessado tiver, dentro de 21 dias, feit
 
 d) Se o interessado provar que o dano foi causado por dolo ou culpa grave imputável aos caminhos de ferro.
 
-###### Artigo 55.º — Prescrição de acção
+Artigo 55.º
+
+Prescrição de acção
 
 § 1 - As acções de indemnização por perdas e danos baseadas na responsabilidade do caminho de ferro em caso de morte ou de ferimento de passageiros prescreverão:
 
@@ -4583,13 +4814,19 @@ As reclamações posteriores que tenham o mesmo objectivo não suspenderão o pr
 
 § 6 - Sem prejuízo das disposições precedentes, a suspensão e interrupção da prescrição serão reguladas pelo direito nacional.
 
-## TÍTULO V — Relações dos caminhos de ferro entre si
+TÍTULO V
 
-###### Artigo 56.º — Regularização das contas entre caminhos de ferro
+Relações dos caminhos de ferro entre si
+
+Artigo 56.º
+
+Regularização das contas entre caminhos de ferro
 
 Qualquer caminho de ferro deverá pagar aos caminhos de ferro interessados a parte que lhes competir num preço de transporte que tenha recebido ou que devesse ter recebido.
 
-###### Artigo 57.º — Direito de regresso em caso de perda ou avaria
+Artigo 57.º
+
+Direito de regresso em caso de perda ou avaria
 
 § 1 - O caminho de ferro que tenha pago uma indemnização por perda total ou parcial ou por avaria de bagagens, em conformidade com as Regras uniformes, terá o direito de regresso contra o caminho de ferro que tenha participado no transporte, de acordo com as seguintes disposições:
 
@@ -4601,11 +4838,15 @@ c) Se não for possível provar que o dano foi causado por um ou mais caminhos d
 
 § 2 - Em caso de falência de um desses caminhos de ferro, a parte que lhe competir e que por ele não seja paga será repartida por todos os outros caminhos de ferro que tenham participado no transporte, proporcionalmente às distâncias quilométricas de aplicação das tarifas.
 
-###### Artigo 58.º — Direito de regresso em caso de atraso na entrega
+Artigo 58.º
+
+Direito de regresso em caso de atraso na entrega
 
 O artigo 57.º será aplicável em caso de indemnização paga por atraso na entrega. Se este for ocasionado por vários caminhos de ferro, a indemnização será repartida por esses caminhos de ferro proporcionalmente ao tempo de atraso sofrido nas respectivas linhas.
 
-###### Artigo 59.º — Acção de regresso
+Artigo 59.º
+
+Acção de regresso
 
 § 1 - O fundamento do pagamento efectuado pelo caminho de ferro que exerça o direito de regresso previsto nos artigos 57.º e 58.º não poderá ser contestado pelo caminho de ferro contra o qual for exercido esse direito quando a indemnização for fixada judicialmente ou quando este último caminho de ferro, devidamente citado, tenha tido possibilidade de intervir no processo.
 
@@ -4619,35 +4860,49 @@ O juiz da acção principal fixará os prazos concedidos para a citação e para
 
 § 5 - Não poderão ser instauradas acções de regresso na instância relativa ao pedido de indemnização apresentado pelo interessado no contrato de transporte.
 
-###### Artigo 60.º — Competência para as acções de regresso
+Artigo 60.º
+
+Competência para as acções de regresso
 
 § 1 - A jurisdição da sede do caminho de ferro contra o qual a acção seja movida tem competência exclusiva para todas as acções de regresso.
 
 § 2 - Quando a acção deva ser intentada contra vários caminhos de ferro, o caminho de ferro autor da acção terá o direito de escolher, entre as jurisdições competentes nos termos do § 1, aquela onde apresentará o seu pedido.
 
-###### Artigo 61.º — Acordos relativos às acções de regresso
+Artigo 61.º
+
+Acordos relativos às acções de regresso
 
 Os caminhos de ferro poderão derrogar, por meio de acordos, as disposições deste título relativas a acções de regresso recíprocas, com excepção da do artigo 59.º, § 5.
 
-## TÍTULO VI — Disposições excepcionais
+TÍTULO VI
 
-###### Artigo 62.º — Derrogações
+Disposições excepcionais
+
+Artigo 62.º
+
+Derrogações
 
 As disposições das Regras uniformes não poderão prevalecer contra as que alguns Estados sejam levados a tomar, no tráfego entre si, em cumprimento de determinados Tratados, tais como os Tratados relativos à Comunidade Europeia do Carvão e do Aço e à Comunidade Económica Europeia.
 
-## Apêndice B à Convenção Relativa aos Transportes Internacionais Ferroviários (COTIF), de 9 de Maio de 1980
+Apêndice B à Convenção Relativa aos Transportes Internacionais Ferroviários (COTIF), de 9 de Maio de 1980
 
 REGRAS UNIFORMES RELATIVAS AO CONTRATO DE TRANSPORTE INTERNACIONAL FERROVIÁRIO DE MERCADORIAS (CIM).
 
-## TÍTULO I — Generalidades
+TÍTULO I
 
-###### Artigo 1.º — Campo de aplicação
+Generalidades
+
+Artigo 1.º
+
+Campo de aplicação
 
 § 1 - Sem prejuízo das excepções previstas no artigo 2.º, as Regras uniformes aplicam-se a todas as remessas de mercadorias entregues para transporte com uma declaração de expedição directa estabelecida para um percurso que abranja os territórios de, pelo menos, 2 Estados e que compreenda exclusivamente linhas inscritas na lista prevista nos artigos 3.º e 10.º da Convenção.
 
 § 2 - Nas Regras uniformes, o termo «estação» abrange as estações ferroviárias, os portos dos serviços de navegação e quaisquer outros estabelecimentos das empresas de transporte abertos ao público para o cumprimento do contrato de transporte.
 
-###### Artigo 2.º — Excepções ao campo de aplicação
+Artigo 2.º
+
+Excepções ao campo de aplicação
 
 § 1 - As remessas cujas estações de expedição e de destino estejam situadas no território de um mesmo Estado e que apenas utilizem o território de um outro Estado em trânsito não ficarão sujeitas às Regras uniformes se:
 
@@ -4657,7 +4912,9 @@ b) Os Estados ou os caminhos de ferro acordarem em não considerar essas remessa
 
 § 2 - As remessas entre estações de dois Estados limítrofes e as remessas entre estações de dois Estados em trânsito pelo território de um terceiro Estado, se as linhas através das quais se efectuar o transporte forem exclusivamente exploradas por um caminho de ferro de um desses três Estados, ficarão sujeitas ao regime do tráfego interno aplicável a esse caminho de ferro, quando o expedidor, utilizando a declaração de expedição correspondente, o reivindicar e quando as leis e regulamentos de nenhum dos Estados interessados a isso se opuserem.
 
-###### Artigo 3.º — Obrigação de transportar
+Artigo 3.º
+
+Obrigação de transportar
 
 § 1 - O caminho de ferro é obrigado a efectuar, nas condições das Regras uniformes, qualquer transporte de mercadorias em vagões completos, desde que:
 
@@ -4685,7 +4942,9 @@ Estas medidas serão comunicadas à Repartição Central. Serão incluídas pelo
 
 § 6 - Qualquer infracção cometida a este artigo pelo caminho de ferro poderá dar lugar a uma acção de indemnização para reparação do prejuízo causado.
 
-###### Artigo 4.º — Objectos excluídos do transporte
+Artigo 4.º
+
+Objectos excluídos do transporte
 
 Ficam excluídos do transporte:
 
@@ -4697,7 +4956,9 @@ c) Os objectos que pelas suas dimensões, peso ou acondicionamento não se prest
 
 d) As matérias e os objectos excluídos do transporte ao abrigo do Regulamento Relativo ao Transporte Internacional Ferroviário de Mercadorias Perigosas (RID), Anexo I das Regras uniformes, sem prejuízo das derrogações previstas no artigo 5.º, § 2.
 
-###### Artigo 5.º — Objectos aceites para transporte sob condição
+Artigo 5.º
+
+Objectos aceites para transporte sob condição
 
 § 1 - Serão aceites para transporte sob condição:
 
@@ -4713,7 +4974,9 @@ Os Estados ou os caminhos de ferro poderão, pelas mesmas formas, tornar menos r
 
 Estes acordos e cláusulas tarifárias deverão ser publicados e comunicados à Repartição Central, que deles dará conhecimento aos Estados.
 
-###### Artigo 6.º — Tarifas. Acordos particulares
+Artigo 6.º
+
+Tarifas. Acordos particulares
 
 § 1 - O preço de transporte e as despesas por operações acessórias serão calculados de acordo com as tarifas legalmente em vigor e devidamente publicadas em cada Estado, válidas no momento da conclusão do contrato de transporte, mesmo que o preço do transporte seja calculado separadamente para as diferentes secções do percurso.
 
@@ -4749,7 +5012,9 @@ c) Se os preços dos transportes e as despesas por operações acessórias previ
 
 § 9 - O caminho de ferro não poderá, para além do preço do transporte e das despesas por operações acessórias previstas pelas tarifas, cobrar nenhuma quantia que ultrapasse as despesas por ele efectuadas. Essas despesas deverão ser devidamente verificadas e escrituradas à parte na declaração de expedição, com todas as justificações úteis. Quando essas justificações forem apresentadas por meio de documentos anexos à declaração de expedição e se o pagamento das despesas correspondentes couber ao expedidor, esses documentos não serão entregues ao destinatário com a declaração de expedição, mas enviados ao expedidor com a factura das despesas mencionadas no artigo 15.º, § 7.
 
-###### Artigo 7.º — Unidade de conta. Câmbio de conversão ou de aceitação das moedas
+Artigo 7.º
+
+Unidade de conta. Câmbio de conversão ou de aceitação das moedas
 
 § 1 - A unidade de conta prevista pelas Regras uniformes é o direito de saque especial, conforme definido pelo Fundo Monetário Internacional.
 
@@ -4775,7 +5040,9 @@ a) Efectua a conversão das importâncias, expressas em unidades monetárias est
 
 b) Aceita em pagamento moedas estrangeiras (câmbio de aceitação).
 
-###### Artigo 8.º — Disposições especiais para certos transportes
+Artigo 8.º
+
+Disposições especiais para certos transportes
 
 § 1 - Para o transporte de vagões particulares estão previstas disposições especiais pelo Regulamento Relativo ao Transporte Internacional Ferroviário de Vagões Particulares (RIP), Anexo II às Regras uniformes.
 
@@ -4799,21 +5066,29 @@ f) Remessas efectuadas, em todo o percurso ou parte dele, ao abrigo de declaraç
 
 g) Remessas enviadas ao abrigo de um instrumento que sirva à transmissão automática de dados.
 
-###### Artigo 9.º — Disposições complementares
+Artigo 9.º
+
+Disposições complementares
 
 § 1 - Dois ou mais Estados ou dois ou mais caminhos de ferro poderão estabelecer disposições complementares para a aplicação das Regras uniformes. Elas não poderão derrogar as Regras uniformes, a não ser que estas expressamente o prevejam.
 
 § 2 - As disposições complementares entrarão em vigor e serão publicadas nas formas previstas pelas leis e regulamentos de cada Estado. As disposições complementares e a sua entrada em vigor serão comunicadas à Repartição Central.
 
-###### Artigo 10.º — Direito nacional
+Artigo 10.º
+
+Direito nacional
 
 § 1 - Na falta de estipulação nas Regras uniformes, nas disposições complementares e nas tarifas internacionais será aplicável o direito nacional.
 
 § 2 - Entende-se por direito nacional o direito do Estado em que o interessado faz valer os seus direitos, incluindo as regras relativas aos conflitos de leis.
 
-## TÍTULO II — Conclusão e execução do contrato de transporte
+TÍTULO II
 
-###### Artigo 11.º — Conclusão do contrato de transporte
+Conclusão e execução do contrato de transporte
+
+Artigo 11.º
+
+Conclusão do contrato de transporte
 
 § 1 - O contrato de transporte fica concluído a partir do momento em que o caminho de ferro expedidor aceitar para transporte a mercadoria, acompanhada da declaração de expedição.
 
@@ -4831,7 +5106,9 @@ Se for evidente que nenhuma falta efectiva corresponde a uma diferença de peso 
 
 Esse duplicado não terá o valor nem da declaração de expedição que acompanha a mercadoria nem de um conhecimento.
 
-###### Artigo 12.º — Declaração de expedição
+Artigo 12.º
+
+Declaração de expedição
 
 § 1 - O expedidor deverá apresentar uma declaração de expedição devidamente preenchida.
 
@@ -4849,7 +5126,9 @@ As tarifas internacionais poderão determinar a língua em que deverão ser redi
 
 As indicações incluídas pelo expedidor na declaração de expedição deverão ser redigidas em caracteres latinos, salvo as derrogações previstas pelas disposições complementares ou pelas tarifas internacionais.
 
-###### Artigo 13.º — Conteúdo de declaração de expedição
+Artigo 13.º
+
+Conteúdo de declaração de expedição
 
 § 1 - A declaração de expedição deverá incluir obrigatoriamente:
 
@@ -4877,7 +5156,9 @@ As disposições em vigor na estação expedidora determinarão, para a totalida
 
 § 4 - Não será permitido substituir a declaração de expedição por outros documentos ou que à mesma sejam juntos outros documentos para além dos previstos ou aceites pelas Regras uniformes, pelas disposições complementares ou pelas tarifas.
 
-###### Artigo 14.º — Itinerário e tarifas aplicáveis
+Artigo 14.º
+
+Itinerário e tarifas aplicáveis
 
 § 1 - O expedidor poderá indicar na declaração de expedição o itinerário a seguir, assinalando os pontos fronteiriços ou as estações fronteiriças e, se for caso disso, as estações de trânsito entre caminhos de ferro. Só poderá indicar os pontos fronteiriços e as estações fronteiriças abertas ao tráfego na relação considerada.
 
@@ -4909,7 +5190,9 @@ A alínea a) não se aplicará às remessas de detalhe se um dos caminhos de fer
 
 O mesmo se verificará se, na falta de indicações suficientes por parte do expedidor, o caminho de ferro tiver aplicado a junção das tarifas quando exista uma tarifa internacional mais vantajosa quanto ao preço, sendo, no entanto, idênticas todas as outras condições.
 
-###### Artigo 15.º — Pagamento das despesas
+Artigo 15.º
+
+Pagamento das despesas
 
 § 1 - As despesas (preço de transporte, despesas por operações acessórias, direitos aduaneiros e outras despesas ocorridas a partir da aceitação para transporte até à entrega) serão pagas ou pelo expedidor ou pelo destinatário, de acordo com as disposições seguintes.
 
@@ -4945,13 +5228,17 @@ As despesas por operações acessórias e outras que, de acordo com as disposiç
 
 § 8 - A estação de expedição deverá especificar na declaração de expedição e no duplicado as despesas cobradas com porte pago, salvo se as disposições em vigor na referida estação previrem que estas despesas só devem ser especificadas no duplicado. No caso previsto no § 7, estas despesas não deverão ser especificadas nem na declaração de expedição nem no duplicado.
 
-###### Artigo 16.º — Interesse na entrega
+Artigo 16.º
+
+Interesse na entrega
 
 § 1 - Qualquer remessa poderá ser objecto de uma declaração de interesse na entrega. O seu montante deverá ser indicado em algarismos na declaração de expedição e expresso em moeda do país de partida, numa outra moeda fixada pelas tarifas ou em unidade de conta.
 
 § 2 - A taxa de interesse na entrega será calculada, para todo o percurso previsto, segundo as tarifas do caminho de ferro expedidor.
 
-###### Artigo 17.º — Reembolsos e desembolsos
+Artigo 17.º
+
+Reembolsos e desembolsos
 
 § 1 - O expedidor poderá onerar a mercadoria com um reembolso até ao limite do seu valor no momento da aceitação na estação de expedição. O montante do reembolso deverá ser expresso na moeda do país de partida; as tarifas poderão prever excepções.
 
@@ -4965,11 +5252,15 @@ As despesas por operações acessórias e outras que, de acordo com as disposiç
 
 § 6 - O montante do reembolso e o dos desembolsos deverão ser mencionados em algarismos na declaração de expedição.
 
-###### Artigo 18.º — Responsabilidade pelas indicações contidas na declaração de expedição
+Artigo 18.º
+
+Responsabilidade pelas indicações contidas na declaração de expedição
 
 O expedidor será responsável pela exactidão das indicações incluídas por sua iniciativa na declaração de expedição. Responderá por todas as consequências que resultarem do facto de essas indicações serem irregulares, inexactas, incompletas ou mencionadas fora do espaço reservado para cada uma delas. Se esse espaço for insuficiente, uma referência feita pelo expedidor, no mesmo local, remeterá para o local da declaração de expedição donde conste o complemento da indicação.
 
-###### Artigo 19.º — Estado, embalagem e marcação da mercadoria
+Artigo 19.º
+
+Estado, embalagem e marcação da mercadoria
 
 § 1 - Quando o caminho de ferro aceitar para transporte uma mercadoria que apresente sinais evidentes de avaria, poderá exigir que o estado dessa mercadoria seja mencionado na declaração de expedição.
 
@@ -4993,7 +5284,9 @@ As indicações ou etiquetas desactualizadas deverão ser tornadas ilegíveis ou
 
 § 6 - Salvo excepção prevista nas disposições complementares ou nas tarifas, as mercadorias frágeis ou susceptíveis de se espalharem nos vagões, bem como as que possam sujar ou deteriorar outras mercadorias, serão transportadas unicamente em vagões completos, a menos que estejam embaladas ou acondicionadas de tal forma que não se possam partir ou perder e sujar ou deteriorar outras mercadorias.
 
-###### Artigo 20.º — Entrega para transporte e carregamento de mercadoria
+Artigo 20.º
+
+Entrega para transporte e carregamento de mercadoria
 
 § 1 - As operações de entrega da mercadoria para transporte reger-se-ão pelas disposições em vigor na estação expedidora.
 
@@ -5007,7 +5300,9 @@ Quando o carregamento caiba ao expedidor, este deverá respeitar o limite de car
 
 § 5 - A aposição de selos nos vagões reger-se-á pelas disposições em vigor na estação de expedição. O expedidor deverá mencionar na declaração de expedição a quantidade e a designação dos selos que colocar nos vagões.
 
-###### Artigo 21.º — Verificação
+Artigo 21.º
+
+Verificação
 
 § 1 - O caminho de ferro terá sempre o direito de verificar se a remessa corresponde ao mencionado pelo expedidor na declaração de expedição e se as disposições relativas ao transporte das mercadorias admitidas condicionalmente foram respeitadas.
 
@@ -5019,7 +5314,9 @@ No entanto, este só poderá proceder à verificação durante o percurso se a m
 
 Se a remessa não corresponder às indicações contidas na declaração de expedição ou as disposições relativas ao transporte de mercadorias admitidas condicionalmente não forem respeitadas, as despesas ocasionadas pela verificação onerarão a mercadoria, a não ser que tenham sido pagas imediatamente.
 
-###### Artigo 22.º — Verificação do peso e do número de volumes
+Artigo 22.º
+
+Verificação do peso e do número de volumes
 
 § 1 - As disposições em vigor em cada um dos Estados determinarão as condições em que o caminho de ferro deverá verificar o peso da mercadoria e o número de volumes, bem como a tara real dos vagões.
 
@@ -5031,7 +5328,9 @@ a) A diferença for manifestamente devida à natureza da mercadoria ou às influ
 
 b) A pesagem for efectuada em ponte-báscula e não acusar uma diferença superior a 2% do peso verificado pela estação de expedição ou, na falta deste, do declarado pelo expedidor.
 
-###### Artigo 23.º — Excesso de carga
+Artigo 23.º
+
+Excesso de carga
 
 § 1 - Quando o excesso de carga de um vagão for verificado pela estação de expedição ou por uma estação intermédia, esse excesso poderá ser retirado do vagão mesmo que isso não implique a cobrança de qualquer sobretaxa. Se for caso disso, o expedidor ou, em caso de modificação do contrato de transporte de acordo com o artigo 31.º, o destinatário será imediatamente solicitado a dar instruções em relação ao excesso de carga.
 
@@ -5039,7 +5338,9 @@ b) A pesagem for efectuada em ponte-báscula e não acusar uma diferença superi
 
 Se o interessado determinar que o excesso de carga seja enviado para a estação de destino do carregamento principal, para uma outra estação destinatária ou que seja devolvido à estação expedidora, tal excesso será considerado como uma remessa distinta.
 
-###### Artigo 24.º — Sobretaxas
+Artigo 24.º
+
+Sobretaxas
 
 § 1 - Sem prejuízo do pagamento da diferença do preço de transporte e de uma indemnização por danos eventuais, o caminho de ferro poderá receber:
 
@@ -5079,7 +5380,9 @@ e) Indicação inexacta do peso, sem que se verifique excesso de carga, sempre q
 
 f) Excesso de carga de um vagão, quando o caminho de ferro não tiver publicado nem indicado ao expedidor o limite de carga de uma forma que lhe permitisse respeitá-lo.
 
-###### Artigo 25.º — Documentos para as formalidades administrativas. Selagem pela alfândega
+Artigo 25.º
+
+Documentos para as formalidades administrativas. Selagem pela alfândega
 
 § 1 - O expedidor deverá anexar à declaração de expedição os documentos necessários ao cumprimento, antes da entrega da mercadoria, das formalidades exigidas pelas alfândegas ou por outras autoridades administrativas. Tais documentos deverão referir-se unicamente às mercadorias constantes de uma única declaração de expedição, a menos que as disposições das alfândegas, de outras autoridades administrativas ou as tarifas disponham em contrário.
 
@@ -5095,7 +5398,9 @@ O caminho de ferro será responsável, em caso de falta sua, pelas consequência
 
 § 5 - O caminho de ferro poderá recusar as remessas cujos selos, apostos pelas alfândegas ou outras autoridades administrativas, estejam danificados ou apresentem deficiências.
 
-###### Artigo 26.º — Cumprimento das formalidades administrativas
+Artigo 26.º
+
+Cumprimento das formalidades administrativas
 
 § 1 - Durante o percurso, as formalidades exigidas pelas alfândegas ou por outras autoridades administrativas serão cumpridas pelo caminho de ferro. No entanto, este poderá confiar essa tarefa a um mandatário.
 
@@ -5119,7 +5424,9 @@ Se o expedidor tiver feito na declaração de expedição uma menção de franqu
 
 O caminho de ferro poderá, no entanto, proceder de acordo com o § 4 se o destinatário não tiver levantado a declaração de expedição no prazo previsto pelas disposições em vigor na estação de destino.
 
-###### Artigo 27.º — Prazos de entrega
+Artigo 27.º
+
+Prazos de entrega
 
 § 1 - Os prazos de entrega serão fixados pelos acordos concluídos entre os caminhos de ferro que participem no transporte ou pelas tarifas internacionais aplicáveis desde a estação de expedição até à estação de destino. Para determinados tráfegos particulares e em certas relações, tais prazos poderão igualmente ser estabelecidos com base nos planos de transporte aplicáveis entre os caminhos de ferro interessados; neste caso, deverão ser reproduzidos em tarifas internacionais ou convenções especiais que eventualmente prevejam as derrogações dos §§ 3 a 9 abaixo mencionados.
 
@@ -5225,7 +5532,9 @@ b) A mercadoria for mantida à disposição do destinatário, quando se trate de
 
 c) A mercadoria for posta à disposição do destinatário, quando se trate de remessas a entregar fora das estações.
 
-###### Artigo 28.º — Entrega
+Artigo 28.º
+
+Entrega
 
 § 1 - O caminho de ferro deverá entregar a declaração de expedição e a mercadoria ao destinatário na estação de destino, contra pagamento e quitação dos créditos do caminho de ferro a cargo do destinatário.
 
@@ -5249,7 +5558,9 @@ Se se verificar a perda da mercadoria ou se a mercadoria não tiver chegado dent
 
 § 6 - Quanto ao mais, a entrega da mercadoria será efectuada de acordo com as disposições em vigor na estação de destino.
 
-###### Artigo 29.º — Rectificação das cobranças
+Artigo 29.º
+
+Rectificação das cobranças
 
 § 1 - No caso de aplicação irregular de uma tarifa ou de erro de cálculo ou na cobrança das despesas, o excesso recebido só será restituído pelo caminho de ferro ou as importâncias cobradas a menos só lhe serão pagas no caso de a diferença exceder 4 unidades de conta por declaração de expedição.
 
@@ -5261,9 +5572,13 @@ A restituição será feita oficiosamente.
 
 Se o interessado não enviar ao caminho de ferro, dentro do prazo conveniente que lhe for fixado, os documentos justificativos necessários para a liquidação definitiva da reclamação, não se vencerão juros entre o termo do prazo fixado e a entrega efectiva dos documentos.
 
-## TÍTULO III — Alteração do contrato de transporte
+TÍTULO III
 
-###### Artigo 30.º — Alteração efectuada pelo expedidor
+Alteração do contrato de transporte
+
+Artigo 30.º
+
+Alteração efectuada pelo expedidor
 
 §1 - O expedidor poderá, por ordens posteriores, alterar o contrato de transporte determinando:
 
@@ -5313,7 +5628,9 @@ d) Estiver autorizado, de acordo com o artigo 31.º, a dar ordens a partir do mo
 
 A partir desse momento, o caminho de ferro deverá conformar-se com as ordens e instruções do destinatário.
 
-###### Artigo 31.º — Alteração efectuada pelo destinatário
+Artigo 31.º
+
+Alteração efectuada pelo destinatário
 
 § 1 - Sempre que o expedidor não tiver tomado a seu cargo as despesas referentes ao transporte no país de destino nem incluído na declaração de expedição a indicação «Destinatário não autorizado a dar ordens posteriores», o destinatário poderá, por ordens posteriores, modificar o contrato de transporte, determinando:
 
@@ -5349,7 +5666,9 @@ d) Tiver designado, de acordo com o § 1, alínea c), uma pessoa e esta tiver le
 
 § 4 - Se o destinatário determinar que a mercadoria seja entregue a uma outra pessoa esta não está autorizada a alterar o contrato de transporte.
 
-###### Artigo 32.º — Execução de ordens posteriores
+Artigo 32.º
+
+Execução de ordens posteriores
 
 § 1 - O caminho de ferro não poderá recusar-se a executar as ordens dadas de acordo com os artigos 30.º e 31.º nem retardar a sua execução, a não ser que:
 
@@ -5369,7 +5688,9 @@ Se o caminho de ferro não estiver em condições de prever esses impedimentos, 
 
 § 3 - Sem prejuízo do disposto no § 1, em caso de falta do caminho de ferro, este será responsável pelas consequências da não execução de uma ordem ou da sua defeituosa execução. Todavia, a eventual indemnização não deverá nunca exceder a prevista para o caso de perda da mercadoria.
 
-###### Artigo 33.º — Impedimento ao transporte
+Artigo 33.º
+
+Impedimento ao transporte
 
 § 1 - Em caso de impedimento ao transporte, o caminho de ferro decidirá se será preferível transportar a mercadoria por sua iniciativa, modificando o itinerário, ou se convirá, no interesse do expedidor, pedir-lhe instruções, fornecendo-lhe as informações úteis de que o caminho de ferro disponha.
 
@@ -5397,7 +5718,9 @@ Se a mercadoria for vendida, o produto da venda, deduzidas as despesas que sobre
 
 § 10 - O artigo 32.º será aplicável aos transportes efectuados de acordo com o artigo 33.º
 
-###### Artigo 34.º — Impedimento à entrega
+Artigo 34.º
+
+Impedimento à entrega
 
 § 1 - No caso de impedimento à entrega da mercadoria, a estação de destino deverá sem demora prevenir disso o expedidor, por intermédio da estação expedidora, para lhe pedir instruções. O expedidor deverá ser avisado directamente, por escrito, telegraficamente ou por telex, quando o tiver solicitado na declaração de expedição; as despesas desse aviso onerarão a mercadoria.
 
@@ -5417,15 +5740,21 @@ Se a mercadoria for vendida, o produto da venda, deduzidas as despesas que onere
 
 § 8 - O artigo 32.º será aplicável aos transportes efectuados de acordo com o artigo 34.º
 
-## TÍTULO IV — Responsabilidade
+TÍTULO IV
 
-###### Artigo 35.º — Responsabilidade colectiva dos caminhos de ferro
+Responsabilidade
+
+Artigo 35.º
+
+Responsabilidade colectiva dos caminhos de ferro
 
 § 1 - O caminho de ferro que tiver aceite a mercadoria para transporte com a declaração de expedição será responsável pela execução do transporte na totalidade do percurso até à entrega.
 
 § 2 - Cada caminho de ferro subsequente, pelo simples facto de aceitação da mercadoria com a declaração de expedição, participará no contrato de transporte, de acordo com o estipulado nesse documento, e assumirá as obrigações que daí resultem, sem prejuízo do disposto no artigo 55.º, § 3, em relação ao caminho de ferro de destino.
 
-###### Artigo 36.º — Âmbito da responsabilidade
+Artigo 36.º
+
+Âmbito da responsabilidade
 
 § 1 - O caminho de ferro será responsável pelos prejuízos resultantes da perda total ou parcial e da avaria da mercadoria ocorridas a partir da sua aceitação para transporte até à sua entrega, bem como pelo prejuízo resultante do não cumprimento do prazo de entrega.
 
@@ -5451,7 +5780,9 @@ h) Transporte de animais vivos;
 
 i) Transporte que, nos termos das disposições aplicáveis ou de convenções entre o expedidor e o caminho de ferro mencionadas na declaração de expedição, deva ser efectuado sob escolta, se a perda ou a avaria resultar de um risco que a escolta tinha por finalidade evitar.
 
-###### Artigo 37.º — Ónus da prova
+Artigo 37.º
+
+Ónus da prova
 
 § 1 - A prova de que a perda, a avaria ou o não cumprimento do prazo de entrega foram ocasionados por um dos factos previstos no artigo 36.º, § 2, caberá ao caminho de ferro.
 
@@ -5459,13 +5790,17 @@ i) Transporte que, nos termos das disposições aplicáveis ou de convenções e
 
 Essa presunção não se aplica ao caso previsto no artigo 36.º, § 3, alínea a), em caso de perda de uma importância anormal ou de perda de volumes.
 
-###### Artigo 38.º — Presunção em caso de reexpedição
+Artigo 38.º
+
+Presunção em caso de reexpedição
 
 § 1 - Quando uma remessa expedida de acordo com as Regras uniformes tiver sido objecto de uma reexpedição sujeita às mesmas Regras e se se verificar uma perda parcial ou uma avaria após essa reexpedição, presumir-se-á que ela ocorreu na vigência do último contrato de transporte, se a remessa tiver ficado à guarda do caminho de ferro e tiver sido reexpedida tal qual chegara à estação de reexpedição.
 
 § 2 - Esta presunção será igualmente aplicável quando o contrato de transporte anterior à reexpedição não estava sujeito às Regras uniformes, se estas teriam sido aplicáveis em caso de expedição directa entre a primeira estação expedidora e a última estação de destino.
 
-###### Artigo 39.º — Presunção de perde de mercadoria
+Artigo 39.º
+
+Presunção de perde de mercadoria
 
 § 1 - O interessado poderá, sem ter de fornecer outras provas, considerar a mercadoria como perdida quando não tiver sido entregue ao destinatário ou posta à sua disposição nos 30 dias seguintes ao termo dos prazos de entrega.
 
@@ -5475,7 +5810,9 @@ Essa presunção não se aplica ao caso previsto no artigo 36.º, § 3, alínea 
 
 § 4 - Na falta quer do pedido previsto no § 2 quer das instruções dadas dentro do prazo previsto no § 3 ou ainda se a mercadoria for encontrada depois de um ano após o pagamento da indemnização, o caminho de ferro poderá dispor dela em conformidade com as leis e regulamentos do Estado de que dependa.
 
-###### Artigo 40.º — Indemnização em caso de perda
+Artigo 40.º
+
+Indemnização em caso de perda
 
 § 1 - No caso de perda total ou parcial da mercadoria, o caminho de ferro deverá pagar, com exclusão de quaisquer outras perdas e danos, uma indemnização calculada de acordo com a cotação da bolsa, na falta desta, com base no preço corrente do mercado, e, na falta de ambos, de acordo com o valor usual das mercadorias de igual natureza e qualidade, no dia e no local em que a mercadoria tiver sido aceite para transporte.
 
@@ -5485,7 +5822,9 @@ Essa presunção não se aplica ao caso previsto no artigo 36.º, § 3, alínea 
 
 § 4 - Quando o cálculo da indemnização implicar a conversão de quantias expressas em unidades monetárias estrangeiras, esta será feita com base no câmbio do dia e do lugar do pagamento da indemnização.
 
-###### Artigo 41.º — Responsabilidade em caso de quebra de peso durante o percurso
+Artigo 41.º
+
+Responsabilidade em caso de quebra de peso durante o percurso
 
 § 1 - No que respeita às mercadorias que, pela sua natureza, sofram geralmente uma quebra de peso durante o percurso pelo simples facto do transporte, o caminho de ferro só responderá pela parte da quebra de peso que exceda, seja qual for o percurso efectuado, as seguintes tolerâncias:
 
@@ -5555,7 +5894,9 @@ b) 1% do peso para todas as outras mercadorias secas.
 
 § 5 - Este artigo não derroga os artigos 36.º e 37.º
 
-###### Artigo 42.º — Indemnização em caso de avaria
+Artigo 42.º
+
+Indemnização em caso de avaria
 
 § 1 - Em caso de avaria da mercadoria, o caminho de ferro deverá pagar, com exclusão de quaisquer outras perdas e danos, uma indemnização equivalente à desvalorização da mercadoria. O respectivo montante será calculado aplicando-se ao valor da mercadoria, definido de acordo com o artigo 40.º, a percentagem de desvalorização verificada no local de destino.
 
@@ -5567,7 +5908,9 @@ b) Se apenas uma parte da remessa for desvalorizada pela avaria, o montante que 
 
 § 3 - O caminho de ferro deverá, além disso, devolver, na proporção determinada no § 1, as despesas previstas no artigo 40.º, § 3.
 
-###### Artigo 43.º — Indemnização em caso de ser ultrapassado o prazo de entrega
+Artigo 43.º
+
+Indemnização em caso de ser ultrapassado o prazo de entrega
 
 § 1 - Se qualquer prejuízo, incluindo avaria, resultar do não cumprimento do prazo de entrega, o caminho de ferro deverá pagar uma indemnização que não poderá exceder o triplo do preço do transporte.
 
@@ -5583,23 +5926,31 @@ b) Se apenas uma parte da remessa for desvalorizada pela avaria, o montante que 
 
 Se, nesse caso, os prazos de entrega previstos no artigo 27.º, § 2, forem ultrapassados, o interessado poderá pedir quer a indemnização prevista no § 1 deste artigo quer a fixada pela tarifa internacional ou pela convenção especial aplicada.
 
-###### Artigo 44.º — Indemnização em caso de dolo ou falta grave
+Artigo 44.º
+
+Indemnização em caso de dolo ou falta grave
 
 Quando a perda, a avaria ou o não cumprimento do prazo de entrega, ou ainda a inexecução ou a execução defeituosa de prestações acessórias do caminho de ferro previstas pelas Regras uniformes tiverem por causa dolo ou culpa grave imputável ao caminho de ferro, este deverá indemnizar integralmente o interessado pelos prejuízos que forem provados.
 
 Em caso de culpa grave, a indemnização limitar-se-á, todavia, ao dobro dos máximos previstos nos artigos 25.º, 26.º, 30.º, 32.º, 33.º, 40.º, 42.º, 45.º e 46.º
 
-###### Artigo 45.º — Limitação da indemnização por determinadas tarifas
+Artigo 45.º
+
+Limitação da indemnização por determinadas tarifas
 
 Sempre que o caminho de ferro conceder condições especiais de transporte com tarifas especiais ou excepcionais que impliquem uma redução do preço de transporte calculado de acordo com as tarifas gerais, poderá limitar a indemnização devida ao interessado em caso de perda, avaria ou não cumprimento do prazo de entrega, na medida em que uma tal limitação esteja mencionada na tarifa.
 
 Quando essas condições especiais de transporte se apliquem somente a uma parte do percurso, aquela limitação não poderá ser invocada senão quando o facto que estiver na origem da indemnização tiver ocorrido nessa parte do percurso.
 
-###### Artigo 46.º — Indemnização no caso de interesse na entrega
+Artigo 46.º
+
+Indemnização no caso de interesse na entrega
 
 No caso de declaração de interesse na entrega, para além das indemnizações previstas nos artigos 40.º, 42.º, 43.º e 45.º, poderá ser pedida a reparação do prejuízo suplementar provado até ao limite do montante declarado.
 
-###### Artigo 47.º — Juros da indemnização
+Artigo 47.º
+
+Juros da indemnização
 
 § 1 - O interessado poderá pedir juros da indemnização, calculados à taxa de 5% ao ano, a partir do dia da reclamação prevista no artigo 53.º ou, se não tiver havido reclamação, a partir do dia em que a acção tenha sido posta em juízo.
 
@@ -5607,7 +5958,9 @@ No caso de declaração de interesse na entrega, para além das indemnizações 
 
 § 3 - Se o interessado não remeter ao caminho de ferro, dentro de um prazo conveniente que lhe seja fixado, os documentos justificativos necessários para a liquidação definitiva da reclamação, não se vencerão juros entre o termo do prazo fixado e a entrega efectiva dos documentos.
 
-###### Artigo 48.º — Responsabilidade no tráfego ferroviário-marítimo
+Artigo 48.º
+
+Responsabilidade no tráfego ferroviário-marítimo
 
 § 1 - Nos transportes por caminho de ferro-mar que utilizem as linhas mencionadas no artigo 2.º, § 2, da Convenção, cada Estado poderá, ao solicitar que a menção útil seja incluída na lista das linhas sujeitas às Regras uniformes, acrescentar o conjunto das causas de exclusão abaixo mencionadas às previstas no artigo 36.º
 
@@ -5639,25 +5992,35 @@ Além disso, quando essas empresas tiverem sido inscritas na lista a pedido de v
 
 As remessas em trânsito não serão afectadas pelas referidas medidas.
 
-###### Artigo 49.º — Responsabilidade em caso de acidente nuclear
+Artigo 49.º
+
+Responsabilidade em caso de acidente nuclear
 
 O caminho de ferro ficará isento da responsabilidade que lhe caiba nos termos das Regras uniformes quando o dano for causado por um acidente nuclear e quando, de acordo com as leis e regulamentos de um Estado sobre a responsabilidade no domínio da energia nuclear, seja a entidade exploradora de uma instalação nuclear ou qualquer outra pessoa que a substitua a responsável por esse dano.
 
-###### Artigo 50.º — Responsabilidade do caminho de ferro pelos seus agentes
+Artigo 50.º
+
+Responsabilidade do caminho de ferro pelos seus agentes
 
 O caminho de ferro será responsável pelos seus agentes e por outras pessoas que empregue na execução do transporte.
 
 Todavia, se, a pedido de um interessado, esses agentes e outras pessoas preencherem declarações de expedição, fizerem traduções ou prestarem outros serviços que não caibam ao caminho de ferro, serão considerados como agindo por conta da pessoa a quem prestem esses serviços.
 
-###### Artigo 51.º — Outras acções
+Artigo 51.º
+
+Outras acções
 
 Em todos os casos em que se apliquem as Regras uniformes, qualquer acção de responsabilidade, seja a que título for, só poderá ser intentada contra o caminho de ferro dentro das condições e limites daquelas Regras.
 
 O mesmo acontecerá com qualquer acção movida contra os agentes e outras pessoas por quem o caminho de ferro responda nos termos do artigo 50.º
 
-## TÍTULO V — Exercício de direitos
+TÍTULO V
 
-###### Artigo 52.º — Verificação de perda parcial ou de avaria
+Exercício de direitos
+
+Artigo 52.º
+
+Verificação de perda parcial ou de avaria
 
 § 1 - Quando uma perda parcial ou uma avaria for descoberta ou presumida pelo caminho de ferro ou o interessado alegar a sua existência, o caminho de ferro deverá redigir sem demora e, se possível, na presença do interessado um auto que certifique, de acordo com a natureza do dano, o estado da mercadoria, o seu peso e, tanto quanto possível, a importância do dano, a sua causa e o momento em que o mesmo tenha ocorrido.
 
@@ -5665,7 +6028,9 @@ Uma cópia desse auto deverá ser remetida gratuitamente ao interessado.
 
 § 2 - Quando o interessado não aceitar as verificações do auto, poderá solicitar que o estado e o peso da mercadoria, bem como a causa e o montante do prejuízo, sejam verificados por um perito, nomeado pelas partes ou por via judicial. O processo ficará sujeito às leis e regulamentos do Estado em que a verificação tenha lugar.
 
-###### Artigo 53.º — Reclamações
+Artigo 53.º
+
+Reclamações
 
 § 1 - As reclamações relativas ao contrato de transporte deverão ser dirigidas por escrito ao caminho de ferro designado no artigo 55.º
 
@@ -5679,7 +6044,9 @@ Para apresentar a reclamação, o destinatário deverá exibir a declaração de
 
 Na altura da regularização da reclamação, o caminho de ferro poderá exigir que seja apresentado o original da declaração de expedição, do duplicado ou do boletim de reembolso, a fim de neles anotar que a regularização se verificou.
 
-###### Artigo 54.º — Pessoas que podem accionar o caminho de ferro
+Artigo 54.º
+
+Pessoas que podem accionar o caminho de ferro
 
 § 1 - A acção judicial para a restituição de uma importância paga em virtude do contrato de transporte apenas poderá ser intentada por quem haja efectuado o pagamento.
 
@@ -5709,7 +6076,9 @@ b) Pelo destinatário, a partir do momento em que ele tenha:
 
 Para intentar as acções, o destinatário deverá apresentar a declaração de expedição, se esta lhe tiver sido enviada.
 
-###### Artigo 55.º — Caminhos de ferro que podem ser accionados
+Artigo 55.º
+
+Caminhos de ferro que podem ser accionados
 
 § 1 - A acção judicial para restituição de uma importância paga em virtude de contrato de transporte poderá ser intentada contra o caminho de ferro que tiver cobrado essa importância ou contra aquele em proveito do qual ela tenha sido cobrada.
 
@@ -5723,13 +6092,17 @@ O caminho de ferro de destino poderá ser accionado mesmo que não tenha recebid
 
 § 5 - A acção judicial poderá ser intentada contra um caminho de ferro diferente dos previstos nos §§ 1, 2 e 3 quando a mesma seja apresentada como pedido reconvencional ou como excepção na instância relativa a um pedido principal baseado no mesmo contrato de transporte.
 
-###### Artigo 56.º — Competência
+Artigo 56.º
+
+Competência
 
 As acções judiciais baseadas nas Regras uniformes só poderão ser intentadas perante a jurisdição competente do Estado do qual dependa o caminho de ferro accionado, a menos que haja sido decidido de outro modo nos acordos entre os Estados ou nos actos de concessão.
 
 Quando um caminho de ferro explore redes autónomas em diversos Estados, cada uma dessas redes será considerada como um caminho de ferro distinto para fins de aplicação deste artigo.
 
-###### Artigo 57.º — Extinção de acção contra o caminho de ferro
+Artigo 57.º
+
+Extinção de acção contra o caminho de ferro
 
 § 1 - A aceitação da mercadoria pelo interessado extingue toda e qualquer acção contra o caminho de ferro, com origem no contrato de transporte, em caso de perda parcial, de avaria ou de não cumprimento do prazo de entrega.
 
@@ -5753,7 +6126,9 @@ d) Se o interessado provar que o dano foi causado por dolo ou culpa grave imput�
 
 § 3 - Se a mercadoria tiver sido reexpedida de acordo com o artigo 38.º, § 1, as acções em caso de perda parcial ou de avaria com origem num dos contratos de transporte anteriores extinguir-se-ão como se de um único contrato se tratasse.
 
-###### Artigo 58.º — Prescrição da acção
+Artigo 58.º
+
+Prescrição da acção
 
 § 1 - A acção com origem no contrato de transporte prescreverá ao fim de um ano.
 
@@ -5803,9 +6178,13 @@ As reclamações posteriores que tenham o mesmo objecto não suspenderão o praz
 
 § 5 - Sem prejuízo das disposições anteriores, a suspensão e a interrupção do prazo de prescrição serão reguladas pelo direito nacional.
 
-## TÍTULO VI — Relações dos caminhos de ferro entre si
+TÍTULO VI
 
-###### Artigo 59.º — Regularização de contas entre caminhos de ferro
+Relações dos caminhos de ferro entre si
+
+Artigo 59.º
+
+Regularização de contas entre caminhos de ferro
 
 § 1 - Qualquer caminho de ferro que tiver cobrado, quer à partida quer à chegada, as despesas ou outros créditos derivados do contrato de transporte deverá pagar aos caminhos de ferro interessados a parte que lhes couber.
 
@@ -5819,7 +6198,9 @@ As modalidades de pagamento serão fixadas por acordos entre os caminhos de ferr
 
 Fica ressalvado o direito de regresso contra o caminho de ferro cuja falta de pagamento tiver sido verificada.
 
-###### Artigo 60.º — Direito de regresso em caso de perda ou avaria
+Artigo 60.º
+
+Direito de regresso em caso de perda ou avaria
 
 § 1 - O caminho de ferro que tenha pago uma indemnização por perda total ou parcial ou por avaria, nos termos das Regras uniformes, terá direito de regresso contra os caminhos de forro que tenham participado no transporte, de acordo com as seguintes disposições:
 
@@ -5831,7 +6212,9 @@ c) Se não for possível provar que o dano foi causado por um ou mais caminhos d
 
 § 2 - No caso de falência de um dos caminhos de ferro, a parte que lhe caiba e que não tenha por ele sido paga será repartida entre todos os outros caminhos de ferro que tenham participado no transporte proporcionalmente às distâncias quilométricas de aplicação das tarifas.
 
-###### Artigo 61.º — Direito de regresso em caso de não cumprimento do prazo de entrega
+Artigo 61.º
+
+Direito de regresso em caso de não cumprimento do prazo de entrega
 
 § 1 - O artigo 60.º será aplicável em caso de indemnização paga por não cumprimento do prazo de entrega. Se este for da responsabilidade de vários caminhos de ferro, a indemnização será repartida entre esses caminhos de ferro proporcionalmente à duração do atraso sofrido nas respectivas linhas.
 
@@ -5859,7 +6242,9 @@ b) Quando três ou mais caminhos de ferro participarem no transporte:
 
 § 5 - A repartição acima referida só será tomada em consideração quando o prazo de entrega não tiver sido respeitado.
 
-###### Artigo 62.º — Acção de regresso
+Artigo 62.º
+
+Acção de regresso
 
 § 1 - A regularidade do pagamento efectuado pelo caminho de ferro que intente uma das acções de regresso previstas nos artigos 60.º e 61.º não poderá ser contestada pelo caminho de ferro contra o qual a acção seja interposta quando a indemnização tiver sido fixada judicialmente e este último caminho de ferro, devidamente citado, tiver sido chamado a intervir no processo. O juiz da acção principal fixará os prazos concedidos para a citação e para a intervenção.
 
@@ -5871,19 +6256,27 @@ b) Quando três ou mais caminhos de ferro participarem no transporte:
 
 § 5 - Não poderão ser intentadas acções de regresso na instância relativa ao pedido de indemnização apresentado pelo interessado no contrato de transporte.
 
-###### Artigo 63.º — Competência para as acções de regresso
+Artigo 63.º
+
+Competência para as acções de regresso
 
 § 1 - A jurisdição da sede do caminho de ferro contra o qual a acção de regresso seja intentada tem competência exclusiva para todas as acções de regresso.
 
 § 2 - Quando a acção deva ser intentada contra vários caminhos de ferro, o caminho de ferro que a intentar terá o direito de escolher entre as jurisdições competentes nos termos do § 1 aquela perante a qual formulará o seu pedido.
 
-###### Artigo 64.º — Acordos relativos às acções de regresso
+Artigo 64.º
+
+Acordos relativos às acções de regresso
 
 Os caminhos de ferro poderão, por meio de acordos, derrogar as disposições deste título relativas a acções de regresso recíprocas, com excepção da do artigo 62.º § 5.
 
-## TÍTULO VII — Disposições de excepção
+TÍTULO VII
 
-###### Artigo 65.º — Derrogações temporárias
+Disposições de excepção
+
+Artigo 65.º
+
+Derrogações temporárias
 
 § 1 - Se a situação económica e financeira de um Estado for de molde a provocar graves dificuldades na aplicação do título VI, cada um dos Estados poderá derrogar os artigos 15.º, 17.º e 30.º, decidindo, para certos tráfegos, que:
 
@@ -5917,29 +6310,39 @@ As medidas enumeradas no § 2 não entrarão em vigor antes do termo do prazo de
 
 § 4 - As remessas em trânsito não serão afectadas por essas medidas.
 
-###### Artigo 66.º — Derrogações
+Artigo 66.º
+
+Derrogações
 
 As disposições das Regras uniformes não poderão prevalecer contra as que certos Estados sejam levados a tomar, no tráfego entre eles, em cumprimento de determinados Tratados, tais como os Tratados relativos à Comunidade Europeia do Carvão e do Aço e à Comunidade Económica Europeia.
 
-## ANEXO I — (Artigos 4.º e 5.º)
+ANEXO I
+
+(Artigos 4.º e 5.º)
 
 Regulamento Relativo ao Transporte Internacional Ferroviário de Mercadorias Perigosos (RID)
 
 Este Anexo receberá a versão que a Comissão de Peritos adoptar, de acordo com o artigo 69.º, § 4, da Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro (CIM), de 7 de Fevereiro de 1970, para o Regulamento Internacional Relativo ao Transporte de Mercadorias Perigosas por Caminho de Ferro (RID), Anexo I à CIM. A Comissão de Peritos adaptará igualmente o texto, quanto à redacção, ao da Convenção Relativa aos Transportes Internacionais Ferroviários, de 9 de Maio de 1980.
 
-## ANEXO II — (Artigo 8.º, § 1)
+ANEXO II
+
+(Artigo 8.º, § 1)
 
 Regulamento Relativo ao Transporte Internacional Ferroviário de Vagões Particulares (RIP)
 
 Este Anexo receberá a versão que a Comissão de Peritos tiver adoptado, de acordo com o artigo 69.º, § 4, da Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro (CIM), de 7 de Fevereiro de 1970, para o Regulamento Internacional Relativo ao Transporte de Vagões Particulares (RIP), Anexo IV à CIM. A Comissão de Peritos adaptará igualmente o texto, quanto à redacção, ao da Convenção Relativa aos Transportes Internacionais Ferroviários, de 9 de Maio de 1980.
 
-## ANEXO III — (Artigo 8.º, § 2)
+ANEXO III
+
+(Artigo 8.º, § 2)
 
 Regulamento Relativo ao Transporte Internacional Ferroviário de Contentores (RICo)
 
 Este Anexo receberá a versão que a Comissão de Peritos tiver adoptado, de acordo com o artigo 69.º, § 4, da Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro (CIM), de 7 de Fevereiro de 1970, para o Regulamento Internacional Relativo ao Transporte de Contentores (RICo), Anexo V à CIM. A Comissão de Peritos adaptará igualmente o texto, quanto à redacção, ao da Convenção Relativa aos Transportes Internacionais Ferroviários, de 9 de Maio de 1980.
 
-## ANEXO IV — (Artigo 8.º, § 3)
+ANEXO IV
+
+(Artigo 8.º, § 3)
 
 Regulamento Relativo ao Transporte Internacional Ferroviário de Volumes Expresso (RIEx)
 

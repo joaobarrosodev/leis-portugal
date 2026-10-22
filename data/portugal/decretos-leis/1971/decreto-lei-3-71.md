@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1971-300196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e70abbc3be24534109dc03aac846cb024f0f4bb773b3ff84bc6afea56174ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09de406cfa8856db661d8708a73ce7e66c71295a4e81022e1840837aa737b3ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Gratificação
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+- Pessoal Docente
+- Quadro de Pessoal
+- Remuneração
+- Universidade de Lourenço Marques
+- Universidade de Luanda
+relationships:
+- type: cites
+  target: pt:dre:253057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:19Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +103,9 @@ de 7 de Janeiro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os quadros e remunerações do pessoal de cada uma das Universidades de Luanda e de Lourenço Marques são os constantes do mapa anexo ao presente decreto-lei.
+Artigo 1.º Os quadros e remunerações do pessoal de cada uma das Universidades de Luanda e de Lourenço Marques são os constantes do mapa anexo ao presente decreto-lei.
 
-###### Art. 2.º - 1. Têm direito a gratificações os professores que exercerem as funções seguintes:
+Art. 2.º - 1. Têm direito a gratificações os professores que exercerem as funções seguintes:
 
 a) Reitor ou vice-reitor da Universidade, director de curso universitário;
 
@@ -98,7 +115,7 @@ c) Director de laboratório, instituto, museu ou observatório universitários c
 
 2. As gratificações a que se refere este artigo serão fixadas por despacho conjunto dos Ministros do Ultramar e da Educação Nacional.
 
-###### Art. 3.º A afectação dos lugares de professor catedrático e extraordinário a disciplinas ou grupos de disciplinas afins será feita por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, sob proposta dos senados universitários e de harmonia com as normas seguintes:
+Art. 3.º A afectação dos lugares de professor catedrático e extraordinário a disciplinas ou grupos de disciplinas afins será feita por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, sob proposta dos senados universitários e de harmonia com as normas seguintes:
 
 a) Os lugares de professor catedrático corresponderão a uma disciplina ou a um grupo de disciplinas afins;
 
@@ -110,11 +127,11 @@ d) Poderão ser afectados um ou mais lugares de professor extraordinário a uma 
 
 e) Para efeitos do disposto na alínea anterior, e sem prejuízo dos desdobramentos de regência assegurados por um mesmo elemento do pessoal docente, adoptar-se-á como critério geral o de se afectar um lugar de professor extraordinário a cada grupo de duzentos alunos, para além de um primeiro grupo de igual número cuja responsabilidade incumbirá a um professor catedrático ou extraordinário.
 
-###### Art. 4.º Os lugares de chefe de secção serão providos pelo Ministro do Ultramar, ouvido o respectivo reitor, de entre diplomados com um curso superior adequado ou ainda de entre primeiros-oficiais do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, e dos Serviços de Fazenda e Contabilidade da província, com, pelo menos, dois anos de exercício na categoria e com informação de Muito bom.
+Art. 4.º Os lugares de chefe de secção serão providos pelo Ministro do Ultramar, ouvido o respectivo reitor, de entre diplomados com um curso superior adequado ou ainda de entre primeiros-oficiais do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, e dos Serviços de Fazenda e Contabilidade da província, com, pelo menos, dois anos de exercício na categoria e com informação de Muito bom.
 
-###### Art. 5.º É aplicável ao provimento dos lugares não colocados acima do grupo R no quadro anexo ao presente diploma a doutrina do artigo 13.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 5.º É aplicável ao provimento dos lugares não colocados acima do grupo R no quadro anexo ao presente diploma a doutrina do artigo 13.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
-###### Art. 6.º - 1. Poderá o Ministro do Ultramar preencher em primeiro provimento, independentemente de concurso e de limite de idade, lugares de pessoal administrativo criados pelo presente diploma com funcionários de categoria imediatamente interior, do respectivo quadro ou além do quadro, desde que tenham boa informação e as habilitações literárias exigidas para aquele provimento.
+Art. 6.º - 1. Poderá o Ministro do Ultramar preencher em primeiro provimento, independentemente de concurso e de limite de idade, lugares de pessoal administrativo criados pelo presente diploma com funcionários de categoria imediatamente interior, do respectivo quadro ou além do quadro, desde que tenham boa informação e as habilitações literárias exigidas para aquele provimento.
 
 2. Poderá também o Ministro do Ultramar preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo com funcionários de categoria imediatamente inferior requisitados há mais de cinco anos a outros serviços, desde que tenham boa informação.
 
@@ -122,11 +139,11 @@ e) Para efeitos do disposto na alínea anterior, e sem prejuízo dos desdobramen
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e de Moçambique. - J. da Silva Cunha.
 
@@ -134,6 +151,6 @@ Para ser presente à Assembleia Nacional.
 
 Quadro a que se refere o artigo 1.º do Decreto-Lei n.º 3/71
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/01/00500/00110013.pdf))](https://files.diariodarepublica.pt/1s/1971/01/00500/00110013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/01/00500/00110013.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.

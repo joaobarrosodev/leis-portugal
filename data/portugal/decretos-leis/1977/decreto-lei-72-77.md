@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04700/02980300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1977-141654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bac0efd3111dd03fa34586ddce00441789086a216bff292f06bdc6193dae871
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ede0cbf16e3a86f0d6877e9dc78d4a7eeb8c7fe233b473cda47590e1441b35f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Bolsa de Valores
+- Corretor
+- Obrigações
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: Revogado pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991, a partir da data de sua entrada em
+    vigor, e sem prejuízo dos regimes transitórios nele previstos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:46Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +111,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Poderá a comissão directiva suspender a cotação das acções de quaisquer sociedades nacionais actualmente admitidas à cotação numa bolsa de valores, quando as respectivas sociedades se encontrem em situação que desaconselhe temporariamente a transacção em bolsa das respectivas acções.
+Artigo 1.º - 1. Poderá a comissão directiva suspender a cotação das acções de quaisquer sociedades nacionais actualmente admitidas à cotação numa bolsa de valores, quando as respectivas sociedades se encontrem em situação que desaconselhe temporariamente a transacção em bolsa das respectivas acções.
 
 2. Consideram-se nomeadamente abrangidas pelo número anterior as sociedades que:
 
@@ -108,15 +123,15 @@ c) Não tenham em funcionamento regular todos os órgãos sociais.
 
 3. A comissão directiva fará cessar a suspensão quando considerar afastadas as razões que hajam determinado a mesma.
 
-###### Art. 2.º - 1. Fica suspensa a cotação das acções e obrigações de sociedades estrangeiras admitidas à cotação nas bolsas de valores.
+Art. 2.º - 1. Fica suspensa a cotação das acções e obrigações de sociedades estrangeiras admitidas à cotação nas bolsas de valores.
 
 2. A comissão directiva analisará a situação de cada um dos valores abrangidos pelo número anterior, podendo excluí-los da cotação, quando existir fundamento legal para o efeito, ou fazer cessar a suspensão, quando se verificar a possibilidade de realização normal de operações no País sobre as mesmas.
 
-###### Art. 3.º O prazo fixado no artigo 138.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, é prorrogado até 31 de Dezembro de 1977.
+Art. 3.º O prazo fixado no artigo 138.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, é prorrogado até 31 de Dezembro de 1977.
 
-###### Art. 4.º Os artigos 7.º, 45.º, 46.º, 52.º, 54.º, 60.º e 80.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 7.º, 45.º, 46.º, 52.º, 54.º, 60.º e 80.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1. O Conselho Consultivo do Mercado Financeiro é presidido pelo Ministro das Finanças, terá como vice-presidente o Secretário de Estado do Tesouro e a seguinte composição:
+Art. 7.º - 1. O Conselho Consultivo do Mercado Financeiro é presidido pelo Ministro das Finanças, terá como vice-presidente o Secretário de Estado do Tesouro e a seguinte composição:
 
 a) ...
 
@@ -140,7 +155,7 @@ h) Dois representantes das empresas com valores cotados em bolsa, designados anu
 
 ...
 
-###### Art. 45.º Serão definitivamente excluídos da cotação:
+Art. 45.º Serão definitivamente excluídos da cotação:
 
 a) ...
 
@@ -154,7 +169,7 @@ e) Os títulos cuja cotação haja sido suspensa, nos termos do n.º 1 do artigo
 
 f) Os títulos em relação aos quais se verifiquem outros factos que, ouvido o Conselho Consultivo do Mercado Financeiro, o Ministro das Finanças venha a fixar mediante portaria.
 
-###### Art. 46.º - 1. Além do caso previsto no n.º 2 do artigo 44.º-A, será suspensa a cotação:
+Art. 46.º - 1. Além do caso previsto no n.º 2 do artigo 44.º-A, será suspensa a cotação:
 
 a) ...
 
@@ -172,7 +187,7 @@ f) Dos títulos em relação aos quais se verifiquem outros factos que, ouvido o
 
 ...
 
-###### Art. 52.º - 1. Sem prejuízo do disposto nos artigos 55.º e 56.º e no n.º 2 deste artigo, só podem ser objecto de contratos nas bolsas:
+Art. 52.º - 1. Sem prejuízo do disposto nos artigos 55.º e 56.º e no n.º 2 deste artigo, só podem ser objecto de contratos nas bolsas:
 
 a) ...
 
@@ -184,7 +199,7 @@ b) ...
 
 ...
 
-###### Art. 54.º - 1. Nas sessões normais da Bolsa não poderão transaccionar-se lotes de títulos superiores ao limite máximo, para o efeito estabelecido em portaria do Ministro das Finanças; e as operações sobre lotes inferiores ao limite mínimo que na mesma portaria se fixe só poderão realizar-se nos termos do artigo 58.º
+Art. 54.º - 1. Nas sessões normais da Bolsa não poderão transaccionar-se lotes de títulos superiores ao limite máximo, para o efeito estabelecido em portaria do Ministro das Finanças; e as operações sobre lotes inferiores ao limite mínimo que na mesma portaria se fixe só poderão realizar-se nos termos do artigo 58.º
 
 2. As empresas com valores cotados deverão proceder ao desdobramento dos respectivos títulos até aos limites máximos fixados pela portaria a que se refere o número antecedente, a pedido de qualquer titular, no prazo de trinta dias, a contar da apresentação do pedido.
 
@@ -192,11 +207,11 @@ b) ...
 
 ...
 
-###### Art. 60.º São operações a contado aquelas em que as obrigações recíprocas dos contratantes, incluindo a entrega dos títulos a que respeitem e o pagamento do respectivo preço, devem ser cumpridas no prazo máximo de cinco dias de Bolsa, segundo regras a fixar pela comissão directiva.
+Art. 60.º São operações a contado aquelas em que as obrigações recíprocas dos contratantes, incluindo a entrega dos títulos a que respeitem e o pagamento do respectivo preço, devem ser cumpridas no prazo máximo de cinco dias de Bolsa, segundo regras a fixar pela comissão directiva.
 
 ...
 
-###### Art. 80.º - 1. Cotação é o preço por que os valores são transaccionados.
+Art. 80.º - 1. Cotação é o preço por que os valores são transaccionados.
 
 2. A cotação é estabelecida em sistema de mercado, em termos que constarão do regulamento interno de cada Bolsa, de modo que seja transaccionada a maior quantidade possível de valores.
 
@@ -208,18 +223,18 @@ b) ...
 
 6. As variações máximas e mínimas admissíveis nas cotações serão fixadas por despacho do Ministro das Finanças, sob proposta da comissão directiva.
 
-###### Art. 5.º É aditado ao [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, o artigo 44.º-A, com a seguinte redacção:
+Art. 5.º É aditado ao [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, o artigo 44.º-A, com a seguinte redacção:
 
-###### Art. 44.º-A - 1. Quando o nível atingido pelas cotações de acções de qualquer sociedade, durante um período não inferior a seis meses, seja susceptível de afectar a negociação normal das mesmas, por não ser acessível à generalidade das pessoas que transaccionam na Bolsa, atentos os usos e costumes locais, a comissão directiva, ouvida a sociedade, poderá impor o fraccionamento dos títulos, mediante a respectiva substituição por número equivalente de outros de menor valor nominal.
+Art. 44.º-A - 1. Quando o nível atingido pelas cotações de acções de qualquer sociedade, durante um período não inferior a seis meses, seja susceptível de afectar a negociação normal das mesmas, por não ser acessível à generalidade das pessoas que transaccionam na Bolsa, atentos os usos e costumes locais, a comissão directiva, ouvida a sociedade, poderá impor o fraccionamento dos títulos, mediante a respectiva substituição por número equivalente de outros de menor valor nominal.
 
 2. A substituição terá lugar no prazo fixado pela comissão directiva, ordenando esta a suspensão da cotação se, nesse prazo, aquela não for efectuada.
 
-###### Art. 6.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 14 de Fevereiro de 1977.**
+Promulgado em 14 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

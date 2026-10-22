@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48970-1969-525985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10e69a4ce0fe08d09be60d36e2f2202dc4360abb09bd67b82f1b8adf4e807ba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e981fa63289ee15d79998d280ac976ea8381f20f5102e5ad8731c62368325a4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Definição de Competências
+- Funcionário Ultramarino
+- Gratificação
+- Junta de Energia Nuclear
+- Ministro do Ultramar
+- Nomeação
+- Orçamento
+- Pessoal Dirigente
+- Presidente do Conselho
+- Remuneração
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:531196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:216881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:531196:por
+  label: "Revogado, no tocante a Moçambique, pelo DEC LEI.308-B/75.24.06.1975.MCINT, DG.IS [143-5SUPL] de 24.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-b-1975-531196
+  date: '1975-06-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:06Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +131,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Junta de Energia Nuclear constitui um organismo nacional, exercendo as suas atribuições relativamente a todo o território português.
+Artigo 1.º A Junta de Energia Nuclear constitui um organismo nacional, exercendo as suas atribuições relativamente a todo o território português.
 
-###### Art. 2.º Para os efeitos do disposto no artigo anterior, passam a aplicar-se em todas as províncias ultramarinas, com observância, porém, das disposições especiais contidas no presente diploma:
+Art. 2.º Para os efeitos do disposto no artigo anterior, passam a aplicar-se em todas as províncias ultramarinas, com observância, porém, das disposições especiais contidas no presente diploma:
 
 a) Os artigos 14.º e seguintes do [Decreto-Lei n.º 39580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39580-1954-216881), de 29 de Março de 1954;
 
@@ -110,7 +143,7 @@ c) O [Decreto n.º 41996](https://diariodarepublica.pt/dr/detalhe/decreto/41996-
 
 d) O [Decreto-Lei n.º 48568](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48568-1968-265106), de 4 de Setembro de 1968.
 
-###### Art. 3.º - 1. Pertence à Junta de Energia Nuclear o direito de executar, em regime de exclusivo, nas províncias ultramarinas, a prospecção e o reconhecimento de jazigos de minérios radioactivos e afins.
+Art. 3.º - 1. Pertence à Junta de Energia Nuclear o direito de executar, em regime de exclusivo, nas províncias ultramarinas, a prospecção e o reconhecimento de jazigos de minérios radioactivos e afins.
 
 2. Compete-lhe, também, a exploração de todos os jazigos de minérios radioactivos e afins existentes nas províncias ultramarinas, devendo, porém, a respectiva demarcação ser feita pelos serviços provinciais de geologia e minas ou, na falta destes, pelos serviços provinciais competentes.
 
@@ -122,11 +155,11 @@ d) O [Decreto-Lei n.º 48568](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 6. Para efeitos deste diploma, serão considerados minérios afins os que vierem a ser fixados por despacho conjunto do Presidente do Conselho e do Ministro do Ultramar, sob proposta do presidente da Junta, ouvidos os serviços de geologia e minas da província interessada.
 
-###### Art. 4.º - 1. O disposto no artigo anterior não prejudica os direitos regulamentares adquiridos por terceiros à data do presente diploma.
+Art. 4.º - 1. O disposto no artigo anterior não prejudica os direitos regulamentares adquiridos por terceiros à data do presente diploma.
 
 2. Todos os direitos ressalvados por este artigo reverterão para a Junta de Energia Nuclear nos casos de renúncia, caducidade ou anulação.
 
-###### Art. 5.º - 1. A Junta de Energia Nuclear exercerá a sua competência em cada uma das províncias de Angola e Moçambique, através das duas seguintes direcções de serviços:
+Art. 5.º - 1. A Junta de Energia Nuclear exercerá a sua competência em cada uma das províncias de Angola e Moçambique, através das duas seguintes direcções de serviços:
 
 a) A Direcção Provincial dos Serviços de Prospecção e Exploração Mineira;
 
@@ -134,11 +167,11 @@ b) A Direcção Provincial do Laboratório de Física e Engenharia Nucleares.
 
 2. Os serviços nas restantes províncias serão criados oportunamente por decreto do Ministro do Ultramar, sob proposta do presidente da Junta.
 
-###### Art. 6.º Os serviços da Junta de Energia Nuclear nas diversas províncias ultramarinas dependem directamente, consoante as matérias, das direcções-gerais daquele organismo e actuam em cooperação e coordenação com os serviços provinciais que tenham atribuições correlacionadas, devendo uns e outros prestar, recìprocamente, o apoio que se mostre conveniente, designadamente nos aspectos científico, técnico e de equipamento.
+Art. 6.º Os serviços da Junta de Energia Nuclear nas diversas províncias ultramarinas dependem directamente, consoante as matérias, das direcções-gerais daquele organismo e actuam em cooperação e coordenação com os serviços provinciais que tenham atribuições correlacionadas, devendo uns e outros prestar, recìprocamente, o apoio que se mostre conveniente, designadamente nos aspectos científico, técnico e de equipamento.
 
-###### Art. 7.º Os serviços da Junta de Energia Nuclear nas províncias ultramarinas terão o pessoal que se for mostrando necessário ao exercício das suas funções, dentro das disponibilidades orçamentais respectivas.
+Art. 7.º Os serviços da Junta de Energia Nuclear nas províncias ultramarinas terão o pessoal que se for mostrando necessário ao exercício das suas funções, dentro das disponibilidades orçamentais respectivas.
 
-###### Art. 8.º - 1. Os directores e chefes de serviços da Junta nas províncias ultramarinas serão providos por portaria conjunta do Presidente do Conselho e do Ministro do Ultramar, sob proposta do presidente da Junta, em comissão de serviço, de entre o pessoal do quadro permanente da Junta, ou por contrato, nos termos do artigo 22.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001).
+Art. 8.º - 1. Os directores e chefes de serviços da Junta nas províncias ultramarinas serão providos por portaria conjunta do Presidente do Conselho e do Ministro do Ultramar, sob proposta do presidente da Junta, em comissão de serviço, de entre o pessoal do quadro permanente da Junta, ou por contrato, nos termos do artigo 22.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001).
 
 2. O cargo de director provincial dos serviços de prospecção e exploração mineira poderá ser exercido em acumulação pelo director provincial dos serviços de geologia e minas, devendo, neste caso, a acumulação ser autorizada por portaria conjunta do Presidente do Conselho e do Ministro do Ultramar, sob proposta do presidente da Junta de Energia Nuclear.
 
@@ -148,7 +181,7 @@ b) A Direcção Provincial do Laboratório de Física e Engenharia Nucleares.
 
 5. O restante pessoal dos serviços da Junta de Energia Nuclear nas províncias ultramarinas será contratado ou assalariado, nos termos do artigo 22.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), mediante despacho do Ministro do Ultramar, sob proposta do presidente da Junta.
 
-###### Art. 9.º - 1. O pessoal dos serviços da Junta de Energia Nuclear nas províncias ultramarinas terá as remunerações correspondentes às respectivas categorias, segundo o Estatuto do Funcionalismo Ultramarino.
+Art. 9.º - 1. O pessoal dos serviços da Junta de Energia Nuclear nas províncias ultramarinas terá as remunerações correspondentes às respectivas categorias, segundo o Estatuto do Funcionalismo Ultramarino.
 
 2. Pelo exercício acumulado dos cargos de director provincial dos serviços de geologia e minas e de director provincial dos serviços de prospecção e exploração mineira e tendo em atenção o risco inerente às respectivas funções, ou a especialização por elas exigida, poderá ser atribuída uma gratificação.
 
@@ -158,25 +191,25 @@ b) A Direcção Provincial do Laboratório de Física e Engenharia Nucleares.
 
 5. As gratificações a que se refere o n.º 3 deste artigo serão fixadas pelo Ministro do Ultramar, sob proposta do presidente da Junta.
 
-###### Art. 10.º O presidente da Junta de Energia Nuclear pode subvencionar pessoal, ao abrigo do artigo 22.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), para exercer funções nos serviços da Junta nas províncias ultramarinas.
+Art. 10.º O presidente da Junta de Energia Nuclear pode subvencionar pessoal, ao abrigo do artigo 22.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), para exercer funções nos serviços da Junta nas províncias ultramarinas.
 
-###### Art. 11.º - 1. Constituem receita da Junta de Energia Nuclear, nos termos do artigo 11.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), os subsídios que lhe forem anualmente consignados nos orçamentos das províncias ultramarinas, os quais, porém, deverão ser utilizados exclusivamente nas respectivas províncias.
+Art. 11.º - 1. Constituem receita da Junta de Energia Nuclear, nos termos do artigo 11.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), os subsídios que lhe forem anualmente consignados nos orçamentos das províncias ultramarinas, os quais, porém, deverão ser utilizados exclusivamente nas respectivas províncias.
 
 2. A liquidação dos subsídios anuais será feita mediante requisições do presidente da Junta aos governadores das províncias, consoante as necessidades, sendo as respectivas importâncias depositadas nos correspondentes bancos emissores, à ordem da Junta.
 
-###### Art. 12.º - 1. No pagamento das despesas a realizar pela Junta de Energia Nuclear nas províncias ultramarinas observar-se-á o disposto no artigo 14.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001).
+Art. 12.º - 1. No pagamento das despesas a realizar pela Junta de Energia Nuclear nas províncias ultramarinas observar-se-á o disposto no artigo 14.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001).
 
 2. A respectiva contabilização será incluída na conta de gerência da Junta.
 
-###### Art. 13.º - 1. A fixação das zonas de protecção previstas no artigo 42.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001) será feita mediante portarias dos governadores das províncias ultramarinas, sob proposta do presidente da Junta de Energia Nuclear, instruída com o parecer dos serviços provinciais competentes em matéria de urbanização.
+Art. 13.º - 1. A fixação das zonas de protecção previstas no artigo 42.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001) será feita mediante portarias dos governadores das províncias ultramarinas, sob proposta do presidente da Junta de Energia Nuclear, instruída com o parecer dos serviços provinciais competentes em matéria de urbanização.
 
 2. Compete aos governadores das províncias ordenar a demolição das obras a que se refere o § único do artigo 43.º do mesmo diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Abril de 1969.**
+Promulgado em 9 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

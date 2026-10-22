@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1971-643293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0df2df91042970469be815babf695010d0f6f7229a5b052e8678da749bcbb5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c22df142db583e9dc8b236ff4ad7264d55c695ed32922bf3e483bd6c0e6fff0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Definição de Competências
+- Financiamento
+- Fundo de Renovação e Apetrechamento da Indústria da Pesca
+- Gestão Administrativa
+- Gestão Financeira
+- Junta Nacional de Fomento das Pescas
+- Ministro da Marinha
+- Ministro das Finanças
+- Orgânica
+- Pesca
+- Presidente
+- Representante do Governo
 relationships:
 - type: amended_by
   target: pt:dre:296378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:166044:por
+  label: "Alterado o nº 1 do art. 3º pelo DEC LEI.599/71.29.12.1971.MF, DG.IS [3025] de 29.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/599-1971-166044
+  date: '1971-12-29'
+- type: amended_by
+  target: pt:dre:276598:por
+  label: "Alterado o art. 19º pelo DEC LEI.545/77.31.12.1977.MF, DR.IS [302] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/545-1977-276598
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:296378:por
+  label: Alterado o art. 19.º pelo DEC LEI.103/78.23.05.1978.MFP, DR.IS [118] de 23.05.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1978-296378
+  date: '1978-05-23'
+- type: cites
+  target: pt:dre:273802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:08Z'
   warnings: []
   errors: []
 ---
@@ -103,39 +143,39 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É mantido o Fundo de Renovação e de Apetrechamento da Indústria da Pesca, adiante apenas designado por Fundo.
+Artigo 1.º É mantido o Fundo de Renovação e de Apetrechamento da Indústria da Pesca, adiante apenas designado por Fundo.
 
-###### Art. 2.º O Fundo tem por fim financiar, exclusivamente no âmbito do III Plano de Fomento, a renovação e modernização das diversas frotas de pesca, a melhoria dos meios e processos de pesca, o aumento do apetrechamento, com vista ao integral aproveitamento dos produtos da pesca, e a promoção da criação de novas actividades dentro do sector.
+Art. 2.º O Fundo tem por fim financiar, exclusivamente no âmbito do III Plano de Fomento, a renovação e modernização das diversas frotas de pesca, a melhoria dos meios e processos de pesca, o aumento do apetrechamento, com vista ao integral aproveitamento dos produtos da pesca, e a promoção da criação de novas actividades dentro do sector.
 
-###### Art. 3.º - 1. O Fundo será gerido por uma comissão administrativa, constituída pelo presidente, que será o presidente da Junta Nacional de Fomento das Pescas, e por dois vogais, que representarão, respectivamente, o Ministro das Finanças e o Ministro da Marinha.
+Art. 3.º - 1. O Fundo será gerido por uma comissão administrativa, constituída pelo presidente, que será o presidente da Junta Nacional de Fomento das Pescas, e por dois vogais, que representarão, respectivamente, o Ministro das Finanças e o Ministro da Marinha.
 
 2. A forma de substituição do presidente da comissão será determinada por despacho conjunto dos Ministros das Finanças e da Marinha e a de cada um dos vogais por despacho do Ministro que representar.
 
-###### Art. 4.º - 1. O vogal representante do Ministro das Finanças desempenhará as funções de secretário do Fundo.
+Art. 4.º - 1. O vogal representante do Ministro das Finanças desempenhará as funções de secretário do Fundo.
 
 2. O secretário do Fundo assegurará no aspecto técnico a condução das operações financeiras da instituição e dirigirá o expediente da mesma, podendo ser assistido por técnicos especializados.
 
 3. O secretário do Fundo elaborará anualmente um relatório sobre a actividade da instituição.
 
-###### Art. 5.º Os membros da comissão administrativa terão direito a gratificação mensal fixada por despacho dos Ministros das Finanças e da Marinha.
+Art. 5.º Os membros da comissão administrativa terão direito a gratificação mensal fixada por despacho dos Ministros das Finanças e da Marinha.
 
-###### Art. 6.º - 1. A comissão administrativa reunirá quando convocada pelo presidente, seja por sua iniciativa, seja a pedido de qualquer dos vogais.
+Art. 6.º - 1. A comissão administrativa reunirá quando convocada pelo presidente, seja por sua iniciativa, seja a pedido de qualquer dos vogais.
 
 2. As deliberações da comissão administrativa que não forem tomadas por unanimidade ficam dependentes de confirmação dos Ministros das Finanças e da Marinha.
 
 3. Das deliberações da comissão administrativa caberá recurso para os Ministros das Finanças e da Marinha, que terá efeito meramente devolutivo e deverá ser interposto no prazo de cinco dias, a contar do seu conhecimento pelos interessados.
 
-###### Art. 7.º - 1. O Fundo disporá de serviços próprios, os quais funcionarão de harmonia com regulamento interno a aprovar pela comissão administrativa.
+Art. 7.º - 1. O Fundo disporá de serviços próprios, os quais funcionarão de harmonia com regulamento interno a aprovar pela comissão administrativa.
 
 2. Poderão ser destacados para prestar serviço no Fundo funcionários da Junta Nacional de Fomento das Pescas, que conservarão o regime inerente à sua qualidade de funcionários da Junta.
 
 3. A Junta orçamentará anualmente em rubrica própria a verba necessária ao pagamento de todas as despesas resultantes da actividade do Fundo que não possam ser satisfeitas pelas receitas próprias deste.
 
-###### Art. 8.º - 1. Todo o expediente do Fundo será assinado pelo presidente e pelo secretário, podendo, porém, por deliberação da comissão administrativa, em relação a expediente que não envolva responsabilidades para o Fundo, ser dispensada uma daquelas assinaturas, ou ser delegada em funcionário do Fundo a assinatura de determinados documentos.
+Art. 8.º - 1. Todo o expediente do Fundo será assinado pelo presidente e pelo secretário, podendo, porém, por deliberação da comissão administrativa, em relação a expediente que não envolva responsabilidades para o Fundo, ser dispensada uma daquelas assinaturas, ou ser delegada em funcionário do Fundo a assinatura de determinados documentos.
 
 2. Todos os documentos de despesa carecerão do visto do secretário.
 
-###### Art. 9.º Para satisfação dos compromissos financeiros decorrentes das operações activas poderá o Fundo proceder à realização das seguintes operações:
+Art. 9.º Para satisfação dos compromissos financeiros decorrentes das operações activas poderá o Fundo proceder à realização das seguintes operações:
 
 a) Emissão de obrigações;
 
@@ -143,47 +183,47 @@ b) Quaisquer outras operações de crédito interno ou externo a aprovar, caso p
 
 c) Antecipação de meios financeiros previstos nos termos da alínea anterior.
 
-###### Art. 10.º É fixado em 845000 contos o montante máximo dos empréstimos a contrair pelo Fundo até 31 de Dezembro de 1973, nos termos das alíneas a) e b) do n.º 1 do artigo 9.º
+Art. 10.º É fixado em 845000 contos o montante máximo dos empréstimos a contrair pelo Fundo até 31 de Dezembro de 1973, nos termos das alíneas a) e b) do n.º 1 do artigo 9.º
 
-###### Art. 11.º - 1. Os empréstimos a efectuar por emissão de obrigações poderão ser desdobrados em séries, cujo quantitativo e demais condições da emissão não estabelecidas neste diploma serão fixados mediante despacho conjunto dos Ministros das Finanças e da Marinha, sobre proposta da comissão administrativa do Fundo.
+Art. 11.º - 1. Os empréstimos a efectuar por emissão de obrigações poderão ser desdobrados em séries, cujo quantitativo e demais condições da emissão não estabelecidas neste diploma serão fixados mediante despacho conjunto dos Ministros das Finanças e da Marinha, sobre proposta da comissão administrativa do Fundo.
 
 2. Na determinação destas condições deverá atender-se à natureza específica dos empreendimentos a financiar e às condições prevalecentes no mercado de capitais.
 
-###### Art. 12.º - 1. A representação dos empréstimos far-se-á em títulos de cupão de 1, 5, 10, 50, 100 ou mais obrigações de valor nominal de 1000$00 cada uma.
+Art. 12.º - 1. A representação dos empréstimos far-se-á em títulos de cupão de 1, 5, 10, 50, 100 ou mais obrigações de valor nominal de 1000$00 cada uma.
 
 2. Os títulos representativos das obrigações emitidas gozam dos direitos e isenções consignados nos n.os 2.º, 4.º e 5.º do artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, para os títulos da dívida pública e da isenção do imposto do selo e dos emolumentos para a sua admissão na Bolsa.
 
 3. Os títulos representativos destes empréstimos poderão ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de dois anos.
 
-###### Art. 13.º - 1. Fica autorizado o Fundo a realizar com instituições de crédito contratos para a colocação de obrigações.
+Art. 13.º - 1. Fica autorizado o Fundo a realizar com instituições de crédito contratos para a colocação de obrigações.
 
 2. As despesas de colocação não poderão exceder 3 por cento do valor nominal.
 
-###### Art. 14.º - 1. O Fundo poderá conceder empréstimos e prestar avales para apoio de empreendimentos contemplados no III Plano de Fomento.
+Art. 14.º - 1. O Fundo poderá conceder empréstimos e prestar avales para apoio de empreendimentos contemplados no III Plano de Fomento.
 
 2. O total dos empréstimos concedidos e avales prestados não poderá exceder o montante fixado no Plano para os financiamentos a seu cargo.
 
-###### Art. 15.º - 1. O Fundo só poderá conceder empréstimos e avales depois de verificar, ouvida a Junta Nacional de Fomento das Pescas, que os projectos dos empreendimentos a que se destinam se encontram técnica e econòmicamente bem elaborados e os respectivos interessados estão em condições de fazer face às obrigações resultantes de tais operações.
+Art. 15.º - 1. O Fundo só poderá conceder empréstimos e avales depois de verificar, ouvida a Junta Nacional de Fomento das Pescas, que os projectos dos empreendimentos a que se destinam se encontram técnica e econòmicamente bem elaborados e os respectivos interessados estão em condições de fazer face às obrigações resultantes de tais operações.
 
 2. Na fixação do montante total de financiamentos e avales concedidos pelo Fundo a cada empresa será tida em conta a estrutura financeira e rentabilidade da mesma, podendo o Fundo condicionar a prestação do seu apoio financeiro a elevação adequada do capital social realizado.
 
 3. O Fundo poderá solicitar pareceres nos pontos de vista técnico e económico sabre os projectos de empreendimento para que se pretenda o seu apoio financeiro.
 
-###### Art. 16.º As condições gerais de prazos e juros dos empréstimos e o regime de concessão de avales pelo Fundo serão fixados pelos Ministros das Finanças e da Marinha, sobre proposta da comissão administrativa.
+Art. 16.º As condições gerais de prazos e juros dos empréstimos e o regime de concessão de avales pelo Fundo serão fixados pelos Ministros das Finanças e da Marinha, sobre proposta da comissão administrativa.
 
-###### Art. 17.º - 1. As operações activas do Fundo serão sempre garantidas por hipoteca, por aval bancário ou por fiança de organismos corporativos das pescas.
+Art. 17.º - 1. As operações activas do Fundo serão sempre garantidas por hipoteca, por aval bancário ou por fiança de organismos corporativos das pescas.
 
 2. O Fundo só aceitará segunda hipoteca quando a primeira haja sido constituída a seu favor.
 
-###### Art. 18.º - 1. Os bens dados em garantia das operações concedidas pelo Fundo serão seguros contra todos os riscos usuais.
+Art. 18.º - 1. Os bens dados em garantia das operações concedidas pelo Fundo serão seguros contra todos os riscos usuais.
 
 2. Dos seguros a que se refere o número anterior será beneficiário o Fundo, que em caso de sinistro irá pondo à disposição do mutuário as quantias provenientes das indemnizações conforme plano aprovado.
 
-###### Art. 19.º - 1. Os limites a observar nos empréstimos e avales a conceder pelo Fundo para a aquisição ou construção de navios e outros empreendimentos, que não poderão em qualquer caso exceder 75 por cento do custo da aquisição ou construção, serão fixados anualmente pelos Ministros das Finanças e da Marinha, sobre proposta da comissão administrativa.
+Art. 19.º - 1. Os limites a observar nos empréstimos e avales a conceder pelo Fundo para a aquisição ou construção de navios e outros empreendimentos, que não poderão em qualquer caso exceder 75 por cento do custo da aquisição ou construção, serão fixados anualmente pelos Ministros das Finanças e da Marinha, sobre proposta da comissão administrativa.
 
 2. Na fixação desses limites atender-se-á ao facto de os navios a adquirir ou a construir serem ou não de origem nacional.
 
-###### Art. 20.º - 1. O Fundo disporá de uma reserva de garantia destinada a fazer face a eventuais prejuízos na liquidação dos créditos concedidos.
+Art. 20.º - 1. O Fundo disporá de uma reserva de garantia destinada a fazer face a eventuais prejuízos na liquidação dos créditos concedidos.
 
 2. Serão creditadas na reserva de garantia:
 
@@ -199,11 +239,11 @@ c) Quaisquer outras quantias determinadas pela referida comissão.
 
 5. Em caso de liquidação do Fundo, o saldo servirá primeiro para liquidar ao Estado todos os avanços feitos ainda não reembolsados nos termos do n.º 4 e o restante será aplicado para fomento das actividades designadas na artigo 2.º, em condições a determinar por despacho conjunto dos Ministros das Finanças e da Marinha.
 
-###### Art. 21.º Quando a entrega de fundos pelo Estado, nos termos do n.º 3 do artigo anterior, seja provocada por falta imputável a qualquer empresa financiada pelo Fundo, a comissão administrativa proporá aos Ministros das Finanças e da Marinha, para decisão conjunta, as medidas a adoptar com vista à defesa desses créditos do Estado e à regularização da situação financeira das referidas empresas.
+Art. 21.º Quando a entrega de fundos pelo Estado, nos termos do n.º 3 do artigo anterior, seja provocada por falta imputável a qualquer empresa financiada pelo Fundo, a comissão administrativa proporá aos Ministros das Finanças e da Marinha, para decisão conjunta, as medidas a adoptar com vista à defesa desses créditos do Estado e à regularização da situação financeira das referidas empresas.
 
-###### Art. 22.º Durante a vigência deste decreto-lei, o presidente da Junta Nacional de Fomento das Pescas, como delegado do Governo junto dos organismos corporativos das pescas, e os seus adjuntos naqueles organismos ficarão na dependência dos Ministros das Finanças e da Marinha em tudo quanto se refira à administração do Fundo.
+Art. 22.º Durante a vigência deste decreto-lei, o presidente da Junta Nacional de Fomento das Pescas, como delegado do Governo junto dos organismos corporativos das pescas, e os seus adjuntos naqueles organismos ficarão na dependência dos Ministros das Finanças e da Marinha em tudo quanto se refira à administração do Fundo.
 
-###### Art. 23.º - 1. Poderão os Ministros das Finanças e da Marinha, ouvida a comissão administrativa do Fundo, nomear um administrador para qualquer empresa beneficiária de financiamento ou de aval do Fundo, desde que o montante global daqueles exceda 50 por cento da soma do capital realizado e reservas da empresa.
+Art. 23.º - 1. Poderão os Ministros das Finanças e da Marinha, ouvida a comissão administrativa do Fundo, nomear um administrador para qualquer empresa beneficiária de financiamento ou de aval do Fundo, desde que o montante global daqueles exceda 50 por cento da soma do capital realizado e reservas da empresa.
 
 2. Sempre que o montante total dos empréstimos e avales concedidos pelo Fundo atinja a soma do capital realizado e reservas da empresa beneficiária, é obrigatória a comunicação do facto pela comissão administrativa aos Ministros das Finanças e da Marinha.
 
@@ -211,16 +251,16 @@ c) Quaisquer outras quantias determinadas pela referida comissão.
 
 4. Os administradores assim nomeados entrarão imediatamente em exercício.
 
-###### Art. 24.º A partir da gerência de 1971 o Fundo sujeitará as suas contas ao julgamento do Tribunal de Contas, nos termos e pela forma legalmente estabelecidos.
+Art. 24.º A partir da gerência de 1971 o Fundo sujeitará as suas contas ao julgamento do Tribunal de Contas, nos termos e pela forma legalmente estabelecidos.
 
-###### Art. 25.º São revogados os Decretos-Leis n.os 42518, 46390, 48491 e 49299, respectivamente de 21 de Setembro de 1959, 14 de Junho de 1965, 19 de Julho de 1968 e 10 de Outubro de 1969.
+Art. 25.º São revogados os Decretos-Leis n.os 42518, 46390, 48491 e 49299, respectivamente de 21 de Setembro de 1959, 14 de Junho de 1965, 19 de Julho de 1968 e 10 de Outubro de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 11 de Junho de 1971.**
+Promulgado em 11 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

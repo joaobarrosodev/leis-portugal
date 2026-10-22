@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/13800/13801381.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1981-579310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3efd264fe23e238a2f9e6928c4242d1afc7bd5dab8c629585e3b1c8983cdfae2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c8eb2571df0b34b43d1757e4e00633a66e7c740d9276ccc0f2c595bb9896389
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia de Seguros
+- Empresa Estrangeira
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:396962:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:579476:por
+  label: Rectificado pela DECL.DD6544.15.07.1981.PCM, DR.IS [171] de 28.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-579476
+  date: '1981-07-15'
+- type: repealed_by
+  target: pt:dre:396962:por
+  label: "Revogado pelo DEC LEI.2/2009.05.01.2009.MFAP, DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2009-396962
+  date: '2009-01-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:55Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +117,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A instalação e o funcionamento em Portugal de escritórios de representação de resseguradoras estrangeiras depende de autorização do Ministro das Finanças e do Plano, a conceder por despacho, ouvido o Instituto Nacional de Seguros.
+Artigo 1.º A instalação e o funcionamento em Portugal de escritórios de representação de resseguradoras estrangeiras depende de autorização do Ministro das Finanças e do Plano, a conceder por despacho, ouvido o Instituto Nacional de Seguros.
 
-###### Art. 2.º Cada resseguradora estrangeira só pode dispor de um escritório de representação em Portugal, que deve funcionar num único local e não pode abrir agências, filiais ou sucursais desse mesmo escritório.
+Art. 2.º Cada resseguradora estrangeira só pode dispor de um escritório de representação em Portugal, que deve funcionar num único local e não pode abrir agências, filiais ou sucursais desse mesmo escritório.
 
-###### Art. 3.º - 1 - Os escritórios de representação de resseguradoras estrangeiras não exercem actividade empresarial própria.
+Art. 3.º - 1 - Os escritórios de representação de resseguradoras estrangeiras não exercem actividade empresarial própria.
 
 2 - Os escritórios de representação têm por fim exclusivo a colaboração de resseguros nas sociedades que representam, aceitando os contratos em nome e por conta dessas sociedades e competindo-lhes zelar pelos interesses criados em Portugal em consequência desses mesmos contratos.
 
-###### Art. 4.º - 1 - É vedado aos escritórios de representação de resseguradoras estrangeiras:
+Art. 4.º - 1 - É vedado aos escritórios de representação de resseguradoras estrangeiras:
 
 a) Praticar actos que transcendam ou contrariem o disposto no artigo anterior;
 
@@ -122,11 +135,11 @@ c) Reter quaisquer planos relativamente aos contratos de resseguro que coloquem 
 
 2 - As resseguradoras estrangeiras poderão adquirir os imóveis indispensáveis à instalação e ao funcionamento dos escritórios de representação, mediante autorização do Ministro das Finanças e do Plano.
 
-###### Art. 5.º - 1 - Os escritórios de representação de resseguradoras estrangeiras serão dirigidos por um gerente, com residência permanente no território nacional.
+Art. 5.º - 1 - Os escritórios de representação de resseguradoras estrangeiras serão dirigidos por um gerente, com residência permanente no território nacional.
 
 2 - Os gerentes dos escritórios de representação têm plenos poderes para, em nome e por conta da sociedade representada, a obrigar, tratar e resolver todos os assuntos respeitantes à actividade do escritório, exercida nos termos do disposto no artigo 3.º, bem como para representar a resseguradora perante o Estado, as sociedades de seguros e resseguros estabelecidas em Portugal ou quaisquer outras entidades.
 
-###### Art. 6.º - 1 - A autorização para a instalação e funcionamento em Portugal de escritórios de representação de resseguradoras deverá ser requerida ao Ministro das Finanças e do Plano, através da Inspecção-Geral de Seguros.
+Art. 6.º - 1 - A autorização para a instalação e funcionamento em Portugal de escritórios de representação de resseguradoras deverá ser requerida ao Ministro das Finanças e do Plano, através da Inspecção-Geral de Seguros.
 
 2 - O requerimento para essa autorização deve ser acompanhado:
 
@@ -140,19 +153,19 @@ c) Da identificação do gerente do escritório e dos termos do mandato, passado
 
 4 - O requerimento e a documentação que o acompanha são entregues em duplicado, devendo a Inspecção-Geral de Seguros enviar um dos exemplares ao Instituto Nacional de Seguros, para os efeitos do disposto no artigo 1.º
 
-###### Art. 7.º - 1 - Os escritórios de representação de resseguradoras devem iniciar a sua actividade no prazo de noventa dias a contar da data da publicação no Diário da República do despacho de autorização, sob pena de caducar essa mesma autorização.
+Art. 7.º - 1 - Os escritórios de representação de resseguradoras devem iniciar a sua actividade no prazo de noventa dias a contar da data da publicação no Diário da República do despacho de autorização, sob pena de caducar essa mesma autorização.
 
 2 - A Inspecção-Geral de Seguros pode, em casos devidamente justificados, autorizar, mediante parecer favorável do Instituto Nacional de Seguros, a prorrogação do prazo referido no número anterior por um único período de igual duração.
 
-###### Art. 8.º - 1 - Os escritórios de representação são obrigados ao uso da língua portuguesa na escrituração dos seus livros de contabilidade e em todos os documentos destinados a autoridades portuguesas.
+Art. 8.º - 1 - Os escritórios de representação são obrigados ao uso da língua portuguesa na escrituração dos seus livros de contabilidade e em todos os documentos destinados a autoridades portuguesas.
 
 2 - Sem prejuízo do disposto no número anterior e no n.º 3 do artigo 6.º, os documentos, informações e comunicações que os escritórios de representação tenham de apresentar serão acompanhados da respectiva tradução quando redigidos em língua estrangeira.
 
-###### Art. 9.º Os escritórios de representação de resseguradoras estrangeiras estão submetidos à legislação portuguesa e à jurisdição dos tribunais portugueses relativamente a todas as operações referentes a Portugal.
+Art. 9.º Os escritórios de representação de resseguradoras estrangeiras estão submetidos à legislação portuguesa e à jurisdição dos tribunais portugueses relativamente a todas as operações referentes a Portugal.
 
-###### Art. 10.º A actividade dos escritórios de representação de resseguradoras está sujeita à fiscalização da Inspecção-Geral de Seguros.
+Art. 10.º A actividade dos escritórios de representação de resseguradoras está sujeita à fiscalização da Inspecção-Geral de Seguros.
 
-###### Art. 11.º - 1 - O Ministro das Finanças e do Plano pode retirar, por meio de despacho fundamentado e sob proposta do Instituto Nacional de Seguros ou da Inspecção-Geral de Seguros, a autorização de instalação e funcionamento a um escritório de representação que:
+Art. 11.º - 1 - O Ministro das Finanças e do Plano pode retirar, por meio de despacho fundamentado e sob proposta do Instituto Nacional de Seguros ou da Inspecção-Geral de Seguros, a autorização de instalação e funcionamento a um escritório de representação que:
 
 a) Deixe de satisfazer as condições estabelecidas no presente diploma; ou
 
@@ -160,12 +173,12 @@ b) Deixe de funcionar em conformidade com o disposto no presente decreto-lei ou 
 
 2 - Será igualmente retirada a autorização a pedido expresso da sociedade ou no caso de esta se extinguir ou deixar de exercer a actividade resseguradora no país de origem.
 
-###### Art. 12.º São aplicáveis aos escritórios de representação as disposições legais e regulamentares da actividade seguradora e resseguradora em tudo o que não contrarie o presente diploma.
+Art. 12.º São aplicáveis aos escritórios de representação as disposições legais e regulamentares da actividade seguradora e resseguradora em tudo o que não contrarie o presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Junho de 1981.**
+Promulgado em 8 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

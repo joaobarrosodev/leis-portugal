@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 26/1976, 1º Suplemento, Série I de 1976-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 240-(2) a 240-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02601/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-a-1976-242247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30624ee94891022beff7ac0bac93ed6e92a521dd1a21cac575e64f298b96a2ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dff9d1f2c89a5ed9e2ac5f18a131a6da66c33f5fcf62cd53c1117e2ce1c90e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Coordenadora
+- Criação de Serviços
+- Descolonização
+- Extinção de Serviços
+- Instituto para a Cooperação Económica
+- Ministério da Cooperação
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515471:por
+  label: "Extinto o Instituto para a Cooperação Económica pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:468070:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:17Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +119,13 @@ Assim, pelo presente diploma, cria-se, no âmbito do Ministério da Cooperação
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado, no Ministério da Cooperação, o Instituto para a Cooperação Económica, adiante designado abreviadamente por Instituto, que constituirá um organismo de apoio técnico-administrativo para as negociações e a cooperação, nos domínios económico e financeiro, com os antigos territórios sob administração portuguesa.
+Artigo 1.º - 1. É criado, no Ministério da Cooperação, o Instituto para a Cooperação Económica, adiante designado abreviadamente por Instituto, que constituirá um organismo de apoio técnico-administrativo para as negociações e a cooperação, nos domínios económico e financeiro, com os antigos territórios sob administração portuguesa.
 
 2. O Instituto será orientado por despacho conjunto dos Ministros das Finanças e da Cooperação, competindo o seu despacho corrente ao Ministro da Cooperação.
 
-###### Art. 2.º O Instituto goza de autonomia administrativa e reger-se-á pelas disposições do presente diploma e dos regulamentos que em sua execução vierem a ser aprovados por despacho conjunto dos Ministros das Finanças e da Cooperação.
+Art. 2.º O Instituto goza de autonomia administrativa e reger-se-á pelas disposições do presente diploma e dos regulamentos que em sua execução vierem a ser aprovados por despacho conjunto dos Ministros das Finanças e da Cooperação.
 
-###### Art. 3.º - 1. Compete especialmente ao Instituto:
+Art. 3.º - 1. Compete especialmente ao Instituto:
 
 a) Centralizar o tratamento técnico da informação indispensável à realização das negociações sobre matéria económico-financeira com os Estados referidos no artigo 1.º, nomeadamente a respeitante a bancos e outras instituições financeiras, companhias de seguros e outras empresas nacionalizadas ou com participação do Estado Português, a investimentos públicos do Estado Português e outros interesses nacionais, públicos ou privados;
 
@@ -118,25 +141,25 @@ f) Participar na negociação dos acordos e acompanhar a sua execução.
 
 2. Por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Cooperação poderão ser atribuídas ao Instituto, relativamente a outros países estrangeiros, as funções que pelo número antecedente lhe são cometidas quanto aos novos Estados resultantes da descolonização dos antigos territórios sob administração portuguesa.
 
-###### Art. 4.º O Instituto terá como órgãos a direcção, um conselho administrativo e um conselho de assessores.
+Art. 4.º O Instituto terá como órgãos a direcção, um conselho administrativo e um conselho de assessores.
 
-###### Art. 5.º - 1. A direcção do Instituto será composta por três a cinco membros, de livre escolha dos Ministros das Finanças e da Cooperação, em regra de entre gestores públicos, sendo o respectivo presidente designado por despacho conjunto dos referidos Ministros.
+Art. 5.º - 1. A direcção do Instituto será composta por três a cinco membros, de livre escolha dos Ministros das Finanças e da Cooperação, em regra de entre gestores públicos, sendo o respectivo presidente designado por despacho conjunto dos referidos Ministros.
 
 2. Na falta, ausência ou impedimento do presidente, será este substituído nas suas funções por aquele dos restantes membros da direcção que for designado pelos Ministros das Finanças e da Cooperação.
 
-###### Art. 6.º O conselho administrativo será composto por três membros da direcção, designados pelo respectivo presidente, que definirá as suas atribuições.
+Art. 6.º O conselho administrativo será composto por três membros da direcção, designados pelo respectivo presidente, que definirá as suas atribuições.
 
-###### Art. 7.º O conselho de assessores é formado por um número variável de representantes dos Ministérios a que digam respeito as matérias objecto de negociação ou acordo, designados pelos respectivos Ministros, bem como por representantes de quaisquer outras entidades públicas ou privadas cujo concurso se mostre necessário, a tempo integral ou parcial.
+Art. 7.º O conselho de assessores é formado por um número variável de representantes dos Ministérios a que digam respeito as matérias objecto de negociação ou acordo, designados pelos respectivos Ministros, bem como por representantes de quaisquer outras entidades públicas ou privadas cujo concurso se mostre necessário, a tempo integral ou parcial.
 
-###### Art. 8.º - 1. A direcção e o conselho de assessores reunirão em sessão ordinária uma vez por mês, cabendo a orientação dos trabalhos ao presidente da direcção ou a quem o substituir.
+Art. 8.º - 1. A direcção e o conselho de assessores reunirão em sessão ordinária uma vez por mês, cabendo a orientação dos trabalhos ao presidente da direcção ou a quem o substituir.
 
 2. O presidente da direcção do Instituto, ou quem o substitua, poderá ainda convocar, sempre que necessário, reuniões extraordinárias da totalidade ou de parte dos membros da direcção e do conselho de assessores.
 
 3. De todas as reuniões será lavrada acta.
 
-###### Art. 9.º As remunerações dos membros da direcção do Instituto serão fixadas por decreto dos Ministros da Administração Interna, das Finanças e da Cooperação, observados os limites legais.
+Art. 9.º As remunerações dos membros da direcção do Instituto serão fixadas por decreto dos Ministros da Administração Interna, das Finanças e da Cooperação, observados os limites legais.
 
-###### Art. 10.º - 1. A direcção do Instituto poderá, mediante despacho do Ministro da Cooperação, requisitar a quaisquer serviços públicos, empresas públicas ou nacionalizadas o pessoal indispensável ao seu funcionamento.
+Art. 10.º - 1. A direcção do Instituto poderá, mediante despacho do Ministro da Cooperação, requisitar a quaisquer serviços públicos, empresas públicas ou nacionalizadas o pessoal indispensável ao seu funcionamento.
 
 2. O pessoal requisitado de acordo com o número anterior ficará, conforme o acordado entre o Ministério da Cooperação e os Ministérios a que pertençam os trabalhadores ou as administrações das respectivas empresas, na situação de destacado ou em comissão eventual de serviço.
 
@@ -146,28 +169,28 @@ f) Participar na negociação dos acordos e acompanhar a sua execução.
 
 5. O Instituto poderá ainda requisitar técnicos ou gestores de empresas privadas, nos termos do [Decreto-Lei n.º 719/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/719-1974-468070), de 18 de Dezembro, e legislação complementar.
 
-###### Art. 11.º A direcção do Instituto poderá admitir pessoal técnico especializado, em regime de prestação de serviço, para a realização de tarefas eventuais ou extraordinárias, a tempo integral ou parcial, e contratar, mediante prévia autorização do Ministro da Cooperação, com entidades públicas ou privadas especializadas a realização de estudos e outros trabalhos.
+Art. 11.º A direcção do Instituto poderá admitir pessoal técnico especializado, em regime de prestação de serviço, para a realização de tarefas eventuais ou extraordinárias, a tempo integral ou parcial, e contratar, mediante prévia autorização do Ministro da Cooperação, com entidades públicas ou privadas especializadas a realização de estudos e outros trabalhos.
 
-###### Art. 12.º No prazo de noventa dias, a contar da publicação do presente diploma, será fixado o quadro de pessoal do Instituto, por portaria conjunta dos Ministros da Administração Interna, das Finanças e da Cooperação.
+Art. 12.º No prazo de noventa dias, a contar da publicação do presente diploma, será fixado o quadro de pessoal do Instituto, por portaria conjunta dos Ministros da Administração Interna, das Finanças e da Cooperação.
 
-###### Art. 13.º - 1. Os encargos resultantes do funcionamento do Instituto serão suportados por verba global a inscrever no orçamento do Ministério da Cooperação.
+Art. 13.º - 1. Os encargos resultantes do funcionamento do Instituto serão suportados por verba global a inscrever no orçamento do Ministério da Cooperação.
 
 2. O orçamento do Instituto será elaborado anualmente pelos respectivos serviços e aprovado pelo Ministro da Cooperação e visado pelo Ministro das Finanças.
 
-###### Art. 14.º - 1. Até à publicação da portaria a que se refere o artigo 12.º funcionará uma comissão instaladora do Instituto nomeada por despacho dos Ministros das Finanças e da Cooperação e com a competência que por eles lhe for fixada.
+Art. 14.º - 1. Até à publicação da portaria a que se refere o artigo 12.º funcionará uma comissão instaladora do Instituto nomeada por despacho dos Ministros das Finanças e da Cooperação e com a competência que por eles lhe for fixada.
 
 2. A comissão instaladora poderá propor aos Ministros das Finanças e da Cooperação a requisição do pessoal indispensável para a auxiliar no exercício das suas funções.
 
-###### Art. 15.º - 1. Na data da entrada em vigor do presente decreto-lei será extinta a Comissão Coordenadora das Negociações nos Domínios Económico e Financeiro com os novos Estados, criada por despacho do Conselho de Ministros de 23 de Julho de 1975, transitando as respectivas funções e património para o Instituto.
+Art. 15.º - 1. Na data da entrada em vigor do presente decreto-lei será extinta a Comissão Coordenadora das Negociações nos Domínios Económico e Financeiro com os novos Estados, criada por despacho do Conselho de Ministros de 23 de Julho de 1975, transitando as respectivas funções e património para o Instituto.
 
 2. Na mesma data será igualmente extinto o Núcleo de Inspecção de Administração da Direcção-Geral de Economia da Secretaria de Estado da Cooperação, criado por despacho ministerial de 15 de Março de 1975, transitando para o Instituto as funções daquele, bem como o património que lhe está afecto.
 
-###### Art. 16.º Este decreto-lei entrará em vigor em 1 de Fevereiro de 1976.
+Art. 16.º Este decreto-lei entrará em vigor em 1 de Fevereiro de 1976.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 27 de Janeiro de 1976.**
+Promulgado em 27 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

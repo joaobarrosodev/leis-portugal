@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12600/08970901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ece2b045bee321f86078eacd781e5bf052946697fd4df4a0370bbb2b9c89550e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dffaa6311a222f6a6621a5dca02309deb5e3be234725c92bd11a1008a3955f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Comissão Coordenadora
+- Comissão Interministerial de Formação
+- Comissão Interministerial de Informática
+- Conselho Coordenador
+- Conselho Superior da Acção Social
+- Criação de Serviços
+- Definição de Competências
+- Formas de Provimento
+- Integração de Trabalhadores
+- Presidência do Conselho
+- Quadro de Pessoal
+- Secretariado da Administração Pública
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:369823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:372637:por
+  label: "Acrescentado um n.º 6 ao art. 4º e um n.º 4 aos arts 17.º e 18.º, determinado que as referências feitas ao Presidente\
+    \ do Conselho entendem-se feitas ao Ministério da Administração Interna e alterado o quadro de pessoal anexo ao presente\
+    \ diploma pelo DEC LEI.745/74.27.12.1974.MAI, DG.IS [300] de 27.12.1974\074\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/745-1974-372637
+  date: '1974-12-27'
+- type: amended_by
+  target: pt:dre:336361:por
+  label: Determinado que a categoria de técnico especialista, mantida pelo presente diploma, passe a designar-se como técnico
+    principal pelo(a) Portaria n.º 462/75 - Diário do Governo n.º 172/1975, Série I de 1975-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/462-1975-336361
+  date: '1975-07-28'
+- type: amended_by
+  target: pt:dre:232739:por
+  label: Substituído o quadro de pessoal, pelo(a) Portaria n.º 393-A/76 - Diário da República n.º 151/1976, 1º Suplemento,
+    Série I de 1976-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-a-1976-232739
+  date: '1976-06-30'
+- type: cites
+  target: pt:dre:146574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:500933:por
+  label: Revogados, a partir de 26.03.1976, os arts. 12.º, 13.º e 19.º pelo(a) Decreto n.º 215/76 - Diário do Governo n.º
+    72/1976, Série I de 1976-03-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/215-1976-500933
+  date: '1976-03-25'
+- type: repealed_by
+  target: pt:dre:369823:por
+  label: "Revogado pelo DEC LEI.385/79.19.09.1979.PCM, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/385-1979-369823
+  date: '1979-09-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:06Z'
   warnings: []
   errors: []
 ---
@@ -132,11 +184,11 @@ SECRETARIADO DA ADMINISTRAÇÃO PÚBLICA
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º É criado, na Presidência do Conselho, o Secretariado da Administração Pública, adiante designado abreviadamente por Secretariado.
+Artigo 1.º É criado, na Presidência do Conselho, o Secretariado da Administração Pública, adiante designado abreviadamente por Secretariado.
 
-###### Art. 2.º O Secretariado é o órgão central incumbido de estudar, propor, coordenar e acompanhar a execução das medidas tendentes a promover sistematicamente o aperfeiçoamento e modernização da administração pública, de modo a permitir-lhe corresponder às exigências do desenvolvimento económico e social do País.
+Art. 2.º O Secretariado é o órgão central incumbido de estudar, propor, coordenar e acompanhar a execução das medidas tendentes a promover sistematicamente o aperfeiçoamento e modernização da administração pública, de modo a permitir-lhe corresponder às exigências do desenvolvimento económico e social do País.
 
-###### Art. 3.º As atribuições do Secretariado, no âmbito da missão que lhe é confiada no artigo 2.º, exercem-se, fundamentalmente, nos seguintes domínios:
+Art. 3.º As atribuições do Secretariado, no âmbito da missão que lhe é confiada no artigo 2.º, exercem-se, fundamentalmente, nos seguintes domínios:
 
 a) Estrutura orgânica da Administração;
 
@@ -158,7 +210,7 @@ i) Providências legislativas e regulamentares sobre as matérias referidas nas 
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º - 1. O Secretariado é chefiado por um director, coadjuvado por um subdirector, e dispõe dos seguintes serviços:
+Art. 4.º - 1. O Secretariado é chefiado por um director, coadjuvado por um subdirector, e dispõe dos seguintes serviços:
 
 a) Direcção de Serviços de Organização e Equipamento;
 
@@ -176,7 +228,7 @@ d) Repartição Administrativa.
 
 5. A Repartição Administrativa divide-se em duas secções, sendo uma de serviços gerais e outra de contabilidade e economato.
 
-###### Art. 5.º - 1. No exercício das suas atribuições, o Secretariado disporá ainda do apoio dos seguintes órgãos interdepartamentais:
+Art. 5.º - 1. No exercício das suas atribuições, o Secretariado disporá ainda do apoio dos seguintes órgãos interdepartamentais:
 
 a) Conselho Coordenador da Administração Pública;
 
@@ -188,21 +240,21 @@ d) Comissão Coordenadora dos Serviços Sociais.
 
 2. O Secretariado estará representado no Conselho Superior da Acção Social, com vista a participar no estudo e promoção da equiparação progressiva dos regimes de segurança social dos sectores público e privado.
 
-###### Art. 6.º O Conselho Coordenador da Administração Pública tem por missão pronunciar-se sobre assuntos de interesse geral para os serviços públicos, facilitar os contactos do Secretariado com os diversos sectores da administração e colaborar na execução coordenada das medidas aprovadas pelo Governo.
+Art. 6.º O Conselho Coordenador da Administração Pública tem por missão pronunciar-se sobre assuntos de interesse geral para os serviços públicos, facilitar os contactos do Secretariado com os diversos sectores da administração e colaborar na execução coordenada das medidas aprovadas pelo Governo.
 
-###### Art. 7.º À Comissão Interministerial de Informática incumbe colaborar com o Secretariado na definição e permanente actualização da política de informática para o sector público.
+Art. 7.º À Comissão Interministerial de Informática incumbe colaborar com o Secretariado na definição e permanente actualização da política de informática para o sector público.
 
-###### Art. 8.º A Comissão Interministerial de Formação apoiará o Secretariado no estudo das questões de interesse geral para os serviços públicos, respeitantes à selecção e formação dos servidores do Estado.
+Art. 8.º A Comissão Interministerial de Formação apoiará o Secretariado no estudo das questões de interesse geral para os serviços públicos, respeitantes à selecção e formação dos servidores do Estado.
 
-###### Art. 9.º A Comissão Coordenadora dos Serviços Sociais tem por missão promover a articulação destes serviços em ordem a favorecer o alargamento e a uniformização dos benefícios por eles concedidos.
+Art. 9.º A Comissão Coordenadora dos Serviços Sociais tem por missão promover a articulação destes serviços em ordem a favorecer o alargamento e a uniformização dos benefícios por eles concedidos.
 
-###### Art. 10.º - 1. Constarão de diploma regulamentar a constituição, competência e condições de funcionamento dos serviços do Secretariado e dos órgãos a que se referem, respectivamente, os artigos 4.º e 5.º
+Art. 10.º - 1. Constarão de diploma regulamentar a constituição, competência e condições de funcionamento dos serviços do Secretariado e dos órgãos a que se referem, respectivamente, os artigos 4.º e 5.º
 
 2. Do mesmo diploma constarão os abonos a atribuir aos membros dos órgãos interdepartamentais de apoio ao Secretariado, bem como aos participantes em outras reuniões com representantes dos Ministérios, de harmonia com o previsto no mencionado regulamento.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 11.º - 1. O Secretariado dispõe do pessoal constante do quadro anexo ao presente diploma.
+Art. 11.º - 1. O Secretariado dispõe do pessoal constante do quadro anexo ao presente diploma.
 
 2. O pessoal administrativo e auxiliar do Secretariado fará parte do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951.
 
@@ -210,13 +262,13 @@ d) Comissão Coordenadora dos Serviços Sociais.
 
 4. O pessoal do Secretariado será distribuído pelos diversos serviços mediante despacho do director.
 
-###### Art. 12.º - 1. O provimento do pessoal do Secretariado será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.
+Art. 12.º - 1. O provimento do pessoal do Secretariado será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.
 
 2. Sem prejuízo do disposto nos artigos 13.º e 14.º, as nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Se o funcionário nomeado provisoriamente já tiver provimento definitivo noutro lugar do Secretariado, manterá o direito ao mesmo durante o prazo da nomeação provisória, que nesse caso é reduzido a um ano.
 
-###### Art. 13.º - 1. Se a nomeação para qualquer lugar do Secretariado recair em funcionário público ou administrativo, será feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
+Art. 13.º - 1. Se a nomeação para qualquer lugar do Secretariado recair em funcionário público ou administrativo, será feita em comissão de serviço, pelo prazo de um ano prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
 
 2. Verificando-se a prorrogação, considera-se aberta vaga no quadro donde proceda o funcionário, podendo este, no entanto, regressar ao mesmo quadro, a seu pedido, desde que se encontre vago o cargo que desempenhava ou outro da mesma categoria.
 
@@ -224,19 +276,19 @@ d) Comissão Coordenadora dos Serviços Sociais.
 
 4. No decurso dessa situação, o funcionário terá direito ao vencimento correspondente à sua categoria, a cargo do departamento onde prestar serviço, ou, se tal não for possível, por conta das verbas orçamentais do Secretariado.
 
-###### Art. 14.º Os lugares de director e subdirector do Secretariado serão providos, em comissão de serviço, por tempo indeterminado, sendo-lhes aplicável, após três anos de exercício dos cargos, o regime estabelecido nos n.os 2 e seguintes do artigo 13.º, caso possuam já a qualidade de funcionários.
+Art. 14.º Os lugares de director e subdirector do Secretariado serão providos, em comissão de serviço, por tempo indeterminado, sendo-lhes aplicável, após três anos de exercício dos cargos, o regime estabelecido nos n.os 2 e seguintes do artigo 13.º, caso possuam já a qualidade de funcionários.
 
-###### Art. 15.º O tempo de serviço prestado no Secretariado nos termos dos artigos 13.º e 14.º considera-se, para todos os efeitos, como prestado no quadro de origem dos funcionários.
+Art. 15.º O tempo de serviço prestado no Secretariado nos termos dos artigos 13.º e 14.º considera-se, para todos os efeitos, como prestado no quadro de origem dos funcionários.
 
-###### Art. 16.º Os requisitos de provimento e os processos de recrutamento do pessoal do quadro serão fixados em diploma regulamentar.
+Art. 16.º Os requisitos de provimento e os processos de recrutamento do pessoal do quadro serão fixados em diploma regulamentar.
 
-###### Art. 17.º - 1. Poderá ser contratado ou assalariado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente.
+Art. 17.º - 1. Poderá ser contratado ou assalariado além do quadro o pessoal indispensável para realizar tarefas que não possam ser asseguradas pelo pessoal permanente.
 
 2. A realização de estudos, inquéritos e outros trabalhos de carácter técnico e eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras estranhas aos serviços.
 
 3. Para o estudo de problemas específicos, poderão ser constituídos, no Secretariado ou no âmbito dos órgãos interdepartamentais referidos no artigo 5.º, comissões ou grupos de trabalho, cujo mandato, composição, funcionamento e condições de remuneração serão estabelecidos em despacho do Presidente do Conselho que os aprove.
 
-###### Art. 18.º - 1. Com vista a proporcionar melhor conhecimento mútuo da orgânica e das necessidades da Administração e a preparar condições de mais eficaz colaboração entre os serviços, poderão os funcionários do Secretariado ser transitoriamente deslocados para prestar serviço em qualquer departamento ministerial e, inversamente, poderão funcionários de outros serviços ser deslocados para o Secretariado em idênticas condições.
+Art. 18.º - 1. Com vista a proporcionar melhor conhecimento mútuo da orgânica e das necessidades da Administração e a preparar condições de mais eficaz colaboração entre os serviços, poderão os funcionários do Secretariado ser transitoriamente deslocados para prestar serviço em qualquer departamento ministerial e, inversamente, poderão funcionários de outros serviços ser deslocados para o Secretariado em idênticas condições.
 
 2. As deslocações previstas no número anterior não prejudicam de qualquer forma a situação dos funcionários perante os serviços a que pertencem.
 
@@ -244,15 +296,15 @@ d) Comissão Coordenadora dos Serviços Sociais.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 19.º Durante os dois primeiros anos após a entrada em vigor deste diploma o provimento dos lugares do quadro do pessoal técnico do Secretariado poderá ser feito directamente para qualquer das categorias e sem dependência do tempo de serviço prestado na categoria inferior.
+Art. 19.º Durante os dois primeiros anos após a entrada em vigor deste diploma o provimento dos lugares do quadro do pessoal técnico do Secretariado poderá ser feito directamente para qualquer das categorias e sem dependência do tempo de serviço prestado na categoria inferior.
 
-###### Art. 20.º Os actuais funcionários do quadro da Secretaria-Geral da Presidência do Conselho afectos à Direcção de Serviços da Reforma Administrativa consideram-se providos em lugares idênticos ou de categoria equivalente do quadro aprovado pelo presente diploma, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
+Art. 20.º Os actuais funcionários do quadro da Secretaria-Geral da Presidência do Conselho afectos à Direcção de Serviços da Reforma Administrativa consideram-se providos em lugares idênticos ou de categoria equivalente do quadro aprovado pelo presente diploma, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 21.º - 1. Poderão também ser providos, nas condições referidas no artigo anterior, em lugares equivalentes do quadro, os actuais servidores contratados nos termos do artigo 37.º, n.º 1, do [Decreto-Lei n.º 622/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574), de 18 de Dezembro, que preencham as condições de nomeação estabelecidas no decreto regulamentar, salvo no que toca ao limite de idade.
+Art. 21.º - 1. Poderão também ser providos, nas condições referidas no artigo anterior, em lugares equivalentes do quadro, os actuais servidores contratados nos termos do artigo 37.º, n.º 1, do [Decreto-Lei n.º 622/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574), de 18 de Dezembro, que preencham as condições de nomeação estabelecidas no decreto regulamentar, salvo no que toca ao limite de idade.
 
 2. O restante pessoal actualmente afecto à Direcção de Serviços da Reforma Administrativa transita para o Secretariado na situação em que se encontrar à data da publicação deste decreto-lei, devendo a mesma ser oportunamente revista de harmonia com as conveniências do serviço.
 
-###### Art. 22.º Ao quadro do pessoal da Secretaria-Geral da Presidência do Conselho, aprovado pelo [Decreto-Lei n.º 622/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574), de 18 de Dezembro, são abatidos os seguintes lugares:
+Art. 22.º Ao quadro do pessoal da Secretaria-Geral da Presidência do Conselho, aprovado pelo [Decreto-Lei n.º 622/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574), de 18 de Dezembro, são abatidos os seguintes lugares:
 
 Um director de serviços;
 
@@ -266,24 +318,24 @@ Três técnicos auxiliares de 1.ª classe;
 
 Quatro técnicos auxiliares de 2.ª classe.
 
-###### Art. 23.º O artigo 37.º, n.º 1, do [Decreto-Lei n.º 622/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574), de 18 de Dezembro, passa a ter a seguinte redacção:
+Art. 23.º O artigo 37.º, n.º 1, do [Decreto-Lei n.º 622/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574), de 18 de Dezembro, passa a ter a seguinte redacção:
 
 O pessoal cuja admissão seja exigida por necessidades eventuais ou extraordinárias dos serviços poderá ser contratado além do quadro ou requisitado no regime a que se refere o artigo 7.º do Decreto-Lei n.º 46910, de 19 de Março de 1966.
 
-###### Art. 24.º Os encargos resultantes da execução do presente diploma serão suportados, no ano de 1973, por força de dotação global a inscrever em capítulo próprio do Orçamento Geral do Estado, com a contrapartida possível nas disponibilidades do orçamento da Secretaria-Geral da Presidência do Conselho.
+Art. 24.º Os encargos resultantes da execução do presente diploma serão suportados, no ano de 1973, por força de dotação global a inscrever em capítulo próprio do Orçamento Geral do Estado, com a contrapartida possível nas disponibilidades do orçamento da Secretaria-Geral da Presidência do Conselho.
 
-###### Art. 25.º Este decreto-lei entra em vigor, com o seu regulamento, em 1 de Junho de 1973.
+Art. 25.º Este decreto-lei entra em vigor, com o seu regulamento, em 1 de Junho de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Mota Pereira de Campos - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 17 de Maio de 1973.**
+Promulgado em 17 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro do pessoal a que se refere o n.º 1 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/12600/08970901.pdf))](https://files.diariodarepublica.pt/1s/1973/05/12600/08970901.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/12600/08970901.pdf)
 
-**O Ministro de Estado, João Mota Pereira de Campos.**
+O Ministro de Estado, João Mota Pereira de Campos.

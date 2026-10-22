@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/613-1970-146494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a38f7e7e544f80ed11b7e7625be390f6c2bbeb4f0364ef4ac2e55dd3548ff1a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62f588e62fe65660a4e546c078ba9690f7141ba910f4e4ce870a28384cb5e5e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:47Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +104,17 @@ Considerando que a Comissão do Domínio Público Marítimo se pronunciou favor�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São desafectados do domínio público marítimo os terrenos na margem direita do rio Cávado, em Esposende, interiores à Avenida do Engenheiro Arantes e Oliveira e compreendidos entre a Avenida do Hospital e a rotunda de cruzamento da Avenida do Engenheiro Arantes e Oliveira com a estrada nacional n.º 13.
+Artigo 1.º - 1. São desafectados do domínio público marítimo os terrenos na margem direita do rio Cávado, em Esposende, interiores à Avenida do Engenheiro Arantes e Oliveira e compreendidos entre a Avenida do Hospital e a rotunda de cruzamento da Avenida do Engenheiro Arantes e Oliveira com a estrada nacional n.º 13.
 
 2. A área desafectada mede, na totalidade, 60950 m2 e está assinalada na planta anexa a este diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1. Os terrenos referidos no artigo anterior serão cedidos à Câmara Municipal de Esposende, a fim de serem urbanizados, de harmonia com os planos aprovados pelo Ministério das Obras Públicas.
+Art. 2.º - 1. Os terrenos referidos no artigo anterior serão cedidos à Câmara Municipal de Esposende, a fim de serem urbanizados, de harmonia com os planos aprovados pelo Ministério das Obras Públicas.
 
 2. Como compensação dessa cessão, a Câmara Municipal obriga-se a entregar ao Estado metade das receitas provenientes da alienação, licenciamento ou arrendamento do terreno cedido, o qual continuará sujeito à jurisdição legal das autoridades hidráulicas, marítimas e aduaneiras.
 
-###### Art. 3.º A Câmara Municipal fica também obrigada a permitir a utilização graciosa, por parte dos serviços do Estado, de parcelas do terreno que lhe é cedido, de área total não superior a 1 ha, destinadas à construção de edifícios para suas instalações, respectivos logradouros e eventuais serventias, conforme os planos aprovados nos termos do artigo 2.º
+Art. 3.º A Câmara Municipal fica também obrigada a permitir a utilização graciosa, por parte dos serviços do Estado, de parcelas do terreno que lhe é cedido, de área total não superior a 1 ha, destinadas à construção de edifícios para suas instalações, respectivos logradouros e eventuais serventias, conforme os planos aprovados nos termos do artigo 2.º
 
-###### Art. 4.º - 1. São mantidas as actuais ocupações dos terrenos onde se encontram implantadas construções licenciadas pela Direcção-Geral dos Serviços Hidráulicos até aos termos dos prazos estabelecidos nas respectivas licenças, passando, porém, as rendas correspondentes a essas ocupações a ser entregues à Câmara Municipal de Esposende, que, de harmonia com o disposto no n.º 2 do artigo 2.º, depositará metade nos cofres do Estado.
+Art. 4.º - 1. São mantidas as actuais ocupações dos terrenos onde se encontram implantadas construções licenciadas pela Direcção-Geral dos Serviços Hidráulicos até aos termos dos prazos estabelecidos nas respectivas licenças, passando, porém, as rendas correspondentes a essas ocupações a ser entregues à Câmara Municipal de Esposende, que, de harmonia com o disposto no n.º 2 do artigo 2.º, depositará metade nos cofres do Estado.
 
 2. A renovação da ocupação dos terrenos será requerida à Câmara Municipal com, pelo menos, um mês de antecedência em relação ao termo da validade das licenças concedidas.
 
@@ -118,7 +122,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Se para execução do plano de urbanização aprovado for necessário proceder à demolição de construções existentes, os ocupantes não terão direito a qualquer indemnização.
 
-###### Art. 5.º A Câmara Municipal poderá alienar talhões nas seguintes condições:
+Art. 5.º A Câmara Municipal poderá alienar talhões nas seguintes condições:
 
 a) Os talhões onde se localizam as construções referidas no artigo 4.º, e desde que elas se harmonizem com o plano de urbanização, serão vendidos aos respectivos ocupantes que assim o requeiram pelo preço resultante de avaliação que para a efeito se realizará.
 
@@ -126,20 +130,20 @@ Essa avaliação será efectuada por três peritos: um nomeado pela Câmara Muni
 
 b) Os talhões não ocupados e destinados a construções particulares, conforme o plano aprovado, serão vendidos em hasta pública.
 
-###### Art. 6.º - 1. Se ao terreno cedido não for dada a utilização expressa no artigo 2.º no prazo de três anos, ou se a Câmara Municipal não cumprir qualquer outra das condições impostas no presente decreto, a cessão ficará imediatamente anulada, revertendo para o Estado toda a parte da área cedida que ainda se encontre na posse daquele Município e sem que a este seja devida qualquer indemnização por benfeitorias nela realizadas.
+Art. 6.º - 1. Se ao terreno cedido não for dada a utilização expressa no artigo 2.º no prazo de três anos, ou se a Câmara Municipal não cumprir qualquer outra das condições impostas no presente decreto, a cessão ficará imediatamente anulada, revertendo para o Estado toda a parte da área cedida que ainda se encontre na posse daquele Município e sem que a este seja devida qualquer indemnização por benfeitorias nela realizadas.
 
 2. O prazo fixado no corpo deste artigo poderá ser prorrogado por despacho do Ministro das Finanças, mediante pedido fundamentado da cessionária.
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 16 de Novembro de 1970.**
+Promulgado em 16 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 DESAFECTAÇÃO DE TERRENOS DO DOMÍNIO PÚBLICO MARÍTIMO E SUA CESSÃO À CÂMARA MUNICIPAL DE ESPOSENDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28600/18781879.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28600/18781879.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28600/18781879.pdf)
 
-**O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

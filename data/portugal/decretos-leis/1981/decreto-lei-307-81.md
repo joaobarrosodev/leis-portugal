@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26200/30083009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1981-568324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19595c11b8bb64b06e2e51db1e79a04a477ef3317ef233b524d586c2e52ae713
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b722cc0b7fac82f6ef88fa13128472231ac9d369b18f9bbbee85e6649163dca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Habitação Obras Públicas e Transportes
+- Ponte
+- Porto
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:222421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:222421:por
+  label: Revogado pelo(a) Decreto-Lei n.º 347/86 - Diário da República n.º 238/1986, Série I de 1986-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1986-222421
+  date: '1986-10-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:25Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +107,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado no Ministério da Habitação, Obras Públicas e Transportes, com carácter eventual, o Gabinete da Ponte Ferroviária sobre o Rio Douro (GPFD), com personalidade jurídica e autonomia administrativa.
+Artigo 1.º - 1 - É criado no Ministério da Habitação, Obras Públicas e Transportes, com carácter eventual, o Gabinete da Ponte Ferroviária sobre o Rio Douro (GPFD), com personalidade jurídica e autonomia administrativa.
 
 2 - O Gabinete da Ponte Ferroviária sobre o Rio Douro ficará na dependência directa do Ministério da Habitação, Obras Públicas e Transportes.
 
-###### Art. 2.º - 1 - O Gabinete tem por fim a promoção e coordenação de todas as actividades relacionadas com o empreendimento, competindo-lhe, nomeadamente:
+Art. 2.º - 1 - O Gabinete tem por fim a promoção e coordenação de todas as actividades relacionadas com o empreendimento, competindo-lhe, nomeadamente:
 
 a) Promover a elaboração de todos os estudos que se tornem necessários para a realização da obra ou com ela relacionados;
 
@@ -122,19 +131,19 @@ h) Dirigir e fiscalizar os trabalhos;
 
 i) Promover o pagamento das despesas.
 
-###### Art. 3.º - 1 - O Gabinete será constituído por 1 director e 3 vogais, os quais constituirão o conselho administrativo do Gabinete.
+Art. 3.º - 1 - O Gabinete será constituído por 1 director e 3 vogais, os quais constituirão o conselho administrativo do Gabinete.
 
 2 - O director e os 3 vogais serão nomeados pelo Ministro da Habitação, Obras Públicas e Transportes.
 
 3 - O director designará um dos vogais para o substituir nas suas faltas e impedimentos.
 
-###### Art. 4.º - 1 - O director e 2 vogais serão indicados pelo Ministro da Habitação, Obras Públicas e Transportes, sendo o outro vogal indicado pelo Ministro de Estado e das Finanças e do Plano.
+Art. 4.º - 1 - O director e 2 vogais serão indicados pelo Ministro da Habitação, Obras Públicas e Transportes, sendo o outro vogal indicado pelo Ministro de Estado e das Finanças e do Plano.
 
 2 - Ao vogal indicado pelo Ministro de Estado e das Finanças e do Plano compete superintender nos serviços administrativos e de expediente do Gabinete e coordenar as acções de carácter financeiro.
 
-###### Art. 5.º - 1 - O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Ministério da Habitação, Obras Públicas e Transportes.
+Art. 5.º - 1 - O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Ministério da Habitação, Obras Públicas e Transportes.
 
-###### Art. 6.º - 1 - O Gabinete será assistido por um conselho técnico consultivo, com a seguinte composição:
+Art. 6.º - 1 - O Gabinete será assistido por um conselho técnico consultivo, com a seguinte composição:
 
 a) 1 representante do Ministério da Qualidade de Vida;
 
@@ -150,15 +159,15 @@ f) 1 representante de entidades interessadas e especialistas de reconhecida comp
 
 2 - Os membros do conselho técnico consultivo serão nomeados pelo Ministro da Habitação, Obras Públicas e Transportes.
 
-###### Art. 7.º - 1 - O conselho técnico consultivo reunirá em sessões plenárias por determinação do Ministro da Habitação, Obras Públicas e Transportes ou a solicitação do director do Gabinete.
+Art. 7.º - 1 - O conselho técnico consultivo reunirá em sessões plenárias por determinação do Ministro da Habitação, Obras Públicas e Transportes ou a solicitação do director do Gabinete.
 
 2 - O representante do Ministro da Habitação, Obras Públicas e Transportes presidirá às sessões plenárias do conselho técnico consultivo.
 
 3 - Os membros do conselho técnico consultivo prestarão, individualmente, a assistência técnica que lhes for solicitada pelo director do Gabinete, dentro das respectivas especialidades.
 
-###### Art. 8.º Os vencimentos e gratificações dos membros do Gabinete, do pessoal a ele afecto e dos membros do conselho técnico consultivo serão fixados por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e da Reforma Administrativa.
+Art. 8.º Os vencimentos e gratificações dos membros do Gabinete, do pessoal a ele afecto e dos membros do conselho técnico consultivo serão fixados por despacho conjunto dos Ministros de Estado e das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e da Reforma Administrativa.
 
-###### Art. 9.º - 1 - As despesas do Gabinete serão suportadas por verbas a inscrever no orçamento do Gabinete do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 9.º - 1 - As despesas do Gabinete serão suportadas por verbas a inscrever no orçamento do Gabinete do Ministro da Habitação, Obras Públicas e Transportes.
 
 2 - No presente ano económico e enquanto não forem inscritas para o efeito as verbas referidas no número anterior, as despesas do Gabinete serão suportadas por comparticipações financeiras do Fundo Especial de Transportes Terrestres.
 
@@ -166,14 +175,14 @@ f) 1 representante de entidades interessadas e especialistas de reconhecida comp
 
 4 - As importâncias referidas no número anterior serão depositadas à ordem do Gabinete na Caixa Geral de Depósitos, devendo a respectiva conta ser movimentada por meio de cheques, que terão, obrigatoriamente, as assinaturas do director ou, em caso de impedimento, do seu substituto e de um vogal.
 
-###### Art. 10.º O Gabinete prestará anualmente contas de gerência ao Tribunal de Contas.
+Art. 10.º O Gabinete prestará anualmente contas de gerência ao Tribunal de Contas.
 
-###### Art. 11.º As dúvidas de interpretação e de aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 11.º As dúvidas de interpretação e de aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação, Obras Públicas e Transportes.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Novembro de 1981.**
+Promulgado em 4 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

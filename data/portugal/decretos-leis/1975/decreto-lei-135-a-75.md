@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 63/1975, 1º Suplemento, Série I de 1975-03-15
   number: '63'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 402-(1) a 402-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06301/00010002.pdf
 entry_into_force_dates: []
@@ -49,40 +49,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff862356431560e07a2995be4ed7f1cdc8a86541092efd3405c098740a4cf71d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e50f697683b5205d1d1084a40d74580e881c81a1a0754b5a4d1d1ca9189d60df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Companhia de Seguros
+- Definição de Competências
+- Nacionalização
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:502812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309909:por
+  label: "Prorrogado até 31.12.1975, relativamente às mútuas de seguros, o prazo fixado no nº 1 do art. 3º pelo DEC LEI.664/75.22.11.1975.MF,\
+    \ DG.IS [271] de 22.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/664-1975-309909
+  date: '1975-11-22'
+- type: amended_by
+  target: pt:dre:502812:por
+  label: "Determinada a inclusão da Companhia de Seguros Garantia na al. a) do art. 1º do presente diploma pelo DEC LEI.244/76.07.04.1976.MF,\
+    \ DG.IS [83] de 07.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1976-502812
+  date: '1976-04-07'
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:41Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +134,7 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São nacionalizadas todas as companhias de seguros com sede no continente e ilhas adjacentes, com excepção:
+Artigo 1.º São nacionalizadas todas as companhias de seguros com sede no continente e ilhas adjacentes, com excepção:
 
 a) Das Companhias de Seguros Europeia, Metrópole, Portugal, Portugal Previdente, A Social, Sociedade Portuguesa de Seguros e O Trabalho, dada a significativa participação de companhias de seguros estrangeiras no seu capital;
 
@@ -117,25 +142,25 @@ b) Das agências das companhias de seguros estrangeiras autorizadas para o exerc
 
 c) Das mútuas de seguros.
 
-###### Art. 2.º As acções das companhias mencionadas na alínea a) do artigo anterior em relação às quais não for demonstrado por forma inequívoca perante o Ministério das Finanças, dentro do prazo de trinta dias, que pertencem a companhias de seguros estrangeiras serão submetidas ao regime que for aplicado às acções das companhias de seguros nacionalizadas nos termos do presente diploma.
+Art. 2.º As acções das companhias mencionadas na alínea a) do artigo anterior em relação às quais não for demonstrado por forma inequívoca perante o Ministério das Finanças, dentro do prazo de trinta dias, que pertencem a companhias de seguros estrangeiras serão submetidas ao regime que for aplicado às acções das companhias de seguros nacionalizadas nos termos do presente diploma.
 
-###### Art. 3.º - 1. O Governo procederá dentro de noventa dias à revisão da legislação reguladora da actividade das companhias, agências e mútuas de seguros mencionadas nas alíneas a), b) e c) do artigo 1.º
+Art. 3.º - 1. O Governo procederá dentro de noventa dias à revisão da legislação reguladora da actividade das companhias, agências e mútuas de seguros mencionadas nas alíneas a), b) e c) do artigo 1.º
 
 2. Até à publicação da legislação a que se refere o número anterior, serão nomeados pelo Primeiro-Ministro, ouvido o Ministro das Finanças, delegados do Governo para as companhias mencionadas na alínea a) do artigo 1.º, com os poderes e funções definidos no [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, podendo um delegado do Governo exercer funções simultaneamente em mais de uma companhia.
 
-###### Art. 4.º As condições de reembolso dos accionistas das companhias nacionalizadas nos termos do presente diploma e a orgânica de gestão e fiscalização dessas companhias serão estabelecidas em legislação a publicar pelo Governo dentro de noventa dias.
+Art. 4.º As condições de reembolso dos accionistas das companhias nacionalizadas nos termos do presente diploma e a orgânica de gestão e fiscalização dessas companhias serão estabelecidas em legislação a publicar pelo Governo dentro de noventa dias.
 
-###### Art. 5.º São dissolvidos os actuais órgãos sociais das companhias de seguros nacionalizadas nos termos do presente diploma.
+Art. 5.º São dissolvidos os actuais órgãos sociais das companhias de seguros nacionalizadas nos termos do presente diploma.
 
-###### Art. 6.º - 1. O Primeiro-Ministro, ouvidos o Ministro das Finanças e os Sindicatos dos Profissionais de Seguros, nomeará, por despacho, comissões administrativas para as companhias nacionalizadas nos termos do presente diploma, compostas por três a cinco elementos de reconhecida competência em problemas de seguros.
+Art. 6.º - 1. O Primeiro-Ministro, ouvidos o Ministro das Finanças e os Sindicatos dos Profissionais de Seguros, nomeará, por despacho, comissões administrativas para as companhias nacionalizadas nos termos do presente diploma, compostas por três a cinco elementos de reconhecida competência em problemas de seguros.
 
 2. Poderá ser nomeada, nos termos do número anterior, uma mesma comissão administrativa para superintender simultaneamente em mais de uma companhia de seguros.
 
-###### Art. 7.º As comissões administrativas nomeadas nos termos do artigo anterior exercerão funções até à entrada em funcionamento dos órgãos de gestão que venham a ser constituídos nos termos previstos no artigo 4.º
+Art. 7.º As comissões administrativas nomeadas nos termos do artigo anterior exercerão funções até à entrada em funcionamento dos órgãos de gestão que venham a ser constituídos nos termos previstos no artigo 4.º
 
-###### Art. 8.º Os vogais das comissões administrativas de companhias de seguros nacionalizadas nos termos do presente diploma que tenham sido nomeados por portaria do Ministro das Finanças mantêm-se em funções.
+Art. 8.º Os vogais das comissões administrativas de companhias de seguros nacionalizadas nos termos do presente diploma que tenham sido nomeados por portaria do Ministro das Finanças mantêm-se em funções.
 
-###### Art. 9.º - 1. As comissões administrativas terão todos os poderes que, pela lei ou pelos estatutos das respectivas companhias de seguros, pertenciam aos conselhos de administração ou de gerência, com excepção:
+Art. 9.º - 1. As comissões administrativas terão todos os poderes que, pela lei ou pelos estatutos das respectivas companhias de seguros, pertenciam aos conselhos de administração ou de gerência, com excepção:
 
 a) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
 
@@ -143,20 +168,20 @@ b) Da capacidade para a prática de actos que não estejam estritamente relacion
 
 2. A prática dos actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização do Ministro das Finanças.
 
-###### Art. 10.º As remunerações dos membros das comissões administrativas, a atribuir enquanto esses membros exercerem tais funções, serão fixadas por despacho do Ministro das Finanças, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo das respectivas companhias.
+Art. 10.º As remunerações dos membros das comissões administrativas, a atribuir enquanto esses membros exercerem tais funções, serão fixadas por despacho do Ministro das Finanças, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo das respectivas companhias.
 
-###### Art. 11.º A responsabilidade perante terceiros, decorrente dos actos de gestão praticados pelos membros das comissões administrativas, será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+Art. 11.º A responsabilidade perante terceiros, decorrente dos actos de gestão praticados pelos membros das comissões administrativas, será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
 
-###### Art. 12.º As comissões administrativas elaborarão, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade e prestarão contas da mesma para apreciação pelo Ministro das Finanças.
+Art. 12.º As comissões administrativas elaborarão, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade e prestarão contas da mesma para apreciação pelo Ministro das Finanças.
 
-###### Art. 13.º Os membros dos conselhos de administração, de gerência ou fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+Art. 13.º Os membros dos conselhos de administração, de gerência ou fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
 
-###### Art. 14.º O presente diploma entra imediatamente em vigor.
+Art. 14.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 15 de Março de 1975.**
+Promulgado em 15 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

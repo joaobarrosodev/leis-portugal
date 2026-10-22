@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08200/08430845.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1982-607130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2404539bfbd93a2f20aa8aea8ce31542149d0668a80098affdce2ce97e90376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96dba9b15f7d2eb86a2d0f8e0ddedad606eba70a05f32d452eebdff8c06bb591
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Equiparação de Cargos
+- Instituto de Investigação Científica e Tropical
+- Laboratório Nacional de Investigação Científica Tropical
+- Museu Nacional de Etnologia
+- Orgânica
+- Presidente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438042:por
+  label: "Mantida a estrutura orgânica decorrente do presente diploma, até á entrada em vigor dos diplomas referidos nos arts.\
+    \ 24.º e 30.º do Dec Lei 297/2003 e revogadas as disposições que contrariem o referido Dec Lei, sem prejuízo do seu art.\
+    \ 33.º e as restantes diposições com a entrada em vigor do DR previsto no art. 24.º, pelo DEC LEI.297/2003.21.11.2003.MCES,\
+    \ DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2003-438042
+  date: '2003-11-21'
+- type: amended_by
+  target: pt:dre:233953:por
+  label: "Determinada, nos termos do art. 33º do Dec Lei 297/2003 de 21-Nov(Lei Orgânica do IICT), a cessação de todas as\
+    \ comissões de serviço de pessoal dirigente nomeado e provido nos termos do presente diploma, pelo DN.32/2005.03.01.2005.MFAP,\
+    \ DR.IS-B [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/32-2005-233953
+  date: '2005-01-03'
+- type: cites
+  target: pt:dre:231283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231306:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:27Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +137,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Laboratório Nacional de Investigação Científica Tropical (LNICT), criado pelo [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283), de 31 de Dezembro, passa a designar-se Instituto de Investigação Científica Tropical (IICT).
+Artigo 1.º - 1 - O Laboratório Nacional de Investigação Científica Tropical (LNICT), criado pelo [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283), de 31 de Dezembro, passa a designar-se Instituto de Investigação Científica Tropical (IICT).
 
 2 - As referências feitas no [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283) ao Laboratório deverão entender-se feitas ao Instituto.
 
 3 - As referências feitas no [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283) ao Ministério da Cultura e Ciência deverão entender-se feitas ao Ministério da Educação e das Universidades.
 
-###### Art. 2.º Os artigos 3.º, 6.º, 7.º, 8.º, 10.º, 11.º, 16.º e 17.º do [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283) passam a ter a seguinte redacção:
+Art. 2.º Os artigos 3.º, 6.º, 7.º, 8.º, 10.º, 11.º, 16.º e 17.º do [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283) passam a ter a seguinte redacção:
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Atribuições)
 
@@ -141,7 +177,7 @@ m) Organizar cursos e apoiar a especialização do pessoal necessário às activ
 
 2 - ...
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Nomeação do presidente)
 
@@ -151,7 +187,7 @@ m) Organizar cursos e apoiar a especialização do pessoal necessário às activ
 
 3 - ...
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Competências do presidente)
 
@@ -167,7 +203,7 @@ m) Organizar cursos e apoiar a especialização do pessoal necessário às activ
 
 6 - Se o cargo de vice-presidente for desempenhado por professor universitário, o mesmo poderá optar pelo estabelecido no n.º 3 do artigo 6.º do presente diploma.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Constituição do conselho geral)
 
@@ -185,7 +221,7 @@ d) ...
 
 3 - Servirá de secretário do conselho geral o secretário da comissão executiva.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Constituição da comissão executiva)
 
@@ -199,7 +235,7 @@ d) ...
 
 5 - O secretário da comissão executiva será nomeado por despacho do Ministro da Educação e das Universidades, sob proposta do presidente, de entre chefes de divisão e assessores com experiência nos domínios das actividades administrativas ligadas à investigação científica ou ao ensino superior.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Competência da comissão executiva)
 
@@ -221,7 +257,7 @@ g) Pronunciar-se sobre qualquer outro assunto que lhe seja submetido pelo presid
 
 2 - A comissão executiva poderá delegar em qualquer dos seus membros ou em outro pessoal do Instituto o exercício de alguns poderes incluídos na competência referida no número anterior, devendo os limites e condições dessa delegação ser definidos em acta.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Departamentos)
 
@@ -247,7 +283,7 @@ f) De Ciências Etnológicas e Etnomuseológicas.
 
 5 - Os directores de departamento poderão optar pelo vencimento de origem e remunerações complementares a que tenham direito nos termos dos respectivos estatutos das carreiras docente universitária e de investigação científica.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Competências dos departamentos)
 
@@ -269,16 +305,16 @@ Realizar as actividades sistemáticas estreitamente ligadas à produção, promo
 
 Realizar as actividades sistemáticas estreitamente ligadas à produção, promoção, difusão e aplicação de conhecimentos científicos e técnicos relativos às culturas ou segmentos de culturas de grupos étnicos ou sociais no domínio das ciências etnológicas ou antropológicas e etnomuseológicas.
 
-###### Art. 3.º O prazo fixado no artigo 47.º do [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283) contar-se-á a partir da data da entrada em vigor do presente diploma.
+Art. 3.º O prazo fixado no artigo 47.º do [Decreto-Lei n.º 532/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1979-231283) contar-se-á a partir da data da entrada em vigor do presente diploma.
 
-###### Art. 4.º - 1 - É revogado o [Decreto-Lei n.º 535/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/535-1979-231306), de 31 de Dezembro.
+Art. 4.º - 1 - É revogado o [Decreto-Lei n.º 535/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/535-1979-231306), de 31 de Dezembro.
 
 2 - O património do Instituto-Museu Nacional de Etnologia passa a pertencer ao IICT.
 
 Visto e aprovado em Conselho de Ministros de Fevereiro de 1982. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 25 de Março de 1982.**
+Promulgado em 25 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

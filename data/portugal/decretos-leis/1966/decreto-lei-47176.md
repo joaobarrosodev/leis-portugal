@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47176-1966-479625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6f9e4c5abb445bae8bed6ac4b18532e8b4a7a0de467213f388459e95d497f18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8761e92da2213f4c87b7ae54ac06829f94a8c70087b8c7e23f092e0a9a7d449b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casa do Douro
+- Comércio
+- Exportação
+- Grémio dos Exportadores do Vinho do Porto
+- Instituto do Vinho do Porto
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:553419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:163440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650484:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:07Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +156,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os sócios do Grémio dos Exportadores de Vinho do Porto não poderão, a partir de 1 de Janeiro de 1967, exportar, vender ou ceder, quer por troca, quer por empréstimo, em cada ano civil, quantidades de vinho superiores às que resultarem da sua capacidade de venda, a qual é determinada de acordo com as regras constantes dos artigos seguintes.
+Artigo 1.º Os sócios do Grémio dos Exportadores de Vinho do Porto não poderão, a partir de 1 de Janeiro de 1967, exportar, vender ou ceder, quer por troca, quer por empréstimo, em cada ano civil, quantidades de vinho superiores às que resultarem da sua capacidade de venda, a qual é determinada de acordo com as regras constantes dos artigos seguintes.
 
 § único. A tolerância prevista na alínea 20) do artigo 84.º do [Decreto n.º 7934](https://diariodarepublica.pt/dr/detalhe/decreto/7934-1921-579512), de 16 de Dezembro de 1921, é fixada em 5 por cento, e sòmente para menos, sobre o saldo da conta corrente a que se refere o artigo 65.º e seus parágrafos desse mesmo decreto.
 
-###### Art. 2.º A capacidade inicial de venda de cada exportador é fixada em função das existências registadas em seu nome no Instituto do Vinho do Porto, em 31 de Dezembro do ano anterior, nos termos seguintes:
+Art. 2.º A capacidade inicial de venda de cada exportador é fixada em função das existências registadas em seu nome no Instituto do Vinho do Porto, em 31 de Dezembro do ano anterior, nos termos seguintes:
 
 a) Um terço dos vinhos de mais de um ano;
 
@@ -146,7 +172,7 @@ d) A percentagem resultante da fórmula (A/B) = (30/X') se os vinhos adquiridos 
 
 § único. Por vinhos adquiridos na vindima entender-se-ão aqueles que satisfaçam os preceitos regulamentares estabelecidos pelo Instituto do Vinho do Porto, ouvido o seu conselho geral.
 
-###### Art. 3.º Os exportadores poderão durante o ano adquirir capacidade de venda pela compra à produção, incluindo a Casa do Douro, de vinhos generosos, os quais atribuirão, conforme a idade, a seguinte capacidade de venda:
+Art. 3.º Os exportadores poderão durante o ano adquirir capacidade de venda pela compra à produção, incluindo a Casa do Douro, de vinhos generosos, os quais atribuirão, conforme a idade, a seguinte capacidade de venda:
 
 Até 3 anos - 20 por cento;
 
@@ -166,12 +192,12 @@ De mais de 6 anos - 100 por cento.
 
 § 4.º Os vinhos em poder da lavoura ficarão em regime de contas correntes com a Casa do Douro, que as comunicará ao Instituto para efeitos de fiscalização e confirmação de data, se a merecerem.
 
-###### Art. 4.º O regime estabelecido no presente diploma não é aplicável aos exportadores que se encontrem em regime de liquidação.
+Art. 4.º O regime estabelecido no presente diploma não é aplicável aos exportadores que se encontrem em regime de liquidação.
 
-###### Art. 5.º A partir da publicação deste decreto-lei e durante o ano civil em curso, os exportadores poderão utilizar a faculdade concedida no artigo 3.º sem o condicionalismo estabelecido nos seus §§ 2.º e 4.º
+Art. 5.º A partir da publicação deste decreto-lei e durante o ano civil em curso, os exportadores poderão utilizar a faculdade concedida no artigo 3.º sem o condicionalismo estabelecido nos seus §§ 2.º e 4.º
 
-###### Art. 6.º O presente diploma revoga os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 42604](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42604-1959-440491), de 21 de Outubro de 1959.
+Art. 6.º O presente diploma revoga os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 42604](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42604-1959-440491), de 21 de Outubro de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.

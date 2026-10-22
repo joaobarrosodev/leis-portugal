@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 300/1975, 4º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2160-(45) a 2160-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30004/00450053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/764-1975-355320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3303f4af6e63497d12ef41e0707822c06d629da24ce963e789d3587f0b106d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11b63a697b899fb054b3379f4b1874ac4c3a804ac7d8e022c7f5fa626ceb01ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Rural
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Predial
+- Exploração Agrícola
+- Imposto sobre a Indústria Agrícola
+- Isenção Fiscal
+- Prédio Rústico
+- Prédio Urbano
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:527663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139678:por
+  label: "Alterada e substituida a tabela das percentagens para cálculo dos encargos anuais a deduzir ao valor locativo dos\
+    \ prédios urbanos a que se refere o art. 115.º e a al. b) do art. 121.º do Código da Contribuição Predial e do Imposto\
+    \ sobre a Indústria Agrícola, aprovado pelo Dec Lei 45104, de 01-Jul, alterada pelo presente diploma, pela Port.175/77.29.03.1977.MF,\
+    \ DR.IS [74] de 29.03.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-1977-139678
+  date: '1977-03-29'
+- type: amended_by
+  target: pt:dre:527663:por
+  label: "Alterada e Substituida a tabela das percentagens a que se referem os art 115º e al b) do 121º do Código da contribuição\
+    \ Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo Dec Lei 45104 de 01-Jul 1963, na redacção do presente\
+    \ diploma, pela PORT.214/97.1997.03.31.MF, DR.IS-B [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/214-1997-527663
+  date: '1997-03-31'
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689182:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507402:por
+  label: "Rectificado pela RECT.DD27.1976.02.09.PCM, DG.IS [51] de 01.03.1976.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-507402
+  date: '1976-02-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:26Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +145,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aditado ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola o artigo 300.º-A, passando a ter nova redacção os seus artigos 116.º, 121.º, 123.º, 129.º, 150.º, 176.º, 182.º, 187.º, 213.º, 214.º, 218.º a 220.º, 222.º, 226.º, 227.º, 229.º a 231.º, 240.º, 242.º, 243.º, 251.º, 263.º, 265.º, 278.º, 292.º, 296.º, 298.º, 301.º, 302.º, 304.º, 315.º, 319.º, 323.º, 324.º, 329.º a 331.º, 335.º a 349.º, 358.º, 367.º e 376.º:
+Artigo 1.º É aditado ao Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola o artigo 300.º-A, passando a ter nova redacção os seus artigos 116.º, 121.º, 123.º, 129.º, 150.º, 176.º, 182.º, 187.º, 213.º, 214.º, 218.º a 220.º, 222.º, 226.º, 227.º, 229.º a 231.º, 240.º, 242.º, 243.º, 251.º, 263.º, 265.º, 278.º, 292.º, 296.º, 298.º, 301.º, 302.º, 304.º, 315.º, 319.º, 323.º, 324.º, 329.º a 331.º, 335.º a 349.º, 358.º, 367.º e 376.º:
 
-###### Art. 116.º ...
+Art. 116.º ...
 
 § 1.º ...
 
@@ -118,7 +161,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 121.º Os abatimentos referidos no artigo 113.º serão calculados pela forma seguinte:
+Art. 121.º Os abatimentos referidos no artigo 113.º serão calculados pela forma seguinte:
 
 a) A percentagem para despesas de conservação dos prédios, fixada na avaliação e constante da matriz, recairá sobre o valor locativo;
 
@@ -130,25 +173,25 @@ b) Os encargos suportados pelo titular do direito ao rendimento serão deduzidos
 
 ...
 
-###### Art. 123.º Para determinação do rendimento colectável, que há-de servir de base à liquidação das colectas, será preenchido um verbete, conforme modelo aprovado, mencionando as rendas recebidas separadamente por andares ou divisões, os abatimentos que devam ter lugar e o rendimento líquido sujeito a tributação.
+Art. 123.º Para determinação do rendimento colectável, que há-de servir de base à liquidação das colectas, será preenchido um verbete, conforme modelo aprovado, mencionando as rendas recebidas separadamente por andares ou divisões, os abatimentos que devam ter lugar e o rendimento líquido sujeito a tributação.
 
 § único. ...
 
 ...
 
-###### Art. 129.º Compete ao director de finanças distrital autorizar as avaliações propostas, nos termos do § único do artigo 150.º e do artigo 265.º, e ao chefe da repartição de finanças dispensar a avaliação dos prédios que se encontrem nas condições previstas no artigo 219.º
+Art. 129.º Compete ao director de finanças distrital autorizar as avaliações propostas, nos termos do § único do artigo 150.º e do artigo 265.º, e ao chefe da repartição de finanças dispensar a avaliação dos prédios que se encontrem nas condições previstas no artigo 219.º
 
 § único. ...
 
 ...
 
-###### Art. 150.º ...
+Art. 150.º ...
 
 § único. Findo aquele prazo, o chefe da repartição de finanças promoverá a avaliação dos prédios que nas cadernetas estejam omissos e organizará proposta de avaliação dos que nelas figurem com rendimento manifestamente inferior ao real.
 
 ...
 
-###### Art. 176.º ...
+Art. 176.º ...
 
 § 1.º As cadernetas prediais poderão ser substituídas, na parte respeitante ao extracto dos elementos matriciais constantes das matrizes organizadas nos termos do artigo 158.º, por fotocópias devidamente autenticadas, devendo considerar-se também reportadas a estas últimas as disposições que nos artigos seguintes se referem a cadernetas.
 
@@ -160,23 +203,23 @@ b) Os encargos suportados pelo titular do direito ao rendimento serão deduzidos
 
 ...
 
-###### Art. 182.º Nos concelhos onde se encontrar estabelecido o registo predial obrigatório, a anotação das cotas de referência da descrição dos prédios e das inscrições em vigor e respectivos cancelamentos será feita no lugar próprio das cadernetas, que, no caso da sua substituição pelas fotocópias referidas no § 2.º do artigo 176.º, será a folha mencionada no § 3.º do mesmo artigo.
+Art. 182.º Nos concelhos onde se encontrar estabelecido o registo predial obrigatório, a anotação das cotas de referência da descrição dos prédios e das inscrições em vigor e respectivos cancelamentos será feita no lugar próprio das cadernetas, que, no caso da sua substituição pelas fotocópias referidas no § 2.º do artigo 176.º, será a folha mencionada no § 3.º do mesmo artigo.
 
 § único. Quando a caderneta, na parte respeitante aos elementos referidos neste artigo, não comporte mais averbamentos, ou quando seja de modelo que não tenha lugar para os fazer, serão estes continuados ou levados a efeito em folhas anexas, do modelo aprovado, que os contribuintes devem apresentar na competente conservatória, a fim de aí serem numeradas e incluídas nas cadernetas correspondentes, cabendo à conservatória anotar sempre nelas a inclusão daquelas folhas.
 
 ...
 
-###### Art. 187.º O serviço anual de conservação das matrizes será encerrado em 30 de Setembro.
+Art. 187.º O serviço anual de conservação das matrizes será encerrado em 30 de Setembro.
 
 ...
 
-###### Art. 213.º Os adquirentes, por qualquer título, de prédios omissos na matriz ou de direito a rendimentos desses prédios são obrigados a declarar a omissão na repartição de finanças, nos prazos de trinta ou de cento e oitenta dias, consoante se trate de aquisição por título oneroso ou por título gratuito, contados ambos da data da transmissão, salvo o disposto no artigo seguinte.
+Art. 213.º Os adquirentes, por qualquer título, de prédios omissos na matriz ou de direito a rendimentos desses prédios são obrigados a declarar a omissão na repartição de finanças, nos prazos de trinta ou de cento e oitenta dias, consoante se trate de aquisição por título oneroso ou por título gratuito, contados ambos da data da transmissão, salvo o disposto no artigo seguinte.
 
 § 1.º As declarações serão feitas em triplicado, em impressos do modelo referido no artigo 208.º, para os prédios urbanos, e em papel de formato legal, para os prédios rústicos, devendo as mesmas conter a situação, descrição e confrontações dos prédios, bem como a data a partir da qual ficaram sujeitos a contribuição.
 
 § 2.º ...
 
-###### Art. 214.º Em caso de construção, reconstrução, modificação ou melhoramento de prédio urbano, deverá o facto ser declarado no impresso do modelo referido no artigo 208.º, o qual será apresentado, em triplicado, no mês imediato àquele em que tenha sido concedida a licença exigida pelo artigo 8.º do Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951.
+Art. 214.º Em caso de construção, reconstrução, modificação ou melhoramento de prédio urbano, deverá o facto ser declarado no impresso do modelo referido no artigo 208.º, o qual será apresentado, em triplicado, no mês imediato àquele em que tenha sido concedida a licença exigida pelo artigo 8.º do Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951.
 
 § 1.º ...
 
@@ -186,13 +229,13 @@ b) Os encargos suportados pelo titular do direito ao rendimento serão deduzidos
 
 ...
 
-###### Art. 218.º Apresentadas as declarações referidas nos artigos anteriores, serão, em seguida, entregues às comissões de avaliação, constituídas nos termos do artigo 132.º, acompanhadas de relações organizadas separadamente, com referência aos prédios a avaliar por cada uma das comissões, em cujo duplicado estas devem passar recibo, para que as avaliações fiquem concluídas dentro do prazo que lhes for designado pelo chefe da repartição de finanças, salvo motivo devidamente justificado.
+Art. 218.º Apresentadas as declarações referidas nos artigos anteriores, serão, em seguida, entregues às comissões de avaliação, constituídas nos termos do artigo 132.º, acompanhadas de relações organizadas separadamente, com referência aos prédios a avaliar por cada uma das comissões, em cujo duplicado estas devem passar recibo, para que as avaliações fiquem concluídas dentro do prazo que lhes for designado pelo chefe da repartição de finanças, salvo motivo devidamente justificado.
 
 § único. Quanto aos prédios de que não tenham sido apresentadas declarações, o chefe da repartição de finanças, em face dos elementos de que tratam os artigos 263.º e 264.º organizará, durante o mês seguinte ao último de cada trimestre, relações separadas daqueles prédios, uma para os rústicos e outra para os urbanos construídos de novo, reconstruídos, modificados ou melhorados, ou que estejam omissos na matriz, que entregará às comissões de avaliação, a fim de serem avaliados no prazo que nelas for designado pelo chefe da repartição de finanças.
 
-###### Art. 219.º É dispensada a avaliação dos prédios a que os serviços de fiscalização atribuam rendimento colectável não superior a 500$00, se o chefe da repartição de finanças entender desnecessária a avaliação, que serão inscritos na matriz depois de observado o disposto no artigo 129.º e seu parágrafo único.
+Art. 219.º É dispensada a avaliação dos prédios a que os serviços de fiscalização atribuam rendimento colectável não superior a 500$00, se o chefe da repartição de finanças entender desnecessária a avaliação, que serão inscritos na matriz depois de observado o disposto no artigo 129.º e seu parágrafo único.
 
-###### Art. 220.º A taxa da contribuição predial rústica é de 10%; a da contribuição predial urbana é de 13%, exceptuados os casos previstos no § 1.º do presente artigo.
+Art. 220.º A taxa da contribuição predial rústica é de 10%; a da contribuição predial urbana é de 13%, exceptuados os casos previstos no § 1.º do presente artigo.
 
 § 1.º As taxas da contribuição predial urbana, quando o valor locativo dos prédios situados no continente e ilhas adjacentes exceda o quantitativo global de 240000$00 por cada titular do direito ao respectivo rendimento, serão as seguintes:
 
@@ -212,17 +255,17 @@ b) Superior a 400000$00 ... 20
 
 ...
 
-###### Art. 222.º Às liquidações previstas nos artigos 230.º, § 2.º, e 231.º será aplicável a taxa do lançamento da contribuição predial do ano em que as mesmas liquidações hajam de efectuar-se.
+Art. 222.º Às liquidações previstas nos artigos 230.º, § 2.º, e 231.º será aplicável a taxa do lançamento da contribuição predial do ano em que as mesmas liquidações hajam de efectuar-se.
 
 ...
 
-###### Art. 226.º A contribuição respeitante aos prédios urbanos arrendados liquidar-se-á pelos rendimentos colectáveis resultantes das rendas efectivamente recebidas no ano a que as colectas respeitem.
+Art. 226.º A contribuição respeitante aos prédios urbanos arrendados liquidar-se-á pelos rendimentos colectáveis resultantes das rendas efectivamente recebidas no ano a que as colectas respeitem.
 
-###### Art. 227.º Depois de determinado por cada prédio o rendimento colectável que há-de servir de base à liquidação pela forma estabelecida no artigo 123.º, será aquele levado ao verbete de lançamento do respectivo contribuinte à coluna «Rendimento a tributar», para os efeitos previstos no artigo 236.º, o mesmo se observando, com as necessárias adaptações, quanto ao rendimento apurado nos termos do § 4.º do artigo 113.º ou a qualquer outro cuja determinação deva ter unicamente por base a declaração do contribuinte.
+Art. 227.º Depois de determinado por cada prédio o rendimento colectável que há-de servir de base à liquidação pela forma estabelecida no artigo 123.º, será aquele levado ao verbete de lançamento do respectivo contribuinte à coluna «Rendimento a tributar», para os efeitos previstos no artigo 236.º, o mesmo se observando, com as necessárias adaptações, quanto ao rendimento apurado nos termos do § 4.º do artigo 113.º ou a qualquer outro cuja determinação deva ter unicamente por base a declaração do contribuinte.
 
 ...
 
-###### Art. 229.º Quando a transmissão contratual origine mudança dos titulares do direito aos rendimentos dos prédios, nos termos do artigo 6.º, a contribuição predial será liquidada, por todo o ano, ao adquirente ou ao alheador, consoante ocorram, durante o 1.º ou o 2.º semestre, respectivamente, os seguintes factos:
+Art. 229.º Quando a transmissão contratual origine mudança dos titulares do direito aos rendimentos dos prédios, nos termos do artigo 6.º, a contribuição predial será liquidada, por todo o ano, ao adquirente ou ao alheador, consoante ocorram, durante o 1.º ou o 2.º semestre, respectivamente, os seguintes factos:
 
 a) Pagamento da sisa, nos casos em que esta deva preceder a transmissão;
 
@@ -232,21 +275,21 @@ c) Transmissão por título gratuito.
 
 § único. O disposto neste artigo não prejudica o direito de regresso do adquirente sobre o alheador ou deste sobre aquele relativo à parte da contribuição predial correspondente ao tempo em que, por um ou outro, não foi recebido nesse ano o respectivo rendimento.
 
-###### Art. 230.º ...
+Art. 230.º ...
 
 § 1.º ...
 
 § 2.º Na verificação e graduação dos créditos atender-se-á não só à contribuição constante da certidão a que se refere este artigo, mas ainda à que deva ser liquidada pelos meses decorridos até à data da venda ou da adjudicação do prédio.
 
-###### Art. 231.º Aos prédios que forem demolidos ou expropriados será liquidada a contribuição predial devida, com referência aos meses decorridos até ao início da demolição ou até à data da expropriação, para o que o titular do direito ao rendimento solicitará, até ao fim do mês seguinte àquelas datas, consoante o caso, a respectiva liquidação, cumprindo-lhe apresentar no mesmo prazo a declaração a que se refere o artigo 116.º, se o prédio tiver estado em regime de arrendamento.
+Art. 231.º Aos prédios que forem demolidos ou expropriados será liquidada a contribuição predial devida, com referência aos meses decorridos até ao início da demolição ou até à data da expropriação, para o que o titular do direito ao rendimento solicitará, até ao fim do mês seguinte àquelas datas, consoante o caso, a respectiva liquidação, cumprindo-lhe apresentar no mesmo prazo a declaração a que se refere o artigo 116.º, se o prédio tiver estado em regime de arrendamento.
 
 ...
 
-###### Art. 240.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.
+Art. 240.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.
 
 ...
 
-###### Art. 242.º Os conhecimentos de cobrança serão entregues ao tesoureiro da Fazenda Pública até ao dia 15 de Junho de cada ano.
+Art. 242.º Os conhecimentos de cobrança serão entregues ao tesoureiro da Fazenda Pública até ao dia 15 de Junho de cada ano.
 
 § 1.º O tesoureiro deverá expedir até 20 de Junho os avisos para pagamento à boca do cofre.
 
@@ -256,17 +299,17 @@ c) Transmissão por título gratuito.
 
 § 4.º Os contribuintes a que se refere o parágrafo anterior podem, porém, optar pelo pagamento na tesouraria que funciona junto da repartição central de finanças do correspondente concelho, se o requererem até 30 de Setembro, em pedido endereçado ao respectivo chefe, formulado em papel comum, o qual produzirá efeitos a partir do ano seguinte.
 
-###### Art. 243.º Quando a colecta for igual ou superior a 500$00, a contribuição predial deverá ser paga em duas prestações iguais, com vencimento, respectivamente, em Julho e Outubro.
+Art. 243.º Quando a colecta for igual ou superior a 500$00, a contribuição predial deverá ser paga em duas prestações iguais, com vencimento, respectivamente, em Julho e Outubro.
 
 Sendo de importância inferior a 500$00, o pagamento deverá ser efectuado de uma só vez, durante o mês de Julho.
 
 ...
 
-###### Art. 251.º A cobrança da contribuição predial liquidada nos termos do artigo 231.º efectuar-se-á, eventualmente, por uma só vez, até quinze dias depois da data em que for solicitada a liquidação, sem prejuízo do disposto no artigo 262.º
+Art. 251.º A cobrança da contribuição predial liquidada nos termos do artigo 231.º efectuar-se-á, eventualmente, por uma só vez, até quinze dias depois da data em que for solicitada a liquidação, sem prejuízo do disposto no artigo 262.º
 
 ...
 
-###### Art. 263.º Os serviços de fiscalização, sempre e à medida que as situações se lhes deparem, deverão organizar e apresentar na repartição de finanças competente um verbete, segundo o modelo aprovado, em relação a cada prédio que se encontre numa das seguintes condições:
+Art. 263.º Os serviços de fiscalização, sempre e à medida que as situações se lhes deparem, deverão organizar e apresentar na repartição de finanças competente um verbete, segundo o modelo aprovado, em relação a cada prédio que se encontre numa das seguintes condições:
 
 a) Prédios de que não haja ainda participação ou declaração e que tenham sido construídos, reconstruídos, melhorados ou ampliados, ou estejam omissos na matriz;
 
@@ -274,13 +317,13 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 ...
 
-###### Art. 265.º Os chefes das repartições de finanças, em presença dos elementos obtidos nos termos do artigo anterior e dos verbetes referidos no artigo 263.º, alínea b), organizarão anualmente, segundo o modelo aprovado, proposta de avaliação dos prédios cujos rendimentos inscritos na matriz se suspeite serem inferiores aos que devam corresponder-lhes.
+Art. 265.º Os chefes das repartições de finanças, em presença dos elementos obtidos nos termos do artigo anterior e dos verbetes referidos no artigo 263.º, alínea b), organizarão anualmente, segundo o modelo aprovado, proposta de avaliação dos prédios cujos rendimentos inscritos na matriz se suspeite serem inferiores aos que devam corresponder-lhes.
 
 § único. ...
 
 ...
 
-###### Art. 278.º O resultado de quaisquer avaliações que venham a efectuar-se depois de organizadas as matrizes será sempre notificado aos contribuintes que tenham legitimidade para impugná-lo, e, quando a notificação for feita por carta ou postal registado, com aviso de recepção, poderá a despesa ser satisfeita por conta da verba do expediente, para ser ulteriormente abonada por folha a processar.
+Art. 278.º O resultado de quaisquer avaliações que venham a efectuar-se depois de organizadas as matrizes será sempre notificado aos contribuintes que tenham legitimidade para impugná-lo, e, quando a notificação for feita por carta ou postal registado, com aviso de recepção, poderá a despesa ser satisfeita por conta da verba do expediente, para ser ulteriormente abonada por folha a processar.
 
 § 1.º Tratando-se de prédio submetido ao regime de propriedade horizontal, a avaliação de todo o conjunto será notificada ao respectivo administrador, havendo-o, e, neste caso, poderá o resultado ser impugnado ou ser requerida segunda avaliação no prazo de oito dias, decorrido o de vinte dias de dilação. Não existindo administrador, proceder-se-á à notificação de cada um dos condóminos, a qual, neste caso, respeitará apenas à parte de cada um no condomínio.
 
@@ -288,13 +331,13 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 ...
 
-###### Art. 292.º ...
+Art. 292.º ...
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 100$00.
 
 ...
 
-###### Art. 296.º A falta de apresentação das declarações referidas nos artigos 116.º e 117.º, bem como dos elementos referidos no § 1.º do artigo 116.º, será punida com multa igual a 20% do rendimento colectável correspondente às rendas convencionadas, no mínimo de 200$00.
+Art. 296.º A falta de apresentação das declarações referidas nos artigos 116.º e 117.º, bem como dos elementos referidos no § 1.º do artigo 116.º, será punida com multa igual a 20% do rendimento colectável correspondente às rendas convencionadas, no mínimo de 200$00.
 
 § 1.º Se a apresentação se fizer fora do prazo, a multa será fixada entre 200$00 e 10000$00, considerando-se como falta de apresentação a entrega da declaração para além de 31 de Dezembro do ano em que deveria ter sido apresentada.
 
@@ -304,7 +347,7 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 ...
 
-###### Art. 298.º A declaração efectuada nos termos do artigo 118.º terá por efeito conferir ao arrendatário ou ao sublocatário a faculdade de se desobrigar do pagamento de qualquer renda, até que o locador ou o sublocador procedam, junto da repartição de finanças competente, à correcção da sua declaração, em termos de se tornar inteiramente exacta.
+Art. 298.º A declaração efectuada nos termos do artigo 118.º terá por efeito conferir ao arrendatário ou ao sublocatário a faculdade de se desobrigar do pagamento de qualquer renda, até que o locador ou o sublocador procedam, junto da repartição de finanças competente, à correcção da sua declaração, em termos de se tornar inteiramente exacta.
 
 § 1.º O regime previsto no corpo do presente artigo não prejudica o lançamento da contribuição sobre o rendimento colectável resultante da renda convencionada entre as partes.
 
@@ -312,25 +355,25 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 ...
 
-###### Art. 300.º-A. A falta de apresentação das declarações previstas no § 3.º do artigo 220.º, bem como as omissões ou inexactidões das declarações apresentadas, serão punidas com multa igual ao triplo da contribuição que, em consequência, deixou de ser liquidada.
+Art. 300.º-A. A falta de apresentação das declarações previstas no § 3.º do artigo 220.º, bem como as omissões ou inexactidões das declarações apresentadas, serão punidas com multa igual ao triplo da contribuição que, em consequência, deixou de ser liquidada.
 
 § 1.º A apresentação fora do prazo das mesmas declarações, bem como qualquer omissão ou inexactidão nelas praticadas, de que não resulte falta de liquidação de imposto serão punidas com multa de 500$00 e 5000$00.
 
 § 2.º Considera-se sempre como falta de apresentação a entrega da declaração para além de 31 de Dezembro do ano em que deveria ter sido apresentada.
 
-###### Art. 301.º Os titulares do direito ao rendimento dos prédios que se encontrem omissos na matriz incorrerão em multa igual ao dobro da contribuição predial correspondente aos meses que tenham decorrido depois de findos os prazos de que tratam os artigos 213.º e 214.º, até ao mês, inclusive, em que a declaração tenha sido entregue, a liquidar nos termos do artigo 233.º, ou igual à que deveria ser liquidada se o prédio não gozasse de isenção.
+Art. 301.º Os titulares do direito ao rendimento dos prédios que se encontrem omissos na matriz incorrerão em multa igual ao dobro da contribuição predial correspondente aos meses que tenham decorrido depois de findos os prazos de que tratam os artigos 213.º e 214.º, até ao mês, inclusive, em que a declaração tenha sido entregue, a liquidar nos termos do artigo 233.º, ou igual à que deveria ser liquidada se o prédio não gozasse de isenção.
 
 § único. Se as declarações referidas naqueles artigos tiverem sido apresentadas antes de iniciado o procedimento para aplicação das multas, serão estas de importância igual à contribuição calculada na mesma base definida no corpo deste artigo.
 
-###### Art. 302.º O contribuinte que não solicite a liquidação da contribuição nos termos do artigo 231.º dentro dos prazos estabelecidos ou, fazendo-o, não apresente a declaração referida no artigo 116.º, incorrerá em multa de 200$00 a 10000$00, ficando sujeito a igual multa aquele que não apresente a declaração mencionada no § único do artigo 35.º ou a participação a que alude o artigo 119.º
+Art. 302.º O contribuinte que não solicite a liquidação da contribuição nos termos do artigo 231.º dentro dos prazos estabelecidos ou, fazendo-o, não apresente a declaração referida no artigo 116.º, incorrerá em multa de 200$00 a 10000$00, ficando sujeito a igual multa aquele que não apresente a declaração mencionada no § único do artigo 35.º ou a participação a que alude o artigo 119.º
 
 ...
 
-###### Art. 304.º Pela apresentação fora do prazo de quaisquer declarações ou participações exigidas na parte I deste diploma e, bem assim, por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 200$00 a 10000$00.
+Art. 304.º Pela apresentação fora do prazo de quaisquer declarações ou participações exigidas na parte I deste diploma e, bem assim, por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 200$00 a 10000$00.
 
 ...
 
-###### Art. 315.º ...
+Art. 315.º ...
 
 § 1.º Exceptua-se o lucro das explorações agrícolas e pecuárias não conexas com a exploração da terra que se encontrem integradas em explorações industriais, o qual fica sujeito a contribuição industrial.
 
@@ -338,11 +381,11 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 ...
 
-###### Art. 319.º Ficam igualmente isentas de imposto as explorações agrícolas, silvícolas ou pecuárias cujo lucro anual não seja superior a 100000$00 e as explorações agrícolas e pecuárias sem terra referidas no § 2.º do artigo 315.º cujo lucro anual não exceda 50000$00.
+Art. 319.º Ficam igualmente isentas de imposto as explorações agrícolas, silvícolas ou pecuárias cujo lucro anual não seja superior a 100000$00 e as explorações agrícolas e pecuárias sem terra referidas no § 2.º do artigo 315.º cujo lucro anual não exceda 50000$00.
 
 § único. ...
 
-###### Art. 323.º ...
+Art. 323.º ...
 
 § 1.º ...
 
@@ -354,7 +397,7 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 § 5.º É proibido às empresas com escrita devidamente organizada efectuarem despesas confidenciais ou não documentadas.
 
-###### Art. 324.º ...
+Art. 324.º ...
 
 § 1.º No apuramento do lucro das explorações silvícolas plurianuais considerar-se-á o valor de todo o produto realizado no ano anterior, sendo de abater os encargos referidos nas alíneas a) ou b) do corpo deste artigo suportados durante o ciclo de produção, mas só na parte equivalente àquela espécie de exploração e à percentagem que a extracção feita representa em relação à produção total do mesmo produto, desde que não tenham sido ainda considerados em anteriores deduções.
 
@@ -362,7 +405,7 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 ...
 
-###### Art. 329.º Todas as pessoas que tenham estabelecido explorações agrícolas, silvícolas ou pecuárias em prédios cujo rendimento colectável totalize mais de 75000$00 deverão apresentar, até 15 de Abril de cada ano, uma declaração do modelo aprovado, em que, além da identificação dos prédios, se indiquem, relativamente ao ano anterior, o regime de exploração, a renda paga, o equipamento móvel e fixo, discriminação de todo o gado, incluindo o de trabalho, o rendimento bruto, as despesas e o lucro da exploração.
+Art. 329.º Todas as pessoas que tenham estabelecido explorações agrícolas, silvícolas ou pecuárias em prédios cujo rendimento colectável totalize mais de 75000$00 deverão apresentar, até 15 de Abril de cada ano, uma declaração do modelo aprovado, em que, além da identificação dos prédios, se indiquem, relativamente ao ano anterior, o regime de exploração, a renda paga, o equipamento móvel e fixo, discriminação de todo o gado, incluindo o de trabalho, o rendimento bruto, as despesas e o lucro da exploração.
 
 § 1.º Tratando-se das explorações referidas no § 2.º do artigo 315.º, a declaração deve ser apresentada independentemente do rendimento colectável dos prédios em que porventura a exploração agrícola ou pecuária sem terra tenha sido exercida.
 
@@ -370,17 +413,17 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 § 3.º Se o contribuinte estiver abrangido pela alínea a) do artigo 323.º e a sua sede ou centro administrativo se situar nos territórios sob administração portuguesa ou no estrangeiro, a declaração poderá ser apresentada durante o mês de Julho.
 
-###### Art. 330.º ...
+Art. 330.º ...
 
 § 1.º ...
 
 § 2.º Se a exploração abranger prédios localiza dos em concelhos diferentes dos da sede, centro administrativo ou estabelecimento principal, os contribuintes que não tenham escrita devidamente organizada nos termos previstos na alínea a) do artigo 323.º apresentarão também declaração, em triplicado, nas repartições de finanças de cada um deles, mas somente no respeitante à parte da exploração aí situada.
 
-###### Art. 331.º Quando se presuma que as explorações, embora estabelecidas em prédios com um total de rendimento colectável não superior a 75000$00, são susceptíveis de produzir lucros que excedam 100000$00, serão notificados, por postal registado com aviso de recepção, os respectivos agricultores para apresentarem, no prazo que lhes for designado, a declaração referida no artigo anterior.
+Art. 331.º Quando se presuma que as explorações, embora estabelecidas em prédios com um total de rendimento colectável não superior a 75000$00, são susceptíveis de produzir lucros que excedam 100000$00, serão notificados, por postal registado com aviso de recepção, os respectivos agricultores para apresentarem, no prazo que lhes for designado, a declaração referida no artigo anterior.
 
 ...
 
-###### Art. 335.º Quanto aos contribuintes referidos na alínea b) do artigo 323.º, os serviços de fiscalização prestarão informação sobre a exactidão dos elementos constantes das declarações, indicando, com a devida fundamentação, o lucro tributável que entendam dever ser fixado, ou justificando por que concluem pela sua inexistência.
+Art. 335.º Quanto aos contribuintes referidos na alínea b) do artigo 323.º, os serviços de fiscalização prestarão informação sobre a exactidão dos elementos constantes das declarações, indicando, com a devida fundamentação, o lucro tributável que entendam dever ser fixado, ou justificando por que concluem pela sua inexistência.
 
 § 1.º Na falta de declaração, cumpre à fiscalização fornecer oficiosamente ao chefe da repartição de finanças os elementos indispensáveis à determinação da matéria colectável, com observância do determinado no corpo deste artigo.
 
@@ -388,7 +431,7 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 § 3.º Tanto a informação referida no corpo do presente artigo como os elementos mencionados no § 1.º devem ser prestados até 15 de Maio.
 
-###### Art. 336.º ...
+Art. 336.º ...
 
 § 1.º Os factos declarados serão, sempre que se julgue conveniente, verificados por técnicos dos quadros especiais da Direcção-Geral das Contribuições e Impostos, que emitirão parecer fundamentado com vista ao correcto apuramento da matéria colectável.
 
@@ -396,13 +439,13 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 § 3.º Subsistindo a impossibilidade de determinar a matéria colectável, ou havendo dúvida fundada sobre se o resultado da escrita corresponde ou não à realidade, será o rendimento fixado nos mesmos termos em que o é para os contribuintes referidos na alínea b) do artigo 323.º
 
-###### Art. 337.º Em face das declarações dos contribuintes de que trata a alínea b) do artigo 323.º, da informação devidamente fundamentada dos serviços de fiscalização e de quaisquer outros elementos de que disponha, competirá ao chefe da repartição de finanças calcular o rendimento bruto e os encargos de cada um dos contribuintes, no ano anterior, fixando o montante dos seus lucros, quando deva presumir que os tenha obtido.
+Art. 337.º Em face das declarações dos contribuintes de que trata a alínea b) do artigo 323.º, da informação devidamente fundamentada dos serviços de fiscalização e de quaisquer outros elementos de que disponha, competirá ao chefe da repartição de finanças calcular o rendimento bruto e os encargos de cada um dos contribuintes, no ano anterior, fixando o montante dos seus lucros, quando deva presumir que os tenha obtido.
 
 § 1.º Quando uma parte do rendimento bruto resulte de exploração silvícola plurianual, serão considerados, para a fixação, não só o quantitativo desta parte como os encargos referidos no artigo 324.º correspondentes a todo o período de formação daquele rendimento e também o rendimento líquido resultante.
 
 § 2.º Quando o lucro tributável fixado divergir do indicado pelos serviços de fiscalização, deverá o chefe da repartição de finanças fundamentar a sua decisão.
 
-###### Art. 338.º O chefe da repartição de finanças poderá promover exames ou vistorias em casos excepcionais de explorações complexas, caracterizadas pela diversidade de culturas ou pela extensão ou dispersão dos prédios.
+Art. 338.º O chefe da repartição de finanças poderá promover exames ou vistorias em casos excepcionais de explorações complexas, caracterizadas pela diversidade de culturas ou pela extensão ou dispersão dos prédios.
 
 § 1.º É da competência do director de finanças decidir sobre a realização de exames e vistorias, que lhe serão propostos pelo chefe da repartição de finanças.
 
@@ -410,15 +453,15 @@ b) Prédios de que os mesmos serviços suspeitem ser o rendimento inscrito infer
 
 § 3.º ...
 
-###### Art. 339.º O chefe da repartição de finanças deverá ter em conta todas as circunstâncias que possam influir na correcta determinação do lucro das explorações, designadamente as que resultem:
+Art. 339.º O chefe da repartição de finanças deverá ter em conta todas as circunstâncias que possam influir na correcta determinação do lucro das explorações, designadamente as que resultem:
 
 ...
 
-###### Art. 340.º Os trabalhos de fixação deverão ficar concluídos até 31 de Maio de cada ano e os rendimentos fixados serão patentes aos contribuintes, nas repartições de finanças, durante os quinze dias imediatos, o que se anunciará por meio de editais oportunamente afixados.
+Art. 340.º Os trabalhos de fixação deverão ficar concluídos até 31 de Maio de cada ano e os rendimentos fixados serão patentes aos contribuintes, nas repartições de finanças, durante os quinze dias imediatos, o que se anunciará por meio de editais oportunamente afixados.
 
 § único. ...
 
-###### Art. 341.º Da fixação dos lucros tributáveis poderão os contribuintes reclamar, de 1 a 15 de Junho, para o chefe da repartição de finanças.
+Art. 341.º Da fixação dos lucros tributáveis poderão os contribuintes reclamar, de 1 a 15 de Junho, para o chefe da repartição de finanças.
 
 § 1.º A reclamação prevista neste artigo será feita por meio de requerimento dirigido ao chefe da repartição de finanças, em que, sob pena de ser liminarmente rejeitada, se aleguem os respectivos fundamentos e se indiquem os rendimentos brutos, os encargos e o lucro tributável que devem ser considerados.
 
@@ -434,7 +477,7 @@ b) Se entender que a mesma não é procedente, remeter a reclamação à comiss�
 
 § 5.º As reclamações não terão efeito suspensivo.
 
-###### Art. 342.º Em cada direcção de finanças funcionará uma comissão de revisão dos lucros tributáveis, à qual competirá fixar a matéria colectável, no caso previsto na alínea b) do § 2.º e no § 4.º do artigo anterior, e que será constituída pela forma seguinte:
+Art. 342.º Em cada direcção de finanças funcionará uma comissão de revisão dos lucros tributáveis, à qual competirá fixar a matéria colectável, no caso previsto na alínea b) do § 2.º e no § 4.º do artigo anterior, e que será constituída pela forma seguinte:
 
 Presidente - o director de finanças do distrito;
 
@@ -444,7 +487,7 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 2.º Na falta de organismo que represente os contribuintes, ou quando pelo mesmo não seja feita a comunicação referida no parágrafo anterior, será notificada a junta distrital para, no prazo de oito dias, designar os respectivos delegados.
 
-###### Art. 343.º Recebidas as reclamações pela comissão distrital, poderá esta promover que lhe sejam juntos quaisquer outros documentos ou informações considerados úteis ao esclarecimento dos factos.
+Art. 343.º Recebidas as reclamações pela comissão distrital, poderá esta promover que lhe sejam juntos quaisquer outros documentos ou informações considerados úteis ao esclarecimento dos factos.
 
 § 1.º Para apreciação das reclamações poderá a comissão distrital ordenar exames e vistorias, nos termos do artigo 338.º
 
@@ -452,21 +495,21 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 3.º Quando a reclamação do contribuinte for totalmente desatendida, a comissão distrital fixará, a título de custas, um agravamento à verba principal da colecta, nunca superior a 5%, graduado conforme as circunstâncias, tendo em conta, nomeadamente, as despesas ocasionadas pelos exames ou vistorias.
 
-###### Art. 344.º As nomeações dos delegados da Fazenda Nacional recairão, sempre que possível, em técnicos indicados pelos serviços regionais dependentes do Ministério da Agricultura e Pescas.
+Art. 344.º As nomeações dos delegados da Fazenda Nacional recairão, sempre que possível, em técnicos indicados pelos serviços regionais dependentes do Ministério da Agricultura e Pescas.
 
-###### Art. 345.º O chefe da repartição de finanças e o director de finanças, na qualidade de presidente da comissão referida no artigo 342.º, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que careçam para a fixação dos lucros tributáveis ou apreciação das reclamações.
+Art. 345.º O chefe da repartição de finanças e o director de finanças, na qualidade de presidente da comissão referida no artigo 342.º, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que careçam para a fixação dos lucros tributáveis ou apreciação das reclamações.
 
-###### Art. 346.º As deliberações da comissão distrital de revisão serão tomadas por maioria, tendo o respectivo presidente voto de qualidade no caso de empate.
+Art. 346.º As deliberações da comissão distrital de revisão serão tomadas por maioria, tendo o respectivo presidente voto de qualidade no caso de empate.
 
 § 1.º O funcionamento e as deliberações das comissões serão válidos para todos os efeitos ainda que faltem os delegados dos contribuintes, quer por não comparecerem, quando tenham sido devidamente convocados, quer por não terem sido designados.
 
 § 2.º Das reuniões lavrar-se-ão actas avulsas, que conterão as deliberações tomadas e os respectivos fundamentos.
 
-###### Art. 347.º O lucro fixado pelo chefe da repartição de finanças ou pela comissão distrital de revisão não é susceptível de reclamação nem de impugnação nos termos do Código de Processo das Contribuições e Impostos, salvo se tiver havido preterição de formalidades legais, caso em que os contribuintes poderão recorrer para o tribunal de 1.ª instância das contribuições e impostos.
+Art. 347.º O lucro fixado pelo chefe da repartição de finanças ou pela comissão distrital de revisão não é susceptível de reclamação nem de impugnação nos termos do Código de Processo das Contribuições e Impostos, salvo se tiver havido preterição de formalidades legais, caso em que os contribuintes poderão recorrer para o tribunal de 1.ª instância das contribuições e impostos.
 
 § único. O recurso não tem efeito suspensivo e deverá ser interposto dentro do prazo de um ano a contar da data da decisão.
 
-###### Art. 348.º Tendo ocorrido, na determinação do lucro tributável, injustiça grave ou notória, poderão os contribuintes requerer ao director-geral das Contribuições e Impostos a revisão do lucro tributável pela entidade que proferiu a decisão.
+Art. 348.º Tendo ocorrido, na determinação do lucro tributável, injustiça grave ou notória, poderão os contribuintes requerer ao director-geral das Contribuições e Impostos a revisão do lucro tributável pela entidade que proferiu a decisão.
 
 § 1.º O pedido de revisão previsto neste artigo, devidamente fundamentado, deverá ser apresentado no prazo de um ano a contar da data da decisão e não tem efeito suspensivo.
 
@@ -476,17 +519,17 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 4.º As revisões referidas no corpo deste artigo e no § 2.º serão notificadas ao contribuinte pela forma prevista no § 3.º do artigo 341.º, podendo este, no caso de revisão efectuada pelo chefe da repartição de finanças, reclamar nos termos deste mesmo artigo, no prazo de quinze dias, a contar da notificação.
 
-###### Art. 349.º A taxa do imposto sobre a indústria agrícola é de 10% para as explorações agrícolas, silvícolas ou pecuárias referidas no corpo do artigo 315.º e de 15% para as explorações agrícolas e pecuárias sem terra, previstas no § 2.º do mesmo artigo.
+Art. 349.º A taxa do imposto sobre a indústria agrícola é de 10% para as explorações agrícolas, silvícolas ou pecuárias referidas no corpo do artigo 315.º e de 15% para as explorações agrícolas e pecuárias sem terra, previstas no § 2.º do mesmo artigo.
 
 § único. ...
 
 ...
 
-###### Art. 358.º As liquidações efectuadas sobre rendimentos que tenham constituído objecto de revisão ou reclamação serão corrigidas, quando for caso disso, por anulação ou liquidação adicional.
+Art. 358.º As liquidações efectuadas sobre rendimentos que tenham constituído objecto de revisão ou reclamação serão corrigidas, quando for caso disso, por anulação ou liquidação adicional.
 
 ...
 
-###### Art. 367.º ...
+Art. 367.º ...
 
 § 1.º A declaração será feita em duplicado e entregue antes que principie o exercício da actividade em cada concelho ou bairro quando a exploração inicialmente tenha sido estabelecida em prédios com um total de rendimento colectável superior a 75000$00 ou, nos demais casos, no prazo de trinta dias, a contar da data em que o mesmo rendimento passe a exceder aquele limite. Tratando-se das explorações referidas no § 2.º do artigo 315.º, a declaração deve ser apresentada independentemente do rendimento colectável dos prédios em que porventura a exploração agrícola ou pecuária sem terra vá iniciar-se.
 
@@ -496,7 +539,7 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 ...
 
-###### Art. 376.º ...
+Art. 376.º ...
 
 § 1.º ...
 
@@ -506,11 +549,11 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 § 4.º A infracção ao disposto no § 5.º do artigo 323.º será punida com multa igual à despesa efectuada, num mínimo de 5000$00.
 
-###### Art. 2.º É eliminado o § 3.º do artigo 119.º e são revogados os artigos 249.º e 250.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
+Art. 2.º É eliminado o § 3.º do artigo 119.º e são revogados os artigos 249.º e 250.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
 
-###### Art. 3.º A tabela dos encargos anuais a deduzir ao rendimento dos prédios urbanos, nos termos dos artigos 113.º e 115.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, é substituída pela tabela anexa ao presente decreto-lei.
+Art. 3.º A tabela dos encargos anuais a deduzir ao rendimento dos prédios urbanos, nos termos dos artigos 113.º e 115.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, é substituída pela tabela anexa ao presente decreto-lei.
 
-###### Art. 4.º - 1. Enquanto não for revista a legislação sobre avaliações, as diligências previstas nos artigos 109.º e 110.º do Código da Sisa e do Imposto sobre as Sucessões e Doações serão limitadas aos terrenos para construção e aos prédios ainda em construção, observando-se, quanto aos restantes, as disposições dos números seguintes.
+Art. 4.º - 1. Enquanto não for revista a legislação sobre avaliações, as diligências previstas nos artigos 109.º e 110.º do Código da Sisa e do Imposto sobre as Sucessões e Doações serão limitadas aos terrenos para construção e aos prédios ainda em construção, observando-se, quanto aos restantes, as disposições dos números seguintes.
 
 2. No caso de transmissão de prédios sem rendimento ou ainda não inscritos na matriz e de que tenha sido apresentada ou deva apresentar-se a declaração a que se referem os artigos 213.º ou 214.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, ou ainda nos casos em que esta obrigação não tenha surgido, mas em que os prédios já estejam concluídos, a sisa deverá ser liquidada pelo preço convencionado, organizando-se em seguida o processo de avaliação, nos termos do n.º 1.º do artigo 109.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, que, no entanto, se suspenderá até que seja possível determinar o valor dos prédios, nos termos do seu artigo 30.º, efectuadas que sejam as diligências de avaliação previstas naquele primeiro Código.
 
@@ -518,21 +561,21 @@ Vogais - um delegado da Fazenda Nacional, nomeado pelo director-geral das Contri
 
 4. Havendo contestação, e logo que fixado definitivamente o valor matricial, será o contribuinte notificado para, no prazo de trinta dias, efectuar o pagamento da diferença de sisa que se mostre devida.
 
-###### Art. 5.º - 1. As taxas estabelecidas no corpo do artigo 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, segundo a redacção dada pelo presente decreto-lei, serão aplicáveis aos rendimentos do ano de 1976 e seguintes, sendo as taxas do seu § 1.º e as disposições dos §§ 2.º a 5.º aplicáveis também aos rendimentos do ano de 1975.
+Art. 5.º - 1. As taxas estabelecidas no corpo do artigo 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, segundo a redacção dada pelo presente decreto-lei, serão aplicáveis aos rendimentos do ano de 1976 e seguintes, sendo as taxas do seu § 1.º e as disposições dos §§ 2.º a 5.º aplicáveis também aos rendimentos do ano de 1975.
 
 2. Nas liquidações da contribuição predial respeitantes aos rendimentos do ano de 1975 utilizar-se-ão ainda as taxas estabelecidas no artigo 220.º e seu § único do mesmo Código, com a redacção do [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), de 28 de Dezembro, sem prejuízo do disposto na parte final do número anterior.
 
-###### Art. 6.º As disposições dos artigos 315.º e seguintes do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com as modificações introduzidas pelo presente decreto-lei, são aplicáveis aos lucros das explorações agrícolas, silvícolas ou pecuárias do ano de 1974.
+Art. 6.º As disposições dos artigos 315.º e seguintes do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, com as modificações introduzidas pelo presente decreto-lei, são aplicáveis aos lucros das explorações agrícolas, silvícolas ou pecuárias do ano de 1974.
 
-###### Art. 7.º A correcção das matrizes prediais urbanas consequente da alteração da tabela dos encargos anuais mencionados nos artigos 115.º e 121.º, alínea b), do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, a deduzir nos termos dos artigos 113.º e 125.º, será efectuada simultaneamente com a correcção dos rendimentos colectáveis dos prédios urbanos, prevista no n.º 5 do artigo 2.º do [Decreto-Lei n.º 375/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1974-401755), de 20 de Agosto.
+Art. 7.º A correcção das matrizes prediais urbanas consequente da alteração da tabela dos encargos anuais mencionados nos artigos 115.º e 121.º, alínea b), do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, a deduzir nos termos dos artigos 113.º e 125.º, será efectuada simultaneamente com a correcção dos rendimentos colectáveis dos prédios urbanos, prevista no n.º 5 do artigo 2.º do [Decreto-Lei n.º 375/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1974-401755), de 20 de Agosto.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 22 de Dezembro de 1975.**
+Promulgado em 22 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Tabela das percentagens para cálculo dos encargos anuais a deduzir ao valor locativo dos prédios urbanos, nos termos dos artigos 115.º e 121.º, alínea b), do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
 
@@ -550,4 +593,4 @@ Tabela das percentagens para cálculo dos encargos anuais a deduzir ao valor loc
 
 Quando a soma das percentagens em relação a cada prédio terminar em fracção, será o resultado arredondado para a unidade imediatamente superior, se a fracção for igual ou superior a 0,5, e para a inferior, no caso contrário.
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30200/31543154.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1977-276598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c91d8db6cbfa51d165a0425d32fd87e3b87648ce79c5959cec735ebf473d5b30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35b85a764f1e33c2a36732c7d62bd2a28314a51a9dd7e183ad23627e23e44473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AVAL do Estado
+- Embarcação
+- Embarcação de Pesca
+- Empréstimo
+- Financiamento
+- Fundo de Renovação e Apetrechamento da Indústria da Pesca
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:296378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:643293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:296378:por
+  label: Revogado pelo DEC LEI.103/78.23.05.1978.MFP, DR.IS [118] de 23.05.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1978-296378
+  date: '1978-05-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:11Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +117,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 19.º do [Decreto-Lei n.º 268/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1971-643293), de 18 de Junho, passa a ter a seguinte redacção:
+Artigo único. O artigo 19.º do [Decreto-Lei n.º 268/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1971-643293), de 18 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 19.º - 1 - Os empréstimos e avales a conceder pelo Fundo para a aquisição ou construção de navios e outros empreendimentos não poderão exceder 75% do custo de aquisição ou construção, excepto quando os mutuários sejam empresas de pesca artesanal, local e costeira, ou cooperativas de pescadores, caso em que os empréstimos poderão atingir o valor total dos investimentos a realizar, em ordem à consecução dos objectivos previstos no Plano.
+Art. 19.º - 1 - Os empréstimos e avales a conceder pelo Fundo para a aquisição ou construção de navios e outros empreendimentos não poderão exceder 75% do custo de aquisição ou construção, excepto quando os mutuários sejam empresas de pesca artesanal, local e costeira, ou cooperativas de pescadores, caso em que os empréstimos poderão atingir o valor total dos investimentos a realizar, em ordem à consecução dos objectivos previstos no Plano.
 
 2 - Na determinação do montante dos empréstimos e avales a conceder deve ser tomado em consideração serem ou não de origem nacional os navios a adquirir ou a construir.
 
 Visto e aprovado em Conselho de Ministros - Mário Soares - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 21 de Dezembro de 1977.**
+Promulgado em 21 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

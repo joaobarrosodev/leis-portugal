@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 284/1967, 1º Suplemento, Série I de 1967-12-07
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2248 - 2248
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/28401/22482248.pdf
 entry_into_force_dates: []
@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48094-1967-138562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a185e0551d4b9a6c53423f18438358799dea0fcf404f6b5e86a453d1afe250c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46a4c18f0f817f8d3fd62f5c34df07b4e1cef7cac88d462db33ca8c2d4b49c95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Hospital do Ultramar
+- Ministério do Ultramar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:32Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +109,7 @@ Disposições especiais
 
 Hospital do Ultramar
 
-###### Artigo 1.º O mapa II «Quadro complementar de cirurgiões, especialistas e internistas», anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, passa a ter a seguinte constituição:
+Artigo 1.º O mapa II «Quadro complementar de cirurgiões, especialistas e internistas», anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, passa a ter a seguinte constituição:
 
 1) Pessoal de nomeação:
 
@@ -105,7 +121,7 @@ Hospital do Ultramar
 
 21 médicos especialistas ... L
 
-###### Art. 2.º Nos quadros de pessoal são criados os seguintes lugares:
+Art. 2.º Nos quadros de pessoal são criados os seguintes lugares:
 
 Pessoal de nomeação:
 
@@ -133,23 +149,23 @@ Pessoal assalariado:
 
 § único. Os lugares de tesoureiro-pagador, de encarregado de câmara escura e de perfuradora-verificadora, criados no corpo do artigo, são incluídos, respectivamente, nos grupos L, V e R, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 3.º Ao tesoureiro-pagador é atribuído o abono anual para falhas da importância de 6000$00.
+Art. 3.º Ao tesoureiro-pagador é atribuído o abono anual para falhas da importância de 6000$00.
 
 Centro de Documentação Técnico-Económica
 
-###### Art. 4.º É integrado no grupo L a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o encarregado do expediente da secretaria.
+Art. 4.º É integrado no grupo L a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o encarregado do expediente da secretaria.
 
 II
 
 Disposições gerais
 
-###### Art. 5.º São criados dois lugares de contínuo de 2.ª classe no quadro dos serviços gerais do Ministério do Ultramar, cujos encargos serão suportados pelos orçamentos privativos dos correios, telégrafos e telefones ultramarinos.
+Art. 5.º São criados dois lugares de contínuo de 2.ª classe no quadro dos serviços gerais do Ministério do Ultramar, cujos encargos serão suportados pelos orçamentos privativos dos correios, telégrafos e telefones ultramarinos.
 
 § único. Os referidos lugares serão providos, independentemente de quaisquer formalidades de nomeação, visto e posse, pelos indivíduos que actualmente vêm desempenhando as mesmas funções em regime de contrato de prestação de serviço nos serviços de valores postais.
 
-###### Art. 6.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1968.
+Art. 6.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

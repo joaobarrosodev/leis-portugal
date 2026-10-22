@@ -48,40 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45003-1963-628295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e89b2ebcd3010098cee57c68365990bf6d234ce760b96b7f0b7a63104eeba261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 584c3d29ea34d5d1be4c95709cea9bc3b211167935891e8580d84e1dc47c31b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Impresso
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:395700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:215560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678605:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:49Z'
   warnings: []
   errors: []
 ---
@@ -96,69 +107,69 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Serão elaborados por processo mecanográfico as folhas e os recibos de vencimentos e outros abonos certos dos servidores e pensionistas do Estado a que se entenda ser vantajoso aplicar aquele sistema, podendo adoptar-se igual procedimento em relação a todos ou alguns dos documentos que acompanham as folhas.
+Artigo 1.º Serão elaborados por processo mecanográfico as folhas e os recibos de vencimentos e outros abonos certos dos servidores e pensionistas do Estado a que se entenda ser vantajoso aplicar aquele sistema, podendo adoptar-se igual procedimento em relação a todos ou alguns dos documentos que acompanham as folhas.
 
-###### Art. 2.º As funções a que se refere o artigo anterior são atribuídas aos serviços mecanográficos do Ministério das Finanças, aos quais competirá, de acordo com a Direcção-Geral da Contabilidade Pública, decidir sobre as folhas que deverão ser processadas por sistema mecanográfico.
+Art. 2.º As funções a que se refere o artigo anterior são atribuídas aos serviços mecanográficos do Ministério das Finanças, aos quais competirá, de acordo com a Direcção-Geral da Contabilidade Pública, decidir sobre as folhas que deverão ser processadas por sistema mecanográfico.
 
-###### Art. 3.º As folhas de liquidação serão enviadas pelos serviços mecanográficos, em triplicado, às repartições da Direcção-Geral da Contabilidade Pública, destinando-se um exemplar a estas repartições e os outros ao cofre pagador e ao serviço interessado.
+Art. 3.º As folhas de liquidação serão enviadas pelos serviços mecanográficos, em triplicado, às repartições da Direcção-Geral da Contabilidade Pública, destinando-se um exemplar a estas repartições e os outros ao cofre pagador e ao serviço interessado.
 
-###### Art. 4.º As folhas serão constituídas por duas partes: da primeira constarão as importâncias ilíquidas relativas às diversas espécies de abonos, o total ilíquido, o valor dos descontos e a importância liquida a pagar; na segunda parte será feita a discriminação dos descontos e a indicação do seu valor total. O exemplar destinado ao cofre pagador conterá apenas a primeira parte da folha.
+Art. 4.º As folhas serão constituídas por duas partes: da primeira constarão as importâncias ilíquidas relativas às diversas espécies de abonos, o total ilíquido, o valor dos descontos e a importância liquida a pagar; na segunda parte será feita a discriminação dos descontos e a indicação do seu valor total. O exemplar destinado ao cofre pagador conterá apenas a primeira parte da folha.
 
-###### Art. 5.º Os funcionários e pensionistas figurarão nas folhas e recibos a elaborar por processo mecânico com o nome abreviado, continuando, porém, a assinatura dos recibos a ser feita com o nome que consta do bilhete de identidade.
+Art. 5.º Os funcionários e pensionistas figurarão nas folhas e recibos a elaborar por processo mecânico com o nome abreviado, continuando, porém, a assinatura dos recibos a ser feita com o nome que consta do bilhete de identidade.
 
 § único. A cada funcionário será passado, pela respectiva repartição da Direcção-Geral da Contabilidade Pública, um cartão de modelo a aprovar, contendo, além do respectivo número de ordem, o nome abreviado utilizado pelos serviços mecanográficos.
 
 Em relação aos pensionistas, aqueles elementos constarão dos correspondentes títulos.
 
-###### Art. 6.º Nas folhas elaboradas por processo mecanográfico deixarão de figurar as datas do visto do Tribunal de Contas e as declarações sobre bilhete de identidade e acumulações, elementos que, no entanto, constarão obrigatòriamente dos boletins de alterações a remeter pelos serviços às repartições da Contabilidade Pública.
+Art. 6.º Nas folhas elaboradas por processo mecanográfico deixarão de figurar as datas do visto do Tribunal de Contas e as declarações sobre bilhete de identidade e acumulações, elementos que, no entanto, constarão obrigatòriamente dos boletins de alterações a remeter pelos serviços às repartições da Contabilidade Pública.
 
-###### Art. 7.º Competirá e será da responsabilidade de cada serviço o fornecimento, dentro dos prazos legais, de todos os elementos que possam ter qualquer influência nos abonos ou descontos dos funcionários.
+Art. 7.º Competirá e será da responsabilidade de cada serviço o fornecimento, dentro dos prazos legais, de todos os elementos que possam ter qualquer influência nos abonos ou descontos dos funcionários.
 
 § único. As alterações a introduzir nas folhas serão comunicadas através de boletins individuais, de modelo a aprovar, que deverão conter todos os elementos necessários ao processamento e à verificação da legalidade dos abonos e descontos. Os boletins respeitantes a cada folha serão remetidos à respectiva repartição da Direcção-Geral da Contabilidade Pública discriminados em relação de modelo uniforme. Esta relação deve ser sempre remetida ainda que não haja lugar a alterações.
 
-###### Art. 8.º A relação referida no § único do artigo anterior, que acompanha os boletins de alterações, será assinada pelo dirigente responsável pelo processamento, salvo se disposição expressa na lei orgânica dos serviços atribuir a outrem competência para assinar as folhas de despesa. Porém, no que se refere àqueles boletins e a outros documentos ou relações que os acompanham, poderá o dirigente delegar a assinatura no funcionário de categoria imediatamente inferior.
+Art. 8.º A relação referida no § único do artigo anterior, que acompanha os boletins de alterações, será assinada pelo dirigente responsável pelo processamento, salvo se disposição expressa na lei orgânica dos serviços atribuir a outrem competência para assinar as folhas de despesa. Porém, no que se refere àqueles boletins e a outros documentos ou relações que os acompanham, poderá o dirigente delegar a assinatura no funcionário de categoria imediatamente inferior.
 
 § único. Estas delegações consideram-se pessoais e não podem ser substabelecidas, sendo solidária a responsabilidade delas resultante.
 
-###### Art. 9.º A relação e os boletins de alterações referidos no § único do artigo 7.º darão entrada nas repartições da Direcção-Geral da Contabilidade Pública até ao dia 12 de cada mês, considerando, como regra geral, as alterações do mês anterior, e que vão ser incluídas na folha do mês seguinte. Juntamente com os referidos boletins devem também ser remetidos os respeitantes a novas alterações que entretanto se tenham concretizado.
+Art. 9.º A relação e os boletins de alterações referidos no § único do artigo 7.º darão entrada nas repartições da Direcção-Geral da Contabilidade Pública até ao dia 12 de cada mês, considerando, como regra geral, as alterações do mês anterior, e que vão ser incluídas na folha do mês seguinte. Juntamente com os referidos boletins devem também ser remetidos os respeitantes a novas alterações que entretanto se tenham concretizado.
 
-###### Art. 10.º As repartições da Direcção-Geral da Contabilidade Pública verificarão e serão responsáveis pela legalidade e exactidão dos abonos e descontos incluídos nos boletins, de harmonia com os elementos deles constantes.
+Art. 10.º As repartições da Direcção-Geral da Contabilidade Pública verificarão e serão responsáveis pela legalidade e exactidão dos abonos e descontos incluídos nos boletins, de harmonia com os elementos deles constantes.
 
 § único. As mesmas repartições, depois de terem procedido às operações de verificação e à anotação do «cadastro» dos funcionários em face dos boletins, remeterão estes, acompanhados da respectiva relação, aos serviços mecanográficos, de modo que dêem ali entrada até ao dia 23.
 
-###### Art. 11.º Compete e é da responsabilidade da Repartição do Abono de Família e das Pensões da Direcção-Geral da Contabilidade Pública o fornecimento dos elementos respeitantes às alterações que se verifiquem nas pensões a pagar pelo Estado e cujas dotações figuram no orçamento do Ministério das Finanças em capítulo próprio dos Encargos Gerais. Estas alterações são comunicadas em boletins de modelo especial, a remeter, devidamente relacionados, aos serviços mecanográficos até ao dia 20 de cada mês.
+Art. 11.º Compete e é da responsabilidade da Repartição do Abono de Família e das Pensões da Direcção-Geral da Contabilidade Pública o fornecimento dos elementos respeitantes às alterações que se verifiquem nas pensões a pagar pelo Estado e cujas dotações figuram no orçamento do Ministério das Finanças em capítulo próprio dos Encargos Gerais. Estas alterações são comunicadas em boletins de modelo especial, a remeter, devidamente relacionados, aos serviços mecanográficos até ao dia 20 de cada mês.
 
-###### Art. 12.º Os serviços mecanográficos não poderão introduzir qualquer alteração nas folhas senão em presença dos respectivos boletins, sancionados pela repartição da Contabilidade Pública do Ministério a que o serviço pertencer.
+Art. 12.º Os serviços mecanográficos não poderão introduzir qualquer alteração nas folhas senão em presença dos respectivos boletins, sancionados pela repartição da Contabilidade Pública do Ministério a que o serviço pertencer.
 
 § único. Os mesmos serviços serão responsáveis pelo cumprimento do disposto no corpo deste artigo, bem como pela exactidão do processamento das folhas, devendo estas ser entregues nas repartições da Direcção-Geral da Contabilidade Pública de forma a poderem ser autorizadas sem nova verificação dos abonos.
 
-###### Art. 13.º As folhas têm de ser remetidas pelos serviços mecanográficos às repartições da Contabilidade Pública com a antecedência de, pelo menos, quatro dias úteis em relação aos fixados para o respectivo pagamento, se forem a pagar em Lisboa, e até sete dias úteis antes do termo do mês, se se tratar de folhas a pagar noutros cofres. Nas folhas devem ser consideradas as alterações constantes de todos os boletins recebidos no mês anterior dentro dos prazos legais.
+Art. 13.º As folhas têm de ser remetidas pelos serviços mecanográficos às repartições da Contabilidade Pública com a antecedência de, pelo menos, quatro dias úteis em relação aos fixados para o respectivo pagamento, se forem a pagar em Lisboa, e até sete dias úteis antes do termo do mês, se se tratar de folhas a pagar noutros cofres. Nas folhas devem ser consideradas as alterações constantes de todos os boletins recebidos no mês anterior dentro dos prazos legais.
 
-###### Art. 14.º Os recibos individuais serão processados mecânicamente em modelo uniforme a aprovar e conterão o total líquido e os descontos, bem como as importâncias líquidas dos diferentes abonos, devendo considerar-se, para efeitos de contabilização, todas as deduções como pertencendo à remuneração principal.
+Art. 14.º Os recibos individuais serão processados mecânicamente em modelo uniforme a aprovar e conterão o total líquido e os descontos, bem como as importâncias líquidas dos diferentes abonos, devendo considerar-se, para efeitos de contabilização, todas as deduções como pertencendo à remuneração principal.
 
 § único. Se por qualquer motivo houver necessidade de preencher manualmente algum recibo respeitante a abonos incluídos em folha elaborada por processo mecanográfico, deverá utilizar-se para o efeito o mesmo modelo de impresso e seguir-se orientação idêntica à estabelecida para o processamento mecânico.
 
-###### Art. 15.º Em relação às folhas que venham a ser processadas por sistema mecanográfico, as «notas demonstrativas» do abono de família, a que se refere o artigo 16.º do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passam a ser elaboradas em modelo especial, constituindo simples relações de alterações. Estas «notas demonstrativas» continuarão a ser organizadas pelos serviços e acompanharão os boletins de alterações e a respectiva relação a enviar mensalmente às repartições da Direcção-Geral da Contabilidade Pública, devendo ser remetidas mesmo que não haja lugar a quaisquer alterações.
+Art. 15.º Em relação às folhas que venham a ser processadas por sistema mecanográfico, as «notas demonstrativas» do abono de família, a que se refere o artigo 16.º do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passam a ser elaboradas em modelo especial, constituindo simples relações de alterações. Estas «notas demonstrativas» continuarão a ser organizadas pelos serviços e acompanharão os boletins de alterações e a respectiva relação a enviar mensalmente às repartições da Direcção-Geral da Contabilidade Pública, devendo ser remetidas mesmo que não haja lugar a quaisquer alterações.
 
-###### Art. 16.º O procedimento estabelecido no artigo anterior deverá ser igualmente seguido no que se refere às relações de descontos para a Caixa Geral de Aposentações, Cofre de Previdência do Ministério das Finanças, Caixa de Previdência do Ministério da Educação Nacional e outros organismos de previdência, passando assim a ser elaboradas simples relações de alterações organizadas em modelos apropriados, generalizando-se deste modo o procedimento já em uso quanto ao Montepio dos Servidores do Estado.
+Art. 16.º O procedimento estabelecido no artigo anterior deverá ser igualmente seguido no que se refere às relações de descontos para a Caixa Geral de Aposentações, Cofre de Previdência do Ministério das Finanças, Caixa de Previdência do Ministério da Educação Nacional e outros organismos de previdência, passando assim a ser elaboradas simples relações de alterações organizadas em modelos apropriados, generalizando-se deste modo o procedimento já em uso quanto ao Montepio dos Servidores do Estado.
 
-###### Art. 17.º As remunerações a que os assalariados de carácter permanente terão direito em cada mês corresponderão à duodécima parte da importância obtida do produto do número de dias do ano, por que são normalmente remunerados, pelo salário fixado.
+Art. 17.º As remunerações a que os assalariados de carácter permanente terão direito em cada mês corresponderão à duodécima parte da importância obtida do produto do número de dias do ano, por que são normalmente remunerados, pelo salário fixado.
 
 À remuneração mensal assim obtida será deduzido o salário a que os interessados não tiverem direito nesse mês, calculado com base no abono diário.
 
-###### Art. 18.º Todos os descontos dos servidores e pensionistas do Estado, que sejam incluídos em folha, deverão ser arredondados para escudos. Este arredondamento será efectuado para a unidade imediatamente superior, se a fracção for igual ou superior a $50, e para a imediatamente inferior, no caso contrário.
+Art. 18.º Todos os descontos dos servidores e pensionistas do Estado, que sejam incluídos em folha, deverão ser arredondados para escudos. Este arredondamento será efectuado para a unidade imediatamente superior, se a fracção for igual ou superior a $50, e para a imediatamente inferior, no caso contrário.
 
 § único. Estas normas serão igualmente de aplicar nas deduções a efectuar com destino à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado. As quotas para os cofres e caixas de previdência, cujas deduções são feitas em folha, poderão ser arredondadas por outro critério a estabelecer pelas respectivas direcções ou assembleias gerais, devendo, no entanto, ser fixadas sempre num número exacto de escudos.
 
-###### Art. 19.º O Ministro das Finanças aprovará por portaria os modelos de impressos indispensáveis à execução do presente decreto-lei, devendo a Direcção-Geral da Contabilidade Pública expedir, depois de aprovadas pelo mesmo Ministro, as necessárias instruções.
+Art. 19.º O Ministro das Finanças aprovará por portaria os modelos de impressos indispensáveis à execução do presente decreto-lei, devendo a Direcção-Geral da Contabilidade Pública expedir, depois de aprovadas pelo mesmo Ministro, as necessárias instruções.
 
 § único. O mesmo Ministro fixará igualmente em portaria os prazos de conservação dos diferentes documentos dos serviços mecanográficos, devendo, para o efeito, ser prèviamente ouvido, além das direcções-gerais interessadas, o Arquivo Histórico do Ministério das Finanças.
 
-###### Art. 20.º A mecanização será introduzida gradualmente, competindo também à Direcção-Geral da Contabilidade Pública, em colaboração com os serviços mecanográficos, indicar oportunamente a cada entidade a data em que deve fornecer os elementos destinados a iniciar o processamento mecanográfico.
+Art. 20.º A mecanização será introduzida gradualmente, competindo também à Direcção-Geral da Contabilidade Pública, em colaboração com os serviços mecanográficos, indicar oportunamente a cada entidade a data em que deve fornecer os elementos destinados a iniciar o processamento mecanográfico.
 
-###### Art. 21.º (transitório). O disposto no artigo 17.º deste diploma só entrará em vigor em 1 de Janeiro de 1964 e o determinado no artigo 18.º a partir das folhas relativas ao mês de Julho do corrente ano, com excepção do que se refere a pensões, cujos descontos deverão já ser arredondados nas folhas de Junho anterior.
+Art. 21.º (transitório). O disposto no artigo 17.º deste diploma só entrará em vigor em 1 de Janeiro de 1964 e o determinado no artigo 18.º a partir das folhas relativas ao mês de Julho do corrente ano, com excepção do que se refere a pensões, cujos descontos deverão já ser arredondados nas folhas de Junho anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42819-1960-277146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc3f2c7eea539b085624efa4f7c6796e6624369af1390a2f34cf3f5ec562fbf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2405339b451638107c724a5e85cd36cd31e4f8d929707c5826954269761c801c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distinção Honorífica
+- Estudante
+- Prémio
+- Universidade de Lisboa
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:45Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +96,17 @@ Atendendo ao que sobre o assunto deliberou o Senado Universitário;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para cada um dos prémios que até à data do presente decreto-lei tenham sido instituídos com o fim de galardoar estudantes das escolas integradas na Universidade de Lisboa cunhar-se-á uma medalha, a qual será atribuída, juntamente com um diploma artístico, aos premiados nos termos regulamentares.
+Artigo 1.º Para cada um dos prémios que até à data do presente decreto-lei tenham sido instituídos com o fim de galardoar estudantes das escolas integradas na Universidade de Lisboa cunhar-se-á uma medalha, a qual será atribuída, juntamente com um diploma artístico, aos premiados nos termos regulamentares.
 
 § único. A medalha terá no anverso a insígnia da Universidade e no reverso, em cunho, a designação do prémio e da matéria a que respeita e o lugar destinado à gravação, em cada caso, do ano da atribuição e do nome do premiado.
 
-###### Art. 2.º Nos casos em que o rendimento anual dos fundos do prémio for igual ou superior a 500$00 o prémio consistirá na importância fixada pelo seu regulamento mais a medalha e o diploma. Quando aquele rendimento não atingir 500$00, a medalha e o diploma serão entregues, a título de prémio, sem recompensa pecuniária.
+Art. 2.º Nos casos em que o rendimento anual dos fundos do prémio for igual ou superior a 500$00 o prémio consistirá na importância fixada pelo seu regulamento mais a medalha e o diploma. Quando aquele rendimento não atingir 500$00, a medalha e o diploma serão entregues, a título de prémio, sem recompensa pecuniária.
 
-###### Art. 3.º Poderá o reitor da Universidade despender na cunhagem das medalhas e impressão dos diplomas a totalidade das quantias acumuladas na conta dos prémios de rendimento anual inferior a 500$00 e, caso seja necessário, a contribuição que deva ser retirada dos fundos dos restantes prémios, pro rata das importâncias dos juros capitalizados ou disponíveis, para cobrar a diferença entre a totalidade daquelas quantias e o custo das medalhas e diplomas.
+Art. 3.º Poderá o reitor da Universidade despender na cunhagem das medalhas e impressão dos diplomas a totalidade das quantias acumuladas na conta dos prémios de rendimento anual inferior a 500$00 e, caso seja necessário, a contribuição que deva ser retirada dos fundos dos restantes prémios, pro rata das importâncias dos juros capitalizados ou disponíveis, para cobrar a diferença entre a totalidade daquelas quantias e o custo das medalhas e diplomas.
 
-###### Art. 4.º De futuro, na aceitação de prémios destinados a galardoar estudantes da Universidade de Lisboa ficará clausulado que o regime do presente decreto-lei se aplicará no caso de a depreciação da moeda vir a tornar insuficiente o valor monetário do prémio, e, salvo se o instituidor providenciar especialmente sobre as despesas da cunhagem da medalha e impressão do diploma, que será retirada dos fundos do prémio quantia necessária para cobrir essas despesas.
+Art. 4.º De futuro, na aceitação de prémios destinados a galardoar estudantes da Universidade de Lisboa ficará clausulado que o regime do presente decreto-lei se aplicará no caso de a depreciação da moeda vir a tornar insuficiente o valor monetário do prémio, e, salvo se o instituidor providenciar especialmente sobre as despesas da cunhagem da medalha e impressão do diploma, que será retirada dos fundos do prémio quantia necessária para cobrir essas despesas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

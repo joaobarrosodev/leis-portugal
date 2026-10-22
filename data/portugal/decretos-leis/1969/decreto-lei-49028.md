@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49028-1969-201050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59cda5c901b532a8b04f1bd8343ff9abaa83bd1802f8a18872a0a89b48a7e350
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 851917c6b223d73fd4c69729ee60c877ddb7392baae1d59559e10441610a054b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arresto de Navios
+- Bruxelas
+- Convenção
+- Direito Internacional Privado
+- Embarcação
+- Garantia
+- Indemnização
+- Navegação Marítima
+- Pagamento
+- Responsabilidade Civil
+relationships:
+- type: cites
+  target: pt:dre:389257:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:27Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +108,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Convenção sobre o Limite de Responsabilidade dos Proprietários dos Navios de Alto Mar, concluída em Bruxelas em 10 de Outubro de 1957, publicada em anexo ao [Decreto-Lei n.º 48036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48036-1967-389257), de 14 de Novembro de 1967, fica a vigorar, por força do presente preceito, como direito interno português.
+Artigo 1.º A Convenção sobre o Limite de Responsabilidade dos Proprietários dos Navios de Alto Mar, concluída em Bruxelas em 10 de Outubro de 1957, publicada em anexo ao [Decreto-Lei n.º 48036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48036-1967-389257), de 14 de Novembro de 1967, fica a vigorar, por força do presente preceito, como direito interno português.
 
-###### Art. 2.º Aos navios com menos de 300 t de arqueação que não estejam autorizados a transportar mais de doze passageiros as regras da Convenção são inteiramente aplicáveis, com excepção da alínea 5) do artigo 3, que terá a seguinte redacção:
+Art. 2.º Aos navios com menos de 300 t de arqueação que não estejam autorizados a transportar mais de doze passageiros as regras da Convenção são inteiramente aplicáveis, com excepção da alínea 5) do artigo 3, que terá a seguinte redacção:
 
 Para o efeito de determinar o limite de responsabilidade do proprietário de um navio, de harmonia com as disposições deste artigo, todo o navio com menos de 100 t de arqueação será considerado um navio desta tonelagem.
 
-###### Art. 3.º As normas da Convenção são inteiramente aplicáveis aos navios com menos de 300 t de arqueação quando autorizados a transportar mais de doze passageiros.
+Art. 3.º As normas da Convenção são inteiramente aplicáveis aos navios com menos de 300 t de arqueação quando autorizados a transportar mais de doze passageiros.
 
-###### Art. 4.º A regulamentação de carácter processual necessária para a execução das normas da Convenção, será estabelecida por decreto dos Ministérios da Justiça e da Marinha.
+Art. 4.º A regulamentação de carácter processual necessária para a execução das normas da Convenção, será estabelecida por decreto dos Ministérios da Justiça e da Marinha.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Pereira Crespo.
 
-**Promulgado em 14 de Maio de 1969.**
+Promulgado em 14 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

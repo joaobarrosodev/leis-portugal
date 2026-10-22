@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48263-1968-235339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fceafc2204fcaa7eae1d5945620a8c418e8fb4d9b5480a1cde365c1ef2420816
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2aef25734277e93bddc6645ab22d6c7eada9a1c277c8697b1b1eca46f9e745dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditoria Administrativa
+- Custas Judiciais
+- Imposto de Justiça
+- Supremo Tribunal Administrativo
+relationships:
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590726:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:32Z'
   warnings: []
   errors: []
 ---
@@ -85,17 +109,17 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º, 6.º, 7.º, 9.º, 10.º, 39.º, 41.º, 48.º, 49.º e 61.º da tabela das custas no Supremo Tribunal Administrativo e nas auditorias administrativas, aprovada pelo [Decreto-Lei n.º 42150](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42150-1959-590726), de 12 de Fevereiro de 1959, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º, 6.º, 7.º, 9.º, 10.º, 39.º, 41.º, 48.º, 49.º e 61.º da tabela das custas no Supremo Tribunal Administrativo e nas auditorias administrativas, aprovada pelo [Decreto-Lei n.º 42150](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42150-1959-590726), de 12 de Fevereiro de 1959, passam a ter a seguinte redacção:
 
-###### Art. 3.º Não será condenado em custas o recorrido que não vier ao processo fazer a defesa dos seus direitos.
+Art. 3.º Não será condenado em custas o recorrido que não vier ao processo fazer a defesa dos seus direitos.
 
 ...
 
-###### Art. 5.º Nos processos da competência da 1.ª secção, a parte vencida pagará o imposto de justiça que lhe for fixado na decisão que puser termo à causa ou ao incidente, entre os limites de 1000$ e 50000$ nos recursos, de 500$00 e 15000$00 nas execuções de acórdãos e de 500$00 e 10000$00 nos incidentes.
+Art. 5.º Nos processos da competência da 1.ª secção, a parte vencida pagará o imposto de justiça que lhe for fixado na decisão que puser termo à causa ou ao incidente, entre os limites de 1000$ e 50000$ nos recursos, de 500$00 e 15000$00 nas execuções de acórdãos e de 500$00 e 10000$00 nos incidentes.
 
 § único. Quando o recurso for julgado deserto, preliminarmente rejeitado ou sempre que, por qualquer outro motivo, o processo termine antes de se iniciar o julgamento, o imposto de justiça será fixado entre 500$00 e 10000$00.
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º ...
 
@@ -107,7 +131,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º Nos incidentes o imposto de justiça será fixado entre 500$00 e 10000$00.
 
-###### Art. 7.º Nos recursos da competência de 3.ª secção é aplicável o estabelecido no corpo do artigo antecedente, na primeira parte do § 1.º e nos §§ 3.º e 5.º, sendo, porém, reduzidas a dois terços as taxas previstas do corpo do artigo. Se o recurso respeitar à previdência social, ou tiver natureza penal, o imposto de justiça será fixado entre os limites de 200$00 e 2000$00 e de 400$00 e 10000$00, respectivamente.
+Art. 7.º Nos recursos da competência de 3.ª secção é aplicável o estabelecido no corpo do artigo antecedente, na primeira parte do § 1.º e nos §§ 3.º e 5.º, sendo, porém, reduzidas a dois terços as taxas previstas do corpo do artigo. Se o recurso respeitar à previdência social, ou tiver natureza penal, o imposto de justiça será fixado entre os limites de 200$00 e 2000$00 e de 400$00 e 10000$00, respectivamente.
 
 § 1.º Nos agravos que subam em separado, o imposto de justiça será reduzido a um terço e, se subirem com a apelação ou outro agravo, a redução será de um sexto, sem prejuízo, porém, do mínimo estabelecido na primeira parte do § 1.º do artigo 6.º nos processos que não respeitem à previdência social.
 
@@ -115,21 +139,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 § único. Nos casos previstos no § único do artigo 5.º, o imposto de justiça será fixado entre 800$00 e 15000$00.
 
-###### Art. 10.º Na reclamação do despacho que não admita o recurso ou que retenha o agravo o imposto de justiça será fixado entre os limites de 500$00 e de 10000$00.
+Art. 10.º Na reclamação do despacho que não admita o recurso ou que retenha o agravo o imposto de justiça será fixado entre os limites de 500$00 e de 10000$00.
 
 ...
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 § único. Se forem vários os recorrentes ou os recorridos no mesmo processo ou recurso e tiverem interesses distintos, por cada um deles serão satisfeitos os respectivos preparos.
 
 ...
 
-###### Art. 41.º O preparo do recorrente será efectuado no prazo de cinco dias, a contar da data da distribuição ou, tratando-se de recurso para o tribunal pleno, da data da apresentação do requerimento de interposição.
+Art. 41.º O preparo do recorrente será efectuado no prazo de cinco dias, a contar da data da distribuição ou, tratando-se de recurso para o tribunal pleno, da data da apresentação do requerimento de interposição.
 
 Se o não for, ainda poderá ser feito em dobro, observando-se o disposto nos §§ 1.º e 2.º do artigo 28.º do regulamento aprovado pelo [Decreto n.º 41234](https://diariodarepublica.pt/dr/detalhe/decreto/41234-1957-280710), de 20 de Agosto de 1957, reduzindo-se, porém, a cinco dias o prazo ali estabelecido.
 
@@ -137,11 +161,11 @@ No caso de não ser efectuado o preparo em dobro, observar-se-á o disposto no a
 
 ...
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § único. Serão ainda suportados pelo Cofre, na falta de disponibilidades da respectiva verba orçamental, os encargos provenientes do pagamento dos vencimentos ao juiz suplente nomeado em conformidade com o disposto no § 6.º do artigo 1.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956, na redacção dada pelo [Decreto-Lei n.º 48157](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48157-1967-401521), de 26 de Dezembro de 1967.
 
-###### Art. 49.º Constituem receita do cofre:
+Art. 49.º Constituem receita do cofre:
 
 a) 15 por cento sobre o imposto de justiça devido nos termos das disposições precedentes;
 
@@ -171,7 +195,7 @@ n) ...
 
 ...
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 § 1.º A importância referida na alínea b) do artigo 49.º, reduzida a 50$00, é devida nas acções e nos recursos.
 
@@ -179,13 +203,13 @@ n) ...
 
 § 2.º ...
 
-###### Art. 2.º Os encargos a que der lugar a nomeação do juiz suplente, na parte em que excederem a respectiva verba orçamental, serão reembolsados ao Estado pelo Cofre do Supremo Tribunal Administrativo, mediante guia de receita a processar pela 1.ª Repartição da Contabilidade Pública, até que seja reforçada a verba ou o reembolso dispensado por decreto do Presidente do Conselho e do Ministro das Finanças.
+Art. 2.º Os encargos a que der lugar a nomeação do juiz suplente, na parte em que excederem a respectiva verba orçamental, serão reembolsados ao Estado pelo Cofre do Supremo Tribunal Administrativo, mediante guia de receita a processar pela 1.ª Repartição da Contabilidade Pública, até que seja reforçada a verba ou o reembolso dispensado por decreto do Presidente do Conselho e do Ministro das Finanças.
 
-###### Art. 3.º As alterações da tabela das custas constantes deste diploma serão aplicáveis a todos os processos pendentes, mantendo-se, todavia, os preparos já efectuados ou com guias passadas, sem necessidade de reforço.
+Art. 3.º As alterações da tabela das custas constantes deste diploma serão aplicáveis a todos os processos pendentes, mantendo-se, todavia, os preparos já efectuados ou com guias passadas, sem necessidade de reforço.
 
-###### Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

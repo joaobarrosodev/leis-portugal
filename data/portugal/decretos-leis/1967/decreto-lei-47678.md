@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 107/1967, 1º Suplemento, Série I de 1967-05-05
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 877 - 942
   pdf_url: https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf
 entry_into_force_dates: []
@@ -48,40 +48,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47678-1967-508385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 197f363a402e95dbe30dcab0e0e95e46f4d31213ef45a4ed4d70b7e1dc327634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb140850071a9356e252b7cbd94580f3f8bcaa87998aa2dab72200c9cbc38d9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casamento
+- Certidão
+- Código do Registo Civil
+- Conservador
+- Conservatória do Registo Civil
+- Conservatória dos Registos Centrais
+- Definição de Competências
+- Emolumento
+- Emolumento do Notariado
+- Isenção de Taxas e Emolumentos
+- Jurisdição
+- Óbito
+- Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:474744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200812:por
+  label: "Dada nova redacção aos arts. 9º, 12º, 21º, 26º, 48º, 58º, 66º, 68º, 76º, 94º, 96º, 97º, 104º, 116º, 117º, 155º,\
+    \ 168º, 246º, 282º, 292º, 293º, 296º, 299º e 402º do Código do Registo Civil, assim como aos arts. 17º, 28º, 31º, 32º\
+    \ e 33º da tabela de emolumentos de registo civil, anexa ao referido Código, pelo DEC LEI.49054.12.06.1969.MJ, DG.IS [137]\
+    \ de 12.06.1969\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49054-1969-200812
+  date: '1969-06-12'
+- type: amended_by
+  target: pt:dre:199798:por
+  label: "Substituídos os modelos de livros de assentos e da cédula pessoal constantes dos anexos do Código do Registo Civil\
+    \ pela PORT.24140.28.06.1969.MJ, DG.IS [150] de 28.06.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24140-1969-199798
+  date: '1969-06-28'
+- type: amended_by
+  target: pt:dre:474744:por
+  label: "Alterados os arts. 9º, 12º, 66º, 116º, 117º, 173º, 229º, 231º, 262º, 313º, 324º, 326º, 327º, 328º e 329º do Código\
+    \ do Registo Civil, com as alterações constantes do Dec Lei 49054 de 12-Jun de 1969, pelo DEC LEI.419/74.07.09.1974.MJ,\
+    \ DG.IS [209] de 07.09.1974\074\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/419-1974-474744
+  date: '1974-09-07'
+- type: cites
+  target: pt:dre:184543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436826:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:312670:por
+  label: "Rectificado pela RECT.DD600.30.05.1967.PC, DG.IS [126-Supl] de 30.05.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-312670
+  date: '1967-05-30'
+- type: corrected_by
+  target: pt:dre:314399:por
+  label: "Rectificado pela RECT.DD545.19.07.1967.PC, DG.IS [167] de 19.07.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-314399
+  date: '1967-07-19'
 article_structure:
-  article_count: 450
+  article_count: 449
   section_count: 89
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:01Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +150,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Registo Civil, que faz parte integrante do presente diploma e segue assinado pelo Ministro da Justiça.
+Artigo 1.º É aprovado o Código do Registo Civil, que faz parte integrante do presente diploma e segue assinado pelo Ministro da Justiça.
 
-###### Art. 2.º A tabela de emolumentos do registo civil, aprovada pelo [Decreto-Lei n.º 41967](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41967-1958-339382), de 22 de Novembro de 1958, é substituída pela tabela anexa ao presente diploma.
+Art. 2.º A tabela de emolumentos do registo civil, aprovada pelo [Decreto-Lei n.º 41967](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41967-1958-339382), de 22 de Novembro de 1958, é substituída pela tabela anexa ao presente diploma.
 
-###### Art. 3.º O Código do Registo Civil e a nova tabela entram em vigor no dia 1 de Junho de 1967, à excepção do disposto no artigo 67.º, nos n.os 2 e 3 do artigo 146.º e nos artigos 147.º a 152.º do código, que começará a vigorar sòmente em 1 de Janeiro de 1968.
+Art. 3.º O Código do Registo Civil e a nova tabela entram em vigor no dia 1 de Junho de 1967, à excepção do disposto no artigo 67.º, nos n.os 2 e 3 do artigo 146.º e nos artigos 147.º a 152.º do código, que começará a vigorar sòmente em 1 de Janeiro de 1968.
 
-###### Art. 4.º Desde a entrada em vigor do novo código, fica revogada toda a legislação relativa à matéria nele abrangida, com ressalva da legislação especial a que se faça expressa referência.
+Art. 4.º Desde a entrada em vigor do novo código, fica revogada toda a legislação relativa à matéria nele abrangida, com ressalva da legislação especial a que se faça expressa referência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -3310,149 +3370,149 @@ Mapas a que se refere o artigo 48.º do Código do Registo Civil
 
 As repartições das sedes dos distritos administrativos enviarão os livros dos extractos para as repartições abaixo designadas, pela forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 As repartições dos concelhos dos distritos administrativos de Lisboa e Porto enviarão os livros dos extractos para as repartições abaixo designadas, pela forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro «Diário e de Registo de Emolumentos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de assentos de nascimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de assentos de casamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de assentos de convenções antenupciais e de alteração de regime matrimonial de bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de assentos de óbito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de assentos de emancipação concedida pelos pais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de assentos de perfilhação e legitimação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de assentos de tutela, administração de bens, curatela e curadoria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de extractos de nascimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do livro de transcrição de assentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de folhas soltas de extracto de casamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de folhas soltas de extracto de óbitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de folhas soltas de extracto de emancipação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de folhas soltas de extracto de perfilhação ou legitimação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de folhas soltas de extracto de tutela, administração de bens, curatela e curadoria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelos impressos de duplicados de assentos consulares a que se refere o n.º 2 do artigo 67.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 I
 
 Assento de nascimento lavrado com base em declaração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 II
 
 Assento de nascimento lavrado por transcrição de certidão do registo lavrado pelas autoridades estrangeiras locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 III
 
 Assento de perfilhação ou legitimação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 IV
 
 Assento de emancipação concedida pelos pais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 V
 
 Assento de casamento civil celebrado no consulado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 VI
 
 Assento de transcrição de casamento católico ou de casamento civil celebrado perante as autoridades estrangeiras locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 VII
 
 Assento de convenção antenupcial e de alteração do regime matrimonial de bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 VIII
 
 Assento de óbito lavrado com base em declaração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 IX
 
 Assento de óbito lavrado por transcrição de certidão de registo lavrado pelas autoridades estrangeiras locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de auto de declaração de nascimento prestada nos postos ou em conservatórias intermediárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de auto de declaração de óbito prestada nos postos ou em conservatórias intermediárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de auto de declaração para casamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de edital para casamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo do certificado previsto no artigo 180.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelos de averbamentos
 
@@ -3850,11 +3910,11 @@ c) Documento n.º ..., maço n.º ..., ano de ...
 
 Modelos de boletins para averbamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de boletins previsto no artigo 213.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelo de boletins previsto no artigo 293.º
 
@@ -3922,7 +3982,7 @@ No verso a conta do acto e o número do registo no Diário
 
 Modelo de ficha a que se refere o n.º 2 do artigo 285.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10701/08770942.pdf)
 
 Modelos de certidões
 

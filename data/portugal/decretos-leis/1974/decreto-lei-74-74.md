@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 50/1974, 1º Suplemento, Série I de 1974-02-28
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 296-(1) a 296-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/05001/00010008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1974-261928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc6b11c7c4dcd27549b77ab9d119f26398f6a90999b621ec8bc7073d8fc2fb5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b018db140ee2cad366a8c61b380d051dc1fa33d9651e4f56f8ec5182873016e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Banco de Fomento Nacional
+- Benefícios Fiscais
+- Caixa Geral de Depósitos
+- Definição de Competências
+- Empresa
+- Financiamento
+- Fundo de Fomento Industrial
+- Incentivos Fiscais
+- Política Industrial
+- Sociedade Financeira Portuguesa
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381147:por
+  label: "Alterado o n.º 1 do artigo 10.º pelo DEC LEI.201/79.30.06.1979.MIT, DR.IS [149] de 30.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1979-381147
+  date: '1979-06-30'
+- type: amended_by
+  target: pt:dre:378754:por
+  label: "Clarificado, relativamente aos requerimentos de isenção de redução de direitos aduaneiros, pelo DEC.91/79.23.08.1979.MFP,\
+    \ DR.IS [194] de 23.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/91-1979-378754
+  date: '1979-08-23'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada a não vigência do presente diploma pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS [115] de 16.06.2011, nos\
+    \ termos do seu art. 1.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:288451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:57Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +156,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Na atribuição dos benefícios referidos na [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, terão prioridade os sectores industriais cujo desenvolvimento, reorganização ou reconversão contribuam para a consecução das finalidades indicadas na base IV da mesma lei, bem como as unidades industriais cuja instalação, ampliação, reorganização ou reconversão concorram directa e relevantemente para essas finalidades.
+Artigo 1.º Na atribuição dos benefícios referidos na [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, terão prioridade os sectores industriais cujo desenvolvimento, reorganização ou reconversão contribuam para a consecução das finalidades indicadas na base IV da mesma lei, bem como as unidades industriais cuja instalação, ampliação, reorganização ou reconversão concorram directa e relevantemente para essas finalidades.
 
-###### Art. 2.º - 1. A relação das indústrias prioritárias, para os efeitos do artigo anterior, será aprovada por portaria conjunta do Ministro das Finanças e do Secretário de Estado da Indústria, em conformidade com os critérios definidos, nos termos do n.º 2 da base XVII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), pelo Conselho de Ministros para os Assuntos Económicos.
+Art. 2.º - 1. A relação das indústrias prioritárias, para os efeitos do artigo anterior, será aprovada por portaria conjunta do Ministro das Finanças e do Secretário de Estado da Indústria, em conformidade com os critérios definidos, nos termos do n.º 2 da base XVII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), pelo Conselho de Ministros para os Assuntos Económicos.
 
 2. A portaria referida no número precedente será publicada no prazo de trinta dias, contados da entrada em vigor deste decreto-lei.
 
 3. A relação das indústrias prioritárias poderá ser modificada, pela forma estabelecida no n.º 1, sempre que sejam alterados os critérios aí referidos ou quando a evolução conjuntural o imponha.
 
-###### Art. 3.º - 1. Na concessão dos benefícios ter-se-á especialmente em consideração:
+Art. 3.º - 1. Na concessão dos benefícios ter-se-á especialmente em consideração:
 
 a) A integração dos empreendimentos a beneficiar nos objectivos dos planos de fomento;
 
@@ -137,9 +178,9 @@ e) A estrutura financeira e organização técnica e comercial das empresas inte
 
 2. Na apreciação da estrutura financeira das empresas ter-se-á em conta, onde se mostre conveniente, o grau de participação do público no seu capital e o facto de as suas acções terem ou não cotação oficial na bolsa.
 
-###### Art. 4.º Na concessão dos benefícios ter-se-á em conta a convergência dos objectivos de ordem sectorial com os definidos no âmbito da política de ordenamento do território e de correcção dos desequilíbrios regionais de desenvolvimento.
+Art. 4.º Na concessão dos benefícios ter-se-á em conta a convergência dos objectivos de ordem sectorial com os definidos no âmbito da política de ordenamento do território e de correcção dos desequilíbrios regionais de desenvolvimento.
 
-###### Art. 5.º - 1. A concessão dos benefícios poderá ficar dependente do compromisso assumido pelas empresas de cumprirem, dentro dos prazos para tal estabelecidos, as condições que lhes sejam fixadas, nomeadamente em matéria de produção, modernização tecnológica, investimentos, promoção social dos trabalhadores, localização, exportação e qualidade e preços dos produtos.
+Art. 5.º - 1. A concessão dos benefícios poderá ficar dependente do compromisso assumido pelas empresas de cumprirem, dentro dos prazos para tal estabelecidos, as condições que lhes sejam fixadas, nomeadamente em matéria de produção, modernização tecnológica, investimentos, promoção social dos trabalhadores, localização, exportação e qualidade e preços dos produtos.
 
 2. Em casos de excepcional interesse para a economia nacional, a atribuição dos benefícios poderá ficar dependente de concursos públicos abertos para a realização dos empreendimentos industriais a que os mesmos respeitem.
 
@@ -147,39 +188,39 @@ e) A estrutura financeira e organização técnica e comercial das empresas inte
 
 4. As isenções ou reduções de direitos aduaneiros só serão concedidas quando não existam produtos de fabricação nacional equivalentes em qualidade, preço e condições de fornecimento.
 
-###### Art. 6.º Sempre que estejam em causa benefícios previstos na [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) e neste decreto-lei, e benefícios da mesma natureza previstos noutros diplomas, serão concedidos os que forem mais favoráveis às empresas que os requeiram.
+Art. 6.º Sempre que estejam em causa benefícios previstos na [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) e neste decreto-lei, e benefícios da mesma natureza previstos noutros diplomas, serão concedidos os que forem mais favoráveis às empresas que os requeiram.
 
 ### CAPÍTULO II — Dos incentivos fiscais
 
-###### Art. 7.º Os incentivos fiscais previstos nas alíneas a) a k) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) graduam-se em cinco classes, A, B, C, D e E, constantes do quadro anexo ao presente diploma.
+Art. 7.º Os incentivos fiscais previstos nas alíneas a) a k) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) graduam-se em cinco classes, A, B, C, D e E, constantes do quadro anexo ao presente diploma.
 
-###### Art. 8.º Os benefícios incluídos na classe A constituem incentivos genéricos e poderão ser atribuídos a quaisquer empresas que instalem, ampliem, reconvertam ou reorganizem unidades industriais.
+Art. 8.º Os benefícios incluídos na classe A constituem incentivos genéricos e poderão ser atribuídos a quaisquer empresas que instalem, ampliem, reconvertam ou reorganizem unidades industriais.
 
-###### Art. 9.º - 1. Os incentivos incluídos na classe B serão concedidos às empresas que instalem, ampliem, reorganizem ou reconvertam unidades industriais e que satisfaçam os requisitos que, para o efeito, se encontrem fixados relativamente à respectiva actividade industrial.
+Art. 9.º - 1. Os incentivos incluídos na classe B serão concedidos às empresas que instalem, ampliem, reorganizem ou reconvertam unidades industriais e que satisfaçam os requisitos que, para o efeito, se encontrem fixados relativamente à respectiva actividade industrial.
 
 2. Os requisitos a que se refere o número anterior serão fixados para os sectores industriais em relação aos quais tal se mostre aconselhável por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria.
 
 3. No caso previsto nos números antecedentes, a concessão dos benefícios ficará apenas dependente da demonstração, pelo interessado, de que os requisitos fixados para o respectivo sector industrial se encontram satisfeitos.
 
-###### Art. 10.º - 1. Os incentivos incluídos nas classes C e D serão concedidos relativamente às unidades que as empresas instalem em sectores considerados de indústrias prioritárias, ou que reorganizem ou reconvertam no âmbito de planos sectoriais aprovados pelo Secretário de Estado da Indústria.
+Art. 10.º - 1. Os incentivos incluídos nas classes C e D serão concedidos relativamente às unidades que as empresas instalem em sectores considerados de indústrias prioritárias, ou que reorganizem ou reconvertam no âmbito de planos sectoriais aprovados pelo Secretário de Estado da Indústria.
 
 2. A determinação da classe de incentivos a conceder será feita caso a caso, consoante a importância do empreendimento, tendo em especial consideração os critérios definidos nos artigos 3.º e 4.º deste diploma.
 
-###### Art. 11.º Nos casos de ampliação, reorganização ou reconversão, os benefícios referidos nos artigos 7.º a 10.º aproveitarão apenas à parte ampliada, reorganizada ou reconvertida.
+Art. 11.º Nos casos de ampliação, reorganização ou reconversão, os benefícios referidos nos artigos 7.º a 10.º aproveitarão apenas à parte ampliada, reorganizada ou reconvertida.
 
-###### Art. 12.º - 1. Os incentivos incluídos na classe E serão atribuídos às empresas que instalem indústrias prioritárias em localizações preferenciais, ainda que não abrangidas por planos de reorganização de indústrias.
+Art. 12.º - 1. Os incentivos incluídos na classe E serão atribuídos às empresas que instalem indústrias prioritárias em localizações preferenciais, ainda que não abrangidas por planos de reorganização de indústrias.
 
 2. Para os efeitos deste decreto-lei, consideram-se como localizações preferenciais os parques industriais e as áreas como tal declaradas pelo Conselho de Ministros para os Assuntos Económicos.
 
 3. Considera-se desde já como localização preferencial a zona de actuação directa do Gabinete da Área de Sines, definida no n.º 2 do artigo 2.º do [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho.
 
-###### Art. 13.º - 1. As empresas que instalem ou ampliem indústrias não prioritárias em localizações preferenciais gozarão dos incentivos fiscais definidos, para cada uma dessas localizações, em portaria conjunta do Ministro das Finanças e do Secretário de Estado da Indústria.
+Art. 13.º - 1. As empresas que instalem ou ampliem indústrias não prioritárias em localizações preferenciais gozarão dos incentivos fiscais definidos, para cada uma dessas localizações, em portaria conjunta do Ministro das Finanças e do Secretário de Estado da Indústria.
 
 2. Enquanto não forem publicadas as portarias referidas no n.º 1, estas empresas beneficiarão dos incentivos incluídos na classe B.
 
 ### CAPÍTULO III — Dos outros benefícios
 
-###### Art. 14.º - 1. As empresas que explorem indústrias prioritárias, as abrangidas pelos planos sectoriais de reorganização ou de reconversão referidos no artigo 10.º, ou cuja localização favoreça a realização dos objectivos de ordenamento do território e de correcção dos desequilíbrios regionais de desenvolvimento, poderão beneficiar de auxílios financeiros, nomeadamente de:
+Art. 14.º - 1. As empresas que explorem indústrias prioritárias, as abrangidas pelos planos sectoriais de reorganização ou de reconversão referidos no artigo 10.º, ou cuja localização favoreça a realização dos objectivos de ordenamento do território e de correcção dos desequilíbrios regionais de desenvolvimento, poderão beneficiar de auxílios financeiros, nomeadamente de:
 
 a) Preferência na obtenção de crédito;
 
@@ -191,19 +232,19 @@ d) Cobertura, total ou parcial, do custo dos estudos, projectos e outras acçõe
 
 2. É reconhecida às mesmas empresas a faculdade de obter a expropriação urgente, por utilidade pública, dos imóveis necessários à sua instalação ou ampliação.
 
-###### Art. 15.º - 1. Para os afeitos do disposto na alínea a) do artigo anterior, o Governo, pelo Ministério das Finanças, articulará a actividade financeira dos fundos públicos, instituições de crédito, auxiliares de crédito e parabancárias e de quaisquer outras entidades que, nos termos do n.º 2 da base XXI da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), venha a sujeitar a idêntica disciplina.
+Art. 15.º - 1. Para os afeitos do disposto na alínea a) do artigo anterior, o Governo, pelo Ministério das Finanças, articulará a actividade financeira dos fundos públicos, instituições de crédito, auxiliares de crédito e parabancárias e de quaisquer outras entidades que, nos termos do n.º 2 da base XXI da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), venha a sujeitar a idêntica disciplina.
 
 2. O Ministro das Finanças poderá delegar, total ou parcialmente, no Banco de Portugal a competência que lhe é atribuída no número precedente.
 
-###### Art. 16.º - 1. A Caixa Geral de Depósitos, o Banco de Fomento Nacional e a Sociedade Financeira Portuguesa coordenarão a sua actividade com vista ao adequado financiamento das empresas referidas no artigo 14.º, atribuindo-lhes prioridade na concessão de crédito, embora sem prejuízo da aplicação dos critérios a que normalmente obedecem as suas operações.
+Art. 16.º - 1. A Caixa Geral de Depósitos, o Banco de Fomento Nacional e a Sociedade Financeira Portuguesa coordenarão a sua actividade com vista ao adequado financiamento das empresas referidas no artigo 14.º, atribuindo-lhes prioridade na concessão de crédito, embora sem prejuízo da aplicação dos critérios a que normalmente obedecem as suas operações.
 
 2. O Fundo de Fomento Industrial fornecerá à Caixa Geral de Depósitos, ao Banco de Fomento Nacional e à Sociedade Financeira Portuguesa, conforme os casos, todos os elementos de informação que considere convenientes, ou que estas instituições lhe solicitem, para a correcta apreciação dos pedidos de financiamento apresentados àquelas entidades e relativamente aos quais os interessados hajam requerido o apoio do Fundo.
 
-###### Art. 17.º Nos termos das bases XII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e II da [Lei n.º 1/73](https://diariodarepublica.pt/dr/detalhe/lei/1-1973-288451), de 2 de Janeiro, as empresas referidas no artigo 14.º poderão beneficiar do aval do Estado, para operações de crédito interno ou externo, e das demais garantias referidas naquela base XII.
+Art. 17.º Nos termos das bases XII da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e II da [Lei n.º 1/73](https://diariodarepublica.pt/dr/detalhe/lei/1-1973-288451), de 2 de Janeiro, as empresas referidas no artigo 14.º poderão beneficiar do aval do Estado, para operações de crédito interno ou externo, e das demais garantias referidas naquela base XII.
 
-###### Art. 18.º Poderá ser concedido às empresas, pelo Fundo de Fomento Industrial, de harmonia com esquemas e dentro dos limites aprovados pelo Governo, compensação parcial dos encargos que hajam de suportar com a obtenção de avales de outros organismos.
+Art. 18.º Poderá ser concedido às empresas, pelo Fundo de Fomento Industrial, de harmonia com esquemas e dentro dos limites aprovados pelo Governo, compensação parcial dos encargos que hajam de suportar com a obtenção de avales de outros organismos.
 
-###### Art. 19.º - 1. As pequenas e médias empresas poderão ainda beneficiar:
+Art. 19.º - 1. As pequenas e médias empresas poderão ainda beneficiar:
 
 a) De subsídios para investimentos em capital fixo, destinados à instalação, ampliação, reorganização ou reconversão das suas unidades;
 
@@ -215,7 +256,7 @@ c) De compensação parcial de juros de empréstimos de entidades referidas na b
 
 3. As importâncias correspondentes às compensações de juros a que se refere a alínea c) do n.º 1 deverão, sempre que possível, ser directamente entregues pelo Fundo às instituições que tenham concedido os respectivos empréstimos.
 
-###### Art. 20.º Sob proposta do Fundo de Fomento Industrial será criado um regime para cobertura, total ou parcial, do custo de acções de promoção, designadamente:
+Art. 20.º Sob proposta do Fundo de Fomento Industrial será criado um regime para cobertura, total ou parcial, do custo de acções de promoção, designadamente:
 
 a) Estudos de análise de mercados e de viabilidade económica, bem como de projectos de investigação tecnológica com especial interesse para a criação, desenvolvimento, reorganização ou reconversão de indústrias ou para a criação, ampliação, reorganização ou reconversão de unidades industriais;
 
@@ -229,7 +270,7 @@ d) Divulgação de informações sobre as possibilidades e necessidades de cria�
 
 #### SECÇÃO I — Da concessão dos incentivos fiscais
 
-###### Art. 21.º - 1. A concessão de incentivos fiscais previstos na [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) e no presente diploma depende sempre de requerimento da empresa interessada.
+Art. 21.º - 1. A concessão de incentivos fiscais previstos na [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) e no presente diploma depende sempre de requerimento da empresa interessada.
 
 2. Os rquerimentos devem ser dirigidos ao Ministro das Finanças e apresentados antes de iniciada a instalação, ampliação, reorganização ou reconversão das unidades industriais a que respeitarem.
 
@@ -243,11 +284,11 @@ b) Os benefícios previstos na alínea k) da mesma base, que devem ser requerido
 
 5. Para efeitos dos números antecedentes, os investimentos consideram-se realizados no ano em que os respectivos bens de equipamento entrem em funcionamento.
 
-###### Art. 22.º - 1. Os requerimentos serão apresentados na repartição de finanças do concelho ou bairro do domicílio ou sede do requerente; se este ficar situado fora do território do continente e ilhas adjacentes, serão apresentados na repartição do concelho ou bairro em que estiver localizado o seu estabelecimento principal, ou em que possua representação permanente ou, fora destes casos, na Direcção-Geral das Contribuições e Impostos.
+Art. 22.º - 1. Os requerimentos serão apresentados na repartição de finanças do concelho ou bairro do domicílio ou sede do requerente; se este ficar situado fora do território do continente e ilhas adjacentes, serão apresentados na repartição do concelho ou bairro em que estiver localizado o seu estabelecimento principal, ou em que possua representação permanente ou, fora destes casos, na Direcção-Geral das Contribuições e Impostos.
 
 2. Quando o benefício consistir em isenção ou redução de direitos aduaneiros, os requerimentos deverão ser entregues no Fundo de Fomento Industrial ou nas delegações regionais da Secretaria de Estado da Indústria.
 
-###### Art. 23.º - 1. Os requerimentos deverão conter o nome, firma ou denominação social do requerente, indicar o seu domicílio ou sede e apresentar uma clara formulação do pedido.
+Art. 23.º - 1. Os requerimentos deverão conter o nome, firma ou denominação social do requerente, indicar o seu domicílio ou sede e apresentar uma clara formulação do pedido.
 
 2. Quando se trate dos benefícios previstos nas alíneas f) e g) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), o requerimento deverá conter ainda a especificação dos bens de equipamento instalados ou das acções de formação realizadas, a indicação do respectivo custo e a data da sua entrada em funcionamento ou realização e ser acompanhado dos documentos justificativos do montante despendido.
 
@@ -259,7 +300,7 @@ b) Os benefícios previstos na alínea k) da mesma base, que devem ser requerido
 
 6. Se o benefício solicitado for de natureza aduaneira, uma das cópias do respectivo requerimento, depois de devidamente rubricada e autenticada, será devolvida ao interessado, para que este possa comprovar a apresentação do requerimento perante a instância aduaneira onde se processará o bilhete de despacho de importação, a fim de permitir o desembaraço da mercadoria, mediante a garantia dos direitos e mais imposições até à conclusão do processo.
 
-###### Art. 24.º - 1. Recebido o requerimento, nos termos do n.º 1 do artigo 22.º, o chefe da repartição de finanças verificará a regularidade formal do pedido e demais elementos que o acompanhem e, existindo quaisquer deficiências ou irregularidades, notificará o interessado no prazo de cinco dias, contados da data da apresentação, para removê-las em prazo certo.
+Art. 24.º - 1. Recebido o requerimento, nos termos do n.º 1 do artigo 22.º, o chefe da repartição de finanças verificará a regularidade formal do pedido e demais elementos que o acompanhem e, existindo quaisquer deficiências ou irregularidades, notificará o interessado no prazo de cinco dias, contados da data da apresentação, para removê-las em prazo certo.
 
 2. Se não houver quaisquer deficiências ou irregularidades ou, havendo-as, tiverem sido removidas, o chefe da repartição de finanças organizará um processo, que será remetido ao Fundo de Fomento Industrial no prazo de dez dias, contados da data da apresentação do requerimento ou daquela em que se tenha dado a remoção daquelas deficiências, fazendo-o acompanhar de qualquer informação que julgue útil à apreciação do pedido.
 
@@ -267,25 +308,25 @@ b) Os benefícios previstos na alínea k) da mesma base, que devem ser requerido
 
 4. O termo será lavrado no próprio dia em que o interessado se apresente para o efeito, e se o fizer em requerimento acompanhado de cópia em papel comum, será nesta passado o recibo rubricado e autenticado.
 
-###### Art. 25.º - 1. Recebido o processo, será o mesmo apreciado pelos serviços competentes do Fundo de Fomento Industrial, que deverão elaborar a sua informação, na qual serão especificadas e propostas as condições a estabelecer nos termos do n.º 1 do artigo 5.º deste diploma e que se entendam adequadas, bem como o prazo para o seu cumprimento.
+Art. 25.º - 1. Recebido o processo, será o mesmo apreciado pelos serviços competentes do Fundo de Fomento Industrial, que deverão elaborar a sua informação, na qual serão especificadas e propostas as condições a estabelecer nos termos do n.º 1 do artigo 5.º deste diploma e que se entendam adequadas, bem como o prazo para o seu cumprimento.
 
 2. Na informação deverão, igualmente, mencionar-se os elementos que as empresas ficam obrigadas a fornecer para verificação do cumprimento das condições estabelecidas e a periodicidade do seu envio.
 
 3. A informação do Fundo será submetida, no prazo de trinta dias, ao Secretário de Estado da Indústria, que sobre ela proferirá despacho nos dez dias subsequentes.
 
-###### Art. 26.º - 1. O prazo para decisão do Ministro das Finanças é de trinta dias, contados da data de recepção, pela Direcção-Geral das Contribuições e Impostos, do processo já despachado pelo Secretário de Estado da Indústria.
+Art. 26.º - 1. O prazo para decisão do Ministro das Finanças é de trinta dias, contados da data de recepção, pela Direcção-Geral das Contribuições e Impostos, do processo já despachado pelo Secretário de Estado da Indústria.
 
 2. O despacho que conceder os incentivos fiscais fixará, quando seja caso disso, a sua duração e as condições a que a concessão fica subordinada.
 
 3. A decisão ministerial será comunicada pela Direcção-Geral das Contribuições e Impostos ao Fundo de Fomento Industrial e ao requerente.
 
-###### Art. 27.º - 1. Quando se trate dos benefícios a que se refere o artigo 9.º do presente diploma, recebido o processo, os serviços do Fundo de Fomento Industrial verificarão se se encontram cumpridos os requisitos estabelecidos, podendo recorrer para esse efeito à colaboração das direcções-gerais da Secretaria de Estado da Indústria.
+Art. 27.º - 1. Quando se trate dos benefícios a que se refere o artigo 9.º do presente diploma, recebido o processo, os serviços do Fundo de Fomento Industrial verificarão se se encontram cumpridos os requisitos estabelecidos, podendo recorrer para esse efeito à colaboração das direcções-gerais da Secretaria de Estado da Indústria.
 
 2. Efectuada a verificação, será o processo imediatamente remetido à Direcção-Geral das Contribuições e Impostos.
 
 3. Considerar-se-ão deferidos, se se mostrarem preenchidos os requisitos legalmente fixados, os pedidos que não tenham sido decididos no prazo de quarenta e cinco dias, a contar da entrada do respectivo processo na Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 28.º - 1. Sendo o benefício solicitado a isenção ou redução de direitos de importação de bens de equipamento, o Fundo de Fomento Industrial, no prazo de sessenta dias, a contar da data da entrada do requerimento, e ouvida a Direcção-Geral da Indústria Transformadora, que se pronunciará sobre a existência de fabrico nacional de bens de equipamento idênticos e de qualidade semelhante, em condições comparáveis de preço, qualidade e prazos de entrega, prestará a sua informação, sendo o processo remetido à Direcção-Geral das Alfândegas.
+Art. 28.º - 1. Sendo o benefício solicitado a isenção ou redução de direitos de importação de bens de equipamento, o Fundo de Fomento Industrial, no prazo de sessenta dias, a contar da data da entrada do requerimento, e ouvida a Direcção-Geral da Indústria Transformadora, que se pronunciará sobre a existência de fabrico nacional de bens de equipamento idênticos e de qualidade semelhante, em condições comparáveis de preço, qualidade e prazos de entrega, prestará a sua informação, sendo o processo remetido à Direcção-Geral das Alfândegas.
 
 2. O Fundo de Fomento Industrial não deixará de cumprir o prazo fixado no número anterior pelo facto de não obter em tempo resposta da Direcção-Geral da Indústria Transformadora, devendo referir essa circunstância na informação que elaborar nos termos do mesmo número.
 
@@ -293,19 +334,19 @@ b) Os benefícios previstos na alínea k) da mesma base, que devem ser requerido
 
 #### SECÇÃO II — Da concessão de outros benefícios
 
-###### Art. 29.º As empresas que pretendam obter os benefícios previstos nos artigos 14.º a 20.º deste decreto-lei deverão formular os respectivos pedidos em requerimento dirigido ao Secretário de Estado da Indústria e apresentado nas delegações regionais da Secretaria de Estado da Indústria ou no Fundo de Fomento Industrial, que os estudará e sobre eles prestará a devida informação.
+Art. 29.º As empresas que pretendam obter os benefícios previstos nos artigos 14.º a 20.º deste decreto-lei deverão formular os respectivos pedidos em requerimento dirigido ao Secretário de Estado da Indústria e apresentado nas delegações regionais da Secretaria de Estado da Indústria ou no Fundo de Fomento Industrial, que os estudará e sobre eles prestará a devida informação.
 
-###### Art. 30.º - 1. A decisão sobre os pedidos de concessão de avales a que se refere o artigo 17.º será proferida em despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria.
+Art. 30.º - 1. A decisão sobre os pedidos de concessão de avales a que se refere o artigo 17.º será proferida em despacho conjunto do Ministro das Finanças e do Secretário de Estado da Indústria.
 
 2. Cabe ao Secretário de Estado da Indústria, com a concordância do Ministro das Finanças, conceder os benefícios previstos na alínea c) do artigo 14.º e nos artigos 18.º e 19.º
 
 3. Incumbe ao Secretário de Estado da Indústria decidir sobre os pedidos de cobertura total ou parcial dos custos referidos no artigo 20.º
 
-###### Art. 31.º A decisão sobre os pedidos deve ser proferida dentro dos trinta dias seguintes à recepção dos respectivos requerimentos, devidamente informados pelo Fundo de Fomento Industrial.
+Art. 31.º A decisão sobre os pedidos deve ser proferida dentro dos trinta dias seguintes à recepção dos respectivos requerimentos, devidamente informados pelo Fundo de Fomento Industrial.
 
 #### SECÇÃO III — Disposições comuns
 
-###### Art. 32.º - 1. O Fundo de Fomento Industrial pode solicitar dos requerentes quaisquer elementos que se mostrem necessários à apreciação dos pedidos.
+Art. 32.º - 1. O Fundo de Fomento Industrial pode solicitar dos requerentes quaisquer elementos que se mostrem necessários à apreciação dos pedidos.
 
 2. Com a mesma finalidade, poderão ser solicitadas informações aos serviços do Estado, institutos públicos, autarquias locais e pessoas colectivas de utilidade pública administrativa, que deverão fornecê-los, no prazo de trinta dias, sempre que para tal disponham de elementos ou se encontrem em condições de obtê-los.
 
@@ -313,9 +354,9 @@ b) Os benefícios previstos na alínea k) da mesma base, que devem ser requerido
 
 4. Os requerentes deverão fornecer os elementos que lhe forem solicitados pelo Fundo no prazo máximo de trinta dias, sem o que os requerimentos serão considerados indeferidos e arquivados os respectivos processos.
 
-###### Art. 33.º Os despachos que recaírem sobre os requerimentos referentes aos benefícios regulados no presente diploma serão sempre comunicados aos interessados.
+Art. 33.º Os despachos que recaírem sobre os requerimentos referentes aos benefícios regulados no presente diploma serão sempre comunicados aos interessados.
 
-###### Art. 34.º - 1. A inobservância das condições impostas no despacho de concessão de benefícios implica a sua imediata caducidade, o pagamento no prazo de trinta dias, a contar da notificação pelos serviços competentes das receitas não arrecadadas e a exclusão da empresa faltosa, por um período até cinco anos, de quaisquer outros benefícios a receber do Estado ou de outras pessoas de direito público.
+Art. 34.º - 1. A inobservância das condições impostas no despacho de concessão de benefícios implica a sua imediata caducidade, o pagamento no prazo de trinta dias, a contar da notificação pelos serviços competentes das receitas não arrecadadas e a exclusão da empresa faltosa, por um período até cinco anos, de quaisquer outros benefícios a receber do Estado ou de outras pessoas de direito público.
 
 2. A caducidade dos benefícios será declarada por despacho do Secretário de Estado da Indústria, a quem compete, igualmente, a aplicação das demais sanções previstas no número anterior.
 
@@ -323,33 +364,33 @@ b) Os benefícios previstos na alínea k) da mesma base, que devem ser requerido
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 35.º A fiscalização do cumprimento, pelas empresas, das condições impostas no despacho de concessão dos benefícios incumbe aos serviços competentes dos Ministérios das Finanças e da Economia.
+Art. 35.º A fiscalização do cumprimento, pelas empresas, das condições impostas no despacho de concessão dos benefícios incumbe aos serviços competentes dos Ministérios das Finanças e da Economia.
 
-###### Art. 36.º Quando, por qualquer circunstância, o direito aos benefícios fiscais caducar antes do prazo por que estes foram concedidos, o Fundo de Fomento Industrial comunicá-lo-á imediatamente ao interessado e à Direcção-Geral das Contribuições e Impostos.
+Art. 36.º Quando, por qualquer circunstância, o direito aos benefícios fiscais caducar antes do prazo por que estes foram concedidos, o Fundo de Fomento Industrial comunicá-lo-á imediatamente ao interessado e à Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 37.º Sempre que as empresas utilizarem a autorização concedida ao abrigo da alínea e) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), deverão mencioná-lo no mapa das reintegrações e amortizações referido no n.º 1 da alínea f) do artigo 46.º do Código da Contribuição Industrial.
+Art. 37.º Sempre que as empresas utilizarem a autorização concedida ao abrigo da alínea e) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), deverão mencioná-lo no mapa das reintegrações e amortizações referido no n.º 1 da alínea f) do artigo 46.º do Código da Contribuição Industrial.
 
-###### Art. 38.º A dedução prevista na alínea f) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) será escalonada pelo período de três anos, mas a parte que não possa ser deduzida num determinado ano, por insuficiência de matéria colectável, sê-lo-á nos anos seguintes, desde que não ultrapasse o último período da concessão.
+Art. 38.º A dedução prevista na alínea f) da base IX da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) será escalonada pelo período de três anos, mas a parte que não possa ser deduzida num determinado ano, por insuficiência de matéria colectável, sê-lo-á nos anos seguintes, desde que não ultrapasse o último período da concessão.
 
-###### Art. 39.º Enquanto não forem proferidos despachos de fixação de requisitos ao abrigo do artigo 9.º, a atribuição dos benefícios incluídos na classe B do quadro anexo a este diploma será feita caso a caso, tendo em conta os critérios enunciados nos artigos 3.º e 4.º, devendo os respectivos pedidos ser formulados, instruídos e decididos de harmonia com o disposto nos artigos 23.º a 26.º
+Art. 39.º Enquanto não forem proferidos despachos de fixação de requisitos ao abrigo do artigo 9.º, a atribuição dos benefícios incluídos na classe B do quadro anexo a este diploma será feita caso a caso, tendo em conta os critérios enunciados nos artigos 3.º e 4.º, devendo os respectivos pedidos ser formulados, instruídos e decididos de harmonia com o disposto nos artigos 23.º a 26.º
 
-###### Art. 40.º As normas processuais estabelecidas neste diploma poderão ser alteradas por decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado da Indústria, excepto no que se refere à competência para concessão dos benefícios.
+Art. 40.º As normas processuais estabelecidas neste diploma poderão ser alteradas por decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado da Indústria, excepto no que se refere à competência para concessão dos benefícios.
 
-###### Art. 41.º O preceituado neste diploma aplicar-se-á, com as necessárias adaptações, aos pedidos pendentes, bem como aos que vierem a ser formulados nos termos do artigo seguinte.
+Art. 41.º O preceituado neste diploma aplicar-se-á, com as necessárias adaptações, aos pedidos pendentes, bem como aos que vierem a ser formulados nos termos do artigo seguinte.
 
-###### Art. 42.º Quando os prazos fixados para requerimento dos incentivos previstos neste diploma tenham terminado à data da sua entrada em vigor, ou venham a terminar nos sessenta dias seguintes, os benefícios poderão ainda ser concedidos se forem requeridos até ao fim desse período.
+Art. 42.º Quando os prazos fixados para requerimento dos incentivos previstos neste diploma tenham terminado à data da sua entrada em vigor, ou venham a terminar nos sessenta dias seguintes, os benefícios poderão ainda ser concedidos se forem requeridos até ao fim desse período.
 
-###### Art. 43.º Enquanto não estiver em funcionamento o Fundo de Fomento Industrial, a competência que lhe é conferida pela [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) e pelo presente diploma será exercida pela Direcção-Geral da Indústria Transformadora.
+Art. 43.º Enquanto não estiver em funcionamento o Fundo de Fomento Industrial, a competência que lhe é conferida pela [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856) e pelo presente diploma será exercida pela Direcção-Geral da Indústria Transformadora.
 
-###### Art. 44.º O Fundo organizará e manterá actualizado um sistema de informação sobre o montante dos benefícios concedidos ao abrigo deste decreto-lei e a contribuição dos empreendimentos contemplados para a realização dos objectivos da política industrial.
+Art. 44.º O Fundo organizará e manterá actualizado um sistema de informação sobre o montante dos benefícios concedidos ao abrigo deste decreto-lei e a contribuição dos empreendimentos contemplados para a realização dos objectivos da política industrial.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 18 de Fevereiro de 1974.**
+Promulgado em 18 de Fevereiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -357,6 +398,6 @@ QUADRO
 
 Classes de incentivos fiscais a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/02/05001/00010008.pdf))](https://files.diariodarepublica.pt/1s/1974/02/05001/00010008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/02/05001/00010008.pdf)
 
-**O Ministro das Finanças e da Economia, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças e da Economia, Manuel Artur Cotta Agostinho Dias.

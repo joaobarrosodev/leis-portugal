@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18000/18681873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/659-1976-429806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85026286c8023ffbcd97b72f57a3e5aeb4e73c9ea87faf60a97afbe924702b58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dfea02299fff06179baefa385fe7ea092940d4f4c46c5a2c8ac554bd7d6d01e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho Diretivo
+- Definição de Competências
+- Direção
+- Diretor de Serviços
+- Instituto de Inovação Pedagógica
+- Ministério da Educação e Investigação Científica
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:408758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:429804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684799:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408758:por
+  label: "Revogado pelo DEC LEI.676/76.31.08.1976.MEIC, DR.IS [204] de 31.08.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/676-1976-408758
+  date: '1976-08-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:14Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +137,15 @@ DIPLOMA ORGÂNICO DO INSTITUTO DE INOVAÇÃO PEDAGÓGICA
 
 ### CAPÍTULO I — Das atribuições e competência
 
-###### Artigo 1.º - 1. É criado, como serviço central do Ministério da Educação e Investigação Científica, o Instituto de Inovação Pedagógica, adiante designado por Instituto, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, que se destina a fomentar a inovação pedagógica e formação de professores em exercício e a produzir documentação de apoio à prática docente.
+Artigo 1.º - 1. É criado, como serviço central do Ministério da Educação e Investigação Científica, o Instituto de Inovação Pedagógica, adiante designado por Instituto, organismo dotado de personalidade jurídica e autonomia administrativa e financeira, que se destina a fomentar a inovação pedagógica e formação de professores em exercício e a produzir documentação de apoio à prática docente.
 
 2. Fica extinto o Instituto de Tecnologia Educativa e revogado o [Decreto-Lei n.º 71/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1973-684799), de 27 de Fevereiro.
 
-###### Art. 2.º O Instituto reger-se-á pelas disposições do presente diploma e dos regulamentos que em sua execução vierem a ser aprovados.
+Art. 2.º O Instituto reger-se-á pelas disposições do presente diploma e dos regulamentos que em sua execução vierem a ser aprovados.
 
-###### Art. 3.º São atribuições do Instituto a promoção e coordenação de acções de inovação e investigação pedagógicas, de formação de docentes, de tratamento de documentação e a produção de programas educativos de âmbito geral ou de tecnologia aplicada à educação e ao ensino.
+Art. 3.º São atribuições do Instituto a promoção e coordenação de acções de inovação e investigação pedagógicas, de formação de docentes, de tratamento de documentação e a produção de programas educativos de âmbito geral ou de tecnologia aplicada à educação e ao ensino.
 
-###### Art. 4.º Com vista à prossecução das suas finalidades, compete, nomeadamente, ao Instituto:
+Art. 4.º Com vista à prossecução das suas finalidades, compete, nomeadamente, ao Instituto:
 
 a) Desenvolver, incentivar e acompanhar processos de inovação no domínio da educação e do ensino e promover a sua difusão;
 
@@ -134,9 +171,9 @@ j) Promover a criação e o acompanhamento da acção de centros regionais dotad
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 5.º São órgãos do Instituto a direcção, o conselho directivo e o conselho administrativo.
+Art. 5.º São órgãos do Instituto a direcção, o conselho directivo e o conselho administrativo.
 
-###### Art. 6.º - 1. A direcção é um órgão colegial com a seguinte constituição:
+Art. 6.º - 1. A direcção é um órgão colegial com a seguinte constituição:
 
 a) Presidente;
 
@@ -146,7 +183,7 @@ c) Directores de serviço.
 
 2. À direcção, representada pelo seu presidente, competirá a gestão de todas as actividades do Instituto no âmbito dos planos de acção aprovados pelo conselho directivo.
 
-###### Art. 7.º - 1. O conselho directivo é constituído pelo presidente da direcção do Instituto, que presidirá, pelo vice-presidente e pelos seguintes vogais:
+Art. 7.º - 1. O conselho directivo é constituído pelo presidente da direcção do Instituto, que presidirá, pelo vice-presidente e pelos seguintes vogais:
 
 a) Director-geral do Ensino Superior, director-geral do Ensino Secundário, director-geral do Ensino Básico, director-geral da Educação Permanente, director-geral do Equipamento Escolar, director-geral de Pessoal e Administração, inspector-geral do Ensino Particular e director do Gabinete de Estudos e Planeamento do MEIC (ou seus representantes);
 
@@ -162,7 +199,7 @@ d) Um representante do Conselho de Imprensa.
 
 4. Ao conselho directivo competirá unicamente a definição das linhas gerais da política do Instituto através da aprovação dos respectivos planos de acção e apreciação do relatório final de actividades.
 
-###### Art. 8.º - 1. O conselho administrativo é constituído pelo presidente da direcção, pelo director de serviços administrativos e financeiros e por dois vogais nomeados pelo Ministro da Educação e Investigação Científica, não pertencentes ao Instituto.
+Art. 8.º - 1. O conselho administrativo é constituído pelo presidente da direcção, pelo director de serviços administrativos e financeiros e por dois vogais nomeados pelo Ministro da Educação e Investigação Científica, não pertencentes ao Instituto.
 
 2. O conselho administrativo delibera por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
@@ -170,11 +207,11 @@ d) Um representante do Conselho de Imprensa.
 
 4. Ao conselho administrativo competirá a gestão patrimonial e financeira do Instituto.
 
-###### Art. 9.º Os membros do conselho directivo e do conselho administrativo exercem as suas funções gratuitamente no âmbito de actividade que desempenham nos organismos a que pertencem.
+Art. 9.º Os membros do conselho directivo e do conselho administrativo exercem as suas funções gratuitamente no âmbito de actividade que desempenham nos organismos a que pertencem.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 10.º - 1. Os serviços do Instituto são organizados em direcções de serviços, que correspondem aos seus grandes sectores de actividade.
+Art. 10.º - 1. Os serviços do Instituto são organizados em direcções de serviços, que correspondem aos seus grandes sectores de actividade.
 
 2. O Instituto compreende os seguintes departamentos:
 
@@ -188,37 +225,37 @@ d) Telescola;
 
 e) Divisão de Documentação e Difusão.
 
-###### Art. 11.º Na dependência directa da direcção existirão ainda a Divisão para as Relações Internacionais, a Divisão para a Regionalização e a Divisão de Estudos e Planeamento.
+Art. 11.º Na dependência directa da direcção existirão ainda a Divisão para as Relações Internacionais, a Divisão para a Regionalização e a Divisão de Estudos e Planeamento.
 
-###### Art. 12.º A Direcção dos Serviços de Produção compreende:
+Art. 12.º A Direcção dos Serviços de Produção compreende:
 
 a) Divisão de Programas;
 
 b) Divisão Operacional.
 
-###### Art. 13.º A Telescola continua a reger-se por legislação própria em vigor.
+Art. 13.º A Telescola continua a reger-se por legislação própria em vigor.
 
-###### Art. 14.º A Direcção dos Serviços Administrativos e Financeiros compreende:
+Art. 14.º A Direcção dos Serviços Administrativos e Financeiros compreende:
 
 a) Repartição Financeira;
 
 b) Repartição Administrativa.
 
-###### Art. 15.º Fica cometida ao Instituto a organização de Centros Regionais de Apoio Pedagógico, tomando em consideração as áreas administrativas em que o País se encontre dividido.
+Art. 15.º Fica cometida ao Instituto a organização de Centros Regionais de Apoio Pedagógico, tomando em consideração as áreas administrativas em que o País se encontre dividido.
 
 #### SECÇÃO III — Das disposições comuns
 
-###### Art. 16.º As atribuições e modo de funcionamento dos órgãos constitutivos do Instituto, bem como a organização e competência dos respectivos serviços e de divisões de apoio cuja autonomização se justifique, serão fixados em regulamento, a aprovar nos termos do disposto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 16.º As atribuições e modo de funcionamento dos órgãos constitutivos do Instituto, bem como a organização e competência dos respectivos serviços e de divisões de apoio cuja autonomização se justifique, serão fixados em regulamento, a aprovar nos termos do disposto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 17.º - 1. O Instituto dispõe do pessoal dirigente e técnico constante do mapa anexo ao presente diploma.
+Art. 17.º - 1. O Instituto dispõe do pessoal dirigente e técnico constante do mapa anexo ao presente diploma.
 
 2. Disporá, ainda, do pessoal administrativo, técnico auxiliar e auxiliar constante do mesmo mapa.
 
 3. O quadro referido nos números anteriores é acrescido aos quadros únicos a que se referem os artigos 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e 22.º, n.º 3, do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 18.º As formas de recrutamento e os regimes de provimento do pessoal do quadro do Instituto, a que se referem os n.os 1 e 2 do artigo 17.º, serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nos números seguintes.
+Art. 18.º As formas de recrutamento e os regimes de provimento do pessoal do quadro do Instituto, a que se referem os n.os 1 e 2 do artigo 17.º, serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nos números seguintes.
 
 1. Os lugares de presidente da direcção e de vice-presidente serão providos, em comissão de serviço por tempo indeterminado, por escolha do Primeiro-Ministro e do Ministro da Educação e Investigação Científica de entre diplomados com curso superior e de reconhecida competência.
 
@@ -250,29 +287,29 @@ h) Os radiotécnicos estagiários que não satisfizerem as condições referidas
 
 7. Os lugares de impressor de offset, de mecânico electricista principal, de encarregado de manutenção e conservação e de electricista serão providos de entre os candidatos habilitados com cursos de formação apropriados das escolas técnicas.
 
-###### Art. 19.º - 1. Pode o Ministro da Educação e Investigação Científica, pelo prazo de dois anos, renováveis, autorizar a prestação de serviço em actividades pedagógicas de formação, de investigação, de documentação e de produção dependentes do Instituto a agentes de ensino de qualquer grau, em regime de destacamento, a tempo integral ou parcial, ou no de comissão de serviço.
+Art. 19.º - 1. Pode o Ministro da Educação e Investigação Científica, pelo prazo de dois anos, renováveis, autorizar a prestação de serviço em actividades pedagógicas de formação, de investigação, de documentação e de produção dependentes do Instituto a agentes de ensino de qualquer grau, em regime de destacamento, a tempo integral ou parcial, ou no de comissão de serviço.
 
 2. O pessoal referido no n.º 1 perceberá gratificações idênticas às atribuídas ao pessoal destacado noutros serviços do Ministério da Educação e Investigação Científica para o exercício de funções inspectivas e pedagógicas.
 
-###### Art. 20.º - 1. O exercício das funções a que se refere o artigo anterior considera-se, para todos os efeitos legais, como desempenhado nos serviços a que os agentes de ensino pertencem.
+Art. 20.º - 1. O exercício das funções a que se refere o artigo anterior considera-se, para todos os efeitos legais, como desempenhado nos serviços a que os agentes de ensino pertencem.
 
 2. Enquanto em regime de tempo integral, a qualificação de serviço é feita pelo Instituto.
 
-###### Art. 21.º - 1. O Ministro da Educação e Investigação Científica poderá autorizar que pelas disponibilidades das dotações orçamentais de vencimentos ou por força de verbas especialmente inscritas com pessoal seja contratado além do quadro pessoal técnico ou administrativo, técnico auxiliar e auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, sem prejuízo da aplicação da legislação em vigor sobre excedentes de pessoal na administração pública.
+Art. 21.º - 1. O Ministro da Educação e Investigação Científica poderá autorizar que pelas disponibilidades das dotações orçamentais de vencimentos ou por força de verbas especialmente inscritas com pessoal seja contratado além do quadro pessoal técnico ou administrativo, técnico auxiliar e auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, sem prejuízo da aplicação da legislação em vigor sobre excedentes de pessoal na administração pública.
 
 2. A utilização das disponibilidades dos vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
 
-###### Art. 22.º - 1. Pode ainda o Ministro da Educação e Investigação Científica autorizar, por contrato ou por prestação eventual de serviço, o recrutamento temporário de pessoal destinado a actividades de natureza técnica cujos lugares não estejam previstos no quadro anexo ao presente diploma, sem prejuízo da aplicação da legislação em vigor sobre excedentes de pessoal na administração pública.
+Art. 22.º - 1. Pode ainda o Ministro da Educação e Investigação Científica autorizar, por contrato ou por prestação eventual de serviço, o recrutamento temporário de pessoal destinado a actividades de natureza técnica cujos lugares não estejam previstos no quadro anexo ao presente diploma, sem prejuízo da aplicação da legislação em vigor sobre excedentes de pessoal na administração pública.
 
 2. Ao pessoal a que se refere o número anterior deverá aplicar-se o disposto na lei geral.
 
-###### Art. 23.º O Instituto poderá, sempre que o julgue conveniente e as necessidades de serviço o reclamem, recorrer à colaboração de técnicos, investigadores ou organismos dos sectores público ou privado, de preferência nacionais, para a elaboração de estudos, pareceres, trabalhos ou projectos, em regime de prestação de serviços, nas condições aprovadas pela direcção e em obediência aos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, dentro das disponibilidades orçamentais existentes.
+Art. 23.º O Instituto poderá, sempre que o julgue conveniente e as necessidades de serviço o reclamem, recorrer à colaboração de técnicos, investigadores ou organismos dos sectores público ou privado, de preferência nacionais, para a elaboração de estudos, pareceres, trabalhos ou projectos, em regime de prestação de serviços, nas condições aprovadas pela direcção e em obediência aos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, dentro das disponibilidades orçamentais existentes.
 
 ### CAPÍTULO IV — Da gestão financeira e patrimonial
 
-###### Art. 24.º A gestão financeira e patrimonial do Instituto obedecerá aos princípios gerais de administração dos serviços dotados de autonomia administrativa e financeira.
+Art. 24.º A gestão financeira e patrimonial do Instituto obedecerá aos princípios gerais de administração dos serviços dotados de autonomia administrativa e financeira.
 
-###### Art. 25.º Constituem a receita do Instituto:
+Art. 25.º Constituem a receita do Instituto:
 
 a) As dotações que lhe forem consignadas no Orçamento Geral do Estado;
 
@@ -292,7 +329,7 @@ h) Os juros de depósitos efectuados pelo Instituto;
 
 i) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou por outro título.
 
-###### Art. 26.º Constituem despesas do Instituto as que resultem do exercício das funções que lhe são cometidas pelo artigo 4.º deste diploma, designadamente:
+Art. 26.º Constituem despesas do Instituto as que resultem do exercício das funções que lhe são cometidas pelo artigo 4.º deste diploma, designadamente:
 
 a) Os encargos com o respectivo funcionamento;
 
@@ -302,23 +339,23 @@ c) Os encargos resultantes do pagamento de serviços de que beneficie ou das pro
 
 d) Outros encargos decorrentes da conservação, exploração e amplificação dos empreendimentos ou serviços a seu cargo.
 
-###### Art. 27.º O Instituto prestará ao Ministro da Educação e Investigação Científica, anualmente, até 30 de Abril do ano seguinte, conta da execução dos planos de actividades e dos orçamentos, sendo as contas de gerência submetidas a julgamento do Tribunal de Contas.
+Art. 27.º O Instituto prestará ao Ministro da Educação e Investigação Científica, anualmente, até 30 de Abril do ano seguinte, conta da execução dos planos de actividades e dos orçamentos, sendo as contas de gerência submetidas a julgamento do Tribunal de Contas.
 
-###### Art. 28.º Para ocorrer a pequenas despesas correntes e inadiáveis será constituído, nos termos legais, por despacho ministerial, um fundo permanente a administrar pelo presidente do conselho administrativo ou por um dos vogais do mesmo conselho em que ele delegue.
+Art. 28.º Para ocorrer a pequenas despesas correntes e inadiáveis será constituído, nos termos legais, por despacho ministerial, um fundo permanente a administrar pelo presidente do conselho administrativo ou por um dos vogais do mesmo conselho em que ele delegue.
 
-###### Art. 29.º Os subsídios ou fundos que venham a ser concedidos pelo Instituto a centros regionais ou a movimentar pelos estabelecimentos de ensino na sua dependência directa ou indirecta serão objecto de regulamentação específica por despacho do Ministro da Educação e Investigação Científica, publicado no Diário da República.
+Art. 29.º Os subsídios ou fundos que venham a ser concedidos pelo Instituto a centros regionais ou a movimentar pelos estabelecimentos de ensino na sua dependência directa ou indirecta serão objecto de regulamentação específica por despacho do Ministro da Educação e Investigação Científica, publicado no Diário da República.
 
-###### Art. 30.º - 1. O Instituto beneficia de isenção de direitos de importação e demais encargos, incluindo os emolumentos gerais aduaneiros, em toda a maquinaria, aparelhagem, equipamento e quaisquer outros artigos ou elementos, a definir por despacho do Ministro da Educação e Investigação Científica, ouvido o Ministro das Finanças, importados para estudo, exploração, conservação ou renovação dos serviços, destinados a actividades pedagógicas de formação, de investigação, de documentação ou de produção, desde que se trate de materiais adquiridos para uso exclusivo do Instituto e dos seus centros regionais.
+Art. 30.º - 1. O Instituto beneficia de isenção de direitos de importação e demais encargos, incluindo os emolumentos gerais aduaneiros, em toda a maquinaria, aparelhagem, equipamento e quaisquer outros artigos ou elementos, a definir por despacho do Ministro da Educação e Investigação Científica, ouvido o Ministro das Finanças, importados para estudo, exploração, conservação ou renovação dos serviços, destinados a actividades pedagógicas de formação, de investigação, de documentação ou de produção, desde que se trate de materiais adquiridos para uso exclusivo do Instituto e dos seus centros regionais.
 
 2. Os materiais referidos no número anterior, assim como os artigos necessários ao seu normal funcionamento, beneficiarão do regime de importação temporária, nos termos da legislação em vigor.
 
-###### Art. 31.º - 1. O Instituto publicará, anualmente, a lista do equipamento áudio-visual aprovado, à qual se subordinarão as aquisições a efectuar pelos serviços do Ministério da Educação e Investigação Científica e pelos estabelecimentos oficiais de ensino e educação.
+Art. 31.º - 1. O Instituto publicará, anualmente, a lista do equipamento áudio-visual aprovado, à qual se subordinarão as aquisições a efectuar pelos serviços do Ministério da Educação e Investigação Científica e pelos estabelecimentos oficiais de ensino e educação.
 
 2. Ficam sujeitas a aprovação prévia as aquisições de equipamento e material didáctico feitas por quaisquer departamentos do Ministério da Educação e Investigação Científica ou por estabelecimentos oficiais de ensino e educação que não constem na lista aprovada.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 32.º - 1. Com ressalva do disposto nos n.os 2 a 6, o pessoal que actualmente presta serviço no instituto de Tecnologia Educativa a tempo integral e independentemente do seu vínculo será provido em lugares idênticos ou de categoria equivalente do quadro anexo ao presente diploma, mediante lista ou listas nominativas, visadas pelo Tribunal de Contas e previamente aprovadas pelo Ministro da Educação e Investigação Científica, a publicar no Diário da República.
+Art. 32.º - 1. Com ressalva do disposto nos n.os 2 a 6, o pessoal que actualmente presta serviço no instituto de Tecnologia Educativa a tempo integral e independentemente do seu vínculo será provido em lugares idênticos ou de categoria equivalente do quadro anexo ao presente diploma, mediante lista ou listas nominativas, visadas pelo Tribunal de Contas e previamente aprovadas pelo Ministro da Educação e Investigação Científica, a publicar no Diário da República.
 
 2. O primeiro provimento dos lugares de operador técnico áudio-visual principal de 1.ª, 2.ª e 3.ª classes far-se-á de entre trabalhadores do Instituto de Tecnologia Educativa que tenham, respectivamente, pelo monos, cinco, quatro, três e dois anos de bom e efectivo serviço no exercício de funções técnicas áudio-visuais, mediante a apresentação de carteira profissional adequada, ou certidão emitida pelo sindicato comprovando habilitação profissional específica, acrescidas de declaração do Instituto, demonstrativa de aptidão para o exercício das respectivas funções nas mesmas áreas ou em áreas afins, obtida através de provas práticas profissionais de acordo com as instituições sindicais respectivas.
 
@@ -330,19 +367,19 @@ d) Outros encargos decorrentes da conservação, exploração e amplificação d
 
 6. O pessoal que presta serviço no Instituto de Tecnologia Educativa e que não for possível prover nos termos previstos nos números anteriores mantêm-se na situação em que se encontrar à data da publicação deste decreto-lei, ficando afecto ao Instituto de Inovação Pedagógica.
 
-###### Art. 33.º O pessoal do Instituto de Tecnologia Educativa que, nos termos do n.º 1 do artigo 32.º, transite para lugares idênticos ou equivalentes do quadro anexo ao presente diploma beneficiará do estatuto do restante pessoal do Ministério da Educação e Investigação Científica.
+Art. 33.º O pessoal do Instituto de Tecnologia Educativa que, nos termos do n.º 1 do artigo 32.º, transite para lugares idênticos ou equivalentes do quadro anexo ao presente diploma beneficiará do estatuto do restante pessoal do Ministério da Educação e Investigação Científica.
 
-###### Art. 34.º A admissão de novos trabalhadores no quadro a que se refere o artigo 17.º, n.os 1 e 2, deste diploma, mesmo já pertencentes aos quadros do Ministério da Educação e Investigação Científica ou outros, fica condicionada às vagas que resultarem depois do provimento dos actuais trabalhadores do Instituto de Tecnologia Educativa e da Telescola que satisfaçam as condições exigidas neste diploma.
+Art. 34.º A admissão de novos trabalhadores no quadro a que se refere o artigo 17.º, n.os 1 e 2, deste diploma, mesmo já pertencentes aos quadros do Ministério da Educação e Investigação Científica ou outros, fica condicionada às vagas que resultarem depois do provimento dos actuais trabalhadores do Instituto de Tecnologia Educativa e da Telescola que satisfaçam as condições exigidas neste diploma.
 
-###### Art. 35.º O pessoal não pertencente ao quadro do Instituto previsto no artigo 17.º do presente diploma e o que aí preste serviço em regime que não seja o de contrato além do quadro poderá ser abrangido pelas respectivas caixas de previdência, competindo ao Instituto o pagamento dos encargos normalmente atribuídos às entidades patronais.
+Art. 35.º O pessoal não pertencente ao quadro do Instituto previsto no artigo 17.º do presente diploma e o que aí preste serviço em regime que não seja o de contrato além do quadro poderá ser abrangido pelas respectivas caixas de previdência, competindo ao Instituto o pagamento dos encargos normalmente atribuídos às entidades patronais.
 
-###### Art. 36.º Até à integração do pessoal do Instituto na ADSE, poderá aquele organismo subsidiar iniciativas de carácter social e assistencial em benefício dos seus servidores.
+Art. 36.º Até à integração do pessoal do Instituto na ADSE, poderá aquele organismo subsidiar iniciativas de carácter social e assistencial em benefício dos seus servidores.
 
-###### Art. 37.º - 1. Os contratos a outorgar pelo Instituto serão reduzidos a escrito e, salvo quando as estipulações contratuais exijam a intervenção de notário, constarão de livro próprio, servindo de oficial público o director dos Serviços Administrativos e Financeiros ou, nas suas faltas ou impedimentos, o chefe da Repartição Financeira.
+Art. 37.º - 1. Os contratos a outorgar pelo Instituto serão reduzidos a escrito e, salvo quando as estipulações contratuais exijam a intervenção de notário, constarão de livro próprio, servindo de oficial público o director dos Serviços Administrativos e Financeiros ou, nas suas faltas ou impedimentos, o chefe da Repartição Financeira.
 
 2. Os litígios entre o Instituto e os adjudicatários de obras ou serviços contratados, bem como entidades ou pessoas colectivas beneficiárias dos seus serviços, poderão ser decididos por arbitragem, se tal estiver clausulado nos respectivos contratos.
 
-###### Art. 38.º - 1. Ao Instituto, salvo convenção expressa em contrário, fica a pertencer o direito de autor sobre as obras cuja execução promover ou financiar.
+Art. 38.º - 1. Ao Instituto, salvo convenção expressa em contrário, fica a pertencer o direito de autor sobre as obras cuja execução promover ou financiar.
 
 2. O Instituto pode promover a repetição de transmissões de rádio ou televisão de quaisquer gravações de que seja proprietário, bem como a reedição de textos, diaporamas, fotografias, registos magnéticos e demais documentação áudio-visual.
 
@@ -350,7 +387,7 @@ d) Outros encargos decorrentes da conservação, exploração e amplificação d
 
 4. Salvo convenção em contrário, os autores não terão direito a perceber novas remunerações em caso de reedição ou repetições de programas.
 
-###### Art. 39.º - 1. À data da publicação deste decreto-lei serão transferidos para o Instituto de Inovação Pedagógica todo o património, direitos e obrigações afectos ao Instituto de Tecnologia Educativa.
+Art. 39.º - 1. À data da publicação deste decreto-lei serão transferidos para o Instituto de Inovação Pedagógica todo o património, direitos e obrigações afectos ao Instituto de Tecnologia Educativa.
 
 2. Serão submetidas à aprovação do Ministro da Educação e Investigação Científica, com parecer das Direcções-Gerais da Função Pública e da Organização Administrativa, do Ministério da Administração Interna, até sessenta dias após a publicação deste diploma, as disposições regulamentares necessárias para a sua execução.
 
@@ -358,22 +395,22 @@ d) Outros encargos decorrentes da conservação, exploração e amplificação d
 
 4. A transferência de serviços das direcções-gerais para o Instituto, dentro do âmbito que vier a ser definido na regulamentação complementar, realizar-se-á, na medida das possibilidades e dos acordos com os respectivos serviços, até ao fim do ano de 1978.
 
-###### Art. 40.º Os encargos relativos ao ano económico de 1976, resultantes da execução do presente diploma, serão satisfeitos pelas dotações inscritas ou a inscrever no orçamento privativo do Instituto de Tecnologia Educativa.
+Art. 40.º Os encargos relativos ao ano económico de 1976, resultantes da execução do presente diploma, serão satisfeitos pelas dotações inscritas ou a inscrever no orçamento privativo do Instituto de Tecnologia Educativa.
 
-###### Art. 41.º As dúvidas que surgirem na aplicação deste diploma serão decididas por despacho dos Ministros da Educação e Investigação Científica, da Administração Interna e das Finanças.
+Art. 41.º As dúvidas que surgirem na aplicação deste diploma serão decididas por despacho dos Ministros da Educação e Investigação Científica, da Administração Interna e das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves - António de Almeida Santos.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro de pessoal a que se refere o artigo 17.º do [Decreto-Lei n.º 660/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1976-429804)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/18000/18681873.pdf))](https://files.diariodarepublica.pt/1s/1976/08/18000/18681873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/08/18000/18681873.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o presidente da direcção, designado por despacho do Ministro da Educação e Investigação Científica, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.**
+O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

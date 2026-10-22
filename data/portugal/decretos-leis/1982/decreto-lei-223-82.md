@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/12900/16071612.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1982-391778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45d6c796ff051898725711f141e3f5f1f2f0589094d01728450db1fed04b411b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0ee39a11f6c92ada630de559cbf73f3d5067dfb58c9d952b087254ecdc45376
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Imposto sobre Sucessões e Doações
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICACAO PUBLICADA NO DIARIO DA REPUBLICA I SERIE NUMERO 162, DE 16/07/82.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-07-16'
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterado o n.º 22.º do art. 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo Dec Lei
+    41969 de 24-Nov de1958, com a redcção dada pelo presente diploma, pelo(a) Decreto-Lei n.º 91/89 - Diário da República
+    n.º 71/1989, Série I de 1989-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 113º, 116º, 149º, 151º, 152º, 153º e 155º do Código do Imposto Municipal da Sisa e do Imposto\
+    \ sobre as Sucessões e Doações, aprovado pelo Dec Lei 41969, de 24-nov de 1958, na redação do presente diploma, pelo DEC\
+    \ LEI.7/96.07.02.1996.MF, DR.IS-A [32] de 07.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574693:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394165:por
+  label: Retificado o art. 1.º pelo(a) Declaração - Diário da República n.º 162/1982, Série I de 1982-07-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394165
+  date: '1982-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:29Z'
   warnings: []
   errors: []
 ---
@@ -116,21 +168,21 @@ Usando da autorização legislativa concedida pelas alíneas a) e b) do artigo 2
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterada a redacção do corpo do artigo 2.º, do n.º 1.º do artigo 5.º, dos n.os 1.º, 2.º, 9.º, 13.º a 16.º e § 1.º do artigo 8.º, dos n.os 3.º e 6.º do artigo 9.º, do n.º 5.º do artigo 11.º, do n.º 5.º do artigo 12.º, do § 2.º e da regra 18.º do § 3.º do artigo 19.º, do § único do artigo 23.º, do corpo do artigo 24.º e seu n.º 2.º, do corpo do artigo 25.º, das refras 6.ª, 10.ª e 11.ª do artigo 31.º, do §. 2.º do artigo 46.º, do artigo 47.º, dos §§ 1.º e 3.º a 5.º do artigo 49.º, do artigo 52.º, do corpo do artigo 60.º e seu § 1.º, dos n.os 4.º e 6.º do artigo 61.º, do artigo 71.º, do corpo do artigo 113.º, do n.º 3.º do artigo 115.º, do artigo 116.º, do § 5.º do artigo 123.º, dos artigos 130.º, 132.º, 145.º e 149.º, do § único do artigo 151.º, do artigo 152.º, do corpo do artigo 153.º, do § 1.º do artigo 155.º, do artigo 156.º, aditando-se, ainda, o § 4.º ao artigo 7.º, a regra 17.ª ao artigo 8.º, o n.º 12.º ao artigo 13.º e os artigos 23.º-A, 38.º-A e 51.º-A, e suprimindo-se o n.º 5.º do § 1.º do artigo 2.º, os n.os 3.º, 8.º e 12.º do artigo 8.º, o n.º 4.º do artigo 9.º, o n.º 2.º do artigo 11.º, o n.º 4.º do artigo 12.º, as regras 6.ª, 7.ª e 15.ª do § 3.º do artigo 19.º, as regras 8.ª e 9.ª do artigo 31.º, os §§ 1.º e 6.º do artigo 43.º e o § 4.º do artigo 59.º do Código da Sisa e do Imposto sobre as Sucessões e Doações pela forma que segue:
+Artigo 1.º É alterada a redacção do corpo do artigo 2.º, do n.º 1.º do artigo 5.º, dos n.os 1.º, 2.º, 9.º, 13.º a 16.º e § 1.º do artigo 8.º, dos n.os 3.º e 6.º do artigo 9.º, do n.º 5.º do artigo 11.º, do n.º 5.º do artigo 12.º, do § 2.º e da regra 18.º do § 3.º do artigo 19.º, do § único do artigo 23.º, do corpo do artigo 24.º e seu n.º 2.º, do corpo do artigo 25.º, das refras 6.ª, 10.ª e 11.ª do artigo 31.º, do §. 2.º do artigo 46.º, do artigo 47.º, dos §§ 1.º e 3.º a 5.º do artigo 49.º, do artigo 52.º, do corpo do artigo 60.º e seu § 1.º, dos n.os 4.º e 6.º do artigo 61.º, do artigo 71.º, do corpo do artigo 113.º, do n.º 3.º do artigo 115.º, do artigo 116.º, do § 5.º do artigo 123.º, dos artigos 130.º, 132.º, 145.º e 149.º, do § único do artigo 151.º, do artigo 152.º, do corpo do artigo 153.º, do § 1.º do artigo 155.º, do artigo 156.º, aditando-se, ainda, o § 4.º ao artigo 7.º, a regra 17.ª ao artigo 8.º, o n.º 12.º ao artigo 13.º e os artigos 23.º-A, 38.º-A e 51.º-A, e suprimindo-se o n.º 5.º do § 1.º do artigo 2.º, os n.os 3.º, 8.º e 12.º do artigo 8.º, o n.º 4.º do artigo 9.º, o n.º 2.º do artigo 11.º, o n.º 4.º do artigo 12.º, as regras 6.ª, 7.ª e 15.ª do § 3.º do artigo 19.º, as regras 8.ª e 9.ª do artigo 31.º, os §§ 1.º e 6.º do artigo 43.º e o § 4.º do artigo 59.º do Código da Sisa e do Imposto sobre as Sucessões e Doações pela forma que segue:
 
-###### Art. 2.º A sisa incide sobre as transmissões, a título oneroso, do direito de propriedade ou de figuras parcelares desse direito, sobre bens imóveis.
+Art. 2.º A sisa incide sobre as transmissões, a título oneroso, do direito de propriedade ou de figuras parcelares desse direito, sobre bens imóveis.
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 1.º Por meio de doações com entradas ou pensões a favor do doador, ou com o encargo de pagamento de dívidas ao donatário ou a terceiro, nos termos do artigo 964.º do Código Civil;
 
 ...
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 4.º Nos contratos para pessoa a nomear, a sisa é devida pelo contraente originário; mas os bens consideram-se novamente transmitidos para a pessoa nomeada se esta não tiver sido identificada ou sempre que a transmissão para o contraente originário tenha beneficiado de isenção.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1.º As transmissões por compra e venda, troca, renda perpétua, renda vitalícia, arrematação, adjudicação por acordo ou decisão judicial, constituição de usufruto, uso ou habitação, direito de superfície e servidão;
 
@@ -154,7 +206,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 1.º Para efeitos de sisa, entender-se-á de troca ou permuta o contrato em que as prestações de ambos os permutantes compreendam bens imóveis, salvo tratando-se de promessa de troca com tradição dos bens apenas para um dos permutantes, a qual será havida por compra e venda.
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 ...
 
@@ -164,25 +216,25 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 6.º As transmissões por declaração de morte presumida do ausente.
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
 5.º A constituição de sociedade no caso previsto pelo artigo 1167.º do Código de Processo Civil.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
 5.º As transmissões de direitos de autor;
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 ...
 
 12.º As transmissões previstas no n.º 4.º do § 1.º do artigo 2.º e no n.º 5.º do artigo 9.º, quando a renda consista numa quota dos frutos.
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § 2.º Nos outros casos, o valor dos bens será o preço convencionado pelos contratantes ou o valor resultante do rendimento colectável, havendo-o, se for maior.
 
@@ -212,17 +264,17 @@ Ao valor resultante da matriz juntar-se-á, para efeitos da comparação e poss�
 
 18.º Na fusão ou na cisão das sociedades referidas no n.º 15.º do artigo 8.º, a sisa incidirá sobre o valor matricial de todos os imóveis das sociedades fusionadas ou cindidas que se transfiram para o activo das sociedades que resultarem da fusão ou cisão, ou sobre o valor por que esses bens entrarem para o activo destas sociedades, conforme o que for maior.
 
-###### Art. 23.º...
+Art. 23.º...
 
 § único. Se a substituição ficar sem efeito ou o fiduciário dispuser dos bens, ao abrigo do n.º 3.º do artigo 2295.º do Código Civil, ser-lhe-á então liquidado imposto pela aquisição da propriedade plena, deixando de vencer-se as respectivas anuidades.
 
-###### Art. 23.º-A - Quando se transmitir qualquer pensão ou renda, vitalícia ou temporária, o imposto incidirá sobre o produto da pensão anual por 20, sendo vitalícia, ou pelo número de anos por que deva durar, sem que possa exceder 20, sendo temporária.
+Art. 23.º-A - Quando se transmitir qualquer pensão ou renda, vitalícia ou temporária, o imposto incidirá sobre o produto da pensão anual por 20, sendo vitalícia, ou pelo número de anos por que deva durar, sem que possa exceder 20, sendo temporária.
 
 § 1.º Sendo dois ou mais os beneficiários da pensão ou renda, e havendo direito de acrescer, liquidar-se-ão tantos impostos quantos forem os beneficiários e segundo os valores das respectivas quotas; cessando o direito de qualquer deles, proceder-se-á, quanto aos restantes, a nova liquidação pelo acrescido, considerando-se transmitente o instituidor da pensão ou renda.
 
 § 2.º Se o pensionista renunciar à pensão, terá de pagar logo as anuidades por vencer.
 
-###### Art. 24.º Quando a propriedade for transmitida com o encargo de qualquer pensão ou renda vitalícia ou temporária a favor de terceiro, observar-se-á o seguinte:
+Art. 24.º Quando a propriedade for transmitida com o encargo de qualquer pensão ou renda vitalícia ou temporária a favor de terceiro, observar-se-á o seguinte:
 
 ...
 
@@ -230,11 +282,11 @@ Ao valor resultante da matriz juntar-se-á, para efeitos da comparação e poss�
 
 ...
 
-###### Art. 25.º Quando o usufruto for transmitido com o encargo de qualquer pensão ou renda vitalícia ou temporária a favor de terceiro, o imposto relativo à pensão liquidar-se-á sobre as importâncias calculadas nos termos do artigo 23.º-A, e o imposto relativo à aquisição do usufruto incidirá sobre os valores indicados no n.º 1.º do artigo 22.º, deduzidos daquelas importâncias.
+Art. 25.º Quando o usufruto for transmitido com o encargo de qualquer pensão ou renda vitalícia ou temporária a favor de terceiro, o imposto relativo à pensão liquidar-se-á sobre as importâncias calculadas nos termos do artigo 23.º-A, e o imposto relativo à aquisição do usufruto incidirá sobre os valores indicados no n.º 1.º do artigo 22.º, deduzidos daquelas importâncias.
 
 ...
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 ...
 
@@ -246,11 +298,11 @@ Ao valor resultante da matriz juntar-se-á, para efeitos da comparação e poss�
 
 11.ª O valor de qualquer prestação, pensão ou renda perpétua será o produto do seu montante anual por 20;
 
-###### Art. 38.º-A - Será ainda de 4% a sisa devida pelas associações patronais e associações sindicais ou outras associações profissionais com fins análogos, desde que legalmente constituídas, pela aquisição de prédios na parte destinada à sua instalação ou à directa e imediata realização dos seus fins.
+Art. 38.º-A - Será ainda de 4% a sisa devida pelas associações patronais e associações sindicais ou outras associações profissionais com fins análogos, desde que legalmente constituídas, pela aquisição de prédios na parte destinada à sua instalação ou à directa e imediata realização dos seus fins.
 
 § único. A aplicação desta taxa depende de despacho do Ministro de Estado e das Finanças e do Plano sobre informação da Direcção-Geral das Contribuições e Impostos, mediante requerimento das entidades interessadas, instruído com os documentos necessários para comprovar os factos alegados, designadamente com documento comprovativo da sua existência legal e certidão ou cópia autêntica da deliberação tomada sobre a aquisição onerosa dos bens, da qual conste expressamente o destino destes, observando-se o disposto no § 2.º do artigo 38.º, se for caso disso.
 
-###### Art. 46.º ...
+Art. 46.º ...
 
 ...
 
@@ -258,13 +310,13 @@ Ao valor resultante da matriz juntar-se-á, para efeitos da comparação e poss�
 
 ...
 
-###### Art. 47.º A liquidação da sisa precederá o acto ou facto translativo dos bens, ainda que a transmissão esteja subordinada a condição suspensiva ou haja reserva de propriedade, ou se trate de nomeação nos casos previstos no § 4.º do artigo 7.º salvo quando dever ser paga posteriormente, nos termos do artigo 115.º
+Art. 47.º A liquidação da sisa precederá o acto ou facto translativo dos bens, ainda que a transmissão esteja subordinada a condição suspensiva ou haja reserva de propriedade, ou se trate de nomeação nos casos previstos no § 4.º do artigo 7.º salvo quando dever ser paga posteriormente, nos termos do artigo 115.º
 
 § único. Não se realizando dentro de 1 ano o acto ou facto translativo por que se pagou a sisa, ficará sem efeito a liquidação, a menos que esta haja sido revalidada ou reformada, tomando em conta o valor que os bens então tiverem e cobrando-se ou anulando-se a diferença.
 
 A revalidação ou a reforma valerá por 1 ano e nenhuma liquidação poderá ser revalidada ou reformada mais de 4 vezes.
 
-###### Art. 49.º ...
+Art. 49.º ...
 
 § 1.º Quando se tratar de alienações de heranças ou de quinhões hereditários, descrever-se-ão todos os bens e indicar-se-á a quota-parte que o alienante tem na herança ou que essa parte é desconhecida e o motivo.
 
@@ -278,17 +330,17 @@ Consideram-se terrenos para construção os situados em zonas urbanizadas ou com
 
 § 5.º Se a divisão de um prédio em parcelas inferiores à da respectiva unidade de cultura tiver sido condicionada a construções e alguma destas não for iniciada dentro de 3 anos por motivo imputável ao adquirente, o chefe da repartição de finanças participará o facto ao Ministério Público para os efeitos do disposto no n.º 1 do artigo 1379.º do Código Civil, abstendo-se de liquidar a sisa que, nos termos do artigo 14.º, fosse devida.
 
-###### Art. 51.º-A - Nos contratos para pessoa a nomear, o contraente originário, seu representante ou gestor de negócios poderá apresentar na repartição de finanças competente para a liquidação da sisa, para os efeitos do § 4.º do artigo 7.º, até 5 dias após a celebração do contrato, uma declaração, por escrito, contendo todos os elementos necessários para a completa identificação do terceiro para quem contratou, ainda que se trate de pessoa colectiva em constituição, desde que seja indicada a sua denominação social ou designação e o nome dos respectivos fundadores ou organizadores.
+Art. 51.º-A - Nos contratos para pessoa a nomear, o contraente originário, seu representante ou gestor de negócios poderá apresentar na repartição de finanças competente para a liquidação da sisa, para os efeitos do § 4.º do artigo 7.º, até 5 dias após a celebração do contrato, uma declaração, por escrito, contendo todos os elementos necessários para a completa identificação do terceiro para quem contratou, ainda que se trate de pessoa colectiva em constituição, desde que seja indicada a sua denominação social ou designação e o nome dos respectivos fundadores ou organizadores.
 
 § 1.º Uma vez feita a declaração, antes ou depois da celebração do contrato, não será possível, sob nenhum pretexto, identificar pessoa diferente.
 
 § 2.º Se vier a ser nomeada a pessoa identificada na declaração averbar-se-á a sua identidade no termo de declaração de sisa e proceder-se-á à anulação desta se a pessoa nomeada beneficiar de isenção.
 
-###### Art. 52.º Quando não se conheça, nas alienações de quinhão hereditário, a quota do co-herdeiro alheador, a sisa será calculada sobre o preço convencionado em relação aos bens imóveis, devendo proceder-se a liquidação adicional logo que se determine a quota-parte dos bens respeitantes ao co-herdeiro, se o valor matricial deles for superior ao estipulado.
+Art. 52.º Quando não se conheça, nas alienações de quinhão hereditário, a quota do co-herdeiro alheador, a sisa será calculada sobre o preço convencionado em relação aos bens imóveis, devendo proceder-se a liquidação adicional logo que se determine a quota-parte dos bens respeitantes ao co-herdeiro, se o valor matricial deles for superior ao estipulado.
 
 A partilha não poderá efectuar-se sem que, sendo caso disso, a liquidação esteja corrigida; e, enquanto não estiver determinada a quota do alheador, o adquirente é obrigado a apresentar na repartição de finanças onde se liquidou a sisa, durante o mês de Janeiro de cada ano, uma declaração da qual conste o número e data do conhecimento respectivo e causas que obstem àquela determinação. A declaração far-se-á em papel comum, de formato legal, e em duplicado, para um dos exemplares ser devolvido ao contribuinte com recibo da entrega.
 
-###### Art. 60.º Os donatários, herdeiros ou legatários, bem como o testamenteiro, o cabeça-de-casal, os sucessores do ausente e, em geral, os beneficiários de qualquer liberalidade são obrigados a participar à repartição de finanças competente a doação, o falecimento do autor da sucessão, a declaração de morte presumida ou qualquer outro acto ou contrato que envolva transmissão gratuita de bens dentro dos prazos seguintes:
+Art. 60.º Os donatários, herdeiros ou legatários, bem como o testamenteiro, o cabeça-de-casal, os sucessores do ausente e, em geral, os beneficiários de qualquer liberalidade são obrigados a participar à repartição de finanças competente a doação, o falecimento do autor da sucessão, a declaração de morte presumida ou qualquer outro acto ou contrato que envolva transmissão gratuita de bens dentro dos prazos seguintes:
 
 ...
 
@@ -298,7 +350,7 @@ Porém, nas doações entre vivos dependentes de aceitação os prazos contam-se
 
 Tratando-se de transmissões onerosas com reserva de usufruto simultâneo e sucessivo pelos alheadores, os prazos para a participação a fazer por estes contam-se da data do contrato.
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 ...
 
@@ -310,15 +362,15 @@ Tratando-se de transmissões onerosas com reserva de usufruto simultâneo e suce
 
 ...
 
-###### Art. 71.º Os conservadores do registo civil enviarão, em duplicado, à repartição de finanças do concelho da última residência habitual do falecido, até ao dia 8 de cada mês, uma relação numerada, conforme o modelo n.º 5, de todas as pessoas cujos assentos de óbito tenham sido lavrados no mês anterior, declarando os seus nomes, idades, estado, quem sucedeu nos bens, por que título e qual o seu grau de parentesco ou vínculo de adopção com os finados.
+Art. 71.º Os conservadores do registo civil enviarão, em duplicado, à repartição de finanças do concelho da última residência habitual do falecido, até ao dia 8 de cada mês, uma relação numerada, conforme o modelo n.º 5, de todas as pessoas cujos assentos de óbito tenham sido lavrados no mês anterior, declarando os seus nomes, idades, estado, quem sucedeu nos bens, por que título e qual o seu grau de parentesco ou vínculo de adopção com os finados.
 
 § 1.º Se a repartição de finanças que receber a relação a que se refere este artigo não for a competente para a liquidação do imposto, remeterá cópia da mesma relação, na parte que interessar, à repartição competente.
 
 § 2.º Serão fornecidos pelas repartições de finanças às conservatórias do registo civil os impressos necessários para o cumprimento do disposto neste artigo.
 
-###### Art. 113.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da sisa ou do imposto devidos, a estes acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 113.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da sisa ou do imposto devidos, a estes acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
@@ -326,68 +378,68 @@ Tratando-se de transmissões onerosas com reserva de usufruto simultâneo e suce
 
 ...
 
-###### Art. 116.º Se a sisa não for paga antes do acto ou facto translativo, ou a sua liquidação não for pedida, devendo-o ser, dentro dos prazos fixados para o pagamento nos n.os 1.º a 6.º do artigo anterior, levantar-se-á auto de notícia e a sisa será exigida com a respectiva multa. No caso, porém, de já estar extinto o procedimento para aplicação da multa, o chefe da repartição de finanças notificará o contribuinte para pagar a sisa dentro de 10 dias.
+Art. 116.º Se a sisa não for paga antes do acto ou facto translativo, ou a sua liquidação não for pedida, devendo-o ser, dentro dos prazos fixados para o pagamento nos n.os 1.º a 6.º do artigo anterior, levantar-se-á auto de notícia e a sisa será exigida com a respectiva multa. No caso, porém, de já estar extinto o procedimento para aplicação da multa, o chefe da repartição de finanças notificará o contribuinte para pagar a sisa dentro de 10 dias.
 
 Sendo pedida a liquidação depois do acto ou facto translativo ou de passados os prazos dos n.os 1.º a 6.º do artigo precedente, mas antes de instaurado o processo de transgressão; a sisa deverá ser paga no próprio dia, sem prejuízo da aplicação, nos termos gerais, da multa que se mostrar devida.
 
-###### Art. 123.º ...
+Art. 123.º ...
 
 ...
 
 § 5.º As disposições deste artigo aplicar-se-ão analogamente ao pagamento do imposto relativo à aquisição do uso ou habitação, à transmissão de bens para o fiduciário e a qualquer pensão ou renda vitalícia ou temporária.
 
-###### Art. 130.º A Fazenda Nacional tem privilégio mobiliário e imobiliário sobre os bens transmitidos, nos termos do Código Civil, para ser paga da sisa e do imposto sobre as sucessões e doações, podendo executar a todo o tempo esses bens, embora tenham passado, antes ou depois da liquidação, para o poder de terceiro, salvo se o tiverem sido por venda judicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
+Art. 130.º A Fazenda Nacional tem privilégio mobiliário e imobiliário sobre os bens transmitidos, nos termos do Código Civil, para ser paga da sisa e do imposto sobre as sucessões e doações, podendo executar a todo o tempo esses bens, embora tenham passado, antes ou depois da liquidação, para o poder de terceiro, salvo se o tiverem sido por venda judicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
 
-###### Art. 132.º Os encarregados de secretaria dos julgados de paz não poderão entregar aos interessados os autos de conciliação sem neles averbarem o número e a data do conhecimento da sisa, quando devida, e a tesouraria onde tiver sido paga.
+Art. 132.º Os encarregados de secretaria dos julgados de paz não poderão entregar aos interessados os autos de conciliação sem neles averbarem o número e a data do conhecimento da sisa, quando devida, e a tesouraria onde tiver sido paga.
 
-###### Art. 145.º No mesmo prazo e termos do artigo antecedente, os encarregados de secretaria dos julgados de paz remeterão à repartição de finanças competente uma participação, em duplicado, dos autos de conciliação lavrados no mês anterior pelos quais se operaram ou venham a operar transmissões de imóveis a título oneroso ou de quaisquer bens a título gratuito.
+Art. 145.º No mesmo prazo e termos do artigo antecedente, os encarregados de secretaria dos julgados de paz remeterão à repartição de finanças competente uma participação, em duplicado, dos autos de conciliação lavrados no mês anterior pelos quais se operaram ou venham a operar transmissões de imóveis a título oneroso ou de quaisquer bens a título gratuito.
 
 Os escrivães de direito remeterão igualmente uma participação, em duplicado, dos termos ou documentos de transacção, das liquidações e partilhas de estabelecimentos comerciais ou industriais ou sociedades, das sentenças que reconheçam direitos de preferência e das decisões que declarem a morte presumida dos ausentes que tenham sido concluídos ou lavrados no mês anterior e pelos quais se operaram ou venham a operar as mencionadas transmissões.
 
-###### Art. 149.º Quando, por motivos imputáveis aos serviços, tenha sido liquidada sisa ou imposto sobre as sucessões e doacções superior ao devido ou concedido desconto inferior ao que competiria, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido 5 anos sobre a abertura dos cofres para a respectiva cobrança ou sobre o pagamento eventual.
+Art. 149.º Quando, por motivos imputáveis aos serviços, tenha sido liquidada sisa ou imposto sobre as sucessões e doacções superior ao devido ou concedido desconto inferior ao que competiria, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido 5 anos sobre a abertura dos cofres para a respectiva cobrança ou sobre o pagamento eventual.
 
 Também se procederá a anulação oficiosa, mas independentemente do referido prazo, nos casos previstos nos artigos 14.º, § 2.º, 47.º, § único, 51.º, 56.º, § único, 77.º, § 3.º, e 83.º deste Código.
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 200$00, no caso de sisa, ou a 100$00 por cada conhecimento que for de processar, tratando-se de imposto sobre as sucessões e doações.
 
-###### Art. 151.º ...
+Art. 151.º ...
 
 § único. Os prazos para as reclamações e para as impugnações judiciais da liquidação da sisa por não verificação da condição suspensiva contam-se da data do facto.
 
-###### Art. 152.º A anulação da liquidação da sisa paga por acto ou facto translativo que não chegou a verificar-se só poderá ser pedida, em processo de reclamação ordinária ou de impugnação judicial, até, respectivamente, 30 ou 90 dias depois de terminado o prazo em que a liquidação, ainda que revalidada ou reformada, produzir seus efeitos, nos termos do § único do artigo 47.º
+Art. 152.º A anulação da liquidação da sisa paga por acto ou facto translativo que não chegou a verificar-se só poderá ser pedida, em processo de reclamação ordinária ou de impugnação judicial, até, respectivamente, 30 ou 90 dias depois de terminado o prazo em que a liquidação, ainda que revalidada ou reformada, produzir seus efeitos, nos termos do § único do artigo 47.º
 
 Não será de anular a liquidação quando tiver havido tradição dos bens para o reclamante ou impugnante ou este os tiver usufruído.
 
-###### Art. 153.º Se antes de decorridos 20 anos sobre a transmissão o doador dispuser dos bens nos casos previstos no n.º 1 do artigo 959.º do Código Civil, for revogada a doação nos termos dos artigos 970.º e 1765.º do mesmo Código, houver devolução de bens ou caducar a doação nos termos dos n.os 2.º e 3.º do seu artigo 2002.º-D, vier a verificar-se a condição resolutiva ou se der a solução do contrato, for reduzida a liberalidade por inoficiosidade, tiverem os sucessores do ausente ou as pessoas chamadas em sua vez de entregar quaisquer bens, poderá obter-se, por meio de reclamação ordinária ou de impugnação judicial, a anulação proporcional da sisa ou do imposto sobre as sucessões e doações.
+Art. 153.º Se antes de decorridos 20 anos sobre a transmissão o doador dispuser dos bens nos casos previstos no n.º 1 do artigo 959.º do Código Civil, for revogada a doação nos termos dos artigos 970.º e 1765.º do mesmo Código, houver devolução de bens ou caducar a doação nos termos dos n.os 2.º e 3.º do seu artigo 2002.º-D, vier a verificar-se a condição resolutiva ou se der a solução do contrato, for reduzida a liberalidade por inoficiosidade, tiverem os sucessores do ausente ou as pessoas chamadas em sua vez de entregar quaisquer bens, poderá obter-se, por meio de reclamação ordinária ou de impugnação judicial, a anulação proporcional da sisa ou do imposto sobre as sucessões e doações.
 
 Os prazos para deduzir a reclamação ou a impugnação com tais fundamentos contam-se a partir da ocorrência do facto.
 
-###### Art. 155.º ...
+Art. 155.º ...
 
 § 1.º Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando paga a sisa ou o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houver erro de facto imputável aos serviços.
 
 ...
 
-###### Art. 156.º A verificação do acto ou facto translativo dos bens imóveis a título oneroso sem pagamento de sisa, quando este o deva preceder, será punida com multa igual ao dobro da sisa devida, mas nunca inferior a 300$00.
+Art. 156.º A verificação do acto ou facto translativo dos bens imóveis a título oneroso sem pagamento de sisa, quando este o deva preceder, será punida com multa igual ao dobro da sisa devida, mas nunca inferior a 300$00.
 
-###### Art. 2.º As expressões «bens mobiliários», «bens imobiliários», «direitos mobiliários», «direitos imobiliários», «secção de finanças» e «autor da herança», inseridas no Código da Sisa e do Imposto sobre as Sucessões e Doações, devem entender-se designar, respectivamente, bens móveis, bens imóveis, direitos móveis, direitos imóveis, repartição de finanças e autor da sucessão.
+Art. 2.º As expressões «bens mobiliários», «bens imobiliários», «direitos mobiliários», «direitos imobiliários», «secção de finanças» e «autor da herança», inseridas no Código da Sisa e do Imposto sobre as Sucessões e Doações, devem entender-se designar, respectivamente, bens móveis, bens imóveis, direitos móveis, direitos imóveis, repartição de finanças e autor da sucessão.
 
-###### Art. 3.º Continuam sujeitas a sisa:
+Art. 3.º Continuam sujeitas a sisa:
 
 a) A remissão de pensões que no domínio da legislação anterior ao Código Civil de 1966 tenham sido impostas sobre os bens transmitidos;
 
 b) As sub-rogações de bens dotais, excepto por bens próprios da mulher, em relação aos casamentos celebrados antes de 1 de Abril de 1978.
 
-###### Art. 4.º No caso de ao abrigo do § único do artigo 36.º do Código Civil de 1967 os bens de qualquer corporação ou associação passarem à posse de particulares ou de outras entidades, aplicar-se-ão as disposições do Código da Sisa e do Imposto sobre as Sucessões e Doações que respeitam às substituições fideicomissárias.
+Art. 4.º No caso de ao abrigo do § único do artigo 36.º do Código Civil de 1967 os bens de qualquer corporação ou associação passarem à posse de particulares ou de outras entidades, aplicar-se-ão as disposições do Código da Sisa e do Imposto sobre as Sucessões e Doações que respeitam às substituições fideicomissárias.
 
-###### Art. 5.º Tratando-se de parcelação de prédios rústicos em concelhos onde ainda não vigore o cadastro geométrico, e situados em zonas para as quais ainda não esteja fixada a unidade de cultura, terá de provar-se, para efeitos do artigo 107.º do [Decreto n.º 16731](https://diariodarepublica.pt/dr/detalhe/decreto/16731-1929-275435), de 13 de Abril de 1929, com ressalva dos seus §§ 2.º e 3.º, que não resultam da divisão parcelas inferiores a 0,5 ha.
+Art. 5.º Tratando-se de parcelação de prédios rústicos em concelhos onde ainda não vigore o cadastro geométrico, e situados em zonas para as quais ainda não esteja fixada a unidade de cultura, terá de provar-se, para efeitos do artigo 107.º do [Decreto n.º 16731](https://diariodarepublica.pt/dr/detalhe/decreto/16731-1929-275435), de 13 de Abril de 1929, com ressalva dos seus §§ 2.º e 3.º, que não resultam da divisão parcelas inferiores a 0,5 ha.
 
 A prova deverá ser requerida ao chefe da repartição de finanças, que promoverá a medição das parcelas pela respectiva comissão permanente de avaliação, assim como a discriminação do rendimento colectável de todo o prédio, para se apurar o valor correspondente à fracção transmitida, ficando a cargo do requerente os salários e as despesas de deslocação dos louvados.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 17 de Maio de 1982.**
+Promulgado em 17 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

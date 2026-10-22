@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 297/1979, 1º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3366-(15) a 3366-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29701/00150031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,168 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab6b6a88d147215df075de805e9f982f4a935c965f8b421a1ea16d596fd0d2fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: face2474bf22bba4af8664666caee55ed6a4196c57fba2f206bb9f7d866831aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspeção Geral de Finanças
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231333:por
+  label: Alterado relativamente ao pessoal administrativo e pessoal auxiliar o quadro de pessoal da Inspecção-Geral de Finanças
+    pelo(a) Portaria n.º 749/79 - Diário da República n.º 300/1979, 8º Suplemento, Série I de 1979-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/749-1979-231333
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:461851:por
+  label: Substituído o quadro de pessoal da Inspecção Geral de Finanças pelo(a) Portaria n.º 714/80 - Diário da República
+    n.º 221/1980, Série I de 1980-09-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-1980-461851
+  date: '1980-09-24'
+- type: amended_by
+  target: pt:dre:394763:por
+  label: Alterados os arts. 19.º e 66.º pelo(a) Decreto-Lei n.º 273/82 - Diário da República n.º 159/1982, Série I de 1982-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1982-394763
+  date: '1982-07-13'
+- type: amended_by
+  target: pt:dre:374634:por
+  label: "Criado 1 lugar de auxiliar técnico (BAD) e extingue 2 lugares de auxiliar de limpeza do quadro de pessoal anexo\
+    \ ao presente diploma, pela PORT.823/82.30.08.1982.MFP, DR.IS [200] de 30.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/823-1982-374634
+  date: '1982-08-30'
+- type: amended_by
+  target: pt:dre:307787:por
+  label: "Alterados os artigos 23.º, 24.º, 34.º, 35.º e 50.º, n.º 1, e o quadro de pessoal da Inspecção-Geral de Finanças,\
+    \ anexo ao presente diploma, pelo DEC LEI.28/83.22.01.1983.MFP, DR.IS [18] de 22.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-1983-307787
+  date: '1983-01-22'
+- type: amended_by
+  target: pt:dre:311061:por
+  label: "Alterados os nºs. 1 e 3 do artigo 69º pelo DEC LEI.102/83.18.02.1983.MFP, DR.IS [40] de 18.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1983-311061
+  date: '1983-02-18'
+- type: amended_by
+  target: pt:dre:311462:por
+  label: "Alterado o quadro de pessoal pela PORT.173/83.1983.03.01.MFP DR.IS [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-1983-311462
+  date: '1983-03-01'
+- type: amended_by
+  target: pt:dre:451260:por
+  label: "Alterado o artigo 35.º (na redacção do Decreto-Lei n.º 28/83, de 22 de Janeiro), o artigo 46.º, e o quadro de pessoal\
+    \ a que se refere o n.º 1 do artigo 31.º, pelo DEC LEI.198/83.18.05.1983.MFP, DR.IS [114] de 18.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1983-451260
+  date: '1983-05-18'
+- type: amended_by
+  target: pt:dre:662500:por
+  label: "Alterados os artigos 30.º, 35.º, 37.º, 42.º e 46.º, e o quadro de pessoal da IGF, aprovado no presente diploma,\
+    \ pelo DEC LEI.94/87.02.03.1987.MF, DR.IS [51] de 02.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-1987-662500
+  date: '1987-03-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITU&#205;DO O QUADRO DE PESSOAL DA INSPEC&#199;&#195;O GERAL DE FINAN&#199;AS PELA PORT 177/88 DE 23-MAR DR.IS\
+    \ [69]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-23'
+- type: amended_by
+  target: pt:dre:372856:por
+  label: "Substituído o suplemento remuneratório pelo DEC LEI.205/2001.2001.07.27.MF DR.IS-A [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2001-372856
+  date: '2001-07-27'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:278224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692474:por
+  label: Rectificado pela DECL.DD6687.23.01.1980.PCM, DR.IS [28] de 02.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692474
+  date: '1980-01-23'
+- type: corrected_by
+  target: pt:dre:692820:por
+  label: "Rectificado pela DECL.DD6693.05.02.1980.PCM, DR.IS [38] de 14.02.1980\00"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692820
+  date: '1980-02-05'
+- type: repealed_by
+  target: pt:dre:549019:por
+  label: Revogado o presente diploma, com excepção do art. 53.º que se mantém até à entrada em vigor do novo regime remuneratório
+    a que se refere o n.º 2 do art. 35.º, pelo(a) Decreto-Lei n.º 353/89 - Diário da República n.º 238/1989, Série I de 1989-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-1989-549019
+  date: '1989-10-16'
+- type: repealed_by
+  target: pt:dre:623856:por
+  label: "Revogada a alínea e) do artigo 14.º, pelo DEC LEI.285/92.19.12.1992.MOPTC, DR.IS-A [292] de 19.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1992-623856
+  date: '1992-12-19'
 article_structure:
   article_count: 81
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:49Z'
   warnings: []
   errors: []
 ---
@@ -958,14 +1086,14 @@ Todas as mudanças de quadro, categoria e designação a que houver lugar nos te
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal
 
 Mapa a que se refere o n.º 1 do artigo 31.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29701/00150031.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29701/00150031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29701/00150031.pdf)

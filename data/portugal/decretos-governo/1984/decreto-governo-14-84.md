@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/14-1984-661964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 814c03da960cce65a64d36fe0dd79cd41ca88b6375fc4dc3c8d476dbb9972c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 672fe837efa93f617c946f6c2cdf13e6d1a2b2e76e18d1cfe0cb00448f787088
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Convenção
+- Modernização Administrativa
+- Política Pautal
+- Portugal
+- Quioto
+relationships:
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:41Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +101,7 @@ Tendo em vista que a próxima integração do País na Comunidade Económica Eur
 
 Usando da autorização conferida pela alínea f) do artigo 19.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, o Governo decreta, nos termos da alínea c) dos n.os 1 e 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados, para aceitação, os anexos D.1, relativo às regras de origem, e D.2, relativo às provas documentais de origem, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, celebrada em Kyoto em 18 de Maio de 1973, cujas versões em línguas francesa e portuguesa se publicam em anexo ao presente decreto, dele fazendo parte integrante, com as seguintes reservas:
+Artigo único. São aprovados, para aceitação, os anexos D.1, relativo às regras de origem, e D.2, relativo às provas documentais de origem, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, celebrada em Kyoto em 18 de Maio de 1973, cujas versões em línguas francesa e portuguesa se publicam em anexo ao presente decreto, dele fazendo parte integrante, com as seguintes reservas:
 
 ## ANEXO D.1 — Norma 7
 
@@ -127,15 +137,15 @@ Nas trocas não preferenciais com terceiros países não se encontra prevista qu
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Luís Gaspar da Silva.
 
-**Assinado em 16 de Fevereiro de 1984.**
+Assinado em 16 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Fevereiro de 1984.**
+Referendado em 21 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ANNEXE D.1
 
@@ -497,7 +507,7 @@ Les autorités compétentes font en sorte que toute personne intéressée puisse
 
 APPENDICE I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/06700/09160931.pdf))](https://files.diariodarepublica.pt/1s/1984/03/06700/09160931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/06700/09160931.pdf)
 
 APPENDICE II
 
@@ -545,7 +555,9 @@ Les règles pour l'établissement du certificat d'origine et la demande éventue
 
 4) Si les nécessités du commerce d'exportation le requièrent, il peut être établi, en plus de l'original, une ou plusieurs copies.
 
-## ANEXO D.1 — Anexo relativo às regras de origem
+## ANEXO D.1
+
+## Anexo relativo às regras de origem
 
 Introdução
 
@@ -767,7 +779,9 @@ As autoridades competentes procederão de modo que qualquer pessoa interessada p
 
 As modificações às regras de origem ou às suas modalidades de aplicação só entram em vigor decorrido um prazo suficiente para conceder aos interessados, tanto nos mercados de exportação como nos países fornecedores, tempo para tomarem em consideração as novas disposições aplicáveis.
 
-## ANEXO D.2 — Anexo respeitante às provas documentais de origem
+## ANEXO D.2
+
+## Anexo respeitante às provas documentais de origem
 
 Introdução
 
@@ -901,11 +915,11 @@ Informações respeitantes às formas documentais da origem exigidas
 
 As autoridades competentes procedem por forma que qualquer pessoa interessada possa obter, sem dificuldade, todas as informações úteis relativamente aos requisitos em matéria de provas documentais da origem.
 
-## APÊNDICE I
+APÊNDICE I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/06700/09160931.pdf))](https://files.diariodarepublica.pt/1s/1984/03/06700/09160931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/06700/09160931.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 1 - O formato do certificado é o formato internacional ISO/A4 (210 mm x 297 mm). A fórmula apresenta uma margem superior de 10 mm e à esquerda uma margem de 20 mm, para permitir o arquivamento. O espaço entre as linhas deve corresponder a múltiplos de 4,24 mm e os espaços transversais devem corresponder a múltiplos de 2,54 mm. A apresentação deve estar em conformidade com o modelo padrão da CEE, segundo o modelo constante do apêndice I. Os pequenos afastamentos relativamente às dimensões exactas das casas, etc., serão admissíveis se corresponderem a razões particulares no país de emissão, como a existência de sistemas de medidas diferentes do sistema métrico, as particularidades de uma série normalizada de documentos nacionais, etc.
 
@@ -937,7 +951,7 @@ Casas n.os 6 e 7: As outras quantidades que o exportador pode indicar, tendo em 
 
 Casa n.º 8: Esta parte é reservada à aposição da autenticação da autoridade competente (declaração de autenticação, carimbos, assinaturas, data, local de emissão, etc.). A redacção exacta dos textos, etc., é deixada ao critério da autoridade emissora, sendo a redacção do modelo referido apenas a título de exemplo. Eventualmente, esta casa pode conter também uma declaração assinada, feita pelo exportador (ou o fornecedor ou o fabricante).
 
-## APÊNDICE III
+APÊNDICE III
 
 Regras a observar para a emissão do certificado de origem
 

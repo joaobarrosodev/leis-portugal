@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(13) a 1456-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00130013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-n-1980-226049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e6bb99e8e47a64ef6e3d607b879113b3c9fe71946f4ab4af68d16c824903e09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 555cf51dca1592865cee9dcaab7c0d32299e0b0326750ee2b12b0b302ba48232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração do Porto de Sines
+- Sines
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:157043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279587:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:05Z'
   warnings: []
   errors: []
 ---
@@ -102,16 +118,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os prazos fixados nas alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 508/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587), de 14 de Dezembro, e prorrogados pelo artigo 1.º do [Decreto-Lei n.º 519-B2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-b2-1979-157043), de 29 de Dezembro, são prorrogados por mais cento e vinte dias.
+Artigo 1.º - 1 - Os prazos fixados nas alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 508/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1977-279587), de 14 de Dezembro, e prorrogados pelo artigo 1.º do [Decreto-Lei n.º 519-B2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-b2-1979-157043), de 29 de Dezembro, são prorrogados por mais cento e vinte dias.
 
 2 - O prazo fixado na alínea c) do mesmo artigo para elaboração e apresentação ao Governo do projecto de diploma orgânico da APS, e ulteriormente prorrogado nos mesmos termos, é prorrogado por mais noventa dias.
 
-###### Art. 2.º Os novos prazos fixados nos artigos anteriores contar-se-ão a partir de 3 de Abril de 1980.
+Art. 2.º Os novos prazos fixados nos artigos anteriores contar-se-ão a partir de 3 de Abril de 1980.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 24 de Junho de 1980.**
+Promulgado em 24 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

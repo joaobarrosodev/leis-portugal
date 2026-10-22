@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/28-1970-227226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49cdfe19183532ab016ee67d3b269a0bc90d30758756767b772e423b63c96c60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e472c6532725bfdcd63d0dbf224f77548602290090bb6ca3e1ba6b9eba50947b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Ensino Técnico Profissional
+- Gestão de Recursos Humanos
+- Pessoal Administrativo
+- Pessoal Docente
+- Pessoal não Docente
 relationships:
 - type: amended_by
   target: pt:dre:402088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:199429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:402088:por
+  label: "Revogado o art. 1º pelo DEC LEI.292-A/76.23.04.1976.MEIC, DR.IS [96-2ºSupl] de 23.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-a-1976-402088
+  date: '1976-04-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:57Z'
   warnings: []
   errors: []
 ---
@@ -99,26 +134,26 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os avisos a que se refere o artigo 185.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passam a ser publicados nos primeiros cinco dias de Abril e de Dezembro, tratando-se de vagas de professores efectivos, de mestres principais e de mestres, e nos primeiros cinco dias de Maio, tratando-se de vagas de professores extraordinários.
+Artigo 1.º Os avisos a que se refere o artigo 185.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passam a ser publicados nos primeiros cinco dias de Abril e de Dezembro, tratando-se de vagas de professores efectivos, de mestres principais e de mestres, e nos primeiros cinco dias de Maio, tratando-se de vagas de professores extraordinários.
 
-###### Art. 2.º O prazo para requerer a categoria de professor extraordinário decorre, em cada ano, de 1 a 31 de Outubro.
+Art. 2.º O prazo para requerer a categoria de professor extraordinário decorre, em cada ano, de 1 a 31 de Outubro.
 
-###### Art. 3.º Ficam revogados os artigos 3.º e 4.º do [Decreto n.º 41177](https://diariodarepublica.pt/dr/detalhe/decreto/41177-1957-279195).
+Art. 3.º Ficam revogados os artigos 3.º e 4.º do [Decreto n.º 41177](https://diariodarepublica.pt/dr/detalhe/decreto/41177-1957-279195).
 
-###### Art. 4.º Os professores agregados e os professores extraordinários alheios aos quadros, que não sejam reconduzidos e pretendam prestar serviço, deverão, até 31 de Julho, requerer a sua colocação nos termos dos artigos 223.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) e 7.º do [Decreto n.º 41177](https://diariodarepublica.pt/dr/detalhe/decreto/41177-1957-279195), respectivamente.
+Art. 4.º Os professores agregados e os professores extraordinários alheios aos quadros, que não sejam reconduzidos e pretendam prestar serviço, deverão, até 31 de Julho, requerer a sua colocação nos termos dos artigos 223.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) e 7.º do [Decreto n.º 41177](https://diariodarepublica.pt/dr/detalhe/decreto/41177-1957-279195), respectivamente.
 
-###### Art. 5.º O n.º 2 do artigo 149.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) passa a ter a seguinte redacção:
+Art. 5.º O n.º 2 do artigo 149.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) passa a ter a seguinte redacção:
 
 2. O primeiro provimento só pode recair em candidato de maior idade ou emancipado, que não exceda, porém, 35 anos, salvo se pertencer já aos quadros do Ministério da Educação Nacional.
 
-###### Art. 6.º O artigo 3.º do [Decreto n.º 47592](https://diariodarepublica.pt/dr/detalhe/decreto/47592-1967-503254), de 17 de Março de 1967, passa a ter a seguinte redacção:
+Art. 6.º O artigo 3.º do [Decreto n.º 47592](https://diariodarepublica.pt/dr/detalhe/decreto/47592-1967-503254), de 17 de Março de 1967, passa a ter a seguinte redacção:
 
-###### Art. 3.º Se antes de decorrido um ano sobre a realização, para qualquer categoria, de concurso de habilitação e após o subsequente concurso de provimento se mantiverem vagos lugares reservados, nos termos da legislação vigente, a candidatos masculinos, podem, em segundo concurso de provimento, ser também admitidos candidatos femininos.
+Art. 3.º Se antes de decorrido um ano sobre a realização, para qualquer categoria, de concurso de habilitação e após o subsequente concurso de provimento se mantiverem vagos lugares reservados, nos termos da legislação vigente, a candidatos masculinos, podem, em segundo concurso de provimento, ser também admitidos candidatos femininos.
 
 Marcello Caetano - José Hermano Saraiva.
 
-**Promulgado em 14 de Janeiro de 1970.**
+Promulgado em 14 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 253/1974, 1º Suplemento, Série I de 1974-10-30
   number: '253'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1294-(1) a 1294-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/25301/00010004.pdf
 entry_into_force_dates: []
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-a-1974-547005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d5e73c5ae47aae81525c388529b369b06e606d53d94ba8c7dfba33416114de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e25d981b483e9d32d140240235c1d74dcebd2099538be1885c2cdfefd3b038ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia das Águas de Lisboa
+- Empresa Pública
+- EPAL
 relationships:
 - type: amended_by
   target: pt:dre:648746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:648746:por
+  label: "Transformada em sociedade anónima de capitais exclusivamente públicos a EPAL - Empresa Portuguesa das Águas Livres\
+    \ criada pelo presente diploma, e cujo estatuto foi aprovado pelo Dec Lei 190/81, de 04-Jul, pelo DEC LEI.230/91.21.06.1991.MARN,\
+    \ DR.IS-A [140] de 21.06.1991, revogando o diploma que aprova o estatuto.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1991-648746
+  date: '1991-06-21'
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:57Z'
   warnings: []
   errors: []
 ---
@@ -111,35 +129,35 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A partir de 30 de Outubro de 1974, data em que caduca a concessão do serviço público do abastecimento de água outorgado pelo Estado à Companhia das Águas de Lisboa, S. A. R. L., é constituída e entra em funcionamento a Empresa Pública das Águas de Lisboa (EPAL).
+Artigo 1.º - 1. A partir de 30 de Outubro de 1974, data em que caduca a concessão do serviço público do abastecimento de água outorgado pelo Estado à Companhia das Águas de Lisboa, S. A. R. L., é constituída e entra em funcionamento a Empresa Pública das Águas de Lisboa (EPAL).
 
 2. A EPAL é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e património próprio, que se administrará livremente, sem prejuízo de tutela do Governo, nos termos que forem estatutariamente fixados.
 
 3. A sede deste instituto público é em Lisboa.
 
-###### Art. 2.º Compete à EPAL, no período transitório considerado, e sob tutela do Governo, garantir a continuidade do serviço público de abastecimento de água objecto daquela concessão.
+Art. 2.º Compete à EPAL, no período transitório considerado, e sob tutela do Governo, garantir a continuidade do serviço público de abastecimento de água objecto daquela concessão.
 
-###### Art. 3.º Transitam para a Empresa Pública das Águas de Lisboa todos os bens, direitos e obrigações que da Companhia das Águas de Lisboa, S. A. R. L., devam reverter para a administração pública, designadamente os afectos à concessão.
+Art. 3.º Transitam para a Empresa Pública das Águas de Lisboa todos os bens, direitos e obrigações que da Companhia das Águas de Lisboa, S. A. R. L., devam reverter para a administração pública, designadamente os afectos à concessão.
 
-###### Art. 4.º - 1. Os trabalhadores ao serviço da Companhia das Águas de Lisboa, S. A. R. L., em 30 de Outubro de 1974, e afectos ao objecto da concessão, transitam para a EPAL, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações e nas situações funcionais que os titularem, sem prejuízo de ulterior definição do estatuto do pessoal em conformidade com o regime a definir para as empresas públicas através do Ministério da Administração Interna.
+Art. 4.º - 1. Os trabalhadores ao serviço da Companhia das Águas de Lisboa, S. A. R. L., em 30 de Outubro de 1974, e afectos ao objecto da concessão, transitam para a EPAL, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações e nas situações funcionais que os titularem, sem prejuízo de ulterior definição do estatuto do pessoal em conformidade com o regime a definir para as empresas públicas através do Ministério da Administração Interna.
 
 2. Os trabalhadores assim admitidos ao serviço da EPAL poderão ser objecto de reclassificação, nos termos e de harmonia com os critérios e normas a estabelecer, sem ofensa dos legítimos direitos adquiridos.
 
-###### Art. 5.º - 1. A administração efectiva dos bens e serviços que integram o objecto da EPAL é exercida pela Comissão de Fiscalização das Águas de Lisboa.
+Art. 5.º - 1. A administração efectiva dos bens e serviços que integram o objecto da EPAL é exercida pela Comissão de Fiscalização das Águas de Lisboa.
 
 2. Para consecução da actividade que lhe é cometida no número anterior, a Comissão disporá, com as necessárias adaptações, dos poderes de que dispunha o conselho de administração da Companhia das Águas de Lisboa, S. A. R. L.
 
 3. Até à tomada de posse dos corpos gerentes que sejam definidos estatutariamente, a EPAL é representada, activa e passivamente, em juízo e fora dele, pela Comissão de Fiscalização das Águas de Lisboa e fica obrigada pela assinatura do seu presidente, ou de quem legalmente o substitua, sem prejuízo do disposto no n.º 3 do artigo 11.º
 
-###### Art. 6.º O Ministro do Equipamento Social e do Ambiente, por simples despacho, durante o período transitório que decorrer até à instituição de um conselho de fiscalização, determinará o modo e adoptará as providências que considere mais convenientes para assegurar na EPAL, com as necessárias adaptações, o exercício das atribuições legalmente conferidas aos conselhos fiscais das sociedades anónimas.
+Art. 6.º O Ministro do Equipamento Social e do Ambiente, por simples despacho, durante o período transitório que decorrer até à instituição de um conselho de fiscalização, determinará o modo e adoptará as providências que considere mais convenientes para assegurar na EPAL, com as necessárias adaptações, o exercício das atribuições legalmente conferidas aos conselhos fiscais das sociedades anónimas.
 
-###### Art. 7.º Consideram-se feitas à Empresa Pública das Águas de Lisboa as referências à Companhia das Águas de Lisboa, S. A. R. L., contidas na legislação em vigor.
+Art. 7.º Consideram-se feitas à Empresa Pública das Águas de Lisboa as referências à Companhia das Águas de Lisboa, S. A. R. L., contidas na legislação em vigor.
 
-###### Art. 8.º - 1. Até à publicação do estatuto da empresa e respectivos regulamentos de execução, a Empresa Pública das Águas de Lisboa rege-se pelo disposto no presente diploma e mais legislação aplicável, bem como pelas normas legais e regulamentares, as convenções colectivas e os regulamentos de carácter interno que disciplinam a Companhia das Águas de Lisboa, S. A. R. L.
+Art. 8.º - 1. Até à publicação do estatuto da empresa e respectivos regulamentos de execução, a Empresa Pública das Águas de Lisboa rege-se pelo disposto no presente diploma e mais legislação aplicável, bem como pelas normas legais e regulamentares, as convenções colectivas e os regulamentos de carácter interno que disciplinam a Companhia das Águas de Lisboa, S. A. R. L.
 
 2. As normas enunciadas no número anterior serão aplicadas, quando for caso disso, com as adaptações resultantes da natureza pública da EPAL e do serviço público que exerce.
 
-###### Art. 9.º - 1. As tarifas serão fixadas tendo em vista o equilíbrio económico e financeiro da empresa, a fim de satisfazer com regularidade e continuidade as necessidades colectivas, acompanhando o desenvolvimento destas e o aperfeiçoamento dos meios técnicos utilizáveis, tendo-se em conta, designadamente:
+Art. 9.º - 1. As tarifas serão fixadas tendo em vista o equilíbrio económico e financeiro da empresa, a fim de satisfazer com regularidade e continuidade as necessidades colectivas, acompanhando o desenvolvimento destas e o aperfeiçoamento dos meios técnicos utilizáveis, tendo-se em conta, designadamente:
 
 a) A cobertura do custo de produção dos serviços prestados;
 
@@ -149,7 +167,7 @@ c) A satisfação dos encargos financeiros dos capitais investidos.
 
 2. Poderá haver tarifas diferentes para o consumo de água para uso normal e para fins sumptuários, sendo a primeira menos onerosa que a segunda.
 
-###### Art. 10.º - 1. A EPAL garante, até 31 de Dezembro de 1974, o fornecimento de água aos municípios cujos contratos celebrados com a Companhia das Águas de Lisboa, S. A. R. L., caducam em 30 de Outubro de 1974, nos precisos termos neles consignados.
+Art. 10.º - 1. A EPAL garante, até 31 de Dezembro de 1974, o fornecimento de água aos municípios cujos contratos celebrados com a Companhia das Águas de Lisboa, S. A. R. L., caducam em 30 de Outubro de 1974, nos precisos termos neles consignados.
 
 2. O regime de dotação aos serviços públicos e estabelecimentos do Estado, bem como da Câmara Municipal de Lisboa, com água gratuita, estabelecido no contrato de concessão celebrado com a Companhia das Águas de Lisboa, S. A. R. L., manter-se-á transitoriamente em vigor.
 
@@ -157,7 +175,7 @@ c) A satisfação dos encargos financeiros dos capitais investidos.
 
 4. Até à data indicada no número anterior, o Governo definirá o regime que passará a disciplinar o abastecimento de água aos serviços públicos, instituições e estabelecimentos do Estado, bem como aos municípios beneficiários.
 
-###### Art. 11.º - 1. A EPAL pode contrair empréstimos, em moeda nacional ou estrangeira, em estabelecimentos bancários ou pela emissão de obrigações, mediante autorização dada em portaria conjunta dos Ministros das Finanças e do Equipamento Social e do Ambiente, nela se fixando o plano e demais condições da operação, incluindo as garantias a prestar.
+Art. 11.º - 1. A EPAL pode contrair empréstimos, em moeda nacional ou estrangeira, em estabelecimentos bancários ou pela emissão de obrigações, mediante autorização dada em portaria conjunta dos Ministros das Finanças e do Equipamento Social e do Ambiente, nela se fixando o plano e demais condições da operação, incluindo as garantias a prestar.
 
 2. Os empréstimos por prazo superior a cinco anos só podem ser contraídos para a realização de investimentos reprodutivos, para renovação ou ampliação de instalações e serviços ou para amortização ou conversão de dívidas anteriores, a curto ou a médio prazo.
 
@@ -165,25 +183,25 @@ c) A satisfação dos encargos financeiros dos capitais investidos.
 
 4. Os títulos de crédito e os rendimentos do património da EPAL poderão servir de caução aos empréstimos contraídos.
 
-###### Art. 12.º O preço da venda de água e o preço de aluguer dos contadores serão fixados pela EPAL, mediante autorização ou determinação do Ministério do Equipamento Social e do Ambiente, e calculados por forma a assegurar o equilíbrio económico e financeiro da empresa.
+Art. 12.º O preço da venda de água e o preço de aluguer dos contadores serão fixados pela EPAL, mediante autorização ou determinação do Ministério do Equipamento Social e do Ambiente, e calculados por forma a assegurar o equilíbrio económico e financeiro da empresa.
 
-###### Art. 13.º - 1. As obras e fornecimentos serão feitos mediante concurso público, e a sua adjudicação será previamente aprovada pelo Ministro do Equipamento Social e do Ambiente, podendo, todavia, em casos especiais ou quando os concursos ficarem desertos, este autorizar que as obras ou fornecimentos sejam feitos por concurso limitado ou administração directa.
+Art. 13.º - 1. As obras e fornecimentos serão feitos mediante concurso público, e a sua adjudicação será previamente aprovada pelo Ministro do Equipamento Social e do Ambiente, podendo, todavia, em casos especiais ou quando os concursos ficarem desertos, este autorizar que as obras ou fornecimentos sejam feitos por concurso limitado ou administração directa.
 
 2. Não carecem de aprovação as obras ou fornecimentos cujo valor não exceda 2 milhões de escudos.
 
 3. Os contratos de empreitada ou de fornecimento serão disciplinados pela legislação em vigor de empreitadas e fornecimentos de obras públicas.
 
-###### Art. 14.º Todas as expropriações de terrenos ou prédios, de qualquer natureza, necessárias para a consecução do objecto da EPAL são consideradas de utilidade pública urgente.
+Art. 14.º Todas as expropriações de terrenos ou prédios, de qualquer natureza, necessárias para a consecução do objecto da EPAL são consideradas de utilidade pública urgente.
 
-###### Art. 15.º - 1. Os agentes da EPAL que, nos termos regulamentares, devam exercer a vigilância dos bens da empresa serão ajuramentados na forma legal, podendo lavrar autos de notícia que farão fé em juízo nos termos do artigo 169.º do Código de Processo Penal.
+Art. 15.º - 1. Os agentes da EPAL que, nos termos regulamentares, devam exercer a vigilância dos bens da empresa serão ajuramentados na forma legal, podendo lavrar autos de notícia que farão fé em juízo nos termos do artigo 169.º do Código de Processo Penal.
 
 2. É aplicável aos agentes ajuramentados da EPAL o disposto nas alíneas a) a c) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969.
 
-###### Art. 16.º - 1. São extintos os cargos de vogal agregado médico e engenheiro da Comissão de Fiscalização das Águas de Lisboa.
+Art. 16.º - 1. São extintos os cargos de vogal agregado médico e engenheiro da Comissão de Fiscalização das Águas de Lisboa.
 
 2. A Comissão extinguir-se-á após a publicação do estatuto da EPAL, com a tomada de posse dos corpos gerentes da empresa.
 
-###### Art. 17.º - 1. Por despacho do Ministro do Equipamento Social e do Ambiente, precedendo proposta fundamentada do presidente da Comissão de Fiscalização das Águas de Lisboa, o pessoal técnico, administrativo e dos serviços gerais da Comissão, a partir de 31 de Outubro de 1974, poderá ser colocado em qualquer serviço do Ministério do Equipamento Social e do Ambiente, na Empresa Pública das Águas de Lisboa, passar à situação de aposentado ou ser exonerado.
+Art. 17.º - 1. Por despacho do Ministro do Equipamento Social e do Ambiente, precedendo proposta fundamentada do presidente da Comissão de Fiscalização das Águas de Lisboa, o pessoal técnico, administrativo e dos serviços gerais da Comissão, a partir de 31 de Outubro de 1974, poderá ser colocado em qualquer serviço do Ministério do Equipamento Social e do Ambiente, na Empresa Pública das Águas de Lisboa, passar à situação de aposentado ou ser exonerado.
 
 2. As propostas para a colocação do pessoal da Comissão em qualquer das situações indicadas no número anterior terão fundamentalmente em consideração a observância de princípios gerais que visam o melhor aproveitamento daquele pessoal e o necessário saneamento do serviço público.
 
@@ -195,16 +213,16 @@ c) A satisfação dos encargos financeiros dos capitais investidos.
 
 6. O pagamento dos complementos das pensões de aposentação e das pensões de sobrevivência que sejam concedidas constitui exclusivo encargo da EPAL.
 
-###### Art. 18.º Fica o Ministro do Equipamento Social e do Ambiente autorizado a tomar todas as providências que se mostrem necessárias para assegurar a execução do presente diploma e, nomeadamente, para organizar a EPAL em moldes de empresa pública.
+Art. 18.º Fica o Ministro do Equipamento Social e do Ambiente autorizado a tomar todas as providências que se mostrem necessárias para assegurar a execução do presente diploma e, nomeadamente, para organizar a EPAL em moldes de empresa pública.
 
-###### Art. 19.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro do Equipamento Social e do Ambiente.
+Art. 19.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro do Equipamento Social e do Ambiente.
 
-###### Art. 20.º O presente diploma entra em vigor no dia 31 de Outubro de 1974.
+Art. 20.º O presente diploma entra em vigor no dia 31 de Outubro de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 29 de Outubro de 1974.**
+Promulgado em 29 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

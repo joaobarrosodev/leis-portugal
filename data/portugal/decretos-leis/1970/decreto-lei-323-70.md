@@ -46,40 +46,146 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1970-140330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee74b41d856f743ffd5283fdd20c22ea4576ac057d65b80dfdeb047f035183c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a668de12103f0aa5d0e22972c391c11f1bc613a36fdf3cb144f56cf1ebe19f14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Processo Civil
+- Defensor Oficioso
+- Definição de Competências
+- Notificação
+- Prazo
+- Prazo Processual
+- Processo Civil
+- Processo Declarativo
+- Procuração
+- Recurso
+- Solicitador
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:191994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462240:por
+  label: "Alterados os arts. 144º, 170º e 253º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na\
+    \ redacção do presente diploma, pelo DEC LEI.457/80.10.10.1980.MJ, DR.IS [235] de 10.10.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1980-462240
+  date: '1980-10-10'
+- type: amended_by
+  target: pt:dre:395722:por
+  label: "Alterado o art. 144º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.224/82.08.06.1982.MJ, DR.IS [[130]] de 08.06.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1982-395722
+  date: '1982-06-08'
+- type: amended_by
+  target: pt:dre:311375:por
+  label: "Alterado o art. 1º (que deu nova redacção a vários artigos do código de processo civil) do Dec Lei 224/82 de 08-Jun,\
+    \ alterando de entre esses, o art. 144º do citado código aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, pela LEI.3/83.26.02.1983.AR, DR.IS [47] de 26.02.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1983-311375
+  date: '1983-02-26'
+- type: amended_by
+  target: pt:dre:309946:por
+  label: "Alterados os arts. 169º,170º, 171º, 172º e 173º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez\
+    \ 1961, pelo DEC LEI.128/83.12.03.1983.MJ, DR.IS [59] de 12.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1983-309946
+  date: '1983-03-12'
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterados os artigos 144.º ,145.º e 253.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961,\
+    \ na redacção do presente diploma, pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:476742:por
+  label: "Alterado o artigo 144.º do Dec Lei 44129, de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.381-A/85.28.09.1985.MJ,\
+    \ DR.IS [224-Supl] de 28.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-a-1985-476742
+  date: '1985-09-28'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterado o art. 145º do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do presente
+    diploma, pelo DEC LEI.92/88.17.03.1988.MJ, DR.IS [64-Supl] de 17.03.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 111.º, 144.º, 145.º, 162.º, 169.º, 170.º, 171.º, 172.º, 253.º, 254.º, todos do Código de Processo\
+    \ Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ,\
+    \ DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:214238:por
+  label: "Alterado o art. 145.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pelo DEC LEI.180/96.25.09.1996.MJ, DR.IS-A [223] de\
+    \ 25.09.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1996-214238
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: "Alterados os artigos 145.º e 254.º do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro\
+    \ de 1961, na redacção do presente diploma, pelo DEC LEI.324/2003.27.12.2003.MJ, DR.IS-A [298] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterado, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigos 11.º e 12.º, o artigo 254.º, do\
+    \ Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de dezembro de 1961, na redacção do presente diploma,\
+    \ pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 145º, do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez\
+    \ de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterado, a partir de 02.01.2009, o artigo 162.º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44129,\
+    \ de 28 de Dezembro de 1961, na redacção do presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:613677:por
+  label: "Alterado, a partir de 20.04.2010, o art. 144º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44129,\
+    \ de 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.35/2010.15.04.2010.MJ, DR.IS [73] de 15.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2010-613677
+  date: '2010-04-15'
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:15Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +210,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 111.º, 144.º, 145.º, 162.º, 169.º, 170.º, 171.º, 172.º, 173.º, 253.º e 254.º do Código de Processo Civil passam a ter a seguinte redacção:
+Artigo único. Os artigos 111.º, 144.º, 145.º, 162.º, 169.º, 170.º, 171.º, 172.º, 173.º, 253.º e 254.º do Código de Processo Civil passam a ter a seguinte redacção:
 
 ###### Artigo 111.º — (...)
 
@@ -194,8 +300,8 @@ Artigo. 171.º
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 1 de Julho de 1970.**
+Promulgado em 1 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

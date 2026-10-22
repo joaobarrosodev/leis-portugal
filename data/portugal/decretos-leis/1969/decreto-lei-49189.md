@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49189-1969-198709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa7988fd51a925245e48532f0e91c1b2c2182350d310eb41d3ff9b413a3c920e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e0349f51d12cae01c54342890048d6a8e1b82b9c7b61293d579b3828bf19dde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Executiva
+- Definição de Competências
+- Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+- Junta Geral
+- Presidente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:25Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +91,9 @@ Tornando-se necessário coordenar os planos de administração das juntas gerais
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 26.º, 27.º e 38.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 26.º, 27.º e 38.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passam a ter a seguinte redacção:
 
-###### Art. 26.º Para o desempenho das suas atribuições, compete privativamente às juntas gerais:
+Art. 26.º Para o desempenho das suas atribuições, compete privativamente às juntas gerais:
 
 1.º Fazer, interpretar e modificar os regulamentos necessários aos serviços distritais e revogar os dispensáveis;
 
@@ -120,7 +125,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. As deliberações sobre empréstimos carecem, para se tornarem executórias, da aprovação do Ministro das Finanças.
 
-###### Art. 27.º O plano trienal da administração do distrito será aprovado, em sessão extraordinária da junta geral, até 30 de Junho do ano anterior ao do início do período a que respeite.
+Art. 27.º O plano trienal da administração do distrito será aprovado, em sessão extraordinária da junta geral, até 30 de Junho do ano anterior ao do início do período a que respeite.
 
 § 1.º O plano compor-se-á de três partes: a primeira discriminando as necessidades públicas do distrito, graduadas por ordem de urgência e de importância; a segunda destinada ao cálculo das possibilidades prováveis do distrito no triénio; a terceira com as normas gerais de orientação administrativa a seguir e o enunciado da obra a fazer, sem pormenor.
 
@@ -132,7 +137,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 5.º As juntas gerais, suas comissões executivas e serviços dependentes não podem, sob pena de responsabilidade pessoal e solidária dos procuradores, tomar iniciativas ou ordenar obras que contrariem o disposto no plano trienal ou nele não estejam previstas, salvo ocorrendo circunstâncias extraordinárias que exijam providências urgentes.
 
-###### Art. 38.º Compete ao presidente da comissão executiva:
+Art. 38.º Compete ao presidente da comissão executiva:
 
 1.º Convocar as reuniões extraordinárias da comissão;
 
@@ -168,14 +173,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. O plano trienal da administração do distrito e os planos anuais devem ser elaborados em subordinação e coordenação, respectivamente, com o plano de fomento nacional e os seus programas anuais de execução.
 
-###### Art. 2.º Os planos de administração das juntas gerais elaborados para o período de 1969-1972 serão revistos de acordo com a revisão que vier a efectuar-se do III Plano de Fomento.
+Art. 2.º Os planos de administração das juntas gerais elaborados para o período de 1969-1972 serão revistos de acordo com a revisão que vier a efectuar-se do III Plano de Fomento.
 
-###### Art. 3.º Excepcionalmente, os planos de administração das juntas gerais a elaborar no ano de 1972 respeitarão apenas ao ano seguinte.
+Art. 3.º Excepcionalmente, os planos de administração das juntas gerais a elaborar no ano de 1972 respeitarão apenas ao ano seguinte.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 6 de Agosto de 1969.**
+Promulgado em 6 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

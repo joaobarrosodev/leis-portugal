@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 225/1971, 1º Suplemento, Série I de 1971-09-23
   number: '225'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1362-(1) a 1362-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/404-1971-187337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a6df5f74b0d2a7b69f42342e604f9ab02d8be7a2eb062310f10a9f91b59abdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6c6b1644f6352ee8cabd146b637b6853e63576405176ab3731c1ba6a0fe0577
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Betão
+- Construção Civil
+- Indústria da Construção
+- Material de Construção
+- Proteção do Consumidor
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:551255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:171082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:370436:por
+  label: "Revogado pelo DEC LEI.309/88.02.09.1988.MOPTC, DR.IS [203] de 02.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1988-370436
+  date: '1988-09-02'
+- type: repealed_by
+  target: pt:dre:551255:por
+  label: "Revogado o Regulamento de Betões de Ligantes Hidráulicos, pelo DEC LEI.445/89.30.12.1989.MOPTC, DR.IS [299] de 30.12.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/445-1989-551255
+  date: '1989-12-30'
 article_structure:
-  article_count: 85
+  article_count: 22
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:19Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +147,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento de Betões de Ligantes Hidráulicos, que faz parte do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
+Artigo único. É aprovado o Regulamento de Betões de Ligantes Hidráulicos, que faz parte do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 22 de Maio de 1971.**
+Promulgado em 22 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MEMÓRIA DESCRITIVA E JUSTIFICATIVA
 
@@ -206,109 +255,109 @@ SUMÁRIO
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - Objecto e campo de aplicação.
+Artigo 1.º - Objecto e campo de aplicação.
 
-###### Artigo 2.º - Documentos normativos aplicáveis.
+Artigo 2.º - Documentos normativos aplicáveis.
 
 ###### Artigo 3.º - Tipos de betões.
 
-###### Artigo 4.º - Qualidades de betões.
+Artigo 4.º - Qualidades de betões.
 
-###### Artigo 5.º - Classes de betões do tipo B.
+Artigo 5.º - Classes de betões do tipo B.
 
-###### Artigo 6.º - Classes de betões do tipo BD.
+Artigo 6.º - Classes de betões do tipo BD.
 
-###### Artigo 7.º - Designação dos betões.
+Artigo 7.º - Designação dos betões.
 
 ### CAPÍTULO II — Componentes do betão
 
 ###### Artigo 8.º - Ligantes.
 
-###### Artigo 9.º - Inertes.
+Artigo 9.º - Inertes.
 
 ###### Artigo 10.º - Água.
 
-###### Artigo 11.º - Aditivos.
+Artigo 11.º - Aditivos.
 
-###### Artigo 12.º - Quantidades de halogenetos, de sulfuretos, de sulfatos e de álcalis contidas nos componentes.
+Artigo 12.º - Quantidades de halogenetos, de sulfuretos, de sulfatos e de álcalis contidas nos componentes.
 
 ### CAPÍTULO III — Composição do betão
 
-###### Artigo 13.º - Composição do betão.
+Artigo 13.º - Composição do betão.
 
-###### Artigo 14.º - Estudo da composição do betão.
+Artigo 14.º - Estudo da composição do betão.
 
-###### Artigo 15.º - Dosagens mínimas de ligante.
+Artigo 15.º - Dosagens mínimas de ligante.
 
-###### Artigo 16.º - Valores máximos da razão água/ligante.
+Artigo 16.º - Valores máximos da razão água/ligante.
 
-###### Artigo 17.º - Granulometria dos inertes.
+Artigo 17.º - Granulometria dos inertes.
 
-###### Artigo 18.º - Quantidade de ar a incorporar nos betões do tipo BD da classe 3.
+Artigo 18.º - Quantidade de ar a incorporar nos betões do tipo BD da classe 3.
 
 ### CAPÍTULO IV — Fabrico do betão
 
 ###### Artigo 19.º - Fabrico do betão.
 
-###### Artigo 20.º - Armazenamento dos componentes.
+Artigo 20.º - Armazenamento dos componentes.
 
-###### Artigo 21.º - Medição dos componentes.
+Artigo 21.º - Medição dos componentes.
 
-###### Artigo 22.º - Humidade dos inertes.
+Artigo 22.º - Humidade dos inertes.
 
 ###### Artigo 23.º - Amassadura.
 
-###### Artigo 24.º - Fabrico em condições de temperatura desfavoráveis.
+Artigo 24.º - Fabrico em condições de temperatura desfavoráveis.
 
 ### CAPÍTULO V — Betonagem, cura e desmoldagem
 
 ###### Artigo 25.º - Transporte.
 
-###### Artigo 26.º - Depósito.
+Artigo 26.º - Depósito.
 
 ###### Artigo 27.º - Colocação.
 
-###### Artigo 28.º - Juntas de betonagem.
+Artigo 28.º - Juntas de betonagem.
 
 ###### Artigo 29.º - Compactação.
 
-###### Artigo 30.º - Cura.
+Artigo 30.º - Cura.
 
-###### Artigo 31.º - Transporte, colocação e cura em condições de temperatura desfavoráveis.
+Artigo 31.º - Transporte, colocação e cura em condições de temperatura desfavoráveis.
 
 ###### Artigo 32.º - Moldes e cimbres.
 
-###### Artigo 33.º - Desmoldagem e descimbramento.
+Artigo 33.º - Desmoldagem e descimbramento.
 
 ### CAPÍTULO VI — Fiscalização e recepção
 
-###### Artigo 34.º - Verificação e fiscalização.
+Artigo 34.º - Verificação e fiscalização.
 
-###### Artigo 35.º - Boletim de fabrico do betão.
+Artigo 35.º - Boletim de fabrico do betão.
 
-###### Artigo 36.º - Boletim de encomenda e guia de remessa do betão fabricado em central industrial.
+Artigo 36.º - Boletim de encomenda e guia de remessa do betão fabricado em central industrial.
 
-###### Artigo 37.º - Livro de registo da obra.
+Artigo 37.º - Livro de registo da obra.
 
-###### Artigo 38.º - Recepção dos componentes.
+Artigo 38.º - Recepção dos componentes.
 
-###### Artigo 39.º - Recepção do betão. Condições gerais.
+Artigo 39.º - Recepção do betão. Condições gerais.
 
-###### Artigo 40.º - Recepção dos betões do tipo B.
+Artigo 40.º - Recepção dos betões do tipo B.
 
-###### Artigo 41.º - Recepção dos betões do tipo BD.
+Artigo 41.º - Recepção dos betões do tipo BD.
 
-###### Artigo 42.º - Recepção dos betões fabricados em central industrial.
+Artigo 42.º - Recepção dos betões fabricados em central industrial.
 
-## ANEXO I - Determinação do desvio padrão, do coeficiente de variação e do valor característico da tensão de rotura do betão a partir dos resultados dos ensaios.
+ANEXO I - Determinação do desvio padrão, do coeficiente de variação e do valor característico da tensão de rotura do betão a partir dos resultados dos ensaios.
 
-## ANEXO II - Lista dos documentos normativos aplicáveis.
+ANEXO II - Lista dos documentos normativos aplicáveis.
 
 ÍNDICE ALFABÉTICO.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - Objecto e campo de aplicação
+Artigo 1.º - Objecto e campo de aplicação
 
 O presente Regulamento estabelece as regras a observar no fabrico e na aplicação dos betões de ligantes hidráulicos destinados a obras de betão simples, armado e pré-esforçado.
 
@@ -318,7 +367,7 @@ Como se compreende, seria difícil tratar de forma sistemática no Regulamento o
 
 O caso do betão a utilizar em grandes massas é objecto de disposições do regulamento nos aspectos técnicos que o diferenciam dos betões usuais; o mesmo sucede no que se refere às condições de fiscalização e de recepção dos betões produzidos em instalações fixas e que se destinam a ser vendidos para aplicação por terceiros (betões fabricados em central industrial).
 
-###### Artigo 2.º - Documentos normativos aplicáveis
+Artigo 2.º - Documentos normativos aplicáveis
 
 As determinações experimentais para verificação das características dos betões e dos seus componentes, quando no texto do Regulamento não seja estipulado o documento normativo a respeitar, devem ser efectuadas de acordo com as normas portuguesas em vigor e, na falta destas, de acordo com as especificações aplicáveis do Laboratório Nacional de Engenharia Civil.
 
@@ -342,7 +391,7 @@ No entanto, dado que é necessário apresentar no Regulamento - e articulá-las 
 
 Um betão que, mercê dos condicionalismos da sua utilização, tenha de satisfazer exigências específicas de resistência e de durabilidade, deve, òbviamente, pertencer simultâneamente aos dois tipos definidos e obedecer, portanto, às disposições regulamentares que a cada tipo correspondem: é o caso, por exemplo, de um betão a empregar numa estrutura em contacto com um ambiente agressivo.
 
-###### Artigo 4.º - Qualidades de betões
+Artigo 4.º - Qualidades de betões
 
 As qualidades de betões consideradas no presente Regulamento são as que constam do quadro I, definidas em função dos valores do desvio padrão ou do coeficiente de variação das distribuições estatísticas das tensões de rotura por compressão ou por flexão aos vinte e oito dias. Os provetes para a determinação da tensão de rotura por compressão devem ser cúbicos, com 20 cm de aresta; os provetes para a determinação da tensão de rotura por flexão devem ser prismáticos, com as dimensões de 15 cm x l5 cm x 55 cm.
 
@@ -356,7 +405,7 @@ Qualidades de betões
 
 Valores máximos dos parâmetros definidores da qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Enquanto não existirem normas portuguesas aplicáveis, a determinação das tensões de rotura do betão deve ser feita, por força do artigo 2.º, de acordo com as especificações LNEC seguintes:
 
@@ -366,7 +415,7 @@ LNEC E 227 - Betão. Ensaio de flexão.
 
 LNEC E 255 - Betões. Preparação de provetes para ensaios de compressão e de flexão.
 
-###### Artigo 5.º - Classes de betões do tipo B
+Artigo 5.º - Classes de betões do tipo B
 
 A classe de um betão do tipo B é definida pelo valor característico da sua tensão de rotura por compressão ou por flexão aos vinte e oito dias, entendendo-se por valor característico aquele valor que é atingido com a probabilidade de 95%.
 
@@ -380,11 +429,11 @@ QUADRO II
 
 Qualidades de betões do tipo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Note-se que, em geral, a classe dos betões do tipo B será referida ao valor característico da tensão de rotura por compressão. No entanto, haverá casos em que, sendo a resistência à tracção o parâmetro mais significativo, se torna conveniente definir a classe do betão pelo valor característico da tensão de rotura à tracção, determinada pelo ensaio de flexão.
 
-###### Artigo 6.º - Classes de betões do tipo BD
+Artigo 6.º - Classes de betões do tipo BD
 
 As classes de betões do tipo BD consideradas no presente Regulamento são as seguintes:
 
@@ -404,13 +453,13 @@ QUADRO III
 
 Definição da agressividade química das águas em contacto com o betão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 QUADRO IV
 
 Qualidades de betões do tipo BD
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 As classes de betões do tipo BD consideradas no presente Regulamento referem-se apenas aos betões a que se exige durabilidade quando em contacto com águas agressivas ou quando expostos a ambientes em que ocorram baixas temperaturas.
 
@@ -440,7 +489,7 @@ LNEC E 210 - Águas. Determinação do teor em sulfuretos dissolvidos (Processo 
 
 LNEC E 211 - Águas. Determinação do teor em azoto amoniacal (Processo expedito).
 
-###### Artigo 7.º - Designação dos betões
+Artigo 7.º - Designação dos betões
 
 A designação de um betão será, em geral, constituída por uma sigla formada pela sucessão dos indicativos do tipo, da classe e da qualidade.
 
@@ -464,7 +513,7 @@ QUADRO V
 
 Ligantes a utilizar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 A escolha dos ligantes a utilizar é condicionada pelas características a exigir ao betão, critério que presidiu à fixação das condições indicadas no quadro V.
 
@@ -498,7 +547,7 @@ QUADRO VI
 
 Características dos inertes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 b) Não possuir partículas que flutuem em líquidos de densidade igual a 2,00 (partículas leves) e que sejam retidas no peneiro de 0,297 mm de abertura, em teores superiores a 0,5% no caso de areias e a 1% no caso de godos ou britas.
 
@@ -544,7 +593,7 @@ QUADRO VII
 
 Quantidades máximas de impurezas na água de amassadura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 A água potável poderá ser utilizada sem reservas no fabrico do betão, pois satisfaz òbviamente as exigências deste artigo.
 
@@ -566,7 +615,7 @@ As determinações da pasta normal e do princípio de presa, necessárias aos en
 
 Os aditivos que haja necessidade de empregar devem, em geral, ter a sua utilização sancionada pela experiência. No caso de não haver experiência da sua aplicação, devem ser submetidos a ensaios que provem a sua eficiência e inocuidade.
 
-###### Artigo 12.º - Quantidades de halogenetos, de sulfuretos, de sulfatos e de álcalis contidas nos componentes
+Artigo 12.º - Quantidades de halogenetos, de sulfuretos, de sulfatos e de álcalis contidas nos componentes
 
 Os componentes do betão - ligantes, inertes, água e aditivos - não devem conter, em conjunto, quantidades de halogenetos, de sulfuretos, de sulfatos e de álcalis que sejam prejudiciais ao betão e às armaduras que este contenha.
 
@@ -596,7 +645,7 @@ Quantidades máximas de halogenetos, sulfuretos, sulfatos e álcalis admissívei
 
 (Percentagens referidas à massa de ligante)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 LNEC E 158 - Agregados. Determinação do teor em sulfuretos.
 
@@ -624,11 +673,11 @@ Quantidades máximas de halogenetos, sulfuretos, sulfatos e álcalis admissívei
 
 (Percentagens referidas à massa de ligante)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 ### CAPÍTULO III — Composição do betão
 
-###### Artigo 13.º - Composição do betão
+Artigo 13.º - Composição do betão
 
 A composição do betão deve ser estabelecida de modo que este satisfaça as características que a sua utilização impõe (tipo, classe e qualidade) e tendo em atenção os componentes disponíveis e as condições particulares de fabrico, transporte, compactação e cura.
 
@@ -656,7 +705,7 @@ São ainda elementos indispensáveis para o estabelecimento da composição do b
 
 Finalmente, terá de se atender devidamente às condições particulares de fabrico, transporte, colocação e cura do betão que possam influenciar a sua composição. Assim, deverão conhecer-se as condições de temperatura e de humidade dos componentes na ocasião do fabrico, as características do equipamento de fabricação, o processo de medição dos componentes, as características do equipamento de transporte, as condições especiais de colocação do betão (geometria das peças a betonar, distâncias entre armaduras, velocidade de deslocamento da água no caso de betonagens submersas, características do processo de compactação, etc.) e, ainda, as condições particulares em que se vai processar a cura do betão.
 
-###### Artigo 14.º - Estudo da composição do betão
+Artigo 14.º - Estudo da composição do betão
 
 O estudo da composição do betão será realizado com base em teorias de reconhecida validade e apoiado em resultados experimentais.
 
@@ -686,25 +735,25 @@ NP-414 - Consistência do betão. Ensaio de espalhamento.
 
 LNEC E 228 - Betão. Determinação da trabalhabilidade Vêbê.
 
-###### Artigo 15.º - Dosagens mínimas de ligante
+Artigo 15.º - Dosagens mínimas de ligante
 
 As dosagens de ligante devem satisfazer as condições indicadas nas alíneas seguintes:
 
 a) Nos betões do tipo B destinados a estruturas de betão armado e pré-esforçado, a dosagem mínima de ligante será dada pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Em caso algum, porém, a dosagem poderá ser inferior aos valores mínimos estabelecidos nos regulamentos específicos daquelas estruturas.
 
 b) Nos botões do tipo BD a dosagem mínima de ligante será dada pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 QUADRO X
 
 Valores de k para a determinação da dosagem mínima de ligante dos betões do tipo BD das classes 1 e 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Como se sabe, a fixação de dosagens mínimas de ligante é imposta por condições de durabilidade do betão perante a agressividade do meio ambiente. No entanto, o estabelecimento de dosagens mínimas para os betões do tipo B a utilizar em estruturas de betão armado e pré-esforçado nas condições climáticas correntes no País é imposto não por condições de durabilidade do betão, mas pela necessidade de proporcionar melhor protecção às armaduras. Porém, quando estas estruturas fiquem sujeitas à acção de meios ambientes com poder agressivo superior ao do ambiente atmosférico corrente (atmosferas salinas, gases corrosivos, etc.), devem, então, adoptar-se medidas especiais para a protecção do betão e das armaduras (inertes e ligantes adequados, aumento das espessuras de recobrimento das armaduras e revestimentos especiais).
 
@@ -716,7 +765,7 @@ A série de peneiros de referência é estabelecida na especificação LNEC E 24
 
 O princípio da presa do betão deve ser determinado de acordo com a especificação LNEC E 259 - Betões. Determinação dos tempos de presa.
 
-###### Artigo 16.º - Valores máximos da razão água/ligante
+Artigo 16.º - Valores máximos da razão água/ligante
 
 A razão água/ligante deve ser reduzida ao mínimo compatível com a utilização e com os processos de colocação e de compactação do betão.
 
@@ -726,11 +775,11 @@ QUADRO XI
 
 Valores máximos da razão água/ligante dos betões do tipo BD das classes 1 e 2 (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 (nota 1) Os valores indicados referem-se a inertes secos.
 
-###### Artigo 17.º - Granulometria dos inertes
+Artigo 17.º - Granulometria dos inertes
 
 A granulometria dos inertes deve ser estabelecida de modo a conferir ao betão as propriedades que a sua utilização impõe, nomeadamente doseando os inertes finos e os inertes grossos de forma a obter a maior compacidade.
 
@@ -744,7 +793,7 @@ QUADRO XII
 
 Curvas granulométricas aconselhadas para os inertes dos betões cuja composição não seja estudada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 No entanto, apresentam-se algumas regras gerais orientadoras da escolha de granulometrias satisfatórias para as utilizações correntes. Assim, é aconselhável adoptar uma granulometria a que corresponda uma curva que se situe entre as curvas granulométricas representadas nas colunas A e C do quadro XII e se aproxime tanto quanto possível da curva B do mesmo quadro, a qual é a curva de referência de Fuller, definida para uma série de peneiros cujas aberturas variam em progressão geométrica de razão 2.
 
@@ -754,7 +803,7 @@ QUADRO XIII
 
 Módulos de finura aconselhados para os inertes dos betões cuja composição não seja estudada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Chama-se ainda a atenção para o facto de não terem sido impostos condicionamentos à máxima dimensão do inerte, o que resultou de tal dimensão estar relacionada com vários parâmetros, como sejam a geometria da peça a betonar, a dosagem de ligante, etc.
 
@@ -766,7 +815,7 @@ D =< 1/3 e em que e é a espessura de uma laje;
 
 D =< 3/4 c = em que e é a distância mínima entre armaduras ou a espessura mínima de recobrimento das armaduras; este condicionamento refere-se, òbviamente, apenas às zonas das peças onde existam armaduras.
 
-###### Artigo 18.º - Quantidade de ar a incorporar nos betões do tipo BD da classe 3
+Artigo 18.º - Quantidade de ar a incorporar nos betões do tipo BD da classe 3
 
 Nos betões do tipo BD da classe 3 deve ser incorporada a quantidade de ar indicada no quadro XIV em função da máxima dimensão do inerte a utilizar.
 
@@ -774,7 +823,7 @@ QUADRO XIV
 
 Quantidade de ar a incorporar nos betões do tipo BD da classe 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 ### CAPÍTULO IV — Fabrico do betão
 
@@ -784,7 +833,7 @@ O fabrico do betão deve ser feito respeitando a composição estabelecida e que
 
 Devem utilizar-se as técnicas e os equipamentos adequados à obtenção do betão pretendido, respeitando as disposições dos artigos 20.º a 24.º
 
-###### Artigo 20.º - Armazenamento dos componentes
+Artigo 20.º - Armazenamento dos componentes
 
 O armazenamento dos componentes do betão no estaleiro deve ser feito de modo a assegurar a sua boa conservação enquanto aguardam utilização.
 
@@ -800,7 +849,7 @@ b) Os inertes das diversas categorias a empregar no fabrico do betão devem ser 
 
 No caso de inertes com água superficial, estes devem ser sujeitos a armazenamento de modo a obter-se a uniformização do seu estado de humidade, durante um período de tempo não inferior, em geral, a doze horas, salvo se for comprovado, através de ensaios, que a uniformização é obtida em um período de tempo inferior. Pode dispensar-se este armazenamento para uniformização da humidade se, no fabrico do betão, for utilizado equipamento em que a adição de água de amassadura é realizada automàticamente por meio de dispositivos eficientes que mantenham constante a quantidade total de água em cada amassadura.
 
-###### Artigo 21.º - Medição dos componentes
+Artigo 21.º - Medição dos componentes
 
 A medição dos ligantes e das pozolanas deve ser sempre efectuada por pesagem ou por número de sacos de embalagem de origem; a medição dos inertes será efectuada por pesagem para os betões da qualidade 1; em todos os restantes casos, as medições dos componentes do betão podem ser feitas em volume.
 
@@ -810,11 +859,11 @@ QUADRO XV
 
 Precisão da medição dos componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 É recomendável que os recipientes para as medições em volume tenham altura não inferior à maior dimensão da secção transversal. Para evitar enganos, os recipientes devem possuir indicação bem visível da sua capacidade.
 
-###### Artigo 22.º - Humidade dos inertes
+Artigo 22.º - Humidade dos inertes
 
 A humidade dos inertes, na ocasião do fabrico do betão, deve ser tão uniforme quanto possível, devendo, para isso, tomar-se os necessários cuidados, em particular os especificados no artigo 20.º
 
@@ -848,7 +897,7 @@ No caso de betoneiras de produção contínua, a alimentação do tambor deve se
 
 b) A amassadura manual deve ser realizada sobre uma superfície plana e impermeável. Devem colocar-se primeiramente os inertes, dos mais grossos para os mais finos, em camadas sobrepostas, e, finalmente, o ligante. Em seguida devem misturar-se a seco estes componentes até ser obtida uma massa de cor homogénea, à qual se adicionará a água, tomando os cuidados necessários para que não haja fugas para o exterior da massa. Finalmente, deve amassar-se o conjunto até ser obtida a sua mistura homogénea.
 
-###### Artigo 24.º - Fabrico em condições de temperatura desfavoráveis
+Artigo 24.º - Fabrico em condições de temperatura desfavoráveis
 
 Se a temperatura ambiente for tal que exista o risco de a temperatura do betão, no momento da sua colocação, ser inferior a 5ºC ou superior a 35ºC, haverá que tomar disposições especiais no fabrico para evitar esse facto, de acordo com o indicado nas alíneas seguintes:
 
@@ -938,7 +987,7 @@ A proporção das dimensões dos blocos, em planta, não deve exceder a relaçã
 
 Na colocação do betão em grandes massas sobre terreno de fundação, deverá primeiramente proceder-se a conveniente limpeza da superfície do terreno, destacando os seus elementos desagregáveis e lavando-o com jactos de água; o terreno deve ser mantido humedecido durante as vinte e quatro horas que antecedem a betonagem, a qual deve ser iniciada depois da colocação de uma camada de argamassa (ver artigo 28.º) cuja espessura não deve exceder cerca de 3 cm. Quando o bloco a betonar tenha grande área, os cuidados a ter na progressão das espessuras devem ser idênticos aos indicados anteriormente para o caso de longa interrupção da betonagem.
 
-###### Artigo 28.º - Juntas de betonagem
+Artigo 28.º - Juntas de betonagem
 
 Quando houver necessidade de criar juntas de betonagem, estas devem ser localizadas, tanto quanto possível, nas secções menos esforçadas das peças a ter orientação sensìvelmente perpendicular à direcção das tensões principais de compressão.
 
@@ -996,7 +1045,7 @@ Manter contìnuamente molhadas as superfícies expostas.
 
 As medidas de protecção contra a perda de água por evaporação devem ser mantidas, em geral, durante os seguintes períodos, a partir da betonagem: sete dias para os betões de cimento portland normal e portland de ferro; catorze dias para os betões em que se utilizam outros ligantes.
 
-###### Artigo 31.º - Transporte, colocação e cura em condições de temperatura desfavoráveis
+Artigo 31.º - Transporte, colocação e cura em condições de temperatura desfavoráveis
 
 No caso de a temperatura ambiente ser tal que exista o risco de a temperatura do betão, no momento da sua colocação, ser inferior a 5ºC ou superior a 35ºC (ver artigo 27.º), ou ser tal que prejudique as condições de cura do betão, há que tomar, além de cuidados no fabrico (ver artigo 24.º), disposições especiais no transporte, na colocação e na cura do betão, de acordo com o indicado nas alíneas seguintes:
 
@@ -1026,7 +1075,7 @@ No caso de peças altas e pouco espessas, os moldes devem ser concebidos de modo
 
 Nos locais difìcilmente acessíveis, tais como bases de colunas e de paredes, devem também dispor-se aberturas temporárias que facilitem a limpeza e a inspecção do molde e das armaduras e a colocação do betão.
 
-###### Artigo 33.º - Desmoldagem e descimbramento
+Artigo 33.º - Desmoldagem e descimbramento
 
 A desmoldagem e o descimbramento sòmente devem ser realizados quando o betão tiver adquirido resistência suficiente não só para que seja satisfeita a segurança em relação à rotura das peças desmoldadas, mas ainda para que não se verifiquem deformações excessivas, tanto a curto como a longo prazos.
 
@@ -1038,7 +1087,7 @@ No caso particular das estruturas de betão armado, há que cumprir, na desmolda
 
 ### CAPÍTULO VI — Fiscalização e recepção
 
-###### Artigo 34.º - Verificação e fiscalização
+Artigo 34.º - Verificação e fiscalização
 
 Todas as operações relativas ao estudo, fabrico e aplicação do betão devem ser sempre acompanhadas de cuidadosa verificação por parte da entidade que tem a seu cargo os trabalhos, sob o contrôle do dono da obra ou dos seus agentes.
 
@@ -1074,7 +1123,7 @@ Faz parte ainda das actividades de verificação e fiscalização velar pelo cum
 
 No caso de betões fabricados em central industrial, é de referir ainda o interesse de a central dar acesso à consulta dos resultados dos ensaios de verificação e contrôle de fabrico, o que facilita à entidade compradora a recepção do betão, permitindo simplificar as operações de verificação correspondentes.
 
-###### Artigo 35.º - Boletim de fabrico do betão
+Artigo 35.º - Boletim de fabrico do betão
 
 Junto do local de fabrico do betão e a cargo da entidade que executa os trabalhos deve existir, referente a cada betão, um documento denominado «boletim de fabrico do betão», o qual, elaborado de acordo com a composição estabelecida para o betão, se destina a exprimir essa composição em valores directamente utilizáveis na medição dos componentes a aplicar em cada amassadura, tendo em consideração a humidade dos inertes na ocasião do seu emprego.
 
@@ -1094,13 +1143,13 @@ Boletim de fabrico do betão
 
 Modelo A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Boletim de fabrico do betão
 
 Modelo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Nos betões das qualidades 1 e 2, o boletim de fabrico deve conter ainda as seguintes indicações:
 
@@ -1118,7 +1167,7 @@ O primeiro esquema (modelo A) aplica-se aos betões da qualidade 1 e aos das qua
 
 A determinação da baridade dos inertes deve ser efectuada de acordo com a especificação LNEC E 247 - Inertes para argamassas e betões. Determinação da paridade.
 
-###### Artigo 36.º - Boletim de encomenda e guia de remessa do betão fabricado em central industrial
+Artigo 36.º - Boletim de encomenda e guia de remessa do betão fabricado em central industrial
 
 A encomenda e o fornecimento do betão fabricado em central industrial devem ser acompanhados de documentos denominados, respectivamente, «boletim de encomenda do betão» e «guia de remessa do betão», os quais deverão satisfazer ao que é especificado nas alíneas seguintes:
 
@@ -1152,7 +1201,7 @@ Quando da entrega do betão na obra, devem ainda ser anotados na guia de remessa
 
 A guia de remessa deve ser elaborada em duplicado, devendo ambos os exemplares ser visados pelas entidades fornecedora e compradora; cada uma destas entidades ficará de posse de um dos exemplares.
 
-###### Artigo 37.º - Livro de registo da obra
+Artigo 37.º - Livro de registo da obra
 
 No livro de registo da obra - documento elaborado e mantido pela entidade que executa os trabalhos, onde são indicadas cronologicamente as ocorrências verificadas no decurso da obra e que interessam à realização desta - devem figurar, em geral, no que diz respeito aos betões, os seguintes elementos:
 
@@ -1176,7 +1225,7 @@ O livro de registo será facultado aos agentes da fiscalização do Estado ou do
 
 Têm-se como fundamentais, para que se realizem eficientemente a verificação e a fiscalização das obras, a existência e o correcto preenchimento do livro de registo. Convém, consequentemente, que as entidades fiscalizadoras do Estado e dos corpos administrativos efectivamente velem pela existência desse registo.
 
-###### Artigo 38.º - Recepção dos componentes
+Artigo 38.º - Recepção dos componentes
 
 A recepção dos componentes será feita com base na verificação de que satisfazem as características gerais definidas no presente Regulamento e as que constam da especificação do betão contida no relatório do estudo da composição e no boletim de fabrico.
 
@@ -1186,7 +1235,7 @@ Em muitos casos, a recepção dos componentes poderá ser bastante simplificada,
 
 Quando se verificar que a granulometria de qualquer das categorias dos inertes em recepção é caracterizada por valores do módulo de finura que se afastem em mais de 0,20 dos valores especificados, é necessário, para os inertes em causa poderem ser aplicados, corrigir a composição do betão inicialmente estabelecida.
 
-###### Artigo 39.º - Recepção do betão. Condições gerais
+Artigo 39.º - Recepção do betão. Condições gerais
 
 A recepção do betão será feita com base na verificação de que satisfaz as características definidas no relatório do estudo da composição (ou na guia de remessa, no caso de betão fabricado em central industrial) e de acordo com o estipulado nos artigos 40.º a 42.º
 
@@ -1212,7 +1261,7 @@ Quanto aos boletins dos ensaios de recepção do betão, a sua organização ter
 
 Boletim dos ensaios de recepção do betão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 No que se refere ao estipulado no § único do artigo, ou seja o problema da recepção de um betão que não satisfaça os valores especificados, é muito difícil estabelecer regras gerais que definam as circunstâncias em que o betão pode deixar de ser rejeitado, devendo cada caso ser julgado de per si, de acordo com as prevenções indicadas naquele parágrafo.
 
@@ -1226,7 +1275,7 @@ Assim, no caso da amostragem para a determinação dos parâmetros da distribui�
 
 No caso da amostragem para a determinação da máxima dimensão do inerte, da dosagem de ligante e da razão água/ligante, deverá colher-se, pelo menos, uma amostra por cada 40 m3 a 200 m3 de betão, e nunca menos de uma amostra por cada período de quatro dias de laboração. Do mesmo modo que anteriormente, conjugando este critério com a determinação de que são necessários os resultados dos ensaios de um mínimo de cinco amostras para determinar em boas condições os valores procurados (ver artigo 41.º), não será difícil fixar o programa de amostragem.
 
-###### Artigo 40.º - Recepção dos betões do tipo B
+Artigo 40.º - Recepção dos betões do tipo B
 
 Para a recepção dos betões do tipo B as verificações a efectuar incidirão, pelo menos, sobre as seguintes características: desvio padrão ou coeficiente de variação da distribuição estatística das tensões de rotura aos vinte e oito dias e valor característico desta tensão.
 
@@ -1238,7 +1287,7 @@ As amostras devem ser retiradas de tal modo que a uma dada amassadura não corre
 
 § único. Se, em virtude de condições excepcionais, devidamente reconhecidas, o número disponível de resultados da determinação da tensão de rotura for inferior a 20, o betão não será aceite se qualquer desses resultados for inferior ao valor característico especificado.
 
-###### Artigo 41.º - Recepção dos betões do tipo BD
+Artigo 41.º - Recepção dos betões do tipo BD
 
 Para a recepção dos betões do tipo BD das classes 1 e 2 as verificações a efectuar incidirão, pelo menos, sobre as seguintes características: desvio padrão ou coeficiente de variação da distribuição estatística das tensões de rotura aos vinte e oito dias, máxima dimensão do inerte e dosagens de água e de ligante (razão água/ligante); no caso dos betões da classe 3, além dos parâmetros definidores da qualidade, há que verificar o teor em ar incorporado.
 
@@ -1250,7 +1299,7 @@ Características de betões do tipo BD
 
 Tolerâncias na recepção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 As determinações da dosagem de ligante, da razão água/ligante e do teor em ar incorporado devem ser baseadas nos seguintes documentos:
 
@@ -1258,7 +1307,7 @@ LNEC E 257 - Betões. Determinação da composição do betão fresco.
 
 LNEC E 258 - Betões. Determinação do teor em ar do betão fresco (Processo pneumático).
 
-###### Artigo 42.º - Recepção dos betões fabricados em central industrial
+Artigo 42.º - Recepção dos betões fabricados em central industrial
 
 A recepção dos betões fabricados em central industrial deve ser efectuada de acordo com os critérios definidos nos artigos 39.º a 41.º
 
@@ -1270,11 +1319,11 @@ A colheita das amostras para a realização dos ensaios de recepção será feit
 
 Designando por (sigma)(índice bi) os valores individuais da tensão de rotura obtidos nos ensaios das amostras e por n o número de valores, calcula-se a média aritmética (sigma)(índice bm) daqueles valores pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 e determina-se o desvio padrão (Delta) pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
 Admitindo que o valor da média e o quadrado do valor do desvio padrão assim determinados são boas estimas da média e da variância da distribuição estatística da população que as amostras representam, e admitindo que esta distribuição é normal, o valor característico da tensão de rotura (sigma)(índice bk) - definido como valor que é atingido com a probabilidade de 95% - distará da média 1,64 desvios padrões.
 
@@ -1410,6 +1459,6 @@ LNEC E 259 - Betões. Determinação dos tempos de presa.
 
 ÍNDICE ALFABÉTICO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22501/00010024.pdf)
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

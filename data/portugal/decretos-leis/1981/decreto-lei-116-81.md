@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11100/11351136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1981-573897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cc3a17811836476dced3a6fb113062ce1491e371e750652dd7bda6f45bec3d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e8c52ca978d9b5a66615620f7e272dd1b292d78b6e565da7d02ad9d0469c2e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Proteção Fitossanitária
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:300984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:142530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447964:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355567:por
+  label: Revogado, com efeitos a partir da publicação do Decreto Regulamentar previsto no artigo 6.º, do presente diploma,
+    pelo DEC LEI.348/88.30.09.1988.MAPA, DR.IS [227] de 30.09.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/348-1988-355567
+  date: '1988-09-30'
+- type: repealed_by
+  target: pt:dre:300984:por
+  label: "Revogado pelo DEC LEI.154/94.1994.05.28.MA, DR.IS-A [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1994-300984
+  date: '1994-05-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:09Z'
   warnings: []
   errors: []
 ---
@@ -108,32 +131,32 @@ Nestes termos, ouvidos os Governos Regionais da Madeira e dos Açores:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Ficam sujeitas a inspecção fitossanitária todas as plantas e partes de plantas para propagação ou susceptíveis de serem propagadas, frutos e sementes de fava, ervilha e luzerna provenientes do continente e Açores e destinadas à Região Autónoma da Madeira, e vice-versa.
+Artigo 1.º - 1 - Ficam sujeitas a inspecção fitossanitária todas as plantas e partes de plantas para propagação ou susceptíveis de serem propagadas, frutos e sementes de fava, ervilha e luzerna provenientes do continente e Açores e destinadas à Região Autónoma da Madeira, e vice-versa.
 
 2 - A inspecção será efectuada nas alfândegas dos vários portos e aeroportos comerciais por pessoal credenciado para o exercício das funções de inspector fitossanitário.
 
 3 - A mercadoria só será entregue ao destinatário depois de este apresentar à alfândega o certificado passado pelos serviços de inspecção fitossanitária.
 
-###### Art. 2.º - 1 - Todas as plantas e partes de plantas a exportar do continente e dos Açores para a Madeira deverão ser acompanhadas de certificado fitossanitário, nos termos da legislação em vigor, e ainda de declaração adicional de que o referido material se encontra isento de Globodera rostochiensis, Leptinotarsa decemlineata, Polychrosis botrana, Clysia ambiguella e Rhagoletis cerasi.
+Art. 2.º - 1 - Todas as plantas e partes de plantas a exportar do continente e dos Açores para a Madeira deverão ser acompanhadas de certificado fitossanitário, nos termos da legislação em vigor, e ainda de declaração adicional de que o referido material se encontra isento de Globodera rostochiensis, Leptinotarsa decemlineata, Polychrosis botrana, Clysia ambiguella e Rhagoletis cerasi.
 
 2 - Tratando-se de plantas e partes de plantas provenientes dos Açores, será ainda exigida a declaração adicional de que o referido material se encontra isento de Popillia japonica e de Grapholita molesta.
 
-###### Art. 3.º Todas as plantas e partes de plantas provenientes da Madeira e destinadas ao continente e Açores serão acompanhadas de certificado fitossanitário.
+Art. 3.º Todas as plantas e partes de plantas provenientes da Madeira e destinadas ao continente e Açores serão acompanhadas de certificado fitossanitário.
 
-###### Art. 4.º É proibida a exportação para a Madeira de batata produzida no continente, bem como a reexportação de batata proveniente de países onde estejam assinaladas as pragas Globodera rostochiensis e Leptinotarsa decemlineata.
+Art. 4.º É proibida a exportação para a Madeira de batata produzida no continente, bem como a reexportação de batata proveniente de países onde estejam assinaladas as pragas Globodera rostochiensis e Leptinotarsa decemlineata.
 
-###### Art. 5.º É proibida a exportação para a Madeira de uvas frescas e cerejas produzidas no continente.
+Art. 5.º É proibida a exportação para a Madeira de uvas frescas e cerejas produzidas no continente.
 
-###### Art. 6.º Poderão ser introduzidas por decreto regulamentar outras restrições à circulação de mercadorias, quando se revelem indispensáveis para evitar a propagação de novas pragas e doenças, ouvido, em todos os casos, o Governo Regional.
+Art. 6.º Poderão ser introduzidas por decreto regulamentar outras restrições à circulação de mercadorias, quando se revelem indispensáveis para evitar a propagação de novas pragas e doenças, ouvido, em todos os casos, o Governo Regional.
 
-###### Art. 7.º O Governo Regional regulamentará as condições de circulação entre as ilhas do arquipélago de quaisquer plantas e partes de plantas, frutos e sementes.
+Art. 7.º O Governo Regional regulamentará as condições de circulação entre as ilhas do arquipélago de quaisquer plantas e partes de plantas, frutos e sementes.
 
-###### Art. 8.º O Governo da República assegurará, através do Ministério da Agricultura e Pescas, o apoio técnico que for solicitado pelo Governo Regional, com vista à boa execução deste diploma.
+Art. 8.º O Governo da República assegurará, através do Ministério da Agricultura e Pescas, o apoio técnico que for solicitado pelo Governo Regional, com vista à boa execução deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1981. - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 6 de Maio de 1981.**
+Promulgado em 6 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

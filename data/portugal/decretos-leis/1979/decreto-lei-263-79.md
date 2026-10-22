@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17600/17691770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1979-381344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d70c397854518560e7e94e07b6fdb1839159c74bce5bd2f780a7579a002a4f51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23bb5afa38fa61b99ee5ef01f8c0e7580a2f8a94c10fd079b3b114a018f706f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614590:por
+  label: "Alterado o art. 13º-A e o nº 1 do art. 16º do Código da Sisa e do Imposto sobre Sucessões e Doações, aprovado pelo\
+    \ Dec Lei 41969 de 24-Nov de 1958, com a redacção do presente diploma, pelo DEC LEI.91/89.27.03.1989.MF, DR.IS [71] de\
+    \ 27.03.1989\09"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterado o art. 155º do Código do Imposto Municipal da Sisa e do Imposto sobre as Sucessões e Doações, aprovado\
+    \ pelo Dec Lei 41969, de 24-nov de 1958, na redação do presente diploma, pelo DEC LEI.7/96.07.02.1996.MF, DR.IS-A [32]\
+    \ de 07.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: cites
+  target: pt:dre:432798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:51Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +118,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pelo artigo 23.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho, o seguinte:
 
-###### Artigo 1.º É elevado para 1500000$00 o limite fixado no artigo 11.º, n.º 12.º, alínea c), e n.º 21.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, substituindo-se por 1500000$00 e 2100000$00 os limites estabelecidos no seu artigo 39.º-A.
+Artigo 1.º É elevado para 1500000$00 o limite fixado no artigo 11.º, n.º 12.º, alínea c), e n.º 21.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, substituindo-se por 1500000$00 e 2100000$00 os limites estabelecidos no seu artigo 39.º-A.
 
-###### Art. 2.º É modificada a redacção do § 2.º do artigo 13.º-A, dos n.os 1.º, 7.º e 8.º do artigo 16.º, do § único do artigo 30.º, dos artigos 100.º, 101.º, 110.º e 114.º, do n.º 5.º do artigo 115.º e do artigo 155.º do mesmo Código, pela forma que segue:
+Art. 2.º É modificada a redacção do § 2.º do artigo 13.º-A, dos n.os 1.º, 7.º e 8.º do artigo 16.º, do § único do artigo 30.º, dos artigos 100.º, 101.º, 110.º e 114.º, do n.º 5.º do artigo 115.º e do artigo 155.º do mesmo Código, pela forma que segue:
 
-###### Art. 13.º-A ...
+Art. 13.º-A ...
 
 ...
 
@@ -106,7 +130,7 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 1.º Que os prédios adquiridos para revenda não foram revendidos dentro do prazo de dois anos ou o foram novamente para revenda, salvo justificação aceite por despacho do Ministro das Finanças e do Plano, que poderá prorrogar esse prazo até ao máximo de dois anos;
 
@@ -118,7 +142,7 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 § 1.º Quando se proceder à avaliação de prédios urbanos e os louvados reconhecerem por unanimidade que daí resulta para esses prédios um valor desproporcionado ao seu valor venal, deverão mencionar expressamente esse facto no termo de louvação e indicar o factor de capitalização que lhes pareça mais justo, expondo, todavia, as razões e as circunstâncias em que se baseiam para fundamentar a sua proposta.
 
@@ -132,7 +156,7 @@ Com fundamento em preterição de formalidades legais verificada no processo de 
 
 ...
 
-###### Art. 100.º A liquidação das custas e selos será feita de harmonia com a tabela I anexa ao Regulamento das Custas dos Processos das Contribuições e Impostos, acrescendo os encargos contados nos termos da alínea a) do seu artigo 20.º
+Art. 100.º A liquidação das custas e selos será feita de harmonia com a tabela I anexa ao Regulamento das Custas dos Processos das Contribuições e Impostos, acrescendo os encargos contados nos termos da alínea a) do seu artigo 20.º
 
 § 1.º ...
 
@@ -140,11 +164,11 @@ Com fundamento em preterição de formalidades legais verificada no processo de 
 
 § 3.º O mesmo se verificará quando o valor resultante da avaliação exceder o contestado em mais de metade deste.
 
-###### Art. 101.º Se o contribuinte desistir da avaliação, ou o valor resultante for igual ao por ele contestado, o montante das custas e selos será reduzido a um terço.
+Art. 101.º Se o contribuinte desistir da avaliação, ou o valor resultante for igual ao por ele contestado, o montante das custas e selos será reduzido a um terço.
 
 ...
 
-###### Art. 110.º O director de finanças poderá dispensar a avaliação dos prédios referidos no artigo anterior quando o valor declarado ou atribuído pela fiscalização não exceda 15000$00, devendo, para o efeito, o chefe da repartição de finanças organizar trimestralmente o mapa modelo n.º 6, que será informado pela fiscalização e, depois de eliminados dele os prédios a que esta atribuir valor superior a 15000$00, será remetido ao director de finanças como proposta de dispensa de avaliação.
+Art. 110.º O director de finanças poderá dispensar a avaliação dos prédios referidos no artigo anterior quando o valor declarado ou atribuído pela fiscalização não exceda 15000$00, devendo, para o efeito, o chefe da repartição de finanças organizar trimestralmente o mapa modelo n.º 6, que será informado pela fiscalização e, depois de eliminados dele os prédios a que esta atribuir valor superior a 15000$00, será remetido ao director de finanças como proposta de dispensa de avaliação.
 
 § 1.º ...
 
@@ -152,9 +176,9 @@ Com fundamento em preterição de formalidades legais verificada no processo de 
 
 ...
 
-###### Art. 114.º Salvo disposição em contrário, todas as notificações poderão ser efectuadas por carta ou postal registado com aviso de recepção, considerando-se a notificação realizada no dia em que for assinado o aviso.
+Art. 114.º Salvo disposição em contrário, todas as notificações poderão ser efectuadas por carta ou postal registado com aviso de recepção, considerando-se a notificação realizada no dia em que for assinado o aviso.
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
@@ -162,16 +186,16 @@ Com fundamento em preterição de formalidades legais verificada no processo de 
 
 ...
 
-###### Art. 155.º ...
+Art. 155.º ...
 
 § 1.º Contar-se-ão juros de 12% ao ano a favor do contribuinte sempre que, estando paga a sisa ou o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
-###### Art. 3.º A fixação do factor por parte do chefe da repartição de finanças, nos termos do § 2.º do artigo 30.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, terá lugar, desde já, em todos os processos em que o factor de capitalização não tenha ainda sido fixado pelo director distrital nos termos do § único do mesmo artigo, na sua redacção anterior.
+Art. 3.º A fixação do factor por parte do chefe da repartição de finanças, nos termos do § 2.º do artigo 30.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, terá lugar, desde já, em todos os processos em que o factor de capitalização não tenha ainda sido fixado pelo director distrital nos termos do § único do mesmo artigo, na sua redacção anterior.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 12 de Julho de 1979.**
+Promulgado em 12 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/200-1973-422012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88af9588d7ba25d4821eb4b8717222eef898d480e591db6320120bd655b5c283
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11326c8eb6adf4fbda42a2a388f6b73e5ff6960904870b5e8e1dac241ff55902
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Reeducação Padre António de Oliveira
 relationships:
 - type: amended_by
   target: pt:dre:252446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502820:por
+  label: Alargado para três anos o período de interinidade fixado nos n.ºs 2 e 3 do art. 37.º pelo(a) Decreto n.º 237/76 -
+    Diário do Governo n.º 82/1976, Série I de 1976-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/237-1976-502820
+  date: '1976-04-06'
+- type: cites
+  target: pt:dre:265133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252446:por
+  label: "Revogado o disposto no n.º 3 do artigo 29.º pelo DEC LEI.234/77.02.06.1977.MJ, DR.IS [128] de 02.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1977-252446
+  date: '1977-06-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:15Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +116,9 @@ REGULAMENTO DA DIRECÇÃO-GERAL DOS SERVIÇOS TUTELARES DE MENORES
 
 #### SECÇÃO I — Disposições preliminares
 
-###### Artigo 1.º À Direcção-Geral dos Serviços Tutelares de Menores incumbe orientar os serviços de execução de medidas decretadas pelos tribunais tutelares de menores, superintender na sua organização e funcionamento, e ainda efectuar os estudos referentes à inadaptação social, protecção e defesa dos menores.
+Artigo 1.º À Direcção-Geral dos Serviços Tutelares de Menores incumbe orientar os serviços de execução de medidas decretadas pelos tribunais tutelares de menores, superintender na sua organização e funcionamento, e ainda efectuar os estudos referentes à inadaptação social, protecção e defesa dos menores.
 
-###### Art. 2.º Para o exercício das suas atribuições, compete especialmente à Direcção-Geral:
+Art. 2.º Para o exercício das suas atribuições, compete especialmente à Direcção-Geral:
 
 a) Propor a criação, encerramento ou extinção de estabelecimentos tutelares de menores, a definição do seu destino e a aprovação dos respectivos regulamentos;
 
@@ -116,13 +136,13 @@ g) Propor a atribuição dos contingentes de pessoal aos diferentes serviços e 
 
 h) Propor os funcionários que, em cada estabelecimento, deverão exercer as funções de tesoureiro e de chefes de secretaria, de contabilidade e de economato, e ainda as funções de tesoureiro nos serviços centrais.
 
-###### Art. 3.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos.
+Art. 3.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos.
 
 2. A Direcção-Geral é também órgão executivo da Federação Nacional das Instituições de Protecção à Infância.
 
 #### SECÇÃO II — Serviços centrais
 
-###### Art. 4.º - 1. Os serviços centrais abrangem:
+Art. 4.º - 1. Os serviços centrais abrangem:
 
 a) Os serviços técnicos;
 
@@ -130,11 +150,11 @@ b) Os serviços de administração.
 
 2. Junto dos serviços centrais funcionam o conselho técnico e o conselho administrativo.
 
-###### Art. 5.º Os serviços técnicos compreendem o gabinete de estudos, o serviço de execução de medidas, o serviço de assistência social e o serviço de inspecção.
+Art. 5.º Os serviços técnicos compreendem o gabinete de estudos, o serviço de execução de medidas, o serviço de assistência social e o serviço de inspecção.
 
-###### Art. 6.º Os serviços de administração compreendem o serviço de secretaria e o de contabilidade e o serviço da Federação Nacional das Instituições de Protecção à Infância.
+Art. 6.º Os serviços de administração compreendem o serviço de secretaria e o de contabilidade e o serviço da Federação Nacional das Instituições de Protecção à Infância.
 
-###### Art. 7.º Compete especialmente ao gabinete de estudos:
+Art. 7.º Compete especialmente ao gabinete de estudos:
 
 a) Proceder aos estudos que lhe forem determinados;
 
@@ -146,9 +166,9 @@ d) Assegurar a colaboração com os serviços oficiais de países estrangeiros e
 
 e) Editar, como órgão da Direcção-Geral e da Federação, a revista Infância e Juventude e colaborar em publicações de interesse para os serviços.
 
-###### Art. 8.º Ao serviço de execução de medidas compete organizar os processos individuais dos menores sujeitos à acção dos tribunais tutelares, promover a distribuição destes pelos estabelecimentos, assegurar o cumprimento das disposições legais relativas à aplicação, alteração e cessação das medidas, e prover ao necessário expediente.
+Art. 8.º Ao serviço de execução de medidas compete organizar os processos individuais dos menores sujeitos à acção dos tribunais tutelares, promover a distribuição destes pelos estabelecimentos, assegurar o cumprimento das disposições legais relativas à aplicação, alteração e cessação das medidas, e prover ao necessário expediente.
 
-###### Art. 9.º Ao serviço de assistência social compete especialmente:
+Art. 9.º Ao serviço de assistência social compete especialmente:
 
 a) Realizar os inquéritos sociais necessários ao conhecimento dos menores, à individualização do seu tratamento e à preparação da sua reintegração social;
 
@@ -170,13 +190,13 @@ i) Fiscalizar a assistência de menores a espectáculos públicos, nos termos da
 
 j) Dar parecer, a solicitação da Direcção-Geral do Trabalho e Corporações, sobre os pedidos de autorização do trabalho de menores e, bem assim, fiscalizar as condições em que esse trabalho é exercido.
 
-###### Art. 10.º - 1. Ao serviço de inspecção compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
+Art. 10.º - 1. Ao serviço de inspecção compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
 
 2. Para efeitos do disposto no número anterior, deverão realizar-se inspecções, tanto quanto possível, de três em três anos, bem como os inquéritos, sindicâncias e processos disciplinares que se mostrem necessários.
 
-###### Art. 11.º Ao serviço de secretaria compete especialmente promover o expediente respeitante ao pessoal dos serviços externos, organizar os respectivos processos e assegurar o serviço de arquivo do expediente geral.
+Art. 11.º Ao serviço de secretaria compete especialmente promover o expediente respeitante ao pessoal dos serviços externos, organizar os respectivos processos e assegurar o serviço de arquivo do expediente geral.
 
-###### Art. 12.º Ao serviço de contabilidade compete especialmente:
+Art. 12.º Ao serviço de contabilidade compete especialmente:
 
 a) Elaborar os projectos de orçamento dos serviços centrais e externos sem autonomia administrativa, promover as alterações indispensáveis e realizar as operações necessárias à sua execução;
 
@@ -184,7 +204,7 @@ b) Conferir e registar as requisições de fundos dos serviços externos process
 
 c) Estudar e informar os projectos de orçamento das receitas próprias dos serviços externos com autonomia administrativa, devendo os projectos do orçamento ordinário ser-lhe enviados até ao dia 31 de Outubro do ano anterior àquele a que respeitam.
 
-###### Art. 13.º Ao serviço da Federação Nacional das Instituições de Protecção à Infância compete especialmente:
+Art. 13.º Ao serviço da Federação Nacional das Instituições de Protecção à Infância compete especialmente:
 
 a) Elaborar os trabalhos de contabilidade da Federação;
 
@@ -192,7 +212,7 @@ b) Assegurar o funcionamento da tesouraria, promovendo o levantamento de fundos,
 
 c) Apoiar o funcionamento do conselho administrativo relativamente aos assuntos da Federação, preparando o respectivo expediente e dando execução às suas deliberações.
 
-###### Art. 14.º Compete especialmente ao conselho técnico:
+Art. 14.º Compete especialmente ao conselho técnico:
 
 a) Emitir parecer sobre os estudos referentes a questões técnicas dos serviços tutelares de menores, incluindo os relativos à organização e funcionamento dos serviços;
 
@@ -202,19 +222,19 @@ c) Apreciar os relatórios anuais dos estabelecimentos tutelares de menores;
 
 d) Apreciar os processos de inspecção e classificar o serviço dos funcionários.
 
-###### Art. 15.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o adjunto do director-geral e o chefe da repartição dos serviços de administração, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre directores e médicos dos estabelecimentos tutelares de menores.
+Art. 15.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o adjunto do director-geral e o chefe da repartição dos serviços de administração, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre directores e médicos dos estabelecimentos tutelares de menores.
 
 2. Na falta ou impedimento de algum dos vogais, o presidente designará o funcionário que deve substituí-lo.
 
 3. O conselho técnico reúne-se sempre que o presidente o convoque.
 
-###### Art. 16.º - 1. Fixadas, por despacho ministerial, as categorias de funcionários sujeitas a classificação, o respectivo serviço será classificado com as notas de Muito bom, Bom com distinção, Bom, Regular, Medíocre ou Mau.
+Art. 16.º - 1. Fixadas, por despacho ministerial, as categorias de funcionários sujeitas a classificação, o respectivo serviço será classificado com as notas de Muito bom, Bom com distinção, Bom, Regular, Medíocre ou Mau.
 
 2. A nota de Muito bom não pode ser concedida a funcionários com menos de três anos de serviço inspeccionado, nem aos que há menos de três anos tenham tido classificação inferior à de Bom.
 
 3. Aos funcionários classificados de Mau e àqueles que em duas classificações seguidas ou em três interpoladas tenham obtido a classificação de Medíocre será imediatamente instaurado processo disciplinar por incompetência para o exercício do cargo.
 
-###### Art. 17.º Compete especialmente ao conselho administrativo:
+Art. 17.º Compete especialmente ao conselho administrativo:
 
 a) Propor à aprovação superior o orçamento da Federação Nacional das Instituições de Protecção à Infância e administrar as respectivas verbas;
 
@@ -224,7 +244,7 @@ c) Informar os projectos de orçamento do Estado respeitantes aos serviços exte
 
 d) Informar as propostas de alteração do quadro do pessoal a pagar pelos orçamentos de receitas próprias dos estabelecimentos tutelares de menores.
 
-###### Art. 18.º - 1. Ao conselho administrativo pode ser atribuída, por determinação do Ministro da Justiça, a administração das verbas das obras de construção, reparação ou conservação de edifícios destinados à instalação de estabelecimentos tutelares de menores, quando entregues ao trabalho prisional, nos termos estabelecidos para os serviços prisionais.
+Art. 18.º - 1. Ao conselho administrativo pode ser atribuída, por determinação do Ministro da Justiça, a administração das verbas das obras de construção, reparação ou conservação de edifícios destinados à instalação de estabelecimentos tutelares de menores, quando entregues ao trabalho prisional, nos termos estabelecidos para os serviços prisionais.
 
 2. O conselho administrativo pode delegar nos conselhos administrativos dos estabelecimentos tutelares de menores a administração das verbas a que se refere o número anterior e recorrer aos serviços de pessoas qualificadas, mesmo que não sejam funcionários, para prestarem colaboração nas obras.
 
@@ -232,7 +252,7 @@ d) Informar as propostas de alteração do quadro do pessoal a pagar pelos orça
 
 4. Pode o Ministro da Justiça determinar que a diferença entre o preço da adjudicação e o custo das obras reverta a favor da Federação Nacional das Instituições de Protecção à Infância ou seja por ela suportada.
 
-###### Art. 19.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta, com o acordo do Ministro da Justiça.
+Art. 19.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta, com o acordo do Ministro da Justiça.
 
 2. Na falta ou impedimento de algum dos membros designados pelo Ministro da Justiça, o presidente indicará o funcionário que deve substituí-lo.
 
@@ -240,9 +260,9 @@ d) Informar as propostas de alteração do quadro do pessoal a pagar pelos orça
 
 #### SECÇÃO III — Serviços externos
 
-###### Art. 20.º Os serviços externos são constituídos pelos estabelecimentos tutelares de menores.
+Art. 20.º Os serviços externos são constituídos pelos estabelecimentos tutelares de menores.
 
-###### Art. 21.º Têm autonomia administrativa os seguintes estabelecimentos tutelares de menores:
+Art. 21.º Têm autonomia administrativa os seguintes estabelecimentos tutelares de menores:
 
 a) Os centros de observação anexos aos tribunais centrais de menores de Lisboa, Porto e Coimbra, destinados a menores de ambos os sexos;
 
@@ -258,11 +278,11 @@ f) O Instituto de Reeducação de Vila Fernando, para o sexo masculino, em Vila 
 
 g) O Instituto de Reeducação de S. Bernardino, para o sexo feminino, em Atouguia da Baleia, Peniche.
 
-###### Art. 22.º - 1. Nos estabelecimentos tutelares de menores há serviços de secretaria, de contabilidade e de economato, e um conselho pedagógico.
+Art. 22.º - 1. Nos estabelecimentos tutelares de menores há serviços de secretaria, de contabilidade e de economato, e um conselho pedagógico.
 
 2. Nos estabelecimentos com autonomia administrativa há ainda um conselho administrativo.
 
-###### Art. 23.º Ao conselho pedagógico compete pronunciar-se sobre todos os assuntos que respeitem ao tratamento dos menores com vista à sua melhor reinserção social, e designadamente:
+Art. 23.º Ao conselho pedagógico compete pronunciar-se sobre todos os assuntos que respeitem ao tratamento dos menores com vista à sua melhor reinserção social, e designadamente:
 
 a) Sobre os programas das actividades pedagógicas do estabelecimento, a submeter à aprovação superior;
 
@@ -270,7 +290,7 @@ b) Sobre as propostas de revisão da situação dos menores e todos os assuntos 
 
 c) Sobre a colocação dos internados em lar de semiliberdade.
 
-###### Art. 24.º - 1. O conselho pedagógico dos centros de observação é constituído pelo director, que preside, pelo médico, pelo psicólogo, pelo educador coordenador e por um funcionário do serviço de assistência social.
+Art. 24.º - 1. O conselho pedagógico dos centros de observação é constituído pelo director, que preside, pelo médico, pelo psicólogo, pelo educador coordenador e por um funcionário do serviço de assistência social.
 
 2. Do conselho pedagógico do Centro de Observação anexo ao Tribunal Central de Menores de Lisboa faz parte um dos psicólogos em serviço no Instituto Navarro de Paiva.
 
@@ -280,7 +300,7 @@ c) Sobre a colocação dos internados em lar de semiliberdade.
 
 5. Sempre que as circunstâncias o aconselhem, pode o Ministro da Justiça, sob proposta da Direcção-Geral, determinar constituição diferente para o conselho pedagógico dos estabelecimentos.
 
-###### Art. 25.º - 1. Ao conselho administrativo compete especialmente:
+Art. 25.º - 1. Ao conselho administrativo compete especialmente:
 
 a) Examinar as contas, ordenar os pagamentos e requisitar os fundos necessários;
 
@@ -296,7 +316,7 @@ f) Elaborar os projectos de orçamento e prestar contas, nos termos legalmente e
 
 2. Aos servidores dos estabelecimentos tutelares de menores que o requeiram ou que por exigência do serviço tenham de permanecer no estabelecimento pode ser fornecida alimentação confeccionada para os internados, mediante a importância do seu custo, a qual constituirá receita do Estado.
 
-###### Art. 26.º - 1. O conselho administrativo dos estabelecimentos é constituído pelo director, que preside, e pelos chefes da secretaria e do economato, ou, não existindo no quadro este último cargo, pelo funcionário designado pelo director-geral.
+Art. 26.º - 1. O conselho administrativo dos estabelecimentos é constituído pelo director, que preside, e pelos chefes da secretaria e do economato, ou, não existindo no quadro este último cargo, pelo funcionário designado pelo director-geral.
 
 2. O chefe de contabilidade e o tesoureiro podem assistir às sessões do conselho, quando convocados pelo director, mas com voto meramente consultivo.
 
@@ -306,17 +326,17 @@ f) Elaborar os projectos de orçamento e prestar contas, nos termos legalmente e
 
 #### SECÇÃO IV — Federação Nacional das Instituições de Protecção à Infância
 
-###### Art. 27.º - 1. Incumbe à Federação, como organismo coordenador das actividades em prol da juventude, colaborar com instituições nacionais, estrangeiras e internacionais que se ocupem dos problemas da protecção moral, social ou jurídica de menores.
+Art. 27.º - 1. Incumbe à Federação, como organismo coordenador das actividades em prol da juventude, colaborar com instituições nacionais, estrangeiras e internacionais que se ocupem dos problemas da protecção moral, social ou jurídica de menores.
 
 2. A Federação é também o organismo representante de Portugal na Union Internationale de Protection de l'Enfance.
 
-###### Art. 28.º - 1. Poderão filiar-se na Federação as instituições públicas ou particulares que tenham por fim principal a defesa e a protecção, sob qualquer aspecto, da infância e da juventude.
+Art. 28.º - 1. Poderão filiar-se na Federação as instituições públicas ou particulares que tenham por fim principal a defesa e a protecção, sob qualquer aspecto, da infância e da juventude.
 
 2. A filiação não envolve subordinação à Federação nem colide com a hierarquia administrativa em que se integrem as entidades filiadas.
 
 3. A Federação fornecerá às entidades filiadas informações sobre as actividades da Union Internationale de Protection de l'Enfance ou de outros organismos internacionais com os quais esteja em contacto e distribuir-lhes-á gratuitamente a revista Infância e Juventude.
 
-###### Art. 29.º - 1. As receitas da Federação, dentro dos limites do subsídio inscrito no Orçamento Geral do Estado, destinam-se à satisfação das respectivas despesas e das da Direcção-Geral dos Serviços Tutelares de Menores, e designadamente das que se referem a:
+Art. 29.º - 1. As receitas da Federação, dentro dos limites do subsídio inscrito no Orçamento Geral do Estado, destinam-se à satisfação das respectivas despesas e das da Direcção-Geral dos Serviços Tutelares de Menores, e designadamente das que se referem a:
 
 a) Subsídios para obras, apetrechamento e funcionamento dos serviços externos;
 
@@ -334,19 +354,19 @@ e) Estudos, trabalhos, reuniões, estágios, frequência de cursos, congressos e
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 30.º Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
+Art. 30.º Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
 
-###### Art. 31.º - 1. Ao adjunto do director-geral compete coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados, e substituí-lo, nas suas faltas ou impedimentos.
+Art. 31.º - 1. Ao adjunto do director-geral compete coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados, e substituí-lo, nas suas faltas ou impedimentos.
 
 2. O adjunto será substituído, nas suas faltas ou impedimentos, pelo funcionário designado pelo director-geral.
 
-###### Art. 32.º - 1. Ao inspector compete exercer as funções próprias do serviço de inspecção e, bem assim, dirigir, coordenar e fiscalizar a actividade dos orientadores sociais.
+Art. 32.º - 1. Ao inspector compete exercer as funções próprias do serviço de inspecção e, bem assim, dirigir, coordenar e fiscalizar a actividade dos orientadores sociais.
 
 2. Por conveniência de serviço, pode o Ministro da Justiça encarregar magistrados e outros funcionários do Ministério de proceder a inquéritos e sindicâncias ou de instruir processos disciplinares.
 
 3. O Ministro da Justiça pode ainda determinar que um inspector dos serviços prisionais seja encarregado de orientar e inspeccionar os serviços de contabilidade e tesouraria dos estabelecimentos tutelares de menores.
 
-###### Art. 33.º - 1. Aos orientadores sociais incumbe a execução das tarefas próprias do serviço de assistência social.
+Art. 33.º - 1. Aos orientadores sociais incumbe a execução das tarefas próprias do serviço de assistência social.
 
 2. Cada orientador social anotará diariamente, em livro próprio, fornecido pela Direcção-Geral, a descrição sucinta das diligências, tanto internas como externas, com menção do local e das pessoas junto de quem forem efectuadas, podendo ser-lhe determinada a elaboração de um relatório periódico sobre os serviços a seu cargo.
 
@@ -354,7 +374,7 @@ e) Estudos, trabalhos, reuniões, estágios, frequência de cursos, congressos e
 
 4. Os orientadores sociais destacados para os tribunais tutelares de menores ou de família, ou para os serviços externos, ficam sob a direcção dos respectivos juízes, curadores e directores, sem prejuízo da sua subordinação aos serviços centrais.
 
-###### Art. 34.º Aos educadores compete:
+Art. 34.º Aos educadores compete:
 
 a) Ministrar o ensino segundo os programas oficiais, exercendo sobre os menores uma acção pedagógica individualizada, de forma a obter o melhor rendimento escolar compatível com as aptidões de cada um deles;
 
@@ -362,42 +382,42 @@ b) Observar, individualmente e em grupo, os menores que lhes estiverem confiados
 
 c) Orientar os monitores na sua actuação junto dos menores.
 
-###### Art. 35.º - 1. Em cada estabelecimento pode haver um educador coordenador, designado por despacho ministerial de entre os educadores do quadro, o qual será incumbido de assegurar e coordenar o funcionamento e o aperfeiçoamento dos serviços escolares, educativos e disciplinares do estabelecimento, e servirá também de secretário do conselho pedagógico.
+Art. 35.º - 1. Em cada estabelecimento pode haver um educador coordenador, designado por despacho ministerial de entre os educadores do quadro, o qual será incumbido de assegurar e coordenar o funcionamento e o aperfeiçoamento dos serviços escolares, educativos e disciplinares do estabelecimento, e servirá também de secretário do conselho pedagógico.
 
 2. Nos estabelecimentos em que a importância do ensino oficinal o justifique, pode haver um chefe de oficinas, designado por despacho ministerial de entre os mestres e encarregados de ensino, o qual será incumbido de assegurar e coordenar o funcionamento e aperfeiçoamento de todos os serviços oficinais e do ensino profissional.
 
 3. As funções de educador coordenador e de chefe de oficinas podem ser retribuídas por gratificação, que será fixada por despacho do Ministro da Justiça, nos termos do artigo 60.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro.
 
-###### Art. 36.º - 1. Os lugares de professor de Educação Física e de Desenho e Trabalhos Manuais são providos, mediante concurso documental, de entre indivíduos habilitados com o curso legalmente exigido para o provimento dos mesmos cargos nas escolas do ensino técnico.
+Art. 36.º - 1. Os lugares de professor de Educação Física e de Desenho e Trabalhos Manuais são providos, mediante concurso documental, de entre indivíduos habilitados com o curso legalmente exigido para o provimento dos mesmos cargos nas escolas do ensino técnico.
 
 2. Na falta de candidatos com as habilitações requeridas, podem ser providos interinamente indivíduos com reconhecida competência para o desempenho das funções; neste caso, a interinidade mantém-se enquanto não aparecerem candidatos com as habilitações legais, devendo, para o efeito, abrir-se concurso documental de dois em dois anos.
 
-###### Art. 37.º - 1. Os lugares de ingresso nas carreiras de educadores e educadores-adjuntos e de orientadores sociais e orientadores sociais-adjuntos são providos, mediante concurso documental, de entre indivíduos com as habilitações legalmente exigidas.
+Art. 37.º - 1. Os lugares de ingresso nas carreiras de educadores e educadores-adjuntos e de orientadores sociais e orientadores sociais-adjuntos são providos, mediante concurso documental, de entre indivíduos com as habilitações legalmente exigidas.
 
 2. Na falta de candidatos com o curso adequado do Instituto de Formação Profissional, podem ser providos, interinamente e por dois anos, indivíduos que possuam as restantes habilitações legais.
 
 3. Findo o prazo de dois anos, se o funcionário tiver tido aproveitamento no curso, o período de interinidade será considerado como provisório, para todos os efeitos legais; no caso contrário, o funcionário será imediatamente exonerado.
 
-###### Art. 38.º - 1. Os lugares de ingresso na carreira de mestres de carpinteiros, marceneiros, serralheiros, electricistas, artes gráficas, lavores, modistas e costura são providos, mediante concurso de prestação de provas, de entre indivíduos habilitados com o curso de formação apropriada das escolas técnicas.
+Art. 38.º - 1. Os lugares de ingresso na carreira de mestres de carpinteiros, marceneiros, serralheiros, electricistas, artes gráficas, lavores, modistas e costura são providos, mediante concurso de prestação de provas, de entre indivíduos habilitados com o curso de formação apropriada das escolas técnicas.
 
 2. Na falta de candidatos com as habilitações requeridas, podem ser providos, como encarregados de ensino, indivíduos aprovados em concurso de prestação de provas que possuam a habilitação correspondente à escolaridade obrigatória.
 
-###### Art. 39.º Os lugares de ingresso na carreira de mestres de alfaiates, sapateiros, funileiros, cesteiros, engomados e culinária, bem como na carreira de profissionais de artes e ofícios são providos, mediante concurso de prestação de provas, em indivíduos que possuam a habilitação correspondente à escolaridade obrigatória.
+Art. 39.º Os lugares de ingresso na carreira de mestres de alfaiates, sapateiros, funileiros, cesteiros, engomados e culinária, bem como na carreira de profissionais de artes e ofícios são providos, mediante concurso de prestação de provas, em indivíduos que possuam a habilitação correspondente à escolaridade obrigatória.
 
-###### Art. 40.º - 1. Sem prejuízo do disposto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 48557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48557-1968-265133), de 30 de Agosto de 1968, os lugares de enfermeiro e de auxiliar de enfermagem são providos, mediante concurso documental, de entre indivíduos com o curso legalmente exigido para provimento dos mesmos cargos do Ministério da Saúde e Assistência.
+Art. 40.º - 1. Sem prejuízo do disposto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 48557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48557-1968-265133), de 30 de Agosto de 1968, os lugares de enfermeiro e de auxiliar de enfermagem são providos, mediante concurso documental, de entre indivíduos com o curso legalmente exigido para provimento dos mesmos cargos do Ministério da Saúde e Assistência.
 
 2. Na falta de candidatos com as habilitações requeridas, os lugares de enfermeiro podem ser providos em auxiliares de enfermagem de 1.ª classe ou, na falta destes, mediante concurso de prestação de provas, em ajudantes de enfermaria.
 
-###### Art. 41.º Os lugares de ingresso na carreira do pessoal de vigilância são providos mediante concurso documental e em regime de estágio por dois anos.
+Art. 41.º Os lugares de ingresso na carreira do pessoal de vigilância são providos mediante concurso documental e em regime de estágio por dois anos.
 
-###### Art. 42.º - 1. Para os serviços das explorações económicas ou do ensino profissional dos estabelecimentos pode ser contratado ou assalariado o pessoal de carácter permanente ou eventual que seja indispensável, mas as despesas com vencimentos, salários e outros abonos constituirão encargos dos respectivos orçamentos, em conta de receitas próprias.
+Art. 42.º - 1. Para os serviços das explorações económicas ou do ensino profissional dos estabelecimentos pode ser contratado ou assalariado o pessoal de carácter permanente ou eventual que seja indispensável, mas as despesas com vencimentos, salários e outros abonos constituirão encargos dos respectivos orçamentos, em conta de receitas próprias.
 
 2. O pessoal assalariado pode ser admitido e despedido pelo director do respectivo estabelecimento, depois de obtido, por intermédio da Direcção-Geral, despacho ministerial de concordância.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 14 de Abril de 1973.**
+Promulgado em 14 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

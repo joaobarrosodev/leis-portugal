@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-1976-408945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8649d0e24ed64eaf1bed47b2270ec7c4c492e85bd7f3200723627dcdd1a99fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9339f1b8769fddf33dc7938fb3223113fd4110412d63826b23b633e1adb4afc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Metrópole
+- Santa Casa da Misericórdia
+- Totobola
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:404744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473886:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546379:por
+  label: "Revogado pelo DEC LEI.84/85.28.03.1985.MTSS, DR.IS [73]Supl de 28.03.1985, na parte prejudicada no disposto do mesmo\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1985-546379
+  date: '1985-03-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:03Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +115,20 @@ Tendo em vista a conveniência de proceder à revisão periódica das normas reg
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 7.º e 13.º do Decreto-Lei 43777, de 3 de Julho de 1961, com as alterações introduzidas, respectivamente, pelo [Decreto-Lei n.º 47866](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47866-1967-390074), de 28 de Agosto de 1967, e pelo [Decreto-Lei n.º 462/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-1974-473886), de 17 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º e 13.º do Decreto-Lei 43777, de 3 de Julho de 1961, com as alterações introduzidas, respectivamente, pelo [Decreto-Lei n.º 47866](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47866-1967-390074), de 28 de Agosto de 1967, e pelo [Decreto-Lei n.º 462/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-1974-473886), de 17 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 7.º Os resultados do escrutínio de cada concurso serão divulgados pelas agências referidas no artigo 5.º, de acordo com as normas regulamentares aplicáveis.
+Art. 7.º Os resultados do escrutínio de cada concurso serão divulgados pelas agências referidas no artigo 5.º, de acordo com as normas regulamentares aplicáveis.
 
-###### Art. 13.º Do capital resultante das apostas de cada concurso, depois de deduzidos os encargos com a comissão dos agentes, fixada no respectivo regulamento, e o montante do imposto devido nos termos do artigo 28 da Tabela Geral do Imposto do Selo, será destinada a prémios a importância correspondente a 55%.
+Art. 13.º Do capital resultante das apostas de cada concurso, depois de deduzidos os encargos com a comissão dos agentes, fixada no respectivo regulamento, e o montante do imposto devido nos termos do artigo 28 da Tabela Geral do Imposto do Selo, será destinada a prémios a importância correspondente a 55%.
 
-###### Art. 2.º O limite máximo do prazo a que se refere o artigo 9.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 47866](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47866-1967-390074), de 28 de Agosto de 1967, e o prazo fixado no artigo 11.º do mesmo diploma são ampliados para sessenta dias e duzentos e dez dias, respectivamente, contados da data da realização dos concursos.
+Art. 2.º O limite máximo do prazo a que se refere o artigo 9.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 47866](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47866-1967-390074), de 28 de Agosto de 1967, e o prazo fixado no artigo 11.º do mesmo diploma são ampliados para sessenta dias e duzentos e dez dias, respectivamente, contados da data da realização dos concursos.
 
-###### Art. 3.º É revogado o disposto no § 2.º do artigo 3.º e no § único do artigo 10.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), bem como o disposto no artigo 4.º do [Decreto-Lei n.º 47866](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47866-1967-390074).
+Art. 3.º É revogado o disposto no § 2.º do artigo 3.º e no § único do artigo 10.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), bem como o disposto no artigo 4.º do [Decreto-Lei n.º 47866](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47866-1967-390074).
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 30 de Setembro de 1976.**
+Promulgado em 30 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

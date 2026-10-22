@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1973-675467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a3e64352475778ae0d9ed1c575936eed3d65322d67d3651bd7ef0e29ccb45ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2de70d4349bee4084064c112c082dc0d79b29e05603e0bf3a6c6da803a16f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de BENS
+- Armador
+- Armazenagem
+- Garantia
+- Grémio dos Armadores da Pesca do Arrasto
+- Peixe Congelado
+- Pesca
+- Pescado
+- Regime Jurídico
+- Títulos de Crédito
+relationships:
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:20Z'
   warnings: []
   errors: []
 ---
@@ -93,29 +107,29 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É instituído a favor dos armadores inscritos no Grémio dos Armadores da Pesca de Arrasto o regime de armazéns gerais para o pescado congelado até à concorrência de 2500 t.
+Artigo 1.º É instituído a favor dos armadores inscritos no Grémio dos Armadores da Pesca de Arrasto o regime de armazéns gerais para o pescado congelado até à concorrência de 2500 t.
 
-###### Art. 2.º Para os efeitos do disposto neste diploma, o Grémio poderá, obtida a concordância do Ministro da Marinha e mediante autorização do Secretário de Estado do Comércio, contrair empréstimos e prestar as garantias adequadas, incluindo a consignação das suas receitas próprias.
+Art. 2.º Para os efeitos do disposto neste diploma, o Grémio poderá, obtida a concordância do Ministro da Marinha e mediante autorização do Secretário de Estado do Comércio, contrair empréstimos e prestar as garantias adequadas, incluindo a consignação das suas receitas próprias.
 
-###### Art. 3.º - 1. O Grémio poderá emitir para as mercadorias indicadas títulos de crédito constituídos por conhecimentos de depósito e respectivas cautelas de penhor (warrants).
+Art. 3.º - 1. O Grémio poderá emitir para as mercadorias indicadas títulos de crédito constituídos por conhecimentos de depósito e respectivas cautelas de penhor (warrants).
 
 2. Para identificação e avaliação do pescado mencionar-se-ão nos conhecimentos de depósito e respectivas cautelas de penhor a sua quantidade e valor, a não ser quando o depositante exija ou o Grémio considere conveniente a especificação, nos termos do n.º 3 do artigo 408.º do Código Comercial.
 
 3. Os conhecimentos de depósito e respectivas cautelas de penhor serão assinados por um director do Grémio e pelo fiel do armazém em que o pescado se achar depositado.
 
-###### Art. 4.º Os armazéns gerais referidos no artigo 1.º são equiparados aos armazéns gerais industriais e os conhecimentos de depósito e cautelas de penhor emitidos pelo Grémio são títulos de crédito sujeitos ao regime jurídico dos artigos 408.º e seguintes do Código Comercial e demais legislação aplicável, sem prejuízo das disposições especiais do presente decreto-lei.
+Art. 4.º Os armazéns gerais referidos no artigo 1.º são equiparados aos armazéns gerais industriais e os conhecimentos de depósito e cautelas de penhor emitidos pelo Grémio são títulos de crédito sujeitos ao regime jurídico dos artigos 408.º e seguintes do Código Comercial e demais legislação aplicável, sem prejuízo das disposições especiais do presente decreto-lei.
 
-###### Art. 5.º - 1. Os conhecimentos de depósito e as cautelas de penhor são transmissíveis por endosso com a data do dia em que este for feito.
+Art. 5.º - 1. Os conhecimentos de depósito e as cautelas de penhor são transmissíveis por endosso com a data do dia em que este for feito.
 
 2. Os direitos resultantes da transmissão dos conhecimentos de depósito e das cautelas de penhor não podem ser prejudicados por quaisquer actos ou contratos dos depositantes ou endossantes.
 
-###### Art. 6.º - 1. As mercadorias depositadas garantirão, além dos créditos representados pelos títulos, os juros, as despesas de armazenagem e, ainda, as que forem imputáveis aos serviços de armazéns gerais.
+Art. 6.º - 1. As mercadorias depositadas garantirão, além dos créditos representados pelos títulos, os juros, as despesas de armazenagem e, ainda, as que forem imputáveis aos serviços de armazéns gerais.
 
 2. A responsabilidade do depositante e do endossante da cautela de penhor é solidária.
 
-###### Art. 7.º As cautelas de penhor têm o valor de títulos executivos.
+Art. 7.º As cautelas de penhor têm o valor de títulos executivos.
 
-###### Art. 8.º - 1. As mercadorias referidas no artigo 1.º poderão ser depositadas em armazéns não pertencentes ao Grémio quando este o entender conveniente.
+Art. 8.º - 1. As mercadorias referidas no artigo 1.º poderão ser depositadas em armazéns não pertencentes ao Grémio quando este o entender conveniente.
 
 2. Serão fixadas por despacho do Secretário de Estado do Comércio as condições a que deverão obedecer os armazéns referidos no número anterior.
 
@@ -123,38 +137,38 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O proprietário, arrendatário ou possuidor do armazém em que forem depositadas as mercadorias será havido quanto a elas como fiel depositário, ficando sujeito ao regime estabelecido no [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939.
 
-###### Art. 9.º O Grémio procederá por conta dos interessados ao seguro das mercadorias depositadas nos seus armazéns, contra os riscos e pelo prazo referidos no n.º 3 do artigo anterior.
+Art. 9.º O Grémio procederá por conta dos interessados ao seguro das mercadorias depositadas nos seus armazéns, contra os riscos e pelo prazo referidos no n.º 3 do artigo anterior.
 
-###### Art. 10.º - 1. Os títulos serão emitidos por um período de noventa dias, prorrogável por igual prazo por uma só vez.
+Art. 10.º - 1. Os títulos serão emitidos por um período de noventa dias, prorrogável por igual prazo por uma só vez.
 
 2. O pedido de prorrogação deve ser feito com a antecedência mínima de quinze dias sobre a data do vencimento.
 
 3. A prorrogação não poderá ser autorizada sem que o devedor satisfaça a importância dos juros e demais encargos.
 
-###### Art. 11.º O limite máximo de desconto das cautelas de penhor é de 75% do valor atribuído pelo Grémio às mercadorias depositadas.
+Art. 11.º O limite máximo de desconto das cautelas de penhor é de 75% do valor atribuído pelo Grémio às mercadorias depositadas.
 
-###### Art. 12.º O Grémio poderá promover a venda das mercadorias cujo prazo de depósito tenha expirado ou que respeitem a cautelas de penhor vencidas e não pagas sem dependência de leilão ou de qualquer outra formalidade.
+Art. 12.º O Grémio poderá promover a venda das mercadorias cujo prazo de depósito tenha expirado ou que respeitem a cautelas de penhor vencidas e não pagas sem dependência de leilão ou de qualquer outra formalidade.
 
-###### Art. 13.º O Grémio poderá efectuar em instituições de crédito o desconto por conta dos depositantes das cautelas de penhor que emitir.
+Art. 13.º O Grémio poderá efectuar em instituições de crédito o desconto por conta dos depositantes das cautelas de penhor que emitir.
 
-###### Art. 14.º É válida a cláusula aposta na cautela pela qual o depositante ou endossante renuncia ao privilégio da prévia excussão do penhor.
+Art. 14.º É válida a cláusula aposta na cautela pela qual o depositante ou endossante renuncia ao privilégio da prévia excussão do penhor.
 
-###### Art. 15.º - 1. Os produtos a que se refere este diploma não podem ser objecto de qualquer procedimento cautelar, nem penhorados ou por qualquer outro modo obrigados.
+Art. 15.º - 1. Os produtos a que se refere este diploma não podem ser objecto de qualquer procedimento cautelar, nem penhorados ou por qualquer outro modo obrigados.
 
 2. Os credores do portador da cautela podem, não obstante, promover aquelas diligências sobre o referido título.
 
-###### Art. 16.º - 1. Na emissão e desconto dos títulos serão tidos em conta os preços que para os produtos a que os mesmos respeitam se encontrarem fixados por lei ou decisão competente.
+Art. 16.º - 1. Na emissão e desconto dos títulos serão tidos em conta os preços que para os produtos a que os mesmos respeitam se encontrarem fixados por lei ou decisão competente.
 
 2. Por despacho do Secretário de Estado do Comércio, ouvida a Junta Nacional de Fomento das Pescas, serão estabelecidos os valores a considerar para os produtos em relação aos quais se não encontrem estabelecidos preços nos termos do número anterior.
 
-###### Art. 17.º O Secretário de Estado do Comércio fixará, por despacho, as características a que deverão obedecer as mercadorias admitidas a depósito, as normas de utilização dos armazéns e as tarifas a cobrar, bem como quaisquer outras normas cuja observância se mostre necessária.
+Art. 17.º O Secretário de Estado do Comércio fixará, por despacho, as características a que deverão obedecer as mercadorias admitidas a depósito, as normas de utilização dos armazéns e as tarifas a cobrar, bem como quaisquer outras normas cuja observância se mostre necessária.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28700/26492649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1978-324878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cda78720b3343e9a924765a00a329eb11070905e2b474bd0903ea054bd58a4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f03a4dd3aa87c1df6411407a50bd9ad7bf3440b4e016ec3210529fc605268294
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Advogado
+- Caixa de Previdência
+- Caixa de Previdência dos Advogados e Solicitadores
+- Ordem dos Advogados
+- Orgânica
+- Previdência Social
+- Solicitador
 relationships:
 - type: amended_by
   target: pt:dre:311464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:311464:por
+  label: "Revogado pela PORT.487/83.27.04.1983.MJ, DR.IS [96] de 27.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/487-1983-311464
+  date: '1983-04-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:29Z'
   warnings: []
   errors: []
 ---
@@ -93,28 +105,28 @@ Havendo necessidade de actualizar a lei orgânica da Caixa de Presidência da Or
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Caixa de Previdência da Ordem dos Advogados passa a denominar-se Caixa de Previdência dos Advogados e Solicitadores.
+Artigo 1.º A Caixa de Previdência da Ordem dos Advogados passa a denominar-se Caixa de Previdência dos Advogados e Solicitadores.
 
-###### Art. 2.º - 1 - O limite de idade para a primeira inscrição na Caixa é fixado em 60 anos para ambas as classes de beneficiários.
+Art. 2.º - 1 - O limite de idade para a primeira inscrição na Caixa é fixado em 60 anos para ambas as classes de beneficiários.
 
 2 - O regulamento da Caixa preverá os casos e termos em que a inscrição na Caixa deva subsistir quando seja suspensa ou cancelada a inscrição no respectivo organismo profissional e inversamente.
 
-###### Art. 3.º - 1 - A direcção da Caixa será constituída por cinco membros, sendo quatro advogados e um solicitador, eleitos por três anos mediante sufrágio directo dos beneficiários das respectivas classes.
+Art. 3.º - 1 - A direcção da Caixa será constituída por cinco membros, sendo quatro advogados e um solicitador, eleitos por três anos mediante sufrágio directo dos beneficiários das respectivas classes.
 
 2 - A composição do conselho geral, o funcionamento das assembleias de classe e as respectivas competências constarão do regulamento.
 
 3 - Nas assembleias eleitorais o voto é obrigatório, sob pena de multa de 500$00, que reverterá para a Caixa.
 
-###### Art. 4.º Constituirá também matéria de regulamento a fixação do esquema de novos benefícios e do seu financiamento, bem como a da percentagem das receitas totais da Caixa destinadas a despesas de administração.
+Art. 4.º Constituirá também matéria de regulamento a fixação do esquema de novos benefícios e do seu financiamento, bem como a da percentagem das receitas totais da Caixa destinadas a despesas de administração.
 
-###### Art. 5.º O regulamento da Caixa continua a ser aprovado por portaria do Ministro da Justiça.
+Art. 5.º O regulamento da Caixa continua a ser aprovado por portaria do Ministro da Justiça.
 
-###### Art. 6.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 30 de Novembro de 1978.**
+Promulgado em 30 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

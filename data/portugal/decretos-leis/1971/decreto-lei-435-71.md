@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1971-633323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cdac19ff0e0abe87844a2337b2414212cff4d434c106f14022eab472c59134f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 188a0a5189e0e48db875ece090cdfe71af2a0f739f80e2fe308ff37b495a84ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armador
+- Construção Naval
+- Direcção Geral dos Serviços de Fomento Marítimo
+- Embarcação
+- Fretamento
+- Importação
+- Junta Nacional da Marinha Mercante
+- Licenciamento
+- Marinha Mercante
+- Regime Jurídico
+- Registo de Navios
+- Transporte Marítimo
+- Ultramar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:13Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +112,7 @@ I
 
 Inscrição
 
-###### Artigo 1.º - 1. O exercício da indústria de transportes marítimos por quem tenha domicílio profissional ou sede numa província ultramarina depende de inscrição na Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.), do Ministério da Marinha, autorizada por despacho conjunto dos Ministros da Marinha e do Ultramar.
+Artigo 1.º - 1. O exercício da indústria de transportes marítimos por quem tenha domicílio profissional ou sede numa província ultramarina depende de inscrição na Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.), do Ministério da Marinha, autorizada por despacho conjunto dos Ministros da Marinha e do Ultramar.
 
 2. Para os efeitos deste diploma consideram-se como exercendo a indústria de transportes marítimos:
 
@@ -109,7 +122,7 @@ b) Os que explorem a mesma actividade mediante o fretamento de navios de comérc
 
 c) Aqueles a quem, por qualquer contrato e ainda que por período limitado, seja transmitida, total ou parcialmente, a posição de armador-inscrito ou seja cedida, total ou parcialmente, a exploração de empresa destinada à mencionada actividade.
 
-###### Art. 2.º - 1. O pedido de inscrição, que será apresentado nos serviços de marinha da província onde o requerente tiver domicílio profissional ou sede, deverá mencionar as zonas de tráfego que pretende explorar e ser acompanhado dos seguintes documentos:
+Art. 2.º - 1. O pedido de inscrição, que será apresentado nos serviços de marinha da província onde o requerente tiver domicílio profissional ou sede, deverá mencionar as zonas de tráfego que pretende explorar e ser acompanhado dos seguintes documentos:
 
 a) Certidão da competente conservatória do registo comercial comprovativa de matrícula exclusivamente para a exploração da indústria de transportes marítimos;
 
@@ -131,19 +144,19 @@ c) Se o requerente for pessoa singular e casada, certidão, de narrativa complet
 
 6. Os despachos que autorizem a inscrição nos casos abrangidos pelas alíneas b) e c) do n.º 2 do artigo 1.º poderão dispensar o cumprimento de formalidades impostas pelo presente diploma, bem como impor outras exigências que se mostrem convenientes, em face da especialidade das situações previstas nas citadas alíneas.
 
-###### Art. 3.º - 1. A inscrição será provisória, no caso da alínea a) do n.º 2 do artigo 1.º, se o requerente não provar ser já proprietário, pelo menos, de um navio de comércio.
+Art. 3.º - 1. A inscrição será provisória, no caso da alínea a) do n.º 2 do artigo 1.º, se o requerente não provar ser já proprietário, pelo menos, de um navio de comércio.
 
 2. Tal inscrição converter-se-á em definitiva se, dentro do prazo de cento e oitenta dias, a contar da sua data, o requerente fizer prova da aquisição de, pelo menos, um navio de comércio.
 
 3. No caso contrário, caducará a inscrição provisória.
 
-###### Art. 4.º - 1. Estão sujeitas a averbamento às respectivas inscrições as alterações aos elementos delas constantes e as alterações aos factos ou elementos a que se referem os documentos que instruíram os pedidos de inscrição.
+Art. 4.º - 1. Estão sujeitas a averbamento às respectivas inscrições as alterações aos elementos delas constantes e as alterações aos factos ou elementos a que se referem os documentos que instruíram os pedidos de inscrição.
 
 2. Aos pedidos de averbamento às inscrições e à sua autorização é aplicável, com as necessárias adaptações, o disposto no artigo 2.º, devendo os mesmos ser instruídos, porém, com os documentos que sejam necessários para a prova dos factos que os fundamentem.
 
 3. As alterações previstas no n.º 1 não produzem efeitos em relação ao condicionamento legal estabelecido pelo presente diploma enquanto não forem objecto do correspondente averbamento.
 
-###### Art. 5.º - 1. A morte de pessoa que tenha domicílio profissional numa província ultramarina e exerça a indústria de transportes marítimos deve ser participada, dentro do prazo de trinta dias e com observância do disposto no n.º 4 do artigo 9.º, aos serviços de marinha da província respectiva, que informação do facto a Direcção-Geral dos Serviços de Fomento Marítimo.
+Art. 5.º - 1. A morte de pessoa que tenha domicílio profissional numa província ultramarina e exerça a indústria de transportes marítimos deve ser participada, dentro do prazo de trinta dias e com observância do disposto no n.º 4 do artigo 9.º, aos serviços de marinha da província respectiva, que informação do facto a Direcção-Geral dos Serviços de Fomento Marítimo.
 
 2. A participação compete ao cabeça-de-casal e a todos os herdeiros, mas o cumprimento desse dever por um dos obrigados desonera todos os restantes.
 
@@ -151,13 +164,13 @@ c) Se o requerente for pessoa singular e casada, certidão, de narrativa complet
 
 4. Aqueles que sucedam ao falecido na exploração da indústria devem requerer a sua inscrição no prazo de trinta dias, a contar, conforme os casos, da elaboração da escritura de partilha ou do trânsito em julgado da sentença que homologar a partilha judicial ou, no caso de haver um só herdeiro, da escritura de habilitação.
 
-###### Art. 6.º - 1. Será cancelada a inscrição quando o inscrito deixe de ser proprietário de navios de comércio, se, dentro do prazo de um ano, a contar da data do último cancelamento de registo de navio em seu nome, não adquirir outro navio de comércio ou contratar a sua construção, salvo se invocar factos que fundamentem a inscrição nos termos das alíneas b) ou c) do n.º 2 do artigo 1.º
+Art. 6.º - 1. Será cancelada a inscrição quando o inscrito deixe de ser proprietário de navios de comércio, se, dentro do prazo de um ano, a contar da data do último cancelamento de registo de navio em seu nome, não adquirir outro navio de comércio ou contratar a sua construção, salvo se invocar factos que fundamentem a inscrição nos termos das alíneas b) ou c) do n.º 2 do artigo 1.º
 
 2. O cancelamento será autorizado por despacho conjunto dos Ministros da Marinha e do Ultramar, em processo organizado nos termos do n.º 4 do artigo 2.º
 
 3. O interessado será prèviamente ouvido no processo, sob pena de nulidade do cancelamento, salvo se a sua audiência não for possível, no caso de pessoa colectiva, por virtude de dissolução, ou, no caso de pessoa singular, por motivo da sua morte ou ausência ou do desconhecimento ou ausência dos seus herdeiros.
 
-###### Art. 7.º - 1. As inscrições serão também canceladas:
+Art. 7.º - 1. As inscrições serão também canceladas:
 
 a) Mediante requerimento do interessado, dirigido aos serviços de marinha da província respectiva e transmitido à Direcção-Geral dos Serviços de Fomento Marítimo, quando, por qualquer causa, cesse a exploração da indústria;
 
@@ -173,9 +186,9 @@ II
 
 Armadores gerentes
 
-###### Art. 8.º Quem, com domicílio profissional ou sede numa província ultramarina, explore a indústria de transportes marítimos terá um armador gerente que o represente perante as instâncias oficiais, salvo nos casos em que, sendo pessoa singular, ela própria queira e possa exercer as respectivas funções.
+Art. 8.º Quem, com domicílio profissional ou sede numa província ultramarina, explore a indústria de transportes marítimos terá um armador gerente que o represente perante as instâncias oficiais, salvo nos casos em que, sendo pessoa singular, ela própria queira e possa exercer as respectivas funções.
 
-###### Art. 9.º - 1. Em relação às pessoas colectivas, as funções de armador gerente serão exercidas por quem for indicado nos respectivos estatutos ou, nos casos de silêncio destes ou de impossibilidade do seu cumprimento, por quem for designado pela respectiva administração, direcção ou gerência.
+Art. 9.º - 1. Em relação às pessoas colectivas, as funções de armador gerente serão exercidas por quem for indicado nos respectivos estatutos ou, nos casos de silêncio destes ou de impossibilidade do seu cumprimento, por quem for designado pela respectiva administração, direcção ou gerência.
 
 2. Em relação às pessoas singulares, as funções de armador gerente serão exercidas, fora dos casos previstos na parte final do artigo 8.º:
 
@@ -189,7 +202,7 @@ c) Fora das hipóteses previstas nas alíneas anteriores, por representante capa
 
 4. Na participação do falecimento, ordenada no n.º 1 do artigo 5.º, deverá ser indicada a pessoa a quem compete o cabeçalato, para averbamento à inscrição, do exercício, por aquela, das funções de armador gerente.
 
-###### Art. 10.º - 1. As designações e substituições dos armadores gerentes, bem como a cessação dos respectivos mandatos, serão comunicadas aos serviços de marinha da província ultramarina respectiva, no prazo de trinta dias, pelas entidades que a elas procedam ou pelos tribunais.
+Art. 10.º - 1. As designações e substituições dos armadores gerentes, bem como a cessação dos respectivos mandatos, serão comunicadas aos serviços de marinha da província ultramarina respectiva, no prazo de trinta dias, pelas entidades que a elas procedam ou pelos tribunais.
 
 2. No caso de pessoas colectivas, a designação do armador gerente deverá ser feita, sempre que possível, no próprio pedido de inscrição; na falta dessa indicação, os serviços de marinha da província respectiva notificarão o requerente para a fazer no prazo de trinta dias, sob pena de os mesmos serviços procederem à designação, com o acordo do governador da província, entre os sócios, administradores, directores ou gerentes da pessoa colectiva.
 
@@ -199,7 +212,7 @@ III
 
 Construção e importação de navios de comércio
 
-###### Art. 11.º - 1. A construção, em estaleiros nacionais ou estrangeiros, de navios de comércio destinados a quem tenha domicílio profissional ou sede numa província ultramarina, bem como a importação, no ultramar, de navios de comércio, depende de autorização dada em despacho conjunto dos Ministros da Marinha e do Ultramar, mediante requerimento a que é aplicável o disposto no n.º 4 do artigo 2.º
+Art. 11.º - 1. A construção, em estaleiros nacionais ou estrangeiros, de navios de comércio destinados a quem tenha domicílio profissional ou sede numa província ultramarina, bem como a importação, no ultramar, de navios de comércio, depende de autorização dada em despacho conjunto dos Ministros da Marinha e do Ultramar, mediante requerimento a que é aplicável o disposto no n.º 4 do artigo 2.º
 
 2. O despacho a que se refere o número anterior atenderá sempre aos efeitos da aquisição pretendida perante os interesses da economia do espaço português e, no caso de navios já construídos, às suas condições de segurança e ao estado de conservação.
 
@@ -211,7 +224,7 @@ a) A nacionalização de navios com mais de dez anos, contados desde a data de l
 
 b) O registo, como de comércio, de navios importados para qualquer outro tráfego ou actividade e que tenham mais de dez anos, contados desde a data de lançamento ao mar.
 
-###### Art. 12.º - 1. A construção no estrangeiro de navios de comércio destinados a quem exerça a indústria de transportes marítimos com domicílio profissional ou sede numa província ultramarina deve obedecer às normas aplicáveis à construção em Portugal de navios da mesma classe e tipo.
+Art. 12.º - 1. A construção no estrangeiro de navios de comércio destinados a quem exerça a indústria de transportes marítimos com domicílio profissional ou sede numa província ultramarina deve obedecer às normas aplicáveis à construção em Portugal de navios da mesma classe e tipo.
 
 2. Salvo autorização especial, sob informação favorável dos serviços e autoridades competentes, só poderá ser autorizada a importação de navios de comércio cuja construção no estrangeiro tenha obedecido ao princípio enunciado no número anterior.
 
@@ -219,13 +232,13 @@ b) O registo, como de comércio, de navios importados para qualquer outro tráfe
 
 4. O registo definitivo de navios de comércio construídos no estrangeiro não poderá ser feito sem os serviços e autoridades competentes terem verificado que foram satisfeitos todos os condicionalismos legalmente exigidos em função da actividade a que o navio se destine, incluindo os de ordem administrativa, fiscal ou militar e os relativos à segurança de navegação.
 
-###### Art. 13.º - 1. Os navios de comércio construídos em estaleiros nacionais não poderão ser objecto de registo na capitania nem de matrícula na conservatória do registo comercial sem a apresentação de certidão comprovativa de a sua construção ter sido autorizada nos termos do n.º 1 do artigo 11.º
+Art. 13.º - 1. Os navios de comércio construídos em estaleiros nacionais não poderão ser objecto de registo na capitania nem de matrícula na conservatória do registo comercial sem a apresentação de certidão comprovativa de a sua construção ter sido autorizada nos termos do n.º 1 do artigo 11.º
 
 2. Os navios de comércio construídos no estrangeiro não poderão ser objecto de registo no consulado e na capitania, de despacho aduaneiro e de matrícula na conservatória do registo comercial sem a apresentação de certidão comprovativa de a sua construção ou importação ter sido autorizada nos termos do n.º l do artigo 11.º
 
-###### Art. 14.º A autorização de importação de navio de comércio caducará se o respectivo processo de nacionalização não for iniciado pelos interessados dentro dos seis meses seguintes à data em que os mesmos tiverem sido notificados do despacho de autorização.
+Art. 14.º A autorização de importação de navio de comércio caducará se o respectivo processo de nacionalização não for iniciado pelos interessados dentro dos seis meses seguintes à data em que os mesmos tiverem sido notificados do despacho de autorização.
 
-###### Art. 15.º - 1. A autorização para a construção de navios de comércio caducará:
+Art. 15.º - 1. A autorização para a construção de navios de comércio caducará:
 
 a) Se não for apresentado para registo nos serviços de marinha da província respectiva, acompanhado de uma cópia para arquivo e dentro de seis meses a contar do despacho de autorização, o contrato de construção, no qual se fixem a data da entrega do navio ao armador e cláusulas penais adequadas para a falta de cumprimento dessa entrega;
 
@@ -243,36 +256,36 @@ IV
 
 Disposições gerais e transitórias
 
-###### Art. 16.º Os prazos fixados nos artigos anteriores só poderão ser prorrogados por despacho conjunto dos Ministros da Marinha e do Ultramar, mediante requerimento, a que é aplicável o n.º 4 do artigo 2.º e que deve ser instruído com os documentos justificativos dos fundamentos do pedido.
+Art. 16.º Os prazos fixados nos artigos anteriores só poderão ser prorrogados por despacho conjunto dos Ministros da Marinha e do Ultramar, mediante requerimento, a que é aplicável o n.º 4 do artigo 2.º e que deve ser instruído com os documentos justificativos dos fundamentos do pedido.
 
-###### Art. 17.º - 1. As capitanias dos portos das províncias ultramarinas deverão comunicar aos serviços de marinha da respectiva província os registos de todos os navios de comércio que nelas tenham lugar.
+Art. 17.º - 1. As capitanias dos portos das províncias ultramarinas deverão comunicar aos serviços de marinha da respectiva província os registos de todos os navios de comércio que nelas tenham lugar.
 
 2. Os referidos serviços deverão transmitir mensalmente à Direcção-Geral dos Serviços de Fomento Marítimo as comunicações a que se refere o número anterior e que hajam recebido no mês anterior.
 
-###### Art. 18.º As comunicações, nos termos deste diploma, entre os serviços de marinha das províncias ultramarinas e a Direcção-Geral dos Serviços de Fomento Marítimo, serão sempre efectuadas através dos Serviços de Marinha do Ministério do Ultramar.
+Art. 18.º As comunicações, nos termos deste diploma, entre os serviços de marinha das províncias ultramarinas e a Direcção-Geral dos Serviços de Fomento Marítimo, serão sempre efectuadas através dos Serviços de Marinha do Ministério do Ultramar.
 
-###### Art. 19.º - 1. Aqueles que explorem actualmente a indústria de transportes marítimos com domicílio profissional ou sede numa província ultramarina poderão continuar a exercê-la até ser autorizada a sua inscrição na Direcção-Geral dos Serviços de Fomento Marítimo, desde que a solicitem, mediante requerimento a apresentar nos serviços de marinha da província respectiva, no prazo de seis meses, a contar da publicação do presente diploma no Boletim Oficial respectivo.
+Art. 19.º - 1. Aqueles que explorem actualmente a indústria de transportes marítimos com domicílio profissional ou sede numa província ultramarina poderão continuar a exercê-la até ser autorizada a sua inscrição na Direcção-Geral dos Serviços de Fomento Marítimo, desde que a solicitem, mediante requerimento a apresentar nos serviços de marinha da província respectiva, no prazo de seis meses, a contar da publicação do presente diploma no Boletim Oficial respectivo.
 
 2. Os requerimentos deverão mencionar as zonas de tráfego em exploração pelos interessados e ser instruídos, conforme os casos, nos termos prescritos nos n.os 2 e 3 do artigo 2.º
 
 3. Se explorarem simultâneamente outras actividades industriais ou comerciais, deverão juntar também declaração em que se comprometam a organizar e manter uma escrita especial e separada, relativa à exploração da indústria de transportes marítimos.
 
-###### Art. 20.º - 1. A Direcção-Geral dos Serviços de Fomento Marítimo, ouvidos os serviços de marinha das províncias ultramarinas respectivas, bem como a Junta Nacional da Marinha Mercante, fixará prazos para as pessoas a que se refere o artigo anterior suprirem as irregularidades que quanto a elas se verifiquem em relação ao disposto neste diploma.
+Art. 20.º - 1. A Direcção-Geral dos Serviços de Fomento Marítimo, ouvidos os serviços de marinha das províncias ultramarinas respectivas, bem como a Junta Nacional da Marinha Mercante, fixará prazos para as pessoas a que se refere o artigo anterior suprirem as irregularidades que quanto a elas se verifiquem em relação ao disposto neste diploma.
 
 2. Das decisões da Direcção-Geral dos Serviços de Fomento Marítimo, quer quanto à definição das irregularidades a suprir, quer quanto à fixação de prazos para esse efeito, cabe recurso com efeito suspensivo, a interpor, no prazo de trinta dias, a contar da notificação da decisão, para os Ministros da Marinha e do Ultramar, que decidirão em despacho conjunto.
 
 3. Se as irregularidades verificadas não forem supridas no prazo fixado, não será autorizada a inscrição, podendo as autoridades competentes, ouvido o governador da respectiva província e dado conhecimento à Junta Nacional da Marinha Mercante, proibir a saída de qualquer navio da empresa.
 
-###### Art. 21 º - 1. As capitanias dos portos das províncias ultramarinas deverão comunicar aos respectivos serviços de marinha, dentro de três meses, a contar da data da publicação do presente diploma no Boletim Oficial, todos os elementos dos registos de navios de comércio nelas registados à data da mesma publicação.
+Art. 21 º - 1. As capitanias dos portos das províncias ultramarinas deverão comunicar aos respectivos serviços de marinha, dentro de três meses, a contar da data da publicação do presente diploma no Boletim Oficial, todos os elementos dos registos de navios de comércio nelas registados à data da mesma publicação.
 
 2. Os referidos elementos serão transmitidos pelos serviços de marinha à Direcção-Geral dos Serviços de Fomento Marítimo.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Outubro de 1971.**
+Promulgado em 11 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

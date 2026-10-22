@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28700/26462647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1978-324876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7acd6020cbc1496cc397371ae72e7a079ccc05d2f87c106a325612a792bee7ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d09e6ecd4765c5bba98998b04e323c4bb5084d79b1182f6b0d38624b807bf808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319152:por
+  label: "Alterado o art. 2º do Dec Lei 697/73, de 27-dez, na redação do presente diploma, pelo DEC LEI.368-B/83.04.10.1983.MFP,\
+    \ DR.IS [229-2ºSupl] de 04.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-b-1983-319152
+  date: '1983-10-04'
+- type: cites
+  target: pt:dre:138290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:325497:por
+  label: Rectificado pela DECL.DD7341.29.12.1978.PCM, DR.IS [298] de 29.12.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-325497
+  date: '1978-12-29'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:24Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +123,7 @@ Considerando, finalmente, a conveniência de se ajustarem conceitos e de se elim
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 7.º, 8.º e 16.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 7.º, 8.º e 16.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -104,7 +131,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - Na importação definitiva de veículos que se achem importados temporariamente no País, a liquidação do imposto terá por base o valor que lhes haja sido fixado pela Direcção-Geral do Comércio não Alimentar e a taxa que vigorar à data da numeração do respectivo bilhete de despacho aduaneiro.
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - A liquidação do imposto é feita no próprio bilhete de despacho de importação, sendo o pagamento efectuado através de guia, a preencher pelo importador, conferida pela verificação aduaneira e averbada naquele bilhete.
 
@@ -120,22 +147,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 8 - Tanto os importadores como os seus concessionários e agentes deverão mencionar ainda nos respectivos livros de registo referidos nos números antecedentes os veículos que hajam reservado para carros de serviço ou para utilização dos seus empregados e facultar todos os elementos que se tornem necessários ao exame da fiscalização aduaneira.
 
-###### Art. 7.º Decorridos os prazos estabelecidos no n.º 3 do artigo 2.º sem que se mostre pago ou assegurado o pagamento do imposto devido, haverá lugar à cobrança do triplo do imposto em dívida, não cabendo ao facto qualquer outra sanção.
+Art. 7.º Decorridos os prazos estabelecidos no n.º 3 do artigo 2.º sem que se mostre pago ou assegurado o pagamento do imposto devido, haverá lugar à cobrança do triplo do imposto em dívida, não cabendo ao facto qualquer outra sanção.
 
-###### Art. 8.º As conservatórias do registo automóvel não poderão em caso algum efectuar o registo de propriedade dos automóveis abrangidos por este diploma sem que se mostre pago ou assegurado o pagamento do imposto devido, ou seja produzida prova, através de documento emitido pelas alfândegas, da isenção do mesmo.
+Art. 8.º As conservatórias do registo automóvel não poderão em caso algum efectuar o registo de propriedade dos automóveis abrangidos por este diploma sem que se mostre pago ou assegurado o pagamento do imposto devido, ou seja produzida prova, através de documento emitido pelas alfândegas, da isenção do mesmo.
 
-###### Art. 16.º As dúvidas suscitadas na interpretação e aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 16.º As dúvidas suscitadas na interpretação e aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 2.º O artigo 16.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passará a artigo 17.º
+Art. 2.º O artigo 16.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passará a artigo 17.º
 
-###### Art. 3.º Fica revogado o [Decreto-Lei n.º 23/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1977-138290), de 18 de Janeiro.
+Art. 3.º Fica revogado o [Decreto-Lei n.º 23/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1977-138290), de 18 de Janeiro.
 
-###### Art. 4.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Fernando Augusto dos Santos Martins - Pedro José Rodrigues Pires de Miranda.
 
-**Promulgado em 30 de Novembro de 1978.**
+Promulgado em 30 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

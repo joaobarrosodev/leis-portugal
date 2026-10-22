@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b003e8b7fecb2436cb61dae483db21fbbddc9ce75562ed552e9c82d6db755cc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13e7b9c7a0615cfa14c6359b0f59383b650cfe44bd3869f83a79b5b8ba0285b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção de Despejo
+- CASA dos Pescadores
+- Conselho Consultivo
+- Definição de Competências
+- Habitação Social
+- Junta Central das Casas dos Pescadores
+- Orgânica
+- Previdência Social
+- Quotização
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418072:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:54Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +120,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No [Decreto-Lei n.º 48506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48506-1968-273636), de 30 de Julho de 1968, os números e alíneas dos artigos a seguir mencionados passam a ter a seguinte redacção:
+Artigo 1.º No [Decreto-Lei n.º 48506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48506-1968-273636), de 30 de Julho de 1968, os números e alíneas dos artigos a seguir mencionados passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1. ...
+Art. 3.º - 1. ...
 
 ...
 
@@ -109,7 +134,7 @@ b) Realizar, em benefício dos sócios efectivos e seus familiares, os objectivo
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
@@ -117,15 +142,15 @@ b) Realizar, em benefício dos sócios efectivos e seus familiares, os objectivo
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 ...
 
 4. As quotizações dos sócios contribuintes são determinadas por uma comissão constituída pelo presidente de direcção, que preside com voto de qualidade, pelo tesoureiro da direcção e por dois representantes eleitos daqueles sócios, e são pagas às Casas dos Pescadores nos termos estabelecidos nos estatutos. Das decisões da comissão cabe recurso para o Ministro das Corporações e Previdência Social ou para o governador da respectiva província ultramarina, com audiência da Junta Central das Casas dos Pescadores ou da sua delegação.
 
-###### Art. 2.º No [Decreto-Lei n.º 48507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48507-1968-273637), de 30 de Julho de 1968, as disposições dos artigos referidos passam a ter a seguinte redacção:
+Art. 2.º No [Decreto-Lei n.º 48507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48507-1968-273637), de 30 de Julho de 1968, as disposições dos artigos referidos passam a ter a seguinte redacção:
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 a) Organizar e dirigir os serviços de abono de família, pensões de reforma e invalidez e assegurar os benefícios da Previdência concedidos ou a conceder aos sócios efectivos das Casas dos Pescadores, aplicando, com as adaptações necessárias aos meios piscatórios, as normas constantes do Regulamento Geral das Caixas Sindicais de Previdência e de Abono de Família, ouvidos na metrópole o Conselho Superior da Acção Social e nas províncias ultramarinas o órgão competente nos termos da lei;
 
@@ -137,7 +162,7 @@ A ocupação das casas construídas nos termos da mesma alínea será concedida 
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 ...
 
@@ -145,10 +170,10 @@ d) Administrar as verbas que lhes forem concedidas e elaborar o orçamento e o r
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

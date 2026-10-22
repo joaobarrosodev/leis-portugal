@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/32-1985-180417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fb9d26b073c0c998b3b487724afc056eeedfbbd668a42062388366953cbf6f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b28e608b10d6f5cabf6fec6c25a92aa66efeb3c994ec3c7bcd0faa7605bf0a8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Embarcação
+- Náufrago
+- Portugal
+- Segurança Marítima
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:14Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +91,19 @@ de 16 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada para adesão a Convenção Internacional sobre Busca e Salvamento Marítimo, de 1979, cujo texto em inglês e a respectiva tradução para português acompanham o presente decreto.
+Artigo único. É aprovada para adesão a Convenção Internacional sobre Busca e Salvamento Marítimo, de 1979, cujo texto em inglês e a respectiva tradução para português acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - José de Almeida Serra.
 
-**Assinado em 18 de Julho de 1985.**
+Assinado em 18 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Julho de 1985.**
+Referendado em 18 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENÇÃO INTERNACIONAL SOBRE BUSCA E SALVAMENTO MARÍTIMO, 1979
 
@@ -114,23 +119,17 @@ Querendo promover a cooperação entre as organizações de busca e salvamento e
 
 acordaram o seguinte:
 
-ARTIGO I
-
-Obrigações gerais decorrentes da Convenção
+###### ARTIGO I — Obrigações gerais decorrentes da Convenção
 
 As Partes comprometem-se a adoptar todas as medidas legislativas ou outras medidas apropriadas necessárias para dar total cumprimento à Convenção e seu anexo, que faz parte integrante da Convenção Salvo disposição expressa em contrário, uma referência à Convenção constitui ao mesmo tempo referência ao seu anexo.
 
-ARTIGO II
-
-Outros tratados e interpretação
+###### ARTIGO II — Outros tratados e interpretação
 
 1 - Nada na Convenção prejudicará a codificação e desenvolvimento do direito do mar, por parte da Conferência das Nações Unidas sobre a Lei do Mar convocada em conformidade com a Resolução 2750 (XXV) da Assembleia Geral das Nações Unidas, nem as reclamações e teses jurídicas, presentes ou futuras, de cada Estado, relativas ao direito do mar e à natureza e extensão dos Estados costeiros e dos Estados da bandeira.
 
 2 - Nenhuma das disposições da Convenção será interpretada no sentido de prejudicar as obrigações ou direitos dos navios estabelecidos noutros instrumentos internacionais.
 
-ARTIGO III
-
-Emendas
+###### ARTIGO III — Emendas
 
 1 - A Convenção pode ser emendada por qualquer dos procedimentos especificados nos parágrafos 2 e 3 que se seguem.
 
@@ -170,9 +169,7 @@ c) Salvo decisão em contrário pela conferência, a emenda considerar-se-á com
 
 5 - O secretário-geral informará os Estados sobre quaisquer emendas que entrem em vigor e respectiva data de entrada em vigor.
 
-ARTIGO IV
-
-Assinatura, ratificação, aceitação, aprovação e adesão
+###### ARTIGO IV — Assinatura, ratificação, aceitação, aprovação e adesão
 
 1 - A Convenção estará aberta para assinatura na sede da Organização desde 1 de Novembro de 1979 até 31 de Outubro de 1980 e a partir daí manter-se-á aberta à adesão. Os Estados podem tornar-se Partes da Convenção por:
 
@@ -186,9 +183,7 @@ c) Adesão.
 
 3 - O secretário-geral informará os Estados de qualquer assinatura ou do depósito de qualquer instrumento de ratificação, aceitação, aprovação ou adesão e da respectiva data de depósito.
 
-ARTIGO V
-
-Entrada em vigor
+###### ARTIGO V — Entrada em vigor
 
 1 - A Convenção entrará em vigor 12 meses depois da data em que 15 Estados se tiverem tornado Partes dela, de acordo com o artigo IV.
 
@@ -200,9 +195,7 @@ Entrada em vigor
 
 5 - O secretário-geral informará os Estados da data da entrada em vigor da Convenção.
 
-ARTIGO VI
-
-Denúncia
+###### ARTIGO VI — Denúncia
 
 1 - A Convenção pode ser denunciada por qualquer Parte, em qualquer altura, depois de expirado um prazo de 5 anos sobre a data de entrada em vigor da Convenção para essa Parte.
 
@@ -210,17 +203,13 @@ Denúncia
 
 3 - A denúncia produzirá efeito 1 ano depois de ter sido recebida pelo secretário-geral, ou mais tarde, se assim estiver especificado no instrumento de denúncia.
 
-ARTIGO VII
-
-Depósito e registo
+###### ARTIGO VII — Depósito e registo
 
 1 - A Convenção será depositada junto do secretário-geral, que dela remeterá aos Estados cópias autenticadas.
 
 2 - Logo que a Convenção entre em vigor, o secretário-geral remeterá o seu texto ao Secretário-Geral das Nações Unidas, para registo e publicação, de acordo com o artigo 102 da Carta das Nações Unidas.
 
-ARTIGO VIII
-
-Línguas
+###### ARTIGO VIII — Línguas
 
 A Convenção é elaborada num exemplar único em língua chinesa, espanhola, francesa, inglesa e russa, fazendo igualmente fé todos os textos. Serão efectuadas traduções oficiais em língua alemã, árabe e italiana, que serão depositadas juntamente com o exemplar original assinado.
 
@@ -228,7 +217,9 @@ Feita em Hamburgo no dia 27 de Abril de 1979.
 
 Em testemunho do que os abaixo assinados, devidamente autorizados para este efeito pelos respectivos Governos, assinaram a Convenção.
 
-## ANEXO — CAPÍTULO 1
+## ANEXO
+
+### CAPÍTULO 1
 
 Termos e definições
 
@@ -724,7 +715,7 @@ convida a Organização Marítima Internacional a desenvolver, usando o formato 
 
 ## ANEXO — Formato de comunicado e procedimentos dos navios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18700/26182643.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18700/26182643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18700/26182643.pdf)
 
 RESOLUÇÃO 4
 
@@ -1460,7 +1451,7 @@ ANNEX
 
 Ship reporting format and procedures
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18700/26182643.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18700/26182643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18700/26182643.pdf)
 
 RESOLUTION 4
 

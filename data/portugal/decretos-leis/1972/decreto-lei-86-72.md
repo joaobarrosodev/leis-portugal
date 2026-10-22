@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1972-396696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 535ee4e4386fde571d4959ca684684673adf3d5a7498f6b0ea7d40bd35c494d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 545793b1dea57e353ad444955c6384344bb4e80ff7d24b3322edc7c1cc423cc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Funcionário Público
+- Proteção Social
+- Serviços Sociais
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:42Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +97,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A acção dos serviços sociais de um Ministério ou organismo autónomo poderá ser tornada extensiva, em todas ou algumas das modalidades que comporte, aos servidores de outros departamentos do Estado, por decisão conjunta dos Ministros de que dependam os serviços e departamento a abranger.
+Artigo 1.º - 1. A acção dos serviços sociais de um Ministério ou organismo autónomo poderá ser tornada extensiva, em todas ou algumas das modalidades que comporte, aos servidores de outros departamentos do Estado, por decisão conjunta dos Ministros de que dependam os serviços e departamento a abranger.
 
 2. Quando a extensão dos benefícios for integral, os departamentos cujos servidores dela aproveitem deverão ter representação nos órgãos dirigentes dos serviços sociais respectivos, em termos a acordar pelos Ministros competentes.
 
-###### Art. 2.º - 1. Mediante autorização dos respectivos Ministros, os serviços sociais poderão associar-se para a realização de iniciativas de interesse comum, bem como estabelecer acordos com organizações públicas ou privadas que possam prestar útil concurso à prossecução das finalidades dos mesmos serviços.
+Art. 2.º - 1. Mediante autorização dos respectivos Ministros, os serviços sociais poderão associar-se para a realização de iniciativas de interesse comum, bem como estabelecer acordos com organizações públicas ou privadas que possam prestar útil concurso à prossecução das finalidades dos mesmos serviços.
 
 2. O Conselho de Ministros poderá determinar a federação dos serviços sociais existentes, a fim de facilitar a respectiva gestão, reduzir gastos gerais e, bem assim, tender a uniformizar benefícios.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 9 de Março de 1972.**
+Promulgado em 9 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

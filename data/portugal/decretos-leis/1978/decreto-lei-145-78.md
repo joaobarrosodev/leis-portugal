@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13700/10681073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1978-295164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7107b56377f04fc64f041158c7f150c29076ef61678afcd53e918b4ffa801787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c1aa2322003231ebda58c973010e206b21ce4ba8ede35ef04a156299d31f50d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Escola de Formação de Guardas
+- Orgânica
+- PSP
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378974:por
+  label: Alteradas algumas disposições relativas à Escola de Formação de Guardas da PSP e revogadas as disposições do presente
+    diploma que contrariem as constantes do Decreto-Lei n.º 303/79 - Diário da República n.º 190/1979, Série I de 1979-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1979-378974
+  date: '1979-08-18'
+- type: amended_by
+  target: pt:dre:459620:por
+  label: "Alterado o quadro de pessoal, pela PORT.1075/80.1980.12.18.PCM DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1075-1980-459620
+  date: '1980-12-18'
+- type: amended_by
+  target: pt:dre:394694:por
+  label: "Substituído o quadro de pessoal constante do mapa anexo II, nº 2 do art. 2º) pela PORT.664/82.1982.07.03.MFP, DR.IS\
+    \ [151] de 3/Jul/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1982-394694
+  date: '1982-07-03'
+- type: amended_by
+  target: pt:dre:220137:por
+  label: "Alterado o quadro de pessoal do batalhão de recomplemento, pelo DEC LEI.288/86.08.09.1986.MAI, DR.IS [206] de 08.09.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1986-220137
+  date: '1986-09-08'
+- type: cites
+  target: pt:dre:251614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:297860:por
+  label: Rectificado pela DECL.DD7606.10.07.1978.PCM, DR.IS [156] de 10.07.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-297860
+  date: '1978-07-10'
+- type: corrected_by
+  target: pt:dre:299646:por
+  label: Rectificado pela DECL.DD7550.07.08.1978.PCM, DR.IS [180] de 07.08.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-299646
+  date: '1978-08-07'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:12Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +158,7 @@ Considerando que no momento actual pode a PSP dispor para o efeito de instalaç�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada, na dependência do Comando-Geral da PSP, a Escola de Formação de Guardas, adiante abreviadamente designada por EFG.
+Artigo 1.º - 1 - É criada, na dependência do Comando-Geral da PSP, a Escola de Formação de Guardas, adiante abreviadamente designada por EFG.
 
 2 - A EFG compreenderá os seguintes órgãos essenciais ao seu funcionamento:
 
@@ -116,65 +172,65 @@ Batalhão de recompletamento;
 
 Carreira de tiro.
 
-###### Art. 2.º - 1 - O quadro orgânico da EFG é o constante do anexo I a este diploma.
+Art. 2.º - 1 - O quadro orgânico da EFG é o constante do anexo I a este diploma.
 
 2 - O pessoal civil contratado a que se refere a alínea c) do quadro anexo III tem as categorias e aufere os vencimentos constantes do quadro anexo II.
 
 3 - Poderá ser contratado um médico, nos termos do artigo 77.º do Estatuto da PSP, aprovado pelo [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953.
 
-###### Art. 3.º - 1 - O pessoal policial do quadro orgânico da EFG, ou o que nele preste eventualmente serviço, terá direito à gratificação escolar, com excepção dos quinhentos agentes (guardas) que constituem o efectivo do batalhão de recompletamento.
+Art. 3.º - 1 - O pessoal policial do quadro orgânico da EFG, ou o que nele preste eventualmente serviço, terá direito à gratificação escolar, com excepção dos quinhentos agentes (guardas) que constituem o efectivo do batalhão de recompletamento.
 
 2 - O pessoal que preste eventualmente serviço na EFG não pertencente ao seu quadro orgânico, além da gratificação escolar, tem direito à alimentação, alojamento e abono de ajudas de custo, devidamente reduzidas, de conformidade com o regime estabelecido para a corporação.
 
-###### Art. 4.º - 1 - A Escola de Formação de Guardas da PSP terá um conselho administrativo, ao qual são aplicadas as disposições em vigor para os conselhos administrativos dos comandos de polícia previstas no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento aprovado pelo Decreto-Lei n.º 44337, de 4 de Julho de 1962, e demais legislação aplicável.
+Art. 4.º - 1 - A Escola de Formação de Guardas da PSP terá um conselho administrativo, ao qual são aplicadas as disposições em vigor para os conselhos administrativos dos comandos de polícia previstas no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento aprovado pelo Decreto-Lei n.º 44337, de 4 de Julho de 1962, e demais legislação aplicável.
 
 2 - Para os fins designados no número anterior, o conselho administrativo será constituído pelo oficial que desempenhar as funções de 2.º comandante, como presidente, um chefe de esquadra, como secretário, e um subchefe, como tesoureiro.
 
-###### Art. 5.º O comandante da EFG tem competência disciplinar igual à de comandante distrital.
+Art. 5.º O comandante da EFG tem competência disciplinar igual à de comandante distrital.
 
-###### Art. 6.º O 2.º comandante da EFG tem competência disciplinar igual à do 2.º comandante distrital.
+Art. 6.º O 2.º comandante da EFG tem competência disciplinar igual à do 2.º comandante distrital.
 
-###### Art. 7.º - 1 - O quadro do pessoal civil contratado a que se refere o presente diploma será preenchido de entre o pessoal da mesma categoria com três anos de bom e efectivo serviço prestado na classe imediatamente inferior.
+Art. 7.º - 1 - O quadro do pessoal civil contratado a que se refere o presente diploma será preenchido de entre o pessoal da mesma categoria com três anos de bom e efectivo serviço prestado na classe imediatamente inferior.
 
 2 - O comandante-geral da PSP, nos termos do artigo 77.º do seu Estatuto, aprovado pelo [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, poderá admitir o pessoal a que se refere o número anterior em qualquer das classes.
 
-###### Art. 8.º - 1 - O pessoal convocado para frequência na EFG para as escolas de alistados terá direito à alimentação e alojamento por conta do Estado.
+Art. 8.º - 1 - O pessoal convocado para frequência na EFG para as escolas de alistados terá direito à alimentação e alojamento por conta do Estado.
 
 2 - O pessoal não pertencente ao quadro orgânico da EFG convocado por conveniência de serviço para a frequência na EFG de qualquer curso que eventualmente lá venha a ter lugar ou para outros fins de instrução ou de ordem técnica tem direito a alimentação, alojamento e ao abono das ajudas de custo, devidamente reduzidas, de conformidade com o regime estabelecido para a corporação.
 
-###### Art. 9.º - 1 - O pessoal aprovado para a frequência da escola de alistados é aumentado, no acto de alistamento, para efeitos administrativos, logísticos, de instrução e disciplinares, à Escola de Formação de Guardas, onde fica colocado na situação de além do quadro.
+Art. 9.º - 1 - O pessoal aprovado para a frequência da escola de alistados é aumentado, no acto de alistamento, para efeitos administrativos, logísticos, de instrução e disciplinares, à Escola de Formação de Guardas, onde fica colocado na situação de além do quadro.
 
 2 - Finda a instrução, serão os guardas provisórios colocados nos comandos distritais onde houver vaga no quadro orgânico, de acordo com o planeamento efectuado pelo Comando-Geral da Polícia de Segurança Pública.
 
-###### Art. 10.º O quadro geral da Polícia de Segurança Pública, a que se refere o [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, considera-se aumentado do pessoal constante no quadro anexo III.
+Art. 10.º O quadro geral da Polícia de Segurança Pública, a que se refere o [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, considera-se aumentado do pessoal constante no quadro anexo III.
 
-###### Art. 11.º A actualização dos quadros orgânicos da PSP, a que se refere o artigo 9.º do presente diploma, terá lugar em três fases, constando da primeira, a vigorar a partir de 1 de Janeiro de 1978, o aumento do pessoal constante do quadro anexo IV.
+Art. 11.º A actualização dos quadros orgânicos da PSP, a que se refere o artigo 9.º do presente diploma, terá lugar em três fases, constando da primeira, a vigorar a partir de 1 de Janeiro de 1978, o aumento do pessoal constante do quadro anexo IV.
 
-###### Art. 12.º A 2.ª fase efectivar-se-á a partir de 1 de Julho de 1978, correspondendo-lhe o aumento do pessoal constante do quadro anexo V.
+Art. 12.º A 2.ª fase efectivar-se-á a partir de 1 de Julho de 1978, correspondendo-lhe o aumento do pessoal constante do quadro anexo V.
 
-###### Art. 13.º A 3.ª fase efectivar-se-á desde 1 de Janeiro de 1979, correspondendo-lhe o aumento do pessoal constante do quadro anexo VI.
+Art. 13.º A 3.ª fase efectivar-se-á desde 1 de Janeiro de 1979, correspondendo-lhe o aumento do pessoal constante do quadro anexo VI.
 
-###### Art. 14.º Pelo Ministério da Administração Interna serão publicados os regulamentos necessários ao funcionamento da EFG e resolvidas, por simples despacho do Ministro da Administração Interna, sob proposta do Comando-Geral da PSP, as dúvidas que se suscitarem na sua execução, carecendo da aprovação do Ministério das Finanças sempre que envolvam aumento de despesas.
+Art. 14.º Pelo Ministério da Administração Interna serão publicados os regulamentos necessários ao funcionamento da EFG e resolvidas, por simples despacho do Ministro da Administração Interna, sob proposta do Comando-Geral da PSP, as dúvidas que se suscitarem na sua execução, carecendo da aprovação do Ministério das Finanças sempre que envolvam aumento de despesas.
 
-###### Art. 15.º Os encargos resultantes da execução deste diploma ficam condicionados às disponibilidades financeiras para os anos económicos de 1978 e 1979.
+Art. 15.º Os encargos resultantes da execução deste diploma ficam condicionados às disponibilidades financeiras para os anos económicos de 1978 e 1979.
 
-###### Art. 16.º Com a entrada em vigor do presente diploma cessam as atribuições e competências da Escola Prática de Polícia relacionadas com os novos alistados da PSP.
+Art. 16.º Com a entrada em vigor do presente diploma cessam as atribuições e competências da Escola Prática de Polícia relacionadas com os novos alistados da PSP.
 
-###### Art. 17.º É revogado o [Decreto-Lei n.º 173/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1977-251614), de 2 de Maio.
+Art. 17.º É revogado o [Decreto-Lei n.º 173/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1977-251614), de 2 de Maio.
 
-###### Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Firmino Miguel - Vítor Manuel Ribeiro Constâncio - Jaime José Matos da Gama.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 29 de Maio de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 29 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**
+O Presidente da República Interino, VASCO DA GAMA FERNANDES.
 
 Quadro anexo I (a que se refere o artigo 2.º, n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13700/10681073.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13700/10681073.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13700/10681073.pdf)
 
 Quadro anexo II (a que se refere o artigo 2.º, n.º 2)
 
@@ -340,4 +396,4 @@ Pessoal policial:
 
 502 guardas.
 
-**O Ministro da Administração Interna, Jaime José Matos da Gama.**
+O Ministro da Administração Interna, Jaime José Matos da Gama.

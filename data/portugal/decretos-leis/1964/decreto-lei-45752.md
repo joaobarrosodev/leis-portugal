@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45752-1964-577143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f442f380e1978d931e697327f12d3a73dbf0467c9b84cde4b7738bc562d78cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f2516b704e5c9bc802cd5604d1d43b9e29cd07345ed023a93705feec3561f04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Força Aérea
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:309753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401520:por
+  label: "Alterado o art. 21º e seus parágrafos do Dec Lei 40949, de 28-Dez de 1956, na redacção do presente diploma, pelo\
+    \ DEC LEI.48156.26.12.1967.PC, DG.IS [298] de 26.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48156-1967-401520
+  date: '1967-12-26'
+- type: amended_by
+  target: pt:dre:138820:por
+  label: "Dada nova redacção aos arts. 3º, 10º e 14º do Dec Lei 40949 de 28-Dez de 1956, com a redacção constante do presente\
+    \ diploma, pelo DEC LEI.408/70.25.08.1970.PC, DG.IS [196] de 25.08.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1970-138820
+  date: '1970-08-25'
+- type: amended_by
+  target: pt:dre:161720:por
+  label: "Alterado o art. 10º do Dec Lei 40949, de 28-Dez de 1956, na redacção do presente diploma, pelo DEC LEI.177/75.02.04.1975.CCEMFA,\
+    \ DG.IS [77] de 02.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1975-161720
+  date: '1975-04-02'
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307577:por
+  label: "Revogado art. 18º do Dec Lei 40949 de 28-Dez de 1956, com a redacção conferida no presente diploma, pelo DEC LEI.492/75.09.09.1975.CR,\
+    \ DG.IS [208] de 09.09.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/492-1975-307577
+  date: '1975-09-09'
+- type: repealed_by
+  target: pt:dre:309753:por
+  label: "Revogado o art. 21º do Dec Lei 40949 de 28-Dez de 1956, com a redacção conferida no presente diploma, pelo DEC LEI.658/75.21.11.1975.CR,\
+    \ DG.IS [270] de 21.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/658-1975-309753
+  date: '1975-11-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:21Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +131,9 @@ Impõe-se por isso a revisão do [Decreto-Lei n.º 40949](https://diariodarepubl
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 10.º, 14.º, 17.º e 21.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterados pelos Decretos-Leis n.os 41144, 41758 e 45668, respectivamente de 5 de Junho de 1957, de 25 de Julho de 1958 e de 18 de Abril de 1964, passam a ter as redacções seguintes:
+Artigo 1.º Os artigos 3.º, 10.º, 14.º, 17.º e 21.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterados pelos Decretos-Leis n.os 41144, 41758 e 45668, respectivamente de 5 de Junho de 1957, de 25 de Julho de 1958 e de 18 de Abril de 1964, passam a ter as redacções seguintes:
 
-###### Art. 3.º Os serviços da Força Aérea têm por finalidade essencial:
+Art. 3.º Os serviços da Força Aérea têm por finalidade essencial:
 
 O estabelecimento e funcionamento dos sistemas de comunicações da Força Aérea e dos sistemas de segurança e regulação do tráfego aéreo;
 
@@ -123,7 +161,7 @@ O serviço de pessoal.
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 4.º ...
 
@@ -131,17 +169,17 @@ c) Nos serviços de recrutamento e instrução, de saúde e de pessoal, através
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 e) Uma 4.ª repartição de pessoal.
 
 ...
 
-###### Art. 17.º O quadro de pessoal do Estado-Maior da Força Aérea será fixado em portaria do Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
+Art. 17.º O quadro de pessoal do Estado-Maior da Força Aérea será fixado em portaria do Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
 
 ...
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 Vogais eventuais:
 
@@ -161,13 +199,13 @@ Director do Serviço de Intendência e Contabilidade;
 
 Director do Serviço de Pessoal.
 
-###### Art. 2.º São adicionados ao [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, os seguintes artigos:
+Art. 2.º São adicionados ao [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, os seguintes artigos:
 
 G) Serviço de pessoal
 
-###### Art. 49.º-A O serviço de pessoal tem por finalidade essencial o registo e o movimento do pessoal militar privativo permanente e não permanente, do pessoal aquiparado a militar e do pessoal civil da Força Aérea.
+Art. 49.º-A O serviço de pessoal tem por finalidade essencial o registo e o movimento do pessoal militar privativo permanente e não permanente, do pessoal aquiparado a militar e do pessoal civil da Força Aérea.
 
-###### Art. 49.º-B O serviço de pessoal compreende:
+Art. 49.º-B O serviço de pessoal compreende:
 
 a) Uma direcção e inspecção;
 
@@ -189,7 +227,7 @@ Uma 4.ª repartição, de registo e informação.
 
 § 2.º Os órgãos de execução integrados em unidades estranhas ao serviço de pessoal referidos no corpo deste artigo serão fixados por portaria do Secretário de Estado da Aeronáutica.
 
-###### Art. 49.º-C O director do Serviço de Pessoal superintende:
+Art. 49.º-C O director do Serviço de Pessoal superintende:
 
 a) Nos elementos da própria Direcção, em todos os aspectos, com excepção dos incluídos no âmbito técnico dos outros serviços;
 
@@ -205,8 +243,8 @@ Pela elaboração e pela execução dos planos necessários ao funcionamento do 
 
 Pela eficiência do serviço.
 
-###### Art. 49.º-D O quadro do pessoal da Direcção do Serviço de Pessoal será fixado em portaria do Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
+Art. 49.º-D O quadro do pessoal da Direcção do Serviço de Pessoal será fixado em portaria do Secretário de Estado da Aeronáutica, tendo em consideração o total de pessoal de cada categoria, grau hierárquico e especialidade autorizado para a Força Aérea.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.

@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1981-394565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f94cfd72651a7274c49f7a00aa9e7edee7f96e07d0b62ec63239a9b447f261d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c6094d92b57b4c95e64c10946507866e49861e675e118a0c698f39b93bf72cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentação
+- Ensino Superior
+- Limite de Idade
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471930:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:04Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +115,20 @@ Sem prejuízo do disposto no n.º 3 do artigo 83.º do [Decreto-Lei n.º 448/79]
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os professores do ensino superior que atinjam o limite de idade no decurso de um ano lectivo poderão, mediante autorização do director-geral do Ensino Superior, a requerimento dos interessados, manter-se em exercício de funções até ao seu termo.
+Artigo 1.º Os professores do ensino superior que atinjam o limite de idade no decurso de um ano lectivo poderão, mediante autorização do director-geral do Ensino Superior, a requerimento dos interessados, manter-se em exercício de funções até ao seu termo.
 
-###### Art. 2.º O tempo de serviço prestado ao abrigo do disposto no artigo anterior não é contacto para quaisquer efeitos legais.
+Art. 2.º O tempo de serviço prestado ao abrigo do disposto no artigo anterior não é contacto para quaisquer efeitos legais.
 
-###### Art. 3.º - 1 - O exercício de funções docentes nos termos do artigo 1.º do presente diploma será retribuído com um terço do vencimento correspondente às funções exercidas, acumulável com a pensão provisória de aposentação que, nos termos legais em vigor, vier a ser fixada.
+Art. 3.º - 1 - O exercício de funções docentes nos termos do artigo 1.º do presente diploma será retribuído com um terço do vencimento correspondente às funções exercidas, acumulável com a pensão provisória de aposentação que, nos termos legais em vigor, vier a ser fixada.
 
 2 - À retribuição a que se refere o número anterior apenas será deduzido o respectivo imposto do selo.
 
-###### Art. 4.º As despesas resultantes da aplicação do presente diploma serão suportadas pelas verbas inscritas na rubrica por onde forem processadas as pensões provisórias.
+Art. 4.º As despesas resultantes da aplicação do presente diploma serão suportadas pelas verbas inscritas na rubrica por onde forem processadas as pensões provisórias.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Abril de 1981.**
+Promulgado em 8 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

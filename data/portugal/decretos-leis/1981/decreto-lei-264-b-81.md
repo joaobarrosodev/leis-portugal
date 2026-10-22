@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 202/1981, 1º Suplemento, Série I de 1981-09-03
   number: '202'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2350-(4) a 2350-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20201/00040010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-b-1981-517227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f0b33bcc2214c2caca2fe0c9ca12568d2e0b6f96f80ebaa10e9fe97122d7ad6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5681c67ddde61fbeedd2fbe858b4c2b3d7c007b7defa0d6178b0d3615f66d428
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Asilo Político
+- Cidadão Estrangeiro
+- Expulsão de Estrangeiros
+- Passaporte
+- Refugiado
 relationships:
 - type: amended_by
   target: pt:dre:626471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682858:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:561801:por
+  label: Rectificado (a epígrafe já está referenciada correctamente), pela DECL.DD6308.29.09.1981.PCM, DR.IS [237] de 15.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-561801
+  date: '1981-09-29'
+- type: corrected_by
+  target: pt:dre:568478:por
+  label: Rectificado pela DECL.DD6266.04.11.1981.PCM, DR.IS [266] de 18.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-568478
+  date: '1981-11-04'
+- type: corrected_by
+  target: pt:dre:566870:por
+  label: Rectificada a Decl DD6266, de 18-Nov 1981, que rectificou o presente diploma, pela DECL.DD6185.14.12.1981.PCM, DR.IS
+    [296] de 26.12.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-566870
+  date: '1981-12-14'
+- type: repealed_by
+  target: pt:dre:357279:por
+  label: "Revogados os artigos 20.º a 22.º pelo DEC LEI.438/88.29.11.1988.MAI, DR.IS [276] de 29.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1988-357279
+  date: '1988-11-29'
+- type: repealed_by
+  target: pt:dre:626471:por
+  label: "Revogado pelo DEC LEI.59/93.03.03.1993.MAI, DR.IS-A [52] de 03.03.1993, mantendo-se no entanto em vigor, em tudo\
+    \ o que não contrarie este, até ao início da vigência da regulamentação nele prevista.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-1993-626471
+  date: '1993-03-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:43Z'
   warnings: []
   errors: []
 ---
@@ -698,8 +762,8 @@ As alterações introduzidas em matéria de alçadas não se aplicam aos process
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Agosto de 1981.**
+Promulgado em 28 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

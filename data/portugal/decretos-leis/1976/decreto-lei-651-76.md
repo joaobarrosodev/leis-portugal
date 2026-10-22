@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17800/18411842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/651-1976-431006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7440144aad4591b8daa1d8fab8a014110eb04d9c92d5455d27654655d93b3ce0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3b212629454e5c8ae99bc50b4f282d08894995e72fd36c1fb750c720366e5bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Habilitações Literárias
+- Pessoal Docente
+- Política de Educação
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:304485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512977:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:10Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +124,18 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Consideram-se para todos os efeitos legais como habilitados com o Exame de Estado para a docência no ensino primário os indivíduos que tenham concluído ou venham a concluir com aproveitamento o curso do magistério primário segundo o plano de estudos em vigor, sem prejuízo, contudo, da prestação de provas de Exame de Estado pelos que o requeiram, caso em que a nota do diploma será a que obtiverem neste exame.
+Artigo 1.º - 1. Consideram-se para todos os efeitos legais como habilitados com o Exame de Estado para a docência no ensino primário os indivíduos que tenham concluído ou venham a concluir com aproveitamento o curso do magistério primário segundo o plano de estudos em vigor, sem prejuízo, contudo, da prestação de provas de Exame de Estado pelos que o requeiram, caso em que a nota do diploma será a que obtiverem neste exame.
 
 2. O regime previsto no n.º 1 manter-se-á até à promulgação do Estatuto das Escolas do Magistério Primário.
 
-###### Art. 2.º A classificação final para os que não requererem Exame de Estado será a que resultar de uma avaliação continuada que tenha em conta designadamente a apreciação do processo individual do aluno, que será globalmente expresso em valor quantitativo, devendo as escolas ter em atenção a média nacional obtida pela média das médias dos últimos cinco anos.
+Art. 2.º A classificação final para os que não requererem Exame de Estado será a que resultar de uma avaliação continuada que tenha em conta designadamente a apreciação do processo individual do aluno, que será globalmente expresso em valor quantitativo, devendo as escolas ter em atenção a média nacional obtida pela média das médias dos últimos cinco anos.
 
-###### Art. 3.º Em relação aos indivíduos abrangidos por este decreto, as disposições nele inseridas substituem, para todos os efeitos legais, o estabelecido nos artigos 1.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e 18.º, 19.º e § único do artigo 21.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
+Art. 3.º Em relação aos indivíduos abrangidos por este decreto, as disposições nele inseridas substituem, para todos os efeitos legais, o estabelecido nos artigos 1.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e 18.º, 19.º e § único do artigo 21.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

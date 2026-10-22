@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/268-1970-142690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684beb32fe11a608f4c225e2b49209c9d59d4e06f1005563ca43f3b4535b7efb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d4ae7202cb781a207744f98d3bdfb63265986c46627c25301eb4b0969328351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Administração Pública
+- Administração Ultramarina
+- Cálculo de Pensões
+- Definição de Competências
+- Estatuto
+- Funcionário Público
+- Funcionário Ultramarino
+- Governador
+- Governo Colonial
+- Pensões
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:468065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524827:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468065:por
+  label: "Revogado o art. 12º pelo DEC LEI.728/74.19.12.1974.MCINT, DG.IS [295] de 19.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/728-1974-468065
+  date: '1974-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:52Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +154,11 @@ I
 
 Disposições gerais
 
-###### Artigo 1.º - 1. A tabela de vencimentos base mensais constante do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino é substituída pela tabela anexa a este diploma, que dele faz parte integrante e baixa assinada pelo Ministro do Ultramar.
+Artigo 1.º - 1. A tabela de vencimentos base mensais constante do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino é substituída pela tabela anexa a este diploma, que dele faz parte integrante e baixa assinada pelo Ministro do Ultramar.
 
 2. Os vencimentos base mensais dos governadores das províncias de governo simples passam a ser os fixados para a letra A da tabela anexa.
 
-###### Art. 2.º - 1. Ficam os órgãos legislativos das províncias ultramarinas autorizados a fixar os vencimentos complementares correspondentes às categorias das letras B a Z" constantes da tabela anexa, não podendo, porém, os novos quantitativos exceder os dos vencimentos complementares abonados em cada província na data do presente diploma.
+Art. 2.º - 1. Ficam os órgãos legislativos das províncias ultramarinas autorizados a fixar os vencimentos complementares correspondentes às categorias das letras B a Z" constantes da tabela anexa, não podendo, porém, os novos quantitativos exceder os dos vencimentos complementares abonados em cada província na data do presente diploma.
 
 2. A fixação dos novos vencimentos complementares obedecerá a um escalonamento degressivo.
 
@@ -127,11 +172,11 @@ Disposições gerais
 
 7. Do mesmo modo, o Governo da província de Cabo Verde proporá ao Ministro a fixação de vencimentos complementares mensais obtidos que sejam os recursos orçamentais necessários para o efeito.
 
-###### Art. 3.º - 1. São mantidos os actuais vencimentos complementares mensais dos governadores das províncias de governo-geral.
+Art. 3.º - 1. São mantidos os actuais vencimentos complementares mensais dos governadores das províncias de governo-geral.
 
 2. Os vencimentos complementares mensais dos governadores das províncias de governo simples são os que forem fixados para os agentes incluídos na categoria da letra B da tabela anexa.
 
-###### Art. 4.º - 1. Quando os vencimentos ou salários certos não obedeçam à disciplina das letras a que se refere a tabela anexa, deverão ser actualizados do seguinte modo:
+Art. 4.º - 1. Quando os vencimentos ou salários certos não obedeçam à disciplina das letras a que se refere a tabela anexa, deverão ser actualizados do seguinte modo:
 
 a) Tratando-se de contratos de provimento, dos quadros ou fora dos quadros, deverão os novos vencimentos ser estabelecidos em apostila, a vigorar a partir do dia 1 de Julho do corrente ano e por referência às letras da tabela anexa, estabelecendo-se as categorias por equiparação às das já incluídas nas mesmas letras;
 
@@ -141,7 +186,7 @@ c) Tratando-se de assalariados permanentes cujos lugares estejam descritos nos q
 
 2. Os assalariados eventuais terão os salários correntes na região em que prestarem serviço.
 
-###### Art. 5.º Os quantitativos mensais, para despesas de representação, a abonar aos governadores das províncias ultramarinas, secretários provinciais e secretários-gerais são fixados no dobro dos actualmente previstos para as mesmas categorias.
+Art. 5.º Os quantitativos mensais, para despesas de representação, a abonar aos governadores das províncias ultramarinas, secretários provinciais e secretários-gerais são fixados no dobro dos actualmente previstos para as mesmas categorias.
 
 II
 
@@ -149,17 +194,17 @@ Disposições especiais
 
 Guiné
 
-###### Art. 6.º A partir da data em que entrarem em vigor os novos vencimentos base e complementar previstos no presente diploma é extinto o subsídio eventual de custo de vida a que se refere o [Decreto n.º 48921](https://diariodarepublica.pt/dr/detalhe/decreto/48921-1969-524827), de 21 de Março de 1969.
+Art. 6.º A partir da data em que entrarem em vigor os novos vencimentos base e complementar previstos no presente diploma é extinto o subsídio eventual de custo de vida a que se refere o [Decreto n.º 48921](https://diariodarepublica.pt/dr/detalhe/decreto/48921-1969-524827), de 21 de Março de 1969.
 
 Angola
 
-###### Art. 7.º São aumentados de 20 por cento os quantitativos previstos nas alíneas a) e b) do § único do artigo 50.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959.
+Art. 7.º São aumentados de 20 por cento os quantitativos previstos nas alíneas a) e b) do § único do artigo 50.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959.
 
 Moçambique
 
-###### Art. 8.º São autorizados os órgãos legislativos da província a alterar o complemento mensal de residência, a que se refere o artigo 47.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, com a redacção dada pelo artigo 6.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960, tendo em conta os índices do custo de vida nos respectivos países.
+Art. 8.º São autorizados os órgãos legislativos da província a alterar o complemento mensal de residência, a que se refere o artigo 47.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, com a redacção dada pelo artigo 6.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960, tendo em conta os índices do custo de vida nos respectivos países.
 
-###### Art. 9.º - 1. Ficam autorizados os órgãos legislativos da província a abolir o complemento a que se refere o § único do artigo 14.º do Decreto n.º 31896, de 27 de Fevereiro de 1942.
+Art. 9.º - 1. Ficam autorizados os órgãos legislativos da província a abolir o complemento a que se refere o § único do artigo 14.º do Decreto n.º 31896, de 27 de Fevereiro de 1942.
 
 2. Nos casos em que, por virtude da aplicação do disposto no número anterior, se verifique diminuição do total dos vencimento certos percebidos na data do início da vigência deste diploma, será ao respectivo funcionário abonada uma compensação, nos termos do artigo 10.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
@@ -167,43 +212,43 @@ III
 
 Disposições finais
 
-###### Art. 10.º Os vencimentos e salários do pessoal dos serviços autónomos e dos organismos de coordenação económica das províncias ultramarinas serão, pelos respectivos governadores, actualizados de harmonia com os princípios estabelecidos no presente diploma.
+Art. 10.º Os vencimentos e salários do pessoal dos serviços autónomos e dos organismos de coordenação económica das províncias ultramarinas serão, pelos respectivos governadores, actualizados de harmonia com os princípios estabelecidos no presente diploma.
 
-###### Art. 11.º Os corpos administrativos poderão, se as suas disponibilidades financeiras o permitirem, propor a revisão das remunerações do seu pessoal, dentro dos mesmos princípios, não podendo, contudo, as propostas exceder os quantitativos fixados para os funcionários de igual ou equivalente categoria.
+Art. 11.º Os corpos administrativos poderão, se as suas disponibilidades financeiras o permitirem, propor a revisão das remunerações do seu pessoal, dentro dos mesmos princípios, não podendo, contudo, as propostas exceder os quantitativos fixados para os funcionários de igual ou equivalente categoria.
 
-###### Art. 12.º Para os funcionários do Ministério do Ultramar, seus organismos consultivos e dependentes, cuja aposentação constitua encargo das províncias ultramarinas, o cálculo das respectivas pensões de aposentação será feito com base nas letras das categorias ultramarinas a que correspondam, conforme o disposto no artigo 180.º e seu § único do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967.
+Art. 12.º Para os funcionários do Ministério do Ultramar, seus organismos consultivos e dependentes, cuja aposentação constitua encargo das províncias ultramarinas, o cálculo das respectivas pensões de aposentação será feito com base nas letras das categorias ultramarinas a que correspondam, conforme o disposto no artigo 180.º e seu § único do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967.
 
-###### Art. 13.º O abono do complemento ultramarino de pensão aos aposentados e desligados do serviço, quando devido nos termos do artigo 448.º do Estatuto do Funcionalismo Ultramarino, será sempre efectuado em relação ao vencimento complementar que estiver em vigor na respectiva província, não podendo, contudo, ser inferior aos quantitativos abonados à data da entrada em vigor do presente diploma para os desligados do serviço ou aposentados anteriormente a 1 de Julho de 1970.
+Art. 13.º O abono do complemento ultramarino de pensão aos aposentados e desligados do serviço, quando devido nos termos do artigo 448.º do Estatuto do Funcionalismo Ultramarino, será sempre efectuado em relação ao vencimento complementar que estiver em vigor na respectiva província, não podendo, contudo, ser inferior aos quantitativos abonados à data da entrada em vigor do presente diploma para os desligados do serviço ou aposentados anteriormente a 1 de Julho de 1970.
 
-###### Art. 14.º - 1. Até ao fim do corrente ano deverão, pelos governos das províncias ultramarinas, ser revistos o número e a composição dos grupos de trabalho existentes, bem como as remunerações dos seus componentes.
+Art. 14.º - 1. Até ao fim do corrente ano deverão, pelos governos das províncias ultramarinas, ser revistos o número e a composição dos grupos de trabalho existentes, bem como as remunerações dos seus componentes.
 
 2. Do resultado dos estudos efectuados será dado conhecimento ao Ministro do Ultramar.
 
-###### Art. 15.º O montante das senhas de presença, quando devidas, não poderá ser superior a 150$00 por cada reunião.
+Art. 15.º O montante das senhas de presença, quando devidas, não poderá ser superior a 150$00 por cada reunião.
 
-###### Art. 16.º Os quantitativos dos subsídios de renda de casa serão revistos pelos governos das províncias ultramarinas até ao dia 31 de Dezembro do ano corrente, por forma que fique assegurada a sua uniformidade dentro de cada categoria, independentemente dos serviços a que os funcionários pertençam.
+Art. 16.º Os quantitativos dos subsídios de renda de casa serão revistos pelos governos das províncias ultramarinas até ao dia 31 de Dezembro do ano corrente, por forma que fique assegurada a sua uniformidade dentro de cada categoria, independentemente dos serviços a que os funcionários pertençam.
 
-###### Art. 17.º Ficam os governos das províncias ultramarinas autorizados a proceder à revisão das percentagens actualmente previstas para o subsídio especial de emergência, não podendo, porém, exceder os limites fixados pelo § único do artigo 1.º do [Decreto n.º 48778](https://diariodarepublica.pt/dr/detalhe/decreto/48778-1968-262327), de 20 de Dezembro de 1968.
+Art. 17.º Ficam os governos das províncias ultramarinas autorizados a proceder à revisão das percentagens actualmente previstas para o subsídio especial de emergência, não podendo, porém, exceder os limites fixados pelo § único do artigo 1.º do [Decreto n.º 48778](https://diariodarepublica.pt/dr/detalhe/decreto/48778-1968-262327), de 20 de Dezembro de 1968.
 
-###### Art. 18.º Ficam os governos das províncias ultramarinas autorizados a alterar, para o abono de família, o número de grupos previstos no artigo 7.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, com a redacção que lhe foi dada pelo [Decreto n.º 42325](https://diariodarepublica.pt/dr/detalhe/decreto/42325-1959-432409), de 16 de Junho de 1959, e a fixar os quantitativos a cada um correspondentes.
+Art. 18.º Ficam os governos das províncias ultramarinas autorizados a alterar, para o abono de família, o número de grupos previstos no artigo 7.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, com a redacção que lhe foi dada pelo [Decreto n.º 42325](https://diariodarepublica.pt/dr/detalhe/decreto/42325-1959-432409), de 16 de Junho de 1959, e a fixar os quantitativos a cada um correspondentes.
 
-###### Art. 19.º - 1. Aos servidores do Estado que apresentem estudos ou sugestões que se julgue assegurarem aumento de eficiência e de economia na Administração podem ser atribuídos prémios pecuniários, louvores públicos, bolsas de estudo ou licenças para frequência, no País ou no estrangeiro, de cursos de especialização ou aperfeiçoamento dos seus conhecimentos profissionais.
+Art. 19.º - 1. Aos servidores do Estado que apresentem estudos ou sugestões que se julgue assegurarem aumento de eficiência e de economia na Administração podem ser atribuídos prémios pecuniários, louvores públicos, bolsas de estudo ou licenças para frequência, no País ou no estrangeiro, de cursos de especialização ou aperfeiçoamento dos seus conhecimentos profissionais.
 
 2. O disposto no n.º 1 será regulamentado em portaria do Ministro do Ultramar.
 
-###### Art. 20.º É revogado o artigo 27.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960.
+Art. 20.º É revogado o artigo 27.º do [Decreto n.º 43041](https://diariodarepublica.pt/dr/detalhe/decreto/43041-1960-502425), de 1 de Julho de 1960.
 
-###### Art. 21.º - 1. O aumento de encargos a que a execução do presente diploma der lugar no corrente ano será satisfeito em conta das competentes verbas orçamentais até à concorrência das respectivas disponibilidades.
+Art. 21.º - 1. O aumento de encargos a que a execução do presente diploma der lugar no corrente ano será satisfeito em conta das competentes verbas orçamentais até à concorrência das respectivas disponibilidades.
 
 2. Nos casos em que se verificar insuficiência das respectivas verbas, ficam os governos das províncias ultramarinas autorizados a proceder ao seu reforço, com contrapartida em disponibilidades orçamentais de qualquer classe de despesas e, se ainda necessário, nos saldos de exercícios findos.
 
-###### Art. 22.º O presente diploma entra em vigor no dia 1 de Julho de 1970.
+Art. 22.º O presente diploma entra em vigor no dia 1 de Julho de 1970.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Junho de 1970.**
+Promulgado em 3 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -211,6 +256,6 @@ Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 Tabela dos novos vencimentos base
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/06/13700/07790781.pdf))](https://files.diariodarepublica.pt/1s/1970/06/13700/07790781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/06/13700/07790781.pdf)
 
 Ministério do Ultramar, 3 de Junho de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

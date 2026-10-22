@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15600/15741575.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1980-471889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f0173bed0d00f434539362d249f919b09b32497682ddf4824732c2c5e24bb36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c5b0d34363c187b7a5422eef6c8de447e544a3d52d7e9bb97f57879e8dadfd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto de Transacções
+- Taxa
+- Telefone
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:470635:por
+  label: Rectificado pela DECL.DD6939.12.08.1980.PCM, DR.IS [185] de 12.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470635
+  date: '1980-08-12'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:20Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +112,11 @@ de 9 de Julho
 
 Ao abrigo da autorização concedida pelo n.º 2 do artigo 24.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É alargado o âmbito de incidência do imposto de transacções sobre a prestação de serviços, instituído pelo [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, às chamadas telefónicas.
+Artigo 1.º - 1 - É alargado o âmbito de incidência do imposto de transacções sobre a prestação de serviços, instituído pelo [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, às chamadas telefónicas.
 
 2 - A taxa do imposto de transacções devido pelas chamadas telefónicas é de 10%.
 
-###### Art. 2.º Para os efeitos do disposto no artigo anterior, é aditado o artigo 5.º-A ao [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, sendo dada nova redacção aos seus artigos 1.º, 6.º, 7.º, 8.º, 9.º, 19.º e 20.º, nos seguintes termos:
+Art. 2.º Para os efeitos do disposto no artigo anterior, é aditado o artigo 5.º-A ao [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, sendo dada nova redacção aos seus artigos 1.º, 6.º, 7.º, 8.º, 9.º, 19.º e 20.º, nos seguintes termos:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -106,19 +128,19 @@ g) Chamadas telefónicas.
 
 ...
 
-###### Art. 5.º-A. Para efeitos do disposto na alínea g) do n.º 1 do artigo 1.º, consideram-se sujeitas ao imposto de transacções as chamadas telefónicas estabelecidas nos territórios do continente e dos arquipélagos dos Açores e da Madeira e, bem assim, as conversações internacionais na parte cuja receita venha a caber às empresas concessionárias que exerçam a actividade nos citados territórios.
+Art. 5.º-A. Para efeitos do disposto na alínea g) do n.º 1 do artigo 1.º, consideram-se sujeitas ao imposto de transacções as chamadas telefónicas estabelecidas nos territórios do continente e dos arquipélagos dos Açores e da Madeira e, bem assim, as conversações internacionais na parte cuja receita venha a caber às empresas concessionárias que exerçam a actividade nos citados territórios.
 
-###### Art. 6.º - 1 - Ficam sujeitas ao imposto as pessoas, singulares ou colectivas, que nos territórios do continente e dos arquipélagos dos Açores e da Madeira prestem os serviços compreendidos no artigo 1.º e estejam obrigadas a registo nos termos do artigo 20.º
+Art. 6.º - 1 - Ficam sujeitas ao imposto as pessoas, singulares ou colectivas, que nos territórios do continente e dos arquipélagos dos Açores e da Madeira prestem os serviços compreendidos no artigo 1.º e estejam obrigadas a registo nos termos do artigo 20.º
 
 2 - Compreendem-se no disposto no número anterior as empresas concessionárias que intervenham directamente na prestação do serviço das conversações telefónicas.
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 ...
 
 e) Nas chamadas telefónicas - no momento da cobrança das respectivas taxas de conversação.
 
-###### Art. 8.º Ficam isentos do imposto de transacções:
+Art. 8.º Ficam isentos do imposto de transacções:
 
 a) Os serviços prestados gratuitamente aos empregados directamente afectos ao exercício das actividades a que se refere o n.º 1 do artigo 1.º;
 
@@ -126,7 +148,7 @@ b) As chamadas telefónicas gratuitas, quando originadas nos serviços do Estado
 
 c) As chamadas telefónicas de serviço, quando gratuitas, originadas nos serviços dependentes das empresas concessionárias ou aos mesmos destinadas.
 
-###### Art. 19.º - 1 - ...
+Art. 19.º - 1 - ...
 
 2 - ...
 
@@ -136,7 +158,7 @@ c) As chamadas telefónicas de serviço, quando gratuitas, originadas nos servi�
 
 ...
 
-###### Art. 19.º - 1 - ...
+Art. 19.º - 1 - ...
 
 2 - O imposto devido pelas chamadas telefónicas poderá ser entregue na tesouraria da Fazenda Pública da área da sede das empresas concessionárias, mediante autorização a conceder pelo director-geral das Contribuições e Impostos.
 
@@ -144,7 +166,7 @@ c) As chamadas telefónicas de serviço, quando gratuitas, originadas nos servi�
 
 4 - Ao pagamento do imposto devido pelas prestações de serviços não é aplicável o disposto no § 1.º do artigo 41.º do Código do Imposto de Transacções.
 
-###### Art. 20.º - 1 - São obrigados a inscrever-se no registo a que se refere o artigo 48.º do Código do Imposto de Transacções os prestadores de serviços que exerçam as actividades constantes do n.º 1 do artigo 1.º deste decreto-lei e nas condições estabelecidas nos seus artigos 2.º a 5.º-A.
+Art. 20.º - 1 - São obrigados a inscrever-se no registo a que se refere o artigo 48.º do Código do Imposto de Transacções os prestadores de serviços que exerçam as actividades constantes do n.º 1 do artigo 1.º deste decreto-lei e nas condições estabelecidas nos seus artigos 2.º a 5.º-A.
 
 2 - Ficam dispensados do registo os fotógrafos ambulantes e poderão sê-lo os demais prestadores de serviços fotográficos, embora com instalação fixa, cujo volume anual ilíquido de negócios não exceda 300000$00.
 
@@ -154,26 +176,26 @@ c) As chamadas telefónicas de serviço, quando gratuitas, originadas nos servi�
 
 5 - Nos casos previstos no n.º 2 do artigo 19.º, é dispensado o registo nas repartições de finanças da área das dependências das empresas concessionárias, quando obtida a autorização a que se refere o mesmo preceito, devendo a declaração modelo n.º 1-A ser apresentada na repartição de finanças da área da respectiva sede.
 
-###### Art. 3.º A importância do imposto de transacções devido pelas chamadas telefónicas não poderá ser transferida para os utentes do serviço durante a vigência da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, não sendo aplicável, neste caso, o disposto nos artigos 16.º, alínea a) do n.º 1, e 17.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
+Art. 3.º A importância do imposto de transacções devido pelas chamadas telefónicas não poderá ser transferida para os utentes do serviço durante a vigência da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, não sendo aplicável, neste caso, o disposto nos artigos 16.º, alínea a) do n.º 1, e 17.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
 
-###### Art. 4.º - 1 - As infracções às disposições constantes do artigo 2.º do presente diploma serão punidas nos termos dos artigos 28.º e seguintes do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
+Art. 4.º - 1 - As infracções às disposições constantes do artigo 2.º do presente diploma serão punidas nos termos dos artigos 28.º e seguintes do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro.
 
 2 - A inobservância do disposto no artigo 3.º do presente diploma será punida com a multa de 1000$00 a 10000$00 por cada infracção e em relação a cada utente, sendo aplicáveis a estas transgressões as disposições dos artigos 28.º e 34.º a 38.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
 
-###### Art. 5.º São mantidas na sua forma actual todas as obrigações, direitos e demais condições estabelecidos na lei e em acordos celebrados entre o Estado e as empresas exploradoras da rede telefónica nacional.
+Art. 5.º São mantidas na sua forma actual todas as obrigações, direitos e demais condições estabelecidos na lei e em acordos celebrados entre o Estado e as empresas exploradoras da rede telefónica nacional.
 
-###### Art. 6.º As dúvidas e dificuldades que venham a levantar-se na interpretação e execução do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 6.º As dúvidas e dificuldades que venham a levantar-se na interpretação e execução do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 7.º - 1 - As empresas concessionárias prestadoras dos serviços a que se refere a alínea g) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 2.º do presente diploma, deverão apresentar no prazo de quinze dias, a contar da publicação deste no Diário da República, a declaração modelo n.º 1-A, a que se refere o n.º 5 do artigo 20.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
+Art. 7.º - 1 - As empresas concessionárias prestadoras dos serviços a que se refere a alínea g) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640), de 10 de Setembro, na redacção dada pelo artigo 2.º do presente diploma, deverão apresentar no prazo de quinze dias, a contar da publicação deste no Diário da República, a declaração modelo n.º 1-A, a que se refere o n.º 5 do artigo 20.º do [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
 
 2 - A inobservância do disposto no número anterior será punida nos termos do artigo 30.º do citado [Decreto-Lei n.º 374-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-d-1979-256640).
 
-###### Art. 8.º As disposições contidas no presente decreto-lei são aplicáveis às chamadas telefónicas efectuadas a partir do dia 1 de Junho de 1980.
+Art. 8.º As disposições contidas no presente decreto-lei são aplicáveis às chamadas telefónicas efectuadas a partir do dia 1 de Junho de 1980.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 27 de Junho de 1980.**
+Promulgado em 27 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

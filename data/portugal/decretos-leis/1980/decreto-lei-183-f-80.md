@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/1980, 2º Suplemento, Série I de 1980-06-09
   number: '132'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1364-(56) a 1364-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-f-1980-324951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9420033d065f0659300a7c4e6a00ac5f5515a4c59125932be70175edc93c1b5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d25b30edac89b512aeb46b4fe55cebf68aeb01cca1f57e08feea1e9c12d20765
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472343:por
+  label: Rectificado pela DECL.DD6979.19.07.1980.PCM, DR.IS [165] de 19.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472343
+  date: '1980-07-19'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:23Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +148,9 @@ Assim:
 
 Ao abrigo da autorização concedida pelo artigo 18.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 4.º, 7.º, 8.º, 8.º-A, 11.º, 12.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 28.º, 29.º, 33.º, 38.º, 86.º, 86.º-A, 94.º e 96.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 4.º, 7.º, 8.º, 8.º-A, 11.º, 12.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 28.º, 29.º, 33.º, 38.º, 86.º, 86.º-A, 94.º e 96.º do Código do Imposto Complementar passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º No caso de as pessoas a que se refere este artigo serem casadas e não separadas judicialmente de pessoas e bens, ambos os cônjuges estão sujeitos ao imposto em relação aos rendimentos do agregado familiar.
 
@@ -132,15 +164,15 @@ Ao abrigo da autorização concedida pelo artigo 18.º da [Lei n.º 8-A/80](http
 
 ...
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § único. Serão sempre havidas como residentes no território do continente e dos arquipélagos dos Açores e da Madeira as pessoas que constituem o agregado familiar, desde que resida nesse território qualquer das pessoas a quem incumbe a direcção do agregado.
 
 ...
 
-###### Art. 7.º São considerados como rendimentos do agregado familiar os rendimentos de todos os seus membros, salvo os rendimentos dos filhos, enteados e adoptados, de que seja administradora pessoa a quem não incumbe a direcção do agregado familiar.
+Art. 7.º São considerados como rendimentos do agregado familiar os rendimentos de todos os seus membros, salvo os rendimentos dos filhos, enteados e adoptados, de que seja administradora pessoa a quem não incumbe a direcção do agregado familiar.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1.º ...
 
@@ -154,7 +186,7 @@ Art 8.º-A. Poderão ser concedidas isenções nos termos da legislação poster
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 1.º ...
 
@@ -186,7 +218,7 @@ c) Da residência da pessoa a quem incumbe a direcção da família residente no
 
 § 7.º ...
 
-###### Art. 12.º A declaração a que se refere o artigo precedente será assinada pelo contribuinte ou contribuintes ou por seu representante legal ou mandatário.
+Art. 12.º A declaração a que se refere o artigo precedente será assinada pelo contribuinte ou contribuintes ou por seu representante legal ou mandatário.
 
 § 1.º Salvo o disposto no parágrafo seguinte, serão recusadas as declarações que não estiverem devidamente assinadas, sem prejuízo das sanções estabelecidas para a falta da sua apresentação.
 
@@ -194,7 +226,7 @@ c) Da residência da pessoa a quem incumbe a direcção da família residente no
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
@@ -206,13 +238,13 @@ c) Da residência da pessoa a quem incumbe a direcção da família residente no
 
 § 3.º ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 ...
 
 § 3.º Tratando-se de contribuintes tributados em contribuição industrial, grupo A, não serão de considerar, para apuramento da matéria colectável deste imposto, os rendimentos correspondentes à contribuição predial dedutível à colecta daquela contribuição nos termos da alínea b) e § único do artigo 89.º do Código da Contribuição Industrial.
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 1.ª Tratando-se de rendimentos de títulos expressos ou pagáveis em moeda estrangeira, a sua equivalência em escudos será estabelecida pela cotação que vigorar no dia da recepção do aviso feito à instituição de crédito depositária de que o montante em moeda estrangeira lhe foi creditado;
 
@@ -220,7 +252,7 @@ c) Da residência da pessoa a quem incumbe a direcção da família residente no
 
 3.ª Tratando-se de rendimentos em géneros, a redução a dinheiro far-se-á pelo preço médio do ano a que respeitam os rendimentos, segundo o que constar do registo da repartição de finanças ou, na sua falta, da estiva camarária.
 
-###### Art. 17.º Serão havidos como rendimentos do mesmo ano e englobados em nome do seu titular ou da pessoa ou pessoas a quem incumbe a direcção da família:
+Art. 17.º Serão havidos como rendimentos do mesmo ano e englobados em nome do seu titular ou da pessoa ou pessoas a quem incumbe a direcção da família:
 
 a) ...
 
@@ -238,7 +270,7 @@ e) Os rendimentos nesse ano produzidos, quando se trate dos mencionados na regra
 
 § 3.º ...
 
-###### Art. 18.º Nos casos de constituição, interrupção ou dissolução da sociedade conjugal observar-se-ão as seguintes regras:
+Art. 18.º Nos casos de constituição, interrupção ou dissolução da sociedade conjugal observar-se-ão as seguintes regras:
 
 1.ª Os rendimentos do agregado familiar referentes ao ano do casamento, a considerar no englobamento em nome dos dois cônjuges, são apenas os correspondentes ao período decorrido desde a data do casamento até ao fim do ano, devendo os correspondentes ao período anterior ser englobados em nome do cônjuge a quem pertenciam ou em nome da pessoa ou pessoas a quem incumbia a direcção do agregado familiar de que fazia parte, conforme o caso;
 
@@ -246,9 +278,9 @@ e) Os rendimentos nesse ano produzidos, quando se trate dos mencionados na regra
 
 3.ª Nos casos de declarações de nulidade ou anulação do casamento, de divórcio ou separação judicial de pessoas e bens, serão de englobar em nome dos dois cônjuges os rendimentos do agregado familiar relativos ao período decorrido desde 1 de Janeiro até à data do trânsito em julgado da respectiva decisão judicial, ou tratando-se de declaração de nulidade de casamento, até à data do averbamento no registo civil da correspondente decisão, devendo em todos os casos englobar-se em nome de cada cônjuge os seus rendimentos e os dos filhos e adoptados, nas condições do § 2.º do artigo 2.º, relativos ao período decorrido desde o dia imediato à data do trânsito em julgado ou do averbamento, conforme o caso, até ao fim do ano.
 
-###### Art. 19.º Ocorrendo o falecimento de qualquer pessoa, os rendimentos relativos aos bens transmitidos e correspondentes ao período posterior à data do óbito serão considerados, a partir de então, nos englobamentos a efectuar em nome das pessoas que os passaram a auferir, procedendo-se, na falta de partilha até ao fim do ano a que os rendimentos respeitam, à sua divisão pelos sucessores e cônjuge sobrevivo, se o houver, segundo a sua quota ideal nos referidos bens.
+Art. 19.º Ocorrendo o falecimento de qualquer pessoa, os rendimentos relativos aos bens transmitidos e correspondentes ao período posterior à data do óbito serão considerados, a partir de então, nos englobamentos a efectuar em nome das pessoas que os passaram a auferir, procedendo-se, na falta de partilha até ao fim do ano a que os rendimentos respeitam, à sua divisão pelos sucessores e cônjuge sobrevivo, se o houver, segundo a sua quota ideal nos referidos bens.
 
-###### Art. 20.º Sempre que, para efeitos deste imposto, os rendimentos devam repartir-se por mais de um período, a fim de serem imputados ao respectivo titular ou à pessoa ou pessoas a quem incumbe a direcção da família, observar-se-á o seguinte:
+Art. 20.º Sempre que, para efeitos deste imposto, os rendimentos devam repartir-se por mais de um período, a fim de serem imputados ao respectivo titular ou à pessoa ou pessoas a quem incumbe a direcção da família, observar-se-á o seguinte:
 
 a) ...
 
@@ -260,7 +292,7 @@ c) ...
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 ...
 
@@ -276,7 +308,7 @@ a) Aquisição, construção ou beneficiação de imóveis para habitação do a
 
 b) Pagamento de despesas com a saúde das pessoas que constituem o agregado familiar, incluindo intervenções cirúrgicas e aparelhos de prótese.
 
-###### Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 20% dos rendimentos do trabalho, apurado nos termos da regra 4.ª do artigo 15.º, com o máximo de 30000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
+Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 20% dos rendimentos do trabalho, apurado nos termos da regra 4.ª do artigo 15.º, com o máximo de 30000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:
 
 a) Tratando-se de contribuintes residentes no continente ou nos arquipélagos dos Açores e da Madeira:
 
@@ -316,9 +348,9 @@ Nos casos em que o resultado não é expresso em cadeiras ou disciplinas, mas si
 
 Taxas
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf)
 
 § 1.º ...
 
@@ -326,7 +358,7 @@ Taxas
 
 ...
 
-###### Art. 38.º O imposto será liquidado ao titular do rendimento a ele sujeito ou à pessoa ou pessoas a quem incumbe a direcção da família, consoante o caso.
+Art. 38.º O imposto será liquidado ao titular do rendimento a ele sujeito ou à pessoa ou pessoas a quem incumbe a direcção da família, consoante o caso.
 
 § 1.º No caso de a direcção da família incumbir a pessoas casadas não separadas judicialmente de pessoas e bens, o imposto corresponde à totalidade dos rendimentos englobados, processando-se um único conhecimento em nome dessas pessoas.
 
@@ -334,19 +366,19 @@ Taxas
 
 ...
 
-###### Art. 86.º Às pessoas colectivas aproveitam igualmente as isenções estabelecidas para as pessoas singulares no n.º 1 do artigo 8.º, salvo as das alíneas h), i), j), l), m), x), z) e z'""), e no artigo 10.º
+Art. 86.º Às pessoas colectivas aproveitam igualmente as isenções estabelecidas para as pessoas singulares no n.º 1 do artigo 8.º, salvo as das alíneas h), i), j), l), m), x), z) e z'""), e no artigo 10.º
 
-###### Art. 86.º-A. Poderão ser concedidas isenções nos termos da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e demais legislação posterior ao Código, bem como relativamente aos rendimentos isentos de contribuição industrial em virtude dos §§ 2.º e 3.º do artigo 18.º do respectivo Código.
+Art. 86.º-A. Poderão ser concedidas isenções nos termos da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e demais legislação posterior ao Código, bem como relativamente aos rendimentos isentos de contribuição industrial em virtude dos §§ 2.º e 3.º do artigo 18.º do respectivo Código.
 
 § único. ...
 
 ...
 
-###### Art. 94.º As taxas do imposto complementar, secção B, são as seguintes:
+Art. 94.º As taxas do imposto complementar, secção B, são as seguintes:
 
 a) Para as sociedades em geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13202/00560061.pdf)
 
 b) ...
 
@@ -360,38 +392,38 @@ c) ...
 
 ...
 
-###### Art. 96.º Salvo o disposto nos artigos 97.º-B e 103.º, o englobamento dos rendimentos e a liquidação do respectivo imposto incumbem ao contribuinte.
+Art. 96.º Salvo o disposto nos artigos 97.º-B e 103.º, o englobamento dos rendimentos e a liquidação do respectivo imposto incumbem ao contribuinte.
 
-###### Art. 2.º São aditados ao Código do Imposto Complementar os artigos 56.º-A, 56.º-B, 64.º-A, 68.º-B e 72.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao Código do Imposto Complementar os artigos 56.º-A, 56.º-B, 64.º-A, 68.º-B e 72.º-A, com a seguinte redacção:
 
-###### Art. 56.º-A. Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades civis ou militares que processem folhas de abonos de importâncias referentes a remunerações por serviços prestados ao Estado, seus estabelecimentos e organismos, ainda que personalizados, bem como às autarquias locais, suas federações e uniões e às pessoas colectivas de utilidade pública administrativa, ou que, independentemente de folhas, liquidem as mesmas importâncias e, bem assim, quaisquer outras entidades públicas ou privadas que abonem remunerações pela prestação de trabalho por conta de outrem ou importâncias de abonos de reserva, de pensões de aposentação ou de reforma não poderão processar, liquidar ou mandar pagar importâncias referentes ao mês de Dezembro de cada ano a qualquer pessoa que no ano anterior tenha auferido da mesma proveniência importância superior ao correspondente limite estabelecido no artigo 11.º sem que seja exibido o recibo da entrega da declaração modelo n.º 1, anexo 3, respeitante aos rendimentos do ano anterior do qual conste essa pessoa.
+Art. 56.º-A. Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades civis ou militares que processem folhas de abonos de importâncias referentes a remunerações por serviços prestados ao Estado, seus estabelecimentos e organismos, ainda que personalizados, bem como às autarquias locais, suas federações e uniões e às pessoas colectivas de utilidade pública administrativa, ou que, independentemente de folhas, liquidem as mesmas importâncias e, bem assim, quaisquer outras entidades públicas ou privadas que abonem remunerações pela prestação de trabalho por conta de outrem ou importâncias de abonos de reserva, de pensões de aposentação ou de reforma não poderão processar, liquidar ou mandar pagar importâncias referentes ao mês de Dezembro de cada ano a qualquer pessoa que no ano anterior tenha auferido da mesma proveniência importância superior ao correspondente limite estabelecido no artigo 11.º sem que seja exibido o recibo da entrega da declaração modelo n.º 1, anexo 3, respeitante aos rendimentos do ano anterior do qual conste essa pessoa.
 
-###### Art. 56.º-B. As entidades a quem incumbe o pagamento de rendimentos sujeitos a imposto de capitais, secção B, não isentos de imposto complementar não poderão pagar nem creditar rendimentos dessa proveniência a qualquer titular cujo nome figure nos seus registos ou nas comunicações recebidas das instituições de crédito relativamente às acções depositadas que no penúltimo ano anterior tenha auferido da mesma entidade rendimentos sujeitos àquele imposto em quantitativo superior ao correspondente limite estabelecido no artigo 11.º sem que seja exibido o recibo da entrega das declarações modelo n.º 1, anexo 3, respeitante àquele penúltimo ano do qual conste esse titular.
+Art. 56.º-B. As entidades a quem incumbe o pagamento de rendimentos sujeitos a imposto de capitais, secção B, não isentos de imposto complementar não poderão pagar nem creditar rendimentos dessa proveniência a qualquer titular cujo nome figure nos seus registos ou nas comunicações recebidas das instituições de crédito relativamente às acções depositadas que no penúltimo ano anterior tenha auferido da mesma entidade rendimentos sujeitos àquele imposto em quantitativo superior ao correspondente limite estabelecido no artigo 11.º sem que seja exibido o recibo da entrega das declarações modelo n.º 1, anexo 3, respeitante àquele penúltimo ano do qual conste esse titular.
 
-###### Art. 64.º-A. A falta de assinatura das declarações referidas no artigo anterior dentro do prazo referido no artigo 12.º, § 2.º, fará incorrer o faltoso na multa de 1000$00 a 20000$00.
+Art. 64.º-A. A falta de assinatura das declarações referidas no artigo anterior dentro do prazo referido no artigo 12.º, § 2.º, fará incorrer o faltoso na multa de 1000$00 a 20000$00.
 
-###### Art. 68.º-B. A inobservância do disposto nos artigos 56.º-A e 56.º-B será punida com a multa de 500$00 a 20000$00 por cada pessoa ou titular em relação aos quais se verifique a falta, salvo sendo a infracção cometida por funcionários públicos, aos quais será aplicável o disposto no artigo 70.º
+Art. 68.º-B. A inobservância do disposto nos artigos 56.º-A e 56.º-B será punida com a multa de 500$00 a 20000$00 por cada pessoa ou titular em relação aos quais se verifique a falta, salvo sendo a infracção cometida por funcionários públicos, aos quais será aplicável o disposto no artigo 70.º
 
-###### Art. 72.º-A. Pelas infracções referidas no artigo 64.º cometidas por ambos os cônjuges, quando a apresentação da declaração lhes pertença em conjunto, será aplicada apenas uma multa, por cujo pagamento responderão ambos solidariamente.
+Art. 72.º-A. Pelas infracções referidas no artigo 64.º cometidas por ambos os cônjuges, quando a apresentação da declaração lhes pertença em conjunto, será aplicada apenas uma multa, por cujo pagamento responderão ambos solidariamente.
 
-###### Art. 3.º O n.º 5 do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, passa a ter a seguinte redacção:
+Art. 3.º O n.º 5 do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, passa a ter a seguinte redacção:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 ...
 
 5 - Com excepção dos abonos previstos no n.º 2 do presente artigo, não beneficiam do regime estabelecido pelo artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, as importâncias que os servidores do Estado recebam pelo exercício de funções públicas, além do quantitativo correspondente ao vencimento de director-geral ou equiparado.
 
-###### Art. 4.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1979 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se nesse caso o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, excepto quanto ao desconto, que será de 1,75% multiplicado pelo número de meses, incluindo o do pagamento, que antecedem o mês em que a cobrança deveria ser efectuada de harmonia com os prazos fixados no artigo 50.º do Código.
+Art. 4.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1979 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se nesse caso o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, excepto quanto ao desconto, que será de 1,75% multiplicado pelo número de meses, incluindo o do pagamento, que antecedem o mês em que a cobrança deveria ser efectuada de harmonia com os prazos fixados no artigo 50.º do Código.
 
-###### Art. 5.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação e as suas disposições, salvo as do artigo 2.º, aplicam-se aos impostos respeitantes aos rendimentos dos anos de 1979 e seguintes e às obrigações com eles relacionadas.
+Art. 5.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação e as suas disposições, salvo as do artigo 2.º, aplicam-se aos impostos respeitantes aos rendimentos dos anos de 1979 e seguintes e às obrigações com eles relacionadas.
 
 2 - Os artigos 56.º-A e 56.º-B do Código, aditados pelo artigo 2.º do presente diploma, aplicam-se, respectivamente, a partir de 1980 e de 1981, inclusive.
 
 Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 9 de Junho de 1980.**
+Promulgado em 9 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

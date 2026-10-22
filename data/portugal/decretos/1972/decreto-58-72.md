@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/58-1972-399070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e12fa065d44e0c3c6be5e758b04d7d05b6aa78f4f1e38366e3d6a6926d239e74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 118c72633fe9c52572161d28709261720bff05df547957d7e641db0ff88e9fe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:45Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Tendo em conta o disposto no artigo 17.º do [Decreto-Lei n.º 28408](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. As alíneas a) e b) do corpo do artigo 61.º do [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, passam a ter a seguinte redacção:
+Artigo único. As alíneas a) e b) do corpo do artigo 61.º do [Decreto n.º 31873](https://diariodarepublica.pt/dr/detalhe/decreto/31873-1942-168826), de 27 de Janeiro de 1942, passam a ter a seguinte redacção:
 
 a) A fixada por despacho do Ministro da Marinha, com observância dos princípios estabelecidos no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, para as oficinas e para os serviços que tenham de funcionar paralelamente com estas;
 
@@ -98,8 +110,8 @@ b) A fixada na lei geral para o funcionalismo público, acrescida de uma hora, p
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 8 de Fevereiro de 1972.**
+Promulgado em 8 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

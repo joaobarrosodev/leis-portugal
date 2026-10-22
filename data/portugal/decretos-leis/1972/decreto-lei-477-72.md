@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/27600/17581770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1972-686576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1428f6cac741fd6799f8b56969d14b855269ac20891952b8c494f0f574684f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b45cd205f272bbc4499b26eb4537236df1bc00c119994e59ac31507d9b33342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:417817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:674838:por
+  label: Altera dos os arts. 7.º, 17.º e 42.º do Dec Lei 36977, de 20-jul de 1948, na redacção que lhe foi dada pelo art.
+    1.º do presente diploma, pelo(a) Decreto-Lei n.º 135/73 - Diário do Governo n.º 74/1973, Série I de 1973-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1973-674838
+  date: '1973-03-28'
+- type: amended_by
+  target: pt:dre:140292:por
+  label: "Inserido um novo grupo 2.2-A ao mapa I anexo pelo DR.19/77.09.03.1977.MTC, DR.IS [57] de 09.03.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-1977-140292
+  date: '1977-03-09'
+- type: amended_by
+  target: pt:dre:462421:por
+  label: "Tornada extensiva às comissões administrativas das juntas autónomas dos portos a competência prevista no parágrafo\
+    \ 2.º do artigo 55.º do Decreto-Lei 36977, de 20 de Julho de 1948, na redacção do presente diploma, pelo DEC LEI.505/80.20.10.1980.MTC,\
+    \ DR.IS [243] de 20.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/505-1980-462421
+  date: '1980-10-20'
+- type: amended_by
+  target: pt:dre:379161:por
+  label: "Alterada a al. e) do art. 4º do DL 36977, de 20-Jul 1948, na redacção dada pelo art. 1º do presente diploma, pelo\
+    \ DEC LEI.470/82.26.11.1982.MHOPT, DR.IS [287] de 14.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/470-1982-379161
+  date: '1982-11-26'
+- type: cites
+  target: pt:dre:163194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:311240:por
+  label: "Revogado o § 1º do art. 55º da orgânica da Administração Geral dos Portos do Douro e Leixões aprovada pelo Dec Lei\
+    \ 37977 de 20-Jul de 1948, com a redacção conferida no presente diploma, pelo DEC LEI.690/75.11.12.1975.MTC, DG.IS [285]\
+    \ de 11.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/690-1975-311240
+  date: '1975-12-11'
+- type: repealed_by
+  target: pt:dre:417817:por
+  label: Revogado, a partir de 01.09.1987, pelo DEC LEI.308/87.07.08.1987.MOPTC, DR.IS [180] de 07.08.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1987-417817
+  date: '1987-08-07'
 article_structure:
   article_count: 0
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:43Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +171,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 As disposições do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), de 20 de Julho de 1948, abaixo indicadas, passam a vigorar com a seguinte redacção, sendo a tabela apensa ao mesmo diploma substituída pelo mapa II anexo:
 
-###### Art. 2.º A área de jurisdição da Administração dos Portos do Douro e Leixões estende-se na faixa marginal do domínio público marítimo desde o enfiamento do eixo da Rua da Bélgica, na praia de Lavadores, até ao paralelo do farol da Boa Nova, ao norte do porto de Leixões, e compreende, além disso as duas zonas seguintes: zona do porto do Douro, que inclui a parte do rio Douro que vai de 200 m a montante da Ponte de D. Luís até à Foz, com as suas margens e todos os acostadouros, docas e terraplenos existentes ou que venham a ser construídos, e zona do porto de Leixões, abrangendo os quebra-mares, a área molhada por eles circunscrita e a das docas existentes ou a construir, e curso do rio Leça até à ponte Guifões, toda a área terrestre já hoje sob jurisdição da Administração, incluindo os terrenos do antigo ramal ferroviário de Leixões a S. Gens, e a que por lei for incluída no perímetro portuário do plano de expansão.
+Art. 2.º A área de jurisdição da Administração dos Portos do Douro e Leixões estende-se na faixa marginal do domínio público marítimo desde o enfiamento do eixo da Rua da Bélgica, na praia de Lavadores, até ao paralelo do farol da Boa Nova, ao norte do porto de Leixões, e compreende, além disso as duas zonas seguintes: zona do porto do Douro, que inclui a parte do rio Douro que vai de 200 m a montante da Ponte de D. Luís até à Foz, com as suas margens e todos os acostadouros, docas e terraplenos existentes ou que venham a ser construídos, e zona do porto de Leixões, abrangendo os quebra-mares, a área molhada por eles circunscrita e a das docas existentes ou a construir, e curso do rio Leça até à ponte Guifões, toda a área terrestre já hoje sob jurisdição da Administração, incluindo os terrenos do antigo ramal ferroviário de Leixões a S. Gens, e a que por lei for incluída no perímetro portuário do plano de expansão.
 
 ...
 
-###### Art. 4.º A Administração dos Portos do Douro e Leixões, dentro da sua área de jurisdição, tem competência para:
+Art. 4.º A Administração dos Portos do Douro e Leixões, dentro da sua área de jurisdição, tem competência para:
 
 ...
 
@@ -119,7 +189,7 @@ e) Determinar, depois de ouvido o infractor, a suspensão de operações, por pe
 
 § 4.º ...
 
-###### Art. 5.º Para assegurar o exercício das atribuições que lhe são confiadas fica a Administração dos Portos do Douro e Leixões autorizada a:
+Art. 5.º Para assegurar o exercício das atribuições que lhe são confiadas fica a Administração dos Portos do Douro e Leixões autorizada a:
 
 a) Executar, fora das horas normais, os trabalhos que, pela sua natureza ou pelas condições que os determinam, tenham de ser efectuados sem subordinação ao horário normal, designadamente os relativos a serviços de reboque, acostagem e desacostagem de navios, operações de carga e descarga, fornecimento a navios, de água, energia eléctrica, óleos, etc., abertura da ponte móvel, condução de passageiros, bagagens e malas postais, prevenção e socorros marítimos,
 
@@ -131,7 +201,7 @@ d) Fardar, à sua custa e segundo regras a estabelecer pelo Ministro das Comunic
 
 ...
 
-###### Art. 6.º A administração e a direcção dos portos do Douro e Leixões são exercidas através dos seguintes órgãos:
+Art. 6.º A administração e a direcção dos portos do Douro e Leixões são exercidas através dos seguintes órgãos:
 
 a) O conselho de administração;
 
@@ -141,13 +211,13 @@ c) Os administradores-delegados.
 
 Junto destes órgãos funcionam a comissão técnica e a junta consultiva.
 
-###### Art. 7.º O conselho de administração é constituído pelo presidente, por dois administradores-delegados e por mais dois administradores.
+Art. 7.º O conselho de administração é constituído pelo presidente, por dois administradores-delegados e por mais dois administradores.
 
 § 1.º Os membros do conselho de administração são de livre escolha do Ministro das Comunicações entre indivíduos de reconhecida idoneidade com habilitação superior adequada.
 
 § 2.º A nomeação do presidente e dos dois administradores-delegados será feita em regime de comissão de serviço por tempo indeterminado; a dos dois administradores será feita em regime de comissão de serviço por períodos de três anos, renováveis por decisão expressa do Ministro das Comunicações.
 
-**O Ministro poderá dar por findas as comissões a todo o tempo.**
+O Ministro poderá dar por findas as comissões a todo o tempo.
 
 § 3.º Quando as nomeações recaírem em funcionários dos quadros dos serviços do Estado ou das autarquias locais, inclusivamente da própria Administração, poderão esses funcionários regressar aos mesmos quadros se assim o requererem ou por decisão ministerial. Se, por qualquer circunstância, o regresso se não tornar logo efectivo, ser-lhes-ão abonados os vencimentos correspondentes a esses lugares por conta das disponibilidades das dotações de remunerações certas ao pessoal do quadro da Administração dos Portos do Douro e Leixões ou por verba especialmente inscrita.
 
@@ -165,7 +235,7 @@ As deliberações serão obrigatòriamente submetidas à aprovação do Ministro
 
 § 9.º As actas das reuniões, lavradas em impresso próprio, serão periòdicamente encadernadas em volume.
 
-###### Art. 8.º Compete ao conselho de administração superintender na administração portuária, e nomeadamente:
+Art. 8.º Compete ao conselho de administração superintender na administração portuária, e nomeadamente:
 
 1.º Apresentar directamente à apreciação do Governo, sem dependência das câmaras municipais, ouvida a comissão técnica, os planos de arranjo e de expansão dos portos a que se refere o [Decreto-Lei n.º 32842](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32842-1943-397098), de 11 de Junho de 1943, bem como as suas sucessivas actualizações;
 
@@ -219,7 +289,7 @@ b) ...
 
 § único ...
 
-###### Art. 9.º Compete ao presidente do conselho de administração:
+Art. 9.º Compete ao presidente do conselho de administração:
 
 1.º Coordenar, no plano executivo, a acção de todos os serviços dos portos, providenciando de forma que sejam observadas as disposições legais e regulamentares em vigor e que seja obtida a conveniente unidade administrativa e a maior eficiência, regularidade e rapidez desses serviços;
 
@@ -255,7 +325,7 @@ b) ...
 
 § 3.º O disposto no n.º 5.º não abrange a representação da Administração dos Portos do Douro e Leixões no Conselho Superior de Obras Públicas e Transportes, nem em outros casos em que essa representação esteja, ou venha a estar, regulada por disposições especiais.
 
-###### Art. 10.º Compete aos administradores:
+Art. 10.º Compete aos administradores:
 
 1.º Tomar parte nas sessões do conselho;
 
@@ -267,9 +337,9 @@ b) ...
 
 5.º Assistir às sessões da junta consultiva.
 
-###### Art. 11.º O conselho de administração definirá o âmbito da competência dos administradores-delegados em matéria executiva, com expressa referência dos serviços cuja superintendência fica confiada a cada um.
+Art. 11.º O conselho de administração definirá o âmbito da competência dos administradores-delegados em matéria executiva, com expressa referência dos serviços cuja superintendência fica confiada a cada um.
 
-###### Art. 12.º A junta consultiva dos portos do Douro e Leixões é constituída pelas seguintes entidades:
+Art. 12.º A junta consultiva dos portos do Douro e Leixões é constituída pelas seguintes entidades:
 
 a) Representantes das Câmaras Municipais do Porto, Gaia e Matosinhos;
 
@@ -309,7 +379,7 @@ p) Um representante da Direcção-Geral de Transportes Terrestres.
 
 § 3.º A constituição da junta consultiva pode ser alterada por portaria do Ministro das Comunicações.
 
-###### Art. 13.º Compete à junta consultiva:
+Art. 13.º Compete à junta consultiva:
 
 1.º ...
 
@@ -321,7 +391,7 @@ p) Um representante da Direcção-Geral de Transportes Terrestres.
 
 Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
-###### Art. 14.º A junta consultiva reúne obrigatòriamente, em sessão ordinária, nos meses de Dezembro e Junho, e extraordinàriamente sempre que o Ministro das Comunicações ou o seu presidente a convoque ou quando a maioria dos seus vogais o requeira.
+Art. 14.º A junta consultiva reúne obrigatòriamente, em sessão ordinária, nos meses de Dezembro e Junho, e extraordinàriamente sempre que o Ministro das Comunicações ou o seu presidente a convoque ou quando a maioria dos seus vogais o requeira.
 
 § 1.º ...
 
@@ -333,7 +403,7 @@ Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
 § 5.º A junta consultiva funciona nos termos estabelecidos na primeira parte do § 6.º do artigo 7.º, competindo ao director dos Serviços Administrativos e Financeiros secretariar as sessões da junta nos mesmos termos que para o conselho de administração estão previstos nos §§ 8.º e 9.º do referido artigo.
 
-###### Art. 15.º Aos administradores-delegados compete, na parte respectiva:
+Art. 15.º Aos administradores-delegados compete, na parte respectiva:
 
 1.º Orientar, coordenar e dirigir os serviços a seu cargo;
 
@@ -371,7 +441,7 @@ Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
 § 2.º Os administradores-delegados são equiparados a directores-gerais, designadamente para efeito de participação em sessões do Conselho Superior de Obras Públicas e Transportes.
 
-###### Art. 16.º As receitas da Administração dos Portos do Douro e Leixões são classificadas em ordinárias e extraordinárias:
+Art. 16.º As receitas da Administração dos Portos do Douro e Leixões são classificadas em ordinárias e extraordinárias:
 
 § 1.º Constituem receitas ordinárias:
 
@@ -383,7 +453,7 @@ Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
 ...
 
-###### Art. 17.º Para o pagamento das importâncias em dívida à Administração-Geral do Porto de Lisboa, qualquer que seja a sua proveniência ou forma de liquidação e cobrança, será de quinze dias, a contar da notificação ao devedor, o prazo de cobrança à boca do cofre.
+Art. 17.º Para o pagamento das importâncias em dívida à Administração-Geral do Porto de Lisboa, qualquer que seja a sua proveniência ou forma de liquidação e cobrança, será de quinze dias, a contar da notificação ao devedor, o prazo de cobrança à boca do cofre.
 
 § 1.º Ficarão sujeitas a juros de mora, nos termos do artigo 1.º do [Decreto-Lei n.º 49168](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49168-1969-198913), de 5 de Agosto de 1969, as importâncias de que trata o corpo deste artigo, quando pagas depois de decorrido o prazo a que ele se refere.
 
@@ -397,11 +467,11 @@ Das decisões do presidente cabe recurso para o Ministro das Comunicações.
 
 ...
 
-###### Art. 19.º Os fundos postos à disposição da Administração dos Portos do Douro e Leixões para satisfação de despesas serão depositados à ordem do conselho de administração na Caixa Geral de Depósitos, Crédito e Previdência e o seu levantamento far-se-á por meio de cheques passados a favor do tesoureiro e assinados pelo presidente do conselho de administração e pelo director dos Serviços Administrativos e Financeiros.
+Art. 19.º Os fundos postos à disposição da Administração dos Portos do Douro e Leixões para satisfação de despesas serão depositados à ordem do conselho de administração na Caixa Geral de Depósitos, Crédito e Previdência e o seu levantamento far-se-á por meio de cheques passados a favor do tesoureiro e assinados pelo presidente do conselho de administração e pelo director dos Serviços Administrativos e Financeiros.
 
 ...
 
-###### Art. 21.º No orçamento das despesas da Administração dos Portos do Douro e Leixões serão inscritas anualmente em rubricas especiais:
+Art. 21.º No orçamento das despesas da Administração dos Portos do Douro e Leixões serão inscritas anualmente em rubricas especiais:
 
 a) ...
 
@@ -419,19 +489,19 @@ Esses materiais e artigos serão classificados nas respectivas dotações orçam
 
 Mediante autorização do mesmo Ministro, poderá uma parte dessa reserva ser convertida em valores de fácil realização, do mesmo modo se procedendo em relação a possíveis excedentes.
 
-###### Art. 22.º As receitas da Administração dos Portos do Douro e Leixões referidas nos n.os 3.º, 4.º e 5.º do § 2.º do artigo 16.º, bem como Os saldos anuais de gerência, revertem para o fundo de melhoramentos.
+Art. 22.º As receitas da Administração dos Portos do Douro e Leixões referidas nos n.os 3.º, 4.º e 5.º do § 2.º do artigo 16.º, bem como Os saldos anuais de gerência, revertem para o fundo de melhoramentos.
 
 § único. As receitas extraordinárias descritas nos n.os 1.º e 2º do § 2.º do artigo 16.º constituirão a contrapartida das dotações inscritas no orçamento das despesas extraordinárias relativas aos encargos a cujo financiamento se destinam as referidas receitas extraordinárias.
 
 ...
 
-###### Art. 24.º Se no decurso do ano económico se reconhecer insuficiência nas verbas orçamentais para ocorrer à satisfação das correspondentes despesas, poderá o conselho de administração da Administração dos Portos do Douro e Leixões, na parte da despesa ordinária do seu orçamento privativo, autorizar transferências de rubrica para rubrica e de número para número dentro de cada artigo ou de artigo para artigo, quer dentro das despesas correntes, quer dentro das despesas de capital, e, bem assim, as que envolvam alterações nas dotações de despesas de anos findos e de restituições. As transferências de verbas da despesa ordinária entre despesas correntes e de capital e as alterações de redacção de rubricas que não constituam designações da classificação económica e seus desenvolvimentos tipificados poderão ser autorizadas pelo Ministro das Comunicações, com visto favorável do Ministro das Finanças, obtido por intermédio da Direcção-Geral da Contabilidade Pública, sendo dispensada em todas as alterações orçamentais de que trata este artigo a respectiva publicação no Diário do Governo.
+Art. 24.º Se no decurso do ano económico se reconhecer insuficiência nas verbas orçamentais para ocorrer à satisfação das correspondentes despesas, poderá o conselho de administração da Administração dos Portos do Douro e Leixões, na parte da despesa ordinária do seu orçamento privativo, autorizar transferências de rubrica para rubrica e de número para número dentro de cada artigo ou de artigo para artigo, quer dentro das despesas correntes, quer dentro das despesas de capital, e, bem assim, as que envolvam alterações nas dotações de despesas de anos findos e de restituições. As transferências de verbas da despesa ordinária entre despesas correntes e de capital e as alterações de redacção de rubricas que não constituam designações da classificação económica e seus desenvolvimentos tipificados poderão ser autorizadas pelo Ministro das Comunicações, com visto favorável do Ministro das Finanças, obtido por intermédio da Direcção-Geral da Contabilidade Pública, sendo dispensada em todas as alterações orçamentais de que trata este artigo a respectiva publicação no Diário do Governo.
 
 § único. As restantes alterações da despesa ordinária e as respeitantes a despesa extraordinária obedecerão ao preceituado na lei geral.
 
 ...
 
-###### Art. 26.º Ao cofre da tesouraria serão dados balanços mensais em dia incerto pelo administrador-delegado que tenha a seu cargo a superintendência dos serviços financeiros. Aos balanços assistirá o respectivo director de serviços e o chefe da divisão dos serviços financeiros.
+Art. 26.º Ao cofre da tesouraria serão dados balanços mensais em dia incerto pelo administrador-delegado que tenha a seu cargo a superintendência dos serviços financeiros. Aos balanços assistirá o respectivo director de serviços e o chefe da divisão dos serviços financeiros.
 
 § 1.º São obrigatórios os balanços de 14 de Fevereiro e de 31 de Dezembro de cada ano.
 
@@ -439,21 +509,21 @@ Mediante autorização do mesmo Ministro, poderá uma parte dessa reserva ser co
 
 § 3.º Além dos balanços a que se refere este artigo, poderá o presidente do conselho de administração, sempre que o julgue conveniente, mandar proceder a balanços à tesouraria e outras existências de valores em serviços na sua dependência.
 
-###### Art. 27.º Continua a constituir encargo da Administração dos Portos do Douro e Leixões o subsídio para a conservação do edifício da Bolsa, instituído pelo [Decreto n.º 12122](https://diariodarepublica.pt/dr/detalhe/decreto/12122-1926-163194), de 13 de Agosto de 1926, sendo o respectivo montante anual fixado pelo Ministro das Comunicações, sob proposta do conselho de administração.
+Art. 27.º Continua a constituir encargo da Administração dos Portos do Douro e Leixões o subsídio para a conservação do edifício da Bolsa, instituído pelo [Decreto n.º 12122](https://diariodarepublica.pt/dr/detalhe/decreto/12122-1926-163194), de 13 de Agosto de 1926, sendo o respectivo montante anual fixado pelo Ministro das Comunicações, sob proposta do conselho de administração.
 
-###### Art. 28.º Eliminado.
+Art. 28.º Eliminado.
 
-###### Art. 29.º A Administração dos Portos do Douro e Leixões disporá dos seguintes serviços técnicos e administrativos:
+Art. 29.º A Administração dos Portos do Douro e Leixões disporá dos seguintes serviços técnicos e administrativos:
 
 a) Gabinete de Estudos e Planeamento;
 
 b) Direcção dos Serviços Administrativos e Financeiros, compreendendo:
 
-##### Divisão de Secretariado;
+Divisão de Secretariado;
 
 ##### Divisão de Finanças;
 
-##### Divisão de Informática;
+Divisão de Informática;
 
 ##### Divisão de Pessoal;
 
@@ -463,9 +533,9 @@ Obras Sociais e Culturais.
 
 c) Direcção dos Serviços de Exploração, compreendendo:
 
-##### Divisão de Exploração Terrestre;
+Divisão de Exploração Terrestre;
 
-##### Divisão de Exploração Marítima;
+Divisão de Exploração Marítima;
 
 #### Secção de Expediente.
 
@@ -473,9 +543,9 @@ d) Direcção dos Serviços de Produção e Obras, compreendendo:
 
 ##### Divisão de Obras;
 
-##### Divisão de Electricidade e Mecânica;
+Divisão de Electricidade e Mecânica;
 
-##### Divisão de Abastecimento;
+Divisão de Abastecimento;
 
 #### Secção de Expediente.
 
@@ -487,7 +557,7 @@ e) Polícia da Administração dos Portas do Douro e Leixões.
 
 § 3.º A Polícia da Administração dos Portos do Douro e Leixões é comandada por um oficial do Exército.
 
-###### Art. 30.º O quadro do pessoal da Administração dos Portos do Douro e Leixões é o constante do mapa I anexo a este diploma e que dele faz parte integrante.
+Art. 30.º O quadro do pessoal da Administração dos Portos do Douro e Leixões é o constante do mapa I anexo a este diploma e que dele faz parte integrante.
 
 § 1.º Além dos vencimentos, o pessoal perceberá todos os demais abonos que estejam ou venham a ser estabelecidos, genèricamente, para os servidores civis do Estado.
 
@@ -495,25 +565,25 @@ e) Polícia da Administração dos Portas do Douro e Leixões.
 
 ...
 
-###### Art. 33.º O pessoal operário, marítimo e trabalhador que for necessário nas oficinas, nos trabalhos de obras novas e de conservação e nos restantes serviços da Administração dos Portos do Douro e Leixões será assalariado e abonado por força das verbas inscritas globalmente no seu orçamento privativo.
+Art. 33.º O pessoal operário, marítimo e trabalhador que for necessário nas oficinas, nos trabalhos de obras novas e de conservação e nos restantes serviços da Administração dos Portos do Douro e Leixões será assalariado e abonado por força das verbas inscritas globalmente no seu orçamento privativo.
 
 § 1.º Os salários deste pessoal serão fixados pelo Ministro das Comunicações, sob proposta da Administração dos Portos do Douro e Leixões, ouvida a Direcção-Geral do Trabalho e Corporações.
 
 § 2.º O assalariamento do pessoal marítimo sujeitar-se-á às normas em vigor nas Capitanias dos Portos do Douro e Leixões referentes ao pessoal da marinha mercante, sem prejuízo de quaisquer outras exigências reputadas convenientes.
 
-###### Art. 34.º O pessoal necessário aos serviços de policiamento e de investigação criminal na área dos portos do Douro e Leixões será fornecido pelos Ministérios do Interior, Justiça, Exército e Marinha, sendo remunerado, na situação de requisitado, pelas correspondentes verbas globais especialmente inscritas no orçamento para esse efeito.
+Art. 34.º O pessoal necessário aos serviços de policiamento e de investigação criminal na área dos portos do Douro e Leixões será fornecido pelos Ministérios do Interior, Justiça, Exército e Marinha, sendo remunerado, na situação de requisitado, pelas correspondentes verbas globais especialmente inscritas no orçamento para esse efeito.
 
-###### Art. 35.º A admissão de funcionários para o quadro do pessoal da Administração dos Portos do Douro e Leixões será sempre feita a título provisório. A entrada para os grupos do quadro far-se-á, mediante concurso, pela última classe ou categoria dos mesmos grupos.
+Art. 35.º A admissão de funcionários para o quadro do pessoal da Administração dos Portos do Douro e Leixões será sempre feita a título provisório. A entrada para os grupos do quadro far-se-á, mediante concurso, pela última classe ou categoria dos mesmos grupos.
 
 § único. Não é exigível concurso nos casos especialmente previstos no presente diploma nem na admissão para os grupos 2.6, 3.3 e 3.16.
 
 ...
 
-###### Art. 40.º Os funcionários dos grupos 2.1, 2.2, 2.5, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15 e 3.17 poderão ser promovidos às classes imediatamente superiores, mediante concurso documental, depois de três anos de bom e efectivo serviço prestado em cada classe.
+Art. 40.º Os funcionários dos grupos 2.1, 2.2, 2.5, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15 e 3.17 poderão ser promovidos às classes imediatamente superiores, mediante concurso documental, depois de três anos de bom e efectivo serviço prestado em cada classe.
 
 § único. Nos lugares a que correspondam, alternativamente, duas classes, os funcionários respectivos poderão também ser promovidos nas mesmas condições, mas, nesse caso, o concurso só será aberto após a emissão de parecer favorável da comissão técnica, que, para o efeito, apreciará os serviços por eles prestados.
 
-###### Art. 41.º Serão estabelecidas em regulamento as condições e normas de admissão e promoção do pessoal da Administração dos Portos do Douro e Leixões, tendo em consideração os princípios fixados nos artigos anteriores e nas alíneas seguintes:
+Art. 41.º Serão estabelecidas em regulamento as condições e normas de admissão e promoção do pessoal da Administração dos Portos do Douro e Leixões, tendo em consideração os princípios fixados nos artigos anteriores e nas alíneas seguintes:
 
 a) Para a admissão aos lugares abaixo designados são exigidas as seguintes habilitações mínimas ou outras que, para o efeito, sejam, nos termos de legislação vigente, consideradas equivalentes:
 
@@ -571,7 +641,7 @@ j) Os concursos de admissão e de promoção serão válidos, respectivamente, d
 
 k) Os funcionários de qualquer dos grupos que tenham ingressado nos quadros sem as habilitações legalmente exigíveis poderão ter acesso até ao vencimento da letra N dentro das respectivas carreiras profissionais e afins, desde que possuam a habilitação do ciclo preparatório do ensino secundário ou equivalente e tenham, pelo menos, seis anos de bom e efectivo serviço na respectiva categoria.
 
-###### Art. 42.º São preenchidos por escolha os seguintes lugares:
+Art. 42.º São preenchidos por escolha os seguintes lugares:
 
 a) Membros do conselho de administração - conforme o disposto no § 1.º do artigo 7.º;
 
@@ -593,43 +663,43 @@ i) Contínuos de 2.ª classe: de preferência entre pessoal da Administração d
 
 § 1.º A determinação doe cursos adequados ao provimento dos lugares especificados nas alíneas do corpo deste artigo, quando não conste das próprias alíneas, será feita pelo presidente do conselho de administração, ouvida a comissão técnica.
 
-###### Art. 43.º A nomeação e promoção do pessoal dos quadros compete ao Ministro das Comunicações, que poderá delegar no presidente do conselho de administração a competência para nomear e promover os funcionários não compreendidos nas alíneas a) a f) do artigo anterior.
+Art. 43.º A nomeação e promoção do pessoal dos quadros compete ao Ministro das Comunicações, que poderá delegar no presidente do conselho de administração a competência para nomear e promover os funcionários não compreendidos nas alíneas a) a f) do artigo anterior.
 
 § 1.º A admissão do pessoal referido no artigo 31.º depende de autorização do Ministro das Comunicações, que a poderá conceder, inclusivamente, em despacho de aplicação permanente ou com validade por período determinado.
 
 § 2.º O pessoal das diferentes categorias, incluindo os directores de serviços, será, pelo presidente do conselho de administração, livremente colocado e transferido entre os serviços, atentas as conveniências funcionais e, sempre que possível, as habilitações exigidas neste decreto-lei.
 
-###### Art. 44.º Sem prejuízo das disposições relativas à forma de provimento dos lugares de categoria igual ou inferior à letra S, poderão os funcionários, mediante parecer favorável da comissão técnica, ser definitivamente providos nos lugares que exerçam quando tiverem três anos de bom e efectivo serviço prestado nesses mesmos lugares ou noutros que, para o efeito, sejam considerados semelhantes pela mesma comissão.
+Art. 44.º Sem prejuízo das disposições relativas à forma de provimento dos lugares de categoria igual ou inferior à letra S, poderão os funcionários, mediante parecer favorável da comissão técnica, ser definitivamente providos nos lugares que exerçam quando tiverem três anos de bom e efectivo serviço prestado nesses mesmos lugares ou noutros que, para o efeito, sejam considerados semelhantes pela mesma comissão.
 
 O pessoal dirigente, com excepção daquele cuja nomeação seja feita em comissão de serviço, poderá ser provido definitivamente depois de um ano de bom e efectivo serviço nos respectivos lugares, qualquer que tenha sido a forma do seu provimento.
 
-###### Art. 45.º Compete ao Ministro das Comunicações impor a demissão aos funcionários da Administração dos Portos do Douro e Leixões e conceder a exoneração aos referidos no artigo 42.º do presente diploma;
+Art. 45.º Compete ao Ministro das Comunicações impor a demissão aos funcionários da Administração dos Portos do Douro e Leixões e conceder a exoneração aos referidos no artigo 42.º do presente diploma;
 
 a exoneração dos restantes funcionários é da competência do conselho de administração.
 
 ...
 
-###### Art. 47.º A chefia de secções ou outras subdivisões por funcionários dos grupos 2.1, 2.2, 3.1, 3.10, 3.11, 3.12 e 3.15 não determina abertura de vaga nos referidos grupos aos quais aqueles funcionários continuam a pertencer.
+Art. 47.º A chefia de secções ou outras subdivisões por funcionários dos grupos 2.1, 2.2, 3.1, 3.10, 3.11, 3.12 e 3.15 não determina abertura de vaga nos referidos grupos aos quais aqueles funcionários continuam a pertencer.
 
 ...
 
-###### Art. 50.º O Ministro das Comunicações poderá delegar no conselho de administração ou no seu presidente as atribuições que por lei lhe são conferidas e para as quais não está prevista, expressamente, essa faculdade.
+Art. 50.º O Ministro das Comunicações poderá delegar no conselho de administração ou no seu presidente as atribuições que por lei lhe são conferidas e para as quais não está prevista, expressamente, essa faculdade.
 
-**O presidente do conselho de administração poderá também delegar nos administradores a prática de actos determinados.**
+O presidente do conselho de administração poderá também delegar nos administradores a prática de actos determinados.
 
 § único. Os despachos indicarão, em cada caso, a possibilidade ou não de subdelegação e em que termos.
 
-###### Art. 51.º O presidente do conselho de administração é substituído, nas suas faltas ou impedimento, pelo administrador-delegado que o Ministro das Comunicações designar e, na falta ou impedimento deste, pelo outro administrador-delegado.
+Art. 51.º O presidente do conselho de administração é substituído, nas suas faltas ou impedimento, pelo administrador-delegado que o Ministro das Comunicações designar e, na falta ou impedimento deste, pelo outro administrador-delegado.
 
-###### Art. 52.º Os administradores-delegados poderão delegar nos directores de serviços e noutros funcionários de sua directa dependência, mediante prévia autorização do presidente do conselho de administração, as atribuições que por lei lhes são conferidas e outras para as quais não esteja prevista, expressamente, essa faculdade; os directores de serviços e os chefes de divisão poderão delegar em funcionários da sua directa dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização dos administradores-delegados.
+Art. 52.º Os administradores-delegados poderão delegar nos directores de serviços e noutros funcionários de sua directa dependência, mediante prévia autorização do presidente do conselho de administração, as atribuições que por lei lhes são conferidas e outras para as quais não esteja prevista, expressamente, essa faculdade; os directores de serviços e os chefes de divisão poderão delegar em funcionários da sua directa dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização dos administradores-delegados.
 
-###### Art. 53.º Os administradores-delegados são substituídos, nas faltas e impedimentos, pelos directores de serviços da sua directa dependência que para esse fim forem designados pelo presidente do conselho de administração.
+Art. 53.º Os administradores-delegados são substituídos, nas faltas e impedimentos, pelos directores de serviços da sua directa dependência que para esse fim forem designados pelo presidente do conselho de administração.
 
 A substituição abrange apenas as atribuições de carácter executivo, mas os substitutos, quando em exercício, deverão assistir, embora sem direito a voto, às sessões que se realizarem tanto do conselho de administração como da junta consultiva.
 
-###### Art. 54.º Os funcionários que exerçam funções de direcção ou de chefia serão substituídos, nas suas faltas ou impedimentos, pelos funcionários da mesma categoria ou das imediatamente inferiores que os administradores-delegados designarem.
+Art. 54.º Os funcionários que exerçam funções de direcção ou de chefia serão substituídos, nas suas faltas ou impedimentos, pelos funcionários da mesma categoria ou das imediatamente inferiores que os administradores-delegados designarem.
 
-###### Art. 55.º O trabalho normal do pessoal da Administração dos Portos do Douro e Leixões terá a seguinte duração:
+Art. 55.º O trabalho normal do pessoal da Administração dos Portos do Douro e Leixões terá a seguinte duração:
 
 a) Nos serviços de natureza administrativa: trinta e seis horas por semana;
 
@@ -641,7 +711,7 @@ b) Nos serviços técnicos: conforme a sua natureza, de trinta e seis a quarenta
 
 estes intervalos não serão contados, em caso algum, como tempo de trabalho útil.
 
-###### Art. 57.º O pessoal da Administração dos Portos do Douro e Leixões, além das remunerações certas e das especiais genèricamente atribuídas aos servidores do Estado, tem direito, nos termos do presente diploma, aos seguintes abonos:
+Art. 57.º O pessoal da Administração dos Portos do Douro e Leixões, além das remunerações certas e das especiais genèricamente atribuídas aos servidores do Estado, tem direito, nos termos do presente diploma, aos seguintes abonos:
 
 a) Gratificações especiais;
 
@@ -657,13 +727,13 @@ f) Gratificações por serviços marítimos de assistência ou de salvamento.
 
 § único. O abono por prestação de trabalho nocturno é acumulável com o de trabalho extraordinário.
 
-###### Art. 58.º As gratificações especiais destinam-se a distinguir certas funções ou cargos da Administração dos Portos do Douro e Leixões e são as constantes da tabela I anexa ao presente decreto-lei e que dele faz parte integrante.
+Art. 58.º As gratificações especiais destinam-se a distinguir certas funções ou cargos da Administração dos Portos do Douro e Leixões e são as constantes da tabela I anexa ao presente decreto-lei e que dele faz parte integrante.
 
 Mediante despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças, poderão ainda ser estabelecidas outras gratificações em atenção à natureza ou ao ónus especial de determinadas funções ou cargos.
 
 § único. As gratificações estabelecidas nos termos da segunda parte deste artigo consideram-se integradas na referida tabela I.
 
-###### Art. 59.º Será sempre remunerado o trabalho extraordinário do pessoal da Administração dos Portos do Douro e Leixões, seja qual for a natureza desse trabalho e o pessoal que tenha de o executar.
+Art. 59.º Será sempre remunerado o trabalho extraordinário do pessoal da Administração dos Portos do Douro e Leixões, seja qual for a natureza desse trabalho e o pessoal que tenha de o executar.
 
 § 1.º A prestação de trabalho extraordinário demanda autorização do administrador-delegado respectivo e a sua remuneração será calculada segundo valores a aprovar pelo Ministro das Comunicações, sob proposta da Administração dos Portos do Douro e Leixões, ouvida a Direcção-Geral do Trabalho e Corporações em relação ao pessoal de que trata o artigo 33.º
 
@@ -673,11 +743,11 @@ Mediante despacho do Ministro das Comunicações, com o acordo do Ministro das F
 
 § 4.º O recurso a trabalho extraordinário será regulado no sentido de uma prudente conciliação das conveniências do serviço com a capacidade de trabalho do pessoal.
 
-###### Art. 60.º O pessoal em qualquer situação, incluindo o destacado de outros serviços do Estado, que prestar serviço entre as O e as 8 horas tem direito a um abono horário por prestação de trabalho nocturno segundo tabela a aprovar por despacho do Ministro das Comunicações, sob proposta da Administração dos Portos do Douro e Leixões, ouvido o delegado do Instituto Nacional do Trabalho e Previdência quanto ao pessoal a que se refere o artigo 33.º
+Art. 60.º O pessoal em qualquer situação, incluindo o destacado de outros serviços do Estado, que prestar serviço entre as O e as 8 horas tem direito a um abono horário por prestação de trabalho nocturno segundo tabela a aprovar por despacho do Ministro das Comunicações, sob proposta da Administração dos Portos do Douro e Leixões, ouvido o delegado do Instituto Nacional do Trabalho e Previdência quanto ao pessoal a que se refere o artigo 33.º
 
-###### Art. 61.º A Administração dos Portos do Douro e Leixões poderá instituir, nas condições que forem estabelecidas pelo Ministro das Comunicações, sob proposta do conselho de administração, ouvida a comissão técnica, um sistema de prémios e outros estímulos com o intuito de fomentar a produtividade.
+Art. 61.º A Administração dos Portos do Douro e Leixões poderá instituir, nas condições que forem estabelecidas pelo Ministro das Comunicações, sob proposta do conselho de administração, ouvida a comissão técnica, um sistema de prémios e outros estímulos com o intuito de fomentar a produtividade.
 
-###### Art. 62.º Os tesoureiros terão direito aos seguintes abonos mensais para falhas:
+Art. 62.º Os tesoureiros terão direito aos seguintes abonos mensais para falhas:
 
 a) Tesoureiro de 1.ª classe ... 600$00
 
@@ -685,7 +755,7 @@ b)Tesoureiros de 2.ª e 3.ª classes ... 300$00
 
 ...
 
-###### Art. 66.º Os servidores da Administração dos Portos do Douro e Leixões têm as seguintes prerrogativas:
+Art. 66.º Os servidores da Administração dos Portos do Douro e Leixões têm as seguintes prerrogativas:
 
 1.º ...
 
@@ -703,7 +773,7 @@ b)Tesoureiros de 2.ª e 3.ª classes ... 300$00
 
 ...
 
-###### Art. 69.º A Administração dos Portos do Douro e Leixões, mediante prévia autorização do Ministro das Comunicações, poderá instituir obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter. A favor das mesmas obras e instituições reverterão:
+Art. 69.º A Administração dos Portos do Douro e Leixões, mediante prévia autorização do Ministro das Comunicações, poderá instituir obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter. A favor das mesmas obras e instituições reverterão:
 
 a) A verba que, para tal efeito, se inscrever no orçamento de despesa da Administração dos Portos do Douro e Leixões;
 
@@ -717,7 +787,7 @@ d) Os bens que lhes forem atribuídos pelo Estado ou por quaisquer outras entida
 
 ...
 
-###### Art. 71.º São aplicáveis as disposições legais reguladoras do preenchimento dos lugares de engenheiros inspectores superiores de obras públicas, de engenheiro inspector superior electrotécnico e de arquitectos inspectores superiores de obras públicas, do Conselho Superior de Obras Públicas e Transportes, aos funcionários seguintes do quadro da Administração dos Portos do Douro e Leixões:
+Art. 71.º São aplicáveis as disposições legais reguladoras do preenchimento dos lugares de engenheiros inspectores superiores de obras públicas, de engenheiro inspector superior electrotécnico e de arquitectos inspectores superiores de obras públicas, do Conselho Superior de Obras Públicas e Transportes, aos funcionários seguintes do quadro da Administração dos Portos do Douro e Leixões:
 
 a) Aos engenheiros civis com as categorias de director de serviços e chefe de divisão e aos engenheiros civis-chefes ou de 1.ª classe;
 
@@ -725,21 +795,21 @@ b) Aos engenheiros electrotécnicos com as categorias de director de serviços e
 
 c) Aos arquitectos com as categorias de director de serviços e arquitectos-chefes ou de 1.ª classe.
 
-###### Art. 72.º Os membros do conselho de administração têm direito às remunerações estabelecidas no presente diploma e aos demais abonos que estejam ou venham a ser estabelecidos para os servidores civis do Estado, podendo ao presidente e aos administradores-delegados ser também concedidos abonos para despesas de representação nos quantitativos definidos em despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças.
+Art. 72.º Os membros do conselho de administração têm direito às remunerações estabelecidas no presente diploma e aos demais abonos que estejam ou venham a ser estabelecidos para os servidores civis do Estado, podendo ao presidente e aos administradores-delegados ser também concedidos abonos para despesas de representação nos quantitativos definidos em despacho do Ministro das Comunicações, com o acordo do Ministro das Finanças.
 
 Nos mesmos termos serão estabelecidas as gratificações mensais a abonar aos representantes do Tribunal de Contas e da Direcção-Geral das Alfândegas junto do conselho de administração.
 
 ...
 
-###### Art. 77.º A Administração dos Portos do Douro e Leixões poderá, dentro dos limites da sua competência em matéria da respectiva autorização, efectuar despesas de representação, bem como, em circunstâncias especiais, suportar encargos da mesma natureza dos seus servidores.
+Art. 77.º A Administração dos Portos do Douro e Leixões poderá, dentro dos limites da sua competência em matéria da respectiva autorização, efectuar despesas de representação, bem como, em circunstâncias especiais, suportar encargos da mesma natureza dos seus servidores.
 
 As que excederem esses limites serão objecto de autorização da entidade competente.
 
-###### Art. 78.º A Administração dos Portos do Douro e Leixões poderá enviar servidores seus ao estrangeiro em missão especial de interesse para os portos do Douro e Leixões, podendo, também, fazer-se representar ou promover a participação de servidores seus em congressos, assembleias, reuniões, conferências e outros actos relacionados com o serviço ou com a acção a desenvolver pelo mesmos portos e que se realizem dentro do País ou fora dele.
+Art. 78.º A Administração dos Portos do Douro e Leixões poderá enviar servidores seus ao estrangeiro em missão especial de interesse para os portos do Douro e Leixões, podendo, também, fazer-se representar ou promover a participação de servidores seus em congressos, assembleias, reuniões, conferências e outros actos relacionados com o serviço ou com a acção a desenvolver pelo mesmos portos e que se realizem dentro do País ou fora dele.
 
 § único. Nos casos de deslocação de servidores da Administração dos Portos do Douro e Leixões ao estrangeiro é necessária a autorização do Ministro das Comunicações.
 
-###### Art. 79.º Os servidores que exerçam as funções de tesoureiros e outras que impliquem responsabilidade por valores à guarda não poderão entrar no exercício dessas funções sem terem prestado, por meio de seguro, hipoteca, penhor ou títulos nominativos, ao portador ou de cupão, de dívida pública ou depósito em dinheiro, as seguintes cauções, respectivamente:
+Art. 79.º Os servidores que exerçam as funções de tesoureiros e outras que impliquem responsabilidade por valores à guarda não poderão entrar no exercício dessas funções sem terem prestado, por meio de seguro, hipoteca, penhor ou títulos nominativos, ao portador ou de cupão, de dívida pública ou depósito em dinheiro, as seguintes cauções, respectivamente:
 
 Tesoureiro de 1.ª classe ... 30000$00
 
@@ -885,11 +955,11 @@ O presente diploma entrará em vigor no da 1 de Janeiro de 1973, podendo, todavi
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 20 de Novembro de 1972.**
+Promulgado em 20 de Novembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -897,7 +967,7 @@ MAPA I
 
 Pessoal e vencimentos da Administração dos Portos do Douro e Leixões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/27600/17581770.pdf))](https://files.diariodarepublica.pt/1s/1972/11/27600/17581770.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27600/17581770.pdf)
 
 MAPA II
 
@@ -917,4 +987,4 @@ Funcionários nas condições previstas no § 4.º do artigo 79.º ... 150$00
 
 (nota a) Consideram-se acrescentadas a esta tabela as gratificações estabelecidas nos termos da segunda parte do artigo 58.º
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

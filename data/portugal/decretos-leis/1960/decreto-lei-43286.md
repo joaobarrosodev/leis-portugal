@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/11/25500/23852386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43286-1960-514427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67824173e28a8d82b3905452f3046a79988f956decd8d54070b7802e1901537f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce1b9f40979ee95d7b7bb04475d78c8444c0c2d5b0052fab8546a84fae0ee4ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe de Delegação
+- Comissão Económica para a Europa
+- Comissão Técnica de Cooperação Económica Externa
+- Definição de Competências
+- Delegação Portuguesa
+- EFTA
+- GATT
+- Organismo Internacional
+- Recrutamento de Pessoal
+- Representação Portuguesa
+- Secretaria de Estado do Comércio
 relationships:
 - type: amended_by
   target: pt:dre:516064:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:247420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516064:por
+  label: "Revogado, a partir de 02.05.1962, pelo DEC LEI.44301.27.04.1962.PC, DG.IS [95] de 27.04.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44301-1962-516064
+  date: '1962-04-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:11Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +132,23 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A representação de Portugal na Associação Europeia de Comércio Livre (A. E. C. L.), na Organização Europeia de Cooperação Económica (O. E. C. E.) ou na organização que substituir esta, no Acordo Geral sobre Tarifas e Comércio (G. A. T. T.), na Administração de Cooperação Internacional (I. C. A.) e na Comissão Económica para a Europa (C. E. E.), bem como em organismos internacionais relacionados com os anteriores ou outros que vierem a ser especialmente designados pelo Governo, será assegurada por delegações permanentes ou eventuais junto dos mesmos organismos, as quais dependerão da Secretaria de Estado do Comércio, nos termos deste decreto-lei.
+Artigo 1.º A representação de Portugal na Associação Europeia de Comércio Livre (A. E. C. L.), na Organização Europeia de Cooperação Económica (O. E. C. E.) ou na organização que substituir esta, no Acordo Geral sobre Tarifas e Comércio (G. A. T. T.), na Administração de Cooperação Internacional (I. C. A.) e na Comissão Económica para a Europa (C. E. E.), bem como em organismos internacionais relacionados com os anteriores ou outros que vierem a ser especialmente designados pelo Governo, será assegurada por delegações permanentes ou eventuais junto dos mesmos organismos, as quais dependerão da Secretaria de Estado do Comércio, nos termos deste decreto-lei.
 
 § único. As delegações permanentes ou eventuais mencionadas no presente artigo terão a organização e a competência que lhes forem fixadas pelo Secretário de Estado do Comércio, ouvidos os Ministros interessados, e as suas despesas serão satisfeitas por conta da verba global anualmente consignada no orçamento do Ministério da Economia à Comissão Técnica de Cooperação Económica Externa.
 
-###### Art. 2.º A Comissão Técnica de Cooperação Económica Externa compete assegurar as relações entre a Secretaria de Estado do Comércio e as delegações permanentes ou eventuais referidas no artigo 1.º, prestando-lhes toda a assistência técnica ou outra de que elas careçam.Art. 3.º Às delegações permanentes ou eventuais junto dos organismos internacionais referidos no artigo 1.º compete especialmente assegurar a representação de Portugal nos respectivos organismos internacionais e a participação nos trabalhos dos mesmos organismos de delegados portugueses nomeados pelo Secretário de Estado do Comércio e, bem assim, formular as propostas que julguem adequadas ao bom desempenho da missão de representação que lhes incumbe.
+Art. 2.º A Comissão Técnica de Cooperação Económica Externa compete assegurar as relações entre a Secretaria de Estado do Comércio e as delegações permanentes ou eventuais referidas no artigo 1.º, prestando-lhes toda a assistência técnica ou outra de que elas careçam.Art. 3.º Às delegações permanentes ou eventuais junto dos organismos internacionais referidos no artigo 1.º compete especialmente assegurar a representação de Portugal nos respectivos organismos internacionais e a participação nos trabalhos dos mesmos organismos de delegados portugueses nomeados pelo Secretário de Estado do Comércio e, bem assim, formular as propostas que julguem adequadas ao bom desempenho da missão de representação que lhes incumbe.
 
-###### Art. 4.º Terão assento e voto na Comissão Técnica de Cooperação Económica Externa, como se fossem vogais, mas sem direito a qualquer remuneração, os chefes das delegações permanentes ou eventuais referidas no artigo 1.º quando eventualmente se encontrem em Lisboa ou o Secretário de Estado do Comércio entenda dever chamá-los em serviço.
+Art. 4.º Terão assento e voto na Comissão Técnica de Cooperação Económica Externa, como se fossem vogais, mas sem direito a qualquer remuneração, os chefes das delegações permanentes ou eventuais referidas no artigo 1.º quando eventualmente se encontrem em Lisboa ou o Secretário de Estado do Comércio entenda dever chamá-los em serviço.
 
-###### Art. 5.º As delegações permanentes ou eventuais mencionadas no artigo 1.º serão chefiadas pelo representante que o Governo acreditar junto do respectivo organismo internacional e serão constituídas por peritos contratados ou requisitados a serviços do Estado pela Comissão Técnica de Cooperação Económica Externa ou, em casos especiais, solicitados por esta a outras entidades, assistidos pelo pessoal da Secretaria que for julgado necessário ao serviço das mesmas delegações.
+Art. 5.º As delegações permanentes ou eventuais mencionadas no artigo 1.º serão chefiadas pelo representante que o Governo acreditar junto do respectivo organismo internacional e serão constituídas por peritos contratados ou requisitados a serviços do Estado pela Comissão Técnica de Cooperação Económica Externa ou, em casos especiais, solicitados por esta a outras entidades, assistidos pelo pessoal da Secretaria que for julgado necessário ao serviço das mesmas delegações.
 
 § 1.º Sem prejuízo do disposto no corpo deste artigo, poderão prestar serviço numa das mencionadas delegações permanentes ou eventuais um ou mais funcionários do Ministério dos Negócios Estrangeiros quando para esse efeito sejam solicitados pelo Secretário de Estado do Comércio e designados pelo dito Ministério, mas os funcionários diplomáticos assim destacados serão remunerados pela Comissão, sendo-lhes aplicável o disposto no artigo 4.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.
 
 § 2.º Os encargos resultantes da execução do corpo deste artigo e do parágrafo anterior deverão limitar-se às possibilidades da dotação global a que se refere o § único do artigo 1.º
 
-###### Art. 6.º O chefe de uma delegação permanente ou eventual das abrangidas pelo artigo 1.º poderá ser encarregado de prestar assistência ao Secretário de Estado do Comércio ou de o representar em quaisquer negociações de natureza económica que a esse membro do Governo hajam sido confiadas e digam ou não respeito aos organismos internacionais indicados no sobredito artigo 1.º
+Art. 6.º O chefe de uma delegação permanente ou eventual das abrangidas pelo artigo 1.º poderá ser encarregado de prestar assistência ao Secretário de Estado do Comércio ou de o representar em quaisquer negociações de natureza económica que a esse membro do Governo hajam sido confiadas e digam ou não respeito aos organismos internacionais indicados no sobredito artigo 1.º
 
-###### Art. 7.º Aos representantes de Portugal acreditados nos organismos internacionais referidos no artigo 1.º, que são, simultâneamente, os chefes das delegações permanentes ou eventuais constituídas junto dos mesmos organismos internacionais, compete, além da eventual assistência ou representação prevista pelo artigo 6.º:
+Art. 7.º Aos representantes de Portugal acreditados nos organismos internacionais referidos no artigo 1.º, que são, simultâneamente, os chefes das delegações permanentes ou eventuais constituídas junto dos mesmos organismos internacionais, compete, além da eventual assistência ou representação prevista pelo artigo 6.º:
 
 1.º Representar Portugal junto dos sobreditos organismos internacionais sempre que essa representação não seja exercida por um membro do Governo;
 
@@ -126,16 +162,16 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º O chefe de uma delegação permanente ou eventual poderá designar para o substituir nos seus impedimentos, salvo o caso de instruções especiais do Secretário de Estado do Comércio, um dos funcionários em serviço na respectiva delegação.
 
-###### Art. 8.º O representante de Portugal na A. E. C. L. e chefe da delegação permanente junto da mesma Associação será um embaixador ou um ministro plenipotenciário de 1.ª classe destacado do quadro do Ministério dos Negócios Estrangeiros.
+Art. 8.º O representante de Portugal na A. E. C. L. e chefe da delegação permanente junto da mesma Associação será um embaixador ou um ministro plenipotenciário de 1.ª classe destacado do quadro do Ministério dos Negócios Estrangeiros.
 
 § 1.º Quando o funcionário destacado nos termos deste artigo tiver a categoria de ministro plenipotenciário de 1.ª classe, ser-lhe-á aplicável o disposto no artigo 1.º do [Decreto-Lei n.º 40403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40403-1955-247420), de 24 de Novembro de 1955.
 
 § 2.º O Governo poderá decidir, por portaria expedida pelo Ministério dos Negócios Estrangeiros e Secretaria de Estado do Comércio, que a representação de Portugal na A. E. C. L. e a chefia da respectiva delegação permanente sejam exercidas, em acumulação de funções, pelo embaixador em Berna.
 
-###### Art. 9.º O representante de Portugal na O. E. C. E. e chefe da delegação permanente junto da mesma Organização é um ministro plenipotenciário de 2.ª classe destacado do quadro do Ministério dos Negócios Estrangeiros, nos termos do artigo 12.º do [Decreto-Lei n.º 38316](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38316-1951-583637), de 25 de Junho de 1951.
+Art. 9.º O representante de Portugal na O. E. C. E. e chefe da delegação permanente junto da mesma Organização é um ministro plenipotenciário de 2.ª classe destacado do quadro do Ministério dos Negócios Estrangeiros, nos termos do artigo 12.º do [Decreto-Lei n.º 38316](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38316-1951-583637), de 25 de Junho de 1951.
 
 § único. Ao funcionário destacado nos termos referidos neste artigo será aplicável o disposto no artigo 2.º do [Decreto-Lei n.º 41165](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41165-1957-278235), de 25 de Junho de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

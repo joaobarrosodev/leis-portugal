@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46256-1965-238644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecb8d3a748f2e1582b04b29471720fcfc8329967e23c25efb661b31abaed8a48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23ea8dc51f141ce6b451acfe4d0772d02a8f0dc85e7e67e1ff0556c6c26c70e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciamento
+- Taxa
+- Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:393780:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:539211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679236:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393780:por
+  label: "Revogado pelo DEC LEI.513-D/79.1979.12.24.PCM, DR.IS [295]3ºSupl, com excepção do art 6º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-d-1979-393780
+  date: '1979-12-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:38Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +120,11 @@ Nestes termos, e tendo em atenção que um novo regime de condicionamento exige 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Até à publicação do novo regime sobre o condicionamento do plantio da vinha fica suspensa a concessão de autorizações ao abrigo das alíneas a), b), c), d) e e) do artigo 4.º do [Decreto-Lei n.º 38525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38525-1951-593354), de 23 de Novembro de 1951.
+Artigo 1.º Até à publicação do novo regime sobre o condicionamento do plantio da vinha fica suspensa a concessão de autorizações ao abrigo das alíneas a), b), c), d) e e) do artigo 4.º do [Decreto-Lei n.º 38525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38525-1951-593354), de 23 de Novembro de 1951.
 
-###### Art. 2.º As plantações destinadas a ensaios ou estudos de interesse para a viticultura, que a Direcção-Geral dos Serviços Agrícolas tenha necessidade de realizar em propriedades do Estado que não estejam afectas aos serviços seus dependentes ou a escolas oficiais, ou em propriedades particulares, carecem de autorização ministerial, sob proposta dos serviços.
+Art. 2.º As plantações destinadas a ensaios ou estudos de interesse para a viticultura, que a Direcção-Geral dos Serviços Agrícolas tenha necessidade de realizar em propriedades do Estado que não estejam afectas aos serviços seus dependentes ou a escolas oficiais, ou em propriedades particulares, carecem de autorização ministerial, sob proposta dos serviços.
 
-###### Art. 3.º A reconstituição e transferência de vinhas só pode ser autorizada, ouvida a Junta Nacional do Vinho, nas seguintes condições:
+Art. 3.º A reconstituição e transferência de vinhas só pode ser autorizada, ouvida a Junta Nacional do Vinho, nas seguintes condições:
 
 a) A área ocupada pela nova vinha não pode ser superior à que era ocupada pelo povoamento originário.
 
@@ -111,23 +136,23 @@ c) Os porta-enxertos e as castas a utilizar na enxertia terão de ser aprovados 
 
 § 2.º A reconstituição de vinhas só pode ser realizada passados três anos sobre o arrancamento do povoamento originário.
 
-###### Art. 4.º As taxas a pagar pelas licenças serão as seguintes:
+Art. 4.º As taxas a pagar pelas licenças serão as seguintes:
 
 a) $30 por cada pé de videira a plantar depois de concedida a licença.
 
 b) $60 por cada pé plantado antes dessa concessão e quando a licença tenha sido requerida.
 
-###### Art. 5.º Nos casos de transferência os povoamentos originários serão arrancados durante o terceiro ano, a contar da concessão da licença.
+Art. 5.º Nos casos de transferência os povoamentos originários serão arrancados durante o terceiro ano, a contar da concessão da licença.
 
-###### Art. 6.º As plantações efectuadas sem licença, com excepção das referidas na alínea b) do artigo 4.º, ficam sujeitas ao pagamento da taxa anual de 10$00 por cada pé, que é devida a partir da data em que se verificar a existência da plantação e independentemente da idade da vinha.
+Art. 6.º As plantações efectuadas sem licença, com excepção das referidas na alínea b) do artigo 4.º, ficam sujeitas ao pagamento da taxa anual de 10$00 por cada pé, que é devida a partir da data em que se verificar a existência da plantação e independentemente da idade da vinha.
 
-###### Art. 7.º Os viticultores podem requerer aos serviços a contagem e o registo do número de videiras que possuem, com vista a transferência ou reconstituição futura das suas vinhas, para o que no acto da entrega dos requerimentos deverão depositar a importância correspondente a 100$00 por cada milheiro, ou fracção, de videiras a registar.
+Art. 7.º Os viticultores podem requerer aos serviços a contagem e o registo do número de videiras que possuem, com vista a transferência ou reconstituição futura das suas vinhas, para o que no acto da entrega dos requerimentos deverão depositar a importância correspondente a 100$00 por cada milheiro, ou fracção, de videiras a registar.
 
 § 1.º No caso de a importância depositada ser inferior à que corresponde ao quantitativo cadastrado, ser-lhe-á exigida a parcela em falta.
 
 § 2.º Se o viticultor se negar a efectuar como lhe for indicado o pagamento da diferença referida na parte final do parágrafo anterior, proceder-se-á à cobrança pela forma estabelecida no artigo 27.º do [Decreto-Lei n.º 38525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38525-1951-593354).
 
-###### Art. 8.º A plantação de vinha para a produção da uva de mesa só pode ser autorizada nas regiões já tradicionalmente produtoras de uvas de qualidade e no Algarve, ouvida a Junta Nacional das Frutas.
+Art. 8.º A plantação de vinha para a produção da uva de mesa só pode ser autorizada nas regiões já tradicionalmente produtoras de uvas de qualidade e no Algarve, ouvida a Junta Nacional das Frutas.
 
 § 1.º Não é permitida a vinificação para consumo público a partir de uvas produzidas por vinhas cuja plantação tenha sido autorizada para a produção de uvas de mesa depois da publicação do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955.
 
@@ -139,9 +164,9 @@ b) $60 por cada pé plantado antes dessa concessão e quando a licença tenha si
 
 § 5.º As taxas a pagar pela concessão das licenças são as referidas no artigo 4.º do presente diploma.
 
-###### Art. 9.º Ficam revogadas as disposições que contrariem o estabelecido neste diploma, designadamente o disposto nas alíneas b) e c) do artigo 2.º do [Decreto-Lei n.º 38525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38525-1951-593354), de 23 de Novembro de 1951, nos n.os 1) e 2) do artigo 10.º e nas alíneas c) e d) do artigo 19.º do mesmo diploma, o artigo 3.º do [Decreto-Lei n.º 39823](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39823-1954-679236), de 18 de Setembro de 1954, o artigo 1.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, e o [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957.
+Art. 9.º Ficam revogadas as disposições que contrariem o estabelecido neste diploma, designadamente o disposto nas alíneas b) e c) do artigo 2.º do [Decreto-Lei n.º 38525](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38525-1951-593354), de 23 de Novembro de 1951, nos n.os 1) e 2) do artigo 10.º e nas alíneas c) e d) do artigo 19.º do mesmo diploma, o artigo 3.º do [Decreto-Lei n.º 39823](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39823-1954-679236), de 18 de Setembro de 1954, o artigo 1.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, e o [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.
 

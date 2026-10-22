@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/07/17300/09930994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1970-141245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89250995fdfaf881b28e6466bc5e77db594fdc79aac42950bee9c435f906210f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8ed0d37da20107c705de2059d3717a8864c3fffca2bea08177c545b48ad4cb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Faltas
+- Função Pública
+- Lista de Antiguidades
+- Metrópole
 relationships:
 - type: amended_by
   target: pt:dre:401756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401756:por
+  label: "Revogado pelo DEC LEI.497/88.1988.12.30.MF, DR.IS [301]7ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1988-401756
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:25Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +122,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As direcções-gerais dos Ministérios, os serviços equiparados e os organismos autónomos, com sede na metrópole ou que tenham carácter nacional, organizarão em cada ano listas de antiguidade do pessoal civil dos respectivos quadros, com referência a 31 de Dezembro do ano anterior.
+Artigo 1.º - 1. As direcções-gerais dos Ministérios, os serviços equiparados e os organismos autónomos, com sede na metrópole ou que tenham carácter nacional, organizarão em cada ano listas de antiguidade do pessoal civil dos respectivos quadros, com referência a 31 de Dezembro do ano anterior.
 
 2. As listas de antiguidade ordenarão o pessoal pelas diversas categorias e classes, e, dentro delas, segundo a respectiva antiguidade, devendo conter ainda as seguintes indicações:
 
@@ -121,47 +134,47 @@ c) Tempo contado para antiguidade, na categoria ou classe, referido a anos, mese
 
 3. As listas serão acompanhadas das observações que se mostrem necessárias à boa compreensão do seu conteúdo ou ao esclarecimento da situação dos servidores por elas abrangidos.
 
-###### Art. 2.º - 1. Aprovadas as listas pelos dirigentes dos serviços, serão as mesmas distribuídas, por cópias autenticadas, pelos diversos organismos dos serviços, de forma a possibilitar-se a sua fácil consulta pelo respectivo pessoal.
+Art. 2.º - 1. Aprovadas as listas pelos dirigentes dos serviços, serão as mesmas distribuídas, por cópias autenticadas, pelos diversos organismos dos serviços, de forma a possibilitar-se a sua fácil consulta pelo respectivo pessoal.
 
 2. A distribuição poderá ser substituída pela inclusão das listas em publicação oficial dos respectivos serviços.
 
 3. Efectuada a distribuição ou publicação das listas, será feito o correspondente aviso, que deverá ser publicado no Diário do Governo até 31 de Março.
 
-###### Art. 3.º - 1. Da organização das listas cabe reclamação, a deduzir no prazo de trinta dias, a contar da data da publicação do aviso a que se refere o n.º 3 do artigo anterior.
+Art. 3.º - 1. Da organização das listas cabe reclamação, a deduzir no prazo de trinta dias, a contar da data da publicação do aviso a que se refere o n.º 3 do artigo anterior.
 
 2. A reclamação pode ter por fundamento omissão, indevida graduação eu situação na lista ou erro na contagem do tempo de serviço.
 
 3. A reclamação não pode fundamentar-se em contagem de tempo de serviço ou em outras circunstâncias que tenham sido consideradas em listas anteriores.
 
-###### Art. 4.º - 1. Apresentada a reclamação, serão notificados os que possam ser prejudicados pelo seu deferimento, para, no prazo de trinta dias, deduzir oposição ao pedido.
+Art. 4.º - 1. Apresentada a reclamação, serão notificados os que possam ser prejudicados pelo seu deferimento, para, no prazo de trinta dias, deduzir oposição ao pedido.
 
 2. A notificação poderá ser feita por auto, por ofício expedido com aviso de recepção ou por aviso publicado no Diário do Governo, em que se indiquem o reclamante e a respectiva pretensão e se convidem os interessados a deduzir oposição.
 
 3. Quaisquer interessados poderão tomar conhecimento dos termos da reclamação, nos serviços, durante o prazo concedido para a oposição.
 
-###### Art. 5.º - 1. As reclamações serão decididas pelo dirigente dos serviços, depois de obtidos os necessários esclarecimentos e prestadas as convenientes informações.
+Art. 5.º - 1. As reclamações serão decididas pelo dirigente dos serviços, depois de obtidos os necessários esclarecimentos e prestadas as convenientes informações.
 
 2. As decisões serão notificadas ao reclamante e aos interessados que tenham formulado oposição, sendo aplicável a esta notificação o disposto no n.º 2 do artigo anterior.
 
-###### Art. 6.º - 1. Das decisões sobre reclamações cabe recurso para o Ministro, a interpor no prazo de trinta dias, a contar da notificação.
+Art. 6.º - 1. Das decisões sobre reclamações cabe recurso para o Ministro, a interpor no prazo de trinta dias, a contar da notificação.
 
 2. Interposto recurso, observar-se-á, com as devidas adaptações, o disposto no artigo 4.º
 
 3. A decisão do recurso será notificada ao recorrente e aos interessados que tenham formulado oposição, com observância do disposto no n.º 2 do artigo 4.º
 
-###### Art. 7.º Os prazos estabelecidos no n.º 1 do artigo 3.º, no n.º 1 do artigo 4.º e no n.º 1 do artigo 6.º são fixados em sessenta e cento e vinte dias para o pessoal que preste serviço, respectivamente, nas ilhas adjacentes e nas províncias ultramarinas ou no estrangeiro.
+Art. 7.º Os prazos estabelecidos no n.º 1 do artigo 3.º, no n.º 1 do artigo 4.º e no n.º 1 do artigo 6.º são fixados em sessenta e cento e vinte dias para o pessoal que preste serviço, respectivamente, nas ilhas adjacentes e nas províncias ultramarinas ou no estrangeiro.
 
-###### Art. 8.º - 1. Os serviços que não tenham publicado listas de antiguidades relativas a anos anteriores a 1969 poderão deixar de as distribuir ou publicar, admitindo-se reclamações, nesse caso, à lista de 1969, com fundamento em contagem de tempo ou outras circunstâncias consideradas nas listas não publicadas ou distribuídas.
+Art. 8.º - 1. Os serviços que não tenham publicado listas de antiguidades relativas a anos anteriores a 1969 poderão deixar de as distribuir ou publicar, admitindo-se reclamações, nesse caso, à lista de 1969, com fundamento em contagem de tempo ou outras circunstâncias consideradas nas listas não publicadas ou distribuídas.
 
 2. As listas de 1969, ainda não publicadas, deverão ser distribuídas ou dadas à publicidade, nos termos do presente diploma, dentro do prazo de sessenta dias a contar da sua vigência.
 
-###### Art. 9.º Fica revogado o corpo do artigo 26.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
+Art. 9.º Fica revogado o corpo do artigo 26.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 17 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 17 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Julho de 1970. - MARCELLO CAETANO.
 

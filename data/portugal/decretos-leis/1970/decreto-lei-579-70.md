@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/579-1970-146736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e234c788c0ba175ef2f8ed558eeaea943d0b4f147f115c57b64ffa0e8753318f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90dd1eac00b1c0b8e5af1fec33520b5de1ef8fc2631be8b200d84d8e2e8909b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Contribuição Industrial
+- Dupla Tributação
+- Evasão Fiscal
+- Imposto sobre o Rendimento
+- Metrópole
+- Pessoa Coletiva
+- Pessoa Singular
+- Profissão Independente
+- Propriedade Industrial
+- Regime Fiscal
+- Sociedade Comercial
+- Títulos de Crédito
+- Transmissão da Propriedade
+- Transmissão de Títulos
+- Tributação
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:43Z'
   warnings: []
   errors: []
 ---
@@ -107,25 +128,25 @@ Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do art
 
 ## TÍTULO I — Finalidade e âmbito do diploma
 
-###### Artigo 1.º - 1. As medidas instituídas pelo presente diploma têm por fim evitar conflitos de tributação emergentes da pluralidade de espaços fiscais portugueses.
+Artigo 1.º - 1. As medidas instituídas pelo presente diploma têm por fim evitar conflitos de tributação emergentes da pluralidade de espaços fiscais portugueses.
 
 2. Para os efeitos deste decreto-lei, a expressão «espaço fiscal» é sinónima de «território» e refere-se indistintamente ao território português europeu ou ao território de qualquer província ultramarina portuguesa.
 
-###### Art. 2.º As normas de conflitos constantes do título II delimitam a incidência de todos os impostos abrangidos por alguma das categorias nelas contempladas, que existam ou venham a existir em qualquer espaço fiscal, independentemente das designações que lhe sejam atribuídas.
+Art. 2.º As normas de conflitos constantes do título II delimitam a incidência de todos os impostos abrangidos por alguma das categorias nelas contempladas, que existam ou venham a existir em qualquer espaço fiscal, independentemente das designações que lhe sejam atribuídas.
 
 ## TÍTULO II — Normas de conflitos relativas aos vários impostos
 
 ### CAPÍTULO I — Disposições comuns a diversas normas
 
-###### Art. 3.º As disposições dos artigos seguintes aplicam-se tanto às pessoas singulares como às pessoas colectivas, salva indicação expressa em contrário.
+Art. 3.º As disposições dos artigos seguintes aplicam-se tanto às pessoas singulares como às pessoas colectivas, salva indicação expressa em contrário.
 
-###### Art. 4.º - 1. Sempre que uma pessoa estiver sujeita a imposto num espaço fiscal em virtude do domicílio, residência, sede legal ou estatutária, lugar da administração principal, lugar da direcção efectiva ou outro critério análogo, será considerada domiciliada ou residente nesse território, para os efeitos do presente diploma, salvo o disposto no n.º 2.
+Art. 4.º - 1. Sempre que uma pessoa estiver sujeita a imposto num espaço fiscal em virtude do domicílio, residência, sede legal ou estatutária, lugar da administração principal, lugar da direcção efectiva ou outro critério análogo, será considerada domiciliada ou residente nesse território, para os efeitos do presente diploma, salvo o disposto no n.º 2.
 
 2. As associações que não tenham por fim o lucro económico dos associados e as fundações de interesse social serão consideradas domiciliadas ou residentes, para os efeitos deste decreto-lei, apenas no espaço fiscal onde se encontra a sede fixada nos respectivos estatutos ou, na falta de designação estatutária, no território em que funciona normalmente a administração principal.
 
 3. Os termos «domiciliado» e «residente», para os efeitos do presente diploma, são sinónimos.
 
-###### Art. 5.º - 1. Quando uma pessoa singular, por força do disposto no artigo 4.º, n.º 1, seja considerada simultâneamente domiciliada em vários territórios, prevalecerá, para os efeitos deste decreto-lei:
+Art. 5.º - 1. Quando uma pessoa singular, por força do disposto no artigo 4.º, n.º 1, seja considerada simultâneamente domiciliada em vários territórios, prevalecerá, para os efeitos deste decreto-lei:
 
 a) O domicílio do espaço fiscal onde a pessoa disponha de um alojamento permanente ou, se tiver alojamento permanente em mais do que um dos territórios em causa, o domicílio daquele onde possua ligações económicas e pessoais mais intensas;
 
@@ -137,7 +158,7 @@ d) O domicílio daquele dos territórios em causa que vier a ser fixado por desp
 
 2. Sempre que, de acordo com o disposto no artigo 4.º ou no n.º 1 deste artigo, uma pessoa singular residir durante o mesmo ano fiscal em vários territórios, em épocas distintas, considerar-se-á domiciliada naquele onde residir em 31 de Dezembro desse ano, salvo se em qualquer outro espaço fiscal tiver residido por período superior a cento e oitenta e três dias. Neste caso, a pessoa singular considerar-se-á domiciliada no espaço fiscal onde residiu durante o referido período.
 
-###### Art. 6.º - 1. Quando uma pessoa colectiva, por força do disposto no artigo 4.º, n.º 1, seja considerada simultâneamente domiciliada em vários espaços fiscais, prevalecerá, para os efeitos do presente diploma, o domicílio do espaço fiscal onde funciona a sua direcção efectiva, considerando-se como tal o território onde são habitualmente praticados os actos de gestão global da empresa.
+Art. 6.º - 1. Quando uma pessoa colectiva, por força do disposto no artigo 4.º, n.º 1, seja considerada simultâneamente domiciliada em vários espaços fiscais, prevalecerá, para os efeitos do presente diploma, o domicílio do espaço fiscal onde funciona a sua direcção efectiva, considerando-se como tal o território onde são habitualmente praticados os actos de gestão global da empresa.
 
 2. Se forem habitualmente praticados actos de gestão global da empresa em vários territórios onde a pessoa colectiva deva ter-se por domiciliada, nos termos do artigo 4.º, n.º 1, prevalecerá, para os efeitos deste decreto-lei:
 
@@ -149,7 +170,7 @@ c) O domicílio do espaço fiscal que vier a ser designado, de entre os territó
 
 3. Aplicar-se-á às pessoas colectivas, com as necessárias adaptações, o disposto no n.º 2 do artigo 5.º
 
-###### Art. 7.º - 1. Para efeitos deste diploma, a expressão «estabelecimento estável» significa qualquer instalação fixa em que a empresa exerce toda ou parte da sua actividade.
+Art. 7.º - 1. Para efeitos deste diploma, a expressão «estabelecimento estável» significa qualquer instalação fixa em que a empresa exerce toda ou parte da sua actividade.
 
 2. A expressão «estabelecimento estável» compreende, nomeadamente:
 
@@ -187,29 +208,29 @@ e) Um lugar fixo de negócios mantido ùnicamente para fazer publicidade, fornec
 
 ### CAPÍTULO II — Tributação do rendimento global
 
-###### Art. 8.º A tributação do rendimento global de pessoa singular, sociedade comercial ou sociedade civil sob forma comercial, que resida em Portugal, só pode efectuar-se no território do seu domicílio, salvo o disposto no artigo 10.º
+Art. 8.º A tributação do rendimento global de pessoa singular, sociedade comercial ou sociedade civil sob forma comercial, que resida em Portugal, só pode efectuar-se no território do seu domicílio, salvo o disposto no artigo 10.º
 
-###### Art. 9.º - 1. Sem prejuízo do disposto no artigo 10.º, o rendimento global das pessoas colectivas residentes em Portugal, que não sejam sociedades comerciais nem sociedades civis sob forma comercial, só pode ser tributado no território ou territórios a que, nos termos do presente diploma, compete a tributação parcelar dos rendimentos dessa pessoa colectiva, devendo, em cada um desses territórios, a tributação global incidir apenas sobre o rendimento que, de acordo com as normas estabelecidas por este decreto-lei, aí possa ser tributado em imposto parcelar.
+Art. 9.º - 1. Sem prejuízo do disposto no artigo 10.º, o rendimento global das pessoas colectivas residentes em Portugal, que não sejam sociedades comerciais nem sociedades civis sob forma comercial, só pode ser tributado no território ou territórios a que, nos termos do presente diploma, compete a tributação parcelar dos rendimentos dessa pessoa colectiva, devendo, em cada um desses territórios, a tributação global incidir apenas sobre o rendimento que, de acordo com as normas estabelecidas por este decreto-lei, aí possa ser tributado em imposto parcelar.
 
 2. O território que tributar parcelarmente os rendimentos pelo facto de não existir tributação parcelar noutro território só terá direito de tributar globalmente os mesmos rendimentos, nos termos do número anterior, quando nesse outro território não existir tributação global.
 
-###### Art. 10.º Os rendimentos de títulos ao portador não registados só podem ser tributados por imposto global no território da residência da respectiva entidade emissora ou, sendo esta fora de Portugal, no espaço fiscal da situação da representação permanente, desde que tais rendimentos estejam aí sujeitos a imposto complementar ou imposto correspondente, por retenção na fonte.
+Art. 10.º Os rendimentos de títulos ao portador não registados só podem ser tributados por imposto global no território da residência da respectiva entidade emissora ou, sendo esta fora de Portugal, no espaço fiscal da situação da representação permanente, desde que tais rendimentos estejam aí sujeitos a imposto complementar ou imposto correspondente, por retenção na fonte.
 
-###### Art. 11.º Considera-se tributação do rendimento global não só a que atinge a generalidade do rendimento de uma pessoa, independentemente do local onde é produzido, mas também a que incide sobre o conjunto dos rendimentos que, em determinado território, podem, de harmonia com este diploma, ser tributados parcelarmente.
+Art. 11.º Considera-se tributação do rendimento global não só a que atinge a generalidade do rendimento de uma pessoa, independentemente do local onde é produzido, mas também a que incide sobre o conjunto dos rendimentos que, em determinado território, podem, de harmonia com este diploma, ser tributados parcelarmente.
 
 ### CAPÍTULO III — Tribulação parcelar dos rendimentos derivados de coisas imóveis
 
-###### Art. 12.º - 1. Os rendimentos emergentes da titularidade de quaisquer direitos sobre coisas imóveis são tributáveis por imposto parcelar apenas no território onde a respectiva coisa imóvel se encontra.
+Art. 12.º - 1. Os rendimentos emergentes da titularidade de quaisquer direitos sobre coisas imóveis são tributáveis por imposto parcelar apenas no território onde a respectiva coisa imóvel se encontra.
 
 2. Os rendimentos referidos no n.º 1 são os que forem considerados como tais pela legislação do espaço fiscal onde o imóvel está situado. São compreendidos igualmente neste artigo os rendimentos derivados de bens móveis que, de acordo com o direito fiscal do território em que tais bens estão situados, são tributados como os rendimentos dos bens imóveis.
 
-###### Art. 13.º - 1. Os rendimentos da exploração agrícola ou silvícola, bem como os da exploração pecuária conexa com exploração agrícola ou silvícola, são tributáveis, por imposto parcelar, exclusivamente no território da situação do imóvel onde a exploração se exerce.
+Art. 13.º - 1. Os rendimentos da exploração agrícola ou silvícola, bem como os da exploração pecuária conexa com exploração agrícola ou silvícola, são tributáveis, por imposto parcelar, exclusivamente no território da situação do imóvel onde a exploração se exerce.
 
 2. Os rendimentos referidos no n.º 1 são aqueles que assim forem considerados pela legislação do território onde se encontra o respectivo imóvel.
 
 ### CAPÍTULO IV — Tributação parcelar de dividendos e juros
 
-###### Art. 14.º - 1. Os dividendos atribuídos por pessoa residente em Portugal são tributáveis por imposto parcelar apenas no espaço fiscal do domicílio dessa pessoa, salvo o disposto no artigo 17.º
+Art. 14.º - 1. Os dividendos atribuídos por pessoa residente em Portugal são tributáveis por imposto parcelar apenas no espaço fiscal do domicílio dessa pessoa, salvo o disposto no artigo 17.º
 
 2. São considerados dividendos:
 
@@ -217,7 +238,7 @@ a) Os lucros, seja qual for a sua espécie ou designação, atribuídos aos sóc
 
 b) Os lucros atribuídos a uma pessoa pelo facto de estar interessada nos negócios de um comerciante, segundo o regime da conta em participação.
 
-###### Art. 15.º - 1. Os juros cujo devedor resida em Portugal são tributáveis por imposto parcelar sòmente no território do seu domicílio, salvo o preceituado nos artigos 16.º e 17.º
+Art. 15.º - 1. Os juros cujo devedor resida em Portugal são tributáveis por imposto parcelar sòmente no território do seu domicílio, salvo o preceituado nos artigos 16.º e 17.º
 
 2. São considerados juros:
 
@@ -243,9 +264,9 @@ b) Os juros de vendas a crédito, feitas por comerciantes relativamente a produt
 
 c) Os juros dos empréstimos feitos pelas casas de penhores.
 
-###### Art. 16.º Quando o pagamento dos juros for imputável, exclusivamente, a um estabelecimento estável do devedor localizado em Portugal ou a uma instalação fixa de que o devedor disponha de maneira habitual em qualquer dos espaços fiscais, a tributação parcelar daqueles rendimentos só pode verificar-se no território da situação do estabelecimento estável ou instalação fixa.
+Art. 16.º Quando o pagamento dos juros for imputável, exclusivamente, a um estabelecimento estável do devedor localizado em Portugal ou a uma instalação fixa de que o devedor disponha de maneira habitual em qualquer dos espaços fiscais, a tributação parcelar daqueles rendimentos só pode verificar-se no território da situação do estabelecimento estável ou instalação fixa.
 
-###### Art. 17.º - 1. Não se aplicará o disposto nos artigos 14.º, 15.º e 16.º quando no território neles indicado não existir qualquer forma de tributação parcelar da respectiva espécie de rendimentos.
+Art. 17.º - 1. Não se aplicará o disposto nos artigos 14.º, 15.º e 16.º quando no território neles indicado não existir qualquer forma de tributação parcelar da respectiva espécie de rendimentos.
 
 2. Quando, por força do disposto no n.º 1, não se aplicar o preceituado nos artigos 14.º e 15.º, a tributação parcelar dos juros ou dividendos só poderá ter lugar:
 
@@ -265,27 +286,27 @@ b) No espaço fiscal a que deva atribuir-se competência por aplicação do disp
 
 ### CAPÍTULO V — Tributação parcelar dos rendimentos de trabalho e da propriedade industrial
 
-###### Art. 18.º - 1. Os rendimentos emergentes da titularidade de direitos de autor, direitos de concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processos de fabrico ou de conservação de produtos ou de direitos análogos são tributáveis por imposto parcelar apenas no espaço fiscal onde está domiciliado o devedor, salvo o disposto no n.º 2.
+Art. 18.º - 1. Os rendimentos emergentes da titularidade de direitos de autor, direitos de concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processos de fabrico ou de conservação de produtos ou de direitos análogos são tributáveis por imposto parcelar apenas no espaço fiscal onde está domiciliado o devedor, salvo o disposto no n.º 2.
 
 2. As regras estabelecidas nos artigos 16.º e 17.º aplicar-se-ão, com as necessárias adaptações, à tributação parcelar dos rendimentos contemplados no n.º 1.
 
-###### Art. 19.º - 1. Os rendimentos que uma pessoa aufere de profissão liberal ou actividade independente de carácter análogo, exercida através de instalação fixa de que disponha de maneira habitual em algum dos territórios, são tributáveis por imposto parcelar ùnicamente no espaço fiscal onde se situa essa instalação fixa.
+Art. 19.º - 1. Os rendimentos que uma pessoa aufere de profissão liberal ou actividade independente de carácter análogo, exercida através de instalação fixa de que disponha de maneira habitual em algum dos territórios, são tributáveis por imposto parcelar ùnicamente no espaço fiscal onde se situa essa instalação fixa.
 
 2. A regra estabelecida no número anterior abrange unicamente os rendimentos que o contribuinte teria podido realizar se dispusesse dessa instalação fixa, com exclusão de quaisquer outras.
 
-###### Art. 20.º Os rendimentos de profissão liberal ou actividade independente de carácter análogo, auferidos por pessoa residente em Portugal, são tributáveis por imposto parcelar exclusivamente no espaço fiscal do domicílio do beneficiário, na medida em que este não exercer a profissão ou actividade geradora dos rendimentos através de instalação fixa de que disponha habitualmente em algum dos territórios.
+Art. 20.º Os rendimentos de profissão liberal ou actividade independente de carácter análogo, auferidos por pessoa residente em Portugal, são tributáveis por imposto parcelar exclusivamente no espaço fiscal do domicílio do beneficiário, na medida em que este não exercer a profissão ou actividade geradora dos rendimentos através de instalação fixa de que disponha habitualmente em algum dos territórios.
 
-###### Art. 21.º - 1. As remunerações, de qualquer espécie ou designação, de membros de mesas de assembleias gerais, corpos gerentes, conselhos fiscais ou, em geral, de quaisquer órgãos deliberativos, administrativos, directivos ou fiscalizadores de pessoas colectivas domiciliadas em Portugal, quando auferidas nessa qualidade, são tributáveis por imposto parcelar sòmente no território do domicílio da pessoa colectiva, salvo o disposto no n.º 2.
+Art. 21.º - 1. As remunerações, de qualquer espécie ou designação, de membros de mesas de assembleias gerais, corpos gerentes, conselhos fiscais ou, em geral, de quaisquer órgãos deliberativos, administrativos, directivos ou fiscalizadores de pessoas colectivas domiciliadas em Portugal, quando auferidas nessa qualidade, são tributáveis por imposto parcelar sòmente no território do domicílio da pessoa colectiva, salvo o disposto no n.º 2.
 
 2. Quando o titular de qualquer dos cargos referidos no n.º 1 actuar nessa qualidade junto de um estabelecimento estável ou qualquer instalação fixa de que a pessoa colectiva disponha habitualmente, em espaço fiscal distinto daquele onde está domiciliada, as remunerações cujo pagamento seja imputável, exclusivamente, a esse estabelecimento estável ou instalação fixa são tributáveis por imposto parcelar apenas no território onde se situe o estabelecimento ou a instalação.
 
-###### Art. 22.º Os rendimentos resultantes do exercício de profissão dependente, a bordo de navios ou aeronaves do tráfego internacional ou interterritorial só podem ser tributados por imposto parcelar no território do domicílio da entidade patronal ou, quando esta não tenha domicílio em Portugal, no território do domicílio de beneficiário.
+Art. 22.º Os rendimentos resultantes do exercício de profissão dependente, a bordo de navios ou aeronaves do tráfego internacional ou interterritorial só podem ser tributados por imposto parcelar no território do domicílio da entidade patronal ou, quando esta não tenha domicílio em Portugal, no território do domicílio de beneficiário.
 
-###### Art. 23.º - 1. As remunerações auferidas por uma pessoa singular, pelo exercício de funções públicas ao serviço do Estado, províncias ultramarinas, autarquias locais e suas federações ou uniões são tributáveis por imposto parcelar apenas no território do domicílio da entidade que paga as remunerações.
+Art. 23.º - 1. As remunerações auferidas por uma pessoa singular, pelo exercício de funções públicas ao serviço do Estado, províncias ultramarinas, autarquias locais e suas federações ou uniões são tributáveis por imposto parcelar apenas no território do domicílio da entidade que paga as remunerações.
 
 2. O disposto no n.º 1 é aplicável aos rendimentos recebidos por uma pessoa singular a título de pensão ou a título análogo, em virtude do anterior exercício de funções públicas ao serviço de qualquer das pessoas mencionadas naquela disposição.
 
-###### Art. 24.º - 1. Sem prejuízo de estabelecido no artigo 23.º, n.º 2, os rendimentos auferidos a título de pensão ou a título análogo, por uma actividade profissional anteriormente exercida, são tributáveis por imposto parcelar apenas no território do domicílio do beneficiário.
+Art. 24.º - 1. Sem prejuízo de estabelecido no artigo 23.º, n.º 2, os rendimentos auferidos a título de pensão ou a título análogo, por uma actividade profissional anteriormente exercida, são tributáveis por imposto parcelar apenas no território do domicílio do beneficiário.
 
 2. Quando o beneficiário dos rendimentos não residir em Portugal, estes serão tributáveis por imposto parcelar ùnicamente.
 
@@ -293,13 +314,13 @@ a) No espaço fiscal onde se situar o estabelecimento estável ou a instalação
 
 b) No espaço fiscal do domicílio do devedor, quando não se verifique a hipótese prevista na alínea anterior.
 
-###### Art. 25.º Em todos os casos não previstos nos artigos 18.º a 24.º, os rendimentos do trabalho, de qualquer espécie ou designação, quando resultem de actividade exercida num dos territórios, são tributáveis por imposto parcelar apenas nesse espaço fiscal.
+Art. 25.º Em todos os casos não previstos nos artigos 18.º a 24.º, os rendimentos do trabalho, de qualquer espécie ou designação, quando resultem de actividade exercida num dos territórios, são tributáveis por imposto parcelar apenas nesse espaço fiscal.
 
-###### Art. 26.º Os rendimentos do trabalho auferidos por uma pessoa singular e tributáveis em determinado território só ficarão nele isentos, por não excederem o limite aí estabelecido para o mínimo de existência, desde que tais rendimentos, somados com quaisquer outros da mesma espécie, tributáveis em espaços fiscais distintos e auferidos pelo contribuinte no mesmo ano fiscal, não ultrapassem aquele mínimo.
+Art. 26.º Os rendimentos do trabalho auferidos por uma pessoa singular e tributáveis em determinado território só ficarão nele isentos, por não excederem o limite aí estabelecido para o mínimo de existência, desde que tais rendimentos, somados com quaisquer outros da mesma espécie, tributáveis em espaços fiscais distintos e auferidos pelo contribuinte no mesmo ano fiscal, não ultrapassem aquele mínimo.
 
 ### CAPÍTULO VI — Tributação parcelar dos rendimentos da actividade comercial ou industrial
 
-###### Art. 27.º - 1. Os rendimentos da actividade comercial ou industrial auferidos por pessoas residentes num território só podem ser tributados nesse espaço fiscal, salvo na medida em que forem imputáveis a um estabelecimento estável de que a pessoa disponha em território distinto daquele onde está domiciliada. Neste caso, os rendimentos são tributáveis apenas no espaço fiscal onde o estabelecimento se encontra.
+Art. 27.º - 1. Os rendimentos da actividade comercial ou industrial auferidos por pessoas residentes num território só podem ser tributados nesse espaço fiscal, salvo na medida em que forem imputáveis a um estabelecimento estável de que a pessoa disponha em território distinto daquele onde está domiciliada. Neste caso, os rendimentos são tributáveis apenas no espaço fiscal onde o estabelecimento se encontra.
 
 2. Só podem ser imputados a um estabelecimento estável os lucros que teriam sido obtidos através dele se constituísse uma empresa distinta e separada que exercesse as mesmas actividades ou actividades similares, nas mesmas condições ou em condições similares, e tratasse em regime de absoluta independência.
 
@@ -309,31 +330,31 @@ b) No espaço fiscal do domicílio do devedor, quando não se verifique a hipót
 
 5. Os rendimentos a que se refere este artigo não abrangem as espécies do rendimento especialmente consideradas em artigos anteriores, nem os ganhos que devam qualificar-se como mais-valias, para efeitos do disposto nos artigos 30.º e seguintes.
 
-###### Art. 28.º - 1. Os lucros auferidos por qualquer pessoa domiciliada em Portugal da exploração de navios ou aeronaves no tráfego internacional ou interterritorial só podem ser tributados no espaço fiscal do domicílio dessa pessoa.
+Art. 28.º - 1. Os lucros auferidos por qualquer pessoa domiciliada em Portugal da exploração de navios ou aeronaves no tráfego internacional ou interterritorial só podem ser tributados no espaço fiscal do domicílio dessa pessoa.
 
 2. É aplicável ao n.º 1 deste artigo o estabelecido no n.º 5 do artigo anterior.
 
 ### CAPÍTULO VII — Tributação parcelar de rendimentos não compreendidos nos capítulos anteriores
 
-###### Art. 29.º - 1. Quaisquer espécies de rendimentos não compreendidos nos capítulos anteriores cujo pagamento seja imputável, exclusivamente, a um estabelecimento estável ou instalação fixa que se situe num dos espaços fiscais são tributáveis por imposto parcelar apenas no território onde se encontra o estabelecimento ou instalação.
+Art. 29.º - 1. Quaisquer espécies de rendimentos não compreendidos nos capítulos anteriores cujo pagamento seja imputável, exclusivamente, a um estabelecimento estável ou instalação fixa que se situe num dos espaços fiscais são tributáveis por imposto parcelar apenas no território onde se encontra o estabelecimento ou instalação.
 
 2. Não se verificando a hipótese prevista no n.º 1, as espécies dos rendimentos aí referidas são tributáveis por imposto parcelar ùnicamente no espaço fiscal onde está domiciliado o respectivo devedor ou, quando este não resida em Portugal, apenas no território do domicílio do beneficiário.
 
 ### CAPÍTULO VIII — Tributação das mais-valias
 
-###### Art. 30.º - 1. As mais-valias realizadas através da transmissão de direitos sobre uma coisa imóvel são tributáveis ùnicamente no espaço fiscal onde ela está situada.
+Art. 30.º - 1. As mais-valias realizadas através da transmissão de direitos sobre uma coisa imóvel são tributáveis ùnicamente no espaço fiscal onde ela está situada.
 
 2. Os ganhos referidos no n.º 1 são os que forem considerados como tais pela legislação do território onde se encontra o respectivo imóvel.
 
-###### Art. 31.º - 1. Sem prejuízo do disposto no artigo anterior, as mais-valias obtidas com a alienação global ou parcial dos direitos que fazem parte de activo imobilizado de uma empresa ou incidem sobre bens ou valores por ela mantidos como reserva ou para fruição são tributáveis, sempre que os direitos estejam afectos a estabelecimento estável situado num dos territórios, apenas no espaço fiscal onde esse estabelecimento se encontra.
+Art. 31.º - 1. Sem prejuízo do disposto no artigo anterior, as mais-valias obtidas com a alienação global ou parcial dos direitos que fazem parte de activo imobilizado de uma empresa ou incidem sobre bens ou valores por ela mantidos como reserva ou para fruição são tributáveis, sempre que os direitos estejam afectos a estabelecimento estável situado num dos territórios, apenas no espaço fiscal onde esse estabelecimento se encontra.
 
 2. A tributação das mais-valias obtidas por pessoa residente em Portugal com a alienação de direitos sobre navios ou aeronaves do tráfego internacional ou interterritorial ou de direitos sobre coisas móveis afectas à exploração ou funcionamento desses navios ou aeronaves só pode ter lugar, porém, no território do domicílio do beneficiário.
 
 3. Observar-se-á a regra estabelecida no n.º 1 quando forem alienados direitos que estejam afectos ao exercício de profissão liberal ou actividade independente de carácter análogo em determinada instalação fixa situada num dos territórios.
 
-###### Art. 32.º Sem prejuízo do disposto no artigo 31.º, as mais-valias que uma pessoa obtém na qualidade de sócio de uma sociedade que esteja domiciliada em Portugal são tributáveis exclusivamente no território do domicílio da sociedade.
+Art. 32.º Sem prejuízo do disposto no artigo 31.º, as mais-valias que uma pessoa obtém na qualidade de sócio de uma sociedade que esteja domiciliada em Portugal são tributáveis exclusivamente no território do domicílio da sociedade.
 
-###### Art. 33.º - 1. Nos casos não contemplados nos artigos 30.º a 32.º as mais-valias são tributáveis ùnicamente no território do domicílio de beneficiário, quando este resida em Portugal.
+Art. 33.º - 1. Nos casos não contemplados nos artigos 30.º a 32.º as mais-valias são tributáveis ùnicamente no território do domicílio de beneficiário, quando este resida em Portugal.
 
 2. Quando o beneficiário das mais-valias não resida em Portugal e não se verifique nenhum dos casos previstos nos artigos 30.º a 32.º, a tributação só pode ter lugar:
 
@@ -343,17 +364,17 @@ b) No espaço fiscal do registo, inscrição ou matrícula, quando as mais-valia
 
 ### CAPÍTULO IX — Tributação das transmissões de direitos
 
-###### Art. 34.º - 1. As transmissões de direitos sobre uma coisa imóvel são tributáveis apenas no território onde ela está situada, salvo o disposto no artigo 35.º
+Art. 34.º - 1. As transmissões de direitos sobre uma coisa imóvel são tributáveis apenas no território onde ela está situada, salvo o disposto no artigo 35.º
 
 2. Para os efeitos previstos neste capítulo, a qualificação de uma coisa como «móvel» ou «imóvel» e a determinação dos direitos que incidem sobre ela serão feitas de harmonia com a legislação do espaço fiscal onde a coisa se encontra à data da transmissão.
 
-###### Art. 35.º - 1. As transmissões a que se refere o artigo anterior, quando resultem de acto de divisão ou de partilhas que abranja coisas imóveis situadas em diversos territórios, só podem ser tributadas naquele onde se encontram os imóveis cujo valor, no seu conjunto, seja superior ao valor global dos imóveis, compreendidos na partilha ou divisão que se situem em cada um dos outros territórios.
+Art. 35.º - 1. As transmissões a que se refere o artigo anterior, quando resultem de acto de divisão ou de partilhas que abranja coisas imóveis situadas em diversos territórios, só podem ser tributadas naquele onde se encontram os imóveis cujo valor, no seu conjunto, seja superior ao valor global dos imóveis, compreendidos na partilha ou divisão que se situem em cada um dos outros territórios.
 
 2. Quando não puder aplicar-se o disposto no n.º 1 por em dois ou mais territórios os imóveis divididos ou partilhados terem o mesmo valor global sem que em nenhum outro espaço fiscal existam imóveis de valor global superior ao deles, a tributação terá lugar, à escolha do contribuinte, num daqueles territórios.
 
 3. A tributação das transmissões de direitos sobre coisas imóveis, nas hipóteses previstas no n.º 1, apenas pode incidir sobre a diferença entre o valor global dos referidos direitos adquiridos por cada contribuinte em resultado da divisão ou partilha e o valor da quota-parte que lhe cabia, no conjunto das coisas imóveis divididas ou partilhadas, seja qual for o território onde elas se encontrem.
 
-###### Art. 36.º - 1. As transmissões de direitos sobre uma coisa móvel cujo transmitente esteja domiciliado em Portugal à data da transmissão são tributáveis ùnicamente no espaço fiscal do seu domicílio.
+Art. 36.º - 1. As transmissões de direitos sobre uma coisa móvel cujo transmitente esteja domiciliado em Portugal à data da transmissão são tributáveis ùnicamente no espaço fiscal do seu domicílio.
 
 2. As transmissões de direitos sobre uma coisa móvel cujo transmitente não esteja domiciliado em Portugal à data da transmissão só podem ser tributadas no espaço fiscal onde a coisa se encontra nessa data, salvo o disposto no n.º 3.
 
@@ -361,7 +382,7 @@ b) No espaço fiscal do registo, inscrição ou matrícula, quando as mais-valia
 
 4. O estabelecido neste artigo deve entender-se sem prejuízo do preceituado no artigo 40.º
 
-###### Art. 37.º - 1. As transmissões de créditos, de qualquer espécie ou designação, cujo transmitente resida em Portugal à data da transmissão, são apenas tributáveis no território do seu domicílio, salvo o disposto nos n.os 2 e 3.
+Art. 37.º - 1. As transmissões de créditos, de qualquer espécie ou designação, cujo transmitente resida em Portugal à data da transmissão, são apenas tributáveis no território do seu domicílio, salvo o disposto nos n.os 2 e 3.
 
 2. As transmissões de títulos representativos de empréstimos emitidos pelo Estado, províncias ultramarinas, autarquias locais, suas federações ou uniões ou pessoas colectivas de utilidade pública administrativa, e bem assim as transmissões de obrigações emitidas por sociedades nacionais, são tributáveis apenas no território do domicílio do devedor, quando nesse espaço fiscal exista imposto sobre as sucessões e doações por avença e os títulos ou obrigações dêem direito a rendimento.
 
@@ -371,15 +392,15 @@ b) No espaço fiscal do registo, inscrição ou matrícula, quando as mais-valia
 
 5. O disposto nos n.os 1 e 4 deste artigo deve entender-se sem prejuízo do preceituado no artigo 40.º
 
-###### Art. 38.º - 1. As transmissões de partes sociais, seja qual for a sua espécie ou designação, são tributáveis sòmente no espaço fiscal do domicílio do transmitente, salvo o disposto no n.º 2.
+Art. 38.º - 1. As transmissões de partes sociais, seja qual for a sua espécie ou designação, são tributáveis sòmente no espaço fiscal do domicílio do transmitente, salvo o disposto no n.º 2.
 
 2. As transmissões de partes sociais cujo transmitente não resida em Portugal e, em geral, de acções de sociedades nacionais são tributáveis sòmente no espaço fiscal onde a sociedade está domiciliada, desde que, tratando-se de acções de sociedades nacionais, exista nesse território imposto sobre as sucessões e doações por avença.
 
 3. O disposto neste artigo, salvo na parte que se refere às transmissões de acções de sociedades nacionais sujeitas a imposto sobre as sucessões e doações por avença, deve entender-se sem prejuízo do preceituado no artigo 40.º
 
-###### Art. 39.º Salvo o estabelecido no artigo 40.º, as transmissões de quaisquer direitos não abrangidos pelos artigos anteriores são tributáveis apenas no espaço fiscal do domicílio de transmitente.
+Art. 39.º Salvo o estabelecido no artigo 40.º, as transmissões de quaisquer direitos não abrangidos pelos artigos anteriores são tributáveis apenas no espaço fiscal do domicílio de transmitente.
 
-###### Art. 40.º - 1. As transmissões, globais ou parciais, de direitos que fazem parte do activo de uma empresa e estão afectos a um estabelecimento estável situado em Portugal, bem como de direitos afectos ao exercício de profissão liberal ou actividade independente de carácter análogo em instalação fixa, também situada em Portugal, só podem ser tributadas no território onde se encontra o estabelecimento ou a instalação.
+Art. 40.º - 1. As transmissões, globais ou parciais, de direitos que fazem parte do activo de uma empresa e estão afectos a um estabelecimento estável situado em Portugal, bem como de direitos afectos ao exercício de profissão liberal ou actividade independente de carácter análogo em instalação fixa, também situada em Portugal, só podem ser tributadas no território onde se encontra o estabelecimento ou a instalação.
 
 2. A regra do n.º 1 não se aplica, porém:
 
@@ -389,11 +410,11 @@ b) Às transmissões de acções de sociedades nacionais previstas pelo artigo 3
 
 c) Às transmissões de direitos sobre navios ou aeronaves, do tráfego internacional ou interterritorial, cujo transmitente tenha domicílio em Portugal à data da transmissão, nem às transmissões de direitos sobre coisas móveis afectas à exploração ou ao funcionamento desses navios ou aeronaves, as quais são tributáveis apenas no território do domicílio do transmitente.
 
-###### Art. 41.º Sempre que a transmissão dos direitos abrangidos por uma herança for tributável em mais do que um território, por força do disposto nos artigos 34.º a 40.º, o passivo será deduzido, em cada espaço fiscal, na proporção correspondente ao valor dos direitos cuja transmissão é aí tributável.
+Art. 41.º Sempre que a transmissão dos direitos abrangidos por uma herança for tributável em mais do que um território, por força do disposto nos artigos 34.º a 40.º, o passivo será deduzido, em cada espaço fiscal, na proporção correspondente ao valor dos direitos cuja transmissão é aí tributável.
 
 ## TÍTULO III — Disposições instrumentais
 
-###### Art. 42.º - 1. Dos actos dos funcionários que violarem as normas referentes às matérias dos artigos 3.º a 41.º deste diploma haverá recurso hierárquico necessário até ao Ministro das Finanças ou Ministro do Ultramar, consoante o funcionário de cujo acto se recorre esteja dependente hieràrquicamente do primeiro ou do segundo; e da decisão do Ministro cabe recurso para a 1.ª secção de Supremo Tribunal Administrativo, e dela, para o tribunal pleno, se for caso disso.
+Art. 42.º - 1. Dos actos dos funcionários que violarem as normas referentes às matérias dos artigos 3.º a 41.º deste diploma haverá recurso hierárquico necessário até ao Ministro das Finanças ou Ministro do Ultramar, consoante o funcionário de cujo acto se recorre esteja dependente hieràrquicamente do primeiro ou do segundo; e da decisão do Ministro cabe recurso para a 1.ª secção de Supremo Tribunal Administrativo, e dela, para o tribunal pleno, se for caso disso.
 
 2. Salvo o disposto na parte final do número anterior, os tribunais competentes para a apreciação das questões relativas a contribuições e impostos no território português europeu ou no das províncias ultramarinas não poderão conhecer das questões em que se invoque a violação das normas respeitantes às matérias abrangidas nos artigos 3.º a 41.º deste diploma.
 
@@ -401,17 +422,17 @@ c) Às transmissões de direitos sobre navios ou aeronaves, do tráfego internac
 
 4. A suspensão fica sem efeito se o processo relativo à questão prevista no n.º 1 não for intentado dentro de três meses ou estiver parado, por negligência do contribuinte, durante o mesmo prazo. Em ambos os casos o julgador do processo das contribuições e impostos decide a questão prejudicial, mas a sua decisão não produz efeitos fora do processo em que foi proferida.
 
-###### Art. 43.º - 1. Os serviços da administração fiscal dos diversos espaços fiscais trocarão entre si, oficiosamente ou a pedido, todas as informações de que puderem dispor e sejam úteis para se efectuar a tributação de acordo com o estabelecido neste diploma e prevenir-se ou reprimir-se a infracção fiscal.
+Art. 43.º - 1. Os serviços da administração fiscal dos diversos espaços fiscais trocarão entre si, oficiosamente ou a pedido, todas as informações de que puderem dispor e sejam úteis para se efectuar a tributação de acordo com o estabelecido neste diploma e prevenir-se ou reprimir-se a infracção fiscal.
 
 2. As informações serão consideradas secretas e só poderão ser comunicadas aos respectivos contribuintes ou seus representantes, às pessoas ou autoridades encarregadas do lançamento ou cobrança dos impostos abrangidos por este diploma e aos tribunais competentes em matéria de contribuições e impostos.
 
 3. As informações serão fornecidas pelos serviços, em notas individuais, através das respectivas direcções-gerais ou, no caso de colaboração entre províncias, através das respectivas direcções ou repartições provinciais de Fazenda, até ao fim do mês seguinte àquele em que os elementos a fornecer foram conhecidos dos serviços, salvo se for estabelecido outro prazo por acordo entre a Direcção-Geral das Contribuições e Impostos e a Direcção-Geral de Fazenda do Ministério do Ultramar ou, no caso de colaboração interprovincial, entre as respectivas direcções ou repartições provinciais de Fazenda.
 
-###### Art. 44.º - 1. O disposto na legislação de qualquer espaço fiscal relativo à fiscalização dos impostos abrangidos por este diploma considera-se extensivo à fiscalização, nesse território, dos elementos relativos aos impostos, de natureza idêntica ou análoga, que aos outros territórios digam respeito.
+Art. 44.º - 1. O disposto na legislação de qualquer espaço fiscal relativo à fiscalização dos impostos abrangidos por este diploma considera-se extensivo à fiscalização, nesse território, dos elementos relativos aos impostos, de natureza idêntica ou análoga, que aos outros territórios digam respeito.
 
 2. Os elementos a que se refere o número anterior serão remetidos à Direcção-Geral das Contribuições e Impostos ou às respectivas direcções ou repartições provinciais de Fazenda, conforme se trate de obrigações estabelecidas na legislação fiscal do território português europeu ou de qualquer das províncias ultramarinas.
 
-###### Art. 45.º - 1. Este diploma aplicar-se-á:
+Art. 45.º - 1. Este diploma aplicar-se-á:
 
 a) Aos impostos sobre o rendimento respeitante ao ano de 1971 e seguintes;
 
@@ -423,10 +444,10 @@ c) Aos impostos sobre as transmissões ocorridas depois de 31 de Dezembro de 197
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 16 de Novembro de 1970.**
+Promulgado em 16 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20200/20972098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1977-286518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c73e44526e4b95d67a324d13e12be77ab9200ff2f7ed6845d5da3407efe2ac38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef3bfb696917605b743172c3122e82874ca3ceddacfb0c13c2913214324d1743
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ALTO Comissário para os Desalojados
+- Comissariado para os Desalojados
+- Desalojado
+- Inserção Social
+- Recenseamento
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:252824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:49Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +120,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os indivíduos a que se reporta o n.º 2 do artigo 1.º do [Decreto-Lei n.º 209/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1977-252824), de 26 de Maio, são recenseáveis nos termos do [Decreto-Lei n.º 826-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-a-1976-534386), de 17 de Novembro, e deste diploma.
+Artigo 1.º Os indivíduos a que se reporta o n.º 2 do artigo 1.º do [Decreto-Lei n.º 209/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1977-252824), de 26 de Maio, são recenseáveis nos termos do [Decreto-Lei n.º 826-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-a-1976-534386), de 17 de Novembro, e deste diploma.
 
-###### Art. 2.º Para os efeitos indicados no artigo anterior, são estabelecidos os seguintes procedimentos:
+Art. 2.º Para os efeitos indicados no artigo anterior, são estabelecidos os seguintes procedimentos:
 
 a) Os indivíduos chegados a Portugal depois de 30 de Novembro de 1976 e que sejam portadores de credencial do Comissariado para os Desalojados que os qualifique como desalojados receberão o talão de recenseamento contra a entrega da referida credencial;
 
@@ -113,7 +132,7 @@ c) Os indivíduos chegados a Portugal após a data da entrada em vigor do presen
 
 d) Os indivíduos chegados a Portugal depois de 30 de Novembro de 1976 e que não estejam nas hipóteses previstas nas alíneas anteriores poderão candidatar-se ao recenseamento nas condições previstas na segunda parte da alínea c).
 
-###### Art. 3.º Os desalojados chegados a Portugal antes de 30 de Novembro de 1976 que não se tenham recenseado poderão requerê-lo ao alto-comissário para os Desalojados no prazo de trinta dias, a contar da data da entrada em vigor do presente decreto-lei, desde que comprovem circunstâncias atendíveis ou justificativas da sua falta, devendo instruir o requerimento com os seguintes documentos:
+Art. 3.º Os desalojados chegados a Portugal antes de 30 de Novembro de 1976 que não se tenham recenseado poderão requerê-lo ao alto-comissário para os Desalojados no prazo de trinta dias, a contar da data da entrada em vigor do presente decreto-lei, desde que comprovem circunstâncias atendíveis ou justificativas da sua falta, devendo instruir o requerimento com os seguintes documentos:
 
 a) Impressos de recenseamento devidamente preenchidos;
 
@@ -121,22 +140,22 @@ b) Documentos de identificação dos componentes do agregado familiar;
 
 c) Documento comprovativo de que os componentes do agregado familiar vieram das ex-colónias posteriormente a 1 de Setembro de 1974 e antes de 30 de Novembro de 1976.
 
-###### Art. 4.º - 1. Ao Comissariado para os Desalojados e aos seus serviços regionais e distritais compete a execução das disposições do presente decreto-lei.
+Art. 4.º - 1. Ao Comissariado para os Desalojados e aos seus serviços regionais e distritais compete a execução das disposições do presente decreto-lei.
 
 2. O alto-comissário estabelecerá, em despacho, as normas regulamentares e interpretativas que permitam a conveniente execução destas disposições.
 
 3. O Comissariado para os Desalojados promoverá a articulação com o Centro de Informática do Ministério da Justiça, com vista à actualização e exploração do ficheiro a que se refere o artigo 12.º do [Decreto-Lei n.º 826-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-a-1976-534386), de 17 de Novembro.
 
-###### Art. 5.º - 1. Poderão ser oficiosamente registados no ficheiro a que se refere o artigo 12.º do [Decreto-Lei n.º 826-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-a-1976-534386), de 17 de Novembro, os elementos relativos a quaisquer desalojados que não tenham sido recenseados que constem de arquivos de repartições públicas.
+Art. 5.º - 1. Poderão ser oficiosamente registados no ficheiro a que se refere o artigo 12.º do [Decreto-Lei n.º 826-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-a-1976-534386), de 17 de Novembro, os elementos relativos a quaisquer desalojados que não tenham sido recenseados que constem de arquivos de repartições públicas.
 
 2. O número anterior não prejudica o disposto no n.º 1 do artigo 14.º do citado decreto-lei.
 
-###### Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 15 de Agosto de 1977.**
+Promulgado em 15 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

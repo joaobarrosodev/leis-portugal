@@ -49,36 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45277-1963-686652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c95ee3d175bfa7506249e448910f8cd34e75266839d4333819c93161257c261c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e56fc4b7479f660f32cf81a12ec794512b81a31f340db4bca22af0ec4950ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Direcção Geral das Obras Públicas e Comunicações
+- Formas de Provimento
+- Ministério do Ultramar
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:29Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +112,15 @@ Tendo-se reconhecido também a justiça de se integrar a categoria de radioteleg
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º O ingresso e bem assim a promoção no quadro dos oficiais de secretaria da Repartição dos Correios, Telégrafos e Telefones da Direcção-Geral de Obras Públicas e Comunicações do Ministério do Ultramar são feitos por concurso de provas práticas entre indivíduos que obedeçam às condições de lei geral.
+Artigo 1.º O ingresso e bem assim a promoção no quadro dos oficiais de secretaria da Repartição dos Correios, Telégrafos e Telefones da Direcção-Geral de Obras Públicas e Comunicações do Ministério do Ultramar são feitos por concurso de provas práticas entre indivíduos que obedeçam às condições de lei geral.
 
 § 1.º Para concorrerem aos lugares de categoria imediatamente superior, os oficiais de secretaria deverão possuir três anos de serviço na categoria anterior, com boas informações.
 
 § 2.º O provimento dos lugares de ingresso poderá sempre fazer-se por transferência de funcionários de categoria idêntica, dos correspondentes quadros ultramarinos. A transferência para os restantes lugares da hierarquia só se fará quando os mesmos lugares não puderem ser providos nos termos do corpo do artigo.
 
-###### Art. 2.º A categoria de radiotelegrafista de 2.ª classe dos correios, telégrafos e telefones do ultramar, a que se refere o mapa n.º 8 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, considera-se incluída na letra N do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+Art. 2.º A categoria de radiotelegrafista de 2.ª classe dos correios, telégrafos e telefones do ultramar, a que se refere o mapa n.º 8 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, considera-se incluída na letra N do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

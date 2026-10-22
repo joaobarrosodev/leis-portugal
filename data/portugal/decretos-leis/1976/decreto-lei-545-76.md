@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16000/15191520.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1976-430444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e92e8d6285827b2ba6d221491531b0abc3525971b5ce59d741d32113b948e156
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e906384d1507befa3713d463539b19d2b8b334d9e0b7e3ebc26820222befebd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Comercial
+- Conta Bancária
+- Depósito Bancário
+- Emigrante
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:509013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:509013:por
+  label: "Revogado pelo DEC LEI.75-C/77.28.02.1977.MF, DR.IS [49-Supl] de 28.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-c-1977-509013
+  date: '1977-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:44Z'
   warnings: []
   errors: []
 ---
@@ -103,28 +113,28 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os bancos comerciais nacionalizados podem aceitar depósitos em escudos, a prazo superior a um e até dois anos, quando o depositário foi emigrante português.
+Artigo 1.º - 1. Os bancos comerciais nacionalizados podem aceitar depósitos em escudos, a prazo superior a um e até dois anos, quando o depositário foi emigrante português.
 
 2. A taxa de juro a abonar aos depósitos mencionados no n.º 1 é a que se encontrar ou vier a ser definida para os depósitos a prazo.
 
-###### Art. 2.º - 1. A qualidade de emigrante deve ser comprovada mediante a apresentação da carteira de residente no estrangeiro, da carteira de trabalho ou de qualquer outro documento pelo qual a instituição de crédito depositária possa verificar que o interessado é efectivamente emigrante.
+Art. 2.º - 1. A qualidade de emigrante deve ser comprovada mediante a apresentação da carteira de residente no estrangeiro, da carteira de trabalho ou de qualquer outro documento pelo qual a instituição de crédito depositária possa verificar que o interessado é efectivamente emigrante.
 
 2. A prova documental antes referida pode ser substituída por declaração assinada por dois empregados encarregados da gerência do estabelecimento bancário onde for aberta a conta de depósito, os quais se responsabilizam, civil e criminalmente, pela veracidade da mesma declaração.
 
 3. Os originais dos documentos e a declaração mencionados nos números anteriores devem ficar arquivados na instituição de crédito depositária, podendo, no entanto, os ditos originais ser substituídos por fotocópia devidamente autenticada pela mesma instituição.
 
-###### Art. 3.º - 1. Se no fim do prazo dos depósitos constituídos nos termos deste diploma ou da respectiva renovação, o seu titular tiver deixado de residir no estrangeiro há mais de um ano, os depósitos manter-se-ão, salvo levantamento, mas convertidos em depósito ao prazo máximo consentido a residentes no País.
+Art. 3.º - 1. Se no fim do prazo dos depósitos constituídos nos termos deste diploma ou da respectiva renovação, o seu titular tiver deixado de residir no estrangeiro há mais de um ano, os depósitos manter-se-ão, salvo levantamento, mas convertidos em depósito ao prazo máximo consentido a residentes no País.
 
 2. A instituição de crédito depositária pode, aquando de uma renovação, exigir ao titular do depósito que faça prova de que mantém a qualidade de emigrante, sob pena de se aplicar o disposto no n.º 1.
 
-###### Art. 4.º No que não estiver expressamente previsto nos artigos precedentes aplica-se o regime próprio dos depósitos a prazo efectuados nos bancos comerciais, inclusivamente no que concerne à representação das contas de depósito por títulos de crédito.
+Art. 4.º No que não estiver expressamente previsto nos artigos precedentes aplica-se o regime próprio dos depósitos a prazo efectuados nos bancos comerciais, inclusivamente no que concerne à representação das contas de depósito por títulos de crédito.
 
-###### Art. 5.º A constituição dos depósitos prevista neste diploma, bem como a sua movimentação, não carece de prévia autorização do Banco de Portugal.
+Art. 5.º A constituição dos depósitos prevista neste diploma, bem como a sua movimentação, não carece de prévia autorização do Banco de Portugal.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 30 de Junho de 1976.**
+Promulgado em 30 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

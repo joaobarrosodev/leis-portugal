@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05600/03960402.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1977-140366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 999fc10429b6c9b2e8c6b84c88b1e7443b307fb927401620aea79fc00bfb509d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f418788128793f24224db1224face432afcaeca702cf143a97dfa4403edf5dc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Criação de Serviços
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Instituto Nacional do Frio
+- Ministério do Comércio e Turismo
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276627:por
+  label: "Alterados os arts. 30º e 31º pelo DEC LEI.536/77.30.12.1977.MCT, DR.IS [301] de 30.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/536-1977-276627
+  date: '1977-12-30'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:17Z'
   warnings: []
   errors: []
 ---
@@ -104,19 +124,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza, funções e competência
 
-###### Artigo 1.º É criado no Ministério do Comércio e Turismo o Instituto Nacional do Frio, adiante designado simplesmente por INF, organismo do ado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
+Artigo 1.º É criado no Ministério do Comércio e Turismo o Instituto Nacional do Frio, adiante designado simplesmente por INF, organismo do ado de personalidade jurídica, com autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º O INF rege-se pelo presente diploma e pelos regulamentos que em sua execução vierem a ser publicados.
+Art. 2.º O INF rege-se pelo presente diploma e pelos regulamentos que em sua execução vierem a ser publicados.
 
-###### Art. 3.º - 1. O INF tem a sua sede em Lisboa e exerce a sua acção no continente e nas Regiões Autónomas.
+Art. 3.º - 1. O INF tem a sua sede em Lisboa e exerce a sua acção no continente e nas Regiões Autónomas.
 
 2. O INF poderá estabelecer delegações ou qualquer tipo de representação onde considerar necessário.
 
 3. A acção do INF nas Regiões Autónomas desenvolver-se-á de acordo com os interesses locais e de íntima colaboração com os Governos Regionais.
 
-###### Art. 4.º - 1. Constitui objecto do INF a realização de todas as operações atinentes à coordenação e dinamização das actividades relacionadas com a produção e utilização do frio, nos seus aspectos didáctico, tecnológico, de planeamento e coordenação financeira.
+Art. 4.º - 1. Constitui objecto do INF a realização de todas as operações atinentes à coordenação e dinamização das actividades relacionadas com a produção e utilização do frio, nos seus aspectos didáctico, tecnológico, de planeamento e coordenação financeira.
 
-###### Art. 5.º - 1. São atribuições do INF:
+Art. 5.º - 1. São atribuições do INF:
 
 a) A definição de uma política nacional do frio;
 
@@ -136,7 +156,7 @@ c) O apoio técnico à indústria nacional de equipamentos frigoríficos, assim 
 
 d) O apoio à actividade nacional do projecto de instalações frigoríficas.
 
-###### Art. 6.º No âmbito das atribuições referidas no artigo anterior, compete ao INF:
+Art. 6.º No âmbito das atribuições referidas no artigo anterior, compete ao INF:
 
 a) Elaborar e propor para homologação pelo Governo, ouvidas as entidades interessadas, regulamentação e medidas relativas à produção e utilização do frio;
 
@@ -170,13 +190,13 @@ p) Estudar, propor e apoiar, com os sectores interessados, as soluções para a 
 
 q) Desempenhar todas as tarefas que resultem deste diploma e da demais legislação em vigor ou das funções que, cumulativamente, lhe forem atribuídas.
 
-###### Art. 7.º - 1. O INF e as delegações dele dependentes estão isentos de todos os impostos, contribuições ou taxas, custos ou emolumentos e selos nos processos, actos notariais de registo ou outros em que intervenham, em termos e condições idênticos aos do Estado.
+Art. 7.º - 1. O INF e as delegações dele dependentes estão isentos de todos os impostos, contribuições ou taxas, custos ou emolumentos e selos nos processos, actos notariais de registo ou outros em que intervenham, em termos e condições idênticos aos do Estado.
 
 2. Os contratos de arrendamento em que o INF seja parte deverão ser reduzidos a escrito, revestindo a forma que a lei geral determinar.
 
 ### CAPÍTULO II — Receitas e despesas
 
-###### Art. 8.º Constituem receitas do INF:
+Art. 8.º Constituem receitas do INF:
 
 a) As dotações que lhe sejam especialmente atribuídas no Orçamento Geral do Estado;
 
@@ -188,27 +208,27 @@ d) Taxas;
 
 e) Quaisquer outros proventos ou rendimentos.
 
-###### Art. 9.º O valor das remunerações por serviços prestados e, bem assim, as taxas referidas na alínea d) do artigo anterior serão fixados por despacho do Ministro respectivo, publicado no Diário da República.
+Art. 9.º O valor das remunerações por serviços prestados e, bem assim, as taxas referidas na alínea d) do artigo anterior serão fixados por despacho do Ministro respectivo, publicado no Diário da República.
 
-###### Art. 10.º - 1. As dívidas ao INF, quando não forem pagas dentro do prazo para pagamento voluntário, vencem juros de mora.
+Art. 10.º - 1. As dívidas ao INF, quando não forem pagas dentro do prazo para pagamento voluntário, vencem juros de mora.
 
 2. Na falta de pagamento, são competentes para a cobrança judicial os tribunais das execuções fiscais, servindo de título executivo o certificado de dívida, assinado por qualquer membro da direcção com selo branco.
 
-###### Art. 11.º Constituem despesas do INF todas as que resultem do normal exercício das suas funções.
+Art. 11.º Constituem despesas do INF todas as que resultem do normal exercício das suas funções.
 
-###### Art. 12.º - 1. O INF submeterá anualmente à aprovação superior os planos da sua actividade e orçamento, sem prejuízo da fiscalização pelo Tribunal de Contas.
+Art. 12.º - 1. O INF submeterá anualmente à aprovação superior os planos da sua actividade e orçamento, sem prejuízo da fiscalização pelo Tribunal de Contas.
 
 2. Os saldos apurados no fim de cada ano económico serão transferidos para a gerência do ano seguinte.
 
 ### CAPÍTULO III
 
-###### Art. 13.º - 1. São órgãos do INF:
+Art. 13.º - 1. São órgãos do INF:
 
 a) A direcção;
 
 b) O conselho geral.
 
-###### Art. 14.º - 1. A direcção é constituída por três directores, sendo um deles presidente.
+Art. 14.º - 1. A direcção é constituída por três directores, sendo um deles presidente.
 
 2. As decisões da direcção são tomadas por maioria simples, tendo o presidente voto de qualidade.
 
@@ -216,9 +236,9 @@ b) O conselho geral.
 
 4. Os membros da direcção serão nomeados, em comissão de serviço, por tempo indeterminado.
 
-###### Art. 15.º A direcção goza de todos os poderes necessários para assegurar a gestão e desenvolvimento do INF, competindo-lhe, genericamente: a criação e a organização dos seus serviços como melhor convenha aos seus fins; a administração do seu património, incluindo a aquisição e alienação de bens, e a representação do INF em juízo e fora dele.
+Art. 15.º A direcção goza de todos os poderes necessários para assegurar a gestão e desenvolvimento do INF, competindo-lhe, genericamente: a criação e a organização dos seus serviços como melhor convenha aos seus fins; a administração do seu património, incluindo a aquisição e alienação de bens, e a representação do INF em juízo e fora dele.
 
-###### Art. 16.º Face ao disposto no artigo anterior, compete especialmente à direcção:
+Art. 16.º Face ao disposto no artigo anterior, compete especialmente à direcção:
 
 a) Elaborar e submeter à apreciação superior o orçamento e o plano das actividades do Instituto;
 
@@ -226,7 +246,7 @@ b) Elaborar e submeter à apreciação do conselho geral o relatório anual da s
 
 c) Elaborar e submeter à aprovação do Ministro respectivo o regulamento interno necessário à organização e bom funcionamento dos serviços.
 
-###### Art. 17.º - 1. Compete ao presidente da direcção:
+Art. 17.º - 1. Compete ao presidente da direcção:
 
 a) Convocar e presidir às reuniões do conselho geral;
 
@@ -248,7 +268,7 @@ b) Pelo director mais antigo ou, em igualdade de circunstâncias, pelo mais velh
 
 5. O presidente poderá delegar em qualquer membro da direcção ou em funcionário qualificado a competência que lhe é atribuída na alínea d) do n.º 1 deste artigo.
 
-###### Art. 18.º - 1. Constituem o conselho geral:
+Art. 18.º - 1. Constituem o conselho geral:
 
 a) A direcção;
 
@@ -272,7 +292,7 @@ i) Um representante dos trabalhadores das indústrias de equipamento e dos traba
 
 3. Quanto à natureza dos assuntos a tratar no conselho, poderá o presidente, por sua iniciativa ou a pedido do conselho, convidar a participar nas reuniões, sem direito a voto, pessoas de reconhecida competência nas matérias em análise.
 
-###### Art. 19.º - 1. Compete ao conselho geral:
+Art. 19.º - 1. Compete ao conselho geral:
 
 a) Apreciar os planos de actividade, orçamento e relatórios e contas anuais apresentados pela direcção e sobre eles emitir os respectivos pareceres;
 
@@ -286,9 +306,9 @@ e) Criar as comissões técnicas de apoio para o estudo de assuntos específicos
 
 2. O conselho geral, ou qualquer dos seus membros, poderá solicitar à direcção elementos de informação necessários ao desempenho das suas funções.
 
-###### Art. 20.º O conselho geral reunirá, ordinariamente, uma vez por semestre e, extraordinariamente, a convocação do presidente, por sua iniciativa ou a requerimento de um terço dos seus membros.
+Art. 20.º O conselho geral reunirá, ordinariamente, uma vez por semestre e, extraordinariamente, a convocação do presidente, por sua iniciativa ou a requerimento de um terço dos seus membros.
 
-###### Art. 21.º - 1. O conselho geral será convocado por ofício registado com aviso de recepção, dirigido a cada um dos seus membros com a antecedência de dez dias da data marcada para o plenário.
+Art. 21.º - 1. O conselho geral será convocado por ofício registado com aviso de recepção, dirigido a cada um dos seus membros com a antecedência de dez dias da data marcada para o plenário.
 
 2. As deliberações do conselho geral só serão válidas desde que se encontre presente mais de metade dos seus membros e serão tomadas por maioria de votos.
 
@@ -304,7 +324,7 @@ e) Criar as comissões técnicas de apoio para o estudo de assuntos específicos
 
 ### CAPÍTULO IV
 
-###### Art. 22.º - 1. O INF compreenderá as seguintes direcções de serviços:
+Art. 22.º - 1. O INF compreenderá as seguintes direcções de serviços:
 
 a) Direcção de Serviços Técnicos;
 
@@ -314,7 +334,7 @@ c) Direcção de Serviços de Estudos e Documentação.
 
 2. O INF terá também uma Repartição Administrativa.
 
-###### Art. 23.º À Direcção de Serviços Técnicos compete, nomeadamente:
+Art. 23.º À Direcção de Serviços Técnicos compete, nomeadamente:
 
 a) Estabelecer normas para conservação dos alimentos perecíveis, quer no aspecto da tecnologia alimentar, quer sob o ponto de vista da necessidade das instalações;
 
@@ -334,7 +354,7 @@ h) Instruir os conflitos de origem técnica que permitam ao INF a arbitragem a q
 
 i) Colaborar com as restantes direcções de serviços, com vista ao desempenho das atribuições que competem ao INF.
 
-###### Art. 24.º À Direcção de Serviços de Planeamento compete:
+Art. 24.º À Direcção de Serviços de Planeamento compete:
 
 a) Coordenar e executar todos os estudos necessários ao planeamento e definição da Rede Nacional do Frio, tendo em vista a criação de infra-estruturas necessárias à produção, distribuição e consumo de produtos perecíveis, devendo revê-la sempre que necessário, tendo em conta todas as alterações estruturais resultantes do desenvolvimento sócio-económico do País;
 
@@ -344,7 +364,7 @@ c) Elaborar e actualizar o cadastro das instalações frigoríficas;
 
 d) Colaborar com as restantes direcções de serviços, com vista ao desempenho das atribuições que competem ao INF.
 
-###### Art. 25.º À Direcção de Serviços de Estudos e Documentação compete:
+Art. 25.º À Direcção de Serviços de Estudos e Documentação compete:
 
 a) Promover em colaboração com os organismos responsáveis a criação do ensino do frio a vários níveis e a formação de técnicos;
 
@@ -352,7 +372,7 @@ b) Promover, com os organismos interessados, publicações de formação e infor
 
 c) Colaborar com as restantes direcções de serviços, com vista ao desempenho das atribuições que competem ao INF.
 
-###### Art. 26.º À Repartição Administrativa compete:
+Art. 26.º À Repartição Administrativa compete:
 
 a) Realizar a gestão corrente do pessoal, nomeadamente quanto a recrutamento, provimento, colocação, transferência, disciplina e quaisquer outros assuntos relativos à citada gestão;
 
@@ -366,19 +386,19 @@ e) Gerir as respectivas verbas e exercer as demais funções de contabilidade e 
 
 ### CAPÍTULO V
 
-###### Art. 27.º - 1. O pessoal do INF será o constante do quadro anexo.
+Art. 27.º - 1. O pessoal do INF será o constante do quadro anexo.
 
 2. O pessoal do INF ficará sujeito, em tudo o que não se encontrar especialmente previsto neste diploma, às normas legais aplicáveis aos funcionários civis do Estado em geral.
 
-###### Art. 28.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 28.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Quando o provimento dos lugares recair em funcionários provenientes de outros serviços do Estado ou de institutos públicos, o tempo de serviço neles prestado contará para efeitos de nomeação definitiva, desde que tenham exercido funções da mesma natureza, e, quando assim não for, o prazo de nomeação provisória será de um ano. Durante o período de nomeação provisória as funções serão exercidas em comissão de serviço.
 
-###### Art. 29.º Os directores de serviços, o chefe de divisão e o chefe de repartição serão nomeados pelo Ministro do Comércio e Turismo de entre indivíduos com curso superior adequado ao desempenho das respectivas funções e a conveniente especialização, podendo o provimento dos lugares de chefe de repartição fazer-se também entre chefes de secção com três anos de bom e efectivo serviço.
+Art. 29.º Os directores de serviços, o chefe de divisão e o chefe de repartição serão nomeados pelo Ministro do Comércio e Turismo de entre indivíduos com curso superior adequado ao desempenho das respectivas funções e a conveniente especialização, podendo o provimento dos lugares de chefe de repartição fazer-se também entre chefes de secção com três anos de bom e efectivo serviço.
 
-###### Art. 30.º Por despacho do Ministro do Comércio e Turismo, sob proposta do presidente, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:
+Art. 30.º Por despacho do Ministro do Comércio e Turismo, sob proposta do presidente, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:
 
 a) Técnicos principais e técnicos de 1.ª classe, por promoção, respectivamente de técnicos de 1.ª classe e técnicos de 2.ª classe com boas informações de serviço e as habilitações legais;
 
@@ -402,7 +422,7 @@ j) Terceiros-oficiais, por concurso de prestação de provas, de entre indivídu
 
 l) Escriturários-dactilógrafos, por concurso de prestação de provas, de entre indivíduos com a escolaridade obrigatória, segundo a idade do concorrente.
 
-###### Art. 31.º - 1. O pessoal do INF será, preferentemente, recrutado:
+Art. 31.º - 1. O pessoal do INF será, preferentemente, recrutado:
 
 a) Entre os funcionários do Estado ao serviço de organismos onde já exerçam funções ligadas ao sector do frio;
 
@@ -412,45 +432,45 @@ c) Entre os funcionários do quadro de adidos.
 
 2. O pessoal referido no número anterior ingressará no quadro mediante lista ou listas nominativas aprovadas pelo Ministro, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades, salvo o respeitante às habilitações literárias.
 
-###### Art. 32.º - 1. Os funcionários do quadro referido na artigo 27.º poderão desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços ou institutos públicos.
+Art. 32.º - 1. Os funcionários do quadro referido na artigo 27.º poderão desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços ou institutos públicos.
 
 2. O tempo de serviço prestado nestas condições contará, para todos os efeitos, como se tivesse sido prestado no quadro.
 
-###### Art. 33.º - 1. Quando se mostre indispensável, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no INF, fixando-lhe a respectiva remuneração, a pagar por dotação especial para este efeito inscrita no orçamento do INF, e com o acordo do Ministério requisitando, se for esse o caso.
+Art. 33.º - 1. Quando se mostre indispensável, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no INF, fixando-lhe a respectiva remuneração, a pagar por dotação especial para este efeito inscrita no orçamento do INF, e com o acordo do Ministério requisitando, se for esse o caso.
 
 2. O pessoal requisitado ao abrigo do número anterior abre vaga no serviço de origem, a qual não poderá, no entanto, ser preenchida senão interinamente.
 
 3. O tempo de serviço prestado pelos funcionários requisitados contará para todos os efeitos, como se tivesse sido prestado nos quadros a que pertencem, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os relativos a promoção.
 
-###### Art. 34.º - 1. O INF poderá recorrer à colaboração de empresas ou técnicos ao serviço de entidades nacionais ou estrangeiras para elaboração de estudos, pareceres ou projectos específicos ou para a execução de funções da sua especialidade em regime de prestação de serviços.
+Art. 34.º - 1. O INF poderá recorrer à colaboração de empresas ou técnicos ao serviço de entidades nacionais ou estrangeiras para elaboração de estudos, pareceres ou projectos específicos ou para a execução de funções da sua especialidade em regime de prestação de serviços.
 
 2. Os contratos que forem celebrados nos termos e para os efeitos do número anterior deverão especificar, obrigatoriamente, a natureza das tarefas a executar, prazo de duração e remuneração.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 35.º O presidente do Instituto despachará directamente com o Ministro do Comércio e Turismo.
+Art. 35.º O presidente do Instituto despachará directamente com o Ministro do Comércio e Turismo.
 
-###### Art. 36.º - 1. O selo branco do Instituto produzirá efeitos idênticos aos dos selos brancos dos serviços públicos do Estado.
+Art. 36.º - 1. O selo branco do Instituto produzirá efeitos idênticos aos dos selos brancos dos serviços públicos do Estado.
 
 2. O Instituto, salvo em actos de mero expediente, obriga-se com duas assinaturas dos membros da direcção, podendo numa delas ser delegada.
 
-###### Art. 37.º Os membros do conselho geral, quando residam fora de Lisboa, têm direito às despesas de transporte.
+Art. 37.º Os membros do conselho geral, quando residam fora de Lisboa, têm direito às despesas de transporte.
 
-###### Art. 38.º Para efeitos do presente diploma são consideradas instalações frigoríficas as constantes da lista anexa.
+Art. 38.º Para efeitos do presente diploma são consideradas instalações frigoríficas as constantes da lista anexa.
 
-###### Art. 39.º A acção do INF poderá ser alargada conjunturalmente a outros sectores, nomeadamente à ventilação e ar condicionado, por despacho fundamentado do Ministro do Comércio e Turismo.
+Art. 39.º A acção do INF poderá ser alargada conjunturalmente a outros sectores, nomeadamente à ventilação e ar condicionado, por despacho fundamentado do Ministro do Comércio e Turismo.
 
-###### Art. 40.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 40.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
-###### Art. 41.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro respectivo, com o acordo do Ministro das Finanças, quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
+Art. 41.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro respectivo, com o acordo do Ministro das Finanças, quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Miguel Morais Barreto.
 
-**Promulgado em 21 de Fevereiro de 1977.**
+Promulgado em 21 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Lista da classificação das instalações frigoríficas
 
@@ -612,6 +632,6 @@ D) Outras instalações
 
 Quadro do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05600/03960402.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05600/03960402.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05600/03960402.pdf)
 
-**O Ministro do Comércio e Turismo, António Miguel Morais Barreto.**
+O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

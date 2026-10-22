@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/285-1971-643143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dfdf49d0391b4994073e067535ebb573495da8d6c8603df3c09d6838b39daac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c31824bea9266261757d5dcc28e70d91d59d194cf595f307e9db635f77b23fee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Circulação de Mercadorias
+- Contentor
+- Exportação
+- Importação
+- Transporte de Mercadorias
+relationships:
+- type: cites
+  target: pt:dre:578730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:04Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +97,16 @@ de 26 de Junho
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 14.º do [Decreto n.º 45814](https://diariodarepublica.pt/dr/detalhe/decreto/45814-1964-578730), de 14 ao Julho de 1964, passa a ter a seguinte redacção:
+Artigo único. O artigo 14.º do [Decreto n.º 45814](https://diariodarepublica.pt/dr/detalhe/decreto/45814-1964-578730), de 14 ao Julho de 1964, passa a ter a seguinte redacção:
 
-###### Art. 14.º Os contentores poderão ser utilizados no tráfego interno desde que sigam por um caminho tanto quanto possível directo até ao local ou até um ponto próximo do local onde devam ser carregadas as mercadorias a exportar ou a partir do qual devam ser reexportados vazios.
+Art. 14.º Os contentores poderão ser utilizados no tráfego interno desde que sigam por um caminho tanto quanto possível directo até ao local ou até um ponto próximo do local onde devam ser carregadas as mercadorias a exportar ou a partir do qual devam ser reexportados vazios.
 
 § único. Cada contentor só poderá ser utilizado uma vez no tráfego interno antes da sua reexportação.
 
 Marcello Caetano - Augusto Victor Coelho.
 
-**Promulgado em 18 de Junho de 1971.**
+Promulgado em 18 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

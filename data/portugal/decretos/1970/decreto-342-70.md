@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/342-1970-141583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5045b5a773270aea9a5767fb565786fc48bad773a43c3b07cd73b2b3b967754d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d31e3f4b88bd248018565a0e49539c680ca38708b755b275c0206f83c84168c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:26Z'
   warnings: []
   errors: []
 ---
@@ -87,21 +99,21 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério do Interior, créditos especiais no montante de 27073910$70, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no orçamento em vigor do segundo dos mencionados Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério do Interior, créditos especiais no montante de 27073910$70, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no orçamento em vigor do segundo dos mencionados Ministérios:
 
-### Capítulo 7.º «Guarda Nacional Republicana»:
+Capítulo 7.º «Guarda Nacional Republicana»:
 
-###### Artigo 95.º «Remunerações certas ao pessoal em exercício»:
+Artigo 95.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 3) «Pessoal destacado de outros serviços do Estado»:
 
 «Pessoal destacado na Brigada de Trânsito» ... 14467580$00
 
-###### Artigo 96.º «Remunerações acidentais»:
+Artigo 96.º «Remunerações acidentais»:
 
 N.º 3) «Gratificações ao pessoal destacado, incluindo as de mecânicos e de radiotelegrafistas» ... 1015761$00
 
-###### Artigo 97.º «Outras despesas com o pessoal»:
+Artigo 97.º «Outras despesas com o pessoal»:
 
 N.º 1) «Ajudas de custo» ... (ver nota a) 4075219$00
 
@@ -111,7 +123,7 @@ Alínea 3 «Subsídio para fardamento ao pessoal destacado» ... 821295$00
 
 Alínea 4 «Artigos impermeáveis e diversos para o pessoal da Brigada de Trânsito» ... 169444$90
 
-###### Artigo 99.º «Aquisições de utilização permanente»:
+Artigo 99.º «Aquisições de utilização permanente»:
 
 N.º 1) «Semoventes»:
 
@@ -119,7 +131,7 @@ Alínea 2 «Viaturas com motor» ... (ver nota b) 1581391$80
 
 N.º 2) «Móveis» ... (ver nota c) 906477$20
 
-###### Artigo 100.º «Despesas de conservação e aproveitamento do material»:
+Artigo 100.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1) «De imóveis»:
 
@@ -133,21 +145,21 @@ Alínea 2 «Veículos com motor» ... (ver nota d) 3322555$60
 
 N.º 3) «De móveis» ... (ver nota e) 105525$70
 
-###### Artigo 101.º «Material de consumo corrente»:
+Artigo 101.º «Material de consumo corrente»:
 
 N.º 2) «Impressos» ... (ver nota f) 67330$90
 
 N.º 3) «Artigos de expediente ...» ... 86049$80
 
-###### Artigo 102.º, n.º 2) «Luz, ...» ... 122396$50
+Artigo 102.º, n.º 2) «Luz, ...» ... 122396$50
 
-###### Artigo 103.º, n.º 2) «Telefones» ... 65984$00
+Artigo 103.º, n.º 2) «Telefones» ... 65984$00
 
-###### Artigo 104.º, n.º 1) «Rendas de casa», alínea 1 «Prédios urbanos» ... 69000$00
+Artigo 104.º, n.º 1) «Rendas de casa», alínea 1 «Prédios urbanos» ... 69000$00
 
-###### Artigo 105.º, n.º 5) «Pagamento de serviços ...» ... 11816$60
+Artigo 105.º, n.º 5) «Pagamento de serviços ...» ... 11816$60
 
-###### Artigo 106.º, n.º 2) «Prémios e condecorações» ... 1000$00
+Artigo 106.º, n.º 2) «Prémios e condecorações» ... 1000$00
 
 ... 27073910$70
 
@@ -163,51 +175,51 @@ N.º 3) «Artigos de expediente ...» ... 86049$80
 
 (nota f) A quantia de 11280$00, idem.
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 184.º-A «Reembolso, pelo Fundo Especial de Transportes Terrestres, de parte das despesas com o funcionamento da Brigada de Trânsito da Guarda Nacional Republicana» ... 4942536$70
+Capítulo 7.º, artigo 184.º-A «Reembolso, pelo Fundo Especial de Transportes Terrestres, de parte das despesas com o funcionamento da Brigada de Trânsito da Guarda Nacional Republicana» ... 4942536$70
 
 Ministério das Comunicações
 
-### Capítulo 3.º, artigo 29.º, n.º 1) ... 172800$00
+Capítulo 3.º, artigo 29.º, n.º 1) ... 172800$00
 
-### Capítulo 3.º, artigo 29.º, n.º 2) ... 14294780$00
+Capítulo 3.º, artigo 29.º, n.º 2) ... 14294780$00
 
-### Capítulo 3.º, artigo 30.º, n.º 1) ... 1015761$00
+Capítulo 3.º, artigo 30.º, n.º 1) ... 1015761$00
 
-### Capítulo 3.º, artigo 31.º, n.º 1) ... 2010000$00
+Capítulo 3.º, artigo 31.º, n.º 1) ... 2010000$00
 
-### Capítulo 3.º, artigo 31.º, n.º 4), alínea 2 ... 821295$00
+Capítulo 3.º, artigo 31.º, n.º 4), alínea 2 ... 821295$00
 
-### Capítulo 3.º, artigo 31.º, n.º 4), alínea 3 ... 169444$90
+Capítulo 3.º, artigo 31.º, n.º 4), alínea 3 ... 169444$90
 
-### Capítulo 3.º, artigo 32.º, n.º 1), alínea 1 ... 850000$00
+Capítulo 3.º, artigo 32.º, n.º 1), alínea 1 ... 850000$00
 
-### Capítulo 3.º, artigo 32.º, n.º 2) ... 344797$50
+Capítulo 3.º, artigo 32.º, n.º 2) ... 344797$50
 
-### Capítulo 3.º, artigo 33.º, n.º 1), alínea 1 ... 59082$20
+Capítulo 3.º, artigo 33.º, n.º 1), alínea 1 ... 59082$20
 
-### Capítulo 3.º, artigo 33.º, n.º 1), alínea 2 ... 126000$50
+Capítulo 3.º, artigo 33.º, n.º 1), alínea 2 ... 126000$50
 
-### Capítulo 3.º, artigo 33.º, n.º 2), alínea 1 ... 1800000$20
+Capítulo 3.º, artigo 33.º, n.º 2), alínea 1 ... 1800000$20
 
-### Capítulo 3.º, artigo 33.º, n.º 3) ... 55114$90
+Capítulo 3.º, artigo 33.º, n.º 3) ... 55114$90
 
-### Capítulo 3.º, artigo 34.º, n.º 1) ... 56050$90
+Capítulo 3.º, artigo 34.º, n.º 1) ... 56050$90
 
-### Capítulo 3.º, artigo 34.º, n.º 2) ... 86049$80
+Capítulo 3.º, artigo 34.º, n.º 2) ... 86049$80
 
-### Capítulo 3.º, artigo 35.º, n.º 1) ... 122396$50
+Capítulo 3.º, artigo 35.º, n.º 1) ... 122396$50
 
-### Capítulo 3.º, artigo 36.º, n.º 2) ... 65984$00
+Capítulo 3.º, artigo 36.º, n.º 2) ... 65984$00
 
-### Capítulo 3.º, artigo 37.º, n.º 1) ... 69000$00
+Capítulo 3.º, artigo 37.º, n.º 1) ... 69000$00
 
-### Capítulo 3.º, artigo 38.º, n.º 2) ... 11816$60
+Capítulo 3.º, artigo 38.º, n.º 2) ... 11816$60
 
-### Capítulo 3.º, artigo 39.º, n.º 1), alínea 1 ... 1000$00
+Capítulo 3.º, artigo 39.º, n.º 1), alínea 1 ... 1000$00
 
 ... 22131374$00
 
@@ -217,8 +229,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 7 de Julho de 1970.**
+Promulgado em 7 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

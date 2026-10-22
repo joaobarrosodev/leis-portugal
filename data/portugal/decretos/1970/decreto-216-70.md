@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/216-1970-142168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f978a602e9a0ff36900e688f4ac7f8a7b99315654f9662edd42d68c30145e353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf8d672398b0407b14e8d671ef13c3b8f27526ae51963497436eeced8883fc90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:19Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +91,13 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O carcereiro e os ajudantes de carcereiro da Cadeia Central de Macau passam a fazer parte, respectivamente, dos grupos R e U do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Artigo único. O carcereiro e os ajudantes de carcereiro da Cadeia Central de Macau passam a fazer parte, respectivamente, dos grupos R e U do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Maio de 1970.**
+Promulgado em 1 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

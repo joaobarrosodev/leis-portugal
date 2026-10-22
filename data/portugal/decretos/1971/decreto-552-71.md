@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 292/1971, 1º Suplemento, Série I de 1971-12-15
   number: '292'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1914-(12) a 1914-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/29201/00120018.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/552-1971-158610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65791b8bbeba234db199697556d2475cd0f106d680a703095cb53d94d5b6b72d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a14c7c00840adb6cae328faa7fc051e48924579dcb71054772313403055b2b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:240266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:25Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +101,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição 
 
 ### CAPÍTULO I — Disposições comuns
 
-###### Artigo 1.º - 1. Nas províncias ultramarinas as operações de importação e de exportação ou reexportação de mercadorias, as operações de invisíveis correntes e as de importação ou exportação de capitais privados ficam sujeitas a registo prévio ou autorização, nos termos do capítulo VI do [Decreto-Lei n.º 478/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266), de 6 de Novembro, e do presente diploma.
+Artigo 1.º - 1. Nas províncias ultramarinas as operações de importação e de exportação ou reexportação de mercadorias, as operações de invisíveis correntes e as de importação ou exportação de capitais privados ficam sujeitas a registo prévio ou autorização, nos termos do capítulo VI do [Decreto-Lei n.º 478/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266), de 6 de Novembro, e do presente diploma.
 
 2. As liquidações das operações referidas no número anterior devem ser efectuadas, igualmente, nos termos do [Decreto-Lei n.º 478/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1971-240266) e do presente diploma e de acordo com o estabelecido na regulamentação do exercício do comércio de câmbios.
 
-###### Art. 2.º - 1. Salvas as excepções previstas na lei, nenhuma pessoa singular ou colectiva residente nas províncias ultramarinas pode realizar operações cambiais ou de pagamentos interterritoriais relativos à liquidação de operações abrangidas pelo artigo 1.º, a não ser por intermédio de instituição autorizada a exercer o comércio de câmbios pleno.
+Art. 2.º - 1. Salvas as excepções previstas na lei, nenhuma pessoa singular ou colectiva residente nas províncias ultramarinas pode realizar operações cambiais ou de pagamentos interterritoriais relativos à liquidação de operações abrangidas pelo artigo 1.º, a não ser por intermédio de instituição autorizada a exercer o comércio de câmbios pleno.
 
 2. Os titulares de créditos em moeda do exterior, designadamente provenientes de exportação ou reexportação de mercadorias, serão obrigados a promover a sua liquidação logo que eles estejam vencidos e à sua disposição.
 
 3. A autoridade cambial poderá dispensar o cumprimento do disposto no número anterior quando os créditos não tenham conexão com a actividade do residente da província e a sua origem não proceda de bens adquiridos em resultado daquela actividade.
 
-###### Art. 3.º - 1. As autoridades competentes para efectuar o registo prévio, as inspecções de crédito e seguros ou do comércio bancário e os administradores dos fundos cambiais não podem emitir boletins de registo prévio para importação de mercadorias nem autorizar pagamentos de invisíveis correntes ou exportações de capitais sem que esteja assegurada a respectiva cobertura.
+Art. 3.º - 1. As autoridades competentes para efectuar o registo prévio, as inspecções de crédito e seguros ou do comércio bancário e os administradores dos fundos cambiais não podem emitir boletins de registo prévio para importação de mercadorias nem autorizar pagamentos de invisíveis correntes ou exportações de capitais sem que esteja assegurada a respectiva cobertura.
 
 2. Para efeito do apuramento das coberturas asseguradas, à soma das disponibilidades, em ouro, moedas estrangeiras e meios de pagamento sobre outros territórios nacionais, realizáveis à vista ou em prazo não superior a noventa dias, do fundo cambial e das instituições autorizadas a exercer o comércio de câmbios pleno na província serão deduzidas:
 
@@ -115,15 +123,15 @@ b) As responsabilidades do fundo cambial e das mesmas instituições de crédito
 
 ### CAPÍTULO II — Das operações sobre mercadorias
 
-###### Art. 4.º - 1. As operações de importação, exportação e reexportação de mercadorias entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas a registo prévio, a regular por portaria do Ministério do Ultramar.
+Art. 4.º - 1. As operações de importação, exportação e reexportação de mercadorias entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas a registo prévio, a regular por portaria do Ministério do Ultramar.
 
 2. O registo prévio será efectuado mediante a emissão de boletins em seis exemplares, correspondentes às letras A a F, podendo os serviços de registo desdobrar qualquer dos exemplares.
 
-###### Art. 5.º - 1. Ficam isentos de registo prévio os separados de bagagem, bem como a importação e a exportação ou reexportação de mercadorias cujo valor não exceda 2500$00.
+Art. 5.º - 1. Ficam isentos de registo prévio os separados de bagagem, bem como a importação e a exportação ou reexportação de mercadorias cujo valor não exceda 2500$00.
 
 2. O governador da província, sob parecer da autoridade cambial, pode sujeitar a registo prévio as operações referidas na parte final do número anterior.
 
-###### Art. 6.º - 1. O prazo de validade dos boletins de registo prévio não deve exceder noventa dias, a contar da data da emissão.
+Art. 6.º - 1. O prazo de validade dos boletins de registo prévio não deve exceder noventa dias, a contar da data da emissão.
 
 2. Quando, em virtude da natureza da operação, os serviços ou entidades a quem competir a emissão dos boletins o considerarem necessário, poderão ser concedidos prazos de validade até cento e oitenta dias.
 
@@ -131,7 +139,7 @@ b) As responsabilidades do fundo cambial e das mesmas instituições de crédito
 
 4. Consideram-se boletins não utilizados aqueles em relação aos quais não tenha havido despacho alfandegário das mercadorias ou só o tenha havido de parte dessas mercadorias.
 
-###### Art. 7.º - 1. A liquidação das importações e das exportações ou reexportações será obrigatòriamente efectuada mediante a apresentação do modelo E do respectivo boletim de registo prévio, dentro do prazo de validade do mesmo boletim, na moeda nele indicada e por intermédio de instituição e crédito autorizada a exercer o comércio de câmbios pleno.
+Art. 7.º - 1. A liquidação das importações e das exportações ou reexportações será obrigatòriamente efectuada mediante a apresentação do modelo E do respectivo boletim de registo prévio, dentro do prazo de validade do mesmo boletim, na moeda nele indicada e por intermédio de instituição e crédito autorizada a exercer o comércio de câmbios pleno.
 
 2. Tratando-se de operações de importação, exportação ou reexportação entre uma província ultramarina e outro território nacional, a liquidação terá de ser efectuada por intermédio de instituição autorizada a exercer o comércio de câmbios pleno nessa província.
 
@@ -143,11 +151,11 @@ b) As responsabilidades do fundo cambial e das mesmas instituições de crédito
 
 6. Sempre que os exemplares E não sejam utilizados pela totalidade, as instituições de crédito comunicarão, no mesmo prazo, à autoridade cambial as utilizações parciais realizadas.
 
-###### Art. 8.º As operações de importação, de exportação ou reexportação de mercadorias e a respectiva liquidação só podem ser efectuadas por forma diferente da estabelecida nos artigos precedentes mediante autorização especial e prévia da autoridade cambial.
+Art. 8.º As operações de importação, de exportação ou reexportação de mercadorias e a respectiva liquidação só podem ser efectuadas por forma diferente da estabelecida nos artigos precedentes mediante autorização especial e prévia da autoridade cambial.
 
-###### Art. 9.º Quando a operação cambial for efectuada através de instituição de crédito de outro território nacional, atender-se-á ao que sobre a matéria se dispõe na regulamentação do comércio de câmbios.
+Art. 9.º Quando a operação cambial for efectuada através de instituição de crédito de outro território nacional, atender-se-á ao que sobre a matéria se dispõe na regulamentação do comércio de câmbios.
 
-###### Art. 10.º - 1. As operações entre as províncias ultramarinas e o estrangeiro ficam sujeitas às directivas que vigorarem no continente e ilhas adjacentes quanto à moeda em que os referidos boletins devem ser emitidos.
+Art. 10.º - 1. As operações entre as províncias ultramarinas e o estrangeiro ficam sujeitas às directivas que vigorarem no continente e ilhas adjacentes quanto à moeda em que os referidos boletins devem ser emitidos.
 
 2. A secção de Política monetária do Conselho de Ministros para os Assuntos Económicos pode estabelecer, para uma ou mais províncias, directivas monetárias diferentes das que vigorarem no continente e ilhas adjacentes.
 
@@ -157,7 +165,7 @@ b) As responsabilidades do fundo cambial e das mesmas instituições de crédito
 
 ### CAPÍTULO III — Das operações de invisíveis correntes
 
-###### Art. 11.º - 1. As operações de invisíveis correntes entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas a autorização especial e prévia da Inspecção de Crédito e Seguros ou do Comércio Bancário.
+Art. 11.º - 1. As operações de invisíveis correntes entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional ficam sujeitas a autorização especial e prévia da Inspecção de Crédito e Seguros ou do Comércio Bancário.
 
 2. Quando a natureza da actividade dos interessados o justificar, a Inspecção de Crédito e Seguros ou do Comércio Bancário poderá conceder autorizações para entradas por importâncias globais, desde que referentes à mesma rubrica do anexo I ao presente decreto e por períodos determinados não superiores a cento e oitenta dias.
 
@@ -165,35 +173,35 @@ b) As responsabilidades do fundo cambial e das mesmas instituições de crédito
 
 4. O governador da província, sob parecer da autoridade cambial, pode sujeitar a autorização prévia operações abrangidas pelo número anterior.
 
-###### Art. 12.º São consideradas operações de invisíveis correntes as indicadas no anexo I a este decreto.
+Art. 12.º São consideradas operações de invisíveis correntes as indicadas no anexo I a este decreto.
 
-###### Art. 13.º - 1. A autorização para as operações de invisíveis correntes será concedida mediante a emissão de um boletim em quatro exemplares, correspondentes às letras de A a D, podendo os serviços competentes para a emissão desdobrar qualquer dos exemplares.
+Art. 13.º - 1. A autorização para as operações de invisíveis correntes será concedida mediante a emissão de um boletim em quatro exemplares, correspondentes às letras de A a D, podendo os serviços competentes para a emissão desdobrar qualquer dos exemplares.
 
 2. Os exemplares A e B serão entregues ao interessado; os exemplares C e D destinam-se aos serviços que os emitirem.
 
-###### Art. 14.º - 1. O prazo de validade dos boletins será em regra de trinta dias, mas a Inspecção de Crédito e Seguros ou do Comércio Bancário pode conceder prazo superior se, pela natureza da operação, o considerar necessário.
+Art. 14.º - 1. O prazo de validade dos boletins será em regra de trinta dias, mas a Inspecção de Crédito e Seguros ou do Comércio Bancário pode conceder prazo superior se, pela natureza da operação, o considerar necessário.
 
 2. O boletim pode ser revalidado por uma ou mais vezes se ocorrerem razões que o justifiquem, mas de modo que o prazo total não exceda cento e oitenta dias.
 
-###### Art. 15.º - 1. A liquidação de operações de invisíveis correntes será efectuada mediante a apresentação do exemplar B do respectivo boletim do registo de autorização, dentro do prazo de validade deste, na moeda nele indicada, e obrigatòriamente por intermédio de instituição de crédito autorizada a exercer o comércio de câmbios pleno na província.
+Art. 15.º - 1. A liquidação de operações de invisíveis correntes será efectuada mediante a apresentação do exemplar B do respectivo boletim do registo de autorização, dentro do prazo de validade deste, na moeda nele indicada, e obrigatòriamente por intermédio de instituição de crédito autorizada a exercer o comércio de câmbios pleno na província.
 
 2. As instituições de crédito que efectuarem as operações cambiais ou de pagamentos interterritoriais anotá-las-ão no exemplar B do boletim de autorização e remetê-lo-ão à Inspecção de Crédito e Seguros ou do Comércio Bancário na data da respectiva utilização ou no dia útil imediato.
 
 3. Sempre que o exemplar B não seja utilizado pela totalidade, as instituições de crédito comunicarão à Inspecção de Crédito e Seguros ou do Comércio Bancário e no mesmo prazo as utilizações parciais realizadas.
 
-###### Art. 16.º Nas operações destinadas ao pagamento de invisíveis correntes ao exterior as Inspecções de Crédito e Seguros ou do Comércio Bancário devem certificar-se de que o pagamento é efectivamente devido, podendo para o efeito exigir as informações e provas necessárias.
+Art. 16.º Nas operações destinadas ao pagamento de invisíveis correntes ao exterior as Inspecções de Crédito e Seguros ou do Comércio Bancário devem certificar-se de que o pagamento é efectivamente devido, podendo para o efeito exigir as informações e provas necessárias.
 
-###### Art. 17.º - 1. As Inspecções de Crédito e Seguros ou do Comércio Bancário só devem autorizar a transferência para o exterior de rendimentos de capitais legalmente importados e aplicados na província ou de rendimentos reaplicados de capitais importados.
+Art. 17.º - 1. As Inspecções de Crédito e Seguros ou do Comércio Bancário só devem autorizar a transferência para o exterior de rendimentos de capitais legalmente importados e aplicados na província ou de rendimentos reaplicados de capitais importados.
 
 2. Só se consideram legalmente importados os capitais entrados na província de acordo com as normas vigentes ao tempo da sua importação.
 
 3. Se os interessados não conseguirem fazer a prova normal de que os capitais foram legalmente importados, pode a autoridade cambial autorizar a transferência de rendimentos, desde que deva presumir-se que houve importação.
 
-###### Art. 18.º - 1. A Inspecção de Crédito e Seguros ou do Comércio Bancário pode também autorizar a transferência para o exterior de rendimentos de capitais não importados quando a favor de ex-residentes na província, que tenham passado a residir em qualquer outro território nacional ou estrangeiro, ou a favor de quem deles legìtimamente tenha havido os bens ou direitos, fonte dos rendimentos a transferir.
+Art. 18.º - 1. A Inspecção de Crédito e Seguros ou do Comércio Bancário pode também autorizar a transferência para o exterior de rendimentos de capitais não importados quando a favor de ex-residentes na província, que tenham passado a residir em qualquer outro território nacional ou estrangeiro, ou a favor de quem deles legìtimamente tenha havido os bens ou direitos, fonte dos rendimentos a transferir.
 
 2. A transferência só pode efectuar-se para território onde o beneficiário tiver residência.
 
-###### Art. 19.º - 1. As operações de invisíveis correntes devem ser efectuadas de acordo com as directivas monetárias em vigor.
+Art. 19.º - 1. As operações de invisíveis correntes devem ser efectuadas de acordo com as directivas monetárias em vigor.
 
 2. Excepcionalmente, pode a Inspecção de Crédito e Seguros ou do Comércio Bancário, ouvido o Banco de Portugal, autorizar que a operação se faça em moeda diferente.
 
@@ -201,7 +209,7 @@ b) As responsabilidades do fundo cambial e das mesmas instituições de crédito
 
 ### CAPÍTULO IV — Das operações de capitais
 
-###### Art. 20.º - 1. Ficam sujeitas ao regime deste decreto as operações de importação e exportação de capitais privados entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional.
+Art. 20.º - 1. Ficam sujeitas ao regime deste decreto as operações de importação e exportação de capitais privados entre uma província ultramarina e o estrangeiro ou qualquer outro território nacional.
 
 2. Numa província ultramarina serão consideradas abrangidas pelo número anterior as operações de importação o de exportação de capitais a seguir indicadas, quando o interessado nessas operações, residente na província, não for uma pessoa colectiva de direito público que não seja instituição de crédito:
 
@@ -213,13 +221,13 @@ c) Os actos entre vivos mencionados nesse anexo II, quando envolvam transmissão
 
 d) Os actos igualmente entre vivos mencionados no aludido anexo II, desde que envolvam constituição de direitos ou obrigações de residentes na dita província para com não residentes na mesma província.
 
-###### Art. 21.º - 1. A realização das operações de importação e exportação de capitais privados carece de autorização especial e prévia da autoridade cambial.
+Art. 21.º - 1. A realização das operações de importação e exportação de capitais privados carece de autorização especial e prévia da autoridade cambial.
 
 2. A autorização dos actos referidos nas alíneas c) e d) do n.º 2 do artigo anterior envolve a autorização das correspondentes transferências e de outros actos necessários à sua execução.
 
 3. Quando o valor da operação exceder 10 milhões de escudos, a autorização fica sujeita a homologação do governador da província, e quando exceder 50 milhões de escudos, a homologação do Ministro do Ultramar.
 
-###### Art. 22.º - 1. Os pedidos de autorização serão dirigidos à autoridade cambial da província respectiva, devendo conter ou ser acompanhados de todos os elementos de informação ou de prova necessários para a completa identificação dos intervenientes, a perfeita determinação de natureza e valor das operações e o preciso conhecimento dos direitos e obrigações delas decorrentes.
+Art. 22.º - 1. Os pedidos de autorização serão dirigidos à autoridade cambial da província respectiva, devendo conter ou ser acompanhados de todos os elementos de informação ou de prova necessários para a completa identificação dos intervenientes, a perfeita determinação de natureza e valor das operações e o preciso conhecimento dos direitos e obrigações delas decorrentes.
 
 2. Os requerentes com residência no estrangeiro ou em território nacional que não seja a província onde o pedido é apresentado deverão efectuar este pedido de autorização através de entidade com residência nessa província, para o que lhe conferirão, sempre que for caso disso, os adequados poderes de representação.
 
@@ -227,13 +235,13 @@ d) Os actos igualmente entre vivos mencionados no aludido anexo II, desde que en
 
 4. Quando a natureza e o montante da operação o justifiquem, a autoridade cambial pode ouvir o Banco de Portugal sobre os aspectos monetário-cambiais da referida operação.
 
-###### Art. 23.º - 1. A autorização será concedida mediante a emissão de um boletim de capitais privados em quatro exemplares, marcados com as letras A a D, destinando-se os exemplares A e B aos interessados e os C e D à autoridade cambial.
+Art. 23.º - 1. A autorização será concedida mediante a emissão de um boletim de capitais privados em quatro exemplares, marcados com as letras A a D, destinando-se os exemplares A e B aos interessados e os C e D à autoridade cambial.
 
 2. Dos boletins de autorização constará sempre o respectivo prazo de validade e neles se deverá indicar, quando for caso disso, o plano, prazos intermédios e condições de realização da operação.
 
 3. Sendo autorizadas modificações à operação inicialmente autorizada, deverão ser emitidos boletins de rectificação com o número de exemplares e distribuição iguais aos referidos no n.º 1 do presente artigo.
 
-###### Art. 24.º - 1. O prazo de validade dos boletins de autorização não deverá, em regra, exceder noventa dias, a contar da data da emissão.
+Art. 24.º - 1. O prazo de validade dos boletins de autorização não deverá, em regra, exceder noventa dias, a contar da data da emissão.
 
 2. Quando, em virtude da natureza ou das características da operação ou de outras circunstâncias atendíveis, for considerado justificável, poderão ser fixados prazos de validade superiores ao indicado no número anterior.
 
@@ -243,53 +251,53 @@ d) Os actos igualmente entre vivos mencionados no aludido anexo II, desde que en
 
 5. Se a prorrogação ou revalidação for concedida apenas para a prática do acto referido, o boletim de rectificação será emitido sem o exemplar B, e se só para a realização da liquidação, o dito boletim será emitido sem o exemplar A.
 
-###### Art. 25.º Obtida a autorização para a operação de importação ou exportação de capitais privados e tratando-se de operações abrangidas pelas alíneas c) ou d) do n.º 2 do artigo 20.º:
+Art. 25.º Obtida a autorização para a operação de importação ou exportação de capitais privados e tratando-se de operações abrangidas pelas alíneas c) ou d) do n.º 2 do artigo 20.º:
 
 a) Os actos assim autorizados devem ser celebrados dentro do prazo de validade do respectivo boletim de autorização e mediante a apresentação do exemplar A, se para a validade dos mesmos actos for essencial que eles revistam a forma de documento autêntico ou autenticado;
 
 b) Os interessados devem promover, igualmente dentro do prazo de validade do boletim e mediante a apresentação do exemplar A, a realização dos registos referidos no n.º 3 do artigo 20.º, quando para a validade dos actos autorizados e celebrados não seja essencial que eles revistam a forma de documento autêntico ou autenticado.
 
-###### Art. 26.º - 1. As operações cambiais ou de pagamentos interterritoriais correspondentes às operações de capitais autorizadas devem ser efectuadas mediante a apresentação do exemplar B do respectivo boletim de autorização, dentro do prazo de validade deste boletim, na moeda nele indicada e por intermédio de instituição de crédito autorizada a exercer o comércio de câmbios pleno.
+Art. 26.º - 1. As operações cambiais ou de pagamentos interterritoriais correspondentes às operações de capitais autorizadas devem ser efectuadas mediante a apresentação do exemplar B do respectivo boletim de autorização, dentro do prazo de validade deste boletim, na moeda nele indicada e por intermédio de instituição de crédito autorizada a exercer o comércio de câmbios pleno.
 
 2. Tratando-se de importação ou exportação de capitais entre uma província ultramarina e outro território nacional, as operações de pagamentos interterritoriais terão de ser efectuadas por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios naquela província.
 
 3. Se a importação ou exportação de capitais for entre uma província ultramarina e o estrangeiro, as operações cambiais poderão ser efectuadas por intermédio de instituição de crédito autorizada a exercer o comércio de câmbios em qualquer território nacional.
 
-###### Art. 27.º - 1. Na liquidação de operações de capitais entre uma província ultramarina e o estrangeiro observar-se-á o disposto nas directivas monetárias estabelecidas para a liquidação das operações de importação e de exportação ou reexportação de mercadorias, devendo as importações de capitais ser liquidadas nas moedas indicadas relativamente à exportação ou reexportação de mercadorias e as exportações de capitais nas moedas previstas para a importação de mercadorias.
+Art. 27.º - 1. Na liquidação de operações de capitais entre uma província ultramarina e o estrangeiro observar-se-á o disposto nas directivas monetárias estabelecidas para a liquidação das operações de importação e de exportação ou reexportação de mercadorias, devendo as importações de capitais ser liquidadas nas moedas indicadas relativamente à exportação ou reexportação de mercadorias e as exportações de capitais nas moedas previstas para a importação de mercadorias.
 
 2. As liquidações de operações de importação e exportação de capitais privados entre uma província ultramarina e outro território nacional serão efectuadas em escudos metropolitanos ou na moeda do território nacional de importação dos capitais.
 
-###### Art. 28.º - 1. As instituições de crédito que efectuassem as operações cambiais ou de pagamentos interterritoriais referidas no anterior artigo 26.º anotá-las-ão nos exemplares B dos respectivos boletins de autorização e remeterão esses exemplares à autoridade cambial na data da respectiva utilização ou no dia útil imediato.
+Art. 28.º - 1. As instituições de crédito que efectuassem as operações cambiais ou de pagamentos interterritoriais referidas no anterior artigo 26.º anotá-las-ão nos exemplares B dos respectivos boletins de autorização e remeterão esses exemplares à autoridade cambial na data da respectiva utilização ou no dia útil imediato.
 
 2. Quando o boletim de autorização não for utilizado pela totalidade da respectiva importância, a instituição de crédito anotará no exemplar E a utilização parcial realizada e comunicá-la-á à autoridade cambial em impresso próprio e no prazo fixado no anterior n.º 1.
 
-###### Art. 29.º Quando a operação cambial for efectuada através de instituição de crédito de outro território nacional, atender-se-á ao que sobre a matéria se dispõe na regulamentação do comércio de câmbios aplicável.
+Art. 29.º Quando a operação cambial for efectuada através de instituição de crédito de outro território nacional, atender-se-á ao que sobre a matéria se dispõe na regulamentação do comércio de câmbios aplicável.
 
-###### Art. 30.º - 1. Sempre que uma operação de importação ou de exportação de capitais privados corresponder inteiramente a uma operação de mercadorias, os titulares do boletim de autorização deverão remeter à autoridade cambial o exemplar B daquele boletim de autorização juntamente com o exemplar E do boletim de registo prévio.
+Art. 30.º - 1. Sempre que uma operação de importação ou de exportação de capitais privados corresponder inteiramente a uma operação de mercadorias, os titulares do boletim de autorização deverão remeter à autoridade cambial o exemplar B daquele boletim de autorização juntamente com o exemplar E do boletim de registo prévio.
 
 2. Quando o valor das operações de importação ou de exportação de capitais não corresponder integralmente ao valor das operações de importação ou de exportação de mercadorias, os titulares dos boletins de autorização entregarão à instituição de crédito a que recorrerem para a efectivação das liquidações os exemplares B dos boletins de autorização e E dos boletins de registo prévio, cumprindo à referida instituição a sua transmissão à autoridade cambial, nos termos do artigo 27.º
 
-###### Art. 31.º A liquidação das operações de importação e exportação de capitais privados só pode ser efectuada por forma diferente da estabelecida nos artigos anteriores mediante autorização especial e prévia da autoridade cambial da província, sem prejuízo do estabelecido na segunda parte do n.º 2 do artigo 21.º
+Art. 31.º A liquidação das operações de importação e exportação de capitais privados só pode ser efectuada por forma diferente da estabelecida nos artigos anteriores mediante autorização especial e prévia da autoridade cambial da província, sem prejuízo do estabelecido na segunda parte do n.º 2 do artigo 21.º
 
-###### Art. 32.º - 1. Os capitais importados ou exportados não poderão ser aplicados por forma ou com fins diversos daqueles para que houverem sido concedidas as respectivas autorizações.
+Art. 32.º - 1. Os capitais importados ou exportados não poderão ser aplicados por forma ou com fins diversos daqueles para que houverem sido concedidas as respectivas autorizações.
 
 2. Celebrados os actos abrangidos por uma autorização de importação ou exportação de capitais, fica o titular dessa autorização obrigado a efectuar as correspondentes operações cambiais ou de pagamentos interterritoriais.
 
 3. A autoridade cambial da província respectiva poderá permitir que à importância total das operações cambiais ou das operações de pagamentos interterritoriais sejam deduzidas comissões, despesas no território de exportação dos capitais e outros encargos inerentes à operação de capitais realizada.
 
-###### Art. 33.º - 1. Expirado o respectivo prazo de validade e não tendo as autorizações sido utilizadas, total ou parcialmente, deverão os seus titulares solicitar a revalidação nos termos do artigo 24.º ou, no prazo de cinco dias, devolver os exemplares do boletim de autorização em seu poder à autoridade cambial emitente.
+Art. 33.º - 1. Expirado o respectivo prazo de validade e não tendo as autorizações sido utilizadas, total ou parcialmente, deverão os seus titulares solicitar a revalidação nos termos do artigo 24.º ou, no prazo de cinco dias, devolver os exemplares do boletim de autorização em seu poder à autoridade cambial emitente.
 
 2. Sendo aplicável o estabelecido no n.º 2 do artigo 32.º, deverão os interessados justificar a não utilização, total ou parcial, da autorização.
 
 3. No caso de uma operação de importação ou exportação de mercadorias implicar, por alargamento do prazo de liquidação ou antecipação desta, uma operação de capitais, não poderão os titulares da autorização usar da faculdade de devolução contemplada no n.º 1, mantendo-se a obrigação de realização das operações cambiais ou de pagamentos interterritoriais inerentes à operação de mercadorias.
 
-###### Art. 34.º - 1. Nas escrituras, autos, cartas de arrematação e outros documentos autênticos ou autenticados, relativos a actos referidos nas alíneas c) e d) do n.º 2 do artigo 20.º, deverão sempre transcrever-se os elementos essenciais do boletim de autorização e mencionar-se, quando o haja, o despacho de homologação.
+Art. 34.º - 1. Nas escrituras, autos, cartas de arrematação e outros documentos autênticos ou autenticados, relativos a actos referidos nas alíneas c) e d) do n.º 2 do artigo 20.º, deverão sempre transcrever-se os elementos essenciais do boletim de autorização e mencionar-se, quando o haja, o despacho de homologação.
 
 2. Os notários, conservadores ou outros funcionários que intervenham nos aludidos actos deverão assegurar o rigoroso cumprimento do disposto no número anterior, podendo ser-lhes transmitidas pela entidade competente instruções para velar por esse cumprimento.
 
 3. As sociedade anónimas ou em comandita por acções não poderão efectuar o averbamento de títulos nominativos representativos de acções ou obrigações de sua emissão nem o registo de acções ou obrigações ao portador que tenham sido objecto de admissão abrangida pelo presente diploma sem que os interessados provem ter efectuado nos termos legais a correspondente operação de capitais.
 
-###### Art. 35.º - 1. Até ao dia 15 de cada mês, os notários e os conservadores do registo predial ou comercial devem dar conhecimento à autoridade cambial dos actos por eles realizados e dos registos efectuados durante o mês anterior relativos a operações de capitais abrangidas pelo presente diploma.
+Art. 35.º - 1. Até ao dia 15 de cada mês, os notários e os conservadores do registo predial ou comercial devem dar conhecimento à autoridade cambial dos actos por eles realizados e dos registos efectuados durante o mês anterior relativos a operações de capitais abrangidas pelo presente diploma.
 
 2. As sociedades anónimas ou em comandita por acções referidas no n.º 3 do anterior artigo 34.º devem dar conhecimento à autoridade cambial de todos os averbamentos e registos abrangidos pelo mesmo n.º 3 que tenham efectuado, devendo esse conhecimento ser dado no prazo de trinta dias, a contar da data da realização do averbamento ou do registo.
 
@@ -299,33 +307,33 @@ b) Os interessados devem promover, igualmente dentro do prazo de validade do bol
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 36.º Compete ao Ministro do Ultramar tomar as providências necessárias à execução nas províncias ultramarinas das deliberações da secção de Política monetária do Conselho de Ministros para os Assuntos Económicos.
+Art. 36.º Compete ao Ministro do Ultramar tomar as providências necessárias à execução nas províncias ultramarinas das deliberações da secção de Política monetária do Conselho de Ministros para os Assuntos Económicos.
 
-###### Art. 37.º A aplicação do disposto no presente decreto à província de Macau, no que se refere às suas operações com o estrangeiro, fica dependente do que vier a ser estabelecido em diploma legal.
+Art. 37.º A aplicação do disposto no presente decreto à província de Macau, no que se refere às suas operações com o estrangeiro, fica dependente do que vier a ser estabelecido em diploma legal.
 
-###### Art. 38.º Os anexos I e II do presente diploma podem ser alterados por portaria do Ministro do Ultramar.
+Art. 38.º Os anexos I e II do presente diploma podem ser alterados por portaria do Ministro do Ultramar.
 
-###### Art. 39.º Os documentos e actos necessários à execução deste decreto, designadamente os pedidos de registo ou de autorização e correspondentes boletins, bem como as declarações a prestar, serão isentos de imposto do selo ou de quaisquer emolumentos.
+Art. 39.º Os documentos e actos necessários à execução deste decreto, designadamente os pedidos de registo ou de autorização e correspondentes boletins, bem como as declarações a prestar, serão isentos de imposto do selo ou de quaisquer emolumentos.
 
-###### Art. 40.º - 1. As transgressões ao disposto neste decreto e aos diplomas, regulamentos, normas e instruções publicados para sua execução serão punidas de acordo com o disposto no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+Art. 40.º - 1. As transgressões ao disposto neste decreto e aos diplomas, regulamentos, normas e instruções publicados para sua execução serão punidas de acordo com o disposto no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
 
 2. Os governadores das províncias podem determinar que as Inspecções de Crédito e Seguros ou do Comércio Bancário sejam coadjuvadas na verificação das transgressões por quaisquer outros serviços ou corporações públicas, seus funcionários ou agentes.
 
-###### Art. 41.º - 1. Para os efeitos do artigo 40.º, a Inspecção de Crédito e Seguros ou do Comércio Bancário, bem como os serviços ou corporações públicas que sejam chamados a coadjuvá-las, podem proceder a exames de escrita e de documentos e à verificação de disponibilidades de caixa e depósitos à ordem em instituições de crédito, de empresas, sociedades, comerciantes ou particulares, independente do disposto nos artigos 42.º e 43.º do Código Comercial.
+Art. 41.º - 1. Para os efeitos do artigo 40.º, a Inspecção de Crédito e Seguros ou do Comércio Bancário, bem como os serviços ou corporações públicas que sejam chamados a coadjuvá-las, podem proceder a exames de escrita e de documentos e à verificação de disponibilidades de caixa e depósitos à ordem em instituições de crédito, de empresas, sociedades, comerciantes ou particulares, independente do disposto nos artigos 42.º e 43.º do Código Comercial.
 
 2. As instituições de crédito, designadamente os bancos comerciais e as casas de câmbios, devem facultar às autoridades referidas no número anterior todos os elementos de informação que elas lhes solicitarem.
 
-###### Art. 42.º Para efeito do estabelecido no presente diploma, são autoridades cambiais, nas províncias de governo-geral, os administradores dos fundos cambiais e, nas províncias de governo simples, os inspectores de crédito e seguros.
+Art. 42.º Para efeito do estabelecido no presente diploma, são autoridades cambiais, nas províncias de governo-geral, os administradores dos fundos cambiais e, nas províncias de governo simples, os inspectores de crédito e seguros.
 
-###### Art. 43.º O presente decreto entra imediatamente em vigor.
+Art. 43.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 13 de Dezembro de 1971.**
+Promulgado em 13 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.
 
@@ -555,4 +563,4 @@ Movimentos de capitais de carácter pessoal
 
 6. Outras transferências de natureza semelhante à das anteriores.
 
-**O Ministro das Finanças e da Economia, João Augusto Dias Rosas. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro das Finanças e da Economia, João Augusto Dias Rosas. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

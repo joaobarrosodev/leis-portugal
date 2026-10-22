@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 163/1976, 1º Suplemento, Série I de 1976-07-14
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1552-(1) a 1552-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16301/00010008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-a-1976-384250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c2edea5077320fbe369acc7f1f732def8bf72c529a355c2646ffd980a5a1b9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dabd850e2c6d096daf86fcbbaf7e26da344cd479db27ec7be3c17b60f111e64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Comércio
+- Empresa Pública
+- Fiscal
+- Papel
+- Portucel
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378718:por
+  label: "Alterados os artigos 9.º e 12.º dos estatutos da Portucel - Empresa de Celulose e Papel de Portugal, E. P., aprovados\
+    \ pelo presente diploma, pelo DEC LEI.330/79.24.08.1979.MIT, DR.IS [195] de 24.08.1979\079\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1979-378718
+  date: '1979-08-24'
+- type: amended_by
+  target: pt:dre:474282:por
+  label: "Alterado o n.º 1 do artigo 9.º do estatuto anexo ao presente diploma, pelo DEC LEI.144/80.22.05.1980.MIE, DR.IS\
+    \ [118] de 22.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1980-474282
+  date: '1980-05-22'
+- type: amended_by
+  target: pt:dre:406085:por
+  label: Transformada a empresa pública PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P. em sociedade anónima, de
+    capitais maioritariamente públicos, passando a denominar-se PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A.
+    pelo(a) Decreto-Lei n.º 405/90 - Diário da República n.º 293/1990, 2º Suplemento, Série I de 1990-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1990-406085
+  date: '1990-12-21'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:302275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382226:por
+  label: "Revogado o n.º 2 do artigo 7.º pelo DEC LEI.234/79.24.07.1979.MIT, DR.IS [169] de 24.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1979-382226
+  date: '1979-07-24'
 article_structure:
   article_count: 33
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:56Z'
   warnings: []
   errors: []
 ---
@@ -126,15 +178,15 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. criada a empresa pública denominada Empresa de Celulose e Papel de Portugal, E. P.
+Artigo 1.º - 1. criada a empresa pública denominada Empresa de Celulose e Papel de Portugal, E. P.
 
 2. A Empresa de Celulose e Papel de Portugal, E. P., abrevidamente denominada Portucel, integra as sociedades nacionalizadas nos termos do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio, e reger-se-á pelos estatutos publicados em anexo a este decreto-lei e que dele fazem parte integrante.
 
-###### Art. 2.º - 1. A Portucel é uma empresa pública dotada de personalidade jurídica e de autonomia administrativa e financeira, a exercer nos termos fixados na lei e no estatuto.
+Art. 2.º - 1. A Portucel é uma empresa pública dotada de personalidade jurídica e de autonomia administrativa e financeira, a exercer nos termos fixados na lei e no estatuto.
 
 2. A Portucel exerce a sua actividade em todo o território nacional, tem a sua sede em Lisboa, podendo criar qualquer forma de representação em pontos determinados do País ou do estrangeiro, de acordo com os seus estatutos.
 
-###### Art. 3.º - 1. O património inicial da Portucel é constituído pelos patrimónios autónomos formados nos termos do n.º 1 do artigo 3.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio, e pelos direitos e obrigações a eles afectos, nos termos da mesma disposição legal, considerando-se a respectiva titularidade transmitida para a Portucel na data da entrada em vigor deste diploma.
+Art. 3.º - 1. O património inicial da Portucel é constituído pelos patrimónios autónomos formados nos termos do n.º 1 do artigo 3.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio, e pelos direitos e obrigações a eles afectos, nos termos da mesma disposição legal, considerando-se a respectiva titularidade transmitida para a Portucel na data da entrada em vigor deste diploma.
 
 2. As transmissões que corporizam o disposto no número anterior operam-se por força deste decreto-lei, que constitui, para todos os efeitos legais, incluindo os de registo, título bastante.
 
@@ -142,9 +194,9 @@ Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. As transmissões de que trata este artigo serão efectuadas mediante averbamento e ficam isentas do pagamento de impostos, incluindo o do selo, taxas e emolumentos.
 
-###### Art. 4.º Considera-se igualmente transmitida para a Portucel, nos termos estabelecidos no artigo anterior, a titularidade das acções nacionalizadas, por força do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio.
+Art. 4.º Considera-se igualmente transmitida para a Portucel, nos termos estabelecidos no artigo anterior, a titularidade das acções nacionalizadas, por força do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio.
 
-###### Art. 5.º - 1. O capital próprio da Portucel é o resultante da soma dos capitais próprios das sociedades nacionalizadas por força do n.º 1 do artigo 1.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio, de acordo com a sua escrituração à data da nacionalização, corrigidos em função:
+Art. 5.º - 1. O capital próprio da Portucel é o resultante da soma dos capitais próprios das sociedades nacionalizadas por força do n.º 1 do artigo 1.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio, de acordo com a sua escrituração à data da nacionalização, corrigidos em função:
 
 a) Dos resultados do exercício de 1975 e dos elementos respeitantes à parte já decorrida do exercício de 1976;
 
@@ -156,19 +208,19 @@ b) Da anulação dos elementos do activo integrados por acções representativas
 
 4. A diferença apurada entre os capitais próprio e estatutário será afectada à constituição de reservas, devendo ser criada, obrigatoriamente, uma reserva para flutuação de valor de títulos de crédito de importância igual à soma das verbas escrituradas para tal fim, à data de eficácia da nacionalização, corrigida pela compensação referida no n.º 2.
 
-###### Art. 6.º Os direitos de participação social e as obrigações conexas que, por força do disposto no artigo 3.º, hajam sido transmitidos para a Portucel poderão ser distraídos de titularidade desta, por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e da Indústria e Tecnologia, que fixará as condições a observar para o efeito.
+Art. 6.º Os direitos de participação social e as obrigações conexas que, por força do disposto no artigo 3.º, hajam sido transmitidos para a Portucel poderão ser distraídos de titularidade desta, por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e da Indústria e Tecnologia, que fixará as condições a observar para o efeito.
 
-###### Art. 7.º - 1. A Portucel ficará submetida à disciplina legal em vigor para o respectivo sector de actividade sempre que não for contrário ao disposto neste diploma.
+Art. 7.º - 1. A Portucel ficará submetida à disciplina legal em vigor para o respectivo sector de actividade sempre que não for contrário ao disposto neste diploma.
 
 2. A Portucel gozará de exclusivo de produção de pasta de celulose e da sua transformação em unidades integradas de papel e cartão, ressalvados os direitos reconhecidos à Celbi - Celulose Beira Industrial, S. A. R. L., e à Companhia de Celulose do Caima, S. A. R. L.
 
-###### Art. 8.º Entre o Estado e a Portucel poderão ser celebrados contratos com vista ao estabelecimento, por um período determinado, de objectivos a atingir pela empresa, com indicação dos meios postos à sua disposição e das facilidades a serem concedidas pelo Governo.
+Art. 8.º Entre o Estado e a Portucel poderão ser celebrados contratos com vista ao estabelecimento, por um período determinado, de objectivos a atingir pela empresa, com indicação dos meios postos à sua disposição e das facilidades a serem concedidas pelo Governo.
 
-###### Art. 9.º - 1. A Portucel ficará sujeita a tributação directa e indirecta nos termos da lei aplicável.
+Art. 9.º - 1. A Portucel ficará sujeita a tributação directa e indirecta nos termos da lei aplicável.
 
 2. A Portucel gozará das isenções, benefícios ou autorizações de natureza fiscal ou outras que à data da entrada em vigor deste diploma estiverem atribuídas a qualquer das sociedades nacionalizadas pelo [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio.
 
-###### Art. 10.º - 1. O pessoal que, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio, haja transitado para as sociedades nacionalizadas por força do n.º 1 do artigo 1.º do mesmo diploma, ou que, posteriormente, nelas tenha sido admitido, transita para a Portucel, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações, sem prejuízo do que vier a ser estabelecido no estatuto unificado do pessoal a que se refere a alínea b) do artigo 13.º do diploma atrás referido.
+Art. 10.º - 1. O pessoal que, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio, haja transitado para as sociedades nacionalizadas por força do n.º 1 do artigo 1.º do mesmo diploma, ou que, posteriormente, nelas tenha sido admitido, transita para a Portucel, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações, sem prejuízo do que vier a ser estabelecido no estatuto unificado do pessoal a que se refere a alínea b) do artigo 13.º do diploma atrás referido.
 
 2. São garantidos ao pessoal todos os direitos resultantes da antiguidade e os de inscrição nas caixas de previdência.
 
@@ -178,19 +230,19 @@ b) Da anulação dos elementos do activo integrados por acções representativas
 
 5. Durante o mesmo período continuarão a aplicar-se em cada um dos locais de trabalho da Portucel as regras internas que neles vigoravam à data da publicação deste decreto-lei.
 
-###### Art. 11.º - 1. Consideram-se extintas na data da entrada em vigor deste diploma as sociedades nacionalizadas pelo artigo 1.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio.
+Art. 11.º - 1. Consideram-se extintas na data da entrada em vigor deste diploma as sociedades nacionalizadas pelo artigo 1.º do [Decreto-Lei n.º 221-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-b-1975-302275), de 9 de Maio.
 
 2. As sociedades referidas no número anterior ficam dispensadas do cumprimento e das formalidades e obrigações legais relativamente à cessação de actividade.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## Anexo ao Decreto-Lei n.º 554-A/76
+Anexo ao Decreto-Lei n.º 554-A/76
 
 ESTATUTO DA PORTUCEL - EMPRESA DE CELULOSE E PAPEL DE PORTUGAL, E. P.
 
@@ -350,7 +402,9 @@ b) Outro membro efectivo e o suplente que forem indicados pelos trabalhadores da
 
 ### CAPÍTULO IV — Sistema de gestão
 
-#### SECÇÃO I — Artigo 14.º
+#### SECÇÃO I
+
+###### Artigo 14.º
 
 Princípios gerais
 
@@ -616,4 +670,4 @@ c) À manutenção das remunerações auferidas.
 
 2. A extinção, fusão ou cisão da Portucel operar-se-á por decisão do Conselho de Ministros, constante de decreto referendado.
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15300/12451246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1978-298022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cea1f94f1ed0c2ff9a11272b4979833ff7cb65446d541e22f395b6a9881a5b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fe704fe08dadf4b5d5cc2da20b7da64d85359ffdd5924f04ea8030de0768418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Construção Naval
+- Definição de Competências
+- Embarcação de Pesca
+- Instituto Nacional de Investigação das Pescas
+- Pesca
+- Secretário de Estado das Pescas
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:689843:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:32Z'
   warnings: []
   errors: []
 ---
@@ -100,22 +119,22 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Mediante autorização do Secretário de Estado das Pescas, o Instituto Nacional de Investigação das Pescas pode adquirir, mandar construir, fretar ou utilizar, ao abrigo de acordos internacionais, embarcações de pesca, nacionais ou estrangeiras, com o objectivo de experimentar novos tipos de emprego de embarcações de pesca e de conservação de pescado.
+Artigo 1.º - 1 - Mediante autorização do Secretário de Estado das Pescas, o Instituto Nacional de Investigação das Pescas pode adquirir, mandar construir, fretar ou utilizar, ao abrigo de acordos internacionais, embarcações de pesca, nacionais ou estrangeiras, com o objectivo de experimentar novos tipos de emprego de embarcações de pesca e de conservação de pescado.
 
 2 - Logo que as referidas embarcações deixem de ser necessárias para os fins referidos no número anterior, a Secretaria de Estado das Pescas determinará ou a sua venda em hasta pública, no caso de embarcações adquiridas ou mandadas construir, com observância das disposições legais aplicáveis, ou o seu regresso à situação anterior, no caso de embarcações fretadas ou utilizadas ao abrigo de acordos internacionais, caducando imediatamente todas as isenções das disposições em vigor que, nos termos do presente diploma, lhes tenham sido concedidas.
 
-###### Art. 2.º - 1 - Os planos das actividades experimentais a realizar pelas embarcações de que trata o artigo anterior serão aprovados pelo Secretário de Estado das Pescas, que estabelecerá, por despacho, as condições a que deve subordinar-se a elaboração daqueles planos e a respectiva execução.
+Art. 2.º - 1 - Os planos das actividades experimentais a realizar pelas embarcações de que trata o artigo anterior serão aprovados pelo Secretário de Estado das Pescas, que estabelecerá, por despacho, as condições a que deve subordinar-se a elaboração daqueles planos e a respectiva execução.
 
 2 - Para execução dos planos referidos no n.º 1, poderá o Secretário de Estado das Pescas, quando houver razões justificativas, dispensar, por despacho, as embarcações abrangidas pelo artigo 1.º do cumprimento das normas em vigor, nomeadamente quanto a portos de descarga, áreas de operação, tipos e modos de emprego de artes de pesca e lotações.
 
-###### Art. 3.º O produto da venda dos barcos e os lucros líquidos eventualmente apurados na exploração das embarcações de que trata o presente diploma constituirão receita geral do Estado.
+Art. 3.º O produto da venda dos barcos e os lucros líquidos eventualmente apurados na exploração das embarcações de que trata o presente diploma constituirão receita geral do Estado.
 
-###### Art. 4.º O presente diploma revoga o [Decreto-Lei n.º 400/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1972-689843), de 24 de Outubro.
+Art. 4.º O presente diploma revoga o [Decreto-Lei n.º 400/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1972-689843), de 24 de Outubro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Luís Silvério Gonçalves Saias.
 
-**Promulgado em 21 de Junho de 1978.**
+Promulgado em 21 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

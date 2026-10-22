@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/1980, 2º Suplemento, Série I de 1980-06-09
   number: '132'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1364-(55) a 1364-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13202/00550056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-e-1980-324950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e87bfce4fbe7b75deee7e4b1040debaa92dd44dca649753b8d692f1820f8873d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cafc1d10eda18ab816f280dd2bf614b00f1347eb18e19ee0b3dfc3f4b80be09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Capitais
+- Imposto de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:22Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +107,9 @@ Assim:
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 14.º, 21.º e 42.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 14.º, 21.º e 42.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
@@ -108,7 +119,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 ...
 
-###### Art. 21.º A taxa do imposto de capitais é de 30%, salvo nos casos previstos nos parágrafos seguintes:
+Art. 21.º A taxa do imposto de capitais é de 30%, salvo nos casos previstos nos parágrafos seguintes:
 
 § 1.º Quando se trate de lucros, juros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 18%.
 
@@ -120,7 +131,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 ...
 
-###### Art. 42.º ...
+Art. 42.º ...
 
 § 1.º Tratando-se de suprimentos, abonos ou lucros que não vençam juros, poderão as sociedades exigir o reembolso do imposto que tiverem pago.
 
@@ -128,7 +139,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 3.º A dispensa referida no parágrafo anterior poderá ser revogada a todo o tempo, produzindo a revogação efeito nos pagamentos dos rendimentos a efectuar depois de notificada, à empresa pagadora, a revogação.
 
-###### Art. 2.º Os prazos estabelecidos nos artigos 45.º e 46.º do Código do Imposto de Capitais, a observar no corrente ano, com referência ao imposto de capitais, secção A, respeitante aos rendimentos do ano de 1979, são os seguintes:
+Art. 2.º Os prazos estabelecidos nos artigos 45.º e 46.º do Código do Imposto de Capitais, a observar no corrente ano, com referência ao imposto de capitais, secção A, respeitante aos rendimentos do ano de 1979, são os seguintes:
 
 a) Entrega dos conhecimentos aos tesoureiros da Fazenda Pública - até 20 de Junho;
 
@@ -136,12 +147,12 @@ b) Expedição dos avisos para o pagamento à boca do cofre - até ao dia 25 de 
 
 c) Prazo de pagamento à boca do cofre - mês de Julho.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor, e a alteração ao artigo 21.º do Código aplica-se ao imposto de capitais, secção A, liquidado posteriormente à data da entrada em vigor deste diploma sobre rendimentos respeitantes aos anos de 1979 e seguintes e ao imposto de capitais, secção B, sobre os rendimentos cujo facto que obriga à entrega do imposto ao Estado ocorra posteriormente àquela mesma data.
+Art. 3.º O presente diploma entra imediatamente em vigor, e a alteração ao artigo 21.º do Código aplica-se ao imposto de capitais, secção A, liquidado posteriormente à data da entrada em vigor deste diploma sobre rendimentos respeitantes aos anos de 1979 e seguintes e ao imposto de capitais, secção B, sobre os rendimentos cujo facto que obriga à entrega do imposto ao Estado ocorra posteriormente àquela mesma data.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 2 de Junho de 1980.**
+Promulgado em 2 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

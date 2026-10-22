@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 297/1979, 3º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3366-(106) a 3366-(111)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29703/01060111.pdf
 entry_into_force_dates: []
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 230cb8e9414aa125970960b8adc694a101b73f8ae2d037ad073fdd7cfee9f922
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e66d12e40dbdeee94199d24df0e339730b29571f4f61b1ce520b184f26bcd144
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Despachante Oficial
+- Direcção Geral das Alfândegas
+- Quadro de Pessoal
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Sociedades de Despachantes Oficiais e seus Empregados
 relationships:
 - type: amended_by
   target: pt:dre:694175:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:441559:por
+  label: "Alterado o art. 4º do diploma preambular e alterado o nº 1 do art. 8º e o art. 11º e aditado um art. 12º ao Regulamento,\
+    \ pelo DEC LEI.391/83.1983.10.21.MFP, DR.IS [243]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1983-441559
+  date: '1983-10-21'
+- type: amended_by
+  target: pt:dre:387294:por
+  label: "Alterado o art. 454º da Reforma Aduaneira, aprovada pelo Dec Lei 46311 de 27-Abr 1965, DG.IS [92]Supl, na redacção\
+    \ dada pelo presente diploma, pelo DEC LEI.205/84.1984.06.25.MFP DR.IS [145]\05]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1984-387294
+  date: '1984-06-25'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678223:por
+  label: Rectificada pela DECL.DD888.1980.02.28.PCM DR.IS [61] DE 13/MAR/1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678223
+  date: '1980-02-28'
+- type: repealed_by
+  target: pt:dre:375224:por
+  label: "Revogados os nºs 7, 8 e 9 do art. 2º e alterado o art. 4º deste diploma, bem como o art. 8º do Regulamento, publicado\
+    \ em anexo, pelo DEC LEI.397/82.1982.09.22.MFP, DR.IS [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-1982-375224
+  date: '1982-09-22'
+- type: repealed_by
+  target: pt:dre:623039:por
+  label: "Revogados os arts. 1º, 2º e 4º do presente diploma, bem como alterado o art. 2º e revogados os nºs 1 e 8 do art.\
+    \ 1º e o art. 8º do Regulamento das Sociedades de Despachantes Oficiais e seus Empregados, publicado em anexo, pelo DEC\
+    \ LEI 280/92.1992.12.18.MF, DR.IS-A [291]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1992-623039
+  date: '1992-12-18'
+- type: repealed_by
+  target: pt:dre:694175:por
+  label: "Revogado o art. 9º pelo DEC LEI.445/99.1999.11.03.MF, DR.IS-A [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/445-1999-694175
+  date: '1999-11-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:23Z'
   warnings: []
   errors: []
 ---
@@ -114,11 +171,11 @@ Outro tanto se estabelece quanto à liberdade sindical reconhecida no n.º 1 do 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nos termos do § 1.º do artigo 439.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, e em derrogação transitória, por uma só vez e sem prejuízo da sua plena vigência posterior, do condicionalismo expresso na sua parte final, o director-geral das Alfândegas aumentará os quadros de despachantes oficiais de tantos lugares quantas as vagas existentes à data da publicação deste diploma.
+Artigo 1.º - 1 - Nos termos do § 1.º do artigo 439.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, e em derrogação transitória, por uma só vez e sem prejuízo da sua plena vigência posterior, do condicionalismo expresso na sua parte final, o director-geral das Alfândegas aumentará os quadros de despachantes oficiais de tantos lugares quantas as vagas existentes à data da publicação deste diploma.
 
 2 - Ouvidos os directores das alfândegas, a Câmara dos Despachantes Oficiais e os sindicatos representativos dos ajudantes de despachantes oficiais, o director-geral das Alfândegas poderá redistribuir pelos diferentes quadros o total das vagas obtido de harmonia com o número antecedente.
 
-###### Art. 2.º - 1 - Após essa redistribuição, metade do total das vagas de cada quadro será reservada aos despachantes das ex-colónias, sendo abertos para o seu preenchimento, por uma só vez e simultaneamente, concursos documentais pelo prazo de vinte dias.
+Art. 2.º - 1 - Após essa redistribuição, metade do total das vagas de cada quadro será reservada aos despachantes das ex-colónias, sendo abertos para o seu preenchimento, por uma só vez e simultaneamente, concursos documentais pelo prazo de vinte dias.
 
 2 - Além dos referidos no § 2.º do artigo 450.º da Reforma Aduaneira, os concorrentes deverão instruir os seus requerimentos com os seguintes documentos:
 
@@ -142,11 +199,11 @@ b) Documento, visado pela Câmara dos Despachantes Oficiais, donde conste o seu 
 
 10 - Os candidatos que desejem passar desde já à situação de reforma deverão indicá-lo no requerimento, que fundamentarão documentalmente, iniciando-se, nos termos legais, o seu processo de aposentação.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 509/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1976-431393), de 2 de Julho.
+Art. 3.º É revogado o [Decreto-Lei n.º 509/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1976-431393), de 2 de Julho.
 
-###### Art. 4.º Por morte, aposentação, demissão ou qualquer outro impedimento do despachante, os empregados deste podem constituir-se em sociedade, nos termos do regulamento aprovado pelo artigo 9.º do presente decreto-lei, observando-se, quanto ao preenchimento da respectiva vaga, o que naquele se estabelece, no seu artigo 8.º
+Art. 4.º Por morte, aposentação, demissão ou qualquer outro impedimento do despachante, os empregados deste podem constituir-se em sociedade, nos termos do regulamento aprovado pelo artigo 9.º do presente decreto-lei, observando-se, quanto ao preenchimento da respectiva vaga, o que naquele se estabelece, no seu artigo 8.º
 
-###### Art. 5.º São eliminadas da Reforma Aduaneira as seguintes disposições:
+Art. 5.º São eliminadas da Reforma Aduaneira as seguintes disposições:
 
 1) Alínea d) do n.º 2.º do artigo 434.º;
 
@@ -162,7 +219,7 @@ b) Documento, visado pela Câmara dos Despachantes Oficiais, donde conste o seu 
 
 7) N.º 10.º do artigo 472.º
 
-###### Art. 6.º É alterada a numeração dos seguintes preceitos da Reforma Aduaneira:
+Art. 6.º É alterada a numeração dos seguintes preceitos da Reforma Aduaneira:
 
 1) O § 5.º do artigo 444.º passa a § 6.º;
 
@@ -172,9 +229,9 @@ b) Documento, visado pela Câmara dos Despachantes Oficiais, donde conste o seu 
 
 4) O § 5.º do artigo 443.º passa a § 4.º
 
-###### Art. 7.º Os artigos 434.º, 435.º, 440.º, 441.º, 442.º, 443.º, 445.º, 448.º, 449.º, 450.º, 451.º, 453.º, 454.º, 455.º, 456.º, 472.º e 474.º da Reforma Aduaneira passam a ter a seguinte redacção:
+Art. 7.º Os artigos 434.º, 435.º, 440.º, 441.º, 442.º, 443.º, 445.º, 448.º, 449.º, 450.º, 451.º, 453.º, 454.º, 455.º, 456.º, 472.º e 474.º da Reforma Aduaneira passam a ter a seguinte redacção:
 
-###### Art. 434.º ...
+Art. 434.º ...
 
 ...
 
@@ -194,29 +251,29 @@ c) Quando a entidade patronal prefira admitir ajudante sem o tempo de exercício
 
 § 5.º Os exames mencionados no parágrafo antecedente obedecerão a programas elaborados pela Direcção-Geral das Alfândegas.
 
-###### Art. 435.º Os despachantes privativos e os agentes aduaneiros que passem a empregados de outra entidade ou empresa ficam dispensados não só do exame mencionado no § 4.º do artigo antecedente, como também da apresentação dos documentos referidos nos seus n.º 2.º e § 1.º, salvo quanto àqueles cujo prazo de validade tenha caducado.
+Art. 435.º Os despachantes privativos e os agentes aduaneiros que passem a empregados de outra entidade ou empresa ficam dispensados não só do exame mencionado no § 4.º do artigo antecedente, como também da apresentação dos documentos referidos nos seus n.º 2.º e § 1.º, salvo quanto àqueles cujo prazo de validade tenha caducado.
 
 ...
 
-###### Art. 437.º ...
+Art. 437.º ...
 
 § 1.º É vedado aos organismos de coordenação económica, às empresas públicas e nacionalizadas, bem como aos próprios serviços do Estado aumentar o número de despachantes privativos ao seu serviço.
 
 ...
 
-###### Art. 440.º Só podem ser nomeados despachantes oficiais de determinado quadro os já providos em outros quadros, os ajudantes de despachante oficial, os despachantes privativos e os agentes aduaneiros que, tendo sido aprovados no concurso a que se refere o artigo 450.º, tenham prestado ou prestem caução.
+Art. 440.º Só podem ser nomeados despachantes oficiais de determinado quadro os já providos em outros quadros, os ajudantes de despachante oficial, os despachantes privativos e os agentes aduaneiros que, tendo sido aprovados no concurso a que se refere o artigo 450.º, tenham prestado ou prestem caução.
 
 § único. A caução a que se refere a parte final do corpo deste artigo pode ser prestada por depósito ou fiança bancária.
 
-###### Art. 441.º Sem prejuízo do que estipula n.º 2.º do § 2.º do artigo 450.º, os candidatos que desejarem ser admitidos ao concurso documental a que se refere o corpo daquele artigo deverão ter aprovação em exames de provas públicas para despachantes oficiais, que se regularão nos termos do presente capítulo, na parte aplicável.
+Art. 441.º Sem prejuízo do que estipula n.º 2.º do § 2.º do artigo 450.º, os candidatos que desejarem ser admitidos ao concurso documental a que se refere o corpo daquele artigo deverão ter aprovação em exames de provas públicas para despachantes oficiais, que se regularão nos termos do presente capítulo, na parte aplicável.
 
 § 1.º Os exames referidos no corpo deste artigo serão realizados na Direcção-Geral das Alfândegas, perante um júri designado pelo director-geral.
 
 § 2.º Os exames terão a validade de cinco anos, no termo dos quais se realizarão novos exames de provas públicas, nos termos regulamentares, de igual se procedendo quando não haja candidatos aprovados.
 
-###### Art. 442.º Os candidatos que desejarem prestar as provas dos exames referidos no artigo anterior deverão apresentar o seu requerimento, na Direcção-Geral das Alfândegas, dentro do prazo de vinte dias, a contar da publicação do competente aviso no Diário da República.
+Art. 442.º Os candidatos que desejarem prestar as provas dos exames referidos no artigo anterior deverão apresentar o seu requerimento, na Direcção-Geral das Alfândegas, dentro do prazo de vinte dias, a contar da publicação do competente aviso no Diário da República.
 
-###### Art. 443.º ...
+Art. 443.º ...
 
 1.º Documento comprovativo de ter exercido as funções de ajudante de despachante oficial, despachante privativo ou agente aduaneiro, durante, pelo menos, cinco anos, e estar no exercício destas funções durante o ano anterior à data da abertura do concurso.
 
@@ -230,19 +287,19 @@ c) Quando a entidade patronal prefira admitir ajudante sem o tempo de exercício
 
 ...
 
-###### Art. 445.º Os exames mencionados no artigo 441.º obedecerão a programas elaborados pela Direcção-Geral das Alfândegas e abrangerão uma prova escrita e outra oral, não podendo efectuar-se ambas no mesmo dia.
+Art. 445.º Os exames mencionados no artigo 441.º obedecerão a programas elaborados pela Direcção-Geral das Alfândegas e abrangerão uma prova escrita e outra oral, não podendo efectuar-se ambas no mesmo dia.
 
 ...
 
-###### Art. 448.º A classificação final será a média das classificações obtida nas duas provas.
+Art. 448.º A classificação final será a média das classificações obtida nas duas provas.
 
-###### Art. 449.º ...
+Art. 449.º ...
 
 ...
 
 2.º Mais tempo de serviço de despachante oficial, de ajudante de despachante oficial, de despachante privativo ou de agente aduaneiro.
 
-###### Art. 450.º O provimento das vagas de despachante oficial que se verificarem nos diversos quadros a que se refere o artigo 439.º será efectuado por meio de concurso documental, aberto pelo prazo de vinte dias, ao qual serão admitidos os despachantes oficiais de outros quadros, os ajudantes de despachantes oficiais, os despachantes privativos e os agentes aduaneiros que possuam aprovação no exame a que se refere o artigo 441.º, com a validade prescrita no seu § 2.º
+Art. 450.º O provimento das vagas de despachante oficial que se verificarem nos diversos quadros a que se refere o artigo 439.º será efectuado por meio de concurso documental, aberto pelo prazo de vinte dias, ao qual serão admitidos os despachantes oficiais de outros quadros, os ajudantes de despachantes oficiais, os despachantes privativos e os agentes aduaneiros que possuam aprovação no exame a que se refere o artigo 441.º, com a validade prescrita no seu § 2.º
 
 § 1.º Tratando-se de despachante oficial de outros quadros, não se aplica a prescrição referida no citado § 2.º do artigo 441.º
 
@@ -272,15 +329,15 @@ d) Mais idade.
 
 3) A classificação obtida no exame a que se se refere o artigo 441.º para os restantes candidatos.
 
-###### Art. 451.º Havendo candidatos aprovados em exame referido no artigo 441.º, se nenhum destes se candidatar, dentro da validade estabelecida no seu § 2.º, ao concurso documental regulado no corpo do artigo antecedente, e o concurso ficar deserto, serão efectuadas novas provas de exame, nos temos e para os efeitos do artigo 441.º e seguintes, caducando as anteriores.
+Art. 451.º Havendo candidatos aprovados em exame referido no artigo 441.º, se nenhum destes se candidatar, dentro da validade estabelecida no seu § 2.º, ao concurso documental regulado no corpo do artigo antecedente, e o concurso ficar deserto, serão efectuadas novas provas de exame, nos temos e para os efeitos do artigo 441.º e seguintes, caducando as anteriores.
 
 ...
 
-###### Art. 453.º A nomeação pertence ao director-geral, sobre proposta do director da respectiva alfândega, de harmonia com o resultado dos concursos documentais referidos no artigo 450.º, e dela será passado alvará, com prévia prestação da caução e pagamento das imposições devidas.
+Art. 453.º A nomeação pertence ao director-geral, sobre proposta do director da respectiva alfândega, de harmonia com o resultado dos concursos documentais referidos no artigo 450.º, e dela será passado alvará, com prévia prestação da caução e pagamento das imposições devidas.
 
-###### Art. 454.º A importância da caução a que se refere o artigo 440.º fixada em 100000$00.
+Art. 454.º A importância da caução a que se refere o artigo 440.º fixada em 100000$00.
 
-###### Art. 455.º ...
+Art. 455.º ...
 
 ...
 
@@ -294,7 +351,7 @@ d) Mais idade.
 
 § 2.º Os impressos destinados a apresentação de contas serão obrigatória e exclusivamente adquiridos pela Câmara dos Despachantes Oficiais às alfândegas e obedecerão a modelo uniforme para todos os despachantes oficiais, devendo para tal fim os directores das alfândegas submetê-lo a aprovação do director-geral.
 
-###### Art. 456.º ...
+Art. 456.º ...
 
 ...
 
@@ -302,7 +359,7 @@ d) Mais idade.
 
 ...
 
-###### Art. 472.º ...
+Art. 472.º ...
 
 ...
 
@@ -310,21 +367,21 @@ d) Mais idade.
 
 ...
 
-###### Art. 474.º Para ser nomeado praticante é necessário apresentar na direcção da respectiva alfândega os documentos referidos nos n.os 1.º a 9.º do artigo 472.º
+Art. 474.º Para ser nomeado praticante é necessário apresentar na direcção da respectiva alfândega os documentos referidos nos n.os 1.º a 9.º do artigo 472.º
 
-###### Art. 8.º (transitório). Os despachantes oficiais actualmente em exercício deverão, no prazo de sessenta dias, reforçar as respectivas cauções para o montante estabelecido por este diploma.
+Art. 8.º (transitório). Os despachantes oficiais actualmente em exercício deverão, no prazo de sessenta dias, reforçar as respectivas cauções para o montante estabelecido por este diploma.
 
-###### Art. 9.º É aprovado o Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados, que tem por objecto o desempenho da actividade de despachante oficial e que vai publicado em anexo a este diploma.
+Art. 9.º É aprovado o Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados, que tem por objecto o desempenho da actividade de despachante oficial e que vai publicado em anexo a este diploma.
 
-###### Art. 10.º Todas as referências que neste diploma se fazem ao articulado da Reforma Aduaneira entendem-se reportadas às alterações que por ele lhe são introduzidas.
+Art. 10.º Todas as referências que neste diploma se fazem ao articulado da Reforma Aduaneira entendem-se reportadas às alterações que por ele lhe são introduzidas.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Regulamento das Sociedades de Despachantes Oficiais e seus Empregados
 
@@ -412,4 +469,4 @@ As sociedades a que se refere este Regulamento estão sujeitas a todos os devere
 
 Em tudo o não expressamente previsto neste Regulamento prevalecerá a lei geral aplicável às sociedades por quotas de responsabilidade limitada.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

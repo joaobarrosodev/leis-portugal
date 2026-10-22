@@ -48,36 +48,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45411-1963-683828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 464bdb8d7e534b2788e3527d0a4b653f1389ca767d4f6189abc8824085ad705d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93604ed9aa692d15fc8952c37c909fb2b1e39c8a112e78397048f7d42c40d3fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Agência Geral do Ultramar
+- Chefe de Secção
+- Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica
+- Criação de Lugares
+- Hospital do Ultramar
+- Ministério do Ultramar
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Contratado
+- Pessoal de Chefia
+- Pessoal de Enfermagem
+- Pessoal Técnico
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685796:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:15Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +144,7 @@ Disposições especiais
 
 A) Agência-Geral do Ultramar
 
-###### Artigo 1.º São acrescidos aos quadros de secretaria e de dactilografia referidos nas alíneas B) e C) do mapa n.º 14, anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, os seguintes lugares:
+Artigo 1.º São acrescidos aos quadros de secretaria e de dactilografia referidos nas alíneas B) e C) do mapa n.º 14, anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, os seguintes lugares:
 
 1 de segundo-oficial.
 
@@ -110,15 +158,15 @@ A) Agência-Geral do Ultramar
 
 § único. O primeiro provimento dos lugares criados por este artigo será feito por livre escolha do Ministro do Ultramar, com a aplicação do disposto no § único do artigo 158.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, de entre os agentes contratados fora do quadro presentemente em serviço na Agência-Geral do Ultramar, que vêm sendo remunerados por verba própria inscrita no seu orçamento privativo.
 
-###### Art. 2.º Passa a ser de oito o número de contínuos de 2.ª classe do quadro privativo criado pelo artigo 3.º do [Decreto-Lei n.º 42761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42761-1959-442088), de 24 de Dezembro de 1959.
+Art. 2.º Passa a ser de oito o número de contínuos de 2.ª classe do quadro privativo criado pelo artigo 3.º do [Decreto-Lei n.º 42761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42761-1959-442088), de 24 de Dezembro de 1959.
 
 § único. O recrutamento dos contínuos de que trata o presente artigo far-se-á de entre os contínuos que presentemente estão contratados fora do quadro, em serviço na Agência-Geral do Ultramar, aplicando-se-lhe o disposto no § único do artigo 158.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
 
-###### Art. 3.º As primeiras nomeações a que se refere o § 1.º do artigo 2.º do [Decreto-Lei n.º 44786](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44786-1962-552986), de 7 de Dezembro de 1962, desde que recaiam em indivíduos que já prestem serviço na Agência-Geral do Ultramar há mais de dez anos, como contratados ou assalariados, poderão ser efectuadas com dispensa do limite de idade e habilitações mínimas exigidas pela lei.
+Art. 3.º As primeiras nomeações a que se refere o § 1.º do artigo 2.º do [Decreto-Lei n.º 44786](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44786-1962-552986), de 7 de Dezembro de 1962, desde que recaiam em indivíduos que já prestem serviço na Agência-Geral do Ultramar há mais de dez anos, como contratados ou assalariados, poderão ser efectuadas com dispensa do limite de idade e habilitações mínimas exigidas pela lei.
 
 B) Hospital do Ultramar
 
-###### Art. 4.º No quadro privativo de enfermagem são introduzidas as seguintes alterações:
+Art. 4.º No quadro privativo de enfermagem são introduzidas as seguintes alterações:
 
 A) Eliminação de lugares:
 
@@ -130,9 +178,9 @@ B) Criação de lugares:
 
 § único. Os vencimentos de enfermeiro ou enfermeira especializados são iguais aos fixados para as enfermeiras-parteiras e enfermeiras-puericultoras.
 
-###### Art. 5.º Considera-se incluído no grupo J, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o chefe de secretaria.
+Art. 5.º Considera-se incluído no grupo J, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o chefe de secretaria.
 
-###### Art. 6.º No quadro do pessoal contratado - serviços gerais - são criados os seguintes lugares:
+Art. 6.º No quadro do pessoal contratado - serviços gerais - são criados os seguintes lugares:
 
 1 de médico especializado em estatística hospitalar.
 
@@ -144,15 +192,15 @@ B) Criação de lugares:
 
 § 2.º O médico especializado em estatística hospitalar e os arquivistas são incluídos, respectivamente, nos grupos F e Q, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
-###### Art. 7.º A preparadora de laboratório de virulogia passa a designar-se preparadora de análises, com prática de análises hormonais.
+Art. 7.º A preparadora de laboratório de virulogia passa a designar-se preparadora de análises, com prática de análises hormonais.
 
 C) Instituto de Medicina Tropical
 
-###### Art. 8.º No ano de 1964 serão dotados apenas dois lugares de professor auxiliar.
+Art. 8.º No ano de 1964 serão dotados apenas dois lugares de professor auxiliar.
 
-###### Art. 9.º São incluídos no grupo J, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o chefe de laboratório de microscopia electrónica e o chefe de secretaria.
+Art. 9.º São incluídos no grupo J, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o chefe de laboratório de microscopia electrónica e o chefe de secretaria.
 
-###### Art. 10.º O quadro do pessoal contratado é aumentado das seguintes unidades:
+Art. 10.º O quadro do pessoal contratado é aumentado das seguintes unidades:
 
 1 de assistente.
 
@@ -162,13 +210,13 @@ C) Instituto de Medicina Tropical
 
 D) Jardim e Museu Agrícola do Ultramar
 
-###### Art. 11.º O secretário é incluído no grupo L, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Art. 11.º O secretário é incluído no grupo L, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
 E) Núcleo de Documentação Técnica
 
-###### Art. 12.º É integrado no grupo N, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o encarregado do expediente da secretaria.
+Art. 12.º É integrado no grupo N, a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, o encarregado do expediente da secretaria.
 
-###### Art. 13.º No quadro do pessoal assalariado é eliminado o lugar de contínuo, a aumentar ao quadro do pessoal contratado.
+Art. 13.º No quadro do pessoal assalariado é eliminado o lugar de contínuo, a aumentar ao quadro do pessoal contratado.
 
 § único. Enquanto não for contratado, o actual contínuo assalariado perceberá o salário por conta da dotação inscrita para o lugar de contínuo contratado.
 
@@ -176,7 +224,7 @@ II
 
 Disposições gerais
 
-###### Art. 14.º Aos funcionários do Ministério do Ultramar, dos organismos dependentes e das províncias ultramarinas, que sejam vítimas de acidentes de viação sem ser por motivo de serviço, é mantido o direito de assistência no Hospital do Ultramar, nos termos da legislação vigente.
+Art. 14.º Aos funcionários do Ministério do Ultramar, dos organismos dependentes e das províncias ultramarinas, que sejam vítimas de acidentes de viação sem ser por motivo de serviço, é mantido o direito de assistência no Hospital do Ultramar, nos termos da legislação vigente.
 
 § 1.º Fica o Hospital do Ultramar, nos casos previstos no corpo deste artigo, autorizado a cobrar de terceiros responsáveis pelos acidentes, ou das companhias de seguros para quem passou essa responsabilidade, as taxas que forem devidas.
 
@@ -184,15 +232,15 @@ Disposições gerais
 
 § 3.º Às famílias dos funcionários referidos no corpo do artigo são aplicáveis, em casos de acidente de viação, estas disposições.
 
-###### Art. 15.º É substituída pela seguinte a redacção dos artigos 7.º e 11.º do [Decreto-Lei n.º 45222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45222-1963-685796), de 30 de Agosto de 1963:
+Art. 15.º É substituída pela seguinte a redacção dos artigos 7.º e 11.º do [Decreto-Lei n.º 45222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45222-1963-685796), de 30 de Agosto de 1963:
 
-###### Art. 7.º A direcção administrativa da comissão estará especialmente a cargo de uma comissão executiva constituída pelo vice-presidente, pelo director do gabinete e pelo mais categorizado funcionário dos serviços administrativos do mesmo gabinete.
+Art. 7.º A direcção administrativa da comissão estará especialmente a cargo de uma comissão executiva constituída pelo vice-presidente, pelo director do gabinete e pelo mais categorizado funcionário dos serviços administrativos do mesmo gabinete.
 
 A comissão executiva, no que se refere à gestão dos orçamentos privativos e prestação de contas, funcionará como um conselho administrativo.
 
 ...
 
-###### Art. 11.º - 1. As despesas resultantes da criação e funcionamento da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica e respectivo gabinete constituem encargo das províncias ultramarinas, nos termos da alínea f) do n.º II da base LXI da Lei Orgânica do Ultramar.
+Art. 11.º - 1. As despesas resultantes da criação e funcionamento da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica e respectivo gabinete constituem encargo das províncias ultramarinas, nos termos da alínea f) do n.º II da base LXI da Lei Orgânica do Ultramar.
 
 2. A aplicação do produto da quotização das províncias ultramarinas e de quaisquer receitas próprias será objecto de orçamento privativo da comissão, que será elaborado, revisto, aprovado e executado nos mesmos termos em que o são os orçamentos privativos dos demais organismos dependentes do Ministério do Ultramar, sustentados ou subsidiados pelas mencionadas províncias.
 
@@ -200,13 +248,13 @@ A comissão executiva, no que se refere à gestão dos orçamentos privativos e 
 
 4. A comissão executiva ou conselho administrativo da comissão poderá requisitar mensalmente à Direcção-Geral de Fazenda do Ministério do Ultramar, por intermédio da respectiva repartição de contabilidade e por importâncias não superiores às dos duodécimos das respectivas dotações orçamentais, ressalvado o disposto no § único do artigo 15.º do citado [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), as somas necessárias à satisfação das suas despesas.
 
-###### Art. 16.º As funções de chefes de secção das inspecções do comércio bancário das províncias de governo simples poderão ser desempenhadas por funcionários dos serviços provinciais de Fazenda e contabilidade, em regime de acumulação, enquanto não forem estruturados os quadros nos termos do artigo 6.º do [Decreto-Lei n.º 44702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464), de 17 de Novembro de 1962.
+Art. 16.º As funções de chefes de secção das inspecções do comércio bancário das províncias de governo simples poderão ser desempenhadas por funcionários dos serviços provinciais de Fazenda e contabilidade, em regime de acumulação, enquanto não forem estruturados os quadros nos termos do artigo 6.º do [Decreto-Lei n.º 44702](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44702-1962-237464), de 17 de Novembro de 1962.
 
 § único. A acumulação é determinada em despacho ministerial, mediante proposta dos respectivos governos, sendo remunerada com uma gratificação mensal de 1000$00.
 
-###### Art. 17.º Exceptuadas as disposições dos artigos 14.º a 16.º, que são desde já executórias, o presente decreto-lei entrará em vigor em 1 de Janeiro de 1964.
+Art. 17.º Exceptuadas as disposições dos artigos 14.º a 16.º, que são desde já executórias, o presente decreto-lei entrará em vigor em 1 de Janeiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.
 

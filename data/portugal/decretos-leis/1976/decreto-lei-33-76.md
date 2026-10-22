@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01400/00780079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1976-506049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e44ba22e4dc39879e534287f32376d77aca72bae68e1f43ef031c5ff4f89fd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6b2e08181d2daf629cf9537b545245ad538943c69860a8c76d6da7cf6128111
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Direcção Geral da Contabilidade Pública
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:365889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:413185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495303:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365889:por
+  label: "Revogado pelo DEC LEI.499/79.1979.12.14.PCM DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/499-1979-365889
+  date: '1979-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:35Z'
   warnings: []
   errors: []
 ---
@@ -101,17 +118,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os actuais secretários de contabilidade de 2.ª e 3.ª classes serão promovidos às classes imediatamente superiores, segundo a ordem de antiguidade na respectiva classe.
+Artigo 1.º Os actuais secretários de contabilidade de 2.ª e 3.ª classes serão promovidos às classes imediatamente superiores, segundo a ordem de antiguidade na respectiva classe.
 
-###### Art. 2.º - 1. Os escriturários-dactilógrafos e outros trabalhadores do quadro da Direcção-Geral da Contabilidade Pública com a habilitação referida na parte final do artigo 9.º do [Decreto-Lei n.º 488/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1973-495303), de 29 de Setembro, serão nomeados secretários de contabilidade de 3.ª classe quando reúnam as condições estabelecidas para os estagiários de contabilidade no n.º 3 do artigo 19.º do [Decreto n.º 516/73](https://diariodarepublica.pt/dr/detalhe/decreto/516-1973-413185), de 12 de Outubro.
+Art. 2.º - 1. Os escriturários-dactilógrafos e outros trabalhadores do quadro da Direcção-Geral da Contabilidade Pública com a habilitação referida na parte final do artigo 9.º do [Decreto-Lei n.º 488/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1973-495303), de 29 de Setembro, serão nomeados secretários de contabilidade de 3.ª classe quando reúnam as condições estabelecidas para os estagiários de contabilidade no n.º 3 do artigo 19.º do [Decreto n.º 516/73](https://diariodarepublica.pt/dr/detalhe/decreto/516-1973-413185), de 12 de Outubro.
 
 2. Os escriturários-dactilógrafos e outros trabalhadores que não reúnam aquelas condições permanecerão nas respectivas categorias, mas poderão frequentar novo curso de preparação e selecção.
 
-###### Art. 3.º - 1. Como medida transitória, poderá ser excedido o quadro da carreira de contabilistas no número de unidades necessário à execução do artigo anterior.
+Art. 3.º - 1. Como medida transitória, poderá ser excedido o quadro da carreira de contabilistas no número de unidades necessário à execução do artigo anterior.
 
 2. Colocados que sejam os actuais estagiários, os escriturários-dactilógrafos e outros trabalhadores na categoria de secretários de contabilidade de 3.ª classe, o ingresso nesta categoria passará a fazer-se segundo as vagas que se verificarem no quadro da carreira de contabilistas.
 
-###### Art. 4.º O quadro de pessoal anexo ao [Decreto-Lei n.º 488/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1973-495303), de 29 de Setembro, é aumentado das seguintes unidades:
+Art. 4.º O quadro de pessoal anexo ao [Decreto-Lei n.º 488/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1973-495303), de 29 de Setembro, é aumentado das seguintes unidades:
 
 5 subdirectores de contabilidade;
 
@@ -123,18 +140,18 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 29 escriturários-dactilógrafos.
 
-###### Art. 5.º - 1. De futuro, o número e designação dos serviços centrais e delegados da Direcção-Geral da Contabilidade Pública, bem como as alterações ao quadro do pessoal da mesma Direcção-Geral, constarão de portaria expedida pelo Ministério das Finanças.
+Art. 5.º - 1. De futuro, o número e designação dos serviços centrais e delegados da Direcção-Geral da Contabilidade Pública, bem como as alterações ao quadro do pessoal da mesma Direcção-Geral, constarão de portaria expedida pelo Ministério das Finanças.
 
 2. Se da alteração do quadro do pessoal resultar a redução de lugares de directores de contabilidade, encontrando-se estes providos, serão os respectivos titulares colocados no gabinete da Direcção-Geral, para exercerem as funções que lhes forem distribuídas.
 
-###### Art. 6.º Os cursos a que se refere o artigo 21.º do [Decreto n.º 516/73](https://diariodarepublica.pt/dr/detalhe/decreto/516-1973-413185), de 12 de Outubro, terão, para cada grau, a duração que se mostrar conveniente.
+Art. 6.º Os cursos a que se refere o artigo 21.º do [Decreto n.º 516/73](https://diariodarepublica.pt/dr/detalhe/decreto/516-1973-413185), de 12 de Outubro, terão, para cada grau, a duração que se mostrar conveniente.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor.
+Art. 7.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Cosia - Francisco Salgado Zenha.
 
-**Promulgado em 12 de Janeiro de 1976.**
+Promulgado em 12 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

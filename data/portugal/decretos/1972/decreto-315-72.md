@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/315-1972-676451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c3803ea5c8275fc1df49bebd3fc584b9eb8344d306a283acccb3757c7bf5198
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf0d64d9c8bb2dd7384e4c6c6b8695b034157563db7268f7fd59a01116a674c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:226010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:15Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +98,9 @@ Tendo em vista o disposto no artigo 6.º do [Decreto-Lei n.º 48234](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Instituto Nacional de Estatística a celebrar, no corrente ano, contratos para compra de equipamento mecanográfico que ora tem ao serviço em regime de aluguer, bem como de novo equipamento complementar necessário.
+Artigo 1.º É autorizado o Instituto Nacional de Estatística a celebrar, no corrente ano, contratos para compra de equipamento mecanográfico que ora tem ao serviço em regime de aluguer, bem como de novo equipamento complementar necessário.
 
-###### Art. 2.º O encargo resultante da execução dos contratos referidos no artigo anterior não poderá exceder as seguintes quantias, que serão satisfeitos em Janeiro de cada um dos anos a seguir indicados:
+Art. 2.º O encargo resultante da execução dos contratos referidos no artigo anterior não poderá exceder as seguintes quantias, que serão satisfeitos em Janeiro de cada um dos anos a seguir indicados:
 
 Em 1973 - 4950000$00;
 
@@ -102,8 +110,8 @@ Em 1975 - 4100000$00.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 7 de Agosto de 1972.**
+Promulgado em 7 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

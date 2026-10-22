@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(25) a 318-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00250025.pdf
 entry_into_force_dates: []
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-j-1977-509020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd88834766d11a57328337734dd2be6fc3051eb3fb71f71296cd534451b29ec5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a83b1c43406ea538d2d02cefe6d066e39e52070e44e7dc514b59dd50a4967857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- FIA
+- Fides
+- Obrigações do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:431462:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:56Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +102,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os n.os 2, 3 e 4 do artigo 5.º do [Decreto-Lei n.º 539/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1976-431462), de 9 de Julho, passam a ter a seguinte redacção:
+Artigo único. Os n.os 2, 3 e 4 do artigo 5.º do [Decreto-Lei n.º 539/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1976-431462), de 9 de Julho, passam a ter a seguinte redacção:
 
 2. Para o efeito da regularização prevista no número anterior, o valor dos certificados de participação, ou dos títulos que os substituam, será o que resultar da aplicação do valor referido no artigo 4.º
 
@@ -105,8 +112,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

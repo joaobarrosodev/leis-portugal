@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29000/32443249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1979-365930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 185aa64dccb574db53ed8d3ecc87d71d3970a33538ecfa1bb4c24ec8407385bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 614e5ab8f701ac070407a4b98cc42aaf00019c49493455587c10385788d79c14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Instituto para a Cooperação Económica
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 21/80, DE 9 DE JANEIRO, PUBLICADA NO DR.IS, 7.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-01-08'
+- type: amended_by
+  target: pt:dre:581994:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pela PORT.21/80.09.01.1980.PCM, DR.IS [7] de 09.01.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21-1980-581994
+  date: '1980-01-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 510/81, DE 25 DE JUNHO, PUBLICADA NO DR.IS, 143.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-06-25'
+- type: amended_by
+  target: pt:dre:578354:por
+  label: "Alterado o quadro de pessoal do Instituto para a Cooperação Económica, aprovado pelo presente diploma, pela PORT.510/81.25.06.1981.MNE,\
+    \ DR.IS [143] de 25.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/510-1981-578354
+  date: '1981-06-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 387/82, DE 17 DE ABRIL, PUBLICADA NO DR.IS, 89.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-04-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 803/84, DE 13 DE OUTUBRO, PUBLICADO NO DR.IS, 238.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-10-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 357/87, DE 30 DE ABRIL, PUBLICADA NO DR.IS, 99.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 199-A/91, DE 11 DE MARCO, PUBLICADA NO DR.IS-B, 58, SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-03-11'
+- type: cites
+  target: pt:dre:161091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242247:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:37Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +159,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º O Instituto para a Cooperação Económica, criado pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 97-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-a-1976-242247), de 31 de Janeiro, abreviadamente designado por ICE, é um instituto público dotado de autonomia administrativa e financeira.
+Artigo 1.º O Instituto para a Cooperação Económica, criado pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 97-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-a-1976-242247), de 31 de Janeiro, abreviadamente designado por ICE, é um instituto público dotado de autonomia administrativa e financeira.
 
-###### Art. 2.º - 1 - O ICE fica sujeito à tutela conjunta dos Ministros dos Negócios Estrangeiros e das Finanças, cabendo ao Ministro dos Negócios Estrangeiros, no âmbito do exercício da respectiva tutela, o despacho das questões relativas à gestão administrativa e financeira corrente do Instituto.
+Art. 2.º - 1 - O ICE fica sujeito à tutela conjunta dos Ministros dos Negócios Estrangeiros e das Finanças, cabendo ao Ministro dos Negócios Estrangeiros, no âmbito do exercício da respectiva tutela, o despacho das questões relativas à gestão administrativa e financeira corrente do Instituto.
 
 2 - O ICE considera-se, para efeitos orgânicos, inserido na estrutura do Ministério dos Negócios Estrangeiros.
 
-###### Art. 3.º A actuação do ICE enquadrar-se-á dentro das opções e directrizes da política externa portuguesa e observará os objectivos e as condicionantes da política económica e financeira, devendo os seus programas anuais de actividade ser sujeitos à aprovação dos Ministros da tutela.
+Art. 3.º A actuação do ICE enquadrar-se-á dentro das opções e directrizes da política externa portuguesa e observará os objectivos e as condicionantes da política económica e financeira, devendo os seus programas anuais de actividade ser sujeitos à aprovação dos Ministros da tutela.
 
-###### Art. 4.º São atribuições do ICE a coordenação e apoio das actividades de assistência técnica e de cooperação bilateral ou multilateral nos domínios técnico-económico, financeiro e empresarial com os países em vias de desenvolvimento, em estreita articulação com os demais serviços do Estado, e, de uma forma especial:
+Art. 4.º São atribuições do ICE a coordenação e apoio das actividades de assistência técnica e de cooperação bilateral ou multilateral nos domínios técnico-económico, financeiro e empresarial com os países em vias de desenvolvimento, em estreita articulação com os demais serviços do Estado, e, de uma forma especial:
 
 a) Analisar, propor e coordenar a execução de acções, programas e projectos de assistência técnica e de cooperação nos domínios técnico-económico, financeiro e empresarial;
 
@@ -128,7 +187,7 @@ g) Centralizar toda a informação sobre o esforço financeiro que, para o secto
 
 #### SECÇÃO I — Estrutura
 
-###### Art. 5.º O ICE dispõe dos seguintes órgãos e serviços:
+Art. 5.º O ICE dispõe dos seguintes órgãos e serviços:
 
 a) Direcção;
 
@@ -152,13 +211,13 @@ j) Divisão de Cooperantes.
 
 #### SECÇÃO II — Da direcção
 
-###### Art. 6.º O Instituto será superiormente dirigido pela direcção, constituída por um presidente e dois vogais.
+Art. 6.º O Instituto será superiormente dirigido pela direcção, constituída por um presidente e dois vogais.
 
-###### Art. 7.º - 1 - O presidente e os vogais da direcção do ICE serão nomeados por despacho conjunto do Primeiro-Ministro e dos Ministros dos Negócios Estrangeiros e das Finanças.
+Art. 7.º - 1 - O presidente e os vogais da direcção do ICE serão nomeados por despacho conjunto do Primeiro-Ministro e dos Ministros dos Negócios Estrangeiros e das Finanças.
 
 2 - O presidente e os vogais da direcção são, para todos os efeitos legais, equiparados, respectivamente, a director-geral e a subdirector-geral.
 
-###### Art. 8.º Compete à direcção orientar e dirigir a actividade do Instituto e, em especial:
+Art. 8.º Compete à direcção orientar e dirigir a actividade do Instituto e, em especial:
 
 a) Representar o ICE;
 
@@ -190,23 +249,23 @@ n) Emitir ordens de serviço e instruções internas necessárias ao bom funcion
 
 o) Dar parecer acerca das matérias que, para esse efeito, lhe sejam submetidas pelo Governo.
 
-###### Art. 9.º Para obrigar o ICE será necessária a assinatura de dois membros da sua direcção, sendo uma a do presidente, salvo em actos de mero expediente, em que bastará uma assinatura.
+Art. 9.º Para obrigar o ICE será necessária a assinatura de dois membros da sua direcção, sendo uma a do presidente, salvo em actos de mero expediente, em que bastará uma assinatura.
 
 #### SECÇÃO III — Comissão Consultiva para a Cooperação Económica
 
-###### Art. 10.º - 1 - A Comissão Consultiva será constituída pela direcção do ICE, por representantes dos Ministérios dos Negócios Estrangeiros, das Finanças, da Coordenação Económica e do Plano, da Agricultura e Pescas, da Indústria, do Comércio e Turismo, dos Transportes e Comunicações e do Gabinete para a Cooperação Económica Externa.
+Art. 10.º - 1 - A Comissão Consultiva será constituída pela direcção do ICE, por representantes dos Ministérios dos Negócios Estrangeiros, das Finanças, da Coordenação Económica e do Plano, da Agricultura e Pescas, da Indústria, do Comércio e Turismo, dos Transportes e Comunicações e do Gabinete para a Cooperação Económica Externa.
 
 2 - Têm ainda assento na Comissão Consultiva, mas apenas serão convocados quando se trate de assunto da respectiva competência, representantes dos demais departamentos governamentais envolvidos no processo de cooperação.
 
 3 - Poderão também integrar a Comissão, sempre que tal se venha a revelar conveniente, representantes de outras entidades públicas ou privadas com interesse para as actividades de cooperação.
 
-###### Art. 11.º Compete à Comissão Consultiva:
+Art. 11.º Compete à Comissão Consultiva:
 
 a) Pronunciar-se em geral sobre todos os assuntos de competência do ICE que lhe sejam submetidos pelo presidente, formulando as propostas e sugestões que considere úteis ao cumprimento das respectivas atribuições;
 
 b) Assegurar a coordenação do ICE com os serviços e entidades nela representados.
 
-###### Art. 12.º - 1 - A Comissão Consultiva reunirá, em sessão ordinária, uma vez por trimestre, cabendo a orientação dos trabalhos ao presidente ou a quem o substituir.
+Art. 12.º - 1 - A Comissão Consultiva reunirá, em sessão ordinária, uma vez por trimestre, cabendo a orientação dos trabalhos ao presidente ou a quem o substituir.
 
 2 - O presidente da Comissão Consultiva poderá ainda convocar, sempre que necessário, reuniões extraordinárias da totalidade ou de parte dos seus membros.
 
@@ -216,11 +275,11 @@ b) Assegurar a coordenação do ICE com os serviços e entidades nela representa
 
 #### SECÇÃO IV — Do conselho administrativo
 
-###### Art. 13.º - 1 - O conselho administrativo será composto pelo presidente da direcção, pelo chefe da Divisão de Coordenação Financeira, pelo chefe da Repartição Administrativa e pelo chefe de secção encarregado dos serviços financeiros.
+Art. 13.º - 1 - O conselho administrativo será composto pelo presidente da direcção, pelo chefe da Divisão de Coordenação Financeira, pelo chefe da Repartição Administrativa e pelo chefe de secção encarregado dos serviços financeiros.
 
 2 - O presidente da direcção poderá delegar num dos membros desta a presidência do conselho administrativo.
 
-###### Art. 14.º Compete ao conselho administrativo:
+Art. 14.º Compete ao conselho administrativo:
 
 a) Superintender e orientar tecnicamente os serviços na preparação do projecto de orçamento anual do Instituto, bem como dos orçamentos suplementares necessários, e fiscalizar a sua execução;
 
@@ -244,7 +303,7 @@ j) Proceder à verificação dos fundos em cofre e seu depósito, de modo a gara
 
 l) Pronunciar-se sobre qualquer outro assunto de natureza administrativa que lhe seja submetido pela direcção.
 
-###### Art. 15.º - 1 - O conselho administrativo reunirá, ordinariamente, uma vez por quinzena e, extraordinariamente, sempre que for convocado pelo presidente.
+Art. 15.º - 1 - O conselho administrativo reunirá, ordinariamente, uma vez por quinzena e, extraordinariamente, sempre que for convocado pelo presidente.
 
 2 - Da reunião será elaborada acta, assinada pelo presidente e pelos demais membros presentes.
 
@@ -254,7 +313,7 @@ l) Pronunciar-se sobre qualquer outro assunto de natureza administrativa que lhe
 
 #### SECÇÃO V — Do Gabinete de Planeamento e Programação
 
-###### Art. 16.º - 1 - Ao Gabinete de Planeamento e Programação compete:
+Art. 16.º - 1 - Ao Gabinete de Planeamento e Programação compete:
 
 a) Analisar, preparar e propor acções de planeamento e elaborar programas e projectos de cooperação;
 
@@ -272,7 +331,7 @@ e) Elaborar relatórios anuais de síntese sobre as matérias referidas na alín
 
 #### SECÇÃO VI — Da Repartição Administrativa
 
-###### Art. 17.º - 1 - À Repartição Administrativa compete assegurar o expediente geral e dar apoio em matéria de administração de pessoal, patrimonial e financeira ao ICE.
+Art. 17.º - 1 - À Repartição Administrativa compete assegurar o expediente geral e dar apoio em matéria de administração de pessoal, patrimonial e financeira ao ICE.
 
 2 - A Repartição Administrativa compreende a Secção Administrativa e a Secção Financeira.
 
@@ -282,11 +341,11 @@ e) Elaborar relatórios anuais de síntese sobre as matérias referidas na alín
 
 #### SECÇÃO VII — Da Divisão de Documentação
 
-###### Art. 18.º À Divisão de Documentação compete organizar e gerir o acervo documental e promover a difusão da documentação necessária, bem como a gestão dos serviços de reprografia.
+Art. 18.º À Divisão de Documentação compete organizar e gerir o acervo documental e promover a difusão da documentação necessária, bem como a gestão dos serviços de reprografia.
 
 #### SECÇÃO VIII — Da Direcção de Serviços de Apoio a Negociações
 
-###### Art. 19.º - 1 - À Direcção de Serviços de Apoio a Negociações compete a preparação de negociações e o acompanhamento da execução dos acordos firmados.
+Art. 19.º - 1 - À Direcção de Serviços de Apoio a Negociações compete a preparação de negociações e o acompanhamento da execução dos acordos firmados.
 
 2 - A Direcção de Serviços de Apoio a Negociações compreende a Divisão de Análise de Informação e a Divisão de Acordos.
 
@@ -296,7 +355,7 @@ e) Elaborar relatórios anuais de síntese sobre as matérias referidas na alín
 
 #### SECÇÃO IX — Da Direcção de Serviços de Assistência Técnico-Económica
 
-###### Art. 20.º - 1 - À Direcção de Serviços de Assistência Técnico-Económica cabe a coordenação da assistência técnico-económica ou tecnológica no domínio das infra-estruturas e das actividades primárias, secundárias e terciárias.
+Art. 20.º - 1 - À Direcção de Serviços de Assistência Técnico-Económica cabe a coordenação da assistência técnico-económica ou tecnológica no domínio das infra-estruturas e das actividades primárias, secundárias e terciárias.
 
 2 - A Direcção de Serviços de Assistência Técnico-Económica compreende as Divisões de Infra-Estruturas, Agrária e de Pescas, de Indústrias e de Serviços.
 
@@ -310,7 +369,7 @@ e) Elaborar relatórios anuais de síntese sobre as matérias referidas na alín
 
 #### SECÇÃO X — Da Direcção de Serviços de Cooperação Económico-Financeira
 
-###### Art. 21.º - 1 - À Direcção de Serviços de Cooperação Económico-Financeira compete a gestão, coordenação ou apoio de interesses empresariais portugueses e a centralização da informação relativa ao esforço financeiro ligado à cooperação e à descolonização.
+Art. 21.º - 1 - À Direcção de Serviços de Cooperação Económico-Financeira compete a gestão, coordenação ou apoio de interesses empresariais portugueses e a centralização da informação relativa ao esforço financeiro ligado à cooperação e à descolonização.
 
 2 - A Direcção de Serviços de Cooperação Económico-Financeira compreende as Divisões de Empreendimentos Económicos e de Coordenação Financeira.
 
@@ -320,7 +379,7 @@ e) Elaborar relatórios anuais de síntese sobre as matérias referidas na alín
 
 #### SECÇÃO XI — Da Divisão de Cooperantes
 
-###### Art. 22.º À Divisão de Cooperantes compete:
+Art. 22.º À Divisão de Cooperantes compete:
 
 a) Promover e coordenar acções de recrutamento, selecção e formação de cooperantes nas áreas de actuação do Instituto, tendo em vista os países a que se destinam e os objectivos da cooperação;
 
@@ -332,7 +391,7 @@ d) Promover a formação de pessoal de países receptores da cooperação, de ac
 
 ### CAPÍTULO III — Do regime administrativo e financeiro
 
-###### Art. 23.º Constituem receitas do Instituto:
+Art. 23.º Constituem receitas do Instituto:
 
 a) As comparticipações do Orçamento Geral do Estado;
 
@@ -348,97 +407,97 @@ f) Os saldos de gerência de anos anteriores;
 
 g) Quaisquer outras receitas permitidas por lei.
 
-###### Art. 24.º Constituem despesas do Instituto as resultantes da prossecução das suas atribuições em conformidade com os orçamentos devidamente aprovados.
+Art. 24.º Constituem despesas do Instituto as resultantes da prossecução das suas atribuições em conformidade com os orçamentos devidamente aprovados.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 25.º - 1 - O ICE terá o pessoal constante do mapa anexo a este diploma.
+Art. 25.º - 1 - O ICE terá o pessoal constante do mapa anexo a este diploma.
 
 2 - A distribuição do pessoal pelos diversos serviços do Instituto será feita por despacho da direcção.
 
 3 - O mapa anexo poderá ser alterado por portaria conjunta dos Ministros dos Negócios Estrangeiros e das Finanças e do Secretário de Estado da Administração Pública.
 
-###### Art. 26.º O provimento dos lugares de director de serviços e de chefe de divisão é feito nos termos da lei geral.
+Art. 26.º O provimento dos lugares de director de serviços e de chefe de divisão é feito nos termos da lei geral.
 
-###### Art. 27.º O provimento dos lugares de chefe de repartição é feito, mediante concurso documental e apreciação curricular, de entre:
+Art. 27.º O provimento dos lugares de chefe de repartição é feito, mediante concurso documental e apreciação curricular, de entre:
 
 a) Chefes de secção com mais de três anos de bom e efectivo serviço na categoria;
 
 b) Indivíduos habilitados com curso superior adequado.
 
-###### Art. 28.º Os lugares de chefe de secção são providos, mediante concurso documental e apreciação curricular, de entre:
+Art. 28.º Os lugares de chefe de secção são providos, mediante concurso documental e apreciação curricular, de entre:
 
 a) Primeiros-oficiais com mais de três anos de bom e efectivo serviço na respectiva classe;
 
 b) Indivíduos habilitados com curso superior adequado.
 
-###### Art. 29.º Os lugares de técnico assessor, técnico principal e técnico de 1.ª classe são providos nos termos da lei geral.
+Art. 29.º Os lugares de técnico assessor, técnico principal e técnico de 1.ª classe são providos nos termos da lei geral.
 
-###### Art. 30.º Os lugares de técnico de 2.ª classe são providos, por concurso documental, de entre indivíduos licenciados com curso superior adequado.
+Art. 30.º Os lugares de técnico de 2.ª classe são providos, por concurso documental, de entre indivíduos licenciados com curso superior adequado.
 
-###### Art. 31.º Os lugares de consultor jurídico assessor, principal e de 1.ª classe são providos nos termos da lei geral.
+Art. 31.º Os lugares de consultor jurídico assessor, principal e de 1.ª classe são providos nos termos da lei geral.
 
-###### Art. 32.º Os lugares de consultor jurídico de 2.ª classe são providos, por concurso documental, de entre licenciados em Direito.
+Art. 32.º Os lugares de consultor jurídico de 2.ª classe são providos, por concurso documental, de entre licenciados em Direito.
 
-###### Art. 33.º Os lugares de técnico de contabilidade e administração principal e de 1.ª classe são providos de entre, respectivamente, os técnicos de contabilidade e administração de 1.ª classe e os técnicos de contabilidade e administração de 2.ª classe com três anos de bom e efectivo serviço na respectiva classe.
+Art. 33.º Os lugares de técnico de contabilidade e administração principal e de 1.ª classe são providos de entre, respectivamente, os técnicos de contabilidade e administração de 1.ª classe e os técnicos de contabilidade e administração de 2.ª classe com três anos de bom e efectivo serviço na respectiva classe.
 
-###### Art. 34.º Os lugares de técnico de contabilidade e administração de 2.ª classe são providos, por concurso documental, de entre indivíduos habilitados com curso superior adequado.
+Art. 34.º Os lugares de técnico de contabilidade e administração de 2.ª classe são providos, por concurso documental, de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 35.º - 1 - O lugar de tesoureiro de 1.ª classe é provido, mediante concurso documental, de entre segundos-oficiais com um mínimo de três anos de bom e efectivo serviço na categoria e experiência profissional adequada.
+Art. 35.º - 1 - O lugar de tesoureiro de 1.ª classe é provido, mediante concurso documental, de entre segundos-oficiais com um mínimo de três anos de bom e efectivo serviço na categoria e experiência profissional adequada.
 
 2 - O provimento referido no número anterior depende da prestação de caução nos termos da lei geral.
 
-###### Art. 36.º - 1 - Os lugares de técnico auxiliar de documentação principal e de 1.ª classe são providos de entre, respectivamente, os técnicos auxiliares de documentação de 1.ª e de 2.ª classes com três anos de bom e efectivo serviço na respectiva classe.
+Art. 36.º - 1 - Os lugares de técnico auxiliar de documentação principal e de 1.ª classe são providos de entre, respectivamente, os técnicos auxiliares de documentação de 1.ª e de 2.ª classes com três anos de bom e efectivo serviço na respectiva classe.
 
 2 - O lugar de técnico auxiliar de documentação de 2.ª classe é provido, mediante concurso documental, de entre indivíduos habilitados com o curso geral dos liceus ou equivalente.
 
-###### Art. 37.º Os lugares de tradutor-correspondente-intérprete são providos, por concurso documental, de entre os indivíduos habilitados com o curso geral dos liceus ou equiparados e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
+Art. 37.º Os lugares de tradutor-correspondente-intérprete são providos, por concurso documental, de entre os indivíduos habilitados com o curso geral dos liceus ou equiparados e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
 
-###### Art. 38.º Os lugares de primeiro-oficial, segundo-oficial e terceiro-oficial serão providos nos termos da lei geral.
+Art. 38.º Os lugares de primeiro-oficial, segundo-oficial e terceiro-oficial serão providos nos termos da lei geral.
 
-###### Art. 39.º Os lugares de secretária-recepcionista de 1.ª classe são providos, por escolha, de entre secretárias-recepcionistas de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta classe.
+Art. 39.º Os lugares de secretária-recepcionista de 1.ª classe são providos, por escolha, de entre secretárias-recepcionistas de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta classe.
 
-###### Art. 40.º Os lugares de secretária-recepcionista de 2.ª classe são providos, por concurso documental, de entre indivíduos habilitados com o curso complementar dos liceus ou equivalente.
+Art. 40.º Os lugares de secretária-recepcionista de 2.ª classe são providos, por concurso documental, de entre indivíduos habilitados com o curso complementar dos liceus ou equivalente.
 
-###### Art. 41.º Os lugares de escriturário-dactilógrafo serão providos nos termos da lei geral.
+Art. 41.º Os lugares de escriturário-dactilógrafo serão providos nos termos da lei geral.
 
-###### Art. 42.º O recrutamento do pessoal auxiliar far-se-á nos termos da lei geral.
+Art. 42.º O recrutamento do pessoal auxiliar far-se-á nos termos da lei geral.
 
-###### Art. 43.º - 1 - Excepcionalmente, sem prejuízo das legítimas expectativas dos funcionários do quadro, e quando não existam funcionários possuidores dos requisitos necessários, poderão ser recrutados directamente para lugares de acesso da carreira técnica superior, com respeito pelas habilitações referidas no artigo 30.º, indivíduos de comprovada experiência profissional e especialização que interessem ao prosseguimento das missões confiadas ao Instituto para a Cooperação Económica, mediante proposta devidamente fundamentada.
+Art. 43.º - 1 - Excepcionalmente, sem prejuízo das legítimas expectativas dos funcionários do quadro, e quando não existam funcionários possuidores dos requisitos necessários, poderão ser recrutados directamente para lugares de acesso da carreira técnica superior, com respeito pelas habilitações referidas no artigo 30.º, indivíduos de comprovada experiência profissional e especialização que interessem ao prosseguimento das missões confiadas ao Instituto para a Cooperação Económica, mediante proposta devidamente fundamentada.
 
 2 - O disposto no número anterior não é aplicável ao lugar de técnico assessor ou de consultor jurídico assessor.
 
-###### Art. 44.º A direcção do Instituto poderá, mediante despacho dos Ministros dos Negócios Estrangeiros e das Finanças, concordância do Ministro da tutela e aquiescência dos interessados, requisitar a quaisquer empresas públicas, nacionalizadas ou privadas, nos termos legais, o pessoal indispensável ao seu funcionamento.
+Art. 44.º A direcção do Instituto poderá, mediante despacho dos Ministros dos Negócios Estrangeiros e das Finanças, concordância do Ministro da tutela e aquiescência dos interessados, requisitar a quaisquer empresas públicas, nacionalizadas ou privadas, nos termos legais, o pessoal indispensável ao seu funcionamento.
 
-###### Art. 45.º - 1 - A direcção do Instituto poderá igualmente, mediante despacho dos Ministros dos Negócios Estrangeiros e das Finanças, requisitar pessoal de outros departamentos ministeriais para prestar serviço no Instituto, com acordo prévio do interessado e do membro do Governo que superintender no departamento a que pertença, propondo a fixação da respectiva remuneração, a pagar por dotação especial para este efeito inscrita no orçamento do Instituto.
+Art. 45.º - 1 - A direcção do Instituto poderá igualmente, mediante despacho dos Ministros dos Negócios Estrangeiros e das Finanças, requisitar pessoal de outros departamentos ministeriais para prestar serviço no Instituto, com acordo prévio do interessado e do membro do Governo que superintender no departamento a que pertença, propondo a fixação da respectiva remuneração, a pagar por dotação especial para este efeito inscrita no orçamento do Instituto.
 
 2 - O pessoal requisitado ao abrigo do n.º 1 não abre vaga no serviço de origem, podendo, no entanto, o respectivo lugar ser provido internamente.
 
 3 - O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos legais, como se tivesse sido prestado no quadro de origem, mantendo os funcionários durante esse tempo todos os direitos, incluindo os relativos à promoção.
 
-###### Art. 46.º - 1 - A direcção do ICE poderá autorizar que, pelas disponibilidades orçamentais existentes, seja contratado além do quadro pessoal técnico, administrativo e auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, sem prejuízo da legislação em vigor sobre excedentes na Administração Pública.
+Art. 46.º - 1 - A direcção do ICE poderá autorizar que, pelas disponibilidades orçamentais existentes, seja contratado além do quadro pessoal técnico, administrativo e auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, sem prejuízo da legislação em vigor sobre excedentes na Administração Pública.
 
 2 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual, incluindo acções de formação, poderá ser confiada, mediante contrato de prestação de serviços, a entidades nacionais ou estrangeiras estranhas aos serviços.
 
 3 - O contrato de prestação de serviços será obrigatoriamente reduzido a escrito, dele constando o prazo, a remuneração, as condições de rescisão e a menção de que não confere, em nenhum caso, a qualidade de agente administrativo.
 
-###### Art. 47.º Se a nomeação para os lugares do quadro do Instituto recair em indivíduos que sejam funcionários públicos, ser-lhes-á mantida a forma de provimento, provisório ou definitivo, que já possuíam nos quadros de origem.
+Art. 47.º Se a nomeação para os lugares do quadro do Instituto recair em indivíduos que sejam funcionários públicos, ser-lhes-á mantida a forma de provimento, provisório ou definitivo, que já possuíam nos quadros de origem.
 
-###### Art. 48.º O pessoal do Instituto mantém-se integrado nos serviços sociais a que pertence o pessoal do Ministério dos Negócios Estrangeiros.
+Art. 48.º O pessoal do Instituto mantém-se integrado nos serviços sociais a que pertence o pessoal do Ministério dos Negócios Estrangeiros.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 49.º Os poderes do Ministério das Finanças relativamente às participações financeiras a que se alude neste diploma poderão ser delegadas no Instituto, que, para o efeito, receberá a orientação conveniente.
+Art. 49.º Os poderes do Ministério das Finanças relativamente às participações financeiras a que se alude neste diploma poderão ser delegadas no Instituto, que, para o efeito, receberá a orientação conveniente.
 
-###### Art. 50.º - 1 - O Instituto pode, mediante autorização ministerial, enviar ao estrangeiro missões de estudo ou outras para se ocuparem de assuntos relacionados com as suas atribuições.
+Art. 50.º - 1 - O Instituto pode, mediante autorização ministerial, enviar ao estrangeiro missões de estudo ou outras para se ocuparem de assuntos relacionados com as suas atribuições.
 
 2 - Por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças, proceder-se-á à enumeração das missões que, consoante os respectivos fins, ficarão sujeitas à autorização de cada um daqueles membros do Governo.
 
-###### Art. 51.º O pessoal dirigente, técnico e administrativo do Instituto poderá ser designado para efectuar viagens de inspecção ou orientação às empresas cuja gestão é coordenada pelo Instituto.
+Art. 51.º O pessoal dirigente, técnico e administrativo do Instituto poderá ser designado para efectuar viagens de inspecção ou orientação às empresas cuja gestão é coordenada pelo Instituto.
 
-###### Art. 52.º O Instituto efectuará contratos de seguro contra acidentes em serviço do pessoal que, em qualquer regime, preste colaboração na acção por ele desenvolvida fora do território nacional.
+Art. 52.º O Instituto efectuará contratos de seguro contra acidentes em serviço do pessoal que, em qualquer regime, preste colaboração na acção por ele desenvolvida fora do território nacional.
 
-###### Art. 53.º - 1 - Até 31 de Dezembro de 1979, o primeiro provimento, nos lugares do quadro anexo a este decreto-lei, com excepção do lugar de técnico assessor, do pessoal que à data da entrada em vigor do presente diploma se encontre adstrito, a qualquer título, ao ICE poderá ser feito, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:
+Art. 53.º - 1 - Até 31 de Dezembro de 1979, o primeiro provimento, nos lugares do quadro anexo a este decreto-lei, com excepção do lugar de técnico assessor, do pessoal que à data da entrada em vigor do presente diploma se encontre adstrito, a qualquer título, ao ICE poderá ser feito, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -452,34 +511,34 @@ d) Para categoria correspondente às funções que o funcionário ou agente actu
 
 3 - O pessoal que não possa ser integrado por falta dos requisitos estabelecidos no n.º 1 do presente artigo manterá a vinculação anterior.
 
-###### Art. 54.º O pessoal dos organismos extintos pelo [Decreto-Lei n.º 125/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1975-161091), de 12 de Março, que à data da entrada em vigor do presente diploma se encontre adstrito ao ICE, a qualquer título, manterá em relação ao ICE a categoria e o vínculo à Administração que já possui quando nomeado em comissão de serviço para lugares do quadro do Instituto cujo preenchimento não possa ser feito senão em comissão, considerando-se o mesmo quadro aumentado do número de lugares correspondentes, os quais serão extintos à medida que vagarem.
+Art. 54.º O pessoal dos organismos extintos pelo [Decreto-Lei n.º 125/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1975-161091), de 12 de Março, que à data da entrada em vigor do presente diploma se encontre adstrito ao ICE, a qualquer título, manterá em relação ao ICE a categoria e o vínculo à Administração que já possui quando nomeado em comissão de serviço para lugares do quadro do Instituto cujo preenchimento não possa ser feito senão em comissão, considerando-se o mesmo quadro aumentado do número de lugares correspondentes, os quais serão extintos à medida que vagarem.
 
-###### Art. 55.º O provimento referido nos artigos anteriores será feito por listas nominativas aprovadas pelos Ministros dos Negócios Estrangeiros e das Finanças donde conste a categoria em que cada funcionário fica provido, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 55.º O provimento referido nos artigos anteriores será feito por listas nominativas aprovadas pelos Ministros dos Negócios Estrangeiros e das Finanças donde conste a categoria em que cada funcionário fica provido, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 56.º O pessoal ao serviço do ICE que não for provido nos termos dos artigos anteriores manterá a situação actual.
+Art. 56.º O pessoal ao serviço do ICE que não for provido nos termos dos artigos anteriores manterá a situação actual.
 
-###### Art. 57.º Não haverá perda de antiguidade na categoria quando o pessoal for integrado em lugares da mesma categoria.
+Art. 57.º Não haverá perda de antiguidade na categoria quando o pessoal for integrado em lugares da mesma categoria.
 
-###### Art. 58.º O preenchimento dos lugares do quadro anexo ao presente diploma far-se-á gradual e planificadamente, à medida que as necessidades o justificarem e mediante proposta da direcção aos Ministros da tutela.
+Art. 58.º O preenchimento dos lugares do quadro anexo ao presente diploma far-se-á gradual e planificadamente, à medida que as necessidades o justificarem e mediante proposta da direcção aos Ministros da tutela.
 
-###### Art. 59.º A Comissão Instaladora do ICE manter-se-á no exercício de funções até à data da posse da direcção.
+Art. 59.º A Comissão Instaladora do ICE manter-se-á no exercício de funções até à data da posse da direcção.
 
-###### Art. 60.º Os encargos resultantes da execução do presente diploma serão suportados, no ano económico de 1979, pelas disponibilidades afectas ao orçamento do Ministério dos Negócios Estrangeiros.
+Art. 60.º Os encargos resultantes da execução do presente diploma serão suportados, no ano económico de 1979, pelas disponibilidades afectas ao orçamento do Ministério dos Negócios Estrangeiros.
 
-###### Art. 61.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Secretário de Estado da Administração Pública, quanto a este no relativo a matéria das suas atribuições.
+Art. 61.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Secretário de Estado da Administração Pública, quanto a este no relativo a matéria das suas atribuições.
 
-###### Art. 62.º O presente diploma entra em vigor na data da sua publicação.
+Art. 62.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 5 de Dezembro de 1979.**
+Promulgado em 5 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa do pessoal a que se refere o artigo 25.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29000/32443249.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29000/32443249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29000/32443249.pdf)
 
-**O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/229-1970-142305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b1c7a710776aeff3f181fa7a9d93a2c853f46191e0b87acc52a976c56eb413f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f3425ae88c3d91087b9e666fe56f6cf480466c60c1257253d95695f014936d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:199975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525031:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:27Z'
   warnings: []
   errors: []
 ---
@@ -102,37 +118,37 @@ REGULAMENTO DO EXERCÍCIO DA PROFISSÃO FARMACÊUTICA NO ULTRAMAR
 
 #### SECÇÃO I — Da profissão farmacêutica
 
-###### Artigo 1.º A profissão farmacêutica só pode ser exercida nas províncias ultramarinas, nos termos fixados no artigo 222.º do Regulamento dos Serviços de Saúde e Assistência do Ultramar, aprovado pelo [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
+Artigo 1.º A profissão farmacêutica só pode ser exercida nas províncias ultramarinas, nos termos fixados no artigo 222.º do Regulamento dos Serviços de Saúde e Assistência do Ultramar, aprovado pelo [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
 
-###### Art. 2.º Os farmacêuticos que pretendam exercer a sua profissão no ultramar português são obrigados a inscrever-se prèviamente segundo o preceituado no artigo 223.º e seus parágrafos do Regulamento referido no artigo anterior.
+Art. 2.º Os farmacêuticos que pretendam exercer a sua profissão no ultramar português são obrigados a inscrever-se prèviamente segundo o preceituado no artigo 223.º e seus parágrafos do Regulamento referido no artigo anterior.
 
-###### Art. 3.º - 1. Compete aos farmacêuticos a função de preparar, conservar e fornecer medicamentos ao público, sem prejuízo do regime próprio das farmácias, dos laboratórios de produtos farmacêuticos, dos armazéns destinados aos mesmos produtos e dos serviços especializados do Estado.
+Art. 3.º - 1. Compete aos farmacêuticos a função de preparar, conservar e fornecer medicamentos ao público, sem prejuízo do regime próprio das farmácias, dos laboratórios de produtos farmacêuticos, dos armazéns destinados aos mesmos produtos e dos serviços especializados do Estado.
 
 2. Para efeitos deste diploma, considera-se medicamento toda a preparação farmacêutica constituída por uma substância ou mistura de substâncias, apresentando uma dosagem determinada, destinada a ser aplicada ao homem e aos animais no tratamento ou prevenção das doenças e dos seus sintomas, na correcção ou modificação das funções orgânicas, ou ainda, quando administrada de forma adequada, no diagnóstico médico.
 
-###### Art. 4.º Compete também ao farmacêutico a realização de determinações analíticas em medicamentos, com o fim da sua verificação, e de análises químico-biológicas, nos termos estabelecidos por lei.
+Art. 4.º Compete também ao farmacêutico a realização de determinações analíticas em medicamentos, com o fim da sua verificação, e de análises químico-biológicas, nos termos estabelecidos por lei.
 
-###### Art. 5.º O farmacêutico pode ser assistido por ajudantes técnicos de farmácia sob sua imediata responsabilidade, devidamente inscritos nas inspecções do exercício farmacêutico.
+Art. 5.º O farmacêutico pode ser assistido por ajudantes técnicos de farmácia sob sua imediata responsabilidade, devidamente inscritos nas inspecções do exercício farmacêutico.
 
-###### Art. 6.º Nenhum farmacêutico ou profissional de qualquer dos outros ramos da arte de curar, no exercício das suas funções, pode associar-se a qualquer outro indivíduo que explore o ramo de medicamentos e produtos medicinais, nem tão-pouco fazer contrato do qual resultem proventos ou participações de receitas na venda de medicamentos.
+Art. 6.º Nenhum farmacêutico ou profissional de qualquer dos outros ramos da arte de curar, no exercício das suas funções, pode associar-se a qualquer outro indivíduo que explore o ramo de medicamentos e produtos medicinais, nem tão-pouco fazer contrato do qual resultem proventos ou participações de receitas na venda de medicamentos.
 
-###### Art. 7.º Nenhum farmacêutico poderá ser proprietário, no todo ou em parte, de mais de uma farmácia.
+Art. 7.º Nenhum farmacêutico poderá ser proprietário, no todo ou em parte, de mais de uma farmácia.
 
 #### SECÇÃO II — Dos farmacêuticos
 
-###### Art. 8.º Os farmacêuticos exercem uma profissão liberal pelo que respeita à preparação de produtos manipulados e à verificação da qualidade e dose tóxica dos produtos fornecidos, manipulados ou não.
+Art. 8.º Os farmacêuticos exercem uma profissão liberal pelo que respeita à preparação de produtos manipulados e à verificação da qualidade e dose tóxica dos produtos fornecidos, manipulados ou não.
 
-###### Art. 9.º - 1. O farmacêutico encontra-se ao serviço da saúde pública e deve considerar que a missão profissional a que se votou exige a sua inteira dedicação aos doentes, qualquer que seja a categoria ou situação social a que estes pertençam.
+Art. 9.º - 1. O farmacêutico encontra-se ao serviço da saúde pública e deve considerar que a missão profissional a que se votou exige a sua inteira dedicação aos doentes, qualquer que seja a categoria ou situação social a que estes pertençam.
 
 2. Dentro do limite dos seus conhecimentos, o farmacêutico deve dispensar auxílio a qualquer pessoa em perigo iminente de vida, caso os socorros médicos não possam ser-lhe imediatamente prestados.
 
-###### Art. 10.º Sem prejuízo do exercício das funções que por lei lhe sejam especìficamente atribuídas, o farmacêutico tem obrigação de prestar o seu concurso e de colaborar activamente nas iniciativas do Estado tendentes à protecção e preservação da saúde pública, contribuindo por todos os meios ao seu alcance para difusão dos conhecimentos de higiene e salubridade, muito especialmente nos meios rurais.
+Art. 10.º Sem prejuízo do exercício das funções que por lei lhe sejam especìficamente atribuídas, o farmacêutico tem obrigação de prestar o seu concurso e de colaborar activamente nas iniciativas do Estado tendentes à protecção e preservação da saúde pública, contribuindo por todos os meios ao seu alcance para difusão dos conhecimentos de higiene e salubridade, muito especialmente nos meios rurais.
 
-###### Art. 11.º O farmacêutico deve, em todas as circunstâncias, proceder de modo a não lesar o bom nome e a dignidade da sua profissão, não lhe sendo, por isso, permitido o exercício simultâneo de qualquer outra actividade que possa concorrer para o seu desprestígio.
+Art. 11.º O farmacêutico deve, em todas as circunstâncias, proceder de modo a não lesar o bom nome e a dignidade da sua profissão, não lhe sendo, por isso, permitido o exercício simultâneo de qualquer outra actividade que possa concorrer para o seu desprestígio.
 
-###### Art. 12.º Ao farmacêutico é vedado difundir, por conselhos ou actos, quaisquer práticas contrárias aos bons costumes, mesmo quando não proibidas expressamente por lei, nomeadamente no que se refere ao fornecimento de produtos com efeito abortivo, estupefacientes ou tóxicos.
+Art. 12.º Ao farmacêutico é vedado difundir, por conselhos ou actos, quaisquer práticas contrárias aos bons costumes, mesmo quando não proibidas expressamente por lei, nomeadamente no que se refere ao fornecimento de produtos com efeito abortivo, estupefacientes ou tóxicos.
 
-###### Art. 13.º O farmacêutico deve abster-se de exercer a sua profissão como simples comércio, sendo-lhe vedado designadamente:
+Art. 13.º O farmacêutico deve abster-se de exercer a sua profissão como simples comércio, sendo-lhe vedado designadamente:
 
 a) Prestar-se a qualquer conluio com médicos, auxiliares da medicina ou outras pessoas;
 
@@ -150,39 +166,39 @@ g) Usar de embustes, especialmente práticas de charlatanismo, susceptíveis de 
 
 h) Aproveitar-se do exercício de qualquer mandato político ou função administrativa para angariar clientela.
 
-###### Art. 14.º Nas relações com o público, o farmacêutico deve observar a mais rigorosa correcção, cumprindo escrupulosamente o seu dever profissional e tendo sempre presente que se encontra ao serviço dos doentes.
+Art. 14.º Nas relações com o público, o farmacêutico deve observar a mais rigorosa correcção, cumprindo escrupulosamente o seu dever profissional e tendo sempre presente que se encontra ao serviço dos doentes.
 
-###### Art. 15.º O farmacêutico deve guardar respeito absoluto pela vida humana, desde a concepção, sendo expressamente proibida a venda de qualquer medicamento que presuma para utilização em contrário desta determinação, salvo quando prescrito por receita médica.
+Art. 15.º O farmacêutico deve guardar respeito absoluto pela vida humana, desde a concepção, sendo expressamente proibida a venda de qualquer medicamento que presuma para utilização em contrário desta determinação, salvo quando prescrito por receita médica.
 
-###### Art. 16.º No exercício da sua actividade profissional, cumpre ao farmacêutico, sem prejuízo da sua independência, respeitar as prescrições dos médicos, diligenciando manter com eles relações cordiais e abstendo-se de todas as referências ou afirmações que possam prejudicar qualquer membro do corpo médico junto da sua clientela.
+Art. 16.º No exercício da sua actividade profissional, cumpre ao farmacêutico, sem prejuízo da sua independência, respeitar as prescrições dos médicos, diligenciando manter com eles relações cordiais e abstendo-se de todas as referências ou afirmações que possam prejudicar qualquer membro do corpo médico junto da sua clientela.
 
-###### Art. 17.º - 1. É vedada ao farmacêutico a modificação de qualquer prescrição médica, bem como a substituição de um medicamento por outro, embora com as mesmas indicações terapêuticas, salvo se a substituição ou modificação for consentida pelo médico que tiver receitado, a quem o farmacêutico, em caso de necessidade, deve dirigir-se directamente.
+Art. 17.º - 1. É vedada ao farmacêutico a modificação de qualquer prescrição médica, bem como a substituição de um medicamento por outro, embora com as mesmas indicações terapêuticas, salvo se a substituição ou modificação for consentida pelo médico que tiver receitado, a quem o farmacêutico, em caso de necessidade, deve dirigir-se directamente.
 
 2. Se tiver qualquer dúvida sobre a natureza do medicamento ou das doses prescritas, o farmacêutico deve ouvir sempre o médico.
 
-###### Art. 18.º O farmacêutico deve evitar praticar actos que legìtimamente pertençam aos médicos, abstendo-se de formular quaisquer apreciações sobre o valor dos meios curativos prescritos por estes ou sobre o diagnóstico da enfermidade de que o cliente sofre, nomeadamente no caso de análises de aplicação à clínica que lhe tenham sido pedidas.
+Art. 18.º O farmacêutico deve evitar praticar actos que legìtimamente pertençam aos médicos, abstendo-se de formular quaisquer apreciações sobre o valor dos meios curativos prescritos por estes ou sobre o diagnóstico da enfermidade de que o cliente sofre, nomeadamente no caso de análises de aplicação à clínica que lhe tenham sido pedidas.
 
-###### Art. 19.º Os farmacêuticos devem manter entre si as melhores e mais correctas relações, conservando sempre vivo o espírito de solidariedade, lealdade e auxílio mútuo, e, tendo em vista os fins elevados da sua missão e os interesses morais da profissão, devem evitar quaisquer atitudes que possam ser consideradas contrárias a esse mesmo espírito.
+Art. 19.º Os farmacêuticos devem manter entre si as melhores e mais correctas relações, conservando sempre vivo o espírito de solidariedade, lealdade e auxílio mútuo, e, tendo em vista os fins elevados da sua missão e os interesses morais da profissão, devem evitar quaisquer atitudes que possam ser consideradas contrárias a esse mesmo espírito.
 
-###### Art. 20.º Os farmacêuticos devem procurar resolver no melhor espírito de colaboração os assuntos em que possam encontrar-se em oposição, evitando os actos ou palavras susceptíveis de trazerem prejuízo material ou moral a um colega.
+Art. 20.º Os farmacêuticos devem procurar resolver no melhor espírito de colaboração os assuntos em que possam encontrar-se em oposição, evitando os actos ou palavras susceptíveis de trazerem prejuízo material ou moral a um colega.
 
-###### Art. 21.º O farmacêutico deve prestar toda a colaboração possível aos funcionários ou agentes de saúde pública no desempenho da sua missão.
+Art. 21.º O farmacêutico deve prestar toda a colaboração possível aos funcionários ou agentes de saúde pública no desempenho da sua missão.
 
-###### Art. 22.º - 1. É dever do farmacêutico colaborar com os serviços oficiais na fiscalização sanitária dos medicamentos.
+Art. 22.º - 1. É dever do farmacêutico colaborar com os serviços oficiais na fiscalização sanitária dos medicamentos.
 
 2. Para tanto, deve avisar as entidades competentes sempre que tenha conhecimento de medicamentos ou substâncias medicamentosas que não satisfaçam as devidas condições de pureza e actividade.
 
-###### Art. 23.º Os farmacêuticos de qualquer instituição cujos serviços estejam organizados hieràrquicamente devem, nas suas mútuas relações de superiores e subordinados, observar os princípios de confraternidade profissional, sem prejuízo da disciplina inerente às respectivas funções.
+Art. 23.º Os farmacêuticos de qualquer instituição cujos serviços estejam organizados hieràrquicamente devem, nas suas mútuas relações de superiores e subordinados, observar os princípios de confraternidade profissional, sem prejuízo da disciplina inerente às respectivas funções.
 
-###### Art. 24.º Os farmacêuticos deverão guardar segredo profissional sobre a matéria de interesse moral e social.
+Art. 24.º Os farmacêuticos deverão guardar segredo profissional sobre a matéria de interesse moral e social.
 
-###### Art. 25.º O segredo profissional abrange todos os factos que tenham chegado ao conhecimento do farmacêutico em razão e no exercício da sua profissão e compreende especialmente:
+Art. 25.º O segredo profissional abrange todos os factos que tenham chegado ao conhecimento do farmacêutico em razão e no exercício da sua profissão e compreende especialmente:
 
 a) As doenças dos seus clientes ou os factos a eles referentes;
 
 b) Os resultados de análises de aplicação clínica.
 
-###### Art. 26.º - 1. Cessa o dever do segredo profissional desde que, para tanto, se verifique justa causa.
+Art. 26.º - 1. Cessa o dever do segredo profissional desde que, para tanto, se verifique justa causa.
 
 2. Há justa causa quando a revelação se torna necessária para salvaguardar interesses manifestamente superiores.
 
@@ -196,29 +212,29 @@ c) Necessidade absoluta no que respeita à dignidade, direitos e interesses mora
 
 d) Existência de qualquer preceito legal que imponha a revelação do segredo à autoridade pública.
 
-###### Art. 27.º A obrigação do segredo não impede que o farmacêutico tome as precauções ou participe nas medidas de defesa indispensáveis à salvaguarda da vida e saúde dos membros da família e demais pessoas que residam ou se encontrem no local onde estiver o doente.
+Art. 27.º A obrigação do segredo não impede que o farmacêutico tome as precauções ou participe nas medidas de defesa indispensáveis à salvaguarda da vida e saúde dos membros da família e demais pessoas que residam ou se encontrem no local onde estiver o doente.
 
-###### Art. 28.º O farmacêutico devidamente notificado como testemunha em processo que envolve um seu cliente deve comparecer no tribunal, mas não pode prestar declarações sobre matéria de segredo profissional.
+Art. 28.º O farmacêutico devidamente notificado como testemunha em processo que envolve um seu cliente deve comparecer no tribunal, mas não pode prestar declarações sobre matéria de segredo profissional.
 
-###### Art. 29.º O farmacêutico não pode recusar-se a prestar declarações sobre factos relativos ao seu cliente, desde que não constituam matéria de segredo profissional.
+Art. 29.º O farmacêutico não pode recusar-se a prestar declarações sobre factos relativos ao seu cliente, desde que não constituam matéria de segredo profissional.
 
-###### Art. 30.º - 1. Cabe aos presidentes das relações decidir sem recurso na área da sua jurisdição, depois de ouvida a inspecção do exercício farmacêutico e o respectivo procurador da República, as questões emergentes do segredo profissional e sua revelação suscitada entre farmacêuticos, ou quaisquer serviços de saúde, por seu lado, e as autoridades judiciais ou policiais e serviços administrativos de qualquer direcção ou repartição provincial, por outro, com ressalva dos que envolverem matéria pertinente às forças armadas.
+Art. 30.º - 1. Cabe aos presidentes das relações decidir sem recurso na área da sua jurisdição, depois de ouvida a inspecção do exercício farmacêutico e o respectivo procurador da República, as questões emergentes do segredo profissional e sua revelação suscitada entre farmacêuticos, ou quaisquer serviços de saúde, por seu lado, e as autoridades judiciais ou policiais e serviços administrativos de qualquer direcção ou repartição provincial, por outro, com ressalva dos que envolverem matéria pertinente às forças armadas.
 
 2. Para o efeito do disposto no número anterior, é competente o presidente da Relação em cuja área de jurisdição for denegado o consentimento de revelação do segredo, escusada a prestação de declarações com o fundamento no segredo ou recusada a remessa dos elementos solicitados.
 
-###### Art. 31.º Nenhum farmacêutico no exercício das suas funções poderá associar-se a quaisquer indivíduos que explorem o ramo de medicamentos e produtos nacionais.
+Art. 31.º Nenhum farmacêutico no exercício das suas funções poderá associar-se a quaisquer indivíduos que explorem o ramo de medicamentos e produtos nacionais.
 
 #### SECÇÃO III — Dos ajudantes técnicos de farmácia
 
-###### Art. 32.º - 1. A inscrição dos ajudantes técnicos de farmácia far-se-á nas inspecções do exercício farmacêutico, em livro especial, em que fiquem registados o nome, filiação, naturalidade, idade e data de obtenção do seu diploma, no qual será feito o respectivo averbamento.
+Art. 32.º - 1. A inscrição dos ajudantes técnicos de farmácia far-se-á nas inspecções do exercício farmacêutico, em livro especial, em que fiquem registados o nome, filiação, naturalidade, idade e data de obtenção do seu diploma, no qual será feito o respectivo averbamento.
 
 2. Esta inscrição será feita a requerimento do interessado, dirigido ao director ou chefe dos serviços de saúde e assistência, instruído com a certidão de idade, documento comprovativo de possuir o curso de ajudante técnico de farmácia e atestado médico, passado pelo delegado de saúde, comprovativo de que não sofre de doença infecto-contagiosa ou qualquer outra incompatível com o exercício da profissão.
 
-###### Art. 33.º - 1. A profissão de ajudante técnico de farmácia só poderá ser exercida por pessoas com as habilitações exigidas para o desempenho de idênticas funções nos serviços de saúde e assistência.
+Art. 33.º - 1. A profissão de ajudante técnico de farmácia só poderá ser exercida por pessoas com as habilitações exigidas para o desempenho de idênticas funções nos serviços de saúde e assistência.
 
 2. São ressalvados os direitos dos ajudantes de farmácia que à data da publicação do presente decreto já exerciam essas funções devidamente inscritos.
 
-###### Art. 34.º - 1. A valorização dos serviços dos ajudantes técnicos de farmácia, quer das farmácias particulares, quer das farmácias do Estado, será registada em cada farmácia pelo respectivo farmacêutico responsável, em livro competente, visado pela inspecção do exercício farmacêutico, do qual constará o seu aproveitamento e comportamento.
+Art. 34.º - 1. A valorização dos serviços dos ajudantes técnicos de farmácia, quer das farmácias particulares, quer das farmácias do Estado, será registada em cada farmácia pelo respectivo farmacêutico responsável, em livro competente, visado pela inspecção do exercício farmacêutico, do qual constará o seu aproveitamento e comportamento.
 
 2. No fim de cada ano e até 31 de Janeiro do ano seguinte, ou quando o ajudante técnico seja dispensado do serviço, será o director técnico obrigado a enviar, para efeitos de registo, à inspecção provincial do exercício farmacêutico nota de aproveitamento e comportamento, extraída do livro competente.
 
@@ -228,9 +244,9 @@ d) Existência de qualquer preceito legal que imponha a revelação do segredo �
 
 #### SECÇÃO I — Da direcção técnica
 
-###### Art. 35.º Nenhuma farmácia ou laboratório de indústria farmacêutica, seja qual for a entidade a que pertença, poderá laborar sem que possua farmacêutico responsável que assuma a respectiva direcção técnica, efectiva e permanente.
+Art. 35.º Nenhuma farmácia ou laboratório de indústria farmacêutica, seja qual for a entidade a que pertença, poderá laborar sem que possua farmacêutico responsável que assuma a respectiva direcção técnica, efectiva e permanente.
 
-###### Art. 36.º - 1. Nenhum farmacêutico, quando proprietário de uma farmácia ou director técnico de sociedade, pode desempenhar qualquer função incompatível com o exercício efectivo da actividade farmacêutica, devendo permanecer na farmácia durante o período de laboração, de maneira a poder fiscalizar a manipulação dos medicamentos e verificar o estado das especialidades farmacêuticas, abrindo, sempre que necessário, os seus invólucros exteriores no acto da entrega aos clientes, para se verificar pela observação dos seus caracteres organolépticos se há ou não qualquer alteração do produto.
+Art. 36.º - 1. Nenhum farmacêutico, quando proprietário de uma farmácia ou director técnico de sociedade, pode desempenhar qualquer função incompatível com o exercício efectivo da actividade farmacêutica, devendo permanecer na farmácia durante o período de laboração, de maneira a poder fiscalizar a manipulação dos medicamentos e verificar o estado das especialidades farmacêuticas, abrindo, sempre que necessário, os seus invólucros exteriores no acto da entrega aos clientes, para se verificar pela observação dos seus caracteres organolépticos se há ou não qualquer alteração do produto.
 
 2. A direcção técnica de uma farmácia é incompatível com o desempenho de outras funções ou cargos públicos ou particulares, desde que isso implique a ausência do respectivo director durante as horas de laboração.
 
@@ -238,19 +254,19 @@ d) Existência de qualquer preceito legal que imponha a revelação do segredo �
 
 4. No caso de legítimo impedimento temporário, o director técnico pode ser substituído por outro farmacêutico ou delegar atribuições (manipulação e venda) em ajudante técnico de farmácia inscrito nos termos deste Regulamento e que possua, pelo menos, quatro anos de prática registada.
 
-###### Art. 37.º - 1. Considera-se legítimo impedimento temporário a doença eventual ou a ausência por tempo não superior a trinta dias em cada ano.
+Art. 37.º - 1. Considera-se legítimo impedimento temporário a doença eventual ou a ausência por tempo não superior a trinta dias em cada ano.
 
 2. O impedimento temporário poderá ser extensivo ao prazo de doze meses, quando o director técnico da farmácia for substituído por farmacêutico.
 
 3. Findo esse prazo, a farmácia só poderá laborar desde que o director técnico seja seu proprietário, no todo ou em parte, por associação com outro ou outros farmacêuticos.
 
-###### Art. 38.º - 1. O farmacêutico director técnico comunicará imediatamente à inspecção provincial do exercício farmacêutico qualquer ausência temporária, indicando o nome do farmacêutico seu substituto ou de ajudante técnico de farmácia em quem delegou atribuições.
+Art. 38.º - 1. O farmacêutico director técnico comunicará imediatamente à inspecção provincial do exercício farmacêutico qualquer ausência temporária, indicando o nome do farmacêutico seu substituto ou de ajudante técnico de farmácia em quem delegou atribuições.
 
 2. O farmacêutico, durante o seu impedimento temporário, não pode assumir a direcção técnica de outra farmácia ou laboratório.
 
-###### Art. 39.º É proibida a preparação de produtos especializados nas farmácias ou em laboratórios de produtos farmacêuticos e da indústria farmacêutica durante a ausência ou impedimento dos farmacêuticos ou directores técnicos, salvo quando substituídos por outro farmacêutico.
+Art. 39.º É proibida a preparação de produtos especializados nas farmácias ou em laboratórios de produtos farmacêuticos e da indústria farmacêutica durante a ausência ou impedimento dos farmacêuticos ou directores técnicos, salvo quando substituídos por outro farmacêutico.
 
-###### Art. 40.º Cabe ao director técnico:
+Art. 40.º Cabe ao director técnico:
 
 a) Assumir a responsabilidade pela execução de todos os actos farmacêuticos praticados na farmácia, cumprindo-lhe respeitar e fazer respeitar os regulamentos referentes ao exercício da profissão farmacêutica;
 
@@ -262,9 +278,9 @@ d) Providenciar que na farmácia sejam observadas boas condições de higiene e 
 
 e) Prestar a colaboração às entidades oficiais e promover as medidas destinadas a manter um aprovisionamento suficiente de medicamentos.
 
-###### Art. 41.º O farmacêutico que assuma ou deixe a direcção técnica de qualquer farmácia ou laboratório da indústria farmacêutica deverá participar o facto à direcção ou repartição provincial dos serviços de saúde e assistência, inspecção do exercício farmacêutico, indicando o número de registo da sua inscrição, sua residência, localização da farmácia ou laboratório e entidade proprietária, a fim de se averbar a alteração no respectivo livro de registo.
+Art. 41.º O farmacêutico que assuma ou deixe a direcção técnica de qualquer farmácia ou laboratório da indústria farmacêutica deverá participar o facto à direcção ou repartição provincial dos serviços de saúde e assistência, inspecção do exercício farmacêutico, indicando o número de registo da sua inscrição, sua residência, localização da farmácia ou laboratório e entidade proprietária, a fim de se averbar a alteração no respectivo livro de registo.
 
-###### Art. 42.º Quando, nos casos previstos neste Regulamento, o farmacêutico assuma a direcção técnica permanente de farmácia ou laboratório de produtos farmacêuticos e da indústria farmacêutica, deverá apresentar à inspecção provincial do exercício farmacêutico certidão do documento, onde deverá constar:
+Art. 42.º Quando, nos casos previstos neste Regulamento, o farmacêutico assuma a direcção técnica permanente de farmácia ou laboratório de produtos farmacêuticos e da indústria farmacêutica, deverá apresentar à inspecção provincial do exercício farmacêutico certidão do documento, onde deverá constar:
 
 a) A indicação no prazo mínimo de dois anos, renovável por igual período;
 
@@ -272,29 +288,29 @@ b) A indicação de que, quando uma das partes o não quiser renovar, deverá co
 
 c) A indicação do vencimento, que nunca poderá ser inferior ao fixado nas leis vigentes, e a comparticipação nos lucros, se os houver.
 
-###### Art. 43.º Nenhum farmacêutico poderá assumir a direcção técnica de mais de uma farmácia ou laboratório de produtos farmacêuticos, nem conjuntamente nestes dois estabelecimentos, embora pertençam à mesma entidade, nem exercer qualquer modalidade da arte de curar.
+Art. 43.º Nenhum farmacêutico poderá assumir a direcção técnica de mais de uma farmácia ou laboratório de produtos farmacêuticos, nem conjuntamente nestes dois estabelecimentos, embora pertençam à mesma entidade, nem exercer qualquer modalidade da arte de curar.
 
 #### SECÇÃO II — Da dispensa de medicamentos ao público
 
-###### Art. 44.º - 1. O aviamento de receitas e a venda ou entrega de medicamentos ou substâncias medicamentosas ao público são actos a exercer exclusivamente nas farmácias pelos farmacêuticos ou pelos seus directores colaboradores, sob a inteira responsabilidade dos primeiros e nos termos dos números seguintes.
+Art. 44.º - 1. O aviamento de receitas e a venda ou entrega de medicamentos ou substâncias medicamentosas ao público são actos a exercer exclusivamente nas farmácias pelos farmacêuticos ou pelos seus directores colaboradores, sob a inteira responsabilidade dos primeiros e nos termos dos números seguintes.
 
 2. A direcção ou repartição provincial de saúde e assistência poderá autorizar que os medicamentos sejam fornecidos pelos farmacêuticos nos estabelecimentos de assistência que possuam depósitos de medicamentos destinados às pessoas às quais prestem assistência.
 
 3. A farmácia compreende a sede e os postos de medicamentos dela dependentes.
 
-###### Art. 45.º Além dos produtos indicados no artigo anterior, as farmácias só podem fornecer ao público acessórios de farmácia, instrumentos cirúrgicos, produtos destinados à higiene e à profilaxia, produtos dietéticos e artigos de perfumaria, de óptica e acústica médica e de prótese em geral, assim como produtos de fitofarmácia, nomeadamente pesticidas quando apresentados em embalagens próprias.
+Art. 45.º Além dos produtos indicados no artigo anterior, as farmácias só podem fornecer ao público acessórios de farmácia, instrumentos cirúrgicos, produtos destinados à higiene e à profilaxia, produtos dietéticos e artigos de perfumaria, de óptica e acústica médica e de prótese em geral, assim como produtos de fitofarmácia, nomeadamente pesticidas quando apresentados em embalagens próprias.
 
-###### Art. 46.º Os cosméticos, produtos de higiene, produtos dietéticos e outros idênticos, desde que na sua composição se contenham substâncias com propriedades tóxicas ou muito activas do ponto de vista farmacodinâmico, podem ser equiparados aos medicamentos, mediante despacho do governador da província.
+Art. 46.º Os cosméticos, produtos de higiene, produtos dietéticos e outros idênticos, desde que na sua composição se contenham substâncias com propriedades tóxicas ou muito activas do ponto de vista farmacodinâmico, podem ser equiparados aos medicamentos, mediante despacho do governador da província.
 
-###### Art. 47.º - 1. As drogarias, estabelecimentos de ervanário e outros congéneres podem fornecer ao público as drogas e produtos químicos medicinais não manipulados que constarem de lista elaborada e trienalmente revista pelos serviços de saúde e assistência e aprovada pelo governador da província e ouvidas as entidades que este tiver por conveniente.
+Art. 47.º - 1. As drogarias, estabelecimentos de ervanário e outros congéneres podem fornecer ao público as drogas e produtos químicos medicinais não manipulados que constarem de lista elaborada e trienalmente revista pelos serviços de saúde e assistência e aprovada pelo governador da província e ouvidas as entidades que este tiver por conveniente.
 
 2. O comércio de drogaria terá de ser estabelecido em lugar separado da farmácia e sem comunicação directa com ela.
 
 3. Às drogarias e estabelecimentos indicados neste artigo não são autorizadas designações que possam estabelecer confusão com as farmácias.
 
-###### Art. 48.º O farmacêutico não pode adquirir clientela por processo ou métodos contrários à dignidade da profissão.
+Art. 48.º O farmacêutico não pode adquirir clientela por processo ou métodos contrários à dignidade da profissão.
 
-###### Art. 49.º - 1. São considerados contrários à dignidade e à moral profissional todos os acordos ou convenções que tenham por fim especular sobre a saúde pública ou partilhar a remuneração dos serviços farmacêuticos com terceiros.
+Art. 49.º - 1. São considerados contrários à dignidade e à moral profissional todos os acordos ou convenções que tenham por fim especular sobre a saúde pública ou partilhar a remuneração dos serviços farmacêuticos com terceiros.
 
 2. São especialmente proibidas:
 
@@ -302,7 +318,7 @@ a) A concessão de descontos, comissões, benefícios ou bónus sobre os preços
 
 b) As vantagens e facilidades, de qualquer natureza, concedidas a quem se dedique ao exercício ilegal da farmácia.
 
-###### Art. 50.º - 1. É proibido fornecer, por qualquer forma, ao público, medicamentos e substâncias medicamentosas que tenham ultrapassado o limite de validade ou em embalagens que não sejam convenientemente rotuladas.
+Art. 50.º - 1. É proibido fornecer, por qualquer forma, ao público, medicamentos e substâncias medicamentosas que tenham ultrapassado o limite de validade ou em embalagens que não sejam convenientemente rotuladas.
 
 2. No rótulo será transcrita a prescrição, sendo indicada também a quantidade, o preço e o número da receita.
 
@@ -312,31 +328,31 @@ b) As vantagens e facilidades, de qualquer natureza, concedidas a quem se dediqu
 
 5. Nas embalagens de medicamentos e de substâncias medicamentosas que contenham qualquer substância das que não podem ser utilizadas sem receita médica, em dose superior à empregada normalmente, será aposta uma etiqueta sobre fundo azul, com a inscrição «Não exceder a dose».
 
-###### Art. 51.º É proibido às farmácias fornecer ao público sem receita médica:
+Art. 51.º É proibido às farmácias fornecer ao público sem receita médica:
 
 a) Os medicamentos e substâncias medicamentosas, tóxicos, estupefacientes ou outros que possam ser empregados como antigenésicos e abortivos, especificados em tabela aprovada pela direcção ou repartição provincial, ouvida a inspecção do exercício farmacêutico;
 
 b) Todos os medicamentos em geral, de cujo rótulo conste obrigatòriamente que não podem ser fornecidos sem receita médica.
 
-###### Art. 52.º - 1. Os medicamentos e substâncias medicamentosas inscritas na Farmacopeia Portuguesa só podem vender-se com os nomes nela designados, salvo quando prescritos sob nome caído no uso comum e desde que não haja confusão com outros semelhantes.
+Art. 52.º - 1. Os medicamentos e substâncias medicamentosas inscritas na Farmacopeia Portuguesa só podem vender-se com os nomes nela designados, salvo quando prescritos sob nome caído no uso comum e desde que não haja confusão com outros semelhantes.
 
 2. É obrigatória a aposição em todas as receitas do carimbo da farmácia, preço do medicamento por fórmula e o número do registo.
 
-###### Art. 53.º Os laboratórios de produtos farmacêuticos e todos os estabelecimentos que se dediquem ao comércio por grosso de medicamentos e de substâncias medicamentosas não podem vender esses produtos directamente ao público.
+Art. 53.º Os laboratórios de produtos farmacêuticos e todos os estabelecimentos que se dediquem ao comércio por grosso de medicamentos e de substâncias medicamentosas não podem vender esses produtos directamente ao público.
 
 #### SECÇÃO III — Da instalação de farmácias e laboratórios de produtos farmacêuticos e da indústria farmacêutica
 
-###### Art. 54.º Todo aquele que pretenda instalar farmácia, laboratório da indústria farmacêutica ou qualquer estabelecimento que se destine ao comércio por grosso de medicamentos ou substâncias medicamentosas carece de autorização do Governo da província, mediante parecer do conselho de saúde, higiene e de assistência, devendo as petições ser feitas pelo director técnico, não sendo válidas as procurações que se passem em nome de outra entidade que não esta.
+Art. 54.º Todo aquele que pretenda instalar farmácia, laboratório da indústria farmacêutica ou qualquer estabelecimento que se destine ao comércio por grosso de medicamentos ou substâncias medicamentosas carece de autorização do Governo da província, mediante parecer do conselho de saúde, higiene e de assistência, devendo as petições ser feitas pelo director técnico, não sendo válidas as procurações que se passem em nome de outra entidade que não esta.
 
-###### Art. 55.º - 1. Para a obter, deverá o respectivo pedido ser formulado em requerimento devidamente instruído por documento comprovativo da qualidade de farmacêutico do requerente ou requerentes, de certidão da escritura de constituição da sociedade, quando for o caso, de declaração das funções que o requerente ou o sócio director técnico de farmácia eventualmente desempenha ou declaração de que não desempenha outras funções e de quaisquer outros elementos que a direcção ou repartição provincial dos serviços de saúde e assistência considere de interesse para instrução do processo.
+Art. 55.º - 1. Para a obter, deverá o respectivo pedido ser formulado em requerimento devidamente instruído por documento comprovativo da qualidade de farmacêutico do requerente ou requerentes, de certidão da escritura de constituição da sociedade, quando for o caso, de declaração das funções que o requerente ou o sócio director técnico de farmácia eventualmente desempenha ou declaração de que não desempenha outras funções e de quaisquer outros elementos que a direcção ou repartição provincial dos serviços de saúde e assistência considere de interesse para instrução do processo.
 
 2. O requerente entregará também, na altura que for indicada, memória descritiva das instalações e planta das mesmas e pagará a competente taxa, a fixar pelo governo da província, que constitui receita do Estado.
 
-###### Art. 56.º - 1. As autorizações a que se refere o artigo anterior são válidas pelo prazo de um ano para as farmácias e estabelecimentos grossistas e de dezoito meses quando se trate de laboratórios de produtos farmacêuticos e da indústria farmacêutica, podendo este prazo ser prorrogado por mais noventa dias se a inspecção do exercício farmacêutico verificar que as instalações estão em curso.
+Art. 56.º - 1. As autorizações a que se refere o artigo anterior são válidas pelo prazo de um ano para as farmácias e estabelecimentos grossistas e de dezoito meses quando se trate de laboratórios de produtos farmacêuticos e da indústria farmacêutica, podendo este prazo ser prorrogado por mais noventa dias se a inspecção do exercício farmacêutico verificar que as instalações estão em curso.
 
 2. Findo este prazo, as autorizações podem ser prorrogadas ou canceladas por despacho do governador da província.
 
-###### Art. 57.º Para efeito de licenciamento de farmácias seguir-se-ão as seguintes disposições:
+Art. 57.º Para efeito de licenciamento de farmácias seguir-se-ão as seguintes disposições:
 
 a) É de autorizar a instalação de farmácias em qualquer local de um aglomerado populacional, desde que cada farmácia corresponda a um mínimo de 5000 habitantes;
 
@@ -348,11 +364,11 @@ d) As disposições das alíneas anteriores não se aplicam às farmácias que s
 
 e) A transferência de farmácia de um local para outro é sempre considerada como nova instalação e quando dentro da mesma localidade será de autorizar desde que possa considerar-se susceptível de contribuir para melhor distribuição e abastecimento do público.
 
-###### Art. 58.º - 1. Exceptuando o caso de força maior, nenhuma farmácia pode ser encerrada sem que o facto seja comunicado à direcção ou repartição dos serviços de saúde e assistência com a antecedência de noventa dias.
+Art. 58.º - 1. Exceptuando o caso de força maior, nenhuma farmácia pode ser encerrada sem que o facto seja comunicado à direcção ou repartição dos serviços de saúde e assistência com a antecedência de noventa dias.
 
 2. Se o encerramento for lesivo do interesse público, a direcção ou repartição provincial dos serviços de saúde e assistência providenciará de modo a poder manter a farmácia em funcionamento.
 
-###### Art. 59.º - 1. As farmácias que forem encerradas voluntàriamente podem reabrir, sem mais formalidades, até um ano a contar da data do encerramento, desde que este tenha sido prèviamente comunicado à direcção ou repartição dos serviços de saúde e assistência.
+Art. 59.º - 1. As farmácias que forem encerradas voluntàriamente podem reabrir, sem mais formalidades, até um ano a contar da data do encerramento, desde que este tenha sido prèviamente comunicado à direcção ou repartição dos serviços de saúde e assistência.
 
 2. Se o período de encerramento voluntário exceder um ano ou se não tiver sido comunicado nos termos do corpo deste artigo, a reabertura fica sujeita ao regime de condicionamento para instalação de novas farmácias.
 
@@ -360,37 +376,37 @@ e) A transferência de farmácia de um local para outro é sempre considerada co
 
 4. Considera-se perdido o direito de reabertura a que se refere este artigo desde que, havendo um pedido de instalação de nova farmácia e tendo sido devidamente notificado pela repartição ou direcção dos serviços de saúde e assistência, o proprietário não reabra a farmácia no prazo de trinta dias.
 
-###### Art. 60.º Quando as farmácias não estejam a cumprir as prescrições legais ou as determinações publicadas ao abrigo da lei, pela direcção ou repartição provincial dos serviços de saúde e assistência para o seu funcionamento, além da sanção que no caso couber, pode aquela direcção ou repartição conceder-lhes um prazo razoável para corrigirem as deficiências verificadas.
+Art. 60.º Quando as farmácias não estejam a cumprir as prescrições legais ou as determinações publicadas ao abrigo da lei, pela direcção ou repartição provincial dos serviços de saúde e assistência para o seu funcionamento, além da sanção que no caso couber, pode aquela direcção ou repartição conceder-lhes um prazo razoável para corrigirem as deficiências verificadas.
 
-###### Art. 61.º - 1. Nenhuma farmácia pode estar aberta ao público sem que o farmacêutico seu director técnico seja proprietário no todo ou em parte, por associação com outro ou outros farmacêuticos.
+Art. 61.º - 1. Nenhuma farmácia pode estar aberta ao público sem que o farmacêutico seu director técnico seja proprietário no todo ou em parte, por associação com outro ou outros farmacêuticos.
 
 2. As farmácias das companhias, sociedades agrícolas e empresas industriais, ou outras destinadas à assistência farmacêutica ao próprio pessoal e que foram autorizadas anteriormente à data da publicação deste diploma poderão continuar a laborar, mas apenas nas condições fixadas no artigo 35.º deste diploma.
 
-###### Art. 62.º As farmácias existentes à data da publicação deste diploma e que não sejam propriedade de farmacêutico ou farmacêuticos podem continuar a laborar enquanto não mudem de proprietário por venda, cedência, doação ou qualquer outra forma de transferência de propriedade.
+Art. 62.º As farmácias existentes à data da publicação deste diploma e que não sejam propriedade de farmacêutico ou farmacêuticos podem continuar a laborar enquanto não mudem de proprietário por venda, cedência, doação ou qualquer outra forma de transferência de propriedade.
 
-###### Art. 63.º - 1. Todas as farmácias e laboratórios de produtos farmacêuticos devem ter visível do público, quer no interior, quer no exterior, o nome do farmacêutico seu director técnico, não sendo permitidas quaisquer designações estranhas à profissão.
+Art. 63.º - 1. Todas as farmácias e laboratórios de produtos farmacêuticos devem ter visível do público, quer no interior, quer no exterior, o nome do farmacêutico seu director técnico, não sendo permitidas quaisquer designações estranhas à profissão.
 
 2. Esta inscrição é igualmente obrigatória nos rótulos, carimbos ou quaisquer outros documentos de que a farmácia ou laboratórios de produtos farmacêuticos façam uso público.
 
-###### Art. 64.º - 1. As entidades proprietárias de farmácia ou laboratório que tenham ao seu serviço farmacêuticos deverão apresentar, no prazo de noventa dias, a contar da data da publicação do presente diploma, pública-forma do seu contrato actualizado segundo as alíneas a), b) e c) do artigo 42.º do presente diploma.
+Art. 64.º - 1. As entidades proprietárias de farmácia ou laboratório que tenham ao seu serviço farmacêuticos deverão apresentar, no prazo de noventa dias, a contar da data da publicação do presente diploma, pública-forma do seu contrato actualizado segundo as alíneas a), b) e c) do artigo 42.º do presente diploma.
 
 2. De igual modo, os farmacêuticos que façam parte da sociedade deverão apresentar pública-forma, da qual conste a quota que lhes pertence.
 
-###### Art. 65.º - 1. Nas farmácias e laboratórios de produtos farmacêuticos e da indústria farmacêutica, suas dependências ou em quaisquer estabelecimentos que vendam produtos farmacêuticos não é permitida a instalação de consultório médico, de dentista, posto de enfermagem ou de qualquer actividade estranha à profissão farmacêutica, quer a prestação de serviço seja remunerada ou gratuita.
+Art. 65.º - 1. Nas farmácias e laboratórios de produtos farmacêuticos e da indústria farmacêutica, suas dependências ou em quaisquer estabelecimentos que vendam produtos farmacêuticos não é permitida a instalação de consultório médico, de dentista, posto de enfermagem ou de qualquer actividade estranha à profissão farmacêutica, quer a prestação de serviço seja remunerada ou gratuita.
 
 2. Consideram-se dependências dos estabelecimentos referidos neste artigo as casas ou aposentos que tenham acesso, embora não seja único, por estes estabelecimentos.
 
-###### Art. 66.º - 1. Os nomes das farmácias que se instalem de novo e das que mudem de proprietário dependem de aprovação da direcção ou repartição provincial dos serviços de saúde e assistência e devem ser estabelecidos de modo a não traduzir qualquer forma de concorrência desleal ou de charlatanismo e a não afectar a dignidade da profissão.
+Art. 66.º - 1. Os nomes das farmácias que se instalem de novo e das que mudem de proprietário dependem de aprovação da direcção ou repartição provincial dos serviços de saúde e assistência e devem ser estabelecidos de modo a não traduzir qualquer forma de concorrência desleal ou de charlatanismo e a não afectar a dignidade da profissão.
 
 2. Compete à direcção ou repartição provincial dos serviços de saúde e assistência para que de futuro e tanto quanto possível as farmácias passem a ser denominadas exclusivamente pelo nome do farmacêutico, director técnico e proprietário.
 
-###### Art. 67.º - 1. Todas as farmácias serão dotadas de uma sala de distribuição, um laboratório, um anexo de laboratório destinado a limpeza e lavagem de material e vasilhame, instalações para o pessoal de serviço e respectivos sanitários e uma dependência para armazém de drogas.
+Art. 67.º - 1. Todas as farmácias serão dotadas de uma sala de distribuição, um laboratório, um anexo de laboratório destinado a limpeza e lavagem de material e vasilhame, instalações para o pessoal de serviço e respectivos sanitários e uma dependência para armazém de drogas.
 
 2. As farmácias onde se efectuem análises clínicas, bromatológicas ou toxicológicas, devem dispor de laboratórios adequados, devidamente apetrechados para tal fim e sem comunicação directa com o laboratório de farmácia.
 
 3. As dependências a que se referem os números anteriores devem ser compartimentos completamente separados, e não simplesmente por meio de estantes ou biombos.
 
-###### Art. 68.º - 1. As farmácias devem obedecer às seguintes condições:
+Art. 68.º - 1. As farmácias devem obedecer às seguintes condições:
 
 2. Quanto à construção:
 
@@ -432,19 +448,19 @@ b) O emprego exclusivo, para embalagem, de papel liso ou de papel impresso priva
 
 c) A protecção dos bocais da frascaria devidamente rolhados em que os medicamentos foram entregues, com a cobertura habitualmente usada.
 
-###### Art. 69.º - 1. Todos os recipientes onde se acondicionem, nas farmácias e laboratórios de produtos farmacêuticos ou de indústria farmacêutica, medicamentos ou substâncias medicamentosas devem possuir rótulos com as inscrições bem legíveis, não podendo, contudo, estar expostos ao público.
+Art. 69.º - 1. Todos os recipientes onde se acondicionem, nas farmácias e laboratórios de produtos farmacêuticos ou de indústria farmacêutica, medicamentos ou substâncias medicamentosas devem possuir rótulos com as inscrições bem legíveis, não podendo, contudo, estar expostos ao público.
 
 2. As especialidades farmacêuticas, instrumentos cirúrgicos, apósitos, acessórios de farmácia e todos os restantes produtos, com excepção dos indicados no número anterior, podem, porém, estar expostos ao público.
 
 3. Estes preceitos são extensivos aos estabelecimentos que se dediquem ao comércio por grosso ou fabrico de medicamentos e substâncias medicamentosas.
 
-###### Art. 70.º Todas as farmácias terão obrigatòriamente um livro de registo de todas as receitas aviadas, copiadas clara e exactamente e numeradas por ordem de aviamento, com o preço de cada fórmula, o nome do médico que o formulou e do cliente, bem como um livro de registo das receitas de que façam parte tóxicos e estupefacientes, nos quais não são permitidos espaços em branco, nem emendas, rasuras ou entrelinhas, com data do aviamento, o nome e a quantidade das substâncias aviadas, o nome e a residência do médico que as subscreveu, bem como a morada do doente a quem foram destinadas.
+Art. 70.º Todas as farmácias terão obrigatòriamente um livro de registo de todas as receitas aviadas, copiadas clara e exactamente e numeradas por ordem de aviamento, com o preço de cada fórmula, o nome do médico que o formulou e do cliente, bem como um livro de registo das receitas de que façam parte tóxicos e estupefacientes, nos quais não são permitidos espaços em branco, nem emendas, rasuras ou entrelinhas, com data do aviamento, o nome e a quantidade das substâncias aviadas, o nome e a residência do médico que as subscreveu, bem como a morada do doente a quem foram destinadas.
 
-###### Art. 71.º É obrigatória em todas as farmácias a existência da última edição da Farmacopeia Portuguesa, do Regimento de Preços dos Medicamentos marcados neste como indispensáveis, do formulário oficial em vigor e dos utensílios constantes de uma lista a fixar pelo serviços de saúde da província.
+Art. 71.º É obrigatória em todas as farmácias a existência da última edição da Farmacopeia Portuguesa, do Regimento de Preços dos Medicamentos marcados neste como indispensáveis, do formulário oficial em vigor e dos utensílios constantes de uma lista a fixar pelo serviços de saúde da província.
 
-###### Art. 72.º Todos os livros de registo usados nas farmácias terão de ser legalizados na inspecção provincial do exercício farmacêutico da área a que as farmácias pertençam, segundo as normas oficialmente adoptadas.
+Art. 72.º Todos os livros de registo usados nas farmácias terão de ser legalizados na inspecção provincial do exercício farmacêutico da área a que as farmácias pertençam, segundo as normas oficialmente adoptadas.
 
-###### Art. 73.º - 1. Para efeitos deste Regulamento entende-se por laboratório de produtos farmacêuticos e da indústria farmacêutica o laboratório onde industrialmente se preparem ou transformem substâncias destinadas à medicina humana ou veterinária, e por laboratório de análises biológicas de diagnóstico ou laboratório de análises clínicas, o laboratório onde se preparem produtos biológicos ou se efectuem análises que sirvam normalmente para confirmação, verificação ou complementação de diagnóstico clínico.
+Art. 73.º - 1. Para efeitos deste Regulamento entende-se por laboratório de produtos farmacêuticos e da indústria farmacêutica o laboratório onde industrialmente se preparem ou transformem substâncias destinadas à medicina humana ou veterinária, e por laboratório de análises biológicas de diagnóstico ou laboratório de análises clínicas, o laboratório onde se preparem produtos biológicos ou se efectuem análises que sirvam normalmente para confirmação, verificação ou complementação de diagnóstico clínico.
 
 2. A preparação das especialidades farmacêuticas é reservada aos laboratórios de produtos farmacêuticos e da indústria farmacêutica, podendo, no entanto, as farmácias preparar alguns medicamentos especializados de técnica simples, desde que a inspecção do exercício farmacêutico reconheça que possuem material apropriado para isso e que o número de unidades preparadas não seja incompatível com as suas instalações.
 
@@ -454,7 +470,7 @@ c) A protecção dos bocais da frascaria devidamente rolhados em que os medicame
 
 5. Os laboratórios de análises clínicas só podem ser dirigidos ou chefiados por indivíduos nas condições do artigo 226.º e seu § único do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
 
-###### Art. 74.º Para a instalação de laboratório de produtos farmacêuticos e da indústria farmacêutica, a memória descritiva a que se refere o n.º 2 do artigo 55.º deste diploma deverá ser acompanhada de:
+Art. 74.º Para a instalação de laboratório de produtos farmacêuticos e da indústria farmacêutica, a memória descritiva a que se refere o n.º 2 do artigo 55.º deste diploma deverá ser acompanhada de:
 
 a) Documento que prove a obtenção das licenças camarárias ou outras, quando exigíveis para a construção ou modificação de edifício em que se pretende estabelecer a indústria;
 
@@ -464,7 +480,7 @@ c) Planta e cortes das dependências do laboratório que mostrem a distribuiçã
 
 d) Designação das formas farmacêuticas a que pertencem os medicamentos a industrializar, do material a utilizar na sua preparação e do número de farmacêuticos, ajudantes de farmácia e de mais pessoal de ambos os sexos que possa vir a empregar-se.
 
-###### Art. 75.º Para que os laboratórios de produtos farmacêuticos e da indústria farmacêutica possam laborar são necessárias, pelo menos, as seguintes dependências:
+Art. 75.º Para que os laboratórios de produtos farmacêuticos e da indústria farmacêutica possam laborar são necessárias, pelo menos, as seguintes dependências:
 
 a) Laboratório de análises de matérias-primas e de contrôle dos medicamentos industrializáveis;
 
@@ -480,11 +496,11 @@ f) Sala de embalagens;
 
 g) Armazém.
 
-###### Art. 76.º - 1. Será indispensável para a concessão da licença o parecer técnico da inspecção dos serviços de extinção de incêndios.
+Art. 76.º - 1. Será indispensável para a concessão da licença o parecer técnico da inspecção dos serviços de extinção de incêndios.
 
 2. No caso de não existirem os serviços referidos no número anterior, será ouvida a câmara municipal, pelo seu ramo de incêndios.
 
-###### Art. 77.º - 1. Após a instalação da farmácia, ou laboratório, a inspecção do exercício farmacêutico fará, a requerimento do interessado, a necessária e obrigatória vistoria, pela qual será cobrado o emolumento fixado na província, que constituirá receita do Estado.
+Art. 77.º - 1. Após a instalação da farmácia, ou laboratório, a inspecção do exercício farmacêutico fará, a requerimento do interessado, a necessária e obrigatória vistoria, pela qual será cobrado o emolumento fixado na província, que constituirá receita do Estado.
 
 2. Feita a vistoria, será lavrado competente auto, que se juntará ao processo.
 
@@ -494,13 +510,13 @@ g) Armazém.
 
 5. O transporte dos peritos, assim como todas as despesas inerentes à sua deslocação, quando isso for necessário, será da conta do interessado.
 
-###### Art. 78.º A preparação de formas farmacêuticas não indicadas na memória descritiva torna indispensável nova vistoria da inspecção do exercício farmacêutico para se verificar se há necessidade de salas privativas para seu fabrico.
+Art. 78.º A preparação de formas farmacêuticas não indicadas na memória descritiva torna indispensável nova vistoria da inspecção do exercício farmacêutico para se verificar se há necessidade de salas privativas para seu fabrico.
 
-###### Art. 79.º A mudança de um laboratório para outras instalações fica sujeita às formalidades estabelecidas para os novos laboratórios.
+Art. 79.º A mudança de um laboratório para outras instalações fica sujeita às formalidades estabelecidas para os novos laboratórios.
 
 #### SECÇÃO IV — Dos postos de medicamentos nas localidades onde não haja farmácia particular
 
-###### Art. 80.º - 1. Nas localidades onde não haja farmácia particular, poderá a direcção ou repartição provincial dos serviços de saúde e assistência, mediante informação da repartição ou secção farmacêutica, autorizar, a requerimento dos interessados ou por proposta das autoridades sanitárias, a instalação de um posto de medicamentos, a cargo de um ajudante técnico de farmácia, dependente de uma farmácia e sob inteira responsabilidade do respectivo farmacêutico, do mesmo concelho ou de concelhos limítrofes, que o deverá visitar periòdicamente.
+Art. 80.º - 1. Nas localidades onde não haja farmácia particular, poderá a direcção ou repartição provincial dos serviços de saúde e assistência, mediante informação da repartição ou secção farmacêutica, autorizar, a requerimento dos interessados ou por proposta das autoridades sanitárias, a instalação de um posto de medicamentos, a cargo de um ajudante técnico de farmácia, dependente de uma farmácia e sob inteira responsabilidade do respectivo farmacêutico, do mesmo concelho ou de concelhos limítrofes, que o deverá visitar periòdicamente.
 
 2. Compete à inspecção provincial do exercício farmacêutico determinar a farmácia à qual deve ser concedida autorização, e para esse efeito:
 
@@ -520,13 +536,13 @@ b) Não dando resultado a consulta anterior, serão consultadas as farmácias da
 
 8. Na falta de cumprimento das disposições do presente diploma, fica a direcção ou repartição dos serviços de saúde, através dos serviços farmacêuticos, autorizada a determinar o encerramento do posto, independentemente da aplicação aos infractores das demais sanções previstas na lei.
 
-###### Art. 81.º Os produtos cuja venda está autorizada nos postos de medicamentos constarão de uma lista a publicar em portaria provincial.
+Art. 81.º Os produtos cuja venda está autorizada nos postos de medicamentos constarão de uma lista a publicar em portaria provincial.
 
-###### Art. 82.º A instalação de farmácias particulares nas localidades onde haja postos de venda de medicamentos implica o cancelamento da licença destes postos, seis meses depois da abertura da farmácia.
+Art. 82.º A instalação de farmácias particulares nas localidades onde haja postos de venda de medicamentos implica o cancelamento da licença destes postos, seis meses depois da abertura da farmácia.
 
 #### SECÇÃO V — Do horário e serviço permanente das farmácias
 
-###### Art. 83.º - 1. Nas localidades onde existir mais de uma farmácia particular será estabelecido o serviço permanente feito por escala, diária ou semanal, distribuída entre todas as farmácias, por acordo entre os seus directores técnicos, de forma que, sem prejuízo da sua função, a duração de trabalhos dos empregados se conserve dentro dos limites fixados por lei.
+Art. 83.º - 1. Nas localidades onde existir mais de uma farmácia particular será estabelecido o serviço permanente feito por escala, diária ou semanal, distribuída entre todas as farmácias, por acordo entre os seus directores técnicos, de forma que, sem prejuízo da sua função, a duração de trabalhos dos empregados se conserve dentro dos limites fixados por lei.
 
 2. Se na localidade só existir uma farmácia particular e uma do Estado, o serviço será distribuído entre as duas, salvo se o director técnico da farmácia particular se responsabilizar por todo ele.
 
@@ -546,7 +562,7 @@ b) Não dando resultado a consulta anterior, serão consultadas as farmácias da
 
 #### SECÇÃO I — Da transmissão por contrato
 
-###### Art. 84.º - 1. A farmácia não pode ser traspassada antes de decorridos dois anos, a contar do dia em que for aberta ao público, salvo se o proprietário alegar prèviamente motivo justificado perante a direcção ou repartição provincial dos serviços de saúde e assistência.
+Art. 84.º - 1. A farmácia não pode ser traspassada antes de decorridos dois anos, a contar do dia em que for aberta ao público, salvo se o proprietário alegar prèviamente motivo justificado perante a direcção ou repartição provincial dos serviços de saúde e assistência.
 
 2. Se a farmácia integrada na herança ou nos bens do casal vier a ser adjudicada a cônjuge ou herdeiro legitimário que não seja farmacêutico ou aluno de Farmácia, deverá, no prazo de dois anos, ser objecto de traspasse ou de razão de exploração a favor de farmacêutico, sob pena de caducidade do alvará.
 
@@ -554,13 +570,13 @@ b) Não dando resultado a consulta anterior, serão consultadas as farmácias da
 
 4. Se o adjudicatário não for cônjuge ou herdeiro legitimário, a farmácia deverá ser traspassada em igual prazo, sob a mesma comunicação.
 
-###### Art. 85.º A cessão de exploração de farmácia só é permitida nos casos previstos da base IV da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), de 26 de Março de 1969, devendo o concessionário ser farmacêutico ou sociedade comercial constituída, nos termos do n.º 2 da base II da mesma portaria.
+Art. 85.º A cessão de exploração de farmácia só é permitida nos casos previstos da base IV da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), de 26 de Março de 1969, devendo o concessionário ser farmacêutico ou sociedade comercial constituída, nos termos do n.º 2 da base II da mesma portaria.
 
-###### Art. 86.º A dissolução, fusão ou transformação da sociedade comercial proprietária da farmácia e a transmissão da parte social ou quota devem ser comunicadas, no prazo de trinta dias, à direcção ou repartição provincial dos serviços de saúde e assistência, respectivamente, pelos administradores ou gerentes da sociedade ou por qualquer dos outorgantes na transmissão.
+Art. 86.º A dissolução, fusão ou transformação da sociedade comercial proprietária da farmácia e a transmissão da parte social ou quota devem ser comunicadas, no prazo de trinta dias, à direcção ou repartição provincial dos serviços de saúde e assistência, respectivamente, pelos administradores ou gerentes da sociedade ou por qualquer dos outorgantes na transmissão.
 
 #### SECÇÃO II — Da transmissão por morte
 
-###### Art. 87.º - 1. Para os efeitos das bases III e IV da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), deve ser comunicado à direcção ou repartição provincial dos serviços de saúde e assistência o falecimento do proprietário da farmácia, a existência do cônjuge ou herdeiro legitimário que seja farmacêutico ou aluno de Farmácia, a celebração de acordo para adjudicação da farmácia, o requerimento de inventário e a cessão da exploração.
+Art. 87.º - 1. Para os efeitos das bases III e IV da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), deve ser comunicado à direcção ou repartição provincial dos serviços de saúde e assistência o falecimento do proprietário da farmácia, a existência do cônjuge ou herdeiro legitimário que seja farmacêutico ou aluno de Farmácia, a celebração de acordo para adjudicação da farmácia, o requerimento de inventário e a cessão da exploração.
 
 2. A comunicação, acompanhada de documentação comprovativa, é feita pelo cabeça-de-casal, pelo interessado farmacêutico ou aluno de Farmácia, ou pelo interessado não farmacêutico ao qual tenha sido adjudicada a farmácia, no prazo de trinta dias, a contar do falecimento, do acordo, da apresentação da petição ou da notificação judicial que puser termo ao processo de traspasse ou da cessão da exploração.
 
@@ -568,11 +584,11 @@ b) Não dando resultado a consulta anterior, serão consultadas as farmácias da
 
 4. Ficam sujeitos a idêntica obrigação os cônjuges, no caso de divórcio ou separação judicial de pessoas e bens, e os interessados, no caso de curadoria definitiva do ausente.
 
-###### Art. 88.º - 1. Se a farmácia for adjudicada a aluno de Farmácia, deve este apresentar, até 31 de Dezembro de cada ano, na direcção ou repartição provincial dos serviços de saúde e assistência, documentação comprovativa do seu aproveitamento escolar e da sua inscrição em curso de Farmácia.
+Art. 88.º - 1. Se a farmácia for adjudicada a aluno de Farmácia, deve este apresentar, até 31 de Dezembro de cada ano, na direcção ou repartição provincial dos serviços de saúde e assistência, documentação comprovativa do seu aproveitamento escolar e da sua inscrição em curso de Farmácia.
 
 2. Se o não puder fazer, deve provar que a falta de aproveitamento não lhe é imputável ou que pode ainda concluir o curso no prazo de seis anos a que se refere o n.º 4 da base III da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031).
 
-###### Art. 89.º - 1. É nulo o legado de farmácia a favor de pessoa que, não sendo farmacêutico ou aluno de Farmácia, não seja chamado à sucessão na qualidade de herdeiro legítimo ou legitimário ou, sendo-o, haja cônjuge ou outro herdeiro farmacêutico ou aluno de Farmácia.
+Art. 89.º - 1. É nulo o legado de farmácia a favor de pessoa que, não sendo farmacêutico ou aluno de Farmácia, não seja chamado à sucessão na qualidade de herdeiro legítimo ou legitimário ou, sendo-o, haja cônjuge ou outro herdeiro farmacêutico ou aluno de Farmácia.
 
 2. Se, nas condições admitidas no número anterior, a farmácia for objecto de legado a favor de quem não seja farmacêutico ou aluno de Farmácia, observar-se-á o que na lei se dispõe quando a farmácia é adjudicada a herdeiro não farmacêutico.
 
@@ -580,7 +596,7 @@ b) Não dando resultado a consulta anterior, serão consultadas as farmácias da
 
 #### SECÇÃO III — Disposições comuns
 
-###### Art. 90.º - 1. Os negócios jurídicos de que resulta transmissão de farmácia ou cessão da sua exploração só produzem efeitos depois de passado o competente alvará pela direcção ou repartição provincial dos serviços de saúde e assistência.
+Art. 90.º - 1. Os negócios jurídicos de que resulta transmissão de farmácia ou cessão da sua exploração só produzem efeitos depois de passado o competente alvará pela direcção ou repartição provincial dos serviços de saúde e assistência.
 
 2. São nulos os negócios jurídicos celebrados contra o expressamente disposto na lei sobre a propriedade da farmácia ou que produzam ou possam produzir um efeito prático ao que a lei quis proibir.
 
@@ -588,21 +604,21 @@ b) Não dando resultado a consulta anterior, serão consultadas as farmácias da
 
 #### SECÇÃO IV — Disposições transitórias
 
-###### Art. 91.º - 1. As farmácias que se mantenham ao abrigo dos n.os 2 e 3 da base XII da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), só podem ser transmitidas, quer entre vivos, quer por morte, nos termos do regime geral estabelecido na referida lei e neste diploma.
+Art. 91.º - 1. As farmácias que se mantenham ao abrigo dos n.os 2 e 3 da base XII da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), só podem ser transmitidas, quer entre vivos, quer por morte, nos termos do regime geral estabelecido na referida lei e neste diploma.
 
 2. A idêntico regime fica sujeita a simples transmissão de parte social ou de quota quando as farmácias previstas no n.º 1 pertençam a sociedades comerciais.
 
-###### Art. 92.º A prova de amortização ou transmissão do capital social para os efeitos do n.º 4 da base XII da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), deve ser feita até ao termo do período de caducidade do alvará.
+Art. 92.º A prova de amortização ou transmissão do capital social para os efeitos do n.º 4 da base XII da [Portaria n.º 23985](https://diariodarepublica.pt/dr/detalhe/portaria/23985-1969-525031), deve ser feita até ao termo do período de caducidade do alvará.
 
 ### CAPÍTULO IV — Dos medicamentos especializados e drogas medicamentosas
 
 #### SECÇÃO I — Da preparação e importação
 
-###### Art. 93.º - 1. A preparação e a importação de medicamentos especializados e de drogas medicamentosas ficam dependentes da autorização da direcção ou repartição provincial dos serviços de saúde e assistência, ouvidas as inspecções do exercício farmacêutico, e carecem de licença que se considera válida até que a direcção ou repartição dos serviços de saúde e assistência delibere o contrário, caso venha a reconhecer que o uso do produto autorizado traz inconveniente para a saúde pública.
+Art. 93.º - 1. A preparação e a importação de medicamentos especializados e de drogas medicamentosas ficam dependentes da autorização da direcção ou repartição provincial dos serviços de saúde e assistência, ouvidas as inspecções do exercício farmacêutico, e carecem de licença que se considera válida até que a direcção ou repartição dos serviços de saúde e assistência delibere o contrário, caso venha a reconhecer que o uso do produto autorizado traz inconveniente para a saúde pública.
 
 2.º Se se tratar de medicamentos para uso da medicina veterinária ou de produtos fitofarmacêuticos, será exigido o parecer das direcções dos serviços de veterinária e indústria animal ou de agricultura e florestas, conforme os casos.
 
-###### Art. 94.º - 1. A importação de drogas medicinais e de medicamentos especializados só poderá ser feita:
+Art. 94.º - 1. A importação de drogas medicinais e de medicamentos especializados só poderá ser feita:
 
 a) Por farmácias;
 
@@ -640,7 +656,7 @@ j) Tenha parecer técnico favorável da inspecção provincial dos serviços de 
 
 6. As farmácias que sejam representantes de especialidades farmacêuticas e drogas medicamentosas terão de obedecer às imposições da alínea b) do n.º 2 deste artigo.
 
-###### Art. 95.º - 1. Para os medicamentos especializados ou especialidades farmacêuticas estrangeiras ou de marca estrangeira que se pretendam introduzir pela primeira vez no mercado, a autorização a que se refere o artigo 93.º deste Regulamento só será dada depois de ouvido o parecer do conselho de saúde e higiene e de assistência.
+Art. 95.º - 1. Para os medicamentos especializados ou especialidades farmacêuticas estrangeiras ou de marca estrangeira que se pretendam introduzir pela primeira vez no mercado, a autorização a que se refere o artigo 93.º deste Regulamento só será dada depois de ouvido o parecer do conselho de saúde e higiene e de assistência.
 
 2. Para efeitos deste artigo, o interessado entregará na direcção ou repartição provincial dos serviços de saúde e assistência um requerimento em que se indique o nome do medicamento, a sua forma farmacêutica e a sua composição no que respeita a princípios activos, o nome do laboratório preparador e a nacionalidade.
 
@@ -662,21 +678,21 @@ e) Indicação dos métodos analíticos para se avaliar da sua pureza, actividad
 
 6. A verificação a que se refere a alínea d) do n.º 3 deste artigo continuará a efectuar-se pelo menos duas vezes em cada ano sobre uma unidade dos lotes importados, devendo os seus boletins ser remetidos à inspecção provincial do exercício farmacêutico.
 
-###### Art. 96.º - 1. As especialidades farmacêuticas que se pretendam introduzir nas províncias ultramarinas, que constam de uma lista mencionando as autorizações de lançamento no mercado metropolitano e que será remetida oficiosa e periòdicamente pela Direcção-Geral de Saúde, do Ministério da Saúde e Assistência, à Direcção-Geral de Saúde e Assistência, do Ministério do Ultramar, não carecem das formalidades exigidas na direcção ou repartição provincial dos serviços de saúde e assistência das respectivas províncias pelo artigo 93.º, com excepção do seu registo, que será obrigatório.
+Art. 96.º - 1. As especialidades farmacêuticas que se pretendam introduzir nas províncias ultramarinas, que constam de uma lista mencionando as autorizações de lançamento no mercado metropolitano e que será remetida oficiosa e periòdicamente pela Direcção-Geral de Saúde, do Ministério da Saúde e Assistência, à Direcção-Geral de Saúde e Assistência, do Ministério do Ultramar, não carecem das formalidades exigidas na direcção ou repartição provincial dos serviços de saúde e assistência das respectivas províncias pelo artigo 93.º, com excepção do seu registo, que será obrigatório.
 
 2. Também serão enviadas listas contendo os indeferimentos de autorização para qualquer medicamento, quando fundamentados em razões ligadas à saúde pública e não em motivos de limitação de similares.
 
 3. A limitação de similares será regulada, em cada província, por diploma atendendo aos condicionalismos locais.
 
-###### Art. 97.º - 1. As especialidades farmacêuticas só poderão ser postas à venda desde que nelas se indique a sua composição, o nome do farmacêutico preparador ou responsável, o nome do laboratório, número do seu licenciamento e a sua localidade.
+Art. 97.º - 1. As especialidades farmacêuticas só poderão ser postas à venda desde que nelas se indique a sua composição, o nome do farmacêutico preparador ou responsável, o nome do laboratório, número do seu licenciamento e a sua localidade.
 
 2. No caso de especialidades estrangeiras, nos rótulos ou invólucros é permitido o uso da língua de origem, contanto que a portuguesa ocupe o lugar principal.
 
-###### Art. 98.º - 1. Na inspecção do exercício farmacêutico serão registados os novos medicamentos especializados cuja venda na província tenha sido autorizada.
+Art. 98.º - 1. Na inspecção do exercício farmacêutico serão registados os novos medicamentos especializados cuja venda na província tenha sido autorizada.
 
 2. Por cada registo de novo medicamento especializado estrangeiro ou por um já existente, desde que se apresente com forma farmacêutica diferente, os interessados pagarão a quantia de 200$00, que constitui receita do Estado.
 
-###### Art. 99.º - 1. O levantamento da alfândega de especialidades farmacêuticas e de drogas medicamentosas depende da prévia autorização dos serviços provinciais de saúde e assistência mediante requerimento acompanhado de uma relação em duplicado, com a indicação do número de unidades, designação e qualidade do produto a levantar.
+Art. 99.º - 1. O levantamento da alfândega de especialidades farmacêuticas e de drogas medicamentosas depende da prévia autorização dos serviços provinciais de saúde e assistência mediante requerimento acompanhado de uma relação em duplicado, com a indicação do número de unidades, designação e qualidade do produto a levantar.
 
 2. Para as especialidades farmacêuticas já à venda na província deverá constar do requerimento que foram autorizadas.
 
@@ -684,29 +700,29 @@ e) Indicação dos métodos analíticos para se avaliar da sua pureza, actividad
 
 4. Por cada licença de levantamento é devida uma taxa a fixar pelo Governo da província, que constitui receita do Estado.
 
-###### Art. 100.º - 1. Ficam isentos de cumprimento das disposições anteriores as amostras de medicamentos destinadas a médicos, médicos veterinários, farmacêuticos e representantes de laboratórios.
+Art. 100.º - 1. Ficam isentos de cumprimento das disposições anteriores as amostras de medicamentos destinadas a médicos, médicos veterinários, farmacêuticos e representantes de laboratórios.
 
 2. É expressamente proibida a venda ao público de quaisquer amostras, devendo nestas estar bem legível e aposta a designação de «Amostra gratuita».
 
-###### Art. 101.º - 1. Os estabelecimentos importadores de drogas medicinais e especialidades farmacêuticas referidas na alínea c) do artigo 94.º só podem vender os produtos referidos às farmácias e laboratórios.
+Art. 101.º - 1. Os estabelecimentos importadores de drogas medicinais e especialidades farmacêuticas referidas na alínea c) do artigo 94.º só podem vender os produtos referidos às farmácias e laboratórios.
 
 2. Exceptuam-se desta regra os produtos destinados à agricultura e à indústria.
 
-###### Art. 102.º Não pode o farmacêutico, nas condições da alínea c) do n.º 2 do artigo 94.º, acumular a direcção técnica de qualquer farmácia ou laboratório.
+Art. 102.º Não pode o farmacêutico, nas condições da alínea c) do n.º 2 do artigo 94.º, acumular a direcção técnica de qualquer farmácia ou laboratório.
 
-###### Art. 103.º - 1. Aos serviços provinciais de saúde e assistência, aos serviços de veterinária, às forças armadas e às missões científicas oficiais não são aplicáveis as disposições dos artigos 93.º e 99.º, respeitantes à importação de medicamentos e de drogas medicamentosas, excepto quando se trate de produtos tóxicos ou estupefacientes.
+Art. 103.º - 1. Aos serviços provinciais de saúde e assistência, aos serviços de veterinária, às forças armadas e às missões científicas oficiais não são aplicáveis as disposições dos artigos 93.º e 99.º, respeitantes à importação de medicamentos e de drogas medicamentosas, excepto quando se trate de produtos tóxicos ou estupefacientes.
 
 2. As missões religiosas ficam abrangidas pelo disposto neste artigo, mas o desalfandegamento dos seus medicamentos será requerido nos termos da primeira parte do artigo 99.º do presente diploma.
 
 3. As entidades referidas neste artigo estão isentas do pagamento de qualquer emolumento, assim como da declaração a que se refere o artigo 150.º do presente diploma, não podendo, todavia, os medicamentos importados nestas condições ser objecto de comércio.
 
-###### Art. 104.º - 1. As farmácias e laboratórios de produtos farmacêuticos estão isentos de licença para importação de drogas e especialidades a que se refere o artigo 93.º deste diploma, assim como do pagamento dos emolumentos citados no n.º 4 do artigo 99.º
+Art. 104.º - 1. As farmácias e laboratórios de produtos farmacêuticos estão isentos de licença para importação de drogas e especialidades a que se refere o artigo 93.º deste diploma, assim como do pagamento dos emolumentos citados no n.º 4 do artigo 99.º
 
 2. O farmacêutico poderá limitar-se a inscrever no registo, no fim de cada mês, as quantidades globais dos estupefacientes que entraram no aviamento das receitas inscritas no livro de registos de que trata o artigo 117.º
 
 #### SECÇÃO II — Do anúncio ou propaganda
 
-###### Art. 105.º - 1. Os medicamentos e as substâncias medicamentosas, quer sejam especialidades farmacêuticas, quer não, que devam ser vendidos apenas mediante receita médica, só podem ser anunciados em publicações da especialidade, médicas ou farmacêuticas, ficando, no entanto, proibido, mesmo neste caso, o anúncio de substâncias empregadas como abortivas, seja a que título e de que maneira for, dependendo aquela publicação de visto da direcção ou repartição provincial dos serviços de saúde e assistência, ouvida a inspecção do exercício farmacêutico, em conformidade com os seguintes preceitos:
+Art. 105.º - 1. Os medicamentos e as substâncias medicamentosas, quer sejam especialidades farmacêuticas, quer não, que devam ser vendidos apenas mediante receita médica, só podem ser anunciados em publicações da especialidade, médicas ou farmacêuticas, ficando, no entanto, proibido, mesmo neste caso, o anúncio de substâncias empregadas como abortivas, seja a que título e de que maneira for, dependendo aquela publicação de visto da direcção ou repartição provincial dos serviços de saúde e assistência, ouvida a inspecção do exercício farmacêutico, em conformidade com os seguintes preceitos:
 
 a) É proibido nos anúncios e nas outras formas de propaganda de medicamentos a indicação de locais de venda onde ela não possa ser legalmente efectuada, e para os armazéns de vendas de medicamentos e laboratórios só poderá permitir-se a indicação de venda quando claramente se diga «Venda por grosso»;
 
@@ -726,11 +742,11 @@ h) O disposto neste artigo aplica-se igualmente ao anúncio de águas mineromedi
 
 ### CAPÍTULO V — Das substâncias tóxicas e estupefacientes
 
-###### Art. 106.º - 1. Para os efeitos da aplicação das disposições especiais deste capítulo, consideram-se substâncias tóxicas e estupefacientes as substâncias e produtos como tais definidos na lei e os que venham a ser considerados estupefacientes por despacho do director ou chefe provincial dos serviços de saúde e assistência, baseado nas recomendações dos organismos internacionais competentes, mediante acordo com o Governo.
+Art. 106.º - 1. Para os efeitos da aplicação das disposições especiais deste capítulo, consideram-se substâncias tóxicas e estupefacientes as substâncias e produtos como tais definidos na lei e os que venham a ser considerados estupefacientes por despacho do director ou chefe provincial dos serviços de saúde e assistência, baseado nas recomendações dos organismos internacionais competentes, mediante acordo com o Governo.
 
 2. Os governos provinciais, ouvida a Direcção-Geral de Saúde Assistência, poderão fazer aditamentos à lista dos estupefacientes já existente à data da publicação deste diploma.
 
-###### Art. 107.º - 1. Os estupefacientes só podem ser importados ou exportados mediante prévia autorização especial, dada pelo governador da província para cada caso:
+Art. 107.º - 1. Os estupefacientes só podem ser importados ou exportados mediante prévia autorização especial, dada pelo governador da província para cada caso:
 
 a) Por farmácias legalmente estabelecidas;
 
@@ -742,7 +758,7 @@ d) Pelos depositários representantes de firmas manipuladoras de tóxicos ou est
 
 2. As autorizações para importação são requeridas ao governador, por intermédio da direcção ou repartição provincial dos serviços de saúde e assistência.
 
-###### Art. 108.º - 1. No pedido de autorização a que se refere o artigo anterior será mencionada a origem, quantidades e espécies, o nome industrial ou comercial desses estupefacientes e a casa fiscal da província por onde se pretende fazer o despacho.
+Art. 108.º - 1. No pedido de autorização a que se refere o artigo anterior será mencionada a origem, quantidades e espécies, o nome industrial ou comercial desses estupefacientes e a casa fiscal da província por onde se pretende fazer o despacho.
 
 2. Sempre que as drogas não sejam alcalóides puros e se trate de medicamentos compostos ou especialidades farmacêuticas que contenham estupefacientes, deverá indicar-se a percentagem dos alcalóides componentes.
 
@@ -750,13 +766,13 @@ d) Pelos depositários representantes de firmas manipuladoras de tóxicos ou est
 
 4. Após a publicação do despacho concedendo autorização de importação, o director ou chefe da repartição provincial dos serviços de saúde e assistência passará o respectivo certificado, que será assinado pelo director ou chefe dos serviços provinciais de saúde e assistência.
 
-###### Art. 109.º Os certificados de importação serão remetidos pelos interessados às firmas ou laboratórios fornecedores para que, juntamente com a autorização de exportação passada pela autoridade competente do país exportador, acompanhem os produtos a que dizem respeito.
+Art. 109.º Os certificados de importação serão remetidos pelos interessados às firmas ou laboratórios fornecedores para que, juntamente com a autorização de exportação passada pela autoridade competente do país exportador, acompanhem os produtos a que dizem respeito.
 
-###### Art. 110.º Os volumes ou encomendas contendo estupefacientes devem trazer exteriormente, bem visíveis, a palavra «Estupefaciente» e a indicação «importação autorizada pelo certificado n.º ...».
+Art. 110.º Os volumes ou encomendas contendo estupefacientes devem trazer exteriormente, bem visíveis, a palavra «Estupefaciente» e a indicação «importação autorizada pelo certificado n.º ...».
 
-###### Art. 111.º A entrada ou saída da província, por qualquer via, de estupefacientes cuja importação tenha sido prèviamente autorizada só pode realizar-se mediante licença especial, passada pela direcção ou repartição provincial dos serviços de saúde e assistência para efeitos da qual os importadores ou exportadores ficam obrigados a declarar, naqueles serviços, a chegada ou saída dos mesmos estupefacientes da província e a via pela qual entraram ou saíram.
+Art. 111.º A entrada ou saída da província, por qualquer via, de estupefacientes cuja importação tenha sido prèviamente autorizada só pode realizar-se mediante licença especial, passada pela direcção ou repartição provincial dos serviços de saúde e assistência para efeitos da qual os importadores ou exportadores ficam obrigados a declarar, naqueles serviços, a chegada ou saída dos mesmos estupefacientes da província e a via pela qual entraram ou saíram.
 
-###### Art. 112.º - 1. As farmácias e laboratórios de produtos farmacêuticos ou de indústria farmacêutica onde se manipulem estupefacientes podem exportar esses produtos mediante autorização do governo da província, que solicitarão em requerimento onde conste:
+Art. 112.º - 1. As farmácias e laboratórios de produtos farmacêuticos ou de indústria farmacêutica onde se manipulem estupefacientes podem exportar esses produtos mediante autorização do governo da província, que solicitarão em requerimento onde conste:
 
 a) Nome da firma exportadora;
 
@@ -774,13 +790,13 @@ e) Declaração comprovativa de que está autorizada pelo país destinatário, c
 
 4. No livro especial das transacções dar-se-á saída às substâncias exportadas e far-se-á menção do certificado entregue ao exportador.
 
-###### Art. 113.º É proibido conservar, vender, entregar ou pôr em circulação qualquer das substâncias tóxicas e estupefacientes a não ser dentro de invólucros ou recipientes, com rótulos ou etiquetas fixados que não possam desprender-se, nos quais se indiquem por forma bem visível e bem clara os nomes tais como figuram nessas listas.
+Art. 113.º É proibido conservar, vender, entregar ou pôr em circulação qualquer das substâncias tóxicas e estupefacientes a não ser dentro de invólucros ou recipientes, com rótulos ou etiquetas fixados que não possam desprender-se, nos quais se indiquem por forma bem visível e bem clara os nomes tais como figuram nessas listas.
 
-###### Art. 114.º Os estupefacientes deverão ser guardados em armários fechados à chave, ficando esta em mão do farmacêutico director técnico ou ajudante de farmácia, se a este forem delegadas as atribuições referidas no n.º 4 do artigo 36.º deste diploma.
+Art. 114.º Os estupefacientes deverão ser guardados em armários fechados à chave, ficando esta em mão do farmacêutico director técnico ou ajudante de farmácia, se a este forem delegadas as atribuições referidas no n.º 4 do artigo 36.º deste diploma.
 
-###### Art. 115.º Só a repartição ou secção farmacêutica dos serviços provinciais de saúde e assistência, os laboratórios da indústria farmacêutica e as farmácias legalmente estabelecidas na província podem exercer o comércio de estupefacientes.
+Art. 115.º Só a repartição ou secção farmacêutica dos serviços provinciais de saúde e assistência, os laboratórios da indústria farmacêutica e as farmácias legalmente estabelecidas na província podem exercer o comércio de estupefacientes.
 
-###### Art. 116.º - 1. A venda ao público de qualquer quantidade ou espécie de estupefacientes só poderá ser feita mediante receita assinada por médico que tenha a sua carta devidamente registada, e deverá indicar, claramente, o nome e residência do médico que expedir e subscrever e o nome e residência do doente a quem os estupefacientes se destinam.
+Art. 116.º - 1. A venda ao público de qualquer quantidade ou espécie de estupefacientes só poderá ser feita mediante receita assinada por médico que tenha a sua carta devidamente registada, e deverá indicar, claramente, o nome e residência do médico que expedir e subscrever e o nome e residência do doente a quem os estupefacientes se destinam.
 
 2. Excepcionalmente podem os directores técnicos dos laboratórios ou das farmácias e a repartição ou secção farmacêutica dos serviços provinciais de saúde e assistência fornecer estupefacientes a outras farmácias mediante requisição assinada pelo director técnico da farmácia requisitante.
 
@@ -790,11 +806,11 @@ e) Declaração comprovativa de que está autorizada pelo país destinatário, c
 
 5. O farmacêutico director técnico registará sempre as quantidades de medicamentos fornecidos por este meio, para efeito de fiscalização.
 
-###### Art. 117.º As receitas de que façam parte tóxicos e estupefacientes devem ser registadas pelo farmacêutico em livros especiais, nos quais não são permitidos espaços em branco nem emendas, rasuras ou entrelinhas, com a data do aviamento, o nome e a quantidade das substâncias aviadas, o nome e a residência do médico que as subscreveu, bem como a morada do doente a quem foram destinadas.
+Art. 117.º As receitas de que façam parte tóxicos e estupefacientes devem ser registadas pelo farmacêutico em livros especiais, nos quais não são permitidos espaços em branco nem emendas, rasuras ou entrelinhas, com a data do aviamento, o nome e a quantidade das substâncias aviadas, o nome e a residência do médico que as subscreveu, bem como a morada do doente a quem foram destinadas.
 
-###### Art. 118.º As receitas em que entrem substâncias tóxicas ou estupefacientes deverão conservar-se em poder do farmacêutico durante três anos, sendo arquivadas convenientemente para efeito de fiscalização pela autoridade competente.
+Art. 118.º As receitas em que entrem substâncias tóxicas ou estupefacientes deverão conservar-se em poder do farmacêutico durante três anos, sendo arquivadas convenientemente para efeito de fiscalização pela autoridade competente.
 
-###### Art. 119.º - 1. O fabrico, transformação, extracção, importação e exportação, compra e venda de estupefacientes e, em geral, todas as operações comerciais e industriais que tenham como objectivo estas substâncias são rigorosamente proibidos, salva autorização especial do Governo da província, ouvida a direcção ou repartição provincial dos serviços de saúde e assistência.
+Art. 119.º - 1. O fabrico, transformação, extracção, importação e exportação, compra e venda de estupefacientes e, em geral, todas as operações comerciais e industriais que tenham como objectivo estas substâncias são rigorosamente proibidos, salva autorização especial do Governo da província, ouvida a direcção ou repartição provincial dos serviços de saúde e assistência.
 
 2. A autorização, que é intransmissível, deve especificar a natureza e a quantidade de estupefacientes que o industrial deseja fabricar ou vender.
 
@@ -804,39 +820,39 @@ e) Declaração comprovativa de que está autorizada pelo país destinatário, c
 
 5. Ninguém, fora dos casos mencionados, pode adquirir os tóxicos e estupefacientes sem ser nos precisos termos do artigo 116.º deste diploma.
 
-###### Art. 120.º - 1. Na direcção ou repartição provincial dos serviços de saúde e assistência, inspecção do exercício farmacêutico, haverá um registo especial das farmácias e laboratórios que pretendem produzir, importar e exportar estupefacientes.
+Art. 120.º - 1. Na direcção ou repartição provincial dos serviços de saúde e assistência, inspecção do exercício farmacêutico, haverá um registo especial das farmácias e laboratórios que pretendem produzir, importar e exportar estupefacientes.
 
 2. Para esse fim, os interessados deverão requerer, até 31 de Março de cada ano, ao governador da província, a respectiva autorização, apresentando a relação das quantidades de cada um dos estupefacientes que pretendam importar durante o ano seguinte.
 
 3. Estas quantidades são confrontadas com a existência e com o movimento do ano anterior, podendo o seu fornecimento ser autorizado, no todo ou em parte, ou mesmo recusado.
 
-###### Art. 121.º Os estupefacientes não podem entrar na venda ou consumo senão para usos legítimos médicos, farmacêuticos ou científicos.
+Art. 121.º Os estupefacientes não podem entrar na venda ou consumo senão para usos legítimos médicos, farmacêuticos ou científicos.
 
-###### Art. 122.º - 1. Aos médicos e médicos veterinários será lícito requisitar das farmácias estupefacientes para uso exclusivo dos seus consultórios, justificando a respectiva aplicação.
+Art. 122.º - 1. Aos médicos e médicos veterinários será lícito requisitar das farmácias estupefacientes para uso exclusivo dos seus consultórios, justificando a respectiva aplicação.
 
 2. Estas requisições serão registadas do mesmo modo e nos mesmos livros que as receitas de estupefacientes.
 
-###### Art. 123.º Todos os detentores de estupefacientes são obrigados a enviar à inspecção do exercício farmacêutico da área a que pertencem, até 31 de Janeiro de cada ano, um mapa demonstrativo do movimento dos estupefacientes durante o ano anterior, indicando claramente a existência em 31 de Dezembro do mesmo ano.
+Art. 123.º Todos os detentores de estupefacientes são obrigados a enviar à inspecção do exercício farmacêutico da área a que pertencem, até 31 de Janeiro de cada ano, um mapa demonstrativo do movimento dos estupefacientes durante o ano anterior, indicando claramente a existência em 31 de Dezembro do mesmo ano.
 
-###### Art. 124.º - 1. Todos os detentores de estupefacientes possuirão um livro de registo especial para estas drogas, onde serão registadas toda a compra e cessão.
+Art. 124.º - 1. Todos os detentores de estupefacientes possuirão um livro de registo especial para estas drogas, onde serão registadas toda a compra e cessão.
 
 2. Cada inscrição tem número de ordem e deve indicar o nome, profissão, endereço do comprador ou do vendedor.
 
 3. Não são permitidos no registo espaços em branco rasuras ou entrelinhas.
 
-###### Art. 125.º Os farmacêuticos e industriais que transformem os estupefacientes em produtos farmacêuticos, veterinários, agrícolas ou industriais devem indicar, no livro de registo especial, exigido no artigo anterior, a qualidade e quantidade dos produtos empregados e a quantidade e qualidade das substâncias obtidas.
+Art. 125.º Os farmacêuticos e industriais que transformem os estupefacientes em produtos farmacêuticos, veterinários, agrícolas ou industriais devem indicar, no livro de registo especial, exigido no artigo anterior, a qualidade e quantidade dos produtos empregados e a quantidade e qualidade das substâncias obtidas.
 
-###### Art. 126.º Não podem os médicos receitar nem os farmacêuticos aviar prescrições em que entrem estupefacientes para uso por mais de sete dias, feito o cálculo pela média normal da aplicação.
+Art. 126.º Não podem os médicos receitar nem os farmacêuticos aviar prescrições em que entrem estupefacientes para uso por mais de sete dias, feito o cálculo pela média normal da aplicação.
 
-###### Art. 127.º Na província de Macau mantém-se o regime em vigor relativo a tóxicos e a estupefacientes.
+Art. 127.º Na província de Macau mantém-se o regime em vigor relativo a tóxicos e a estupefacientes.
 
 ### CAPÍTULO VI — Da fiscalização do exercício farmacêutico
 
-###### Art. 128.º - 1. Nas províncias de governo geral a inspecção do exercício farmacêutico será exercida por farmacêuticos inspectores, sob a superintendência dos farmacêuticos directores, chefes de repartições farmacêuticas das direcções provinciais de saúde e assistência.
+Art. 128.º - 1. Nas províncias de governo geral a inspecção do exercício farmacêutico será exercida por farmacêuticos inspectores, sob a superintendência dos farmacêuticos directores, chefes de repartições farmacêuticas das direcções provinciais de saúde e assistência.
 
 2. Nas províncias de governo simples a inspecção do exercício farmacêutico será exercida pelos farmacêuticos chefes da secção farmacêutica sob a superintendência dos chefes das repartições provinciais de saúde e assistência.
 
-###### Art. 129.º São atribuições da inspecção do exercício farmacêutico:
+Art. 129.º São atribuições da inspecção do exercício farmacêutico:
 
 a) Inspeccionar o serviço farmacêutico do Estado e dos organismos com aquele serviço relacionados, o serviço farmacêutico participar e, mais designadamente, as farmácias, os depósitos de medicamentos e drogas, as agências, os postos de medicamentos e todos os demais estabelecimentos que se dediquem ao comércio ou fabrico de substâncias medicamentosas;
 
@@ -850,7 +866,7 @@ e) Desempenhar as demais incumbências que sejam determinadas pelo farmacêutico
 
 f) Relatar anualmente e até 31 de Março de cada ano tudo o que diga respeito à inspecção do exercício farmacêutico relativamente ao ano anterior.
 
-###### Art. 130.º Os farmacêuticos no desempenho das suas funções de inspectores são considerados agentes de autoridade, podendo levantar autos de notícias das infracções que se verificarem e proceder às demais diligências que careçam, tomando e exarando nelas as declarações dos infractores e de terceiros, podendo colher amostras, proceder a buscas, apreensões e imposições de selos e constituir depositários, de harmonia com o disposto neste diploma e na demais legislação em vigor, e têm a faculdade de:
+Art. 130.º Os farmacêuticos no desempenho das suas funções de inspectores são considerados agentes de autoridade, podendo levantar autos de notícias das infracções que se verificarem e proceder às demais diligências que careçam, tomando e exarando nelas as declarações dos infractores e de terceiros, podendo colher amostras, proceder a buscas, apreensões e imposições de selos e constituir depositários, de harmonia com o disposto neste diploma e na demais legislação em vigor, e têm a faculdade de:
 
 a) Requisitar o auxilio de autoridade ou força pública para a execução dos serviços a seu cargo;
 
@@ -858,37 +874,37 @@ b) Livre entrada em todos os locais onde se negocie com produtos farmacêuticos 
 
 c) Corresponderem-se oficialmente em assuntos de serviço através das direcções ou repartições provinciais de saúde e assistência com as autoridades da sua área de jurisdição.
 
-###### Art. 131.º As autoridades sanitárias, administrativas, alfandegárias, policiais e outras, de quem a plena execução deste diploma possa depender, prestarão todo o auxílio e as informações que, a fim de dar integral cumprimento às disposições legais aqui contidas, lhes forem solicitadas pelos farmacêuticos inspectores.
+Art. 131.º As autoridades sanitárias, administrativas, alfandegárias, policiais e outras, de quem a plena execução deste diploma possa depender, prestarão todo o auxílio e as informações que, a fim de dar integral cumprimento às disposições legais aqui contidas, lhes forem solicitadas pelos farmacêuticos inspectores.
 
-###### Art. 132.º - 1. A fiscalização do cumprimento das disposições deste diploma relativas a estupefacientes incumbem, além das autoridades mencionadas no artigo 128.º, às autoridades policiais e agentes dos quadros técnicos das alfândegas.
+Art. 132.º - 1. A fiscalização do cumprimento das disposições deste diploma relativas a estupefacientes incumbem, além das autoridades mencionadas no artigo 128.º, às autoridades policiais e agentes dos quadros técnicos das alfândegas.
 
 2. Os autos levantados pelas autoridades a que se refere este artigo servirão de base ao corpo de delito para a organização do respectivo processo em juízo, ao qual serão os mesmos remetidos pelos respectivos serviços, sendo a infracção comunicada à direcção provincial dos serviços de saúde e assistência, que a anotará nos relatórios a enviar aos organismos internacionais de conformidade com os respectivos acordos.
 
-###### Art. 133.º A direcção provincial dos serviços de saúde e assistência fornecerá aos farmacêuticos inspectores cartões de identidade devidamente autenticados com o selo branco.
+Art. 133.º A direcção provincial dos serviços de saúde e assistência fornecerá aos farmacêuticos inspectores cartões de identidade devidamente autenticados com o selo branco.
 
 ### CAPÍTULO VII — Das penalidades
 
-###### Art. 134.º - 1. Todo aquele que vender medicamentos sem estar autorizado ou se encontre fora das condições estabelecidas no artigo 101.º deste diploma, será punido com quinze dias de prisão correccional e com multa de 5000$00.
+Art. 134.º - 1. Todo aquele que vender medicamentos sem estar autorizado ou se encontre fora das condições estabelecidas no artigo 101.º deste diploma, será punido com quinze dias de prisão correccional e com multa de 5000$00.
 
 2. A multa a que se refere o número anterior, bem como as prescritas nos artigos deste capítulo, constituem receita do Estado.
 
-###### Art. 135.º A falta de observância às disposições dos artigos 7.º, 35.º e 43.º, e seus números, será punida com a multa de 1000$00, além do imediato encerramento da farmácia.
+Art. 135.º A falta de observância às disposições dos artigos 7.º, 35.º e 43.º, e seus números, será punida com a multa de 1000$00, além do imediato encerramento da farmácia.
 
-###### Art. 136.º O farmacêutico que não exerça a sua profissão com a devida assiduidade e permanência na farmácia ou laboratório de produtos farmacêuticos e da indústria farmacêutica de que for directo técnico, será punido com a multa de 2000$00 e, no caso de reincidência, a multa será de 4000$00 e importará ainda a proibição, por um ano, de exercer a direcção técnica de qualquer farmácia ou laboratório de produtos farmacêuticos e da indústria farmacêutica.
+Art. 136.º O farmacêutico que não exerça a sua profissão com a devida assiduidade e permanência na farmácia ou laboratório de produtos farmacêuticos e da indústria farmacêutica de que for directo técnico, será punido com a multa de 2000$00 e, no caso de reincidência, a multa será de 4000$00 e importará ainda a proibição, por um ano, de exercer a direcção técnica de qualquer farmácia ou laboratório de produtos farmacêuticos e da indústria farmacêutica.
 
-###### Art. 137.º A farmácia que incorra na falta de cumprimento das disposições do artigo 83.º será multada na pessoa do seu director técnico, na quantia de 1000$00 pela primeira vez e, em caso de reincidência, no dobro da multa aplicada anteriormente.
+Art. 137.º A farmácia que incorra na falta de cumprimento das disposições do artigo 83.º será multada na pessoa do seu director técnico, na quantia de 1000$00 pela primeira vez e, em caso de reincidência, no dobro da multa aplicada anteriormente.
 
-###### Art. 138.º O director técnico de farmácia que tenha ao seu serviço ajudante cuja situação não esteja devidamente legalizada, nos termos do presente diploma, será punido com a multa de 500$00.
+Art. 138.º O director técnico de farmácia que tenha ao seu serviço ajudante cuja situação não esteja devidamente legalizada, nos termos do presente diploma, será punido com a multa de 500$00.
 
-###### Art. 139.º - 1. A inobservância do Regimento de Preços de Medicamentos, Drogas e Manipulações, assim como dos preços fixados para as especialidades farmacêuticas, será punida com a multa de 500$00.
+Art. 139.º - 1. A inobservância do Regimento de Preços de Medicamentos, Drogas e Manipulações, assim como dos preços fixados para as especialidades farmacêuticas, será punida com a multa de 500$00.
 
 2. A primeira reincidência, com 1000$00, a segunda, com 2000$00, e a terceira, com 4000$00.
 
 3. No caso, porém, de posterior reincidência, será aplicada o máximo da multa com o encerramento da farmácia por período de tempo arbitrado pelo director ou chefe da repartição provincial dos serviços de saúde e assistência, ouvido o conselho de saúde e higiene e de assistência.
 
-###### Art. 140.º As penalidades previstas neste diploma para os farmacêuticos são aplicadas aos ajudantes de farmácia que, legalmente habilitados e autorizados, exerçam as atribuições referidas no n.º 4 do artigo 36.º do presente diploma.
+Art. 140.º As penalidades previstas neste diploma para os farmacêuticos são aplicadas aos ajudantes de farmácia que, legalmente habilitados e autorizados, exerçam as atribuições referidas no n.º 4 do artigo 36.º do presente diploma.
 
-###### Art. 141.º - 1. Além do processo de transgressão fiscal, as penalidades a aplicar aos contraventores das disposições expressas no capítulo V deste diploma, com respeito a estupefacientes, são as que constam dos números seguintes.
+Art. 141.º - 1. Além do processo de transgressão fiscal, as penalidades a aplicar aos contraventores das disposições expressas no capítulo V deste diploma, com respeito a estupefacientes, são as que constam dos números seguintes.
 
 2. Aquele que, sem estar autorizado a negociar com drogas medicinais, importe ou exporte, detenha, prepare, compre, venda, ofereça, pretenda comprar ou forneça de qualquer modo, mesmo gratuitamente, estupefacientes será punido com prisão correccional de seis meses a um ano e multa de 3000$00 a 5000$00.
 
@@ -904,41 +920,41 @@ c) Corresponderem-se oficialmente em assuntos de serviço através das direcçõ
 
 8. A falta de cumprimento do disposto no artigo 126.º será punida com a multa de 2000$00, e no caso de reincidência a multa será de 3000$00 e encerramento do estabelecimento por um ano.
 
-###### Art. 142.º O indivíduo ou entidade que se recusar a prestar esclarecimentos ou impedir ou tentar impedir que outrem os preste ou por qualquer modo entrave ou pretenda desorientar o exercício da fiscalização dos inspectores do exercício farmacêutico incorre na sanção cominada no artigo 188.º do Código Penal, sem prejuízo de procedimento disciplinar que haja de ter lugar, no caso de ser funcionário público ou dos corpos administrativos.
+Art. 142.º O indivíduo ou entidade que se recusar a prestar esclarecimentos ou impedir ou tentar impedir que outrem os preste ou por qualquer modo entrave ou pretenda desorientar o exercício da fiscalização dos inspectores do exercício farmacêutico incorre na sanção cominada no artigo 188.º do Código Penal, sem prejuízo de procedimento disciplinar que haja de ter lugar, no caso de ser funcionário público ou dos corpos administrativos.
 
-###### Art. 143.º As transgressões às disposições deste regulamento, para as quais não haja sanções especialmente mencionadas em outros artigos, serão punidas com a multa de 500$00 a 20000$00.
+Art. 143.º As transgressões às disposições deste regulamento, para as quais não haja sanções especialmente mencionadas em outros artigos, serão punidas com a multa de 500$00 a 20000$00.
 
-###### Art. 144.º Se os infractores a quem foram aplicadas as penalidades indicadas no artigo 141.º forem estrangeiros, essa aplicação importa a sua expulsão do território nacional.
+Art. 144.º Se os infractores a quem foram aplicadas as penalidades indicadas no artigo 141.º forem estrangeiros, essa aplicação importa a sua expulsão do território nacional.
 
 ### CAPÍTULO VIII — Disposições gerais
 
-###### Art. 145.º Aos organismos do Estado onde se transaccionem medicamentos por estatuto próprio, não se aplicam as disposições do presente diploma, salvo quando expressamente mencionadas.
+Art. 145.º Aos organismos do Estado onde se transaccionem medicamentos por estatuto próprio, não se aplicam as disposições do presente diploma, salvo quando expressamente mencionadas.
 
-###### Art. 146.º - 1. As farmácias do Estado só aviarão receituário para o público quando não existam farmácias particulares na mesma localidade ou nos casos em que as farmácias particulares declarem por escrito, autenticado com carimbo, que não possuem os medicamentos prescritos pelo médico.
+Art. 146.º - 1. As farmácias do Estado só aviarão receituário para o público quando não existam farmácias particulares na mesma localidade ou nos casos em que as farmácias particulares declarem por escrito, autenticado com carimbo, que não possuem os medicamentos prescritos pelo médico.
 
 2. Neste caso, as farmácias do Estado fornecerão os medicamentos, soros, vacinas antipalúdicas e tripanocidas pelo preço que for fixado por diploma ou portaria provincial.
 
-###### Art. 147.º Para efeitos legais considera-se agente de determinado produto medicamentoso a entidade que, como depositária, consignatária ou intermediária, tenha, na respectiva província, o exclusivo de importação e distribuição desse produto, ficando, portanto, sujeita a todas as imposições que este diploma estabelece às entidades mencionadas na alínea c) do artigo 94.º, n.º 1.
+Art. 147.º Para efeitos legais considera-se agente de determinado produto medicamentoso a entidade que, como depositária, consignatária ou intermediária, tenha, na respectiva província, o exclusivo de importação e distribuição desse produto, ficando, portanto, sujeita a todas as imposições que este diploma estabelece às entidades mencionadas na alínea c) do artigo 94.º, n.º 1.
 
-###### Art. 148.º - 1. É proibido o fornecimento de medicamentos ou de substâncias medicamentosas, por meio de concursos, a outras entidades que não sejam hospitais ou organismos ou estabelecimentos oficiais ou instituições de assistência particular, neste último caso mediante autorização do governador da província.
+Art. 148.º - 1. É proibido o fornecimento de medicamentos ou de substâncias medicamentosas, por meio de concursos, a outras entidades que não sejam hospitais ou organismos ou estabelecimentos oficiais ou instituições de assistência particular, neste último caso mediante autorização do governador da província.
 
 2. São igualmente proibidos os contratos ou acordos para o fornecimento de medicamentos a empresas ou outras entidades sem prévia autorização dos serviços competentes.
 
-###### Art. 149.º Nos postos, os preços de venda dos medicamentos são os observados pelas farmácias de que dependem.
+Art. 149.º Nos postos, os preços de venda dos medicamentos são os observados pelas farmácias de que dependem.
 
-###### Art. 150.º - 1. Nenhuma especialidade farmacêutica nacional ou nacionalizada poderá ser desalfandegada sem que o preço de venda ao público na origem seja confirmado em declaração passada pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
+Art. 150.º - 1. Nenhuma especialidade farmacêutica nacional ou nacionalizada poderá ser desalfandegada sem que o preço de venda ao público na origem seja confirmado em declaração passada pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
 
 2. Cada declaração poderá ser referente a uma única ou a uma lista de especialidades farmacêuticas e será válida para todas as remessas destas, só perdendo a validade no caso de haver qualquer modificação na composição ou no preço das mesmas.
 
-###### Art. 151.º Os medicamentos nacionais ou nacionalizados que não sejam especialidades e as substâncias medicamentosas só poderão ser desalfandegadas desde que as facturas de compra na origem sejam visadas e os respectivos preços verificados pela Comissão Reguladora de Produtos Químicos e Farmacêuticos.
+Art. 151.º Os medicamentos nacionais ou nacionalizados que não sejam especialidades e as substâncias medicamentosas só poderão ser desalfandegadas desde que as facturas de compra na origem sejam visadas e os respectivos preços verificados pela Comissão Reguladora de Produtos Químicos e Farmacêuticos.
 
-###### Art. 152.º Os medicamentos que são considerados especialidades farmacêuticas não poderão ser desalfandegados sem que o preço de factura de compra na origem seja confirmada pelas direcções ou pelas repartições provinciais de saúde e assistência.
+Art. 152.º Os medicamentos que são considerados especialidades farmacêuticas não poderão ser desalfandegados sem que o preço de factura de compra na origem seja confirmada pelas direcções ou pelas repartições provinciais de saúde e assistência.
 
-###### Art. 153.º A direcção ou repartição provincial dos serviços de saúde e assistência cancelará oficiosamente os averbamentos de direcções técnicas dos farmacêuticos que, por efeito de sanções, tenham sido inibidos do exercício da sua profissão.
+Art. 153.º A direcção ou repartição provincial dos serviços de saúde e assistência cancelará oficiosamente os averbamentos de direcções técnicas dos farmacêuticos que, por efeito de sanções, tenham sido inibidos do exercício da sua profissão.
 
 ### CAPÍTULO IX — Disposições especiais
 
-###### Art. 154.º - 1. Na província de Macau, e tendo em conta as suas condições especiais, para efeitos de comércio de medicamentos e produtos medicinais, poderá haver as seguintes espécies de estabelecimentos:
+Art. 154.º - 1. Na província de Macau, e tendo em conta as suas condições especiais, para efeitos de comércio de medicamentos e produtos medicinais, poderá haver as seguintes espécies de estabelecimentos:
 
 a) Farmácias;
 
@@ -966,19 +982,19 @@ f) Firmas importadoras para venda por grosso.
 
 8. São firmas importadoras para venda por grosso as firmas que importem medicamentos e produtos medicinais, com o fim de abastecer os Serviços de Saúde e Assistência, hospitais, farmácias particulares e postos de medicamentos.
 
-###### Art. 155.º - 1. Todo aquele que pretenda instalar farmácia, posto de medicamentos, laboratórios ou qualquer estabelecimento que se destine ao comércio por grosso de medicamentos ou substâncias medicamentosas carece de autorização do governador da província, mediante parecer da repartição provincial dos serviços de saúde e informação da inspecção dos serviços farmacêuticos.
+Art. 155.º - 1. Todo aquele que pretenda instalar farmácia, posto de medicamentos, laboratórios ou qualquer estabelecimento que se destine ao comércio por grosso de medicamentos ou substâncias medicamentosas carece de autorização do governador da província, mediante parecer da repartição provincial dos serviços de saúde e informação da inspecção dos serviços farmacêuticos.
 
 2. Para obter a licença referida no número anterior deverá o interessado formular o respectivo pedido em requerimento acompanhado de memória descritiva da instalação.
 
-###### Art. 156.º - 1. As farmácias e postos de medicamentos referidos neste diploma podem ser também importadores de medicamentos e produtos medicinais para venda ao público, fornecimento aos organismos do Estado, hospitais e a outras farmácias e postos de medicamentos.
+Art. 156.º - 1. As farmácias e postos de medicamentos referidos neste diploma podem ser também importadores de medicamentos e produtos medicinais para venda ao público, fornecimento aos organismos do Estado, hospitais e a outras farmácias e postos de medicamentos.
 
 2. Para os efeitos do disposto no número anterior, tanto as farmácias como os postos de medicamentos deverão estar inscritos nos serviços de saúde e assistência.
 
-###### Art. 157.º Aos concursos de medicamentos para fornecimentos dos serviços de saúde e assistência ou outros serviços do Estado só serão admitidas as farmácias, os importadores e os postos de medicamentos.
+Art. 157.º Aos concursos de medicamentos para fornecimentos dos serviços de saúde e assistência ou outros serviços do Estado só serão admitidas as farmácias, os importadores e os postos de medicamentos.
 
-###### Art. 158.º A preparação e importação de medicamentos especializados e de drogas medicinais ficam dependentes de autorização da repartição provincial dos serviços de saúde e assistência, ouvida a inspecção do exercício farmacêutico, e carecem de licença, que se considera válida até que a repartição provincial dos serviços de saúde e assistência delibere o contrário, caso venha a reconhecer que o uso do produto autorizado traz inconveniente para a saúde pública.
+Art. 158.º A preparação e importação de medicamentos especializados e de drogas medicinais ficam dependentes de autorização da repartição provincial dos serviços de saúde e assistência, ouvida a inspecção do exercício farmacêutico, e carecem de licença, que se considera válida até que a repartição provincial dos serviços de saúde e assistência delibere o contrário, caso venha a reconhecer que o uso do produto autorizado traz inconveniente para a saúde pública.
 
-###### Art. 159.º A importação de drogas medicinais e de medicamentos especializados só poderá ser feita:
+Art. 159.º A importação de drogas medicinais e de medicamentos especializados só poderá ser feita:
 
 a) Por farmácias;
 
@@ -988,7 +1004,7 @@ c) Por laboratórios, quando se trate sòmente de drogas medicinais destinadas �
 
 d) Por firmas que se dediquem exclusivamente ao negócio por grosso de medicamentos e que para tal fim estejam inscritas na inspecção farmacêutica dos serviços de saúde e assistência.
 
-###### Art. 160.º - 1. As firmas que se dediquem à importação e venda por grosso de medicamentos e substâncias medicamentosas terão de obedecer às seguintes condições:
+Art. 160.º - 1. As firmas que se dediquem à importação e venda por grosso de medicamentos e substâncias medicamentosas terão de obedecer às seguintes condições:
 
 a) Praticarem exclusivamente este ramo de negócio;
 
@@ -998,21 +1014,21 @@ c) Possuírem instalação frigorífica, com capacidade suficiente, se houver me
 
 2. Sempre que o julgue conveniente, poderá a repartição dos serviços de saúde e assistência pedir o parecer da inspecção de incêndios da província sobre as condições de segurança das instalações de qualquer firma que negocie ou pretenda negociar em medicamentos.
 
-###### Art. 161.º A inscrição de importadores far-se-á mediante requerimento instruído segundo o preceituado no artigo 55.º acompanhado de documento comprovativo do registo da firma no serviço competente.
+Art. 161.º A inscrição de importadores far-se-á mediante requerimento instruído segundo o preceituado no artigo 55.º acompanhado de documento comprovativo do registo da firma no serviço competente.
 
-###### Art. 162.º Na inspecção do exercício farmacêutico haverá um livro de registo para cada uma das entidades referidas no artigo 155.º
+Art. 162.º Na inspecção do exercício farmacêutico haverá um livro de registo para cada uma das entidades referidas no artigo 155.º
 
-###### Art. 163.º Sempre que o julgue necessário, poderá o governador da província, sob proposta do chefe da repartição provincial dos serviços de saúde e assistência, pedir à Direcção-Geral de Saúde, do Ministério da Saúde e Assistência, por intermédio da Direcção-Geral de Saúde e Assistência, quaisquer análises ou pareceres sobre medicamentos.
+Art. 163.º Sempre que o julgue necessário, poderá o governador da província, sob proposta do chefe da repartição provincial dos serviços de saúde e assistência, pedir à Direcção-Geral de Saúde, do Ministério da Saúde e Assistência, por intermédio da Direcção-Geral de Saúde e Assistência, quaisquer análises ou pareceres sobre medicamentos.
 
-###### Art. 164.º A importação de medicamentos efectuada por hospitais, missões científicas ou missões religiosas poderá ser autorizada, por cada remessa, mediante requerimento, pelo chefe da repartição provincial dos serviços de saúde e assistência, ouvida a inspecção do exercício farmacêutico.
+Art. 164.º A importação de medicamentos efectuada por hospitais, missões científicas ou missões religiosas poderá ser autorizada, por cada remessa, mediante requerimento, pelo chefe da repartição provincial dos serviços de saúde e assistência, ouvida a inspecção do exercício farmacêutico.
 
-###### Art. 165.º As dúvidas que se suscitem na aplicação do presente diploma e os casos omissos serão resolvidos por despacho dos governadores das províncias ultramarinas, ouvido o conselho de saúde, higiene e de assistência.
+Art. 165.º As dúvidas que se suscitem na aplicação do presente diploma e os casos omissos serão resolvidos por despacho dos governadores das províncias ultramarinas, ouvido o conselho de saúde, higiene e de assistência.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Abril de 1970.**
+Promulgado em 22 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

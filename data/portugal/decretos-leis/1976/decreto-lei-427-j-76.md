@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 128/1976, 5º Suplemento, Série I de 1976-06-01
   number: '128'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 1232-(13) a 1232-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/12805/00130020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-j-1976-310611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd8ae97231c828a203c6fd31cc05bd061b7d194298fb600eb22ae1199c140015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16ec631c44f5104fa21e3d3376c732be02aec57d3dd2b872d815c686ca2d4ead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- Transporte de Mercadorias
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138165:por
+  label: "Alterados os arts 5º, 9º, 10º, 11º, 14º, 15º e 16º do anexo I ao presente diploma, pelo DEC LEI.30/77.1977.01.20.MTC,\
+    \ DR.IS [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1977-138165
+  date: '1977-01-20'
+- type: amended_by
+  target: pt:dre:313844:por
+  label: "Transformada em Sociedade Anónima a Empresa Pública Rodoviária Nacional criada pelo Dec Lei 288-C/75 de 12 de Junho,\
+    \ e cujos Estatutos constam do presente diploma, pelo DEC LEI.12/90.06.01.1990.MOPTC, DR.IS [5] de 06.01.1990\090\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1990-313844
+  date: '1990-01-06'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:314955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559061:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:59Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +140,25 @@ Neste entendimento, e atento o disposto nas disposições combinadas do artigo 4
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A empresa pública denominada Rodoviária Nacional, criada pelo [Decreto-Lei n.º 288-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-c-1975-318698), de 12 de Junho, é uma pessoa colectiva de direito público e passa a denominar-se Rodoviária Nacional, E. P., e a reger-se pelos Estatutos anexos ao presente decreto-lei (anexo I).
+Artigo 1.º A empresa pública denominada Rodoviária Nacional, criada pelo [Decreto-Lei n.º 288-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-c-1975-318698), de 12 de Junho, é uma pessoa colectiva de direito público e passa a denominar-se Rodoviária Nacional, E. P., e a reger-se pelos Estatutos anexos ao presente decreto-lei (anexo I).
 
-###### Art. 2.º - 1. Nos termos das disposições combinadas do n.º 2 do artigo 1.º e do artigo 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, é transferida para a titularidade directa da Rodoviária Nacional, E. P., a universalidade dos bens, direitos e obrigações das empresas nacionalizadas por força dos Decretos-Leis n.os [280-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-b-1975-559061), de 5 de Junho, [280-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-c-1975-559037), da mesma data, e [469/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-1975-314955), de 28 de Agosto, constantes do anexo II a este diploma.
+Art. 2.º - 1. Nos termos das disposições combinadas do n.º 2 do artigo 1.º e do artigo 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, é transferida para a titularidade directa da Rodoviária Nacional, E. P., a universalidade dos bens, direitos e obrigações das empresas nacionalizadas por força dos Decretos-Leis n.os [280-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-b-1975-559061), de 5 de Junho, [280-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-c-1975-559037), da mesma data, e [469/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-1975-314955), de 28 de Agosto, constantes do anexo II a este diploma.
 
 2. A eficácia da extinção resultante da incorporação a que se refere o número anterior opera-se, para todos os efeitos, designadamente tributários, no dia 1 de Junho de 1976, data em que se iniciará o exercício da Rodoviária Nacional, E. P., cessando igualmente nessa data as funções das respectivas comissões administrativas e da Comissão Coordenadora e Instaladora da Rodoviária Nacional.
 
-###### Art. 3.º - 1. Transitam para a RN, independentemente de quaisquer formalidades, os trabalhadores que hajam transitado para as empresas nacionalizadas ou tenham sido admitidos nelas e que, à data da entrada em vigor deste diploma, devem considerar-se ao serviço das mesmas empresas.
+Art. 3.º - 1. Transitam para a RN, independentemente de quaisquer formalidades, os trabalhadores que hajam transitado para as empresas nacionalizadas ou tenham sido admitidos nelas e que, à data da entrada em vigor deste diploma, devem considerar-se ao serviço das mesmas empresas.
 
 2. Os trabalhadores de que trata este artigo transitam para a RN com os direitos e obrigações emergentes da respectiva situação nos quadros de origem.
 
 3. Os direitos mencionados no número precedente não prejudicam a faculdade de, nos termos estatutários, o conselho de gerência proceder à conversão de quadros de origem em quadros únicos e promover a unificação do regime do pessoal.
 
-###### Art. 4.º O capital estatutário da Rodoviária Nacional, E. P., será fixado nos termos a definir por diploma legal a aprovar em Conselho de Ministros.
+Art. 4.º O capital estatutário da Rodoviária Nacional, E. P., será fixado nos termos a definir por diploma legal a aprovar em Conselho de Ministros.
 
-###### Art. 5.º - 1. Os averbamentos e registos nos livretes e nas conservatórias dos registos automóvel, predial e comercial dos bens do activo da Rodoviária Nacional, E. P., e quaisquer actos necessários à regularização da fusão e incorporação das empresas nacionalizadas são feitos pelas repartições competentes do Estado, com base em simples comunicação, subscrita por dois membros do conselho de gerência da Rodoviária Nacional, E. P., e são isentos de quaisquer taxas e emolumentos.
+Art. 5.º - 1. Os averbamentos e registos nos livretes e nas conservatórias dos registos automóvel, predial e comercial dos bens do activo da Rodoviária Nacional, E. P., e quaisquer actos necessários à regularização da fusão e incorporação das empresas nacionalizadas são feitos pelas repartições competentes do Estado, com base em simples comunicação, subscrita por dois membros do conselho de gerência da Rodoviária Nacional, E. P., e são isentos de quaisquer taxas e emolumentos.
 
 2. São mantidas a favor da Rodoviária Nacional, E. P., independentemente de qualquer formalidade, as licenças e concessões de que são titulares as referidas empresas nacionalizadas na data mencionada no artigo 3.º deste diploma.
 
-###### Art. 6.º - 1. As nomeações a que se referem as alíneas a), b) e c) do artigo 6.º dos Estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sesenta dias, a contar da publicação do presente diploma, e até oito dias do termo dos mandatos respectivos, para o exercício nos mandatos subsequentes.
+Art. 6.º - 1. As nomeações a que se referem as alíneas a), b) e c) do artigo 6.º dos Estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sesenta dias, a contar da publicação do presente diploma, e até oito dias do termo dos mandatos respectivos, para o exercício nos mandatos subsequentes.
 
 2. A reunião para a designação dos representante das autarquias regionais terá lugar dentro do referido prazo e será convocada pelo Ministro dos Transportes e Comunicações por carta registada, dirigida ao presidente do respectivo órgão autárquico, a quem compete designar os representantes, vigorando, entretanto, o sistema estabelecido nos números seguintes.
 
@@ -124,23 +166,23 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. O mandato dos membros do conselho designados pelos governadores civis cessa logo que tenham lugar as eleições nas autarquias locais, devendo os presidentes eleitos ser convocados para procederem a nova eleição, completando os eleitos o mandato em curso.
 
-###### Art. 7.º O presente diploma entra em vigor na data da sua publicação.
+Art. 7.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - José Augusto Fernandes - José Meneses Pimentel.
 
-**Promulgado em 1 de Junho de 1976.**
+Promulgado em 1 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## Anexo I ao Decreto-Lei n.º 427-J/76
+Anexo I ao Decreto-Lei n.º 427-J/76
 
 ESTATUTOS DA RODOVIÁRIA NACIONAL, E. P.
 
 ### CAPÍTULO I — Denominação, sede e objecto
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. A Rodoviária Nacional, E. P., adiante designada por RN, é uma empresa pública, goza de personalidade jurídica e é dotada de autonomia administrativa, financeira e patrimonial.
 
@@ -148,17 +190,17 @@ ESTATUTOS DA RODOVIÁRIA NACIONAL, E. P.
 
 3. Por deliberação do conselho de gerência pode criar ou estabelecer qualquer espécie de representação em outras localidades do País ou no estrangeiro.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. O objecto da RN é a exploração dos transporte públicos rodoviários de mercadorias e passageiros.
 
 2. A RN poderá exercer actividades acessórias relacionadas com o objecto principal.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Para efeitos do artigo anterior, consideram-se actividades acessórias o exercício dos direitos de participação social, até que seja pelo Governo determinada outra afectação.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Nos termos do artigo 2.º, constituem, nomeadamente, objecto da RN:
 
@@ -176,7 +218,7 @@ e) Celebrar com outras empresas os acordos que se revelem vantajosos para melhor
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 1. São órgãos da RN:
 
@@ -194,7 +236,7 @@ c) A comissão de fiscalização.
 
 #### SECÇÃO II — Conselho geral
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 1. O conselho geral será nomeado por despacho do Ministro dos Transportes e Comunicações e será constituído por:
 
@@ -238,7 +280,7 @@ c) Os referidos na alínea d) do n.º 1, pelos presidentes das autarquias locais
 
 5. Às reuniões do conselho geral devem assistir os membros do conselho de gerência e da comissão de fiscalização, sem direito de voto.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 1. Compete ao conselho geral:
 
@@ -260,7 +302,7 @@ f) Dar parecer sobre as propostas de fixação tarifária a submeter ao Governo 
 
 4. Sempre que o conselho geral não se pronuncie sobre os documentos que lhe forem apresentados, nos termos e para os efeitos previstos nas alíneas a) a c) do n.º 1, no prazo de trinta dias, ou o seu presidente não haja, no mesmo prazo, suprido a falta em conformidade com o previsto no final do n.º 3, considera-se que deu voto favorável.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 1. O conselho geral reunirá, ordinariamente, uma vez em cada semestre, nos meses de Março e Outubro, e, extraordinariamente, sempre que for convocado pelo presidente, com antecedência de oito dias, por meio de aviso postal, quer por sua iniciativa, quer a requerimento conjunto da maioria dos seus membros, quer do conselho de gerência ou da comissão de fiscalização.
 
@@ -272,7 +314,7 @@ f) Dar parecer sobre as propostas de fixação tarifária a submeter ao Governo 
 
 #### SECÇÃO III — Conselho de gerência
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. O conselho de gerência é composto pelo presidente e dois vogais, nomeados por períodos de três anos, renováveis pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos os trabalhadores da empresa.
 
@@ -284,7 +326,7 @@ f) Dar parecer sobre as propostas de fixação tarifária a submeter ao Governo 
 
 5. Os membros do conselho de gerência exercerão as suas funções em regime de tempo completo, sendo as mesmas incompatíveis com o desempenho de quaisquer actividades em outras empresas, salvo representação da RN em sociedades em que aquela participe.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 1. Compete ao conselho de gerência o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património.
 
@@ -316,7 +358,7 @@ l) Designar e exonerar os directores da estrutura primária da orgânica da empr
 
 3. O conselho de gerência pode delegar toda ou parte das competências fixadas no número anterior no conselho de direcção, salvo as referidas nas alíneas c), d), f), i), j) e l).
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 1. Compete ao presidente do conselho de gerência:
 
@@ -332,7 +374,7 @@ e) Exercer os poderes que o conselho de gerência nele tiver delegado.
 
 2. Os vogais desempenharão as funções que especificamente lhes forem cometidas pelo conselho.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. O conselho de gerência reunir-se-á ordinariamente pelo menos de quinze em quinze dias, e extraordinariamente, sempre que o presidente o convoque ou um dos seus vogais o requeira.
 
@@ -340,7 +382,7 @@ e) Exercer os poderes que o conselho de gerência nele tiver delegado.
 
 3. As actas serão lavradas em livro próprio e assinadas pelos membros do conselho presentes à reunião.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 A empresa obriga-se:
 
@@ -352,7 +394,7 @@ c) Pela assinatura de directores, no âmbito dos poderes que lhes tenham sido de
 
 #### SECÇÃO IV — Conselho de direcção
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1. O conselho de direcção é composto pelo presidente do conselho de gerência e pelos directores funcionais e operacionais que exercem a gestão da estrutura primária da empresa.
 
@@ -360,7 +402,7 @@ c) Pela assinatura de directores, no âmbito dos poderes que lhes tenham sido de
 
 3. Os referidos directores são nomeados, suspensos e exonerados pelo conselho de gerência, sob proposta do seu presidente.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1. Compete ao conselho de direcção, além dos poderes de administração nele delegados pelo conselho de gerência, tomar as medidas adequadas ao bom funcionamento da empresa dentro das diversas áreas cometidas aos directores, coordenando-as entre si, de modo a assegurar-se uma adequada economia e elevada qualidade e eficiência dos serviços públicos de transportes a cargo da empresa.
 
@@ -382,13 +424,13 @@ g) Propor, sobre o exercício, modificação ou cessação de actividades acess�
 
 3. O conselho de direcção poderá delegar, sob proposta do presidente, quaisquer das suas atribuições em um ou mais dos seus vogais ou em comissão por eles constituída, podendo os mesmos delegar, num ou noutro caso, nos directores ou outros chefes de serviço os poderes que julgarem convenientes.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 O conselho de direcção reúne-se ordinariamente pelo menos uma vez por mês, e extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a pedido da maioria dos seus membros.
 
 #### SECÇÃO V — Comissão de fiscalização
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1. A comissão de fiscalização é composta por três membros, nomeados por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações pelo período de três anos, renovável.
 
@@ -396,7 +438,7 @@ O conselho de direcção reúne-se ordinariamente pelo menos uma vez por mês, e
 
 3. Um dos membros será obrigatoriamente um revisor oficial de contas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 1. A comissão elegerá entre si o respectivo presidente, a quem competirá convocar as reuniões.
 
@@ -404,11 +446,11 @@ O conselho de direcção reúne-se ordinariamente pelo menos uma vez por mês, e
 
 3. Aplica-se à comissão de fiscalização o disposto nos n.os 2 e 3 do artigo 12.º
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Aos membros da comissão de fiscalização é atribuída uma gratificação mensal, a fixar por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 1. Compete à comissão de fiscalização:
 
@@ -438,7 +480,7 @@ j) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja sub
 
 ### CAPÍTULO III — Do Ministro da Tutela e da intervenção do Governo
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1. Depende da aprovação do Ministro dos Transportes e Comunicações:
 
@@ -466,7 +508,7 @@ h) O estatuto do pessoal, em particular no que respeita à fixação de remunera
 
 ### CAPÍTULO IV — Dos conselhos consultivos regionais
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1. O conselho geral poderá propor ao Ministro da Tutela a criação de órgãos consultivos, que prestarão apoio aos directores de centros de exploração de especial significado regional, no quadro da actividade da empresa, e que serão denominados conselhos consultivos regionais.
 
@@ -480,13 +522,13 @@ c) Por representantes de associações de consumidores ou moradores legalmente c
 
 2. O conselho geral fixará a composição de cada conselho regional, de modo a assegurar uma participação equilibrada dos referidos interesses.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Compete ao conselho regional emitir parecer sobre os horários, modo e custo da prestação dos serviços, para melhor benefício das populações e qualidade do serviço público de transporte.
 
 ### CAPÍTULO V — Da gestão financeira e patrimonial
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 1. Na gestão financeira e patrimonial da RN, os órgãos competentes da empresa aplicarão as regras legais, o disposto nestes estatutos e os princípios da boa gestão empresarial.
 
@@ -494,7 +536,7 @@ Compete ao conselho regional emitir parecer sobre os horários, modo e custo da 
 
 3. Os recursos da RN devem ser aproveitados nos termos que melhor sirvam a minimização dos custos de produção, com vista a atingir o máximo de eficácia na sua contribuição para o desenvolvimento económico-social.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 1. Os preços praticados devem assegurar proveitos que permitam a cobertura dos custos totais de exploração e assegurem níveis adequados de remuneração do capital investido e de autofinanciamento.
 
@@ -504,7 +546,7 @@ Compete ao conselho regional emitir parecer sobre os horários, modo e custo da 
 
 4. Na fixação de preços ou tarifas relativos a serviços internacionais serão também tomadas em consideração as disposições aplicáveis de tratados, convenções e acordos em vigor.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 1. A gestão económica e financeira da RN é disciplinada pelos seguintes instrumentos de gestão previsional:
 
@@ -520,13 +562,13 @@ b) Orçamentos anuais, individualizando, pelo menos, os de exploração e de inv
 
 5. Os orçamentos anuais de exploração e de investimentos deverão possibilitar uma conveniente descentralização das responsabilidades e um adequado contrôle de gestão.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 1. A contabilidade da RN deve responder às necessidades da gestão da empresa e permitir um contrôle orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais e os contabilísticos.
 
 2. A organização e execução da contabilidade e dos orçamentos e suas actualizações deverão processar-se em conformidade com regulamentos a estabelecer de harmonia com os presentes Estatutos.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 1. A amortização, reintegração e reavaliação dos bens do activo imobilizado serão efectuadas nos termos que forem definidos pelo conselho de gerência, com parecer favorável da comissão de fiscalização, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 21.º destes Estatutos.
 
@@ -534,7 +576,7 @@ b) Orçamentos anuais, individualizando, pelo menos, os de exploração e de inv
 
 3. Deverá proceder-se periodicamente à reavaliação do activo imobilizado, em ordem a obter uma mais exacta correspondência entre os valores patrimoniais e contabilísticos.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 1. A RN deverá constituir as provisões, reservas e fundos julgados necessários, sendo obrigatória a constituição de:
 
@@ -554,7 +596,7 @@ c) Fundo para fins sociais.
 
 6. A margem de autofinanciamento bruto da RN não poderá exceder a taxa máxima de autofinanciamento bruto que for definida nos termos da aprovação pelo Governo dos planos plurianuais.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 1. Anualmente serão elaborados, com referência a 31 de Dezembro, os documentos seguintes:
 
@@ -570,37 +612,37 @@ d) Mapa de origem e aplicação de fundos.
 
 ### CAPÍTULO VI — Do regime de exploração
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 A RN fica sujeita às disposições da lei no que se refere ao regime de licenciamento e autorização de transportes de passageiros e mercadorias.
 
 ### CAPÍTULO VII — Do estatuto de pessoal
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 O estatuto de pessoal da RN rege-se pelas normas de direito privado, aplicando-se para o efeito o regime jurídico do contrato individual de trabalho.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 A via utilizada para a fixação das remunerações e outras condições de trabalho será a da contratação colectiva com o sindicato ou sindicatos representativos dos trabalhadores ao serviço da RN.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 A definição dos critérios de fixação de remunerações que servirão de base às negociações com os sindicatos será da competência do conselho de gerência, o qual deverá atender à política de remunerações definida pelo Ministério dos Transportes e Comunicações, sem prejuízo do disposto no n.º 4 do artigo 21.º, às convenções colectivas de trabalho e à capacidade económica da empresa.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 O regime de previdência a adoptar para os trabalhadores da RN será o regime geral das instituições de previdência.
 
 ### CAPÍTULO VIII — Do regime fiscal da empresa
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 A RN fica sujeita à tributação directa e indirecta das empresas rodoviárias de direito privado.
 
 ### CAPÍTULO IX — Das disposições transitórias
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 1. Enquanto a lei não dispuser sobre contrôle da gestão, o conselho de gerência e os representantes dos trabalhadores da empresa no conselho geral terão reuniões conjuntas periodicamente.
 
@@ -610,7 +652,7 @@ A RN fica sujeita à tributação directa e indirecta das empresas rodoviárias 
 
 4. O presente estatuto será adaptado ao regime de contrôle da gestão que vier a ser consagrado por lei nos sessenta dias posteriores ao da publicação do correspondente diploma.
 
-## Anexo II ao Decreto-Lei n.º 427-J/76
+Anexo II ao Decreto-Lei n.º 427-J/76
 
 RELAÇÃO DAS EMPRESAS NACIONALIZADAS EXTINTAS POR INCORPORAÇÃO, COM O SEU ACTIVO E PASSIVO, NA RODOVIÁRIA NACIONAL, E. P.
 
@@ -804,4 +846,4 @@ Bastos & Silva, Lda.;
 
 Movareias, S. A. R. L.
 
-**O Ministro dos Transportes e Comunicações, José Augusto Fernandes.**
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.

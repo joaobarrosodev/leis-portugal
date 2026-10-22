@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09700/08900901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,150 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2347d733347301b92986bc95896029bb8e4a5d2c8e957a7dc83bde597dfa7fd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe5d8662798a2f02588dadc96212bea20cc4116579656f76b047e928cc352449
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Comissão Interministerial de Formação
+- Comissão Interministerial de Gestão de Excedentes de Pessoal
+- Competência Própria
+- Criação de Serviços
+- Definição de Competências
+- Estatuto de Disponibilidade
+- Funcionário Ultramarino
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Quadro Geral de Adidos
+- Secretário de Estado da Administração Pública
+- Serviço Central de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:226990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431392:por
+  label: "Alterado o art. 54º pelo DEC LEI.508/76.02.07.1976.MCOOP, DR.IS [153] de 02.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/508-1976-431392
+  date: '1976-07-02'
+- type: amended_by
+  target: pt:dre:430814:por
+  label: "Alterados os arts. 5º, 17º, nº1 do art. 21º, nº1 do art. 28º e arts. 30º, 31º e 46º pelo DEC LEI.581/76.22.07.1976.MCOOP,\
+    \ DR.IS [170] de 22.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/581-1976-430814
+  date: '1976-07-22'
+- type: amended_by
+  target: pt:dre:286531:por
+  label: "Dada nova redacção ao n.º 2 do artigo 43.º do presente diploma, pelo DEC LEI.356/77.12.08.1977.PCM, DR.IS [201/77]\
+    \ de 31.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1977-286531
+  date: '1977-08-12'
+- type: amended_by
+  target: pt:dre:297797:por
+  label: "Dada nova redacção aos n.ºs 1, 2, 3 e 5 do art. 26.º e revogado o n.º 6 do art. 61.º do presente diploma, pelo DEC\
+    \ LEI.175/78.13.07.1978.MFP, DR.IS [159] de 13.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-1978-297797
+  date: '1978-07-13'
+- type: amended_by
+  target: pt:dre:378676:por
+  label: "Determinada a descongelação das admissões de pessoal para diversas categorias, cujas medidas de congelamento foram\
+    \ aprovadas pelo presente diploma, pelo DN.211/79.25.08.1979.PCM, DR.IS [196] de 25.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/211-1979-378676
+  date: '1979-08-25'
+- type: amended_by
+  target: pt:dre:367856:por
+  label: "Extinto o quadro criado pelo presente diploma pelo DEC LEI.42/84.1984.02.03.PCM DR.IS [29]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1984-367856
+  date: '1984-02-03'
+- type: cites
+  target: pt:dre:159123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324564:por
+  label: "Revogados a al. b) do nº 1 do art. 32º, o art. 37º e demais preceitos do presente diploma que contrariem o disposto\
+    \ no DECLEI.389/78.12.12.1978.PCM, DR.IS [284] de 12.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1978-324564
+  date: '1978-12-12'
+- type: repealed_by
+  target: pt:dre:574675:por
+  label: "Revogados os arts. 53º e 54º, pelo DEC LEI.140/81.1981.05.30.PCM, DR.IS [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1981-574675
+  date: '1981-05-30'
 article_structure:
-  article_count: 66
+  article_count: 62
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:10Z'
   warnings: []
   errors: []
 ---
@@ -814,19 +924,27 @@ b) Pessoal reintegrado.
 
 5 - No orçamento do Ministério das Finanças, capítulo «Pensões e reformas», serão consideradas as importâncias dos subsídios do Tesouro à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado, necessários para a cobertura dos encargos com as pensões de aposentação, invalidez e sobrevivência.
 
-###### Artigo 63.º — (Remuneração aos membros da Comissão Interministerial de Gestão de Excedentes de Pessoal)
+Artigo 63.º
+
+(Remuneração aos membros da Comissão Interministerial de Gestão de Excedentes de Pessoal)
 
 Os membros da Comissão e demais participantes nas suas sessões plenárias ou restritas, e bem assim nos grupos de trabalho a que se refere o n.º 8 do artigo 5.º, terão direito ao abono de senhas de presença, de transporte e ajudas de custo, nos termos legais.
 
-###### Artigo 64.º — (Regulamento da Comissão Interministerial de Gestão de Excedentes de Pessoal)
+Artigo 64.º
+
+(Regulamento da Comissão Interministerial de Gestão de Excedentes de Pessoal)
 
 Até à elaboração de portaria que regule o funcionamento da Comissão Interministerial de Gestão de Excedentes de Pessoal, mantém-se em vigor a [Portaria n.º 124/75](https://diariodarepublica.pt/dr/detalhe/portaria/124-1975-160096), de 27 de Fevereiro, em tudo o que não contrarie o disposto no presente diploma.
 
-###### Artigo 65.º — (Esclarecimento de dúvidas)
+Artigo 65.º
+
+(Esclarecimento de dúvidas)
 
 As dúvidas e casos omissos suscitados na interpretação deste diploma serão esclarecidos por despacho do Ministro da Administração Interna, ouvido o Serviço Central de Pessoal.
 
-###### Artigo 66.º — (Revogação da legislação)
+Artigo 66.º
+
+(Revogação da legislação)
 
 São revogados o artigo 4.º e os n.os 1, 2 e 3 do artigo 5.º e os artigos 8.º a 13.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, o artigo 2.º do [Decreto-Lei n.º 24/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1975-159123), de 23 de Janeiro, e, bem assim, as disposições do [Decreto-Lei n.º 23/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1975-646092), de 22 de Janeiro, e demais legislação que disponha em contrário com o que neste diploma se estabelece.
 
@@ -838,8 +956,8 @@ Este diploma entra em vigor na data da sua publicação, salvo pelo que respeita
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 
-**Promulgado em 10 de Abril de 1976.**
+Promulgado em 10 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

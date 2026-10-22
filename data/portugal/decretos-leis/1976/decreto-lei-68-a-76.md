@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 20/1976, 1º Suplemento, Série I de 1976-01-24
   number: '20'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 156-(1) a 156-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02001/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-1976-402694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e096be6fb99a39af3ada334f133318e02ad74dc297fb56957bf22b8b531eeaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7f8f724b35a802fd615460c59e8a6220d6acae4f6d2038147cba0b4c8ee6552
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- AGA
+- Comércio
+- Preço de Venda
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:235090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235091:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:29Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +113,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os novos preços do açúcar em rama e dos açúcares refinado corrente e granulado constantes dos Decretos-Leis n.os [25-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-b-1976-235091) e [25-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-c-1976-235090), de 15 do corrente mês, entram em vigor no dia 26 de Janeiro de 1976.
+Artigo 1.º - 1. Os novos preços do açúcar em rama e dos açúcares refinado corrente e granulado constantes dos Decretos-Leis n.os [25-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-b-1976-235091) e [25-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-c-1976-235090), de 15 do corrente mês, entram em vigor no dia 26 de Janeiro de 1976.
 
 2. Passam a reportar-se às 24 horas do dia 24 do corrente as declarações de existência de açúcar nas refinarias, fábricas, armazenistas e retalhistas referidas nos citados diplomas, e a 30 do corrente a data limite para a entrega das mesmas declarações à Administração-Geral do Açúcar e do Álcool para efeito de recebimento do diferencial de preço a reembolsar às entidades atrás referidas.
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor.
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 23 de Janeiro de 1976.**
+Promulgado em 23 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

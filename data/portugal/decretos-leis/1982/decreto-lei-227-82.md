@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13400/16721676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ba965094a3e1cf3bac390e01b6b00b0015b1c1962b1a95665d239bc87eb9244
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d8a2c1d673d700ef39f96f1452628d8e7bc4df7fb3cb673673db2c5ae1fdd37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Mineira
+- Indústria Mineira
+- Pedreiras
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:333160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:194869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687261:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333160:por
+  label: Revogado pelo DEC LEI.90/90.16.03.1990.MIE, DR.IS [63] de 16.03.1990, com a entrada em vigor daquele diploma e legislação
+    referida no art. 51º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1990-333160
+  date: '1990-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:32Z'
   warnings: []
   errors: []
 ---
@@ -132,11 +154,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O presente decreto-lei aplica-se à exploração das massas minerais e será regulamentado pelo Governo através de decreto regulamentar.
+Artigo 1.º - 1 - O presente decreto-lei aplica-se à exploração das massas minerais e será regulamentado pelo Governo através de decreto regulamentar.
 
 2 - O presente diploma não é aplicável nas Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 2.º No presente diploma, as expressões seguintes devem interpretar-se com o sentido que, para cada uma, vai indicado:
+Art. 2.º No presente diploma, as expressões seguintes devem interpretar-se com o sentido que, para cada uma, vai indicado:
 
 a) Massas minerais - as rochas e ocorrências minerais não qualificadas legalmente como depósito mineral;
 
@@ -156,11 +178,11 @@ h) Ministro competente - o ministro de que dependa a Direcção-Geral de Geologi
 
 i) Direcção-Geral - a Direcção-Geral de Geologia e Minas.
 
-###### Art. 3.º - 1 - As massas minerais integram-se no domínio privado do proprietário da superfície.
+Art. 3.º - 1 - As massas minerais integram-se no domínio privado do proprietário da superfície.
 
 2 - A exploração destas pode, contudo, ser condicionada ou proibida, e só pode ter lugar depois de obtida a licença de estabelecimento respectiva, estando sempre sujeita a fiscalização, nos termos deste diploma.
 
-###### Art. 4.º - 1 - A licença de estabelecimento só pode ser concedida:
+Art. 4.º - 1 - A licença de estabelecimento só pode ser concedida:
 
 a) Ao proprietário da massa mineral que está na base do estabelecimento;
 
@@ -168,45 +190,45 @@ b) A terceiro, se tiver celebrado «contrato de exploração» com o proprietár
 
 2 - As relações entre o proprietário e o explorador da pedreira reger-se-ão pelo contrato a que se refere a alínea b) do número anterior, segundo regras especiais a fixar e pelos preceitos legais do contrato de locação, com as necessárias adaptações.
 
-###### Art. 5.º - 1 - Com vista a inventariar as massas minerais, poderá a Direcção-Geral proceder aos trabalhos de pesquisa que se mostrem necessários, os quais, todavia, deverão ser efectuados de modo a reduzir tanto quanto possível os prejuízos e os incómodos causados aos proprietários do solo.
+Art. 5.º - 1 - Com vista a inventariar as massas minerais, poderá a Direcção-Geral proceder aos trabalhos de pesquisa que se mostrem necessários, os quais, todavia, deverão ser efectuados de modo a reduzir tanto quanto possível os prejuízos e os incómodos causados aos proprietários do solo.
 
 2 - Os proprietários afectados por trabalhos de pesquisa desenvolvidos pela Direcção-Geral terão direito a indemnização pelos prejuízos sofridos e à reposição do solo no estado tão aproximado quanto possível daquele em que se encontrava quando iniciaram os trabalhos.
 
-###### Art. 6.º Nenhuma exploração poderá ser abandonada sem que o respectivo explorador tenha executado as medidas de segurança e de recuperação paisagística que lhe forem determinadas pela entidade licenciadora, de acordo com as condições em que a licença foi concedida.
+Art. 6.º Nenhuma exploração poderá ser abandonada sem que o respectivo explorador tenha executado as medidas de segurança e de recuperação paisagística que lhe forem determinadas pela entidade licenciadora, de acordo com as condições em que a licença foi concedida.
 
 ### CAPÍTULO II — Das restrições ao direito de propriedade impostas pelo melhor aproveitamento das massas minerais
 
-###### Art. 7.º Quando a exploração de determinadas massas minerais deva considerar-se de grande interesse para a economia do País ou da região, poderão ser cativadas as áreas em que tais massas minerais se localizem e impostas, para aquela exploração, condições especiais através de portaria do ministro competente.
+Art. 7.º Quando a exploração de determinadas massas minerais deva considerar-se de grande interesse para a economia do País ou da região, poderão ser cativadas as áreas em que tais massas minerais se localizem e impostas, para aquela exploração, condições especiais através de portaria do ministro competente.
 
-###### Art. 8.º - 1 - Fica vedada a exploração de pedreiras em zonas de terreno que circundem prédios, obras, instalações, monumentos ou acidentes naturais em termos a regulamentar.
+Art. 8.º - 1 - Fica vedada a exploração de pedreiras em zonas de terreno que circundem prédios, obras, instalações, monumentos ou acidentes naturais em termos a regulamentar.
 
 2 - A construção de obras a que seja inerente, nos termos do número anterior, uma zona de defesa que afecte pedreiras carece de autorização do ministro competente, que só deverá concedê-la quando se comprove que a obra não pode, salvo grave prejuízo, ter localização que não afecte o estabelecimento da pedreira.
 
-###### Art. 9.º - 1 - Quando a exploração de massas minerais possa afectar explorações mineiras ou de águas minerais da vizinhança, o ministro competente decidirá se é ou não viável a sua exploração simultânea.
+Art. 9.º - 1 - Quando a exploração de massas minerais possa afectar explorações mineiras ou de águas minerais da vizinhança, o ministro competente decidirá se é ou não viável a sua exploração simultânea.
 
 2 - No caso de ser viável a exploração simultânea mediante a execução de obras determinadas pela Direcção-Geral, ouvidos os interessados, serão estas executadas a expensas do explorador da pedreira.
 
 3 - No caso de ser inviável a exploração simultânea, o Governo decidirá qual das explorações deverá manter-se, por oferecer maior interesse nacional, havendo lugar a indemnização do prejudicado, a suportar pela outra parte.
 
-###### Art. 10.º - 1 - Quando, na área abrangida por uma licença de prospecção e pesquisa de depósitos minerais, se localize uma pedreira objecto de licença de estabelecimento já concedida ou requerida e se torne necessário efectuar trabalhos dentro da zona reservada ou prevista para a exploração da pedreira, não poderão os mesmos ser iniciados sem prévio acordo escrito entre o explorador da pedreira ou requerente da licença e o titular da licença de prospecção e pesquisa, por forma que as relações entre ambos fiquem perfeitamente reguladas, no sentido da sua justa harmonização.
+Art. 10.º - 1 - Quando, na área abrangida por uma licença de prospecção e pesquisa de depósitos minerais, se localize uma pedreira objecto de licença de estabelecimento já concedida ou requerida e se torne necessário efectuar trabalhos dentro da zona reservada ou prevista para a exploração da pedreira, não poderão os mesmos ser iniciados sem prévio acordo escrito entre o explorador da pedreira ou requerente da licença e o titular da licença de prospecção e pesquisa, por forma que as relações entre ambos fiquem perfeitamente reguladas, no sentido da sua justa harmonização.
 
 2 - Se os trabalhos de prospecção e pesquisa do depósito mineral afectarem a exploração da pedreira, o explorador terá direito a ser indemnizado pelos prejuízos a que derem causa.
 
 3 - Na falta de acordo entre os interessados, os termos por que se hão-de regular as relações entre ambos serão fixados por despacho do ministro competente, sob proposta da Direcção-Geral, sem prejuízo de recurso contencioso, interposto por qualquer das partes, o qual não terá, contudo, efeito suspensivo.
 
-###### Art. 11.º Quando necessário, para a execução de obras públicas poderão ser requisitadas substâncias extraídas em pedreiras, desde que não sejam afectados compromissos comerciais já firmados pelo explorador.
+Art. 11.º Quando necessário, para a execução de obras públicas poderão ser requisitadas substâncias extraídas em pedreiras, desde que não sejam afectados compromissos comerciais já firmados pelo explorador.
 
-###### Art. 12.º - 1 - É permitida a expropriação, por utilidade pública, dos terrenos necessários ao estabelecimento de pedreiras, quando se reconheça que estas, pela natureza e extensão das massas minerais existentes, têm interesse muito relevante para a economia nacional.
+Art. 12.º - 1 - É permitida a expropriação, por utilidade pública, dos terrenos necessários ao estabelecimento de pedreiras, quando se reconheça que estas, pela natureza e extensão das massas minerais existentes, têm interesse muito relevante para a economia nacional.
 
 2 - A expropriação pode ser feita a favor do Estado ou de outra pessoa jurídica, singular ou colectiva, interessada na exploração da pedreira e a quem se reconheça idoneidade bastante.
 
-###### Art. 13.º - 1 - O prédio em que se localize a pedreira e os prédios vizinhos podem ser sujeitos a servidão administrativa, em razão da utilidade pública da pedreira.
+Art. 13.º - 1 - O prédio em que se localize a pedreira e os prédios vizinhos podem ser sujeitos a servidão administrativa, em razão da utilidade pública da pedreira.
 
 2 - A servidão será constituída por acto administrativo, quando se verifique que a utilidade que dela resulta é, em termos de interesse público, superior ao prejuízo causado.
 
 ### CAPÍTULO III — Da concessão e transmissão da licença de estabelecimento
 
-###### Art. 14.º - 1 - A licença de estabelecimento pode ser concedida pela Direcção-Geral ou pela câmara municipal do concelho em que a exploração irá desenvolver-se, conforme o tipo desta.
+Art. 14.º - 1 - A licença de estabelecimento pode ser concedida pela Direcção-Geral ou pela câmara municipal do concelho em que a exploração irá desenvolver-se, conforme o tipo desta.
 
 2 - Para efeitos do número anterior, consideram-se 3 tipos de exploração:
 
@@ -224,23 +246,23 @@ c) Exploração subterrânea.
 
 3 - Serão da competência da câmara municipal os licenciamentos a que se refere a alínea a) do número anterior, cabendo todos os outros casos na competência da Direcção-Geral.
 
-###### Art. 15.º Quando o explorador de uma pedreira que tenha obtido licença de estabelecimento para a exploração, nos termos da alínea a) do n.º 2 do artigo anterior, pretenda exceder nessa exploração os limites estabelecidos ou efectuar exploração subterrânea, deverá requerer nova licença.
+Art. 15.º Quando o explorador de uma pedreira que tenha obtido licença de estabelecimento para a exploração, nos termos da alínea a) do n.º 2 do artigo anterior, pretenda exceder nessa exploração os limites estabelecidos ou efectuar exploração subterrânea, deverá requerer nova licença.
 
-###### Art. 16.º - 1 - No exame e apreciação do pedido de licença deverão ser tidas em conta as condições exigidas para o bom aproveitamento da massa mineral, tais como os trabalhos a realizar, acessos possíveis, reservas necessárias à continuidade da lavra, espaço para depósito dos produtos extraídos e, em geral, tudo o que seja de considerar para avaliar as possibilidades de desenvolvimento eficaz da exploração, nomeadamente a capacidade e idoneidade do requerente.
+Art. 16.º - 1 - No exame e apreciação do pedido de licença deverão ser tidas em conta as condições exigidas para o bom aproveitamento da massa mineral, tais como os trabalhos a realizar, acessos possíveis, reservas necessárias à continuidade da lavra, espaço para depósito dos produtos extraídos e, em geral, tudo o que seja de considerar para avaliar as possibilidades de desenvolvimento eficaz da exploração, nomeadamente a capacidade e idoneidade do requerente.
 
 2 - Quando entenda de interesse, a Direcção-Geral poderá promover estudos especiais com vista à valorização tecnológica da pedreira.
 
-###### Art. 17.º - 1 - A licença pode ser concedida definitiva ou provisoriamente.
+Art. 17.º - 1 - A licença pode ser concedida definitiva ou provisoriamente.
 
 2 - Em caso de licença provisória, a entidade concedente deverá notificar o requerente das exigências que terá de satisfazer para a sua conversão em definitiva e fixar-lhe um prazo, findo o qual, sem que tais exigências tenham sido satisfeitas, a licença se considerará cancelada.
 
 3 - Quando a licença seja concedida definitivamente, poderão sempre ser impostas condições especiais que se justifiquem no caso concreto, nomeadamente, as medidas de recuperação paisagística a executar após a cessação da exploração.
 
-###### Art. 18.º - 1 - A transmissão, inter vivos ou mortis causa, da licença de estabelecimento só poderá operar-se validamente com autorização da entidade licenciadora, exarada em requerimento apresentado pelos interessados.
+Art. 18.º - 1 - A transmissão, inter vivos ou mortis causa, da licença de estabelecimento só poderá operar-se validamente com autorização da entidade licenciadora, exarada em requerimento apresentado pelos interessados.
 
 2 - A transmissão da licença e também a sua perda deverão ser comunicadas pela entidade licenciadora à câmara municipal do concelho ou à Direcção-Geral, conforme os casos.
 
-###### Art. 19.º - 1 - É devido o pagamento de taxas pelos seguintes actos relativos ao estabelecimento e consequente exploração de pedreiras:
+Art. 19.º - 1 - É devido o pagamento de taxas pelos seguintes actos relativos ao estabelecimento e consequente exploração de pedreiras:
 
 a) Pedido de licença de estabelecimento;
 
@@ -254,39 +276,39 @@ e) Pedido de alteração de zona de defesa que afecte a pedreira.
 
 2 - Os valores das taxas, de acordo com o disposto no artigo 1.º, serão fixados por decreto regulamentar, podendo, no entanto, ser actualizados mediante portaria do ministro competente.
 
-###### Art. 20.º A exploração e abandono de pedreiras ficam sujeitos à boa aplicação das técnicas mineiras e a regras de segurança a estabelecer.
+Art. 20.º A exploração e abandono de pedreiras ficam sujeitos à boa aplicação das técnicas mineiras e a regras de segurança a estabelecer.
 
 ### CAPÍTULO IV — Da fiscalização de pedreiras
 
-###### Art. 21.º A exploração das pedreiras está sujeita a fiscalização administrativa, através da Direcção-Geral, autoridades municipais e policiais.
+Art. 21.º A exploração das pedreiras está sujeita a fiscalização administrativa, através da Direcção-Geral, autoridades municipais e policiais.
 
-###### Art. 22.º A exploração de pedreiras está ainda sujeita a fiscalização técnica por parte da Direcção-Geral.
+Art. 22.º A exploração de pedreiras está ainda sujeita a fiscalização técnica por parte da Direcção-Geral.
 
 ### CAPÍTULO V — Das sanções
 
-###### Art. 23.º Quem explorar pedreiras em transgressão às disposições do presente diploma ou do seu regulamento, quer por não possuir a respectiva licença de estabelecimento, quer por não cumprir qualquer outra das suas disposições, incorrerá, conforme os casos, nas seguintes penalidades:
+Art. 23.º Quem explorar pedreiras em transgressão às disposições do presente diploma ou do seu regulamento, quer por não possuir a respectiva licença de estabelecimento, quer por não cumprir qualquer outra das suas disposições, incorrerá, conforme os casos, nas seguintes penalidades:
 
 a) Multa, nos termos dos artigos 24.º e 25.º;
 
 b) Perda de licença de estabelecimento, nos termos dos artigos 26.º e 27.º
 
-###### Art. 24.º Têm competência para aplicar a penalidade a que se refere a alínea a) do artigo anterior:
+Art. 24.º Têm competência para aplicar a penalidade a que se refere a alínea a) do artigo anterior:
 
 a) O presidente da câmara municipal do concelho em que se localize a massa mineral, quando esta esteja a ser explorada sem licença de estabelecimento ou quando se verifiquem transgressões ao disposto no artigo 8.º;
 
 b) O director-geral, em todos os outros casos.
 
-###### Art. 25.º - 1 - As multas a aplicar poderão variar entre 1000$00 e 100000$00 e serão graduadas conforme a gravidade da falta cometida e circunstâncias que a rodearam.
+Art. 25.º - 1 - As multas a aplicar poderão variar entre 1000$00 e 100000$00 e serão graduadas conforme a gravidade da falta cometida e circunstâncias que a rodearam.
 
 2 - Em caso de reincidência, o montante da multa será duplicado.
 
 3 - Os limites fixados no número anterior poderão ser actualizados por portaria do ministro competente.
 
-###### Art. 26.º - 1 - Têm competência para aplicar a penalidade a que se refere a alínea b) do artigo 24.º o presidente da câmara municipal do concelho ou o director-geral, conforme a entidade que o tenha licenciado.
+Art. 26.º - 1 - Têm competência para aplicar a penalidade a que se refere a alínea b) do artigo 24.º o presidente da câmara municipal do concelho ou o director-geral, conforme a entidade que o tenha licenciado.
 
 2 - Da aplicação desta penalidade haverá recurso para a assembleia municipal ou para o ministro competente.
 
-###### Art. 27.º - 1 - A perda de licença de estabelecimento deverá ser imposta nos casos seguintes:
+Art. 27.º - 1 - A perda de licença de estabelecimento deverá ser imposta nos casos seguintes:
 
 a) Quando, em período de 365 dias consecutivos, o explorador transgrida por três vezes disposições relativas a zonas de defesa ou à segurança das pessoas e bens;
 
@@ -296,15 +318,15 @@ b) Quando, sem motivo justificativo, o explorador se recuse a cumprir as determi
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 28.º - 1 - Os exploradores das pedreiras declaradas na Direcção-Geral à data da publicação deste diploma, nas quais não se encontre excedido nenhum dos limites definidos na alínea a) do n.º 2 do artigo 14.º, deverão apresentar na câmara municipal do concelho em que as mesmas pedreiras se localizem, para efeitos de visto e no prazo de 6 meses, o duplicado da declaração que têm em seu poder e documento de que conste o acordo entre o proprietário e o explorador, quando as duas situações se não confundam.
+Art. 28.º - 1 - Os exploradores das pedreiras declaradas na Direcção-Geral à data da publicação deste diploma, nas quais não se encontre excedido nenhum dos limites definidos na alínea a) do n.º 2 do artigo 14.º, deverão apresentar na câmara municipal do concelho em que as mesmas pedreiras se localizem, para efeitos de visto e no prazo de 6 meses, o duplicado da declaração que têm em seu poder e documento de que conste o acordo entre o proprietário e o explorador, quando as duas situações se não confundam.
 
 2 - A referida declaração, com o visto aposto pela câmara municipal, valerá, para o futuro, como licença de estabelecimento.
 
-###### Art. 29.º - 1 - Os exploradores das pedreiras declaradas na Direcção-Geral e que possam considerar-se abrangidas pelas alíneas b) e c) do n.º 2 do artigo 14.º deverão, no prazo de 6 meses, requerer a respectiva licença de estabelecimento, se ainda a não possuirem.
+Art. 29.º - 1 - Os exploradores das pedreiras declaradas na Direcção-Geral e que possam considerar-se abrangidas pelas alíneas b) e c) do n.º 2 do artigo 14.º deverão, no prazo de 6 meses, requerer a respectiva licença de estabelecimento, se ainda a não possuirem.
 
 2 - Na apreciação do pedido referido no número anterior, deverão ser tomados na devida consideração os direitos adquiridos e expectativas criadas, aceitando-se, nomeadamente, o contrato existente entre o proprietário e o explorador, que deverá ser reduzido a escrito.
 
-###### Art. 30.º - 1 - Nos casos referidos nos artigos anteriores, se o proprietário se recusar a assinar documento escrito de que constem as condições acordadas, poderá o mesmo ser substituído por declaração prestada pelo explorador.
+Art. 30.º - 1 - Nos casos referidos nos artigos anteriores, se o proprietário se recusar a assinar documento escrito de que constem as condições acordadas, poderá o mesmo ser substituído por declaração prestada pelo explorador.
 
 2 - A câmara municipal ou a Direcção-Geral deverão notificar o proprietário para que confirme ou negue as condições constantes da declaração prestada.
 
@@ -318,14 +340,14 @@ b) No prazo de 3 meses após a concessão da licença provisória, se, entretant
 
 5 - Se o proprietário intentar a acção referida na alínea b) do número anterior, a licença manter-se-á como provisória até que transite em julgado a sentença que nessa acção seja proferida. Em face de tal sentença, a licença será convertida em definitiva se ela confirmar as declarações do explorador e cancelada no caso contrário.
 
-###### Art. 31.º - 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 31.º - 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - São expressamente revogados o [Decreto n.º 13642](https://diariodarepublica.pt/dr/detalhe/decreto/13642-1927-687261), de 7 de Maio de 1927, a [Lei n.º 1979](https://diariodarepublica.pt/dr/detalhe/lei/1979-1940-194869), de 23 de Março de 1940, e o [Decreto-Lei n.º 392/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1976-426958), de 25 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1982. - Francisco José Pereira Pinto Balsemão - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 25 de Maio de 1982.**
+Promulgado em 25 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

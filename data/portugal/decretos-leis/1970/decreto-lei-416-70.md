@@ -49,40 +49,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1970-148814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0af9105568726cffc328fce65d264505e5c1d8e936b9a90d492ec089107a41a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 706f4cc39c9161710a3ad59b21c8121f19fde1cf6786658f89760d26fcfe1fe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Achado no MAR
+- Mar Territorial
+- Património Cultural
+- Propriedade do Estado
 relationships:
+- type: amended_by
+  target: pt:dre:430471:por
+  label: "ALTERADOS OS ATIGOS 1 E 11 PELO DECRETO LEI 577/76, DE 21 DE JULHO, PUBLICADO NO DR.IS, 169, DE 760721.\060721.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/577-1976-430471
 - type: amended_by
   target: pt:dre:442767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:12Z'
   warnings: []
   errors: []
 ---
@@ -103,21 +115,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os objectos sem dono conhecido achados no mar, no fundo do mar ou por este arrojados, incluindo despojos de naufrágios de navios, de aeronaves ou de qualquer material flutuante e fragmentos de quaisquer deles ou de suas cargas e equipamentos, que do ponto de vista científico (designadamente arqueológico), artístico ou outro tenham interesse para o Estado, constituem sua propriedade.
+Artigo 1.º Os objectos sem dono conhecido achados no mar, no fundo do mar ou por este arrojados, incluindo despojos de naufrágios de navios, de aeronaves ou de qualquer material flutuante e fragmentos de quaisquer deles ou de suas cargas e equipamentos, que do ponto de vista científico (designadamente arqueológico), artístico ou outro tenham interesse para o Estado, constituem sua propriedade.
 
-###### Art. 2.º - 1. Sem prejuízo do disposto no título V, do livro VI, do Regulamento Geral das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, toda a pessoa que achar quaisquer dos objectos referidos no artigo anterior deverá comunicar esse facto à capitania do porto com jurisdição no lugar do achado ou à primeira capitania em cuja área entre após o achado, no prazo de quarenta e oito horas, que, neste último caso, só começará a contar-se da data de entrada nessa área.
+Art. 2.º - 1. Sem prejuízo do disposto no título V, do livro VI, do Regulamento Geral das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, toda a pessoa que achar quaisquer dos objectos referidos no artigo anterior deverá comunicar esse facto à capitania do porto com jurisdição no lugar do achado ou à primeira capitania em cuja área entre após o achado, no prazo de quarenta e oito horas, que, neste último caso, só começará a contar-se da data de entrada nessa área.
 
 2. A comunicação especificará a natureza e características do objecto achado, o local onde foi encontrado, data do seu descobrimento e, sendo caso disso, a autoridade aduaneira a que foi ou irá ser entregue.
 
 3. A falta de comunicação a que se refere o n.º 1 importará a perda do direito a qualquer remuneração na qualidade de achador.
 
-###### Art. 3.º - 1. Compete à capitania do porto que receber a comunicação referida no artigo anterior, se não for notório que se trata de objecto ou objectos sem interesse para o Estado, solicitar parecer, por intermédio da Direcção-Geral dos Serviços de Fomento Marítimo, sobre se o objecto ou objectos mencionados naquela comunicação devem ser considerados de interesse para o Estado.
+Art. 3.º - 1. Compete à capitania do porto que receber a comunicação referida no artigo anterior, se não for notório que se trata de objecto ou objectos sem interesse para o Estado, solicitar parecer, por intermédio da Direcção-Geral dos Serviços de Fomento Marítimo, sobre se o objecto ou objectos mencionados naquela comunicação devem ser considerados de interesse para o Estado.
 
 2. Quando solicite o referido parecer, a capitania do porto deverá notificar imediatamente desse facto a autoridade aduaneira respectiva.
 
 3. Quando não tenha recebido a notificação referida no número anterior, a autoridade aduaneira poderá também solicitar parecer, por intermédio da Direcção-Geral dos Serviços de Fomento Marítimo, sobre se o objecto ou objectos entregues à sua guarda devem ser ou não considerados de interesse para o Estado.
 
-###### Art. 4.º - 1. O interesse para o Estado, do ponto de vista científico (designadamente arqueológico) ou artístico, dos objectos referidos no artigo 1.º, é declarado, por despacho do Ministro da Educação Nacional, sob parecer de uma comissão composta por delegados do Ministério das Finanças, do Ministério da Marinha e do Ministério da Educação Nacional.
+Art. 4.º - 1. O interesse para o Estado, do ponto de vista científico (designadamente arqueológico) ou artístico, dos objectos referidos no artigo 1.º, é declarado, por despacho do Ministro da Educação Nacional, sob parecer de uma comissão composta por delegados do Ministério das Finanças, do Ministério da Marinha e do Ministério da Educação Nacional.
 
 2. A comissão referida no número anterior deverá emitir parecer sobre a que entidade deverá ficar afecto o achado, cujo valor será atribuído pela mesma comissão que, para este efeito, incluirá também o achador ou pessoa por ele designada.
 
@@ -133,9 +145,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 8. O interesse para o Estado, de pontos de vista não considerados no n.º 1, será estabelecido pelo director-geral dos Serviços de Fomento Marítimo, ouvidas as entidades competentes na matéria.
 
-###### Art. 5.º A autoridade aduaneira não dará cumprimento ao disposto no § 7.º do artigo 687.º do Regulamento Geral das Alfândegas quanto a achados de propriedade desconhecida sobre os quais tenha sido solicitado o parecer referido no artigo 3.º, enquanto não receber informação de que o achado não foi considerado de interesse para o Estado.
+Art. 5.º A autoridade aduaneira não dará cumprimento ao disposto no § 7.º do artigo 687.º do Regulamento Geral das Alfândegas quanto a achados de propriedade desconhecida sobre os quais tenha sido solicitado o parecer referido no artigo 3.º, enquanto não receber informação de que o achado não foi considerado de interesse para o Estado.
 
-###### Art. 6.º - 1. Quando o achado for classificado de interesse para o Estado, não será de aplicar o disposto no § 7.º do artigo 687.º do Regulamento Geral das Alfândegas, sendo atribuída ao achador uma percentagem do seu valor, fixada, sob proposta da capitania do porto, pelo Ministro da Marinha, tendo em conta as condições em que se efectuou o achado, entre o mínimo de 1/3 e o máximo de metade do mesmo valor, percentagem que, em casos excepcionais, pode ser elevada no seu limite máximo.
+Art. 6.º - 1. Quando o achado for classificado de interesse para o Estado, não será de aplicar o disposto no § 7.º do artigo 687.º do Regulamento Geral das Alfândegas, sendo atribuída ao achador uma percentagem do seu valor, fixada, sob proposta da capitania do porto, pelo Ministro da Marinha, tendo em conta as condições em que se efectuou o achado, entre o mínimo de 1/3 e o máximo de metade do mesmo valor, percentagem que, em casos excepcionais, pode ser elevada no seu limite máximo.
 
 2. O achado de interesse para o Estado está isento de direitos de importação, emolumentos e demais imposições fiscais e também dos impostos municipais.
 
@@ -143,38 +155,38 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. A liquidação do processo compete às alfândegas, nos termos do Regulamento Geral das Alfândegas.
 
-###### Art. 7.º - 1. A recuperação de objectos do fundo do mar, incluindo achados de despojos de naufrágios de navios, de aeronaves, ou de qualquer material flutuante, e de fragmentos de quaisquer deles ou de suas cargas e equipamentos, carece de licença da competente capitania do porto, ouvida a Direcção da Marinha Mercante, a qual só terá validade depois de visada pela autoridade aduaneira.
+Art. 7.º - 1. A recuperação de objectos do fundo do mar, incluindo achados de despojos de naufrágios de navios, de aeronaves, ou de qualquer material flutuante, e de fragmentos de quaisquer deles ou de suas cargas e equipamentos, carece de licença da competente capitania do porto, ouvida a Direcção da Marinha Mercante, a qual só terá validade depois de visada pela autoridade aduaneira.
 
 2. A licença referida no número anterior é válida de 1 de Janeiro a 31 de Dezembro de cada ano, podendo ser prorrogada por períodos sucessivos de um ano.
 
 3. O concessionário da licença referida no n.º 1 deste artigo, quando visar fins lucrativos, não poderá utilizar mergulhadores amadores.
 
-###### Art. 8.º - 1. Compete ao Ministro da Marinha, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo e a comissão a que se refere o artigo 4.º deste diploma, vedar a particulares ou reservar a concessionário de reconhecida idoneidade, quanto à exploração de objectos referidos no artigo 1.º, qualquer área do fundo do mar em que o Estado Português exerça direitos soberanos.
+Art. 8.º - 1. Compete ao Ministro da Marinha, ouvida a Direcção-Geral dos Serviços de Fomento Marítimo e a comissão a que se refere o artigo 4.º deste diploma, vedar a particulares ou reservar a concessionário de reconhecida idoneidade, quanto à exploração de objectos referidos no artigo 1.º, qualquer área do fundo do mar em que o Estado Português exerça direitos soberanos.
 
 2. Quando haja mais do que um candidato à concessão a que se refere o número anterior, serão fixadas por portaria conjunta dos Ministros da Marinha e da Educação Nacional as condições de preferência.
 
-###### Art. 9.º Os Ministros da Marinha e da Educação Nacional poderão criar, por portaria conjunta, comissões ou grupos de trabalho destinados a proceder ao levantamento arqueológico e ao inventário dos navios naufragados em águas portuguesas.
+Art. 9.º Os Ministros da Marinha e da Educação Nacional poderão criar, por portaria conjunta, comissões ou grupos de trabalho destinados a proceder ao levantamento arqueológico e ao inventário dos navios naufragados em águas portuguesas.
 
-###### Art. 10.º - 1. Os achadores só têm direito a remuneração relativa ao achado, satisfeitas as condições previstas na lei, a partir do momento da entrega daquele à guarda da autoridade aduaneira ou da guarda fiscal.
+Art. 10.º - 1. Os achadores só têm direito a remuneração relativa ao achado, satisfeitas as condições previstas na lei, a partir do momento da entrega daquele à guarda da autoridade aduaneira ou da guarda fiscal.
 
 2. Perde-se, a favor do Estado, a remuneração devida a qualquer achador que não satisfaça às condições previstas na lei.
 
 3. A pessoa que acidentalmente encontrar um objecto em zona para a qual não exista pedido de licença de recuperação de objectos no fundo do mar, deverá, no prazo de quarenta e oito horas, entregá-lo à guarda da autoridade aduaneira ou da Guarda Fiscal e requerer a devida licença, sendo-lhe, então, reconhecidos direitos de achador.
 
-###### Art. 11.º - 1. Aquele que não participe à autoridade marítima ter encontrado qualquer objecto que constitua um perigo iminente para a navegação será punido com multa até 5000$00, sem prejuízo de outras sanções não penais previstas na lei.
+Art. 11.º - 1. Aquele que não participe à autoridade marítima ter encontrado qualquer objecto que constitua um perigo iminente para a navegação será punido com multa até 5000$00, sem prejuízo de outras sanções não penais previstas na lei.
 
 2. Aquele que culposamente guardar ou ocultar, para além de oito dias, contados nos termos do artigo 2.º, achados que lhe não pertençam, ou, da mesma forma, os destruir, mutilar ou deteriorar, será punido com o cancelamento da licença de recuperação de achados, se a tiver, e, quando o facto não integre infracção penal mais grave, com multa até ao máximo de metade do valor do achado, mas nunca inferior a 200$00, e sem prejuízo de outras sanções não penais cominadas na lei.
 
 3. As sanções previstas neste artigo são aplicadas pela autoridade marítima competente.
 
-###### Art. 12.º - 1. Constituem objecto de legislação especial dos achados de ferros, âncoras, amarras, bóias, poitas, gatas e fateixas, bem como todo o material que seja considerado, pela autoridade marítima competente, de natureza militar.
+Art. 12.º - 1. Constituem objecto de legislação especial dos achados de ferros, âncoras, amarras, bóias, poitas, gatas e fateixas, bem como todo o material que seja considerado, pela autoridade marítima competente, de natureza militar.
 
 2. São no entanto aplicáveis aos achados referidos no número anterior as disposições dos artigos 1.º, 2.º, 10.º e 11.º do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo - José Veiga Simão.
 
-**Promulgado em 20 de Agosto de 1970.**
+Promulgado em 20 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 1 de Setembro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

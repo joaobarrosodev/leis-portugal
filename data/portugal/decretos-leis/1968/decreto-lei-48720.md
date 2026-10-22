@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48720-1968-262827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba210ee4d88d48f1a1ba2961cd64ec6dfa76cfd7e910decb19b80abba93d5208
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f879ca5d3a22fd416680241727d0108b71a49f1b8f0ecfec56ce523cbe298571
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Faculdade de Ciências
+- Pessoal Auxiliar
+- Pessoal Técnico
+- Quadro de Pessoal
+- Universidade de Coimbra
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:26Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +97,17 @@ Considerando que a utilização deste edifício e do seu apetrechamento exige o 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal técnico, auxiliar e menor da Faculdade de Ciências da Universidade de Coimbra é acrescido dos seguintes lugares, que ficam adstritos à secção de Matemática:
+Artigo 1.º O quadro do pessoal técnico, auxiliar e menor da Faculdade de Ciências da Universidade de Coimbra é acrescido dos seguintes lugares, que ficam adstritos à secção de Matemática:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/28200/17491750.pdf))](https://files.diariodarepublica.pt/1s/1968/11/28200/17491750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/28200/17491750.pdf)
 
-###### Art. 2.º Mediante decreto assinado pelos Ministros das Finanças e da Educação Nacional, far-se-ão as alterações orçamentais necessárias à satisfação dos encargos resultantes da publicação do presente diploma.
+Art. 2.º Mediante decreto assinado pelos Ministros das Finanças e da Educação Nacional, far-se-ão as alterações orçamentais necessárias à satisfação dos encargos resultantes da publicação do presente diploma.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 18 de Novembro de 1968.**
+Promulgado em 18 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

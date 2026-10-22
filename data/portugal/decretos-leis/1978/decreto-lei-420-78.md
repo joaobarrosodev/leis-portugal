@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29200/27172718.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1978-325156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 995aec6e1c0ec062c1a8741aa59343484d464295aac2d990a90cc2682aea5ce1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4973284549e12bb3997d9e167be26456f8e67a9d63beaed50b19d8693955ef1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Bolseiro
+- Funcionário Público
+- Secretaria de Estado da Cultura
+- Subsídio de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:385431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:385431:por
+  label: "Revogado pelo DEC LEI.220/84.1984.07.04.MC DR.IS [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-1984-385431
+  date: '1984-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:44Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +109,17 @@ Tal é o objectivo do presente diploma, ao estabelecer as bases gerais do regime
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A concessão, pela Secretaria de Estado da Cultura, de bolsas e subsídios de estudo no País e no estrangeiro, a abonar pelo Fundo de Fomento Cultural, será regulamentada por portaria dos Ministros das Finanças e do Plano e da Educação e Cultura.
+Artigo 1.º A concessão, pela Secretaria de Estado da Cultura, de bolsas e subsídios de estudo no País e no estrangeiro, a abonar pelo Fundo de Fomento Cultural, será regulamentada por portaria dos Ministros das Finanças e do Plano e da Educação e Cultura.
 
-###### Art. 2.º O quantitativo diário ou mensal das bolsas ou subsídios de estudo é fixado, com referência a cada país ou grupo de países, na portaria referida no artigo anterior.
+Art. 2.º O quantitativo diário ou mensal das bolsas ou subsídios de estudo é fixado, com referência a cada país ou grupo de países, na portaria referida no artigo anterior.
 
-###### Art. 3.º A concessão de bolsas e subsídios de estudo pela Secretaria de Estado da Cultura a funcionários e agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados que se proponham realizar estudos ou trabalhos de reconhecido interesse carece de autorização do respectivo superior hierárquico e envolve dispensa temporária, total ou parcial, do exercício das respectivas funções, conservando os servidores as regalias inerentes ao efectivo desempenho dos seus cargos, e, designadamente, o abono da respectiva remuneração e a contagem de tempo de serviço para todos os efeitos legais.
+Art. 3.º A concessão de bolsas e subsídios de estudo pela Secretaria de Estado da Cultura a funcionários e agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados que se proponham realizar estudos ou trabalhos de reconhecido interesse carece de autorização do respectivo superior hierárquico e envolve dispensa temporária, total ou parcial, do exercício das respectivas funções, conservando os servidores as regalias inerentes ao efectivo desempenho dos seus cargos, e, designadamente, o abono da respectiva remuneração e a contagem de tempo de serviço para todos os efeitos legais.
 
-###### Art. 4.º - 1 - Os funcionários e agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados podem ser colocados na situação de equiparado a bolseiro por despacho do Secretário de Estado da Cultura, precedido de autorização do superior hierárquico, quando se proponham realizar estudos ou trabalhos de reconhecido interesse cultural.
+Art. 4.º - 1 - Os funcionários e agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados podem ser colocados na situação de equiparado a bolseiro por despacho do Secretário de Estado da Cultura, precedido de autorização do superior hierárquico, quando se proponham realizar estudos ou trabalhos de reconhecido interesse cultural.
 
 2 - A situação do equiparado a bolseiro não confere direito à atribuição de qualquer bolsa ou subsídio, implicando tão-somente a aplicação do regime constante no artigo anterior.
 
-###### Art. 5.º - 1 - A aceitação da bolsa constitui o bolseiro na obrigação de regressar ao País.
+Art. 5.º - 1 - A aceitação da bolsa constitui o bolseiro na obrigação de regressar ao País.
 
 2 - Os bolseiros que não regressem ao País no termo da bolsa ou das respectivas prorrogações para nele continuarem a exercer a sua actividade profissional terão de reembolsar o Fundo de Fomento Cultural dos quantitativos recebidos durante o período em que beneficiarem do título de bolseiro.
 
@@ -113,14 +127,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O bolseiro será vinculado a colaborar com o Estado durante três anos a partir do termo da bolsa de estudo que lhe foi concedida, excepto nos casos em que demonstre total impossibilidade de prestar esta cooperação, sob pena de não poder beneficiar de qualquer outra bolsa da Secretaria de Estado da Cultura.
 
-###### Art. 6.º - 1 - A selecção dos candidatos à concessão de subsídios e bolsas de estudo da Secretaria de Estado da Cultura é realizada por uma comissão ad hoc de especialistas, constituída para o efeito.
+Art. 6.º - 1 - A selecção dos candidatos à concessão de subsídios e bolsas de estudo da Secretaria de Estado da Cultura é realizada por uma comissão ad hoc de especialistas, constituída para o efeito.
 
 2 - A composição e nomeação da comissão referida no número anterior, bem como os abonos a atribuir aos respectivos membros, enquanto durar o seu funcionamento, serão objecto de despacho conjunto do Ministro das Finanças e do Plano e dos Secretários de Estado da Administração Pública e da Cultura.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 3 de Dezembro de 1978.**
+Promulgado em 3 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

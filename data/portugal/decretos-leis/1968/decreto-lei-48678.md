@@ -50,40 +50,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48678-1968-263553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:07:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4440c72de42ff8ccb64dfecfc213e1485544d91b7b8cf6c78f3b4c78ab71bad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1ffb85ba92868bcf04ca073a36cbdc6d7b9c1f7a05517d0039f01efdfef511e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Código Administrativo
+- Formas de Provimento
+- Governo Civil
+- Gratificação
+- Junta Geral
+- Lisboa
+- Operações de Tesouraria
+- Pagamento
+- Porto
+- Substituição de Funções
+- Tesoureiro
 relationships:
 - type: amended_by
   target: pt:dre:681792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:385273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686262:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:681792:por
+  label: "Revogados os arts. 3º e seu § único e 5º do presente diploma, pelo DEC LEI.176/72.25.05.1972.MI, DG.IS [123] de\
+    \ 25.05.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1972-681792
+  date: '1972-05-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:07:06Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +130,9 @@ Convindo harmonizar, tanto quanto possível, o regime de pagamento, nas tesourar
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 142.º do Código Administrativo passa a ter a seguinte redacção:
+Artigo 1.º O artigo 142.º do Código Administrativo passa a ter a seguinte redacção:
 
-###### Art. 142.º Em todos os concelhos existirá um proposto de tesoureiro, nomeado por alvará do presidente da câmara, sob proposta do tesoureiro.
+Art. 142.º Em todos os concelhos existirá um proposto de tesoureiro, nomeado por alvará do presidente da câmara, sob proposta do tesoureiro.
 
 § 1.º Nos concelhos em que o movimento da tesouraria o exija, o proposto coadjuvará permanentemente o tesoureiro; nos restantes concelhos, o proposto só prestará serviço nas faltas e impedimentos do tesoureiro ou ocorrendo vacatura do cargo, e, sem prejuízo do disposto no parágrafo seguinte, vencerá nesses períodos a remuneração correspondente.
 
@@ -116,26 +146,26 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 6.º Aos propostos e auxiliares de proposto que exercerem as funções com carácter permanente é aplicável o regime prescrito para os funcionários de secretaria e tesouraria.
 
-###### Art. 2.º Os tesoureiros das câmaras municipais dos concelhos, urbanos ou rurais, de 1.ª, 2.ª e 3.ª ordem têm direito, respectivamente, à gratificação mensal de 1000$00, 900$00 e 800$00. Os tesoureiros das juntais distritais têm direito à gratificação mensal de 1000$00.
+Art. 2.º Os tesoureiros das câmaras municipais dos concelhos, urbanos ou rurais, de 1.ª, 2.ª e 3.ª ordem têm direito, respectivamente, à gratificação mensal de 1000$00, 900$00 e 800$00. Os tesoureiros das juntais distritais têm direito à gratificação mensal de 1000$00.
 
-###### Art. 3.º Os pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio, por cheques do Banco de Portugal ou da Caixa Geral de Depósitos, Crédito e Previdência ou por cheques emitidos ou visados por qualquer estabelecimento bancário, pagáveis na localidade.
+Art. 3.º Os pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio, por cheques do Banco de Portugal ou da Caixa Geral de Depósitos, Crédito e Previdência ou por cheques emitidos ou visados por qualquer estabelecimento bancário, pagáveis na localidade.
 
 § único. Os vales de correio ou cheques serão emitidos ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo uns e outros conter a sobrecarga «Pagamento de dívidas às câmaras municipais».
 
-###### Art. 4.º Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte final do corpo do artigo anterior, ficarão responsáveis pelo valor dos mesmos, devendo, para isso, cativar logo nos depósitos sacados as respectivas importâncias.
+Art. 4.º Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte final do corpo do artigo anterior, ficarão responsáveis pelo valor dos mesmos, devendo, para isso, cativar logo nos depósitos sacados as respectivas importâncias.
 
-###### Art. 5.º Os cheques e vales de correio destinados a pagamentos nas tesourarias das câmaras municipais serão enviados, sob registo, acompanhados de um sobrescrito devidamente endereçado, para devolução imediata, como correspondência oficial, dos respectivos recibos.
+Art. 5.º Os cheques e vales de correio destinados a pagamentos nas tesourarias das câmaras municipais serão enviados, sob registo, acompanhados de um sobrescrito devidamente endereçado, para devolução imediata, como correspondência oficial, dos respectivos recibos.
 
-###### Art. 6.º O disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 45230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262), de 6 de Setembro de 1963, aplica-se ao cargo de auxiliar de proposto.
+Art. 6.º O disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 45230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262), de 6 de Setembro de 1963, aplica-se ao cargo de auxiliar de proposto.
 
-###### Art. 7.º É aplicável nas tesourarias dos Governos Civis de Lisboa e do Porto o regime estabelecido no § 2.º do artigo 142.º do Código Administrativo.
+Art. 7.º É aplicável nas tesourarias dos Governos Civis de Lisboa e do Porto o regime estabelecido no § 2.º do artigo 142.º do Código Administrativo.
 
-###### Art. 8.º É revogado o artigo 2.º do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963.
+Art. 8.º É revogado o artigo 2.º do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 30 de Outubro de 1968.**
+Promulgado em 30 de Outubro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

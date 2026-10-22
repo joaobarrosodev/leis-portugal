@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1972-680808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cefdc7081bbe7432e8dd8d01cf560a6b20360c3ef2c3161a8652e5a13749050
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37acdd18149cc5bcac56e67d3f3fd5b574811e6df6607511a7316faf62145b22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Direcção Geral das Alfândegas
+- Direcção Geral das Contribuições e Impostos
+- Direcção Geral dos Serviços Industriais
+- Importação de Veículos
+- Indústria Automóvel
+- Inspeção Geral de Finanças
+- Metrópole
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:370046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461245:por
+  label: "Alterado o nº3 do art. 13º e o art. 14º pelo DEC LEI.770/74.31.12.1974.MECO, DG.IS [303] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/770-1974-461245
+  date: '1974-12-31'
+- type: cites
+  target: pt:dre:184508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:370046:por
+  label: "Revogado pelo DEC LEI.351/79.30.08.1979.PCM, DR.IS [200] de 30.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/351-1979-370046
+  date: '1979-08-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:30Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +134,7 @@ Considerando que para obviar a esse inconveniente há toda a vantagem em que, pa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A partir da entrada em vigor deste decreto-lei só poderão ser importados na metrópole, em cada ano e por cada marca, veículos automóveis ligeiros montados, em número correspondente a 2 por cento dos veículos da mesma marca montados no País e despachados no ano anterior.
+Artigo 1.º - 1. A partir da entrada em vigor deste decreto-lei só poderão ser importados na metrópole, em cada ano e por cada marca, veículos automóveis ligeiros montados, em número correspondente a 2 por cento dos veículos da mesma marca montados no País e despachados no ano anterior.
 
 2. A importação de veículos automóveis ligeiros cujas marcas não tenham sido montadas em Portugal no ano anterior fica sujeita ao limite máximo de quinze unidades por ano e por marca.
 
@@ -113,27 +144,27 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Em casos especiais, devidamente justificados, o Ministro da Economia poderá autorizar a importação de veículos montados.
 
-###### Art. 2.º - 1. A importação de veículos automóveis desmontados e incompletos será autorizada por forma que, em cada ano civil e em cada oficina de montagem, o valor da incorporação de componentes nacionais, em relação a cada marca, represente uma percentagem do valor total dos componentes nacionais e estrangeiros não inferior às percentagens da tabela I anexa a este decreto-lei.
+Art. 2.º - 1. A importação de veículos automóveis desmontados e incompletos será autorizada por forma que, em cada ano civil e em cada oficina de montagem, o valor da incorporação de componentes nacionais, em relação a cada marca, represente uma percentagem do valor total dos componentes nacionais e estrangeiros não inferior às percentagens da tabela I anexa a este decreto-lei.
 
 2. A determinação do valor dos componentes nacionais e estrangeiros a que se refere o número anterior será feita com base nas facturas passadas pelos respectivos fornecedores, devendo, para os componentes estrangeiros, o importador preencher ainda uma declaração de valor, conforme o modelo junto.
 
 3. Consideram-se veículos desmontados os que satisfaçam à designação internacional C. K. D. (Completely Knocked Down), reputando-se como tais os que apresentem o equipamento mecânico agrupado em subconjuntos e a carcaça ou cabina em painéis não soldados.
 
-###### Art. 3.º - 1. A importação de veículos automóveis desmontados e incompletos só pode ser feita pelos industriais de montagem.
+Art. 3.º - 1. A importação de veículos automóveis desmontados e incompletos só pode ser feita pelos industriais de montagem.
 
 2. Consideram-se industriais de montagem, para efeitos do presente diploma, não só as empresas que efectuem, em nome próprio, a montagem de veículos automóveis, como também as empresas sócias de quaisquer sociedades proprietárias de linhas de montagem, desde que a sua participação no respectivo capital social não seja inferior a 10 por cento.
 
 3. Se as sociedades referidas na parte final do número anterior forem por acções, estas terão necessàriamente de ser nominativas, não podendo estar endossadas em branco.
 
-###### Art. 4.º - 1. Os componentes importados pelos industriais de montagem e que se destinem a ser incorporados nos veículos por eles produzidos entrarão nas oficinas de montagem em regime de depósito franco, sendo devidos pela saída de cada veículo os direitos que lhe corresponderiam se fosse importado montado e completo, com o desconto estabelecido no artigo seguinte.
+Art. 4.º - 1. Os componentes importados pelos industriais de montagem e que se destinem a ser incorporados nos veículos por eles produzidos entrarão nas oficinas de montagem em regime de depósito franco, sendo devidos pela saída de cada veículo os direitos que lhe corresponderiam se fosse importado montado e completo, com o desconto estabelecido no artigo seguinte.
 
 2. As tintas e outros materiais secundários não beneficiam do regime instituído no número anterior.
 
-###### Art. 5.º - 1. O desconto a que se refere o artigo anterior será o resultante da soma da percentagem da tabela II, anexa a este diploma, aplicável a cada caso, com o desconto fixo de 8 por cento concedido a título de despesas de montagem, considerando-se incluídas nestas as relativas a tintas e materiais secundários.
+Art. 5.º - 1. O desconto a que se refere o artigo anterior será o resultante da soma da percentagem da tabela II, anexa a este diploma, aplicável a cada caso, com o desconto fixo de 8 por cento concedido a título de despesas de montagem, considerando-se incluídas nestas as relativas a tintas e materiais secundários.
 
 2. Os valores dos descontos para posições intermédias das incorporações indicadas no n.º 1 deste artigo serão calculados por interpolação.
 
-###### Art. 6.º - 1. A importação de tractores agrícolas montados na metrópole beneficiará, quanto aos respectivos direitos, do desconto fixo de 8 por cento, concedido nos termos da parte final do n.º 1 do artigo anterior.
+Art. 6.º - 1. A importação de tractores agrícolas montados na metrópole beneficiará, quanto aos respectivos direitos, do desconto fixo de 8 por cento, concedido nos termos da parte final do n.º 1 do artigo anterior.
 
 2. No caso, porém, de opção pelo regime do presente diploma, o desconto será idêntico ao dos veículos com mais de 3500 kg de peso bruto.
 
@@ -141,27 +172,27 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. As comunicações a que se refere o número anterior só produzirão efeitos a partir de 1 de Janeiro do ano seguinte ao da sua apresentação.
 
-###### Art. 7.º - 1. Os châssis montados no continente e ilhas adjacentes e destinados a carroçamento, fora das linhas de montagem, como veículos pesados de passageiros, não estão sujeitos a qualquer mínimo de incorporação de componentes nacionais.
+Art. 7.º - 1. Os châssis montados no continente e ilhas adjacentes e destinados a carroçamento, fora das linhas de montagem, como veículos pesados de passageiros, não estão sujeitos a qualquer mínimo de incorporação de componentes nacionais.
 
 2. Os direitos devidos pela saída dos châssis referidos no número anterior beneficiarão do desconto fixo de 60 por cento.
 
 3. Os châssis despachados ao abrigo deste artigo aos quais seja dado destino diferente do nele consignado serão considerados em descaminho dos direitos que lhes corresponderiam se fossem importados montados do estrangeiro.
 
-###### Art. 8.º - 1. Os terrenos para instalação de oficinas de montagem deverão ter ligação directa a uma linha férrea de via larga e ser aprovados pela Direcção-Geral das Alfândegas, não podendo, no entanto, situar-se nos concelhos de Lisboa, Porto ou concelhos limítrofes, considerando-se como limítrofes do de Lisboa os concelhos ribeirinhos do estuário do Tejo.
+Art. 8.º - 1. Os terrenos para instalação de oficinas de montagem deverão ter ligação directa a uma linha férrea de via larga e ser aprovados pela Direcção-Geral das Alfândegas, não podendo, no entanto, situar-se nos concelhos de Lisboa, Porto ou concelhos limítrofes, considerando-se como limítrofes do de Lisboa os concelhos ribeirinhos do estuário do Tejo.
 
 2. Só podem constituir dependências das instalações de montagem as oficinas de fabricação de componentes, com a exclusão de quaisquer instalações de limpeza, reparação ou reconstrução de veículos automóveis.
 
-###### Art. 9.º São isentos de direitos de importação os componentes importados e incorporados em veículos automóveis montados na metrópole ao abrigo do disposto neste diploma, desde que tais veículos automóveis sejam exportados para o estrangeiro ou províncias ultramarinas.
+Art. 9.º São isentos de direitos de importação os componentes importados e incorporados em veículos automóveis montados na metrópole ao abrigo do disposto neste diploma, desde que tais veículos automóveis sejam exportados para o estrangeiro ou províncias ultramarinas.
 
-###### Art. 10.º Os actos de compra e venda dos veículos montados na metrópole e exportados para o estrangeiro ou ultramar não determinam o pagamento da taxa para o Fundo de Fomento de Exportação, nem do imposto de transacções ou de qualquer outro imposto, ou taxa geral ou local, normalmente devidos em consequência directa desses mesmos actos.
+Art. 10.º Os actos de compra e venda dos veículos montados na metrópole e exportados para o estrangeiro ou ultramar não determinam o pagamento da taxa para o Fundo de Fomento de Exportação, nem do imposto de transacções ou de qualquer outro imposto, ou taxa geral ou local, normalmente devidos em consequência directa desses mesmos actos.
 
-###### Art. 11.º A importação nas províncias ultramarinas de veículos montados nos termos deste diploma fica sujeita ao pagamento dos respectivos direitos com um desconto igual, em percentagem, ao que seria aplicado se os mesmos se destinassem ao consumo da metrópole.
+Art. 11.º A importação nas províncias ultramarinas de veículos montados nos termos deste diploma fica sujeita ao pagamento dos respectivos direitos com um desconto igual, em percentagem, ao que seria aplicado se os mesmos se destinassem ao consumo da metrópole.
 
-###### Art. 12.º - 1. Salvo motivo devidamente justificado e aceite pelas Direcções-Gerais das Alfândegas e dos Serviços Industriais, se as percentagens de incorporação obtidas numa oficina de montagem em qualquer ano e para cada marca forem inferiores às percentagens mínimas constantes da tabela I anexa a este diploma, ficarão os respectivos industriais de montagem sujeitos ao pagamento integral dos direitos que lhes competiriam se fossem importados montados e completos e à multa de 3000$00 por veículo, a qual, em caso de primeira reincidência, será agravada para 5000$00 e, havendo novas reincidências, para 10000$00.
+Art. 12.º - 1. Salvo motivo devidamente justificado e aceite pelas Direcções-Gerais das Alfândegas e dos Serviços Industriais, se as percentagens de incorporação obtidas numa oficina de montagem em qualquer ano e para cada marca forem inferiores às percentagens mínimas constantes da tabela I anexa a este diploma, ficarão os respectivos industriais de montagem sujeitos ao pagamento integral dos direitos que lhes competiriam se fossem importados montados e completos e à multa de 3000$00 por veículo, a qual, em caso de primeira reincidência, será agravada para 5000$00 e, havendo novas reincidências, para 10000$00.
 
 2. Verificando-se, em relação a determinada marca, inexactidão na declaração do valor dos componentes nacionais ou estrangeiros, será o industrial de montagem responsável punido por transgressão fiscal com multa de montante variável entre a diferença de valor encontrada e cinco vezes a mesma diferença.
 
-###### Art. 13.º - 1. O cálculo do valor da incorporação de componentes nacionais, em relação a cada ano e marca, será feito por uma comissão constituída por técnicos nomeados pelos directores-gerais das Alfândegas e dos Serviços Industriais, que designarão também o respectivo presidente.
+Art. 13.º - 1. O cálculo do valor da incorporação de componentes nacionais, em relação a cada ano e marca, será feito por uma comissão constituída por técnicos nomeados pelos directores-gerais das Alfândegas e dos Serviços Industriais, que designarão também o respectivo presidente.
 
 2. Esta comissão funcionará na Direcção-Geral dos Serviços Industriais, podendo a ela ser agregados, a título consultivo, outros técnicos, bem como um representante da Corporação da Indústria, se esta o considerar conveniente.
 
@@ -169,25 +200,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. As deliberações da comissão serão devidamente fundamentadas e exaradas em acta lavrada em livro próprio.
 
-###### Art. 14.º - 1. Para a correcta fixação do valor da incorporação, referido no n.º 1 do artigo anterior, poderão os directores-gerais das Alfândegas e dos Serviços Industriais solicitar dos serviços do Estado, autarquias locais e organismos corporativos as informações que reputem necessárias, ficando aquelas entidades obrigadas a prestá-las sempre que para tal disponham de elementos ou se encontrem em condições de obtê-los.
+Art. 14.º - 1. Para a correcta fixação do valor da incorporação, referido no n.º 1 do artigo anterior, poderão os directores-gerais das Alfândegas e dos Serviços Industriais solicitar dos serviços do Estado, autarquias locais e organismos corporativos as informações que reputem necessárias, ficando aquelas entidades obrigadas a prestá-las sempre que para tal disponham de elementos ou se encontrem em condições de obtê-los.
 
 2. Para os efeitos consignados no artigo anterior, podem os directores-gerais das Alfândegas e dos Serviços Industriais mandar examinar os livros e documentos dos industriais de montagem e das empresas proprietárias de linhas de montagem, bem como dos respectivos fornecedores, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
 
 3. A Inspecção-Geral de Finanças ou a Direcção-Geral das Contribuições e Impostos, quando solicitadas pelos directores-gerais das Alfândegas e dos Serviços Industriais, procederão à realização de exames à escrita das entidades referidas no número anterior.
 
-###### Art. 15.º - 1. Os industriais de montagem serão notificados dos valores das incorporações realizadas, calculados pela comissão referida no artigo 13.º, devendo a notificação reproduzir integralmente a parte da acta que respeitar ao notificado.
+Art. 15.º - 1. Os industriais de montagem serão notificados dos valores das incorporações realizadas, calculados pela comissão referida no artigo 13.º, devendo a notificação reproduzir integralmente a parte da acta que respeitar ao notificado.
 
 2. Das deliberações da comissão caberá reclamação para o Secretário de Estado da Indústria, a interpor no prazo de dez dias, a contar da notificação.
 
-###### Art. 16.º Se as condições da economia nacional o aconselharem, poderão as oficinas de montagem interessadas continuar a laborar, depois de 31 de Dezembro de 1979, em regime de depósito franco e nas condições que oportunamente forem estabelecidas.
+Art. 16.º Se as condições da economia nacional o aconselharem, poderão as oficinas de montagem interessadas continuar a laborar, depois de 31 de Dezembro de 1979, em regime de depósito franco e nas condições que oportunamente forem estabelecidas.
 
-###### Art. 17.º - 1. Pode o Governo autorizar que os industriais de montagem passem a laborar em regime livre, desde que, em relação a todas as marcas que importam e durante dois anos consecutivos, incorporem mais de 60 por cento de componentes nacionais.
+Art. 17.º - 1. Pode o Governo autorizar que os industriais de montagem passem a laborar em regime livre, desde que, em relação a todas as marcas que importam e durante dois anos consecutivos, incorporem mais de 60 por cento de componentes nacionais.
 
 2. O benefício previsto no número anterior será concedido mediante requerimento do interessado, fixando o Governo, em caso de deferimento, todas as formas de fiscalização das respectivas oficinas de montagem que se reputem convenientes.
 
 3. Cessa o regime permitido pelo n.º 1 quando o industrial deixe de cumprir as obrigações que lhe forem impostas, designadamente a diminuição, para além do mínimo de 60 por cento, de incorporação de componentes nacionais.
 
-###### Art. 18.º - 1. Às empresas importadoras que não possam, em face do regime previsto no n.º 2 do artigo 3.º, ser consideradas industriais de montagem, só serão despachados os veículos montados em Portugal, desde que para o efeito sejam apresentados até ao dia 15 de Janeiro de 1973, apenas podendo, depois desta data, ser despachados àquelas empresas os veículos cuja montagem não tenha podido concluir-se, por motivo devidamente justificado e aceite pelos directores-gerais das Alfândegas e dos Serviços Industriais, liquidando-se então os direitos por inteiro como se tivessem sido importados montados.
+Art. 18.º - 1. Às empresas importadoras que não possam, em face do regime previsto no n.º 2 do artigo 3.º, ser consideradas industriais de montagem, só serão despachados os veículos montados em Portugal, desde que para o efeito sejam apresentados até ao dia 15 de Janeiro de 1973, apenas podendo, depois desta data, ser despachados àquelas empresas os veículos cuja montagem não tenha podido concluir-se, por motivo devidamente justificado e aceite pelos directores-gerais das Alfândegas e dos Serviços Industriais, liquidando-se então os direitos por inteiro como se tivessem sido importados montados.
 
 2. Até 15 de Janeiro de 1973, deverão ser apresentadas na Direcção-Geral das Alfândegas certidões comprovativas da qualidade referida no n.º 2 do artigo 3.º, emitidas pela Direcção-Geral dos Serviços Industriais e pela Conservatória do Registo Comercial.
 
@@ -199,19 +230,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6. O disposto no número anterior é aplicável às empresas que, em qualquer momento, deixem de satisfazer aos requisitos estabelecidos nos n.os 2 e 3 do artigo 3.º
 
-###### Art. 19.º A competência para o conhecimento das infracções previstas neste diploma pertence às auditorias fiscais junto da Alfândega de Lisboa, não obstante o disposto no § único do artigo 55.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941.
+Art. 19.º A competência para o conhecimento das infracções previstas neste diploma pertence às auditorias fiscais junto da Alfândega de Lisboa, não obstante o disposto no § único do artigo 55.º do Contencioso Aduaneiro, aprovado pelo [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941.
 
-###### Art. 20.º As restrições à importação de veículos montados, estabelecidas nos artigos 1.º e 2.º deste decreto-lei, serão abolidas em 31 de Dezembro de 1979.
+Art. 20.º As restrições à importação de veículos montados, estabelecidas nos artigos 1.º e 2.º deste decreto-lei, serão abolidas em 31 de Dezembro de 1979.
 
-###### Art. 21.º Sem prejuízo do disposto no n.º 3 do artigo 1.º, é revogado o [Decreto-Lei n.º 44104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44104-1961-184508), de 20 de Dezembro de 1961, o qual se aplicará, no entanto, aos veículos montados em Portugal até 31 de Dezembro de 1972, mas despachados depois de 1 de Janeiro de 1973.
+Art. 21.º Sem prejuízo do disposto no n.º 3 do artigo 1.º, é revogado o [Decreto-Lei n.º 44104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44104-1961-184508), de 20 de Dezembro de 1961, o qual se aplicará, no entanto, aos veículos montados em Portugal até 31 de Dezembro de 1972, mas despachados depois de 1 de Janeiro de 1973.
 
-###### Art. 22.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1973.
+Art. 22.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 26 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 26 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 
@@ -237,16 +268,16 @@ TABELA II
 
 Veículos de passageiros, mistos ou comerciais, até 3500 kg de peso bruto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf))](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf)
 
 Veículos com mais de 3500 kg de peso bruto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf))](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf)
 
-**O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro das Finanças, João Augusto Dias Rosas.
 
 DECLARAÇÃO DE VALOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf))](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/11200/06050608.pdf)
 
-**O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro das Finanças, João Augusto Dias Rosas.

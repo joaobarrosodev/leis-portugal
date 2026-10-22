@@ -48,36 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1970-142687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 087eefc4f718d7bb8eaa468dc0dd825d6d2d6bbb3089add98042fe77ed1b8100
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f6f5a894c30b7870b5aba208358a51354a9e63a6004626fe1c1d3c0cf797b72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Oficial
+- Ensino Primário
+- Formas de Provimento
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:164262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255980:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:50Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +115,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O primeiro provimento no quadro geral dos professores efectivos de ensino primário tem carácter temporário.
+Artigo 1.º - 1. O primeiro provimento no quadro geral dos professores efectivos de ensino primário tem carácter temporário.
 
 2. O professor de provimento temporário cujo serviço docente, prestado em qualquer dos quadros, for qualificado de deficiente em dois anos, seguidos ou não, será exonerado e não poderá ingressar de novo no magistério.
 
-###### Art. 2.º - 1. O provimento dos professores efectivos, aos quais não seja de aplicar o disposto no n.º 2 do artigo precedente, converte-se em definitivo, independentemente de requerimento dos interessados e de qualquer formalidade administrativa, depois de cinco anos (quarenta e cinco meses lectivos) de serviço docente, incluindo o prestado nos quadros de agregados.
+Art. 2.º - 1. O provimento dos professores efectivos, aos quais não seja de aplicar o disposto no n.º 2 do artigo precedente, converte-se em definitivo, independentemente de requerimento dos interessados e de qualquer formalidade administrativa, depois de cinco anos (quarenta e cinco meses lectivos) de serviço docente, incluindo o prestado nos quadros de agregados.
 
 2. A qualificação de deficiente atribuída aos professores de provimento definitivo em dois anos lectivos, seguidos ou não, implica a perda da última diuturnidade concedida e a instauração de processo disciplinar.
 
-###### Art. 3.º São revogados o artigo 2.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, e o § único do artigo 170.º do [Decreto n.º 22369](https://diariodarepublica.pt/dr/detalhe/decreto/22369-1933-255980), de 30 de Março de 1933.
+Art. 3.º São revogados o artigo 2.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, e o § único do artigo 170.º do [Decreto n.º 22369](https://diariodarepublica.pt/dr/detalhe/decreto/22369-1933-255980), de 30 de Março de 1933.
 
-###### Art. 4.º A redacção do artigo 4.º do [Decreto-Lei n.º 44378](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44378-1962-164262), de 30 de Maio de 1962, passa a ser a seguinte:
+Art. 4.º A redacção do artigo 4.º do [Decreto-Lei n.º 44378](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44378-1962-164262), de 30 de Maio de 1962, passa a ser a seguinte:
 
-###### Art. 4.º Ficam revogados os artigos 42.º e 43.º e seus parágrafos do [Decreto n.º 18413](https://diariodarepublica.pt/dr/detalhe/decreto/18413-1930-225253), de 2 de Junho de 1930, e o n.º 2 do artigo 108.º do Decreto n.º 38969, de 27 de Outubro de 1952.
+Art. 4.º Ficam revogados os artigos 42.º e 43.º e seus parágrafos do [Decreto n.º 18413](https://diariodarepublica.pt/dr/detalhe/decreto/18413-1930-225253), de 2 de Junho de 1930, e o n.º 2 do artigo 108.º do Decreto n.º 38969, de 27 de Outubro de 1952.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 3 de Junho de 1970.**
+Promulgado em 3 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

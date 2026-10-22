@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/85-1972-396715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd63a13d92caf4a8b864e3280774e97f722b2fe7a88726ae3520ebc7b9d33418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8ac3acbebc0945a0451de943a670c0739fd31559cdfa042a87b559185afe3a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:17Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Tendo em vista as disposições do [Decreto-Lei n.º 48234](https://diariodarepu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Intendência e Contabilidade da Força Aérea a celebrar contratos para o fornecimento de combustíveis líquidos e de lubrificantes auto e de avião nos anos de 1972, 1973 e 1974 à Força Aérea Portuguesa, pela importância de 935250000$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Intendência e Contabilidade da Força Aérea a celebrar contratos para o fornecimento de combustíveis líquidos e de lubrificantes auto e de avião nos anos de 1972, 1973 e 1974 à Força Aérea Portuguesa, pela importância de 935250000$00.
 
-###### Art. 2.º - 1. O encargo resultante da execução dos contratos referidos no artigo anterior não podem, em cada ano, exceder as seguintes quantias:
+Art. 2.º - 1. O encargo resultante da execução dos contratos referidos no artigo anterior não podem, em cada ano, exceder as seguintes quantias:
 
 Em 1972 ... 267250000$00
 
@@ -103,8 +107,8 @@ Em 1974 ... 343000000$00
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - José Pereira do Nascimento - Augusto Victor Coelho.
 
-**Promulgado em 6 de Março de 1972.**
+Promulgado em 6 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

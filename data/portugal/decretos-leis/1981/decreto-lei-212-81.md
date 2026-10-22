@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15800/16931693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1981-580157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0973c371e39da0ed1ca1c2075442df07af78279986e9581711a51f6729e64c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41847dc175c598e0fd7618c8c96a0eaec4f6a6ab08a813a361d72e1778eca2bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Permanente da Produção Transformação e Comércio do Tomate
+- Legume de Fruto
+- Ministério do Comércio e Turismo
+- Orgânica
+- Tomate
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325508:por
+  label: "Alterado o art. 2.º do Dec Lei 256/80, de 30-Jul, na redacção do presente diploma, pelo DEC LEI.104/85.10.04.1985.MA,\
+    \ DR.IS [83] de 10.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1985-325508
+  date: '1985-04-10'
+- type: amended_by
+  target: pt:dre:376841:por
+  label: Determinada a assunção pelo INGA das atribuições e competências conferidas ao extinto organismo de coordenação económica,
+    Junta Nacional das Frutas, relativamente à Comissão Permanente da Produção, Transformação e Comércio do Tomate, a que
+    se refere o Dec Lei 256/80 de 30-Jul, com a redacção conferida no presente diploma, e cujo regulamento consta da Port
+    668/81 de 05-Ago, pelo DEC LEI.282/88.12.08.1988.MAPA, DR.IS [186] de 12.08.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1988-376841
+  date: '1988-08-12'
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Determinada a transferência para a DGMAIAA das atribuições e competências conferidas ao extinto organismo de coordenação
+    económica, Junta Nacional das Frutas, relativamente à Comissão Permanente da Produção, Transformação e Comércio do Tomate,
+    a que se refere o Dec Lei 256/80 de 30-Jul, com a redacção conferida no presente diploma, e cujo regulamento consta da
+    Port 668/81 de 05-Ago, pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: cites
+  target: pt:dre:470392:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:45Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +131,7 @@ Por o Governo ter, entretanto, assumido nova estrutura e haver outros motivos qu
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo Único. O artigo 2.º do [Decreto-Lei n.º 256/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1980-470392), de 30 de Julho, passa a ter a seguinte redacção:
+Artigo Único. O artigo 2.º do [Decreto-Lei n.º 256/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1980-470392), de 30 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — (Composição)
 
@@ -129,8 +165,8 @@ Um por cada associação de industriais de tomate, no máximo de três.
 
 Visto e aprovado em Conselho de Ministros de 2 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Julho de 1981.**
+Promulgado em 1 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

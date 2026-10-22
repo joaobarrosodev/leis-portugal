@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44747-1962-155436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 570481522b75fc9a95da83e78253b77a6a0d0bd6c0520931fb28c63f3e40539f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4abc49e8a37ca1db9a41f219b466a5f73b81d7fa629f02ed5e8747fa82dabfa5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Centro de Medicina de Reabilitação do Alcoitão
+- Centro de Reabilitação de Diminuídos Motores
+- Despesas Públicas
+- Lisboa
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:686268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:686268:por
+  label: "Prorrogado até 31.12.1964, o prazo de execução do plano de aquisição de mobiliário e equipamento para o Centro de\
+    \ Reabilitação de Diminuídos Motores, em Alcoitão, estabelecido no art. 1º do presente diploma, pelo DEC LEI.45234.07.09.1963.MOP,\
+    \ DG.IS [211] de 07.09.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45234-1963-686268
+  date: '1963-09-07'
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:19Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +111,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o plano de aquisição de mobiliário e equipamento para o Centro de Reabilitação de Diminuídos Motores, em Alcoitão, constante do mapa anexo ao presente diploma, no montante de 17500000$00, para ser realizado nos anos de 1962 e 1963, através da Comissão Administrativa de Obras da Santa Casa da Misericórdia de Lisboa, sob a orientação do Ministério das Obras Públicas.
+Artigo 1.º É aprovado o plano de aquisição de mobiliário e equipamento para o Centro de Reabilitação de Diminuídos Motores, em Alcoitão, constante do mapa anexo ao presente diploma, no montante de 17500000$00, para ser realizado nos anos de 1962 e 1963, através da Comissão Administrativa de Obras da Santa Casa da Misericórdia de Lisboa, sob a orientação do Ministério das Obras Públicas.
 
-###### Art. 2.º As dotações necessárias para a efectivação do plano serão inscritas em rubrica própria do orçamento da despesa extraordinária da Misericórdia de Lisboa.
+Art. 2.º As dotações necessárias para a efectivação do plano serão inscritas em rubrica própria do orçamento da despesa extraordinária da Misericórdia de Lisboa.
 
-###### Art. 3.º Os Ministros das Obras Públicas e da Saúde e Assistência poderão autorizar os ajustamentos que o desenvolvimento da realização do plano tornar necessário introduzir na discriminação das despesas firmadas no mapa anexo ao presente diploma, dentro do limite de despesa estabelecido no artigo 1.º
+Art. 3.º Os Ministros das Obras Públicas e da Saúde e Assistência poderão autorizar os ajustamentos que o desenvolvimento da realização do plano tornar necessário introduzir na discriminação das despesas firmadas no mapa anexo ao presente diploma, dentro do limite de despesa estabelecido no artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -108,6 +125,6 @@ Para ser presente à Assembleia Nacional.
 
 Plano de aquisição do mobiliário e equipamento para o Centro de Reabilitação de Diminuídos Motores, em Alcoitão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/11/27600/16001601.pdf))](https://files.diariodarepublica.pt/1s/1962/11/27600/16001601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/11/27600/16001601.pdf)
 
 Ministérios das Obras Públicas e da Saúde e Assistência, 30 de Novembro de 1962. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

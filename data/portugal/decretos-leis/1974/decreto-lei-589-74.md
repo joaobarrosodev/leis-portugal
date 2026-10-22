@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/25800/13381339.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/589-1974-471513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fae5d5afdf981266ba735e3d9d8cae1f2a4a740ec250834a2f3841411089b379
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b283f24a34c158dc340279bedba0d48a88871e31dfb4f38168c8adb17caaf1d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Depósitos Crédito e Previdência
+- Caixa Nacional de Pensões
+- Federação das Caixas de Previdência e Abono de Família
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Secretaria de Estado da Saúde
+- Serviços Médico-sociais
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:492465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:492465:por
+  label: "Revogado pelo DEC LEI.17/77.1977.01.12.MAS,DR.IS [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1977-492465
+  date: '1977-01-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:17Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +116,23 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São transferidos, a partir do dia 1 de Janeiro de 1975, para a Secretaria de Estado da Saúde os serviços médico-sociais das instituições de previdência de inscrição obrigatória, sem prejuízo do actual esquema de prestações de acção médico-social a que têm direito os respectivos beneficiários e familiares.
+Artigo 1.º São transferidos, a partir do dia 1 de Janeiro de 1975, para a Secretaria de Estado da Saúde os serviços médico-sociais das instituições de previdência de inscrição obrigatória, sem prejuízo do actual esquema de prestações de acção médico-social a que têm direito os respectivos beneficiários e familiares.
 
-###### Art. 2.º A transferência referida no artigo 1.º compreende:
+Art. 2.º A transferência referida no artigo 1.º compreende:
 
 a) A prestação de assistência médica e medicamentosa, a verificação das incapacidades para o trabalho para efeito de atribuição de subsídios e pensões pelas instituições de previdência, o contrôle dessas situações e outros exames médicos previstos na regulamentação da Previdência;
 
 b) As unidades médico-sociais das instituições de previdência e todo o pessoal que nelas presta serviço, bem como o que nas sedes das instituições gestoras da acção médico-social e na Federação das Caixas de Previdência e Abono de Família está adstrito aos serviços respectivos e ainda a Inspecção Médica da mesma Federação.
 
-###### Art. 3.º - 1. O regime do pessoal referido no artigo anterior continua a ser o que actualmente vigora, passando a respectiva gestão a competir à Secretaria de Estado da Saúde, através da Comissão referida no artigo 5.º
+Art. 3.º - 1. O regime do pessoal referido no artigo anterior continua a ser o que actualmente vigora, passando a respectiva gestão a competir à Secretaria de Estado da Saúde, através da Comissão referida no artigo 5.º
 
 2. Não serão prejudicados por efeito da transferência os direitos do pessoal transferido.
 
-###### Art. 4.º - 1. Qualquer alteração do esquema e condições de prestação de acção médico-social dos beneficiários das instituições referidas no artigo 1.º deverá ser aprovada pelo Ministro dos Assuntos Sociais, sob parecer favorável do Secretário de Estado da Segurança Social, ouvida a Direcção-Geral da Previdência.
+Art. 4.º - 1. Qualquer alteração do esquema e condições de prestação de acção médico-social dos beneficiários das instituições referidas no artigo 1.º deverá ser aprovada pelo Ministro dos Assuntos Sociais, sob parecer favorável do Secretário de Estado da Segurança Social, ouvida a Direcção-Geral da Previdência.
 
 2. Para os efeitos do número anterior, serão também obrigatoriamente consultados os representantes dos beneficiários e das entidades patronais logo que estiver institucionalizada a sua representação a nível nacional.
 
-###### Art. 5.º - 1. É criada a Comissão Coordenadora dos Serviços de Saúde de Base, com a seguinte composição:
+Art. 5.º - 1. É criada a Comissão Coordenadora dos Serviços de Saúde de Base, com a seguinte composição:
 
 a) Um presidente designado pelo Secretário de Estado da Saúde;
 
@@ -129,7 +146,7 @@ d) Dois representantes, respectivamente, dos beneficiários e das entidades patr
 
 3. As condições de remuneração de cada um dos membros da Comissão serão estabelecidas tendo em conta o respectivo regime de prestação de trabalho, por despacho do Ministro dos Assuntos Sociais, de acordo com o Ministro das Finanças.
 
-###### Art. 6.º - 1. Compete à Comissão:
+Art. 6.º - 1. Compete à Comissão:
 
 a) Apresentar, no prazo de sessenta dias, a contar da nomeação dos seus membros, os projectos de regulamentos e as propostas que considere necessárias à execução deste decreto-lei, bem como o orçamento a que se refere a alínea b), para o ano de 1975;
 
@@ -141,26 +158,26 @@ d) Remeter ao Tribunal de Contas, para efeito de julgamento, nos termos do artig
 
 2. Sempre que necessário, para elaboração dos projectos e propostas previstos na alínea a) do número anterior, poderão ser consultadas as organizações representativas dos grupos sócio-profissionais intervenientes no acto médico e ser convidadas a participar em grupos de trabalho.
 
-###### Art. 7.º - 1. Para financiamento das prestações e serviços transferidos por força deste diploma, a Caixa Nacional de Pensões depositará à ordem da Comissão, no início de cada mês, o duodécimo das despesas orçamentadas para cada ano.
+Art. 7.º - 1. Para financiamento das prestações e serviços transferidos por força deste diploma, a Caixa Nacional de Pensões depositará à ordem da Comissão, no início de cada mês, o duodécimo das despesas orçamentadas para cada ano.
 
 2. Serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Caixa Nacional de Pensões, os saldos positivos anuais que se verificarem na gestão dos serviços transferidos.
 
 3. As instituições não articuladas com a Caixa Nacional de Pensões reembolsá-la-ão das importâncias por aquela adiantadas, nos termos e prazos que vierem a ser regulamentados.
 
-###### Art. 8.º As contas de gerência dos serviços transferidos por força deste diploma serão sujeitas a julgamento do Tribunal de Contas, nos termos do Decreto com força de lei n.º 22257, de 25 de Fevereiro de 1933.
+Art. 8.º As contas de gerência dos serviços transferidos por força deste diploma serão sujeitas a julgamento do Tribunal de Contas, nos termos do Decreto com força de lei n.º 22257, de 25 de Fevereiro de 1933.
 
-###### Art. 9.º Os acordos celebrados pela Federação das Caixas de Previdência e Abono de Família e pelas instituições de previdência referidas no artigo 1.º com organismos, instituições, estabelecimentos e serviços hospitalares mantêm-se em vigor até ulterior revisão.
+Art. 9.º Os acordos celebrados pela Federação das Caixas de Previdência e Abono de Família e pelas instituições de previdência referidas no artigo 1.º com organismos, instituições, estabelecimentos e serviços hospitalares mantêm-se em vigor até ulterior revisão.
 
-###### Art. 10.º - 1. Serão aprovados por despacho do Ministro dos Assuntos Sociais os regulamentos necessários à execução do presente diploma, bem como os orçamentos a que se refere a alínea b) do artigo 6.º
+Art. 10.º - 1. Serão aprovados por despacho do Ministro dos Assuntos Sociais os regulamentos necessários à execução do presente diploma, bem como os orçamentos a que se refere a alínea b) do artigo 6.º
 
 2. Serão também resolvidos por despacho ministerial as dúvidas e casos omissos suscitados na aplicação deste decreto-lei.
 
-###### Art. 11.º Este diploma entra imediatamente em vigor.
+Art. 11.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 22 de Outubro de 1974.**
+Promulgado em 22 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

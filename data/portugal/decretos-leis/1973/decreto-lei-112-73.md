@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1973-684185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6dff791f75695caee1519bb5e72199bbb9484f8f2c5b13aec6b93b4a46d11f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6afdf61e888a08e3cec30c89a5f383681335e64eba5a67fee9d815742b5942a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Deslocação ao Estrangeiro
+- Emolumento
+- Forças Armadas
+- Isenção de Taxas e Emolumentos
+- Isenção Fiscal
+- Licença Militar
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:676053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:55Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +102,20 @@ Considerando que, dada a peculiar natureza das suas funções, não é aconselh�
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam isentas do pagamento do imposto do selo e de emolumentos as licenças para ausência do País de militares dos três ramos das forças armadas nas seguintes situações:
+Artigo 1.º Ficam isentas do pagamento do imposto do selo e de emolumentos as licenças para ausência do País de militares dos três ramos das forças armadas nas seguintes situações:
 
 a) Oficiais e sargentos do quadro permanente no activo, reserva ou reforma e praças do mesmo quadro em qualquer situação;
 
 b) Oficiais, sargentos e praças, não pertencentes ao quadro permanente, na prestação do serviço efectivo.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 15 de Março de 1973.**
+Promulgado em 15 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

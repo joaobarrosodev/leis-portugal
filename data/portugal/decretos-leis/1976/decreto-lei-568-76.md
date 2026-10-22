@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/568-1976-430597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df0e10451c6f906ee71f2b44d5d6d3f8d9e54f860bd52497e627494e93b1cc3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0224d70d2473099fe7212df8db611d4d0c98585bb81ec71ed98df3ec4401fbc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Instaladora
+- Criação de Serviços
+- Ensino Artístico
+- Instituto Gregoriano de Lisboa
+- Música
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:540824:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566594:por
+  label: Integrado na Escola Superior de Música de Lisboa o Instituto Gregoriano de Lisboa e prevista a sua extinção pelo
+    DEC LEI.356/90.10.11.1990.ME, DR.IS [260] de 10.11.1990, nos termos do disposto no seu art. 9º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1990-566594
+  date: '1990-11-10'
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:10Z'
   warnings: []
   errors: []
 ---
@@ -106,19 +122,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado, na dependência da Direcção-Geral do Ensino Superior, o Instituto Gregoriano de Lisboa, estabelecimento especializado de ensino da música.
+Artigo 1.º É criado, na dependência da Direcção-Geral do Ensino Superior, o Instituto Gregoriano de Lisboa, estabelecimento especializado de ensino da música.
 
-###### Art. 2.º Pode o Ministro da Educação e Investigação Científica, mediante portaria, integrar este Instituto num organismo dependente do Ministério da Educação e Investigação Científica que assegure, de imediato, a continuidade das actividades do actual Centro de Estudos Gregorianos.
+Art. 2.º Pode o Ministro da Educação e Investigação Científica, mediante portaria, integrar este Instituto num organismo dependente do Ministério da Educação e Investigação Científica que assegure, de imediato, a continuidade das actividades do actual Centro de Estudos Gregorianos.
 
-###### Art. 3.º O Instituto Gregoriano de Lisboa, tomando o canto gregoriano como base essencial de toda a cultura musical do Ocidente, destina-se à formação de elementos que no sector do ensino, da investigação e da execução profissional contribuam para a elevação do nível artístico e científico no domínio da música em Portugal.
+Art. 3.º O Instituto Gregoriano de Lisboa, tomando o canto gregoriano como base essencial de toda a cultura musical do Ocidente, destina-se à formação de elementos que no sector do ensino, da investigação e da execução profissional contribuam para a elevação do nível artístico e científico no domínio da música em Portugal.
 
-###### Art. 4.º - 1. Com vista à prossecução desses objectivos, desenvolve o Instituto uma tripla actividade didáctica, cultural e de investigação.
+Art. 4.º - 1. Com vista à prossecução desses objectivos, desenvolve o Instituto uma tripla actividade didáctica, cultural e de investigação.
 
 2. Os cursos a ministrar no Instituto serão definidos por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 5.º O Instituto ficará sujeito ao regime de instalação durante um período de dois anos, prorrogável, mediante despacho do Ministro da Educação e Investigação Científica, ano a ano.
+Art. 5.º O Instituto ficará sujeito ao regime de instalação durante um período de dois anos, prorrogável, mediante despacho do Ministro da Educação e Investigação Científica, ano a ano.
 
-###### Art. 6.º - 1. É instituída uma comissão instaladora para o Instituto Gregoriano de Lisboa, que exercerá o seu mandato durante o período previsto no artigo anterior.
+Art. 6.º - 1. É instituída uma comissão instaladora para o Instituto Gregoriano de Lisboa, que exercerá o seu mandato durante o período previsto no artigo anterior.
 
 2. Fazem parte da comissão instaladora:
 
@@ -126,16 +142,16 @@ a) Um representante da Direcção-Geral do Ensino Superior;
 
 b) Dois a três vogais nomeados por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 7.º - 1. Durante o período de instalação são aplicáveis ao Instituto as disposições do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, relativas à contratação de pessoal docente, técnico, administrativo e auxiliar.
+Art. 7.º - 1. Durante o período de instalação são aplicáveis ao Instituto as disposições do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, relativas à contratação de pessoal docente, técnico, administrativo e auxiliar.
 
 2. Mediante autorização do Ministro da Educação e Investigação Científica, o pessoal actualmente em serviço no Centro de Estudos Gregorianos poderá ser contratado pelo Instituto para funções idênticas ou equivalentes às que presentemente desempenhe, sem prejuízo das habilitações exigidas para o provimento dos novos cargos.
 
-###### Art. 8.º Os encargos resultantes da execução do presente diploma são suportados, durante o ano económico de 1976, pelas verbas do capítulo 5.º, artigo 91.º «Transferências do sector público», do orçamento da Direcção-Geral do Ensino Superior.
+Art. 8.º Os encargos resultantes da execução do presente diploma são suportados, durante o ano económico de 1976, pelas verbas do capítulo 5.º, artigo 91.º «Transferências do sector público», do orçamento da Direcção-Geral do Ensino Superior.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 7 de Julho de 1976.**
+Promulgado em 7 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

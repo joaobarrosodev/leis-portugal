@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/378-1971-630649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 679671b776eba6e1ee1771129ea6e30dbe5aed993efbb1953e78e9043cd0c4e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c328545822d1d65f4665696a93c272f3baefea056b7ed37cbb6d024b4603e76b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:04Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +93,24 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a Junta Provincial de Habitação de Angola a contrair no Instituto de Crédito de Angola um empréstimo, até ao montante de 150000 contos, destinado a suportar os encargos com a construção de moradias populares.
+Artigo 1.º - 1. É autorizada a Junta Provincial de Habitação de Angola a contrair no Instituto de Crédito de Angola um empréstimo, até ao montante de 150000 contos, destinado a suportar os encargos com a construção de moradias populares.
 
 2. O empréstimo terá um prazo de utilização de três anos, em cinco contas correntes sucessivas, creditadas pela importância de 30000 contos cada uma, sendo a primeira aberta na data da escritura do contrato do empréstimo e cada uma das seguintes automàticamente, à medida que se esgotar o crédito anterior.
 
 3. A comissão de imobilização será de 0,5 por cento ao ano.
 
-###### Art. 2.º O empréstimo vencerá o juro de 6 por cento ao ano, pagável aos semestres, e será amortizado em vinte semestralidades sucessivas, vencendo-se a primeira três anos e meio após a data da celebração da escritura do contrato.
+Art. 2.º O empréstimo vencerá o juro de 6 por cento ao ano, pagável aos semestres, e será amortizado em vinte semestralidades sucessivas, vencendo-se a primeira três anos e meio após a data da celebração da escritura do contrato.
 
-###### Art. 3.º O empréstimo será objecto de contrato a celebrar entre a Junta Provincial de Habitação de Angola e o Instituto de Crédito de Angola.
+Art. 3.º O empréstimo será objecto de contrato a celebrar entre a Junta Provincial de Habitação de Angola e o Instituto de Crédito de Angola.
 
-###### Art. 4.º Os encargos resultantes do empréstimo constituem despesa preferencial e obrigatória da Junta Provincial de Habitação de Angola, devendo ser inscritas anualmente no seu orçamento privativo as verbas necessárias à sua liquidação.
+Art. 4.º Os encargos resultantes do empréstimo constituem despesa preferencial e obrigatória da Junta Provincial de Habitação de Angola, devendo ser inscritas anualmente no seu orçamento privativo as verbas necessárias à sua liquidação.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 25 de Agosto de 1971.**
+Promulgado em 25 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

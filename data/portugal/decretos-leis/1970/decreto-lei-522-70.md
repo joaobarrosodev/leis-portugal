@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1970-147828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7059f6f28f4a943bcdd44a0018c3a27ba9778ac6eba08ecb22a9b9cb5b0c9be6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031b44538c64410b7adf760d0183f55a5cef7c9dba0aa66901d9d194fc994cd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Ensino Técnico Profissional
+- Estabelecimento de Ensino
+- Extinção de Serviços
+- Grândola
+- Plano de Estudos
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:278736:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278736:por
+  label: "Extinta e substituída a Escola Técnica criada pelo presente diploma, pelo DEC LEI.415/77.01.10.1977.PCM, DR.IS [228]\
+    \ de 01.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1977-278736
+  date: '1977-10-01'
+- type: cites
+  target: pt:dre:232677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:58Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +151,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado no concelho de Grândola um estabelecimento de ensino técnico profissional com a denominação de Escola Técnica de António Inácio da Cruz, que substitui a actual escola agro-industrial da Fundação António Inácio da Cruz, a que se refere o artigo 3.º do [Decreto-Lei n.º 40761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40761-1956-232677), de 7 de Setembro de 1956.
+Artigo 1.º É criado no concelho de Grândola um estabelecimento de ensino técnico profissional com a denominação de Escola Técnica de António Inácio da Cruz, que substitui a actual escola agro-industrial da Fundação António Inácio da Cruz, a que se refere o artigo 3.º do [Decreto-Lei n.º 40761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40761-1956-232677), de 7 de Setembro de 1956.
 
-###### Art. 2.º - 1. A escola é constituída por uma secção agrícola e por uma secção industrial e terá o seguinte plano de estudos:
+Art. 2.º - 1. A escola é constituída por uma secção agrícola e por uma secção industrial e terá o seguinte plano de estudos:
 
 1 - Cursos de formação:
 
@@ -134,36 +167,36 @@ Mecânico agrícola.
 
 2. O funcionamento da Escola é regulado pela legislação em vigor para o ensino secundário agrícola ou industrial, segundo se trate do curso de agente rural ou dos cursos de electro-mecânico e de mecânico agrícola.
 
-###### Art. 3.º O quadro do pessoal docente, administrativo e menor é o que vai fixado no mapa anexo ao presente diploma.
+Art. 3.º O quadro do pessoal docente, administrativo e menor é o que vai fixado no mapa anexo ao presente diploma.
 
-###### Art. 4.º As despesas resultantes do funcionamento da Escola ficam a cargo do Estado e da Fundação António Inácio da Cruz, nas condições seguintes:
+Art. 4.º As despesas resultantes do funcionamento da Escola ficam a cargo do Estado e da Fundação António Inácio da Cruz, nas condições seguintes:
 
 1.ª Constitui encargo do Estado o pagamento das despesas com todo o pessoal docente e com o pessoal administrativo e auxiliar pertencente ao quadro;
 
 2.ª Ficarão a cargo da Fundação António Inácio da Cruz todas as restantes despesas.
 
-###### Art. 5.º As obras de construção necessárias ao funcionamento da Escola e o correspondente equipamento inicial serão comparticipadas pelo Estado nas condições a fixar, em cada caso, por despacho conjunto dos Ministros das Finanças, das Obras Públicas e da Educação Nacional.
+Art. 5.º As obras de construção necessárias ao funcionamento da Escola e o correspondente equipamento inicial serão comparticipadas pelo Estado nas condições a fixar, em cada caso, por despacho conjunto dos Ministros das Finanças, das Obras Públicas e da Educação Nacional.
 
-###### Art. 6.º A administração do património da Fundação António Inácio da Cruz continua a reger-se pelas disposições do [Decreto-Lei n.º 40761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40761-1956-232677), de 7 de Setembro de 1956, e do [Decreto n.º 47266](https://diariodarepublica.pt/dr/detalhe/decreto/47266-1966-478405), de 19 de Outubro de 1966, que não colidam com as do presente diploma.
+Art. 6.º A administração do património da Fundação António Inácio da Cruz continua a reger-se pelas disposições do [Decreto-Lei n.º 40761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40761-1956-232677), de 7 de Setembro de 1956, e do [Decreto n.º 47266](https://diariodarepublica.pt/dr/detalhe/decreto/47266-1966-478405), de 19 de Outubro de 1966, que não colidam com as do presente diploma.
 
-###### Art. 7.º - 1. Os actuais titulares dos lugares dos quadros previstos no artigo 12.º dos estatutos aprovados pelo [Decreto-Lei n.º 40761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40761-1956-232677), de 7 de Setembro de 1956, que possuírem as habilitações e colares legalmente exigidas para o provimento nas categorias incluídas no quadro criado pelo presente diploma podem ser nomeados por despacho do Ministro da Educação Nacional para lugares deste quadro que correspondam às suas habilitações.
+Art. 7.º - 1. Os actuais titulares dos lugares dos quadros previstos no artigo 12.º dos estatutos aprovados pelo [Decreto-Lei n.º 40761](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40761-1956-232677), de 7 de Setembro de 1956, que possuírem as habilitações e colares legalmente exigidas para o provimento nas categorias incluídas no quadro criado pelo presente diploma podem ser nomeados por despacho do Ministro da Educação Nacional para lugares deste quadro que correspondam às suas habilitações.
 
 2. Os provimentos a que se refere o número anterior não envolvem a integração dos nomeados no quadro geral dos estabelecimentos de ensino dependentes da Direcção-Geral do Ensino Técnico Profissional.
 
-###### Art. 8.º Todos os encargos relativos à execução do presente diploma serão satisfeitos no ano de 1970 pelas disponibilidades da verba consignada a «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei».
+Art. 8.º Todos os encargos relativos à execução do presente diploma serão satisfeitos no ano de 1970 pelas disponibilidades da verba consignada a «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei».
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 3.º do presente Decreto-Lei n.º 522/70
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/25700/16641666.pdf))](https://files.diariodarepublica.pt/1s/1970/11/25700/16641666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/25700/16641666.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

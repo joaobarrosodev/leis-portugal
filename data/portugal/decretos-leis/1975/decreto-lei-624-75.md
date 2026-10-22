@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26300/17941795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/624-1975-310576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d857dea218c927aeaae697b424d6aecbaa6142ed82d8297bc7ecd4d7ff2d85ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24704e0186ae8162c52b15769fc68ff925e4dbc9e6cfa1ce7c30e228c3e102e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Comando Militar
+- Comissão de Contas e Apuramento de Responsabilidades do Exército
+- Comissão para a Regularização e Extinção das Contas das Regiões Militares e Comandos Territoriais Independentes do Ultramar
+- Definição de Competências
+- Forças Armadas
+- Prestação de Contas
+- Região Militar
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690839:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:22Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +139,7 @@ Uma vez que a legislação, apontada anteriormente, não foi dirigida senão às
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada a Comissão para a Regularização e Extinção das Contas das Regiões Militares e Comandos Territoriais Independentes do Ultramar (CRECUL), à qual competirá:
+Artigo 1.º - 1. É criada a Comissão para a Regularização e Extinção das Contas das Regiões Militares e Comandos Territoriais Independentes do Ultramar (CRECUL), à qual competirá:
 
 a) Apreciar, aprovar e resolver, dentro das suas possibilidades, as contas globais já apresentadas à Comissão de Contas e Apuramento de Responsabilidades (CCAR), criada pelo [Decreto-Lei n.º 38476](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38476-1951-590533), de 24 de Outubro de 1951, que, até à presente data, não tenham sido aprovadas, as quais serão entregues, devidamente relacionadas, pela CCAR à CRECUL, resolvendo, dentro das suas possibilidades, os problemas inerentes às mesmas;
 
@@ -135,7 +165,7 @@ k) Informar as entidades nisso interessadas, após o indispensável estudo de ca
 
 2. Para além das funções expressamente previstas nas alíneas anteriores, a Comissão terá ainda as que, no âmbito da missão geral que lhe é cometida, nela se insiram sem margem para dúvidas, bem como as que, por despacho do Chefe do Estado-Maior do Exército, possam ser-lhe atribuídas.
 
-###### Art. 2.º - 1. A Comissão criada pelo presente diploma terá a seguinte constituição:
+Art. 2.º - 1. A Comissão criada pelo presente diploma terá a seguinte constituição:
 
 Presidente - coronel do SAM ... 1
 
@@ -145,20 +175,20 @@ Subalterno - licenciado em Direito ... 1
 
 2. Na Comissão prestará serviço outro pessoal julgado necessário, mediante proposta do presidente.
 
-###### Art. 3.º Com excepção para os casos expressamente previstos no artigo 1.º, em que as decisões finais competem ao Chefe do Estado-Maior do Exército, todas as demais se situarão no âmbito do general quartel-mestre-general, sempre que os assuntos tenham carácter administrativo e não constituam responsabilidade directa da própria Comissão ou de entidade militar competente, atendendo à natureza diferente dos casos referidos anteriormente.
+Art. 3.º Com excepção para os casos expressamente previstos no artigo 1.º, em que as decisões finais competem ao Chefe do Estado-Maior do Exército, todas as demais se situarão no âmbito do general quartel-mestre-general, sempre que os assuntos tenham carácter administrativo e não constituam responsabilidade directa da própria Comissão ou de entidade militar competente, atendendo à natureza diferente dos casos referidos anteriormente.
 
-###### Art. 4.º - 1. No cumprimento da missão que lhe é cometida, a Comissão regular-se-á pelas disposições legais vigentes, baseando a sua actividade, especialmente, nos preceitos legais contidos no [Decreto-Lei n.º 38476](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38476-1951-590533), de 24 de Outubro de 1951, no [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), de 18 de Dezembro, e na [Portaria n.º 643/72](https://diariodarepublica.pt/dr/detalhe/portaria/643-1972-690839), de 2 de Novembro, sempre que estes não constituam manifesta contradição ao espírito do presente diploma, que, como é referido no preâmbulo, tem em vista promover o encerramento das contas do ultramar no mais curto prazo de tempo e, consequentemente, as que se situam no período de 1961 a 1975, inclusive.
+Art. 4.º - 1. No cumprimento da missão que lhe é cometida, a Comissão regular-se-á pelas disposições legais vigentes, baseando a sua actividade, especialmente, nos preceitos legais contidos no [Decreto-Lei n.º 38476](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38476-1951-590533), de 24 de Outubro de 1951, no [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), de 18 de Dezembro, e na [Portaria n.º 643/72](https://diariodarepublica.pt/dr/detalhe/portaria/643-1972-690839), de 2 de Novembro, sempre que estes não constituam manifesta contradição ao espírito do presente diploma, que, como é referido no preâmbulo, tem em vista promover o encerramento das contas do ultramar no mais curto prazo de tempo e, consequentemente, as que se situam no período de 1961 a 1975, inclusive.
 
 2. Na linha de orientação definida no número anterior, as inovações que sejam consideradas como convenientes serão objecto de proposta, devidamente fundamentada pela Comissão, que, depois de informada pela Direcção do Serviço de Administração, será submetida ao despacho do Chefe do Estado-Maior do Exército.
 
-###### Art. 5.º O apoio administrativo e material à Comissão será prestado através da Direcção do Serviço de Administração. À Comissão serão concedidos os meios humano e materiais indispensáveis à missão que lhe compete, devendo as necessidades respectivas ser apresentadas, pela via adequada, às entidades que as devam solucionar.
+Art. 5.º O apoio administrativo e material à Comissão será prestado através da Direcção do Serviço de Administração. À Comissão serão concedidos os meios humano e materiais indispensáveis à missão que lhe compete, devendo as necessidades respectivas ser apresentadas, pela via adequada, às entidades que as devam solucionar.
 
-###### Art. 6.º A Comissão será extinta por despacho do Chefe do Estado-Maior do Exército, quando tal for julgado oportuno.
+Art. 6.º A Comissão será extinta por despacho do Chefe do Estado-Maior do Exército, quando tal for julgado oportuno.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 4 de Novembro de 1975**
+Promulgado em 4 de Novembro de 1975
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

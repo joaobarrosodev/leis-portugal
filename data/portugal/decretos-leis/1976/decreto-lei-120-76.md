@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03500/03070307.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1976-506786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 561ab7b5f6c56b15d2bb3a6c2765e3acf097743bb5481354e0233dd94467ffa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 026d0eb1e2016326dc18e590f962871de4332bb9bbe293f815648f222804dccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Penal
+- Crime
+- Definição de Competências
+- Provedor de Justiça
 relationships:
 - type: amended_by
   target: pt:dre:281427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168803:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:141642:por
+  label: "Revogado o art. 2º pela LEI.15/77.24.02.1977.AR, DR.IS [46] de 24.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-1977-141642
+  date: '1977-02-24'
+- type: repealed_by
+  target: pt:dre:281427:por
+  label: "Revogado pela LEI.81/77.22.11.1977.AR, DR.IS [270] de 22.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/81-1977-281427
+  date: '1977-11-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:21Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +116,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 11.º, 13.º e 14.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), de 21 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 11.º, 13.º e 14.º do [Decreto-Lei n.º 212/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401), de 21 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. O Provedor de Justiça pode ser consultado pelo Presidente da República, pelo Conselho da Revolução e pelo Governo sobre qualquer assunto relacionado com a administração pública.
 
 ...
 
-###### Art. 11.º - 1. ...
+Art. 11.º - 1. ...
 
 2. ...
 
@@ -112,9 +134,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 13.º As entidades públicas prestarão ao Provedor de Justiça, sempre com a maior urgência possível, toda a colaboração que por este lhes for solicitada, designadamente prestando informações, efectuando inspecções através dos serviços competentes e facultando documentos para exame, salvo aqueles que devam ser mantidos secretos, por respeitarem à segurança, à defesa e as relações internacionais do Estado.
+Art. 13.º As entidades públicas prestarão ao Provedor de Justiça, sempre com a maior urgência possível, toda a colaboração que por este lhes for solicitada, designadamente prestando informações, efectuando inspecções através dos serviços competentes e facultando documentos para exame, salvo aqueles que devam ser mantidos secretos, por respeitarem à segurança, à defesa e as relações internacionais do Estado.
 
-###### Art. 14.º - 1. ...
+Art. 14.º - 1. ...
 
 2. ...
 
@@ -124,12 +146,12 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 5. ...
 
-###### Art. 2.º A injúria ou ofensa à honra e consideração devida ao Provedor de Justiça e ao Provedor Adjunto será punida nos termos do § 2.º do artigo 166.º do Código Penal.
+Art. 2.º A injúria ou ofensa à honra e consideração devida ao Provedor de Justiça e ao Provedor Adjunto será punida nos termos do § 2.º do artigo 166.º do Código Penal.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.
 
-**Promulgado em 30 de Janeiro de 1976.**
+Promulgado em 30 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

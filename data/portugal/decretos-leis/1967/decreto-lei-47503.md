@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/01/01800/01120113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47503-1967-501581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7744c8b732655345d541a924e250746cb88ebb7647e0cc8a12c3b18c355322f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4883a4b7944dd2d437893a9babd16b0aec46042f90dc8f7b8fdbc07b31620295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção do Serviço de Administração Naval
+- Marinha
+- Ministério da Marinha
+- Pessoal Civil
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:369835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369835:por
+  label: "Determinada a revogação do presente diploma, com a entrada em vigor do decreto que estabelece a estrutura orgânica\
+    \ da Superintendência dos Serviços Financeiros, pelo DEC LEI.383/79.19.09.1979.CR, DR.IS [217] de 19.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1979-369835
+  date: '1979-09-19'
+- type: cites
+  target: pt:dre:163215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534614:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:56Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +123,7 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ao Serviço Mecanográfico da Armada, criado pelo [Decreto n.º 44521](https://diariodarepublica.pt/dr/detalhe/decreto/44521-1962-163215), de 18 de Agosto de 1962, na directa dependência da Direcção do Serviço de Administração Naval, compete:
+Artigo 1.º Ao Serviço Mecanográfico da Armada, criado pelo [Decreto n.º 44521](https://diariodarepublica.pt/dr/detalhe/decreto/44521-1962-163215), de 18 de Agosto de 1962, na directa dependência da Direcção do Serviço de Administração Naval, compete:
 
 a) Explorar todos os dados cujo processamento automático seja de reconhecida vantagem para o serviço naval, particularmente no que respeita a:
 
@@ -128,15 +157,15 @@ d) Fornecer os dados mecanográficos necessários ao registo, inventário e movi
 
 § único. Os estudos, trabalhos e explorações mecanográficas só podem ser executados mediante prévia autorização ministerial.
 
-###### Art. 2.º O Serviço Mecanográfico da Armada só é responsável pela exactidão e oportuna execução mecanográfica dos trabalhos em face dos elementos-base autenticados pelas entidades competentes e apresentados dentro dos prazos estabelecidos.
+Art. 2.º O Serviço Mecanográfico da Armada só é responsável pela exactidão e oportuna execução mecanográfica dos trabalhos em face dos elementos-base autenticados pelas entidades competentes e apresentados dentro dos prazos estabelecidos.
 
-###### Art. 3.º As lotações de pessoal do Serviço Mecanográfico da Armada são as constantes do mapa anexo ao presente decreto-lei.
+Art. 3.º As lotações de pessoal do Serviço Mecanográfico da Armada são as constantes do mapa anexo ao presente decreto-lei.
 
 As funções de chefia são desempenhadas por oficiais dos quadros da Armada da classe de administração naval, directamente subordinados ao director do serviço respectivo. A execução mecanográfica, o serviço de secretaria e outro auxiliar são atribuídos a pessoal civil do Ministério, cujo quadro é ampliado de conformidade com as lotações fixadas e passando o pessoal técnico a constituir o grupo M) «Técnicos de mecanografia», do mapa I anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958:
 
 § único. O preenchimento dos lugares das lotações com que é ampliado o quadro do pessoal civil será efectuado conforme o desenvolvimento gradual do Serviço Mecanográfico, o que deverá ser reconhecido por despacho do Ministro da Marinha, mas na fase inicial, a ter lugar até fim de 1968, limitar-se-á a dois terços das suas totalidades e futuramente, em face de proposta fundamentada da Direcção do Serviço de Administração Naval, o seu número poderá ser alterado por portaria do mesmo Ministro, com a prévia concordância do Ministro das Finanças.
 
-###### Art. 4.º Para as novas categorias que passam a constituir o grupo M) do quadro do pessoal civil do Ministério da Marinha, conforme o disposto no artigo anterior, são fixados os vencimentos seguintes, segundo o escalonamento estabelecido no artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e que se consideram aditados ao mapa II anexo ao mencionado [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958:
+Art. 4.º Para as novas categorias que passam a constituir o grupo M) do quadro do pessoal civil do Ministério da Marinha, conforme o disposto no artigo anterior, são fixados os vencimentos seguintes, segundo o escalonamento estabelecido no artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e que se consideram aditados ao mapa II anexo ao mencionado [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958:
 
 Analista ... H
 
@@ -156,13 +185,13 @@ Segundas-mecanógrafas ... P
 
 Terceiras-mecanógrafas ... Q
 
-###### Art. 5.º Os oficiais dos quadros da Armada que desempenhem no Serviço Mecanográfico as funções especiais abaixo designadas têm direito ao abono mensal das seguintes gratificações de serviço, que se consideram integradas no n.º 5.º do artigo 2.º do [Decreto-Lei n.º 30249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30249-1939-534614), de 30 de Dezembro de 1939:
+Art. 5.º Os oficiais dos quadros da Armada que desempenhem no Serviço Mecanográfico as funções especiais abaixo designadas têm direito ao abono mensal das seguintes gratificações de serviço, que se consideram integradas no n.º 5.º do artigo 2.º do [Decreto-Lei n.º 30249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30249-1939-534614), de 30 de Dezembro de 1939:
 
 Chefe do serviço ... 600$00
 
 Adjuntos ... 500$00
 
-###### Art. 6.º As condições especiais de admissão do pessoal civil do grupo M), sua promoção e atribuições constarão do regulamento especial do Serviço, que o Ministro da Marinha fica autorizado a publicar.
+Art. 6.º As condições especiais de admissão do pessoal civil do grupo M), sua promoção e atribuições constarão do regulamento especial do Serviço, que o Ministro da Marinha fica autorizado a publicar.
 
 § 1.º O pessoal a que se refere este artigo será contratado pelo prazo inicial de dois anos, renovável por períodos anuais, podendo, porém, os contratos ser rescindidos antes de findo o prazo, por conveniência de serviço.
 
@@ -172,17 +201,17 @@ Adjuntos ... 500$00
 
 § 4.º Na fase inicial a que se refere o § único do artigo 3.º podem as nomeações ou contratos deste pessoal ser feitas por escolha do Ministro da Marinha, sob proposta do director do Serviço de Administração Naval, de entre o pessoal militar e civil dos quadros ou de entre indivíduos estranhos aos mesmos, que estejam especializados ou seleccionados para trabalhos mecanográficos. E quanto ao pessoal militar e civil dos quadros que presentemente desempenha funções no Serviço Mecanográfico da Armada, o Ministro da Marinha mandará publicar, nos 30 dias seguintes ao da entrada em vigor do presente diploma e depois de sujeita à anotação do Tribunal de Contas, a sua relação nominal, com indicação das categorias do grupo M) em que fica provido.
 
-###### Art. 7.º Sempre que as necessidades do Serviço Mecanográfico o aconselharem, poderão ser contratados técnicos nacionais ou estrangeiros além do quadro, nas condições fixadas por despacho do Ministro da Marinha, com o acordo do Ministro das Finanças, e, quando a urgência ou volume de trabalhos o exigirem, poderá recorrer a pessoal militar além da lotação, a pessoal eventual ou ainda ao regime de tarefas, mediante prévia autorização ministerial.
+Art. 7.º Sempre que as necessidades do Serviço Mecanográfico o aconselharem, poderão ser contratados técnicos nacionais ou estrangeiros além do quadro, nas condições fixadas por despacho do Ministro da Marinha, com o acordo do Ministro das Finanças, e, quando a urgência ou volume de trabalhos o exigirem, poderá recorrer a pessoal militar além da lotação, a pessoal eventual ou ainda ao regime de tarefas, mediante prévia autorização ministerial.
 
-###### Art. 8.º O Serviço Mecanográfico da Armada dispõe, além do pessoal, de instalações próprias e é equipado com os dispositivos mecânicos, electromecânicos e electrónicos julgados necessários para o cumprimento da sua missão.
+Art. 8.º O Serviço Mecanográfico da Armada dispõe, além do pessoal, de instalações próprias e é equipado com os dispositivos mecânicos, electromecânicos e electrónicos julgados necessários para o cumprimento da sua missão.
 
 § único. O equipamento referido no corpo deste artigo pode ser adquirido a título permanente ou utilizado em regime de aluguer, inscrevendo-se anualmente no orçamento do Ministério da Marinha as verbas necessárias.
 
-###### Art. 9.º Até ser regulamentado o presente decreto-lei, tomar-se-ão, por despacho ministerial, as providências complementares para assegurar a sua execução, devendo a matéria das mesmas ser incluída na respectiva regulamentação.
+Art. 9.º Até ser regulamentado o presente decreto-lei, tomar-se-ão, por despacho ministerial, as providências complementares para assegurar a sua execução, devendo a matéria das mesmas ser incluída na respectiva regulamentação.
 
-###### Art. 10.º Os encargos resultantes da execução do presente diploma, no decurso do actual ano económico, serão satisfeitos pelas disponibilidades da verba inscrita sob o capítulo 3.º, artigo 170.º, n.º 1), no orçamento do Ministério da Marinha em vigor.
+Art. 10.º Os encargos resultantes da execução do presente diploma, no decurso do actual ano económico, serão satisfeitos pelas disponibilidades da verba inscrita sob o capítulo 3.º, artigo 170.º, n.º 1), no orçamento do Ministério da Marinha em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/5-1987-663486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a73b7c942d46a901b60637dd2fbf868ca7630e63d9186ef8db81b21423caf45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f60275529f19643ea11b9958f36cf3d5b0f4372b6348c8d987c8187d8e910e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Transporte de Mercadorias
+- Transporte de Passageiros
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:24Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +91,19 @@ de 19 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Polónia sobre Transportes Rodoviários Internacionais, assinado em Lisboa em 22 de Abril de 1986, cujo texto em francês e a respectiva tradução em língua portuguesa acompanham o presente decreto.
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Polónia sobre Transportes Rodoviários Internacionais, assinado em Lisboa em 22 de Abril de 1986, cujo texto em francês e a respectiva tradução em língua portuguesa acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1986. - Aníbal António Cavaco Silva - Pedro José Rodrigues Pires de Miranda - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 12 de Dezembro de 1986.**
+Assinado em 12 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Dezembro de 1986.**
+Referendado em 17 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Accord entre le Gouvernement de la République Portugaise et le Gouvernement de la République Populaire de Pologne concernant les transports routiers internationaux.
 
@@ -109,7 +113,7 @@ Article premier - 1 - Les dispositions du présent Accord s'appliquent aux trans
 
 2 - Aucune disposition du présent Accord ne donne le droit à un transporteur d'une Partie contractante de charger des personnes ou des marchandises à l'intérieur du territoire de l'autre Partie contractante pour les déposer à l'intérieur du même territoire.
 
-###### Art. 2 - 1 - Le terme «transporteur» désigne une personne, physique ou morale, qui, soit en République Portugaise, soit en République Populaire de Pologne, a le droit d'effectuer des transports routiers, conformément à la réglementation en vigueur dans chacun ce ces pays.
+Art. 2 - 1 - Le terme «transporteur» désigne une personne, physique ou morale, qui, soit en République Portugaise, soit en République Populaire de Pologne, a le droit d'effectuer des transports routiers, conformément à la réglementation en vigueur dans chacun ce ces pays.
 
 Le terme «véhicule» désigne tout véhicule routier à propulsion mécanique ainsi que sa semi-remorque ou sa remorque destinés:
 
@@ -121,13 +125,13 @@ c) Au déplacement d'équipements spéciaux, installés d'une façon stable, fai
 
 3 - Par le terme «autorisation» on comprend toute licence, concession ou autorisation permettant d'effectuer un transport routier, conformément à la réglementation en vigueur dans chacune des Parties contractantes. L'autorisation délivrée au tracteur comprend aussi la remorque et la semi-remorque.
 
-###### Art. 3 - 1 - Les transports réguliers de voyageurs par autocars entre les deux pays, ainsi qu'en transit à travers leurs territoires, ne peuvent pas être effectués que sous le couvert d'une autorisation préalable.
+Art. 3 - 1 - Les transports réguliers de voyageurs par autocars entre les deux pays, ainsi qu'en transit à travers leurs territoires, ne peuvent pas être effectués que sous le couvert d'une autorisation préalable.
 
 2 - L'autorité compétente de chaque Partie contractante délivre les autorisations pour la partie du transport effectuée sur son territoire.
 
 3 - Les autorités compétentes des Parties contractantes fixent d'un commun accord la procédure de la délivrance des autorisations.
 
-###### Art. 4 - 1 - Sans préjudice de ce qu'établit le numéro 2, les transports de personnes occasionnels ou de navette ne peuvent être effectués par les transporteurs de l'une des Parties contractantes qu'au moyen d'une autorisation préalable accordée par l'autorité compétente de l'autre Partie contractante.
+Art. 4 - 1 - Sans préjudice de ce qu'établit le numéro 2, les transports de personnes occasionnels ou de navette ne peuvent être effectués par les transporteurs de l'une des Parties contractantes qu'au moyen d'une autorisation préalable accordée par l'autorité compétente de l'autre Partie contractante.
 
 2 - Ne sont pas soumis au régime de l'autorisation:
 
@@ -141,7 +145,7 @@ d) Le transit à vide.
 
 3 - Les modalités de contrôle auxquelles ces transports sont soumis seront établies dans le Protocole prévu à l'article 13.
 
-###### Art. 5 - 1 - Les transporteurs de chaque Partie contractante ont le droit de transporter des marchandises ou de circuler avec un véhicule vide, soit pour aller prendre en charge, soit après avoir déposé des marchandises:
+Art. 5 - 1 - Les transporteurs de chaque Partie contractante ont le droit de transporter des marchandises ou de circuler avec un véhicule vide, soit pour aller prendre en charge, soit après avoir déposé des marchandises:
 
 a) Entre n'importe quel lieu du territoire d'une Partie contractante et n'importe quel lieu du territoire de l'autre Partie contractante;
 
@@ -151,9 +155,9 @@ c) Entre n'importe quel lieu du territoire de l'autre Partie contractante et n'i
 
 2 - Les transporteurs d'une Partie contractante ont le droit de prendre la charge de retour sur le territoire de l'autre Partie contractante.
 
-###### Art. 6 - Sans préjudice de ce qu'établit l'article 7, les transports de marchandises visés à l'article 5 ne peuvent être effectués qu'au moyen d'une autorisation préalable délivrée par l'autorité compétente du pays d'immatriculation du véhicule, au nom des autorités compétentes de l'autre Partie contractante.
+Art. 6 - Sans préjudice de ce qu'établit l'article 7, les transports de marchandises visés à l'article 5 ne peuvent être effectués qu'au moyen d'une autorisation préalable délivrée par l'autorité compétente du pays d'immatriculation du véhicule, au nom des autorités compétentes de l'autre Partie contractante.
 
-###### Art. 7 - 1 - Ne sont pas soumis au régime de l'autorisation les transports:
+Art. 7 - 1 - Ne sont pas soumis au régime de l'autorisation les transports:
 
 a) De bagages par remorques jointes aux véhicules destinés au transport de voyageurs;
 
@@ -175,7 +179,7 @@ i) De matériel destiné aux enregistrements radiophoniques, aux prises de vues 
 
 2 - La Comission Mixte mentionnée à l'article 14 peut changer la portée du régime d'exception prévu dans le numéro précédent.
 
-###### Art. 8 - 1 - Sans préjudice de ce qu'établit le numéro suivant, les autorisations de transport sont délivrées dans la limite du contingent fixé par les autorités compétentes des Parties contractantes.
+Art. 8 - 1 - Sans préjudice de ce qu'établit le numéro suivant, les autorisations de transport sont délivrées dans la limite du contingent fixé par les autorités compétentes des Parties contractantes.
 
 2 - Sont exemptés du régime de contingentement:
 
@@ -185,31 +189,31 @@ b) Les transports de déménagement.
 
 3 - L'exemption établie dans le numéro précédent peut être étendue à d'autres catégories de transports internationaux de marchandises par la Commission Mixte mentionnée à l'article 14.
 
-###### Art. 9 - 1 - Les paiements, les impôts et les taxes se rapportant aux véhicules routiers et aux transports sont réglés conformément au Protocole mentionné à l'article 13 du présent Accord.
+Art. 9 - 1 - Les paiements, les impôts et les taxes se rapportant aux véhicules routiers et aux transports sont réglés conformément au Protocole mentionné à l'article 13 du présent Accord.
 
 2 - Les comptes et les paiements résultant de la réalisation du présent Accord sont réglés conformément aux accords sur les paiements en vigueur entre les Parties contractantes.
 
 3 - Le carburant et autre matériel de ce genre se trouvant dans les réservoirs installés sur les véhicules et faisant partie intégrale de ces véhicules ne sont pas soumis aux taxes et droits de douane.
 
-###### Art. 10 - 1 - Chacune des Parties contractantes s'engage à ne pas soumettre les véhicules immatriculés sur le territoire de l'autre Partie contractante à des conditions techniques et d'exploitation plus sévères que celles imposées aux véhicules sur son propre territoire.
+Art. 10 - 1 - Chacune des Parties contractantes s'engage à ne pas soumettre les véhicules immatriculés sur le territoire de l'autre Partie contractante à des conditions techniques et d'exploitation plus sévères que celles imposées aux véhicules sur son propre territoire.
 
 2 - Si le poids ou les dimensions du véhicule ou du chargement dépassent les limites admises sur le territoire de l'autre Partie contractante, le véhicule doit être muni d'une autorisation spéciale délivrée par l'autorité compétente de cette Partie contractante. Cette disposition se rapporte aussi aux déplacements d'équipements spéciaux.
 
 3 - En cas où l'autorisation spéciale ou à part limite la circulation à un itinéraire déterminé, le transport ne peut être effectué que sur cet itinéraire.
 
-###### Art. 11 - Les autorisations et les autres documents requis conformément aux dispositions du présent Accord doivent se trouver à bord du véhicule et être présentés à chaque demande des autorités qui, sur le territoire de chaque Partie contractante, sont compétentes en matière du contrôle de ces documents.
+Art. 11 - Les autorisations et les autres documents requis conformément aux dispositions du présent Accord doivent se trouver à bord du véhicule et être présentés à chaque demande des autorités qui, sur le territoire de chaque Partie contractante, sont compétentes en matière du contrôle de ces documents.
 
-###### Art. 12 - Les transporteurs et les conducteurs des véhicules de l'une des Parties contractantes doivent, lors de leur séjour sur le territoire de l'autre Partie contractante, respecter les prescriptions en vigueur se rapportant, en particulier, aux transports et à la circulation routière.
+Art. 12 - Les transporteurs et les conducteurs des véhicules de l'une des Parties contractantes doivent, lors de leur séjour sur le territoire de l'autre Partie contractante, respecter les prescriptions en vigueur se rapportant, en particulier, aux transports et à la circulation routière.
 
-###### Art. 13 - Les deux Parties contractantes s'accordent sur les modalités de l'application du présent Accord dans le Protocole signé en même temps que l'Accord.
+Art. 13 - Les deux Parties contractantes s'accordent sur les modalités de l'application du présent Accord dans le Protocole signé en même temps que l'Accord.
 
-###### Art. 14 - 1 - Pour permettre la bonne exécution des dispositions du présent Accord, les deux Parties contractantes instituent une Commission Mixte.
+Art. 14 - 1 - Pour permettre la bonne exécution des dispositions du présent Accord, les deux Parties contractantes instituent une Commission Mixte.
 
 2 - La dite Commission se réunira à la demande de l'une des Parties, alternativement sur le territoire de chacune d'elles.
 
 3 - La Commission Mixte est compétente pour modifier le Protocole mentionné à l'article 13.
 
-###### Art. 15 - 1 - Le présent Accord sera approuvé conformément au droit de chacune des Parties contractantes et entrera en vigueur à la date fixée par échange de notes confirmant cette approbation.
+Art. 15 - 1 - Le présent Accord sera approuvé conformément au droit de chacune des Parties contractantes et entrera en vigueur à la date fixée par échange de notes confirmant cette approbation.
 
 2 - Le présent Accord est conclu pour une durée d'un an à partir de la date de son entrée en vigueur et sera prorogé tacitement d'une année à l'autre, sauf dénonciation par voie de notification d'une des Parties contractantes au plus tard trois mois avant la fin de l'année en cours.
 
@@ -293,11 +297,11 @@ Acordo entre o Governo da República Portuguesa e o Governo da República Popula
 
 O Governo da República Portuguesa e o Governo da República Popular da Polónia, abaixo designados «as Partes contratantes», desejosos de contribuir para o desenvolvimento dos transportes rodoviários de pessoas e de mercadorias entre os dois Estados, bem como em trânsito pelos seus territórios, acordaram no que se segue:
 
-###### Artigo 1.º - 1 - As disposições do presente Acordo aplicam-se aos transportes de pessoas e de mercadorias oriundas ou destinadas ao território de uma das Partes contratantes, ou em trânsito através desse território, efectuados por meio de veículos matriculados no território da outra Parte contratante.
+Artigo 1.º - 1 - As disposições do presente Acordo aplicam-se aos transportes de pessoas e de mercadorias oriundas ou destinadas ao território de uma das Partes contratantes, ou em trânsito através desse território, efectuados por meio de veículos matriculados no território da outra Parte contratante.
 
 2 - Nenhuma disposição do presente Acordo dá o direito a um transportador de uma Parte contratante de embarcar pessoas ou mercadorias dentro do território da outra Parte contratante a fim de as desembarcar no mesmo território.
 
-###### Art. 2.º - 1 - O termo «transportador» designa uma pessoa, singular ou colectiva, que, quer na República Portuguesa, quer na República Popular da Polónia, tem o direito de efectuar transportes rodoviários, em conformidade com a regulamentação vigente em cada um daqueles países.
+Art. 2.º - 1 - O termo «transportador» designa uma pessoa, singular ou colectiva, que, quer na República Portuguesa, quer na República Popular da Polónia, tem o direito de efectuar transportes rodoviários, em conformidade com a regulamentação vigente em cada um daqueles países.
 
 2 - O termo «veículo» designa todo o veículo rodoviário de propulsão mecânica bem como o seu reboque ou semi-reboque destinados:
 
@@ -309,13 +313,13 @@ c) À deslocação de equipamentos especiais, instalados de forma fixa, que faç
 
 3 - Pelo termo «autorização» entende-se qualquer licença, concessão ou autorização que permita efectuar um transporte rodoviário, em conformidade com a regulamentação vigente em cada uma das Partes contratantes. A autorização emitida para o tractor inclui também o reboque e o semi-reboque.
 
-###### Art. 3.º - 1 - Os transportes regulares de passageiros, por autocarros, entre os dois países, bem como em trânsito através dos seus territórios, só poderão ser efectuados mediante uma autorização prévia.
+Art. 3.º - 1 - Os transportes regulares de passageiros, por autocarros, entre os dois países, bem como em trânsito através dos seus territórios, só poderão ser efectuados mediante uma autorização prévia.
 
 2 - A autoridade competente de cada uma das Partes contratantes emite as autorizações para a parte do transporte a efectuar no seu território.
 
 3 - As autoridades competentes das Partes contratantes fixam de comum acordo o processo da emissão das autorizações.
 
-###### Art. 4.º - 1 - Sem prejuízo do estabelecido no n.º 2, os transportes ocasionais de pessoas ou os percursos de ida e volta só podem ser efectuados pelos transportadores de uma das Partes contratantes mediante autorização prévia concedida pela autoridade competente da outra Parte contratante.
+Art. 4.º - 1 - Sem prejuízo do estabelecido no n.º 2, os transportes ocasionais de pessoas ou os percursos de ida e volta só podem ser efectuados pelos transportadores de uma das Partes contratantes mediante autorização prévia concedida pela autoridade competente da outra Parte contratante.
 
 2 - Não estão sujeitos ao regime de autorização prévia:
 
@@ -329,7 +333,7 @@ d) O trânsito em vazio.
 
 3 - As modalidades de fiscalização às quais estes transportes ficam sujeitos serão estabelecidas no Protocolo previsto no artigo 13.º
 
-###### Art. 5.º - 1 - Os transportadores de cada Parte contratante têm o direito de transportar mercadorias ou de circular com um veículo vazio, quer seja para ir carregar, quer seja após ter descarregado mercadorias:
+Art. 5.º - 1 - Os transportadores de cada Parte contratante têm o direito de transportar mercadorias ou de circular com um veículo vazio, quer seja para ir carregar, quer seja após ter descarregado mercadorias:
 
 a) Entre qualquer lugar do território de uma Parte contratante e qualquer lugar do território da outra Parte contratante;
 
@@ -339,9 +343,9 @@ c) Entre qualquer lugar do território da outra Parte contratante e qualquer lug
 
 2 - Os transportadores de uma Parte contratante têm o direito de embarcar a carga de regresso no território da outra Parte contratante.
 
-###### Art. 6.º Sem prejuízo do estabelecido no artigo 7.º, os transportes de mercadorias mencionados no artigo 5.º só podem ser efectuados mediante uma autorização prévia emitida pela autoridade competente do país de matrícula do veículo, em nome das autoridades competentes da outra Parte contratante.
+Art. 6.º Sem prejuízo do estabelecido no artigo 7.º, os transportes de mercadorias mencionados no artigo 5.º só podem ser efectuados mediante uma autorização prévia emitida pela autoridade competente do país de matrícula do veículo, em nome das autoridades competentes da outra Parte contratante.
 
-###### Art. 7.º - 1 - Não ficam sujeitos ao regime de autorização os transportes:
+Art. 7.º - 1 - Não ficam sujeitos ao regime de autorização os transportes:
 
 a) De bagagens em reboques atrelados aos veículos destinados ao transporte de passageiros;
 
@@ -363,7 +367,7 @@ i) De material destinado a gravações radiofónicas, a filmagens para o cinema 
 
 2 - A Comissão Mista referida no artigo 14.º pode alterar o âmbtio do regime de excepção previsto no número anterior.
 
-###### Art. 8.º - 1 - Sem prejuízo do estabelecido no número seguinte, as autorizações de transporte são emitidas dentro do limite do contingente estabelecido pelas autoridades competentes das Partes contratantes.
+Art. 8.º - 1 - Sem prejuízo do estabelecido no número seguinte, as autorizações de transporte são emitidas dentro do limite do contingente estabelecido pelas autoridades competentes das Partes contratantes.
 
 2 - Estão isentos do regime de contingentação:
 
@@ -373,31 +377,31 @@ b) Os transportes de mudanças.
 
 3 - A isenção estabelecida no número anterior pode ser alargada a outras categorias de transportes internacionais de mercadorias pela Comissão Mista mencionada no artigo 14.º
 
-###### Art. 9.º - 1 - Os pagamentos, os impostos e as taxas relativos aos veículos rodoviários e aos transportes são regularizados de acordo com o Protocolo mencionado no artigo 13.º do presente Acordo.
+Art. 9.º - 1 - Os pagamentos, os impostos e as taxas relativos aos veículos rodoviários e aos transportes são regularizados de acordo com o Protocolo mencionado no artigo 13.º do presente Acordo.
 
 2 - As contas e os pagamentos resultantes da realização do presente Acordo são regularizados segundo os acordos sobre pagamentos em vigor entre as Partes contratantes.
 
 3 - O carburante e outros produtos do mesmo tipo que se encontrem em reservatórios instalados em veículos e que façam parte integrante desses veículos não ficam submetidos às taxas e direitos aduaneiros.
 
-###### Art. 10.º - 1 - Cada uma das Partes contratantes compromete-se a não submeter os veículos matriculados no território da outra Parte contratante a condições técnicas e de exploração mais severas do que as impostas aos veículos no seu próprio território.
+Art. 10.º - 1 - Cada uma das Partes contratantes compromete-se a não submeter os veículos matriculados no território da outra Parte contratante a condições técnicas e de exploração mais severas do que as impostas aos veículos no seu próprio território.
 
 2 - Se o peso ou as dimensões do veículo ou da carga ultrapassarem os limites admitidos no território da outra Parte contratante, o veículo deverá ser munido de uma autorização especial emitida pela autoridade competente desta Parte contratante. Esta disposição aplica-se também às deslocações de equipamentos especiais.
 
 3 - No caso de autorização especial, ou outra, limitar a circulação a um itinerário determinado, o transporte só poderá efectuar-se nesse itinerário.
 
-###### Art. 11.º As autorizações e outros documentos exigidos de acordo com as disposições do presente Acordo devem encontrar-se a bordo do veículo e ser apresentados, sempre que for exigido pelas autoridades competentes para a sua verificação no território de cada Parte contratante.
+Art. 11.º As autorizações e outros documentos exigidos de acordo com as disposições do presente Acordo devem encontrar-se a bordo do veículo e ser apresentados, sempre que for exigido pelas autoridades competentes para a sua verificação no território de cada Parte contratante.
 
-###### Art. 12.º Os transportadores e os condutores de veículos de uma das Partes contratantes devem, sempre que se encontrem em território da outra Parte contratante, respeitar as prescrições em vigor e relativas, especialmente, aos transportes e à circulação rodoviária.
+Art. 12.º Os transportadores e os condutores de veículos de uma das Partes contratantes devem, sempre que se encontrem em território da outra Parte contratante, respeitar as prescrições em vigor e relativas, especialmente, aos transportes e à circulação rodoviária.
 
-###### Art. 13.º As duas Partes contratantes concordam quanto às modalidades da aplicação do presente Acordo no Protocolo assinado ao mesmo tempo que o Acordo.
+Art. 13.º As duas Partes contratantes concordam quanto às modalidades da aplicação do presente Acordo no Protocolo assinado ao mesmo tempo que o Acordo.
 
-###### Art. 14.º - 1 - A fim de permitir a boa execução das disposições do presente Acordo, as duas Partes contratantes instituem uma Comissão Mista.
+Art. 14.º - 1 - A fim de permitir a boa execução das disposições do presente Acordo, as duas Partes contratantes instituem uma Comissão Mista.
 
 2 - A dita Comissão reunir-se-á a pedido de uma das Partes, alternadamente no território de cada uma delas.
 
 3 - A Comissão Mista tem competência para alterar o Protocolo referido no artigo 13.º
 
-###### Art. 15.º - 1 - O presente Acordo será aprovado em conformidade com o direito de cada uma das Partes contratantes e entrará em vigor na data estabelecida por troca de notas a confirmar essa aprovação.
+Art. 15.º - 1 - O presente Acordo será aprovado em conformidade com o direito de cada uma das Partes contratantes e entrará em vigor na data estabelecida por troca de notas a confirmar essa aprovação.
 
 2 - O presente Acordo é estabelecido pelo prazo de um ano a partir da data da sua entrada em vigor e será prorrogado tacitamente de ano a ano, salvo denúncia, por meio de notificação de uma das Partes contratantes, pelo menos três meses antes do fim do ano em curso.
 

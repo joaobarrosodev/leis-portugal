@@ -48,36 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48497-1968-273611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f4955119547f5f412d9cf41383b3c03e90bf9f8a7d0ae04380467fc91908faf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c86295d83df52b91f1af6b040571e1e15e438960c7b88e0d46063630a718a79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Dupla Tributação
+- Evasão Fiscal
+- Imposto sobre o Rendimento
+- Lisboa
+- Portugal
+- Reino Unido
+relationships:
+- type: amended_by
+  target: pt:dre:273268:por
+  label: "Declarado ter sido omitido, pelo que foi promovida a sua publicação, o texto em inglês da Convenção entre a República\
+    \ Portuguesa e o Reino Unido da Grã-Bretanha e Irlanda do Norte para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal\
+    \ em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 27 de Março de 1968, aprovada, para ratificação, pelo\
+    \ presente diploma, pela DECL.DD10626.08.08.1968.PC, DG.IS [187] de 08.08.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1968-273268
+  date: '1968-08-08'
+- type: cites
+  target: pt:dre:159541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693241:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:08Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +121,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção entre a República Portuguesa e o Reino Unido da Grã-Bretanha e Irlanda do Norte para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 27 de Março de 1968, cujos textos em português e inglês vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção entre a República Portuguesa e o Reino Unido da Grã-Bretanha e Irlanda do Norte para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 27 de Março de 1968, cujos textos em português e inglês vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -168,7 +203,9 @@ i) A expressão «tráfego internacional» inclui qualquer viagem de um navio ou
 
 3) Para a aplicação da Convenção por um Estado Contratante, qualquer expressão não definida de outro modo terá, a não ser que o contexto exija interpretação diferente, o significado que lhe é atribuído pela legislação desse Estado Contratante relativa aos impostos que são objecto da Convenção.
 
-###### ARTIGO 4.º — Residência
+ARTIGO 4.º
+
+Residência
 
 1) Para efeitos desta Convenção, a expressão «residente de um Estado Contratante» significa qualquer pessoa que, por virtude da legislação desse Estado, está aí sujeita a imposto devido ao seu domicílio, à sua residência, ou local de direcção ou a qualquer outro critério de natureza similar e as expressões «residente do Reino Unido» e «residente de Portugal» serão interpretadas em conformidade.
 
@@ -186,7 +223,9 @@ d) Se for nacional de ambos os Estados Contratantes ou se não for nacional de n
 
 3) Quando, por virtude do disposto no parágrafo 1), uma pessoa, que não seja uma pessoa singular, for residente de ambos os Estados Contratantes, será considerada residente do Estado Contratante em que estiver situada a sua direcção efectiva.
 
-###### ARTIGO 5.º — Estabelecimento estável
+ARTIGO 5.º
+
+Estabelecimento estável
 
 1) Para efeitos desta convenção, a expressão «estabelecimento estável» significa uma instalação fixa onde a empresa exerça toda ou parte da sua actividade.
 
@@ -224,7 +263,9 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 6) O facto de uma sociedade residente de um Estado Contratante controlar ou ser controlada por uma sociedade residente do outro Estado Contratante ou que exerce a sua actividade nesse outro Estado (quer seja através de um estabelecimento estável, quer de outro modo) não é, por si, bastante para fazer de qualquer dessas sociedades estabelecimento estável da outra.
 
-###### ARTIGO 6.º — Rendimento dos bens imobiliários
+ARTIGO 6.º
+
+Rendimento dos bens imobiliários
 
 1) Os rendimentos provenientes de bens imobiliários podem ser tributados no Estado Contratante em que esses bens estiverem situados.
 
@@ -234,7 +275,9 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 4) O disposto nos parágrafos 1) e 3) aplica-se igualmente aos rendimentos provenientes dos bens imobiliários de uma empresa e aos rendimentos dos bens imobiliários utilizados para o exercício de profissões liberais.
 
-###### ARTIGO 7.º — Lucros industriais ou comerciais
+ARTIGO 7.º
+
+Lucros industriais ou comerciais
 
 1) Os lucros industriais ou comerciais de uma empresa de um Estado Contratante só podem ser tributados nesse Estado, a não ser que a empresa exerça a sua actividade no outro Estado Contratante por meio de um estabelecimento estável aí situado. Se a empresa exercer a sua actividade deste modo, os seus lucros industriais ou comerciais podem ser tributados no outro Estado, mas ùnicamente na medida em que forem imputáveis a esse estabelecimento estável.
 
@@ -246,13 +289,17 @@ e) Uma instalação fixa mantida ùnicamente para fazer publicidade, fornecer in
 
 5) A expressão «lucros industriais ou comerciais» significa os rendimentos obtidos por uma empresa do exercício de actividade comercial ou industrial, incluindo os rendimentos obtidos pela prestação de serviços de empregados ou outro pessoal e os dividendos, juros ou royalties conexionados efectivamente com a actividade comercial ou industrial exercida por meio de um estabelecimento estável que uma empresa de um Estado Contratante tenha no outro Estado Contratante; todavia, a expressão não inclui os devidendos, juros ou royalties não conexionados do modo referido e não inclui igualmente as remunerações por serviços pessoais, incluindo os serviços das profissões liberais.
 
-###### ARTIGO 8.º — Navegação marítima e aérea
+ARTIGO 8.º
+
+Navegação marítima e aérea
 
 1) Os lucros que um residente de um Estado Contratante obtém da exploração de navios ou aeronaves no tráfego internacional só podem ser tributados nesse Estado Contratante.
 
 2) O Acordo entre os Estados Contratantes para Evitar a Dupla Tributação dos Rendimentos Derivados do Transporte Marítimo e Aéreo, assinado em Lisboa em 31 de Julho de 1961, deixará de se aplicar aos impostos respeitantes a qualquer período a que seja aplicável esta Convenção relativamente a tais impostos, na medida em que isenta de imposto do Reino Unido ou de imposto português os lucros obtidos da exploração de navios ou aeronaves, respectivamente, por empresas portuguesas ou por empresas inglesas, tal como nele se encontram definidas.
 
-###### ARTIGO 9.º — Empresas associadas
+ARTIGO 9.º
+
+Empresas associadas
 
 Quando
 
@@ -260,7 +307,9 @@ a) uma empresa de um Estado Contratante participar directa ou indirectamente na 
 
 b) as mesmas pessoas participarem directa ou indirectamente na direcção, no contrôle ou no capital de uma empresa de um Estado Contratante e de uma empresa do outro Estado Contratante, e, em ambos os casos, as duas empresas, nas suas relações comerciais ou financeiras, estiverem ligadas por condições aceites ou impostas que defiram das que seriam estabelecidas entre empresas independentes, os lucros que, se não existissem essas condições, teriam sido obtidos por uma das empresas, mas não o foram por causa dessas condições, podem ser incluídos nos lucros dessa empresa e, consequentemente, tributados.
 
-###### ARTIGO 10.º — Dividendos
+ARTIGO 10.º
+
+Dividendos
 
 1) Os dividendos pagos por uma sociedade residente de um Estado Contratante a um residente do outro Estado Contratante podem ser tributados nesse outro Estado.
 
@@ -284,7 +333,9 @@ Para os fins deste parágrafo, a expressão «data relevante» significa a data 
 
 6) Quando uma sociedade residente de um Estado Contratante obtiver lucros ou rendimentos provenientes do outro Estado Contratante, este outro Estado não poderá exigir nenhum imposto sobre os dividendos pagos pela sociedade às pessoas não residentes desse outro Estado, nem sujeitar os lucros não distribuídos da sociedade a um imposto sobre os lucros não distribuídos, mesmo que os dividendos pagos ou os lucros não distribuídos consistam, total ou parcialmente, em lucros ou rendimentos provenientes desse outro Estado.
 
-###### ARTIGO 11.º — Juros
+ARTIGO 11.º
+
+Juros
 
 1) Os juros provenientes de um Estado Contratante e pagos a um residente do outro Estado Contratante podem ser tributados nesse outro Estado.
 
@@ -298,7 +349,7 @@ Para os fins deste parágrafo, a expressão «data relevante» significa a data 
 
 6) Quando, devido a relações especiais existentes entre o devedor e o credor ou entre ambos e qualquer outra pessoa, o montante dos juros pagos, tendo em conta o crédito pelo qual são pagos, exceder o montante que seria acordado entre o devedor e o credor na ausência de tais relações, as disposições deste artigo são aplicáveis apenas a este último montante. Neste caso, o excesso pode continuar a ser tributado de acordo com a legislação de cada Estado Contratante, tendo em conta as outras disposições desta Convenção.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 «Royalties»
 
@@ -314,7 +365,9 @@ Para os fins deste parágrafo, a expressão «data relevante» significa a data 
 
 6) Quando, devido a relações especiais existentes entre o devedor e o beneficiário das royalties ou entre ambos e qualquer outra pessoa, o montante das royalties pagas, tendo em conta a prestação pela qual são pagas, exceder o montante que seria acordado entre o devedor e o beneficiário na ausência de tais relações, as disposições deste artigo são aplicáveis apenas a este último montante. Neste caso, o excesso pode continuar a ser tributado de acordo com a legislação de cada Estado Contratante, tendo em conta as outras disposições desta Convenção.
 
-###### ARTIGO 13.º — Mais-valias
+ARTIGO 13.º
+
+Mais-valias
 
 1) Os ganhos provenientes da alienação de bens imobiliários, conforme são definidos no parágrafo 2) do artigo 6.º, podem ser tributados no Estado Contratante em que tais bens estiverem situados.
 
@@ -324,13 +377,17 @@ Para os fins deste parágrafo, a expressão «data relevante» significa a data 
 
 4) Os ganhos provenientes da alienação de quaisquer outros bens diferentes dos mencionados nos parágrafos 1) e 2) só podem ser tributados no Estado Contratante de que o alienante é residente.
 
-###### ARTIGO 14.º — Profissões Independentes
+ARTIGO 14.º
+
+Profissões Independentes
 
 1) Os rendimentos obtidos por um residente de um Estado Contratante pelo exercício de um profissão liberal ou de outras actividades independentes de carácter similar só podem ser tributados nesse Estado, a não ser que esse residente disponha, de forma habitual no outro Estado Contratante, de uma instalação fixa para o exercício das suas actividades. Se dispuser dessa instalação, os rendimentos podem ser tributados no outro Estado Contratante, mas ùnicamente na medida em que forem imputáveis a essa instalação fixa.
 
 2) A expressão «profissões liberais» abrange em especial as actividades independentes de carácter científico, literário, artístico, educativo ou pedagógico, bem como as actividades independentes de médicos, advogados, engenheiros, arquitectos, dentistas e contabilistas.
 
-###### ARTIGO 15.º — Empregos
+ARTIGO 15.º
+
+Empregos
 
 1) Com ressalva do disposto no artigo 17.º, os salários, ordenados e remunerações similares, que não sejam aquelas a que se aplica o artigo 18.º, obtidos de um emprego por um residente de um Estado Contratante só podem ser tributados nesse Estado, a não ser que o emprego seja exercido no outro Estado Contratante. Se o emprego for aí exercido, as remunerações correspondentes podem ser tributadas nesse outro Estado.
 
@@ -344,17 +401,23 @@ c) As remunerações não forem suportadas por um estabelecimento estável ou po
 
 3) Não obstante as disposições anteriores deste artigo, as remunerações de um emprego exercido a bordo de um navio ou de uma aeronave no tráfego internacional, podem ser tributadas no Estado Contratante em que estiver situada a direcção efectiva da empresa.
 
-###### ARTIGO 16.º — Artistas e desportistas
+ARTIGO 16.º
+
+Artistas e desportistas
 
 Não obstante o disposto nos artigos 14.º e 15.º, os rendimentos obtidos pelos profissionais de espectáculos, tais como artistas de teatro, cinema, rádio ou televisão e músicos, bem como pelos desportistas, provenientes das suas actividades pessoais exercidas nessa qualidade, podem ser tributados no Estado Contratante em que essas actividades forem exercidas.
 
-###### ARTIGO 17.º — Pensões
+ARTIGO 17.º
+
+Pensões
 
 1) As pensões e remunerações similares, que não sejam as pensões ou remunerações a que se aplica o artigo 18.º, pagas a um residentes de um Estado Contratante em consequência de um emprego anterior e as rendas pagas a esse residente só podem ser tributadas nesse Estado.
 
 2) O termo «renda» significa uma quantia fixa pagável periòdicamente, em datas estabelecidas, durante a vida ou durante um prazo determinado ou determinável, em cumprimento de obrigação resultante de entrega adequada de dinheiro ou de valores pecuniários.
 
-###### ARTIGO 18.º — Funções públicas
+ARTIGO 18.º
+
+Funções públicas
 
 1), a) Com ressalva do disposto na alínea b) deste parágrafo, as remunerações ou pensões pagas através de fundos públicos do Reino Unido ou da Irlanda do Norte ou de fundos de uma autarquia local do Reino Unido a uma pessoa singular, em consequência de serviços prestados ao Governo do Reino Unido ou da Irlanda do Norte ou a uma autarquia local do Reino Unido, no exercício de funções públicas, só podem ser tributadas no Reino Unido.
 
@@ -366,19 +429,25 @@ b) Se a pessoa singular tiver a nacionalidade do Reino Unido sem ter também a n
 
 3) O disposto nos parágrafos 1) e 2) não se aplica às remunerações ou pensões pagas em consequência de serviços prestados em relação com uma actividade comercial ou industrial.
 
-###### ARTIGO 19.º — Estudantes
+ARTIGO 19.º
+
+Estudantes
 
 1) As importâncias que um estudante ou um estagiário que é ou foi, imediatamente antes da sua permanência num dos Estados Contratantes residente do outro Estado Contratante e cuja permanência no Estado Contratante primeiramente mencionado tem como único fim aí prosseguir os seus estudos ou a sua formação receba para fazer face às despesas com a sua manutenção, estudos ou formação não são tributadas no Estado primeiramente mencionado, desde que provenham de fontes situadas fora desse Estado.
 
 2) Os estudantes de uma Universidade ou outro estabelecimento de ensino superior ou de ensino técnico de um Estado Contratante que tenha um emprego no outro Estado Contratante com vista a obter uma formação prática directamente relacionada com os seus estudos não são tributados nesse outro Estado pelos rendimentos desse emprego, desde que a respectiva duração não exceda 183 dias.
 
-###### ARTIGO 20.º — Rendimentos não expressamente mencionados
+ARTIGO 20.º
+
+Rendimentos não expressamente mencionados
 
 Os elementos do rendimento de um residente de um Estado Contratante que por eles esteja nesse Estado sujeito a imposto e que sejam rendimentos de espécie ou fontes não expressamente mencionados nos artigos anteriores desta Convenção só podem ser tributados nesse Estado.
 
 Não obstante, o disposto neste artigo não pode ser interpretado no sentido de afectar a tributação dos rendimentos imputáveis a um estabelecimento estável que um residente de um dos Estados Contratantes tem no outro Estado Contratante.
 
-###### ARTIGO 21.º — Deduções pessoais
+ARTIGO 21.º
+
+Deduções pessoais
 
 1) Com ressalva do disposto no parágrafo 3) deste artigo, as pessoas singulares residentes de Portugal têm direito às mesmas deduções pessoais, abatimentos e reduções, para efeitos fiscais, no Reino Unido, a que têm direito os súbditos britânicos não residentes do Reino Unido.
 
@@ -386,7 +455,9 @@ Não obstante, o disposto neste artigo não pode ser interpretado no sentido de 
 
 3) Uma pessoa singular residente de um Estado Contratante e cujos rendimentos provenientes do outro Estado Contratante são constituídos apenas por dividendos, juros ou royalties, ou apenas pelo conjunto destes rendimentos, não tem direito, em virtude do disposto nesta Convenção, nesse outro Estado Contratante, às deduções pessoais, abatimentos e reduções para efeitos fiscais às quais se refere este artigo.
 
-###### ARTIGO 22.º — Eliminação da dupla tributação
+ARTIGO 22.º
+
+Eliminação da dupla tributação
 
 1) Com ressalva do disposto na legislação do Reino Unido relativa à concessão de dedução no imposto do Reino Unido do imposto pagável num território fora do Reino Unido e que não afectará o princípio geral aqui estabelecido, o imposto português pagável por força da legislação de Portugal e de acordo com a presente Convenção, quer directamente, quer por dedução, sobre os lucros, rendimentos ou ganhos tributáveis de fontes situadas em Portugal, excluído, no caso de dividendos, o imposto pagável relativamente aos lucros de que aqueles foram distribuídos, será deduzido do imposto do Reino Unido calculado sobre os lucros, rendimentos ou ganhos tributáveis em relação aos quais o imposto português for calculado.
 
@@ -418,7 +489,9 @@ b) A fracção do imposto português, calculado antes da dedução, que a import
 
 5) Para efeito deste artigo, os lucros ou remunerações dos serviços pessoais, incluindo os serviços das profissões liberais, prestados num dos Estados Contratantes serão considerados como rendimento que tem a sua fonte nesse Estado e os serviços de uma pessoa singular total ou principalmente prestados em navios ou aeronaves serão considerados como realizados no Estado Contratante em que está situada a direcção efectiva da empresa que explora os navios ou as aeronaves.
 
-###### ARTIGO 23.º — Não discriminação
+ARTIGO 23.º
+
+Não discriminação
 
 1) Os nacionais de um Estado Contratante não ficarão sujeitos no outro Estado Contratante a nenhuma tributação ou obrigação com ela conexa diferentes ou mais gravosas do que aquelas a que estejam ou possam estar sujeitos os nacionais desse outro Estado que se encontrem na mesma situação.
 
@@ -438,7 +511,9 @@ b) Em relação a Portugal, todas as pessoas singulares que tenham a nacionalida
 
 5) Este artigo não poderá ser interpretado no sentido de obrigar um Estado Contratante a conceder às pessoas singulares neles não residentes as deduções pessoais, abatimentos e reduções para efeitos fiscais que forem concedidos a pessoas singulares nele residentes, nem no sen tido de restringir o direito de um Estado Contratante de tributar, de acordo com o artigo 10.º, os dividendos pagos a uma sociedade residente do outro Estado Contratante.
 
-###### ARTIGO 24.º — Procedimento amigável
+ARTIGO 24.º
+
+Procedimento amigável
 
 1) Quando um residente de um Estado Contratante considerar que as medidas tomadas por um Estado Contratante ou por ambos os Estados Contratantes conduzem ou poderão conduzir, em relação a si, a uma tributação não conforme com esta Convenção, poderá, independentemente dos recursos estabelecidos pela legislação nacional desses Estados, submeter o seu caso à apreciação da autoridade competente do Estado Contratante de que é residente.
 
@@ -448,7 +523,9 @@ b) Em relação a Portugal, todas as pessoas singulares que tenham a nacionalida
 
 4) As autoridades competentes dos Estados Contratantes poderão comunicar directamente entre si, a fim de chegarem a acordo nos termos indicados nos parágrafos anteriores ou com o objectivo de executar o disposto na Convenção.
 
-###### ARTIGO 25.º — Troca de informações
+ARTIGO 25.º
+
+Troca de informações
 
 1) As autoridades competentes dos Estados Contratantes trocarão entre si as informações necessárias para aplicar esta Convenção e as leis internas dos Estados Contratantes relativas aos impostos abrangidos por esta Convenção, na medida em que a tributação nelas prevista for conforme com esta Convenção. Todas as informações deste modo trocadas serão consideradas secretas e só poderão ser comunicadas às pessoas ou autoridades, incluindo os tribunais e as autoridades administrativas encarregadas de julgamentos fiscais (administrative bodies), encarregadas do lançamento ou cobrança dos impostos abrangidos por esta Convenção, ou do exercício da acção criminal (prosecution) ou das decisões de recursos a eles relativos.
 
@@ -462,17 +539,23 @@ c) De transmitir informações reveladoras de segredas comerciais, de negócios,
 
 3) As autoridades competentes dos Estados Contratantes comunicarão entre si as modificações das respectivas legislações fiscais.
 
-###### ARTIGO 26.º — Funcionários diplomáticos e consulares
+ARTIGO 26.º
+
+Funcionários diplomáticos e consulares
 
 O disposto na presente Convenção não prejudicará os privilégios fiscais de que beneficiem os funcionários diplomáticos ou consulares em virtude de regras gerais de direito internacional ou de disposições de acordos especiais.
 
-###### ARTIGO 27.º — Extensão territorial
+ARTIGO 27.º
+
+Extensão territorial
 
 1) Esta Convenção poderá tornar-se extensiva, nos termos presentes ou com as necessárias modificações, a qualquer território por cujas relações internacionais o Reino Unido seja responsável ou a qualquer parte de Portugal que está implìcitamente excluída da aplicação da Convenção e que, em qualquer dos casos, exija impostos de carácter substancialmente análogo àqueles a que se aplica a Convenção. Tal extensão tornar-se-á efectiva na data, com as modificações e nas condições fixadas de comum acordo entre os Estados Contratantes por troca de notas diplomáticas.
 
 2) A não ser que outra coisa seja convencionada entre os dois Estados Contratantes, quando a Convenção for denunciada por um deles segundo o artigo 29.º, deixará de se aplicar, nas condições previstas nesse artigo, a todo o território ou parte a que, de acordo com este artigo, se tenha tornado extensiva.
 
-###### ARTIGO 28.º — Entrada em vigor
+ARTIGO 28.º
+
+Entrada em vigor
 
 1) Esta Convenção será ratificada e os instrumentos de ratificação serão trocados em Londres o mais cedo possível.
 
@@ -488,7 +571,9 @@ b) Em Portugal:
 
 Relativamente ao imposto português sobre os lucros, rendimentos ou mais-valias produzidos em ou depois de 1 de Janeiro do ano civil imediatamente seguinte àquele em que a Convenção entrar em vigor.
 
-###### ARTIGO 29.º — Denúncia
+ARTIGO 29.º
+
+Denúncia
 
 Esta Convenção estará em vigor enquanto não for denunciada por um dos Estados Contratantes. Qualquer dos Estados Contratantes pode denunciar a Convenção por via diplomática com um aviso prévio mínimo de seis meses antes do fim de qualquer ano civil depois de 1968. Nesse caso, a Convenção deixará de se aplicar.
 

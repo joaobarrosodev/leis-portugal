@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28800/29462946.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1977-279660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6053543036e3ceecb959a85caa1415edc0d4b486fbb4219ff113991946fd1c04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dd971fa2e668cd7fe2f38e1553b94f9cf5764a00d0bdf5077660c45fc31e159
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Lotações
+- Direcção Geral do Pessoal do MAR
+- Embarcação
+- Lotação
+- Marinha Mercante
+- Secretário de Estado da Marinha Mercante
 relationships:
 - type: amended_by
   target: pt:dre:171371:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298234:por
+  label: "Prorrogado até 30.06.1978 o prazo fixado na parte final do nº 1 do art. 1º pelo DEC LEI.158/78.01.07.1978.MTC, DR.IS\
+    \ [149] de 01.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1978-298234
+  date: '1978-07-01'
+- type: cites
+  target: pt:dre:335714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:171371:por
+  label: "Revogado pelo DEC LEI.457/85.30.10.1985.MM, DR.IS [250] de 30.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1985-171371
+  date: '1985-10-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:40Z'
   warnings: []
   errors: []
 ---
@@ -104,24 +129,24 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As lotações das embarcações de comércio, registadas em portos nacionais, para as áreas de navegação de longo curso, cabotagem, costeira internacional e costeira nacional, são fixadas ou alteradas por despacho do Secretário de Estado da Marinha Mercante, precedendo parecer da Direcção-Geral do Pessoal do Mar, a emitir num prazo de trinta dias após a recepção das propostas.
+Artigo 1.º - 1 - As lotações das embarcações de comércio, registadas em portos nacionais, para as áreas de navegação de longo curso, cabotagem, costeira internacional e costeira nacional, são fixadas ou alteradas por despacho do Secretário de Estado da Marinha Mercante, precedendo parecer da Direcção-Geral do Pessoal do Mar, a emitir num prazo de trinta dias após a recepção das propostas.
 
 2 - A Direcção-Geral do Pessoal do Mar, para a elaboração do parecer referido no número anterior, ouvirá a Comissão de Lotações, criada ao abrigo do [Decreto-Lei n.º 60/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1973-684673), de 24 de Fevereiro.
 
-###### Art. 2.º - 1 - No prazo de trinta dias, a contar da data da publicação deste diploma, deverão as empresas públicas ou com maioria de capitais públicos apresentar propostas para a revisão das lotações das embarcações de comércio que compõem as respectivas frotas.
+Art. 2.º - 1 - No prazo de trinta dias, a contar da data da publicação deste diploma, deverão as empresas públicas ou com maioria de capitais públicos apresentar propostas para a revisão das lotações das embarcações de comércio que compõem as respectivas frotas.
 
 2 - Para as empresas não abrangidas pelo disposto no número anterior é facultativa a apresentação de propostas para a revisão de lotações.
 
-###### Art. 3.º O número de tripulantes a embarcar só poderá exceder a lotação fixada nos termos do artigo 1.º, mediante a autorização do Secretário de Estado da Marinha Mercante.
+Art. 3.º O número de tripulantes a embarcar só poderá exceder a lotação fixada nos termos do artigo 1.º, mediante a autorização do Secretário de Estado da Marinha Mercante.
 
-###### Art. 4.º Nos navios referidos no artigo 1.º é vedado o embarque a quem não faça parte da tripulação ou não viaje como passageiro, em viagem normal ou de cruzeiro, com passagem integralmente paga, salvo com despacho de autorização do Secretário de Estado da Marinha Mercante.
+Art. 4.º Nos navios referidos no artigo 1.º é vedado o embarque a quem não faça parte da tripulação ou não viaje como passageiro, em viagem normal ou de cruzeiro, com passagem integralmente paga, salvo com despacho de autorização do Secretário de Estado da Marinha Mercante.
 
-###### Art. 5.º O regime estabelecido no presente diploma manter-se-á em vigor pelo prazo de um ano ou até à revisão da legislação geral sobre lotações.
+Art. 5.º O regime estabelecido no presente diploma manter-se-á em vigor pelo prazo de um ano ou até à revisão da legislação geral sobre lotações.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Novembro de 1977.**
+Promulgado em 30 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

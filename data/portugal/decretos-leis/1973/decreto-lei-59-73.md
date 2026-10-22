@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1973-684669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc5e8d4258c3c7581c08da25c36e67a951db41517f51a204fa6259f6b0450a22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6de6719c3a73eb0f70694c28b104c96cad938beb00b2895291e79fc3331a34b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditor
+- Criação de Lugares
+- Marinha
+- Quadro de Pessoal
+- Tribunal Militar
+relationships:
+- type: cites
+  target: pt:dre:398082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:05Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +105,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o segundo cargo de auditor, juiz de direito sem graduação militar, junto do Tribunal Militar da Marinha, observando-se quanto à nomeação, funções, direitos e deveres as normas que para o único na lei se prevêem.
+Artigo 1.º É criado o segundo cargo de auditor, juiz de direito sem graduação militar, junto do Tribunal Militar da Marinha, observando-se quanto à nomeação, funções, direitos e deveres as normas que para o único na lei se prevêem.
 
-###### Art. 2.º Os juizes auditores de marinha distribuirão entre si, quanto possível em igualdade, as funções que por lei são cometidas àqueles cargos.
+Art. 2.º Os juizes auditores de marinha distribuirão entre si, quanto possível em igualdade, as funções que por lei são cometidas àqueles cargos.
 
-###### Art. 3.º Os juizes auditores de marinha substituem-se reciprocamente, e, se ambos estiverem impedidos, serão substituídos, em funções de julgamento, pelos juizes corregedores do tribunal criminal que o presidente da Relação de Lisboa designar.
+Art. 3.º Os juizes auditores de marinha substituem-se reciprocamente, e, se ambos estiverem impedidos, serão substituídos, em funções de julgamento, pelos juizes corregedores do tribunal criminal que o presidente da Relação de Lisboa designar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo.
 
-**Promulgado em 16 de Fevereiro de 1973.**
+Promulgado em 16 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

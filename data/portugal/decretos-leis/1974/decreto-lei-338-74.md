@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 166/1974, 1º Suplemento, Série I de 1974-07-18
   number: '166'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 826-(1) a 826-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/16601/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1974-621371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9036c5d625ed1d262a1ae88e99a5c7ac5e89d8a6d6d23f592f4f449066b66f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed1644f1d7252f5e35db17b16d3afd1ac3ddc9736705ca55cd5468d43d97edaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Governo Provisório
+- Ministério da Coordenação Económica
+- Ministério da Economia
+- Ministério das Finanças
+- Orgânica
+- Secretaria de Estado da Agricultura
+- Secretaria de Estado da Indústria e Energia
+- Secretaria de Estado das Finanças
+- Secretaria de Estado das Pescas
+- Secretaria de Estado do Abastecimento e Preços
+- Secretaria de Estado do Comércio Externo e Turismo
+- Secretaria de Estado do Orçamento
+- Secretaria de Estado do Planeamento Económico
+- Secretaria de Estado do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:316879:por
+  label: "Reajustada a orgânica do Ministério da Finanças, criado pelo art. 2º do presente diploma, pelo DEC LEI.230/75.15.05.1975.MF,\
+    \ DG.IS [112-SUPL] de 15.05.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1975-316879
+  date: '1975-05-15'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:43Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +131,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica extinto o Ministério da Coordenação Económica, criado pelo artigo 1.º, n.º 1, alínea e), do [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio.
+Artigo 1.º Fica extinto o Ministério da Coordenação Económica, criado pelo artigo 1.º, n.º 1, alínea e), do [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio.
 
-###### Art. 2.º Os assuntos que competiam ao Ministério da Coordenação Económica ficarão, consoante a sua natureza, a pertencer aos Ministérios das Finanças e Economia, que assim ficam criados.
+Art. 2.º Os assuntos que competiam ao Ministério da Coordenação Económica ficarão, consoante a sua natureza, a pertencer aos Ministérios das Finanças e Economia, que assim ficam criados.
 
-###### Art. 3.º É extinta a Secretaria de Estado das Finanças, ficando o Ministério das Finanças com a seguinte composição:
+Art. 3.º É extinta a Secretaria de Estado das Finanças, ficando o Ministério das Finanças com a seguinte composição:
 
 a) Secretaria de Estado do Orçamento;
 
@@ -111,7 +143,7 @@ b) Secretaria de Estado do Tesouro;
 
 c) Secretaria de Estado do Planeamento Económico.
 
-###### Art. 4.º O Ministério da Economia ficará a compreender as seguintes Secretarias de Estado:
+Art. 4.º O Ministério da Economia ficará a compreender as seguintes Secretarias de Estado:
 
 a) Indústria e Energia;
 
@@ -123,14 +155,14 @@ d) Abastecimento e Preços;
 
 e) Pescas.
 
-###### Art. 5.º Fica sancionada a investidura dos Ministros das Finanças e Economia nas pastas de que são titulares por força deste diploma.
+Art. 5.º Fica sancionada a investidura dos Ministros das Finanças e Economia nas pastas de que são titulares por força deste diploma.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto de Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Mário Firmino Miguel - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - Mário Soares- José Augusto Fernandes - Vitorino Magalhães Godinho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo - José Eduardo Fernandes de Sanches Osório.
 
-**Promulgado em 18 de Julho de 1974.**
+Promulgado em 18 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

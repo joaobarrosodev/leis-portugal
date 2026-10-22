@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1970-142171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ece40b2214604b2ffc5f7b9d75399b01bb2aca82d92422615bd44dc1097a863
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41a641db969b538183623e828699dc60d3f7e9937213cbcd63a44d493983962c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Algarve
+- Contrato de Concessão
+- Contravenção
+- Definição de Competências
+- Exploração Portuária
+- Fiscalização
+- Isenção Fiscal
+- Marina
+- Ministro das Comunicações
+- Ministro das Obras Públicas
+- Multa
+- Navegação de Recreio
+- Obras Públicas
+- Porto
+- Quarteira
+- Sanção
 relationships:
 - type: amended_by
   target: pt:dre:301782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301782:por
+  label: "Alterado o art. 4.º bem como as bases XXV e XXXV do contrato de concessão anexo e substituída a planta anexa ao\
+    \ contrato de concessão a que se refere o n.º 1 do art. 5.º, todos do presente diploma, pelo DEC LEI.102/2004.07.05.2004.MOPTH,\
+    \ DR.IS-A [107] de 07.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2004-301782
+  date: '2004-05-07'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495311:por
+  label: "Revogado o n&#186; 2 do art. 10&#186; (corpo) e o n&#186; 2 da Base XVII do Contrato de Concess&#227;o anexo pelo\
+    \ DEC LEI.34/91.1991.01.17.MOPTC DR.IS-A [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1991-495311
+  date: '1991-01-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:34Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +135,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Fica o Governo autorizado a conceder, nos termos de presente decreto-lei e das bases anexas, que dele se consideram parte integrante, a construção e exploração de um porto destinado ao serviço da navegação de recreio, junto da povoação de Quarteira, no Algarve, com vista ao aproveitamento turístico da região.
+Artigo 1.º - 1. Fica o Governo autorizado a conceder, nos termos de presente decreto-lei e das bases anexas, que dele se consideram parte integrante, a construção e exploração de um porto destinado ao serviço da navegação de recreio, junto da povoação de Quarteira, no Algarve, com vista ao aproveitamento turístico da região.
 
 2. Sem prejuízo dos fins de turismo, poderá o porto de recreio ser parcialmente utilizado pela navegação de pesca, de carácter artesanal, em condições a estabelecer entre o Estado e a concessionária.
 
-###### Art. 2.º A concessão será outorgada à Lusotur - Sociedade Financeira de Turismo, S. A. R. L.
+Art. 2.º A concessão será outorgada à Lusotur - Sociedade Financeira de Turismo, S. A. R. L.
 
-###### Art. 3.º - 1. No contrato administrativo de concessão outorgará, por parte do Estado, o Ministro das Obras Públicas e das Comunicações.
+Art. 3.º - 1. No contrato administrativo de concessão outorgará, por parte do Estado, o Ministro das Obras Públicas e das Comunicações.
 
 2. Os poderes do concedente, no que respeita a esta concessão, serão exercidos, depois de ouvidos o Ministro da Marinha e a Secretaria de Estado da Informação e Turismo:
 
@@ -115,33 +149,33 @@ a) Quanto à construção do porto, pelo Ministro das Obras Públicas;
 
 b) Quanto à exploração do porto, pelo Ministro das Comunicações.
 
-###### Art. 4.º O prazo da concessão é de sessenta anos, contados a partir da data da celebração do contrato.
+Art. 4.º O prazo da concessão é de sessenta anos, contados a partir da data da celebração do contrato.
 
-###### Art. 5.º - 1. Considera-se incorporada no domínio público do Estado, a partir do início da exploração da concessão, independentemente de qualquer formalidade, numa zona denominada «zona dominial», constituída pelos terrenos da concessionária alagados pelas águas do mar, bem como os utilizados na construção dos cais e para instalação dos serviços públicos directamente afectados à exploração portuária, conforme planta anexa ao contrato de concessão.
+Art. 5.º - 1. Considera-se incorporada no domínio público do Estado, a partir do início da exploração da concessão, independentemente de qualquer formalidade, numa zona denominada «zona dominial», constituída pelos terrenos da concessionária alagados pelas águas do mar, bem como os utilizados na construção dos cais e para instalação dos serviços públicos directamente afectados à exploração portuária, conforme planta anexa ao contrato de concessão.
 
 2. Poderão ainda ser integrados na zona dominial, se nisso acordarem o Estado e a concessionária, terrenos ou estabelecimentos que interessem ao exercício de actividades comerciais ou industriais directamente relacionadas com a exploração portuária.
 
-###### Art. 6.º - 1. O direito de exploração do porto de recreio abrange os poderes de uso e fruição, por parte da concessionária, sobre a zona dominial:
+Art. 6.º - 1. O direito de exploração do porto de recreio abrange os poderes de uso e fruição, por parte da concessionária, sobre a zona dominial:
 
 2. No termo da concessão, a zona dominial reverterá gratuitamente para a posse do Estado.
 
-###### Art. 7.º - 1. Os terrenos circundantes da zona dominial, pertencentes em propriedade privada à Lusotur, não ficam sujeitos às servidões administrativas e restrições de utilidade pública estabelecidas na lei geral para as margens privadas, podendo ser alienados em parcelas e considerando-se constitutivas de direitos as licenças para neles construir.
+Art. 7.º - 1. Os terrenos circundantes da zona dominial, pertencentes em propriedade privada à Lusotur, não ficam sujeitos às servidões administrativas e restrições de utilidade pública estabelecidas na lei geral para as margens privadas, podendo ser alienados em parcelas e considerando-se constitutivas de direitos as licenças para neles construir.
 
 2. A aprovação do plano de urbanização relativo à margem privada circundante da zona dominial compete ao Ministro das Obras Públicas, ouvidas as Direcções-Gerais dos Serviços de Urbanização, dos Serviços Hidráulicos e das Alfândegas, considerando-se concedida se, no prazo de noventa dias a contar da entrega do respectivo projecto, não recair sobre este despacho definitivo.
 
 3. A atribuição das licenças de construção, de harmonia com o plano de urbanização aprovado, compete ùnicamente à câmara municipal do concelho onde o terreno se situar.
 
-###### Art. 8.º - 1. A concessão entender-se-á outorgada sem prejuízo da fiscalização a exercer, nos termos da lei, na zona dominial e fora dela, pelas autoridades competentes.
+Art. 8.º - 1. A concessão entender-se-á outorgada sem prejuízo da fiscalização a exercer, nos termos da lei, na zona dominial e fora dela, pelas autoridades competentes.
 
 2. Aos terrenos privados circundantes da zona dominial não se aplica o disposto nos artigos 162.º a 164.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, devendo a fiscalização aduaneira fora das vias públicas exercer-se por via marítima.
 
-###### Art. 9.º Os limites máximos das taxas a cobrar pela concessionária pela prestação de serviços à navegação e pela utilização de terrenos ou instalações na zona dominial, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo, sob proposta da concessionária.
+Art. 9.º Os limites máximos das taxas a cobrar pela concessionária pela prestação de serviços à navegação e pela utilização de terrenos ou instalações na zona dominial, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo, sob proposta da concessionária.
 
-###### Art. 10.º - 1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
+Art. 10.º - 1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
 
 2. Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de pena de multa até 500$00, acrescida de 1/3 por cada reincidência, cujo produto reverterá para o Estado.
 
-###### Art. 11.º - 1. A concessionária gozará, relativamente ao objecto da concessão, dos seguintes benefícios:
+Art. 11.º - 1. A concessionária gozará, relativamente ao objecto da concessão, dos seguintes benefícios:
 
 a) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;
 
@@ -151,13 +185,13 @@ b) Isenção de direitos de importação relativos aos materiais e equipamentos 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 28 de Abril de 1970.**
+Promulgado em 28 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
-## Anexo ao Decreto-Lei n.º 215/70
+Anexo ao Decreto-Lei n.º 215/70
 
 Bases do contrato de concessão de um porto de recreio
 
@@ -553,6 +587,6 @@ BASE XXXVII
 
 Ministério das Obras Públicas, 28 de Abril de 1970. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/11400/06310637.pdf))](https://files.diariodarepublica.pt/1s/1970/05/11400/06310637.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/11400/06310637.pdf)
 
 Ministério das Obras Públicas, 28 de Abril de 1970. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

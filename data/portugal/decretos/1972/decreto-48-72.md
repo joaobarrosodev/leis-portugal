@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/02/03200/01560157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48-1972-398103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b020c364b7fbfa6b453567e9b38f6cb79175b0cae0f09ddbbaba03bd58d90cb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fc1fef9c351c67d2d7ea060b8d2f47897fa86f248cba7f699ab5c5baeba9ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,29 @@ relationships:
   target: pt:dre:409295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409295:por
+  label: Revogado elo(a) Decreto n.º 786/76 - Diário da República n.º 256/1976, Série I de 1976-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/786-1976-409295
+  date: '1976-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:51Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +110,13 @@ Considerando o disposto nos artigos 1.º, 6.º, 8.º, 9.º e 10.º da [Lei n.º 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a instalação da Bateria Antiaérea do Torneiro, no concelho de Oeiras, indicados na carta a que alude o artigo 9.º, constituindo duas zonas definidas como segue:
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a instalação da Bateria Antiaérea do Torneiro, no concelho de Oeiras, indicados na carta a que alude o artigo 9.º, constituindo duas zonas definidas como segue:
 
 a) 1.ª zona. - Terrenos situados num círculo de raio igual a 200 m, com o centro no posto de comando da Bateria;
 
 b) 2.ª zona. - Terrenos situados na área confinante com a anterior e limitada pela circunferência com o raio de 500 m, concêntrica com o círculo mencionado na alínea a).
 
-###### Art. 2.º A área descrita na alínea a) do artigo anterior fica sujeita a servidão militar, nos termos dos artigos 8.º e 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+Art. 2.º A área descrita na alínea a) do artigo anterior fica sujeita a servidão militar, nos termos dos artigos 8.º e 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -119,19 +132,19 @@ f) Trabalhos de levantamento fotográfico ou topográfico;
 
 g) Instalação de linhas ou cabos de transporte de energia eléctrica ou de ligações telefónicas, aéreas ou subterrâneas.
 
-###### Art. 3.º Na 2.ª zona de servidão militar definida na alínea b) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer trabalhos ou actividades discriminados nas alíneas a), b), d), e), f) e g) do artigo anterior, sendo, porém, dispensadas destas licenças as construções ou a plantação de árvores e arbustos não constituindo bosques ou matas, cujas alturas não excedam as indicadas no quadro anexo e se situem nas áreas definidas pelos azimutes cartográficos e arcos de circunferência também ali indicados.
+Art. 3.º Na 2.ª zona de servidão militar definida na alínea b) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer trabalhos ou actividades discriminados nas alíneas a), b), d), e), f) e g) do artigo anterior, sendo, porém, dispensadas destas licenças as construções ou a plantação de árvores e arbustos não constituindo bosques ou matas, cujas alturas não excedam as indicadas no quadro anexo e se situem nas áreas definidas pelos azimutes cartográficos e arcos de circunferência também ali indicados.
 
-###### Art. 4.º Em ambas as zonas de servidão militar fica igualmente proibido o sobrevoo de aviões, balões e outras aeronaves a altitude inferior a 3000 m.
+Art. 4.º Em ambas as zonas de servidão militar fica igualmente proibido o sobrevoo de aviões, balões e outras aeronaves a altitude inferior a 3000 m.
 
-###### Art. 5.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência nos artigos 2.º e 3.º
+Art. 5.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados, conceder as licenças a que se faz referência nos artigos 2.º e 3.º
 
-###### Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comandante da Bateria, ao governador da Região Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
+Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comandante da Bateria, ao governador da Região Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
 
-###### Art. 7.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Lisboa.
+Art. 7.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Lisboa.
 
-###### Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro do Exército; das decisões respeitantes a demolições previstas no artigo 7.º cabe recurso para o governador militar de Lisboa, e da decisão deste para o Ministro do Exército.
+Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro do Exército; das decisões respeitantes a demolições previstas no artigo 7.º cabe recurso para o governador militar de Lisboa, e da decisão deste para o Ministro do Exército.
 
-###### Art. 9.º As áreas descritas no artigo 1.º serão demarcadas na carta topográfica de Portugal na escala 1:10000, n.º 34-c/2-5, do Instituto Geográfico e Cadastral, com a classificação de «Reservado», da qual se destinam cópias a cada um dos departamentos seguintes:
+Art. 9.º As áreas descritas no artigo 1.º serão demarcadas na carta topográfica de Portugal na escala 1:10000, n.º 34-c/2-5, do Instituto Geográfico e Cadastral, com a classificação de «Reservado», da qual se destinam cópias a cada um dos departamentos seguintes:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -147,22 +160,22 @@ Uma ao Ministério das Obras Públicas;
 
 Duas ao Ministério do Interior.
 
-###### Art. 10.º Este decreto entra imediatamente em vigor.
+Art. 10.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches.
 
-**Promulgado em 24 de Janeiro de 1972.**
+Promulgado em 24 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro a que se refere o artigo 3.º
 
 Bateria Antiaérea do Torneiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/02/03200/01560157.pdf))](https://files.diariodarepublica.pt/1s/1972/02/03200/01560157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/02/03200/01560157.pdf)
 
 Nota. - As alturas referem-se ao terreno natural existente à data da publicação deste decreto.
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

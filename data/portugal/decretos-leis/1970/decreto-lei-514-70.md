@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1970-147790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c13e67453beffe84fc91e974e0c66fdb99f505514d86c81ffb100922a92a107d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 154a3c56c5084c048231b0eef75c7953f2c5be95609968cb9eabb5e5f00bf1a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Funcionário Público
+- Ministério da Justiça
+- Pessoal Civil
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:51Z'
   warnings: []
   errors: []
 ---
@@ -95,30 +106,30 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os mapas anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, são alterados nos termos seguintes:
+Artigo 1.º Os mapas anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, são alterados nos termos seguintes:
 
 Mapa do pessoal civil dos Ministérios civis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/25300/16331634.pdf))](https://files.diariodarepublica.pt/1s/1970/10/25300/16331634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/25300/16331634.pdf)
 
 Mapa do pessoal civil dos departamentos militares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/10/25300/16331634.pdf))](https://files.diariodarepublica.pt/1s/1970/10/25300/16331634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/25300/16331634.pdf)
 
-###### Art. 2.º Os novos ordenados constantes do artigo anterior começarão a ser pagos a partir do dia 1 do mês imediato ao da publicação do presente diploma.
+Art. 2.º Os novos ordenados constantes do artigo anterior começarão a ser pagos a partir do dia 1 do mês imediato ao da publicação do presente diploma.
 
-###### Art. 3.º A indicação de diuturnidades constante dos mapas anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) é suficiente para reconhecimento do respectivo direito aos funcionários abrangidos, mesmo que a lei orgânica dos respectivos serviços o não conceda expressamente.
+Art. 3.º A indicação de diuturnidades constante dos mapas anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) é suficiente para reconhecimento do respectivo direito aos funcionários abrangidos, mesmo que a lei orgânica dos respectivos serviços o não conceda expressamente.
 
-###### Art. 4.º O pessoal de enfermagem dos serviços dependentes do Ministério da Justiça só tem direito aos ordenados fixados no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quando habilitado com os cursos correspondentes às funções que exerce.
+Art. 4.º O pessoal de enfermagem dos serviços dependentes do Ministério da Justiça só tem direito aos ordenados fixados no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quando habilitado com os cursos correspondentes às funções que exerce.
 
-###### Art. 5.º A partir do ano escolar de 1970-1971 os professores provisórios de Educação Física do ciclo preparatório sem habilitação própria perceberão o ordenado correspondente à letra N.
+Art. 5.º A partir do ano escolar de 1970-1971 os professores provisórios de Educação Física do ciclo preparatório sem habilitação própria perceberão o ordenado correspondente à letra N.
 
-###### Art. 6.º Os encargos resultantes da execução do presente diploma serão suportados no ano económico corrente por conta das correspondentes dotações orçamentais até que se proceda às correcções no orçamento que se mostrarem necessárias.
+Art. 6.º Os encargos resultantes da execução do presente diploma serão suportados no ano económico corrente por conta das correspondentes dotações orçamentais até que se proceda às correcções no orçamento que se mostrarem necessárias.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

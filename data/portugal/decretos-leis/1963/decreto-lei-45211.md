@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45211-1963-694009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fda05df1864faa80d25b3dfbaf8445477cfa941bd20efe87473b9de90adf547
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f801e52724929c4cdf94e8c5a5fd6a6bb79c33866efc781c9c56ef25efc239a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Doação
+- Fundação Calouste Gulbenkian
+- Museu de Marinha
+- Obras Públicas
+- Planetário Calouste Gulbenkian
+relationships:
+- type: cites
+  target: pt:dre:416615:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:04Z'
   warnings: []
   errors: []
 ---
@@ -91,28 +100,28 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado e integrado no Museu de Marinha um centro científico e cultural denominado «Planetário Calouste Gulbenkian», cujo equipamento será totalmente custeado por força da doação de 7700 contos efectuada para tal fim pela Fundação Calouste Gulbenkian, tomando o Estado à sua conta as obras necessárias para a sua instalação e as subsequentes despesas de manutenção e funcionamento do planetário.
+Artigo 1.º É criado e integrado no Museu de Marinha um centro científico e cultural denominado «Planetário Calouste Gulbenkian», cujo equipamento será totalmente custeado por força da doação de 7700 contos efectuada para tal fim pela Fundação Calouste Gulbenkian, tomando o Estado à sua conta as obras necessárias para a sua instalação e as subsequentes despesas de manutenção e funcionamento do planetário.
 
 § único. Sem prejuízo do disposto no artigo 5.º, a doação da Fundação Calouste Gulbenkian efectivar-se-á, até ao referido limite de 7700 contos, à medida que o pagamento do preço do equipamento tenha de ser realizado de acordo com o respectivo contrato de fornecimento.
 
-###### Art. 2.º A Delegação das Novas Instalações para os Serviços Públicos, da Direcção-Geral dos Edifícios e Monumentos Nacionais, de acordo com a Fundação Calouste Gulbenkian e ouvido o Ministério da Marinha, elaborará os estudos e projectos necessários, a submeter à aprovação do Ministro das Obras Públicas, e promoverá a sua execução.
+Art. 2.º A Delegação das Novas Instalações para os Serviços Públicos, da Direcção-Geral dos Edifícios e Monumentos Nacionais, de acordo com a Fundação Calouste Gulbenkian e ouvido o Ministério da Marinha, elaborará os estudos e projectos necessários, a submeter à aprovação do Ministro das Obras Públicas, e promoverá a sua execução.
 
-###### Art. 3.º As despesas a efectuar com as obras a cargo do Estado, nos termos do artigo 1.º, incluindo a elaboração dos estudos e projectos, não excederão o montante global de 4000 contos, e serão custeadas pelo Tesouro, com a comparticipação de 1000 contos do Fundo de Desemprego.
+Art. 3.º As despesas a efectuar com as obras a cargo do Estado, nos termos do artigo 1.º, incluindo a elaboração dos estudos e projectos, não excederão o montante global de 4000 contos, e serão custeadas pelo Tesouro, com a comparticipação de 1000 contos do Fundo de Desemprego.
 
 § único. O Ministro das Finanças assegurará a inscrição das dotações necessárias para a realização integral do empreendimento em artigo próprio do orçamento da despesa extraordinária do Ministério das Obras Públicas, tendo em atenção o disposto no artigo seguinte.
 
-###### Art. 4.º Os montantes globais das despesas a efectuar não poderão exceder no ano corrente as importâncias de 2000 contos para a construção e 4000 contos para o equipamento, e no ano de 1964 as importâncias de 2000 contos e 3700 contos, respectivamente, acrescidas dos saldos eventualmente verificados nas importâncias atribuídas ao corrente ano.
+Art. 4.º Os montantes globais das despesas a efectuar não poderão exceder no ano corrente as importâncias de 2000 contos para a construção e 4000 contos para o equipamento, e no ano de 1964 as importâncias de 2000 contos e 3700 contos, respectivamente, acrescidas dos saldos eventualmente verificados nas importâncias atribuídas ao corrente ano.
 
 § único. O Fundo de Desemprego entregará nos cofres do Estado a importância da sua comparticipação em duas prestações de 500 contos, correspondentes ao ano em curso e ao de 1964.
 
-###### Art. 5.º As despesas que, nos termos do artigo 4.º, o Tesouro tiver de satisfazer no ano corrente de 1963 serão liquidadas mediante abonos suplementares da Fundação; esses abonos serão integralmente reembolsados até ao fim de 1964, de acordo com um plano a aprovar pelo Ministro das Finanças.
+Art. 5.º As despesas que, nos termos do artigo 4.º, o Tesouro tiver de satisfazer no ano corrente de 1963 serão liquidadas mediante abonos suplementares da Fundação; esses abonos serão integralmente reembolsados até ao fim de 1964, de acordo com um plano a aprovar pelo Ministro das Finanças.
 
-###### Art. 6.º As contribuições da Fundação serão escrituradas em conta de operações de tesouraria, passando para receita efectiva do Estado à medida que as despesas forem autorizadas.
+Art. 6.º As contribuições da Fundação serão escrituradas em conta de operações de tesouraria, passando para receita efectiva do Estado à medida que as despesas forem autorizadas.
 
-###### Art. 7.º A Delegação das Novas Instalações para os Serviços Públicos inscreverá no seu orçamento privativo as competentes dotações, para aplicação das verbas destinadas ao empreendimento, nos termos do presente decreto-lei.
+Art. 7.º A Delegação das Novas Instalações para os Serviços Públicos inscreverá no seu orçamento privativo as competentes dotações, para aplicação das verbas destinadas ao empreendimento, nos termos do presente decreto-lei.
 
 § único. As despesas realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, para a sua legitimação, ao visto dos Ministros das Finanças e das Obras Públicas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

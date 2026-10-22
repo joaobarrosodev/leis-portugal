@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/01/01900/00660072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c00f6f9afbb47f890ead13ab70389b6c69f6f03d838bdb0a9455feba8e2e0b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f94188df29f0c1517e2edd4155f539f3702e8f6656dc4c15f2775b560818594
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA NON Aedificandi
+- Estatuto das Estradas Nacionais
+- Estrada
+- Junta Autónoma das Estradas
 relationships:
 - type: amended_by
   target: pt:dre:67085601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673852:por
+  label: "Aditado um nº 3 ao art. 9º pelo DEC LEI.219/72.1972.06.27.MOP DG.IS [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1972-673852
+  date: '1972-06-27'
+- type: amended_by
+  target: pt:dre:459666:por
+  label: "Determinada que logo que o projecto de reserva do terreno se encontra aprovado, as áreas referidas no artigo 1.º\
+    \ serão reduzidas para os limites correspondentes à área non aedificandi estabelecidos pelo presente diploma, pelo DEC\
+    \ LEI.570/80.11.12.1980.MHOP, DR.IS [285] de 11.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/570-1980-459666
+  date: '1980-12-11'
+- type: amended_by
+  target: pt:dre:588067:por
+  label: "Alterado o art. 15º deste diploma, alterado pelos Dec Lei 219/72 de 27-Jun e 260/2002 de 23-Nov, pelo DEC LEI.25/2004.24.01.2004.MOPTH,\
+    \ DR.IS-A [20] de 24.01.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2004-588067
+  date: '2004-01-24'
+- type: amended_by
+  target: pt:dre:153371:por
+  label: "Alterada a partir da aprovação da planta parcelar do projecto de execução, os limites fixados pelas alíneas d) e\
+    \ e) do n.º 1 do art. 8.º, pelo DEC LEI.215-B/2004.16.09.2004.MOPTC, DR.IS-B [219-2ºSupl] de 16.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-b-2004-153371
+  date: '2004-09-16'
+- type: amended_by
+  target: pt:dre:540799:por
+  label: "Alterado o art. 8.º do presente diploma, na redacção do Dec Lei 215-B/2004, de 16-Set, pelo Dec Lei.175/2006.28.08.2006.MAOTDR,\
+    \ DR.IS [165] de 28.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2006-540799
+  date: '2006-08-28'
+- type: amended_by
+  target: pt:dre:552345:por
+  label: "Alterados, a partir da aprovação da planta parcelar do projecto de execução, os limites fixados pelas als. d) e\
+    \ e) do nº 1 do art. 8º do presente diploma, pelo DEC LEI.242/2006.28.12.2006.MOPTC, DR.IS [248] de 28.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2006-552345
+  date: '2006-12-28'
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448319:por
+  label: "Revogado, na parte relativa ao licenciamento de áreas de serviço na rede viária municipal, pelo DEC LEI.260/2002.2002.11.23.MCOTA\
+    \ DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-2002-448319
+  date: '2002-11-23'
+- type: repealed_by
+  target: pt:dre:25345959:por
+  label: "Revogada a al. l) do nº 1 do art. 15º, pelo DEC LEI.87/2014.29.05.2014.MECO, DR.IS [103] de 29.05.2014, nos termos\
+    \ do art. 11º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2014-25345959
+  date: '2014-05-29'
+- type: repealed_by
+  target: pt:dre:67085601:por
+  label: Revogado, a partir de 26.07.2015, pelo(a) Lei n.º 34/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2015-67085601
+  date: '2015-04-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:07Z'
   warnings: []
   errors: []
 ---
@@ -441,10 +510,10 @@ O processo de aprovação, autorização ou licenciamento far-se-á de harmonia 
 
 As disposições do presente diploma entram em vigor no dia 1 de Janeiro de 1971, revogando nessa data a legislação em contrário, designadamente as disposições seguintes do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949: artigos 10.º e § único, 82.º, 83º, 84.º e seus parágrafos, 85.º, 86.º, 87.º, 88.º, 89.º, 90.º, 91.º, 92.º, 93.º, 94.º, 95.º, 96.º, 97.º, 98.º, 99.º, 100.º e § 1.º, 101.º, 102.º, 103.º, 104.º e seus parágrafos, 105.º e seus parágrafos, 106.º, 107.º e seus parágrafos, 108.º, 109.º, 110.º, 112.º e seus parágrafos, 113.º, 114.º, 115.º, 116.º, 117.º e seus parágrafos, 118.º, 119.º, 120.º e seus parágrafos, 121.º, 122.º, 123.º e § único, 124.º, 127.º, 128.º, 129.º, 130.º e seus parágrafos, 133.º e seus parágrafos, 134.º, 135.º e seus parágrafos, 136.º, 137.º e § único, 139.º, 142.º, 143.º, 144.º e 145.º Visto e aprovado em Conselho de Ministro. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 13 de Janeiro de 1971.**
+Promulgado em 13 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

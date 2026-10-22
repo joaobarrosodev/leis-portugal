@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46155-1965-238984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cd84203ba5ab94c3b686a5c1afd9af5c33dbd2f35b8ba75e42ca914a1a76ccc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daed4c24fe0be0681c514450e7c7f32f40ac44b3b785f5ec102c706300a95829
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjunto
+- Chefe de Delegação
+- Nomeação
+- Organismo Internacional
+- Representação Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:503213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503213:por
+  label: "Alterado o art. 3.º pelo DEC LEI.47600.22.03.1967.MNE, DG.IS [69] de 22.03.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47600-1967-503213
+  date: '1967-03-22'
+- type: cites
+  target: pt:dre:186275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516064:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:58Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +118,19 @@ Tendo-se reconhecido conveniente que, em determinadas condições, os chefes de 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os funcionários destacados na Presidência do Conselho para chefiarem as delegações permanentes junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, terão direito a ser abonados pela Comissão Técnica de Cooperação Económica Externa dos vencimentos da sua categoria e de uma importância atribuída a título de representação e compensação.
+Artigo 1.º Os funcionários destacados na Presidência do Conselho para chefiarem as delegações permanentes junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, terão direito a ser abonados pela Comissão Técnica de Cooperação Económica Externa dos vencimentos da sua categoria e de uma importância atribuída a título de representação e compensação.
 
 § 1.º Quando os chefes das delegações exercerem as suas funções cumulativamente com as de representante diplomático, terão apenas direito às importâncias correspondentes a representação e compensação.
 
 § 2.º As importâncias atribuídas a título de representação e compensação serão fixadas, em cada caso, por proposta da Comissão Técnica de Cooperação Económica Externa, com o acordo do Presidente do Conselho e do Ministro das Finanças.
 
-###### Art. 2.º Aos funcionários do Ministério dos Negócios Estrangeiros destacados na Presidência do Conselho para prestarem serviço nas delegações a que se refere o artigo anterior será aplicável o disposto no artigo 120.º do regulamento daquele Ministério, aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, com as alterações introduzidas pelo artigo 9.º do Decreto n.º 35985, de 23 de Novembro de 1946, bem como o disposto na alínea c) do artigo 123.º Aos chefes de delegação será aplicado também o disposto no artigo 115.º e seu § 4.º, no n.º 2.º da alínea b) do artigo 123.º e no artigo 139.º do citado regulamento, com a alteração introduzida neste último pelo artigo 14.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960.
+Art. 2.º Aos funcionários do Ministério dos Negócios Estrangeiros destacados na Presidência do Conselho para prestarem serviço nas delegações a que se refere o artigo anterior será aplicável o disposto no artigo 120.º do regulamento daquele Ministério, aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, com as alterações introduzidas pelo artigo 9.º do Decreto n.º 35985, de 23 de Novembro de 1946, bem como o disposto na alínea c) do artigo 123.º Aos chefes de delegação será aplicado também o disposto no artigo 115.º e seu § 4.º, no n.º 2.º da alínea b) do artigo 123.º e no artigo 139.º do citado regulamento, com a alteração introduzida neste último pelo artigo 14.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960.
 
-###### Art. 3.º Quando o representante permanente de Portugal junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, exercer, cumulativamente, a chefia de mais de uma das respectivas delegações, poderá, em despacho conjunto do Presidente do Conselho e do Ministro dos Negócios Estrangeiros, ser nomeado um adjunto desse chefe de delegação.
+Art. 3.º Quando o representante permanente de Portugal junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, exercer, cumulativamente, a chefia de mais de uma das respectivas delegações, poderá, em despacho conjunto do Presidente do Conselho e do Ministro dos Negócios Estrangeiros, ser nomeado um adjunto desse chefe de delegação.
 
 § único. Será aplicável ao adjunto do chefe de delegação o disposto nos artigos 1.º e 2.º do presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

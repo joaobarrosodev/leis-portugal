@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22000/24962499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1979-365530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e9943cfc194fee15911c22865db51d0895a8355cb0586c216c49973aaf5c5d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d17da28f2d6754f65517afb682539bb656b410225f4b565cea3a2868d2c52bd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Portuguesa de Resseguros
+- Empresa Pública
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365747:por
+  label: "Alterada para Companhia Portuguesa de Resseguros, E.P., a denominação da empresa criada no presente diploma, bem\
+    \ como é alterado o n.º 1 do artigo 6.º dos respectivos Estatutos publicados em anexo pelo DEC LEI.517/79.28.12.1979.MF,\
+    \ DR.IS [298] de 28.12.1979\079\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/517-1979-365747
+  date: '1979-12-28'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:12Z'
   warnings: []
   errors: []
 ---
@@ -100,31 +124,31 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada, sob a tutela do Ministério das Finanças e do Plano, a Portugal Re - Companhia Portuguesa de Resseguros, E. P., empresa pública gozando de personalidade jurídica e dotada de autonomia administrativa, financeira e patrimonial.
+Artigo 1.º - 1 - É criada, sob a tutela do Ministério das Finanças e do Plano, a Portugal Re - Companhia Portuguesa de Resseguros, E. P., empresa pública gozando de personalidade jurídica e dotada de autonomia administrativa, financeira e patrimonial.
 
 2 - A empresa ora instituída rege-se pela legislação aplicável às empresas públicas e, em especial, às de seguros, pelo estatuto anexo a este diploma, que dele faz parte integrante, e, subsidiariamente, pelas normas gerais de direito.
 
-###### Art. 2.º - 1 - O capital estatutário inicial é de 100000 contos, constituído pelos capitais próprios das empresas fusionadas, que consubstanciam a entrada patrimonial do Estado, acrescido de entradas patrimoniais por parte das seguradoras do sector público, até perfazer o montante estabelecido.
+Art. 2.º - 1 - O capital estatutário inicial é de 100000 contos, constituído pelos capitais próprios das empresas fusionadas, que consubstanciam a entrada patrimonial do Estado, acrescido de entradas patrimoniais por parte das seguradoras do sector público, até perfazer o montante estabelecido.
 
 2 - A comparticipação de cada seguradora nacionalizada no capital estatutário da nova resseguradora será determinada por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 3.º - 1 - A Portugal Re - Companhia Portuguesa de Resseguros, E. P., resulta da fusão da Câmara Resseguradora Portuguesa, Prudência - Companhia Portuguesa de Resseguros, Companhia de Seguros Vitalícia, Equidade - Companhia Portuguesa de Resseguros e Continental de Resseguros, nacionalizadas nos termos do [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março.
+Art. 3.º - 1 - A Portugal Re - Companhia Portuguesa de Resseguros, E. P., resulta da fusão da Câmara Resseguradora Portuguesa, Prudência - Companhia Portuguesa de Resseguros, Companhia de Seguros Vitalícia, Equidade - Companhia Portuguesa de Resseguros e Continental de Resseguros, nacionalizadas nos termos do [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março.
 
 2 - O capital, bem como os patrimónios das empresas fusionadas, com todos os seus elementos activos e passivos, consideram-se, a partir de 1 de Janeiro de 1980, transferidos para a Portugal Re - Companhia Portuguesa de Resseguros, E. P.
 
 3 - As transmissões previstas no número antecedente operam-se em virtude do presente diploma legislativo, que servirá de título bastante para todos os efeitos legais, incluindo os de registo.
 
-###### Art. 4.º Transitarão para a nova empresa, sem prejuízo das suas categorias e dos respectivos direitos emergentes do contrato colectivo de trabalho para a indústria seguradora, e independentemente de quaisquer formalidades, todos os trabalhadores que à data da entrada em vigor deste decreto-lei estiverem ao serviço das empresas referidas no artigo anterior.
+Art. 4.º Transitarão para a nova empresa, sem prejuízo das suas categorias e dos respectivos direitos emergentes do contrato colectivo de trabalho para a indústria seguradora, e independentemente de quaisquer formalidades, todos os trabalhadores que à data da entrada em vigor deste decreto-lei estiverem ao serviço das empresas referidas no artigo anterior.
 
-###### Art. 5.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 5.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1979. - Carlos Alberto da Mofa Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 6 de Setembro de 1979.**
+Promulgado em 6 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Estatuto da Empresa Pública Portugal Re - Companhia Portuguesa do Resseguros, E. P.
 
@@ -200,7 +224,7 @@ b) A comissão de fiscalização.
 
 ###### Artigo 11.º
 
-**O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro da Tutela.**
+O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro da Tutela.
 
 ###### Artigo 12.º
 

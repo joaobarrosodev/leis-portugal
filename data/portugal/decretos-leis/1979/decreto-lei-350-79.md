@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/20000/21322136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1979-370050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5022c53155ee2aed458d58203e4ca0f0b493a43ebeb05708da303f814be752a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d09b892cfc964c50c850222241094e9640fdfd02428def627b030594ec130bb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária
+- Comissariado para os Desalojados
+- Criação de Serviços
+- Desalojado
+- Extinção de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:12Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +135,7 @@ Sendo assim, é altura de proceder à integração daquele Instituto no departam
 
 2. A evolução das acções desenvolvidas pelo Comissariado e pelo IARN pode bem apreciar-se pela análise do mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/20000/21322136.pdf))](https://files.diariodarepublica.pt/1s/1979/08/20000/21322136.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/20000/21322136.pdf)
 
 3. Outro dos aspectos salientes destas acções foi o do combate às fraudes que foram surgindo ao longo de todo este processo e que através do Gabinete de Inspecção, do Grupo Interministerial de Apuramento das Contas de Gerência, da Polícia Judiciária e dos tribunais têm sido detectadas e perseguidas. O Gabinete de Inspecção enviou até agora para a Polícia Judiciária mais de seiscentos processos, dos quais mais de uma centena foi já remetida aos juízos de instrução criminal e aos tribunais.
 
@@ -112,7 +143,7 @@ De salientar que todos estes mecanismos de combate à fraude continuarão a exer
 
 4. A actividade do Comissariado, expressa nas acções atrás descritas, teve evidentemente o seu custo financeiro e social, que através dos quadros seguintes melhor se poderá compreender:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/20000/21322136.pdf))](https://files.diariodarepublica.pt/1s/1979/08/20000/21322136.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/20000/21322136.pdf)
 
 5. Devendo processar-se em breve a integração no Ministério dos Assuntos Sociais da única acção ainda em curso - alojamento -, a cargo do IARN, e chegado o momento de dar por finda a actividade do órgão específico destas acções, o Comissariado para os Desalojados.
 
@@ -120,30 +151,30 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinto, quinze dias após a entrada em vigor do presente diploma, o Comissariado para os Desalojados, criado pelo [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, devendo os Ministros das Finanças e do Plano e da Administração Interna nomear, por despacho, a respectiva Comissão Liquidatária, que, até 31 de Março de 1980, dará por concluído o seu trabalho, extinguindo-se em seguida.
+Artigo 1.º É extinto, quinze dias após a entrada em vigor do presente diploma, o Comissariado para os Desalojados, criado pelo [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, devendo os Ministros das Finanças e do Plano e da Administração Interna nomear, por despacho, a respectiva Comissão Liquidatária, que, até 31 de Março de 1980, dará por concluído o seu trabalho, extinguindo-se em seguida.
 
-###### Art. 2.º O Instituto de Apoio ao Retorno de Nacionais (IARN), com o respectivo património, o Gabinete de Inspecção do Comissariado e a Assessoria Técnica para os Assuntos Sociais e Jurídicos do Comissariado, com os móveis e utensílios que lhes estiverem adstritos, são integrados no Ministério dos Assuntos Sociais, ficando na dependência do Secretário de Estado da Segurança Social.
+Art. 2.º O Instituto de Apoio ao Retorno de Nacionais (IARN), com o respectivo património, o Gabinete de Inspecção do Comissariado e a Assessoria Técnica para os Assuntos Sociais e Jurídicos do Comissariado, com os móveis e utensílios que lhes estiverem adstritos, são integrados no Ministério dos Assuntos Sociais, ficando na dependência do Secretário de Estado da Segurança Social.
 
-###### Art. 3.º - 1 - A Comissão Liquidatária do Comissariado para os Desalojados transferirá para o Ministério dos Assuntos Sociais as disponibilidades orçamentais consignadas ao funcionamento do IARN, do Gabinete de Inspecção e da Assessoria Técnica até 31 de Dezembro de 1979.
+Art. 3.º - 1 - A Comissão Liquidatária do Comissariado para os Desalojados transferirá para o Ministério dos Assuntos Sociais as disponibilidades orçamentais consignadas ao funcionamento do IARN, do Gabinete de Inspecção e da Assessoria Técnica até 31 de Dezembro de 1979.
 
 2 - A Comissão Liquidatária assegurará igualmente o cumprimento do disposto no artigo 12.º do [Decreto-Lei n.º 179/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1979-383231), de 8 de Junho.
 
-###### Art. 4.º - 1 - Os membros das comissões regionais e distritais agora extintas poderão continuar a prestar colaboração aos Governos Regionais dos Açores e da Madeira e aos governos civis até 31 de Dezembro de 1979, devendo as gratificações que vinham percebendo ao abrigo do [Decreto n.º 46/77](https://diariodarepublica.pt/dr/detalhe/decreto/46-1977-139447), de 6 de Abril, com as alterações introduzidas pelo [Decreto n.º 52/77](https://diariodarepublica.pt/dr/detalhe/decreto/52-1977-140079), de 29 de Maio, continuar a ser-lhes abonadas pelo orçamento do Comissariado para os Desalojados, através da Comissão Liquidatária prevista no artigo 1.º do presente diploma.
+Art. 4.º - 1 - Os membros das comissões regionais e distritais agora extintas poderão continuar a prestar colaboração aos Governos Regionais dos Açores e da Madeira e aos governos civis até 31 de Dezembro de 1979, devendo as gratificações que vinham percebendo ao abrigo do [Decreto n.º 46/77](https://diariodarepublica.pt/dr/detalhe/decreto/46-1977-139447), de 6 de Abril, com as alterações introduzidas pelo [Decreto n.º 52/77](https://diariodarepublica.pt/dr/detalhe/decreto/52-1977-140079), de 29 de Maio, continuar a ser-lhes abonadas pelo orçamento do Comissariado para os Desalojados, através da Comissão Liquidatária prevista no artigo 1.º do presente diploma.
 
 2 - Os arquivos das comissões regionais e distritais, na parte em que não constituam arquivo próprio dos governos regionais ou dos governos civis, serão transferidos, até 31 de Dezembro de 1979, para a Comissão Liquidatária do Comissariado para os Desalojados, a qual proporá o destino a dar-lhes.
 
 3 - Os móveis e utensílios adstritos às comissões regionais e distritais transitam para o património dos respectivos governos regionais e governos civis.
 
-###### Art. 5.º - 1 - Ao pessoal pertencente aos quadros do Comissariado para os Desalojados, agora extinto, aplicar-se-ão as disposições legais em vigor sobre excedentes de pessoal, nomeadamente as do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
+Art. 5.º - 1 - Ao pessoal pertencente aos quadros do Comissariado para os Desalojados, agora extinto, aplicar-se-ão as disposições legais em vigor sobre excedentes de pessoal, nomeadamente as do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
 
 2 - O disposto no número anterior aplica-se igualmente ao pessoal que venha a integrar a Comissão Liquidatária, aquando da extinção desta.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 25 de Julho de 1979.**
+Promulgado em 25 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

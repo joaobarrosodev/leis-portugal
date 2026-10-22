@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28700/29272929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b18cbd48f90ca89adc86e1b99072818c206caf1338eca51212e3d1117c81933c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f7dc38da1c96dcdc06d44f000959b19d93754a3d6411c74e88ac54191cf481e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Habitação
+- Habitação
+- JURO Bonificado
 relationships:
 - type: amended_by
   target: pt:dre:461593:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297468:por
+  label: "Alterado o nº 2 do art. 4º, revogado o art. 9º e aditado um art. pela LEI.51/78.1978.07.25.AR, DR.IS [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-1978-297468
+  date: '1978-07-25'
+- type: repealed_by
+  target: pt:dre:461593:por
+  label: "Revogado pelo DEC LEI.435/80.1980.10.02.MFP, DR.IS [228]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/435-1980-461593
+  date: '1980-10-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:40Z'
   warnings: []
   errors: []
 ---
@@ -100,31 +113,31 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Caixa Geral de Depósitos, o Crédito Predial Português e o Montepio Geral - Caixa Económica de Lisboa poderão financiar a aquisição ou a construção de fogos para habitação própria, no regime de bonificação, a cargo do Estado, das taxas de juro fixadas nos contratos.
+Artigo 1.º - 1 - A Caixa Geral de Depósitos, o Crédito Predial Português e o Montepio Geral - Caixa Económica de Lisboa poderão financiar a aquisição ou a construção de fogos para habitação própria, no regime de bonificação, a cargo do Estado, das taxas de juro fixadas nos contratos.
 
 2 - O Ministro das Finanças poderá autorizar que outras caixas económicas, além da mencionada no número anterior, efectuem também as operações de financiamento previstas neste decreto-lei.
 
-###### Art. 2.º - 1 - Só beneficiam do regime fixado neste decreto-lei os empréstimos concedidos para a aquisição ou construção de fogo para a habitação permanente do mutuário e do seu agregado familiar.
+Art. 2.º - 1 - Só beneficiam do regime fixado neste decreto-lei os empréstimos concedidos para a aquisição ou construção de fogo para a habitação permanente do mutuário e do seu agregado familiar.
 
 2 - Não poderão ser concedidos empréstimos nos termos deste decreto-lei a indivíduos que já disponham de qualquer outra habitação própria, pelos mesmos comprada ou construída.
 
 3 - Se, durante o período de bonificação de juro, o mutuário alienar o fogo adquirido ou construído ou se ele ou o seu agregado familiar deixarem de aí ter residência permanente por prazo superior a um ano, a instituição de crédito fará cessar aquela bonificação, salvo se o mutuário puder invocar motivos ponderosos, devidamente justificados.
 
-###### Art. 3.º - 1 - As condições de bonificação, de prazo e montante de cada empréstimo dependerão do rendimento anual per capita do mutuário e do seu agregado familiar e do valor por metro quadrado do fogo a adquirir ou a construir.
+Art. 3.º - 1 - As condições de bonificação, de prazo e montante de cada empréstimo dependerão do rendimento anual per capita do mutuário e do seu agregado familiar e do valor por metro quadrado do fogo a adquirir ou a construir.
 
 2 - Os valores dos escalões de rendimento e das classes de valor de construção serão fixados por portaria conjunta dos Ministros das Finanças e da Habitação, Urbanismo e Construção.
 
 3 - O valor por metro quadrado será referido à área bruta total do fogo, tal como foi definida pela Resolução do Conselho de Ministros n.º 31/77, de 20 de Janeiro, publicada no Diário da República, de 5 de Fevereiro.
 
-###### Art. 4.º - 1 - Os Ministros das Finanças e da Habitação, Urbanismo e Construção fixarão, por portaria conjunta, o montante máximo dos empréstimos e o valor máximo dos fogos que poderão beneficiar
+Art. 4.º - 1 - Os Ministros das Finanças e da Habitação, Urbanismo e Construção fixarão, por portaria conjunta, o montante máximo dos empréstimos e o valor máximo dos fogos que poderão beneficiar
 
 2 - Os limites previstos no n.º 1 serão acrescidos de 25% quando se refiram a fogos situados nas Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 5.º - 1 - O montante de cada empréstimo será estabelecido pela instituição de crédito, em função do valor atribuído ao fogo a adquirir ou construir e será, no máximo, de 95%, 90% ou 85% daquele, consoante se trate de mutuários classificados, respectivamente, no 1.º, no 2.º e 3.º e no 4.º e 5.º escalões de rendimento.
+Art. 5.º - 1 - O montante de cada empréstimo será estabelecido pela instituição de crédito, em função do valor atribuído ao fogo a adquirir ou construir e será, no máximo, de 95%, 90% ou 85% daquele, consoante se trate de mutuários classificados, respectivamente, no 1.º, no 2.º e 3.º e no 4.º e 5.º escalões de rendimento.
 
 2 - Quando se trate de fogos construídos ao abrigo de programas habitacionais da administração central ou local, poderá ser dispensada a avaliação pela instituição de crédito, desde que o valor do fogo seja justificado pelo organismo promotor.
 
-###### Art. 6.º - 1 - Os prazos máximos de amortização dos empréstimos serão de vinte e cinco, vinte e quatro, vinte e três, vinte e dois ou vinte e um anos, consoante se trate de mutuários incluídos, respectivamente, no 1.º, 2.º, 3.º, 4.º ou 5.º escalões de rendimento.
+Art. 6.º - 1 - Os prazos máximos de amortização dos empréstimos serão de vinte e cinco, vinte e quatro, vinte e três, vinte e dois ou vinte e um anos, consoante se trate de mutuários incluídos, respectivamente, no 1.º, 2.º, 3.º, 4.º ou 5.º escalões de rendimento.
 
 2 - Os prazos máximos referidos no número anterior serão acrescidos de quatro anos, se o fogo tiver sido adquirido ou construído ao abrigo de um contrato de desenvolvimento para habitação.
 
@@ -132,7 +145,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O mutuário poderá sempre antecipar a amortização do empréstimo.
 
-###### Art. 7.º - 1 - A taxa de juro contratual será fixada e alterada, em função dos limites máximos legais, em cada momento em vigor para cada tipo de operação, por acordo entre o Ministério das Finanças e a instituição de crédito.
+Art. 7.º - 1 - A taxa de juro contratual será fixada e alterada, em função dos limites máximos legais, em cada momento em vigor para cada tipo de operação, por acordo entre o Ministério das Finanças e a instituição de crédito.
 
 2 - A taxa de juro contratual será suportada nos termos seguintes:
 
@@ -144,24 +157,24 @@ c) Pelo Estado, na parte restante.
 
 3 - Salvo alterações que decorram de variações dos limites contratuais em vigor, as taxas de juro a cargo do mutuário manter-se-ão fixas, durante os dois primeiros anos seguintes à celebração dos contratos; após esse período, as taxas serão anualmente adicionadas de um ponto percentual, até atingirem a taxa de juro do contrato, deduzida a bonificação a cargo do Banco de Portugal.
 
-###### Art. 8.º Os empréstimos serão garantidos por hipoteca, preferentemente constituída sobre o fogo a adquirir ou a construir.
+Art. 8.º Os empréstimos serão garantidos por hipoteca, preferentemente constituída sobre o fogo a adquirir ou a construir.
 
-###### Art. 9.º O Fundo de Fomento da Habitação fica autorizado a conceder às cooperativas de habitação económica empréstimos com bonificação de juro, a cargo do Estado, nas seguintes condições:
+Art. 9.º O Fundo de Fomento da Habitação fica autorizado a conceder às cooperativas de habitação económica empréstimos com bonificação de juro, a cargo do Estado, nas seguintes condições:
 
 a) Os prazos previstos no n.º 1 do artigo 6.º serão acrescidos de quatro anos;
 
 b) O montante do empréstimo e a taxa de juro serão estabelecidos de acordo com os artigos 4.º, 5.º e 7.º do presente diploma, sem prejuízo do disposto no n.º 3 do artigo 7.º
 
-###### Art. 10.º - 1 - Os empréstimos que, à data da entrada em vigor deste decreto-lei, se encontram já formalizados, nos termos da resolução do Conselho de Ministros de 24 de Fevereiro de 1976, publicada no 2.º suplemento ao Diário do Governo, 1.ª série, n.º 67, de 19 de Março de 1976, continuarão a reger-se por essa resolução, sem prejuízo, na parte aplicável, das bonificações previstas em aviso do Banco de Portugal.
+Art. 10.º - 1 - Os empréstimos que, à data da entrada em vigor deste decreto-lei, se encontram já formalizados, nos termos da resolução do Conselho de Ministros de 24 de Fevereiro de 1976, publicada no 2.º suplemento ao Diário do Governo, 1.ª série, n.º 67, de 19 de Março de 1976, continuarão a reger-se por essa resolução, sem prejuízo, na parte aplicável, das bonificações previstas em aviso do Banco de Portugal.
 
 2 - Os acordos e protocolos anteriormente celebrados pelo Estado e as instituições, para regulamentação da concessão de empréstimos bonificados para aquisição ou construção de fogos destinados a habitação própria permanente dos mutuários e do seu agregado familiar, serão aplicáveis, com as necessárias adaptações, ao regime e às situações criadas por este decreto-lei.
 
-###### Art. 11.º As dúvidas e omissões que surgirem na execução deste decreto-lei e que não puderem ser esclarecidas ou integradas pela lei geral ou pelas normas que regulam a actividade das instituições de crédito serão resolvidas por despacho conjunto dos Ministros das Finanças e da Habitação, Urbanismo e Construção, ouvidos o Banco de Portugal e a instituição de crédito interessada.
+Art. 11.º As dúvidas e omissões que surgirem na execução deste decreto-lei e que não puderem ser esclarecidas ou integradas pela lei geral ou pelas normas que regulam a actividade das instituições de crédito serão resolvidas por despacho conjunto dos Ministros das Finanças e da Habitação, Urbanismo e Construção, ouvidos o Banco de Portugal e a instituição de crédito interessada.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - Eduardo Ribeiro Pereira.
 
-**Promulgado em 30 de Novembro de 1977.**
+Promulgado em 30 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

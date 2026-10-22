@@ -49,36 +49,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49124-1969-199587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca01f818bd25660bf8c6365a18f2d7ed37e3194057ccac14c18906dbf377a3b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edfc50f9f703f5d9281775507ac18952243edc513da8641c75259e2bd7a13801
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Pessoal de Tesouraria
+- Tesouraria da Fazenda Pública
+- Tesoureiro
+relationships:
+- type: cites
+  target: pt:dre:149390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490380:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:02Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +123,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Quando se não mostre possível o imediato provimento do lugar de proposto de tesoureiro da Fazenda Pública de 1.ª ou 2.ª classes por indivíduos que reúnam as condições exigidas pelo artigo 6.º do [Decreto-Lei n.º 46895](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46895-1966-490380), de 10 de Março de 1966, o mesmo poderá fazer-se, interinamente:
+Artigo 1.º - 1. Quando se não mostre possível o imediato provimento do lugar de proposto de tesoureiro da Fazenda Pública de 1.ª ou 2.ª classes por indivíduos que reúnam as condições exigidas pelo artigo 6.º do [Decreto-Lei n.º 46895](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46895-1966-490380), de 10 de Março de 1966, o mesmo poderá fazer-se, interinamente:
 
 a) Entre os auxiliares, nos termos do § 1.º do artigo 5.º do [Decreto n.º 35970](https://diariodarepublica.pt/dr/detalhe/decreto/35970-1946-149390), de 22 de Novembro de 1946;
 
@@ -103,14 +131,14 @@ b) Entre indivíduos com os requisitos estabelecidos no § 1.º do artigo 21.º 
 
 2. O provimento a que se refere este artigo é feito sem prejuízo do disposto no artigo 31.º da Lei de 14 de Junho de 1913.
 
-###### Art. 2.º Aos propostos e auxiliares das tesourarias da Fazenda Pública, cuja classe foi alterada por força do [Decreto-Lei n.º 48675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48675-1968-263560), de 11 de Novembro de 1968, passam a ser abonadas as remunerações correspondentes à classe do respectivo concelho, sem prejuízo do oportuno provimento na classe, nos termos do artigo 4.º do [Decreto-Lei n.º 48813](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48813-1968-256656), de 31 de Dezembro de 1968.
+Art. 2.º Aos propostos e auxiliares das tesourarias da Fazenda Pública, cuja classe foi alterada por força do [Decreto-Lei n.º 48675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48675-1968-263560), de 11 de Novembro de 1968, passam a ser abonadas as remunerações correspondentes à classe do respectivo concelho, sem prejuízo do oportuno provimento na classe, nos termos do artigo 4.º do [Decreto-Lei n.º 48813](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48813-1968-256656), de 31 de Dezembro de 1968.
 
-###### Art. 3.º (transitório). Os indivíduos que se encontrem nomeados interinamente para lugares de proposto de tesoureiro da Fazenda Púbica, sem que os respectivos alvarás tenham sido visados pelo Tribunal de Contas consideram-se, para todos os efeitos, investidos, nos termos e condições do artigo 1.º, devendo os alvarás ser remetidos à Direcção-Geral da Fazenda Pública para anotação por aquele Tribunal.
+Art. 3.º (transitório). Os indivíduos que se encontrem nomeados interinamente para lugares de proposto de tesoureiro da Fazenda Púbica, sem que os respectivos alvarás tenham sido visados pelo Tribunal de Contas consideram-se, para todos os efeitos, investidos, nos termos e condições do artigo 1.º, devendo os alvarás ser remetidos à Direcção-Geral da Fazenda Pública para anotação por aquele Tribunal.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 2 de Julho de 1969.**
+Promulgado em 2 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

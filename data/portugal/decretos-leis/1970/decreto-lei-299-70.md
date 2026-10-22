@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1970-140544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db141ce2e04fb64afd9dd8f4a6083bb96d6eba3e9e011b74ae2ee93650820dd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd29b6a7bcbb396cece34f7d5a5a394d6fda654087347eef1b51105dd43e6bed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Direcção Geral das Construções Escolares
+- Ensino Primário
+- Estabelecimento de Ensino
+- Ministro das Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:559043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:04Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +111,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro das Obras Públicas poderá autorizar que os edifícios previstos de acordo com o Plano de Construções para o Ensino Primário, aprovado pela [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, sejam substituídos por pavilhões pré-fabricados e recuperáveis sempre que tal se justifique, pela urgência de satisfazer necessidades do ensino ou pela instabilidade da população escolar a servir.
+Artigo 1.º - 1. O Ministro das Obras Públicas poderá autorizar que os edifícios previstos de acordo com o Plano de Construções para o Ensino Primário, aprovado pela [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, sejam substituídos por pavilhões pré-fabricados e recuperáveis sempre que tal se justifique, pela urgência de satisfazer necessidades do ensino ou pela instabilidade da população escolar a servir.
 
 2. São aplicáveis a esses pavilhões as disposições da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043) não alteradas pelo presente diploma.
 
-###### Art. 2.º Compete ao Ministério das Obras Públicas, pela Direcção-Geral das Construções Escolares, promover o fornecimento e a montagem dos pavilhões a que se refere o artigo anterior, bem como a execução dos necessários trabalhos complementares.
+Art. 2.º Compete ao Ministério das Obras Públicas, pela Direcção-Geral das Construções Escolares, promover o fornecimento e a montagem dos pavilhões a que se refere o artigo anterior, bem como a execução dos necessários trabalhos complementares.
 
-###### Art. 3.º Para os efeitos do presente diploma, os prazos fixados nos n.os 1 e 2 da base XI da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043) são reduzidos, respectivamente, a quarenta dias e a noventa dias.
+Art. 3.º Para os efeitos do presente diploma, os prazos fixados nos n.os 1 e 2 da base XI da [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043) são reduzidos, respectivamente, a quarenta dias e a noventa dias.
 
-###### Art. 4.º - 1. Cessando, nas localidades onde forem instalados os pavilhões, as circunstâncias que motivaram a sua construção, poderá o Ministro das Obras Públicas determinar que eles sejam afectos a idêntico fim noutros concelhos, mediante o pagamento à respectiva câmara municipal da correspondente indemnização.
+Art. 4.º - 1. Cessando, nas localidades onde forem instalados os pavilhões, as circunstâncias que motivaram a sua construção, poderá o Ministro das Obras Públicas determinar que eles sejam afectos a idêntico fim noutros concelhos, mediante o pagamento à respectiva câmara municipal da correspondente indemnização.
 
 2. O valor da indemnização será fixado por uma comissão constituída por um representante da Direcção-Geral das Construções Escolares, outro da câmara municipal onde o pavilhão se encontra e o terceiro da câmara municipal do concelho para onde ele é transferido.
 
@@ -118,8 +127,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches - José Veiga Simão.
 
-**Promulgado em 17 de Junho de 1970.**
+Promulgado em 17 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

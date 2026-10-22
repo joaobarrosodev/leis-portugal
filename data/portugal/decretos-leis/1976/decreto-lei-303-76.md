@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1976-502185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9269ccc816ef2dc16bc46bfd0c51f317f71cd1b89add3bf528c20b9747ed81a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72805713deb2ec12bf46ba0f485497899a307202a071b86ea2f6cd42bb926897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Normas de Segurança
+- Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas
+- Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:332708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332708:por
+  label: Alterado o art. 6.º do Dec Lei 740/74 de 26-dez, na redacção do presente diploma, pelo DEC LEI.77/90.12.03.1990.MPLAT,
+    DR.IS [59] de 12.03.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1990-332708
+  date: '1990-03-12'
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:16Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +115,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os n.os 1 e 2 do artigo 4.º, o artigo 5.º, o artigo 6.º e o n.º 1 do artigo 9.º do [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro, passarão a ter a redacção seguinte:
+Artigo 1.º Os n.os 1 e 2 do artigo 4.º, o artigo 5.º, o artigo 6.º e o n.º 1 do artigo 9.º do [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro, passarão a ter a redacção seguinte:
 
-###### Art. 4.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios existentes à data da publicação deste decreto-lei e dotados de instalações eléctricas, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, e as correspondentes entradas e instalações colectivas que não obedeçam às disposições dos Regulamentos de Segurança anexos a este decreto-lei, bem assim como o respectivo ramal ou chegada, deverão ser modificadas em conformidade no prazo de quinze anos contado a partir de 1 de Janeiro de 1977.
+Art. 4.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios existentes à data da publicação deste decreto-lei e dotados de instalações eléctricas, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, e as correspondentes entradas e instalações colectivas que não obedeçam às disposições dos Regulamentos de Segurança anexos a este decreto-lei, bem assim como o respectivo ramal ou chegada, deverão ser modificadas em conformidade no prazo de quinze anos contado a partir de 1 de Janeiro de 1977.
 
 2. Os distribuidores de energia deverão organizar, até 30 de Setembro de 1976, um plano para efectuar um serviço de vistorias das instalações ligadas à sua rede de distribuição e de notificação aos proprietários dos edifícios e seus inquilinos por forma que, em cada ano, sejam remodelados 1/15 dessas instalações.
 
 Esse plano deverá ser aprovado pela fiscalização do Governo antes de ser posto em execução.
 
-###### Art. 5.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios destinados a habitação existentes em 1 de Janeiro de 1975 e não dotados de instalações eléctricas, deverão ser estabelecidas no prazo de noventa dias, após o pedido de qualquer inquilino, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, as correspondentes entradas e instalações colectivas, bem assim como o respectivo ramal ou chegada.
+Art. 5.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios destinados a habitação existentes em 1 de Janeiro de 1975 e não dotados de instalações eléctricas, deverão ser estabelecidas no prazo de noventa dias, após o pedido de qualquer inquilino, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, as correspondentes entradas e instalações colectivas, bem assim como o respectivo ramal ou chegada.
 
 2. Exceptuam-se do disposto no número anterior os edifícios situados a mais de 100 m da rede pública de distribuição de energia eléctrica existente e exteriores a uma circunferência com centro no posto de transformação que serve essa rede e de raio de 1 km.
 
@@ -125,22 +141,22 @@ Em concelhos rurais de 2.ª e 3.ª ordem ... 1500$00
 
 6. Em localidades não servidas por rede pública de distribuição de energia eléctrica à data da publicação deste decreto-lei será aplicável o disposto nos números anteriores logo que seja estabelecida a rede pública de distribuição de energia eléctrica nessas localidades.
 
-###### Art. 6.º As instalações eléctricas dos edifícios novos não poderão ser ligadas à rede pública de distribuição se estes não possuírem a respectiva licença municipal de construção ou uma autorização passada para o efeito pela respectiva câmara municipal.
+Art. 6.º As instalações eléctricas dos edifícios novos não poderão ser ligadas à rede pública de distribuição se estes não possuírem a respectiva licença municipal de construção ou uma autorização passada para o efeito pela respectiva câmara municipal.
 
 ...
 
-###### Art. 9.º Para os edifícios arrendados a que venha a ser aplicável o disposto no n.º 1 do artigo 5.º, pelos encargos assumidos pelo proprietário poderá este cobrar dos inquilinos uma importância não superior a 10% ao ano das despesas efectuadas, dividida em duodécimos.
+Art. 9.º Para os edifícios arrendados a que venha a ser aplicável o disposto no n.º 1 do artigo 5.º, pelos encargos assumidos pelo proprietário poderá este cobrar dos inquilinos uma importância não superior a 10% ao ano das despesas efectuadas, dividida em duodécimos.
 
-###### Art. 2.º - 1. Os ramais, chegadas ou entradas derivadas a partir de uma rede pública de distribuição de energia eléctrica em baixa tensão serão executados pelo respectivo distribuidor e pagos pelo proprietário do edifício a que se destinam, sendo o seu custo fixado por portaria do Ministro da Indústria e Tecnologia.
+Art. 2.º - 1. Os ramais, chegadas ou entradas derivadas a partir de uma rede pública de distribuição de energia eléctrica em baixa tensão serão executados pelo respectivo distribuidor e pagos pelo proprietário do edifício a que se destinam, sendo o seu custo fixado por portaria do Ministro da Indústria e Tecnologia.
 
 2. O pagamento dos ramais, chegadas ou entradas a que se refere o número anterior apenas será exigível aquando do seu primeiro estabelecimento.
 
-###### Art. 3.º É revogado o n.º 3 do artigo 8.º do [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro.
+Art. 3.º É revogado o n.º 3 do artigo 8.º do [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 12 de Abril de 1976.**
+Promulgado em 12 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

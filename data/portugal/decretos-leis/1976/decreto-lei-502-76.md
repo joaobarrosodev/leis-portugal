@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72138b072b53f3be755dafbd614637962a1fd28b05351efccb5ecb91af3f4e3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 035d3caea83f10a01ce46a8b4ec1fc5842cb6cdb2857e479c5c54628368c37b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EDP
+- Empresa Pública
 relationships:
 - type: amended_by
   target: pt:dre:693786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376043:por
+  label: "Alterado o capítulo III e os artigos 50.º e 51.º do Estatuto, pelo DEC LEI.427/82.21.10.1982.MIEE, DR.IS [244] de\
+    \ 21.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1982-376043
+  date: '1982-10-21'
+- type: amended_by
+  target: pt:dre:693786:por
+  label: "Transformada em sociedade anónima de capitais exclusivamente públicos a empresa pública Electricidade de Portugal\
+    \ (EDP), E. P., criada pelo presente diploma, alterado pelo Dec Lei 427/82, de 21-Out, pelo DEC LEI.7/91.08.01.1991.MIE,\
+    \ DR.IS-A [6]] de 08.01.1991, sucedendo a EDP automática e globalmente à Electricidade de Portugal (EDP), E. P., e continuando\
+    \ a personalidade jurídica desta.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1991-693786
+  date: '1991-01-08'
+- type: cites
+  target: pt:dre:230969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497870:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
+  article_count: 56
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:02Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +128,11 @@ Dentro do quadro genérico definido para as empresas públicas, procurou-se gara
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada a Electricidade de Portugal - Empresa Pública, abreviadamente EDP, a qual se regerá pelo estatuto publicado em anexo a este decreto-lei e que dele faz parte integrante.
+Artigo 1.º - 1. É criada a Electricidade de Portugal - Empresa Pública, abreviadamente EDP, a qual se regerá pelo estatuto publicado em anexo a este decreto-lei e que dele faz parte integrante.
 
 2. A EDP é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira e patrimonial.
 
-###### Art. 2.º - 1. A EDP tem por objecto principal o estabelecimento e a exploração do serviço público de produção, transporte e distribuição de energia eléctrica no território do continente, para promover e satisfazer as exigências de desenvolvimento social e económico de toda a população.
+Art. 2.º - 1. A EDP tem por objecto principal o estabelecimento e a exploração do serviço público de produção, transporte e distribuição de energia eléctrica no território do continente, para promover e satisfazer as exigências de desenvolvimento social e económico de toda a população.
 
 2. A actividade da EDP poderá ser estendida aos arquipélagos dos Açores e da Madeira.
 
@@ -112,15 +140,15 @@ Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. O regime de exclusivo previsto no número anterior não impede a produção e distribuição de energia eléctrica para uso próprio por entidades que, à data da entrada em vigor deste diploma, disponham da necessária licença ou às quais, ouvida a EDP, a Direcção-Geral dos Serviços Eléctricos a venha a conceder.
 
-###### Art. 3.º - 1. A regulamentação do serviço público a cargo da EDP será estabelecida, com audiência prévia da empresa, em decreto assinado pelo Ministro da Indústria e Tecnologia e pelos demais Ministros competentes em razão da matéria.
+Art. 3.º - 1. A regulamentação do serviço público a cargo da EDP será estabelecida, com audiência prévia da empresa, em decreto assinado pelo Ministro da Indústria e Tecnologia e pelos demais Ministros competentes em razão da matéria.
 
 2. Enquanto não for publicado o diploma previsto no n.º 1 do artigo 3.º, a EDP terá todos os direitos e ficará sujeita a todas as obrigações que, pelos cadernos de encargos das concessões ou por qualquer outro título regulador do serviço público de produção, transporte e distribuição de energia eléctrica, sejam atribuídos ou impostos às sociedades nacionalizadas, com excepção da Empresa Insular de Electricidade (Ponta Delgada), ou às entidades cujos serviços ou instalações sejam transferidos para a EDP nos termos do artigo 7.º
 
 3. Mantêm-se em benefício da EDP as regalias reconhecidas por lei às sociedades concessionárias do serviço público de produção, transporte e distribuição de energia eléctrica, nomeadamente as atribuídas pelos Decretos-Leis n.os 43335, de 19 de Novembro de 1960, 46031, de 14 de Novembro de 1964, e 46917, de 23 de Março de 1966.
 
-###### Art. 4.º Entre o Estado e a EDP poderão ser celebrados contratos-programa com vista ao estabelecimento, por um período determinado, de objectivos a atingir pela empresa, dos meios a utilizar e das facilidades a conceder pelo Governo para tal fim, designadamente em matéria fiscal.
+Art. 4.º Entre o Estado e a EDP poderão ser celebrados contratos-programa com vista ao estabelecimento, por um período determinado, de objectivos a atingir pela empresa, dos meios a utilizar e das facilidades a conceder pelo Governo para tal fim, designadamente em matéria fiscal.
 
-###### Art. 5.º - 1. O património inicial da EDP é formado:
+Art. 5.º - 1. O património inicial da EDP é formado:
 
 a) Pelos patrimónios autónomos referidos no n.º 1 do artigo 3.º do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870) e pelos bens, direitos e obrigações a eles igualmente afectos nos termos da mesma disposição legal, com a excepção prevista no n.º 5 do presente artigo;
 
@@ -134,23 +162,23 @@ b) Pelos serviços e instalações transferidos para o Estado ao abrigo do dispo
 
 5. O presente artigo não é aplicável ao património autónomo constituído pelo artigo 3.º do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), relativamente à Empresa Insular de Electricidade (Ponta Delgada), nem aos bens, direitos e obrigações a ele afectos nos termos da mesma disposição legal.
 
-###### Art. 6.º A EDP administrará os bens do domínio público necessários às actividades a seu cargo, nos termos que forem fixados no diploma a que se refere o n.º 1 do artigo 3.º
+Art. 6.º A EDP administrará os bens do domínio público necessários às actividades a seu cargo, nos termos que forem fixados no diploma a que se refere o n.º 1 do artigo 3.º
 
-###### Art. 7.º - 1. As transferências previstas nos n.os 2 e 3 do artigo 12.º do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870) serão efectuadas mediante despacho, publicado no Diário da República, dos Ministros da Administração Interna, no caso do n.º 2, e da Indústria e Tecnologia, no caso do n.º 3.
+Art. 7.º - 1. As transferências previstas nos n.os 2 e 3 do artigo 12.º do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870) serão efectuadas mediante despacho, publicado no Diário da República, dos Ministros da Administração Interna, no caso do n.º 2, e da Indústria e Tecnologia, no caso do n.º 3.
 
 2. Publicado o despacho de transferência, a EDP entrará imediatamente na posse e administração dos serviços e instalações transferidos.
 
 3. O despacho referido no n.º 1 deste artigo constitui título comprovativo da transferência para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração, feita pela EDP e confirmada pela Direcção-Geral do Património, de que os bens se encontravam afectos aos serviços e instalações transferidos.
 
-###### Art. 8.º A EDP assumirá todos os direitos e obrigações derivados de actos ou contratos, praticados ou celebrados não só pelas empresas nacionalizadas, como por autarquias locais, serviços municipalizados, federações de municípios ou outras entidades que explorassem os serviços e instalações transferidos ao abrigo dos artigos 7.º e 17.º, relativamente a arrendamentos, aquisição de equipamentos, execução de obras, aluguer de maquinismo, financiamentos, prestação de serviços ou quaisquer outros que interessem à continuidade das respectivas explorações.
+Art. 8.º A EDP assumirá todos os direitos e obrigações derivados de actos ou contratos, praticados ou celebrados não só pelas empresas nacionalizadas, como por autarquias locais, serviços municipalizados, federações de municípios ou outras entidades que explorassem os serviços e instalações transferidos ao abrigo dos artigos 7.º e 17.º, relativamente a arrendamentos, aquisição de equipamentos, execução de obras, aluguer de maquinismo, financiamentos, prestação de serviços ou quaisquer outros que interessem à continuidade das respectivas explorações.
 
-###### Art. 9.º As transmissões de bens, direitos e obrigações resultantes do disposto nos artigos 5.º e 7.º serão efectuadas mediante averbamento e ficam isentas de quaisquer impostos, incluindo o do selo, taxas e emolumentos.
+Art. 9.º As transmissões de bens, direitos e obrigações resultantes do disposto nos artigos 5.º e 7.º serão efectuadas mediante averbamento e ficam isentas de quaisquer impostos, incluindo o do selo, taxas e emolumentos.
 
-###### Art. 10.º - 1. Enquanto não for definido um regime tributário para a EDP, ficará esta sujeita ao regime aplicável às empresas de produção, transporte e distribuição de energia eléctrica à data da entrada em vigor deste decreto-lei.
+Art. 10.º - 1. Enquanto não for definido um regime tributário para a EDP, ficará esta sujeita ao regime aplicável às empresas de produção, transporte e distribuição de energia eléctrica à data da entrada em vigor deste decreto-lei.
 
 2. A actividade de produção, transporte e distribuição de energia eléctrica a cargo da EDP será considerada, para todos os efeitos fiscais, como um único processo produtivo.
 
-###### Art. 11.º - 1. Os trabalhadores ao serviço das empresas nacionalizadas, com excepção dos que se encontram ao serviço da Empresa Insular de Electricidade (Ponta Delgada), transitam para a EDP, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações.
+Art. 11.º - 1. Os trabalhadores ao serviço das empresas nacionalizadas, com excepção dos que se encontram ao serviço da Empresa Insular de Electricidade (Ponta Delgada), transitam para a EDP, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações.
 
 2. O pessoal afecto aos serviços e instalações cuja transferência é prevista no n.º 2 do artigo 12.º do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870) será integrado na EDP, com todos os seus direitos e obrigações, de harmonia com normas aprovadas, ouvida a empresa, por despacho dos Ministros da Administração Interna, Indústria e Tecnologia e do Trabalho.
 
@@ -160,21 +188,21 @@ b) Pelos serviços e instalações transferidos para o Estado ao abrigo do dispo
 
 5. São garantidos aos trabalhadores de que trata este artigo todos os direitos resultantes da antiguidade, da inscrição na Caixa Geral de Aposentações ou em Caixas de Previdência e dos esquemas complementares de que eram beneficiários à data da sua integração na empresa.
 
-###### Art. 12.º - 1. A EDP promoverá, mediante acordo com os órgãos competentes da estrutura representativa dos trabalhadores a elaboração de um estatuto unificado do pessoal, com vista à sua aplicação escalonada aos trabalhadores, tendo em conta a situação destes no momento da sua integração e a política global de rendimentos definida pelo Governo.
+Art. 12.º - 1. A EDP promoverá, mediante acordo com os órgãos competentes da estrutura representativa dos trabalhadores a elaboração de um estatuto unificado do pessoal, com vista à sua aplicação escalonada aos trabalhadores, tendo em conta a situação destes no momento da sua integração e a política global de rendimentos definida pelo Governo.
 
 2. O estatuto a que se refere o número anterior carece de aprovação prévia dos Ministros da Indústria e Tecnologia e do Trabalho e será publicado no Boletim do Ministério do Trabalho.
 
-###### Art. 13.º As relações de trabalho entre a EDP e os trabalhadores serão reguladas pela legislação aplicável ao trabalho prestado nas empresas de produção, transporte e distribuição de energia eléctrica, bem como pelas convenções colectivas de trabalho às quais têm estado vinculadas aquelas empresas e o seu pessoal, sem prejuízo da uniformização escalonada dos direitos e obrigações dos trabalhadores.
+Art. 13.º As relações de trabalho entre a EDP e os trabalhadores serão reguladas pela legislação aplicável ao trabalho prestado nas empresas de produção, transporte e distribuição de energia eléctrica, bem como pelas convenções colectivas de trabalho às quais têm estado vinculadas aquelas empresas e o seu pessoal, sem prejuízo da uniformização escalonada dos direitos e obrigações dos trabalhadores.
 
-###### Art. 14.º Os trabalhadores da EDP exercerão o direito constitucional ao contrôle organizado da gestão através dos órgãos competentes da sua estrutura representativa nos termos estabelecidos no estatuto da empresa, sem prejuízo do regime que vier a ser estabelecido por lei sobre esta matéria.
+Art. 14.º Os trabalhadores da EDP exercerão o direito constitucional ao contrôle organizado da gestão através dos órgãos competentes da sua estrutura representativa nos termos estabelecidos no estatuto da empresa, sem prejuízo do regime que vier a ser estabelecido por lei sobre esta matéria.
 
-###### Art. 15.º - 1. A partir da data de entrada em vigor deste decreto-lei, consideram-se juridicamente extintas as sociedades nacionalizadas pelo [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), com excepção da Empresa Insular de Electricidade (Ponta Delgada).
+Art. 15.º - 1. A partir da data de entrada em vigor deste decreto-lei, consideram-se juridicamente extintas as sociedades nacionalizadas pelo [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), com excepção da Empresa Insular de Electricidade (Ponta Delgada).
 
 2. As sociedades cuja extinção é determinada pelo número anterior ficam dispensadas do cumprimento das formalidades e obrigações estabelecidas na lei relativamente à cessação de actividade.
 
 3. O disposto no número anterior não isenta os administradores, gerentes, directores, membros do conselho fiscal ou outros membros dos órgãos sociais das responsabilidades que lhes possam ser imputadas nos termos da lei.
 
-###### Art. 16.º - 1. As instalações e serviços de produção e distribuição de energia eléctrica explorados pela Empresa Insular de Electricidade (Ponta Delgada) e pela Empresa Insular de Electricidade da Madeira poderão vir a ser oportunamente transferidos para a EDP.
+Art. 16.º - 1. As instalações e serviços de produção e distribuição de energia eléctrica explorados pela Empresa Insular de Electricidade (Ponta Delgada) e pela Empresa Insular de Electricidade da Madeira poderão vir a ser oportunamente transferidos para a EDP.
 
 2. As transferências previstas no número anterior serão efectuadas mediante despacho do Ministro da Indústria e Tecnologia, no caso de instalações e serviços explorados pela Empresa Insular de Electricidade (Ponta Delgada), e dos Ministros da Indústria e Tecnologia e das Obras Públicas, no caso de instalações e serviços explorados pela Empresa de Electricidade da Madeira.
 
@@ -182,19 +210,19 @@ b) Pelos serviços e instalações transferidos para o Estado ao abrigo do dispo
 
 4. Os trabalhadores afectos às instalações e serviços transferidos para a EDP ao abrigo do presente artigo serão integrados nesta empresa nos termos e pela forma previstos no n.º 3 do artigo 11.º deste decreto-lei, sendo-lhes igualmente aplicável o disposto nos n.os 4 e 5 do mesmo preceito.
 
-###### Art. 17.º A EDP assegurará a exploração dos serviços e instalações afectos a concessões outorgadas por autarquias locais e que atinjam o seu termo antes de operada a transmissão para a empresa daqueles serviços e instalações.
+Art. 17.º A EDP assegurará a exploração dos serviços e instalações afectos a concessões outorgadas por autarquias locais e que atinjam o seu termo antes de operada a transmissão para a empresa daqueles serviços e instalações.
 
-###### Art. 18.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeitar a mais de um Ministério.
+Art. 18.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria quando a dúvida a resolver respeitar a mais de um Ministério.
 
-###### Art. 19.º O presente diploma entra em vigor em 1 de Julho de 1976.
+Art. 19.º O presente diploma entra em vigor em 1 de Julho de 1976.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa.
 
-**Promulgado em 21 de Junho de 1976.**
+Promulgado em 21 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ESTATUTO
 
@@ -688,4 +716,4 @@ Os membros dos órgãos da empresa que tenham a qualidade de trabalhadores da me
 
 2. A EDP continuará a exercer quaisquer actividade que, à data da eficácia da nacionalização operada pelo [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), fossem exercidas pelas sociedades nacionalizadas por aquele diploma, ainda que não relacionadas como o objecto principal definido no artigo 3.º deste estatuto.
 
-**O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.**
+O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.

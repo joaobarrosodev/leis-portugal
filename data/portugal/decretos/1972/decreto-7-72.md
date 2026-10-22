@@ -48,40 +48,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1972-291792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c498afcc4bd10b422992ce72e9c3e15516358b57b16c6c71dcca977ea236f5bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c98eb4a6aaa9d856effa8ab93dc5b4cbb771b7c3916dd5892f21c29c1a532658
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Educação Física da Armada
+- Centro de Estudos Especiais da Armada
+- Comissão Permanente de Coordenação de Públicações Técnicas
+- Comissão Permanente de Normalização de Impressos e Material de Arquivo
+- Comissão Permanente de Uniformes
+- Conselho de Instrução da Armada
+- Conselho Superior da Armada
+- Conselho Técnico Naval
+- Definição de Competências
+- Direcção das Construções Navais
+- Direcção das Infraestruturas Navais
+- Direcção do Serviço de Electricidade e Comunicações
+- Estado Maior da Armada
+- Fábrica Nacional de Cordoaria
+- Farmácia Central da Marinha
+- Marinha
+- Ministério da Marinha
+- Orgânica
+- Serviços do Material da Armada
+- Serviços do Pessoal da Armada
+- Superintendente
+- Tribunal Militar
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:389781:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389781:por
+  label: "Aditado um § único ao artigo 6.º do Decreto 48689, de 16 de Novembro, na redacção do presente diploma, pela PORT.165/81.03.02.1981.CR,\
+    \ DR.IS [28] de 03.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-1981-389781
+  date: '1981-02-03'
+- type: cites
+  target: pt:dre:146027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263031:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408551:por
+  label: "Revogados os arts. 10º, 11º, 12º, 17º, 19º, 20º, 20º-A e 23º do Dec 48689, de 16-Nov 1968, na redacção do presente\
+    \ diploma, pelo DEC.685/76.14.09.1976.CR, DR.IS [216] de 14.09.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/685-1976-408551
+  date: '1976-09-14'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:11Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +141,7 @@ Considerando a conveniência de introduzir algumas alterações ao disposto no [
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os §§ 2.º e 3.º do artigo 1.º, os artigos 5.º, 6.º, 7.º, 8.º e 9.º, o corpo do artigo 10.º, a alínea b) do § 1.º do artigo 10.º, o artigo 11.º, o corpo do artigo 12.º e seus §§ 1.º, 2.º e 3.º, os artigos 17.º, 19.º, 20.º e 23.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, tomam a redacção seguinte:
+Artigo 1.º Os §§ 2.º e 3.º do artigo 1.º, os artigos 5.º, 6.º, 7.º, 8.º e 9.º, o corpo do artigo 10.º, a alínea b) do § 1.º do artigo 10.º, o artigo 11.º, o corpo do artigo 12.º e seus §§ 1.º, 2.º e 3.º, os artigos 17.º, 19.º, 20.º e 23.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, tomam a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -106,9 +153,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 5.º O disposto no artigo anterior não é aplicável ao pessoal civil dos organismos do Ministério da Marinha que disponham de quadros privativos.
+Art. 5.º O disposto no artigo anterior não é aplicável ao pessoal civil dos organismos do Ministério da Marinha que disponham de quadros privativos.
 
-###### Art. 6.º No exercício das suas funções, o superintendente dos Serviços do Pessoal da Armada dirige a Superintendência dos Serviços do Pessoal (S. S. P.), constituída pelos seguintes organismos:
+Art. 6.º No exercício das suas funções, o superintendente dos Serviços do Pessoal da Armada dirige a Superintendência dos Serviços do Pessoal (S. S. P.), constituída pelos seguintes organismos:
 
 a) Direcção do Serviço do Pessoal;
 
@@ -132,13 +179,13 @@ j) Conselho de Instrução da Armada;
 
 l) Comissão Permanente de Uniformes.
 
-###### Art. 7.º As atribuições e estrutura orgânica dos organismos referidos nas alíneas a) a f), inclusive, j) e l) do artigo anterior são estabelecidas por portaria do Ministro da Marinha.
+Art. 7.º As atribuições e estrutura orgânica dos organismos referidos nas alíneas a) a f), inclusive, j) e l) do artigo anterior são estabelecidas por portaria do Ministro da Marinha.
 
-###### Art. 8.º Os regulamentos internos dos organismos da S. S. P. são aprovados por despacho do Ministro da Marinha e as lotações de pessoal militar e de pessoal civil dos mesmos organismos são fixadas, respectivamente, por portaria e por despacho do Ministro da Marinha.
+Art. 8.º Os regulamentos internos dos organismos da S. S. P. são aprovados por despacho do Ministro da Marinha e as lotações de pessoal militar e de pessoal civil dos mesmos organismos são fixadas, respectivamente, por portaria e por despacho do Ministro da Marinha.
 
-###### Art. 9.º Enquanto não forem publicados os diplomas a que se refere o artigo 7.º, as atribuições e estrutura orgânica dos organismos no mesmo citados são os que constam nos respectivos regulamentos internos.
+Art. 9.º Enquanto não forem publicados os diplomas a que se refere o artigo 7.º, as atribuições e estrutura orgânica dos organismos no mesmo citados são os que constam nos respectivos regulamentos internos.
 
-###### Art. 10.º Compete ao superintendente dos Serviços do Material da Armada tratar de todos os assuntos de natureza técnica e logística relativos ao material do ramo naval do Ministério da Marinha e às infra-estruturas do mesmo Ministério, com excepção dos que, respeitando à administração financeira, pertençam, de acordo com a legislação em vigor, a outros organismos.
+Art. 10.º Compete ao superintendente dos Serviços do Material da Armada tratar de todos os assuntos de natureza técnica e logística relativos ao material do ramo naval do Ministério da Marinha e às infra-estruturas do mesmo Ministério, com excepção dos que, respeitando à administração financeira, pertençam, de acordo com a legislação em vigor, a outros organismos.
 
 § 1.º ...
 
@@ -148,7 +195,7 @@ b) No Arsenal do Alfeite, por delegação do Ministro da Marinha, no que se refe
 
 ...
 
-###### Art. 11.º No exercício das suas funções, o superintendente dos Serviços do Material da Armada dirige a Superintendência dos Serviços do Material (S. S. M.), constituída pelos seguintes organismos:
+Art. 11.º No exercício das suas funções, o superintendente dos Serviços do Material da Armada dirige a Superintendência dos Serviços do Material (S. S. M.), constituída pelos seguintes organismos:
 
 a) Direcção das Construções Navais;
 
@@ -170,7 +217,7 @@ i) Comissão Permanente de Normalização de Impressos e Material de Arquivo;
 
 j) Comissão Permanente de Coordenação de Publicações Técnicas.
 
-###### Art. 112.º A Direcção das Construções Navais, que é dirigida por um comodoro engenheiro construtor naval, destina-se a tratar dos assuntos relativos à construção, modernização e reparação dos navios da Armada, competindo-lhe, especialmente:
+Art. 112.º A Direcção das Construções Navais, que é dirigida por um comodoro engenheiro construtor naval, destina-se a tratar dos assuntos relativos à construção, modernização e reparação dos navios da Armada, competindo-lhe, especialmente:
 
 a) Elaborar os estudos iniciais e projectos preliminares das novas construções e modernizações dos navios da Armada e promover a elaboração dos correspondentes projectos definitivos;
 
@@ -200,23 +247,23 @@ c) Nos pequenos trabalhos de reparação que os comandantes territoriais estejam
 
 ...
 
-###### Art. 17.º O Centro de Estudos Especiais da Armada passa a funcionar na dependência da Direcção do Serviço de Armas Navais.
+Art. 17.º O Centro de Estudos Especiais da Armada passa a funcionar na dependência da Direcção do Serviço de Armas Navais.
 
-###### Art. 19.º As atribuições e estrutura orgânica dos organismos referidos nas alíneas b), c), d), e), h), i) e j) e a estrutura orgânica dos referidos nas alíneas a) e f) do artigo 11.º são estabelecidas por portaria do Ministro da Marinha.
+Art. 19.º As atribuições e estrutura orgânica dos organismos referidos nas alíneas b), c), d), e), h), i) e j) e a estrutura orgânica dos referidos nas alíneas a) e f) do artigo 11.º são estabelecidas por portaria do Ministro da Marinha.
 
-###### Art. 20.º Os regulamentos internos dos organismos da S. S. M. são aprovados por despacho do Ministro da Marinha e as lotações de pessoal militar e de pessoal civil dos mesmos organismos são fixadas, respectivamente, por portaria e por despacho do Ministro da Marinha.
+Art. 20.º Os regulamentos internos dos organismos da S. S. M. são aprovados por despacho do Ministro da Marinha e as lotações de pessoal militar e de pessoal civil dos mesmos organismos são fixadas, respectivamente, por portaria e por despacho do Ministro da Marinha.
 
 ...
 
-###### Art. 23.º São mantidas as atribuições e a estrutura orgânica dos organismos referidos nas alíneas g), h) e i) do artigo 6.º e na alínea g) do artigo 11.º, até que possam ser actualizadas por diplomas próprios.
+Art. 23.º São mantidas as atribuições e a estrutura orgânica dos organismos referidos nas alíneas g), h) e i) do artigo 6.º e na alínea g) do artigo 11.º, até que possam ser actualizadas por diplomas próprios.
 
-###### Art. 2.º Ficam revogados o § 4.º do artigo 1.º e o § único do artigo 17.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031).
+Art. 2.º Ficam revogados o § 4.º do artigo 1.º e o § único do artigo 17.º do [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031).
 
-###### Art. 3.º No [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031) é incluído um novo artigo, com a redacção seguinte:
+Art. 3.º No [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031) é incluído um novo artigo, com a redacção seguinte:
 
-###### Art. 20.º-A. Enquanto não forem publicados os diplomas a que se refere o artigo 19.º, as atribuições e estruturas orgânicas no mesmo referidas são as que figuram nos regulamentos internos dos respectivos organismos.
+Art. 20.º-A. Enquanto não forem publicados os diplomas a que se refere o artigo 19.º, as atribuições e estruturas orgânicas no mesmo referidas são as que figuram nos regulamentos internos dos respectivos organismos.
 
-###### Art. 4.º Ficam revogados os seguintes diplomas:
+Art. 4.º Ficam revogados os seguintes diplomas:
 
 [Decreto n.º 60/70](https://diariodarepublica.pt/dr/detalhe/decreto/60-1970-228176), de 23 de Fevereiro;
 
@@ -226,8 +273,8 @@ sem prejuízo das revogações que os mesmos determinaram.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.
 
-**Promulgado em 31 de Dezembro de 1971.**
+Promulgado em 31 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

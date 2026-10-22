@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 260/1977, 1º Suplemento, Série I de 1977-11-10
   number: '260'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2678-(1) a 2678-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26001/00010003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-a-1977-164638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c794cdb5c4f5c28d684b920e6c08cd52f9279eb5e30144a18952a0a9676ccbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5771108cb379acda26ef7211c58191d2be6dbddb302a7e7d441a464ffad65a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Instaladora
+- Conselho Administrativo
+- Conselho Universitário
+- Criação de Serviços
+- Definição de Competências
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Faculdade de Ciências Sociais e Humanas
+- Faculdade de Economia
+- Ministro da Educação e Investigação Científica
+- Pessoal Docente
+- Pessoal não Docente
+- Plano de Estudos
+- Política de Educação
+- Regime de Instalação
+- Reitor
+- Universidade NOVA de Lisboa
+- Vice-reitor
+relationships:
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431010:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:43Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +120,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Da organização
 
-###### Artigo 1.º São criadas na Universidade Nova de Lisboa, neste diploma abreviadamente designada por UNL, as Faculdades de Ciências e Tecnologia, de Ciências Sociais e Humanas e de Economia.
+Artigo 1.º São criadas na Universidade Nova de Lisboa, neste diploma abreviadamente designada por UNL, as Faculdades de Ciências e Tecnologia, de Ciências Sociais e Humanas e de Economia.
 
-###### Art. 2.º As Faculdades ora criadas são, à semelhança da própria UNL, pessoas colectivas de direito público dotadas de autonomia administrativa e financeira, funcionando em regime de instalação, que poderá ser prorrogado, nos termos previstos no artigo 5.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.
+Art. 2.º As Faculdades ora criadas são, à semelhança da própria UNL, pessoas colectivas de direito público dotadas de autonomia administrativa e financeira, funcionando em regime de instalação, que poderá ser prorrogado, nos termos previstos no artigo 5.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.
 
-###### Art. 3.º A estrutura, a orientação pedagógica e a organização administrativa de cada uma das Faculdades serão definidas, de acordo com as normas aplicáveis dos diplomas orientadores do ensino superior, nos respectivos estatutos.
+Art. 3.º A estrutura, a orientação pedagógica e a organização administrativa de cada uma das Faculdades serão definidas, de acordo com as normas aplicáveis dos diplomas orientadores do ensino superior, nos respectivos estatutos.
 
-###### Art. 4.º As novas Faculdades poderão, para efeitos administrativos e pedagógicos, corresponder-se directamente com a Direcção-Geral do Ensino Superior.
+Art. 4.º As novas Faculdades poderão, para efeitos administrativos e pedagógicos, corresponder-se directamente com a Direcção-Geral do Ensino Superior.
 
-###### Art. 5.º A UNL pode desde já, por intermédio das suas Faculdades, realizar cursos de graduação e de pós-graduação, conferir os graus de licenciado e de doutor e o título de agregado, bem como abrir concursos para professores extraordinários e catedráticos, nos termos da legislação em vigor.
+Art. 5.º A UNL pode desde já, por intermédio das suas Faculdades, realizar cursos de graduação e de pós-graduação, conferir os graus de licenciado e de doutor e o título de agregado, bem como abrir concursos para professores extraordinários e catedráticos, nos termos da legislação em vigor.
 
 ### CAPÍTULO II — Das comissões instaladoras
 
-###### Art. 6.º O Ministro da Educação e Investigação Científica nomeará para cada Faculdade da UNL uma comissão instaladora constituída:
+Art. 6.º O Ministro da Educação e Investigação Científica nomeará para cada Faculdade da UNL uma comissão instaladora constituída:
 
 a) Pelo presidente, que deverá ser obrigatoriamente professor catedrático ou extraordinário de uma Universidade portuguesa;
 
@@ -114,7 +140,7 @@ b) Por dois a quatro docentes, habilitados com o grau de doutor;
 
 c) Pelo secretário da Faculdade, que secretariará as respectivas reuniões, sem direito a voto.
 
-###### Art. 7.º Compete às comissões instaladoras:
+Art. 7.º Compete às comissões instaladoras:
 
 a) Elaborar os estatutos da respectiva Faculdade e submetê-los, precedendo parecer do Conselho da Universidade, à aprovação do Ministro da Educação e Investigação Científica;
 
@@ -130,13 +156,13 @@ f) Propor planos tendentes à formação de pessoal técnico e administrativo;
 
 g) Propor a admissão de pessoal docente, investigador, técnico, administrativo e auxiliar, em estreita observância do disposto nos artigos 24.º a 27.º, inclusive, do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
 
-###### Art. 8.º - 1 - As aquisições e obras a levar a efeito nos termos do artigo anterior serão autorizadas por despacho conjunto dos Ministros da Educação e Investigação Científica e das Obras Públicas.
+Art. 8.º - 1 - As aquisições e obras a levar a efeito nos termos do artigo anterior serão autorizadas por despacho conjunto dos Ministros da Educação e Investigação Científica e das Obras Públicas.
 
 2 - A execução das obras de construção e remodelação de edifícios é da competência do Ministério das Obras Públicas, de acordo com os programas e planos da comissão instaladora, aprovados pelo MEIC.
 
-###### Art. 9.º Obtido despacho favorável do Ministro da Educação e Investigação Científica, as comissões instaladoras poderão, de acordo com programas aprovados pelo Conselho da Universidade, enviar em missão oficial de serviço para centros nacionais ou estrangeiros docentes, investigadores, pessoal técnico e administrativo, a fim de ali realizarem estudos ou adquirirem técnicas a utilizarem na estruturação das Faculdades.
+Art. 9.º Obtido despacho favorável do Ministro da Educação e Investigação Científica, as comissões instaladoras poderão, de acordo com programas aprovados pelo Conselho da Universidade, enviar em missão oficial de serviço para centros nacionais ou estrangeiros docentes, investigadores, pessoal técnico e administrativo, a fim de ali realizarem estudos ou adquirirem técnicas a utilizarem na estruturação das Faculdades.
 
-###### Art. 10.º Compete aos presidentes das comissões instaladoras:
+Art. 10.º Compete aos presidentes das comissões instaladoras:
 
 a) Representar a Faculdade em juízo e fora dele;
 
@@ -148,11 +174,11 @@ d) Presidir ao conselho administrativo;
 
 e) Tomar, nos termos legais, as iniciativas conducentes ao desenvolvimento da Faculdade e ao bom cumprimento das funções a ela cometidas.
 
-###### Art. 11.º - 1 - Haverá em cada uma das Faculdades da UNL um lugar de secretário, de categoria correspondente à letra G, a prover, por proposta do presidente da comissão instaladora e mediante nomeação ministerial, de entre licenciados em Direito, Economia ou Organização e Gestão de Empresas.
+Art. 11.º - 1 - Haverá em cada uma das Faculdades da UNL um lugar de secretário, de categoria correspondente à letra G, a prover, por proposta do presidente da comissão instaladora e mediante nomeação ministerial, de entre licenciados em Direito, Economia ou Organização e Gestão de Empresas.
 
 2 - Os secretários poderão ser providos em comissão de serviço ou contratados por períodos de três anos, renováveis.
 
-###### Art. 12.º Compete ao secretário de cada Faculdade, de acordo com a orientação transmitida pelo presidente da comissão instaladora respectiva:
+Art. 12.º Compete ao secretário de cada Faculdade, de acordo com a orientação transmitida pelo presidente da comissão instaladora respectiva:
 
 a) Assegurar o funcionamento dos serviços administrativos e auxiliares e dirigir o respectivo pessoal;
 
@@ -162,7 +188,7 @@ c) Redigir as actas das reuniões da comissão instaladora e assiná-las conjunt
 
 ### CAPÍTULO III — Dos conselhos administrativos
 
-###### Art. 13.º - 1 - Em cada Faculdade a gestão administrativa, financeira e patrimonial será assegurada durante o período de instalação por um conselho administrativo.
+Art. 13.º - 1 - Em cada Faculdade a gestão administrativa, financeira e patrimonial será assegurada durante o período de instalação por um conselho administrativo.
 
 2 - Compõem o conselho administrativo:
 
@@ -172,15 +198,15 @@ b) Um docente membro daquela comissão, designado por despacho do Ministro da Ed
 
 c) O secretário da Faculdade.
 
-###### Art. 14.º As despesas com a instalação e o funcionamento das Faculdades ora criadas serão satisfeitas, durante o período de instalação, por conta das dotações globais ou dos subsídios que lhes forem atribuídos, sendo aplicável à respectiva fiscalização, e bem assim em matéria de receitas, o disposto no artigo 23.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
+Art. 14.º As despesas com a instalação e o funcionamento das Faculdades ora criadas serão satisfeitas, durante o período de instalação, por conta das dotações globais ou dos subsídios que lhes forem atribuídos, sendo aplicável à respectiva fiscalização, e bem assim em matéria de receitas, o disposto no artigo 23.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
 
 ### CAPÍTULO IV — Do reitor e do Conselho da Universidade
 
-###### Art. 15.º - 1 - A UNL é superiormente coordenada e orientada pelo reitor, pelo vice-reitor, quando o haja, e pelo Conselho da Universidade.
+Art. 15.º - 1 - A UNL é superiormente coordenada e orientada pelo reitor, pelo vice-reitor, quando o haja, e pelo Conselho da Universidade.
 
 2 - O reitor e o vice-reitor são nomeados pelo Ministro da Educação e Investigação Científica, não podendo pertencer à mesma Faculdade.
 
-###### Art. 16.º - 1 - Compete ao reitor da UNL:
+Art. 16.º - 1 - Compete ao reitor da UNL:
 
 a) Presidir ao conselho da Universidade e fazer executar as deliberações respectivas;
 
@@ -200,7 +226,7 @@ g) Assinar os diplomas e cartas de curso.
 
 3 - A Reitoria dispõe de uma Secretaria, dirigida pelo secretário da UNL.
 
-###### Art. 17.º - 1 - O Conselho da Universidade é constituído, durante o período de instalação, pelo reitor, vice-reitor, havendo-o, e pelo conjunto dos membros docentes das comissões instaladoras das Faculdades.
+Art. 17.º - 1 - O Conselho da Universidade é constituído, durante o período de instalação, pelo reitor, vice-reitor, havendo-o, e pelo conjunto dos membros docentes das comissões instaladoras das Faculdades.
 
 2 - Compete ao Conselho da Universidade:
 
@@ -214,11 +240,11 @@ d) Aceitar doações e legados.
 
 3 - O secretário da UNL secretariará o Conselho, redigindo as respectivas actas e assinando-as conjuntamente com o presidente.
 
-###### Art. 18.º - 1 - O Conselho da Universidade reúne, ordinariamente, uma vez por mês, sob convocação do seu presidente, e, extraordinariamente, por iniciativa deste ou a requerimento de, pelo menos, um terço dos seus membros.
+Art. 18.º - 1 - O Conselho da Universidade reúne, ordinariamente, uma vez por mês, sob convocação do seu presidente, e, extraordinariamente, por iniciativa deste ou a requerimento de, pelo menos, um terço dos seus membros.
 
 2 - A comparência às reuniões do Conselho é obrigatória, preferindo a qualquer outro serviço.
 
-###### Art. 19.º - 1 - O secretário da UNL tem a categoria correspondente à letra F e é nomeado, sob proposta do reitor, pelo Ministro da Educação e Investigação Científica, de entre licenciados em Direito.
+Art. 19.º - 1 - O secretário da UNL tem a categoria correspondente à letra F e é nomeado, sob proposta do reitor, pelo Ministro da Educação e Investigação Científica, de entre licenciados em Direito.
 
 2 - Incumbe ao secretário da UNL:
 
@@ -236,24 +262,24 @@ f) Corresponder-se, em assuntos de mero expediente ou por incumbência do reitor
 
 ### CAPÍTULO V — Das disposições transitórias
 
-###### Art. 20.º - 1 - Todo o pessoal que à data da entrada em vigor do presente diploma se encontre, a qualquer título, vinculado à UNL será distribuído, segundo as necessidades dos serviços, pela Reitoria e pelas Faculdades, de acordo com critérios a estabelecer pelo reitor e pelos presidentes das respectivas comissões instaladoras.
+Art. 20.º - 1 - Todo o pessoal que à data da entrada em vigor do presente diploma se encontre, a qualquer título, vinculado à UNL será distribuído, segundo as necessidades dos serviços, pela Reitoria e pelas Faculdades, de acordo com critérios a estabelecer pelo reitor e pelos presidentes das respectivas comissões instaladoras.
 
 2 - O pessoal que não vier a ser colocado nos termos do número anterior poderá ser transferido para outro estabelecimento de ensino superior ou colocado noutro organismo dependente do MEIC.
 
-###### Art. 21.º O material e o equipamento actualmente existentes na UNL serão distribuídos pela Reitoria e pelas Faculdades, nos termos que forem acordados entre o reitor e os presidentes das comissões instaladoras respectivas.
+Art. 21.º O material e o equipamento actualmente existentes na UNL serão distribuídos pela Reitoria e pelas Faculdades, nos termos que forem acordados entre o reitor e os presidentes das comissões instaladoras respectivas.
 
-###### Art. 22.º O orçamento da UNL será reformulado de harmonia com o disposto no presente diploma, de modo a satisfazer as necessidades imediatas da Reitoria e das Faculdades ora criadas.
+Art. 22.º O orçamento da UNL será reformulado de harmonia com o disposto no presente diploma, de modo a satisfazer as necessidades imediatas da Reitoria e das Faculdades ora criadas.
 
-###### Art. 23.º O Instituto Superior de Ciências do Trabalho e da Empresa deixa de estar integrado na UNL, passando a ficar, até ulterior resolução, na dependência directa da Direcção-Geral do Ensino Superior.
+Art. 23.º O Instituto Superior de Ciências do Trabalho e da Empresa deixa de estar integrado na UNL, passando a ficar, até ulterior resolução, na dependência directa da Direcção-Geral do Ensino Superior.
 
-###### Art. 24.º As dúvidas surgidas na interpretação e execução do presente decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 24.º As dúvidas surgidas na interpretação e execução do presente decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 25.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 25.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Almerindo da Silva Marques.
 
-**Promulgado em 7 de Novembro de 1977.**
+Promulgado em 7 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

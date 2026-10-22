@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/02200/01470150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1977-138353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 627726add9f7d9799703b147e7156cae1fae0e76efe965c2fb909a23d907bdf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4f48667da6edd0402e2d175728fad574dd20907f61ec17d24d812118c6641b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Quadro Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388847:por
+  label: "Alterada a redacção da al.c) do art. 3º e dos art. 6º, 12º e 15º pelo DEC LEI.74/81.1981.04.10.CR, DR.IS [84]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1981-388847
+  date: '1981-04-10'
+- type: cites
+  target: pt:dre:141220:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:564204:por
+  label: Rectificada a subal 4) da alínea b) do n.º 1 do artigo 12.º do presente diploma, na redacção do Decreto-Lei 74/81,
+    de 10 de Abril, pelo DEC LEI.277/81.01.10.1981.CR, DR.IS [226] de 01.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1981-564204
+  date: '1981-10-01'
+- type: repealed_by
+  target: pt:dre:382845:por
+  label: "Revogados os arts. 18.º e 19.º do presente diploma, pelo DEC LEI.55/79.29.03.1979.CR, DR.IS [74] de 29.03.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1979-382845
+  date: '1979-03-29'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:24Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +123,7 @@ Considerando a conveniência em se estabelecerem as situações dos sargentos do
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Em relação à disponibilidade para o serviço, os sargentos dos quadros permanentes (sargentos do QP) da Força Aérea podem encontrar-se numa das seguintes condições:
+Artigo 1.º Em relação à disponibilidade para o serviço, os sargentos dos quadros permanentes (sargentos do QP) da Força Aérea podem encontrar-se numa das seguintes condições:
 
 a) Activo;
 
@@ -104,7 +133,7 @@ c) Reforma;
 
 d) Separado do serviço.
 
-###### Art. 2.º - 1. Consideram-se na situação de activo os sargentos do QP que não tenham tido passagem, nos termos definidos neste diploma, a qualquer das outras situações referidas no artigo anterior.
+Art. 2.º - 1. Consideram-se na situação de activo os sargentos do QP que não tenham tido passagem, nos termos definidos neste diploma, a qualquer das outras situações referidas no artigo anterior.
 
 2. Em relação à prestação de serviço, os sargentos do QP na situação de activo podem estar:
 
@@ -124,7 +153,7 @@ b) Adidos ao quadro;
 
 c) Supranumerários.
 
-###### Art. 3.º São considerados em comissão normal os sargentos do QP na situação de activo que prestem serviço nos departamentos militares ou desempenhem funções militares fora destes departamentos, designadamente:
+Art. 3.º São considerados em comissão normal os sargentos do QP na situação de activo que prestem serviço nos departamentos militares ou desempenhem funções militares fora destes departamentos, designadamente:
 
 a) Os que desempenhem os cargos de Ministro, Secretário de Estado ou Subsecretário de Estado de departamentos militares;
 
@@ -146,13 +175,13 @@ i) Os impedidos de prestar serviço por motivos de doença, desde que da duraç�
 
 j) Os colocados, a título temporário, em organismos não militares.
 
-###### Art. 4.º - 1. Nenhum sargento do QP na situação de activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos.
+Art. 4.º - 1. Nenhum sargento do QP na situação de activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos.
 
 2. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que os sargentos prestem o mínimo de três anos de serviço nesta comissão.
 
 3. Para efeitos do disposto no n.º 1, não será contado como afastamento da comissão normal o tempo de exercício dos cargos de Presidente da República, Primeiro-Ministro, Vice-Primeiro-Ministro, Ministro, Secretário de Estado, Subsecretário de Estado e embaixador ou ministro plenipotenciário em país estrangeiro.
 
-###### Art. 5.º - 1. São considerados em comissão especial os sargentos do QP na situação de activo que estejam a desempenhar funções públicas, que não sejam de natureza militar, fora dos departamentos das forças armadas.
+Art. 5.º - 1. São considerados em comissão especial os sargentos do QP na situação de activo que estejam a desempenhar funções públicas, que não sejam de natureza militar, fora dos departamentos das forças armadas.
 
 2. Designadamente, encontram-se em comissão especial os sargentos do QP no activo que exerçam os seguintes cargos ou funções:
 
@@ -168,7 +197,7 @@ e) Comissão civil remunerada nos casos não abrangidos das alíneas anteriores.
 
 3. Os sargentos do QP em comissão especial no desempenho de funções a que não corresponda o direito ao uso de insígnias militares próprias não podem fazer uso do uniforme em actos de serviço relativos àquelas funções.
 
-###### Art. 6.º - 1. Consideram-se na inactividade temporária os sargentos do QP na situação de activo afastados temporariamente do serviço.
+Art. 6.º - 1. Consideram-se na inactividade temporária os sargentos do QP na situação de activo afastados temporariamente do serviço.
 
 2. Os sargentos do QP na situação de activo são colocados na inactividade temporária nos seguintes casos:
 
@@ -180,7 +209,7 @@ b) Por motivo disciplinar - quando lhes for aplicada a pena de inactividade prev
 
 4. Quando, verificadas as condições da mesma alínea a) do n.º 1, os sargentos do QP não optem pela passagem à inactividade temporária ou à licença ilimitada, à reserva ou à reforma; se estas duas últimas situações lhes forem aplicáveis, não são mudados de situação até que, quanto a esta, seja tomada uma decisão final.
 
-###### Art. 7.º - 1. Consideram-se de licença ilimitada os sargentos do QP na situação de activo a quem seja concedida essa licença.
+Art. 7.º - 1. Consideram-se de licença ilimitada os sargentos do QP na situação de activo a quem seja concedida essa licença.
 
 2. Designa-se por licença ilimitada a licença concedida por período não inferior a um ano concedida aos sargentos que a requeiram e possam ser dispensados do serviço.
 
@@ -196,9 +225,9 @@ b) Um ano após a data de início da licença, quando concedida a sargentos na s
 
 6. Os sargentos do QP, quer na situação de activo, quer na situação de reserva, podem interromper a licença ilimitada se esta lhes tiver sido concedida há mais de um ano. A licença cessa noventa dias depois de o sargento apresentar a respectiva declaração ou, antes deste prazo, se o desejar e for autorizado pelo Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 8.º Os sargentos do QP na situação de activo consideram-se no quadro quando são contados nos efectivos aprovados por lei do quadro da sua especialidade.
+Art. 8.º Os sargentos do QP na situação de activo consideram-se no quadro quando são contados nos efectivos aprovados por lei do quadro da sua especialidade.
 
-###### Art. 9.º - 1. Consideram-se adidos aos quadros, não se contando nos efectivos aprovados por lei, os sargentos do QP na situação de activo que:
+Art. 9.º - 1. Consideram-se adidos aos quadros, não se contando nos efectivos aprovados por lei, os sargentos do QP na situação de activo que:
 
 a) Estejam em comissão especial, na inactividade temporária ou de licença ilimitada;
 
@@ -244,7 +273,7 @@ Segundo-sargento - 48 anos.
 
 3. Os limites de idade constantes da alínea 14) do n.º 1 só entrarão em vigor por portaria do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 10.º - 1. Consideram-se supranumerários os sargentos do QP na situação de activo, em comissão normal, que, não estando adidos, não possam ocupar vaga nos quadros por falta de vacatura.
+Art. 10.º - 1. Consideram-se supranumerários os sargentos do QP na situação de activo, em comissão normal, que, não estando adidos, não possam ocupar vaga nos quadros por falta de vacatura.
 
 2. A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
 
@@ -266,9 +295,9 @@ c) Por regresso da situação de adido;
 
 d) Por outras disposições legais que expressamente o determinem.
 
-###### Art. 11.º As mudanças de situação dos sargentos do QP em relação ao quadro a que pertencem são determinadas por despacho do Chefe do Estado-Maior da Força Aérea, sendo tais mudanças referidas à data em que, nos termos legais, os sargentos do QP forem considerados abrangidos pela situação que as motivou.
+Art. 11.º As mudanças de situação dos sargentos do QP em relação ao quadro a que pertencem são determinadas por despacho do Chefe do Estado-Maior da Força Aérea, sendo tais mudanças referidas à data em que, nos termos legais, os sargentos do QP forem considerados abrangidos pela situação que as motivou.
 
-###### Art. 12.º Transitam para a situação de reserva os sargentos do QP na situação de activo que sejam abrangidos por qualquer das seguintes condições:
+Art. 12.º Transitam para a situação de reserva os sargentos do QP na situação de activo que sejam abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado quinze ou mais anos de serviço:
 
@@ -302,7 +331,7 @@ c) Requeiram a passagem à situação de reserva depois de completarem 60 anos d
 
 d) Requeiram a passagem à reserva e esta lhes seja concedida depois de completarem 40 anos de idade e vinte anos de serviço.
 
-###### Art. 13.º - 1. São mantidos na situação de activo, independentemente de terem atingido os limites de idade constantes do artigo 12.º, os sargentos do QP que desempenhem as funções de Presidente da República, Primeiro-Ministro, Vice-Primeiro-Ministro, Ministro, Secretário de Estado ou Subsecretário de Estado de departamentos militares, enquanto exercerem estes cargos.
+Art. 13.º - 1. São mantidos na situação de activo, independentemente de terem atingido os limites de idade constantes do artigo 12.º, os sargentos do QP que desempenhem as funções de Presidente da República, Primeiro-Ministro, Vice-Primeiro-Ministro, Ministro, Secretário de Estado ou Subsecretário de Estado de departamentos militares, enquanto exercerem estes cargos.
 
 2. No caso de as funções referidas no número anterior recaírem em sargentos do QP que se encontrem noutras situações, tal facto implica o seu regresso à situação de activo enquanto exercerem aquelas funções.
 
@@ -310,7 +339,7 @@ d) Requeiram a passagem à reserva e esta lhes seja concedida depois de completa
 
 4. A passagem à situação de reserva de um sargento do QP que atinja o limite de idade a que se refere o artigo 12.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse sargento do QP ao posto seguinte.
 
-###### Art. 14.º - 1. Os sargentos do QP que tenham transitado para a situação de reserva podem encontrar-se:
+Art. 14.º - 1. Os sargentos do QP que tenham transitado para a situação de reserva podem encontrar-se:
 
 a) Na efectividade de serviço;
 
@@ -324,7 +353,7 @@ c) De licença ilimitada.
 
 4. Os sargentos que ao transitarem da situação de activo para a de reserva estejam de licença ilimitada serão colocados na situação de reserva, mantendo-se de licença ilimitada.
 
-###### Art. 15.º - 1. Transitam para a situação de reforma os sargentos do QP nas situações de activo ou de reserva que sejam abrangidos por qualquer das seguintes condições:
+Art. 15.º - 1. Transitam para a situação de reforma os sargentos do QP nas situações de activo ou de reserva que sejam abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado quinze ou mais anos de serviço e atinjam 70 anos de idade;
 
@@ -342,24 +371,24 @@ c) Reúnam as condições legais estabelecidas para a reforma extraordinária.
 
 3. Em caso de guerra ou de grave emergência, os sargentos na situação de reforma podem ser chamados a prestar serviço efectivo compatível com as suas aptidões.
 
-###### Art. 16.º - 1. Transitam para a situação de separado do serviço os sargentos do QP que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares devam ser afastados do serviço.
+Art. 16.º - 1. Transitam para a situação de separado do serviço os sargentos do QP que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares devam ser afastados do serviço.
 
 2. Os sargentos do QP separados do serviço ficam privados do uso de uniforme, distintivos e insígnias militares e bilhete de identidade militar e perdem os outros direitos inerentes à condição de sargento do QP.
 
 3. A separação de serviço só tem lugar após julgamento no Conselho Superior de Disciplina da Força Aérea ou em virtude de disposições legais que expressamente o determinem.
 
-###### Art. 17.º A data da passagem à situação de reserva, de reforma ou de separado do serviço é a data em que, nos termos legais, o sargento do QP for considerado abrangido pela condição que o motivou.
+Art. 17.º A data da passagem à situação de reserva, de reforma ou de separado do serviço é a data em que, nos termos legais, o sargento do QP for considerado abrangido pela condição que o motivou.
 
-###### Art. 18.º Os sargentos do QP que se encontrem na situação de reforma e que tenham menos de 70 anos de idade podem transitar para a situação de reserva se o requererem ao Chefe do Estado-Maior da Força Aérea e possuírem as condições físicas adequadas, a comprovar pela competente junta de saúde.
+Art. 18.º Os sargentos do QP que se encontrem na situação de reforma e que tenham menos de 70 anos de idade podem transitar para a situação de reserva se o requererem ao Chefe do Estado-Maior da Força Aérea e possuírem as condições físicas adequadas, a comprovar pela competente junta de saúde.
 
-###### Art. 19.º O presente diploma revoga o [Decreto-Lei n.º 361/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1970-141220), de 1 de Agosto, com excepção do seu artigo 10.º, que se mantém em vigor com a redacção que lhe foi dada pelos Decretos-Leis n.º 208/75 e n.º 428/76, respectivamente, de 18 de Abril e de 2 de Junho.
+Art. 19.º O presente diploma revoga o [Decreto-Lei n.º 361/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1970-141220), de 1 de Agosto, com excepção do seu artigo 10.º, que se mantém em vigor com a redacção que lhe foi dada pelos Decretos-Leis n.º 208/75 e n.º 428/76, respectivamente, de 18 de Abril e de 2 de Junho.
 
-###### Art. 20.º Quaisquer dúvidas que surjam para a execução do presente diploma serão resolvidas por despacho interpretativo do Chefe do Estado-Maior da Força Aérea.
+Art. 20.º Quaisquer dúvidas que surjam para a execução do presente diploma serão resolvidas por despacho interpretativo do Chefe do Estado-Maior da Força Aérea.
 
 Visto e aprovado em Conselho da Revolução em 5 de Janeiro de 1977.
 
-**Promulgado em 18 de Janeiro de 1977.**
+Promulgado em 18 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

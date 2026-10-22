@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12600/12201221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1976-426920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85f6a48d89aeb8214750b2511f905146e28f2b9c745db9a169f6127ad76927f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bd99fd821efb78181bf82194b75dfdce06e923f3cb10af1b7e1a0f1173b68c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Ensino Básico
+- Diretor
+- Publicação
+- Subdiretor
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:46Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +101,13 @@ de 29 de Maio
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O boletim Escola Democrática é uma publicação periódica da Direcção-Geral do Ensino Básico, que tem por objectivo colaborar activamente na democratização da estrutura educativa nacional, denunciando os resultados a que conduzia a política de obscurantismo do regime deposto em 25 de Abril e procurando ser um órgão de discussão e encontro das novas perspectivas que se abrem aos professores e ao povo português no sector da educação e cultura, nomeadamente no ensino básico.
+Artigo 1.º O boletim Escola Democrática é uma publicação periódica da Direcção-Geral do Ensino Básico, que tem por objectivo colaborar activamente na democratização da estrutura educativa nacional, denunciando os resultados a que conduzia a política de obscurantismo do regime deposto em 25 de Abril e procurando ser um órgão de discussão e encontro das novas perspectivas que se abrem aos professores e ao povo português no sector da educação e cultura, nomeadamente no ensino básico.
 
-###### Art. 2.º A orientação do boletim Escola Democrática compete a uma comissão, constituída pelo director-geral do Ensino Básico, pelos directores de serviços do ensino primário e preparatório, pelo chefe de divisão do ensino especial, pelos elementos que chefiam os serviços e divisões de acção pedagógica e da orientação educativa, pelo inspector-chefe do Serviço do Ensino Básico Português no Estrangeiro e pelo chefe de redacção.
+Art. 2.º A orientação do boletim Escola Democrática compete a uma comissão, constituída pelo director-geral do Ensino Básico, pelos directores de serviços do ensino primário e preparatório, pelo chefe de divisão do ensino especial, pelos elementos que chefiam os serviços e divisões de acção pedagógica e da orientação educativa, pelo inspector-chefe do Serviço do Ensino Básico Português no Estrangeiro e pelo chefe de redacção.
 
-###### Art. 3.º Os cargos de director e subdirector do boletim serão exercidos, respectivamente, pelo director-geral do Ensino Básico e pelo director de serviços que este para o efeito designar.
+Art. 3.º Os cargos de director e subdirector do boletim serão exercidos, respectivamente, pelo director-geral do Ensino Básico e pelo director de serviços que este para o efeito designar.
 
-###### Art. 4.º - 1. Compete ao director do boletim:
+Art. 4.º - 1. Compete ao director do boletim:
 
 a) Presidir às reuniões da comissão orientadora;
 
@@ -106,13 +117,13 @@ c) Superintender na aplicação das directrizes traçadas para a redacção e ad
 
 2. O subdirector coadjuvará o director e substituí-lo-á nas suas faltas e impedimentos.
 
-###### Art. 5.º - 1. A redacção é constituída por um chefe de redacção, um secretário de redacção e dois funcionários da Direcção-Geral do Ensino Básico.
+Art. 5.º - 1. A redacção é constituída por um chefe de redacção, um secretário de redacção e dois funcionários da Direcção-Geral do Ensino Básico.
 
 2. O chefe de redacção é designado pelo director-geral do Ensino Básico de entre os elementos que chefiam os serviços e divisões de acção pedagógica e de orientação educativa da Direcção-Geral ou de entre os respectivos inspectores-orientadores, sendo substituído nas suas faltas e impedimentos pelo elemento da redacção que ele indicar.
 
 3. O secretário de redacção e os restantes elementos da redacção são designados pelo director-geral, respectivamente, de entre técnicos e inspectores-orientadores da Direcção-Geral do Ensino Básico.
 
-###### Art. 6.º Compete ao chefe de redacção:
+Art. 6.º Compete ao chefe de redacção:
 
 a) Solicitar a colaboração a inserir em cada número;
 
@@ -122,7 +133,7 @@ c) Coordenar os originais a publicar;
 
 d) Velar pelo cumprimento das orientações programáticas definidas e proceder à dinamização do boletim.
 
-###### Art. 7.º Compete ao secretário de redacção:
+Art. 7.º Compete ao secretário de redacção:
 
 a) Colaborar com o chefe de redacção na organização da revista, segundo as directrizes traçadas superiormente;
 
@@ -130,32 +141,32 @@ b) Assegurar a ligação entre a redacção e a administração;
 
 c) Providenciar quanto às demais tarefas relativas à redacção do boletim.
 
-###### Art. 8.º - 1. Ao administrador compete superintender nos serviços de publicação, expedição e administração do boletim.
+Art. 8.º - 1. Ao administrador compete superintender nos serviços de publicação, expedição e administração do boletim.
 
 2. O administrador e o elemento que o substituir nas suas faltas e impedimentos são designados, de entre inspectores-orientadores da Direcção-Geral do Ensino Básico, pelo respectivo director-geral.
 
-###### Art. 9.º Para coadjuvar nos serviços de redacção e administração, exercendo nesse âmbito as tarefas que lhes forem confiadas, serão designados pelo director-geral do Ensino Básico trabalhadores da respectiva Direcção-Geral ou recrutados nos termos da legislação geral sobre excedentes de pessoal.
+Art. 9.º Para coadjuvar nos serviços de redacção e administração, exercendo nesse âmbito as tarefas que lhes forem confiadas, serão designados pelo director-geral do Ensino Básico trabalhadores da respectiva Direcção-Geral ou recrutados nos termos da legislação geral sobre excedentes de pessoal.
 
-###### Art. 10.º - 1. Todos os inspectores-orientadores da Direcção-Geral do Ensino Básico, directores de escolas do magistério primário, directores de distritos escolares e seus adjuntos, delegados escolares ou secretários de zona e seus adjuntos, delegados pedagógicos e seus adjuntos e directores e professores das escolas primárias e preparatórias devem prestar à direcção do boletim Escola Democrática e ao seu chefe de redacção a colaboração que lhes for solicitada.
+Art. 10.º - 1. Todos os inspectores-orientadores da Direcção-Geral do Ensino Básico, directores de escolas do magistério primário, directores de distritos escolares e seus adjuntos, delegados escolares ou secretários de zona e seus adjuntos, delegados pedagógicos e seus adjuntos e directores e professores das escolas primárias e preparatórias devem prestar à direcção do boletim Escola Democrática e ao seu chefe de redacção a colaboração que lhes for solicitada.
 
 2. O boletim está aberto à colaboração de todos aqueles que se interessem pelos problemas da educação e da cultura e, em particular, pelos respeitantes ao ensino básico. Contudo, a redacção reserva-se o direito de não publicação da colaboração enviada.
 
-###### Art. 11.º Por força da receita do boletim Escola Democrática, cuja publicação será subsidiada por verba inscrita no orçamento ordinário da Direcção-Geral do Ensino Básico e atribuída por despacho do Ministro da Educação e Investigação Científica, se ocorrerá às despesas de redacção e administração, incluindo as gratificações ao pessoal e pagamento da colaboração.
+Art. 11.º Por força da receita do boletim Escola Democrática, cuja publicação será subsidiada por verba inscrita no orçamento ordinário da Direcção-Geral do Ensino Básico e atribuída por despacho do Ministro da Educação e Investigação Científica, se ocorrerá às despesas de redacção e administração, incluindo as gratificações ao pessoal e pagamento da colaboração.
 
-###### Art. 12.º Os Ministros das Finanças e da Educação e Investigação Científica fixarão, por despacho conjunto, as gratificações a atribuir ao administrador, ao secretário de redacção e ao pessoal previsto no artigo 9.º, o preço da assinatura e venda avulsa do boletim e ainda o regime de pagamento da colaboração.
+Art. 12.º Os Ministros das Finanças e da Educação e Investigação Científica fixarão, por despacho conjunto, as gratificações a atribuir ao administrador, ao secretário de redacção e ao pessoal previsto no artigo 9.º, o preço da assinatura e venda avulsa do boletim e ainda o regime de pagamento da colaboração.
 
-###### Art. 13.º A administração do boletim prestará, até 14 de Fevereiro de cada ano, as contas relativas ao ano anterior, as quais, com o parecer do director-geral do Ensino Básico, serão submetidas à aprovação dos Ministros das Finanças e da Educação e Investigação Científica que, a ser concedida, as legitimarão.
+Art. 13.º A administração do boletim prestará, até 14 de Fevereiro de cada ano, as contas relativas ao ano anterior, as quais, com o parecer do director-geral do Ensino Básico, serão submetidas à aprovação dos Ministros das Finanças e da Educação e Investigação Científica que, a ser concedida, as legitimarão.
 
-###### Art. 14.º Transitam para o boletim Escola Democrática todos os bens móveis, documentação, receitas em caixa e depósitos pertencentes ou afectos ao boletim Escola Portuguesa e ao Boletim do Ciclo Preparatório do Ensino Secundário, que se consideram extintos.
+Art. 14.º Transitam para o boletim Escola Democrática todos os bens móveis, documentação, receitas em caixa e depósitos pertencentes ou afectos ao boletim Escola Portuguesa e ao Boletim do Ciclo Preparatório do Ensino Secundário, que se consideram extintos.
 
-###### Art. 15.º Fica revogada toda a legislação relativa ao boletim Escola Portuguesa e ao Boletim do Ciclo Preparatório do Ensino Secundário.
+Art. 15.º Fica revogada toda a legislação relativa ao boletim Escola Portuguesa e ao Boletim do Ciclo Preparatório do Ensino Secundário.
 
-###### Art. 16.º O presente diploma entra em vigor na data da sua publicação.
+Art. 16.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Rodrigues Alves - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 19 de Maio de 1976.**
+Promulgado em 19 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

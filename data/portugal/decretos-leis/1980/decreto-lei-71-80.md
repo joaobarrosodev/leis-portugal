@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61e257b92c0137ac0afcc4c281f881be0900f189c909f1781dc41f0a30017d11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a82919f577315ec5b245d13aef6ac3b0134e7da06fdfee917d5f21adceaedec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartório Privativo do Protesto de Letras
+- Concurso de Habilitação
+- Conservador
+- Emolumento do Notariado
+- Estágio de Formação
+- Notário
+- Orgânica
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462182:por
+  label: "Alterados os artigos 24.º, 26.º, 27.º, 28.º, 36.º, 59.º, 88.º e 89.º-A do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.449/80.07.10.1980.MJ, DR.IS [232] de 07.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/449-1980-462182
+  date: '1980-10-07'
+- type: amended_by
+  target: pt:dre:612412:por
+  label: Alterado, com efeitos desde 01.01.89, o art. 38.º, na redação do presente diploma, do Dec Lei 519-F2/79 de 29-dez,
+    pelo(a) Decreto-Lei n.º 52/89 - Diário da República n.º 44/1989, Série I de 1989-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-1989-612412
+  date: '1989-02-22'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 54º do Dec Lei 519-F2/79 de 29-Dez, na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR,\
+    \ DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:29Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +135,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 24.º, 26.º, 27.º, 28.º, 30.º, 36.º, 37.º, 38.º, 39.º, 40.º, 54.º, 61.º e 90.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 24.º, 26.º, 27.º, 28.º, 30.º, 36.º, 37.º, 38.º, 39.º, 40.º, 54.º, 61.º e 90.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 24.º
 
@@ -259,7 +293,7 @@ e) Em qualquer das situações, ficam assegurados aos conservadores e notários 
 
 O ingresso dos actuais ajudantes e escriturários nos respectivos quadros de pessoal é feito de acordo com o disposto nos artigos 42.º, 43.º, n.º 2, e 89.º-A e constará de lista nominativa, aprovada por despacho do Ministro da Justiça, a publicar no Diário da República no prazo máximo de sessenta dias a contar da data da publicação do presente diploma.
 
-###### Art. 2.º Ao [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, são aditados os artigos seguintes:
+Art. 2.º Ao [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, são aditados os artigos seguintes:
 
 ###### Artigo 89.º-A
 
@@ -271,12 +305,12 @@ O ingresso dos actuais ajudantes e escriturários nos respectivos quadros de pes
 
 Considera-se integrada nos respectivos vencimentos, para todos os efeitos legais, designadamente para os de aposentação, a gratificação que vem sendo abonada pelo Cofre Geral dos Tribunais aos membros do conselho administrativo dos Cofres.
 
-###### Art. 3.º É eliminada a alínea n) do n.º 1 do artigo 66.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
+Art. 3.º É eliminada a alínea n) do n.º 1 do artigo 66.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1980. - Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 31 de Março de 1980.**
+Promulgado em 31 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

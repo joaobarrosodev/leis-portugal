@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46126-1964-554161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b78cb28e2c47baad44de7e2bf27e1c96c0740949c877314ac53cd6f50a1f98d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 623720802afda240a051aa363809a3ba64db9448b0f72c8f4dbaf579e991c3d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Gestão Orçamental
+- Hospital Militar
+- Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:305007:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:39Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +94,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O preceituado no artigo 4.º do [Decreto-Lei n.º 41575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41575-1958-305007), de 1 de Abril de 1958, é tornado extensivo à utilização das verbas que forem inscritas na despesa extraordinária do orçamento dos Encargos Gerais da Nação com destino à construção do depósito de material de Castelões e a edificações hospitalares militares, no âmbito da colaboração luso-alemã.
+Artigo único. O preceituado no artigo 4.º do [Decreto-Lei n.º 41575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41575-1958-305007), de 1 de Abril de 1958, é tornado extensivo à utilização das verbas que forem inscritas na despesa extraordinária do orçamento dos Encargos Gerais da Nação com destino à construção do depósito de material de Castelões e a edificações hospitalares militares, no âmbito da colaboração luso-alemã.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

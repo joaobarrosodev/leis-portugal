@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46031-1964-536467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1421448512938244a22d7b2a6780819869d6ebd5a32772e8f54b2f3c85c1d1a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 704848a2c0cb5355718d52a8b38cb5dec4c7cccf8c7555a4d9416d7d285cd229
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Direcção Geral dos Serviços Eléctricos
+- Distribuição de Energia Elétrica
+- Empréstimo
+- Energia Elétrica
+- Financiamento
+- Fundo de Apoio Térmico
+- Preço
+- Secretário de Estado da Indústria
 relationships:
 - type: amended_by
   target: pt:dre:313646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:486922:por
+  label: "Tornadas aplicáveis, a partir de 1 de Janeiro de 1966, a todas as empresas da rede eléctrica primária o disposto\
+    \ no art. 1º do presente diploma, pelo DEC LEI.46917.23.03.1966.MECO, DG.IS [69] de 23.03.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46917-1966-486922
+  date: '1966-03-23'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688056:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:07Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +135,7 @@ Ouvido o Conselho Superior de Electricidade;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para cumprimento das obrigações emergentes dos contratos que, com a garantia solidária do Estado, as sociedades anónimas de responsabilidade limitada Hidroeléctrica do Douro e Empresa Termoeléctrica Portuguesa celebraram com o Banco Internacional de Reconstrução e Desenvolvimento em 6 de Novembro de 1963, as receitas a distribuir anualmente àquelas mutuárias serão calculadas de modo que, além de cobrirem os encargos enumerados no artigo 122.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960:
+Artigo 1.º Para cumprimento das obrigações emergentes dos contratos que, com a garantia solidária do Estado, as sociedades anónimas de responsabilidade limitada Hidroeléctrica do Douro e Empresa Termoeléctrica Portuguesa celebraram com o Banco Internacional de Reconstrução e Desenvolvimento em 6 de Novembro de 1963, as receitas a distribuir anualmente àquelas mutuárias serão calculadas de modo que, além de cobrirem os encargos enumerados no artigo 122.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960:
 
 a) Suportem os complementos necessários para, com as anuidades dos fundos de reintegração e de reconstituição contabilizados pelas mesmas sociedades, poderem integralmente pagar as amortizações financeiras anuais a cargo de cada uma delas;
 
@@ -108,7 +143,7 @@ b) Proporcionem, além disso, saldos destinados a autofinanciamentos, nunca infe
 
 § único. O regime estabelecido neste artigo poderá ser aplicado, por despacho do Secretário de Estado da Indústria, a outras empresas do grupo das produtoras da rede eléctrica primária que, com a garantia solidária do Estado, venham a beneficiar de empréstimos externos contraídos em condições idênticas às dos referidos no mesmo artigo.
 
-###### Art. 2.º A fim de que as receitas a cobrar possam garantir a satisfação dos novos encargos mencionados no artigo anterior, a energia eléctrica de origem hidráulica ou térmica produzida nas centrais do grupo das empresas produtoras da rede eléctrica primária será fornecida à Companhia Nacional de Electricidade nas seguintes condições:
+Art. 2.º A fim de que as receitas a cobrar possam garantir a satisfação dos novos encargos mencionados no artigo anterior, a energia eléctrica de origem hidráulica ou térmica produzida nas centrais do grupo das empresas produtoras da rede eléctrica primária será fornecida à Companhia Nacional de Electricidade nas seguintes condições:
 
 a) A energia entregue para a mesma transportadora vender pela sua tarifa geral no triénio de 1964-1966 ser-lhe-á debitada a um preço médio com o aumento de 10 por cento sobre o preço médio do kilowatt-hora em vigor durante o ano de 1963, considerando-se, neste último preço, incluídos os encargos fixos em 1963 da Empresa Termoeléctrica Portuguesa.
 
@@ -120,11 +155,11 @@ b) A energia destinada a venda segundo tarifas especiais, cujos valores, inferio
 
 § 3.º Decorrido o triénio de 1964-1966, poderá o preço fixado na alínea a) ser revisto em despacho do Secretário de Estado da Indústria, respeitados os princípios orientadores deste diploma.
 
-###### Art. 3.º A Companhia Nacional de Electricidade, com vista à equitativa distribuição do encargo resultante do ajustamento determinado na alínea a) do artigo anterior, debitará a energia que por sua vez fornecer às empresas e serviços distribuidores pelo preço da sua tarifa geral em vigor no ano de 1963, acrescida do agravamento que vier a ser autorizado pelo Secretário de Estado da Indústria, depois de analisado o novo equilíbrio económico da mesma sociedade.
+Art. 3.º A Companhia Nacional de Electricidade, com vista à equitativa distribuição do encargo resultante do ajustamento determinado na alínea a) do artigo anterior, debitará a energia que por sua vez fornecer às empresas e serviços distribuidores pelo preço da sua tarifa geral em vigor no ano de 1963, acrescida do agravamento que vier a ser autorizado pelo Secretário de Estado da Indústria, depois de analisado o novo equilíbrio económico da mesma sociedade.
 
 § único. O preço assim apurado será devido a partir de 1 de Janeiro de 1964, sem que as empresas e serviços distribuidores possam opor-se à sua aplicação com fundamento em situações jurídicas decorrentes de actos anteriores ao presente diploma.
 
-###### Art. 4.º As receitas arrecadadas pelo grupo das empresas produtoras da rede eléctrica primária serão distribuídas, segundo as percentagens que forem estabelecidas pelo Secretário de Estado da Indústria, de harmonia com a seguinte precedência:
+Art. 4.º As receitas arrecadadas pelo grupo das empresas produtoras da rede eléctrica primária serão distribuídas, segundo as percentagens que forem estabelecidas pelo Secretário de Estado da Indústria, de harmonia com a seguinte precedência:
 
 1.º Pelas empresas produtoras da rede eléctrica primária que se encontrem ou venham a encontrar-se no regime definido no artigo 1.º deste diploma.
 
@@ -134,22 +169,22 @@ b) A energia destinada a venda segundo tarifas especiais, cujos valores, inferio
 
 § 2.º Durante o triénio de 1964-1966, as receitas arrecadadas, se os consumos reais se não afastarem sensìvelmente das previsões de consumo indicadas no parecer que a tal respeito emitiu o Conselho Superior de Electricidade, serão distribuídas de acordo com as percentagens seguintes: 38,09 por cento a favor da Hidroeléctrica do Douro; 12,04 por cento a favor da Empresa Termoeléctrica Portuguesa, para custeio dos seus encargos fixos; 6,48 por cento a favor do Fundo de Apoio Térmico, e o remanescente (43,39 por cento) a favor das restantes empresas produtoras da rede eléctrica primária, que entre si o distribuirão por livre acordo, na falta do qual será a distribuição feita por despacho do Secretário de Estado da Indústria.
 
-###### Art. 5.º A percentagem prevista em qualquer ano a favor do Fundo de Apoio Térmico poderá ser posteriormente alterada por despacho do Secretário de Estado da Indústria, em função das receitas que efectivamente vierem a arrecadar-se nesse mesmo ano. Quando tal suceder, o despacho modificará também as percentagens que tiverem sido fixadas a favor das diversas empresas produtoras da rede eléctrica primária, observada a precedência estabelecida no artigo 4.º deste decreto-lei, sem prejuízo do equilíbrio económico das concessões das empresas da rede primária consignado no presente diploma.
+Art. 5.º A percentagem prevista em qualquer ano a favor do Fundo de Apoio Térmico poderá ser posteriormente alterada por despacho do Secretário de Estado da Indústria, em função das receitas que efectivamente vierem a arrecadar-se nesse mesmo ano. Quando tal suceder, o despacho modificará também as percentagens que tiverem sido fixadas a favor das diversas empresas produtoras da rede eléctrica primária, observada a precedência estabelecida no artigo 4.º deste decreto-lei, sem prejuízo do equilíbrio económico das concessões das empresas da rede primária consignado no presente diploma.
 
-###### Art. 6.º Se, em qualquer ano, a dotação do Fundo de Apoio Térmico se mostrar insuficiente para suportar os encargos variáveis resultantes da produção de energia pela Empresa Termoeléctrica Portuguesa, será a cobertura assegurada pelas restantes produtoras da rede eléctrica primária, solidàriamente com a mesma sociedade. Em tal caso, serão, por despacho do Secretário de Estado da Indústria, reduzidas nas respectivas proporções as receitas destinadas às referidas empresas para satisfação dos seus encargos fixos. Estas serão, porém, ressarcidas dos suprimentos feitos, logo que o Fundo volte a encontrar-se suficientemente dotado.
+Art. 6.º Se, em qualquer ano, a dotação do Fundo de Apoio Térmico se mostrar insuficiente para suportar os encargos variáveis resultantes da produção de energia pela Empresa Termoeléctrica Portuguesa, será a cobertura assegurada pelas restantes produtoras da rede eléctrica primária, solidàriamente com a mesma sociedade. Em tal caso, serão, por despacho do Secretário de Estado da Indústria, reduzidas nas respectivas proporções as receitas destinadas às referidas empresas para satisfação dos seus encargos fixos. Estas serão, porém, ressarcidas dos suprimentos feitos, logo que o Fundo volte a encontrar-se suficientemente dotado.
 
-###### Art. 7.º As dotações do Fundo de Apoio Térmico, além de custearem os encargos variáveis de toda a energia eléctrica produzida pela Empresa Termoeléctrica Portuguesa, poderão ser utilizadas para outros fins, a definir pelo Secretário de Estado da Indústria, com vista à aceleração da política de electrificação nacional.
+Art. 7.º As dotações do Fundo de Apoio Térmico, além de custearem os encargos variáveis de toda a energia eléctrica produzida pela Empresa Termoeléctrica Portuguesa, poderão ser utilizadas para outros fins, a definir pelo Secretário de Estado da Indústria, com vista à aceleração da política de electrificação nacional.
 
 § único. A administração e a regulamentação do Fundo serão adaptadas ao novo regime estabelecido por despacho do Secretário de Estado da Indústria.
 
-###### Art. 8.º Serão devidamente contabilizadas de forma que possa apurar-se em qualquer momento o seu montante, tanto as quantias obrigatòriamente destinadas a autofinanciamento como as importâncias que for necessário juntar às anuidades de reintegração e de reconstituição para efeito de amortizações financeiras, ficando desde já definido que tais quantias e importâncias não serão consideradas para efeitos do estudo de futuros encargos tarifários.
+Art. 8.º Serão devidamente contabilizadas de forma que possa apurar-se em qualquer momento o seu montante, tanto as quantias obrigatòriamente destinadas a autofinanciamento como as importâncias que for necessário juntar às anuidades de reintegração e de reconstituição para efeito de amortizações financeiras, ficando desde já definido que tais quantias e importâncias não serão consideradas para efeitos do estudo de futuros encargos tarifários.
 
-###### Art. 9.º O fuel-oil destinado à laboração das centrais termoeléctricas exploradas pela Empresa Termoeléctrica Portuguesa poderá, por despacho do Ministro das Finanças, quando razões excepcionais o justifiquem, e mediante parecer favorável do Secretário de Estado da Indústria, ser isento do pagamento de direitos de importação, bem como da aplicação do disposto na base XV, n.º 2, da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, e no artigo 31.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, se for proveniente das refinarias nacionais.
+Art. 9.º O fuel-oil destinado à laboração das centrais termoeléctricas exploradas pela Empresa Termoeléctrica Portuguesa poderá, por despacho do Ministro das Finanças, quando razões excepcionais o justifiquem, e mediante parecer favorável do Secretário de Estado da Indústria, ser isento do pagamento de direitos de importação, bem como da aplicação do disposto na base XV, n.º 2, da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, e no artigo 31.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, se for proveniente das refinarias nacionais.
 
 § único. Nas importações do fuel-oil ao abrigo do presente diploma não será observado o disposto no artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
 
-###### Art. 10.º As dúvidas que se suscitarem na execução do presente decreto-lei serão resolvidas por despacho do Ministro da Economia.
+Art. 10.º As dúvidas que se suscitarem na execução do presente decreto-lei serão resolvidas por despacho do Ministro da Economia.
 
-**Publique-se e cumpra-se com nele se contém.**
+Publique-se e cumpra-se com nele se contém.
 
 Paços do Governo da República, 14 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - José Luís Esteves da Fonseca.

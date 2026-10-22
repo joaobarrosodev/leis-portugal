@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1567a435bee8b7086b438bdcacf7d0752f8d5ddb101b7eafd67304ed4cac4c53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 163fb7dec6f60c53505d062618ad5052adc657af7b694254a8d1625f801c5bda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Gestor Público
 relationships:
 - type: amended_by
   target: pt:dre:379361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUSPENSA A APLICAÇÃO DOS ART 9, 15, 16 E 17 DO ESTATUTO DO GESTOR PÚBLICO ANEXO AO PRESENTE DIPLOMA E ALTERADO O
+    NUM 2 DO ART 23 DO MESMO DIPLOMA PELO DEC LEI 387/77 DE 14-SET DR.IS [213].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1977-09-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 3, 5, 9, 20, 53 E ADITADO O ART 3-A PELO DEC LEI 51/79 DE 22-MAR DR.IS [68].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-03-22'
+- type: cites
+  target: pt:dre:230969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:379361:por
+  label: "Revogado pelo DEC LEI.464/82.1982.12.09.MFP DR.IS [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/464-1982-379361
+  date: '1982-12-09'
 article_structure:
-  article_count: 62
+  article_count: 61
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:41Z'
   warnings: []
   errors: []
 ---
@@ -102,17 +132,17 @@ Dá-se assim cumprimento ao disposto no artigo 31.º do [Decreto-Lei n.º 260/76
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto do Gestor Público, anexo a este decreto-lei e que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto do Gestor Público, anexo a este decreto-lei e que dele faz parte integrante.
 
-###### Art. 2.º Ficam revogados os artigos 23.º e 52.º do estatuto anexo ao [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, passando a matéria a regular-se pelas disposições correspondentes do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e do Estatuto anexo ao presente diploma.
+Art. 2.º Ficam revogados os artigos 23.º e 52.º do estatuto anexo ao [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, passando a matéria a regular-se pelas disposições correspondentes do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e do Estatuto anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 14 de Novembro de 1976.**
+Promulgado em 14 de Novembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DO GESTOR PÚBLICO
 
@@ -574,7 +604,7 @@ Os anexos I e II a este Estatuto podem ser alterados por resolução do Conselho
 
 Classificação das empresas para efeito de atribuição de graus de responsabilidade (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf))](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf)
 
 (nota 1) A classificação das empresas faz-se de acordo com as seguintes regras:
 
@@ -586,7 +616,7 @@ c) As alterações à classificação das empresas podem ser feitas por iniciati
 
 ## ANEXO II — Valor da retribuição base e das compensações de responsabilidade em unidades de conta (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf))](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf)
 
 (nota 1) O valor da unidade de conta é fixado por despacho do Ministro do Plano e Coordenação Económica ou entidade em quem este delegar, sob proposta do Conselho para a Carreira de Gestor Público.
 
@@ -594,8 +624,8 @@ QUADRO II
 
 Atribuição aos gestores de graus de responsabilidade (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf))](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/27600/26262635.pdf)
 
 (nota 1) São considerados graus de responsabilidade média os graus R2 e R3 e de responsabilidade superior os graus R4, R5 e R6.
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

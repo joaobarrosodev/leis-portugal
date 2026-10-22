@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/216-1973-422226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ab6434c63f9b6ad62082c1c75ff1f6d9a1af9a99f4aece4dcd00ff439471e37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c3859755cbefd3be9d66c801399afdeaba1f2e346d20eac15a2a0d612cc403b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:26Z'
   warnings: []
   errors: []
 ---
@@ -88,82 +92,82 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 140011529$70, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 140011529$70, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 20.º «Fundo de Turismo»:
+Capítulo 20.º «Fundo de Turismo»:
 
 Turismo - Promoção turística
 
-###### Artigo 578.º «Transferências - Sector público», n.º 1 «Fundo de Turismo» ... (35) 20000000$00
+Artigo 578.º «Transferências - Sector público», n.º 1 «Fundo de Turismo» ... (35) 20000000$00
 
 Ministério das Finanças
 
-### Capítulo 20.º «Despesas comuns»:
+Capítulo 20.º «Despesas comuns»:
 
-###### Artigo 308.º «Restituições», n.º 4, alínea 4 «Direcção-Geral das Contribuições e Impostos», n.º 1 «Títulos de anulação» ... 100000000$00
+Artigo 308.º «Restituições», n.º 4, alínea 4 «Direcção-Geral das Contribuições e Impostos», n.º 1 «Títulos de anulação» ... 100000000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 28.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 28.º «Direcção-Geral dos Serviços de Urbanização»:
 
 Melhoramentos rurais
 
 Subsídios para melhoramentos rurais
 
-###### Artigo 535.º «Transferências - Sector público», n.º 1 «Autarquias locais» ... 4090673$70
+Artigo 535.º «Transferências - Sector público», n.º 1 «Autarquias locais» ... 4090673$70
 
-###### Artigo 536.º «Transferências - Instituições particulares» ... 120856$00
+Artigo 536.º «Transferências - Instituições particulares» ... 120856$00
 
 ... 4211529$70
 
 Ministério das Comunicações
 
-### Capítulo 9.º «Contas de ordem»:
+Capítulo 9.º «Contas de ordem»:
 
-###### Artigo 257.º «Administração dos Portos do Douro e Leixões» ... 15800000$00
+Artigo 257.º «Administração dos Portos do Douro e Leixões» ... 15800000$00
 
 ... 140011529$70
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
 
 Orçamento das receitas do Estado
 
 Receita ordinária
 
-### Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 100000000$00
+Capítulo 1.º, grupo 1, artigo 3.º «Imposto profissional» ... 100000000$00
 
-### Capítulo 14.º, artigo 165.º «Reposições não abatidas nos pagamentos» ... 4211529$70
+Capítulo 14.º, artigo 165.º «Reposições não abatidas nos pagamentos» ... 4211529$70
 
-### Capítulo 15.º, artigo 189.º «Administração dos Portos do Douro e Leixões» ... 15800000$00
+Capítulo 15.º, artigo 189.º «Administração dos Portos do Douro e Leixões» ... 15800000$00
 
 Receita extraordinária
 
-### Capítulo 5.º, grupo 1, artigo 197.º «Fundos autónomos» ... 20000000$00
+Capítulo 5.º, grupo 1, artigo 197.º «Fundos autónomos» ... 20000000$00
 
 ... 140011529$70
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento de Encargos Gerais da Nação:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento de Encargos Gerais da Nação:
 
 A observação (35) aposta à dotação do capítulo 20.º, artigo 578.º, n.º 1), é alterada para:
 
 (35) Autofinanciamento do Fundo de Turismo de 50000000$00.
 
-###### Art. 4.º É autorizada a seguinte alteração ao orçamento privativo da Administração dos Portos do Douro e Leixões:
+Art. 4.º É autorizada a seguinte alteração ao orçamento privativo da Administração dos Portos do Douro e Leixões:
 
 Dotação a reforçar:
 
-###### Artigo 26.º «Transferências - Empresas» ... 15800000$00
+Artigo 26.º «Transferências - Empresas» ... 15800000$00
 
 Contrapartida:
 
 Receita ordinária:
 
-###### Artigo 6.º, n.º 8, alínea 18 «Taxas de utilização do terminal petrolífero» ... 15800000$00
+Artigo 6.º, n.º 8, alínea 18 «Taxas de utilização do terminal petrolífero» ... 15800000$00
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches. - Promulgado em 23 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

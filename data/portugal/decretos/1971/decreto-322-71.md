@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/322-1971-643100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fabe1356a1aa63fac292e9630a3fd89f4d5a02441d25459dcb0954796a8fbbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ae1100a5ee5229123cbf984464f7981290e9ba0b70b1e23d183a03c934bf6c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469466:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:24Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Sob proposta do Governo-Geral de Moçambique e parecer do Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os Serviços de Centralização e Coordenação de Informações de Moçambique, abreviadamente designados por S. C. C. I. M., dispõem de órgãos centrais e de órgãos regionais.
+Artigo 1.º - 1. Os Serviços de Centralização e Coordenação de Informações de Moçambique, abreviadamente designados por S. C. C. I. M., dispõem de órgãos centrais e de órgãos regionais.
 
 2. São órgãos centrais:
 
@@ -108,7 +112,7 @@ f) A Repartição Administrativa.
 
 3. Os órgãos regionais são constituídos por delegações distritais.
 
-###### Art. 2.º - 1. A Direcção é composta pelo director e subdirector, ambos escolhidos pelo Ministro do Ultramar e nomeados em comissão ordinária de serviço.
+Art. 2.º - 1. A Direcção é composta pelo director e subdirector, ambos escolhidos pelo Ministro do Ultramar e nomeados em comissão ordinária de serviço.
 
 2. A escolha deverá recair:
 
@@ -118,7 +122,7 @@ b) Para o lugar de subdirector, em um dos chefes de serviço do pessoal técnico
 
 3. O subdirector coadjuvará o director nas suas funções, segundo a orientação que lhe for dada por este, e substituí-lo-á nas suas faltas e impedimentos.
 
-###### Art. 3.º Os restantes órgãos a que se refere o artigo 1.º serão chefiados por funcionários das categorias e quadros seguintes:
+Art. 3.º Os restantes órgãos a que se refere o artigo 1.º serão chefiados por funcionários das categorias e quadros seguintes:
 
 a) Os Gabinetes por chefes de serviço do pessoal técnico de informações;
 
@@ -128,19 +132,19 @@ c) A Repartição Administrativa pelo chefe de repartição do pessoal de secret
 
 d) As delegações distritais por chefes de delegação do pessoal técnico de informações.
 
-###### Art. 4.º - 1. O pessoal do quadro comum dos Serviços é o constante do mapa I anexo a este diploma, do qual faz parte integrante e que segue assinado pelo Ministro do Ultramar.
+Art. 4.º - 1. O pessoal do quadro comum dos Serviços é o constante do mapa I anexo a este diploma, do qual faz parte integrante e que segue assinado pelo Ministro do Ultramar.
 
 2. O pessoal do quadro comum é nomeado pelo Ministro do Ultramar em missão ordinária de serviço, na forma da lei, devendo a escolha recair, em regra, em funcionários dos próprios Serviços.
 
 3. Findos quatro biénios de comissão, no mesmo ou em diferentes lugares do quadro dos Serviços, os indivíduos assim providos poderão ser nomeados definitivamente para o último cargo exercido, se o merecerem pelas qualidades reveladas e boas informações obtidas.
 
-###### Art. 5.º - 1. O Governo-Geral de Moçambique constituirá o quadro privativo dos Serviços, na forma da lei, devendo, contudo, observar as designações funcionais constantes do mapa II anexo a este diploma e que dele faz parte integrante.
+Art. 5.º - 1. O Governo-Geral de Moçambique constituirá o quadro privativo dos Serviços, na forma da lei, devendo, contudo, observar as designações funcionais constantes do mapa II anexo a este diploma e que dele faz parte integrante.
 
 2. O primeiro provimento dos lugares do quadro privativo dos Serviços far-se-á por qualquer das formas previstas no Estatuto do Funcionalismo Ultramarino, segundo o que ficar estabelecido no diploma que o fixar.
 
 3. O provimento e consequentes promoções, quando a elas haja lugar, nas categorias de tradutor-correspondente e em todas as do quadro do pessoal técnico de transmissões e de máquinas de cifrar, fica dispensado da subordinação às regras estabelecidas pelo artigo 13.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 6.º - 1. Sob proposta do Governo-Geral de Moçambique o Ministro do Ultramar distribuirá, em lista nominal, anotada pelo Tribunal de Contas e publicada no Diário do Governo, o pessoal dos actuais quadros pelos novos lugares do quadro comum, constantes do mapa I.
+Art. 6.º - 1. Sob proposta do Governo-Geral de Moçambique o Ministro do Ultramar distribuirá, em lista nominal, anotada pelo Tribunal de Contas e publicada no Diário do Governo, o pessoal dos actuais quadros pelos novos lugares do quadro comum, constantes do mapa I.
 
 2. O Governo-Geral de Moçambique distribuirá, em lista nominal, anotada pelo Tribunal Administrativo e publicada no Boletim Oficial, o pessoal que actualmente se encontra ao servido dos S. C. C. I. M., qualquer que seja a sua situação, dentro ou além dos quadros, pelo quadro privativo que vier a ser constituído nos termas do n.º 1 do artigo 5.º do presente diploma.
 
@@ -150,27 +154,27 @@ d) As delegações distritais por chefes de delegação do pessoal técnico de i
 
 5. Os agentes das brigadas móveis do extinto Serviço de Acção Psico-Social que, nos termos do artigo 4.º do [Decreto n.º 47162](https://diariodarepublica.pt/dr/detalhe/decreto/47162-1966-469466), de 23 de Agosto de 1966, ainda se encontram ao serviço, mas que não podem ser integrados nos novos quadros dos S. C. C. I. M., passam a constituir encargo dos orçamentos dos distritos onde prestam serviço.
 
-###### Art. 7.º Sempre que as necessidades do serviço o justifiquem, poderá, ainda, o governador-geral da província, por simples despacho:
+Art. 7.º Sempre que as necessidades do serviço o justifiquem, poderá, ainda, o governador-geral da província, por simples despacho:
 
 a) Mandar pessoal de outros quadros prestar serviço, por tempo determinado, nos órgãos centrais e regionais dos S. C. C. I. M.;
 
 b) Mandar contratar ou assalariar, além dos quadros dos mesmos serviços, o pessoal extraordinário eventual julgado indispensável, quando o respectivo encargo tenha cabimento dentro das dotações orçamentais dos serviços.
 
-###### Art. 8.º O primeiro provimento dos lugares que ficarem vagos depois da publicação das listas a que se refere o artigo 6.º poderá recair em indivíduos estranhos aos quadros dos serviços desde que preencham as condições legais e sejam considerados idóneos para o desempenho das respectivas funções.
+Art. 8.º O primeiro provimento dos lugares que ficarem vagos depois da publicação das listas a que se refere o artigo 6.º poderá recair em indivíduos estranhos aos quadros dos serviços desde que preencham as condições legais e sejam considerados idóneos para o desempenho das respectivas funções.
 
-###### Art. 9.º Aos lugares de director e subdirector dos serviços é atribuída a gratificação anual fixada no mapa I anexo a este diploma.
+Art. 9.º Aos lugares de director e subdirector dos serviços é atribuída a gratificação anual fixada no mapa I anexo a este diploma.
 
-###### Art. 10.º Os lugares constantes do mapa I serão dotados à medida que as necessidades dos serviços o impuserem e as disponibilidades financeiras da província o permitirem.
+Art. 10.º Os lugares constantes do mapa I serão dotados à medida que as necessidades dos serviços o impuserem e as disponibilidades financeiras da província o permitirem.
 
-###### Art. 11.º A ligação com as forças armadas e com as organizações militarizadas e para militares será assegurada por um gabinete dirigido por um chefe de serviço, assistido de um adjunto de chefe de serviço, a prover, respectivamente, por oficiais com as patentes de major ou capitão-tenente e capitão ou primeiro-tenente, em comissão ordinária de serviço ou destacados.
+Art. 11.º A ligação com as forças armadas e com as organizações militarizadas e para militares será assegurada por um gabinete dirigido por um chefe de serviço, assistido de um adjunto de chefe de serviço, a prover, respectivamente, por oficiais com as patentes de major ou capitão-tenente e capitão ou primeiro-tenente, em comissão ordinária de serviço ou destacados.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Julho de 1971.**
+Promulgado em 14 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
@@ -180,7 +184,7 @@ MAPA I
 
 Quadro comum dos Serviços de Centralização e Coordenação de Informações de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/17400/10801082.pdf))](https://files.diariodarepublica.pt/1s/1971/07/17400/10801082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/17400/10801082.pdf)
 
 Gratificação anual ao director ... 36000$00
 
@@ -190,6 +194,6 @@ MAPA II
 
 Quadro privativo dos Serviços de Centralização e Coordenação de Informações de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/17400/10801082.pdf))](https://files.diariodarepublica.pt/1s/1971/07/17400/10801082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/17400/10801082.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

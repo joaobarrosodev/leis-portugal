@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 298/1979, 3º Suplemento, Série I de 1979-12-28
   number: '298'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3414-(33) a 3414-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29803/00330034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-p-1979-510016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa68c447d525d608410fc6dd438302971314e458f0c6fafb25a0e0a2d1430567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a0c75df0c1ad4dbe748ba8eb7648ef3fdb2dd3fafd8eae2847d90900d62ec2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Deslocação em Serviço
+- Guarda Fiscal
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495556:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:29Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +122,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Tem direito ao abono de ajudas de custo por coluna volante o pessoal empenhado em operações de natureza fiscal e no serviço de trânsito acompanhando mercadorias em caminho de ferro, nos períodos de tempo e nas percentagens a seguir indicadas:
+Artigo 1.º - 1 - Tem direito ao abono de ajudas de custo por coluna volante o pessoal empenhado em operações de natureza fiscal e no serviço de trânsito acompanhando mercadorias em caminho de ferro, nos períodos de tempo e nas percentagens a seguir indicadas:
 
 a) Operações de duração superior a seis horas e inferior a oito horas - 50%;
 
@@ -110,14 +132,14 @@ c) Operações de duração igual ou superior a dezasseis horas em cada vinte e 
 
 2 - Nas operações de duração superior a vinte e quatro horas aplicam-se as percentagens acima estabelecidas nos dias do início e do termo da operação, não podendo no dia do termo a percentagem aplicada ser superior a 75%.
 
-###### Art. 2.º O quantitativo correspondente ao abono diário do subsídio de alimentação previsto pelo [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, será deduzido nas ajudas de custo quando as despesas, sujeitas a compensação, incluírem o custo do almoço.
+Art. 2.º O quantitativo correspondente ao abono diário do subsídio de alimentação previsto pelo [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, será deduzido nas ajudas de custo quando as despesas, sujeitas a compensação, incluírem o custo do almoço.
 
-###### Art. 3.º Este diploma entra em vigor no da imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no da imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

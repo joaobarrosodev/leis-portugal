@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16200/17061708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1980-471321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2754ac6e5fab285ade6e63af2f703c38851471eb89e7e93262e45972a5a3ecaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73c195fb52c91c32e256a4502084fb5ea56384d7cc1a42dd33fc2376ae6024cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação de Obras Públicas
+- Aquisição de Bens e Serviços
+- Concurso
+- Empreitada de Obras Públicas
+- Obras Públicas
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:218893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:481367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626600:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218893:por
+  label: "Revogado pelo DEC LEI.235/86.1986.08.18.MOPTC,DR.IS [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1986-218893
+  date: '1986-08-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:36Z'
   warnings: []
   errors: []
 ---
@@ -103,21 +130,21 @@ Revoga-se o [Decreto-Lei n.º 90-A/78](https://diariodarepublica.pt/dr/detalhe/d
 
 Nesta conformidade, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - Os artigos 6.º, 39.º, 66.º, 92.º, 160.º, 187.º e 203.º do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, passam a ter a seguinte redacção:
+Artigo 1.º - Os artigos 6.º, 39.º, 66.º, 92.º, 160.º, 187.º e 203.º do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, passam a ter a seguinte redacção:
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Definição do objecto da empreitada)
 
 O dono da obra definirá, com a maior precisão, nos elementos escritos e desenhados do projecto e no caderno de encargos, as características da obra e as condições técnicas da sua execução, bem como a qualidade dos materiais a aplicar, e apresentará uma lista de quantidades de trabalho, tão próximas quanto possível das quantidades a executar, na qual assentará a análise e o ordenamento por custos globais das propostas dos concorrentes à empreitada.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Encargos administrativos e lucros)
 
 A percentagem para cobertura dos encargos administrativos e remuneração do empreiteiro será a que, para cada caso, se fixar no contrato da empreitada.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Restituição ou cessação da caução)
 
@@ -131,7 +158,7 @@ a) Em caso de depósito em dinheiro, a indemnização será calculada com base e
 
 b) Em caso de depósito de títulos emitidos ou garantidos pelo Estado ou de garantia bancária, a indemnização será calculada com base nas taxas máximas e períodos fixados pelo Banco de Portugal para as garantias bancárias.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Do direito de não adjudicação)
 
@@ -155,7 +182,7 @@ a) Em caso de depósito em dinheiro, ao juro correspondente ao seu montante, cal
 
 b) Em caso de depósito de títulos emitidos ou garantidos pelo Estado ou de garantia bancária, a indemnização será calculada com base nas taxas máximas e períodos fixados pelo Banco de Portugal para as garantias bancárias.
 
-###### ARTIGO 160.º
+ARTIGO 160.º
 
 (Suspensão dos trabalhos pelo empreiteiro)
 
@@ -171,7 +198,7 @@ d) ...
 
 e) ...
 
-###### ARTIGO 187.º
+ARTIGO 187.º
 
 (Mora no pagamento)
 
@@ -185,7 +212,7 @@ e) ...
 
 5 - Quando as somas pagas forem inferiores àquelas que, finalmente, sejam devidas ao empreiteiro, este terá direito aos juros de mora calculados sobre a diferença e nos termos do n.º 2 do presente artigo.
 
-###### ARTIGO 203.º
+ARTIGO 203.º
 
 (Restituição dos depósitos e quantias devidas e extinção da caução)
 
@@ -197,9 +224,9 @@ a) Em caso de caução por depósito em dinheiro, calcula-se a importância com 
 
 b) Em caso de caução prestada por depósito de títulos emitidos ou garantidos pelo Estado, ou de garantia bancária, a indemnização será calculada com base nas taxas máximas e períodos fixados pelo Banco de Portugal para as garantias bancárias.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418) o artigo 173.º, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418) o artigo 173.º, com a seguinte redacção:
 
-###### ARTIGO 173.º
+ARTIGO 173.º
 
 (Revisão por alteração das circunstâncias)
 
@@ -213,20 +240,20 @@ b) Em caso de caução prestada por depósito de títulos emitidos ou garantidos
 
 5 - O acerto da revisão referido no número anterior pode, contudo, desde que o contrato o estipule, ser efectuado no fim da empreitada ou no fim de cada ano para as empreitadas cuja execução se prolongue por vários anos.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 90-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-1978-531444), de 10 de Maio, sem prejuízo para os empreiteiros dos direitos criados ou consolidados durante a sua vigência.
+Art. 3.º É revogado o [Decreto-Lei n.º 90-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-1978-531444), de 10 de Maio, sem prejuízo para os empreiteiros dos direitos criados ou consolidados durante a sua vigência.
 
-###### Art. 4.º São revogadas as disposições da [Portaria n.º 385/76](https://diariodarepublica.pt/dr/detalhe/portaria/385-1976-481367), de 25 de Junho, na parte referente à matéria directamente afectada pelas alterações ao [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418) constantes do presente diploma.
+Art. 4.º São revogadas as disposições da [Portaria n.º 385/76](https://diariodarepublica.pt/dr/detalhe/portaria/385-1976-481367), de 25 de Junho, na parte referente à matéria directamente afectada pelas alterações ao [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418) constantes do presente diploma.
 
-###### Art. 5.º Para as empreitadas em curso à data da entrada em vigor do presente diploma, as disposições nele constantes só produzem efeito noventa dias após a sua publicação.
+Art. 5.º Para as empreitadas em curso à data da entrada em vigor do presente diploma, as disposições nele constantes só produzem efeito noventa dias após a sua publicação.
 
-###### Art. 6.º O disposto no presente diploma e no [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, é aplicável, com as necessârias adaptações, aos contratos de fornecimento de obras públicas.
+Art. 6.º O disposto no presente diploma e no [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, é aplicável, com as necessârias adaptações, aos contratos de fornecimento de obras públicas.
 
-###### Art. 7.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 7 de Julho de 1980.**
+Promulgado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

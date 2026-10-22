@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/44-1985-171562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81d35d9391fbbb7800c5bc0d889e5369809223476befab614b91d585f1c981b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b48d4b211a468ae249eec393d2391d39314ca17fdb05e1aa8f547e4e8cf5d99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Áustria
+- Convenção
+- Portugal
+- Segurança Social
+- Viena
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:25Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +92,19 @@ de 5 de Novembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, a Convenção entre a República Portuguesa e a República da Áustria em Matéria de Segurança Social e o respectivo Protocolo Final, feitos em Viena em 18 de Abril de 1985, cujos textos em português e em alemão se publicam em anexo.
+Artigo único. São aprovados, para ratificação, a Convenção entre a República Portuguesa e a República da Áustria em Matéria de Segurança Social e o respectivo Protocolo Final, feitos em Viena em 18 de Abril de 1985, cujos textos em português e em alemão se publicam em anexo.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Amândio Anes de Azevedo.
 
-**Assinado em 4 de Outubro de 1985.**
+Assinado em 4 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Outubro de 1985.**
+Referendado em 7 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA ÁUSTRIA EM MATÉRIA DE SEGURANÇA SOCIAL
 
@@ -337,4 +342,4 @@ Pela República da Áustria:
 
 Leopold Graz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/25400/37093715.pdf))](https://files.diariodarepublica.pt/1s/1985/11/25400/37093715.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/25400/37093715.pdf)

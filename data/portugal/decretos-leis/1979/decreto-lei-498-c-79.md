@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 293/1979, 1º Suplemento, Série I de 1979-12-21
   number: '293'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3302-(9) a 3302-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29301/00090015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-c-1979-197079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ea20b939f4b91dd067ea32e84c51b3cfc152e732488e52e81b6a678a268031b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3304c9e60287053385648d76aa0009bda6b880d482c9ef0ea39bb9a64c975027
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Ministério da Cultura e da Ciência
+- Orgânica
+- Secretaria de Estado da Ciência
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:677802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392608:por
+  label: "Determinada a integração na Secretaria de Estado da Cultura, do Instituto da Cultura Portuguesa, redenominado pelo\
+    \ Decreto-Lei 541/76 de 09 de Julho, previsto na orgãnica aprovada pelo presente diploma, pelo DEC.7/79.27.01.1979.PCM,\
+    \ DR.IS [23] de 27.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/7-1979-392608
+  date: '1979-01-27'
+- type: cites
+  target: pt:dre:256210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623203:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692635:por
+  label: Rectificado pela DECL.DD6637.07.01.1980.PCM, DR.IS [20] de 24.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692635
+  date: '1980-01-07'
+- type: repealed_by
+  target: pt:dre:677802:por
+  label: "Revogado pelo DEC LEI.59/80.03.04.1980.PCM, DR.IS [79] de 03.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-1980-677802
+  date: '1980-04-03'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:52Z'
   warnings: []
   errors: []
 ---
@@ -443,7 +487,7 @@ Poderá ser integrado nas carreiras e categorias estabelecidas ou a estabelecer 
 
 ###### ARTIGO 37.º — (Providências orçamentais)
 
-**O Ministro das Finanças introduzirá no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.**
+O Ministro das Finanças introduzirá no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
 ###### ARTIGO 38.º — (Revogação de legislação)
 
@@ -459,8 +503,8 @@ Com exclusão do que se refere a remunerações, o presente diploma produz efeit
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Adérito de Oliveira Sedas Nunes.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

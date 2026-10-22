@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22300/29382941.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1980-461815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b6627063cfe02b2f3cab842b28334b9c6b32fcc7d9ac403369b8ac71da1641f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8145e55d982f5f31f0a5ddf5f3bf5434795e3cdccd6a5cad09c2d813e836f66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Incentivos Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626668:por
+  label: "Alterada a redacção dos arts. 1º, 2º e 4º pelo DEC LEI.492/82.31.12.1982.MFP, DR.IS [301-2ºSupl] de 31.12.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/492-1982-626668
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:630198:por
+  label: Prorrogada, até 31.12.1984, a vigência das disposições do presente diploma, com a redação dada pelo Dec Lei 492/82
+    de 31-dez, pelo(a) Portaria n.º 1079/83 - Diário da República n.º 301/1983, 10º Suplemento, Série I de 1983-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1079-1983-630198
+  date: '1983-12-31'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:253070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502205:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:462380:por
+  label: Rectificado pela DECL.DD6854.28.10.1980.PCM, DR.IS [250] de 28.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462380
+  date: '1980-10-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:17Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +182,7 @@ Existe conveniência em desincentivar o adiamento do recebimento das exportaçõ
 
 Assim, no uso da autorização conferida pelo artigo 1.º da [Lei n.º 31/80](https://diariodarepublica.pt/dr/detalhe/lei/31-1980-472086), de 27 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Às empresas pertencentes aos grupos A e B da contribuição industrial com contabilidade regularmente organizada que exportem serviços ou mercadorias do seu comércio e indústria são concedidos, nos anos de 1981 e 1982, os seguintes incentivos fiscais:
+Artigo 1.º Às empresas pertencentes aos grupos A e B da contribuição industrial com contabilidade regularmente organizada que exportem serviços ou mercadorias do seu comércio e indústria são concedidos, nos anos de 1981 e 1982, os seguintes incentivos fiscais:
 
 a) Dedução no lucro tributável da contribuição industrial, depois de consideradas as demais deduções legais aplicáveis, e até à sua concorrência, de uma importância dada pela seguinte expressão:
 
@@ -167,7 +204,7 @@ b) Consideração como custos ou perdas do exercício, para efeitos do artigo 26
 
 c) Isenção do imposto de mais-valias incidente sobre os ganhos a que se refere o n.º 2 do artigo 1.º do respectivo Código, incluindo os sujeitos a imposto por força do disposto no n.º 1 do mesmo artigo, quando, pelo menos, 80% do valor de realização dos bens sejam reinvestidos, até ao fim do ano seguinte ao da transmissão, em bens de equipamento novos utilizados na fabricação de produtos exportados pela empresa.
 
-###### Art. 2.º - 1 - A dedução referida na alínea a) do artigo anterior será efectuada no lucro tributável do respectivo exercício, devendo os interessados apresentar, com a declaração para efeitos da liquidação da contribuição industrial, declaração, isenta de imposto do selo, comprovativa quer do valor das receitas em divisas provenientes das exportações de bens e serviços no ano a que respeita a dedução do seu incremento, relativamente ao ano anterior.
+Art. 2.º - 1 - A dedução referida na alínea a) do artigo anterior será efectuada no lucro tributável do respectivo exercício, devendo os interessados apresentar, com a declaração para efeitos da liquidação da contribuição industrial, declaração, isenta de imposto do selo, comprovativa quer do valor das receitas em divisas provenientes das exportações de bens e serviços no ano a que respeita a dedução do seu incremento, relativamente ao ano anterior.
 
 2 - A declaração comprovativa referida no número anterior deverá ser acompanhada de cópia dos bordereaux bancários emitidos pelas instituições de crédito aquando dos recebimentos do valor das mercadorias e dos serviços exportados.
 
@@ -175,7 +212,7 @@ c) Isenção do imposto de mais-valias incidente sobre os ganhos a que se refere
 
 4 - A percentagem do valor acrescentado nacional correspondente às mercadorias e serviços exportados e o coeficiente K serão fixados por portaria do Ministro das Finanças e do Plano.
 
-###### Art. 3.º - 1 - A isenção referida na alínea c) do artigo 1.º será concedida por despacho do Ministro das Finanças e do Plano, a requerimento da empresa interessada, apresentado na repartição de finanças competente para a liquidação do imposto, durante o mês de Janeiro do ano seguinte àquele em que o reinvestimento foi efectuado.
+Art. 3.º - 1 - A isenção referida na alínea c) do artigo 1.º será concedida por despacho do Ministro das Finanças e do Plano, a requerimento da empresa interessada, apresentado na repartição de finanças competente para a liquidação do imposto, durante o mês de Janeiro do ano seguinte àquele em que o reinvestimento foi efectuado.
 
 2 - O requerimento será informado pela Direcção-Geral das Contribuições e Impostos, depois de ouvidos os serviços competentes do Ministério ou Ministérios que superintendem na respectiva actividade.
 
@@ -185,7 +222,7 @@ c) Isenção do imposto de mais-valias incidente sobre os ganhos a que se refere
 
 5 - A falta da apresentação do requerimento dentro do prazo referido no n.º 1 importa a impossibilidade da concessão da isenção.
 
-###### Art. 4.º São isentos do imposto do selo:
+Art. 4.º São isentos do imposto do selo:
 
 a) Os contratos para a exportação de bens ou serviços realizados nos anos de 1981 e 1982;
 
@@ -193,16 +230,16 @@ b) Os contratos de concessão de crédito à exportação nos termos do [Decreto
 
 c) Os documentos necessários à realização dos contratos referidos nas alíneas anteriores e, bem assim, os documentos e actos relacionados com a sua execução e as operações respeitantes à utilização do crédito.
 
-###### Art. 5.º Às inexactidões praticadas na declaração a que se refere o n.º 1 do artigo 2.º do presente diploma são aplicáveis as multas estabelecidas no artigo 142.º do Código da Contribuição Industrial para as inexactidões praticadas nos documentos que devem acompanhar a declaração para liquidação da contribuição industrial.
+Art. 5.º Às inexactidões praticadas na declaração a que se refere o n.º 1 do artigo 2.º do presente diploma são aplicáveis as multas estabelecidas no artigo 142.º do Código da Contribuição Industrial para as inexactidões praticadas nos documentos que devem acompanhar a declaração para liquidação da contribuição industrial.
 
-###### Art. 6.º Quaisquer dúvidas surgidas na interpretação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 6.º Quaisquer dúvidas surgidas na interpretação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 7.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1981.
+Art. 7.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 17 de Setembro de 1980.**
+Promulgado em 17 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

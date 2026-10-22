@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1973-421824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2238406b3ea4caa80f090ff20d8a71620b9a24cf0b8268241e22737bfbc40b3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06218e8bd86f481e1fa75291a790b67b095f59e378469a4b18d0166da650feb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Pessoal Docente
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:370049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370049:por
+  label: "Alterado o quadro de pessoal das assessorias jurídicas nas Universidades de Coimbra, Lisboa, Porto e Técnica de\
+    \ Lisboa, criadas pelo presente diploma e revogado o n.º 4 do seu art. 3.º pelo DEC LEI.353/79.30.08.1979.MEIC, DR.IS\
+    \ [200] de 30.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-1979-370049
+  date: '1979-08-30'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:48Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +112,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada em cada Universidade uma assessoria jurídica destinada a prestar apoio aos respectivos órgãos de governo, bem como aos órgãos das faculdades, escolas ou institutos nela integrados.
+Artigo 1.º É criada em cada Universidade uma assessoria jurídica destinada a prestar apoio aos respectivos órgãos de governo, bem como aos órgãos das faculdades, escolas ou institutos nela integrados.
 
-###### Art. 2.º - 1. Compete às assessorias jurídicas das Universidades:
+Art. 2.º - 1. Compete às assessorias jurídicas das Universidades:
 
 a) A elaboração dos estudos e pareceres de natureza jurídica relativos à gestão das respectivas instituições;
 
@@ -110,7 +124,7 @@ c) O desempenho de outras funções de natureza jurídica de interesse geral da 
 
 2. A realização por cada assessoria jurídica de qualquer das actividades referidas no número anterior depende de determinação do reitor da Universidade ou do seu substituto legal.
 
-###### Art. 3.º - 1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.
+Art. 3.º - 1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.
 
 2. Os assessores serão contratados mediante autorização do reitor ou seu substituto legal, até ao limite de cinco para cada Universidade.
 
@@ -118,16 +132,16 @@ c) O desempenho de outras funções de natureza jurídica de interesse geral da 
 
 4. Ao assessor encarregado de dirigir e coordenar, sob a orientação do reitor, a actividade da assessoria de cada Universidade será atribuída a gratificação mensal de 1500$00.
 
-###### Art. 4.º - 1. Serão inscritas nos orçamentos das Universidades as verbas necessárias à cobertura dos encargos decorrentes da execução do presente diploma.
+Art. 4.º - 1. Serão inscritas nos orçamentos das Universidades as verbas necessárias à cobertura dos encargos decorrentes da execução do presente diploma.
 
 2. Os encargos resultantes da promulgação deste diploma serão, no ano corrente, satisfeitos pelas disponibilidades das verbas inscritas para pessoal nos orçamentos das Universidades.
 
-###### Art. 5.º O Ministro da Educação Nacional expedirá, ouvidos os reitores das Universidades, as instruções necessárias para o funcionamento dos serviços de assessoria criados pelo presente diploma.
+Art. 5.º O Ministro da Educação Nacional expedirá, ouvidos os reitores das Universidades, as instruções necessárias para o funcionamento dos serviços de assessoria criados pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 11 de Julho de 1973.**
+Promulgado em 11 de Julho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

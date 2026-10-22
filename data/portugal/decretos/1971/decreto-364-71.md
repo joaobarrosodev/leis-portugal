@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/364-1971-629997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4435151c6bf2811d1b83dff7397a6056a615d36e551346a31caaa4cedf89fd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d55a9424a8f691a22d3bf46833022eff675f1e50f697370d4def74d70f73be53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:55Z'
   warnings: []
   errors: []
 ---
@@ -98,42 +106,42 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Nos termos do n.º 4 da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, é criada no local de Cambarinho, freguesia de Campia, concelho de Vouzela, a Reserva Botânica de Cambarinho, destinada a proteger a espécie denominada loendro [Rhododendron ponticum L. ssp. baeticum (Bss. et Reut.) Handel-Mazzetti], cujos limites são definidos pela linha perimetral da planta anexa ao presente diploma.
+Artigo 1.º - 1. Nos termos do n.º 4 da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, é criada no local de Cambarinho, freguesia de Campia, concelho de Vouzela, a Reserva Botânica de Cambarinho, destinada a proteger a espécie denominada loendro [Rhododendron ponticum L. ssp. baeticum (Bss. et Reut.) Handel-Mazzetti], cujos limites são definidos pela linha perimetral da planta anexa ao presente diploma.
 
 2. A reserva será integral, dada a sua finalidade, pelo que ficam de igual modo protegidas todas as espécies companheiras do loendro, bem como a fauna.
 
 3. No entanto, e na medida em que a superfície da Reserva vier a ser aumentada, será definida, na sua periferia, uma zona de protecção denominada «reserva paisagística».
 
-###### Art. 2.º A área inicial da Reserva é de 24 ha, podendo de futuro ser alargada até às linhas de cumeada, englobando todas as linhas de água pertencentes à bacia hidrográfica da ribeira de Cambarinho entre a povoação de Zibreiras e a Ponte do Ribeiro.
+Art. 2.º A área inicial da Reserva é de 24 ha, podendo de futuro ser alargada até às linhas de cumeada, englobando todas as linhas de água pertencentes à bacia hidrográfica da ribeira de Cambarinho entre a povoação de Zibreiras e a Ponte do Ribeiro.
 
-###### Art. 3.º - 1. Os terrenos que fazem parte daquela Reserva ficam desde já submetidos ao regime florestal obrigatório.
+Art. 3.º - 1. Os terrenos que fazem parte daquela Reserva ficam desde já submetidos ao regime florestal obrigatório.
 
 2. A Reserva será policiada por um guarda florestal do Serviço de Inspecção da Caça e Pesca, que fará também o policiamento à protecção da natureza na zona que lhe for fixada.
 
-###### Art. 4.º A Reserva será sinalizada na sua periferia por tabuletas do modelo aprovado oficialmente.
+Art. 4.º A Reserva será sinalizada na sua periferia por tabuletas do modelo aprovado oficialmente.
 
-###### Art. 5.º - 1. É proibida a entrada na área da Reserva, sem a necessária autorização, a pessoas, animais e veículos.
+Art. 5.º - 1. É proibida a entrada na área da Reserva, sem a necessária autorização, a pessoas, animais e veículos.
 
 2. As visitas de estudo só serão permitidas mediante autorização escrita do director-geral dos Serviços Florestais e Aquícolas ou de quem legalmente o substitua.
 
-###### Art. 6.º - 1. A entrada de pessoas na Reserva fora dos casos e condições permitidos, e a de animais e veículos constituem contravenção punível com a multa, respectivamente, de 100$00, 500$00 e 1000$00, independentemente de outra pena mais grave que no caso couber.
+Art. 6.º - 1. A entrada de pessoas na Reserva fora dos casos e condições permitidos, e a de animais e veículos constituem contravenção punível com a multa, respectivamente, de 100$00, 500$00 e 1000$00, independentemente de outra pena mais grave que no caso couber.
 
 2. As demais infracções serão punidas nos termos da legislação da polícia florestal e, na sua falta, da lei penal geral.
 
 3. Os autos de notícia pelas infracções do disposto neste diploma serão levantados e processados nos termos das normas do Regulamento do Serviço da Polícia Florestal.
 
-###### Art. 7.º As dúvidas que surgirem na interpretação ou na execução do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura.
+Art. 7.º As dúvidas que surgirem na interpretação ou na execução do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura.
 
 Marcello Caetano - João Augusto Dias Rosas - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 11 de Agosto de 1971.**
+Promulgado em 11 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 RESERVA BOTÂNICA DE CAMBARINHO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20000/12301231.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20000/12301231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20000/12301231.pdf)
 
-**O Ministro da Economia, João Augusto Dias Rosas. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Ministro da Economia, João Augusto Dias Rosas. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

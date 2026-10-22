@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01500/00910092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1977-138173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3468dee1e2d784c1c406753bd8ffb616427a6688954bee91b659b2d189dde8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63160f13d28a83c6c1a810e7098ad8e3388dd888401f31d919c09ca214c88be5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Autarquia Local
+- Benefícios Fiscais
+- Construção Civil
+- Contrato de Desenvolvimento
+- Financiamento
+- Habitação
+- Habitação Social
+- Política de Habitação
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:621561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626600:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621561:por
+  label: "Revogado pelo DEC LEI.412-A/77.1977.09.29.MHUC, DR.IS [226]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-a-1977-621561
+  date: '1977-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:58Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +132,9 @@ Considerando a necessidade de clarificar e actualizar algumas das disposições 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 7.º, 8.º, 10.º, 11.º e 13.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980), de 29 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 7.º, 8.º, 10.º, 11.º e 13.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980), de 29 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 a) A levar a efeito, de acordo com um plano aprovado cuja duração total não poderá ultrapassar o prazo de vigência do contrato, num número pré-fixado de habitações, segundo o estabelecido no n.º 3 do artigo 1.º, e os equipamentos colectivos cuja inclusão, de acordo com o n.º 4 deste artigo, tenha sido autorizada no contrato;
 
@@ -111,7 +150,7 @@ a) ...
 
 b) Que entidades, além das indicadas na alínea c) do n.º 3 do artigo 7.º, poderão intervir nas negociações e na celebração do contrato, com a finalidade, nomeadamente, de orientar a definição dos projectos e dos programas e de adquirir os equipamentos.
 
-###### Art. 7.º - 1. ...
+Art. 7.º - 1. ...
 
 2. ...
 
@@ -123,11 +162,11 @@ f) Redução, em percentagem a fixar por despacho do Ministro das Finanças, at�
 
 g) Isenção de impostos e taxas estabelecida nas alíneas c), d), e) e f) do artigo 16.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, para as habitações construídas ao abrigo do contrato.
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 2. O FFH e as entidades referidas na alínea c) do n.º 3 do artigo anterior terão o direito de acompanhar e controlar o andamento da execução dos projectos, programas e medidas objecto do contrato e, se for caso disso, acompanhar a evolução das actividades das empresas contratantes, bem como o de exigir das mesmas todas as informações e elementos de prova considerados indispensáveis para averiguar do efectivo cumprimento do contrato e da medida de quaisquer benefícios a atribuir-lhes.
 
-###### Art. 10.º - 1. Logo que celebrado o «contrato de desenvolvimento» para habitação, o FFH deve notificar a câmara municipal do concelho em que o empreendimento se situa para que proceda à constituição dos serviços municipais de habitação, caso estes não estejam constituídos.
+Art. 10.º - 1. Logo que celebrado o «contrato de desenvolvimento» para habitação, o FFH deve notificar a câmara municipal do concelho em que o empreendimento se situa para que proceda à constituição dos serviços municipais de habitação, caso estes não estejam constituídos.
 
 2. Aos serviços municipais de habitação criados ao abrigo do [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), de 6 de Novembro, caberá o processamento da distribuição e do arrendamento e alienação das habitações sociais construídas ao abrigo dos «contratos de desenvolvimento», com vista ao alojamento dos agregados familiares que a elas tenham direito, salvo se no contrato ficarem definidos critérios especiais a observar, no que se refere ao modo de distribuição daquelas habitações.
 
@@ -135,15 +174,15 @@ g) Isenção de impostos e taxas estabelecida nas alíneas c), d), e) e f) do ar
 
 4. ...
 
-###### Art. 11.º - 1. Quaisquer dúvidas ou lacunas que surjam na aplicação e execução dos «contratos de desenvolvimento» serão esclarecidas ou preenchidas por despacho do Ministro da Habitação, Urbanismo e Construção ou, quando se refiram à concessão de benefícios ou créditos, por despacho do Ministro das Finanças.
+Art. 11.º - 1. Quaisquer dúvidas ou lacunas que surjam na aplicação e execução dos «contratos de desenvolvimento» serão esclarecidas ou preenchidas por despacho do Ministro da Habitação, Urbanismo e Construção ou, quando se refiram à concessão de benefícios ou créditos, por despacho do Ministro das Finanças.
 
 2. ...
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. Mantêm-se as reduções e isenções já concedidas para os «contratos de desenvolvimento» celebrados na vigência do [Decreto-Lei n.º 663/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1974-466074), de 26 de Novembro, ou cujas propostas tenham sido admitidas nos termos do n.º 4 do artigo 17.º do mesmo diploma, com a redacção do [Decreto-Lei n.º 558/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1975-312201), de 1 de Outubro.
 
-###### Art. 2.º - 1. É aditado ao artigo 5.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980) um n.º 5, com a seguinte redacção:
+Art. 2.º - 1. É aditado ao artigo 5.º do [Decreto-Lei n.º 638/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1976-430980) um n.º 5, com a seguinte redacção:
 
 5. As empresas no caso n.º 1, se para tanto obtiverem o acordo dos intervenientes do contrato de desenvolvimento e dos serviços municipais de habitação, podem usar da faculdade de prometer vender os fogos depois de executadas as alvenarias e a cobertura dos respectivos edifícios e antes de concluídos, devendo nesse caso de proceder do seguinte modo:
 
@@ -155,7 +194,7 @@ b) Os serviços municipais de habitação deverão organizar o concurso de harmo
 
 9. A fiança prevista na alínea e) do n.º 3 poderá garantir operações de financiamento intercalar que permitam o início das obras ou fabrico antes da assinatura do contrato de desenvolvimento, à taxa de juro acordada para este.
 
-###### Art. 3.º - 1. As propostas de preços e custos dos «contratos de desenvolvimento» para habitação que tenham sido elaboradas e apresentadas entre 23 de Maio de 1975 e a data da entrada em vigor do presente diploma poderão ser revistos nos termos dos números seguintes, mediante requerimento fundamentado da empresa, apresentado no Fundo de Fomento da Habitação, no prazo de quarenta e cinco dias.
+Art. 3.º - 1. As propostas de preços e custos dos «contratos de desenvolvimento» para habitação que tenham sido elaboradas e apresentadas entre 23 de Maio de 1975 e a data da entrada em vigor do presente diploma poderão ser revistos nos termos dos números seguintes, mediante requerimento fundamentado da empresa, apresentado no Fundo de Fomento da Habitação, no prazo de quarenta e cinco dias.
 
 2. O Fundo de Fomento da Habitação, ouvida a entidade financiadora, deverá, relativamente a cada um dos requerimentos referidos no número anterior, elaborar o seu parecer devidamente fundamentado.
 
@@ -163,8 +202,8 @@ b) Os serviços municipais de habitação deverão organizar o concurso de harmo
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 6 de Janeiro de 1977.**
+Promulgado em 6 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1980-462432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f6fd3e49c9478c704c2f0edec93406ad2762220022aeee84801ed994eac81cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 593830e397f22b5fa528796d06d043a0340d1ae5afa668cde3aaa5d863f0b9a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAICA-Complexo Agro-Industrial do Cachão
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:468672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471918:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218910:por
+  label: "Revogado o art. 3.º e alterado o art. 4.º, pelo DEC LEI.233/86.14.08.1986.MAPA, DR.IS [186] de 14.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-1986-218910
+  date: '1986-08-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:51Z'
   warnings: []
   errors: []
 ---
@@ -94,61 +113,61 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica expressamente autorizada a transferência do activo e passivo referentes ao Complexo Agro-Industrial do Cachão para a sociedade anónima que se vier a criar, nos termos do presente diploma e dos estatutos a ele anexos, a qual adoptará a denominação de Caica - Complexo Agro-Industrial do Cachão, S. A. R. L., adiante designada por Caica.
+Artigo 1.º - 1 - Fica expressamente autorizada a transferência do activo e passivo referentes ao Complexo Agro-Industrial do Cachão para a sociedade anónima que se vier a criar, nos termos do presente diploma e dos estatutos a ele anexos, a qual adoptará a denominação de Caica - Complexo Agro-Industrial do Cachão, S. A. R. L., adiante designada por Caica.
 
 2 - A transferência concretiza-se na data da celebração da escritura pública da constituição do Caica.
 
 3 - A transferência referida nos números anteriores está dispensada de quaisquer formalidades legais.
 
-###### Art. 2.º - 1 - O capital social do Caica será de 68000 contos, representado por acções com o valor nominal de 1000$00 cada uma.
+Art. 2.º - 1 - O capital social do Caica será de 68000 contos, representado por acções com o valor nominal de 1000$00 cada uma.
 
 2 - O titular da totalidade das acções referidas no número anterior será o Estado, representado pelos Ministérios das Finanças e do Plano e da Agricultura e Pescas, que exercerá os direitos sociais inerentes a essa titularidade através de mandatários designados pelos respectivos Ministros.
 
-###### Art. 3.º Ficam excluídas da titularidade e gestão do Instituto das Participações do Estado (IPE) as acções do Caica, bem como as de sociedades que, por força da eventual individualização de partes do património daquele, venham a surgir.
+Art. 3.º Ficam excluídas da titularidade e gestão do Instituto das Participações do Estado (IPE) as acções do Caica, bem como as de sociedades que, por força da eventual individualização de partes do património daquele, venham a surgir.
 
-###### Art. 4.º - 1 - O Caica deterá obrigatoriamente a maioria absoluta do capital social das novas sociedades a que se refere o artigo anterior.
+Art. 4.º - 1 - O Caica deterá obrigatoriamente a maioria absoluta do capital social das novas sociedades a que se refere o artigo anterior.
 
 2 - O Ministro da Agricultura e Pescas fixará por despacho as prioridades a conceder aos eventuais interessados na subscrição do restante capital social, com preferência para a lavoura local e suas organizações.
 
-###### Art. 5.º - 1 - A Direcção Regional de Trás-os-Montes dará o apoio técnico necessário ao Caica.
+Art. 5.º - 1 - A Direcção Regional de Trás-os-Montes dará o apoio técnico necessário ao Caica.
 
 2 - Por despacho ministerial, poderão os funcionários dos quadros do Ministério da Agricultura e Pescas ser deslocados, a tempo inteiro, para o Caica, não sendo as suas situações de funcionários prejudicadas de qualquer forma perante os serviços de origem.
 
 3 - Estas deslocações serão precedidas de acordo prévio do funcionário, o qual continuará a receber o seu vencimento pelo serviço de origem.
 
-###### Art. 6.º - 1 - O balanço de fecho de contas do Complexo Agro-Industrial do Cachão, a apresentar pela comissão instaladora da Empresa Pública do Cachão, criada pela resolução do Conselho de Ministros de 9 de Junho de 1976, publicada no Diário da República, de 2 de Julho de 1976, será aprovado por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas.
+Art. 6.º - 1 - O balanço de fecho de contas do Complexo Agro-Industrial do Cachão, a apresentar pela comissão instaladora da Empresa Pública do Cachão, criada pela resolução do Conselho de Ministros de 9 de Junho de 1976, publicada no Diário da República, de 2 de Julho de 1976, será aprovado por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas.
 
 2 - O referido balanço reportar-se-á à data mencionada no n.º 2 do artigo 1.º deste diploma e conterá o resultado das medidas de saneamento financeiro que entretanto forem determinadas pelos Ministros das Finanças e do Plano e da Agricultura e Pescas.
 
-###### Art. 7.º - 1 - Os técnicos agrícolas de fomento agrário da ex-Federação dos Grémios da Lavoura do Nordeste Transmontano, cujos vencimentos têm vindo a ser suportados pelo Complexo Agro-Industrial do Cachão, são integrados na Direcção Regional de Trás-os-Montes, sendo o quadro único do Ministério da Agricultura e Pescas aumentado do número de unidades indispensáveis para esse efeito e aplicando-se as regras constantes do artigo 52.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, na redacção que lhe foi dada pelo [Decreto-Lei n.º 320/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1978-327315), de 4 de Novembro.
+Art. 7.º - 1 - Os técnicos agrícolas de fomento agrário da ex-Federação dos Grémios da Lavoura do Nordeste Transmontano, cujos vencimentos têm vindo a ser suportados pelo Complexo Agro-Industrial do Cachão, são integrados na Direcção Regional de Trás-os-Montes, sendo o quadro único do Ministério da Agricultura e Pescas aumentado do número de unidades indispensáveis para esse efeito e aplicando-se as regras constantes do artigo 52.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, na redacção que lhe foi dada pelo [Decreto-Lei n.º 320/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1978-327315), de 4 de Novembro.
 
 2 - Para efeitos do disposto no número anterior, ter-se-á obrigatoriamente em conta o tempo de serviço prestado na ex-Federação dos Grémios da Lavoura do Nordeste Transmontano e no Complexo Agro-Industrial do Cachão.
 
-###### Art. 8.º Os actuais trabalhadores do Complexo Agro-Industrial do Cachão terão direito de preferência no preenchimento dos postos de trabalho gerados pela constituição das sociedades que venham a surgir por cisão de partes do Caica.
+Art. 8.º Os actuais trabalhadores do Complexo Agro-Industrial do Cachão terão direito de preferência no preenchimento dos postos de trabalho gerados pela constituição das sociedades que venham a surgir por cisão de partes do Caica.
 
-###### Art. 9.º - 1 - Consideram-se incluídas na transferência referida no n.º 1 do artigo 1.º as dotações de capital e subsídios de exploração atribuídos ao Complexo Agro-Industrial do Cachão e integrados no Plano de Investimentos do Sector Empresarial do Estado.
+Art. 9.º - 1 - Consideram-se incluídas na transferência referida no n.º 1 do artigo 1.º as dotações de capital e subsídios de exploração atribuídos ao Complexo Agro-Industrial do Cachão e integrados no Plano de Investimentos do Sector Empresarial do Estado.
 
 2 - O Caica sucederá ao Complexo Agro-Industrial do Cachão no que respeita à elaboração e execução do Plano de Investimento a Médio Prazo (1981-1984).
 
-###### Art. 10.º As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas.
+Art. 10.º As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 11 de Outubro de 1980.**
+Promulgado em 11 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTOS
 
 ### CAPÍTULO I — Denominação, sede, objecto e duração
 
-###### Artigo 1.º A sociedade adopte a denominação de Caica - Complexo Agro-Industrial do Cachão, S. A. R. L.
+Artigo 1.º A sociedade adopte a denominação de Caica - Complexo Agro-Industrial do Cachão, S. A. R. L.
 
-###### Art. 2.º A sociedade tem a sua sede no Cachão, podendo, nos termos legais, estabelecer sucursais, agências, filiais ou delegações necessárias ao desenvolvimento da sua actividade em qualquer lugar do País ou do estrangeiro.
+Art. 2.º A sociedade tem a sua sede no Cachão, podendo, nos termos legais, estabelecer sucursais, agências, filiais ou delegações necessárias ao desenvolvimento da sua actividade em qualquer lugar do País ou do estrangeiro.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto:
+Art. 3.º - 1 - A sociedade tem por objecto:
 
 a) O desenvolvimento das actividades ligadas à produção, aquisição, transformação e comercialização de produtos agro-pecuários e actividades afins;
 
@@ -156,33 +175,33 @@ b) A gestão de participações financeiras, designadamente as que venham a resu
 
 2 - As actividades descritas nas alíneas anteriores serão exercidas tendo presentes as potencialidades da empresa como motor do desenvolvimento sócio-económico da região de Trás-os-Montes e Alto Douro.
 
-###### Art. 4.º A sociedade constitui-se por tempo indeterminado.
+Art. 4.º A sociedade constitui-se por tempo indeterminado.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 5.º O capital social é de 68000000$00, integralmente subscrito e realizado nos termos legais, e está representado por 68000 acções com o valor nominal de 1000$00 cada uma.
+Art. 5.º O capital social é de 68000000$00, integralmente subscrito e realizado nos termos legais, e está representado por 68000 acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 6.º - 1 - O conselho de administração fica autorizado a aumentar o capital social até ao montante de 1000000000$00.
+Art. 6.º - 1 - O conselho de administração fica autorizado a aumentar o capital social até ao montante de 1000000000$00.
 
 2 - A assembleia geral deliberará sobre os aumentos de capital social que ultrapassem o limite estabelecido no número anterior.
 
-###### Art. 7.º A sociedade pode emitir obrigações, nos termos e condições a fixar pela assembleia geral.
+Art. 7.º A sociedade pode emitir obrigações, nos termos e condições a fixar pela assembleia geral.
 
 ### CAPÍTULO III — Património
 
-###### Art. 8.º O património da sociedade é constituído pelos bens e direitos para ela transferidos por força do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 502/80, de 20 de Outubro.
+Art. 8.º O património da sociedade é constituído pelos bens e direitos para ela transferidos por força do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 502/80, de 20 de Outubro.
 
-###### Art. 9.º A assembleia geral, sob proposta do conselho de administração, poderá deliberar a alienação de partes do património referido no artigo anterior, a favor da constituição de outras sociedades, em cujo capital participará maioritariamente.
+Art. 9.º A assembleia geral, sob proposta do conselho de administração, poderá deliberar a alienação de partes do património referido no artigo anterior, a favor da constituição de outras sociedades, em cujo capital participará maioritariamente.
 
 ### CAPÍTULO IV — Administração e fiscalização
 
-###### Art. 10.º - 1 - A sociedade será administrada por um conselho de administração formado por três a cinco membros, eleitos pela assembleia geral, que designará o respectivo presidente.
+Art. 10.º - 1 - A sociedade será administrada por um conselho de administração formado por três a cinco membros, eleitos pela assembleia geral, que designará o respectivo presidente.
 
 2 - O conselho de administração designará de entre os seus membros um administrador-delegado, que terá os poderes definidos no artigo seguinte.
 
 3 - As funções de presidente do conselho de administração não podem ser exercidas em acumulação com as referidas no número anterior.
 
-###### Art. 11.º O administrador-delegado terá seguintes poderes:
+Art. 11.º O administrador-delegado terá seguintes poderes:
 
 a) Executar e fazer executar as decisões e directrizes do conselho de administração;
 
@@ -190,7 +209,7 @@ b) Dirigir a gestão diária da sociedade;
 
 c) Obrigar a sociedade, no limite dos poderes que lhe hajam sido especialmente delegados pelo conselho de administração.
 
-###### Art. 12.º - 1 - Competem ao conselho de administração, para além dos poderes gerais, os seguintes:
+Art. 12.º - 1 - Competem ao conselho de administração, para além dos poderes gerais, os seguintes:
 
 a) Representar a sociedade em juízo e fora dele, activa e passivamente;
 
@@ -206,7 +225,7 @@ c) Constituir mandatários com poderes determinados.
 
 5 - As operações sobre bens imóveis carecem de autorização da assembleia geral.
 
-###### Art. 13.º A sociedade obriga-se:
+Art. 13.º A sociedade obriga-se:
 
 a) Pelas assinaturas de dois administradores;
 
@@ -216,25 +235,25 @@ c) Pela assinatura do administrador-delegado, dentro do limite dos poderes que l
 
 d) Pelas assinaturas de dois mandatários constituídos nos termos da alínea c) do n.º 1 do artigo anterior, dentro do limite dos respectivos mandatos.
 
-###### Art. 14.º - 1 - O conselho fiscal será composto por três membros eleitos pela assembleia geral, que designará o respectivo presidente, sendo um deles obrigatoriamente revisor oficial de contas.
+Art. 14.º - 1 - O conselho fiscal será composto por três membros eleitos pela assembleia geral, que designará o respectivo presidente, sendo um deles obrigatoriamente revisor oficial de contas.
 
 2 - Na mesma eleição serão eleitos dois membros suplentes, que substituirão os efectivos em caso de impedimento definitivo ou vaga.
 
-###### Art. 15.º O conselho fiscal tem as atribuições determinadas pela lei.
+Art. 15.º O conselho fiscal tem as atribuições determinadas pela lei.
 
 ### CAPÍTULO V — Assembleia geral
 
-###### Art. 16.º - 1 - A assembleia geral está regularmente constituída em primeira convocação desde que estejam representados pelo menos 70% do capital social.
+Art. 16.º - 1 - A assembleia geral está regularmente constituída em primeira convocação desde que estejam representados pelo menos 70% do capital social.
 
 2 - Em segunda convocação, a assembleia geral considerar-se-á regulamente constituída qualquer que seja o capital representado.
 
-###### Art. 17.º - 1 - A mesa da assembleia geral é constituída pelo presidente e dois secretários.
+Art. 17.º - 1 - A mesa da assembleia geral é constituída pelo presidente e dois secretários.
 
 2 - Serão eleitos igualmente um vice-presidente e dois vice-secretários, que substituirão o presidente e os secretários nos casos de impedimento ou vaga.
 
-###### Art. 18.º As assembleias gerais são convocadas pelo presidente da mesa com dez dias de antecedência e com as demais formalidades exigidas por lei.
+Art. 18.º As assembleias gerais são convocadas pelo presidente da mesa com dez dias de antecedência e com as demais formalidades exigidas por lei.
 
-###### Art. 19.º A assembleia geral ordinária reúne nos três primeiros meses de cada ano, tendo como objecto:
+Art. 19.º A assembleia geral ordinária reúne nos três primeiros meses de cada ano, tendo como objecto:
 
 a) Discutir, aprovar ou modificar os relatórios e contas do conselho de administração e do conselho fiscal referentes ao exercício anterior;
 
@@ -242,9 +261,9 @@ b) Eleger, se for caso disso, a mesa da assembleia geral, o conselho de administ
 
 c) Discutir e decidir sobre outras matérias que constem expressamente da convocatória.
 
-###### Art. 20.º A assembleia geral extraordinária será convocada sempre que o conselho de administração ou o conselho fiscal o solicitarem.
+Art. 20.º A assembleia geral extraordinária será convocada sempre que o conselho de administração ou o conselho fiscal o solicitarem.
 
-###### Art. 21.º A assembleia geral tem as atribuições determinadas pela lei e pelos presentes estatutos, competindo-lhe, em especial, deliberar sobre:
+Art. 21.º A assembleia geral tem as atribuições determinadas pela lei e pelos presentes estatutos, competindo-lhe, em especial, deliberar sobre:
 
 a) A constituição de novas sociedades resultantes da cisão de partes do actual património da sociedade;
 
@@ -252,22 +271,22 @@ b) A aquisição de quaisquer outras participações financeiras;
 
 c) As operações sobre bens imóveis.
 
-###### Art. 22.º As deliberações da assembleia geral serão tomadas por maioria de votos presentes.
+Art. 22.º As deliberações da assembleia geral serão tomadas por maioria de votos presentes.
 
 ### CAPÍTULO VI — Exercício, reservas e dividendos
 
-###### Art. 23.º O ano social coincide com o ano civil.
+Art. 23.º O ano social coincide com o ano civil.
 
-###### Art. 24.º Os lucros líquidos apurados terão o destino que a assembleia geral deliberar, sem prejuízo da constituição do fundo de reserva legal.
+Art. 24.º Os lucros líquidos apurados terão o destino que a assembleia geral deliberar, sem prejuízo da constituição do fundo de reserva legal.
 
 ### CAPÍTULO VII — Dissolução e liquidação
 
-###### Art. 25.º A sociedade poderá ser dissolvida nos casos previstos na lei.
+Art. 25.º A sociedade poderá ser dissolvida nos casos previstos na lei.
 
-###### Art. 26.º A assembleia geral nomeará os liquidatários e regulará o modo e prazo de liquidação e partilha.
+Art. 26.º A assembleia geral nomeará os liquidatários e regulará o modo e prazo de liquidação e partilha.
 
 ### CAPÍTULO VIII — Disposições gerais e transitórias
 
-###### Art. 27.º Os mandatos dos membros dos órgãos sociais da sociedade terão a duração de três anos, podendo haver reeleição.
+Art. 27.º Os mandatos dos membros dos órgãos sociais da sociedade terão a duração de três anos, podendo haver reeleição.
 
-###### Art. 28.º Imediatamente após a constituição da sociedade e no local onde a mesma é formalmente constituída, reunir-se-á a primeira assembleia geral, em sessão extraordinária, a fim de eleger a sua mesa, o conselho de administração e o conselho fiscal.
+Art. 28.º Imediatamente após a constituição da sociedade e no local onde a mesma é formalmente constituída, reunir-se-á a primeira assembleia geral, em sessão extraordinária, a fim de eleger a sua mesa, o conselho de administração e o conselho fiscal.

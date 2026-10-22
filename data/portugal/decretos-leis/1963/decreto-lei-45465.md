@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45465-1963-680626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f144dacf90dee3fec35ab2f43f6c94e1c024aca78548492746da011634f6a57a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13ffa95f496b60602146181b9b83d7e9fd86ce720d890655d3795a6ae8980187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Construções Hospitalares
+- Estabelecimento Hospitalar
+- Fundação Calouste Gulbenkian
+- Hospital de Júlio de Matos
+- Instalação de Serviços
+- Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:416615:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:47:30Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +101,25 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficará integrado no Hospital de Júlio de Matos, em Lisboa, o Centro de António Flores, a instalar por força da doação no montante de 4800000$00 a efectuar para esse fim pela Fundação Calouste Gulbenkian.
+Artigo 1.º Ficará integrado no Hospital de Júlio de Matos, em Lisboa, o Centro de António Flores, a instalar por força da doação no montante de 4800000$00 a efectuar para esse fim pela Fundação Calouste Gulbenkian.
 
 § único. O referido Centro será constituído por dois pavilhões, destinando-se um ao tratamento e recuperação de doentes alcoólicos e outros toxicómanos e o segundo à prestação de serviços psiquiátricos, de dia e de noite, a doentes em regime ambulatório.
 
-###### Art. 2.º A Comissão de Construções Hospitalares elaborará, de acordo com o Instituto de Assistência Psiquiátrica e com a Fundação Calouste Gulbenkian, os planos de construção e de apetrechamento das instalações, os quais serão submetidos à aprovação do Ministro das Obras Públicas, por intermédio da referida Comissão de Construções Hospitalares.
+Art. 2.º A Comissão de Construções Hospitalares elaborará, de acordo com o Instituto de Assistência Psiquiátrica e com a Fundação Calouste Gulbenkian, os planos de construção e de apetrechamento das instalações, os quais serão submetidos à aprovação do Ministro das Obras Públicas, por intermédio da referida Comissão de Construções Hospitalares.
 
-###### Art. 3.º As despesas a efectuar, quer com a elaboração dos planos aludidos no artigo anterior, quer com a sua execução, serão satisfeitas em conta das verbas especialmente inscritas para esse fim em despesa extraordinária do orçamento do Ministério das Obras Públicas, no capítulo «Outros investimentos», artigo «Construções hospitalares no País».
+Art. 3.º As despesas a efectuar, quer com a elaboração dos planos aludidos no artigo anterior, quer com a sua execução, serão satisfeitas em conta das verbas especialmente inscritas para esse fim em despesa extraordinária do orçamento do Ministério das Obras Públicas, no capítulo «Outros investimentos», artigo «Construções hospitalares no País».
 
 § único. As verbas mencionadas no corpo deste artigo terão contrapartida na doação referida no artigo 1.º
 
-###### Art. 4.º Os montantes das despesas a efectuar nos dois próximos anos económicos são fixados em 2000000$00 e 2800000$00, respectivamente para 1964 e 1965, podendo os saldos porventura verificados ser despendidos nos anos imediatos.
+Art. 4.º Os montantes das despesas a efectuar nos dois próximos anos económicos são fixados em 2000000$00 e 2800000$00, respectivamente para 1964 e 1965, podendo os saldos porventura verificados ser despendidos nos anos imediatos.
 
 § único. Consideram-se legalizadas, para todos os efeitos, as despesas já realizadas pelo Instituto de Assistência Psiquiátrica em conta da aludida doação, as quais serão regularizadas por conta da dotação de 2000000$00 fixada para 1964, por meio de processamento de todos os encargos a favor daquele Instituto, que promoverá a entrega do correspondente total em receita do Estado.
 
-###### Art. 5.º As contribuições da Fundação serão escrituradas em conta de operações de tesouraria, passando para receita efectiva do Estado à medida que as despesas forem sendo autorizadas.
+Art. 5.º As contribuições da Fundação serão escrituradas em conta de operações de tesouraria, passando para receita efectiva do Estado à medida que as despesas forem sendo autorizadas.
 
-###### Art. 6.º As despesas realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, para a sua legitimação, ao visto dos Ministros das Finanças e das Obras Públicas.
+Art. 6.º As despesas realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, para a sua legitimação, ao visto dos Ministros das Finanças e das Obras Públicas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

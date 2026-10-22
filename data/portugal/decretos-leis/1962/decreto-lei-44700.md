@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 265/1962, 1º Suplemento, Série I de 1962-11-17
   number: '265'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1513 - 1518
   pdf_url: https://files.diariodarepublica.pt/1s/1962/11/26501/15131518.pdf
 entry_into_force_dates: []
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b514dc1349d15aa7c102b607880b70c0ba6b94fa187320dd75a4b1735a7a01ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c99b1fa71101ebec68da028ce68f23a1fe065095ec0b36563727a5e0c751738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação de Capitais
+- Importação de Capitais
+- Mercado Cambial
+- Operação Cambial
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:216291:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:154848:por
+  label: "Alterado o art. 48º [relativamente à entrada em vigor, que é fixada para 01.03.1963] pelo DEC LEI.44828.31.12.1962.PC,\
+    \ DG.IS [299] de 31.12.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44828-1962-154848
+  date: '1962-12-31'
+- type: amended_by
+  target: pt:dre:216291:por
+  label: "Alterados os arts. 2º, 7º, 8º, 11º, 16º, 18º, 19º, 20º, 26º, 29º, 33º, 34º, 45º e 46º, pelo DEC LEI.49306.1969.10.16.MF\
+    \ DG.IS [243]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49306-1969-216291
+  date: '1969-10-16'
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528797:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:390782:por
+  label: "Revogado o § único do artigo 1.º, pelo DEC LEI.47919.08.09.1967.MF, DG.IS [210] de 08.09.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47919-1967-390782
+  date: '1967-09-08'
+- type: repealed_by
+  target: pt:dre:274851:por
+  label: "Revogado o corpo do art. 37.º pelo DEC LEI.48369.1968.05.06.MU DG.IS [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48369-1968-274851
+  date: '1968-05-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:57Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +143,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O comércio de câmbios nas províncias ultramarinas fica sujeito ao disposto no presente diploma, considerando-se como exercício do referido comércio a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações cambiais, designadamente as mencionadas no artigo 1.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962.
+Artigo 1.º O comércio de câmbios nas províncias ultramarinas fica sujeito ao disposto no presente diploma, considerando-se como exercício do referido comércio a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações cambiais, designadamente as mencionadas no artigo 1.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962.
 
 § único. Será aplicável nas províncias ultramarinas o conceito de residentes definido nos §§ 2.º e 3.º do referido artigo 1.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461).
 
-###### Art. 2.º O comércio de câmbios sòmente pode ser exercido nas províncias ultramarinas:
+Art. 2.º O comércio de câmbios sòmente pode ser exercido nas províncias ultramarinas:
 
 a) Pelos respectivos bancos emissores;
 
@@ -104,9 +155,9 @@ b) Pelos bancos comerciais e casas de câmbio, devidamente autorizados ou caucio
 
 § único. Para efeito do disposto no presente decreto-lei a expressão «bancos comerciais» compreende todos os organismos bancários a que se refere a [Lei n.º 2061](https://diariodarepublica.pt/dr/detalhe/lei/2061-1953-528797), de 9 de Maio de 1953, com excepção dos bancos emissores e dos bancos de investimento.
 
-###### Art. 3.º A realização de operações cambiais pelos bancos emissores ultramarinos, nesta qualidade ou como agentes dos fundos cambiais das províncias, regular-se-á pela respectiva legislação, pelos contratos que vierem a celebrar com o Estado e pelas disposições do presente diploma que expressamente lhes respeitem.
+Art. 3.º A realização de operações cambiais pelos bancos emissores ultramarinos, nesta qualidade ou como agentes dos fundos cambiais das províncias, regular-se-á pela respectiva legislação, pelos contratos que vierem a celebrar com o Estado e pelas disposições do presente diploma que expressamente lhes respeitem.
 
-###### Art. 4.º As casas de câmbio sòmente podem efectuar as operações cambiais seguintes:
+Art. 4.º As casas de câmbio sòmente podem efectuar as operações cambiais seguintes:
 
 a) Compra de cupões de títulos estrangeiros;
 
@@ -116,31 +167,31 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 § único. A cobrança dos cupões referidos na alínea a) deverá ser efectuada por intermédio do respectivo banco emissor, como agente do fundo cambial, e a este serão, também, obrigatòriamente revendidos pelas casas de câmbio, dentro do prazo de cinco dias, a contar da data da sua aquisição, os cheques turísticos mencionados na alínea c).
 
-###### Art. 5.º Compete ao Ministro do Ultramar a superintendência e coordenação da actividade das instituições autorizadas a exercer o comércio de câmbios nas províncias ultramarinas, bem como a fiscalização das mencionadas instituições e dos bancos de investimento no tocante à prática por estes de operações cambiais nas referidas províncias, fiscalização que será exercida por intermédio dos delegados do Governo, quanto aos bancos emissores, e dos governadores das províncias, relativamente aos bancos comerciais, bancos de investimento e casas de câmbio.
+Art. 5.º Compete ao Ministro do Ultramar a superintendência e coordenação da actividade das instituições autorizadas a exercer o comércio de câmbios nas províncias ultramarinas, bem como a fiscalização das mencionadas instituições e dos bancos de investimento no tocante à prática por estes de operações cambiais nas referidas províncias, fiscalização que será exercida por intermédio dos delegados do Governo, quanto aos bancos emissores, e dos governadores das províncias, relativamente aos bancos comerciais, bancos de investimento e casas de câmbio.
 
-###### Art. 6.º Nos termos das disposições legais e contratuais reguladoras das relações entre as inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas e os respectivos bancos emissores, da legislação e regulamentação cambial que vigorar e dos acordos de compensação e de pagamentos, bilaterais ou multilaterais, celebrados pelo Estado, ou pelo Banco de Portugal por conta e ordem do Estado, a inspecção de crédito e seguros ou do comércio bancário e o banco emissor de cada província colaborarão no sentido de assegurar nesta o regular funcionamento do mercado de câmbios.
+Art. 6.º Nos termos das disposições legais e contratuais reguladoras das relações entre as inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas e os respectivos bancos emissores, da legislação e regulamentação cambial que vigorar e dos acordos de compensação e de pagamentos, bilaterais ou multilaterais, celebrados pelo Estado, ou pelo Banco de Portugal por conta e ordem do Estado, a inspecção de crédito e seguros ou do comércio bancário e o banco emissor de cada província colaborarão no sentido de assegurar nesta o regular funcionamento do mercado de câmbios.
 
 § único. As inspecções de crédito e seguros ou do comércio bancário e os bancos emissores prestarão ao Banco de Portugal, como banco central e de reserva da zona do escudo, a colaboração que se mostre necessária ao cumprimento das atribuições que a este são conferidas pelo artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, e pelo artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461).
 
-###### Art. 7.º A fiscalização dos bancos comerciais e das casas de câmbio quanto ao exercício do comércio de câmbios, bem como dos bancos de investimento relativamente à prática de operações cambiais, será feita, em cada província ultramarina, pela respectiva inspecção de crédito e seguros ou do comércio bancário, sob a directa orientação do governador da província, nos próprios estabelecimentos ou não.
+Art. 7.º A fiscalização dos bancos comerciais e das casas de câmbio quanto ao exercício do comércio de câmbios, bem como dos bancos de investimento relativamente à prática de operações cambiais, será feita, em cada província ultramarina, pela respectiva inspecção de crédito e seguros ou do comércio bancário, sob a directa orientação do governador da província, nos próprios estabelecimentos ou não.
 
 § 1.º Para os fins do presente artigo, os bancos comerciais, os bancos de investimento e as casas de câmbio enviarão à inspecção de crédito e seguros ou do comércio bancário da província os elementos de informação necessários à verificação do cumprimento dos princípios reguladores e instruções respeitantes a operações cambiais, aplicáveis na província nos termos da alínea c) e parágrafos do artigo 25.º e do artigo 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
 § 2.º Na determinação dos elementos de informação mencionados no parágrafo anterior, as inspecções de crédito e seguros ou do comércio bancário terão em conta as instruções transmitidas pelo Banco de Portugal ao abrigo do § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461).
 
-###### Art. 8.º As inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas elaborarão os quadros da balança geral de pagamentos entre cada província e o estrangeiro, enviando cópia ao Banco de Portugal.
+Art. 8.º As inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas elaborarão os quadros da balança geral de pagamentos entre cada província e o estrangeiro, enviando cópia ao Banco de Portugal.
 
 § 1.º Os bancos emissores, bancos comerciais e casas de câmbio, bem como os bancos de investimento e as entidades ou serviços públicos que realizarem operações cambiais, deverão enviar à inspecção de crédito e seguros ou do comércio bancário da respectiva província, de acordo com as instruções que por esta lhes forem transmitidas, os elementos de informação necessários à elaboração dos quadros da balança de pagamentos entre a província e o estrangeiro.
 
 § 2.º Quanto aos elementos de informação mencionados no parágrafo anterior, as inspecções terão em conta as instruções que, para esse efeito, forem transmitidas pelo Banco de Portugal ao abrigo do § único do artigo 7.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461).
 
-###### Art. 9.º A inclusão, em boletins ou relatórios de bancos comerciais, dos bancos de investimento e de casas de câmbio de uma província ultramarina, de informações sobre matéria cambial que directamente interessem aos mercados nacionais, fica sujeita a autorização especial do governador da província, solicitada por intermédio da respectiva inspecção de crédito e seguros ou do comércio bancário.
+Art. 9.º A inclusão, em boletins ou relatórios de bancos comerciais, dos bancos de investimento e de casas de câmbio de uma província ultramarina, de informações sobre matéria cambial que directamente interessem aos mercados nacionais, fica sujeita a autorização especial do governador da província, solicitada por intermédio da respectiva inspecção de crédito e seguros ou do comércio bancário.
 
 § 1.º Não carecem da autorização referida no artigo anterior as informações relativas a câmbios praticados nos mercados nacionais e a simples transcrição de elementos constantes de publicações do Instituto Nacional de Estatística, dos serviços de estatística geral das províncias ultramarinas, das inspecções de crédito e seguros ou do comércio bancário, do Banco de Portugal e dos bancos emissores ultramarinos.
 
 § 2.º O governador da província poderá delegar no inspector de crédito e seguros ou do comércio bancário, conforme o caso, a competência para a concessão das autorizações mencionadas no presente artigo.
 
-###### Art. 10.º É vedado às instituições autorizadas a exercer o comércio de câmbios nas províncias ultramarinas:
+Art. 10.º É vedado às instituições autorizadas a exercer o comércio de câmbios nas províncias ultramarinas:
 
 1.º Celebrar entre si contratos ou acordos de qualquer natureza de que possa resultar uma situação de domínio sobre o mercado cambial da respectiva província ou alteração das condições normais do seu funcionamento;
 
@@ -148,19 +199,19 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 ### CAPÍTULO II — Da autorização para o exercício do comércio de câmbios
 
-###### Art. 11.º Os bancos comerciais e as casas de câmbio que pretenderem exercer o comércio de câmbios numa província ultramarina deverão requerer ao Ministro do Ultramar, por intermédio da Direcção-Geral de Economia, a respectiva autorização, que lhes poderá ser concedida mediante despacho, devendo prestar, no prazo de 45 dias, a caução que lhes for fixada e, se for caso disso, observar as condições especiais que o mesmo Ministro estabelecer, ouvida a inspecção de crédito e seguros ou do comércio bancário da província.
+Art. 11.º Os bancos comerciais e as casas de câmbio que pretenderem exercer o comércio de câmbios numa província ultramarina deverão requerer ao Ministro do Ultramar, por intermédio da Direcção-Geral de Economia, a respectiva autorização, que lhes poderá ser concedida mediante despacho, devendo prestar, no prazo de 45 dias, a caução que lhes for fixada e, se for caso disso, observar as condições especiais que o mesmo Ministro estabelecer, ouvida a inspecção de crédito e seguros ou do comércio bancário da província.
 
 § único. Prestada a caução, será o despacho de autorização publicado no Diário do Governo e no Boletim Oficial das províncias, podendo o interessado iniciar o exercício do comércio de câmbios a partir dessa publicação na província respectiva.
 
-###### Art. 12.º As cauções a prestar pelos bancos comerciais não serão inferiores a 100000$00 nem superiores a 1000000$00 e, na fixação do respectivo quantitativo, ter-se-á em atenção a localização da sede, o número de filiais, agências ou quaisquer outras sucursais e, bem assim, o volume de operações cambiais que, presumìvelmente, virão a efectuar.
+Art. 12.º As cauções a prestar pelos bancos comerciais não serão inferiores a 100000$00 nem superiores a 1000000$00 e, na fixação do respectivo quantitativo, ter-se-á em atenção a localização da sede, o número de filiais, agências ou quaisquer outras sucursais e, bem assim, o volume de operações cambiais que, presumìvelmente, virão a efectuar.
 
-###### Art. 13.º As cauções a prestar pelas casas de câmbio não serão inferiores a 10000$00 nem superiores a 100000$00 e, na respectiva fixação, atender-se-á aos elementos mencionados no artigo anterior.
+Art. 13.º As cauções a prestar pelas casas de câmbio não serão inferiores a 10000$00 nem superiores a 100000$00 e, na respectiva fixação, atender-se-á aos elementos mencionados no artigo anterior.
 
-###### Art. 14.º No prazo de 90 dias, a contar da publicação do presente decreto-lei, o Ministro do Ultramar, por intermédio da Direcção-Geral de Economia, fará publicar no Diário do Governo e no Boletim Oficial das províncias ultramarinas a lista dos bancos comerciais e casas de câmbio autorizados a exercer o comércio de câmbios em cada província.
+Art. 14.º No prazo de 90 dias, a contar da publicação do presente decreto-lei, o Ministro do Ultramar, por intermédio da Direcção-Geral de Economia, fará publicar no Diário do Governo e no Boletim Oficial das províncias ultramarinas a lista dos bancos comerciais e casas de câmbio autorizados a exercer o comércio de câmbios em cada província.
 
-###### Art. 15.º A Direcção Geral de Economia, no prazo de um ano, a contar da publicação do presente diploma, procederá à revisão das cauções prestadas pelos bancos comerciais e casas de câmbio referidos no artigo antecedente e, tendo em consideração o disposto nos artigos 12.º e 13.º, proporá os novos quantitativos a fixar relativamente a cada uma daquelas instituições, por despacho do Ministro do Ultramar, que será publicado no Diário do Governo e no Boletim Oficial das províncias.
+Art. 15.º A Direcção Geral de Economia, no prazo de um ano, a contar da publicação do presente diploma, procederá à revisão das cauções prestadas pelos bancos comerciais e casas de câmbio referidos no artigo antecedente e, tendo em consideração o disposto nos artigos 12.º e 13.º, proporá os novos quantitativos a fixar relativamente a cada uma daquelas instituições, por despacho do Ministro do Ultramar, que será publicado no Diário do Governo e no Boletim Oficial das províncias.
 
-###### Art. 16.º As cauções referidas nos artigos anteriores serão prestadas por depósito de numerário ou de títulos da dívida pública livremente transmissíveis e cotados em bolsa, a efectuar no banco emissor da respectiva província à ordem da inspecção de crédito e seguros ou do comércio bancário da mesma província.
+Art. 16.º As cauções referidas nos artigos anteriores serão prestadas por depósito de numerário ou de títulos da dívida pública livremente transmissíveis e cotados em bolsa, a efectuar no banco emissor da respectiva província à ordem da inspecção de crédito e seguros ou do comércio bancário da mesma província.
 
 § 1.º No caso de a caução ser prestada total ou parcialmente por depósito de títulos de dívida pública, será considerado como valor destes títulos o da última cotação efectuada na Bolsa de Lisboa anteriormente à prestação da caução, reduzido de 10 por cento.
 
@@ -168,33 +219,33 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 § 3.º Os depósitos de títulos efectuados pelos bancos e pelas casas de câmbio nos termos do presente artigo ficam isentos de comissões de guarda, conservação e cobrança, mas são sujeitos a selo ou outros encargos impostos por lei.
 
-###### Art. 17.º As cauções prestadas pelos bancos comerciais e pelas casas de câmbio respondem pela importância das penalidades que venham eventualmente a ser aplicadas às mesmas instituições, em consequência de infracções de natureza cambial.
+Art. 17.º As cauções prestadas pelos bancos comerciais e pelas casas de câmbio respondem pela importância das penalidades que venham eventualmente a ser aplicadas às mesmas instituições, em consequência de infracções de natureza cambial.
 
 § único. Verificando-se a hipótese prevista neste artigo, o transgressor fica obrigado a reintegrar a caução.
 
-###### Art. 18.º A autorização para o exercício do comércio de câmbios numa província ultramarina, concedida a qualquer banco comercial ou casa de câmbio, caducará nos casos e termos previstos pelo artigo 18.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), competindo ao Ministro do Ultramar a faculdade referida no § 1.º desse artigo e devendo os avisos mencionados no § 2.º ser publicados pela Direcção-Geral de Economia no Diário do Governo e no Boletim Oficial das respectivas províncias ultramarinas.
+Art. 18.º A autorização para o exercício do comércio de câmbios numa província ultramarina, concedida a qualquer banco comercial ou casa de câmbio, caducará nos casos e termos previstos pelo artigo 18.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), competindo ao Ministro do Ultramar a faculdade referida no § 1.º desse artigo e devendo os avisos mencionados no § 2.º ser publicados pela Direcção-Geral de Economia no Diário do Governo e no Boletim Oficial das respectivas províncias ultramarinas.
 
-###### Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações venham a caducar só poderão requerer nova autorização decorridos dois anos sobre a data da publicação no Boletim Oficial da respectiva província, dos avisos referidos no artigo anterior.
+Art. 19.º Os bancos comerciais e as casas de câmbio cujas autorizações venham a caducar só poderão requerer nova autorização decorridos dois anos sobre a data da publicação no Boletim Oficial da respectiva província, dos avisos referidos no artigo anterior.
 
 ### CAPÍTULO III — Das operações cambiais
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 20.º É proibida a realização de operações cambiais directamente entre pessoas singulares ou colectivas não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com intervenção de uma instituição autorizada a exercer o mencionado comércio em qualquer província ultramarina ou no continente e ilhas adjacentes, conforme o disposto nos artigos 5.º, 6.º, 14.º e 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e o estabelecido no presente diploma.
+Art. 20.º É proibida a realização de operações cambiais directamente entre pessoas singulares ou colectivas não autorizadas a exercer o comércio de câmbios. Quando qualquer das referidas pessoas adquira direitos ou fique constituída em obrigações cujo exercício ou cumprimento envolva a realização de operações cambiais, estas só poderão ser efectuadas com intervenção de uma instituição autorizada a exercer o mencionado comércio em qualquer província ultramarina ou no continente e ilhas adjacentes, conforme o disposto nos artigos 5.º, 6.º, 14.º e 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e o estabelecido no presente diploma.
 
 § 1.º Exceptuam-se do disposto na primeira parte do corpo do presente artigo o aceite ou saque de letras, a subscrição de livranças e a emissão ou o aceite de extractos de factura.
 
 § 2.º O presente artigo não será aplicável aos bancos de investimento, que poderão realizar as operações cambiais consequentes de contratos por eles efectuados e que envolvam operações de crédito externo. Haver-se-ão por consentidas aos ditos bancos a abertura e movimentação de contas de disponibilidades à ordem em seu nome, em instituições de crédito domiciliadas no estrangeiro, na estrita medida em que forem inerentes à execução dos contratos que os mesmos bancos tiverem sido autorizados a celebrar e nos precisos termos em que hajam sido previstos na respectiva autorização.
 
-###### Art. 21.º As instituições autorizadas a exercer o comércio de câmbios nas províncias ultramarinas e os bancos de investimento, na medida em que estão autorizados a efectuar operações cambiais, observarão, na realização destas operações, os princípios reguladores aplicáveis nas mesmas províncias nos termos da alínea c) e parágrafos do artigo 25.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), bem como as instruções mencionadas no artigo 28.º do mesmo decreto-lei.
+Art. 21.º As instituições autorizadas a exercer o comércio de câmbios nas províncias ultramarinas e os bancos de investimento, na medida em que estão autorizados a efectuar operações cambiais, observarão, na realização destas operações, os princípios reguladores aplicáveis nas mesmas províncias nos termos da alínea c) e parágrafos do artigo 25.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), bem como as instruções mencionadas no artigo 28.º do mesmo decreto-lei.
 
-###### Art. 22.º É livre a importação, nas províncias ultramarinas, de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, quando as mencionadas notas e moedas forem transportadas por viajantes e se destinarem ao pagamento de despesas de turismo ou de viagem. É também livre a exportação ou reexportação, daquelas províncias, de notas e moedas metálicas estrangeiras até ao contravalor de 2500$00 por pessoa e por ano, quando forem transportadas por viajantes e se destinarem aos fins indicados.
+Art. 22.º É livre a importação, nas províncias ultramarinas, de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, quando as mencionadas notas e moedas forem transportadas por viajantes e se destinarem ao pagamento de despesas de turismo ou de viagem. É também livre a exportação ou reexportação, daquelas províncias, de notas e moedas metálicas estrangeiras até ao contravalor de 2500$00 por pessoa e por ano, quando forem transportadas por viajantes e se destinarem aos fins indicados.
 
 § 1.º Os governadores das províncias ultramarinas poderão, atentas as circunstâncias da conjuntura cambial e ouvidas as respectivas inspecções de crédito e seguros ou do comércio bancário, alterar por despacho o limite indicado na segunda parte do corpo do presente artigo.
 
 § 2.º As inspecções de crédito e seguros ou do comércio bancário estabelecerão com as autoridades de emigração das respectivas províncias as normas de ordem técnica a observar para a fiscalização do cumprimento do disposto no presente artigo.
 
-###### Art. 23.º Fora dos casos indicados no corpo do artigo anterior ficam sujeitas a autorização especial e prévia das inspecções de crédito e seguros ou do comércio bancário as importações e as exportações ou reexportações de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, nomeadamente as que as instituições autorizadas a exercer o comércio de câmbios desejarem efectuar.
+Art. 23.º Fora dos casos indicados no corpo do artigo anterior ficam sujeitas a autorização especial e prévia das inspecções de crédito e seguros ou do comércio bancário as importações e as exportações ou reexportações de notas e moedas metálicas estrangeiras com curso legal nos respectivos países, nomeadamente as que as instituições autorizadas a exercer o comércio de câmbios desejarem efectuar.
 
 § 1.º No pedido de autorização serão indicados o quantitativo e espécie das notas e moedas a importar, exportar ou reexportar e os países de procedência ou de destino.
 
@@ -204,65 +255,65 @@ c) Compra de cheques turísticos (traveller's cheques).
 
 § 4.º Os serviços dos correios, telégrafos e telefones não farão o registo de expedição de encomendas, caixas ou correspondência contendo, com valor declarado, notas ou moedas referidas neste artigo, nem entregarão aos destinatários caixas ou correspondência com este conteúdo, sem que os remetentes, no primeiro caso, ou os destinatários, no segundo, façam prova da autorização concedida.
 
-###### Art. 24.º A importação e a exportação ou reexportação, entre as províncias ultramarinas e o estrangeiro, de ouro, amoedado ou não, ficam sujeitas à autorização especial e prévia das inspecções de crédito e seguros ou do comércio bancário dessas províncias.
+Art. 24.º A importação e a exportação ou reexportação, entre as províncias ultramarinas e o estrangeiro, de ouro, amoedado ou não, ficam sujeitas à autorização especial e prévia das inspecções de crédito e seguros ou do comércio bancário dessas províncias.
 
 § 1.º Obtida a referida autorização, a importação e a exportação ou reexportação autorizadas efectuar-se-ão por intermédio do banco emissor da província.
 
 § 2.º As infracções ao disposto no presente artigo serão consideradas delito de contrabando e puníveis nos termos do contencioso aduaneiro.
 
-###### Art. 25.º Em cada província ultramarina a importação e a exportação ou reexportação, de e para o estrangeiro, de notas com curso legal nessa província ou noutros territórios nacionais não serão permitidas, excepto nos casos abrangidos em autorização o respectivo governador sobre proposta da inspecção de crédito e seguros ou do comércio bancário e em relação a territórios estrangeiros limítrofes, sendo nesses casos fixados na autorização as condições e limites a observar.
+Art. 25.º Em cada província ultramarina a importação e a exportação ou reexportação, de e para o estrangeiro, de notas com curso legal nessa província ou noutros territórios nacionais não serão permitidas, excepto nos casos abrangidos em autorização o respectivo governador sobre proposta da inspecção de crédito e seguros ou do comércio bancário e em relação a territórios estrangeiros limítrofes, sendo nesses casos fixados na autorização as condições e limites a observar.
 
 § único. As autorizações a que se refere o presente artigo serão publicadas no Boletim Oficial da província e delas será dado imediatamente conhecimento pela competente inspecção de crédito e seguros ou do comércio bancário ao Banco de Portugal, bem como às inspecções e bancos emissores das outras províncias.
 
-###### Art. 26.º A exportação de moedas metálicas portuguesas, em circulação ou fora da circulação, fica sujeita, nas províncias ultramarinas, ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
+Art. 26.º A exportação de moedas metálicas portuguesas, em circulação ou fora da circulação, fica sujeita, nas províncias ultramarinas, ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
 
 § 1.º Poderão os governadores das províncias autorizar a exportação desde que as moedas se destinem a fins numismáticos.
 
 § 2.º Os governadores ficam com a faculdade de delegar nos inspectores de crédito e seguros ou nos inspectores do comércio bancário, conforme os casos, a competência para a concessão das autorizações a que se refere o parágrafo anterior.
 
-###### Art. 27.º A importação o a exportação de acções de sociedades nacionais ou estrangeiras e de títulos de obrigação nacionais ou estrangeiros, quer de dívida pública, quer emitidos por organizações financeiras internacionais ou por empresas privadas, são livres, nas províncias ultramarinas, desde que respeitem a operações de capitais autorizadas pelas inspecções de crédito e seguros ou do comércio bancário, nos termos do artigo 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
+Art. 27.º A importação o a exportação de acções de sociedades nacionais ou estrangeiras e de títulos de obrigação nacionais ou estrangeiros, quer de dívida pública, quer emitidos por organizações financeiras internacionais ou por empresas privadas, são livres, nas províncias ultramarinas, desde que respeitem a operações de capitais autorizadas pelas inspecções de crédito e seguros ou do comércio bancário, nos termos do artigo 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
 § único. As inspecções de crédito e seguros ou do comércio bancário estabelecerão com as autoridades de emigração das respectivas províncias as normas a observar para a fiscalização do cumprimento do disposto no presente artigo.
 
-###### Art. 28.º São livres, nas províncias ultramarinas, a importação e a exportação de cupões de títulos nacionais ou estrangeiros pelas instituições autorizadas a exercer o comércio de câmbios nas mesmas províncias, desde que efectuadas nos termos das respectivas determinações emanadas das inspecções de crédito e seguros ou do comércio bancário.
+Art. 28.º São livres, nas províncias ultramarinas, a importação e a exportação de cupões de títulos nacionais ou estrangeiros pelas instituições autorizadas a exercer o comércio de câmbios nas mesmas províncias, desde que efectuadas nos termos das respectivas determinações emanadas das inspecções de crédito e seguros ou do comércio bancário.
 
 § único. As inspecções de crédito e seguros ou do comércio bancário estabelecerão com as autoridades de emigração as normas a observar para o cumprimento do disposto no presente artigo.
 
 #### SECÇÃO II — Dos bancos emissores ultramarinos
 
-###### Art. 29.º Os bancos emissores, nesta qualidade ou como agentes dos fundos cambiais, poderão possuir ou deter, bem suas próprias caixas ou em depósito que constituam na província ou no estrangeiro, disponibilidades em ouro, amoedado ou não, e notas ou moedas metálicas estrangeiras com curso legal nos países que a emitiram e, bem assim, ter abertas em seu nome, em instituições de crédito domiciliadas no estrangeiro, contas de disponibilidades à ordem expressas em moeda estrangeira.
+Art. 29.º Os bancos emissores, nesta qualidade ou como agentes dos fundos cambiais, poderão possuir ou deter, bem suas próprias caixas ou em depósito que constituam na província ou no estrangeiro, disponibilidades em ouro, amoedado ou não, e notas ou moedas metálicas estrangeiras com curso legal nos países que a emitiram e, bem assim, ter abertas em seu nome, em instituições de crédito domiciliadas no estrangeiro, contas de disponibilidades à ordem expressas em moeda estrangeira.
 
 § único. A movimentação das contas referidas no presente artigo far-se-á com observância dos princípios reguladores a que aludem a alínea c) e parágrafos do artigo 25.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e das instruções previstas no artigo 28.º do mesmo diploma.
 
-###### Art. 30.º Os bancos emissores, nesta qualidade, poderão abrir nos seus livros contas à ordem expressas nas moedas por eles emitidos, em nome de residentes ou domiciliados no estrangeiro.
+Art. 30.º Os bancos emissores, nesta qualidade, poderão abrir nos seus livros contas à ordem expressas nas moedas por eles emitidos, em nome de residentes ou domiciliados no estrangeiro.
 
 § único. À movimentação das contas referidas neste artigo é aplicável o disposto no § único do artigo anterior.
 
-###### Art. 31.º Os bancos emissores, nesta qualidade, poderão abrir nos seus livros contas à ordem expressas em moeda estrangeira em nome de residentes ou domiciliados na província ou no estrangeiro.
+Art. 31.º Os bancos emissores, nesta qualidade, poderão abrir nos seus livros contas à ordem expressas em moeda estrangeira em nome de residentes ou domiciliados na província ou no estrangeiro.
 
 § único. A abertura destas contas fica sujeita a autorização especial e prévia das inspecções de crédito e seguros ou do comércio bancário das províncias e para a respectiva movimentação serão observados os termos e condições estabelecidos na mesma autorização.
 
-###### Art. 32.º A faculdade conferida aos bancos emissores ultramarinos nos artigos 29.º a 31.º para a prática das operações ali previstas terá as limitações que lhe resultem do estipulado em acordos de compensação e pagamentos celebrados pelo Estado, ou pelo Banco de Portugal por conta e ordem do Estado, nos quais se estabeleça a centralização no Banco de Portugal dos pagamentos entre as respectivas zonas monetárias.
+Art. 32.º A faculdade conferida aos bancos emissores ultramarinos nos artigos 29.º a 31.º para a prática das operações ali previstas terá as limitações que lhe resultem do estipulado em acordos de compensação e pagamentos celebrados pelo Estado, ou pelo Banco de Portugal por conta e ordem do Estado, nos quais se estabeleça a centralização no Banco de Portugal dos pagamentos entre as respectivas zonas monetárias.
 
-###### Art. 33.º Os bancos emissores, ouvidas as inspecções de crédito e seguros ou do comércio bancário, poderão acordar com os titulares das contas referidas no artigo 31.º a aplicação do todo ou de parte dos respectivos saldos em depósitos na mesma moeda, a prazo até um ano, ou em operações de outra natureza, igualmente na mesma moeda, quando admitidas no parecer das referidas inspecções.
+Art. 33.º Os bancos emissores, ouvidas as inspecções de crédito e seguros ou do comércio bancário, poderão acordar com os titulares das contas referidas no artigo 31.º a aplicação do todo ou de parte dos respectivos saldos em depósitos na mesma moeda, a prazo até um ano, ou em operações de outra natureza, igualmente na mesma moeda, quando admitidas no parecer das referidas inspecções.
 
 § único. As inspecções de crédito e seguros ou do comércio bancário, quando o tiverem por conveniente, poderão ouvir o Banco de Portugal relativamente a quaisquer aplicações a fazer ao abrigo deste artigo.
 
-###### Art. 34.º Os bancos emissores, como agentes dos fundos cambiais e com os limites para estes estabelecidos, adquirirão aos bancos comerciais da província e venderão a estes a moeda estrangeira que os mesmos bancos comerciais possuam ou de que possam carecer para liquidação de operações entre a província e o estrangeiro.
+Art. 34.º Os bancos emissores, como agentes dos fundos cambiais e com os limites para estes estabelecidos, adquirirão aos bancos comerciais da província e venderão a estes a moeda estrangeira que os mesmos bancos comerciais possuam ou de que possam carecer para liquidação de operações entre a província e o estrangeiro.
 
-###### Art. 35.º Os bancos emissores, nesta qualidade ou como agentes dos fundos cambiais, poderão, na respectiva província, efectuar com os bancos comerciais e casas de câmbio a cedência recíproca de disponibilidades em notas ou em moedas metálicas estrangeiras com curso legal nos países que as emitiram.
+Art. 35.º Os bancos emissores, nesta qualidade ou como agentes dos fundos cambiais, poderão, na respectiva província, efectuar com os bancos comerciais e casas de câmbio a cedência recíproca de disponibilidades em notas ou em moedas metálicas estrangeiras com curso legal nos países que as emitiram.
 
-###### Art. 36.º Os bancos emissores, nesta qualidade, não poderão adquirir nem possuir haveres em moeda estrangeira pagáveis em prazo superior a um ano, salvo nos casos compreendidos em autorizações concedidas pelas inspecções de crédito e seguros ou do comércio bancário nos termos previstos no artigo 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
+Art. 36.º Os bancos emissores, nesta qualidade, não poderão adquirir nem possuir haveres em moeda estrangeira pagáveis em prazo superior a um ano, salvo nos casos compreendidos em autorizações concedidas pelas inspecções de crédito e seguros ou do comércio bancário nos termos previstos no artigo 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
 § único. O disposto no presente artigo não é aplicável aos títulos estrangeiros que os bancos emissores, nesta qualidade, possuam à data da publicação do presente decreto-lei.
 
-###### Art. 37.º As disponibilidades em moeda estrangeira dos bancos emissores, nesta qualidade, não poderão exceder os quantitativos que forem fixados, com relação à respectiva província, em portaria conjunta dos Ministros do Ultramar e das Finanças, ouvidos as inspecções de crédito e seguros ou do comércio bancário e o Banco de Portugal como banco central e de reserva da zona do escudo.
+Art. 37.º As disponibilidades em moeda estrangeira dos bancos emissores, nesta qualidade, não poderão exceder os quantitativos que forem fixados, com relação à respectiva província, em portaria conjunta dos Ministros do Ultramar e das Finanças, ouvidos as inspecções de crédito e seguros ou do comércio bancário e o Banco de Portugal como banco central e de reserva da zona do escudo.
 
 § 1.º Para efeito do disposto no presente artigo não serão considerados disponibilidades em moeda estrangeira os valores dos títulos estrangeiros mencionados no § único do artigo 36.º e a importância dos haveres que os referidos bancos possuam ou detenham ao abrigo de autorizações concedidas pelas referidas inspecções, nos termos previstos no artigo 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
 § 2.º À soma das disponibilidades em moeda estrangeira serão deduzidas as responsabilidades, nessa moeda, assumidas pelos bancos emissores ultramarinos nesta qualidade, nos termos dos artigos 31.º e 33.º, e quaisquer outras cujo vencimento não exceda todavia 180 dias.
 
-###### Art. 38.º É vedado aos bancos emissores, nesta qualidade ou como agentes dos fundos cambiais:
+Art. 38.º É vedado aos bancos emissores, nesta qualidade ou como agentes dos fundos cambiais:
 
 a) Receber notas e moedas metálicas estrangeiras em liquidação de operações expressas em moeda estrangeira;
 
@@ -276,25 +327,25 @@ e) Aceitar ou obter de residentes na província a concessão de créditos expres
 
 #### SECÇÃO III — Dos bancos comerciais autorizados a exercer o comércio de câmbios nas províncias ultramarinas
 
-###### Art. 39.º É aplicável aos bancos comerciais o disposto nos artigos 29.º, 30.º, 31.º, 32.º, 33.º, 36.º, 37.º e 38.º na parte em que tais artigos se referem aos bancos emissores ultramarinos nesta qualidade.
+Art. 39.º É aplicável aos bancos comerciais o disposto nos artigos 29.º, 30.º, 31.º, 32.º, 33.º, 36.º, 37.º e 38.º na parte em que tais artigos se referem aos bancos emissores ultramarinos nesta qualidade.
 
-###### Art. 40.º Em cada província ultramarina os bancos comerciais poderão vender ou adquirir ao banco emissor, como agente do fundo cambial, moeda estrangeira que os mesmos bancos comerciais possuam ou de que possam carecer, para liquidação de operações entre a província e o estrangeiro.
+Art. 40.º Em cada província ultramarina os bancos comerciais poderão vender ou adquirir ao banco emissor, como agente do fundo cambial, moeda estrangeira que os mesmos bancos comerciais possuam ou de que possam carecer, para liquidação de operações entre a província e o estrangeiro.
 
-###### Art. 41.º Os bancos comerciais poderão na respectiva província efectuar entre si, com o banco emissor e com as casas de câmbio a cedência recíproca de disponibilidades em notas ou em moedas metálicas estrangeiras com curso legal nos países que as emitiram.
+Art. 41.º Os bancos comerciais poderão na respectiva província efectuar entre si, com o banco emissor e com as casas de câmbio a cedência recíproca de disponibilidades em notas ou em moedas metálicas estrangeiras com curso legal nos países que as emitiram.
 
-###### Art. 42.º O Ministro do Ultramar, em circunstâncias especiais da conjuntura cambial e ouvidos a competente inspecção de crédito e seguros ou do comércio bancário e o banco emissor ultramarino, bem como o Banco de Portugal na qualidade de banco central da zona do escudo, poderá determinar a transferência para aquele banco emissor, como agente do respectivo fundo cambial, de todas ou parte das disponibilidades em moeda estrangeira possuídas pelos bancos comerciais, contra a entrega do correspondente contravalor em escudos com curso legal na província interessada.
+Art. 42.º O Ministro do Ultramar, em circunstâncias especiais da conjuntura cambial e ouvidos a competente inspecção de crédito e seguros ou do comércio bancário e o banco emissor ultramarino, bem como o Banco de Portugal na qualidade de banco central da zona do escudo, poderá determinar a transferência para aquele banco emissor, como agente do respectivo fundo cambial, de todas ou parte das disponibilidades em moeda estrangeira possuídas pelos bancos comerciais, contra a entrega do correspondente contravalor em escudos com curso legal na província interessada.
 
 #### SECÇÃO IV — Das casas de câmbio
 
-###### Art. 43.º As casas de câmbio de cada província poderão possuir ou deter nas suas caixas disponibilidades em notas e moedas metálicas estrangeiras com curso legal nos países que as emitiram.
+Art. 43.º As casas de câmbio de cada província poderão possuir ou deter nas suas caixas disponibilidades em notas e moedas metálicas estrangeiras com curso legal nos países que as emitiram.
 
-###### Art. 44.º As casas de câmbio poderão efectuar entre si, com os bancos emissores ultramarinos e com os bancos comerciais da respectiva província a cedência de notas e moedas a que se refere o artigo anterior.
+Art. 44.º As casas de câmbio poderão efectuar entre si, com os bancos emissores ultramarinos e com os bancos comerciais da respectiva província a cedência de notas e moedas a que se refere o artigo anterior.
 
 #### SECÇÃO V
 
 Da intervenção de instituições de crédito que exerçam o comércio de câmbios numa província ultramarina em operações entre qualquer outro território nacional e o estrangeiro
 
-###### Art. 45.º As instituições de crédito que, exercendo o comércio de câmbios numa província ultramarina, intervierem na liquidação de importações, exportações ou reexportações de mercadorias, de operações de invisíveis correntes ou de capitais entre outro território nacional e o estrangeiro deverão:
+Art. 45.º As instituições de crédito que, exercendo o comércio de câmbios numa província ultramarina, intervierem na liquidação de importações, exportações ou reexportações de mercadorias, de operações de invisíveis correntes ou de capitais entre outro território nacional e o estrangeiro deverão:
 
 1.º Certificar-se de que as respectivas operações satisfazem ao estabelecido nos princípios reguladores e instruções referidos nos artigos 25.º e 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460) e em vigor no território nacional a que as mesmas operações respeitarem;
 
@@ -314,15 +365,15 @@ b) Tratando-se de importação de mercadorias, de pagamento de invisíveis ou de
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 46.º As transgressões ao disposto no presente decreto-lei e aos despachos e portarias previstos nos artigos 25.º, 27.º e 39.º são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), tendo em conta o estatuído nos §§ 1.º a 3.º do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
+Art. 46.º As transgressões ao disposto no presente decreto-lei e aos despachos e portarias previstos nos artigos 25.º, 27.º e 39.º são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), tendo em conta o estatuído nos §§ 1.º a 3.º do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
-###### Art. 47.º A intervenção em letras, livranças, cheques ou outros títulos de análoga natureza, quando realizada para a prática de actos que constituam transgressão nos termos do artigo anterior e do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), será punível como neles se dispõe, sem prejuízo da validade das obrigações constantes dos títulos.
+Art. 47.º A intervenção em letras, livranças, cheques ou outros títulos de análoga natureza, quando realizada para a prática de actos que constituam transgressão nos termos do artigo anterior e do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), será punível como neles se dispõe, sem prejuízo da validade das obrigações constantes dos títulos.
 
 § único. As instituições de crédito que, no exercício da sua actividade, tiverem conhecimento das transgressões abrangidas pelo presente artigo, deverão fazer imediatamente a respectiva participação à Inspecção-Geral de Crédito e Seguros, tratando-se de instituições no continente e ilhas adjacentes, ou à competente inspecção de crédito e seguros ou do comércio bancário, se se tratar de instituições nas províncias ultramarinas.
 
-###### Art. 48.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1963.
+Art. 48.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

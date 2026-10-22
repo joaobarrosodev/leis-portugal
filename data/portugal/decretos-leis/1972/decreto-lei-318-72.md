@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1972-676458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecb0151109d3f5f98b46367bd57a8d693c654048088b09deb8a10bf969af050a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c722fdfb3b5be5802a2c52addf070b4dd017d40d80305d9f5216e6768f65053e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Exportação
+- Fósforos
+- Imposto Especial sobre o Consumo
+- Indústria Fosforeira
+- Isenção Fiscal
+- Ministro das Finanças
+relationships:
+- type: cites
+  target: pt:dre:266331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442356:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:46Z'
   warnings: []
   errors: []
 ---
@@ -103,20 +118,20 @@ Nestes termos, e no exercício da autorização constante da alínea b) do artig
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aplicável aos fósforos manufacturados no continente e ilhas adjacentes, e destinados a consumo a bordo de navios e aeronaves estrangeiros, o regime constante do [Decreto n.º 22326](https://diariodarepublica.pt/dr/detalhe/decreto/22326-1933-266331), de 17 de Março de 1933.
+Artigo 1.º É aplicável aos fósforos manufacturados no continente e ilhas adjacentes, e destinados a consumo a bordo de navios e aeronaves estrangeiros, o regime constante do [Decreto n.º 22326](https://diariodarepublica.pt/dr/detalhe/decreto/22326-1933-266331), de 17 de Março de 1933.
 
-###### Art. 2.º - 1. O Ministro das Finanças poderá sujeitar a idêntico regime os fósforos manufacturados no continente e ilhas adjacentes, quando destinados a navios e aeronaves nacionais, para serem consumidos em viagens para o ultramar e para o estrangeiro.
+Art. 2.º - 1. O Ministro das Finanças poderá sujeitar a idêntico regime os fósforos manufacturados no continente e ilhas adjacentes, quando destinados a navios e aeronaves nacionais, para serem consumidos em viagens para o ultramar e para o estrangeiro.
 
 2. Quando, nas viagens previstas no número anterior, se fizer escala em porto metropolitano ou das ilhas adjacentes, só é autorizado o consumo dos fósforos depois da partida daqueles portos.
 
-###### Art. 3.º - 1. Pelo serviço de vigilância, exercido pelos agentes fiscais da Inspecção-Geral de Finanças, sobre as remessas de fósforos em trânsito da fábrica em que são manufacturados para o cais de embarque, ou para armazéns de depósito aguardando o embarque, é devido o pagamento de emolumentos, a cargo da empresa fosforeira exportadora.
+Art. 3.º - 1. Pelo serviço de vigilância, exercido pelos agentes fiscais da Inspecção-Geral de Finanças, sobre as remessas de fósforos em trânsito da fábrica em que são manufacturados para o cais de embarque, ou para armazéns de depósito aguardando o embarque, é devido o pagamento de emolumentos, a cargo da empresa fosforeira exportadora.
 
 2. Em despacho do Ministro das Finanças será fixada a tabela dos emolumentos, bem como do desconto a reverter para o Estado.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

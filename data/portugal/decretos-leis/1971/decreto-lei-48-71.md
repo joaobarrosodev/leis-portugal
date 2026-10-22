@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1971-446896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cce7d3a6197579e85f131588a95d2110396d59750e7dfa78b199bc147a127c1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65bd94d42dc96bfab6db27dfd6dc1443d732cf0c9d0af60cf3cdf709e2c82895
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Código Administrativo
+- Contabilidade Pública
+- Contribuições e Impostos
+- Serviço de Finanças
+relationships:
+- type: cites
+  target: pt:dre:152513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519257:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:445487:por
+  label: "Rectificado pela RECT.DD428.19.03.1971.PC, DG.IS [66] de 19.03.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-445487
+  date: '1971-03-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:39Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +128,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 99.º, 100.º, 182.º, 214.º, 215.º, 216.º, 217.º, 218.º, 219.º, 220.º, 223.º, 224.º, 359.º, 360.º, 460.º, 530.º, 674.º, 706.º, 711.º, 712.º e 756.º do Código Administrativo passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 99.º, 100.º, 182.º, 214.º, 215.º, 216.º, 217.º, 218.º, 219.º, 220.º, 223.º, 224.º, 359.º, 360.º, 460.º, 530.º, 674.º, 706.º, 711.º, 712.º e 756.º do Código Administrativo passam a ter a seguinte redacção:
 
-###### Art. 99.º Nos concelhos de Lisboa e Porto dependem de deliberação tomada em reunião da câmara:
+Art. 99.º Nos concelhos de Lisboa e Porto dependem de deliberação tomada em reunião da câmara:
 
 ...
 
@@ -116,7 +138,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 100.º Carecem de aprovação do Governo, para se tomarem executórias, as deliberações:
+Art. 100.º Carecem de aprovação do Governo, para se tomarem executórias, as deliberações:
 
 ...
 
@@ -124,7 +146,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 182.º ...
+Art. 182.º ...
 
 § 1.º As deliberações que impliquem a realização de obras públicas cujo custo provável não exceda 1000 contos não carecem de aprovação das câmaras municipais.
 
@@ -134,7 +156,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 214.º Até ao dia 15 de Fevereiro serão remetidos aos presidentes das câmaras municipais e, em Lisboa e no Porto, aos administradores dos bairros:
+Art. 214.º Até ao dia 15 de Fevereiro serão remetidos aos presidentes das câmaras municipais e, em Lisboa e no Porto, aos administradores dos bairros:
 
 1) Pelas repartições e serviços civis, militares ou militarizados do Estado e dos corpos administrativos, verbetes individuais do pessoal a incluir no recenseamento, bem como daquele que deverá deixar de o ser, ou cujos elementos de identificação tenham sofrido alteração;
 
@@ -146,25 +168,25 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º O Ministro do Interior poderá estabelecer, por portaria, os modelos dos verbetes e das relações de que trata o presente artigo, bem como o seu uso obrigatório, e determinar que constituam exclusivo da Imprensa Nacional.
 
-###### Art. 215.º Até ao dia 15 de Março os chefes das secretarias das câmaras municipais e, em Lisboa e Porto, os secretários das administrações dos bairros, servindo-se dos elementos referidos no artigo anterior, organizarão, relativamente a cada freguesia, a relação dos indivíduos que, em face daqueles elementos, devem ser inscritos ou eliminados do recenseamento.
+Art. 215.º Até ao dia 15 de Março os chefes das secretarias das câmaras municipais e, em Lisboa e Porto, os secretários das administrações dos bairros, servindo-se dos elementos referidos no artigo anterior, organizarão, relativamente a cada freguesia, a relação dos indivíduos que, em face daqueles elementos, devem ser inscritos ou eliminados do recenseamento.
 
 § 1.º ...
 
 § 2.º O presidente da câmara municipal ou administrador do bairro providenciarão de forma que as relações referidas neste artigo estejam definitivamente organizadas e delas sejam entregues cópias às juntas de freguesia a que respeitam até ao dia 25 de Março.
 
-###### Art. 216.º As juntas, coligidos todos os elementos referidos nos artigos anteriores, organizarão até 1 de Maio o recenseamento geral da freguesia, pela ordem alfabética dos eleitores.
+Art. 216.º As juntas, coligidos todos os elementos referidos nos artigos anteriores, organizarão até 1 de Maio o recenseamento geral da freguesia, pela ordem alfabética dos eleitores.
 
-###### Art. 217.º Uma cópia fiel do recenseamento, tendo, em listas separadas, as relações dos chefes de família que foram eliminados e dos que foram inscritos de novo, será exposta na sede da junta durante cinco dias, para exame e reclamação dos interessados.
+Art. 217.º Uma cópia fiel do recenseamento, tendo, em listas separadas, as relações dos chefes de família que foram eliminados e dos que foram inscritos de novo, será exposta na sede da junta durante cinco dias, para exame e reclamação dos interessados.
 
 § 1.º A cópia a que se refere o corpo deste artigo pode ser substituída pela exposição do ficheiro dos eleitores, que há-de servir de base à posterior organização do livro de recenseamento, de harmonia com o disposto nos artigos 216.º, 219.º e 220.º
 
 § 2.º Durante o prazo de reclamação, podem os interessados ou qualquer chefe de família eleitor exigir que lhes seja passado documento comprovativo da inscrição deles próprios, ou de outros, no recenseamento. Tal documento será gratuito e devidamente assinado e autenticado, dele devendo ser extraído duplicado, para ficar arquivado na junta de freguesia.
 
-###### Art. 218.º Da inscrição ou da falta desta podem o interessado ou qualquer chefe de família eleitor reclamar para o presidente da câmara municipal do concelho, ou, em Lisboa e Porto, para o administrador do bairro, nos cinco dias imediatos ao do termo da exposição do recenseamento.
+Art. 218.º Da inscrição ou da falta desta podem o interessado ou qualquer chefe de família eleitor reclamar para o presidente da câmara municipal do concelho, ou, em Lisboa e Porto, para o administrador do bairro, nos cinco dias imediatos ao do termo da exposição do recenseamento.
 
 § único. Da decisão do presidente da câmara ou administrador do bairro, a qual será tomada nos cinco dias imediatos, cabe recurso, dentro dos cinco dias seguintes, para o auditor administrativo.
 
-###### Art. 219.º Até 31 de Maio os auditores administrativos proferirão sentença sobre todos os recursos interpostos dentro dos prazos fixados no artigo anterior.
+Art. 219.º Até 31 de Maio os auditores administrativos proferirão sentença sobre todos os recursos interpostos dentro dos prazos fixados no artigo anterior.
 
 § 1.º Os auditores poderão fazer apensar todos os processos de recurso da mesma freguesia cujos fundamentos sejam idênticos, para o efeito de neles proferirem uma única sentença.
 
@@ -172,19 +194,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º O recenseamento que sofrer quaisquer modificações por virtude de sentença proferida pelos auditores será de novo patente durante cinco dias na sede da junta a todas as pessoas que o queiram examinar.
 
-###### Art. 220.º O recenseamento será numerado e rubricado em todas as suas folhas pelo presidente da junta e terá termo de abertura e encerramento, subscrito pelo mesmo presidente e vogais da junta, declarando-se no termo de encerramento o número de eleitores inscritos.
+Art. 220.º O recenseamento será numerado e rubricado em todas as suas folhas pelo presidente da junta e terá termo de abertura e encerramento, subscrito pelo mesmo presidente e vogais da junta, declarando-se no termo de encerramento o número de eleitores inscritos.
 
 ...
 
-###### Art. 223.º O presidente a junta de freguesia, organizado definitivamente o recenseamento, remeterá ao presidente da câmara municipal do concelho, e, em Lisboa e Porto, ao administrador do respectivo bairro, até ao dia 1 de Julho, uma cópia por ele verificada e rubricada em todas as suas folhas.
+Art. 223.º O presidente a junta de freguesia, organizado definitivamente o recenseamento, remeterá ao presidente da câmara municipal do concelho, e, em Lisboa e Porto, ao administrador do respectivo bairro, até ao dia 1 de Julho, uma cópia por ele verificada e rubricada em todas as suas folhas.
 
-###### Art. 224.º ...
+Art. 224.º ...
 
 § único. Do livro do recenseamento, que deverá estar concluído até ao dia 1 de Agosto, serão extraídas duas cópias, para serem remetidas, até ao dia 31 do mesmo mês, uma ao governo civil do distrito e outra à Direcção-Geral de Administração Política e Civil.
 
 ...
 
-###### Art. 359.º ...
+Art. 359.º ...
 
 § 1.º ...
 
@@ -192,7 +214,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Em tudo o que diga respeito ao regime de empreitadas de obras e que não esteja especialmente regulado neste Código, observar-se-ão as disposições legais aplicáveis às empreitadas do Estado, competindo, porém, ao próprio corpo administrativo resolver sobre a adjudicação e substituir-se à comissão perante a qual decorre o acto público do concurso de obras do Estado.
 
-###### Art. 360.º ...
+Art. 360.º ...
 
 § 1.º Poderão ser feitas por administração directa:
 
@@ -212,7 +234,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 460.º ...
+Art. 460.º ...
 
 § 1.º Salva indicação expressa em contrário, constante do respectivo aviso de abertura, é dispensada a apresentação dos documentos comprovativos dos requisitos exigidos para a admissão a concurso, devendo os candidatos declarar nos respectivos requerimentos, em alíneas separadas e sob compromisso de honra, a situação precisa em que se encontrem, relativamente às condições a que se referem os n.os 1.º, 2.º, 5º, 7.º e 8.º do corpo deste artigo e ainda às condições especiais porventura exigidas para aquele efeito.
 
@@ -224,7 +246,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 530.º ...
+Art. 530.º ...
 
 § 2.º A gratificação pelo serviço de recenseamento eleitoral tem como limite máximo, em cada ano, a importância de um mês de ordenado e poderá ser extensiva a pessoal auxiliar da câmara municipal ou, em Lisboa e Porto, da administração
 
@@ -234,13 +256,13 @@ de bairro.
 
 ...
 
-###### Art. 674.º Os encargos da dívida de um corpo administrativo não poderão exceder a quinta parte da receita ordinária arrecadada no ano económico anterior àquele em que se efectue o empréstimo.
+Art. 674.º Os encargos da dívida de um corpo administrativo não poderão exceder a quinta parte da receita ordinária arrecadada no ano económico anterior àquele em que se efectue o empréstimo.
 
 § único. Exceptuam-se os empréstimos para serviços municipalizados ou susceptíveis de municipalização, que poderão ser autorizados sempre que os encargos deles resultantes tenham compensação suficiente no rendimento dos mesmos serviços, e os empréstimos destinados à aquisição de terrenos para urbanização, desde que os respectivos encargos fiquem garantidos pelo produto da alienação dos terrenos sobrantes.
 
 ...
 
-###### Art. 706.º ...
+Art. 706.º ...
 
 § 1.º ...
 
@@ -256,7 +278,7 @@ A falta de remessa dos elementos, pelas empresas, dentro do prazo que lhes for i
 
 ...
 
-###### Art. 711.º ...
+Art. 711.º ...
 
 § 1.º ...
 
@@ -268,7 +290,7 @@ A falta de remessa dos elementos, pelas empresas, dentro do prazo que lhes for i
 
 A falta da declaração será punida com multa de 500$00 a 5000$00.
 
-###### Art. 712.º ...
+Art. 712.º ...
 
 § 1.º O imposto de comércio e indústria será repartido pelas câmaras municipais dos concelhos onde as empresas possuam sede, escritórios de administração, filiais, sucursais, delegações ou qualquer outra forma de representação própria permanente.
 
@@ -288,30 +310,30 @@ A multa aplicável, nos termos do § 4.º do artigo 706.º, às empresas total o
 
 ...
 
-###### Art. 756.º É permitido às câmaras municipais deliberar o abono adiantado de importância não superior a 5000$00 ao chefe da secretaria, a fim de constituir fundo permanente para despesas correntes de expediente da secretaria que, pela frequência, diminuta importância e urgência, deva ser autorizado a fazer.
+Art. 756.º É permitido às câmaras municipais deliberar o abono adiantado de importância não superior a 5000$00 ao chefe da secretaria, a fim de constituir fundo permanente para despesas correntes de expediente da secretaria que, pela frequência, diminuta importância e urgência, deva ser autorizado a fazer.
 
 § único ...
 
-###### Art. 2.º 1. Os actuais escriturários-dactilógrafos de 1.ª classe dos quadros privativos das secretarias dos governos civis, corpos administrativos e administrações de bairro que, em 31 de Dezembro de 1969, ocupavam lugares de aspirante poderão ser admitidos ao próximo concurso de habilitação para promoção à 3.ª classe da 2.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Política e Civil.
+Art. 2.º 1. Os actuais escriturários-dactilógrafos de 1.ª classe dos quadros privativos das secretarias dos governos civis, corpos administrativos e administrações de bairro que, em 31 de Dezembro de 1969, ocupavam lugares de aspirante poderão ser admitidos ao próximo concurso de habilitação para promoção à 3.ª classe da 2.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Política e Civil.
 
 2. Os escriturários-dactilógrafos de 1.ª classe aprovados no concurso a que se refere o número anterior poderão, durante o período da sua validade e sem prejuízo dos direitos daí resultantes, ser admitidos a concursos de provimento para lugares da 4.ª classe da 2.ª categoria.
 
-###### Art. 3.º - 1. A entrega do produto dos adicionais às contribuições directas do Estado que, nas cobranças realizadas, corresponder a cada uma das câmaras municipais e juntas distritais, nos termos dos artigos 706.º e 784.º, § 2.º, do Código Administrativo, com excepção das da sede da empresa, será efectuada, mensalmente, pela Direcção-Geral da Fazenda Pública, nos termos que forem estabelecidos por despacho do Secretário de Estado do Tesouro.
+Art. 3.º - 1. A entrega do produto dos adicionais às contribuições directas do Estado que, nas cobranças realizadas, corresponder a cada uma das câmaras municipais e juntas distritais, nos termos dos artigos 706.º e 784.º, § 2.º, do Código Administrativo, com excepção das da sede da empresa, será efectuada, mensalmente, pela Direcção-Geral da Fazenda Pública, nos termos que forem estabelecidos por despacho do Secretário de Estado do Tesouro.
 
 2. Quando as importâncias arrecadadas para cada corpo administrativo somarem quantia inferior a 100$00, a sua entrega poderá efectuar-se sòmente quando atingida aquela importância, sem prejuízo, porém, de a receita cobrada até final do ano ser totalmente entregue no prazo normal.
 
-###### Art. 4.º Às multas impostas nos termos do § 4.º do artigo 706.º do Código Administrativo é aplicável o disposto no [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926.
+Art. 4.º Às multas impostas nos termos do § 4.º do artigo 706.º do Código Administrativo é aplicável o disposto no [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926.
 
-###### Art. 5.º O preceituado na alínea l) do corpo do artigo 214.º do Código Administrativo e no § 1.º do mesmo artigo, segundo a redacção deste diploma, só entrará em vigor em 1 de Janeiro de 1972, aplicando-se, entretanto, as correspondentes disposições actualmente vigentes.
+Art. 5.º O preceituado na alínea l) do corpo do artigo 214.º do Código Administrativo e no § 1.º do mesmo artigo, segundo a redacção deste diploma, só entrará em vigor em 1 de Janeiro de 1972, aplicando-se, entretanto, as correspondentes disposições actualmente vigentes.
 
-###### Art. 6.º São revogados o § 6.º do artigo 706.º do Código Administrativo e os artigos 5.º do [Decreto-Lei n.º 36779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36779-1948-152513), de 6 de Março de 1948, e 2.º do [Decreto-Lei n.º 44187](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44187-1962-519257), de 14 de Fevereiro de 1962.
+Art. 6.º São revogados o § 6.º do artigo 706.º do Código Administrativo e os artigos 5.º do [Decreto-Lei n.º 36779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36779-1948-152513), de 6 de Março de 1948, e 2.º do [Decreto-Lei n.º 44187](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44187-1962-519257), de 14 de Fevereiro de 1962.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 10 de Fevereiro de 1971.**
+Promulgado em 10 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

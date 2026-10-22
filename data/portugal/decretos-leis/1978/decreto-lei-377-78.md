@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/27800/25492550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1978-326560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d680192fe76eb45fa7baf5d5e64542d92431a8f96f69e0d066c629a74be6e03b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8cfba2eff0f400b3da18c47642bbf3782802c826efb13e345e9d654405869bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviço de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:627065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:407080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476517:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627065:por
+  label: "Revogado pelo DEC LEI.440/86.31.12.1986.MAI, DR.IS [300]5ºSupl de 31.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/440-1986-627065
+  date: '1986-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:03Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +120,9 @@ Finalmente, há que estabelecer as regras para o provimento dos lugares da carre
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro a que se refere o artigo 24.º do [Decreto-Lei n.º 494-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-a-1976-476517), de 23 de Junho, é aumentado de um lugar de inspector, a preencher por oficial superior das forças armadas, e de um lugar de tesoureiro de 2.ª classe, com o vencimento correspondente à letra L.
+Artigo 1.º O quadro a que se refere o artigo 24.º do [Decreto-Lei n.º 494-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-a-1976-476517), de 23 de Junho, é aumentado de um lugar de inspector, a preencher por oficial superior das forças armadas, e de um lugar de tesoureiro de 2.ª classe, com o vencimento correspondente à letra L.
 
-###### Art. 2.º Ao inspector compete:
+Art. 2.º Ao inspector compete:
 
 a) Inspeccionar a actividade técnica e administrativa dos órgãos e serviços do Serviço de Estrangeiros;
 
@@ -111,11 +130,11 @@ b) Propor ao director as medidas tendentes à correcção e ao aperfeiçoamento 
 
 c) Exercer as demais funções de que for incumbido pelo director.
 
-###### Art. 3.º O funcionário que exerça as funções de tesoureiro terá direito a um abono mensal para falhas, de montante a fixar por despacho dos Ministros da Administração Interna e das Finanças e do Plano.
+Art. 3.º O funcionário que exerça as funções de tesoureiro terá direito a um abono mensal para falhas, de montante a fixar por despacho dos Ministros da Administração Interna e das Finanças e do Plano.
 
-###### Art. 4.º Os artigos 25.º, 26.º e 27.º do [Decreto-Lei n.º 494-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-a-1976-476517), de 23 de Junho, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 25.º, 26.º e 27.º do [Decreto-Lei n.º 494-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-a-1976-476517), de 23 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 25.º - 1 - O director e o subdirector, quando oficiais das forças armadas, poderão optar pelos vencimentos a que tenham direito na sua situação dentro das forças armadas ou pelas remunerações correspondentes às respectivas categorias e desempenham os cargos em comissão de serviço.
+Art. 25.º - 1 - O director e o subdirector, quando oficiais das forças armadas, poderão optar pelos vencimentos a que tenham direito na sua situação dentro das forças armadas ou pelas remunerações correspondentes às respectivas categorias e desempenham os cargos em comissão de serviço.
 
 2 - Os oficiais das forças armadas providos nos restantes lugares do quadro do pessoal do Serviço de Estrangeiros desempenham os seus cargos em comissão de serviço.
 
@@ -123,7 +142,7 @@ c) Exercer as demais funções de que for incumbido pelo director.
 
 4 - Os elementos da Polícia de Segurança Pública, Guarda Nacional Republicana e Guarda Fiscal, bem como os oficiais das forças armadas em serviço nestas corporações, quando colocados no Serviço de Estrangeiros, auferem os vencimentos, gratificações e abonos a que tenham direito nas forças de segurança e são considerados destacados na situação de adidos.
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - ...
 
@@ -149,7 +168,7 @@ c) Exercer as demais funções de que for incumbido pelo director.
 
 13 - O pessoal auxiliar será provido nos termos da lei geral.
 
-###### Art. 27.º - 1 - ...
+Art. 27.º - 1 - ...
 
 2 - Se, porém, o lugar a preencher for o de chefe de repartição, o provimento poderá recair em funcionário de categoria equivalente ou superior a chefe de secção com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
@@ -157,8 +176,8 @@ c) Exercer as demais funções de que for incumbido pelo director.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - António Gonçalves Ribeiro.
 
-**Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 16 de Novembro de 1978.**
+Promulgado, nos termos do artigo 135.º da Constituição da República Portuguesa, em 16 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, TEÓFILO CARVALHO DOS SANTOS.**
+O Presidente da República Interino, TEÓFILO CARVALHO DOS SANTOS.

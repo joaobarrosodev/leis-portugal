@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/1-1987-599722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-02T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71c9d6192aa80c0218ba285de82828f5faf5cb2499423aecfefd00f77957b672
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbc7d855961be9aed26684105f866480dffde441f0f984081a322142f7e6abdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Penafiel
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:54Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +110,7 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Quartel e com o paiol de Penafiel, compreendida numa linha mista fechada englobando os dois prédios do Estado afectos ao Exército, cujos limites são definidos da seguinte forma:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Quartel e com o paiol de Penafiel, compreendida numa linha mista fechada englobando os dois prédios do Estado afectos ao Exército, cujos limites são definidos da seguinte forma:
 
 a) A noroeste, norte, nordeste, este e sudeste do Quartel de Penafiel, por uma linha mista circundante e distante 30 m dos seus limites;
 
@@ -100,7 +118,7 @@ b) A sudeste, essa linha, formando um ângulo obtuso próximo dos 180º, prolong
 
 c) O limite completa-se contornando, por oeste e noroeste, o Largo do Conde de Torres Novas (Campo da Feira), a uma distância de 30 m, e prolonga-se para nordeste, fechando a linha mista iniciada junto ao Quartel de Penafiel.
 
-###### Art. 2.º A área descrita no artigo anterior fica sujeita à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem autorização devidamente condicionada da autoridade competente, a execução de trabalhos e ou as actividades seguintes:
+Art. 2.º A área descrita no artigo anterior fica sujeita à servidão militar fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem autorização devidamente condicionada da autoridade competente, a execução de trabalhos e ou as actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -116,11 +134,11 @@ f) Plantações de árvores e de arbustos;
 
 g) Outros trabalhos ou actividades que possam, inequivocamente, prejudicar a segurança das missões que competem às Forças Armadas.
 
-###### Art. 3.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas autorizações, incumbe ao comando, direcção ou chefia da unidade ou estabelecimento militar ali instalados, ao Comando da Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
+Art. 3.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas autorizações, incumbe ao comando, direcção ou chefia da unidade ou estabelecimento militar ali instalados, ao Comando da Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
 
-###### Art. 4.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
+Art. 4.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
 
-###### Art. 5.º A área descrita no artigo 1.º será demarcada na planta de urbanização da Câmara Municipal de Penafiel, na escala de 1:1000, com a classificação de Reservado, da qual se destinam cópias a cada um dos seguintes departamentos:
+Art. 5.º A área descrita no artigo 1.º será demarcada na planta de urbanização da Câmara Municipal de Penafiel, na escala de 1:1000, com a classificação de Reservado, da qual se destinam cópias a cada um dos seguintes departamentos:
 
 a) Uma ao Ministério da Defesa Nacional;
 
@@ -138,12 +156,12 @@ g) Duas ao Ministério da Administração Interna.
 
 Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Eurico Silva Teixeira de Melo - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 12 de Dezembro de 1986.**
+Assinado em 12 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Dezembro de 1986.**
+Referendado em 17 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

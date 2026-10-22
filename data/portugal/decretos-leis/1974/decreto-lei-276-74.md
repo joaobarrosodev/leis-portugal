@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1974-476118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4864643dadbb73cdcd5fb013541f3ccb2d9f4538059268ff8274ea276eae0979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aefb261fcc1736b7c7c73e209506d415f353f4193d8d70eb54fa89558c34b826
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Benefícios Fiscais
+- Contrato de Concessão
+- Contribuição Industrial
+- Imposto Complementar
+- Prorrogação de Prazo
+- SATA
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:398828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:01Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +116,12 @@ Considerando que a isenção inicialmente concedida caducou em 31 de Dezembro de
 
 Usando da faculdade conferida pela primeira parte do n.º 1, 3.º, do artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É prorrogada até ao dia anterior àquele em que começou a produzir efeitos o contrato da concessão a que se refere o artigo 1.º do [Decreto-Lei n.º 74/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1972-398828), de 4 de Março, a isenção concedida à Sociedade Açoriana de Transportes Aéreos, Lda. (SATA), pelo Decreto-Lei n.º 47179, de 6 de Setembro de 1966.
+Artigo único. É prorrogada até ao dia anterior àquele em que começou a produzir efeitos o contrato da concessão a que se refere o artigo 1.º do [Decreto-Lei n.º 74/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1972-398828), de 4 de Março, a isenção concedida à Sociedade Açoriana de Transportes Aéreos, Lda. (SATA), pelo Decreto-Lei n.º 47179, de 6 de Setembro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida.
 
-**Promulgado em 17 de Junho de 1974.**
+Promulgado em 17 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

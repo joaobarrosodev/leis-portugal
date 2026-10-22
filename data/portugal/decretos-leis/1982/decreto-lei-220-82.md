@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/12900/15991600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1982-391776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d74e1008f97a0fae392bcda02058700efb12b614fcc098be39602492ff80db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c2c16c91b16ab0869ce149b55e79a6f78d1006a287276729e6dfa69f11a3fd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Militar
+- Sanção Penal
+- Tribunal Comum
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:255448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:26Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +113,7 @@ Considerando o que dispõe o artigo 42.º da actual Lei do Serviço Militar, pre
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os militares que, antes da incorporação, tenham sido condenados pelos tribunais comuns em penas de prisão, competindo-lhes entretanto cumprir a sentença, deve-lhes ser interrompida a prestação do serviço militar para cumprimento das mesmas nos estabelecimentos penais civis.
+Artigo 1.º - 1 - Os militares que, antes da incorporação, tenham sido condenados pelos tribunais comuns em penas de prisão, competindo-lhes entretanto cumprir a sentença, deve-lhes ser interrompida a prestação do serviço militar para cumprimento das mesmas nos estabelecimentos penais civis.
 
 2 - Expiadas as penas ou concedida aos condenados a liberdade condicional, devem os mesmos regressar às fileiras, a fim de completar o serviço militar obrigatório entretanto interrompido, se tais eventos ocorrerem antes de 31 de Dezembro do ano em que perfizerem 28 anos de idade.
 
@@ -107,12 +121,12 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 4 - Revogada a liberdade condicional do militar nas condições do n.º 2 voltará a ser-lhe interrompida a prestação do serviço militar efectivo, conforme dispõe o n.º 1.
 
-###### Art. 2.º Aos militares que, tendo sido condenados em pena de prisão suspensa, vejam esta revogada será aplicável o disposto no artigo anterior.
+Art. 2.º Aos militares que, tendo sido condenados em pena de prisão suspensa, vejam esta revogada será aplicável o disposto no artigo anterior.
 
 Visto e aprovado em Conselho da Revolução em 5 de Maio de 1982.
 
-**Promulgado em 19 de Maio de 1982.**
+Promulgado em 19 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

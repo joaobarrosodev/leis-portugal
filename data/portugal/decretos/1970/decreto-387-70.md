@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/387-1970-139377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed42ec6f03f7691bbda65ed0c832401bf6715561cac6e26210e21662496021f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b1a9596a2bce8ddf94e3fa98c1c70842761961ecdd83ead506bcfa7bf9b8238
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:49Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São autorizadas a Direcção-Geral dos Serviços Hidráulicos e a Junta Geral do Distrito Autónomo de Ponta Delgada a celebrar contrato para a execução da empreitada de construção da nova muralha marítima de protecção à vila da Povoação, na ilha de S. Miguel, pela importância de 2075670$00, que poderá elevar-se a 2300000$00 no caso de haver que realizar quantidades de trabalho superiores às previstas no projecto ou que fazer face a encargos resultantes de alterações superiormente aprovadas ou ainda que suportar encargos provenientes das garantias de preços, nos termos do caderno de encargos.
+Artigo 1.º - 1. São autorizadas a Direcção-Geral dos Serviços Hidráulicos e a Junta Geral do Distrito Autónomo de Ponta Delgada a celebrar contrato para a execução da empreitada de construção da nova muralha marítima de protecção à vila da Povoação, na ilha de S. Miguel, pela importância de 2075670$00, que poderá elevar-se a 2300000$00 no caso de haver que realizar quantidades de trabalho superiores às previstas no projecto ou que fazer face a encargos resultantes de alterações superiormente aprovadas ou ainda que suportar encargos provenientes das garantias de preços, nos termos do caderno de encargos.
 
 2. Da importância fixada para limite do encargo do contrato corresponderão:
 
@@ -98,9 +102,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 3. Da importância a cargo da Direcção-Geral dos Serviços Hidráulicos 1001000$00 constituem encargo do Tesouro e os restantes 800000$00 provêm de comparticipação do Fundo de Desemprego concedida àquela Direcção-Geral.
 
-###### Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/08/19000/10751075.pdf))](https://files.diariodarepublica.pt/1s/1970/08/19000/10751075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/19000/10751075.pdf)
 
 2. Os encargos anuais atribuídos à Direcção-Geral dos Serviços Hidráulicos serão satisfeitos por comparticipação do Fundo de Desemprego na parte que a seguir se indica:
 
@@ -114,8 +118,8 @@ e na parte restante por dotações do Orçamento Geral do Estado consignadas àq
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 5 de Agosto de 1970.**
+Promulgado em 5 de Agosto de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

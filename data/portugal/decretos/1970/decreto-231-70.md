@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/231-1970-142302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9952794857474f1bae3d58daae35dc39e24e18e0d4293d2ec39e4f02d6c2b8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 412af81475f0782d640b3e83111556ea1686cc07bb947ceeffd8977bf0d537c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:29Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério das Finanças:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério das Finanças:
 
 No capítulo 7.º:
 
@@ -96,37 +112,37 @@ Do artigo 69.º, n.º 1) «Ajudas de custo» ... -600$00
 
 Para o artigo 67.º, n.º 2) «Pessoal requisitado ao Comissariado do Desemprego» ... +600$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 279960549$70, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 279960549$70, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 13.º «Direcção-Geral da Contabilidade Pública»:
+Capítulo 13.º «Direcção-Geral da Contabilidade Pública»:
 
-###### Artigo 155.º, n.º 1) «Móveis» ... 160000$00
+Artigo 155.º, n.º 1) «Móveis» ... 160000$00
 
-### Capítulo 24.º «Outros investimentos»:
+Capítulo 24.º «Outros investimentos»:
 
-###### Artigo 238.º «Para aquisição de acções e obrigações de bancos e companhias» ... 250000000$00
+Artigo 238.º «Para aquisição de acções e obrigações de bancos e companhias» ... 250000000$00
 
 ... 250160000$00
 
 Ministério do Interior
 
-### Capítulo 3.º «Administração Política e Civil - Direcção-Geral»:
+Capítulo 3.º «Administração Política e Civil - Direcção-Geral»:
 
-###### Artigo 44.º, n.º 1), alínea 1 «Subsídios às juntas gerais dos distritos autónomos das ilhas adjacentes, ...» - Funchal ... 10200000$00
+Artigo 44.º, n.º 1), alínea 1 «Subsídios às juntas gerais dos distritos autónomos das ilhas adjacentes, ...» - Funchal ... 10200000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 17.º, n.º 1) «Luz, ...» ... 54000$00
+Artigo 17.º, n.º 1) «Luz, ...» ... 54000$00
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 51.º «Construções e obras novas»:
+Artigo 51.º «Construções e obras novas»:
 
 N.º 2) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal»:
 
@@ -136,23 +152,23 @@ Alínea 12 «Centro de Instrução da Guarda Fiscal, em Queluz» ... 131152$30
 
 Novas instalações para os serviços públicos
 
-###### Artigo 58.º, n.º 1) «Para pagamento das despesas com os estudos,...»:
+Artigo 58.º, n.º 1) «Para pagamento das despesas com os estudos,...»:
 
 Alínea 4 «Pela Direcção-Geral dos Serviços Agrícolas, para as novas instalações da Estação Agronómica Nacional» ... 1087180$70
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 5.º «Direcção-Geral dos Serviços Hidráulicos»:
 
-###### Artigo 60.º, n.º 2) «Pessoal contratado não pertencente aos quadros» ... 19300$00
+Artigo 60.º, n.º 2) «Pessoal contratado não pertencente aos quadros» ... 19300$00
 
-### Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
 
-###### Artigo 94.º, n.º 3), alínea 3) «Para pagamento de despesas com assistência clínica, ...» ... 8705$90
+Artigo 94.º, n.º 3), alínea 3) «Para pagamento de despesas com assistência clínica, ...» ... 8705$90
 
-### Capítulo 16.º «Outros investimentos»:
+Capítulo 16.º «Outros investimentos»:
 
-###### Artigo 130.º, n.º 1) «Subsídios para melhoramentos rurais ...» ... 1440747$70
+Artigo 130.º, n.º 1) «Subsídios para melhoramentos rurais ...» ... 1440747$70
 
-###### Artigo 135.º «Abastecimento de água com distribuição domiciliária»:
+Artigo 135.º «Abastecimento de água com distribuição domiciliária»:
 
 N.º 1) «Subsídios nos termos dos Decretos-Leis n.os 33863 e 36575, ...» ... 5323380$20
 
@@ -160,29 +176,29 @@ N.º 1) «Subsídios nos termos dos Decretos-Leis n.os 33863 e 36575, ...» ... 
 
 Ministério do Ultramar
 
-### Capítulo 18.º «Outros investimentos»:
+Capítulo 18.º «Outros investimentos»:
 
-###### Artigo 132.º, n.º 2) «Despesas com o transporte, recepção, manutenção e colocação dos indivíduos nacionais que residiam na Índia Portuguesa» ... 2000000$00
+Artigo 132.º, n.º 2) «Despesas com o transporte, recepção, manutenção e colocação dos indivíduos nacionais que residiam na Índia Portuguesa» ... 2000000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 6.º, n.º 3) «Transportes» ... 60000$00
+Artigo 6.º, n.º 3) «Transportes» ... 60000$00
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário - Ensino primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário - Ensino primário»:
 
-###### Artigo 929.º, n.º 3) «Transportes», alínea 1 «Direcções dos Distritos Escolares»:
+Artigo 929.º, n.º 3) «Transportes», alínea 1 «Direcções dos Distritos Escolares»:
 
 Direcção do Distrito Escolar de Viseu ... 8500$00
 
-### Capítulo 7.º «Direcção-Geral da Educação Física, Desportos e Saúde Escolar - Direcção-Geral»:
+Capítulo 7.º «Direcção-Geral da Educação Física, Desportos e Saúde Escolar - Direcção-Geral»:
 
-###### Artigo 944.º «Remunerações certas ao pessoal em exercício»:
+Artigo 944.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/11900/06790681.pdf))](https://files.diariodarepublica.pt/1s/1970/05/11900/06790681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/11900/06790681.pdf)
 
 ... 1738900$00
 
@@ -190,9 +206,9 @@ Ministério da Economia
 
 Secretaria de Estado do Comércio
 
-### Capítulo 9.º «Direcção-Geral do Comércio - Direcção-Geral»:
+Capítulo 9.º «Direcção-Geral do Comércio - Direcção-Geral»:
 
-###### Artigo 207.º, n.º 1) «Subsídios a cofres ...»:
+Artigo 207.º, n.º 1) «Subsídios a cofres ...»:
 
 Alínea 1 «À Bolsa de Fundos de Lisboa» ... 13164$00
 
@@ -202,17 +218,17 @@ Alínea 2 «À Bolsa de Fundos do Porto» ... 18132$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica civil - Aeroporto de Ponta Delgada»:
+Capítulo 4.º «Aeronáutica civil - Aeroporto de Ponta Delgada»:
 
-###### Artigo 133.º-A «Encargos das instalações»:
+Artigo 133.º-A «Encargos das instalações»:
 
 N.º 1) «Rendas de terrenos» ... 163120$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 10.º «Outros encargos»:
+Artigo 10.º «Outros encargos»:
 
 N.º 2) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras»:
 
@@ -220,78 +236,78 @@ Alínea 1 «Subsídio ao Gabinete de Coordenação para os Assuntos de Emigraç�
 
 ... 279960549$70
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 178.º «Reembolso das despesas com a construção, conservação, reparação e melhoramentos de edifícios» ... 4821099$90
+Capítulo 7.º, artigo 178.º «Reembolso das despesas com a construção, conservação, reparação e melhoramentos de edifícios» ... 4821099$90
 
-### Capítulo 7.º, artigo 206.º «Reposições não abatidas nos pagamentos» ... 6764127$90
+Capítulo 7.º, artigo 206.º «Reposições não abatidas nos pagamentos» ... 6764127$90
 
-### Capítulo 9.º, artigo 288.º-A «Amoedação» ... 2000000$00
+Capítulo 9.º, artigo 288.º-A «Amoedação» ... 2000000$00
 
-### Capítulo 9.º, artigo 290.º «Produto da venda de títulos ou de empréstimos» ... 250000000$00
+Capítulo 9.º, artigo 290.º «Produto da venda de títulos ou de empréstimos» ... 250000000$00
 
 ... 263585227$80
 
 Ministério das Finanças
 
-### Capítulo 4.º, artigo 47.º ... 14200000$00
+Capítulo 4.º, artigo 47.º ... 14200000$00
 
-### Capítulo 12.º, artigo 151.º, n.º 1) ... 179300$00
+Capítulo 12.º, artigo 151.º, n.º 1) ... 179300$00
 
 ... 14379300$00
 
 Ministério das Obras Públicas
 
-### Capítulo 6.º, artigo 78.º, n.º 1) ... 54000$00
+Capítulo 6.º, artigo 78.º, n.º 1) ... 54000$00
 
-### Capítulo 7.º, artigo 96.º, n.º 1) ... 8705$90
+Capítulo 7.º, artigo 96.º, n.º 1) ... 8705$90
 
 ... 62705$90
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º, artigo 22.º, n.º 3), alínea 6 ... 60000$00
+Capítulo 2.º, artigo 22.º, n.º 3), alínea 6 ... 60000$00
 
-### Capítulo 6.º, artigo 922.º, n.º 1), alínea 2 ... 518400$00
+Capítulo 6.º, artigo 922.º, n.º 1), alínea 2 ... 518400$00
 
-### Capítulo 6.º, artigo 924.º, n.º 2), alínea 1 - Direcção do Distrito Escolar de Viseu ... 8500$00
+Capítulo 6.º, artigo 924.º, n.º 2), alínea 1 - Direcção do Distrito Escolar de Viseu ... 8500$00
 
-### Capítulo 7.º, artigo 944.º, n.º 1) ... 1152000$00
+Capítulo 7.º, artigo 944.º, n.º 1) ... 1152000$00
 
 ... 1738900$00
 
 Ministério da Economia
 
-### Capítulo 9.º, artigo 197.º, n.º 1) ... 23515$00
+Capítulo 9.º, artigo 197.º, n.º 1) ... 23515$00
 
-### Capítulo 9.º, artigo 197.º, n.º 2) ... 7781$00
+Capítulo 9.º, artigo 197.º, n.º 2) ... 7781$00
 
 ... 31296$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º, artigo 126.º, n.º 1) ... 163120$00
+Capítulo 4.º, artigo 126.º, n.º 1) ... 163120$00
 
 ... 279960549$70
 
-###### Art. 4.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
+Art. 4.º São autorizadas as seguintes alterações ao orçamento privativo da Administração dos Portos do Douro e Leixões:
 
 Reforço:
 
-###### Artigo 14.º «Despesas de anos económicos findos» ... 300000$00
+Artigo 14.º «Despesas de anos económicos findos» ... 300000$00
 
 Contrapartida:
 
-###### Artigo 12.º, n.º 8), alínea 2 «Fundo de Melhoramentos [...]» ... 300000$00
+Artigo 12.º, n.º 8), alínea 2 «Fundo de Melhoramentos [...]» ... 300000$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Maio de 1970.**
+Promulgado em 11 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

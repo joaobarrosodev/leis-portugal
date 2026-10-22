@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16900/18441846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c69c5ea84128f7ef3f255eac7d9d3b9e4decf27ec74a888d95757c9516254ed0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74ce7ed81b14ca0238b5fff6e993d572bcad10f1b62a44b5fede268f03222c45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Pessoal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506809:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:53Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +119,9 @@ Considerando, finalmente, que este diploma deve produzir efeitos desde 1 de Jane
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 8.º, 12.º e 16.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 8.º, 12.º e 16.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
@@ -109,17 +129,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Para efeitos do disposto no número anterior, preferem sempre os candidatos já vinculados à função pública.
 
-###### Art. 4.º - 1 - Quando não esteja provido o lugar de chefe de serviços administrativos ou, estando-o, nas faltas e impedimentos do titular, serão as funções de chefia nos serviços administrativos do estabelecimento de ensino exercidas pelo oficial administrativo de mais elevada categoria do respectivo quadro privativo ou do quadro de supranumerários criado pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, preferindo sempre o do quadro privativo mais antigo nessa categoria.
+Art. 4.º - 1 - Quando não esteja provido o lugar de chefe de serviços administrativos ou, estando-o, nas faltas e impedimentos do titular, serão as funções de chefia nos serviços administrativos do estabelecimento de ensino exercidas pelo oficial administrativo de mais elevada categoria do respectivo quadro privativo ou do quadro de supranumerários criado pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, preferindo sempre o do quadro privativo mais antigo nessa categoria.
 
 2 - Não existindo oficial administrativo de qualquer dos quadros mencionados no número anterior, serão as referidas funções de chefia exercidas pelo oficial administrativo de mais elevada categoria do quadro geral de adidos ou além do quadro, mediante proposta do respectivo órgão de gestão, sujeita a homologação pelo director-geral de Pessoal.
 
 3 - ...
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - Por despacho ministerial, os concursos de habilitação poderão ser substituídos pela frequência, com aproveitamento, de cursos de formação profissional, aos quais se poderão candidatar os indivíduos que seriam opositores nos termos dos n.os 1 e 2 do artigo anterior.
 
-###### Art. 12.º - 1 - As funções de tesoureiro - de aceitação obrigatória - serão exercidas por funcionários do quadro privativo do estabelecimento de ensino ou do quadro de supranumerários criado pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, designado pelo conselho administrativo, sob proposta do respectivo chefe de serviços administrativos, de entre os de categoria igual ou superior a terceiro-oficial, tendo em atenção o seguinte:
+Art. 12.º - 1 - As funções de tesoureiro - de aceitação obrigatória - serão exercidas por funcionários do quadro privativo do estabelecimento de ensino ou do quadro de supranumerários criado pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, designado pelo conselho administrativo, sob proposta do respectivo chefe de serviços administrativos, de entre os de categoria igual ou superior a terceiro-oficial, tendo em atenção o seguinte:
 
 a) As funções de tesoureiro e de chefe de serviços administrativos não poderão ser exercidas em acumulação, salvo nos estabelecimentos em que só exista um funcionário administrativo de qualquer dos quadros referidos no corpo deste número em exercício;
 
@@ -131,7 +151,7 @@ b) Pelo exercício das funções de tesoureiro não é exigido o depósito de qu
 
 4 - O abono referido no número anterior será de montante igual ao atribuído ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de categorias, e, nos restantes casos, será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência.
 
-###### Art. 16.º - 1 - O pessoal administrativo do quadro, contratado além do quadro e em regime de prestação eventual de serviço, ou supranumerário ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 130/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1976-506809), de 14 de Fevereiro, que em 1 de Janeiro de 1979 tenha, pelo menos, três anos de bom e efectivo serviço na respectiva categoria transitará para a categoria imediatamente superior, até ao limite das vagas do respectivo quadro único, desde que, naquela data, possua as habilitações literárias para tal exigidas.
+Art. 16.º - 1 - O pessoal administrativo do quadro, contratado além do quadro e em regime de prestação eventual de serviço, ou supranumerário ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 130/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1976-506809), de 14 de Fevereiro, que em 1 de Janeiro de 1979 tenha, pelo menos, três anos de bom e efectivo serviço na respectiva categoria transitará para a categoria imediatamente superior, até ao limite das vagas do respectivo quadro único, desde que, naquela data, possua as habilitações literárias para tal exigidas.
 
 2 - O pessoal administrativo que em 1 de Janeiro de 1979 se encontrava na situação de prestação eventual de serviço será integrado no quadro, na categoria que lhe couber nos termos do disposto no presente diploma, desde que possua as habilitações literárias legalmente exigidas.
 
@@ -149,22 +169,22 @@ d) De entre os segundos-oficiais com, pelo menos, seis anos de serviço na categ
 
 5 - Não é exigido o prazo de três anos referido no n.º 1 deste artigo aos funcionários do quadro que tenham sido aprovados em concurso de habilitação realizado até 1973, inclusive.
 
-###### Art. 2.º É aditado o artigo 20.º-A ao [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com a seguinte redacção:
+Art. 2.º É aditado o artigo 20.º-A ao [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com a seguinte redacção:
 
-###### Art. 20.º-A - 1 - Poderão ser admitidas por despacho do director-geral de Pessoal unidades de pessoal administrativo em regime de contrato de prestação eventual de serviço, sempre que as necessidades do serviço resultem de criação ou ampliação de estabelecimentos de ensino, o qual vigorará até ao provimento, por concurso, dos lugares dos quadros respectivos.
+Art. 20.º-A - 1 - Poderão ser admitidas por despacho do director-geral de Pessoal unidades de pessoal administrativo em regime de contrato de prestação eventual de serviço, sempre que as necessidades do serviço resultem de criação ou ampliação de estabelecimentos de ensino, o qual vigorará até ao provimento, por concurso, dos lugares dos quadros respectivos.
 
 2 - O contrato referido no número anterior será obrigatoriamente reduzido a escrito, dele constando o prazo, a remuneração e as condições de rescisão.
 
 3 - As remunerações do pessoal a que se refere o n.º 1 deste artigo serão suportadas pelas verbas expressamente destinadas a vencimentos de pessoal administrativo dos correspondentes estabelecimentos de ensino.
 
-###### Art. 3.º A integração no quadro previsto no [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, do pessoal colocado como supranumerário ao abrigo da [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, ou que o vier a ser até 31 de Dezembro de 1980, far-se-á de acordo com as regras a estabelecer por decreto referendado pelo Ministro da Educação e Ciência e pelo membro do Governo que tiver a seu cargo a função pública, respeitando os princípios estabelecidos naquela portaria.
+Art. 3.º A integração no quadro previsto no [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, do pessoal colocado como supranumerário ao abrigo da [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, ou que o vier a ser até 31 de Dezembro de 1980, far-se-á de acordo com as regras a estabelecer por decreto referendado pelo Ministro da Educação e Ciência e pelo membro do Governo que tiver a seu cargo a função pública, respeitando os princípios estabelecidos naquela portaria.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 1 de Janeiro de 1979, à excepção do disposto no artigo anterior.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 1 de Janeiro de 1979, à excepção do disposto no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 7 de Julho de 1980.**
+Promulgado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

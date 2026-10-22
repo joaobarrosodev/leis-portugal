@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afc84bcb01338c5592e2ae864b56b6867871458d7f9805c5d6b9ac06d6d37f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f8d1ccc4ab4024078fb70ef3fd7c093cf73603b197bd38546dff4734b0a7490
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Nacional de Pensões
+- Criação de Serviços
+- Definição de Competências
+- Federação das Caixas de Previdência e Abono de Família
+- Instituto de Gestão Financeira da Segurança Social
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria de Estado da Saúde
+- Serviços Médico-sociais
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:374620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231286:por
+  label: "Extintos os Serviços Médico-Sociais com as atribuições e estrutura constantes do presente diploma pelo DEC LEI.530/79.31.12.1979.PCM,\
+    \ DR.IS [300-4.º Supl] de 31.12.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1979-231286
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "O Instituto de Gestão Financeira da Segurança Social, passou para a dependência do Ministro da Solidariedade e Segurança\
+    \ Social, pelo do DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A [266]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:374620:por
+  label: "Derrogado em tudo o que o contrarie pelo DEC LEI.260/99.1999.07.07.MTS,DR.IS-A [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1999-374620
+  date: '1999-07-07'
+- type: cites
+  target: pt:dre:314932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471513:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393411:por
+  label: "Revogado o artigo 8.º pelo DEC LEI.23/79.14.02.1979.PCM, DR.IS [38] de 14.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1979-393411
+  date: '1979-02-14'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:28Z'
   warnings: []
   errors: []
 ---
@@ -203,8 +243,8 @@ Fica revogado o [Decreto-Lei n.º 589/74](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros - Armando Bacelar.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

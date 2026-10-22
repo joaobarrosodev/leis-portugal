@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30000/34713477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1979-353746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84fe4569206fd05d0eafc9302f854c70ae381fa3b480595dcb09d61ec7fe12fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e91d88b72ebedfeba77cba8597e3452c5c7b269a1c6b0323987eb98c34ddf05b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Agregação
+- Avaliação de Conhecimentos
+- Bacharelato
+- Curso de Especialização
+- Diploma
+- Doutoramento
+- Ensino Superior
+- Equivalência de Habilitações Literárias
+- Escola Superior
+- Estabelecimento de Ensino
+- Habilitações Literárias
+- Instituto Universitário
+- Licenciatura
+- Mestrado
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:470446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393245:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:470446:por
+  label: Revogado, a partir de 12.08.1980, pelo(a) Decreto-Lei n.º 263/80 - Diário da República n.º 181/1980, Série I de 1980-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1980-470446
+  date: '1980-08-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:50Z'
   warnings: []
   errors: []
 ---
@@ -105,21 +146,21 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Graus e diplomas do ensino superior
 
-###### Artigo 1.º - 1 - As Universidades e os Institutos Universitários conferem os graus de licenciado, pós-graduado, doutor e agregado, aos quais correspondem, respectivamente, os diplomas de licenciatura, de mestrado, de doutoramento e de agregação.
+Artigo 1.º - 1 - As Universidades e os Institutos Universitários conferem os graus de licenciado, pós-graduado, doutor e agregado, aos quais correspondem, respectivamente, os diplomas de licenciatura, de mestrado, de doutoramento e de agregação.
 
 2 - As escolas superiores criadas ao abrigo do disposto no [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, conferem o diploma de estudos superiores e o diploma de estudos superiores especializados.
 
 Licenciatura
 
-###### Art. 2.º - 1 - O grau de licenciado é concedido mediante a aprovação em todas as disciplinas, monografias, seminários e estágios previstos nos planos de estudo dos cursos para tal fim realizados nas diversas escolas universitárias.
+Art. 2.º - 1 - O grau de licenciado é concedido mediante a aprovação em todas as disciplinas, monografias, seminários e estágios previstos nos planos de estudo dos cursos para tal fim realizados nas diversas escolas universitárias.
 
 2 - O grau de licenciado comprova sólida formação cultural, científica e técnica de nível universitário, a qual permite aprofundar conhecimentos com vista à especialização numa determinada área do saber e também, desde logo, uma adequada inserção profissional.
 
 3 - As designações dos cursos de licenciatura serão fixadas, no diploma da sua criação, de acordo com os correspondentes ramos do conhecimento que constituem o objecto da escola em que se realizam, com indicação da respectiva opção, quando for caso disso.
 
-###### Art. 3.º Os planos de estudo dos cursos de licenciatura serão aprovados por portaria do Ministro da Educação, sob proposta dos conselhos científicos ou das comissões instaladoras das Universidades, Institutos Universitários ou escolas em regime de instalação, e devem corresponder a um mínimo de quatro anos lectivos ou oito semestres e máximo de seis anos lectivos ou doze semestres.
+Art. 3.º Os planos de estudo dos cursos de licenciatura serão aprovados por portaria do Ministro da Educação, sob proposta dos conselhos científicos ou das comissões instaladoras das Universidades, Institutos Universitários ou escolas em regime de instalação, e devem corresponder a um mínimo de quatro anos lectivos ou oito semestres e máximo de seis anos lectivos ou doze semestres.
 
-###### Art. 4.º - 1 - À matrícula nos cursos de licenciatura terão acesso:
+Art. 4.º - 1 - À matrícula nos cursos de licenciatura terão acesso:
 
 a) Os indivíduos habilitados com o curso complementar do ensino secundário ou equivalente que obtenham aprovação no Ano Propedêutico ou no 12.º ano que lhe vier a suceder ou equivalente;
 
@@ -135,13 +176,13 @@ e) Os indivíduos portadores do diploma de estudos superiores e de estudos super
 
 Mestrado
 
-###### Art. 5.º - 1 - O grau de pós-graduado é conferida pelas Universidades e Institutos Universitários mediante aprovação em cursos para tal fim realizados em cada uma das suas escolas.
+Art. 5.º - 1 - O grau de pós-graduado é conferida pelas Universidades e Institutos Universitários mediante aprovação em cursos para tal fim realizados em cada uma das suas escolas.
 
 2 - O grau de pós-graduado comprova nível aprofundado de conhecimento numa área científica restrita e capacidade científica para a prática de investigação.
 
 3 - Os cursos de mestrado são designados de acordo com os correspondentes ramos do conhecimento que constituam objecto da escola que os realiza, acrescentando-se a especialidade em que for efectuado.
 
-###### Art. 6.º - 1 - Os cursos de mestrado obedecerão a planos de estudo a submeter, sob proposta dos conselhos científicos ou das comissões instaladoras das Universidades, Institutos Universitários ou escolas, em regime de instalação, à aprovação do Ministro da Educação, devendo corresponder a um mínimo de doze meses e ao máximo de vinte e quatro meses de escolaridade de matéria especializada, incluindo ainda a crítica e defesa de uma dissertação original e especialmente escrita para o efeito.
+Art. 6.º - 1 - Os cursos de mestrado obedecerão a planos de estudo a submeter, sob proposta dos conselhos científicos ou das comissões instaladoras das Universidades, Institutos Universitários ou escolas, em regime de instalação, à aprovação do Ministro da Educação, devendo corresponder a um mínimo de doze meses e ao máximo de vinte e quatro meses de escolaridade de matéria especializada, incluindo ainda a crítica e defesa de uma dissertação original e especialmente escrita para o efeito.
 
 2 - A preparação da dissertação deverá ser, salvo o disposto no número seguinte, orientada por um professor da escola em que se realize o curso.
 
@@ -149,45 +190,45 @@ Mestrado
 
 4 - Por instrumento legal adequado será regulamentado o ensino de pós-graduação.
 
-###### Art. 7.º - 1 - À inscrição nos cursos de mestrado terão acesso os licenciados por Universidades e Institutos Universitários portugueses ou por Universidades estrangeiras, desde que tenham obtido a respectiva equivalência nos termos legais.
+Art. 7.º - 1 - À inscrição nos cursos de mestrado terão acesso os licenciados por Universidades e Institutos Universitários portugueses ou por Universidades estrangeiras, desde que tenham obtido a respectiva equivalência nos termos legais.
 
 2 - O acesso aos cursos de mestrado é limitado de acordo com as propostas dos conselhos científicos ou comissões instaladoras das Universidades, Institutos Universitários ou escolas em regime de instalação.
 
 3 - Serão fixados por despacho do Ministro da Educação os prazos para as inscrições, bem como os critérios para a ordenação e limite do número de candidatos aos referidos cursos em cada ano, mediante proposta dos conselhos científicos ou das comissões instaladoras das Universidades, Institutos Universitários ou escolas em regime de instalação, sendo atribuída uma determinada quota aos assistentes estagiários da disciplina ou grupo de disciplinas do âmbito do respectivo curso de mestrado.
 
-###### Art. 8.º O júri para a apreciação da dissertação final dos cursos de mestrado, nomeado pelo reitor e presidido pelo professor mais antigo da categoria mais elevada, será constituído:
+Art. 8.º O júri para a apreciação da dissertação final dos cursos de mestrado, nomeado pelo reitor e presidido pelo professor mais antigo da categoria mais elevada, será constituído:
 
 a) Pelo professor ou investigador que orientou a dissertação;
 
 b) Por mais dois vogais, professores de matérias da especialidade a que corresponde o curso.
 
-###### Art. 9.º - 1 - A dissertação será apreciada por um dos membros do júri, o qual poderá pertencer a escola diferente daquela em que se realiza a prova.
+Art. 9.º - 1 - A dissertação será apreciada por um dos membros do júri, o qual poderá pertencer a escola diferente daquela em que se realiza a prova.
 
 2 - A discussão da dissertação não poderá exceder sessenta minutos, cabendo um período máximo de trinta minutos ao arguente e devendo ser proporcionada ao candidato a possibilidade de responder às críticas feitas.
 
 3 - A discussão da dissertação só poderá ser realizada depois de o candidato ter sido aprovado em todas as disciplinas curriculares e seminários do curso de mestrado.
 
-###### Art. 10.º - 1 - Concluída a discussão referida no número anterior, o júri reúne para apreciação da prova e para classificação do candidato em votação nominal justificada.
+Art. 10.º - 1 - Concluída a discussão referida no número anterior, o júri reúne para apreciação da prova e para classificação do candidato em votação nominal justificada.
 
 2 - A votação final deverá ter em conta os resultados obtidos nas disciplinas e seminários do plano de estudos do curso de mestrado.
 
 3 - Da respectiva acta a elaborar constará um resumo da apreciação das provas feitas pelo júri.
 
-###### Art. 11.º - 1 - O resultado final do curso de mestrado será expresso pelas fórmulas de recusado, aprovado com a classificação de Bom ou aprovado com a classificação de Muito bom.
+Art. 11.º - 1 - O resultado final do curso de mestrado será expresso pelas fórmulas de recusado, aprovado com a classificação de Bom ou aprovado com a classificação de Muito bom.
 
 2 - A aprovação final no curso de mestrado com a classificação de Muito bom confere o direito à dispensa, para obtenção do grau de doutor, na mesma especialidade, de todas as provas que não sejam a defesa da dissertação.
 
 Doutoramento
 
-###### Art. 12.º - 1 - O grau de doutor é conferido pelas Universidades e Institutos Universitários em cada uma das suas escolas ou departamentos e comprova alto nível cultural e científico e aptidão para o desenvolvimento de investigação original em determinado ramo do saber.
+Art. 12.º - 1 - O grau de doutor é conferido pelas Universidades e Institutos Universitários em cada uma das suas escolas ou departamentos e comprova alto nível cultural e científico e aptidão para o desenvolvimento de investigação original em determinado ramo do saber.
 
 2 - O grau de doutor é designado de acordo com os correspondentes ramos do conhecimento que constituem objecto da escola onde é conferido, acrescentando-se a especialidade sobre que incidiram as provas.
 
-###### Art. 13.º - 1 - As provas de doutoramento incidirão sobre matéria de um grupo de disciplinas afins, professadas em escolas superiores e incluídas no elenco das respectivas licenciaturas.
+Art. 13.º - 1 - As provas de doutoramento incidirão sobre matéria de um grupo de disciplinas afins, professadas em escolas superiores e incluídas no elenco das respectivas licenciaturas.
 
 2 - O Ministro da Educação fixará, sob proposta dos conselhos científicos ou das comissões instaladoras das Universidades, Institutos Universitários ou escolas em regime de instalação, as diferentes especialidades sobre as quais poderá ser concedido o doutoramento em cada escola, bem como o grupo de disciplinas afins que podem constituir matéria de cada uma delas.
 
-###### Art. 14.º - 1 - A candidatura a doutoramento é condicionada à posse de licenciatura correspondente ou como tal considerada pelo conselho científico ou comissão instaladora ou de uma formação científica ou profissional adquirida após a licenciatura pelo candidato e considerada por aqueles órgãos como suficiente e adequada à sujeição àquele acto.
+Art. 14.º - 1 - A candidatura a doutoramento é condicionada à posse de licenciatura correspondente ou como tal considerada pelo conselho científico ou comissão instaladora ou de uma formação científica ou profissional adquirida após a licenciatura pelo candidato e considerada por aqueles órgãos como suficiente e adequada à sujeição àquele acto.
 
 2 - Podem candidatar-se ao grau de doutor:
 
@@ -201,13 +242,13 @@ d) Mediante parecer favorável do conselho científico, os licenciados com infor
 
 e) Mediante parecer favorável do conselho científico ou da comissão instaladora das Universidades, Institutos Universitários ou das escolas em regime de instalação, aprovado por maioria do número dos seus membros, aqueles que, embora não preenchendo os requisitos das alíneas anteriores, tenham realizado trabalhos de valor sobre as matérias em que pretendem doutorar-se.
 
-###### Art. 15.º - 1 - A preparação da dissertação deverá normalmente efectuar-se sob a orientação de um professor da Universidade ou Instituto Universitário em que o candidato pretende doutorar-se.
+Art. 15.º - 1 - A preparação da dissertação deverá normalmente efectuar-se sob a orientação de um professor da Universidade ou Instituto Universitário em que o candidato pretende doutorar-se.
 
 2 - A orientação referida no número anterior poderá ainda caber a um investigador pertencente a outra instituição de ensino ou de investigação científica desde que reconhecido como idóneo pela escola.
 
 3 - Quando o conselho científico ou a comissão instaladora das Universidades, Institutos Universitários ou das escolas em regime de instalação julgar justificado, poderão ser aceites dissertações sob a responsabilidade individual do doutorando.
 
-###### Art. 16.º - 1 - Nos casos referidos nos n.os 1 e 2 do artigo anterior, o candidato deverá comunicar ao conselho científico ou à comissão instaladora das Universidades, Institutos Universitários ou escolas em regime de instalação, com um ano de antecedência, pelo menos, a intenção de se preparar para o doutoramento, designando o orientador escolhido que o aceitou ou solicitando que lhe seja indicado um.
+Art. 16.º - 1 - Nos casos referidos nos n.os 1 e 2 do artigo anterior, o candidato deverá comunicar ao conselho científico ou à comissão instaladora das Universidades, Institutos Universitários ou escolas em regime de instalação, com um ano de antecedência, pelo menos, a intenção de se preparar para o doutoramento, designando o orientador escolhido que o aceitou ou solicitando que lhe seja indicado um.
 
 2 - O conselho científico ou a comissão instaladora das Universidades, Institutos Universitários ou escolas em regime de instalação decidirá, no prazo de trinta dias sobre a admissão do candidato, dando-lhe a conhecer a sua decisão devidamente fundamentada.
 
@@ -215,7 +256,7 @@ e) Mediante parecer favorável do conselho científico ou da comissão instalado
 
 4 - O orientador informará anualmente o conselho científico ou a comissão instaladora das Universidades, Institutos Universitários ou escolas em regime de instalação sobre os trabalhos realizados pelo candidato.
 
-###### Art. 17.º - 1 - Para a prestação das provas de doutoramento, o candidato apresentará o seu requerimento na escola em que pretende realizá-las, com a indicação do grupo de disciplinas afins a que elas hão-de respeitar.
+Art. 17.º - 1 - Para a prestação das provas de doutoramento, o candidato apresentará o seu requerimento na escola em que pretende realizá-las, com a indicação do grupo de disciplinas afins a que elas hão-de respeitar.
 
 2 - O requerimento, dirigido ao reitor da Universidade ou Instituto Universitário, será instruído com os seguintes elementos:
 
@@ -225,7 +266,7 @@ b) Dissertação de doutoramento, impressa ou policopiada, em número de exempla
 
 c) Idêntico número de exemplares, impressos ou policopiados, do curriculum vitae.
 
-###### Art. 18.º - 1 - Em face do processo organizado nos termos do n.º 2 do artigo antecedente e do parecer favorável do orientador, o conselho científico ou a comissão instaladora das Universidades, Institutos Universitários ou escolas, em regime de instalação, autorizará, no prazo máximo de trinta dias, a realização das provas.
+Art. 18.º - 1 - Em face do processo organizado nos termos do n.º 2 do artigo antecedente e do parecer favorável do orientador, o conselho científico ou a comissão instaladora das Universidades, Institutos Universitários ou escolas, em regime de instalação, autorizará, no prazo máximo de trinta dias, a realização das provas.
 
 2 - No caso do n.º 3 do artigo 15.º, o conselho ou a comissão instaladora decidirá no prazo de sessenta dias sobre a admissão às provas, com base em parecer fundamentado, subscrito por dois professores da especialidade, designados para o efeito pelo Ministro da Educação, mediante proposta do respectivo conselho ou da comissão instaladora.
 
@@ -233,7 +274,7 @@ c) Idêntico número de exemplares, impressos ou policopiados, do curriculum vit
 
 4 - No caso de o conselho ou a comissão instaladora optar pelas provas complementares a que se referem as alíneas a) ou b) do n.º 3 do artigo seguinte, será dado ao candidato um prazo de noventa dias para apresentação de trinta exemplares do estudo ou projecto de investigação referidos, devendo, no entanto, o candidato, ao fim de trinta dias, indicar o tema escolhido.
 
-###### Art. 19.º - 1 - As provas de doutoramento incluem a crítica e defesa de uma dissertação original e especialmente escrita para o efeito.
+Art. 19.º - 1 - As provas de doutoramento incluem a crítica e defesa de uma dissertação original e especialmente escrita para o efeito.
 
 2 - É admitido na elaboração da dissertação o aproveitamento, total ou parcial, do resultado de trabalhos já publicados, mesmo em colaboração, devendo, neste caso, o candidato esclarecer qual a sua contribuição pessoal.
 
@@ -245,15 +286,15 @@ b) Discussão de um projecto de investigação apresentado pelo candidato dentro
 
 4 - O texto do estudo ou do projecto de investigação referidos nas alíneas b) e c) do número anterior não deverá exceder cinquenta páginas de formato 21 cm x 29,7 cm, dactilografadas a dois espaços.
 
-###### Art. 20.º - 1 - A dissertação será apreciada por um ou dois membros do júri, um dos quais, neste caso e sempre que possível, pertencerá a escola diferente daquela em que se realizarem as provas.
+Art. 20.º - 1 - A dissertação será apreciada por um ou dois membros do júri, um dos quais, neste caso e sempre que possível, pertencerá a escola diferente daquela em que se realizarem as provas.
 
 2 - A discussão não poderá exceder cento e vinte minutos, ou sessenta quando haja um só arguente, cabendo um período máximo de trinta minutos a cada arguente e devendo ser proporcionada ao candidato a possibilidade de responder às críticas feitas.
 
-###### Art. 21.º As discussões a que se referem as alíneas b) ou c) do n.º 3 do artigo 19.º ficarão a cargo de um único membro do júri e terão a duração máxima de duas horas.
+Art. 21.º As discussões a que se referem as alíneas b) ou c) do n.º 3 do artigo 19.º ficarão a cargo de um único membro do júri e terão a duração máxima de duas horas.
 
-###### Art. 22.º As provas de que consta o doutoramento serão separadas por intervalos mínimos de vinte e quatro horas, contados entre os seus inícios.
+Art. 22.º As provas de que consta o doutoramento serão separadas por intervalos mínimos de vinte e quatro horas, contados entre os seus inícios.
 
-###### Art. 23.º - 1 - O júri das provas de doutoramento será constituído:
+Art. 23.º - 1 - O júri das provas de doutoramento será constituído:
 
 a) Pelo reitor da Universidade ou Instituto Universitário, que será o presidente, o qual poderá fazer-se substituir por um vice-reitor ou pelo presidente do conselho científico da escola ou da comissão instaladora das escolas em regime de instalação;
 
@@ -263,7 +304,7 @@ c) Por mais três a cinco vogais, professores de matérias do grupo de disciplin
 
 2 - Se necessário, poderão ser vogais professores de outras Universidades ou Institutos Universitários ou um investigador de um organismo de investigação de reconhecida idoneidade, nacionais ou estrangeiros.
 
-###### Art. 24.º - 1 - Concluídas as provas, o júri reunir-se-á para a sua apreciação e para a classificação do candidato em votação nominal justificada.
+Art. 24.º - 1 - Concluídas as provas, o júri reunir-se-á para a sua apreciação e para a classificação do candidato em votação nominal justificada.
 
 2 - Só podem participar na votação os membros do júri que tenham assistido a todas as provas.
 
@@ -275,43 +316,43 @@ c) Por mais três a cinco vogais, professores de matérias do grupo de disciplin
 
 6 - O resultado final será expresso pelas fórmulas de Recusado, Aprovado com distinção ou Aprovado com distinção e louvor.
 
-###### Art. 25.º - 1 - As Universidades e Institutos Universitários poderão conferir o grau de doutor insignis a individualidades nacionais cuja obra se revista de excepcional mérito científico, sob proposta fundamentada de dois professores catedráticos da especialidade e aprovada em votação nominal justificada, pela maioria de quatro quintos dos membros do conselho científico da escola cujo objecto compreenda o ramo do conhecimento em causa.
+Art. 25.º - 1 - As Universidades e Institutos Universitários poderão conferir o grau de doutor insignis a individualidades nacionais cuja obra se revista de excepcional mérito científico, sob proposta fundamentada de dois professores catedráticos da especialidade e aprovada em votação nominal justificada, pela maioria de quatro quintos dos membros do conselho científico da escola cujo objecto compreenda o ramo do conhecimento em causa.
 
 2 - A decisão compete ao reitor ou ao órgão da Universidade ou Instituto Universitário em quem este delegar.
 
-###### Art. 26.º - 1 - As Universidades e Institutos Universitários poderão conferir o grau de doutor honoris causa a individualidades eminentes, nacionais ou estrangeiras, sob proposta fundamentada, apresentada, pelo menos, por dois professores universitários e aprovada pela maioria de dois terços do número de membros do conselho científico da escola a que pertençam, em votação nominal justificada.
+Art. 26.º - 1 - As Universidades e Institutos Universitários poderão conferir o grau de doutor honoris causa a individualidades eminentes, nacionais ou estrangeiras, sob proposta fundamentada, apresentada, pelo menos, por dois professores universitários e aprovada pela maioria de dois terços do número de membros do conselho científico da escola a que pertençam, em votação nominal justificada.
 
 2 - A decisão compete ao reitor ou ao órgão da Universidade ou Instituto Universitário em quem este delegar.
 
 3 - Quando o doutorando for estrangeiro, a concessão do grau depende de autorização do Ministro da Educação.
 
-###### Art. 27.º - 1 - Os candidatos ao doutoramento e mestrado podem escolher o orientador do trabalho de investigação de entre os professores da área da respectiva especialidade.
+Art. 27.º - 1 - Os candidatos ao doutoramento e mestrado podem escolher o orientador do trabalho de investigação de entre os professores da área da respectiva especialidade.
 
 2 - Na falta de indicação de orientador ou de dificuldade na satisfação das solicitações dos candidatos aos graus referidos, os conselhos científicos ou as comissões instaladoras das Universidades, Institutos Universitários ou escolas em regime de instalação assegurarão essa designação ouvidos os interessados, procurando equilibrar a distribuição do serviço.
 
 Agregação
 
-###### Art. 28.º O grau de agregação é concedido mediante a aprovação nas provas previstas no presente diploma.
+Art. 28.º O grau de agregação é concedido mediante a aprovação nas provas previstas no presente diploma.
 
-###### Art. 29.º A concessão do grau de agregado comprova alto mérito científico, elevada capacidade de investigação e reconhecida competência pedagógica em determinado ramo do saber.
+Art. 29.º A concessão do grau de agregado comprova alto mérito científico, elevada capacidade de investigação e reconhecida competência pedagógica em determinado ramo do saber.
 
-###### Art. 30.º Às provas para obtenção do grau de agregado serão admitidos os doutorados por Universidades ou Institutos Universitários portugueses, ou que tenham obtido a equivalência nos termos legais, cuja obra científica e actividades pedagógicas, com especial incidência para as realizadas após a obtenção do grau de doutor, sejam consideradas de mérito pio respectivo júri.
+Art. 30.º Às provas para obtenção do grau de agregado serão admitidos os doutorados por Universidades ou Institutos Universitários portugueses, ou que tenham obtido a equivalência nos termos legais, cuja obra científica e actividades pedagógicas, com especial incidência para as realizadas após a obtenção do grau de doutor, sejam consideradas de mérito pio respectivo júri.
 
-###### Art. 31.º As provas para obtenção do grau de agregado são requeridas para uma disciplina ou um grupo de disciplinas.
+Art. 31.º As provas para obtenção do grau de agregado são requeridas para uma disciplina ou um grupo de disciplinas.
 
-###### Art. 32.º O requerimento de admissão às provas, dirigido ao reitor da Universidade ou Instituto Universitário, será instruído com os seguintes documentos:
+Art. 32.º O requerimento de admissão às provas, dirigido ao reitor da Universidade ou Instituto Universitário, será instruído com os seguintes documentos:
 
 a) Documento comprovativo da obtenção do grau de doutor ou da equivalência nos termos legais;
 
 b) Trinta exemplares impressos ou policopiados do curriculum vitae.
 
-###### Art. 33.º Informado, no prazo de quinze dias, pelos serviços administrativos competentes, se o candidato perfaz as condições exigidas pelo presente diploma, o requerimento deverá ser despachado pelo respectivo reitor em igual prazo.
+Art. 33.º Informado, no prazo de quinze dias, pelos serviços administrativos competentes, se o candidato perfaz as condições exigidas pelo presente diploma, o requerimento deverá ser despachado pelo respectivo reitor em igual prazo.
 
-###### Art. 34.º - 1 - A reitoria da Universidade ou do Instituto Universitário deverá comunicar ao candidato, no prazo de três dias, o despacho fundamentado do deferimento ou indeferimento que haja recaído sobre o requerimento apresentado.
+Art. 34.º - 1 - A reitoria da Universidade ou do Instituto Universitário deverá comunicar ao candidato, no prazo de três dias, o despacho fundamentado do deferimento ou indeferimento que haja recaído sobre o requerimento apresentado.
 
 2 - Da comunicação referida no número anterior será dado imediato conhecimento à Direcção-Geral do Ensino Superior.
 
-###### Art. 35.º Após o deferimento a que se refere o n.º 1 do artigo anterior, o candidato deverá entregar, no prazo de trinta dias, contados desde a data da recepção daquela comunicação, o seguinte:
+Art. 35.º Após o deferimento a que se refere o n.º 1 do artigo anterior, o candidato deverá entregar, no prazo de trinta dias, contados desde a data da recepção daquela comunicação, o seguinte:
 
 a) Dois exemplares de cada um dos trabalhos mencionados no curriculum vitae;
 
@@ -319,7 +360,7 @@ b) Quinze exemplares de um sumário pormenorizado da lição de índole pedagóg
 
 c) Quinze exemplares de um sumário pormenorizado da lição de síntese escolhida pelo candidato sobre um tema no âmbito da disciplina ou grupo de disciplinas para que foram requeridas as provas e em relação ao qual o candidato tenha dado um contributo científico original.
 
-###### Art. 36.º - 1 - Quando deferido o requerimento previsto nos artigos anteriores, a Universidade ou o Instituto Universitário proporá ao Ministro da Educação no prazo de trinta dias a nomeação do júri das provas, do qual farão parte obrigatoriamente:
+Art. 36.º - 1 - Quando deferido o requerimento previsto nos artigos anteriores, a Universidade ou o Instituto Universitário proporá ao Ministro da Educação no prazo de trinta dias a nomeação do júri das provas, do qual farão parte obrigatoriamente:
 
 a) O reitor da Universidade ou Instituto Universitário, que presidirá;
 
@@ -339,19 +380,19 @@ e) Professores estrangeiros de reconhecido mérito nas matérias em que foram re
 
 3 - Do júri farão parte, obrigatoriamente, pelo menos, cinco professores e não poderá ser constituído por mais de doze, não se contando, em qualquer dos casos, o presidente.
 
-###### Art. 37.º - 1 - Na primeira reunião do júri, que se realizará no prazo de trinta dias após a publicação da sua constituição no Diário da República, tratar-se-á da admissão do candidato às provas, da distribuição de serviço e da marcação da data das mesmas.
+Art. 37.º - 1 - Na primeira reunião do júri, que se realizará no prazo de trinta dias após a publicação da sua constituição no Diário da República, tratar-se-á da admissão do candidato às provas, da distribuição de serviço e da marcação da data das mesmas.
 
 2 - O júri excluirá, desde logo, o candidato se este não houver realizado trabalhos científicos de mérito após o seu doutoramento ou quando os trabalhos apresentados versem assuntos diferentes da disciplina ou grupo de disciplinas para que as provas hajam sido requeridas.
 
 3 - Sempre que um candidato seja excluído, deverá o júri elaborar um relatório justificativo, assinado por todos os seus membros, de que será dado conhecimento ao candidato.
 
-###### Art. 38.º - 1 - As provas realizar-se-ão nos noventa dias seguintes à primeira reunião do júri.
+Art. 38.º - 1 - As provas realizar-se-ão nos noventa dias seguintes à primeira reunião do júri.
 
 2 - Se o termo deste prazo coincidir com o período de férias grandes, as provas realizar-se-ão nos trinta dias que se seguirão àquele período de férias.
 
-###### Art. 39.º Logo que seja publicada a constituição do júri no Diário da República, será enviado pela Universidade ou Instituto Universitário a cada um dos membros do júri um exemplar do curriculum vitae do candidato.
+Art. 39.º Logo que seja publicada a constituição do júri no Diário da República, será enviado pela Universidade ou Instituto Universitário a cada um dos membros do júri um exemplar do curriculum vitae do candidato.
 
-###### Art. 40.º - 1 - As provas para obtenção do grau de agregado são públicas e constarão do seguinte:
+Art. 40.º - 1 - As provas para obtenção do grau de agregado são públicas e constarão do seguinte:
 
 a) Apreciação do curriculum vitae do candidato por dois membros do júri, que elaborarão pareceres individuais fundamentados, sobre os quais se baseará a discussão;
 
@@ -359,15 +400,15 @@ b) Lição de índole pedagógica referida na alínea b) do artigo 35.º;
 
 c) Lição de síntese referida na alínea c) do artigo 35.º
 
-###### Art. 41.º - 1 - Tanto a lição de índole pedagógica como a lição de síntese terão a duração de sessenta minutos, podendo a sua discussão demorar, no máximo, o mesmo tempo.
+Art. 41.º - 1 - Tanto a lição de índole pedagógica como a lição de síntese terão a duração de sessenta minutos, podendo a sua discussão demorar, no máximo, o mesmo tempo.
 
 2 - A discussão da lição de índole pedagógica ficará a cargo de um dos membros do júri, o mesmo devendo suceder com a discussão da lição de síntese.
 
 3 - A apreciação do curriculum vitae do candidato terá a duração máxima de cento e vinte minutos.
 
-###### Art. 42.º As provas serão separadas por intervalos mínimos de vinte e quatro horas, contados entre os seus inícios.
+Art. 42.º As provas serão separadas por intervalos mínimos de vinte e quatro horas, contados entre os seus inícios.
 
-###### Art. 43.º - 1 - A presidência do júri caberá ao reitor da Universidade ou Instituto Universitário, que a poderá delegar num dos vice-reitores.
+Art. 43.º - 1 - A presidência do júri caberá ao reitor da Universidade ou Instituto Universitário, que a poderá delegar num dos vice-reitores.
 
 2 - O presidente do júri só vota no caso de empate, salvo se for professor da disciplina ou grupo de disciplinas a que se referem as provas.
 
@@ -375,7 +416,7 @@ c) Lição de síntese referida na alínea c) do artigo 35.º
 
 4 - Só podem participar na votação os membros do júri que tenham assistido a todas as provas.
 
-###### Art. 44.º - 1 - Concluídas as provas, o júri reúne para decisão final, sendo a classificação do candidato feita em votação nominal justificada.
+Art. 44.º - 1 - Concluídas as provas, o júri reúne para decisão final, sendo a classificação do candidato feita em votação nominal justificada.
 
 2 - A decisão é transcrita para as actas das reuniões do júri e os pareceres referidos na alínea a) do n.º 1 do artigo 39.º são arquivados no respectivo processo.
 
@@ -383,31 +424,31 @@ c) Lição de síntese referida na alínea c) do artigo 35.º
 
 Diploma de estudos superiores
 
-###### Art. 45.º - 1 - Os diplomas de estudos superiores são conferidos mediante a aprovação em todas as disciplinas, monografias, seminários e estágios previstos nos planos de estudo dos cursos para tal fim realizados nas escolas referidas no n.º 2 do artigo 1.º
+Art. 45.º - 1 - Os diplomas de estudos superiores são conferidos mediante a aprovação em todas as disciplinas, monografias, seminários e estágios previstos nos planos de estudo dos cursos para tal fim realizados nas escolas referidas no n.º 2 do artigo 1.º
 
 2 - A aprovação nos cursos que conferem os diplomas de estudos superiores comprova uma formação técnica ncessária ao exercício de determinadas actividades profissionais.
 
-###### Art. 46.º Os planos de estudo dos cursos que conferem o diploma de estudos superiores serão aprovados pelo Ministro da Educação, sob proposta das comissões instaladoras ou órgãos com capacidade científica que lhes vierem a suceder, das respectivas escolas e devem corresponder a um mínimo de dois anos lectivos ou quatro semestres e máximo de três anos lectivos ou seis semestres.
+Art. 46.º Os planos de estudo dos cursos que conferem o diploma de estudos superiores serão aprovados pelo Ministro da Educação, sob proposta das comissões instaladoras ou órgãos com capacidade científica que lhes vierem a suceder, das respectivas escolas e devem corresponder a um mínimo de dois anos lectivos ou quatro semestres e máximo de três anos lectivos ou seis semestres.
 
-###### Art. 47.º - 1 - A inscrição nos cursos que conferem o diploma de estudos superiores, de frequência limitada, está sujeita ao preenchimento das condições fixadas no n.º 1 do artigo 4.º deste decreto-lei para o acesso aos cursos de licenciatura.
+Art. 47.º - 1 - A inscrição nos cursos que conferem o diploma de estudos superiores, de frequência limitada, está sujeita ao preenchimento das condições fixadas no n.º 1 do artigo 4.º deste decreto-lei para o acesso aos cursos de licenciatura.
 
 2 - Serão fixados, anualmente por despacho ministerial, mediante proposta das comissões instaladoras, ou órgãos com capacidade científica que lhes vierem a suceder, os critérios para a ordenação e limimite do número de candidatos à inscrição nos referidos cursos, tendo em vista, nomeadamente, a qualidade do ensino e as necessidades do País.
 
 Diploma de estudos superiores especializados
 
-###### Art. 48.º - 1 - O diploma de estudos superiores especializados é conferido mediante a aprovação em cursos para tal fim realizados.
+Art. 48.º - 1 - O diploma de estudos superiores especializados é conferido mediante a aprovação em cursos para tal fim realizados.
 
 2 - O diploma de estudos superiores especializados comprova capacidade científica, técnica e prática em determinado domínio especializado da actividade profissional.
 
-###### Art. 49.º - 1 - Os cursos de especialização são designados pelos correspondentes ramos de actividade da escola que os realizam, acrescentando-se a especialidade em que forem efectuados.
+Art. 49.º - 1 - Os cursos de especialização são designados pelos correspondentes ramos de actividade da escola que os realizam, acrescentando-se a especialidade em que forem efectuados.
 
 2 - Os cursos de especialização obedecerão a planos de estudo a submeter a despacho do Ministro da Educação, mediante proposta das comissões instaladoras das escolas superiores.
 
-###### Art. 50.º - 1 - Os cursos de especialização devem corresponder a um mínimo de dezoito meses e a um máximo de vinte e quatro meses de escolaridade de matéria especializada, incluindo aulas, seminários, estágios e a elaboração crítica de uma dissertação original.
+Art. 50.º - 1 - Os cursos de especialização devem corresponder a um mínimo de dezoito meses e a um máximo de vinte e quatro meses de escolaridade de matéria especializada, incluindo aulas, seminários, estágios e a elaboração crítica de uma dissertação original.
 
 2 - A elaboração da dissertação original referida no número anterior será orientada por uma individualidade de reconhecido mérito no domínio em que for realizado o curso de especialização, designado pela comissão instaladora da escola após audição do candidato.
 
-###### Art. 51.º - 1 - À inscrição nos cursos de especialização, terão acesso os profissionais do âmbito geral da actividade da escola, indivíduos licenciados ou possuidores de um diploma de estudos superiores.
+Art. 51.º - 1 - À inscrição nos cursos de especialização, terão acesso os profissionais do âmbito geral da actividade da escola, indivíduos licenciados ou possuidores de um diploma de estudos superiores.
 
 2 - O acesso aos cursos de especialização é limitado de acordo com as necessidades regionais e nacionais sentidas na respectiva área e com as propostas das comissões instaladoras das escolas a apresentar para o efeito.
 
@@ -415,7 +456,7 @@ Diploma de estudos superiores especializados
 
 4 - Serão igualmente fixados, por despacho do Ministro da Educação, mediante proposta das comissões instaladoras das escolas, os critérios de ordenação e limite do número de candidatos à inscrição nos referidos cursos.
 
-###### Art. 52.º - 1 - O júri para apreciação da dissertação referida no artigo 50.º do presente diploma será nomeado por despacho do Ministro da Educação e será constituído:
+Art. 52.º - 1 - O júri para apreciação da dissertação referida no artigo 50.º do presente diploma será nomeado por despacho do Ministro da Educação e será constituído:
 
 a) Pelo presidente da comissão instaladora da escola superior em que se realiza o curso de especialização ou por qualquer outro membro da comissão instaladora em sua substituição, que presidirá:
 
@@ -423,24 +464,24 @@ b) Por individualidades de reconhecido mérito no âmbito da disciplina, área d
 
 c) Pelo orientador da dissertação a que se refere o n.º 2 do artigo 50.º
 
-###### Art. 53.º - 1 - O diploma de estudos superiores especializados constitui, em termos da Administração Pública, habilitação equivalente à licenciatura.
+Art. 53.º - 1 - O diploma de estudos superiores especializados constitui, em termos da Administração Pública, habilitação equivalente à licenciatura.
 
 Disposições finais e transitórias
 
-###### Art. 54.º A inobservância injustificada dos prazos previstos no presente diploma, poderá sujeitar os responsáveis a procedimento disciplinar.
+Art. 54.º A inobservância injustificada dos prazos previstos no presente diploma, poderá sujeitar os responsáveis a procedimento disciplinar.
 
-###### Art. 55.º Das deliberações dos júris das provas a que se refere o presente diploma não haverá recurso, excepto se fundamentado em infracção formal ao fixado na lei.
+Art. 55.º Das deliberações dos júris das provas a que se refere o presente diploma não haverá recurso, excepto se fundamentado em infracção formal ao fixado na lei.
 
-###### Art. 56.º O título de agregado concedido ao abrigo do artigo 4.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 10 de Março, é equivalente, para todos os efeitos, ao grau de agregado ora criado, o qual, por si só, não corresponde ao exercício de funções docentes.
+Art. 56.º O título de agregado concedido ao abrigo do artigo 4.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 10 de Março, é equivalente, para todos os efeitos, ao grau de agregado ora criado, o qual, por si só, não corresponde ao exercício de funções docentes.
 
-###### Art. 57.º É extinto o grau de bacharel no âmbito do ensino superior a partir do fim do ano escolar de 1982-1983.
+Art. 57.º É extinto o grau de bacharel no âmbito do ensino superior a partir do fim do ano escolar de 1982-1983.
 
-###### Art. 58.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação.
+Art. 58.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Luís Eugénio Caldas Veiga da Cunha.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

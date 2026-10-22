@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/04/09700/04060406.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44997-1963-196260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3ce88161c1ca70d80a242a567aacf5b109b2eef8157477c30324a4260dc3a6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fc8867509449777d8d76ef1382b534681da1e7778b6738fac6b9561b57f9298
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Escola Naval
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:469445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:528590:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469445:por
+  label: "Revogado, a partir de 24.08.1966, pelo DEC LEI.47156.19.08.1966.MMAR, DG.IS [192] de 19.08.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47156-1966-469445
+  date: '1966-08-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:45Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto-Lei n.º 34659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34659-1945-528590), de 9 de Junho de 1945, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto-Lei n.º 34659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34659-1945-528590), de 9 de Junho de 1945, passa a ter a seguinte redacção:
 
-###### Art. 2.º Os candidatos serão classificados segundo a média aproximada a centésimos das classificações obtidas nas cadeiras do curso da Escola Naval a seguir discriminadas:
+Art. 2.º Os candidatos serão classificados segundo a média aproximada a centésimos das classificações obtidas nas cadeiras do curso da Escola Naval a seguir discriminadas:
 
 a) Para os candidatos que frequentaram a Escola Naval ao abrigo da reforma do Decreto-Lei n.º 27568, de 13 de Março de 1937:
 
@@ -121,7 +134,7 @@ b) Para os candidatos que frequentaram a Escola Naval ao abrigo da reforma do De
 
 § único. Em igualdade de classificação serão consideradas, sucessivamente, condições de preferência o maior tempo de navegação em segundo-tenente, o maior tempo de embarque no mesmo posto e a menor idade.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

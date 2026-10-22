@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/263-1970-142562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a556b08e85830d8c8accd4e3dfa7b42987d1e7a439d6812013c0934bb6b3f602
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a58d5ee9810fe4b3112e25c85fcdc156a7460ed17e5df1715a1f639e4e210053
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:49Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +105,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 52.º do Regulamento aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
+Artigo único. O artigo 52.º do Regulamento aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
 
-###### Art. 52.º - 1. O subsídio pecuniário na tuberculose será concedido aos beneficiários activos enquanto durar o impedimento para o trabalho, nas seguintes percentagens de salários calculados nos termos do artigo 48.º:
+Art. 52.º - 1. O subsídio pecuniário na tuberculose será concedido aos beneficiários activos enquanto durar o impedimento para o trabalho, nas seguintes percentagens de salários calculados nos termos do artigo 48.º:
 
 a) Em tratamento domiciliário ou ambulatório, 80 por cento;
 
@@ -117,8 +121,8 @@ c) Em internamento não subsidiado pela caixa, 80 por cento.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto - Francisco Gonçalves Ferreira.
 
-**Promulgado em 27 de Maio de 1970.**
+Promulgado em 27 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

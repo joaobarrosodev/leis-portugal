@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1977-138289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07c8081f3b1e92399b5d490333b1f32f8b3b636b39f8e9d3252a98f0926100f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b23918f689cfe8422aa2a8d37fae569df974efb4e6d5ee5ba3caefcf2b801dbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral do Ensino Superior
+- Ensino Agrícola
+- Equiparação de Cursos
+- Escola de Regentes Agrícolas
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:456200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:271586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530837:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:43Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +115,16 @@ Tendo-se, entretanto, verificado que da equiparação conferida pelo primeiro do
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 316/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1976-427428), de 29 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto-Lei n.º 316/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1976-427428), de 29 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. A equiparação conferida nos termos do n.º 1 deste artigo é extensiva a todos quantos tenham completado os cursos previstos no artigo 8.º do [Decreto n.º 19908](https://diariodarepublica.pt/dr/detalhe/decreto/19908-1931-530837), de 19 de Junho de 1931, e no artigo 15.º do [Decreto n.º 5627](https://diariodarepublica.pt/dr/detalhe/decreto/5627-1919-271586), de 10 de Maio de 1919.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 4 de Janeiro de 1977.**
+Promulgado em 4 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

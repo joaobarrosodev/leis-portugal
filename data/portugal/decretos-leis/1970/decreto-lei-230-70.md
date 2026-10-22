@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/05/11800/06780678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1970-142304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9062352185e96f9b784d33867df07ede71beb90abfbd39e6cf14f7d8e842a734
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 493c5915b5401413faa8bd8a5ed3077a91248a6f394c0b7ce172e9a13ab197ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mobilidade Geográfica
+- Serviço Nacional de Emprego
+- Subsídio de Deslocação
 relationships:
 - type: amended_by
   target: pt:dre:380486:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:507846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380486:por
+  label: "Revogado, a partir da data da entrada em vigor do presente diploma pelo DEC LEI.206/79.04.07.1979.MT, DR.IS [152]\
+    \ de 04.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1979-380486
+  date: '1979-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:40Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +115,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Serviço Nacional de Emprego poderá pagar as viagens aos trabalhadores que sejam obrigados a residir em região diferente da do seu domicílio habitual para ocupar um novo emprego que através do mesmo Serviço lhes tenha sido oferecido.
+Artigo 1.º O Serviço Nacional de Emprego poderá pagar as viagens aos trabalhadores que sejam obrigados a residir em região diferente da do seu domicílio habitual para ocupar um novo emprego que através do mesmo Serviço lhes tenha sido oferecido.
 
-###### Art. 2.º - 1. Para que o trabalhador possa ter a sua viagem paga deverá reunir as seguintes condições:
+Art. 2.º - 1. Para que o trabalhador possa ter a sua viagem paga deverá reunir as seguintes condições:
 
 a) Estar desempregado;
 
@@ -114,16 +127,16 @@ c) Não conseguir, sem mudança de residência, emprego equivalente ao que ocupa
 
 2. Considera-se desempregado todo o trabalhador em situação de subemprego ou em regime de trabalho a tempo parcial.
 
-###### Art. 3.º - 1. As despesas com as viagens, autorizadas pelo presente diploma, são apenas as necessárias à apresentação do trabalhador na entidade patronal.
+Art. 3.º - 1. As despesas com as viagens, autorizadas pelo presente diploma, são apenas as necessárias à apresentação do trabalhador na entidade patronal.
 
 2. Ao trabalhador será passada, pelo Serviço Nacional de Emprego, uma guia de transporte de igual modelo ao utilizado para a deslocação dos servidores do Estado, e da mesma deverá constar sempre o número de comunicação da oferta de emprego respectiva.
 
-###### Art. 4.º Relativamente aos encargos decorrentes da aplicação do presente diploma observar-se-á o disposto no n.º 1 do artigo 4.º do Decreto n.º 44785, de 7 de Dezembro de 1962.
+Art. 4.º Relativamente aos encargos decorrentes da aplicação do presente diploma observar-se-á o disposto no n.º 1 do artigo 4.º do Decreto n.º 44785, de 7 de Dezembro de 1962.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 6 de Maio de 1970.**
+Promulgado em 6 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

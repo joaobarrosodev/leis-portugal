@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/14600/07450746.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1974-476136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a34d2d8c97453b8620bd175c204c70677a3ed498dfcac05bd54b6bde52be58d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76c7eb12c8cf68e70af4de4ae194c694d0718dc96a4c647074a044dd49803463
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cinema
+- Comissão
+- Comunicação Social
+- Criação de Serviços
+- Definição de Competências
+- Junta de Salvação Nacional
+- Regulamento
+- Teatro
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312405:por
+  label: "Extinta a Comissão Ad Hoc pela RES.DD1453.29.10.1975.CR, DG.IS [251] de 29.10.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/1975-312405
+  date: '1975-10-29'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:05Z'
   warnings: []
   errors: []
 ---
@@ -105,33 +128,33 @@ Verificando-se a necessidade imperiosa de evitar o uso indevido de uma liberdade
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para salvaguarda dos segredos dos aspectos militares e para evitar perturbações na opinião pública causadas por agressões dos meios ideológicos mais reaccionários, fica a Junta de Salvação Nacional autorizada a nomear a comissão ad hoc prevista na alínea g) do n.º 2 da secção A do Programa do Movimento das Forças Armadas, para contrôle da imprensa, rádio, televisão, teatro e cinema, de carácter transitório, a qual se manterá em funções até à publicação de novas leis de imprensa, rádio, televisão, teatro e cinema.
+Artigo 1.º Para salvaguarda dos segredos dos aspectos militares e para evitar perturbações na opinião pública causadas por agressões dos meios ideológicos mais reaccionários, fica a Junta de Salvação Nacional autorizada a nomear a comissão ad hoc prevista na alínea g) do n.º 2 da secção A do Programa do Movimento das Forças Armadas, para contrôle da imprensa, rádio, televisão, teatro e cinema, de carácter transitório, a qual se manterá em funções até à publicação de novas leis de imprensa, rádio, televisão, teatro e cinema.
 
-###### Art. 2.º A comissão ad hoc fica na dependência directa da Junta de Salvação Nacional, conforme o disposto no Programa do Movimento das Forças Armadas, funcionando em conformidade com o Regulamento elaborado pela mesma Junta e anexo ao presente diploma.
+Art. 2.º A comissão ad hoc fica na dependência directa da Junta de Salvação Nacional, conforme o disposto no Programa do Movimento das Forças Armadas, funcionando em conformidade com o Regulamento elaborado pela mesma Junta e anexo ao presente diploma.
 
-###### Art. 3.º A infracção aos princípios do Programa do Movimento das Forças Armadas e da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, sujeitará as empresas que explorem meios de comunicação social, por decisão da comissão ad hoc, à aplicação de multa até 500000$00 e à pena de suspensão até ao limite de sessenta dias do órgão através do qual se processou a infracção, sem prejuízo da responsabilidade criminal prevista nas leis vigentes que possa ser exigida às pessoas singulares, as quais ficam sujeitas ao foro militar.
+Art. 3.º A infracção aos princípios do Programa do Movimento das Forças Armadas e da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, sujeitará as empresas que explorem meios de comunicação social, por decisão da comissão ad hoc, à aplicação de multa até 500000$00 e à pena de suspensão até ao limite de sessenta dias do órgão através do qual se processou a infracção, sem prejuízo da responsabilidade criminal prevista nas leis vigentes que possa ser exigida às pessoas singulares, as quais ficam sujeitas ao foro militar.
 
-###### Art. 4.º Das decisões da comissão ad hoc cabe recurso para o tribunal comum de jurisdição ordinária, a interpor no prazo de quinze dias.
+Art. 4.º Das decisões da comissão ad hoc cabe recurso para o tribunal comum de jurisdição ordinária, a interpor no prazo de quinze dias.
 
-###### Art. 5.º O presente decreto-lei entra imediatamente em vigor.
+Art. 5.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Álvaro Cunhal - Francisco Pereira de Moura - Francisco Sá Carneiro - Mário Firmino Miguel - António de Almeida Santos - Joaquim Jorge Magalhães Mota - Francisco Salgado Zenha - Vasco Vieira de Almeida - Manuel Rocha - Eduardo Correia - Avelino António Pacheco Gonçalves - Mário Murteira - Raul Rego.
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 20 de Junho de 1974.**
+Promulgado em 20 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 JUNTA DE SALVAÇÃO NACIONAL
 
 Regulamento anexo ao Decreto-Lei n.º 281/74
 
-###### Artigo 1.º É lícita a discussão e crítica de doutrinas políticas e religiosas, das leis e dos actos da administração pública, assim como da forma como os seus agentes lhes dão cumprimento, desde que sejam salvaguardados os direitos e os deveres dos cidadãos.
+Artigo 1.º É lícita a discussão e crítica de doutrinas políticas e religiosas, das leis e dos actos da administração pública, assim como da forma como os seus agentes lhes dão cumprimento, desde que sejam salvaguardados os direitos e os deveres dos cidadãos.
 
-###### Art. 2.º Para os efeitos do artigo 3.º do Decreto-Lei n.º 281/74, são consideradas em especial infracções contra os princípios do Programa do Movimento das Forças Armadas e contra a [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), quando cometidas através dos meios de comunicação social:
+Art. 2.º Para os efeitos do artigo 3.º do Decreto-Lei n.º 281/74, são consideradas em especial infracções contra os princípios do Programa do Movimento das Forças Armadas e contra a [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), quando cometidas através dos meios de comunicação social:
 
 a) O incitamento ou provocação, ainda que indirectos, à desobediência militar, incluindo nesta o desrespeito pelas leis e regulamentos militares;
 
@@ -149,18 +172,18 @@ g) Prática ou incitamento à prática de quaisquer outros actos que a lei geral
 
 h) Publicação ou difusão de notícias falsas, designadamente quando feitas com vista a atingir os resultados referidos nas alíneas precedentes.
 
-###### Art. 3.º A reprodução das declarações do Presidente da República deverá sempre basear-se nos textos fornecidos pelos serviços oficiais, sem omissões ou adjunção de títulos que possam alterar-lhes o sentido.
+Art. 3.º A reprodução das declarações do Presidente da República deverá sempre basear-se nos textos fornecidos pelos serviços oficiais, sem omissões ou adjunção de títulos que possam alterar-lhes o sentido.
 
-###### Art. 4.º a Comissão ad hoc, prevista no artigo 1.º do Decreto-Lei n.º 281/74, tomará as suas decisões no prazo máximo de dez dias, a contar do conhecimento da infracção e notificá-las-á aos interessados dentro das quarenta e oito horas subsequentes.
+Art. 4.º a Comissão ad hoc, prevista no artigo 1.º do Decreto-Lei n.º 281/74, tomará as suas decisões no prazo máximo de dez dias, a contar do conhecimento da infracção e notificá-las-á aos interessados dentro das quarenta e oito horas subsequentes.
 
-###### Art. 5.º O quantitativo das multas aplicadas reverterá integralmente para o Estado, através do Ministério da Comunicação Social, devendo a respectiva importância ser paga na tesouraria do mesmo Ministério em prazo não superior a vinte e quatro horas após a notificação da sanção.
+Art. 5.º O quantitativo das multas aplicadas reverterá integralmente para o Estado, através do Ministério da Comunicação Social, devendo a respectiva importância ser paga na tesouraria do mesmo Ministério em prazo não superior a vinte e quatro horas após a notificação da sanção.
 
-###### Art. 6.º A suspensão iniciar-se-á imediatamente após a notificação da sanção.
+Art. 6.º A suspensão iniciar-se-á imediatamente após a notificação da sanção.
 
-###### Art. 7.º Durante o período da suspensão, a empresa responsável deverá respeitar todas as obrigações que lhe cabem perante os seus trabalhadores que não estejam na origem da infracção ou com esta relacionados.
+Art. 7.º Durante o período da suspensão, a empresa responsável deverá respeitar todas as obrigações que lhe cabem perante os seus trabalhadores que não estejam na origem da infracção ou com esta relacionados.
 
 Aprovado pela Junta de Salvação Nacional em 20 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

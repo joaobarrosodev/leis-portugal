@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 59/1976, 1º Suplemento, Série I de 1976-03-10
   number: '59'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 494-(2) a 494-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/05901/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-a-1976-307206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3367f8559be3ab205b0a015e544c8147c398be2fe0fda64fae35dc020b8f1a78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5c497f3cf46d3dc244fd131637dc18b4a0251985f4a9e11615e280358864c8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Ensino Preparatório
+- Integração de Trabalhadores
+- Pessoal Docente
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:301627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:22Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +127,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Após o termo da 2.ª fase de colocações dos docentes dos ensinos preparatório e secundário, prevista no n.º 2 do artigo 3.º do [Decreto-Lei n.º 409-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-a-1975-321293), de 5 de Agosto, a Comissão Central de Colocações compulsará as vagas ainda existentes nos estabelecimentos daqueles ramos de ensino.
+Artigo 1.º - 1. Após o termo da 2.ª fase de colocações dos docentes dos ensinos preparatório e secundário, prevista no n.º 2 do artigo 3.º do [Decreto-Lei n.º 409-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-a-1975-321293), de 5 de Agosto, a Comissão Central de Colocações compulsará as vagas ainda existentes nos estabelecimentos daqueles ramos de ensino.
 
 2. As listas das vagas referidas no número anterior serão afixadas, por distritos, em estabelecimentos de ensino para o efeito designados.
 
-###### Art. 2.º - 1. As vagas a que se reporta o artigo precedente serão objecto de novo concurso, a realizar a nível da Comissão Central de Colocações, cujo aviso de abertura será publicado no Diário do Governo, nos oito dias subsequentes àquele em que a Comissão der por findas as colocações da 2.ª fase.
+Art. 2.º - 1. As vagas a que se reporta o artigo precedente serão objecto de novo concurso, a realizar a nível da Comissão Central de Colocações, cujo aviso de abertura será publicado no Diário do Governo, nos oito dias subsequentes àquele em que a Comissão der por findas as colocações da 2.ª fase.
 
 2. Ao concurso indicado no número anterior serão admitidos os seguintes candidatos:
 
@@ -117,26 +145,26 @@ d) Candidatos que, não se encontrando abrangidos pela alínea anterior, possuam
 
 3. Para o ensino das especialidades de Canto Coral, Educação Musical, Educação Visual e do 12.º grupo do ensino técnico secundário serão ainda admitidos candidatos que, independentemente das habilitações literárias, comprovem a sua idoneidade para o ensino das mesmas, através de documento curricular, a apreciar, no prazo de cinco dias contados a partir da data da sua apresentação, pelas competentes direcções-gerais.
 
-###### Art. 3.º - 1. Cada uma das alíneas indicadas no n.º 2 do artigo 2.º deste diploma constitui uma prioridade relativamente às subsequentes.
+Art. 3.º - 1. Cada uma das alíneas indicadas no n.º 2 do artigo 2.º deste diploma constitui uma prioridade relativamente às subsequentes.
 
 2. A graduação dos candidatos dentro de cada alínea e ainda dos previstos no n.º 3 do artigo 2.º far-se-á nos termos da legislação vigente.
 
-###### Art. 4.º O concurso previsto no n.º 1 do artigo 2.º deste diploma será regulamentado por portaria do Ministro da Educação e Investigação Científica.
+Art. 4.º O concurso previsto no n.º 1 do artigo 2.º deste diploma será regulamentado por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 5.º Os candidatos, licenciados ou bacharéis, que obtiverem colocação ao abrigo do presente diploma e da portaria a que se reporta o artigo precedente, fora do grupo ou grupos para os quais a sua habilitação é considerada própria, ou se aquela de que são portadores não for tida como própria para qualquer grupo, disciplina ou especialidade dos ensinos preparatório e secundário, serão abonados de vencimentos pelo escalão II, previsto no mapa anexo ao [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+Art. 5.º Os candidatos, licenciados ou bacharéis, que obtiverem colocação ao abrigo do presente diploma e da portaria a que se reporta o artigo precedente, fora do grupo ou grupos para os quais a sua habilitação é considerada própria, ou se aquela de que são portadores não for tida como própria para qualquer grupo, disciplina ou especialidade dos ensinos preparatório e secundário, serão abonados de vencimentos pelo escalão II, previsto no mapa anexo ao [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
-###### Art. 6.º Os professores do ensino preparatório e secundário colocados ao abrigo do presente decreto-lei apenas serão abonados de vencimentos, nos termos do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, a partir da data da sua apresentação nos estabelecimentos de ensino onde forem colocados.
+Art. 6.º Os professores do ensino preparatório e secundário colocados ao abrigo do presente decreto-lei apenas serão abonados de vencimentos, nos termos do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, a partir da data da sua apresentação nos estabelecimentos de ensino onde forem colocados.
 
-###### Art. 7.º São revogados os artigos 11.º do [Decreto-Lei n.º 409-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-a-1975-321293), de 5 de Agosto, e 5.º do [Decreto-Lei n.º 713-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/713-b-1975-301627), de 19 de Dezembro.
+Art. 7.º São revogados os artigos 11.º do [Decreto-Lei n.º 409-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-a-1975-321293), de 5 de Agosto, e 5.º do [Decreto-Lei n.º 713-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/713-b-1975-301627), de 19 de Dezembro.
 
-###### Art. 8.º As dúvidas e casos omissos resultantes da aplicação deste diploma serão resolvidos por despacho do Ministro da Educação e Investigação Científica.
+Art. 8.º As dúvidas e casos omissos resultantes da aplicação deste diploma serão resolvidos por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 9.º O presente diploma entra em vigor à data da sua publicação.
+Art. 9.º O presente diploma entra em vigor à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Mário José de Aguiar.
 
-**Promulgado em 10 de Março de 1976.**
+Promulgado em 10 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

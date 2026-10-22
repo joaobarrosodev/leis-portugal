@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45933-1964-537856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bbefc67fed5c360dd56db9435def536763dbb6c03f3c717be20c6e318b40604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1c08e30813eabb38338d0431091a501652ff0f867476494cdecef5c309539b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Geral
+- Cooperativa
+- Direito de Voto
+- Socio
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:35Z'
   warnings: []
   errors: []
 ---
@@ -114,18 +118,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nas sociedades cooperativas pode o voto dos sócios para a assembleia geral ser dado por correspondência, desde que os estatutos o admitam. Quando assim seja, o aviso convocatório da assembleia deve referir sempre, por extenso, a deliberação proposta.
+Artigo 1.º Nas sociedades cooperativas pode o voto dos sócios para a assembleia geral ser dado por correspondência, desde que os estatutos o admitam. Quando assim seja, o aviso convocatório da assembleia deve referir sempre, por extenso, a deliberação proposta.
 
-###### Art. 2.º - 1. Quando a sociedade cooperativa tiver mais de 300 sócios, podem os seus estatutos determinar que a assembleia geral seja constituída, para todas ou parte das suas atribuições, por delegados de secções em que os sócios sejam divididos.
+Art. 2.º - 1. Quando a sociedade cooperativa tiver mais de 300 sócios, podem os seus estatutos determinar que a assembleia geral seja constituída, para todas ou parte das suas atribuições, por delegados de secções em que os sócios sejam divididos.
 
 2. Os delegados, que devem ser sócios da cooperativa, são eleitos por assembleias parciais, formadas pelos sócios residentes nas áreas fixadas nos estatutos ou pertencentes às categorias neles indicadas.
 
 3. Cada delegado leva para a assembleia geral todos os votos emitidos na assembleia parcial que o elegeu, quer esses votos sejam favoráveis, quer sejam contrários às deliberações em discussão.
 
-###### Art. 3.º As assembleias parciais a que se refere o artigo anterior devem deliberar sobre as matérias que serão objecto da assembleia geral, a tempo de os seus delegados poderem participar nesta.
+Art. 3.º As assembleias parciais a que se refere o artigo anterior devem deliberar sobre as matérias que serão objecto da assembleia geral, a tempo de os seus delegados poderem participar nesta.
 
-###### Art. 4.º Os estatutos da sociedade cooperativa devem regular o modo de convocação das assembleias parciais e o processo de designação dos delegados e fixar ainda as condições de validade das deliberações tanto das assembleias parciais como da assembleia geral.
+Art. 4.º Os estatutos da sociedade cooperativa devem regular o modo de convocação das assembleias parciais e o processo de designação dos delegados e fixar ainda as condições de validade das deliberações tanto das assembleias parciais como da assembleia geral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

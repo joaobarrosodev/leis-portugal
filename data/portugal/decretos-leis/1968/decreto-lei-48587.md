@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48587-1968-264490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3efed2a68bb0ec828f6ccf6f6573aacd2d8faa00d0d695cf1d1395069c794b9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d7aed6ea2db7c82dc84ae9bef9b2ec2585330793cc37ac3af10fadee93a6f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Conselho Geral
+- Conselho Regional
+- Estágio de Formação
+- Estatuto
+- Formação Profissional
+- Médico
+- Ordem dos Médicos
 relationships:
 - type: amended_by
   target: pt:dre:141594:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527451:por
+  label: "Dada nova redacção ao nº 1º do art. 7º e à al. e) do art. 16º do Estatuto da Ordem dos Médicos, aprovado pelo Dec\
+    \ Lei 40651, de 21-Jun de 1956, com a redacção constante do presente diploma, pelo DEC LEI.48879.22.02.1969.MEN, DG.IS\
+    \ [45] de 22.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48879-1969-527451
+  date: '1969-02-22'
+- type: amended_by
+  target: pt:dre:141594:por
+  label: "Aditados os §§ 3º e 4º ao art. 7º do Dec Lei 40651 de 21-Jun de 1956, com a redacção constante do presente diploma,\
+    \ pelo DEC LEI.333/70.14.07.1970.MU, DG.IS [162] de 14.07.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1970-141594
+  date: '1970-07-14'
+- type: cites
+  target: pt:dre:231687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:38Z'
   warnings: []
   errors: []
 ---
@@ -117,13 +158,13 @@ Considerando que, com o presente diploma, além de se dar plena satisfação aos
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passam a ter a redacção abaixo determinada os artigos seguintes do Estatuto da Ordem dos Médicos, aprovado pelo [Decreto-Lei n.º 40651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40651-1956-231687), de 21 de Junho de 1956:
+Artigo 1.º Passam a ter a redacção abaixo determinada os artigos seguintes do Estatuto da Ordem dos Médicos, aprovado pelo [Decreto-Lei n.º 40651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40651-1956-231687), de 21 de Junho de 1956:
 
-###### Artigo 1.º Denomina-se Ordem dos Médicos e tem a sua sede em Lisboa o organismo corporativo representativo dos diplomados em Medicina que, de conformidade com os preceitos deste Estatuto e mais disposições legais, aplicáveis, exercerem funções ou praticarem quaisquer actos próprios da profissão médica no território nacional.
+Artigo 1.º Denomina-se Ordem dos Médicos e tem a sua sede em Lisboa o organismo corporativo representativo dos diplomados em Medicina que, de conformidade com os preceitos deste Estatuto e mais disposições legais, aplicáveis, exercerem funções ou praticarem quaisquer actos próprios da profissão médica no território nacional.
 
 ...
 
-###### Art. 5.º A Ordem dos Médicos subdivide-se, territorialmente, nas secções regionais seguintes:
+Art. 5.º A Ordem dos Médicos subdivide-se, territorialmente, nas secções regionais seguintes:
 
 a) Lisboa, compreendendo as províncias do Ribatejo, Estremadura, Alto e Baixo Alentejo e Algarve e as ilhas adjacentes;
 
@@ -139,7 +180,7 @@ f) Lourenço Marques, compreendendo a província de Moçambique e Estado Portugu
 
 g) Macau, compreendendo as províncias de Macau e Timor.
 
-###### Art. 6.º A ninguém é permitido exercer medicina sem estar inscrito na Ordem.
+Art. 6.º A ninguém é permitido exercer medicina sem estar inscrito na Ordem.
 
 § 1.º Poderão exercer clínica, sem estarem inscritos na Ordem, os médicos estrangeiros integrados em organizações religiosas no ultramar, apenas na área e dentro das atribuições exclusivas dessas organizações, quando possuam o curso de Medicina Tropical da Escola Nacional de Saúde Pública e Medicina Tropical de Lisboa ou do extinto Instituto de Medicina Tropical, e sejam para isso autorizados pelo Ministro do Ultramar, depois de ouvidos os governos das províncias nos termos estabelecidos pelo [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964.
 
@@ -147,7 +188,7 @@ g) Macau, compreendendo as províncias de Macau e Timor.
 
 § 3.º Transitòriamente e até que obtenham a licenciatura em Medicina, nos termos em que as disposições legais vigentes o estabelecem, poderão exercer clínica nas províncias ultramarinas, sem estarem inscritos na Ordem, os médicos diplomados pela Escola Médico-Cirúrgica de Goa.
 
-###### Art. 7.º Só podem inscrever-se na Ordem:
+Art. 7.º Só podem inscrever-se na Ordem:
 
 1.º Os portugueses de origem e os naturalizados aos quais a lei permita o exercício da profissão de médico, no pleno gozo dos direitos civis e políticos que lhes forem conferidos por lei, licenciados em Medicina por escola superior portuguesa ou por escola superior estrangeira, desde que, neste último caso, tenham obtido equivalência de curso;
 
@@ -159,7 +200,7 @@ g) Macau, compreendendo as províncias de Macau e Timor.
 
 A validade desta inscrição é, no entanto, tida em conta para os períodos de exercício da medicina previstos nos decretos acima citados.
 
-###### Art. 16.º Poderão requerer a inscrição, sem dependência do requisito estabelecido no artigo anterior:
+Art. 16.º Poderão requerer a inscrição, sem dependência do requisito estabelecido no artigo anterior:
 
 a) Os professores e primeiros-assistentes das Faculdades de Medicina ou dos Estudos Gerais Universitários de Angola e Moçambique, com referência às especialidades cujo ensino normalmente ministram;
 
@@ -185,7 +226,7 @@ g) Os médicos que se inscrevam nas secções regionais do ultramar (e aí tenha
 
 § 5.º Os planos e regimes dos cursos previstos na alínea d) devem exigir a prestação de provas correspondentes às previstas no artigo 15.º
 
-###### Art. 17.º A prestação de provas só pode ser requerida pelos médicos que tenham feito, com assiduidade e aproveitamento, um estágio pós-escolar de medicina e cirurgia geral e um estágio preparatório de especialização.
+Art. 17.º A prestação de provas só pode ser requerida pelos médicos que tenham feito, com assiduidade e aproveitamento, um estágio pós-escolar de medicina e cirurgia geral e um estágio preparatório de especialização.
 
 § 1.º O estágio de medicina e cirurgia, que terá a duração de dois anos, sendo um de medicina e outro de cirurgia, poderá ser feito nas clínicas escolares das Faculdades de Medicina ou dos Estudos Gerais Universitários de Angola e Moçambique, ou em clínicas hospitalares, nacionais ou estrangeiras, reconhecidas idóneas pelo conselho geral da Ordem.
 
@@ -201,7 +242,7 @@ g) Os médicos que se inscrevam nas secções regionais do ultramar (e aí tenha
 
 § 7.º O médico que exerça clínica há mais de dez anos pode ser dispensado dos estágios gerais de medicina e cirurgia.
 
-###### Art. 22.º O júri compor-se-á de um presidente, que será o presidente da Ordem, e de quatro vogais nomeados pelo conselho geral, escolhidos de entre professores das Faculdades de Medicina ou dos Estudos Gerais Universitários de Angola e Moçambique, directores de serviços hospitalares ou laboratórios e médicos de reconhecida competência na clínica livre, devendo três ser especialistas.
+Art. 22.º O júri compor-se-á de um presidente, que será o presidente da Ordem, e de quatro vogais nomeados pelo conselho geral, escolhidos de entre professores das Faculdades de Medicina ou dos Estudos Gerais Universitários de Angola e Moçambique, directores de serviços hospitalares ou laboratórios e médicos de reconhecida competência na clínica livre, devendo três ser especialistas.
 
 § 1.º No seu impedimento, o presidente da Ordem designará para presidir ao júri o presidente de um dos conselhos regionais, um dos vogais do conselho geral ou um professor das Faculdades de Medicina ou dos Estudos Gerais Universitários de Angola e Moçambique.
 
@@ -209,11 +250,11 @@ g) Os médicos que se inscrevam nas secções regionais do ultramar (e aí tenha
 
 § 3.º O júri poderá ser constituído por membros de mais de uma secção regional da Ordem, podendo também ser o mesmo para todas as secções regionais.
 
-###### Art. 25.º São legalmente reconhecidas as seguintes especialidades: análises clínicas, anatomia patológica, anestesiologia, cardiologia, cirurgia geral, cirurgia plástica e reconstrutiva, cirurgia torácica, dermato-venereologia, doenças tropicais, endocrinologia-nutrição, estomatologia, fisioterapia, gastroenterologia, ginecologia, neurologia, neurocirurgia, neuropsiquiatria infantil, obstetrícia, oftalmologia, ortopedia, otorrinolaringologia, pediatria, pneumotisiologia, psiquiatria, roentgendiagnóstico, radioterapia e medicina nuclear e urologia.
+Art. 25.º São legalmente reconhecidas as seguintes especialidades: análises clínicas, anatomia patológica, anestesiologia, cardiologia, cirurgia geral, cirurgia plástica e reconstrutiva, cirurgia torácica, dermato-venereologia, doenças tropicais, endocrinologia-nutrição, estomatologia, fisioterapia, gastroenterologia, ginecologia, neurologia, neurocirurgia, neuropsiquiatria infantil, obstetrícia, oftalmologia, ortopedia, otorrinolaringologia, pediatria, pneumotisiologia, psiquiatria, roentgendiagnóstico, radioterapia e medicina nuclear e urologia.
 
 § único. É permitido acumular o exercício das especialidades de anatomia patológica e análises clínicas, cirurgia geral e gastroenterologia, cirurgia geral e urologia, cirurgia geral e ginecologia, cirurgia geral e ortopedia, cirurgia geral e cirurgia torácica, cirurgia plástica e reconstrutiva e cirurgia geral, cirurgia plástica e reconstrutiva e ortopedia, ginecologia e obstetrícia, neurologia e psiquiatria, neurocirurgia e neurologia, neuropsiquiatria infantil e pediatria, neuropsiquiatria infantil e neurologia, neuropsiquiatria infantil e psiquiatria, roentgendiagnóstico, radioterapia e medicina nuclear, cirurgia torácica e pneumotisiologia.
 
-###### Art. 27.º Sem prejuízo do livre exercício da clínica geral por qualquer médico inscrito na Ordem e no uso dos seus direitos, os especialistas não poderão anunciar outra forma de exercício da clínica além da especialidade ou especialidades em que estiverem inscritos no quadro da Ordem.
+Art. 27.º Sem prejuízo do livre exercício da clínica geral por qualquer médico inscrito na Ordem e no uso dos seus direitos, os especialistas não poderão anunciar outra forma de exercício da clínica além da especialidade ou especialidades em que estiverem inscritos no quadro da Ordem.
 
 § 1.º As especialidades poderão ser anunciadas com os nomes indicados no artigo 25.º ou com os seguintes, pesados na linguagem comum: análises clínicas,
 
@@ -223,7 +264,7 @@ anestesias, doenças do coração, cirurgia geral, cirurgia torácica, doenças 
 
 ...
 
-###### Art. 29.º A assembleia geral reúne-se na sede da Ordem, em Lisboa, e é constituída por 72 delegados, eleitos trienalmente pelas assembleias regionais de entre os membros domiciliados nas respectivas secções, sendo 25 por Lisboa, 15 por Coimbra, 20 pelo Porto, 2 pela Praia, 4 por Luanda, 4 por Lourenço Marques e 2 por Macau.
+Art. 29.º A assembleia geral reúne-se na sede da Ordem, em Lisboa, e é constituída por 72 delegados, eleitos trienalmente pelas assembleias regionais de entre os membros domiciliados nas respectivas secções, sendo 25 por Lisboa, 15 por Coimbra, 20 pelo Porto, 2 pela Praia, 4 por Luanda, 4 por Lourenço Marques e 2 por Macau.
 
 § 1.º Os delegados dos conselhos regionais do ultramar poderão votar por meio de mandato e ser representados na referida assembleia geral por médicos residentes na metrópole, inscritos na Ordem e no uso pleno dos seus direitos.
 
@@ -231,11 +272,11 @@ anestesias, doenças do coração, cirurgia geral, cirurgia torácica, doenças 
 
 ...
 
-###### Art. 30.º A assembleia geral reúne-se ordinàriamente uma vez em cada ano e extraordinàriamente por solicitação de dois terços dos seus componentes, do presidente da Ordem, do conselho geral, de qualquer dos conselhos regionais ou de um mínimo de 250 membros da Ordem, desde que, neste último caso, não pertençam à mesma secção regional mais de metade.
+Art. 30.º A assembleia geral reúne-se ordinàriamente uma vez em cada ano e extraordinàriamente por solicitação de dois terços dos seus componentes, do presidente da Ordem, do conselho geral, de qualquer dos conselhos regionais ou de um mínimo de 250 membros da Ordem, desde que, neste último caso, não pertençam à mesma secção regional mais de metade.
 
 § único. A assembleia geral terá ainda, trienalmente, uma outra reunião ordinária para eleição do presidente da Ordem e dos membros da respectiva mesa.
 
-###### Art. 31.º A reunião ordinária anual efectuar-se-á no mês de Janeiro de cada ano e destina-se:
+Art. 31.º A reunião ordinária anual efectuar-se-á no mês de Janeiro de cada ano e destina-se:
 
 a) À discussão e votação do relatório e contas do conselho geral relativo ao ano civil anterior;
 
@@ -245,11 +286,11 @@ b) À apreciação do orçamento aprovado pelo conselho geral relativo ao ano ci
 
 ...
 
-###### Art. 36.º As assembleias regionais reúnem-se ordinàriamente uma vez em cada ano e extraordinàriamente quando a sua convocação for solicitada pelo presidente da Ordem, pelo conselho regional, pelos delegados da assembleia ao conselho geral ou por um mínimo de 50 membros inscritos na respectiva secção regional, quando se trate das secções regionais de Lisboa, Porto e Coimbra, de um mínimo de 30 membros nas secções regionais de Luanda e Lourenço Marques e de 10 membros nas secções da Praia e Macau.
+Art. 36.º As assembleias regionais reúnem-se ordinàriamente uma vez em cada ano e extraordinàriamente quando a sua convocação for solicitada pelo presidente da Ordem, pelo conselho regional, pelos delegados da assembleia ao conselho geral ou por um mínimo de 50 membros inscritos na respectiva secção regional, quando se trate das secções regionais de Lisboa, Porto e Coimbra, de um mínimo de 30 membros nas secções regionais de Luanda e Lourenço Marques e de 10 membros nas secções da Praia e Macau.
 
 § único. As assembleias regionais terão ainda, de três em três anos, uma outra reunião ordinária, para eleição dos membros das respectivas mesas, dos delegados à assembleia geral, dos delegados ao conselho geral, dos membros do conselho regional e dos delegados às comissões de fixação da matéria colectável para efeitos do imposto profissional.
 
-###### Art. 37.º A reunião ordinária anual efectuar-se-á no mês de Janeiro de cada ano e destina-se:
+Art. 37.º A reunião ordinária anual efectuar-se-á no mês de Janeiro de cada ano e destina-se:
 
 a) À discussão e votação do relatório e contas dos respectivos conselhos regionais, relativos ao ano civil anterior;
 
@@ -259,7 +300,7 @@ b) À apreciação do orçamento aprovado pelo conselho regional, relativo ao an
 
 ...
 
-###### Art. 43.º O conselho geral é constituído por um presidente, que será o presidente da Ordem, e de dezassete membros, sendo sete designados, um por cada conselho regional e dez eleitos, dois por cada assembleia regional da metrópole e um por cada assembleia regional do ultramar, podendo os membros do ultramar ser representados nas condições previstas no § 1.º do artigo 29.º
+Art. 43.º O conselho geral é constituído por um presidente, que será o presidente da Ordem, e de dezassete membros, sendo sete designados, um por cada conselho regional e dez eleitos, dois por cada assembleia regional da metrópole e um por cada assembleia regional do ultramar, podendo os membros do ultramar ser representados nas condições previstas no § 1.º do artigo 29.º
 
 § 1.º O conselho geral elegerá, de entre os seus componentes, o vice-presidente, o secretário e o tesoureiro, bem como uma comissão executiva encarregada de dar cumprimento às deliberações do conselho e de assegurar o expediente mais urgente da Ordem.
 
@@ -269,7 +310,7 @@ b) À apreciação do orçamento aprovado pelo conselho regional, relativo ao an
 
 ...
 
-###### Art. 57.º As eleições a efectuar pela assembleia geral e pelas assembleias regionais realizar-se-ão de três em três anos, só podendo incidir a votação sobre as candidaturas prèviamente apresentadas nos termos dos parágrafos seguintes.
+Art. 57.º As eleições a efectuar pela assembleia geral e pelas assembleias regionais realizar-se-ão de três em três anos, só podendo incidir a votação sobre as candidaturas prèviamente apresentadas nos termos dos parágrafos seguintes.
 
 § 1.º As candidaturas para o cargo de presidente da Ordem e para a mesa da assembleia geral deverão ser subscritas respectivamente pelo mínimo de 80 e de 50 membros e representadas ao conselho geral até 5 dias antes da data da eleição.
 
@@ -279,7 +320,7 @@ b) À apreciação do orçamento aprovado pelo conselho regional, relativo ao an
 
 ...
 
-###### Art. 115.º Os cursos de aperfeiçoamento realizar-se-ão, salvo circunstâncias extraordinárias, pelo menos uma vez por ano, em Lisboa, Porto, Coimbra, Luanda e Lourenço Marques, devendo as lições e demonstrações ser feitas segundo programas prèviamente estabelecidos.
+Art. 115.º Os cursos de aperfeiçoamento realizar-se-ão, salvo circunstâncias extraordinárias, pelo menos uma vez por ano, em Lisboa, Porto, Coimbra, Luanda e Lourenço Marques, devendo as lições e demonstrações ser feitas segundo programas prèviamente estabelecidos.
 
 § 1.º Cada conselho regional tomará a iniciativa da organização do respectivo curso, fixando o seu programa e escolhendo as individualidades que o hão-de orientar.
 
@@ -287,27 +328,27 @@ b) À apreciação do orçamento aprovado pelo conselho regional, relativo ao an
 
 § 3.º Em casos devidamente justificados poderá o conselho regional atribuir um subsídio para deslocação e hospedagem aos médicos que, desejando participar no curso, o solicitarem.
 
-###### Art. 116.º Os cursos de aperfeiçoamento poderão ser subsidiados, mediante solicitação do conselho geral, pelo Ministério da Saúde e Assistência e, quando realizados nas secções ultramarinas, pelo Ministério do Ultramar ou pelos governos das províncias.
+Art. 116.º Os cursos de aperfeiçoamento poderão ser subsidiados, mediante solicitação do conselho geral, pelo Ministério da Saúde e Assistência e, quando realizados nas secções ultramarinas, pelo Ministério do Ultramar ou pelos governos das províncias.
 
 § único. Quando os serviços públicos e as instituições de previdência reconhecerem útil a participação nos cursos de aperfeiçoamento dos médicos que neles exercem actividade, deverão considerar essa participação como correspondente, para todos os efeitos, ao exercício das suas funções.
 
 ...
 
-###### Art. 118.º A cada conselho regional compete a manutenção de bibliotecas privativas.
+Art. 118.º A cada conselho regional compete a manutenção de bibliotecas privativas.
 
 § 1.º Os autores médicos portugueses depositarão obrigatòriamente um exemplar de cada uma das suas publicações nas bibliotecas dos conselhos regionais.
 
 § 2.º Os directores das revistas médicas promoverão a remessa de um exemplar de cada número às bibliotecas dos conselhos regionais.
 
-###### Art. 146.º Da receita proveniente das quotas e jóias destinar-se-ão 30 por cento ao conselho geral e os restantes 70 por cento ao conselho regional.
+Art. 146.º Da receita proveniente das quotas e jóias destinar-se-ão 30 por cento ao conselho geral e os restantes 70 por cento ao conselho regional.
 
 § único. Onde houver delegações pertencerão a estas 40 por cento das jóias e quotas, sendo os restantes 60 por cento distribuídos na proporção de dois terços para o conselho regional e um terço para o conselho geral.
 
-###### Art. 155.º As decisões cometidas por este Estatuto à competência ministerial serão tomadas pelo Ministro das Corporações e Previdência Social quando relativas às secções regionais da metrópole, mas as que digam respeito às secções regionais do ultramar são também da competência do Ministro do Ultramar.
+Art. 155.º As decisões cometidas por este Estatuto à competência ministerial serão tomadas pelo Ministro das Corporações e Previdência Social quando relativas às secções regionais da metrópole, mas as que digam respeito às secções regionais do ultramar são também da competência do Ministro do Ultramar.
 
-###### Art. 2.º São revogados o § único do artigo 1.º do Estatuto e os Decretos n.os 41182, 42346 e 46059, respectivamente de 10 de Julho de 1957, 23 de Junho de 1959 e 2 de Dezembro de 1964.
+Art. 2.º São revogados o § único do artigo 1.º do Estatuto e os Decretos n.os 41182, 42346 e 46059, respectivamente de 10 de Julho de 1957, 23 de Junho de 1959 e 2 de Dezembro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.
 

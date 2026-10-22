@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08600/07820783.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1976-502640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0223e0f4a0a4ad763091c3151bc398a6c9796a0ce2c9ef301fa7e4db290c7414
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 342a66a3d322d66d981121e71bc8ab5c2c62cd8b086d30723021bced83de887d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Diário do Governo
+- Ensino Primário
+- Pessoal Docente
+- Publicitação
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:212411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:49Z'
   warnings: []
   errors: []
 ---
@@ -101,24 +129,24 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Será publicado no Diário do Governo, 2.ª série, no primeiro dia útil de cada mês, aviso relativo aos lugares vagos das escolas do ensino primário que se consideram postos a concurso ao abrigo do artigo 4.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, e da base III da [Lei n.º 2129](https://diariodarepublica.pt/dr/detalhe/lei/2129-1966-469446), de 20 de Agosto de 1966.
+Artigo 1.º - 1. Será publicado no Diário do Governo, 2.ª série, no primeiro dia útil de cada mês, aviso relativo aos lugares vagos das escolas do ensino primário que se consideram postos a concurso ao abrigo do artigo 4.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, e da base III da [Lei n.º 2129](https://diariodarepublica.pt/dr/detalhe/lei/2129-1966-469446), de 20 de Agosto de 1966.
 
 2. Não se realizarão concursos nos meses de Junho e Julho.
 
-###### Art. 2.º O prazo para entrega de documentos termina no dia 10 do mês seguinte ao da publicação do aviso.
+Art. 2.º O prazo para entrega de documentos termina no dia 10 do mês seguinte ao da publicação do aviso.
 
-###### Art. 3.º Ficam revogados, no respeitante a prazos, o § 1.º do artigo 4.º e § 2.º do artigo 3.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, e o n.º 2 da base III da [Lei n.º 2129](https://diariodarepublica.pt/dr/detalhe/lei/2129-1966-469446), de 20 de Agosto de 1966, segundo o entendimento dado pelo artigo 8.º do [Decreto-Lei n.º 464/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1971-633697), de 2 de Novembro, bem como o § 3.º do artigo 13.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931.
+Art. 3.º Ficam revogados, no respeitante a prazos, o § 1.º do artigo 4.º e § 2.º do artigo 3.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931, e o n.º 2 da base III da [Lei n.º 2129](https://diariodarepublica.pt/dr/detalhe/lei/2129-1966-469446), de 20 de Agosto de 1966, segundo o entendimento dado pelo artigo 8.º do [Decreto-Lei n.º 464/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1971-633697), de 2 de Novembro, bem como o § 3.º do artigo 13.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931.
 
 Fica igualmente revogado o artigo 8.º do [Decreto-Lei n.º 454/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1975-314910), de 21 de Agosto.
 
-###### Art. 4.º Os prazos estabelecidos neste diploma poderão ser alterados por portaria do Ministro da Educação e Investigação Científica.
+Art. 4.º Os prazos estabelecidos neste diploma poderão ser alterados por portaria do Ministro da Educação e Investigação Científica.
 
-###### Art. 5.º Este decreto-lei entra em vigor na datada sua publicação.
+Art. 5.º Este decreto-lei entra em vigor na datada sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 30 de Março de 1976.**
+Promulgado em 30 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/06/14800/08350835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1972-673852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73b23e86e2e81ed16b23dded2475d84422da877ad2cd926004797abe67b3f384
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2b9da6d316753f6626150ff524370f63e319ed7a7331a620d4c904e520833ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA NON Aedificandi
+- Crime
+- Estabelecimento Industrial
+- Estatuto das Estradas Nacionais
+- Estrada
+- Junta Autónoma das Estradas
+- Licenciamento de Obras
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:67085601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588067:por
+  label: "Alterado o art. 15º do Dec Lei 13/71, de 23-Jan, alterado pelo presente diploma e pelo Dec Lei 260/2002, de 23-Nov,\
+    \ pelo DEC LEI.25/2004.24.01.2004.MOPTH, DR.IS-A [20] de 24.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2004-588067
+  date: '2004-01-24'
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67085601:por
+  label: Revogado, a partir de 26.07.2015, pelo(a) Lei n.º 34/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2015-67085601
+  date: '2015-04-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:01Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +124,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Todo o dano causado às estradas nacionais ou seus pertences obriga os responsáveis ao pagamento de indemnização pelos prejuízos respectivos, fixada pela direcção de estradas competente, devendo tal pagamento ser efectuado na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Junta Autónoma de Estradas, mediante guias passadas pelo director de estradas.
+Artigo 1.º - 1. Todo o dano causado às estradas nacionais ou seus pertences obriga os responsáveis ao pagamento de indemnização pelos prejuízos respectivos, fixada pela direcção de estradas competente, devendo tal pagamento ser efectuado na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Junta Autónoma de Estradas, mediante guias passadas pelo director de estradas.
 
 2. Na falta de pagamento voluntário, seguir-se-á o procedimento previsto no artigo 158.º do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949.
 
@@ -117,7 +144,7 @@ b) São punidas com a multa de 500$00 a 50000$00, consoante a gravidade da infra
 
 8. Ficam revogados os artigos 154.º a 156.º do Estatuto das Estradas Nacionais.
 
-###### Art. 2.º É aditado o preceito seguinte ao artigo 9.º do mesmo [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712):
+Art. 2.º É aditado o preceito seguinte ao artigo 9.º do mesmo [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712):
 
 3. As obras de ampliação ou modificação de instalações industriais existentes antes da entrada em vigor deste diploma podem ser autorizadas pelo Ministro das Obras Públicas, desde que:
 
@@ -129,8 +156,8 @@ c) Obedeçam ao requisito da alínea a) do n.º 1 deste artigo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 21 de Junho de 1972.**
+Promulgado em 21 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/100-1971-445758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f70f9470a686e7ea64463d2809638f2f205e8fa0912886742defa0c5f8138a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ff02e7e6b994440466d01b8407d1c3e12ed84ffcc0a9f18a7d527326c91637f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:37Z'
   warnings: []
   errors: []
 ---
@@ -95,34 +95,34 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique a celebrar com o Banco Nacional Ultramarino um contrato, em regime de pagamentos diferidos, relativo a uma operação de financiamento, no montante de $5340000,00, destinado à aquisição de um avião e motor de reserva com acessórios para a Direcção de Exploração dos Transportes Aéreos.
+Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique a celebrar com o Banco Nacional Ultramarino um contrato, em regime de pagamentos diferidos, relativo a uma operação de financiamento, no montante de $5340000,00, destinado à aquisição de um avião e motor de reserva com acessórios para a Direcção de Exploração dos Transportes Aéreos.
 
-###### Art. 2.º - 1. O pagamento efectuar-se-á com uma amortização inicial, em 1 de Março de 1972, de valor correspondente a 1/7 do total do financiamento acrescido de juros e mais doze prestações semestrais iguais a 1/14, em 1 de Março e 1 de Setembro de cada ano, tendo lugar a última em 1 de Março de 1978.
+Art. 2.º - 1. O pagamento efectuar-se-á com uma amortização inicial, em 1 de Março de 1972, de valor correspondente a 1/7 do total do financiamento acrescido de juros e mais doze prestações semestrais iguais a 1/14, em 1 de Março e 1 de Setembro de cada ano, tendo lugar a última em 1 de Março de 1978.
 
 2. A taxa de juro sobre o capital em dívida será igual à taxa flutuante correspondente ao prime rate de Nova Iorque, acrescida de 1 por cento.
 
 3. Sobre a parte do financiamento não utilizada será devida, desde 1 de Fevereiro de 1971, uma taxa de compromisso de 0,5 por cento.
 
-###### Art. 3.º É devida ao Banco Nacional Ultramarino uma comissão anual de 0,5 por cento, calculada sobre o capital em dívida.
+Art. 3.º É devida ao Banco Nacional Ultramarino uma comissão anual de 0,5 por cento, calculada sobre o capital em dívida.
 
-###### Art. 4.º As amortizações, juros e encargos relativos à presente operação serão de responsabilidade da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, que entregará, nas datas dos vencimentos, ao Banco Nacional Ultramarino as importâncias necessárias ao seu pagamento.
+Art. 4.º As amortizações, juros e encargos relativos à presente operação serão de responsabilidade da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, que entregará, nas datas dos vencimentos, ao Banco Nacional Ultramarino as importâncias necessárias ao seu pagamento.
 
-###### Art. 5.º É autorizado o Governo-Geral da província a garantir, junto do Banco Nacional Ultramarino, as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique na execução da presente operação.
+Art. 5.º É autorizado o Governo-Geral da província a garantir, junto do Banco Nacional Ultramarino, as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique na execução da presente operação.
 
-###### Art. 6.º Todos os encargos resultantes da celebração da presente operação constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, devendo, em consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco Nacional Ultramarino.
+Art. 6.º Todos os encargos resultantes da celebração da presente operação constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, devendo, em consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco Nacional Ultramarino.
 
-###### Art. 7.º - 1. Se o conselho de administração dos portos, caminhos de ferro e transportes da província reconhecer que os serviços não estão habilitados a satisfazer os encargos de amortização e juros nas datas fixadas para o respectivo pagamento, dará do facto conhecimento antecipado ao Governo-Geral de Moçambique.
+Art. 7.º - 1. Se o conselho de administração dos portos, caminhos de ferro e transportes da província reconhecer que os serviços não estão habilitados a satisfazer os encargos de amortização e juros nas datas fixadas para o respectivo pagamento, dará do facto conhecimento antecipado ao Governo-Geral de Moçambique.
 
 2. O Governo-Geral da província, com base no aviso a que se refere o número antecedente, ou, na falta, por aviso da instituição credora, abrirá o crédito especial necessário para poder satisfazer a respectiva prestação.
 
-###### Art. 8.º Fica autorizado o Ministro do Ultramar a intervir, em nome e representação da província de Moçambique, no contrato a que se refere o presente diploma.
+Art. 8.º Fica autorizado o Ministro do Ultramar a intervir, em nome e representação da província de Moçambique, no contrato a que se refere o presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Março de 1971.**
+Promulgado em 12 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.

@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1977-252455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7ddda844bb244b16e9c6acba0fd95ab0dcf1e4716108bd30f507844b4da3263
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de8bcf8453ad75a452b77771f2280f9c77f35d054a3ca6ebf8a1ebbc181d3d3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Militar
+- Reintegração de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:232166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460594:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:33Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +133,12 @@ Nestes termos:
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. O general Adalberto Gastão de Sousa Dias, demitido do Exército pelo artigo 1.º do [Decreto n.º 19567](https://diariodarepublica.pt/dr/detalhe/decreto/19567-1931-272396), de 7 de Abril de 1931, é reintegrado, a título póstumo, no seu posto, com todas as honras ao mesmo inerentes e o direito às condecorações e graus honoríficos que possuía.
+Artigo único. O general Adalberto Gastão de Sousa Dias, demitido do Exército pelo artigo 1.º do [Decreto n.º 19567](https://diariodarepublica.pt/dr/detalhe/decreto/19567-1931-272396), de 7 de Abril de 1931, é reintegrado, a título póstumo, no seu posto, com todas as honras ao mesmo inerentes e o direito às condecorações e graus honoríficos que possuía.
 
 Visto e aprovado em Conselho da Revolução em 18 de Maio de 1977.
 
-**Promulgado em 20 de Maio de 1977.**
+Promulgado em 20 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

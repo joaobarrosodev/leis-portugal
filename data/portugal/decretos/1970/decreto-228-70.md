@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/228-1970-142307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7880356759a72db1710fddbd93850ed37ee502bfa03c547feb6adfe1013ff7bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a6d3a60f95d8e28f3d445283cd3237c0e39a598a751160074fb77a73a8331e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400670:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:26Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +100,13 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Diploma Orgânico do Fundo de Fomento Mineiro Ultramarino, que baixa assinado pelo Ministro do Ultramar e faz parte integrante deste decreto.
+Artigo único. É aprovado o Diploma Orgânico do Fundo de Fomento Mineiro Ultramarino, que baixa assinado pelo Ministro do Ultramar e faz parte integrante deste decreto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Maio de 1970.**
+Promulgado em 1 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -106,9 +114,9 @@ Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 Diploma Orgânico do Fundo de Fomento Mineiro Ultramarino
 
-###### Artigo 1.º O Fundo de Fomento Mineiro Ultramarino, adiante designado por «Fundo», goza de personalidade jurídica e de autonomia administrativa e financeira, funcionando na dependência do Ministro do Ultramar.
+Artigo 1.º O Fundo de Fomento Mineiro Ultramarino, adiante designado por «Fundo», goza de personalidade jurídica e de autonomia administrativa e financeira, funcionando na dependência do Ministro do Ultramar.
 
-###### Art. 2.º O Fundo tem por objectivo prestar assistência financeira à política de fomento mineiro ultramarino, competindo-lhe, designadamente:
+Art. 2.º O Fundo tem por objectivo prestar assistência financeira à política de fomento mineiro ultramarino, competindo-lhe, designadamente:
 
 a) Financiar trabalhos de reconhecimento geológico, de prospecção e pesquisa mineira e os que se relacionem com o aproveitamento e valorização dos recursos minerais das províncias ultramarinas, incluindo os de índole hidrogeológica;
 
@@ -122,7 +130,7 @@ e) Suportar encargos com a execução, publicação e difusão de trabalhos, est
 
 f) Suportar encargos relacionados com a participação em congressos e reuniões nacionais ou internacionais, de representantes ou funcionários dos serviços provinciais, do Ministério do Ultramar ou de outras entidades, quando tal participação revista interesse para o fomento mineiro do ultramar.
 
-###### Art. 3.º - 1. O Fundo será gerido e administrado por uma comissão administrativa central composta pelos seguintes vogais:
+Art. 3.º - 1. O Fundo será gerido e administrado por uma comissão administrativa central composta pelos seguintes vogais:
 
 a) O inspector-geral de Minas, que presidirá;
 
@@ -134,17 +142,17 @@ b) Dois vogais designados por despacho do Ministro do Ultramar, por proposta do 
 
 4. Serão sempre necessárias, para obrigar o Fundo, as assinaturas do presidente e de um dos seus vogais.
 
-###### Art. 4.º O Fundo depende directamente do Ministro do Ultramar, a cujo despacho o presidente da comissão administrativa submeterá todos os assuntos que careçam de autorização ou orientação superior.
+Art. 4.º O Fundo depende directamente do Ministro do Ultramar, a cujo despacho o presidente da comissão administrativa submeterá todos os assuntos que careçam de autorização ou orientação superior.
 
-###### Art. 5.º - 1. Em cada província ultramarina poderá ser criada, por portaria do Ministro do Ultramar, por proposta do inspector-geral de Minas, uma delegação provincial do Fundo de Fomento Mineiro Ultramarino, gerida por uma comissão administrativa provincial.
+Art. 5.º - 1. Em cada província ultramarina poderá ser criada, por portaria do Ministro do Ultramar, por proposta do inspector-geral de Minas, uma delegação provincial do Fundo de Fomento Mineiro Ultramarino, gerida por uma comissão administrativa provincial.
 
 2. As delegações provinciais terão orçamentes próprios de receitas e despesas, ficando as respectivas contas de gerência sujeitas à aprovação dos tribunais administrativos provinciais, nos termos da legislação aplicável.
 
 3. Para os efeitos do n.º 3 do artigo 10.º, considerar-se-ão como despesa do Fundo de Fomento Mineiro Ultramarino os montantes postos à disposição das delegações provinciais do Fundo.
 
-###### Art. 6.º Os vogais das comissões administrativas central ou provinciais e os respectivos secretários terão direito a remunerações, a fixar por despacho ministerial ou dos governadores das províncias ultramarinas, conforme o caso.
+Art. 6.º Os vogais das comissões administrativas central ou provinciais e os respectivos secretários terão direito a remunerações, a fixar por despacho ministerial ou dos governadores das províncias ultramarinas, conforme o caso.
 
-###### Art. 7.º Constituem receitas do Fundo de Fomento Mineiro Ultramarino:
+Art. 7.º Constituem receitas do Fundo de Fomento Mineiro Ultramarino:
 
 1.º Uma percentagem, a estabelecer anualmente pelo Ministro do Ultramar, com acordo dos governos provinciais, sobre todas as receitas incluídas ou a incluir nos orçamentos provinciais, percebidas por virtude da actividade mineira ultramarina a título de impostos, direitos mineiros, taxas, rendas de superfície, participações em lucros ou quaisquer outras receitas ordinárias ou extraordinárias;
 
@@ -166,17 +174,17 @@ b) Dois vogais designados por despacho do Ministro do Ultramar, por proposta do 
 
 3. O produto das receitas do Fundo deverá ser aplicado, em montante não inferior a 50 por cento, na cobertura de despesas a realizar na província ultramarina em que tais receitas tenham sido criadas.
 
-###### Art. 8.º - 1. Constituem encargos do Fundo os resultantes do exercício das atribuições referidas no artigo 2.º deste diploma e ainda as despesas com o funcionamento da Inspecção-Geral de Minas e dos grupos de trabalho, brigadas e missões nela integrados, nos termos do artigo 33.º do [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro de 1970.
+Art. 8.º - 1. Constituem encargos do Fundo os resultantes do exercício das atribuições referidas no artigo 2.º deste diploma e ainda as despesas com o funcionamento da Inspecção-Geral de Minas e dos grupos de trabalho, brigadas e missões nela integrados, nos termos do artigo 33.º do [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro de 1970.
 
 2. O Fundo suportará também os encargos com o funcionamento dos Grupos de Trabalho de Geologia e Minas e de Petróleos e Combustíveis, criados por despachos ministeriais de 3 de Novembro de 1966 e de 17 de Novembro de 1969, até à sua integração na Inspecção-Geral de Minas, como previsto no artigo 28.º do [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro de 1970.
 
-###### Art. 9.º - 1. As receitas e despesas do Fundo serão inscritas em orçamentos privativos a aprovar pelo Ministro do Ultramar.
+Art. 9.º - 1. As receitas e despesas do Fundo serão inscritas em orçamentos privativos a aprovar pelo Ministro do Ultramar.
 
 2. A comissão administrativa central submeterá ao Ministro do Ultramar os elementos orçamentais e contabilísticos necessários ao julgamento das verbas orçamentadas e despendidas.
 
 3. As despesas previstas no orçamento do Fundo, desde que aprovadas pelo Ministro do Ultramar, serão realizadas sem dependência de outras formalidades.
 
-###### Art. 10.º - 1. A comissão administrativa pode solicitar aos serviços provinciais de geologia e minas e, em geral, a todos os serviços do Ministério e das províncias ultramarinas, informações e outros elementos de que careça para desempenho das suas atribuições.
+Art. 10.º - 1. A comissão administrativa pode solicitar aos serviços provinciais de geologia e minas e, em geral, a todos os serviços do Ministério e das províncias ultramarinas, informações e outros elementos de que careça para desempenho das suas atribuições.
 
 2. À comissão administrativa central cabe organizar, até 30 de Novembro de cada ano, o orçamento das receitas para o ano seguinte, tomando em conta os elementos fornecidos pelas províncias ultramarinas, bem como o orçamento de despesas, de acordo com o plano de actividade para o ano seguinte.
 
@@ -188,14 +196,14 @@ b) Dois vogais designados por despacho do Ministro do Ultramar, por proposta do 
 
 6. O presidente terá competência para autorizar a realização de despesas prèviamente orçamentadas até à importância de 50000$00.
 
-###### Art. 11.º - 1. O apoio técnico e o serviço de expediente, tesouraria e arquivo de que a comissão administrativa central do Fundo carece ser-lhe-ão facultados pelos serviços da Inspecção-Geral de Minas, do Ministério do Ultramar, nos termos das alíneas k) e l), respectivamente, dos artigos 9.º e 10.º do [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro de 1970, e, nas províncias ultramarinas, pelos serviços de geologia e minas, sob orientação das respectivas comissões administrativas.
+Art. 11.º - 1. O apoio técnico e o serviço de expediente, tesouraria e arquivo de que a comissão administrativa central do Fundo carece ser-lhe-ão facultados pelos serviços da Inspecção-Geral de Minas, do Ministério do Ultramar, nos termos das alíneas k) e l), respectivamente, dos artigos 9.º e 10.º do [Decreto-Lei n.º 32/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1970-227041), de 17 de Janeiro de 1970, e, nas províncias ultramarinas, pelos serviços de geologia e minas, sob orientação das respectivas comissões administrativas.
 
 2. A comissão administrativa central do Fundo corresponder-se-á directamente com quaisquer serviços centrais ou provinciais, bem como com os bancos ou outras instituições de crédito depositários dos seus fundos, os quais poderão ser levantados por meio de cheques, assinados pelo presidente e por um dos vogais.
 
-###### Art. 12.º Sob proposta do presidente da comissão administrativa central do Fundo ou dos presidentes das suas comissões administrativas provinciais poderão o Ministro do Ultramar ou os governadores das províncias ultramarinas, conforme o caso, autorizar a execução de trabalhos extraordinários em regime de tarefa ou o assalariamento ou contrato de prestação de serviços de pessoal, nos termos do artigo 45.º do Estatuto do Funcionalismo Ultramarino, devendo os respectivos encargos ser pagos por verbas globais do Fundo.
+Art. 12.º Sob proposta do presidente da comissão administrativa central do Fundo ou dos presidentes das suas comissões administrativas provinciais poderão o Ministro do Ultramar ou os governadores das províncias ultramarinas, conforme o caso, autorizar a execução de trabalhos extraordinários em regime de tarefa ou o assalariamento ou contrato de prestação de serviços de pessoal, nos termos do artigo 45.º do Estatuto do Funcionalismo Ultramarino, devendo os respectivos encargos ser pagos por verbas globais do Fundo.
 
-###### Art. 13.º O Ministro do Ultramar expedirá as portarias regulamentares necessárias à boa execução do disposto neste diploma orgânico.
+Art. 13.º O Ministro do Ultramar expedirá as portarias regulamentares necessárias à boa execução do disposto neste diploma orgânico.
 
-###### Art. 14.º Ficam revogados os Decretos n.os 48085, de 2 de Dezembro de 1967, e 48829, de 6 de Janeiro de 1969.
+Art. 14.º Ficam revogados os Decretos n.os 48085, de 2 de Dezembro de 1967, e 48829, de 6 de Janeiro de 1969.
 
 Ministério do Ultramar, 1 de Maio de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

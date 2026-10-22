@@ -47,40 +47,121 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1973-684232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5cca0dc0a6ec7f698ca37b0d40dfe8a8906e43c01c78a1205edcae2a426e7ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c547b02582250ea0372a58cd0103197b11c011586de617bf338186675804afcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caminhos de Ferro Portugueses
+- Contrato de Concessão
+- Fundo Especial de Transportes Terrestres
+- Ministro das Comunicações
+- Sociedade Anónima
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:140549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:422817:por
+  label: "Alterado o nº1 da base LIII anexa ao presente diploma, pelo DEC LEI.287/73.05.06.1973.MCOMN, DG.IS [287] de 05.06.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1973-422817
+  date: '1973-06-05'
+- type: amended_by
+  target: pt:dre:312596:por
+  label: Reforçada a dotação descrita no n.º 1 «Subsídio extraordinário para pagamento à Caixa Nacional de Pensões de encargos
+    da Companhia dos Caminhos de Ferro Portugueses (CP), nos termos da base LIII anexa ao presente diploma, pelo(a) Decreto
+    n.º 609/75 - Diário do Governo n.º 259/1975, Série I de 1975-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/609-1975-312596
+  date: '1975-11-08'
+- type: amended_by
+  target: pt:dre:140549:por
+  label: "Mantidos em vigor os regimes consignados no nº 3 da base XXV, nas bases XXVI, XXVII e XXVIII, nos nºs 1 e 2 da base\
+    \ XXIX, na base XXXI, no nº 4 da base XXXII e na base LIII anexas ao presente diploma, pelo DEC LEI.137-A/2009.12.06.2009.MOPTC,\
+    \ DR.IS [112-Supl] de 12.06.2009, até à celebração dos contratos referidos nos nºs 2 e 3 do art. 15º daquele diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-a-2009-140549
+  date: '2009-06-12'
+- type: cites
+  target: pt:dre:164228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689033:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:420849:por
+  label: "Rectificado n.º 2 da base XXXIV e n.º 4 da base XLII, anexas ao presente diploma, pela RECT.DD347.15.06.1973.PC,\
+    \ DG.IS [140] de 15.06.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-420849
+  date: '1973-06-15'
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do nº 1 da base XXX anexa ao presente diploma, pelo DEC LEI.485/88.1988.12.30.MF,\
+    \ DR.IS [301]2ºSupl, a partir da entrada em vigor do referido diploma, e do nº 2 da mesma base, sem prejuízo da manutenção\
+    \ dos benefícios já concedidos e dos regimes de caducidade previstos na legislação ao abrigo da qual estão a ser usufruídos\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:54Z'
   warnings: []
   errors: []
 ---
@@ -135,11 +216,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Tendo em vista a execução do disposto no 1 do artigo 19.º do [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março, o Ministro das Comunicações fica autorizado a estipular novo contrato de concessão com a Companhia dos Caminhos de Ferro Portugueses adiante designada por C. P. -, de acordo com a revisão a que se procedeu do contrato em vigor.
+Artigo 1.º - 1. Tendo em vista a execução do disposto no 1 do artigo 19.º do [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março, o Ministro das Comunicações fica autorizado a estipular novo contrato de concessão com a Companhia dos Caminhos de Ferro Portugueses adiante designada por C. P. -, de acordo com a revisão a que se procedeu do contrato em vigor.
 
 2. O novo contrato conformar-se-á com o prescrito nas bases anexas a este decreto-lei, do qual se consideram parte integrante, e substituirá, para todos os efeitos, o contrato de concessão celebrado em cumprimento do disposto no artigo 1.º do [Decreto-Lei n.º 38246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38246-1951-331616) de 9 de Maio de 1951.
 
-###### Art. 2.º - 1. A C. P. continuará a revestir a forma de sociedade anónima.
+Art. 2.º - 1. A C. P. continuará a revestir a forma de sociedade anónima.
 
 2. A sua administração competirá a um conselho, cuja composição será fixada nos respectivos estatutos, devendo todos os seus membros ter a cidadania portuguesa e residência em Portugal.
 
@@ -147,19 +228,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O presidente do conselho de administração será nomeado pelo Governo, de entre os administradores.
 
-###### Art. 3.º A C. P. deverá proceder aos aumentos de capital necessários para estabelecer relação adequada entre o capital próprio e o alheio, tomando ainda na devida conta o volume do activo imobilizado.
+Art. 3.º A C. P. deverá proceder aos aumentos de capital necessários para estabelecer relação adequada entre o capital próprio e o alheio, tomando ainda na devida conta o volume do activo imobilizado.
 
-###### Art. 4.º Fica desde já o Fundo Especial de Transportes Terrestres autorizado a adquirir ou a vender acções da concessionária, bem como a subscrever, nas condições fixadas por despacho conjunto dos Ministros das Finanças e das Comunicações, todas ou parte das acções que vierem a ser emitidas nos termos do número anterior.
+Art. 4.º Fica desde já o Fundo Especial de Transportes Terrestres autorizado a adquirir ou a vender acções da concessionária, bem como a subscrever, nas condições fixadas por despacho conjunto dos Ministros das Finanças e das Comunicações, todas ou parte das acções que vierem a ser emitidas nos termos do número anterior.
 
-###### Art. 5.º É revogado o § 1.º do artigo 33.º do [Decreto n.º 13829](https://diariodarepublica.pt/dr/detalhe/decreto/13829-1927-689033), de 17 de Junho de 1927, na redacção que lhe foi dada pelo [Decreto-Lei n.º 38855](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38855-1952-668943), de 8 de Agosto de 1952.
+Art. 5.º É revogado o § 1.º do artigo 33.º do [Decreto n.º 13829](https://diariodarepublica.pt/dr/detalhe/decreto/13829-1927-689033), de 17 de Junho de 1927, na redacção que lhe foi dada pelo [Decreto-Lei n.º 38855](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38855-1952-668943), de 8 de Agosto de 1952.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 
-**Promulgado em 28 de Fevereiro de 1973.**
+Promulgado em 28 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -657,4 +738,4 @@ BASE LIV
 
 2. O programa anual de actividade a que se refere a alínea b) do n.º 1 da base XLI e respectivos orçamentos de investimento e de exploração serão aprovados, no que se refere ao exercício de 1973, independentemente da existência de um plano plurianual, conformando-se, quanto ao mais, com o disposto nos n.os 4 e 5 daquela mesma base, salvo no que respeita ao prazo fixado no referido n.º 4.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

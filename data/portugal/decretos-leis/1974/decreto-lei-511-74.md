@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1974-472681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ed79bc7777fef1b629f4aaf09247347b4e5c74ec3ba61f268e22af435c0bc41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c914b2d5e2b37484b86adf4849b7c507e9bae27e216be5b0b50923cf898406ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Direitos Aduaneiros
+- Importação
+- Pauta dos Direitos de Importação
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:34Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ de 2 de Outubro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São introduzidas na Pauta dos Direitos de Importação as seguintes notas:
+Artigo 1.º São introduzidas na Pauta dos Direitos de Importação as seguintes notas:
 
 40.05 ...
 
@@ -102,13 +106,13 @@ O níquel que for desviado da aplicação acima indicada considera-se descaminha
 
 O importador deverá registar em livro próprio as quantidades importadas e as respectivas saídas e ainda facultar ao exame da fiscalização aduaneira todos os elementos que se tornem necessários à verificação da sua utilização e à conferência das existências.
 
-###### Art. 2.º São alteradas, pela forma seguinte, as redacções da nota ao artigo 03.03 e da nota 2 ao capítulo 58.º da Pauta dos Direitos de Importação:
+Art. 2.º São alteradas, pela forma seguinte, as redacções da nota ao artigo 03.03 e da nota 2 ao capítulo 58.º da Pauta dos Direitos de Importação:
 
 03.03 ...
 
 Nota. - São livres de direitos quando importados pelos fabricantes nacionais de conservas de peixe que os utilizem exclusivamente na respectiva indústria, ou quando importados com o objectivo de repovoamento dos viveiros nacionais, mediante parecer favorável da Direcção-Geral do Comércio. Os importadores deverão registar em livro próprio as quantidades importadas, facultando ao exame da fiscalização aduaneira todos os elementos que se tornem necessários à averiguação da sua aplicação e conferência das existências, considerando-se descaminhada aos direitos do artigo a que esta nota se refere a mercadoria que for desviada das aplicações acima referidas.
 
-### CAPÍTULO 58.º
+CAPÍTULO 58.º
 
 ...
 
@@ -116,16 +120,16 @@ Nota. - São livres de direitos quando importados pelos fabricantes nacionais de
 
 2 Consideram-se tapetes, na acepção dos n.os 58.01 e 58.02, além dos tapetes para cobrir sobrados, os artefactos semelhantes que apresentem as características daqueles, mas que se destinem a ser colocados em qualquer outro sítio que não seja o soalho. Excluem-se dessas posições os tapetes de feltro, os quais se classificam pelo capítulo 59.º
 
-###### Art. 3.º A posição 67.04 da Pauta dos Direitos de Importação passa a ter a seguinte redacção:
+Art. 3.º A posição 67.04 da Pauta dos Direitos de Importação passa a ter a seguinte redacção:
 
 67.04 Postiços (cabeleiras, barbas, sobrancelhas, pestanas, madeixas, etc.) e artefactos semelhantes, de cabelo, pêlos ou matérias têxteis, outras obras de cabelo, compreendendo as redes.
 
-###### Art. 4.º É eliminada a nota ao artigo 33.04.02 da Pauta dos Direitos de Importação.
+Art. 4.º É eliminada a nota ao artigo 33.04.02 da Pauta dos Direitos de Importação.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 
-**Promulgado em 24 de Setembro de 1974.**
+Promulgado em 24 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

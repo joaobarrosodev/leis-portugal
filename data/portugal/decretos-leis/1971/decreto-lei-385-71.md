@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1971-632763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0da20824fed1afb7935544191bcd6b27b80f371ace33370d59cf64cfc2d5b4a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b4462a1df2a093da70f4b94b947c48e3f4aeada89aa3632679fd2185b894aba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agente de Navegação
+- Direitos de Importação
+- Embarcação
+- Empresa de Navegação
+- Importação
+- Isenção de Taxas e Emolumentos
+- Moçambique.Colónia Portuguesa
+- Transporte de Mercadorias
+- Transporte de Passageiros
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:53Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +104,22 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam autorizadas as empresas a seguir indicadas a importar com isenção de direitos, de outras imposições aduaneiras e da taxa de emolumentos gerais as embarcações a que se referem as alíneas seguintes:
+Artigo 1.º Ficam autorizadas as empresas a seguir indicadas a importar com isenção de direitos, de outras imposições aduaneiras e da taxa de emolumentos gerais as embarcações a que se referem as alíneas seguintes:
 
 a) António Miguel Carvalho & C.ª, Lda. e Alberto Pancrácio Lopes, estabelecidas em Cabo Verde, uma embarcação de propulsão mecânica cada uma, de 186 t e 192 t de arqueação líquida, respectivamente, destinadas ao tráfego de carga e passageiros entre as ilhas do arquipélago;
 
 b) Schuurman & Van Ginneken e Companhia Moçambicana de Navegação, S. A. R. L., três embarcações de propulsão mecânica, Agnes, Carla e Doddy, de arqueação bruta inferior a 1000 t destinadas ao tráfego de carga e passageiros no rio Zambeze e um navio destinado a substituir o Angoche, para operações de cabotagem em Moçambique, respectivamente.
 
-###### Art. 2.º - 1. Fica autorizado o Ministro do Ultramar a conceder, mediante portaria, isenção de direitos, de outras imposições aduaneiras e da taxa de emolumentos gerais, devidos pela importação, nas províncias ultramarinas, de embarcações abrangidas pelas posições n.os 89.01 e 89.02 das respectivas pautas mínimas.
+Art. 2.º - 1. Fica autorizado o Ministro do Ultramar a conceder, mediante portaria, isenção de direitos, de outras imposições aduaneiras e da taxa de emolumentos gerais, devidos pela importação, nas províncias ultramarinas, de embarcações abrangidas pelas posições n.os 89.01 e 89.02 das respectivas pautas mínimas.
 
 2. As embarcações importadas nos termos do número anterior não poderão ser objecto de registo em qualquer capitania do continente ou das ilhas adjacentes sem que hajam sido satisfeitos todos os condicionalismos legalmente exigidos, incluindo o pagamento das imposições aduaneiras devidas como se fossem importadas em regime geral.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Rebelo de Sousa.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

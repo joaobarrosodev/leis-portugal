@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1970-146055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8983929cbeba0a319e67eb936bc9e512de014c142a1d026a3a14c5d79cea43f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bd6af8c5af0fb3d281cffebaf89946b1286168e6a6ecf014bd7a1d3819c30c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apostas Mútuas Desportivas
+- Bolsa de Estudos
+- Desporto
+- Lisboa
+- Metrópole
+- Moçambique
+- Santa Casa da Misericórdia
+- Totobola
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:09Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +111,9 @@ Tendo em atenção também o que foi representado pelos governos das províncias
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os antigos 14.º e 15.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Junho de 1961, passam a ter a seguinte redacção:
+Artigo 1.º Os antigos 14.º e 15.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Junho de 1961, passam a ter a seguinte redacção:
 
-###### Art. 14.º - 1. O produto líquido da exploração na metrópole, depois de deduzidos 7 por cento para a Santa Casa da Misericórdia de Lisboa, instituição à qual compete organizar e explorar os concursos de Apostas Mútuas Desportivas, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos, por um lado, e da assistência a diminuídos físicos, por outro lado.
+Art. 14.º - 1. O produto líquido da exploração na metrópole, depois de deduzidos 7 por cento para a Santa Casa da Misericórdia de Lisboa, instituição à qual compete organizar e explorar os concursos de Apostas Mútuas Desportivas, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos, por um lado, e da assistência a diminuídos físicos, por outro lado.
 
 2. O quinhão destinado ao fomento da educação física será distribuído pela forma seguinte:
 
@@ -116,7 +129,7 @@ a) 50 por cento, em portaria do Ministro da Saúde e Assistência, pelas Santas 
 
 b) 50 por cento para a Direcção-Geral da Assistência.
 
-###### Art. 15.º - 1. O produto líquido da exploração nas províncias ultramarinas, depois de efectuada a dedução fixada no n.º 1 do artigo 14.º, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos e à assistência a diminuídos físicos.
+Art. 15.º - 1. O produto líquido da exploração nas províncias ultramarinas, depois de efectuada a dedução fixada no n.º 1 do artigo 14.º, destinar-se-á, em partes iguais, ao fomento da educação física e dos desportos e à assistência a diminuídos físicos.
 
 2. O quinhão destinado ao fomento da educação física e desportos será distribuído pelo conselho provincial de educação física de cada província ultramarina, pela forma seguinte:
 
@@ -130,15 +143,15 @@ c) 10 por cento para o Fundo de Acção Social no Trabalho, para finalidades gim
 
 4. Poderá a Santa Casa da Misericórdia de Lisboa instalar nas províncias ultramarinas os serviços administrativos que forem necessários para a exploração das Apostas Mútuas Desportivas, em cooperação, sempre que for conveniente, com os organismos ou serviços que o Ministério do Ultramar indicar.
 
-###### Art. 2.º Na distribuição dos saldos relativa ao exercício económico do ano em curso observar-se-ão já as disposições deste decreto-lei.
+Art. 2.º Na distribuição dos saldos relativa ao exercício económico do ano em curso observar-se-ão já as disposições deste decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 4 de Dezembro de 1970.**
+Promulgado em 4 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 201/1981, 1º Suplemento, Série I de 1981-09-02
   number: '201'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2334-(3) a 2334-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20101/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-b-1981-158425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66feb5cdd8344d34d8db209c7c544c349c63132b9d243d29fa9c5e3ba02b4bb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b74b92bb30d77bb065a0fa58446bf9caa2e516c355820ddf9b3d9b7be3fbbbcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Código do Imposto Complementar
+- Contribuição Predial
+- Habitação
+- Imposto sobre a Indústria Agrícola
+- Imposto sobre Sucessões e Doações
+- Incentivos Fiscais
+- Indústria Agrícola
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614590:por
+  label: Alterado o nº 22º do art. 11º do Código da Sisa e do Imposto sobre Sucessões e Doações, aprovado pelo Dec Lei 41969
+    de 24-Nov de 1958, com a redacção do presente diploma, pelo DEC LEI.91/89.27.03.1989.MF, DR.IS [71] de 27.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-1989-614590
+  date: '1989-03-27'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:461593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:35Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +160,9 @@ Usando da autorização legislativa concedida pelo artigo 35.º da [Lei n.º 4/8
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, n.º 21.º, 15.º-B, 39.º-A e 131.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º, n.º 21.º, 15.º-B, 39.º-A e 131.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
-###### Art. 11.º Ficam isentos de sisa:
+Art. 11.º Ficam isentos de sisa:
 
 ...
 
@@ -128,13 +170,13 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 ...
 
-###### Art. 15.º-B. A isenção ou a redução da sisa, previstas, respectivamente, no artigo 11.º, n.º 21.º, e no artigo 39.º-A, só se efectivarão se as aquisições forem previamente participadas à repartição de finanças da área em que estiver situada a habitação a adquirir, mediante declaração de que conste ter o declarante aproveitado ou não, anteriormente, de idênticos benefícios, juntando-se-lhe, no caso afirmativo, documento comprovativo do pagamento da sisa que for devida por força do disposto no artigo 16.º-A.
+Art. 15.º-B. A isenção ou a redução da sisa, previstas, respectivamente, no artigo 11.º, n.º 21.º, e no artigo 39.º-A, só se efectivarão se as aquisições forem previamente participadas à repartição de finanças da área em que estiver situada a habitação a adquirir, mediante declaração de que conste ter o declarante aproveitado ou não, anteriormente, de idênticos benefícios, juntando-se-lhe, no caso afirmativo, documento comprovativo do pagamento da sisa que for devida por força do disposto no artigo 16.º-A.
 
 Tratando-se de redução da sisa nos termos do artigo 39.º-A, pela aquisição de que trata a regra 19.ª do § 3.º do artigo 19.º, o declarante deverá ainda juntar documento comprovativo do valor da avaliação efectuada pela respectiva instituição de crédito, para ficar arquivado.
 
 § único. ...
 
-###### Art. 39.º-A. Na aquisição de habitação para residência permanente do adquirente serão aplicadas as seguintes taxas:
+Art. 39.º-A. Na aquisição de habitação para residência permanente do adquirente serão aplicadas as seguintes taxas:
 
 a) De 4%, desde que o valor sobre que incida a sisa exceda 2750000$00, mas não ultrapasse 3500000$00;
 
@@ -144,21 +186,21 @@ c) De 8%, desde que o referido valor exceda 5000000$00, mas não ultrapasse 7000
 
 ...
 
-###### Art. 131.º Quando for devida sisa ou houver isenção desta nos termos do artigo 11.º, n.º 21.º, os notários e outros funcionários que desempenhem funções notariais não poderão lavrar as escrituras sem que lhes seja apresentado, respectivamente, o correspondente conhecimento para efeitos do artigo 62.º do Código do Notariado, ou o duplicado da declaração mencionada no artigo 15.º-B, bem como, nas aquisições a que se refere o n.º 21.º do artigo 11.º, quando sujeitas ao regime fixado na regra 19.ª do § 3.º do artigo 19.º, documento comprovativo do valor da avaliação efectuada pela respectiva instituição de crédito, os quais serão arquivados.
+Art. 131.º Quando for devida sisa ou houver isenção desta nos termos do artigo 11.º, n.º 21.º, os notários e outros funcionários que desempenhem funções notariais não poderão lavrar as escrituras sem que lhes seja apresentado, respectivamente, o correspondente conhecimento para efeitos do artigo 62.º do Código do Notariado, ou o duplicado da declaração mencionada no artigo 15.º-B, bem como, nas aquisições a que se refere o n.º 21.º do artigo 11.º, quando sujeitas ao regime fixado na regra 19.ª do § 3.º do artigo 19.º, documento comprovativo do valor da avaliação efectuada pela respectiva instituição de crédito, os quais serão arquivados.
 
 Caso se alegue extravio, os referidos documentos poderão ser substituídos, conforme os casos, por certidão do pagamento da sisa contendo o teor do termo da declaração prestada ou da guia apresentada para efeitos da liquidação, ou por certidão do teor da declaração entregue para efeitos da isenção.
 
-###### Art. 2.º O actual § único do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a § 1.º e é aditado o § 2.º, com a seguinte redacção:
+Art. 2.º O actual § único do artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a § 1.º e é aditado o § 2.º, com a seguinte redacção:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 § 1.º (A actual redacção do § único.)
 
 § 2.º O valor estabelecido no n.º 21.º será periodicamente actualizado por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas.
 
-###### Art. 3.º São aditados a regra 19.º do § 3.º do artigo 19.º e o § único do artigo 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a seguinte redacção:
+Art. 3.º São aditados a regra 19.º do § 3.º do artigo 19.º e o § único do artigo 39.º-A do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a seguinte redacção:
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § 3.º ...
 
@@ -166,13 +208,13 @@ Caso se alegue extravio, os referidos documentos poderão ser substituídos, con
 
 ...
 
-###### Art. 39.º-A ...
+Art. 39.º-A ...
 
 § único. Os valores fixados neste artigo serão periodicamente actualizados por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas.
 
-###### Art. 4.º Os n.os 7.º e 8.º e os §§ 3.º e 4.º do artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
+Art. 4.º Os n.os 7.º e 8.º e os §§ 3.º e 4.º do artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 7.º Os rendimentos dos prédios urbanos adquiridos ou construídos para residência permanente dos seus proprietários:
 
@@ -202,9 +244,9 @@ A prova dessa situação será feita com a junção ao processo da pública-form
 
 § 4.º Se os prédios referidos nos n.os 7.º e 8.º deixarem de ser utilizados para residência permanente do proprietário ou do seu agregado familiar durante o período da isenção, esta caducará, sem prejuízo, em qualquer caso, de outra isenção a que tenha direito.
 
-###### Art. 5.º São aditados ao artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola um n.º 9.º e os §§ 5.º, 6.º e 7.º, com a seguinte redacção:
+Art. 5.º São aditados ao artigo 12.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola um n.º 9.º e os §§ 5.º, 6.º e 7.º, com a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 9.º Os rendimentos resultantes de arrendamentos em regime de renda condicionada, estabelecido no [Decreto-Lei n.º 148/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1981-574334), de 4 de Junho, pelo período de cinco anos contado a partir da data da celebração do contrato de arrendamento.
 
@@ -230,9 +272,9 @@ c) Se durante o período da isenção cessar o regime da renda condicionada, apl
 
 § 7.º Os limites do rendimento colectável estabelecidos nas alíneas a), b) e c) do n.º 7.º serão periodicamente actualizados por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas.
 
-###### Art. 6.º As alíneas c), d) e e) do n.º 1.º do artigo 8.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+Art. 6.º As alíneas c), d) e e) do n.º 1.º do artigo 8.º do Código do Imposto Complementar passam a ter a seguinte redacção:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 1.º ...
 
@@ -244,14 +286,14 @@ e) Os rendimentos dos empreiteiros ou arrematantes, nacionais ou estrangeiros, r
 
 ...
 
-###### Art. 7.º Mantém-se em vigor o disposto no artigo 1.º do [Decreto-Lei n.º 131/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1981-574693), de 28 de Maio, na parte não abrangida pelo presente diploma.
+Art. 7.º Mantém-se em vigor o disposto no artigo 1.º do [Decreto-Lei n.º 131/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1981-574693), de 28 de Maio, na parte não abrangida pelo presente diploma.
 
-###### Art. 8.º É revogado o artigo 12.º do [Decreto-Lei n.º 148/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1981-574334), de 4 de Junho.
+Art. 8.º É revogado o artigo 12.º do [Decreto-Lei n.º 148/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1981-574334), de 4 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Agosto de 1981.**
+Promulgado em 29 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/111-1971-445880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 884ab988313435a581af8cb8068456b6ca2a954e4bc2082a882a71843ef5f248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43fef6c7826c74b9b1681eb287fc3b6bfb56671aec8c4bd01f5aee7576b95fd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:597332:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:43Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ de 29 de Março
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreto e eu promulgo o seguinte:
 
-###### Artigo único. As disposições do [Decreto n.º 38676](https://diariodarepublica.pt/dr/detalhe/decreto/38676-1952-597332), de 14 de Março de 1952, abaixo indicadas passam a ter a seguinte redacção:
+Artigo único. As disposições do [Decreto n.º 38676](https://diariodarepublica.pt/dr/detalhe/decreto/38676-1952-597332), de 14 de Março de 1952, abaixo indicadas passam a ter a seguinte redacção:
 
-###### Art. 2.º As insígnias da medalha do porto de Lisboa serão constituídas, conforme os desenhos anexos, por:
+Art. 2.º As insígnias da medalha do porto de Lisboa serão constituídas, conforme os desenhos anexos, por:
 
 a) Medalha. - De forma circular, com 40 mm de diâmetro, de ouro, prata ou cobre, conforme os graus. Apresentará no anverso uma figura alegórica da instituição e no reverso a figuração do quadro geográfico do porto de Lisboa, compreendendo a Torre de Belém, em evidência, como símbolo do porto, e a evocação das suas actividades passadas e presentes, com lugar apropriado para a legenda indicativa do fundamento da atribuição, conforme os graus.
 
@@ -103,16 +107,16 @@ d) Caixilho. - Rectangular, formando um quadro com a espessura uniforme de 3 mm 
 
 ...
 
-###### Art. 4.º O uso da medalha ou da miniatura será reservado para actos oficiais e solenidades. Os agraciados, quando fardados, usarão o caixilho e, quando enverguem trajos civis, a respectiva roseta.
+Art. 4.º O uso da medalha ou da miniatura será reservado para actos oficiais e solenidades. Os agraciados, quando fardados, usarão o caixilho e, quando enverguem trajos civis, a respectiva roseta.
 
 Marcello Caetano - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/03/07400/04290430.pdf))](https://files.diariodarepublica.pt/1s/1971/03/07400/04290430.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/03/07400/04290430.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

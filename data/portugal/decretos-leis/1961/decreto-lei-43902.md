@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/09/20900/11621163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43902-1961-181376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68edfaca6dd28f6a57f886ace162959fb019de7376de77d205bcfd5ac00bff30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 871954bef7d74c42dfdb13f93209817eec75303ca8667685950ae558237c08a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mediação de Imóveis
 relationships:
 - type: amended_by
   target: pt:dre:623856:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172905:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:412221:por
+  label: "Revogado, no que se refere ao exercício da actividade comercial de mediação na realização de empréstimos com garantia\
+    \ hipotecária, pelo DEC LEI.119/74.23.03.1974.MF, DG.IS [70] de 23.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1974-412221
+  date: '1974-03-23'
+- type: repealed_by
+  target: pt:dre:623856:por
+  label: "Revogado pelo DEC LEI.285/92.19.12.1992.MOPTC, DR.IS-A [292] de 19.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1992-623856
+  date: '1992-12-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:16Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As pessoas singulares e as sociedades que forem autorizadas a exercer a actividade comercial referida no artigo 1.º do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, prestarão, no prazo de 30 dias, a contar da data da publicação no Diário do Governo da respectiva portaria, uma caução nos termos seguintes:
+Artigo 1.º As pessoas singulares e as sociedades que forem autorizadas a exercer a actividade comercial referida no artigo 1.º do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, prestarão, no prazo de 30 dias, a contar da data da publicação no Diário do Governo da respectiva portaria, uma caução nos termos seguintes:
 
 1.º Quando tiverem a sua sede ou estabelecimento principal em Lisboa ou no Porto a caução será de 100000$00 para as pessoas singulares; 150000$00 para as sociedades em nome colectivo, em comandita simples ou por quotas, e 250000$00 para as sociedades anónimas ou em comandita por acções;
 
@@ -110,32 +126,32 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6.º As cauções em títulos da dívida pública serão aceites com a margem de 10 por cento abaixo das cotações na Bolsa de Lisboa à data em que forem solicitadas à Inspecção-Geral de Crédito e Seguros as guias para o respectivo depósito.
 
-###### Art. 2.º As cauções referidas no artigo anterior respondem pelas penalidades que sejam aplicadas aos respectivos titulares, bem como pelo pagamento da quota de fiscalização referida no artigo 4.º e por quaisquer prejuízos causados ao Estado, devendo ser integralizadas sempre que para tais fins sejam utilizadas.
+Art. 2.º As cauções referidas no artigo anterior respondem pelas penalidades que sejam aplicadas aos respectivos titulares, bem como pelo pagamento da quota de fiscalização referida no artigo 4.º e por quaisquer prejuízos causados ao Estado, devendo ser integralizadas sempre que para tais fins sejam utilizadas.
 
-###### Art. 3.º Serão retiradas as respectivas autorizações às pessoas singulares ou colectivas que não prestarem, no prazo e nos termos deste diploma, as cauções que lhes são exigidas.
+Art. 3.º Serão retiradas as respectivas autorizações às pessoas singulares ou colectivas que não prestarem, no prazo e nos termos deste diploma, as cauções que lhes são exigidas.
 
-###### Art. 4.º As pessoas singulares e as sociedades referidas no artigo 1.º contribuirão para as despesas da fiscalização estabelecida no artigo 7.º do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, com uma quota anual calculada por uma taxa que incidirá sobre a importância total das comissões cobradas dos respectivos clientes.
+Art. 4.º As pessoas singulares e as sociedades referidas no artigo 1.º contribuirão para as despesas da fiscalização estabelecida no artigo 7.º do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, com uma quota anual calculada por uma taxa que incidirá sobre a importância total das comissões cobradas dos respectivos clientes.
 
 § único. A taxa será fixada em portaria do Ministro das Finanças e não poderá exceder 2 por cento. Em nenhum caso, porém, se liquidará como quota anual importância inferior a 500$00.
 
-###### Art. 5.º A liquidação e cobrança da quota referida no artigo anterior serão efectuadas pela Inspecção-Geral de Crédito e Seguros durante o mês de Abril.
+Art. 5.º A liquidação e cobrança da quota referida no artigo anterior serão efectuadas pela Inspecção-Geral de Crédito e Seguros durante o mês de Abril.
 
 § 1.º Para efeitos do disposto neste artigo, as pessoas singulares e as sociedades referidas no artigo 1.º apresentarão na mesma Inspecção-Geral, até 15 de Março, declaração da importância total das comissões cobradas no ano anterior.
 
 § 2.º Liquidada a quota que compete a cada pessoa singular ou sociedade, serão estas notificadas para realizarem o respectivo pagamento no prazo de 30 dias, a contar da notificação, para o que deverão solicitar da Inspecção-Geral de Crédito e Seguros as competentes guias.
 
-###### Art. 6.º Os interessados poderão reclamar para o Ministro das Finanças contra a liquidação a que se refere o artigo 5.º
+Art. 6.º Os interessados poderão reclamar para o Ministro das Finanças contra a liquidação a que se refere o artigo 5.º
 
 § 1.º As reclamações serão apresentadas dentro do prazo de dez dias, a contar da notificação a que se refere o § 2.º do artigo 5.º, na Inspecção-Geral de Crédito e Seguros ou nas suas delegações.
 
 § 2.º Se for interposta reclamação, o prazo de 30 dias para o pagamento contar-se-á da data em que for notificada a resolução do Ministro.
 
-###### Art. 7.º Findo o prazo referido no § 2.º do artigo 5.º, será a cobrança realizada pela utilização da caução, na importância necessária, de acordo com o disposto no artigo 2.º
+Art. 7.º Findo o prazo referido no § 2.º do artigo 5.º, será a cobrança realizada pela utilização da caução, na importância necessária, de acordo com o disposto no artigo 2.º
 
-###### Art. 8.º A importância das quotas de fiscalização liquidadas nos termos deste diploma dará entrada no Tesouro e será escriturada no capítulo 8.º «Consignação de receitas», grupo «Despesas com o funcionalismo», rubrica «Fiscalização da actividade comercial referida no [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961».
+Art. 8.º A importância das quotas de fiscalização liquidadas nos termos deste diploma dará entrada no Tesouro e será escriturada no capítulo 8.º «Consignação de receitas», grupo «Despesas com o funcionalismo», rubrica «Fiscalização da actividade comercial referida no [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961».
 
-###### Art. 9.º As transgressões às disposições deste diploma são puníveis nos termos dos artigos 9.º e 10.º do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961.
+Art. 9.º As transgressões às disposições deste diploma são puníveis nos termos dos artigos 9.º e 10.º do [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

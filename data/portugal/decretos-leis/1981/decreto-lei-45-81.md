@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05700/06620662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1981-388406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6ff4a88b490ed4f786c26c34416ed2966f868a7a99d2e2d4b78ae491bc184ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e5f43cb56af27cef4e2850a42fd203a46e44fe0552abe52c5d237baa39937e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Pessoal Civil
+- Recenseamento
+- Recenseamento Militar
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:226592:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:29Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +108,16 @@ Tornando-se necessário, de acordo com o disposto no artigo 17.º do [Decreto-Le
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Compete ao Estado-Maior-General das Forças Armadas, aos Estados-Maiores do Exército e da Força Aérea e à Marinha, através dos respectivos departamentos de administração de pessoal, promover a execução das acções relativas ao recenseamento dos militares e do pessoal civil das forças armadas que, no momento censitário, por razões da vida em convivência ou de serviço, se encontrem a bordo dos navios da Armada ou presentes em quaisquer unidades ou estabelecimentos militares e, ainda, daqueles que se encontrem a residir, com ou sem família, em residências ou dependências situadas no interior de quaisquer instalações militares.
+Artigo 1.º Compete ao Estado-Maior-General das Forças Armadas, aos Estados-Maiores do Exército e da Força Aérea e à Marinha, através dos respectivos departamentos de administração de pessoal, promover a execução das acções relativas ao recenseamento dos militares e do pessoal civil das forças armadas que, no momento censitário, por razões da vida em convivência ou de serviço, se encontrem a bordo dos navios da Armada ou presentes em quaisquer unidades ou estabelecimentos militares e, ainda, daqueles que se encontrem a residir, com ou sem família, em residências ou dependências situadas no interior de quaisquer instalações militares.
 
-###### Art. 2.º Os procedimentos decorrentes do prescrito no artigo anterior são regulados por despacho normativo conjunto dos Chefes dos Estados-Maiores.
+Art. 2.º Os procedimentos decorrentes do prescrito no artigo anterior são regulados por despacho normativo conjunto dos Chefes dos Estados-Maiores.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 25 de Fevereiro de 1981.
 
-**Promulgado em 25 de Fevereiro de 1981.**
+Promulgado em 25 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

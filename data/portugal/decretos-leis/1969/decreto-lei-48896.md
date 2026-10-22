@@ -50,36 +50,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48896-1969-525260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aaba39b678d0c5ec49deabb7cf22376689eed3c4199912fd72992de89ce49c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3e441e562f826aab51461bfb66d1f842da94753f4444b47349e095f477af348
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Expropriação
+- Portugal
+- Recursos Hídricos
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:537056:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:40Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +113,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. - 1. São tornadas extensivas à execução do aproveitamento hidroeléctrico do rio Salas, com a criação da albufeira de armazenamento até à cota (835,00), referida ao nivelamento de precisão de Portugal, as disposições aplicáveis do Convénio entre Portugal e Espanha para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, de 16 de Julho de 1964, aprovado pelo [Decreto-Lei n.º 45991](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45991-1964-537056), de 23 de Outubro do mesmo ano.
+Artigo único. - 1. São tornadas extensivas à execução do aproveitamento hidroeléctrico do rio Salas, com a criação da albufeira de armazenamento até à cota (835,00), referida ao nivelamento de precisão de Portugal, as disposições aplicáveis do Convénio entre Portugal e Espanha para Regular o Aproveitamento Hidroeléctrico dos Troços Internacionais do Rio Douro e dos Seus Afluentes, de 16 de Julho de 1964, aprovado pelo [Decreto-Lei n.º 45991](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45991-1964-537056), de 23 de Outubro do mesmo ano.
 
 2. Nos termos e para os fins do disposto nos artigos 6.º e 7.º do referido Convénio, são declaradas de urgente utilidade pública as expropriações necessárias para a realização das obras que tenham de ser construídas em território português.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches.
 
-**Promulgado em 21 de Fevereiro de 1969.**
+Promulgado em 21 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

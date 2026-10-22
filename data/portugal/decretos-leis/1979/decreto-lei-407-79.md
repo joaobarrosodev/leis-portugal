@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1979-365516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 979771dd3bc011c745482d346866516e2d3ef7165c3f13d1e2d0f13fa2ebdd3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dca107a99901ae90ae6c3de84b132d0f7626d3e87e4f2a9116db2343254371f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fiscalização
+- Gabinete da Área de Sines
+- Medicina do Trabalho
+- Multa
+- Saúde no Trabalho
+relationships:
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643342:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:12Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +123,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As empresas industriais já instaladas ou que venham a instalar-se com carácter transitório na zona de actuação directa do Gabinete da Área de Sines, desde que estejam obrigadas a cumprir o regime geral da lei sobre serviços de medicina do trabalho, poderão fazê-lo por adesão voluntária ao Centro de Medicina do Trabalho da Área de Sines (Cemetra) ou a quaisquer outras associações livres de empresas com a mesma finalidade, dessa área, independentemente do número dos seus trabalhadores.
+Artigo 1.º - 1 - As empresas industriais já instaladas ou que venham a instalar-se com carácter transitório na zona de actuação directa do Gabinete da Área de Sines, desde que estejam obrigadas a cumprir o regime geral da lei sobre serviços de medicina do trabalho, poderão fazê-lo por adesão voluntária ao Centro de Medicina do Trabalho da Área de Sines (Cemetra) ou a quaisquer outras associações livres de empresas com a mesma finalidade, dessa área, independentemente do número dos seus trabalhadores.
 
 2 - As empresas industriais já instaladas ou que venham a instalar-se com carácter definitivo na zona de actuação directa do Gabinete da Área de Sines com menos de duzentos trabalhadores e que estejam obrigadas a cumprir o regime geral da lei sobre serviços de medicina do trabalho poderão fazê-lo por adesão voluntária ao Centro de Medicina do Trabalho da Área de Sines (Cemetra) ou a quaisquer outras associações livres de empresas com a mesma finalidade, dessa área.
 
@@ -110,20 +135,20 @@ Estas autorizações serão regulamentadas por despacho conjunto dos Secretário
 
 5 - As empresas comerciais ou de serviços, ainda não abrangidas pela legislação geral sobre medicina do trabalho situadas na área de Sines poderão aderir ao Centro de Medicina do Trabalho da Área de Sines ou a quaisquer outras associações livres de empresas com a mesma finalidade, dessa área, se o desejarem fazer.
 
-###### Art. 2.º Para efeitos deste diploma entende-se por área de Sines a zona de actuação directa do Gabinete da Área de Sines, que se encontra definida geograficamente no [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho.
+Art. 2.º Para efeitos deste diploma entende-se por área de Sines a zona de actuação directa do Gabinete da Área de Sines, que se encontra definida geograficamente no [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho.
 
-###### Art. 3.º Às infracções cometidas por inobservância deste diploma aplicar-se-ão as multas fixadas nos termos do artigo 5.º do [Decreto-Lei n.º 47511](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47511-1967-500697), de 25 de Janeiro de 1967, elevando para o dobro os seus montantes, de acordo com o disposto no [Decreto-Lei n.º 667/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/667-1976-430006), de 5 de Agosto.
+Art. 3.º Às infracções cometidas por inobservância deste diploma aplicar-se-ão as multas fixadas nos termos do artigo 5.º do [Decreto-Lei n.º 47511](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47511-1967-500697), de 25 de Janeiro de 1967, elevando para o dobro os seus montantes, de acordo com o disposto no [Decreto-Lei n.º 667/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/667-1976-430006), de 5 de Agosto.
 
 A tramitação dos competentes autos de notícia será a indicada no § único do artigo 6.º do decreto-lei acima mencionado, devendo a referência ao artigo 25.º do [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948, ser substituída pela menção ao artigo 25.º do [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março.
 
-###### Art. 4.º Caberá à Direcção-Geral de Saúde e à Inspecção do Trabalho, dentro da esfera das respectivas atribuições, garantir o cumprimento do preceituado neste decreto-lei, nomeadamente na coordenação, orientação e fiscalização dos serviços médicos do trabalho da área de Sines.
+Art. 4.º Caberá à Direcção-Geral de Saúde e à Inspecção do Trabalho, dentro da esfera das respectivas atribuições, garantir o cumprimento do preceituado neste decreto-lei, nomeadamente na coordenação, orientação e fiscalização dos serviços médicos do trabalho da área de Sines.
 
-###### Art. 5.º O estipulado no presente diploma, que entra imediatamente em vigor, cessará logo que seja revista, oportunamente, a legislação sobre o regime dos serviços de medicina do trabalho nas empresas, sem prejuízo de ressalvas que a mesma entenda prosseguir.
+Art. 5.º O estipulado no presente diploma, que entra imediatamente em vigor, cessará logo que seja revista, oportunamente, a legislação sobre o regime dos serviços de medicina do trabalho nas empresas, sem prejuízo de ressalvas que a mesma entenda prosseguir.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Eusébio Marques de Carvalho - Acácio Manuel Pereira Magro - João Orlindo Almeida Pina.
 
-**Promulgado em 6 de Setembro de 1979.**
+Promulgado em 6 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

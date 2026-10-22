@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/629-1973-412023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec17f83344539d066fdd657152d68feca0146ab57da5e4b76c707a26c111f649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f192aef1a4b774293cde970c7ff775be7e7ad45073c2cfcb472cab07dd6b1d80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Ensino
+- Estudante
+- Matrícula
+- Ministério da Educação Nacional
+- Universidade
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:27Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 10.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Poderá ser recusada a matrícula ou a inscrição aos alunos dos estabelecimentos de ensino dependentes do Ministério da Educação Nacional que, pelo procedimento anterior, sejam justificadamente considerados como prejudiciais à disciplina dos estabelecimentos.
+Artigo 1.º - 1. Poderá ser recusada a matrícula ou a inscrição aos alunos dos estabelecimentos de ensino dependentes do Ministério da Educação Nacional que, pelo procedimento anterior, sejam justificadamente considerados como prejudiciais à disciplina dos estabelecimentos.
 
 2. A recusa de matrícula compete:
 
@@ -105,7 +110,7 @@ b) Aos dirigentes dos demais estabelecimentos de ensino, que poderão ouvir os r
 
 3. O disposto no n.º 1 não se aplica à primeira matrícula ou inscrição em cada estabelecimento de ensino.
 
-###### Art. 2.º - 1. A decisão de recusa de matrícula ou inscrição será sempre fundamentada e notificada ao aluno dentro de trinta dias, contados a partir do termo do prazo fixado para as matrículas ou inscrições.
+Art. 2.º - 1. A decisão de recusa de matrícula ou inscrição será sempre fundamentada e notificada ao aluno dentro de trinta dias, contados a partir do termo do prazo fixado para as matrículas ou inscrições.
 
 2. O aluno a quem seja recusada a matrícula ou inscrição terá o prazo de dez dias, contado da recepção da notificação, para se matricular ou inscrever noutro estabelecimento de ensino.
 
@@ -113,16 +118,16 @@ b) Aos dirigentes dos demais estabelecimentos de ensino, que poderão ouvir os r
 
 4. O recurso referido no número anterior terá efeito meramente devolutivo, mas suspenderá o decurso do prazo referido no n.º 2.
 
-###### Art. 3.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
+Art. 3.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
 
-###### Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 14 de Novembro de 1973.**
+Promulgado em 14 de Novembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

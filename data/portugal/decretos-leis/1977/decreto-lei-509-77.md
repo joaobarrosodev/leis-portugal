@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28700/29242924.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1977-279588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 520f859ea43dbf383751992428a6a5056573f18242c8d655102fa18c28647b59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78d8ff9eac0689982c3b019ee33569caa16a77fad0c116682f52beb9e5473697
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fruto
+- Mercado Abastecedor
+- Porto
+- Produto Hortícola
 relationships:
 - type: amended_by
   target: pt:dre:218931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431265:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218931:por
+  label: "Revogado pelo DEC LEI.222/86.08.08.1986.MIC, DR.IS [181] de 08.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1986-218931
+  date: '1986-08-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:35Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +121,24 @@ Considerando, consequentemente, que se mostra indispensável estabelecer, desde 
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para os efeitos do disposto nos Decretos-Leis n.os [500/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1976-431264) e [501/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1976-431265), ambos de 29 de Junho, é considerado mercado abastecedor de frutas e produtos hortícolas o mercado abastecedor de Chaves de Oliveira, que substituirá os mercados de Ferreira Borges e de Sidónio Pais, no Porto.
+Artigo 1.º - 1 - Para os efeitos do disposto nos Decretos-Leis n.os [500/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1976-431264) e [501/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1976-431265), ambos de 29 de Junho, é considerado mercado abastecedor de frutas e produtos hortícolas o mercado abastecedor de Chaves de Oliveira, que substituirá os mercados de Ferreira Borges e de Sidónio Pais, no Porto.
 
 2 - Por despacho dos Ministros da Administração Interna e do Comércio e Turismo será aprovado o regulamento interno do novo mercado e fixada a data do início do seu funcionamento.
 
 3 - Em portaria conjunta dos Ministros da Administração Interna e do Comércio e Turismo, ouvidos os municípios directamente interessados, serão estabelecidas as taxas correspondentes às várias formas de utilização dos serviços dos mercados.
 
-###### Art. 2.º - 1 - Cabe à Junta Nacional das Frutas superintender na actividade do mercado abastecedor a que se refere este diploma.
+Art. 2.º - 1 - Cabe à Junta Nacional das Frutas superintender na actividade do mercado abastecedor a que se refere este diploma.
 
 2 - O recrutamento do pessoal técnico, administrativo e auxiliar do mercado abastecedor será feito pela Junta Nacional das Frutas, em conformidade com o disposto no [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936.
 
-###### Art. 3.º Por portaria do Ministro do Comércio e Turismo será definida uma zona de protecção para o mercado abastecedor de Chaves de Oliveira, no interior da qual não será permitida a realização de transacções por grosso de frutas e produtos hortícolas.
+Art. 3.º Por portaria do Ministro do Comércio e Turismo será definida uma zona de protecção para o mercado abastecedor de Chaves de Oliveira, no interior da qual não será permitida a realização de transacções por grosso de frutas e produtos hortícolas.
 
-###### Art. 4.º É revogado o artigo 29.º do regulamento anexo ao [Decreto-Lei n.º 501/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1976-431265).
+Art. 4.º É revogado o artigo 29.º do regulamento anexo ao [Decreto-Lei n.º 501/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1976-431265).
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 30 de Novembro de 1977.**
+Promulgado em 30 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

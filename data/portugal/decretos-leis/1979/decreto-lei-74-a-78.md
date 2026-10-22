@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 80/1979, 1º Suplemento, Série I de 1979-04-05
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 566-(1) a 566-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08001/00010002.pdf
 entry_into_force_dates: []
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-1979-172914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6747dd8c0deaed4afe3ddc70a82f55b8ddea4718228b4bbdc1226b9c73435eef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f85ef2733bb8e7c920d20576aed28edcc34b2a616165d5b034f20a7d9dbda54e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Técnica para a Integração Europeia
+- Delegação Permanente de Portugal Junto da OCDE
+- Ministério dos Negócios Estrangeiros
+- OCDE
+- Orgânica
+- Rectificação de Numero de Diploma
+- Secretariado para a Cooperação Económica e Técnica Externa
+relationships:
+- type: cites
+  target: pt:dre:336541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:27Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +119,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A representação de Portugal junto da Organização de Cooperação e Desenvolvimento Económico (OCDE) é assegurada por uma Delegação Permanente, a que compete, no âmbito daquela representação:
+Artigo 1.º A representação de Portugal junto da Organização de Cooperação e Desenvolvimento Económico (OCDE) é assegurada por uma Delegação Permanente, a que compete, no âmbito daquela representação:
 
 a) Promover e realizar os estudos e trabalhos necessários à mesma representação;
 
@@ -110,11 +129,11 @@ c) Assegurar a comparticipação técnica portuguesa nos trabalhos da mesma repr
 
 d) Executar todo o expediente relativo à representação de que está incumbida.
 
-###### Art. 2.º A Delegação terá a composição que lhe for determinada por portaria do Ministro de que dependa o Secretariado, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública e será chefiada pelo representante de Portugal junto da OCDE, nomeado em conformidade com o § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
+Art. 2.º A Delegação terá a composição que lhe for determinada por portaria do Ministro de que dependa o Secretariado, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública e será chefiada pelo representante de Portugal junto da OCDE, nomeado em conformidade com o § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
 
-###### Art. 3.º Compete ao chefe da Delegação junto da OCDE o desempenho das funções atribuídas pelo artigo 69.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, aos chefes das missões diplomáticas, na parte correspondente à competência estabelecida no artigo 1.º do presente decreto-lei.
+Art. 3.º Compete ao chefe da Delegação junto da OCDE o desempenho das funções atribuídas pelo artigo 69.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, aos chefes das missões diplomáticas, na parte correspondente à competência estabelecida no artigo 1.º do presente decreto-lei.
 
-###### Art. 4.º Sem prejuízo de nomeação de delegados ou peritos especiais, sempre que a natureza dos assuntos a tratar o exija, a delegação deverá ser composta por membros permanentes especialmente qualificados nas seguintes matérias:
+Art. 4.º Sem prejuízo de nomeação de delegados ou peritos especiais, sempre que a natureza dos assuntos a tratar o exija, a delegação deverá ser composta por membros permanentes especialmente qualificados nas seguintes matérias:
 
 a) Análise económica e informação estatística;
 
@@ -126,34 +145,34 @@ d) Energia, indústria e desenvolvimento tecnológico;
 
 e) Transporte e urbanismo.
 
-###### Art. 5.º - Os membros permanentes da Delegação são nomeados por despacho conjunto do Ministro de que dependa o Secretariado e do Ministro que superintenda nas matérias definidas no artigo 4.º, sobre proposta do chefe da Delegação, em comissão de serviço de três anos, expressamente renovável por igual período.
+Art. 5.º - Os membros permanentes da Delegação são nomeados por despacho conjunto do Ministro de que dependa o Secretariado e do Ministro que superintenda nas matérias definidas no artigo 4.º, sobre proposta do chefe da Delegação, em comissão de serviço de três anos, expressamente renovável por igual período.
 
-###### Art. 6.º A Delegação disporá do pessoal administrativo e auxiliar estabelecido na portaria prevista no artigo 2.º do presente decreto-lei, que será nomeada por despacho do Ministro de que dependa o Secretariado, nos termos da legislação e demais condições aplicáveis ao pessoal de igual categoria em serviço na Embaixada de Portugal em Paris.
+Art. 6.º A Delegação disporá do pessoal administrativo e auxiliar estabelecido na portaria prevista no artigo 2.º do presente decreto-lei, que será nomeada por despacho do Ministro de que dependa o Secretariado, nos termos da legislação e demais condições aplicáveis ao pessoal de igual categoria em serviço na Embaixada de Portugal em Paris.
 
-###### Art. 7.º Quando as nomeações dos membros permanentes da Delegação recaírem em funcionários públicos, não se consideram abertas vagas nos quadros de origem dos funcionários, podendo, no entanto, os respectivos lugares ser preenchidos interinamente.
+Art. 7.º Quando as nomeações dos membros permanentes da Delegação recaírem em funcionários públicos, não se consideram abertas vagas nos quadros de origem dos funcionários, podendo, no entanto, os respectivos lugares ser preenchidos interinamente.
 
-###### Art. 8.º Os membros permanentes da Delegação poderão também ser requisitados a quaisquer serviços públicos, empresas públicas ou nacionalizadas, por simples despacho do Primeiro-Ministro, precedendo a sua nomeação nos termos do artigo 5.º
+Art. 8.º Os membros permanentes da Delegação poderão também ser requisitados a quaisquer serviços públicos, empresas públicas ou nacionalizadas, por simples despacho do Primeiro-Ministro, precedendo a sua nomeação nos termos do artigo 5.º
 
-###### Art. 9.º O tempo de serviço prestado na Delegação considera-se para todos os efeitos legais como efectuado no quadro de origem.
+Art. 9.º O tempo de serviço prestado na Delegação considera-se para todos os efeitos legais como efectuado no quadro de origem.
 
-###### Art. 10.º As despesas com a Delegação serão satisfeitas pelas verbas inscritas no orçamento do Ministério de que dependa o Secretariado, em orçamento próprio da Delegação; no ano económico em curso, as dotações inscritas naquele orçamento para o Secretariado suportarão os encargos inerentes ao funcionamento da Delegação.
+Art. 10.º As despesas com a Delegação serão satisfeitas pelas verbas inscritas no orçamento do Ministério de que dependa o Secretariado, em orçamento próprio da Delegação; no ano económico em curso, as dotações inscritas naquele orçamento para o Secretariado suportarão os encargos inerentes ao funcionamento da Delegação.
 
-###### Art. 11.º São o Ministro de que dependa o Secretariado e o Ministro das Finanças e do Plano autorizados a afectar à Delegação, mediante despacho conjunto e sobre proposta fundamentada do seu chefe, uma verba permanente da importância que for julgada necessária.
+Art. 11.º São o Ministro de que dependa o Secretariado e o Ministro das Finanças e do Plano autorizados a afectar à Delegação, mediante despacho conjunto e sobre proposta fundamentada do seu chefe, uma verba permanente da importância que for julgada necessária.
 
-###### Art. 12.º A Delegação corresponder-se-á para troca de informações, sobre tudo o que diga respeito às relações de Portugal com a OCDE e ao acompanhamento das respectivas actividades, através dos serviços competentes do Ministério de que dependa o Secretariado.
+Art. 12.º A Delegação corresponder-se-á para troca de informações, sobre tudo o que diga respeito às relações de Portugal com a OCDE e ao acompanhamento das respectivas actividades, através dos serviços competentes do Ministério de que dependa o Secretariado.
 
-###### Art. 13.º A Delegação promoverá o envio de informação e documentação técnica directamente aos Ministérios que superintendem nas matérias definidas no artigo 4.º, remetendo, igualmente, aquela informação e documentação técnica ao Secretariado.
+Art. 13.º A Delegação promoverá o envio de informação e documentação técnica directamente aos Ministérios que superintendem nas matérias definidas no artigo 4.º, remetendo, igualmente, aquela informação e documentação técnica ao Secretariado.
 
-###### Art. 14.º As despesas com as deslocações de delegados eventuais para participar nas actividades da OCDE correrão pelo orçamento do Ministério de que dependa o Secretariado.
+Art. 14.º As despesas com as deslocações de delegados eventuais para participar nas actividades da OCDE correrão pelo orçamento do Ministério de que dependa o Secretariado.
 
-###### Art. 15.º Os membros da Delegação que à data da publicação do presente diploma nela tiverem completado três anos de serviço regressarão aos quadros de origem, tratando-se de funcionários públicos, e não o sendo, passarão a exercer funções correspondentes no Ministério dos Negócios Estrangeiros, como contratados além do quadro se, no prazo de noventa dias, não for iniciada comissão de serviço nos termos do artigo 5.º
+Art. 15.º Os membros da Delegação que à data da publicação do presente diploma nela tiverem completado três anos de serviço regressarão aos quadros de origem, tratando-se de funcionários públicos, e não o sendo, passarão a exercer funções correspondentes no Ministério dos Negócios Estrangeiros, como contratados além do quadro se, no prazo de noventa dias, não for iniciada comissão de serviço nos termos do artigo 5.º
 
-###### Art. 16.º Este diploma entra em vigor na data da sua publicação.
+Art. 16.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1979. - Carlos Alberto da Mota Pinto - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 2 de Abril de 1979.**
+Promulgado em 2 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

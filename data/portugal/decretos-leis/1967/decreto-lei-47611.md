@@ -53,40 +53,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47611-1967-509406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e144b26b3decab80f16ed13af1e864e6f31ea8570cc0d8a6ccdb434e4cf330af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39217a4a3926430be42755512e7e6612795f35e205401bc32e67336d5913be77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Registo Predial
+- Emolumento
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:591313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200811:por
+  label: "Alterados os arts. 29º, 34º, 38º, 45º, 46º, 47º, 48º, 52º, 54º, 58º, 78º, 93º, 149º, 152º, 158º, 168º, 181º, 191º,\
+    \ 200º, 201º, 262º, 266º, 267º, 271º e 272º do Código do Registo Predial, bem como os arts. 10º, 12º e 19º da tabela de\
+    \ emolumentos anexa ao mesmo e revogado o art. 284º do Código do Registo Predial, aprovado pelo presente diploma, pelo\
+    \ DEC LEI.49053.12.06.1969.MJ, DG.IS [137] de 12.06.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49053-1969-200811
+  date: '1969-06-12'
+- type: amended_by
+  target: pt:dre:448532:por
+  label: "Substituída a tabela de emolumentos pelo DEC LEI.31/78.09.02.1978.MJ, DR.IS [33] de 09.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1978-448532
+  date: '1978-02-09'
+- type: cites
+  target: pt:dre:154874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:591313:por
+  label: "Revogado o Código, a partir de 01.10.1984, com as subsequentes alterações, pelo DEC LEI.224/84.06.07.1984.MJ, DR.IS\
+    \ [155-Supl] de 06.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1984-591313
+  date: '1984-07-06'
 article_structure:
-  article_count: 289
+  article_count: 288
   section_count: 49
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:38Z'
   warnings: []
   errors: []
 ---
@@ -95,25 +153,25 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Registo Predial, que faz parte do presente diploma e segue assinado pelo Ministro da Justiça.
+Artigo 1.º É aprovado o Código do Registo Predial, que faz parte do presente diploma e segue assinado pelo Ministro da Justiça.
 
-###### Art. 2.º A tabela de emolumentos do registo predial, aprovada pelo [Decreto-Lei n.º 42565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42565-1959-430039), de 8 de Outubro de 1959, é substituída pela tabela anexa ao presente diploma.
+Art. 2.º A tabela de emolumentos do registo predial, aprovada pelo [Decreto-Lei n.º 42565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42565-1959-430039), de 8 de Outubro de 1959, é substituída pela tabela anexa ao presente diploma.
 
-###### Art. 3.º As sociedades comerciais e as sociedades civis sob forma comercial que, por falta de título bastante, estejam impossibilitadas de levar ao registo a transmissão da propriedade ou do usufruto de quotas ou partes do capital social, ou a divisão ou unificação de quotas, podem, para fins de registo, suprir a falta de título mediante escritura de justificação, lavrada nos termos prescritos na lei notarial.
+Art. 3.º As sociedades comerciais e as sociedades civis sob forma comercial que, por falta de título bastante, estejam impossibilitadas de levar ao registo a transmissão da propriedade ou do usufruto de quotas ou partes do capital social, ou a divisão ou unificação de quotas, podem, para fins de registo, suprir a falta de título mediante escritura de justificação, lavrada nos termos prescritos na lei notarial.
 
-###### Art. 4.º - 1. O registo da propriedade de automóveis importados nas condições previstas no artigo 1.º do [Decreto-Lei n.º 32312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32312-1942-340195), de 9 de Outubro de 1942, a favor de agentes diplomáticos estrangeiros acreditados junto do Governo Português é gratuito, quando for solicitado por intermédio do Ministério dos Negócios Estrangeiros.
+Art. 4.º - 1. O registo da propriedade de automóveis importados nas condições previstas no artigo 1.º do [Decreto-Lei n.º 32312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32312-1942-340195), de 9 de Outubro de 1942, a favor de agentes diplomáticos estrangeiros acreditados junto do Governo Português é gratuito, quando for solicitado por intermédio do Ministério dos Negócios Estrangeiros.
 
 2. A gratuitidade prescrita no número anterior só é concedida em regime de reciprocidade, competindo ao Ministério dos Negócios Estrangeiros assegurar-se da sua existência nos outros países.
 
-###### Art. 5.º O disposto no n.º 2 do artigo 20.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, é aplicável aos primeiros-ajudantes das conservatórias e dos cartórios notariais desde que sejam licenciados em Direito e tenham mais de quatro anos de bom e efectivo serviço.
+Art. 5.º O disposto no n.º 2 do artigo 20.º do [Decreto-Lei n.º 44063](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44063-1961-185294), de 28 de Novembro de 1961, é aplicável aos primeiros-ajudantes das conservatórias e dos cartórios notariais desde que sejam licenciados em Direito e tenham mais de quatro anos de bom e efectivo serviço.
 
-###### Art. 6.º O saldo líquido do produto da venda de impressos fornecidos pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a serviços dependentes do Ministério da Justiça constitui receita do serviço social criado pelo [Decreto-Lei n.º 47210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47210-1966-480172), de 22 de Setembro de 1966.
+Art. 6.º O saldo líquido do produto da venda de impressos fornecidos pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a serviços dependentes do Ministério da Justiça constitui receita do serviço social criado pelo [Decreto-Lei n.º 47210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47210-1966-480172), de 22 de Setembro de 1966.
 
-###### Art. 7.º O Código do Registo Predial e o disposto no artigo 3.º do presente diploma entram em vigor no dia 1 de Junho de 1967.
+Art. 7.º O Código do Registo Predial e o disposto no artigo 3.º do presente diploma entram em vigor no dia 1 de Junho de 1967.
 
-###### Art. 8.º Desde a entrada em vigor do novo código, fica revogada toda a legislação relativa à matéria nele abrangida, com ressalva da legislação especial a que se faça expressa referência.
+Art. 8.º Desde a entrada em vigor do novo código, fica revogada toda a legislação relativa à matéria nele abrangida, com ressalva da legislação especial a que se faça expressa referência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

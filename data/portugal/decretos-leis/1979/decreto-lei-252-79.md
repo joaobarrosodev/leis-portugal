@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1979-381316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d0d49627ecba216ccb99ca293b90baaea4b56ad627db7d02c2c333c9b9a7e25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f426736a5e27fd67b4aabfa9d2726f4b4f293d4e12ebf909e2a9352d825cd40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistente Social
+- Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
 relationships:
 - type: amended_by
   target: pt:dre:563002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:563002:por
+  label: "Revogado, na parte em que diz respeito à Direcção-Geral dos Serviços Prisionais, pelo DEC LEI.268/81.16.09.1981.MJ,\
+    \ DR.IS [213] de 16.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1981-563002
+  date: '1981-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:41Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +105,12 @@ Considerando ainda que a experiência profissional é uma boa escola de prepara�
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os educadores e orientadores sociais e os educadores-adjuntos e orientadores sociais-adjuntos de nomeação interina com pelo menos três anos de bom e efectivo serviço na categoria que, por dificuldades que não lhes sejam imputáveis, não puderem concluir o curso adequado do Instituto de Formação Profissional do Ministério da Justiça podem ser providos definitivamente mediante despacho do Ministro da Justiça.
+Artigo único. Os educadores e orientadores sociais e os educadores-adjuntos e orientadores sociais-adjuntos de nomeação interina com pelo menos três anos de bom e efectivo serviço na categoria que, por dificuldades que não lhes sejam imputáveis, não puderem concluir o curso adequado do Instituto de Formação Profissional do Ministério da Justiça podem ser providos definitivamente mediante despacho do Ministro da Justiça.
 
 Carlos Alberto da Mota Pinto - Eduardo Enriques da Silva Correia - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 9 de Julho de 1979.**
+Promulgado em 9 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1981-394919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 508818327361c43198d6d14fb5ee13c3b7e7d8cf139a8f537d833136d67db62a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a508b21f8c5bb64b0492815ad7ec2e3524ebcd48de3a2935e8e0b03a8cf67432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:608214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:11Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +112,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É revogado o [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, bem como toda a legislação complementar, sem prejuízo do disposto nos artigos seguintes.
+Artigo 1.º É revogado o [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, bem como toda a legislação complementar, sem prejuízo do disposto nos artigos seguintes.
 
-###### Art. 2.º A cessação da intervenção do Estado nas empresas onde tal regime ainda subsista operar-se-á ao abrigo da legislação referida no artigo anterior, a qual se considerará aplicável para esse efeito durante o prazo estabelecido para a respectiva desintervenção.
+Art. 2.º A cessação da intervenção do Estado nas empresas onde tal regime ainda subsista operar-se-á ao abrigo da legislação referida no artigo anterior, a qual se considerará aplicável para esse efeito durante o prazo estabelecido para a respectiva desintervenção.
 
-###### Art. 3.º - 1 - As resoluções do Conselho de Ministros que decidirem a cessação das intervenções ainda em curso poderão manter o regime excepcional previsto nos artigos 12.º, 13.º e 14.º do aludido [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914).
+Art. 3.º - 1 - As resoluções do Conselho de Ministros que decidirem a cessação das intervenções ainda em curso poderão manter o regime excepcional previsto nos artigos 12.º, 13.º e 14.º do aludido [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914).
 
 2 - Se as empresas cuja intervenção cessou antes da publicação deste decreto-lei já beneficiarem, por força da resolução que determinou a cessação, do regime excepcional referido no número anterior, este manter-se-á nos termos em que foi concedido.
 
@@ -114,24 +124,24 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - A faculdade prevista no n.º 1 não poderá ser utilizada nos casos em que a cessação da intervenção for acompanhada quer da declaração de falência da empresa quer da sua apresentação a tribunal para convocação de credores, nos termos da lei geral de processo.
 
-###### Art. 4.º - 1 - Quando não seja possível realizar antes da cessação da intervenção as operações de fusão, cisão, transformação, aumento ou redução de capital social e emissão de obrigações, independentemente dos limites do artigo 196.º do Código Comercial, serão as mesmas objecto de disposição precisa na resolução que determine a cessação da intervenção na empresa, fixando-se prazo para o seu cumprimento.
+Art. 4.º - 1 - Quando não seja possível realizar antes da cessação da intervenção as operações de fusão, cisão, transformação, aumento ou redução de capital social e emissão de obrigações, independentemente dos limites do artigo 196.º do Código Comercial, serão as mesmas objecto de disposição precisa na resolução que determine a cessação da intervenção na empresa, fixando-se prazo para o seu cumprimento.
 
 2 - As deliberações sobre as operações referidas no número anterior quando respeitem a sociedades serão tomadas em assembleia geral por maioria simples dos votos dos accionistas presentes ou representados, qualquer que seja o disposto na lei ou nos respectivos estatutos.
 
 3 - Nos casos de incumprimento do prazo fixado no n.º 1, o Conselho de Ministros pode, sem prejuízo dos direitos de terceiros, aprovar as medidas que considere adequadas ao interesse da empresa e do Estado.
 
-###### Art. 5.º Salvo nas hipóteses expressamente previstas neste decreto-lei, manter-se-ão os prazos que tenham sido fixados nas várias resoluções que determinaram a cessação da intervenção.
+Art. 5.º Salvo nas hipóteses expressamente previstas neste decreto-lei, manter-se-ão os prazos que tenham sido fixados nas várias resoluções que determinaram a cessação da intervenção.
 
-###### Art. 6.º - 1 - Os créditos do Estado sobre as empresas em que tenha intervindo e, quando posteriores à intervenção, os créditos de terceiros sobre as mesmas empresas garantidos pelo Estado e os das instituições de crédito nacionalizadas gozam, pela referida ordem de precedência, de privilégio mobiliário geral sobre todos os bens móveis existentes no património da empresa devedora e de hipoteca legal sobre todos os bens imóveis existentes no mesmo património, a qual deverá ser registada.
+Art. 6.º - 1 - Os créditos do Estado sobre as empresas em que tenha intervindo e, quando posteriores à intervenção, os créditos de terceiros sobre as mesmas empresas garantidos pelo Estado e os das instituições de crédito nacionalizadas gozam, pela referida ordem de precedência, de privilégio mobiliário geral sobre todos os bens móveis existentes no património da empresa devedora e de hipoteca legal sobre todos os bens imóveis existentes no mesmo património, a qual deverá ser registada.
 
 2 - O disposto no número anterior não prejudica os privilégios imobiliários especiais de que gozam os créditos do Estado nos termos da lei vigente.
 
-###### Art. 7.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 7.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 16 de Abril de 1981.**
+Promulgado em 16 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

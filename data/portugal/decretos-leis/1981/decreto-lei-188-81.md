@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/14900/15611566.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d877980db4f0dce0cbbb81b522d308e06e79d1d09df2022d703cd0f95819925
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb824e13d6dc51cc0335b68d6f6bdc7aebdec55d338aedbdc9b82c2c7d953b87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Conselho Nacional de Telecomunicações
+- Instituto das Comunicações de Portugal
+- Orgânica
+- Serviço Postal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378750:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579882:por
+  label: Rectificado pela DECL.DD6533.07.06.1981.PCM, DR.IS [165] de 21.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-579882
+  date: '1981-06-07'
+- type: repealed_by
+  target: pt:dre:547200:por
+  label: "Revogadas todas as disposições relativas a telecomunicações, com excepção do art. 7º, do presente diploma, pela\
+    \ LEI.88/89.1989.09.11.AR DR.IS [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/88-1989-547200
+  date: '1989-09-11'
+- type: repealed_by
+  target: pt:dre:353348:por
+  label: "Revogado, com excepção do seu art. 7º, pela LEI.102/99.1999.07.26.AR, DR.IS-A [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/102-1999-353348
+  date: '1999-07-26'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:15Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +161,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Comunicações em geral
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Conceito)
 
@@ -130,7 +169,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - O conceito de mensagens ou informações é utilizado num sentido lato, abrangendo, nomeadamente, textos escritos, símbolos, sinais, imagens e sons.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Modalidades quanto à natureza)
 
@@ -152,7 +191,7 @@ d) Serviço de comunicação de dados;
 
 e) Outras, designadamente videofonia, telecópia, teletexto e videotexto.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Modalidades quanto aos utentes e interesses que prosseguem)
 
@@ -178,7 +217,7 @@ a) A satisfação de interesses que justifiquem protecção jurídica;
 
 b) As convenções e tratados internacionais.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Modalidades quanto ao âmbito dos destinatários)
 
@@ -192,7 +231,7 @@ b) Comunicações de massas.
 
 3 - Constituem comunicações de massas as que são dirigidas ao público em geral.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Operadores de comunicações)
 
@@ -224,7 +263,7 @@ a) Operadores de comunicações de uso público;
 
 b) Operadores de comunicações privativas de certas entidades civis.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Conselho Nacional de Telecomunicações)
 
@@ -238,7 +277,7 @@ b) No respeitante à coordenação das comunicações de massas com os órgãos 
 
 3 - O Conselho Nacional de Telecomunicações mantém todas as atribuições e competência que lhe foram conferidas pelo [Decreto-Lei n.º 317/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1979-378750), de 23 de Agosto.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Instituto das Comunicações de Portugal)
 
@@ -304,7 +343,7 @@ d) Quaisquer outras receitas que provenham da sua actividade ou lhe venham a ser
 
 ### CAPÍTULO II — Comunicações de uso público
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Uso público dos serviços)
 
@@ -314,7 +353,7 @@ d) Quaisquer outras receitas que provenham da sua actividade ou lhe venham a ser
 
 3 - As comunicações destinadas à segurança pública interna e externa e à protecção da vida humana gozam de prioridade absoluta.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Actividades acessórias)
 
@@ -334,7 +373,7 @@ c) A emissão de selos e a sua venda;
 
 d) A edição de publicações relacionadas com as comunicações.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Regime de exploração)
 
@@ -354,7 +393,7 @@ a) O estabelecimento de sistemas inteiramente compreendidos nos limites de uma p
 
 b) Os sistemas autorizados privativos de organismos dotados de personalidade jurídica de direito público, desde que não interfiram com quaisquer outros sistemas de telecomunicações.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Regime de gestão)
 
@@ -366,7 +405,7 @@ a) Regime de concessão;
 
 b) Regime de licenciamento.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Correspondências proibidas)
 
@@ -378,7 +417,7 @@ b) Contribuir para o bom funcionamento dos serviços operadores de comunicaçõe
 
 2 - As operações relativas a objectos postais e telecomunicações que infrinjam o disposto no número anterior serão imediatamente suspensas no momento em que a infracção seja detectada, independentemente do apuramento da responsabilidade civil e criminal em que incorram os infractores.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Sigilo das correspondências)
 
@@ -398,7 +437,7 @@ c) Das direcções de uns e de outros.
 
 5 - O sigilo da correspondência cessa apenas nos termos da lei penal.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Tutela dos operadores de comunicações)
 
@@ -432,7 +471,7 @@ e) Declaração de utilidade pública das expropriações necessárias à consec
 
 f) Autorização de emissão de selos postais.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Pessoal dos entes públicos menores)
 
@@ -442,7 +481,7 @@ f) Autorização de emissão de selos postais.
 
 3 - Os sindicatos e comissões de trabalhadores representantes do pessoal dos diversos organismos participarão na elaboração do regime jurídico a que se refere este artigo.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Infra-estruturas de telecomunicações)
 
@@ -474,7 +513,7 @@ b) Após notificação, tomar as medidas necessárias, designadamente demolindo 
 
 5 - Excluem-se do disposto no n.º 1 as infra-estruturas de comunicações pertencentes às entidades privadas operadoras de comunicações.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Pré-instalação de infra-estruturas das comunicações)
 
@@ -492,7 +531,7 @@ b) Pelos Ministros dos Transportes e Comunicações e da Administração Interna
 
 3 - As instalações a que se refere o presente artigo ficam sujeitas à fiscalização do organismo operador do serviço de comunicações respectivo.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Equipamento de assinante)
 
@@ -512,13 +551,13 @@ b) As condições de interligação desse equipamento com a rede de telecomunica
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Tutela das comunicações inseridas nos organismos de comunicação social)
 
 A tutela das comunicações inseridas nos organismos de comunicação social manter-se-á nos precisos termos constantes dos estatutos de tais organismos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Disposições transitórias)
 
@@ -528,8 +567,8 @@ A tutela das comunicações inseridas nos organismos de comunicação social man
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 22 de Junho de 1981.**
+Promulgado em 22 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

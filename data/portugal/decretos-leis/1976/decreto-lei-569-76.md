@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16700/15881588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/569-1976-430599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 289b819af14db9853bee34cedf0a0a40f177fee50d5ff7584eee46ac9201c483
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a56f1d1d7ef1ce2819d9cbb7724cd4a7ac0da86f701eb0f07abc3960fa39e3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Sanitária
+- Câmara Municipal
+- Construção Civil
+- Licença Municipal
+- Multa
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:618126:por
+  label: "Revogada a alínea a) do artigo 1.º pelo DEC LEI.250/94.15.10.1994.MPLAT, DR.IS-A [239] de 15.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1994-618126
+  date: '1994-10-15'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:11Z'
   warnings: []
   errors: []
 ---
@@ -105,22 +137,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Devem ser submetidos à apreciação da autoridade sanitária do concelho os seguintes projectos de obras de construção, reconstrução, ampliação ou remodelação de edificações:
+Artigo 1.º Devem ser submetidos à apreciação da autoridade sanitária do concelho os seguintes projectos de obras de construção, reconstrução, ampliação ou remodelação de edificações:
 
 a) Os que respeitem a obras que careçam de licença ou de aprovação das câmaras municipais;
 
 b) Os que se refiram a obras que, embora não carecendo de licença ou de aprovação municipais, possam constituir perigo real ou potencial para a saúde pública, quer pela finalidade a que se destinem, quer pela insalubridade que representem os seus resíduos sólidos, líquidos ou gasosos.
 
-###### Art. 2.º Quando as câmaras municipais não tiverem possibilidade de resolver problemas urgentes dentro das suas atribuições e competência, a Direcção-Geral de Saúde pode conceder-lhes o necessário apoio técnico, mediante pedido fundamentado.
+Art. 2.º Quando as câmaras municipais não tiverem possibilidade de resolver problemas urgentes dentro das suas atribuições e competência, a Direcção-Geral de Saúde pode conceder-lhes o necessário apoio técnico, mediante pedido fundamentado.
 
-###### Art. 3.º As transgressões das leis, regulamentos, portarias e instruções dos serviços de saúde são punidas, quando não houver sanções especiais, com multas de 1000 a 10000$00, que serão elevadas para o dobro em caso de primeira reincidência e para o triplo nas reincidências seguintes.
+Art. 3.º As transgressões das leis, regulamentos, portarias e instruções dos serviços de saúde são punidas, quando não houver sanções especiais, com multas de 1000 a 10000$00, que serão elevadas para o dobro em caso de primeira reincidência e para o triplo nas reincidências seguintes.
 
-###### Art. 4.º É revogado o [Decreto n.º 13166](https://diariodarepublica.pt/dr/detalhe/decreto/13166-1927-459239), de 18 de Fevereiro de 1927.
+Art. 4.º É revogado o [Decreto n.º 13166](https://diariodarepublica.pt/dr/detalhe/decreto/13166-1927-459239), de 18 de Fevereiro de 1927.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 5 de Julho de 1976.**
+Promulgado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/17000/18601861.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1980-472131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 156ded165967c3154f4dc3f789366351e835167b01d8a6b0b5687a4761ba735a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f0cbd3de0325d0feae8a14d882ca75511f3911dc1bdc3ce16991f9b074555fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Superior
+- Instituto Universitário dos Açores
+- Universidade dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:233945:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312593:por
+  label: "Alterado pelo DEC LEI.138/83.1983.03.26.ME, DR.IS [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1983-312593
+  date: '1983-03-26'
+- type: repealed_by
+  target: pt:dre:233945:por
+  label: "Revogado pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:56Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +112,15 @@ Assim:
 
 O Governo, ouvido o Governo da Região Autónoma dos Açores, decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto Universitário dos Açores passa a designar-se por Universidade dos Açores.
+Artigo 1.º O Instituto Universitário dos Açores passa a designar-se por Universidade dos Açores.
 
-###### Art. 2.º Na Universidade dos Açores desenvolver-se-á o ensino pós-secundário de âmbito nacional, tendo presente que o carácter de insularidade da Região implica soluções particulares que o ajustem às realidades geográficas, económicas e sociais do arquipélago, no quadro do seu regime político-administrativo.
+Art. 2.º Na Universidade dos Açores desenvolver-se-á o ensino pós-secundário de âmbito nacional, tendo presente que o carácter de insularidade da Região implica soluções particulares que o ajustem às realidades geográficas, económicas e sociais do arquipélago, no quadro do seu regime político-administrativo.
 
-###### Art. 3.º - 1 - A Universidade dos Açores é um instituto público com personalidade jurídica e autonomia científica, pedagógica, administrativa e com património próprio.
+Art. 3.º - 1 - A Universidade dos Açores é um instituto público com personalidade jurídica e autonomia científica, pedagógica, administrativa e com património próprio.
 
 2 - A Universidade dos Açores, através do seus órgãos próprios, coordenará todas as actividades de investigação científica realizadas na Região.
 
-###### Art. 4.º - 1 - A Universidade dos Açores ministra o ensino superior e o ensino graduado, integrados no sistema nacional de ensino professado nas restantes Universidades do País, desde que se verifiquem as seguintes condições:
+Art. 4.º - 1 - A Universidade dos Açores ministra o ensino superior e o ensino graduado, integrados no sistema nacional de ensino professado nas restantes Universidades do País, desde que se verifiquem as seguintes condições:
 
 a) Possam ser assegurados por pessoal docente qualificado;
 
@@ -114,11 +128,11 @@ b) Contribuam para a formação dos quadros científicos e técnicos necessário
 
 2 - Poderão ainda ser ministrados na Universidade dos Açores cursos cujos planos de estudo se adaptem às particularidades da Região e ao seu desenvolvimento sócio-económico.
 
-###### Art. 5.º A Universidade dos Açores poderá celebrar convénios com outras Universidades e instituições no âmbito do sistema nacional de ensino e de investigação, com vista à leccionação de disciplinas dos seus cursos, bem como para a formação dos seus quadros docentes e de investigação.
+Art. 5.º A Universidade dos Açores poderá celebrar convénios com outras Universidades e instituições no âmbito do sistema nacional de ensino e de investigação, com vista à leccionação de disciplinas dos seus cursos, bem como para a formação dos seus quadros docentes e de investigação.
 
-###### Art. 6.º Os planos de estudo dos cursos professados na Universidade dos Açores serão fixados, sob proposta da sua comissão instaladora, por portaria do Ministro da Educação e Ciência, verificadas as necessárias condições de funcionamento.
+Art. 6.º Os planos de estudo dos cursos professados na Universidade dos Açores serão fixados, sob proposta da sua comissão instaladora, por portaria do Ministro da Educação e Ciência, verificadas as necessárias condições de funcionamento.
 
-###### Art. 7.º Ao Governo da República, sob proposta do Ministério da Educação e Ciência, quanto à Universidade dos Açores, competirá definir, por via legislativa, o seguinte:
+Art. 7.º Ao Governo da República, sob proposta do Ministério da Educação e Ciência, quanto à Universidade dos Açores, competirá definir, por via legislativa, o seguinte:
 
 a) A aplicação dos estatutos da carreira docente e de investigação;
 
@@ -130,7 +144,7 @@ d) As condições gerais de acesso ao ensino e os modos de avaliação dos conhe
 
 e) As estruturas orgânicas dos estabelecimentos de ensino pós-secundário.
 
-###### Art. 8.º São atribuições próprias dos órgãos da Região Autónoma dos Açores, no domínio do ensino pós-secundário:
+Art. 8.º São atribuições próprias dos órgãos da Região Autónoma dos Açores, no domínio do ensino pós-secundário:
 
 a) Proporcionar os meios humanos e materiais necessários à manutenção e ao desenvolvimento da Universidade dos Açores;
 
@@ -144,7 +158,7 @@ e) Incentivar a fixação de docentes na Região e estimular o ingresso na carre
 
 f) Exercer a tutela administrativa relativamente à Universidade dos Açores, sem prejuízo da sua autonomia e da competência mencionada no artigo anterior.
 
-###### Art. 9.º Ao Governo da República e aos órgãos do Governo da Região, no que concerne à Universidade dos Açores, compete:
+Art. 9.º Ao Governo da República e aos órgãos do Governo da Região, no que concerne à Universidade dos Açores, compete:
 
 a) A aprovação do estatuto da Universidade dos Açores;
 
@@ -158,7 +172,7 @@ e) A fixação do número de ingresso de alunos nos cursos de âmbito nacional;
 
 f) A nomeação do reitor, do vice-reitor e dos demais vogais da comissão instaladora da Universidade, durante o período de instalação.
 
-###### Art. 10.º É da competência exclusiva dos órgãos do Governo da Região, no que respeita à Universidade dos Açores:
+Art. 10.º É da competência exclusiva dos órgãos do Governo da Região, no que respeita à Universidade dos Açores:
 
 a) Aprovar os orçamentos e superintender e fiscalizar a respectiva gestão financeira;
 
@@ -168,22 +182,22 @@ c) Proporcionar as instalações e o equipamento necessários ao regular funcion
 
 d) Superintender nos Serviços Sociais da Universidade dos Açores, bem como proceder ao seu equipamento.
 
-###### Art. 11.º - 1 - Compete aos órgãos do Governo da Região o financiamento decorrente das acções previstas nas alíneas a) a e) do artigo 8.º
+Art. 11.º - 1 - Compete aos órgãos do Governo da Região o financiamento decorrente das acções previstas nas alíneas a) a e) do artigo 8.º
 
 2 - Os encargos relativos à Universidade dos Açores serão inscritos no orçamento da Região para 1981, continuando até ao final do presente ano económico a ser suportados pelas verbas inscritas no orçamento do Ministério da Educação e Ciência.
 
-###### Art. 12.º - 1 - No prazo de seis meses, a contar da data da publicação do presente diploma, deverá ser aprovado o estatuto provisório da Universidade dos Açores.
+Art. 12.º - 1 - No prazo de seis meses, a contar da data da publicação do presente diploma, deverá ser aprovado o estatuto provisório da Universidade dos Açores.
 
 2 - Até à aprovação do estatuto definitivo manter-se-á em vigor o regime de instalação legalmente estabelecido para as restantes Universidades.
 
-###### Art. 13.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto do Primeiro-Ministro, do Ministro da República para a Região Autónoma e do Ministro da Educação e Ciência, quando se tratar de assuntos que não sejam da competência própria dos órgãos daquela Região Autónoma.
+Art. 13.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto do Primeiro-Ministro, do Ministro da República para a Região Autónoma e do Ministro da Educação e Ciência, quando se tratar de assuntos que não sejam da competência própria dos órgãos daquela Região Autónoma.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 14 de Julho de 1980.**
+Promulgado em 14 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

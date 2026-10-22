@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23500/24702474.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1977-278925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10d10908f9e4db02d22adf8d0f1023663a2f91612a0acfa2557c4737842f1fc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afe3d3799e522992729c2b39c31d9bd5b54c083e8696dfe49f66109d0b8a2577
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Definição de Competências
+- Delegação Regional
+- Direcção Geral da Junta do Crédito Público
+- Gestão de Recursos Humanos
+- Junta de Crédito Público
+- Orgânica
+- Porto
+- Quadro de Pessoal
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240045:por
+  label: "Alterado o art. 1º do presente diploma, pela LEI.1/78.03.01.1978.AR, DR.IS [2-SUPL] de 03.01.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-1978-240045
+  date: '1978-01-03'
+- type: amended_by
+  target: pt:dre:378745:por
+  label: "Alterado o Quadro de Pessoal da Junta do Crédito Público pelo DR.46/79.23.08.1979.MFP, DR.IS [194] de 23.08.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-1979-378745
+  date: '1979-08-23'
+- type: amended_by
+  target: pt:dre:567773:por
+  label: "Alterado o quadro de pessoal referidon o artigo 20.º do presente diploma e publicado em anexo, pela PORT.1034/81.03.12.1981.MFP,\
+    \ DR.IS [278] de 03.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1034-1981-567773
+  date: '1981-12-03'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:55Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +173,9 @@ JUNTA DO CRÉDITO PÚBLICO
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º A Junta do Crédito Público é um instituto público, dotado de autonomia administrativa e financeira, que tem por objecto a administração da dívida pública interna e externa.
+Artigo 1.º A Junta do Crédito Público é um instituto público, dotado de autonomia administrativa e financeira, que tem por objecto a administração da dívida pública interna e externa.
 
-###### Art. 2.º São atribuições da Junta do Crédito Público:
+Art. 2.º São atribuições da Junta do Crédito Público:
 
 a) Verificar a situação da dívida pública, sob os pontos de vista quantitativo e qualitativo, e dos fundos a cargo da Junta;
 
@@ -138,9 +191,9 @@ f) Zelar e defender o crédito do Estado e os legítimos direitos dos portadores
 
 ### CAPÍTULO II — Dos órgãos, serviços e suas competências
 
-###### Art. 3.º São órgãos da Junta do Crédito Público a Junta, como órgão colegial, e a Direcção-Geral da Junta do Crédito Público.
+Art. 3.º São órgãos da Junta do Crédito Público a Junta, como órgão colegial, e a Direcção-Geral da Junta do Crédito Público.
 
-###### Art. 4.º - 1 - A Junta é composta por quatro vogais, dos quais dois designados pelo Ministro das Finanças e um pelo Banco de Portugal, sendo o quarto, por inerência, o director-geral da Junta.
+Art. 4.º - 1 - A Junta é composta por quatro vogais, dos quais dois designados pelo Ministro das Finanças e um pelo Banco de Portugal, sendo o quarto, por inerência, o director-geral da Junta.
 
 2 - O Ministro das Finanças, de entre os dois vogais por si designados, escolherá o presidente, que terá voto de qualidade.
 
@@ -150,9 +203,9 @@ f) Zelar e defender o crédito do Estado e os legítimos direitos dos portadores
 
 5 - Os vogais da Junta poderão ser substituídos pelas entidades que os tiverem designado.
 
-###### Art. 5.º Os vogais da Junta tomam posse perante o Ministro das Finanças.
+Art. 5.º Os vogais da Junta tomam posse perante o Ministro das Finanças.
 
-###### Art. 6.º Compete à Junta, como órgão colegial:
+Art. 6.º Compete à Junta, como órgão colegial:
 
 a) Ordenar, independentemente de qualquer autorização especial, a liquidação e pagamento de juros, rendas, reembolsos, prémios e mais encargos de dívida pública assim como dos encargos com o pessoal, material e outros, para o que será posta à sua ordem no Banco de Portugal, e adiantadamente, a importância correspondente aos encargos orçamentados a satisfazer no País e no estrangeiro;
 
@@ -170,15 +223,15 @@ g) Dirigir-se a todas as autoridades, serviços públicos ou outros sobre os ass
 
 h) Deliberar sobre a necessidade de convocação dos vogais substitutos.
 
-###### Art. 7.º - 1 - A Junta do Crédito Público tem a sede em Lisboa e possui no Porto uma delegação, com quadro privativo, à qual compete o exercício das funções que superiormente lhe forem confiadas.
+Art. 7.º - 1 - A Junta do Crédito Público tem a sede em Lisboa e possui no Porto uma delegação, com quadro privativo, à qual compete o exercício das funções que superiormente lhe forem confiadas.
 
 2 - As direcções e as repartições de finanças funcionam como delegações da Junta do Crédito Público respectivamente nas sedes de distrito e nos concelhos onde não exista delegação privativa.
 
 3 - No estrangeiro, o pagamento de encargos e outras operações da dívida pública devidamente autorizadas poderão ser efectuados por intermédio de entidades bancárias, mediante acordo a estabelecer com as mesmas, as quais funcionarão como agências da Junta.
 
-###### Art. 8.º Às instituições de crédito ou outras entidades podem ser cometidas, no todo ou em parte, funções administrativas ligadas à emissão e ao serviço de operações de dívida pública.
+Art. 8.º Às instituições de crédito ou outras entidades podem ser cometidas, no todo ou em parte, funções administrativas ligadas à emissão e ao serviço de operações de dívida pública.
 
-###### Art. 9.º - 1 - A competência da Direcção-Geral da Junta do Crédito Público é exercida pelos seguintes serviços:
+Art. 9.º - 1 - A competência da Direcção-Geral da Junta do Crédito Público é exercida pelos seguintes serviços:
 
 a) Direcção dos Serviços Financeiros e Administrativos;
 
@@ -190,7 +243,7 @@ d) Núcleo de Organização e Informática.
 
 2 - A Direcção-Geral será assessorada pelo consultor jurídico, pelo consultor técnico-financeiro e pelo conselho técnico.
 
-###### Art. 10.º A Direcção dos Serviços Financeiros e Administrativos compreende as seguintes repartições:
+Art. 10.º A Direcção dos Serviços Financeiros e Administrativos compreende as seguintes repartições:
 
 a) Repartição Central;
 
@@ -198,7 +251,7 @@ b) Repartição de Pagamento;
 
 c) Repartição de Contabilidade.
 
-###### Art. 11.º À Direcção dos Serviços Financeiros e Administrativos compete:
+Art. 11.º À Direcção dos Serviços Financeiros e Administrativos compete:
 
 1) Por intermédio da Repartição Central:
 
@@ -228,7 +281,7 @@ c) Assegurar o registo diário e individualizado de documentos periféricos de c
 
 d) Assegurar o registo diário e individualizado de documentos periféricos de contabilidade relativos a títulos ou certificados de assentamento e a preparação de outros elementos para fins de contabilidade central.
 
-###### Art. 12.º A Direcção dos Serviços Técnicos e de Registo compreende as seguintes repartições:
+Art. 12.º A Direcção dos Serviços Técnicos e de Registo compreende as seguintes repartições:
 
 a) Repartição Técnica;
 
@@ -236,7 +289,7 @@ b) Repartição de Assentamento;
 
 c) Repartição de Aforro.
 
-###### Art. 13.º À Direcção dos Serviços Técnicos e de Registo compete:
+Art. 13.º À Direcção dos Serviços Técnicos e de Registo compete:
 
 1) Por intermédio da Repartição Técnica:
 
@@ -262,9 +315,9 @@ b) Proceder à recepção e verificação de pedidos de reembolso de certificado
 
 c) Elaborar as contas correntes individuais dos titulares de certificados de aforro.
 
-###### Art. 14.º Cada uma das seis repartições referidas nos artigos 10.º e 12.º compreende três secções.
+Art. 14.º Cada uma das seis repartições referidas nos artigos 10.º e 12.º compreende três secções.
 
-###### Art. 15.º Compete ao Gabinete de Estudos:
+Art. 15.º Compete ao Gabinete de Estudos:
 
 a) Emitir pareceres sobre problemas relacionados com a dívida pública e efectuar estudos que lhe sejam solicitados ou que entenda convenientes;
 
@@ -280,7 +333,7 @@ f) Promover a publicação de elementos de carácter técnico sobre dívida púb
 
 g) Elaborar projectos de diplomas legais e de instruções regulamentares e prestar toda a assistência jurídica que lhe for solicitada pelo director-geral.
 
-###### Art. 16.º - 1 - Compete ao Núcleo de Organização e Informática:
+Art. 16.º - 1 - Compete ao Núcleo de Organização e Informática:
 
 a) Propor medidas tendentes ao aperfeiçoamento dos serviços da Junta do Crédito Público, nomeadamente no que se refere a organização interna, simplificação dos circuitos e normalização dos documentos;
 
@@ -292,93 +345,93 @@ d) Executar ou coordenar as actividades relacionadas com a exploração de equip
 
 2 - A competência referida no número anterior será exercida em articulação com a Direcção-Geral da Organização Administrativa, da Secretaria de Estado da Administração Pública.
 
-###### Art. 17.º Ao consultor jurídico compete examinar todos os processos pendentes na Junta do Crédito Público e dar parecer sobre eles.
+Art. 17.º Ao consultor jurídico compete examinar todos os processos pendentes na Junta do Crédito Público e dar parecer sobre eles.
 
-###### Art. 18.º Ao consultor técnico-financeiro compete elaborar estudos e informações e dar pareceres sobre assuntos de ordem financeira que lhe sejam solicitados pelo director-geral.
+Art. 18.º Ao consultor técnico-financeiro compete elaborar estudos e informações e dar pareceres sobre assuntos de ordem financeira que lhe sejam solicitados pelo director-geral.
 
-###### Art. 19.º - 1 - O conselho técnico é composto pelo director-geral, directores de serviços, consultor jurídico, consultor técnico-financeiro e chefes de repartição.
+Art. 19.º - 1 - O conselho técnico é composto pelo director-geral, directores de serviços, consultor jurídico, consultor técnico-financeiro e chefes de repartição.
 
 2 - O conselho técnico reunirá sempre que o presidente da Junta ou o director-geral o entenda conveniente, exercendo funções consultivas sobre matérias que forem submetidas à sua apreciação.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 20.º Os quadros de pessoal da Junta do Crédito Público são os constantes do mapa anexo ao presente diploma.
+Art. 20.º Os quadros de pessoal da Junta do Crédito Público são os constantes do mapa anexo ao presente diploma.
 
-###### Art. 21.º Os lugares de director de serviços e de director do Núcleo de Organização e Informática serão providos em comissão de serviço, por tempo indeterminado, de entre licenciados ou diplomados com curso superior adequado.
+Art. 21.º Os lugares de director de serviços e de director do Núcleo de Organização e Informática serão providos em comissão de serviço, por tempo indeterminado, de entre licenciados ou diplomados com curso superior adequado.
 
-###### Art. 22.º O lugar de chefe da delegação da Junta do Crédito Público no Porto será provido de entre diplomados com curso superior adequado às respectivas funções.
+Art. 22.º O lugar de chefe da delegação da Junta do Crédito Público no Porto será provido de entre diplomados com curso superior adequado às respectivas funções.
 
-###### Art. 23.º - 1 - Os lugares de técnico economista e técnico financeiro serão providos de entre licenciados com cursos superiores adequados à natureza específica das funções.
+Art. 23.º - 1 - Os lugares de técnico economista e técnico financeiro serão providos de entre licenciados com cursos superiores adequados à natureza específica das funções.
 
 2 - O ingresso nos lugares de técnico economista e técnico financeiro será feito pela 2.ª classe e o acesso às categorias superiores depende da prestação de pelo menos três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 24.º - 1 - O lugar de analista de sistemas será provido de entre diplomados com curso superior adequado e conhecimentos profissionais.
+Art. 24.º - 1 - O lugar de analista de sistemas será provido de entre diplomados com curso superior adequado e conhecimentos profissionais.
 
 2 - O ingresso no lugar de analista de sistemas será feito pela 2.ª classe e o acesso às categorias superiores depende da prestação de pelo menos três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 25.º - 1 - O lugar de jurista será provido de entre licenciados em Direito.
+Art. 25.º - 1 - O lugar de jurista será provido de entre licenciados em Direito.
 
 2 - O ingresso no lugar de jurista será feito pela 2.ª classe e o acesso às categorias superiores depende da prestação de pelo menos três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 26.º - 1 - O lugar de analista de aplicações será provido de entre indivíduos habilitados com curso superior adequado e formação especializada ou de entre programadores que revelem especial aptidão para o exercício do cargo.
+Art. 26.º - 1 - O lugar de analista de aplicações será provido de entre indivíduos habilitados com curso superior adequado e formação especializada ou de entre programadores que revelem especial aptidão para o exercício do cargo.
 
 2 - O ingresso no lugar de analista de aplicações será feito pela 2.ª classe e o acesso às categorias superiores depende da prestação de pelo menos três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 27.º - 1 - O lugar de programador será provido por indivíduos habilitados com o curso geral dos liceus e formação especializada no domínio da programação.
+Art. 27.º - 1 - O lugar de programador será provido por indivíduos habilitados com o curso geral dos liceus e formação especializada no domínio da programação.
 
 2 - O ingresso no lugar de programador será feito pela 2.ª classe e o acesso às categorias superiores depende da prestação de pelo menos três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 28.º O lugar de primeiro-bibliotecário-arquivista será provido de entre diplomados com curso superior adequado.
+Art. 28.º O lugar de primeiro-bibliotecário-arquivista será provido de entre diplomados com curso superior adequado.
 
-###### Art. 29.º - 1 - Os lugares de operador de registo de dados serão providos de entre indivíduos habilitados com o curso geral dos liceus e formação adequada.
+Art. 29.º - 1 - Os lugares de operador de registo de dados serão providos de entre indivíduos habilitados com o curso geral dos liceus e formação adequada.
 
 2 - Os lugares de operador de registo de dados de 1.ª classe serão providos pelos de 2.ª classe e os lugares destes pelos de 3.ª classe.
 
-###### Art. 30.º - 1 - O lugar de calculador será provido de entre indivíduos com o curso geral dos liceus, com preferência pelos possuidores de conhecimentos de informática e programação.
+Art. 30.º - 1 - O lugar de calculador será provido de entre indivíduos com o curso geral dos liceus, com preferência pelos possuidores de conhecimentos de informática e programação.
 
 2 - O ingresso no lugar de calculador será feito pela 2.ª classe e o acesso às categorias superiores depende da prestação de pelo menos três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 31.º O lugar de chefe de serviços gráficos será provido pelo subchefe dos serviços gráficos e o de subchefe dos serviços gráficos, por escolha do director-geral, entre tipógrafos de 1.ª classe.
+Art. 31.º O lugar de chefe de serviços gráficos será provido pelo subchefe dos serviços gráficos e o de subchefe dos serviços gráficos, por escolha do director-geral, entre tipógrafos de 1.ª classe.
 
-###### Art. 32.º - 1 - Os lugares de tipógrafo e electricista serão providos de entre pessoas com habilitação correspondente à escolaridade obrigatória, segundo a idade do concorrente, que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções, de harmonia com o prescrito no n.º 3 do artigo 25.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 32.º - 1 - Os lugares de tipógrafo e electricista serão providos de entre pessoas com habilitação correspondente à escolaridade obrigatória, segundo a idade do concorrente, que demonstrem, mediante provas práticas, aptidão para o exercício das respectivas funções, de harmonia com o prescrito no n.º 3 do artigo 25.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2 - O ingresso nos lugares de tipógrafo e electricista será feito pela 3.ª classe e o acesso às categorias superiores depende da prestação de pelo menos três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 33.º A posse aos funcionários da Direcção-Geral da Junta do Crédito Público será conferida pelo director-geral ou, por delegação deste, por qualquer dos directores de serviços.
+Art. 33.º A posse aos funcionários da Direcção-Geral da Junta do Crédito Público será conferida pelo director-geral ou, por delegação deste, por qualquer dos directores de serviços.
 
-###### Art. 34.º As disposições contidas no artigo 3.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035), de 19 de Janeiro, passam a aplicar-se ao director de serviços mais antigo.
+Art. 34.º As disposições contidas no artigo 3.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035), de 19 de Janeiro, passam a aplicar-se ao director de serviços mais antigo.
 
-###### Art. 35.º Nos casos de impedimento ou vaga do lugar de director-geral, as respectivas funções serão assumidas pelo director de serviços mais antigo, salvo se, por despacho do Ministro das Finanças, for designado outro funcionário.
+Art. 35.º Nos casos de impedimento ou vaga do lugar de director-geral, as respectivas funções serão assumidas pelo director de serviços mais antigo, salvo se, por despacho do Ministro das Finanças, for designado outro funcionário.
 
 ### CAPÍTULO IV — Das disposições gerais e transitórias
 
-###### Art. 36.º O exercício da gestão do pessoal a que se refere a alínea 6) do artigo 5.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035) abrange todos os actos que, nos termos das redacções iniciais dos artigos 12.º e 13.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, eram, neste domínio, da competência especial do presidente da Junta do Crédito Público ou constituíam funções e atribuições da mesma Junta.
+Art. 36.º O exercício da gestão do pessoal a que se refere a alínea 6) do artigo 5.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035) abrange todos os actos que, nos termos das redacções iniciais dos artigos 12.º e 13.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, eram, neste domínio, da competência especial do presidente da Junta do Crédito Público ou constituíam funções e atribuições da mesma Junta.
 
-###### Art. 37.º - 1 - É permitida a aposentação com base nos cargos a que correspondem as remunerações referidas no artigo 4.º e no § único do artigo 15.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), podendo tal aposentação ser acumulada com qualquer outra.
+Art. 37.º - 1 - É permitida a aposentação com base nos cargos a que correspondem as remunerações referidas no artigo 4.º e no § único do artigo 15.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), podendo tal aposentação ser acumulada com qualquer outra.
 
 2 - A Caixa Geral de Aposentações e o Montepio dos Servidores do Estado serão indemnizados das quotas correspondentes ao tempo considerado naquela aposentação.
 
-###### Art. 38.º - 1 - O primeiro provimento dos trabalhadores que prestem serviço a qualquer título na Junta do Crédito Público será feito mediante listas nominativas aprovadas nos termos legais com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, respeitadas as habilitações legais previstas neste diploma ou, na sua ausência, na lei geral.
+Art. 38.º - 1 - O primeiro provimento dos trabalhadores que prestem serviço a qualquer título na Junta do Crédito Público será feito mediante listas nominativas aprovadas nos termos legais com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, respeitadas as habilitações legais previstas neste diploma ou, na sua ausência, na lei geral.
 
 2 - Para o primeiro provimento do lugar de director de serviços podem ser nomeados chefes de repartição com pelo menos cinco anos de efectivo serviço na categoria, durante os quais tenham demonstrado qualidades de chefia.
 
 3 - A partir da data da publicação das listas a que se refere o n.º 1 consideram-se automaticamente extintas as categorias e classes de pessoal actualmente existentes no respectivo quadro da Junta do Crédito Público que não constem do mapa anexo ao presente diploma.
 
-###### Art. 39.º Os encargos resultantes da publicação do presente diploma são suportados, durante o corrente ano, pelas verbas adequadas atribuídas à Junta do Crédito Público no orçamento do Ministério das Finanças.
+Art. 39.º Os encargos resultantes da publicação do presente diploma são suportados, durante o corrente ano, pelas verbas adequadas atribuídas à Junta do Crédito Público no orçamento do Ministério das Finanças.
 
-###### Art. 40.º Os actuais membros da Junta mantêm-se em exercício até que os vogais a designar nos termos do artigo 4.º do presente diploma assumam as suas funções.
+Art. 40.º Os actuais membros da Junta mantêm-se em exercício até que os vogais a designar nos termos do artigo 4.º do presente diploma assumam as suas funções.
 
-###### Art. 41.º São revogados os artigos 2.º, 5.º, os §§ 1.º, 2.º, 3.º e 4.º do artigo 7.º, o artigo 11.º, o n.º 9 do artigo 12.º, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035), e os artigos 17.º, 18.º, 27.º e 28.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283); o [Decreto-Lei n.º 796/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1974-235941), de 31 de Dezembro; o artigo 8.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035); e eliminada a referência ao chefe da delegação da Junta do Crédito Público no Porto constante da tabela anexa ao [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935, referida no seu artigo 8.º
+Art. 41.º São revogados os artigos 2.º, 5.º, os §§ 1.º, 2.º, 3.º e 4.º do artigo 7.º, o artigo 11.º, o n.º 9 do artigo 12.º, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035), e os artigos 17.º, 18.º, 27.º e 28.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283); o [Decreto-Lei n.º 796/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1974-235941), de 31 de Dezembro; o artigo 8.º do [Decreto-Lei n.º 38/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1976-506035); e eliminada a referência ao chefe da delegação da Junta do Crédito Público no Porto constante da tabela anexa ao [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935, referida no seu artigo 8.º
 
-###### Art. 42.º Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 42.º Este decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 28 de Setembro de 1977.**
+Promulgado em 28 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadros a que se refere o artigo 20.º do presente diploma
 
@@ -468,4 +521,4 @@ Pessoal auxiliar:
 
 ... 14
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

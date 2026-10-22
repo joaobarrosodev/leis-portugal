@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/13300/06940694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1974-622866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5ae389312202b1d532558bb93d02cff9ff381b4e9ce51e8a6ce33ade52bfff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96c1e9675c150c3d5a55b969c4f12d458fc4c2f4f55a3b8d53c7f638e27254ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Gestão Administrativa
+- Instituto da Família e Acção Social
+- Quadro de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:163798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690218:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:43Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +120,12 @@ Dadas as dúvidas suscitadas na execução do n.º 3 do referido despacho, que m
 
 Usando da faculdade concedida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O Instituto da Família e Acção Social é autorizado a processar, independentemente de quaisquer formalidades legais, os vencimentos do pessoal distribuído no quadro criado pela [Portaria n.º 808/72](https://diariodarepublica.pt/dr/detalhe/portaria/808-1972-163798), de 30 de Dezembro, cuja lista de colocação consta de despacho ministerial de 15 de Junho de 1973, e que respeitam ao período compreendido entre 1 de Janeiro a 25 de Junho de 1973, ficando assegurados todos os efeitos legais decorrentes dos diplomas em referência.
+Artigo único. O Instituto da Família e Acção Social é autorizado a processar, independentemente de quaisquer formalidades legais, os vencimentos do pessoal distribuído no quadro criado pela [Portaria n.º 808/72](https://diariodarepublica.pt/dr/detalhe/portaria/808-1972-163798), de 30 de Dezembro, cuja lista de colocação consta de despacho ministerial de 15 de Junho de 1973, e que respeitam ao período compreendido entre 1 de Janeiro a 25 de Junho de 1973, ficando assegurados todos os efeitos legais decorrentes dos diplomas em referência.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida - Mário Murteira.
 
-**Promulgado em 1 de Junho de 1974.**
+Promulgado em 1 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

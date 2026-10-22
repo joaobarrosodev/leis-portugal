@@ -48,36 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1972-691619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee531c421b2c982e01aa089b45d3191d427a7a2b6617a3033da257f84ea9afec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d85d815deaf2492d2b0903c005415bed12d32bbb44572f858fb9d218738fbb8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diretor
+- Ensino Oficial
+- Ensino Preparatório
+- Escola do Magistério Primário
+- Estabelecimento de Ensino
+- Recrutamento de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513012:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:686244:por
+  label: "Rectificado [no referente ao art. 2º] pela RECT.DD296.17.11.1972.PC, DG.IS [268] de 17.11.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1972-686244
+  date: '1972-11-17'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:07Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +112,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 1.º do [Decreto-Lei n.º 43345](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43345-1960-513012), de 22 de Novembro de 1960, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 1.º do [Decreto-Lei n.º 43345](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43345-1960-513012), de 22 de Novembro de 1960, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. A nomeação dos directores das escolas oficiais do magistério primário será de futuro feita por livre escolha do Ministro da Educação Nacional de entre os professores dos quadros do ciclo preparatório, de qualquer ramo de ensino secundário ou do magistério primário, desde que uns e outros possuam como habilitação mínima o grau de bacharel, podendo ainda recair em inspectores orientadores do ensino primário ou directores de distrito escolar.
+Artigo 1.º - 1. A nomeação dos directores das escolas oficiais do magistério primário será de futuro feita por livre escolha do Ministro da Educação Nacional de entre os professores dos quadros do ciclo preparatório, de qualquer ramo de ensino secundário ou do magistério primário, desde que uns e outros possuam como habilitação mínima o grau de bacharel, podendo ainda recair em inspectores orientadores do ensino primário ou directores de distrito escolar.
 
-###### Art. 2.º Os artigos 135.º e 137.º do Estatuto do Ciclo Preparatório do Ensino Secundário, aprovado pelo [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1968, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 135.º e 137.º do Estatuto do Ciclo Preparatório do Ensino Secundário, aprovado pelo [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1968, passam a ter a seguinte redacção:
 
-###### Art. 135.º - 1. Nas escolas públicas os directores são nomeados pelo Ministro de entre os professores dos quadros do ciclo preparatório ou de qualquer ramo de ensino secundário.
+Art. 135.º - 1. Nas escolas públicas os directores são nomeados pelo Ministro de entre os professores dos quadros do ciclo preparatório ou de qualquer ramo de ensino secundário.
 
 2. As nomeações poderão também recair em indivíduos licenciados em Psicologia ou Pedagogia por qualquer escola superior, em indivíduos que se tenham distinguido pela sua especial competência em assuntos pedagógicos e ainda em professores do ciclo preparatório ou de qualquer ramo de ensino secundário não pertencentes aos respectivos quadros.
 
@@ -106,14 +126,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 137.º - 1. Os directores das escolas preparatórias públicas nomeados em comissão de serviço terão direito, além da gratificação legalmente estabelecida, aos vencimentos correspondentes aos que auferiam nos seus quadros de origem, a abonar pelas escolas em que exercerem a comissão.
+Art. 137.º - 1. Os directores das escolas preparatórias públicas nomeados em comissão de serviço terão direito, além da gratificação legalmente estabelecida, aos vencimentos correspondentes aos que auferiam nos seus quadros de origem, a abonar pelas escolas em que exercerem a comissão.
 
 2. Quando a nomeação do director recair em indivíduo não pertencente aos quadros, nos termos do n.º 2 do artigo 1.º do presente decreto-lei, ser-lhe-á abonado, enquanto exercer o cargo, além da gratificação respectiva, o vencimento de professor efectivo sem diuturnidade, pago pelas disponibilidades das verbas de pessoal.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 6 de Outubro de 1972.**
+Promulgado em 6 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/10/25200/14561458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49324-1969-215517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f272af52627021f053519e581e618d03527a0ebae38cb97622f15d69e124aac1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c593b0d0d23c61d37bda19b633974f81b1ff29c275a72561b503e076f58fd40c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Militar
+- Oficial do Quadro Permanente
+- Promoção Profissional
+- Quadro de Pessoal
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:373625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146500:por
+  label: "Aditado um nº 5 ao art. 4º, e dada nova redacção ao nº 1 do art. 9º e ao nº 2 do art. 10º pelo DEC LEI.614/70.11.12.1970.MX,\
+    \ DG.IS [286] de 11.12.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/614-1970-146500
+  date: '1970-12-11'
+- type: amended_by
+  target: pt:dre:195789:por
+  label: "Alterados os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 9.º, 10.º, 11.º e 12.º do presente diploma, pelo DEC LEI.686/73.21.12.1973.MX,\
+    \ DG.IS [296] de 21.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/686-1973-195789
+  date: '1973-12-21'
+- type: amended_by
+  target: pt:dre:328651:por
+  label: "Alterados os arts. 9º, 10º, 11º e 13º e revogado o art. 7º pelo DEC LEI.302/78.11.10.1978.CR, DR.IS [234] de 11.10.1978\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-1978-328651
+  date: '1978-10-11'
+- type: amended_by
+  target: pt:dre:390804:por
+  label: "Alterado o artigo 2.º pelo DEC LEI.557-A/80.02.12.1980.CR, DR.IS [278-Supl] de 02.12.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/557-a-1980-390804
+  date: '1980-12-02'
+- type: repealed_by
+  target: pt:dre:373625:por
+  label: "Revogado pelo DEC LEI.296/84.31.08.1984.MDN, DR.IS [202] de 31.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1984-373625
+  date: '1984-08-31'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:22Z'
   warnings: []
   errors: []
 ---
@@ -285,8 +319,8 @@ As dúvidas que surgirem na aplicação do presente diploma serão resolvidas po
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues.
 
-**Promulgado em 15 de Outubro de 1969.**
+Promulgado em 15 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

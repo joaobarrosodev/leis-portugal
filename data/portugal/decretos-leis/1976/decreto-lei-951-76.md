@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 303/1976, 9º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 2900-(191) a 2900-(336)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/951-1976-390977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4b1286e570e94e071fa3d7b58507e268c687d6470df00869a1acecb04114b0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48b5beaa2e125268582996726e854a1fcfcd3d734eb7d5d6633ac9457a3d327b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Financiamento
+- Gestão Orçamental
+- Investimento Público
+- Ordenamento do Território
+- Planeamento Económico
+- Política Agrícola
+- Política de Transportes
+- Política Económica
+- Política Externa
+- Política Financeira
+- Política Fiscal
+- Política Industrial
+- Política Orçamental
+- Política Social
+- Receita Pública
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:162082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:12Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +177,25 @@ de 31 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Governo aprova o Plano para 1977 anexo a este diploma e que dele faz parte integrante, elaborado de harmonia com as grandes opções aprovadas pela Assembleia da República e constantes da [Lei n.º 10/76](https://diariodarepublica.pt/dr/detalhe/lei/10-1976-390978).
+Artigo 1.º O Governo aprova o Plano para 1977 anexo a este diploma e que dele faz parte integrante, elaborado de harmonia com as grandes opções aprovadas pela Assembleia da República e constantes da [Lei n.º 10/76](https://diariodarepublica.pt/dr/detalhe/lei/10-1976-390978).
 
-###### Art. 2.º Os Serviços da Administração Pública, as empresas públicas e demais institutos ficam obrigados a dar execução ao Plano e a orientar as suas acções de gestão corrente por critérios que dêem realização efectiva às opções definidas pela [Lei n.º 10/76](https://diariodarepublica.pt/dr/detalhe/lei/10-1976-390978) e ao Plano.
+Art. 2.º Os Serviços da Administração Pública, as empresas públicas e demais institutos ficam obrigados a dar execução ao Plano e a orientar as suas acções de gestão corrente por critérios que dêem realização efectiva às opções definidas pela [Lei n.º 10/76](https://diariodarepublica.pt/dr/detalhe/lei/10-1976-390978) e ao Plano.
 
-###### Art. 3.º O Governo promoverá as medidas de execução do Plano e a sua adequação à evolução conjuntural.
+Art. 3.º O Governo promoverá as medidas de execução do Plano e a sua adequação à evolução conjuntural.
 
-###### Art. 4.º Trimestralmente serão elaborados pelos serviços competentes relatórios de execução material e financeira acerca dos investimentos e acções constantes do Plano bem como relatórios do contrôle de execução das medidas de política nele previstas.
+Art. 4.º Trimestralmente serão elaborados pelos serviços competentes relatórios de execução material e financeira acerca dos investimentos e acções constantes do Plano bem como relatórios do contrôle de execução das medidas de política nele previstas.
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Janeiro de 1977.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Janeiro de 1977.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 31 de Dezembro de 1976.**
+Promulgado em 31 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## ANEXO A QUE SE REPORTA O ARTIGO 1.º DO DECRETO-LEI QUE APROVA O PLANO PARA 1977
+ANEXO A QUE SE REPORTA O ARTIGO 1.º DO DECRETO-LEI QUE APROVA O PLANO PARA 1977
 
 ## ANEXO — ÍNDICE
 
@@ -214,7 +301,7 @@ Orientações e medidas de política económica.
 
 6.4 - Política monetária.
 
-## APÊNDICE
+APÊNDICE
 
 Informação complementar sobre o PIAP 77
 
@@ -374,7 +461,7 @@ Em resumo, pode dizer-se que, em todos os domínios considerados, as condições
 
 Do QUADRO I ao QUADRO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 1.5 - Emigração e sua incidência no modelo demográfico e na economia
 
@@ -454,7 +541,7 @@ Produção e procura global
 
 Taxas de variação anual do PNB real, corrigidas as variações sazonais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Em termos de produção industrial, esta evolução corresponde a um comportamento do mesmo sentido e maior amplitude, como pode observar-se no quadro seguinte.
 
@@ -462,7 +549,7 @@ QUADRO II
 
 Taxas de variação anual da produção Industrial, corrigidas as variações sazonais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Quanto às várias componentes da procura, os quadros abaixo são elucidativos da evolução verificada.
 
@@ -470,25 +557,25 @@ QUADRO III
 
 Consumo privado (1970-1975)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO IV
 
 Investimento (1970-1975)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO V
 
 Evolução do comércio externo para o conjunto dos países da OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO VI
 
 Variações em percentagem (taxa anual) do volume de comércio, corrigidas as variações sazonais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 As perspectivas ora disponíveis para as várias componentes da procura assinalam, tal como para a produção, algumas melhorias, como se poderá comprovar no quadro seguinte.
 
@@ -496,7 +583,7 @@ QUADRO VII
 
 Variações percentuais para as componentes da procura interna final
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Emprego
 
@@ -518,7 +605,7 @@ QUADRO VIII
 
 Variações percentuais anuais do nível de emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Preços
 
@@ -528,7 +615,7 @@ QUADRO IX
 
 Índices das cotações das matérias-primas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 As inevitáveis repercussões dos agravamentos dos preços de petróleo e das matérias-primas traduziram-se nos níveis dos preços internos, como pode ver-se no quadro X.
 
@@ -536,13 +623,13 @@ QUADRO X
 
 Índice de preços por grosso (1970 = 100)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO XI
 
 Aumento dos preços nos países mais desenvolvidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Durante todo o 1.º semestre de 1976 mantiveram-se pressões inflacionistas mais ou menos generalizadas e de maior ou menor gravidade.
 
@@ -582,7 +669,7 @@ QUADRO I
 
 Estrutura da despesa interna a preços correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 A inflação, medida pela evolução do índice de preços no consumidor, deverá situar-se no corrente ano um pouco abaixo dos 20%, o que, sem deixar de ser um nível muito elevado em termos europeus, é, ainda assim, inferior àquilo que se previa no princípio do ano e da mesma ordem do nível verificado em 1975. A existência de um montante importante de subsídios concedidos pelo sector público (19 milhões de contos) terá contribuído para esta relativa contenção da inflação, cujas causas se devem procurar na permanente tensão da procura sobre a oferta interna.
 
@@ -600,19 +687,19 @@ QUADRO II
 
 Evolução do PIB ao custo dos factores (preços 1970) por sectores de actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO III
 
 Estrutura do PIB ao custo dos factores (preços correntes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO IV
 
 Evolução do produto industrial bruto a custo de factores e preços constantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 2.2 - Emprego
 
@@ -636,13 +723,13 @@ QUADRO I
 
 Procura de emprego (final do ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO II
 
 População activa com profissão (oferta de emprego)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 A melhoria da situação na oferta de postos de trabalho é de certa forma confirmada pelo aumento, em 1976, das ofertas de emprego registadas na DSE e pela redução do número de desempregados por oferta de emprego (quadro III), situação claramente inversa da que vinha a registar-se nos dois últimos anos.
 
@@ -656,19 +743,19 @@ QUADRO III
 
 Procura e oferta de emprego por satisfazer no fim do mês
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO IV
 
 Número de trabalhadores despedidos detectados pela DSE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO V
 
 Desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 2.3 - A repartição do rendimento
 
@@ -678,7 +765,7 @@ QUADRO I
 
 Remunerações do trabalho em percentagem do rendimento nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Não se dispõe de elementos suficientes para estimar os dados relativos a 1976.
 
@@ -692,7 +779,7 @@ QUADRO II
 
 Percentagens de variação anual dos salários médios diários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Os elementos disponíveis sobre salários diários (ver nota 1) relativos a 1976 referem-se apenas ao 1.º semestre deste ano e revelam um crescimento anual da ordem dos 15% na agricultura, 14% nos salários industriais da cidade de Lisboa e cerca de 17% nos salários industriais da cidade do Porto. Relativamente à construção, apenas se dispõe de salários para o 1.º trimestre de 1976, os quais, relativamente a período idêntico do ano anterior, crescem de cerca de 10% (cf. quadro II).
 
@@ -708,7 +795,7 @@ QUADRO III
 
 Distribuição dos trabalhadores por classes de remunerações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 2.4 - Os preços
 
@@ -728,13 +815,13 @@ QUADRO I
 
 Índices de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO II
 
 Índices de preços no consumidor - Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 2.5 - A balança de pagamentos
 
@@ -754,7 +841,7 @@ QUADRO I
 
 Balança de pagamentos correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 No que respeita ao Reino Unido, a exportação mantém-se estagnada em valor, continuando a verificar-se dificuldades, em especial na colocação de têxteis. Quanto a este país, continua-se a perder partes de mercado, uma vez que as suas importações cresceram em volume no 1.º semestre do ano, embora menos acentuadamente que as importações da maioria dos países da Europa Ocidental.
 
@@ -770,13 +857,13 @@ QUADRO II
 
 Exportação de mercadorias por zonas de destino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO III
 
 Exportação por grupos de produtos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Prosseguimento das tendências crescentes das exportações para a EFTA e CEE, com excepção do Reino Unido, no que respeita à CEE, e aproveitamento das vantagens abertas pelas recentes negociações;
 
@@ -822,7 +909,7 @@ QUADRO IV
 
 Importação de mercadorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 C) Movimentos de invisíveis correntes:
 
@@ -844,17 +931,17 @@ QUADRO V
 
 Receitas do turismo estrangeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO VI
 
 Dormidas de estrangeiros na hotelaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 2.6 - A situação monetária e financeira
 
@@ -904,13 +991,13 @@ QUADRO I
 
 Meios totais de pagamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO II
 
 Base monetária - factores determinantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 A evolução recente da actividade destas instituições pode sintetizar-se do seguinte modo (cf. quadro III):
 
@@ -932,19 +1019,19 @@ QUADRO III
 
 Indicadores de situação da banca comercial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO IV
 
 Efeitos comerciais descontados e protestados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO V
 
 Indicadores da situação da Caixa Geral de Depósitos e das caixas económicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 A nítida preferência do público pela Caixa Geral de Depósitos e pelas outras caixas conduziu a que os depósitos totais de empresas e particulares feitos nestas instituições tivessem aumentado de uma forma contínua e bastante equilibrada ao longo do período em análise. Este acréscimo foi particularmente sensível nos depósitos a prazo superior a um ano, que cresceram à taxa média anual de 29,5%, entre Junho de 1974 e igual mês do ano em curso. Contudo, em 1975, os depósitos à ordem registaram taxas de acréscimo ligeiramente superiores às dos depósitos a prazo.
 
@@ -976,13 +1063,13 @@ QUADRO VI
 
 Indicadores de situação do Banco de Fomento Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO VII
 
 Indicadores da situação da Sociedade Financeira Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Por sua vez, as responsabilidades para com o exterior têm vindo a reduzir-se progressiva e continuamente (de 6666 milhares de contos, em Junho de 1974, caíram para 2668 milhares de contos, dois anos depois). A contrapartida desta redução situou-se, a partir de Setembro de 1974, no acréscimo das responsabilidades para com as instituições de crédito nacionais (nomeadamente Banco de Portugal) e, desde Junho de 1975, também na diminuição das disponibilidades sobre o exterior.
 
@@ -1038,7 +1125,7 @@ QUADRO I
 
 Execução do orçamento e variações de tesouraria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 O valor das autorizações de despesa emitidas e ainda não pagas até 31 de Julho situava-se a nível mais elevado do que em igual período de 1975, embora representasse percentagem idêntica do total das despesas autorizadas.
 
@@ -1046,7 +1133,7 @@ Todavia, deve salientar-se que era ainda relativamente baixa a proporção das d
 
 No decurso do ano e até este momento, porém, a posição de tesouraria do Estado tem vindo a apresentar-se mais equilibrada do que no ano passado, conforme se observa no gráfico que segue, relativo à conta do Tesouro no Banco de Portugal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 A evolução das receitas cobradas, que durante o período de Janeiro a Julho aumentaram 14112 milhões de escudos tem vindo a ser particularmente influenciada pelos efeitos das medidas de política fiscal previstas no Orçamento e adoptadas próximo do início deste ano. Deste modo, e em face da recuperação económica que se tem processado, as receitas fiscais cresceram à taxa de 36,3%, contra apenas 9,4% no período correspondente a 1975. Deduzindo as receitas da sobretaxa de importação, que começou a cobrar-se a partir de Junho de 1975 e foi prorrogada até ao final do ano, observa-se um crescimento das receitas fiscais de 31% nos primeiros sete meses deste ano.
 
@@ -1060,7 +1147,7 @@ QUADRO II
 
 Receitas cobradas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Nos impostos directos, após a quebra registada no exercício de 1975, observou-se nos primeiros sete meses deste ano um acréscimo de 2301000 contos (+24,3%). Para esta evolução concorreu especialmente a subida verificada nas receitas provenientes do imposto profissional, que se processou à taxa de 30,7%, devido sobretudo à expansão dos rendimentos do trabalho, igualmente as cobranças do imposto complementar revelaram sensível elevação, o que se explica principalmente pelo adiamento determinado no ano passado para as cobranças correspondentes aos rendimentos de 1974, que começaram a efectuar-se a partir de Maio último.
 
@@ -1082,7 +1169,7 @@ QUADRO III
 
 Despesas orçamentais autorizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Por outro lado, no aumento de 2449000 contos observado nas despesas ordinárias de defesa influiu particularmente o facto de ter passado a ser pago por dotações ordinárias o pessoal das forças armadas que anteriormente prestava serviço nas antigas colónias.
 
@@ -1170,13 +1257,13 @@ QUADRO I
 
 Expropriações (15 de Abril de 1976)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO II
 
 Cooperativas de produção Integral - Unidades colectivas de produção (31 de Março de 1976)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Nota. - No distrito de Évora 250 herdades deram origem apenas a 20 unidades colectivas de produção com mais de 5000 ha cada uma, abrangendo na totalidade cerca de 150000 ha.
 
@@ -1196,7 +1283,7 @@ QUADRO III
 
 Importância do sector público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Dada a quebra de investimento que se operou nos anos de 1975 e 1976 e que incidiu indubitavelmente com maior intensidade no sector privado, é de esperar que valores obtidos a partir de dados da contabilidade nacional daqueles anos indiquem um peso consideravelmente superior, relativamente à formação de capital fixo.
 
@@ -1286,7 +1373,7 @@ QUADRO IV
 
 Cooperativas por sectores de actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 No que se refere à dinâmica do sector cooperativo, as cooperativas existentes podem agrupar-se em duas grandes categorias: a das cooperativas de consumo, em que a cooperativa é uma associação de consumidores (de bens correntes, habitação ou serviços) e a das cooperativas de produção, em que os sócios são, na sua maioria, trabalhadores das mesmas.
 
@@ -1478,13 +1565,13 @@ QUADRO I
 
 Produto e despesa internos - 1974-1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO II
 
 Poupança e investimento (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 (nota a) Percentagens calculadas em relação ao total da despesa interna.
 
@@ -1532,7 +1619,7 @@ QUADRO III
 
 Finanças do sector público em 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Da análise do quadro III importa salientar, em relação ao Orçamento Geral do Estado, os seguintes aspectos da evolução prevista para 1977:
 
@@ -1566,7 +1653,7 @@ QUADRO I
 
 FBCF-PIAP e PISEE (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 (nota a) Inclui bancos e seguros.
 
@@ -1620,7 +1707,7 @@ PIAP/77
 
 Investimentos por sectores e fontes de financiamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Comparando os montantes propostos para 1977 com os relativos a 1976, e tendo em conta a redução de 15% que sobre este foi determinada, verifica-se que o PIAP/77 supera o de 1976 em cerca de 107%, no que respeita ao OGE, e em 135%, considerando o conjunto das fontes de financiamento (quadro II).
 
@@ -1636,7 +1723,7 @@ PIAP/77
 
 Quadro comparativo da estrutura dos programas de investimentos de 1976 e 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO IV
 
@@ -1644,7 +1731,7 @@ PIAP/77
 
 Investimentos por Ministérios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Na segunda posição e pouco distanciado do MOP encontra-se o Ministério da Habitação, Urbanismo e Construção, devido, essencialmente, ao programa habitacional a cargo do Fundo de Fomento da Habitação. A terceira posição cabe ao Ministério da Agricultura e Pescas, como resultado das acções de estruturação agrária.
 
@@ -1658,7 +1745,7 @@ PIAP/77
 
 Principais efeitos macroeconómicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Análise espacial
 
@@ -1676,13 +1763,13 @@ PIAP/77
 
 Distribuição do investimento por distritos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO VII
 
 Síntese da distribuição dos investimentos da totalidade dos sectores por distritos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 O distrito que recebe maior percentagem de investimento naquelas condições é o de Setúbal (28,4%), em virtude dos 4 milhões de contos consignados ao empreendimento de Sines. Seguem-se, a grande distância, os distritos de Lisboa (12%), Porto (8,5%) e Faro (6%). Num escalão mais baixo, com menos de 1%, situam-se os restantes distritos.
 
@@ -1710,13 +1797,13 @@ QUADRO VIII
 
 PIAP/77 - Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 QUADRO IX
 
 PIAP/77 - Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 Os quadros VIII e IX contém o programa de investimentos para os Açores e Madeira, evidenciando, por sectores, o montante dos projectos em curso e dos projectos novos.
 
@@ -1762,7 +1849,7 @@ PISEE/77
 
 Resumo dos projectos, segundo o estado de adiantamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
 ### CAPÍTULO V — Acompanhamento e «contrôle» da execução do Plano 77
 
@@ -2482,6 +2569,6 @@ Revisão das condições de emissão e circulação de diversos tipos de efeitos
 
 PIAP/77
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf))](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/30309/01910336.pdf)
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/355-1970-141250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04fe05c24dfd3164486f5801a7c3638523091dd3509021f47ad872452fbbf290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08822b555beaa132a74c67d9cc0c36cb218f1e9c05c638792662700e44270c0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:34Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ Ouvido o Governo-Geral de Moçambique e o Conselho Ultramarino, em sessão plen�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É criado na província de Moçambique o distrito de Vila Pery, com sede na povoação do mesmo nome.
+Artigo 1.º - 1. É criado na província de Moçambique o distrito de Vila Pery, com sede na povoação do mesmo nome.
 
 2. O distrito de Vila Pery compreenderá os concelhos do Báruè, do Chimoio e de Manica e a circunscrição do Mossurize, todos actualmente pertencentes ao distrito de Manica e Sofala e com os limites que neste momento possuem.
 
@@ -106,13 +106,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. A área do actual distrito de Manica e Sofala não integrada nos distritos de Vila Pery e de Tete passa a constituir o distrito da Beira, com sede na cidade da Beira.
 
-###### Art. 2.º O presente diploma entrará em vigor em 1 de Janeiro de 1971, devendo, entretanto, o Governo-Geral de Moçambique tomar as providências de ordem financeira e as demais necessárias para dar execução ao que nele se estabelece.
+Art. 2.º O presente diploma entrará em vigor em 1 de Janeiro de 1971, devendo, entretanto, o Governo-Geral de Moçambique tomar as providências de ordem financeira e as demais necessárias para dar execução ao que nele se estabelece.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Julho de 1970.**
+Promulgado em 11 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

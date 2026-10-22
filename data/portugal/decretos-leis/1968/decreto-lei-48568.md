@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/09/20900/12821283.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48568-1968-265106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03f76fb4b7289bab2a25c9a5571b0fda168ee80fdec0dfc26bbb9a3982fc62ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b38cab8e58899d67b0db951cf37ea86cd6828e0b0e9d3f793f28338be4f53d9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Empresa
+- Energia Nuclear
+- Fiscalização
+- Indústria Mineira
+- Investigação Científica e Tecnológica
+- Junta de Energia Nuclear
+- Pessoal de Inspecção
+- Petroquímica
 relationships:
 - type: amended_by
   target: pt:dre:543735:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341001:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543735:por
+  label: "Revogado, a partir de 14.02.2012, pelo DEC LEI.30/2012.09.02.2012.MECI, DR.IS [29] de 09.02.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2012-543735
+  date: '2012-02-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:29Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +121,7 @@ Reconhecendo-se a conveniência de esclarecer e completar as disposições do [D
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Ficam sujeitas à inspecção da Junta de Energia Nuclear as empresas que procedam ao estudo ou ao exercício de actividades nucleares, designadamente de:
+Artigo 1.º - 1. Ficam sujeitas à inspecção da Junta de Energia Nuclear as empresas que procedam ao estudo ou ao exercício de actividades nucleares, designadamente de:
 
 a) Prospecção, reconhecimento e extracção de minérios radioactivos e afins;
 
@@ -125,7 +147,7 @@ c) A protecção contra radiações das instalações e das áreas adjacentes;
 
 d) A segurança nuclear das mesmas instalações e áreas.
 
-###### Art. 2.º - 1. A inspecção a que se refere o presente diploma será exercida com carácter regular por pessoas de comprovada competência em assuntos de energia nuclear, a designar pelo Presidente do Conselho, mediante proposta do presidente da Junta.
+Art. 2.º - 1. A inspecção a que se refere o presente diploma será exercida com carácter regular por pessoas de comprovada competência em assuntos de energia nuclear, a designar pelo Presidente do Conselho, mediante proposta do presidente da Junta.
 
 2. Os inspectores dependerão do presidente da Junta, por intermédio dos directores-gerais respectivos.
 
@@ -135,7 +157,7 @@ d) A segurança nuclear das mesmas instalações e áreas.
 
 5. As entregas das empresas a que se refere o § 3.º do referido artigo 7.º do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866) são consideradas receita da Junta de Energia Nuclear, nos termos do artigo 11.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958.
 
-###### Art. 3.º As empresas sujeitas à disciplina deste diploma são obrigadas a facultar aos inspectores a prática dos actos necessários ao bom desempenho das suas funções, designadamente no que respeita:
+Art. 3.º As empresas sujeitas à disciplina deste diploma são obrigadas a facultar aos inspectores a prática dos actos necessários ao bom desempenho das suas funções, designadamente no que respeita:
 
 a) Às instalações e respectivo pessoal e equipamento;
 
@@ -145,7 +167,7 @@ c) A quaisquer fases das operações de funcionamento ou laboração;
 
 d) À observância das normas estabelecidas contra radiações e de segurança nuclear.
 
-###### Art. 4.º - 1. Os inspectores comunicarão superiormente todas as irregularidades ou deficiências que verificarem no exercício das suas funções.
+Art. 4.º - 1. Os inspectores comunicarão superiormente todas as irregularidades ou deficiências que verificarem no exercício das suas funções.
 
 2. O presidente da Junta poderá notificar as empresas para corrigir as irregularidades ou Suprir as deficiências existentes, determinando as providências a adoptar e fixando prazos para esse efeito.
 
@@ -153,8 +175,8 @@ d) À observância das normas estabelecidas contra radiações e de segurança n
 
 4. Os inspectores podem, em caso de perigo grave ou de especial urgência, ordenar a imediata suspensão de quaisquer actividades, submetendo a sua decisão a confirmação do Presidente do Conselho, por intermédio e com os pareceres do presidente da Junta e dos respectivos directores-gerais.
 
-###### Art. 5.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1969.
+Art. 5.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1969.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

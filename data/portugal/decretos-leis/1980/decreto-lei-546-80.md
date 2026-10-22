@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/546-1980-458232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 422fa8efd1365eeb3347d1991291ecdaf0a0c9f0c72863fffbf93c4c1c59751c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430363d5f9f42bd5b8c6667d8c7d518dbcaefa449ad049b1c8d67b5c11cec23a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato
+- Definição de Competências
+- Forças Armadas
+- Médico
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:225839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:32Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +106,11 @@ Considerando que a experiência colhida durante a vigência do [Decreto-Lei n.º
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os Chefes dos Estados-Maiores dos três ramos das forças armadas, mediante proposta dos directores dos serviços de saúde, depois de ouvidas as direcções dos hospitais, poderão nomear, dentro dos respectivos ramos e mediante portaria, médicos altamente qualificados pelos seus conhecimentos científicos e técnicos como assessores científicos.
+Artigo 1.º - 1 - Os Chefes dos Estados-Maiores dos três ramos das forças armadas, mediante proposta dos directores dos serviços de saúde, depois de ouvidas as direcções dos hospitais, poderão nomear, dentro dos respectivos ramos e mediante portaria, médicos altamente qualificados pelos seus conhecimentos científicos e técnicos como assessores científicos.
 
 2 - Os assessores científicos serão colocados nas direcções dos serviços de saúde, podendo exercer a sua actividade em estabelecimentos hospitalares quando a especialidade e necessidade dos seus conhecimentos o justifique.
 
-###### Art. 2.º - 1 - São atribuições dos médicos assessores científicos:
+Art. 2.º - 1 - São atribuições dos médicos assessores científicos:
 
 a) Elaborar pareceres e colaborar nos projectos e programas hospitalares de ensino e investigação;
 
@@ -113,18 +130,18 @@ g) Observar, dar parecer ou decisão sobre doentes da sua especialidade que lhes
 
 3 - Compete aos directores dos serviços de saúde esclarecer as dúvidas que possam surgir quanto à prestação do apoio técnico e científico, bem como orientar a actividade dos assessores científicos por forma a obter destes a melhor colaboração e eficiência.
 
-###### Art. 3.º Os médicos assessores científicos são admitidos, nos termos do artigo 1.º, por contrato anual, renovável automaticamente, se não for renunciado por uma das partes com antecedência de sessenta dias, recebendo uma remuneração mensal a fixar por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+Art. 3.º Os médicos assessores científicos são admitidos, nos termos do artigo 1.º, por contrato anual, renovável automaticamente, se não for renunciado por uma das partes com antecedência de sessenta dias, recebendo uma remuneração mensal a fixar por despacho do Chefe do Estado-Maior-General das Forças Armadas.
 
-###### Art. 4.º - 1 - Fica revogado o [Decreto-Lei n.º 311/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1977-255445), de 5 de Agosto; os médicos contratados nos termos deste diploma transitam para o regime estabelecido no presente decreto-lei.
+Art. 4.º - 1 - Fica revogado o [Decreto-Lei n.º 311/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1977-255445), de 5 de Agosto; os médicos contratados nos termos deste diploma transitam para o regime estabelecido no presente decreto-lei.
 
 2 - Os médicos civis consultores técnicos que prestam serviço nos termos do [Decreto-Lei n.º 156/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1970-225839), de 13 de Abril, e que não sejam contratados nos termos do presente diploma poderão continuar ao serviço dos forças armadas, se assim o desejarem, nos termos do [Decreto-Lei n.º 524-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-c-1977-331851), de 28 de Dezembro, sem prejuízo de direitos eventualmente adquiridos.
 
-###### Art. 5.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e do Chefe do Estado-Maior do ramo a que tal disser respeito.
+Art. 5.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e do Chefe do Estado-Maior do ramo a que tal disser respeito.
 
 Visto e aprovado em Conselho da Revolução em 23 de Outubro de 1980.
 
-**Promulgado em 7 de Novembro de 1980.**
+Promulgado em 7 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

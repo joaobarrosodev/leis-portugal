@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45691-1964-582798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:48:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d1d0e2a644fe3f95ea72a8ed4a349c47fee53cf3beff8f5d9131b67463073a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b0618231a736ce14c505027d8c545a675f8d373466db05f0f22574bbaaf707c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açúcar
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:581632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598125:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:48:56Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +98,13 @@ O quadro seguinte mostra o esforço frutìferamente realizado, pelas províncias
 
 (Quilogramas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/04/10100/05950597.pdf))](https://files.diariodarepublica.pt/1s/1964/04/10100/05950597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/04/10100/05950597.pdf)
 
 2. Apesar disso, o desenvolvimento da produção açucareira ultramarina não bastou para satisfazer totalmente o consumo da metrópole e das províncias ultramarinas, o qual apresentou a seguinte evolução:
 
 (Toneladas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/04/10100/05950597.pdf))](https://files.diariodarepublica.pt/1s/1964/04/10100/05950597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/04/10100/05950597.pdf)
 
 3. No respeitante a preços, o [Decreto-Lei n.º 38701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38701-1952-598125) - a que se seguiram em Angola a [Portaria n.º 8179](https://diariodarepublica.pt/dr/detalhe/portaria/8179-1935-581632), de 29 de Abril de 1953, e em Moçambique o Diploma Legislativo n.º 1357, de 30 de Abril de 1953 - criou um sistema constituído por preços-base, para as ramas amarelas e para o açúcar cristal branco, e por um mecanismo de revisão.
 
@@ -122,13 +132,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O corpo do artigo 6.º do [Decreto-Lei n.º 38701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38701-1952-598125) de 28 de Março de 1952, passa a ter a seguinte redacção:
+Artigo 1.º O corpo do artigo 6.º do [Decreto-Lei n.º 38701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38701-1952-598125) de 28 de Março de 1952, passa a ter a seguinte redacção:
 
-###### Art. 6.º É fixado em 3$35 o preço-base C. I. F. Tejo ou Leixões do quilograma das ramas amarelas com o grau polarimétrico mínimo de 97,5º, remetidas de Angola e Moçambique pelas empresas produtoras, e em 4$40 o preço-base C. I. F. Tejo ou Leixões do quilograma de açúcar cristal branco com o grau polarimétrico mínimo de 99,5º pronto para entrar no consumo e pelas mesmas empresas fornecido.
+Art. 6.º É fixado em 3$35 o preço-base C. I. F. Tejo ou Leixões do quilograma das ramas amarelas com o grau polarimétrico mínimo de 97,5º, remetidas de Angola e Moçambique pelas empresas produtoras, e em 4$40 o preço-base C. I. F. Tejo ou Leixões do quilograma de açúcar cristal branco com o grau polarimétrico mínimo de 99,5º pronto para entrar no consumo e pelas mesmas empresas fornecido.
 
-###### Art. 2.º O presente decreto-lei entra em vigor, no continente e nas províncias ultramarinas, em 1 de Maio próximo.
+Art. 2.º O presente decreto-lei entra em vigor, no continente e nas províncias ultramarinas, em 1 de Maio próximo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

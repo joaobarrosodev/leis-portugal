@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,209 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/377-1971-630650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbf7d4258f54732eeadd708791123f7922b21534f82014dabaaa45c9f9a6d01f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 337e25cb255e0dea8dae5e678ad4824dd9cd55de30b3144019a018e33d0f9e18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Carreira Militar
+- Definição de Competências
+- Especialidade Militar
+- Estado Maior da Força Aérea
+- Estado Maior General das Forças Armadas
+- Estatuto
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Militar
+- Oficial do Quadro Permanente
+- Oficial Miliciano
+- Quadro de Pessoal
+- Quadro Permanente da Força Aérea
+- Quadro Permanente das Forças Armadas
+- Supremo Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:559052:por
+  label: Alterados os arts. 126.º, 127.º, 146.º, 158.º e 158.º-A do Estatuto pelo(a) Portaria n.º 338-A/75 - Diário do Governo
+    n.º 129/1975, 1º Suplemento, Série I de 1975-06-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/338-a-1975-559052
+  date: '1975-06-05'
+- type: amended_by
+  target: pt:dre:314617:por
+  label: Alterados os arts. 6.º, 50.º, 66.º, 70.º, 120.º, 190.º e 207.º, substituido o mapa n.º 1 a que se refere o art. 71.º
+    e aditado o mapa n.º 3 ao Estatuto pelo(a) Portaria n.º 493/75 - Diário do Governo n.º 188/1975, Série I de 1975-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/493-1975-314617
+  date: '1975-08-16'
+- type: amended_by
+  target: pt:dre:307627:por
+  label: Alterado o art. 208.º do Estatuto pelo(a) Portaria n.º 530/75 - Diário do Governo n.º 201/1975, Série I de 1975-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/530-1975-307627
+  date: '1975-09-01'
+- type: amended_by
+  target: pt:dre:480773:por
+  label: Alterados os arts. 16.º, 38.º, 39.º, 41.º, 42.º, 70.º, 98.º, 99.º, 100.º, 104.º, 105.º, 155.º, 156.º, 157.º, 158.º,
+    158.º-A, 159.º e 160.º do Estatuto do Oficial da Força Aérea pelo(a) Portaria n.º 4/76 - Diário do Governo n.º 2/1976,
+    Série I de 1976-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1976-480773
+  date: '1976-01-03'
+- type: amended_by
+  target: pt:dre:506060:por
+  label: "Dada nova redacção ao nº 2 do art. 60º e ao art. 66º do Estatuto do Oficial da Força Aérea pelo DEC LEI.28/76.16.01.1976.CR,\
+    \ DG.IS [13] de 16.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-1976-506060
+  date: '1976-01-16'
+- type: amended_by
+  target: pt:dre:408685:por
+  label: Alterado o o mapa incluído no art. 11.º, bem como os arts. 43.º, 44.º, 51.º, 98.º, 101.º, 194.º, 209.º e 212.º, revogados
+    a al. j) do n.º 2 do art. 60.º, o n.º 4 do art. 61.º, a subal. 5) da al. b) do art. 66.º e o art. 213.º e aditada a subal.19)
+    ao art. 66.º, pelo(a) Portaria n.º 561/76 - Diário da República n.º 211/1976, Série I de 1976-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/561-1976-408685
+  date: '1976-09-08'
+- type: amended_by
+  target: pt:dre:409479:por
+  label: Alterado o ponto 17 da al. b) do art. 66.º, al. b) do n.º 2 e n.º 3 do art. 100.º e art. 159.º do Estatuto do Oficial
+    da Força Aérea, aprovado e posto em execução pelo presente diploma, pelo(a) Portaria n.º 623/76 - Diário da República
+    n.º 246/1976, Série I de 1976-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1976-409479
+  date: '1976-10-20'
+- type: amended_by
+  target: pt:dre:141788:por
+  label: Aditado um n.º 4.º ao art. 175.º do Estatuto do Oficial da Força Aérea pelo(a) Portaria n.º 80/77 - Diário da República
+    n.º 41/1977, Série I de 1977-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-1977-141788
+  date: '1977-02-18'
+- type: amended_by
+  target: pt:dre:294735:por
+  label: Alterados os arts. 176.º e 177.º (este com as alterações constantes da Port 561/76 de 08-set) do Estatuto do Oficial
+    da Força Aérea, aprovado no presente diploma, pelo DEC LEI.129/78.05.06.1978.CR, DR.IS [128] de 05.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1978-294735
+  date: '1978-06-05'
+- type: amended_by
+  target: pt:dre:295157:por
+  label: Alterados os n.ºs 1 e 2 do art. 98.º, a al. a) do n.º 2 do art. 100.º e o art. 156.º do Estatuto do Oficial da Força
+    Aérea (EOFAP) e substituída a expressão «curso de altos comandos», constante dos arts. 93.º, 98.º, 101.º, 105.º, 153.º,
+    155.º, 156.º e 157.º do Estatuto pela expressão «curso superior de guerra aérea» pelo(a) Portaria n.º 329/78 - Diário
+    da República n.º 139/1978, Série I de 1978-06-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/329-1978-295157
+  date: '1978-06-20'
+- type: amended_by
+  target: pt:dre:682233:por
+  label: "Alterada a alínea a) do artigo 47.º, a alínea c) do n.º 1 do artigo 48.º, artigo 70.º, artigo 73.º, a alínea a)\
+    \ do artigo 141.º e as alíneas a) e c) do artigo 144.º, todos do Estatuto do Oficial da Força Aérea, aprovado pelo presente\
+    \ diploma, pela PORT.156/80.05.04.1980.CR, DR.IS [80] de 05.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-1980-682233
+  date: '1980-04-05'
+- type: amended_by
+  target: pt:dre:472946:por
+  label: "Aditado um n.º 3 ao artigo 56.º do EOFAP pela PORT.329/80.12.06.1980.CR, DR.IS [134] de 12.06.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/329-1980-472946
+  date: '1980-06-12'
+- type: amended_by
+  target: pt:dre:473565:por
+  label: "Alterado o nº 2 do art. 173º do Estatuto pela PORT.351/80.26.06.1980.CR, DR.IS [145] de 26.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-1980-473565
+  date: '1980-06-26'
+- type: amended_by
+  target: pt:dre:390655:por
+  label: "Alterados os arts. 11º, 41º, 66º e 160º, substituídos os mapas nºs 1 e 2 anexos e aditado um nº 5 ao art. 122º,\
+    \ todos do Estatuto do Oficial da Força Aérea, aprovado no presente diploma, pela PORT.222/81.27.02.1981.CR, DR.IS [49]\
+    \ de 27.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-1981-390655
+  date: '1981-02-27'
+- type: amended_by
+  target: pt:dre:388060:por
+  label: "Dada nova redacção à alínea b) do artigo 66.º (na redacção da Portaria 222/81, de 27 de Fevereiro), à subalínea\
+    \ 3) da alínea c) do n.º 1 do artigo 70.º, artigos 88.º, 136.º, 139.º, 142.º e 199.º e revoga o artigo 197.º do presente\
+    \ diploma, pela PORT.274/81.17.03.1981.CR, DR.IS [63] de 17.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1981-388060
+  date: '1981-03-17'
+- type: amended_by
+  target: pt:dre:600758:por
+  label: "Alterado o nº 1 do art. 11º pela PORT.132/82.1982.01.30.CR, DR.IS [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-1982-600758
+  date: '1982-01-30'
+- type: amended_by
+  target: pt:dre:608217:por
+  label: "Alterado o art. 66º pela PORT.326/82.1982.03.27.CR, DR.IS [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-1982-608217
+  date: '1982-03-27'
+- type: amended_by
+  target: pt:dre:391813:por
+  label: "Alterado o art. 61º pela PORT.550/82.1982.06.04.CR, DR.IS [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-1982-391813
+  date: '1982-06-04'
+- type: amended_by
+  target: pt:dre:375239:por
+  label: "Alteradp o art. 72.º do Estatuto do Oficial da Força Aéra aprovado pelo presente diploma, pela PORT.891/82.23.09.1982.CR,\
+    \ DR.IS [221] de 23.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/891-1982-375239
+  date: '1982-09-23'
+- type: amended_by
+  target: pt:dre:243371:por
+  label: "Dada nova redacção aos arts. 66.º, 72.º, 175.º e 193.º do Estatuto aprovado pelo presente diploma, pela PORT.1012-H/82.29.10.1982.CR,\
+    \ DR.IS [251-2.º Supl] de 29.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-h-1982-243371
+  date: '1982-10-29'
+- type: amended_by
+  target: pt:dre:399858:por
+  label: "Substituídos os mapas n.ºs 1 e 3 a que se referem os arts. 72.º e 66.º do EOFAP, pela PORT.782/84.04.10.1984.MDN,\
+    \ DR.IS [231] de 04.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/782-1984-399858
+  date: '1984-10-04'
+- type: amended_by
+  target: pt:dre:228592:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma da al. b) do art. 196.º do Estatuto do\
+    \ Oficial da Força Aérea, aprovado pelo presente diploma, pelo AC.204/86.11.06.1986.TCS, DR.IS [145] de 27.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/204-1986-228592
+  date: '1986-06-11'
+- type: cites
+  target: pt:dre:432401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391860:por
+  label: "Revogados os nºs. 2 e 3 do art. 7.º pela PORT.549/82.1982.05.12.CR DR.IS [126] DE 03/JUN/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/549-1982-391860
+  date: '1982-05-12'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:03Z'
   warnings: []
   errors: []
 ---
@@ -92,55 +261,55 @@ Em conformidade com o disposto no artigo 1.º do [Decreto-Lei n.º 46672](https:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É Aprovado e posto em execução o Estatuto do Oficial da Força Aérea, que faz parte integrante deste decreto.
+Artigo único. É Aprovado e posto em execução o Estatuto do Oficial da Força Aérea, que faz parte integrante deste decreto.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - José Pereira do Nascimento.
 
-**Promulgado em 20 de Agosto de 1971.**
+Promulgado em 20 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ESTATUTO DO OFICIAL DA FORÇA AÉREA
 
 ### CAPÍTULO I — Introdução
 
-###### Artigo 1.º O conjunto dos oficiais da Força Aérea compreende:
+Artigo 1.º O conjunto dos oficiais da Força Aérea compreende:
 
 a) Oficiais dos quadros permanentes:
 
 b) Oficiais de complemento (milicianos).
 
-###### Art. 2.º Consideram-se oficiais dos quadros permanentes da Força Aérea os que, tendo escolhido a carreira das armas, adquiriram preparação especial para o seu exercício na Força Aérea e nela servem como profissionais, com carácter de permanência.
+Art. 2.º Consideram-se oficiais dos quadros permanentes da Força Aérea os que, tendo escolhido a carreira das armas, adquiriram preparação especial para o seu exercício na Força Aérea e nela servem como profissionais, com carácter de permanência.
 
-###### Art. 3.º - 1. O Estatuto do Oficial da Força Aérea (E. O. F. A. P.) destina-se a estabelecer as normas fundamentais que regem a carreira dos oficiais dos quadros permanentes da Força Aérea.
+Art. 3.º - 1. O Estatuto do Oficial da Força Aérea (E. O. F. A. P.) destina-se a estabelecer as normas fundamentais que regem a carreira dos oficiais dos quadros permanentes da Força Aérea.
 
 2. A necessária regulamentação de pormenor será publicada em portarias e despachos do Secretário de Estado da Aeronáutica.
 
-###### Art. 4.º Diploma especial definirá as disposições aplicáveis aos oficiais de complemento.
+Art. 4.º Diploma especial definirá as disposições aplicáveis aos oficiais de complemento.
 
 ### CAPÍTULO II — Obrigações e direitos
 
-###### Art. 5.º Aos oficiais da Força Aérea respeitam as obrigações e os direitos expressos no capítulo II do Estatuto dos Oficiais das Forças Armadas.
+Art. 5.º Aos oficiais da Força Aérea respeitam as obrigações e os direitos expressos no capítulo II do Estatuto dos Oficiais das Forças Armadas.
 
 ### CAPÍTULO III — Hierarquia
 
-###### Art. 6.º - 1. As categorias e postos dos oficiais da Força Aérea, por ordem decrescente, correspondentes às categorias e postos dos oficiais do Exército e da Armada, são os seguintes:
+Art. 6.º - 1. As categorias e postos dos oficiais da Força Aérea, por ordem decrescente, correspondentes às categorias e postos dos oficiais do Exército e da Armada, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf))](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
 
 2. O posto de aspirante a oficial vem, na ordem decrescente dos postos, imediatamente a seguir ao de alferes, sendo considerado, especialmente no que respeita a continências e honras militares, como pertencente à categoria dos oficiais subalternos.
 
-###### Art. 7.º - 1. O posto de marechal da Força Aérea constitui uma dignidade que só excepcionalmente poderá ser conferida ao oficial general da Força Aérea que, no exercício de funções de comando ou de direcção suprema, tenha revelado predicados, praticado feitos ou prestado à Nação serviços tão excepcionais que por eles mereça a recompensa dessa alta dignidade.
+Art. 7.º - 1. O posto de marechal da Força Aérea constitui uma dignidade que só excepcionalmente poderá ser conferida ao oficial general da Força Aérea que, no exercício de funções de comando ou de direcção suprema, tenha revelado predicados, praticado feitos ou prestado à Nação serviços tão excepcionais que por eles mereça a recompensa dessa alta dignidade.
 
 2. O oficial general da Força Aérea investido segundo as normas constitucionais no cargo de Presidente da República tem direito, a título vitalício, à dignidade de marechal da Força Aérea.
 
 3. Os marechais da Força Aérea desempenham funções de inspecção de que darão exclusivamente conta ao Ministro da Defesa Nacional e ao Secretário de Estado da Aeronáutica.
 
-###### Art. 8.º O ordenamento hierárquico dos oficiais da Força Aérea é feito segundo categorias e postos.
+Art. 8.º O ordenamento hierárquico dos oficiais da Força Aérea é feito segundo categorias e postos.
 
-###### Art. 9.º - 1. Em cada posto, a hierarquia é determinada pela antiguidade relativa, sem prejuízo do preceituado no artigo 10.º
+Art. 9.º - 1. Em cada posto, a hierarquia é determinada pela antiguidade relativa, sem prejuízo do preceituado no artigo 10.º
 
 2. A antiguidade relativa dos oficiais do mesmo posto, pertencentes ao mesmo quadro, é determinada pela sua posição na escala de antiguidades elaborada pela Direcção do Serviço de Pessoal, tendo em conta a data de antiguidade no posto expressa nos diplomas de promoção e, em igualdade desta, a antiguidade no posto anterior.
 
@@ -158,7 +327,7 @@ b) Oficiais de complemento (milicianos).
 
 9. Dentro de cada posto os oficiais nele graduados são sempre considerados como tendo menor antiguidade do que os oficiais promovidos a esse posto.
 
-###### Art. 10.º - 1. À hierarquia em cada posto determinada de harmonia com o preceituado no artigo 9.º sobrepõe-se a que resulta do exercício de certas funções, como é especificado neste estatuto ou conste de outros diplomas legais pertinentes.
+Art. 10.º - 1. À hierarquia em cada posto determinada de harmonia com o preceituado no artigo 9.º sobrepõe-se a que resulta do exercício de certas funções, como é especificado neste estatuto ou conste de outros diplomas legais pertinentes.
 
 2. O general de quatro estrelas ou vice-almirante que desempenhe as funções de chefe do Estado-Maior-General das Forças Armadas é hieràrquicamente superior a todos os generais de quatro estrelas e vice-almirantes em serviço nas forças armadas, seguindo-se-lhe imediatamente o que desempenhe as funções de presidente do Supremo Tribunal Militar.
 
@@ -170,11 +339,11 @@ b) Oficiais de complemento (milicianos).
 
 #### SECÇÃO I — Designações
 
-###### Art. 11.º Na Força Aérea os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos indicados e, dentro de cada posto, por ordem decrescente de antiguidade:
+Art. 11.º Na Força Aérea os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos indicados e, dentro de cada posto, por ordem decrescente de antiguidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf))](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
 
-###### Art. 12.º Os oficiais designam-se pelo posto e quadro; quando não estejam no activo, acrescenta-se a situação:
+Art. 12.º Os oficiais designam-se pelo posto e quadro; quando não estejam no activo, acrescenta-se a situação:
 
 Reserva;
 
@@ -182,19 +351,19 @@ Reforma;
 
 Separado do serviço.
 
-###### Art. 13.º - 1. A composição e os efectivos dos quadros referidos no artigo 11.º são fixados em diploma especial, no que respeita a oficiais no activo.
+Art. 13.º - 1. A composição e os efectivos dos quadros referidos no artigo 11.º são fixados em diploma especial, no que respeita a oficiais no activo.
 
 2. Para os oficiais nas situações de reserva, de reforma e de separado do serviço os efectivos não são fixos.
 
-###### Art. 14.º - 1. Os efectivos dos quadros e a sua conveniente distribuição por postos destinam-se a fazer face às necessidades da Força Aérea para o desempenho das missões que lhe estão atribuídas.
+Art. 14.º - 1. Os efectivos dos quadros e a sua conveniente distribuição por postos destinam-se a fazer face às necessidades da Força Aérea para o desempenho das missões que lhe estão atribuídas.
 
 2. Sem prejuízo do estabelecido no número anterior, a constituição dos quadros deverá assegurar o conveniente equilíbrio no acesso aos mesmos postos em quadros de idênticas características.
 
-###### Art. 15.º A Direcção do Serviço de Pessoal da Força Aérea providenciará para que os quadros de oficiais estejam sempre preenchidos. Quando haja vacaturas em qualquer dos quadros deve promover-se o seu preenchimento imediato por oficiais que reúnam as necessárias condições legais de promoção.
+Art. 15.º A Direcção do Serviço de Pessoal da Força Aérea providenciará para que os quadros de oficiais estejam sempre preenchidos. Quando haja vacaturas em qualquer dos quadros deve promover-se o seu preenchimento imediato por oficiais que reúnam as necessárias condições legais de promoção.
 
 #### SECÇÃO II — Ingresso
 
-###### Art. 16.º O ingresso nos quadros de oficiais na situação de activo faz-se:
+Art. 16.º O ingresso nos quadros de oficiais na situação de activo faz-se:
 
 a) Independentemente de vacatura:
 
@@ -212,113 +381,113 @@ b) Mediante vacatura:
 
 3) Para os restantes casos previstos neste estatuto.
 
-###### Art. 17.º - 1. O ingresso no quadro de pilotos aviadores faz-se no posto de alferes por promoção dos alunos que tenham completado o curso de aeronáutica da Academia Militar ou escola militar equivalente, ordenados por cursos, e, dentro de cada curso, pelas classificações nele obtidas, entendendo-se os tirocínios como parte integrante daqueles cursos.
+Art. 17.º - 1. O ingresso no quadro de pilotos aviadores faz-se no posto de alferes por promoção dos alunos que tenham completado o curso de aeronáutica da Academia Militar ou escola militar equivalente, ordenados por cursos, e, dentro de cada curso, pelas classificações nele obtidas, entendendo-se os tirocínios como parte integrante daqueles cursos.
 
 2. A antiguidade de alferes dos oficiais do número anterior é referida a 1 de Novembro do ano em que concluíram com aproveitamento o tirocínio para oficial, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, incluindo aquele tirocínio, exceder ou for inferior a quatro anos.
 
-###### Art. 18.º O ingresso no quadro de pára-quedistas faz-se por concurso entre:
+Art. 18.º O ingresso no quadro de pára-quedistas faz-se por concurso entre:
 
 a) Subalternos dos quadros das armas do Exército, guardas-marinhas e segundos-tenentes da classe de marinha da Armada e subalternos do quadro de pilotos aviadores da Força Aérea, com idade não superior a 28 anos, que reúnam as necessárias condições físicas e psíquicas e obtenham aproveitamento no curso e tirocínio de pára-quedismo;
 
 b) Oficiais superiores, capitães e subalternos dos quadros das armas do Exército, oficiais superiores e subalternos da classe de marinha da Armada e oficiais superiores, capitães e subalternos do quadro de pilotos aviadores da Força Aérea, sem dependência de idade, que satisfaçam às restantes condições da alínea anterior, quando as circunstâncias o aconselharem e o Secretário de Estado da Aeronáutica o autorizar.
 
-###### Art. 19.º - 1. Independentemente e sem prejuízo do disposto no artigo 18.º, podem ingressar no quadro de pára-quedistas os subalternos que tenham terminado com aproveitamento o curso de infantaria da Academia Militar e respectivo tirocínio e que, tendo prèviamente declarado desejar servir nas tropas pára-quedistas, reúnam as necessárias condições físicas e psíquicas e obtenham aproveitamento no curso e tirocínio de pára-quedismo.
+Art. 19.º - 1. Independentemente e sem prejuízo do disposto no artigo 18.º, podem ingressar no quadro de pára-quedistas os subalternos que tenham terminado com aproveitamento o curso de infantaria da Academia Militar e respectivo tirocínio e que, tendo prèviamente declarado desejar servir nas tropas pára-quedistas, reúnam as necessárias condições físicas e psíquicas e obtenham aproveitamento no curso e tirocínio de pára-quedismo.
 
 2. O apuramento das condições físicas e psíquicas referidas em 1 pode ter lugar durante a frequência do último ano do curso de infantaria da Academia Militar ou durante a frequência do respectivo tirocínio.
 
 3. O curso e tirocínio de pára-quedismo referidos no n.º 1 devem ter lugar imediatamente após o termo do tirocínio do curso de infantaria.
 
-###### Art. 20.º O ingresso no quadro de pára-quedistas dos oficiais referidos nos artigos 18.º e 19.º é feito nos postos e com as antiguidades que tiverem nos quadros de origem.
+Art. 20.º O ingresso no quadro de pára-quedistas dos oficiais referidos nos artigos 18.º e 19.º é feito nos postos e com as antiguidades que tiverem nos quadros de origem.
 
-###### Art. 21.º Na data da admissão definitiva nas tropas pára-quedistas dos oficiais especializados em pára-quedismo passam à situação de adidos aos quadros de origem, situação em que se mantêm enquanto prestarem serviço nas tropas pára-quedistas.
+Art. 21.º Na data da admissão definitiva nas tropas pára-quedistas dos oficiais especializados em pára-quedismo passam à situação de adidos aos quadros de origem, situação em que se mantêm enquanto prestarem serviço nas tropas pára-quedistas.
 
-###### Art. 22.º As condições de recrutamento, a forma de preparação, as condições de ingresso no quadro e a forma e condições da promoção e prestação de serviço dos oficiais pára-quedistas são estabelecidas em legislação especial.
+Art. 22.º As condições de recrutamento, a forma de preparação, as condições de ingresso no quadro e a forma e condições da promoção e prestação de serviço dos oficiais pára-quedistas são estabelecidas em legislação especial.
 
-###### Art. 23.º Os oficiais dos quadros permanentes dos três ramos das forças armadas, após admissão definitiva nas tropas pára-quedistas e enquanto ao seu serviço, são considerados oficiais dos quadros permanentes da Força Aérea e como tal, são-lhes aplicáveis as disposições pertinentes do presente Estatuto, sem prejuízo do disposto no artigo 22.º
+Art. 23.º Os oficiais dos quadros permanentes dos três ramos das forças armadas, após admissão definitiva nas tropas pára-quedistas e enquanto ao seu serviço, são considerados oficiais dos quadros permanentes da Força Aérea e como tal, são-lhes aplicáveis as disposições pertinentes do presente Estatuto, sem prejuízo do disposto no artigo 22.º
 
-###### Art. 24.º - 1. O ingresso nos quadros de engenheiros aeronáuticos, de aeródromo e electrotécnicos faz-se no posto de tenente por promoção dos alunos que tenham completado os respectivos cursos da Academia Militar ou escola militar equivalente, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas, entendendo-se os tirocínios como parte integrante daqueles cursos.
+Art. 24.º - 1. O ingresso nos quadros de engenheiros aeronáuticos, de aeródromo e electrotécnicos faz-se no posto de tenente por promoção dos alunos que tenham completado os respectivos cursos da Academia Militar ou escola militar equivalente, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas, entendendo-se os tirocínios como parte integrante daqueles cursos.
 
 2. A antiguidade de tenente dos oficiais do número anterior é referida a 1 de Dezembro do ano em que concluírem com aproveitamento o tirocínio para oficial, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, incluindo aquele tirocínio, exceder ou for inferior a cinco anos.
 
-###### Art. 25.º O ingresso nos quadros de engenheiros aeronáuticos, de aeródromo e electrotécnicos faz-se ainda pela promoção ao posto de tenente, após frequência com aproveitamento de estágio de adaptação técnico-militar na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, de:
+Art. 25.º O ingresso nos quadros de engenheiros aeronáuticos, de aeródromo e electrotécnicos faz-se ainda pela promoção ao posto de tenente, após frequência com aproveitamento de estágio de adaptação técnico-militar na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, de:
 
 a) Tenentes graduados e alferes graduados admitidos entre licenciados em Engenharia, aprovados em concurso, de acordo com legislação especial;
 
 b) Tenentes graduados e alferes graduados admitidos entre alunos das Faculdades de Engenharia e do Instituto Superior Técnico que declarem desejar ingressar nos quadros de engenheiros após a conclusão das respectivas licenciaturas, aprovados em concurso, de acordo com legislação especial.
 
-###### Art. 26.º - 1. O Secretário de Estado da Aeronáutica pode também autorizar o ingresso nos quadros de engenheiros de pessoal militar permanente privativo da Força Aérea que o requeira e tenha as necessárias qualificações.
+Art. 26.º - 1. O Secretário de Estado da Aeronáutica pode também autorizar o ingresso nos quadros de engenheiros de pessoal militar permanente privativo da Força Aérea que o requeira e tenha as necessárias qualificações.
 
 2. O ingresso nos quadros do pessoal referido no n.º 1 faz-se no posto de tenente, após completamento de estágio de adaptação técnico-militar frequentado com a graduação de alferes ou de posto que já tenha, caso seja superior.
 
-###### Art. 27.º - 1. A antiguidade de tenente dos oficiais a que respeitam os artigos 25.º e 26.º é referida a 1 de Dezembro do ano em que concluírem com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar, do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a cinco anos.
+Art. 27.º - 1. A antiguidade de tenente dos oficiais a que respeitam os artigos 25.º e 26.º é referida a 1 de Dezembro do ano em que concluírem com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar, do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a cinco anos.
 
 2. A ordenação na escala dos tenentes mencionados no n.º 1 com antiguidade referida à mesma data faz-se, em cada quadro, segundo as classificações obtidas nas respectivas licenciaturas e, em igualdade de classificações, pelo maior tempo de serviço nas forças armadas e maior idade.
 
 3. Os mesmos oficiais ingressam nos respectivos quadros à esquerda dos tenentes referidos no artigo 24.º sempre que a antiguidade de tenente de uns e outros estiver referida à mesma data.
 
-###### Art. 28.º - 1. O Secretário de Estado da Aeronáutica pode, outrossim, autorizar que oficiais dos quadros permanentes da Força Aérea frequentem, em escolas nacionais ou estrangeiras, cursos de Engenharia Aeronáutica, de Engenharia Civil e de Engenharia Electrotécnica ou outros cursos de engenharia, em regime de licença para estudos.
+Art. 28.º - 1. O Secretário de Estado da Aeronáutica pode, outrossim, autorizar que oficiais dos quadros permanentes da Força Aérea frequentem, em escolas nacionais ou estrangeiras, cursos de Engenharia Aeronáutica, de Engenharia Civil e de Engenharia Electrotécnica ou outros cursos de engenharia, em regime de licença para estudos.
 
 2. Após o termo dos cursos referidos no n.º 1 e da frequência com aproveitamento de estágio de adaptação técnico-militar, estes oficiais ingressam nos respectivos quadros de engenheiros nos postos e com as antiguidades que possuíam nos quadros de origem.
 
-###### Art. 29.º O ingresso no quadro de médicos faz-se pela promoção ao posto de tenente, após frequência com aproveitamento de estágio de adaptação técnico-militar na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, de:
+Art. 29.º O ingresso no quadro de médicos faz-se pela promoção ao posto de tenente, após frequência com aproveitamento de estágio de adaptação técnico-militar na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, de:
 
 a) Tenentes graduados e alferes graduados admitidos entre licenciados em Medicina, aprovados em concurso, de acordo com legislação especial;
 
 b) Tenentes graduados e alferes graduados admitidos entre alunos das Faculdades de Medicina que declararem desejar ingressar no quadro de médicos após a conclusão das respectivas licenciaturas, aprovados em concurso, de acordo com legislação especial.
 
-###### Art. 30.º - 1. O Secretário de Estado da Aeronáutica pode também autorizar o ingresso no quadro de médicos de pessoal militar permanente privativo da Força Aérea que o requeira e tenha as necessárias qualificações.
+Art. 30.º - 1. O Secretário de Estado da Aeronáutica pode também autorizar o ingresso no quadro de médicos de pessoal militar permanente privativo da Força Aérea que o requeira e tenha as necessárias qualificações.
 
 2. O ingresso no quadro do pessoal referido no n.º 1 faz-se no posto de tenente, após completamento de estágio da adaptação técnico-militar frequentado com a graduação de alferes ou do posto que já tenha, caso seja superior.
 
-###### Art. 31.º - 1. A antiguidade de tenente dos oficiais a que respeitam os artigos 29.º e 30.º é referida a 1 de Dezembro do ano em que concluírem com aproveitamento o estágio da adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a cinco anos.
+Art. 31.º - 1. A antiguidade de tenente dos oficiais a que respeitam os artigos 29.º e 30.º é referida a 1 de Dezembro do ano em que concluírem com aproveitamento o estágio da adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a cinco anos.
 
 2. A ordenação na escala dos tenentes mencionados no n.º 1, com a antiguidade referida à mesma data, faz-se segundo as classificações obtidas nas respectivas licenciaturas e, em igualdade de classificações, pelo maior tempo de serviço nas forças armadas e maior idade.
 
-###### Art. 32.º - 1. O Secretário de Estado da Aeronáutica pode, outrossim, autorizar que oficiais dos quadros permanentes da Força Aérea frequentem, em escolas nacionais ou estrangeiras, cursos de medicina, em regime de licença para estudos.
+Art. 32.º - 1. O Secretário de Estado da Aeronáutica pode, outrossim, autorizar que oficiais dos quadros permanentes da Força Aérea frequentem, em escolas nacionais ou estrangeiras, cursos de medicina, em regime de licença para estudos.
 
 2. Após o termo dos cursos referidos no n.º 1 e da frequência com aproveitamento de estágio de adaptação técnico-militar, estes oficiais ingressam no quadro de médicos nos postos e com as antiguidades que possuíam nos quadros de origem.
 
-###### Art. 33.º - 1. O ingresso no quadro de intendência e contabilidade faz-se no posto de alferes por promoção dos alunos que tenham completado o curso de Administração Militar para a Força Aérea, da Academia Militar ou escola militar equivalente, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas, entendendo-se os tirocínios como parte integrante daqueles cursos.
+Art. 33.º - 1. O ingresso no quadro de intendência e contabilidade faz-se no posto de alferes por promoção dos alunos que tenham completado o curso de Administração Militar para a Força Aérea, da Academia Militar ou escola militar equivalente, ordenados por cursos e, dentro de cada curso, pelas classificações nele obtidas, entendendo-se os tirocínios como parte integrante daqueles cursos.
 
 2. A antiguidade de alferes dos oficiais do número anterior é referida a 1 de Novembro do ano em que concluírem com aproveitamento o tirocínio para oficial, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, incluindo aquele tirocínio, exceder ou for inferior a quatro anos.
 
-###### Art. 34.º O ingresso no quadro de intendência e contabilidade faz-se ainda pela promoção ao posto de alferes, após frequência com aproveitamento de estágio de adaptação técnico-militar na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, de:
+Art. 34.º O ingresso no quadro de intendência e contabilidade faz-se ainda pela promoção ao posto de alferes, após frequência com aproveitamento de estágio de adaptação técnico-militar na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, de:
 
 a) Tenentes graduados e alferes graduados admitidos entre licenciados em Finanças ou Economia, aprovados em concurso, de acordo com legislação especial;
 
 b) Tenentes graduados e alferes graduados admitidos entre alunos do Instituto de Ciências Económicas e Financeiras e das Faculdades de Economia que declarem desejar ingressar no quadro de intendência e contabilidade após a conclusão das respectivas licenciaturas, aprovados em concurso, de acordo com legislação especial.
 
-###### Art. 35.º - 1. O Secretário de Estado da Aeronáutica pode também autorizar o ingresso no quadro da intendência e contabilidade de pessoal militar permanente privativo da Força Aérea que o requeira e tenha as necessárias qualificações.
+Art. 35.º - 1. O Secretário de Estado da Aeronáutica pode também autorizar o ingresso no quadro da intendência e contabilidade de pessoal militar permanente privativo da Força Aérea que o requeira e tenha as necessárias qualificações.
 
 2. O ingresso no quadro do pessoal referido no n.º 1 faz-se no posto de alferes, após completamento de estágio de adaptação técnico-militar frequentado com a graduação de alferes ou do posto que já tenha, caso seja superior.
 
-###### Art. 36.º - 1. A antiguidade de alferes dos oficiais a que respeitam os artigos 34.º e 35.º é referida a 1 de Novembro do ano em que concluíram com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a quatro anos.
+Art. 36.º - 1. A antiguidade de alferes dos oficiais a que respeitam os artigos 34.º e 35.º é referida a 1 de Novembro do ano em que concluíram com aproveitamento o estágio de adaptação técnico-militar, antecipada ou retardada de tantos anos quantos os que a organização escolar do respectivo curso, somado o correspondente àquele estágio, exceder ou for inferior a quatro anos.
 
 2. A ordenação na escala dos alferes mencionados no n.º 1 com antiguidade referida à mesma data faz-se segundo as classificações obtidas nas respectivas licenciaturas e, em igualdade de classificações, pelo maior tempo de serviço nas forças armadas e maior idade.
 
 3. Os mesmos oficiais ingressam no quadro à esquerda dos alferes referidos no artigo 33.º sempre que a antiguidade de alferes de uns e outros estiver referida à mesma data.
 
-###### Art. 37.º - 1. O Secretário de Estado da Aeronáutica pode, outrossim, autorizar que oficiais dos quadros permanentes da Força Aérea frequentem, em escolas nacionais ou estrangeiras, cursos superiores de finanças ou economia, em regime de licença para estudos.
+Art. 37.º - 1. O Secretário de Estado da Aeronáutica pode, outrossim, autorizar que oficiais dos quadros permanentes da Força Aérea frequentem, em escolas nacionais ou estrangeiras, cursos superiores de finanças ou economia, em regime de licença para estudos.
 
 2. Após o termo dos cursos referidos no n.º 1 e da frequência com aproveitamento de estágio de adaptação técnico-militar, estes oficiais ingressam no quadro de intendência e contabilidade nos postos e com as antiguidades que possuíam nos quadros de origem.
 
-###### Art. 38.º - 1. O ingresso no quadro de pilotos navegadores faz-se no posto de alferes por promoção de sargentos-ajudantes e primeiros-sargentos pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
+Art. 38.º - 1. O ingresso no quadro de pilotos navegadores faz-se no posto de alferes por promoção de sargentos-ajudantes e primeiros-sargentos pilotos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
 2. A antiguidade de alferes dos oficiais a que respeita o n.º 1 é referida à data em que ocorreu a vacatura ou, no caso de esta ser anterior, à data em que concluíram com aproveitamento o curso de formação.
 
 3. A ordenação na escala dos alferes mencionados no número anterior com antiguidade referida à mesma data é feita por cursos de formação e, dentro de cada curso, pelas classificações nele obtidas.
 
-###### Art. 39.º - 1. Podem também ter ingresso no quadro de pilotos navegadores, em relação ao qual ficam na situação de supranumerários permanentes, os oficiais milicianos pilotos aviadores que obedeçam às condições expressas em legislação especial.
+Art. 39.º - 1. Podem também ter ingresso no quadro de pilotos navegadores, em relação ao qual ficam na situação de supranumerários permanentes, os oficiais milicianos pilotos aviadores que obedeçam às condições expressas em legislação especial.
 
 2. O ingresso no quadro faz-se, a requerimento dos interessados, nos postos e com as antiguidades que possuíam como oficiais milicianos, sendo colocados imediatamente à esquerda dos oficiais da mesma antiguidade já existentes no quadro.
 
-###### Art. 40.º - 1. Podem ingressar no quadro de oficiais técnicos de mecanografia e estatística os oficiais dos quadros permanentes de engenheiros, intendência e contabilidade, pilotos navegadores, técnicos e do serviço geral que o requeiram e satisfaçam os requisitos constantes de legislação especial.
+Art. 40.º - 1. Podem ingressar no quadro de oficiais técnicos de mecanografia e estatística os oficiais dos quadros permanentes de engenheiros, intendência e contabilidade, pilotos navegadores, técnicos e do serviço geral que o requeiram e satisfaçam os requisitos constantes de legislação especial.
 
 2. Os oficiais referidos no n.º 1 são aumentados ao quadro de oficiais técnicos de mecanografia e estatística nos postos e com as antiguidades que possuíam nos quadros de origem, aos quais são abatidos nos termos da mesma legislação especial.
 
 3. As condições de prestação de serviço no quadro de mecanografia e estatística e de regresso aos quadro de origem dos oficiais engenheiros e da intendência e contabilidade mencionados no n.º 1 constam igualmente de legislação específica.
 
-###### Art. 41.º - 1. O ingresso nos quadros de oficiais técnicos, com excepção do quadro de oficiais técnicos de mecanografia e estatística, faz-se no posto de alferes por promoção de sargentos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
+Art. 41.º - 1. O ingresso nos quadros de oficiais técnicos, com excepção do quadro de oficiais técnicos de mecanografia e estatística, faz-se no posto de alferes por promoção de sargentos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
 2. O ingresso nos quadros de oficiais técnicos, com excepção do quadro de oficiais técnicos de mecanografia e estatística, faz-se ainda pela promoção ao posto de alferes de tenentes e alferes milicianos da Força Aérea que estejam habilitados com o respectivo curso de formação a satisfaçam os restantes requisitos constantes de legislação especial.
 
@@ -326,7 +495,7 @@ b) Tenentes graduados e alferes graduados admitidos entre alunos do Instituto de
 
 4. A ordenação nas respectivas escalas dos alferes mencionados no número anterior com antiguidade referida à mesma data é feita por cursos de formação e, dentro de cada curso, pelas classificações nele obtidas.
 
-###### Art. 42.º - 1. O ingresso no quadro do serviço geral faz-se no posto de alferes por promoção de sargentos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
+Art. 42.º - 1. O ingresso no quadro do serviço geral faz-se no posto de alferes por promoção de sargentos que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
 2. Podem também ingressar no mesmo quadro, no posto de alferes, tenentes e alferes milicianos da Força Aérea que estejam habilitados com o respectivo curso de formação e satisfaçam os restantes requisitos constantes de legislação especial.
 
@@ -334,21 +503,21 @@ b) Tenentes graduados e alferes graduados admitidos entre alunos do Instituto de
 
 4. A ordenação na escala dos alferes mencionados no número anterior com antiguidade referida à mesma data é feita por cursos de formação e, dentro de cada curso, pelas classificações nele obtidas.
 
-###### Art. 43.º - 1. As condições de recrutamento, a forma de preparação, as condições de ingresso e a forma e condições de promoção e prestação de serviço no quadro de oficiais do serviço geral pára-quedistas são estabelecidas em legislação especial.
+Art. 43.º - 1. As condições de recrutamento, a forma de preparação, as condições de ingresso e a forma e condições de promoção e prestação de serviço no quadro de oficiais do serviço geral pára-quedistas são estabelecidas em legislação especial.
 
 2. Na data de ingresso no quadro referido no n.º 1 os oficiais passam à situação de adidos aos quadros de origem, situação em que se mantêm enquanto prestarem serviço nas tropas pára-quedistas.
 
-###### Art. 44.º - 1. Podem ter ingresso no quadro de oficiais do serviço geral pára-quedistas, em relação ao qual ficam na situação de supranumerários permanentes, os oficiais milicianos pára-quedistas que obedeçam às condições expressas em legislação especial.
+Art. 44.º - 1. Podem ter ingresso no quadro de oficiais do serviço geral pára-quedistas, em relação ao qual ficam na situação de supranumerários permanentes, os oficiais milicianos pára-quedistas que obedeçam às condições expressas em legislação especial.
 
 2. O ingresso no quadro faz-se, a requerimento dos interessados, nos postos e com as antiguidades que possuíam como oficiais milicianos, sendo colocados imediatamente à esquerda dos oficiais da mesma antiguidade já existentes no quadro.
 
 #### SECÇÃO III — Outras disposições
 
-###### Art. 45.º Os oficiais dos quadros permanentes da Força Aérea podem, por perda não convenientemente recuperável de aptidão física ou psíquica para o exercício das respectivas funções nos seus quadros, ser transferidos, nas condições expressas em legislação especial, para outros quadros a que respeitem funções para cujo desempenho possuam a necessária aptidão e onde possam aproveitar-se a formação e os conhecimentos já adquiridos.
+Art. 45.º Os oficiais dos quadros permanentes da Força Aérea podem, por perda não convenientemente recuperável de aptidão física ou psíquica para o exercício das respectivas funções nos seus quadros, ser transferidos, nas condições expressas em legislação especial, para outros quadros a que respeitem funções para cujo desempenho possuam a necessária aptidão e onde possam aproveitar-se a formação e os conhecimentos já adquiridos.
 
-###### Art. 46.º Os alunos do curso de Aeronáutica da Academia Militar ou escola militar equivalente, ainda não pilotos militares, que forem excluídos por inaptidão para a pilotagem durante o tirocínio, poderão, nas condições expressas em legislação especial, ser mantidos na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, com vista a ulterior ingresso noutros quadros da Força Aérea, quando assim o requeiram e lhes seja deferido.
+Art. 46.º Os alunos do curso de Aeronáutica da Academia Militar ou escola militar equivalente, ainda não pilotos militares, que forem excluídos por inaptidão para a pilotagem durante o tirocínio, poderão, nas condições expressas em legislação especial, ser mantidos na categoria de pessoal militar em preparação privativo da Força Aérea destinado directamente a pessoal permanente, com vista a ulterior ingresso noutros quadros da Força Aérea, quando assim o requeiram e lhes seja deferido.
 
-###### Art. 47.º São abatidos definitivamente aos quadros permanentes da Força Aérea os oficiais que:
+Art. 47.º São abatidos definitivamente aos quadros permanentes da Força Aérea os oficiais que:
 
 a) Sejam julgados incapazes de todo o serviço e não possam transitar para a situação de reforma;
 
@@ -358,7 +527,7 @@ c) Tenham sofrido a pena de demissão;
 
 d) Tenham passagem a oficiais de complemento.
 
-###### Art. 48.º - 1. Têm passagem a oficiais de complemento da Força Aérea os oficiais dos quadros permanentes que:
+Art. 48.º - 1. Têm passagem a oficiais de complemento da Força Aérea os oficiais dos quadros permanentes que:
 
 a) Depois de terem prestado, como oficial, um mínimo de oito anos de serviço efectivo na Força Aérea, assim o tenham requerido e a tanto sejam autorizados;
 
@@ -372,15 +541,15 @@ d) Tenham sofrido a pena de demissão, quando esta não lhes tenha sido imposta 
 
 ### CAPÍTULO V — Funções
 
-###### Art. 49.º - 1. Os oficiais da Força Aérea desempenham funções na Secretaria de Estado da Aeronáutica, nos comandos, forças, serviços, unidades e outros órgãos da Força Aérea, de harmonia com os respectivos quadros e postos.
+Art. 49.º - 1. Os oficiais da Força Aérea desempenham funções na Secretaria de Estado da Aeronáutica, nos comandos, forças, serviços, unidades e outros órgãos da Força Aérea, de harmonia com os respectivos quadros e postos.
 
 2. Aos mesmos oficiais compete também o exercício das funções que respeitam à Força Aérea no âmbito das forças armadas, em coligações internacionais e noutros departamentos do Estado.
 
-###### Art. 50.º - 1. São funções comuns aos oficiais da Força Aérea o planeamento, organização, coordenação, direcção e contrôle das actividades que lhes concernem, com maior ou menor predominância de umas ou outras, consoante os graus de responsabilidade correspondentes, definidos pelos diferentes níveis da organização,
+Art. 50.º - 1. São funções comuns aos oficiais da Força Aérea o planeamento, organização, coordenação, direcção e contrôle das actividades que lhes concernem, com maior ou menor predominância de umas ou outras, consoante os graus de responsabilidade correspondentes, definidos pelos diferentes níveis da organização,
 
 2. São igualmente funções gerais dos oficiais da Força Aérea as de justiça e instrução e as relacionadas com o moral, bem-estar, educação, segurança, disciplina e avaliação do pessoal subordinado ou dirigido.
 
-###### Art. 51.º - 1. De uma maneira geral, aos oficiais na situação de activo competem as seguintes funções próprias de cada quadro:
+Art. 51.º - 1. De uma maneira geral, aos oficiais na situação de activo competem as seguintes funções próprias de cada quadro:
 
 a) Pilotos aviadores:
 
@@ -444,7 +613,7 @@ h) Serviço geral pára-quedistas:
 
 3. A pormenorização dos deveres e responsabilidades correspondentes às funções que os oficiais das várias categorias, postos e quadros podem ser chamados a desempenhar são objecto de regulamentação especial.
 
-###### Art. 52.º São da competência dos oficiais pilotos aviadores:
+Art. 52.º São da competência dos oficiais pilotos aviadores:
 
 a) As funções de presidente e vogais militares do Supremo Tribunal Militar e de presidentes de tribunais militares, quando desempenhadas por oficiais da Força Aérea;
 
@@ -452,23 +621,23 @@ b) As funções de comando de unidades directamente relacionadas com a preparaç
 
 c) O exercício de cargos de chefes e subchefes de estados-maiores.
 
-###### Art. 53 - 1. Aos oficiais na situação de activo deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à sua adequada competência em cada posto e preparação para os postos superiores.
+Art. 53 - 1. Aos oficiais na situação de activo deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à sua adequada competência em cada posto e preparação para os postos superiores.
 
 2. Em princípio, os oficiais dos diferentes quadros durante os primeiros anos da sua carreira são destinados ao serviço nas unidades da Força Aérea, devendo ser considerado excepcional o seu desvio para outros órgãos ou departamentos.
 
-###### Art. 54.º - 1. Qualquer oficial pode ser nomeado para desempenhar funções que pertençam a oficiais de posto superior ao seu, desde que para esse efeito possua a necessária competência e haja conveniência para o serviço.
+Art. 54.º - 1. Qualquer oficial pode ser nomeado para desempenhar funções que pertençam a oficiais de posto superior ao seu, desde que para esse efeito possua a necessária competência e haja conveniência para o serviço.
 
 2. Serão exercidas com carácter de interinidade as funções para que os oficiais forem nomeados nos termos do n.º 1.
 
 3. Os oficiais que, nas condições do n.º 1, desempenhem funções de posto superior ao seu são considerados, enquanto nessa situação, com autoridade correspondente a esse posto em relação a todos os que lhe estão directamente subordinados.
 
-###### Art. 55.º Os oficiais não podem ser nomeados para desempenhar funções que correspondam a posto inferior àquele a que tenham ascendido.
+Art. 55.º Os oficiais não podem ser nomeados para desempenhar funções que correspondam a posto inferior àquele a que tenham ascendido.
 
-###### Art. 56.º - 1. Excepcionalmente, e por força do disposto nos artigos 51.º e 52.º, podem exercer interinamente o comando de unidades da Força Aérea oficiais pilotos aviadores de antiguidade ou posto inferiores ao de outros oficiais, de quadros diferentes, pertencentes às mesmas unidades.
+Art. 56.º - 1. Excepcionalmente, e por força do disposto nos artigos 51.º e 52.º, podem exercer interinamente o comando de unidades da Força Aérea oficiais pilotos aviadores de antiguidade ou posto inferiores ao de outros oficiais, de quadros diferentes, pertencentes às mesmas unidades.
 
 2. Tal situação só poderá, contudo, verificar-se a título transitório e por motivos imperiosos e imprevistos, devendo ser tomadas, tão urgentemente quanto possível, providências para que se não mantenham situações que contrariam a hierarquia militar.
 
-###### Art. 57.º - 1. Os oficiais na situação de reserva em efectividade de serviço desempenham funções correspondentes ao seu quadro e posto.
+Art. 57.º - 1. Os oficiais na situação de reserva em efectividade de serviço desempenham funções correspondentes ao seu quadro e posto.
 
 2. Em tempo de paz os oficiais a que se refere o n.º 1 não podem desempenhar funções de comando, salvo se expressamente determinado pelo Secretário de Estado da Aeronáutica.
 
@@ -490,7 +659,7 @@ e) As que expressamente forem designadas em diplomas legais.
 
 #### SECÇÃO I — Classificação
 
-###### Art. 58.º Em relação à disponibilidade para serviço, os oficiais dos quadros permanentes da Força Aérea podem encontrar-se numa das seguintes situações:
+Art. 58.º Em relação à disponibilidade para serviço, os oficiais dos quadros permanentes da Força Aérea podem encontrar-se numa das seguintes situações:
 
 a) Activo;
 
@@ -502,7 +671,7 @@ d) Separados do serviço.
 
 #### SECÇÃO II — Activo
 
-###### Art. 59.º - 1. Consideram-se na situação de activo os oficiais que satisfaçam os requisitos legais correspondentes à maior disponibilidade para serviço, quer se encontrem efectivamente a exercê-lo, quer apenas em condições de serem ou virem a ser chamados ao seu desempenho.
+Art. 59.º - 1. Consideram-se na situação de activo os oficiais que satisfaçam os requisitos legais correspondentes à maior disponibilidade para serviço, quer se encontrem efectivamente a exercê-lo, quer apenas em condições de serem ou virem a ser chamados ao seu desempenho.
 
 2. Em relação à prestação de serviço, os oficiais na situação de activo podem estar:
 
@@ -522,7 +691,7 @@ b) Adidos ao quadro;
 
 c) Supranumerários.
 
-###### Art. 60.º - 1. São considerados em comissão normal os oficiais na situação de activo que prestam serviço nos departamentos das forças armadas ou desempenham funções militares fora destes departamentos.
+Art. 60.º - 1. São considerados em comissão normal os oficiais na situação de activo que prestam serviço nos departamentos das forças armadas ou desempenham funções militares fora destes departamentos.
 
 2. Designadamente, estão em comissão normal os oficiais:
 
@@ -558,7 +727,7 @@ m) Apresentados em órgãos da Força Aérea por qualquer dos seguintes motivos:
 
 4) Aguardando passagem à inactividade temporária, à reserva ou à reforma.
 
-###### Art. 61.º - 1. São considerados em comissão especial os oficiais na situação de activo que estejam a desempenhar funções públicas que não sejam de natureza militar, fora dos departamentos das forças armadas.
+Art. 61.º - 1. São considerados em comissão especial os oficiais na situação de activo que estejam a desempenhar funções públicas que não sejam de natureza militar, fora dos departamentos das forças armadas.
 
 2. Designadamente, encontram-se em comissão especial os oficiais no activo que exerçam os seguintes cargos ou funções:
 
@@ -578,7 +747,7 @@ e) Comissão civil remunerada, nos casos não abrangidos nas alíneas anteriores
 
 5. A prestação, por oficiais da Força Aérea, de serviços da sua especialidade, incluindo funções de direcção, em organismos do Estado ou empresas portuguesas de transportes aéreos regulares, é objecto de legislação especial.
 
-###### Art. 62.º - 1. Consideram-se na inactividade temporária os oficiais na situação de activo afastados temporàriamente do serviço.
+Art. 62.º - 1. Consideram-se na inactividade temporária os oficiais na situação de activo afastados temporàriamente do serviço.
 
 2. Os oficiais são colocados na inactividade temporária nos seguintes casos:
 
@@ -586,17 +755,17 @@ a) Por motivo de doença ou de licença da junta - quando assim o preferirem, no
 
 b) Por motivo disciplinar - quando lhes for aplicada a pena de inactividade prevista no Regulamento da Disciplina Militar.
 
-###### Art. 63.º Consideram-se de licença ilimitada os oficiais a quem seja concedida esta licença nos termos do artigo 193.º
+Art. 63.º Consideram-se de licença ilimitada os oficiais a quem seja concedida esta licença nos termos do artigo 193.º
 
-###### Art. 64.º - 1. Nenhum oficial do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos.
+Art. 64.º - 1. Nenhum oficial do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos.
 
 2. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que os oficiais prestem um mínimo de três anos de serviço nesta comissão.
 
 3. Para efeitos do disposto no n.º 1 não será contado como afastamento da comissão normal o tempo de exercício dos cargos de Presidente da República, Presidente do Conselho de Ministros, Ministro, Secretário de Estado, Subsecretário de Estado, governador de província ultramarina e embaixador ou ministro plenipotenciário em país estrangeiro.
 
-###### Art. 65.º Os oficiais na situação de activo consideram-se no quadro quando são contados nos efectivos a que se refere o n.º 1 do artigo 13.º
+Art. 65.º Os oficiais na situação de activo consideram-se no quadro quando são contados nos efectivos a que se refere o n.º 1 do artigo 13.º
 
-###### Art. 66.º Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 13.º, os oficiais na situação de activo que:
+Art. 66.º Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 13.º, os oficiais na situação de activo que:
 
 a) Estejam em comissão especial, na inactividade temporária ou de licença ilimitada;
 
@@ -638,7 +807,7 @@ b) Estejam em comissão normal e:
 
 18) Sejam abrangidos por outras disposições legais que expressamente o determinem.
 
-###### Art. 67.º - 1. Consideram-se supranumerários os oficiais na situação de activo em comissão normal que, não estando adidos, não possam ocupar vaga nos quadros por falta de vacatura.
+Art. 67.º - 1. Consideram-se supranumerários os oficiais na situação de activo em comissão normal que, não estando adidos, não possam ocupar vaga nos quadros por falta de vacatura.
 
 2. A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
 
@@ -660,9 +829,9 @@ c) Por regresso de situação de adido;
 
 d) Por outras disposições legais que expressamente o determinem.
 
-###### Art. 68.º As mudanças de situação dos oficiais em relação ao quadro a que pertencem são sempre determinadas por portarias, sendo tais mudanças referidas à data em que, nos termos legais, os oficiais forem considerados abrangidos pela condição que as motivou.
+Art. 68.º As mudanças de situação dos oficiais em relação ao quadro a que pertencem são sempre determinadas por portarias, sendo tais mudanças referidas à data em que, nos termos legais, os oficiais forem considerados abrangidos pela condição que as motivou.
 
-###### Art. 69.º - 1. São mantidos na situação de activo sem dependência de idade:
+Art. 69.º - 1. São mantidos na situação de activo sem dependência de idade:
 
 a) Os oficiais que desempenhem as funções de Presidente da República, Presidente do Conselho de Ministros e Ministro, Secretário de Estado ou Subsecretário de Estado de departamentos militares, enquanto exercerem esses cargos;
 
@@ -674,7 +843,7 @@ b) Os marechais da Força Aérea.
 
 #### SECÇÃO III — Reserva
 
-###### Art. 70.º - 1. Transitam para a situação de reserva os oficiais na situação de activo que sejam abrangidos por qualquer das seguintes condições:
+Art. 70.º - 1. Transitam para a situação de reserva os oficiais na situação de activo que sejam abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado quinze ou mais anos de serviço:
 
@@ -712,7 +881,7 @@ c) Requeiram a passagem à situação de reserva depois de completarem 60 anos d
 
 5. A data da passagem à situação de reserva é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 71.º - 1. Os limites de idade para a passagem à situação de reserva são os indicados no mapa n.º 1 anexo a este Estatuto.
+Art. 71.º - 1. Os limites de idade para a passagem à situação de reserva são os indicados no mapa n.º 1 anexo a este Estatuto.
 
 2. Quando um oficial atinja o limite de idade a que se refere o n.º 1 posteriormente à data em que lhe caiba promoção por diuturnidade, não passará à situação de reserva até que essa promoção seja publicada, após o que passará então a essa situação ou continuará no activo, de acordo com o limite de idade do novo posto.
 
@@ -720,7 +889,7 @@ c) Requeiram a passagem à situação de reserva depois de completarem 60 anos d
 
 4. O oficial nas condições do artigo 148.º que, posteriormente à data em que lhe competia a promoção, for abrangido pelo limite de idade continuará no activo durante o tempo mínimo indispensável para satisfazer as condições que lhe faltam, se delas não for dispensado.
 
-###### Art. 72.º - 1. Os oficiais que tenham transitado para a situação de reserva podem encontrar-se:
+Art. 72.º - 1. Os oficiais que tenham transitado para a situação de reserva podem encontrar-se:
 
 a) Na efectividade de serviço;
 
@@ -736,7 +905,7 @@ c) De licença ilimitada.
 
 #### SECÇÃO IV — Reforma
 
-###### Art. 73.º - 1. Transitam para a situação de reforma os oficiais que deixem de estar nas situações de activo ou de reserva, por serem abrangidos por qualquer das seguintes condições:
+Art. 73.º - 1. Transitam para a situação de reforma os oficiais que deixem de estar nas situações de activo ou de reserva, por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado quinze ou mais anos de serviço, atinjam 70 anos de idade;
 
@@ -762,17 +931,17 @@ c) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 #### SECÇÃO V — Separação do serviço
 
-###### Art. 74.º - 1. Transitam para a situação de separados do serviço os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados do serviço.
+Art. 74.º - 1. Transitam para a situação de separados do serviço os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados do serviço.
 
 2. Os oficiais separados do serviço ficam privados do uso de uniforme, distintivos e insígnias militares e perdem os direitos constantes dos artigos 17.º, 18.º, 19.º e 20.º do [Decreto-Lei n.º 46672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46672-1965-507824), de 29 de Novembro de 1965 (Estatuto dos Oficiais das Forças Armadas).
 
 3. A separação do serviço só tem lugar após julgamento no Conselho Superior de Disciplina da Força Aérea ou em virtude de disposições legais que expressamente determinem a passagem a essa situação.
 
-###### Art. 75.º A data da passagem à situação de separado do serviço é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
+Art. 75.º A data da passagem à situação de separado do serviço é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
 ### CAPÍTULO VII — Tempo de serviço e de permanência no posto
 
-###### Art. 76.º - 1. Conta-se como tempo de serviço:
+Art. 76.º - 1. Conta-se como tempo de serviço:
 
 a) O tempo de permanência do oficial na situação de activo, quando:
 
@@ -802,9 +971,9 @@ b) O de ausência ilegítima do serviço;
 
 c) O de licença registada.
 
-###### Art. 77.º Conta-se como tempo de serviço efectivo na Força Aérea o referido no artigo anterior, com exclusão, para o oficial no activo, do respeitante a comissão especial e, para o oficial na reserva ou na reforma, do relativo ao desempenho de funções que, quando exercidas por oficiais no activo, correspondam a comissão especial.
+Art. 77.º Conta-se como tempo de serviço efectivo na Força Aérea o referido no artigo anterior, com exclusão, para o oficial no activo, do respeitante a comissão especial e, para o oficial na reserva ou na reforma, do relativo ao desempenho de funções que, quando exercidas por oficiais no activo, correspondam a comissão especial.
 
-###### Art. 78.º - 1. Conta-se como tempo de permanência no posto o decorrido:
+Art. 78.º - 1. Conta-se como tempo de permanência no posto o decorrido:
 
 a) Em comissão normal;
 
@@ -818,15 +987,15 @@ a) O de ausência ilegítima do serviço;
 
 b) O de licença registada.
 
-###### Art. 79.º - 1. O tempo de permanência num dado posto é contado a partir da data de antiguidade nesse posto.
+Art. 79.º - 1. O tempo de permanência num dado posto é contado a partir da data de antiguidade nesse posto.
 
 2. Os tempos mínimos de serviço exigidos para a promoção aos diferentes postos mencionados no artigo 146.º são contados a partir da data de antiguidade no posto de tenente.
 
-###### Art. 80.º O tempo de serviço nas forças armadas, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes do mapa n.º 2 anexo a este diploma.
+Art. 80.º O tempo de serviço nas forças armadas, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes do mapa n.º 2 anexo a este diploma.
 
 ### CAPÍTULO VIII — Informações
 
-###### Art. 81.º A informação dos oficiais destina-se essencialmente a:
+Art. 81.º A informação dos oficiais destina-se essencialmente a:
 
 a) Contribuir para a sua selecção, de maneira que os mais aptos para exercerem as funções que competem aos altos postos sejam promovidos mais ràpidamente;
 
@@ -836,7 +1005,7 @@ c) Permitir que o seu valor, apreciado no conjunto de cada quadro, possa ser dev
 
 d) Estimular o aperfeiçoamento individual pelo esclarecimento oportuno das deficiências e dos méritos.
 
-###### Art. 82.º - 1. Estão sujeitos a informação dos comandantes, directores ou chefes a que estejam subordinados directamente:
+Art. 82.º - 1. Estão sujeitos a informação dos comandantes, directores ou chefes a que estejam subordinados directamente:
 
 a) Os oficiais na situação de activo em comissão normal;
 
@@ -850,17 +1019,17 @@ b) Os generais;
 
 c) Os brigadeiros nos quadros em que este posto seja o mais elevado.
 
-###### Art. 83.º Sempre que a cadeia de comando o permita, na informação dos oficiais devem intervir vários informadores, que se pronunciarão quanto à maneira como o informador antecedente apreciou os oficiais, tomados no seu conjunto, caso considerem que a orientação seguida não foi uniforme ou foi excessivamente benevolente ou rigorosa.
+Art. 83.º Sempre que a cadeia de comando o permita, na informação dos oficiais devem intervir vários informadores, que se pronunciarão quanto à maneira como o informador antecedente apreciou os oficiais, tomados no seu conjunto, caso considerem que a orientação seguida não foi uniforme ou foi excessivamente benevolente ou rigorosa.
 
-###### Art. 84.º A informação dos oficiais deve abranger a apreciação das qualidades militares, morais, pessoais, intelectuais, profissionais, físicas e sociais.
+Art. 84.º A informação dos oficiais deve abranger a apreciação das qualidades militares, morais, pessoais, intelectuais, profissionais, físicas e sociais.
 
-###### Art. 85.º A informação dos oficiais é confidencial, sem prejuízo do disposto no artigo 88.º
+Art. 85.º A informação dos oficiais é confidencial, sem prejuízo do disposto no artigo 88.º
 
-###### Art. 86.º - 1. As informações são da exclusiva competência e responsabilidade dos chefes informantes, que devem procurar munir-se de todos os elementos que lhes permitam formular uma apreciação objectiva e justa sobre os oficiais informados.
+Art. 86.º - 1. As informações são da exclusiva competência e responsabilidade dos chefes informantes, que devem procurar munir-se de todos os elementos que lhes permitam formular uma apreciação objectiva e justa sobre os oficiais informados.
 
 2. Sempre que os chefes informantes prestem informação desfavorável ou excepcionalmente favorável são obrigados a mencionar os factos concretos em que se baseiam.
 
-###### Art. 87.º - 1. As informações são normais e extraordinárias.
+Art. 87.º - 1. As informações são normais e extraordinárias.
 
 2. As informações normais são prestadas periòdicamente.
 
@@ -874,15 +1043,15 @@ c) Sempre que um oficial termine quaisquer provas, estágios ou cursos;
 
 d) Se especìficamente solicitadas.
 
-###### Art. 88.º - 1. Os chefes informantes devem reconhecer as qualidades dos oficiais subordinados e, igualmente, esclarecê-los acerca das insuficiências que, em seu entender, podem ser por eles corrigidas se para elas for chamada a sua atenção.
+Art. 88.º - 1. Os chefes informantes devem reconhecer as qualidades dos oficiais subordinados e, igualmente, esclarecê-los acerca das insuficiências que, em seu entender, podem ser por eles corrigidas se para elas for chamada a sua atenção.
 
 2. Quando, independentemente do disposto no n.º 1, for dado conhecimento a um oficial de informação desfavorável a seu respeito, assiste-lhe o direito de reclamação e recurso, de acordo com o estipulado na regulamentação especial referida no artigo 89.º
 
-###### Art. 89.º A definição dos modelos e, quando aplicável, da periodicidade das informações, e bem assim as instruções relativas à sua formulação, encaminhamento, utilização, reclamações e recursos por motivo de informação desfavorável constam de regulamentação especial.
+Art. 89.º A definição dos modelos e, quando aplicável, da periodicidade das informações, e bem assim as instruções relativas à sua formulação, encaminhamento, utilização, reclamações e recursos por motivo de informação desfavorável constam de regulamentação especial.
 
 ### CAPÍTULO IX — Condições físicas e psíquicas
 
-###### Art. 90.º A aptidão física e a psíquica dos oficiais são apreciadas por meio de:
+Art. 90.º A aptidão física e a psíquica dos oficiais são apreciadas por meio de:
 
 a) Inspecções médicas periódicas;
 
@@ -890,7 +1059,7 @@ b) Elementos constantes das informações referidas no capítulo VIII;
 
 c) Provas físicas, quando necessário.
 
-###### Art. 91.º - 1. Independentemente das inspecções médicas periódicas referidas no artigo 90.º, os oficiais devem ser examinados por competente junta de saúde.
+Art. 91.º - 1. Independentemente das inspecções médicas periódicas referidas no artigo 90.º, os oficiais devem ser examinados por competente junta de saúde.
 
 a) Para efeitos de promoção a brigadeiro e a major;
 
@@ -900,13 +1069,13 @@ c) Quando os chefes informantes tenham dúvidas acerca da sua aptidão física o
 
 2. As inspecções médicas a que se refere a alínea a) do n.º 1 poderão ser dispensadas pelo Secretário de Estado da Aeronáutica quando, por motivos imperiosos de serviço, os oficiais não possam ser presentes à junta de saúde.
 
-###### Art. 92.º - 1. Aos oficiais que não possuam a necessária aptidão física para o desempenho das funções que competem ao seu posto são aplicáveis as disposições do artigo 144.º
+Art. 92.º - 1. Aos oficiais que não possuam a necessária aptidão física para o desempenho das funções que competem ao seu posto são aplicáveis as disposições do artigo 144.º
 
 2. As condições em que os oficiais fìsicamente diminuídos, em consequência de ferimentos ou acidentes produzidos em serviço de campanha, de manutenção da ordem pública ou outro serviço com aqueles directamente relacionado, podem continuar no activo são reguladas por legislação especial.
 
 3. Os oficiais que não possuam suficiente aptidão física ou psíquica para o desempenho das funções relativas ao seu posto no quadro a que pertencem poderão ser transferidos para outro quadro nos termos do artigo 45.º
 
-###### Art. 93.º - 1. Os oficiais na situação de activo podem, por motivo de doença ou de licença da competente junta de saúde ou ainda pelos dois motivos, em conjunto, estar ausentes do serviço até ao limite de doze meses, sem prejuízo do disposto no n.º 4.
+Art. 93.º - 1. Os oficiais na situação de activo podem, por motivo de doença ou de licença da competente junta de saúde ou ainda pelos dois motivos, em conjunto, estar ausentes do serviço até ao limite de doze meses, sem prejuízo do disposto no n.º 4.
 
 2. Para efeito da contagem do prazo fixado no n.º 1 são considerados todos os períodos de impedimento por doença e por licença da junta, desde que o intervalo entre dois períodos consecutivos de impedimento seja inferior a trinta dias.
 
@@ -914,13 +1083,13 @@ c) Quando os chefes informantes tenham dúvidas acerca da sua aptidão física o
 
 4. Se os oficiais não fizeram uso da faculdade de opção que lhes é conferida no n.º 3, manter-se-ão ausentes do serviço até decisão final sobre a sua situação.
 
-###### Art. 94.º A periodicidade das inspecções médicas e, bem assim, a organização, atribuições e competência das juntas são fixadas em regulamentação especial.
+Art. 94.º A periodicidade das inspecções médicas e, bem assim, a organização, atribuições e competência das juntas são fixadas em regulamentação especial.
 
 ### CAPÍTULO X — Cursos
 
 #### SECÇÃO I — Classificação
 
-###### Art. 95.º A preparação profissional dos oficiais da Força Aérea ao longo da sua carreira realiza-se essencialmente pela frequência de:
+Art. 95.º A preparação profissional dos oficiais da Força Aérea ao longo da sua carreira realiza-se essencialmente pela frequência de:
 
 a) Cursos de formação;
 
@@ -934,11 +1103,11 @@ e) Cursos de actualização.
 
 #### SECÇÃO II — Cursos de formação
 
-###### Art. 96.º Os cursos de formação destinam-se a dar preparação adequada para ingresso e exercício de funções nos vários quadros referidos no capítulo IV e são tratados em diplomas especiais.
+Art. 96.º Os cursos de formação destinam-se a dar preparação adequada para ingresso e exercício de funções nos vários quadros referidos no capítulo IV e são tratados em diplomas especiais.
 
 #### SECÇÃO III — Cursos de promoção
 
-###### Art. 97.º Os cursos de promoção destinam-se a habilitar os oficiais para o desempenho de funções de maior responsabilidade e a fornecer-lhes bases firmes para um aperfeiçoamento profissional contínuo, tendo em vista, nomeadamente:
+Art. 97.º Os cursos de promoção destinam-se a habilitar os oficiais para o desempenho de funções de maior responsabilidade e a fornecer-lhes bases firmes para um aperfeiçoamento profissional contínuo, tendo em vista, nomeadamente:
 
 a) Aumentar a cultura geral dos oficiais nos domínios das doutrinas e técnicas militares e dos conhecimentos relacionados com o condicionalismo social que integra as instituições militares;
 
@@ -948,7 +1117,7 @@ c) Facultar aos oficiais conhecimentos referentes à preparação e condução d
 
 d) Exercer papel selectivo nas promoções a oficial general e a oficial superior.
 
-###### Art. 98.º - 1. Para os fins referidos no artigo anterior existem os seguintes cursos:
+Art. 98.º - 1. Para os fins referidos no artigo anterior existem os seguintes cursos:
 
 a) Curso geral de guerra aérea;
 
@@ -986,17 +1155,17 @@ c) Médicos;
 
 d) Intendência e contabilidade.
 
-###### Art. 99.º - 1. A habilitação com os cursos referidos nos n.os 2, 3 e 4 do artigo 98.º constitui, como regra, condição para o exercício das funções inerentes à categoria de oficial superior dos respectivos quadros.
+Art. 99.º - 1. A habilitação com os cursos referidos nos n.os 2, 3 e 4 do artigo 98.º constitui, como regra, condição para o exercício das funções inerentes à categoria de oficial superior dos respectivos quadros.
 
 2. Os mesmos cursos são também frequentados pelos oficiais abrangidos pelo disposto no n.º 7 do artigo 132.º e no artigo 174.º
 
-###### Art. 100.º - 1. Compete à Direcção do Serviço de Pessoal promover que sejam designados os oficiais que, por ordem decrescente de antiguidades, devem frequentar os cursos referidos no artigo 99.º
+Art. 100.º - 1. Compete à Direcção do Serviço de Pessoal promover que sejam designados os oficiais que, por ordem decrescente de antiguidades, devem frequentar os cursos referidos no artigo 99.º
 
 2. Na designação de oficiais para a frequência dos cursos mencionados deve atender-se ao número de vagas que se prevê venham a ocorrer, à possibilidade de escolha para promoção de entre número significativo de capitães e à conveniência de os cursos serem frequentados após os oficiais terem completado o tempo de permanência no posto exigido para a promoção.
 
 3. A nomeação dos oficiais para a frequência dos cursos referidos é publicada na Ordem à Aeronáutica, em Janeiro de cada ano.
 
-###### Art. 101.º - 1. A habilitação com o curso de altos comandos da Força Aérea constitui, como regra, condição para o exercício das funções inerentes à categoria de oficial general dos respectivos quadros.
+Art. 101.º - 1. A habilitação com o curso de altos comandos da Força Aérea constitui, como regra, condição para o exercício das funções inerentes à categoria de oficial general dos respectivos quadros.
 
 2. A nomeação para a frequência do curso de altos comandos da Força Aérea é feita anualmente, por escolha, em separado para cada quadro, entre todos os coronéis dos quadros referidos no n.º 5 do artigo 98.º
 
@@ -1008,21 +1177,21 @@ d) Intendência e contabilidade.
 
 6. A nomeação dos oficiais para a frequência do curso de altos comandos é publicada na Ordem à Aeronáutica, em Janeiro de cada ano.
 
-###### Art. 102.º Os procedimentos necessários para a execução do disposto nos artigos 100.º e 101.º serão regulamentados por portarias do Secretário de Estado da Aeronáutica.
+Art. 102.º Os procedimentos necessários para a execução do disposto nos artigos 100.º e 101.º serão regulamentados por portarias do Secretário de Estado da Aeronáutica.
 
-###### Art. 103.º O Secretário de Estado da Aeronáutica pode autorizar o adiamento da frequência dos cursos de promoção nas seguintes condições:
+Art. 103.º O Secretário de Estado da Aeronáutica pode autorizar o adiamento da frequência dos cursos de promoção nas seguintes condições:
 
 a) Por exigências de serviço, aos oficiais a quem for aplicável o disposto no artigo 174.º;
 
 b) Por uma só vez, aos oficiais que o requeiram, sujeitando-se à preterição se entretanto lhes competir a promoção.
 
-###### Art. 104.º - 1. Os oficiais podem desistir da frequência dos cursos ou provas de promoção para que hajam sido nomeados.
+Art. 104.º - 1. Os oficiais podem desistir da frequência dos cursos ou provas de promoção para que hajam sido nomeados.
 
 2. Em tempo de guerra ou quando circunstâncias anormais o imponham, a desistência está, porém, sujeita a deferimento do Secretário de Estado da Aeronáutica.
 
 3. Os oficiais a que respeitam os n.os 1 e 2 não são novamente convocados para a frequência dos cursos ou provas referidos e transitam para a situação de reserva ou têm passagem a oficiais de complemento, nos termos dos n.os 2 e 4 do artigo 70.º
 
-###### Art. 105.º - 1. Os cursos de promoção a oficial superior poderão ser repetidos por uma só vez pelos oficiais que neles não tenham obtido aproveitamento.
+Art. 105.º - 1. Os cursos de promoção a oficial superior poderão ser repetidos por uma só vez pelos oficiais que neles não tenham obtido aproveitamento.
 
 2. O curso de altos comandos da Força Aérea não pode ser repetido pelos oficiais que nele não tenham obtido aproveitamento.
 
@@ -1030,13 +1199,13 @@ b) Por uma só vez, aos oficiais que o requeiram, sujeitando-se à preterição 
 
 #### SECÇÃO IV — Cursos de qualificação
 
-###### Art. 106.º Os cursos de qualificação destinam-se a ampliar os conhecimentos profissionais dos oficiais em determinadas áreas de utilização pertinentes ao seu quadro, habilitando-os com as técnicas e demais requisitos necessários ao desempenho de funções em tais áreas.
+Art. 106.º Os cursos de qualificação destinam-se a ampliar os conhecimentos profissionais dos oficiais em determinadas áreas de utilização pertinentes ao seu quadro, habilitando-os com as técnicas e demais requisitos necessários ao desempenho de funções em tais áreas.
 
-###### Art. 107.º - 1. Os cursos de qualificação são frequentados em escolas ou outros órgãos da Força Aérea.
+Art. 107.º - 1. Os cursos de qualificação são frequentados em escolas ou outros órgãos da Força Aérea.
 
 2. O Secretário de Estado da Aeronáutica pode conceder a determinados cursos frequentados em estabelecimentos de ensino estranhos à Força Aérea, nacionais ou estrangeiros, equivalência aos de qualificação.
 
-###### Art. 108.º A nomeação de oficiais para cursos de qualificação será feita de acordo com as exigências de serviço, tendo em conta os seguintes factores:
+Art. 108.º A nomeação de oficiais para cursos de qualificação será feita de acordo com as exigências de serviço, tendo em conta os seguintes factores:
 
 a) Necessidade de distribuir pelas diversas áreas de utilização oficiais que tenham demonstrado igual nível de aptidão intelectual e profissional;
 
@@ -1044,37 +1213,37 @@ b) Preferências e aptidões particulares manifestadas pelos oficiais;
 
 c) Conveniência em habilitar o maior número possível de oficiais com, pelo menos, um curso de qualificação.
 
-###### Art. 109.º Normalmente, os oficiais habilitados com cursos de qualificação deverão servir, durante os três anos seguintes à conclusão desses cursos, em cargos em que apliquem os conhecimentos neles adquiridos.
+Art. 109.º Normalmente, os oficiais habilitados com cursos de qualificação deverão servir, durante os três anos seguintes à conclusão desses cursos, em cargos em que apliquem os conhecimentos neles adquiridos.
 
 #### SECÇÃO V — Cursos de especialização
 
-###### Art. 110.º Os cursos de especialização destinam-se a melhorar a preparação dos oficiais em determinados campos restritos das várias áreas de utilização pertinentes ao seu quadro, habilitando-os com as técnicas e conhecimentos complementares dos adquiridos nos cursos de qualificação.
+Art. 110.º Os cursos de especialização destinam-se a melhorar a preparação dos oficiais em determinados campos restritos das várias áreas de utilização pertinentes ao seu quadro, habilitando-os com as técnicas e conhecimentos complementares dos adquiridos nos cursos de qualificação.
 
-###### Art. 111.º Os cursos de especialização podem ser frequentados em escolas ou outros órgãos da Força Aérea ou em escolas estranhas à Força Aérea, nacionais ou estrangeiras.
+Art. 111.º Os cursos de especialização podem ser frequentados em escolas ou outros órgãos da Força Aérea ou em escolas estranhas à Força Aérea, nacionais ou estrangeiras.
 
 #### SECÇÃO VI — Cursos de actualização
 
-###### Art. 112.º Os cursos de actualização destinam-se a renovar os conhecimentos profissionais dos oficiais para o desempenho de funções que competem ao seu posto e quadro.
+Art. 112.º Os cursos de actualização destinam-se a renovar os conhecimentos profissionais dos oficiais para o desempenho de funções que competem ao seu posto e quadro.
 
-###### Art. 113.º Os cursos de actualização podem ser frequentados em escolas ou outros órgãos da Força Aérea ou em escolas estranhas à Força Aérea, nacionais ou estrangeiras.
+Art. 113.º Os cursos de actualização podem ser frequentados em escolas ou outros órgãos da Força Aérea ou em escolas estranhas à Força Aérea, nacionais ou estrangeiras.
 
 #### SECÇÃO VII — Outras disposições
 
-###### Art. 114.º A organização e funcionamento dos cursos referidos no artigo 95.º são estabelecidos em portarias do Secretário de Estado da Aeronáutica ou noutros diplomas específicos.
+Art. 114.º A organização e funcionamento dos cursos referidos no artigo 95.º são estabelecidos em portarias do Secretário de Estado da Aeronáutica ou noutros diplomas específicos.
 
-###### Art. 115.º O aproveitamento obtido pelos oficiais na frequência dos cursos referidos no artigo 95.º é registado nos respectivos processos individuais.
+Art. 115.º O aproveitamento obtido pelos oficiais na frequência dos cursos referidos no artigo 95.º é registado nos respectivos processos individuais.
 
-###### Art. 116.º Independentemente dos cursos pertinentes às tropas pára-quedistas, os oficiais dos quadros de pára-quedistas e do serviço geral pára-quedistas frequentam os cursos de promoção referentes ao seu quadro de origem.
+Art. 116.º Independentemente dos cursos pertinentes às tropas pára-quedistas, os oficiais dos quadros de pára-quedistas e do serviço geral pára-quedistas frequentam os cursos de promoção referentes ao seu quadro de origem.
 
 ### CAPÍTULO XI — Promoções e graduações
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 117.º - 1. Os oficiais ascendem às categorias e postos referidos no artigo 6.º, por promoção, nos termos estabelecidos neste Estatuto.
+Art. 117.º - 1. Os oficiais ascendem às categorias e postos referidos no artigo 6.º, por promoção, nos termos estabelecidos neste Estatuto.
 
 2. Pode, contudo, atribuir-se aos oficiais graduações em posto superior ao seu, nos termos previstos neste diploma.
 
-###### Art. 118.º - 1. Salvo a promoção a marechal da Força Aérea e a general de quatro estrelas e a promoção a título excepcional, os oficiais da Força Aérea podem ser promovidos:
+Art. 118.º - 1. Salvo a promoção a marechal da Força Aérea e a general de quatro estrelas e a promoção a título excepcional, os oficiais da Força Aérea podem ser promovidos:
 
 a) Por diuturnidade, que consiste no acesso ao posto imediato, decorrido o período de permanência fixado neste estatuto e satisfeitas as demais condições de promoção, mantendo-se no novo posto a antiguidade relativa do posto anterior, salvo os casos de preterição;
 
@@ -1090,7 +1259,7 @@ d) Por distinção, que consiste no acesso a posto superior, independentemente d
 
 4. As promoções que resultam do ingresso nos vários quadros obedecem a regras especiais já indicadas no capítulo IV e nas quais se consideram contidas as condições gerais de promoção enumeradas no artigo 135.º
 
-###### Art. 119.º - 1. Para serem promovidos, os oficiais têm de satisfazer às condições de promoção fixadas neste Estatuto, tendo apenas em conta as excepções nele previstas.
+Art. 119.º - 1. Para serem promovidos, os oficiais têm de satisfazer às condições de promoção fixadas neste Estatuto, tendo apenas em conta as excepções nele previstas.
 
 2. As condições de promoção dividem-se em:
 
@@ -1098,7 +1267,7 @@ a) Condições gerais - comuns a todos os quadros e postos;
 
 b) Condições especiais - próprias de cada quadro e posto.
 
-###### Art. 120.º - 1. A promoção dos oficiais apenas se verifica na situação de activo, com as seguintes excepções:
+Art. 120.º - 1. A promoção dos oficiais apenas se verifica na situação de activo, com as seguintes excepções:
 
 a) Ao posto de marechal da Força Aérea também podem ser promovidos oficiais generais nas situações de reserva ou de reforma;
 
@@ -1108,7 +1277,7 @@ c) A promoção a título excepcional a que se refere o artigo 134.º deste Esta
 
 2. A promoção por distinção também pode ter lugar a título póstumo.
 
-###### Art. 121.º A promoção dos oficiais realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 6.º, tendo em conta as seguintes excepções:
+Art. 121.º A promoção dos oficiais realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 6.º, tendo em conta as seguintes excepções:
 
 a) Os generais e brigadeiros podem ascender directamente a marechais da Força Aérea;
 
@@ -1116,7 +1285,7 @@ b) Nos quadros em que exista o posto de general podem ser promovidos directament
 
 c) A promoção por distinção pode, em casos muito excepcionais, realizar-se a posto superior ao posto imediato do oficial a promover.
 
-###### Art. 122.º - 1. A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro (no quadro, adidos ao quadro ou supranumerários).
+Art. 122.º - 1. A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro (no quadro, adidos ao quadro ou supranumerários).
 
 2. Nas promoções a que se refere a alínea a) do n.º 2 do artigo 67.º, quando os oficiais não devam ficar na situação de adidos e não haja vacatura nos quadros, ficam na situação de supranumerários.
 
@@ -1124,17 +1293,17 @@ c) A promoção por distinção pode, em casos muito excepcionais, realizar-se a
 
 4. Os oficiais adidos ao quadro aos quais caiba promoção por antiguidade ou por escolha e que continuem adidos no novo posto serão promovidos independentemente de a vacatura poder ser ou não preenchida por outro oficial.
 
-###### Art. 123.º - 1. Quando nas promoções por antiguidade ou por escolha a vacatura não possa ser preenchida, a promoção realizar-se-á nos graus hierárquicos inferiores para todos os oficiais a quem ela pertenceria como se se tivesse dado o movimento.
+Art. 123.º - 1. Quando nas promoções por antiguidade ou por escolha a vacatura não possa ser preenchida, a promoção realizar-se-á nos graus hierárquicos inferiores para todos os oficiais a quem ela pertenceria como se se tivesse dado o movimento.
 
 2. O efectivo fixado para o posto mais elevado ao qual se realizarem promoções ao abrigo do disposto no n.º 1 fica aumentado, transitòriamente, do número de oficiais que a ele forem promovidos nessas condições.
 
 #### SECÇÃO II — Promoção a marechal da Força Aérea e a general de quatro estrelas
 
-###### Art. 124.º - 1. A promoção ao posto de marechal da Força Aérea nas condições definidas no n.º 1 do artigo 7.º realiza-se, salvo no caso previsto no n.º 2 do mesmo artigo, por deliberação do Conselho de Ministros, mediante proposta do Secretário de Estado da Aeronáutica, com a concordância do Ministro da Defesa Nacional.
+Art. 124.º - 1. A promoção ao posto de marechal da Força Aérea nas condições definidas no n.º 1 do artigo 7.º realiza-se, salvo no caso previsto no n.º 2 do mesmo artigo, por deliberação do Conselho de Ministros, mediante proposta do Secretário de Estado da Aeronáutica, com a concordância do Ministro da Defesa Nacional.
 
 2. Para efeitos da elaboração do correspondente processo é obrigatòriamente ouvido o Conselho Superior da Aeronáutica, devendo a proposta ter parecer favorável, quanto à natureza dos fundamentos, do Supremo Tribunal Militar.
 
-###### Art. 125.º - 1. São promovidos a generais de quatro estrelas os generais que foram nomeados para exercer os cargos de chefe do Estado-Maior-General das Forças Armadas, de presidente do Supremo Tribunal Militar e de chefe do Estado-Maior da Força Aérea, sendo o diploma da nomeação simultâneamente o de promoção.
+Art. 125.º - 1. São promovidos a generais de quatro estrelas os generais que foram nomeados para exercer os cargos de chefe do Estado-Maior-General das Forças Armadas, de presidente do Supremo Tribunal Militar e de chefe do Estado-Maior da Força Aérea, sendo o diploma da nomeação simultâneamente o de promoção.
 
 2. A nomeação para os cargos mencionados no n.º 1 é da competência das entidades referidas nas alíneas b) e c) do artigo 172.º
 
@@ -1142,7 +1311,7 @@ c) A promoção por distinção pode, em casos muito excepcionais, realizar-se a
 
 #### SECÇÃO III — Promoção por diuturnidade
 
-###### Art. 126.º - 1. A promoção por diuturnidade tem lugar nas promoções aos seguintes postos:
+Art. 126.º - 1. A promoção por diuturnidade tem lugar nas promoções aos seguintes postos:
 
 a) Capitão, após três anos de permanência no posto de tenente, nos quadros de pilotos aviadores, engenheiros, médicos e de intendência e contabilidade;
 
@@ -1156,7 +1325,7 @@ b) Tenente, após um ano de permanência no posto de alferes.
 
 #### SECÇÃO IV — Promoção por antiguidade
 
-###### Art. 127.º - 1. A promoção por antiguidade tem lugar nas promoções aos seguintes postos:
+Art. 127.º - 1. A promoção por antiguidade tem lugar nas promoções aos seguintes postos:
 
 a) Tenente-coronel, nos quadros em que este posto não seja o mais elevado;
 
@@ -1166,7 +1335,7 @@ b) Capitão, nos quadros não abrangidos pelo disposto no artigo 126.º
 
 #### SECÇÃO V — Promoção por escolha
 
-###### Art. 128.º - 1. A promoção por escolha tem lugar nas promoções aos seguintes postos:
+Art. 128.º - 1. A promoção por escolha tem lugar nas promoções aos seguintes postos:
 
 a) General;
 
@@ -1182,23 +1351,23 @@ e) Major.
 
 3. A promoção aos postos referidos nas alíneas c), d) e e) do n.º 1 é da competência do Secretário de Estado da Aeronáutica, ouvida a Comissão Técnica da Força Aérea.
 
-###### Art. 129.º Na promoção aos postos de general e brigadeiro a escolha é feita, em relação a cada vacatura, entre os oficiais seguintes:
+Art. 129.º Na promoção aos postos de general e brigadeiro a escolha é feita, em relação a cada vacatura, entre os oficiais seguintes:
 
 a) Promoção a general: todos os brigadeiros pilotos aviadores e coronéis pilotos aviadores que, na data em que ocorrer a vacatura ou vacaturas, perfaçam as necessárias condições de promoção;
 
 b) Promoção a brigadeiro: todos os coronéis que, na data em que ocorrer a vacatura ou vacaturas respeitantes ao seu quadro, perfaçam as necessárias condições de promoção.
 
-###### Art. 130.º - 1. Na promoção aos postos de coronel, tenente-coronel - nos quadros em que este posto seja o mais elevado - e major, a escolha é feita anualmente, para cada quadro e posto, entre todos os oficiais que até 31 de Dezembro de cada ano venham a reunir condições legais para concorrerem à promoção.
+Art. 130.º - 1. Na promoção aos postos de coronel, tenente-coronel - nos quadros em que este posto seja o mais elevado - e major, a escolha é feita anualmente, para cada quadro e posto, entre todos os oficiais que até 31 de Dezembro de cada ano venham a reunir condições legais para concorrerem à promoção.
 
 2. As ordenações para promoção estabelecidas pela Comissão Técnica da Força Aérea e homologadas pelo Secretário de Estado da Aeronáutica são válidas de 1 de Janeiro a 31 de Dezembro do ano seguinte.
 
 3. No caso excepcional de as vacaturas virem a exceder o número de oficiais apreciados, proceder-se-á a nova escolha, em relação a cada vacatura, entre todos os oficiais que, à data, reúnam as necessárias condições de promoção.
 
-###### Art. 131.º Os procedimentos necessários para a execução do disposto nos artigos 129.º e 130.º são regulamentados por portarias do Secretário de Estado da Aeronáutica.
+Art. 131.º Os procedimentos necessários para a execução do disposto nos artigos 129.º e 130.º são regulamentados por portarias do Secretário de Estado da Aeronáutica.
 
 #### SECÇÃO VI — Promoção por distinção
 
-###### Art. 132.º - 1. A promoção por distinção pode realizar-se a todos os postos, com exclusão dos de marechal da Força Aérea e de general de quatro estrelas.
+Art. 132.º - 1. A promoção por distinção pode realizar-se a todos os postos, com exclusão dos de marechal da Força Aérea e de general de quatro estrelas.
 
 2. A promoção por distinção aos postos da categoria de oficial general é da competência do Conselho Superior da Defesa Nacional, mediante proposta do Secretário de Estado da Aeronáutica, ouvido o Conselho Superior da Aeronáutica.
 
@@ -1212,7 +1381,7 @@ b) Promoção a brigadeiro: todos os coronéis que, na data em que ocorrer a vac
 
 7. Os capitães ou subalternos promovidos por distinção a postos da categoria de oficial superior frequentarão o mais cedo possível, nesses postos, o curso que constitua condição especial de promoção àquela categoria, se porventura ainda o não tiverem frequentado.
 
-###### Art. 133.º São circunstâncias determinantes ou atendíveis na promoção por distinção:
+Art. 133.º São circunstâncias determinantes ou atendíveis na promoção por distinção:
 
 a) A prática de actos de coragem física ou moral, de abnegação e de excepcional valor militar para os quais deva ser chamada a atenção pública;
 
@@ -1224,7 +1393,7 @@ d) A prática de actos ou serviços de carácter excepcional, demonstrativos de 
 
 #### SECÇÃO VII — Promoção a título excepcional
 
-###### Art. 134.º A promoção a título excepcional é regulada por legislação especial e pode ter lugar nos seguintes casos:
+Art. 134.º A promoção a título excepcional é regulada por legislação especial e pode ter lugar nos seguintes casos:
 
 a) Por serviços prestados, em relação a oficiais que passaram à situação de reserva ou de reforma por motivo de invalidez, desastre em serviço ou doença contraída em serviço ou por motivo do mesmo;
 
@@ -1232,7 +1401,7 @@ b) Por reabilitação consequente de revisão de processo criminal ou disciplina
 
 #### SECÇÃO VIII — Condições gerais de promoção
 
-###### Art. 135.º As condições gerais de promoção são as seguintes:
+Art. 135.º As condições gerais de promoção são as seguintes:
 
 1.ª Bom comportamento militar e civil e perfeito espírito militar;
 
@@ -1242,7 +1411,7 @@ b) Por reabilitação consequente de revisão de processo criminal ou disciplina
 
 4.ª Aptidão física adequada.
 
-###### Art. 136.º - 1. Para verificação das condições gerais de promoção são, normalmente, elementos de apreciação:
+Art. 136.º - 1. Para verificação das condições gerais de promoção são, normalmente, elementos de apreciação:
 
 a) As informações a que se refere o capítulo VIII;
 
@@ -1250,13 +1419,13 @@ b) O registo disciplinar;
 
 c) Outros documentos que constem dos processos individuais dos oficiais.
 
-###### Art. 137.º - 1. Nas promoções por diuturnidade e por antiguidade, a verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção compete ao subchefe do Estado-Maior (pessoal), com base nos processos organizados e informados pela Direcção do Serviço de Pessoal.
+Art. 137.º - 1. Nas promoções por diuturnidade e por antiguidade, a verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção compete ao subchefe do Estado-Maior (pessoal), com base nos processos organizados e informados pela Direcção do Serviço de Pessoal.
 
 2. Nos casos em que o subchefe do Estado-Maior (pessoal) tenha dúvidas ou considere não satisfeitas as condições gerais de promoção referidas no n.º 1, deverá o assunto ser presente ao chefe do Estado-Maior da Força Aérea; quando este oficial general entenda que as citadas condições não são satisfeitas ou tenha dúvidas a esse respeito, proporá ao Secretário de Estado da Aeronáutica a convocação da Comissão Técnica da Força Aérea para exame do mesmo assunto.
 
-###### Art. 138.º Nas promoções por escolha, a verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção compete ao Conselho Superior da Aeronáutica ou à Comissão Técnica da Força Aérea, conforme se trate de promoção a postos da categoria de oficial general ou aos restantes postos mencionados no artigo 128.º, igualmente com base nos processos organizados e informados pela Direcção do Serviço de Pessoal.
+Art. 138.º Nas promoções por escolha, a verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção compete ao Conselho Superior da Aeronáutica ou à Comissão Técnica da Força Aérea, conforme se trate de promoção a postos da categoria de oficial general ou aos restantes postos mencionados no artigo 128.º, igualmente com base nos processos organizados e informados pela Direcção do Serviço de Pessoal.
 
-###### Art. 139.º - 1. Nenhum oficial pode ser dado como não satisfazendo à 1.ª ou 2.ª condições gerais de promoção sem ser submetido a julgamento do Conselho Superior de Disciplina da Força Aérea, nem considerado como não satisfazendo à 3.ª condição geral de promoção sem ser ouvido o Conselho Superior da Aeronáutica ou a Comissão Técnica da Força Aérea, conforme se trate de promoção aos postos da categoria de oficial general ou aos restantes postos.
+Art. 139.º - 1. Nenhum oficial pode ser dado como não satisfazendo à 1.ª ou 2.ª condições gerais de promoção sem ser submetido a julgamento do Conselho Superior de Disciplina da Força Aérea, nem considerado como não satisfazendo à 3.ª condição geral de promoção sem ser ouvido o Conselho Superior da Aeronáutica ou a Comissão Técnica da Força Aérea, conforme se trate de promoção aos postos da categoria de oficial general ou aos restantes postos.
 
 2. O Secretário de Estado da Aeronáutica, em face dos pareceres do Conselho Superior da Aeronáutica ou da Comissão Técnica da Força Aérea, elaborados para execução do constante do n.º 2 do artigo 137.º e do artigo 138.º, resolverá desde logo, em última instância, a menos que considere não estarem cumpridas as condições gerais de promoção mencionadas ou tenha dúvidas quanto a esse cumprimento, circunstâncias em que, por força do preceituado no n.º 1, a decisão só será tomada após:
 
@@ -1264,13 +1433,13 @@ a) Julgamento dos oficiais em apreciação, no Conselho Superior de Disciplina d
 
 b) Parecer do Conselho Superior da Aeronáutica ou da Comissão Técnica da Força Aérea, acerca dos mesmos oficiais, se tal não tiver já sido feito, quando se trate da 3.ª condição geral de promoção.
 
-###### Art. 140.º A 4.ª condição geral de promoção é verificada pelas mesmas entidades referidas nos artigos 137.º e 138.º, com base nos seguintes elementos incluídos nos processos organizados pela Direcção do Serviço de Pessoal:
+Art. 140.º A 4.ª condição geral de promoção é verificada pelas mesmas entidades referidas nos artigos 137.º e 138.º, com base nos seguintes elementos incluídos nos processos organizados pela Direcção do Serviço de Pessoal:
 
 a) Resoluções das competentes juntas de saúde, quando se trate de promoções aos postos de brigadeiro ou major;
 
 b) Informações específicas dos comandantes ou chefes ou exame da junta de saúde, no caso previsto na alínea c) do artigo 91.º, quando se trate de promoções aos restantes postos.
 
-###### Art. 141.º O oficial que não satisfaça à 1.ª ou 2.ª condições gerais de promoção deixará de estar no activo e:
+Art. 141.º O oficial que não satisfaça à 1.ª ou 2.ª condições gerais de promoção deixará de estar no activo e:
 
 a) Transitará para a situação de reforma, nos termos da condição 2) da alínea b) do n.º 1 do artigo 73.º; ou
 
@@ -1278,15 +1447,15 @@ b) Será abatido definitivamente aos quadros permanentes da Força Aérea, nos t
 
 c) Será separado do serviço se se verificarem as condições referidas no artigo 47.º
 
-###### Art. 142.º - 1. O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído temporàriamente da promoção pelo prazo máximo de dois anos, findo o qual, se continuar a não satisfazer à mesma condição, terá passagem:
+Art. 142.º - 1. O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído temporàriamente da promoção pelo prazo máximo de dois anos, findo o qual, se continuar a não satisfazer à mesma condição, terá passagem:
 
 a) À situação de reserva; ou
 
 b) A oficial de complemento, nos termos da alínea c) do n.º 1 do artigo 48.º, se não reunir as condições legais de passagem à situação de reserva.
 
-###### Art. 143.º O oficial contra o qual se esteja a proceder a auto de corpo de delito, processo de averiguações ou tenha pendentes processo criminal ou disciplinar poderá ser promovido se o Secretário de Estado da Aeronáutica assim o entender por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª ou 3.ª condições gerais de promoção.
+Art. 143.º O oficial contra o qual se esteja a proceder a auto de corpo de delito, processo de averiguações ou tenha pendentes processo criminal ou disciplinar poderá ser promovido se o Secretário de Estado da Aeronáutica assim o entender por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª ou 3.ª condições gerais de promoção.
 
-###### Art. 144.º - 1. O oficial que não satisfaça à 4.ª condição geral de promoção:
+Art. 144.º - 1. O oficial que não satisfaça à 4.ª condição geral de promoção:
 
 a) Transitará para a situação de reserva, nos termos da condição 2) da alínea a) do n.º 1 do artigo 70.º; ou
 
@@ -1298,7 +1467,7 @@ d) Será abatido definitivamente aos quadros permanentes da Força Aérea, nos t
 
 #### SECÇÃO IX — Condições especiais de promoção
 
-###### Art. 145.º As condições especiais de promoção abrangem:
+Art. 145.º As condições especiais de promoção abrangem:
 
 a) Tempo de permanência no posto;
 
@@ -1306,7 +1475,7 @@ b) Desempenho de funções específicas de cada quadro;
 
 c) Cursos de promoção.
 
-###### Art. 146.º - 1. Os oficiais não podem ser promovidos aos postos adiante indicados sem os seguintes tempos mínimos de serviço, contados a partir da promoção a tenente:
+Art. 146.º - 1. Os oficiais não podem ser promovidos aos postos adiante indicados sem os seguintes tempos mínimos de serviço, contados a partir da promoção a tenente:
 
 Capitão - três anos.
 
@@ -1324,9 +1493,9 @@ General - dezoito anos.
 
 3. Os tempos mínimos referidos no n.º 1 podem igualmente ser reduzidos, por despacho fundamentado do Secretário de Estado da Aeronáutica, publicado na Ordem à Aeronáutica, quando constituam razão única impeditiva da promoção de oficiais que hajam beneficiado anteriormente de promoção ou distinção.
 
-###### Art. 147.º O Secretário de Estado da Aeronáutica, ouvido o Conselho Superior da Aeronáutica ou a Comissão Técnica da Força Aérea, conforme se trate de promoção a posto da categoria de oficial general ou a posto de categoria inferior, pode, por despacho fundamentado publicado na Ordem à Aeronáutica, dispensar, num só posto, das condições especiais a que se refere a alínea b) do artigo 145.º, qualquer oficial que, por conveniência excepcional de serviço, seja impedido de as realizar.
+Art. 147.º O Secretário de Estado da Aeronáutica, ouvido o Conselho Superior da Aeronáutica ou a Comissão Técnica da Força Aérea, conforme se trate de promoção a posto da categoria de oficial general ou a posto de categoria inferior, pode, por despacho fundamentado publicado na Ordem à Aeronáutica, dispensar, num só posto, das condições especiais a que se refere a alínea b) do artigo 145.º, qualquer oficial que, por conveniência excepcional de serviço, seja impedido de as realizar.
 
-###### Art. 148. - 1. Os oficiais impossibilitados de satisfazer as condições especiais de promoção por estarem investidos nas funções de Presidente da República ou de Presidente do Conselho de Ministros serão delas dispensados.
+Art. 148. - 1. Os oficiais impossibilitados de satisfazer as condições especiais de promoção por estarem investidos nas funções de Presidente da República ou de Presidente do Conselho de Ministros serão delas dispensados.
 
 2. Aos oficiais investidos nas funções de Ministro, Secretário de Estado ou Subsecretário de Estado é igualmente aplicado o procedimento previsto no n.º 1, salvo no que respeita à frequência de cursos.
 
@@ -1334,7 +1503,7 @@ General - dezoito anos.
 
 4. Os fundamentos da dispensa referida no n.º 3, com a enumeração das qualidades e serviços que a justificam, deverão ser publicados na Ordem à Aeronáutica.
 
-###### Art. 149.º - 1. Em cada posto os oficiais deverão reunir, logo que possível, as condições especiais de promoção ao posto imediato.
+Art. 149.º - 1. Em cada posto os oficiais deverão reunir, logo que possível, as condições especiais de promoção ao posto imediato.
 
 2. Salvo as disposições legais em contrário, as condições especiais de promoção são realizadas em comissão normal.
 
@@ -1344,15 +1513,15 @@ General - dezoito anos.
 
 5. O disposto no n.º 4 não implica a obrigação de nomear qualquer oficial para o comando de unidades da Força Aérea.
 
-###### Art. 150.º - 1. A nomeação a que se refere o n.º 4 do artigo anterior, quando diga respeito a oficiais que se encontrem em comissão especial ou de licença ilimitada, só será efectuada a requerimento dos interessados.
+Art. 150.º - 1. A nomeação a que se refere o n.º 4 do artigo anterior, quando diga respeito a oficiais que se encontrem em comissão especial ou de licença ilimitada, só será efectuada a requerimento dos interessados.
 
 2. A direcção do Serviço de Pessoal deverá, contudo, notificar oportunamente os oficiais referidos no n.º 1 de que a continuarem nessas situações poderão ser prejudicados na promoção.
 
-###### Art. 151.º A verificação das condições especiais de promoção compete à Direcção do Serviço de Pessoal que, para tanto, prepara e promove a elaboração dos necessários elementos informativos.
+Art. 151.º A verificação das condições especiais de promoção compete à Direcção do Serviço de Pessoal que, para tanto, prepara e promove a elaboração dos necessários elementos informativos.
 
-###### Art. 152.º Independentemente das condições especiais exigidas para a promoção aos diferentes postos, nenhum oficial dos quadros de pilotos aviadores ou de pilotos navegadores poderá ser promovido ao posto imediato sem ter realizado nos dois semestres anteriores as provas mínimas de treino exigidas por lei, salvo se o chefe do Estado-Maior da Força Aérea reconhecer que essas provas não foram executadas por motivo de serviço.
+Art. 152.º Independentemente das condições especiais exigidas para a promoção aos diferentes postos, nenhum oficial dos quadros de pilotos aviadores ou de pilotos navegadores poderá ser promovido ao posto imediato sem ter realizado nos dois semestres anteriores as provas mínimas de treino exigidas por lei, salvo se o chefe do Estado-Maior da Força Aérea reconhecer que essas provas não foram executadas por motivo de serviço.
 
-###### Art. 153.º As condições de promoção no quadro de pilotos aviadores são:
+Art. 153.º As condições de promoção no quadro de pilotos aviadores são:
 
 a) Para a promoção a tenente:
 
@@ -1414,9 +1583,9 @@ f) Para a promoção a brigadeiro e a general:
 
 4) Ter frequentado com aproveitamento o curso de altos comandos da Força Aérea.
 
-###### Art. 154.º As condições especiais de promoção no quadro de pára-quedistas são reguladas em legislação especial.
+Art. 154.º As condições especiais de promoção no quadro de pára-quedistas são reguladas em legislação especial.
 
-###### Art. 155.º As condições especiais de promoção nos quadros de engenheiros são:
+Art. 155.º As condições especiais de promoção nos quadros de engenheiros são:
 
 a) Para a promoção a capitão:
 
@@ -1460,7 +1629,7 @@ e) Para a promoção a brigadeiro:
 
 4) Ter frequentado com aproveitamento o curso de altos comandos da Força Aérea - serviços.
 
-###### Art. 156.º As condições especiais de promoção no quadro de médicos são:
+Art. 156.º As condições especiais de promoção no quadro de médicos são:
 
 a) Para a promoção a capitão:
 
@@ -1504,7 +1673,7 @@ e) Para a promoção a brigadeiro:
 
 4) Ter frequentado com aproveitamento o curso de altos comandos da Força Aérea - serviços.
 
-###### Art. 157.º As condições especiais de promoção no quadro de intendência e contabilidade são:
+Art. 157.º As condições especiais de promoção no quadro de intendência e contabilidade são:
 
 a) Para a promoção a tenente:
 
@@ -1554,7 +1723,7 @@ f) Para a promoção a brigadeiro:
 
 4) Ter frequentado com aproveitamento o curso de altos comandos da Força Aérea - serviços.
 
-###### Art. 158.º As condições especiais de promoção no quadro de pilotos navegadores são:
+Art. 158.º As condições especiais de promoção no quadro de pilotos navegadores são:
 
 a) Para a promoção a tenente:
 
@@ -1592,7 +1761,7 @@ d) Para a promoção a tenente-coronel:
 
 4) Ter averbado um mínimo de cem horas de voo no posto de major, no exercício de funções próprias do quadro.
 
-###### Art. 159.º As condições especiais da promoção nos quadros téncios são:
+Art. 159.º As condições especiais da promoção nos quadros téncios são:
 
 a) Para a promoção a tenente:
 
@@ -1624,7 +1793,7 @@ c) Para a promoção a tenente-coronel:
 
 3) Ter desempenhado, pelo menos durante um dos dois anos exigidos na subalínea anterior, serviço efectivo em unidades ou outros órgãos da força aérea, com reconhecida competência no exercício de funções próprias do quadro e posto.
 
-###### Art. 160.º As condições especiais de promoção no quadro do serviço geral são:
+Art. 160.º As condições especiais de promoção no quadro do serviço geral são:
 
 a) Para a promoção a tenente:
 
@@ -1648,17 +1817,17 @@ c) Para a promoção a major:
 
 4) Ter frequentado com aproveitamento o curso de aperfeiçoamento da Escola Superior da Força Aérea.
 
-###### Art. 161.º As condições especiais de promoção no quadro do serviço geral de pára-quedistas são reguladas em legislação especial.
+Art. 161.º As condições especiais de promoção no quadro do serviço geral de pára-quedistas são reguladas em legislação especial.
 
 #### SECÇÃO X — Exclusão temporária da promoção
 
-###### Art. 162.º Os oficiais podem ser excluídos temporàriamente da promoção, ficando numa das seguintes situações:
+Art. 162.º Os oficiais podem ser excluídos temporàriamente da promoção, ficando numa das seguintes situações:
 
 a) Demorados;
 
 b) Preteridos.
 
-###### Art. 163.º - 1. A demora na promoção tem lugar nos seguintes casos:
+Art. 163.º - 1. A demora na promoção tem lugar nos seguintes casos:
 
 a) Quando os oficiais aguardem julgamento no Conselho Superior de Disciplina da Força Aérea, nas condições a que se refere o n.º 2 do artigo 139.º;
 
@@ -1682,7 +1851,7 @@ g) Noutros casos em que a lei expressamente o determine.
 
 5. Os oficiais demorados na promoção não devem, tanto quanto possível, servir sob as ordens de oficiais mais modernos que entretanto tenham sido promovidos.
 
-###### Art. 164.º - 1. A preterição na promoção tem lugar nos seguintes casos:
+Art. 164.º - 1. A preterição na promoção tem lugar nos seguintes casos:
 
 a) Quando os oficiais não satisfaçam à 3.ª condição geral de promoção, conforme o disposto no artigo 142.º;
 
@@ -1700,11 +1869,11 @@ d) Noutros casos em que a lei expressamente o determine.
 
 5. Na promoção por diuturnidade os oficias preteridos são promovidos logo que cessem os motivos que os excluíram da promoção.
 
-###### Art. 165.º Os oficiais que, em resultado da promoção por escolha de outros oficiais, sofram perda de antiguidade relativamente a estes não são considerados como excluídos temporàriamente da promoção, não lhes sendo aplicáveis as disposições respeitantes a esta exclusão.
+Art. 165.º Os oficiais que, em resultado da promoção por escolha de outros oficiais, sofram perda de antiguidade relativamente a estes não são considerados como excluídos temporàriamente da promoção, não lhes sendo aplicáveis as disposições respeitantes a esta exclusão.
 
 #### SECÇÃO XI — Outras disposições sobre promoções
 
-###### Art. 166.º - 1. Os oficiais prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual serão presentes os respectivos processos, com menção, quando possível, das circunstâncias em que os oficiais forem feitos prisioneiros, dos seus serviços em campanha e do seu procedimento enquanto prisioneiros.
+Art. 166.º - 1. Os oficiais prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual serão presentes os respectivos processos, com menção, quando possível, das circunstâncias em que os oficiais forem feitos prisioneiros, dos seus serviços em campanha e do seu procedimento enquanto prisioneiros.
 
 2. Nos casos em que o Supremo Tribunal Militar não possa emitir parecer ou este for desfavorável, os oficiais só podem ser promovidos depois de julgados após a libertação.
 
@@ -1712,13 +1881,13 @@ d) Noutros casos em que a lei expressamente o determine.
 
 4. Os oficiais nas condições dos n.os 1 e 2 são promovidos com dispensa das condições especiais de promoção referidas na alínea b) do artigo 145.º
 
-###### Art. 167.º - 1. Compete à Direcção do Serviço de Pessoal organizar os processos de promoção, dos quais devem constar todos os elementos necessários para completa apreciação das qualidades e méritos dos oficiais.
+Art. 167.º - 1. Compete à Direcção do Serviço de Pessoal organizar os processos de promoção, dos quais devem constar todos os elementos necessários para completa apreciação das qualidades e méritos dos oficiais.
 
 2. Os processos para promoção por distinção devem ser instruídos com os documentos necessários para o perfeito conhecimento dos actos praticados em que se fundamentaram as propostas de promoção, podendo incluir inquéritos contraditórios.
 
-###### Art. 168.º Os processos de promoção dos oficiais são confidenciais.
+Art. 168.º Os processos de promoção dos oficiais são confidenciais.
 
-###### Art. 169.º No preenchimento das vacaturas que ocorram nos diferentes quadros e postos devem seguir-se as seguintes normas:
+Art. 169.º No preenchimento das vacaturas que ocorram nos diferentes quadros e postos devem seguir-se as seguintes normas:
 
 a) As vacaturas são preenchidas em primeiro lugar pelos oficiais supranumerários;
 
@@ -1730,11 +1899,11 @@ d) O preenchimento das vacaturas referido na alínea anterior será feito por or
 
 e) Só depois de cumprido o constante das alíneas anteriores a abertura de vacaturas motivará a promoção de oficiais que não estejam nas situações mencionadas.
 
-###### Art. 170.º - 1. Se no dia em que se apresentar um oficial que deva passar a ocupar vaga no seu quadro ocorrer uma vacatura relativa ao seu posto, essa vacatura será preenchida por aquele oficial desde que não existam supranumerários.
+Art. 170.º - 1. Se no dia em que se apresentar um oficial que deva passar a ocupar vaga no seu quadro ocorrer uma vacatura relativa ao seu posto, essa vacatura será preenchida por aquele oficial desde que não existam supranumerários.
 
 2. Se o oficial se apresentar depois de aberta a vacatura e até à véspera, inclusive, do dia em que se apresentou nenhum oficial tiver satisfeito as condições de promoção, aquele oficial ocupará vaga a partir da data da sua apresentação.
 
-###### Art. 171.º - 1. A data da antiguidade no posto mencionada no artigo 9.º corresponde:
+Art. 171.º - 1. A data da antiguidade no posto mencionada no artigo 9.º corresponde:
 
 a) À data do diploma de promoção, nas promoções aos postos de marechal da Força Aérea e general de quatro estrelas, salvo no caso do n.º 2 do artigo 7.º, em que a antiguidade se contará a partir da posse das funções presidenciais;
 
@@ -1766,7 +1935,7 @@ b) À data em que, depois de terem cessado os motivos da exclusão, ocorreu a va
 
 4. Nas promoções que correspondem ao ingresso nos diferentes quadros, as datas de antiguidade são fixadas de acordo com o Regulamento, na secção II do capítulo IV.
 
-###### Art. 172.º O diploma de promoção tem a forma de:
+Art. 172.º O diploma de promoção tem a forma de:
 
 a) Decreto-lei, para a promoção a marechal da Força Aérea;
 
@@ -1782,7 +1951,7 @@ d) Para a promoção aos restantes postos.
 
 #### SECÇÃO XII — Graduações
 
-###### Art. 173.º - 1. Os oficiais do activo ou da reserva podem ser graduados, a título temporário, em posto superior ao seu:
+Art. 173.º - 1. Os oficiais do activo ou da reserva podem ser graduados, a título temporário, em posto superior ao seu:
 
 a) Quando o ingresso em novo quadro se realize em posto inferior ao que tinham no quadro de origem;
 
@@ -1800,17 +1969,17 @@ b) Portaria do Secretário de Estado da Aeronáutica, nos restantes casos.
 
 3. No caso da alínea d) do n.º 1, os processos de graduação seguem os trâmites normalmente estabelecidos para os processos de promoção, designadamente quanto à consulta do Conselho Superior da Aeronáutica ou da Comissão Técnica da Força Aérea, quando aplicável.
 
-###### Art. 174.º Quando se verificarem operações militares ou de polícia, poderá o Secretário de Estado da Aeronáutica autorizar, nos termos de legislação especial, que se proceda à graduação no posto imediato de oficiais de todos os quadros, incluindo pára-quedistas, cuja promoção tenha por único impedimento a falta de frequência dos cursos de promoção normalmente estabelecidos.
+Art. 174.º Quando se verificarem operações militares ou de polícia, poderá o Secretário de Estado da Aeronáutica autorizar, nos termos de legislação especial, que se proceda à graduação no posto imediato de oficiais de todos os quadros, incluindo pára-quedistas, cuja promoção tenha por único impedimento a falta de frequência dos cursos de promoção normalmente estabelecidos.
 
-###### Art. 175.º A graduação confere ao graduado, enquanto se mantiver, todos os direitos e impõe-lhe todos os deveres próprios do posto atribuído nomeadamente no que respeita a continências e honras militares, distintivos e insígnias, vencimentos e contagem de tempo de serviço.
+Art. 175.º A graduação confere ao graduado, enquanto se mantiver, todos os direitos e impõe-lhe todos os deveres próprios do posto atribuído nomeadamente no que respeita a continências e honras militares, distintivos e insígnias, vencimentos e contagem de tempo de serviço.
 
-###### Art. 176.º A graduação cessa logo que o oficial seja promovido ao posto em que se encontra graduado ou seja exonerado das funções que motivaram a graduação.
+Art. 176.º A graduação cessa logo que o oficial seja promovido ao posto em que se encontra graduado ou seja exonerado das funções que motivaram a graduação.
 
 ### CAPÍTULO XII — Comissões de serviço
 
-###### Art. 177.º Compete à Direcção do Serviço de Pessoal promover a execução do movimento de oficiais que for determinado.
+Art. 177.º Compete à Direcção do Serviço de Pessoal promover a execução do movimento de oficiais que for determinado.
 
-###### Art. 178.º - 1. Na designação de oficiais para as várias comissões de serviço deve atender-se às seguintes normas, com vista à maior eficiência no cumprimento das missões:
+Art. 178.º - 1. Na designação de oficiais para as várias comissões de serviço deve atender-se às seguintes normas, com vista à maior eficiência no cumprimento das missões:
 
 a) Utilização adequada dos oficiais, de acordo com as funções pertinentes aos diferentes quadros e postos e às qualificações já obtidas;
 
@@ -1822,21 +1991,21 @@ d) Conveniência de conjugar as exigências da Força Aérea e os desejos indivi
 
 2. Os comandantes, directores ou chefes são responsáveis pela aplicação das normas referidas no n.º 1, quanto aos oficiais colocados sob a sua autoridade.
 
-###### Art. 179.º Como regra geral e salvo disposições legais que determinem procedimento diferente, as comissões de serviço terão a duração mínima de dois anos e máxima de seis.
+Art. 179.º Como regra geral e salvo disposições legais que determinem procedimento diferente, as comissões de serviço terão a duração mínima de dois anos e máxima de seis.
 
-###### Art. 180.º Em princípio, não devem ser simultâneamente substituídos os oficiais que, na mesma unidade ou serviço, desempenhem as funções de comandante e 2.º comandante, director e subdirector, chefe e subchefe.
+Art. 180.º Em princípio, não devem ser simultâneamente substituídos os oficiais que, na mesma unidade ou serviço, desempenhem as funções de comandante e 2.º comandante, director e subdirector, chefe e subchefe.
 
-###### Art. 181.º - 1. Os comandantes, directores ou chefes de unidades e serviços podem indicar à Direcção do Serviço de Pessoal os oficiais, seus mais directos colaboradores, que pretendem sejam incluídos nos efectivos dos órgãos que comandam ou dirigem.
+Art. 181.º - 1. Os comandantes, directores ou chefes de unidades e serviços podem indicar à Direcção do Serviço de Pessoal os oficiais, seus mais directos colaboradores, que pretendem sejam incluídos nos efectivos dos órgãos que comandam ou dirigem.
 
 2. Os oficiais podem declarar-se voluntários para comissões pertinentes ao seu quadro, categoria e posto.
 
 3. Para efeito do disposto nos n.os 1 e 2, a Direcção do Serviço de Pessoal mantém os respectivos registos e submete à apreciação superior as normas que devem regular a designação de voluntários ou a nomeação por imposição de serviço para as várias comissões.
 
-###### Art. 182.º - 1. As direcções de serviços deverão ser consultadas sobre o movimento dos oficiais com funções em áreas de actividades respeitantes aos respectivos serviços.
+Art. 182.º - 1. As direcções de serviços deverão ser consultadas sobre o movimento dos oficiais com funções em áreas de actividades respeitantes aos respectivos serviços.
 
 2. Os mesmos organismos podem, por iniciativa própria, apresentar à Direcção do Serviço de Pessoal as sugestões que sobre o assunto julgarem conveniente formular, competindo, no entanto, a esta Direcção promover a decisão sobre o movimento dos oficiais.
 
-###### Art. 183.º - 1. Os comandantes das regiões e zonas aéreas ultramarinas podem colocar os oficiais nas unidades e órgãos subordinados, tendo em atenção as conveniências de serviço e as situações especiais da sua prestação.
+Art. 183.º - 1. Os comandantes das regiões e zonas aéreas ultramarinas podem colocar os oficiais nas unidades e órgãos subordinados, tendo em atenção as conveniências de serviço e as situações especiais da sua prestação.
 
 2. As colocações de oficiais executadas ao abrigo do disposto no n.º 1 deverão ser realizadas sem prejuízo das disposições em vigor sobre as comissões dos oficiais e normas relativas à nomeação.
 
@@ -1844,15 +2013,15 @@ d) Conveniência de conjugar as exigências da Força Aérea e os desejos indivi
 
 4. O disposto no n.º 1 não abrange os oficiais nomeados especìficamente para certos cargos por diploma legal.
 
-###### Art. 184.º - 1. Os oficiais necessários para desempenho de funções pertinentes ao seu quadro em departamentos estranhos à Força Aérea podem ser designados para neles prestar serviço a título voluntário ou obrigatório.
+Art. 184.º - 1. Os oficiais necessários para desempenho de funções pertinentes ao seu quadro em departamentos estranhos à Força Aérea podem ser designados para neles prestar serviço a título voluntário ou obrigatório.
 
 2. O regresso desses oficiais ao serviço da Força Aérea, quando deva verificar-se, será comunicado com a devida antecedência aos organismos onde prestem serviço.
 
-###### Art. 185.º As disposições referidas nos artigos anteriores sobre nomeações de oficiais não invalidam a faculdade de o Secretário de Estado da Aeronáutica e de o chefe do Estado-Maior da Força Aérea escolherem, de acordo com as conveniências de serviço, os oficiais que devam exercer cargos de comando, de direcção e de responsabilidade análoga.
+Art. 185.º As disposições referidas nos artigos anteriores sobre nomeações de oficiais não invalidam a faculdade de o Secretário de Estado da Aeronáutica e de o chefe do Estado-Maior da Força Aérea escolherem, de acordo com as conveniências de serviço, os oficiais que devam exercer cargos de comando, de direcção e de responsabilidade análoga.
 
 ### CAPÍTULO XIII — Licenças
 
-###### Art. 186.º As licenças aplicáveis aos oficiais destinam-se a:
+Art. 186.º As licenças aplicáveis aos oficiais destinam-se a:
 
 a) Usar dos indispensáveis períodos de repouso;
 
@@ -1864,7 +2033,7 @@ d) Valorizar a preparação profissional e técnica dos quadros;
 
 e) Interromper a prestação de serviço por motivo de natureza particular.
 
-###### Art. 187.º - 1. Aos oficiais na situação de activo podem ser concedidas as seguintes licenças, para os fins indicados no artigo anterior:
+Art. 187.º - 1. Aos oficiais na situação de activo podem ser concedidas as seguintes licenças, para os fins indicados no artigo anterior:
 
 a) As constantes do Regulamento de Disciplina Militar;
 
@@ -1882,19 +2051,19 @@ f) Ilimitada.
 
 3. Aos oficiais na situação de reserva licenciados pode ser concedida a licença referida na alínea b) do n.º 1.
 
-###### Art. 188.º As licenças constantes do Regulamento de Disciplina Militar são concedidas pelas entidades e nas condições expressas no mesmo Regulamento.
+Art. 188.º As licenças constantes do Regulamento de Disciplina Militar são concedidas pelas entidades e nas condições expressas no mesmo Regulamento.
 
-###### Art. 189.º - 1. Designa-se licença por serviço no ultramar a licença de sete dias por cada semestre completo e até ao máximo de sessenta dias, concedida pela prestação de serviço no ultramar no desempenho de funções próprias da comissão normal.
+Art. 189.º - 1. Designa-se licença por serviço no ultramar a licença de sete dias por cada semestre completo e até ao máximo de sessenta dias, concedida pela prestação de serviço no ultramar no desempenho de funções próprias da comissão normal.
 
 2. Esta licença é concedida nas condições expressas em legislação especial.
 
 3. A mesma licença pode ser concedida pelas entidades com competência disciplinar igual ou superior à da coluna V do quadro mencionado no artigo 79.º do Regulamento de Disciplina Militar.
 
-###### Art. 190.º - 1. Designa-se licença da junta a licença concedida para tratamento e recuperação, por prazo arbitrado por competente junta de saúde, até ao máximo de cento e oitenta dias no período de um ano.
+Art. 190.º - 1. Designa-se licença da junta a licença concedida para tratamento e recuperação, por prazo arbitrado por competente junta de saúde, até ao máximo de cento e oitenta dias no período de um ano.
 
 2. Esta licença é concedida pelas entidades e nas condições expressas no Regulamento das Juntas de Saúde.
 
-###### Art. 191.º - 1. Designa-se licença para estudos a licença concedida para efeitos de frequência de cursos, cadeiras ou estágios em estabelecimentos de ensino superior ou de categoria equivalente, nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros da Força Aérea.
+Art. 191.º - 1. Designa-se licença para estudos a licença concedida para efeitos de frequência de cursos, cadeiras ou estágios em estabelecimentos de ensino superior ou de categoria equivalente, nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros da Força Aérea.
 
 2. A concessão desta licença é da competência do Secretário de Estado da Aeronáutica.
 
@@ -1902,13 +2071,13 @@ f) Ilimitada.
 
 4. Compete à Direcção do Serviço de Instrução propor o cancelamento da licença para estudos sempre que considera insuficiente o aproveitamento escolar dos oficiais a quem a mesma tenha sido concedida.
 
-###### Art. 192.º - 1. Designa-se licença registada a licença concedida, a requerimento dos interessados, por motivos de natureza particular que justifiquem tal pretensão.
+Art. 192.º - 1. Designa-se licença registada a licença concedida, a requerimento dos interessados, por motivos de natureza particular que justifiquem tal pretensão.
 
 2. A licença registada não pode ser concedida por mais de seis meses, seguidos ou interpolados, dentro de um período de cinco anos.
 
 3. A concessão desta licença é da competência do Secretário de Estado da Aeronáutica.
 
-###### Art. 193.º - 1. Designa-se licença ilimitada a licença concedida por período não inferior a um ano aos oficiais que a requeiram e possam ser dispensados do serviço.
+Art. 193.º - 1. Designa-se licença ilimitada a licença concedida por período não inferior a um ano aos oficiais que a requeiram e possam ser dispensados do serviço.
 
 2. A licença ilimitada apenas pode ser concedida aos oficiais que tenham prestado, pelo menos, oito anos de serviço efectivo na Força Aérea.
 
@@ -1924,57 +2093,57 @@ b) Um ano após a data de início da licença, quando concedida a oficiais na si
 
 6. Em relação ao disposto no n.º 4, a licença cessa noventa dias depois de os oficiais apresentarem as respectivas declarações ou, antes deste prazo, se assim o desejarem e for autorizado pelo Secretário de Estado da Aeronáutica.
 
-###### Art. 194.º - 1. As licenças constantes do Regulamento de Disciplina Militar, as resultantes de serviço no ultramar e as da junta são concedidas com vencimentos.
+Art. 194.º - 1. As licenças constantes do Regulamento de Disciplina Militar, as resultantes de serviço no ultramar e as da junta são concedidas com vencimentos.
 
 2. As licenças registadas e ilimitadas são concedidas sem quaisquer vencimentos ou pensões.
 
 3. A licença para estudos pode ser concedida com ou sem vencimentos, tendo em conta o interesse para a Força Aérea dos estudos para que a licença é concedida.
 
-###### Art. 195.º - 1. A autorização para usar qualquer licença no estrangeiro é da competência do chefe do Estado-Maior da Força Aérea, que a pode delegar no subchefe do Estado-Maior da Força Aérea (pessoal).
+Art. 195.º - 1. A autorização para usar qualquer licença no estrangeiro é da competência do chefe do Estado-Maior da Força Aérea, que a pode delegar no subchefe do Estado-Maior da Força Aérea (pessoal).
 
 2. Os oficiais na situação de reforma não carecem da autorização referida no n.º 1.
 
 ### CAPÍTULO XIV — Recursos
 
-###### Art. 196.º O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelos oficiais:
+Art. 196.º O Supremo Tribunal Militar é o órgão das forças armadas com competência para conhecer dos recursos que forem interpostos pelos oficiais:
 
 a) Em matéria de promoção, demora, preterição e posição na escala de antiguidades;
 
 b) Que se considerem prejudicados quanto à mudança de situação.
 
-###### Art. 197.º - 1. Não é admitido recurso contra o escalonamento realizado para efeitos de promoção por escolha, contra as decisões ou classificações obtidas em cursos, estágios, tirocínios e provas exigidos para promoção e contra contra as decisões relativas à não satisfação da 3.ª condição geral de promoção.
+Art. 197.º - 1. Não é admitido recurso contra o escalonamento realizado para efeitos de promoção por escolha, contra as decisões ou classificações obtidas em cursos, estágios, tirocínios e provas exigidos para promoção e contra contra as decisões relativas à não satisfação da 3.ª condição geral de promoção.
 
 2. Os oficiais podem, contudo, reclamar, seguindo a via hierárquica, contra o escalonamento ou contra as classificações obtidas, com base em erros de escrita ou de cálculo ou em quaisquer inexactidões materiais devidas a omissão ou lapso manifesto.
 
-###### Art. 198.º - 1. Os recursos são dirigidos ao presidente do Supremo Tribunal Militar, sendo de trinta dias o prazo máximo para a sua interposição, contado a partir da data em que os interessados tomarem conhecimento oficial da decisão ou do documento legal que motiva o recurso.
+Art. 198.º - 1. Os recursos são dirigidos ao presidente do Supremo Tribunal Militar, sendo de trinta dias o prazo máximo para a sua interposição, contado a partir da data em que os interessados tomarem conhecimento oficial da decisão ou do documento legal que motiva o recurso.
 
 2. Para efeito do disposto no n.º 1, conta-se como data de conhecimento oficial da decisão ou documento que dá origem ao recurso a da respectiva transcrição na ordem de serviço do organismo em que o oficial presta serviço ou aquela em que foi feita a comunicação ao oficial no mesmo organismo.
 
-###### Art. 199.º - 1. As decisões ou acórdãos do Supremo Tribunal Militar, proferidos no exercício da competência que lhe é atribuída nesta matéria pelo artigo 196.º, carecem da homologação do Secretário de Estado da Aeronáutica e serão sempre publicados na Ordem à Aeronáutica.
+Art. 199.º - 1. As decisões ou acórdãos do Supremo Tribunal Militar, proferidos no exercício da competência que lhe é atribuída nesta matéria pelo artigo 196.º, carecem da homologação do Secretário de Estado da Aeronáutica e serão sempre publicados na Ordem à Aeronáutica.
 
 2. A recusa da homologação será sempre devidamente fundamentada e publicada, juntamente com a decisão ou acórdão do Supremo Tribunal Militar, na Ordem à Aeronáutica.
 
 3. Quando as decisões sejam favoráveis aos recorrentes mas não tenham homologação, poderão os mesmos apelar, em última instância, para o Conselho de Ministros, dentro do prazo de quinze dias, a partir da data em que os interessados tomaram conhecimento da não homologação.
 
-###### Art. 200.º A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
+Art. 200.º A matéria de recurso já apreciada pelo Supremo Tribunal Militar não poderá ser outra vez objecto de resolução do mesmo Tribunal, a não ser que surjam novos factos ou circunstâncias que o justifiquem.
 
 ### CAPÍTULO XV — Disposições diversas
 
-###### Art. 201.º Os oficiais nas situações de activo, reserva e reforma estão sujeitos ao foro militar.
+Art. 201.º Os oficiais nas situações de activo, reserva e reforma estão sujeitos ao foro militar.
 
-###### Art. 202.º - 1. A carta-patente é o documento de encargo dos oficiais dos quadros permanentes e é equivalente, para todos os efeitos legais, ao diploma de funções públicas estabelecido para os funcionários civis.
+Art. 202.º - 1. A carta-patente é o documento de encargo dos oficiais dos quadros permanentes e é equivalente, para todos os efeitos legais, ao diploma de funções públicas estabelecido para os funcionários civis.
 
 2. A carta-patente é conferida no acto de ingresso no respectivo quadro.
 
 3. As disposições relativas à carta-patente, incluindo o modelo e o imposto do selo, são fixadas por diploma próprio.
 
-###### Art. 203.º Os meios de identificação dos oficiais da Força Aérea são:
+Art. 203.º Os meios de identificação dos oficiais da Força Aérea são:
 
 a) Bilhete de identidade;
 
 b) Placa de identificação.
 
-###### Art. 204.º - 1. Os oficiais nas situações de activo, reserva e reforma dispõem de um bilhete de identidade militar que, para todos os efeitos, substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
+Art. 204.º - 1. Os oficiais nas situações de activo, reserva e reforma dispõem de um bilhete de identidade militar que, para todos os efeitos, substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil.
 
 2. O disposto no n.º 1 é aplicável aos aspirantes a oficial.
 
@@ -1982,9 +2151,9 @@ b) Placa de identificação.
 
 4. O bilhete de identidade militar é de uso obrigatório.
 
-###### Art. 205.º - 1. A placa de identificação dos oficiais tem as características estabelecidas em diploma especial.
+Art. 205.º - 1. A placa de identificação dos oficiais tem as características estabelecidas em diploma especial.
 
-###### Art. 206.º - 1. Compete à Direcção do Serviço de Pessoal promover e executar o registo de todos os elementos respeitantes à carreira militar dos oficiais, ou que à mesma possam interessar.
+Art. 206.º - 1. Compete à Direcção do Serviço de Pessoal promover e executar o registo de todos os elementos respeitantes à carreira militar dos oficiais, ou que à mesma possam interessar.
 
 2. Os averbamentos são feitos por transcrição da Ordem à Aeronáutica, da Ordem da Direcção do Serviço de Pessoal, das ordens de serviço das unidades e outros órgãos da Força Aérea e ainda de documentos arquivados na Direcção do Serviço de Pessoal, sendo necessário, neste caso, despacho favorável do subchefe do Estado-Maior da Força Aérea (pessoal).
 
@@ -1992,25 +2161,25 @@ b) Placa de identificação.
 
 4. As condições para averbamento de condecorações, louvores, citações e menções honrosas concedidas por entidades estranhas à Força Aérea são reguladas por despacho do Secretário de Estado da Aeronáutica.
 
-###### Art. 207.º Para efeitos de execução do disposto na alínea a) do n.º 2 do artigo 76.º, consideram-se todos os cursos da Escola Naval, da Academia Militar e extintas escolas suas antecessoras que não tenham sido objecto de aplicação daquele preceito, mediante indemnização à Caixa Geral de Aposentações das quotas correspondentes aos vencimentos atribuídos aos alunos na data em que se verificou a referida frequência em regime de internato ou de externato.
+Art. 207.º Para efeitos de execução do disposto na alínea a) do n.º 2 do artigo 76.º, consideram-se todos os cursos da Escola Naval, da Academia Militar e extintas escolas suas antecessoras que não tenham sido objecto de aplicação daquele preceito, mediante indemnização à Caixa Geral de Aposentações das quotas correspondentes aos vencimentos atribuídos aos alunos na data em que se verificou a referida frequência em regime de internato ou de externato.
 
-###### Art. 208.º - 1. O casamento de oficiais da Força Aérea só pode realizar-se mediante licença das autoridades da Força Aérea.
+Art. 208.º - 1. O casamento de oficiais da Força Aérea só pode realizar-se mediante licença das autoridades da Força Aérea.
 
 2. As condições em que será concedida a licença referida no n.º 1 são estabelecidas em diploma especial.
 
-###### Art. 209.º A situação dos sacerdotes da religião católica, dos enfermeiros pára-quedistas e dos músicos e a sua graduação em oficial são reguladas por legislação específica.
+Art. 209.º A situação dos sacerdotes da religião católica, dos enfermeiros pára-quedistas e dos músicos e a sua graduação em oficial são reguladas por legislação específica.
 
-###### Art. 210.º Os oficiais assistidos pela Assistência aos Tuberculosos das Forças Armadas estão sujeitos às disposições insertas em lei especial;
+Art. 210.º Os oficiais assistidos pela Assistência aos Tuberculosos das Forças Armadas estão sujeitos às disposições insertas em lei especial;
 
-###### Art. 211.º - 1. As alterações a este Estatuto, se compatíveis com as disposições legais vigentes, serão publicadas em portaria do Secretário de Estado da Aeronáutica.
+Art. 211.º - 1. As alterações a este Estatuto, se compatíveis com as disposições legais vigentes, serão publicadas em portaria do Secretário de Estado da Aeronáutica.
 
 2. As dúvidas que possam surgir quanto à aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado da Aeronáutica.
 
 ### CAPÍTULO XVI — Disposições transitórias
 
-###### Art. 212.º Os oficiais da Armada que tenham ingressado no quadro de pilotos aviadores, nos termos do artigo 1.º do [Decreto n.º 42317](https://diariodarepublica.pt/dr/detalhe/decreto/42317-1959-432401), de 16 de Junho de 1959, mantêm-se adidos àquele quadro até à promoção a brigadeiro ou a major, conforme tiverem ingressado como oficiais superiores ou como capitães e subalternos.
+Art. 212.º Os oficiais da Armada que tenham ingressado no quadro de pilotos aviadores, nos termos do artigo 1.º do [Decreto n.º 42317](https://diariodarepublica.pt/dr/detalhe/decreto/42317-1959-432401), de 16 de Junho de 1959, mantêm-se adidos àquele quadro até à promoção a brigadeiro ou a major, conforme tiverem ingressado como oficiais superiores ou como capitães e subalternos.
 
-###### Art. 213.º - 1. Nas promoções a efectuar até 31 de Dezembro de 1974, inclusive, serão consideradas com validade, quer as condições especiais de promoção realizadas de acordo com a legislação em vigor à data da publicação deste diploma, quer as realizadas em conformidade com as disposições nele contidas.
+Art. 213.º - 1. Nas promoções a efectuar até 31 de Dezembro de 1974, inclusive, serão consideradas com validade, quer as condições especiais de promoção realizadas de acordo com a legislação em vigor à data da publicação deste diploma, quer as realizadas em conformidade com as disposições nele contidas.
 
 2. Nas promoções a efectuar depois de 31 de Dezembro de 1974 só serão consideradas as condições especiais de promoção definidas no presente Estatuto, sem prejuízo do disposto no n.º 3.
 
@@ -2020,12 +2189,12 @@ Mapa n.º 1 (a que se refere o artigo 71.º)
 
 Limites de idade para a passagem à situação de reserva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf))](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
 
 Mapa n.º 2 (a que se refere o artigo 80.º)
 
 Percentagem de aumento de tempo de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf))](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/21400/12801306.pdf)
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.

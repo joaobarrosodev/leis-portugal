@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1981-579749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c83bb55cb57ec7b06a5ea7253bedb277a6482641ac95313c5aec34761541c16f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59814af14e1e677c3dfa62917110edb150b3504042d99d0ac2b84ca84b99c0ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acidente de Trabalho
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Doença Profissional
+- Seguro
+relationships:
+- type: cites
+  target: pt:dre:309894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516070:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:58Z'
   warnings: []
   errors: []
 ---
@@ -103,29 +119,29 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas para a Caixa Nacional de Seguros de Doenças Profissionais, adiante designada por Caixa as responsabilidades que cabem ou venham a caber às empresas seguradoras pela reparação dos danos emergentes de doenças profissionais resultantes de contratos de seguro do ramo Acidentes de Trabalho que tenham sido subscritos até à data da entrada em vigor do presente decreto-lei.
+Artigo 1.º São transferidas para a Caixa Nacional de Seguros de Doenças Profissionais, adiante designada por Caixa as responsabilidades que cabem ou venham a caber às empresas seguradoras pela reparação dos danos emergentes de doenças profissionais resultantes de contratos de seguro do ramo Acidentes de Trabalho que tenham sido subscritos até à data da entrada em vigor do presente decreto-lei.
 
-###### Art. 2.º A transferência de responsabilidades prevista no artigo anterior obriga as empresas seguradoras a liquidar à Caixa, nos termos dos artigos seguintes, o valor das correspondentes reservas matemáticas, calculadas n.os termos da [Portaria n.º 632/71](https://diariodarepublica.pt/dr/detalhe/portaria/632-1971-492245), de 19 de Novembro, e com base no valor da pensão devida ao trabalhador na data da entrada em vigor do presente decreto-lei, não sendo aplicável o disposto no artigo 5.º do [Decreto-Lei n.º 668/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/668-1975-309894), de 24 de Novembro.
+Art. 2.º A transferência de responsabilidades prevista no artigo anterior obriga as empresas seguradoras a liquidar à Caixa, nos termos dos artigos seguintes, o valor das correspondentes reservas matemáticas, calculadas n.os termos da [Portaria n.º 632/71](https://diariodarepublica.pt/dr/detalhe/portaria/632-1971-492245), de 19 de Novembro, e com base no valor da pensão devida ao trabalhador na data da entrada em vigor do presente decreto-lei, não sendo aplicável o disposto no artigo 5.º do [Decreto-Lei n.º 668/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/668-1975-309894), de 24 de Novembro.
 
-###### Art. 3.º Cada empresa seguradora deve liquidar, em numerário, à Caixa o valor das reservas matemáticas definidas no artigo anterior em prestações iguais e mensais, que integrarão um juro calculado a taxa anual de 3,5% sobre o montante ainda em dívida.
+Art. 3.º Cada empresa seguradora deve liquidar, em numerário, à Caixa o valor das reservas matemáticas definidas no artigo anterior em prestações iguais e mensais, que integrarão um juro calculado a taxa anual de 3,5% sobre o montante ainda em dívida.
 
-###### Art. 4.º O valor de cada uma das prestações mensais referidas no artigo anterior corresponderá em cada empresa seguradora ao montante mais aproximado, por defeito, do valor global das pensões devidas mensalmente pela seguradora à data da entrada em vigor do presente diploma legislativo, acrescido de 20%.
+Art. 4.º O valor de cada uma das prestações mensais referidas no artigo anterior corresponderá em cada empresa seguradora ao montante mais aproximado, por defeito, do valor global das pensões devidas mensalmente pela seguradora à data da entrada em vigor do presente diploma legislativo, acrescido de 20%.
 
-###### Art. 5.º - 1 - As prestações mensais serão pagas nos dez primeiros dias do mês a que se referem.
+Art. 5.º - 1 - As prestações mensais serão pagas nos dez primeiros dias do mês a que se referem.
 
 2 - No caso de não cumprimento do prazo referido no número anterior, será acrescido ao valor da prestação ou prestações vencidas um juro de mora calculado à taxa máxima legalmente permitida.
 
-###### Art. 6.º A responsabilidade pela reparação de danos emergentes de doenças profissionais, cujos processos, à data da entrada em vigor do presente decreto-lei, se encontrem pendentes em tribunal de trabalho, será transferida para a Caixa, de harmonia com o disposto nos artigos 1.º e 2.º e mediante a fixação do grau de incapacidade pelos serviços médicos de avaliação de incapacidade da mesma Caixa.
+Art. 6.º A responsabilidade pela reparação de danos emergentes de doenças profissionais, cujos processos, à data da entrada em vigor do presente decreto-lei, se encontrem pendentes em tribunal de trabalho, será transferida para a Caixa, de harmonia com o disposto nos artigos 1.º e 2.º e mediante a fixação do grau de incapacidade pelos serviços médicos de avaliação de incapacidade da mesma Caixa.
 
-###### Art. 7.º As seguradoras entregarão à Caixa, até ao último dia do mês anterior ao da entrada em vigor do presente diploma, todos os elementos referentes às pensões transferidas ao abrigo do artigo 1.º
+Art. 7.º As seguradoras entregarão à Caixa, até ao último dia do mês anterior ao da entrada em vigor do presente diploma, todos os elementos referentes às pensões transferidas ao abrigo do artigo 1.º
 
-###### Art. 8.º As responsabilidades que possam surgir por doenças profissionais a partir da data da entrada em vigor do presente diploma serão imputadas à Caixa, sem qualquer encargo para as empresas seguradoras.
+Art. 8.º As responsabilidades que possam surgir por doenças profissionais a partir da data da entrada em vigor do presente diploma serão imputadas à Caixa, sem qualquer encargo para as empresas seguradoras.
 
-###### Art. 9.º Cessa automaticamente com a entrada em vigor do presente diploma a cobertura de doenças profissionais nos contratos de seguro do ramo Acidentes de Trabalho em curso ou a celebrar futuramente.
+Art. 9.º Cessa automaticamente com a entrada em vigor do presente diploma a cobertura de doenças profissionais nos contratos de seguro do ramo Acidentes de Trabalho em curso ou a celebrar futuramente.
 
-###### Art. 10.º Compete à Inspecção-Geral de Seguros a fiscalização do cumprimento por parte das empresas seguradoras do disposto no presente decreto-lei.
+Art. 10.º Compete à Inspecção-Geral de Seguros a fiscalização do cumprimento por parte das empresas seguradoras do disposto no presente decreto-lei.
 
-###### Art. 11.º - 1 - A partir da entrada em vigor do presente diploma podem igualmente ser transferidas para a Caixa, através de acordo, as responsabilidades que cabem ou venham a caber a entidades patronais pela reparação de danos emergentes de doenças profissionais resultantes de situações em que não se tenha verificado a transferência, total ou parcial, de responsabilidades para uma seguradora.
+Art. 11.º - 1 - A partir da entrada em vigor do presente diploma podem igualmente ser transferidas para a Caixa, através de acordo, as responsabilidades que cabem ou venham a caber a entidades patronais pela reparação de danos emergentes de doenças profissionais resultantes de situações em que não se tenha verificado a transferência, total ou parcial, de responsabilidades para uma seguradora.
 
 2 - Do acordo referido no número anterior deverá constar um esquema de transferência de responsabilidades semelhante ao previsto nos artigos 2.º e seguintes.
 
@@ -137,14 +153,14 @@ b) Se as responsabilidades estiverem garantidas por títulos, numerário ou qual
 
 4 - Para os efeitos do previsto na alínea a) do número anterior, a Caixa solicitará o necessário provimento ao Ministério Público junto do tribunal respectivo.
 
-###### Art. 12.º O presente diploma legislativo entra em vigor no dia 1 do terceiro mês seguinte ao da data da sua publicação, sem prejuízo do disposto no artigo 7.º
+Art. 12.º O presente diploma legislativo entra em vigor no dia 1 do terceiro mês seguinte ao da data da sua publicação, sem prejuízo do disposto no artigo 7.º
 
-###### Art. 13.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e dos Assuntos Sociais.
+Art. 13.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Julho de 1981.**
+Promulgado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

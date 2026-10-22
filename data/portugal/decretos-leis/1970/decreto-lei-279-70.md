@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1970-140847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e27ef473f4d4088726b104d3f4783080f16912ea03fadbcb6c95d58de6c0ad3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1228448104aad15540079efc40f480f747b93d8e6eb1cff268dd67558db5171b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- Importação
+- Instruções Preliminares das Pautas
+- Pauta Aduaneira
+- Pauta dos Direitos de Importação
+relationships:
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:55Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +96,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § 2.º do artigo 5.º das Instruções Preliminares da Pauta de Importação, aprovada pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, passa a ter a seguinte redacção:
+Artigo 1.º O § 2.º do artigo 5.º das Instruções Preliminares da Pauta de Importação, aprovada pelo [Decreto-Lei n.º 42656](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42656-1959-582796), de 18 de Novembro de 1959, passa a ter a seguinte redacção:
 
 ###### ARTIGO 5.º
 
@@ -93,18 +104,18 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 2.º Exceptuam-se, para efeitos de aplicação dos direitos ad valorem, os medicamentos cujos direitos tenham por base os preços de venda ao público, nos termos da nota à posição 30.03 da Pauta de Importação.
 
-###### Art. 2.º As taxas do artigo 33.06.03 da Pauta de Importação são alteradas da seguinte maneira:
+Art. 2.º As taxas do artigo 33.06.03 da Pauta de Importação são alteradas da seguinte maneira:
 
 Pauta máxima: kg 330$00.
 
 Pauta mínima: kg 165$00.
 
-###### Art. 3.º É eliminada a nota ao artigo 33.06.03 da Pauta de Importação.
+Art. 3.º É eliminada a nota ao artigo 33.06.03 da Pauta de Importação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 3 de Junho de 1970.**
+Promulgado em 3 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

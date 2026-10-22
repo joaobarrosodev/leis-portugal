@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/04/08600/05630565.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1973-676006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fe57bb06120773442bf9c79e07652d2d33defcd14edd70a05b4d55b7eb9718a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad527f77852e3db3993c3d5a72507d6c077afe4ba46fa00f5e87facf2670e5e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior da Acção Social
+- Definição de Competências
+- Delegação Regional
+- Delegado Regional
+- Formas de Provimento
+- Fundo de Desenvolvimento da Mão-de-obra
+- Instituto Nacional do Trabalho e Previdência
+- Ministério das Corporações e Previdência Social
+- Orgânica
+- Serviços de Acção Social
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:621349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621349:por
+  label: "Revogado pelo DEC LEI.47/78.21.03.1978.MT, DR.IS [67]Supl de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1978-621349
+  date: '1978-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:23Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +121,9 @@ Por outro lado, sentiu-se a necessidade de delinear uma carreira que, dotada da 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os Serviços de Acção Social (S. A. S.) e as delegações do Instituto Nacional do Trabalho e Previdência, incorporados no Ministério das Corporações e Previdência Social pelo artigo 1.º do [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, continuam a reger-se pelas disposições que lhes são aplicáveis, com as alterações constantes do presente diploma.
+Artigo 1.º Os Serviços de Acção Social (S. A. S.) e as delegações do Instituto Nacional do Trabalho e Previdência, incorporados no Ministério das Corporações e Previdência Social pelo artigo 1.º do [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, continuam a reger-se pelas disposições que lhes são aplicáveis, com as alterações constantes do presente diploma.
 
-###### Art. 2.º Aos Serviços de Acção Social cabe:
+Art. 2.º Aos Serviços de Acção Social cabe:
 
 1.º Difundir os princípios orientadores da política social;
 
@@ -119,9 +143,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 9.º Realizar os restantes trabalhos que superiormente lhes sejam confiados.
 
-###### Art. 3.º Os Serviços de Acção Social são dirigidos por um chefe, coadjuvado por adjuntos e por primeiros, segundos e terceiros-assistentes.
+Art. 3.º Os Serviços de Acção Social são dirigidos por um chefe, coadjuvado por adjuntos e por primeiros, segundos e terceiros-assistentes.
 
-###### Art. 4.º - 1. Compete ao chefe dos Serviços de Acção Social:
+Art. 4.º - 1. Compete ao chefe dos Serviços de Acção Social:
 
 1.º Dirigir os serviços a seu cargo;
 
@@ -135,19 +159,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3. O chefe dos Serviços de Acção Social é vogal da 1.ª Secção do Conselho Superior da Acção Social, nos termos da alínea d) do artigo 4.º do [Decreto-Lei n.º 446/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1970-666343), de 23 de Setembro.
 
-###### Art. 5.º Compete aos adjuntos do chefe dos Serviços de Acção Social:
+Art. 5.º Compete aos adjuntos do chefe dos Serviços de Acção Social:
 
 1.º Substituir o chefe dos Serviços nas suas faltas e impedimentos;
 
 2.º Coadjuvar o chefe dos Serviços no exercício das suas funções.
 
-###### Art. 6.º - 1. Em cada distrito do continente e ilhas adjacentes, com excepção do distrito de Lisboa, há uma delegação do Instituto Nacional do Trabalho e Previdência.
+Art. 6.º - 1. Em cada distrito do continente e ilhas adjacentes, com excepção do distrito de Lisboa, há uma delegação do Instituto Nacional do Trabalho e Previdência.
 
 2. As delegações funcionam, em regra, nas capitais dos distritos, mas, quando isso se justifique, o Ministro das Corporações e Previdência Social poderá, por portaria, fixar a sede de qualquer delegação em localidade diferente da capital.
 
 3. Na área de cada delegação, bem como no distrito de Lisboa, podem, por despacho do Ministro das Corporações e Previdência Social, ser criadas subdelegações do Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 7.º Às delegações do Instituto Nacional do Trabalho e Previdência cabe:
+Art. 7.º Às delegações do Instituto Nacional do Trabalho e Previdência cabe:
 
 1.º Difundir os princípios orientadores da política social;
 
@@ -163,11 +187,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 7.º Realizar os restantes trabalhos que superiormente lhes sejam confiados.
 
-###### Art. 8.º - 1. Cada delegação do Instituto Nacional do Trabalho e Previdência é dirigida por um delegado, que representa o Ministro das Corporações e Previdência Social na respectiva área.
+Art. 8.º - 1. Cada delegação do Instituto Nacional do Trabalho e Previdência é dirigida por um delegado, que representa o Ministro das Corporações e Previdência Social na respectiva área.
 
 2. Na delegação do Porto haverá também um delegado-adjunto, que coadjuvará o respectivo delegado no exercício das suas funções.
 
-###### Art. 9.º Compete aos delegados:
+Art. 9.º Compete aos delegados:
 
 1.º Dirigir os serviços das delegações;
 
@@ -187,15 +211,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 9.º Desempenhar as restantes funções que, por lei, regulamento ou determinação superior, lhes sejam confiadas.
 
-###### Art. 10.º - 1. Compete aos delegados de 1.ª classe, sem prejuízo do disposto no n.º 1 do artigo 8.º do presente diploma, coordenar a acção das delegações incluídas nas regiões a definir por portaria.
+Art. 10.º - 1. Compete aos delegados de 1.ª classe, sem prejuízo do disposto no n.º 1 do artigo 8.º do presente diploma, coordenar a acção das delegações incluídas nas regiões a definir por portaria.
 
 2. Os delegados de 1.ª classe são vogais da 1.ª Secção do Conselho Superior da Acção Social, nos termos da alínea d) do artigo 4.º do [Decreto-Lei n.º 446/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1970-666343), de 23 de Setembro.
 
-###### Art. 11.º - 1. Em cada delegação do Instituto Nacional do Trabalho e Previdência poderá haver um ou mais subdelegados.
+Art. 11.º - 1. Em cada delegação do Instituto Nacional do Trabalho e Previdência poderá haver um ou mais subdelegados.
 
 2. As subdelegações criadas ao abrigo do n.º 3 do artigo 6.º são dirigidas, em princípio, por subdelegados de 1.ª classe, sob a orientação do respectivo delegado distrital e, no distrito de Lisboa, sob a orientação do chefe dos Serviços de Acção Social.
 
-###### Art. 12.º Aos subdelegados compete:
+Art. 12.º Aos subdelegados compete:
 
 1.º Desempenhar os serviços que lhes sejam distribuídos pelos delegados;
 
@@ -203,27 +227,27 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3.º Exercer as restantes funções que lhes sejam confiadas por lei, regulamento ou determinação superior.
 
-###### Art. 13.º - 1. Os delegados são de 1.ª, 2.ª e 3.ª classe.
+Art. 13.º - 1. Os delegados são de 1.ª, 2.ª e 3.ª classe.
 
 2. As delegações do Porto e de Setúbal serão dirigidas por delegados de 1.ª classe, as de Aveiro, Braga, Coimbra, Covilhã, Évora, Faro, Funchal e Leiria por delegados de 1.ª ou 2.ª classe, e as restantes por delegados de qualquer categoria.
 
 3. O delegado-adjunto do Porto é delegado de 3.ª classe.
 
-###### Art. 14.º Os subdelegados são de 1.ª e 2.ª classes.
+Art. 14.º Os subdelegados são de 1.ª e 2.ª classes.
 
-###### Art. 15.º A nomeação do chefe dos Serviços de Acção Social far-se-á de entre os delegados de 1.ª classe do Instituto Nacional do Trabalho e Previdência, entre os adjuntos e primeiros-assistentes dos Serviços de Acção Social ou em diplomados com curso superior adequado ao exercício do cargo e de reconhecida competência.
+Art. 15.º A nomeação do chefe dos Serviços de Acção Social far-se-á de entre os delegados de 1.ª classe do Instituto Nacional do Trabalho e Previdência, entre os adjuntos e primeiros-assistentes dos Serviços de Acção Social ou em diplomados com curso superior adequado ao exercício do cargo e de reconhecida competência.
 
-###### Art. 16.º Os adjuntos do chefe dos Serviços de Acção Social são escolhidos de entre os primeiros-assistentes e os delegados de 3.ª classe.
+Art. 16.º Os adjuntos do chefe dos Serviços de Acção Social são escolhidos de entre os primeiros-assistentes e os delegados de 3.ª classe.
 
-###### Art. 17.º - 1. Os primeiros-assistentes são escolhidos de entre os segundos-assistentes e os subdelegados de 1.ª classe.
+Art. 17.º - 1. Os primeiros-assistentes são escolhidos de entre os segundos-assistentes e os subdelegados de 1.ª classe.
 
 2. A nomeação dos segundos-assistentes é feita de entre os terceiros-assistentes e os subdelegados de 2.ª classe.
 
 3. A nomeação dos terceiros-assistentes é feita de entre os subdelegados de 2.ª classe ou em diplomados com curso superior adequado e de reconhecida competência.
 
-###### Art. 18.º Os lugares de delegados e subdelegados são providos em diplomados com curso superior adequado ao exercício dos cargos, nos termos das disposições seguintes.
+Art. 18.º Os lugares de delegados e subdelegados são providos em diplomados com curso superior adequado ao exercício dos cargos, nos termos das disposições seguintes.
 
-###### Art. 19.º - 1. Os delegados de 1.ª classe, salvo o disposto no número seguinte, são nomeados, por escolha, de entre os delegados de 2.ª classe e os adjuntos do chefe dos Serviços de Acção Social.
+Art. 19.º - 1. Os delegados de 1.ª classe, salvo o disposto no número seguinte, são nomeados, por escolha, de entre os delegados de 2.ª classe e os adjuntos do chefe dos Serviços de Acção Social.
 
 2. Os delegados dos distritos do Porto e Setúbal são escolhidos de entre os delegados de 1.ª classe, os directores de serviço do Ministério das Corporações e Previdência Social ou outros indivíduos de reconhecida competência.
 
@@ -231,34 +255,34 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os delegados de 3.ª classe são nomeados, por escolha, de entre os segundos-assistentes dos Serviços de Acção Social e os subdelegados de 1.ª classe.
 
-###### Art. 20.º Os subdelegados de 1.ª classe são nomeados, por escolha, de entre os terceiros-assistentes e os subdelegados de 2.ª classe.
+Art. 20.º Os subdelegados de 1.ª classe são nomeados, por escolha, de entre os terceiros-assistentes e os subdelegados de 2.ª classe.
 
-###### Art. 21.º As promoções previstas no presente diploma serão feitas de acordo com a classificação de serviço dos funcionários, que terá em conta os seus méritos e aptidões pessoais e os resultados de frequência de cursos, nos termos que vierem a ser tornados obrigatórios.
+Art. 21.º As promoções previstas no presente diploma serão feitas de acordo com a classificação de serviço dos funcionários, que terá em conta os seus méritos e aptidões pessoais e os resultados de frequência de cursos, nos termos que vierem a ser tornados obrigatórios.
 
-###### Art. 22.º O quadro dos funcionários referidos no presente diploma e os respectivos vencimentos constam do mapa anexo.
+Art. 22.º O quadro dos funcionários referidos no presente diploma e os respectivos vencimentos constam do mapa anexo.
 
-###### Art. 23.º - 1. Os encargos resultantes da execução do presente diploma são inscritos no Orçamento Geral do Estado e suportados pelo Fundo de Desenvolvimento da Mão-de-Obra, na parte que for fixada por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.
+Art. 23.º - 1. Os encargos resultantes da execução do presente diploma são inscritos no Orçamento Geral do Estado e suportados pelo Fundo de Desenvolvimento da Mão-de-Obra, na parte que for fixada por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.
 
 2. O Fundo de Desenvolvimento da Mão-de-Obra reembolsará trimestralmente o Tesouro da importância da comparticipação a que se refere o número anterior, mediante guia de receita passada pela Repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
 
 3. O Fundo de Desenvolvimento da Mão-de-Obra colocará mensalmente à disposição das juntas gerais dos distritos autónomos as importâncias necessárias para satisfazer as diferenças entre os vencimentos dos delegados e subdelegados actualmente a cargo das juntas gerais e os vencimentos devidos por força do presente diploma.
 
-###### Art. 24.º A distribuição dos actuais chefe e assistentes dos Serviços de Acção Social e delegados e subdelegados do Instituto Nacional do Trabalho e Previdência pelos lugares previstos no presente diploma será feita pelo Ministro das Corporações e Previdência Social, sem necessidade de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
+Art. 24.º A distribuição dos actuais chefe e assistentes dos Serviços de Acção Social e delegados e subdelegados do Instituto Nacional do Trabalho e Previdência pelos lugares previstos no presente diploma será feita pelo Ministro das Corporações e Previdência Social, sem necessidade de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 25.º O presente diploma entre em vigor trinta dias após a sua publicação no Diário do Governo, podendo, porém, ser publicada antes dessa data, embora para produzir efeito a partir dela, a distribuição do pessoal prevista no artigo anterior.
+Art. 25.º O presente diploma entre em vigor trinta dias após a sua publicação no Diário do Governo, podendo, porém, ser publicada antes dessa data, embora para produzir efeito a partir dela, a distribuição do pessoal prevista no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Mapa do pessoal a que se refere o artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/04/08600/05630565.pdf))](https://files.diariodarepublica.pt/1s/1973/04/08600/05630565.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/04/08600/05630565.pdf)
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

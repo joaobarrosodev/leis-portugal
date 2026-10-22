@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/261-1970-142559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dc3d63e5e0ea4b0f171c5d18c86776c71896ad5e791a4e63aa4f7c37011598a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bde6ef09709bab316aca7585125263e48f655c733414fdced75e967a824dbb89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:49Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ Nestes termos, ouvido o Conselho Ultramarino e por motivo de urgência:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os funcionários da Polícia Judiciária do ultramar passam a ter as seguintes categorias, a que se referem os artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
+Artigo 1.º Os funcionários da Polícia Judiciária do ultramar passam a ter as seguintes categorias, a que se referem os artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
 
 ... Letras
 
@@ -113,9 +113,9 @@ Agentes auxiliares de 1.ª classe ... O
 
 Enfermeiros auxiliares de 1.ª classe ... Q
 
-###### Art. 2.º Poderão ser promovidos a inspector, como distinção e categoria máxima da sua carreira, os subinspectores com mais de cinco anos na categoria no ultramar, classificados de Muito bom e com o mínimo de vinte anos de carreira policial.
+Art. 2.º Poderão ser promovidos a inspector, como distinção e categoria máxima da sua carreira, os subinspectores com mais de cinco anos na categoria no ultramar, classificados de Muito bom e com o mínimo de vinte anos de carreira policial.
 
-###### Art. 3.º - 1. Na Directoria da Polícia Judiciária de Luanda são criados os seguintes lugares:
+Art. 3.º - 1. Na Directoria da Polícia Judiciária de Luanda são criados os seguintes lugares:
 
 1 inspectoor-adjunto à Directoria.
 
@@ -129,19 +129,19 @@ Enfermeiros auxiliares de 1.ª classe ... Q
 
 1 chefe de secretaria.
 
-###### Art. 4.º Os inspectores-adjuntos à Directoria, a que se refere o artigo anterior, têm a categoria correspondente à letra E do artigo 91.º do Estatuto do Funcionalismo Ultramarino, competindo-lhes:
+Art. 4.º Os inspectores-adjuntos à Directoria, a que se refere o artigo anterior, têm a categoria correspondente à letra E do artigo 91.º do Estatuto do Funcionalismo Ultramarino, competindo-lhes:
 
 a) Auxiliar no exercício das suas atribuições e substituir nos impedimentos o director, assumindo também, quando necessário à normalização do serviço, a direcção de qualquer secção;
 
 b) Exercer, em competência cumulativa com o director e sem prejuízo do princípio da unidade de julgamento em cada processo, as funções de juiz no Tribunal de Polícia.
 
-###### Art. 5.º O provimento do lugar de inspector-adjunto à Directoria será feito por qualquer das seguintes formas:
+Art. 5.º O provimento do lugar de inspector-adjunto à Directoria será feito por qualquer das seguintes formas:
 
 a) Por promoção, entre os inspectores das polícias judiciárias do ultramar com mais de cinco anos de exercício efectivo, licenciatura em Direito e boas informações;
 
 b) Por nomeação, em comissão, de um juiz de direito de 2.ª classe.
 
-###### Art. 6.º Compete às subinspecções:
+Art. 6.º Compete às subinspecções:
 
 a) Prevenção da criminalidade, investigação ou diligências de carácter policial em colaboração com os demais órgãos ou entidades que exerçam funções de polícia judiciária na área do distrito administrativo a que pertençam;
 
@@ -153,9 +153,9 @@ d) Instrução dos processos de competência deferida à Polícia Judiciária no
 
 e) Praticar actos urgentes de instrução em qualquer crime cometido no distrito, com vista a evitar a perda de elementos probatórios ou a subtracção do arguido à acção da justiça.
 
-###### Art. 7.º As subinspecções dependem da Directoria, sem prejuízo da sua subordinação em matéria de investigação ou instrução preparatória, ao Ministério Público da comarca da sede.
+Art. 7.º As subinspecções dependem da Directoria, sem prejuízo da sua subordinação em matéria de investigação ou instrução preparatória, ao Ministério Público da comarca da sede.
 
-###### Art. 8.º - 1. No distrito do Huambo, da província de Angola, é criada uma inspecção, com sede em Nova Lisboa, com o seguinte quadro:
+Art. 8.º - 1. No distrito do Huambo, da província de Angola, é criada uma inspecção, com sede em Nova Lisboa, com o seguinte quadro:
 
 1 inspector.
 
@@ -175,7 +175,7 @@ e) Praticar actos urgentes de instrução em qualquer crime cometido no distrito
 
 2. Transitam para a inspecção, nas suas categorias e logo que orçamentados os lugares, sem qualquer formalidade ou visto, os funcionários da actual subinspecção de Nova Lisboa.
 
-###### Art. 9.º - 1. Compete à inspecção a instrução preparatória dos processos relativos aos crimes cometidos na área do concelho da sede e, bem assim, os poderes funcionais referidos nas alíneas a), d) e e) do artigo 6.º
+Art. 9.º - 1. Compete à inspecção a instrução preparatória dos processos relativos aos crimes cometidos na área do concelho da sede e, bem assim, os poderes funcionais referidos nas alíneas a), d) e e) do artigo 6.º
 
 2. O Ministério Público com jurisdição na comarca de sede da inspecção pode delegar nesta a instrução preparatória dos processos relativos aos crimes cometidos fora da área do concelho da sede da inspecção que, pela sua complexidade ou dificuldade, aconselhem a intervenção de Polícia Judiciária.
 
@@ -183,15 +183,15 @@ e) Praticar actos urgentes de instrução em qualquer crime cometido no distrito
 
 4. A inspecção depende da Directoria, sem prejuízo da sua subordinação, em matéria de investigação ou instrução preparatória, ao Ministério Público da comarca da sede.
 
-###### Art. 10.º Transitam, sem necessidade de qualquer formalidade ou visto, para os lugares de subinspector e subinspector-lofoscopista criados no artigo 3.º, n.º 1, do presente diploma, logo que orçamentados, os subinspectores que na Directoria se encontram já destacados a exercer tais funções.
+Art. 10.º Transitam, sem necessidade de qualquer formalidade ou visto, para os lugares de subinspector e subinspector-lofoscopista criados no artigo 3.º, n.º 1, do presente diploma, logo que orçamentados, os subinspectores que na Directoria se encontram já destacados a exercer tais funções.
 
-###### Art. 11.º Os encargos criados pelo presente diploma serão cobertos por dotação ou reforço de verbas logo que para tanto se verifiquem as respectivas disponibilidades orçamentais.
+Art. 11.º Os encargos criados pelo presente diploma serão cobertos por dotação ou reforço de verbas logo que para tanto se verifiquem as respectivas disponibilidades orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 27 de Maio de 1970.**
+Promulgado em 27 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

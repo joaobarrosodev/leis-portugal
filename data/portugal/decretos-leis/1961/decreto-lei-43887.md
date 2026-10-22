@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43887-1961-181063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b01dbbebf8a7338dd12b58c93293d1ca710ae9365d3414a8330c9f97aafffd7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce3e6bc556fa2ebf003fc483ab8ea9a05fd16b6c94e86d59d4d808b6b9372207
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Instituto Geográfico e Cadastral
+- Limite de Idade
+- Pessoal Contratado
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Promoção Profissional
+- Quadro de Pessoal
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:17Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +105,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A nomeação para os lugares de 3.ª classe do quadro do pessoal científico do Instituto Geográfico e Cadastral será feita por concurso documental, cujas normas serão aprovadas por despacho do Ministro das Finanças, ao qual só poderão ser admitidos os engenheiros e licenciados em Ciências Matemáticas que, com boas informações, tenham prestado, pelo menos, cinco anos de serviço no mesmo Instituto na situação de contratados.
+Artigo 1.º A nomeação para os lugares de 3.ª classe do quadro do pessoal científico do Instituto Geográfico e Cadastral será feita por concurso documental, cujas normas serão aprovadas por despacho do Ministro das Finanças, ao qual só poderão ser admitidos os engenheiros e licenciados em Ciências Matemáticas que, com boas informações, tenham prestado, pelo menos, cinco anos de serviço no mesmo Instituto na situação de contratados.
 
-###### Art. 2.º Pela forma indicada no artigo anterior será feita a nomeação para o lugar de operador fotogramétrico de 3.ª classe, só podendo ser admitidos ao concurso os operadores fotogramétricos que, como contratados, tenham, pelo menos, cinco anos de serviço com boas informações.
+Art. 2.º Pela forma indicada no artigo anterior será feita a nomeação para o lugar de operador fotogramétrico de 3.ª classe, só podendo ser admitidos ao concurso os operadores fotogramétricos que, como contratados, tenham, pelo menos, cinco anos de serviço com boas informações.
 
-###### Art. 3.º O limite de idade referido no artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929, será, nas nomeações a que este decreto-lei der lugar, acrescido do número de anos de serviço prestado no Instituto na situação de contratado.
+Art. 3.º O limite de idade referido no artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929, será, nas nomeações a que este decreto-lei der lugar, acrescido do número de anos de serviço prestado no Instituto na situação de contratado.
 
-###### Art. 4.º Para efeito de promoção, aos funcionários nomeados nos termos dos artigos anteriores será contado como tempo de serviço na classe o que tenham prestado na situação de contratados.
+Art. 4.º Para efeito de promoção, aos funcionários nomeados nos termos dos artigos anteriores será contado como tempo de serviço na classe o que tenham prestado na situação de contratados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

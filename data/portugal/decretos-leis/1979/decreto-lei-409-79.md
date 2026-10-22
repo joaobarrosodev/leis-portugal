@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22200/25142522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1979-365508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94754e3f80ced80fb4a0a5c9194c05bfac4536538daf955817715f50858f7fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 605db3a5732da6dcc15f3bfb791bc1613f21aa588837ba9b217124a75299e558
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Serviços Veterinários
+- Instituto Nacional de Veterinária
+- Laboratório Nacional de Investigação Veterinária
+- Laboratório Regional de Veterinária
+- Ministério da Agricultura e Pescas
+- Orgânica
+- Porto
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:17Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +119,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - É criado, na dependência directa do Ministro da Agricultura e Pescas, o Instituto Nacional de Veterinária, abreviadamente designado por INV.
+Artigo 1.º - 1 - É criado, na dependência directa do Ministro da Agricultura e Pescas, o Instituto Nacional de Veterinária, abreviadamente designado por INV.
 
 2 - São integrados no INV o Laboratório Nacional de Investigação Veterinária, assim como os Laboratórios Regionais do Porto, Évora, Viseu, Mirandela, Castelo Branco e Faro.
 
-###### Art. 2.º - 1 - O INV exerce a sua actividade no âmbito da coordenação e execução de acções de apoio laboratorial aos sectores da sanidade animal e higiene pública veterinária e da pesquisa científica com estes relacionada.
+Art. 2.º - 1 - O INV exerce a sua actividade no âmbito da coordenação e execução de acções de apoio laboratorial aos sectores da sanidade animal e higiene pública veterinária e da pesquisa científica com estes relacionada.
 
 A sua influência reflecte-se assim sobre a saúde humana, através da melhoria do estado sanitário das explorações pecuárias e da transformação tecnológica dos produtos de origem animal.
 
@@ -132,9 +151,9 @@ j) Realizar no âmbito das suas atribuições outros trabalhos que lhe sejam com
 
 3 - O INV poderá ainda proceder a análises ou estudos, no âmbito das suas atribuições, que lhe sejam solicitados por quaisquer entidades públicas ou particulares.
 
-###### Art. 3.º O INV é dirigido por um director, coadjuvado por um subdirector, que o substitui nas suas ausências e impedimentos.
+Art. 3.º O INV é dirigido por um director, coadjuvado por um subdirector, que o substitui nas suas ausências e impedimentos.
 
-###### Art. 4.º - 1 - O INV goza de autonomia administrativa.
+Art. 4.º - 1 - O INV goza de autonomia administrativa.
 
 2 - Constituem receitas do INV:
 
@@ -160,13 +179,13 @@ g) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 5.º São órgãos do INV:
+Art. 5.º São órgãos do INV:
 
 a) Conselho técnico;
 
 b) Conselho administrativo.
 
-###### Art. 6.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director do INV, por ele presidido.
+Art. 6.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director do INV, por ele presidido.
 
 2 - O conselho técnico é constituído pelos seguintes membros:
 
@@ -190,7 +209,7 @@ g) Um representante da Direcção-Geral de Extensão Rural.
 
 5 - Sempre que se mostre conveniente, serão convocados ou convidados, com estatuto consultivo, outros elementos do INV ou de outros organismos do MAP, ou a este estranhos, designadamente professores universitários e representantes da lavoura especialmente qualificados para esclarecimento das matérias em apreciação.
 
-###### Art. 7.º - 1 - Ao conselho técnico compete emitir parecer sobre:
+Art. 7.º - 1 - Ao conselho técnico compete emitir parecer sobre:
 
 a) Programas e projectos da actividade a realizar pelos serviços do INV e definir as respectivas prioridades;
 
@@ -220,13 +239,13 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do conselho.
 
-###### Art. 8.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que o presidente o convoque ou haja consenso de dois terços dos seus membros.
+Art. 8.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que o presidente o convoque ou haja consenso de dois terços dos seus membros.
 
 2 - Os assuntos submetidos à apreciação do conselho técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
 3 - As entidades estranhas ao MAP convidadas em conformidade com o n.º 5 do artigo 6.º terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transporte, nos termos legais.
 
-###### Art. 9.º - 1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 9.º - 1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director do INV, que presidirá;
 
@@ -238,7 +257,7 @@ d) O chefe da Repartição Administrativa.
 
 2 - Servirá de secretário do conselho o chefe da Secção Financeira.
 
-###### Art. 10.º - 1 - Compete ao conselho administrativo:
+Art. 10.º - 1 - Compete ao conselho administrativo:
 
 a) Elaborar o projecto do orçamento do INV de conta das dotações consignadas no Orçamento Geral do Estado e propor as alterações julgadas necessárias;
 
@@ -274,7 +293,7 @@ d) Convocar e dirigir as reuniões do conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 11.º São serviços do INV:
+Art. 11.º São serviços do INV:
 
 A) Serviços de apoio:
 
@@ -304,7 +323,7 @@ b) Laboratório de Évora.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 12.º - 1 - O Núcleo de Planeamento tem como atribuições a programação das actividades do INV.
+Art. 12.º - 1 - O Núcleo de Planeamento tem como atribuições a programação das actividades do INV.
 
 2 - O Núcleo de Planeamento assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a elas estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
@@ -316,7 +335,7 @@ b) Assegurar a elaboração dos relatórios de actividade e a sua execução den
 
 c) Assegurar a participação do INV na elaboração dos programas e dos projectos que lhe sejam cometidos.
 
-###### Art. 13.º - 1 - O Centro de Documentação e Informação Científica e Técnica tem como atribuições assegurar as actividades relativas à documentação, informação e difusão, no âmbito das áreas de acção do INV.
+Art. 13.º - 1 - O Centro de Documentação e Informação Científica e Técnica tem como atribuições assegurar as actividades relativas à documentação, informação e difusão, no âmbito das áreas de acção do INV.
 
 2 - O Centro de Documentação e Informação Científica e Técnica é orientado por um técnico superior e compete-lhe:
 
@@ -332,7 +351,7 @@ e) Organizar a participação do INV em colóquios e cursos;
 
 f) Estabelecer, em colaboração com o GICI, o intercâmbio com universidades, instituições e organizações científicas nacionais, estrangeiras e internacionais, relativamente às matérias do âmbito das suas actividades específicas.
 
-###### Art. 14.º - 1 - O Núcleo de Estatística tem como atribuições assegurar, de acordo com a metodologia própria, a recolha de elementos incluídos no âmbito das actividades do INV e o seu adequado tratamento.
+Art. 14.º - 1 - O Núcleo de Estatística tem como atribuições assegurar, de acordo com a metodologia própria, a recolha de elementos incluídos no âmbito das actividades do INV e o seu adequado tratamento.
 
 2 - O Núcleo de Estatística é orientado por um técnico superior e compete-lhe:
 
@@ -342,7 +361,7 @@ b) Fornecer às diversas unidades do INV a metodologia e as normas de actuação
 
 c) Fornecer às diversas unidades do INV a metodologia e as normas de actuação que permitam a análise estatística dos resultados de trabalhos nele realizados.
 
-###### Art. 15.º - 1 - A Repartição Administrativa tem atribuições nos seguintes domínios:
+Art. 15.º - 1 - A Repartição Administrativa tem atribuições nos seguintes domínios:
 
 a) Administração do pessoal;
 
@@ -354,7 +373,7 @@ d) Serviços gerais, vigilância e segurança das instalações.
 
 2 - A Repartição Administrativa assegurará as ligações com os serviços do Ministério, nomeadamente com a Secretaria-Geral e com outros organismos, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 16.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 16.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Pessoal e Expediente;
 
@@ -362,7 +381,7 @@ b) Administração Financeira;
 
 c) Administração Patrimonial.
 
-###### Art. 17.º À Secção do Pessoal e Expediente compete:
+Art. 17.º À Secção do Pessoal e Expediente compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal do INV;
 
@@ -382,7 +401,7 @@ h) Promover a divulgação pelos serviços das normas internas e demais directiv
 
 i) Superintender no pessoal auxiliar de limpeza, assegurando a organização do respectivo trabalho.
 
-###### Art. 18.º - 1 - À Secção de Administração Financeira compete:
+Art. 18.º - 1 - À Secção de Administração Financeira compete:
 
 a) Coligir todos os elementos indispensáveis à elaboração do projecto do orçamento do INV;
 
@@ -414,7 +433,7 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros da tesouraria.
 
-###### Art. 19.º À Secção de Administração Patrimonial compete:
+Art. 19.º À Secção de Administração Patrimonial compete:
 
 a) Organizar e manter actualizado o inventário do INV;
 
@@ -434,9 +453,9 @@ h) Zelar pela segurança dos edifícios e outras instalações.
 
 ##### SUBSECÇÃO II — Serviços operativos
 
-###### Art. 20.º A Direcção de Serviços de Patologia Animal e Apoio ao Diagnóstico tem como atribuições o estudo laboratorial das doenças animais, contribuindo para o seu melhor conhecimento, e bem assim os trabalhos específicos de apoio ao diagnóstico.
+Art. 20.º A Direcção de Serviços de Patologia Animal e Apoio ao Diagnóstico tem como atribuições o estudo laboratorial das doenças animais, contribuindo para o seu melhor conhecimento, e bem assim os trabalhos específicos de apoio ao diagnóstico.
 
-###### Art. 21.º A Direcção de Serviços de Patologia Animal e Apoio ao Diagnóstico é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 21.º A Direcção de Serviços de Patologia Animal e Apoio ao Diagnóstico é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Patologia e Anatomia Patológica;
 
@@ -444,7 +463,7 @@ b) Bioquímica;
 
 c) Biologia e Patologia dos Animais Aquáticos e Silvestres.
 
-###### Art. 22.º À Divisão de Patologia Animal e Anatomia Patológica compete:
+Art. 22.º À Divisão de Patologia Animal e Anatomia Patológica compete:
 
 a) Proceder a necropsias, análises e exames anátomo-histopatológicos, incluídos no âmbito da patologia animal, relativamente a cadáveres, vísceras, substâncias e líquidos orgânicos ou quaisquer outros produtos destinados àqueles ensaios;
 
@@ -454,7 +473,7 @@ c) Efectuar análises e exames relacionados com o apoio laboratorial à inspecç
 
 d) Estabelecer normas e protocolos para uniformização de metodologias a nível nacional.
 
-###### Art. 23.º À Divisão de Bioquímica compete:
+Art. 23.º À Divisão de Bioquímica compete:
 
 a) Análises, exames e ensaios bioquímicos;
 
@@ -466,7 +485,7 @@ d) Preparação de imunoglobulinas;
 
 e) Análises, exames e ensaios de ultra-estruturas.
 
-###### Art. 24.º À Divisão de Biologia e Patologia dos Animais Aquáticos e Silvestres compete:
+Art. 24.º À Divisão de Biologia e Patologia dos Animais Aquáticos e Silvestres compete:
 
 a) Proceder a análises, provas e ensaios conducentes ao contrôle hígio-sanitário dos animais aquáticos destinados ao consumo público, tendo em vista igualmente as exigências internacionais nas trocas dos mesmos animais, vivos ou mortos;
 
@@ -474,15 +493,15 @@ b) Efectuar análises e exames parasitológicos, microbiológicos, físico-quím
 
 c) Estudar a biologia e a patologia das abelhas, assim como de outros animais silvestres.
 
-###### Art. 25.º A Direcção de Serviços de Higiene dos Produtos, Equipamentos e Meio Ambiente tem atribuições no domínio laboratorial da hígio-sanidade dos alimentos de origem animal, dos alimentos e outros produtos usados na alimentação dos animais, dos equipamentos utilizados nos locais de produção de alimentos ou de criação de animais, das instalações e respectivas condições ambientais.
+Art. 25.º A Direcção de Serviços de Higiene dos Produtos, Equipamentos e Meio Ambiente tem atribuições no domínio laboratorial da hígio-sanidade dos alimentos de origem animal, dos alimentos e outros produtos usados na alimentação dos animais, dos equipamentos utilizados nos locais de produção de alimentos ou de criação de animais, das instalações e respectivas condições ambientais.
 
-###### Art. 26.º A Direcção de Serviços de Higiene dos Produtos, de Equipamentos e Meio Ambiente é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 26.º A Direcção de Serviços de Higiene dos Produtos, de Equipamentos e Meio Ambiente é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Microbiologia;
 
 b) Química.
 
-###### Art. 27.º À Divisão de Microbiologia compete:
+Art. 27.º À Divisão de Microbiologia compete:
 
 a) Proceder a análises, exames e ensaios microbiológicos respeitantes aos alimentos de origem animal destinados ao consumo público, incluindo os produtos com eles preparados, aditivos e conservantes;
 
@@ -494,7 +513,7 @@ d) Efectuar análises ou peritagens de carácter oficial para instrução de pro
 
 e) Estabelecer normas e protocolos para uniformização de metodologias a nível nacional.
 
-###### Art. 28.º À Divisão de Química compete:
+Art. 28.º À Divisão de Química compete:
 
 a) Proceder a análises, exames e ensaios físico-químicos e toxicológicos respeitantes aos alimentos de origem animal destinados ao consumo público, incluindo os produtos com eles preparados, aditivos e conservantes;
 
@@ -506,9 +525,9 @@ d) Executar análises ou peritagens de carácter oficial para instrução de pro
 
 e) Estabelecer normas e protocolos para uniformização e metodologias a nível nacional.
 
-###### Art. 29.º A Direcção dos Serviços de Doenças Microbianas e Parasitárias tem atribuições no domínio do rastreio sanitário daqueles morbos, assim como no estabelecimento de normas, técnicas e métodos da sua especialidade.
+Art. 29.º A Direcção dos Serviços de Doenças Microbianas e Parasitárias tem atribuições no domínio do rastreio sanitário daqueles morbos, assim como no estabelecimento de normas, técnicas e métodos da sua especialidade.
 
-###### Art. 30.º A Direcção de Serviços das Doenças Microbianas e Parasitárias é dirigido por um director de serviços e compreende as seguintes divisões:
+Art. 30.º A Direcção de Serviços das Doenças Microbianas e Parasitárias é dirigido por um director de serviços e compreende as seguintes divisões:
 
 a) Bacteriologia;
 
@@ -518,7 +537,7 @@ c) Micologia;
 
 d) Parasitologia.
 
-###### Art. 31.º À Divisão de Bacteriologia compete:
+Art. 31.º À Divisão de Bacteriologia compete:
 
 a) Executar provas e ensaios laboratoriais subsidiários da diagnose e profilaxia das bacterioses dos animais, e também do homem, nos casos em que a infecção se relaciona com os animais ou os seus produtos;
 
@@ -532,7 +551,7 @@ e) Preparar antigénios e anti-soros para diagnóstico e manter adequada colecç
 
 f) Estabelecer normas e protocolos para uniformização de metodologias a nível nacional.
 
-###### Art. 32.º À Divisão de Virulogia compete:
+Art. 32.º À Divisão de Virulogia compete:
 
 a) Executar provas e ensaios laboratoriais subsidiários da diagnose e profilaxia das viroses dos animais, e também do homem, nos casos em que se relaciona com os animais ou os seus produtos;
 
@@ -546,7 +565,7 @@ e) Preparar antigénios e anti-soros para diagnóstico e manter adequada colecç
 
 f) Estabelecer normas e protocolos para uniformização de metodologias a nível nacional.
 
-###### Art. 33.º À Divisão de Micologia compete:
+Art. 33.º À Divisão de Micologia compete:
 
 a) Executar provas e ensaios laboratoriais subsidiários da diagnose e profilaxia das micoses dos animais, e também do homem, nos casos em que a infecção se relaciona com os animais ou com os seus produtos;
 
@@ -560,7 +579,7 @@ e) Preparar antigénios e anti-soros para diagnóstico e manter adequada colecç
 
 f) Estabelecer normas e protocolos para uniformização de metodologias a nível nacional.
 
-###### Art. 34.º À Divisão de Parasitologia compete:
+Art. 34.º À Divisão de Parasitologia compete:
 
 a) Executar provas e ensaios laboratoriais subsidiários da diagnose e profilaxia das parasitoses animais, e também do homem, nos casos em que a infestação se relaciona com os animais ou com os seus produtos;
 
@@ -574,21 +593,21 @@ e) Preparar antigénios e anti-soros para diagnóstico e manter adequada colecç
 
 f) Estabelecer normas e protocolos para uniformização de metodologias a nível nacional.
 
-###### Art. 35.º A Direcção de Serviços de Produtos Biológicos e Quimioterapêuticos tem atribuições nos domínios da produção e contrôle de produtos destinados ao tratamento, profilaxia e diagnóstico das doenças dos animais, como quaisquer outros utilizados em veterinária.
+Art. 35.º A Direcção de Serviços de Produtos Biológicos e Quimioterapêuticos tem atribuições nos domínios da produção e contrôle de produtos destinados ao tratamento, profilaxia e diagnóstico das doenças dos animais, como quaisquer outros utilizados em veterinária.
 
-###### Art. 36.º A Direcção de Serviços de Produtos Biológicos e Quimioterapêuticos é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 36.º A Direcção de Serviços de Produtos Biológicos e Quimioterapêuticos é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Antigénios e Imunígenos;
 
 b) Contraste.
 
-###### Art. 37.º À Divisão de Antigénios e Imunígenos compete:
+Art. 37.º À Divisão de Antigénios e Imunígenos compete:
 
 a) Preparar produtos biológicos ou químicos destinados ao tratamento, profilaxia ou diagnóstico das doenças dos animais e quaisquer outros utilizados em veterinária;
 
 b) Manter adequada colecção de estirpes destinadas à utilização indicada na alínea anterior.
 
-###### Art. 38.º À Divisão de Contraste compete:
+Art. 38.º À Divisão de Contraste compete:
 
 a) Autorizar a importação de produtos biológicos usados na profilaxia, terapêutica ou diagnóstico das doenças dos animais, assim como regulamentar a comercialização e a utilização tanto dos nacionais como dos estrangeiros;
 
@@ -610,13 +629,13 @@ i) Manter colecções de estirpes e de padrões destinados aos seus trabalhos e 
 
 ##### SUBSECÇÃO III — Dos serviços locais
 
-###### Art. 39.º - 1 - A área geográfica de influência do Laboratório do Porto, corresponde aos distritos de Bragança, Vila Real, Viana do Castelo, Braga, Porto, Aveiro, Viseu, Guarda e Coimbra.
+Art. 39.º - 1 - A área geográfica de influência do Laboratório do Porto, corresponde aos distritos de Bragança, Vila Real, Viana do Castelo, Braga, Porto, Aveiro, Viseu, Guarda e Coimbra.
 
 2 - A área geográfica do Laboratório de Évora corresponde aos distritos de Faro, Beja, Évora, Portalegre e Castelo Branco.
 
-###### Art. 40.º Os Laboratórios do Porto e de Évora, dependentes hierarquicamente do director do INV e funcionalmente das direcções de serviços operativos, têm atribuições nos domínios da patologia, rastreio sanitário e higiene dos produtos animais nas respectivas áreas geográficas de influência.
+Art. 40.º Os Laboratórios do Porto e de Évora, dependentes hierarquicamente do director do INV e funcionalmente das direcções de serviços operativos, têm atribuições nos domínios da patologia, rastreio sanitário e higiene dos produtos animais nas respectivas áreas geográficas de influência.
 
-###### Art. 41.º - 1 - Os Laboratórios do Porto e de Évora são dirigidos por directores de serviços e compreendem as seguintes divisões:
+Art. 41.º - 1 - Os Laboratórios do Porto e de Évora são dirigidos por directores de serviços e compreendem as seguintes divisões:
 
 a) Patologia;
 
@@ -626,7 +645,7 @@ c) Higiene.
 
 2 - Para o desempenho das suas atribuições o Laboratório do Porto dispõe ainda das unidades laboratoriais de Viseu e Mirandela, e o Laboratório de Évora, das unidades laboratoriais de Castelo Branco e Faro.
 
-###### Art. 42.º Às divisões de patologia compete:
+Art. 42.º Às divisões de patologia compete:
 
 a) Proceder a exames necrópsicos e análises incluídos no âmbito da patologia animal relativamente a cadáveres, vísceras, substâncias e líquidos orgânicos ou quaisquer outros produtos destinados àqueles ensaios;
 
@@ -634,7 +653,7 @@ b) Efectuar análises ou peritagens de carácter oficial para instrução de pro
 
 c) Realizar análises relacionadas com o apoio laboratorial à inspecção sanitária.
 
-###### Art. 43.º Às divisões de microbiologia e parasitologia compete:
+Art. 43.º Às divisões de microbiologia e parasitologia compete:
 
 a) Proceder a ensaios de análises microbiológicas, parasitológicas e serológicas relativamente a cadáveres, vísceras, substâncias e líquidos orgânicos ou quaisquer outros produtos destinados àqueles ensaios;
 
@@ -642,7 +661,7 @@ b) Efectuar análises ou peritagens de carácter oficial para instrução de pro
 
 c) Efectuar análises relacionadas com o apoio laboratorial à inspecção sanitária.
 
-###### Art. 44.º Às divisões de higiene compete:
+Art. 44.º Às divisões de higiene compete:
 
 a) Proceder a análises e exames físico-químicos, microbiológicos, toxicológicos e outros respeitantes aos alimentos de origem animal destinados ao consumo público, incluindo os produtos com eles preparados, aditivos, correctivos, suplementos alimentares e outros;
 
@@ -652,7 +671,7 @@ c) Realizar análises relacionados com o apoio laboratorial à inspecção sanit
 
 d) Executar análises ou peritagens de carácter oficial para instrução de processos ou outro procedimento legal de acordo com as leis e regulamentos estabelecidos.
 
-###### Art. 45.º As unidades laboratoriais referidas no n.º 2 do artigo 41.º são orientadas, cada uma delas, por um técnico superior e compete-lhes:
+Art. 45.º As unidades laboratoriais referidas no n.º 2 do artigo 41.º são orientadas, cada uma delas, por um técnico superior e compete-lhes:
 
 a) Proceder a necropsias, análises e exames no âmbito da patologia e sanidade veterinárias;
 
@@ -662,25 +681,25 @@ b) Realizar análises relacionadas com o apoio laboratorial à inspecção sanit
 
 #### SECÇÃO I — Dos quadros do pessoal
 
-###### Art. 46.º - 1 - O Instituto Nacional de Veterinária, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo a este diploma e que dele faz parte integrante.
+Art. 46.º - 1 - O Instituto Nacional de Veterinária, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo a este diploma e que dele faz parte integrante.
 
 2 - O director e o subdirector do INV são equiparados a subdirector-geral.
 
-###### Art. 47.º - 1 - Os lugares dos quadros únicos no Ministério da Agricultura e Pescas que vierem a vagar, por motivo de provimento dos seus titulares, em lugar de pessoal dirigente do INV, só poderão ser preenchidos mediante observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 47.º - 1 - Os lugares dos quadros únicos no Ministério da Agricultura e Pescas que vierem a vagar, por motivo de provimento dos seus titulares, em lugar de pessoal dirigente do INV, só poderão ser preenchidos mediante observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos referidos no número anterior será abatido na competente dotação orçamental enquanto se mantiver aquela situação.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 48.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da respectiva direcção de serviços, designado por despacho do director do INV sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
+Art. 48.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da respectiva direcção de serviços, designado por despacho do director do INV sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
 
-###### Art. 49.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços de que depende, for designado por despacho do director do INV, ou, na falta de designação, pelo técnico superior mais antigo da divisão.
+Art. 49.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços de que depende, for designado por despacho do director do INV, ou, na falta de designação, pelo técnico superior mais antigo da divisão.
 
-###### Art. 50.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos pelo chefe de secção que for designado por despacho do director do INV, sob proposta do chefe de repartição, ou, na falta de designação, pelo chefe de secção mais antigo.
+Art. 50.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos pelo chefe de secção que for designado por despacho do director do INV, sob proposta do chefe de repartição, ou, na falta de designação, pelo chefe de secção mais antigo.
 
 ### CAPÍTULO IV — Isenções
 
-###### Art. 51.º - 1 - São isentos de direitos e outras imposições aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos e biológicos, animais, protistas, livros, revistas ou outros elementos de informação científica que o INV importe e se destinem aos seus serviços e aos trabalhos que venha a realizar.
+Art. 51.º - 1 - São isentos de direitos e outras imposições aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos e biológicos, animais, protistas, livros, revistas ou outros elementos de informação científica que o INV importe e se destinem aos seus serviços e aos trabalhos que venha a realizar.
 
 2 - Terão preferência no despacho e poderão ser desembaraçados pelas alfândegas, sem dependência de formalidades e mediante assinatura de termo de responsabilidade pelo director do INV, as mercadorias a que se refere o número anterior.
 
@@ -688,25 +707,25 @@ b) Realizar análises relacionadas com o apoio laboratorial à inspecção sanit
 
 ### CAPÍTULO V — Disposições gerais e finais
 
-###### Art. 52.º - 1 - O Instituto Nacional de Veterinária poderá, sem prejuízo das atribuições que lhe estão cometidas, realizar trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 52.º - 1 - O Instituto Nacional de Veterinária poderá, sem prejuízo das atribuições que lhe estão cometidas, realizar trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
 
 2 - Os serviços prestados serão cobrados de acordo com a tabela de preços que vier a ser aprovada por despacho ministerial, sob proposta do director do INV, ouvido o conselho administrativo.
 
-###### Art. 53.º A venda dos produtos referidos nas alíneas b), d) e e) do n.º 2 do artigo 4.º do presente diploma pode ser feita independentemente de quaisquer formalidades legais.
+Art. 53.º A venda dos produtos referidos nas alíneas b), d) e e) do n.º 2 do artigo 4.º do presente diploma pode ser feita independentemente de quaisquer formalidades legais.
 
-###### Art. 54.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada, o INV poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos nacionais ou estrangeiros para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 54.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada, o INV poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos nacionais ou estrangeiros para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 55.º O INV pode estabelecer convénios de colaboração científica e técnica com os serviços regionais de agricultura, Instituto Nacional de Investigação Agrária, Instituto Nacional de investigação das Pescas, direcções-gerais e outros serviços centrais do MAP, bem como com organismos de outros Ministérios, nomeadamente com instituições de ensino universitário e ainda entidades cooperativas ou privadas.
+Art. 55.º O INV pode estabelecer convénios de colaboração científica e técnica com os serviços regionais de agricultura, Instituto Nacional de Investigação Agrária, Instituto Nacional de investigação das Pescas, direcções-gerais e outros serviços centrais do MAP, bem como com organismos de outros Ministérios, nomeadamente com instituições de ensino universitário e ainda entidades cooperativas ou privadas.
 
-###### Art. 56.º O INV poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 56.º O INV poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 57.º O INV pode instituir e manter prémios ou outras formas de recompensa, segundo regulamentos aprovados pelo Ministério da Agricultura e Pescas, para os servidores do INV ou outras entidades que tenham contribuído de forma excepcional para a eficiência do INV ou progresso dos conhecimentos.
+Art. 57.º O INV pode instituir e manter prémios ou outras formas de recompensa, segundo regulamentos aprovados pelo Ministério da Agricultura e Pescas, para os servidores do INV ou outras entidades que tenham contribuído de forma excepcional para a eficiência do INV ou progresso dos conhecimentos.
 
-###### Art. 58.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos do INV incluídos no Plano, serão pagos de conta das dotações consignadas a esses objectivos.
+Art. 58.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos do INV incluídos no Plano, serão pagos de conta das dotações consignadas a esses objectivos.
 
-###### Art. 59.º - 1 - A cobrança coerciva das dívidas ao INV, provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma, ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 59.º - 1 - A cobrança coerciva das dívidas ao INV, provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma, ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada pela entidade competente, da qual constem os elementos seguintes:
 
@@ -720,26 +739,26 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 60.º O INV, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, poderá subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com as actividades do Instituto.
+Art. 60.º O INV, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, poderá subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com as actividades do Instituto.
 
-###### Art. 61.º São transferidas para o INV as atribuições e competências que estavam cometidas à Direcção-Geral dos Serviços Veterinários pelos Decretos n.os 20292 e 20884, de, respectivamente, 8 de Setembro de 1971 e 13 de Fevereiro de 1972.
+Art. 61.º São transferidas para o INV as atribuições e competências que estavam cometidas à Direcção-Geral dos Serviços Veterinários pelos Decretos n.os 20292 e 20884, de, respectivamente, 8 de Setembro de 1971 e 13 de Fevereiro de 1972.
 
-###### Art. 62.º O contingente alargado de investigadores indicado no mapa anexo a este diploma será reduzido à medida que forem surgindo as respectivas vagas.
+Art. 62.º O contingente alargado de investigadores indicado no mapa anexo a este diploma será reduzido à medida que forem surgindo as respectivas vagas.
 
-###### Art. 63.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despachos do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 63.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despachos do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 64.º O presente diploma entre em vigor no dia seguinte ao da sua publicação.
+Art. 64.º O presente diploma entre em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 6 de Setembro de 1979.**
+Promulgado em 6 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 46.º
 
 Contingente do pessoal do Instituto Nacional de Veterinária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22200/25142522.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22200/25142522.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22200/25142522.pdf)

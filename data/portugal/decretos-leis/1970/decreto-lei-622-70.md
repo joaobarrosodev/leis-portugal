@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/29200/19041911.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34efac22f9b44fdd71cf429feec2f90d427dbb4aa9193e76774087f6f45aa8e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2806480c41876ece1577b649e5f96ab45b4b5682cb502933ec28479e3da3da8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Definição de Competências
+- Orgânica
+- Presidência do Conselho
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretariado da Reforma Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:409282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:422447:por
+  label: "Alterado o n.º 1 do art. 37.º e abatidos lugares ao quadro do pessoal da Secretaria-Geral da Presidência do Conselho,\
+    \ aprovado pelo presente diploma pelo DEC LEI.265/73.29.05.1973.PC, DG.IS [126] de 29.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1973-422447
+  date: '1973-05-29'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643880:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:236124:por
+  label: "Revogadas as disposições em contrário constantes do presente diploma, pelo DEC LEI.784/74.1974.12.31.PCM, DG.IS\
+    \ [303]5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/784-1974-236124
+  date: '1974-12-31'
+- type: repealed_by
+  target: pt:dre:409282:por
+  label: "Revogado pelo DEC LEI.789/76.1976.11.04.PCM, DR.IS [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/789-1976-409282
+  date: '1976-11-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:03Z'
   warnings: []
   errors: []
 ---
@@ -143,9 +215,9 @@ I
 
 Das atribuições e competência
 
-###### Artigo 1.º É reorganizada, nos termos do presente diploma, a Secretaria-Geral da Presidência do Conselho, criada pelo [Decreto-Lei n.º 41383](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41383-1957-251639), de 22 de Novembro de 1957, e que adiante se designa, abreviadamente, por Secretaria-Geral.
+Artigo 1.º É reorganizada, nos termos do presente diploma, a Secretaria-Geral da Presidência do Conselho, criada pelo [Decreto-Lei n.º 41383](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41383-1957-251639), de 22 de Novembro de 1957, e que adiante se designa, abreviadamente, por Secretaria-Geral.
 
-###### Art. 2.º A Secretaria-Geral é um órgão de estudo, planeamento, coordenação e apoio técnico-administrativo, incumbido essencialmente:
+Art. 2.º A Secretaria-Geral é um órgão de estudo, planeamento, coordenação e apoio técnico-administrativo, incumbido essencialmente:
 
 a) De realizar os estudos e trabalhos que lhe forem cometidos pelo Presidente do Conselho, com vista ao aperfeiçoamento da administração pública e à melhoria da produtividade dos respectivos serviços, no desenvolvimento gradual do processo de reforma administrativa;
 
@@ -155,7 +227,7 @@ c) De desempenhar as funções de estudo, informação e coordenação que em ma
 
 d) De exercer a competência atribuída pelo presente diploma em assuntos de carácter jurídico e administrativo.
 
-###### Art. 3.º No prosseguimento das atribuições referidas na alínea a) do artigo anterior, compete especialmente à Secretaria-Geral:
+Art. 3.º No prosseguimento das atribuições referidas na alínea a) do artigo anterior, compete especialmente à Secretaria-Geral:
 
 a) Proceder a estudos, inquéritos e outros trabalhos sobre assuntos de interesse genérico para a administração pública;
 
@@ -171,7 +243,7 @@ f) Sugerir as providências tendentes ao aperfeiçoamento das relações entre a
 
 g) Transmitir aos Ministérios as directrizes, definidas superiormente, sobre assuntos abrangidos no âmbito da competência da Secretaria-Geral.
 
-###### Art. 4.º No prosseguimento das atribuições referidas na alínea b) do artigo 2.º, compete especialmente à Secretaria-Geral:
+Art. 4.º No prosseguimento das atribuições referidas na alínea b) do artigo 2.º, compete especialmente à Secretaria-Geral:
 
 a) Promover a aplicação, relativamente aos organismos dependentes da Presidência do Conselho, das providências de ordem geral que pelo Governo sejam aprovadas no sentido da gradual realização da reforma administrativa;
 
@@ -181,7 +253,7 @@ c) Colaborar no estudo e formulação das reorganizações sectoriais empreendid
 
 d) Transmitir aos organismos e serviços dependentes da Presidência do Conselho as normas e instruções genéricas emanadas do Presidente do Conselho e dos membros do Governo que o coadjuvem na Presidência.
 
-###### Art. 5.º No prosseguimento das atribuições referidas na alínea d) do artigo 2.º, compete especialmente à Secretaria-Geral:
+Art. 5.º No prosseguimento das atribuições referidas na alínea d) do artigo 2.º, compete especialmente à Secretaria-Geral:
 
 a) Prestar ao Presidente do Conselho e aos membros do Governo que o coadjuvem na Presidência a assistência de carácter técnico e administrativo que tiverem por conveniente nos trabalhos de planeamento, direcção e coordenação das actividades dos serviços;
 
@@ -201,9 +273,9 @@ h) Exercer, relativamente aos delegados do Governo e aos administradores por par
 
 i) Tomar a seu cargo a guarda, conservação e administração da parte do Palácio de S. Bento ocupada pelos serviços da Presidência do Conselho, bem como dos edifícios anexos ao mesmo Palácio e do parque respectivo.
 
-###### Art. 6.º A Secretaria-Geral desempenhará as suas funções em estreita ligação e cooperação com as secretarias-gerais dos Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
+Art. 6.º A Secretaria-Geral desempenhará as suas funções em estreita ligação e cooperação com as secretarias-gerais dos Ministérios, tendo em vista o exercício de uma acção comum e coordenada nos vários domínios da reforma administrativa.
 
-###### Art. 7.º - 1. Compete ao secretário-geral da Presidência do Conselho superintender em todos os serviços da Secretaria-Geral, submetendo a despacho do Presidente do Conselho e dos membros do Governo referidos na alínea a) do artigo 5.º os assuntos que careçam de resolução superior.
+Art. 7.º - 1. Compete ao secretário-geral da Presidência do Conselho superintender em todos os serviços da Secretaria-Geral, submetendo a despacho do Presidente do Conselho e dos membros do Governo referidos na alínea a) do artigo 5.º os assuntos que careçam de resolução superior.
 
 2. O secretário-geral poderá receber do Presidente do Conselho delegação de competência para despachar assuntos relativos às funções de administração geral que corram pela Secretaria-Geral ou por qualquer dos serviços cujo pessoal faça parte do quadro único criado pelo Decreto-lei n.º 38364, de 6 de Agosto de 1951.
 
@@ -215,7 +287,7 @@ Dos órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos e serviços em geral
 
-###### Art. 8.º - 1. A Secretaria-Geral compreende os seguintes serviços:
+Art. 8.º - 1. A Secretaria-Geral compreende os seguintes serviços:
 
 a) Direcção de Serviços da Reforma Administrativa;
 
@@ -225,13 +297,13 @@ c) Repartição Administrativa.
 
 2. Em ligação com a Secretaria-Geral funciona a Auditoria Jurídica da Presidência do Conselho.
 
-###### Art. 9.º É criado junto da Secretaria-Geral, como órgão de consulta e coordenação, o Conselho Coordenador da Função Pública.
+Art. 9.º É criado junto da Secretaria-Geral, como órgão de consulta e coordenação, o Conselho Coordenador da Função Pública.
 
 #### SECÇÃO II — Dos serviços da Secretaria-Geral
 
 ##### SUBSECÇÃO I — Da Direcção de Serviços da Reforma Administrativa
 
-###### Art. 10.º Compete à Direcção de Serviços da Reforma Administrativa, por intermédio das suas divisões, exercer as funções enunciadas no artigo 3.º deste decreto-lei, e bem assim:
+Art. 10.º Compete à Direcção de Serviços da Reforma Administrativa, por intermédio das suas divisões, exercer as funções enunciadas no artigo 3.º deste decreto-lei, e bem assim:
 
 a) Por determinação do Presidente do Conselho, emitir parecer acerca dos projectos de diplomas relativos à criação ou reorganização de serviços, ou que respeitem ao regime dos funcionários ou a matéria administrativa de carácter geral;
 
@@ -245,7 +317,7 @@ e) Promover a preparação e edição de publicações de interesse para os serv
 
 f) Colaborar no exercício das funções a que aludem as alíneas a) a c) do artigo 4.º e a alínea c) do artigo 5.º do presente diploma.
 
-###### Art. 11.º A Direcção de Serviços da Reforma Administrativa compreende:
+Art. 11.º A Direcção de Serviços da Reforma Administrativa compreende:
 
 a) Divisão de Pessoal;
 
@@ -253,7 +325,7 @@ b) Divisão de Organização;
 
 c) Divisão de Documentação.
 
-###### Art. 12.º Compete especialmente à Divisão de Pessoal:
+Art. 12.º Compete especialmente à Divisão de Pessoal:
 
 a) Proceder a estudos e trabalhos de investigação com vista à definição de uma política geral de pessoal e à elaboração de normas para a sua aplicação;
 
@@ -265,7 +337,7 @@ d) Realizar os trabalhos relativos à elaboração de uma política de formaçã
 
 e) Promover estudos de carácter geral acerca dos problemas de relações humanas na administração pública e colaborar na respectiva solução.
 
-###### Art. 13.º Compete especialmente à Divisão de Organização:
+Art. 13.º Compete especialmente à Divisão de Organização:
 
 a) Propor critérios gerais que devam orientar a criação e a reorganização de serviços públicos;
 
@@ -277,7 +349,7 @@ d) Colaborar nos estudos e diligências tendentes a racionalizar a instalação 
 
 e) Preparar um guia da administração do Estado, a actualizar periòdicamente.
 
-###### Art. 14.º Compete especialmente à Divisão de Documentação:
+Art. 14.º Compete especialmente à Divisão de Documentação:
 
 a) Organizar a biblioteca e o centro de documentação administrativa, assegurando o tratamento e a divulgação de elementos bibliográficos e documentais em matérias de interesse genérico para a administração pública;
 
@@ -289,11 +361,11 @@ d) Promover estudos de carácter geral acerca dos problemas de relações públi
 
 e) Suscitar e acolher as sugestões do pessoal, dos órgãos de informação e do público sobre assuntos de interesse para os serviços, nomeadamente através da promoção de inquéritos ou sondagens.
 
-###### Art. 15.º A Direcção de Serviços da Reforma Administrativa disporá do pessoal técnico que lhe for atribuído, de harmonia com as necessidades, por despacho do secretário-geral, que determinará a sua distribuição pelas divisões, ouvido o director de serviços.
+Art. 15.º A Direcção de Serviços da Reforma Administrativa disporá do pessoal técnico que lhe for atribuído, de harmonia com as necessidades, por despacho do secretário-geral, que determinará a sua distribuição pelas divisões, ouvido o director de serviços.
 
 ##### SUBSECÇÃO II — Do Gabinete da Mobilização Civil
 
-###### Art. 16.º Incumbe ao Gabinete da Mobilização Civil:
+Art. 16.º Incumbe ao Gabinete da Mobilização Civil:
 
 a) Determinar os serviços administrativos dependentes do Estado e seus institutos públicos, das autarquias locais e dos organismos corporativos que devem desempenhar missões relacionadas com a mobilização civil, com a assistência às populações civis em caso de guerra ou de emergência e com a protecção dos patrimónios públicos e particulares, bem como as tarefas que a cada um devem pertencer;
 
@@ -307,11 +379,11 @@ e) Assegurar o secretariado e expediente dos Conselhos ministeriais restritos a 
 
 f) Executar as demais missões que pelo Presidente do Conselho lhe sejam confiadas, para desempenho das funções a que se referem as bases IX, n.º 2, e X, n.º 3, da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283).
 
-###### Art. 17.º O Gabinete da Mobilização Civil será chefiado directamente por um técnico de 1.ª classe e disporá do pessoal técnico que lhe for atribuído, de harmonia com as necessidades, por despacho do secretário-geral.
+Art. 17.º O Gabinete da Mobilização Civil será chefiado directamente por um técnico de 1.ª classe e disporá do pessoal técnico que lhe for atribuído, de harmonia com as necessidades, por despacho do secretário-geral.
 
 ##### SUBSECÇÃO III — Da Repartição Administrativa
 
-###### Art. 18.º Incumbe à Repartição Administrativa:
+Art. 18.º Incumbe à Repartição Administrativa:
 
 a) Assegurar o expediente dos Gabinetes do Presidente do Conselho e dos membros do Governo que o coadjuvem na Presidência, colaborando na organização dos respectivos arquivos;
 
@@ -339,29 +411,29 @@ h) Exercer as funções a que alude a alínea i) do artigo 5.º do presente dipl
 
 i) Dar expediente à correspondência entre o secretário-geral e os delegados do Governo e administradores por parte do Estado.
 
-###### Art. 19.º - 1. A Repartição Administrativa compreende três secções, pelas quais será distribuído o pessoal administrativo constante do quadro anexo ao presente diploma.
+Art. 19.º - 1. A Repartição Administrativa compreende três secções, pelas quais será distribuído o pessoal administrativo constante do quadro anexo ao presente diploma.
 
 2. A distribuição será feita por despacho do secretário-geral, ouvidos os chefes de secção e da Repartição.
 
 #### SECÇÃO III — Da Auditoria Jurídica
 
-###### Art. 20.º Compete à Auditoria Jurídica:
+Art. 20.º Compete à Auditoria Jurídica:
 
 a) Emitir os pareceres e elaborar os estudos jurídicos que lhe sejam determinados pelo Presidente do Conselho e pelos membros do Governo que o coadjuvem na Presidência;
 
 b) Prestar à Secretaria-Geral o apoio que lhe for determinado, segundo directivas do Presidente do Conselho, na acção tendente ao aperfeiçoamento da técnica legislativa.
 
-###### Art. 21.º - 1. A Auditoria Jurídica é dirigida por um procurador da República, designado pelo Ministro da Justiça após consulta ao Presidente do Conselho.
+Art. 21.º - 1. A Auditoria Jurídica é dirigida por um procurador da República, designado pelo Ministro da Justiça após consulta ao Presidente do Conselho.
 
 2. O auditor jurídico não poderá ser incumbido de serviços estranhos à Presidência, salvo se para tanto for autorizado pelo Presidente do Conselho.
 
-###### Art. 22.º Poderá ser adstrito à Auditoria Jurídica o pessoal técnico da Secretaria-Geral que se mostre necessário ao exercício das respectivas funções.
+Art. 22.º Poderá ser adstrito à Auditoria Jurídica o pessoal técnico da Secretaria-Geral que se mostre necessário ao exercício das respectivas funções.
 
 #### SECÇÃO IV — Do Conselho Coordenador da Função Pública
 
-###### Art. 23.º O Conselho Coordenador da Função Pública é um órgão de consulta e coordenação, ao qual compete emitir pareceres e apresentar sugestões acerca de assuntos de interesse geral para a administração pública, designadamente no que respeita a regimes do pessoal, reorganizações de estruturas, racionalização de métodos de trabalho e aperfeiçoamento das ligações entre os vários departamentos e serviços.
+Art. 23.º O Conselho Coordenador da Função Pública é um órgão de consulta e coordenação, ao qual compete emitir pareceres e apresentar sugestões acerca de assuntos de interesse geral para a administração pública, designadamente no que respeita a regimes do pessoal, reorganizações de estruturas, racionalização de métodos de trabalho e aperfeiçoamento das ligações entre os vários departamentos e serviços.
 
-###### Art. 24.º - 1. Farão parte do Conselho:
+Art. 24.º - 1. Farão parte do Conselho:
 
 a) Os secretários-gerais dos Ministérios e Secretarias de Estado;
 
@@ -389,11 +461,11 @@ j) Quatro representantes das actividades privadas, designados pelas Corporaçõe
 
 4. Exercerá as funções de secretário do Conselho, sem voto, um dos funcionários da Direcção de Serviços da Reforma Administrativa.
 
-###### Art. 25.º - 1. O Conselho funcionará em sessões plenárias ou restritas, consoante as matérias a tratar.
+Art. 25.º - 1. O Conselho funcionará em sessões plenárias ou restritas, consoante as matérias a tratar.
 
 2. Os vogais do Conselho e os participantes nas suas reuniões, conforme o disposto no n.º 3 do artigo anterior, terão direito ao abono de senhas de presença, transportes e ajudas de custo, nos termos da lei.
 
-###### Art. 26.º - 1. Mediante proposta do Conselho, aprovada superiormente, poderão ser criados grupos de trabalho para o estudo de assuntos específicos, com composição adequada à respectiva finalidade, e presididos por algum dos membros do mesmo Conselho.
+Art. 26.º - 1. Mediante proposta do Conselho, aprovada superiormente, poderão ser criados grupos de trabalho para o estudo de assuntos específicos, com composição adequada à respectiva finalidade, e presididos por algum dos membros do mesmo Conselho.
 
 2. Aos grupos de trabalho criados nos termos do número anterior é aplicável o disposto na alínea a) do n.º 1 do artigo 38.º deste diploma.
 
@@ -401,47 +473,47 @@ III
 
 Do pessoal
 
-###### Art. 27.º A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
+Art. 27.º A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
 
-###### Art. 28.º - 1. O lugar de secretário-geral será provido em comissão de serviço, por tempo indeterminado, mediante livre escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 28.º - 1. O lugar de secretário-geral será provido em comissão de serviço, por tempo indeterminado, mediante livre escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ao exercício das respectivas funções.
 
 2. Se o respectivo titular já tiver a qualidade de funcionário, será aplicável, após dois anos de exercício do cargo, o regime estabelecido nos n.os 2 e 3 do artigo 33.º
 
-###### Art. 29.º Os lugares de director de serviços, chefe de divisão, chefe da Repartição Administrativa e técnico de 2.ª classe serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 29.º Os lugares de director de serviços, chefe de divisão, chefe da Repartição Administrativa e técnico de 2.ª classe serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre diplomados com curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 30.º O provimento dos lugares de técnico de 1.ª classe far-se-á por promoção entre os técnicos de 2.ª classe.
+Art. 30.º O provimento dos lugares de técnico de 1.ª classe far-se-á por promoção entre os técnicos de 2.ª classe.
 
-###### Art. 31.º - 1. Os lugares de técnico auxiliar de 2.ª classe serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre indivíduos que hajam concluído o 3.º ciclo do ensino liceal ou possuam habilitação equivalente.
+Art. 31.º - 1. Os lugares de técnico auxiliar de 2.ª classe serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre indivíduos que hajam concluído o 3.º ciclo do ensino liceal ou possuam habilitação equivalente.
 
 2. Os lugares de técnico auxiliar de 1.ª classe serão preenchidos, por promoção, entre os técnicos auxiliares de 2.ª classe.
 
-###### Art. 32.º - 1. As nomeações para os cargos a que se refere o artigo 29.º e para os de técnico auxiliar de 2.ª classe terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
+Art. 32.º - 1. As nomeações para os cargos a que se refere o artigo 29.º e para os de técnico auxiliar de 2.ª classe terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
 
 2. Findo o período inicial, ou a sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Enquanto não obtiverem provimento definitivo, os técnicos de 2.ª classe serão considerados técnicos estagiários, cabendo-lhes o ordenado correspondente à letra J.
 
-###### Art. 33.º - 1. Se a nomeação para qualquer dos cargos referidos no artigo anterior recair em funcionário público ou administrativo, será feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
+Art. 33.º - 1. Se a nomeação para qualquer dos cargos referidos no artigo anterior recair em funcionário público ou administrativo, será feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos, podendo, todavia, converter-se em definitiva após um ano de bom e efectivo serviço.
 
 2. Verificando-se a prorrogação, considera-se aberta vaga no quadro donde proceda o funcionário, podendo este, no entanto, regressar ao mesmo quadro, a seu pedido, desde que se encontre vago o cargo que desempenhava ou outro de categoria equivalente.
 
 3. Se a comissão cessar por decisão ministerial e não existir vaga onde o funcionário possa ser provido, ser-lhe-ão abonados, por conta da Secretaria-Geral, os vencimentos a que tiver direito no quadro de origem, até que nele reingresse; entretanto, o funcionário nessa situação prestará serviço em qualquer organismo dependente da Presidência do Conselho ou do Ministério donde proveio.
 
-###### Art. 34.º O regime de promoção dos técnicos de 2.ª classe e dos técnicos auxiliares de 2.ª classe será definido em regulamento.
+Art. 34.º O regime de promoção dos técnicos de 2.ª classe e dos técnicos auxiliares de 2.ª classe será definido em regulamento.
 
-###### Art. 35.º - 1. Os lugares de chefe de secção serão providos, mediante proposta do secretário-geral, entre os primeiros-oficiais do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, desde que tenham mais de três anos de bom e efectivo serviço, ou entre diplomados com curso superior.
+Art. 35.º - 1. Os lugares de chefe de secção serão providos, mediante proposta do secretário-geral, entre os primeiros-oficiais do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, desde que tenham mais de três anos de bom e efectivo serviço, ou entre diplomados com curso superior.
 
 2. Neste último caso, a nomeação será feita, conforme as circunstâncias, nos termos do artigo 32.º, n.º 1, ou do artigo 33.º do presente diploma.
 
-###### Art. 36.º Os concursos de promoção a escriturário-dactilógrafo de 1.ª classe obedecerão a regulamento aprovado por despacho do Presidente do Conselho.
+Art. 36.º Os concursos de promoção a escriturário-dactilógrafo de 1.ª classe obedecerão a regulamento aprovado por despacho do Presidente do Conselho.
 
-###### Art. 37.º - 1. O pessoal técnico ou administrativo cuja admissão seja exigida por necessidades eventuais ou extraordinárias dos serviços poderá ser contratado além do quadro ou requisitado no regime a que se refere o artigo 7.º do Decreto-Lei n.º 46910, de 19 de Março de 1966.
+Art. 37.º - 1. O pessoal técnico ou administrativo cuja admissão seja exigida por necessidades eventuais ou extraordinárias dos serviços poderá ser contratado além do quadro ou requisitado no regime a que se refere o artigo 7.º do Decreto-Lei n.º 46910, de 19 de Março de 1966.
 
 2. O número de requisitados não poderá ser superior a dez.
 
 3. Poderá ser atribuída aos requisitados uma gratificação mensal, de montante a fixar pelo Presidente do Conselho, ouvido o Ministro das Finanças, e paga de conta da verba por onde serão liquidados os seus vencimentos, na hipótese prevista no § 3.º do artigo 2.º do [Decreto-Lei n.º 39222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39222-1953-643880), de 26 de Maio de 1953.
 
-###### Art. 38.º - 1. O secretário-geral poderá propor superiormente:
+Art. 38.º - 1. O secretário-geral poderá propor superiormente:
 
 a) A constituição de comissões de estudo e grupos de trabalho, cujas composição e normas de funcionamento serão estabelecidas pelo Presidente do Conselho, que igualmente fixará as condições de remuneração dos respectivos membros;
 
@@ -451,43 +523,43 @@ b) A admissão de pessoal em regime de prestação de serviço, bem como o convi
 
 3. As remunerações fixadas nos termos dos números anteriores serão pagas por força de verba global a inscrever para tal fim no orçamento da Secretaria-Geral.
 
-###### Art. 39.º O secretário-geral será substituído, nas suas faltas ou impedimentos, pelo director de serviços da Reforma Administrativa; e este, pelo chefe de divisão que for designado por despacho do secretário-geral.
+Art. 39.º O secretário-geral será substituído, nas suas faltas ou impedimentos, pelo director de serviços da Reforma Administrativa; e este, pelo chefe de divisão que for designado por despacho do secretário-geral.
 
 IV
 
 Disposições diversas
 
-###### Art. 40.º Quando não se encontre provido o cargo de Ministro de Estado, poderá o Presidente do Conselho delegar em algum ou alguns dos Ministros os poderes a que se refere o n.º 2 da base IX da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283).
+Art. 40.º Quando não se encontre provido o cargo de Ministro de Estado, poderá o Presidente do Conselho delegar em algum ou alguns dos Ministros os poderes a que se refere o n.º 2 da base IX da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283).
 
-###### Art. 41.º - 1. Para efeitos de mobilização industrial e da mão-de-obra, bem como do abastecimento e da repartição de matérias-primas indispensáveis à laboração de indústrias vitais para o País, poderá o Presidente do Conselho, quando julgue necessário, criar delegados da mobilização civil junto das empresas concessionárias de serviços públicos ou que explorem indústrias de interesse nacional.
+Art. 41.º - 1. Para efeitos de mobilização industrial e da mão-de-obra, bem como do abastecimento e da repartição de matérias-primas indispensáveis à laboração de indústrias vitais para o País, poderá o Presidente do Conselho, quando julgue necessário, criar delegados da mobilização civil junto das empresas concessionárias de serviços públicos ou que explorem indústrias de interesse nacional.
 
 2. Nas empresas em que existam delegados do Governo, desempenharão estes, por inerência, as funções de delegados da mobilização civil.
 
-###### Art. 42.º Os directores-gerais da Presidência do Conselho e funcionários equiparados poderão receber delegação de competência do Presidente do Conselho para despacharem assuntos relativos às funções de administração geral que corram pelos respectivos serviços.
+Art. 42.º Os directores-gerais da Presidência do Conselho e funcionários equiparados poderão receber delegação de competência do Presidente do Conselho para despacharem assuntos relativos às funções de administração geral que corram pelos respectivos serviços.
 
-###### Art. 43.º - 1. Com vista a proporcionar melhor conhecimento mútuo da orgânica e das necessidades da Administração e a preparar condições de mais eficaz colaboração entre os serviços, poderão os funcionários da Secretaria-Geral ser transitòriamente deslocados para prestar serviço em organismos dependentes de qualquer departamento ministerial e, inversamente, poderão funcionários destes organismos ser deslocados para a Secretaria-Geral em idênticas condições.
+Art. 43.º - 1. Com vista a proporcionar melhor conhecimento mútuo da orgânica e das necessidades da Administração e a preparar condições de mais eficaz colaboração entre os serviços, poderão os funcionários da Secretaria-Geral ser transitòriamente deslocados para prestar serviço em organismos dependentes de qualquer departamento ministerial e, inversamente, poderão funcionários destes organismos ser deslocados para a Secretaria-Geral em idênticas condições.
 
 2. As deslocações previstas no número anterior não prejudicam de qualquer forma a situação dos funcionários perante os serviços a que pertencem.
 
 3. As deslocações dependem de autorização do secretário-geral e dos dirigentes dos serviços interessados, os quais acordarão no programa e duração dos trabalhos a efectuar em comum pelos respectivos funcionários.
 
-###### Art. 44.º Quando os trabalhos em curso o aconselhem, o secretário-geral poderá determinar que o pessoal atribuído a cada serviço, nos termos dos artigos 15.º, 17.º e 19.º, preste a qualquer dos outros a colaboração tida por conveniente ou coadjuve a realização dos mesmos trabalhos.
+Art. 44.º Quando os trabalhos em curso o aconselhem, o secretário-geral poderá determinar que o pessoal atribuído a cada serviço, nos termos dos artigos 15.º, 17.º e 19.º, preste a qualquer dos outros a colaboração tida por conveniente ou coadjuve a realização dos mesmos trabalhos.
 
-###### Art. 45.º - 1. O secretário-geral poderá designar um dos chefes de secção da Secretaria-Geral para superintender directamente nas actividades relacionadas com o apoio administrativo dos Gabinetes da Presidência do Conselho, conforme o disposto na alínea d) do artigo 5.º deste decreto-lei.
+Art. 45.º - 1. O secretário-geral poderá designar um dos chefes de secção da Secretaria-Geral para superintender directamente nas actividades relacionadas com o apoio administrativo dos Gabinetes da Presidência do Conselho, conforme o disposto na alínea d) do artigo 5.º deste decreto-lei.
 
 2. Ao chefe de secção referido no número anterior poderá ser atribuída uma gratificação, de montante a fixar pelo Presidente do Conselho.
 
-###### Art. 46.º Nos quadros do pessoal da Secretaria-Geral da Presidência da República e da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa são criados, respectivamente, cinco e dois lugares de motorista de 1.ª classe e extintos, também respectivamente, igual número de lugares de motorista de 2.ª classe.
+Art. 46.º Nos quadros do pessoal da Secretaria-Geral da Presidência da República e da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa são criados, respectivamente, cinco e dois lugares de motorista de 1.ª classe e extintos, também respectivamente, igual número de lugares de motorista de 2.ª classe.
 
-###### Art. 47.º - 1. É aumentado um lugar de guarda-nocturno ao quadro do pessoal da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa.
+Art. 47.º - 1. É aumentado um lugar de guarda-nocturno ao quadro do pessoal da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa.
 
 2. Ao cabo-bombeiro que prestar serviços de inspecção e vigilância contra incêndios na mesma Secretaria-Geral será atribuída uma gratificação mensal de montante a fixar pelo Presidente do Conselho.
 
-###### Art. 48.º - 1. É criado na Secretaria-Geral da Presidência do Conselho o quadro do pessoal assalariado, composto por doze auxiliares de limpeza, com a remuneração mensal de 1200$00.
+Art. 48.º - 1. É criado na Secretaria-Geral da Presidência do Conselho o quadro do pessoal assalariado, composto por doze auxiliares de limpeza, com a remuneração mensal de 1200$00.
 
 2. As auxiliares de limpeza ficam sujeitas ao regime de oito horas de trabalho diário, segundo horários a estabelecer pelo secretário-geral da Presidência do Conselho, de acordo com as conveniências do serviço.
 
-###### Art. 49.º - 1. O quadro do pessoal assalariado da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa é acrescido de doze auxiliares de limpeza, com a remuneração mensal de 1200$00.
+Art. 49.º - 1. O quadro do pessoal assalariado da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa é acrescido de doze auxiliares de limpeza, com a remuneração mensal de 1200$00.
 
 2. É aplicável a este pessoal o estabelecido no n.º 2 do artigo anterior, sendo a competência ali atribuída ao secretário-geral da Presidência do Conselho exercida pelo secretário-geral da Assembleia Nacional e da Câmara Corporativa.
 
@@ -495,35 +567,35 @@ V
 
 Disposições finais e transitórias
 
-###### Art. 50.º - 1. Os actuais funcionários dos quadros do Secretariado da Reforma Administrativa e da Secretaria-Geral da Presidência do Conselho consideram-se providos em lugares idênticos, ou de categoria equivalente, do quadro aprovado pelo presente diploma, independentemente de quaisquer formalidades, salvo, quanto aos primeiros, a anotação das novas situações pelo Tribunal de Contas.
+Art. 50.º - 1. Os actuais funcionários dos quadros do Secretariado da Reforma Administrativa e da Secretaria-Geral da Presidência do Conselho consideram-se providos em lugares idênticos, ou de categoria equivalente, do quadro aprovado pelo presente diploma, independentemente de quaisquer formalidades, salvo, quanto aos primeiros, a anotação das novas situações pelo Tribunal de Contas.
 
 2. Os técnicos de 2.ª classe e os técnicos auxiliares de 2.ª classe actualmente ao serviço do Secretariado da Reforma Administrativa, e admitidos nos termos do [Decreto-Lei n.º 27199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27199-1936-323371), de 16 de Novembro de 1936, transitam na mesma situação para o quadro da Secretaria-Geral, considerando-se este provisòriamente alterado, de acordo com o número de funcionários naquelas condições.
 
-###### Art. 51.º O restante pessoal ao serviço da Secretaria-Geral e do Secretariado da Reforma Administrativa manter-se-á em situações idênticas às actuais, devendo as mesmas ser oportunamente revistas de harmonia com as conveniências do serviço.
+Art. 51.º O restante pessoal ao serviço da Secretaria-Geral e do Secretariado da Reforma Administrativa manter-se-á em situações idênticas às actuais, devendo as mesmas ser oportunamente revistas de harmonia com as conveniências do serviço.
 
-###### Art. 52.º O lugar de inspector superior da mobilização civil só será extinto quando cessar a comissão de serviço que actualmente o funcionário nele provido vem exercendo no Ministério do Ultramar.
+Art. 52.º O lugar de inspector superior da mobilização civil só será extinto quando cessar a comissão de serviço que actualmente o funcionário nele provido vem exercendo no Ministério do Ultramar.
 
-###### Art. 53.º - 1. Nos lugares de motorista de 1.ª classe criados na Secretaria-Geral da Presidência da República pelo artigo 46.º deste diploma serão providos, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas, os motoristas de 2.ª classe que forem designados por despacho do Presidente do Conselho, sob proposta do secretário-geral da Presidência da República.
+Art. 53.º - 1. Nos lugares de motorista de 1.ª classe criados na Secretaria-Geral da Presidência da República pelo artigo 46.º deste diploma serão providos, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas, os motoristas de 2.ª classe que forem designados por despacho do Presidente do Conselho, sob proposta do secretário-geral da Presidência da República.
 
 2. Os actuais motoristas de 2.ª classe dos quadros do pessoal da Secretaria-Geral da Presidência do Conselho e da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa consideram-se providos, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas, nos lugares de motorista de 1.ª classe criados pelo presente decreto-lei em cada uma daquelas Secretarias-Gerais.
 
-###### Art. 54.º - 1. Mediante aprovação do Presidente do Conselho, sob proposta do secretário-geral respectivo, serão publicadas no Diário do Governo as listas nominativas do pessoal de limpeza actualmente ao serviço que, sem dependência de outras formalidades que não seja a anotação pelo Tribunal de Contas, se considera assalariado para lugares criados pelos artigos 48.º e 49.º
+Art. 54.º - 1. Mediante aprovação do Presidente do Conselho, sob proposta do secretário-geral respectivo, serão publicadas no Diário do Governo as listas nominativas do pessoal de limpeza actualmente ao serviço que, sem dependência de outras formalidades que não seja a anotação pelo Tribunal de Contas, se considera assalariado para lugares criados pelos artigos 48.º e 49.º
 
 2. Ao pessoal que constar das listas referidas no número anterior é aplicável o disposto no artigo 21.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969, em relação ao serviço prestado na situação anterior.
 
-###### Art. 55.º Mantêm-se em vigor as disposições relativas ao quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, que não forem contrariadas pelo disposto no presente diploma.
+Art. 55.º Mantêm-se em vigor as disposições relativas ao quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, que não forem contrariadas pelo disposto no presente diploma.
 
-###### Art. 56.º - 1. Este decreto-lei entra em vigor no dia 1 de Janeiro de 1971, considerando-se revogados, a partir dessa data, os Decretos-Leis n.os 28671, de 19 de Maio de 1938, 41383, de 22 de Novembro de 1957, e 48058, de 23 de Novembro de 1967.
+Art. 56.º - 1. Este decreto-lei entra em vigor no dia 1 de Janeiro de 1971, considerando-se revogados, a partir dessa data, os Decretos-Leis n.os 28671, de 19 de Maio de 1938, 41383, de 22 de Novembro de 1957, e 48058, de 23 de Novembro de 1967.
 
 2. O despacho previsto no n.º 1 do artigo 53.º e as listas nominativas a que se refere o artigo 54.º poderão ser publicados antes da data da entrada em vigor do presente diploma, mas para produzir efeitos a partir da mesma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Dezembro de 1970.**
+Promulgado em 16 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -577,4 +649,4 @@ Pessoal auxiliar:
 
 (nota b) Transitòriamente, o quadro compreende doze lugares, dos quais se extinguirão seis quando forem providas as seis vagas de escriturários-dactilógrafos de 1.ª classe. Entretanto, os vencimentos das unidades sobrantes serão abonadas por força da verba destinada aos escriturários-dactilógrafos de 1.ª classe.
 
-**O Presidente do Conselho, Marcello Caetano.**
+O Presidente do Conselho, Marcello Caetano.

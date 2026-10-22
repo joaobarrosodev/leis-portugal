@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1980-462183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26330f24b134c4e75f8d76b8d00386ab7275aa58e797981908d54c6e1b17a1a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02c1c783a84dae20d73a9406be6c56056aff29e83dbe60255bee57d6247508ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara dos Despachantes Oficiais
+- Estatuto
+- Reforma Aduaneira
+- Regimento
 relationships:
 - type: amended_by
   target: pt:dre:479415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479415:por
+  label: "Revogado o Estatuto aprovado pelo presente diploma, excepto as disposições referentes ao funcionamento dos actuais\
+    \ orgãos, as quais se manterão em vigor até à subsituição dos respectivos titulares, de acordo com as novas disposições\
+    \ estatutárias, pelo DEC LEI.173/98.1998.06.26.PCM, DR.IS-A [145]3\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1998-479415
+  date: '1998-06-26'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:57Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +113,11 @@ Considerando os consequentes ajustamentos aos Estatutos da Câmara dos Despachan
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovados os novos Estados da Câmara dos Despachantes Oficiais e seu Regimento, que vão publicados em anexo a este diploma.
+Artigo 1.º São aprovados os novos Estados da Câmara dos Despachantes Oficiais e seu Regimento, que vão publicados em anexo a este diploma.
 
-###### Art. 2.º Os artigos 455.º, 456.º, 459.º, 463.º, 464.º, 465.º, 467.º, 469.º, 470.º, 471.º, 476.º, 481.º e 482.º da Reforma Aduaneira passam a ter a seguinte redacção:
+Art. 2.º Os artigos 455.º, 456.º, 459.º, 463.º, 464.º, 465.º, 467.º, 469.º, 470.º, 471.º, 476.º, 481.º e 482.º da Reforma Aduaneira passam a ter a seguinte redacção:
 
-###### Art. 455.º É defeso ao despachante oficial:
+Art. 455.º É defeso ao despachante oficial:
 
 1.º Não concluir os serviços de que tenha sido encarregado, salvo por motivo justificado;
 
@@ -120,7 +139,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 3.º O disposto no n.º 7.º não abrange os casos de doença que forem mensalmente justificados, com atestado médico, perante o director da alfândega, o qual poderá, todavia, determinar as inspecções de saúde que julgar convenientes.
 
-###### Art. 456.º É dever do despachante oficial:
+Art. 456.º É dever do despachante oficial:
 
 1.º Tratar com o maior zelo os despachos que lhe forem confiados;
 
@@ -130,7 +149,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § único. São ainda deveres do despachante oficial os que constarem dos estatutos da respectiva câmara, designadamente os que se referem à percepção de honorários, que serão fixados de acordo com a tabela oficial em vigor.
 
-###### Art. 459.º Durante a sua ausência, nos termos do n.º 7 e do § 2.º do artigo 455.º, bem como nos casos de doença justificados de harmonia com o § 3.º do mesmo artigo, poderá o despachante oficial fazer-se substituir, sob sua responsabilidade:
+Art. 459.º Durante a sua ausência, nos termos do n.º 7 e do § 2.º do artigo 455.º, bem como nos casos de doença justificados de harmonia com o § 3.º do mesmo artigo, poderá o despachante oficial fazer-se substituir, sob sua responsabilidade:
 
 1.º Por um dos seus ajudantes maior de 21 anos de idade, no caso de exercer a sua profissão de despachante oficial em nome individual ou pertencer a uma sociedade constituída nos termos do Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados, em que seja ele o único despachante;
 
@@ -140,7 +159,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 2.º A ausência referida neste artigo não deverá exceder um ano, podendo, no entanto, o director-geral das Alfândegas prorrogar este prazo em casos devidamente fundamentados.
 
-###### Art. 463.º ...
+Art. 463.º ...
 
 1.º ...
 
@@ -156,9 +175,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 2.º ...
 
-###### Art. 464.º As penas de advertência e de repreensão verbal ou por escrito serão aplicadas sempre que o director da alfândega ou o chefe da delegação aduaneira o justifiquem e independentemente de organização de processo.
+Art. 464.º As penas de advertência e de repreensão verbal ou por escrito serão aplicadas sempre que o director da alfândega ou o chefe da delegação aduaneira o justifiquem e independentemente de organização de processo.
 
-###### Art. 465.º Sem prejuízo de outras infracções que também hajam de ser aplicadas, são especialmente previstas e punidas:
+Art. 465.º Sem prejuízo de outras infracções que também hajam de ser aplicadas, são especialmente previstas e punidas:
 
 1.º Com multa, e no caso de reincidência, com multa e suspensão, a inobservância dos n.os 1.º e 4.º do artigo 455.º, n.os 1.º e 2.º do artigo 456.º e artigo 457.º;
 
@@ -174,11 +193,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 § 3.º ...
 
-###### Art. 467.º Em tudo o que não esteja especialmente previsto neste capítulo, observar-se-á, na parte aplicável, o disposto no Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, designadamente o que consta das disposições do seu capítulo I e das relativas a circunstâncias atenuantes, agravantes e dirimentes, suspensão e prescrição de penas e forma de processo.
+Art. 467.º Em tudo o que não esteja especialmente previsto neste capítulo, observar-se-á, na parte aplicável, o disposto no Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, designadamente o que consta das disposições do seu capítulo I e das relativas a circunstâncias atenuantes, agravantes e dirimentes, suspensão e prescrição de penas e forma de processo.
 
-###### Art. 469.º A Câmara dos Despachantes Oficiais é uma pessoa colectiva de direito público e dela farão parte todos os despachantes oficiais, como condição indispensável ao exercício da sua profissão.
+Art. 469.º A Câmara dos Despachantes Oficiais é uma pessoa colectiva de direito público e dela farão parte todos os despachantes oficiais, como condição indispensável ao exercício da sua profissão.
 
-###### Art. 470.º São atribuições da Câmara dos Despachantes Oficiais e dos órgãos que a compõem:
+Art. 470.º São atribuições da Câmara dos Despachantes Oficiais e dos órgãos que a compõem:
 
 1.º A fidelidade intransigente aos princípios e normas que regem os seus estatutos, aprovados pelo Ministro das Finanças e do Plano;
 
@@ -192,11 +211,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 6.º Designar, quando tal lhe for pedido pelos interessados, o despachante oficial que há-de promover o desembaraço aduaneiro de mercadorias ou bagagens, velando a Câmara pela celeridade dos despachos de que os seus membros foram encarregados nos termos deste número.
 
-###### Art. 471.º No que respeita à sua organização interna e orientação técnica profissional, a Câmara dos Despachantes Oficiais depende do Ministério das Finanças e do Plano, através da Direcção-Geral das Alfândegas.
+Art. 471.º No que respeita à sua organização interna e orientação técnica profissional, a Câmara dos Despachantes Oficiais depende do Ministério das Finanças e do Plano, através da Direcção-Geral das Alfândegas.
 
-###### Art. 476.º Quando se trate de novas nomeações, os ajudantes de despachante oficial e os praticantes devem apresentar os documentos referidos nos n.os 1.º, 3.º, 4.º, 5.º, 7.º e 8.º do artigo 472.º e documento comprovativo de terem satisfeito as prescrições da Lei do Recrutamento e Serviço Militar, quando em nomeação anterior ainda não tenha sido presente.
+Art. 476.º Quando se trate de novas nomeações, os ajudantes de despachante oficial e os praticantes devem apresentar os documentos referidos nos n.os 1.º, 3.º, 4.º, 5.º, 7.º e 8.º do artigo 472.º e documento comprovativo de terem satisfeito as prescrições da Lei do Recrutamento e Serviço Militar, quando em nomeação anterior ainda não tenha sido presente.
 
-###### Art. 481.º Dar-se-á comunicação, em Ordem de Serviço, a todo o pessoal da respectiva alfândega, todas as vezes que:
+Art. 481.º Dar-se-á comunicação, em Ordem de Serviço, a todo o pessoal da respectiva alfândega, todas as vezes que:
 
 1.º For entregue ou cassada qualquer cédula;
 
@@ -206,29 +225,29 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4.º Se verificar qualquer alteração nos corpos gerentes das sociedades referidas no número antecedente.
 
-###### Art. 482.º Os directores das alfândegas, quando o julguem conveniente, distribuirão, em Ordem de Serviço, listas alfabéticas com os nomes dos indivíduos legitimamente portadores de cédulas.
+Art. 482.º Os directores das alfândegas, quando o julguem conveniente, distribuirão, em Ordem de Serviço, listas alfabéticas com os nomes dos indivíduos legitimamente portadores de cédulas.
 
 § único. Do mesmo modo procederão com as designações de sociedades, seguidas dos nomes e números de cédulas dos respectivos corpos gerentes, constituídas nos termos do Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados.
 
-###### Art. 3.º É eliminado da Reforma Aduaneira o § único do artigo 477.º
+Art. 3.º É eliminado da Reforma Aduaneira o § único do artigo 477.º
 
-###### Art. 4.º É adicionado à Reforma Aduaneira o artigo 485.º-A, com a seguinte redacção:
+Art. 4.º É adicionado à Reforma Aduaneira o artigo 485.º-A, com a seguinte redacção:
 
-###### Art. 485.º-A. As alfândegas registarão, igualmente em livro próprio, por ordem cronológica da sua constituição, as sociedades formadas ao abrigo do Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados.
+Art. 485.º-A. As alfândegas registarão, igualmente em livro próprio, por ordem cronológica da sua constituição, as sociedades formadas ao abrigo do Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados.
 
 § único. Paralelamente ao registo a que se refere o corpo deste artigo, constituir-se-á um ficheiro, por ordem alfabética, das denominações das mesmas sociedades, com indicação do Diário da República em que foram publicados o seu pacto social e eventuais alterações e, bem assim, a indicação de outros elementos essenciais, tais como os nomes e números das cédulas dos seus sócios gerentes, o montante do capital social, o número de empregados, etc.
 
-###### Art. 5.º Poderá o Ministro das Finanças e do Plano alterar, por decreto, o Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados, aprovado pelo artigo 9.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro.
+Art. 5.º Poderá o Ministro das Finanças e do Plano alterar, por decreto, o Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados, aprovado pelo artigo 9.º do [Decreto-Lei n.º 513-F1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-f1-1979-147408), de 27 de Dezembro.
 
-###### Art. 6.º Poderá o Ministro das Finanças e do Plano alterar, por portaria, os Estatutos da Câmara dos Despachantes Oficiais, aprovados pelo artigo 1.º do presente diploma.
+Art. 6.º Poderá o Ministro das Finanças e do Plano alterar, por portaria, os Estatutos da Câmara dos Despachantes Oficiais, aprovados pelo artigo 1.º do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 24 de Setembro de 1980.**
+Promulgado em 24 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Estatutos da Câmara dos Despachantes Oficiais
 
@@ -236,19 +255,19 @@ Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A Câmara dos Despachantes Oficiais é uma pessoa colectiva de direito público a quem cabe, nos termos da Reforma Aduaneira e dos presentes Estatutos, colaborar no exercício da função alfandegária, sob a superintendência do Ministro das Finanças e do Plano.
+Artigo 1.º A Câmara dos Despachantes Oficiais é uma pessoa colectiva de direito público a quem cabe, nos termos da Reforma Aduaneira e dos presentes Estatutos, colaborar no exercício da função alfandegária, sob a superintendência do Ministro das Finanças e do Plano.
 
 § 1.º A Câmara dos Despachantes Oficiais vai designada nas subsequentes disposições dos presentes estatutos simplesmente por CDO.
 
 § 2.º O exercício da profissão de despachante oficial depende da inscrição na CDO.
 
-###### Art. 2.º - 1 - A CDO tem a sua sede em Lisboa e uma secção no Porto.
+Art. 2.º - 1 - A CDO tem a sua sede em Lisboa e uma secção no Porto.
 
 2 - A secção do Porto abrange os despachantes pertencentes aos quadros da circunscrição aduaneira do Porto.
 
 3 - A CDO terá delegados nas regiões autónomas.
 
-###### Art. 3.º A CDO tem como atribuições:
+Art. 3.º A CDO tem como atribuições:
 
 1) Estudar, defender, representar e apoiar os interesses dos despachantes oficiais em tudo o que respeite ao exercício da sua profissão, designadamente nos aspectos morais, profissionais e sócio-económicos, sendo o único organismo reconhecido como representante legal de todos os despachantes oficiais;
 
@@ -264,9 +283,9 @@ b) À observância do seu código deontológico.
 
 5) Assegurar o cumprimento de todas as obrigações que lhe sejam impostas pela Reforma Aduaneira.
 
-###### Art. 4.º A CDO pode estabelecer e desenvolver relações com entidades congéneres estrangeiras com vista à melhor prossecução das suas atribuições.
+Art. 4.º A CDO pode estabelecer e desenvolver relações com entidades congéneres estrangeiras com vista à melhor prossecução das suas atribuições.
 
-###### Art. 5.º A CDO tem os seguintes órgãos:
+Art. 5.º A CDO tem os seguintes órgãos:
 
 a) Assembleia geral;
 
@@ -280,23 +299,23 @@ e) Conselho deontológico.
 
 ### CAPÍTULO II — Da assembleia geral
 
-###### Art. 6.º - 1 - A assembleia geral é o órgão máximo da CDO e é constituída por todos os seus associados no pleno uso dos seus direitos.
+Art. 6.º - 1 - A assembleia geral é o órgão máximo da CDO e é constituída por todos os seus associados no pleno uso dos seus direitos.
 
 2 - A assembleia geral reúne em regra em Lisboa ou em qualquer outro local a designar pelo presidente da mesa.
 
-###### Art. 7.º Compete à assembleia geral eleger os corpos gerentes, aprovar o orçamento e contas e ainda deliberar sobre qualquer outro assunto que se enquadre nas atribuições da CDO.
+Art. 7.º Compete à assembleia geral eleger os corpos gerentes, aprovar o orçamento e contas e ainda deliberar sobre qualquer outro assunto que se enquadre nas atribuições da CDO.
 
-###### Art. 8.º - 1 - A mesa da assembleia geral compõe-se de um presidente e dois secretários, eleitos por um período de dois anos.
+Art. 8.º - 1 - A mesa da assembleia geral compõe-se de um presidente e dois secretários, eleitos por um período de dois anos.
 
 2 - São também designados um presidente e dois secretários suplentes, que entrarão em funções no caso de impedimento dos membros efectivos.
 
-###### Art. 9.º - 1 - A assembleia geral é convocada pelo respectivo presidente ou por quem o substituir no seu impedimento, com a antecedência mínima de oito dias, devendo a ordem dos trabalhos constar do aviso convocatório que será publicado em, pelo menos, dois jornais diários, um de Lisboa e outro do Porto, e conterá ainda o dia, hora e local da reunião.
+Art. 9.º - 1 - A assembleia geral é convocada pelo respectivo presidente ou por quem o substituir no seu impedimento, com a antecedência mínima de oito dias, devendo a ordem dos trabalhos constar do aviso convocatório que será publicado em, pelo menos, dois jornais diários, um de Lisboa e outro do Porto, e conterá ainda o dia, hora e local da reunião.
 
 2 - O presidente da mesa convocará também, por circular, todos os despachantes oficiais.
 
 3 - A assembleia geral só pode deliberar sobre os assuntos constantes do aviso convocatório.
 
-###### Art. 10.º - 1 - A assembleia geral considera-se constituída e pode funcionar desde que à hora marcada no aviso convocatório esteja presente metade e mais um dos seus membros.
+Art. 10.º - 1 - A assembleia geral considera-se constituída e pode funcionar desde que à hora marcada no aviso convocatório esteja presente metade e mais um dos seus membros.
 
 2 - Não existindo o quórum referido no número anterior, a assembleia funcionará, uma hora depois da primeira convocação, com qualquer número de despachantes oficiais e com a mesma ordem de trabalhos.
 
@@ -304,7 +323,7 @@ e) Conselho deontológico.
 
 4 - Não podem participar na assembleia geral os despachantes oficiais cujas contribuições para a CDO estejam em dívida há mais de sessenta dias ou que tenham sido objecto de uma medida de suspensão, enquanto tal suspensão vigorar.
 
-###### Art. 11.º - 1 - A assembleia geral reunirá ordinariamente em Março e Dezembro de cada ano, em dia para esse fim designado pelo presidente da mesa.
+Art. 11.º - 1 - A assembleia geral reunirá ordinariamente em Março e Dezembro de cada ano, em dia para esse fim designado pelo presidente da mesa.
 
 2 - Na reunião ordinária da assembleia geral realizada em Março são apreciados o relatório e contas do ano económico anterior.
 
@@ -312,11 +331,11 @@ e) Conselho deontológico.
 
 4 - Os documentos necessários à apreciação a que se referem os n.os 2 e 3 estarão patentes na sede da Câmara durante os oito dias que antecederem a data da assembleia geral.
 
-###### Art. 12.º A assembleia geral extraordinária reúne a requerimento da direcção nacional, da direcção da secção, do plenário do conselho deontológico ou de, pelo menos, quarenta despachantes oficiais no pleno uso dos seus direitos.
+Art. 12.º A assembleia geral extraordinária reúne a requerimento da direcção nacional, da direcção da secção, do plenário do conselho deontológico ou de, pelo menos, quarenta despachantes oficiais no pleno uso dos seus direitos.
 
 ### CAPÍTULO III — Da direcção nacional
 
-###### Art. 13.º - 1 - A direcção nacional é constituída por um presidente, dois vice-presidente, um director-secretário, um director-tesoureiro, um director de fomento sectorial e dois directores-adjuntos, eleitos em assembleia geral para o efeito, tendo o presidente voto de qualidade.
+Art. 13.º - 1 - A direcção nacional é constituída por um presidente, dois vice-presidente, um director-secretário, um director-tesoureiro, um director de fomento sectorial e dois directores-adjuntos, eleitos em assembleia geral para o efeito, tendo o presidente voto de qualidade.
 
 2 - Com os efectivos é eleito igual número de suplentes.
 
@@ -330,9 +349,9 @@ e) Conselho deontológico.
 
 7 - O mandato tem a duração de dois anos e cessa logo que tomarem posse os novos titulares.
 
-###### Art. 14.º A direcção nacional reúne, no mínimo, uma vez por semana em Lisboa, devendo, no entanto, reunir no Porto, em conjunto com a direcção da secção, pelo menos uma vez em cada semestre.
+Art. 14.º A direcção nacional reúne, no mínimo, uma vez por semana em Lisboa, devendo, no entanto, reunir no Porto, em conjunto com a direcção da secção, pelo menos uma vez em cada semestre.
 
-###### Art. 15.º À direcção nacional compete o exercício de todos os poderes necessários à prossecução das atribuições da CDO e que não estejam especificamente reservados ou atribuídos a outro órgão. Nomeadamente, compete-lhe:
+Art. 15.º À direcção nacional compete o exercício de todos os poderes necessários à prossecução das atribuições da CDO e que não estejam especificamente reservados ou atribuídos a outro órgão. Nomeadamente, compete-lhe:
 
 a) Coordenar, orientar e defender os despachantes oficiais em tudo o que respeite à actividade da classe no âmbito nacional ou internacional;
 
@@ -362,23 +381,23 @@ m) Elaborar o registo cadastral dos despachantes de todo o País;
 
 n) Dar os laudos que lhe forem solicitados.
 
-###### Art. 16.º - 1 - A direcção nacional responde perante a assembleia geral, que pode votar a sua demissão mesmo antes do termo do mandato.
+Art. 16.º - 1 - A direcção nacional responde perante a assembleia geral, que pode votar a sua demissão mesmo antes do termo do mandato.
 
 2 - Os membros da direcção nacional que votem contra uma deliberação ou que, não tendo assistido à sessão em que foi tomada, contra ela protestem por escrito na seguinte à data em que da mesma tiveram conhecimento ficam isentos de responsabilidade pela mesma.
 
 ### CAPÍTULO IV — Da assembleia da secção
 
-###### Art. 17.º - 1 - A assembleia da secção é o órgão máximo da secção e é constituída por todos os seus associados no pleno uso dos seus direitos.
+Art. 17.º - 1 - A assembleia da secção é o órgão máximo da secção e é constituída por todos os seus associados no pleno uso dos seus direitos.
 
 2 - A assembleia reúne no Porto e tem por competência eleger os corpos gerentes, aprovar o respectivo orçamento e contas e ainda deliberar sobre qualquer assunto que se enquadre nas suas atribuições.
 
-###### Art. 18.º - 1 - A mesa da assembleia da secção compõe-se de um presidente e dois secretários, eleitos por um período de dois anos.
+Art. 18.º - 1 - A mesa da assembleia da secção compõe-se de um presidente e dois secretários, eleitos por um período de dois anos.
 
 2 - São também designados um presidente e dois secretários suplentes, que entrarão em funções no caso de impedimento dos membros efectivos.
 
-###### Art. 19.º O funcionamento da assembleia da secção regular-se-á, em tudo o que lhe for aplicável, pelo disposto nos artigos 9.º e seguintes destes estatutos.
+Art. 19.º O funcionamento da assembleia da secção regular-se-á, em tudo o que lhe for aplicável, pelo disposto nos artigos 9.º e seguintes destes estatutos.
 
-###### Art. 20.º A assembleia da secção reúne:
+Art. 20.º A assembleia da secção reúne:
 
 1) Em sessões ordinárias:
 
@@ -390,7 +409,7 @@ b) Em Novembro de cada ano para apreciação e votação do orçamento para o an
 
 ### CAPÍTULO V — Da direcção da secção
 
-###### Art. 21.º - 1 - A direcção da secção é constituída por um presidente, um director-secretário, um director-Tesoureiro e dois directores-adjuntos.
+Art. 21.º - 1 - A direcção da secção é constituída por um presidente, um director-secretário, um director-Tesoureiro e dois directores-adjuntos.
 
 2 - Com os efectivos é eleito igual número de suplentes.
 
@@ -404,9 +423,9 @@ b) Em Novembro de cada ano para apreciação e votação do orçamento para o an
 
 7 - O mandato tem a duração de dois anos e cessa logo que tomarem posse os novos titulares.
 
-###### Art. 22.º A direcção da secção reúne, no mínimo, uma vez por semana no Porto, devendo, no entanto, reunir em Lisboa, em conjunto com a direcção nacional, pelo menos uma vez em cada semestre.
+Art. 22.º A direcção da secção reúne, no mínimo, uma vez por semana no Porto, devendo, no entanto, reunir em Lisboa, em conjunto com a direcção nacional, pelo menos uma vez em cada semestre.
 
-###### Art. 23.º Compete à direcção da secção ocupar-se de todas as questões que digam respeito à secção e aos despachantes nela inscritos e, em especial:
+Art. 23.º Compete à direcção da secção ocupar-se de todas as questões que digam respeito à secção e aos despachantes nela inscritos e, em especial:
 
 a) Elaborar o registo cadastral dos despachantes da secção e transmiti-lo, para efeitos do disposto na alínea m) do artigo 15.º destes Estatutos, à direcção nacional;
 
@@ -428,7 +447,7 @@ i) Requerer a convocação da assembleia geral extraordinária sempre que entend
 
 j) Nomear comissões para a execução de trabalhos excepcionais.
 
-###### Art. 24.º - 1 - A direcção da secção responde perante a direcção nacional e perante a assembleia da secção.
+Art. 24.º - 1 - A direcção da secção responde perante a direcção nacional e perante a assembleia da secção.
 
 2 - A direcção da secção pode ser demitida pela assembleia da secção ou, em casos de extrema gravidade, pela assembleia geral.
 
@@ -436,11 +455,11 @@ j) Nomear comissões para a execução de trabalhos excepcionais.
 
 ### CAPÍTULO VI — Oo conselho deontológico
 
-###### Art. 25.º - 1 - O conselho deontológico é o órgão orientador, fiscalizador e disciplinar da actividade profissional do despachante oficial e das suas normas éticas.
+Art. 25.º - 1 - O conselho deontológico é o órgão orientador, fiscalizador e disciplinar da actividade profissional do despachante oficial e das suas normas éticas.
 
 2 - Na sua actuação é totalmente independente dos restantes órgãos da CDO, exceptuando a assembleia geral.
 
-###### Art. 26.º - 1 - O conselho deontológico, eleito nos termos do n.º 3 do artigo 11.º destes Estatutos, compõe-se de duas secções:
+Art. 26.º - 1 - O conselho deontológico, eleito nos termos do n.º 3 do artigo 11.º destes Estatutos, compõe-se de duas secções:
 
 a) Secção de Lisboa - Constituída por três despachantes oficiais desta Alfândega, um dos quais presidirá;
 
@@ -456,9 +475,9 @@ b) Secção do Porto - Constituída por três despachantes oficiais desta Alfân
 
 6 - O mandato do novo membro termina com o dos demais.
 
-###### Art. 27.º Só podem ser indigitados e eleitos para o conselho deontológico despachantes oficiais com mais de dez anos de exercício da profissão.
+Art. 27.º Só podem ser indigitados e eleitos para o conselho deontológico despachantes oficiais com mais de dez anos de exercício da profissão.
 
-###### Art. 28.º O conselho deontológico reúne:
+Art. 28.º O conselho deontológico reúne:
 
 1) A nível de secção, pelo menos uma vez por semana;
 
@@ -470,7 +489,7 @@ b) Sempre que a gravidade da sanção proposta implique suspensão ou demissão;
 
 c) Nos casos previstos na alínea anterior o plenário só poderá deliberar com a presença da totalidade dos seus membros.
 
-###### Art. 29.º Ao conselho deontológico compete:
+Art. 29.º Ao conselho deontológico compete:
 
 1) Às secções de Lisboa e do Porto:
 
@@ -500,11 +519,11 @@ b) Julgar os processos disciplinares instaurados a despachantes oficiais que lhe
 
 c) Julgar os recursos interpostos por despachantes oficiais de sanções aplicadas pelas secções do conselho deontológico.
 
-###### Art. 30.º As decisões do plenário do conselho deontológico que determinem a aplicação das penas referidas nas alíneas d) e e) do artigo 47.º e a suspensão prevista no artigo 49.º carecem de homologação do Ministro das Finanças e do Plano.
+Art. 30.º As decisões do plenário do conselho deontológico que determinem a aplicação das penas referidas nas alíneas d) e e) do artigo 47.º e a suspensão prevista no artigo 49.º carecem de homologação do Ministro das Finanças e do Plano.
 
 ### CAPÍTULO VII — Das receitas
 
-###### Art. 31.º São receitas da CDO:
+Art. 31.º São receitas da CDO:
 
 1):
 
@@ -522,27 +541,27 @@ f) Quaisquer outras receitas eventuais;
 
 2) Uma percentagem das receitas referidas no número anterior, cobradas pela secção do Porto, constitui receita da mesma.
 
-###### Art. 32.º A importância da jóia, das quotas, do preço dos selos e a percentagem fixada no n.º 2 do artigo anterior são fixadas ou alteradas em reunião extraordinária da assembleia geral expressamente convocada para esse efeito.
+Art. 32.º A importância da jóia, das quotas, do preço dos selos e a percentagem fixada no n.º 2 do artigo anterior são fixadas ou alteradas em reunião extraordinária da assembleia geral expressamente convocada para esse efeito.
 
 ### CAPÍTULO VIII — Das eleições
 
-###### Art. 33.º A eleição dos órgãos da CDO realiza-se na segunda das reuniões ordinárias referidas no n.º 1 do artigo 11.º e na alínea b) do n.º 1 do artigo 20.º, consoante se trate de âmbito nacional ou regional.
+Art. 33.º A eleição dos órgãos da CDO realiza-se na segunda das reuniões ordinárias referidas no n.º 1 do artigo 11.º e na alínea b) do n.º 1 do artigo 20.º, consoante se trate de âmbito nacional ou regional.
 
-###### Art. 34.º Não podem ser eleitores os despachantes oficiais que se encontrem nalgum dos casos seguintes:
+Art. 34.º Não podem ser eleitores os despachantes oficiais que se encontrem nalgum dos casos seguintes:
 
 1) Estarem, no momento das eleições, cumprindo pena disciplinar de suspensão;
 
 2) Estarem com as contribuições para a CDO em atraso há mais de seis meses.
 
-###### Art. 35.º Não são elegíveis os despachantes oficiais que, para além de não preencherem os requisitos especificamente exigíveis para os cargos a que se candidatam:
+Art. 35.º Não são elegíveis os despachantes oficiais que, para além de não preencherem os requisitos especificamente exigíveis para os cargos a que se candidatam:
 
 1) Não possam ser eleitores nos termos do artigo anterior;
 
 2) Tenham sofrido pena disciplinar superior a multa nos dois últimos anos.
 
-###### Art. 36.º Os eleitores ausentes poderão votar por correspondência, salvo se pertencerem à alfândega da localidade onde se realiza a assembleia geral.
+Art. 36.º Os eleitores ausentes poderão votar por correspondência, salvo se pertencerem à alfândega da localidade onde se realiza a assembleia geral.
 
-###### Art. 37.º - 1 - O voto para a eleição dos órgãos da CDO é obrigatório.
+Art. 37.º - 1 - O voto para a eleição dos órgãos da CDO é obrigatório.
 
 2 - O despachante que deixar de votar paga a multa de 1000$00, salvo caso de força maior, devidamente comprovado.
 
@@ -552,7 +571,7 @@ f) Quaisquer outras receitas eventuais;
 
 ### CAPÍTULO IX — Definição
 
-###### Art. 38.º - 1 - O despachante oficial é um técnico especializado em matéria aduaneira, procedendo às formalidades necessárias ao desembaraço, por conta de outrem, de mercadorias e meios de transporte.
+Art. 38.º - 1 - O despachante oficial é um técnico especializado em matéria aduaneira, procedendo às formalidades necessárias ao desembaraço, por conta de outrem, de mercadorias e meios de transporte.
 
 2 - Para poder exercer a profissão o despachante oficial deve:
 
@@ -564,13 +583,13 @@ b) Achar-se inscrito como associado da CDO.
 
 ### CAPÍTULO X — Do exercício da profissão
 
-###### Art. 39.º - 1 - Os despachantes oficiais podem exercer a sua actividade individualmente ou em sociedade.
+Art. 39.º - 1 - Os despachantes oficiais podem exercer a sua actividade individualmente ou em sociedade.
 
 2 - As sociedades referidas no número anterior só poderão ser constituídas nos termos e para os efeitos consignados no Regulamento das Sociedades de Despachantes Oficiais e Seus Empregados.
 
 ### CAPÍTULO XI — Dos direitos
 
-###### Art. 40.º Os despachantes oficiais têm direito a:
+Art. 40.º Os despachantes oficiais têm direito a:
 
 1) Receber toda a protecção da CDO, à qual recorrerão sempre que lhes sejam cerceados os direitos ou lhes seja perturbado o regular exercício das suas funções;
 
@@ -590,7 +609,7 @@ b) Achar-se inscrito como associado da CDO.
 
 ### CAPÍTULO XII — Dos deveres
 
-###### Art. 41.º Os despachantes oficiais, para além dos deveres estabelecidos na legislação aduaneira, são obrigados a:
+Art. 41.º Os despachantes oficiais, para além dos deveres estabelecidos na legislação aduaneira, são obrigados a:
 
 1) Acatar as disposições destes Estatutos, dos regulamentos emanados dos órgãos da CDO e as deliberações e directivas dos mesmos;
 
@@ -616,7 +635,7 @@ b) Achar-se inscrito como associado da CDO.
 
 ### CAPÍTULO XIII — Da promoção e difusão da deontologia
 
-###### Art. 42.º A CDO, através dos seus órgãos, nomeadamente do conselho deontológico, procurará:
+Art. 42.º A CDO, através dos seus órgãos, nomeadamente do conselho deontológico, procurará:
 
 1) Promover entre os seus associados o respeito pelas normas éticas necessárias à salvaguarda do prestígio da profissão de despachante oficial;
 
@@ -624,7 +643,7 @@ b) Achar-se inscrito como associado da CDO.
 
 3) Difundir entre o público cliente dos despachantes oficiais a sua imagem de notoriedade, realçando a sua relevância como colaboradores imprescindíveis aos importadores e exportadores e à administração.
 
-###### Art. 43.º A promoção e difusão referidas no artigo anterior far-se-ão, nomeadamente, através:
+Art. 43.º A promoção e difusão referidas no artigo anterior far-se-ão, nomeadamente, através:
 
 1) De artigos insertos em órgãos de comunicação social;
 
@@ -638,7 +657,7 @@ b) Achar-se inscrito como associado da CDO.
 
 ### CAPÍTULO XIV — Do processo disciplinar
 
-###### Art. 44.º - 1 - Considera-se infracção disciplinar o facto voluntário praticado por um despachante oficial com violação de algum dos deveres enumerados nestes Estatutos.
+Art. 44.º - 1 - Considera-se infracção disciplinar o facto voluntário praticado por um despachante oficial com violação de algum dos deveres enumerados nestes Estatutos.
 
 2 - A violação dos deveres é punível, quer consista em acção quer em omissão, independentemente de ter produzido resultado.
 
@@ -660,15 +679,15 @@ g) Exercer a sua profissão em regime de trabalho por conta de outrem, sem preju
 
 ### CAPÍTULO XV — Do processo disciplinar
 
-###### Art. 45.º - 1 - Quando lhe for feita qualquer participação ou tiver conhecimento de factos que constituam infracções disciplinares, o conselho deontológico, através das suas secções, nomeará, no prazo máximo de dez dias, um advogado como instrutor do processo.
+Art. 45.º - 1 - Quando lhe for feita qualquer participação ou tiver conhecimento de factos que constituam infracções disciplinares, o conselho deontológico, através das suas secções, nomeará, no prazo máximo de dez dias, um advogado como instrutor do processo.
 
 2 - Como assessor do advogado referido no número anterior, o conselho deontológico nomeará igualmente um despachante oficial encarregado de prestar esclarecimentos específicos ao exercício da profissão.
 
-###### Art. 46.º A instrução do processo disciplinar regular-se-á, em tudo o que lhe for aplicável, pelas disposições do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
+Art. 46.º A instrução do processo disciplinar regular-se-á, em tudo o que lhe for aplicável, pelas disposições do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
 
 ### CAPÍTULO XVI — Das penas disciplinares
 
-###### Art. 47.º - 1 - Consoante a respectiva gravidade, as infracções disciplinares são puníveis com uma das seguintes penas:
+Art. 47.º - 1 - Consoante a respectiva gravidade, as infracções disciplinares são puníveis com uma das seguintes penas:
 
 a) Advertência;
 
@@ -684,15 +703,15 @@ e) Demissão.
 
 3 - As decisões condenatórias transitadas em julgado devem ser comunicadas pela direcção nacional à Direcção-Geral das Alfândegas.
 
-###### Art. 48.º - 1 - As penas disciplinares são imprescritíveis, mas o respectivo procedimento prescreve no prazo de cinco anos.
+Art. 48.º - 1 - As penas disciplinares são imprescritíveis, mas o respectivo procedimento prescreve no prazo de cinco anos.
 
 2 - Se as infracções constituírem simultaneamente ilícito penal, prescrevem no mesmo prazo que o procedimento criminal, se este for superior.
 
-###### Art. 49.º - 1 - O despachante oficial que no prazo de trinta dias não pagar a multa em que for condenado em processo disciplinar é suspenso pelo conselho deontológico até cumprimento da decisão, o qual dará conhecimento à direcção nacional para efeito do disposto no n.º 3 do artigo 47.º
+Art. 49.º - 1 - O despachante oficial que no prazo de trinta dias não pagar a multa em que for condenado em processo disciplinar é suspenso pelo conselho deontológico até cumprimento da decisão, o qual dará conhecimento à direcção nacional para efeito do disposto no n.º 3 do artigo 47.º
 
 2 - Em caso de dificuldades financeiras devidamente comprovadas, pode o conselho deontológico autorizar o pagamento fraccionado das multas para além do prazo estabelecido no número anterior.
 
-###### Art. 50.º Constituem circunstâncias atenuantes da infracção disciplinar:
+Art. 50.º Constituem circunstâncias atenuantes da infracção disciplinar:
 
 1) O exercício da profissão há mais de dez anos com exemplar comportamento;
 
@@ -700,7 +719,7 @@ e) Demissão.
 
 3) A provocação sofrida durante o exercício profissional.
 
-###### Art. 51.º - 1 - Constituem circunstâncias agravantes da infracção disciplinar:
+Art. 51.º - 1 - Constituem circunstâncias agravantes da infracção disciplinar:
 
 a) A vontade deliberada de, pela conduta seguida, produzir resultados prejudiciais ao prestígio da CDO, ou aos interesses gerais, ou à função que desempenha;
 
@@ -726,7 +745,7 @@ c) A sucessão de faltas consiste no cometimento de infracções de natureza dif
 
 d) A acumulação de faltas consiste no cometimento simultâneo de duas ou mais infracções, ou no conhecimento de uma antes de ter sido punida outra, ou ainda na prática de uma só infracção que viole mais do que um preceito deontológico.
 
-###### Art. 52.º - 1 - As penas previstas nas alíneas a) e b) do n.º 1 do artigo 47.º serão unicamente aplicadas a faltas leves, nomeadamente as resultantes da violação do disposto nos n.os 1, 2, 5, 6, 7 e 9 do artigo 41.º, e têm como objectivo obter o aperfeiçoamento sócio-profissional do infractor.
+Art. 52.º - 1 - As penas previstas nas alíneas a) e b) do n.º 1 do artigo 47.º serão unicamente aplicadas a faltas leves, nomeadamente as resultantes da violação do disposto nos n.os 1, 2, 5, 6, 7 e 9 do artigo 41.º, e têm como objectivo obter o aperfeiçoamento sócio-profissional do infractor.
 
 2 - A pena prevista na alínea c) do n.º 1 do artigo 47.º aplica-se às infracções referidas no número anterior, quando nelas se verifique a existência de circunstâncias agravantes, e ainda aos casos previstos nos n.os 3, 4, 8 e 10 do artigo 41.º e das alíneas a) a f) do n.º 3 do artigo 44.º
 
@@ -742,15 +761,15 @@ a) As circunstâncias atenuantes compensam as agravantes;
 
 b) A existência apenas de circunstâncias atenuantes permite a suspensão da pena ou a sua atenuação para o escalão inferior.
 
-###### Art. 53.º - 1 - A infracção frustada ou a tentativa de infracção são passíveis das mesmas penalidades que a infracção cometida.
+Art. 53.º - 1 - A infracção frustada ou a tentativa de infracção são passíveis das mesmas penalidades que a infracção cometida.
 
 2 - Considera-se infracção frustada a que o infractor pratica com intenção e que só não se realizou por motivos alheios à sua vontade.
 
 3 - Verifica-se uma tentativa de infracção quando o infractor, tendo a intenção de a praticar, não chega a fazê-la ou a concluí-la por circunstâncias independentes da sua vontade.
 
-###### Art. 54.º Aos despachantes oficiais cúmplices ou encobridores é aplicável a mesma sanção que ao infractor.
+Art. 54.º Aos despachantes oficiais cúmplices ou encobridores é aplicável a mesma sanção que ao infractor.
 
-###### Art. 55.º - 1 - Das penas disciplinares aplicadas pelas secções do conselho deontológico cabe recurso para o plenário do mesmo conselho.
+Art. 55.º - 1 - Das penas disciplinares aplicadas pelas secções do conselho deontológico cabe recurso para o plenário do mesmo conselho.
 
 2 - Das decisões do plenário cabe recurso hierárquico para o Ministro das Finanças e do Plano.
 
@@ -758,21 +777,21 @@ b) A existência apenas de circunstâncias atenuantes permite a suspensão da pe
 
 ### CAPÍTULO XVII — Disposições diversas e transitórias
 
-###### Art. 56.º Os casos omissos serão resolvidos de acordo com a legislação em vigor ou por despacho do Ministro das Finanças e do Plano, mediante parecer da assembleia geral.
+Art. 56.º Os casos omissos serão resolvidos de acordo com a legislação em vigor ou por despacho do Ministro das Finanças e do Plano, mediante parecer da assembleia geral.
 
-###### Art. 57.º - 1 - Os presentes Estatutos poderão ser alterados por deliberação da assembleia geral da CDO expressamente convocada para esse fim.
+Art. 57.º - 1 - Os presentes Estatutos poderão ser alterados por deliberação da assembleia geral da CDO expressamente convocada para esse fim.
 
 2 - A deliberação da assembleia geral referida no número anterior carece de ser sancionada pelo Ministro das Finanças e do Plano.
 
-###### Art. 58.º No prazo máximo de trinta dias após a publicação no Diário da República dos presentes Estatutos realizar-se-ão eleições para os corpos gerentes, cujo mandato terminará em 31 de Dezembro de 1981.
+Art. 58.º No prazo máximo de trinta dias após a publicação no Diário da República dos presentes Estatutos realizar-se-ão eleições para os corpos gerentes, cujo mandato terminará em 31 de Dezembro de 1981.
 
-###### Art. 59.º - 1 - As despesas de viagem, refeições e estadas efectuadas pelos membros dos órgãos da CDO, quer nacionais quer da secção, para participarem em reuniões ou quaisquer outras deslocações que hajam de realizar no desempenho das suas funções são custeadas pela CDO.
+Art. 59.º - 1 - As despesas de viagem, refeições e estadas efectuadas pelos membros dos órgãos da CDO, quer nacionais quer da secção, para participarem em reuniões ou quaisquer outras deslocações que hajam de realizar no desempenho das suas funções são custeadas pela CDO.
 
 2 - Quando as deslocações se efectuem para fora das localidades onde se situam as instalações da CDO, é também do encargo desta o seguro de viagem efectuado por qualquer membro dos órgãos da CDO.
 
-###### Art. 60.º O funcionamento dos órgãos da CDO e a competência dos seus membros regular-se-ão em tudo o que não estiver previsto nestes Estatutos pelo regime anexo.
+Art. 60.º O funcionamento dos órgãos da CDO e a competência dos seus membros regular-se-ão em tudo o que não estiver previsto nestes Estatutos pelo regime anexo.
 
-###### Art. 61.º Qualquer documento que implique movimentação de fundos deverá ser obrigatoriamente assinado pelo presidente ou pelo tesoureiro da direcção nacional ou da direcção da secção, conforme os casos, e por qualquer outro membro das mesmas.
+Art. 61.º Qualquer documento que implique movimentação de fundos deverá ser obrigatoriamente assinado pelo presidente ou pelo tesoureiro da direcção nacional ou da direcção da secção, conforme os casos, e por qualquer outro membro das mesmas.
 
 Regimento da Câmara dos Despachantes Oficiais
 
@@ -780,13 +799,13 @@ Regimento da Câmara dos Despachantes Oficiais
 
 ### CAPÍTULO I — Disposições diversas
 
-###### Artigo 1.º - 1 - A fim de garantir o cumprimento do disposto no n.º 1 do artigo 10.º dos Estatutos, existe em cada sessão da assembleia geral um livro de presenças, onde os sócios, à medida que forem chegando, apõem a sua assinatura e a indicação do seu número de associado.
+Artigo 1.º - 1 - A fim de garantir o cumprimento do disposto no n.º 1 do artigo 10.º dos Estatutos, existe em cada sessão da assembleia geral um livro de presenças, onde os sócios, à medida que forem chegando, apõem a sua assinatura e a indicação do seu número de associado.
 
 2 - No caso referido no n.º 1 do artigo 2.º deste regimento, o associado mandatado escreverá no livro de presenças o nome do ou dos despachantes oficiais que lhe tenham conferido mandato de representação, mencionando em seguida «representado por [...]» e indicando o seu número de associado.
 
 3 - A inscrição no livro de presenças pode ser feita durante toda a sessão, salvo quando se tratar de assembleia geral para eleições, caso em que é encerrada imediatamente antes de iniciado o apuramento da votação.
 
-###### Art. 2.º - 1 - Qualquer despachante oficial, excepto os da localidade onde se efectuar a reunião da assembleia geral, tem a faculdade de se fazer representar, salvo nas que tiverem por objecto a realização de eleições.
+Art. 2.º - 1 - Qualquer despachante oficial, excepto os da localidade onde se efectuar a reunião da assembleia geral, tem a faculdade de se fazer representar, salvo nas que tiverem por objecto a realização de eleições.
 
 2 - A representação é conferida por simples carta mandadeira, dirigida ao presidente da mesa da assembleia e autenticada pelo carimbo do despachante oficial representado.
 
@@ -794,19 +813,19 @@ Regimento da Câmara dos Despachantes Oficiais
 
 4 - Nenhum despachante oficial poderá representar mais do que três outros despachantes.
 
-###### Art. 3.º - 1 - Qualquer despachante oficial inscrito na secção, excepto os da sede da Alfândega do Porto, tem a faculdade de se fazer representar nas reuniões da assembleia da secção, salvo nas que tiverem objecto a realização de eleições.
+Art. 3.º - 1 - Qualquer despachante oficial inscrito na secção, excepto os da sede da Alfândega do Porto, tem a faculdade de se fazer representar nas reuniões da assembleia da secção, salvo nas que tiverem objecto a realização de eleições.
 
 2 - A representação é conferida nos termos referidos nos n.os 2 a 4 do artigo anterior.
 
-###### Art. 4.º Quando a assembleia geral reúne extraordinariamente a pedido da direcção, só poderá funcionar desde que, pelo menos, estejam presentes 50% dos seus membros.
+Art. 4.º Quando a assembleia geral reúne extraordinariamente a pedido da direcção, só poderá funcionar desde que, pelo menos, estejam presentes 50% dos seus membros.
 
-###### Art. 5.º - 1 - Quando a assembleia geral reúne extraordinariamente a pedido de, pelo menos, quarenta associados, os subscritores desse pedido que não comparecerem à reunião ficam privados do direito de poderem requerer reuniões extraordinárias da assembleia geral pelo prazo de dois anos, salvo motivo de força maior devidamente comprovado.
+Art. 5.º - 1 - Quando a assembleia geral reúne extraordinariamente a pedido de, pelo menos, quarenta associados, os subscritores desse pedido que não comparecerem à reunião ficam privados do direito de poderem requerer reuniões extraordinárias da assembleia geral pelo prazo de dois anos, salvo motivo de força maior devidamente comprovado.
 
 2 - A assembleia geral reunida extraordinariamente nos termos do n.º 1 só poderá funcionar com a presença de, pelo menos, dois terços dos seus subscritores.
 
 ### CAPÍTULO II — Das competências
 
-###### Art. 6.º É da competência do presidente da mesa da assembleia geral nacional ou da secção:
+Art. 6.º É da competência do presidente da mesa da assembleia geral nacional ou da secção:
 
 I):
 
@@ -846,7 +865,7 @@ d) Negar ou aceitar os pedidos de demissão e chamar os suplentes ao exercício 
 
 e) Convocar reuniões conjuntas dos corpos gerentes e os componentes da mesa, às quais preside.
 
-###### Art. 7.º É da competência do 1.º secretário:
+Art. 7.º É da competência do 1.º secretário:
 
 a) Redigir as actas e fazer a sua leitura nas sessões;
 
@@ -862,7 +881,7 @@ f) Redigir e ler os actos de posse;
 
 g) Emitir as certidões requeridas ao presidente da mesa, nos termos do despacho que este exarar.
 
-###### Art. 8.º É da competência do 2.º secretário:
+Art. 8.º É da competência do 2.º secretário:
 
 a) Fazer as chamadas dos associados para quaisquer eleições e efectuar as respectivas descargas no livro de presenças;
 
@@ -876,11 +895,11 @@ e) Auxiliar o 1.º secretário em tudo quanto for necessário.
 
 ### CAPÍTULO III — Das eleições
 
-###### Art. 9.º - 1 - As eleições fazem-se por escrutínio secreto em assembleia geral extraordinária convocada expressamente para esse fim, através de listas plurinominais.
+Art. 9.º - 1 - As eleições fazem-se por escrutínio secreto em assembleia geral extraordinária convocada expressamente para esse fim, através de listas plurinominais.
 
 2 - As listas concorrentes deverão mencionar, além do nome dos candidatos, o cargo a que concorrem, salvo em relação aos suplentes, para os quais é dispensada a indicação do cargo.
 
-###### Art. 10.º - 1 - Trinta dias antes de terminado o seu mandato, a direcção indigitará um despachante oficial para ocupar o cargo de presidente da direcção.
+Art. 10.º - 1 - Trinta dias antes de terminado o seu mandato, a direcção indigitará um despachante oficial para ocupar o cargo de presidente da direcção.
 
 2 - Este deverá efectuar as diligências necessárias para o preenchimento de todos os corpos gerentes.
 
@@ -892,13 +911,13 @@ e) Auxiliar o 1.º secretário em tudo quanto for necessário.
 
 6 - Todas as listas serão impressas no mesmo papel e com o mesmo formato, de maneira a não se distinguirem umas das outras depois de dobradas.
 
-###### Art. 11.º No caso de vinte dias antes da realização da assembleia eleitoral não ter sido possível à direcção apresentar uma lista nem terem sido apresentadas outras listas, a assembleia geral nomeará uma comissão administrativa, que assegurará o bom funcionamento da CDO até à realização de uma assembleia eleitoral.
+Art. 11.º No caso de vinte dias antes da realização da assembleia eleitoral não ter sido possível à direcção apresentar uma lista nem terem sido apresentadas outras listas, a assembleia geral nomeará uma comissão administrativa, que assegurará o bom funcionamento da CDO até à realização de uma assembleia eleitoral.
 
-###### Art. 12.º - 1 - Para efeito do disposto no artigo 36.º dos Estatutos, o eleitor encerrará o seu voto num sobrescrito em branco e incluirá este sobrescrito num outro dirigido ao presidente da mesa da assembleia do local onde estiver marcada a efectivação da reunião, através de correio registado com aviso de recepção.
+Art. 12.º - 1 - Para efeito do disposto no artigo 36.º dos Estatutos, o eleitor encerrará o seu voto num sobrescrito em branco e incluirá este sobrescrito num outro dirigido ao presidente da mesa da assembleia do local onde estiver marcada a efectivação da reunião, através de correio registado com aviso de recepção.
 
 2 - Apenas são consideradas para voto por correspondência as listas que chegarem ao poder do presidente da mesa nas condições atrás mencionadas e até ao início dos trabalhos de apuramento da votação.
 
-###### Art. 13.º - 1 - À realização das assembleias gerais serão asseguradas condições de funcionamento pela direcção nacional ou da secção, conforme o caso, no que respeita a apoio administrativo, preparação e apuramento dos resultados eleitorais.
+Art. 13.º - 1 - À realização das assembleias gerais serão asseguradas condições de funcionamento pela direcção nacional ou da secção, conforme o caso, no que respeita a apoio administrativo, preparação e apuramento dos resultados eleitorais.
 
 2 - O presidente da mesa convidará um representante de cada grupo de despachantes oficiais que tiver apresentado listas para acompanhar e fiscalizar os trabalhos da assembleia.
 
@@ -906,7 +925,7 @@ e) Auxiliar o 1.º secretário em tudo quanto for necessário.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 14.º - 1 - A direcção nacional ou da secção reúne obrigatoriamente uma vez por semana e, para além disso, sempre que o presidente o julgar necessário.
+Art. 14.º - 1 - A direcção nacional ou da secção reúne obrigatoriamente uma vez por semana e, para além disso, sempre que o presidente o julgar necessário.
 
 2 - As reuniões de direcção efectuam-se em local escolhido pela mesma, preferentemente na sede da CDO ou da secção.
 
@@ -914,7 +933,7 @@ e) Auxiliar o 1.º secretário em tudo quanto for necessário.
 
 ### CAPÍTULO V — Das competências
 
-###### Art. 15.º Compete ao presidente da direcção nacional:
+Art. 15.º Compete ao presidente da direcção nacional:
 
 a) Representar a CDO em todas as cerimónias ou actos públicos ou privados para que tenha sido convidada;
 
@@ -940,7 +959,7 @@ k) Zelar pelo cumprimento de sanções disciplinares impostas pelo conselho deon
 
 l) Nomear comissões especiais de trabalho.
 
-###### Art. 16.º - 1 - Compete especialmente ao vice-presidente da direcção nacional, pertencente à secção do Porto:
+Art. 16.º - 1 - Compete especialmente ao vice-presidente da direcção nacional, pertencente à secção do Porto:
 
 a) Auxiliar o presidente nas tarefas que lhe estão especialmente confiadas;
 
@@ -954,7 +973,7 @@ a) Substituir o presidente nos seus impedimentos;
 
 b) Auxiliar o presidente nas tarefas que lhe estão especialmente confiadas.
 
-###### Art. 17.º Compete especialmente ao director-secretário:
+Art. 17.º Compete especialmente ao director-secretário:
 
 a) Substituir o presidente na impossibilidade do vice-presidente;
 
@@ -972,7 +991,7 @@ g) Propor a contratação de pessoal directamente afecto aos seus serviços;
 
 h) Orientar o serviço de registo dos despachantes oficiais.
 
-###### Art. 18.º Compete ao adjunto do director-secretário:
+Art. 18.º Compete ao adjunto do director-secretário:
 
 a) Auxiliá-lo nas tarefas que lhe estão especialmente cometidas e substituí-lo na sua impossibilidade;
 
@@ -980,7 +999,7 @@ b) Assegurar a organização material das reuniões dos corpos gerentes da CDO (
 
 c) Zelar pela rápida distribuição das circulares, textos e outros documentos pelos associados.
 
-###### Art. 19.º Compete ao director-tesoureiro:
+Art. 19.º Compete ao director-tesoureiro:
 
 a) Receber e guardar as receitas da CDO e verificar a conformidade das despesas;
 
@@ -996,7 +1015,7 @@ f) Elaborar ou mandar elaborar balancetes trimestrais, orçamentos e o balanço 
 
 g) Dirigir o pessoal administrativo afecto ao seu serviço e propor a sua contratação.
 
-###### Art. 20.º Compete ao director de fomento sectorial:
+Art. 20.º Compete ao director de fomento sectorial:
 
 I) Fomento administrativo:
 
@@ -1024,7 +1043,7 @@ c) Organizar palestras, cursos de actualização, mesas-redondas, etc., tendente
 
 III) Dirigir o pessoal administrativo afecto ao seu serviço e propor a sua contratação.
 
-###### Art. 21.º Compete ao adjunto do director de fomento:
+Art. 21.º Compete ao adjunto do director de fomento:
 
 a) Substituí-lo na sua impossibilidade;
 
@@ -1032,7 +1051,7 @@ b) Auxiliá-lo nas tarefas que lhe tiverem sido confiadas;
 
 c) Superintender o sector de fomento técnico e estruturá-lo.
 
-###### Art. 22.º Compete ao presidente da direcção da secção:
+Art. 22.º Compete ao presidente da direcção da secção:
 
 a) Representar com carácter de permanência a CDO junto das entidades e organismos na área da sua jurisdição;
 
@@ -1050,7 +1069,7 @@ g) Zelar pelo cumprimento das sanções disciplinares impostas pelo conselho deo
 
 h) Nomear comissões especiais de trabalho.
 
-###### Art. 23.º Compete ao director-secretário da secção:
+Art. 23.º Compete ao director-secretário da secção:
 
 a) Substituir o presidente nos seus impedimentos;
 
@@ -1066,7 +1085,7 @@ f) Redigir as circulares e outros documentos;
 
 g) Propor a contratação do pessoal directamente afecto aos seus serviços.
 
-###### Art. 24.º Compete ao adjunto do director-secretário da secção:
+Art. 24.º Compete ao adjunto do director-secretário da secção:
 
 a) Auxiliá-lo nas tarefas que lhe estão especialmente cometidas e substituí-lo na sua impossibilidade;
 
@@ -1074,7 +1093,7 @@ b) Assegurar a organização material das reuniões dos corpos gerentes da secç
 
 c) Zelar pela distribuição de circulares e outros documentos a difundir pelos associados.
 
-###### Art. 25.º Compete ao director-tesoureiro da secção:
+Art. 25.º Compete ao director-tesoureiro da secção:
 
 a) Receber e guardar as receitas da secção e verificar a conformidade das despesas;
 
@@ -1090,7 +1109,7 @@ f) Elaborar ou mandar elaborar balancetes trimestrais, orçamentos e o balanço 
 
 g) Dirigir o pessoal administrativo do sector e propor a sua contratação.
 
-###### Art. 26.º Compete aos directores-adjuntos da secção:
+Art. 26.º Compete aos directores-adjuntos da secção:
 
 a) Representar a secção, em conjunto com o seu presidente, na direcção nacional;
 
@@ -1100,13 +1119,13 @@ b) Auxiliar o director de fomento sectorial da direcção nacional nas suas atri
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 27.º As deliberações das secções do conselho deontológico serão registadas em livro próprio e são tomadas por maioria absoluta dos membros presentes.
+Art. 27.º As deliberações das secções do conselho deontológico serão registadas em livro próprio e são tomadas por maioria absoluta dos membros presentes.
 
-###### Art. 28.º As deliberações do plenário serão registadas em livro próprio e são tomadas pela totalidade dos seus membros, exercendo o presidente o voto de qualidade.
+Art. 28.º As deliberações do plenário serão registadas em livro próprio e são tomadas pela totalidade dos seus membros, exercendo o presidente o voto de qualidade.
 
 ### CAPÍTULO VII — Das competências
 
-###### Art. 29.º Compete especialmente aos presidentes das secções do conselho deontológico:
+Art. 29.º Compete especialmente aos presidentes das secções do conselho deontológico:
 
 a) Fixar as datas das reuniões ordinárias das secções;
 
@@ -1118,13 +1137,13 @@ d) Ocupar cumulativamente os cargos de presidente e de vice-presidente do plená
 
 e) Nomear os instrutores dos processos e os despachantes assessores.
 
-###### Art. 30.º Compete especialmente aos restantes membros das secções do conselho deontológico:
+Art. 30.º Compete especialmente aos restantes membros das secções do conselho deontológico:
 
 a) Deliberar sobre os processos de funcionamento e critérios a adoptar pela respectiva secção;
 
 b) Exercer as funções de jurado no julgamento de processos disciplinares.
 
-###### Art. 31.º Compete especialmente ao presidente do plenário:
+Art. 31.º Compete especialmente ao presidente do plenário:
 
 a) Fixar as datas e locais das reuniões ordinárias do plenário;
 
@@ -1134,7 +1153,7 @@ c) Presidir e orientar os trabalhos das reuniões;
 
 d) Representar o conselho deontológico junto da 1.ª Secção do Supremo Tribunal Administrativo.
 
-###### Art. 32.º Compete especialmente ao vice-presidente do plenário:
+Art. 32.º Compete especialmente ao vice-presidente do plenário:
 
 a) Substituir o presidente nos seus impedimentos;
 
@@ -1142,7 +1161,7 @@ b) Auxiliar o presidente nas suas tarefas;
 
 c) Presidir à secção do conselho deontológico do Porto.
 
-###### Art. 33.º Compete especialmente aos restantes membros do plenário do conselho deontológico:
+Art. 33.º Compete especialmente aos restantes membros do plenário do conselho deontológico:
 
 a) Exercer as funções de jurados no julgamento dos processos disciplinares remetidos pelas secções;
 
@@ -1150,7 +1169,7 @@ b) Exercer as funções mencionadas na alínea anterior no julgamento de recurso
 
 ### CAPÍTULO VIII — Da fiscalização
 
-###### Art. 34.º Compete especialmente ao conselho deontológico, por intermédio das suas secções:
+Art. 34.º Compete especialmente ao conselho deontológico, por intermédio das suas secções:
 
 a) Propor as medidas que considerar como mais eficazes para uma fiscalização efectiva do exercício da profissão;
 

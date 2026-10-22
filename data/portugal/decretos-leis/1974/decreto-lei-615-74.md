@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/26500/13711372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1974-465430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e8844adaa9a94e710ad5cda4775917d2c8cd67a600d033dc3d6dbec4aa7f128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 793e0ae9747e91f143fa56a4d630553bef2c65a689f93444438a6782ab88dd96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diuturnidades
+- GNR
+- Pensão de Reserva
+- Remuneração
+- Subsídio de Férias
+- Subsídio de Natal
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:340036:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:38Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +106,11 @@ de 14 de Novembro
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os soldos a abonar mensalmente aos oficiais da Guarda Nacional Republicana serão dos quantitativos fixados para os oficiais das forças armadas.
+Artigo 1.º Os soldos a abonar mensalmente aos oficiais da Guarda Nacional Republicana serão dos quantitativos fixados para os oficiais das forças armadas.
 
-###### Art. 2.º Os ordenados mensais a abonar aos sargentos da Guarda Nacional Republicana serão dos quantitativos fixados para os sargentos das forças armadas.
+Art. 2.º Os ordenados mensais a abonar aos sargentos da Guarda Nacional Republicana serão dos quantitativos fixados para os sargentos das forças armadas.
 
-###### Art. 3.º Os vencimentos mensais a abonar às praças da Guarda Nacional Republicana serão dos seguintes quantitativos:
+Art. 3.º Os vencimentos mensais a abonar às praças da Guarda Nacional Republicana serão dos seguintes quantitativos:
 
 Primeiro-cabo ... 4700$00
 
@@ -104,11 +120,11 @@ Soldado ... 4500$00
 
 Soldado provisório ... 4100$00
 
-###### Art. 4.º - 1. As pensões de reserva dos militares da Guarda Nacional Republicana na efectividade de serviço serão objecto de revisão imediata sempre que haja alteração das remunerações dos militares de igual posto, graduação ou quadro, do activo, com efeitos a partir da data da entrada em vigor da referida alteração.
+Art. 4.º - 1. As pensões de reserva dos militares da Guarda Nacional Republicana na efectividade de serviço serão objecto de revisão imediata sempre que haja alteração das remunerações dos militares de igual posto, graduação ou quadro, do activo, com efeitos a partir da data da entrada em vigor da referida alteração.
 
 2. As pensões de reserva dos militares que iniciarem comissão de serviço após qualquer alteração das remunerações dos militares de igual posto, graduação ou quadro, do activo, serão revistas tendo em atenção o preceituado no [Decreto-Lei n.º 41958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41958-1958-340036), de 14 de Novembro de 1958.
 
-###### Art. 5.º - 1. As pensões atribuídas aos militares na situação de reserva fora da efectividade do serviço beneficiarão, a partir de 1 de Julho de 1974, dos seguintes aumentos:
+Art. 5.º - 1. As pensões atribuídas aos militares na situação de reserva fora da efectividade do serviço beneficiarão, a partir de 1 de Julho de 1974, dos seguintes aumentos:
 
 a) Pensões inferiores a 900$00, são aumentadas para 1650$00;
 
@@ -124,36 +140,36 @@ f) Pensões iguais ou superiores a 10000$00, permanecem ao seu nível actual.
 
 2. Para aplicação dos aumentos definidos nas alíneas a) e b) do número anterior, os montantes das pensões a considerar são os que vigoravam até 31 de Maio de 1974.
 
-###### Art. 6.º - 1. Aos militares da Guarda Nacional Republicana nas situações de activo e de reserva é abonado, em cada ano, um subsídio de Natal, a conceder em Dezembro, de valor igual à remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento ou pensão.
+Art. 6.º - 1. Aos militares da Guarda Nacional Republicana nas situações de activo e de reserva é abonado, em cada ano, um subsídio de Natal, a conceder em Dezembro, de valor igual à remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento ou pensão.
 
 2. Os militares que em 1 de Dezembro não tiverem completado um ano de efectivo serviço apenas terão direito a receber um subsídio de valor correspondente a tantos duodécimos quantos os meses de serviço prestado nessas condições.
 
-###### Art. 7.º - 1. Aos militares da Guarda Nacional Republicana na efectividade de serviço é abonado, em cada ano, um subsídio de férias a conceder em Julho, igual a metade da remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento ou pensão, desde que até essa data tenham completado, pelo menos, um ano de efectivo serviço.
+Art. 7.º - 1. Aos militares da Guarda Nacional Republicana na efectividade de serviço é abonado, em cada ano, um subsídio de férias a conceder em Julho, igual a metade da remuneração mensal a que tenham direito em 1 desse mês, a título de vencimento ou pensão, desde que até essa data tenham completado, pelo menos, um ano de efectivo serviço.
 
 2. Aos militares que completarem entre 1 de Julho e 31 de Dezembro o seu primeiro ano de efectivo serviço ser-lhes-á abonado o subsídio de férias no mês seguinte àquele em que atingirem esse tempo de serviço.
 
-###### Art. 8.º - 1. Para o cálculo dos subsídios de Natal e de férias referidos nos artigos anteriores não são considerados quaisquer remunerações acessórias ou emolumentos que, porventura, os militares normalmente recebam.
+Art. 8.º - 1. Para o cálculo dos subsídios de Natal e de férias referidos nos artigos anteriores não são considerados quaisquer remunerações acessórias ou emolumentos que, porventura, os militares normalmente recebam.
 
 2. Os mesmos subsídios não contam para os limites de vencimentos legalmente estabelecidos, são inalienáveis e impenhoráveis e ficam sujeitos apenas ao desconto do imposto do selo.
 
-###### Art. 9.º No actual ano, o subsídio de férias poderá ser liquidado até ao fim do mês de Outubro.
+Art. 9.º No actual ano, o subsídio de férias poderá ser liquidado até ao fim do mês de Outubro.
 
-###### Art. 10.º O regime de diuturnidades em vigor na Guarda Nacional Republicana será revisto até ao fim do corrente ano.
+Art. 10.º O regime de diuturnidades em vigor na Guarda Nacional Republicana será revisto até ao fim do corrente ano.
 
-###### Art. 11.º - 1. Os encargos com os aumentos de vencimentos ao pessoal militar da Guarda Nacional Republicana serão satisfeitos pelas dotações do capítulo «Despesas comuns» do orçamento ordinário do Ministério da Administração Interna.
+Art. 11.º - 1. Os encargos com os aumentos de vencimentos ao pessoal militar da Guarda Nacional Republicana serão satisfeitos pelas dotações do capítulo «Despesas comuns» do orçamento ordinário do Ministério da Administração Interna.
 
 2. Os encargos com os subsídios de férias e de Natal serão suportados por dotações a inscrever no orçamento sob o referido capítulo «Despesas comuns», em despesa ordinária.
 
 3. Fica o Ministro das Finanças autorizado a efectuar no Orçamento Geral do Estado em vigor, mediante diploma por ele referendado, as alterações necessárias à execução deste decreto-lei.
 
-###### Art. 12.º As remunerações estabelecidas no presente diploma serão abonadas a partir de 1 de Julho de 1974.
+Art. 12.º As remunerações estabelecidas no presente diploma serão abonadas a partir de 1 de Julho de 1974.
 
-###### Art. 13.º As dúvidas e casos não previstos serão resolvidos por despacho ministerial.
+Art. 13.º As dúvidas e casos não previstos serão resolvidos por despacho ministerial.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
 
-**Promulgado em 23 de Outubro de 1974.**
+Promulgado em 23 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

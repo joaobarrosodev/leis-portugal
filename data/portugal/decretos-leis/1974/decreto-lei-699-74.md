@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 284/1974, 1º Suplemento, Série I de 1974-12-06
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1532-(1) a 1532-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/28401/00010002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/699-1974-242879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaad8dee8751a77c0affd9c64cc97dca9d66c848c2421beade836188ade93d0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4394c2f69e05e61d3b058a65a1416a04c6f32b1f777d17c9fd7e18d410b4988f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Rural
+- Exploração Agrícola
+- Indemnização
+- Política Agrícola
+- Política de Solos
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:416473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:162082:por
+  label: "Determinada a manutenção em vigor pelo DEC LEI.201/75.15.04.1975.MECO, DG.IS [88] de 15.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1975-162082
+  date: '1975-04-15'
+- type: cites
+  target: pt:dre:365306:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:468069:por
+  label: Rectificadas as assinaturas pela DECL.DD8717.18.12.1974.PCM, DG.IS [294] de 18.12.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-468069
+  date: '1974-12-18'
+- type: repealed_by
+  target: pt:dre:416473:por
+  label: "Revogado pelo DEC LEI.896/76.1976.12.30.SEEA-MAP, DR.IS[302], na parte em que contrarie as normas estabelecidas\
+    \ por este diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/896-1976-416473
+  date: '1976-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:31Z'
   warnings: []
   errors: []
 ---
@@ -96,22 +122,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O regime do [Decreto-Lei n.º 573/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1974-365306), de 31 de Outubro, é aplicável aos contratos de campanha.
+Artigo 1.º O regime do [Decreto-Lei n.º 573/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1974-365306), de 31 de Outubro, é aplicável aos contratos de campanha.
 
-###### Art. 2.º A renovação automática dos contratos de campanha, sem alteração das condições anteriores, implica, sempre que as necessidades de rotação cultural em uso na região o exijam, a mudança de folha de cultura para o próximo ano, pelo que ficam os senhorios e rendeiros locadores obrigados a ceder ao outro contraente parcelas das suas explorações, equivalentes em área e aptidão cultural às da campanha finda.
+Art. 2.º A renovação automática dos contratos de campanha, sem alteração das condições anteriores, implica, sempre que as necessidades de rotação cultural em uso na região o exijam, a mudança de folha de cultura para o próximo ano, pelo que ficam os senhorios e rendeiros locadores obrigados a ceder ao outro contraente parcelas das suas explorações, equivalentes em área e aptidão cultural às da campanha finda.
 
-###### Art. 3.º A obrigação estabelecida no artigo anterior é igualmente exigida aos senhorios e rendeiros locadores que tenham sido partes em contratos de cultivo de melão na campanha finda.
+Art. 3.º A obrigação estabelecida no artigo anterior é igualmente exigida aos senhorios e rendeiros locadores que tenham sido partes em contratos de cultivo de melão na campanha finda.
 
-###### Art. 4.º O não cumprimento do disposto nos artigos anteriores obriga os senhorios e rendeiros locadores ao pagamento das indemnizações devidas por incumprimento do contrato, nos termos da lei geral.
+Art. 4.º O não cumprimento do disposto nos artigos anteriores obriga os senhorios e rendeiros locadores ao pagamento das indemnizações devidas por incumprimento do contrato, nos termos da lei geral.
 
-###### Art. 5.º As dúvidas suscitadas na aplicação do [Decreto-Lei n.º 573/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1974-365306) e deste diploma serão resolvidas por portaria do Secretário de Estado da Agricultura.
+Art. 5.º As dúvidas suscitadas na aplicação do [Decreto-Lei n.º 573/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1974-365306) e deste diploma serão resolvidas por portaria do Secretário de Estado da Agricultura.
 
-###### Art. 6.º O presente decreto-lei entra imediatamente em vigor.
+Art. 6.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 6 de Dezembro de 1974.**
+Promulgado em 6 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

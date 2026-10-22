@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/458-1971-633750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0167462d2d786ddbf92616f1004b49880433904c8f96eaa1910a1341dad13d5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f45b65ce4f557159c3fa3a592ca757b85bdb8839744fe3f17464372f1f858357
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:19:45Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +105,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, passa a constituir uma reserva toda a área das ilhas Selvagens e também a orla marítima que as rodeia até à batimétrica dos 200 m, cuja delimitação consta do mapa e da descrição complementar anexos ao presente diploma.
+Artigo 1.º Nos termos da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho, passa a constituir uma reserva toda a área das ilhas Selvagens e também a orla marítima que as rodeia até à batimétrica dos 200 m, cuja delimitação consta do mapa e da descrição complementar anexos ao presente diploma.
 
-###### Art. 2.º A especificação e a delimitação dos tipos e zonas da reserva e as servidões e restrições administrativas a que ficarão sujeitos os terrenos e faixas marítimas adjacentes e bens nelas compreendidos serão definidas em decreto, depois de aprovado o plano de ordenamento da reserva.
+Art. 2.º A especificação e a delimitação dos tipos e zonas da reserva e as servidões e restrições administrativas a que ficarão sujeitos os terrenos e faixas marítimas adjacentes e bens nelas compreendidos serão definidas em decreto, depois de aprovado o plano de ordenamento da reserva.
 
-###### Art. 3.º - 1. Os terrenos compreendidos nos perímetros da reserva ficam submetidos ao regime florestal total e as águas e fundos submarinos adjacentes a esses terrenos ficam sujeitos ao regime de defeso no que se refere ao exercício da pesca e à exploração dos recursos geológicos.
+Art. 3.º - 1. Os terrenos compreendidos nos perímetros da reserva ficam submetidos ao regime florestal total e as águas e fundos submarinos adjacentes a esses terrenos ficam sujeitos ao regime de defeso no que se refere ao exercício da pesca e à exploração dos recursos geológicos.
 
 2. É permitida a passagem inofensiva da navegação entre as diversas parcelas da reserva, por fora das batimétricas dos 200 m, mas a essa navegação é interdita qualquer acção de pesca, de prospecção ou exploração submarinas e ainda do lançamento de detritos no mar.
 
-###### Art. 4.º A reserva das ilhas Selvagens é administrada por uma comissão executiva constituída pelo director-geral dos Serviços Florestais e Aquícolas e pelo director do Serviço de Oceanografia do Instituto Hidrográfico, em representação do director-geral do mesmo Instituto, assistida por uma comissão consultiva.
+Art. 4.º A reserva das ilhas Selvagens é administrada por uma comissão executiva constituída pelo director-geral dos Serviços Florestais e Aquícolas e pelo director do Serviço de Oceanografia do Instituto Hidrográfico, em representação do director-geral do mesmo Instituto, assistida por uma comissão consultiva.
 
-###### Art. 5.º Compete à comissão consultiva dar parecer sobre questões de natureza técnica, científica, social, turística ou de propaganda com interesse para a reserva.
+Art. 5.º Compete à comissão consultiva dar parecer sobre questões de natureza técnica, científica, social, turística ou de propaganda com interesse para a reserva.
 
-###### Art. 6.º A comissão consultiva é presidida pelo director-geral dos Serviços Florestais e Aquícolas, tem como vice-presidente o director do Serviço de Oceanografia do Instituto Hidrográfico, em representação do director-geral do mesmo Instituto, e como vogais:
+Art. 6.º A comissão consultiva é presidida pelo director-geral dos Serviços Florestais e Aquícolas, tem como vice-presidente o director do Serviço de Oceanografia do Instituto Hidrográfico, em representação do director-geral do mesmo Instituto, e como vogais:
 
 a) O presidente da Junta Geral do Distrito Autónomo do Funchal ou um seu representante;
 
@@ -139,19 +143,19 @@ k) Um representante do Serviço de Inspecção da Caça e Pesca - Protecção da
 
 l) Um representante do Jardim Botânico da Madeira.
 
-###### Art. 7.º Os vogais da comissão a que se refere o artigo anterior tomam posse perante o director-geral dos Serviços Florestais e Aquícolas.
+Art. 7.º Os vogais da comissão a que se refere o artigo anterior tomam posse perante o director-geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 8.º - 1. Os membros da comissão consultiva têm direito a senhas de presença por cada sessão a que compareçam, acumulável até ao limite legal de vencimentos, com as remunerações atribuídas pelo exercício de quaisquer outras funções públicas.
+Art. 8.º - 1. Os membros da comissão consultiva têm direito a senhas de presença por cada sessão a que compareçam, acumulável até ao limite legal de vencimentos, com as remunerações atribuídas pelo exercício de quaisquer outras funções públicas.
 
 2. Têm ainda direito ao abono, nos termos da lei, de transportes e de ajudas de custo, quando, para o exercício das suas funções, tenham de deslocar-se das respectivas residências.
 
-###### Art. 9.º - 1. O director-geral dos Serviços Florestais e Aquícolas e o director do Serviço de Oceanografia do Instituto Hidrográfico poderão propor superiormente a realização, em regime de prestação de serviços, de estudos e outros trabalhos de carácter eventual que se mostrem necessários para os objectivos da reserva.
+Art. 9.º - 1. O director-geral dos Serviços Florestais e Aquícolas e o director do Serviço de Oceanografia do Instituto Hidrográfico poderão propor superiormente a realização, em regime de prestação de serviços, de estudos e outros trabalhos de carácter eventual que se mostrem necessários para os objectivos da reserva.
 
 2. A duração, termos e remunerações da prestação dos serviços previstos no número anterior serão fixados por despacho do Ministro da Marinha, quando propostos pelo director do Serviço de Oceanografia, e do Secretário de Estado da Agricultura, quando se trate de propostas do director-geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 10.º As funções de polícia e de fiscalização da reserva competem especialmente ao pessoal da Direcção-Geral dos Serviços Florestais e Aquícolas, do Instituto Hidrográfico e da Capitania do Porto do Funchal.
+Art. 10.º As funções de polícia e de fiscalização da reserva competem especialmente ao pessoal da Direcção-Geral dos Serviços Florestais e Aquícolas, do Instituto Hidrográfico e da Capitania do Porto do Funchal.
 
-###### Art. 11 º Constitui contravenção:
+Art. 11 º Constitui contravenção:
 
 a) A realização de quaisquer trabalhos, obras ou actividades em zonas abrangidas na reserva sem autorização da Direcção-Geral dos Serviços Florestais e Aquícolas, do Instituto Hidrográfico ou da Capitania do Porto do Funchal quando regularmente exigida, ou com inobservância das condições impostas ou projectos aprovados;
 
@@ -165,7 +169,7 @@ e) A introdução na reserva de animais não domésticos, peixes e de espécies 
 
 f) A utilização de aparelhos de fotografia, filmagem ou radiodifusão sonora ou visual, com inobservância das proibições ou condicionamentos que forem estabelecidos, tanto nos terrenos como nas zonas marítimas adjacentes.
 
-###### Art. 12.º - 1. As contravenções previstas no artigo anterior são punidas com multa:
+Art. 12.º - 1. As contravenções previstas no artigo anterior são punidas com multa:
 
 a) De 500$00 a 1000$00, as das alíneas a), b) e d) e a instalação de locais de campismo ou de fundeadouros previstos na alínea c);
 
@@ -175,11 +179,11 @@ c) De 200$00 a 1000$00, as das alíneas e) e f).
 
 2. A aplicação de multa pela contravenção prevista na alínea a) do artigo anterior não prejudica a obrigação de o infractor demolir as obras ou trabalhos efectuados, quando não possam ser autorizados.
 
-###### Art. 13.º Os autos de notícia por infracções ao disposto no presente diploma serão levantados e processados nos termos estabelecidos no Regulamento dos Serviços de Polícia Florestal, quando se trate de zona terrestre, e do Regulamento das Capitanias ou da Protecção aos Parques Submarinos e da Comissão Nacional Contra a Poluição do Mar, quando se trate da zona marítima.
+Art. 13.º Os autos de notícia por infracções ao disposto no presente diploma serão levantados e processados nos termos estabelecidos no Regulamento dos Serviços de Polícia Florestal, quando se trate de zona terrestre, e do Regulamento das Capitanias ou da Protecção aos Parques Submarinos e da Comissão Nacional Contra a Poluição do Mar, quando se trate da zona marítima.
 
-###### Art. 14.º A comissão executiva da reserva elaborará, no prazo de doze meses, a contar da data da publicação deste diploma, o plano de ordenamento da reserva, do qual deverão constar, além do mais, os trabalhos de estrutura e valorização a realizar.
+Art. 14.º A comissão executiva da reserva elaborará, no prazo de doze meses, a contar da data da publicação deste diploma, o plano de ordenamento da reserva, do qual deverão constar, além do mais, os trabalhos de estrutura e valorização a realizar.
 
-###### Art. 15.º Até à entrada em vigor do decreto que defina os diversos tipos da reserva incluídos nas ilhas Selvagens e estabeleça as adequadas servidões e restrições administrativas, fica dependente de autorização da comissão executiva da reserva a realização, dentro dos perímetros que a definem, dos seguintes trabalhos:
+Art. 15.º Até à entrada em vigor do decreto que defina os diversos tipos da reserva incluídos nas ilhas Selvagens e estabeleça as adequadas servidões e restrições administrativas, fica dependente de autorização da comissão executiva da reserva a realização, dentro dos perímetros que a definem, dos seguintes trabalhos:
 
 a) A instalação e o exercício de quaisquer actividades comerciais e industriais;
 
@@ -189,23 +193,23 @@ c) A construção de edifícios ou obras de protecção marítima;
 
 d) A captação de águas doces ou salgadas.
 
-###### Art. 16.º Serão aprovados em portaria do Ministro da Marinha ou do Secretário de Estado da Agricultura os sinais indicativos de proibições e permissões e de condicionamentos previstos neste diploma, conforme se trate, respectivamente, da zona marítima ou da zona terrestre e para os quais não existam ainda modelos legalmente estabelecidos.
+Art. 16.º Serão aprovados em portaria do Ministro da Marinha ou do Secretário de Estado da Agricultura os sinais indicativos de proibições e permissões e de condicionamentos previstos neste diploma, conforme se trate, respectivamente, da zona marítima ou da zona terrestre e para os quais não existam ainda modelos legalmente estabelecidos.
 
-###### Art. 17.º As despesas emergentes da execução do presente diploma serão suportadas pelas verbas adequadas previstas no Orçamento Geral do Estado, integradas em planos de fomento.
+Art. 17.º As despesas emergentes da execução do presente diploma serão suportadas pelas verbas adequadas previstas no Orçamento Geral do Estado, integradas em planos de fomento.
 
-###### Art. 18.º Para permitir à comissão executiva da reserva que se desempenhe das tarefas que lhe cabem por força do presente diploma, será criado um gabinete constituído por um engenheiro silvicultor, um biólogo, um arquivista e dois dactilógrafos, em acumulação com as funções que actualmente desempenhem funcionários destas categorias na Direcção do Serviço de Oceanografia, do Instituto Hidrográfico ou no Serviço de Inspecção de Caça e Pesca, da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 18.º Para permitir à comissão executiva da reserva que se desempenhe das tarefas que lhe cabem por força do presente diploma, será criado um gabinete constituído por um engenheiro silvicultor, um biólogo, um arquivista e dois dactilógrafos, em acumulação com as funções que actualmente desempenhem funcionários destas categorias na Direcção do Serviço de Oceanografia, do Instituto Hidrográfico ou no Serviço de Inspecção de Caça e Pesca, da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 19.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Ministro da Marinha ou do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, quando se trate de questões de natureza financeira.
+Art. 19.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Ministro da Marinha ou do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças, quando se trate de questões de natureza financeira.
 
 Marcello Caetano - Manuel Pereira Crespo - João Augusto Dias Rosas - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 19 de Outubro de 1971.**
+Promulgado em 19 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/25500/16441646.pdf))](https://files.diariodarepublica.pt/1s/1971/10/25500/16441646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/25500/16441646.pdf)
 
 Manuel Pereira Crespo - João Augusto Dias Rosas - Vasco Rodrigues de Pinho Leónidas.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09300/05620562.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1974-411323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df0b2c74d552aa6ad75c270ff4b87dfcc9e9a4749a02f3b4c7cc968311993443
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e405c460ad4c004a25c556556fc9398a2a2c06c67cf63cbbcc653e5e0cc1210a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Direcção Geral da Administração Local
+- Gestão de Recursos Humanos
+- Pessoal Administrativo
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:227236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446896:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:40Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +114,18 @@ Considerando que existem numerosos lugares vagos na referida classe do quadro ge
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os actuais escriturários-dactilógrafos dos quadros privativos das secretarias dos governos civis, corpos administrativos e administrações de bairro, bem como os funcionários da 4.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local, que, em 31 de Dezembro de 1969, ocupavam lugares de aspirante ou de escriturário de 2.ª classe dos mesmos quadros privativos poderão ser admitidos ao próximo concurso de habilitação para promoção à 3.ª classe da mencionada 2.ª categoria.
+Artigo 1.º - 1. Os actuais escriturários-dactilógrafos dos quadros privativos das secretarias dos governos civis, corpos administrativos e administrações de bairro, bem como os funcionários da 4.ª classe da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local, que, em 31 de Dezembro de 1969, ocupavam lugares de aspirante ou de escriturário de 2.ª classe dos mesmos quadros privativos poderão ser admitidos ao próximo concurso de habilitação para promoção à 3.ª classe da mencionada 2.ª categoria.
 
 2. Os escriturários-dactilógrafos aprovados no concurso a que se refere o número anterior poderão, durante o período da sua validade e sem prejuízo dos direitos daí resultantes, ser admitidos a concursos de provimento para lugares da 4.ª classe da 2.ª categoria.
 
-###### Art. 2.º O disposto no artigo anterior não prejudica a aplicação das normas gerais que condicionam a admissão a concursos de habilitação.
+Art. 2.º O disposto no artigo anterior não prejudica a aplicação das normas gerais que condicionam a admissão a concursos de habilitação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - César Henrique Moreira Baptista.
 
-**Promulgado em 11 de Abril de 1974.**
+Promulgado em 11 de Abril de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

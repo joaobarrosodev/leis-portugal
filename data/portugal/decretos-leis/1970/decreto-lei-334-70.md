@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/07/16300/09280929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1970-141606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84fc137d1bef5a977f82b9a3df236a534ab7114423b38d1b1063871728ae000c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2c575b68028baa383e768d1f6a1fd2a96a56bef71428d1794e6e885750068fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Contrastaria
+- Contravenção
+- Emolumento
+- Importação
+- Indústria de Ourivesaria e Relojoaria
+- Joalharia e Ourivesaria
+- Licenciamento
+- Multa
+- Regulamento das Contrastarias
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:369812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:484461:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:369812:por
+  label: "Revogado, a partir de 25.09.1979, pelo DEC LEI.391/79.20.09.1979.MFP, DR.IS [218] de 20.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1979-369812
+  date: '1979-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:23Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +119,7 @@ Apesar disso, a actualização a que agora se procede é muito moderada, porque 
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os emolumentos de ensaio e marca a cobrar nas repartições de contrastaria do País serão os constantes da seguinte tabela:
+Artigo 1.º Os emolumentos de ensaio e marca a cobrar nas repartições de contrastaria do País serão os constantes da seguinte tabela:
 
 Artefactos de joalharia de platina ou platina e ouro:
 
@@ -167,15 +187,15 @@ Barras de ouro e prata, quando se determine o quantitativo de prata e ouro, até
 
 Barras de ouro e prata, por cada fracção de 50 g a mais - 3$00.
 
-###### Art. 2.º O emolumento de 2$50, constante do § único do artigo 120.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932, passa a ser de 5$00.
+Art. 2.º O emolumento de 2$50, constante do § único do artigo 120.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932, passa a ser de 5$00.
 
-###### Art. 3.º As taxas de matrícula inicial para efeitos das licenças a conceder pelas repartições de contrastaria, segundo a sua classificação, serão as seguintes:
+Art. 3.º As taxas de matrícula inicial para efeitos das licenças a conceder pelas repartições de contrastaria, segundo a sua classificação, serão as seguintes:
 
 Ourives e relojoeiros fornecedores, ourivesarias, relojoarias, estabelecimentos especiais ou mistos autorizados à venda de artefactos de ourivesaria, negociantes de pedras finas, importadores, compra e venda de barras de metais nobres e laboratórios de ensaios comerciais - 400$00.
 
 Oficina de fabrico de ourivesaria e oficinas de relojoaria - 100$00.
 
-###### Art. 4.º Pelas licenças passadas nas repartições de contrastaria serão cobradas as seguintes taxas:
+Art. 4.º Pelas licenças passadas nas repartições de contrastaria serão cobradas as seguintes taxas:
 
 Ourives e relojoeiros fornecedores, ourivesarias, relojoarias, estabelecimentos especiais ou mistos autorizados à venda de artefactos de ourivesaria, negociantes de pedras finas, importadores, compra e venda de barras de metais nobres e laboratórios de ensaios comerciais - 200$00.
 
@@ -187,7 +207,7 @@ Para promover vendas nos termos do artigo 72.º do Regulamento das Contrastarias
 
 Propinas para admissão aos exames de capacidade para ensaiadores comerciais, a pagar por meio de guia junta ao requerimento - 300$00.
 
-###### Art. 5.º As multas correspondentes a infracções previstas no Regulamento das Contrastarias serão as seguintes:
+Art. 5.º As multas correspondentes a infracções previstas no Regulamento das Contrastarias serão as seguintes:
 
 a) Por falta de matrícula inicial - 750$00;
 
@@ -215,22 +235,22 @@ l) Pela transgressão do artigo 69.º do Regulamento referido nas alíneas anter
 
 m) Pela introdução no continente e ilhas adjacentes de caixas para relógios de fabrico estrangeiro sem as formalidades legais, pagará o transgressor a multa de 5000$00 a 10000$00.
 
-###### Art. 6.º - 1. Os serviços de contrastaria de Lisboa e Porto ficam autorizados a fazer, em processo sumário, as compensações dos erros referentes à liquidação de emolumentos devidos por ensaio e marcação de objectos apresentados para contraste.
+Art. 6.º - 1. Os serviços de contrastaria de Lisboa e Porto ficam autorizados a fazer, em processo sumário, as compensações dos erros referentes à liquidação de emolumentos devidos por ensaio e marcação de objectos apresentados para contraste.
 
 2. Se o erro for por excesso, a compensação será levada em conta, em obras, apresentadas posteriormente pelo mesmo utente, cujos emolumentos sejam de valor igual ou superior ao erro cometido e se o erro for por defeito será processada guia adicional.
 
-###### Art. 7.º As contrastarias, quando solicitadas, procederão à identificação das marcas existentes em artefactos de ourivesaria, cobrando 5$00 pela identificação de cada artefacto.
+Art. 7.º As contrastarias, quando solicitadas, procederão à identificação das marcas existentes em artefactos de ourivesaria, cobrando 5$00 pela identificação de cada artefacto.
 
-###### Art. 8.º A multa constante do artigo 131.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932, passa a ser de 50$00.
+Art. 8.º A multa constante do artigo 131.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932, passa a ser de 50$00.
 
-###### Art. 9.º São revogados os artigos 119.º, 125.º, 126.º e 129.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932.
+Art. 9.º São revogados os artigos 119.º, 125.º, 126.º e 129.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932.
 
-###### Art. 10.º As determinações constantes deste decreto-lei entram imediatamente em vigor.
+Art. 10.º As determinações constantes deste decreto-lei entram imediatamente em vigor.
 
 Visto e aprovado pelo Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 1 de Julho de 1970.**
+Promulgado em 1 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

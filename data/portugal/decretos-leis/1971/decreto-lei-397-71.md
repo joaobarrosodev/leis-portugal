@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22400/13481351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1971-632680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c04561463de33b9bf0f11bd3d6ab50f26a8f93fc48808bf2c64dc26c2abec2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d773a531a836f6d96223e5aefeb139fe5a002e932c81acaa257552df7234b580
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Capital Social
+- Obrigações
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:220107:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220107:por
+  label: "Revogado, a partir de 01.11.1986, pelo DEC LEI.262/86.02.09.1986.MJ, DR.IS [201] de 02.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1986-220107
+  date: '1986-09-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:58Z'
   warnings: []
   errors: []
 ---
@@ -113,33 +138,33 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As sociedades anónimas podem emitir obrigações que confiram aos seus titulares o direito de conversão em acções da sociedade emitente, nos termos prèviamente fixados.
+Artigo 1.º - 1. As sociedades anónimas podem emitir obrigações que confiram aos seus titulares o direito de conversão em acções da sociedade emitente, nos termos prèviamente fixados.
 
 2. Às obrigações convertíveis em acções é aplicável o preceituado na lei para as demais obrigações emitidas por sociedades, na medida em que não contenda com as disposições do presente decreto-lei.
 
 3. Do registo da emissão das obrigações a que se referem os números anteriores, além dos requisitos normais, deverá constar a indicação do direito de conversão conferido aos seus titulares e as condições em que essa conversão poderá ser realizada.
 
-###### Art. 2.º Só poderão emitir obrigações convertíveis as sociedades anónimas que preencham os seguintes requisitos mínimos:
+Art. 2.º Só poderão emitir obrigações convertíveis as sociedades anónimas que preencham os seguintes requisitos mínimos:
 
 a) Estarem definitivamente constituídas há dois ou mais anos e com os dois últimos balanços regularmente aprovados pelas suas assembleias gerais, ou resultarem da fusão de sociedades, das quais uma, pelo menos, se encontre nestas condições;
 
 b) Terem as suas acções cotadas em uma das Bolsas de valores de Lisboa ou Porto.
 
-###### Art. 3.º - 1. A emissão, no continente ou nas ilhas adjacentes, de obrigações convertíveis depende de autorização do Ministro das Finanças, devendo os respectivos pedidos ser apresentados na Inspecção-Geral de Crédito e Seguros, que poderá requisitar dos interessados os elementos necessários à instrução dos respectivos processos.
+Art. 3.º - 1. A emissão, no continente ou nas ilhas adjacentes, de obrigações convertíveis depende de autorização do Ministro das Finanças, devendo os respectivos pedidos ser apresentados na Inspecção-Geral de Crédito e Seguros, que poderá requisitar dos interessados os elementos necessários à instrução dos respectivos processos.
 
 2. A autorização referida no número anterior compreende a que, nos termos legais, seja exigida para a emissão de acções destinadas à correspondente conversão, ou para a alteração do pacto social que a mesma implicar.
 
 3. O disposto nos números anteriores é igualmente aplicável às obrigações convertíveis a emitir nas províncias ultramarinas ou em país estrangeiro por sociedades que tenham a sua sede no continente ou nas ilhas adjacentes.
 
-###### Art. 4.º O parecer que o Conselho de Ministros para os Assuntos Económicos deva emitir, nos termos do artigo 12.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, quanto à emissão de obrigações convertíveis, abrange a emissão de acções a que tenha de se proceder para efeitos da conversão.
+Art. 4.º O parecer que o Conselho de Ministros para os Assuntos Económicos deva emitir, nos termos do artigo 12.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, quanto à emissão de obrigações convertíveis, abrange a emissão de acções a que tenha de se proceder para efeitos da conversão.
 
-###### Art. 5.º - 1. A emissão de obrigações convertíveis tem de ser deliberada em assembleia geral dos accionistas, que definirá as respectivas condições.
+Art. 5.º - 1. A emissão de obrigações convertíveis tem de ser deliberada em assembleia geral dos accionistas, que definirá as respectivas condições.
 
 2. A assembleia geral convocada para os efeitos do número anterior respeitará, tanto no que se refere ao mínimo de representação de capital social e de accionistas, como à maioria de votos exigida para a deliberação, o que sobre o assunto se encontrar estabelecido nos estatutos da sociedade ou, não existindo disposição especial, o que os mesmos ou a lei dispuserem relativamente aos aumentos de capital.
 
 3. A deliberação prevista no n.º 1 implica a aprovação do aumento do capital social no montante e nas condições que vierem a ser necessários para satisfazer os pedidos de conversão.
 
-###### Art. 6.º - 1. A deliberação da assembleia geral será precedida de relatório da administração e do parecer sobre este emitido pela entidade fiscalizadora da sociedade.
+Art. 6.º - 1. A deliberação da assembleia geral será precedida de relatório da administração e do parecer sobre este emitido pela entidade fiscalizadora da sociedade.
 
 2. O relatório da administração deve especificar, designadamente:
 
@@ -151,23 +176,23 @@ c) Se aos accionistas deve ser retirado o direito previsto no n.º 1 do artigo 7
 
 d) Os nomes ou firmas sociais dos subscritores e o número de obrigações a subscrever por cada um, quando a sociedade não recorra à subscrição pública.
 
-###### Art. 7.º - 1. Os accionistas têm direito de preferência na subscrição das obrigações convertíveis, a não ser que esse direito seja excluído pela assembleia geral que deliberar sobre a respectiva emissão.
+Art. 7.º - 1. Os accionistas têm direito de preferência na subscrição das obrigações convertíveis, a não ser que esse direito seja excluído pela assembleia geral que deliberar sobre a respectiva emissão.
 
 2. Não pode tomar parte na votação que exclua o direito de preferência dos accionistas na subscrição de obrigações convertíveis todo aquele que puder beneficiar especìficamente com tal exclusão, nem as suas acções serão tidas em consideração no cálculo do número de presenças necessário para a reunião da assembleia geral e da maioria exigida para a deliberação.
 
-###### Art. 8.º - 1. As condições fixadas pela assembleia geral dos accionistas, nos termos do n.º 1 do artigo 5.º, para a emissão de obrigações convertíveis só podem ser alteradas, sem o assentimento dos obrigacionistas, desde que da alteração não resulte para estes qualquer redução das respectivas vantagens ou direitos ou aumento dos seus encargos.
+Art. 8.º - 1. As condições fixadas pela assembleia geral dos accionistas, nos termos do n.º 1 do artigo 5.º, para a emissão de obrigações convertíveis só podem ser alteradas, sem o assentimento dos obrigacionistas, desde que da alteração não resulte para estes qualquer redução das respectivas vantagens ou direitos ou aumento dos seus encargos.
 
 2. As alterações a que se refere o número anterior carecem ainda de ser aprovadas pela assembleia geral da sociedade, nos termos prescritos para a deliberação prevista no artigo 5.º, e homologadas pelo Ministro das Finanças.
 
-###### Art. 9.º - 1. Os obrigacionistas têm direito aos juros das respectivas obrigações até ao momento da conversão, o qual, para este efeito, se reporta sempre ao termo do trimestre em que o pedido de conversão é apresentado.
+Art. 9.º - 1. Os obrigacionistas têm direito aos juros das respectivas obrigações até ao momento da conversão, o qual, para este efeito, se reporta sempre ao termo do trimestre em que o pedido de conversão é apresentado.
 
 2. Das condições da emissão constará sempre o regime de atribuição de dividendos que, no exercício durante o qual a conversão tiver lugar, deverá ser aplicável às acções em que as obrigações se converterem.
 
-###### Art. 10.º - 1. Sempre que a sociedade emitente das obrigações convertíveis deva, nos termos da lei, ter averbada em nome de pessoas singulares ou colectivas de nacionalidade portuguesa determinada parte proporcional das acções representativas do seu capital social, os titulares dessas obrigações que não tenham aquela nacionalidade só terão direito à conversão se e na medida em que o seu exercício não implicar violação da referida exigência legal.
+Art. 10.º - 1. Sempre que a sociedade emitente das obrigações convertíveis deva, nos termos da lei, ter averbada em nome de pessoas singulares ou colectivas de nacionalidade portuguesa determinada parte proporcional das acções representativas do seu capital social, os titulares dessas obrigações que não tenham aquela nacionalidade só terão direito à conversão se e na medida em que o seu exercício não implicar violação da referida exigência legal.
 
 2. Não sendo possível, em virtude do disposto no número anterior, atender integralmente os pedidos de conversão, proceder-se-á a rateio entre os obrigacionistas a quem a conversão foi recusada, na proporção do número de obrigações que pretendam converter.
 
-###### Art. 11.º - 1. A partir da data da autorização da emissão de obrigações convertíveis, e enquanto for possível a qualquer obrigacionista exercer o direito de conversão, é vedado à sociedade emitente alterar as condições da repartição de lucros fixadas nos estatutos, dar acções próprias em pagamento de dividendos ou a outro título que não seja o de aumento de capital por incorporação de reservas, amortizar o seu capital ou reduzi-lo mediante reembolso e atribuir privilégios às acções existentes.
+Art. 11.º - 1. A partir da data da autorização da emissão de obrigações convertíveis, e enquanto for possível a qualquer obrigacionista exercer o direito de conversão, é vedado à sociedade emitente alterar as condições da repartição de lucros fixadas nos estatutos, dar acções próprias em pagamento de dividendos ou a outro título que não seja o de aumento de capital por incorporação de reservas, amortizar o seu capital ou reduzi-lo mediante reembolso e atribuir privilégios às acções existentes.
 
 2. Se o capital social for reduzido em consequência de perdas, os direitos dos obrigacionistas que optem pela conversão reduzir-se-ão correlativamente, como se esses obrigacionistas tivessem sido accionistas a partir da emissão das obrigações.
 
@@ -175,7 +200,7 @@ d) Os nomes ou firmas sociais dos subscritores e o número de obrigações a sub
 
 4. Os direitos referidos na parte final do número anterior não abrangem o de receber quaisquer rendimentos dos títulos ou das reservas em causa, relativamente a período anterior à data em que a conversão vier a produzir os seus efeitos.
 
-###### Art. 12.º - 1. Deliberada a emissão a que se refere o n.º 1 do artigo 5.º, será lavrada escritura de aumento de capital, com intervenção dos respectivos administradores ou directores, os quais serão dispensados da afirmação exigida pelo n.º 2 do artigo 111.º do Código do Notariado.
+Art. 12.º - 1. Deliberada a emissão a que se refere o n.º 1 do artigo 5.º, será lavrada escritura de aumento de capital, com intervenção dos respectivos administradores ou directores, os quais serão dispensados da afirmação exigida pelo n.º 2 do artigo 111.º do Código do Notariado.
 
 2. Titulado o aumento de capital, será obrigatòriamente requerida, no prazo de noventa dias, a contar da data da escritura, a correspondente inscrição no registo comercial.
 
@@ -185,7 +210,7 @@ d) Os nomes ou firmas sociais dos subscritores e o número de obrigações a sub
 
 5. A inscrição provisória do aumento de capital pode ser tornada definitiva, por averbamentos sucessivos de conversão parcial, à medida em que venha a efectuar-se a emissão das respectivas acções.
 
-###### Art. 13.º - 1. No primeiro mês de cada trimestre, a administração da sociedade, mediante deliberação consignada em acta, deve emitir as acções que caibam aos obrigacionistas que houverem pedido a conversão no trimestre anterior e promover obrigatòriamente, dentro dos trinta dias imediatos, a conversão do registo provisório do aumento de capital correspondente às acções emitidas.
+Art. 13.º - 1. No primeiro mês de cada trimestre, a administração da sociedade, mediante deliberação consignada em acta, deve emitir as acções que caibam aos obrigacionistas que houverem pedido a conversão no trimestre anterior e promover obrigatòriamente, dentro dos trinta dias imediatos, a conversão do registo provisório do aumento de capital correspondente às acções emitidas.
 
 2. Os averbamentos de conversão serão lavrados com base em pública-forma ou fotocópia da acta a que se refere o número anterior.
 
@@ -193,7 +218,7 @@ d) Os nomes ou firmas sociais dos subscritores e o número de obrigações a sub
 
 4. Não será necessário proceder à emissão a que se referem os números anteriores, quando os pedidos de conversão possam ser satisfeitos com acções já emitidas e que se encontrem disponíveis para o efeito.
 
-###### Art. 14.º - 1. Enquanto houver obrigações convertíveis, a incorporação da sociedade emitente em outra sociedade, ou a fusão daquela com outra ou outras sociedades, só pode efectuar-se, sem o assentimento dos obrigacionistas, desde que a primeira delibere oferecer, com a homologação do Ministro das Finanças, o reembolso das obrigações mediante aviso publicado num dos jornais mais lidos na localidade da sede social e, se a sociedade tiver recorrido à subscrição pública, no Diário do Governo, devendo esta última publicação indicar o título e o lugar de publicação daquele jornal e a data desta.
+Art. 14.º - 1. Enquanto houver obrigações convertíveis, a incorporação da sociedade emitente em outra sociedade, ou a fusão daquela com outra ou outras sociedades, só pode efectuar-se, sem o assentimento dos obrigacionistas, desde que a primeira delibere oferecer, com a homologação do Ministro das Finanças, o reembolso das obrigações mediante aviso publicado num dos jornais mais lidos na localidade da sede social e, se a sociedade tiver recorrido à subscrição pública, no Diário do Governo, devendo esta última publicação indicar o título e o lugar de publicação daquele jornal e a data desta.
 
 2. O reembolso deve ser pedido pelos obrigacionistas no prazo de noventa dias a contar da publicação ou da última das publicações prescritas no número anterior, e a sociedade efectuá-lo dentro de trinta dias a contar da apresentação do pedido de cada obrigacionista.
 
@@ -201,15 +226,15 @@ d) Os nomes ou firmas sociais dos subscritores e o número de obrigações a sub
 
 4. A sociedade incorporante ou a nova sociedade ficam sujeitas, na parte aplicável, ao disposto no presente diploma como se da sociedade emitente se tratasse.
 
-###### Art. 15.º Se a sociedade emitente de obrigações convertíveis fizer concordata com os seus credores, o direito de conversão pode ser exercido logo que a concordata for homologada e nas condições por ela estabelecidas.
+Art. 15.º Se a sociedade emitente de obrigações convertíveis fizer concordata com os seus credores, o direito de conversão pode ser exercido logo que a concordata for homologada e nas condições por ela estabelecidas.
 
-###### Art. 16.º Se a sociedade que tiver emitido obrigações convertíveis se dissolver, sem que isso resulte de fusão ou incorporação, podem os obrigacionistas, na falta de caução idónea, exigir o reembolso antecipado, o qual, todavia, lhes não pode ser imposto pela sociedade.
+Art. 16.º Se a sociedade que tiver emitido obrigações convertíveis se dissolver, sem que isso resulte de fusão ou incorporação, podem os obrigacionistas, na falta de caução idónea, exigir o reembolso antecipado, o qual, todavia, lhes não pode ser imposto pela sociedade.
 
-###### Art. 17.º - 1. Às obrigações emitidas nos termos do presente diploma é aplicável o disposto no artigo 27.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965, podendo o Ministro das Finanças isentar, total ou parcialmente, a sociedade emitente, ou os obrigacionistas, dos impostos que sejam devidos por virtude das operações de conversão.
+Art. 17.º - 1. Às obrigações emitidas nos termos do presente diploma é aplicável o disposto no artigo 27.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965, podendo o Ministro das Finanças isentar, total ou parcialmente, a sociedade emitente, ou os obrigacionistas, dos impostos que sejam devidos por virtude das operações de conversão.
 
 2. Os emolumentos de admissão à cotação na bolsa e, no caso de ter havido prévio registo de emissão das obrigações, os da inscrição a que se refere o n.º 2 do artigo 12.º deste diploma incidirão apenas sobre a diferença entre a soma dos valores nominais das obrigações convertíveis e a das acções que, nos termos das condições da conversão, lhes corresponderem.
 
-###### Art. 18.º - 1. As sociedades que, à data da publicação deste diploma, tiverem obrigações por amortizar poderão requerer ao Ministro das Finanças, no prazo de dois anos contado da referida data, autorização para que as mesmas possam ser total ou parcialmente amortizadas por conversão em acções das referidas sociedades.
+Art. 18.º - 1. As sociedades que, à data da publicação deste diploma, tiverem obrigações por amortizar poderão requerer ao Ministro das Finanças, no prazo de dois anos contado da referida data, autorização para que as mesmas possam ser total ou parcialmente amortizadas por conversão em acções das referidas sociedades.
 
 2. As sociedades requerentes e os obrigacionistas deverão satisfazer, na parte aplicável, ao preceituado neste diploma e sujeitar-se ao condicionalismo nele estabelecido.
 
@@ -217,8 +242,8 @@ d) Os nomes ou firmas sociais dos subscritores e o número de obrigações a sub
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

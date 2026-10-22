@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 75/1975, 3º Suplemento, Série I de 1975-03-31
   number: '75'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 498-(6) a 498-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/07503/00060012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-d-1975-573959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 084347cd9e50033336bb0577c8fb6fe1da435f3e86bb0c3cce840b65e54ba3d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 366a84b1db5986fa6a49497c8b376000710f4096c872014f4c336913d8b9e939
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Desemprego
+- Direcção Geral do Emprego
+- Fundo de Desemprego
+- Instituições de Previdência Social
+- Multa
+- Proteção no Desemprego
+- Subsídio de Desemprego
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:251798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355309:por
+  label: "Prorrogado por cento e oitenta dias o período de concessão do subsídio de desemprego, a que se refere o nº 1 do\
+    \ art. 17º pelo DEC LEI.761/75.31.12.1975.MT, DG.IS [300-3ºSupl] de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/761-1975-355309
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:430868:por
+  label: "Alterado o art. 17º pelo DEC LEI.635/76.28.07.1976.MT, DR.IS [175] de 28.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/635-1976-430868
+  date: '1976-07-28'
+- type: repealed_by
+  target: pt:dre:251798:por
+  label: "Revogado o presente diploma pelo DEC LEI.183/77.05.05.1977.PCM, DR.IS [104] de 05.05.1977,que determina a remissão\
+    \ para aquele diploma das referências feitas ao presente noutros diplomas, com as necessárias adaptações, devendo considerar-se\
+    \ atribuída ao Secretário de Estado da População e Emprego a competência titulada pelo Ministro do Trabalho \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1977-251798
+  date: '1977-05-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:39:19Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +145,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Subsídio de desemprego)
 
 Os trabalhadores por conta de outrem em situação de desemprego têm direito a receber uma prestação pecuniária, a título de subsídio de desemprego, nos termos e condições previstos no presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Âmbito)
 
@@ -134,7 +161,7 @@ a) Beneficiários há mais de seis meses das caixas sindicais de previdência ou
 
 b) Sócios efectivos das Casas do Povo.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Exclusões)
 
@@ -156,7 +183,7 @@ g) Os trabalhadores cujo agregado familiar, que com eles conviva em economia con
 
 2. Os trabalhadores que tenham rendimentos mensais próprios inferiores ao subsídio de desemprego que normalmente lhes caberia terão direito a receber, a título de subsídio de desemprego, nos termos deste diploma, a diferença entre aqueles rendimentos e aquele subsídio.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Condições de atribuição)
 
@@ -176,7 +203,7 @@ d) Estarem inscritos no centro de emprego da área da sua residência.
 
 4. A disponibilidade consiste na inscrição como candidato a emprego com declaração expressa de aceitação de emprego conveniente.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Desemprego involuntário)
 
@@ -190,7 +217,7 @@ d) Estarem inscritos no centro de emprego da área da sua residência.
 
 5. Considera-se como de desemprego involuntário a situação do trabalhador que permaneça desempregado mais de trinta dias após a frequência completa com aproveitamento de qualquer curso de formação ou reclassificação profissional promovido ou comparticipado técnica ou financeiramente pelos serviços do Ministério do Trabalho ou por estes reconhecido.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Declaração da entidade patronal)
 
@@ -198,7 +225,7 @@ d) Estarem inscritos no centro de emprego da área da sua residência.
 
 2. O modelo da declaração referido no número anterior poderá ser alterado por portaria do Ministro do Trabalho.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Prazo de garantia)
 
@@ -212,7 +239,7 @@ b) Para os restantes trabalhadores, cento e oitenta dias ou cento e cinquenta e 
 
 3. Consideram-se equivalentes aos prazos de garantia estabelecidos no n.º 1 os períodos correspondentes à duração, com frequência completa, dos cursos de formação ou reclassificação profissional referidos no n.º 5 do artigo 5.º, desde que a respectiva duração, ainda que inferior àqueles prazos, não seja inferior a quatro meses.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Inscrição no centro de emprego e requerimento do subsídio)
 
@@ -222,7 +249,7 @@ b) Para os restantes trabalhadores, cento e oitenta dias ou cento e cinquenta e 
 
 3. O requerimento do subsídio implica a apresentação do cartão de beneficiário da instituição de previdência ou de título que o substitua e ainda dos documentos referidos na alínea b) do n.º 1 do artigo 4.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Emprego conveniente)
 
@@ -240,13 +267,13 @@ c) Não causar ao trabalhador graves inconvenientes de ordem pessoal ou familiar
 
 4. O trabalhador deverá submeter-se às provas de aptidão profissional ou outras que o centro de emprego entenda necessárias para a avaliação das suas aptidões.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Documentos a entregar ao trabalhador)
 
 Feita a inscrição, o trabalhador receberá um certificado de inscrição, bem como documento donde constem os seus direitos e deveres durante o período em que estiver a receber o subsídio.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Comparências)
 
@@ -272,7 +299,7 @@ e) Falecimento do cônjuge, de parente ou afim na linha recta e no segundo grau 
 
 6. Para efeitos do número anterior cabe ao centro de emprego a apreciação da adequação do meio de transporte utilizado.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Caducidade do subsídio)
 
@@ -294,7 +321,7 @@ g) Com a falta de cumprimento das obrigações previstas no artigo 14.º;
 
 h) Com o termo do prazo de concessão fixado no artigo 17.º
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Suspensão do subsídio)
 
@@ -310,7 +337,7 @@ d) Durante o período em que o trabalhador tiver direito a receber subsídios pe
 
 e) Durante o período, calculado nos termos da alínea e) do n.º 1 do artigo 3.º, correspondente a indemnização por anterior despedimento recebida pelo trabalhador já na pendência do recebimento do subsídio.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Deveres do trabalhador)
 
@@ -328,7 +355,7 @@ e) A concessão de pensão de invalidez ou reforma.
 
 2. À nova entidade patronal incumbe também o dever de efectuar a comunicação prevista na alínea a) do n.º 1.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Competência do responsável pelo centro de emprego)
 
@@ -346,7 +373,7 @@ d) A caducidade do direito ao subsídio por recusa de emprego conveniente.
 
 3. Da decisão referida no número anterior pode o trabalhador reclamar, no prazo de dez dias, para a comissão arbitral prevista no n.º 2 do artigo 9.º, a qual decidirá em definitivo e segundo a equidade.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Montante)
 
@@ -360,7 +387,7 @@ d) A caducidade do direito ao subsídio por recusa de emprego conveniente.
 
 5. Os trabalhadores cujas empresas, por razões conjunturais de mercado, se tenham visto obrigadas a reduzir o tempo individual de trabalho, por forma que a este corresponda remuneração inferior ao subsídio de desemprego que normalmente lhes caberia, apenas têm o direito de receber subsídio de desemprego igual à diferença, independentemente de continuarem ou não a trabalhar naquelas condições, aplicando-se à situação, com as necessárias adaptações, o disposto no presente diploma.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Período de concessão)
 
@@ -370,7 +397,7 @@ d) A caducidade do direito ao subsídio por recusa de emprego conveniente.
 
 3. Decorrido o prazo de setecentos e vinte dias previsto no número anterior e mantendo-se o trabalhador em situação de desemprego involuntário, poderá o mesmo, desde que tenha completado 60 anos, requerer que lhe seja atribuída antecipadamente a pensão de reforma a que tiver direito.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Acumulação)
 
@@ -380,13 +407,13 @@ d) A caducidade do direito ao subsídio por recusa de emprego conveniente.
 
 3. Entende-se por agregado familiar o conjunto de pessoas que vivem em comunhão de mesa e habitação.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Impenhorabilidade e isenções)
 
 O direito ao subsídio de desemprego não pode ser penhorado e é isento da obrigação de pagamento de quaisquer taxas, contribuições ou impostos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Manutenção de direitos na Previdência)
 
@@ -398,7 +425,7 @@ O direito ao subsídio de desemprego não pode ser penhorado e é isento da obri
 
 4. Durante o período referido no n.º 1, fica a cargo das verbas do Fundo de Desemprego a parte das contribuições correspondentes à entidade patronal, ficando o trabalhador dispensado do pagamento da respectiva contribuição.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Atribuições das instituições de previdência e da Direcção-Geral do Emprego)
 
@@ -416,7 +443,7 @@ O direito ao subsídio de desemprego não pode ser penhorado e é isento da obri
 
 7. Por portaria conjunta dos Ministros do Trabalho e dos Assuntos Sociais serão regulamentadas as condições de financiamento, processamento e pagamento dos subsídios.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Reclamações)
 
@@ -428,13 +455,13 @@ O direito ao subsídio de desemprego não pode ser penhorado e é isento da obri
 
 4. A decisão tomada pelo responsável regional será notificada ao trabalhador por carta registada com aviso de recepção, dentro de três dias a contar do termo do prazo referido no número anterior.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Recurso)
 
 Da decisão que considerar improcedente a reclamação cabe recurso, no prazo de cinco dias a contar da data em que o trabalhador receber a notificação da decisão, para o Secretário de Estado do Emprego, o qual poderá delegar no director-geral do Emprego.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Prazos)
 
@@ -442,13 +469,13 @@ Da decisão que considerar improcedente a reclamação cabe recurso, no prazo de
 
 2. O prazo que termine em sábado, domingo ou dia feriado transfere-se para o primeiro dia útil seguinte.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Efeitos)
 
 A reclamação e o recurso previstos nos artigos 22.º e 23.º têm efeito suspensivo.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Reposição, sanções, graduação, pagamento de multas e inconvertibilidade)
 
@@ -474,13 +501,13 @@ b) Quando não observar algum dos deveres estatuídos no artigo 14.º, sendo que
 
 9. Havendo lugar a reposição ou no caso de o infractor ser o trabalhador, poderá autorizar-se que aquela ou que o pagamento das multas seja efectuado em prestações mensais, até ao máximo de doze.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Destino das multas)
 
 O produto das multas reverterá para o Fundo de Desemprego.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Financiamento)
 
@@ -488,25 +515,25 @@ O produto das multas reverterá para o Fundo de Desemprego.
 
 2. Será depositado pelo Fundo de Desemprego, no início de cada mês, na Caixa Geral de Depósitos, à ordem da Caixa Nacional de Pensões, o duodécimo das despesas orçamentadas em cada ano para o regime de subsídio de desemprego, nelas incluídos os encargos previstos no artigo 20.º ou o que faltar para preencher aquele duodécimo.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Dúvidas)
 
 As dúvidas e casos omissos que se suscitarem na aplicação do presente diploma serão resolvidos por despacho conjunto dos Ministros do Trabalho e dos Assuntos Sociais.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Disposição transitória)
 
 Para preenchimento dos prazos de garantia estabelecidos no artigo 7.º é contado aos trabalhadores que reúnam os restantes requisitos previstos neste diploma o tempo de contribuição decorrido até à data da sua entrada em vigor.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Revisão)
 
 O presente diploma deverá ser obrigatoriamente revisto dentro do prazo de quatro meses a contar da data da sua entrada em vigor.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Entrada em vigor)
 
@@ -514,12 +541,12 @@ O presente diploma entrará em vigor no dia 1 de Abril.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes - José Guerra Balseiro Fragata - Henrique Santa Clara Gomes.
 
-**Promulgado em 31 de Março de 1975.**
+Promulgado em 31 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/07503/00060012.pdf))](https://files.diariodarepublica.pt/1s/1975/03/07503/00060012.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/07503/00060012.pdf)
 
-**O Secretário de Estado do Emprego, José Guerra Balseiro Fragata. - O Secretário de Estado da Segurança Social, Henrique de Santa Clara Gomes.**
+O Secretário de Estado do Emprego, José Guerra Balseiro Fragata. - O Secretário de Estado da Segurança Social, Henrique de Santa Clara Gomes.

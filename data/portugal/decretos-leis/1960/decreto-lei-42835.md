@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/02/03100/06090609.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42835-1960-278715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8e85275cb38b8894368b7cc932c348b65a13256dec91226068e9a66265621d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91e629d145722ce588c567679551790c77c72a1cead0d6a8d39a1be42ec5cc3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indemnização
+- Justiça Militar
+- Marinha
+- Militar
+- Processo Disciplinar
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:262144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:665713:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262144:por
+  label: "Revogado, a partir de 21.12.1968, pelo DEC LEI.48765.16.12.1968.PC, DG.IS [295] de 16.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48765-1968-262144
+  date: '1968-12-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:55Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +109,8 @@ Sendo necessário suprir a omissão verificada relativamente às praças da Arma
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. As praças da Armada, do grupo A e da taifa, que tenham estado presas, e ainda as suspensas das funções de serviço, nos termos do artigo 170.º do Regulamento de Disciplina Militar, serão indemnizadas dos vencimentos e mais abonos deixados de perceber por aqueles motivos se vierem a ser ilibadas de responsabilidade.
+Artigo único. As praças da Armada, do grupo A e da taifa, que tenham estado presas, e ainda as suspensas das funções de serviço, nos termos do artigo 170.º do Regulamento de Disciplina Militar, serão indemnizadas dos vencimentos e mais abonos deixados de perceber por aqueles motivos se vierem a ser ilibadas de responsabilidade.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Fevereiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

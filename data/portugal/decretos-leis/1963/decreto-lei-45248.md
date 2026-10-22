@@ -47,40 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 078728a3867a97020a47d19cc4347b4c0524e04123dc943663898afde309068f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc6df0a6b317df73aa812a5ac2ef10e599a5a97682a76b076bbf9584ca1e7507
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Lisboa
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:569886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314397:por
+  label: "Determinado que o regime estabelecido no art. 37.º do presente diploma passe a ser extensivo às instalações de carácter\
+    \ social das Câmaras Municipais de Lisboa e do Porto. pelo DEC LEI.47801.19.07.1967.MI, DG.IS [167] de 19.07.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47801-1967-314397
+  date: '1967-07-19'
+- type: amended_by
+  target: pt:dre:200834:por
+  label: "Alterados os arts. 21º e 34º pelo DEC LEI.49018.22.05.1969.MI, DG.IS [121] de 22.05.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49018-1969-200834
+  date: '1969-05-22'
+- type: amended_by
+  target: pt:dre:216963:por
+  label: "Dada nova redacção ao art. 16º pelo DEC LEI.49394.21.11.1969.MI, DG.IS [273] de 21.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49394-1969-216963
+  date: '1969-11-21'
+- type: amended_by
+  target: pt:dre:227236:por
+  label: "Alterados os arts. 19º, 23º e 24º, pelo DEC LEI.30/70.1970.01.16.MI, DG.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1970-227236
+  date: '1970-01-16'
+- type: amended_by
+  target: pt:dre:673843:por
+  label: "Dada nova redacção aos arts. 12º, 13º, 14º, 15º, 17º, 18º, 26º, 27º, 32º, 35º e 40º pelo DEC LEI.179/73.19.04.1973.MI,\
+    \ DG.IS [93] de 19.04.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1973-673843
+  date: '1973-04-19'
+- type: cites
+  target: pt:dre:490902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526646:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:422257:por
+  label: "Rectificado o Dec Lei 179/73 de 19-Abr [no referente ao art. 1º - que conferiu nova redacção aos arts. 12º e 40º\
+    \ do presente diploma] pela RECT.DD344.30.05.1973.PC, DG.IS [127] de 30.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-422257
+  date: '1973-05-30'
+- type: repealed_by
+  target: pt:dre:569886:por
+  label: "Revogado o art. 27º pela LEI.169/99.1999.09.18.AR,DR.IS-A [219]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/169-1999-569886
+  date: '1999-09-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:19Z'
   warnings: []
   errors: []
 ---
@@ -89,27 +142,27 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo 1.º A organização e o funcionamento dos serviços das Câmaras Municipais de Lisboa e Porto obedecerão aos princípios estabelecidos no Código Administrativo, com as alterações constantes deste diploma.
+Artigo 1.º A organização e o funcionamento dos serviços das Câmaras Municipais de Lisboa e Porto obedecerão aos princípios estabelecidos no Código Administrativo, com as alterações constantes deste diploma.
 
-###### Art. 2.º As Câmaras Municipais de Lisboa e Porto adoptarão, tanto quanto possível, as normas sobre contabilidade estabelecidas para as demais câmaras municipais, bem como os respectivos modelos de impressos, sem prejuízo das adaptações ou alterações impostas pela simplificação e eficiência dos serviços e pelo sistema mecânico respeitante à elaboração e contabilização dos documentos de receita e despesa.
+Art. 2.º As Câmaras Municipais de Lisboa e Porto adoptarão, tanto quanto possível, as normas sobre contabilidade estabelecidas para as demais câmaras municipais, bem como os respectivos modelos de impressos, sem prejuízo das adaptações ou alterações impostas pela simplificação e eficiência dos serviços e pelo sistema mecânico respeitante à elaboração e contabilização dos documentos de receita e despesa.
 
-###### Art. 3.º As importâncias de vencimentos e salários que se torne necessário pagar fora da tesouraria municipal serão entregues em conta corrente aos respectivos pagadores, os quais, no prazo de oito dias, prestarão contas ao tesoureiro municipal, que entregará no cofre, até ao dia imediato, em receita consignada a favor dos interessados, as quantias que não tenham sido pagas.
+Art. 3.º As importâncias de vencimentos e salários que se torne necessário pagar fora da tesouraria municipal serão entregues em conta corrente aos respectivos pagadores, os quais, no prazo de oito dias, prestarão contas ao tesoureiro municipal, que entregará no cofre, até ao dia imediato, em receita consignada a favor dos interessados, as quantias que não tenham sido pagas.
 
-###### Art. 4.º Na classificação orçamental das despesas poderá fazer-se corresponder um capítulo a cada direcção de serviços.
+Art. 4.º Na classificação orçamental das despesas poderá fazer-se corresponder um capítulo a cada direcção de serviços.
 
-###### Art. 5.º Até 31 de Janeiro de cada ano poderão ser pagas, por conta do ano anterior, as despesas autorizadas até 31 de Dezembro.
+Art. 5.º Até 31 de Janeiro de cada ano poderão ser pagas, por conta do ano anterior, as despesas autorizadas até 31 de Dezembro.
 
-###### Art. 6.º A conta de gerência será elaborada e aprovada até 30 de Abril do ano seguinte àquele a que respeite e remetida ao Tribunal de Contas até 15 de Maio.
+Art. 6.º A conta de gerência será elaborada e aprovada até 30 de Abril do ano seguinte àquele a que respeite e remetida ao Tribunal de Contas até 15 de Maio.
 
-###### Art. 7.º É permitido abonar adiantadamente aos chefes de serviços a designar pelo presidente da câmara, sob informação do director dos Serviços de Finanças, as quantias indispensáveis à constituição de fundos permanentes para despesas que, pela sua frequência e urgência, devam ser autorizados a realizar.
+Art. 7.º É permitido abonar adiantadamente aos chefes de serviços a designar pelo presidente da câmara, sob informação do director dos Serviços de Finanças, as quantias indispensáveis à constituição de fundos permanentes para despesas que, pela sua frequência e urgência, devam ser autorizados a realizar.
 
 § único. Os funcionários responsáveis justificarão todos os meses, e num único título, as despesas que tiverem efectuado por conta do fundo permanente.
 
-###### Art. 8.º É dispensável a leitura do texto das propostas na reunião em que são submetidas à apreciação da câmara, desde que as suas cópias hajam sido distribuídas aos membros da câmara e delas seja dado conhecimento público por meio de afixação, no lugar de estilo dos paços do concelho, dois dias, pelo menos, antes da data daquela reunião.
+Art. 8.º É dispensável a leitura do texto das propostas na reunião em que são submetidas à apreciação da câmara, desde que as suas cópias hajam sido distribuídas aos membros da câmara e delas seja dado conhecimento público por meio de afixação, no lugar de estilo dos paços do concelho, dois dias, pelo menos, antes da data daquela reunião.
 
-###### Art. 9.º Nos concelhos de Lisboa e Porto, a competência a que se referem os artigos 727.º e seu § único e 783.º do Código Administrativo será exercida, em 1.ª instância, por um tribunal especial denominado «Tribunal de Reclamações e Transgressões».
+Art. 9.º Nos concelhos de Lisboa e Porto, a competência a que se referem os artigos 727.º e seu § único e 783.º do Código Administrativo será exercida, em 1.ª instância, por um tribunal especial denominado «Tribunal de Reclamações e Transgressões».
 
-###### Art. 10.º Os tribunais de reclamações e transgressões que funcionam junto das Câmaras Municipais de Lisboa e do Porto terão, respectivamente, dois juízes de direito e um agente do Ministério Público e um juiz de direito e um agente do Ministério Público.
+Art. 10.º Os tribunais de reclamações e transgressões que funcionam junto das Câmaras Municipais de Lisboa e do Porto terão, respectivamente, dois juízes de direito e um agente do Ministério Público e um juiz de direito e um agente do Ministério Público.
 
 § 1.º No tribunal não há férias judiciais.
 
@@ -127,15 +180,15 @@ c) Proceder à distribuição dos processos nos termos estabelecidos para os tri
 
 § 5.º O agente do Ministério Público será substituído nos seus impedimentos por quem o presidente da câmara municipal designar.
 
-###### Art. 11.º Das decisões proferidas pelo tribunal, nos processos de reclamações e transgressões fiscais, cabe recurso para o Tribunal de 2.ª Instância das Contribuições e Impostos e das deste para o Supremo Tribunal Administrativo, nos termos da respectiva lei orgânica.
+Art. 11.º Das decisões proferidas pelo tribunal, nos processos de reclamações e transgressões fiscais, cabe recurso para o Tribunal de 2.ª Instância das Contribuições e Impostos e das deste para o Supremo Tribunal Administrativo, nos termos da respectiva lei orgânica.
 
-###### Art. 12.º O pessoal dos quadros distribuir-se-á por grupos, de harmonia com a natureza das suas funções, e a sua admissão, tratando-se de pessoal maior, será feita, mediante concurso, pela classe inferior do respectivo grupo, salvo os casos exceptuados por este diploma.
+Art. 12.º O pessoal dos quadros distribuir-se-á por grupos, de harmonia com a natureza das suas funções, e a sua admissão, tratando-se de pessoal maior, será feita, mediante concurso, pela classe inferior do respectivo grupo, salvo os casos exceptuados por este diploma.
 
-###### Art. 13.º O ingresso no quadro do pessoal maior de secretaria e tesouraria dá-se pelo cargo de escriturário de 2.ª classe, ou de aspirante, se no quadro não houver escriturários, salvo se se tratar de diplomados com curso superior.
+Art. 13.º O ingresso no quadro do pessoal maior de secretaria e tesouraria dá-se pelo cargo de escriturário de 2.ª classe, ou de aspirante, se no quadro não houver escriturários, salvo se se tratar de diplomados com curso superior.
 
-###### Art. 14.º A admissão e promoção do pessoal maior dos serviços especiais, do pessoal do batalhão de sapadores bombeiros e do pessoal menor, especializado e operário, serão feitas de harmonia com os regulamentos especiais aprovados pelo Ministro do Interior.
+Art. 14.º A admissão e promoção do pessoal maior dos serviços especiais, do pessoal do batalhão de sapadores bombeiros e do pessoal menor, especializado e operário, serão feitas de harmonia com os regulamentos especiais aprovados pelo Ministro do Interior.
 
-###### Art. 15.º Os lugares de directores de serviços, comandante do batalhão de sapadores bombeiros e comandante da Polícia Municipal são providos pelo Ministro do Interior, sob proposta do presidente da câmara, em indivíduos que satisfaçam aos seguintes requisitos:
+Art. 15.º Os lugares de directores de serviços, comandante do batalhão de sapadores bombeiros e comandante da Polícia Municipal são providos pelo Ministro do Interior, sob proposta do presidente da câmara, em indivíduos que satisfaçam aos seguintes requisitos:
 
 a) Director dos Serviços Centrais e Culturais - funcionário da 1.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Política e Civil licenciado em Direito, inspector administrativo ou chefe de repartição da mesma Direcção-Geral, ou chefe de repartição da Direcção dos Serviços Centrais e Culturais, habilitado com a licenciatura em Direito;
 
@@ -147,13 +200,13 @@ d) Comandante da Polícia Municipal - oficial de qualquer arma de patente não i
 
 § único. O comandante-geral da Polícia de Segurança Pública será ouvido sobre a proposta para provimento do cargo de comandante da Polícia Municipal.
 
-###### Art. 16.º Os juízes de direito e os agentes do Ministério Público dos tribunais de reclamações e transgressões são providos pelo Ministro do Interior, mediante indicação do Ministro da Justiça, devendo a escolha recair em magistrados da 3.ª ou da 2.ª classe.
+Art. 16.º Os juízes de direito e os agentes do Ministério Público dos tribunais de reclamações e transgressões são providos pelo Ministro do Interior, mediante indicação do Ministro da Justiça, devendo a escolha recair em magistrados da 3.ª ou da 2.ª classe.
 
 § 1.º A nomeação será feita por período de três anos, renovável uma só vez, por igual período, mas caducará logo que o magistrado seja promovido à 1.ª classe.
 
 § 2.º (transitório). O disposto no parágrafo anterior aplica-se aos magistrados actualmente em exercício, que poderão, no entanto, manter-se nos cargos enquanto o Ministério da Justiça não proceder à sua colocação em lugar dos respectivos quadros.
 
-###### Art. 17.º São providos por indivíduos nas condições a seguir mencionadas e mediante escolha do presidente, sob proposta do respectivo director de serviços, os lugares de:
+Art. 17.º São providos por indivíduos nas condições a seguir mencionadas e mediante escolha do presidente, sob proposta do respectivo director de serviços, os lugares de:
 
 a) Chefes de divisão - engenheiro ou arquitecto de reconhecida competência com mais de dez anos de exercício da profissão;
 
@@ -203,33 +256,33 @@ u) Regente do Internato Municipal Condessa de Lumbrales, do Porto - professora p
 
 § 2.º A proposta para o provimento do cargo de pagador de 2.ª classe compete ao director dos Serviços de Finanças, obtida a concordância do tesoureiro.
 
-###### Art. 18.º Os lugares de chefe de secção serão providos em diplomados com curso superior adequado, a estabelecer em regulamento interno.
+Art. 18.º Os lugares de chefe de secção serão providos em diplomados com curso superior adequado, a estabelecer em regulamento interno.
 
 § único. Exceptuam-se os lugares de chefe de secção das Direcções dos Serviços de Finanças, a que poderão também concorrer primeiros-oficiais do próprio quadro, chefes de secretaria das câmaras municipais ou chefes de secção de finanças da Direcção-Geral das Contribuições e Impostos, adjuntos ou subinspectores da Inspecção-Geral de Finanças ou da Inspecção Administrativa.
 
-###### Art. 19.º Nas Câmaras Municipais de Lisboa e Porto poderá existir a classe de escriturário-dactilógrafo, a que corresponde o ordenado de escriturário de 2.ª classe.
+Art. 19.º Nas Câmaras Municipais de Lisboa e Porto poderá existir a classe de escriturário-dactilógrafo, a que corresponde o ordenado de escriturário de 2.ª classe.
 
 § único. Para o provimento no cargo de escriturário-dactilógrafo constitui habilitação mínima a do 1.º ciclo dos liceus ou equivalente.
 
-###### Art. 20.º Na organização interna dos serviços estabelecer-se-á quais os lugares que poderão ser exercidos por pessoal feminino.
+Art. 20.º Na organização interna dos serviços estabelecer-se-á quais os lugares que poderão ser exercidos por pessoal feminino.
 
-###### Art. 21.º Os júris dos concursos para ingresso e promoção do pessoal de carteira serão constituídos:
+Art. 21.º Os júris dos concursos para ingresso e promoção do pessoal de carteira serão constituídos:
 
 1.º Tratando-se de concurso para escriturário-dactilógrafo e escriturário ou aspirante, pelo presidente da câmara municipal ou, em delegação deste, por um director de serviços e por dois funcionários designados pelo presidente da câmara, de entre os chefes de repartição e de secção;
 
 2.º Nos demais casos, pelo presidente da câmara ou, por delegação deste, por um director de serviços, por um chefe de repartição, designado pelo presidente da câmara, e por um funcionário estranho à câmara, designado pelo director-geral de Administração Política e Civil.
 
-###### Art. 22.º Na organização interna dos serviços poderá dispor-se que funcionários dos quadros dos serviços do Estado participem nos júris dos concursos para provimento de cargos técnicos, quando falte nos quadros da câmara pessoal especializado em número bastante para constituir os júris.
+Art. 22.º Na organização interna dos serviços poderá dispor-se que funcionários dos quadros dos serviços do Estado participem nos júris dos concursos para provimento de cargos técnicos, quando falte nos quadros da câmara pessoal especializado em número bastante para constituir os júris.
 
-###### Art. 23.º Os lugares de terceiro-oficial são providos, mediante concurso de provas públicas, de entre os aspirantes com mais de três anos de bom e efectivo serviço, ou diplomados com curso superior, ainda que estranhos ao quadro.
+Art. 23.º Os lugares de terceiro-oficial são providos, mediante concurso de provas públicas, de entre os aspirantes com mais de três anos de bom e efectivo serviço, ou diplomados com curso superior, ainda que estranhos ao quadro.
 
-###### Art. 24.º Os lugares de escriturário, ou de aspirante quando no quadro não haja escriturários, são providos, mediante concurso de provas públicas, de entre os indivíduos com o curso geral dos liceus ou habilitação equivalente.
+Art. 24.º Os lugares de escriturário, ou de aspirante quando no quadro não haja escriturários, são providos, mediante concurso de provas públicas, de entre os indivíduos com o curso geral dos liceus ou habilitação equivalente.
 
-###### Art. 25.º A primeira nomeação para lugar dos quadros terá carácter provisório durante dois anos, ou durante um ano quando recaia em funcionário do Estado ou de outro corpo administrativo com provimento definitivo. Findo o período de nomeação provisória, será o provimento convertido em definitivo, se o funcionário tiver dado provas de moralidade, aptidão e zelo; no caso contrário, será exonerado.
+Art. 25.º A primeira nomeação para lugar dos quadros terá carácter provisório durante dois anos, ou durante um ano quando recaia em funcionário do Estado ou de outro corpo administrativo com provimento definitivo. Findo o período de nomeação provisória, será o provimento convertido em definitivo, se o funcionário tiver dado provas de moralidade, aptidão e zelo; no caso contrário, será exonerado.
 
 § único. Os funcionários públicos ou administrativos providos provisòriamente em lugares a que se refere este artigo consideram-se em comissão de serviço.
 
-###### Art. 26.º Exercerão as suas funções em comissão de serviço os funcionários seguintes:
+Art. 26.º Exercerão as suas funções em comissão de serviço os funcionários seguintes:
 
 a) O comandante, o 2.º comandante e o adjunto técnico do batalhão de sapadores bombeiros;
 
@@ -239,27 +292,27 @@ c) Os juízes, os agentes do Ministério Público, o chefe de secretaria judicia
 
 § único. O serviço prestado na situação a que se refere este artigo considera-se, para todos os efeitos, como se fosse prestado nos respectivos quadros, sem prejuízo do disposto no Estatuto do Oficial do Exército.
 
-###### Art. 27.º O presidente e os vice-presidentes da câmara poderão escolher para secretário um funcionário da própria câmara.
+Art. 27.º O presidente e os vice-presidentes da câmara poderão escolher para secretário um funcionário da própria câmara.
 
 § único. Se os funcionários escolhidos tiverem ordenado inferior ao de primeiro-oficial, ser-lhes-á abonada a diferença, a título de gratificação. Tratando-se de funcionário com a categoria de primeiro-oficial ou superior, a gratificação mensal a abonar será de 500$00.
 
-###### Art. 28.º Nas Câmaras Municipais de Lisboa e do Porto compete, respectivamente, ao notário privativo e ao chefe da repartição central o exercício das funções notariais em todos os actos em que a câmara for outorgante.
+Art. 28.º Nas Câmaras Municipais de Lisboa e do Porto compete, respectivamente, ao notário privativo e ao chefe da repartição central o exercício das funções notariais em todos os actos em que a câmara for outorgante.
 
 § único. Dos emolumentos respeitantes aos actos notariais pertencem ao funcionário 30 por cento, não podendo, somados ao ordenado, exceder, em cada ano, 95 por cento do ordenado dos directores de serviços, e revertendo para a câmara o restante.
 
-###### Art. 29.º A verificação do estado de doença dos funcionários e assalariados, para efeito de concessão de licença, compete a uma junta composta por dois médicos da câmara e presidida pelo director dos Serviços Centrais e Culturais ou por um chefe de repartição por este designado.
+Art. 29.º A verificação do estado de doença dos funcionários e assalariados, para efeito de concessão de licença, compete a uma junta composta por dois médicos da câmara e presidida pelo director dos Serviços Centrais e Culturais ou por um chefe de repartição por este designado.
 
-###### Art. 30.º A delegação permitida pelo § 2.º do artigo 105.º do Código Administrativo passa a ser extensiva aos chefes de divisão.
+Art. 30.º A delegação permitida pelo § 2.º do artigo 105.º do Código Administrativo passa a ser extensiva aos chefes de divisão.
 
-###### Art. 31.º Nos processos disciplinares instaurados a funcionários do quadro do pessoal maior dos serviços especiais poderão servir de instrutores funcionários da câmara de categoria igual ou superior à dos arguidos.
+Art. 31.º Nos processos disciplinares instaurados a funcionários do quadro do pessoal maior dos serviços especiais poderão servir de instrutores funcionários da câmara de categoria igual ou superior à dos arguidos.
 
-###### Art. 32.º As Câmaras Municipais de Lisboa e do Porto podem instituir cursos de preparação dos candidatos a concurso de promoção, de frequência facultativa, orientados por chefes de repartição ou de secção, aos quais será abonada gratificação fixada pelo Ministro do Interior, sob proposta do presidente da câmara, quando o seu funcionamento se verifique fora das horas normais de serviço.
+Art. 32.º As Câmaras Municipais de Lisboa e do Porto podem instituir cursos de preparação dos candidatos a concurso de promoção, de frequência facultativa, orientados por chefes de repartição ou de secção, aos quais será abonada gratificação fixada pelo Ministro do Interior, sob proposta do presidente da câmara, quando o seu funcionamento se verifique fora das horas normais de serviço.
 
-###### Art. 33.º As funções de proposto do tesoureiro serão exercidas por pagador de 1.ª classe ou por um primeiro-oficial designado pelo presidente da câmara, sob proposta do tesoureiro, com parecer favorável do director dos Serviços de Finanças.
+Art. 33.º As funções de proposto do tesoureiro serão exercidas por pagador de 1.ª classe ou por um primeiro-oficial designado pelo presidente da câmara, sob proposta do tesoureiro, com parecer favorável do director dos Serviços de Finanças.
 
-###### Art. 34.º Aos tesoureiros correspondem os ordenados de chefe de secção e as gratificações e abonos para falhas atribuídos aos tesoureiros da Fazenda Pública de 1.ª classe.
+Art. 34.º Aos tesoureiros correspondem os ordenados de chefe de secção e as gratificações e abonos para falhas atribuídos aos tesoureiros da Fazenda Pública de 1.ª classe.
 
-###### Art. 35.º Poderão ser abonadas as seguintes gratificações:
+Art. 35.º Poderão ser abonadas as seguintes gratificações:
 
 a) Ao proposto do tesoureiro, 500$00 mensais;
 
@@ -273,7 +326,7 @@ e) Aos artífices de 1.ª e aos artífices de 2.ª, quarteleiros, motoristas, en
 
 § único. O director do Conservatório de Música do Porto mantém direito à gratificação prevista no [Decreto-Lei n.º 43212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43212-1960-514027), de 11 de Outubro de 1960.
 
-###### Art. 36.º Serão concedidos os seguintes abonos mensais para falhas:
+Art. 36.º Serão concedidos os seguintes abonos mensais para falhas:
 
 a) Ao proposto do tesoureiro, aos pagadores ou aos funcionários que venham a substituí-los, conforme o que vier a dispor-se nas organizações de serviços, 400$00;
 
@@ -281,24 +334,24 @@ b) Ao contínuo encarregado da venda do Diário Municipal de Lisboa, 100$00.
 
 § único. O pessoal que receber abono para falhas prestará caução dos quantitativos a fixar na organização de serviços.
 
-###### Art. 37.º Poderão ser concedidas gratificações mensais, de quantitativo a propor pelo presidente da câmara e a aprovar pelo Ministro do Interior, ao pessoal que tenha a seu cargo a direcção das instalações municipais desportivas, recreativas ou turísticas, ou que nas mesmas preste serviço fora do horário legal do exercício de funções.
+Art. 37.º Poderão ser concedidas gratificações mensais, de quantitativo a propor pelo presidente da câmara e a aprovar pelo Ministro do Interior, ao pessoal que tenha a seu cargo a direcção das instalações municipais desportivas, recreativas ou turísticas, ou que nas mesmas preste serviço fora do horário legal do exercício de funções.
 
-###### Art. 38.º É autorizada a Câmara Municipal de Lisboa a criar o Gabinete de Estudos Olisiponenses, integrado na Direcção dos Serviços Centrais e Culturais, especialmente destinado à investigação e divulgação de assuntos que interessem à história da cidade.
+Art. 38.º É autorizada a Câmara Municipal de Lisboa a criar o Gabinete de Estudos Olisiponenses, integrado na Direcção dos Serviços Centrais e Culturais, especialmente destinado à investigação e divulgação de assuntos que interessem à história da cidade.
 
 § 1.º Em regulamento especial se estabelecerão as condições de funcionamento do serviço.
 
 § 2.º O Gabinete poderá ser confiado a um director escolhido pelo presidente da Câmara, de entre indivíduos de reconhecida competência, fora do quadros municipais, e as funções poderão ser remuneradas por gratificação mensal, de quantitativo não superior a 1500$00.
 
-###### Art. 39.º Juntamente com a organização interna dos serviços serão aprovados pelo Ministro do Interior os quadros donde constem as categorias e classes a que ficam pertencendo os funcionários e assalariados, nomeadamente aqueles cujas categorias ou classes forem alteradas.
+Art. 39.º Juntamente com a organização interna dos serviços serão aprovados pelo Ministro do Interior os quadros donde constem as categorias e classes a que ficam pertencendo os funcionários e assalariados, nomeadamente aqueles cujas categorias ou classes forem alteradas.
 
 § único. O provimento de novos cargos resultantes da arrumação prevista neste artigo verificar-se-á independentemente de posse ou de qualquer outra formalidade.
 
-###### Art. 40.º Podem ser admitidos aos concursos para lugares de ingresso nos quadros das Câmaras Municipais de Lisboa e do Porto os que, excedendo o limite de idade a que se refere o n.º 2.º do artigo 460.º do Código Administrativo, satisfaçam aos demais requisitos legais e se encontrem na própria Câmara, ininterruptamente, no exercício de funções correspondentes às dos mesmos lugares desde data anterior àquela em que atingiram o referido limite.
+Art. 40.º Podem ser admitidos aos concursos para lugares de ingresso nos quadros das Câmaras Municipais de Lisboa e do Porto os que, excedendo o limite de idade a que se refere o n.º 2.º do artigo 460.º do Código Administrativo, satisfaçam aos demais requisitos legais e se encontrem na própria Câmara, ininterruptamente, no exercício de funções correspondentes às dos mesmos lugares desde data anterior àquela em que atingiram o referido limite.
 
-###### Art. 41.º São autorizadas as câmaras municipais a aprovar, para além do número previsto no § 1.º do artigo 680.º do Código Administrativo, mais um orçamento suplementar, especialmente destinado à satisfação dos encargos decorrentes da organização interna dos serviços a elaborar nos termos do presente diploma.
+Art. 41.º São autorizadas as câmaras municipais a aprovar, para além do número previsto no § 1.º do artigo 680.º do Código Administrativo, mais um orçamento suplementar, especialmente destinado à satisfação dos encargos decorrentes da organização interna dos serviços a elaborar nos termos do presente diploma.
 
-###### Art. 42.º Este diploma revoga e substitui os artigos 3.º e seguintes do [Decreto-Lei n.º 38065](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38065-1950-490902), de 24 de Novembro de 1950.
+Art. 42.º Este diploma revoga e substitui os artigos 3.º e seguintes do [Decreto-Lei n.º 38065](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38065-1950-490902), de 24 de Novembro de 1950.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1980-457674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d112ce93c16e57ae6c2525aa5c61fc5d7561252b88a8a98e67dbadb712d192
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c782d7c5d94688c7895b029ebf8b07fec47d78f669d191273c110c548c90eb68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acreditação
+- Câmara Municipal
+- Direcção Geral de Energia
+- Equipamento Eléctrico
+- Especificação Técnica
+- Indústria da Construção
+- Licenciamento
+- Obras Particulares
+- Projeto
+- Regulamento de Licenças para Instalações Eléctricas
 relationships:
 - type: amended_by
   target: pt:dre:107987277:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:597570:por
+  label: "Alterado, a partir de 01.02.1993, o nº 2 do art. 3º, nº 4 do art. 7º, nº 4 do art. 13º e nº 5 do anexo I, pelo DEC\
+    \ LEI.272/92.1992.12.03.MIE, DR.IS-A [279]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1992-597570
+  date: '1992-12-03'
+- type: amended_by
+  target: pt:dre:626594:por
+  label: "Alterado o art. 7º pelo DEC LEI.315/95.1995.11.28.PCM, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1995-626594
+  date: '1995-11-28'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: "Dada nova redacção ao artigo 22.º e aditados os artigos 22.º-A e 22.º-B do presente diploma, pela LEI.30/2006.11.07.2006.AR,\
+    \ DR.IS [132] de 11.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2006-537249
+  date: '2006-07-11'
+- type: amended_by
+  target: pt:dre:520208:por
+  label: "Alterados os arts. 7º e 12º do Regulamento de Licenças para Instalações Eléctricas aprovado pelo Dec Lei 26852 de\
+    \ 30-Jul 1936, com a redacção conferida mo presente diploma, pelo DEC LEI.101/2007.02.04.2007.MEI, DR.IS [65] de 02.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2007-520208
+  date: '2007-04-02'
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500742:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:391178:por
+  label: Rectificado pela DECL.DD6342.02.02.1981.PCM, DR.IS [43] de 20.02.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-391178
+  date: '1981-02-02'
+- type: repealed_by
+  target: pt:dre:107987277:por
+  label: Revogado a partir de 01.01.2018 pelo(a) Decreto-Lei n.º 96/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2017-107987277
+  date: '2017-08-10'
 article_structure:
   article_count: 2
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:03Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +166,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Generalidades
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Campo de aplicação)
 
@@ -110,7 +174,7 @@ O disposto neste decreto-lei será aplicável às instalações eléctricas de s
 
 ### CAPÍTULO II — Obras sujeitas a licenciamento municipal
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Obras cuja instalação eléctrica carece de projecto)
 
@@ -120,7 +184,7 @@ O disposto neste decreto-lei será aplicável às instalações eléctricas de s
 
 3 - A licença municipal de construção só poderá ser concedida após a aprovação do projecto referido no n.º 1.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Obras cuja instalação eléctrica não carece de projecto)
 
@@ -134,7 +198,7 @@ O disposto neste decreto-lei será aplicável às instalações eléctricas de s
 
 5 - Para as instalações eléctricas em que se verifiquem alterações de características relativamente às indicadas na ficha electrotécnica e que, em virtude disso, passem a carecer de projecto, deverá o mesmo ser apresentado de acordo com os artigos 4.º a 6.º e instruído com os elementos constantes do artigo 12.º, fazendo-se tramitação do processo de acordo com o artigo 7.º
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Constituição do projecto de licenciamento da instalação eléctrica)
 
@@ -188,7 +252,7 @@ f) Quando necessário, as plantas, alçados e cortes, em escala conveniente, dos
 
 11 - Tratando-se de várias edificações iguais em que a instalação eléctrica se repete, poderá aceitar-se um só projecto por cada pedido de aprovação.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Projecto de instalação eléctrica de 2.ª categoria)
 
@@ -200,7 +264,7 @@ f) Quando necessário, as plantas, alçados e cortes, em escala conveniente, dos
 
 4 - Se as instalações referidas no n.º 1 estiverem relacionadas com o estabelecimento de uma linha de alta tensão de serviço público, o projecto deverá ter em conta as indicações dadas pelo respectivo distribuidor público de energia eléctrica em alta tensão quanto à localização do posto de transformação ou da instalação de recepção e da entrada da linha de alta tensão.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Número de exemplares, dimensões e formatos das partes constituintes do projecto)
 
@@ -218,7 +282,7 @@ c) Para instalações de serviço particular de 5.ª categoria ou seus conjuntos
 
 4 - O conjunto dos exemplares do projecto da instalação eléctrica deve constituir um anexo ao projecto de construção, por forma a facilitar aos serviços municipais o cumprimento do n.º 1 do artigo seguinte.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Apreciação do projecto)
 
@@ -248,7 +312,7 @@ b) À Direcção-Geral dos Espectáculos, no caso de instalações de 3.ª categ
 
 11 - A câmara municipal juntará um exemplar do projecto aprovado pela entidade competente, e por esta a ela remetido, ao exemplar do projecto de construção civil, destinado a ser entregue ao requerente quando da concessão da respectiva licenca de construção.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Alteração do projecto)
 
@@ -256,7 +320,7 @@ b) À Direcção-Geral dos Espectáculos, no caso de instalações de 3.ª categ
 
 2 - O projecto rectificativo satisfará, na parte aplicável, o disposto nos artigos 4.º a 6.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Instalações provisórias)
 
@@ -264,7 +328,7 @@ Para as instalações provisórias poderá ser dispensado o cumprimento dos arti
 
 ### CAPÍTULO III — Obras não sujeitas a licenciamento municipal
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Apreciação do projecto)
 
@@ -276,7 +340,7 @@ b) Para as instalações referidas no n.º 2 do artigo 7.º, o projecto será ap
 
 2 - Quando se verifique a situação indicada no número anterior, deverá o proprietário ou técnico responsável declarar expressamente que a obra não carece de licença municipal.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Dispensa de apreciação prévia do projecto)
 
@@ -286,7 +350,7 @@ b) Para as instalações referidas no n.º 2 do artigo 7.º, o projecto será ap
 
 ### CAPÍTULO IV — Responsabilidades
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Responsabilidade do projecto)
 
@@ -296,7 +360,7 @@ b) Para as instalações referidas no n.º 2 do artigo 7.º, o projecto será ap
 
 3 - Tratando-se de instalações referidas no n.º 2 do artigo 7.º, o distribuidor público remeterá o termo de responsabilidade referido no número anterior às entidades encarregadas da apreciação do projecto.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Responsabilidade pela execução)
 
@@ -310,7 +374,7 @@ b) Para as instalações referidas no n.º 2 do artigo 7.º, o projecto será ap
 
 5 - Para as instalações estabelecidas em locais residenciais ou de uso profissional de potência igual ou inferior a 6,6 kVA, o termo de responsabilidade será substituído por uma declaração (anexo III.3), feita em papel selado, de que a instalação será executada de acordo com as disposições regulamentares em vigor.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Responsabilidade da exploração)
 
@@ -320,25 +384,25 @@ b) Para as instalações referidas no n.º 2 do artigo 7.º, o projecto será ap
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Licença de estabelecimento)
 
 No caso de instalações eléctricas que careçam de licença de estabelecimento, a aprovação do projecto não dispensa essa licença, que deve ser requerida nos termos regulamentares.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Dispensa de disposições contidas neste diploma)
 
 Os departamentos do Estado dotados de serviços técnicos de electrotecnia, devidamente organizados, poderão ser dispensados de algumas das disposições deste decreto-lei, desde que o solicitem, por escrito, à Direcção-Geral de Energia.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Delegação na apreciação do projecto de 2.ª categoria)
 
 Por despacho do director-geral de Energia poderá ser delegada no distribuidor público de energia eléctrica a apreciação de projectos de instalações eléctricas de 2.ª categoria.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Classificação das instalações eléctricas de serviço particular)
 
@@ -374,7 +438,7 @@ Instalações que não pertençam a nenhuma das categorias anteriores e sejam al
 
 As instalações eléctricas de serviço particular de 4.ª categoria carecem de licença de estabelecimento concedida pelo Director-Geral de Energia e são tratadas, para efeito de licenciamento, como se fossem de 1.ª categoria.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Responsabilidade pela exploração)
 
@@ -388,7 +452,7 @@ As instalações eléctricas de serviço particular de 4.ª categoria carecem de
 
 5 - O prazo referido no n.º 3 será fixado por despacho do Ministro da Indústria e Energia, tendo em conta a data em que entraram em exploração as referidas instalações eléctricas.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Inspecções de instalação eléctrica)
 
@@ -400,7 +464,7 @@ As instalações eléctricas de serviço particular de 4.ª categoria carecem de
 
 4 - Relativamente aos técnicos que à data da entrada em vigor do presente diploma já sejam responsáveis pela exploração de instalações eléctricas, será fixado, por despacho do director-geral de Energia, um calendário para o envio do relatório referido nos números anteriores.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Competência dos técnicos responsáveis pela execução)
 
@@ -424,25 +488,25 @@ d) Electricistas com a categoria de oficial, possuidores de carteira profissiona
 
 6 - Tratando-se da montagem de elevadores eléctricos, poderá a responsabilidade ser assumida por qualquer dos técnicos indicados no n.º 1, desde que provem ter experiência e competência dentro deste ramo de actividade.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Penalidades)
 
 Qualquer infracção ao disposto neste decreto-lei será punida nos termos do artigo 20.º do [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Legislação revogada)
 
 Fica revogado o [Decreto-Lei n.º 229/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1976-500742), de 1 de Abril, e legislação complementar.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Dúvidas)
 
 As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Indústria e Energia, mediante proposta do director-geral de Energia.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Entrada em vigor)
 
@@ -450,11 +514,11 @@ O presente diploma entra em vigor noventa dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Instalações eléctricas que carecem de projecto
 
@@ -474,9 +538,9 @@ Carecem de projecto as instalações eléctricas definidas no Regulamento de Lic
 
 7) Instalações de parques de campismo e de portos de recreio (marinas).
 
-## ANEXO II.1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf))](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf)
+## ANEXO II.1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf)
 
-## ANEXO II.2 — [([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf))](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf)
+## ANEXO II.2 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf)
 
 ## ANEXO III.1 — Termo de responsabilidade
 
@@ -538,7 +602,7 @@ Data: .../.../...
 
 (nota 1) Indicar se se trata de uma subestação, posto de transformação, instalação de utilização, etc., ou conjunto destas instalações, e quais as características principais dessa instalação (tensão, potência e tipo de local em que está instalada).
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf))](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/25300/36973707.pdf)
 
 ## ANEXO V — Instalações eléctricas de serviço particular que carecem de técnico responsável pela exploração
 

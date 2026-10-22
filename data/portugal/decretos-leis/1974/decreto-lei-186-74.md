@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/10500/05980598.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1974-623205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e29e6b18cc2faac1f3b926e43884d0074d6c4e2577d405f85b8df5a7640b438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3150e06d9c915c6ee304c8acbc8dd8ed20b8554a249bca7dbced382a94f50754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cheque
+- Instituição de Crédito
+- Letras e Livranças
+- Pagamento
+- Títulos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:252005:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:398137:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI 203/77 DE 21 DE MAIO, PUBLICADO NO DR.IS, 118, DE 770521.\0521.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:02Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +108,7 @@ Importando, ao mesmo tempo, regularizar as operações em atraso em que tais tí
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As letras, livranças e extractos de factura, quando liquidadas por meio de cheque, serão entregues aos respectivos pagadores nos seguintes termos:
+Artigo 1.º - 1. As letras, livranças e extractos de factura, quando liquidadas por meio de cheque, serão entregues aos respectivos pagadores nos seguintes termos:
 
 a) Quando liquidadas por meio de cheques visados imediatamente;
 
@@ -103,17 +116,17 @@ b) Quando liquidadas por meio de cheques não visados, após a boa cobrança dos
 
 2. No caso da alínea b) do número anterior, será entregue pelo portador do título de crédito ao pagador documento comprovativo da entrega efectuada, isento de imposto do selo.
 
-###### Art. 2.º A apresentação a protesto dos mencionados títulos de crédito, por falta de boa cobrança de cheques, poderá ser efectuada dentro dos dois dias úteis subsequentes ao prazo dos oito dias referidos na alínea b) do artigo 1.º, com todos os efeitos legais relativamente a todos os co-obrigados.
+Art. 2.º A apresentação a protesto dos mencionados títulos de crédito, por falta de boa cobrança de cheques, poderá ser efectuada dentro dos dois dias úteis subsequentes ao prazo dos oito dias referidos na alínea b) do artigo 1.º, com todos os efeitos legais relativamente a todos os co-obrigados.
 
-###### Art. 3.º - 1. O apresentante de um cheque para pagamento dos referidos títulos de crédito deverá indicar no verso do ou dos respectivos cheques o título de crédito a cuja liquidação se destinam, assinando tal declaração.
+Art. 3.º - 1. O apresentante de um cheque para pagamento dos referidos títulos de crédito deverá indicar no verso do ou dos respectivos cheques o título de crédito a cuja liquidação se destinam, assinando tal declaração.
 
 2. Esta declaração, conjuntamente com a da devolução do cheque, servirá de prova perante o cartório notarial competente para apresentação a protesto, nos prazos do artigo 2.º
 
-###### Art. 4.º - 1. Sem prejuízo do especificamente estabelecido neste diploma, mantêm-se, quanto ao mais, todas as disposições legais em vigor.
+Art. 4.º - 1. Sem prejuízo do especificamente estabelecido neste diploma, mantêm-se, quanto ao mais, todas as disposições legais em vigor.
 
 2. No caso de o pagamento ser efectuado por débito em conta, que deverá estar devidamente provisionada, o título será restituído ao pagador após o respectivo lançamento.
 
-###### Art. 5.º - 1. As letras, livranças e extractos de factura cujos vencimentos deveriam ter já ocorrido em Abril e Maio de 1974 passam a ter, como último dia de pagamento e apresentação a protesto, as seguintes datas próximas:
+Art. 5.º - 1. As letras, livranças e extractos de factura cujos vencimentos deveriam ter já ocorrido em Abril e Maio de 1974 passam a ter, como último dia de pagamento e apresentação a protesto, as seguintes datas próximas:
 
 a) Com vencimentos em 23 e 24 de Abril - dia 10 de Maio;
 
@@ -129,10 +142,10 @@ f) Com vencimentos desde 7 de Maio até à entrada em vigor do presente Decreto-
 
 2. As letras, livranças e extractos de factura que se vencerem a partir da data da entrada em vigor do presente decreto-lei regem-se pelo disposto nos artigos 1.º a 4.º deste diploma e demais legislação em vigor.
 
-###### Art. 6.º Este diploma entra imediatamente em vigor.
+Art. 6.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 6 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.

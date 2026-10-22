@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/12300/14921494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1982-391874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7456443dd4aa1e2f1fba7b576d152d946775faadbcf3d7f316a386575f6951a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24cd90a5bacae9848c22d761ee9ffb7d20ea2415f84caca34e170f3e02f53992
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Directiva
+- Conselho Administrativo
+- Conselho Consultivo
+- Criação de Serviços
+- Definição de Competências
+- Estatuto
+- Fundo de Apoio ao Investimento para a Habitação
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:384471:por
+  label: "Extinto pelo DEC LEI.177/84.25.05.1984.MES, DR.IS [121] de 25.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1984-384471
+  date: '1984-05-25'
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:22Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +119,21 @@ Assim:
 
 O Governo decreta, no termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado o Fundo de Apoio ao Investimento para a Habitação, abreviadamente designado por FAIH.
+Artigo 1.º - 1 - É criado o Fundo de Apoio ao Investimento para a Habitação, abreviadamente designado por FAIH.
 
 2 - O FAIH é uma pessoa colectiva de direito público, dotado de autonomia administrativa e financeira e de património próprio, cujos estatutos são anexos ao presente decreto-lei, dele constituindo parte integrante.
 
-###### Art. 2.º O FAIH funciona junto do Crédito Predial Português, sendo as suas relações com esta instituição de crédito reguladas pelos estatutos anexos.
+Art. 2.º O FAIH funciona junto do Crédito Predial Português, sendo as suas relações com esta instituição de crédito reguladas pelos estatutos anexos.
 
 ESTATUTOS DO FUNDO DE APOIO AO INVESTIMENTO PARA A HABITAÇÃO
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Natureza)
 
 O Fundo de Apoio ao Investimento para a Habitação (FAIH), designado abreviadamente por «Fundo», é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Objecto)
 
@@ -134,7 +155,7 @@ f) Realizar outras operações no domínio dos mercados monetário e financeiro 
 
 g) Desempenhar outras funções que lhe sejam atribuídas por lei.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Receitas)
 
@@ -152,7 +173,7 @@ e) As heranças, legados e doações de que venha a ser beneficiário;
 
 f) Outras receitas que lhe venham a ser atribuídas por lei.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Actividade)
 
@@ -170,7 +191,7 @@ c) Orçamentos anuais.
 
 4 - O movimento das receitas e despesas do Fundo não fica subordinado ao regime «Contas de ordem» a que se refere o [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Órgãos)
 
@@ -182,7 +203,7 @@ b) O conselho administrativo;
 
 c) O conselho consultivo.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Comissão directiva)
 
@@ -198,7 +219,7 @@ c) 1 representante do Ministério da Habitação, Obras Públicas e Transportes.
 
 3 - Compete à comissão directiva elaborar e submeter à aprovação do Ministro da Habitação, Obras Públicas e Transportes os programas anuais e plurianuais de actividades do Fundo, assegurando a adequação dos meios que lhe são confiados às orientações da política habitacional definida pelo Ministério da Habitação, Obras Públicas e Transportes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Conselho administrativo)
 
@@ -238,7 +259,7 @@ c) Representar o Fundo em juízo e fora dele e assinar em seu nome todos os cont
 
 5 - O presidente do conselho administrativo poderá delegar noutro membro deste órgão o exercício total ou parcial das suas funções.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Conselho consultivo)
 
@@ -256,13 +277,13 @@ a) Apreciar e emitir parecer sobre a política de crédito à habitação, desig
 
 b) Apreciar e emitir parecer sobre os programas e relatórios de actividades do Fundo.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Serviços)
 
 No exercício da sua actividade, o Fundo utilizará a estrutura administrativa do Crédito Predial Português, nos termos a definir nos regulamentos previstos na alínea i) do n.º 3 do artigo 7.º dos presentes Estatutos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 A tutela do Fundo compete ao Ministro de Estado e das Finanças e do Plano, compreendendo os poderes para:
 
@@ -280,8 +301,8 @@ f) Exercer outros poderes conferidos pelos presentes Estatutos ou na lei.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 17 de Maio de 1982.**
+Promulgado em 17 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

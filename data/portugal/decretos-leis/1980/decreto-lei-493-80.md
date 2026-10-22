@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24200/34663467.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1980-462442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50eb38d938622dbe96d15ecd61c2a5f1c138d69942827a912115b878c25bf5ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b30d4f0d0db7ee06fef7383b6668e17fd7d6e5378f1b3834a61ad337038dc8de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Deslocação ao Estrangeiro
+- Forças Armadas
+- Militar
+- Missão no Estrangeiro
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394751:por
+  label: "Aditado um artigo 4.º, pelo DEC LEI.83/81.23.04.1981.CR, DR.IS [94] de 23.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1981-394751
+  date: '1981-04-23'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:517409:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:41Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +113,18 @@ Tornando-se necessário actualizar a matéria constante do [Decreto-Lei n.º 606
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º As ajudas de custo diárias a abonar aos militares do Exército, da Armada e da Força Aérea que se desloquem para fora do território da República em cumprimento de missões especiais, a definir por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores dos ramos respectivos e enquadrados em forças constituídas, passam a ser as seguintes:
+Artigo 1.º As ajudas de custo diárias a abonar aos militares do Exército, da Armada e da Força Aérea que se desloquem para fora do território da República em cumprimento de missões especiais, a definir por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores dos ramos respectivos e enquadrados em forças constituídas, passam a ser as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24200/34663467.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24200/34663467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24200/34663467.pdf)
 
-###### Art. 2.º Os quantitativos fixados na tabela constante do artigo anterior poderão de futuro ser actualizados, mediante despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Ministros da Defesa Nacional e das Finanças e do Plano, pelo Governo.
+Art. 2.º Os quantitativos fixados na tabela constante do artigo anterior poderão de futuro ser actualizados, mediante despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Ministros da Defesa Nacional e das Finanças e do Plano, pelo Governo.
 
-###### Art. 3.º Fica revogado o [Decreto-Lei n.º 606-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/606-a-1975-517409), de 3 de Novembro.
+Art. 3.º Fica revogado o [Decreto-Lei n.º 606-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/606-a-1975-517409), de 3 de Novembro.
 
 Visto e aprovado em Conselho da Revolução em 20 de Agosto de 1980.
 
-**Promulgado em 1 de Outubro de 1980.**
+Promulgado em 1 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco Sá Carneiro.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19500/23352337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1980-471087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8bed0f8e1102513de8f15d0d1651b160bf7ff9841a6a78a1f2a1ecf0d938736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ca6ce74a01fcff824e51042e9cc2e15d852eaef474cbde8a0e97866bdc96f08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade Pública
+- Reposição de Verbas
+- Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:144217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDO EM VIGOR O DISPOSTO NO ARTIGO 6 PARA AS REPOSI&#199;&#213;ES EFECTUADAS NOS SERVI&#199;OS E ORGANISMOS (REFERIDOS\
+    \ NO NUMERO 1 DO ARTIGO 2 DO DECRETO LEI 83/93) PELO DECRETO LEI 83/93, DE 18 DE MARCO, PUBLICADO NO DR.IS-A, 65, DE 930318.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantido em vigor o disposto no art. 6º para as reposições efectuadas nos serviços e organismos pelo DEC LEI.77/94.1994.03.09.MF,\
+    \ DR.IS-A [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "Mantido em vigor, para as reposições efectuadas nos serviços e organismos já integrados, ou que venham a integrar-se\
+    \ no novo Regime Financeiro da Administração Pública, o disposto no art. 6.º do presente diploma, pelo DEC LEI.45/95.1995.03.02.MF\
+    \ DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
+  date: '1995-03-02'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Mantido em vigor, para os serviços e organismos da Administração Pública que não tenham tido uma adesão plena aos
+    princípios definidos no Dec Lei 155/92 de 28-Jul, pelo(a) Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011,
+    1º Suplemento, Série I de 2011-03-01, sem prejuízo do disposto no n.º 2 do art. 2º deste último diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: cites
+  target: pt:dre:326479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567918:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275619:por
+  label: "Revogado pelo DEC LEI.155/92.28.07.1992.MF, DR.IS-A [172] de 28.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1992-275619
+  date: '1992-07-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:58Z'
   warnings: []
   errors: []
 ---
@@ -185,8 +231,8 @@ As dúvidas que se suscitarem na aplicação do presente diploma serão esclarec
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 5 de Agosto de 1980.**
+Promulgado em 5 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

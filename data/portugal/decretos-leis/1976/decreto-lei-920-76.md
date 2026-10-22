@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 303/1976, 3º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2900-(51) a 2900-(55)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30303/00510055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d86eec48a9104b7b940e303bfbcc38e7b3305b16c921d5d68ecfb8dc307253b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a388e5204eb8f193c82d11611fbe53821cb48085a0a2fb2b33c1120769802ff6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Reestruturação de Carreiras
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583038:por
+  label: "Dada nova redacção ao nº 4 do art. 39º pelo DEC LEI.243/77.08.06.1977.CR, DR.IS [133-SUPL] de 08.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1977-583038
+  date: '1977-06-08'
+- type: amended_by
+  target: pt:dre:294727:por
+  label: Alterada a al. c) do art. 30º pelo DEC LEI.123/78.03.06.1978.CR, DR.IS [127] de 03.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1978-294727
+  date: '1978-06-03'
+- type: amended_by
+  target: pt:dre:460604:por
+  label: "Alterada a alínea g) do artigo 30.º, pelo DEC LEI.381/80.18.09.1980.CR, DR.IS [216] de 18.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-1980-460604
+  date: '1980-09-18'
+- type: amended_by
+  target: pt:dre:662293:por
+  label: "Alterado o art. 30º, na redacção dada pelo Dec Lei 381/80 de 18-Set, pelo DEC LEI.119/87.1987.03.16.MDN DR.IS [62]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1987-662293
+  date: '1987-03-16'
+- type: amended_by
+  target: pt:dre:419577:por
+  label: "Alterado o artigo 14.º pelo DEC LEI.261/87.29.06.1987.MDN, DR.IS [146] de 29.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1987-419577
+  date: '1987-06-29'
+- type: cites
+  target: pt:dre:579957:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138152:por
+  label: Rectificado pela DECL.DD778.22.01.1977.PCM, DR.IS [18] de 22.01.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-138152
+  date: '1977-01-22'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:47Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +143,9 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 ### CAPÍTULO I — Hierarquia e funções
 
-###### Artigo 1.º Consideram-se sargentos dos quadros permanentes do Exército (sargentos dos QP) os que, destinados voluntariamente à carreira das armas, adquiriram preparação especial para o seu exercício e servem no Exército com carácter de permanência.
+Artigo 1.º Consideram-se sargentos dos quadros permanentes do Exército (sargentos dos QP) os que, destinados voluntariamente à carreira das armas, adquiriram preparação especial para o seu exercício e servem no Exército com carácter de permanência.
 
-###### Art. 2.º - 1. No Exército, os sargentos dos QP distribuem-se hierarquicamente pelos seguintes postos:
+Art. 2.º - 1. No Exército, os sargentos dos QP distribuem-se hierarquicamente pelos seguintes postos:
 
 Sargento-mor;
 
@@ -115,7 +159,7 @@ Segundo-sargento.
 
 2. O posto de furriel situa-se imediatamente abaixo do de segundo-sargento, sendo considerado, no que respeita a continências e honras militares, na mesma categoria deste.
 
-###### Art. 3.º - 1. Aos sargentos dos QP compete desempenhar funções de comando, de chefia, de instrução, de carácter administrativo logístico, e ainda as de natureza especializada, em conformidade com os respectivos postos, qualificações técnicas e capacidades pessoais.
+Art. 3.º - 1. Aos sargentos dos QP compete desempenhar funções de comando, de chefia, de instrução, de carácter administrativo logístico, e ainda as de natureza especializada, em conformidade com os respectivos postos, qualificações técnicas e capacidades pessoais.
 
 2. As funções dos sargentos dos QP são, fundamentalmente, as seguintes:
 
@@ -127,15 +171,15 @@ c) Sargento-ajudante. - Adjunto do comandante de unidade de escalão companhia o
 
 d) Primeiro-sargento e segundo-sargento. - Comando de unidades elementares ou órgãos de escalão secção ou equivalente e exercício de funções nos órgãos de serviços técnicos, administrativos e logísticos.
 
-###### Art. 4.º Aos sargentos dos QP deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à adequada preparação para o seu posto e para o posto imediato.
+Art. 4.º Aos sargentos dos QP deve ser cometido o desempenho dos vários tipos de funções essenciais características dos seus quadros e postos, com vista à adequada preparação para o seu posto e para o posto imediato.
 
-###### Art. 5.º - 1. Os sargentos dos QP não podem ser nomeados para desempenhar funções que correspondam a posto inferior àquele a que tenham ascendido.
+Art. 5.º - 1. Os sargentos dos QP não podem ser nomeados para desempenhar funções que correspondam a posto inferior àquele a que tenham ascendido.
 
 2. Os sargentos dos QP que desempenharem funções de posto superior ao seu, quando no exercício das mesmas, são considerados com autoridade correspondente a esse posto.
 
 ### CAPÍTULO II — Quadros
 
-###### Art. 6.º - 1. Os sargentos dos QP na situação de activo distribuem-se por quadros de armas e serviços, nos quais são inscritos por postos e por ordem de antiguidade.
+Art. 6.º - 1. Os sargentos dos QP na situação de activo distribuem-se por quadros de armas e serviços, nos quais são inscritos por postos e por ordem de antiguidade.
 
 2. Os quadros e respectivos efectivos são os constantes de diplomas legais próprios.
 
@@ -143,7 +187,7 @@ d) Primeiro-sargento e segundo-sargento. - Comando de unidades elementares ou ó
 
 4. Sem prejuízo do enunciado no n.º 3, os quadros são constituídos de forma a assegurar o necessário equilíbrio no acesso aos mesmos postos das diferentes armas e serviços.
 
-###### Art. 7.º O ingresso nos quadros de sargentos na situação de activo faz-se pela forma seguinte:
+Art. 7.º O ingresso nos quadros de sargentos na situação de activo faz-se pela forma seguinte:
 
 a) Para os sargentos oriundos da Escola de Sargentos do Exército: independentemente de vacatura, imediatamente após terem terminado, com aproveitamento, os respectivos cursos, cuja classificação determinará o seu ordenamento na escala de antiguidades;
 
@@ -151,17 +195,17 @@ b) Para os sargentos promovidos de sargentos de complemento ou de praças, por d
 
 ### CAPÍTULO III — Promoções
 
-###### Art. 8.º - 1. Os sargentos dos QP ascendem aos postos referidos no artigo 2.º por promoção.
+Art. 8.º - 1. Os sargentos dos QP ascendem aos postos referidos no artigo 2.º por promoção.
 
 2. Os sargentos dos QP podem ser graduados em posto superior àquele a que ascenderam por promoção, nos termos da legislação vigente.
 
-###### Art. 9.º - 1. A promoção dos sargentos dos QP realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 2.º
+Art. 9.º - 1. A promoção dos sargentos dos QP realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 2.º
 
 2. A promoção por distinção pode, em casos muito excepcionais, realizar-se a posto superior ao posto imediato do sargento a promover.
 
-###### Art. 10.º Os sargentos dos QP apenas podem ser promovidos enquanto se mantiverem nos quadros do activo e não tenham atingido, no respectivo posto, os limites de idade em vigor para passarem a situação de adidos aos respectivos quadros.
+Art. 10.º Os sargentos dos QP apenas podem ser promovidos enquanto se mantiverem nos quadros do activo e não tenham atingido, no respectivo posto, os limites de idade em vigor para passarem a situação de adidos aos respectivos quadros.
 
-###### Art. 11.º - 1. Para serem promovidos os sargentos dos QP têm de satisfazer às condições de promoção, tendo apenas em conta as excepções previstas neste diploma.
+Art. 11.º - 1. Para serem promovidos os sargentos dos QP têm de satisfazer às condições de promoção, tendo apenas em conta as excepções previstas neste diploma.
 
 2. As condições de promoção dividem-se em:
 
@@ -169,7 +213,7 @@ a) Condições gerais: comuns a todos os quadros e postos;
 
 b) Condições especiais: próprias de cada quadro e posto.
 
-###### Art. 12.º As condições gerais de promoção dos sargentos dos QP são as seguintes:
+Art. 12.º As condições gerais de promoção dos sargentos dos QP são as seguintes:
 
 1.º Bom comportamento militar e civil e espírito militar;
 
@@ -177,27 +221,27 @@ b) Condições especiais: próprias de cada quadro e posto.
 
 3.º Qualidades pessoais, intelectuais e profissionais necessárias para o desempenho das funções do posto imediato.
 
-###### Art. 13.º É condição especial de promoção ao posto de furriel a aprovação na primeira parte (parte geral) do curso de formação de sargentos dos QP.
+Art. 13.º É condição especial de promoção ao posto de furriel a aprovação na primeira parte (parte geral) do curso de formação de sargentos dos QP.
 
-###### Art. 14.º É condição especial de promoção ao posto de segundo-sargento a aprovação no curso de formação de sargentos dos QP.
+Art. 14.º É condição especial de promoção ao posto de segundo-sargento a aprovação no curso de formação de sargentos dos QP.
 
-###### Art. 15.º As condições especiais de promoção ao posto de primeiro-sargento são as seguintes:
+Art. 15.º As condições especiais de promoção ao posto de primeiro-sargento são as seguintes:
 
 a) Possuir o curso geral dos liceus ou curso legalmente equivalente;
 
 b) Ter três anos de serviço efectivo a partir da promoção a segundo-sargento.
 
-###### Art. 16.º As condições especiais de promoção ao posto de sargento-ajudante são as seguintes:
+Art. 16.º As condições especiais de promoção ao posto de sargento-ajudante são as seguintes:
 
 a) Aprovação no curso de promoção a sargento-ajudante;
 
 b) Ter, no mínimo, quatro anos de serviço efectivo a partir da promoção a primeiro-sargento.
 
-###### Art. 17.º É condição especial de promoção ao posto de sargento-chefe ter, no mínimo, dois anos de serviço efectivo a partir da promoção a sargento-ajudante.
+Art. 17.º É condição especial de promoção ao posto de sargento-chefe ter, no mínimo, dois anos de serviço efectivo a partir da promoção a sargento-ajudante.
 
-###### Art. 18.º É condição especial de promoção ao posto de sargento-mor ter, no mínimo, um ano de serviço efectivo a partir da promoção a sargento-chefe.
+Art. 18.º É condição especial de promoção ao posto de sargento-mor ter, no mínimo, um ano de serviço efectivo a partir da promoção a sargento-chefe.
 
-###### Art. 19.º Os sargentos dos QP podem ser promovidos:
+Art. 19.º Os sargentos dos QP podem ser promovidos:
 
 a) Por diuturnidade, que consiste no acesso automático ao posto imediato, decorrido o período de permanência fixado e satisfeitas as demais condições de promoção, mantendo-se no novo posto a antiguidade relativa ao posto anterior, salvo os casos de preterição;
 
@@ -209,21 +253,21 @@ d) Por distinção, que consiste na promoção, independentemente da posição q
 
 e) A título excepcional, em conformidade com a legislação em vigor.
 
-###### Art. 20.º A promoção dos segundos-sargentos ao posto de primeiro-sargento é por diuturnidade.
+Art. 20.º A promoção dos segundos-sargentos ao posto de primeiro-sargento é por diuturnidade.
 
-###### Art. 21.º A promoção dos primeiros-sargentos ao posto de sargento-ajudante é por antiguidade, depois de reformulada a respectiva escala segundo critério a definir por portaria.
+Art. 21.º A promoção dos primeiros-sargentos ao posto de sargento-ajudante é por antiguidade, depois de reformulada a respectiva escala segundo critério a definir por portaria.
 
-###### Art. 22.º A promoção dos sargentos-ajudantes ao posto dc sargento-chefe é por escolha e antiguidade, segundo critério a definir por portaria.
+Art. 22.º A promoção dos sargentos-ajudantes ao posto dc sargento-chefe é por escolha e antiguidade, segundo critério a definir por portaria.
 
-###### Art. 23.º A promoção dos sargentos-chefes ao posto de sargento-mor é por escolha.
+Art. 23.º A promoção dos sargentos-chefes ao posto de sargento-mor é por escolha.
 
-###### Art. 24.º - 1. As promoções por diuturnidade, por distinção e a título excepcional não dependem de vacatura nos quadros.
+Art. 24.º - 1. As promoções por diuturnidade, por distinção e a título excepcional não dependem de vacatura nos quadros.
 
 2. As promoções por antiguidade e por escolha só podem ter lugar para preenchimento de vacatura nos quadros.
 
 3. O disposto no n.º 2 não é aplicável aos sargentos dos QP que, por motivo de mudança de quadro ou antecipação da antiguidade legal, devam ocupar uma posição na escala de antiguidade que imponha a sua promoção.
 
-###### Art. 25.º Os sargentos do QP ingressarão nos quadros de oficiais dos QP:
+Art. 25.º Os sargentos do QP ingressarão nos quadros de oficiais dos QP:
 
 a) Após aprovação nos cursos ministrado na Academia Militar;
 
@@ -233,7 +277,7 @@ c) Por distinção.
 
 ### CAPÍTULO IV — Tirocínios, estágios e cursos
 
-###### Art. 26.º Para ingresso e no decurso da sua carreira militar os sargentos dos QP deverão frequentar, nos adequados estabelecimentos de ensino, os seguintes estágios, tirocínios e cursos:
+Art. 26.º Para ingresso e no decurso da sua carreira militar os sargentos dos QP deverão frequentar, nos adequados estabelecimentos de ensino, os seguintes estágios, tirocínios e cursos:
 
 a) Curso de formação de sargentos dos QP;
 
@@ -245,19 +289,19 @@ d) Tirocínios, estágios e cursos de especialização, actualização e valoriz
 
 Outros cursos de valorização.
 
-###### Art. 27.º O curso de formação de sargentos dos QP consta de duas partes:
+Art. 27.º O curso de formação de sargentos dos QP consta de duas partes:
 
 a) Primeira parte (parte geral);
 
 b) Segunda parte (parte especial).
 
-###### Art. 28.º O curso de promoção a sargento-ajudante consta de duas partes:
+Art. 28.º O curso de promoção a sargento-ajudante consta de duas partes:
 
 a) Primeira parte (parte geral);
 
 b) Segunda parte (parte especial).
 
-###### Art. 29.º Os cursos para formação e promoção de sargentos dos QP são ministrados nos seguintes estabelecimentos de ensino militar:
+Art. 29.º Os cursos para formação e promoção de sargentos dos QP são ministrados nos seguintes estabelecimentos de ensino militar:
 
 a) Escola de Sargentos do Exército:
 
@@ -271,7 +315,7 @@ b) Escolas práticas das armas e serviços e Escola Militar de Electromecânica:
 
 2) Parte do curso de promoção a sargento-ajudante não ministrada na Escola de Sargentos do Exército.
 
-###### Art. 30.º Podem ser admitidos ao curso de formação de sargentos dos QP, sendo-lhes facultada, de acordo com as vagas, a opção por qualquer arma ou serviço, independentemente da sua origem, os sargentos de complemento e as praças que requeiram ao chefe do Estado-Maior do Exército, e tal seja deferido, desde que satisfaçam às seguintes condições:
+Art. 30.º Podem ser admitidos ao curso de formação de sargentos dos QP, sendo-lhes facultada, de acordo com as vagas, a opção por qualquer arma ou serviço, independentemente da sua origem, os sargentos de complemento e as praças que requeiram ao chefe do Estado-Maior do Exército, e tal seja deferido, desde que satisfaçam às seguintes condições:
 
 a) Ter bom comportamento moral e civil;
 
@@ -289,7 +333,7 @@ g) Ter, no mínimo, o ciclo preparatório do ensino liceal ou equivalente ou o c
 
 h) Ter obtido aproveitamento nas provas de aptidão.
 
-###### Art. 31.º A admissão dos primeiros-sargentos dos QP ao curso de promoção a sargento-ajudante é por escolha e antiguidade, segundo critério a definir por portaria, desde que satisfaçam às seguintes condições:
+Art. 31.º A admissão dos primeiros-sargentos dos QP ao curso de promoção a sargento-ajudante é por escolha e antiguidade, segundo critério a definir por portaria, desde que satisfaçam às seguintes condições:
 
 a) Possuir boas qualidades militares, intelectuais e morais informadas pelo comandante da unidade ou estabelecimento militar onde se encontra colocado;
 
@@ -297,7 +341,7 @@ b) Ter prestado, no mínimo e como primeiro-sargento, um ano de serviço efectiv
 
 c) Ter menos de 47 anos de idade referidos a 31 de Dezembro do ano de ingresso no curso.
 
-###### Art. 32.º - 1. Podem ser admitidos ao curso ministrado no Instituto Superior Militar primeiros-sargentos e sargentos-ajudantes.
+Art. 32.º - 1. Podem ser admitidos ao curso ministrado no Instituto Superior Militar primeiros-sargentos e sargentos-ajudantes.
 
 2. São condições de admissão a este curso, além das estabelecidas no diploma próprio, as seguintes:
 
@@ -309,19 +353,19 @@ c) Sendo primeiro-sargento, ter, no mínimo, quatro anos de serviço efectivo a 
 
 d) Ter obtido aproveitamento nas provas de aptidão.
 
-###### Art. 33.º Podem ser admitidos aos cursos ministrados na AM os sargentos do QP que satisfaçam às condições de admissão estabelecidas no respectivo regulamento.
+Art. 33.º Podem ser admitidos aos cursos ministrados na AM os sargentos do QP que satisfaçam às condições de admissão estabelecidas no respectivo regulamento.
 
-###### Art. 34.º O número de instruendos a admitir em cada ano aos cursos ministrados na Escola de Sargentos do Exército e no Instituto Superior Militar será fixado, anualmente, por despacho do chefe do Estado-Maior do Exército, até seis meses antes do seu inicio.
+Art. 34.º O número de instruendos a admitir em cada ano aos cursos ministrados na Escola de Sargentos do Exército e no Instituto Superior Militar será fixado, anualmente, por despacho do chefe do Estado-Maior do Exército, até seis meses antes do seu inicio.
 
-###### Art. 35.º Os cursos ministrados nos estabelecimentos de ensino militar referidos no presente diploma poderão ser frequentados por elementos da Guarda Nacional Republicana e da Guarda Fiscal.
+Art. 35.º Os cursos ministrados nos estabelecimentos de ensino militar referidos no presente diploma poderão ser frequentados por elementos da Guarda Nacional Republicana e da Guarda Fiscal.
 
-###### Art. 36.º Serão excluídos definitivamente do curso de formação de sargentos dos QP:
+Art. 36.º Serão excluídos definitivamente do curso de formação de sargentos dos QP:
 
 a) Os candidatos que reprovem duas vezes nas respectivas provas de aptidão;
 
 b) Os instruendos que percam dois anos por desistência e ou reprovação.
 
-###### Art. 37.º Serão excluídos definitivamente do curso de promoção a sargento-ajudante os primeiros-sargentos que:
+Art. 37.º Serão excluídos definitivamente do curso de promoção a sargento-ajudante os primeiros-sargentos que:
 
 a) Após nomeação, desistam duas vezes do ingresso no mesmo;
 
@@ -329,7 +373,7 @@ b) Após ingresso no mesmo, percam dois anos por desistência e ou reprovação.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 38.º - 1. No ano lectivo de 1976-1977 a condição especial de promoção ao posto de sargento-ajudante prevista na alínea a) do artigo 16.º do presente diploma é substituída por aprovação em provas de aptidão a serem definidas por despacho do Chefe do Estado-Maior do Exército.
+Art. 38.º - 1. No ano lectivo de 1976-1977 a condição especial de promoção ao posto de sargento-ajudante prevista na alínea a) do artigo 16.º do presente diploma é substituída por aprovação em provas de aptidão a serem definidas por despacho do Chefe do Estado-Maior do Exército.
 
 2. A nomeação dos primeiros-sargentos dos QP para a prestação das provas de aptidão referidas no número anterior é por escolha e antiguidade, segundo critério a definir por portaria, desde que os mesmos satisfaçam às condições das alíneas a) e b) do artigo 31.º do presente diploma.
 
@@ -337,7 +381,7 @@ b) Após ingresso no mesmo, percam dois anos por desistência e ou reprovação.
 
 4. Serão excluídos definitivamente das provas de aptidão referidas no n.º 1 do presente artigo os primeiros-sargentos que, por duas vezes, desistam das mesmas ou nelas sejam classificados de inaptos.
 
-###### Art. 39.º - 1. As condições especiais de promoção ao posto de sargento-chefe, para os sargentos-ajudantes que não possuam o curso de promoção previsto no artigo 28.º do presente diploma, são as seguintes:
+Art. 39.º - 1. As condições especiais de promoção ao posto de sargento-chefe, para os sargentos-ajudantes que não possuam o curso de promoção previsto no artigo 28.º do presente diploma, são as seguintes:
 
 a) Ter, no mínimo, um ano de serviço efectivo a partir da promoção a sargento-ajudante;
 
@@ -351,22 +395,22 @@ b) Aprovação no curso de promoção a sargento-chefe.
 
 5. Os sargentos-ajudantes que após nomeação ou ingresso no curso de promoção a sargento-chefe reprovarem ou desistirem serão segunda vez nomeados para este curso, ficando excluídos definitivamente se declararem não o desejar frequentar ou se, após a nomeação, dele desistirem ou nele reprovarem.
 
-###### Art. 40.º Até ao ano lectivo de 1983-1984, inclusive, podem ser admitidos ao curso ministrado no Instituto Superior Militar primeiros-sargentos e sargentos-ajudantes com menos de 46 anos de idade referidos a 31 de Dezembro do ano de admissão ao curso e com dispensa da condição 2.ª do artigo 32.º
+Art. 40.º Até ao ano lectivo de 1983-1984, inclusive, podem ser admitidos ao curso ministrado no Instituto Superior Militar primeiros-sargentos e sargentos-ajudantes com menos de 46 anos de idade referidos a 31 de Dezembro do ano de admissão ao curso e com dispensa da condição 2.ª do artigo 32.º
 
-###### Art. 41.º Os primeiros-sargentos do quadro de sargentos do serviço geral do Exército que, neste posto e à data do presente diploma, sejam mais antigos do que qualquer dos sargentos-ajudantes do mesmo quadro ou dos primeiro-sargentos aprovados nas provas de aptidão para aquele posto, serão nomeados para a prestação das provas definidas na [Portaria n.º 20712](https://diariodarepublica.pt/dr/detalhe/portaria/20712-1964-579957), de 4 de Agosto de 1964.
+Art. 41.º Os primeiros-sargentos do quadro de sargentos do serviço geral do Exército que, neste posto e à data do presente diploma, sejam mais antigos do que qualquer dos sargentos-ajudantes do mesmo quadro ou dos primeiro-sargentos aprovados nas provas de aptidão para aquele posto, serão nomeados para a prestação das provas definidas na [Portaria n.º 20712](https://diariodarepublica.pt/dr/detalhe/portaria/20712-1964-579957), de 4 de Agosto de 1964.
 
-###### Art. 42.º Os actuais furriéis dos QP serão promovidos a segundos-sargentos na data da publicação do presente diploma, independentemente da satisfação de quaisquer condições especiais de promoção.
+Art. 42.º Os actuais furriéis dos QP serão promovidos a segundos-sargentos na data da publicação do presente diploma, independentemente da satisfação de quaisquer condições especiais de promoção.
 
-###### Art. 43.º Aos actuais furriéis e segundos-sargentos dos QP não será exigida a condição especial de promoção ao posto de primeiro-sargento referida na alínea a) do artigo 15.º do presente diploma.
+Art. 43.º Aos actuais furriéis e segundos-sargentos dos QP não será exigida a condição especial de promoção ao posto de primeiro-sargento referida na alínea a) do artigo 15.º do presente diploma.
 
-###### Art. 44.º Com a entrada em vigor do presente diploma ficam revogadas todas as disposições legais e determinações anteriores que o contrariem.
+Art. 44.º Com a entrada em vigor do presente diploma ficam revogadas todas as disposições legais e determinações anteriores que o contrariem.
 
-###### Art. 45.º Quaisquer dúvidas que surjam para a execução do presente diploma serão resolvidas por despacho interpretativo do Chefe do Estado-Maior do Exército.
+Art. 45.º Quaisquer dúvidas que surjam para a execução do presente diploma serão resolvidas por despacho interpretativo do Chefe do Estado-Maior do Exército.
 
 Visto e aprovado em Conselho da Revolução em 29 de Dezembro de 1976.
 
-**Promulgado em 30 de Dezembro de 1976.**
+Promulgado em 30 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.

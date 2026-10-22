@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46313-1965-236702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f3303a8833fe3688340ce36cfaf2b0b74d83f8286f32ebdb5c3c50a7fd36625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7ee0150a208181788ea376a3efeb1579168a09b925973397f6ebd3a9fedc8cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comandante
+- Formas de Provimento
+- GNR
 relationships:
 - type: amended_by
   target: pt:dre:233138:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233138:por
+  label: "Tornado aplicável aos lugares de comandante e 2.º comandante dos batalhões n.os 1 e 2 da Guarda Nacional Republicana\
+    \ o disposto no artigo único do presente diploma, pelo DEC LEI.48210.20.01.1968.MI, DG.IS [17] de 20.01.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48210-1968-233138
+  date: '1968-01-20'
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:09Z'
   warnings: []
   errors: []
 ---
@@ -97,8 +110,8 @@ Considerando, por tais razões, ser de toda a vantagem que os lugares de comanda
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os lugares de comandante e 2.º comandante dos batalhões n.os 3 e 5 da Guarda Nacional Republicana passam a competir, respectivamente, a um coronel ou tenente-coronel e a um tenente-coronel ou major, sendo no corrente ano económico suportados pelas disponibilidades da verba destinada ao pessoal dos quadros os encargos resultantes desta providência.
+Artigo único. Os lugares de comandante e 2.º comandante dos batalhões n.os 3 e 5 da Guarda Nacional Republicana passam a competir, respectivamente, a um coronel ou tenente-coronel e a um tenente-coronel ou major, sendo no corrente ano económico suportados pelas disponibilidades da verba destinada ao pessoal dos quadros os encargos resultantes desta providência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

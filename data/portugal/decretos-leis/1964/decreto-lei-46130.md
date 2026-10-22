@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46130-1964-554165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec6f350a7744733ada6afc03ec0147189a221c316b3d35469437260a009c7bb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79123ae9fb0dc00c65095949cd32b9695b1fe28c046cd1fb258eeb35fd35f420
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Ministério do Ultramar
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:182392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277144:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:42Z'
   warnings: []
   errors: []
 ---
@@ -85,49 +102,49 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério do Ultramar, créditos especiais no montante de 458513868$00, destinados a reforçar as seguintes verbas do vigente orçamento do segundo dos aludidos Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério do Ultramar, créditos especiais no montante de 458513868$00, destinados a reforçar as seguintes verbas do vigente orçamento do segundo dos aludidos Ministérios:
 
-### Capítulo 17.º «II Plano de Fomento»:
+Capítulo 17.º «II Plano de Fomento»:
 
-###### Artigo 140.º-A «Empréstimo à província ultramarina de Angola, nos termos do [Decreto-Lei n.º 42817](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42817-1960-277144), de 25 de Janeiro de 1960» ... 79000000$00
+Artigo 140.º-A «Empréstimo à província ultramarina de Angola, nos termos do [Decreto-Lei n.º 42817](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42817-1960-277144), de 25 de Janeiro de 1960» ... 79000000$00
 
-###### Artigo 140.º-B «Empréstimo à província ultramarina de Moçambique, nos termos do [Decreto-Lei n.º 42817](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42817-1960-277144), de 25 de Janeiro de 1963» ... 379513868$00
+Artigo 140.º-B «Empréstimo à província ultramarina de Moçambique, nos termos do [Decreto-Lei n.º 42817](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42817-1960-277144), de 25 de Janeiro de 1963» ... 379513868$00
 
 ... 458513868$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verba de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verba de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 46500000$00
+Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 46500000$00
 
-### Capítulo 1.º, artigo 3.º «Contribuição predial» ... 47000000$00
+Capítulo 1.º, artigo 3.º «Contribuição predial» ... 47000000$00
 
-### Capítulo 7.º, artigo 132.º «Encargos da dívida do ultramar» ... 41984770$30
+Capítulo 7.º, artigo 132.º «Encargos da dívida do ultramar» ... 41984770$30
 
-### Capítulo 7.º, artigo 142.º «Reembolso do empréstimo concedido à província ultramarina de Moçambique, nos termos do [Decreto-Lei n.º 36446](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36446-1947-182392) (juros)» ... 26639849$00
+Capítulo 7.º, artigo 142.º «Reembolso do empréstimo concedido à província ultramarina de Moçambique, nos termos do [Decreto-Lei n.º 36446](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36446-1947-182392) (juros)» ... 26639849$00
 
-### Capítulo 7.º, artigo 144.º «Reembolso de juros e amortização do empréstimo contraído pela província ultramarina de Moçambique, nos termos do [Decreto-Lei n.º 39526](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39526-1954-215687), de 3 de Fevereiro de 1954» ... 24756875$00
+Capítulo 7.º, artigo 144.º «Reembolso de juros e amortização do empréstimo contraído pela província ultramarina de Moçambique, nos termos do [Decreto-Lei n.º 39526](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39526-1954-215687), de 3 de Fevereiro de 1954» ... 24756875$00
 
-### Capítulo 7.º, artigo 151.º «Reembolso de juros e amortizações dos subsídios concedidos à província ultramarina de Moçambique, nos termos dos Decretos-Leis n.os 42155 e 43701, respectivamente de 24 de Fevereiro de 1959 e 19 de Maio de 1961» ... 26780980$90
+Capítulo 7.º, artigo 151.º «Reembolso de juros e amortizações dos subsídios concedidos à província ultramarina de Moçambique, nos termos dos Decretos-Leis n.os 42155 e 43701, respectivamente de 24 de Fevereiro de 1959 e 19 de Maio de 1961» ... 26780980$90
 
-### Capítulo 7.º, artigo 154.º «Reembolso de juros e amortização do empréstimo contraído com a Economic Co-Operation Administration para a construção de um novo cais no porto da Beira» ... 2227909$30
+Capítulo 7.º, artigo 154.º «Reembolso de juros e amortização do empréstimo contraído com a Economic Co-Operation Administration para a construção de um novo cais no porto da Beira» ... 2227909$30
 
-### Capítulo 7.º, artigo 155.º «Reembolso de juros e amortização do empréstimo contraído com o Export-Import Bank para a construção e apetrechamento do caminho de ferro do Limpopo» ... 44692133$30
+Capítulo 7.º, artigo 155.º «Reembolso de juros e amortização do empréstimo contraído com o Export-Import Bank para a construção e apetrechamento do caminho de ferro do Limpopo» ... 44692133$30
 
-### Capítulo 9.º, artigo 274.º «Produto da venda de títulos ou de empréstimos» ... 178932297$60
+Capítulo 9.º, artigo 274.º «Produto da venda de títulos ou de empréstimos» ... 178932297$60
 
 ... 439514815$40
 
 Ministério das Finanças
 
-### Capítulo 5.º, artigo 45.º, n.º 3), alínea 1 ... 18999052$60
+Capítulo 5.º, artigo 45.º, n.º 3), alínea 1 ... 18999052$60
 
 ... 458513868$00
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

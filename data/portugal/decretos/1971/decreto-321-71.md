@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/07/17400/10801080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/321-1971-643102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4658d89472a79e1f7d55fc8a3c98e49ce55b410c4f1d7e4ba48f77171bca7df9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f31ad970b27da793d03474cee67e89aee837780a6b1eb0c0c727bf9e258e17e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acreditação
+- Licenciamento
+- Mergulhador
+- Mergulho
+- Regulamento
+- Segurança Marítima
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:522631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274846:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522631:por
+  label: "Revogado o Decreto 48365 de 02 de Maio 1968, com a redacção conferida no presente diploma, pelo DEC LEI.16/2007.22.01.2007.PCM,\
+    \ DR.IS [15] de 22.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2007-522631
+  date: '2007-01-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:22Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +114,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A alínea e) do n.º 3.º do artigo 16.º e o artigo 27.º do [Decreto n.º 48365](https://diariodarepublica.pt/dr/detalhe/decreto/48365-1968-274846), de 2 de Maio de 1968, tomam as redacções seguintes:
+Artigo único. A alínea e) do n.º 3.º do artigo 16.º e o artigo 27.º do [Decreto n.º 48365](https://diariodarepublica.pt/dr/detalhe/decreto/48365-1968-274846), de 2 de Maio de 1968, tomam as redacções seguintes:
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 ...
 
@@ -111,12 +128,12 @@ e) Sempre que estejam mergulhadores na água, a embarcação ou barco de apoio d
 
 ...
 
-###### Art. 27.º Aos turistas estrangeiros, com permanência no País inferior a sessenta dias é permitido o livre exercício do mergulho amador desde que, em substituição do preceituado no artigo 22.º deste Regulamento, apresentem às autoridades marítimas um documento comprovativo de que estão qualificados para aquela actividade, passado pelo país de origem, ficando, no entanto, sujeitos às restantes disposições aplicáveis a nacionais.
+Art. 27.º Aos turistas estrangeiros, com permanência no País inferior a sessenta dias é permitido o livre exercício do mergulho amador desde que, em substituição do preceituado no artigo 22.º deste Regulamento, apresentem às autoridades marítimas um documento comprovativo de que estão qualificados para aquela actividade, passado pelo país de origem, ficando, no entanto, sujeitos às restantes disposições aplicáveis a nacionais.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 14 de Julho de 1971.**
+Promulgado em 14 de Julho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

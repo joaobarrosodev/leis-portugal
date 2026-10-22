@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/13000/12521255.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1979-383421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd5cf174e5985a5dc228a544b99d96af7e296623053a071314f13feecd9f65bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9af59a3040b3875b77e43d18368ea65195d9c17a52fb3607814a3d4adc2e9a9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Contrato de Locação Financeira
+- Definição de Competências
+- Locação Financeira
+- Regime Jurídico
+- Sociedade de Locação Financeira
 relationships:
 - type: amended_by
   target: pt:dre:475373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:610913:por
+  label: Revogado o n.º 2 do art. 4.º pelo DEC LEI.168/89.24.05.1989.MF, DR.IS [119] de 24.05.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-1989-610913
+  date: '1989-05-24'
+- type: repealed_by
+  target: pt:dre:313779:por
+  label: Revogado o n.º 2 do art. 6.º do presente diploma pelo(a) Decreto-Lei n.º 18/90 - Diário da República n.º 9/1990,
+    Série I de 1990-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1990-313779
+  date: '1990-01-11'
+- type: repealed_by
+  target: pt:dre:475373:por
+  label: "Revogado, a partir de 29.06.1995, pelo DEC LEI.149/95.24.06.1995.MF, DR.IS-A [144] de 24.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-1995-475373
+  date: '1995-06-24'
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:15Z'
   warnings: []
   errors: []
 ---
@@ -300,8 +322,8 @@ O locatário deve evidenciar com clareza, em contas de ordem à margem do balan�
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 28 de Maio de 1979.**
+Promulgado em 28 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

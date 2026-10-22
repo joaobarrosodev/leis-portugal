@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48570-1968-265081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e92287b226a5ff92c38ef322ecce7d6470cbe9ada0bbc885514c01d1b80ad9fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42297ba50b9ffe4271d7bf3e6b43ed9ba2413ff7273bd2aaec54e1dad4f8d9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Comércio Internacional
+- Convenção
+- Cooperação Internacional
+- Definição de Competências
+- Exportação
+- Importação
+- Nova Iorque
+- Organização Internacional do CAFÉ
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:140287:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412443:por
+  label: "Aprovada, para ratificação, a forma modificada (adoptada na 2.ª reunião plenária da 22.ª sessão do Conselho Internacional\
+    \ do Café, realizada em Londres em 14 de Abril de 1973), do Convénio Internacional do Café de 1968, aprovado, para ratificação,\
+    \ no presente diploma, pelo DEC.98/74.14.03.1974.MNE, DG.IS [62] de 14.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/98-1974-412443
+  date: '1974-03-14'
+- type: amended_by
+  target: pt:dre:307611:por
+  label: "Aprovado, para ratificação, o Protocolo para a continuação em vigor do Convénio Internacional do Café de 1968 (aprovado,\
+    \ para ratificação neste diploma, e cuja forma cuja forma modificada foi aprovada para ratificação pelo Dec 98/74 de 14-Mar),\
+    \ o qual conjuntamente com o Protocolo passam a constituir um instrumento único, conhecido como o Convénio Internacional\
+    \ do Café de 1968 Prorrogado, pelo DEC.483/75.04.09.1975.MNE, DG.IS [204] de 04.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/483-1975-307611
+  date: '1975-09-04'
+- type: amended_by
+  target: pt:dre:140287:por
+  label: "Dada continuação ao Convénio Internacional do Café de 1968 Prorrogado por Protocolo, aprovado, para ratificação,\
+    \ neste diploma, pelo Convénio Internacional do Café de 1976 (nos termos do disposto no seu art. 70º), aprovado, para\
+    \ ratificação, pelo DEC 29/77.09.03.1977.MNE, DR.IS [57] de 09.03.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/29-1977-140287
+  date: '1977-03-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:30Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +121,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Convénio Internacional do Café de 1968, aberto à assinatura em Nova Iorque de 18 a 31 de Março de 1968, cujo texto autêntico em português vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Convénio Internacional do Café de 1968, aberto à assinatura em Nova Iorque de 18 a 31 de Março de 1968, cujo texto autêntico em português vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -947,7 +979,7 @@ Caso se certifique que um Membro deixou de cumprir as obrigações que lhe impõ
 
 ###### ARTIGO 71.º — Notificações pelo secretário-geral das Nações Unidas
 
-**O secretário-geral das Nações Unidas notifica a todas as Partes Contratantes do Convénio Internacional do Café de 1962 e a todos os outros Governos de Estados Membros das Nações Unidas ou de qualquer das suas agências especializadas todo o depósito de instrumento de aprovação, ratificação, aceitação ou adesão, bem como as datas em que o Convénio entra em vigor provisória ou definitivamente. O secretário-geral das Nações Unidas informa igualmente todas as Partes Contratantes de qualquer notificação feita nos termos do artigo 5.º, parágrafo 2) do artigo 62.º e artigos 65.º, 66.º ou 67.º, bem como da data em que o Convénio é prorrogado ou terminado, segundo o artigo 69.º, e da data em que uma emenda entra em vigor, de acordo com o artigo 70.º**
+O secretário-geral das Nações Unidas notifica a todas as Partes Contratantes do Convénio Internacional do Café de 1962 e a todos os outros Governos de Estados Membros das Nações Unidas ou de qualquer das suas agências especializadas todo o depósito de instrumento de aprovação, ratificação, aceitação ou adesão, bem como as datas em que o Convénio entra em vigor provisória ou definitivamente. O secretário-geral das Nações Unidas informa igualmente todas as Partes Contratantes de qualquer notificação feita nos termos do artigo 5.º, parágrafo 2) do artigo 62.º e artigos 65.º, 66.º ou 67.º, bem como da data em que o Convénio é prorrogado ou terminado, segundo o artigo 69.º, e da data em que uma emenda entra em vigor, de acordo com o artigo 70.º
 
 ###### ARTIGO 72.º — Disposições suplementares e transitórias
 
@@ -1311,4 +1343,4 @@ Nota. - As abreviações acima destinam-se a ter significação puramente geogr�
 
 ## ANEXO C — Distribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21000/12891308.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21000/12891308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21000/12891308.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/380-1972-691796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4673ef7e0cbce9f84b5170d0beba0909007d3081b6f6f843e66d5f34a74e6e61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fc64e1035a077da0139126def1c135610bff0993b8d1cb48fa1d1f2ae74fab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:56Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +93,20 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É autorizado o Governador de S. Tomé e Príncipe a prestar, em nome da província, aval a um empréstimo de 25000000$00 a contrair pela Caixa de Crédito de S. Tomé e Príncipe no Banco de Fomento Nacional.
+Artigo 1.º É autorizado o Governador de S. Tomé e Príncipe a prestar, em nome da província, aval a um empréstimo de 25000000$00 a contrair pela Caixa de Crédito de S. Tomé e Príncipe no Banco de Fomento Nacional.
 
-###### Art. 2.º Os capitais mutuados têm por fim exclusivo habilitar a Caixa de Crédito de S. Tomé e Príncipe com fundos necessários ao financiamento dos sectores agro-pecuário e industrial.
+Art. 2.º Os capitais mutuados têm por fim exclusivo habilitar a Caixa de Crédito de S. Tomé e Príncipe com fundos necessários ao financiamento dos sectores agro-pecuário e industrial.
 
-###### Art. 3.º As cláusulas e condições que forem ajustadas para a concessão do empréstimo referido no artigo 1.º estão sujeitas à aprovação do Governador da província.
+Art. 3.º As cláusulas e condições que forem ajustadas para a concessão do empréstimo referido no artigo 1.º estão sujeitas à aprovação do Governador da província.
 
-###### Art. 4.º A província de S. Tomé e Príncipe gozará de privilégio creditório, nos termos dos artigos 733.º 753.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+Art. 4.º A província de S. Tomé e Príncipe gozará de privilégio creditório, nos termos dos artigos 733.º 753.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Setembro de 1972.**
+Promulgado em 22 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.

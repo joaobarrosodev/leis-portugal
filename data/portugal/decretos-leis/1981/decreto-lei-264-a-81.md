@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 202/1981, 1º Suplemento, Série I de 1981-09-03
   number: '202'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2350-(1) a 2350-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20201/00010004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-a-1981-517226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ec29ff2467434d7382f61dcdbcf421d8fa43df156c65b51e70f8b700d100dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f78e3aeabba01c548e7bd49d54a23451a990e1d988a51308d78cca3e740db90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos Judiciários
+- Formação Profissional
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:165851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475558:por
+  label: Alterados os arts. 1.º, 5.º, 8.º, 9.º, 13.º, 23.º, 24.º, 28.º, 29.º, 35.º, 36.º, 37.º, 45.º, 46.º, 49.º, 50.º, 51.º,
+    52.º, 53.º, 55.º e 67.º, do Dec Lei 374-A/79, de 10-set, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 146-A/84
+    - Diário da República n.º 107/1984, 1º Suplemento, Série I de 1984-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-a-1984-475558
+  date: '1984-05-09'
+- type: amended_by
+  target: pt:dre:358757:por
+  label: "Alterado o artigo 66.º do Decreto-Lei 374-A/79, de 10 de Setembro, na redacção do presente diploma, pelo DEC LEI.404/88.09.11.1988.MJ,\
+    \ DR.IS [259] de 09.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-1988-358757
+  date: '1988-11-09'
+- type: amended_by
+  target: pt:dre:613937:por
+  label: Alterado o quadro de pessoal e revogado o art 24.º do Dec Lei 374-A/79, de 10-set, alterado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 83/89 - Diário da República n.º 69/1989, Série I de 1989-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1989-613937
+  date: '1989-03-23'
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682857:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165851:por
+  label: "Revogado pela LEI.16/98.1998.04.08.AR, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1998-165851
+  date: '1998-04-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:42Z'
   warnings: []
   errors: []
 ---
@@ -281,8 +318,8 @@ Os encargos resultantes do presente Decreto-Lei são suportados até ao fim do a
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Agosto de 1981.**
+Promulgado em 29 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

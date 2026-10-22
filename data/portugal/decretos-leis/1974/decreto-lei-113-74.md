@@ -46,36 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1974-412416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fb9194c142fdd6b272c0e265b004d3d374d3ac3da30761312f70e4a4372d261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75b69ef7b05c8c6d8df97f0200d2969feaeb7c9a30b31f2bc6001140c24321dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bolsa de Valores
+- Corretor
+- Mercado de Títulos
+- Mercado de Valores
+- Mercado Financeiro
+- Regime Jurídico
+- Valores Mobiliários
+relationships:
+- type: cites
+  target: pt:dre:204817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:17Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +125,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 142.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 142.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 142.º São revogados:
+Art. 142.º São revogados:
 
 a) No que se refere às bolsas de valores, seus corretores e respectivas operações, o Decreto de 10 de Outubro de 1901 e o Regimento do Ofício de Corretor, bem como o Decreto de 24 de Dezembro de 1901 e o [Decreto n.º 20800](https://diariodarepublica.pt/dr/detalhe/decreto/20800-1932-522471), de 22 de Janeiro de 1932;
 
@@ -104,10 +135,10 @@ b) O Regulamento de Serviço e Operações das Bolsas de Fundos Públicos e Part
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 8 de Março de 1974.**
+Promulgado em 8 de Março de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

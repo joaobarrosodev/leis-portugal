@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44343-1962-140816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcd2de09a4aac420f5b6035e8add2076501ec8c57c0fa66c7618d4a70a09a215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ac43ad029b25e3ac9b16c12a34f55d97f0588fa673ba866bf3f186f7b020490
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alcobaça
+- Baldio
+- Ordenamento do Território
+- Regime Florestal
+- RIO Maior
+relationships:
+- type: cites
+  target: pt:dre:365973:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:47Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +100,15 @@ Atendendo ao parecer favorável do Conselho Técnico dos Serviços Florestais;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São submetidas ao regime florestal parcial os baldios municipais dos concelhos de Rio Maior e Alcobaça, cuja área é de cerca de 3600 ha, situados na serra dos Candeeiros e seus contrafortes.
+Artigo 1.º São submetidas ao regime florestal parcial os baldios municipais dos concelhos de Rio Maior e Alcobaça, cuja área é de cerca de 3600 ha, situados na serra dos Candeeiros e seus contrafortes.
 
-###### Art. 2.º A arborização dos baldios, a exploração e conservação dos povoamentos florestais e a construção das diversas obras complementares efectuar-se-á por conta do Estado e a partilha dos lucros líquidos entre este e os corpos administrativos será feita proporcionalmente às despesas custeadas pelo Estado e ao valor atribuído ao terreno, o qual foi arbitrado em 850$00 por hectare.
+Art. 2.º A arborização dos baldios, a exploração e conservação dos povoamentos florestais e a construção das diversas obras complementares efectuar-se-á por conta do Estado e a partilha dos lucros líquidos entre este e os corpos administrativos será feita proporcionalmente às despesas custeadas pelo Estado e ao valor atribuído ao terreno, o qual foi arbitrado em 850$00 por hectare.
 
 § 1.º O rendimento anual a atribuir às Câmaras Municipais de Rio Maior e Alcobaça será de 30000$00 e 1000$00, respectivamente, valores correspondentes à renda média auferida nos últimos anos.
 
 § 2.º As Câmaras Municipais de Alcobaça e Rio Maior não poderão, nos baldios a que se refere este diploma e dentro da área do perímetro, explorar ou consentir na exploração de pedreiras ou saibreiras sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 3.º Aos povos limítrofes são reconhecidas, dentro da área do perímetro, sem prejuízo dos trabalhos de arborização, as seguintes regalias:
+Art. 3.º Aos povos limítrofes são reconhecidas, dentro da área do perímetro, sem prejuízo dos trabalhos de arborização, as seguintes regalias:
 
 a) Apascentação de gados;
 
@@ -113,7 +122,7 @@ e) Pesquisa e exploração de minérios, nos termos da legislação vigente;
 
 f) Serventias indispensáveis para o trânsito de pessoas, veículos e gados, cujo traçado poderá, no entanto, ser alterado conforme se julgar conveniente.
 
-###### Art. 4.º Serão reconhecidos os legítimos direitos de propriedade sobre terrenos encravados ou árvores vegetando nos baldios.
+Art. 4.º Serão reconhecidos os legítimos direitos de propriedade sobre terrenos encravados ou árvores vegetando nos baldios.
 
 § único. Com vista a dar continuidade ao perímetro e a rectificação das suas estremas, deverão os serviços florestais promover a eliminação das prédios encravados particulares que naquele existam, podendo para o efeito:
 
@@ -121,7 +130,7 @@ a) Propor às Câmaras Municipais de Alcobaça e Rio Maior a sua troca, que se r
 
 b) Adquiri-los por compra ou por expropriação, só podendo esta efectuar-se quando não seja possível chegar a acordo quanto à sua aquisição por compra ou troca.
 
-###### Art. 5.º Estes baldios ficam a constituir três núcleos:
+Art. 5.º Estes baldios ficam a constituir três núcleos:
 
 Rio Maior, que abrange os baldios situados nas freguesias de Rio Maior e Alcobertas, do concelho de Rio Maior;
 
@@ -129,8 +138,8 @@ Benedita e Turquel, que inclui os baldios das freguesias de Turquel e Benedita;
 
 Alcobaça, que engloba os baldios das freguesias de S. Vicente, Prazeres e Évora, do concelho de Alcobaça, que constituem o perímetro florestal da serra dos Candeeiros.
 
-###### Art. 6.º A arborização será levada a efeito pelo Estado em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
+Art. 6.º A arborização será levada a efeito pelo Estado em conformidade com o preceituado na [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973), de 15 de Junho de 1938.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

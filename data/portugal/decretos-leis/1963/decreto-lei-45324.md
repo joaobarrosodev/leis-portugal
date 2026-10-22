@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45324-1963-687987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6818bccd783706018a416b32e928b41383718f6770efb618e6fd1be841678410
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 893606365aeebef0b262397bd0aa304857c1c9fb66a67f3199a1099459e5cb08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto do Oficial do Exército
+relationships:
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:50Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +103,9 @@ Considerando vantajoso definir, por nova disposição, o limite de idade para pa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O corpo do artigo 87.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ter a seguinte redacção:
+Artigo 1.º O corpo do artigo 87.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ter a seguinte redacção:
 
-###### Art. 87.º A promoção ao posto de brigadeiro dos coronéis das armas será feita por escolha do Conselho de Ministros mediante parecer favorável do Conselho Superior do Exército, sancionado pelo Ministro do Exército, de entre os coronéis da arma onde se verificar a vaga ou de entre os coronéis de qualquer arma, quando se tratar do preenchimento de vagas não atribuídas especialmente a uma delas, e que reúnam as seguintes condições:
+Art. 87.º A promoção ao posto de brigadeiro dos coronéis das armas será feita por escolha do Conselho de Ministros mediante parecer favorável do Conselho Superior do Exército, sancionado pelo Ministro do Exército, de entre os coronéis da arma onde se verificar a vaga ou de entre os coronéis de qualquer arma, quando se tratar do preenchimento de vagas não atribuídas especialmente a uma delas, e que reúnam as seguintes condições:
 
 Estar nos dois terços superiores da escala do seu quadro;
 
@@ -108,20 +121,20 @@ Ter exercido com reconhecida competência, pelo período mínimo de um ano, o co
 
 Ter sido considerado apto para a promoção nas provas finais do curso de altos comandos - serviços -, do Instituto de Altos Estudos Militares.
 
-###### Art. 2.º O § 5.º do artigo 87.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ter a seguinte redacção:
+Art. 2.º O § 5.º do artigo 87.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, passa a ter a seguinte redacção:
 
 § 5.º Os cursos de altos comandos, para as armas e para os serviços, podem, conforme as exigências do ensino e as necessidades do serviço, ser frequentados no posto de tenente-coronel.
 
-###### Art. 3.º O § 4.º do artigo 4.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, passa a ter a seguinte redacção:
+Art. 3.º O § 4.º do artigo 4.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, passa a ter a seguinte redacção:
 
 § 4.º Os postos inerentes à categoria dos oficiais generais, a que se refere a alínea d) do § 1.º, são privativos de oficiais das armas oriundos da Academia Militar. Ao posto de brigadeiro podem, no entanto, ascender os coronéis médicos, de administração militar e engenheiros de material desde que se encontrem habilitados com o respectivo curso ou concurso para o quadro permanente.
 
-###### Art. 4.º Fica sem efeito o § 2.º do artigo 25.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 39478](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39478-1953-650161), de 23 de Dezembro de 1953.
+Art. 4.º Fica sem efeito o § 2.º do artigo 25.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, alterado pelo [Decreto-Lei n.º 39478](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39478-1953-650161), de 23 de Dezembro de 1953.
 
 § único. Os §§ 3.º, 4.º e 5.º do artigo 25.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, passam a designar-se, respectivamente, 2.º, 3.º e 4.º
 
-###### Art. 5.º O limite de idade para a passagem à situação de reserva dos brigadeiros médicos, de administração militar e engenheiros de material é de 63 anos.
+Art. 5.º O limite de idade para a passagem à situação de reserva dos brigadeiros médicos, de administração militar e engenheiros de material é de 63 anos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Outubro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

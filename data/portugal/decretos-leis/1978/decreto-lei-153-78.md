@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 141/1978, 2º Suplemento, Série I de 1978-06-22
   number: '141'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1098-(17) a 1098-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/14102/00170020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1978-259213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f074956e75d2d3acd6fc37268a4c81825f0e423140a8b9a2d5c44bb0d0b6b6e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7e28eca1c5ac481dc3a78220d3fff803aa723c9bafa96fb8ab7163384900327
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Autorização de Despesas
+- Dotação Orçamental
+- Gestão Orçamental
+- Ministério da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:11:22Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +118,19 @@ Através do presente diploma pretende-se, pois, conjugar a audição atempada da
 
 Assim, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Ministério da Administração Interna fica autorizado a proceder ao pagamento de 50% das verbas incluídas nos mapas anexos ao presente diploma e que correspondem à aplicação de critérios indicados pelas câmaras municipais à actual dotação orçamental de verbas do MAI para subsídios de obras municipais.
+Artigo 1.º O Ministério da Administração Interna fica autorizado a proceder ao pagamento de 50% das verbas incluídas nos mapas anexos ao presente diploma e que correspondem à aplicação de critérios indicados pelas câmaras municipais à actual dotação orçamental de verbas do MAI para subsídios de obras municipais.
 
-###### Art. 2.º As restantes parcelas deste pagamento serão entregues de acordo com o processo que vier a ser definido no decreto-lei a publicar de acordo com o n.º 1 do artigo 4.º da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril, e o seu montante global resultará da diferença entre os valores que vierem a ser aprovados pelas respectivas assembleias distritais e o montante da prestação agora processada.
+Art. 2.º As restantes parcelas deste pagamento serão entregues de acordo com o processo que vier a ser definido no decreto-lei a publicar de acordo com o n.º 1 do artigo 4.º da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril, e o seu montante global resultará da diferença entre os valores que vierem a ser aprovados pelas respectivas assembleias distritais e o montante da prestação agora processada.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Jaime José Matos da Gama - Herlânder dos Santos Estrela.
 
-**Promulgado em 21 de Junho de 1978.**
+Promulgado em 21 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Distribuição de subsídios de capital por municípios - 1978
 

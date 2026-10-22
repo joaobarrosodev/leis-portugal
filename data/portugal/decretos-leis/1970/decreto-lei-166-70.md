@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/04/08800/04750480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d2d28cb2c182265ba39ce704c77bdc9c563e9f75ec5f792933a0414328c89ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9b7788a6f50cce720e6035ac38fa3be5882bf3530a5c27d254953979168f1c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Construção Civil
+- Licenciamento de Obras
 relationships:
 - type: amended_by
   target: pt:dre:331257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622586:por
+  label: "Suspensos, desde 25.04.1974 até 29.06.1974, todos os prazos relativos aos órgãos da administração local fixados\
+    \ no presente diploma pelo DEC LEI.236/74.03.06.1974.MAI, DG.IS [129] de 03.06.1974, mesmo para os pedidos que derem entrada\
+    \ após a publicação daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1974-622586
+  date: '1974-06-03'
+- type: amended_by
+  target: pt:dre:171359:por
+  label: "Alterado o n.º 3 do artigo 5.º e revogado o n.º 3 do artigo 1.º e o n.º 6 do artigo 5.º, pelo DEC LEI.463/85.04.11.1985.MES,\
+    \ DR.IS [253] de 04.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/463-1985-171359
+  date: '1985-11-04'
+- type: cites
+  target: pt:dre:214266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321486:por
+  label: "Revogado pelo DEC LEI.445/91.20.11.1991.MPAT, DR.IS-A [267] de 20.11.1991, sem prejuízo do disposto nos n.ºs 1,\
+    \ 2 e 3 do seu artigo 72.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/445-1991-321486
+  date: '1991-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:12Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +202,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Estão sujeitas a licenciamento municipal:
+Artigo 1.º - 1. Estão sujeitas a licenciamento municipal:
 
 a) Todas as obras de construção civil, de reconstrução, ampliação, alteração, reparação ou demolição de edificações e, bem assim, os trabalhos que impliquem alteração da topografia local dentro do perímetro urbano e das zonas rurais de protecção fixadas para as sedes de concelho e para as demais localidades sujeitas por lei a plano de urbanização e expansão;
 
@@ -186,7 +220,7 @@ c) Quaisquer outras obras que, pela sua natureza ou localização, as câmaras m
 
 3. Os Ministros do Interior e das Obras Públicas poderão determinar a dispensa de licenciamento municipal nas condições a fixar, designadamente quando o cumprimento das normas a observar se considere assegurado por autorizações de loteamento ou por cláusulas estipuladas em contrato celebrado com intervenção das câmaras municipais, sem que, todavia, daí resulte isenção do pagamento das taxas correspondentes às licenças dispensadas.
 
-###### Art. 2.º - 1. Não carecem de licença municipal as obras da iniciativa dos serviços do Estado ou de empresas ferroviárias, bem como as obras a executar por particulares em zonas de jurisdição portuária.
+Art. 2.º - 1. Não carecem de licença municipal as obras da iniciativa dos serviços do Estado ou de empresas ferroviárias, bem como as obras a executar por particulares em zonas de jurisdição portuária.
 
 2. Os projectos das obras a que se refere o número anterior, salvo quando se trate de obras em monumentos ou palácios nacionais, devem, porém, ser submetidos a prévia aprovação da câmara municipal, a fim de se verificar a sua conformidade com o plano ou anteplano de urbanização e com as prescrições regulamentares aplicáveis.
 
@@ -194,7 +228,7 @@ c) Quaisquer outras obras que, pela sua natureza ou localização, as câmaras m
 
 4. Da recusa de aprovação dos projectos cabe recurso para o Ministro das Obras Públicas, a interpor no prazo de quinze dias após a notificação respectiva.
 
-###### Art. 3.º - 1. A competência para conceder licenças de obras pertence:
+Art. 3.º - 1. A competência para conceder licenças de obras pertence:
 
 a) Nos concelhos de Lisboa e do Porto e nos concelhos urbanos de 1.ª ordem, ao presidente da câmara municipal ou, por delegação deste, ao vice-presidente;
 
@@ -202,13 +236,13 @@ b) Nos demais concelhos, à câmara municipal ou, por delegação desta, ao pres
 
 2. Nos concelhos de Lisboa e do Porto poderá o presidente da câmara delegar a sua competência no director de serviços que superintenda nas edificações urbanas, salvo no que respeita a obras de construção, reconstrução ou ampliação de edifícios. Com autorização do presidente da câmara podem os directores de serviços subdelegar nos chefes de divisão ou de repartição a competência que por aquele lhes tenha sido delegada.
 
-###### Art. 4.º - 1. O Ministro das Obras Públicas, ouvido o Ministro da Educação Nacional e os organismos corporativos interessados, estabelecerá a qualificação oficial a exigir aos técnicos responsáveis pelos projectos, tendo em vista a categoria e o tipo das obras e respectiva localização.
+Art. 4.º - 1. O Ministro das Obras Públicas, ouvido o Ministro da Educação Nacional e os organismos corporativos interessados, estabelecerá a qualificação oficial a exigir aos técnicos responsáveis pelos projectos, tendo em vista a categoria e o tipo das obras e respectiva localização.
 
 2. Aquele que subscreva projecto da autoria de quem, por razões de ordem técnica legal ou disciplinar, se encontre inibido de o elaborar ou de nele colaborar, incorre na pena de suspensão do exercício da actividade profissional de seis meses até cinco anos, aplicável nos termos dos estatutos do respectivo organismo corporativo.
 
 3. O disposto no número anterior não prejudica a faculdade de instauração de processo pela câmara municipal onde tenha sido apresentado o projecto, com vista à aplicação da pena de suspensão da inscrição na mesma câmara pelo período de seis meses ou, em caso de reincidência, de mais de seis meses até cinco anos.
 
-###### Art. 5.º - 1. O pedido de licença será dirigido ao presidente da câmara municipal e dele deverá constar o nome e domicílio do requerente, bem como a indicação da qualidade de proprietário, locatário ou mandatário.
+Art. 5.º - 1. O pedido de licença será dirigido ao presidente da câmara municipal e dele deverá constar o nome e domicílio do requerente, bem como a indicação da qualidade de proprietário, locatário ou mandatário.
 
 2. Quando o pedido seja formulado na qualidade de locatário, ou em sua representação, juntar-se-á declaração do proprietário de que autoriza a obra, e se for apresentado por mandatário, será junta procuração.
 
@@ -220,7 +254,7 @@ b) Nos demais concelhos, à câmara municipal ou, por delegação desta, ao pres
 
 6. Os Ministros do Interior e das Obras Públicas poderão aprovar modelo de impresso, de utilização obrigatória, para requerer licença de obras, cobrando-se, nesse caso, por meio de estampilha, o imposto do selo devido.
 
-###### Art. 6.º - 1. Os técnicos responsáveis pelos projectos das obras juntarão sempre declaração de que neles se observaram as normas técnicas gerais e específicas de construção, bem como as disposições regulamentares aplicáveis, designadamente sobre fundações, paredes, pavimentos e coberturas, comunicações verticais, dimensão mínima dos aposentos, iluminação, arejamento, abastecimento de água, instalações eléctricas, sanitárias e esgotos.
+Art. 6.º - 1. Os técnicos responsáveis pelos projectos das obras juntarão sempre declaração de que neles se observaram as normas técnicas gerais e específicas de construção, bem como as disposições regulamentares aplicáveis, designadamente sobre fundações, paredes, pavimentos e coberturas, comunicações verticais, dimensão mínima dos aposentos, iluminação, arejamento, abastecimento de água, instalações eléctricas, sanitárias e esgotos.
 
 2. Quando se verifique que o projecto da obra contraria normas técnicas ou disposições regulamentares, poderá a câmara municipal ou, nos concelhos a que se refere a alínea a) do n.º 1 do artigo 3.º, o presidente da câmara determinar que o seu autor fique inibido de apresentar novos projectos no concelho por período de sessenta dias até dois anos, conforme a gravidade dos erros a infracções.
 
@@ -230,15 +264,15 @@ b) Nos demais concelhos, à câmara municipal ou, por delegação desta, ao pres
 
 5. A decisão será precedida de parecer da secção permanente do Conselho Superior de Obras Públicas.
 
-###### Art. 7.º - 1. Quando a localização dos edifícios dependa de autorização, pode o interessado solicitá-la à câmara municipal ou, por intermédio desta, à entidade competente para a conceder, antes de elaborado o referido projecto, instruindo o pedido com os elementos necessários.
+Art. 7.º - 1. Quando a localização dos edifícios dependa de autorização, pode o interessado solicitá-la à câmara municipal ou, por intermédio desta, à entidade competente para a conceder, antes de elaborado o referido projecto, instruindo o pedido com os elementos necessários.
 
 2. Nos casos a que se refere o número anterior, considera-se aplicável o disposto nos n.os 2 a 4 do artigo 5.º e no n.º 3 do artigo 9.º
 
-###### Art. 8.º - 1. Presume-se que os pedidos de localização ou licenciamento de obras estão devidamente instruídos se, no prazo de quinze dias após a data em que for recebido o requerimento, o requerente não tiver sido notificado de deficiências que porventura se verifiquem.
+Art. 8.º - 1. Presume-se que os pedidos de localização ou licenciamento de obras estão devidamente instruídos se, no prazo de quinze dias após a data em que for recebido o requerimento, o requerente não tiver sido notificado de deficiências que porventura se verifiquem.
 
 2. Se houver lugar a intervenção de entidades estranhas ao município, igual presunção só terá lugar decorridos trinta dias após o recebimento do processo.
 
-###### Art. 9.º - 1. Sempre que a localização da obra ou o projecto estejam sujeitos a parecer, autorização ou aprovação de outras entidades, deverão ser juntos ao requerimento tantas cópias do projecto quantas as entidades que sobre ele tenham de pronunciar-se, bem como os demais elementos exigidos nos diplomas especiais aplicáveis ou em instruções transmitidas, para o efeito, às câmaras municipais.
+Art. 9.º - 1. Sempre que a localização da obra ou o projecto estejam sujeitos a parecer, autorização ou aprovação de outras entidades, deverão ser juntos ao requerimento tantas cópias do projecto quantas as entidades que sobre ele tenham de pronunciar-se, bem como os demais elementos exigidos nos diplomas especiais aplicáveis ou em instruções transmitidas, para o efeito, às câmaras municipais.
 
 2. A câmara municipal que receber o projecto deverá, no prazo marcado no n.º 1 do artigo 8.º, notificar o requerente da necessidade da junção das cópias que faltarem, devendo esta ser feita, no prazo de quinze dias, a contar da data da notificação.
 
@@ -246,13 +280,13 @@ b) Nos demais concelhos, à câmara municipal ou, por delegação desta, ao pres
 
 4. Se qualquer das entidades ouvidas se pronunciar desfavoràvelmente, deverá o parecer ou decisão ser fundamentado.
 
-###### Art. 10.º - 1. O exame dos projectos de obras nas câmaras municipais incidirá especialmente sobre o aspecto exterior dos edifícios, inserção no ambiente urbano, cércea respectiva e sua conformidade com o plano ou anteplano de urbanização e respectivo regulamento.
+Art. 10.º - 1. O exame dos projectos de obras nas câmaras municipais incidirá especialmente sobre o aspecto exterior dos edifícios, inserção no ambiente urbano, cércea respectiva e sua conformidade com o plano ou anteplano de urbanização e respectivo regulamento.
 
 2. Quando a altura dos edifícios não esteja fixada em regulamento de plano ou anteplano de urbanização ou em licença de loteamento, será observado o disposto no Regulamento Geral das Edificações Urbanas.
 
-###### Art. 11.º Deverá facultar-se a consulta do processo pelos interessados, quer durante a sua instrução, para que possam prestar esclarecimentos complementares, quer após a resolução final, quando o pedido não obtenha deferimento.
+Art. 11.º Deverá facultar-se a consulta do processo pelos interessados, quer durante a sua instrução, para que possam prestar esclarecimentos complementares, quer após a resolução final, quando o pedido não obtenha deferimento.
 
-###### Art. 12.º - 1. São fixados os seguintes prazos para que as entidades competentes se pronunciem definitivamente:
+Art. 12.º - 1. São fixados os seguintes prazos para que as entidades competentes se pronunciem definitivamente:
 
 a) Sobre a localização de novos edifícios ou de quaisquer instalações - quarenta e cinco dias;
 
@@ -274,17 +308,17 @@ d) Quaisquer outras obras - trinta dias.
 
 7. Os serviços municipais devem notificar o requerente do dia a que se refere o número anterior, bem como dos pareceres desfavoráveis que comprometam o prosseguimento do processo.
 
-###### Art. 13.º - 1. A falta de parecer ou resolução dentro dos prazos prescritos no artigo anterior interpreta-se, para todos os efeitos, como consentimento.
+Art. 13.º - 1. A falta de parecer ou resolução dentro dos prazos prescritos no artigo anterior interpreta-se, para todos os efeitos, como consentimento.
 
 2. A entidade licenciadora não pode recusar a emissão de alvará, nos termos requeridos, sempre que se verifique o deferimento tácito e se mostrem pagas as taxas devidas.
 
-###### Art. 14.º - 1. Dos pareceres ou resoluções de entidades dependentes do Governo, quando desfavoráveis e não tenham sido homologados pelo Ministro respectivo, cabe recurso para o mesmo Ministro, a interpor no prazo de quinze dias após a notificação.
+Art. 14.º - 1. Dos pareceres ou resoluções de entidades dependentes do Governo, quando desfavoráveis e não tenham sido homologados pelo Ministro respectivo, cabe recurso para o mesmo Ministro, a interpor no prazo de quinze dias após a notificação.
 
 2. O Ministro, ou a entidade em quem tiver delegado a respectiva competência, pronunciar-se-á no prazo de trinta dias, interpretando-se como recusa de provimento a falta de decisão dentro desse prazo.
 
 3. O preceituado neste artigo não prejudica o que estiver disposto em diplomas especiais sobre competência para decidir os recursos.
 
-###### Art. 15.º - 1. A câmara municipal só poderá indeferir os pedidos de licenciamento ou de aprovação de projectos com qualquer dos seguintes fundamentos:
+Art. 15.º - 1. A câmara municipal só poderá indeferir os pedidos de licenciamento ou de aprovação de projectos com qualquer dos seguintes fundamentos:
 
 a) Inconformidade com o plano ou anteplano, geral ou parcial, de urbanização e expansão ou o respectivo regulamento;
 
@@ -302,7 +336,7 @@ f) Alterações em construções ou elementos naturais classificados como valore
 
 3. A câmara municipal notificará os requerentes das resoluções definitivas sobre pedidos de licenciamento de obras.
 
-###### Art. 16.º - 1. As resoluções que envolvam indeferimento ou condicionamento por motivos a que se referem as alíneas e) e f) do n.º 1 do artigo anterior serão sempre fundamentadas em parecer da comissão municipal de arte e arqueologia e delas cabe recurso para o Ministro da Educação Nacional, a interpor, através da Direcção-Geral do Ensino Superior e das Belas-Artes, no prazo de trinta dias após a notificação.
+Art. 16.º - 1. As resoluções que envolvam indeferimento ou condicionamento por motivos a que se referem as alíneas e) e f) do n.º 1 do artigo anterior serão sempre fundamentadas em parecer da comissão municipal de arte e arqueologia e delas cabe recurso para o Ministro da Educação Nacional, a interpor, através da Direcção-Geral do Ensino Superior e das Belas-Artes, no prazo de trinta dias após a notificação.
 
 2. O recurso será instruído com certidão da notificação do acto recorrido.
 
@@ -310,7 +344,7 @@ f) Alterações em construções ou elementos naturais classificados como valore
 
 4. A falta de decisão dentro do prazo referido interpreta-se como recusa de provimento, mas o funcionário ou os funcionários culpados da demora poderão ser processados pelo requerente para efeito de apuramento de responsabilidade civil, independentemente da responsabilidade disciplinar a que houver lugar.
 
-###### Art. 17.º - 1. Sempre que a utilização de edificação nova, reconstruída, ampliada ou alterada dependa de licença municipal, deverá a vistoria respectiva efectuar-se dentro dos quarenta e cinco dias seguintes àquele em que houver sido requerida, desde que haja sido efectuado o pagamento das taxas devidas.
+Art. 17.º - 1. Sempre que a utilização de edificação nova, reconstruída, ampliada ou alterada dependa de licença municipal, deverá a vistoria respectiva efectuar-se dentro dos quarenta e cinco dias seguintes àquele em que houver sido requerida, desde que haja sido efectuado o pagamento das taxas devidas.
 
 2. Se o requerente não tiver satisfeito desde logo as taxas devidas, será notificado, até ao quinto dia posterior àquele em que for recebido o requerimento, para efectuar o pagamento.
 
@@ -326,19 +360,19 @@ f) Alterações em construções ou elementos naturais classificados como valore
 
 8. O requerente deverá ser notificado da data da vistoria, bem como, quando for caso disso, das resoluções que incidirem sobre o respectivo auto, cujo exame lhe será sempre facultado.
 
-###### Art. 18.º Constitui negligência grave deixar de promover que os pareceres e resoluções respeitantes a processos de localização, de licenciamento ou de utilização de obras sejam emitidos ou proferidas dentro dos prazos fixados neste diploma.
+Art. 18.º Constitui negligência grave deixar de promover que os pareceres e resoluções respeitantes a processos de localização, de licenciamento ou de utilização de obras sejam emitidos ou proferidas dentro dos prazos fixados neste diploma.
 
-###### Art. 19.º Independentemente da faculdade de embargar obras conferida por lei a entidades estaduais, deverão ser embargadas pela câmara municipal as obras executadas sem licença, sempre que a ela estejam sujeitas, bem como as que forem executadas com violação das normas ou disposições a que alude o n.º 1 do artigo 6.º
+Art. 19.º Independentemente da faculdade de embargar obras conferida por lei a entidades estaduais, deverão ser embargadas pela câmara municipal as obras executadas sem licença, sempre que a ela estejam sujeitas, bem como as que forem executadas com violação das normas ou disposições a que alude o n.º 1 do artigo 6.º
 
-###### Art. 20.º O prosseguimento de trabalhos cuja suspensão tenha sido legìtimamente ordenada será punível com multa de 10000$00 a 50000$00 e prisão correccional de quinze dias a três meses, considerando-se responsáveis os que hajam sido notificados da suspensão.
+Art. 20.º O prosseguimento de trabalhos cuja suspensão tenha sido legìtimamente ordenada será punível com multa de 10000$00 a 50000$00 e prisão correccional de quinze dias a três meses, considerando-se responsáveis os que hajam sido notificados da suspensão.
 
-###### Art. 21.º O disposto no artigo 9.º aplica-se às obras sujeitas a licenciamento pelas direcções de estradas, sem prejuízo da obrigação do pagamento das taxas que forem devidas, cuja cobrança deverá preceder a concessão de alvará pela câmara municipal.
+Art. 21.º O disposto no artigo 9.º aplica-se às obras sujeitas a licenciamento pelas direcções de estradas, sem prejuízo da obrigação do pagamento das taxas que forem devidas, cuja cobrança deverá preceder a concessão de alvará pela câmara municipal.
 
-###### Art. 22.º - 1. Mantém-se em vigor o disposto em legislação especial sobre instalação, ampliação ou alterações de estabelecimentos industriais de 1.ª classe, sem prejuízo, porém, da sujeição, na parte aplicável e com as necessárias adaptações ao regime prescrito nos artigos 11.º e 12º, alínea c) do n.º 1 e n.os 2 e seguintes, e 13.º deste diploma e no número seguinte.
+Art. 22.º - 1. Mantém-se em vigor o disposto em legislação especial sobre instalação, ampliação ou alterações de estabelecimentos industriais de 1.ª classe, sem prejuízo, porém, da sujeição, na parte aplicável e com as necessárias adaptações ao regime prescrito nos artigos 11.º e 12º, alínea c) do n.º 1 e n.os 2 e seguintes, e 13.º deste diploma e no número seguinte.
 
 2. O licenciamento pela direcção-geral competente precederá o licenciamento pela câmara municipal ou pela administração portuária, ficando, porém, a emissão do respectivo diploma dependente da exibição do alvará da câmara municipal.
 
-###### Art. 23.º - 1. Os processos respeitantes à aprovação da localização e dos anteprojectos e projectos dos estabelecimentos hoteleiros e similares de interesse para o turismo, bem como de conjuntos turísticos, ficam sujeitos ao regime previsto em legislação especial, sem prejuízo do disposto nos artigos 11.º e 17.º do presente decreto-lei, com as alterações constantes dos números seguintes.
+Art. 23.º - 1. Os processos respeitantes à aprovação da localização e dos anteprojectos e projectos dos estabelecimentos hoteleiros e similares de interesse para o turismo, bem como de conjuntos turísticos, ficam sujeitos ao regime previsto em legislação especial, sem prejuízo do disposto nos artigos 11.º e 17.º do presente decreto-lei, com as alterações constantes dos números seguintes.
 
 2. A vistoria municipal prevista no artigo 17.º será requerida após o termo das obras e precedendo o equipamento do estabelecimento.
 
@@ -348,11 +382,11 @@ f) Alterações em construções ou elementos naturais classificados como valore
 
 5. O direito à utilização obtido nos termos do artigo 17.º fica, no entanto, para efeitos de exploração de estabelecimento hoteleiro ou similar, dependente da autorização para abertura, a conceder pela Direcção-Geral do Turismo.
 
-###### Art. 24.º - 1. O Governo procederá à revisão do regime de licenciamento da construção, reconstrução, adaptação ou alteração de recintos de espectáculos ou divertimentos públicos, de harmonia com os princípios do presente decreto-lei.
+Art. 24.º - 1. O Governo procederá à revisão do regime de licenciamento da construção, reconstrução, adaptação ou alteração de recintos de espectáculos ou divertimentos públicos, de harmonia com os princípios do presente decreto-lei.
 
 2. Enquanto não se proceder à revisão determinada no número anterior, prevalece o regime especial em vigor, sem prejuízo da aplicação, com as necessárias adaptações, do disposto no artigo 11.º e, quanto a prazos e respectivas cominações, do preceituado nos artigos 12.º, 13.º e 17.º do presente decreto-lei.
 
-###### Art. 25.º (transitório) - 1. O disposto neste diploma aplica-se aos processos pendentes, contando-se, porém, a partir da sua publicação, os prazos fixados nos artigos 12.º, 14.º, 16.º e 17.º
+Art. 25.º (transitório) - 1. O disposto neste diploma aplica-se aos processos pendentes, contando-se, porém, a partir da sua publicação, os prazos fixados nos artigos 12.º, 14.º, 16.º e 17.º
 
 2. Os processos pendentes nas direcções distritais de estradas prosseguirão os seus termos até final segundo o regime prescrito na [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, sem prejuízo da aplicação, com as necessárias adaptações, do preceituado nos artigos 11.º a 14.º e no n.º 2 do artigo 15.º deste decreto-lei, bem como do disposto no número anterior, no que respeita à contagem dos prazos referidos no artigo 12.º
 
@@ -360,9 +394,9 @@ f) Alterações em construções ou elementos naturais classificados como valore
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches - José Veiga Simão.
 
-**Promulgado em 6 de Abril de 1970.**
+Promulgado em 6 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

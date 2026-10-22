@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46673-1965-507825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22645f08dd20a9e78f5bcb1c6636e687988669856ae4d3a16aee370715acd190
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1939dc69109345a66864d0e200174c1b52fd9996972687667e6f99d60e0f80d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- Definição de Competências
+- Licenciamento de Obras
+- Loteamento Urbano
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:291943:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:508433:por
+  label: "Rectificado pela RECT.DD582.31.12.1965.PC, DG.IS [296] de 31.12.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-508433
+  date: '1965-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:18Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +109,9 @@ Nesta conformidade:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Entende-se por loteamento urbano, para os efeitos deste diploma, a operação ou o resultado da operação que tenha por objecto ou tenha tido por efeito a divisão em lotes de um ou vários prédios fundiários, situados em zonas urbanas ou rurais, para venda ou locação simultânea ou sucessiva, e destinados à construção de habitações ou de estabelecimentos comerciais ou industriais.
+Artigo 1.º Entende-se por loteamento urbano, para os efeitos deste diploma, a operação ou o resultado da operação que tenha por objecto ou tenha tido por efeito a divisão em lotes de um ou vários prédios fundiários, situados em zonas urbanas ou rurais, para venda ou locação simultânea ou sucessiva, e destinados à construção de habitações ou de estabelecimentos comerciais ou industriais.
 
-###### Art. 2.º - 1. O loteamento urbano depende de licença da câmara municipal da situação do prédio, que se pronunciará depois de ouvido o seu serviço de obras e urbanização, quando chefiado por engenheiro, arquitecto ou agente técnico de engenharia, a respectiva comissão de arte e arqueologia e a Direcção-Geral dos Serviços de Urbanização.
+Art. 2.º - 1. O loteamento urbano depende de licença da câmara municipal da situação do prédio, que se pronunciará depois de ouvido o seu serviço de obras e urbanização, quando chefiado por engenheiro, arquitecto ou agente técnico de engenharia, a respectiva comissão de arte e arqueologia e a Direcção-Geral dos Serviços de Urbanização.
 
 2. Se o loteamento for requerido para zonas de construção urbana previstas em plano ou anteplano de urbanização aprovado e obedecer às condições exigidas nos seus traçados e regulamentos, será dispensado o parecer da Direcção-Geral dos Serviços de Urbanização, quando o serviço municipal de obras e urbanização tenha sido ouvido.
 
@@ -109,9 +119,9 @@ Neste caso, os pedidos consideram-se deferidos se a câmara municipal sobre eles
 
 3. Sempre que a câmara municipal não se conforme, total ou parcialmente, com o parecer da Direcção-Geral dos Serviços de Urbanização, remeterá o processo, com a sua informação, ao Ministério das Obras Públicas, para o qual se transfere a competência sobre a resolução do pedido.
 
-###### Art. 3.º O pedido de loteamento será instruído com planta cotada da divisão a efectuar, e todas as indicações necessárias para apreciação do empreendimento, designadamente tipo e natureza das construções previstas, rede viária, estudo económico e memória descritiva e justificativa, e menção do encargo que o requerente se propõe assumir com a criação de espaços livres, arruamentos e demais trabalhos de urbanização.
+Art. 3.º O pedido de loteamento será instruído com planta cotada da divisão a efectuar, e todas as indicações necessárias para apreciação do empreendimento, designadamente tipo e natureza das construções previstas, rede viária, estudo económico e memória descritiva e justificativa, e menção do encargo que o requerente se propõe assumir com a criação de espaços livres, arruamentos e demais trabalhos de urbanização.
 
-###### Art. 4.º - 1. O pedido será indeferido quando o loteamento não se conformar com o plano ou anteplano de urbanização aprovado e seus regulamentos, salvo se a alteração proposta vier a merecer aprovação do Ministro das Obras Públicas.
+Art. 4.º - 1. O pedido será indeferido quando o loteamento não se conformar com o plano ou anteplano de urbanização aprovado e seus regulamentos, salvo se a alteração proposta vier a merecer aprovação do Ministro das Obras Públicas.
 
 2. Nas zonas para as quais não haja plano ou anteplano de urbanização aprovado o pedido será indeferido quando dele resultem inconvenientes para o desenvolvimento ordenado dessas zonas.
 
@@ -125,61 +135,61 @@ b) Os lotes, pela sua situação, forma ou dimensões, ou as construções proje
 
 5. As deliberações de indeferimento sobre os pedidos de loteamento serão sempre fundamentadas.
 
-###### Art. 5.º - 1. Cabe recurso para o Ministro das Obras Públicas das deliberações que tenham indeferido o pedido com fundamento nos n.os 1 e 2 e na alínea a) do n.º 3 do artigo 4.º, e para o Ministro da Educação Nacional das que se tenham baseado na alínea b) do n.º 3 do mesmo artigo.
+Art. 5.º - 1. Cabe recurso para o Ministro das Obras Públicas das deliberações que tenham indeferido o pedido com fundamento nos n.os 1 e 2 e na alínea a) do n.º 3 do artigo 4.º, e para o Ministro da Educação Nacional das que se tenham baseado na alínea b) do n.º 3 do mesmo artigo.
 
 2. O recurso deve ser interposto no prazo de 30 dias, contados do acto de notificação.
 
-###### Art. 6.º - 1. A licença de loteamento será titulada por alvará do qual constarão as prescrições a que o requerente fica sujeito, e designadamente os condicionamentos de natureza urbanística, entre eles o traçado da rede viária, espaços livres e arborizados, parques de estacionamento, zonas comerciais ou industriais e desportivas, e as obrigações que, em face do estudo económico, deve assumir, tais como o encargo de mais-valia, ou a execução directa, sob fiscalização da câmara municipal, dos trabalhos de urbanização e cedência de terreno para equipamento urbanístico.
+Art. 6.º - 1. A licença de loteamento será titulada por alvará do qual constarão as prescrições a que o requerente fica sujeito, e designadamente os condicionamentos de natureza urbanística, entre eles o traçado da rede viária, espaços livres e arborizados, parques de estacionamento, zonas comerciais ou industriais e desportivas, e as obrigações que, em face do estudo económico, deve assumir, tais como o encargo de mais-valia, ou a execução directa, sob fiscalização da câmara municipal, dos trabalhos de urbanização e cedência de terreno para equipamento urbanístico.
 
 2. As prescrições fixadas obrigam todos os que tomarem a posição do titular do alvará, e, na parte aplicável, também os adquirentes dos lotes.
 
 3. A câmara municipal dará imediata publicidade à concessão do alvará mediante afixação de edital nos paços do concelho.
 
-###### Art. 7.º - 1. Se o loteamento envolver obras de urbanização que, nos termos do artigo anterior, hajam de ser executadas pelo requerente, deverá este submeter à aprovação da câmara municipal, dentro do prazo marcado para o efeito, o respectivo projecto definitivo.
+Art. 7.º - 1. Se o loteamento envolver obras de urbanização que, nos termos do artigo anterior, hajam de ser executadas pelo requerente, deverá este submeter à aprovação da câmara municipal, dentro do prazo marcado para o efeito, o respectivo projecto definitivo.
 
 2. Os prazos do início e conclusão destas obras serão fixados pela câmara municipal quando aprovar o projecto.
 
 3. A execução dos trabalhos poderá ser autorizada por fases, segundo as prioridades estabelecidas pela câmara municipal, mas sem prejuízo do cumprimento dos prazos fixados nos termos do número anterior.
 
-###### Art. 8.º - 1. Para garantia da boa e regular execução das obras de urbanização a seu cargo, o requerente depositará na Caixa Geral de Depósito, Crédito e Previdência, à ordem da câmara municipal, a importância por esta fixada, que não será inferior a 10 por cento do valor dos trabalhos.
+Art. 8.º - 1. Para garantia da boa e regular execução das obras de urbanização a seu cargo, o requerente depositará na Caixa Geral de Depósito, Crédito e Previdência, à ordem da câmara municipal, a importância por esta fixada, que não será inferior a 10 por cento do valor dos trabalhos.
 
 2. Este depósito pode ser substituído por garantia bancária prestada nos termos da lei.
 
-###### Art. 9.º - 1. A licença de loteamento caduca se os trabalhos referidos no artigo 7.º não forem iniciados dentro do prazo fixado, salvo se o requerente provar perante a câmara municipal, nos quinze dias seguintes ao termo daquele prazo, que a inobservância foi devida a força maior.
+Art. 9.º - 1. A licença de loteamento caduca se os trabalhos referidos no artigo 7.º não forem iniciados dentro do prazo fixado, salvo se o requerente provar perante a câmara municipal, nos quinze dias seguintes ao termo daquele prazo, que a inobservância foi devida a força maior.
 
 2. A câmara municipal poderá declarar a caducidade da licença se os trabalhos não forem concluídos no prazo fixado ou se o loteamento não obedecer às condições estabelecidas.
 
 3. A caducidade da licença determina o embargo imediato dos trabalhos em curso.
 
-###### Art. 10.º - 1. Qualquer forma de anúncio de venda, e a venda ou promessa de venda de terrenos, com ou sem construção, compreendidos em loteamento, só poderão efectuar-se depois de obtida a licença a que se referem os artigos antecedentes e de terem sido observados os condicionamentos nela estabelecidos.
+Art. 10.º - 1. Qualquer forma de anúncio de venda, e a venda ou promessa de venda de terrenos, com ou sem construção, compreendidos em loteamento, só poderão efectuar-se depois de obtida a licença a que se referem os artigos antecedentes e de terem sido observados os condicionamentos nela estabelecidos.
 
 2. A câmara municipal pode autorizar a venda de lotes ou a edificação de construções antes de concluídos os trabalhos referidos no artigo 7.º, desde que estes se encontrem em conveniente estado de adiantamento, mas sem prejuízo da observância, do prazo fixado na licença para a sua conclusão.
 
-###### Art. 11.º Podem ser modificadas, a requerimento dos respectivos titulares ou por iniciativa da câmara municipal, ouvida a Direcção-Geral dos Serviços de Urbanização, as condições das licenças para loteamento estabelecidas anteriormente à aprovação do plano ou anteplano de urbanização, a fim de as harmonizar com estes.
+Art. 11.º Podem ser modificadas, a requerimento dos respectivos titulares ou por iniciativa da câmara municipal, ouvida a Direcção-Geral dos Serviços de Urbanização, as condições das licenças para loteamento estabelecidas anteriormente à aprovação do plano ou anteplano de urbanização, a fim de as harmonizar com estes.
 
-###### Art. 12.º Incorre na multa de 10 a 1000 contos, elevada em caso de reincidência, para 20 a 2000 contos, todo aquele que, sem ter obtido a licença de loteamento, venda, prometa vender ou anuncie a venda, por qualquer forma de publicidade, de terrenos compreendidos num loteamento, ou deixe de cumprir as condições estabelecidas nessa licença.
+Art. 12.º Incorre na multa de 10 a 1000 contos, elevada em caso de reincidência, para 20 a 2000 contos, todo aquele que, sem ter obtido a licença de loteamento, venda, prometa vender ou anuncie a venda, por qualquer forma de publicidade, de terrenos compreendidos num loteamento, ou deixe de cumprir as condições estabelecidas nessa licença.
 
-###### Art. 13.º Incorre na multa de 2000$00 a 20000$00, elevada para 4000$00 a 40000$00 em caso de reincidência, todo aquele que:
+Art. 13.º Incorre na multa de 2000$00 a 20000$00, elevada para 4000$00 a 40000$00 em caso de reincidência, todo aquele que:
 
 a) Deixe de declarar no acto da escritura de venda ou no título da promessa de venda a data da licença de loteamento e as prescrições nesta estabelecidas;
 
 b) Omitir nos anúncios de venda a data da licença ou neles fizer qualquer indicação não conforme com aquelas prescrições ou susceptível de induzir em erro sobre elas.
 
-###### Art. 14.º - 1. As multas referidas nos artigos antecedentes serão sempre fixadas em sentença condenatória, para o que os respectivos autos, depois de devidamente organizados, serão remetidos aos tribunais no prazo de cinco dias.
+Art. 14.º - 1. As multas referidas nos artigos antecedentes serão sempre fixadas em sentença condenatória, para o que os respectivos autos, depois de devidamente organizados, serão remetidos aos tribunais no prazo de cinco dias.
 
 2. Da importância destas multas reverterá metade para a câmara municipal e metade para o Cofre Geral dos Tribunais.
 
-###### Art. 15.º - 1. A câmara municipal poderá substituir-se ao titular da licença para, por conta e risco deste, fazer executar os trabalhos de urbanização que não tenham sido por ele efectuados nos prazos fixados, ou para os corrigir ou alterar de harmonia com os projectos aprovados.
+Art. 15.º - 1. A câmara municipal poderá substituir-se ao titular da licença para, por conta e risco deste, fazer executar os trabalhos de urbanização que não tenham sido por ele efectuados nos prazos fixados, ou para os corrigir ou alterar de harmonia com os projectos aprovados.
 
 2. A despesa com estes trabalhos será paga através do depósito de garantia referido no artigo 8.º Se este for insuficiente e não se verificar o pagamento voluntário da diferença no prazo fixado pela câmara municipal, proceder-se-á à cobrança coerciva, nos termos dos artigos 689.º e seguintes do Código Administrativo, servindo de título executivo certidão passada pela secretaria da câmara municipal, da qual conste o quantitativo e a proveniência da dívida.
 
-###### Art. 16.º A todas as obras efectuadas com inobservância dos preceitos sobre loteamento urbano aplicar-se-á, na parte não especialmente prevista no presente diploma, o Regulamento Geral das Edificações Urbanas, podendo as câmaras municipais proceder à demolição, ao embargo administrativo e ao despejo sumário, nos termos do artigo 165.º e seu parágrafos desse regulamento.
+Art. 16.º A todas as obras efectuadas com inobservância dos preceitos sobre loteamento urbano aplicar-se-á, na parte não especialmente prevista no presente diploma, o Regulamento Geral das Edificações Urbanas, podendo as câmaras municipais proceder à demolição, ao embargo administrativo e ao despejo sumário, nos termos do artigo 165.º e seu parágrafos desse regulamento.
 
-###### Art. 17.º Incumbe às câmaras municipais, à Direcção-Geral dos Serviços de Urbanização, à Guarda Nacional Republicana e à Polícia de Segurança Pública fiscalizar o cumprimento das disposições deste diploma, devendo levantar autos pelas infracções que verificarem.
+Art. 17.º Incumbe às câmaras municipais, à Direcção-Geral dos Serviços de Urbanização, à Guarda Nacional Republicana e à Polícia de Segurança Pública fiscalizar o cumprimento das disposições deste diploma, devendo levantar autos pelas infracções que verificarem.
 
-###### Art. 18.º Aos loteamentos anteriores à publicação deste decreto-lei, ou nesta data em curso, que não se integrem em plano ou anteplano de urbanização aprovado ou que não tenham sido autorizados pela câmara municipal ou pelo Ministério das obras Públicas, são imediatamente aplicáveis, nos termos do presente decreto-lei, as disposições nele contidas na parte relativa aos lotes de terreno onde ainda não se tenham iniciado as edificações a que alude o artigo 1.º
+Art. 18.º Aos loteamentos anteriores à publicação deste decreto-lei, ou nesta data em curso, que não se integrem em plano ou anteplano de urbanização aprovado ou que não tenham sido autorizados pela câmara municipal ou pelo Ministério das obras Públicas, são imediatamente aplicáveis, nos termos do presente decreto-lei, as disposições nele contidas na parte relativa aos lotes de terreno onde ainda não se tenham iniciado as edificações a que alude o artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Novembro de 1965. AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.
 

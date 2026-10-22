@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44081-1961-184898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df9bf9c9bbe02b69cdb7c21adab39f1a20f472121f8b86dfce62965f7b27e9d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55f2d0ffb53a92d267b9a6a113f5e7aa900d08e63fabc914d76095ac6ac825c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Diretor
+- Estabelecimento Prisional
+- Formas de Provimento
+- Peniche
+- Secretário
+relationships:
+- type: cites
+  target: pt:dre:298635:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:12Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +96,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O lugar de director da Cadeia do Forte de Peniche também pode ser provido em oficial do Exército, no activo ou na reserva, em comissão de serviço.
+Artigo 1.º - 1. O lugar de director da Cadeia do Forte de Peniche também pode ser provido em oficial do Exército, no activo ou na reserva, em comissão de serviço.
 
 2. O tempo de serviço prestado nos termos do número anterior é contado, para todos os efeitos legais, no quadro a que o oficial pertença.
 
 3. A nomeação pode converter-se em definitiva decorridos dois anos de serviço com boa informação.
 
-###### Art. 2.º Na falta de candidatos com as condições previstas no artigo 46.º do [Decreto n.º 40877](https://diariodarepublica.pt/dr/detalhe/decreto/40877-1956-298635), de 24 de Novembro de 1956, pode o lugar de secretário da Colónia Penal do Bié ser provido em indivíduo de reconhecida idoneidade com a habilitação mínima do 2.º ciclo dos liceus ou equivalente.
+Art. 2.º Na falta de candidatos com as condições previstas no artigo 46.º do [Decreto n.º 40877](https://diariodarepublica.pt/dr/detalhe/decreto/40877-1956-298635), de 24 de Novembro de 1956, pode o lugar de secretário da Colónia Penal do Bié ser provido em indivíduo de reconhecida idoneidade com a habilitação mínima do 2.º ciclo dos liceus ou equivalente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

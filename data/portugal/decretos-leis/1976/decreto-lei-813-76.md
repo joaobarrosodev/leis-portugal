@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26200/25552556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/813-1976-407304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f3587b9f1c3897514eaf6d84416dadf4138e48baba1d9729fe6bc77ffaea232
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8af8862e9ba06d43bccffac9db5252d265d6ca8ab5e18f6ebfef143e37d1d17b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Companhia Nacional de Navegação
+- Companhia Portuguesa de Transportes Marítimos
+- Criação de Serviços
+- Definição de Competências
+- Empresa Pública
 relationships:
 - type: amended_by
   target: pt:dre:280721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280721:por
+  label: Revogado, a partir de 24.11.1977, pelo(a) Decreto-Lei n.º 484/77 - Diário da República n.º 265/1977, Série I de 1977-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/484-1977-280721
+  date: '1977-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:26Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +127,9 @@ A criação deste departamento tornará possível explorar de forma racional e i
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A comissão administrativa prevista no n.º 1 do artigo 1.º do [Decreto-Lei n.º 704/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1975-311023), de 18 de Dezembro, passa a denominar-se Comissão Administrativa CNN/CTM.
+Artigo 1.º A comissão administrativa prevista no n.º 1 do artigo 1.º do [Decreto-Lei n.º 704/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1975-311023), de 18 de Dezembro, passa a denominar-se Comissão Administrativa CNN/CTM.
 
-###### Art. 2.º - 1. É criado um Departamento de Transportes Especializados, que terá como funções:
+Art. 2.º - 1. É criado um Departamento de Transportes Especializados, que terá como funções:
 
 a) Gerir a exploração dos navios especializados no transporte de granéis secos e líquidos, navios frigoríficos e outros navios não afectos ao tráfego de linha regular;
 
@@ -114,20 +137,20 @@ b) Fretar e afretar navios.
 
 2. O Departamento de Transportes Especializados funcionará na dependência directa da Comissão Administrativa CNN/CTM.
 
-###### Art. 3.º Manter-se-ão os conselhos de directores da CNN e da CTM previstos no [Decreto-Lei n.º 704/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1975-311023), de 18 de Dezembro.
+Art. 3.º Manter-se-ão os conselhos de directores da CNN e da CTM previstos no [Decreto-Lei n.º 704/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1975-311023), de 18 de Dezembro.
 
-###### Art. 4.º O Secretário de Estado da Marinha Mercante poderá autorizar, por despacho, a Comissão Administrativa CNN/CTM a proceder à criação dos necessários órgãos de apoio, bem como a colocar sob a sua directa dependência os departamentos que, progressivamente, reúnam condições para prestar serviços à CNN e à CTM.
+Art. 4.º O Secretário de Estado da Marinha Mercante poderá autorizar, por despacho, a Comissão Administrativa CNN/CTM a proceder à criação dos necessários órgãos de apoio, bem como a colocar sob a sua directa dependência os departamentos que, progressivamente, reúnam condições para prestar serviços à CNN e à CTM.
 
-###### Art. 5.º A Comissão Administrativa CNN/CTM elaborará a seu próprio orçamento, que será suportado, em partes iguais, pela CNN e pela CTM.
+Art. 5.º A Comissão Administrativa CNN/CTM elaborará a seu próprio orçamento, que será suportado, em partes iguais, pela CNN e pela CTM.
 
-###### Art. 6.º A CNN e a CTM darão cumprimento ao determinado no n.º 1 do artigo 49.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, até 30 de Novembro de 1976.
+Art. 6.º A CNN e a CTM darão cumprimento ao determinado no n.º 1 do artigo 49.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, até 30 de Novembro de 1976.
 
-###### Art. 7.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 7.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 28 de Outubro de 1976.**
+Promulgado em 28 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

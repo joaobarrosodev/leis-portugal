@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44366-1962-164232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe37ddca281feb264dda9c7bc3bc875236f0b4f36e69640bb8aa77f2b201b04b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b765de54cf66c90459d8d9903f2c1d9f22118d7e2d355c9af60591a0214c4615
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Arsenal do Alfeite
+- Autorização de Despesas
+- Construção Naval
+- Contrato
+- Definição de Competências
+- Embarcação
+- Marinha
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:56Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +97,10 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Arsenal do Alfeite a celebrar contrato com os estaleiros holandeses Nederlandsche Dok en Scheepsbouw Maatschappij (V. O. f.), de Amesterdão, para a construção do casco de um navio de carga de 11900/13900 t deadweight.
+Artigo 1.º É autorizado o Arsenal do Alfeite a celebrar contrato com os estaleiros holandeses Nederlandsche Dok en Scheepsbouw Maatschappij (V. O. f.), de Amesterdão, para a construção do casco de um navio de carga de 11900/13900 t deadweight.
 
-###### Art. 2.º No contrato a celebrar serão definidos, nos termos que forem aprovados pelo Conselho de Ministros, os trabalhos a efectuar pelo Arsenal do Alfeite, respectivo preço e demais condições especiais que for necessário estabelecer.
+Art. 2.º No contrato a celebrar serão definidos, nos termos que forem aprovados pelo Conselho de Ministros, os trabalhos a efectuar pelo Arsenal do Alfeite, respectivo preço e demais condições especiais que for necessário estabelecer.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços da Governo de República, 26 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

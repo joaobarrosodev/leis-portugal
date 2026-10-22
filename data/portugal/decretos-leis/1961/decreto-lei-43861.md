@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/08/18900/10121013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-04-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 200991ddafe9eca2ca94928d450a764db30f5e80fb796f3867d54204e11d912d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c64c527ba3767e72c943a5600fe76f49117178fea7d4e3c25e97072bedcd30f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Fiscal
+- Chefe de Repartição
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Director de Finanças
+- Diretor Geral
+- Formas de Provimento
+- Funcionário Público
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime de Pessoal
+- Serviço de Prevenção e Fiscalização Tributária
 relationships:
 - type: amended_by
   target: pt:dre:194840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:194840:por
+  label: "Alterada para Serviço de Prevenção e Fiscalização Tributária a denominação do Serviço de Prevenção e Repressão das\
+    \ Infracções Fiscais e de Fiscalização Tributária, criado no presente diploma, que é revogado pelo DEC LEI.44966.09.04.1963.MF,\
+    \ DG.IS [84] de 09.04.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44966-1963-194840
+  date: '1963-04-09'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:10Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +131,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A verificação do cumprimento das obrigações legais constantes dos Decretos-Leis n.os 43763 e 43764, de 30 de Junho de 1961, e legislação complementar incumbe a todos os funcionários da Direcção-Geral das Contribuições e Impostos em relação aos factos que constituírem o objecto das respectivas funções.
+Artigo 1.º A verificação do cumprimento das obrigações legais constantes dos Decretos-Leis n.os 43763 e 43764, de 30 de Junho de 1961, e legislação complementar incumbe a todos os funcionários da Direcção-Geral das Contribuições e Impostos em relação aos factos que constituírem o objecto das respectivas funções.
 
 A prevenção e a repressão contra as respectivas infracções e a fiscalização em geral da matéria dos mesmos diplomas pertencem ùnicamente aos seguintes funcionários:
 
@@ -107,7 +149,7 @@ e) Funcionários especialmente nomeados ou destacados para o exercício da refer
 
 § 2.º O exercício das funções referidas na segunda parte do corpo deste artigo é condicionado à posse de credencial especialmente passada para o efeito, que deverá ser exibida e poderá ser exigida em todos os actos a ele relativos.
 
-###### Art. 2.º Aos funcionários incumbidos da acção preventivo-repressiva a que se refere o artigo anterior compete:
+Art. 2.º Aos funcionários incumbidos da acção preventivo-repressiva a que se refere o artigo anterior compete:
 
 a) Observar os factos tributários e a existência de matéria colectável susceptível de imposto ou da sujeição ao cumprimento de obrigações fiscais;
 
@@ -123,22 +165,22 @@ f) Organizar um registo pessoal dos infractores e dos contribuintes ou obrigados
 
 § único. A competência para o levantamento de autos, com a força que lhes reconhece o artigo 22.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437), de 13 de Abril de 1929, é da exclusiva competência dos funcionários constantes das alíneas a) a d) do artigo 1.º ou dos funcionários investidos de funções de chefia de brigadas de acção preventivo-repressiva ou de fiscalização geral.
 
-###### Art. 3.º Para os efeitos da constituição do corpo a que se refere a alínea e) do artigo 1.º poderá o Ministro das Finanças destacar funcionários ou servidores de qualquer categoria, da Direcção-Geral das Contribuições e Impostos, ou de outros serviços, com reconhecidas qualidades para o exercício do cargo, ou nomear indivíduos do sexo masculino, de idade não inferior a 25 anos nem superior a 35, com habilitação de licenciatura em Ciências Económicas e Financeiras ou a mínima do curso de contabilidade das escolas do ensino técnico e profissional.
+Art. 3.º Para os efeitos da constituição do corpo a que se refere a alínea e) do artigo 1.º poderá o Ministro das Finanças destacar funcionários ou servidores de qualquer categoria, da Direcção-Geral das Contribuições e Impostos, ou de outros serviços, com reconhecidas qualidades para o exercício do cargo, ou nomear indivíduos do sexo masculino, de idade não inferior a 25 anos nem superior a 35, com habilitação de licenciatura em Ciências Económicas e Financeiras ou a mínima do curso de contabilidade das escolas do ensino técnico e profissional.
 
-###### Art. 4.º Os funcionários dos quadros gerais destacados para o serviço a que se refere o presente diploma desempenharão o cargo em comissão por tempo indeterminado, abrindo vaga no quadro de origem, que, assim, se considerará automàticamente aumentado ou diminuído à medida que forem ordenadas as comissões de serviço ou a sua cessação.
+Art. 4.º Os funcionários dos quadros gerais destacados para o serviço a que se refere o presente diploma desempenharão o cargo em comissão por tempo indeterminado, abrindo vaga no quadro de origem, que, assim, se considerará automàticamente aumentado ou diminuído à medida que forem ordenadas as comissões de serviço ou a sua cessação.
 
 § único. Os funcionários a quem for dada por finda a comissão no serviço de que trata este diploma só poderão regressar ao quadro de origem quando houver vaga na sua categoria. Entretanto, manter-se-ão em serviço na Direcção-Geral, com o vencimento correspondente à categoria que lhes couber, no desempenho de funções e no lugar que lhes seja determinado pelo Ministro das Finanças.
 
-###### Art. 5.º Enquanto se mantiverem em comissão neste serviço, os funcionários dos quadros gerais usufruirão dos direitos e regalias estabelecidos no artigo 9.º do [Decreto-Lei n.º 42637](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42637-1959-440104), de 7 de Novembro de 1959.
+Art. 5.º Enquanto se mantiverem em comissão neste serviço, os funcionários dos quadros gerais usufruirão dos direitos e regalias estabelecidos no artigo 9.º do [Decreto-Lei n.º 42637](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42637-1959-440104), de 7 de Novembro de 1959.
 
-###### Art. 6.º Aos funcionários recrutados nos termos da parte final do corpo do artigo 3.º é atribuída a designação de técnicos contabilistas de 1.º e 2.ª classes, respectivamente, com o vencimento correspondente às letras J e L do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com a actualização do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, devendo ser nomeados em regime de contrato por três anos, findos os quais poderão ser dispensados quando não obtiverem boas informações de serviço, ou providos definitivamente no caso contrário.
+Art. 6.º Aos funcionários recrutados nos termos da parte final do corpo do artigo 3.º é atribuída a designação de técnicos contabilistas de 1.º e 2.ª classes, respectivamente, com o vencimento correspondente às letras J e L do artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com a actualização do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, devendo ser nomeados em regime de contrato por três anos, findos os quais poderão ser dispensados quando não obtiverem boas informações de serviço, ou providos definitivamente no caso contrário.
 
-###### Art. 7.º As funções gerais de fiscalização estabelecidas no artigo 21.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, e legislação complementar poderão, por portaria do Ministro das Finanças, ser cometidas ao corpo de funcionários a que se refere o presente diploma quando não existam, no concelho ou bairro, informadores fiscais em número suficiente para o bom desempenho das respectivas funções, ou quando se mostre conveniente que estas sejam exercidas por funcionários mais especializados ou de superior qualificação.
+Art. 7.º As funções gerais de fiscalização estabelecidas no artigo 21.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930, e legislação complementar poderão, por portaria do Ministro das Finanças, ser cometidas ao corpo de funcionários a que se refere o presente diploma quando não existam, no concelho ou bairro, informadores fiscais em número suficiente para o bom desempenho das respectivas funções, ou quando se mostre conveniente que estas sejam exercidas por funcionários mais especializados ou de superior qualificação.
 
 § único. Nos casos previstos no corpo deste artigo, os informadores fiscais não destacados para o serviço criado por este diploma poderão ser transferidos, a seu pedido ou oficiosamente, para os concelhos onde existam vagas e onde menos se verifique a necessidade de uma fiscalização especializada, ou incumbidos do exercício de funções auxiliares nas secções ou direcções de finanças, com a mesma categoria e vencimento de que actualmente desfrutam.
 
-###### Art. 8.º O Ministro das Finanças fixará em portaria publicada no Diário do Governo, e para cada categoria de funcionários, o quadro de cada uma das secções de finanças dos concelhos ou bairros e das direcções, podendo transferir de umas para outras o pessoal indispensável para o respectivo preenchimento, e considerando-se, na medida correspondente, aumentados ou diminuídos os respectivos quadros gerais.
+Art. 8.º O Ministro das Finanças fixará em portaria publicada no Diário do Governo, e para cada categoria de funcionários, o quadro de cada uma das secções de finanças dos concelhos ou bairros e das direcções, podendo transferir de umas para outras o pessoal indispensável para o respectivo preenchimento, e considerando-se, na medida correspondente, aumentados ou diminuídos os respectivos quadros gerais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

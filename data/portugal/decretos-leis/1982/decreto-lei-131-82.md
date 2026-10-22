@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1982-606544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdaf9bb892dd1f5437229dfe763b465cf04500784b92babb41857450f818d169
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16732a4f736b578e047e2a3447f5f8a5e91c34aad9c9d1fecc551e01651304c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:521445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:41:56Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +105,7 @@ Usando da autorização legislativa concedida pelo artigo 57.º da [Lei n.º 40/
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As importâncias de licenças, taxas, multas e seus limites, bem como as pagas no acto da apresentação de denúncias em serviços públicos, fixadas em quantitativos específicos e que constituam, no todo ou em parte, receita do Estado são actualizadas com a aplicação dos seguintes coeficientes, conforme o ano em que foi estabelecida a respectiva importância em vigor à data da publicação deste diploma:
+Artigo 1.º - 1 - As importâncias de licenças, taxas, multas e seus limites, bem como as pagas no acto da apresentação de denúncias em serviços públicos, fixadas em quantitativos específicos e que constituam, no todo ou em parte, receita do Estado são actualizadas com a aplicação dos seguintes coeficientes, conforme o ano em que foi estabelecida a respectiva importância em vigor à data da publicação deste diploma:
 
 Anteriormente a 1921 ... 90
 
@@ -117,12 +127,12 @@ Em 1977 e 1978 ... 2
 
 2 - Excluem-se do disposto no número antecedente as licenças e taxas constantes da Tabela Geral do Imposto do Selo e, bem assim, a taxa militar.
 
-###### Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 13 de Abril de 1982.**
+Promulgado em 13 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

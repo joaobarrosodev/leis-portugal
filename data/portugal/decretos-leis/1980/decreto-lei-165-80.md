@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12400/12291230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1980-474691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80ab8f819399f02198101c127f4049e88de41643443c949f2b215af8a76e750e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44c14830f19453aeee9a39b00527788fa4c3d7525ef768834e2165fe263c1ec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Assistência a Familiares
+- Atestado Médico
+- Faltas
+- Família
+- Função Pública
+- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:152334:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:152334:por
+  label: "Revogado pelo DEC LEI.135/85.03.05.1985.PCM, DR.IS [101] de 03.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1985-152334
+  date: '1985-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:02Z'
   warnings: []
   errors: []
 ---
@@ -101,30 +113,30 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os funcionários e agentes poderão faltar justificadamente ao serviço até quinze dias por ano, para prestar assistência inadiável e imprescindível, em caso de doença, ao cônjuge, ascendentes, descendentes e afins na linha recta.
+Artigo 1.º - 1 - Os funcionários e agentes poderão faltar justificadamente ao serviço até quinze dias por ano, para prestar assistência inadiável e imprescindível, em caso de doença, ao cônjuge, ascendentes, descendentes e afins na linha recta.
 
 2 - O prazo estabelecido no número anterior poderá ser alargado até trinta dias por ano, para prestação de assistência a filhos, adoptados e enteados menores de 10 anos.
 
 3 - Estas faltas são equiparadas, quanto ao seu regime e efeitos, às faltas por doença do próprio funcionário ou agente.
 
-###### Art. 2.º - 1 - A justificação do estado de doença do familiar, bem como a sua verificação, deve ser feita em termos idênticos aos previstos na lei para os funcionários e agentes.
+Art. 2.º - 1 - A justificação do estado de doença do familiar, bem como a sua verificação, deve ser feita em termos idênticos aos previstos na lei para os funcionários e agentes.
 
 2 - O atestado médico justificativo da doença deve mencionar expressamente que o doente necessita de acompanhamento ou assistência permanente, com carácter inadiável e imprescindível.
 
 3 - O atestado médico referido no número anterior deverá ser entregue nos serviços juntamente com declaração do funcionário ou agente, da qual conste que é ele o familiar em melhores condições para a prestação desse acompanhamento ou assistência e a indicação da sua ligação familiar com o doente.
 
-###### Art. 3.º - 1 - Salvo o disposto nos números seguintes, em situação de internamento hospitalar de familiares, os funcionários ou agentes não poderão fazer uso do direito previsto no artigo 1.º, excepto quando se trate de filhos menores de 10 anos.
+Art. 3.º - 1 - Salvo o disposto nos números seguintes, em situação de internamento hospitalar de familiares, os funcionários ou agentes não poderão fazer uso do direito previsto no artigo 1.º, excepto quando se trate de filhos menores de 10 anos.
 
 2 - Nos serviços e organismos que não pratiquem flexibilidade de horários, poderão os funcionários e agentes beneficiar de uma dispensa, em horas, por dia de trabalho, destinada à visita de familiares doentes previstos no n.º 1 do artigo 1.º, quando o horário de visitas no estabelecimento hospitalar coincida com o seu horário de trabalho.
 
 3 - Nos casos previstos no número anterior, as horas utilizadas serão computadas no cálculo do período de dias de faltas justificadas nos termos do artigo 1.º
 
-###### Art. 4.º Este diploma é aplicável aos funcionários e agentes da Administração Central, Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.
+Art. 4.º Este diploma é aplicável aos funcionários e agentes da Administração Central, Regional e Local e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

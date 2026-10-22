@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03200/02770279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e082b87eb9d93f049b8283cd4aca5961b0b24204fb4676bd18fcc056946f4a1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc4eea31d1e78cdeeb3da3784dce14720620e10ce12736f8339f4c9ff6170e94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Ensino Primário
+- Escola do Magistério Primário
+- Formação Profissional
+- Pessoal Docente
+- Qualificação Profissional
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383409:por
+  label: "Alterados os n.ºs 2 e 3 do artigo 14.º e o artigo 19.º do presente diploma, pelo DEC LEI.173/79.06.06.1979.MEIC,\
+    \ DR.IS [130] de 06.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1979-383409
+  date: '1979-06-06'
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:12Z'
   warnings: []
   errors: []
 ---
@@ -108,29 +142,29 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São criados cursos especiais para regentes escolares efectivos e agregados, bem como para Professores eventuais do ensino primário e professores de posto dos quadros ou eventuais dos serviços de educação das ex-colónias portuguesas.
+Artigo 1.º São criados cursos especiais para regentes escolares efectivos e agregados, bem como para Professores eventuais do ensino primário e professores de posto dos quadros ou eventuais dos serviços de educação das ex-colónias portuguesas.
 
-###### Art. 2.º - 1. Serão regulamentados, mediante portaria do Ministro da Educação e Investigação Científica, o plano dos cursos especiais, o seu funcionamento e a classificação profissional dos que nele obtenham aprovação.
+Art. 2.º - 1. Serão regulamentados, mediante portaria do Ministro da Educação e Investigação Científica, o plano dos cursos especiais, o seu funcionamento e a classificação profissional dos que nele obtenham aprovação.
 
 2. O Ministro da Educação e investigação Científica deverá, mediante despacho a publicar no Diário do Governo, fixar anualmente o número máximo de candidatos a admitir aos cursos especiais em cada escola do magistério, bem como as prioridades a aplicar nessa admissão.
 
-###### Art. 3.º - 1. Podem ser admitidos a esses cursos os candidatos, referidos no artigo 1.º, que provem ter prestado pelo menos cinco ou três anos de serviço docente qualificado de Suficiente, conforme se trate de professores de posto escolar eventuais ou das restantes categorias previstas nesse preceito, estejam habilitados com o ensino preparatório ou equivalente e não tenham mais de 55 anos de idade.
+Art. 3.º - 1. Podem ser admitidos a esses cursos os candidatos, referidos no artigo 1.º, que provem ter prestado pelo menos cinco ou três anos de serviço docente qualificado de Suficiente, conforme se trate de professores de posto escolar eventuais ou das restantes categorias previstas nesse preceito, estejam habilitados com o ensino preparatório ou equivalente e não tenham mais de 55 anos de idade.
 
 2. Os professores eventuais do ensino primário das ex-colónias com cinco anos de serviço qualificado de Suficiente podem ingressar directamente no terceiro ano dos cursos especiais.
 
-###### Art. 4.º Àqueles que obtenham aproveitamento nos cursos especiais é facultado habilitarem-se aos concursos para os quadros de professores efectivos e agregados do ensino primário, nos quais serão graduados:
+Art. 4.º Àqueles que obtenham aproveitamento nos cursos especiais é facultado habilitarem-se aos concursos para os quadros de professores efectivos e agregados do ensino primário, nos quais serão graduados:
 
 a) Em igualdade de condições com os professores diplomados pelas escolas do magistério primário, desde que possuam um mínimo de dez anos de serviço bem qualificado;
 
 b) Em escalão imediatamente inferior ao dos professores diplomados pelas escolas do magistério primário, se não reunirem as condições expressas na alínea anterior.
 
-###### Art. 5.º Os vencimentos dos professores mencionados no artigo anterior são os correspondentes às letras P, O, N ou M, conforme se integrem, respectivamente, nas fases 1, 2, 3 ou 4, nos termos do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+Art. 5.º Os vencimentos dos professores mencionados no artigo anterior são os correspondentes às letras P, O, N ou M, conforme se integrem, respectivamente, nas fases 1, 2, 3 ou 4, nos termos do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
-###### Art. 6.º A partir do ano escolar de 1975-1976, não serão permitidas matrículas, pela primeira vez, em qualquer dos anos dos cursos intensivos previstos no artigo 3.º do [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793), de 26 de Fevereiro.
+Art. 6.º A partir do ano escolar de 1975-1976, não serão permitidas matrículas, pela primeira vez, em qualquer dos anos dos cursos intensivos previstos no artigo 3.º do [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793), de 26 de Fevereiro.
 
-###### Art. 7.º Os regentes escolares que frequentem os cursos intensivos poderão continuá-los até ao seu termo, sem prejuízo do disposto no n.º 10.º da [Portaria n.º 140/73](https://diariodarepublica.pt/dr/detalhe/portaria/140-1973-684792), de 26 de Fevereiro, ou transitar, desde que o requeiram, para os cursos especiais criados pelo presente diploma.
+Art. 7.º Os regentes escolares que frequentem os cursos intensivos poderão continuá-los até ao seu termo, sem prejuízo do disposto no n.º 10.º da [Portaria n.º 140/73](https://diariodarepublica.pt/dr/detalhe/portaria/140-1973-684792), de 26 de Fevereiro, ou transitar, desde que o requeiram, para os cursos especiais criados pelo presente diploma.
 
-###### Art. 8.º - 1. As condições da transição mencionada no artigo anterior são as seguintes:
+Art. 8.º - 1. As condições da transição mencionada no artigo anterior são as seguintes:
 
 a) Os alunos que transitaram para o 2.º ano dos cursos intensivos passarão a frequentar o 1.º ano dos cursos especiais;
 
@@ -144,54 +178,54 @@ b) Optar por um curso teórico-prático de um ano, correspondente ao 2.º ano do
 
 c) Ser providos em lugares, compatíveis com as suas habilitações, nos quadros dos serviços centrais e externos do Ministério da Educação e Investigação Científica, bem como dos estabelecimentos dele dependentes.
 
-###### Art. 9.º O tempo de frequência dos cursos intensivos e especiais, antes ou depois da entrada em vigor deste diploma, é, para todos os efeitos legais, contado como serviço docente qualificado de Suficiente.
+Art. 9.º O tempo de frequência dos cursos intensivos e especiais, antes ou depois da entrada em vigor deste diploma, é, para todos os efeitos legais, contado como serviço docente qualificado de Suficiente.
 
-###### Art. 10.º Durante a frequência dos cursos intensivos, especiais e geral das escolas do magistério primário serão mantidos os vencimentos aos regentes escolares efectivos ou agregados, que não terão, porém, direito a bolsa de estudo.
+Art. 10.º Durante a frequência dos cursos intensivos, especiais e geral das escolas do magistério primário serão mantidos os vencimentos aos regentes escolares efectivos ou agregados, que não terão, porém, direito a bolsa de estudo.
 
-###### Art. 11.º Terão direito a bolsa de estudo, durante a frequência dos cursos geral, intensivos e especiais das escolas do magistério primário:
+Art. 11.º Terão direito a bolsa de estudo, durante a frequência dos cursos geral, intensivos e especiais das escolas do magistério primário:
 
 a) Os professores eventuais e de posto das ex-colónias, desde que não recebam vencimento ou gratificação de qualquer organismo oficial;
 
 b) Os ex-regentes escolares exonerados que actualmente os frequentem.
 
-###### Art. 12.º O valor da bolsa, concedida durante doze meses do ano, será de 75% do salário mínimo nacional.
+Art. 12.º O valor da bolsa, concedida durante doze meses do ano, será de 75% do salário mínimo nacional.
 
-###### Art. 13.º As regalias referidas nos artigos anteriores cessarão quando os alunos não tenham obtido aproveitamento em dois anos lectivos consecutivos ou em três alternados.
+Art. 13.º As regalias referidas nos artigos anteriores cessarão quando os alunos não tenham obtido aproveitamento em dois anos lectivos consecutivos ou em três alternados.
 
-###### Art. 14.º - 1. Os postos escolares actualmente vagos e que ainda se mantêm nos termos do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793) são convertidos em escolas.
+Art. 14.º - 1. Os postos escolares actualmente vagos e que ainda se mantêm nos termos do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793) são convertidos em escolas.
 
 2. Os regentes escolares titulares dos postos a que se refere o número anterior e que tenham obtido aproveitamento nos cursos geral ou especiais das escolas do magistério primário podem, independentemente de concurso, e desde que o requeiram no prazo de trinta dias após a obtenção do diploma, ser providos em lugares das escolas em que aqueles ora são transformados.
 
 3. Findo este prazo, os referidos lugares serão postos a concurso.
 
-###### Art. 15.º Os regentes escolares efectivos que não se inscreverem em qualquer dos cursos referidos no presente decreto-lei ou que neles não tenham obtido aproveitamento manter-se-ão ou serão colocados, respectivamente, nos postos escolares de que sejam titulares ou em lugares das escolas em que aqueles se transformaram.
+Art. 15.º Os regentes escolares efectivos que não se inscreverem em qualquer dos cursos referidos no presente decreto-lei ou que neles não tenham obtido aproveitamento manter-se-ão ou serão colocados, respectivamente, nos postos escolares de que sejam titulares ou em lugares das escolas em que aqueles se transformaram.
 
-###### Art. 16.º Os regentes escolares agregados e professores de posto escolar dos quadros das ex-colónias que estejam nas condições mencionadas no artigo anterior poderão prestar:
+Art. 16.º Os regentes escolares agregados e professores de posto escolar dos quadros das ex-colónias que estejam nas condições mencionadas no artigo anterior poderão prestar:
 
 a) Serviço docente em qualquer lugar do ensino primário onde se tornem necessários, segundo decisão da respectiva direcção escolar, preferindo os mais graduados sempre que haja vários possíveis candidatos para o mesmo lugar;
 
 b) Outras tarefas nas direcções dos distritos escolares ou junto de delegados escolares ou secretários de zona, conforme for mais conveniente.
 
-###### Art. 17.º - 1. Os regentes escolares e professores de posto a que se referem os artigos 15.º e 16.º do presente diploma perceberão o vencimento correspondente à categoria da letra R.
+Art. 17.º - 1. Os regentes escolares e professores de posto a que se referem os artigos 15.º e 16.º do presente diploma perceberão o vencimento correspondente à categoria da letra R.
 
 2. Os regentes escolares colocados, em comissão, em lugares docentes de escolas primárias deixam de ter direito à gratificação fixada no artigo 14.º do [Decreto-Lei n.º 33019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33019-1943-399604), de 1 de Setembro de 1943.
 
-###### Art. 18.º Aos lugares, resultantes da conversão de postos escolares ao abrigo do disposto no n.º 1 do artigo 1.º do citado [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793), que se encontrem sem titular será aplicado o previsto nos artigos 14.º, n.os 2 e 3, 15.º e 17.º do presente diploma legal.
+Art. 18.º Aos lugares, resultantes da conversão de postos escolares ao abrigo do disposto no n.º 1 do artigo 1.º do citado [Decreto-Lei n.º 67/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1973-684793), que se encontrem sem titular será aplicado o previsto nos artigos 14.º, n.os 2 e 3, 15.º e 17.º do presente diploma legal.
 
-###### Art. 19.º O Ministro da Educação e Investigação Científica poderá determinar o provimento em lugares dos serviços centrais ou externos do Ministério, bem como estabelecimentos deles dependentes, de acordo com as respectivas habilitações, dos regentes escolares efectivos e agregados e dos professores de posto dos quadros das ex-colónias que não se matriculem nos cursos especiais ou dos que, não tendo obtido aproveitamento em qualquer dos cursos mencionados neste decreto-lei, optem por serviço não docente.
+Art. 19.º O Ministro da Educação e Investigação Científica poderá determinar o provimento em lugares dos serviços centrais ou externos do Ministério, bem como estabelecimentos deles dependentes, de acordo com as respectivas habilitações, dos regentes escolares efectivos e agregados e dos professores de posto dos quadros das ex-colónias que não se matriculem nos cursos especiais ou dos que, não tendo obtido aproveitamento em qualquer dos cursos mencionados neste decreto-lei, optem por serviço não docente.
 
-###### Art. 20.º Os professores eventuais do ensino primário com inscrição no curso das escolas do magistério primário da ex-colónia de Angola, em regime de voluntariado, ao abrigo do Decreto Provincial n.º 108/74, de 2 de Novembro, poderão ingressar no curso geral das escolas do magistério primário com dispensa de exame ide admissão.
+Art. 20.º Os professores eventuais do ensino primário com inscrição no curso das escolas do magistério primário da ex-colónia de Angola, em regime de voluntariado, ao abrigo do Decreto Provincial n.º 108/74, de 2 de Novembro, poderão ingressar no curso geral das escolas do magistério primário com dispensa de exame ide admissão.
 
-###### Art. 21.º As dúvidas relativas à aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou, também, do Ministro das Finanças, quando necessário.
+Art. 21.º As dúvidas relativas à aplicação deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou, também, do Ministro das Finanças, quando necessário.
 
-###### Art. 22.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas afectas a bolsas de estudo a atribuir através das escolas do magistério primário e, se necessário, pelas disponibilidades das dotações referentes a remunerações do pessoal docente.
+Art. 22.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas afectas a bolsas de estudo a atribuir através das escolas do magistério primário e, se necessário, pelas disponibilidades das dotações referentes a remunerações do pessoal docente.
 
-###### Art. 23.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 23.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.
 
-**Promulgado em 27 de Janeiro de 1976.**
+Promulgado em 27 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/28400/22452246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48093-1967-400602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4da086730cfca4c73cffc2a27a28ea2ae78fa91e5a37945ac408f17479519eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7783785005068a0adfbdc2b1893550077da9fcd42a92100501cb602e27c47b69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvará
+- Contrato de Concessão
+- Exploração Mineira
+- Recursos Geológicos
 relationships:
 - type: amended_by
   target: pt:dre:333160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271228:por
+  label: "Alterado o art. 4º pelo DEC LEI.48407.29.05.1968.MECO, DG.IS [128] de 29.05.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48407-1968-271228
+  date: '1968-05-29'
+- type: cites
+  target: pt:dre:194869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687261:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:401539:por
+  label: "Rectificado o preâmbulo, o nº2 do art. 2º e o nº1 do art. 3º do presente diploma, pela RECT.DD520.26.12.1967.PC,\
+    \ DG.IS [298] de 26.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-401539
+  date: '1967-12-26'
+- type: repealed_by
+  target: pt:dre:333160:por
+  label: Revogado pelo DEC LEI.90/90.16.03.1990.MIE, DR.IS [63] de 16.03.1990, com a entrada em vigor daquele diploma e legislação
+    referida no art. 51º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1990-333160
+  date: '1990-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:30Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +151,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam incluídos na 1.ª classe de substâncias minerais úteis, a que se refere o artigo 3.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930, os jazigos de quartzo e os de feldspato quando ocorram em massas ou filões.
+Artigo 1.º Ficam incluídos na 1.ª classe de substâncias minerais úteis, a que se refere o artigo 3.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930, os jazigos de quartzo e os de feldspato quando ocorram em massas ou filões.
 
-###### Art. 2.º - 1. As concessões de quartzo ou de feldspato serão dadas a título provisório pelo período de três anos e regular-se-ão pelas disposições do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), com as seguintes modificações:
+Art. 2.º - 1. As concessões de quartzo ou de feldspato serão dadas a título provisório pelo período de três anos e regular-se-ão pelas disposições do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), com as seguintes modificações:
 
 a) O prazo previsto na alínea b) do artigo 28.º é reduzido a seis meses;
 
@@ -138,7 +171,7 @@ Os processos serão completados em conformidade com o estabelecido no [Decreto n
 
 3. As concessões provisórias caducarão, passando à situação de abandono ou ficando em campo livre para novos registos, conforme tenha sido ou não evidenciado o valor industrial dos respectivos jazigos, se os interessados não requererem a sua conversão em definitivo no prazo estabelecido no número anterior.
 
-###### Art. 3.º - 1. Os actuais exploradores de pedreiras de quartzo ou de feldspato, filoniano ou em massas, legalmente autorizados nos termos do [Decreto n.º 13642](https://diariodarepublica.pt/dr/detalhe/decreto/13642-1927-687261), de 7 de Maio de 1927, e da [Lei n.º 1979](https://diariodarepublica.pt/dr/detalhe/lei/1979-1940-194869), de 23 de Março de 1940, poderão requerer as respectivas concessões no prazo de 90 dias, a contar da entrada em vigor deste decreto-lei, no uso dos direitos de manifestantes que para tal lhes são conferidos. Se o não fizeram, dentro deste prazo, poderão os proprietários do solo usar dos mesmos direitos, em igual prazo de 90 dias, findo o qual os registos dos manifestos das referidas substâncias poderão ser livremente efectuados nos termos do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619).
+Art. 3.º - 1. Os actuais exploradores de pedreiras de quartzo ou de feldspato, filoniano ou em massas, legalmente autorizados nos termos do [Decreto n.º 13642](https://diariodarepublica.pt/dr/detalhe/decreto/13642-1927-687261), de 7 de Maio de 1927, e da [Lei n.º 1979](https://diariodarepublica.pt/dr/detalhe/lei/1979-1940-194869), de 23 de Março de 1940, poderão requerer as respectivas concessões no prazo de 90 dias, a contar da entrada em vigor deste decreto-lei, no uso dos direitos de manifestantes que para tal lhes são conferidos. Se o não fizeram, dentro deste prazo, poderão os proprietários do solo usar dos mesmos direitos, em igual prazo de 90 dias, findo o qual os registos dos manifestos das referidas substâncias poderão ser livremente efectuados nos termos do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619).
 
 2. O requerimento será elaborado em conformidade com o disposto na alínea b) do artigo 2.º, devendo a planta, na escala de 1:10000, indicar rigorosamente a área declarada como pedreira e os locais da exploração.
 
@@ -152,9 +185,9 @@ Aos detentores do direito de exploração das pedreiras serão fornecidas, até 
 
 5. Os acordos ou contratos estabelecidos entre os exploradores e os proprietários das pedreiras, à data da entrada em vigor deste diploma, bem como os que hajam de ser renovados entre os mesmos interessados na sua vigência, continuarão a regular-se pelas disposições da [Lei n.º 1979](https://diariodarepublica.pt/dr/detalhe/lei/1979-1940-194869), enquanto durarem as explorações.
 
-###### Art. 4.º Os registos de manifestos mineiros de quartzo ou de feldspato só poderão ter início decorridos 180 dias, a contar da entrada em vigor deste decreto-lei.
+Art. 4.º Os registos de manifestos mineiros de quartzo ou de feldspato só poderão ter início decorridos 180 dias, a contar da entrada em vigor deste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.
 

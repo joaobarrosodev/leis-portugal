@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/170-1970-225795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f5ad16bb9c38c60628e5d97bc800ba4a59bb1b7c9860eed18838765c5710502
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 315f48dd924d4048b73ab19f797e85e3f58f5dc5dfb30c365fd23414bfc24d80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:57Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +98,13 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É criado no Centro de Informação e Turismo de Moçambique o lugar de director-adjunto, a prover, em comissão ordinária de serviço, por escolha do Ministro do Ultramar, entre pessoas que tenham revelado competência para o seu desempenho e que, de preferência, possuam um curso superior.
+Artigo 1.º - 1. É criado no Centro de Informação e Turismo de Moçambique o lugar de director-adjunto, a prover, em comissão ordinária de serviço, por escolha do Ministro do Ultramar, entre pessoas que tenham revelado competência para o seu desempenho e que, de preferência, possuam um curso superior.
 
 2. O lugar a que se refere este artigo considera-se incluído no mapa anexo ao [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959, e terá a mesma categoria estabelecida para o director pelo Diploma Legislativo Ministerial n.º 7, de 21 de Outubro de 1961.
 
 3. Nas suas ausências e impedimentos, o director do Centro é substituído pelo director-adjunto.
 
-###### Art. 2.º - 1. A competência conferida ao Centro pela legislação em vigor será exercida por intermédio dos seguintes órgãos:
+Art. 2.º - 1. A competência conferida ao Centro pela legislação em vigor será exercida por intermédio dos seguintes órgãos:
 
 a) Inspecções:
 
@@ -120,29 +128,29 @@ c) Delegações distritais ou locais.
 
 3. As Inspecções mencionadas na alínea a) do n.º 1 deste artigo subordinam-se directamente ao director-adjunto do Centro.
 
-###### Art. 3.º - 1. Salvo quanto à Inspecção dos Espectáculos, a constituir por um presidente e fiscais a designar por despacho do governador-geral e a retribuir mediante gratificação a estabelecer na província, a Inspecção da Indústria Hoteleira e Estabelecimentos Similares e os Serviços mencionados na alínea b) do n.º 1 do artigo 2.º disporão do pessoal do quadro comum constante do mapa anexo a este decreto, com as categorias que no mesmo lhe vão referidas.
+Art. 3.º - 1. Salvo quanto à Inspecção dos Espectáculos, a constituir por um presidente e fiscais a designar por despacho do governador-geral e a retribuir mediante gratificação a estabelecer na província, a Inspecção da Indústria Hoteleira e Estabelecimentos Similares e os Serviços mencionados na alínea b) do n.º 1 do artigo 2.º disporão do pessoal do quadro comum constante do mapa anexo a este decreto, com as categorias que no mesmo lhe vão referidas.
 
 2. As delegações distritais e locais a que alude a alínea c) do n.º 1 do artigo 2.º serão criadas à medida que as necessidades o imponham, mediante diploma legislativo do governador-geral, competindo a sua chefia a funcionários com a categoria da letra J ou L do artigo 91.º do Estatuto do Funcionalismo Ultramarino, conforme a importância das delegações.
 
-###### Art. 4.º Os chefes de serviços, os chefes de secção e o inspector da Indústria Hoteleira são nomeados em comissão ordinária de serviço; os primeiros, pelo Ministro do Ultramar, de entre pessoas que tenham revelado qualidades para o exercício do cargo, de preferência diplomados com curso superior, e os restantes, pelo governador-geral, de entre as que se mostrem aptas para o exercício das respectivas funções, em regra com, pelo menos, a habilitação referida na primeira parte do artigo 13.º do Estatuto do Funcionalismo Ultramarino.
+Art. 4.º Os chefes de serviços, os chefes de secção e o inspector da Indústria Hoteleira são nomeados em comissão ordinária de serviço; os primeiros, pelo Ministro do Ultramar, de entre pessoas que tenham revelado qualidades para o exercício do cargo, de preferência diplomados com curso superior, e os restantes, pelo governador-geral, de entre as que se mostrem aptas para o exercício das respectivas funções, em regra com, pelo menos, a habilitação referida na primeira parte do artigo 13.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 5.º Fica o governador-geral autorizado a contratar, nos termos das alíneas b) ou c) do artigo 45.º do Estatuto do Funcionalismo Ultramarino, sempre que se mostre necessário, um arquitecto ou engenheiro civil para orientação e fiscalização de trabalhos que interessem às actividades turísticas da província.
+Art. 5.º Fica o governador-geral autorizado a contratar, nos termos das alíneas b) ou c) do artigo 45.º do Estatuto do Funcionalismo Ultramarino, sempre que se mostre necessário, um arquitecto ou engenheiro civil para orientação e fiscalização de trabalhos que interessem às actividades turísticas da província.
 
-###### Art. 6.º Transita, independentemente de quaisquer formalidades, para o lugar de chefe dos Serviços de Informação de Relações Públicas o actual chefe dos Serviços de Imprensa, Radiodifusão e Televisão, mantendo-se na chefia dos Serviços de Turismo o seu actual chefe.
+Art. 6.º Transita, independentemente de quaisquer formalidades, para o lugar de chefe dos Serviços de Informação de Relações Públicas o actual chefe dos Serviços de Imprensa, Radiodifusão e Televisão, mantendo-se na chefia dos Serviços de Turismo o seu actual chefe.
 
-###### Art. 7.º Os chefes das secções criadas pelo Decreto n.º 42194 poderão, independentemente de quaisquer formalidades, ser colocados por portaria do governador-geral, na chefia de secções diferentes daquelas para que foram nomeados ou nas delegações distritais a chefiar por funcionários de igual categoria.
+Art. 7.º Os chefes das secções criadas pelo Decreto n.º 42194 poderão, independentemente de quaisquer formalidades, ser colocados por portaria do governador-geral, na chefia de secções diferentes daquelas para que foram nomeados ou nas delegações distritais a chefiar por funcionários de igual categoria.
 
-###### Art. 8.º Enquanto por outra forma não for providenciado, é reconhecido ao director-adjunto, a título de despesas de representação, o direito a uma gratificação mensal a fixar pelo governador-geral em diploma legislativo. e aos novos chefes de serviço, a já estabelecida para os funcionários do Centro de idêntica categoria.
+Art. 8.º Enquanto por outra forma não for providenciado, é reconhecido ao director-adjunto, a título de despesas de representação, o direito a uma gratificação mensal a fixar pelo governador-geral em diploma legislativo. e aos novos chefes de serviço, a já estabelecida para os funcionários do Centro de idêntica categoria.
 
-###### Art. 9.º O governador-geral deverá definir, em diploma legislativo, a constituição do conselho administrativo, a competência do director e do director-adjunto, a de cada um dos órgãos mencionados no artigo 2.º e a dos funcionários com funções próprias, bem como a composição dos respectivos quadros privativos e forma de provimento, podendo o mesmo governador, além da competência que pertence ao Centro de Informação e Turismo de Moçambique, conforme a legislação em vigor, conferir-lhe a que considere necessária ao bom desempenho das suas funções.
+Art. 9.º O governador-geral deverá definir, em diploma legislativo, a constituição do conselho administrativo, a competência do director e do director-adjunto, a de cada um dos órgãos mencionados no artigo 2.º e a dos funcionários com funções próprias, bem como a composição dos respectivos quadros privativos e forma de provimento, podendo o mesmo governador, além da competência que pertence ao Centro de Informação e Turismo de Moçambique, conforme a legislação em vigor, conferir-lhe a que considere necessária ao bom desempenho das suas funções.
 
-###### Art. 10.º Fica o governador-geral da província autorizado desde já a abrir os créditos necessários para a execução deste diploma com contrapartida nos recursos orçamentais.
+Art. 10.º Fica o governador-geral da província autorizado desde já a abrir os créditos necessários para a execução deste diploma com contrapartida nos recursos orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Abril de 1970.**
+Promulgado em 3 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -150,6 +158,6 @@ Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
 Mapa anexo ao Decreto n.º 170/70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/08900/04850486.pdf))](https://files.diariodarepublica.pt/1s/1970/04/08900/04850486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/08900/04850486.pdf)
 
 Ministério do Ultramar, 3 de Abril de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

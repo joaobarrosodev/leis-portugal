@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 299/1979, 6º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 3446-(123) a 3446-(123)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29906/01230123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-p1-1979-157176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f84e38ce5894d4e1443743ae159cd473fc73e091d0f12d6193187f1c8b3f294b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1355f043706da77fbf04769fc8037bbaa7bcc5a88a9ab48d9c6413734563d542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral do Tesouro
+- Gestão Orçamental
+- Junta Nacional dos Vinhos
+- Linha de Crédito
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:29Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +110,14 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para fazer face aos encargos a suportar pelo Estado derivados do diferencial entre a taxa de juro anual de 12% a praticar pelo sistema bancário em operações de crédito enquadradas na linha de crédito criada pela resolução do Conselho de Ministros de 16 de Novembro de 1979 e as taxas de juro fixadas pelo Banco de Portugal para operações activas, fica a Direcção-Geral do Tesouro autorizada a inscrever nos Orçamentos Gerais do Estado de 1980 e de 1981 as verbas necessárias para aquele fim, até ao limite máximo de 382500 contos.
+Artigo 1.º Para fazer face aos encargos a suportar pelo Estado derivados do diferencial entre a taxa de juro anual de 12% a praticar pelo sistema bancário em operações de crédito enquadradas na linha de crédito criada pela resolução do Conselho de Ministros de 16 de Novembro de 1979 e as taxas de juro fixadas pelo Banco de Portugal para operações activas, fica a Direcção-Geral do Tesouro autorizada a inscrever nos Orçamentos Gerais do Estado de 1980 e de 1981 as verbas necessárias para aquele fim, até ao limite máximo de 382500 contos.
 
-###### Art. 2.º Para o Orçamento Geral do Estado de 1980 fixa-se desde já a verba de 255000 contos.
+Art. 2.º Para o Orçamento Geral do Estado de 1980 fixa-se desde já a verba de 255000 contos.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Acácio Manuel Pereira Magro.
 
-**Promulgado em 26 de Dezembro de 1979.**
+Promulgado em 26 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

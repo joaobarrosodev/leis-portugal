@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07200/06010605.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1976-500937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5596a1539f81bdd620853633adfaca91fbc39be569a49617bcb0427131a763d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e51a105fa75c3108c810780d1ddcc6ca1136f84d49b25289ec26602d7d0d54b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Dívidas
+- Código de Processo das Contribuições e Impostos
+- Custas Judiciais
+- Definição de Competências
+- Dívidas ao Estado
+- Estatuto Judiciário
+- Execução Fiscal
+- Lisboa
+- Magistrado Judicial
+- Ministro das Finanças
+- Modernização Administrativa
+- Pessoal de Chefia
+- Porto
+- Prescrição
+- Procedimento Tributário
+- Processo de Execução
+- Regulamento das Custas dos Processos das Contribuições e Impostos
+- Repartição de Finanças
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:229484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380740:por
+  label: "Alterado o art. 243º do Código de Processo das Contribuições e Impostos, aprovado pelo Dec Lei 45005, de 27-abr\
+    \ 1963, na redação do presente diploma, pelo DEC LEI.485/82.28.12.1982.MFP, DR.IS [298] de 28.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1982-380740
+  date: '1982-12-28'
+- type: amended_by
+  target: pt:dre:574952:por
+  label: "Dada nova redacção ao art. 20º do Regulamento das Custas dos Processos das Contribuições e Impostos aprovado pelo\
+    \ Dec Lei 449/71 de 26-Out, alterado pelo presente diploma, pelo DEC LEI.199/90.19.06.1990.MF, DR.IS [139] de 19.06.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1990-574952
+  date: '1990-06-19'
+- type: cites
+  target: pt:dre:263073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633938:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:425092:por
+  label: "Rectificado pela RECT.DD211.04.06.1976.PCM, DR.IS [131]Supl de 04.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1976-425092
+  date: '1976-06-04'
+- type: repealed_by
+  target: pt:dre:594675:por
+  label: "Revogado pelo DEC LEI.154/91.23.04.1991.MF, DR.IS-A [94] de 23.04.1991, na parte que se refere ao Código de Processo\
+    \ das Contribuições e Impostos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1991-594675
+  date: '1991-04-23'
+- type: repealed_by
+  target: pt:dre:229484:por
+  label: "Revogado pelo DEC LEI.29/98.1998.02.11.MF, DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1998-229484
+  date: '1998-02-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:54Z'
   warnings: []
   errors: []
 ---
@@ -144,17 +208,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea b), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 152.º, alínea b), do Código de Processo das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 152.º, alínea b), do Código de Processo das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963, passa a ter a seguinte redacção:
 
-###### Art. 152.º ...
+Art. 152.º ...
 
 ...
 
 b) Tratando-se de multa fiscal e de custas, será competente a repartição de finanças a que pertencer o respectivo processo, salvo se este tiver sido julgado pelos Tribunais de 1.ª Instância de Lisboa e do Porto, caso em que se seguirão os termos do § 3.º do artigo 172.º
 
-###### Art. 2.º Ao artigo 172.º do Código de Processo das Contribuições e Impostos é aditado um § 3.º com a seguinte redacção:
+Art. 2.º Ao artigo 172.º do Código de Processo das Contribuições e Impostos é aditado um § 3.º com a seguinte redacção:
 
-###### Art. 172.º ...
+Art. 172.º ...
 
 ...
 
@@ -164,9 +228,9 @@ Decorrido o prazo de cobrança voluntária de todas as quantias liquidadas, inst
 
 Feita a penhora, o executado será logo citado para deduzir, querendo, oposição.
 
-###### Art. 3.º Os artigos 2.º e 3.º do [Decreto-Lei n.º 48699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48699-1968-263073), de 23 de Novembro de 1968, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 2.º e 3.º do [Decreto-Lei n.º 48699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48699-1968-263073), de 23 de Novembro de 1968, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. Nos processos de execução fiscal cuja quantia exequenda não exceda 10000$00, a citação efectuar-se-á independentemente de despacho do juiz e mediante simples aviso postal.
+Art. 2.º - 1. Nos processos de execução fiscal cuja quantia exequenda não exceda 10000$00, a citação efectuar-se-á independentemente de despacho do juiz e mediante simples aviso postal.
 
 2. Decorridos vinte dias para o executado efectuar o pagamento, se o aviso postal não vier devolvido, ou, sendo devolvido, não indicar a nova morada do executado, proceder-se-á logo à penhora.
 
@@ -180,35 +244,35 @@ Feita a penhora, o executado será logo citado para deduzir, querendo, oposiçã
 
 7. Só haverá citação por edital quando forem penhorados bens ao executado, não havendo lugar à publicação de anúncios no Diário do Governo.
 
-###### Art. 3.º - 1. Nas execuções de valor superior ao limite previsto no artigo anterior, quando o executado, ou o seu legal representante, não for encontrado, o funcionário encarregado da citação averiguará logo se é conhecida a actual morada do executado e se possui bens penhoráveis.
+Art. 3.º - 1. Nas execuções de valor superior ao limite previsto no artigo anterior, quando o executado, ou o seu legal representante, não for encontrado, o funcionário encarregado da citação averiguará logo se é conhecida a actual morada do executado e se possui bens penhoráveis.
 
 2. Se ao executado não forem conhecidos bens penhoráveis e não houver responsáveis solidários ou subsidiários, lavrar-se-á certidão da diligência, a fim de a dívida exequenda ser julgada em falhas, sem prejuízo de quaisquer averiguações ou diligência posteriores.
 
 3. Se forem encontrados bens penhoráveis, proceder-se-á logo à penhora, cumprindo-se o formalismo prescrito nos n.os 3 a 7 do artigo anterior.
 
-###### Art. 4.º - 1. As dívidas constantes de processos de execuções fiscais instaurados até 31 de Dezembro de 1970, de valor não superior a 300$00 e que não gozem de qualquer privilégio ou garantia real, podem ser julgadas em falhas desde que não tenha havido qualquer resultado do envio do aviso postal e que não haja responsáveis solidários ou subsidiários.
+Art. 4.º - 1. As dívidas constantes de processos de execuções fiscais instaurados até 31 de Dezembro de 1970, de valor não superior a 300$00 e que não gozem de qualquer privilégio ou garantia real, podem ser julgadas em falhas desde que não tenha havido qualquer resultado do envio do aviso postal e que não haja responsáveis solidários ou subsidiários.
 
 2. A todo o tempo, salvo a prescrição, poderá prosseguir a cobrança se se reconhecer que os executados possuem bens penhoráveis para solver, no todo ou em parte, a dívida exequenda e acrescido.
 
-###### Art. 5.º - 1. As infracções previstas nas disposições legais relativas às contribuições e impostos do Estado que respeitem a factos por que sejam devidos imposto, cometidas até à data da publicação do presente diploma, são amnistiadas desde que os responsáveis pelas infracções efectuem o pagamento do imposto no prazo de noventa dias a contar daquela data ou, quando esse imposto dependa de prévia liquidação pelos serviços fiscais, a requeiram ou participem os factos dentro do mesmo prazo e efectuem o pagamento voluntário do imposto nos termos legais.
+Art. 5.º - 1. As infracções previstas nas disposições legais relativas às contribuições e impostos do Estado que respeitem a factos por que sejam devidos imposto, cometidas até à data da publicação do presente diploma, são amnistiadas desde que os responsáveis pelas infracções efectuem o pagamento do imposto no prazo de noventa dias a contar daquela data ou, quando esse imposto dependa de prévia liquidação pelos serviços fiscais, a requeiram ou participem os factos dentro do mesmo prazo e efectuem o pagamento voluntário do imposto nos termos legais.
 
 2. A concessão da amnistia ainda terá lugar se o contribuinte demonstrar que, por dificuldades económicas, só poderá efectuar o pagamento a prestações; neste caso, ele será realizado em prestações trimestrais, em número superior a seis.
 
 3. O não pagamento de uma prestação no prazo fixado determina a imediata caducidade dos efeitos da amnistia.
 
-###### Art. 6.º - 1. O Ministro das Finanças ordenará, mediante portaria a publicar no prazo de sessenta dias, a criação, na cidade de Lisboa, de até mais sete bairros fiscais e correspondentes repartições de finanças e tesourarias da Fazenda Pública e, no Porto, até mais cinco.
+Art. 6.º - 1. O Ministro das Finanças ordenará, mediante portaria a publicar no prazo de sessenta dias, a criação, na cidade de Lisboa, de até mais sete bairros fiscais e correspondentes repartições de finanças e tesourarias da Fazenda Pública e, no Porto, até mais cinco.
 
 2. Na portaria referida no número anterior o Ministro das Finanças determinará a adopção das medidas necessárias à criação dos respectivos quadros e preenchimento das vagas existentes, bem como à delimitação das respectivas áreas de actuação.
 
-###### Art. 7.º - 1. Também por portaria do Ministro das Finanças, a publicar no prazo referido no n.º 1 do artigo anterior, poderão ser criados nos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto juízos em número necessário para igualar, em cada uma dessas cidades, o dos respectivos bairros fiscais existentes.
+Art. 7.º - 1. Também por portaria do Ministro das Finanças, a publicar no prazo referido no n.º 1 do artigo anterior, poderão ser criados nos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto juízos em número necessário para igualar, em cada uma dessas cidades, o dos respectivos bairros fiscais existentes.
 
 2. O número e a área de jurisdição de cada um dos juízos serão fixados por despacho do Ministro das Finanças, ouvido o director-geral das Contribuições e Impostos.
 
 3. Com as adaptações necessárias, aplicar-se-á ao caso da criação dos juízos de 1.ª instância o regime estatuído no n.º 2 do artigo anterior.
 
-###### Art. 8.º O Ministro das Finanças fica autorizado a, mediante simples despacho, ordenar a realização das despesas que se mostrarem indispensáveis para a instalação e o equipamento das repartições, tesourarias e juízos a que aludem os artigos 6.º e 7.º do presente diploma.
+Art. 8.º O Ministro das Finanças fica autorizado a, mediante simples despacho, ordenar a realização das despesas que se mostrarem indispensáveis para a instalação e o equipamento das repartições, tesourarias e juízos a que aludem os artigos 6.º e 7.º do presente diploma.
 
-###### Art. 9.º - 1. Nos concelhos de Lisboa e Porto é conferida competência aos tribunais de 1.ª instância das contribuições e impostos para cobrarem todas as dívidas provenientes de contribuições, impostos e outras receitas do Estado.
+Art. 9.º - 1. Nos concelhos de Lisboa e Porto é conferida competência aos tribunais de 1.ª instância das contribuições e impostos para cobrarem todas as dívidas provenientes de contribuições, impostos e outras receitas do Estado.
 
 2. Estes tribunais são divididos em juízos.
 
@@ -216,17 +280,17 @@ Feita a penhora, o executado será logo citado para deduzir, querendo, oposiçã
 
 4. Os outros processos são distribuídos igualmente por todos os juízos.
 
-###### Art. 10.º Os chefes das repartições de finanças dos bairros, os chefes das Repartições Centrais de Finanças de Lisboa e Porto e o chefe da Repartição Central do Imposto Complementar de Lisboa remeterão, no prazo de noventa dias a contar da publicação deste diploma, ao tribunal de 1.ª intância respectivo os processos de execução fiscal aí pendentes.
+Art. 10.º Os chefes das repartições de finanças dos bairros, os chefes das Repartições Centrais de Finanças de Lisboa e Porto e o chefe da Repartição Central do Imposto Complementar de Lisboa remeterão, no prazo de noventa dias a contar da publicação deste diploma, ao tribunal de 1.ª intância respectivo os processos de execução fiscal aí pendentes.
 
-###### Art. 11.º - 1. Os processos de execução fiscal extintos por pagamento ou julgamento em falhas devem manter-se arquivados durante vinte anos.
+Art. 11.º - 1. Os processos de execução fiscal extintos por pagamento ou julgamento em falhas devem manter-se arquivados durante vinte anos.
 
 2. Os processos em que tenha havido venda de bens, sub-rogação, oposição ou embargos de terceiros e reclamação de créditos devem manter-se arquivados por tempo indeterminado.
 
 3. Os processos de reclamação, impugnação ou transgressão devem ser arquivados pelo prazo de vinte anos.
 
-###### Art. 12.º Os artigos 29.º, 30.º, 40.º, 76.º, 84.º, 89.º, 115.º, 152.º, 222.º e 243.º do Código de Processo das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963, passam a ter a seguinte redacção:
+Art. 12.º Os artigos 29.º, 30.º, 40.º, 76.º, 84.º, 89.º, 115.º, 152.º, 222.º e 243.º do Código de Processo das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963, passam a ter a seguinte redacção:
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 ...
 
@@ -234,11 +298,11 @@ d) Os chefes das repartições de finanças dos bairros, das Repartições Centr
 
 e) A enumeração das relações será feita anualmente e a das certidões será feita pela ordem da relação.
 
-###### Art. 30.º Os chefes das repartições de finanças, antes de mandarem instaurar os competentes processos de execução fiscal ou, em Lisboa e Porto, antes de enviarem aos tribunais de 1.ª instância as certidões de relaxe, deverão anotar no verso das certidões as seguintes indicações, sempre que possível:
+Art. 30.º Os chefes das repartições de finanças, antes de mandarem instaurar os competentes processos de execução fiscal ou, em Lisboa e Porto, antes de enviarem aos tribunais de 1.ª instância as certidões de relaxe, deverão anotar no verso das certidões as seguintes indicações, sempre que possível:
 
 ...
 
-###### Art. 40.º ...
+Art. 40.º ...
 
 ...
 
@@ -250,7 +314,7 @@ g) Cumprir deprecadas, excepto as repartições de finanças dos bairros de Lisb
 
 ...
 
-###### Art. 76.º ...
+Art. 76.º ...
 
 ...
 
@@ -258,11 +322,11 @@ g) A falta de notificação do despacho para contestar em processo ordinário ou
 
 ...
 
-###### Art. 84.º Da resolução definitiva da reclamação ordinária cabe impugnação judicial, com os fundamentos e termos deste Código, no prazo de oito dias a contar da sua notificação.
+Art. 84.º Da resolução definitiva da reclamação ordinária cabe impugnação judicial, com os fundamentos e termos deste Código, no prazo de oito dias a contar da sua notificação.
 
 ...
 
-###### Art. 89.º ...
+Art. 89.º ...
 
 ...
 
@@ -270,7 +334,7 @@ g) A falta de notificação do despacho para contestar em processo ordinário ou
 
 ...
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
@@ -280,7 +344,7 @@ g) A falta de notificação do despacho para contestar em processo ordinário ou
 
 ...
 
-###### Art. 152.º ...
+Art. 152.º ...
 
 ...
 
@@ -288,11 +352,11 @@ g) A falta de notificação do despacho para contestar em processo ordinário ou
 
 ...
 
-###### Art. 222.º Cabe aos juízes dos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto ou ao chefe da repartição de finanças onde se tiver efectuado a arrematação solicitar ao agente do Ministério Público junto do competente tribunal comum que requeira a posse judicial do prédio arrematado para a Fazenda Nacional, quando for caso disso e se mostre inadequada a intervenção da autoridade administrativa ou policial.
+Art. 222.º Cabe aos juízes dos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto ou ao chefe da repartição de finanças onde se tiver efectuado a arrematação solicitar ao agente do Ministério Público junto do competente tribunal comum que requeira a posse judicial do prédio arrematado para a Fazenda Nacional, quando for caso disso e se mostre inadequada a intervenção da autoridade administrativa ou policial.
 
 ...
 
-###### Art. 243.º Se o pagamento tiver sido requerido no tribunal ou na repartição de finanças deprecada, observar-se-á o seguinte:
+Art. 243.º Se o pagamento tiver sido requerido no tribunal ou na repartição de finanças deprecada, observar-se-á o seguinte:
 
 a) Na guia discriminar-se-á a importância que couber ao tribunal de 1.ª instância ou ao juízo deprecante e, realizado o pagamento, devolver-se-á a carta precatória;
 
@@ -300,9 +364,9 @@ b) O tesoureiro do juízo deprecado, no prazo de vinte e quatro horas, remeterá
 
 ...
 
-###### Art. 13.º As notificações relativas a actos tributários, desde que não haja lei expressa em contrário, podem ser efectuadas por carta ou postal registado com aviso de recepção, considerando-se a notificação feita no dia em que for assinado o aviso.
+Art. 13.º As notificações relativas a actos tributários, desde que não haja lei expressa em contrário, podem ser efectuadas por carta ou postal registado com aviso de recepção, considerando-se a notificação feita no dia em que for assinado o aviso.
 
-###### Art. 14.º - 1. Em todas as declarações apresentadas pelos contribuintes nas repartições de finanças torna-se obrigatória a menção do seu nome completo, naturalidade, residência, número e data do bilhete de identidade.
+Art. 14.º - 1. Em todas as declarações apresentadas pelos contribuintes nas repartições de finanças torna-se obrigatória a menção do seu nome completo, naturalidade, residência, número e data do bilhete de identidade.
 
 2. O funcionário recebedor conferirá a exactidão dos elementos fornecidos através da observação do bilhete de identidade.
 
@@ -312,18 +376,18 @@ b) O tesoureiro do juízo deprecado, no prazo de vinte e quatro horas, remeterá
 
 5. Em qualquer caso, não é necessária a presença do contribuinte ou seu representante no acto da entrega da declaração.
 
-###### Art. 15.º Ao artigo 20.º do Regulamento das Custas dos Processos das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938), de 26 de Outubro, é aditada uma alínea h), com a seguinte redacção:
+Art. 15.º Ao artigo 20.º do Regulamento das Custas dos Processos das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938), de 26 de Outubro, é aditada uma alínea h), com a seguinte redacção:
 
 h) Por cada liquidação efectuada, 1% sobre o valor, para efeitos de custas, com o mínimo de 10$00 e o máximo de 2000$00.
 
-###### Art. 16.º Aos juízes dos tribunais das contribuições e impostos é tornado extensivo o disposto no artigo 167.º, n.º 1, do Estatuto Judiciário, com as devidas adaptações.
+Art. 16.º Aos juízes dos tribunais das contribuições e impostos é tornado extensivo o disposto no artigo 167.º, n.º 1, do Estatuto Judiciário, com as devidas adaptações.
 
-###### Art. 17.º Qualquer dúvida que se suscitar na execução deste diploma será resolvida por despacho do Ministro das Finanças.
+Art. 17.º Qualquer dúvida que se suscitar na execução deste diploma será resolvida por despacho do Ministro das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 15 de Março de 1976.**
+Promulgado em 15 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

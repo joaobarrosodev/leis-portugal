@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47633-1967-509647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:00:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28157d1d3371b3a1d53dbd9f48fdbd8394d8d67244f1314a1dfeed58547473b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06bb8e2f1b4df9f5e41d5fa8e8a1ac9e3b7ce90effc5d1b645dae4e80a12ace7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:00:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Aproveitamento Hidroeléctrico
+- Conselho de Administração
+- Criação de Serviços
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Federação de Municípios
+- ILHA das Flores
+relationships:
+- type: amended_by
+  target: pt:dre:30999373:por
+  label: "Alterado pelo PORT.36/79.10.07.1979.SRAP-RAA, JOA-IS [17] de 10.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1979-30999373
+  date: '1979-07-10'
+- type: cites
+  target: pt:dre:238776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:00:48Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +111,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Federação dos Municípios da Ilha das Flores, sendo-lhe cometida a exploração das obras do aproveitamento hidroeléctrico e das redes de distribuição em alta e baixa tensão executadas ao abrigo do [Decreto-Lei n.º 46189](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46189-1965-238776), de 16 de Fevereiro de 1965.
+Artigo 1.º É criada a Federação dos Municípios da Ilha das Flores, sendo-lhe cometida a exploração das obras do aproveitamento hidroeléctrico e das redes de distribuição em alta e baixa tensão executadas ao abrigo do [Decreto-Lei n.º 46189](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46189-1965-238776), de 16 de Fevereiro de 1965.
 
-###### Art. 2.º A Federação ficará isenta de contribuição industrial relativa à actividade produtora e distribuidora de energia eléctrica e, bem assim, das rendas a pagar ao Estado pela produção e distribuição, referidas na base XV de [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758).
+Art. 2.º A Federação ficará isenta de contribuição industrial relativa à actividade produtora e distribuidora de energia eléctrica e, bem assim, das rendas a pagar ao Estado pela produção e distribuição, referidas na base XV de [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758).
 
-###### Art. 3.º A Federação deverá iniciar a sua actividade no prazo de 90 dias e submeter à aprovação do Ministro do Interior e do Secretário de Estado da Indústria, dentro dos 90 dias seguintes, o respectivo regulamento interno.
+Art. 3.º A Federação deverá iniciar a sua actividade no prazo de 90 dias e submeter à aprovação do Ministro do Interior e do Secretário de Estado da Indústria, dentro dos 90 dias seguintes, o respectivo regulamento interno.
 
 § 1.º A comissão administrativa da Federação será constituída pelos presidentes das câmaras municipais associadas e por um representante da Junta Geral do Distrito Autónomo da Horta, à qual compete, também, designar o presidente.
 
 § 2.º Os serviços da Federação serão geridos por um conselho de administração, constituído por um presidente, que será, alternadamente, por períodos de três anos, o presidente de cada uma das câmaras municipais federadas, e por dois vogais, escolhidos pela comissão administrativa, de preferência entre os vereadores das mesmas câmaras ou vogais dos respectivos conselhos municipais.
 
-###### Art. 4.º A aprovação do quadro do pessoal técnico e administrativo, bem como dos respectivos vencimentos, é da competência do Ministro do Interior, ouvido o Secretário de Estado da Indústria, sob proposta do conselho de administração.
+Art. 4.º A aprovação do quadro do pessoal técnico e administrativo, bem como dos respectivos vencimentos, é da competência do Ministro do Interior, ouvido o Secretário de Estado da Indústria, sob proposta do conselho de administração.
 
 § 1.º O pessoal dos serviços de produção e distribuição de energia eléctrica das câmaras municipais federadas poderá transitar para a Federação, independentemente de qualquer formalidade, na situação actual ou noutra que vier a ser-lhe atribuída no quadro a aprovar.
 
 § 2.º Os funcionários das câmaras municipais federadas, devidamente autorizados por estas e pelo Ministro do Interior, poderão prestar à Federação, sem prejuízo das funções próprias, serviços remunerados por meio de gratificação.
 
-###### Art. 5.º A Federação reembolsará o Estado da importância de 1350 contos, correspondente à sua comparticipação nas despesas com a realização das obras referidas no artigo 1.º, em nove anuidades iguais, a partir de 1967.
+Art. 5.º A Federação reembolsará o Estado da importância de 1350 contos, correspondente à sua comparticipação nas despesas com a realização das obras referidas no artigo 1.º, em nove anuidades iguais, a partir de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Abril de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.

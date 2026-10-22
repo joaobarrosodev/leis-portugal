@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/2-1984-531802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b327d6bec6acaa494dc3d1315d0abc7bd4450307f6671b36fcc8c855762c133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59689510c989a1564835ad24d78b199d508d82ed26ecaa8d5ecfa6a282210c86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cacau
+- Convenção
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:48Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +89,19 @@ de 10 de Janeiro
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado para adesão o Acordo Internacional do Cacau de 1980, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado para adesão o Acordo Internacional do Cacau de 1980, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama.
 
-**Assinado em 29 de Dezembro de 1983.**
+Assinado em 29 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 29 de Dezembro de 1983.**
+Referendado em 29 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 CHAPITRE PREMIER
 
@@ -1202,7 +1205,7 @@ Exportations de cacao calculées aux fins de l'article 66 (ver nota a)
 
 (En milliers de tonnes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
 
 Source: Chiffres publiés dans le Bulletin trimestriel de statistiques du cacao de l'Organisation international du cacao, Londres, vol. VI, n.º 4 (septembre 1980).
 
@@ -1214,7 +1217,7 @@ Importations de cacao calculées aux fins de l'article 66 (ver nota a)
 
 (En milliers de tonnes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
 
 Source: Secrétariat de l'Organisation international du cacao. Chiffres fondés essentiellement sur des données parues dans le Bulletin trimestriel de statistiques du cacao (Londres), vol. VI, n.º 4 (septembre 1980).
 
@@ -1458,15 +1461,21 @@ n) Por «maioria distribuída simples de votos», entender-se-á a maioria dos v
 
 o) Um «voto especial» significará dois terços dos votos expressos pelos membros exportadores e dois terços dos votos expressos pelos membros importadores, contados separadamente, desde que o número de votos assim expressos represente a metade dos membros presentes e votantes; p) Por «entrada em vigor» entender-se-á, salvo indicação em contrário, a data na qual o presente Acordo entrar em vigor, seja a título provisório ou a título definitivo.
 
-### CAPÍTULO III — Membros
+CAPÍTULO III
 
-###### ARTIGO 3.º — Membros da Organização
+Membros
+
+ARTIGO 3.º
+
+Membros da Organização
 
 1 - Cada Parte Contratante constituirá um único membro da Organização.
 
 2 - Um membro poderá alterar a sua categoria nas condições que o Conselho estabeleça.
 
-###### ARTIGO 4.º — Participação de organizações Intergovernamentais
+ARTIGO 4.º
+
+Participação de organizações Intergovernamentais
 
 1 - Qualquer referência, no presente Acordo, a um «governo» valerá igualmente para a Comunidade Económica Europeia e para qualquer organização intergovernamental com responsabilidades no que respeita à negociação, conclusão e aplicação de acordos internacionais, em particular de acordos sobre produtos de base. Em consequência, qualquer referência, no presente Acordo, à assinatura ou ao depósito de instrumentos de ratificação, aceitação ou aprovação ou à notificação de aplicação do Acordo a título provisório ou a uma adesão, por parte de um governo, valerá de igual modo, no caso das referidas organizações intergovernamentais, para a assinatura ou para o depósito de instrumentos de ratificação, aceitação ou aprovação ou para a notificação de aplicação do Acordo a título provisório ou para adesão, por parte destas organizações intergovernamentais.
 
@@ -1474,9 +1483,13 @@ o) Um «voto especial» significará dois terços dos votos expressos pelos memb
 
 3 - As referidas organizações poderão participar nos trabalhos do Comité Executivo sobre questões da sua competência.
 
-### CAPÍTULO IV — Organização e administração
+CAPÍTULO IV
 
-###### ARTIGO 5.º — Criação, sede e estrutura da Organização Internacional do Cacau
+Organização e administração
+
+ARTIGO 5.º
+
+Criação, sede e estrutura da Organização Internacional do Cacau
 
 1 - A Organização Internacional do Cacau, criada pelo Acordo Internacional do Cacau, de 1972, continuará a existir e a assegurar a execução das disposições do presente Acordo e a controlar a sua aplicação.
 
@@ -1488,13 +1501,17 @@ b) Do director executivo e do pessoal.
 
 3 - A sede da Organização será em Londres, a menos que o Conselho decida de outra forma por um voto especial.
 
-###### ARTIGO 6.º — Composição do Conselho Internacional do Cacau
+ARTIGO 6.º
+
+Composição do Conselho Internacional do Cacau
 
 1 - A autoridade suprema da Organização será o Conselho Internacional do Cacau, que será composto por todos os membros da Organização.
 
 2 - Cada membro estará representado no Conselho por um representante e, se o desejar, por um ou mais suplentes. Cada membro poderá, além disso, designar um ou mais assessores para acompanhar o seu representante ou os seus suplentes.
 
-###### ARTIGO 7.º — Poderes e funções do Conselho
+ARTIGO 7.º
+
+Poderes e funções do Conselho
 
 1 - O Conselho exercerá todos os poderes e desempenhará ou velará pelo cumprimento de todas as funções necessárias para a execução das disposições expressas no presente Acordo.
 
@@ -1502,7 +1519,9 @@ b) Do director executivo e do pessoal.
 
 3 - O Conselho manterá actualizada a documentado de que necessita para desempenhar as funções que o presente Acordo lhe confere e qualquer outra documentação que julgue apropriada.
 
-###### ARTIGO 8.º — Presidente e vice-presidente do Conselho
+ARTIGO 8.º
+
+Presidente e vice-presidente do Conselho
 
 1 - O Conselho elegerá para cada ano cacaueiro um presidente, assim como um 1.º e um 2.º vice-presidentes, que não serão remunerados pela Organização.
 
@@ -1512,7 +1531,9 @@ b) Do director executivo e do pessoal.
 
 4 - Nem o presidente nem qualquer outro membro que presida a uma reunião do Conselho poderá votar. O seu suplente poderá exercer o direito de voto do membro que representa.
 
-###### ARTIGO 9.º — Sessões do Conselho
+ARTIGO 9.º
+
+Sessões do Conselho
 
 1 - O Conselho reunir-se-á, regra geral, em sessão ordinária uma vez por cada semestre do ano cacaueiro.
 
@@ -1530,7 +1551,9 @@ d) Ou pelo director executivo, para os fins dos artigos 27.º, 31.º, 36.º e 37
 
 4 - As sessões realizar-se-ão na sede da Organização, excepto se o Conselho decidir de outra forma por um voto especial. Se, a convite de um membro, o Conselho se reunir noutro local que não a sede, aquele membro cobrirá os encargos suplementares que resultem da reunião.
 
-###### ARTIGO 10.º — Votos
+ARTIGO 10.º
+
+Votos
 
 1 - Os membros exportadores terão, no conjunto, um total de 1000 votos e os membros importadores terão, no conjunto, um total de 1000 votos; aqueles votos serão repartidos dentro de cada categoria de membros, isto é, na de membros exportadores e na de membros importadores, de acordo com as disposições dos parágrafos seguintes do presente artigo.
 
@@ -1544,7 +1567,9 @@ d) Ou pelo director executivo, para os fins dos artigos 27.º, 31.º, 36.º e 37
 
 6 - Não poderá haver votos fragmentados.
 
-###### ARTIGO 11.º — Processo de votação no Conselho
+ARTIGO 11.º
+
+Processo de votação no Conselho
 
 1 - Cada membro terá direito a emitir o número de votos de que dispõe, não podendo dividir os seus votos. Poderá, porém, utilizar de maneira diferente os seus próprios votos e aqueles que estiver autorizado a utilizar em virtude do parágrafo 2.
 
@@ -1552,7 +1577,9 @@ d) Ou pelo director executivo, para os fins dos artigos 27.º, 31.º, 36.º e 37
 
 3 - Os membros exportadores que produzam unicamente cacau fino ou aromático não tomarão parte nas votações sobre as questões relativas à administração ou ao funcionamento do stock regulador.
 
-###### ARTIGO 12.º — Decisões do Conselho
+ARTIGO 12.º
+
+Decisões do Conselho
 
 1 - O Conselho tomará todas as suas decisões e fará todas as suas recomendações por votação da maioria distribuída simples, a menos que o presente Acordo preveja um voto especial.
 
@@ -1570,7 +1597,9 @@ d) Se o Conselho não submeter a proposta à votação, será considerada rejeit
 
 4 - Os membros considerar-se-ão vinculados a todas as decisões que o Conselho tomar em aplicação das disposições do presente Acordo.
 
-###### ARTIGO 13.º — Cooperação com outras organizações
+ARTIGO 13.º
+
+Cooperação com outras organizações
 
 1 - O Conselho tomará as disposições necessárias para proceder a consultas ou cooperar com a Organização das Nações Unidas e os seus órgãos, em particular com a Conferência das Nações Unidas para o Comércio e o Desenvolvimento, e com a Organização para a Alimentação e a Agricultura e com as outras instituições especializadas das Nações Unidas e organizações intergovernamentais apropriadas.
 
@@ -1578,13 +1607,17 @@ d) Se o Conselho não submeter a proposta à votação, será considerada rejeit
 
 3 - O Conselho poderá igualmente tomar qualquer disposição necessária para manter contactos efectivos com as organizações internacionais de produtores, negociantes e fabricantes de cacau.
 
-###### ARTIGO 14.º — Admissão de observadores
+ARTIGO 14.º
+
+Admissão de observadores
 
 1 - O Conselho poderá convidar qualquer não membro para assistir a qualquer das suas reuniões na qualidade de observador.
 
 2 - O Conselho poderá igualmente convidar qualquer das organizações previstas no artigo 13.º para assistir a qualquer das suas reuniões, na qualidade de observador.
 
-###### ARTIGO 15.º — Composição do Comité Executivo
+ARTIGO 15.º
+
+Composição do Comité Executivo
 
 1 - O Comité Executivo será composto por 8 membros exportadores e por 8 membros importadores, a menos que o número de membros exportadores ou o número de membros importadores da Organização seja igual ou inferior a 10. Neste caso, o Conselho poderá, mantendo a paridade entre as 2 categorias de membros, decidir, por 1 voto especial, o número total de membros do Comité Executivo. Os membros do Comité Executivo serão eleitos para cada ano cacaueiro, de acordo com o disposto no artigo 16.º, podendo ser reeleitos.
 
@@ -1594,7 +1627,9 @@ d) Se o Conselho não submeter a proposta à votação, será considerada rejeit
 
 4 - O Comité Executivo reunir-se-á na sede da Organização, a não ser que decida de outro modo por um voto especial. Se, a convite de um membro, o Comité Executivo se reunir noutro local, aquele membro cobrirá os encargos suplementares que resultem da reunião.
 
-###### ARTIGO 16.º — Eleição do Comité Executivo
+ARTIGO 16.º
+
+Eleição do Comité Executivo
 
 1 - Os membros exportadores e os membros importadores da Organização elegerão respectivamente, no Conselho, os membros exportadores e os membros importadores do Comité Executivo. A eleição, em cada uma das categorias, realizar-se-á segundo as disposições dos parágrafos seguintes do presente artigo.
 
@@ -1602,7 +1637,9 @@ d) Se o Conselho não submeter a proposta à votação, será considerada rejeit
 
 3 - Serão eleitos os candidatos que obtiverem o maior número de votos.
 
-###### ARTIGO 17.º — Competência do Comité Executivo
+ARTIGO 17.º
+
+Competência do Comité Executivo
 
 1 - O Comité Executivo será responsável perante o Conselho e exercerá as suas funções sob a orientação geral do Conselho.
 
@@ -1636,7 +1673,9 @@ l) Recomendação de emendas aos membros, segundo o artigo 72.º
 
 4 - O Conselho poderá, em qualquer momento, por uma votação por maioria distribuída simples, revogar qualquer delegação de poderes ao Comité Executivo.
 
-###### ARTIGO 18.º — Processo de votação e decisões do Comité Executivo
+ARTIGO 18.º
+
+Processo de votação e decisões do Comité Executivo
 
 1 - Cada membro do Comité Executivo poderá utilizar, para as votações, o número de votos que lhe é atribuído nos termos do artigo 16.º, não podendo dividir os seus votos.
 
@@ -1648,7 +1687,9 @@ l) Recomendação de emendas aos membros, segundo o artigo 72.º
 
 5 - Qualquer membro terá o direito de apelar para o Conselho de qualquer decisão do Comité Executivo, nas condições que o Conselho prescrever no seu regulamento interno.
 
-###### ARTIGO 19.º — Quórum para reuniões do Conselho e do Comité Executivo
+ARTIGO 19.º
+
+Quórum para reuniões do Conselho e do Comité Executivo
 
 1 - Para a reunião de abertura de uma sessão do Conselho será exigida a presença da maioria dos membros exportadores e da maioria dos membros importadores, desde que os membros de cada uma das categorias presentes detenham, pelo menos, dois terços do total dos votos dos membros pertencentes a cada categoria.
 
@@ -1660,7 +1701,9 @@ l) Recomendação de emendas aos membros, segundo o artigo 72.º
 
 5 - Para as reuniões do Comité Executivo o Conselho fixará o quórum no regulamento interno do Comité Executivo.
 
-###### ARTIGO 20.º — Pessoal da Organização
+ARTIGO 20.º
+
+Pessoal da Organização
 
 1 - O Conselho nomeará o director executivo por um voto especial, após ter consultado o Comité Executivo. Fixará ainda as condições de contrato do director executivo, tendo em consideração as condições dos funcionários equivalentes em organizações intergovernamentais semelhantes.
 
@@ -1680,9 +1723,13 @@ l) Recomendação de emendas aos membros, segundo o artigo 72.º
 
 9 - O director executivo, o gerente do stock regulador ou os outros membros do pessoal da Organização não deverão divulgar qualquer informação respeitante ao funcionamento ou administração do presente Acordo, salvo se o Conselho os autorizar ou o bom funcionamento do presente Acordo o exigir.
 
-### CAPÍTULO V — Privilégios e imunidades
+CAPÍTULO V
 
-###### ARTIGO 21.º — Privilégios e imunidades
+Privilégios e imunidades
+
+ARTIGO 21.º
+
+Privilégios e imunidades
 
 1 - A Organização terá personalidade jurídica. Tem, em particular, capacidade para contratar, adquirir e alienar bens móveis e imóveis e para demandar em juízo.
 
@@ -1698,9 +1745,13 @@ c) No caso de a Organização cessar a sua existência.
 
 4 - A Organização poderá concluir com um ou vários membros acordos, sujeitos à aprovação do Conselho, acerca dos privilégios e imunidades que possam vir a ser necessários ao bom funcionamento do presente Acordo.
 
-### CAPÍTULO VI — Disposições financeiras
+CAPÍTULO VI
 
-###### ARTIGO 22.º — Disposições financeiras
+Disposições financeiras
+
+ARTIGO 22.º
+
+Disposições financeiras
 
 1 - Serão mantidas duas contas - a conta administrativa e a conta do stock regulador - para os fins da administração e do funcionamento do presente Acordo.
 
@@ -1712,7 +1763,9 @@ c) No caso de a Organização cessar a sua existência.
 
 5 - As despesas das delegações perante o Conselho, o Comité Executivo e qualquer outro comité do Conselho ou do Comité Executivo serão suportadas pelos membros interessados.
 
-###### ARTIGO 23.º — Aprovação do orçamento administrativo e fixação das contribuições
+ARTIGO 23.º
+
+Aprovação do orçamento administrativo e fixação das contribuições
 
 1 - Durante o 2.º semestre de cada exercício financeiro o Conselho aprovará o orçamento administrativo da Organização para o exercício seguinte e fixará a contribuição de cada membro para aquele orçamento.
 
@@ -1720,7 +1773,9 @@ c) No caso de a Organização cessar a sua existência.
 
 3 - O Conselho fixará a contribuição inicial de cada membro que entre para a Organização depois da entrada em vigor do presente Acordo, tomando como base o número de votos que lhe serão atribuídos e o período que resta do exercício em curso; contudo, as contribuições atribuídas aos restantes membros para o exercício em curso permanecerão as mesmas.
 
-###### ARTIGO 24.º — Pagamento das contribuições para o orçamento administrativo
+ARTIGO 24.º
+
+Pagamento das contribuições para o orçamento administrativo
 
 1 - As contribuições para o orçamento administrativo de cada exercício financeiro serão pagas em moedas livremente convertíveis, estarão isentas de restrições cambiais e serão exigíveis desde o primeiro dia do exercício. As contribuições dos membros para o exercício, no decurso do qual se tornam membros da Organização, são exigíveis desde a data em que se tornam membros.
 
@@ -1730,7 +1785,9 @@ c) No caso de a Organização cessar a sua existência.
 
 4 - A menos que o Conselho decida em contrário, por 1 voto especial, o membro cujos direitos de voto tenham sido suspensos de acordo com o parágrafo 3 não poderá ser privado de nenhum dos seus direitos nem dispensado de nenhuma das obrigações que lhe são impostas pelo presente Acordo. Continuará obrigado ao pagamento da sua contribuição e ao cumprimento de quaisquer outras obrigações financeiras que decorram do presente Acordo.
 
-###### ARTIGO 25.º — Verificação e publicação das contas
+ARTIGO 25.º
+
+Verificação e publicação das contas
 
 1 - Logo que possível, mas nunca mais de 6 meses após o encerramento de cada exercício financeiro, será verificada a posição das contas da Organização para aquele exercício e o balanço no encerramento do mesmo exercício em relação a cada uma das contas mencionadas no parágrafo 1 do artigo 22.º A verificação será efectuada por um perito em contabilidade independente de reconhecida competência, em colaboração com 2 peritos em contabilidade qualificados dos Governos membros, representando um os membros exportadores e o outro os membros importadores, os quais serão eleitos pelo Conselho para cada exercício. Os peritos de contabilidade dos Governos membros não serão remunerados pela Organização.
 
@@ -1738,9 +1795,13 @@ c) No caso de a Organização cessar a sua existência.
 
 3 - Será publicado um resumo das contas e do balanço assim verificados.
 
-### CAPÍTULO VII — Preços, «stock» regulador e medidas complementares
+CAPÍTULO VII
 
-###### ARTIGO 26.º — Preço diário e preço indicador
+Preços, «stock» regulador e medidas complementares
+
+ARTIGO 26.º
+
+Preço diário e preço indicador
 
 1 - Para os fins do presente Acordo, o preço das favas de cacau será determinado em função de um preço diário e de um preço indicador.
 
@@ -1750,7 +1811,9 @@ c) No caso de a Organização cessar a sua existência.
 
 4 - O Conselho poderá, por voto especial, decidir a utilização, para determinar o preço diário e o preço indicador, de quaisquer outros modos de cálculo que tiver por mais satisfatórios que os estabelecidos nos parágrafos 2 e 3.
 
-###### ARTIGO 27.º — Preços
+ARTIGO 27.º
+
+Preços
 
 1 - Para os fins do presente Acordo, será fixado um preço mínimo de 100 cêntimos do dólar dos Estados Unidos por libra e um preço máximo de 160 cêntimos do dólar dos Estados Unidos por libra e um preço de intervenção superior de 150 cêntimos do dólar dos Estados Unidos por libra.
 
@@ -1774,13 +1837,17 @@ c) Se o stock regulador possuir uma quantidade de cacau tal que as disposições
 
 7 - As disposições do artigo 72.º não serão aplicáveis à revisão dos preços efectuada segundo o disposto no presente artigo.
 
-###### ARTIGO 28.º — Coeficientes de conversão
+ARTIGO 28.º
+
+Coeficientes de conversão
 
 1 - Para determinar o equivalente em favas de produtos derivados do cacau, os coeficientes de conversão serão os seguintes: manteiga de cacau, 1,33; torta de cacau e pó de cacau, 1,18; pasta de cacau e favas descascadas, 1,25. O Conselho poderá decidir, se for caso disso, que outros produtos contendo cacau sejam considerados produtos derivados do cacau. Os coeficientes de conversão aplicáveis ao produtos derivados do cacau, além daqueles para os quais os coeficientes de conversão vão indicados no presente parágrafo, serão fixados pelo Conselho.
 
 2 - O Conselho poderá, por voto especial, rever os coeficientes de conversão previstos no parágrafo 1 do presente artigo.
 
-###### ARTIGO 29.º — Cacau fino ou aromático
+ARTIGO 29.º
+
+Cacau fino ou aromático
 
 1 - Não obstante o artigo 35.º, as disposições do presente Acordo em matéria de contribuições destinadas ao financiamento do stock regulador não se aplicarão ao cacau fino ou aromático de qualquer membro exportador mencionado no parágrafo 1 do Anexo C, cuja produção consista exclusivamente em cacau fino ou aromático.
 
@@ -1792,7 +1859,9 @@ c) Se o stock regulador possuir uma quantidade de cacau tal que as disposições
 
 5 - Cada membro exportador comprometer-se-á a exigir a apresentação de um documento de controle aprovado pelo Conselho antes de autorizar a exportação de cacau fino ou aromático do seu território. Cada membro importador comprometer-se-á a exigir a apresentação de um documento de controle aprovado pelo Conselho antes de autorizar a importação de cacau fino ou aromático no seu território. O Conselho poderá, por voto especial, suspender na totalidade ou em parte o disposto no presente parágrafo.
 
-###### ARTIGO 30.º — Instituição do «stock» regulador
+ARTIGO 30.º
+
+Instituição do «stock» regulador
 
 1 - Será instituído um stock regulador com uma capacidade de 250000 t de favas de cacau. Se, consoante o previsto no artigo 71.º, o Conselho decidir prorrogar por mais 2 anos o presente Acordo, a capacidade do stock regulador poderá ser aumentada, por voto especial do Conselho, desde que este aumento não exceda o total de 100000 t de favas de cacau.
 
@@ -1800,7 +1869,9 @@ c) Se o stock regulador possuir uma quantidade de cacau tal que as disposições
 
 3 - O gerente, segundo as regras estabelecidas pelo Conselho, será responsável pelo funcionamento do stock regulador, pelas operações da compra e venda, pela conservação em bom estado dos stocks de favas de cacau e, evitando os riscos de mercado, pela renovação dos lotes de favas de cacau de acordo com as disposições pertinentes do presente Acordo.
 
-###### ARTIGO 31.º — Financiamento do «stock» regulador
+ARTIGO 31.º
+
+Financiamento do «stock» regulador
 
 1 - Para financiar estas operações, a conta do stock regulador será alimentada regularmente pelas verbas correspondentes às contribuições impostas sobre o cacau, consoante o disposto no artigo 35.º
 
@@ -1810,11 +1881,15 @@ a) Se a situação financeira do stock regulador não for ou parecer não ser su
 
 b) No prazo de cerca de 12 meses após a entrada em vigor do presente Acordo, o Conselho adoptará, por voto especial, recomendações aos membros no sentido de eventualmente tomar disposições que assegurem os recursos financeiros suplementares que sejam necessários, independentemente dos previstos na alínea a). Estas recomendações terão em conta as limitações resultantes das regras constitucionais e ou legislativas dos membros.
 
-###### ARTIGO 32.º — Relações com o Fundo Comum para os produtos de base
+ARTIGO 32.º
+
+Relações com o Fundo Comum para os produtos de base
 
 Logo que o Fundo Comum para os produtos de base entre em funcionamento, o Conselho terá poderes para negociar as modalidades de associação com este e, por decisão adoptada por voto especial, emitirá as medidas necessárias com vista a esta associação, consoante os princípios que a regem, a fim de utilizar a totalidade das possibilidades financeiras oferecidas pelo Fundo.
 
-###### ARTIGO 33.º — Despesas de funcionamento e conservação do «stock» regulador
+ARTIGO 33.º
+
+Despesas de funcionamento e conservação do «stock» regulador
 
 As despesas de funcionamento e conservação do stock regulador, compreendendo:
 
@@ -1824,13 +1899,17 @@ b) As outras despesas, tais como os gastos com o transporte e o seguro a partir 
 
 serão cobertas pela receita ordinária proveniente das contribuições previstas no artigo 35.º, dos empréstimos contraídos ou pelo produto das revendas.
 
-###### ARTIGO 34.º — Investimento dos fundos excedentes do «stock» regulador
+ARTIGO 34.º
+
+Investimento dos fundos excedentes do «stock» regulador
 
 1 - Parte dos fundos do stock regulador que não seja temporariamente necessária para financiar as suas operações poderá ser depositada de forma apropriada em países membros importadores e exportadores, de acordo com as regras que o Conselho estabelecer.
 
 2 - Estas regras terão em consideração especialmente a liquidez necessária ao funcionamento integral do stock regulador e o interesse em manter o valor real dos fundos.
 
-###### ARTIGO 35.º — Contribuições para financiamento do «stock» regulador
+ARTIGO 35.º
+
+Contribuições para financiamento do «stock» regulador
 
 1 - A contribuição imposta sobre o cacau, seja quando da primeira exportação por um membro, seja quando da primeira importação por um membro, será de 1 cêntimo do dólar dos Estados Unidos por libra de favas de cacau e será fixada proporcionalmente para os produtos derivados do cacau, segundo o artigo 28.º Em qualquer caso, a contribuição será cobrada apenas uma vez. Para este fim, as importações de cacau efectuadas por um membro provenientes de um não membro serão consideradas originárias deste não membro, a não ser que se prove que aquele cacau era originário de um membro. O Conselho reexaminará todos os anos a contribuição para o stock regulador e, não obstante as disposições da primeira frase do presente parágrafo, poderá, por um voto especial, determinar uma taxa de contribuição inferior ou decidir suspender a contribuição, tendo em conta os recursos e os compromissos financeiros da Organização que respeitem o stock regulador.
 
@@ -1840,7 +1919,9 @@ serão cobertas pela receita ordinária proveniente das contribuições prevista
 
 4 - Nenhuma disposição do presente artigo se oporá ao direito de qualquer comprador e de qualquer vendedor de fixar, de comum acordo, as condições de pagamento das entregas de cacau.
 
-###### ARTIGO 36.º — Compras efectuadas pelo «stock» regulador
+ARTIGO 36.º
+
+Compras efectuadas pelo «stock» regulador
 
 1 - Quando o preço indicador ultrapassar o preço mínimo, o gerente do stock regulador só comprará cacau na medida em que for necessário renovar o cacau que já se encontra no stock regulador, a fim de preservar a qualidade. O gerente do stock regulador apresentará o programa de renovação ao Conselho para aprovação.
 
@@ -1860,7 +1941,9 @@ serão cobertas pela receita ordinária proveniente das contribuições prevista
 
 9 - O stock regulador será armazenado em locais escolhidos de modo a facilitar a entrega imediata de cacau em depósito aos compradores mencionados no parágrafo 6 do artigo 37.º
 
-###### ARTIGO 37.º — Vendas do «stock» regulador
+ARTIGO 37.º
+
+Vendas do «stock» regulador
 
 1 - Quando o preço indicador se encontrar abaixo do preço de intervenção superior, o gerente do stock regulador só venderá cacau na medida em que for necessário renovar cacau já existente no stock regulador, a fim de preservar a qualidade. O gerente do stock regulador apresentará o programa de renovação ao Conselho para aprovação.
 
@@ -1874,7 +1957,9 @@ serão cobertas pela receita ordinária proveniente das contribuições prevista
 
 6 - Quando proceder a vendas em aplicação dos parágrafos 2 e 3 do presente artigo, o gerente do stock regulador, consoante as regras estabelecidas pelo Conselho, venderá, pelos circuitos comerciais normais, a empresas e organizações situadas nos países membros, mas sobretudo nos países membros importadores, que fazem o comércio do cacau ou se ocupam da sua transformação.
 
-###### ARTIGO 38.º — Modificação das taxas de câmbio das moedas
+ARTIGO 38.º
+
+Modificação das taxas de câmbio das moedas
 
 1 - O director executivo convocará uma sessão extraordinária do Conselho, quer da sua própria iniciativa, quer a pedido de membros, em conformidade com o parágrafo 2 do artigo 9.º, se as condições dos mercados de câmbios forem de natureza a terem importantes implicações sobre as disposições do presente Acordo relativas aos preços. As sessões extraordinárias do Conselho convocadas em aplicação do pressente parágrafo terão lugar o mais tardar dentro dos quatro dias úteis seguintes.
 
@@ -1882,7 +1967,9 @@ serão cobertas pela receita ordinária proveniente das contribuições prevista
 
 3 - Após o exame da situação, particularmente das medidas provisórias tomadas pelo director executivo e pelo gerente do stock regulador, assim como das consequências que as condições acima referidas sobre os mercados de câmbios possam ter efeito na aplicação efectiva do presente Acordo, o Conselho poderá, por um voto especial, tomar quaisquer medidas correctivas necessárias.
 
-###### ARTIGO 39.º — Liquidação do «stock» regulador
+ARTIGO 39.º
+
+Liquidação do «stock» regulador
 
 1 - Se o presente Acordo tiver de ser substituído por um novo acordo que contenha disposições relativas ao stock regulador, o Conselho tomará as medidas que julgar apropriadas para que o stock regulador continue a funcionar.
 
@@ -1898,13 +1985,17 @@ ii) Quaisquer dívidas, acrescidas de juros, a título de qualquer empréstimo c
 
 c) Logo que tenham sido efectuados os pagamentos previstos na alínea b), o saldo eventual será distribuído pelos membros exportadores interessados, em partes proporcionais às exportações de cada um sobre as quais a contribuição tiver sido cobrada, ficando entendido, todavia, que a parte dos montantes correspondendo às contribuições cobradas sobre as importações em virtude do presente Acordo em relação aos outros fundos é anulada e repartida, consoante regras estabelecidas pelo Conselho.
 
-###### ARTIGO 40.º — Medidas complementares para defesa dos preços mínimo e máximo
+ARTIGO 40.º
+
+Medidas complementares para defesa dos preços mínimo e máximo
 
 1 - No caso de o stock regulador instituído no quadro do presente Acordo, após a utilização plena da sua capacidade inicial de 250000 t, se revelar insuficiente para manter os preços do cacau em favas entre os preços mínimo e máximo previstos no presente Acordo, o Conselho poderá, por voto especial, decidir medidas complementares.
 
 2 - O Conselho fixará regras com vista à aplicação das medidas complementares previstas no parágrafo 1 do presente artigo.
 
-###### ARTIGO 41.º — Consulta e cooperação na economia do cacau
+ARTIGO 41.º
+
+Consulta e cooperação na economia do cacau
 
 1 - O Conselho encorajará os membros a adoptar a opinião de peritos de questões relativas ao cacau.
 
@@ -1912,23 +2003,31 @@ c) Logo que tenham sido efectuados os pagamentos previstos na alínea b), o sald
 
 3 - Os membros não intervirão na arbitragem dos litígios comerciais entre compradores e vendedores de cacau, se não for possível executar contratos em virtude de regras estabelecidas para os fins da aplicação do presente Acordo, e não oporão entraves à conclusão de procedimentos arbitrais. O facto de os membros se deverem conformar com as disposições do presente Acordo não é aceite, em tais circunstâncias, como motivo de não execução de um contrato ou como defesa.
 
-### CAPÍTULO VIII
+CAPÍTULO VIII
 
 Notificações de importações e de exportações, registo das operações abrangidas pelas quotas e medidas de controle.
 
-###### ARTIGO 42.º — Notificações de importações e de exportações
+ARTIGO 42.º
+
+Notificações de importações e de exportações
 
 1 - De acordo com as regras a estabelecer pelo Conselho, o director executivo terá um registo das importações e das exportações dos membros.
 
 2 - Para este fim, cada membro exportador notificará o director executivo do volume total das suas importações e cada membro importador notificará o director executivo, nos prazos que o Conselho fixar, do volume total das suas exportações e facultará quaisquer outros dados que o Conselho vier a solicitar.
 
-###### ARTIGO 43.º — Medidas de controle
+ARTIGO 43.º
+
+Medidas de controle
 
 1 - Cada membro que exportar cacau exigirá a apresentação de um certificado da contribuição válido, ou de outro documento de controle aprovado pelo Conselho, antes de autorizar a expedição de cacau do seu território alfandegário. Cada membro que importar cacau exigirá a apresentação de um certificado de contribuição válido, ou de outro documento de controle aprovado pelo Conselho, antes de autorizar qualquer importação de cacau no seu território alfandegário, proveniente de um membro ou de um não membro.
 
-### CAPÍTULO IX — Oferta e procura
+CAPÍTULO IX
 
-###### ARTIGO 44.º — Cooperação entre os membros
+Oferta e procura
+
+ARTIGO 44.º
+
+Cooperação entre os membros
 
 1 - Os membros reconhecerão a importância do maior desenvolvimento possível da economia do cacau e, em consequência, coordenarão os seus esforços para encorajar o crescimento dinâmico da produção e do consumo, a fim de assegurar um melhor equilíbrio entre a oferta e a procura. Deverão, assim, cooperar plenamente com o Conselho para atingir estes objectivos.
 
@@ -1936,7 +2035,7 @@ Notificações de importações e de exportações, registo das operações abra
 
 3 - A Organização reunirá e manterá em dia as informações disponíveis que serão necessárias para determinar, do modo mais exacto possível, a capacidade mundial actual e potencial da produção e do consumo. Os membros cooperarão plenamente com a Organização na preparação destes estudos.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 Produção e «stocks»
 
@@ -1946,7 +2045,9 @@ Produção e «stocks»
 
 3 - O Conselho examinará, em cada ano, o nível dos stocks no mundo e fará as recomendações que se impuserem no seguimento deste exame.
 
-###### ARTIGO 46.º — Garantia de abastecimento e de acesso aos mercados
+ARTIGO 46.º
+
+Garantia de abastecimento e de acesso aos mercados
 
 1 - Os membros adoptarão políticas comerciais de modo que os objectivos do presente Acordo possam ser alcançados. Reconhecerão, em particular, que os abastecimentos regulares de cacau e o acesso regular deste produto aos respectivos mercados serão essenciais, tanto para os membros importadores como para os exportadores.
 
@@ -1958,7 +2059,9 @@ Produção e «stocks»
 
 5 - O Conselho poderá, para os fins do presente artigo, dirigir recomendações aos membros e examinará periodicamente os resultados obtidos.
 
-###### ARTIGO 47.º — Consumo
+ARTIGO 47.º
+
+Consumo
 
 1 - Todos os membros se esforçarão por favorecer o crescimento do consumo de cacau, segundo os meios e os métodos que lhes sejam próprios.
 
@@ -1968,7 +2071,9 @@ Produção e «stocks»
 
 4 - O Conselho poderá instituir um comité que tenha por objectivo estimular o consumo de cacau tanto nos países membros exportadores como nos países membros importadores. A composição do comité será limitada aos membros que contribuam para o programa de promoção. O custo dos programas de promoção deste género será financiado por contribuições dos membros exportadores. Os membros importadores também poderão contribuir financeiramente. Antes do lançamento de uma campanha de promoção no território de um membro, o comité solicitará a sua concordância.
 
-###### ARTIGO 48.º — Produtos sucedâneos do cacau
+ARTIGO 48.º
+
+Produtos sucedâneos do cacau
 
 1 - Os membros reconhecerão que o uso de produtos sucedamos pode prejudicar a expansão do consumo de cacau. Assim, estabelecerão uma regulamentação relativa aos produtos derivados do cacau e do chocolate, ou adoptarão, em caso de necessidade, a regulamentação existente, de modo que a referida regulamentação impeça que matérias não provenientes do cacau sejam utilizadas em lugar do cacau para induzir o consumidor em erro.
 
@@ -1978,21 +2083,31 @@ Produção e «stocks»
 
 4 - O director executivo apresentará ao Conselho um relatório anual sobre a maneira como as disposições do presente artigo estão a ser respeitadas.
 
-###### ARTIGO 49.º — Pesquisa e desenvolvimento científico
+ARTIGO 49.º
+
+Pesquisa e desenvolvimento científico
 
 O Conselho poderá encorajar e fornecer a pesquisa e o desenvolvimento científico nos domínios da produção, fabrico e consumo de cacau, assim como a difusão e aplicação prática dos resultados obtidos. Para este fim, poderá cooperar com os organismos internacionais e os institutos de pesquisa.
 
-### CAPÍTULO X — Cacau transformado
+CAPÍTULO X
 
-###### ARTIGO 50.º — Cacau transformado
+Cacau transformado
+
+ARTIGO 50.º
+
+Cacau transformado
 
 1 - Reconhece-se que os países em vias de desenvolvimento têm necessidade de alargar as bases da sua economia, nomeadamente pela industrialização e exportação de artigos manufacturados, compreendendo a transformação do cacau e a exportação de produtos derivados do cacau e chocolate. Com este propósito, é igualmente reconhecida a necessidade de evitar que a economia do cacau dos membros exportadores e dos membros importadores seja seriamente prejudicada.
 
 2 - Se um membro considerar que corre o risco de prejudicar os seus interesses em alguns daqueles domínios, poderá iniciar consultas com o outro membro interessado, com vista a um entendimento satisfatório para as partes em causa. Caso não cheguem a acordo, o membro poderá referir o caso ao Conselho, que oferecerá os seus bons ofícios na matérias a fim de se alcançar aquele entendimento.
 
-### CAPÍTULO XI — Relações entre membros e não membros
+CAPÍTULO XI
 
-###### ARTIGO 51.º — Operações comerciais com não membros
+Relações entre membros e não membros
+
+ARTIGO 51.º
+
+Operações comerciais com não membros
 
 1 - Os membros exportadores comprometem-se a não vender cacau a não membros em condições comerciais mais favoráveis do que as que estiverem dispostos a oferecer no mesmo momento a membros importadores, tendo em conta as práticas comerciais normais.
 
@@ -2002,9 +2117,13 @@ O Conselho poderá encorajar e fornecer a pesquisa e o desenvolvimento científi
 
 4 - Qualquer membro que tiver razões para crer que outro membro não cumpriu a obrigação enunciada no parágrafo 1 ou no parágrafo 2 poderá informar do facto o director executivo e solicitar consultas em aplicação do artigo 57.º ou submeter o assunto ao Conselho de acordo com o artigo 59.º
 
-### CAPÍTULO XII — Informação e estudos
+CAPÍTULO XII
 
-###### ARTIGO 52.º — Informação
+Informação e estudos
+
+ARTIGO 52.º
+
+Informação
 
 1 - A Organização actuará como centro para compilação, intercâmbio e publicação de:
 
@@ -2018,11 +2137,15 @@ b) Na medida em que julgue apropriado, informações técnicas sobre a cultura, 
 
 4 - O Conselho publicará nas datas próprias, mas pelo menos duas vezes por ano, as estimativas da produção de cacau, em favas ou triturado, para o ano-quota em curso.
 
-###### ARTIGO 53.º — Estudos
+ARTIGO 53.º
+
+Estudos
 
 Na medida em que o julgue necessário, o Conselho promoverá estudos sobre a economia da produção e da distribuição do cacau, e em particular sobre as tendências e projecções, a incidência das medidas tomadas pelos governos dos países exportadores e dos países importadores sobre a produção e o consumo de cacau, as possibilidades de expandir o consumo de cacau nos seus usos tradicionais e eventualmente em novos usos, as consequências da aplicação do presente Acordo sobre os exportadores e os importadores de cacau, nomeadamente no que se refere aos termos de troca, e poderá formular recomendações aos membros sobre os assuntos a estudar. O Conselho poderá igualmente decidir promover a pesquisa científica de aspectos específicos da produção, do fabrico e do consumo. Para promover estes estudos e esta pesquisa, o Conselho poderá cooperar com organizações internacionais e institutos de pesquisa em países membros.
 
-###### ARTIGO 54.º — Exame anual e relatório anual
+ARTIGO 54.º
+
+Exame anual e relatório anual
 
 1 - Logo que possível, após o final de cada ano cacaueiro, o Conselho passará em revista o funcionamento do presente Acordo e o modo como os membros observam os princípios do referido Acordo e contribuem para que se alcancem os seus objectivos. Poderão então formular aos membros recomendações sobre os modos e meios de melhorar o funcionamento do presente Acordo.
 
@@ -2030,9 +2153,13 @@ Na medida em que o julgue necessário, o Conselho promoverá estudos sobre a eco
 
 3 - O Conselho poderá também publicar quaisquer informações que julgue apropriadas.
 
-### CAPÍTULO XIII — Dispensa de obrigações em circunstâncias excepcionais
+CAPÍTULO XIII
 
-###### ARTIGO 55.º — Dispensa de obrigações em circunstâncias excepcionais
+Dispensa de obrigações em circunstâncias excepcionais
+
+ARTIGO 55.º
+
+Dispensa de obrigações em circunstâncias excepcionais
 
 1 - O Conselho poderá, por um voto especial, dispensar um membro de uma obrigação em função de circunstâncias excepcionais ou de emergência, de um caso de força maior, ou de obrigações internacionais previstas na Carta das Nações Unidas para com territórios administrados sob regime de tutela.
 
@@ -2044,17 +2171,25 @@ a) À obrigação referida no artigo 24.º de pagar a sua contribuição ou às 
 
 b) À obrigação de exigir o pagamento de qualquer contribuição prevista no artigo 35.º
 
-###### ARTIGO 56.º — Medidas diferenciadas e correctivas
+ARTIGO 56.º
+
+Medidas diferenciadas e correctivas
 
 Os membros em desenvolvimento importadores e os países menos avançados que forem membros poderão, se os seus interesses forem lesados por medidas tomadas em aplicação do presente Acordo, pedir ao Conselho medidas diferenciadas e correctivas apropriadas. O Conselho considerará tomar as ditas medidas apropriadas consoante o parágrafo 3 da secção III da Resolução 93 (IV) adoptada pela Conferência das Nações Unidas sobre o Comércio e o Desenvolvimento.
 
-### CAPÍTULO XIV — Consultas, litígios e queixas
+CAPÍTULO XIV
 
-###### ARTIGO 57.º — Consultas
+Consultas, litígios e queixas
+
+ARTIGO 57.º
+
+Consultas
 
 Cada membro acolherá favoravelmente as exposições que um outro membro lhe possa fazer sobre a interpretação ou a aplicação do presente Acordo e dar-lhe-á oportunidades adequadas para proceder a consultas. Durante essas consultas, a pedido de uma das partes e com o consentimento da outra, o director executivo fixará um processo apropriado de conciliação. Os custos do referido processo não serão imputáveis ao orçamento da Organização. Se este processo conduzir a uma solução, será a mesma transmitida ao director executivo. Se nenhuma solução surgir, a questão poderá, a pedido de uma das partes, ser remetida ao Conselho em conformidade com o artigo 62.º
 
-###### ARTIGO 58.º — Litígios
+ARTIGO 58.º
+
+Litígios
 
 1 - Qualquer litígio relativo à interpretação ou à aplicação do presente Acordo que não tiver sido resolvido pelas Partes em litígio, será, a podido do uma das Partes em litígio, submetido ao Conselho para decisão.
 
@@ -2076,7 +2211,9 @@ d) As despesas do grupo consultivo especial serão por conta da Organização.
 
 4 - O parecer fundamentado do grupo consultivo especial será submetido ao Conselho, que resolverá o litígio depois de ter tomado em consideração todos os dados pertinentes.
 
-###### ARTIGO 59.º — Acção do Conselho em caso de queixa
+ARTIGO 59.º
+
+Acção do Conselho em caso de queixa
 
 1 - Qualquer queixa contra um membro que não cumpra as obrigações que o presente Acordo lhe impõe será, a pedido do membro autor da queixa, remetida ao Conselho, que a examinará e decidirá.
 
@@ -2090,23 +2227,35 @@ b) Se o julgar necessário, suspender outros direitos desse membro, nomeadamente
 
 4 - Um membro cujos direitos de voto hajam sido suspensos de acordo com o parágrafo 3 permanecerá obrigado a cumprir as obrigações financeiras e outras obrigações previstas no presente Acordo.
 
-### CAPÍTULO XV — Normas de trabalho equitativas
+CAPÍTULO XV
 
-###### ARTIGO 60.º — Normas de trabalho equitativas
+Normas de trabalho equitativas
+
+ARTIGO 60.º
+
+Normas de trabalho equitativas
 
 Os membros declaram que, a fim de elevar o nível de vida das populações e instaurar o pleno emprego, se esforçarão por manter, para a mão-de-obra, normas e condições de trabalho equitativas nos diversos ramos da produção de cacau dos países interessados, em conformidade com o seu nível de desenvolvimento, no que se refere tanto aos trabalhadores agrícolas como aos trabalhadores industriais que nelas estão empregados.
 
-### CAPÍTULO XVI — Disposições finais
+CAPÍTULO XVI
 
-###### ARTIGO 61.º — Assinatura
+Disposições finais
+
+ARTIGO 61.º
+
+Assinatura
 
 O presente Acordo estará aberto, na sede da Organização das Nações Unidas, a partir de 10 de Novembro de 1975 até 31 de Agosto de 1976, inclusive, a assinatura das Partes no Acordo Internacional do Cacau de 1972 e dos Governos convidados para a Conferência das Nações Unidas sobre o Cacau, 1975.
 
-###### ARTIGO 62.º — Depositário
+ARTIGO 62.º
 
-**O Secretário-Geral das Nações Unidas será o depositário do presente Acordo.**
+Depositário
 
-###### ARTIGO 63.º — Ratificação, aceitação e aprovação
+O Secretário-Geral das Nações Unidas será o depositário do presente Acordo.
+
+ARTIGO 63.º
+
+Ratificação, aceitação e aprovação
 
 1 - O presente Acordo estará sujeito a ratificação, aceitação ou aprovação dos Governos signatários de acordo com o seu processo constitucional.
 
@@ -2114,7 +2263,9 @@ O presente Acordo estará aberto, na sede da Organização das Nações Unidas, 
 
 3 - Cada Governo que depositar um instrumento de ratificação, de aceitação ou aprovação indicará, no momento do depósito, se é membro exportador ou membro importador.
 
-###### ARTIGO 64.º — Adesão
+ARTIGO 64.º
+
+Adesão
 
 1 - Os Governos de todos os Estados podem aderir ao presente Acordo nas condições que o Conselho determinar.
 
@@ -2124,13 +2275,17 @@ O presente Acordo estará aberto, na sede da Organização das Nações Unidas, 
 
 4 - A adesão efectuar-se-á mediante o depósito de um instrumento de adesão junto do depositário.
 
-###### ARTIGO 65.º — Notificação de aplicação provisória
+ARTIGO 65.º
+
+Notificação de aplicação provisória
 
 1 - Um Governo signatário que tiver a intenção de ratificar, aceitar ou aprovar o presente Acordo ou um Governo para o qual o Conselho tenha definido condições de adesão, mas que ainda não tenha podido depositar o seu instrumento, poderá, em qualquer momento, notificar o depositário que aplicará o presente Acordo a título provisório, seja logo que este entrar em vigor de acordo com o artigo 69.º, seja, se já estiver em vigor, numa data especificada. Cada Governo que efectuar esta notificação declarará, no momento da notificação, se será membro exportador ou membro importador.
 
 2 - Um Governo que haja notificado, em conformidade com o parágrafo 1, que aplicará o presente Acordo, seja quando este entrar em vigor, seja numa data especificada, será desde então membro a título provisório. Permanecerá membro a título provisório até à data do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão.
 
-###### ARTIGO 66.º — Entrada em vigor
+ARTIGO 66.º
+
+Entrada em vigor
 
 1 - O presente Acordo entrará em vigor a título definitivo em 1 de Abril de 1981 se, nesta data, Governos que representem, pelo menos, 5 países exportadores agrupando, pelo menos, 80% das quotas básicas, tais como vão indicados no Anexo F, e Governos que representem países importadores agrupando, pelo menos, 70% das importações totais, tais como vão indicadas no Anexo D, tiverem depositado os seus instrumentos de ratificação, aceitação, aprovação ou adesão junto do depositário. Se o presente Acordo não tiver entrado em vigor a título definitivo por falta das condições precedentes, entrará em vigor a título definitivo desde que as percentagens requeridas forem alcançadas, no seguimento do depósito de instrumento de ratificação, aceitação, aprovação ou adesão.
 
@@ -2142,25 +2297,35 @@ O presente Acordo estará aberto, na sede da Organização das Nações Unidas, 
 
 5 - Enquanto o presente Acordo estiver em vigor a título provisório, os Governos participantes tomarão as disposições necessárias para reconsiderar a situação e decidir se o presente Acordo entrará em vigor entre eles a título definitivo, permanecerá em vigor a título provisório ou deixará de estar em vigor.
 
-###### ARTIGO 67.º — Reservas
+ARTIGO 67.º
+
+Reservas
 
 Nenhuma das disposições do presente Acordo poderá ser objecto de reservas.
 
-###### ARTIGO 68.º — Retirada voluntária
+ARTIGO 68.º
+
+Retirada voluntária
 
 Em qualquer momento após a entrada em vigor do presente Acordo, qualquer membro poderá retirar-se do presente Acordo notificando por escrito da sua retirada o depositário. A retirada terá efeito 90 dias a partir da recepção da notificação pelo secretário-geral da Organização das Nações Unidas.
 
-###### ARTIGO 69.º — Exclusão
+ARTIGO 69.º
+
+Exclusão
 
 Se o Conselho concluir, segundo as disposições do parágrafo 3 do artigo 63.º, que um membro está em falta para com as obrigações que lhe impõe o presente Acordo e se decidir, além disso, que a referida infracção entrava seriamente o funcionamento do presente Acordo, poderá, por um voto especial, excluir aquele membro da Organização Internacional do Cacau. O Conselho notificará imediatamente desta exclusão o depositário. 90 dias após a data da decisão do Conselho, o referido membro cessará de ser membro da Organização Internacional do Cacau e, se for Parte Contratante, de ser parte no presente Acordo.
 
-###### ARTIGO 70.º — Liquidação das contas em caso de retirada ou de exclusão
+ARTIGO 70.º
+
+Liquidação das contas em caso de retirada ou de exclusão
 
 1 - No caso de retirada ou exclusão de um membro, o Conselho procederá à liquidação das contas daquele membro. A Organização conservará as importâncias já entregues por aquele membro, que será, por outro lado, obrigado a pagar-lhe qualquer importância devida na data efectiva da retirada ou da exclusão; contudo, se se tratar de uma Parte Contratante que não possa aceitar uma emenda e que, por tal facto, cessar a sua participação no presente Acordo, em virtude do parágrafo 2 do artigo 76.º, o Conselho poderá liquidar a conta do modo que lhe parecer equitativo.
 
 2 - Um membro que se retirar do presente Acordo, que tenha sido excluído ou que tenha cessado qualquer modo de participação não terá direito a nenhuma parte do produto da liquidação nem dos outros haveres da Organização; não lhe poderá também ser imputada nenhuma parte do prejuízo eventual da Organização quando o presente Acordo terminar.
 
-###### ARTIGO 71.º — Vigência e termo
+ARTIGO 71.º
+
+Vigência e termo
 
 1 - O presente Acordo permanecerá em vigor até ao final do terceiro ano cacaueiro completo que se seguir à sua entrada em vigor, a menos que seja prorrogado em aplicação do parágrafo 3, ou que termine antes em aplicação do parágrafo 4 do presente artigo.
 
@@ -2174,13 +2339,17 @@ Se o Conselho concluir, segundo as disposições do parágrafo 3 do artigo 63.º
 
 6 - Não obstante as disposições do parágrafo 2 do artigo 68.º, um membro que não desejar participar no presente Acordo, tal como ele for prorrogado em virtude do presente artigo, informará o Conselho. Este membro cessará de ser membro ao fim do terceiro ano cacaueiro.
 
-###### ARTIGO 72.º — Emendas
+ARTIGO 72.º
+
+Emendas
 
 1 - O Conselho poderá, por voto especial, recomendar às Partes Contratantes a introdução de emendas no presente Acordo. A emenda produzirá efeito 100 dias após o depositário ter recebido as notificações de aceitação de Partes Contratantes que representem, pelo menos, 75% dos membros exportadores, agrupando, pelo menos, 85% dos votos dos membros exportadores, e das Partes Contratantes que representem, pelo menos, 75% dos membros importadores, agrupando, pelo menos, 85% dos votos dos membros importadores, ou numa data posterior que o Conselho possa ter fixado por voto especial. O Conselho poderá fixar um prazo durante o qual cada Parte Contratante notificará o depositário da sua aceitação da emenda, e, se a emenda não tiver entrado em vigor no termo daquele prazo, será tida por retirada.
 
 2 - Qualquer membro em nome do qual não tenha sido feita a notificação de aceitação de uma emenda na data em que esta entrar em vigor cessará naquela data de participar no presente Acordo, a menos que o referido membro possa provar ao Conselho, aquando da primeira reunião que aquele tiver após a entrada em vigor da emenda, que lhe não foi possível aceitar a emenda no devido tempo por dificuldades surgidas para completar o seu processo constitucional e que o Conselho decida prolongar, para o referido membro, o prazo de aceitação até que aquelas dificuldades tenham sido ultrapassadas. Aquele membro não ficará vinculado à emenda até que tenha notificado a sua aceitação.
 
-###### ARTIGO 73.º — Disposições suplementares e transitórias
+ARTIGO 73.º
+
+Disposições suplementares e transitórias
 
 1 - O presente Acordo será considerado como uma continuação do Acordo Internacional do Cacau de 1975.
 
@@ -2196,7 +2365,9 @@ Feito em Genebra, a dezanove de Novembro de mil novecentos e oitenta, num só or
 
 ANEXOS
 
-## Anexo A — Países produtores que exportam 10000 t ou mais de cacau ordinário por ano
+Anexo A
+
+Países produtores que exportam 10000 t ou mais de cacau ordinário por ano
 
 Brasil.
 
@@ -2216,7 +2387,9 @@ República Unida dos Camarões.
 
 Togo.
 
-## Anexo B — Países produtores que exportam menos de 10000 t de cacau ordinário por ano
+Anexo B
+
+Países produtores que exportam menos de 10000 t de cacau ordinário por ano
 
 Angola.
 
@@ -2268,7 +2441,9 @@ Vanuatu.
 
 Zaire.
 
-## Anexo C — Produtores de cacau fino (fino ou aromático)
+Anexo C
+
+Produtores de cacau fino (fino ou aromático)
 
 1 - Países produtores que exportam exclusivamente cacau fino (fino ou aromático):
 
@@ -2308,19 +2483,25 @@ São Tomé e Príncipe (50%).
 
 Papua-Nova Guiné (75%).
 
-## Anexo D — Exportações de cacau calculadas nos fins do artigo 66.º
+Anexo D
+
+Exportações de cacau calculadas nos fins do artigo 66.º
 
 (Em milhares de toneladas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
 
-## Anexo E — Importações de cacau calculadas nos fins do artigo 66.º
+Anexo E
+
+Importações de cacau calculadas nos fins do artigo 66.º
 
 (Em milhares de toneladas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00800/00610099.pdf)
 
-## ANEXO — Lista dos Estados e dos organismos representantes na Conferência das Nações Unidas sobre o Cacau, 1980
+ANEXO
+
+Lista dos Estados e dos organismos representantes na Conferência das Nações Unidas sobre o Cacau, 1980
 
 1 - Participantes
 

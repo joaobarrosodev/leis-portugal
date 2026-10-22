@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47502-1967-501580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fbe5e5c52651b855914465d11e3ddabebbb6720c1f26569917be2943117d608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80ea09b6ebb2dd7d0e2ed207bd8d4be50a2055e5b8616971774331053102ad52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Aquisição de Bens e Serviços
+- Aquisição de Imóveis
+- Câmara Municipal
+- Cessão de Imóveis
+- Cofre de Auxílio Mútuo
+- Definição de Competências
+- Funcionário Público
+- Habitação
+- Ministério das Obras Públicas
+- Ministro das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:312823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312823:por
+  label: "Aditado um art. 4º ao presente diploma pelo DEC LEI.47725.22.05.1967.MOP, DG.IS [120] de 22.05.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47725-1967-312823
+  date: '1967-05-22'
+- type: cites
+  target: pt:dre:490391:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:56Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +117,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas e os seus órgãos de execução e cantinas ficam equiparados a armazenistas para efeito de aquisição de géneros alimentares e outros de cujo fornecimento sejam encarregados ou sejam objecto da sua laboração normal.
+Artigo 1.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas e os seus órgãos de execução e cantinas ficam equiparados a armazenistas para efeito de aquisição de géneros alimentares e outros de cujo fornecimento sejam encarregados ou sejam objecto da sua laboração normal.
 
-###### Art. 2.º Fica o Ministro das Finanças autorizado a ceder definitivamente ao Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas, mediante justa compensação, para a construção de habitações destinadas aos funcionários do Ministério das Obras Públicas, terrenos pertencentes ao domínio privado do Estado.
+Art. 2.º Fica o Ministro das Finanças autorizado a ceder definitivamente ao Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas, mediante justa compensação, para a construção de habitações destinadas aos funcionários do Ministério das Obras Públicas, terrenos pertencentes ao domínio privado do Estado.
 
 § 1.º As cessões a que respeita este artigo serão isentas de impostos e efectuar-se-ão por meio de auto lavrado na Direcção-Geral da Fazenda Pública.
 
 § 2.º Os terrenos cedidos poderão reverter para o Estado por simples despacho do Ministro das Finanças, se lhe for dada aplicação diferente da que fundamentou a cessão e sem que isso implique restituição das importâncias pagas pelo Cofre.
 
-###### Art. 3.º As câmaras municipais ficam autorizadas a contratar com o mesmo Cofre a venda ou troca dos terrenos necessários aos fins habitacionais previstos neste decreto-lei.
+Art. 3.º As câmaras municipais ficam autorizadas a contratar com o mesmo Cofre a venda ou troca dos terrenos necessários aos fins habitacionais previstos neste decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

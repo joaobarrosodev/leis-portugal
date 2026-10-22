@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07100/06070615.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1977-139464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b9e7e2c3fa4188de8faecac50e93f964f45287bbc22e875f18b23e2db64dde8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ee45d99972e625aa35bf8e3ddbcaa34a8b3a529135b5cd280d2f702a949a4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caminhos de Ferro Portugueses
+- Comissão Administrativa
+- Comissão de Fiscalização
+- Conselho de Administração
+- Conselho Geral
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- Exoneração
+- Gestão Financeira
+- Integração de Trabalhadores
+- Ministro dos Transportes e Comunicações
+- Regime de Pessoal
+- Tutela
 relationships:
 - type: amended_by
   target: pt:dre:140549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL DD833/77 DE 22-JUN DR.IS [154] DE 06/JUL/1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1977-07-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 7 PELO DEC LEI 406/78 DE 15-DEZ DR.IS [287]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-12-15'
+- type: amended_by
+  target: pt:dre:324333:por
+  label: "Aditada uma al. d) ao n.º 2 do art. 2.º e alterada algumas referências na relação das linhas e ramais a que se refere\
+    \ o n.º 1 do art. 2.º, dos Estatutos da CP, aprovados pelo presente diploma, na versão dada pelo Dec Lei 116/92 de 20-Jun,\
+    \ pelo DEC LEI.394-A/98.1998.12.15.MEPAT DR.IS-A [288]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-a-1998-324333
+  date: '1998-12-15'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a CP-Caminhos de Ferro de Portugal, E.P., a que se refere\
+    \ o presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684232:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:250467:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 154/1977, Série I de 1977-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250467
+  date: '1977-07-06'
+- type: repealed_by
+  target: pt:dre:140549:por
+  label: "Revogado, a partir de 12.07.2009, o presente diploma, com as alterações constantes dos Dec Lei 406/78 de 15-Dez,\
+    \ 116/92 de 20-Jun e 274/98 de 05-Set, pelo DEC LEI.137-A/2009.12.06.2009.MOPTC, DR.IS [112-Supl] de 12.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-a-2009-140549
+  date: '2009-06-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:27Z'
   warnings: []
   errors: []
 ---
@@ -105,23 +185,23 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A empresa pública denominada Companhia dos Caminhos de Ferro Portugueses, nacionalizada pelo [Decreto-Lei n.º 205-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-b-1975-497832), de 16 de Abril, é uma pessoa colectiva de direito público, que passa a denominar-se Caminhos de Ferro Portugueses, E. P., e a reger-se pelos estatutos anexos ao presente decreto.
+Artigo 1.º A empresa pública denominada Companhia dos Caminhos de Ferro Portugueses, nacionalizada pelo [Decreto-Lei n.º 205-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-b-1975-497832), de 16 de Abril, é uma pessoa colectiva de direito público, que passa a denominar-se Caminhos de Ferro Portugueses, E. P., e a reger-se pelos estatutos anexos ao presente decreto.
 
-###### Art. 2.º Transitam para os Caminhos de Ferro Portugueses, E. P., todos os trabalhadores que à data da entrada em vigor deste diploma devam considerar-se ao serviço da empresa nacionalizada Companhia dos Caminhos de Ferro Portugueses.
+Art. 2.º Transitam para os Caminhos de Ferro Portugueses, E. P., todos os trabalhadores que à data da entrada em vigor deste diploma devam considerar-se ao serviço da empresa nacionalizada Companhia dos Caminhos de Ferro Portugueses.
 
-###### Art. 3.º O capital estatutário dos Caminhos de Ferro Portugueses, E. P., será fixado de acordo com o definido no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
+Art. 3.º O capital estatutário dos Caminhos de Ferro Portugueses, E. P., será fixado de acordo com o definido no [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
-###### Art. 4.º - 1. As nomeações a que se referem as alíneas b), c) e e) do n.º 1 do artigo 4.º dos estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sessenta dias a contar da publicação do presente diploma e até oito dias do termo dos mandatos respectivos para o exercício dos mandatos subsequentes.
+Art. 4.º - 1. As nomeações a que se referem as alíneas b), c) e e) do n.º 1 do artigo 4.º dos estatutos serão comunicadas ao Ministro dos Transportes e Comunicações no prazo de sessenta dias a contar da publicação do presente diploma e até oito dias do termo dos mandatos respectivos para o exercício dos mandatos subsequentes.
 
 2. A reunião para a designação dos representantes das autarquias locais terá lugar dentro do referido prazo e será convocada pelo Ministro dos Transportes e Comunicações por carta registada, dirigida ao presidente do respectivo órgão autárquico, a quem compete designar os representantes.
 
 3. Enquanto não estiver instituída a organização regional, os representantes dos interesses regionais serão designados pelos governadores civis.
 
-###### Art. 5.º A comissão administrativa referida no n.º 2 do artigo 3.º do [Decreto-Lei n.º 205-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-b-1975-497832), de 16 de Abril, cessará as suas funções aquando da nomeação do conselho de gerência da empresa.
+Art. 5.º A comissão administrativa referida no n.º 2 do artigo 3.º do [Decreto-Lei n.º 205-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-b-1975-497832), de 16 de Abril, cessará as suas funções aquando da nomeação do conselho de gerência da empresa.
 
-###### Art. 6.º A empresa não fica abrangida pelas obrigações estabelecidas na base XLIII da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, ficando dispensada da caução prevista no artigo 70.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto.
+Art. 6.º A empresa não fica abrangida pelas obrigações estabelecidas na base XLIII da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, ficando dispensada da caução prevista no artigo 70.º do [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto.
 
-###### Art. 7.º Mantêm-se a vigência:
+Art. 7.º Mantêm-se a vigência:
 
 a) Dos Decretos n.os 11928, de 21 de Julho de 1926, e 12800, de 7 de Dezembro de 1926;
 
@@ -133,17 +213,17 @@ d) Dos regimes consignados nas bases XXIX, n.os 1 e 2, XXXI, n.º 4, e LIII, ane
 
 e) Dos regulamentos estabelecidos pela concessionária ao abrigo de legislação que lho consentia.
 
-###### Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 11 de Março de 1977.**
+Promulgado em 11 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo ao Decreto-Lei n.º 109/77
+Anexo ao Decreto-Lei n.º 109/77
 
 ESTATUTOS DOS CAMINHOS DE FERRO PORTUGUESES, E. P.
 
@@ -649,7 +729,7 @@ A empresa pode fazer parte de associações ou organismos nacionais ou internaci
 
 As dúvidas que se suscitarem na interpretação ou aplicação dos presentes Estatutos são resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.
 
 Relação das linhas e ramais a que se refere o n.º 1 do artigo 2.º dos Estatutos
 
@@ -709,4 +789,4 @@ Linha do Sado: de Pinhal Novo à Funcheira, com o ramal de Sines.
 
 Linha de Évora: de Casa Branca a Vila Viçosa, com os ramais de Reguengos, Mora e Portalegre-Estação.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

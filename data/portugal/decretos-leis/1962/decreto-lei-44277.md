@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/04/08300/03540354.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44277-1962-516257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f572173380a2782218c2052343ab11be1134740f75f52f0e16acd5d6c4e6184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 264892efb5930c2af1061bf022c87a6e2ff0327d8a9153dc12433a92e31022d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Financiamento
+- Ministério da Saúde e Assistência
+- Publicação
 relationships:
 - type: amended_by
   target: pt:dre:632738:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:583380:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632738:por
+  label: "Revogado, a partir de 01.10.1971, pelo DEC LEI.413/71.27.09.1971.MSA, DG.IS [228] de 27.09.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1971-632738
+  date: '1971-09-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:18Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +109,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Boletim do Ministério da Saúde e Assistência, que visa especialmente a divulgação das questões doutrinárias e científicas relacionadas com os sectores de saúde e assistência e, bem assim, tornar conhecidas as normas de serviço aos mesmos respeitantes e as actividades por eles desenvolvidas ou a desenvolver.
+Artigo 1.º É criado o Boletim do Ministério da Saúde e Assistência, que visa especialmente a divulgação das questões doutrinárias e científicas relacionadas com os sectores de saúde e assistência e, bem assim, tornar conhecidas as normas de serviço aos mesmos respeitantes e as actividades por eles desenvolvidas ou a desenvolver.
 
-###### Art. 2.º As actuais publicações denominadas Boletim dos Serviços de Saúde Pública e Boletim da Assistência Social são desde já incorporadas no Boletim do Ministério da Saúde e Assistência, podendo, no entanto, dentro dele conservar a sua individualidade.
+Art. 2.º As actuais publicações denominadas Boletim dos Serviços de Saúde Pública e Boletim da Assistência Social são desde já incorporadas no Boletim do Ministério da Saúde e Assistência, podendo, no entanto, dentro dele conservar a sua individualidade.
 
 § único. Poderão também ser nele incorporados nas mesmas condições, por despacho ministerial, quaisquer boletins ou publicações mantidos por outros serviços e organismos do Ministério da Saúde e Assistência, desde que se reconheça não haver vantagens na sua edição independente.
 
-###### Art. 3.º As despesas com a publicação do Boletim do Ministério da Saúde e Assistência serão suportadas pelos serviços e organismos que nele estejam interessados, de harmonia com as respectivas dotações orçamentais e na proporção que, sendo caso disso, for estabelecida por despacho do Ministro da Saúde e Assistência.
+Art. 3.º As despesas com a publicação do Boletim do Ministério da Saúde e Assistência serão suportadas pelos serviços e organismos que nele estejam interessados, de harmonia com as respectivas dotações orçamentais e na proporção que, sendo caso disso, for estabelecida por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 4.º A comissão criada pelo [Decreto-Lei n.º 38331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38331-1951-583380), de 4 de Julho de 1951, passará a denominar-se comissão de compras, competindo-lhe, além das funções que actualmente lhe pertencem, organizar quaisquer processos de aquisição ou fornecimento de que seja incumbida por despacho ministerial, bem como celebrar os respectivos contratos, quando a eles haja lugar.
+Art. 4.º A comissão criada pelo [Decreto-Lei n.º 38331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38331-1951-583380), de 4 de Julho de 1951, passará a denominar-se comissão de compras, competindo-lhe, além das funções que actualmente lhe pertencem, organizar quaisquer processos de aquisição ou fornecimento de que seja incumbida por despacho ministerial, bem como celebrar os respectivos contratos, quando a eles haja lugar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

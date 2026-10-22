@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 112/1967, 1º Suplemento, Série I de 1967-05-11
   number: '112'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1020 - 1024
   pdf_url: https://files.diariodarepublica.pt/1s/1967/05/11201/10201024.pdf
 entry_into_force_dates: []
@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47691-1967-348327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c27484c575bdd7b8690791eedd0d2227963402bfb94dd29e2fa491b828cbf514
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f2d1333eaf8f7c7e498bae4e4c8be31ca34ffe8f5d78a0d83bc4b05c0e3b7f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Almada
+- Cascais
+- Coimbra
+- Criação de Serviços
+- Definição de Competências
+- Estatuto Judiciário
+- Férias Judiciais
+- Lisboa
+- Loures
+- Oeiras
+- Pessoal de Justiça
+- Porto
+- Secretaria Judicial
+- Supremo Tribunal de Justiça
+- Tribunal Cível
+- Tribunal da Relação
+- Tribunal de Comarca
+- Tribunal de Menores
+relationships:
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:07Z'
   warnings: []
   errors: []
 ---
@@ -86,27 +112,27 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O tribunal da comarca de Cascais passa a ser constituído por dois juízos, que terão competência cumulativa em matéria cível e criminal.
+Artigo 1.º O tribunal da comarca de Cascais passa a ser constituído por dois juízos, que terão competência cumulativa em matéria cível e criminal.
 
-###### Art. 2.º São criadas as comarcas de Loures e Oeiras, com a classe, área, sede e composição constantes dos mapas anexos ao Estatuto Judiciário, alterados nos termos do presente diploma.
+Art. 2.º São criadas as comarcas de Loures e Oeiras, com a classe, área, sede e composição constantes dos mapas anexos ao Estatuto Judiciário, alterados nos termos do presente diploma.
 
-###### Art. 3.º - 1. Os tribunais criados por este diploma só começarão a funcionar depois de o Conselho Superior Judiciário verificar a suficiência das suas instalações e das casas para residência dos magistrados e de os respectivos juízes serem empossados.
+Art. 3.º - 1. Os tribunais criados por este diploma só começarão a funcionar depois de o Conselho Superior Judiciário verificar a suficiência das suas instalações e das casas para residência dos magistrados e de os respectivos juízes serem empossados.
 
 2. Até ao começo do funcionamento dos novos tribunais, o tribunal da comarca de Lisboa mantém a competência de que goza presentemente, e mantê-la-á mesmo depois, relativamente às acções que nele estejam pendentes.
 
-###### Art. 4.º É aplicável aos tribunais das novas comarcas, quanto aos boletins do registo criminal, o disposto no artigo 758.º do Estatuto Judiciário.
+Art. 4.º É aplicável aos tribunais das novas comarcas, quanto aos boletins do registo criminal, o disposto no artigo 758.º do Estatuto Judiciário.
 
-###### Art. 5.º - 1. Nas áreas das comarcas de Louras, Oeiras e Cascais compete à Polícia Judiciária a instrução e investigação de crimes contra incertos, a que corresponda a forma de processo correccional ou de querela, a organização dos processos de segurança e o exercício da prevenção criminal, sem prejuízo da competência legal que lhe caiba relativamente a outros casos.
+Art. 5.º - 1. Nas áreas das comarcas de Louras, Oeiras e Cascais compete à Polícia Judiciária a instrução e investigação de crimes contra incertos, a que corresponda a forma de processo correccional ou de querela, a organização dos processos de segurança e o exercício da prevenção criminal, sem prejuízo da competência legal que lhe caiba relativamente a outros casos.
 
 2. Aos processos organizados nos termos do número anterior é aplicável o disposto nos artigos 17.º, 18.º e 20.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
 
-###### Art. 6.º A competência do Tribunal Tutelar Central de Menores de Lisboa, em matéria de prevenção criminal, abrange as áreas das comarcas criadas por este diploma e das comarcas de Almada e Cascais.
+Art. 6.º A competência do Tribunal Tutelar Central de Menores de Lisboa, em matéria de prevenção criminal, abrange as áreas das comarcas criadas por este diploma e das comarcas de Almada e Cascais.
 
-###### Art. 7.º Os encargos a que der lugar a execução deste decreto-lei serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
+Art. 7.º Os encargos a que der lugar a execução deste decreto-lei serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
 
-###### Art. 8.º Os artigos 19.º, 25.º, 36.º, 43.º, 48.º, 49.º, 54.º, 57.º, 62.º, 110.º, 167.º, 174.º, 175.º, 194.º, 227.º, 263.º, 335.º, 337.º, 357.º, 389.º e 691.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Art. 8.º Os artigos 19.º, 25.º, 36.º, 43.º, 48.º, 49.º, 54.º, 57.º, 62.º, 110.º, 167.º, 174.º, 175.º, 194.º, 227.º, 263.º, 335.º, 337.º, 357.º, 389.º e 691.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 19.º - 1. ...
+Art. 19.º - 1. ...
 
 a) ...
 
@@ -138,11 +164,11 @@ n) Desempenhar as demais atribuições que lhes sejam conferidas na lei.
 
 ...
 
-###### Art. 25.º A alçada das Relações em matéria cível é de 100000$00, qualquer que seja a natureza dos bens.
+Art. 25.º A alçada das Relações em matéria cível é de 100000$00, qualquer que seja a natureza dos bens.
 
 ...
 
-###### Art. 36.º - 1. ...
+Art. 36.º - 1. ...
 
 a) Às varas cíveis, a preparação e julgamento dos processos ordinários e de quaisquer outros cujo julgamento em matéria de facto seja da competência do tribunal colectivo, se excederem a alçada da Relação, dos que devam considerar-se dependentes desses processos, e bem assim dos procedimentos cautelares a que correspondam acções da sua competência;
 
@@ -156,7 +182,7 @@ b) ...
 
 ...
 
-###### Art. 43.º - 1. Nos tribunais cíveis de Lisboa e Porto e no tribunal da comarca de Coimbra há sempre um juiz de turno, a quem incumbe presidir à distribuição e efectuar o serviço de expediente dos actos que possam ser praticados, independentemente de distribuição.
+Art. 43.º - 1. Nos tribunais cíveis de Lisboa e Porto e no tribunal da comarca de Coimbra há sempre um juiz de turno, a quem incumbe presidir à distribuição e efectuar o serviço de expediente dos actos que possam ser praticados, independentemente de distribuição.
 
 2. Os turnos são quinzenais, com início nos dias 1 e 16 de cada mês, seguindo a ordem de numeração das varas e, depois, a dos juízos, nas comarcas de Lisboa e do Porto, e a dos juízos na comarca de Coimbra.
 
@@ -166,27 +192,27 @@ b) ...
 
 ...
 
-###### Art. 48.º - 1. ...
+Art. 48.º - 1. ...
 
 2. ...
 
 3. Na comarca de Coimbra observar-se-á o preceituado na alínea c) do artigo 46.º, devidamente adaptado, recaindo a substituição no juiz do Tribunal Tutelar Central de Menores, nas faltas ou impedimentos de todos os outros juízes.
 
-###### Art. 49.º Quando as faltas ou impedimentos excedam o limite fixado no artigo 46.º ou quando, fora desse caso, as conveniências do serviço o exijam, os juízes das comarcas de Lisboa, Porto e Coimbra e daquelas em que haja mais de um juízo serão substituídos pelos conservadores do registo predial e civil da sede da comarca, que o presidente da Relação designar.
+Art. 49.º Quando as faltas ou impedimentos excedam o limite fixado no artigo 46.º ou quando, fora desse caso, as conveniências do serviço o exijam, os juízes das comarcas de Lisboa, Porto e Coimbra e daquelas em que haja mais de um juízo serão substituídos pelos conservadores do registo predial e civil da sede da comarca, que o presidente da Relação designar.
 
 ...
 
-###### Art. 54.º A alçada dos tribunais de comarca em matéria cível é de 40000$00, qualquer que seja a natureza dos bens.
+Art. 54.º A alçada dos tribunais de comarca em matéria cível é de 40000$00, qualquer que seja a natureza dos bens.
 
 ...
 
-###### Art. 57.º - 1. ...
+Art. 57.º - 1. ...
 
 2. Em cada juízo há também um curador de menores, nomeado entre os delegados do procurador da República de qualquer classe.
 
 ...
 
-###### Art. 62.º - 1. ...
+Art. 62.º - 1. ...
 
 a) ...
 
@@ -204,13 +230,13 @@ e) ...
 
 ...
 
-###### Art. 110.º - 1. ...
+Art. 110.º - 1. ...
 
 2. O juiz não pode abster-se de julgar, invocando a falta ou a obscuridade da lei, desde que o caso sujeito à apreciação jurisdicional deva ser jurìdicamente regulado.
 
 ...
 
-###### Art. 167.º - 1. ...
+Art. 167.º - 1. ...
 
 2. ...
 
@@ -222,7 +248,7 @@ e) ...
 
 ...
 
-###### Art. 174.º - 1. ...
+Art. 174.º - 1. ...
 
 a) ...
 
@@ -236,7 +262,7 @@ e) Subdelegações junto dos tribunais municipais.
 
 2. ...
 
-###### Art. 175.º - 1. ...
+Art. 175.º - 1. ...
 
 a) ...
 
@@ -254,7 +280,7 @@ f) Por um subdelegado do procurador da República nos tribunais municipais.
 
 ...
 
-###### Art. 194.º - 1. ...
+Art. 194.º - 1. ...
 
 a) ...
 
@@ -306,7 +332,7 @@ z) Exercer as demais funções que lhe sejam atribuídas por lei ou conferidas p
 
 ...
 
-###### Art. 227.º ...
+Art. 227.º ...
 
 a) ...
 
@@ -332,7 +358,7 @@ h) Comparticipar no serviço de turno, a que se referem os artigos 43.º e 192.�
 
 ...
 
-###### Art. 263.º - 1. ...
+Art. 263.º - 1. ...
 
 2. ...
 
@@ -340,29 +366,29 @@ h) Comparticipar no serviço de turno, a que se referem os artigos 43.º e 192.�
 
 ...
 
-###### Art. 335.º Em tudo quanto não esteja especialmente regulado neste capítulo, é extensivo aos funcionários de justiça, com as necessárias adaptações, o disposto nos artigos 123.º, n.os 1 e 2, 124.º, 126.º, 127.º, n.º 2, 129.º, n.º 4, 134.º, n.º 3, 140.º, 141.º, n.os 3 e 4, 146.º a 149.º, 151.º a 155.º, 157.º, 158.º e 191.º
+Art. 335.º Em tudo quanto não esteja especialmente regulado neste capítulo, é extensivo aos funcionários de justiça, com as necessárias adaptações, o disposto nos artigos 123.º, n.os 1 e 2, 124.º, 126.º, 127.º, n.º 2, 129.º, n.º 4, 134.º, n.º 3, 140.º, 141.º, n.os 3 e 4, 146.º a 149.º, 151.º a 155.º, 157.º, 158.º e 191.º
 
 ...
 
-###### Art. 337.º Os lugares de escrivão do Supremo e das Relações serão providos em chefes de secretaria, chefes de secção ou escrivães, de 1.ª classe, e os de contador-tesoureiro em chefes de secretaria ou de secção, de 1.ª classe, ou em diplomados em Direito, de reconhecida competência.
+Art. 337.º Os lugares de escrivão do Supremo e das Relações serão providos em chefes de secretaria, chefes de secção ou escrivães, de 1.ª classe, e os de contador-tesoureiro em chefes de secretaria ou de secção, de 1.ª classe, ou em diplomados em Direito, de reconhecida competência.
 
 ...
 
-###### Art. 357.º O imposto do selo devido por motivo de transferência ou permuta de funcionários de justiça é pago por desconto na folha em que for processado o primeiro vencimento do novo lugar.
+Art. 357.º O imposto do selo devido por motivo de transferência ou permuta de funcionários de justiça é pago por desconto na folha em que for processado o primeiro vencimento do novo lugar.
 
 ...
 
-###### Art. 389.º O júri do concurso é constituído pelo procurador-geral da República ou pelo secretário-geral do Ministério da Justiça, que presidirá, por um professor da Faculdade de Direito de Coimbra e por outro professor da Faculdade de Direito de Lisboa e por um magistrado do Ministério Público.
+Art. 389.º O júri do concurso é constituído pelo procurador-geral da República ou pelo secretário-geral do Ministério da Justiça, que presidirá, por um professor da Faculdade de Direito de Coimbra e por outro professor da Faculdade de Direito de Lisboa e por um magistrado do Ministério Público.
 
 ...
 
-###### Art. 691.º - 1. ...
+Art. 691.º - 1. ...
 
 2. ...
 
 3. O juiz não concederá autorização aos pretendentes a primeira nomeação, que não mostrem ter como habilitações literárias o 1.º ciclo dos liceus ou equivalente, bom comportamento moral e civil, mais de 21 anos e estar isentos de culpa.
 
-###### Art. 9.º Nos mapas III, IV, V, VI, VIII e IX anexos ao Estatuto Judiciário são introduzidas as seguintes alterações:
+Art. 9.º Nos mapas III, IV, V, VI, VIII e IX anexos ao Estatuto Judiciário são introduzidas as seguintes alterações:
 
 MAPA III
 
@@ -586,6 +612,6 @@ Loures e Oeiras: um chefe de secretaria, dois escrivães de direito, dois oficia
 
 ...
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

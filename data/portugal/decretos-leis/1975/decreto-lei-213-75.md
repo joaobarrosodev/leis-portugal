@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/09400/06110612.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1975-158405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b48ba449069377f6d23ed4152bfb63b2989e22605f145989fa18e4184433b2d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d64b345055dcbcd5d444a27cc257fb812e832e483d7e9dcabc97e2ad1be20d74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA do POVO
+- Comissão Administrativa
+- Corpos Gerentes
+- Demissão
+- Junta Central das Casas do Povo
+- Ministro dos Assuntos Sociais
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:05Z'
   warnings: []
   errors: []
 ---
@@ -102,16 +114,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Quando se verifique a incapacidade de iniciativa dos sócios das Casas do Povo para promover eleições, designadamente pelo acentuado domínio dos seus dirigentes, ou quando, desencadeado um processo eleitoral, este seja viciado por efeito da influência dos mesmos dirigentes, poderá o Ministro dos Assuntos Sociais demitir os corpos gerentes em exercício e nomear, em sua substituição, comissões administrativas.
+Artigo 1.º - 1. Quando se verifique a incapacidade de iniciativa dos sócios das Casas do Povo para promover eleições, designadamente pelo acentuado domínio dos seus dirigentes, ou quando, desencadeado um processo eleitoral, este seja viciado por efeito da influência dos mesmos dirigentes, poderá o Ministro dos Assuntos Sociais demitir os corpos gerentes em exercício e nomear, em sua substituição, comissões administrativas.
 
 2. A demissão e nomeação referidas no número anterior serão propostas pela Junta Central das Casas do Povo, após inquérito adequado, e o despacho que nomear as comissões determinará o prazo máximo durante o qual devem promover eleições, e que nunca será superior a um ano.
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor.
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Henrique Santa Clara Gomes.
 
-**Promulgado em 14 de Abril de 1975.**
+Promulgado em 14 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

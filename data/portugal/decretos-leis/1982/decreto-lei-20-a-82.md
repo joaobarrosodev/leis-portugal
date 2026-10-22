@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 24/1982, 1º Suplemento, Série I de 1982-01-29
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 226-(1) a 226-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/02401/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1982-213396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 440af1fe8f74cf4d5df673d1ea77c926bbc72f6f92030b5d4950ae3287860744
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cb36b8873177d55ae318e45d19cd9a066080bffc6b0d52919a48564edd40b0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:282714:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451846:por
+  label: "Aditado um nº 6 ao art. 11º pelo DEC LEI.245/83.09.06.1983.ME, DR.IS [132] de 09.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-1983-451846
+  date: '1983-06-09'
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:282714:por
+  label: "Revogado pelo DEC LEI.35/88.04.02.1988.ME, DR.IS [29] de 04.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1988-282714
+  date: '1988-02-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:04Z'
   warnings: []
   errors: []
 ---
@@ -104,23 +149,23 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Do quadro geral de professores do ensino primário
 
-###### Artigo 1.º - 1 - O quadro geral de professores do ensino primário funciona como quadro único e é constituído pelo somatório dos lugares criados em cada escola primária do continente.
+Artigo 1.º - 1 - O quadro geral de professores do ensino primário funciona como quadro único e é constituído pelo somatório dos lugares criados em cada escola primária do continente.
 
 2 - Os lugares criados em cada escola constituem o quadro privativo dessa mesma escola e integram-se, para todos os efeitos legais, no quadro único referido no número anterior.
 
 3 - Os professores pertencentes ao quadro geral são designados professores efectivos.
 
-###### Art. 2.º - 1 - Os lugares do quadro de cada escola do ensino primário serão estabelecidos no acto que proceder à sua criação.
+Art. 2.º - 1 - Os lugares do quadro de cada escola do ensino primário serão estabelecidos no acto que proceder à sua criação.
 
 2 - Os lugares do quadro de cada escola do ensino primário poderão ser alterados, ano a ano, dentro dos limites da lei, por despacho do Ministro da Educação e das Universidades, com base na respectiva frequência em 15 de Outubro.
 
 ### CAPÍTULO II — Do provimento dos lugares do quadro geral
 
-###### Art. 3.º - 1 - O provimento dos lugares do quadro geral far-se-á por concurso anual, a abrir, mediante aviso a publicar no Diário da República, pela Direcção-Geral de Pessoal até 31 de Janeiro de cada ano.
+Art. 3.º - 1 - O provimento dos lugares do quadro geral far-se-á por concurso anual, a abrir, mediante aviso a publicar no Diário da República, pela Direcção-Geral de Pessoal até 31 de Janeiro de cada ano.
 
 2 - O director-geral de Pessoal poderá, em casos excepcionais devidamente justificados, alterar, por despacho a publicar no Diário da República, a data referida no número anterior.
 
-###### Art. 4.º - 1 - Os lugares do quadro geral de cada escola primária serão postos a concurso de acordo com as necessidades fundamentadas do respectivo estabelecimento.
+Art. 4.º - 1 - Os lugares do quadro geral de cada escola primária serão postos a concurso de acordo com as necessidades fundamentadas do respectivo estabelecimento.
 
 2 - A relação dos lugares a preencher pelo concurso referido no número anterior e a qual constará do aviso mencionado no artigo 5.º basear-se-á:
 
@@ -130,7 +175,7 @@ b) Na disponibilidade de lugares após a aplicação do disposto no artigo 20.º
 
 ### CAPÍTULO III — Da apresentação a concurso
 
-###### Art. 5.º - 1 - O prazo para requerer a admissão ao concurso é de 10 dias úteis, contados a partir do dia seguinte ao da publicação no Diário da República do aviso referido no n.º 1 do artigo 3.º do presente diploma.
+Art. 5.º - 1 - O prazo para requerer a admissão ao concurso é de 10 dias úteis, contados a partir do dia seguinte ao da publicação no Diário da República do aviso referido no n.º 1 do artigo 3.º do presente diploma.
 
 2 - O prazo a que se refere o número anterior beneficiará de uma dilação de 20 dias para os candidatos que se encontrem numa das seguintes situações:
 
@@ -140,17 +185,17 @@ b) Estejam como cooperantes em países de expressão portuguesa;
 
 c) Se encontrem ao serviço no âmbito do ensino português no estrangeiro.
 
-###### Art. 6.º - 1 - A admissão a concurso será feita através do preenchimento de um boletim de concurso e de uma ficha, a editar pela Imprensa Nacional-Casa da Moeda.
+Art. 6.º - 1 - A admissão a concurso será feita através do preenchimento de um boletim de concurso e de uma ficha, a editar pela Imprensa Nacional-Casa da Moeda.
 
 2 - Os documentos referidos no número anterior serão entregues nas delegações escolares, que confirmarão, se for caso disso, os elementos deles constantes, ou nas estações oficiais referenciadas no respectivo aviso de abertura do concurso.
 
-###### Art. 7.º O concurso realiza-se com recuperação automática de vagas de forma que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
+Art. 7.º O concurso realiza-se com recuperação automática de vagas de forma que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
 
-###### Art. 8.º - 1 - O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Diário da República da data da vacatura do lugar, coincidindo esta com a data do despacho que autorize a transferência do antigo titular.
+Art. 8.º - 1 - O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Diário da República da data da vacatura do lugar, coincidindo esta com a data do despacho que autorize a transferência do antigo titular.
 
 2 - A Direcção-Geral de Pessoal poderá, nomeadamente por inexistência de frequência, proceder à não recuperação de lugares que tenham ficado vagos em resultado de transferência dos respectivos titulares.
 
-###### Art. 9.º Podem ser opositores ao concurso referido no n.º 1 do artigo 3.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
+Art. 9.º Podem ser opositores ao concurso referido no n.º 1 do artigo 3.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
 
 a) Professores efectivos, ainda que na situação de licença ilimitada há mais de 1 ano;
 
@@ -158,7 +203,7 @@ b) Candidatos habilitados com o curso das escolas do magistério primário ou eq
 
 ### CAPÍTULO IV — Da ordenação dos candidatos
 
-###### Art. 10.º - 1 - Dentro de cada uma das situações referidas no artigo anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
+Art. 10.º - 1 - Dentro de cada uma das situações referidas no artigo anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
 
 a) Classificação profissional;
 
@@ -170,7 +215,7 @@ d) Tempo de serviço docente prestado antes da profissionalização no ensino pr
 
 2 - A classificação profissional corresponde, para todos os efeitos legais, à classificação final obtida nos cursos geral ou especial das escolas do magistério primário ou equivalente, determinada nos termos da legislação vigente.
 
-###### Art. 11.º - 1 - A graduação profissional de cada candidato é a classificação profissional, acrescida de 1 valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do n.º 1 do artigo anterior, e até ao limite de 20 valores.
+Art. 11.º - 1 - A graduação profissional de cada candidato é a classificação profissional, acrescida de 1 valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do n.º 1 do artigo anterior, e até ao limite de 20 valores.
 
 2 - O número de anos de serviço mencionado no número anterior é o quociente inteiro da divisão por 365 do número de dias de serviço prestado desde o dia 1 de Setembro do ano em que o professor se profissionalizou para o ensino primário até 30 de Setembro imediatamente anterior à data de abertura do concurso.
 
@@ -186,7 +231,7 @@ b) O tempo referido no [Decreto-Lei n.º 216/80](https://diariodarepublica.pt/dr
 
 c) O tempo de serviço militar obrigatório, desde que prestado após a profissionalização como professor do ensino primário.
 
-###### Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo 11.º os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
+Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo 11.º os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
 
 2 - Em caso de empate, prefere, sucessivamente:
 
@@ -198,7 +243,7 @@ c) O candidato com maior número de dias, calculado nos termos da alínea d) do 
 
 d) O candidato mais idoso.
 
-###### Art. 13.º - 1 - Para efeitos de preenchimento, os lugares do quadro geral distribuem-se por direcções escolares.
+Art. 13.º - 1 - Para efeitos de preenchimento, os lugares do quadro geral distribuem-se por direcções escolares.
 
 2 - Ainda para efeitos do disposto no número anterior, as direcções escolares agrupam-se em zonas, conforme consta do mapa anexo ao presente diploma.
 
@@ -206,7 +251,7 @@ d) O candidato mais idoso.
 
 ### CAPÍTULO V — Do mecanismo do concurso
 
-###### Art. 14.º - 1 - Dos impressos referidos no n.º 1 do artigo 6.º constarão, obrigatoriamente:
+Art. 14.º - 1 - Dos impressos referidos no n.º 1 do artigo 6.º constarão, obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -222,9 +267,9 @@ f) Código das escolas primárias, dos concelhos, dos distritos escolares e das 
 
 2 - As delegações escolares e demais estações oficiais referidas no n.º 2 do artigo 6.º, após cumprido o disposto no mesmo número, farão entrega dos originais dos impressos conforme for determinado no aviso de abertura do concurso.
 
-###### Art. 15.º Compete à Direcção-Geral de Pessoal realizar o concurso para o preenchimento dos lugares vagos no quadro geral dos professores do ensino primário, podendo, para o efeito, utilizar técnicas de informática.
+Art. 15.º Compete à Direcção-Geral de Pessoal realizar o concurso para o preenchimento dos lugares vagos no quadro geral dos professores do ensino primário, podendo, para o efeito, utilizar técnicas de informática.
 
-###### Art. 16.º - 1 - Os candidatos ao concurso indicarão as suas preferências num só boletim, de acordo com o referido em uma ou mais das alíneas seguintes:
+Art. 16.º - 1 - Os candidatos ao concurso indicarão as suas preferências num só boletim, de acordo com o referido em uma ou mais das alíneas seguintes:
 
 a) Código das escolas primárias do continente, até ao limite de 50;
 
@@ -240,7 +285,7 @@ a) Logo que o candidato obtenha colocação deixa de ser considerado como tal em
 
 b) Mantém, todavia, a possibilidade de obter colocação noutra escola de entre aquelas a que concorreu, nos termos deste artigo, segundo os códigos a que tenha conferido preferência.
 
-###### Art. 17.º - 1 - A lista provisória de ordenação dos candidatos será publicada no Diário da República, podendo os mesmos, no prazo de 8 dias úteis, a contar do dia seguinte ao da data da publicação, reclamar da sua ordenação, sendo, porém, aplicável o disposto no n.º 2 do artigo 5.º para os candidatos nele mencionados.
+Art. 17.º - 1 - A lista provisória de ordenação dos candidatos será publicada no Diário da República, podendo os mesmos, no prazo de 8 dias úteis, a contar do dia seguinte ao da data da publicação, reclamar da sua ordenação, sendo, porém, aplicável o disposto no n.º 2 do artigo 5.º para os candidatos nele mencionados.
 
 2 - É da competência do director-geral de Pessoal a decisão sobre as reclamações referidas no número anterior, que só serão consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais em vigor.
 
@@ -252,13 +297,13 @@ b) Mantém, todavia, a possibilidade de obter colocação noutra escola de entre
 
 6 - As desistências do concurso só serão permitidas dentro do prazo de reclamação previsto no n.º 1 deste artigo, devendo ser apresentado o respectivo pedido em papel selado com a assinatura do interessado reconhecida notarialmente.
 
-###### Art. 18.º Para todos os efeitos considera-se que a não apresentação de reclamação, por parte dos candidatos, à lista referida no n.º 1 do artigo anterior equivale à aceitação tácita da mesma lista, dela resultando a intempestividade do recurso hierárquico previsto no n.º 4 do mesmo artigo.
+Art. 18.º Para todos os efeitos considera-se que a não apresentação de reclamação, por parte dos candidatos, à lista referida no n.º 1 do artigo anterior equivale à aceitação tácita da mesma lista, dela resultando a intempestividade do recurso hierárquico previsto no n.º 4 do mesmo artigo.
 
 ### CAPÍTULO VI — Forma de provimento e seus efeitos
 
-###### Art. 19.º O provimento dos professores efectivos do ensino primário entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
+Art. 19.º O provimento dos professores efectivos do ensino primário entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
 
-###### Art. 20.º - 1 - Até ao dia 15 de Setembro do ano escolar a que o concurso respeita, mas com efeitos reportados a 1 de Setembro do mesmo ano escolar, os professores efectivos do ensino primário tomarão, na sequência do concurso previsto neste diploma, posse provisória seguida de exercício, dos lugares que, de acordo com a lista definitiva, lhes hajam sido atribuídos, lavrando-se para o efeito o competente termo.
+Art. 20.º - 1 - Até ao dia 15 de Setembro do ano escolar a que o concurso respeita, mas com efeitos reportados a 1 de Setembro do mesmo ano escolar, os professores efectivos do ensino primário tomarão, na sequência do concurso previsto neste diploma, posse provisória seguida de exercício, dos lugares que, de acordo com a lista definitiva, lhes hajam sido atribuídos, lavrando-se para o efeito o competente termo.
 
 2 - A posse provisória referida no número anterior transformar-se-á em definitiva após a publicação do provimento no Diário da República, procedendo-se, para o efeito, à respectiva anotação no termo de posse provisória.
 
@@ -266,7 +311,7 @@ b) Mantém, todavia, a possibilidade de obter colocação noutra escola de entre
 
 4 - Os professores já efectivos que por efeitos de transferência adquirirem direito ao provimento em lugar de quadro de outra escola apresentar-se-ão ao serviço nos novos lugares no primeiro dia do ano escolar ou no termo da respectiva licença para férias, devendo tomar posse do lugar no prazo de 30 dias após a publicação no Diário da República do competente provimento.
 
-###### Art. 21.º - 1 - A não comparência dos professores para efeitos do disposto no n.º 1 do artigo anterior, bem como a declaração expressa antecipada de não tomar posse do respectivo lugar, determinam:
+Art. 21.º - 1 - A não comparência dos professores para efeitos do disposto no n.º 1 do artigo anterior, bem como a declaração expressa antecipada de não tomar posse do respectivo lugar, determinam:
 
 a) A anulação da nomeação;
 
@@ -278,7 +323,7 @@ b) A impossibilidade de, no respectivo ano lectivo e no seguinte, serem colocado
 
 4 - A não apresentação e a não tomada de posse, nos termos do n.º 4 do artigo 20.º, dos professores efectivos na nova escola atribuída como resultado de concurso determina a sua exoneração do quadro geral, podendo porém candidatar-se à inscrição e prestação de serviço como professor profissionalizado não efectivo.
 
-###### Art. 22.º - 1 - No caso de ao provimento dos professores efectivos do ensino primário ser recusado o visto do Tribunal de Contas, considera-se nula e de nenhum efeito a posse provisória mencionada no artigo 20.º, a qual não originará, porém, para o interessado, a perda da qualidade de professor, salvo se for a falta daquela qualidade o fundamento da recusa.
+Art. 22.º - 1 - No caso de ao provimento dos professores efectivos do ensino primário ser recusado o visto do Tribunal de Contas, considera-se nula e de nenhum efeito a posse provisória mencionada no artigo 20.º, a qual não originará, porém, para o interessado, a perda da qualidade de professor, salvo se for a falta daquela qualidade o fundamento da recusa.
 
 2 - Até ao conhecimento oficial pela respectiva direcção escolar da recusa de visto, são devidos os abonos aos interessados, na qualidade de professores efectivos na 1.ª fase.
 
@@ -288,9 +333,9 @@ b) A impossibilidade de, no respectivo ano lectivo e no seguinte, serem colocado
 
 5 - O disposto no número anterior não é aplicável nos casos em que a recusa do visto se fundamentar na falta de posse da respectiva habilitação profissional ou em inibição para o exercício da função pública, caso em que o interessado cessará imediatamente o exercício de funções.
 
-###### Art. 23.º A posse provisória mencionada no artigo 20.º do presente diploma confere ao respectivo professor todos os direitos e deveres inerentes à qualidade de professor efectivo.
+Art. 23.º A posse provisória mencionada no artigo 20.º do presente diploma confere ao respectivo professor todos os direitos e deveres inerentes à qualidade de professor efectivo.
 
-###### Art. 24.º - 1 - O provimento dos professores efectivos do ensino primário determina para os mesmos o direito à atribuição das 2.ª, 3.ª ou 4.ª fases previstas no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, consoante o tempo de serviço anteriormente prestado.
+Art. 24.º - 1 - O provimento dos professores efectivos do ensino primário determina para os mesmos o direito à atribuição das 2.ª, 3.ª ou 4.ª fases previstas no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, consoante o tempo de serviço anteriormente prestado.
 
 2 - Para efeitos do disposto no número anterior é contado todo o tempo de serviço docente anteriormente prestado nas seguintes condições:
 
@@ -302,54 +347,54 @@ b) A partir de 7 de Maio de 1976, inclusive, todo o tempo de serviço prestado, 
 
 ### CAPÍTULO VII — Da colocação de professores não efectivos
 
-###### Art. 25.º O preenchimento de lugares vagos e disponíveis existentes nas escolas primárias que não possa ser assegurado por professores efectivos será feito de acordo com regras a estabelecer em decreto-lei.
+Art. 25.º O preenchimento de lugares vagos e disponíveis existentes nas escolas primárias que não possa ser assegurado por professores efectivos será feito de acordo com regras a estabelecer em decreto-lei.
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 26.º - 1 - Sempre que uma escola primária deixar de ter frequência superior a 15 alunos, poderá o funcionamento da mesma ser suspenso por despacho ministerial.
+Art. 26.º - 1 - Sempre que uma escola primária deixar de ter frequência superior a 15 alunos, poderá o funcionamento da mesma ser suspenso por despacho ministerial.
 
 2 - A suspensão prevista no número anterior só poderá, porém, verificar-se desde que exista alternativa que permita o cumprimento da escolaridade obrigatória por parte dos respectivos alunos fundamentada em pareceres da Direcção-Geral do Ensino Básico e do Instituto de Acção Social Escolar.
 
 3 - Poderá igualmente ser mandado reactivar, por despacho ministerial, o funcionamento da escola, desde que deixe de existir o motivo de suspensão daquele funcionamento.
 
-###### Art. 27.º - 1 - Sempre que numa escola primária com mais de 1 lugar de professor se verifique que a cada lugar provido não corresponde a frequência de, pelo menos, 15 alunos, poderá ser determinada, por despacho ministerial, a suspensão de 1 ou mais desses lugares.
+Art. 27.º - 1 - Sempre que numa escola primária com mais de 1 lugar de professor se verifique que a cada lugar provido não corresponde a frequência de, pelo menos, 15 alunos, poderá ser determinada, por despacho ministerial, a suspensão de 1 ou mais desses lugares.
 
 2 - A suspensão poderá ser dada por finda desde que o aumento de frequência o justifique ou mediante proposta fundamentada da Direcção-Geral do Ensino Básico.
 
-###### Art. 28.º - 1 - O titular ou titulares de lugares do quadro das escolas primárias cujo funcionamento seja mandado suspender nos termos dos artigos 26.º e 27.º poderão ser mandados prestar serviço em escola que não se situe para além de 30 km da primeira, independentemente da categoria da respectiva localidade.
+Art. 28.º - 1 - O titular ou titulares de lugares do quadro das escolas primárias cujo funcionamento seja mandado suspender nos termos dos artigos 26.º e 27.º poderão ser mandados prestar serviço em escola que não se situe para além de 30 km da primeira, independentemente da categoria da respectiva localidade.
 
 2 - Desde que o interessado dê o seu acordo, poderá o director-geral de Pessoal mandar prestar serviço em qualquer escola primária os professores referidos no n.º 1 deste artigo.
 
-###### Art. 29.º - 1 - Os titulares de lugares que hajam sido suspensos nos termos dos artigos 26.º e 27.º poderão ainda ser afectados ao exercício de funções ligadas ao ensino primário, nos termos de regras a estabelecer por despacho ministerial, sendo, para o efeito, solicitada a participação dos sindicatos dos professores.
+Art. 29.º - 1 - Os titulares de lugares que hajam sido suspensos nos termos dos artigos 26.º e 27.º poderão ainda ser afectados ao exercício de funções ligadas ao ensino primário, nos termos de regras a estabelecer por despacho ministerial, sendo, para o efeito, solicitada a participação dos sindicatos dos professores.
 
 2 - Salvo com o acordo do interessado, as deslocações resultantes do disposto no número anterior não poderão efectuar-se para além de 30 km da residência do professor.
 
 3 - Às deslocações referidas neste artigo serão aplicáveis os regimes de destacamento ou de requisição, consoante os casos, previstos no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 30.º Os titulares de lugares que tenham sido abrangidos pelo disposto nos artigo 26.º, 27.º e 28.º do presente diploma regressarão aos seus lugares de origem logo que os mesmos entrem em funcionamento, salvo se, por efeitos de concurso, tenham adquirido direito ao provimento em lugar do quadro de outra escola.
+Art. 30.º Os titulares de lugares que tenham sido abrangidos pelo disposto nos artigo 26.º, 27.º e 28.º do presente diploma regressarão aos seus lugares de origem logo que os mesmos entrem em funcionamento, salvo se, por efeitos de concurso, tenham adquirido direito ao provimento em lugar do quadro de outra escola.
 
-###### Art. 31.º Aos professores efectivos que, por efeitos de concurso, sejam considerados em excesso em determinada escola, é aplicável o disposto nos artigos 26.º a 29.º do presente diploma.
+Art. 31.º Aos professores efectivos que, por efeitos de concurso, sejam considerados em excesso em determinada escola, é aplicável o disposto nos artigos 26.º a 29.º do presente diploma.
 
-###### Art. 32.º As situações pendentes à data da publicação do presente diploma e resultantes da suspensão e extinção de lugares em escolas do ensino primário serão resolvidas de acordo com as regras estabelecidas sobre a matéria nos Decretos-Leis n.os [220/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1979-382057) e [412/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1980-461650), respectivamente de 17 de Julho e 27 de Setembro, salvo se os interessados optarem pela resolução das suas situações ao abrigo do disposto no presente diploma.
+Art. 32.º As situações pendentes à data da publicação do presente diploma e resultantes da suspensão e extinção de lugares em escolas do ensino primário serão resolvidas de acordo com as regras estabelecidas sobre a matéria nos Decretos-Leis n.os [220/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1979-382057) e [412/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1980-461650), respectivamente de 17 de Julho e 27 de Setembro, salvo se os interessados optarem pela resolução das suas situações ao abrigo do disposto no presente diploma.
 
-###### Art. 33.º - 1 - São competentes para conferir posse aos professores efectivos do ensino primário os delegados escolares respectivos.
+Art. 33.º - 1 - São competentes para conferir posse aos professores efectivos do ensino primário os delegados escolares respectivos.
 
 2 - Após a tomada de posse, o original do respectivo termo será remetido à respectiva direcção escolar e serão feitas as competentes comunicações de posse, nos termos legais em vigor, pela delegação escolar.
 
-###### Art. 34.º O disposto no presente diploma será aplicável às Regiões Autónomas dos Açores e da Madeira, em termos a fixar por decreto regional.
+Art. 34.º O disposto no presente diploma será aplicável às Regiões Autónomas dos Açores e da Madeira, em termos a fixar por decreto regional.
 
-###### Art. 35.º O presente diploma poderá ser regulamentado por portaria do Ministro da Educação e das Universidades.
+Art. 35.º O presente diploma poderá ser regulamentado por portaria do Ministro da Educação e das Universidades.
 
-###### Art. 36.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
+Art. 36.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 28 de Janeiro de 1982.**
+Promulgado em 28 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o n.º 2 do artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/02401/00010005.pdf))](https://files.diariodarepublica.pt/1s/1982/01/02401/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/02401/00010005.pdf)

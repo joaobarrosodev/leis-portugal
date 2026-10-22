@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16200/09820983.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1975-336552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ac3f023c4a8295eea9dbcd4d620de078723265667f55408a8b4cba2dff7c805
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ad60eb6025ea11410431977ece1380f5bbe9cf6c671c12cb5d178d433e685ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Administração Geral do Porto de Lisboa
+- Auditoria Jurídica
+- Companhia Nacional de Navegação
+- Companhia Portuguesa de Transportes Marítimos
+- Conselho Superior de Marinha Mercante
+- Conselho Superior de Obras Públicas e Transportes
+- CP
+- CTT
+- Direcção Geral da Aeronáutica Civil
+- Direcção Geral da Marinha do Comércio
+- Direcção Geral de Estudos Náuticos
+- Direcção Geral de Portos
+- Direcção Geral de Viação
+- Direcção Geral do Pessoal do MAR
+- Direcção Geral dos Transportes Terrestres
+- Empresa Nacionalizada
+- Fundo Especial de Transportes Terrestres
+- Gabinete de Estudos e Planeamento
+- Inspecção Geral de Navios
+- Ministério dos Transportes e Comunicações
+- OBRA Social
+- Orgânica
+- Secretaria de Estado da Marinha Mercante
+- Secretaria de Estado dos Transportes e Comunicações
+- Secretaria Geral
+- TAP
+- TLP
+- Tutela
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312205:por
+  label: "Aditado um nº 4 ao art. 3º pelo DEC LEI.541/75.27.09.1975.MTC, DG.IS [224] de 27.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/541-1975-312205
+  date: '1975-09-27'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:366840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685590:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442320:por
+  label: "Revogado o n.º 3 do artigo 3.º pelo DEC LEI.360/83.14.09.1983.PCM, DR.IS [212] de 14.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1983-442320
+  date: '1983-09-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:45Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +161,7 @@ Nestes termos:
 
 Usando dos poderes conferidos pela alínea 3) do n.º 1 do artigo 3.º da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministério dos Transportes e Comunicações, criado pelo artigo 8.º do [Decreto-Lei n.º 158-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-a-1975-366840), de 26 de Março, compreende as Secretarias de Estado seguintes:
+Artigo 1.º - 1. O Ministério dos Transportes e Comunicações, criado pelo artigo 8.º do [Decreto-Lei n.º 158-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-a-1975-366840), de 26 de Março, compreende as Secretarias de Estado seguintes:
 
 a) Secretaria de Estado dos Transportes e Comunicações;
 
@@ -112,7 +169,7 @@ b) Secretaria de Estado da Marinha Mercante.
 
 2. O Secretário de Estado dos Transportes e Comunicações é coadjuvado por um Subsecretário de Estado dos Transportes.
 
-###### Art. 2.º - 1. Dependem directamente do Ministro dos Transportes e Comunicações:
+Art. 2.º - 1. Dependem directamente do Ministro dos Transportes e Comunicações:
 
 a) A Secretaria-Geral;
 
@@ -128,7 +185,7 @@ c) O Gabinete de Estudos e Planeamento de Transportes e Comunicações.
 
 5. O Ministro dos Transportes e Comunicações e o Ministro do Equipamento Social e do Ambiente poderão, mediante despacho conjunto, separar, a todo o tempo, os departamentos a que se refere o n.º 2 do presente artigo, sem prejuízo de regulamentação própria a publicar.
 
-###### Art. 3.º - 1. A Secretaria de Estado dos Transportes e Comunicações compreende os departamentos seguintes:
+Art. 3.º - 1. A Secretaria de Estado dos Transportes e Comunicações compreende os departamentos seguintes:
 
 a) Direcção-Geral da Aeronáutica Civil;
 
@@ -162,7 +219,7 @@ h) Inspecção-Geral de Navios.
 
 3. O planeamento de transportes e exploração rodoviária - circulação nas infra-estruturas viárias e cobrança de portagens -, actualmente a cargo da Junta Autónoma de Estradas, passa a depender da Secretaria de Estado dos Transportes e Comunicações, com estatuto a definir oportunamente.
 
-###### Art. 4.º Encontram-se sujeitos a tutela administrativa do Governo, exercida pelo Ministério dos Transportes e Comunicações:
+Art. 4.º Encontram-se sujeitos a tutela administrativa do Governo, exercida pelo Ministério dos Transportes e Comunicações:
 
 1. As empresas nacionalizadas seguintes:
 
@@ -180,22 +237,22 @@ f) Companhia Portuguesa de Transportes Marítimos;
 
 2. As empresas do sector de transportes e comunicações que venham a ser transformadas em empresas nacionalizadas ou outras que eventualmente venham a ser criadas com igual estatuto.
 
-###### Art. 5.º Encontram-se sob tutela do Governo, exercida pelo Ministério dos Transportes e Comunicações, todas as empresas concessionárias de serviço público do sector de transportes e comunicações.
+Art. 5.º Encontram-se sob tutela do Governo, exercida pelo Ministério dos Transportes e Comunicações, todas as empresas concessionárias de serviço público do sector de transportes e comunicações.
 
-###### Art. 6.º - 1. O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+Art. 6.º - 1. O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
 
 2. Até ao final do ano corrente, porém, os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério do Equipamento Social e do Ambiente para o corrente ano com os necessários ajustamentos e reforços indispensáveis à cobertura das despesas previstas.
 
-###### Art. 7.º - 1. É revogada toda a legislação em contrário, designadamente o [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio, no que se encontra contemplado no presente diploma.
+Art. 7.º - 1. É revogada toda a legislação em contrário, designadamente o [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio, no que se encontra contemplado no presente diploma.
 
 2. É revogada, identicamente, toda a legislação que pressupunha a gestão comum dos sectores das Obras Públicas e dos Transportes e Comunicações, designadamente o artigo 4.º do [Decreto-Lei n.º 525/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1972-685590), de 19 de Dezembro.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Augusto Fernandes - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 7 de Julho de 1975.**
+Promulgado em 7 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/295-1971-642762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:18:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7230460b899ec1160e81fed8e03203c2da1460399e6e182da00de12f2b6652e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b314362ba3f22f224676de8fb211ca0505a2a68f87174c24ea7e029b07ea4999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:18:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:18:12Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +90,18 @@ Sob proposta do Governo da província da Guiné e nos termos do § 1.º do artig
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a província da Guiné a participar na constituição da Sociedade Editora da Guiné, com sede na cidade de Bissau.
+Artigo 1.º É autorizada a província da Guiné a participar na constituição da Sociedade Editora da Guiné, com sede na cidade de Bissau.
 
-###### Art. 2.º Para realização da sua participação na referida Sociedade fica a província autorizada a subscrever acções até ao montante de 2000000$00.
+Art. 2.º Para realização da sua participação na referida Sociedade fica a província autorizada a subscrever acções até ao montante de 2000000$00.
 
-###### Art. 3.º A subscrição do capital fica condicionada a prévia aprovação dos estatutos da Sociedade pelo governador da província.
+Art. 3.º A subscrição do capital fica condicionada a prévia aprovação dos estatutos da Sociedade pelo governador da província.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1971.**
+Promulgado em 29 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial da Guiné. - J. da Silva Cunha.

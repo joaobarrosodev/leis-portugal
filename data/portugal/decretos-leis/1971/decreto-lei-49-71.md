@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1971-446899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8842ef2970943045a5433dbebf35092d0167e6858ad0da6d579921ef57509c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 778902e5a8e01f53f48b2af901b75aeb0dbc4686084da0bf5b34bca4359086ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Curso
+- Escola Superior da Força Aérea
+- Estabelecimento de Ensino
+- Força Aérea
+- Militar
+- Pessoal Docente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:327312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310268:por
+  label: "Alterados os arts. 2º, 4º, 7º, 10º, 11º, 12º, 13º e 16º pelo DEC LEI.641/75.15.11.1975.CR, DG.IS [265] de 15.11.1975\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/641-1975-310268
+  date: '1975-11-15'
+- type: amended_by
+  target: pt:dre:327312:por
+  label: "Desactivada a Escola Superior da Força Aérea, e revogado o presente diploma, exceptuando-se o art. 16º, com a redacção\
+    \ conferida pelo Dec Lei 641/75 de 15-Nov, pelo DEC LEI.318/78.04.11.1978.CR, DR.IS [254] de 04.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1978-327312
+  date: '1978-11-04'
+- type: cites
+  target: pt:dre:176302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561458:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:445496:por
+  label: "Rectificado o nº3 do art. 7º e o art. 20º do presente diploma, pela RECT.DD427.18.03.1971.PC, DG.IS [65] de 18.03.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-445496
+  date: '1971-03-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:46Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +148,7 @@ I
 
 Da Escola Superior da Força Aérea e suas finalidades
 
-###### Artigo 1.º - 1. É constituída a Escola Superior da Força Aérea, que funcionará sob a orientação do chefe do Estado-Maior da Força Aérea, com as finalidades essenciais de:
+Artigo 1.º - 1. É constituída a Escola Superior da Força Aérea, que funcionará sob a orientação do chefe do Estado-Maior da Força Aérea, com as finalidades essenciais de:
 
 a) Preparar oficiais da Força Aérea para o exercício de funções como oficiais superiores, no comando de unidades e chefia de serviços da Força Aérea, e para o desempenho de funções de estado-maior, designadamente em estados-maiores de comandos aéreos, estados-maiores conjuntos e interaliados;
 
@@ -114,11 +160,11 @@ II
 
 Da organização do ensino e equivalências de cursos
 
-###### Art. 2.º - 1. Para consecução das finalidades essenciais constantes do artigo anterior, funcionam na Escola Superior da Força Aérea o curso geral de guerra aérea, para oficiais pilotos aviadores, o curso de chefia de serviços, para oficiais engenheiros, médicos e de intendência e contabilidade, e o curso de aperfeiçoamento, para oficiais pilotos navegadores, técnicos e do serviço geral.
+Art. 2.º - 1. Para consecução das finalidades essenciais constantes do artigo anterior, funcionam na Escola Superior da Força Aérea o curso geral de guerra aérea, para oficiais pilotos aviadores, o curso de chefia de serviços, para oficiais engenheiros, médicos e de intendência e contabilidade, e o curso de aperfeiçoamento, para oficiais pilotos navegadores, técnicos e do serviço geral.
 
 2. Na Escola podem também funcionar estágios e cursos de actualização e outros que a experiência venha a aconselhar para oficiais habilitados com os cursos referidos no n.º 1 deste artigo.
 
-###### Art. 3.º - 1. As matérias que constituem os cursos referidos no artigo 2.º incluem-se nas seguintes rubricas gerais:
+Art. 3.º - 1. As matérias que constituem os cursos referidos no artigo 2.º incluem-se nas seguintes rubricas gerais:
 
 a) Organização e emprego da Força Aérea;
 
@@ -144,19 +190,19 @@ i) Línguas estrangeiras.
 
 4. O ensino será ministrado através de lições, conferências, trabalhos de aplicação individuais e colectivos, viagens e visitas de estudo.
 
-###### Art. 4.º - 1. A duração do curso geral de guerra aérea, do curso de chefia de serviços e do curso de aperfeiçoamento não deverá exceder doze, oito e seis meses, respectivamente, e será fixada por despacho do Secretário de Estado da Aeronáutica.
+Art. 4.º - 1. A duração do curso geral de guerra aérea, do curso de chefia de serviços e do curso de aperfeiçoamento não deverá exceder doze, oito e seis meses, respectivamente, e será fixada por despacho do Secretário de Estado da Aeronáutica.
 
 2. Sem prejuízo das durações estabelecidas, os cursos poderão ser precedidos de uma fase preparatória.
 
-###### Art. 5.º A habilitação com o curso geral de guerra aérea é condição bastante para o desempenho das funções de estado-maior, que, por legislação anterior, expressamente exigiam qualificação especial.
+Art. 5.º A habilitação com o curso geral de guerra aérea é condição bastante para o desempenho das funções de estado-maior, que, por legislação anterior, expressamente exigiam qualificação especial.
 
-###### Art. 6.º Os oficiais que tenham concluído ou venham a concluir com aproveitamento outros cursos, nacionais ou estrangeiros, cuja finalidade, reconhecida em despacho do Secretário de Estado da Aeronáutica, inclua a preparação para funções de estado-maior, são considerados como tendo o curso geral de guerra aérea.
+Art. 6.º Os oficiais que tenham concluído ou venham a concluir com aproveitamento outros cursos, nacionais ou estrangeiros, cuja finalidade, reconhecida em despacho do Secretário de Estado da Aeronáutica, inclua a preparação para funções de estado-maior, são considerados como tendo o curso geral de guerra aérea.
 
 III
 
 Do corpo docente
 
-###### Art. 7.º - 1. A direcção da Escola Superior da Força Aérea é exercida por um coronel piloto aviador, que orienta e superintende nas actividades da Escola e dirige superiormente os cursos que nela funcionam.
+Art. 7.º - 1. A direcção da Escola Superior da Força Aérea é exercida por um coronel piloto aviador, que orienta e superintende nas actividades da Escola e dirige superiormente os cursos que nela funcionam.
 
 2. O corpo docente é constituído pelo director da Escola e por todos os professores das matérias nela ministradas, designadamente:
 
@@ -176,7 +222,7 @@ f) Professores civis contratados, até ao máximo de três.
 
 4. Os professores civis contratados serão individualidades de reconhecida competência e idoneidade para ministrar as matérias que pela sua natureza o aconselhem.
 
-###### Art. 8.º - 1. As nomeações dos professores efectivos da Força Aérea e dos professores adjuntos e eventuais são feitas pelo Secretário de Estado da Aeronáutica.
+Art. 8.º - 1. As nomeações dos professores efectivos da Força Aérea e dos professores adjuntos e eventuais são feitas pelo Secretário de Estado da Aeronáutica.
 
 2. As nomeações dos professores efectivos oficiais do Exército e da Armada são feitas, respectivamente, pelo Ministro do Exército e pelo Ministro da Marinha, conjuntamente com o Secretário de Estado da Aeronáutica.
 
@@ -186,9 +232,9 @@ f) Professores civis contratados, até ao máximo de três.
 
 5. Os professores eventuais só poderão ser nomeados quando necessidades especiais de ensino o justificarem e por período que não excederá o ano lectivo para que a nomeação se verificar.
 
-###### Art. 9.º O director e os professores efectivos da Força Aérea são considerados adidos aos quadros respectivos.
+Art. 9.º O director e os professores efectivos da Força Aérea são considerados adidos aos quadros respectivos.
 
-###### Art. 10.º - 1. Para a orientação pedagógica dos cursos existe um conselho escolar, presidido pelo director e constituído pelos professores efectivos da Escola, ao qual compete a organização do plano de estudos, a programação do ensino e a avaliação e classificação de aproveitamento dos alunos.
+Art. 10.º - 1. Para a orientação pedagógica dos cursos existe um conselho escolar, presidido pelo director e constituído pelos professores efectivos da Escola, ao qual compete a organização do plano de estudos, a programação do ensino e a avaliação e classificação de aproveitamento dos alunos.
 
 2. Os professores adjuntos e eventuais assistem às reuniões do conselho escolar, quando convocados.
 
@@ -196,19 +242,19 @@ IV
 
 Do regime de frequência
 
-###### Art. 11.º A frequência dos cursos da Escola Superior da Força Aérea não é acumulável com outros serviços.
+Art. 11.º A frequência dos cursos da Escola Superior da Força Aérea não é acumulável com outros serviços.
 
-###### Art. 12.º O aproveitamento escolar será avaliado por meio de provas, nomeadamente exposições orais, trabalhos escritos, exames de frequência e exames finais, e outros aspectos significativos do comportamento escolar, sendo a classificação a atribuir a cada aluno no final do curso expressa da seguinte forma: com aproveitamento de Muito bom, de Bom ou de Suficiente e sem aproveitamento. Consideram-se habilitados com os cursos os oficiais classificados com aproveitamento.
+Art. 12.º O aproveitamento escolar será avaliado por meio de provas, nomeadamente exposições orais, trabalhos escritos, exames de frequência e exames finais, e outros aspectos significativos do comportamento escolar, sendo a classificação a atribuir a cada aluno no final do curso expressa da seguinte forma: com aproveitamento de Muito bom, de Bom ou de Suficiente e sem aproveitamento. Consideram-se habilitados com os cursos os oficiais classificados com aproveitamento.
 
-###### Art. 13.º Não se consideram com aproveitamento os alunos que faltem a mais de um quinto dos dias úteis de trabalhos escolares.
+Art. 13.º Não se consideram com aproveitamento os alunos que faltem a mais de um quinto dos dias úteis de trabalhos escolares.
 
-###### Art. 14.º O conselho escolar pode, antes do fim de cada curso, apreciar casos especiais de falta de aproveitamento e, em consequência, propor eliminações imediatas.
+Art. 14.º O conselho escolar pode, antes do fim de cada curso, apreciar casos especiais de falta de aproveitamento e, em consequência, propor eliminações imediatas.
 
 V
 
 Da administração e diversas
 
-###### Art. 15.º - 1. O director e os oficiais professores em exercício na Escola têm direito à gratificação mensal prevista na alínea b) do n.º 3.º do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, actualizada pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
+Art. 15.º - 1. O director e os oficiais professores em exercício na Escola têm direito à gratificação mensal prevista na alínea b) do n.º 3.º do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, actualizada pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
 
 2. Os professores oficiais do Exército e da Armada passam a vencer pelo orçamento da Secretaria de Estado da Aeronáutica, se os respectivos departamentos não preferirem o regime de acumulação.
 
@@ -218,7 +264,7 @@ Da administração e diversas
 
 5. A quantia a perceber por cada conferência será fixada anualmente por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Aeronáutica.
 
-###### Art. 16.º 1. Os oficiais pilotos aviadores habilitados com o curso geral de guerra aérea ou curso equivalente, nos termos do artigo 6.º, quando no desempenho de funções de estado-maior, têm direito ao abono mensal de uma gratificação de serviço de estado-maior no valor de 600$00, que se considera integrada no n.º 3.º do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, alterado pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
+Art. 16.º 1. Os oficiais pilotos aviadores habilitados com o curso geral de guerra aérea ou curso equivalente, nos termos do artigo 6.º, quando no desempenho de funções de estado-maior, têm direito ao abono mensal de uma gratificação de serviço de estado-maior no valor de 600$00, que se considera integrada no n.º 3.º do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, alterado pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
 
 2. A gratificação pelo serviço de estado-maior é acumulável com quaisquer outras gratificações e subsídios.
 
@@ -230,24 +276,24 @@ Da administração e diversas
 
 6. A gratificação mensal referida no n.º 1 é indivisível e é abonada nos meses em que o oficial exerça as funções de estado-maior por período de tempo superior a quinze dias consecutivos.
 
-###### Art. 17.º A competência disciplinar do director da Escola Superior da Força Aérea é a designada na coluna V do quadro anexo ao Regulamento de Disciplina Militar.
+Art. 17.º A competência disciplinar do director da Escola Superior da Força Aérea é a designada na coluna V do quadro anexo ao Regulamento de Disciplina Militar.
 
-###### Art. 18.º A Escola Superior da Força Aérea poderá funcionar adstrita a uma unidade da Força Aérea, que deverá fornecer-lhe apoio logístico e administrativo através dos seus órgãos de execução dos serviços.
+Art. 18.º A Escola Superior da Força Aérea poderá funcionar adstrita a uma unidade da Força Aérea, que deverá fornecer-lhe apoio logístico e administrativo através dos seus órgãos de execução dos serviços.
 
-###### Art. 19.º Os encargos resultantes da organização da Escola Superior da Força Aérea e do seu regular funcionamento serão inscritos em divisão respeitante àquela Escola no orçamento ordinário de Encargos Gerais da Nação, como despesa ordinária da Secretaria de Estado da Aeronáutica.
+Art. 19.º Os encargos resultantes da organização da Escola Superior da Força Aérea e do seu regular funcionamento serão inscritos em divisão respeitante àquela Escola no orçamento ordinário de Encargos Gerais da Nação, como despesa ordinária da Secretaria de Estado da Aeronáutica.
 
-###### Art. 20.º Para fazer face no corrente ano aos encargos resultantes do presente diploma serão inscritos no orçamento em vigor as indispensáveis dotações, a compensar pela anulação de igual importância noutras dotações da Secretaria de Estado da Aeronáutica.
+Art. 20.º Para fazer face no corrente ano aos encargos resultantes do presente diploma serão inscritos no orçamento em vigor as indispensáveis dotações, a compensar pela anulação de igual importância noutras dotações da Secretaria de Estado da Aeronáutica.
 
-###### Art. 21.º Os oficiais com o curso geral de guerra aérea designados em cada ano para a instrução complementar de estados-maiores conjuntos e interaliados, frequentarão os cursos para o efeito organizados pelo departamento da Defesa Nacional, conjuntamente com oficiais de estado-maior do Exército e oficiais da Armada habilitados com o curso geral naval de guerra.
+Art. 21.º Os oficiais com o curso geral de guerra aérea designados em cada ano para a instrução complementar de estados-maiores conjuntos e interaliados, frequentarão os cursos para o efeito organizados pelo departamento da Defesa Nacional, conjuntamente com oficiais de estado-maior do Exército e oficiais da Armada habilitados com o curso geral naval de guerra.
 
-###### Art. 22.º As dúvidas que possam surgir quanto à aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado da Aeronáutica.
+Art. 22.º As dúvidas que possam surgir quanto à aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado da Aeronáutica.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Fevereiro de 1971.**
+Promulgado em 10 de Fevereiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

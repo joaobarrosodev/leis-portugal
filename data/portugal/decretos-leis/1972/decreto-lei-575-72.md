@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1972-665131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c2509a0eea489c121ef6ad40f087944af2f0117d9c7582fd0f474a2203d06dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c427bee10ce1ef9988c9d2308249b9d794ad70fa0a8d9fba4e909ab8962d73d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa Agrícola
+- Imposto Complementar
+- Imposto Profissional
 relationships:
 - type: amended_by
   target: pt:dre:401901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432796:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:421813:por
+  label: Rectificada a alínea a) do n.º 1 do artigo 3.º pela DECL.DD9309.26.07.1973.PC, DG.IS [174] de 26.07.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-421813
+  date: '1973-07-26'
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados os benefícios fiscais constantes do presente diploma pelo DEC LEI.485/88.1988.12.30.MF,DR.IS [301]2º Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:23Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +127,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O regime do artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, é tornado extensivo aos abonos relativos à situação de reserva e às pensões de aposentação ou de reforma por serviços prestados às entidades referidas na alínea b) da regra 4.ª do artigo 15.º do Código do Imposto Complementar.
+Artigo 1.º O regime do artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, é tornado extensivo aos abonos relativos à situação de reserva e às pensões de aposentação ou de reforma por serviços prestados às entidades referidas na alínea b) da regra 4.ª do artigo 15.º do Código do Imposto Complementar.
 
-###### Art. 2.º Os artigos 23.º e 24.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Art. 2.º Os artigos 23.º e 24.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 1.º ...
 
@@ -109,7 +139,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único ...
 
-###### Art. 24.º Os contribuintes que, durante qualquer período do ano, tenham exercido em acumulação actividades por conta de outrem e que, relativamente às actividades desta natureza, hajam auferido rendimentos superiores ao quantitativo estabelecido na alínea a) do n.º 1.º do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ficam sujeitos a um adicionamento sobre o excedente a este quantitativo, obtido pela aplicação das taxas seguintes:
+Art. 24.º Os contribuintes que, durante qualquer período do ano, tenham exercido em acumulação actividades por conta de outrem e que, relativamente às actividades desta natureza, hajam auferido rendimentos superiores ao quantitativo estabelecido na alínea a) do n.º 1.º do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ficam sujeitos a um adicionamento sobre o excedente a este quantitativo, obtido pela aplicação das taxas seguintes:
 
 ...
 
@@ -121,7 +151,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º ...
 
-###### Art. 3.º - 1. As cooperativas agrícolas poderão, sem prejuízo das regalias concedidas pela legislação em vigor, ser autorizadas a:
+Art. 3.º - 1. As cooperativas agrícolas poderão, sem prejuízo das regalias concedidas pela legislação em vigor, ser autorizadas a:
 
 a) Industrializar os produtos das explorações agrícolas, silvícolas, aquícolas ou pecuárias não integradas em explorações industriais dos seus associados;
 
@@ -135,18 +165,18 @@ d) Receber, para fins idênticos aos previstos na anterior, produtos proveniente
 
 3. A autorização para os efeitos da alínea c) do n.º 1 é da competência do Ministro das Finanças, ouvido o Ministro da Economia, e só será concedida quando se reconheça que a participação se mostre conveniente aos interesses da economia nacional e a parte do capital subscrita por cooperativas ou outras associações agrícolas exceda 50 por cento do capital da sociedade.
 
-###### Art. 4.º - 1. As sociedades de que trata a alínea c) do n.º 1 do artigo anterior são isentas de contribuição industrial e de imposto complementar se a participação das cooperativas ou destas e de outras associações agrícolas exceder 50 por cento do capital social da sociedade.
+Art. 4.º - 1. As sociedades de que trata a alínea c) do n.º 1 do artigo anterior são isentas de contribuição industrial e de imposto complementar se a participação das cooperativas ou destas e de outras associações agrícolas exceder 50 por cento do capital social da sociedade.
 
 2. Se a sociedade tiver outros objectivos além dos de que trata a alínea referida no número precedente, as isenções estabelecidas neste artigo não aproveitarão aos lucros imputáveis às actividades exercidas dentro desses outros objectivos.
 
-###### Art. 5.º Fica revogado o artigo 1.º do [Decreto-Lei n.º 404/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1970-138835), de 24 de Agosto.
+Art. 5.º Fica revogado o artigo 1.º do [Decreto-Lei n.º 404/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1970-138835), de 24 de Agosto.
 
-###### Art. 6.º As disposições do artigo 1.º e as alterações de que trata o artigo 2.º do presente diploma aplicar-se-ão às liquidações que, nos termos do respectivo Código, devam ser efectuadas a partir de 1 de Janeiro de 1973.
+Art. 6.º As disposições do artigo 1.º e as alterações de que trata o artigo 2.º do presente diploma aplicar-se-ão às liquidações que, nos termos do respectivo Código, devam ser efectuadas a partir de 1 de Janeiro de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 29 de Dezembro de 1972.**
+Promulgado em 29 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

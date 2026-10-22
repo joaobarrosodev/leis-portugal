@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 197/1974, 1º Suplemento, Série I de 1974-08-24
   number: '197'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 934-(1) a 934-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/19701/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1974-322092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05c5b0a100d53c80abdd1fbd15a78dff6de8f60e180899bd6dcc2c0663954791
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe35d68e332dd89207221010d1ab4616f4d32cdf9b95561de313b05832be93da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Cartão de Identificação
+- Comércio
+- Crime
+- Definição de Competências
+- Direcção dos Serviços de Fiscalização Económica
+- Fiscalização
+- GNR
+- Guarda Fiscal
+- Licenciamento
+- Produto Alimentar
+- Regime Jurídico
+- Secretário de Estado do Abastecimento e Preços
+- Tribunal Municipal
+- Venda Ambulante
+- Vendedor
 relationships:
 - type: amended_by
   target: pt:dre:383043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:235153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329454:por
+  label: "Revogado a partir de 15.11.1978 pelo DEC LEI.289/78.16.09.1978.MAI, DR.IS [214] de 16.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1978-329454
+  date: '1978-09-16'
+- type: repealed_by
+  target: pt:dre:383043:por
+  label: "Revogado, a partir de 13.05.1979, pelo DEC LEI.122/79.08.05.1979.MAI, DR.IS [105] de 08.05.1979, que estaleceu a\
+    \ vigência transitória do presente diploma, desde a publicação até à entrada em vigor daquele diploma (08.05.1979 até\
+    \ 13.05.1979) \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1979-383043
+  date: '1979-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:04Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +136,19 @@ O presente diploma visa estabelecer preceitos que disciplinem a venda ambulante 
 
 Nestes termos, usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os indivíduos que exerçam a venda ambulante devem observar as normas do presente diploma, bem como aquelas que em sua execução se publiquem.
+Artigo 1.º - 1. Os indivíduos que exerçam a venda ambulante devem observar as normas do presente diploma, bem como aquelas que em sua execução se publiquem.
 
 2. Consideram-se vendedores ambulantes, para efeito deste diploma, os indivíduos que, transportando a mercadoria por si ou por qualquer outro meio adequado, a transaccionem pelos lugares do seu trânsito e em zonas que para o efeito não forem interditas pelas câmaras municipais.
 
 3. A distribuição domiciliária efectuada por conta de comerciantes com estabelecimento fixo, bem como a venda de jornais, outras publicações periódicas e lotarias, não ficam sujeitas às disposições do presente diploma.
 
-###### Art. 2.º - 1. Na exposição e venda ambulante dos produtos do seu comércio cada vendedor não poderá utilizar um tabuleiro com dimensões superiores a 1 m x 1,20 m.
+Art. 2.º - 1. Na exposição e venda ambulante dos produtos do seu comércio cada vendedor não poderá utilizar um tabuleiro com dimensões superiores a 1 m x 1,20 m.
 
 2. Os produtos expostos para venda nunca poderão estar a menos de 0,40 m do solo.
 
 3. Compete às câmaras municipais dispensar o cumprimento do estabelecido nos n.os 1 e 2 do presente artigo relativamente a produtos ou géneros cuja venda ambulante se revista de características especiais.
 
-###### Art. 3.º É interdito aos vendedores ambulantes:
+Art. 3.º É interdito aos vendedores ambulantes:
 
 a) Formar filas duplas de exposição de artigos para venda;
 
@@ -122,19 +158,19 @@ c) Impedir ou dificultar o acesso aos meios de transportes públicos e às parag
 
 d) Lançar no solo quaisquer desperdícios, restos, lixos ou outros objectos susceptíveis de conspurcar a via pública.
 
-###### Art. 4.º - 1. Os tabuleiros utilizados na venda deverão conter, em local bem visível, o nome e morada do respectivo vendedor.
+Art. 4.º - 1. Os tabuleiros utilizados na venda deverão conter, em local bem visível, o nome e morada do respectivo vendedor.
 
 2. Os tabuleiros para a exposição, venda ou arrumação dos produtos alimentares serão em material resistente a traços ou sulcos e facilmente laváveis.
 
 3. Os tabuleiros, como todo o material de arrumação, exposição e venda, deverão ser mantidos em rigoroso estado de asseio e higiene.
 
-###### Art. 5.º - 1. Os indivíduos que intervenham no acondicionamento, transporte ou venda de produtos alimentares, serão, obrigatoriamente, portadores de boletim de sanidade, nos termos da legislação em vigor.
+Art. 5.º - 1. Os indivíduos que intervenham no acondicionamento, transporte ou venda de produtos alimentares, serão, obrigatoriamente, portadores de boletim de sanidade, nos termos da legislação em vigor.
 
 2. Sempre que se verifiquem dúvidas quanto ao estado de sanidade do vendedor, deverá este ser notificado a apresentar-se à autoridade sanitária da respectiva área.
 
 3. Os vendedores ambulantes deverão comportar-se com civismo nas suas relações com o público.
 
-###### Art. 6.º - 1. No transporte, arrumação e exposição dos produtos é obrigatório separar os produtos alimentares dos de natureza diferente, bem como, dentro de cada categoria, os que de algum modo possam ser afectados pela proximidade de outros.
+Art. 6.º - 1. No transporte, arrumação e exposição dos produtos é obrigatório separar os produtos alimentares dos de natureza diferente, bem como, dentro de cada categoria, os que de algum modo possam ser afectados pela proximidade de outros.
 
 2. Quando fora da venda, os produtos alimentares devem ser guardados em lugares adequados à preservação do seu estado, bem como em condições hígio-sanitárias que os protejam de poeiras, contaminações ou contactos que, de qualquer modo, possam afectar a saúde dos consumidores.
 
@@ -142,19 +178,19 @@ d) Lançar no solo quaisquer desperdícios, restos, lixos ou outros objectos sus
 
 4. Na embalagem ou empacotamento dos produtos alimentares só pode ser usado papel ou outro material que ainda não tenha sido utilizado e não contenha desenhos, pinturas ou dizeres impressos na parte interior.
 
-###### Art. 7.º Não são permitidas como meio de sugestionar aquisições pelo público falsas descrições ou informações sobre a natureza, qualidade ou utilidade dos produtos expostos à venda.
+Art. 7.º Não são permitidas como meio de sugestionar aquisições pelo público falsas descrições ou informações sobre a natureza, qualidade ou utilidade dos produtos expostos à venda.
 
-###### Art. 8.º - 1. Os preços terão de praticar-se em conformidade com a legislação em vigor.
+Art. 8.º - 1. Os preços terão de praticar-se em conformidade com a legislação em vigor.
 
 2. É obrigatória a afixação, por forma bem visível, de tabelas, letreiros ou etiquetas, indicando o preço dos produtos, géneros e artigos expostos.
 
-###### Art. 9.º - 1. O Secretário de Estado do Abastecimento e Preços pode, por portaria, fixar as normas que se mostrem necessárias à execução do disposto neste diploma na matéria da sua competência.
+Art. 9.º - 1. O Secretário de Estado do Abastecimento e Preços pode, por portaria, fixar as normas que se mostrem necessárias à execução do disposto neste diploma na matéria da sua competência.
 
 2. Quando as matérias caibam também na competência de outros Ministérios ou Secretarias de Estado, deverá a portaria ser emitida conjuntamente.
 
 3. Para efeitos deste diploma, a competência atribuída no [Decreto-Lei n.º 48261](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48261-1968-235153), de 23 de Fevereiro de 1968, à Corporação do Comércio é transferida para a Direcção-Geral do Comércio Interno.
 
-###### Art. 10.º - 1. O vendedor ambulante deverá fazer-se acompanhar, para apresentação imediata às entidades competentes para a fiscalização, devidamente actualizados, do título oficial de autorização para o exercício da sua actividade, dos documentos comprovativos do cumprimento das suas obrigações tributárias, do bilhete de identidade e do cartão ou guia a que se refere o artigo 12.º do presente diploma, sem prejuízo de outros documentos que, pela natureza do seu comércio, deva possuir.
+Art. 10.º - 1. O vendedor ambulante deverá fazer-se acompanhar, para apresentação imediata às entidades competentes para a fiscalização, devidamente actualizados, do título oficial de autorização para o exercício da sua actividade, dos documentos comprovativos do cumprimento das suas obrigações tributárias, do bilhete de identidade e do cartão ou guia a que se refere o artigo 12.º do presente diploma, sem prejuízo de outros documentos que, pela natureza do seu comércio, deva possuir.
 
 2. Exceptuam-se do cumprimento das obrigações mencionadas no n.º 1 do presente artigo, salvo no que se refere à exibição do bilhete de identidade, os vendedores ambulantes que vendam produtos de sua propriedade ou por eles explorados e géneros com que lhes tenham sido pagas quaisquer rendas.
 
@@ -164,7 +200,7 @@ a) Os nomes ou denominações sociais e a sede ou domicílio do comprador, produ
 
 b) A especificação das mercadorias, com indicação das quantidades, preços e valores ilíquidos, descontos, abatimentos ou bónus concedidos, bem como a sua marca, referência e número de série, quando for caso disso.
 
-###### Art. 11.º - 1. As câmaras municipais podem, ao abrigo deste diploma e legislação complementar, restringir, condicionar ou proibir a venda de géneros alimentícios e produtos de outra natureza, tendo em atenção os aspectos hígio-sanitários, estético e comodidade do público.
+Art. 11.º - 1. As câmaras municipais podem, ao abrigo deste diploma e legislação complementar, restringir, condicionar ou proibir a venda de géneros alimentícios e produtos de outra natureza, tendo em atenção os aspectos hígio-sanitários, estético e comodidade do público.
 
 2. Compete-lhe ainda, com base nos fundamentos estabelecidos no número anterior, e atendendo igualmente às necessidades de segurança e de trânsito de pessoas e veículos, interditar zonas ao exercício da sua actividade.
 
@@ -172,7 +208,7 @@ b) A especificação das mercadorias, com indicação das quantidades, preços e
 
 4. A delimitação das zonas ou locais livres, fixos ou interditos será feita de modo genérico, podendo, no entanto, as câmaras municipais estabelecer zonas especiais para certas categorias de produtos e artigos.
 
-###### Art. 12.º - 1. As câmaras municipais deverão organizar um registo dos vendedores ambulantes no respectivo concelho que se encontrem legalmente autorizados a exercer a sua actividade.
+Art. 12.º - 1. As câmaras municipais deverão organizar um registo dos vendedores ambulantes no respectivo concelho que se encontrem legalmente autorizados a exercer a sua actividade.
 
 2. As câmaras municipais, a requerimento dos interessados, deverão passar um cartão de modelo anexo a este diploma, que será válido em qualquer localidade.
 
@@ -180,13 +216,13 @@ b) A especificação das mercadorias, com indicação das quantidades, preços e
 
 4. A guia comprovativa da entrega do requerimento na respectiva câmara substituirá o cartão até este ser emitido.
 
-###### Art. 13.º - 1. A prevenção e acção correctiva sobre as infracções das normas constantes do presente diploma, bem como da respectiva regulamentação e legislação conexa, são da competência da Direcção-Geral de Fiscalização Económica, da Polícia de Segurança Pública, da Guarda Nacional Republicana, da Guarda Fiscal, das autoridades sanitárias e das demais entidades policiais, administrativas e fiscais.
+Art. 13.º - 1. A prevenção e acção correctiva sobre as infracções das normas constantes do presente diploma, bem como da respectiva regulamentação e legislação conexa, são da competência da Direcção-Geral de Fiscalização Económica, da Polícia de Segurança Pública, da Guarda Nacional Republicana, da Guarda Fiscal, das autoridades sanitárias e das demais entidades policiais, administrativas e fiscais.
 
 2. Sempre que, no exercício das funções referidas no número anterior, o agente fiscalizador tome conhecimento de infracções cuja fiscalização seja da competência específica de outra autoridade, deverá participar a esta a respectiva ocorrência.
 
 3. Cabe às entidades referidas no n.º 1 uma acção educativa e esclarecedora dos interessados, podendo fixar prazos para a regularização das situações anómalas, cuja inobservância constituirá infracção punível.
 
-###### Art. 14.º - 1. As infracções ao disposto neste diploma e normas regulamentares que venham a ser publicadas em sua execução serão puníveis com a multa de 100$00 a 2500$00, segundo graduação a definir pelas câmaras municipais através de postura, se outra pena mais elevada não for aplicável nos termos da lei geral ou especial.
+Art. 14.º - 1. As infracções ao disposto neste diploma e normas regulamentares que venham a ser publicadas em sua execução serão puníveis com a multa de 100$00 a 2500$00, segundo graduação a definir pelas câmaras municipais através de postura, se outra pena mais elevada não for aplicável nos termos da lei geral ou especial.
 
 2. As câmaras municipais deverão fixar os casos de apreensão dos instrumentos da contravenção, móveis ou semoventes, os quais caucionarão a responsabilidade do contraventor.
 
@@ -194,26 +230,26 @@ b) A especificação das mercadorias, com indicação das quantidades, preços e
 
 4. Considera-se legalizada a situação anómala quando, dentro do prazo fixado pela autoridade fiscalizadora, o interessado se apresenta na sede ou posto indicado na intimação com os documentos ou objectos em conformidade com a norma violada.
 
-###### Art. 15.º - 1. A instrução preparatória e julgamento das infracções a que se refere este diploma, bem como a graduação da responsabilidade dos arguidos e o destino das respectivas multas, regem-se pelo disposto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e legislação complementar.
+Art. 15.º - 1. A instrução preparatória e julgamento das infracções a que se refere este diploma, bem como a graduação da responsabilidade dos arguidos e o destino das respectivas multas, regem-se pelo disposto no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e legislação complementar.
 
 2. Nas cidades de Lisboa e Porto a competência para julgamento das infracções às normas regulamentares emanadas das respectivas câmaras municipais pertence aos tribunais municipais.
 
-###### Art. 16.º Deverão as câmaras municipais, no prazo máximo de trinta dias, contados a partir da data da publicação do presente decreto-lei, regulamentar as matérias constantes deste diploma, no âmbito da sua competência.
+Art. 16.º Deverão as câmaras municipais, no prazo máximo de trinta dias, contados a partir da data da publicação do presente decreto-lei, regulamentar as matérias constantes deste diploma, no âmbito da sua competência.
 
-###### Art. 17.º As dúvidas que se suscitem na aplicação das disposições deste diploma serão resolvidas por despacho do Ministro da Administração Interna, ou por despacho conjunto, quando as matérias respeitem a outros departamentos estaduais.
+Art. 17.º As dúvidas que se suscitem na aplicação das disposições deste diploma serão resolvidas por despacho do Ministro da Administração Interna, ou por despacho conjunto, quando as matérias respeitem a outros departamentos estaduais.
 
-###### Art. 18.º Este decreto-lei entra imediatamente em vigor, sem prejuízo de as situações que não se integrem no presente diploma deverem ser regularizadas no prazo de trinta dias.
+Art. 18.º Este decreto-lei entra imediatamente em vigor, sem prejuízo de as situações que não se integrem no presente diploma deverem ser regularizadas no prazo de trinta dias.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 16 de Agosto de 1974.**
+Promulgado em 16 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
-## Anexo ao Decreto-Lei n.º 383/74
+Anexo ao Decreto-Lei n.º 383/74
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/19701/00010003.pdf))](https://files.diariodarepublica.pt/1s/1974/08/19701/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/19701/00010003.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás - O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Administração Interna, Manuel da Costa Brás - O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.

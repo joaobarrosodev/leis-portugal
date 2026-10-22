@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1972-675669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ec96b3cf30f3f932b9f40aa074912bd51c91086472dcd8a56db99f0195f44f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47dc84d00170c8e00952e6c33930639c79cd63de62e01ae282de203bd583efdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Definição de Competências
+- Diretor
+- Instituto de Técnicas de Pesca
+- Ministério da Marinha
+- Pesca
+- Pessoal Dirigente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:16Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +101,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Instituto de Técnicas de Pesca (I. T. P.), criado por este diploma, é o organismo do Ministério da Marinha incumbido da investigação e ensaio das técnicas aplicadas à pesca, nomeadamente no que se refere à detecção, captura e transporte do pescado.
+Artigo 1.º - 1. O Instituto de Técnicas de Pesca (I. T. P.), criado por este diploma, é o organismo do Ministério da Marinha incumbido da investigação e ensaio das técnicas aplicadas à pesca, nomeadamente no que se refere à detecção, captura e transporte do pescado.
 
 2. O I. T. P. apoia-se nos trabalhos de biologia do Instituto de Biologia Marítima e nos trabalhos de oceanografia do Instituto Hidrográfico.
 
-###### Art. 2.º - 1. O Instituto de Técnicas de Pesca terá como director um cientista, com superior competência em técnicas aplicadas à indústria da pesca, escolhido pelo Ministro da Marinha entre os oficiais da Armada, do activo ou da reserva, ou entre os investigadores do Quadro do Pessoal Civil do Ministério da Marinha (Q. P. C. M. M.).
+Art. 2.º - 1. O Instituto de Técnicas de Pesca terá como director um cientista, com superior competência em técnicas aplicadas à indústria da pesca, escolhido pelo Ministro da Marinha entre os oficiais da Armada, do activo ou da reserva, ou entre os investigadores do Quadro do Pessoal Civil do Ministério da Marinha (Q. P. C. M. M.).
 
 2. Para o primeiro provimento do cargo de director do I. T. P. o Ministro da Marinha poderá admitir no Q. P. C. M. M., com a categoria de investigador-chefe, um cientista não pertencente ao mesmo quadro, desde que satisfaça às prescrições legais sobre habilitações e aos requisitos referidos no número anterior.
 
@@ -106,32 +113,32 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Quando a direcção do I. T. P. seja exercida por um oficial da Armada, com posto inferior ao de capitão-de-mar-e-guerra, este perceberá uma gratificação igual à diferença entre os vencimentos do seu posto, ou da pensão da reserva que lhe estiver fixada, e os que correspondem aos investigadores-chefes do Q. P. C. M. M.
 
-###### Art. 3.º - 1. No Instituto de Técnicas de Pesca prestará serviço o pessoal da Armada e do Q. P. C. M. M. que o Ministro da Marinha determinar, respectivamente, por portaria e por despacho.
+Art. 3.º - 1. No Instituto de Técnicas de Pesca prestará serviço o pessoal da Armada e do Q. P. C. M. M. que o Ministro da Marinha determinar, respectivamente, por portaria e por despacho.
 
 2. Poderá ainda ser contratado além do quadro outro pessoal, mediante proposta do director do I. T. P. aprovada pelo Ministro da Marinha.
 
 3. O pessoal do Instituto pode ser mandado embarcar em navios de estudo e em embarcações de pesca, nacionais ou estrangeiras.
 
-###### Art. 4.º - 1. A administração financeira do Instituto de Técnicas de Pesca será exercida por um conselho administrativo com a constituição, missão e deveres estabelecidos no Regulamento de Administração da Fazenda Naval.
+Art. 4.º - 1. A administração financeira do Instituto de Técnicas de Pesca será exercida por um conselho administrativo com a constituição, missão e deveres estabelecidos no Regulamento de Administração da Fazenda Naval.
 
 2. O conselho administrativo rege-se pelas disposições do referido Regulamento e pelos preceitos gerais da contabilidade pública, competindo-lhe a autorização de despesas nos termos e até aos limites estabelecidos para os organismos dotados com autonomia administrativa.
 
 3. O secretário-tesoureiro do conselho administrativo do I. T. P., quando acumular essas funções com as que exerça noutro organismo do Ministério da Marinha, vencerá uma gratificação fixada pelo Ministro da Marinha, com o acordo do Ministro das Finanças.
 
-###### Art. 5.º O orçamento da despesa do Ministério da Marinha consignará anualmente dotações para a manutenção do Instituto de Técnicas de Pesca, devendo o conselho administrativo em presença de tal dotação e das suas receitas próprias elaborar orçamento privativo prestando contas ao Tribunal de Contas.
+Art. 5.º O orçamento da despesa do Ministério da Marinha consignará anualmente dotações para a manutenção do Instituto de Técnicas de Pesca, devendo o conselho administrativo em presença de tal dotação e das suas receitas próprias elaborar orçamento privativo prestando contas ao Tribunal de Contas.
 
-###### Art. 6.º - 1. As receitas próprias do Instituto de Técnicas de Pesca serão constituídas pelo produto da venda de bens e serviços, outros rendimentos ou receitas correntes e pelos subsídios, donativos ou legados concedidos por quaisquer entidades.
+Art. 6.º - 1. As receitas próprias do Instituto de Técnicas de Pesca serão constituídas pelo produto da venda de bens e serviços, outros rendimentos ou receitas correntes e pelos subsídios, donativos ou legados concedidos por quaisquer entidades.
 
 2. As receitas a que se refere o número anterior devem ser aplicadas em trabalhos de investigação e em investimentos, na parte em que não puderem ser suportadas pelas dotações mencionadas no artigo 5.º
 
 3. Os saldos de gerência de cada ano transitarão para o ano imediato.
 
-###### Art. 7.º No ano corrente as despesas resultantes da execução do presente diploma serão custeadas pelas disponibilidades da dotação inscrita no capítulo 1.º, artigo 7.º, n.º 4, do orçamento do Ministério da Marinha.
+Art. 7.º No ano corrente as despesas resultantes da execução do presente diploma serão custeadas pelas disponibilidades da dotação inscrita no capítulo 1.º, artigo 7.º, n.º 4, do orçamento do Ministério da Marinha.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 20 de Julho de 1972.**
+Promulgado em 20 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

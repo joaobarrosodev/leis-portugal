@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12300/12351237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1981-574685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ee140237959959e26223b0caeb8623277fded51ccdce63f3efe3b7fda36a7b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61bbcf447640d3dc43f8c940de23434748ed93a049523778ab2193ef4d19d93e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto Complementar
+- Imposto Complementar
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:281826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:28Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +120,11 @@ Usando da autorização legislativa concedida pelo artigo 18.º da [Lei n.º 4/8
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 29.º, 33.º, 56.º-A e 56.º-B do Código do Imposto Complementar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 29.º, 33.º, 56.º-A e 56.º-B do Código do Imposto Complementar passam a ter a seguinte redacção:
 
 ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 a) ...
 
@@ -130,9 +146,9 @@ Até 11 anos - 15000$00;
 
 ...
 
-###### Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
+Art. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/12300/12351237.pdf))](https://files.diariodarepublica.pt/1s/1981/05/12300/12351237.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/12300/12351237.pdf)
 
 § 1.º ...
 
@@ -140,17 +156,17 @@ Até 11 anos - 15000$00;
 
 ...
 
-###### Art. 56.º-A Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades civis ou militares que processem folhas de abonos de importâncias relativas a remunerações por serviços prestados ao Estado, seus estabelecimentos e organismos, ainda que personalizados, bem como às autarquias locais, suas federações e uniões, e às pessoas colectivas de utilidade pública administrativa, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias e, bem assim, quaisquer outras entidades públicas ou privadas que abonem remunerações pela prestação de trabalho por conta de outrem ou importâncias de abonos de reserva de pensões de aposentação ou de reforma ficam obrigados a averbar, nos registos de onde conste que processaram, liquidaram ou mandaram pagar importâncias respeitantes ao mês de Dezembro de cada ano a qualquer pessoa que no ano anterior tenha auferido da mesma proveniência importância superior ao correspondente limite estabelecido no artigo 11.º, que foi exibido o recibo da entrega da declaração modelo n.º 1, anexo 3, respeitante aos rendimentos do ano anterior do qual conste essa pessoa.
+Art. 56.º-A Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades civis ou militares que processem folhas de abonos de importâncias relativas a remunerações por serviços prestados ao Estado, seus estabelecimentos e organismos, ainda que personalizados, bem como às autarquias locais, suas federações e uniões, e às pessoas colectivas de utilidade pública administrativa, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias e, bem assim, quaisquer outras entidades públicas ou privadas que abonem remunerações pela prestação de trabalho por conta de outrem ou importâncias de abonos de reserva de pensões de aposentação ou de reforma ficam obrigados a averbar, nos registos de onde conste que processaram, liquidaram ou mandaram pagar importâncias respeitantes ao mês de Dezembro de cada ano a qualquer pessoa que no ano anterior tenha auferido da mesma proveniência importância superior ao correspondente limite estabelecido no artigo 11.º, que foi exibido o recibo da entrega da declaração modelo n.º 1, anexo 3, respeitante aos rendimentos do ano anterior do qual conste essa pessoa.
 
 § único. Na falta de exibição do recibo referido no corpo deste artigo deve tal facto ser comunicado à repartição de finanças competente, através da sua menção na nota modelo n.º 8-A, a que se refere o artigo 47.º do Código do Imposto Profissional ou, não havendo lugar à apresentação desta, em relação organizada para o efeito.
 
-###### Art. 56.º-B As entidades a que incumbe o pagamento de rendimentos sujeitos a imposto de capitais, secção B, não isentos de imposto complementar, que paguem ou creditem rendimentos dessa proveniência a qualquer titular cujo nome figure nos seus registos ou nas comunicações recebidas das instituições de crédito relativamente às acções depositadas que no penúltimo ano anterior tenha auferido da mesma entidade rendimentos sujeitos àquele imposto, em quantitativo superior ao correspondente limite estabelecido no artigo 11.º, ficam obrigadas a averbar nos registos donde conste o respectivo pagamento ou crédito que foi exibido o recibo da entrega das declarações modelo n.º 1, anexo 3, respeitante àquele penúltimo ano, do qual conste esse titular, devendo na falta de exibição tal facto ser mencionado nas relações modelos n.os 4 e 5, a que se referem os artigos 24.º e 25.º do Código.
+Art. 56.º-B As entidades a que incumbe o pagamento de rendimentos sujeitos a imposto de capitais, secção B, não isentos de imposto complementar, que paguem ou creditem rendimentos dessa proveniência a qualquer titular cujo nome figure nos seus registos ou nas comunicações recebidas das instituições de crédito relativamente às acções depositadas que no penúltimo ano anterior tenha auferido da mesma entidade rendimentos sujeitos àquele imposto, em quantitativo superior ao correspondente limite estabelecido no artigo 11.º, ficam obrigadas a averbar nos registos donde conste o respectivo pagamento ou crédito que foi exibido o recibo da entrega das declarações modelo n.º 1, anexo 3, respeitante àquele penúltimo ano, do qual conste esse titular, devendo na falta de exibição tal facto ser mencionado nas relações modelos n.os 4 e 5, a que se referem os artigos 24.º e 25.º do Código.
 
-###### Art. 2.º É aditado um § 4.º ao artigo 28.º e ao artigo 30.º do mesmo Código:
+Art. 2.º É aditado um § 4.º ao artigo 28.º e ao artigo 30.º do mesmo Código:
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 ...
 
@@ -158,15 +174,15 @@ Até 11 anos - 15000$00;
 
 ...
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 ...
 
 § 4.º As importâncias a deduzir são as que tiverem sido pagas ou despendidas no ano a que respeitam os rendimentos.
 
-###### Art. 3.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1980 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se nesse caso o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 1,75%, multiplicado pelo número de meses, incluindo o do pagamento, que antecedem o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código.
+Art. 3.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos de 1980 se a declaração for apresentada no correspondente prazo estabelecido no corpo do artigo 11.º do Código, nos §§ 4.º e 6.º do mesmo artigo e nos §§ 2.º e 3.º do artigo 17.º do mesmo Código, observando-se nesse caso o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março, salvo quanto ao desconto, que será de 1,75%, multiplicado pelo número de meses, incluindo o do pagamento, que antecedem o mês em que a cobrança deveria ser efectuada, de harmonia com os prazos fixados no artigo 50.º do Código.
 
-###### Art. 4.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à competente repartição de finanças, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
+Art. 4.º - 1 - Os contribuintes que optarem pela autoliquidação referida no artigo anterior poderão remeter pelo correio, sob registo postal, toda a documentação e o cheque ou vale de correio à competente repartição de finanças, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do recibo e demais documentos, quando for caso disso.
 
 2 - A repartição de finanças ao receber a declaração modelo n.º 1 e anexos, os documentos justificativos e o cheque ou vale de correio procede à respectiva conferência, processa o conhecimento e promove a cobrança, apresentando, no final de cada dia, na competente tesouraria, os conhecimentos e respectivos meios de pagamento.
 
@@ -174,12 +190,12 @@ Até 11 anos - 15000$00;
 
 4 - O pagamento efectuado nos termos do presente artigo não impede a eventual correcção do imposto a mais liquidado, devendo aplicar-se o estabelecido no artigo 61.º do Código do Imposto Complementar.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação e as suas disposições aplicam-se aos impostos respeitantes aos rendimentos dos anos de 1980 e seguintes.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação e as suas disposições aplicam-se aos impostos respeitantes aos rendimentos dos anos de 1980 e seguintes.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 14 de Maio de 1981.**
+Promulgado em 14 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 297/1979, 3º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3366-(65) a 3366-(99)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf
 entry_into_force_dates: []
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-c1-1979-147405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 101c32ea68a4da1fb6ae33b017af305069855521fe849713d4ce264f1756753c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cc0ec96c465f8f438eaf504be6d541faaa53d26459209778d96bce939f34d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Classificação Internacional de Doenças
+- Doença
+- OMS
+relationships:
+- type: cites
+  target: pt:dre:219925:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:18Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +98,15 @@ Mantém-se presentemente válido o texto do Regulamento, mas as mencionadas list
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. As listas para classificação de doenças, traumatismos e causas de morte, 8.ª revisão internacional (lista especificada de mil rubricas, A, B, C, D e P), cujos textos em francês e português foram publicados em anexo ao [Decreto-Lei n.º 138/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1970-219925), de 4 de Abril, consideram-se substituídas pelas listas da 9.ª revisão (de categorias a três algarismos, básica para tabulação, de cinquenta rubricas para mortalidade e de cinquenta rubricas para morbilidade), constantes do anexo ao presente diploma, também publicadas em francês e português.
+Artigo único. As listas para classificação de doenças, traumatismos e causas de morte, 8.ª revisão internacional (lista especificada de mil rubricas, A, B, C, D e P), cujos textos em francês e português foram publicados em anexo ao [Decreto-Lei n.º 138/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1970-219925), de 4 de Abril, consideram-se substituídas pelas listas da 9.ª revisão (de categorias a três algarismos, básica para tabulação, de cinquenta rubricas para mortalidade e de cinquenta rubricas para morbilidade), constantes do anexo ao presente diploma, também publicadas em francês e português.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz - Alfredo Bruto da Costa.
 
-**Promulgado em 30 de Novembro de 1979.**
+Promulgado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 1 - Maladies infectieuses et parasitaires
 
@@ -2783,7 +2790,7 @@ Pour présenter les données nationales de mortalité et de morbidité, les pays
 
 Lorsque l'énoncé d'un diagnostic comporte à la fois des renseignements d'ordre étiologique et d'ordre clinique, la neuvième révision de la CIM prévoit un double classement, l'un en fonction de l'étiologie, indiqué par le signe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf) et l'autre en fonction de la manifestation clinique, indiqué par le signe * (par exemple, méningite tuberculeuse 012.0 [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf) et 230.4 *). Toute liste utilisée pour les causes de mortalité devra être fondée sur le classement étiologique [([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf) et l'autre en fonction de la manifestation clinique, indiqué par le signe * (par exemple, méningite tuberculeuse 012.0 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf) et 230.4 *). Toute liste utilisée pour les causes de mortalité devra être fondée sur le classement étiologique [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29703/00650099.pdf)
 
 Les listes utilisées pour les causes de morbidité pourront être fondées sur l'une ou l'autre des deux méthodes, mais il est indispensable que la méthode retenue (étiologie ou manifestation clinique) soit nettement précisée lors de la publication des données, car, pour de mêmes données, les distributions de fréquences seront évidemment très différentes selon la méthode adoptée (voir Introduction, page xxv).
 

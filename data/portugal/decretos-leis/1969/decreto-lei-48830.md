@@ -50,40 +50,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48830-1969-241619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c776ad8e857a60f0d7f5fa210205421a21fe7a9fbf6c54bf331d21cdfe271729
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb287b20958558ccb18f34caadd5072e9575e18373b22236a731b8117b56cd80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cofre de Previdência
+- Comissão de Serviço
+- Comissário
+- Formas de Provimento
+- PSP
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:601356:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:185340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:09Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +114,15 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os comissários-chefes, comissários, chefes e graduados da Polícia de Segurança Pública providos nos lugares dos quadros II e III do pessoal do Cofre de Previdência a que se refere o artigo 63.º da [Portaria n.º 18836](https://diariodarepublica.pt/dr/detalhe/portaria/18836-1961-185340), de 24 de Novembro de 1961, com a constituição que lhe foi atribuída pela [Portaria n.º 20680](https://diariodarepublica.pt/dr/detalhe/portaria/20680-1964-578740), de 13 de Julho de 1964, poderão desempenhar as respectivas funções em regime de comissão de serviço, abrindo vaga no quadro de origem.
+Artigo único. Os comissários-chefes, comissários, chefes e graduados da Polícia de Segurança Pública providos nos lugares dos quadros II e III do pessoal do Cofre de Previdência a que se refere o artigo 63.º da [Portaria n.º 18836](https://diariodarepublica.pt/dr/detalhe/portaria/18836-1961-185340), de 24 de Novembro de 1961, com a constituição que lhe foi atribuída pela [Portaria n.º 20680](https://diariodarepublica.pt/dr/detalhe/portaria/20680-1964-578740), de 13 de Julho de 1964, poderão desempenhar as respectivas funções em regime de comissão de serviço, abrindo vaga no quadro de origem.
 
 § único. Os agentes providos em regime de comissão de serviço passam a ser abonados pelo Cofre de Previdência, mantendo direito às remunerações e demais regalias concedidas aos agentes em serviço no Comando-Geral, incluindo a contagem de tempo de serviço, para todos os efeitos.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Dezembro de 1968.**
+Promulgado em 30 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

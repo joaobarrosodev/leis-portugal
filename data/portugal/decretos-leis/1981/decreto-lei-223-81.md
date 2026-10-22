@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1981-579734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f74e57dab982488c230d7a4e461d576db5dfa774c76c739ed0f0b024a93e882
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ec3685c59849f44e5099f2f21459ff641ebba5f5bb093b87b188e3f7eb4a883
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Fomento Nacional
+- Ministro das Finanças e Plano
+- Operação Cambial
+relationships:
+- type: cites
+  target: pt:dre:390042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:37:55Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +101,24 @@ Considerando que, de acordo com os compromissos assumidos internacionalmente pel
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Finanças e do Plano autorizado a celebrar com o Banco de Fomento Nacional um protocolo que regulará a forma de apuramento e de entrega das verbas correspondentes às variações cambiais a que se refere o presente decreto-lei.
+Artigo 1.º Fica o Ministro das Finanças e do Plano autorizado a celebrar com o Banco de Fomento Nacional um protocolo que regulará a forma de apuramento e de entrega das verbas correspondentes às variações cambiais a que se refere o presente decreto-lei.
 
-###### Art. 2.º - 1 - As variações cambiais reflectidas no serviço do empréstimo correspondente à parte utilizada das facilidades de crédito facultadas ao abrigo do Protocolo Luso-Francês, de 18 de Outubro de 1978, para a concessão pelo Banco de Fomento Nacional do empréstimo ao Estado, autorizado pela [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, e pelo [Decreto-Lei n.º 7/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1981-390042), de 24 de Janeiro, são de conta do Estado.
+Art. 2.º - 1 - As variações cambiais reflectidas no serviço do empréstimo correspondente à parte utilizada das facilidades de crédito facultadas ao abrigo do Protocolo Luso-Francês, de 18 de Outubro de 1978, para a concessão pelo Banco de Fomento Nacional do empréstimo ao Estado, autorizado pela [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, e pelo [Decreto-Lei n.º 7/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1981-390042), de 24 de Janeiro, são de conta do Estado.
 
 2 - As variações cambiais são calculadas tendo por base as alterações que se verifiquem no valor do franco francês face ao escudo entre as datas de utilização do crédito francês e a data de vencimento do serviço do empréstimo.
 
-###### Art. 3.º - 1 - Sempre que as variações cambiais referidas no artigo 2.º se traduzam num encargo para o Estado, o Ministro das Finanças e do Plano tomará as necessárias providências para a satisfação dos respectivos quantitativos ao Banco de Fomento Nacional, que serão suportados por conta de verbas a inscrever anualmente no Orçamento Geral do Estado.
+Art. 3.º - 1 - Sempre que as variações cambiais referidas no artigo 2.º se traduzam num encargo para o Estado, o Ministro das Finanças e do Plano tomará as necessárias providências para a satisfação dos respectivos quantitativos ao Banco de Fomento Nacional, que serão suportados por conta de verbas a inscrever anualmente no Orçamento Geral do Estado.
 
 2 - No caso de as variações cambiais referidas no artigo 2.º se traduzirem favoravelmente para o Estado, as verbas correspondentes serão entregues pelo Banco de Fomento Nacional ao Estado, constituindo receita deste.
 
-###### Art. 4.º Para a execução das disposições financeiras de cobertura dos encargos resultantes do presente decreto-lei, a Direcção-Geral do Tesouro fica autorizada a inscrever no Orçamento Geral do Estado para 1981 a verba necessária para aquele fim.
+Art. 4.º Para a execução das disposições financeiras de cobertura dos encargos resultantes do presente decreto-lei, a Direcção-Geral do Tesouro fica autorizada a inscrever no Orçamento Geral do Estado para 1981 a verba necessária para aquele fim.
 
-###### Art. 5.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Art. 5.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 8 de Julho de 1981.**
+Promulgado em 8 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

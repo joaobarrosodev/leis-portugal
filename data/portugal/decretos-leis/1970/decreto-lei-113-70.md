@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1970-228796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee812684a91ecb5108f74e7d1852dfe679f9b0c4d785981244065535dd7675f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a9b500d5c49b643fbe6ffd500ac85262011d6dec08699f888373dc07c88d583
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Comissão
+- Equipamento Militar
+- Exército
+- Força Aérea
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:524256:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:524256:por
+  label: "Elevado o montante referido no nº 1 do art. 1º pelo DEC LEI.510/70.29.10.1970.PC, DG.IS [251-Supl] de 29.10.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/510-1970-524256
+  date: '1970-10-29'
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525258:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:34Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +120,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo a contrair encargos até ao montante de 1500000 contos para continuação do reequipamento extraordinário do Exército e da Aeronáutica.
+Artigo 1.º - 1. É autorizado o Governo a contrair encargos até ao montante de 1500000 contos para continuação do reequipamento extraordinário do Exército e da Aeronáutica.
 
 2. A distribuição da importância referida no número anterior será determinada pelo Ministro da Defesa Nacional, ao qual serão submetidos, para aprovação, pelo Ministério do Exército ou pela Secretaria de Estado da Aeronáutica, os planos estabelecendo a ordem de prioridades das aquisições a realizar.
 
@@ -103,16 +128,16 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Poderá o saldo que se verificar no encerramento das contas de 1971 e 1972 transitar para os orçamentos do ano ou anos seguintes, independentemente do preceituado na primeira parte do artigo 6.º, n.º 1, do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.
 
-###### Art. 2.º - 1. À execução dos planos referidos no presente diploma é aplicável o estabelecido nos artigos 2.º a 4.º do [Decreto-Lei n.º 48894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48894-1969-525258), de 6 de Março de 1969, substituindo-se por 1970 o ano de 1969 referido naquelas disposições.
+Art. 2.º - 1. À execução dos planos referidos no presente diploma é aplicável o estabelecido nos artigos 2.º a 4.º do [Decreto-Lei n.º 48894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48894-1969-525258), de 6 de Março de 1969, substituindo-se por 1970 o ano de 1969 referido naquelas disposições.
 
 2. A comissão referida na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 48368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48368-1968-274856), de 4 de Maio de 1968, passará a ser constituída por mais dois membros especialistas em economia, sendo um designado pelo Ministro da Economia e outro designado pelo Ministro do Ultramar.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 11 de Março de 1970.**
+Promulgado em 11 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

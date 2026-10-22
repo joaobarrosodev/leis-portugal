@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49426-1969-217304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f64ba3d86f6d8d24617f7f05e3095f9d704aa07b587441ea874c01a89c043674
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b723234fbefea893ad1e4ea36e0ca60039e8f0c81395227e170053a526d927c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Espanha
+- Lisboa
+- Obras de Conservação e Restauro
+- Obras Públicas
+- Portugal
+- Rio Guadiana
+relationships:
+- type: corrected_by
+  target: pt:dre:275379:por
+  label: Rectificado o art. 13º pela DECL.DD10252.09.01.1970.PC, DG.IS [7] de 09.01.1970
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1970-275379
+  date: '1970-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:01Z'
   warnings: []
   errors: []
 ---
@@ -85,13 +97,13 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Convénio entre Portugal e Espanha para a Construção das Obras de Melhoramento da Barra do Rio Guadiana, assinado em Lisboa no dia 20 de Junho de 1969, cujo texto em português vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Convénio entre Portugal e Espanha para a Construção das Obras de Melhoramento da Barra do Rio Guadiana, assinado em Lisboa no dia 20 de Junho de 1969, cujo texto em português vai anexo ao presente decreto-lei.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 19 de Novembro de 1969.**
+Promulgado em 19 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -105,43 +117,43 @@ Decididos a cooperar na realização das obras de melhoramento da barra do rio G
 
 Acordam no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Na embocadura do ria Guadiana, em ambas as margens, constituir-se-ão as obras de melhoramento da barra a que se refere o presente Convénio, que estabelece para esse fim os direitos e as obrigações de ambos os Governos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 As características técnicas das obras a executar são as constantes do projecto de melhoramento da barra do Guadiana, 1.ª fase, que fica anexo ao presente Convénio.
 
 Compreendem as referidas obras a construção de três esporões, dois deles situados em território português e o terceiro, submerso, que ficará situado em território espanhol.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A construção das obras é confiada ao Governo Português e realizar-se-á de acordo com o projecto anexo. O Governo Português procederá à adjudicação das obras e assegurará a sua execução e direcção em conformidade com o Governo Espanhol. Ambos os Governos poderão, de comum acordo, delegar os seus poderes na comissão prevista no artigo 8.º do presente Convénio.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Cada um dos dois Governos suportará metade do encargo do custo da construção das obras, avaliado em pesetas e escudos no adjunto projecto.
 
 A primeira anualidade, que ascende a uma sexta parte do total, será satisfeita pelo Governo Português. A segunda anualidade, correspondente a três sextas partes do total, será satisfeita à razão de duas sextas partes pelo Governo Português e uma sexta parte pelo Governo Espanhol. A terceira e última anualidade, equivalente a dois sextos do total, será satisfeita pelo Governo Espanhol.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 O Governo Espanhol efectuará os pagamentos que lhe correspondem ao Governo Português, segundo as situações dos trabalhos elaborados pelos serviços técnicos que integram a comissão prevista no artigo 8.º deste Convénio. A liquidação definitiva da obra será realizada pelos representantes técnicos portugueses na dita comissão, de acordo com os representantes espanhóis.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 A execução das obras será adjudicada a empresas portuguesas ou espanholas, em pé de igualdade.
 
 O pessoal, os materiais e os acessórios não serão objecto de qualquer discriminação.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Regularão as condições de trabalho e de segurança social as disposições previstas na legislação portuguesa.
 
 A empresa adjudicatária deverá, em qualquer caso, fixar residência em território português.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Para assegurar a boa execução das obras e estabelecer ligação permanente entre os serviços interessados dos dois países é constituída uma comissão técnica luso-espanhola.
 
@@ -151,11 +163,11 @@ A comissão será composta por um número igual de representantes portugueses e 
 
 Os Governos constituirão a comissão por via diplomática. A comissão reunir-se-á, sempre que seja necessário, a pedido de qualquer das partes.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Cada Governo proporcionará, de acordo com a sua legislação, as facilidades necessárias à construção das obras situadas no seu território.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 A obra será objecto de uma recepção provisória por parte do Governo Português em conformidade com o Governo Espanhol. Da mesma forma se procederá para a recepção definitiva, que terá lugar um ano após a data da recepção provisória.
 
@@ -163,7 +175,7 @@ Depois da recepção definitiva da obra, o Governo Português fará entrega ao G
 
 A partir da data da entrega, cada Governo passa a ter a seu cargo a conservação da parte da obra construída no seu território.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Cada um dos dois Governos Contratantes compromete-se a:
 
@@ -175,19 +187,19 @@ c) Permitir a entrada dos materiais de construção, matérias-primas, material 
 
 Todos os elementos mencionados nos parágrafos a), b) e c) deste artigo, que não tenham sido incorporados na obra, devem ser devolvidos ao país de procedência, uma vez terminada a mesma.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 O contrato ficará isento, em Espanha, do «impuesto general sobre transmisiones patrimoniales y actos jurídicos documentados» e, em Portugal, dos impostos de igual natureza.
 
 O contratista pagará, em cada país, os restantes impostos correspondentes às obras realizadas por sua conta. Para a determinação do lugar da distribuição se fixará o critério da residência legal da pessoa física ou jurídica do adjudicatário do contrato.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Os contratos relativos à construção destas obras ficarão sujeitos às normas da legislação portuguesa.
 
 Os diferentes contenciosos que possam produzir-se a propósito dos mesmos serão exclusivamente da competência das autoridades portuguesas.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 O presente Convénio entrará em vigor na data em que ambos os Governos se comuniquem, recìprocamente, o cumprimento das suas disposições constitucionais relativas à aprovação do mesmo.
 
@@ -195,7 +207,7 @@ Feito no dia 20 de Junho de 1969, em dois exemplares, redigidos em português e 
 
 Pelo Governo Português:
 
-**O Ministro dos Negócios Estrangeiros, A. Franco Nogueira.**
+O Ministro dos Negócios Estrangeiros, A. Franco Nogueira.
 
 Pelo Governo Espanhol:
 

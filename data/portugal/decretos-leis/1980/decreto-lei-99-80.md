@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 103/1980, 1º Suplemento, Série I de 1980-05-05
   number: '103'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 864-(9) a 864-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10301/00090010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1980-298999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68af809e06de296a3c84877bb45a9859a9c21d09d9bf27593dcde1c29c511db6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 477213933dbb382f6dd1d405faac91f83cf9d1d7e8665d0471eee7d982222a5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão
+- Cortiça
 relationships:
 - type: amended_by
   target: pt:dre:375234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296266:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669091:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 189-C/81 - Diário da República n.º 150/1981, 1º Suplemento, Série
+    I de 1981-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-c-1981-669091
+  date: '1981-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:52Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +116,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Comissão da Comercialização da Cortiça, que funcionará junto do Instituto dos Produtos Florestais, sob a tutela do Ministério da Agricultura e Pescas e do Ministério do Comércio e Turismo.
+Artigo 1.º É criada a Comissão da Comercialização da Cortiça, que funcionará junto do Instituto dos Produtos Florestais, sob a tutela do Ministério da Agricultura e Pescas e do Ministério do Comércio e Turismo.
 
-###### Art. 2.º A Comissão terá a sua sede em Lisboa e a sua actividade regular-se-á pelo disposto no presente decreto-lei.
+Art. 2.º A Comissão terá a sua sede em Lisboa e a sua actividade regular-se-á pelo disposto no presente decreto-lei.
 
-###### Art. 3.º - 1 - Compete à Comissão:
+Art. 3.º - 1 - Compete à Comissão:
 
 a) Coordenar a aplicação da legislação em vigor sobre a comercialização da cortiça proveniente de prédios rústicos nacionalizados ou expropriados, independentemente da sua gestão ser ou não assegurada pelo Estado;
 
@@ -125,7 +142,7 @@ e) Informar as entidades competentes sobre a evolução da comercialização da 
 
 f) Por determinação do Ministro da Agricultura e Pescas, dar parecer sobre financiamentos solicitados a instituições financeiras ou de crédito, com juro bonificado, para concretização de projectos de fomento suberícola, assim como colaborar nesses financiamentos com verbas que para o efeito sejam postas à sua disposição.
 
-###### Art. 4.º - 1 - A Comissão será constituída por:
+Art. 4.º - 1 - A Comissão será constituída por:
 
 a) Um representante da Secretaria de Estado do Comércio Externo, que presidirá;
 
@@ -139,11 +156,11 @@ d) Um representante da Secretaria de Estado do Comércio Interno.
 
 3 - Aos membros da Comissão não será atribuída qualquer gratificação ou pagamento específico pelo desempenho das suas funções.
 
-###### Art. 5.º A Comissão reunirá semanalmente, tomando as suas decisões por maioria e tendo o seu presidente voto de qualidade, no caso de empate.
+Art. 5.º A Comissão reunirá semanalmente, tomando as suas decisões por maioria e tendo o seu presidente voto de qualidade, no caso de empate.
 
-###### Art. 6.º A Comissão obriga-se pela assinatura conjunta do seu presidente e qualquer dos seus outros membros ou a assinatura conjunta de dois membros, sendo um representante do Ministério da Agricultura e Pescas e o outro do Ministério do Comércio e Turismo.
+Art. 6.º A Comissão obriga-se pela assinatura conjunta do seu presidente e qualquer dos seus outros membros ou a assinatura conjunta de dois membros, sendo um representante do Ministério da Agricultura e Pescas e o outro do Ministério do Comércio e Turismo.
 
-###### Art. 7.º - 1 - Para apoio permanente, a Comissão disporá de um Secretariado e de um Gabinete Jurídico.
+Art. 7.º - 1 - Para apoio permanente, a Comissão disporá de um Secretariado e de um Gabinete Jurídico.
 
 2 - O Secretariado é dirigido pelo chefe de serviço do Instituto dos Produtos Florestais.
 
@@ -153,28 +170,28 @@ d) Um representante da Secretaria de Estado do Comércio Interno.
 
 5 - Ao secretário, ao consultor jurídico e aos assessores referidos no n.º 3 deste artigo será atribuída uma remuneração proveniente dos fundos consignados à Comissão, por despacho dos respectivos Ministros da tutela, sob proposta da Comissão.
 
-###### Art. 8.º Constituem receitas da Comissão:
+Art. 8.º Constituem receitas da Comissão:
 
 a) As que lhe forem directamente atribuídas pelos Ministérios da tutela;
 
 b) Quaisquer outras que lhe forem atribuídas pelos diplomas legais reguladores das matérias em que, por força do presente decreto-lei, seja chamada a intervir.
 
-###### Art. 9.º - 1 - A actividade financeira da Comissão ficará sujeita a orçamento a elaborar anualmente e a submeter à aprovação dos Ministros da tutela até 30 de Outubro.
+Art. 9.º - 1 - A actividade financeira da Comissão ficará sujeita a orçamento a elaborar anualmente e a submeter à aprovação dos Ministros da tutela até 30 de Outubro.
 
 2 - A Comissão prestará contas aos Ministros da tutela até 31 de Março de cada ano.
 
-###### Art. 10.º Os Ministérios de tutela providenciarão para que os seus serviços centrais e regionais prestem à Comissão toda a colaboração necessária ao desempenho das suas funções.
+Art. 10.º Os Ministérios de tutela providenciarão para que os seus serviços centrais e regionais prestem à Comissão toda a colaboração necessária ao desempenho das suas funções.
 
-###### Art. 11.º - 1 - A Comissão, com os fundos que lhe foram atribuídos, poderá, em caso de necessidade, assegurar, por contrato de trabalho a prazo, a colaboração de elementos administrativos ou técnicos, até ao número de cinco.
+Art. 11.º - 1 - A Comissão, com os fundos que lhe foram atribuídos, poderá, em caso de necessidade, assegurar, por contrato de trabalho a prazo, a colaboração de elementos administrativos ou técnicos, até ao número de cinco.
 
 2 - A Comissão poderá recorrer temporariamente à colaboração de técnicos de reconhecida competência.
 
-###### Art. 12.º O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
+Art. 12.º O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 30 de Abril de 1980.**
+Promulgado em 30 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

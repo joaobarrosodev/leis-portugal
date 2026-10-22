@@ -47,36 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49042-1969-200412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2900a693849ac471064babb3887350ae6f38f26167aca2e8941cbf0834eb3c49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de7b28c31b34013c2c3f998f87c5cbdb42093692e069a2b23d19b71fdf90eb9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Câmara Municipal
+- Conselho de Administração
+- Criação de Empresas
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Expropriação
+- Federação de Municípios
+- ILHA de são Miguel
+- Junta Geral
+- Ponta Delgada
+- Presidente
+- Produção de Energia Elétrica
+- Transporte de Energia
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:158018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:33Z'
   warnings: []
   errors: []
 ---
@@ -115,27 +162,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Governo promoverá a constituição de uma empresa de economia mista, neste diploma designada por «Empresa», com sede na cidade de Ponta Delgada e delegação em Lisboa, tendo por objecto a produção, transporte e distribuição de energia eléctrica em todo o distrito de Ponta Delgada.
+Artigo 1.º O Governo promoverá a constituição de uma empresa de economia mista, neste diploma designada por «Empresa», com sede na cidade de Ponta Delgada e delegação em Lisboa, tendo por objecto a produção, transporte e distribuição de energia eléctrica em todo o distrito de Ponta Delgada.
 
-###### Art. 2.º - 1. Ficam desde já autorizados a participar no capital da Empresa a Junta Geral do Distrito Autónomo de Ponta Delgada, a Federação dos Municípios da Ilha de S. Miguel e as câmaras municipais do distrito.
+Art. 2.º - 1. Ficam desde já autorizados a participar no capital da Empresa a Junta Geral do Distrito Autónomo de Ponta Delgada, a Federação dos Municípios da Ilha de S. Miguel e as câmaras municipais do distrito.
 
 2. A Empresa receberá directo apoio financeiro, administrativo e técnico para a sua constituição e funcionamento de entidades do continente, designadamente das empresas da rede eléctrica primária.
 
-###### Art. 3.º - 1. Os estatutos da Empresa deverão consignar a preferência pelos capitais locais e, de entre estes, pelos pequenos accionistas.
+Art. 3.º - 1. Os estatutos da Empresa deverão consignar a preferência pelos capitais locais e, de entre estes, pelos pequenos accionistas.
 
 2. O presidente do conselho de administração da Empresa será designado pelo Ministro da Economia, ouvida a Junta Geral do Distrito Autónomo de Ponta Delgada.
 
-###### Art. 4.º - 1. As concessões a outorgar à Empresa se-lo-ão em exclusivo e por tempo indeterminado.
+Art. 4.º - 1. As concessões a outorgar à Empresa se-lo-ão em exclusivo e por tempo indeterminado.
 
 2. Fica expressamente ressalvada a possibilidade de rescisão, mediante o pagamento do justo valor das instalações na altura em que ela se verifique.
 
-###### Art. 5.º - 1. A Federação dos Municípios da Ilha de S. Miguel cederá à Empresa, no prazo de sessenta dias, a contar da data da constituição desta, a concessão do aproveitamento hidroeléctrico da Ribeira Grande, situada no concelho do mesmo nome, com todos os pertences, obras e instalações que dele fazem parte.
+Art. 5.º - 1. A Federação dos Municípios da Ilha de S. Miguel cederá à Empresa, no prazo de sessenta dias, a contar da data da constituição desta, a concessão do aproveitamento hidroeléctrico da Ribeira Grande, situada no concelho do mesmo nome, com todos os pertences, obras e instalações que dele fazem parte.
 
 2. A partir da data da cessão consideram-se transferidos para a Empresa todos os direitos, encargos e obrigações atribuídos ou impostos ao concessionário pelos decretos que outorgaram as concessões.
 
-###### Art. 6.º A Federação dos Municípios outorgará à Empresa, nos termos legais, por tempo indeterminado e com declaração de utilidade pública, a concessão da distribuição de energia eléctrica para iluminação pública particular, força motriz e outros usos em toda a área da ilha de S. Miguel.
+Art. 6.º A Federação dos Municípios outorgará à Empresa, nos termos legais, por tempo indeterminado e com declaração de utilidade pública, a concessão da distribuição de energia eléctrica para iluminação pública particular, força motriz e outros usos em toda a área da ilha de S. Miguel.
 
-###### Art. 7.º - 1. Todas as instalações de produção, transporte e distribuição de energia eléctrica actualmente exploradas pela Federação dos Municípios serão transferidas para a Empresa, mediante o pagamento de justa indemnização.
+Art. 7.º - 1. Todas as instalações de produção, transporte e distribuição de energia eléctrica actualmente exploradas pela Federação dos Municípios serão transferidas para a Empresa, mediante o pagamento de justa indemnização.
 
 2. A Federação dos Municípios poderá participar no capital da Empresa até ao valor das instalações, referidas no n.º 1 deste artigo, que constituam património da Federação.
 
@@ -147,17 +194,17 @@ a) As respectivas anuidades, calculadas com juros compostos à taxa legal, varie
 
 b) O pagamento venha a concluir-se no mesmo ano em que terminar a amortização do último empréstimo contraído para aquele fim.
 
-###### Art. 8.º A Câmara Municipal de Vila do Porto outorgará à Empresa, nos termos legais, por tempo indeterminado e com declaração de utilidade pública, a concessão da distribuição de energia eléctrica para iluminação pública e particular, força motriz e outros usos em toda a área do concelho de Vila do Porto.
+Art. 8.º A Câmara Municipal de Vila do Porto outorgará à Empresa, nos termos legais, por tempo indeterminado e com declaração de utilidade pública, a concessão da distribuição de energia eléctrica para iluminação pública e particular, força motriz e outros usos em toda a área do concelho de Vila do Porto.
 
-###### Art. 9.º - 1. Todas as instalações de produção, transporte e distribuição de energia eléctrica actualmente pertencentes à Câmara Municipal de Vila do Porto serão transferidas para a Empresa, mediante o pagamento de justa indemnização.
+Art. 9.º - 1. Todas as instalações de produção, transporte e distribuição de energia eléctrica actualmente pertencentes à Câmara Municipal de Vila do Porto serão transferidas para a Empresa, mediante o pagamento de justa indemnização.
 
 2. A Câmara Municipal de Vila do Porto poderá participar no capital da Empresa concessionária até ao valor das instalações referido no n.º 1 deste artigo.
 
-###### Art. 10.º - 1. A quota-parte das instalações actualmente exploradas pela Federação dos Municípios da Ilha de S. Miguel correspondente às comparticipações do Estado é considerada património distrital e o seu valor representará uma quota de participação, sem direito a dividendo, da Junta Geral do Distrito Autónomo de Ponta Delgada no capital da Empresa, independentemente de qualquer outra participação da mesma Junta Geral, em numerário.
+Art. 10.º - 1. A quota-parte das instalações actualmente exploradas pela Federação dos Municípios da Ilha de S. Miguel correspondente às comparticipações do Estado é considerada património distrital e o seu valor representará uma quota de participação, sem direito a dividendo, da Junta Geral do Distrito Autónomo de Ponta Delgada no capital da Empresa, independentemente de qualquer outra participação da mesma Junta Geral, em numerário.
 
-###### Art. 11.º Para determinação do valor das indemnizações referidas no n.º 1 do artigo 7.º e do artigo 9.º, bem como das quotas de participação no capital referidas no n.º 2 do artigo 7.º e do artigo 9.º e no n.º 1 do artigo 10.º, observar-se-á o disposto no § 3.º do artigo 79.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, ficando a cargo das duas partes interessadas e na proporção de metade para cada uma o pagamento das despesas com o funcionamento da comissão nele prevista.
+Art. 11.º Para determinação do valor das indemnizações referidas no n.º 1 do artigo 7.º e do artigo 9.º, bem como das quotas de participação no capital referidas no n.º 2 do artigo 7.º e do artigo 9.º e no n.º 1 do artigo 10.º, observar-se-á o disposto no § 3.º do artigo 79.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, ficando a cargo das duas partes interessadas e na proporção de metade para cada uma o pagamento das despesas com o funcionamento da comissão nele prevista.
 
-###### Art. 12.º - 1. No prazo de um ano, a contar da sua constituição, a Empresa submeterá à aprovação do Governo, por intermédio da Direcção-Geral dos Serviços Eléctricos, um plano geral dos centros produtores hidráulicos e térmicos e de electrificação do distrito de Ponta Delgada para um período de dez anos e ainda o programa ordenado da sua actividade na 1.ª fase de execução, em cinco anos, do referido plano, tendo em conta, além dos serviços correntes de exploração e da execução das novas obras previstas nesse plano, a remodelação das redes existentes.
+Art. 12.º - 1. No prazo de um ano, a contar da sua constituição, a Empresa submeterá à aprovação do Governo, por intermédio da Direcção-Geral dos Serviços Eléctricos, um plano geral dos centros produtores hidráulicos e térmicos e de electrificação do distrito de Ponta Delgada para um período de dez anos e ainda o programa ordenado da sua actividade na 1.ª fase de execução, em cinco anos, do referido plano, tendo em conta, além dos serviços correntes de exploração e da execução das novas obras previstas nesse plano, a remodelação das redes existentes.
 
 2. O plano referido no n.º 1 deste artigo será acompanhado de:
 
@@ -171,11 +218,11 @@ c) Previsão das alterações que se imponham nas centrais existentes, cuja expl
 
 4. Nos estudos sobre o equilíbrio económico da Empresa, com vista à garantia da sua rentabilidade, aplicar-se-ão para a fixação das tarifas, além das regras do artigo 122.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, as disposições dos Decretos-Leis n.os 46031, de 14 de Novembro de 1964, 46917, de 23 de Março de 1966, e 47735, de 29 de Maio de 1967, estas para a sua actividade de produção.
 
-###### Art. 13.º - 1. À Empresa será cometida, além da execução do plano referido no n.º 1 do artigo anterior e da exploração das instalações nele previstas, a exploração de todas as instalações de produção e distribuição de energia eléctrica actualmente existente no distrito de Ponta Delgada.
+Art. 13.º - 1. À Empresa será cometida, além da execução do plano referido no n.º 1 do artigo anterior e da exploração das instalações nele previstas, a exploração de todas as instalações de produção e distribuição de energia eléctrica actualmente existente no distrito de Ponta Delgada.
 
 2. Até que os aproveitamentos hidroeléctricos da Empresa de Electricidade e Gás, Lda., sejam integrados na Empresa, aplicar-se-ão as disposições do presente decreto-lei que a ela se referem.
 
-###### Art. 14.º - 1. As centrais actualmente exploradas em regime de concessão pela Empresa de Electricidade e Gás, Lda., poderão continuar a cargo desta, ou ser integradas na Empresa, por conta ou mediante participação daquela no seu capital, ou arrendadas à segunda mediante contrato aprovado pelo Secretário de Estado da Indústria.
+Art. 14.º - 1. As centrais actualmente exploradas em regime de concessão pela Empresa de Electricidade e Gás, Lda., poderão continuar a cargo desta, ou ser integradas na Empresa, por conta ou mediante participação daquela no seu capital, ou arrendadas à segunda mediante contrato aprovado pelo Secretário de Estado da Indústria.
 
 2. A Empresa de Electricidade e Gás, Lda., deverá informar a Empresa, no prazo de sessenta dias, a contar da data da sua constituição, sobre se prefere continuar com a exploração das centrais referidas no n.º 1 deste artigo ou adoptar qualquer das modalidades nele previstas; se o não fizer, ou enquanto não for possível o acordo para a celebração do necessário contrato, a Empresa adquirirá nas barras das centrais a energia nelas produzida, nas condições de venda a fixar por despacho do Secretário de Estado da Indústria.
 
@@ -187,46 +234,46 @@ c) Previsão das alterações que se imponham nas centrais existentes, cuja expl
 
 6. A exploração das centrais da Empresa de Electricidade e Gás, Lda., fica sujeita às normas de repartição de cargas e de regulação de frequência e tensão que venham a ser postas em vigor, ouvida, se necessário, a Direcção-Geral dos Serviços Eléctricos.
 
-###### Art. 15.º No caso de resgate das concessões de que é titular a Empresa de Electricidade e Gás, Lda., serão elas outorgadas à Empresa, para quem se transferirão também os direitos e encargos inerentes ao resgate.
+Art. 15.º No caso de resgate das concessões de que é titular a Empresa de Electricidade e Gás, Lda., serão elas outorgadas à Empresa, para quem se transferirão também os direitos e encargos inerentes ao resgate.
 
-###### Art. 16.º Na outorga das concessões dos aproveitamentos a realizar pela Empresa e dos já existentes de que ela tomar posse, poderão dispensar-se ou modificar-se as formalidades previstas no título III capítulo II, do Decreto n.º 5787-IV, de 10 de Maio de 1919, no Regulamento do Aproveitamento das Águas Públicas por Concessão, aprovado pelo [Decreto n.º 6287](https://diariodarepublica.pt/dr/detalhe/decreto/6287-1919-351149), de 20 de Dezembro de 1919, e no [Decreto n.º 16767](https://diariodarepublica.pt/dr/detalhe/decreto/16767-1929-356305), de 20 de Abril de 1929.
+Art. 16.º Na outorga das concessões dos aproveitamentos a realizar pela Empresa e dos já existentes de que ela tomar posse, poderão dispensar-se ou modificar-se as formalidades previstas no título III capítulo II, do Decreto n.º 5787-IV, de 10 de Maio de 1919, no Regulamento do Aproveitamento das Águas Públicas por Concessão, aprovado pelo [Decreto n.º 6287](https://diariodarepublica.pt/dr/detalhe/decreto/6287-1919-351149), de 20 de Dezembro de 1919, e no [Decreto n.º 16767](https://diariodarepublica.pt/dr/detalhe/decreto/16767-1929-356305), de 20 de Abril de 1929.
 
-###### Art. 17.º - 1. Nenhum aproveitamento de águas públicas no distrito de Ponta Delgada poderá ser autorizado sem que a Junta Geral do Distrito Autónomo de Ponta Delgada, ouvida a Empresa, dê o seu parecer.
+Art. 17.º - 1. Nenhum aproveitamento de águas públicas no distrito de Ponta Delgada poderá ser autorizado sem que a Junta Geral do Distrito Autónomo de Ponta Delgada, ouvida a Empresa, dê o seu parecer.
 
 2. A falta de parecer fundamentado no prazo de noventa dias, depois de solicitado pelo organismo em que o pedido de aproveitamento tenha sido apresentado, será considerada como concordância com o respectivo deferimento.
 
-###### Art. 18.º A fiscalização dos trabalhos de execução do plano a que se refere o artigo 10.º, na parte relativa a aproveitamentos hidráulicos, será exercida pela Direcção-Geral dos Serviços Hidráulicos, ou pela Comissão de Fiscalização das Obras dos Grandes Aproveitamentos Hidráulicos, constituída pelo [Decreto n.º 35684](https://diariodarepublica.pt/dr/detalhe/decreto/35684-1946-158018), de 3 de Junho de 1946, consoante for determinado por despacho do Ministro das Obras Públicas.
+Art. 18.º A fiscalização dos trabalhos de execução do plano a que se refere o artigo 10.º, na parte relativa a aproveitamentos hidráulicos, será exercida pela Direcção-Geral dos Serviços Hidráulicos, ou pela Comissão de Fiscalização das Obras dos Grandes Aproveitamentos Hidráulicos, constituída pelo [Decreto n.º 35684](https://diariodarepublica.pt/dr/detalhe/decreto/35684-1946-158018), de 3 de Junho de 1946, consoante for determinado por despacho do Ministro das Obras Públicas.
 
-###### Art. 19.º As redes de distribuição de energia eléctrica, em alta e baixa tensão, serão licenciadas pela Junta Geral do Distrito Autónomo de Ponta Delgada, observado o disposto na lei e ouvida a Direcção-Geral dos Serviços Eléctricos no caso de alterações que afectem sensìvelmente o programa inicial apresentado pela Empresa.
+Art. 19.º As redes de distribuição de energia eléctrica, em alta e baixa tensão, serão licenciadas pela Junta Geral do Distrito Autónomo de Ponta Delgada, observado o disposto na lei e ouvida a Direcção-Geral dos Serviços Eléctricos no caso de alterações que afectem sensìvelmente o programa inicial apresentado pela Empresa.
 
-###### Art. 20.º - 1. A Empresa garantirá o emprego, sem qualquer prejuízo dos respectivos direitos e regalias, a todo o pessoal técnico e administrativo que, à data da publicação do presente diploma, faça parte dos quadros permanentes da Federação dos Municípios da Ilha de S. Miguel e que esta não prefira manter ao seu serviço.
+Art. 20.º - 1. A Empresa garantirá o emprego, sem qualquer prejuízo dos respectivos direitos e regalias, a todo o pessoal técnico e administrativo que, à data da publicação do presente diploma, faça parte dos quadros permanentes da Federação dos Municípios da Ilha de S. Miguel e que esta não prefira manter ao seu serviço.
 
 2. O mesmo se observará, na parte aplicável, com o pessoal da Câmara Municipal de Vila do Porto afecto às suas instalações de produção e distribuição de energia eléctrica, e como o pessoal da Empresa de Electricidade e Gás, Lda., no caso de integração desta na Empresa.
 
-###### Art. 21.º É declarada a utilidade pública urgente das expropriações necessárias à consecução dos objectivos do presente diploma.
+Art. 21.º É declarada a utilidade pública urgente das expropriações necessárias à consecução dos objectivos do presente diploma.
 
-###### Art. 22.º São isentas de sisa as transmissões efectuadas em execução do presente diploma.
+Art. 22.º São isentas de sisa as transmissões efectuadas em execução do presente diploma.
 
-###### Art. 23.º A Empresa beneficiará de isenção da contribuição industrial, nos termos do n.º 16 do artigo 14.º do Código aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963.
+Art. 23.º A Empresa beneficiará de isenção da contribuição industrial, nos termos do n.º 16 do artigo 14.º do Código aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963.
 
-###### Art. 24.º A Empresa poderá beneficiar, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, de isenção de direitos devidos pela importação de equipamento destinado a ficar integrado nas suas instalações de produção de energia eléctrica.
+Art. 24.º A Empresa poderá beneficiar, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, de isenção de direitos devidos pela importação de equipamento destinado a ficar integrado nas suas instalações de produção de energia eléctrica.
 
-###### Art. 25.º - 1. As comparticipações do Estado previstas na lei para obras de pequena distribuição de energia eléctrica poderão ser concedidas à Empresa nos mesmos termos que às federações de municípios ou aos municípios não federados.
+Art. 25.º - 1. As comparticipações do Estado previstas na lei para obras de pequena distribuição de energia eléctrica poderão ser concedidas à Empresa nos mesmos termos que às federações de municípios ou aos municípios não federados.
 
 2. O valor das comparticipações referidas no n.º 1 deste artigo constituirá património distrital e será incorporado no capital da Empresa como participação, sem direito a dividendo, da Junta Geral do Distrito Autónomo de Ponta Delgada.
 
-###### Art. 26.º - 1. O projecto dos estatutos da Empresa será elaborado por uma comissão nomeada por portaria do Secretário de Estado da Indústria.
+Art. 26.º - 1. O projecto dos estatutos da Empresa será elaborado por uma comissão nomeada por portaria do Secretário de Estado da Indústria.
 
 2. Da comissão farão parte representantes da Junta Geral do Distrito Autónomo de Ponta Delgada, da Federação dos Municípios da Ilha de S. Miguel, da Câmara Municipal de Vila do Porto e das empresas da rede eléctrica primária.
 
 3. A comissão colaborará também na preparação do projecto do caderno de encargos necessário.
 
-###### Art. 27.º Enquanto a Empresa não entrar em actividade, a exploração das redes eléctricas de S. Miguel e de Santa Maria manter-se-á a cargo, respectivamente, da Federação dos Municípios da Ilha de S. Miguel e da Câmara Municipal de Vila do Porto.
+Art. 27.º Enquanto a Empresa não entrar em actividade, a exploração das redes eléctricas de S. Miguel e de Santa Maria manter-se-á a cargo, respectivamente, da Federação dos Municípios da Ilha de S. Miguel e da Câmara Municipal de Vila do Porto.
 
 Marcelo Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 28 de Maio de 1969.**
+Promulgado em 28 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

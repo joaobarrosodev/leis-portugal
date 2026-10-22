@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/25900/25072512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/791-1976-409289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87b2dc0907a79c518ddc9e5a5abfdcc4c8db679c372684315a2a6acaea98bb9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 310dafc475888cd69a1d4eb8793e0bd609704699646fd05aa4d091a1899a1c17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Centro de Investigação e Controlo da Droga
+- Centro de Investigação Judiciária da Droga
+- Criação de Serviços
+- Crime
+- Definição de Competências
+- Droga
+- Extinção de Serviços
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Investigação Criminal
+- Orgânica
+- Pessoal Dirigente
+- Presidência do Conselho de Ministros
+- Primeiro-ministro
+- Quadro de Pessoal
+- Toxicodependente
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:363895:por
+  label: "Alterado o nº 1 do art. 37º pelo DEC LEI.436/79.1979.11.06.PCM, DR.IS [256] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1979-363895
+  date: '1979-11-06'
+- type: amended_by
+  target: pt:dre:469776:por
+  label: "Substituido o quadro de pessoal do Centro de Investigação e Controlo da Droga, aprovado pelo presente diploma, pelo\
+    \ quadro VIII anexo à PORT.547/80.1980.08.28.PCM DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1980-469776
+  date: '1980-08-28'
+- type: amended_by
+  target: pt:dre:458175:por
+  label: "Aumentado lugares ao quadro de pessoal do Centro de Investigação e Contrôle da Droga, aprovado pelo presente diploma,\
+    \ pela PORT.1004/80.21.10.1980.PCM, DR.IS [272/80] de 24.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1004-1980-458175
+  date: '1980-10-21'
+- type: cites
+  target: pt:dre:148827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408104:por
+  label: DECL.DD878.1976.11.19.PCM DR.IS [286] DE 09/DEZ/1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408104
+  date: '1976-11-19'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:07Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +182,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Definição)
 
@@ -130,7 +190,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2. O CICD é um organismo de âmbito nacional que goza de autonomia técnica e administrativa, estando sujeito, no planeamento global da sua actividade, às directrizes dimanadas do coordenador referido nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 745/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/745-1975-355158).
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Competência)
 
@@ -150,7 +210,7 @@ f) A assistência técnica aos organismos referidos no artigo 6.º e a formaçã
 
 g) A manutenção de contactos com agências estrangeiras e organismos internacionais, com vista à assistência técnica recíproca e à colaboração no desmantelamento das redes de tráfico da droga.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Organização)
 
@@ -174,13 +234,13 @@ d) O gabinete de documentação e formação profissional;
 
 e) Serviços administrativos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Direcção)
 
 Ao director, coadjuvado pelos subdirectores e director do gabinete de documentação e formação profissional, compete a execução de plano elaborado pelo grupo referido na alínea c) do n.º 1 do artigo anterior, bem como a orientação geral do Centro.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Conselho administrativo)
 
@@ -204,7 +264,7 @@ e) As receitas provenientes da prestação de serviços a entidades públicas ou
 
 f) Outras receitas que lhe sejam atribuídas por lei, por contrato ou outro título.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Grupo de planeamento)
 
@@ -214,25 +274,25 @@ f) Outras receitas que lhe sejam atribuídas por lei, por contrato ou outro tít
 
 3. Os membros do grupo de planeamento terão direito ao abono de senhas de presença, transporte e ajudas de custo, nos termos legais.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Informação e «contrôle»)
 
 À divisão de informação e contrôle competem, em colaboração com os competentes organismos de saúde pública, as funções referidas nas alíneas a) e b) do artigo 2.º e ainda efectuar o contrôle documental da circulação dos produtos farmacêuticos com acção psicotrópica referidos na alínea d) do mesmo artigo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Fiscalização e pesquisa)
 
 À divisão de fiscalização e pesquisa compete, ainda em colaboração com os organismos mencionados no artigo anterior, exercer a fiscalização referida na alínea d) do artigo 2.º e apoiar tecnicamente as investigações.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Investigação)
 
 Às divisões de investigação compete proceder às investigações referidas nas alíneas d) e e) do artigo 2.º e prestar o apoio e a colaboração previstos nas alíneas f) e g) do mesmo artigo.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Documentação e formação profissional)
 
@@ -246,25 +306,25 @@ c) Reunir e divulgar toda a informação respeitante a métodos e técnicas de i
 
 d) Organizar e manter um museu com objectivos didácticos.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Serviços administrativos)
 
 Os serviços administrativos prestam apoio a todos os departamentos referidos no artigo 3.º e compreendem as funções de secretaria, tesouraria e contabilidade, gestão, de património, economato, transportes e comunicações, serviço de reprografia e arrecadação.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Cooperação de outras entidades)
 
 O CICD poderá solicitar directamente diligências de investigação às autoridades administrativas ou policiais, nomeadamente às referidas no artigo 6.º
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Telecomunicações)
 
 As autoridades referidas no artigo 6.º concederão ao CICD todas as facilidades em matéria de telecomunicações, com vista à realização das actividades compreendidas na sua competência.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Remessa de informações)
 
@@ -276,7 +336,7 @@ As autoridades referidas no artigo 6.º concederão ao CICD todas as facilidades
 
 4. A obrigação constante do número anterior incumbe igualmente às drogarias e outros estabelecimentos que transaccionem ou, por qualquer modo, tenham em seu poder drogas ou produtos susceptíveis de ser utilizados na sua preparação.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Relações com o Gabinete Nacional da Interpol)
 
@@ -284,13 +344,13 @@ As autoridades referidas no artigo 6.º concederão ao CICD todas as facilidades
 
 2. É da competência do CICD a execução de todas as diligências referentes à droga solicitadas ao GNI, salvo as que se efectivarem na sequência de investigações a cargo de outras autoridades nacionais.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Informações a prestar pela Direcção-Geral dos Serviços Prisionais)
 
 A Direcção-Geral dos Serviços Prisionais comunicará ao CICD a eventual evasão de reclusos condenados por infracções respeitantes a droga e, com a antecedência possível, a sua libertação.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Apoio técnico)
 
@@ -298,25 +358,25 @@ A Direcção-Geral dos Serviços Prisionais comunicará ao CICD a eventual evas�
 
 2. O Centro de Informática do Ministério da Justiça cooperará com o CICD em matéria de utilização da informática e de implantação de sistemas de processamento adequados.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Cooperação de empresas de transportes e distribuição)
 
 As empresas que tenham a seu cargo o transporte e a distribuição de mercadorias ou correio concederão ao CICD todas as facilidades no desempenho das funções que a este competem, sem prejuízo da inviolabilidade do sigilo da correspondência.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Poderes da Polícia Judiciária)
 
 Dentro da esfera das suas atribuições e competência, o pessoal directivo e os investigadores do CICD possuem todos os poderes que a lei confere às autotivos às infracções por este investigadas.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Requisição de diligências de instrução)
 
 Os juízos de instrução e o Ministério Público poderão requisitar ao CICD as diligências de investigação que entendam convenientes, nos processos relativos às informações por este investigadas.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Destino dos instrumentos das condutas ilícitas)
 
@@ -326,7 +386,7 @@ Os juízos de instrução e o Ministério Público poderão requisitar ao CICD a
 
 3. Igual destino poderá ser ainda atribuído pelo juiz que condenar agentes responsáveis por actos ilícitos relacionados com a droga aos meios de transporte privados que tenham sido utilizados para o respectivo tráfico ilícito.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Pessoal do Centro)
 
@@ -334,19 +394,19 @@ Os juízos de instrução e o Ministério Público poderão requisitar ao CICD a
 
 2. A distribuição do pessoal pelos diferentes serviços é da competência da direcção.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Legislação aplicável ao pessoal dirigente e de investigação)
 
 É aplicável ao pessoal dirigente e de investigação o disposto quanto ao pessoal da Polícia Judiciária no artigo 11.º e seu § 1.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945, e no artigo 7.º do [Decreto-Lei n.º 481/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1975-307605), de 4 de Setembro, ou nas disposições legais que venham a substituí-los.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Carácter secreto das diligências)
 
 As diligências efectuadas pelo CICD no decurso das investigações que lhe competem têm carácter secreto, constituindo infracção disciplinar a sua revelação com desrespeito das pertinentes normas internas.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Sanções)
 
@@ -354,13 +414,13 @@ As diligências efectuadas pelo CICD no decurso das investigações que lhe comp
 
 2. É punida com a pena correspondente ao crime de desobediência qualificada ou ao crime de resistência, corforme os casos, a violação do dever constante do artigo 18.º
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Carácter do serviço de Informação e investigação)
 
 O serviço de informação e investigação do CICD é, para os respectivos funcionários, de carácter permanente e obrigatório.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Direitos do pessoal dirigente e de investigação)
 
@@ -370,13 +430,13 @@ O pessoal dirigente e de investigação goza, além dos que competem aos demais 
 
 2.º De uso e porte de arma de defesa de qualquer modelo, independentemente de licença.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Limites de idade)
 
 Poderão ser desligados do serviço depois de atingirem os 55 anos de idade os investigadores e os investigadores principais e os 60 anos os chefes de divisão.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Nomeação dos investigadores)
 
@@ -386,25 +446,25 @@ Poderão ser desligados do serviço depois de atingirem os 55 anos de idade os i
 
 3. O provimento terá carácter provisório durante dois anos e enquanto não se converter em definitivo os investigadores são considerados estagiários.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Provimento definitivo)
 
 Os estagiários são providos definitivamente na categoria de investigadores de 2.ª decorrido o prazo a que se refere o n.º 3 do artigo anterior se tiverem tido aproveitamento nos cursos que tiverem frequentado e forem julgados aptos, sendo exonerados no caso contrário.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Nomeação dos investigadores de 1.ª, principais e dos chefes de divisão)
 
 Os lugares de investigador de 1.ª, principal e de chefe de divisão serão providos por concurso de prestação de provas de entre os investigadores e investigadores principais, respectivamente, tomando a direcção em conta os serviços anteriormente prestados pelos concorrentes e a classificação obtida nos cursos que tiverem frequentado.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 1. O provimento do lugar de técnico farmacêutico feito de entre licenciados em Farmácia com o mínimo de três anos de experiência e currículo adequado às funções que vai desempenhar.
 
 2. O provimento do lugar de técnico auxiliar principal é feito de entre técnicos auxiliares de 1.ª classe com o mínimo de três anos de serviço na classe.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Nomeação dos subdirectores)
 
@@ -412,19 +472,19 @@ Os lugares de investigador de 1.ª, principal e de chefe de divisão serão prov
 
 2. Não se verificando as condições expressas no número anterior, poderão os lugares de subdirector ser providos em indivíduos de comprovada capacidade e experiência profissional para o cargo, diplomados com curso superior.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Nomeação do director do Gabinete de Documentação e Formação Profissional)
 
 O cargo de director do Gabinete de Documentação e Formação Profissional será exercido em comissão de serviço, por tempo indeterminado, por diplomado com curso superior de reconhecida competência científica e pedagógica, mediante proposta da direcção.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Nomeação do director)
 
 O lugar de director será provido em regime de comissão de serviço, por tempo indeterminado, por livre escolha de entre indivíduos diplomados com curso superior, de reconhecida competência e idoneidade para o desempenho do cargo, mediante proposta do coordenador referido nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 745/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/745-1975-355158), de 31 de Dezembro, e despacho do Primeiro-Ministro.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Disposições transitórias)
 
@@ -436,7 +496,7 @@ O lugar de director será provido em regime de comissão de serviço, por tempo 
 
 4. Os encargos resultantes do presente diploma serão suportados, no ano económico corrente, pelas disponibilidades da dotação inscrita no orçamento de Encargos Gerais da Nação destinada à satisfação das despesas com o Centro de Estudos da Juventude e o Centro de Investigação Judiciária da Droga, a qual poderá, se necessário, ser reforçada.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Delegação de competência)
 
@@ -446,14 +506,14 @@ O lugar de director será provido em regime de comissão de serviço, por tempo 
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 25 de Outubro de 1976.**
+Promulgado em 25 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal a que se refere o artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/25900/25072512.pdf))](https://files.diariodarepublica.pt/1s/1976/11/25900/25072512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/25900/25072512.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

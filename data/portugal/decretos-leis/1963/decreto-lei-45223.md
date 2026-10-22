@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/09/20600/14151420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T21:46:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66455954e818873d2402c32523468ac9fb62efa905b6840172518a7299e336da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4aa8258fbb392b3cf8c6f1d4bb89b1316452ca2a33e8721f53b2972f10f78dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Depósitos Crédito e Previdência
+- Caixa Nacional de Crédito
+- Cereal
+- Empréstimo
+- Farinha
+- Federação Nacional dos Produtores de Trigo
+- Financiamento
+- Fundo de Abastecimento
+- Indústria de Moagem
+- Pão
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:380929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539265:por
+  label: "Mantido em vigor para a campanha de 1964-1965, o disposto no presente diploma, pelo DEC LEI.45900.01.09.1964.MF,\
+    \ DG.IS [205] de 01.09.1964, com as alterações constantes do mesmo \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45900-1964-539265
+  date: '1964-09-01'
+- type: amended_by
+  target: pt:dre:312227:por
+  label: "Prorrogado até 30 de Setembro de 1967 o prazo estabelecido no corpo do art. 27.º pelo DEC LEI.47750.06.06.1967.MECO,\
+    \ DG.IS [132] de 06.06.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47750-1967-312227
+  date: '1967-06-06'
+- type: amended_by
+  target: pt:dre:388801:por
+  label: "Alterado o art. 7º do Dec Lei 47750, de 06-Jun de 1967, que prorroga o prazo estabelecido no art. 27º do presente\
+    \ diploma, pelo DEC LEI.48018.02.11.1967.MECO, DG.IS [255] de 02.11.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48018-1967-388801
+  date: '1967-11-02'
+- type: cites
+  target: pt:dre:159965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380929:por
+  label: Revogado, a partir de 01.01.1985, pelo(a) Decreto-Lei n.º 288/84 - Diário da República n.º 196/1984, Série I de 1984-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1984-380929
+  date: '1984-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:46:10Z'
   warnings: []
   errors: []
 ---
@@ -172,39 +230,39 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É mantida para a colheita de 1964 a tabela reguladora do preço do trigo estabelecida no artigo 1.º e seus parágrafos do Decreto n.º 36993, de 31 de Julho de 1948, com as alterações constantes do artigo 3.º do [Decreto-Lei n.º 38850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38850-1952-668960), de 7 de Agosto de 1952, do artigo 2.º e seu § único do [Decreto-Lei n.º 41249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41249-1957-281249), de 31 de Agosto de 1957, e do artigo 3.º do [Decreto-Lei n.º 44571](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44571-1962-159965), de 12 de Setembro de 1962.
+Artigo 1.º É mantida para a colheita de 1964 a tabela reguladora do preço do trigo estabelecida no artigo 1.º e seus parágrafos do Decreto n.º 36993, de 31 de Julho de 1948, com as alterações constantes do artigo 3.º do [Decreto-Lei n.º 38850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38850-1952-668960), de 7 de Agosto de 1952, do artigo 2.º e seu § único do [Decreto-Lei n.º 41249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41249-1957-281249), de 31 de Agosto de 1957, e do artigo 3.º do [Decreto-Lei n.º 44571](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44571-1962-159965), de 12 de Setembro de 1962.
 
-###### Art. 2.º Para a colheita de 1964 é fixado em 2$45 o preço-base de compra de centeio pela Federação Nacional dos Produtores de Trigo.
+Art. 2.º Para a colheita de 1964 é fixado em 2$45 o preço-base de compra de centeio pela Federação Nacional dos Produtores de Trigo.
 
-###### Art. 3.º A partir da entrada em vigor do presente diploma deixarão de ser fabricadas as farinhas de tipo especial e de tipo corrente, previstas no artigo 3.º do [Decreto-Lei n.º 39993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39993-1954-675853), de 31 de Julho de 1948.
+Art. 3.º A partir da entrada em vigor do presente diploma deixarão de ser fabricadas as farinhas de tipo especial e de tipo corrente, previstas no artigo 3.º do [Decreto-Lei n.º 39993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39993-1954-675853), de 31 de Julho de 1948.
 
 § único. O Instituto Nacional do Pão e a Federação Nacional dos Industriais de Moagem determinarão de comum acordo o aproveitamento a dar ao centeio existente nas moagens de farinhas de trigo.
 
-###### Art. 4.º As farinhas de trigo a produzir para panificação pela respectiva indústria de moagem serão de primeira qualidade (tipo extra a que se refere o artigo 4.º do [Decreto-Lei n.º 38850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38850-1952-668960), de 7 de Agosto de 1952) e de segunda qualidade (tipo normal).
+Art. 4.º As farinhas de trigo a produzir para panificação pela respectiva indústria de moagem serão de primeira qualidade (tipo extra a que se refere o artigo 4.º do [Decreto-Lei n.º 38850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38850-1952-668960), de 7 de Agosto de 1952) e de segunda qualidade (tipo normal).
 
-###### Art. 5.º Compete ao Instituto Nacional do Pão, pelo seu conselho geral, determinar os esquemas de proporcionalidade de fabrico simultâneo dos tipos de farinhas previstos no artigo anterior, a praticar pelas unidades fabris quando circunstâncias especiais justifiquem que cada um desses tipos não seja fabricado isoladamente, não podendo, todavia, em nenhum caso, ser alteradas a extracção mínima normal, as características das farinhas e a taxa de moagem.
+Art. 5.º Compete ao Instituto Nacional do Pão, pelo seu conselho geral, determinar os esquemas de proporcionalidade de fabrico simultâneo dos tipos de farinhas previstos no artigo anterior, a praticar pelas unidades fabris quando circunstâncias especiais justifiquem que cada um desses tipos não seja fabricado isoladamente, não podendo, todavia, em nenhum caso, ser alteradas a extracção mínima normal, as características das farinhas e a taxa de moagem.
 
 § 1.º Quando se verifique urgência, a adopção de novos esquemas de proporcionalidade poderá ser determinada, a título transitório, pela Direcção do Instituto Nacional do Pão, em acordo com a da Federação Nacional dos Industriais de Moagem.
 
 § 2.º A determinação a cada unidade fabril para praticar um ou outro esquema de extracção, de entre os aprovados, competirá à Federação Nacional dos Industriais de Moagem, depois de ouvido o delegado do Governo junto da mesma Federação Nacional dos Industriais de Moagem.
 
-###### Art. 6.º Os preços máximos das farinhas de trigo nas fábricas de moagem ou sobre vagão são os seguintes, por quilograma:
+Art. 6.º Os preços máximos das farinhas de trigo nas fábricas de moagem ou sobre vagão são os seguintes, por quilograma:
 
 Farinha de 1.ª ... 5$40
 
 Farinha de 2.ª ... 3$50
 
-###### Art. 7.º A farinha de trigo de 2.ª qualidade será fabricada com incorporação de outro ou outros cereais ou terá a incorporação de farinhas de outro ou outros cereais.
+Art. 7.º A farinha de trigo de 2.ª qualidade será fabricada com incorporação de outro ou outros cereais ou terá a incorporação de farinhas de outro ou outros cereais.
 
 § único. Os cereais ou farinhas de cereais incorporantes e as respectivas percentagem ou percentagens de incorporação serão fixados por despacho do Secretário de Estado do Comércio, que, se for caso disso, definirá também as áreas de distribuição das farinhas com diversas composições de incorporação.
 
-###### Art. 8.º À produção de sêmolas e de farinhas para o fabrico de massas alimentícias é aplicável o disposto no artigo 5.º e seu § 1.º, mas, enquanto não forem definidos os esquemas de fabrico simultâneo a praticar, ficam desde já autorizados o fabrico isolado ou o fabrico de uma parte de sêmolas para duas de farinha de consumo corrente.
+Art. 8.º À produção de sêmolas e de farinhas para o fabrico de massas alimentícias é aplicável o disposto no artigo 5.º e seu § 1.º, mas, enquanto não forem definidos os esquemas de fabrico simultâneo a praticar, ficam desde já autorizados o fabrico isolado ou o fabrico de uma parte de sêmolas para duas de farinha de consumo corrente.
 
-###### Art. 9.º À produção de farinhas para o fabrico de bolachas é aplicável o disposto no artigo 5.º e seu § 1.º, mas, enquanto não forem definidos os esquemas de fabrico simultâneo a praticar, fica autorizado o fabrico de uma parte de farinha de qualidade superior para duas partes de farinha de consumo corrente.
+Art. 9.º À produção de farinhas para o fabrico de bolachas é aplicável o disposto no artigo 5.º e seu § 1.º, mas, enquanto não forem definidos os esquemas de fabrico simultâneo a praticar, fica autorizado o fabrico de uma parte de farinha de qualidade superior para duas partes de farinha de consumo corrente.
 
-###### Art. 10.º Os limites máximos das características das farinhas referidas nos artigos 4.º e 7.º são os seguintes:
+Art. 10.º Os limites máximos das características das farinhas referidas nos artigos 4.º e 7.º são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/09/20600/14151420.pdf))](https://files.diariodarepublica.pt/1s/1963/09/20600/14151420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/09/20600/14151420.pdf)
 
 § 1.º As farinhas de trigo terão um mínimo de 7 por cento de glúten seco; as sêmolas não poderão ter menos de 8 por cento.
 
@@ -222,7 +280,7 @@ Farinha de 2.ª ... 3$50
 
 § 8.º Até o fim do corrente ano, o Instituto Nacional do Pão apresentará proposta, devidamente justificada, de fixação dos métodos analíticos oficiais de verificação das características das farinhas.
 
-###### Art. 11.º As extracções de farinhas terão os seguintes limites mínimos normais:
+Art. 11.º As extracções de farinhas terão os seguintes limites mínimos normais:
 
 Farinhas para panificação: o correspondente ao peso do hectolitro deduzido de 2 kg, numa extracção de 1 x 3;
 
@@ -234,15 +292,15 @@ Farinha de milho para incorporação: 70 por cento do peso do cereal;
 
 Farinha de centeio para incorporação: igual ao peso do hectolitro.
 
-###### Art. 12.º Os preços médios das sêmolas e farinhas para o fabrico de massas alimentícias e de farinhas para o fabrico de bolachas, a que se referem, respectivamente, os artigos 8.º e 9.º do presente diploma, serão fixados por despacho do Secretário de Estado do Comércio.
+Art. 12.º Os preços médios das sêmolas e farinhas para o fabrico de massas alimentícias e de farinhas para o fabrico de bolachas, a que se referem, respectivamente, os artigos 8.º e 9.º do presente diploma, serão fixados por despacho do Secretário de Estado do Comércio.
 
-###### Art. 13.º Por despacho do Secretário de Estado do Comércio, poderão ser fixadas características e preços de farinhas destinadas a usos diferentes dos tratados nos artigos precedentes.
+Art. 13.º Por despacho do Secretário de Estado do Comércio, poderão ser fixadas características e preços de farinhas destinadas a usos diferentes dos tratados nos artigos precedentes.
 
 § único. À farinha de 2.ª qualidade para panificação (tipo normal) não poderá ser dado outro uso.
 
-###### Art. 14.º Mantém-se a taxa de moagem de $389 por quilograma de cereal.
+Art. 14.º Mantém-se a taxa de moagem de $389 por quilograma de cereal.
 
-###### Art. 15.º A humidade do pão não pode exceder os seguintes valores:
+Art. 15.º A humidade do pão não pode exceder os seguintes valores:
 
 Pão de 1.ª qualidade em formatos até 333 g ... 30%
 
@@ -250,7 +308,7 @@ Pão de 1.ª qualidade em formatos superiores a 333 g ... 33%
 
 Pão de 2.ª qualidade ... 38%
 
-###### Art. 16.º Os preços do pão nas padarias, seus depósitos e sucursais são os seguintes:
+Art. 16.º Os preços do pão nas padarias, seus depósitos e sucursais são os seguintes:
 
 1) Pão de 1.ª qualidade:
 
@@ -282,7 +340,7 @@ c) Unidade de 2000 g ... 6$60
 
 § único. Por despacho do Secretário de Estado do Comércio, poderão ser autorizados o fabrico e venda de pão em formatos diferentes dos previstos no corpo deste artigo.
 
-###### Art. 17.º Os preços de pão fixados no presente decreto-lei são acrescidos na venda ao domicílio das seguintes importâncias:
+Art. 17.º Os preços de pão fixados no presente decreto-lei são acrescidos na venda ao domicílio das seguintes importâncias:
 
 1) Pão de 1.ª qualidade:
 
@@ -300,50 +358,50 @@ b) Por cada unidade de 1000 g ... $30
 
 c) Por cada unidade de 2000 g ... $60
 
-###### Art. 18.º A venda de pão de qualquer tipo, formato ou qualidade será feita por unidade.
+Art. 18.º A venda de pão de qualquer tipo, formato ou qualidade será feita por unidade.
 
 § único. As tolerâncias no peso de cada unidade de pão e a respectiva verificação serão fixadas por despacho do Secretário de Estado do Comércio.
 
-###### Art. 19.º O fabrico de pão dos tipos especial e corrente cessará à medida que se esgotem as existências actuais das respectivas farinhas nas padarias, ou em trânsito para as mesmas ou nas moagens.
+Art. 19.º O fabrico de pão dos tipos especial e corrente cessará à medida que se esgotem as existências actuais das respectivas farinhas nas padarias, ou em trânsito para as mesmas ou nas moagens.
 
 § 1.º Os produtos diversos da farinha de trigo que têm vindo a ser usados para a tendedura de pão de trigo deixarão de ser utilizados para tal fim, em cada padaria, a partir do momento em que na mesma cessar o fabrico dos pães mencionados no corpo deste artigo.
 
 § 2.º O disposto no corpo deste artigo será aplicável às farinhas para o fabrico de bolachas existentes nas respectivas fábricas, ou em trânsito para estas, ou nas moagens.
 
-###### Art. 20.º Os ajustamentos que a prática revele indispensável introduzir no regime estabelecido nos artigos anteriores serão determinados por despacho do Ministro da Economia.
+Art. 20.º Os ajustamentos que a prática revele indispensável introduzir no regime estabelecido nos artigos anteriores serão determinados por despacho do Ministro da Economia.
 
-###### Art. 21.º Os financiamentos à campanha do trigo, concedidos pela Caixa Nacional de Crédito, ao abrigo do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941, serão gradualmente reduzidos, de modo que cessem no prazo de quatro anos.
+Art. 21.º Os financiamentos à campanha do trigo, concedidos pela Caixa Nacional de Crédito, ao abrigo do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941, serão gradualmente reduzidos, de modo que cessem no prazo de quatro anos.
 
-###### Art. 22.º Para a campanha de 1963-1964 o financiamento referido no artigo anterior será de 800$00 por hectare, dividido em duas prestações, sendo a primeira de 550$00 e a segunda de 250$00.
+Art. 22.º Para a campanha de 1963-1964 o financiamento referido no artigo anterior será de 800$00 por hectare, dividido em duas prestações, sendo a primeira de 550$00 e a segunda de 250$00.
 
 § 1.º O valor a mutuar por cada beneficiário, para efeitos de atribuição do financiamento previsto no corpo deste artigo, não poderá exceder 80 por cento do máximo mutuado nas campanhas de 1960-1961 a 1962-1963.
 
 § 2.º O montante global a conceder a cada produtor não poderá ir além de 240000$00.
 
-###### Art. 23.º A partir da campanha cerealífera de 1963-1964, inclusive, só terão acesso ao empréstimo previsto no artigo 21.º os beneficiários que já se encontrem inscritos ou aqueles que a eles se substituam na exploração do mesmo prédio.
+Art. 23.º A partir da campanha cerealífera de 1963-1964, inclusive, só terão acesso ao empréstimo previsto no artigo 21.º os beneficiários que já se encontrem inscritos ou aqueles que a eles se substituam na exploração do mesmo prédio.
 
-###### Art. 24.º As verbas que em cada ano forem sendo libertadas dos empréstimos da campanha do trigo serão aplicadas pela Caixa Geral de Depósitos, Crédito e Previdência em financiamentos à lavoura, quer directa, quer indirectamente, segundo orientação dada pelo Ministro das Finanças a partir da política de reconversão de culturas definida pelo Ministério da Economia.
+Art. 24.º As verbas que em cada ano forem sendo libertadas dos empréstimos da campanha do trigo serão aplicadas pela Caixa Geral de Depósitos, Crédito e Previdência em financiamentos à lavoura, quer directa, quer indirectamente, segundo orientação dada pelo Ministro das Finanças a partir da política de reconversão de culturas definida pelo Ministério da Economia.
 
-###### Art. 25.º O Ministério da Economia, através do Fundo de Abastecimento, assumirá as posições dos devedores dos empréstimos de campanha do trigo abrangidos pelas moratórias estabelecidas pelos Decretos-Leis n.os 43163 e 43831, respectivamente de 16 de Setembro de 1960 e 29 de Julho de 1961.
+Art. 25.º O Ministério da Economia, através do Fundo de Abastecimento, assumirá as posições dos devedores dos empréstimos de campanha do trigo abrangidos pelas moratórias estabelecidas pelos Decretos-Leis n.os 43163 e 43831, respectivamente de 16 de Setembro de 1960 e 29 de Julho de 1961.
 
-###### Art. 26.º Para os efeitos do artigo anterior, o Fundo de Abastecimento reembolsará a Caixa Nacional de Crédito nos vencimentos fixados por aqueles decretos do montante dos empréstimos em regime de moratória, acrescido dos respectivos encargos.
+Art. 26.º Para os efeitos do artigo anterior, o Fundo de Abastecimento reembolsará a Caixa Nacional de Crédito nos vencimentos fixados por aqueles decretos do montante dos empréstimos em regime de moratória, acrescido dos respectivos encargos.
 
 § único. As importâncias antecipadamente pagas pelos mutuários à data deste diploma e correspondentes aos vencimentos acima referidos poderão ser restituídas a pedido dos interessados, com intervenção dos respectivos fiadores, se os houver.
 
-###### Art. 27.º Os mutuários que, nos termos dos artigos anteriores, forem substituídos pelo Ministério da Economia perante a Caixa Nacional de Crédito reembolsarão o Fundo de Abastecimento do saldo da sua dívida em cinco prestações anuais sem juro, a primeira das quais se vencerá em 30 de Setembro de 1966.
+Art. 27.º Os mutuários que, nos termos dos artigos anteriores, forem substituídos pelo Ministério da Economia perante a Caixa Nacional de Crédito reembolsarão o Fundo de Abastecimento do saldo da sua dívida em cinco prestações anuais sem juro, a primeira das quais se vencerá em 30 de Setembro de 1966.
 
 § 1.º Ao reembolso previsto no corpo deste artigo ficam consignadas as garantias constituídas pelos devedores a favor da Caixa Nacional de Crédito, as quais poderão ser acrescidas das que forem julgadas indispensáveis pelo Fundo de Abastecimento.
 
 § 2.º A cobrança coerciva destas dívidas ao Fundo de Abastecimento efectuar-se-á nos termos do artigo 18.º do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001).
 
-###### Art. 28.º A Caixa Nacional de Crédito fica autorizada a representar o Fundo de Abastecimento na administração desta operação, sendo de conta daquele Fundo as despesas de expediente a que houver lugar.
+Art. 28.º A Caixa Nacional de Crédito fica autorizada a representar o Fundo de Abastecimento na administração desta operação, sendo de conta daquele Fundo as despesas de expediente a que houver lugar.
 
-###### Art. 29.º Fica a Caixa Nacional de Crédito autorizada a dispensar a apresentação das apólices de seguro referidas nos artigos 3.º e 4.º do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), nos casos que vier a estabelecer, e, bem assim, a descontar, no montante do empréstimo, além dos respectivos encargos, as verbas necessárias à liquidação do saldo em dívida respeitante à campanha do ano anterior.
+Art. 29.º Fica a Caixa Nacional de Crédito autorizada a dispensar a apresentação das apólices de seguro referidas nos artigos 3.º e 4.º do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), nos casos que vier a estabelecer, e, bem assim, a descontar, no montante do empréstimo, além dos respectivos encargos, as verbas necessárias à liquidação do saldo em dívida respeitante à campanha do ano anterior.
 
-###### Art. 30.º O disposto nos artigos 21.º e seguintes do presente diploma é extensivo aos empréstimos concedidos pelas caixas de crédito agrícola mútuo.
+Art. 30.º O disposto nos artigos 21.º e seguintes do presente diploma é extensivo aos empréstimos concedidos pelas caixas de crédito agrícola mútuo.
 
 § único. As dúvidas resultantes da aplicação deste artigo serão resolvidas pela administração da Caixa Geral de Depósitos, Crédito e Previdência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Setembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.

@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1975-312231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcef84eb8211e19f36e1718b014f7007301a0b6f426036abf3eee6522f4f8755
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657e393d30c81a841cb9faa4ae1f736b9437bd4c2f3469b67108046191075008
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA do Estado
+- Habitação Social
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:428220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:310263:por
+  label: "Rectificado o n.º 3 do artigo 6.º pela RECT.DD151.17.11.1975.PCM, DG.IS [266] de 17.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-310263
+  date: '1975-11-17'
+- type: repealed_by
+  target: pt:dre:428220:por
+  label: "Revogado o § 1º do art. 37º e alterado o art. 51º do Dec Lei 23052 de 23-Set de 1933, com a redacção constante do\
+    \ presente diploma, pelo DEC LEI.376/76.19.05.1976.MHUC, DR.IS [117] de 19.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1976-428220
+  date: '1976-05-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:32Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +124,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 39.º, 43.º, 44.º e 45.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 39.º, 43.º, 44.º e 45.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, passam a ter a seguinte redacção:
 
-###### Art. 39.º Nos períodos de doença e desemprego, definidos e comprovados nos termos dos artigos 43.º e seguintes, fica o morador-adquirente exonerado do pagamento das respectivas prestações.
+Art. 39.º Nos períodos de doença e desemprego, definidos e comprovados nos termos dos artigos 43.º e seguintes, fica o morador-adquirente exonerado do pagamento das respectivas prestações.
 
 § único. Os prejuízos emergentes do não pagamento destas prestações, por parte do morador-adquirente, serão cobertos pelo seguro contra a doença e desemprego, a cargo do Fundo de Fomento da Habitação, nos termos do citado artigo 43.º
 
-###### Art. 43.º O seguro contra desemprego e bem assim o seguro contra doença dos moradores-adquirentes das casas económicas serão tomados directamente pelo Fundo de Fomento da Habitação e destinam-se a cobrir o risco de falta de pagamento das prestações mensais, em virtude de desemprego e doença dos mesmos.
+Art. 43.º O seguro contra desemprego e bem assim o seguro contra doença dos moradores-adquirentes das casas económicas serão tomados directamente pelo Fundo de Fomento da Habitação e destinam-se a cobrir o risco de falta de pagamento das prestações mensais, em virtude de desemprego e doença dos mesmos.
 
 § 1.º Os moradores-adquirentes que beneficiem dos seguros contra doença só podem ser exonerados, pelo Fundo de Fomento da Habitação, do pagamento das prestações mensais, decorrido um ano sobre a data do início da amortização da casa económica e depois do trigésimo dia de desemprego ou do vigésimo de incapacidade para o trabalho.
 
@@ -114,19 +140,19 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 § 4.º Não estão ao abrigo deste seguro as doenças ou lesões originadas por desastres de trabalho.
 
-###### Art. 44.º A situação de desemprego será comprovada, perante o Fundo de Fomento da Habitação, por atestado do respectivo sindicato e ou da última entidade a quem o morador-adquirente haja prestado serviço. Do segundo destes atestados deve constar a duração e causas de demissão ou cessação de trabalho.
+Art. 44.º A situação de desemprego será comprovada, perante o Fundo de Fomento da Habitação, por atestado do respectivo sindicato e ou da última entidade a quem o morador-adquirente haja prestado serviço. Do segundo destes atestados deve constar a duração e causas de demissão ou cessação de trabalho.
 
 § 1.º O despedimento por motivo de indisciplina ou falta grave moral ou profissional não dá direito ao benefício do seguro.
 
 § 2.º A situação de desemprego deverá ser comprovada, perante o Fundo de Fomento da Habitação, até ao dia 8 de cada mês.
 
-###### Art. 45.º A incapacidade de trabalho, para o efeito do benefício do seguro contra doença, será comprovada pelo morador-adquirente até ao dia 8 de cada mês, mediante a apresentação do boletim de baixa, ou declaração autenticada da entidade em que presta serviço.
+Art. 45.º A incapacidade de trabalho, para o efeito do benefício do seguro contra doença, será comprovada pelo morador-adquirente até ao dia 8 de cada mês, mediante a apresentação do boletim de baixa, ou declaração autenticada da entidade em que presta serviço.
 
-###### Art. 2.º É revogado o artigo 13.º do [Decreto-Lei n.º 43973](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43973-1961-182647), de 20 de Outubro de 1961.
+Art. 2.º É revogado o artigo 13.º do [Decreto-Lei n.º 43973](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43973-1961-182647), de 20 de Outubro de 1961.
 
-###### Art. 3.º O artigo 37.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, passa a ter a seguinte redacção:
+Art. 3.º O artigo 37.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, passa a ter a seguinte redacção:
 
-###### Art. 37.º As prestações para amortização das casas económicas e os respectivos prémios de seguros deverão ser pagos mensalmente, as duas primeiras nos oito dias após a entrega das chaves da casa e as seguintes até ao dia 8 do mês anterior àquele a que respeitam, salvo nos casos seguintes:
+Art. 37.º As prestações para amortização das casas económicas e os respectivos prémios de seguros deverão ser pagos mensalmente, as duas primeiras nos oito dias após a entrega das chaves da casa e as seguintes até ao dia 8 do mês anterior àquele a que respeitam, salvo nos casos seguintes:
 
 a) Morte casual do morador-adquirente;
 
@@ -142,38 +168,38 @@ As prestações deverão ser depositadas na Caixa Geral de Depósitos, por guia 
 
 § 3.º Os contratos de arrendamento a que se refere o parágrafo anterior são regidos pelo regime de arrendamento para habitação das casas do Fundo de Fomento da Habitação, devendo este organismo proceder à fixação das respectivas rendas.
 
-###### Art. 4.º - 1. É extinta a obrigatoriedade de constituição do casal de família a que se refere o § 3.º do artigo 2.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459).
+Art. 4.º - 1. É extinta a obrigatoriedade de constituição do casal de família a que se refere o § 3.º do artigo 2.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459).
 
 2. O disposto no número anterior aplica-se aos contratos em vigor, em todos os casos em que não fora ainda dado cumprimento àquela exigência legal.
 
-###### Art. 5.º As casas económicas são impenhoráveis e imprescritíveis no prazo de trinta anos, a contar da data do pagamento da última prestação.
+Art. 5.º As casas económicas são impenhoráveis e imprescritíveis no prazo de trinta anos, a contar da data do pagamento da última prestação.
 
-###### Art. 6.º - 1. À alienação ou arrendamento, pelo proprietário, de uma casa económica, aplica-se o regime do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro.
+Art. 6.º - 1. À alienação ou arrendamento, pelo proprietário, de uma casa económica, aplica-se o regime do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro.
 
 2. O não cumprimento, pelo proprietário, do disposto no número anterior é punível com a pena de prisão até dois anos.
 
 3. O ónus previsto no n.º 1 deste artigo será averbado no título de aquisição a que se refere o § único do artigo 36.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), devendo ser, ainda, averbado na inscrição do prédio, pela conservatória do registo predial competente, nos termos da alínea g) do n.º 1 do artigo 2.º do Código do Registo Predial.
 
-###### Art. 7.º O artigo 51.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459) passa a ter a seguinte redacção:
+Art. 7.º O artigo 51.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459) passa a ter a seguinte redacção:
 
-###### Art. 51.º O Fundo de Fomento da Habitação pode autorizar a amortização antecipada das casas económicas, decorridos cinco anos, pelo menos, sobre a data do início da amortização, ficando, contudo, o adquirente impossibilitado de a alienar enquanto não tiver decorrido o período de amortização normal.
+Art. 51.º O Fundo de Fomento da Habitação pode autorizar a amortização antecipada das casas económicas, decorridos cinco anos, pelo menos, sobre a data do início da amortização, ficando, contudo, o adquirente impossibilitado de a alienar enquanto não tiver decorrido o período de amortização normal.
 
 § único. A amortização far-se-á por uma só vez, liquidando-se a prestação em dívida pelas parcelas relativas ao capital investido nas casas, deduzidas do rendimento que, à taxa de juro de 3%, lhes corresponderia até à data do seu vencimento.
 
-###### Art. 8.º É extinto o cargo de fiscal de bairro a que se refere o artigo 82.º do Decreto-Lei n.º 37268, de 31 de Dezembro de 1948, devendo o Fundo de Fomento da Habitação operar a reconversão das funções dos fiscais contratados a esta data.
+Art. 8.º É extinto o cargo de fiscal de bairro a que se refere o artigo 82.º do Decreto-Lei n.º 37268, de 31 de Dezembro de 1948, devendo o Fundo de Fomento da Habitação operar a reconversão das funções dos fiscais contratados a esta data.
 
-###### Art. 9.º São extintas as comissões de fiscalização dos bairros de casas económicas.
+Art. 9.º São extintas as comissões de fiscalização dos bairros de casas económicas.
 
-###### Art. 10.º - 1. As casas económicas ficam sujeitas à legislação aplicável no respectivo concelho, designadamente quanto a licenciamento de obras e conservação de edifícios.
+Art. 10.º - 1. As casas económicas ficam sujeitas à legislação aplicável no respectivo concelho, designadamente quanto a licenciamento de obras e conservação de edifícios.
 
 2. Durante o período de amortização, as obras de ampliação carecem de aprovação prévia do Fundo de Fomento da Habitação, devendo o morador-adquirente fazer prova da sua capacidade económica para suportar integralmente as obras, podendo o Fundo ordenar um inquérito social para se certificar da situação.
 
-###### Art. 11.º As dúvidas na aplicação do presente diploma são resolvidas por simples despacho do Secretário de Estado da Habitação e Urbanismo.
+Art. 11.º As dúvidas na aplicação do presente diploma são resolvidas por simples despacho do Secretário de Estado da Habitação e Urbanismo.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - Henrique Manuel Araújo de Oliveira Sá.
 
-**Promulgado em 20 de Setembro de 1975.**
+Promulgado em 20 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 273/1978, 1º Suplemento, Série I de 1978-11-27
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2494-(1) a 2494-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27301/00010009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1978-429269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e189e8c9aa5e478e6c49a1bbe0db4f30c2fa471292f7f23e7309cd23e1440110
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff58a10e7e7e593602857a6c98a6d8d05eaf55be84077b582c7c2e8958931bd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Embarcação
+- Instituto Nacional de Pilotagem dos Portos
+- Navegação Marítima
+- Pilotagem
+- Regulamento do Serviço de Pilotagem dos Portos e Barras
+- Segurança da Navegação
 relationships:
 - type: amended_by
   target: pt:dre:610762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:610762:por
+  label: "Revogado, a partir de 24.05.1989, pelo DEC LEI.166/89.19.05.1989.MOPTC, DR.IS [115] de 19.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1989-610762
+  date: '1989-05-19'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:48Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +110,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Pelo presente diploma é aprovado o Regulamento dos Serviços de Pilotagem dos Portos e Barras, o qual é publicado em anexo, dele fazendo parte integrante.
+Artigo único. Pelo presente diploma é aprovado o Regulamento dos Serviços de Pilotagem dos Portos e Barras, o qual é publicado em anexo, dele fazendo parte integrante.
 
 REGULAMENTO DOS SERVIÇOS DE PILOTAGEM DOS PORTOS E BARRAS
 
 ### CAPÍTULO I — Definição
 
-###### Artigo 1.º - 1 - A pilotagem consiste na assistência prestada às embarcações por pessoal especialmente habilitado na condução de navios na entrada e saída dos portos e barras e na navegação e manobras no interior e exterior dos mesmos, nas radas, em águas marítimas e fluviais dos rios e canais e em todas as instalações colocadas no espaço marítimo nacional.
+Artigo 1.º - 1 - A pilotagem consiste na assistência prestada às embarcações por pessoal especialmente habilitado na condução de navios na entrada e saída dos portos e barras e na navegação e manobras no interior e exterior dos mesmos, nas radas, em águas marítimas e fluviais dos rios e canais e em todas as instalações colocadas no espaço marítimo nacional.
 
 2 - O Instituto Nacional de Pilotagem dos Portos, que usa a sigla INPP, assegurará, em regime de exclusivo, a pilotagem em todo o espaço fluvial e marítimo nacional, através dos seus departamentos de pilotagem.
 
@@ -130,9 +142,9 @@ Faro - área limitada pelos meridianos longitude = 08 11.3 W. e longitude = 07 4
 
 Vila Real de Santo António - área limitada pelos meridianos longitude = 07 43.0 W e longitude = 07 25.0 W.
 
-###### Art. 2.º A assistência às embarcações de que trata o artigo anterior faz-se com a presença do piloto a bordo, podendo, no entanto, fazer-se por sinais ou outros meios de comunicação e orientação sempre que o embarque do piloto não seja possível devido às condições do mar.
+Art. 2.º A assistência às embarcações de que trata o artigo anterior faz-se com a presença do piloto a bordo, podendo, no entanto, fazer-se por sinais ou outros meios de comunicação e orientação sempre que o embarque do piloto não seja possível devido às condições do mar.
 
-###### Art. 3.º A pilotagem compreende a assistência às embarcações:
+Art. 3.º A pilotagem compreende a assistência às embarcações:
 
 a) Na navegação na entrada e saída de portos e barras;
 
@@ -164,25 +176,25 @@ n) Nas manobras para espiar âncoras ou amarras;
 
 o) Na navegação e em manobras fora ou dentro dos limites da área de pilotagem em serviços não especificados que impliquem a presença de piloto a bordo.
 
-###### Art. 4.º - 1 - Considera-se navegação na entrada de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde o momento em que a embarcação entra nos limites da área de pilotagem estabelecidos no artigo 18.º deste regulamento até às zonas de fundeadouro no interior do porto.
+Art. 4.º - 1 - Considera-se navegação na entrada de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde o momento em que a embarcação entra nos limites da área de pilotagem estabelecidos no artigo 18.º deste regulamento até às zonas de fundeadouro no interior do porto.
 
 2 - Considera-se navegação na saída de portos ou barras, a que se refere a alínea a) do artigo anterior, a efectuada desde as zonas de fundeadouro no interior do porto até se encontrar em franquia fora da área obrigatória de pilotagem.
 
-###### Art. 5.º Considera-se navegação em calas ou canais no interior dos portos, a que se refere a alínea b) do artigo 3.º, a efectuada para acesso a fundeadouros, cais, muralhas, pontes ou pontões, desde o momento em que a embarcação deixe a zona dos fundeadouros no interior do porto até se encontrar no local do novo fundeadouro ou em frente do local de atracação; ou a navegação em sentido inverso.
+Art. 5.º Considera-se navegação em calas ou canais no interior dos portos, a que se refere a alínea b) do artigo 3.º, a efectuada para acesso a fundeadouros, cais, muralhas, pontes ou pontões, desde o momento em que a embarcação deixe a zona dos fundeadouros no interior do porto até se encontrar no local do novo fundeadouro ou em frente do local de atracação; ou a navegação em sentido inverso.
 
-###### Art. 6.º Considera-se navegação dentro ou fora dos portos para experiências de máquinas ou outros aparelhos, provas de velocidade, regulação, calibração e experiências de quaisquer auxiliares de navegação, a que se refere a alínea c) do artigo 3.º, a efectuada para qualquer destes fins, desde o momento em que a embarcação inicia qualquer das operações acima referidas até ao momento em que a termina.
+Art. 6.º Considera-se navegação dentro ou fora dos portos para experiências de máquinas ou outros aparelhos, provas de velocidade, regulação, calibração e experiências de quaisquer auxiliares de navegação, a que se refere a alínea c) do artigo 3.º, a efectuada para qualquer destes fins, desde o momento em que a embarcação inicia qualquer das operações acima referidas até ao momento em que a termina.
 
-###### Art. 7.º Considera-se navegação no interior dos portos, a que se refere a alínea d) do artigo 3.º, a efectuada pelas embarcações, dentro dos limites do porto, desde as zonas de fundeadouro até o local de atracação, ou desde o local de atracação até às zonas de fundeadouros.
+Art. 7.º Considera-se navegação no interior dos portos, a que se refere a alínea d) do artigo 3.º, a efectuada pelas embarcações, dentro dos limites do porto, desde as zonas de fundeadouro até o local de atracação, ou desde o local de atracação até às zonas de fundeadouros.
 
-###### Art. 8.º Considera-se manobra de fundear, a que se refere a alínea e) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local do fundeadouro, é largado o ferro até que este esteja unhado no fundo e a amarra com o comprimento devido.
+Art. 8.º Considera-se manobra de fundear, a que se refere a alínea e) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local do fundeadouro, é largado o ferro até que este esteja unhado no fundo e a amarra com o comprimento devido.
 
-###### Art. 9.º - 1 - Considera-se manobra de atracar a cais, muralhas, pontes ou pontões ou outras embarcações, a que se refere a alínea f) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local de atracação, se principia a passar o primeiro cabo ou, havendo necessidade disso, se larga o primeiro ferro, até que estejam com volta todos os cabos.
+Art. 9.º - 1 - Considera-se manobra de atracar a cais, muralhas, pontes ou pontões ou outras embarcações, a que se refere a alínea f) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local de atracação, se principia a passar o primeiro cabo ou, havendo necessidade disso, se larga o primeiro ferro, até que estejam com volta todos os cabos.
 
 2 - Considera-se manobra de desatracar de cais, muralhas, pontes, pontões ou outras embarcações, a que se refere a alínea f) do artigo 3.º, a efectuada desde que se principia a largar o primeiro cabo até estar largado o último ou, se for caso disso, estar o último ferro ao lume de água.
 
-###### Art. 10.º Considera-se manobra de correr ao longo do cais, muralhas ou pontes, a que se refere a alínea g) do artigo 3.º, a efectuada desde que se muda de cabeço o primeiro cabo até que esteja toda a amarração com volta, no local definitivo, sem que a embarcação deixe de ter contacto com o cais, muralha ou ponte.
+Art. 10.º Considera-se manobra de correr ao longo do cais, muralhas ou pontes, a que se refere a alínea g) do artigo 3.º, a efectuada desde que se muda de cabeço o primeiro cabo até que esteja toda a amarração com volta, no local definitivo, sem que a embarcação deixe de ter contacto com o cais, muralha ou ponte.
 
-###### Art. 11.º - 1 - Considera-se manobra de amarrar a dois ferros, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local da embarcação, é largado o primeiro ferro até que o último esteja unhado no fundo e as amarras com o comprimento devido.
+Art. 11.º - 1 - Considera-se manobra de amarrar a dois ferros, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação ao local da embarcação, é largado o primeiro ferro até que o último esteja unhado no fundo e as amarras com o comprimento devido.
 
 2 - Considera-se manobra de amarrar a bóias ou estacas, a que se refere a alínea h) do artigo 3.º, a efectuada desde que, chegada a embarcação junto da bóia ou estaca, é passado o primeiro cabo até que esteja passado o último.
 
@@ -192,33 +204,33 @@ o) Na navegação e em manobras fora ou dentro dos limites da área de pilotagem
 
 5 - Considera-se manobra de tirar voltas e amarras, a que se refere a alínea h) do artigo 3.º, a efectuada desde que se inicia o serviço até as amarras estarem claras e safas e o navio voltar à posição do fundeadouro.
 
-###### Art. 12.º - 1 - Considera-se manobra de entrada em doca seca, dique ou plano inclinado, a que se refere a alínea i) do artigo 3.º, a efectuada desde que, chegada a embarcação junto da entrada, se principia a preparar a respectiva manobra até que a embarcação esteja perfeitamente amarrada.
+Art. 12.º - 1 - Considera-se manobra de entrada em doca seca, dique ou plano inclinado, a que se refere a alínea i) do artigo 3.º, a efectuada desde que, chegada a embarcação junto da entrada, se principia a preparar a respectiva manobra até que a embarcação esteja perfeitamente amarrada.
 
 2 - Considera-se manobra de saída de doca seca, dique ou plano inclinado, a que se refere a alínea i) do artigo 3.º, a efectuada desde que se principia a preparar a manobra até que a embarcação tenha passado a boca da doca seca ou dique ou, no caso de plano incluinado, se encontre completamente a flutuar.
 
-###### Art. 13.º - 1 - Considera-se manobra para encalhar em praias ou varadouros, a que se refere a alínea j) do artigo 3.º, a efectuada desde que a embarcação se encontre a flutuar em frente do local de encalhe até que esteja encalhada.
+Art. 13.º - 1 - Considera-se manobra para encalhar em praias ou varadouros, a que se refere a alínea j) do artigo 3.º, a efectuada desde que a embarcação se encontre a flutuar em frente do local de encalhe até que esteja encalhada.
 
 2 - Considera-se manobra para desencalhar de praia ou varadouro, a que se refere a alínea j) do artigo 3.º, a efectuada desde que se iniciam as operações de desencalhe até que a embarcação se encontre a flutuar em frente da mesma praia ou varadouro.
 
-###### Art. 14.º Considera-se manobra de arriar ou rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou por fora desta, a que se refere a alínea k) do artigo 3.º, a efectuada desde que se principia a arriar ou a largar o primeiro cabo até que a embarcação volte a estar devidamente amarrada no primitivo local de atracação, sem fazer qualquer movimento interior.
+Art. 14.º Considera-se manobra de arriar ou rondar cabos a uma embarcação para manobra de outra que esteja por dentro ou por fora desta, a que se refere a alínea k) do artigo 3.º, a efectuada desde que se principia a arriar ou a largar o primeiro cabo até que a embarcação volte a estar devidamente amarrada no primitivo local de atracação, sem fazer qualquer movimento interior.
 
-###### Art. 15.º Considera-se manobra de colocar ou suspender amarrações fixas, com ou sem bóias, a que se refere a alínea l) do artigo 3.º, a efectuada desde que se chega ao local da amarração até o serviço estar cOmpletamente terminado.
+Art. 15.º Considera-se manobra de colocar ou suspender amarrações fixas, com ou sem bóias, a que se refere a alínea l) do artigo 3.º, a efectuada desde que se chega ao local da amarração até o serviço estar cOmpletamente terminado.
 
-###### Art. 16.º Considera-se manobra para rocegar amarras ou ferros, a que se refere a alínea m) do artigo 3.º, a efectuada desde a hora para que o piloto foi requisitado até terem terminado os trabalhos referentes à recolha do ferro ou amarra ou até ao momento em que o piloto seja dispensado por se desistir do trabalho.
+Art. 16.º Considera-se manobra para rocegar amarras ou ferros, a que se refere a alínea m) do artigo 3.º, a efectuada desde a hora para que o piloto foi requisitado até terem terminado os trabalhos referentes à recolha do ferro ou amarra ou até ao momento em que o piloto seja dispensado por se desistir do trabalho.
 
-###### Art. 17.º Considera-se manobra para espiar âncoras ou amarras, a que se refere a alínea n) do artigo 3.º, a efectuada desde o momento para que foi requisitado o serviço até que o mesmo seja dado por findo.
+Art. 17.º Considera-se manobra para espiar âncoras ou amarras, a que se refere a alínea n) do artigo 3.º, a efectuada desde o momento para que foi requisitado o serviço até que o mesmo seja dado por findo.
 
 ### CAPÍTULO II — Da prestação dos serviços
 
 ##### DIVISÃO I — Disposições gerais
 
-###### Art. 18.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, tanto na navegação de entrada como de saída dos portos e barras, como na navegação e manobras feitas no interior dos portos, nas radas, em águas marítimas e fluviais dos rios e canais e todas as instalações colocadas no espaço marítimo nacional, abrangidos por este Regulamento.
+Art. 18.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, tanto na navegação de entrada como de saída dos portos e barras, como na navegação e manobras feitas no interior dos portos, nas radas, em águas marítimas e fluviais dos rios e canais e todas as instalações colocadas no espaço marítimo nacional, abrangidos por este Regulamento.
 
 2 - Para efeitos do número anterior, a área ou áreas onde a pilotagem é obrigatória será definida nos artigos 44.º e seguintes deste Regulamento.
 
 3 - Compete ao INPP propor à autoridade marítima as zonas e embarcações em que, para além da obrigatoriedade de pilotagem, é indispensável a presença de piloto a bordo.
 
-###### Art. 19.º Estão isentos de pilotagem:
+Art. 19.º Estão isentos de pilotagem:
 
 a) Os navios de guerra nacionais;
 
@@ -230,51 +242,51 @@ d) As embarcações nacionais e estrangeiras de recreio e desporto;
 
 e) As embarcações espanholas, enquanto nos portos espanhóis forem concedidas iguaiS vantagens às embarcações portuguesas das mesmas tonelagens.
 
-###### Art. 20.º - 1 - A embarcação é obrigada a facultar meios para a entrada e saída do piloto a bordo, conforme é estabelecido na Convenção para a Salvaguarda da Vida Humana no Mar e no regulamento interno do INPP.
+Art. 20.º - 1 - A embarcação é obrigada a facultar meios para a entrada e saída do piloto a bordo, conforme é estabelecido na Convenção para a Salvaguarda da Vida Humana no Mar e no regulamento interno do INPP.
 
 2 - A embarcação é obrigada a seguir as indicações da embarcação que sirva para o transporte do piloto, de modo que as operações de embarque e desembarque do mesmo se efectuem nas melhores condições.
 
 3 - O navio é responsável pelos danos causados aos pilotos e às embarcações que os transportem quando não cumprirem as regras estabelecidas neste artigo.
 
-###### Art. 21.º - 1 - Sempre que as embarcações, sem motivo de força maior, deixarem de tomar piloto quando a isso obrigadas, será o facto comunicado pelo departamento de pilotagem respectivo à autoridade marítima do porto, para procedimento.
+Art. 21.º - 1 - Sempre que as embarcações, sem motivo de força maior, deixarem de tomar piloto quando a isso obrigadas, será o facto comunicado pelo departamento de pilotagem respectivo à autoridade marítima do porto, para procedimento.
 
 2 - As embarcações que incorram neste procedimento ficarão sujeitas ao pagamento de multa de 500$00 a 60000$00, consoante a gravidade da falta e a tonelagem que desloquem, a dobrar sucessivamente nas reincidências.
 
 3 - O procedimento a que o facto mencionado no n.º 1 der lugar não prejudica o pagamento das taxas devidas ao INPP.
 
-###### Art. 22.º A falta de pagamento de qualquer das taxas estabelecidas no Regulamento de Prestação de Serviços e Taxas do INPP é fundamento bastante para a autoridade marítima, a pedido daquela empresa, se opor à saída da embarcação, negando o desembaraço e requisitando a intervenção do respectivo cônsul quando seja estrangeira.
+Art. 22.º A falta de pagamento de qualquer das taxas estabelecidas no Regulamento de Prestação de Serviços e Taxas do INPP é fundamento bastante para a autoridade marítima, a pedido daquela empresa, se opor à saída da embarcação, negando o desembaraço e requisitando a intervenção do respectivo cônsul quando seja estrangeira.
 
-###### Art. 23.º - 1 - As requisições de pilotos serão feitas segundo as normas definidas nos artigos 35.º e seguintes do Regulamento de Prestação de Serviços e Taxas do INPP e conterão obrigatoriamente o nome da embarcação, a natureza do serviço pretendido e a data e a hora para que o piloto é requisitado.
+Art. 23.º - 1 - As requisições de pilotos serão feitas segundo as normas definidas nos artigos 35.º e seguintes do Regulamento de Prestação de Serviços e Taxas do INPP e conterão obrigatoriamente o nome da embarcação, a natureza do serviço pretendido e a data e a hora para que o piloto é requisitado.
 
 2 - O INPP não é responsável pelos prejuízos causados ao navio pela demora em fornecer piloto, quando a chegada deste ou a requisição do serviço pretendido não tiver sido anunciada ou feita nos termos regulamentares.
 
-###### Art. 24.º Quando as circunstâncias desfavoráveis de tempo e mar não permitam o embarque de piloto, estabelecer-se-ão contactos por rádio ou far-se-ão sinais adequados, de modo a tentar-se, por todos os meios disponíveis, prestar ao navio a melhor assistência possível no serviço que deseje efectuar.
+Art. 24.º Quando as circunstâncias desfavoráveis de tempo e mar não permitam o embarque de piloto, estabelecer-se-ão contactos por rádio ou far-se-ão sinais adequados, de modo a tentar-se, por todos os meios disponíveis, prestar ao navio a melhor assistência possível no serviço que deseje efectuar.
 
-###### Art. 25.º Nas saídas, o piloto desembarcará fora do porto ou barra quando a embarcação estiver em franquia. No entanto, o piloto poderá desembarcar se a embarcação já estiver a sair da zona em que é obrigatória a sua presença a bordo e se o comandante ou mestre o dispensar.
+Art. 25.º Nas saídas, o piloto desembarcará fora do porto ou barra quando a embarcação estiver em franquia. No entanto, o piloto poderá desembarcar se a embarcação já estiver a sair da zona em que é obrigatória a sua presença a bordo e se o comandante ou mestre o dispensar.
 
-###### Art. 26.º Uma embarcação, sempre que tenha motivos fortes que o justifique, pode requisitar piloto para ir embarcar noutro porto com o fim de a pilotar na entrada daquele a cujo departamento de pilotagem pertença. A requisição, que terá de mencionar o fundamento do pedido, será satisfeita se o departamento de pilotagem respectivo considerar atendíveis os motivos apresentados e as disponibilidades de pilotos o permitirem.
+Art. 26.º Uma embarcação, sempre que tenha motivos fortes que o justifique, pode requisitar piloto para ir embarcar noutro porto com o fim de a pilotar na entrada daquele a cujo departamento de pilotagem pertença. A requisição, que terá de mencionar o fundamento do pedido, será satisfeita se o departamento de pilotagem respectivo considerar atendíveis os motivos apresentados e as disponibilidades de pilotos o permitirem.
 
-###### Art. 27.º As embarcações de pilotos devem ter com a embarcação que entre ou saia a barra ou porto ou nele se movimente as comunicações indispensáveis para embarcar ou desembarcar pilotos ou fornecer indicações respeitantes ao serviço de pilotagem.
+Art. 27.º As embarcações de pilotos devem ter com a embarcação que entre ou saia a barra ou porto ou nele se movimente as comunicações indispensáveis para embarcar ou desembarcar pilotos ou fornecer indicações respeitantes ao serviço de pilotagem.
 
-###### Art. 28.º Sempre que os departamentos de pilotagem tenham notícia de haver vidas em perigo, procederão de acordo com o que está estabelecido na Convenção para a Salvaguarda da Vida Humana no Mar.
+Art. 28.º Sempre que os departamentos de pilotagem tenham notícia de haver vidas em perigo, procederão de acordo com o que está estabelecido na Convenção para a Salvaguarda da Vida Humana no Mar.
 
-###### Art. 29.º A responsabilidade pelas indemnizações provenientes das avarias cabe inteiramente à embarcação que as causar, tenha ou não piloto a bordo e seja a sua presença obrigatória ou não.
+Art. 29.º A responsabilidade pelas indemnizações provenientes das avarias cabe inteiramente à embarcação que as causar, tenha ou não piloto a bordo e seja a sua presença obrigatória ou não.
 
 ##### DIVISÃO II — Embarcações e outro equipamento
 
-###### Art. 30.º Os departamentos de pilotagem devem contratar ou estar equipados com as embarcações, aprestos e outro material necessário ao eficiente desempenho da sua missão.
+Art. 30.º Os departamentos de pilotagem devem contratar ou estar equipados com as embarcações, aprestos e outro material necessário ao eficiente desempenho da sua missão.
 
-###### Art. 31.º As embarcações que sejam propriedade do INPP serão tripuladas pelo próprio pessoal do Instituto, conforme as conveniências do serviço e as condições locais.
+Art. 31.º As embarcações que sejam propriedade do INPP serão tripuladas pelo próprio pessoal do Instituto, conforme as conveniências do serviço e as condições locais.
 
-###### Art. 32.º As embarcações que sejam propriedade do INPP devem ser pintadas a preto e branco, tendo a palavra «PILOTOS» escrita respectivamente a tinta branca ou preta no costado de ambos os bordos ou noutro sítio onde for bem visível; possuindo chaminé, devem ter ainda a letra «P» pintada a branco em ambos os lados da mesma, que, por sua vez, deve ser pintada a preto; não possuindo chaminé ou sítio em que a palavra «PILOTOS» fique bem visível, as embarcações devem ter a letra «P» pintada a preto sobre fundo branco, ou vice-versa, em ambas as amuras.
+Art. 32.º As embarcações que sejam propriedade do INPP devem ser pintadas a preto e branco, tendo a palavra «PILOTOS» escrita respectivamente a tinta branca ou preta no costado de ambos os bordos ou noutro sítio onde for bem visível; possuindo chaminé, devem ter ainda a letra «P» pintada a branco em ambos os lados da mesma, que, por sua vez, deve ser pintada a preto; não possuindo chaminé ou sítio em que a palavra «PILOTOS» fique bem visível, as embarcações devem ter a letra «P» pintada a preto sobre fundo branco, ou vice-versa, em ambas as amuras.
 
 ##### DIVISÃO III — Sinais
 
-###### Art. 33.º - 1 - De dia, quando em serviço de pilotagem, as embarcações usarão no topo do mastro mais alto ou em outro local bem visível uma bandeira branca, orlada de azul, tendo a orla um décimo do comprimento da tralha e estando a meio da bandeira a letra «P», em azul. Quando transportem piloto, içarão, também em local bem visível, a bandeira H do Código Internacional de Sinais.
+Art. 33.º - 1 - De dia, quando em serviço de pilotagem, as embarcações usarão no topo do mastro mais alto ou em outro local bem visível uma bandeira branca, orlada de azul, tendo a orla um décimo do comprimento da tralha e estando a meio da bandeira a letra «P», em azul. Quando transportem piloto, içarão, também em local bem visível, a bandeira H do Código Internacional de Sinais.
 
 2 - De noite, e nas mesmas circunstâncias, as embarcações de pilotos usarão as luzes e sinais estabelecidos no Regulamento para Evitar Abalroamentos no Mar.
 
-###### Art. 34.º - 1 - As indicações relativas a particularidades da barra ou porto ou a manobras a efectuar serão dadas de terra ou das embarcações dos serviços de pilotagem para o mar, por sinais especiais, bandeiras do Código Internacional de Sinais e por intermédio de equipamento radiotelefónico, nas frequências que para o efeito forem oficialmente estabelecidas.
+Art. 34.º - 1 - As indicações relativas a particularidades da barra ou porto ou a manobras a efectuar serão dadas de terra ou das embarcações dos serviços de pilotagem para o mar, por sinais especiais, bandeiras do Código Internacional de Sinais e por intermédio de equipamento radiotelefónico, nas frequências que para o efeito forem oficialmente estabelecidas.
 
 2 - Os sinais especiais a que se refere o número anterior são os seguintes:
 
@@ -296,19 +308,19 @@ h) O galhardete de reconhecimento do Código Internacional de Sinais servirá, d
 
 3 - Além dos sinais especiais referidos no número anterior, podem ser utilizados os que forem estabelecidos pelas autoridades marítimas em cada porto ou os que estiverem consignados no Código Internacional de Sinais.
 
-###### Art. 35.º - 1 - As embarcações farão uso do Código Internacional de Sinais ou do seu equipamento radiotelefónico nas comunicações que tenham de estabelecer para terra ou outra embarcação.
+Art. 35.º - 1 - As embarcações farão uso do Código Internacional de Sinais ou do seu equipamento radiotelefónico nas comunicações que tenham de estabelecer para terra ou outra embarcação.
 
 2 - As embarcações que à entrada dos portos queiram indicar o seu calado em pés poderão utilizar os galhardetes referidos na alínea b) do n.º 2 do artigo anterior sem mais sinal algum.
 
 ##### DIVISÃO IV — Obrigações
 
-###### Art. 36.º - 1 - Ao piloto no exercício da sua função compete orientar, com o acordo do comandante ou mestre da embarcação, a navegação na barra ou porto e todas as manobras, tendo sempre em atenção as circunstâncias locais.
+Art. 36.º - 1 - Ao piloto no exercício da sua função compete orientar, com o acordo do comandante ou mestre da embarcação, a navegação na barra ou porto e todas as manobras, tendo sempre em atenção as circunstâncias locais.
 
 2 - Para consecução das manobras nas melhores condições de segurança o piloto exigirá ao comandante ou mestre o pessoal e os meios que entenda necessários.
 
 3 - A responsabilidade pela correcta execução de qualquer manobra pertence exclusivamente à tripulação da embarcação.
 
-###### Art. 37.º São obrigações dos pilotos, quando em serviço de pilotagem:
+Art. 37.º São obrigações dos pilotos, quando em serviço de pilotagem:
 
 a) Obter do comandante ou mestre da embarcação pilotada todos os esclarecimentos sobre calados e condições de manobralidade, aperelhos e ajudas para a navegação e manobras, assim como sobre todas as particularidades que possam interessar ao bom desempenho da sua missão;
 
@@ -316,21 +328,21 @@ b) Reclamar do comandante ou mestre da embarcação pilotada todas as providênc
 
 c) Zelar pelo cumprimento de todas as normas de segurança e defesa dos portos.
 
-###### Art. 38.º - 1 - Os pilotos não devem mandar fundear ou amarrar embarcações nas zonas proibidas pelas autoridades marítimas ou na proximidade de cabos ou condutas submarinas, salvo em caso de emergência em que haja perigo para a segurança da própria embarcação ou da navegação do porto.
+Art. 38.º - 1 - Os pilotos não devem mandar fundear ou amarrar embarcações nas zonas proibidas pelas autoridades marítimas ou na proximidade de cabos ou condutas submarinas, salvo em caso de emergência em que haja perigo para a segurança da própria embarcação ou da navegação do porto.
 
 2 - Sempre que se verifiquem os casos da parte final do número anterior, os pilotos comunicá-los-ão, o mais rapidamente possível e pelo meio mais conveniente, aos serviços do seu departamento, que, por sua vez, deles darão conhecimento imediato à autoridade marítima.
 
 3 - Nos casos em que seja forçado a fundear, amarrar ou acostar perto de outros perigos, o piloto, antes de sair de bordo, deve esclarecer o comandante ou mestre acerca das condições em que a embarcação fica e dos cuidados que deverá ter para que não suceda qualquer sinistro.
 
-###### Art. 39.º - 1 - Em caso de nevoeiro deverá o piloto mandar fundear. Na impossibilidade de o fazer, tomará as medidas aconselháveis para garantir a segurança do navio e de terceiros, salvo o disposto no número seguinte.
+Art. 39.º - 1 - Em caso de nevoeiro deverá o piloto mandar fundear. Na impossibilidade de o fazer, tomará as medidas aconselháveis para garantir a segurança do navio e de terceiros, salvo o disposto no número seguinte.
 
 2 - São exceptuados os casos em que as embarcações disponham de equipamentos auxiliares para a navegação com visibilidade reduzida, tais como radar e outros, desde que o comandante ou mestre das embarcações que assim o pretendam declarem e garantam a sua eficiência e o piloto considere satisfatórias as indicações forneceidas pelo equipamento, ou ainda quando a assistência seja garantida por adequadas instalações de detecção electrónica. Neste caso, a navegação com visibilidade reduzida far-se-á atendendo às recomendações relativas ao uso das informações de radar como ajuda para evitar abalroamentos no mar constantes do Regulamento para Evitar Abalroamentos no Mar ou de outros regulamentos próprios do porto.
 
-###### Art. 40.º Em caso de evidente risco de encalhe, abalroação ou naufrágio, o piloto empregará todos os meios ao seu alcance para evitar o sinistro; quando o não consiga, envidará todos os esforços para salvar a gente que estiver a bordo, a embarcação e os haveres.
+Art. 40.º Em caso de evidente risco de encalhe, abalroação ou naufrágio, o piloto empregará todos os meios ao seu alcance para evitar o sinistro; quando o não consiga, envidará todos os esforços para salvar a gente que estiver a bordo, a embarcação e os haveres.
 
-###### Art. 41.º Nenhum piloto deixará de cumprir o serviço de que tenha sido encarregado e não sairá de bordo sem o ter concluído, salvo se receber ordem superior nesse sentido, se for substituído por outro piloto para isso nomeado ou no caso previsto no artigo seguinte.
+Art. 41.º Nenhum piloto deixará de cumprir o serviço de que tenha sido encarregado e não sairá de bordo sem o ter concluído, salvo se receber ordem superior nesse sentido, se for substituído por outro piloto para isso nomeado ou no caso previsto no artigo seguinte.
 
-###### Art. 42.º - 1 - Quando o piloto vir que o comandante ou mestre da embarcação, em vez de seguir as suas indicações, insiste em se afastar delas ou manda efectuar qualquer manobra inconveniente, deixará de orientar a navegação, declarando, se possível em presença de testemunhas idóneas, que cessa as suas atribuições, e retirar-se-á logo que possa para terra, onde dará parte do ocorrido ao chefe do seu departamento. Na falta de testemunhas, a participação do piloto fará fé até prova em contrário.
+Art. 42.º - 1 - Quando o piloto vir que o comandante ou mestre da embarcação, em vez de seguir as suas indicações, insiste em se afastar delas ou manda efectuar qualquer manobra inconveniente, deixará de orientar a navegação, declarando, se possível em presença de testemunhas idóneas, que cessa as suas atribuições, e retirar-se-á logo que possa para terra, onde dará parte do ocorrido ao chefe do seu departamento. Na falta de testemunhas, a participação do piloto fará fé até prova em contrário.
 
 2 - O piloto que não proceder de harmonia com o estabelecido no número anterior é disciplinarmente responsável por qualquer acidente ou avaria sofrido ou produzido pela embarcação.
 
@@ -340,7 +352,7 @@ c) Zelar pelo cumprimento de todas as normas de segurança e defesa dos portos.
 
 Pilotagem
 
-###### Art. 43.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de três milhas centrado na torre de sinais da sede do Departamento de Pilotagem do Porto de Aveiro (DPPA).
+Art. 43.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de três milhas centrado na torre de sinais da sede do Departamento de Pilotagem do Porto de Aveiro (DPPA).
 
 2 - A pilotagem pode fazer-se pela presença do piloto a bordo, ou ainda por sinais ou outros meios de comunicação e orientação, conforme o artigo 2.º deste Regulamento.
 
@@ -348,9 +360,9 @@ Pilotagem
 
 4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto o meridiano que passa pela torre da sede do DPPA.
 
-###### Art. 44.º O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se no mar, quando as condições o permitirem, ou entre molhes, em caso contrário. No segundo caso serão fornecidas aos navios, por qualquer meio de comunicação a combinar, todas as instruções necessárias para entrar ou sair a barra até ao embarque ou desembarque do piloto, nos termos do artigo 2.º deste Regulamento.
+Art. 44.º O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se no mar, quando as condições o permitirem, ou entre molhes, em caso contrário. No segundo caso serão fornecidas aos navios, por qualquer meio de comunicação a combinar, todas as instruções necessárias para entrar ou sair a barra até ao embarque ou desembarque do piloto, nos termos do artigo 2.º deste Regulamento.
 
-###### Art. 45.º - 1 - Para o embarque e desembarque dos pilotos os navios devem arriar uma escada de quebra-costas com as características a seguir indicadas, sem o que o piloto não será obrigado a embarcar:
+Art. 45.º - 1 - Para o embarque e desembarque dos pilotos os navios devem arriar uma escada de quebra-costas com as características a seguir indicadas, sem o que o piloto não será obrigado a embarcar:
 
 a) Deve estar fixada em posição livre de quaisquer esgotos ou descargas e por forma que todos os degraus se apoiem firmemente no costado, não tendo o piloto que subir, desde o lume de água ao local de acesso, nem menos de 1,5 m nem mais de 5 m;
 
@@ -378,7 +390,7 @@ h) De noite, deve dispor de uma luz que lhe ilumine o costado, o local de embarq
 
 Pilotagem
 
-###### Art. 46.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas nas áreas a seguir indicadas:
+Art. 46.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas nas áreas a seguir indicadas:
 
 a) No porto de Leixões, em toda a zona interior do porto e docas e até ao limite exterior de duas milhas contadas a partir do farolim do Esporão;
 
@@ -394,7 +406,7 @@ b) Em Leixões, no interior do porto e ao norte do paralelo do farolim do Espor�
 
 4 - As embarcações que, para esperar maré ou lugar no cais, tenham que fundear fora do porto da área de pilotagem obrigatória referida no n.º 1 deste artigo não serão obrigadas a pagamento de qualquer taxa, desde que não utilizem os serviços de pilotagem.
 
-###### Art. 47.º - 1 - Todas as embarcações que se destinam aos portos do Douro e Leixões e que necessitem ou venham a necessitar dos seus serviços de pilotagem devem anunciar a sua chegada com uma antecedência mínima de doze horas e confirmá-la até duas horas antes da sua efectivação. Se a embarcação faltar ao cumprimento destas normas, o Departamento de Pilotagem dos Portos do Douro e Leixões (DPPDL) não será de forma alguma responsável pela demora no fornecimento de piloto.
+Art. 47.º - 1 - Todas as embarcações que se destinam aos portos do Douro e Leixões e que necessitem ou venham a necessitar dos seus serviços de pilotagem devem anunciar a sua chegada com uma antecedência mínima de doze horas e confirmá-la até duas horas antes da sua efectivação. Se a embarcação faltar ao cumprimento destas normas, o Departamento de Pilotagem dos Portos do Douro e Leixões (DPPDL) não será de forma alguma responsável pela demora no fornecimento de piloto.
 
 2 - Os navios de chegada devem mencionar:
 
@@ -408,13 +420,13 @@ Calado e comprimento;
 
 Procedência.
 
-###### Art. 48.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º deste Regulamento.
+Art. 48.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º deste Regulamento.
 
 ##### DIVISÃO III — Faro e Olhão
 
 Pilotagem
 
-###### Art. 49.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas no percurso entre a orla dos bancos de fora e o cais comercial de Faro e também entre os mesmos bancos e a doca de Olhão.
+Art. 49.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas no percurso entre a orla dos bancos de fora e o cais comercial de Faro e também entre os mesmos bancos e a doca de Olhão.
 
 2 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento, até à entrada dos molhes da barra.
 
@@ -422,17 +434,17 @@ Pilotagem
 
 4 - É indispensável a presença do piloto a bordo da navegação e manobra efectuadas no percurso entre os molhes da barra e o cais comercial de Faro ou entre os mesmos molhes e a doca de Olhão.
 
-###### Art. 50.º - 1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se a uma milha a sul da barra e no cais comercial de Faro ou doca de Olhão.
+Art. 50.º - 1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se a uma milha a sul da barra e no cais comercial de Faro ou doca de Olhão.
 
 2 - As entradas ou saídas dos navios só poderão ser efectuadas entre o nascer e o pôr do Sol, ficando os serviços condicionados aos seus calados e à altura da maré.
 
-###### Art. 51.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
+Art. 51.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
 
 ##### DIVISÃO IV — Figueira da Foz
 
 Pilotagem
 
-###### Art. 52.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de duas milhas, centrado na ponta oeste do molhe norte.
+Art. 52.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de duas milhas, centrado na ponta oeste do molhe norte.
 
 2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
 
@@ -440,15 +452,15 @@ Pilotagem
 
 4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha definida pelas pontas dos molhes.
 
-###### Art. 53.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
+Art. 53.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
 
-###### Art. 54.º Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, este entrará em contacto com o navio por fonia ou VHF e orientá-lo-á na entrada, processando-se o embarque dentro do rio o mais próximo possível da barra.
+Art. 54.º Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, este entrará em contacto com o navio por fonia ou VHF e orientá-lo-á na entrada, processando-se o embarque dentro do rio o mais próximo possível da barra.
 
 ##### DIVISÃO V — Lisboa
 
 Pilotagem
 
-###### Art. 55.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de seis milhas centrado no farol de S. Julião da Barra.
+Art. 55.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de seis milhas centrado no farol de S. Julião da Barra.
 
 2 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
 
@@ -456,9 +468,9 @@ Pilotagem
 
 4 - É, porém, indispensável a presença do piloto a bordo na navegação e manobras efectuadas na área a leste da Torre de Belém e nas embarcações que na área a oeste da mesma Torre efectuem qualquer operação comercial.
 
-###### Art. 56.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
+Art. 56.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
 
-###### Art. 57.º - 1 - Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, o embarque far-se-á dentro do rio e o mais próximo possível da barra.
+Art. 57.º - 1 - Quando, por motivo de mau tempo, o piloto não puder embarcar fora da barra, o embarque far-se-á dentro do rio e o mais próximo possível da barra.
 
 2 - Em consequência do disposto no número anterior, a DPPL difundirá comunicados por meio de avisos aos navegantes, urgentes, que serão transmitidos pelas estações: de Monsanto Rádio, em radiotelefonia (em português e inglês), e de Cascais Rádio, em radiotelefonia (em português) em 2182 kHz. Estes avisos são transmitidos por aquelas estações após os boletins meteorológicos, nas frequências e horas indicadas na Lista de Ajudas à Navegação.
 
@@ -466,13 +478,13 @@ Pilotagem
 
 4 - Idêntico procedimento ao estabelecido nos n.os 2 e 3 se adoptará quando deixe de se verificar o condicionalismo descrito no n.º 1.
 
-###### Art. 58.º Quando, por outros motivos que não o mau tempo, o embarque e o desembarque do piloto fora da barra forem suspensos temporariamente, a estação de pilotos assinalará este facto içando no mastro de sinais os seguintes sinais: de dia, a bandeira C do CIS; de noite, três faróis na mesma vertical, sendo o superior e o inferior vermelhos e o do meio branco.
+Art. 58.º Quando, por outros motivos que não o mau tempo, o embarque e o desembarque do piloto fora da barra forem suspensos temporariamente, a estação de pilotos assinalará este facto içando no mastro de sinais os seguintes sinais: de dia, a bandeira C do CIS; de noite, três faróis na mesma vertical, sendo o superior e o inferior vermelhos e o do meio branco.
 
 ##### DIVISÃO VI — Portimão
 
 Pilotagem
 
-###### Art. 59.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para norte do arco do círculo sul com raio de duas milhas centrado na testa do molhe oeste.
+Art. 59.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para norte do arco do círculo sul com raio de duas milhas centrado na testa do molhe oeste.
 
 2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação, tal como refere o artigo 2.º deste Regulamento.
 
@@ -480,11 +492,11 @@ Pilotagem
 
 4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto de Portimão a linha entre molhes.
 
-###### Art. 60.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º deste Regulamento.
+Art. 60.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º deste Regulamento.
 
 ##### DIVISÃO VII — Setúbal
 
-###### Art. 61.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas em todo o espaço marítimo e fluvial limitado a oeste por um arco de circunferência com centro no farol do Outão e com um raio de cinco milhas.
+Art. 61.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas em todo o espaço marítimo e fluvial limitado a oeste por um arco de circunferência com centro no farol do Outão e com um raio de cinco milhas.
 
 2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
 
@@ -492,7 +504,7 @@ Pilotagem
 
 4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto de Setúbal o paralelo que passa pelo farol do Outão.
 
-###### Art. 62.º - 1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se por intermédio de embarcações do DPPS.
+Art. 62.º - 1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas poderá efectuar-se por intermédio de embarcações do DPPS.
 
 2 - O embarque e desembarque dos pilotos nos serviços, entradas e saídas e os movimentos no porto processam-se a qualquer hora, salvo o condicionalismo de calados, marés, mau tempo ou outros que não aconselhem manobras.
 
@@ -504,7 +516,7 @@ Pilotagem
 
 Pilotagem
 
-###### Art. 63.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de três milhas centrado na ponta do molhe oeste.
+Art. 63.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas na área para leste do arco de círculo oeste com raio de três milhas centrado na ponta do molhe oeste.
 
 2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
 
@@ -512,13 +524,13 @@ Pilotagem
 
 4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha referida no número anterior.
 
-###### Art. 64.º Para o embarque e desembarque dos pilotos ou navios devem proceder conforme o estabelecido no artigo 45.º
+Art. 64.º Para o embarque e desembarque dos pilotos ou navios devem proceder conforme o estabelecido no artigo 45.º
 
 ##### DIVISÃO IX — Viana do Castelo
 
 Pilotagem
 
-###### Art. 65.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área da orla dos bancos de fora da barra até ao interior do porto e neste.
+Art. 65.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais ou estrangeiras, na navegação e ou manobras efectuadas na área da orla dos bancos de fora da barra até ao interior do porto e neste.
 
 2 - A pilotagem pode fazer-se pela presença de piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
 
@@ -526,7 +538,7 @@ Pilotagem
 
 4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha que limita a entrada do anteporto.
 
-###### Art. 66.º - 1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas efectua-se na área da orla dos bancos de fora da barra.
+Art. 66.º - 1 - O embarque e desembarque dos pilotos nos serviços de entradas e saídas efectua-se na área da orla dos bancos de fora da barra.
 
 2 - O embarque e desembarque dos pilotos está condicionado às horas aproximadas das marés, e, desde que as condições meteorológicas o permitam, por intermédio da embarcação do DPPVC.
 
@@ -536,7 +548,7 @@ Pilotagem
 
 Pilotagem
 
-###### Art. 67.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas no percurso entre a orla dos bancos de fora e o interior do porto.
+Art. 67.º - 1 - A pilotagem é obrigatória para todas as embarcações, nacionais e estrangeiras, na navegação e ou manobras efectuadas no percurso entre a orla dos bancos de fora e o interior do porto.
 
 2 - A pilotagem pode fazer-se pela presença do piloto a bordo ou ainda por sinais ou outros meios de comunicação e orientação, tal como refere o artigo 2.º deste Regulamento.
 
@@ -544,22 +556,22 @@ Pilotagem
 
 4 - Para efeitos do artigo 7.º deste Regulamento, considera-se limite exterior do porto a linha da foz do rio Guadiana.
 
-###### Art. 68.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
+Art. 68.º Para o embarque e desembarque dos pilotos os navios devem proceder conforme o estabelecido no artigo 45.º
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 69.º As dúvidas, os casos omissos e as alterações a este Regulamento serão regulados por portaria do Ministro dos Transportes e Comunicações, ouvido o conselho geral do Instituto Nacional de Pilotagem dos Portos (INPP).
+Art. 69.º As dúvidas, os casos omissos e as alterações a este Regulamento serão regulados por portaria do Ministro dos Transportes e Comunicações, ouvido o conselho geral do Instituto Nacional de Pilotagem dos Portos (INPP).
 
-###### Art. 70.º - 1 - No prazo de seis meses a contar da data da entrada em vigor deste Regulamento, o INPP tomará as medidas necessárias a assegurar a pilotagem dos portos em que, actualmente, esse serviço é prestado por outras entidades, com excepção da pilotagem nos portos da Região Autónoma dos Açores, cuja integração nos serviços do INPP se processará nos termos do artigo 56.º do Estatuto do Instituto.
+Art. 70.º - 1 - No prazo de seis meses a contar da data da entrada em vigor deste Regulamento, o INPP tomará as medidas necessárias a assegurar a pilotagem dos portos em que, actualmente, esse serviço é prestado por outras entidades, com excepção da pilotagem nos portos da Região Autónoma dos Açores, cuja integração nos serviços do INPP se processará nos termos do artigo 56.º do Estatuto do Instituto.
 
 2 - Decorrido um ano, este Regulamento será obrigatoriamente revisto.
 
-###### Art. 71.º Fica revogado o Decreto n.º 41667, de 7 de Junho de 1958, com as alterações que posteriormente lhe foram introduzidas, na matéria contemplada neste diploma e que nele não tenham sido expressamente ressalvadas.
+Art. 71.º Fica revogado o Decreto n.º 41667, de 7 de Junho de 1958, com as alterações que posteriormente lhe foram introduzidas, na matéria contemplada neste diploma e que nele não tenham sido expressamente ressalvadas.
 
 Alfredo Jorge Nobre da Costa - Mário Firmino Miguel - José da Silva Lopes - Amílcar José de Gouveia Marques.
 
-**Promulgado em 27 de Outubro de 1978.**
+Promulgado em 27 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

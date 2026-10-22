@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/550-1970-147180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97350591043785325557c69f51287ffe628c0e4e250c5d4deec928f82d4661b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad1a543f49daefea7554303168c8dc4dbe8891cf00c39b15a7b391c958495367
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477364:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:09Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Para efeitos do disposto no n.º 2 da base II da [Lei n.º 5/70](https://diariodarepublica.pt/dr/detalhe/lei/5-1970-142530), de 6 de Junho de 1970, são consideradas entidades competentes as seguintes:
+Artigo 1.º - 1. Para efeitos do disposto no n.º 2 da base II da [Lei n.º 5/70](https://diariodarepublica.pt/dr/detalhe/lei/5-1970-142530), de 6 de Junho de 1970, são consideradas entidades competentes as seguintes:
 
 a) Os organismos vitivinícolas regionais para os vinhos típicos regionais;
 
@@ -110,7 +118,7 @@ c) A Administração-Geral de Álcool, no que respeita a aguardentes diversas e 
 
 3. A Junta Nacional do Vinho poderá delegar no Grémio do Comércio de Exportação de Vinhos, no que respeita às expedições do continente, a competência que lhe é atribuída neste preceito, por um período que não excederá seis meses, contados a partir da publicação deste diploma.
 
-###### Art. 2.º - 1. Os vinhos e seus derivados, as aguardentes diversas e os licores podem circular livremente entre os arquipélagos da Madeira e dos Açores e entre estes arquipélagos e o continente, quando contidos em recipientes de capacidade até 1 l, selados pelas entidades competentes.
+Art. 2.º - 1. Os vinhos e seus derivados, as aguardentes diversas e os licores podem circular livremente entre os arquipélagos da Madeira e dos Açores e entre estes arquipélagos e o continente, quando contidos em recipientes de capacidade até 1 l, selados pelas entidades competentes.
 
 2. Os vinhos comuns que não se contenham em recipientes de capacidade até 1 l podem circular nas quantidades e condições que forem estabelecidas pelo Secretário de Estado do Comércio nas normas reguladoras das campanhas vinícolas anuais.
 
@@ -118,14 +126,14 @@ c) A Administração-Geral de Álcool, no que respeita a aguardentes diversas e 
 
 4. A aguardente vínica, quando destinada à preparação do vinho generoso da Madeira, transitará nas condições que forem estabelecidas pela Junta Nacional do Vinho.
 
-###### Art. 3.º A Junta Nacional do Vinho passa a abranger na sua competência o arquipélago dos Açores, devendo, para o efeito, ajustar a orgânica dos seus serviços.
+Art. 3.º A Junta Nacional do Vinho passa a abranger na sua competência o arquipélago dos Açores, devendo, para o efeito, ajustar a orgânica dos seus serviços.
 
-###### Art. 4.º O disposto no n.º 1 da base I da [Lei n.º 5/70](https://diariodarepublica.pt/dr/detalhe/lei/5-1970-142530), de 6 de Junho de 1970, é aplicável ao álcool, mas sem prejuízo do condicionalismo estabelecido no [Decreto-Lei n.º 47338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47338-1966-477364), de 24 de Novembro de 1966.
+Art. 4.º O disposto no n.º 1 da base I da [Lei n.º 5/70](https://diariodarepublica.pt/dr/detalhe/lei/5-1970-142530), de 6 de Junho de 1970, é aplicável ao álcool, mas sem prejuízo do condicionalismo estabelecido no [Decreto-Lei n.º 47338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47338-1966-477364), de 24 de Novembro de 1966.
 
 Marcello Caetano - João Augusto Dias Rosas - Valentim Xavier Pintado.
 
-**Promulgado em 30 de Outubro de 1970.**
+Promulgado em 30 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/538-1972-685614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfadf6e2f371bb7316756716fb4ef8c3a475ed04fa2c576a218b0915f811b63d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 035e4c99176e7686da6e0d1b344d9a03f090602fb625368a8681e27896e3c137
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:596546:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:16Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +97,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo à Convenção Internacional das Pescarias do Noroeste do Atlântico Relativo a Emendas à Convenção, concluído em Washington em 6 de Outubro de 1970, cujo original em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo à Convenção Internacional das Pescarias do Noroeste do Atlântico Relativo a Emendas à Convenção, concluído em Washington em 6 de Outubro de 1970, cujo original em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Assinado em 15 de Dezembro de 1972.**
+Assinado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 PROTOCOL TO THE INTERNATIONAL CONVENTION FOR THE NORTHWEST ATLANTIC FISHERIES RELATING TO AMENDMENTS TO THE CONVENTION.
 
@@ -237,11 +241,11 @@ PROTOCOLO À CONVENÇÃO INTERNACIONAL DAS PESCARIAS DO NOROESTE DO ATLÂNTICO R
 
 Os Governos partes na Convenção Internacional das Pescarias do Noroeste do Atlântico, assinada em Washington em 8 de Fevereiro de 1949, a qual, tal como foi emendada, será em seguida designada por «a Convenção», desejando facilitar a entrada em vigor das emendas à Convenção, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 O artigo XVII da Convenção será numerado de novo como «artigo XVIII» e um novo artigo XVII será introduzido, com a seguinte redacção:
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 1. Qualquer Governo Contratante ou a Comissão poderão propor emendas a esta Convenção para serem consideradas e discutidas no decurso de uma reunião ordinária da Comissão, ou de uma reunião especial da Comissão, convocada de harmonia com o disposto no n.º 6 do artigo II da Convenção. Qualquer proposta de emenda feita nestes termos será enviada ao Secretário Executivo noventa dias, pelo menos, antes da data do início da reunião na qual se propõe a sua discussão, devendo este transmitir imediatamente a proposta a todos os Governos Contratantes e a todos os Comissários.
 
@@ -253,7 +257,7 @@ ARTIGO XVII
 
 5. O Governo Depositário notificará prontamente todos os Governos Contratantes da recepção de notificação de aprovação de emendas, da recepção de notificações de objecção ou de retiradas de objecções, e da entrada em vigor das emendas.
 
-ARTIGO II
+###### ARTIGO II
 
 1. O presente Protocolo estará aberto à assinatura e ratificação ou aprovação ou à adesão por qualquer Governo parte na Convenção.
 
@@ -265,7 +269,7 @@ ARTIGO II
 
 5. Qualquer Protocolo de emenda à Convenção que tenha sido assinado, mas que não tenha entrado em vigor na data da entrada em vigor deste Protocolo, entrará em vigor depois desta data, de acordo com as disposições deste Protocolo; porém, se na data da entrada em vigor deste Protocolo tiverem já sido recebidos pelo Governo Depositário instrumentos de ratificação ou de aprovação ou. notificação de adesão de três quartos dos Governos Contratantes relativamente ao Protocolo anterior, a data a partir da qual começarão a contar os períodos de noventa dias e de cento e vinte dias referidos na primeira parte do n.º 3 do artigo XVII, quanto a essa emenda, será a data da entrada em vigor deste Protocolo.
 
-ARTIGO III
+###### ARTIGO III
 
 1. O original do presente Protocolo será depositado junto do Governo dos Estados Unidos da América, que dele remeterá cópias certificadas a todos os Governos signatários ou aderentes à Convenção.
 
@@ -297,7 +301,7 @@ Rolf Pauls.
 
 Pela Islândia:
 
-Magnus V. [([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29600/20222024.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29600/20222024.pdf).
+Magnus V. [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29600/20222024.pdf).
 
 6 de Outubro de 1970.
 

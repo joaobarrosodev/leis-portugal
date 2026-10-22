@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/08/17900/10131014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1970-141237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fca6d96abb1126e9fa8fc7c924a42a4c50d6f1895735555c23d9678972b95829
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cc23771a79b3ffbf241ec00daa4db9fff0f2da1031049bfbfd1c35d82a2fda4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Direcção da ARMA de Transmissões
+- Forças Armadas
+- Ministério do Exército
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: "Revogado pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993, que o mantém, contudo, transitoriamente\
+    \ em vigor, nos termos do seu art. 32º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:31Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +112,7 @@ Considerando que já saiu em 1966 da Academia Militar o primeiro curso de oficia
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a arma de transmissões, com as seguintes missões fundamentais:
+Artigo 1.º É criada a arma de transmissões, com as seguintes missões fundamentais:
 
 Montar, explorar e manter os meios de transmissão e guerra electrónica dos comandos das grandes unidades, ou equivalentes, em campanha e em tempo de paz;
 
@@ -112,7 +128,7 @@ Realizar o estudo, sistematização e divulgação dos processos técnicos e ope
 
 Planear e executar, sob orientação do Estado-Maior do Exército, a aquisição, reabastecimento e manutenção do material de transmissões e de guerra electrónica para o Exército.
 
-###### Art. 2.º A arma de transmissões terá os seguintes órgãos fundamentais:
+Art. 2.º A arma de transmissões terá os seguintes órgãos fundamentais:
 
 Direcção da Arma;
 
@@ -124,9 +140,9 @@ Serviço de Telecomunicações Militares;
 
 Depósito Geral de Material de Transmissões.
 
-###### Art. 3.º Ao quadro dos oficiais generais fixado por lei são aumentados dois brigadeiros provenientes da arma de transmissões.
+Art. 3.º Ao quadro dos oficiais generais fixado por lei são aumentados dois brigadeiros provenientes da arma de transmissões.
 
-###### Art. 4.º - 1. O quadro da arma de transmissões terá a seguinte constituição:
+Art. 4.º - 1. O quadro da arma de transmissões terá a seguinte constituição:
 
 Oficiais engenheiros:
 
@@ -192,15 +208,15 @@ Segundos-sargentos ou furriéis ... 15
 
 2. O número de cabos milicianos, primeiros-cabos, segundos-cabos e soldados a integrar anualmente na arma de transmissões será fixado por despacho ministerial, conforme o estabelecido para as restantes armas, de entre os quantitativos globais fixados por lei e inscritos no orçamento do Ministério do Exército.
 
-###### Art. 5.º - 1. Ingressarão no quadro de oficiais engenheiros da arma de transmissões todos os oficiais habilitados com o curso de engenharia electrónica (arma de transmissões) da Academia Militar, sendo inicialmente já transferidos para esse quadro os oficiais da arma de engenharia reclassificados em transmissões.
+Art. 5.º - 1. Ingressarão no quadro de oficiais engenheiros da arma de transmissões todos os oficiais habilitados com o curso de engenharia electrónica (arma de transmissões) da Academia Militar, sendo inicialmente já transferidos para esse quadro os oficiais da arma de engenharia reclassificados em transmissões.
 
 2. Os oficiais a transferir nos termos da parte final deste artigo, que desejem permanecer na arma de engenharia, deverão requerê-lo dentro do prazo de sessenta dias, a contar da data da publicação do presente diploma.
 
-###### Art. 6.º - 1. Ingressarão no quadro de oficiais dos serviços técnicos de exploração e de manutenção das transmissões os oficiais habilitados pela Escola Central de Sargentos, oriundos dos ramos de exploração e de manutenção das transmissões, sendo inicialmente transferidos para esse quadro os oficiais oriundos ou pertencentes aos ramos eléctrico, radioeléctrico e electrónico do serviço de material, especializados na manutenção de material das transmissões, e os oficiais do quadro do serviço geral do Exército oriundos do ramo de transmissões da arma de engenharia.
+Art. 6.º - 1. Ingressarão no quadro de oficiais dos serviços técnicos de exploração e de manutenção das transmissões os oficiais habilitados pela Escola Central de Sargentos, oriundos dos ramos de exploração e de manutenção das transmissões, sendo inicialmente transferidos para esse quadro os oficiais oriundos ou pertencentes aos ramos eléctrico, radioeléctrico e electrónico do serviço de material, especializados na manutenção de material das transmissões, e os oficiais do quadro do serviço geral do Exército oriundos do ramo de transmissões da arma de engenharia.
 
 2. Os oficiais a transferir nos termos da parte final deste artigo, que desejem permanecer nos quadros de origem, deverão requerê-lo dentro do prazo de sessenta dias, a contar da data da publicação do presente diploma.
 
-###### Art. 7.º - 1. Ingressarão no quadro de sargentos da arma de transmissões os militares que estejam nas condições legais estabelecidas para as armas e serviços, sendo inicialmente transferidos para a arma de transmissões os sargentos que estejam nas condições seguintes:
+Art. 7.º - 1. Ingressarão no quadro de sargentos da arma de transmissões os militares que estejam nas condições legais estabelecidas para as armas e serviços, sendo inicialmente transferidos para a arma de transmissões os sargentos que estejam nas condições seguintes:
 
 a) Da arma de engenharia:
 
@@ -222,21 +238,21 @@ b) De ramo manutenção, por ordem de classificação obtida em curso especialme
 
 3. O Regulamento da Escola Central de Sargentos será alterado por diploma especial, de forma a definir as condições de admissão dos sargentos da arma de transmissões e a organização do respectivo curso.
 
-###### Art. 8.º - 1. Ingressarão desde já na arma de transmissões as praças da arma de engenharia e do serviço de material cujas especialidades ou tarefas passem a ser da competência da arma de transmissões.
+Art. 8.º - 1. Ingressarão desde já na arma de transmissões as praças da arma de engenharia e do serviço de material cujas especialidades ou tarefas passem a ser da competência da arma de transmissões.
 
 2. O acesso a primeiro-cabo ajudante de mecânico é feito por ordem de classificação obtida em curso especialmente organizado para o efeito.
 
-###### Art. 9.º Os limites de idade, para efeitos de passagem à situação de reserva, dos oficiais da arma de transmissões serão os seguintes:
+Art. 9.º Os limites de idade, para efeitos de passagem à situação de reserva, dos oficiais da arma de transmissões serão os seguintes:
 
 Engenheiros - os limites de idade fixados para os oficiais das restantes armas.
 
 Serviços técnicos - os limites de idade fixados para os oficiais dos serviços técnicos do serviço de material.
 
-###### Art. 10.º - 1. Os limites de idade para os sargentos do ramo da manutenção da arma de transmissões são iguais aos fixados para os sargentos do quadro do serviço de material.
+Art. 10.º - 1. Os limites de idade para os sargentos do ramo da manutenção da arma de transmissões são iguais aos fixados para os sargentos do quadro do serviço de material.
 
 2. Os sargentos do ramo exploração ingressam no quadro dos sargentos do serviço geral do Exército, em conformidade com o disposto na lei.
 
-###### Art. 11.º Em virtude da criação da arma de transmissões serão feitas, nos actuais quadros permanentes, as seguintes deduções:
+Art. 11.º Em virtude da criação da arma de transmissões serão feitas, nos actuais quadros permanentes, as seguintes deduções:
 
 a) Da arma de engenharia:
 
@@ -248,20 +264,20 @@ No quadro dos serviços técnicos de manutenção, ramo de material eléctrico, 
 
 No quadro de sargentos, ramo de mecânicos de material eléctrico, radioeléctrico e electrónico: catorze primeiros-sargentos e noventa segundos-sargentos e furriéis, extinguindo-se a especialidade de radiomontador.
 
-###### Art. 12.º - 1. Os oficiais, sargentos e praças do quadro da arma de transmissões terão direito aos correspondentes vencimentos fixados na lei.
+Art. 12.º - 1. Os oficiais, sargentos e praças do quadro da arma de transmissões terão direito aos correspondentes vencimentos fixados na lei.
 
 2. Os oficiais engenheiros da arma de transmissões terão direito aos vencimentos previstos na lei para os oficiais com o curso geral de estado-maior, de engenharia e de artilharia (cursos até 1947).
 
-###### Art. 13.º O encargo resultante do preenchimento do quadro da arma de transmissões será repartido pelos anos de 1970 a 1976, inclusive, mediante plano a definir pelos Ministros das Finanças e do Exército.
+Art. 13.º O encargo resultante do preenchimento do quadro da arma de transmissões será repartido pelos anos de 1970 a 1976, inclusive, mediante plano a definir pelos Ministros das Finanças e do Exército.
 
-###### Art. 14.º A forma de preenchimento das vagas no quadro da arma de transmissões, bem como a do preenchimento das vagas nos quadros da arma de engenharia e do serviço de material resultantes da transferência de pessoal destes dois quadros para o primeiro, será regulada por portaria do Ministro do Exército.
+Art. 14.º A forma de preenchimento das vagas no quadro da arma de transmissões, bem como a do preenchimento das vagas nos quadros da arma de engenharia e do serviço de material resultantes da transferência de pessoal destes dois quadros para o primeiro, será regulada por portaria do Ministro do Exército.
 
-###### Art. 15.º O presente decreto-lei entra em vigor no dia 1 de Agosto de 1970.
+Art. 15.º O presente decreto-lei entra em vigor no dia 1 de Agosto de 1970.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 16 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 16 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Agosto de 1970. - MARCELLO CAETANO.

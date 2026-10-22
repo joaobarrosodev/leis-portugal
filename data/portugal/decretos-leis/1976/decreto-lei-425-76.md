@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12600/12211224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1976-426917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3109a2466183f5e46bf8ea856a3c8268d675c98ae5d2774b27046ce7ae747caf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9eae05ff19fec1f1ad8b683c0dfcd5952072e4d8fadb575805ec3b0fbea2b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Comissão Permanente de Reabilitação
+- Definição de Competências
+- Extinção de Serviços
+- Fundo de Desenvolvimento da Mão-de-obra
+- Orgânica
+- Presidência do Conselho de Ministros
+- Presidente
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:256054:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631271:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256054:por
+  label: "Revogado pelo DEC LEI.346/77.20.08.1977.CR, DR.IS [192] de 20.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/346-1977-256054
+  date: '1977-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:49Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +145,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 14 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Comissão Permanente de Reabilitação, criada pelo [Decreto-Lei n.º 474/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1973-412819), de 25 de Setembro, na dependência da Presidência do Conselho, é dotada de autonomia administrativa.
+Artigo 1.º A Comissão Permanente de Reabilitação, criada pelo [Decreto-Lei n.º 474/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1973-412819), de 25 de Setembro, na dependência da Presidência do Conselho, é dotada de autonomia administrativa.
 
-###### Art. 2.º - 1. A Comissão Permanente de Reabilitação é composta por um presidente, dois vice-presidentes, vogais representantes dos Ministros e Secretários de Estado dos departamentos governamentais interessados, dois vogais em representação da Associação Portuguesa de Deficientes (APD), dois vogais em representação da Associação dos Deficientes das Forças Armadas (ADFA) e um secretário.
+Art. 2.º - 1. A Comissão Permanente de Reabilitação é composta por um presidente, dois vice-presidentes, vogais representantes dos Ministros e Secretários de Estado dos departamentos governamentais interessados, dois vogais em representação da Associação Portuguesa de Deficientes (APD), dois vogais em representação da Associação dos Deficientes das Forças Armadas (ADFA) e um secretário.
 
 2. São os seguintes os departamentos governamentais a que se refere o número anterior:
 
@@ -150,13 +185,13 @@ q) Secretaria de Estado da Segurança Social.
 
 3. A composição da Comissão Permanente de Reabilitação pode ser alterada por portaria do Primeiro-Ministro, mediante proposta daquela, sempre que a participação de representantes de titulares de outros departamentos governamentais, a estruturação evolutiva destes ou a desnecessidade de intervenção de alguns dos referidos no n.º 2, de acordo com a contribuição já prestada, o torne aconselhável.
 
-###### Art. 3.º - 1. O presidente da Comissão Permanente de Reabilitação é de nomeação do Primeiro-Ministro.
+Art. 3.º - 1. O presidente da Comissão Permanente de Reabilitação é de nomeação do Primeiro-Ministro.
 
 2. Os vogais representantes dos Ministros e Secretários de Estado são de sua nomeação, decorrendo desta a atribuição do mandato necessário à prática dos actos da competência da Comissão.
 
 3. Os vice-presidentes e o secretário são de nomeação do Primeiro-Ministro, por proposta do presidente, ouvidas as Associações de Deficientes referidas no n.º 1 do artigo 2.º
 
-###### Art. 4.º - 1. A Comissão Permanente de Reabilitação dispõe de serviços técnicos e de serviços administrativos.
+Art. 4.º - 1. A Comissão Permanente de Reabilitação dispõe de serviços técnicos e de serviços administrativos.
 
 2. O pessoal dos serviços técnicos é nomeado por despacho do Primeiro-Ministro, mediante proposta da Comissão, de entre especialistas de reconhecida competência nos diversos domínios da reabilitação.
 
@@ -166,7 +201,7 @@ q) Secretaria de Estado da Segurança Social.
 
 5. A Comissão pode solicitar a colaboração eventual de técnicos de departamentos oficiais ou privados para o planeamento ou programação de execução de um sector específico das suas atribuições.
 
-###### Art. 5.º - 1. São atribuições da Comissão Permanente de Reabilitação:
+Art. 5.º - 1. São atribuições da Comissão Permanente de Reabilitação:
 
 a) Exercer uma acção de consciencialização da sociedade quanto aos fins e meios necessários à habilitação, reabilitação e integração social igualitária dos deficientes e à imperatividade do dever nacional da sua efectivação;
 
@@ -202,7 +237,7 @@ n) Elaborar e propor as medidas e os instrumentos que ampliem e robusteçam as s
 
 o) Exercer as demais funções que, dentro do seu âmbito, lhe sejam cometidas por despacho do Primeiro-Ministro.
 
-###### Art. 6.º Para o exercício das suas atribuições e execução das suas deliberações, compete à Comissão Permanente de Reabilitação:
+Art. 6.º Para o exercício das suas atribuições e execução das suas deliberações, compete à Comissão Permanente de Reabilitação:
 
 a) Promover a cooperação com os departamentos públicos competentes e com os meios de comunicação social, a fim de consciencializar a opinião pública da amplitude dos problemas de habilitação, reabilitação e integração social de deficientes e da imperatividade da sua resolução;
 
@@ -224,7 +259,7 @@ i) Promover a criação e a utilização dos recursos financeiros que possibilit
 
 j) Estabelecer e manter contactos com instituições congéneres estrangeiras e internacionais que prossigam os fins deste diploma, mesmo de âmbito mais restrito e com as mesmas estabelecer intercâmbios de informações e métodos.
 
-###### Art. 7.º - 1. Compete ao presidente da Comissão Permanente de Reabilitação o despacho corrente em todos os assuntos relativos à administração da Comissão, dirigir e coordenar o expediente de todos os sectores de serviço e ainda providenciar pelas medidas convenientes ao aperfeiçoamento dos mesmos, cabendo-lhe, especialmente:
+Art. 7.º - 1. Compete ao presidente da Comissão Permanente de Reabilitação o despacho corrente em todos os assuntos relativos à administração da Comissão, dirigir e coordenar o expediente de todos os sectores de serviço e ainda providenciar pelas medidas convenientes ao aperfeiçoamento dos mesmos, cabendo-lhe, especialmente:
 
 a) Representar a Comissão;
 
@@ -242,7 +277,7 @@ f) Elaborar o relatório anual de actividades da Comissão.
 
 3. O presidente é substituído nas suas faltas e impedimentos pelo vice-presidente que, para o efeito, designar.
 
-###### Art. 8.º Compete aos vogais representantes dos Ministros e Secretários de Estado dos departamentos governamentais mencionados no n.º 2 do artigo 2.º:
+Art. 8.º Compete aos vogais representantes dos Ministros e Secretários de Estado dos departamentos governamentais mencionados no n.º 2 do artigo 2.º:
 
 a) Representar os titulares das pastas;
 
@@ -254,9 +289,9 @@ d) Pugnar pela adopção de medidas concretas de apoio aos deficientes que possa
 
 e) Apresentar à Comissão problemas e sugestões que lhe tenham sido postos por instituições, serviços e sectores profissionais afectos ou adstritos aos departamentos cujos titulares representam.
 
-###### Art. 9.º Compete aos vogais representantes da APD e da ADFA participar activamente nos trabalhos da Comissão, suas comissões técnicas e grupos de trabalho, informar das perspectivas e posições das respectivas Associações e dos problemas por estas detectados de que possam, estatutariamente, ser portadores e apresentar as medidas que entendam dever propor.
+Art. 9.º Compete aos vogais representantes da APD e da ADFA participar activamente nos trabalhos da Comissão, suas comissões técnicas e grupos de trabalho, informar das perspectivas e posições das respectivas Associações e dos problemas por estas detectados de que possam, estatutariamente, ser portadores e apresentar as medidas que entendam dever propor.
 
-###### Art. 10.º Compete ao secretário:
+Art. 10.º Compete ao secretário:
 
 a) Registar em acta as reuniões da Comissão;
 
@@ -266,7 +301,7 @@ c) Dar seguimento a todos os assuntos que corram pela Comissão;
 
 d) Exercer outras funções que lhe sejam cometidas pelo presidente.
 
-###### Art. 11.º Compete aos serviços técnicos:
+Art. 11.º Compete aos serviços técnicos:
 
 a) Pormenorizar os planos nacionais e regionais e os programas sectoriais, directivas e instruções emanadas da Comissão e do seu presidente e, quando for caso disso, promover e acompanhar a sua execução;
 
@@ -274,9 +309,9 @@ b) Assessorar a Comissão e os seus membros nos assuntos para que sejam competen
 
 c) Convocar as reuniões das comissões e grupos a que se refere a alínea e) do n.º 1 do artigo 7.º e assisti-los.
 
-###### Art. 12.º O presidente, os vice-presidentes e o secretário são membros permanentes da Comissão e desempenham as suas funções em regime de tempo inteiro.
+Art. 12.º O presidente, os vice-presidentes e o secretário são membros permanentes da Comissão e desempenham as suas funções em regime de tempo inteiro.
 
-###### Art. 13.º - 1. A Comissão Permanente de Reabilitação funciona em reuniões plenárias e de secção, de acordo com as implicações das matérias para cuja apreciação for convocada.
+Art. 13.º - 1. A Comissão Permanente de Reabilitação funciona em reuniões plenárias e de secção, de acordo com as implicações das matérias para cuja apreciação for convocada.
 
 2. Apenas as deliberações tomadas em reuniões plenárias são dotadas de carácter executório.
 
@@ -290,21 +325,21 @@ c) Convocar as reuniões das comissões e grupos a que se refere a alínea e) do
 
 7. A solicitação da Comissão, podem participar nos seus trabalhos representantes de instituições e serviços, sempre que a sua audição se revele útil em função das matérias a tratar.
 
-###### Art. 14.º Os vencimentos e outros abonos dos membros permanentes da Comissão e, bem assim, os quadros do pessoal, as condições de provimento e prestação de serviço dos funcionários dos serviços técnicos e administrativos são definidos por regulamento a aprovar, consoante os casos, por decreto ou por portaria conjunta do Primeiro-Ministro e dos Ministros da Administração Interna e das Finanças.
+Art. 14.º Os vencimentos e outros abonos dos membros permanentes da Comissão e, bem assim, os quadros do pessoal, as condições de provimento e prestação de serviço dos funcionários dos serviços técnicos e administrativos são definidos por regulamento a aprovar, consoante os casos, por decreto ou por portaria conjunta do Primeiro-Ministro e dos Ministros da Administração Interna e das Finanças.
 
-###### Art. 15.º Os servidores do Estado que vierem a desempenhar quaisquer funções na Comissão serão nomeados em regime de requisição e o tempo de serviço prestado contará para todos os efeitos legais como se o fosse no lugar de origem.
+Art. 15.º Os servidores do Estado que vierem a desempenhar quaisquer funções na Comissão serão nomeados em regime de requisição e o tempo de serviço prestado contará para todos os efeitos legais como se o fosse no lugar de origem.
 
-###### Art. 16.º Serão suportados pelo Orçamento Geral do Estado os encargos decorrentes da execução do presente diploma, devendo o Ministro das Finanças adoptar as providências para tal necessárias.
+Art. 16.º Serão suportados pelo Orçamento Geral do Estado os encargos decorrentes da execução do presente diploma, devendo o Ministro das Finanças adoptar as providências para tal necessárias.
 
-###### Art. 17.º As nomeações a que se referem os n.os 1, 2 e 3 do artigo 3.º e as designações dos vogais da APD e da ADFA, por estas instituições, processar-se-ão nos trinta dias subsequentes à data de publicação deste diploma.
+Art. 17.º As nomeações a que se referem os n.os 1, 2 e 3 do artigo 3.º e as designações dos vogais da APD e da ADFA, por estas instituições, processar-se-ão nos trinta dias subsequentes à data de publicação deste diploma.
 
-###### Art. 18.º A Comissão aprovará, assim que constituída, as suas normas regimentais e regulamentares.
+Art. 18.º A Comissão aprovará, assim que constituída, as suas normas regimentais e regulamentares.
 
-###### Art. 19.º - 1. É extinta a Comissão Especializada sobre Reabilitação Profissional do Conselho Consultivo do Fundo de Desenvolvimento da Mão-de-Obra.
+Art. 19.º - 1. É extinta a Comissão Especializada sobre Reabilitação Profissional do Conselho Consultivo do Fundo de Desenvolvimento da Mão-de-Obra.
 
 2. A documentação e arquivos da Comissão referida no n.º 1 são transferidos para a Comissão Permanente de Reabilitação.
 
-###### Art. 20.º Ficam revogados:
+Art. 20.º Ficam revogados:
 
 a) O [Decreto-Lei n.º 474/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1973-412819), de 25 de Setembro;
 
@@ -316,8 +351,8 @@ d) A [Portaria n.º 23024](https://diariodarepublica.pt/dr/detalhe/portaria/2302
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Walter Ruivo Pinto Gomes Rosa - António Poppe Lopes Cardoso - Álvaro Augusto Veiga de Oliveira - Eduardo Ribeiro Pereira - José Augusto Fernandes - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 17 de Maio de 1976.**
+Promulgado em 17 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

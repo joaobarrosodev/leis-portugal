@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 2º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3446-(26) a 3446-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29902/00260047.pdf
 entry_into_force_dates: []
@@ -46,40 +46,182 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73506cb7ab9b579a778a57d9b94dd1abbdbc1d43bb61b49b85701a193aea0b91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acd6ccd60e1a3f4120adf62ac2ce7d9d6fca6ca1fd22051dff9db2f42158aedf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fazenda Pública
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:218365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391188:por
+  label: "Alterado o quadro de pessoal das tesourarias da Fazenda Pública, pela PORT.201/81.21.02.1981.MFP, DR.IS [44] de\
+    \ 21.02.1981 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-1981-391188
+  date: '1981-02-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 1028/82 DR.IS [260]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-11-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 472/83 DR.IS [93]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-04-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 95-A/85 DR.IS [37]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-02-13'
+- type: amended_by
+  target: pt:dre:171926:por
+  label: "Alterado o quadro de pessoal das tesourarias da Fazenda Pública, aprovado pelo presente diploma, na redacção da\
+    \ Port 201/81, de 21-Fev, pela PORT.867/85.15.11.1985.MFP, DR.IS [263] de 15.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/867-1985-171926
+  date: '1985-11-15'
+- type: amended_by
+  target: pt:dre:335253:por
+  label: Alterados os arts. 6º e 88º pelo DEC LEI.36/90.26.01.1990.MF, DR.IS [22] de 26.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1990-335253
+  date: '1990-01-26'
+- type: amended_by
+  target: pt:dre:332043:por
+  label: "Alterado o quadro de pessoal das tesourarias da Fazenda Pública, que consta do mapa anexo pela PORT.261/90.09.04.1990.SET-MF,\
+    \ DR.IS [83] de 09.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-1990-332043
+  date: '1990-04-09'
+- type: amended_by
+  target: pt:dre:609646:por
+  label: "Alteradas as escalas indiciárias do pessoal dirigente e do pessoal técnico exactor das tesourarias da Fazenda Pública\
+    \ pelo DEC LEI.167/91.09.05.1991.MF, DR.IS-A [106] de 09.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1991-609646
+  date: '1991-05-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DAS TESOURARIAS DA FAZENDA PELA PORT 744-A/93 DE 18-AGO DR.IS-B [193]SUPL \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-18'
+- type: amended_by
+  target: pt:dre:620774:por
+  label: "Alterado o quadro de pessoal das tesourarias da Fazenda Pública, pela PORT.744-A/93.18.08.1993.MF, DR.IS-B [193]Supl\
+    \ de 18.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-a-1993-620774
+  date: '1993-08-18'
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448492:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:681420:por
+  label: Rectificado pela DECL.DD6893.22.04.1980.SG-PCM, DR.IS [94] de 22.04.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-681420
+  date: '1980-04-22'
+- type: repealed_by
+  target: pt:dre:471942:por
+  label: "Revogado o n.º 11 do artigo 18.º pelo DEC LEI.223/80.12.07.1980.MFP, DR.IS [159] de 12.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1980-471942
+  date: '1980-07-12'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADAS AS AL C) A F) DO NUM 2 DO ART 1, AS AL D) A F) DO DO NUM I), O NUM II) E AS AL A) E C) DO NUM III) DO ART
+    51, A AL A) DO NUM 1 DO ART 62 E O NUM 6 DO ART 66 PELO DEC LEI 275-A/93 DE 09-AGO DR.IS-A [185]SUPL SALVO O DISPOSTO
+    NO SEU ART 52
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-09'
+- type: repealed_by
+  target: pt:dre:686384:por
+  label: Revogadas as als. c) a f) do n.º 2 do art. 1.º, as als. d) a f) do n.º I), o n.º II) e as als. a) e c) do n.º III)
+    do art. 51.º, a al. a) do n.º 1 do art. 62.º e o n.º 6 do art. 66.º pelo(a) Decreto-Lei n.º 275-A/93 - Diário da República
+    n.º 185/1993, 1º Suplemento, Série I-A de 1993-08-09, salvo o disposto no art. 52º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-a-1993-686384
+  date: '1993-08-09'
+- type: repealed_by
+  target: pt:dre:655523:por
+  label: "Revogados expressamente os n.ºs 2 a 5 do artigo 6.º (na redacção do Decreto-Lei n.º 36/90, de 26 de Janeiro), as\
+    \ líneas b) dos n.ºs 2 e 3 do artigo 7.º, o n.º 5 dos artigos 30.º e 32.º, os artigos 53.º e 54.º e os n.ºs 2 e 3 do artigo\
+    \ 58.º, pelo DEC LEI.314/93.21.09.1993.MF, DR.IS-A [222] de 21.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-1993-655523
+  date: '1993-09-21'
+- type: repealed_by
+  target: pt:dre:632721:por
+  label: "Revogado o art. 18.º, pelo DEC LEI.532/99.1999.12.11.MF DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/532-1999-632721
+  date: '1999-12-11'
+- type: repealed_by
+  target: pt:dre:218365:por
+  label: "Revogado o presente diploma, com excepção dos arts. 51º, 59º a 67º, nº 1 do art. 68º e arts. 70º a 75º e 77º, que\
+    \ se mantêm em vigor com as necessárias adaptações, pelo DEC LEI.237/2004.18.12.2004.MFAP, DR.IS-A [295] de 18.12.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2004-218365
+  date: '2004-12-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:56Z'
   warnings: []
   errors: []
 ---
@@ -1210,14 +1352,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo 
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 26 de Dezembro de 1979.**
+Promulgado em 26 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o artigo 4.º, n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29902/00260047.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29902/00260047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29902/00260047.pdf)
 
 António Luciano Pacheco de Sousa Franco.

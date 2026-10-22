@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(24) a 318-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00240025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-i-1977-509019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0716f2c9da931caad330b8876301540196f4a7faa50d87c1027c28c82e7a3396
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87096575a62c5d83a1f26c1d37b2db9a2b0f58cf30a8ffb18643b633bbd99e13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Renda Vitalícia
+- Certificado Especial de Dívida Pública
+- Dívida Pública
+- Emissão de Títulos
+- Fundo de Regularização da Dívida Pública
+- Fundo de Renda Vitalícia
+- Junta de Crédito Público
+- Poupança
+- Renda Vitalícia
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:282283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:56Z'
   warnings: []
   errors: []
 ---
@@ -102,58 +141,58 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. A Junta do Crédito Público é autorizada a emitir certificados de renda vitalícia, em uma ou duas vidas, designados por «certificados de renda vitalícia - série A».
+Artigo 1.º - 1. A Junta do Crédito Público é autorizada a emitir certificados de renda vitalícia, em uma ou duas vidas, designados por «certificados de renda vitalícia - série A».
 
 2. Os certificados de renda vitalícia - série A - caracterizam-se por conferirem o direito ao recebimento de uma renda enquanto os seus titulares forem vivos.
 
-###### Art. 2.º - 1. A Junta do Crédito Público é autorizada a emitir certificados de renda vitalícia, em uma só vida, designados por «certificados de renda vitalícia - série B».
+Art. 2.º - 1. A Junta do Crédito Público é autorizada a emitir certificados de renda vitalícia, em uma só vida, designados por «certificados de renda vitalícia - série B».
 
 2. Os certificados de renda vitalícia - série B - caracterizam-se por conferirem direito ao recebimento de uma renda enquanto o seu titular for vivo e por, no caso de a morte ocorrer sem que a soma das rendas vencidas tenha atingido o montante do capital entregue, serem pagas à pessoa por ele designada, cujo nome constará do respectivo certificado, as rendas vencidas ou que se forem sucessivamente vencendo até que as quantias pagas ao titular e a esta pessoa perfaçam o valor daquele capital.
 
 3. Na determinação da soma das quantias pagas, para efeitos do número anterior, não serão tomadas em conta as provenientes de quaisquer ajustamentos.
 
-###### Art. 3.º - 1. As rendas inscritas nos certificados previstos nos artigos anteriores podem ser objecto de ajustamento.
+Art. 3.º - 1. As rendas inscritas nos certificados previstos nos artigos anteriores podem ser objecto de ajustamento.
 
 2. A emissão destes certificados só é possível mediante a entrega, em numerário, do montante necessário, calculado com base nas tabelas que estiverem em vigor.
 
 3. É aprovada a tabela anexa ao presente decreto-lei, a qual servirá para o cálculo das rendas vitalícias a inscrever nos certificados emitidos nos termos do artigo 2.º
 
-###### Art. 4.º - 1. Os valores dos certificados emitidos ao abrigo dos artigos 1.º e 2.º não podem ser acrescidos, mas podem ser emitidos novos certificados das respectivas séries a favor de titulares de certificados já existentes.
+Art. 4.º - 1. Os valores dos certificados emitidos ao abrigo dos artigos 1.º e 2.º não podem ser acrescidos, mas podem ser emitidos novos certificados das respectivas séries a favor de titulares de certificados já existentes.
 
 2. O disposto no artigo único do [Decreto-Lei n.º 48/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1976-506022), de 20 de Janeiro, é aplicável aos certificados de renda vitalícia agora criados.
 
 3. Para o efeito do limite de 300000$00 previsto na disposição referida no número anterior não contam os ajustamentos a conceder eventualmente, nos termos do artigo 8.º, assim como as rendas atribuídas a uma mesma pessoa, na parte que não exceda 90000$00 anuais, e que figurem em certificados em que ela seja interessada, emitidos de harmonia com a lei vigente à data da entrada em vigor deste diploma.
 
-###### Art. 5.º Os montantes recebidos para emissão dos certificados referidos nos artigos 1.º e 2.º serão creditados em rubricas especiais do Fundo de Renda Vitalícia, criado pelo [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, e poderão ser total ou parcialmente entregues ao Tesouro, mediante a emissão, a favor do referido Fundo, de certificados especiais de dívida pública, previstos no artigo 13.º do citado diploma.
+Art. 5.º Os montantes recebidos para emissão dos certificados referidos nos artigos 1.º e 2.º serão creditados em rubricas especiais do Fundo de Renda Vitalícia, criado pelo [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, e poderão ser total ou parcialmente entregues ao Tesouro, mediante a emissão, a favor do referido Fundo, de certificados especiais de dívida pública, previstos no artigo 13.º do citado diploma.
 
-###### Art. 6.º - 1. Os certificados especiais de dívida pública emitidos de harmonia com o artigo anterior serão objecto de ajustamento, tendo especialmente em atenção o ajustamento das rendas vitalícias constantes dos certificados emitidos nos termos dos artigos 1.º e 2.º
+Art. 6.º - 1. Os certificados especiais de dívida pública emitidos de harmonia com o artigo anterior serão objecto de ajustamento, tendo especialmente em atenção o ajustamento das rendas vitalícias constantes dos certificados emitidos nos termos dos artigos 1.º e 2.º
 
 2. Os critérios a adoptar serão fixados por despacho do Ministro das Finanças.
 
-###### Art. 7.º Não serão criados novos certificados de renda vitalícia nos termos da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, nem recebidos quaisquer títulos ou quantias destinados ao aumento das rendas inscritas nos certificados já emitidos de harmonia com a mesma lei ou com o [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
+Art. 7.º Não serão criados novos certificados de renda vitalícia nos termos da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, nem recebidos quaisquer títulos ou quantias destinados ao aumento das rendas inscritas nos certificados já emitidos de harmonia com a mesma lei ou com o [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203), de 2 de Julho de 1952.
 
-###### Art. 8.º - 1. O Ministro das Finanças poderá determinar, por simples despacho, que a Junta do Crédito Público proceda a ajustamento dos valores das rendas inscritas nos certificados de renda vitalícia em curso à data da entrada em vigor deste decreto-lei, emitidos nos termos da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257) e do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203).
+Art. 8.º - 1. O Ministro das Finanças poderá determinar, por simples despacho, que a Junta do Crédito Público proceda a ajustamento dos valores das rendas inscritas nos certificados de renda vitalícia em curso à data da entrada em vigor deste decreto-lei, emitidos nos termos da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257) e do [Decreto-Lei n.º 38811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38811-1952-565203).
 
 2. Para dotar o Fundo de Renda Vitalícia com os recursos necessários à efectivação desse ajustamento, a Junta do Crédito Público procederá a transferência não compensada, para a carteira de títulos deste Fundo, de valores existentes na carteira de títulos do Fundo de Regularização da Dívida Pública, da espécie e na quantidade adequadas.
 
-###### Art. 9.º O despacho ministerial que determine o ajustamento do valor das rendas fixará os termos em que será partilhado, pelos titulares dos certificados de renda vitalícia, o aumento de rendimento de que o Fundo de Renda Vitalícia beneficie em resultado da transferência de valores levada a efeito nos termos do n.º 2 do artigo anterior.
+Art. 9.º O despacho ministerial que determine o ajustamento do valor das rendas fixará os termos em que será partilhado, pelos titulares dos certificados de renda vitalícia, o aumento de rendimento de que o Fundo de Renda Vitalícia beneficie em resultado da transferência de valores levada a efeito nos termos do n.º 2 do artigo anterior.
 
-###### Art. 10.º O Ministro das Finanças poderá, por decreto, autorizar a Junta do Crédito Público a criar outras modalidades de rendas vitalícias, definindo o respectivo regime.
+Art. 10.º O Ministro das Finanças poderá, por decreto, autorizar a Junta do Crédito Público a criar outras modalidades de rendas vitalícias, definindo o respectivo regime.
 
-###### Art. 11.º São revogados o artigos 30.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, e o [Decreto-Lei n.º 245/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1976-502794), de 7 de Abril.
+Art. 11.º São revogados o artigos 30.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, e o [Decreto-Lei n.º 245/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1976-502794), de 7 de Abril.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Certificados de renda vitalícia - Série B
 
 Custo de uma renda igual a 1$00, sobre uma vida, paga em fracções trimestrais de $25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/04901/00240025.pdf))](https://files.diariodarepublica.pt/1s/1977/02/04901/00240025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/04901/00240025.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

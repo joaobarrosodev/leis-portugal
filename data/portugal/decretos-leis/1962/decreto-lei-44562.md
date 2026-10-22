@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44562-1962-159542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5e74ddf039c08ed804ccdfd70d9818db337be6b3bc4eed5b0d25fabe428d98c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 919ccdbc1d3929830f99f80bdda6c84e4af2f098f5a094529d1c71e6094994ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- EFTA
+- Exportação
+- Farinha
+- Importação
+- Produto Siderúrgico
+relationships:
+- type: cites
+  target: pt:dre:172907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178857:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:04Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +104,13 @@ Tendo em vista a decisão n.º 10/1961 do Conselho da citada Associação, publi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, são introduzidas as alterações constantes dos artigos seguintes.
+Artigo 1.º Na lista anexa ao [Decreto-Lei n.º 43769](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43769-1961-172907), de 30 de Junho de 1961, são introduzidas as alterações constantes dos artigos seguintes.
 
-###### Art. 2.º São eliminados os artigos 22.09.03, 22.09.04, ex 23 06, 73.06, 73.07.01, 73.10.01, 73.10.02 e 73.12.03.
+Art. 2.º São eliminados os artigos 22.09.03, 22.09.04, ex 23 06, 73.06, 73.07.01, 73.10.01, 73.10.02 e 73.12.03.
 
-###### Art. 3.º Os artigos 73.10.05 e 73.11.03 passam a ter os n.os 73.10.08 e 73.11.06.
+Art. 3.º Os artigos 73.10.05 e 73.11.03 passam a ter os n.os 73.10.08 e 73.11.06.
 
-###### Art. 4.º São inseridos os artigos:
+Art. 4.º São inseridos os artigos:
 
 14.05 ... Produtos de origem vegetal não especificados:
 
@@ -107,6 +122,6 @@ Noutros estados:
 
 04 ... Não especificado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

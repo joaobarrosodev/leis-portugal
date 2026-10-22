@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 301/1970, 1º Suplemento, Série I de 1970-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2024-(24) a 2024-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30101/00240025.pdf
 entry_into_force_dates: []
@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/689-1970-414438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e3c02300c9c2d39b0b214896af6b66a41cd0962700653f2911dd4f63f565a1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d5ddcfad97085676bf3c13b7ea6d7d7acdfc29af6b4109cd83493f572457c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Ensino Superior
+- Moçambique.Colónia Portuguesa
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Remuneração
+- Universidade de Lourenço Marques
+- Universidade de Luanda
+relationships:
+- type: cites
+  target: pt:dre:146056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:32Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +105,11 @@ de 31 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As disposições do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, com as modificações introduzidas pelo [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), de 22 de Dezembro, são aplicáveis às Universidades de Luanda e de Lourenço Marques, com as alterações seguintes:
+Artigo 1.º As disposições do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, com as modificações introduzidas pelo [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), de 22 de Dezembro, são aplicáveis às Universidades de Luanda e de Lourenço Marques, com as alterações seguintes:
 
 ...
 
-###### Art. 9.º - 1. ...
+Art. 9.º - 1. ...
 
 2. ...
 
@@ -106,13 +123,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. Quando o conselho escolar se pronuncie contra a nomeação definitiva de um professor catedrático ou extraordinário ou a recondução de um professor auxiliar, por não considerar de mérito os seus trabalhos científicos, haverá recurso para os Ministros do Ultramar e da Educação Nacional, que decidirão com base em parecer emitido por um júri de especialistas designado para o efeito.
 
 ...
 
-###### Art. 15.º - 1. ...
+Art. 15.º - 1. ...
 
 2. ...
 
@@ -124,7 +141,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 19.º - 1. ...
+Art. 19.º - 1. ...
 
 2. A comissão de serviço terá a duração normal de dois a três anos, renovável por períodos de dois anos, até ao máximo de seis anos.
 
@@ -132,13 +149,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 25.º - 1. ...
+Art. 25.º - 1. ...
 
 2. ...
 
 3. Se os Ministros do Ultramar e da Educação Nacional aprovarem o convite, o relatório a que se refere o número anterior será publicado no Diário do Governo com o despacho de nomeação.
 
-###### Art. 26.º - 1. ...
+Art. 26.º - 1. ...
 
 2. ...
 
@@ -150,17 +167,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 28.º Os reitores das Universidades deverão propor bienalmente, no mês de Julho, aos Ministros do Ultramar e da Educação Nacional a abertura de concursos para as vagas de professor nos quadros das respectivas escolas, se os conselhos escolares não tiverem tomado essa iniciativa.
+Art. 28.º Os reitores das Universidades deverão propor bienalmente, no mês de Julho, aos Ministros do Ultramar e da Educação Nacional a abertura de concursos para as vagas de professor nos quadros das respectivas escolas, se os conselhos escolares não tiverem tomado essa iniciativa.
 
 ...
 
-###### Art. 36.º - 1. ...
+Art. 36.º - 1. ...
 
 2. São autoridades académicas, consideradas legítimas superiores em matéria de administração escolar, os Ministros do Ultramar e da Educação Nacional, os reitores e vice-reitores das Universidades, os senados ou conselho universitários, os directores e subdirectores das escolas e os conselhos escolares.
 
 ...
 
-###### Art. 38.º - 1. ...
+Art. 38.º - 1. ...
 
 2. ...
 
@@ -174,7 +191,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 51.º - 1. ...
+Art. 51.º - 1. ...
 
 2. ...
 
@@ -186,7 +203,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6. ...
 
-###### Art. 52.º - 1. ...
+Art. 52.º - 1. ...
 
 a) ...
 
@@ -204,7 +221,7 @@ f) Exercício de funções directivas ou de investigação em institutos de inve
 
 ...
 
-###### Art. 55.º - 1. Os profesores auxiliares, os leitores e os assistentes terão direito, por cada curso teórico ou seminário, à gratificação mensal de 3000$00, que lhes será abonada enquanto realizarem os correspondentes ensino e serviço de provas.
+Art. 55.º - 1. Os profesores auxiliares, os leitores e os assistentes terão direito, por cada curso teórico ou seminário, à gratificação mensal de 3000$00, que lhes será abonada enquanto realizarem os correspondentes ensino e serviço de provas.
 
 2. ...
 
@@ -212,13 +229,13 @@ f) Exercício de funções directivas ou de investigação em institutos de inve
 
 4. ...
 
-###### Art. 56.º - 1. ...
+Art. 56.º - 1. ...
 
 2. As gratificações a que se refere este artigo serão fixadas por despacho conjunto dos Ministros do Ultramar e da Educação Nacional.
 
 ...
 
-###### Art. 58.º - 1. ...
+Art. 58.º - 1. ...
 
 2. ...
 
@@ -240,25 +257,25 @@ f) Exercício de funções directivas ou de investigação em institutos de inve
 
 ...
 
-###### Art. 60.º - 1. ...
+Art. 60.º - 1. ...
 
 2. Quando esgotadas no decurso do ano de 1970 as dotações referidas no número anterior, os restantes encargos serão liquidados e pagos pela verba especificadamente inscrita.
 
 3. (Eliminado.)
 
-###### Art. 61.º Os Ministros do Ultramar e da Educação Nacional farão publicar relações de pessoal com indicação das categorias a que ficam pertencendo em conformidade com o disposto no presente diploma, considerando-se os funcionários nelas integrados a partir do dia 1 do mês seguinte ao da entrada em vigor deste diploma, com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.
+Art. 61.º Os Ministros do Ultramar e da Educação Nacional farão publicar relações de pessoal com indicação das categorias a que ficam pertencendo em conformidade com o disposto no presente diploma, considerando-se os funcionários nelas integrados a partir do dia 1 do mês seguinte ao da entrada em vigor deste diploma, com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.
 
-###### Art. 62.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas, tratando-se de questões meramente administrativas, pelo Ministro do Ultramar; tratando-se de questões meramente pedagógicas, pelo Ministro da Educação Nacional, e pelos dois conjuntamente, tratando-se de questões simultâneamente administrativas e pedagógicas.
+Art. 62.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas, tratando-se de questões meramente administrativas, pelo Ministro do Ultramar; tratando-se de questões meramente pedagógicas, pelo Ministro da Educação Nacional, e pelos dois conjuntamente, tratando-se de questões simultâneamente administrativas e pedagógicas.
 
-###### Art. 2.º A tabela a que se refere o artigo 54.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, é substituída para as Universidades de Luanda e de Lourenço Marques pela tabela anexa ao presente diploma.
+Art. 2.º A tabela a que se refere o artigo 54.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, é substituída para as Universidades de Luanda e de Lourenço Marques pela tabela anexa ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e de Moçambique. - J. da Silva Cunha.
 
@@ -266,6 +283,6 @@ Para ser presente à Assembleia Nacional.
 
 Tabela a que se refere o artigo 2.º do Decreto-Lei 689/70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30101/00240025.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30101/00240025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30101/00240025.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.

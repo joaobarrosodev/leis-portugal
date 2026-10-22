@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/175-1973-673809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bd352219e8b8d31f29ac312c2e086a0b640ff6e7fec90f3c0b3054476a96e59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88605cbc36ab5b045536015cf016c3d3e3dfa63a2e9db61f9828eec7fb6125ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:683663:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:57Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +99,14 @@ Por motivo de urgência, nos termos do disposto no § 3.º do artigo 136.º da C
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo único. É aumentado para 1000000 de moedas, no valor de 10000000 de patacas, o número de moedas de prata comemorativas do 50.º aniversário da travessia aérea do Atlântico Sul, com o valor facial de 10 patacas, cuja emissão foi autorizada pelo [Decreto n.º 14/73](https://diariodarepublica.pt/dr/detalhe/decreto/14-1973-683663), de 12 de Janeiro.
+Artigo único. É aumentado para 1000000 de moedas, no valor de 10000000 de patacas, o número de moedas de prata comemorativas do 50.º aniversário da travessia aérea do Atlântico Sul, com o valor facial de 10 patacas, cuja emissão foi autorizada pelo [Decreto n.º 14/73](https://diariodarepublica.pt/dr/detalhe/decreto/14-1973-683663), de 12 de Janeiro.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Abril de 1973.**
+Promulgado em 6 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Macau. - J. da Silva Cunha.

@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1975-161149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c4064671e44aa84926b138a60612be9702d9aa030495c5204eb5a2909542235
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc34d868d70801422e56ee402328d6a7e797b3ba44c5174dfbfac7e1063be27d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Função Pública
+- Ministério da Comunicação Social
+- Orgânica
+- Quadro de Pessoal
+- Secretaria de Estado da Informação e Turismo
+- Secretário Geral
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:49Z'
   warnings: []
   errors: []
 ---
@@ -86,22 +101,22 @@ de 20 de Março
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968, passa a ter a seguinte redacção:
 
-###### Art. 17.º - 1. O lugar de secretário-geral será provido por livre escolha do Ministro, entre indivíduos diplomados com curso superior e com reconhecida competência em questões técnico-administrativas.
+Art. 17.º - 1. O lugar de secretário-geral será provido por livre escolha do Ministro, entre indivíduos diplomados com curso superior e com reconhecida competência em questões técnico-administrativas.
 
 2. A nomeação para o lugar far-se-á por tempo indeterminado.
 
-###### Art. 2.º É aditado ao quadro de pessoal do Ministério da Comunicação Social o lugar de secretário-geral, de categoria correspondente à letra B do mapa do pessoal civil dos Ministérios civis, aprovado pelo [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 2.º É aditado ao quadro de pessoal do Ministério da Comunicação Social o lugar de secretário-geral, de categoria correspondente à letra B do mapa do pessoal civil dos Ministérios civis, aprovado pelo [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 3.º O Ministério das Finanças tomará as providências necessárias à execução deste decreto-lei.
+Art. 3.º O Ministério das Finanças tomará as providências necessárias à execução deste decreto-lei.
 
-###### Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Jorge Correia Jesuíno.
 
-**Promulgado em 14 de Março de 1975.**
+Promulgado em 14 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

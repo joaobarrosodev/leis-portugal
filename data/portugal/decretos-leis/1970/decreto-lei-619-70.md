@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 289/1970, 1º Suplemento, Série I de 1970-12-15
   number: '289'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1896-(1) a 1896-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf
 entry_into_force_dates: []
@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/619-1970-590508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b243365912577da719381553d7e3047c130c3c125c2ee9149dfe0a723283008
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95553675b6edd76bd21f906f1c12c1fe98948e4eed0fac4f91b62a3086af4025
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bélgica
+- Bruxelas
+- Cobrança de Impostos
+- Dupla Tributação
+- Imposto sobre o Rendimento
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:57Z'
   warnings: []
   errors: []
 ---
@@ -87,23 +93,23 @@ de 15 de Dezembro
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção entre Portugal e a Bélgica para Evitar a Dupla Tributação e Regular Algumas Outras Questões em Matéria de Impostos sobre o Rendimento, assinada em Bruxelas em 16 de Julho de 1969, cujos textos em português, francês e neerlandês vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção entre Portugal e a Bélgica para Evitar a Dupla Tributação e Regular Algumas Outras Questões em Matéria de Impostos sobre o Rendimento, assinada em Bruxelas em 16 de Julho de 1969, cujos textos em português, francês e neerlandês vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 19 de Novembro de 1970.**
+Promulgado em 19 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Convenção entre Portugal e a Bélgica para Evitar a Dupla Tributação e Regular Algumas Outras Questões em Matéria de Impostos sobre o Rendimento.
 
-**O Presidente da República Portuguesa e Sua Majestade o Rei dos Belgas, desejosos de evitar a dupla tributação e regular algumas outras questões em matéria de impostos sobre o rendimento, decidiram concluir uma convenção e designaram para tal efeito como plenipotenciários:**
+O Presidente da República Portuguesa e Sua Majestade o Rei dos Belgas, desejosos de evitar a dupla tributação e regular algumas outras questões em matéria de impostos sobre o rendimento, decidiram concluir uma convenção e designaram para tal efeito como plenipotenciários:
 
-**O Presidente da República Portuguesa, S. Ex.ª Sr. Armando Ramos de Paula Coelho, embaixador extraordinário e plenipotenciário de Portugal em Bruxelas; e Sua Majestade o Rei dos Belgas, S. Ex.ª Sr. P. Harmel, Ministro dos Negócios Estrangeiros, os quais, depois de haverem trocado os seus plenos poderes e os terem achado em boa e devida forma, acordaram nas disposições seguintes:**
+O Presidente da República Portuguesa, S. Ex.ª Sr. Armando Ramos de Paula Coelho, embaixador extraordinário e plenipotenciário de Portugal em Bruxelas; e Sua Majestade o Rei dos Belgas, S. Ex.ª Sr. P. Harmel, Ministro dos Negócios Estrangeiros, os quais, depois de haverem trocado os seus plenos poderes e os terem achado em boa e devida forma, acordaram nas disposições seguintes:
 
 ### CAPÍTULO I — Âmbito da aplicação da Convenção
 
@@ -1031,7 +1037,7 @@ B) En ce qui concerne le Portugal:
 
 2º Aux autres impôts établis sur des revenus afférents à l'année de la dénonciation.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
 
 Em testemunho do qual os plenipotenciários dos dois Estados assinaram a presente Convenção e lhe apuseram os respectivos selos.
 
@@ -1041,13 +1047,13 @@ En foi de quoi les plénipotentiaires des deuxs Etats ont signé la présente Co
 
 Fait à Bruxelles, le 16 juillet 1969, en double exemplaire, en languages français, néerlandaise et portugaise, les trois textes faisant également foi.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
 
 Pela República Portuguesa:
 
 Pour la République Portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
 
 Armando Ramos de Paula Coelho.
 
@@ -1055,7 +1061,7 @@ Pelo Reino da Bélgica:
 
 Pour le Rayauame de Belgique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
 
 P. Harmel.
 
@@ -1103,19 +1109,19 @@ Ad article 23, § 2, 3º et 4º:
 
 Dans l'éventualité ou, par suite de modifications apportées à la législation belge postérieurement à la signature de la Convention, l'exemption d'impôt des sociétés applicable en Belgique aux dividendes de sociétés résidentes de la Belgique reçus par une autre société résidente de la Belgique serait limitée à certaines participations, l'application de l'article 23, § 2, 3º et 4º, de la Convention sera limitée aux dividendes de participations similaires dans des sociétés résidentes du Portugal. Dans cette éventualité, la double imposition des dividendes ne se rapportant pas à de telles participations sera évitée conformément à l'article 23, § 2, 2º.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf).
 
 Feito em Bruxelas, a 16 de Julho de 1969, em dois exemplares, em francês, neerlandês e português.
 
 Fait à Bruxelles, le 16 juillet 1969, en double exemplaire, en langues française, néerlandaise et portugaise.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
 
 Pela República Portuguesa:
 
 Pour la Republique Portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
 
 Armando Ramos de Paula Coelho.
 
@@ -1123,6 +1129,6 @@ Pelo Reino da Bélgica:
 
 Pour le Royaume de Belgique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf))](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/28901/00010027.pdf)
 
 P. Harmel.

@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/23-1984-384071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70a17855d878e17d0e3eca040b92f05d5153beb491e9f43b5488a67fd35578ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d7c46e19cda1c7304f8b74d2f628bbfdc0100e245b5f3f39fd9ec891616e2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Direito Estrangeiro
+- Informação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:52Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +90,19 @@ de 14 de Maio
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Protocolo Adicional à Convenção Europeia no Domínio da Informação sobre o Direito Estrangeiro, aberto à assinatura dos Estados membros do Conselho da Europa em 15 de Março de 1978, cujo texto original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Protocolo Adicional à Convenção Europeia no Domínio da Informação sobre o Direito Estrangeiro, aberto à assinatura dos Estados membros do Conselho da Europa em 15 de Março de 1978, cujo texto original em francês e respectiva tradução em português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1984. - Mário Soares - Jaime José Matos da Gama - Rui Manuel Parente Chancerelle de Machete.
 
-**Assinado em 24 de Abril de 1984.**
+Assinado em 24 de Abril de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Abril de 1984.**
+Referendado em 26 de Abril de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 PROTOCOLE ADDITIONNEL À LA CONVENTION EUROPÉENNE DANS LE DOMAINE DE L'INFORMATION SUR LE DROIT ÉTRANGER.
 
@@ -294,7 +298,9 @@ Constatando que o parágrafo 3 do artigo 3.º da Convenção prevê que duas ou 
 
 acordaram no que se segue:
 
-### CAPÍTULO I — ARTIGO 1.º
+### CAPÍTULO I
+
+###### ARTIGO 1.º
 
 As Partes Contratantes comprometem-se a fornecer-se mutuamente, segundo as disposições da Convenção, informações sobre o seu direito substantivo e processual, a sua organização judiciária no domínio penal, incluindo o ministério público, e o direito relativo à execução de medidas penais. Tal compromisso aplica-se a qualquer processo que vise as infracções cuja repressão seja da competência das autoridades judiciárias da Parte requerente no momento em que as informações são pedidas.
 
@@ -306,7 +312,9 @@ a) Emanar, para além de um tribunal, de qualquer autoridade judiciária compete
 
 b) Ser formulado não apenas a propósito de instância já inicada, mas também quando se tenha em vista instaurar um processo.
 
-### CAPÍTULO II — ARTIGO 3.º
+### CAPÍTULO II
+
+###### ARTIGO 3.º
 
 No âmbito do compromisso decorrente do parágrafo 1 do artigo 1.º da Convenção, as Partes Contratantes acordam em que o pedido de informação pode:
 
@@ -320,7 +328,9 @@ b) Ser formulado não apenas a propósito de instância já indicada, mas també
 
 2 - Qualquer Parte Contratante comunicará ao Secretário-Geral do Conselho da Europa a denominação e o endereço do órgão ou órgãos de transmissão criados ou designados em aplicação do parágrafo precedente.
 
-### CAPÍTULO III — ARTIGO 5.º
+### CAPÍTULO III
+
+###### ARTIGO 5.º
 
 1 - Qualquer Estado pode, no momento da assinatura ou do depósito do seu instrumento de ratificação, de aceitação, de aprovação ou de adesão, declarar que apenas fica vinculado às disposições do capítulo I ou às do capítulo II do presente Protocolo.
 
@@ -372,7 +382,7 @@ b) Assinatura sob reserva de ratificação, de aceitação ou de aprovação, se
 
 ###### ARTIGO 11.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer outro Estado que tenha aderido à Convenção do seguinte:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer outro Estado que tenha aderido à Convenção do seguinte:
 
 a) Assinaturas sem reserva de ratificação, de aceitação ou de aprovação;
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20300/25252526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1980-464005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6ea5272be21a9c5e9b63ae11904320abf647d175ad4acf6940ce6f1a2ed6b8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0fd7143c03461fe2afbe1703d7458dba43969b9dc9af8540683f9dfc62d5f1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Definição de Competências
+- Direcção Geral das Indústrias Agrícolas Alimentares
+- Indústria Alimentar
+- Instituto de Qualidade Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:329987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475542:por
+  label: "Revogado, a partir de 01.01.1991, pelo DEC LEI.109/91.1991.03.15.MIE, DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1991-475542
+  date: '1991-03-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:23Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +150,15 @@ Pareceu ainda oportuno consagrar neste diploma formas concretas de intervenção
 
 Nestes termos, o Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Serão exercidas no âmbito do Ministério da Agricultura e Pescas, através da Direcção-Geral das Indústrias Agrícolas Alimentares, na esfera das atribuições e competências que lhe estão cometidas pela respectiva lei orgânica, e no que respeita às indústrias alimentares que lhe foram afectas nos termos do quadro anexo ao [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro, as atribuições e competências que, no âmbito do Ministério da Indústria e Energia, têm vindo a ser exercidas pela Direcção-Geral das Indústrias Transformadoras Ligeiras e pelas delegações regionais do MIE, em matéria de benefícios fiscais e aduaneiros, nos termos da legislação em vigor, e pela Direcção-Geral da Qualidade e delegações regionais do mesmo Ministério em matéria de instalação e laboração dos estabelecimentos industriais, nos termos do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317) e [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), ambos de 28 de Março de 1966, e legislação complementar.
+Artigo 1.º - 1 - Serão exercidas no âmbito do Ministério da Agricultura e Pescas, através da Direcção-Geral das Indústrias Agrícolas Alimentares, na esfera das atribuições e competências que lhe estão cometidas pela respectiva lei orgânica, e no que respeita às indústrias alimentares que lhe foram afectas nos termos do quadro anexo ao [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro, as atribuições e competências que, no âmbito do Ministério da Indústria e Energia, têm vindo a ser exercidas pela Direcção-Geral das Indústrias Transformadoras Ligeiras e pelas delegações regionais do MIE, em matéria de benefícios fiscais e aduaneiros, nos termos da legislação em vigor, e pela Direcção-Geral da Qualidade e delegações regionais do mesmo Ministério em matéria de instalação e laboração dos estabelecimentos industriais, nos termos do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317) e [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), ambos de 28 de Março de 1966, e legislação complementar.
 
 2 - A Direcção-Geral das Indústrias Agrícolas Alimentares exercerá as referidas atribuições e competências em colaboração estreita com os serviços regionais de agricultura, criados pelo artigo 7.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872).
 
-###### Art. 2.º - 1 - Serão exercidas pelo Instituto de Qualidade Alimentar, no âmbito das atribuições que lhe estão cometidas pela respectiva lei orgânica, em matéria de contrôle de qualidade, a inspecção e fiscalização de qualidade de todos os produtos alimentares, quer industriais, quer em natureza, produzidos no País ou importados, e do comércio e trânsito dos mesmos produtos sujeitos a regime especial, nomeadamente as que têm vindo a ser exercidas pela Direcção-Geral da Qualidade e pelas delegações regionais do Ministério da Indústria e Energia, ao abrigo da legislação vigente.
+Art. 2.º - 1 - Serão exercidas pelo Instituto de Qualidade Alimentar, no âmbito das atribuições que lhe estão cometidas pela respectiva lei orgânica, em matéria de contrôle de qualidade, a inspecção e fiscalização de qualidade de todos os produtos alimentares, quer industriais, quer em natureza, produzidos no País ou importados, e do comércio e trânsito dos mesmos produtos sujeitos a regime especial, nomeadamente as que têm vindo a ser exercidas pela Direcção-Geral da Qualidade e pelas delegações regionais do Ministério da Indústria e Energia, ao abrigo da legislação vigente.
 
 2 - O disposto no n.º 1 deste artigo não prejudica o exercício das acções de inspecção técnica previstas nos artigos 2.º e 9.º do [Decreto-Lei n.º 36935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36935-1948-387087), de 24 de Junho de 1948, que a Direcção-Geral da Qualidade, em colaboração com as delegações regionais do MIE, entenda levar a efeito nas indústrias alimentares cuja tutela administrativa pertença, nos termos do [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro, ao Ministério da Indústria e Energia, bem como o exercício das atribuições e competências genéricas cometidas à referida Direcção-Geral, em matéria de normalização e metrologia, relativamente a todas as indústrias alimentares.
 
-###### Art. 3.º - 1 - Ao abrigo do artigo 3.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, poderá o Instituto de Qualidade Alimentar proceder ao estudo e elaboração de projectos de normas de qualidade relativas a todos os produtos alimentares, quer em natureza, quer transformados, e propor a introdução no programa nacional de normalização de estudos de normalização sectoriais.
+Art. 3.º - 1 - Ao abrigo do artigo 3.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, poderá o Instituto de Qualidade Alimentar proceder ao estudo e elaboração de projectos de normas de qualidade relativas a todos os produtos alimentares, quer em natureza, quer transformados, e propor a introdução no programa nacional de normalização de estudos de normalização sectoriais.
 
 2 - Tais estudos ficarão a cargo de comissões técnicas de normalização, que proporão a elaboração de projectos de normas, especificações ou recomendações sobre produtos alimentares, destinados à alimentação humana ou animal.
 
@@ -119,14 +170,14 @@ Nestes termos, o Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 20
 
 6 - As despesas necessárias ao regular funcionamento das referidas comissões técnicas, incluindo as ajudas de custo e despesas de transporte dos seus vogais, deverão ser suportadas pelo Instituto de Qualidade Alimentar, podendo, no entanto, o Centro de Normalização subsidiar, parcial ou totalmente, essas despesas, se tal considerar conveniente.
 
-###### Art. 4.º - 1 - Em ordem a assegurar o cabal desempenho do contrôle da qualidade dos produtos alimentares, sob o ponto de vista de defesa do consumidor, poderá o Instituto de Qualidade Alimentar inspeccionar e vistoriar, a todo o tempo, os locais de recepção, obtenção, acondicionamento, armazenagem, transporte e venda desses produtos.
+Art. 4.º - 1 - Em ordem a assegurar o cabal desempenho do contrôle da qualidade dos produtos alimentares, sob o ponto de vista de defesa do consumidor, poderá o Instituto de Qualidade Alimentar inspeccionar e vistoriar, a todo o tempo, os locais de recepção, obtenção, acondicionamento, armazenagem, transporte e venda desses produtos.
 
 2 - Para o efeito, é permitido ao pessoal do IQA, no exercício das suas funções de inspecção, o livre acesso aqueles locais e proceder à colheita de amostras dos respectivos produtos.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 14 de Agosto de 1980.**
+Promulgado em 14 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

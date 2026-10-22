@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/19-1987-421038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53462ff0cdb5b9c3ee9594b7cc41a5226bd980ddbbae8366b02353b3e14842c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 680d028b44630db8c6cb0b41d575d32860e169e79fcc35ccee8472c65659c94e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Domínio Privado do Estado
+- Domínio Público Hídrico
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635620:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:02Z'
   warnings: []
   errors: []
 ---
@@ -95,24 +105,24 @@ Assim:
 
 O Governo decreta, ao abrigo do artigo 5.º do [Decreto-Lei n.º 48784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646), de 21 de Dezembro de 1968, e nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os terrenos respeitantes aos denominados sapal da Rocha, concelho de Portimão, e sapal do Vale da Lama, concelho de Lagos, revertem ao domínio público marítimo, com as designações, áreas e confrontações constantes do mapa e plantas 1 e 2 anexas ao presente decreto.
+Artigo 1.º Os terrenos respeitantes aos denominados sapal da Rocha, concelho de Portimão, e sapal do Vale da Lama, concelho de Lagos, revertem ao domínio público marítimo, com as designações, áreas e confrontações constantes do mapa e plantas 1 e 2 anexas ao presente decreto.
 
-###### Art. 2.º Ficam revogados os n.os 3 e 4 do mapa anexo ao [Decreto n.º 333/71](https://diariodarepublica.pt/dr/detalhe/decreto/333-1971-635620), de 6 de Agosto.
+Art. 2.º Ficam revogados os n.os 3 e 4 do mapa anexo ao [Decreto n.º 333/71](https://diariodarepublica.pt/dr/detalhe/decreto/333-1971-635620), de 6 de Agosto.
 
 Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 7 de Abril de 1987.**
+Assinado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10800/19381940.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10800/19381940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10800/19381940.pdf)
 
 Afectação de terrenos do domínio público marítimo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10800/19381940.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10800/19381940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10800/19381940.pdf)

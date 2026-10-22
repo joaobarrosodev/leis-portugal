@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 73/1969, 1º Suplemento, Série I de 1969-03-27
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 331 - 332
   pdf_url: https://files.diariodarepublica.pt/1s/1969/03/07301/03310332.pdf
 entry_into_force_dates: []
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48935-1969-302372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 493858f69bbf1b8a033dc0cf980ed5f00bc3275d11d673a3029203c13abd2552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c87625d570d25b924e3df87a4f3dc54b771ac911ea04996c8c2c3a867049865c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água Mineral
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Geral de Minas e Serviços Geológicos
+- Exploração Mineira
+- Obras Públicas
+- Recursos Geológicos
 relationships:
 - type: amended_by
   target: pt:dre:333160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645711:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333160:por
+  label: Revogados os arts. 1º a 4º pelo DEC LEI.90/90.16.03.1990.MIE, DR.IS [63] de 16.03.1990, com a entrada em vigor daquele
+    diploma e legislação referida no art. 51º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1990-333160
+  date: '1990-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:50Z'
   warnings: []
   errors: []
 ---
@@ -102,27 +123,27 @@ Ouvida a Câmara Corporativa:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os acessórios das concessões mineiras constituem para cada uma delas um todo, e só podem ser alienados com autorização da Secretaria de Estado da Indústria, sem prejuízo da competência específica de outros Ministérios.
+Artigo 1.º - 1. Os acessórios das concessões mineiras constituem para cada uma delas um todo, e só podem ser alienados com autorização da Secretaria de Estado da Indústria, sem prejuízo da competência específica de outros Ministérios.
 
 2. Os pedidos de desafectação que não forem objecto de decisão dentro dos noventa dias seguintes à data do requerimento considerar-se-ão indeferidos.
 
-###### Art. 2.º - 1. Quando a realização de um empreendimento de interesse público implicar prejuízo para o campo de exploração de jazigo ou depósito mineral, deverá o facto ser participado à Direcção-Geral de Minas e Serviços Geológicos, a fim de se assentar nas medidas adequadas à redução máxima das danos iminentes.
+Art. 2.º - 1. Quando a realização de um empreendimento de interesse público implicar prejuízo para o campo de exploração de jazigo ou depósito mineral, deverá o facto ser participado à Direcção-Geral de Minas e Serviços Geológicos, a fim de se assentar nas medidas adequadas à redução máxima das danos iminentes.
 
 2. A Direcção-Geral de Minas e Serviços Geológicos poderá, em tal caso, ordenar fundamentalmente as providências urgentes que sejam necessárias para assegurar a manutenção e continuidade da exploração ou que o concessionário abrevie e intensifique a exploração, sob pena de caducidade.
 
-###### Art. 3.º - 1. As obras definitivas serão efectuadas pelo concessionário, segundo planos aprovados pelo Secretário de Estado da Indústria, sob parecer do Conselho Superior de Minas e Serviços Geológicos, e serão pagas pela entidade responsável pelo empreendimento que prejudique a concessão.
+Art. 3.º - 1. As obras definitivas serão efectuadas pelo concessionário, segundo planos aprovados pelo Secretário de Estado da Indústria, sob parecer do Conselho Superior de Minas e Serviços Geológicos, e serão pagas pela entidade responsável pelo empreendimento que prejudique a concessão.
 
 2. O montante a pagar será fixado por acordo dos interessados, sujeito a homologação do Secretário de Estado da Indústria, sob parecer do Conselho Superior de Minas e Serviços Geológicos. Na falta de acordo ou quando este não seja homologado, o Secretário de Estado da Indústria solicitará da Procuradoria-Geral da República a proposição nos tribunais comuns da competente acção.
 
 3. O Secretário de Estado da Indústria fixará os quantitativos e os prazos dos pagamentos parciais a realizar, ouvido o Conselho Superior de Minas e Serviços Geológicos.
 
-###### Art. 4.º - 1. As obras definitivas a que se refere o artigo anterior deverão ser executadas no prazo determinado por despacho do Secretário de Estado da Indústria, segundo as circunstâncias do caso.
+Art. 4.º - 1. As obras definitivas a que se refere o artigo anterior deverão ser executadas no prazo determinado por despacho do Secretário de Estado da Indústria, segundo as circunstâncias do caso.
 
 2. Decorrido esse prazo sem que o concessionário execute ou conclua as obras, perderá, salvo caso de força maior, o direito à concessão, procedendo logo os serviços da Direcção-Geral de Minas e Serviços Geológicos à vistoria ad perpetuam rei memoriam, de tudo se fazendo menção em auto lavrado na presença do concessionário ou de representante seu e por ele ou por esse representante assinado. O auto servirá de base à fixação da indemnização devida ao ex-concessionário, que será paga pelo novo concessionário e liquidada por acordo entre ambos ou, na falta de acordo, por decisão judicial.
 
 3. A Direcção-Geral de Minas e Serviços Geológicos assegurará a continuidade das obras por intermédio da entidade responsável pelo empreendimento que prejudique a concessão, a qual as custeará dentro dos limites da indemnização fixada.
 
-###### Art. 5.º - 1. São considerados acessórios do aproveitamento de águas mineromedicinais:
+Art. 5.º - 1. São considerados acessórios do aproveitamento de águas mineromedicinais:
 
 a) Os balneários;
 
@@ -142,12 +163,12 @@ h) Os estabelecimentos hoteleiros e instalações similares cuja construção te
 
 2. O licenciamento e a fiscalização dos acessórias referidos no número anterior competem à Direcção-Geral de Minas e Serviços Geológicos, em tudo quanto não seja da competência atribuída por lei a outros departamentos e serviços oficiais.
 
-###### Art. 6.º É aplicável às concessões de aproveitamento de águas mineromedicinais o disposto nos artigos 1.º, 2.º, 3.º e 4.º do presente diploma.
+Art. 6.º É aplicável às concessões de aproveitamento de águas mineromedicinais o disposto nos artigos 1.º, 2.º, 3.º e 4.º do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 
-**Promulgado em 26 de Março de 1969.**
+Promulgado em 26 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

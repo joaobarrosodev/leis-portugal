@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21600/19721973.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1978-329577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea366ea9f5acedf502f0d1cdc7405b8e049344d04b2de3086289caeaf39d4439
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15afb71fe1de179c45f3e543191e7c07251f2454767b98e94c3d9be93c8eee94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Direcção Geral de Portos
+- Dragapor-dragagens de Portugal
+- Empresa Pública
+- Funcionário Público
+- Integração de Trabalhadores
+- Remuneração
+- Remuneração Acessória
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:255391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:43Z'
   warnings: []
   errors: []
 ---
@@ -107,30 +133,30 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Na empresa pública Dragagens de Portugal, E. P., Dragapor deverá vigorar até à publicação do estatuto do pessoal previsto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, uma tabela salarial cujo leque, em valores líquidos, não seja superior ao estabelecido para a função pública.
+Artigo 1.º - 1 - Na empresa pública Dragagens de Portugal, E. P., Dragapor deverá vigorar até à publicação do estatuto do pessoal previsto no n.º 1 do artigo 11.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, uma tabela salarial cujo leque, em valores líquidos, não seja superior ao estabelecido para a função pública.
 
 2 - A determinação de valores líquidos dos vencimentos efectua-se mediante dedução dos descontos obrigatórios a reter na fonte, bem como do imposto complementar calculado exclusivamente na base do vencimento individual.
 
 3 - Ao vencimento dos funcionários e agentes oriundos da Administração Pública que se encontrem em comissão de serviço na empresa pública Dragagens de Portugal, E. P., Dragapor ao abrigo do disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, acresce um montante uniforme de 1000$00 relativamente aos valores constantes da tabela referida no artigo 1.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
 
-###### Art. 2.º - 1 - Os responsáveis pelos órgãos de estrutura orgânica da empresa pública Dragagens de Portugal, E. P., Dragapor deverão auferir, no mínimo, o vencimento correspondente ao escalão imediatamente superior ao trabalhador com melhor vencimento que esteja colocado sob a sua dependência hierárquica.
+Art. 2.º - 1 - Os responsáveis pelos órgãos de estrutura orgânica da empresa pública Dragagens de Portugal, E. P., Dragapor deverão auferir, no mínimo, o vencimento correspondente ao escalão imediatamente superior ao trabalhador com melhor vencimento que esteja colocado sob a sua dependência hierárquica.
 
 2 - Compete ao conselho de gerência fixar os escalões de vencimentos dos titulares dos órgãos de estrutura orgânica da empresa, de acordo com o princípio do número anterior e nos limites da tabela referida no artigo 1.º do presente diploma.
 
-###### Art. 3.º Os trabalhadores da empresa pública Dragagens de Portugal, E. P., Dragapor deverão auferir vencimentos líquidos idênticos quando efectivamente desempenharem as mesmas funções quer sejam ou não funcionários e agentes da Administração Pública que se encontrem em comissão de serviço ao abrigo do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto.
+Art. 3.º Os trabalhadores da empresa pública Dragagens de Portugal, E. P., Dragapor deverão auferir vencimentos líquidos idênticos quando efectivamente desempenharem as mesmas funções quer sejam ou não funcionários e agentes da Administração Pública que se encontrem em comissão de serviço ao abrigo do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto.
 
-###### Art. 4.º - 1 - Será facultado ao pessoal com funções administrativas exclusivamente afecto à actividade de dragagem, quer da Direcção-Geral de Portos, quer da Administração-Geral do Porto de Lisboa, a opção de integração na empresa, que deverá ser manifestada por escrito, no prazo de quinze dias a contar da publicação deste diploma.
+Art. 4.º - 1 - Será facultado ao pessoal com funções administrativas exclusivamente afecto à actividade de dragagem, quer da Direcção-Geral de Portos, quer da Administração-Geral do Porto de Lisboa, a opção de integração na empresa, que deverá ser manifestada por escrito, no prazo de quinze dias a contar da publicação deste diploma.
 
 2 - É revogado o n.º 3 do artigo 10.º do [Decreto-Lei n.º 332/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1977-255391), de 10 de Agosto, com a redacção que lhe foi introduzida pelo artigo único do [Decreto-Lei n.º 550/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1977-276621), de 31 de Dezembro.
 
-###### Art. 5.º As dúvidas que se suscitarem na interpretação ao aplicado no presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
+Art. 5.º As dúvidas que se suscitarem na interpretação ao aplicado no presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-###### Art. 6.º O presente diploma entra imediatamente em vigor e produz efeitos a partir de 1 de Junho de 1978.
+Art. 6.º O presente diploma entra imediatamente em vigor e produz efeitos a partir de 1 de Junho de 1978.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Manuel Branco Ferreira Lima.
 
-**Promulgado em 25 de Agosto de 1978.**
+Promulgado em 25 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

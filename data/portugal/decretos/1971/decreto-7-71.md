@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1971-446333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b63ae2032e19f3f486e464e85d801cbe5586348241be7d68d51e744aed4044cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1320fa76bc7352c6de5861b37056d232f1165cbabcfb8d2333a6f6db5b3c79e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:367407:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:20Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +97,11 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É eliminada na província de Timor a selagem das mercadorias pela forma prevista nos artigos 57.º e 58.º do [Decreto n.º 28683](https://diariodarepublica.pt/dr/detalhe/decreto/28683-1938-367407), de 23 de Maio de 1938.
+Artigo 1.º É eliminada na província de Timor a selagem das mercadorias pela forma prevista nos artigos 57.º e 58.º do [Decreto n.º 28683](https://diariodarepublica.pt/dr/detalhe/decreto/28683-1938-367407), de 23 de Maio de 1938.
 
-###### Art. 2.º As taxas constantes das disposições referidas no artigo anterior, em relação às mercadorias importadas, passam a ser liquidadas por meio de guia a juntar ao despacho aduaneiro.
+Art. 2.º As taxas constantes das disposições referidas no artigo anterior, em relação às mercadorias importadas, passam a ser liquidadas por meio de guia a juntar ao despacho aduaneiro.
 
-###### Art. 3.º - 1. O Governo da província de Timor poderá determinar, quando as circunstâncias o aconselharem, a aposição de uma estampilha, comprovativa do pagamento das imposições devidas, em cada uma das unidades importadas a que respeite a guia referida no número anterior, e para isso expedirá as normas reguladoras necessárias.
+Art. 3.º - 1. O Governo da província de Timor poderá determinar, quando as circunstâncias o aconselharem, a aposição de uma estampilha, comprovativa do pagamento das imposições devidas, em cada uma das unidades importadas a que respeite a guia referida no número anterior, e para isso expedirá as normas reguladoras necessárias.
 
 2. A medida prevista no n.º 1 poderá ser tornada extensiva ao tabaco produzido na província, sendo a estampilha, nesse caso, comprovativa do pagamento do imposto de fabricação e consumo.
 
@@ -105,10 +109,10 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Janeiro de 1971.**
+Promulgado em 6 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Timor. - J. da Silva Cunha.

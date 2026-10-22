@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/04/10000/04290431.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad1945e28a653ef7a4a115439a3634c980ae0b056009eb2fa5488b7c5b2b82f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1f90d4dbac3f7bb74cf15e8730d50b01a854a824ab1cfbe9d5a38cbee6c6b72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Função Pública
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:214535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310993:por
+  label: Alterado o quadro de pessoal aprovado pelo presente diploma, pelo(a) Decreto-Lei n.º 709/75 - Diário do Governo n.º
+    292/1975, Série I de 1975-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/709-1975-310993
+  date: '1975-12-19'
+- type: amended_by
+  target: pt:dre:474140:por
+  label: Substituído o quadro de pessoal aprovado pelo presente diploma, com as alterações introduzidas pelo Dec Lei 709/75,
+    de 19-dez, pelo(a) Portaria n.º 278/80 - Diário da República n.º 119/1980, Série I de 1980-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/278-1980-474140
+  date: '1980-05-23'
+- type: amended_by
+  target: pt:dre:462061:por
+  label: Transformada a Assistência na Doença aos Servidores Civis do Estado (ADSE) criada pelo presente diploma em Direcção-Geral
+    de Protecção Social aos Funcionários e Agentes da Administração Pública e revogado o presente diploma pelo(a) Decreto-Lei
+    n.º 476/80 - Diário da República n.º 239/1980, Série I de 1980-10-15, a partir da entrada em vigor deste diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/476-1980-462061
+  date: '1980-10-15'
+- type: amended_by
+  target: pt:dre:214535:por
+  label: "Criado um Conselho Consultivo junto da ADSE, pelo DEC LEI.182/96.26.09.1996.PCM, DR.IS-A [224] de 26.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1996-214535
+  date: '1996-09-26'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:49Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +163,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), destinada a promover gradualmente a prestação de assistência em todas as formas de doença aos serventuários dos serviços civis do Estado, incluindo os dotados de autonomia administrativa e financeira, salvo se a sua legislação própria permitir a existência de obras sociais susceptíveis de abranger aquela assistência.
+Artigo 1.º É criada a Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), destinada a promover gradualmente a prestação de assistência em todas as formas de doença aos serventuários dos serviços civis do Estado, incluindo os dotados de autonomia administrativa e financeira, salvo se a sua legislação própria permitir a existência de obras sociais susceptíveis de abranger aquela assistência.
 
-###### Art. 2.º A A. D. S. E. será um serviço administrativamente autónomo, funcionando transitòriamente no Ministério das Finanças, na dependência directa do respectivo Ministro.
+Art. 2.º A A. D. S. E. será um serviço administrativamente autónomo, funcionando transitòriamente no Ministério das Finanças, na dependência directa do respectivo Ministro.
 
-###### Art. 3.º À A. D. S. E. compete:
+Art. 3.º À A. D. S. E. compete:
 
 a) Organizar, orientar e fiscalizar a prestação da assistência referida no artigo 1.º, sem prejuízo do estabelecido no [Decreto-Lei n.º 40365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40365-1955-245716), de 29 de Outubro de 1955, para os funcionários civis tuberculosos;
 
@@ -126,7 +181,7 @@ e) Tomar as providências indispensáveis à verificação do rigoroso cumprimen
 
 f) Submeter a aprovação ministerial os planos de vacinação dos servidores, ou os de outras actividades profilácticas, que sejam havidos por convenientes.
 
-###### Art. 4.º A assistência facultada ao abrigo deste decreto-lei poderá abranger as modalidades de assistência médica e cirúrgica, materno-infantil, de enfermagem e medicamentosa.
+Art. 4.º A assistência facultada ao abrigo deste decreto-lei poderá abranger as modalidades de assistência médica e cirúrgica, materno-infantil, de enfermagem e medicamentosa.
 
 § 1.º A assistência médica e cirúrgica terá, em princípio, a amplitude seguinte:
 
@@ -142,63 +197,63 @@ e) Intervenções cirúrgicas.
 
 § 2.º O alargamento do esquema enunciado no parágrafo anterior a quaisquer outros benefícios, ainda que de idêntica natureza, assim como a sua extensão, no todo ou em parte, ao agregado familiar dos servidores do Estado, dependerá de autorização do Ministro das Finanças.
 
-###### Art. 5.º A prestação da assistência médica e cirúrgica, nos termos deste diploma, pode ser feita por qualquer médico de clínica geral ou especialista, mediante o cumprimento das formalidades a estabelecer em regulamento.
+Art. 5.º A prestação da assistência médica e cirúrgica, nos termos deste diploma, pode ser feita por qualquer médico de clínica geral ou especialista, mediante o cumprimento das formalidades a estabelecer em regulamento.
 
-###### Art. 6.º A assistência materno-infantil será assegurada, de preferência, mediante acordos a realizar com estabelecimentos e serviços adequados, oficiais ou particulares, que prestem assistência não só no parto, como na gravidez e no puerpério, esta última extensiva ao recém-nascido.
+Art. 6.º A assistência materno-infantil será assegurada, de preferência, mediante acordos a realizar com estabelecimentos e serviços adequados, oficiais ou particulares, que prestem assistência não só no parto, como na gravidez e no puerpério, esta última extensiva ao recém-nascido.
 
-###### Art. 7.º A A. D. S. E. poderá proporcionar aos servidores do Estado enfermagem em regime ambulatório e domiciliário, para o que celebrará acordos com serviços desta natureza, oficiais ou particulares.
+Art. 7.º A A. D. S. E. poderá proporcionar aos servidores do Estado enfermagem em regime ambulatório e domiciliário, para o que celebrará acordos com serviços desta natureza, oficiais ou particulares.
 
-###### Art. 8.º Os servidores civis do Estado poderão escolher livremente, de entre médicos de clínica geral, o seu médico assistente, com a única restrição derivada do limite máximo estabelecido no § 1.º do artigo 15.º
+Art. 8.º Os servidores civis do Estado poderão escolher livremente, de entre médicos de clínica geral, o seu médico assistente, com a única restrição derivada do limite máximo estabelecido no § 1.º do artigo 15.º
 
 § 1.º A escolha será válida por períodos nunca inferiores a um ano, salvo em casos excepcionais como tais reconhecidos pela A. D. S. E., à qual compete ainda autorizar as alterações no final desses períodos, quando justificadas.
 
 § 2.º Em casos de urgência ou de impedimento do seu médico assistente, pode o servidor recorrer a outro médico, nas condições que forem regulamentadas, ou às equipas de serviço permanente que sejam criadas nos grandes centros, ou ainda aos serviços de idêntica natureza, oficiais ou particulares, com os quais a A. D. S. E. tenha estabelecido acordos para esse efeito.
 
-###### Art. 9.º O recurso a especialistas e a obtenção de meios auxiliares de diagnóstico e de meios de terapêutica serão condicionados a indicação dos médicos assistentes, cumpridas as formalidades estabelecidas pela A. D. S. E., sem prejuízo da possibilidade de escolha dos servidores.
+Art. 9.º O recurso a especialistas e a obtenção de meios auxiliares de diagnóstico e de meios de terapêutica serão condicionados a indicação dos médicos assistentes, cumpridas as formalidades estabelecidas pela A. D. S. E., sem prejuízo da possibilidade de escolha dos servidores.
 
-###### Art. 10.º Aos servidores civis do Estado é facultado o internamento em estabelecimento adequado, a indicar pela A. D. S. E. de entre os hospitais oficiais, os das Misericórdias e outros estabelecimentos particulares, com os quais tenham sido celebrados acordos para o efeito.
+Art. 10.º Aos servidores civis do Estado é facultado o internamento em estabelecimento adequado, a indicar pela A. D. S. E. de entre os hospitais oficiais, os das Misericórdias e outros estabelecimentos particulares, com os quais tenham sido celebrados acordos para o efeito.
 
 § 1.º O internamento poderá resultar de indicação do médico assistente ou de especialista, ou ainda de urgência verificada nos serviços próprios dos estabelecimentos a que o corpo deste artigo se refere.
 
 § 2.º A A. D. S. E. poderá autorizar o internamento em estabelecimento oficial ou particular diferente dos mencionados neste artigo, mas em tal caso pertencerá inteiramente ao servidor a responsabilidade pelas respectivas despesas, embora a A. D. S. E. comparticipe nelas, nos termos do § 2.º do artigo 12.º
 
-###### Art. 11.º Para as intervenções cirúrgicas a que hajam de ser submetidos, os servidores poderão escolher livremente o cirurgião, entre os que tenham celebrado acordo com a A. D. S. E., ou entre os dos estabelecimentos onde se der o internamento, quando os regulamentos privativos destes assim o exijam.
+Art. 11.º Para as intervenções cirúrgicas a que hajam de ser submetidos, os servidores poderão escolher livremente o cirurgião, entre os que tenham celebrado acordo com a A. D. S. E., ou entre os dos estabelecimentos onde se der o internamento, quando os regulamentos privativos destes assim o exijam.
 
 § único. É permitida aos servidores a escolha de cirurgião diferente dos designados no corpo deste artigo, ficando, porém, a seu cargo o pagamento da diferença entre os valores da tabela aprovada e o custo efectivo da intervenção havida e regulando-se a comparticipação da A. D. S. E. pelo disposto no § 2.º do artigo seguinte.
 
-###### Art. 12.º Os servidores do Estado suportarão parte do custo dos serviços de assistência que solicitem, quer se trate de prestações unitárias, quer de períodos globais de tratamento.
+Art. 12.º Os servidores do Estado suportarão parte do custo dos serviços de assistência que solicitem, quer se trate de prestações unitárias, quer de períodos globais de tratamento.
 
 § 1.º As comparticipações a cargo dos servidores constarão de regulamento e serão determinadas em função dos vencimentos, para o efeito agrupáveis por escalões, sem embargo de poder ser também considerada a composição dos respectivos agregados familiares.
 
 § 2.º Nos casos previstos no § 2.º do artigo 10.º e no § único do artigo anterior, a comparticipação da A. D. S. E. no custo dos serviços será inferior à que lhe caberia se os servidores utilizassem as soluções referidas no corpo de cada um daqueles artigos.
 
-###### Art. 13.º O custo dos medicamentos prescritos pelos médicos será comparticipado pela A. D. S. E., sendo fixadas em regulamento as normas do fornecimento e os valores da comparticipação.
+Art. 13.º O custo dos medicamentos prescritos pelos médicos será comparticipado pela A. D. S. E., sendo fixadas em regulamento as normas do fornecimento e os valores da comparticipação.
 
 § 1.º A comparticipação a que alude este artigo será igual para todos os produtos nacionais e para os estrangeiros, a menos que estes tenham similar na indústria nacional, caso em que a comparticipação será inferior.
 
 § 2.º Serão gratuitas para os servidores as vacinações e outras actividades de carácter profiláctico cujas campanhas tenham sido aprovadas superiormente.
 
-###### Art. 14.º As comparticipações dos servidores, nos termos dos artigos precedentes, serão descontadas nos vencimentos, podendo os respectivos pagamentos ser fraccionados, consoante o seu montante e as condições económicas dos mesmos servidores.
+Art. 14.º As comparticipações dos servidores, nos termos dos artigos precedentes, serão descontadas nos vencimentos, podendo os respectivos pagamentos ser fraccionados, consoante o seu montante e as condições económicas dos mesmos servidores.
 
-###### Art. 15.º Os médicos assistentes serão remunerados pela A. D. S. E. com gratificações mensais, variáveis segundo o número de servidores a seu cargo, e complementos correspondentes às prestações unitárias de serviço.
+Art. 15.º Os médicos assistentes serão remunerados pela A. D. S. E. com gratificações mensais, variáveis segundo o número de servidores a seu cargo, e complementos correspondentes às prestações unitárias de serviço.
 
 § 1.º A A. D. S. E. fixará o número mínimo de servidores a cargo de cada médico, e, bem assim, o número máximo que a estes será permitido assistir.
 
 § 2.º A fixação das gratificações e respectivos complementos, bem como dos limites máximo e mínimo de doentes, a que este artigo se refere, será feita com prévia audiência da Ordem dos Médicos.
 
-###### Art. 16.º Os especialistas serão pagos segundo tabela oficialmente aprovada, ouvida a Ordem dos Médicos.
+Art. 16.º Os especialistas serão pagos segundo tabela oficialmente aprovada, ouvida a Ordem dos Médicos.
 
-###### Art. 17.º Constituem receitas da A. D. S. E. as dotações anualmente atribuídas no Orçamento Geral do Estado, e bem assim as comparticipações dos servidores no custeio da assistência prestada, além de quaisquer outras cuja cobrança venha a ser-lhe autorizada.
+Art. 17.º Constituem receitas da A. D. S. E. as dotações anualmente atribuídas no Orçamento Geral do Estado, e bem assim as comparticipações dos servidores no custeio da assistência prestada, além de quaisquer outras cuja cobrança venha a ser-lhe autorizada.
 
-###### Art. 18.º A organização e o funcionamento da A. D. S. E. serão estabelecidos em regulamento a aprovar pelos Ministros das Finanças e da Saúde e Assistência, aos quais compete ainda aprovar os quadros e remunerações do pessoal e as tabelas dos pagamentos a efectuar pelos servidores.
+Art. 18.º A organização e o funcionamento da A. D. S. E. serão estabelecidos em regulamento a aprovar pelos Ministros das Finanças e da Saúde e Assistência, aos quais compete ainda aprovar os quadros e remunerações do pessoal e as tabelas dos pagamentos a efectuar pelos servidores.
 
-###### Art. 19.º A A. D. S. E. organizará um corpo de inspecção, ao qual competirá, sem prejuízo dos princípios deontológicos, exercer a mais ampla fiscalização do funcionamento do sistema estabelecido neste decreto-lei.
+Art. 19.º A A. D. S. E. organizará um corpo de inspecção, ao qual competirá, sem prejuízo dos princípios deontológicos, exercer a mais ampla fiscalização do funcionamento do sistema estabelecido neste decreto-lei.
 
-###### Art. 20.º Os médicos que assistam os servidores do Estado ao abrigo do presente diploma poderão passar os atestados de que estes necessitem para justificação das faltas dadas no serviço de que dependem.
+Art. 20.º Os médicos que assistam os servidores do Estado ao abrigo do presente diploma poderão passar os atestados de que estes necessitem para justificação das faltas dadas no serviço de que dependem.
 
-###### Art. 21.º São mantidos todos os benefícios já concedidos aos servidores civis do Estado e dos organismos autónomos, ao abrigo da legislação em vigor.
+Art. 21.º São mantidos todos os benefícios já concedidos aos servidores civis do Estado e dos organismos autónomos, ao abrigo da legislação em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

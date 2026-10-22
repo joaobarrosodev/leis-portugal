@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 223/1974, 1º Suplemento, Série I de 1974-09-24
   number: '223'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1130-(1) a 1130-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/22301/00010003.pdf
 entry_into_force_dates: []
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-a-1974-300466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be350db7b31d52b870027d8148124a335667f8e7a3b8d4b5b7c4e8ed47a91c8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cea6dd50063cd3d507ff76cae32c4bbac2fb36e4249bd56f26f26d4a0d0a19cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Ensino Primário
+- Ensino Secundário
+- Formas de Provimento
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:337220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:465384:por
+  label: "Alterados os arts. 7º, 14º, 15º e 16º pelo DEC LEI.602/74.09.11.1974.MEC, DG.IS [261] de 09.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/602-1974-465384
+  date: '1974-11-09'
+- type: amended_by
+  target: pt:dre:337220:por
+  label: "Alterado o art. 17º pelo DEC LEI.327/75.28.06.1975.MEC, DG.IS [147] de 28.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1975-337220
+  date: '1975-06-28'
+- type: cites
+  target: pt:dre:199429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529396:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:05Z'
   warnings: []
   errors: []
 ---
@@ -105,51 +136,51 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O provimento, a recondução e a colocação dos agentes e auxiliares dos ensinos primário, preparatório, secundário e médio, relativamente ao ano escolar de 1974-1975, regular-se-ão pelos preceitos deste diploma, bem como pelas normas gerais vigentes por eles não contrariadas.
+Artigo 1.º O provimento, a recondução e a colocação dos agentes e auxiliares dos ensinos primário, preparatório, secundário e médio, relativamente ao ano escolar de 1974-1975, regular-se-ão pelos preceitos deste diploma, bem como pelas normas gerais vigentes por eles não contrariadas.
 
-###### Art. 2.º Os professores e regentes agregados do ensino primário a que se aplique a 1.ª ou 2.ª preferência do n.º XIII, 2, da [Portaria n.º 17789](https://diariodarepublica.pt/dr/detalhe/portaria/17789-1960-502414), de 4 de Julho de 1960, não gozarão de prioridade em relação aos contemplados na 3.ª preferência do mesmo preceito, se a sua classificação profissional for inferior à destes.
+Art. 2.º Os professores e regentes agregados do ensino primário a que se aplique a 1.ª ou 2.ª preferência do n.º XIII, 2, da [Portaria n.º 17789](https://diariodarepublica.pt/dr/detalhe/portaria/17789-1960-502414), de 4 de Julho de 1960, não gozarão de prioridade em relação aos contemplados na 3.ª preferência do mesmo preceito, se a sua classificação profissional for inferior à destes.
 
-###### Art. 3.º - 1. A 3.ª preferência do nº XIII, 2, da [Portaria n.º 17789](https://diariodarepublica.pt/dr/detalhe/portaria/17789-1960-502414) aplicar-se-a, relativamente à escola ou posto escolar em que tenham estado colocados no termo do ano lectivo de 1973-1974, aos professores e regentes agregados do ensino primário com o mínimo de cento e oitenta dias de serviço prestado, numa ou mais escolas ou postos, no presente ano escolar.
+Art. 3.º - 1. A 3.ª preferência do nº XIII, 2, da [Portaria n.º 17789](https://diariodarepublica.pt/dr/detalhe/portaria/17789-1960-502414) aplicar-se-a, relativamente à escola ou posto escolar em que tenham estado colocados no termo do ano lectivo de 1973-1974, aos professores e regentes agregados do ensino primário com o mínimo de cento e oitenta dias de serviço prestado, numa ou mais escolas ou postos, no presente ano escolar.
 
 2. Da mesma preferência gozarão também, em relação à última escola em que tenham estado colocados, os professores agregados do ensino primário dispensados do serviço após 30 de Junho e que perfaçam os requisitos indicados na parte final do número anterior.
 
 3. Se o número de vagas existente em cada escola for inferior ao de professores agregados que, relativamente à mesma, se encontrem nas condições dos números precedentes, a prioridade entre eles estabelecer-se-á segundo a ordem que lhes caiba na respectiva lista graduada, sem prejuízo, contudo, da colocação, se possível, dos abrangidos peito n.º 1 nos lugares que ocupavam no termo do ano lectivo findo.
 
-###### Art. 4.º Os professores agregados em serviço, no final do ano lectivo de 1973-1974, em escolas de aplicação anexas a escolas do magistério primário serão reconduzidos, se assim o requererem no prazo de quinze dias após a entrada em vigor deste diploma, salvo se nas respectivas escolas forem colocados professores do quadro geral.
+Art. 4.º Os professores agregados em serviço, no final do ano lectivo de 1973-1974, em escolas de aplicação anexas a escolas do magistério primário serão reconduzidos, se assim o requererem no prazo de quinze dias após a entrada em vigor deste diploma, salvo se nas respectivas escolas forem colocados professores do quadro geral.
 
-###### Art. 5.º - 1. Podem ser criados, através de portaria, em cada distrito escolar, números globais de lugares docentes do ensino primário.
+Art. 5.º - 1. Podem ser criados, através de portaria, em cada distrito escolar, números globais de lugares docentes do ensino primário.
 
 2. Os lugares docentes referidos no número anterior serão, segundo normas a definir por despacho do Ministro da Educação e Cultura, afectos às escolas em que se tornem necessários, entrando automaticamente em funcionamento
 
 3. As decisões de afectação dos mesmos lugares docentes produzirão imediatamente todos os efeitos legais, salvo no tocante à declaração de vacatura com vista ao respectivo provimento, a qual só poderá verificar-se após a publicação, em Diário do Governo, da criação daqueles.
 
-###### Art. 6.º - 1. Pode ser criado um lugar de professor do ensino primário por cada grupo de vinte crianças em idade escolar, desde que tal se revele pedagogicamente justificado.
+Art. 6.º - 1. Pode ser criado um lugar de professor do ensino primário por cada grupo de vinte crianças em idade escolar, desde que tal se revele pedagogicamente justificado.
 
 2. A limitação constante do número anterior não se aplica, contudo, aos casos previstos na segunda parte do § 1.º do artigo 1.º do [Decreto n.º 20181](https://diariodarepublica.pt/dr/detalhe/decreto/20181-1931-529396), de 7 de Agosto de 1931, com a redacção que lhe foi dada pelo artigo 2.º do [Decreto-Lei n.º 162/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1971-444725), de 24 de Abril.
 
-###### Art. 7.º - 1. Os delegados escolares, secretários de zona e directores de escola do ensino primário podem ser dispensados do serviço docente, segundo o regime que for fixado por despacho do Ministro da Educação e Cultura, a publicar no Diário do Governo.
+Art. 7.º - 1. Os delegados escolares, secretários de zona e directores de escola do ensino primário podem ser dispensados do serviço docente, segundo o regime que for fixado por despacho do Ministro da Educação e Cultura, a publicar no Diário do Governo.
 
 2. O disposto no número antecedente aplicar-se-á também aos professores integrados ou colocados em órgãos ou serviços que venham a ser criados no âmbito da reestruturação do sistema de administração e orientação do ensino.
 
-###### Art. 8.º Enquanto não se verificar a remodelação da orgânica dos serviços regionais do ensino primário, a competência das direcções escolares e das entidades referidas no n.º 1 do artigo anterior poderá ser modificada por despacho do Ministro da Educação e Cultura, a publicar no Diário do Governo.
+Art. 8.º Enquanto não se verificar a remodelação da orgânica dos serviços regionais do ensino primário, a competência das direcções escolares e das entidades referidas no n.º 1 do artigo anterior poderá ser modificada por despacho do Ministro da Educação e Cultura, a publicar no Diário do Governo.
 
-###### Art. 9.º - 1. Os indivíduos que no corrente ano escolar obtenham ou tenham obtido a habilitação pedagógica para a docência nos ensinos preparatório ou secundário gozam de preferência, quanto à colocação, como agentes ou auxiliares de ensino eventuais ou provisórios, no ano de 1974-1975, nas escolas em que porventura hajam prestado serviço imediatamente antes de iniciarem aquela formação.
+Art. 9.º - 1. Os indivíduos que no corrente ano escolar obtenham ou tenham obtido a habilitação pedagógica para a docência nos ensinos preparatório ou secundário gozam de preferência, quanto à colocação, como agentes ou auxiliares de ensino eventuais ou provisórios, no ano de 1974-1975, nas escolas em que porventura hajam prestado serviço imediatamente antes de iniciarem aquela formação.
 
 2. A preferência referida no número anterior não se aplicará, porém, em prejuízo de agentes ou auxiliares de ensino eventuais ou provisórios titulares da correspondente habilitação pedagógica que no termo do ano lectivo de 1973-1974 tenham estado colocados nas escolas em causa e pretendam, nos termos legais, ser nelas reconduzidos
 
-###### Art. 10.º - 1. Serão reconduzidos todos os agentes e auxiliares de ensino eventuais ou provisórios dos ensinos preparatório e secundário, com habilitação própria, que já o hajam requerido ou o façam nos oito dias subsequentes à entrada em vigor deste decreto-lei e cujo serviço não se tenha tornado desnecessário por virtude de alteração de plano de estudos, de redução do número de horas semanais destinadas à correspondente disciplina ou especialidade, de funcionamento de estágio, de diminuição do número de alunos ou de colocação, nas respectivas escolas, de professor extraordinário do quadro ou de agente ou auxiliar de ensino com habilitação pedagógica que legalmente lhes deva preferir.
+Art. 10.º - 1. Serão reconduzidos todos os agentes e auxiliares de ensino eventuais ou provisórios dos ensinos preparatório e secundário, com habilitação própria, que já o hajam requerido ou o façam nos oito dias subsequentes à entrada em vigor deste decreto-lei e cujo serviço não se tenha tornado desnecessário por virtude de alteração de plano de estudos, de redução do número de horas semanais destinadas à correspondente disciplina ou especialidade, de funcionamento de estágio, de diminuição do número de alunos ou de colocação, nas respectivas escolas, de professor extraordinário do quadro ou de agente ou auxiliar de ensino com habilitação pedagógica que legalmente lhes deva preferir.
 
 2. Se o número de agentes ou auxiliares de ensino eventuais ou provisórios com habilitação própria a admitir, para certo grupo ou especialidade, em determinado estabelecimento de ensino, for inferior ao daqueles que nele se encontrem nas condições previstas no número anterior para efeitos de recondução, terão prioridade os de superior classificação profissional.
 
-###### Art. 11.º - 1 São admitidos ao concurso regulado pelo [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429), de 14 de Julho de 1969, e legislação complementar, e gozarão nele de prioridade, os agentes ou auxiliares de ensino com habilitação própria que, apesar de colocados no termo do ano lectivo de 1973-1974, não possam contudo ser reconduzidos ao abrigo do artigo precedente.
+Art. 11.º - 1 São admitidos ao concurso regulado pelo [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429), de 14 de Julho de 1969, e legislação complementar, e gozarão nele de prioridade, os agentes ou auxiliares de ensino com habilitação própria que, apesar de colocados no termo do ano lectivo de 1973-1974, não possam contudo ser reconduzidos ao abrigo do artigo precedente.
 
 2. Os candidatos abrangidos pelo número anterior serão entre si escalonados nos termos dos diplomas indicados nesse mesmo preceito.
 
-###### Art. 12.º A recondução e a apresentação a concurso ao abrigo, respectivamente, dos artigos 10.º e 11.º deste decreto-lei podem ter lugar em relação a disciplinas ou especialidades diferentes daquelas a cuja docência os agentes ou auxiliares de ensino em questão tenham estado afectos no ano lectivo de 1973-1974.
+Art. 12.º A recondução e a apresentação a concurso ao abrigo, respectivamente, dos artigos 10.º e 11.º deste decreto-lei podem ter lugar em relação a disciplinas ou especialidades diferentes daquelas a cuja docência os agentes ou auxiliares de ensino em questão tenham estado afectos no ano lectivo de 1973-1974.
 
-###### Art. 13.º Por despacho do Ministro da Educação e Cultura podem considerar-se para efeito de colocação docente equiparadas às habilitações próprias já assim definidas na legislação outras habilitações conferidas por diplomas adequados mas nela ainda não previstas para tal efeito.
+Art. 13.º Por despacho do Ministro da Educação e Cultura podem considerar-se para efeito de colocação docente equiparadas às habilitações próprias já assim definidas na legislação outras habilitações conferidas por diplomas adequados mas nela ainda não previstas para tal efeito.
 
-###### Art. 14.º - 1. Serão reconduzidos todos os agentes e auxiliares de ensino eventuais ou provisórios dos ensinos preparatório e secundário sem habilitação própria que já o hajam requerido ou o façam no prazo de oito dias a contar da entrada em vigor deste diploma e cujo serviço não se tenha tornado desnecessário por qualquer das razões previstas no n.º 1 do artigo 10.º do presente decreto-lei ou, ainda, pela colocação de agente ou auxiliar de ensino com habilitação própria que lhes deva preferir.
+Art. 14.º - 1. Serão reconduzidos todos os agentes e auxiliares de ensino eventuais ou provisórios dos ensinos preparatório e secundário sem habilitação própria que já o hajam requerido ou o façam no prazo de oito dias a contar da entrada em vigor deste diploma e cujo serviço não se tenha tornado desnecessário por qualquer das razões previstas no n.º 1 do artigo 10.º do presente decreto-lei ou, ainda, pela colocação de agente ou auxiliar de ensino com habilitação própria que lhes deva preferir.
 
 2. O disposto no número anterior só é aplicável, porém, aos agentes e auxiliares de ensino que possuam as seguintes habilitações mínimas:
 
@@ -161,7 +192,7 @@ c) Para a disciplina de Educação Física dos ensinos preparatório e secundár
 
 3. Se o número de agentes ou auxiliares de ensino eventuais ou provisórios sem habilitação própria a admitir, para certo grupo ou especialidade, em determinado estabelecimento de ensino, for inferior ao daqueles que se encontrem nas condições previstas nos números anteriores para efeitos de recondução, gozarão de prioridade os titulares de superiores habilitações, e, em caso de igualdade, os que tenham prestado mais tempo de serviço docente.
 
-###### Art. 15.º - 1. Dentro dos oito dias posteriores ao recebimento da totalidade das comunicações sobre a colocação de docentes, em resultado do concurso regulado no [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429) e diplomas complementares, e depois de definidas as reconduções a efectuar ao abrigo do artigo anterior, a direcção de cada escola preparatória ou de ensino secundário fará afixar um aviso do qual conste, segundo os grupos de disciplinas e especialidades, o número de agentes e auxiliares de ensino eventuais ou provisórios de que o estabelecimento ainda necessite para o próximo ano escolar.
+Art. 15.º - 1. Dentro dos oito dias posteriores ao recebimento da totalidade das comunicações sobre a colocação de docentes, em resultado do concurso regulado no [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429) e diplomas complementares, e depois de definidas as reconduções a efectuar ao abrigo do artigo anterior, a direcção de cada escola preparatória ou de ensino secundário fará afixar um aviso do qual conste, segundo os grupos de disciplinas e especialidades, o número de agentes e auxiliares de ensino eventuais ou provisórios de que o estabelecimento ainda necessite para o próximo ano escolar.
 
 2. Poderão candidatar-se, para o efeito, no prazo de oito dias a contar da afixação do aviso referido no número anterior:
 
@@ -179,24 +210,24 @@ d) Indivíduos sem habilitação própria que, não abrangidos na alínea antece
 
 5. As reclamações não atendidas serão imediatamente enviadas ao director-geral da Administração Escolar, que sobre elas se deverá pronunciar no prazo de cinco dias, decorrido o qual as mesmas se consideram indeferidas.
 
-###### Art. 16.º - 1. As necessidades em agentes e auxiliares de ensino eventuais ou provisórios que, apesar da aplicação do preceituado nos artigos anteriores, ainda venham a verificar-se em estabelecimentos de ensino preparatório ou secundário, serão satisfeitas mediante proposta das respectivas direcções.
+Art. 16.º - 1. As necessidades em agentes e auxiliares de ensino eventuais ou provisórios que, apesar da aplicação do preceituado nos artigos anteriores, ainda venham a verificar-se em estabelecimentos de ensino preparatório ou secundário, serão satisfeitas mediante proposta das respectivas direcções.
 
 2. As nomeações que se verifiquem em sequência do disposto no número anterior consideram-se feitas por conveniência urgente de serviço, só podendo, todavia, recair em indivíduos com as habilitações mínimas fixadas no n.º 2 do artigo 14.º do presente diploma.
 
-###### Art. 17.º - 1. Os monitores de postos oficiais de recepção da Telescola colocados no termo do ano lectivo de 1973-1974 serão reconduzidos, se o requererem nos oito dias posteriores à publicação deste decreto-lei.
+Art. 17.º - 1. Os monitores de postos oficiais de recepção da Telescola colocados no termo do ano lectivo de 1973-1974 serão reconduzidos, se o requererem nos oito dias posteriores à publicação deste decreto-lei.
 
 2. O estabelecido no número antecedente não obsta, porém, a que, por conveniência do ensino, o regime de prestação de serviço por parte dos monitores reconduzidos possa passar de tempo completo a meio tempo ou vice-versa.
 
-###### Art. 18.º Os agentes e auxiliares de ensino eventuais ou provisórios dos estabelecimentos de grau médio que tenham estado colocados no termo do ano lectivo de 1973-1974 serão reconduzidos, se assim o requererem, perante os respectivos institutos ou escolas, no prazo de quinze dias a contar da publicação do presente diploma legal.
+Art. 18.º Os agentes e auxiliares de ensino eventuais ou provisórios dos estabelecimentos de grau médio que tenham estado colocados no termo do ano lectivo de 1973-1974 serão reconduzidos, se assim o requererem, perante os respectivos institutos ou escolas, no prazo de quinze dias a contar da publicação do presente diploma legal.
 
-###### Art. 19.º As dúvidas e casos omissos que se suscitem na execução deste decreto-lei serão resolvidos por despacho do Ministro da Educação e Cultura.
+Art. 19.º As dúvidas e casos omissos que se suscitem na execução deste decreto-lei serão resolvidos por despacho do Ministro da Educação e Cultura.
 
-###### Art. 20.º O presente diploma entra imediatamente em vigor.
+Art. 20.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Vitorino Magalhães Godinho.
 
-**Promulgado em 14 de Setembro de 1974.**
+Promulgado em 14 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

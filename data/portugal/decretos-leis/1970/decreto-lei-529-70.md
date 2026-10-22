@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1970-147780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74c674aec5d24ecfdaa04f3d7743ccfbcb30f9c91181468cbcaa1dd6a05aa3c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2c7cbbbc0c2274e2aad7b6c1216cd9608451a5a2abc9e46d96ea6c1efca5ce7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angra do Heroísmo
+- Beja
+- Chaves
+- Covilhã
+- Criação de Serviços
+- Ensino Liceal
+- Estabelecimento de Ensino
+- Extinção de Lugares
+- Figueira da Foz
+- Guimarães
+- Horta
+- Lamego
+- Leiria
+- Pessoal Docente
+- Ponta Delgada
+- Portalegre
+- Portimão
+- Póvoa de Varzim
+- Quadro de Pessoal
+- Santarém
+- Viana do Castelo
+- Vila Real
+relationships:
+- type: cites
+  target: pt:dre:470835:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:03Z'
   warnings: []
   errors: []
 ---
@@ -104,23 +130,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintas as vagas de professor auxiliar do sexo masculino constantes da tabela n.º 1 anexa ao presente diploma.
+Artigo 1.º São extintas as vagas de professor auxiliar do sexo masculino constantes da tabela n.º 1 anexa ao presente diploma.
 
 Ant. 2.º São criadas secções femininas nos Liceus de Angra do Heroísmo, Beja, Chaves, Covilhã, Figueira da Foz, Guimarães, Horta, Lamego, Leiria, Ponta Delgada, Portalegre, Portimão, Póvoa de Varzim, Santarém, Viana do Castelo e Vila Real, sem desdobramento dos serviços administrativos e de secretaria, mas com quadros próprios de pessoal docente.
 
-###### Art. 3.º Os quadros do pessoal das secções constantes do artigo anterior são os das tabelas n.os 2 e 3 anexas ao presente decreto-lei.
+Art. 3.º Os quadros do pessoal das secções constantes do artigo anterior são os das tabelas n.os 2 e 3 anexas ao presente decreto-lei.
 
-###### Art. 4.º As vagas criadas por este diploma serão postas a concurso, mediante proposta da Direcção-Geral do Ensino Liceal, de modo a poderem estar preenchidas a partir do início do ano lectivo de 1970-1971.
+Art. 4.º As vagas criadas por este diploma serão postas a concurso, mediante proposta da Direcção-Geral do Ensino Liceal, de modo a poderem estar preenchidas a partir do início do ano lectivo de 1970-1971.
 
-###### Art. 5.º Os encargos com o pessoal resultantes da publicação do presente diploma, à excepção dos referentes aos Liceus de Angra do Heroísmo e de Ponta Delgada, serão satisfeitos com a verba orçamentada para as vagas masculinas extintas nos termos do artigo 1.º deste decreto-lei.
+Art. 5.º Os encargos com o pessoal resultantes da publicação do presente diploma, à excepção dos referentes aos Liceus de Angra do Heroísmo e de Ponta Delgada, serão satisfeitos com a verba orçamentada para as vagas masculinas extintas nos termos do artigo 1.º deste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 TABELA N.º 1
 
@@ -138,12 +164,12 @@ TABELA N.º 2
 
 Quadro das professoras efectivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/25900/16721673.pdf))](https://files.diariodarepublica.pt/1s/1970/11/25900/16721673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/25900/16721673.pdf)
 
 TABELA N.º 3
 
 Quadro das professoras contratadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/25900/16721673.pdf))](https://files.diariodarepublica.pt/1s/1970/11/25900/16721673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/25900/16721673.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

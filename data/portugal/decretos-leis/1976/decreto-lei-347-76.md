@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11100/10621064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1976-427842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5942e97604070cdc2b84912194b1d22a90eadac4709e7034e061db361b88ce55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 294888ef5a6a0b0b7572b6277b5a4dda186fd52510c48f3cb50763de741654df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA Museu EGAS Moniz
+- Coimbra
+- Conselho Administrativo
+- Conselho Consultivo
+- Criação de Serviços
+- Diretor
+- Ministério da Educação e Investigação Científica
+- Ministro das Finanças
+- Museu da Malaposta
+- Museu dos Transportes Terrestres
+- Museu Nacional da Ciência e da Técnica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:425928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382796:por
+  label: "Alterado o nº 3 do art. 1º pelo DEC LEI.89/79.1979.04.18.MEIC DR.IS [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1979-382796
+  date: '1979-04-18'
+- type: amended_by
+  target: pt:dre:558200:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 11.º, aditados os arts. 1.º-A, 1.º-B, 10.º-A,\
+    \ 11.º-A e 15.º e revogado o art. 14.º, pelo DEC LEI.379/99.1999.09.21.MCTE DR.IS-A [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/379-1999-558200
+  date: '1999-09-21'
+- type: amended_by
+  target: pt:dre:657223:por
+  label: "Determinada a extinção nos termos da al. a) do n.º 2 do art. 2.º da Lei 16-A/2002, de 31-Mai, do Instituto de História\
+    \ da Ciência e da Técnica/Museu Nacional da Ciência e da Técnica criado pelo presente diploma, pelo DEC LEI.205/2002.2002.10.07.MCES\
+    \ DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2002-657223
+  date: '2002-10-07'
+- type: corrected_by
+  target: pt:dre:430616:por
+  label: Rectificado pela DECL.DD8319.16.07.1976.PCM, DR.IS [165] de 16.07.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430616
+  date: '1976-07-16'
+- type: repealed_by
+  target: pt:dre:531855:por
+  label: "Revogado o art. 13.º pelo DEC LEI.1/84.1984.01.02.PCM DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-1984-531855
+  date: '1984-01-02'
+- type: repealed_by
+  target: pt:dre:425928:por
+  label: "Revogado pelo DEC LEI.235/2002.2002.11.02.MCES DR.IS-A [253]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2002-425928
+  date: '2002-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:49Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +145,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado, na dependência do Ministério da Educação e Investigação Científica, o Museu Nacional da Ciência e da Técnica.
+Artigo 1.º - 1. É criado, na dependência do Ministério da Educação e Investigação Científica, o Museu Nacional da Ciência e da Técnica.
 
 2. O Museu terá a sede em Coimbra, podendo ser criadas, por despacho conjunto dos Ministros das Finanças e da Tutela, secções regionais em qualquer ponto do País.
 
@@ -112,7 +157,7 @@ b) Carquejo, constituída pelo Museu da Mala-posta, a instalar no antigo edifíc
 
 c) Carquejo, com a designação de Museu dos Transportes Terrestres, e como extensão do Museu da Malaposta, referido na alínea anterior.
 
-###### Art. 2.º Incumbe essencialmente ao Museu:
+Art. 2.º Incumbe essencialmente ao Museu:
 
 a) Inventariar, recolher, classificar, beneficiar, conservar e expor as espécies com interesse para o conhecimento da história, da ciência e da técnica;
 
@@ -128,7 +173,7 @@ f) Exercer actividade informativa adequada, no sentido de esclarecer o público,
 
 g) Promover a organização de exposições, conferências, congressos, seminários e colóquios sobre problemas relativos à ciência e à técnica.
 
-###### Art. 3.º - 1. Para a prossecução das finalidades enunciadas no artigo anterior, poderá o Museu utilizar, entre outros, os seguintes meios:
+Art. 3.º - 1. Para a prossecução das finalidades enunciadas no artigo anterior, poderá o Museu utilizar, entre outros, os seguintes meios:
 
 a) Colecções de objectos relacionados com a ciência e a técnica;
 
@@ -146,7 +191,7 @@ b) A publicação de um roteiro, com as necessárias indicações para o públic
 
 c) A elaboração de publicações não periódicas, notas informativas para a imprensa, rádio e televisão, e uma revista periódica destinada a divulgar as actividades do Museu e os progressos da ciência e da técnica.
 
-###### Art. 4.º São órgãos do Museu:
+Art. 4.º São órgãos do Museu:
 
 a) O director;
 
@@ -154,9 +199,9 @@ b) O conselho consultivo;
 
 c) O conselho administrativo.
 
-###### Art. 5.º O director é nomeado pelo Ministro da Tutela de entre individualidades de elevado mérito científico ou didáctico.
+Art. 5.º O director é nomeado pelo Ministro da Tutela de entre individualidades de elevado mérito científico ou didáctico.
 
-###### Art. 6.º Ao director do Museu compete:
+Art. 6.º Ao director do Museu compete:
 
 a) Dar execução às disposições legais e às determinações superiores relativas à organização e funcionamento do Museu;
 
@@ -174,9 +219,9 @@ g) Organizar anualmente um relatório sobre a vida do Museu, as actividades pros
 
 h) Promover a expansão e desenvolvimento do Museu, propondo superiormente, ouvido o conselho consultivo, a criação de secções regionais e a tomada de novas iniciativas.
 
-###### Art. 7.º O conselho consultivo é composto pelo director e o máximo de oito vogais, nomeados pelo Ministro da Tutela de entre especialistas dos vários ramos do conhecimento, ouvido previamente o director.
+Art. 7.º O conselho consultivo é composto pelo director e o máximo de oito vogais, nomeados pelo Ministro da Tutela de entre especialistas dos vários ramos do conhecimento, ouvido previamente o director.
 
-###### Art. 8.º Ao conselho consultivo compete:
+Art. 8.º Ao conselho consultivo compete:
 
 a) Colaborar com o director na orientação geral do Museu;
 
@@ -186,9 +231,9 @@ c) Formular sugestões no sentido do melhoramento dos serviços e da mais eficie
 
 d) Colaborar na definição dos critérios a seguir no domínio da museologia, da investigação relativa à história da ciência e da técnica e da actividade informativa do Museu.
 
-###### Art. 9.º A administração do Museu pertence ao conselho administrativo, constituído pelo director, que preside, por um vogal do conselho consultivo designado pelo Ministro da Tutela e pelo secretário do Museu.
+Art. 9.º A administração do Museu pertence ao conselho administrativo, constituído pelo director, que preside, por um vogal do conselho consultivo designado pelo Ministro da Tutela e pelo secretário do Museu.
 
-###### Art. 10.º Compete ao conselho administrativo:
+Art. 10.º Compete ao conselho administrativo:
 
 a) Requisitar à repartição competente a importância das dotações inscritas no Orçamento Geral do Estado a favor do Museu;
 
@@ -202,7 +247,7 @@ e) Elaborar e remeter ao Tribunal de Contas, dentro do prazo legal, a conta de g
 
 f) Promover a organização e permanente actualização do cadastro dos imóveis e do inventário dos móveis pertencentes ao Museu ou na sua posse.
 
-###### Art. 11.º - 1.º Constituem receitas do Museu:
+Art. 11.º - 1.º Constituem receitas do Museu:
 
 a) As verbas inscritas no Orçamento Geral do Estado;
 
@@ -214,18 +259,18 @@ d) Quaisquer outras receitas autorizadas pelo Ministério da Tutela.
 
 2. Para o ano em curso serão transferidas para o Ministério da Tutela as verbas destinadas ao Museu da Ciência e da Técnica inscritas no orçamento do Ministério da Comunicação Social.
 
-###### Art. 12.º - 1. Darão entrada no Museu as peças adquiridas com as respectivas dotações orçamentais e, bem assim, os bens pertencentes ao Estado que venham a ser cedidos por incorporação, nos termos legais.
+Art. 12.º - 1. Darão entrada no Museu as peças adquiridas com as respectivas dotações orçamentais e, bem assim, os bens pertencentes ao Estado que venham a ser cedidos por incorporação, nos termos legais.
 
 2. Em condições a estabelecer por regulamento, poderá o director aceitar em depósito, feito por quaisquer entidades oficiais ou particulares, peças que se revistam de interesse para a realização das finalidades do Museu.
 
-###### Art. 13.º O quadro do pessoal do Museu será o constante de lista nominativa aprovada por despacho do Ministro da Tutela, de igual formalidade dependendo a sua alteração.
+Art. 13.º O quadro do pessoal do Museu será o constante de lista nominativa aprovada por despacho do Ministro da Tutela, de igual formalidade dependendo a sua alteração.
 
-###### Art. 14.º O regulamento interno do Museu será aprovado por portaria do Ministério da Tutela.
+Art. 14.º O regulamento interno do Museu será aprovado por portaria do Ministério da Tutela.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Rodrigues Alves - António de Almeida Santos - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 3 de Maio de 1976.**
+Promulgado em 3 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

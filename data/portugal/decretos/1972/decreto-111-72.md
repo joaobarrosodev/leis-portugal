@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/111-1972-397714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43534ef3438e22f65e4882953973b159230564d8af2f6da9ee7e7821b2ef2981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aed5ee46e56d01300eb284ee91ad586e47e5f19ce64c0eb7d7141c5e817f48a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:32Z'
   warnings: []
   errors: []
 ---
@@ -90,23 +90,23 @@ Por motivo de urgência, nos termos do disposto no § 3.º do artigo 136.º da C
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os lugares de chefe de brigada da Polícia Judiciária do ultramar são providos por concurso de provas práticas entre os agentes de 1.ª classe que tenham frequentado, com aproveitamento, pelo menos um curso de especialização de qualquer das escolas práticas de ciências criminais e exerçam há três anos, com três classificações de Bom, nessa categoria, ou há dois anos, com duas classificações de Muito bom.
+Artigo 1.º - 1. Os lugares de chefe de brigada da Polícia Judiciária do ultramar são providos por concurso de provas práticas entre os agentes de 1.ª classe que tenham frequentado, com aproveitamento, pelo menos um curso de especialização de qualquer das escolas práticas de ciências criminais e exerçam há três anos, com três classificações de Bom, nessa categoria, ou há dois anos, com duas classificações de Muito bom.
 
 2. Podem também ser admitidos ao concurso os agentes de 1.ª classe da Polícia Judiciária da metrópole que reúnam as mesmas condições, mediante despacho conjunto dos Ministros da Justiça e do Ultramar.
 
-###### Art. 2.º Logo que seja publicado o aviso de abertura do concurso, as Directorias de Luanda e Lourenço Marques e a Subdirectoria de Macau enviarão à Direcção-Geral de Justiça a lista dos opositores obrigatórios, juntamente com as classificações de serviço e dos cursos de especialização de cada um deles e ainda os louvores, recompensas e sanções disciplinares, quando os houver.
+Art. 2.º Logo que seja publicado o aviso de abertura do concurso, as Directorias de Luanda e Lourenço Marques e a Subdirectoria de Macau enviarão à Direcção-Geral de Justiça a lista dos opositores obrigatórios, juntamente com as classificações de serviço e dos cursos de especialização de cada um deles e ainda os louvores, recompensas e sanções disciplinares, quando os houver.
 
-###### Art. 3.º Não pode ser admitido a novo concurso o agente que tiver reprovado duas vezes.
+Art. 3.º Não pode ser admitido a novo concurso o agente que tiver reprovado duas vezes.
 
-###### Art. 4.º O júri do concurso, ao qual compete organizar os pontos para as provas e apreciar estas, é constituído pelo director-geral de Justiça do ultramar, que presidirá, e por dois funcionários superiores da Polícia Judiciária da metrópole, que servirão de vogais.
+Art. 4.º O júri do concurso, ao qual compete organizar os pontos para as provas e apreciar estas, é constituído pelo director-geral de Justiça do ultramar, que presidirá, e por dois funcionários superiores da Polícia Judiciária da metrópole, que servirão de vogais.
 
-###### Art. 5.º Por todo o serviço do concurso é atribuído a cada elemento do júri, referido no artigo anterior, a gratificação de 4000$00, livre de qualquer encargo.
+Art. 5.º Por todo o serviço do concurso é atribuído a cada elemento do júri, referido no artigo anterior, a gratificação de 4000$00, livre de qualquer encargo.
 
-###### Art. 6.º Realizar-se-ão três provas escritas, uma em cada dia, com a duração de duas horas cada.
+Art. 6.º Realizar-se-ão três provas escritas, uma em cada dia, com a duração de duas horas cada.
 
-###### Art. 7.º A matéria da primeira prova escrita versa sobre direito e processo penal; a segunda prova sobre técnica e táctica policial e a terceira sobre legislação.
+Art. 7.º A matéria da primeira prova escrita versa sobre direito e processo penal; a segunda prova sobre técnica e táctica policial e a terceira sobre legislação.
 
-###### Art. 8.º O programa de direito e processo penal, que constitui a matéria da primeira prova, é composto pelos seguintes assuntos:
+Art. 8.º O programa de direito e processo penal, que constitui a matéria da primeira prova, é composto pelos seguintes assuntos:
 
 Conceito de infracção penal;
 
@@ -156,7 +156,7 @@ Prisão;
 
 Caução e termo de identidade.
 
-###### Art. 9.º O programa de técnica e táctica policial, que constitui a matéria da segunda prova, é composto pelos seguintes assuntos:
+Art. 9.º O programa de técnica e táctica policial, que constitui a matéria da segunda prova, é composto pelos seguintes assuntos:
 
 Ciências auxiliares de técnica e táctica de investigação;
 
@@ -182,7 +182,7 @@ Técnica e táctica de investigação nos crimes de abuso de confiança;
 
 Técnica e táctica de investigação nos crimes de fogo posto.
 
-###### Art. 10.º O programa de legislação, que constitui a matéria da terceira prova, é composto pelos seguintes assuntos:
+Art. 10.º O programa de legislação, que constitui a matéria da terceira prova, é composto pelos seguintes assuntos:
 
 Orgânica judiciária;
 
@@ -190,13 +190,13 @@ Polícia Judiciária;
 
 Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 11.º - 1. Para cada prova escrita são elaborados antecipadamente pelo júri três pontos, numerados de um a três, não podendo as provas incidir sobre assuntos que se não contenham no programa.
+Art. 11.º - 1. Para cada prova escrita são elaborados antecipadamente pelo júri três pontos, numerados de um a três, não podendo as provas incidir sobre assuntos que se não contenham no programa.
 
 2. Os pontos são rubricados pelo júri e encerrados em sobrescritos, que são também por ele rubricados e fechados a lacre, mencionando-se, em cada sobrescrito, o número do respectivo ponto, sendo enviados o mais próximo possível da realização das provas ao presidente do júri local perante o qual as provas são prestadas.
 
-###### Art. 12.º As provas realizar-se-ão nas capitais das províncias onde haja Polícia Judiciária e na Direcção-Geral de Justiça.
+Art. 12.º As provas realizar-se-ão nas capitais das províncias onde haja Polícia Judiciária e na Direcção-Geral de Justiça.
 
-###### Art. 13.º - 1. Nas províncias referidas no número anterior haverá um júri de simples mas rigorosa fiscalização.
+Art. 13.º - 1. Nas províncias referidas no número anterior haverá um júri de simples mas rigorosa fiscalização.
 
 2. Em Angola e Moçambique é composto pelo director da Polícia Judiciária, por um inspector da mesma Polícia e um delegado do procurador da República, sendo estes nomeados pelo procurador da República.
 
@@ -204,30 +204,30 @@ Estatuto do Funcionalismo Ultramarino.
 
 4. Na Direcção-Geral de Justiça o júri de fiscalização é o de apreciação das provas.
 
-###### Art. 14.º - 1. Antes do início de cada prova escrita, o júri de fiscalização procederá à chamada dos concorrentes, anotando na lista dos mesmos as faltas, desistências e exclusões.
+Art. 14.º - 1. Antes do início de cada prova escrita, o júri de fiscalização procederá à chamada dos concorrentes, anotando na lista dos mesmos as faltas, desistências e exclusões.
 
 2. A lista, com as respectivas anotações, será assinada no final da prova pelos membros do júri de fiscalização e remetida à Direcção-Geral de Justiça.
 
-###### Art. 15.º O presidente do júri de fiscalização não abrirá os sobrescritos contendo os pontos senão no dia e no momento em que os concorrentes tiverem de tirar à sorte o respectivo ponto, abertura que se fará na presença dos demais elementos do júri.
+Art. 15.º O presidente do júri de fiscalização não abrirá os sobrescritos contendo os pontos senão no dia e no momento em que os concorrentes tiverem de tirar à sorte o respectivo ponto, abertura que se fará na presença dos demais elementos do júri.
 
-###### Art. 16.º Compete ao presidente do júri de fiscalização dirigir a realização das provas e manter a ordem nos locais onde elas se realizem.
+Art. 16.º Compete ao presidente do júri de fiscalização dirigir a realização das provas e manter a ordem nos locais onde elas se realizem.
 
-###### Art. 17.º Concluída a última prova, o presidente do júri de fiscalização encerrará todas as provas num sobrescrito, que lacrará e enviará à Direcção Geral de Justiça, onde o júri do concurso procederá à classificação.
+Art. 17.º Concluída a última prova, o presidente do júri de fiscalização encerrará todas as provas num sobrescrito, que lacrará e enviará à Direcção Geral de Justiça, onde o júri do concurso procederá à classificação.
 
-###### Art. 18.º - 1. A classificação final será a média da classificação de serviço, da classificação das provas de concurso e dos cursos de especialização.
+Art. 18.º - 1. A classificação final será a média da classificação de serviço, da classificação das provas de concurso e dos cursos de especialização.
 
 2. Em caso de igualdade têm preferência os candidatos que tiverem melhor classificação de serviço.
 
 3. A média final assim obtida será aumentada de um valor em relação aos agentes que tenham sido louvados no período dos últimos três anos.
 
-###### Art. 19.º Os agentes que tiverem de deslocar-se para a prestação das provas terão direito a viagem por conta do Estado e receberão os vencimentos como se estivessem na efectividade, devendo regressar ao serviço no primeiro transporte que sair após o último dia da prestação das provas.
+Art. 19.º Os agentes que tiverem de deslocar-se para a prestação das provas terão direito a viagem por conta do Estado e receberão os vencimentos como se estivessem na efectividade, devendo regressar ao serviço no primeiro transporte que sair após o último dia da prestação das provas.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Março de 1972.**
+Promulgado em 24 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18800/11901190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1975-314620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e538bbc8e7519e45473e2ea82277409df24c02969d15476ba6e322eb41821e7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37e083e2cf09faedc6b4d10aa8641eb0e9641e37ed76a5b1d180992f1febc2aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Faculdade de Ciências
+- Faculdade de Engenharia
+- Gestão de Recursos Humanos
+- Licenciatura
+- Pessoal Docente
+- Pessoal não Docente
+- Plano de Estudos
+- Rectificação de Numero de Diploma
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:49Z'
   warnings: []
   errors: []
 ---
@@ -102,22 +116,22 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São integrados no plano de estudos da Faculdade de Engenharia do Porto as disciplinas compreendidas no 1.º e 2.º anos do curso de Engenharia da Faculdade de Ciências do Porto.
+Artigo 1.º - 1. São integrados no plano de estudos da Faculdade de Engenharia do Porto as disciplinas compreendidas no 1.º e 2.º anos do curso de Engenharia da Faculdade de Ciências do Porto.
 
 2. Os alunos que no ano lectivo de 1974-1975 se tenham inscrito nos referidos anos são transferidos para a Faculdade de Engenharia.
 
-###### Art. 2.º Enquanto não for possível à Faculdade de Engenharia constituir quadros docentes que lhe permitam leccionar os alunos inscritos nesses anos, a Reitoria da Universidade do Porto poderá, depois de ouvidas as Faculdades respectivas, destacar docentes da Faculdade de Ciências para leccionar os alunos do 1.º e 2.º anos da Faculdade de Engenharia.
+Art. 2.º Enquanto não for possível à Faculdade de Engenharia constituir quadros docentes que lhe permitam leccionar os alunos inscritos nesses anos, a Reitoria da Universidade do Porto poderá, depois de ouvidas as Faculdades respectivas, destacar docentes da Faculdade de Ciências para leccionar os alunos do 1.º e 2.º anos da Faculdade de Engenharia.
 
-###### Art. 3.º O pessoal administrativo, técnico e auxiliar que actualmente preste serviço na Faculdade de Ciências, mas que aí esteja afectado ao serviço do 1.º e 2.º anos do curso de Engenharia, poderá ser destacado ou transferido para a Faculdade de Engenharia, mediante lista aprovada pelo Ministro da Educação e Cultura, sem outras formalidades, salvo anotação do Tribunal de Contas.
+Art. 3.º O pessoal administrativo, técnico e auxiliar que actualmente preste serviço na Faculdade de Ciências, mas que aí esteja afectado ao serviço do 1.º e 2.º anos do curso de Engenharia, poderá ser destacado ou transferido para a Faculdade de Engenharia, mediante lista aprovada pelo Ministro da Educação e Cultura, sem outras formalidades, salvo anotação do Tribunal de Contas.
 
-###### Art. 4.º O equipamento afecto ao funcionamento dos dois referidos anos poderá ser atribuído à Faculdade de Engenharia, mediante despacho do Ministro da Educação e Cultura.
+Art. 4.º O equipamento afecto ao funcionamento dos dois referidos anos poderá ser atribuído à Faculdade de Engenharia, mediante despacho do Ministro da Educação e Cultura.
 
-###### Art. 5.º Este decreto-lei entra imediatamente em vigor.
+Art. 5.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - José Emílio da Silva.
 
-**Promulgado em 4 de Agosto de 1975.**
+Promulgado em 4 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

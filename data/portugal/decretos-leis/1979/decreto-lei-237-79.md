@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17000/16421642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1979-381290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d16e6c8ae401148d94d7c0a07f1f8549f1a48c58f41ddb9a91a5f3b78837142
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd82e19451c60681353439f8b2da2fa224a1c13e8ed7ebb72b64a5a883d53b0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Activo Imobilizado
+- Activo Imobilizado Incorpóreo
+- Empresa Privada
+- Viabilidade Económica
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:26Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +116,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pelo artigo 22.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho, o seguinte:
 
-###### Artigo 1.º O benefício referido no artigo 1.º da [Lei n.º 39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), de 17 de Junho, apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do seu artigo 2.º, dentro do prazo de noventa dias, a contar da data em que tomaram conhecimento de terem sido autorizadas a proceder à reavaliação.
+Artigo 1.º O benefício referido no artigo 1.º da [Lei n.º 39/77](https://diariodarepublica.pt/dr/detalhe/lei/39-1977-253188), de 17 de Junho, apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do seu artigo 2.º, dentro do prazo de noventa dias, a contar da data em que tomaram conhecimento de terem sido autorizadas a proceder à reavaliação.
 
-###### Art. 2.º Às empresas a que à data da entrada em vigor deste decreto-lei já havia sido dado conhecimento de que fora deferido o seu pedido de reavaliação, o prazo de noventa dias contar-se-á a partir dessa data.
+Art. 2.º Às empresas a que à data da entrada em vigor deste decreto-lei já havia sido dado conhecimento de que fora deferido o seu pedido de reavaliação, o prazo de noventa dias contar-se-á a partir dessa data.
 
-###### Art. 3.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 12 de Julho de 1979.**
+Promulgado em 12 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

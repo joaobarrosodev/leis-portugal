@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26100/26812687.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1977-280768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d7e5391009600d33e954ad56707176c63fada021b3a797032176c21884b2d99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c2b27cb27779e69d643a4a73b0c5bb72ae9022563426c35deb60e817fdc5254
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Instituto de Informática
+- Ministério das Finanças
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:296387:por
+  label: Alterado o art. 37º pelo DEC LEI.98/78.1978.05.20.MFP, DR.IS [116]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1978-296387
+  date: '1978-05-20'
+- type: amended_by
+  target: pt:dre:545650:por
+  label: "Reestruturado o Instituto de Informática criado pelo presente diploma, passando a integrar a administração directa\
+    \ do Estado, pelo DEC LEI.205/2006.27.10.2006.MFAP, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2006-545650
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520454:por
+  label: "Determinado que o II suceda nas atribuições do Instituto de Informática, que passa a integrar a administração directa\
+    \ do Estado, criado pelo pelo presente diploma, DEC LEI.83/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2007-520454
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinto o Instituto de Informática criado pelo presente diploma, e reestruturado pelo Dec Lei 205/2006, de 27-Out,\
+    \ pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011, que determina, nos termos dos art.s 30º e 31º, a fusão\
+    \ e integração das suas atribuições na Entidade de Serviços Partilhados da Administração Pública, I. P\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: repealed_by
+  target: pt:dre:524047:por
+  label: "Revogados os arts. 2º a 37º, pelo DEC LEI.143/98.1998.05.22.MF, DR.IS-A [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1998-524047
+  date: '1998-05-22'
 article_structure:
   article_count: 37
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:40Z'
   warnings: []
   errors: []
 ---
@@ -490,8 +529,8 @@ As disposições do presente diploma relativas à concessão de autonomia admini
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 24 de Outubro de 1977.**
+Promulgado em 24 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

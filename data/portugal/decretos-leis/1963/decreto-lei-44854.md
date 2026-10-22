@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44854-1963-192821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f468e5169961387a6978378f4fcd7e32a207f0420d64fbadb2dae38b971291
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6b75fc84c30f32019fb7a2bf07bae5f40a9b892ec12dc14bd6af1632803caf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo de Socorro Social
+- Gestão Financeira
+- Receita Própria
+relationships:
+- type: cites
+  target: pt:dre:462451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676994:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:55Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +100,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreto e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Fundo de Socorro Social, instituído pelo [Decreto-Lei n.º 35427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35427-1945-462451), de 31 de Dezembro de 1945, reger-se-á durante o ano de 1963 pelo disposto no presente diploma.
+Artigo 1.º O Fundo de Socorro Social, instituído pelo [Decreto-Lei n.º 35427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35427-1945-462451), de 31 de Dezembro de 1945, reger-se-á durante o ano de 1963 pelo disposto no presente diploma.
 
-###### Art. 2.º Constituem receitas deste Fundo:
+Art. 2.º Constituem receitas deste Fundo:
 
 1.º 5 por cento da receita dos espectáculos cinematográficos, com ou sem variedades, e outros divertimentos públicos; 3 por cento sobre a das competições ou demonstrações desportivas, espectáculos de circo e touradas, e 2 por cento sobre a dos espectáculos teatrais, excluídos os de declamação, incidindo estas percentagens sobre as lotações legalmente estabelecidas para o efeito da cobrança do imposto único, criado pelo [Decreto n.º 14396](https://diariodarepublica.pt/dr/detalhe/decreto/14396-1927-676994), de 10 de Outubro de 1927, com as alterações introduzidas pelos Decretos-Leis n.os 36281 e 38334, respectivamente de 16 de Maio de 1947 e 6 de Julho de 1951;
 
@@ -129,15 +144,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A receita prevista no n.º 3.º poderá ser reduzida a metade sempre que nos estabelecimentos nele referidos actuem conjuntos musicais que sejam constituídos na sua maioria por cegos.
 
-###### Art. 3.º A contribuição a que se refere o n.º 1.º do artigo 2.º é devida pelas empresas e será depositada por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social, até ao dia 20 do mês seguinte àquele a que respeitar, devendo as referidas empresas ou colectividades, nos cinco dias posteriores, enviar à Direcção-Geral da Assistência os mapas em que se mencionem os espectáculos realizados.
+Art. 3.º A contribuição a que se refere o n.º 1.º do artigo 2.º é devida pelas empresas e será depositada por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social, até ao dia 20 do mês seguinte àquele a que respeitar, devendo as referidas empresas ou colectividades, nos cinco dias posteriores, enviar à Direcção-Geral da Assistência os mapas em que se mencionem os espectáculos realizados.
 
 § 1.º Quando as casas ou recintos em que se realizem os espectáculos não tenham lotação fixa, esta será calculada pela média de frequência dos espectáculos ou divertimentos ali realizados no ano anterior, não podendo, todavia, a contribuição ser inferior a $50 por bilhete ou entrada e devendo a cobrança ser feita por múltiplos desta quantia.
 
 § 2.º Os empresários dos espectáculos e divertimentos públicos poderão adicionar aos preços dos bilhetes a quota da contribuição.
 
-###### Art. 4.º As importâncias a que se refere o n.º 2.º do artigo 2.º serão depositadas por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social, até ao dia 20 de cada mês, em relação ao mês anterior.
+Art. 4.º As importâncias a que se refere o n.º 2.º do artigo 2.º serão depositadas por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social, até ao dia 20 de cada mês, em relação ao mês anterior.
 
-###### Art. 5.º As importâncias arrecadas por força do disposto nos n.os 3.º e 4.º do artigo 2.º, correspondentes às percentagens nele previstas e arredondadas, por excesso, para a dezena de centavos, serão devidas pelos clientes e pagas por meio de estampilhas fiscais, com a sobrecarga «Assistência», apostas nas facturas, recibos, contas ou bilhetes, devendo ser inutilizadas pelos donos, gerentes ou empregados dos estabelecimentos.
+Art. 5.º As importâncias arrecadas por força do disposto nos n.os 3.º e 4.º do artigo 2.º, correspondentes às percentagens nele previstas e arredondadas, por excesso, para a dezena de centavos, serão devidas pelos clientes e pagas por meio de estampilhas fiscais, com a sobrecarga «Assistência», apostas nas facturas, recibos, contas ou bilhetes, devendo ser inutilizadas pelos donos, gerentes ou empregados dos estabelecimentos.
 
 Estes pagamentos poderão ser efectuados por avença mensal, trimestral, semestral ou anual, desde que o seu quantitativo tenha sido aprovado prèviamente pela Direcção-Geral da Assistência.
 
@@ -145,31 +160,31 @@ Estes pagamentos poderão ser efectuados por avença mensal, trimestral, semestr
 
 § 2.º Os estabelecimentos que arrecadem por meio de estampilhas fiscais as receitas previstas nos n.os 3.º e 4.º do artigo 2.º enviarão à Direcção-Geral da Assistência até ao dia 10 de cada mês uma nota, em duplicado, das importâncias pagas no mês anterior com destino ao Fundo de Socorro Social.
 
-###### Art. 6.º A receita a que se refere o n.º 5.º do artigo 2.º será depositada pelas empresas, por meio de guia, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Direcção-Geral da Assistência, na conta e sob a rubrica «Fundo de Socorro Social». Nesta receita não incidirá o usual desconto a favor dos revendedores.
+Art. 6.º A receita a que se refere o n.º 5.º do artigo 2.º será depositada pelas empresas, por meio de guia, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Direcção-Geral da Assistência, na conta e sob a rubrica «Fundo de Socorro Social». Nesta receita não incidirá o usual desconto a favor dos revendedores.
 
 § único. A respectiva liquidação será feita pela Inspecção-Geral de Finanças, em face das quantidades de caixinhas, carteiras ou carteirinhas de fósforos que saírem mensalmente das fábricas para consumo interno, e os pagamentos efectuar-se-ão nos prazos estabelecidos para os dos impostos de fabrico de fósforos, mediante guia, em triplicado, passada pela mesma Inspecção-Geral.
 
-###### Art. 7.º O adicional a que se refere o n.º 6.º do artigo 2.º será pago por meio de estampilhas fiscais, com a sobrecarga «Assistência», apostas nos cartões em que forem passadas as licenças e inutilizadas pelos funcionários que as assinarem.
+Art. 7.º O adicional a que se refere o n.º 6.º do artigo 2.º será pago por meio de estampilhas fiscais, com a sobrecarga «Assistência», apostas nos cartões em que forem passadas as licenças e inutilizadas pelos funcionários que as assinarem.
 
-###### Art. 8.º O produto dos adicionais cobrados nos termos dos n.os 7.º e 8.º do artigo 2.º será depositado na Caixa Geral de Depósitos, Crédito e Previdência, até ao dia 20 do mês seguinte ao da cobrança, na conta do Fundo de Socorro Social.
+Art. 8.º O produto dos adicionais cobrados nos termos dos n.os 7.º e 8.º do artigo 2.º será depositado na Caixa Geral de Depósitos, Crédito e Previdência, até ao dia 20 do mês seguinte ao da cobrança, na conta do Fundo de Socorro Social.
 
-###### Art. 9.º A receita a que se refere o n.º 14.º do artigo 2.º é devida pelos titulares dos passaportes e será depositada pelos governos civis, por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social, até ao dia 20 do mês seguinte àquele a que respeitar.
+Art. 9.º A receita a que se refere o n.º 14.º do artigo 2.º é devida pelos titulares dos passaportes e será depositada pelos governos civis, por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social, até ao dia 20 do mês seguinte àquele a que respeitar.
 
-###### Art. 10.º As estampilhas fiscais com a sobrecarga «Assistência», referidas neste diploma, serão emitidas pela Casa da Moeda e por ela fornecidas às tesourarias da Fazenda Pública para o efeito de venda aos contribuintes, mediante requisição, conforme modelo junto a este decreto. A importância arrecadada será depositada pelos tesoureiros na Caixa Geral de Depósitos, Crédito e Previdência, por meio de guia, no fim da cada mês, na conta e sob a rubrica «Fundo de Socorro Social», à ordem da Direcção-Geral da Assistência, à qual serão remetidos os triplicados da guia e requisições.
+Art. 10.º As estampilhas fiscais com a sobrecarga «Assistência», referidas neste diploma, serão emitidas pela Casa da Moeda e por ela fornecidas às tesourarias da Fazenda Pública para o efeito de venda aos contribuintes, mediante requisição, conforme modelo junto a este decreto. A importância arrecadada será depositada pelos tesoureiros na Caixa Geral de Depósitos, Crédito e Previdência, por meio de guia, no fim da cada mês, na conta e sob a rubrica «Fundo de Socorro Social», à ordem da Direcção-Geral da Assistência, à qual serão remetidos os triplicados da guia e requisições.
 
-###### Art. 11.º As guias de depósito, os mapas, as requisições, os cartazes de propaganda do Fundo de Socorro Social e os cartazes relativos aos espectáculos cujo produto reverta em benefício do mesmo Fundo só podem ser fornecidos pela Direcção-Geral da Assistência ou seus órgãos representativos e são isentos do imposto do selo.
+Art. 11.º As guias de depósito, os mapas, as requisições, os cartazes de propaganda do Fundo de Socorro Social e os cartazes relativos aos espectáculos cujo produto reverta em benefício do mesmo Fundo só podem ser fornecidos pela Direcção-Geral da Assistência ou seus órgãos representativos e são isentos do imposto do selo.
 
 § único. Os triplicados das guias de depósito serão remetidos pela Caixa Geral de Depósitos, Crédito e Previdência, suas filiais, agências privativas ou delegações, no prazo de cinco dias, à Direcção-Geral da Assistência.
 
-###### Art. 12.º A passagem das facturas, contas e recibos e a aposição neles das estampilhas a que se refere este diploma são obrigatórias em todos os documentos comprovativos do recebimento de quantias respeitantes aos actos ou factos previstos nos n.os 3.º e 4.º do artigo 2.º, salvo quanto aos estabelecimentos avençados.
+Art. 12.º A passagem das facturas, contas e recibos e a aposição neles das estampilhas a que se refere este diploma são obrigatórias em todos os documentos comprovativos do recebimento de quantias respeitantes aos actos ou factos previstos nos n.os 3.º e 4.º do artigo 2.º, salvo quanto aos estabelecimentos avençados.
 
-###### Art. 13.º Todas as receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, na conta especial denominada «Fundo de Socorro Social», à ordem da Direcção-Geral da Assistência, que as contabilizará, bem como as despesas realizadas, sem sujeição às normas regulamentares da contabilidade pública. As contas de gerência devem ser enviadas ao Tribunal de Contas até ao dia 31 de Maio de 1964.
+Art. 13.º Todas as receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, na conta especial denominada «Fundo de Socorro Social», à ordem da Direcção-Geral da Assistência, que as contabilizará, bem como as despesas realizadas, sem sujeição às normas regulamentares da contabilidade pública. As contas de gerência devem ser enviadas ao Tribunal de Contas até ao dia 31 de Maio de 1964.
 
 § único. Mediante despacho ministerial, poderá ser autorizada a constituição de um fundo permanente até à importância de 6000$00, devendo o saldo que porventura exista no fim do ano ser reposto no Fundo de Socorro Social até 14 de Fevereiro imediato.
 
-###### Art. 14.º A aplicação do Fundo fica dependente de despacho do Ministro da Saúde e Assistência, sem submissão aos preceitos da contabilidade pública. O director-geral da Assistência outorgará em todos os actos e contratos necessários à administração do Fundo e poderá autorizar as correspondentes despesas que não excedam 1000$00.
+Art. 14.º A aplicação do Fundo fica dependente de despacho do Ministro da Saúde e Assistência, sem submissão aos preceitos da contabilidade pública. O director-geral da Assistência outorgará em todos os actos e contratos necessários à administração do Fundo e poderá autorizar as correspondentes despesas que não excedam 1000$00.
 
-###### Art. 15.º O Fundo de Socorro Social destina-se ao combate à mendicidade, à prestação de outros auxílios e socorros urgentes, e bem assim a acudir às vítimas de calamidades ou sinistros e ainda à assistência materno-infantil.
+Art. 15.º O Fundo de Socorro Social destina-se ao combate à mendicidade, à prestação de outros auxílios e socorros urgentes, e bem assim a acudir às vítimas de calamidades ou sinistros e ainda à assistência materno-infantil.
 
 § 1.º As receitas do Fundo de Socorro Social aplicadas na prevenção e repressão da mendicidade e na assistência aos mendigos não poderão ser inferiores a 60 por cento da importância arrecadada no respectivo ano, destinando-se 10000 contos à instalação e manutenção dos albergues, nos termos do artigo 12.º do [Decreto-Lei n.º 43280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43280-1960-514458), de 29 de Outubro de 1960.
 
@@ -179,7 +194,7 @@ Estes pagamentos poderão ser efectuados por avença mensal, trimestral, semestr
 
 § 4.º Na administração, propaganda e fiscalização do Fundo de Socorro Social não poderá ser despendida importância superior a 2 por cento das respectivas receitas.
 
-###### Art. 16.º A orientação e coordenação das iniciativas que se proponham colaborar na obra do socorro social competem a uma comissão central, que funcionará no Ministério da Saúde e Assistência e sob a presidência do respectivo Ministro.
+Art. 16.º A orientação e coordenação das iniciativas que se proponham colaborar na obra do socorro social competem a uma comissão central, que funcionará no Ministério da Saúde e Assistência e sob a presidência do respectivo Ministro.
 
 § único. São vogais da comissão central:
 
@@ -189,50 +204,50 @@ b) Os representantes do Patriarcado de Lisboa, da União Nacional, da Legião Po
 
 c) Os indivíduos escolhidos pelo Ministro da Saúde e Assistência, em número não superior a seis, de entre os que tenham revelado especial interesse pela assistência e protecção aos necessitados.
 
-###### Art. 17.º Na angariação de donativos e na propaganda da obra do socorro social a comissão central será coadjuvada por comissões distritais ou especiais, presididas em Lisboa pelos vogais da comissão central que por esta forem designados e nos distritos pelos governadores civis.
+Art. 17.º Na angariação de donativos e na propaganda da obra do socorro social a comissão central será coadjuvada por comissões distritais ou especiais, presididas em Lisboa pelos vogais da comissão central que por esta forem designados e nos distritos pelos governadores civis.
 
-###### Art. 18.º Às comissões municipais de assistência compete angariar donativos, promover a prestação de assistência que couber aos necessitados que tenham domicílio de socorro nos respectivos concelhos, dar parecer sobre o quantitativo das avenças e fiscalizar a cobrança das receitas do Fundo.
+Art. 18.º Às comissões municipais de assistência compete angariar donativos, promover a prestação de assistência que couber aos necessitados que tenham domicílio de socorro nos respectivos concelhos, dar parecer sobre o quantitativo das avenças e fiscalizar a cobrança das receitas do Fundo.
 
-###### Art. 19.º Os serviços administrativos e o expediente relativo à administração e movimentação do Fundo, assim como o das comissões que funcionem em Lisboa, ficam a cargo da Direcção-Geral da Assistência e serão desempenhados por pessoal de chefia desta e ainda por indivíduos estranhos aos serviços. A remuneração será fixada pelo Ministro da Saúde e Assistência, ouvido o Ministro das Finanças.
+Art. 19.º Os serviços administrativos e o expediente relativo à administração e movimentação do Fundo, assim como o das comissões que funcionem em Lisboa, ficam a cargo da Direcção-Geral da Assistência e serão desempenhados por pessoal de chefia desta e ainda por indivíduos estranhos aos serviços. A remuneração será fixada pelo Ministro da Saúde e Assistência, ouvido o Ministro das Finanças.
 
 § único. Aos indivíduos estranhos aos serviços referidos no corpo deste artigo é reconhecido o direito à inscrição nas Caixas de Previdência e de Abono de Família dos Empregados da Assistência, nos termos dos respectivos regulamentos, contribuindo o Fundo de Socorro Social com a percentagem que competir às entidades patronais.
 
-###### Art. 20.º O expediente das comissões que funcionem fora de Lisboa correrá pelas comissões municipais de assistência dos concelhos da respectiva sede.
+Art. 20.º O expediente das comissões que funcionem fora de Lisboa correrá pelas comissões municipais de assistência dos concelhos da respectiva sede.
 
-###### Art. 21.º As infracções por falta de pagamento das receitas previstas nos n.os 1.º a 4.º do artigo 2.º serão punidas com multa igual a 50 por cento do montante das contribuições devidas, mas que não poderá ser inferior a 500$00.
+Art. 21.º As infracções por falta de pagamento das receitas previstas nos n.os 1.º a 4.º do artigo 2.º serão punidas com multa igual a 50 por cento do montante das contribuições devidas, mas que não poderá ser inferior a 500$00.
 
 § único. Quando não seja possível determinar o seu quantitativo, tomar-se-ão por base as importâncias pagas no mês anterior.
 
-###### Art. 22.º Todos aqueles que, sendo obrigados ao pagamento das importâncias previstas neste diploma, depositarem importância inferior à cobrada do público, prestarem declarações erradas ou de má fé cometerem omissões incorrerão em multa igual ao quíntuplo da quantia desviada.
+Art. 22.º Todos aqueles que, sendo obrigados ao pagamento das importâncias previstas neste diploma, depositarem importância inferior à cobrada do público, prestarem declarações erradas ou de má fé cometerem omissões incorrerão em multa igual ao quíntuplo da quantia desviada.
 
-###### Art. 23.º As restantes infracções ao disposto neste diploma serão punidas com multa de 100$00 a 1000$00.
+Art. 23.º As restantes infracções ao disposto neste diploma serão punidas com multa de 100$00 a 1000$00.
 
-###### Art. 24.º As multas a que se referem os artigos anteriores são elevadas ao dobro em caso de reincidência, devendo a Inspecção dos Espectáculos recusar o visto no cartaz ou programa dos espectáculos públicos e de diversão de qualquer natureza sempre que as empresas não juntem o documento comprovativo de estarem pagas as contribuições ou taxas devidas ao Fundo.
+Art. 24.º As multas a que se referem os artigos anteriores são elevadas ao dobro em caso de reincidência, devendo a Inspecção dos Espectáculos recusar o visto no cartaz ou programa dos espectáculos públicos e de diversão de qualquer natureza sempre que as empresas não juntem o documento comprovativo de estarem pagas as contribuições ou taxas devidas ao Fundo.
 
-###### Art. 25.º Verificada qualquer infracção ao disposto no presente diploma, a Direcção-Geral da Assistência avisará os infractores, em carta registada, com aviso de recepção ou entregue contra recibo, para efectuarem o pagamento da multa e da importância em dívida no prazo de vinte dias. Findo este prazo e quando se não tenha efectuado o pagamento, a Direcção-Geral da Assistência, nos dez dias posteriores, remeterá ao tribunal competente o respectivo auto de notícia levantado pelos agentes especiais ou, na sua falta, participará a infracção.
+Art. 25.º Verificada qualquer infracção ao disposto no presente diploma, a Direcção-Geral da Assistência avisará os infractores, em carta registada, com aviso de recepção ou entregue contra recibo, para efectuarem o pagamento da multa e da importância em dívida no prazo de vinte dias. Findo este prazo e quando se não tenha efectuado o pagamento, a Direcção-Geral da Assistência, nos dez dias posteriores, remeterá ao tribunal competente o respectivo auto de notícia levantado pelos agentes especiais ou, na sua falta, participará a infracção.
 
 § 1.º A participação a que se refere este artigo é equiparada, para todos os efeitos, aos autos de notícia levantados pelas autoridades ou pelos agentes especiais encarregados da fiscalização.
 
 § 2.º O aviso não deixa de produzir efeito pelo facto de a carta ser devolvida, de não vir assinado o aviso de recepção ou de este o ter sido pelo empregado ou pessoa que coabite com o infractor, uma vez que a remessa tenha sido feita para o seu estabelecimento ou residência. Nos dois primeiros casos, a notificação considera-se feita no segundo dia posterior àquele em que a carta tiver sido registada; no último, na data da assinatura do aviso.
 
-###### Art. 26.º As importâncias das multas serão depositadas, por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social.
+Art. 26.º As importâncias das multas serão depositadas, por meio de guia, em triplicado, na Caixa Geral de Depósitos, Crédito e Previdência, na conta do Fundo de Socorro Social.
 
-###### Art. 27.º Os tribunais do contencioso das contribuições e impostos são competentes para conhecer e julgar as infracções previstas neste diploma e enviarão à Direcção-Geral da Assistência cópia das decisões proferidas.
+Art. 27.º Os tribunais do contencioso das contribuições e impostos são competentes para conhecer e julgar as infracções previstas neste diploma e enviarão à Direcção-Geral da Assistência cópia das decisões proferidas.
 
-###### Art. 28.º A fiscalização do disposto neste diploma compete à Inspecção-Geral de Finanças, à Inspecção dos Espectáculos e a agentes especiais designados pelo Ministro da Saúde e Assistência e equiparados, para todos os efeitos, aos agentes da autoridade.
+Art. 28.º A fiscalização do disposto neste diploma compete à Inspecção-Geral de Finanças, à Inspecção dos Espectáculos e a agentes especiais designados pelo Ministro da Saúde e Assistência e equiparados, para todos os efeitos, aos agentes da autoridade.
 
 § único. O presidente do Instituto Nacional do Trabalho e Previdência, a solicitação do Ministro da Saúde e Assistência, poderá determinar ou autorizar que os agentes da Inspecção do Trabalho e os empregados das uniões dos grémios da indústria hoteleira e similares colaborem na referida fiscalização.
 
-###### Art. 29.º A resolução dos casos omissos compete ao Ministro da Saúde e Assistência. Quando se trate de receitas liquidadas e cobradas por intermédio do Ministério das Finanças, será ouvido o respectivo Ministro.
+Art. 29.º A resolução dos casos omissos compete ao Ministro da Saúde e Assistência. Quando se trate de receitas liquidadas e cobradas por intermédio do Ministério das Finanças, será ouvido o respectivo Ministro.
 
-###### Art. 30.º Este diploma considera-se em vigor desde 1 de Janeiro de 1963.
+Art. 30.º Este diploma considera-se em vigor desde 1 de Janeiro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Janeiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/01/01300/00290032.pdf))](https://files.diariodarepublica.pt/1s/1963/01/01300/00290032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/01300/00290032.pdf)
 
 Ministérios do Interior, das Finanças e da Saúde e Assistência, 16 de Janeiro de 1963. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Saúde e Assistência, Pedro Mário Soares Martinez.

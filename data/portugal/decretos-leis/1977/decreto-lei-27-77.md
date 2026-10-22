@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01600/00950111.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1977-138159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc74fd2a895e7f69d5826267b21682c286ef0a759793727b28e5f816422aea2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05a2e03e55e19d0bc9c28b524333a7895869761166c8c94f1a276e1658fa744d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Instituto Geográfico e Cadastral
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253244:por
+  label: "Alterado o nº 2 do art. 15º deste diploma e aditado um nº 3 ao art. 103º da Lei Orgânica do Instituto Gegráfico\
+    \ e Cadastral, que lhe está anexa, pelo DEC LEI.236/77.04.06.1977.MF, DR.IS [130] de 04.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1977-253244
+  date: '1977-06-04'
+- type: amended_by
+  target: pt:dre:297009:por
+  label: "Suspenso o regime de autonomia administrativa do Instituto Geográfico e Cadastral pelo DEC LEI.207/78.27.07.1978.MFP,\
+    \ DR.IS [171] de 27.07.1978\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1978-297009
+  date: '1978-07-27'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:09Z'
   warnings: []
   errors: []
 ---
@@ -100,55 +124,55 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a organização do Instituto Geográfico e Cadastral (IGC) constante da Lei Orgânica anexa a este decreto, que dele faz parte integrante.
+Artigo 1.º É aprovada a organização do Instituto Geográfico e Cadastral (IGC) constante da Lei Orgânica anexa a este decreto, que dele faz parte integrante.
 
-###### Art. 2.º Ao IGC compete executar ou superintender na execução de trabalhos nos domínios de geodesia, cartografia, topografia e fotogrametria e realizar as operações de levantamento, cadastro e avaliação conducentes ao cadastro geométrico da propriedade rústica e a outros fins de interesse geral nos termos da legislação vigente.
+Art. 2.º Ao IGC compete executar ou superintender na execução de trabalhos nos domínios de geodesia, cartografia, topografia e fotogrametria e realizar as operações de levantamento, cadastro e avaliação conducentes ao cadastro geométrico da propriedade rústica e a outros fins de interesse geral nos termos da legislação vigente.
 
-###### Art. 3.º A área de actuação do IGC abrange todo o território português, sem prejuízo da descentralização regional que venha a ser efectuada.
+Art. 3.º A área de actuação do IGC abrange todo o território português, sem prejuízo da descentralização regional que venha a ser efectuada.
 
-###### Art. 4.º O IGC poderá colaborar com outros organismos ou departamentos de outros Ministérios em estudos, experiências ou realizações de carácter técnico ou científico e ainda para objectivos de ensino ou investigação, mediante despacho conjunto dos Ministros dos departamentos interessados.
+Art. 4.º O IGC poderá colaborar com outros organismos ou departamentos de outros Ministérios em estudos, experiências ou realizações de carácter técnico ou científico e ainda para objectivos de ensino ou investigação, mediante despacho conjunto dos Ministros dos departamentos interessados.
 
-###### Art. 5.º O IGC poderá, mediante autorização do Ministro competente e no âmbito das suas actividades específicas, colaborar com organizações estrangeiras ou internacionais e nelas assumir representação nacional, quando esta não esteja consignada a organismo próprio.
+Art. 5.º O IGC poderá, mediante autorização do Ministro competente e no âmbito das suas actividades específicas, colaborar com organizações estrangeiras ou internacionais e nelas assumir representação nacional, quando esta não esteja consignada a organismo próprio.
 
-###### Art. 6.º O IGC deverá organizar cursos de formação e aperfeiçoamento para o exercício de funções próprias das suas actividades ou outras em termos a definir por portarias conjuntas dos Ministérios das Finanças e da Educação e Investigação Científica.
+Art. 6.º O IGC deverá organizar cursos de formação e aperfeiçoamento para o exercício de funções próprias das suas actividades ou outras em termos a definir por portarias conjuntas dos Ministérios das Finanças e da Educação e Investigação Científica.
 
-###### Art. 7.º O IGC poderá propor ao Ministro das Finanças a requisição de pessoal de outros Ministérios, quando tal se mostre indispensável para o bom andamento dos seus serviços.
+Art. 7.º O IGC poderá propor ao Ministro das Finanças a requisição de pessoal de outros Ministérios, quando tal se mostre indispensável para o bom andamento dos seus serviços.
 
-###### Art. 8.º O IGC, mediante autorização do Ministro das Finanças, poderá cometer a execução de determinados serviços a entidades individuais ou colectivas em regime de tarefas ou empreitada, com sujeição à fiscalização e superintendência técnica do próprio IGC.
+Art. 8.º O IGC, mediante autorização do Ministro das Finanças, poderá cometer a execução de determinados serviços a entidades individuais ou colectivas em regime de tarefas ou empreitada, com sujeição à fiscalização e superintendência técnica do próprio IGC.
 
-###### Art. 9.º - 1. Os funcionários que presentemente desempenham funções no IGC transitarão para o novo quadro, mediante relações nominais a aprovar pelo Ministro das Finanças, considerando-se dispensadas quaisquer outras formalidades, excepto o visto da lista pelo Tribunal de Contas e a publicação no Diário da República.
+Art. 9.º - 1. Os funcionários que presentemente desempenham funções no IGC transitarão para o novo quadro, mediante relações nominais a aprovar pelo Ministro das Finanças, considerando-se dispensadas quaisquer outras formalidades, excepto o visto da lista pelo Tribunal de Contas e a publicação no Diário da República.
 
 2. As relações nominais a que se refere o número anterior serão elaboradas com base em normas de reintegração e reclassificação previamente aprovadas por despacho do Ministro das Finanças.
 
-###### Art. 10.º As disposições da presente organização relativas a quadros de pessoal do IGC são aplicáveis a partir do primeiro dia do mês seguinte ao da sua publicação no Diário da República.
+Art. 10.º As disposições da presente organização relativas a quadros de pessoal do IGC são aplicáveis a partir do primeiro dia do mês seguinte ao da sua publicação no Diário da República.
 
-###### Art. 11.º O aumento de despesas resultantes da aprovação do presente diploma, desde que não caiba na dotação orçamental do IGC, será custeado por reforço das respectivas verbas do Orçamento.
+Art. 11.º O aumento de despesas resultantes da aprovação do presente diploma, desde que não caiba na dotação orçamental do IGC, será custeado por reforço das respectivas verbas do Orçamento.
 
-###### Art. 12.º O IGC será dotado de autonomia administrativa nos termos da presente organização.
+Art. 12.º O IGC será dotado de autonomia administrativa nos termos da presente organização.
 
-###### Art. 13.º As dúvidas que ocorrerem na interpretação do presente diploma e os casos omissos serão resolvidos por despacho do Ministro das Finanças.
+Art. 13.º As dúvidas que ocorrerem na interpretação do presente diploma e os casos omissos serão resolvidos por despacho do Ministro das Finanças.
 
-###### Art. 14.º A Direcção-Geral do IGC, ouvidas as estruturas representativas dos trabalhadores, elaborará, no prazo de seis meses a contar da entrada em vigor do presente diploma, um relatório sobre os resultados da aplicação da presente reorganização e sobre os novos esquemas de autonomia administrativa do IGC, propondo a revisão da legislação no sentido que a experiência revelar conveniente.
+Art. 14.º A Direcção-Geral do IGC, ouvidas as estruturas representativas dos trabalhadores, elaborará, no prazo de seis meses a contar da entrada em vigor do presente diploma, um relatório sobre os resultados da aplicação da presente reorganização e sobre os novos esquemas de autonomia administrativa do IGC, propondo a revisão da legislação no sentido que a experiência revelar conveniente.
 
-###### Art. 15.º - 1. Esta reorganização entra em vigor no dia 1 do mês seguinte à data da aprovação deste diploma.
+Art. 15.º - 1. Esta reorganização entra em vigor no dia 1 do mês seguinte à data da aprovação deste diploma.
 
 2. A parte respeitante à concretização dos novos princípios de autonomia administrativa que regem o Instituto Geográfico e Cadastral entrará em vigor a partir de 1 de Janeiro de 1977.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 6 de Janeiro de 1977.**
+Promulgado em 6 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 LEI ORGÂNICA DO INSTITUTO GEOGRÁFICO E CADASTRAL
 
 ### CAPÍTULO I — Da organização geral
 
-###### Artigo 1.º O Instituto Geográfico e Cadastral (IGC) constitui um organismo dotado de autonomia administrativa, dependente do Ministério das Finanças.
+Artigo 1.º O Instituto Geográfico e Cadastral (IGC) constitui um organismo dotado de autonomia administrativa, dependente do Ministério das Finanças.
 
-###### Art. 2.º - 1. O IGC tem como órgão superior uma Direcção-Geral, composta por um director-geral e um subdirector-geral, que superintende sobre as seguintes direcções de serviço:
+Art. 2.º - 1. O IGC tem como órgão superior uma Direcção-Geral, composta por um director-geral e um subdirector-geral, que superintende sobre as seguintes direcções de serviço:
 
 a) Direcção dos Serviços de Pessoal, Administração e Logística;
 
@@ -174,7 +198,7 @@ c) Conselho administrativo.
 
 #### SECÇÃO I — Da Direcção-Geral
 
-###### Art. 3.º - 1. Ao director-geral cumpre orientar, coordenar e dirigir superiormente todos os serviços do Instituto.
+Art. 3.º - 1. Ao director-geral cumpre orientar, coordenar e dirigir superiormente todos os serviços do Instituto.
 
 2. Além das funções que lhe são atribuídas por lei geral, compete especificamente ao director-geral do IGC:
 
@@ -200,13 +224,13 @@ j) Mandar estabelecer as normas e instruções de serviço interno julgadas nece
 
 k) Representar o IGC quando se torne necessário colaborar com organizações nacionais ou estrangeiras para atingir os fins legais prosseguidos pelo IGC.
 
-###### Art. 4.º - 1. Ao subdirector-geral cumpre coadjuvar o director-geral e substituí-lo durante a sua ausência ou impedimento na superintendência de todos os serviços e demais atribuições que lhe competem.
+Art. 4.º - 1. Ao subdirector-geral cumpre coadjuvar o director-geral e substituí-lo durante a sua ausência ou impedimento na superintendência de todos os serviços e demais atribuições que lhe competem.
 
 2. O director-geral poderá delegar no subdirector-geral, com carácter permanente ou ocasional, no todo ou em parte, a sua competência geral ou específica, quando assim o entender e tal se justificar para melhor funcionamento dos serviços.
 
 #### SECÇÃO II — Dos conselhos
 
-###### Art. 5.º - 1. O conselho de direcção será presidido pelo director-geral, tendo como vice-presidente o subdirector-geral e como vogais os directores de serviços, um representante dos funcionários de cada direcção de serviços, o chefe da Repartição do Orçamento e Contabilidade, um técnico de avaliação e um engenheiro geógrafo da Direcção dos Serviços de Cadastro.
+Art. 5.º - 1. O conselho de direcção será presidido pelo director-geral, tendo como vice-presidente o subdirector-geral e como vogais os directores de serviços, um representante dos funcionários de cada direcção de serviços, o chefe da Repartição do Orçamento e Contabilidade, um técnico de avaliação e um engenheiro geógrafo da Direcção dos Serviços de Cadastro.
 
 2. Os representantes dos funcionários, o técnico de avaliação e o engenheiro geógrafo da Direcção dos Serviços de Cadastro serão eleitos por períodos de dois anos civis, devendo a primeira eleição produzir efeito apenas até ao final do presente ano.
 
@@ -222,7 +246,7 @@ k) Representar o IGC quando se torne necessário colaborar com organizações na
 
 8. Poderão ser chamados a participar nas reuniões do conselho, com carácter consultivo, outros funcionários com especial competência nos assuntos a tratar.
 
-###### Art. 6.º - 1. Ao conselho de direcção compete deliberar sobre as grandes linhas de gestão do IGC, nomeadamente:
+Art. 6.º - 1. Ao conselho de direcção compete deliberar sobre as grandes linhas de gestão do IGC, nomeadamente:
 
 a) Aprovar os planos de actividades a executar pelo Instituto em cada ano;
 
@@ -240,9 +264,9 @@ g) Emitir parecer sobre a matéria contida no artigo 12.º, n.º 1.
 
 2. Sempre que o conselho de direcção tenha de se pronunciar sobre assuntos que envolvam qualquer forma de diminuição de receitas ou aumento de despesas, o conselho administrativo, através dos seus membros, informará das vantagens e inconvenientes decorrentes das opções apresentadas de um ponto de vista financeiro e orçamental.
 
-###### Art. 7.º Das propostas ou relatório a apresentar superiormente pela Direcção-Geral deve expressamente constar o parecer do respectivo conselho de direcção, quando sobre o assunto se tenha pronunciado.
+Art. 7.º Das propostas ou relatório a apresentar superiormente pela Direcção-Geral deve expressamente constar o parecer do respectivo conselho de direcção, quando sobre o assunto se tenha pronunciado.
 
-###### Art. 8.º - 1. O conselho administrativo será presidido pelo director-geral ou, na sua falta ou impedimento, pelo subdirector-geral, e terá como vogais o director dos Serviços de Pessoal, Administração e Logística, um director de serviço nomeado anualmente e o chefe do Serviço de Orçamento e Contabilidade, que será o secretário.
+Art. 8.º - 1. O conselho administrativo será presidido pelo director-geral ou, na sua falta ou impedimento, pelo subdirector-geral, e terá como vogais o director dos Serviços de Pessoal, Administração e Logística, um director de serviço nomeado anualmente e o chefe do Serviço de Orçamento e Contabilidade, que será o secretário.
 
 2. Compete ao conselho administrativo, de acordo com as disposições deste diploma:
 
@@ -252,7 +276,7 @@ b) A elaboração prévia das propostas de alteração das verbas anuais do orç
 
 c) Submeter à apreciação prévia do conselho de direcção as contas de gerência antes de serem submetidas à aprovação do Tribunal de Contas.
 
-###### Art. 9.º - 1. O conselho de gestão de pessoal será presidido pelo director-geral ou, na sua falta ou impedimento, pelo subdirector-geral, e terá como vogais o chefe da Repartição de Pessoal e Expediente, o chefe do Centro de Documentação e Formação Técnico-Científica ou um técnico seu representante e quatro membros do conselho de direcção a eleger por este.
+Art. 9.º - 1. O conselho de gestão de pessoal será presidido pelo director-geral ou, na sua falta ou impedimento, pelo subdirector-geral, e terá como vogais o chefe da Repartição de Pessoal e Expediente, o chefe do Centro de Documentação e Formação Técnico-Científica ou um técnico seu representante e quatro membros do conselho de direcção a eleger por este.
 
 2. O conselho reúne por convocação do seu presidente quando as necessidades de serviço assim o exigirem.
 
@@ -260,7 +284,7 @@ c) Submeter à apreciação prévia do conselho de direcção as contas de gerê
 
 4. Poderão ser convocados para as reuniões do conselho, a título consultivo, outros funcionários cuja participação seja julgada conveniente.
 
-###### Art. 10.º Compete ao conselho de gestão de pessoal emitir parecer sobre todos os assuntos relativos a pessoal que lhe sejam presentes e especificadamente:
+Art. 10.º Compete ao conselho de gestão de pessoal emitir parecer sobre todos os assuntos relativos a pessoal que lhe sejam presentes e especificadamente:
 
 a) Apresentar ao director-geral propostas relativas a admissões, movimentação e promoção de pessoal, apoiando-se num processo geral a organizar pelo Serviço de Pessoal e Expediente e em harmonia com as disposições do presente diploma;
 
@@ -274,17 +298,17 @@ e) Pronunciar-se sobre os planos de formação de pessoal e conteúdo dos respec
 
 f) Emitir parecer sobre propostas de alteração às carreiras profissionais ou criação de novas carreiras.
 
-###### Art. 11.º - 1. Das informações de serviço será dado conhecimento aos trabalhadores que o solicitem, podendo delas haver reclamação para o conselho de gestão de pessoal.
+Art. 11.º - 1. Das informações de serviço será dado conhecimento aos trabalhadores que o solicitem, podendo delas haver reclamação para o conselho de gestão de pessoal.
 
 2. Sobre as reclamações deverá ser exarado parecer do conselho de gestão de pessoal, após o que caberá despacho não vinculativo do director-geral.
 
-###### Art. 12.º - 1. As nomeações de director de serviços, chefes de divisão, de repartição e de serviços equiparados serão efectuadas pelo Ministro das Finanças, mediante parecer prévio do conselho de direcção e em harmonia com o presente diploma.
+Art. 12.º - 1. As nomeações de director de serviços, chefes de divisão, de repartição e de serviços equiparados serão efectuadas pelo Ministro das Finanças, mediante parecer prévio do conselho de direcção e em harmonia com o presente diploma.
 
 2. As admissões e promoções do restante pessoal carecem de aprovação por parte do Ministro, mediante parecer prévio do conselho de gestão de pessoal.
 
 #### SECÇÃO III — Dos serviços e suas atribuições em geral
 
-###### Art. 13.º Aos directores de serviços compete:
+Art. 13.º Aos directores de serviços compete:
 
 a) Superintender na orientação técnico-científica dos diferentes serviços da direcção e coordená-los;
 
@@ -298,7 +322,7 @@ e) Garantir a disciplina e bom funcionamento dos diferentes serviços da sua dir
 
 f) Zelar pela existência e conservação de todo o material a cargo das respectivas direcções, bem como dos arquivos particulares das mesmas.
 
-###### Art. 14.º - 1. Junto de cada direcção de serviços haverá uma comissão técnica, à qual compete:
+Art. 14.º - 1. Junto de cada direcção de serviços haverá uma comissão técnica, à qual compete:
 
 a) Coadjuvar o director de serviços no planeamento, coordenação e contrôle das actividades dos serviços da direcção;
 
@@ -316,7 +340,7 @@ c) Um funcionário de cada divisão ou repartição, designado anualmente.
 
 3. A comissão técnica será convocada pelo director de serviços quando o julgar conveniente ou por proposta de mais de metade dos membros que a constituem.
 
-###### Art. 15.º - 1. Aos chefes de divisão, de repartição ou de serviços equivalentes, além de outros deveres gerais previstos na lei, compete:
+Art. 15.º - 1. Aos chefes de divisão, de repartição ou de serviços equivalentes, além de outros deveres gerais previstos na lei, compete:
 
 a) Promover a organização interna e científica dos respectivos serviços, dentro das linhas gerais superiormente estabelecidas;
 
@@ -328,7 +352,7 @@ c) Superintender na direcção do pessoal do seu sector de actividade.
 
 #### SECÇÃO IV — Dos serviços em especial
 
-###### Art. 16.º A Direcção dos Serviços de Pessoal, Administração e Logística compreende:
+Art. 16.º A Direcção dos Serviços de Pessoal, Administração e Logística compreende:
 
 a) O Serviço de Pessoal e Expediente;
 
@@ -336,7 +360,7 @@ b) O Serviço de Orçamento e Contabilidade;
 
 c) O Serviço de Património e Logística.
 
-###### Art. 17.º - 1. Ao Serviço de Pessoal e Expediente compete:
+Art. 17.º - 1. Ao Serviço de Pessoal e Expediente compete:
 
 a) A abertura de toda a correspondência não classificada do Instituto (Direcção-Geral e direcções dos serviços), o seu registo de entrada e distribuição oportuna;
 
@@ -362,7 +386,7 @@ i) As demais actividades integradas no seu âmbito da competência que lhe sejam
 
 4. O Serviço de Pessoal e Expediente será equiparado a repartição.
 
-###### Art. 18.º - 1. Ao Serviço de Orçamento e Contabilidade incumbe:
+Art. 18.º - 1. Ao Serviço de Orçamento e Contabilidade incumbe:
 
 a) A movimentação e contabilização de todas as receitas e despesas do IGC, com observância das normas gerais da contabilidade pública;
 
@@ -380,7 +404,7 @@ e) As demais actividades integradas no seu âmbito de competência que lhe sejam
 
 4. O Serviço de Orçamento e Contabilidade será equiparado a repartição.
 
-###### Art. 19.º - 1. Ao Serviço de Património e Logística compete:
+Art. 19.º - 1. Ao Serviço de Património e Logística compete:
 
 a) Organizar e manter actualizado o inventário do património do Instituto e elaborar as respectivas relações anuais para a Direcção-Geral do Património;
 
@@ -408,9 +432,9 @@ c) Depósito e venda de cartas e publicações.
 
 4. O Serviço de Património e Logística será equiparado a repartição.
 
-###### Art. 20.º Na dependência da Direcção dos Serviços de Pessoal, Administração e Logística será criado um serviço de acção social, cujo âmbito, modalidades de acção e organização serão objecto de regulamento, a remeter à aprovação ministerial.
+Art. 20.º Na dependência da Direcção dos Serviços de Pessoal, Administração e Logística será criado um serviço de acção social, cujo âmbito, modalidades de acção e organização serão objecto de regulamento, a remeter à aprovação ministerial.
 
-###### Art. 21.º A Direcção dos Serviços de Apoio Técnico-Científico compreende:
+Art. 21.º A Direcção dos Serviços de Apoio Técnico-Científico compreende:
 
 a) O Gabinete de Estudos e Planeamento;
 
@@ -418,7 +442,7 @@ b) O Centro de Informática e Cálculo Científico;
 
 c) O Centro de Documentação e Formação Técnico-Científica.
 
-###### Art. 22.º - 1. Ao Gabinete de Estudos e Planeamento incumbe a elaboração dos estudos e processos que lhe forem cometidos e, especificamente:
+Art. 22.º - 1. Ao Gabinete de Estudos e Planeamento incumbe a elaboração dos estudos e processos que lhe forem cometidos e, especificamente:
 
 a) O estudo, planeamento e coordenação das actividades do IGC, bem como a elaboração do plano anual de actividades, no âmbito das directivas da Direcção-Geral;
 
@@ -432,7 +456,7 @@ d) As demais actividades integradas no seu âmbito de competência que lhe sejam
 
 3. O Gabinete de Estudos e Planeamento será equiparado a divisão.
 
-###### Art. 23.º - 1. Ao Centro de Informática e Cálculo Científico compete:
+Art. 23.º - 1. Ao Centro de Informática e Cálculo Científico compete:
 
 a) O apoio de cálculo aos diversos departamentos do IGC, designadamente aos Serviços Geodésicos, Cartográficos, Fotogramétricos e Cadastrais;
 
@@ -446,7 +470,7 @@ d) As demais actividades integradas no seu âmbito de competência que lhe sejam
 
 3. O Centro de Informática e Cálculo Científico será equiparado a divisão.
 
-###### Art. 24.º - 1. Ao Centro de Documentação e Formação Técnico-Científica, na parte respeitante a documentação, compete:
+Art. 24.º - 1. Ao Centro de Documentação e Formação Técnico-Científica, na parte respeitante a documentação, compete:
 
 a) O processamento e publicação dos elementos de documentação, no âmbito das actividades técnico-científicas do Instituto, com excepção das cartas e documentos próprios das outras direcções dos serviços;
 
@@ -480,9 +504,9 @@ g) As demais actividades integradas no seu âmbito de competência que lhe sejam
 
 4. O Centro de Documentação e Formação Técnico-Científica será equiparado a divisão.
 
-###### Art. 25.º Na dependência do Centro de Documentação e Formação Técnico-Científica, e directamente ligado ao sector de documentação, será oportunamente criado um departamento de estudo e interpretação de fotografia aérea.
+Art. 25.º Na dependência do Centro de Documentação e Formação Técnico-Científica, e directamente ligado ao sector de documentação, será oportunamente criado um departamento de estudo e interpretação de fotografia aérea.
 
-###### Art. 26.º - 1. A Direcção dos Serviços Cartográficos compreende:
+Art. 26.º - 1. A Direcção dos Serviços Cartográficos compreende:
 
 a) A Divisão de Elaboração de Cartas e Estudos Toponímicos;
 
@@ -490,23 +514,23 @@ b) A Divisão de Reprodução e Publicação de Cartas.
 
 2. Oportunamente será criado um serviço de automatização cartográfica, cuja organização será submetida a aprovação ministerial.
 
-###### Art. 27.º À Divisão de Elaboração de Cartas e Estudos Toponímicos competem todos os assuntos relativos à elaboração de cartas e outras publicações do IGC, incluindo, especificamente:
+Art. 27.º À Divisão de Elaboração de Cartas e Estudos Toponímicos competem todos os assuntos relativos à elaboração de cartas e outras publicações do IGC, incluindo, especificamente:
 
 a) A preparação, execução e revisão de todos os trabalhos de campo e de gabinete relativos à compilação e desenho de levantamentos e cartas topográficas, corográficas e geográficas e respectiva actualização;
 
 b) O estudo e compilação toponímica, dentro das suas incumbências específicas de elaboração de cartas.
 
-###### Art. 28.º À Divisão de Reprodução e Publicação de Cartas competem todos os assuntos relativos à impressão e publicação de cartas, mapas e outras publicações do IGC, incluindo a preparação dos respectivos elementos de reprodução, sua guarda e conservação.
+Art. 28.º À Divisão de Reprodução e Publicação de Cartas competem todos os assuntos relativos à impressão e publicação de cartas, mapas e outras publicações do IGC, incluindo a preparação dos respectivos elementos de reprodução, sua guarda e conservação.
 
-###### Art. 29.º Ao serviço de automatização cartográfica, a criar, competirão todos os assuntos relacionados com a produção automática de plantas e cartas cartográficas e com o tratamento de informação cartográfica digitalizada.
+Art. 29.º Ao serviço de automatização cartográfica, a criar, competirão todos os assuntos relacionados com a produção automática de plantas e cartas cartográficas e com o tratamento de informação cartográfica digitalizada.
 
-###### Art. 30.º A Direcção dos Serviços Geodésicos compreende:
+Art. 30.º A Direcção dos Serviços Geodésicos compreende:
 
 a) A Divisão de Geodesia Geométrica;
 
 b) A Divisão de Geodesia Dinâmica e Geodesia por Satélites.
 
-###### Art. 31.º À Divisão de Geodesia Geométrica compete o estudo, planeamento e execução de trabalhos no domínio da astronomia geodésica e, em particular:
+Art. 31.º À Divisão de Geodesia Geométrica compete o estudo, planeamento e execução de trabalhos no domínio da astronomia geodésica e, em particular:
 
 a) O estabelecimento das redes de apoio necessárias aos estudos geodésicos e aos trabalhos de cartografia e fotogrametria;
 
@@ -520,7 +544,7 @@ e) A execução ou apoio a trabalhos no domínio da pequena geodesia, incluindo 
 
 f) As demais actividades integradas no seu âmbito de competência que lhe sejam determinadas pelo director-geral ou pelo director de serviços.
 
-###### Art. 32.º À Divisão de Geodesia Dinâmica e Geodesia por Satélites compete o estudo, planeamento e execução de trabalhos no domínio da geodesia física e, especificamente:
+Art. 32.º À Divisão de Geodesia Dinâmica e Geodesia por Satélites compete o estudo, planeamento e execução de trabalhos no domínio da geodesia física e, especificamente:
 
 a) A execução de trabalhos de nivelamento de precisão e de alta precisão, incluindo o estabelecimento da rede de nivelamento de alta precisão;
 
@@ -534,25 +558,25 @@ e) O estudo das técnicas geodésicas, no âmbito da geodesia por satélites;
 
 f) As demais actividades integradas no seu âmbito de competência que lhe sejam determinadas pelo director-geral ou pelo director de serviços.
 
-###### Art. 33.º A Direcção dos Serviços Fotogramétricos compreende:
+Art. 33.º A Direcção dos Serviços Fotogramétricos compreende:
 
 a) A Divisão de Aerotriangulação e Estereorrestituição;
 
 b) A Divisão de Ortoprojecção e Transformação Plana.
 
-###### Art. 34.º À Divisão de Aerotriangulação e Estereorrestituição compete:
+Art. 34.º À Divisão de Aerotriangulação e Estereorrestituição compete:
 
 a) O estudo, planeamento e execução dos trabalhos inerentes à aplicação das técnicas de triangulação aérea, no apoio aos serviços de estereorrestituição e ortoprojecção;
 
 b) O planeamento de execução e contrôle de todos os trabalhos relacionados com a restituição fotogramétrica, incluindo a obtenção da documentação fotográfica necessária.
 
-###### Art. 35.º À Divisão de Ortoprojecção e Transformação Plana compete o estudo, planeamento, execução e coordenação dos trabalhos conducentes à elaboração de ortofotocartas pelas técnicas de ortoprojecção e de transformação plana de fotografias.
+Art. 35.º À Divisão de Ortoprojecção e Transformação Plana compete o estudo, planeamento, execução e coordenação dos trabalhos conducentes à elaboração de ortofotocartas pelas técnicas de ortoprojecção e de transformação plana de fotografias.
 
-###### Art. 36.º Na Direcção dos Serviços Fotogramétricos será criado um laboratório fotográfico, ao qual compete a execução dos trabalhos fotográficos necessários ao funcionamento dos serviços fotogramétricos em geral.
+Art. 36.º Na Direcção dos Serviços Fotogramétricos será criado um laboratório fotográfico, ao qual compete a execução dos trabalhos fotográficos necessários ao funcionamento dos serviços fotogramétricos em geral.
 
-###### Art. 37.º A Direcção dos Serviços Fotogramétricos organizará um arquivo geral, onde procederá à recolha, guarda e conservação dos filmes, documentação fotográfica e de reprodução e demais material afim que diga respeito aos seus serviços.
+Art. 37.º A Direcção dos Serviços Fotogramétricos organizará um arquivo geral, onde procederá à recolha, guarda e conservação dos filmes, documentação fotográfica e de reprodução e demais material afim que diga respeito aos seus serviços.
 
-###### Art. 38.º - 1. A Direcção dos Serviços de Cadastro compreende:
+Art. 38.º - 1. A Direcção dos Serviços de Cadastro compreende:
 
 a) A Divisão de Levantamento Cadastral;
 
@@ -560,9 +584,9 @@ b) A Divisão de Avaliação e Conservação Cadastral.
 
 2. Poderão vir a ser criadas delegações regionais do IGC, cuja organização será sujeita a aprovação ministerial.
 
-###### Art. 39.º Ao Serviço de Levantamento Cadastral competem todos os trabalhos de campo e de gabinete necessários à elaboração de plantas cadastrais ou outras que lhe sejam cometidas.
+Art. 39.º Ao Serviço de Levantamento Cadastral competem todos os trabalhos de campo e de gabinete necessários à elaboração de plantas cadastrais ou outras que lhe sejam cometidas.
 
-###### Art. 40.º - 1. Ao Serviço de Avaliação e Conservação Cadastral compete:
+Art. 40.º - 1. Ao Serviço de Avaliação e Conservação Cadastral compete:
 
 a) A avaliação da propriedade rústica, através de trabalhos de distribuição parcelar, da organização de quadros de qualificação e classificação e de tarifas que integram o processo;
 
@@ -580,7 +604,7 @@ e) As demais actividades integradas no seu âmbito de competência que lhe sejam
 
 4. A competência deste serviço quanto à propriedade urbana será oportunamente definida.
 
-###### Art. 41.º - 1. Junto à Divisão de Avaliação e Conservação Cadastral funcionará o conselho técnico de avaliação, ao qual compete:
+Art. 41.º - 1. Junto à Divisão de Avaliação e Conservação Cadastral funcionará o conselho técnico de avaliação, ao qual compete:
 
 a) Dar pareceres técnicos sobre assuntos inerentes ao serviço de avaliação;
 
@@ -594,7 +618,7 @@ b) Um técnico de avaliação;
 
 c) Um técnico auxiliar de avaliação.
 
-###### Art. 42.º - 1. Na Direcção dos Serviços de Cadastro funcionará uma secção de expediente técnico, à qual compete a elaboração da correspondência relativa ao cadastro, a elaboração de certificados de elementos cadastrais e o arquivo e catalogação de todos os processos cadastrais.
+Art. 42.º - 1. Na Direcção dos Serviços de Cadastro funcionará uma secção de expediente técnico, à qual compete a elaboração da correspondência relativa ao cadastro, a elaboração de certificados de elementos cadastrais e o arquivo e catalogação de todos os processos cadastrais.
 
 2. Esta Direcção dos Serviços integrará ainda um técnico jurídico de cadastro.
 
@@ -602,31 +626,31 @@ c) Um técnico auxiliar de avaliação.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 43.º - 1. O quadro permanente do pessoal do Instituto Geográfico e Cadastral e suas categorias passa a ser o constante do mapa I anexo a este diploma.
+Art. 43.º - 1. O quadro permanente do pessoal do Instituto Geográfico e Cadastral e suas categorias passa a ser o constante do mapa I anexo a este diploma.
 
 2. O director-geral, no uso da competência que lhe é conferida pelo artigo 3.º, alínea b), e em harmonia com o artigo 12.º, n.º 2, submeterá ao Ministro das Finanças propostas para a contratação de pessoal além do quadro, por contrato ou a título eventual, desde que essa contratação não implique que se excedam as dotações inscritas no orçamento do IGC para esse fim.
 
-###### Art. 44.º - 1. O pessoal contratado poderá transitar para o quadro permanente dentro da respectiva carreira, desde que haja vaga e satisfaça às condições técnico-profissionais requeridas.
+Art. 44.º - 1. O pessoal contratado poderá transitar para o quadro permanente dentro da respectiva carreira, desde que haja vaga e satisfaça às condições técnico-profissionais requeridas.
 
 2. A transição será efectuada a requerimento do interessado, mediante concurso documental ou de prestação de provas ou outro critério a propor pelo conselho de gestão de pessoal.
 
-###### Art. 45.º - 1. Quando se mostre indispensável para os serviços do Instituto, o director-geral poderá propor ao Ministro das Finanças, nos termos da alínea d) do artigo 3.º, a requisição de pessoal a outros serviços ou organismos públicos, a pagar por dotação especial para esse efeito inscrita no orçamento do Instituto.
+Art. 45.º - 1. Quando se mostre indispensável para os serviços do Instituto, o director-geral poderá propor ao Ministro das Finanças, nos termos da alínea d) do artigo 3.º, a requisição de pessoal a outros serviços ou organismos públicos, a pagar por dotação especial para esse efeito inscrita no orçamento do Instituto.
 
 2. O tempo de serviço prestado no IGC pelos funcionários a que se refere este artigo contará, para todos os efeitos, como se fosse prestado nos quadros de origem.
 
-###### Art. 46.º - 1. Os lugares dos funcionários do IGC que forem nomeados ou requisitados para quaisquer cargos ou funções públicas, em comissão de serviço, serão providos interinamente.
+Art. 46.º - 1. Os lugares dos funcionários do IGC que forem nomeados ou requisitados para quaisquer cargos ou funções públicas, em comissão de serviço, serão providos interinamente.
 
 2. O tempo de serviço prestado pelos funcionários nas comissões de serviço ou requisições contar-se-á, para todos os efeitos legais, como se tivesse sido prestado nos respectivos cargos do IGC, desde que as funções a desempenhar sejam de carácter técnico ou científico e afins às actividades do Instituto.
 
 #### SECÇÃO II — Do provimento dos lugares de gestão
 
-###### Art. 47.º Os lugares de director-geral e de subdirector-geral serão preenchidos por nomeação ministerial em comissão de serviço de cinco anos, devendo a escolha ser, de preferência, feita entre os diplomados com curso superior a que corresponda formação técnico-científica adequada.
+Art. 47.º Os lugares de director-geral e de subdirector-geral serão preenchidos por nomeação ministerial em comissão de serviço de cinco anos, devendo a escolha ser, de preferência, feita entre os diplomados com curso superior a que corresponda formação técnico-científica adequada.
 
-###### Art. 48.º - 1. Os lugares de director de serviços serão preenchidos por nomeação ministerial, em comissão de serviço de cinco anos, de entre os técnicos com formação adequada ao desempenho das respectivas funções, ouvido o conselho directivo do IGC.
+Art. 48.º - 1. Os lugares de director de serviços serão preenchidos por nomeação ministerial, em comissão de serviço de cinco anos, de entre os técnicos com formação adequada ao desempenho das respectivas funções, ouvido o conselho directivo do IGC.
 
 2. A escolha de pessoal para o preenchimento dos lugares a que se refere este artigo será, de preferência, efectuada entre os chefes de divisão ou repartição do IGC e demais pessoal técnico-científico.
 
-###### Art. 49.º - 1. Os lugares de chefe de divisão, repartição ou de serviços a que correspondem categorias equivalentes serão preenchidos com observância do disposto no artigo 12.º, n.º 1, do presente diploma.
+Art. 49.º - 1. Os lugares de chefe de divisão, repartição ou de serviços a que correspondem categorias equivalentes serão preenchidos com observância do disposto no artigo 12.º, n.º 1, do presente diploma.
 
 2. As pessoas a nomear deverão possuir formação técnico-científica adequada ao desempenho das respectivas funções e a escolha deverá recair, de preferência, sobre pessoal qualificado do IGC.
 
@@ -634,7 +658,7 @@ c) Um técnico auxiliar de avaliação.
 
 #### SECÇÃO III — Das carreiras e suas monografias
 
-###### Art. 50.º - 1. As carreiras profissionais do IGC correspondem aos grupos funcionais seguintes:
+Art. 50.º - 1. As carreiras profissionais do IGC correspondem aos grupos funcionais seguintes:
 
 a) Funções técnico-científicas;
 
@@ -648,11 +672,11 @@ e) Funções de serviços.
 
 2. Às funções de gestão não corresponderá uma carreira de gestores, sendo o provimento dos lugares de gestão efectuado por nomeação ministerial, nos termos do presente diploma.
 
-###### Art. 51.º A cada carreira corresponderá uma determinada progressão profissional, com as respectivas categorias e tempo normal de permanência em cada uma delas para efeitos de promoção.
+Art. 51.º A cada carreira corresponderá uma determinada progressão profissional, com as respectivas categorias e tempo normal de permanência em cada uma delas para efeitos de promoção.
 
-###### Art. 52.º Além das carreiras criadas por este diploma, poderão futuramente ser definidas novas carreiras, de acordo com a evolução orgânica, técnica e científica do IGC e mediante aprovação do Ministro das Finanças.
+Art. 52.º Além das carreiras criadas por este diploma, poderão futuramente ser definidas novas carreiras, de acordo com a evolução orgânica, técnica e científica do IGC e mediante aprovação do Ministro das Finanças.
 
-###### Art. 53.º - 1. As carreiras de pessoal técnico-científico do IGC abrangem as seguintes especialidades:
+Art. 53.º - 1. As carreiras de pessoal técnico-científico do IGC abrangem as seguintes especialidades:
 
 a) Técnicos de geodesia, cartografia e fotogrametria;
 
@@ -704,7 +728,7 @@ e) Um técnico principal jurídico de cadastro.
 
 8. A evolução técnico-científica e, bem assim, a complexidade e manutenção dos equipamentos já existentes ou a adquirir podem justificar o recrutamento de outros técnicos, designadamente engenheiros electrotécnicos, engenheiros de máquinas, etc.
 
-###### Art. 54.º Ao pessoal técnico auxiliar do IGC correspondem carreiras de:
+Art. 54.º Ao pessoal técnico auxiliar do IGC correspondem carreiras de:
 
 a) Técnico auxiliar de avaliação;
 
@@ -734,7 +758,7 @@ m) Transportador manual;
 
 n) Operador de fotografia.
 
-###### Art. 55.º - 1. A carreira de técnico auxiliar de avaliação terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 55.º - 1. A carreira de técnico auxiliar de avaliação terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Técnico auxiliar de 3.ª classe (M) - cinco anos;
 
@@ -754,7 +778,7 @@ e) Adjunto técnico principal (H).
 
 5. A promoção à categoria de adjunto técnico principal depende da existência de vaga, num total de sete lugares, e estes serão providos por concurso entre os adjuntos técnicos que reúnam potencial profissional adequado.
 
-###### Art. 56.º - 1. A carreira de operador de fotogrametria terá as seguintes categorias e respectivos tempos de permanência:
+Art. 56.º - 1. A carreira de operador de fotogrametria terá as seguintes categorias e respectivos tempos de permanência:
 
 a) Operador estagiário (O) - dois anos;
 
@@ -772,7 +796,7 @@ e) Operador chefe (I).
 
 4. A promoção à categoria de operador-chefe requer a existência de vaga nessa categoria; o número de lugares é de sete, que serão providos por concurso entre os profissionais que reúnam potencial profissional adequado.
 
-###### Art. 57.º - 1. A carreira de topógrafos-geómetras terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 57.º - 1. A carreira de topógrafos-geómetras terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Topógrafo-geómetra (Q) - dois anos;
 
@@ -788,7 +812,7 @@ e) Topógrafo-geómetra-chefe (I).
 
 3. A promoção à categoria de topógrafo-geómetra-chefe requer a existência de vaga, num total de doze lugares, que serão providos por concurso entre os profissionais que reúnam potencial profissional adequado.
 
-###### Art. 58.º - 1. As carreiras de desenhador cartógrafo e de gravador-desenhador são idênticas e terão as seguintes categorias e tempos normais de permanência:
+Art. 58.º - 1. As carreiras de desenhador cartógrafo e de gravador-desenhador são idênticas e terão as seguintes categorias e tempos normais de permanência:
 
 a) Desenhador de topografia de 3.ª ou 2.ª classe (estagiário) (P ou N) - três anos;
 
@@ -810,7 +834,7 @@ e) Desenhador cartógrafo ou gravador-desenhador-chefe ou revisor de 1.ª classe
 
 6. O desenhador cartógrafo-chefe e o gravador-desenhador-chefe poderão desempenhar funções de revisor cartógrafo de 1.ª classe.
 
-###### Art. 59.º - 1. A carreira de montador-retocador terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 59.º - 1. A carreira de montador-retocador terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Montador-retocador de 2.ª classe (K) - sete anos;
 
@@ -824,7 +848,7 @@ c) Montador-retocador principal (I).
 
 4. A promoção à categoria de montador-retocador principal requer a existência de vaga (uma vaga).
 
-###### Art. 60.º - 1. A carreira de operador de transformação plana terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 60.º - 1. A carreira de operador de transformação plana terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Operador de transformação plana estagiário (Q) - dois anos;
 
@@ -842,7 +866,7 @@ e) Operador de transformação plana principal (K).
 
 4. A promoção à categoria de operador de transformação plana principal requer a existência de vaga (uma vaga).
 
-###### Art. 61.º - 1. As carreiras de transportador de fotolitografia, fotógrafo de fotolitografia, impressor de rotativa e operador de fotocompositora são idênticas e terão as seguintes categorias e respectivos tempos normais de permanência:
+Art. 61.º - 1. As carreiras de transportador de fotolitografia, fotógrafo de fotolitografia, impressor de rotativa e operador de fotocompositora são idênticas e terão as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Categorias de 3.ª classe (Q) - cinco anos;
 
@@ -860,7 +884,7 @@ d) Categoria de principal (K).
 
 5. As promoções às categorias de principal dependem da existência de vaga em cada carreira, num total de um lugar por carreira, sendo o provimento efectuado por concurso entre os profissionais que reúnam o potencial profissional adequado.
 
-###### Art. 62.º - 1. A carreira de mecanógrafo terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 62.º - 1. A carreira de mecanógrafo terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Mecanógrafo estagiário (R) - um ano;
 
@@ -876,7 +900,7 @@ e) Mecanógrafo monitor (K).
 
 3. O acesso à categoria de mecanógrafo monitor (um lugar) requer existência de vaga.
 
-###### Art. 63.º - 1. A carreira de calculador terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 63.º - 1. A carreira de calculador terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Calculador estagiário (R) - dois anos;
 
@@ -896,7 +920,7 @@ f) Calculador-chefe (J).
 
 4. A promoção à categoria de calculador-chefe (um lugar) requer existência de vaga, sendo esta provida por concurso entre os profissionais que reúnam potencial profissional adequado.
 
-###### Art. 64.º - 1. A carreira de desenhador de topografia terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 64.º - 1. A carreira de desenhador de topografia terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Desenhador de topografia estagiário (Q) - dois anos;
 
@@ -916,7 +940,7 @@ f) Desenhador de topografia-chefe ou revisor de 2.ª classe (J).
 
 4. Os desenhadores de 3.ª ou 2.ª classe podem ingressar, mediante concurso de prestação de provas, na carreira de desenhador cartógrafo, desde que haja vaga.
 
-###### Art. 65.º - 1. As carreiras de mecânico de instrumentos de precisão e de mecânico auto são idênticas e terão as seguintes categorias e respectivos tempos normais de permanência:
+Art. 65.º - 1. As carreiras de mecânico de instrumentos de precisão e de mecânico auto são idênticas e terão as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Mecânicos de 2.ª classe (Q) - oito anos;
 
@@ -930,7 +954,7 @@ c) Mecânicos-chefes (L).
 
 4. A promoção à categoria de mecânico-chefe implica vaga na categoria (um lugar na oficina correspondente).
 
-###### Art. 66.º - 1. A carreira de transportador manual terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 66.º - 1. A carreira de transportador manual terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Transportador manual de 3.ª classe (Q) - cinco anos;
 
@@ -946,7 +970,7 @@ d) Transportador manual principal (L).
 
 4. A promoção à categoria de transportador manual principal (um lugar) depende da existência de vaga.
 
-###### Art. 67.º - 1. A carreira de operador de fotografia terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 67.º - 1. A carreira de operador de fotografia terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Operador de fotografia de 3.ª classe (Q) - seis anos;
 
@@ -964,13 +988,13 @@ d) Operador de fotografia principal (L).
 
 5. A promoção à categoria de operador de fotografia principal (um lugar) depende da existência de vaga.
 
-###### Art. 68.º Ao pessoal administrativo corresponde as carreiras de:
+Art. 68.º Ao pessoal administrativo corresponde as carreiras de:
 
 a) Oficial de secretaria;
 
 b) Escriturário-dactilógrafo.
 
-###### Art. 69.º - 1. A carreira de oficial de secretaria terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 69.º - 1. A carreira de oficial de secretaria terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Terceiro-oficial (Q) - cinco anos;
 
@@ -990,13 +1014,13 @@ d) Chefe de secção (J).
 
 6. Haverá dois lugares no Serviço de Orçamento e Contabilidade e dois lugares nos Serviços de Pessoal e Expediente para chefe de secção.
 
-###### Art. 70.º - 1. A carreira de escriturários-dactilógrafos terá categoria única correspondente à letra S.
+Art. 70.º - 1. A carreira de escriturários-dactilógrafos terá categoria única correspondente à letra S.
 
 2. A admissão a esta carreira exige uma formação de base equivalente à escolaridade obrigatória, com conhecimentos de dactilografia, sendo condições de preferência conhecimentos sobre línguas, máquinas de escrever e outros sobre contabilidade e arquivo.
 
 3. A passagem à carreira de oficial de secretaria exige, além de vaga no quadro dos oficiais, a formação de base e a qualificação profissional adequada.
 
-###### Art. 71.º Ao pessoal executante correspondem as seguintes carreiras profissionais:
+Art. 71.º Ao pessoal executante correspondem as seguintes carreiras profissionais:
 
 a) Ajudante de operador de fotogrametria;
 
@@ -1010,7 +1034,7 @@ e) Costureira-ajuntadeira;
 
 f) Operador de reprografia.
 
-###### Art. 72.º - 1. A carreira de ajudante de operador de fotogrametria terá as seguintes categorias e respectivos tempos normais de permanência:
+Art. 72.º - 1. A carreira de ajudante de operador de fotogrametria terá as seguintes categorias e respectivos tempos normais de permanência:
 
 a) Ajudante de operador de fotogrametria estagiário (R) - dois anos;
 
@@ -1026,7 +1050,7 @@ d) Ajudante de operador de fotogrametria principal (M).
 
 4. A promoção à categoria de ajudante principal requer a existência de vaga, num total de quatro lugares, cujo provimento será efectuado por concurso entre os profissionais que tenham potencial profissional adequado.
 
-###### Art. 73.º - 1. A carreira de artífice é idêntica para as várias especialidades, a saber:
+Art. 73.º - 1. A carreira de artífice é idêntica para as várias especialidades, a saber:
 
 a) Granidor;
 
@@ -1058,17 +1082,17 @@ d) Encarregado (N).
 
 5. O pessoal desta carreira pode desempenhar funções de fiel de armazém ou outras equiparadas.
 
-###### Art. 74.º - 1. A carreira de motorista do cadastro, com categoria única, corresponde à letra S.
+Art. 74.º - 1. A carreira de motorista do cadastro, com categoria única, corresponde à letra S.
 
 2. A admissão a esta carreira exige uma formação de base equivalente à escolaridade obrigatória e a carta profissional de condução de ligeiros, sendo condição de preferência a carta de pesados, conhecimentos de mecânica e maior formação de base.
 
-###### Art. 75.º - 1. As carreiras de telefonista, costureira-ajuntadeira e operador de reprografia terão categoria única, correspondente à letra S.
+Art. 75.º - 1. As carreiras de telefonista, costureira-ajuntadeira e operador de reprografia terão categoria única, correspondente à letra S.
 
 2. A admissão a estas carreiras exige uma formação de base equivalente à escolaridade obrigatória e conhecimentos específicos adequados a cada caso.
 
 3. O recrutamento para as carreiras de telefonista e operador de reprografia será, de preferência, efectuado entre os contínuos ou auxiliares de oficina do Instituto.
 
-###### Art. 76.º - 1. O pessoal de serviços do quadro permanente do IGC abrange as carreiras de porteiro e contínuo, com categoria única, correspondente à letra T.
+Art. 76.º - 1. O pessoal de serviços do quadro permanente do IGC abrange as carreiras de porteiro e contínuo, com categoria única, correspondente à letra T.
 
 2. A admissão a estas carreiras exige uma formação de base equivalente à escolaridade obrigatória.
 
@@ -1076,35 +1100,35 @@ d) Encarregado (N).
 
 #### SECÇÃO IV — Da admissão
 
-###### Art. 77.º As admissões serão baseadas num processo geral a executar pelos serviços de pessoal em coordenação com o Centro de Formação Técnico Profissional e com observância do disposto no artigo 12.º do presente diploma.
+Art. 77.º As admissões serão baseadas num processo geral a executar pelos serviços de pessoal em coordenação com o Centro de Formação Técnico Profissional e com observância do disposto no artigo 12.º do presente diploma.
 
-###### Art. 78.º As admissões ou mudanças de carreira processar-se-ão pela base da respectiva carreira e só em circunstâncias excepcionais, sob proposta do conselho de gestão de pessoal, será possível admitir pessoal de outra forma.
+Art. 78.º As admissões ou mudanças de carreira processar-se-ão pela base da respectiva carreira e só em circunstâncias excepcionais, sob proposta do conselho de gestão de pessoal, será possível admitir pessoal de outra forma.
 
-###### Art. 79.º - 1. Os candidatos à admissão em qualquer carreira deverão satisfazer as condições gerais expressas na lei vigente.
+Art. 79.º - 1. Os candidatos à admissão em qualquer carreira deverão satisfazer as condições gerais expressas na lei vigente.
 
 2. O recrutamento poderá incluir a admissão de aprendizes com idade não inferior a 16 anos e com formação adequada para as carreiras de pessoal técnico auxiliar e pessoal executante.
 
-###### Art. 80.º - 1. A admissão dos candidatos seleccionados far-se-á provisoriamente por períodos sucessivos de seis meses em regime eventual, até ao fim do período de estágio fixado em cada carreira.
+Art. 80.º - 1. A admissão dos candidatos seleccionados far-se-á provisoriamente por períodos sucessivos de seis meses em regime eventual, até ao fim do período de estágio fixado em cada carreira.
 
 2. O provimento provisório será convertido em definitivo após o decurso do referido período, com informação favorável da respectiva direcção de serviços e sob proposta do conselho de gestão de pessoal.
 
-###### Art. 81.º Ao pessoal admitido provisoriamente nos termos do artigo anterior, cuja informação de serviço seja desfavorável, por falta de aproveitamento em cursos que frequente ou por não mostrar a necessária capacidade, ou ainda por na execução dos serviços que lhe forem confiados não mostrar possuir aptidão para o exercício das respectivas funções, será rescindido o contrato, sem direito a qualquer indemnização.
+Art. 81.º Ao pessoal admitido provisoriamente nos termos do artigo anterior, cuja informação de serviço seja desfavorável, por falta de aproveitamento em cursos que frequente ou por não mostrar a necessária capacidade, ou ainda por na execução dos serviços que lhe forem confiados não mostrar possuir aptidão para o exercício das respectivas funções, será rescindido o contrato, sem direito a qualquer indemnização.
 
-###### Art. 82.º - 1. O recrutamento poderá ser interno, por mudança de carreira, tendo os trabalhadores do IGC preferência na admissão pela base das diferentes carreiras.
+Art. 82.º - 1. O recrutamento poderá ser interno, por mudança de carreira, tendo os trabalhadores do IGC preferência na admissão pela base das diferentes carreiras.
 
 2. A mudança de carreira exige formação e qualificação técnica profissional adequada e será efectuada por concurso documental ou de prestação de provas mediante proposta do conselho de gestão de pessoal.
 
 3. Os termos em que se processará a mudança de carreira serão propostos pelo conselho de gestão de pessoal e submetidos à apreciação do conselho de direcção.
 
-###### Art. 83.º As condições gerais e especiais de admissão, o processamento das inscrições, os critérios e provas de selecção serão oportunamente regulamentados e divulgados após submetidos a aprovação ministerial.
+Art. 83.º As condições gerais e especiais de admissão, o processamento das inscrições, os critérios e provas de selecção serão oportunamente regulamentados e divulgados após submetidos a aprovação ministerial.
 
 #### SECÇÃO V — Das promoções
 
-###### Art. 84.º O conselho de gestão de pessoal elabora as propostas de promoção de todo o pessoal, tomando como base os processos individuais, concursos de prestação de provas ou documentais e demais informações de serviço, em termos e segundo normas que serão objecto de regulamento a submeter a aprovação ministerial, ouvido o conselho de direcção.
+Art. 84.º O conselho de gestão de pessoal elabora as propostas de promoção de todo o pessoal, tomando como base os processos individuais, concursos de prestação de provas ou documentais e demais informações de serviço, em termos e segundo normas que serão objecto de regulamento a submeter a aprovação ministerial, ouvido o conselho de direcção.
 
-###### Art. 85.º O potencial profissional a considerar para efeitos de promoção inclui o tempo normal de permanência prevista para cada categoria e carreira e, bem assim, diversas condições de natureza técnica e profissional, cuja apreciação competirá ao conselho de gestão de pessoal nos termos deste diploma.
+Art. 85.º O potencial profissional a considerar para efeitos de promoção inclui o tempo normal de permanência prevista para cada categoria e carreira e, bem assim, diversas condições de natureza técnica e profissional, cuja apreciação competirá ao conselho de gestão de pessoal nos termos deste diploma.
 
-###### Art. 86.º - 1. O tempo normal de permanência em cada categoria e carreira é o que consta das respectivas monografias das carreiras.
+Art. 86.º - 1. O tempo normal de permanência em cada categoria e carreira é o que consta das respectivas monografias das carreiras.
 
 2. Os prazos previstos em cada categoria poderão ser reduzidos de um ou dois anos, para estádios de cinco ou mais de cinco anos, respectivamente.
 
@@ -1112,35 +1136,35 @@ d) Encarregado (N).
 
 4. Esta redução deverá ser proposta pela respectiva Direcção de Serviços ao conselho de gestão de pessoal nos termos da presente organização.
 
-###### Art. 87.º O grau de formação base correspondente a cada carreira é o que consta da respectiva monografia da carreira.
+Art. 87.º O grau de formação base correspondente a cada carreira é o que consta da respectiva monografia da carreira.
 
-###### Art. 88.º - 1. O acesso às últimas categorias das carreiras, às quais possam corresponder cargos de chefia ou outros cargos especificamente ligados à orgânica do IGC, será dependente de vaga, além de qualificação técnico-profissional adequada.
+Art. 88.º - 1. O acesso às últimas categorias das carreiras, às quais possam corresponder cargos de chefia ou outros cargos especificamente ligados à orgânica do IGC, será dependente de vaga, além de qualificação técnico-profissional adequada.
 
 2. Da monografia das carreiras consta o número de vagas na categoria ou categorias respectivas.
 
 3. O provimento do lugar ou lugares a que corresponde vaga será efectuado por concurso entre os candidatos que tenham potencial profissional adequado.
 
-###### Art. 89.º - 1. A existência de vaga em qualquer categoria e carreira apenas obriga ao seu preenchimento desde que haja funcionários com o potencial profissional necessário.
+Art. 89.º - 1. A existência de vaga em qualquer categoria e carreira apenas obriga ao seu preenchimento desde que haja funcionários com o potencial profissional necessário.
 
 2. Não existindo funcionários com a totalidade das condições requeridas para o preenchimento de vagas que por imperiosa necessidade de serviço devem ser preenchidas, poderão nestas ser providos outros funcionários com qualificação adequada, ouvido o conselho de direcção.
 
-###### Art. 90.º A não obtenção de condições de promoção findo o estádio normal da respectiva categoria implica um prolongamento da permanência na mesma categoria por mais um terço do seu tempo.
+Art. 90.º A não obtenção de condições de promoção findo o estádio normal da respectiva categoria implica um prolongamento da permanência na mesma categoria por mais um terço do seu tempo.
 
-###### Art. 91.º A não obtenção de condições de promoção duas vezes na mesma categoria implica cessação de promoção na mesma carreira, sem prejuízo da aplicação de outras disposições legais.
+Art. 91.º A não obtenção de condições de promoção duas vezes na mesma categoria implica cessação de promoção na mesma carreira, sem prejuízo da aplicação de outras disposições legais.
 
-###### Art. 92.º - 1. No 1.º trimestre de cada ano serão submetidas à apreciação do conselho de gestão de pessoal as relações dos funcionários que no ano imediato completem o tempo normal de permanência na sua categoria, com os respectivos processos e demais documentação individual, além daqueles que foram propostos pelas respectivas direcções de serviços ao abrigo dos n.os 2, 3 e 4 do artigo 86.º
+Art. 92.º - 1. No 1.º trimestre de cada ano serão submetidas à apreciação do conselho de gestão de pessoal as relações dos funcionários que no ano imediato completem o tempo normal de permanência na sua categoria, com os respectivos processos e demais documentação individual, além daqueles que foram propostos pelas respectivas direcções de serviços ao abrigo dos n.os 2, 3 e 4 do artigo 86.º
 
 2. Como resultado da apreciação referida no número anterior, o conselho de gestão de pessoal elabora as relações do pessoal a quem poderá competir promoção no ano seguinte, entregando-as à Direcção-Geral a tempo de servirem de base à elaboração do plano orçamental para o ano imediato.
 
 3. Até ao fim de cada ano deverão estar concluídos os processos e propostas de promoção relativos ao pessoal que complete as condições de promoção no ano imediato, sendo submetidas a despacho ministerial ou a decisão do director-geral, no mês de Julho do ano seguinte, as propostas relativas ao pessoal que complete as condições de promoção durante o 1.º semestre e, em Janeiro do outro ano, as propostas relativas ao pessoal que complete as condições de promoção no 2.º semestre.
 
-###### Art. 93.º - 1. As condições gerais e especiais de promoção, o processamento das informações de serviço e demais documentação individual, bem como os critérios gerais de apreciação de pessoal para efeitos de promoção, serão objecto de regulamento a submeter à aprovação do Ministro das Finanças.
+Art. 93.º - 1. As condições gerais e especiais de promoção, o processamento das informações de serviço e demais documentação individual, bem como os critérios gerais de apreciação de pessoal para efeitos de promoção, serão objecto de regulamento a submeter à aprovação do Ministro das Finanças.
 
 2. A contagem de tempo para efeito de promoção na nova categoria inicia-se a partir da data de tomada de posse respectiva.
 
 #### SECÇÃO VI — Disposições complementares
 
-###### Art. 94.º - 1. Os funcionários das carreiras técnico-auxiliares a que se referem as alíneas b) a n) do artigo 54.º poderão candidatar-se ao ingresso numa carreira idêntica às dos técnicos auxiliares de avaliação, na qual passarão a ter a designação de técnicos auxiliares ou adjuntos técnicos da respectiva especialidade.
+Art. 94.º - 1. Os funcionários das carreiras técnico-auxiliares a que se referem as alíneas b) a n) do artigo 54.º poderão candidatar-se ao ingresso numa carreira idêntica às dos técnicos auxiliares de avaliação, na qual passarão a ter a designação de técnicos auxiliares ou adjuntos técnicos da respectiva especialidade.
 
 2. O ingresso na nova carreira requer uma formação de base equivalente ao bacharelato de um curso superior com a qualificação técnica adequada à especialidade ou ao curso complementar dos liceus com a conveniente especialização técnica complementar.
 
@@ -1150,41 +1174,41 @@ d) Encarregado (N).
 
 5. O pessoal que mudar de carreira nos termos deste artigo continuará incluído no total de lugares previsto no quadro para a sua carreira de origem, sendo o número de vagas de adjunto técnico principal igual ao número de vagas na categoria máxima da carreira inicial.
 
-###### Art. 95.º Aos técnicos e técnicos auxiliares serão garantidos todos os direitos inerentes aos cursos ou licenciaturas que possuírem, independentemente da designação da especialidade que lhes for atribuída para o provimento de lugares no Instituto.
+Art. 95.º Aos técnicos e técnicos auxiliares serão garantidos todos os direitos inerentes aos cursos ou licenciaturas que possuírem, independentemente da designação da especialidade que lhes for atribuída para o provimento de lugares no Instituto.
 
-###### Art. 96.º - 1. Para o desempenho de funções de arquivista, bibliotecário e conservador do museu, encarregado de marégrafo, secretário da Direcção-Geral e encarregados de diversos serviços ou actividades serão nomeados pelo director-geral funcionários com capacidade e qualificação adequada às funções a desempenhar, numa linha de gestão de pessoal que permita o melhor aproveitamento e adaptação dos funcionários das diferentes carreiras.
+Art. 96.º - 1. Para o desempenho de funções de arquivista, bibliotecário e conservador do museu, encarregado de marégrafo, secretário da Direcção-Geral e encarregados de diversos serviços ou actividades serão nomeados pelo director-geral funcionários com capacidade e qualificação adequada às funções a desempenhar, numa linha de gestão de pessoal que permita o melhor aproveitamento e adaptação dos funcionários das diferentes carreiras.
 
 2. Em particular, poderão ser abrangidos pelo disposto no número anterior os funcionários a que se refere o artigo 102.º
 
-###### Art. 97.º Os auxiliares de oficina e auxiliares de limpeza serão admitidos em regime de trabalho eventual, podendo ser contratados, após dois anos de serviço, sob proposta do conselho de gestão de pessoal.
+Art. 97.º Os auxiliares de oficina e auxiliares de limpeza serão admitidos em regime de trabalho eventual, podendo ser contratados, após dois anos de serviço, sob proposta do conselho de gestão de pessoal.
 
-###### Art. 98.º O pessoal auxiliar necessário aos trabalhos de campo será recrutado regionalmente, em regime eventual e para cada campanha.
+Art. 98.º O pessoal auxiliar necessário aos trabalhos de campo será recrutado regionalmente, em regime eventual e para cada campanha.
 
 #### SECÇÃO VII — Disposições diversas
 
-###### Art. 99.º - 1. O pessoal do quadro e contratado, em trabalhos de campo ou deslocado, terá direito a perceber ajudas de custo e demais subsídios, em harmonia com as disposições legais vigentes.
+Art. 99.º - 1. O pessoal do quadro e contratado, em trabalhos de campo ou deslocado, terá direito a perceber ajudas de custo e demais subsídios, em harmonia com as disposições legais vigentes.
 
 2. O pessoal em trabalho de campo contará um acréscimo de 20% sobre o tempo de serviço efectuado no campo, para efeitos de aposentação, e a partir do primeiro dia do mês seguinte ao da publicação deste diploma no Diário da República.
 
-###### Art. 100.º Os funcionários contratados seguirão uma progressão profissional idêntica à dos funcionários do quadro da mesma carreira, não podendo ascender, como contratados, a categoria ou categorias que requeiram vaga dentro da carreira.
+Art. 100.º Os funcionários contratados seguirão uma progressão profissional idêntica à dos funcionários do quadro da mesma carreira, não podendo ascender, como contratados, a categoria ou categorias que requeiram vaga dentro da carreira.
 
-###### Art. 101.º Os auxiliares reconhecedores assalariados eventuais, quando em trabalhos de campo, terão direito a perceber subsídio de trabalhos de campo e subsídio de transporte a fixar por despacho ministerial, desde que não lhe seja fornecido este último.
+Art. 101.º Os auxiliares reconhecedores assalariados eventuais, quando em trabalhos de campo, terão direito a perceber subsídio de trabalhos de campo e subsídio de transporte a fixar por despacho ministerial, desde que não lhe seja fornecido este último.
 
-###### Art. 102.º - 1. Todo o pessoal que pelas suas funções esteja sujeito a acentuado depauperamento físico ou sensorial, nomeadamente topógrafos-geómetras, desenhadores, operadores de fotogrametria e outros a que a lei especificamente se refere, deverá ser sujeito a exame médico preventivo periódico de cinco em cinco anos, a partir dos 35 anos de idade e sempre que seja necessário ou o requeira.
+Art. 102.º - 1. Todo o pessoal que pelas suas funções esteja sujeito a acentuado depauperamento físico ou sensorial, nomeadamente topógrafos-geómetras, desenhadores, operadores de fotogrametria e outros a que a lei especificamente se refere, deverá ser sujeito a exame médico preventivo periódico de cinco em cinco anos, a partir dos 35 anos de idade e sempre que seja necessário ou o requeira.
 
 2. Em resultado dos exames referidos neste artigo e sob proposta médica, os funcionários poderão ser deslocados para o desempenho de funções compatíveis com o seu estado físico, aptidões e qualificação, sem prejuízo dos respectivos direitos.
 
 #### SECÇÃO VIII — Disposições transitórias
 
-###### Art. 103.º - 1. Os actuais funcionários do IGC serão reintegrados nas novas carreiras nos termos do artigo 9.º do decreto que aprova a presente organização.
+Art. 103.º - 1. Os actuais funcionários do IGC serão reintegrados nas novas carreiras nos termos do artigo 9.º do decreto que aprova a presente organização.
 
 2. O primeiro provimento dos lugares do novo quadro do pessoal do IGC, aprovados pelo presente diploma, poderá ser feito directamente para qualquer das categorias, sem dependência do tempo de serviço anteriormente prestado e sem prejuízo das habilitações literárias exigidas.
 
-###### Art. 104.º - 1. Os actuais trabalhadores do IGC que tenham a formação de base requerida para a respectiva carreira poderão progredir na carreira mediante a obtenção de formação profissional adequada, a comprovar por prestação de prova, segundo critério a propor pelo conselho de gestão de pessoal.
+Art. 104.º - 1. Os actuais trabalhadores do IGC que tenham a formação de base requerida para a respectiva carreira poderão progredir na carreira mediante a obtenção de formação profissional adequada, a comprovar por prestação de prova, segundo critério a propor pelo conselho de gestão de pessoal.
 
 2. Para os efeitos referidos no número anterior, o Instituto deverá desenvolver um conveniente plano de formação de pessoal.
 
-###### Art. 105.º - 1. A organização dos processos de promoção dos funcionários que completarem condições de tempo para promoção no ano imediato ao da aprovação deste diploma, bem como daqueles que tenham completado estas condições a partir do fim de Dezembro de 1975, deverá processar-se por forma que as respectivas propostas de promoção, se for caso disso, sejam submetidas a despacho ministerial ou a decisão do director-geral nos prazos indicados no n.º 3 do artigo 92.º
+Art. 105.º - 1. A organização dos processos de promoção dos funcionários que completarem condições de tempo para promoção no ano imediato ao da aprovação deste diploma, bem como daqueles que tenham completado estas condições a partir do fim de Dezembro de 1975, deverá processar-se por forma que as respectivas propostas de promoção, se for caso disso, sejam submetidas a despacho ministerial ou a decisão do director-geral nos prazos indicados no n.º 3 do artigo 92.º
 
 2. Aos funcionários que tenham completado as condições de tempo para promoção a partir do fim de Dezembro de 1975, se lhes couber promoção, será contado na nova categoria o tempo em excesso para efeitos de promoção.
 
@@ -1192,58 +1216,58 @@ d) Encarregado (N).
 
 4. O pessoal que for admitido até à aprovação deste diploma ficará abrangido pelas disposições da presente Lei Orgânica, ingressando nas respectivas carreiras pela base e sendo-lhe contado o tempo de serviço prestado no IGC para o efeito.
 
-###### Art. 106.º - 1. As primeiras nomeações dos directores de serviços serão efectuadas sob proposta do director-geral, previamente nomeado nos termos do artigo 47.º
+Art. 106.º - 1. As primeiras nomeações dos directores de serviços serão efectuadas sob proposta do director-geral, previamente nomeado nos termos do artigo 47.º
 
 2. A nomeação dos directores de serviços a que se refere o número anterior deverá respeitar as disposições dos artigos 47.º e 48.º, salvo no que se refere às características da nomeação, que deverá ser em comissão de serviço e pelo prazo de um ano, findo o qual, ouvido o conselho de direcção, poderão ou não ser reconduzidos nos seus cargos por decisão ministerial.
 
-###### Art. 107.º - 1. As primeiras nomeações dos chefes de repartição, de divisão ou de serviços equiparados serão efectuadas pelo director-geral, ouvidos o subdirector-geral e os directores de serviços, com observância dos n.os 2 e 3 do artigo 49.º e de harmonia com o disposto no artigo 12.º
+Art. 107.º - 1. As primeiras nomeações dos chefes de repartição, de divisão ou de serviços equiparados serão efectuadas pelo director-geral, ouvidos o subdirector-geral e os directores de serviços, com observância dos n.os 2 e 3 do artigo 49.º e de harmonia com o disposto no artigo 12.º
 
 2. As primeiras nomeações referidas no número anterior serão em regime de comissão de serviço pelo prazo de um ano, findo o qual, e mediante parecer do conselho de gestão de pessoal e do respectivo director de serviços, sob proposta do director-geral, poderá ou não haver lugar a recondução nos correspondentes cargos, por decisão ministerial.
 
-###### Art. 108.º Após as nomeações a que se referem os artigos 106.º e 107.º deverão ser constituídos os conselhos de direcção, de gestão de pessoal e administrativo, nos termos desta organização.
+Art. 108.º Após as nomeações a que se referem os artigos 106.º e 107.º deverão ser constituídos os conselhos de direcção, de gestão de pessoal e administrativo, nos termos desta organização.
 
 ### CAPÍTULO IV — Autonomia administrativa
 
-###### Art. 109.º O Instituto Geográfico e Cadastral, por intermédio do seu conselho administrativo, administrará as dotações que anualmente lhe forem concedidas e satisfará por meio delas os encargos que legalmente lhe caibam, conforme julgar mais conveniente para o serviço.
+Art. 109.º O Instituto Geográfico e Cadastral, por intermédio do seu conselho administrativo, administrará as dotações que anualmente lhe forem concedidas e satisfará por meio delas os encargos que legalmente lhe caibam, conforme julgar mais conveniente para o serviço.
 
-###### Art. 110.º O conselho administrativo requisitará mensalmente à respectiva delegação da Direcção-Geral da Contabilidade Pública as importâncias correspondentes aos duodécimos das dotações que tenham sido consignadas no Orçamento Geral do Estado para as despesas do Instituto.
+Art. 110.º O conselho administrativo requisitará mensalmente à respectiva delegação da Direcção-Geral da Contabilidade Pública as importâncias correspondentes aos duodécimos das dotações que tenham sido consignadas no Orçamento Geral do Estado para as despesas do Instituto.
 
-###### Art. 111.º O Instituto fará entrega no Tesouro Público, nos termos e prazos legais, das importâncias cobradas pelos seus serviços e provenientes das suas actividades.
+Art. 111.º O Instituto fará entrega no Tesouro Público, nos termos e prazos legais, das importâncias cobradas pelos seus serviços e provenientes das suas actividades.
 
-###### Art. 112.º O director-geral, ouvido o conselho administrativo, poderá autorizar a realização de despesas até ao montante estabelecido na lei geral em vigor.
+Art. 112.º O director-geral, ouvido o conselho administrativo, poderá autorizar a realização de despesas até ao montante estabelecido na lei geral em vigor.
 
-###### Art. 113.º Anualmente será organizada a conta de gerência a submeter à aprovação do Tribunal de Contas nos prazos legais.
+Art. 113.º Anualmente será organizada a conta de gerência a submeter à aprovação do Tribunal de Contas nos prazos legais.
 
 ### CAPÍTULO V — Disposições diversas
 
-###### Art. 114.º - 1. Os regulamentos previstos nesta organização deverão ser submetidos à aprovação superior no prazo de seis meses após a publicação deste diploma.
+Art. 114.º - 1. Os regulamentos previstos nesta organização deverão ser submetidos à aprovação superior no prazo de seis meses após a publicação deste diploma.
 
 2. No mesmo prazo deverão ser elaboradas e submetidas à homologação do conselho de direcção as normas internas de funcionamento e organização das direcções de serviços.
 
-###### Art. 115.º Os veículos automóveis, material e equipamento técnicos adquiridos pelo IGC para os seus serviços beneficiam de isenção de direitos e demais imposições aduaneiras.
+Art. 115.º Os veículos automóveis, material e equipamento técnicos adquiridos pelo IGC para os seus serviços beneficiam de isenção de direitos e demais imposições aduaneiras.
 
-###### Art. 116.º - 1. Além dos casos previstos na lei geral, poderá ser fornecido vestuário de trabalho adequado aos funcionários cuja actividade assim o aconselhe, a pagar pelas dotações para esse fim inscritas no orçamento do IGC.
+Art. 116.º - 1. Além dos casos previstos na lei geral, poderá ser fornecido vestuário de trabalho adequado aos funcionários cuja actividade assim o aconselhe, a pagar pelas dotações para esse fim inscritas no orçamento do IGC.
 
 2. O IGC poderá propor a dotação de verbas destinadas ao apoio das suas actividades ou serviços, designadamente para fins experimentais ou de investigação, formação de pessoal e acção social e realizações técnico-científicas nacionais ou internacionais.
 
-###### Art. 117.º O tesoureiro do IGC terá direito, nos termos do artigo 17.º do Decreto n.º 26115, de 23 de Novembro de 1935, e por força do estabelecido no § único do mesmo artigo, ao abono para falhas de 450$00, mensal, correspondente à categoria M, em que é classificado.
+Art. 117.º O tesoureiro do IGC terá direito, nos termos do artigo 17.º do Decreto n.º 26115, de 23 de Novembro de 1935, e por força do estabelecido no § único do mesmo artigo, ao abono para falhas de 450$00, mensal, correspondente à categoria M, em que é classificado.
 
-###### Art. 118.º Por conveniência de serviço, ou pela urgência, características ou volume, poderá ser atribuído trabalho ao pessoal do Instituto em regime de tarefa, com remuneração a fixar por despacho ministerial, ou em regime de horas extraordinárias, de harmonia com as disposições legais em vigor.
+Art. 118.º Por conveniência de serviço, ou pela urgência, características ou volume, poderá ser atribuído trabalho ao pessoal do Instituto em regime de tarefa, com remuneração a fixar por despacho ministerial, ou em regime de horas extraordinárias, de harmonia com as disposições legais em vigor.
 
-###### Art. 119.º Continua a ser aplicada ao IGC toda a legislação em vigor não alterada por este diploma respeitante às atribuições e ao funcionamento dos serviços e aos deveres, direitos e regalias do seu pessoal.
+Art. 119.º Continua a ser aplicada ao IGC toda a legislação em vigor não alterada por este diploma respeitante às atribuições e ao funcionamento dos serviços e aos deveres, direitos e regalias do seu pessoal.
 
-###### Art. 120.º Poderão apoiar-se no Instituto para fins administrativos e funcionar junto dele o Conselho Nacional de Cartografia e o Conselho de Cadastro.
+Art. 120.º Poderão apoiar-se no Instituto para fins administrativos e funcionar junto dele o Conselho Nacional de Cartografia e o Conselho de Cadastro.
 
-###### Art. 121.º - 1. O conselho de direcção do IGC, dois anos após a publicação deste diploma, e posteriormente de cinco em cinco anos, deverá reexaminar a presente organização, submetendo à consideração superior as alterações que a experiência torne aconselháveis.
+Art. 121.º - 1. O conselho de direcção do IGC, dois anos após a publicação deste diploma, e posteriormente de cinco em cinco anos, deverá reexaminar a presente organização, submetendo à consideração superior as alterações que a experiência torne aconselháveis.
 
 2. No decurso dos dois primeiros anos após a aprovação da presente organização, o director-geral, ouvido o conselho de direcção, poderá apresentar propostas relativas a casos duvidosos, casos omissos ou outros que se revelem importantes para o bom funcionamento e organização dos serviços.
 
 Mapa I a que se refere o artigo 43.º do Decreto-Lei n.º 27/77
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01600/00950111.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01600/00950111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01600/00950111.pdf)
 
 INSTITUTO GEOGRÁFICO E CADASTRAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01600/00950111.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01600/00950111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01600/00950111.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira**
+O Ministro das Finanças, Henrique Medina Carreira

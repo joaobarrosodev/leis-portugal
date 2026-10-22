@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43473-1961-557982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4cb6688acc54a072bc13a35a14501eaf8c4c28ee380d6bcc23f772be4500264
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36a13d4fc24a6abbbcacda3ba32fb36f2fbc8fa70a5c917a2fa243e86a9e4855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cidadão Nacional
+- Deslocação ao Estrangeiro
+- Emigrante
+- Isenção de Taxas e Emolumentos
+- Licença Militar
+- Militar
+- Recrutamento Militar
+- Residente no Estrangeiro
+- Serviço Militar
+- TAXA Militar
 relationships:
 - type: amended_by
   target: pt:dre:303120:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:303120:por
+  label: "Aditado um nº 9º ao art. 9º do Dec Lei 35983 de 23-Nov de 1946, com a redacção conferida no presente diploma, pelo\
+    \ DEC LEI.4/74.09.01.1974.MX, DG.IS [4] de 09.01.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-1974-303120
+  date: '1974-01-09'
+- type: cites
+  target: pt:dre:149415:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:29Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +111,9 @@ Tendo em atenção o elevado número de trabalhadores que se deslocam ao estrang
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 5.º e 9.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946, são substituídos pelos seguintes:
+Artigo único. Os artigos 5.º e 9.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946, são substituídos pelos seguintes:
 
-###### Art. 5.º Não carecem de licença militar para se ausentar para o estrangeiro temporàriamente ou a título de mudança de residência:
+Art. 5.º Não carecem de licença militar para se ausentar para o estrangeiro temporàriamente ou a título de mudança de residência:
 
 a) Os isentos do serviço militar e os recrutas incorporados nas tropas territoriais sem instrução, quando uns e outros provem, por meio de documento passado pela entidade encarregada da cobrança, terem liquidado na sua totalidade o imposto da taxa militar, quando a ele sujeitos;
 
@@ -107,7 +127,7 @@ c) Os pertencentes às tropas territoriais ou ao escalão das tropas licenciadas
 
 ...
 
-###### Art. 9.º São isentos do pagamento das taxas de licença, ficando, porém, obrigados ao pagamento da taxa de expediente, quando o mesmo deva ter lugar:
+Art. 9.º São isentos do pagamento das taxas de licença, ficando, porém, obrigados ao pagamento da taxa de expediente, quando o mesmo deva ter lugar:
 
 1.º Os portugueses nascidos e residentes em país estrangeiro;
 
@@ -125,7 +145,7 @@ c) Os pertencentes às tropas territoriais ou ao escalão das tropas licenciadas
 
 8.º Os militares do quadro permanente em qualquer situação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Janeiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

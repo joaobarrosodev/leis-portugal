@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/570-1970-147258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3739cac2775aea1d54b63425d3c05fd187fbcaa45a9d813b3b599b70d5464ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3401ff110371f648940c8de9134e27db25613e18266921a28947ab693adf1511
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:139239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:23Z'
   warnings: []
   errors: []
 ---
@@ -89,63 +105,63 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º de artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 932685$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 932685$00, destinados a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 48.º «Remunerações certas ao pessoal em exercício»:
-
-N.º 1) «Pessoal dos quadros aprovados por lei»:
-
-(Durante três meses):
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
-
-### Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
-
-###### Artigo 84.º «Remunerações certas ao pessoal em exercício»:
+Artigo 48.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante três meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
+
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
+
+Artigo 84.º «Remunerações certas ao pessoal em exercício»:
+
+N.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante três meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 13.º «Remunerações certas ao pessoal em exercício»:
+Artigo 13.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante três meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 1.º-B «Conselho Superior da Acção Social»:
+Capítulo 1.º-B «Conselho Superior da Acção Social»:
 
 Despesas com o pessoal:
 
-###### Artigo 15.º-C «Remunerações certas ao pessoal em exercício»:
+Artigo 15.º-C «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante três meses e três dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27100/17421743.pdf)
 
-###### Artigo 15.º-D «Remunerações acidentais»:
+Artigo 15.º-D «Remunerações acidentais»:
 
 N.º 1) «Senhas de presença aos vogais» ... 37500$00
 
 N.º 2) «Remunerações por horas extraordinárias» ... 5000$00
 
-###### Artigo 15.º-E «Outras despesas com o pessoal»:
+Artigo 15.º-E «Outras despesas com o pessoal»:
 
 N.º 1) «Ajudas de custo» ... 15000$00
 
@@ -155,11 +171,11 @@ N.º 3) «Fardamentos, resguardos e calçado» ... 3000$00
 
 Despesas com o material:
 
-###### Artigo 15.º-F «Aquisições de utilização permanente»:
+Artigo 15.º-F «Aquisições de utilização permanente»:
 
 N.º 1) «Móveis» ... 50000$00
 
-###### Artigo 15.º-G «Despesas de conservação e aproveitamento de material»:
+Artigo 15.º-G «Despesas de conservação e aproveitamento de material»:
 
 N.º 1) «De semoventes»:
 
@@ -167,7 +183,7 @@ Alínea 1 «Veículos com motor» ... 12000$00
 
 N.º 2) «De móveis» ... 5000$00
 
-###### Artigo 15.º-H «Material de consumo corrente»:
+Artigo 15.º-H «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 15000$00
 
@@ -175,11 +191,11 @@ N.º 2) «Artigos de expediente e diverso material não especificado» ... 23000
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 15.º-I «Despesas de higiene, saúde e conforto»:
+Artigo 15.º-I «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Luz, aquecimento, água, lavagem e limpeza» ... 2000$00
 
-###### Artigo 15.º-J «Despesas do comunicações»:
+Artigo 15.º-J «Despesas do comunicações»:
 
 N.º 1) «Correios e telégrafos» ... 2500$00
 
@@ -187,7 +203,7 @@ N.º 2) «Telefones» ... 2000$00
 
 N.º 3) «Transportes» ... 1375$00
 
-###### Artigo 15.º-L «Encargos das instalações»:
+Artigo 15.º-L «Encargos das instalações»:
 
 N.º 1) «Rendas de casa» ... 32500$00
 
@@ -197,61 +213,61 @@ N.º 1) «Rendas de casa» ... 32500$00
 
 (nota a) 250607$00 são reembolsados.
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 205.º «Reembolsos diversos» ... 250607$00
+Capítulo 7.º, artigo 205.º «Reembolsos diversos» ... 250607$00
 
 Ministério das Finanças
 
-### Capítulo 4.º, artigo 47.º ... 422696$30
+Capítulo 4.º, artigo 47.º ... 422696$30
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º, artigo 48.º, n.º 1) ... 12000$00
+Capítulo 4.º, artigo 48.º, n.º 1) ... 12000$00
 
-### Capítulo 7.º, artigo 84.º, n.º 1) ... 42000$00
+Capítulo 7.º, artigo 84.º, n.º 1) ... 42000$00
 
 ... 54000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º, artigo 13.º, n.º 1) ... 6600$00
+Capítulo 2.º, artigo 13.º, n.º 1) ... 6600$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 3.º, artigo 43.º, n.º 1) ... 9000$00
+Capítulo 3.º, artigo 43.º, n.º 1) ... 9000$00
 
-### Capítulo 3.º, artigo 43.º, n.º 2) ... 15000$00
+Capítulo 3.º, artigo 43.º, n.º 2) ... 15000$00
 
-### Capítulo 3.º, artigo 44.º, n.º 1) ... 11700$00
+Capítulo 3.º, artigo 44.º, n.º 1) ... 11700$00
 
-### Capítulo 3.º, artigo 44.º, n.º 2) ... 2500$00
+Capítulo 3.º, artigo 44.º, n.º 2) ... 2500$00
 
-### Capítulo 3.º, artigo 47.º, n.º 1) ... 3950$00
+Capítulo 3.º, artigo 47.º, n.º 1) ... 3950$00
 
-### Capítulo 3.º, artigo 47.º, n.º 2) ... 2950$40
+Capítulo 3.º, artigo 47.º, n.º 2) ... 2950$40
 
-### Capítulo 3.º, artigo 48.º, n.º 1) ... 1500$00
+Capítulo 3.º, artigo 48.º, n.º 1) ... 1500$00
 
-### Capítulo 3.º, artigo 49.º, n.º 1) ... 675$00
+Capítulo 3.º, artigo 49.º, n.º 1) ... 675$00
 
-### Capítulo 3.º, artigo 49.º, n.º 2) ... 1243$60
+Capítulo 3.º, artigo 49.º, n.º 2) ... 1243$60
 
-### Capítulo 3.º, artigo 49.º, n.º 3) ... 3851$70
+Capítulo 3.º, artigo 49.º, n.º 3) ... 3851$70
 
-### Capítulo 3.º, artigo 50.º, n.º 1) ... 8911$00
+Capítulo 3.º, artigo 50.º, n.º 1) ... 8911$00
 
-### Capítulo 3.º, artigo 50.º, n.º 2) ... 25000$00
+Capítulo 3.º, artigo 50.º, n.º 2) ... 25000$00
 
 ... 86281$70
 
 Ministério da Saúde e Assistência
 
-### Capítulo 2.º, artigo 22.º, n.º 1) ... 90000$00
+Capítulo 2.º, artigo 22.º, n.º 1) ... 90000$00
 
-### Capítulo 3.º, artigo 24.º, n.º 2) ... 22500$00
+Capítulo 3.º, artigo 24.º, n.º 2) ... 22500$00
 
 ... 112500$00
 
@@ -261,8 +277,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Novembro de 1970.**
+Promulgado em 11 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

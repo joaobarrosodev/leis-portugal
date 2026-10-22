@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47033-1966-473512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecddd20025e67bd2f28fec9bd8c487bc6f9f02d63bbe92e3be2b13f976e89b6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6de4ac01197908996901c765e2321651108bd5f9e82a8ac1dce85705f1894dd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Freguesia
+- Vagos
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:16Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +95,20 @@ Considerando que se verificam todas as demais condições referidas no artigo 9.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Ouca, com sede na actual povoação do mesmo nome.
+Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Ouca, com sede na actual povoação do mesmo nome.
 
 § único. A freguesia de Ouca é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do marco situado no extremo sul da Quinta da Mónica, junto ao rio Boco, e tomando o sentido dos ponteiros do relógio, segue em linha recta, para nordeste, em direcção ao caminho do Pereiro, avançando depois por este até ao caminho da Gândara, pelo qual prossegue até encontrar o caminho das Presas; continua por este até atingir a estrada nacional n.º 333-1, a qual atravessa, progredindo sucessivamente, pelo caminho das Herbedeiras (lado poente), pelo caminho da estrada velha e pelo caminho das Herbedeiras (que serve o lugar do Boco) até encontrar o caminho Carregosa-Boco, por onde segue em sentido sudeste até alcançar a estrada municipal n.º 585; aqui inflecte para norte em direcção à estrada nacional n.º 333, continuando por esta, em sentido sudeste, até ao rego da Carregosa ou vala Matriz, situada em linha divisória dos concelhos de Vagos e Oliveira do Bairro; dirige-se então para sul, seguindo aquela linha até ao ponto onde convergem os limites dos concelhos de Vagos, Oliveira do Bairro e Cantanhede, passando depois a acompanhar a linha divisória entre os concelhos de Vagos e Cantanhede, até ao local onde se cruzam os caminhos de Vale do Junco, das Mesas e o que vem da Quinta dos Troviscais; aqui inflecte para noroeste, avançando pelos actuais limites entre a freguesia de Sosa e a de Covão do Lobo, ambas do concelho de Vagos, até alcançar a ribeira da Presa Velha; neste ponto inflecte para norte, prosseguindo pelos limites que actualmente separam a freguesia de Sosa das de Galvão e de Vagos, também do mencionado concelho, até ao ponto onde se iniciou a descrição.
+Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do marco situado no extremo sul da Quinta da Mónica, junto ao rio Boco, e tomando o sentido dos ponteiros do relógio, segue em linha recta, para nordeste, em direcção ao caminho do Pereiro, avançando depois por este até ao caminho da Gândara, pelo qual prossegue até encontrar o caminho das Presas; continua por este até atingir a estrada nacional n.º 333-1, a qual atravessa, progredindo sucessivamente, pelo caminho das Herbedeiras (lado poente), pelo caminho da estrada velha e pelo caminho das Herbedeiras (que serve o lugar do Boco) até encontrar o caminho Carregosa-Boco, por onde segue em sentido sudeste até alcançar a estrada municipal n.º 585; aqui inflecte para norte em direcção à estrada nacional n.º 333, continuando por esta, em sentido sudeste, até ao rego da Carregosa ou vala Matriz, situada em linha divisória dos concelhos de Vagos e Oliveira do Bairro; dirige-se então para sul, seguindo aquela linha até ao ponto onde convergem os limites dos concelhos de Vagos, Oliveira do Bairro e Cantanhede, passando depois a acompanhar a linha divisória entre os concelhos de Vagos e Cantanhede, até ao local onde se cruzam os caminhos de Vale do Junco, das Mesas e o que vem da Quinta dos Troviscais; aqui inflecte para noroeste, avançando pelos actuais limites entre a freguesia de Sosa e a de Covão do Lobo, ambas do concelho de Vagos, até alcançar a ribeira da Presa Velha; neste ponto inflecte para norte, prosseguindo pelos limites que actualmente separam a freguesia de Sosa das de Galvão e de Vagos, também do mencionado concelho, até ao ponto onde se iniciou a descrição.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Ouca realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Sosa.
+Art. 3.º A eleição da Junta de Freguesia de Ouca realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Sosa.
 
 § 1.º A Junta eleita nos termos deste artigo servirá até final do quadriénio em curso.
 
 § 2.º A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Vagos.
 
-###### Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

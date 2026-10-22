@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 300/1975, 5º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 2160-(69) a 2160-(113)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf
 entry_into_force_dates: []
@@ -46,40 +46,130 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/768-1975-355332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad88283e74d17123691c3c22fc63cf61890a3f80bd45362ca58bf922ab9fcbcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdccbe2a637c238fa72743425f82b9d17eaf59a444173fe0d5379e1020a8d1ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Informação
+- Autorização de Despesas
+- Cobrança de Impostos
+- Contabilidade Pública
+- Contribuições e Impostos
+- Definição de Competências
+- Despesas Públicas
+- Direcção Geral de Pessoal e Administração
+- Dotação Orçamental
+- Fundo de Fomento da Habitação
+- Fundos Autónomos
+- Gestão Financeira
+- Gestão Orçamental
+- Inspecção Geral dos Tribunais do Trabalho
+- Instituto de Oftalmologia do DR GAMA Pinto
+- Instituto Português de Oncologia de Francisco Gentil
+- Ministério da Cooperação
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério dos Assuntos Sociais
+- Ministro das Finanças
+- Obras Públicas
+- Orçamento Geral do Estado
+- Pessoal Docente
+- Receita Própria
+- Receita Pública
 relationships:
 - type: amended_by
   target: pt:dre:431215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602522:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507645:por
+  label: Rectificado pela DECL.DD8562.23.02.1976.PCM, DG.IS [45] de 23.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507645
+  date: '1976-02-23'
+- type: corrected_by
+  target: pt:dre:507273:por
+  label: Declarada nula e sem nenhum efeito a rectificação ao presente diploma efectuada pela Decl DD8562 de 23-Fev de 1976
+    pela DECL.DD8598.05.03.1976.PCM, DG.IS [55] de 05.03.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507273
+  date: '1976-03-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:28Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +242,7 @@ QUADRO I
 
 Síntese orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 1.ª PARTE
 
@@ -244,7 +334,7 @@ QUADRO II
 
 Índices de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 A política de preços seguida criou, no entanto, algumas dificuldades, de que importa salientar as seguintes:
 
@@ -268,13 +358,13 @@ QUADRO III
 
 Evolução dos salários médios diários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 QUADRO IV
 
 Distribuição dos trabalhadores por classes de remuneração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 Nota. - 1. Abrange os trabalhadores de mais de 20 anos da actividade privada, com excepção da agricultura e dos serviços domésticos.
 
@@ -290,7 +380,7 @@ QUADRO V
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 A principal medida, relativamente à balança comercial, tomada durante o ano de 1975 consistiu na introdução, em Maio, de sobretaxas sobre as importações, diferenciadas por tipos de bens e com valor de 20% ou 30%. Estas sobretaxas cobrem cerca de 45% das importações em valor, incidindo a primeira sobre cerca de 36% e a segunda sobre os restantes 9%. Na prática, porém, e dado o elevado número de isenções que têm sido concedidas, a incidência é bastante menor.
 
@@ -334,7 +424,7 @@ Situação da banca comercial
 
 (Saldos no fim do mês)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 Em resultado deste comportamento, a liquidez bancária continuou a agravar-se, descendo para níveis particularmente baixos. De facto, no final do mês de Junho último as reservas de caixa da banca comercial representavam apenas 4,5% dos seus depósitos, dos quais elevada percentagem é constituída pelas modalidades a prazo inferior a cento e oitenta dias.
 
@@ -350,7 +440,7 @@ Situação da Caixa Geral de Depósitos
 
 (Saldos no fim do mês)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 Todavia, por razões que se relacionarão com o prestígio adquirido e com a sua posição relativa mais favorável no conjunto das instituições bancárias, nomeadamente no que se refere às taxas de juro dos depósitos, este estabelecimento de crédito beneficiou, de Janeiro a Setembro do corrente ano, de um aumento significativo dos depósitos e expandiu a concessão de crédito à custa, na sua quase totalidade, de recursos financeiros por ele captados.
 
@@ -374,7 +464,7 @@ Situação do Banco de Fomento Nacional
 
 (Saldos no fim do mês)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 13. A actuação do Banco de Portugal ao longo do corrente ano teve naturalmente de orientar-se no sentido de fazer face às dificuldades experimentadas pelas outras instituições do sistema bancário e aos desequilíbrios económico-financeiros existentes, especialmente no que se refere ao deficit do sector público.
 
@@ -400,7 +490,7 @@ Banco de Portugal
 
 (Saldos no fim do mês)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 14. No 4.º trimestre deste ano, tanto quanto os elementos disponíveis permitem avaliar, a actuação do Banco de Portugal continuou a processar-se de harmonia com as tendências evidenciadas anteriormente, com as diferenças próprias da parte final do ano.
 
@@ -430,7 +520,7 @@ Meios totais de pagamento
 
 (Posições e variações)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 Continuou, entretanto, a crescer rapidamente o volume de notas em circulação fora do sistema bancário, cujo total atingiu até final de Junho passado cerca de 85 milhões de contos, evidenciando uma acentuação da preferência pela liquidez. Por sua vez, os depósitos a prazo tiverem ligeiro acréscimo entre Janeiro e Junho de 1975, enquanto em igual período do ano anterior se tinham expandido à taxa de 8,4%.
 
@@ -456,7 +546,7 @@ QUADRO XI
 
 Resultado da execução orçamental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 A diferença entre receitas e despesas ordinárias, que em 1974 foram suficientes para cobrir a totalidade das despesas extraordinárias autorizadas até ao final de Outubro, registou no corrente ano um valor apenas de 11019000 contos.
 
@@ -476,7 +566,7 @@ QUADRO XII
 
 Receitas ordinárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 Em relação aos impostos indirectos, observou-se comportamento relativamente favorável no período em referência. No entanto, embora as cobranças tenham registado um acréscimo apreciável, isso deve-se em larga medida aos efeitos das alterações introduzidas no decurso do 2.º semestre de 1974 nos regimes do imposto de transacções, do imposto do selo e das estampilhas fiscais e no imposto do fabrico de tabacos, que tiveram o seu pleno impacto em 1975. No caso do imposto de transacções, a taxa de crescimento sofreu certa desaceleração, devido ao abrandamento da actividade económica, que, conjugada com as dificuldades de liquidez, levou algumas empresas a retardar o pagamento do imposto.
 
@@ -492,7 +582,7 @@ QUADRO XIII
 
 Despesas públicas autorizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 As melhorias atribuídas aos servidores do Estado, durante a gerência de 1975, exerceram grande influência no crescimento da despesa ordinária. Assim, os encargos com o funcionalismo aumentaram em 1975 pela concessão de um mês completo de subsídio de férias e por novos aumentos de vencimentos, com efeitos a partir do mês de Maio. Estes encargos assumem especial relevo no sector da educação, onde, paralelamente aos aumentos gerais do funcionalismo, se verificou uma melhoria de situação nos professores, através de uma subida geral nas categorias. As autorizações emitidas pelo Ministério da Educação ascenderam a 29% do total autorizado em despesa ordinária. Igualmente, os encargos com o funcionalismo das autarquias locais foram a componente mais relevante no aumento de despesa ordinária verificado no Ministério da Administração Interna. Os elevados subsídios concedidos ao sector hospitalar, contribuindo largamente para o aumento nas despesas ordinárias do Ministério dos Assuntos Sociais, no valor de 1789000 contos, e a elevação dos encargos da dívida pública (+732000 contos), constituíram igualmente elementos influentes da evolução da despesa ordinária.
 
@@ -506,7 +596,7 @@ QUADRO XIV
 
 Dívida pública directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 Relativamente à dívida interna, o valor das obrigações do Tesouro atingiu, no final de Setembro, mais 9,4 milhões de contos do que no início do ano, devido à realização de novos empréstimos: um, sob forma de emissão pública, realizada no princípio do ano e subscrita em cerca de 53% por particulares, e outro, colocado inteiramente no Banco de Portugal, em Setembro. Posteriormente foram efectuadas duas novas emissões de obrigações do Tesouro: a primeira, no valor de 5 milhões de contos, destinada à execução do programa de investimentos públicos, e a segunda, no valor de 2 milhões de contos, para o apoio aos retornados do ultramar.
 
@@ -532,7 +622,7 @@ QUADRO XV
 
 Receitas ordinárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 No conjunto, prevê-se neste Orçamento que as receitas ordinárias totais aumentem a uma taxa da ordem de 23% em relação às cobranças de 1975, devido em grande parte às medidas fiscais agora decretadas.
 
@@ -592,7 +682,7 @@ QUADRO XVI
 
 Despesas ordinárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 O valor fixado para as despesas ordinárias neste Orçamento traduz, por outro lado, um acréscimo de cerca de 17% em relação à estimativa das despesas dessa natureza realizadas em 1975, a qual excede largamente o valor inicialmente orçamentado devido ao elevado volume atingido pelos reforços de dotações efectuados ao longo do ano. Neste confronto, os aumentos de maior relevância correspondem aos departamentos militares e aos Ministérios das Finanças, da Educação e Investigação Científica e dos Assuntos Sociais.
 
@@ -626,7 +716,7 @@ QUADRO XVII
 
 Despesas extraordinárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 33. Os encargos extraordinários com a defesa e segurança a realizar durante a gerência de 1976 foram fixados em 2047500 contos. Prevê-se, assim, uma diminuição muito importante desses encargos em comparação com o montante efectivamente despendido em 1975, que deverá ser da ordem de 9 milhões de contos. Terá de atender-se, porém, ao facto de, conforme se referiu, na despesa ordinária para 1976 terem passado a figurar as remunerações de efectivos que anteriormente prestavam serviço no ultramar.
 
@@ -674,7 +764,7 @@ QUADRO XVIII
 
 Programa de investimentos do Plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 Em face da situação de crise económica que o País defronta, procedeu-se a uma selecção dos investimentos a realizar em 1976, que mais poderão contribuir para a criação de novos empregos e para o crescimento do produto nacional, tendo ainda em conta a necessidade de dar continuidade aos empreendimentos em curso.
 
@@ -692,7 +782,7 @@ Despesas extraordinárias
 
 Programa de investimentos do Plano para 1976
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 No programa de investimentos abrangidos no Plano compreendem-se igualmente importantes empreendimentos de natureza social, relativos aos sectores «Educação» e «Saúde».
 
@@ -786,7 +876,7 @@ QUADRO XX
 
 Receitas extraordinárias efectivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
 As previsões apresentadas permitem verificar que o recurso ao crédito apresenta, em 1976, expressão bastante elevada. A maior parte dos meios financeiros provenientes dessa origem será utilizada na cobertura de despesas directamente ligadas ao desenvolvimento económico. Porém, a conjuntura que se atravessa, aliada ao processo de transformação em curso da sociedade portuguesa, obriga também a recorrer ao crédito para cobrir avultadas despesas necessárias, ainda que sem carácter reprodutivo, que os recursos fiscais normais presentemente não comportam.
 
@@ -824,29 +914,29 @@ As tarefas apontadas não são, certamente, as únicas que será necessário emp
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Pelo presente diploma é aprovado o Orçamento Geral do Estado para o ano de 1976.
+Artigo 1.º Pelo presente diploma é aprovado o Orçamento Geral do Estado para o ano de 1976.
 
-###### Art. 2.º O Governo procederá, em 1976, à arrecadação, pelos serviços competentes, das contribuições, impostos e mais rendimentos do Estado e à obtenção dos outros recursos indispensáveis à administração financeira, de harmonia com as normas legais aplicáveis, e utilizará o seu produto no pagamento das despesas inscritas no Orçamento Geral do Estado respeitante ao mesmo ano.
+Art. 2.º O Governo procederá, em 1976, à arrecadação, pelos serviços competentes, das contribuições, impostos e mais rendimentos do Estado e à obtenção dos outros recursos indispensáveis à administração financeira, de harmonia com as normas legais aplicáveis, e utilizará o seu produto no pagamento das despesas inscritas no Orçamento Geral do Estado respeitante ao mesmo ano.
 
-###### Art. 3.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1976 são avaliados em 105521953017$00, sendo 68228640410$00 de receitas ordinárias e 37293312607$00 de receitas extraordinárias, conforme o mapa n.º 1, que faz parte do presente diploma.
+Art. 3.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1976 são avaliados em 105521953017$00, sendo 68228640410$00 de receitas ordinárias e 37293312607$00 de receitas extraordinárias, conforme o mapa n.º 1, que faz parte do presente diploma.
 
-###### Art. 4.º São fixadas as despesas ordinárias e extraordinárias do Estado para o ano de 1976 na quantia de 105521953017$00, sendo as ordinárias de 66019228017$00 e as extraordinárias de 39502725000$00, conforme o mapa n.º 2, que faz parte do presente diploma.
+Art. 4.º São fixadas as despesas ordinárias e extraordinárias do Estado para o ano de 1976 na quantia de 105521953017$00, sendo as ordinárias de 66019228017$00 e as extraordinárias de 39502725000$00, conforme o mapa n.º 2, que faz parte do presente diploma.
 
-###### Art. 5.º São autorizados os serviços autónomos e os que se regem por orçamentos cujas tabelas não estejam incluídas no Orçamento Geral do Estado a aplicar as receitas próprias na satisfação das suas despesas, constantes dos respectivos orçamentos, previamente aprovados e visados.
+Art. 5.º São autorizados os serviços autónomos e os que se regem por orçamentos cujas tabelas não estejam incluídas no Orçamento Geral do Estado a aplicar as receitas próprias na satisfação das suas despesas, constantes dos respectivos orçamentos, previamente aprovados e visados.
 
-###### Art. 6.º As receitas dos serviços autónomos, constantes do mapa n.º 3, que faz parte do presente diploma, são avaliadas no ano de 1976 na quantia total de 3738604620$00, e em igual importância são fixadas as despesas dos mesmos serviços.
+Art. 6.º As receitas dos serviços autónomos, constantes do mapa n.º 3, que faz parte do presente diploma, são avaliadas no ano de 1976 na quantia total de 3738604620$00, e em igual importância são fixadas as despesas dos mesmos serviços.
 
-###### Art. 7.º Enquanto não se procede à sua revisão, considera-se suspensa a execução do [Decreto-Lei n.º 742/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/742-1974-461430), de 27 de Dezembro.
+Art. 7.º Enquanto não se procede à sua revisão, considera-se suspensa a execução do [Decreto-Lei n.º 742/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/742-1974-461430), de 27 de Dezembro.
 
-###### Art. 8.º - 1. Na execução do orçamento para 1976, os serviços do Estado, autónomos ou não, os institutos públicos, incluindo os organismos de coordenação económica, as autarquias locais e as pessoas colectivas de utilidade pública administrativa observarão normas de rigorosa economia na administração das verbas atribuídas às respectivas despesas.
+Art. 8.º - 1. Na execução do orçamento para 1976, os serviços do Estado, autónomos ou não, os institutos públicos, incluindo os organismos de coordenação económica, as autarquias locais e as pessoas colectivas de utilidade pública administrativa observarão normas de rigorosa economia na administração das verbas atribuídas às respectivas despesas.
 
 2. Os dirigentes dos diferentes departamentos ficarão responsáveis, nos termos das leis em vigor, pela realização das despesas que autorizarem sem inscrição orçamental ou que não se comportem nas correspondentes dotações.
 
-###### Art. 9.º Durante o ano de 1976 é vedado criar ou alterar, sem prévia e expressa concordância do Ministro das Finanças, taxas, diferenciais e outras contribuições especiais a cobrar pelos serviços do Estado ou por organismos de coordenação económica.
+Art. 9.º Durante o ano de 1976 é vedado criar ou alterar, sem prévia e expressa concordância do Ministro das Finanças, taxas, diferenciais e outras contribuições especiais a cobrar pelos serviços do Estado ou por organismos de coordenação económica.
 
-###### Art. 10.º A fim de assegurar a disciplina da execução orçamental durante o ano de 1976, os créditos especiais abertos ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro, serão reunidos num único diploma, a publicar no início do último mês de cada trimestre.
+Art. 10.º A fim de assegurar a disciplina da execução orçamental durante o ano de 1976, os créditos especiais abertos ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro, serão reunidos num único diploma, a publicar no início do último mês de cada trimestre.
 
-###### Art. 11.º - 1. Em 1976 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
+Art. 11.º - 1. Em 1976 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
 
 a) De valor até 150000$00;
 
@@ -860,25 +950,25 @@ c) De encargos fixos mensais ou que se vençam em data certa.
 
 4. Nos serviços com orçamentos próprios a competência designada no número anterior pertence à entidade que aprovar o respectivo orçamento, sem necessidade de intervenção da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 12.º - 1. De harmonia com os compromissos internacionais e para ocorrer a exigências de defesa militar, é elevada em 320000 contos a importância corrigida pelo artigo 11.º do [Decreto-Lei n.º 809/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/809-1974-235955), de 31 de Dezembro.
+Art. 12.º - 1. De harmonia com os compromissos internacionais e para ocorrer a exigências de defesa militar, é elevada em 320000 contos a importância corrigida pelo artigo 11.º do [Decreto-Lei n.º 809/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/809-1974-235955), de 31 de Dezembro.
 
 2. Para os referidos fins e de acordo com o artigo 25.º e seu § único da [Lei n.º 2050](https://diariodarepublica.pt/dr/detalhe/lei/2050-1951-593972), de 27 de Dezembro de 1951, a verba inscrita no orçamento para 1976 poderá ser reforçada com a importância destinada ao mesmo objectivo e não despendida durante as gerências anteriores.
 
-###### Art. 13.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
+Art. 13.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
 
-###### Art. 14.º Os fundos permanentes a constituir no ano de 1976 ficam dispensados de autorização ministerial a que se refere o artigo 24.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930, desde que o responsável pelo fundo seja o mesmo e a importância em conta de cada dotação não seja superior à que foi autorizada no ano transacto.
+Art. 14.º Os fundos permanentes a constituir no ano de 1976 ficam dispensados de autorização ministerial a que se refere o artigo 24.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930, desde que o responsável pelo fundo seja o mesmo e a importância em conta de cada dotação não seja superior à que foi autorizada no ano transacto.
 
-###### Art. 15.º As dotações do Orçamento Geral do Estado, dos organismos de coordenação económica e dos fundos e serviços autónomos, para execução dos investimentos do Plano, não poderão ser aplicadas sem a sua especificação em programas devidamente aprovados e visados.
+Art. 15.º As dotações do Orçamento Geral do Estado, dos organismos de coordenação económica e dos fundos e serviços autónomos, para execução dos investimentos do Plano, não poderão ser aplicadas sem a sua especificação em programas devidamente aprovados e visados.
 
-###### Art. 16.º Mediante proposta aprovada pelo Ministro do Equipamento Social, poderá o Ministro das Finanças autorizar, a favor do Fundo de Fomento da Habitação, a concessão de um subsídio até ao limite de 77600000$00, destinado à cobertura do deficit previsto no orçamento ordinário daquele Fundo para 1976.
+Art. 16.º Mediante proposta aprovada pelo Ministro do Equipamento Social, poderá o Ministro das Finanças autorizar, a favor do Fundo de Fomento da Habitação, a concessão de um subsídio até ao limite de 77600000$00, destinado à cobertura do deficit previsto no orçamento ordinário daquele Fundo para 1976.
 
-###### Art. 17.º - 1. As dotações inscritas na despesa extraordinária do orçamento de Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea respeitantes a encargos subordinados à designação «Forças militares extraordinárias» serão distribuídas pelo Chefe do Estado-Maior-General das Forças Armadas aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
+Art. 17.º - 1. As dotações inscritas na despesa extraordinária do orçamento de Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea respeitantes a encargos subordinados à designação «Forças militares extraordinárias» serão distribuídas pelo Chefe do Estado-Maior-General das Forças Armadas aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
 
 2. As respectivas despesas realizar-se-ão no regime estabelecido pelo [Decreto-Lei n.º 31286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31286-1941-329246), de 28 de Maio de 1941, e estão sujeitas, na parte aplicável, às disposições da [Portaria n.º 13816](https://diariodarepublica.pt/dr/detalhe/portaria/13816-1952-602522), de 24 de Janeiro de 1952.
 
 3. A classificação e a realização das despesas não carecem, porém, do visto do Ministro das Finanças quando, relativas a obras ou aquisições, tenham lugar segundo os preceitos normais estabelecidos pelos Decretos-Leis n.os 41375 e 48234, respectivamente de 19 de Novembro de 1957 e 31 de Janeiro de 1968.
 
-###### Art. 18.º - 1. A dotação consignada no orçamento da despesa extraordinária do Ministério da Administração Interna a subsídios aos corpos administrativos para obras e equipamentos será aplicada mediante programa de distribuição a aprovar em Conselho de Ministros.
+Art. 18.º - 1. A dotação consignada no orçamento da despesa extraordinária do Ministério da Administração Interna a subsídios aos corpos administrativos para obras e equipamentos será aplicada mediante programa de distribuição a aprovar em Conselho de Ministros.
 
 2. Do mesmo modo, as dotações atribuídas ao Ministério do Equipamento Social, destinadas a comparticipações às autarquias locais para obras e melhoramentos, incluídas nos investimentos do Plano, serão aplicadas mediante programa de distribuição a aprovar em Conselho de Ministros.
 
@@ -886,19 +976,19 @@ c) De encargos fixos mensais ou que se vençam em data certa.
 
 4. No ano de 1976 o Fundo de Desemprego comparticipará com 1,5 milhões de contos na concessão dos subsídios referidos no número anterior.
 
-###### Art. 19.º No ano de 1976, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pelas dotações inscritas nos artigos 288.º, n.º 2, e 290.º, n.º 2, do capítulo 11.º do orçamento do mesmo Ministério.
+Art. 19.º No ano de 1976, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pelas dotações inscritas nos artigos 288.º, n.º 2, e 290.º, n.º 2, do capítulo 11.º do orçamento do mesmo Ministério.
 
-###### Art. 20.º Os juros do empréstimo consolidado dos Centenários de 4%, 1940, correspondentes ao 1.º e 2.º semestres de 1976 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1141088500$00, serão pagos em conta das dotações inscritas no orçamento para 1976 para pagamento da dívida externa.
+Art. 20.º Os juros do empréstimo consolidado dos Centenários de 4%, 1940, correspondentes ao 1.º e 2.º semestres de 1976 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1141088500$00, serão pagos em conta das dotações inscritas no orçamento para 1976 para pagamento da dívida externa.
 
-###### Art. 21.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba «Despesas de anos findos», descrita no orçamento do Ministério das Finanças para o ano de 1976, os encargos respeitantes a anos findos provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
+Art. 21.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba «Despesas de anos findos», descrita no orçamento do Ministério das Finanças para o ano de 1976, os encargos respeitantes a anos findos provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
 
-###### Art. 22.º Os encargos respeitantes aos subsídios de Natal e de férias de anos anteriores serão satisfeitos, com dispensa das formalidades que orientam o pagamento das despesas de anos findos, em conta das correspondentes verbas inscritas nos orçamentos dos respectivos Ministérios.
+Art. 22.º Os encargos respeitantes aos subsídios de Natal e de férias de anos anteriores serão satisfeitos, com dispensa das formalidades que orientam o pagamento das despesas de anos findos, em conta das correspondentes verbas inscritas nos orçamentos dos respectivos Ministérios.
 
-###### Art. 23.º - 1. As dotações inscritas em despesa extraordinária no n.º 1 do artigo 132.º, capítulo 16.º, do orçamento do Ministério da Cooperação e no n.º 1 do artigo 238.º, capítulo 26.º, do orçamento do Ministério dos Assuntos Sociais não poderão ser aplicadas sem prévio programa devidamente aprovado pelo Ministro das Finanças e pelo Ministro da correspondente pasta.
+Art. 23.º - 1. As dotações inscritas em despesa extraordinária no n.º 1 do artigo 132.º, capítulo 16.º, do orçamento do Ministério da Cooperação e no n.º 1 do artigo 238.º, capítulo 26.º, do orçamento do Ministério dos Assuntos Sociais não poderão ser aplicadas sem prévio programa devidamente aprovado pelo Ministro das Finanças e pelo Ministro da correspondente pasta.
 
 2. Independentemente da prestação anual de contas nos termos regulamentares, deverão ser organizadas pelos departamentos responsáveis, trimestralmente e por forma resumida, contas da aplicação das dotações referidas no n.º 1, que deverão ser presentes aos mesmos membros do Governo até ao fim do mês seguinte ao trimestre a que respeitem.
 
-###### Art. 24.º - 1. As dotações comuns consignadas a vencimentos do pessoal dos liceus e escolas técnicas, do ciclo preparatório e do magistério primário, descritas no orçamento de despesa ordinária do Ministério da Educação e Investigação Científica para o ano de 1976, serão utilizadas por cada um dos respectivos estabelecimentos de ensino de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que efectivamente estiver em exercício, sendo as correspondentes informações de cabimento prestadas:
+Art. 24.º - 1. As dotações comuns consignadas a vencimentos do pessoal dos liceus e escolas técnicas, do ciclo preparatório e do magistério primário, descritas no orçamento de despesa ordinária do Ministério da Educação e Investigação Científica para o ano de 1976, serão utilizadas por cada um dos respectivos estabelecimentos de ensino de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que efectivamente estiver em exercício, sendo as correspondentes informações de cabimento prestadas:
 
 Pelos respectivos estabelecimentos, tratando-se de pessoal dos quadros aprovados por lei;
 
@@ -908,13 +998,13 @@ Pela Direcção-Geral de Pessoal e Administração, nos restantes casos.
 
 3. À Direcção-Geral da Educação Permanente compete prestar informação de cabimento nos diplomas de nomeação dos regentes de cursos de educação de adultos.
 
-###### Art. 25.º - 1. As alterações que no decurso do ano hajam de se efectuar nas verbas descritas em cada separata das dotações do orçamento do Ministério da Educação e Investigação Científica, que continuam a ser distribuídas mediante planos aprovados pelo respectivo Ministro, serão por este autorizadas com dispensa de qualquer outra formalidade.
+Art. 25.º - 1. As alterações que no decurso do ano hajam de se efectuar nas verbas descritas em cada separata das dotações do orçamento do Ministério da Educação e Investigação Científica, que continuam a ser distribuídas mediante planos aprovados pelo respectivo Ministro, serão por este autorizadas com dispensa de qualquer outra formalidade.
 
 2. Dos planos de distribuição das indicadas dotações e das alterações autorizadas nos termos do número anterior será dado conhecimento à 10.ª Delegação da Direcção-Geral da Contabilidade Pública e, somente quanto às alterações, à Direcção-Geral do Tribunal de Contas.
 
-###### Art. 26.º Os Institutos Bacteriológico de Câmara Pestana, de Oftalmologia do Dr. Gama Pinto e Português de Oncologia de Francisco Gentil, na aplicação das suas receitas próprias, deverão observar os preceitos legais e regulamentares estabelecidos para a elaboração e execução de orçamentos privativos, sendo dispensados do disposto na parte final do artigo 5.º do Decreto com força de lei n.º 15661, de 1 de Julho de 1928, e do artigo 1.º do Decreto com força de lei n.º 16292, de 15 de Dezembro do mesmo ano.
+Art. 26.º Os Institutos Bacteriológico de Câmara Pestana, de Oftalmologia do Dr. Gama Pinto e Português de Oncologia de Francisco Gentil, na aplicação das suas receitas próprias, deverão observar os preceitos legais e regulamentares estabelecidos para a elaboração e execução de orçamentos privativos, sendo dispensados do disposto na parte final do artigo 5.º do Decreto com força de lei n.º 15661, de 1 de Julho de 1928, e do artigo 1.º do Decreto com força de lei n.º 16292, de 15 de Dezembro do mesmo ano.
 
-###### Art. 27.º - 1. Enquanto por via legislativa não forem definidas as normas de integração da justiça do trabalho na estrutura do Ministério da Justiça, as dotações destinadas a suportar encargos da mesma natureza, consignadas à Inspecção-Geral dos Tribunais do Trabalho, e as comuns aos tribunais do trabalho mantêm-se inscritas no orçamento ordinário do Ministério do Trabalho.
+Art. 27.º - 1. Enquanto por via legislativa não forem definidas as normas de integração da justiça do trabalho na estrutura do Ministério da Justiça, as dotações destinadas a suportar encargos da mesma natureza, consignadas à Inspecção-Geral dos Tribunais do Trabalho, e as comuns aos tribunais do trabalho mantêm-se inscritas no orçamento ordinário do Ministério do Trabalho.
 
 2. No ano de 1976 as dotações referidas no número anterior, com excepção das relativas a vencimentos, serão distribuídas mediante plano aprovado pelo Ministro do Trabalho e aplicadas por cada um dos aludidos tribunais, sem observância do disposto no § 2.º do artigo 13.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
@@ -922,31 +1012,31 @@ Pela Direcção-Geral de Pessoal e Administração, nos restantes casos.
 
 4. Enquanto se mantiver o condicionalismo previsto neste artigo, a informação de cabimento nos diplomas de provimento dos magistrados e funcionários de justiça dos mencionados tribunais será prestada pela Inspecção-Geral dos Tribunais do Trabalho.
 
-###### Art. 28.º Este decreto-lei entra em vigor em 1 de Janeiro de 1976.
+Art. 28.º Este decreto-lei entra em vigor em 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes - Álvaro Augusto Veiga de Oliveira - Walter Ruivo Pinto Gomes Rosa - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa - António de Almeida Santos.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 N.º 1
 
 Mapa da receita ordinária e extraordinária do Estado para o ano económico de 1976, a que se refere o decreto-lei desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.
 
 N.º 2
 
 Mapa da despesa ordinária e extraordinária do Estado, para o ano económico de 1976, a que se refere o decreto-lei desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30005/00690113.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.
 
 N.º 3
 
@@ -984,4 +1074,4 @@ Despesa de administração e assistência ... 2423604620$00
 
 ... 3738604620$00
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

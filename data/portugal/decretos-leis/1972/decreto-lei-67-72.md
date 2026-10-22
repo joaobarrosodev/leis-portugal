@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1972-398806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec21ea32b541d61ce9ffc3e1cd2969b6c52f56ce5d81f57a7cf48a67c5c9e8c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc8a21d2309354feb14eb88aa35c09c5b9734d55bb10de331f432f589c981b5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Concurso Público
+- Contrato de Concessão
+- Exploração Portuária
+- Tráfego Marítimo
+relationships:
+- type: cites
+  target: pt:dre:215972:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:35Z'
   warnings: []
   errors: []
 ---
@@ -114,25 +123,25 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Fica a Administração dos Portos do Douro e Leixões (A. P. D. L.) autorizada a contratar a concessão do exercício do tráfego portuário nos entrepostos e cais livres sob sua jurisdição com uma sociedade comercial constituída exclusivamente por todos os agentes de tráfego inscritos na A. P. D. L. e que da mesma sociedade desejem fazer parte.
+Artigo 1.º - 1. Fica a Administração dos Portos do Douro e Leixões (A. P. D. L.) autorizada a contratar a concessão do exercício do tráfego portuário nos entrepostos e cais livres sob sua jurisdição com uma sociedade comercial constituída exclusivamente por todos os agentes de tráfego inscritos na A. P. D. L. e que da mesma sociedade desejem fazer parte.
 
 2. Será homologado pelo conselho de administração da A. P. D. L. o pacto social da sociedade.
 
-###### Art. 2.º - 1. A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante e baixam assinadas pelo Ministro das Comunicações.
+Art. 2.º - 1. A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante e baixam assinadas pelo Ministro das Comunicações.
 
 2. O contrato poderá ser celebrado logo que a respectiva minuta tenha sido aprovada pelo Ministro das Comunicações.
 
-###### Art. 3.º - 1 Se o contrato não se celebrar dentro do prazo de noventa dias a contar da publicação do presente diploma, fica desde já a A. P. D. L. autorizada a abrir concurso público para a concessão, em regime de exclusivo, do exercício do tráfego portuário nos entrepostos e cais livres sob sua jurisdição.
+Art. 3.º - 1 Se o contrato não se celebrar dentro do prazo de noventa dias a contar da publicação do presente diploma, fica desde já a A. P. D. L. autorizada a abrir concurso público para a concessão, em regime de exclusivo, do exercício do tráfego portuário nos entrepostos e cais livres sob sua jurisdição.
 
 2. O prazo referido no número anterior poderá ser prorrogado, por uma só vez, por despacho do Ministro das Comunicações.
 
 Visto aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 23 de Fevereiro de 1972.**
+Promulgado em 23 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -306,4 +315,4 @@ e) Violação grave da lei ou de qualquer das cláusulas do contrato havidas por
 
 5. A rescisão implicará a perda a favor da A. P. D. L. da caução a que se refere a base XI e será imposta sem prejuízo da responsabilidade civil em que incorrer a concessionária e das sanções previstas na lei ou no contrato.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

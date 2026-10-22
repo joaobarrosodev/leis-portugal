@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16400/17191723.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1980-472486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68892d1746ced867507d3f423341a373d07eb20e87caab906f16652cf9c4de53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c6b2b9ae93d6cccff12134e0e400c462d1f6097c2e06ef2681e604626f0da71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo Central de Registos e Informações
+- Carreira Profissional
+- Conselho Superior de Polícia
+- Definição de Competências
+- Directoria-geral da Polícia Judiciária
+- Escola de Polícia Judiciária
+- Gabinete Nacional da Interpol
+- Inspecção da Polícia Judiciária
+- Instrução Criminal
+- Investigação Criminal
+- Laboratório de Polícia Científica
+- Livre Trânsito
+- Ministério Público
+- Ministro da Justiça
+- Orgânica
+- Pessoal Dirigente
+- Polícia Judiciária
+- Prevenção Criminal
+- Procurador Geral da República
+- Promoção Profissional
+- Quadro de Pessoal
+- Segredo Profissional
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal da Escola de Polícia Judiciária, a que se refere o n.º 1 do art. 19.º, pela PORT.316/87.16.04.1987.MF,
+    DR.IS [89] de 16.04.1987, que passa a ser o constante do seu anexo VI
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380091:por
+  label: "Revogado com excepção dos artigos 4.º a 7.º, 10.º, n.º 5, e 14.º a 18.º, pelo DEC LEI.458/82.24.11.1982.MJ, DR.IS\
+    \ [272] de 24.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1982-380091
+  date: '1982-11-24'
+- type: repealed_by
+  target: pt:dre:553435:por
+  label: "Revogado pelo DEC LEI.295-A/90.21.09.1990.MJ, DR.IS [219]Supl de 21.09.1990, nos termos do seu artigo 182.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-a-1990-553435
+  date: '1990-09-21'
+- type: repealed_by
+  target: pt:dre:455412:por
+  label: "Revogadas, a partir de 05.09.2008 e nos termos da al. b) do art. 58º, as disposições normativas referentes ao Instituto\
+    \ Superior de Polícia Judiciária e Ciências Criminais pela LEI.37/2008.06.08.2008.AR, DR.IS [151] de 06.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2008-455412
+  date: '2008-08-06'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:38Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +178,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os textos actuais dos artigos 17.º, 19.º, 26.º, 45.º e 91.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os textos actuais dos artigos 17.º, 19.º, 26.º, 45.º e 91.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, passam a ter a seguinte redacção:
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Directoria-Geral)
 
@@ -128,7 +206,7 @@ h) O Gabinete Nacional da Interpol;
 
 i) O conselho administrativo.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Competência dos directores-adjuntos da Directoria-Geral)
 
@@ -144,7 +222,7 @@ d) Efectuar a ligação entre a actividade da Polícia Judiciária e da Guarda N
 
 e) Dirigir a Direcção Central de Combate ao Banditismo.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Competência da Direcção Central de Prevenção e Investigação)
 
@@ -160,7 +238,7 @@ d) ...
 
 2 - ...
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Dever de colaboração)
 
@@ -168,7 +246,7 @@ d) ...
 
 2 - Ao Arquivo serão também remetidas pelo Tribunal de Execução de Penas cópias das decisões proferidas no âmbito dos processos de segurança, complementar, gracioso e supletivo.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Director-geral)
 
@@ -176,9 +254,9 @@ d) ...
 
 2 - A comissão de serviço referida no número anterior não determina a abertura de vaga no lugar de origem.
 
-###### Art. 2.º É acrescentado ao [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, o artigo 26.º-A, com a seguinte redacção:
+Art. 2.º É acrescentado ao [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, o artigo 26.º-A, com a seguinte redacção:
 
-###### ARTIGO 26.º-A
+ARTIGO 26.º-A
 
 (Composição e competência da Direcção Central de Combate ao Banditismo)
 
@@ -188,15 +266,15 @@ d) ...
 
 3 - A Direcção Central de Combate ao Banditismo divide-se em secções centrais, compostas por brigadas.
 
-###### Art. 3.º Fica revogado o n.º 2 do artigo 25º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro.
+Art. 3.º Fica revogado o n.º 2 do artigo 25º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro.
 
-###### Art. 4.º No âmbito da competência conferida ao Ministério Público pelo artigo 3.º, alíneas e), f) e j), da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, podem ser colocados junto dos departamentos da Polícia Judiciária em Lisboa, Porto e Coimbra delegados do procurador da República sempre que tal se mostre necessário para se conseguir uma mais rápida e racional tramitação dos inquéritos a cargo da Polícia Judiciária.
+Art. 4.º No âmbito da competência conferida ao Ministério Público pelo artigo 3.º, alíneas e), f) e j), da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho, podem ser colocados junto dos departamentos da Polícia Judiciária em Lisboa, Porto e Coimbra delegados do procurador da República sempre que tal se mostre necessário para se conseguir uma mais rápida e racional tramitação dos inquéritos a cargo da Polícia Judiciária.
 
-###### Art. 5.º Na elaboração dos inquéritos da sua competência pode a Polícia Judiciária socorrer-se de escriturários-dactilógrafos, enquadrados por pessoal de investigação.
+Art. 5.º Na elaboração dos inquéritos da sua competência pode a Polícia Judiciária socorrer-se de escriturários-dactilógrafos, enquadrados por pessoal de investigação.
 
-###### Art. 6.º O ingresso, para além dos requisitos da lei geral, pode depender da sujeição a exames médicos, testes ou cursos selectivos.
+Art. 6.º O ingresso, para além dos requisitos da lei geral, pode depender da sujeição a exames médicos, testes ou cursos selectivos.
 
-###### Art. 7.º Os escriturários-dactilógrafos podem ascender à carreira de investigação criminal, desde que reúnam os seguintes requisitos:
+Art. 7.º Os escriturários-dactilógrafos podem ascender à carreira de investigação criminal, desde que reúnam os seguintes requisitos:
 
 a) Curso geral dos liceus ou equivalente, como habilitações literárias mínimas;
 
@@ -204,11 +282,11 @@ b) Três anos de bom e efectivo serviço na Polícia Judiciária;
 
 c) Aprovação no curso a que se refere a alínea a) do n.º 1 do artigo 108.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro.
 
-###### Art. 8.º O quadro único do pessoal da Polícia Judiciária é aditado nos termos constantes do mapa anexo ao presente diploma.
+Art. 8.º O quadro único do pessoal da Polícia Judiciária é aditado nos termos constantes do mapa anexo ao presente diploma.
 
-###### Art. 9.º O artigo 113.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, passa a ter a seguinte redacção:
+Art. 9.º O artigo 113.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, passa a ter a seguinte redacção:
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Peritos de criminalística)
 
@@ -224,7 +302,7 @@ c) Aprovação no curso a que se refere a alínea a) do n.º 1 do artigo 108.º 
 
 6 - Podem ser recrutados peritos de criminalística para o Arquivo Central de Registos e Informações, bem como para os arquivos de registos e informações.
 
-###### Art. 10.º - 1 - É criada a carreira de auxiliares de segurança, a qual se desenvolve pelas categorias de principal, de 1.ª e de 2.ª classes.
+Art. 10.º - 1 - É criada a carreira de auxiliares de segurança, a qual se desenvolve pelas categorias de principal, de 1.ª e de 2.ª classes.
 
 2 - O ingresso das futuras unidades depende da posse da escolaridade obrigatória como habilitação mínima, podendo ser condicionado à prestação de provas de selecção.
 
@@ -234,21 +312,21 @@ c) Aprovação no curso a que se refere a alínea a) do n.º 1 do artigo 108.º 
 
 5 - Os auxiliares de segurança podem ascender à carreira de investigação criminal desde que reúnam os requisitos fixados pelo artigo 7.º
 
-###### Art. 11.º - 1 - A carreira de técnico auxiliar contabilista desenvolve-se pelas categorias de 1.ª e 2.ª classes.
+Art. 11.º - 1 - A carreira de técnico auxiliar contabilista desenvolve-se pelas categorias de 1.ª e 2.ª classes.
 
 2 - Os técnicos auxiliares contabilistas de 1.ª classe são providos de entre técnicos auxiliares contabilistas de 2.ª classe, nos termos do disposto no [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro.
 
-###### Art. 12.º Os actuais operadores de reprografia que desempenham funções de impressão de offset e de composição transitam para a categoria correspondente das carreiras de impressor de offset e de compositor gráfico, contando-se, nas novas carreiras, o tempo de serviço anteriormente prestado naquelas funções.
+Art. 12.º Os actuais operadores de reprografia que desempenham funções de impressão de offset e de composição transitam para a categoria correspondente das carreiras de impressor de offset e de compositor gráfico, contando-se, nas novas carreiras, o tempo de serviço anteriormente prestado naquelas funções.
 
-###### Art. 13.º O provimento e acesso dos restantes lugares efectuar-se-á nos termos da lei geral para as respectivas categorias.
+Art. 13.º O provimento e acesso dos restantes lugares efectuar-se-á nos termos da lei geral para as respectivas categorias.
 
-###### Art. 14.º Os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 16.º, 17.º, 18.º, e 19.º, do [Decreto-Lei n.º 37/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1978-446536), de 20 de Fevereiro, passam a ter a seguinte redacção:
+Art. 14.º Os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 16.º, 17.º, 18.º, e 19.º, do [Decreto-Lei n.º 37/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1978-446536), de 20 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 1.º - 1 - É criada, na dependência da Directoria-Geral da Polícia Judiciária, a Escola de Polícia Judiciária (EPJ).
+Art. 1.º - 1 - É criada, na dependência da Directoria-Geral da Polícia Judiciária, a Escola de Polícia Judiciária (EPJ).
 
 2 - A Escola de Polícia Judiciária goza de autonomia administrativa nos termos das leis da contabilidade pública.
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) ...
 
@@ -272,7 +350,7 @@ j) Realizar estudos sobre os diversos planos da actividade policial, designadame
 
 2 - ...
 
-###### Art. 4.º São órgãos da Escola de Polícia Judiciária:
+Art. 4.º São órgãos da Escola de Polícia Judiciária:
 
 a) ...
 
@@ -286,11 +364,11 @@ e) ...
 
 f) O conselho administrativo.
 
-###### Art. 5.º - 1 - O director da Escola de Polícia Judiciária tem categoria equivalente à de director-adjunto da Polícia Judiciária e é nomeado pelo Ministro da Justiça, sob proposta do director-geral da Polícia Judiciária, em comissão de serviço, nos termos da lei geral, de entre licenciados com reconhecida competência, podendo ser magistrado judicial ou do Ministério Público.
+Art. 5.º - 1 - O director da Escola de Polícia Judiciária tem categoria equivalente à de director-adjunto da Polícia Judiciária e é nomeado pelo Ministro da Justiça, sob proposta do director-geral da Polícia Judiciária, em comissão de serviço, nos termos da lei geral, de entre licenciados com reconhecida competência, podendo ser magistrado judicial ou do Ministério Público.
 
 2 - Aplica-se ao director da EPJ o disposto no [Decreto Regulamentar n.º 10-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-a-1980-299003), de 5 de Maio.
 
-###### Art. 6.º - 1 - Compete ao director:
+Art. 6.º - 1 - Compete ao director:
 
 a) ...
 
@@ -310,46 +388,46 @@ h) Presidir ao conselho administrativo.
 
 2 - ...
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - Em caso de provimento em tempo integral, os docentes, funcionários ou agentes do Estado percebem a remuneração dos cargos de origem, a suportar por força de verbas especialmente inscritas no orçamento da Escola de Polícia Judiciária.
 
-###### Art. 17.º - 1 - O conselho administrativo é constituído pelo director, que preside, pelo sub-director e pelo chefe da secção que tiver a seu cargo a tesouraria e contabilidade, o qual servirá de secretário.
+Art. 17.º - 1 - O conselho administrativo é constituído pelo director, que preside, pelo sub-director e pelo chefe da secção que tiver a seu cargo a tesouraria e contabilidade, o qual servirá de secretário.
 
 2 - Ao conselho administrativo compete a administração das dotações orçamentais e a prestação das respectivas contas.
 
-###### Art. 18.º As despesas com a montagem e funcionamento da EPJ serão suportadas até final do ano de 1981 pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, enquanto não forem inscritas as verbas necessárias no Orçamento Geral do Estado ou estas se mostrarem insuficientes.
+Art. 18.º As despesas com a montagem e funcionamento da EPJ serão suportadas até final do ano de 1981 pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, enquanto não forem inscritas as verbas necessárias no Orçamento Geral do Estado ou estas se mostrarem insuficientes.
 
-###### Art. 19.º - 1 - A EPJ disporá do pessoal constante do quadro anexo ao presente diploma.
+Art. 19.º - 1 - A EPJ disporá do pessoal constante do quadro anexo ao presente diploma.
 
 2 - O provimento e acesso dos lugares efectuar-se-á nos termos da lei geral para as diversas categorias, com as ressalvas constantes dos artigos 5.º, 7.º, 15.º e 16.º, aplicando-se, subsidiariamente, o disposto no diploma orgânico da Polícia Judiciária.
 
 3 - O pessoal que actualmente presta serviço na Escola de Polícia Judiciária goza de preferência no provimento dos lugares agora criados.
 
-###### Art. 15.º Ficam revogados os n.os 2 dos artigos 12.º e 13.º do [Decreto-Lei n.º 37/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1978-446536), de 20 de Fevereiro.
+Art. 15.º Ficam revogados os n.os 2 dos artigos 12.º e 13.º do [Decreto-Lei n.º 37/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1978-446536), de 20 de Fevereiro.
 
-###### Art. 16.º Aplica-se à Polícia Judiciária o disposto no artigo 4.º do [Decreto-Lei n.º 744/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/744-1974-372636), de 27 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 303/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1975-337058), de 20 de Junho.
+Art. 16.º Aplica-se à Polícia Judiciária o disposto no artigo 4.º do [Decreto-Lei n.º 744/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/744-1974-372636), de 27 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 303/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1975-337058), de 20 de Junho.
 
-###### Art. 17.º - 1 - Aplica-se ao pessoal dirigente e pessoal de investigação criminal da Polícia Judiciária, no activo ou na reforma, o regime estabelecido pelo n.º 1 da [Portaria n.º 471/78](https://diariodarepublica.pt/dr/detalhe/portaria/471-1978-299069), de 19 de Agosto.
+Art. 17.º - 1 - Aplica-se ao pessoal dirigente e pessoal de investigação criminal da Polícia Judiciária, no activo ou na reforma, o regime estabelecido pelo n.º 1 da [Portaria n.º 471/78](https://diariodarepublica.pt/dr/detalhe/portaria/471-1978-299069), de 19 de Agosto.
 
 2 - Aplica-se ao restante pessoal da Polícia Judiciária, no activo ou na reforma, o regime estabelecido pelo n.º 2 da mesma portaria.
 
 3 - São igualmente aplicáveis ao pessoal da Polícia Judiciária as disposições dos n.os 3, 4, 6 e 7 da aludida portaria.
 
-###### Art. 18.º Os encargos resultantes deste diploma pelo que toca à Polícia Judiciária serão satisfeitos pelas disponibilidades das correspondentes dotações enquanto se não proceder à alteração do Orçamento Geral do Estado.
+Art. 18.º Os encargos resultantes deste diploma pelo que toca à Polícia Judiciária serão satisfeitos pelas disponibilidades das correspondentes dotações enquanto se não proceder à alteração do Orçamento Geral do Estado.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 7 de Julho de 1980.**
+Promulgado em 7 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Aditamento ao quadro único do pessoal da Polícia Judiciária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16400/17191723.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16400/17191723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16400/17191723.pdf)
 
 Quadro único do pessoal da Escola de Polícia Judiciária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16400/17191723.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16400/17191723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16400/17191723.pdf)

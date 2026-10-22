@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/11000/06730674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1975-336100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 710caf4bd1aac830f51c7ac84df37363cb4660b4e06d0efb981909d72186b440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7093d3b98b4ce9446173c7d128b55d81265e292151af88afa183b10b77177d29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cofre de Previdência das Forças Armadas
+- Extinção de Serviços
+- Forças Armadas
+- Orgânica
+- Presidente
+- Proteção Social
+- Secretário Geral
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:281444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:17Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +129,18 @@ E, neste contexto, também se torna indispensável dar maior flexibilidade no pr
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinto o secretariado e o cargo de secretário-geral dos Serviços Sociais das Forças Armadas (SSFA), previstos no artigo 14.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958.
+Artigo 1.º É extinto o secretariado e o cargo de secretário-geral dos Serviços Sociais das Forças Armadas (SSFA), previstos no artigo 14.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958.
 
-###### Art. 2.º Os órgãos que até aqui faziam parte do secretariado, bem como os órgãos de execução, passam a estar directamente dependentes dos membros da comissão directiva, segundo um sistema de pelouros e de normas a definir pela mesma.
+Art. 2.º Os órgãos que até aqui faziam parte do secretariado, bem como os órgãos de execução, passam a estar directamente dependentes dos membros da comissão directiva, segundo um sistema de pelouros e de normas a definir pela mesma.
 
-###### Art. 3.º Todas as disposições que, no [Decreto-Lei n.º 43029](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43029-1960-503384), de 24 de Junho de 1960, eram aplicadas apenas ao pessoal militar e civil da direcção e do extinto secretariado passam a ser aplicáveis a todo o pessoal que seja colocado em qualquer dos órgãos dos SSFA.
+Art. 3.º Todas as disposições que, no [Decreto-Lei n.º 43029](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43029-1960-503384), de 24 de Junho de 1960, eram aplicadas apenas ao pessoal militar e civil da direcção e do extinto secretariado passam a ser aplicáveis a todo o pessoal que seja colocado em qualquer dos órgãos dos SSFA.
 
-###### Art. 4.º O cargo de presidente da direcção do Cofre de Previdência das Forças Armadas (CPFA), que pela legislação actual - alínea a) do artigo 52.º do [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de Abril de 1960 (Estatuto do Cofre de Previdência das Forças Armadas) - era apenas provido por um oficial general de qualquer ramo das forças armadas, passa a poder ser provido igualmente por um coronel ou capitão-de-mar-e-guerra.
+Art. 4.º O cargo de presidente da direcção do Cofre de Previdência das Forças Armadas (CPFA), que pela legislação actual - alínea a) do artigo 52.º do [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de Abril de 1960 (Estatuto do Cofre de Previdência das Forças Armadas) - era apenas provido por um oficial general de qualquer ramo das forças armadas, passa a poder ser provido igualmente por um coronel ou capitão-de-mar-e-guerra.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 8 de Maio de 1975.**
+Promulgado em 8 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

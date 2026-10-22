@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44590-1962-159915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e57c553d439a10daab8814cab3074973bc58a59c0e67a3bee36075356acca96e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79d44f1ee7c4330c98d0aad0c43b54415e8012c2c9c5a7fceea18d25b7089d42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Cessão de Imóveis
+- Direcção Geral da Fazenda Pública
+- Peniche
+- Urbanização
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:22Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +94,7 @@ Considerando que, como este, outros pedidos têm sido deferidos no intuito de fa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Peniche:
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal de Peniche:
 
 a) Uma parcela de terreno no sítio de S. Marcos, com a área de 171 m2, inscrita na matriz predial urbana da freguesia de Conceição sob o artigo n.º 166 e no livro m/26 sob o n.º 107, confrontando do norte com José Inácio Bandeira, sul com a Rua de S. Marcos, nascente com a Rua das Areeiras e poente com Francisco Malheiros;
 
@@ -101,10 +106,10 @@ b) Uma parcela de terreno no sítio da Ribeira de Peniche, com a área de 244,70
 
 § 3.º A cessão efectivar-se-á por meio de auto a lavrar na Secção de Finanças do concelho de Peniche e é isenta de impostos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República 22 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/21900/12691270.pdf))](https://files.diariodarepublica.pt/1s/1962/09/21900/12691270.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/21900/12691270.pdf)
 
 Ministério das Finanças, 22 de Setembro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa

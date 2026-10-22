@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48546-1968-265129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fb8266ce34e4822fc2c33406675ebd0738fcddc07b714cce7b1c8c8289bd145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09344bc8b689c8b3463a4a025d178b84e5ab785abeba7cf53f140d747eb23dfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:430867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:212411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578769:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430867:por
+  label: "Revogado o art. 2º pelo DEC LEI.634/76.28.07.1976.MEIC, DR.IS [175] de 28.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/634-1976-430867
+  date: '1976-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:24Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +117,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A redacção dos artigos 3.º, 7.º e 8.º do [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964, é substituída pela seguinte:
+Artigo 1.º A redacção dos artigos 3.º, 7.º e 8.º do [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964, é substituída pela seguinte:
 
-###### Art. 3.º - 1. O referido ciclo complementar terá carácter obrigatório e gratuito, como o elementar.
+Art. 3.º - 1. O referido ciclo complementar terá carácter obrigatório e gratuito, como o elementar.
 
 2. A escolaridade obrigatória será correspondentemente ampliada para os menores de ambos os sexos, até aos 14 anos de idade, referidos a 31 de Março do ano escolar a que a matrícula respeita.
 
@@ -106,7 +129,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 7.º - 1. Nas escolas do magistério primário passará a haver dois cursos, um geral e outro complementar, com planos e programas a estabelecer oportunamente.
+Art. 7.º - 1. Nas escolas do magistério primário passará a haver dois cursos, um geral e outro complementar, com planos e programas a estabelecer oportunamente.
 
 2. O curso complementar do magistério primário destina-se à preparação especializada de professores do ciclo complementar do ensino primário.
 
@@ -116,7 +139,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Aos professores que frequentarem com regularidade os cursos mencionados no n.º 3 e neles forem aprovados passar-se-á um certificado de habilitação, em impresso do modelo aprovado pela Direcção-Geral do Ensino Primário.
 
-###### Art. 8.º - 1. O provimento dos professores do ciclo complementar faz-se mediante concurso documental; do aviso que declarar aberto concurso, a publicar no Diário do Governo, devem constar o respectivo âmbito e prazo, bem como o regime de provimento.
+Art. 8.º - 1. O provimento dos professores do ciclo complementar faz-se mediante concurso documental; do aviso que declarar aberto concurso, a publicar no Diário do Governo, devem constar o respectivo âmbito e prazo, bem como o regime de provimento.
 
 2. Podem requerer provimento nos lugares postos a concurso:
 
@@ -146,7 +169,7 @@ c) Em terceiro lugar, no caso de igualdade de valorização profissional, segund
 
 7. O Ministro da Educação Nacional poderá sempre determinar a cessação, no fim do ano escolar, do exercício dos professores.
 
-###### Art. 2.º - 1. Quando a carência de pessoal docente o justifique, pode o Ministro da Educação Nacional autorizar:
+Art. 2.º - 1. Quando a carência de pessoal docente o justifique, pode o Ministro da Educação Nacional autorizar:
 
 a) Um professor incumbido de regência num lugar do ciclo elementar a reger noutro lugar do mesmo ciclo;
 
@@ -158,7 +181,7 @@ b) Um professor incumbido de regência num lugar do ciclo complementar a reger n
 
 4. O professor, do quadro geral ou dos quadros de agregados, que se encontrar nas condições previstas no presente artigo perceberá a remuneração que lhe pertencer, nos termos gerais, pela regência do ciclo elementar ou pela regência do ciclo complementar, conforme se verificar a hipótese da alínea a) ou a hipótese da alínea b) do n.º 1, como se não houvera acumulação; e, pelo facto desta, perceberá ainda, em qualquer dos casos, uma gratificação mensal, a abonar durante dez meses, igual à gratificação de professor agregado.
 
-###### Art. 3.º - 1. Para ocorrer às necessidades do ensino organizar-se-á anualmente, em cada distrito escolar, uma lista dos professores agregados que quiserem prestar serviço no ciclo complementar a título eventual.
+Art. 3.º - 1. Para ocorrer às necessidades do ensino organizar-se-á anualmente, em cada distrito escolar, uma lista dos professores agregados que quiserem prestar serviço no ciclo complementar a título eventual.
 
 2. Essa lista será graduada segundo as normas estabelecidas no artigo 8.º do [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964, com a redacção que lhe é dada pelo artigo 1.º do presente diploma.
 
@@ -170,7 +193,7 @@ b) Um professor incumbido de regência num lugar do ciclo complementar a reger n
 
 6. A colocação e a contagem do tempo de serviço dos professores agregados no ciclo complementar regem-se pelas disposições do ciclo elementar em tudo o que não se providencia no presente artigo.
 
-###### Art. 4.º - 1. A inscrição para matrícula no ciclo complementar far-se-á mediante preenchimento de um boletim, isento de selo, de modelo aprovado pela Direcção-Geral do Ensino Primário e a editar pela Imprensa Nacional.
+Art. 4.º - 1. A inscrição para matrícula no ciclo complementar far-se-á mediante preenchimento de um boletim, isento de selo, de modelo aprovado pela Direcção-Geral do Ensino Primário e a editar pela Imprensa Nacional.
 
 2. Os boletins de inscrição serão entregues de 10 a 20 de Agosto, nas delegações escolares ou nas secretarias de zona da área da escola a frequentar.
 
@@ -178,10 +201,10 @@ b) Um professor incumbido de regência num lugar do ciclo complementar a reger n
 
 4. Posteriormente a 1 de Outubro, observar-se-á o disposto nos n.os 2 e 3 do artigo 9.º do citado Decreto n.º 38969.
 
-###### Art. 5.º - 1. Relativamente aos três próximos anos escolares, o Ministro da Educação Nacional tomará, por meio de portarias ou despachos, as providências que se tornarem necessárias para adaptar o novo regime de escolaridade obrigatória às circunstâncias que forem ocorrendo.
+Art. 5.º - 1. Relativamente aos três próximos anos escolares, o Ministro da Educação Nacional tomará, por meio de portarias ou despachos, as providências que se tornarem necessárias para adaptar o novo regime de escolaridade obrigatória às circunstâncias que forem ocorrendo.
 
 2. As referidas providências deverão ter a concordância do Ministro das Finanças quando se tratar de assuntos de carácter financeiro ou administrativo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

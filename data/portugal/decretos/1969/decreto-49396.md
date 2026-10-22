@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49396-1969-216965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97159b5a10bfbb378fc6f055a97e6578e9d4b17a1615f7604c7936263dc50cd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0995fae95386e83893ffc52cd81558c22c2c8fd99bd63eae528da0cd25e610b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351961:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:32Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +111,13 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos do presente diploma:
+Artigo 1.º Nos termos do presente diploma:
 
 a) É modificada a servidão militar constituída pelo [Decreto n.º 41792](https://diariodarepublica.pt/dr/detalhe/decreto/41792-1958-351961), de 8 de Agosto de 1958, em benefício do Aeródromo de Tancos;
 
 b) É constituída servidão militar para o polígono militar de Tancos, que engloba, além do Aeródromo de Tancos, a Escola Prática de Engenharia, o Regimento de Caçadores Pára-Quedistas e outras instalações militares que venham a existir nos terrenos que hoje pertencem àquelas unidades.
 
-###### Art. 2.º A área sujeita a servidão é limitada exteriormente:
+Art. 2.º A área sujeita a servidão é limitada exteriormente:
 
 a) A norte, pela poligonal: lugar do Atalho-Chora-Fome 207-Casal de Machado (na margem do rio Zêzere), prolongada até ao eixo deste rio;
 
@@ -127,7 +135,7 @@ A faixa de terreno de 50 m, ao longo da conduta de água desde o Tejo até esta 
 
 § 2.º Estarão também sujeitos a servidão militar os enclaves existentes no polígono militar de Tancos.
 
-###### Art. 3.º Dentro da área definida no artigo 2.º são estabelecidas duas zonas, designadas por 1.ª e 2.ª zonas de servidão do polígono militar de Tancos.
+Art. 3.º Dentro da área definida no artigo 2.º são estabelecidas duas zonas, designadas por 1.ª e 2.ª zonas de servidão do polígono militar de Tancos.
 
 A 1.ª zona de servidão do polígono militar de Tancos é constituída pela área limitada exteriormente:
 
@@ -145,9 +153,9 @@ d) A poente, pela ribeira de Vale da Casa até à confluência com a ribeira de 
 
 A 2.ª zona de servidão do polígono militar de Tancos é constituída pela parte restante da área definida no artigo 2.º
 
-###### Art. 4.º Na 1.ª zona de servidão do polígono militar de Tancos, definida no artigo anterior, é proibida, sem autorização prévia da autoridade militar competente, a execução dos trabalhos ou actividades descritos no artigo 9.º e seu § 1.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
+Art. 4.º Na 1.ª zona de servidão do polígono militar de Tancos, definida no artigo anterior, é proibida, sem autorização prévia da autoridade militar competente, a execução dos trabalhos ou actividades descritos no artigo 9.º e seu § 1.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
 
-###### Art. 5.º Na 2.ª zona de servidão, definida no artigo 3.º, serão permitidas as construções isoladas e outros trabalhos que não infrinjam o disposto no artigo 7.º, mas, sem autorização prévia da autoridade militar competente, são proibidos:
+Art. 5.º Na 2.ª zona de servidão, definida no artigo 3.º, serão permitidas as construções isoladas e outros trabalhos que não infrinjam o disposto no artigo 7.º, mas, sem autorização prévia da autoridade militar competente, são proibidos:
 
 a) Trabalhos de levantamento fotográfico, topográfico ou hidrográfico;
 
@@ -159,9 +167,9 @@ d) Construção de zonas de urbanização ou centros industriais;
 
 e) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segurança das instalações militares do Aeródromo de Tancos e a execução das missões que competem à Força Aérea.
 
-###### Art. 6.º É mantida para o Aeródromo de Tancos uma área de desobstrução delimitada por um círculo com o raio de 5 km e o centro no ponto de referência do Aeródromo, prolongando-se segundo os eixos das pistas, por corredores com 2,5 km de largura e 10 km de comprido, contados para um e outro lado a partir do limite exterior do referido círculo.
+Art. 6.º É mantida para o Aeródromo de Tancos uma área de desobstrução delimitada por um círculo com o raio de 5 km e o centro no ponto de referência do Aeródromo, prolongando-se segundo os eixos das pistas, por corredores com 2,5 km de largura e 10 km de comprido, contados para um e outro lado a partir do limite exterior do referido círculo.
 
-###### Art. 7.º A área de desobstrução definida no artigo 6.º é, para efeito de contrôle da altura dos obstáculos, fixos ou móveis, nela existentes, dividida em zonas, cujos limites vão indicados no mapa a que se refere o artigo 17.º do presente decreto e cujas cotas em relação ao nível médio das águas do mar são as seguintes:
+Art. 7.º A área de desobstrução definida no artigo 6.º é, para efeito de contrôle da altura dos obstáculos, fixos ou móveis, nela existentes, dividida em zonas, cujos limites vão indicados no mapa a que se refere o artigo 17.º do presente decreto e cujas cotas em relação ao nível médio das águas do mar são as seguintes:
 
 a) Corredores de acesso às pistas:
 
@@ -203,25 +211,25 @@ Cónicas:
 
 Zona F - Variável de 126,20 m a 231,20 m.
 
-###### Art. 8.º Dentro das zonas referidas no artigo 7.º não é permitida a existência de quaisquer plantações, estruturas, fios ou cabos aéreos e outros obstáculos, fixos ou móveis, cujas alturas excedam as cotas nele indicadas para as zonas em patamar ou as calculadas para as zonas da cota variável, considerando uniforme a variação destas, dentro de limites assinalados do mesmo artigo 7.º
+Art. 8.º Dentro das zonas referidas no artigo 7.º não é permitida a existência de quaisquer plantações, estruturas, fios ou cabos aéreos e outros obstáculos, fixos ou móveis, cujas alturas excedam as cotas nele indicadas para as zonas em patamar ou as calculadas para as zonas da cota variável, considerando uniforme a variação destas, dentro de limites assinalados do mesmo artigo 7.º
 
-###### Art. 9.º A construção de edifícios ou outros obstáculos que não contrariem o disposto no artigo 8.º não carece de autorização prévia da autoridade militar competente, excepto se estiver abrangida pelo disposto nos artigos 4.º e 5.º deste decreto, ou no caso de se tratar de chaminés, cabos de alta tensão, zonas por urbanizar ou centros industriais.
+Art. 9.º A construção de edifícios ou outros obstáculos que não contrariem o disposto no artigo 8.º não carece de autorização prévia da autoridade militar competente, excepto se estiver abrangida pelo disposto nos artigos 4.º e 5.º deste decreto, ou no caso de se tratar de chaminés, cabos de alta tensão, zonas por urbanizar ou centros industriais.
 
-###### Art. 10.º Além das restrições impostas nos artigos anteriores, referentes à área de desobstrução, ficam ainda proibidas, não podendo executar-se sem aprovação prévia da autoridade militar competente, todas as construções, instalações ou quaisquer trabalhos, dentro daquela área, que sejam susceptíveis de: criar interferências nas comunicações por rádio entre o aeródromo e os aviões; tornar difícil do ar a distinção entre as luzes do aeródromo e outras; provocar o encandeamento dos pilotos; produzir poeiras ou fumos que possam diminuir as condições de visibilidade na vizinhança do aeródromo; de qualquer modo, prejudicar as aterragens, deslocagens e manobras dos aviões.
+Art. 10.º Além das restrições impostas nos artigos anteriores, referentes à área de desobstrução, ficam ainda proibidas, não podendo executar-se sem aprovação prévia da autoridade militar competente, todas as construções, instalações ou quaisquer trabalhos, dentro daquela área, que sejam susceptíveis de: criar interferências nas comunicações por rádio entre o aeródromo e os aviões; tornar difícil do ar a distinção entre as luzes do aeródromo e outras; provocar o encandeamento dos pilotos; produzir poeiras ou fumos que possam diminuir as condições de visibilidade na vizinhança do aeródromo; de qualquer modo, prejudicar as aterragens, deslocagens e manobras dos aviões.
 
-###### Art. 11.º Dentro da área da desobstrução e nos corredores da aproximação das pistas, até à distância mínima de 3500 m contada dos extremos das pistas, embora não se excedam as cotas de obstáculos admitidas, são proibidos, sem autorização prévia, o estabelecimento de locais onde haja concentração de público e a construção de escolas, igrejas, hospitais, abarracamentos e aglomerados de habitação.
+Art. 11.º Dentro da área da desobstrução e nos corredores da aproximação das pistas, até à distância mínima de 3500 m contada dos extremos das pistas, embora não se excedam as cotas de obstáculos admitidas, são proibidos, sem autorização prévia, o estabelecimento de locais onde haja concentração de público e a construção de escolas, igrejas, hospitais, abarracamentos e aglomerados de habitação.
 
-###### Art. 12.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
+Art. 12.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
 
-###### Art. 13.º A atribuição de licença para a execução de trabalhos e actividades a eles sujeitos compete ao Secretariado-Geral da Defesa Nacional, depois de ouvido o departamento ou departamentos militares interessados.
+Art. 13.º A atribuição de licença para a execução de trabalhos e actividades a eles sujeitos compete ao Secretariado-Geral da Defesa Nacional, depois de ouvido o departamento ou departamentos militares interessados.
 
-###### Art. 14.º As entidades especialmente responsáveis pela fiscalização do cumprimento das disposições legais respeitantes à servidão e das condições impostas nas licenças são os Comandos da Base Aérea n.º 3 e da Escola Prática de Engenharia, cada um nas áreas de servidão que lhes estão directamente afectas.
+Art. 14.º As entidades especialmente responsáveis pela fiscalização do cumprimento das disposições legais respeitantes à servidão e das condições impostas nas licenças são os Comandos da Base Aérea n.º 3 e da Escola Prática de Engenharia, cada um nas áreas de servidão que lhes estão directamente afectas.
 
-###### Art. 15.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são também da competência das entidades referidas no artigo anterior, nas áreas que lhes são afectas.
+Art. 15.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são também da competência das entidades referidas no artigo anterior, nas áreas que lhes são afectas.
 
-###### Art. 16.º Das decisões tomadas nos termos do artigo 13.º cabe recurso para o Ministro da Defesa Nacional; das decisões relativas à demolição das obras feitas ilegalmente cabe recurso para o comandante da 2.ª Região Militar ou para o chefe do Estado-Maior da Força Aérea, consoante as áreas interessem ao Ministério do Exército ou à Secretaria de Estado da Aeronáutica.
+Art. 16.º Das decisões tomadas nos termos do artigo 13.º cabe recurso para o Ministro da Defesa Nacional; das decisões relativas à demolição das obras feitas ilegalmente cabe recurso para o comandante da 2.ª Região Militar ou para o chefe do Estado-Maior da Força Aérea, consoante as áreas interessem ao Ministério do Exército ou à Secretaria de Estado da Aeronáutica.
 
-###### Art. 17.º As áreas descritas nos artigos 1.º e 2.º são demarcadas nas cartas n.os 320 e 330 do Serviço Cartográfico do Exército, na escala 1:25000, e as áreas descritas nos artigos 5.º e 6.º são demarcadas numa carta na escala de 1:50000.
+Art. 17.º As áreas descritas nos artigos 1.º e 2.º são demarcadas nas cartas n.os 320 e 330 do Serviço Cartográfico do Exército, na escala 1:25000, e as áreas descritas nos artigos 5.º e 6.º são demarcadas numa carta na escala de 1:50000.
 
 Com estas cartas organizar-se-ão dezassete colecções com a classificação de «Reservado», que terão os seguintes destinos:
 
@@ -253,12 +261,12 @@ Uma para o Ministério das Comunicações.
 
 Uma para cada uma das câmaras municipais dos concelhos afectados pela servidão militar constituída pelo presente decreto.
 
-###### Art. 18.º Fica revogado o [Decreto n.º 41792](https://diariodarepublica.pt/dr/detalhe/decreto/41792-1958-351961), de 8 de Agosto de 1958, que é substituído pelo presente decreto.
+Art. 18.º Fica revogado o [Decreto n.º 41792](https://diariodarepublica.pt/dr/detalhe/decreto/41792-1958-351961), de 8 de Agosto de 1958, que é substituído pelo presente decreto.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - José Manuel Bethencourt Conceição Rodrigues - Rui Alves da Silva Sanches - Fernando Alberto de Oliveira.
 
-**Promulgado em 11 de Novembro de 1969.**
+Promulgado em 11 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13600/14351440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1977-253380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 558e7564b2dd699de9a2232c26508f5ad1429cf485e3979fea0922984e1370ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af064c2acb683d9e2adafcc96de87f2ef6fae1c6072c2ba52fb09cdb072719e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Conselho de Gestão
+- Definição de Competências
+- Direcção Geral do Saneamento Básico
+- Diretor Geral
+- Orgânica
+- Quadro de Pessoal
+- Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448890:por
+  label: "Alterados os arts. 1º, 6º. 7º, 9º e 12º do presente diploma, pela LEI.3/78.02.02.1978.AR, DR.IS [28] de 02.02.1978\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1978-448890
+  date: '1978-02-02'
+- type: amended_by
+  target: pt:dre:390382:por
+  label: "Substituído o quadro de pessoal pela PORT.39/81.1981.01.15.PCM DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/39-1981-390382
+  date: '1981-01-15'
+- type: amended_by
+  target: pt:dre:573710:por
+  label: "Transferidas para a Direcção Geral do Saneamento Básico, cuja orgânica consta do presente diploma, as atribuições\
+    \ e competências do GAPA ,mencionadas no nº 2 do art. 1º do Dec Lei 200-G/80 de 24-Jun, pelo DEC LEI.121/81.23.05.1981.MAI,\
+    \ DR.IS [118] de 23.05.1981, que o extinguiu\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1981-573710
+  date: '1981-05-23'
+- type: amended_by
+  target: pt:dre:609301:por
+  label: "Alterado pela PORT.282/82.1982.03.16.MFP, DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1982-609301
+  date: '1982-03-16'
+- type: amended_by
+  target: pt:dre:392379:por
+  label: Alterados o n.º 1 do art. 6.º e o n.º 5 do art. 7.º pelo(a) Decreto-Lei n.º 206/82 - Diário da República n.º 118/1982,
+    Série I de 1982-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1982-392379
+  date: '1982-05-25'
+- type: amended_by
+  target: pt:dre:419011:por
+  label: "Extinta a Direcção-Geral, cuja orgânica foi aprovada no presente diploma, pelo DEC LEI.246/87.17.06.1987.MPAT, DR.IS\
+    \ [137] de 17.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1987-419011
+  date: '1987-06-17'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:160715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507194:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:250458:por
+  label: Rectificado pela DECL.DD7927.08.07.1977.PCM, DR.IS [156] de 08.07.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250458
+  date: '1977-07-08'
 article_structure:
-  article_count: 1
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:53Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +192,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 21.º da Constit
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º São atribuições da Direcção-Geral de Saneamento Básico (DGSB), criada pelo [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro:
+Artigo 1.º São atribuições da Direcção-Geral de Saneamento Básico (DGSB), criada pelo [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro:
 
 Assegurar a execução da política nacional de saneamento básico, tal como definida na resolução do Conselho de Ministros de 23 de Janeiro de 1976, quanto à elaboração dos planos nacionais de realização de infra-estruturas, seu acompanhamento e contrôle, à realização de estudos referentes à definição da política sócio-económica a seguir, à utilização de verbas do Orçamento Geral do Estado e ao apoio técnico e científico a desenvolver.
 
-###### Art. 2.º A DGSB é um organismo dotado de autonomia administrativa, dependente da Secretaria de Estado dos Recursos Hídricos e do Saneamento Básico.
+Art. 2.º A DGSB é um organismo dotado de autonomia administrativa, dependente da Secretaria de Estado dos Recursos Hídricos e do Saneamento Básico.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º - São órgãos da DGSB:
+Art. 3.º - São órgãos da DGSB:
 
 a) O director-geral;
 
@@ -116,13 +210,13 @@ c) O Conselho de Gestão Administrativa e de Pessoal.
 
 2. O director-geral é coadjuvado por um subdirector-geral.
 
-###### Art. 4.º - 1. O Conselho Administrativo é constituído pelo director-geral, pelo subdirector-geral e pelo chefe da Repartição Administrativa.
+Art. 4.º - 1. O Conselho Administrativo é constituído pelo director-geral, pelo subdirector-geral e pelo chefe da Repartição Administrativa.
 
 2. Às reuniões do Conselho Administrativo assistirá sempre um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado.
 
 3. Os fundos da DGSB serão depositados na Caixa Geral de Depósitos e movimentados por cheques nominativos assinados, pelo menos, por dois membros do Conselho Administrativo.
 
-###### Art. 5.º - 1. O Conselho de Gestão Administrativa e de Pessoal é um órgão consultivo interno, que terá a seguinte constituição:
+Art. 5.º - 1. O Conselho de Gestão Administrativa e de Pessoal é um órgão consultivo interno, que terá a seguinte constituição:
 
 a) O director-geral;
 
@@ -148,35 +242,37 @@ c) Assuntos disciplinares;
 
 d) Outros assuntos de gestão administrativa e do pessoal que não colidam com as atribuições do Conselho Administrativo e sobre as quais o presidente considere necessário obter o parecer do Conselho.
 
-###### Art. 6.º - 1 A DGSB disporá dos seguintes serviços centrais técnicos e administrativos:
+Art. 6.º - 1 A DGSB disporá dos seguintes serviços centrais técnicos e administrativos:
 
 Gabinete de Planeamento e de Estudos Económico-Financeiros, compreendendo:
 
 ##### Divisão de Planeamento;
 
-##### Divisão de Contrôle e Coordenação;
+Divisão de Contrôle e Coordenação;
 
-##### Divisão de Estudos Económico-Financeiros.
+Divisão de Estudos Económico-Financeiros.
 
 Centro Tecnológico de Saneamento Básico, compreendendo:
 
-##### Divisão de Investigação, Normalização e Formação de Pessoal;
+Divisão de Investigação, Normalização e Formação de Pessoal;
 
 Laboratório de Ensaios.
 
 Direcção de Serviços de Projectos e Obras, compreendendo:
 
-##### Divisão de Abastecimentos de Água e Esgotos:
+Divisão de Abastecimentos de Água e Esgotos:
 
 ##### Divisão de Lixos;
 
-##### Divisão de Hidrogeologia Aplicada.
+Divisão de Hidrogeologia Aplicada.
 
-##### Divisão de Documentação e Informação.
+Divisão de Documentação e Informação.
 
 Repartição Administrativa, compreendendo:
 
-#### Secção de Pessoal; — Secção de Contabilidade
+#### Secção de Pessoal;
+
+#### Secção de Contabilidade
 
 #### Secção de Expediente e Arquivo.
 
@@ -186,7 +282,7 @@ a) Os núcleos regionais de saneamento básico;
 
 b) As comissões instaladoras das entidades gestoras de saneamento básico.
 
-###### Art. 7.º - 1. Ao Gabinete de Planeamento e de Estudos Económico-Financeiros compete:
+Art. 7.º - 1. Ao Gabinete de Planeamento e de Estudos Económico-Financeiros compete:
 
 a) Estabelecer as grandes linhas nacionais para a elaboração dos planos regionais do saneamento básico em colaboração com o Gabinete de Planeamento e Contrôle MOP, com os órgãos de gestão da água e os do ordenamento territorial;
 
@@ -250,7 +346,7 @@ b) Prestar apoio administrativo aos órgãos e serviços da Direcção-Geral.
 
 6. Além das atribuições que lhe possam vir a caber, de harmonia com a lei e os regulamentos que vierem a ser estabelecidos, a DGSB prestará o apoio técnico especializado que for solicitado pelos órgãos do Governo Regional das Regiões Autónomas dos Açores e da Madeira, até serem institucionalizadas as organizações próprias no âmbito da gestão do saneamento básico.
 
-###### Art. 8.º - 1. Os núcleos regionais de saneamento básico serão dirigidos por um responsável regional, directamente dependente da DGSB, e disporão dos seguintes serviços técnicos e administrativos:
+Art. 8.º - 1. Os núcleos regionais de saneamento básico serão dirigidos por um responsável regional, directamente dependente da DGSB, e disporão dos seguintes serviços técnicos e administrativos:
 
 Projectos e obras;
 
@@ -262,7 +358,7 @@ Secretaria.
 
 4. O regime de funcionamento dos núcleos regionais será fixado, em cada caso, por despacho do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico.
 
-###### Art. 9.º - 1. Os núcleos regionais de saneamento básico têm por função:
+Art. 9.º - 1. Os núcleos regionais de saneamento básico têm por função:
 
 a) Estabelecer a ligação entre a DGSB e os organismos autárquicos a quem compete actualmente a gestão dos empreendimentos de saneamento básico existentes;
 
@@ -284,7 +380,7 @@ d) Propor ao Governo os diplomas de criação das entidades gestoras do saneamen
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 10.º - 1. É aprovado o quadro de pessoal anexo a este diploma e que dele faz parte integrante.
+Art. 10.º - 1. É aprovado o quadro de pessoal anexo a este diploma e que dele faz parte integrante.
 
 2. Todo o pessoal da DGSB será agrupado, de acordo com a seguinte classificação:
 
@@ -306,7 +402,7 @@ d) Pessoal auxiliar.
 
 7. A distribuição de todo o pessoal da DGSB pelos serviços constará de despacho do director-geral em ordem de serviço interna.
 
-###### Art. 11.º - 1. O provimento do pessoal do quadro da DGSB será feito por nomeação ou contrato, nos termos da lei geral, salvo os casos especiais constantes do presente diploma.
+Art. 11.º - 1. O provimento do pessoal do quadro da DGSB será feito por nomeação ou contrato, nos termos da lei geral, salvo os casos especiais constantes do presente diploma.
 
 2. Ao fim de dois anos de bom e efectivo serviço os funcionários serão providos definitivamente.
 
@@ -316,7 +412,7 @@ d) Pessoal auxiliar.
 
 5. Além do pessoal do quadro poderá ser contratado ou assalariado, em regime de prestação eventual de serviço ou de tarefa, outro pessoal necessário aos serviços da DGSB, sem prejuízo do disposto nos n.os 1 e 3 do artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
 
-###### Art. 12.º - 1. O recrutamento do pessoal dos núcleos regionais de saneamento básico será feito:
+Art. 12.º - 1. O recrutamento do pessoal dos núcleos regionais de saneamento básico será feito:
 
 a) Mediante destacamento dos funcionários vinculados à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos que à data da publicação do presente diploma se encontrem afectos ao saneamento básico;
 
@@ -326,9 +422,9 @@ c) De entre indivíduos não vinculados à Administração, contratados pelo per
 
 2. Para efeitos de integração nas futuras entidades gestoras do saneamento básico, são considerados como trabalhadores do saneamento básico os indivíduos recrutados nos termos do presente artigo e que estejam em funções à data da constituição daquelas entidades.
 
-###### Art. 13.º O lugar de director-geral será preenchido pela forma prevista no [Decreto-Lei n.º 118/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1975-160715), de 8 de Março, e no artigo 9.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro.
+Art. 13.º O lugar de director-geral será preenchido pela forma prevista no [Decreto-Lei n.º 118/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1975-160715), de 8 de Março, e no artigo 9.º do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), de 10 de Fevereiro.
 
-###### Art. 14.º São preenchidos por escolha do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, mediante proposta do director-geral:
+Art. 14.º São preenchidos por escolha do Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, mediante proposta do director-geral:
 
 a) Subdirector-geral - em comissão de serviço, por tempo indeterminado, entre engenheiros ou técnicos do Ministério das Obras Públicas de categoria superior à de engenheiro-chefe ou técnico-chefe ou engenheiros de reconhecida competência;
 
@@ -340,7 +436,7 @@ d) Chefes de divisão - em comissão de serviço, por tempo indeterminado, entre
 
 e) Chefe da Repartição Administrativa - entre chefes de secção do quadro da DGSB, com três anos de bom e efectivo serviço, ou indivíduos estranhos ao quadro de reconhecida competência habilitados com licenciatura adequada.
 
-###### Art. 15.º - 1. O recrutamento do pessoal para os lugares do quadro que não sejam preenchidos ao abrigo do artigo 17.º será efectuado de harmonia com as seguintes regras:
+Art. 15.º - 1. O recrutamento do pessoal para os lugares do quadro que não sejam preenchidos ao abrigo do artigo 17.º será efectuado de harmonia com as seguintes regras:
 
 a) Pessoal técnico:
 
@@ -376,9 +472,9 @@ c) Pessoal auxiliar, nos termos da lei geral.
 
 5. O acesso do restante pessoal far-se-á nos termos da lei geral, tendo em atenção o regime consignado no [Decreto-Lei n.º 103/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1976-507194), de 4 de Fevereiro.
 
-###### Art. 16.º No preenchimento das vagas do novo quadro levar-se-ão em conta as classificações obtidas em concursos de promoção já efectuados na Direcção-Geral dos Serviços Hidráulicos, os anos de bom e efectivo serviço prestado ao Estado, as habilitações imediatamente inferior que contem, pelo menos, do funcionário.
+Art. 16.º No preenchimento das vagas do novo quadro levar-se-ão em conta as classificações obtidas em concursos de promoção já efectuados na Direcção-Geral dos Serviços Hidráulicos, os anos de bom e efectivo serviço prestado ao Estado, as habilitações imediatamente inferior que contem, pelo menos, do funcionário.
 
-###### Art. 17.º - 1. O primeiro provimento nas vagas do quadro aprovado por este diploma será feito:
+Art. 17.º - 1. O primeiro provimento nas vagas do quadro aprovado por este diploma será feito:
 
 a) De entre os funcionários vitalícios e contratados do quadro da extinta Direcção-Geral dos Serviços Hidráulicos que, após a publicação do [Decreto-Lei n.º 117-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069), tenham ficado a prestar serviço na DGSB, de acordo com o despacho de 10 de Fevereiro de 1976 do Ministro das Obras Públicas, publicado no Diário do Governo, 2.ª série, n.º 65, e no Diário da República, 2.ª série, n.º 119, respectivamente de 17 de Março e de 21 de Maio de 1976;
 
@@ -394,7 +490,7 @@ d) De entre os funcionários do quadro geral de adidos que se encontrem a presta
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 18.º - 1. Serão organizados cursos de frequência obrigatória, tendo em vista a preparação e aperfeiçoamento do pessoal, no que se refere designadamente aos problemas específicos da actividade técnica e administrativa da DGSB.
+Art. 18.º - 1. Serão organizados cursos de frequência obrigatória, tendo em vista a preparação e aperfeiçoamento do pessoal, no que se refere designadamente aos problemas específicos da actividade técnica e administrativa da DGSB.
 
 2. Por despacho do Ministro das Obras Públicas, os actuais concursos de promoção poderão ser substituídos por cursos de formação adequados.
 
@@ -402,24 +498,24 @@ d) De entre os funcionários do quadro geral de adidos que se encontrem a presta
 
 4. Os cursos poderão ser professados por funcionários da DGSB ou por indivíduos estranhos com especial competência nas matérias a tratar, sendo as respectivas remunerações, nesta última hipótese, fixadas pelo Ministro das Obras Públicas, ou pelo Secretário de Estado dos Recursos Hídricos e do Saneamento Básico, mediante proposta do director-geral.
 
-###### Art. 19.º As despesas resultantes da execução deste diploma podem ser satisfeitas de conta das sobras das dotações inscritas no Orçamento Geral do Estado para os serviços que, no todo ou em parte, se integrem na DGSB, ou pelas verbas inscritas especialmente para aquele fim.
+Art. 19.º As despesas resultantes da execução deste diploma podem ser satisfeitas de conta das sobras das dotações inscritas no Orçamento Geral do Estado para os serviços que, no todo ou em parte, se integrem na DGSB, ou pelas verbas inscritas especialmente para aquele fim.
 
-###### Art. 20.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros das Obras Públicas e da Administração Interna e ainda do Ministro das Finanças, quando estiver em causa matéria de carácter financeiro ou regras de contabilidade pública.
+Art. 20.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros das Obras Públicas e da Administração Interna e ainda do Ministro das Finanças, quando estiver em causa matéria de carácter financeiro ou regras de contabilidade pública.
 
-###### Art. 21.º Em tudo o que respeitar às atribuições cometidas à DGSB pelo artigo 1.º deste diploma mantém-se em vigor a legislação aplicável, reportando-se a esta Direcção-Geral as referências nela contidas às Direcções-Gerais dos Serviços Hidráulicos e dos Serviços de Urbanização, nomeadamente a competência que à Direcção-Geral dos Serviços Hidráulicos foi cometida pelo artigo 8.º do [Decreto-Lei n.º 605/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1972-163788), de 30 de Dezembro, na parte respeitante à [Lei n.º 2103](https://diariodarepublica.pt/dr/detalhe/lei/2103-1960-282482), de 22 de Março de 1966, que promulga as bases do abastecimento de água das povoações rurais e ao [Decreto-Lei n.º 158/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838), de 13 de Abril, que estabelece as percentagens da comparticipação do Estado para as redes de drenagem de esgotos e para as estações de tratamento.
+Art. 21.º Em tudo o que respeitar às atribuições cometidas à DGSB pelo artigo 1.º deste diploma mantém-se em vigor a legislação aplicável, reportando-se a esta Direcção-Geral as referências nela contidas às Direcções-Gerais dos Serviços Hidráulicos e dos Serviços de Urbanização, nomeadamente a competência que à Direcção-Geral dos Serviços Hidráulicos foi cometida pelo artigo 8.º do [Decreto-Lei n.º 605/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1972-163788), de 30 de Dezembro, na parte respeitante à [Lei n.º 2103](https://diariodarepublica.pt/dr/detalhe/lei/2103-1960-282482), de 22 de Março de 1966, que promulga as bases do abastecimento de água das povoações rurais e ao [Decreto-Lei n.º 158/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1970-225838), de 13 de Abril, que estabelece as percentagens da comparticipação do Estado para as redes de drenagem de esgotos e para as estações de tratamento.
 
-###### Art. 22.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 22.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - João Orlindo de Almeida Pina.
 
-**Promulgado em 29 de Maio de 1977.**
+Promulgado em 29 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal da Direcção-Geral de Saneamento Básico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/13600/14351440.pdf))](https://files.diariodarepublica.pt/1s/1977/06/13600/14351440.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14351440.pdf)
 
-**O Ministro das Obras Públicas, João Orlindo de Almeida Pina.**
+O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

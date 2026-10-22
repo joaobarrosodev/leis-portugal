@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14d842070c4cdc13850cc3eb8c4895c92cf6aadb04a7c6c37171dce35371b179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b99ec527b8f7f095eb87e0c1d2f75d206b48b7f675baecf4d4863320622fb080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Aviação Civil
+- Regime Jurídico
+- Servidão Aeronáutica
+relationships:
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:50:52Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +119,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As zonas confinantes com aeródromos civis e instalações de apoio à aviação civil estão sujeitas a servidões aeronáuticas nos termos do presente decreto-lei.
+Artigo 1.º As zonas confinantes com aeródromos civis e instalações de apoio à aviação civil estão sujeitas a servidões aeronáuticas nos termos do presente decreto-lei.
 
-###### Art. 2.º As servidões aeronáuticas visam a garantir a segurança e eficiência da utilização e funcionamento dos aeródromos civis e das instalações de apoio à aviação civil e a protecção das pessoas e bens à superfície.
+Art. 2.º As servidões aeronáuticas visam a garantir a segurança e eficiência da utilização e funcionamento dos aeródromos civis e das instalações de apoio à aviação civil e a protecção das pessoas e bens à superfície.
 
-###### Art. 3.º As servidões aeronáuticas classificam-se em gerais e particulares.
+Art. 3.º As servidões aeronáuticas classificam-se em gerais e particulares.
 
-###### Art. 4.º As servidões gerais compreendem a proibição de executar sem licença da autoridade aeronáutica as actividades e trabalhos seguintes:
+Art. 4.º As servidões gerais compreendem a proibição de executar sem licença da autoridade aeronáutica as actividades e trabalhos seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;
 
@@ -125,15 +145,15 @@ h) Montagem e funcionamento de aparelhagem eléctrica, que não seja de uso excl
 
 i) Quaisquer outros trabalhos ou actividades que inequìvocamente possam afectar a segurança da navegação aérea ou a eficiência das instalações de apoio à aviação civil.
 
-###### Art. 5.º As servidões particulares compreendem a proibição de executar sem licença da autoridade aeronáutica aqueles dos trabalhos e actividades previstos no artigo anterior que forem especificados de harmonia com as exigências próprias do aeródromo ou instalação considerada.
+Art. 5.º As servidões particulares compreendem a proibição de executar sem licença da autoridade aeronáutica aqueles dos trabalhos e actividades previstos no artigo anterior que forem especificados de harmonia com as exigências próprias do aeródromo ou instalação considerada.
 
 Sempre que não se fizer esta especificação, a servidão considera-se geral.
 
-###### Art. 6.º Tratando-se de trabalhos e actividades em zonas relativamente às quais tenham sido definidas as normas da respectiva execução, a licença será substituída por simples participação dos interessados.
+Art. 6.º Tratando-se de trabalhos e actividades em zonas relativamente às quais tenham sido definidas as normas da respectiva execução, a licença será substituída por simples participação dos interessados.
 
-###### Art. 7.º As zonas das servidões aeronáuticas e os limites de espaço aéreo por ela abrangidos serão definidos para cada caso por forma a assegurar a realização dos fins enunciados no artigo 2.º, tendo em conta as resoluções e recomendações internacionais aceites pelo Governo.
+Art. 7.º As zonas das servidões aeronáuticas e os limites de espaço aéreo por ela abrangidos serão definidos para cada caso por forma a assegurar a realização dos fins enunciados no artigo 2.º, tendo em conta as resoluções e recomendações internacionais aceites pelo Governo.
 
-###### Art. 8.º Poderá ser ordenada a demolição ou alteração de construções ou outros trabalhos que, à data da constituição ou modificação de servidões respeitantes a aeródromos ou instalações de apoio à aviação, existam ou estejam em curso nas áreas a elas sujeitas, desde que tal se torne necessário para a segurança ou eficiência da utilização e funcionamento do aeródromo ou da instalação de apoio.
+Art. 8.º Poderá ser ordenada a demolição ou alteração de construções ou outros trabalhos que, à data da constituição ou modificação de servidões respeitantes a aeródromos ou instalações de apoio à aviação, existam ou estejam em curso nas áreas a elas sujeitas, desde que tal se torne necessário para a segurança ou eficiência da utilização e funcionamento do aeródromo ou da instalação de apoio.
 
 § 1.º A demolição ou alteração dá direito a justa indemnização, que, na falta de acordo, será fixada nos termos da legislação sobre expropriações por utilidade pública.
 
@@ -149,33 +169,33 @@ A expropriação limitar-se-á ao que for necessário para proceder convenientem
 
 § 6.º O disposto nos parágrafos deste artigo não é aplicável aos trabalhos que tiverem sido executados em zona já sujeita a servidão e que, por inobservância do respectivo regime, já pudessem ser demolidos por decisão das entidades competentes, observando-se, na demolição dos mesmos, os artigos 19.º a 22.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), desta data.
 
-###### Art. 9.º A competência para a fiscalização e licenciamento de trabalhos em zonas sujeitas a servidões aeronáuticas e para as restantes decisões previstas no presente diploma pertence, na metrópole, à Direcção-Geral da Aeronáutica Civil, e nas províncias ultramarinas, ao respectivo serviço de aeronáutica.
+Art. 9.º A competência para a fiscalização e licenciamento de trabalhos em zonas sujeitas a servidões aeronáuticas e para as restantes decisões previstas no presente diploma pertence, na metrópole, à Direcção-Geral da Aeronáutica Civil, e nas províncias ultramarinas, ao respectivo serviço de aeronáutica.
 
-###### Art. 10.º As servidões aeronáuticas e as servidões militares respeitantes a aeródromo civil ou instalação de apoio à aviação civil deverão ser estudadas coordenadamente, e, sempre que possível, constituídas, modificadas ou extintas pelo mesmo diploma.
+Art. 10.º As servidões aeronáuticas e as servidões militares respeitantes a aeródromo civil ou instalação de apoio à aviação civil deverão ser estudadas coordenadamente, e, sempre que possível, constituídas, modificadas ou extintas pelo mesmo diploma.
 
-###### Art. 11.º É aplicável às servidões aeronáuticas, nas matérias não reguladas no presente diploma, o regime estabelecido para as servidões militares no [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), desta data.
+Art. 11.º É aplicável às servidões aeronáuticas, nas matérias não reguladas no presente diploma, o regime estabelecido para as servidões militares no [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), desta data.
 
-###### Art. 12.º Para o estabelecimento de sistemas de iluminação, de linhas telegráficas e telefónicas, antenas ou outra aparelhagem necessária ao eficiente funcionamento dos aeródromos ou das instalações de apoio à aviação, podem as autoridades aeronáuticas exercer todos os poderes que as leis e regulamentos conferem à Administração-Geral dos Correios, Telégrafos e Telefones.
+Art. 12.º Para o estabelecimento de sistemas de iluminação, de linhas telegráficas e telefónicas, antenas ou outra aparelhagem necessária ao eficiente funcionamento dos aeródromos ou das instalações de apoio à aviação, podem as autoridades aeronáuticas exercer todos os poderes que as leis e regulamentos conferem à Administração-Geral dos Correios, Telégrafos e Telefones.
 
-###### Art. 13.º As autoridades aeronáuticas poderão ordenar, mediante notificação aos interessados, a sinalização de construções, estruturas ou obstáculos de qualquer natureza que afectem a segurança da navegação aérea, onde quer que estejam localizados.
+Art. 13.º As autoridades aeronáuticas poderão ordenar, mediante notificação aos interessados, a sinalização de construções, estruturas ou obstáculos de qualquer natureza que afectem a segurança da navegação aérea, onde quer que estejam localizados.
 
 § 1.º Se os interessados não procederam à sinalização no prazo que lhes tenha sido fixado, será a mesma efectuada pelos serviços, por conta daqueles.
 
 § 2.º À cobrança das despesas previstas no parágrafo anterior é aplicável o disposto nos artigos 21.º e 22.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), desta data.
 
-###### Art. 14.º As autoridades aeronáuticas poderão instalar balizas e sinais para ajudas visuais à navegação aérea em vias de comunicação, obras de arte, terrenos e paredes ou telhados de construção, notificando prèviamente os proprietários, quando se tratar de bens do domínio privado, e ficando aqueles com direito a serem indemnizados dos prejuízos que daí lhes advierem.
+Art. 14.º As autoridades aeronáuticas poderão instalar balizas e sinais para ajudas visuais à navegação aérea em vias de comunicação, obras de arte, terrenos e paredes ou telhados de construção, notificando prèviamente os proprietários, quando se tratar de bens do domínio privado, e ficando aqueles com direito a serem indemnizados dos prejuízos que daí lhes advierem.
 
-###### Art. 15.º As autoridades aeronáuticas informarão a Direcção-Geral dos Serviços de Urbanização, bem como as câmaras municipais e gabinetes e comissões especiais interessados, das áreas afectadas por ruídos incómodos, para o efeito de tais áreas serem consideradas nos planos de desenvolvimento urbano cuja elaboração estiver a cargo das referidas entidades.
+Art. 15.º As autoridades aeronáuticas informarão a Direcção-Geral dos Serviços de Urbanização, bem como as câmaras municipais e gabinetes e comissões especiais interessados, das áreas afectadas por ruídos incómodos, para o efeito de tais áreas serem consideradas nos planos de desenvolvimento urbano cuja elaboração estiver a cargo das referidas entidades.
 
-###### Art. 16.º As autoridades aeronáuticas e os seus agentes têm direito de acesso às instalações de apoio à aviação, pelos terrenos contíguos, ficando os respectivos proprietários ou locatários obrigados a consentir que pelos mesmos terrenos sejam transportados os materiais e maquinismos necessários à montagem e funcionamento das instalações, sem prejuízo do direito a serem indemnizados pelos danos que daí lhes advierem.
+Art. 16.º As autoridades aeronáuticas e os seus agentes têm direito de acesso às instalações de apoio à aviação, pelos terrenos contíguos, ficando os respectivos proprietários ou locatários obrigados a consentir que pelos mesmos terrenos sejam transportados os materiais e maquinismos necessários à montagem e funcionamento das instalações, sem prejuízo do direito a serem indemnizados pelos danos que daí lhes advierem.
 
-###### Art. 17.º Os organismos competentes para a regulamentação e fiscalização do trânsito público tomarão as providências necessárias para que este, dentro das zonas das servidões respeitantes a aeródromos, se conforme com as normas prescritas pelas autoridades aeronáuticas, para garantir a segurança da navegação aérea.
+Art. 17.º Os organismos competentes para a regulamentação e fiscalização do trânsito público tomarão as providências necessárias para que este, dentro das zonas das servidões respeitantes a aeródromos, se conforme com as normas prescritas pelas autoridades aeronáuticas, para garantir a segurança da navegação aérea.
 
-###### Art. 18.º São consideradas de utilidade pública as expropriações necessárias à execução das obras de construção ou ampliação de aeródromos e instalações de apoio à aviação civil.
+Art. 18.º São consideradas de utilidade pública as expropriações necessárias à execução das obras de construção ou ampliação de aeródromos e instalações de apoio à aviação civil.
 
-###### Art. 19.º Fica revogado o [Decreto n.º 19681](https://diariodarepublica.pt/dr/detalhe/decreto/19681-1931-526468), de 30 de Abril de 1931.
+Art. 19.º Fica revogado o [Decreto n.º 19681](https://diariodarepublica.pt/dr/detalhe/decreto/19681-1931-526468), de 30 de Abril de 1931.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

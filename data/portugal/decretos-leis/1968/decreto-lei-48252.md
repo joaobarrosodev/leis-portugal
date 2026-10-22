@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 44/1968, 1º Suplemento, Série I de 1968-02-21
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 277 - 277
   pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04401/02770277.pdf
 entry_into_force_dates: []
@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48252-1968-143546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1a645b68fd1213848bb7c0d4a5875370addaafade7b67a6191d9670daac87f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5308bb734147eda5e21948d4517751fd895d2725fab84b236b8c7611ef7cddb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- EFTA
+- Importação
+- Pauta dos Direitos de Importação
+relationships:
+- type: cites
+  target: pt:dre:391403:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:23Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +97,11 @@ Tendo em vista as disposições da Convenção que instituiu a Associação Euro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo, 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-###### Artigo único. São introduzidas na lista anexa ao [Decreto-Lei n.º 47957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47957-1967-391403), de 25 de Setembro de 1967, as mercadorias constantes da relação junta ao presente diploma.
+Artigo único. São introduzidas na lista anexa ao [Decreto-Lei n.º 47957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47957-1967-391403), de 25 de Setembro de 1967, as mercadorias constantes da relação junta ao presente diploma.
 
 § único. As disposições estabelecidas por aquele decreto-lei são igualmente aplicáveis à liquidação e cobrança dos direitos das mercadorias citadas no corpo deste artigo quando importadas nas condições naquele fixadas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -99,6 +109,6 @@ Para ser presente à Assembleia Nacional.
 
 Lista das mercadorias que, nos termos deste decreto-lei, passam a ser submetidas ao regime do § 5.º do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/04401/02770277.pdf))](https://files.diariodarepublica.pt/1s/1968/02/04401/02770277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/04401/02770277.pdf)
 
 Ministério das Finanças, 21 de Fevereiro de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.

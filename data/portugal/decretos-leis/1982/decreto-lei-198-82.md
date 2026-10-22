@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11500/13491351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1982-392414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:43:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3baaab3b0d94663f844f9a9acb27e7e6185d4642989aad5e6a485cdc3012a9a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3eefe9ff42d0956137981d7e975125991ff567c0d3c53187da75b93b35a7203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:43:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Código do Imposto Profissional
+- Imposto Profissional
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:144417:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:43:01Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +114,9 @@ Assim:
 
 Usando da faculdade conferida nas alíneas a), c), d), e), f), g), h) e i) do n.º 1 do artigo 18.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 5.º, 20.º, 21.º, 27.º, 28.º, 38.º, 47.º, 55.º, 57.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 5.º, 20.º, 21.º, 27.º, 28.º, 38.º, 47.º, 55.º, 57.º e 59.º do Código do Imposto Profissional passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 § 1.º ...
 
@@ -110,7 +124,7 @@ Usando da faculdade conferida nas alíneas a), c), d), e), f), g), h) e i) do n.
 
 § 3.º Compreendem-se na alínea b) tanto os originários titulares dos direitos como os sucessivos adquirentes, quando o rendimento respeite a registos de propriedade feitos no continente ou nos arquipélagos dos Açores e da Madeira, ou, não tendo sido feito registo ou praticada formalidade equivalente, o contribuinte aí resida ou o devedor desses rendimentos tenha aí residência, sede efectiva ou estabelecimento estável ao qual o pagamento deva imputar-se.
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -118,13 +132,13 @@ f) Os subsídios de refeição, até ao limite do quantitativo fixado em portari
 
 g) Os subsídios de aleitação, até ao limite do quantitativo fixado para os servidores do Estado.
 
-###### Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 160000$00.
+Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 160000$00.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 1.º ...
 
@@ -136,29 +150,29 @@ g) Os subsídios de aleitação, até ao limite do quantitativo fixado para os s
 
 § 5.º ...
 
-###### Art. 21.º As taxas do imposto profissional são as seguintes:
+Art. 21.º As taxas do imposto profissional são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/11500/13491351.pdf))](https://files.diariodarepublica.pt/1s/1982/05/11500/13491351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11500/13491351.pdf)
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 27.º As pessoas que contratarem artistas de teatro, bailado, cinema, rádio, televisão, variedades ou circo, músicos, cantores, toureiros ou desportistas, bem como conferencistas, cientistas ou técnicos, domiciliados no estrangeiro, deduzirão, às remunerações que lhes atribuírem ou pagarem a importância referida no artigo 26.º, no mínimo de 10%, ainda que as respectivas remunerações não excedam o limite estabelecido no artigo 5.º
+Art. 27.º As pessoas que contratarem artistas de teatro, bailado, cinema, rádio, televisão, variedades ou circo, músicos, cantores, toureiros ou desportistas, bem como conferencistas, cientistas ou técnicos, domiciliados no estrangeiro, deduzirão, às remunerações que lhes atribuírem ou pagarem a importância referida no artigo 26.º, no mínimo de 10%, ainda que as respectivas remunerações não excedam o limite estabelecido no artigo 5.º
 
 § único. ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 § 1.º ...
 
 § 2.º No caso de os contribuintes exercerem actividades por conta própria e igualmente actividades por conta de outrem e ou serem titulares de direitos de autor sobre obras intelectuais, a taxa aplicável aos rendimentos da actividade por conta própria a ter em conta na autoliquidação será determinada em função do rendimento global.
 
-###### Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. ...
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 § 1.º ...
 
@@ -166,19 +180,19 @@ g) Os subsídios de aleitação, até ao limite do quantitativo fixado para os s
 
 § 3.º As relações e notas referidas neste artigo poderão, mediante prévia autorização da Direcção-Geral das Contribuições e Impostos, adaptar-se ao sistema de organização das empresas ou demais entidades, nomeadamente com apoio da informática, sem prejuízo do formato e dos elementos nelas exigidos; a aposição da assinatura nas notas poderá ser feita mecanicamente ou por chancela.
 
-###### Art. 55.º Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos. Igual faculdade é concedida às entidades que, nos termos do artigo 29.º, tenham entregue nos cofres do Estado, por virtude de erro material, importâncias superiores às devidas.
+Art. 55.º Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos. Igual faculdade é concedida às entidades que, nos termos do artigo 29.º, tenham entregue nos cofres do Estado, por virtude de erro material, importâncias superiores às devidas.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 57.º ...
+Art. 57.º ...
 
 § 1.º Contar-se-ão juros de 18% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
 § 2.º ...
 
-###### Art. 59.º ...
+Art. 59.º ...
 
 § 1.º ...
 
@@ -186,15 +200,15 @@ g) Os subsídios de aleitação, até ao limite do quantitativo fixado para os s
 
 § 3.º Verificada a falta ou inexactidão dos elementos referidos no corpo deste artigo, e independentemente do procedimento para a aplicação da correspondente multa, o chefe da repartição de finanças mandará notificar o transgressor para proceder à respectiva entrega ou correcção, dentro do prazo a designar, entre 15 a 30 dias, com a cominação de que, não o fazendo, ficará sujeito à multa prevista no artigo 63.º
 
-###### Art. 2.º É eliminada a alínea e) do § 2.º do artigo 1.º do Código do Imposto Profissional.
+Art. 2.º É eliminada a alínea e) do § 2.º do artigo 1.º do Código do Imposto Profissional.
 
-###### Art. 3.º É aditada ao n.º 1 do artigo 10.º do Código do Imposto Profissional a alínea n), com a seguinte redacção:
+Art. 3.º É aditada ao n.º 1 do artigo 10.º do Código do Imposto Profissional a alínea n), com a seguinte redacção:
 
 n) Quotizações para a segurança social respeitantes ao contribuinte, na parte que exceda a taxa legal das contribuições dos trabalhadores por conta de outrem para o regime geral da previdência.
 
-###### Art. 4.º São aditados ao Código do Imposto Profissional os artigos 79.º-A e 84.º-A, com a seguinte redacção:
+Art. 4.º São aditados ao Código do Imposto Profissional os artigos 79.º-A e 84.º-A, com a seguinte redacção:
 
-###### Art. 79.º-A. As penalidades previstas neste Código serão reduzidas às multas a seguir indicadas sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos 15 dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
+Art. 79.º-A. As penalidades previstas neste Código serão reduzidas às multas a seguir indicadas sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos 15 dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
 
 a) Multa de 5% do quantitativo em falta, no mínimo de 200$00, quando a obrigação consistir unicamente no pagamento ou entrega do imposto nos cofres do Estado;
 
@@ -204,13 +218,13 @@ b) Multa variável entre 200$00 e 40000$00, quando estiverem em causa outras obr
 
 § 2.º O produto das multas cobradas nos termos deste artigo reverterá integralmente para o Estado.
 
-###### Art. 84.º-A. Os contribuintes obrigados à autoliquidação do imposto poderão remeter pelo correio, sob registo postal, a declaração modelo n.º 1 e respectivos documentos e, bem asim, o cheque ou vale do correio à competente repartição de finanças, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do duplicado da declaração e demais documentos.
+Art. 84.º-A. Os contribuintes obrigados à autoliquidação do imposto poderão remeter pelo correio, sob registo postal, a declaração modelo n.º 1 e respectivos documentos e, bem asim, o cheque ou vale do correio à competente repartição de finanças, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para devolução imediata, também sob registo, do duplicado da declaração e demais documentos.
 
 § 1.º A repartição de finanças, ao receber a declaração modelo n.º 1, os documentos justificativos e o cheque ou vale de correio, deverá proceder à respectiva conferência, processar o conhecimento e promover a cobrança, apresentando, no final de cada dia, na competente tesouraria, os conhecimentos e respectivos meios de pagamento.
 
 § 2.º A remessa das declarações, documentos e cheques ou vales de correio deverá ser feita com a antecedência mínima de 3 dias úteis em relação ao último dia do prazo para a entrega das declarações modelo n.º 1.
 
-###### Art. 5.º São alteradas as rubricas «Artistas plásticos e assimilados» e «Outras pessoas exercendo profissões liberais, técnicas e assimilados», constantes da tabela das actividades exercidas por conta própria referida no artigo 2.º, alínea c), do Código do Imposto Profissional, e aditadas novas actividades, com as correspondentes deduções mínimas e fixas, a que se referem, respectivamente, os n.os 1.º e 2.º do artigo 10.º do mesmo Código, nos termos seguintes:
+Art. 5.º São alteradas as rubricas «Artistas plásticos e assimilados» e «Outras pessoas exercendo profissões liberais, técnicas e assimilados», constantes da tabela das actividades exercidas por conta própria referida no artigo 2.º, alínea c), do Código do Imposto Profissional, e aditadas novas actividades, com as correspondentes deduções mínimas e fixas, a que se referem, respectivamente, os n.os 1.º e 2.º do artigo 10.º do mesmo Código, nos termos seguintes:
 
 a) Artistas plásticos e assimilados, actores, compositores e intérpretes musicais, jornalistas e repórteres:
 
@@ -256,7 +270,7 @@ b) Outras pessoas exercendo profissões liberais, técnicas e assimiladas:
 
 15.11 - Desportistas - 8% e 6%.
 
-###### Art. 6.º - 1 - As alterações introduzidas nos artigos 1.º, 3.º, 5.º, 10.º e 21.º do Código do Imposto Profissional e, bem assim, na tabela a que se refere o artigo 2.º, alínea c), do mesmo Código, nos termos dos artigos 1.º, 2.º, 3.º e 5.º do presente decreto-lei, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1982 e seguintes.
+Art. 6.º - 1 - As alterações introduzidas nos artigos 1.º, 3.º, 5.º, 10.º e 21.º do Código do Imposto Profissional e, bem assim, na tabela a que se refere o artigo 2.º, alínea c), do mesmo Código, nos termos dos artigos 1.º, 2.º, 3.º e 5.º do presente decreto-lei, são aplicáveis às remunerações e rendimentos recebidos ou postos à disposição dos seus titulares nos anos de 1982 e seguintes.
 
 2 - As importâncias que, por virtude das alterações referidas no número anterior, se considerem a mais ou a menos deduzidas e entregues nos cofres do Estado nos termos dos artigos 26.º, 27.º e 29.º do Código serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações ou rendimentos a pagar ou a atribuir até ao fim do ano em curso.
 
@@ -264,8 +278,8 @@ b) Outras pessoas exercendo profissões liberais, técnicas e assimiladas:
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Maio de 1982.**
+Promulgado em 5 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

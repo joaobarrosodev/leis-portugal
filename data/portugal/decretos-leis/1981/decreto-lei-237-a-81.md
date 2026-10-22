@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 179/1981, 1º Suplemento, Série I de 1981-08-06
   number: '179'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2030-(1) a 2030-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/17901/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1981-634125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e4da0e86fcfd1c807bdf9f8ac76ff786db7fe5671dab5beefbc2ddd3013d3f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2e2e381d8ff2d3f4be1d9a313297e1838b87b130b8625db0d76ec951f573764
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Contenção de Despesas
+- Despesas Públicas
+- Medidas de Austeridade
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:10Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +123,7 @@ Ao abrigo do disposto no n.º 2 do artigo 18.º da [Lei n.º 64/77](https://diar
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Utilização das disponibilidades dos duodécimos vencidos)
 
@@ -120,7 +133,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - Os encargos referidos no número antecedente deverão ser comunicados às delegações de maneira que estas possam ter conhecimento efectivo deles até 15 de Agosto do corrente ano.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Utilização dos duodécimos de Dezembro)
 
@@ -146,7 +159,7 @@ i) Transferências - Sector público - Serviços autónomos (capital);
 
 j) Outras despesas de capital - Diversas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Verbas não sujeitas ao regime dos artigos anteriores)
 
@@ -168,13 +181,13 @@ g) Serviços dependentes do Ministério da Habitação e Obras Públicas, na par
 
 2 - O Ministro das Finanças e do Plano poderá ainda autorizar que fiquem isentas do disposto nos artigos 1.º e 2.º outras verbas não incluídas no número anterior, desde que devidamente justificadas mediante processo' a organizar pelos serviços interessados e a informar pelas competentes delegações da Direcção-Geral da Contabilidade Pública, depois de obtida autorização prévia do Ministro da tutela.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Prevalência)
 
 O presente diploma prevalece sobre quaisquer normas especiais aplicáveis aos serviços e empresas interessados.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Entrada em vigor)
 
@@ -182,8 +195,8 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 1 de Agosto de 1981.**
+Promulgado em 1 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

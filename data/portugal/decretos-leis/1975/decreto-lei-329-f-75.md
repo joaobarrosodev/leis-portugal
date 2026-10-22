@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 148/1975, 3º Suplemento, Série I de 1975-06-30
   number: '148'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 908-(74) a 908-(74)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14803/00740074.pdf
 entry_into_force_dates: []
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-f-1975-234081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6510c1a5abd1450fae93384e70825bfe005495f8fb6617889d70fd7213bf5ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc77732a0434ce36fa6d1a15c9e9b8f240ec9c81f33b31911fc5cea13e5ee16f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.ilha Adjacente
+- Ministério dos Transportes e Comunicações
+- Orgânica
+- Serviço de Pilotagem dos Portos e Barras
+relationships:
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:10Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +102,14 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único - 1. A Corporação Geral dos Pilotos das Barras e Portos do Continente e das Ilhas Adjacentes passa a depender do Ministério dos Transportes e Comunicações.
+Artigo único - 1. A Corporação Geral dos Pilotos das Barras e Portos do Continente e das Ilhas Adjacentes passa a depender do Ministério dos Transportes e Comunicações.
 
 2. Enquanto não forem reestruturados os serviços de pilotagem, mantém-se em vigor o actual Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, sendo transferida, desde já, para o Ministro dos Transportes e Comunicações a competência que, pelo mesmo Regulamento, pertencia ao Ministro da Marinha.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 30 de Junho de 1975.**
+Promulgado em 30 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

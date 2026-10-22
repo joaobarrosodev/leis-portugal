@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1978-448521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed6848d8716840bebbb0867f5b086b59747e477be085c9c9bf8bb343fb5bca55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8db8ba9e60e43a4a0e29a53e4a05176ff78e37285ecc3511b4df542ef0c59788
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Nacional de Belas-artes
+- Definição de Competências
+- Personalidade Jurídica
+- Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:531462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325152:por
+  label: Alterado o art. 8.º pelo(a) Decreto-Lei n.º 418/78 - Diário da República n.º 292/1978, Série I de 1978-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/418-1978-325152
+  date: '1978-12-21'
+- type: amended_by
+  target: pt:dre:217933:por
+  label: "Aditados os arts. 4.º-A e 4.ºB pelo DEC LEI.371/98.1998.11.23.MC DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1998-217933
+  date: '1998-11-23'
+- type: cites
+  target: pt:dre:508223:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:13Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +122,9 @@ Nestes termos, de acordo com o que foi proposto pela Academia Nacional de Belas-
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Academia Nacional de Belas-Artes, sucessora das extintas Academia Real de Belas-Artes e Academia Portuguesa de Belas-Artes, é uma instituição de utilidade pública, dotada de personalidade jurídica, sob tutela da Secretaria de Estado da Cultura.
+Artigo 1.º A Academia Nacional de Belas-Artes, sucessora das extintas Academia Real de Belas-Artes e Academia Portuguesa de Belas-Artes, é uma instituição de utilidade pública, dotada de personalidade jurídica, sob tutela da Secretaria de Estado da Cultura.
 
-###### Art. 2.º A Academia Nacional de Belas-Artes tem as seguintes atribuições e competências:
+Art. 2.º A Academia Nacional de Belas-Artes tem as seguintes atribuições e competências:
 
 a) Promover a investigação, reflexão e divulgação dos problemas postos pelas artes visuais, especialmente em Portugal, através, designadamente, da realização ou da participação em reuniões científicas, seminários, conferências, exposições e publicações e da utilização de meios áudio-visuais;
 
@@ -141,19 +160,19 @@ q) Colaborar e participar em reuniões científicas nacionais e internacionais r
 
 r) Publicar o Boletim da Academia Nacional de Belas-Artes e demais trabalhos que resultem da actividade académica.
 
-###### Art. 3.º Os estatutos da Academia Nacional de Belas-Artes serão aprovados através de portaria do Secretário de Estado da Cultura.
+Art. 3.º Os estatutos da Academia Nacional de Belas-Artes serão aprovados através de portaria do Secretário de Estado da Cultura.
 
-###### Art. 4.º No património da Academia Nacional de Belas-Artes são incorporados, a título definitivo, a biblioteca, os arquivos, as colecções de arte e o mobiliário da extinta Academia Real de Belas-Artes.
+Art. 4.º No património da Academia Nacional de Belas-Artes são incorporados, a título definitivo, a biblioteca, os arquivos, as colecções de arte e o mobiliário da extinta Academia Real de Belas-Artes.
 
-###### Art. 5.º O tempo correspondente à participação, nas sessões da Academia, dos académicos que também sejam servidores do Estado ou dos corpos administrativos será contado, para todos os efeitos legais, como tempo de serviço no desempenho das respectivas funções.
+Art. 5.º O tempo correspondente à participação, nas sessões da Academia, dos académicos que também sejam servidores do Estado ou dos corpos administrativos será contado, para todos os efeitos legais, como tempo de serviço no desempenho das respectivas funções.
 
-###### Art. 6.º O secretário da Academia terá direito à gratificação mensal de 600$00, a inscrever no Orçamento Geral do Estado.
+Art. 6.º O secretário da Academia terá direito à gratificação mensal de 600$00, a inscrever no Orçamento Geral do Estado.
 
 § único. A igual gratificação terá direito o vice-secretário da Academia, durante o período em que exercer as funções de secretário, na falta ou impedimento deste.
 
-###### Art. 7.º A Academia Nacional de Belas-Artes dispõe do quadro de pessoal anexo ao presente diploma, o qual poderá ser alterado por portaria dos Secretários de Estado da Administração Pública e da Cultura.
+Art. 7.º A Academia Nacional de Belas-Artes dispõe do quadro de pessoal anexo ao presente diploma, o qual poderá ser alterado por portaria dos Secretários de Estado da Administração Pública e da Cultura.
 
-###### Art. 8.º Os lugares do quadro a que se refere o artigo anterior serão providos mediante despacho do Secretário de Estado da Cultura, sob proposta da Academia, de acordo com as seguintes regras:
+Art. 8.º Os lugares do quadro a que se refere o artigo anterior serão providos mediante despacho do Secretário de Estado da Cultura, sob proposta da Academia, de acordo com as seguintes regras:
 
 a) Terceiro-bibliotecário - de entre indivíduos habilitados com curso superior adequado e a especialização a que se refere o [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965;
 
@@ -171,22 +190,22 @@ g) Catalogador de 1.ª classe - de entre catalogadores de 2.ª classe com três 
 
 h) Escriturário-dactilógrafo e contínuo - nos termos da lei geral.
 
-###### Art. 9.º O primeiro provimento dos lugares do quadro de pessoal anexo ao presente diploma será feito de entre o pessoal que actualmente presta serviço na Academia Nacional de Belas-Artes, mediante lista nominativa aprovada pelo Secretário de Estado da Cultura e publicada no Diário da República, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, e sem prejuízo das habilitações exigidas.
+Art. 9.º O primeiro provimento dos lugares do quadro de pessoal anexo ao presente diploma será feito de entre o pessoal que actualmente presta serviço na Academia Nacional de Belas-Artes, mediante lista nominativa aprovada pelo Secretário de Estado da Cultura e publicada no Diário da República, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas, e sem prejuízo das habilitações exigidas.
 
-###### Art. 10.º Os encargos resultantes da publicação deste diploma serão suportados no corrente ano económico em conta das disponibilidades das dotações orçamentais afectas à Academia Nacional de Belas-Artes, as quais poderão, se necessário, ser reforçadas.
+Art. 10.º Os encargos resultantes da publicação deste diploma serão suportados no corrente ano económico em conta das disponibilidades das dotações orçamentais afectas à Academia Nacional de Belas-Artes, as quais poderão, se necessário, ser reforçadas.
 
-###### Art. 11.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 11.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 30 de Janeiro de 1978.**
+Promulgado em 30 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03400/03270329.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03400/03270329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03400/03270329.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

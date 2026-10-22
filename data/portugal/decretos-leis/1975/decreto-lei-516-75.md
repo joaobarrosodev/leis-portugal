@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1975-307216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f4c7af5ee60d903eb5a9680e3ea1fa3af65c15d2ef598608b3fcb09b676f0a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c871470f608a70d8b3cc906c1d582c3f7f890a7a740f20056834f84abb0809b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Imposto de Trânsito
+relationships:
+- type: cites
+  target: pt:dre:458456:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:422850:por
+  label: "Rectificado pela RECT.DD158.14.10.1975.PCM, DG.IS [238-Supl] de 14.10.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-422850
+  date: '1975-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:53Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +104,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É abolido o imposto de trânsito, regulado pelo [Decreto-Lei n.º 24326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24326-1934-458456), de 9 de Agosto de 1934.
+Artigo único. É abolido o imposto de trânsito, regulado pelo [Decreto-Lei n.º 24326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24326-1934-458456), de 9 de Agosto de 1934.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Alfredo António Cândido de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 15 de Setembro de 1975.**
+Promulgado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

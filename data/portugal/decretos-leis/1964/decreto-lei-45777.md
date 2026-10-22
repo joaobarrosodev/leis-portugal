@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/06/15100/08240824.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45777-1964-578104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9221f0e9807f4d64023230374a8a3151d79303ae729df2d1c5b0ed807ac44ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f371a3f4355d79319573d587a8ce820ef2e81da5be27a6644e3ca2b73f5dbb47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Militar
+- Pessoal Civil
+- Quadro de Pessoal
+- Serviço Cartográfico do Exército
 relationships:
 - type: amended_by
   target: pt:dre:381481:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:628320:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:381481:por
+  label: "Revogado pelo DEC LEI.269/79.03.08.1979.CR, DR.IS [178] de 03.08.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-1979-381481
+  date: '1979-08-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:33Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +105,16 @@ Reconhecendo-se a necessidade de autorizar a aludida Chefia a admitir e manter a
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal civil, contratado, da Chefia do Serviço Cartográfico do Exército, é fixado, a título provisório, como a seguir se indica:
+Artigo 1.º O quadro do pessoal civil, contratado, da Chefia do Serviço Cartográfico do Exército, é fixado, a título provisório, como a seguir se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/06/15100/08240824.pdf))](https://files.diariodarepublica.pt/1s/1964/06/15100/08240824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/06/15100/08240824.pdf)
 
-###### Art. 2.º O quadro orgânico da Chefia do Serviço Cartográfico do Exército estabelecido no n.º 4) da alínea b) do n.º 1.º da [Portaria n.º 19840](https://diariodarepublica.pt/dr/detalhe/portaria/19840-1963-628320), de 2 de Maio de 1963, é diminuído de dois adjuntos, subalternos de qualquer arma ou serviço, do activo ou da reserva, especializados em desenho cartográfico.
+Art. 2.º O quadro orgânico da Chefia do Serviço Cartográfico do Exército estabelecido no n.º 4) da alínea b) do n.º 1.º da [Portaria n.º 19840](https://diariodarepublica.pt/dr/detalhe/portaria/19840-1963-628320), de 2 de Maio de 1963, é diminuído de dois adjuntos, subalternos de qualquer arma ou serviço, do activo ou da reserva, especializados em desenho cartográfico.
 
-###### Art. 3.º Os encargos resultantes deste diploma, no presente ano, são suportados pelas verbas inscritas no capítulo 2.º, artigo 19.º, n.º 2), 1, do actual orçamento do Ministério do Exército e no capítulo 2.º, artigo 19.º, n.º 1), do mesmo orçamento, para os dois adjuntos (oficiais subalternos de qualquer arma ou serviço, do activo ou da reserva), a que se refere o artigo anterior.
+Art. 3.º Os encargos resultantes deste diploma, no presente ano, são suportados pelas verbas inscritas no capítulo 2.º, artigo 19.º, n.º 2), 1, do actual orçamento do Ministério do Exército e no capítulo 2.º, artigo 19.º, n.º 1), do mesmo orçamento, para os dois adjuntos (oficiais subalternos de qualquer arma ou serviço, do activo ou da reserva), a que se refere o artigo anterior.
 
-###### Art. 4.º A primeira nomeação do pessoal contratado recairá, com dispensa de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas, nos indivíduos que prestem serviço, como assalariados, no Serviço Cartográfico do Exército, há mais de um ano, e que deverão constar de lista a publicar no Diário do Governo dentro de 60 dias, a contar da entrada em vigor do presente diploma.
+Art. 4.º A primeira nomeação do pessoal contratado recairá, com dispensa de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas, nos indivíduos que prestem serviço, como assalariados, no Serviço Cartográfico do Exército, há mais de um ano, e que deverão constar de lista a publicar no Diário do Governo dentro de 60 dias, a contar da entrada em vigor do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

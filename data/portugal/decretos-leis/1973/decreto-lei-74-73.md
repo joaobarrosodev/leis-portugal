@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/05100/03220338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1973-684472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0723639468d22da7ec6f6e11b226671b3909eb70cd07a5869fdf4fc4f699b60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 436b6412b8795f0bf13df28a8843717f81ab1d18e41dabe1fd6d0da6f4f6327c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armador
+- Assistência Médica
+- Condições de Higiene e Segurança no Trabalho
+- Contrato Individual de Trabalho
+- Faltas
+- Férias
+- Horário de Trabalho
+- Horas Extraordinárias
+- Inscrição Marítima
+- Marinha Mercante
+- Pessoal do MAR
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:70236274:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345122:por
+  label: "Alterado o art. 104.º e revogados os arts. 105.º, 106.º e 107.º pela LEI.114/99.1999.08.03.AR, DR.IS-A [179] de\
+    \ 03.08.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-1999-345122
+  date: '1999-08-03'
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:674834:por
+  label: "Rectificada a alínea d) do n.º 2 do artigo 11.º pela RECT.DD322.24.03.1973.PC, DG.IS [71] de 24.03.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-674834
+  date: '1973-03-24'
+- type: repealed_by
+  target: pt:dre:615193:por
+  label: Revogadas as secções II e III do cap. I pelo DEC LEI.104/89.06.04.1989.MAPA, DR.IS [80] de 06.04.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1989-615193
+  date: '1989-04-06'
+- type: repealed_by
+  target: pt:dre:70236274:por
+  label: Revogado (a partir de 01.11.2015) o presente decreto-lei, na redação do Dec Lei 104/89 de 06-abr, do Dec Lei 88/96
+    de 03-jul e da Lei 114/99 de 03-ago pelo(a) Lei n.º 146/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/146-2015-70236274
+  date: '2015-09-09'
 article_structure:
-  article_count: 112
+  article_count: 111
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:03Z'
   warnings: []
   errors: []
 ---
@@ -126,31 +186,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Regime Jurídico do Contrato Individual de Trabalho do Pessoal da Marinha de Comércio, que se publica em anexo ao presente decreto-lei e dele faz parte integrante.
+Artigo 1.º É aprovado o Regime Jurídico do Contrato Individual de Trabalho do Pessoal da Marinha de Comércio, que se publica em anexo ao presente decreto-lei e dele faz parte integrante.
 
-###### Art. 2.º - 1. O Regime Jurídico a que se refere o artigo anterior não é aplicável ao pessoal das embarcações do Estado ou dependentes de administrações de carácter autónomo, nem ao das embarcações de comércio de tráfego local.
+Art. 2.º - 1. O Regime Jurídico a que se refere o artigo anterior não é aplicável ao pessoal das embarcações do Estado ou dependentes de administrações de carácter autónomo, nem ao das embarcações de comércio de tráfego local.
 
 2. O mesmo Regime Jurídico é aplicável aos rebocadores e embarcações auxiliares costeiras e do alto.
 
-###### Art. 3.º Ficam sujeitos ao Regime aprovado por este diploma os contratos individuais celebrados antes da entrada em vigor do mesmo, salvo na parte em que prescrevam regime mais favorável ao pessoal abrangido.
+Art. 3.º Ficam sujeitos ao Regime aprovado por este diploma os contratos individuais celebrados antes da entrada em vigor do mesmo, salvo na parte em que prescrevam regime mais favorável ao pessoal abrangido.
 
-###### Art. 4.º Para os efeitos deste diploma, as expressões abaixo indicadas, contidas em disposições legais também aplicáveis ao pessoal por ele abrangido, passarão a entender-se da forma seguinte:
+Art. 4.º Para os efeitos deste diploma, as expressões abaixo indicadas, contidas em disposições legais também aplicáveis ao pessoal por ele abrangido, passarão a entender-se da forma seguinte:
 
 a) «Rol de matrícula» ou «rol de equipagem»: rol de tripulação;
 
 b) «Matrícula» ou «contrato de matrículas»: inscrição no rol de tripulação.
 
-###### Art. 5.º As disposições que constam deste diploma podem ser introduzidas noutra legislação marítima, por portaria do Ministro da Marinha.
+Art. 5.º As disposições que constam deste diploma podem ser introduzidas noutra legislação marítima, por portaria do Ministro da Marinha.
 
-###### Art. 6.º Este diploma entra em vigor em 1 de Abril de 1973.
+Art. 6.º Este diploma entra em vigor em 1 de Abril de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 16 de Fevereiro de 1973.**
+Promulgado em 16 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -1210,4 +1270,4 @@ Os contratos de trabalho estão sujeitos em especial às normas constantes do pr
 
 As fontes superiores de direito prevalecem sempre sobre as inferiores, salvo na parte em que estas, sem oposição daquelas, estabelecem tratamento mais favorável para o trabalhador.
 
-**O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

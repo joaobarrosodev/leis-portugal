@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 148/1976, 1º Suplemento, Série I de 1976-06-26
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1420-(1) a 1420-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/14801/00010010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75670f5663309668f1bff9afe5ac391a2c020d4c473db449034a9148c97712f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4985799247832378793cc5773938070ea3c592e02ec6da12cc6effed7334f15e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- IPE
 relationships:
 - type: amended_by
   target: pt:dre:373780:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139945:por
+  label: Determinado equiparado ao Estado para o efeito § 3.º do artigo 183.º do Código Comercial o Instituto das Participações
+    do Estado pelo(a) Despacho Normativo n.º 87/77 - Diário da República n.º 89/1977, Série I de 1977-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/87-1977-139945
+  date: '1977-04-16'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638886:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:430588:por
+  label: Rectificado pela DECL.DD8327.21.07.1976.PCM, DR.IS [169] de 21.07.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430588
+  date: '1976-07-21'
+- type: repealed_by
+  target: pt:dre:406762:por
+  label: "Revogados os artigos 23.º e 52.º do Estatuto anexo ao presente diploma, pelo DEC LEI.831/76.25.11.1976.MPCE, DR.IS\
+    \ [276] de 25.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/831-1976-406762
+  date: '1976-11-25'
+- type: repealed_by
+  target: pt:dre:250635:por
+  label: "Revogados os artigos 45.º, 46.º, 47.º e 48.º do Estatuto anexo ao presente diploma, pelo DEC LEI.285/77.13.07.1977.MPCE,\
+    \ DR.IS [160] de 13.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1977-250635
+  date: '1977-07-13'
+- type: repealed_by
+  target: pt:dre:397495:por
+  label: "Revogado pelo DEC LEI.330/82.18.08.1982.MFP, DR.IS [190] de 18.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1982-397495
+  date: '1982-08-18'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:56Z'
   warnings: []
   errors: []
 ---
@@ -148,29 +186,29 @@ Tais modalidades têm em conta não só a diversidade de implicações que as tr
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado o Estatuto do Instituto das Participações do Estado anexo, que se considera parte integrante deste decreto-lei.
+Artigo único. É aprovado o Estatuto do Instituto das Participações do Estado anexo, que se considera parte integrante deste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 
-**Promulgado em 18 de Junho de 1976.**
+Promulgado em 18 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES
 
 ESTATUTO DO INSTITUTO DAS PARTICIPAÇÕES DO ESTADO
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O Instituto das Participações do Estado, E. P., abreviadamente designado por IPE, é uma empresa pública dotada de personalidade jurídica de direito público, com autonomia administrativa e financeira e com património próprio, que se rege pelo disposto no presente Estatuto e respectivos regulamentos.
+Artigo 1.º O Instituto das Participações do Estado, E. P., abreviadamente designado por IPE, é uma empresa pública dotada de personalidade jurídica de direito público, com autonomia administrativa e financeira e com património próprio, que se rege pelo disposto no presente Estatuto e respectivos regulamentos.
 
-###### Art. 2.º O IPE tem sede em Lisboa e pode ter filiais ou outra qualquer espécie de representação onde o considerar conveniente.
+Art. 2.º O IPE tem sede em Lisboa e pode ter filiais ou outra qualquer espécie de representação onde o considerar conveniente.
 
-###### Art. 3.º O Ministro responsável pelo planeamento é o Ministro da Tutela do IPE.
+Art. 3.º O Ministro responsável pelo planeamento é o Ministro da Tutela do IPE.
 
 ### CAPÍTULO II — Atribuições
 
-###### Art. 4.º - 1. Constituem atribuições do IPE:
+Art. 4.º - 1. Constituem atribuições do IPE:
 
 a) Gerir as participações do sector público no capital de sociedades, com excepção daquelas cuja gestão seja atribuída pelo Conselho de Ministros ao Ministério responsável pelo respectivo sector de actividade, a empresas públicas ou a outras pessoas colectivas de direito público;
 
@@ -190,7 +228,7 @@ g) Intervir na regulamentação e estruturação da carreira do gestor público;
 
 3. As atribuições referidas na alínea b) do n.º 1 serão exercidas, relativamente a cada empresa, no âmbito dos poderes correspondentes, nos termos legais ou estatutários, às participações do sector público no respectivo capital social ou dos poderes de intervenção conferidos por lei ao Estado.
 
-###### Art. 5.º - 1. Para cumprimento das atribuições a que se refere o artigo anterior, compete especialmente ao IPE:
+Art. 5.º - 1. Para cumprimento das atribuições a que se refere o artigo anterior, compete especialmente ao IPE:
 
 a) Organizar e manter actualizado o cadastro das participações do sector público;
 
@@ -234,11 +272,11 @@ s) Promover a execução de quaisquer outras tarefas de que seja encarregado pel
 
 #### SECÇÃO I — Enumeração
 
-###### Art. 6.º São órgãos do IPE o conselho geral, o conselho de gerência e a comissão de fiscalização.
+Art. 6.º São órgãos do IPE o conselho geral, o conselho de gerência e a comissão de fiscalização.
 
 #### SECÇÃO II — Conselho geral
 
-###### Art. 7.º - 1. O conselho geral é composto por:
+Art. 7.º - 1. O conselho geral é composto por:
 
 a) Representantes do Ministro responsável pelo planeamento e dos Ministros das Finanças, da Indústria e Tecnologia, da Agricultura e Pescas, do Comércio Externo e Turismo, do Comércio Interno, dos Transportes e Comunicações, da Habitação, Urbanismo e Construção e do Trabalho;
 
@@ -250,13 +288,13 @@ d) Três representantes das empresas abrangidas pela esfera de acção do IPE.
 
 2. A presidência do conselho geral compete ao representante do Ministro responsável pelo planeamento.
 
-###### Art. 8.º - 1. A representação dos órgãos regionais de planeamento deve obedecer às normas fixadas pelos Ministérios competentes, assegurando-se uma adequada distribuição geográfica dos representantes.
+Art. 8.º - 1. A representação dos órgãos regionais de planeamento deve obedecer às normas fixadas pelos Ministérios competentes, assegurando-se uma adequada distribuição geográfica dos representantes.
 
 2. Os representantes das empresas abrangidas pela esfera de acção do IPE são designados pela forma fixada pelo Governo.
 
 3. A duração do mandato dos membros do conselho geral é de três anos, renovável.
 
-###### Art. 9.º Compete ao conselho geral:
+Art. 9.º Compete ao conselho geral:
 
 a) Apreciar e votar os planos de actividade e financeiros plurianuais do IPE;
 
@@ -268,7 +306,7 @@ d) Apreciar e votar, até 15 de Março de cada ano, as contas de gerência do IP
 
 e) Pronunciar-se por sua iniciativa ou do conselho de gerência sobre quaisquer outros assuntos.
 
-###### Art. 10.º - 1. O conselho geral é convocado pelo presidente e reúne ordinariamente uma vez por semestre e extraordinariamente por iniciativa do seu presidente ou a pedido do conselho de gerência.
+Art. 10.º - 1. O conselho geral é convocado pelo presidente e reúne ordinariamente uma vez por semestre e extraordinariamente por iniciativa do seu presidente ou a pedido do conselho de gerência.
 
 2. Nas reuniões do conselho geral participam, sem direito a voto, os membros do conselho de gerência, da comissão de fiscalização e da comissão de trabalhadores do IPE.
 
@@ -276,13 +314,13 @@ e) Pronunciar-se por sua iniciativa ou do conselho de gerência sobre quaisquer 
 
 #### SECÇÃO III — Conselho de gerência
 
-###### Art. 11.º - 1. O conselho de gerência é constituído por um presidente e pelo número de administradores a fixar pelo Governo, todos nomeados pelo Conselho de Ministros, sob proposta do Ministro responsável pelo planeamento, pelo período de três anos, renovável.
+Art. 11.º - 1. O conselho de gerência é constituído por um presidente e pelo número de administradores a fixar pelo Governo, todos nomeados pelo Conselho de Ministros, sob proposta do Ministro responsável pelo planeamento, pelo período de três anos, renovável.
 
 2. Os administradores são nomeados com o assentimento do presidente.
 
 3. Os membros do conselho de gerência devem ser gestores profissionais devidamente qualificados, trabalhando em tempo inteiro.
 
-###### Art. 12.º - 1. Ao conselho de gerência são conferidos todos os poderes necessários para assegurar o bom funcionamento e o correcto exercício das atribuições do IPE, competindo-lhe ainda a sua representação em juízo ou fora dele e a gestão do seu património, incluindo a aquisição e alienação de bens, com a ressalva dos poderes que por este Estatuto sejam atribuídos a outras entidades ou órgãos da empresa.
+Art. 12.º - 1. Ao conselho de gerência são conferidos todos os poderes necessários para assegurar o bom funcionamento e o correcto exercício das atribuições do IPE, competindo-lhe ainda a sua representação em juízo ou fora dele e a gestão do seu património, incluindo a aquisição e alienação de bens, com a ressalva dos poderes que por este Estatuto sejam atribuídos a outras entidades ou órgãos da empresa.
 
 2. O conselho de gerência pode delegar, no todo ou em parte, em qualquer dos seus membros os poderes que lhe são conferidos no número anterior, definindo em acta os limites e condições de exercício da delegação.
 
@@ -290,11 +328,11 @@ e) Pronunciar-se por sua iniciativa ou do conselho de gerência sobre quaisquer 
 
 4. O exercício da competência do conselho de gerência depende, nos casos previstos neste Estatuto, da autorização ou aprovação do Governo.
 
-###### Art. 13.º - 1. Para o exercício da competência que lhe é própria, o conselho de gerência deve reunir, pelo menos, uma vez por semana.
+Art. 13.º - 1. Para o exercício da competência que lhe é própria, o conselho de gerência deve reunir, pelo menos, uma vez por semana.
 
 2. As decisões são tomadas por maioria dos votos dos membros presentes, tendo o presidente voto de qualidade, e devem ficar exaradas em acta.
 
-###### Art. 14.º - 1. Compete especialmente ao presidente do conselho de gerência:
+Art. 14.º - 1. Compete especialmente ao presidente do conselho de gerência:
 
 a) Coordenar todos os meios ao seu dispor em ordem a serem atingidos todos os objectivos fixados;
 
@@ -314,11 +352,11 @@ g) Desempenhar quaisquer outras funções que lhe sejam cometidas por lei ou dis
 
 #### SECÇÃO IV — Comissão de fiscalização
 
-###### Art. 15.º - 1. A comissão de fiscalização é constituída por um presidente e dois vogais designados por despacho conjunto do Ministro responsável pelo planeamento e do Ministro das Finanças, tendo o presidente voto de qualidade.
+Art. 15.º - 1. A comissão de fiscalização é constituída por um presidente e dois vogais designados por despacho conjunto do Ministro responsável pelo planeamento e do Ministro das Finanças, tendo o presidente voto de qualidade.
 
 2. Os membros da comissão de fiscalização, um dos quais, pelo menos, deve ser revisor oficial de contas, são designados por um período de três anos, renovável.
 
-###### Art. 16.º Compete à comissão de fiscalização:
+Art. 16.º Compete à comissão de fiscalização:
 
 a) Velar pelo cumprimento das leis, regulamentos e demais normas aplicáveis;
 
@@ -334,7 +372,7 @@ f) Elaborar anualmente relatório sobre a sua acção e dar parecer sobre o rela
 
 g) Exercer as demais funções estabelecidas neste Estatuto e regulamentos da empresa ou que lhe sejam cometidas por lei.
 
-###### Art. 17.º - 1. A comissão de fiscalização reúne, pelo menos, uma vez em cada mês, elaborando actas das reuniões.
+Art. 17.º - 1. A comissão de fiscalização reúne, pelo menos, uma vez em cada mês, elaborando actas das reuniões.
 
 2. O conselho de gerência deve fornecer aos membros da comissão de fiscalização os elementos necessários ao exercício das suas funções.
 
@@ -346,15 +384,15 @@ g) Exercer as demais funções estabelecidas neste Estatuto e regulamentos da em
 
 #### SECÇÃO V — Comissão de trabalhadores
 
-###### Art. 18.º - 1. Os trabalhadores do IPE poderão criar uma comissão de trabalhadores para defesa dos seus interesses e intervenção democrática na vida da empresa.
+Art. 18.º - 1. Os trabalhadores do IPE poderão criar uma comissão de trabalhadores para defesa dos seus interesses e intervenção democrática na vida da empresa.
 
 2. A comissão de trabalhadores será eleita em plenário de trabalhadores por voto directo e secreto.
 
-###### Art. 19.º O estatuto da comissão de trabalhadores, incluindo a definição dos respectivos poderes, deve ser aprovado em plenário de trabalhadores, tendo em atenção o disposto na lei que vier a regular o contrôle de gestão pelos trabalhadores.
+Art. 19.º O estatuto da comissão de trabalhadores, incluindo a definição dos respectivos poderes, deve ser aprovado em plenário de trabalhadores, tendo em atenção o disposto na lei que vier a regular o contrôle de gestão pelos trabalhadores.
 
 ### CAPÍTULO IV — Intervenção do Governo
 
-###### Art. 20.º - 1. Compete ao Conselho de Ministros restrito, constituído pelos Ministros responsáveis pelo planeamento, das Finanças, da Indústria e Tecnologia, da Agricultura e Pescas, do Comércio Externo e Turismo, do Comércio Interno, dos Transportes e Comunicações, da Habitação, Urbanismo e Construção e do Trabalho:
+Art. 20.º - 1. Compete ao Conselho de Ministros restrito, constituído pelos Ministros responsáveis pelo planeamento, das Finanças, da Indústria e Tecnologia, da Agricultura e Pescas, do Comércio Externo e Turismo, do Comércio Interno, dos Transportes e Comunicações, da Habitação, Urbanismo e Construção e do Trabalho:
 
 a) Definir políticas gerais relativas à actividade do IPE, subordinando-a à orientação superior do Governo;
 
@@ -394,37 +432,37 @@ j) Fixar as remunerações dos membros do conselho de gerência e da comissão d
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 21.º - 1. O pessoal do IPE é contratado ou assalariado e fica sujeito ao regime do contrato individual de trabalho, com as adaptações definidas no estatuto a que se refere o artigo seguinte.
+Art. 21.º - 1. O pessoal do IPE é contratado ou assalariado e fica sujeito ao regime do contrato individual de trabalho, com as adaptações definidas no estatuto a que se refere o artigo seguinte.
 
 2. Os funcionários do Estado, dos institutos públicos e das autarquias locais podem ser autorizados a exercer funções no IPE em regime de comissão de serviço.
 
 3. Os funcionários a que se refere o número anterior conservam os direitos e as regalias do quadro de origem adquiridos à data em que transitem para o IPE, nas condições a estabelecer em regulamento.
 
-###### Art. 22.º - 1. O pessoal do IPE terá um estatuto próprio, aprovado por portaria do Ministro responsável pelo planeamento.
+Art. 22.º - 1. O pessoal do IPE terá um estatuto próprio, aprovado por portaria do Ministro responsável pelo planeamento.
 
 2. As remunerações de todo o pessoal do IPE estão sujeitas a tributação.
 
-###### Art. 23.º - 1. O pessoal do quadro do IPE é obrigatoriamente subscritor da Caixa Geral de Aposentações.
+Art. 23.º - 1. O pessoal do quadro do IPE é obrigatoriamente subscritor da Caixa Geral de Aposentações.
 
 2. Ao pessoal que à data da entrada para o IPE seja beneficiário de instituições de previdência social é no entanto permitido que opte pela manutenção do regime.
 
 3. O pessoal abrangido pelo n.º 2 não terá direito aos benefícios das obras sociais do IPE, salvo em domínios que não sejam cobertos pelas instituições de previdência social.
 
-###### Art. 24.º - 1. O IPE pode instituir obras de carácter social, cultural e de previdência em benefício dos seus servidores e dos seus familiares, bem como subsidiar, fundir e integrar nessas obras instituições já existentes que tenham aquele carácter, mediante parecer favorável da comissão de fiscalização.
+Art. 24.º - 1. O IPE pode instituir obras de carácter social, cultural e de previdência em benefício dos seus servidores e dos seus familiares, bem como subsidiar, fundir e integrar nessas obras instituições já existentes que tenham aquele carácter, mediante parecer favorável da comissão de fiscalização.
 
 2. As obras sociais do IPE estão isentas de custas e selos nos processos em que intervenham, bem como emolumentos, taxas, contribuições ou impostos, e beneficiam ainda de todas as regalias conferidas por lei às instituições oficiais de assistência.
 
-###### Art. 25.º O orçamento e contas anuais de gerência das obras sociais devem ser submetidos, através do conselho de gerência, ao Ministro responsável pelo planeamento, cuja aprovação legaliza para todos os efeitos as respectivas receitas e despesas.
+Art. 25.º O orçamento e contas anuais de gerência das obras sociais devem ser submetidos, através do conselho de gerência, ao Ministro responsável pelo planeamento, cuja aprovação legaliza para todos os efeitos as respectivas receitas e despesas.
 
-###### Art. 26.º O regulamento das obras sociais, bem como as alterações que lhe venham a ser introduzidas, devem ser aprovados pelo Ministro responsável pelo planeamento, sob proposta do conselho de gerência.
+Art. 26.º O regulamento das obras sociais, bem como as alterações que lhe venham a ser introduzidas, devem ser aprovados pelo Ministro responsável pelo planeamento, sob proposta do conselho de gerência.
 
 ### CAPÍTULO VI — Gestão económica e financeira
 
-###### Art. 27.º - 1. Constitui património do IPE a universalidade de bens, direitos e obrigações que receba, adquira ou contraia para ou no exercício da sua actividade própria.
+Art. 27.º - 1. Constitui património do IPE a universalidade de bens, direitos e obrigações que receba, adquira ou contraia para ou no exercício da sua actividade própria.
 
 2. A diferença entre os valores activos e passivos que integram o património do IPE constitui o seu capital próprio.
 
-###### Art. 28.º - 1. As dotações e outras entradas patrimoniais do Estado e demais entidades públicas destinadas a responder a necessidades permanentes da empresas são escrituradas em conta especial designada «Capital estatutário».
+Art. 28.º - 1. As dotações e outras entradas patrimoniais do Estado e demais entidades públicas destinadas a responder a necessidades permanentes da empresas são escrituradas em conta especial designada «Capital estatutário».
 
 2. O capital estatutário pode ser aumentado não só por força das entradas patrimoniais previstas no número anterior mas também mediante incorporação de reservas.
 
@@ -432,7 +470,7 @@ j) Fixar as remunerações dos membros do conselho de gerência e da comissão d
 
 4. O capital estatuário só pode ser aumentado ou reduzido por decisão dos Ministros referidos no número anterior.
 
-###### Art. 29.º O capital próprio é realizado através de:
+Art. 29.º O capital próprio é realizado através de:
 
 a) Comparticipações, dotações e subsídios do Estado ou de quaisquer outras entidades públicas;
 
@@ -442,7 +480,7 @@ c) Doações, heranças ou legados;
 
 d) Resultados líquidos da actividade do IPE.
 
-###### Art. 30.º São fontes de financiamento do IPE:
+Art. 30.º São fontes de financiamento do IPE:
 
 a) As que servem de realização ao seu capital próprio, nos termos das alíneas a), b) e c) do artigo 29.º;
 
@@ -456,7 +494,7 @@ e) A emissão de obrigações de rendimento fixo ou variável;
 
 f) Outros meios postos à disposição do IPE.
 
-###### Art. 31.º - 1. São receitas próprias do IPE:
+Art. 31.º - 1. São receitas próprias do IPE:
 
 a) As verbas provenientes da prestação de serviços e o rendimento de bens integrados no seu património;
 
@@ -478,17 +516,17 @@ b) A satisfação dos encargos financeiros;
 
 c) A obtenção de margens, em particular destinadas a proporcionar o autofinanciamento.
 
-###### Art. 32.º É da exclusiva competência da empresa e será por ela custeado tudo o que se refere à administração e exploração dos serviços a seu cargo, bem como a aquisição, construção, ampliação e conservação dos bens necessários à consecução dos seus fins.
+Art. 32.º É da exclusiva competência da empresa e será por ela custeado tudo o que se refere à administração e exploração dos serviços a seu cargo, bem como a aquisição, construção, ampliação e conservação dos bens necessários à consecução dos seus fins.
 
-###### Art. 33.º - 1. O IPE pode contrair empréstimos em moeda nacional ou estrangeira, sob qualquer das formas de uso corrente e em conformidade com os preceitos da legislação vigente, bem como emitir obrigações de rendimento fixo ou variável.
+Art. 33.º - 1. O IPE pode contrair empréstimos em moeda nacional ou estrangeira, sob qualquer das formas de uso corrente e em conformidade com os preceitos da legislação vigente, bem como emitir obrigações de rendimento fixo ou variável.
 
 2. A realização de empréstimos em moeda nacional por prazo superior a sete anos ou em moeda estrangeira depende de autorização dada em portaria do Ministro responsável pelo planeamento e do Ministro das Finanças, nela se fixando o plano e demais condições da operação, incluindo as garantias a prestar.
 
 3. As condições de emissão de obrigações de rendimento fixo ou variável devem ser aprovadas por portaria do Ministro responsável pelo planeamento e do Ministro das Finanças.
 
-###### Art. 34.º As disponibilidades em numerário sem aplicação imediata devem ser depositadas à ordem ou a prazo em instituições de crédito públicas ou nacionalizadas.
+Art. 34.º As disponibilidades em numerário sem aplicação imediata devem ser depositadas à ordem ou a prazo em instituições de crédito públicas ou nacionalizadas.
 
-###### Art. 35.º A gestão económica e financeira do IPE é disciplinada pelas seguintes previsões:
+Art. 35.º A gestão económica e financeira do IPE é disciplinada pelas seguintes previsões:
 
 a) Programas anuais de trabalho;
 
@@ -496,9 +534,9 @@ b) Orçamentos anuais e suas alterações;
 
 c) Planos de actividade e financeiros plurianuais.
 
-###### Art. 36.º Nos planos financeiros devem prever-se especialmente, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a que deverá recorrer-se.
+Art. 36.º Nos planos financeiros devem prever-se especialmente, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a que deverá recorrer-se.
 
-###### Art. 37.º - 1. O IPE deve elaborar em cada ano económico orçamentos de funcionamento e de investimentos, por grandes rubricas, bem como as actualizações necessárias, a serem submetidos à aprovação do Conselho de Ministros restrito a que se refere o n.º 1 do artigo 20.º, sem prejuízo dos desdobramentos internos destinados a permitir conveniente descentralização de responsabilidades e adequado contrôle de gestão.
+Art. 37.º - 1. O IPE deve elaborar em cada ano económico orçamentos de funcionamento e de investimentos, por grandes rubricas, bem como as actualizações necessárias, a serem submetidos à aprovação do Conselho de Ministros restrito a que se refere o n.º 1 do artigo 20.º, sem prejuízo dos desdobramentos internos destinados a permitir conveniente descentralização de responsabilidades e adequado contrôle de gestão.
 
 2. Na organização e execução dos seus orçamentos, o IPE deve atender aos objectivos a prosseguir e às necessidades da exploração dos respectivos empreendimentos.
 
@@ -510,11 +548,11 @@ b) Relativamente aos orçamentos de investimentos, sempre que em consequência d
 
 4. Os projectos de orçamentes a que se refere o n.º 1, acompanhados do parecer do conselho geral, devem ser remetidos até 31 de Outubro de cada ano aos membros do Conselho de Ministros restrito, que deve apreciá-los e aprová-los até 30 de Novembro seguinte.
 
-###### Art. 38.º - 1. As amortizações e reintegrações do activo imobilizado do IPE são efectuadas nos termos fixados pelo Ministro responsável pelo planeamento e sob proposta do conselho de gerência, ouvida a comissão de fiscalização.
+Art. 38.º - 1. As amortizações e reintegrações do activo imobilizado do IPE são efectuadas nos termos fixados pelo Ministro responsável pelo planeamento e sob proposta do conselho de gerência, ouvida a comissão de fiscalização.
 
 2. O valor anual das amortizações e reintegrações constitui encargo de exploração e deve ser escriturado em conta especial.
 
-###### Art. 39.º - 1. O IPE pode fazer as provisões e reservas que entenda convenientes, sendo, porém, obrigatórias as reservas seguintes:
+Art. 39.º - 1. O IPE pode fazer as provisões e reservas que entenda convenientes, sendo, porém, obrigatórias as reservas seguintes:
 
 a) Reserva para investimentos;
 
@@ -534,17 +572,17 @@ d) As mais-valias realizadas.
 
 4. A reserva geral pode ser utilizada para cobrir eventuais resultados negativos.
 
-###### Art. 40.º - 1. Quando o exercício encerrar com resultados positivos, o Conselho de Ministros restrito previsto no n.º 1 do artigo 20.º, sob proposta do conselho de gerência, deve deliberar sobre a respectiva aplicação, atribuindo 10%, pelo menos, à reserva geral, e assegurando a constituição das reservas necessárias ao desenvolvimento normal da actividade do IPE, sendo o remanescente entregue ao Estado.
+Art. 40.º - 1. Quando o exercício encerrar com resultados positivos, o Conselho de Ministros restrito previsto no n.º 1 do artigo 20.º, sob proposta do conselho de gerência, deve deliberar sobre a respectiva aplicação, atribuindo 10%, pelo menos, à reserva geral, e assegurando a constituição das reservas necessárias ao desenvolvimento normal da actividade do IPE, sendo o remanescente entregue ao Estado.
 
 2. No caso de o exercício se saldar com resultados negativos que não possam ser cobertos pela reserva geral, são os mesmos levados a conta nova ou cobertos pelo Estado, quando este o entender conveniente.
 
-###### Art. 41.º - 1. A contabilidade deve responder às necessidades da gestão empresarial corrente e permitir um contrôle orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais e contabilísticos.
+Art. 41.º - 1. A contabilidade deve responder às necessidades da gestão empresarial corrente e permitir um contrôle orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais e contabilísticos.
 
 2. O conselho de gerência deve definir em regulamento interno as normas de contabilidade.
 
 3. Logo que as empresas participadas estejam em condições de fornecer elementos em forma normalizada, devem ser também elaborados balanços e contas consolidadas.
 
-###### Art. 42.º - 1. Devem ser elaborados, com referência a 31 de Dezembro de cada ano, os documentos seguintes:
+Art. 42.º - 1. Devem ser elaborados, com referência a 31 de Dezembro de cada ano, os documentos seguintes:
 
 a) Balanço e demonstração de resultados, de acordo com o plano de contas a aprovar pelo Ministro responsável pelo planeamento;
 
@@ -554,25 +592,25 @@ c) Mapa da origem e aplicação de fundos.
 
 2. Os documentos referidos no número anterior e os relatórios anuais do conselho de gerência respeitantes à actuação e situação do IPE e das empresas participadas, acompanhados do relatório e parecer da comissão de fiscalização e do parecer do conselho geral, devem ser remetidos durante o mês de Março do ano seguinte aos membros do Conselho de Ministros restrito previsto no n.º 1 do artigo 20.º, que reúne para os apreciar até 30 de Abril.
 
-###### Art. 43.º O relatório anual do conselho de gerência, o balanço, a demonstração de resultados e o parecer da comissão de fiscalização são publicados no Diário da República.
+Art. 43.º O relatório anual do conselho de gerência, o balanço, a demonstração de resultados e o parecer da comissão de fiscalização são publicados no Diário da República.
 
-###### Art. 44.º As contas do IPE não estão sujeitas a julgamento do Tribunal de Contas.
+Art. 44.º As contas do IPE não estão sujeitas a julgamento do Tribunal de Contas.
 
 ### CAPÍTULO VII — Transferência de participações
 
-###### Art. 45.º - 1. Devem ser transferidas para o património do IPE todas as participações do sector público no capital de sociedades, com excepção das participações em sociedades que exerçam a sua actividade no sector do turismo e das participações em sociedades com sede nos antigos territórios sob administração portuguesa.
+Art. 45.º - 1. Devem ser transferidas para o património do IPE todas as participações do sector público no capital de sociedades, com excepção das participações em sociedades que exerçam a sua actividade no sector do turismo e das participações em sociedades com sede nos antigos territórios sob administração portuguesa.
 
 2. Além das excepções referidas na segunda parte do número anterior, poderá o Conselho de Ministros, nos termos da alínea a) do n.º 1 do artigo 4.º e sob proposta dos Ministros interessados, deliberar não atribuir ao IPE a titularidade ou a gestão de determinadas participações do sector público.
 
-###### Art. 46.º A transferência de propriedade das participações do sector público para o património do IPE pode efectuar-se a título gratuito ou oneroso e deve ser autorizada por despacho conjunto do Ministro responsável pelo planeamento, do Ministro das Finanças e do Ministro de quem dependa ou que tutele a entidade proprietária das participações a transferir.
+Art. 46.º A transferência de propriedade das participações do sector público para o património do IPE pode efectuar-se a título gratuito ou oneroso e deve ser autorizada por despacho conjunto do Ministro responsável pelo planeamento, do Ministro das Finanças e do Ministro de quem dependa ou que tutele a entidade proprietária das participações a transferir.
 
-###### Art. 47.º - 1. A transferência de participações a título oneroso para o património do IPE deve efectuar-se nas condições a acordar entre a entidade proprietária dessas participações e o conselho de gerência do IPE, devendo o acordo ser homologado pelos Ministros mencionados no artigo anterior.
+Art. 47.º - 1. A transferência de participações a título oneroso para o património do IPE deve efectuar-se nas condições a acordar entre a entidade proprietária dessas participações e o conselho de gerência do IPE, devendo o acordo ser homologado pelos Ministros mencionados no artigo anterior.
 
 2. Se a entidade proprietária das participações e o conselho de gerência do IPE não chegarem a acordo sobre as condições da transferência, serão estas determinadas por despacho conjunto dos Ministros referidos no artigo anterior.
 
 3. Nos casos de transferência a título oneroso, o pagamento à entidade proprietária das participações pode ser feito em numerário, a pronto ou a prazo, ou mediante a entrega de obrigações de rendimento fixo ou variável, a emitir pelo IPE, ou ainda mediante a entrega de títulos da dívida pública.
 
-###### Art. 48.º - 1. Enquanto se não operar a transferência das participações do sector público referidas no n.º 1 do artigo 45.º para o património do IPE, caberá a este assegurar a respectiva gestão e exercer os direitos sociais inerentes a essas participações, com excepção do direito aos respectivos rendimentos, que pertencerá à entidade proprietária das participações enquanto estas se mantiverem no seu património.
+Art. 48.º - 1. Enquanto se não operar a transferência das participações do sector público referidas no n.º 1 do artigo 45.º para o património do IPE, caberá a este assegurar a respectiva gestão e exercer os direitos sociais inerentes a essas participações, com excepção do direito aos respectivos rendimentos, que pertencerá à entidade proprietária das participações enquanto estas se mantiverem no seu património.
 
 2. Se as participações a que se refere o número anterior forem representadas por acções, devem estas ser depositadas em conta bancária especial, à ordem conjunta da entidade proprietária das participações e do IPE, sendo necessária a intervenção de ambos para qualquer operação sobre essas participações.
 
@@ -580,17 +618,17 @@ c) Mapa da origem e aplicação de fundos.
 
 4. Quanto ao IPE seja confiada a gestão de participações que se mantenham no património de outras pessoas colectivas, deve aquela gestão ser remunerada nos termos que forem acordados entre o IPE e a referida pessoa colectiva ou, na falta de acordo, por despacho conjunto dos Ministros da Tutela respectivos.
 
-###### Art. 49.º - 1. As participações do IPE no capital da sociedade podem ser transferidas para o património de entidades sectoriais de tutela, nas condições referidas nos números seguintes.
+Art. 49.º - 1. As participações do IPE no capital da sociedade podem ser transferidas para o património de entidades sectoriais de tutela, nas condições referidas nos números seguintes.
 
 2. A transferência a título gratuito deve ser autorizada, mediante prévio parecer do conselho de gerência do IPE, por despacho conjunto do Ministro responsável pelo planeamento e do Ministro de quem dependa a entidade de tutela.
 
 3. A transferência a título oneroso é efectuada nas condições que forem acordadas entre o conselho de gerência do IPE e a entidade de tutela e devem ser submetidas à homologação dos Ministros a que se refere o artigo 46.º
 
-###### Art. 50.º - O IPE pode alienar participações no capital de sociedades, a título oneroso, nas condições a acordar entre o seu conselho de gerência e a entidade adquirente e devem ser submetidas à homologação do Ministro responsável pelo planeamento, do Ministro das Finanças e do Ministro responsável pelo sector a que pertence a empresa participada.
+Art. 50.º - O IPE pode alienar participações no capital de sociedades, a título oneroso, nas condições a acordar entre o seu conselho de gerência e a entidade adquirente e devem ser submetidas à homologação do Ministro responsável pelo planeamento, do Ministro das Finanças e do Ministro responsável pelo sector a que pertence a empresa participada.
 
 ### CAPÍTULO VIII — Disposições diversas e transitórias
 
-###### Art. 51.º - 1. A gestão e a actividade do IPE regem-se pelo presente Estatuto, pelos regulamentos que em sua execução venham a ser publicados e, no que por aquele e estes não for regulado, pelas normas contidas no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
+Art. 51.º - 1. A gestão e a actividade do IPE regem-se pelo presente Estatuto, pelos regulamentos que em sua execução venham a ser publicados e, no que por aquele e estes não for regulado, pelas normas contidas no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
 2. O IPE goza das seguintes prerrogativas:
 
@@ -598,22 +636,22 @@ a) Cobrança coerciva das retribuições por serviços prestados e dos demais cr
 
 b) Isenção de todos os impostos, contribuições e taxas, custas judiciais, emolumentos, licenças administrativas e demais imposições, gerais ou especiais, nos mesmos termos que o Estado.
 
-###### Art. 52.º - 1. Os membros do conselho de gerência ficam automaticamente investidos na categoria mais elevada do pessoal dos quadros do IPE.
+Art. 52.º - 1. Os membros do conselho de gerência ficam automaticamente investidos na categoria mais elevada do pessoal dos quadros do IPE.
 
 2. O tempo de serviço prestado no conselho de gerência é contado para efeitos de aposentação.
 
-###### Art. 53.º - 1. O IPE deve conservar em arquivo, pelo prazo de dez anos, os elementos da sua escrita principal e a correspondência; os restantes documentos e elementos de escrita podem ser inutilizados, mediante autorização do conselho de gerência, depois de decorridos cinco anos sob a sua entrada ou elaboração na empresa.
+Art. 53.º - 1. O IPE deve conservar em arquivo, pelo prazo de dez anos, os elementos da sua escrita principal e a correspondência; os restantes documentos e elementos de escrita podem ser inutilizados, mediante autorização do conselho de gerência, depois de decorridos cinco anos sob a sua entrada ou elaboração na empresa.
 
 2. Por resolução do conselho de gerência, os documentos, livros e correspondência que devem conservar-se em arquivo podem ser microfilmados e os respectivos originais inutilizados após a microfilmagem.
 
 3. As fotocópias autenticadas têm a mesma força probatória dos originais.
 
-###### Art. 54.º O orçamento para o ano económico de 1976 é aprovado pelo Ministro responsável pelo planeamento.
+Art. 54.º O orçamento para o ano económico de 1976 é aprovado pelo Ministro responsável pelo planeamento.
 
-###### Art. 55.º - 1. O mandato da comissão instaladora cessa na data da posse dos membros do primeiro conselho de gerência.
+Art. 55.º - 1. O mandato da comissão instaladora cessa na data da posse dos membros do primeiro conselho de gerência.
 
 2. A conta de gerência da comissão instaladora fica sujeita à aprovação do Ministro responsável pelo planeamento e do Ministro das Finanças, sendo dispensada a aprovação de qualquer outra entidade.
 
-###### Art. 56.º As dúvidas que se suscitarem na aplicação do presente Estatuto serão resolvidas por despacho do Ministro responsável pelo planeamento.
+Art. 56.º As dúvidas que se suscitarem na aplicação do presente Estatuto serão resolvidas por despacho do Ministro responsável pelo planeamento.
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

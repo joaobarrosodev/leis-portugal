@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/24-1970-227235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7836241dcc30a62903477ac96bffb85c6ebcf68b7669222669d7c6e30b160cf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b68b6a10ddc18325540f746bc32e3220f93c950d3c8ca0e1c7b68989ec4b4e2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:34Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +89,6 @@ Usando da faculdade que me confere o n.º 1.º do artigo 81.º da Constituição
 
 Hei por bem, sob proposta do Presidente do Conselho, nomear o capitão-de-fragata Leão Maria Tavares Rosado do Sacramento Monteiro, Dr. Rui Martins dos Santos, Doutor Justino Mendes de Almeida, Dr. Augusto de Ataíde Soares de Albergaria, Dr. Alexandre de Azeredo Vaz Pinto e Dr. José Luís Nogueira de Brito, respectivamente, Subsecretários de Estado da Administração Ultramarina, do Fomento Ultramarino, da Administração Escolar, da Juventude e Desportos, do Comércio, e do Trabalho e Previdência.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano.

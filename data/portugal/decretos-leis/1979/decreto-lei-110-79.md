@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10100/07970817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1979-382862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0172cd3e2880c8d31409a3fdf8811a187c488de147a13b520318fa81d741e2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c767c1e732ec2d2214a9ac2470bf1725735297a0b0601d381121fab682e309c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Pauta Aduaneira
+- Sobretaxa de Importação
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662103:por
+  label: "Alterado o artigo pautal 48.21.05 pelo DEC LEI.83/84.1984.03.14.MFP DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1984-662103
+  date: '1984-03-14'
+- type: amended_by
+  target: pt:dre:335898:por
+  label: "Alterada a lista do anexo I do presente diploma, pelo DEC LEI.103-B/84.1984.04.30.MFP DR.IS [76]Supl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-b-1984-335898
+  date: '1984-04-30'
+- type: amended_by
+  target: pt:dre:143301:por
+  label: Eliminadas dos anexos I e II do presente diploma as mercadorias abrangidas pelo Cap 3 da Pauta dos Direitos de Importação,
+    aprovada pelo Dec Lei 456-A/83, de 28-dez, pelo(a) Decreto-Lei n.º 194/84 - Diário da República n.º 135/1984, 1º Suplemento,
+    Série I de 1984-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1984-143301
+  date: '1984-06-11'
+- type: amended_by
+  target: pt:dre:179485:por
+  label: "Alterados os anexos I e II, pelo DEC LEI.216-A/85.28.06.1985.MFP, DR.IS [146]Supl de 28.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-a-1985-179485
+  date: '1985-06-28'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425345:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:383639:por
+  label: Rectificado pela DECL.DD7325.28.05.1979.PCM, DR.IS [122] de 28.05.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383639
+  date: '1979-05-28'
+- type: corrected_by
+  target: pt:dre:381113:por
+  label: Rectificado pela DECL.DD7453.22.06.1979.PCM, DR.IS [142] de 22.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-381113
+  date: '1979-06-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:17:24Z'
   warnings: []
   errors: []
 ---
@@ -100,24 +169,24 @@ Em execução da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20
 
 O Governo decreta, nos termos da alínea c) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A sobretaxa de importação, criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, passará do nível dos 20% que estava fixado no artigo único do [Decreto-Lei n.º 300/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1978-329026), de 29 de Setembro, para 10%.
+Artigo 1.º A sobretaxa de importação, criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, passará do nível dos 20% que estava fixado no artigo único do [Decreto-Lei n.º 300/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1978-329026), de 29 de Setembro, para 10%.
 
-###### Art. 2.º As sobretaxas de importação de 10% e de 60% incidem sobre as mercadorias constantes dos anexos I e II respectivamente, constantes do presente decreto-lei.
+Art. 2.º As sobretaxas de importação de 10% e de 60% incidem sobre as mercadorias constantes dos anexos I e II respectivamente, constantes do presente decreto-lei.
 
-###### Art. 3.º As mercadorias que beneficiam do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 109/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1979-382850), de 3 de Maio, ficam sujeitas à sobretaxa em vigor antes da publicação do presente diploma.
+Art. 3.º As mercadorias que beneficiam do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 109/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1979-382850), de 3 de Maio, ficam sujeitas à sobretaxa em vigor antes da publicação do presente diploma.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Abel Pinto Repolho Correia.
 
-**Promulgado em 17 de Abril de 1979.**
+Promulgado em 17 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Lista das mercadorias sujeitas à sobretaxa de 10%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10100/07970817.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10100/07970817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10100/07970817.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.

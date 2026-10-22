@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 24/1976, 1º Suplemento, Série I de 1976-01-29
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 228-(3) a 228-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02401/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-b-1976-144448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88701b98b0d8a0169e537c1f2686605e47ff578e1daa4bec29989bbe99943abb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feac0890e5742c51b671d3abf92a8daa14f45f1073650f53cb30c5c658fc1c78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional de Eleições
+- Definição de Competências
+- Eleição
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:57Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +111,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Comissão Nacional das Eleições)
 
 Até cinco dias antes da data da abertura das operações de actualização do recenseamento eleitoral o Governo nomeará, por decreto, a Comissão Nacional das Eleições, que exercerá a sua competência relativamente a todos os actos de recenseamento e eleitorais que venham a realizar-se.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Composição e designação dos membros)
 
@@ -120,13 +133,13 @@ d) Cinco técnicos de reconhecida idoneidade profissional e moral.
 
 2. Os membros da Comissão indicados nas alíneas a), c) e d) são da livre escolha do Governo; os indicados na alínea b) são designados pelo Conselho da Revolução.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Duração)
 
 A Comissão Nacional das Eleições tomará posse perante o Primeiro-Ministro imediatamente após a publicação do decreto de nomeação e ficará dissolvida trinta dias antes da data da abertura das operações do recenseamento eleitoral do ano em que se realizem novas eleições para a Assembleia Legislativa.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência)
 
@@ -152,13 +165,13 @@ i) Apreciar a regularidade das receitas e despesas eleitorais;
 
 j) Elaborar os mapas dos resultados nacionais das eleições.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Ligação com a Administração)
 
 No exercício da competência que lhe é conferida pelo artigo anterior, a Comissão Nacional das Eleições terá sobre os órgãos e agentes da Administração os poderes necessários ao cumprimento das suas funções.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Funcionamento)
 
@@ -168,7 +181,7 @@ No exercício da competência que lhe é conferida pelo artigo anterior, a Comis
 
 3. A Comissão Nacional das Eleições disporá de verba própria, atribuída dentro do orçamento do Ministério da Administração Interna, que lhe facultará os meios necessários para o seu funcionamento.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Estatuto dos membros da Comissão)
 
@@ -178,7 +191,7 @@ No exercício da competência que lhe é conferida pelo artigo anterior, a Comis
 
 3. As vagas que ocorrerem na Comissão, por morte ou outra impossibilidade permanente, serão preenchidas de acordo com os critérios de designação definidos no artigo 2.º
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Entrada em vigor)
 
@@ -186,8 +199,8 @@ Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Manuel Ferreira de Lima - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes - António de Almeida Santos.
 
-**Promulgado em 29 de Janeiro de 1976.**
+Promulgado em 29 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES

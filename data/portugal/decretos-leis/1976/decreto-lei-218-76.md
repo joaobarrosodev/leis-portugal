@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1976-500973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3d9d6a1282b183845f5ca102871d7e339eeba4ae9ff5f5fbd6eb32b8cad936d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bcd1c1b60f7fbc18767f6ca4ea46f6754b67f090dd8259a164256f31bbbdfcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aposentação
+- Aposentação Bonificada
+- Caixa Geral de Aposentações
+- Estabelecimentos Fabris das Forças Armadas
+- Estabelecimentos Fabris do Exército
+- Fábrica Nacional de Cordoaria
+- Oficinas Gerais de Fardamento e Equipamento
+- Orgânica
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pessoal Civil
+- Proteção Social
+- Subsídio
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:57Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +115,7 @@ Considerando ainda que, atento o disposto no n.º 6 da parte B do Programa do Mo
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ao artigo 48.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, são aditados os seguintes parágrafos:
+Artigo 1.º Ao artigo 48.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, são aditados os seguintes parágrafos:
 
 § 3.º O pessoal com mais de 55 anos de idade e pelo menos quinze de serviço efectivo, individual e pessoalmente prestado em regime de tarefa, que seja dispensado ou julgado incapaz receberá, através do Fundo a que se refere o corpo do artigo, um subsídio de aposentação de montante igual à pensão mínima do Estado quando o período de trabalho prestado não exceder o prazo de garantia acima referido, sendo tal montante acrescido de 2% por cada ano de trabalho completo além desse prazo, até ao máximo de vinte e cinco.
 
@@ -103,16 +125,16 @@ Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diario
 
 § 6.º Na determinação da pensão de aposentação do pessoal que vier a ser inscrito na Caixa Geral de Aposentação, o Fundo de Protecção e Acção Social suportará, através de subsídio, o pagamento do quantitativo que corresponder ao tempo de serviço que não for susceptível de contagem pela mesma Caixa, por falta de requisitos legais.
 
-###### Art. 2.º O Fundo de Protecção e Acção Social dos Estabelecimentos Fabris do Exército será reforçado, através do orçamento de despesa do Exército, das quantias necessárias para assegurar os abonos referidos.
+Art. 2.º O Fundo de Protecção e Acção Social dos Estabelecimentos Fabris do Exército será reforçado, através do orçamento de despesa do Exército, das quantias necessárias para assegurar os abonos referidos.
 
-###### Art. 3.º As dúvidas que possa suscitar a aplicação do presente decreto-lei serão resolvidas por despacho do Chefe do Estado-Maior do Exército, ouvidas as entidades interessadas.
+Art. 3.º As dúvidas que possa suscitar a aplicação do presente decreto-lei serão resolvidas por despacho do Chefe do Estado-Maior do Exército, ouvidas as entidades interessadas.
 
-###### Art. 4.º O regime instituído pelo presente diploma será tornado extensivo ao pessoal da Fábrica Nacional de Cordoaria, em situação análoga, por meio de publicação de portaria conjunta do Chefe do Estado-Maior da Armada e do Ministério das Finanças.
+Art. 4.º O regime instituído pelo presente diploma será tornado extensivo ao pessoal da Fábrica Nacional de Cordoaria, em situação análoga, por meio de publicação de portaria conjunta do Chefe do Estado-Maior da Armada e do Ministério das Finanças.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 19 de Março de 1976.**
+Promulgado em 19 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

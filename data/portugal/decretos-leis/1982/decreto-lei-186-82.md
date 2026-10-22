@@ -46,40 +46,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1982-392444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03efd5b88f809249a0c419f454a55445c634c6ced5bc491bcea6992438af1886
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 026f1848fb31db9c927062056ec6af5c5b131f65522ce8efb060527903009c30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento de Veículo
+- Licenciamento
+- Limite de Velocidade
+- Multa
+- Ponte 25 de Abril
+- Regulamento de Transportes em Automóveis
+- Segurança Rodoviária
+- Sinalização
+- Transporte de Mercadorias
+- Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:421027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394135:por
+  label: Rectificado pela DECL.DD6132.13.07.1982.PCM, DR.IS [166] de 21.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394135
+  date: '1982-07-13'
+- type: repealed_by
+  target: pt:dre:430196:por
+  label: "Revogadas as als. a), e), g), j), l), m) e o) pelo DEC LEI.240/89.26.07.1989.MOPTC, DR.IS [170-2ºSupl] de 26.07.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1989-430196
+  date: '1989-07-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:52Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +190,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As multas fixadas nos Decretos-Leis n.os 45299, de 9 de Outubro de 1963, e 175/80, de 29 de Maio, nos Decretos n.os 37272, de 31 de Dezembro de 1948, 46066, de 7 de Dezembro de 1964, 47123, de 30 de Julho de 1966, 48396, de 22 de Maio de 1968, 49020, de 23 de Maio de 1969, e 45/72, de 5 de Fevereiro, no [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, e nas Portarias n.os 20393 de 26 de Fevereiro de 1964, [31/75](https://diariodarepublica.pt/dr/detalhe/portaria/31-1975-158969), de 18 de Janeiro, [126/75](https://diariodarepublica.pt/dr/detalhe/portaria/126-1975-160092), de 27 de Fevereiro, [212/78](https://diariodarepublica.pt/dr/detalhe/portaria/212-1978-425277), de 18 de Abril, [344/78](https://diariodarepublica.pt/dr/detalhe/portaria/344-1978-298393) de 20 de Junho, e [1045/80](https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643), de 10 de Dezembro, são alteradas nos termos seguintes:
+Artigo 1.º As multas fixadas nos Decretos-Leis n.os 45299, de 9 de Outubro de 1963, e 175/80, de 29 de Maio, nos Decretos n.os 37272, de 31 de Dezembro de 1948, 46066, de 7 de Dezembro de 1964, 47123, de 30 de Julho de 1966, 48396, de 22 de Maio de 1968, 49020, de 23 de Maio de 1969, e 45/72, de 5 de Fevereiro, no [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, e nas Portarias n.os 20393 de 26 de Fevereiro de 1964, [31/75](https://diariodarepublica.pt/dr/detalhe/portaria/31-1975-158969), de 18 de Janeiro, [126/75](https://diariodarepublica.pt/dr/detalhe/portaria/126-1975-160092), de 27 de Fevereiro, [212/78](https://diariodarepublica.pt/dr/detalhe/portaria/212-1978-425277), de 18 de Abril, [344/78](https://diariodarepublica.pt/dr/detalhe/portaria/344-1978-298393) de 20 de Junho, e [1045/80](https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643), de 10 de Dezembro, são alteradas nos termos seguintes:
 
 a) As multas previstas nas alíneas a), b) e c) do artigo 6.º do [Decreto-Lei n.º 45299](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45299-1963-687267), de 9 de Outubro de 1963, passam a ser de, respectivamente, 3000$00, 6000$00 e 20000$00;
 
@@ -128,7 +222,7 @@ o) As multas previstas no n.º 6.º da [Portaria n.º 344/78](https://diariodare
 
 p) A multa prevista no n.º 19.º da [Portaria n.º 1045/80](https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643), de 10 de Dezembro, passa a ser de 5000$00 a 20000$00.
 
-###### Art. 2.º A redacção dos corpos dos artigos 19.º e 208.º e dos artigos 211.º, 212.º, 214.º e 215.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passa a ser a seguinte:
+Art. 2.º A redacção dos corpos dos artigos 19.º e 208.º e dos artigos 211.º, 212.º, 214.º e 215.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, passa a ser a seguinte:
 
 ###### ARTIGO 19.º
 
@@ -204,7 +298,7 @@ representando E o número de quilogramas em excesso de carga e N o número de to
 
 § 6.º A inobservância do disposto nos §§ 2.º e 4.º será punida com a multa de 40000$00.
 
-###### Art. 3.º A redacção dos artigos 76.º e 82.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passa a ser a seguinte:
+Art. 3.º A redacção dos artigos 76.º e 82.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passa a ser a seguinte:
 
 ###### ARTIGO 76.º
 
@@ -224,7 +318,7 @@ c) Multa de 4000$00, nos casos de viciação formal.
 
 Qualquer transgressão das disposições do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, ou do presente decreto, que não seja especialmente punida, fica sujeita à multa de 1000$00.
 
-###### Art. 4.º A redacção do n.º 3 do artigo 7.º do [Decreto-Lei n.º 74/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1979-382828), de 4 de Abril, passa a ser a seguinte:
+Art. 4.º A redacção do n.º 3 do artigo 7.º do [Decreto-Lei n.º 74/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1979-382828), de 4 de Abril, passa a ser a seguinte:
 
 ###### ARTIGO 7.º
 
@@ -232,7 +326,7 @@ Qualquer transgressão das disposições do [Decreto-Lei n.º 45331](https://dia
 
 3 - Os infractores serão sempre punidos com as multas de 12500$00, pelo n.º 1, e de 3000$00, pelo n.º 2, ambos do presente artigo.
 
-###### Art. 5.º A redacção do n.º 2 do artigo 16.º do [Decreto-Lei n.º 448/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1980-462197), de 6 de Outubro, passa a ser a seguinte:
+Art. 5.º A redacção do n.º 2 do artigo 16.º do [Decreto-Lei n.º 448/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1980-462197), de 6 de Outubro, passa a ser a seguinte:
 
 ###### ARTIGO 16.º
 
@@ -240,20 +334,20 @@ Qualquer transgressão das disposições do [Decreto-Lei n.º 45331](https://dia
 
 2 - Para além do cancelamento, os infractores serão ainda punidos com as multas de 12500$00, pela alínea a), de 5000$00, pela alínea b), e de 3000$00, pela alínea c), todas do número anterior.
 
-###### Art. 6.º As multas fixas passam a ser variáveis, graduadas entre o limite mínimo ora fixado pelo presente diploma e um limite máximo equivalente ao quíntuplo do limite mínimo.
+Art. 6.º As multas fixas passam a ser variáveis, graduadas entre o limite mínimo ora fixado pelo presente diploma e um limite máximo equivalente ao quíntuplo do limite mínimo.
 
-###### Art. 7.º O pagamento voluntário das multas, nos termos do n.º 1 do artigo 70.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, deve ser efectuado sempre pelo mínimo.
+Art. 7.º O pagamento voluntário das multas, nos termos do n.º 1 do artigo 70.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, deve ser efectuado sempre pelo mínimo.
 
-###### Art. 8.º As disposições dos artigos dos Decretos n.os 37272, de 31 de Dezembro de 1948, e 46066, de 7 de Dezembro de 1964, a que se referem, respectivamente os artigos 2.º e 3.º do presente diploma, poderão ser alteradas por decreto regulamentar.
+Art. 8.º As disposições dos artigos dos Decretos n.os 37272, de 31 de Dezembro de 1948, e 46066, de 7 de Dezembro de 1964, a que se referem, respectivamente os artigos 2.º e 3.º do presente diploma, poderão ser alteradas por decreto regulamentar.
 
-###### Art. 9.º Os quantitativos das multas previstas nos diplomas a que o presente decreto-lei se reporta poderão ser alterados por portaria do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 9.º Os quantitativos das multas previstas nos diplomas a que o presente decreto-lei se reporta poderão ser alterados por portaria do Ministro da Habitação, Obras Públicas e Transportes.
 
-###### Art. 10.º O disposto no presente diploma entrará em vigor 30 dias após a data da sua publicação.
+Art. 10.º O disposto no presente diploma entrará em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 5 de Maio de 1982.**
+Promulgado em 5 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

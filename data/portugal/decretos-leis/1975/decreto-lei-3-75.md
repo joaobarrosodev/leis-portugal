@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 5/1975, 1º Suplemento, Série I de 1975-01-07
   number: '5'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 12-(1) a 12-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/00501/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1975-356759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7523043734e9972cd7fe9d70b9a6801b99d24623f9d74520cfcf74cbea224e07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ec1a360693f0cc918b11baae34fd4e24253c94417aefe87db97450dc6b2133d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia Constituinte
+- Caderno de Recenseamento
+- Campanha Eleitoral
+- Comissão Recenseadora
+- Eleição Legislativa
+- Lei Eleitoral
+- Recenseamento
+- Recenseamento Eleitoral
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356906:por
+  label: "Alterado o art. 39º do Dec Lei 621-A/74, de 15-Nov, na redacção do presente diploma, pelo DEC LEI.5/75.07.01.1975.PCM,\
+    \ DG.IS [5-2ºSUPL] de 07.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1975-356906
+  date: '1975-01-07'
+- type: amended_by
+  target: pt:dre:617141:por
+  label: "Alterados os arts. 36º, 37º e 38º do Dec Lei 621-A/74, de 15-Nov, na redacção do presente diploma, pelo DEC LEI.38-B/75.31.01.1975.PCM,\
+    \ DG.IS [26-2SUPL] de 31.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-b-1975-617141
+  date: '1975-01-31'
+- type: amended_by
+  target: pt:dre:160095:por
+  label: "Alterado o art. 39º do Dec Lei 621-A/74, de 15-Nov, na redacção do presente diploma e do Dec Lei 5/75, de 07-Jan,\
+    \ pelo DEC LEI.86/75.27.02.1975.PCM, DG.IS [49] de 27.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1975-160095
+  date: '1975-02-27'
+- type: cites
+  target: pt:dre:309893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:35Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +136,9 @@ Considerando a conveniência de definir, face a estes alargamentos de prazos, as
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São alterados vários números dos artigos 30.º, 32.º, 36.º, 37.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados vários números dos artigos 30.º, 32.º, 36.º, 37.º, 38.º, 39.º e 40.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro, que passam a ter a seguinte redacção:
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Pedido de inscrição)
 
@@ -108,7 +148,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 ...
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Cadernos de recenseamento)
 
@@ -120,7 +160,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 4 - ...
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Exposição de cópia para exame e reclamação)
 
@@ -132,7 +172,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 4 - ...
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Reclamações)
 
@@ -142,7 +182,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 3 - ...
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Recursos)
 
@@ -156,7 +196,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 5 - ...
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Correcção dos cadernos definitivos)
 
@@ -164,7 +204,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 2 - ...
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Número de eleitores inscritos e cópia dos cadernos de recenseamento)
 
@@ -176,9 +216,9 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 4 - ...
 
-###### Art. 2.º São alterados o n.º 2 do artigo 2.º e n.º 2 do artigo 23.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), que passam a ter a seguinte redacção:
+Art. 2.º São alterados o n.º 2 do artigo 2.º e n.º 2 do artigo 23.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), que passam a ter a seguinte redacção:
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Número de distribuição dos Deputados)
 
@@ -188,7 +228,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 ...
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Apresentação de candidaturas)
 
@@ -198,14 +238,14 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 3 - ...
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás.
 
 Visto e aprovado em Conselho de Estado.
 
-**Promulgado em 7 de Janeiro de 1975.**
+Promulgado em 7 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

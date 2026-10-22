@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1980-472497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 743956c7ed0f6c64bb327c17d1755445621298ba9514ae3d43c56c20a476ec9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40a5307e89b4b2dff30693a776af380918387a28e3bfe39b799312b8e83ac2b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Previdência Social
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:236716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:51Z'
   warnings: []
   errors: []
 ---
@@ -100,28 +127,28 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal da Santa Casa da Misericórdia de Lisboa admitido após a entrada em vigor deste diploma será inscrito na Caixa Geral de Aposentações, no Montepio dos Servidores do Estado e na Assistência na Doença aos Servidores Civis do Estado, nos termos da legislação que a estes organismos se refere.
+Artigo 1.º O pessoal da Santa Casa da Misericórdia de Lisboa admitido após a entrada em vigor deste diploma será inscrito na Caixa Geral de Aposentações, no Montepio dos Servidores do Estado e na Assistência na Doença aos Servidores Civis do Estado, nos termos da legislação que a estes organismos se refere.
 
-###### Art. 2.º - 1 - O pessoal da Santa Casa da Misericórdia de Lisboa que à data da entrada em vigor do presente diploma esteja inscrito na Caixa de Previdência dos Empregados da Assistência poderá optar pela manutenção do regime em que se encontra, através de requerimento dirigido à Caixa de Previdência, no prazo de trinta dias, a partir daquela data.
+Art. 2.º - 1 - O pessoal da Santa Casa da Misericórdia de Lisboa que à data da entrada em vigor do presente diploma esteja inscrito na Caixa de Previdência dos Empregados da Assistência poderá optar pela manutenção do regime em que se encontra, através de requerimento dirigido à Caixa de Previdência, no prazo de trinta dias, a partir daquela data.
 
 2 - A falta do requerimento referido no número anterior será entendida como opção pela mudança de regime, passando o pessoal da Santa Casa da Misericórdia a ficar abrangido pelos estatutos da aposentação, da pensão de sobrevivência e da protecção na doença em vigor na função pública, sendo-lhe contado para o efeito todo o tempo de serviço prestado com descontos obrigatórios para a Previdência.
 
-###### Art. 3.º Ao pessoal que tenha estado vinculado à Santa Casa da Misericórdia de Lisboa, descontando para a Caixa de Previdência dos Empregados da Assistência, e que, entretanto, por ter transitado para outros serviços oficiais, passou a ser subscritor da Caixa Geral de Aposentações será igualmente contado para efeitos do cálculo da pensão de aposentação todo o tempo de serviço anteriormente prestado com descontos obrigatórios para a Previdência, nos termos do artigo anterior.
+Art. 3.º Ao pessoal que tenha estado vinculado à Santa Casa da Misericórdia de Lisboa, descontando para a Caixa de Previdência dos Empregados da Assistência, e que, entretanto, por ter transitado para outros serviços oficiais, passou a ser subscritor da Caixa Geral de Aposentações será igualmente contado para efeitos do cálculo da pensão de aposentação todo o tempo de serviço anteriormente prestado com descontos obrigatórios para a Previdência, nos termos do artigo anterior.
 
-###### Art. 4.º As pensões de aposentação e sobrevivência relativas ao pessoal abrangido pelo n.º 2 do artigo 2.º e pelo artigo 3.º serão calculadas e abonadas integralmente aos pensionistas pela Caixa Geral de Aposentações e Montepio dos Servidores do Estado.
+Art. 4.º As pensões de aposentação e sobrevivência relativas ao pessoal abrangido pelo n.º 2 do artigo 2.º e pelo artigo 3.º serão calculadas e abonadas integralmente aos pensionistas pela Caixa Geral de Aposentações e Montepio dos Servidores do Estado.
 
-###### Art. 5.º Para efeitos do n.º 2 do artigo 2.º e do artigo 3.º, a Caixa Geral de Aposentações receberá da Caixa Nacional de Pensões e da Santa Casa da Misericórdia de Lisboa a quota-parte da pensão da responsabilidade de cada um desses organismos, aplicando-se o regime estabelecido no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio.
+Art. 5.º Para efeitos do n.º 2 do artigo 2.º e do artigo 3.º, a Caixa Geral de Aposentações receberá da Caixa Nacional de Pensões e da Santa Casa da Misericórdia de Lisboa a quota-parte da pensão da responsabilidade de cada um desses organismos, aplicando-se o regime estabelecido no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio.
 
-###### Art. 6.º - 1 - Ao pessoal da Santa Casa da Misericórdia de Lisboa que se encontra actualmente em situação de reforma pela Caixa de Previdência dos Empregados da Assistência poderá ser abonada uma pensão complementar, em termos a fixar entre esta Caixa e a Santa Casa da Misericórdia de Lisboa, responsável pelos encargos daí decorrentes como entidade patronal.
+Art. 6.º - 1 - Ao pessoal da Santa Casa da Misericórdia de Lisboa que se encontra actualmente em situação de reforma pela Caixa de Previdência dos Empregados da Assistência poderá ser abonada uma pensão complementar, em termos a fixar entre esta Caixa e a Santa Casa da Misericórdia de Lisboa, responsável pelos encargos daí decorrentes como entidade patronal.
 
 2 - O complemento a que se refere o número anterior não poderá exceder o montante que resultaria se ao pessoal aposentado fosse aplicada a fórmula de cálculo estabelecida no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública.
+Art. 7.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública.
 
 Francisco Sá Carneiro.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

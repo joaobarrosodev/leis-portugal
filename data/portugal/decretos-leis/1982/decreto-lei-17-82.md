@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/02100/01860187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1982-600915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34b0577d5c73cb5b0236b49363313b152697789a7fbada928386d20af1e16957
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc3f95afea94070355c03f489fc5b35bbafca83adb4fc627786c229685ef24df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Revolução
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:156986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:42:37Z'
   warnings: []
   errors: []
 ---
@@ -90,22 +105,22 @@ de 26 de Janeiro
 
 O Conselho da Revolução decreta, nos termos do n.º 1 do artigo 144.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os membros do Conselho da Revolução poderão ser apoiados no exercício das suas funções, quando o considerem necessário, por 1 chefe de gabinete e 1 secretário pessoal.
+Artigo 1.º - 1 - Os membros do Conselho da Revolução poderão ser apoiados no exercício das suas funções, quando o considerem necessário, por 1 chefe de gabinete e 1 secretário pessoal.
 
 2 - O membro do Conselho da Revolução que exerça as funções de presidente dos Serviços de Apoio poderá ser apoiado no exercício das suas funções por 1 chefe de gabinete e 2 secretários pessoais.
 
-###### Art. 2.º - 1 - Os chefes de gabinete e os secretários pessoais são livremente providos e exonerados pelo presidente dos Serviços de Apoio do Conselho da Revolução, sob proposta do respectivo membro deste Conselho.
+Art. 2.º - 1 - Os chefes de gabinete e os secretários pessoais são livremente providos e exonerados pelo presidente dos Serviços de Apoio do Conselho da Revolução, sob proposta do respectivo membro deste Conselho.
 
 2 - Aos agentes referidos no número anterior é aplicável o disposto nos n.os 2 a 5 do artigo 4.º e no n.º 2 do artigo 7.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, não lhes aproveitando o disposto na alínea b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 519-H2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-h2-1979-156986), a menos que preencham as condições nela referidas.
 
-###### Art. 3.º Os chefes de gabinete e os secretários auferem os vencimentos e, quando for caso disso, as ajudas de custo dos membros dos gabinetes dos ministros em idênticas funções.
+Art. 3.º Os chefes de gabinete e os secretários auferem os vencimentos e, quando for caso disso, as ajudas de custo dos membros dos gabinetes dos ministros em idênticas funções.
 
-###### Art. 4.º Os agentes que actualmente desempenham as funções de secretário mantêm-se no exercício dessas funções, sem dependência de qualquer formalidade, e têm direito aos vencimentos previstos neste diploma a partir de 1 de Janeiro de 1980.
+Art. 4.º Os agentes que actualmente desempenham as funções de secretário mantêm-se no exercício dessas funções, sem dependência de qualquer formalidade, e têm direito aos vencimentos previstos neste diploma a partir de 1 de Janeiro de 1980.
 
 Visto e aprovado em Conselho da Revolução em 3 de Outubro de 1979.
 
-**Promulgado em 11 de Março de 1981.**
+Promulgado em 11 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

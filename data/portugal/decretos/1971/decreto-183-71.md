@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/05/10500/06450649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/183-1971-644300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec178c5a33375dc7bd7120b66471a55fa343c7fd1f1757e2e4e41197ad4af7bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d8d2fe1d83a4a88260ad9e9ab829edfa6d8ddf1d9d8973780b6286243843cc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto do Funcionalismo Ultramarino
+- Funcionário Ultramarino
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:16Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +113,9 @@ Nos termos do disposto na alínea g) do n.º 1.º da base X da Lei Orgânica do 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, 12.º, 14.º, 16.º, 20.º, 46.º, 49.º, 52.º, 69.º, 81.º, 84.º, 85.º, 86.º, 88.º, 117.º e 442.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º, 12.º, 14.º, 16.º, 20.º, 46.º, 49.º, 52.º, 69.º, 81.º, 84.º, 85.º, 86.º, 88.º, 117.º e 442.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passam a ter a seguinte redacção:
 
-###### Art. 11.º A nomeação, promoção, transferência, exoneração e quaisquer outros actos do Ministro do Ultramar ou dos governadores que alterem ou extingam a situação dos servidores do Estado serão feitos por despacho.
+Art. 11.º A nomeação, promoção, transferência, exoneração e quaisquer outros actos do Ministro do Ultramar ou dos governadores que alterem ou extingam a situação dos servidores do Estado serão feitos por despacho.
 
 § 1.º Por cada nomeação, contrato ou assalariamento para lugares dos quadros, promoção ou transferência para outra província ou para a metrópole, e colocação por reingresso no quadro, será lavrado um diploma de provimento do modelo 1 anexo ao presente decreto.
 
@@ -106,7 +125,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 4.º Os actos a que se refere o corpo do presente artigo serão publicados sob a forma de extracto.
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 a) ...
 
@@ -140,11 +159,11 @@ h) ...
 
 ...
 
-###### Art. 14.º Os provimentos efectuados com preterições dos requisitos estabelecidos na lei são anuláveis mediante recurso contencioso, a interpor dentro dos prazos fixados para o efeito; são nulos e de nenhum efeito, porém, os provimentos efectuados com inobservância do disposto nas alíneas a), c), d), e) e g) e nos §§ 1.º e 7.º do artigo 12.º, na parte final do § 3.º do mesmo artigo e no artigo 13.º
+Art. 14.º Os provimentos efectuados com preterições dos requisitos estabelecidos na lei são anuláveis mediante recurso contencioso, a interpor dentro dos prazos fixados para o efeito; são nulos e de nenhum efeito, porém, os provimentos efectuados com inobservância do disposto nas alíneas a), c), d), e) e g) e nos §§ 1.º e 7.º do artigo 12.º, na parte final do § 3.º do mesmo artigo e no artigo 13.º
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 § 1.º ...
 
@@ -156,7 +175,7 @@ h) ...
 
 ...
 
-###### Art. 20.º A apresentação, substituição e devolução de documentos necessários para os concursos de ingresso ou habilitação para cargos públicos obedecerão às seguintes regras:
+Art. 20.º A apresentação, substituição e devolução de documentos necessários para os concursos de ingresso ou habilitação para cargos públicos obedecerão às seguintes regras:
 
 1.ª É dispensada a apresentação de documentos comprovativos dos requisitos exigidos para a admissão a concursos documentais ou de prestação de provas, devendo os candidatos declarar nos respectivos requerimentos, em alíneas separadas e sob compromisso de honra, a situação precisa em que se encontram relativamente a cada uma das condições, gerais ou especiais, exigidas para aquele efeito;
 
@@ -196,23 +215,23 @@ h) ...
 
 ...
 
-###### Art. 46.º ...
+Art. 46.º ...
 
 § único. A celebração do contrato com a aceitação das normas gerais e das cláusulas especiais constantes do termo de posse considera-se efectuada mediante a assinatura deste termo, salvo o disposto no artigo 49.º
 
 ...
 
-###### Art. 49.º Os contratos de prestação de serviço referidos na alínea c) do artigo 45.º e, bem assim, aqueles em que seja estabelecida qualquer cláusula não prevista na lei deverão ser celebrados em documento avulso, depois de a minuta ser visada pelo Ministro ou pelo governador da província, conforme a respectiva competência.
+Art. 49.º Os contratos de prestação de serviço referidos na alínea c) do artigo 45.º e, bem assim, aqueles em que seja estabelecida qualquer cláusula não prevista na lei deverão ser celebrados em documento avulso, depois de a minuta ser visada pelo Ministro ou pelo governador da província, conforme a respectiva competência.
 
 § único. São nulas as cláusulas contratuais não conformes com a minuta aprovada.
 
 ...
 
-###### Art. 52.º O assalariamento para lugares dos quadros é feito mediante diploma de provimento. O assalariamento eventual far-se-á verbalmente ou por meio de termo em livro de registo.
+Art. 52.º O assalariamento para lugares dos quadros é feito mediante diploma de provimento. O assalariamento eventual far-se-á verbalmente ou por meio de termo em livro de registo.
 
 ...
 
-###### Art. 69.º ...
+Art. 69.º ...
 
 § 1.º ...
 
@@ -224,7 +243,7 @@ h) ...
 
 ...
 
-###### Art. 81.º A investidura em cargos públicos efectua-se mediante o acto de posse, no qual o empossado deverá prestar o seguinte juramento:
+Art. 81.º A investidura em cargos públicos efectua-se mediante o acto de posse, no qual o empossado deverá prestar o seguinte juramento:
 
 Juro ser fiel à minha Pátria, cooperar na realização dos fins superiores do Estado, defender os princípios fundamentais da ordem social e política estabelecida na Constituição, respeitar as leis e dedicar ao serviço público todo o meu zelo, inteligência e aptidão.
 
@@ -246,15 +265,15 @@ Caso contrário, ficará a posse sem efeito, com as consequências da sua falta.
 
 ...
 
-###### Art. 84.º ...
+Art. 84.º ...
 
 § único. É permitida delegação para o efeito de conferir posse e receber a prestação do juramento, contando que o delegado seja de maior categoria ou mais antigo que o funcionário a empossar.
 
-###### Art. 85.º Sempre que cheguem ao conhecimento da Administração quaisquer factos graves que a levem a desinteressar-se dos serviços do indivíduo a empossar em primeiro provimento, pode deixar de conferir a posse, justificando tal procedimento em despacho fundamentado, que será notificado ao interessado.
+Art. 85.º Sempre que cheguem ao conhecimento da Administração quaisquer factos graves que a levem a desinteressar-se dos serviços do indivíduo a empossar em primeiro provimento, pode deixar de conferir a posse, justificando tal procedimento em despacho fundamentado, que será notificado ao interessado.
 
 O diploma de provimento será considerado sem efeito.
 
-###### Art. 86.º ...
+Art. 86.º ...
 
 § 1.º O termo de início de funções é lavrado em livro próprio, assinado pela autoridade competente e averbado no termo de posse.
 
@@ -262,7 +281,7 @@ O diploma de provimento será considerado sem efeito.
 
 ...
 
-###### Art. 88.º Os termos de posse estão sujeitos ao imposto do selo das taxas seguintes:
+Art. 88.º Os termos de posse estão sujeitos ao imposto do selo das taxas seguintes:
 
 a) Vencimentos iguais ou superiores à letra E ... 200$00
 
@@ -278,7 +297,7 @@ c) Vencimentos da categoria S e inferiores ... 100$00
 
 ...
 
-###### Art. 117.º ...
+Art. 117.º ...
 
 1.º ...
 
@@ -294,7 +313,7 @@ c) Vencimentos da categoria S e inferiores ... 100$00
 
 ...
 
-###### Art. 442.º ...
+Art. 442.º ...
 
 1.º ...
 
@@ -308,9 +327,9 @@ c) Vencimentos da categoria S e inferiores ... 100$00
 
 § 2.º ...
 
-###### Art. 2.º Os impressos dos modelos anexos, bem como os previstos no § 4.º do artigo 16.º do Estatuto do Funcionalismo Ultramarino, constituirão exclusivo da Imprensa Nacional de cada província.
+Art. 2.º Os impressos dos modelos anexos, bem como os previstos no § 4.º do artigo 16.º do Estatuto do Funcionalismo Ultramarino, constituirão exclusivo da Imprensa Nacional de cada província.
 
-###### Art. 3.º Deixa de ser devido o imposto de selo pelos contratos.
+Art. 3.º Deixa de ser devido o imposto de selo pelos contratos.
 
 § único. Ficam abolidos:
 
@@ -324,20 +343,20 @@ d) A declaração exigida pelo [Decreto-Lei n.º 27003](https://diariodarepublic
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Abril de 1971.**
+Promulgado em 14 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 Modelo n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10500/06450649.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10500/06450649.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10500/06450649.pdf)
 
 Modelo n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/10500/06450649.pdf))](https://files.diariodarepublica.pt/1s/1971/05/10500/06450649.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/10500/06450649.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

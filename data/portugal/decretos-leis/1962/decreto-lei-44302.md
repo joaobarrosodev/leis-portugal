@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44302-1962-516065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e578d012053a09b1da0d81c64b6678d4b2085a0750bf5eb6ba690385a99e8c62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b4d17ca99b93cb4c2acb5af8adc5de0fb34e9f0146ba4c7fffa4a3a21aff00a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Biblioteca
+- Ministério das Finanças
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:28Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +99,26 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no Ministério das Finanças, sob a directa dependência do respectivo Ministro, uma biblioteca central, destinada a incorporar num fundo único as espécies bibliográficas actualmente integradas nas diversas bibliotecas privativas de serviços do mesmo Ministério.
+Artigo 1.º É criada no Ministério das Finanças, sob a directa dependência do respectivo Ministro, uma biblioteca central, destinada a incorporar num fundo único as espécies bibliográficas actualmente integradas nas diversas bibliotecas privativas de serviços do mesmo Ministério.
 
 § único. Não ficam sujeitas ao regime deste diploma as obras impressas que constituem instrumentos de trabalho de uso diário nas repartições.
 
-###### Art. 2.º A biblioteca estará aberta ao público durante as horas normais de serviço, para atender os leitores e satisfazer as requisições para leitura domiciliária, a qual será instituída nos termos de regulamento especial a publicar em portaria.
+Art. 2.º A biblioteca estará aberta ao público durante as horas normais de serviço, para atender os leitores e satisfazer as requisições para leitura domiciliária, a qual será instituída nos termos de regulamento especial a publicar em portaria.
 
-###### Art. 3.º Para a organização e funcionamento da biblioteca será utilizado o pessoal afecto às actuais bibliotecas privativas, só excepcionalmente podendo ser nomeado outro pessoal, nas condições de prestação de trabalho a fixar pelo Ministro das Finanças.
+Art. 3.º Para a organização e funcionamento da biblioteca será utilizado o pessoal afecto às actuais bibliotecas privativas, só excepcionalmente podendo ser nomeado outro pessoal, nas condições de prestação de trabalho a fixar pelo Ministro das Finanças.
 
-###### Art. 4.º A organização da biblioteca iniciar-se-á pela elaboração de um inventário completo de todas as espécies pertencentes às actuais bibliotecas privativas, o qual servirá de base à preparação dos catálogos alfabéticos (onomástico, didascálico e ideográfico).
+Art. 4.º A organização da biblioteca iniciar-se-á pela elaboração de um inventário completo de todas as espécies pertencentes às actuais bibliotecas privativas, o qual servirá de base à preparação dos catálogos alfabéticos (onomástico, didascálico e ideográfico).
 
 § único. Os livros e revistas actualmente integrados nas bibliotecas privativas conservar-se-ão nelas até que sejam tomadas ulteriores providências, devendo, porém, ficar desde já à disposição da nova biblioteca para os efeitos necessários.
 
-###### Art. 5.º Todas as despesas com a biblioteca, incluindo as respeitantes à aquisição de espécies bibliográficas, serão satisfeitas por conta de dotação própria a inscrever no Orçamento, no capítulo do Gabinete Ministerial.
+Art. 5.º Todas as despesas com a biblioteca, incluindo as respeitantes à aquisição de espécies bibliográficas, serão satisfeitas por conta de dotação própria a inscrever no Orçamento, no capítulo do Gabinete Ministerial.
 
 § único. Sem prejuízo das regras sobre aquisição de livros e revistas, a incluir no regulamento a que se refere o artigo 2.º, pode o Ministro das Finanças autorizar que a dotação prevista no corpo deste artigo seja distribuída pelos diversos serviços e seja por eles administrada até aos montantes que lhes sejam fixados.
 
-###### Art. 6.º A denominação da biblioteca será estabelecida em portaria.
+Art. 6.º A denominação da biblioteca será estabelecida em portaria.
 
 § único. O ex-líbris destinado a ser aposto em todas as espécies da biblioteca deverá ser alusivo à respectiva denominação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

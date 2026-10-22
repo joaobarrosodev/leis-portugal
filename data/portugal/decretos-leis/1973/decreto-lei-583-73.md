@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1973-412604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d10dbd7d8089e417c3acee10b122f93c66f24201bda775a178d415fff5b4b9de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee709b7480be9f01e99402c2d743a60981cc7e553d5a6f768da401fac2719fbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Executiva
+- Comissão Técnica
+- Conselho Administrativo
+- Definição de Competências
+- Investigador
+- Junta de Investigações Científicas do Ultramar
+- Ministro do Ultramar
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico
+- Presidente
+- Quadro de Pessoal
+- Regime de Pessoal
+- Secretário
+- Vice-presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:233689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506066:por
+  label: Substituídos os quadros anexos pelo(a) Decreto n.º 24/76 - Diário do Governo n.º 12/1976, Série I de 1976-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/24-1976-506066
+  date: '1976-01-15'
+- type: amended_by
+  target: pt:dre:233689:por
+  label: "Determinada a integração no Ministério da Educação e Investigação Científica, da Junta de Investigações Científicas\
+    \ do Ultramar (JICU), reorganizada pelo presente diploma, pelo DEC LEI.769-C/76.23.10.1976.MNE, DR.IS [249-2ºSupl] de\
+    \ 23.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/769-c-1976-233689
+  date: '1976-10-23'
+- type: cites
+  target: pt:dre:148441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693413:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:02Z'
   warnings: []
   errors: []
 ---
@@ -160,15 +253,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ## TÍTULO I — Natureza, atribuições e competência da Junta de Investigações Científicas do Ultramar
 
-###### Artigo 1.º A Junta de Investigações do Ultramar, que passa a designar-se por Junta de Investigações Científicas do Ultramar, é um organismo dependente directamente do Ministro do Ultramar, dotado de personalidade jurídica e com autonomia administrativa e financeira.
+Artigo 1.º A Junta de Investigações do Ultramar, que passa a designar-se por Junta de Investigações Científicas do Ultramar, é um organismo dependente directamente do Ministro do Ultramar, dotado de personalidade jurídica e com autonomia administrativa e financeira.
 
-###### Art. 2.º Constituem atribuições da Junta de Investigações Científicas do Ultramar, no quadro das orientações da política científica nacional, promover e intensificar a investigação científica e tecnológica no domínio dos conhecimentos sobre o ultramar, com vista a:
+Art. 2.º Constituem atribuições da Junta de Investigações Científicas do Ultramar, no quadro das orientações da política científica nacional, promover e intensificar a investigação científica e tecnológica no domínio dos conhecimentos sobre o ultramar, com vista a:
 
 a) Promover a valorização humana;
 
 b) Desenvolver o conhecimento científico relativo às populações e territórios do ultramar e estudar o melhor aproveitamento dos respectivos recursos potenciais; c) Contribuir para o desenvolvimento das relações internacionais no que se refere aos estudos científicos do ultramar.
 
-###### Art. 3.º Compete à Junta de Investigações Científicas do Ultramar:
+Art. 3.º Compete à Junta de Investigações Científicas do Ultramar:
 
 a) Colaborar com os organismos competentes da Presidência do Conselho para a formulação e execução coordenada da política científica nacional;
 
@@ -190,7 +283,7 @@ i) Colaborar com os demais organismos e serviços do Ministério do Ultramar e o
 
 j) Coordenar, em colaboração com outros Ministérios, nomeadamente o dos Negócios Estrangeiros, a representação nacional em organismos e reuniões tendentes a promover a cooperação internacional nos estudos científicos do ultramar.
 
-###### Art. 4.º Para execução dos seus objectivos, cumpre em especial aos órgãos da Junta:
+Art. 4.º Para execução dos seus objectivos, cumpre em especial aos órgãos da Junta:
 
 a) Proceder aos estudos, inquéritos, experiências e outros trabalhos necessários à concretização dos seus fins;
 
@@ -232,7 +325,7 @@ s) Promover o aproveitamento do pessoal científico especializado estranho à Ju
 
 ### CAPÍTULO I — Da Junta
 
-###### Art. 5.º - 1. A Junta é constituída pelo presidente e por vários vogais.
+Art. 5.º - 1. A Junta é constituída pelo presidente e por vários vogais.
 
 2. São vogais da Junta:
 
@@ -254,43 +347,43 @@ e) Os directores dos centros dos institutos centrais.
 
 6. Servirá de secretário da Junta o secretário da Comissão Executiva.
 
-###### Art. 6.º A Junta reúne ordinariamente uma vez por ano para apreciar os relatórios dos institutos e dos centros de estudos provinciais e dar parecer sobre as propostas anuais ou plurianuais das actividades desses mesmos organismos e sobre outros projectos de investigação.
+Art. 6.º A Junta reúne ordinariamente uma vez por ano para apreciar os relatórios dos institutos e dos centros de estudos provinciais e dar parecer sobre as propostas anuais ou plurianuais das actividades desses mesmos organismos e sobre outros projectos de investigação.
 
-###### Art. 7.º Serão designados anualmente pela Junta os membros que hão-de relatar as actividades anuais dos institutos e dos centros de estudos provinciais.
+Art. 7.º Serão designados anualmente pela Junta os membros que hão-de relatar as actividades anuais dos institutos e dos centros de estudos provinciais.
 
-###### Art. 8.º A Junta exerce a sua acção através de institutos, centros de estudos provinciais e serviços.
+Art. 8.º A Junta exerce a sua acção através de institutos, centros de estudos provinciais e serviços.
 
 ### CAPÍTULO II — Órgãos superiores
 
 #### SECÇÃO I — Comissão Executiva
 
-###### Art. 9.º A direcção superior de toda a actividade da Junta de Investigações Científicas do Ultramar compete à Comissão Executiva, que é constituída pelo presidente, por dois vice-presidentes e por um secretário.
+Art. 9.º A direcção superior de toda a actividade da Junta de Investigações Científicas do Ultramar compete à Comissão Executiva, que é constituída pelo presidente, por dois vice-presidentes e por um secretário.
 
-###### Art. 10.º As funções de presidente da Comissão Executiva serão desempenhadas por inerência pelo presidente da Junta.
+Art. 10.º As funções de presidente da Comissão Executiva serão desempenhadas por inerência pelo presidente da Junta.
 
-###### Art. 11.º O presidente da Comissão Executiva é coadjuvado pelos vice-presidentes, competindo a um destes a orientação da parte científica e ao outro a da parte administrativa e a das actividades de apoio aos institutos.
+Art. 11.º O presidente da Comissão Executiva é coadjuvado pelos vice-presidentes, competindo a um destes a orientação da parte científica e ao outro a da parte administrativa e a das actividades de apoio aos institutos.
 
 #### SECÇÃO II — Comissão Técnica
 
-###### Art. 12.º - 1. A Comissão Técnica é um órgão consultivo do presidente da Junta, constituído pelos membros da Comissão Executiva e pelos directores dos institutos centrais.
+Art. 12.º - 1. A Comissão Técnica é um órgão consultivo do presidente da Junta, constituído pelos membros da Comissão Executiva e pelos directores dos institutos centrais.
 
 2. Poderão ser chamados a participar nos trabalhos da Comissão Técnica os directores dos institutos provinciais.
 
-###### Art. 13.º A Comissão Técnica reúne ordinariamente de dois em dois meses e extraordinariamente sempre que o presidente o entenda necessário.
+Art. 13.º A Comissão Técnica reúne ordinariamente de dois em dois meses e extraordinariamente sempre que o presidente o entenda necessário.
 
 ### CAPÍTULO III — Institutos
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 14.º Aos institutos compete realizar a acção da Junta no domínio da investigação científica e tecnológica.
+Art. 14.º Aos institutos compete realizar a acção da Junta no domínio da investigação científica e tecnológica.
 
-###### Art. 15.º Na Junta haverá institutos centrais, com sede na metrópole, e institutos provinciais, com sede nos estados e províncias do ultramar.
+Art. 15.º Na Junta haverá institutos centrais, com sede na metrópole, e institutos provinciais, com sede nos estados e províncias do ultramar.
 
-###### Art. 16.º Os institutos centrais são constituídos por centros e os provinciais por departamentos.
+Art. 16.º Os institutos centrais são constituídos por centros e os provinciais por departamentos.
 
-###### Art. 17.º Cada instituto terá um director, responsável pela coordenação das suas actividades.
+Art. 17.º Cada instituto terá um director, responsável pela coordenação das suas actividades.
 
-###### Art. 18.º Em cada instituto haverá um conselho, constituído pelos directores dos centros ou pelos chefes dos departamentos e presidido pelo director do instituto, competindo-lhe:
+Art. 18.º Em cada instituto haverá um conselho, constituído pelos directores dos centros ou pelos chefes dos departamentos e presidido pelo director do instituto, competindo-lhe:
 
 a) Assistir ao director no estudo dos problemas relativos ao instituto e seus objectivos;
 
@@ -302,15 +395,15 @@ d) Apreciar as conclusões dos estudos realizados no instituto;
 
 e) Dar parecer sobre os planos de trabalho e estudos que lhe sejam determinados.
 
-###### Art. 19.º Os conselhos dos institutos reúnem ordinariamente uma vez por mês e extraordinariamente sempre que o director do instituto o entenda necessário.
+Art. 19.º Os conselhos dos institutos reúnem ordinariamente uma vez por mês e extraordinariamente sempre que o director do instituto o entenda necessário.
 
 #### SECÇÃO II — Institutos centrais
 
-###### Art. 20.º Os institutos centrais são órgãos especializados nos grandes ramos das ciências puras e aplicadas, cuja actividade de investigação interessa ao progresso científico e tecnológico do ultramar português.
+Art. 20.º Os institutos centrais são órgãos especializados nos grandes ramos das ciências puras e aplicadas, cuja actividade de investigação interessa ao progresso científico e tecnológico do ultramar português.
 
-###### Art. 21.º A unidade fundamental dos institutos centrais é o centro.
+Art. 21.º A unidade fundamental dos institutos centrais é o centro.
 
-###### Art. 22.º - 1. À frente de cada centro haverá um director responsável pela organização, funcionamento e coordenação das suas actividades.
+Art. 22.º - 1. À frente de cada centro haverá um director responsável pela organização, funcionamento e coordenação das suas actividades.
 
 2. Aos directores dos centros compete em especial:
 
@@ -324,13 +417,13 @@ d) Distribuir tarefas de investigação;
 
 e) Propor, dar parecer e informar sobre o pessoal do centro.
 
-###### Art. 23.º Constitui uma missão um grupo especializado, de carácter eventual, destinado à realização de um estudo ou de uma investigação específica no ultramar.
+Art. 23.º Constitui uma missão um grupo especializado, de carácter eventual, destinado à realização de um estudo ou de uma investigação específica no ultramar.
 
-###### Art. 24.º A missão poderá, eventualmente, ser constituída por um só cientista, acompanhado ou não de pessoal auxiliar.
+Art. 24.º A missão poderá, eventualmente, ser constituída por um só cientista, acompanhado ou não de pessoal auxiliar.
 
-###### Art. 25.º As missões serão constituídas no âmbito dos centros.
+Art. 25.º As missões serão constituídas no âmbito dos centros.
 
-###### Art. 26.º Os institutos centrais são os seguintes:
+Art. 26.º Os institutos centrais são os seguintes:
 
 Instituto de Ciências da Terra;
 
@@ -338,7 +431,7 @@ Instituto de Ciências Biológicas;
 
 Instituto de Ciências Humanas.
 
-###### Art. 27.º O Instituto de Ciências da Terra compreende os seguintes organismos:
+Art. 27.º O Instituto de Ciências da Terra compreende os seguintes organismos:
 
 Centro de Geografia do Ultramar;
 
@@ -346,7 +439,7 @@ Centro de Geociências;
 
 Centro de Estudos de Pedologia Tropical.
 
-###### Art. 28.º O Instituto de Ciências Biológicas compreende os seguintes organismos:
+Art. 28.º O Instituto de Ciências Biológicas compreende os seguintes organismos:
 
 Centro de Botânica;
 
@@ -360,7 +453,7 @@ Centro de Investigação das Ferrugens do Cafeeiro;
 
 Centro de Estudos de Defesa Fitossanitária dos Produtos Ultramarinos.
 
-###### Art. 29.º O Instituto de Ciências Humanas compreende os seguintes organismos:
+Art. 29.º O Instituto de Ciências Humanas compreende os seguintes organismos:
 
 Centro de Estudos de Ciências Antropológicas;
 
@@ -370,21 +463,21 @@ Centro de Estudos de Cartografia Antiga;
 
 Arquivo Histórico Ultramarino.
 
-###### Art. 30.º Os institutos centrais exercem a sua actividade em ligação com Universidades e institutos e laboratórios científicos da metrópole e do ultramar, competindo-lhes impulsionar estudos e investigações relativos ao ultramar português no domínio das respectivas especialidades.
+Art. 30.º Os institutos centrais exercem a sua actividade em ligação com Universidades e institutos e laboratórios científicos da metrópole e do ultramar, competindo-lhes impulsionar estudos e investigações relativos ao ultramar português no domínio das respectivas especialidades.
 
-###### Art. 31.º Para prestarem serviço junto dos directores dos institutos centrais poderão ser destacados funcionários das categorias referidas nos quadros anexos ao presente diploma.
+Art. 31.º Para prestarem serviço junto dos directores dos institutos centrais poderão ser destacados funcionários das categorias referidas nos quadros anexos ao presente diploma.
 
 #### SECÇÃO III — Institutos provinciais
 
-###### Art. 32.º Os institutos provinciais são de carácter interdisciplinar, competindo-lhes promover actividades de investigação científica e tecnológica na província onde têm a sede.
+Art. 32.º Os institutos provinciais são de carácter interdisciplinar, competindo-lhes promover actividades de investigação científica e tecnológica na província onde têm a sede.
 
-###### Art. 33.º Os institutos provinciais exercem a sua actividade em ligação com os institutos centrais e as Universidades e com os institutos e laboratórios científicos da respectiva província, competindo-lhes, em relação aos organismos de ensino e investigação, impulsionar os estudos e investigações relativos ao progresso científico e tecnológico da província.
+Art. 33.º Os institutos provinciais exercem a sua actividade em ligação com os institutos centrais e as Universidades e com os institutos e laboratórios científicos da respectiva província, competindo-lhes, em relação aos organismos de ensino e investigação, impulsionar os estudos e investigações relativos ao progresso científico e tecnológico da província.
 
-###### Art. 34.º Os institutos provinciais regem-se pelas disposições do [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, e demais legislação aplicável, em tudo o que não seja contrariado pelo presente diploma.
+Art. 34.º Os institutos provinciais regem-se pelas disposições do [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, e demais legislação aplicável, em tudo o que não seja contrariado pelo presente diploma.
 
-###### Art. 35.º Os institutos provinciais funcionam na respectiva província como delegações da Junta de Investigações Científicas do Ultramar, gozam de autonomia administrativa e financeira e exercem livremente a sua acção no que se refere ao desenvolvimento dos trabalhos de investigação e à actividade dos serviços de apoio, podendo criar e manter núcleos, estações, centros, museus, arquivos, bibliotecas, aquários e jardins botânicos e zoológicos em diversas localidades.
+Art. 35.º Os institutos provinciais funcionam na respectiva província como delegações da Junta de Investigações Científicas do Ultramar, gozam de autonomia administrativa e financeira e exercem livremente a sua acção no que se refere ao desenvolvimento dos trabalhos de investigação e à actividade dos serviços de apoio, podendo criar e manter núcleos, estações, centros, museus, arquivos, bibliotecas, aquários e jardins botânicos e zoológicos em diversas localidades.
 
-###### Art. 36.º - 1. Cada um dos Institutos de Investigação Científica de Angola e Moçambique compreende, além da direcção, os seguintes departamentos:
+Art. 36.º - 1. Cada um dos Institutos de Investigação Científica de Angola e Moçambique compreende, além da direcção, os seguintes departamentos:
 
 Departamento dos Serviços Centrais;
 
@@ -402,45 +495,45 @@ Departamento de Cálculo Científico e Mecanográfico.
 
 2. No Instituto de Investigação Científica de Angola é criado ainda o Departamento de Documentação e Informação, no qual serão integradas as actividades do actual Centro de Documentação Científica do mesmo Instituto.
 
-###### Art. 37.º - 1. Nos institutos provinciais haverá à frente de cada departamento um chefe responsável pela organização, funcionamento e coordenação das respectivas actividades.
+Art. 37.º - 1. Nos institutos provinciais haverá à frente de cada departamento um chefe responsável pela organização, funcionamento e coordenação das respectivas actividades.
 
 2. Os chefes de departamento têm em relação aos seus departamentos a competência que o artigo 22.º deste diploma confere aos directores dos centros.
 
-###### Art. 38.º - 1. O Departamento dos Serviços Centrais do Instituto de Investigação Científica de Angola compreende o serviço administrativo, o serviço de
+Art. 38.º - 1. O Departamento dos Serviços Centrais do Instituto de Investigação Científica de Angola compreende o serviço administrativo, o serviço de
 
 selecção e preparação de pessoal, o serviço de oficinas e armazém, o serviço de fotografia e som, o gabinete de desenho e o Centro de Estudos de Sá da Bandeira.
 
 2. No Centro de Estudos de Sá da Bandeira poderão processar-se actividades de investigação científica correspondentes às dos departamentos do Instituto de Investigação Científica de Angola.
 
-###### Art. 39.º O Centro de Documentação Científica do Instituto de Investigação de Moçambique exercerá as suas funções em íntima ligação com o Centro de Documentação da Universidade de Lourenço Marques.
+Art. 39.º O Centro de Documentação Científica do Instituto de Investigação de Moçambique exercerá as suas funções em íntima ligação com o Centro de Documentação da Universidade de Lourenço Marques.
 
 #### SECÇÃO IV — Centros de estudos provinciais
 
-###### Art. 40.º Os centros de estudos provinciais existirão nas províncias onde não houver institutos provinciais e são, como estes, de carácter interdisciplinar, competindo-lhes promover actividades de investigação científica e tecnológica na província onde têm a sede.
+Art. 40.º Os centros de estudos provinciais existirão nas províncias onde não houver institutos provinciais e são, como estes, de carácter interdisciplinar, competindo-lhes promover actividades de investigação científica e tecnológica na província onde têm a sede.
 
-###### Art. 41.º Os centros de estudos provinciais dependem do Ministro do Ultramar, por intermédio dos governos das províncias, e da Junta de Investigações Científicas do Ultramar.
+Art. 41.º Os centros de estudos provinciais dependem do Ministro do Ultramar, por intermédio dos governos das províncias, e da Junta de Investigações Científicas do Ultramar.
 
-###### Art. 42.º Os centros de estudos provinciais serão organizados tendo em vista a sua transformação em institutos provinciais, quando o nível das suas actividades e o progresso científico e tecnológico da província a justifiquem.
+Art. 42.º Os centros de estudos provinciais serão organizados tendo em vista a sua transformação em institutos provinciais, quando o nível das suas actividades e o progresso científico e tecnológico da província a justifiquem.
 
-###### Art. 43.º Quando na província houver estabelecimentos de ensino superior, competirá aos centros de estudos provinciais cooperar com eles na realização de estudos e investigações de interesse mútuo ou através da coordenação dos respectivos planos de investigação.
+Art. 43.º Quando na província houver estabelecimentos de ensino superior, competirá aos centros de estudos provinciais cooperar com eles na realização de estudos e investigações de interesse mútuo ou através da coordenação dos respectivos planos de investigação.
 
-###### Art. 44.º A Junta de Investigações Científicas do Ultramar promoverá a coordenação dos trabalhos dos centros de estudos provinciais com os dos seus restantes organismos.
+Art. 44.º A Junta de Investigações Científicas do Ultramar promoverá a coordenação dos trabalhos dos centros de estudos provinciais com os dos seus restantes organismos.
 
-###### Art. 45.º - 1. Os centros de estudos provinciais funcionam na respectiva província como delegações da Junta de Investigações Científicas do Ultramar, podendo neles serem integrados museus, arquivos, bibliotecas, aquários e jardins botânicos e zoológicos já existentes ou que venham a ser criados.
+Art. 45.º - 1. Os centros de estudos provinciais funcionam na respectiva província como delegações da Junta de Investigações Científicas do Ultramar, podendo neles serem integrados museus, arquivos, bibliotecas, aquários e jardins botânicos e zoológicos já existentes ou que venham a ser criados.
 
 2. Os arquivos históricos provinciais ficarão sob a orientação técnica do Arquivo Histórico Ultramarino.
 
-###### Art. 46.º Os centros de estudos provinciais terão regulamento próprio a aprovar por portaria ministerial.
+Art. 46.º Os centros de estudos provinciais terão regulamento próprio a aprovar por portaria ministerial.
 
 #### SECÇÃO V — Serviços
 
-###### Art. 47.º - 1. A Junta terá serviços de expediente, contabilidade, tesouraria, material e um Centro de Documentação e Informação.
+Art. 47.º - 1. A Junta terá serviços de expediente, contabilidade, tesouraria, material e um Centro de Documentação e Informação.
 
 2. Sempre que as circunstâncias o justifiquem, poderá o Ministro do Ultramar, sob proposta do presidente da Junta, criar, por portaria, novos serviços.
 
 3. A actividade administrativa da Junta processa-se através dos serviços.
 
-###### Art. 48.º - 1. O Centro de Documentação e Informação funcionará como central colectora e selectora, coordenadora e difusora de documentação e informação em todas os domínios da actividade da Junta, servindo não só ao pessoal, serviços, institutos e diversos núcleos de acção da Junta, mas ainda a todos os estudiosos, nacionais e estrangeiros.
+Art. 48.º - 1. O Centro de Documentação e Informação funcionará como central colectora e selectora, coordenadora e difusora de documentação e informação em todas os domínios da actividade da Junta, servindo não só ao pessoal, serviços, institutos e diversos núcleos de acção da Junta, mas ainda a todos os estudiosos, nacionais e estrangeiros.
 
 2. Ao Centro de Documentação e Informação compete ainda a superintendência e orientação técnica de tudo quanto se refere a matéria de publicações da Junta.
 
@@ -448,37 +541,37 @@ selecção e preparação de pessoal, o serviço de oficinas e armazém, o servi
 
 ### CAPÍTULO I — Categorias e funções
 
-###### Art. 49.º O pessoal da Junta de Investigações Científicas do Ultramar terá a seguinte classificação: de direcção, científico, administrativo, técnico, auxiliar e dos serviços gerais.
+Art. 49.º O pessoal da Junta de Investigações Científicas do Ultramar terá a seguinte classificação: de direcção, científico, administrativo, técnico, auxiliar e dos serviços gerais.
 
-###### Art. 50.º Têm funções de direcção o presidente, os dois vice-presidentes e o secretário da Comissão Executiva, os directores dos institutos, os subdirectores dos institutos provinciais, os directores dos centros e os chefes dos departamentos.
+Art. 50.º Têm funções de direcção o presidente, os dois vice-presidentes e o secretário da Comissão Executiva, os directores dos institutos, os subdirectores dos institutos provinciais, os directores dos centros e os chefes dos departamentos.
 
-###### Art. 51.º - 1. O presidente, os vice-presidentes e o secretário da Junta terão as categorias A, C e D, respectivamente.
+Art. 51.º - 1. O presidente, os vice-presidentes e o secretário da Junta terão as categorias A, C e D, respectivamente.
 
 2. O restante pessoal terá as designações funcionais e categorias referidas nos quadros anexos ao presente diploma.
 
-###### Art. 52.º O pessoal científico e técnico será colocado nos institutos segundo as respectivas especialidades.
+Art. 52.º O pessoal científico e técnico será colocado nos institutos segundo as respectivas especialidades.
 
-###### Art. 53.º - 1. Os directores dos institutos e dos centros terão a categoria da letra C, com direito a diuturnidades, segundo o regime estabelecido no Estatuto do Funcionalismo Ultramarino.
+Art. 53.º - 1. Os directores dos institutos e dos centros terão a categoria da letra C, com direito a diuturnidades, segundo o regime estabelecido no Estatuto do Funcionalismo Ultramarino.
 
 2. Se as funções de direcção dos centros ou dos institutos forem exercidas em acumulação com cargos de investigação ou docentes, serão remuneradas por gratificação a fixar por despacho ministerial.
 
 3. Se as funções de subdirector e chefe de departamento dos institutos provinciais forem exercidas em acumulação com cargos de investigação, serão remuneradas por gratificação a fixar por despacho ministerial.
 
-###### Art. 54.º Os investigadores dos centros e dos institutos terão direito a diuturnidades, segundo o regime estabelecido para os professores das Universidades, sendo, porém, condição necessária da sua atribuição a apresentação de um curriculum científico que a justifique.
+Art. 54.º Os investigadores dos centros e dos institutos terão direito a diuturnidades, segundo o regime estabelecido para os professores das Universidades, sendo, porém, condição necessária da sua atribuição a apresentação de um curriculum científico que a justifique.
 
-###### Art. 55.º O pessoal científico pode ser encarregado, a título excepcional e mediante autorização do Ministro do Ultramar, de regências de cadeiras ou cursos, de lições em cursos avançados da sua especialidade ou da direcção de seminários em Universidades ou escolas superiores, com direito à remuneração prevista nos termos dos n.os 5 e 6 do artigo 9.º e do n.º 5 do artigo 54.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+Art. 55.º O pessoal científico pode ser encarregado, a título excepcional e mediante autorização do Ministro do Ultramar, de regências de cadeiras ou cursos, de lições em cursos avançados da sua especialidade ou da direcção de seminários em Universidades ou escolas superiores, com direito à remuneração prevista nos termos dos n.os 5 e 6 do artigo 9.º e do n.º 5 do artigo 54.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
-###### Art. 56.º O pessoal técnico coadjuva o pessoal científico na condução da investigação ou na criação, operação e manutenção do apetrechamento técnico e aparelhagem científica requeridos pela investigação, competindo-lhe ainda participar nas actividades de outros serviços da Junta que exijam competência técnica especializada.
+Art. 56.º O pessoal técnico coadjuva o pessoal científico na condução da investigação ou na criação, operação e manutenção do apetrechamento técnico e aparelhagem científica requeridos pela investigação, competindo-lhe ainda participar nas actividades de outros serviços da Junta que exijam competência técnica especializada.
 
-###### Art. 57.º Além das designações funcionais e categorias referidas nos quadros anexos ao presente diploma, poderão vir a ser estabelecidas por portaria outras categorias correspondentes a funções especializadas determinadas por novas actividades de investigação.
+Art. 57.º Além das designações funcionais e categorias referidas nos quadros anexos ao presente diploma, poderão vir a ser estabelecidas por portaria outras categorias correspondentes a funções especializadas determinadas por novas actividades de investigação.
 
-###### Art. 58.º Além do pessoal científico, administrativo, técnico e auxiliar dos quadros, poderá ser admitida, por despacho ministerial, a colaboração eventual de cientistas, nacionais ou estrangeiros, aos quais serão atribuídos subsídios pela Junta, sendo-lhes permitida a utilização do pessoal, material e serviços da Junta para a realização das investigações e outros trabalhos para que foram admitidos.
+Art. 58.º Além do pessoal científico, administrativo, técnico e auxiliar dos quadros, poderá ser admitida, por despacho ministerial, a colaboração eventual de cientistas, nacionais ou estrangeiros, aos quais serão atribuídos subsídios pela Junta, sendo-lhes permitida a utilização do pessoal, material e serviços da Junta para a realização das investigações e outros trabalhos para que foram admitidos.
 
 ### CAPÍTULO II — Provimento
 
 #### SECÇÃO I — Pessoal de direcção
 
-###### Art. 59.º - 1. O presidente da Junta de Investigações Científicas do Ultramar é nomeado por despacho conjunto do Presidente do Conselho e do Ministro do Ultramar.
+Art. 59.º - 1. O presidente da Junta de Investigações Científicas do Ultramar é nomeado por despacho conjunto do Presidente do Conselho e do Ministro do Ultramar.
 
 2. Se a pessoa escolhida não for funcionário público ou exercer o cargo em acumulação com funções docentes ou de direcção de estabelecimento científico ou técnico, a nomeação será feita por períodos de três anos renováveis, sem prejuízo da faculdade de exoneração a todo o tempo.
 
@@ -486,29 +579,29 @@ selecção e preparação de pessoal, o serviço de oficinas e armazém, o servi
 
 4. Para efeito de remuneração, o presidente da Junta é equiparado a reitor das Universidades metropolitanas.
 
-###### Art. 60.º - 1. Os vice-presidentes da Junta serão nomeados pelo Ministro do Ultramar, sob proposta do presidente da Junta.
+Art. 60.º - 1. Os vice-presidentes da Junta serão nomeados pelo Ministro do Ultramar, sob proposta do presidente da Junta.
 
 2. Quando a nomeação recair em funcionário público, as funções de vice-presidente da Junta serão desempenhadas em comissão de serviço, por períodos de cinco anos, renováveis.
 
-###### Art. 61.º - 1. O secretário da Junta é nomeado pelo Ministro do Ultramar, sob proposta do presidente da Junta.
+Art. 61.º - 1. O secretário da Junta é nomeado pelo Ministro do Ultramar, sob proposta do presidente da Junta.
 
 2. Quando a nomeação recair em funcionário público, as funções serão exercidas em comissão de serviço, por períodos de três anos, renováveis.
 
-###### Art. 62.º - 1. Os directores dos institutos serão nomeados pelo Ministro do Ultramar, sob proposta do presidente da Junta, ouvido o Governador do Estado ou da província no caso dos directores dos institutos provinciais, com observância do disposto no artigo 15.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963, no que respeita aos Institutos de Investigação Científica de Angola e de Moçambique.
+Art. 62.º - 1. Os directores dos institutos serão nomeados pelo Ministro do Ultramar, sob proposta do presidente da Junta, ouvido o Governador do Estado ou da província no caso dos directores dos institutos provinciais, com observância do disposto no artigo 15.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963, no que respeita aos Institutos de Investigação Científica de Angola e de Moçambique.
 
 2. As nomeações de directores dos institutos centrais deverão recair em directores de centros, investigadores dos centros ou dos institutos provinciais, professores de ensino superior ou individualidades de reconhecido mérito científico, podendo as respectivas funções ser exercidas em comissão de serviço ou por acumulação, por períodos de cinco anos, renováveis.
 
-###### Art. 63.º Nos institutos provinciais, o director será coadjuvado por um subdirector nomeado em comissão ordinária de serviço pelo Ministro do Ultramar, por proposta do director, de entre os investigadores do instituto, ouvido o presidente da Junta.
+Art. 63.º Nos institutos provinciais, o director será coadjuvado por um subdirector nomeado em comissão ordinária de serviço pelo Ministro do Ultramar, por proposta do director, de entre os investigadores do instituto, ouvido o presidente da Junta.
 
-###### Art. 64.º Nos institutos centrais o director será substituído nos seus impedimentos por um dos directores dos centros, designado pelo presidente da Junta.
+Art. 64.º Nos institutos centrais o director será substituído nos seus impedimentos por um dos directores dos centros, designado pelo presidente da Junta.
 
-###### Art. 65.º Os directores dos centros serão designados pelo presidente da Junta, ouvidos os directores dos respectivos institutos.
+Art. 65.º Os directores dos centros serão designados pelo presidente da Junta, ouvidos os directores dos respectivos institutos.
 
-###### Art. 66.º Os responsáveis pela chefia de trabalhos das divisões dos centros serão designados pelos directores dos respectivos centros.
+Art. 66.º Os responsáveis pela chefia de trabalhos das divisões dos centros serão designados pelos directores dos respectivos centros.
 
-###### Art. 67.º Os chefes dos departamentos serão designados pelo presidente da Junta, ouvido o director do instituto.
+Art. 67.º Os chefes dos departamentos serão designados pelo presidente da Junta, ouvido o director do instituto.
 
-###### Art. 68.º Os responsáveis pela direcção dos estabelecimentos a que se refere o n.º 1 do artigo 6.º do regulamento aprovado pelo [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, serão designados pelo presidente da Junta, ouvidos os directores dos institutos.
+Art. 68.º Os responsáveis pela direcção dos estabelecimentos a que se refere o n.º 1 do artigo 6.º do regulamento aprovado pelo [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, serão designados pelo presidente da Junta, ouvidos os directores dos institutos.
 
 #### SECÇÃO II — Pessoal científico
 
@@ -516,95 +609,95 @@ selecção e preparação de pessoal, o serviço de oficinas e armazém, o servi
 
 ##### DIVISÃO I — Disposições gerais
 
-###### Art. 69.º - 1. O pessoal científico, a que correspondem as letras C, D, E, F e G, do quadro II anexo ao presente diploma, é nomeado pelo Ministro do Ultramar, sob proposta do presidente da Junta, ouvidos os directores dos centros ou, no caso dos institutos provinciais, os directores dos institutos.
+Art. 69.º - 1. O pessoal científico, a que correspondem as letras C, D, E, F e G, do quadro II anexo ao presente diploma, é nomeado pelo Ministro do Ultramar, sob proposta do presidente da Junta, ouvidos os directores dos centros ou, no caso dos institutos provinciais, os directores dos institutos.
 
 2. No provimento para o exercício de cargos do pessoal científico podem ser dispensadas as condições referidas a limite de idade para ingresso no serviço público em casos devidamente fundamentados.
 
 ##### DIVISÃO II — Pessoal científico
 
-###### Art. 70.º O pessoal científico dos institutos compreende os investigadores e os assistentes de investigação.
+Art. 70.º O pessoal científico dos institutos compreende os investigadores e os assistentes de investigação.
 
-###### Art. 71.º A carreira de investigação iniciar-se-á na categoria de assistente de investigação (letra G).
+Art. 71.º A carreira de investigação iniciar-se-á na categoria de assistente de investigação (letra G).
 
-###### Art. 72.º Podem ser contratados como assistentes de investigação (letra G) os licenciados ou diplomados com cursos superiores, equivalentes a licenciaturas, por escolas nacionais ou estrangeiras, os quais, pela classificação final do curso, curriculum escolar, trabalhos publicados e outras informações, preencham condições para iniciar uma carreira científica.
+Art. 72.º Podem ser contratados como assistentes de investigação (letra G) os licenciados ou diplomados com cursos superiores, equivalentes a licenciaturas, por escolas nacionais ou estrangeiras, os quais, pela classificação final do curso, curriculum escolar, trabalhos publicados e outras informações, preencham condições para iniciar uma carreira científica.
 
-###### Art. 73.º Os assistentes de investigação (letra G) serão contratados pelo prazo de vinte e quatro meses, findo o qual, tendo em atenção os trabalhos realizados e o seu curriculum, ou serão contratados na categoria de assistentes de investigação (letra F) ou ser-lhes-á denunciado o contrato.
+Art. 73.º Os assistentes de investigação (letra G) serão contratados pelo prazo de vinte e quatro meses, findo o qual, tendo em atenção os trabalhos realizados e o seu curriculum, ou serão contratados na categoria de assistentes de investigação (letra F) ou ser-lhes-á denunciado o contrato.
 
-###### Art. 74.º Poderão ser contratados como assistentes de investigação (letra F):
+Art. 74.º Poderão ser contratados como assistentes de investigação (letra F):
 
 a) Os assistentes de investigação (letra G) dos institutos com vinte e quatro meses de exercício nessa categoria e que durante esse período tenham demonstrado capacidade para a investigação;
 
 b) Os licenciados ou diplomados com cursos superiores, equivalentes a licenciaturas, por escolas nacionais ou estrangeiras, com mais de três anos de trabalhos de investigação, que apresentem um curriculum que justifique o contrato.
 
-###### Art. 75.º Os assistentes de investigação (letra F) serão contratados pelo prazo de um ano, renovável por períodos iguais, até ao máximo de cinco, findos os quais ou permanecerão na categoria de assistentes ou ascenderão no quadro científico, salvo no caso de a promoção não poder verificar-se imediatamente por impedimento de ordem administrativa.
+Art. 75.º Os assistentes de investigação (letra F) serão contratados pelo prazo de um ano, renovável por períodos iguais, até ao máximo de cinco, findos os quais ou permanecerão na categoria de assistentes ou ascenderão no quadro científico, salvo no caso de a promoção não poder verificar-se imediatamente por impedimento de ordem administrativa.
 
-###### Art. 76.º O provimento de lugares de investigador será feito por nomeação.
+Art. 76.º O provimento de lugares de investigador será feito por nomeação.
 
-###### Art. 77.º Poderão ser nomeados investigadores (letra E):
+Art. 77.º Poderão ser nomeados investigadores (letra E):
 
 a) Os assistentes de investigação (letra F) com, pelo menos, três anos de exercício nessa categoria e boas informações de serviço que apresentem um curriculum do qual conste um trabalho com o nível de dissertação universitária; b) Os doutores por uma Universidade portuguesa ou estrangeira equivalente.
 
-###### Art. 78.º Poderão ser nomeados investigadores (letra D):
+Art. 78.º Poderão ser nomeados investigadores (letra D):
 
 a) Os investigadores (letra E) dos institutos com mais de três anos de exercício na categoria e boas informações de serviço que apresentem um curriculum do qual constem trabalhos com nível de dissertação universitária;
 
 b) Os professores das Universidades ou estabelecimentos de ensino superior, nacionais ou estrangeiros, cujo curriculum o justifique.
 
-###### Art. 79.º Poderão ser nomeados investigadores (letra C):
+Art. 79.º Poderão ser nomeados investigadores (letra C):
 
 a) Os investigadores (letra D) dos institutos com mais de três anos de exercício na categoria e que apresentem um curriculum que justifique a nomeação;
 
 b) Os professores das Universidades ou estabelecimentos de ensino superior, nacionais ou estrangeiros, cujo curriculum o justifique.
 
-###### Art. 80.º As propostas de nomeação para investigadores e assistentes de investigação (letra F), em que serão considerados o curriculum e o valor dos trabalhos do candidato, serão apresentadas pelo presidente da Junta, acompanhadas de parecer do conselho do instituto respectivo.
+Art. 80.º As propostas de nomeação para investigadores e assistentes de investigação (letra F), em que serão considerados o curriculum e o valor dos trabalhos do candidato, serão apresentadas pelo presidente da Junta, acompanhadas de parecer do conselho do instituto respectivo.
 
-###### Art. 81.º A apreciação do curriculum e do valor dos trabalhos será feita por um júri ad hoc, nomeado pelo Ministro do Ultramar, sob proposta do presidente da Junta, e constituído por um mínimo de três individualidades escolhidas entre investigadores do instituto, professores universitários e outras personalidades de reconhecida competência, sendo os respectivos pareceres publicados no Diário do Governo e no Boletim Oficial da província a que respeite a nomeação.
+Art. 81.º A apreciação do curriculum e do valor dos trabalhos será feita por um júri ad hoc, nomeado pelo Ministro do Ultramar, sob proposta do presidente da Junta, e constituído por um mínimo de três individualidades escolhidas entre investigadores do instituto, professores universitários e outras personalidades de reconhecida competência, sendo os respectivos pareceres publicados no Diário do Governo e no Boletim Oficial da província a que respeite a nomeação.
 
-###### Art. 82.º Os conselhos dos institutos poderão propor a nomeação para investigadores, por convite, de cientistas nacionais ou estrangeiros que se tenham distinguido nas respectivas especialidades em investigações de interesse para o ultramar, devendo as propostas ser devidamente fundamentadas.
+Art. 82.º Os conselhos dos institutos poderão propor a nomeação para investigadores, por convite, de cientistas nacionais ou estrangeiros que se tenham distinguido nas respectivas especialidades em investigações de interesse para o ultramar, devendo as propostas ser devidamente fundamentadas.
 
 ##### SUBSECÇÃO II — Pessoal técnico
 
-###### Art. 83.º O pessoal técnico compreende as categorias constantes do quadro IV anexo ao presente diploma: técnico de 1.ª classe, técnico de 2.ª classe, documentalista de 2.ª classe, técnico de 3.ª classe, documentalista-adjunto, assistente técnico, ajudante de documentalista, desenhador-chefe, tradutor-correspondente, desenhador-cartógrafo de 1.ª classe, desenhador de 1.ª classe, catalogador-arquivista, desenhador-cartógrafo de 2.ª classe, desenhador de 2.ª classe e auxiliar de documentalista.
+Art. 83.º O pessoal técnico compreende as categorias constantes do quadro IV anexo ao presente diploma: técnico de 1.ª classe, técnico de 2.ª classe, documentalista de 2.ª classe, técnico de 3.ª classe, documentalista-adjunto, assistente técnico, ajudante de documentalista, desenhador-chefe, tradutor-correspondente, desenhador-cartógrafo de 1.ª classe, desenhador de 1.ª classe, catalogador-arquivista, desenhador-cartógrafo de 2.ª classe, desenhador de 2.ª classe e auxiliar de documentalista.
 
-###### Art. 84.º As propostas de nomeação ou de promoção do pessoal técnico serão feitas pelo presidente da Junta ao Ministro do Ultramar, com base na apreciação do curriculum do candidato, tendo em conta as habilitações exigidas.
+Art. 84.º As propostas de nomeação ou de promoção do pessoal técnico serão feitas pelo presidente da Junta ao Ministro do Ultramar, com base na apreciação do curriculum do candidato, tendo em conta as habilitações exigidas.
 
-###### Art. 85.º A apreciação dos curricula, das informações de competência ou ainda de provas práticas ou teóricas que possam elucidar sobre o mérito do pessoal técnico, para efeito de contrato ou nomeação, será feita por um júri ad hoc, designado pelo presidente da Junta e constituído por três membros, pelo menos, escolhidos entre o pessoal científico da Junta, e, eventualmente, por outras individualidades da Junta ou de estabelecimentos de ensino secundário ou superior.
+Art. 85.º A apreciação dos curricula, das informações de competência ou ainda de provas práticas ou teóricas que possam elucidar sobre o mérito do pessoal técnico, para efeito de contrato ou nomeação, será feita por um júri ad hoc, designado pelo presidente da Junta e constituído por três membros, pelo menos, escolhidos entre o pessoal científico da Junta, e, eventualmente, por outras individualidades da Junta ou de estabelecimentos de ensino secundário ou superior.
 
-###### Art. 86.º O pessoal técnico será adstrito aos serviços, aos institutos e aos centros de estudos provinciais, de harmonia com as necessidades e as especializações.
+Art. 86.º O pessoal técnico será adstrito aos serviços, aos institutos e aos centros de estudos provinciais, de harmonia com as necessidades e as especializações.
 
-###### Art. 87.º Nas institutos provinciais o pessoal a que se refere o artigo anterior constará de quadros aprovados por despacho do Governador, sob proposta do conselho de direcção do instituto.
+Art. 87.º Nas institutos provinciais o pessoal a que se refere o artigo anterior constará de quadros aprovados por despacho do Governador, sob proposta do conselho de direcção do instituto.
 
 #### SECÇÃO III — Pessoal administrativo
 
-###### Art. 88.º O pessoal administrativo compreende as categorias do quadro III anexo ao presente diploma.
+Art. 88.º O pessoal administrativo compreende as categorias do quadro III anexo ao presente diploma.
 
-###### Art. 89.º - 1. Os lugares do pessoal administrativo da Junta de Investigações Científicas do Ultramar até à categoria de primeiro-oficial serão providos nos termos do artigo 27.º do Estatuto do Funcionalismo Ultramarino, precedendo concurso de provas práticas e orais.
+Art. 89.º - 1. Os lugares do pessoal administrativo da Junta de Investigações Científicas do Ultramar até à categoria de primeiro-oficial serão providos nos termos do artigo 27.º do Estatuto do Funcionalismo Ultramarino, precedendo concurso de provas práticas e orais.
 
 2. Os programas e as formalidades do concurso serão estabelecidos em portaria ministerial.
 
-###### Art. 90.º Os lugares de chefe de secção serão providos por escolha do Ministro do Ultramar, sob proposta do presidente da Junta.
+Art. 90.º Os lugares de chefe de secção serão providos por escolha do Ministro do Ultramar, sob proposta do presidente da Junta.
 
-###### Art. 91.º Os lugares de adjunto administrativo e de chefe dos serviços serão de livre escolha do Ministro do Ultramar, ouvido o presidente da Junta.
+Art. 91.º Os lugares de adjunto administrativo e de chefe dos serviços serão de livre escolha do Ministro do Ultramar, ouvido o presidente da Junta.
 
-###### Art. 92.º Nos lugares de jurista de 1.ª classe e de jurista de 2.ª classe serão providos, por proposta do presidente da Junta, licenciados ou bacharéis pelas Faculdades de Direito portuguesas.
+Art. 92.º Nos lugares de jurista de 1.ª classe e de jurista de 2.ª classe serão providos, por proposta do presidente da Junta, licenciados ou bacharéis pelas Faculdades de Direito portuguesas.
 
 #### SECÇÃO IV — Pessoal auxiliar
 
-###### Art. 93.º O pessoal auxiliar compreende as categorias constantes do quadro V anexo ao presente diploma.
+Art. 93.º O pessoal auxiliar compreende as categorias constantes do quadro V anexo ao presente diploma.
 
-###### Art. 94.º O pessoal auxiliar referido no artigo anterior será provido por contrato, sob proposta do presidente da Junta.
+Art. 94.º O pessoal auxiliar referido no artigo anterior será provido por contrato, sob proposta do presidente da Junta.
 
 #### SECÇÃO V — Pessoal dos serviços gerais
 
-###### Art. 95.º O pessoal dos serviços gerais compreende as categorias do quadro VI anexo ao presente diploma.
+Art. 95.º O pessoal dos serviços gerais compreende as categorias do quadro VI anexo ao presente diploma.
 
-###### Art. 96.º O pessoal dos serviços gerais referido no artigo anterior será provido, por contrato, sob proposta do presidente da Junta.
+Art. 96.º O pessoal dos serviços gerais referido no artigo anterior será provido, por contrato, sob proposta do presidente da Junta.
 
 ## TÍTULO IV — Administração financeira
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 97.º As receitas da Junta são constituídas por:
+Art. 97.º As receitas da Junta são constituídas por:
 
 a) Dotações que lhe forem consignadas no Orçamento Geral do Estado;
 
@@ -628,19 +721,19 @@ j) Os saldos apurados nas suas contas de gerência;
 
 l) Quaisquer liberalidades que lhe forem feitas.
 
-###### Art. 98.º As dotações concedidas à Junta de Investigações Científicas do Ultramar serão inscritas anualmente no Orçamento Geral do Estado sob a designação «Subsídio à Junta de Investigações Científicas do Ultramar», nos termos do presente decreto-lei.
+Art. 98.º As dotações concedidas à Junta de Investigações Científicas do Ultramar serão inscritas anualmente no Orçamento Geral do Estado sob a designação «Subsídio à Junta de Investigações Científicas do Ultramar», nos termos do presente decreto-lei.
 
-###### Art. 99.º As verbas com que as províncias ultramarinas venham a participar nas despesas da Junta de Investigações Científicas do Ultramar serão inscritas nos respectivos orçamentos sob a designação, «Subsídio à Junta de Investigações Científicas do Ultramar», nos termos do presente decreto-lei.
+Art. 99.º As verbas com que as províncias ultramarinas venham a participar nas despesas da Junta de Investigações Científicas do Ultramar serão inscritas nos respectivos orçamentos sob a designação, «Subsídio à Junta de Investigações Científicas do Ultramar», nos termos do presente decreto-lei.
 
-###### Art. 100.º As dotações inscritas nos orçamentos das províncias ultramarinas aos organismos da Junta, incluindo as missões, passam a ser administradas pelos centros que integram as actividades daqueles organismos e missões.
+Art. 100.º As dotações inscritas nos orçamentos das províncias ultramarinas aos organismos da Junta, incluindo as missões, passam a ser administradas pelos centros que integram as actividades daqueles organismos e missões.
 
-###### Art. 101.º A Junta de Investigações Cientificas do Ultramar apresentará ao Tribunal de Contas, para julgamento, as suas contas de exercício dentro dos prazos estabelecidos na lei.
+Art. 101.º A Junta de Investigações Cientificas do Ultramar apresentará ao Tribunal de Contas, para julgamento, as suas contas de exercício dentro dos prazos estabelecidos na lei.
 
-###### Art. 102.º Haverá na Caixa Geral de Depósitos, no Banco Nacional Ultramarino e no Banco de Angola contas abertas à ordem da Junta de Investigações Científicas do Ultramar, onde serão depositadas as suas receitas.
+Art. 102.º Haverá na Caixa Geral de Depósitos, no Banco Nacional Ultramarino e no Banco de Angola contas abertas à ordem da Junta de Investigações Científicas do Ultramar, onde serão depositadas as suas receitas.
 
 ### CAPÍTULO II — Conselho administrativo
 
-###### Art. 103.º - 1. O conselho administrativo da Junta de Investigações Científicas do Ultramar é constituído por um presidente, designado de entre os membros da Comissão Executiva, e por dois vogais.
+Art. 103.º - 1. O conselho administrativo da Junta de Investigações Científicas do Ultramar é constituído por um presidente, designado de entre os membros da Comissão Executiva, e por dois vogais.
 
 2. Os membros do conselho são nomeados por despacho do Ministro do Ultramar, sem dependência de qualquer formalidade, por períodos de três anos, podendo ser exonerados a todo o tempo.
 
@@ -650,11 +743,11 @@ l) Quaisquer liberalidades que lhe forem feitas.
 
 5. Os membros do conselho administrativo exercerão as suas funções cumulativamente com os respectivos cargos e perceberão por elas as gratificações fixadas em despacho do Ministro do Ultramar.
 
-###### Art. 104.º - 1. O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o julgue conveniente.
+Art. 104.º - 1. O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o julgue conveniente.
 
 2. O conselho delibera por maioria de votos.
 
-###### Art. 105.º Ao conselho administrativo compete:
+Art. 105.º Ao conselho administrativo compete:
 
 a) Preparar o planeamento financeiro de acordo com a orientação superior;
 
@@ -682,7 +775,7 @@ m) Promover a actualização do cadastro do pessoal da Junta;
 
 n) Promover a organização e actualização do cadastro dos bens da Junta e determinar a elaboração do inventário nos termos legais.
 
-###### Art. 106.º. Ao presidente do conselho administrativo compete:
+Art. 106.º. Ao presidente do conselho administrativo compete:
 
 a) Convocar a reunião do conselho e fixar a respectiva agenda;
 
@@ -696,15 +789,15 @@ e) Assinar e fazer autenticar com o selo branco as contas e outros documentos qu
 
 ## TÍTULO V — Disposições finais e transitórias
 
-###### Art. 107.º - 1. São integrados na Junta de Investigações Científicas do Ultramar o Centro de Estudos Históricos Ultramarinos e a Filmoteca Ultramarina Portuguesa.
+Art. 107.º - 1. São integrados na Junta de Investigações Científicas do Ultramar o Centro de Estudos Históricos Ultramarinos e a Filmoteca Ultramarina Portuguesa.
 
 2. A actual orgânica e funcionamento destes organismos continuarão em vigor enquanto não for publicado o regulamento a que se refere o artigo 123.º do presente diploma.
 
-###### Art. 108.º - 1. É integrado na Junta de Investigações Científicas do Ultramar o Arquivo Histórico Ultramarino.
+Art. 108.º - 1. É integrado na Junta de Investigações Científicas do Ultramar o Arquivo Histórico Ultramarino.
 
 2. O director do Arquivo Histórico Ultramarino, que passa a ter a categoria de investigador (letra D), é nomeado pelo Ministro do Ultramar, sob proposta do presidente da Junta.
 
-###### Art. 109.º - 1. O actual Centro de Documentação Científica Ultramarina é integrado no Centro de Documentação e Informação, que será objecto de regulamentação especial a publicar no prazo de cento e oitenta dias a partir da entrada em vigor do presente diploma.
+Art. 109.º - 1. O actual Centro de Documentação Científica Ultramarina é integrado no Centro de Documentação e Informação, que será objecto de regulamentação especial a publicar no prazo de cento e oitenta dias a partir da entrada em vigor do presente diploma.
 
 2. Os serviços de documentação e informação deverão seguir os processos técnicos de compilação, classificação e difusão que tornem mais fácil e imediata a sua utilização.
 
@@ -712,103 +805,103 @@ e) Assinar e fazer autenticar com o selo branco as contas e outros documentos qu
 
 4. Para o pessoal adjunto dos serviços de documentação e informação é obrigatório o conhecimento, devidamente comprovado, de, pelo menos, uma língua estrangeira.
 
-###### Art. 110.º São integrados no Centro de Documentação e Informação da Junta de Investigações Científicas do Ultramar os demais núcleos de documentação e informação existentes no Ministério do Ultramar.
+Art. 110.º São integrados no Centro de Documentação e Informação da Junta de Investigações Científicas do Ultramar os demais núcleos de documentação e informação existentes no Ministério do Ultramar.
 
 Ari. 111.º A Biblioteca do Ministério do Ultramar é integrada na Junta de Investigações Científicas do Ultramar, funcionará na dependência do Arquivo Histórico Ultramarino e receberá assistência e orientação técnica do Centro de Documentação e Informação.
 
-###### Art. 112.º O Jardim e Museu Agrícola do Ultramar é integrado na Junta de Investigações Científicas do Ultramar e funcionará junto do Centro de Botânica.
+Art. 112.º O Jardim e Museu Agrícola do Ultramar é integrado na Junta de Investigações Científicas do Ultramar e funcionará junto do Centro de Botânica.
 
-###### Art. 113.º Serão integrados na Junta de Investigações Científicas do Ultramar os arquivos históricos das províncias ultramarinas, que funcionarão na dependência dos institutos provinciais e centros de estudos provinciais e sob a orientação técnica do Arquivo Histórico Ultramarino.
+Art. 113.º Serão integrados na Junta de Investigações Científicas do Ultramar os arquivos históricos das províncias ultramarinas, que funcionarão na dependência dos institutos provinciais e centros de estudos provinciais e sob a orientação técnica do Arquivo Histórico Ultramarino.
 
-###### Art. 114.º O Centro de Estudos de Cabo Verde continuará a reger-se pelas disposições do [Decreto n.º 43564](https://diariodarepublica.pt/dr/detalhe/decreto/43564-1961-559426), de 27 de Março de 1961, enquanto não dispuser de nova legislação, devendo o seu funcionamento ser regulamentado no prazo de cento e oitenta dias a contar da data da entrada em vigor do presente diploma.
+Art. 114.º O Centro de Estudos de Cabo Verde continuará a reger-se pelas disposições do [Decreto n.º 43564](https://diariodarepublica.pt/dr/detalhe/decreto/43564-1961-559426), de 27 de Março de 1961, enquanto não dispuser de nova legislação, devendo o seu funcionamento ser regulamentado no prazo de cento e oitenta dias a contar da data da entrada em vigor do presente diploma.
 
-###### Art. 115.º - 1. São integradas na Junta de Investigações Científicas do Ultramar o Centro de Estudos da Guiné Portuguesa, criado pela portaria provincial de 13 de Dezembro de 1945, e o Museu da Guiné Portuguesa, criado pelo [Decreto n.º 36639](https://diariodarepublica.pt/dr/detalhe/decreto/36639-1947-636379), de 29 de Novembro de 1947.
+Art. 115.º - 1. São integradas na Junta de Investigações Científicas do Ultramar o Centro de Estudos da Guiné Portuguesa, criado pela portaria provincial de 13 de Dezembro de 1945, e o Museu da Guiné Portuguesa, criado pelo [Decreto n.º 36639](https://diariodarepublica.pt/dr/detalhe/decreto/36639-1947-636379), de 29 de Novembro de 1947.
 
 2. O núcleo bibliográfico científico da antiga biblioteca do Museu da Guiné Portuguesa, existente na actual Biblioteca Nacional da Guiné, será transferido e reintegrado na biblioteca daquele Museu.
 
-###### Art. 116.º É integrado na Junta de Investigações Científicas do Ultramar o Museu de S. Tomé e Príncipe, criado pelo Diploma Legislativo Ministerial n.º 4, de 25 de Julho de 1970.
+Art. 116.º É integrado na Junta de Investigações Científicas do Ultramar o Museu de S. Tomé e Príncipe, criado pelo Diploma Legislativo Ministerial n.º 4, de 25 de Julho de 1970.
 
-###### Art. 117.º É integrado na Junta de Investigações Científicas do Ultramar o Centro de Estudos de Timor, criado pelo Diploma Legislativo Ministerial n.º 2, de 31 de Maio de 1952.
+Art. 117.º É integrado na Junta de Investigações Científicas do Ultramar o Centro de Estudos de Timor, criado pelo Diploma Legislativo Ministerial n.º 2, de 31 de Maio de 1952.
 
-###### Art. 118.º - 1. Nos centros dos institutos centrais serão integrados os organismos actualmente existentes que tratam de matérias afins.
+Art. 118.º - 1. Nos centros dos institutos centrais serão integrados os organismos actualmente existentes que tratam de matérias afins.
 
 2. Sempre que um organismo a integrar processe actividades de natureza interdisciplinar, serão estas repartidas pelos centros, de acordo com as suas especialidades.
 
-###### Art. 119.º As actividades da Missão de Geografia Física e Humana do Ultramar, do Agrupamento Científico de Preparação de Geógrafos para o Ultramar, da Missão de Astronomia e Gravimetria do Ultramar, da Missão Geográfica de Angola, da Missão Geográfica de Moçambique, da Missão Geográfica de Timor, da Secção de Geologia do Agrupamento de Estudos Ultramarinos anexo à Faculdade de Ciências da Universidade do Porto, do Agrupamento Científico de Estudos Geológicos da Faculdade de Ciências da Universidade de Coimbra, do Agrupamento Científico de Estudos de Geologia da Faculdade de Ciências da Universidade de Lisboa, do Laboratório de Técnicas Físico-Químicas Aplicadas à Mineralogia e Petrologia, do Laboratório de Estudos Petrológicos do Ultramar e da Missão de Pedologia de Angola e Moçambique são integradas, de acordo com as matérias professadas, no Centro de Geografia do Ultramar, no Centro de Geociências e no Centro de Estudos de Pedologia Tropical.
+Art. 119.º As actividades da Missão de Geografia Física e Humana do Ultramar, do Agrupamento Científico de Preparação de Geógrafos para o Ultramar, da Missão de Astronomia e Gravimetria do Ultramar, da Missão Geográfica de Angola, da Missão Geográfica de Moçambique, da Missão Geográfica de Timor, da Secção de Geologia do Agrupamento de Estudos Ultramarinos anexo à Faculdade de Ciências da Universidade do Porto, do Agrupamento Científico de Estudos Geológicos da Faculdade de Ciências da Universidade de Coimbra, do Agrupamento Científico de Estudos de Geologia da Faculdade de Ciências da Universidade de Lisboa, do Laboratório de Técnicas Físico-Químicas Aplicadas à Mineralogia e Petrologia, do Laboratório de Estudos Petrológicos do Ultramar e da Missão de Pedologia de Angola e Moçambique são integradas, de acordo com as matérias professadas, no Centro de Geografia do Ultramar, no Centro de Geociências e no Centro de Estudos de Pedologia Tropical.
 
-###### Art. 120.º As actividades da Missão Botânica de Angola e Moçambique, da Missão de Estudos Agronómicos do Ultramar, da Secção de Botânica do Agrupamento de Estudos Ultramarinos anexo à Faculdade de Ciências da Universidade do Porto, do Agrupamento Científico de Farmacognosia para o Estudo das Plantas Medicinais do Ultramar da Faculdade de Farmácia da Universidade do Porto, do Laboratório de Histologia e Tecnologia de Madeiras, do Agrupamento de Estudos Biológicos da Faculdade de Ciências da Universidade de Coimbra, da Missão de Estudos Zoológicos do Ultramar, do Centro de Biologia Aquática Tropical, do Centro de Bioceanologia e Pescas do Ultramar, da Missão de Estudos Bioceanológicos e de Pescas de Angola, da Missão de Estudos Bioceanológicos e de Pescas de Moçambique e da Brigada de Estudos da Defesa Fitossanitária dos Produtos Ultramarinos são integradas, de acordo com as matérias professadas, no Centro de Botânica, no Centro de Zoologia, no Centro de Estudos de Ciências e Técnicas do Mar, no Centro de Estudos do Ambiente, no Centro de Investigação das Ferrugens do Cafeeiro e no Centro de Estudos da Defesa Fitossanitária dos Produtos Ultramarinos.
+Art. 120.º As actividades da Missão Botânica de Angola e Moçambique, da Missão de Estudos Agronómicos do Ultramar, da Secção de Botânica do Agrupamento de Estudos Ultramarinos anexo à Faculdade de Ciências da Universidade do Porto, do Agrupamento Científico de Farmacognosia para o Estudo das Plantas Medicinais do Ultramar da Faculdade de Farmácia da Universidade do Porto, do Laboratório de Histologia e Tecnologia de Madeiras, do Agrupamento de Estudos Biológicos da Faculdade de Ciências da Universidade de Coimbra, da Missão de Estudos Zoológicos do Ultramar, do Centro de Biologia Aquática Tropical, do Centro de Bioceanologia e Pescas do Ultramar, da Missão de Estudos Bioceanológicos e de Pescas de Angola, da Missão de Estudos Bioceanológicos e de Pescas de Moçambique e da Brigada de Estudos da Defesa Fitossanitária dos Produtos Ultramarinos são integradas, de acordo com as matérias professadas, no Centro de Botânica, no Centro de Zoologia, no Centro de Estudos de Ciências e Técnicas do Mar, no Centro de Estudos do Ambiente, no Centro de Investigação das Ferrugens do Cafeeiro e no Centro de Estudos da Defesa Fitossanitária dos Produtos Ultramarinos.
 
-###### Art. 121.º As actividades do Agrupamento Científico de Estudos Antropológicos da Faculdade de Ciências da Universidade de Coimbra, do Centro de Estudos de Antropobiologia, do Centro de Estudos de Antropologia Cultural, do Centro de Estudos de Vasco da Gama, do Centro de Estudos Missionários, do Museu de Etnologia do Ultramar e do Agrupamento de Estudos de Cartografia Antiga são integradas, de acordo com as matérias professadas, no Centro de Estudos de Ciências Antropológicas, no Centro de Estudos Históricos Ultramarinos e no Centro de Estudos de Cartografia Antiga.
+Art. 121.º As actividades do Agrupamento Científico de Estudos Antropológicos da Faculdade de Ciências da Universidade de Coimbra, do Centro de Estudos de Antropobiologia, do Centro de Estudos de Antropologia Cultural, do Centro de Estudos de Vasco da Gama, do Centro de Estudos Missionários, do Museu de Etnologia do Ultramar e do Agrupamento de Estudos de Cartografia Antiga são integradas, de acordo com as matérias professadas, no Centro de Estudos de Ciências Antropológicas, no Centro de Estudos Históricos Ultramarinos e no Centro de Estudos de Cartografia Antiga.
 
-###### Art. 122.º São integrados no Departamento de Museologia, Bibliotecas e Arquivos do Instituto de Investigação Científica de Angola o Arquivo Histórico de Angola e o Arquivo Geral de Angola.
+Art. 122.º São integrados no Departamento de Museologia, Bibliotecas e Arquivos do Instituto de Investigação Científica de Angola o Arquivo Histórico de Angola e o Arquivo Geral de Angola.
 
-###### Art. 123.º Nos institutos centrais os centros e o Arquivo Histórico Ultramarino reger-se-ão segundo regulamentos próprios a publicar no prazo de cento e oitenta dias, a contar da data do presente diploma.
+Art. 123.º Nos institutos centrais os centros e o Arquivo Histórico Ultramarino reger-se-ão segundo regulamentos próprios a publicar no prazo de cento e oitenta dias, a contar da data do presente diploma.
 
-###### Art. 124.º Os actuais regulamentos dos institutos provinciais serão revistos no prazo de cento e oitenta dias, a contar da data da entrada em vigor do presente diploma no respectivo Estado, mantendo-se em vigor as disposições do [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, no que respeita aos quadros do pessoal dos institutos provinciais.
+Art. 124.º Os actuais regulamentos dos institutos provinciais serão revistos no prazo de cento e oitenta dias, a contar da data da entrada em vigor do presente diploma no respectivo Estado, mantendo-se em vigor as disposições do [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, no que respeita aos quadros do pessoal dos institutos provinciais.
 
-###### Art. 125.º Os Departamentos de Calculo Científico e Mecanográfico dos Institutos de Investigação Científica de Angola e Moçambique serão objecto de regulamento, no qual se fixarão as condições de funcionamento e os respectivos quadros.
+Art. 125.º Os Departamentos de Calculo Científico e Mecanográfico dos Institutos de Investigação Científica de Angola e Moçambique serão objecto de regulamento, no qual se fixarão as condições de funcionamento e os respectivos quadros.
 
-###### Art. 126.º As Missões Geográficas de Angola, Moçambique e Timor reger-se-ão pelas disposições do [Decreto-Lei n.º 31194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31194-1941-416860), de 27 de Março de 1941, [Portaria n.º 7379](https://diariodarepublica.pt/dr/detalhe/portaria/7379-1932-559254), de 13 de Setembro de 1932, e [Decreto-Lei n.º 28087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28087-1937-433816), de 16 de Outubro de 1937, respectivamente, e demais legislação aplicável, devendo o regulamento do Centro de Geografia do Ultramar ter em conta a presente disposição.
+Art. 126.º As Missões Geográficas de Angola, Moçambique e Timor reger-se-ão pelas disposições do [Decreto-Lei n.º 31194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31194-1941-416860), de 27 de Março de 1941, [Portaria n.º 7379](https://diariodarepublica.pt/dr/detalhe/portaria/7379-1932-559254), de 13 de Setembro de 1932, e [Decreto-Lei n.º 28087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28087-1937-433816), de 16 de Outubro de 1937, respectivamente, e demais legislação aplicável, devendo o regulamento do Centro de Geografia do Ultramar ter em conta a presente disposição.
 
-###### Art. 127.º As actuais Missões de Estudos Bioceanológicos e de Pescas de Angola e de Moçambique continuarão a reger-se pelas disposições aplicáveis das Portarias n.os 21916, de 16 de Março de 1966, e 666/71, de 3 de Dezembro.
+Art. 127.º As actuais Missões de Estudos Bioceanológicos e de Pescas de Angola e de Moçambique continuarão a reger-se pelas disposições aplicáveis das Portarias n.os 21916, de 16 de Março de 1966, e 666/71, de 3 de Dezembro.
 
-###### Art. 128.º - 1. O pessoal de nomeação, o pessoal contratado e o pessoal subsidiado da Junta de Investigações do Ultramar poderá transitar para a Junta de Investigações Científicas do Ultramar na situação de nomeado, a título provisório ou definitivo, conforme tenha menos ou mais de cinco anos de serviço com boas informações.
+Art. 128.º - 1. O pessoal de nomeação, o pessoal contratado e o pessoal subsidiado da Junta de Investigações do Ultramar poderá transitar para a Junta de Investigações Científicas do Ultramar na situação de nomeado, a título provisório ou definitivo, conforme tenha menos ou mais de cinco anos de serviço com boas informações.
 
 2. Ao pessoal a que se refere o número anterior serão atribuídas categorias constantes dos quadros I a VI, tendo-se em conta, tanto quanto possível, a situação que tinha à data da publicação do presente diploma.
 
 3. Este pessoal será colocado por despacho ministerial, de acordo com a proposta do presidente da Junta de Investigações Científicas do Ultramar a publicar no Diário do Governo, sem dependência de outras formalidades que não sejam a anotação no Tribunal de Contas e ainda a posse quanto ao pessoal subsidiado.
 
-###### Art. 129.º Ao pessoal a que se refere o artigo 128.º será contado para todos os efeitos o tempo prestado à Junta de Investigações do Ultramar, a qualquer título.
+Art. 129.º Ao pessoal a que se refere o artigo 128.º será contado para todos os efeitos o tempo prestado à Junta de Investigações do Ultramar, a qualquer título.
 
-###### Art. 130.º A Junta de Investigações Científicas do Ultramar disporá de um período transitório de doze meses para dar execução à nova orgânica aprovada pelo presente diploma, a contar da data da sua entrada em vigor.
+Art. 130.º A Junta de Investigações Científicas do Ultramar disporá de um período transitório de doze meses para dar execução à nova orgânica aprovada pelo presente diploma, a contar da data da sua entrada em vigor.
 
-###### Art. 131.º Depois de feita a colocação do pessoal a que se referem os artigos anteriores, poderá o Ministro do Ultramar, durante o período mencionado no artigo antecedente, nomear, por livre escolha, para os cargos cujo provimento o presidente da Junta julgue necessário para a realização dos objectivos do presente diploma, indivíduos com qualificação bastante para o desempenho das funções a exercer, tendo sempre em atenção as disponibilidades existentes destinadas a pessoal.
+Art. 131.º Depois de feita a colocação do pessoal a que se referem os artigos anteriores, poderá o Ministro do Ultramar, durante o período mencionado no artigo antecedente, nomear, por livre escolha, para os cargos cujo provimento o presidente da Junta julgue necessário para a realização dos objectivos do presente diploma, indivíduos com qualificação bastante para o desempenho das funções a exercer, tendo sempre em atenção as disponibilidades existentes destinadas a pessoal.
 
-###### Art. 132.º O pessoal dos quadros da Junta de Investigações Científicas do Ultramar poderá ser destacado para prestar serviço nos institutos provinciais e nos centros de estudos provinciais, nos termos previstos na lei.
+Art. 132.º O pessoal dos quadros da Junta de Investigações Científicas do Ultramar poderá ser destacado para prestar serviço nos institutos provinciais e nos centros de estudos provinciais, nos termos previstos na lei.
 
-###### Art. 133.º - 1. As propostas de provimento, promoção, renovação ou termo do contrato do pessoal científico e a concessão de subsídios de bolsas para investigação serão submetidas pelos institutos provinciais à Junta.
+Art. 133.º - 1. As propostas de provimento, promoção, renovação ou termo do contrato do pessoal científico e a concessão de subsídios de bolsas para investigação serão submetidas pelos institutos provinciais à Junta.
 
 2. As propostas de nomeação do restante pessoal serão sujeitas a despacho do Governador, dando-se conhecimento à Junta.
 
-###### Art. 134.º O pessoal da Junta de Investigações Científicas do Ultramar e dos organismos dela dependentes beneficia da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), nos termos do disposto no artigo 4.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964.
+Art. 134.º O pessoal da Junta de Investigações Científicas do Ultramar e dos organismos dela dependentes beneficia da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), nos termos do disposto no artigo 4.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964.
 
-###### Art. 135.º As dotações inscritas no Orçamento Geral do Estado e nos orçamentos das províncias ultramarinas para a Junta de Investigações do Ultramar transitam integralmente para a Junta de Investigações Científicas do Ultramar, e terão a aplicação proposta pela Comissão Executiva da Junta e aprovada pelo Ministro do Ultramar, tendo em conta os planos de trabalho e as tarefas aprovadas, devendo promover-se o ajustamento das dotações aos referidos planos e tarefas de acordo com a orgânica e princípios estabelecidos no presente diploma.
+Art. 135.º As dotações inscritas no Orçamento Geral do Estado e nos orçamentos das províncias ultramarinas para a Junta de Investigações do Ultramar transitam integralmente para a Junta de Investigações Científicas do Ultramar, e terão a aplicação proposta pela Comissão Executiva da Junta e aprovada pelo Ministro do Ultramar, tendo em conta os planos de trabalho e as tarefas aprovadas, devendo promover-se o ajustamento das dotações aos referidos planos e tarefas de acordo com a orgânica e princípios estabelecidos no presente diploma.
 
-###### Art. 136.º As dotações que constituem as receitas do Centro de Documentação Técnica, do Centro de Estudos Históricos Ultramarinos, do Arquivo Histórico Ultramarino, do Jardim e Museu Agrícola do Ultramar e da Biblioteca do Ministério do Ultramar transitam para a Junta de Investigações Científicas do Ultramar.
+Art. 136.º As dotações que constituem as receitas do Centro de Documentação Técnica, do Centro de Estudos Históricos Ultramarinos, do Arquivo Histórico Ultramarino, do Jardim e Museu Agrícola do Ultramar e da Biblioteca do Ministério do Ultramar transitam para a Junta de Investigações Científicas do Ultramar.
 
-###### Art. 137.º As dotações que constituem as receitas dos organismos a que se refere o artigo anterior serão aumentadas à contribuição das províncias ultramarinas para a Junta de Investigações Científicas do Ultramar, sem prejuízo da comparticipação que lhe seja atribuída pelo Orçamento Geral do Estado.
+Art. 137.º As dotações que constituem as receitas dos organismos a que se refere o artigo anterior serão aumentadas à contribuição das províncias ultramarinas para a Junta de Investigações Científicas do Ultramar, sem prejuízo da comparticipação que lhe seja atribuída pelo Orçamento Geral do Estado.
 
-###### Art. 138.º A execução de qualquer das disposições do presente diploma fica condicionada à existência de disponibilidades orçamentais nas respectivas rubricas.
+Art. 138.º A execução de qualquer das disposições do presente diploma fica condicionada à existência de disponibilidades orçamentais nas respectivas rubricas.
 
-###### Art. 139.º São isentos de direitos e de outras imposições fiscais e aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, material de acampamento, veículos automóveis e respectivos sobresselentes e acessórios, armas, munições, materiais científicos ou quaisquer outros que a Junta de Investigações Científicas do Ultramar importar e que se destinem a trabalhos a executar nas províncias ultramarinas.
+Art. 139.º São isentos de direitos e de outras imposições fiscais e aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, material de acampamento, veículos automóveis e respectivos sobresselentes e acessórios, armas, munições, materiais científicos ou quaisquer outros que a Junta de Investigações Científicas do Ultramar importar e que se destinem a trabalhos a executar nas províncias ultramarinas.
 
-###### Art. 140.º Enquanto não dispuserem de instalações próprias, os institutos centrais utilizarão as dependências dos actuais organismos da Junta de Investigações Científicas do Ultramar ou outras que lhes sejam atribuídas.
+Art. 140.º Enquanto não dispuserem de instalações próprias, os institutos centrais utilizarão as dependências dos actuais organismos da Junta de Investigações Científicas do Ultramar ou outras que lhes sejam atribuídas.
 
-###### Art. 141.º No conselho administrativo, a que se refere o artigo 57.º do [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, servirá de secretário, sem voto, o chefe da contabilidade.
+Art. 141.º No conselho administrativo, a que se refere o artigo 57.º do [Decreto n.º 463/70](https://diariodarepublica.pt/dr/detalhe/decreto/463-1970-148441), de 8 de Outubro, servirá de secretário, sem voto, o chefe da contabilidade.
 
-###### Art. 142.º É extinta a Comissão de Planeamento da Investigação Científica e Tecnológica, criada pela [Portaria n.º 22733](https://diariodarepublica.pt/dr/detalhe/portaria/22733-1967-311987), de 20 de Junho de 1967, passando as respectivas atribuições a ser da competência da Comissão Executiva da Junta de Investigações Científicas do Ultramar.
+Art. 142.º É extinta a Comissão de Planeamento da Investigação Científica e Tecnológica, criada pela [Portaria n.º 22733](https://diariodarepublica.pt/dr/detalhe/portaria/22733-1967-311987), de 20 de Junho de 1967, passando as respectivas atribuições a ser da competência da Comissão Executiva da Junta de Investigações Científicas do Ultramar.
 
-###### Art. 143.º São extintos o Centro de Estudos Políticos e Sociais, o Centro de Estudos de Serviço Social e Desenvolvimento Comunitário e a Missão de Estudo do Rendimento Nacional do Ultramar, criado pelas Portarias n.os 15737, de 18 de Fevereiro de 1956, 19766, de 18 de Março de 1963, alterada pela [Portaria n.º 20528](https://diariodarepublica.pt/dr/detalhe/portaria/20528-1964-472490), de 22 de Abril de 1964, e 17658, de 2 de Abril de 1960, respectivamente.
+Art. 143.º São extintos o Centro de Estudos Políticos e Sociais, o Centro de Estudos de Serviço Social e Desenvolvimento Comunitário e a Missão de Estudo do Rendimento Nacional do Ultramar, criado pelas Portarias n.os 15737, de 18 de Fevereiro de 1956, 19766, de 18 de Março de 1963, alterada pela [Portaria n.º 20528](https://diariodarepublica.pt/dr/detalhe/portaria/20528-1964-472490), de 22 de Abril de 1964, e 17658, de 2 de Abril de 1960, respectivamente.
 
-###### Art. 144.º O pessoal dos organismos a que se referem os artigos 142.º e 143.º poderá transitar para os quadros anexos ao presente diploma.
+Art. 144.º O pessoal dos organismos a que se referem os artigos 142.º e 143.º poderá transitar para os quadros anexos ao presente diploma.
 
-###### Art. 145.º Passam a constituir património da Junta de Investigações Científicas do Ultramar os bens, de qualquer natureza, pertencentes à Junta de Investigações do Ultramar e aos organismos extintos pelo presente diploma.
+Art. 145.º Passam a constituir património da Junta de Investigações Científicas do Ultramar os bens, de qualquer natureza, pertencentes à Junta de Investigações do Ultramar e aos organismos extintos pelo presente diploma.
 
-###### Art. 146.º A integração das actividades dos organismos referidos nos artigos 119.º, 120.º e 121.º do presente diploma, com sede em instalações dependentes do Ministério da Educação Nacional, processar-se-á segundo normas a fixar entre a Junta de Investigações Científicas do Ultramar e o Instituto de Alta Cultura.
+Art. 146.º A integração das actividades dos organismos referidos nos artigos 119.º, 120.º e 121.º do presente diploma, com sede em instalações dependentes do Ministério da Educação Nacional, processar-se-á segundo normas a fixar entre a Junta de Investigações Científicas do Ultramar e o Instituto de Alta Cultura.
 
-###### Art. 147.º O pessoal da Junta de Investigações Científicas do Ultramar tem direito às mesmas regalias que por lei são concedidas aos restantes funcionários do Ministério do Ultramar.
+Art. 147.º O pessoal da Junta de Investigações Científicas do Ultramar tem direito às mesmas regalias que por lei são concedidas aos restantes funcionários do Ministério do Ultramar.
 
-###### Art. 148.º Em tudo quanto não seja contrariado pelo presente diploma, continuam em vigor as disposições do [Decreto-Lei n.º 35395](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35395-1945-463597), de 26 de Dezembro de 1945, e outras aplicáveis, nomeadamente a Lei Orgânica do Ministério do Ultramar e o Estatuto do Funcionalismo Ultramarino.
+Art. 148.º Em tudo quanto não seja contrariado pelo presente diploma, continuam em vigor as disposições do [Decreto-Lei n.º 35395](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35395-1945-463597), de 26 de Dezembro de 1945, e outras aplicáveis, nomeadamente a Lei Orgânica do Ministério do Ultramar e o Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 149.º O presente diploma entra em vigor em 1 de Janeiro de 1974.
+Art. 149.º O presente diploma entra em vigor em 1 de Janeiro de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 24 de Outubro de 1973.**
+Promulgado em 24 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -960,4 +1053,4 @@ Contínuo de 2.ª classe ... X
 
 Auxiliar dos serviços gerais ... Y
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

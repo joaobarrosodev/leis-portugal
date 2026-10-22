@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13600/08190822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1975-335708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f47b9cb313b3b16be17fe6614fe099a792d58a757fd135c5cf855afc1d89670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61f0931b9c830388a3714e7f77d3934c1501fd9b58326f0260d5aa66cb68cfa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação Colectiva
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ARTIGO 19, PELO DECRETO LEI 713-A/75, DE 19 DE DEZEMBRO, PUBLICADO NO DR.IS, 292, 2SUPL.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1975-12-19'
+- type: repealed_by
+  target: pt:dre:301626:por
+  label: Revogado o art. 19.º pelo(a) Decreto-Lei n.º 713-A/75 - Diário do Governo n.º 292/1975, 2º Suplemento, Série I de
+    1975-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/713-a-1975-301626
+  date: '1975-12-19'
+- type: repealed_by
+  target: pt:dre:356557:por
+  label: "Revogado, a partir de 19.03.1976, o Cap. II do presente diploma, pelo DEC LEI.164-A/76.28.02.1976.MT, DG.IS [50-Supl]\
+    \ de 28.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-a-1976-356557
+  date: '1976-02-28'
+- type: repealed_by
+  target: pt:dre:416438:por
+  label: "Revogado o Cap. III, pelo DEC LEI.874/76.1976.12.28.MT, DR.IS [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/874-1976-416438
+  date: '1976-12-28'
+- type: repealed_by
+  target: pt:dre:204400:por
+  label: "Revogados os art. 1º, os nºs 1 e 2 do art. 2º, os arts. 3º a 8º, 25º e 26º pelo DEC LEI.49-B/77.12.02.1977.MT, DR.IS\
+    \ [36-2ºSupl] de 12.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-b-1977-204400
+  date: '1977-02-12'
+- type: repealed_by
+  target: pt:dre:277174:por
+  label: "Revogado o artigo 9.º pelo DEC LEI.439/77.25.10.1977.MPCE, DR.IS [247] de 25.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/439-1977-277174
+  date: '1977-10-25'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:26Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +153,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ### CAPÍTULO I — Salários
 
-###### Artigo 1.º - 1. A todos os trabalhadores por conta de outrem é garantida uma remuneração de montante mensal não inferior a 4000$00, com efeitos a partir de 1 de Junho de 1975, ressalvadas as situações previstas no artigo 2.º
+Artigo 1.º - 1. A todos os trabalhadores por conta de outrem é garantida uma remuneração de montante mensal não inferior a 4000$00, com efeitos a partir de 1 de Junho de 1975, ressalvadas as situações previstas no artigo 2.º
 
 2. A remuneração indicada no número anterior não abrange quaisquer subsídios, gratificações ou prémios, e entende-se como referente a trabalho em tempo completo.
 
@@ -117,7 +161,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. O valor da remuneração horária garantida calcula-se pela fórmula (4000$00 x 12)/(52 x n), sendo n o número de horas correspondente ao período normal de trabalho semanal.
 
-###### Art. 2.º - 1. Não se aplica o disposto no artigo anterior:
+Art. 2.º - 1. Não se aplica o disposto no artigo anterior:
 
 a) Aos funcionários públicos e administrativos, cuja situação será contemplada em diploma próprio;
 
@@ -135,7 +179,7 @@ d) Às empresas com dez ou menos trabalhadores, quando se verifique a inviabilid
 
 5. Nas situações a que se refere o número anterior, o Ministro do Trabalho e o Ministro responsável pelo sector económico ou pela área de actividade em causa definirão, por portaria conjunta, as regras a observar no tocante à determinação dos salários e outras condições de trabalho.
 
-###### Art. 3.º - 1. Todas as remunerações iguais ou superiores a 12000$00 mensais não poderão ser alteradas antes de 31 de Dezembro de 1975.
+Art. 3.º - 1. Todas as remunerações iguais ou superiores a 12000$00 mensais não poderão ser alteradas antes de 31 de Dezembro de 1975.
 
 2. Considera-se violação ao congelamento estabelecido no número anterior a atribuição de eficácia retroactiva às cláusulas salariais negociadas ou publicadas após a data ali mencionada.
 
@@ -145,41 +189,41 @@ d) Às empresas com dez ou menos trabalhadores, quando se verifique a inviabilid
 
 5. Com ressalva do disposto nos números anteriores, o âmbito de aplicação da regra de congelamento estabelecida neste artigo corresponde ao da remuneração mínima garantida pelo artigo 1.º
 
-###### Art. 4.º É fixado em 48900$00 por mês o salário máximo nacional de quaisquer trabalhadores ao serviço de empresas públicas ou privadas e das nacionalizadas, para vigorar nos termos e com as excepções que vierem a ser regulamentados dentro de prazo não superior a trinta dias e a partir da data da entrada em vigor do diploma regulamentar.
+Art. 4.º É fixado em 48900$00 por mês o salário máximo nacional de quaisquer trabalhadores ao serviço de empresas públicas ou privadas e das nacionalizadas, para vigorar nos termos e com as excepções que vierem a ser regulamentados dentro de prazo não superior a trinta dias e a partir da data da entrada em vigor do diploma regulamentar.
 
-###### Art. 5.º - 1. Os instrumentos de regulamentação colectiva, em qualquer modalidade, e os contratos individuais de trabalho só poderão estabelecer, como contrapartida do trabalho prestado, a retribuição a pagar regularmente em cada mês, quinzena, semana ou dia de serviço efectivo.
+Art. 5.º - 1. Os instrumentos de regulamentação colectiva, em qualquer modalidade, e os contratos individuais de trabalho só poderão estabelecer, como contrapartida do trabalho prestado, a retribuição a pagar regularmente em cada mês, quinzena, semana ou dia de serviço efectivo.
 
 2. Exceptuam-se ao disposto no número anterior, exclusivamente, o subsídio de férias e o subsídio de Natal, desde que não exceda, qualquer deles, a importância correspondente, nos termos daquele preceito, a um mês de retribuição.
 
-###### Art. 6.º Serão nulas, na parte correspondente, as cláusulas que infrinjam o disposto no artigo anterior.
+Art. 6.º Serão nulas, na parte correspondente, as cláusulas que infrinjam o disposto no artigo anterior.
 
-###### Art. 7.º As regras constantes dos artigos anteriores não prejudicam a validade dos contratos em vigor, mas as importâncias nestes fixadas, que excedam os limites estabelecidos pelo artigo 5.º, serão integradas, por fracções iguais, nas prestações previstas no mesmo artigo.
+Art. 7.º As regras constantes dos artigos anteriores não prejudicam a validade dos contratos em vigor, mas as importâncias nestes fixadas, que excedam os limites estabelecidos pelo artigo 5.º, serão integradas, por fracções iguais, nas prestações previstas no mesmo artigo.
 
-###### Art. 8.º - 1. As entidades patronais que violarem o estabelecido no artigo anterior incorrem na aplicação de multas de montante equivalente ao dobro da prestação irregularmente paga.
+Art. 8.º - 1. As entidades patronais que violarem o estabelecido no artigo anterior incorrem na aplicação de multas de montante equivalente ao dobro da prestação irregularmente paga.
 
 2. O produto das multas reverterá para o Fundo de Desemprego.
 
-###### Art. 9.º É obrigatória, em todas as empresas com trabalhadores ao seu serviço, a afixação do quadro de pessoal, com as correspondentes remunerações, em local bem visível das instalações ou estabelecimento em que se exerça a sua actividade.
+Art. 9.º É obrigatória, em todas as empresas com trabalhadores ao seu serviço, a afixação do quadro de pessoal, com as correspondentes remunerações, em local bem visível das instalações ou estabelecimento em que se exerça a sua actividade.
 
 ### CAPÍTULO II — Contratação colectiva
 
-###### Art. 10.º - 1. Até 31 de Dezembro de 1975, será publicado um diploma regulador das relações colectivas de trabalho.
+Art. 10.º - 1. Até 31 de Dezembro de 1975, será publicado um diploma regulador das relações colectivas de trabalho.
 
 2. Enquanto não for publicado o diploma referido no número anterior, a contratação colectiva obedecerá às disposições constantes dos artigos seguintes.
 
-###### Art. 11.º - 1. Deverá ser remetida ao Ministério do Trabalho cópia de qualquer proposta de convenção colectiva de trabalho em curso ou que seja apresentada à entidade destinatária após a entrada em vigor deste diploma.
+Art. 11.º - 1. Deverá ser remetida ao Ministério do Trabalho cópia de qualquer proposta de convenção colectiva de trabalho em curso ou que seja apresentada à entidade destinatária após a entrada em vigor deste diploma.
 
 2. Deverá ser igualmente dado conhecimento ao Ministério do Trabalho do teor das contrapropostas que a entidade destinatária formule.
 
-###### Art. 12.º O Ministério do Trabalho poderá fornecer às partes um ou mais projectos de solução do conflito, nomeadamente no respeitante a retribuições e categorias profissionais, e promover outras diligências adequadas à resolução do diferendo.
+Art. 12.º O Ministério do Trabalho poderá fornecer às partes um ou mais projectos de solução do conflito, nomeadamente no respeitante a retribuições e categorias profissionais, e promover outras diligências adequadas à resolução do diferendo.
 
-###### Art. 13.º - 1. Por acordo das partes, poderá ser constituída uma comissão arbitral para solucionar o conflito.
+Art. 13.º - 1. Por acordo das partes, poderá ser constituída uma comissão arbitral para solucionar o conflito.
 
 2. A comissão será sempre presidida por um delegado do Governo e deverá deliberar no prazo máximo de vinte dias.
 
 3. O recurso à arbitragem implica o compromisso de aceitação da decisão arbitral como solução definitiva do conflito.
 
-###### Art. 14.º - 1. Quer as propostas e contrapropostas, quer os projectos de solução apresentados pelo Ministério do Trabalho, quer as negociações entre as partes, quer as decisões arbitrais, deverão, em qualquer caso, dar a primazia à determinação do montante global a afectar ao acréscimo de retribuições, em função da capacidade económica das empresas ou sectores de actividade e do aumento do custo de vida.
+Art. 14.º - 1. Quer as propostas e contrapropostas, quer os projectos de solução apresentados pelo Ministério do Trabalho, quer as negociações entre as partes, quer as decisões arbitrais, deverão, em qualquer caso, dar a primazia à determinação do montante global a afectar ao acréscimo de retribuições, em função da capacidade económica das empresas ou sectores de actividade e do aumento do custo de vida.
 
 2. O montante global destinado à actualização de retribuições constará obrigatoriamente de cláusula própria de cada instrumento de regulamentação colectiva, sem o que será denegada a sua publicação, nos termos do artigo 16.º
 
@@ -195,13 +239,13 @@ d) Às empresas com dez ou menos trabalhadores, quando se verifique a inviabilid
 
 8. Determinado o montante global referido no n.º 1, os critérios da sua distribuição pelos trabalhadores só serão objecto de mediação ou arbitragem se os interessados se não puserem de acordo, dentro de prazo previamente acordado, ou fixado, se for caso disso, pelo Ministério do Trabalho, acerca da forma como essa distribuição deva ser feita.
 
-###### Art. 15.º - 1. É vedada a atribuição de eficácia retroactiva, para data anterior à da apresentação da proposta de convenção, a qualquer das suas cláusulas.
+Art. 15.º - 1. É vedada a atribuição de eficácia retroactiva, para data anterior à da apresentação da proposta de convenção, a qualquer das suas cláusulas.
 
 2. É igualmente proibida a fixação de acréscimos salariais diferidos para data posterior a 31 de Dezembro de 1975.
 
 3. O prazo mínimo de vigência das convenções colectivas é fixado em um ano.
 
-###### Art. 16.º - 1. As cláusulas das convenções colectivas de trabalho na parte em que violem o disposto neste diploma são nulas e de nenhum efeito, podendo ser denegada, com esse fundamento, a sua publicação no Boletim do Ministério do Trabalho.
+Art. 16.º - 1. As cláusulas das convenções colectivas de trabalho na parte em que violem o disposto neste diploma são nulas e de nenhum efeito, podendo ser denegada, com esse fundamento, a sua publicação no Boletim do Ministério do Trabalho.
 
 2. A publicação de cláusulas nulas não implica que a sua ilegalidade fique sanada, permanecendo assim a improcedência de quaisquer pretensões individuais que nelas se fundamentem.
 
@@ -209,31 +253,31 @@ d) Às empresas com dez ou menos trabalhadores, quando se verifique a inviabilid
 
 4. As normas do presente capítulo aplicam-se a todos os processos de contratação colectiva a nível de empresa, dependendo a eficácia e validade dos acordos a esse nível celebrados de prévia publicação no Boletim do Ministério do Trabalho.
 
-###### Art. 17.º - 1. O disposto neste capítulo aplica-se igualmente aos processos de contratação colectiva pendentes.
+Art. 17.º - 1. O disposto neste capítulo aplica-se igualmente aos processos de contratação colectiva pendentes.
 
 2. Porém, nos processos de contratação em que já tenha havido ou esteja em curso a mediação do Ministério do Trabalho, o Governo poderá autorizar a não aplicação de todas ou algumas das normas deste capítulo que estabelecem limites ao objecto da contratação.
 
 ### CAPÍTULO III — Férias e feriados
 
-###### Art. 18.º - 1. É assegurado aos trabalhadores por conta de outrem o mínimo de quinze dias consecutivos de férias remuneradas.
+Art. 18.º - 1. É assegurado aos trabalhadores por conta de outrem o mínimo de quinze dias consecutivos de férias remuneradas.
 
 2. Em caso algum poderão ser atribuídas a qualquer trabalhador férias de duração superior a trinta dias, incluindo domingos e feriados iniciais, intermédios ou finais, mesmo se gozadas interpoladamente.
 
 3. Os trabalhadores abrangidos por este artigo têm direito a um subsídio de férias equivalente ao da remuneração do respectivo período de férias.
 
-###### Art. 19.º Nas empresas públicas e nacionalizadas, bem como nas empresas privadas, apenas poderão ser observados, a título de feriados, além do feriado municipal da localidade, os legalmente obrigatórios, a Sexta-Feira Santa ou a segunda-feira posterior ao domingo de Páscoa e o dia 24 de Dezembro.
+Art. 19.º Nas empresas públicas e nacionalizadas, bem como nas empresas privadas, apenas poderão ser observados, a título de feriados, além do feriado municipal da localidade, os legalmente obrigatórios, a Sexta-Feira Santa ou a segunda-feira posterior ao domingo de Páscoa e o dia 24 de Dezembro.
 
-###### Art. 20.º - 1. O disposto no artigo 18.º não se aplica ao trabalho rural, ao serviço doméstico, ao trabalho portuário e ao trabalho de bordo, que serão regidos por legislação especial.
+Art. 20.º - 1. O disposto no artigo 18.º não se aplica ao trabalho rural, ao serviço doméstico, ao trabalho portuário e ao trabalho de bordo, que serão regidos por legislação especial.
 
 2. Os trabalhadores eventuais e sazonais têm direito a um dia de férias remuneradas por cada mês completo de serviço.
 
 ### CAPÍTULO IV — Despedimentos
 
-###### Art. 21.º Fica suspensa, pelo prazo de trinta dias, a faculdade de fazer cessar o contrato individual de trabalho, por decisão unilateral, que o regime jurídico desse contrato reconhece às entidades patronais.
+Art. 21.º Fica suspensa, pelo prazo de trinta dias, a faculdade de fazer cessar o contrato individual de trabalho, por decisão unilateral, que o regime jurídico desse contrato reconhece às entidades patronais.
 
-###### Art. 22.º No prazo referido no artigo anterior será publicada nova legislação sobre a cessação do contrato de trabalho e sobre os despedimentos colectivos.
+Art. 22.º No prazo referido no artigo anterior será publicada nova legislação sobre a cessação do contrato de trabalho e sobre os despedimentos colectivos.
 
-###### Art. 23.º - 1. O disposto no artigo 21.º não se aplica à rescisão por justa causa, desde que nela concorram as seguintes condições:
+Art. 23.º - 1. O disposto no artigo 21.º não se aplica à rescisão por justa causa, desde que nela concorram as seguintes condições:
 
 a) Ser a causa alegada uma infracção disciplinar grave;
 
@@ -243,22 +287,22 @@ b) Ter sido verificada a infracção através de procedimento disciplinar reduzi
 
 3. São igualmente exceptuados do âmbito de aplicação deste diploma os trabalhadores eventuais e sazonais, desde que esta qualidade corresponda à natureza do seu trabalho.
 
-###### Artigo 24.º Os actos extintivos promovidos pela entidade patronal contra o disposto neste decreto-lei são nulos e de nenhum efeito.
+Artigo 24.º Os actos extintivos promovidos pela entidade patronal contra o disposto neste decreto-lei são nulos e de nenhum efeito.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 25.º - 1. Os administradores, gerentes ou directores das empresas que autorizem ou promovam acréscimos salariais com inobservância do limite fixado no n.º 1 do artigo 3.º incorrem na pena prevista para o crime de desobediência.
+Art. 25.º - 1. Os administradores, gerentes ou directores das empresas que autorizem ou promovam acréscimos salariais com inobservância do limite fixado no n.º 1 do artigo 3.º incorrem na pena prevista para o crime de desobediência.
 
 2. A sanção indicada no número anterior não prejudica a obrigação de reposição das quantias indevidamente pagas.
 
-###### Art. 26.º Lei especial a publicar no prazo máximo de trinta dias adaptará, nos termos previstos no n.º 4 do artigo 2.º, as normas referentes ao salário mínimo à situação económica e social da Madeira e dos Açores, áreas geográficas cuja crise é já evidente.
+Art. 26.º Lei especial a publicar no prazo máximo de trinta dias adaptará, nos termos previstos no n.º 4 do artigo 2.º, as normas referentes ao salário mínimo à situação económica e social da Madeira e dos Açores, áreas geográficas cuja crise é já evidente.
 
-###### Art. 27.º Este decreto-lei entra imediatamente em vigor.
+Art. 27.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Inácio da Costa Martins.
 
-**Promulgado em 4 de Junho de 1975.**
+Promulgado em 4 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

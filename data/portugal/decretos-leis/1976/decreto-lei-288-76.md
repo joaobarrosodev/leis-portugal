@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09500/08530860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1976-502204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af0ea8f760255cfc92831d639d8698a50a3578f9ad5464100e36760cccadbe5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c8ecc2e93269966a09fbd8aea7be82acb517a63c87fede10b9428857615d466
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio à Exportação
+- Benefícios Fiscais
+- Contrato de Desenvolvimento
+- Contribuição Industrial
+- Cosec
+- Crédito à Exportação
+- Direcção Geral das Contribuições e Impostos
+- Direitos Aduaneiros
+- Diversificação das Exportações
+- Empresa
+- Exportação
+- Financiamento
+- Fiscalização
+- Fundo de Fomento de Exportação
+- Garantia
+- Incentivos à Exportação
+- Ministro do Comércio Externo
+- Programa de Investimento
+- Projeto de Investimento
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:374274:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685005:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:427994:por
+  label: Rectificado pela DECL.DD8850.17.05.1976.PCM, DR.IS [115] de 17.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-427994
+  date: '1976-05-17'
+- type: repealed_by
+  target: pt:dre:579173:por
+  label: "Revogados os nºs 1, 2, 3, 5 e 6 do art. 10º e o nº 2 do art. 23º pelo DEC LEI.169/81.20.06.1981.MFP, DR.IS [139]\
+    \ de 20.06.1981, sem prejuízo do disposto no nº 2 do art. 28º daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1981-579173
+  date: '1981-06-20'
+- type: repealed_by
+  target: pt:dre:374274:por
+  label: Revogado pelo DEC LEI.195/88.30.05.1988.MCT, DR.IS [125] de 30.05.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1988-374274
+  date: '1988-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:52:05Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +162,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da [Lei n.º 6/75](https://diariodarepublica.pt/dr/detalhe/lei/6-1975-366841), de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objecto dos contratos de desenvolvimento para a exportação)
 
 O Estado, através do Fundo de Fomento de Exportação, poderá celebrar contratos que tenham por finalidade essencial o crescimento ou a valorização das exportações nacionais, bem como a sua diversificação por novos mercados. Estes contratos serão designados por contratos de desenvolvimento para a exportação e nas restantes disposições do presente decreto-lei apenas por contratos de desenvolvimento.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Número de contratos de desenvolvimento por sector e preferências a conceder)
 
@@ -122,7 +182,7 @@ O Estado, através do Fundo de Fomento de Exportação, poderá celebrar contrat
 
 5. Poderá igualmente ser concedida preferência às empresas que tenham ou se comprometam a montar redes comerciais no estrangeiro para escoamento da maior parte da sua produção destinada aos mercados externos, assim como àquelas que utilizem em escala apreciável os serviços das empresas públicas de exportação, se existirem para o sector ou sectores de actividade das empresas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Requisitos das empresas contratantes)
 
@@ -144,7 +204,7 @@ f) Possuir a dimensão adequada à estratégia de desenvolvimento do sector em q
 
 3. Sempre que os interesses da economia nacional o aconselhem poderá temporariamente deixar de ser exigido o preenchimento integral de tais requisitos para empresas componentes dos grupos referidos no número precedente.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Intervenientes nos contratos de desenvolvimento)
 
@@ -152,7 +212,7 @@ f) Possuir a dimensão adequada à estratégia de desenvolvimento do sector em q
 
 2. Os contratos de desenvolvimento estabelecerão, com rigor, os termos e as condições em que se processará a intervenção dessas entidades na sua execução.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Sectores que devem beneficiar dos contratos de desenvolvimento)
 
@@ -172,7 +232,7 @@ f) Terem efeito dinamizador importante sobre outras actividades económicas.
 
 2. O Fundo de Fomento de Exportação, tendo sempre em atenção as sugestões que, para o efeito, lhe sejam apresentadas pelas associações de classe representativas das actividades económicas a nível nacional, proporá, até ao dia 15 de Dezembro de cada ano, a lista dos sectores em que julgue conveniente a celebração de contratos de desenvolvimento, a qual será fixada por despacho do Ministro do Comércio Externo, que a poderá rever e modificar sempre que o entenda necessário.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Características dos programas, projectos e medidas que podem ser objecto de contratos)
 
@@ -208,7 +268,7 @@ d) Conduzir ao ajustamento da gama e das características dos bens e serviços �
 
 4. Os projectos, programas e medidas que as empresas se obrigam a executar, habilitando-se aos benefícios estipulados no contrato, deverão encontrar-se perfeitamente definidos e justificados técnica, económica e financeiramente, com demonstração inequívoca da sua rentabilidade e da efectiva existência, ou garantia de oportuna obtenção dos capitais próprios necessários.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Benefícios a conceder através dos contratos)
 
@@ -230,7 +290,7 @@ e) Benefícios fiscais, traduzidos pela possibilidade de isenção ou redução 
 
 4. Para orientação das outras entidades do sector público que comparticipam no apoio às empresas signatárias de contratos de desenvolvimento, será anualmente organizado pelo Fundo um plano de intervenções, que, depois de submetido a visto dos Ministros das Finanças e do Comércio Externo, será enviado às mesmas entidades.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Assistência técnica)
 
@@ -238,7 +298,7 @@ e) Benefícios fiscais, traduzidos pela possibilidade de isenção ou redução 
 
 2. Nos contratos de desenvolvimento deverão estabelecer-se, com rigor, as obrigações de cada uma das partes intervenientes nos diversos domínios de assistência técnica que especialmente lhes competirem.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Financiamento)
 
@@ -256,7 +316,7 @@ e) A Companhia de Seguro de Créditos garantirá, nos termos da alínea c) do n.
 
 2. As empresas contratantes receberão anualmente, ou no termo dos períodos referidos no n.º 3 do artigo 18.º, da instituição de crédito, ao longo do período convencionado para os obter, as importâncias correspondentes ao benefícios de juro previstos na alínea d) do número anterior, enquanto se verificar o cumprimento dos objectivos e metas fixados.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Garantia da Companhia de Seguro de Créditos)
 
@@ -272,7 +332,7 @@ e) A Companhia de Seguro de Créditos garantirá, nos termos da alínea c) do n.
 
 6. Ao penhor constituído como contragarantia das que a Companhia de Seguro de Créditos seja chamada a prestar, por força do presente diploma, será aplicável o regime instituído pelo [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Comparticipação em encargos)
 
@@ -308,7 +368,7 @@ c) Os termos em que a realização das despesas e os actos a que as mesmas respe
 
 d) As demais condições de que entenda dever fazer depender a atribuição das comparticipações admitidas.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Benefícios fiscais: contribuição industrial, imposto de comércio e indústria e adicionais)
 
@@ -320,7 +380,7 @@ a) Sendo contribuintes do grupo A da contribuição industrial, cumprir o determ
 
 b) Sendo contribuintes do grupo B da contribuição industrial, indicar na declaração modelo n.º 3 o prazo de vigência do contrato e o montante total das suas vendas e exportações abrangidas pelo mesmo contrato e juntar os elementos comprovativos de realização daqueles exportações nos termos previstos no dito contrato.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Benefícios fiscais: deduções à matéria colectável da contribuição industrial)
 
@@ -330,7 +390,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 3. Para o efeito de beneficiarem da dedução prevista no n.º 1 as empresas contratantes provarão, perante o Fundo de Fomento de Exportação, o cumprimento do programa de investimentos no tocante aos bens antes mencionados, o qual certificará o facto em documento que deve ser junto à declaração modelos n.os 2 ou 3, a apresentar para efeitos da contribuição industrial.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Benefícios fiscais: tratamento das despesas com formação de pessoal e prospecção de mercados)
 
@@ -338,7 +398,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 2. Para poderem beneficiar do disposto no número anterior, as empresas contratantes demonstrarão, perante o Fundo de Fomento de Exportação, o cumprimento dos planos antes referidos, o qual certificará o facto em documento que deve ser junto à declaração modelos n.os 2 ou 3, a apresentar para efeitos de contribuição industrial.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Benefícios fiscais: reintegrações e amortizações)
 
@@ -350,7 +410,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 4. As empresas contratantes perderão o direito à aceleração de reintegrações e amortizações quando deixem de cumprir com os objectivos e metas fixados no contrato e relativamente aos períodos em que incorram nessa falta.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Benefícios fiscais: mais-valias)
 
@@ -358,7 +418,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 2. Quando este benefício tenha sido estipulado no contrato de desenvolvimento, o Fundo de Fomento de Exportação certificará, para os devidos efeitos fiscais, que as empresas contratantes se encontram nas condições de dele beneficiarem.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Benefícios fiscais: direitos aduaneiros)
 
@@ -368,7 +428,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 3. O Fundo de Fomento de Exportação certificará, para efeitos fiscais, os factos, referidos nos números anteriores, que decorram dos contratos de desenvolvimento celebrados.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Contrapartidas a realizar pelas empresas contratantes)
 
@@ -386,7 +446,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 7. Considerar-se-á sempre que há falta de cumprimento, com os efeitos indicados no artigo 23.º, quando o volume de vendas ao exterior atingido pelas empresas contratantes resultar da cessão de posições exportadoras de outras empresas não autorizada previamente pelo Fundo de Fomento de Exportação, ou de qualquer acto doloso ou ilegal por elas praticado.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Caducidade dos benefícios fiscais)
 
@@ -396,7 +456,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 3. Não sendo o pagamento referido no n.º 1 efectuado até ao fim do prazo estabelecido, será o respectivo título debitado ao tesoureiro para cobrança, com juros de mora, nos sessenta dias seguintes, findos os quais haverá lugar a procedimento executivo.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Comprovação e fiscalização da consecução dos objectivos e metas)
 
@@ -406,7 +466,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 3. Exceptua-se da intervenção prevista no número anterior o acompanhamento atinente aos levantamentos por conta dos financiamentos concedidos, que caberá à instituição de crédito que os tenha outorgado.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Prazo do contrato de desenvolvimento)
 
@@ -414,7 +474,7 @@ b) Sendo contribuintes do grupo B da contribuição industrial, indicar na decla
 
 2. O prazo fixado nos termos do número anterior poderá, contudo, mediante despacho do Ministro do Comércio Externo, ser prorrogado pelo tempo indispensável para se atingirem os objectivos e metas referidos, quando a sua falta de cumprimento não for imputável às empresas contratantes ou os interesses da economia nacional o aconselharem.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Contratos com grupos de empresas)
 
@@ -426,7 +486,7 @@ a) Rescindir igualmente o contrato se, em seu juízo, o objecto e as finalidades
 
 b) Manter em vigor o contrato, com as alterações e os ajustamentos que considere adequados.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Rescisão dos contratos)
 
@@ -434,7 +494,7 @@ b) Manter em vigor o contrato, com as alterações e os ajustamentos que conside
 
 2. À rescisão dos contratos de desenvolvimento é aplicável o regime estabelecido nos n.os 2 a 4 do artigo 8.º do diploma legal referido no número anterior, com o aditamento de que no caso previsto naquele n.º 4 subsistirá a garantia da Companhia de Seguro de Créditos a favor da instituição de crédito, salvo se esta concordar na sua substituição por outras garantias a prestar pelas empresas contratantes.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Processo para outorga dos contratos)
 
@@ -464,8 +524,8 @@ b) Manter em vigor o contrato, com as alterações e os ajustamentos que conside
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 9 de Abril de 1976.**
+Promulgado em 9 de Abril de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

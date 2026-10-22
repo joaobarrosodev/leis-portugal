@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/04/09100/05930597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/177-1973-673824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c31572ffc8be5b1d34eae5dcad4ef7606bdd5708c7333c32959aea4cd54f4d2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97ce6d9023afc330e39e017b6fda3319ca31e539c01ee75dbb85024f86b1ce8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação Nacional
+- OBRA Social
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:487696:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:487696:por
+  label: "Revogado pelo DEC LEI.82/91.1991.02.19.ME, DR.IS-A [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1991-487696
+  date: '1991-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:58Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +124,11 @@ Regulamento da Obra Social do Ministério da Educação Nacional
 
 ### CAPÍTULO I — Denominação e fins
 
-###### Artigo 1.º A Obra Social do Ministério da Educação Nacional, criada pelo [Decreto-Lei n.º 376/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1972-691986), de 4 de Outubro, constitui uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira, dependente do Ministério da Educação Nacional.
+Artigo 1.º A Obra Social do Ministério da Educação Nacional, criada pelo [Decreto-Lei n.º 376/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1972-691986), de 4 de Outubro, constitui uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira, dependente do Ministério da Educação Nacional.
 
-###### Art. 2.º A Obra Social tem por objectivo desenvolver os laços de solidariedade entre os servidores do Ministério da Educação Nacional, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
+Art. 2.º A Obra Social tem por objectivo desenvolver os laços de solidariedade entre os servidores do Ministério da Educação Nacional, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
 
-###### Art. 3.º - 1. Na acção a desenvolver, a Obra Social prosseguirá, fundamentalmente, as seguintes modalidades:
+Art. 3.º - 1. Na acção a desenvolver, a Obra Social prosseguirá, fundamentalmente, as seguintes modalidades:
 
 a) Assistência materno-infantil, pré-escolar e escolar, nomeadamente através da criação de infantários e jardins de infância e da concessão de subsídios e bolsas de estudo para os filhos dos beneficiários;
 
@@ -136,25 +160,25 @@ l) Concessão de subsídios por nascimento, aleitação, casamento e morte.
 
 5. A concessão de regalias pela Obra Social poderá ficar dependente do rendimento do agregado familiar ou do facto de os interessados já serem abrangidos por qualquer outro sistema de benefícios.
 
-###### Art. 4.º As modalidades de assistência materno-infantil, médico-cirúrgica, medicamentosa e de enfermagem serão exercidas, sempre que possível, através dos estabelecimentos oficiais e em regime de complementaridade com a Assistência na Doença aos Servidores Civis do Estado.
+Art. 4.º As modalidades de assistência materno-infantil, médico-cirúrgica, medicamentosa e de enfermagem serão exercidas, sempre que possível, através dos estabelecimentos oficiais e em regime de complementaridade com a Assistência na Doença aos Servidores Civis do Estado.
 
-###### Art. 5.º - 1. Através de acordos entre a Obra Social e a Caixa de Previdência do Ministério da Educação Nacional, poderá esta ficar encarregada de satisfazer quaisquer das atribuições consideradas no n.º 1.º do artigo 3.º
+Art. 5.º - 1. Através de acordos entre a Obra Social e a Caixa de Previdência do Ministério da Educação Nacional, poderá esta ficar encarregada de satisfazer quaisquer das atribuições consideradas no n.º 1.º do artigo 3.º
 
 2. Os acordos referidos no número anterior serão homologados pelo Ministro da Educação Nacional.
 
-###### Art. 6.º Para a melhor prossecução dos seus objectivos, a Obra Social deverá colaborar com outras instituições similares, oficiais ou particulares, que se proponham realizações de interesse comum, bem como estabelecer acordos ou contratos com outras entidades, designadamente cooperativas, estabelecimentos comerciais ou industriais.
+Art. 6.º Para a melhor prossecução dos seus objectivos, a Obra Social deverá colaborar com outras instituições similares, oficiais ou particulares, que se proponham realizações de interesse comum, bem como estabelecer acordos ou contratos com outras entidades, designadamente cooperativas, estabelecimentos comerciais ou industriais.
 
-###### Art. 7.º - 1. A Obra Social, para execução dos seus objectivos e para assegurar a concessão e fruição de benefícios ao maior número de funcionários, poderá constituir secções regionais, nomeadamente junto das circunscrições escolares ou ainda em localidades onde a concentração de beneficiários o justifique, nas condições que vierem a ser estabelecidas por despacho ministerial.
+Art. 7.º - 1. A Obra Social, para execução dos seus objectivos e para assegurar a concessão e fruição de benefícios ao maior número de funcionários, poderá constituir secções regionais, nomeadamente junto das circunscrições escolares ou ainda em localidades onde a concentração de beneficiários o justifique, nas condições que vierem a ser estabelecidas por despacho ministerial.
 
 2. A criação dos núcleos ou secções referidas no número anterior dependerá de despacho do Ministro da Educação Nacional.
 
-###### Art. 8.º Para cada uma das modalidades a prosseguir será elaborado um regulamento, aprovado pelo Ministro, e no qual serão definidas as condições para a concessão dos benefícios.
+Art. 8.º Para cada uma das modalidades a prosseguir será elaborado um regulamento, aprovado pelo Ministro, e no qual serão definidas as condições para a concessão dos benefícios.
 
 ### CAPÍTULO II — Dos beneficiários
 
 #### SECÇÃO I — Das condições de admissão
 
-###### Art. 9.º - 1. Podem ser beneficiários da Obra Social:
+Art. 9.º - 1. Podem ser beneficiários da Obra Social:
 
 a) Os funcionários e servidores do Ministério e dos organismos e serviços dele dependentes que exerçam funções de carácter permanente, seja qual for a forma de provimento;
 
@@ -174,7 +198,7 @@ e) Os funcionários da 10.ª Repartição da Direcção-Geral da Contabilidade P
 
 5. A aposentação do beneficiário extingue a obrigação do pagamento de quotas, mantendo, todavia, o direito aos benefícios da Obra Social.
 
-###### Art. 10.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação do funcionário, serviço a que pertence, categoria e composição do agregado familiar.
+Art. 10.º - 1. A inscrição dos beneficiários far-se-á mediante o preenchimento de uma proposta, da qual constem os elementos de identificação do funcionário, serviço a que pertence, categoria e composição do agregado familiar.
 
 2. As propostas serão autenticadas pelo chefe de serviço respectivo e acompanhadas dos elementos de comprovação que se tornem necessários.
 
@@ -184,13 +208,13 @@ e) Os funcionários da 10.ª Repartição da Direcção-Geral da Contabilidade P
 
 #### SECÇÃO II — Dos direitos e deveres
 
-###### Art. 11.º São direitos dos beneficiários:
+Art. 11.º São direitos dos beneficiários:
 
 a) Fruir das regalias que lhes sejam concedidas pela Obra Social, nos termos regulamentares;
 
 b) Formular, por escrito, à direcção, as sugestões ou reparos que julguem convenientes para melhorar o funcionamento dos serviços.
 
-###### Art. 12.º São deveres dos beneficiários:
+Art. 12.º São deveres dos beneficiários:
 
 a) Pagar pontualmente as quotizações estabelecidas nos termos do presente diploma;
 
@@ -204,7 +228,7 @@ e) Comunicar, imediatamente, por escrito, à Obra Social, qualquer modificação
 
 #### SECÇÃO III — Das quotizações
 
-###### Art. 13.º - 1. Os beneficiários contribuirão para os encargos da Obra Social com quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, calculadas da seguinte forma:
+Art. 13.º - 1. Os beneficiários contribuirão para os encargos da Obra Social com quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, calculadas da seguinte forma:
 
 ... Quotas mensais
 
@@ -226,7 +250,7 @@ Acima da letra F ... 20$00
 
 #### SECÇÃO IV — Da suspensão de direitos ou cancelamento de inscrições
 
-###### Art. 14.º - 1. Serão suspensos dos benefícios da Obra Social:
+Art. 14.º - 1. Serão suspensos dos benefícios da Obra Social:
 
 a) Os funcionários que entrem na situação de licença ilimitada;
 
@@ -244,9 +268,9 @@ e) Os beneficiários que cedam a favor de terceiros quaisquer vantagens ou auxí
 
 4. Das penas superiores a um mês cabe recurso para o Ministro da Educação Nacional.
 
-###### Art. 15.º Na suspensão dos benefícios aos aposentados por motivos disciplinares, a direcção terá em conta a situação do agregado familiar, cabendo ao Ministro a decisão final.
+Art. 15.º Na suspensão dos benefícios aos aposentados por motivos disciplinares, a direcção terá em conta a situação do agregado familiar, cabendo ao Ministro a decisão final.
 
-###### Art. 16.º Será cancelada a inscrição na Obra Social:
+Art. 16.º Será cancelada a inscrição na Obra Social:
 
 a) Aos funcionários exonerados, demitidos ou cujos contratos sejam dados por findos;
 
@@ -254,11 +278,11 @@ b) Aos aposentados por motivos disciplinares;
 
 c) Aos beneficiários que pratiquem infracções de especial gravidade contra a Obra Social ou os seus órgãos.
 
-###### Art. 17.º Exceptuam-se do disposto na alínea a) do artigo 14.º e na alínea a) do artigo 16.º os funcionários em licença ilimitada, ou desligados do serviço, por motivo de doença, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969.
+Art. 17.º Exceptuam-se do disposto na alínea a) do artigo 14.º e na alínea a) do artigo 16.º os funcionários em licença ilimitada, ou desligados do serviço, por motivo de doença, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969.
 
 ### CAPÍTULO III — Dos órgãos da Obra Social
 
-###### Art. 18.º Os órgãos da Obra Social são:
+Art. 18.º Os órgãos da Obra Social são:
 
 a) A direcção;
 
@@ -266,21 +290,21 @@ b) O conselho consultivo;
 
 c) A comissão verificadora de contas.
 
-###### Art. 19.º Os funcionários designados para os órgãos da Obra Social terão direito a senhas de presença, ou a gratificações de montante a fixar pelo Ministro da Educação Nacional, até ao limite máximo de 5000$00.
+Art. 19.º Os funcionários designados para os órgãos da Obra Social terão direito a senhas de presença, ou a gratificações de montante a fixar pelo Ministro da Educação Nacional, até ao limite máximo de 5000$00.
 
 #### SECÇÃO I — Da direcção
 
-###### Art. 20.º A direcção da Obra Social é constituída por um director e quatro vogais.
+Art. 20.º A direcção da Obra Social é constituída por um director e quatro vogais.
 
-###### Art. 21.º O director é designado pelo Ministro da Educação Nacional de entre o pessoal dirigente e técnico do Ministério da Educação Nacional, podendo ser total ou parcialmente dispensado do exercício do seu cargo.
+Art. 21.º O director é designado pelo Ministro da Educação Nacional de entre o pessoal dirigente e técnico do Ministério da Educação Nacional, podendo ser total ou parcialmente dispensado do exercício do seu cargo.
 
-###### Art. 22.º Os vogais serão designados pelo Ministro, ouvido o conselho consultivo, de entre os funcionários do Ministério da Educação Nacional, por períodos de dois anos renováveis, podendo igualmente ser dispensados, total ou parcialmente, do exercício dos seus cargos.
+Art. 22.º Os vogais serão designados pelo Ministro, ouvido o conselho consultivo, de entre os funcionários do Ministério da Educação Nacional, por períodos de dois anos renováveis, podendo igualmente ser dispensados, total ou parcialmente, do exercício dos seus cargos.
 
-###### Art. 23.º - 1. O Ministro da Educação Nacional designará o vogal que deverá exercer as funções de subdirector, competindo-lhe substituir o director nas suas faltas ou impedimentos.
+Art. 23.º - 1. O Ministro da Educação Nacional designará o vogal que deverá exercer as funções de subdirector, competindo-lhe substituir o director nas suas faltas ou impedimentos.
 
 2. Os membros da direcção distribuirão entre si os pelouros ou actividades que ficam sob a sua orientação.
 
-###### Art. 24.º Compete à direcção:
+Art. 24.º Compete à direcção:
 
 a) Representar a Obra Social em todos os actos em que esta tenha de intervir;
 
@@ -308,17 +332,17 @@ m) Decidir sobre a concessão de benefícios dependentes da prova de necessidade
 
 n) Praticar os demais actos necessários ao bom funcionamento da Obra Social.
 
-###### Art. 25.º - 1. A direcção terá uma sessão ordinária por semana e as extraordinárias que forem convocadas pelo director.
+Art. 25.º - 1. A direcção terá uma sessão ordinária por semana e as extraordinárias que forem convocadas pelo director.
 
 2. A direcção só pode decidir com a presença da maioria dos seus titulares e as deliberações serão tomadas por maioria dos votos dos presentes, tendo o director, além do seu voto, direito a voto de desempate.
 
 3. De cada sessão será lavrada acta, que será lida e aprovada na sessão seguinte.
 
-###### Art. 26.º - 1. Para obrigar a Obra Social são necessárias as assinaturas do director ou do subdirector e de um vogal da direcção.
+Art. 26.º - 1. Para obrigar a Obra Social são necessárias as assinaturas do director ou do subdirector e de um vogal da direcção.
 
 2. Os membros da direcção serão solidariamente responsáveis pela deliberação que votarem.
 
-###### Art. 27.º Compete especialmente ao director da Obra Social:
+Art. 27.º Compete especialmente ao director da Obra Social:
 
 a) Presidir às reuniões da direcção, orientando os seus trabalhos;
 
@@ -334,11 +358,11 @@ f) Apresentar a despacho ministerial todos os assuntos que careçam de resoluç�
 
 #### SECÇÃO II — Do conselho consultivo
 
-###### Art. 28.º - 1. O conselho consultivo é constituído por representantes de todos os serviços centrais do Ministério, incluindo os organismos autónomos, designados pelo Ministro.
+Art. 28.º - 1. O conselho consultivo é constituído por representantes de todos os serviços centrais do Ministério, incluindo os organismos autónomos, designados pelo Ministro.
 
 2. O conselho consultivo é presidido pelo secretário-geral do Ministério.
 
-###### Art. 29.º Compete ao conselho consultivo:
+Art. 29.º Compete ao conselho consultivo:
 
 a) Elaborar os planos de acção a executar pela Obra Social;
 
@@ -352,17 +376,17 @@ e) Emitir parecer sobre os esquemas de benefícios a conceder e sobre os regulam
 
 f) Fixar as orientações tendentes a fomentar ou aperfeiçoar as actividades da Obra Social.
 
-###### Art. 30.º - 1. O conselho consultivo reunirá ordinariamente uma vez por trimestre e extraordinariamente quando for julgado conveniente pelo seu presidente ou por solicitação da direcção.
+Art. 30.º - 1. O conselho consultivo reunirá ordinariamente uma vez por trimestre e extraordinariamente quando for julgado conveniente pelo seu presidente ou por solicitação da direcção.
 
 2. Às reuniões do conselho consultivo deverão assistir o director e os vogais da direcção cuja presença se torne aconselhável.
 
 #### SECÇÃO III — Da comissão verificadora de contas
 
-###### Art. 31.º - 1. A comissão verificadora de contas é composta por cinco membros designados pelo Ministro da Educação Nacional, ouvido o conselho consultivo, representando os serviços centrais, incluindo os organismos autónomos, os organismos dependentes e a 10.ª Repartição da Direcção-Geral da Contabilidade Pública.
+Art. 31.º - 1. A comissão verificadora de contas é composta por cinco membros designados pelo Ministro da Educação Nacional, ouvido o conselho consultivo, representando os serviços centrais, incluindo os organismos autónomos, os organismos dependentes e a 10.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
 2. O presidente será designado pelo Ministro da Educação Nacional de entre os representantes referidos no número anterior.
 
-###### Art. 32.º À comissão verificadora de contas compete:
+Art. 32.º À comissão verificadora de contas compete:
 
 a) Efectuar exames e conferências dos documentos que se tornem necessários para o bom desempenho da sua missão;
 
@@ -372,17 +396,17 @@ c) Pronunciar-se sobre a aplicação das receitas da Obra Social à realização
 
 d) Emitir parecer sobre os assuntos que lhe sejam postos pela direcção ou pelo conselho consultivo, em matéria da sua competência.
 
-###### Art. 33.º A comissão verificadora de contas reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o seu presidente o julgue conveniente ou a solicitação da direcção ou do conselho consultivo.
+Art. 33.º A comissão verificadora de contas reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o seu presidente o julgue conveniente ou a solicitação da direcção ou do conselho consultivo.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 34.º - 1. O funcionamento da Obra Social será assegurado por funcionários destacados dos serviços do Ministério ou por funcionários de outros serviços do Estado, em regime de comissão de serviço por tempo indeterminado, sem perda, em qualquer caso, dos direitos inerentes aos cargos de origem, designadamente quanto a antiguidade, promoção e aposentação.
+Art. 34.º - 1. O funcionamento da Obra Social será assegurado por funcionários destacados dos serviços do Ministério ou por funcionários de outros serviços do Estado, em regime de comissão de serviço por tempo indeterminado, sem perda, em qualquer caso, dos direitos inerentes aos cargos de origem, designadamente quanto a antiguidade, promoção e aposentação.
 
 2. Os vencimentos dos funcionários a que respeita o número anterior serão pagos por verba global a inscrever para este fim no orçamento da Obra Social.
 
 3. Poderão ser preenchidos interinamente os lugares, nos quadros de origem, dos funcionários referidos nos números anteriores.
 
-###### Art. 35.º Mediante autorização ministerial, a Obra Social poderá:
+Art. 35.º Mediante autorização ministerial, a Obra Social poderá:
 
 a) Contratar ou assalariar o pessoal eventual que se mostrar indispensável;
 
@@ -390,7 +414,7 @@ b) Confiar a quaisquer entidades, em regime de prestação de serviços, a reali
 
 ### CAPÍTULO V — Das receitas e despesas
 
-###### Art. 36.º - 1. Constituem receitas da Obra Social:
+Art. 36.º - 1. Constituem receitas da Obra Social:
 
 a) As quotizações pagas pelos beneficiários;
 
@@ -410,15 +434,15 @@ h) Os produtos dos suas iniciativas;
 
 i) Quaisquer outras receitas que lhe venham a ser atribuídas.
 
-###### Art. 37.º - 1. A cobrança das importâncias devidas à Obra Social pelos seus beneficiários poderá ser feita por descontos nas respectivas remunerações de trabalho ou prestações periódicas pagas a título de aposentação.
+Art. 37.º - 1. A cobrança das importâncias devidas à Obra Social pelos seus beneficiários poderá ser feita por descontos nas respectivas remunerações de trabalho ou prestações periódicas pagas a título de aposentação.
 
 2. Os descontos referidos no número anterior nunca poderão ir além dos limites fixados no Código de Processo Civil para bens relativa ou parcialmente impenhoráveis.
 
-###### Art. 38.º As receitas da Obra Social serão depositadas à ordem da direcção na Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 38.º As receitas da Obra Social serão depositadas à ordem da direcção na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 39.º As despesas da Obra Social serão as que resultem da execução das suas finalidades, em conformidade com os orçamentos superiormente aprovados.
+Art. 39.º As despesas da Obra Social serão as que resultem da execução das suas finalidades, em conformidade com os orçamentos superiormente aprovados.
 
-###### Art. 40.º Dependem de despacho do Ministro da Educação Nacional:
+Art. 40.º Dependem de despacho do Ministro da Educação Nacional:
 
 a) A aquisição, construção ou remodelação de imóveis;
 
@@ -430,7 +454,7 @@ d) Os acordos com instituições similiares, cooperativas ou estabelecimentos co
 
 e) Os contratos de arrendamento para instalação de serviços.
 
-###### Art. 41.º - 1. As contas anuais serão submetidas à aprovação do Ministro da Educação Nacional até 30 de Março do ano seguinte àquele a que respeitam, acompanhadas do parecer do conselho consultivo e da comissão verificadora de contas.
+Art. 41.º - 1. As contas anuais serão submetidas à aprovação do Ministro da Educação Nacional até 30 de Março do ano seguinte àquele a que respeitam, acompanhadas do parecer do conselho consultivo e da comissão verificadora de contas.
 
 2. A aprovação a que se refere o número anterior corresponde, para efeitos de prestação e julgamento de contas, à quitação da direcção, sem prejuízo de revisão a determinar pelo Ministro da Educação Nacional, nos casos admitidos por lei.
 
@@ -438,14 +462,14 @@ e) Os contratos de arrendamento para instalação de serviços.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 42.º - 1. De forma a evitarem-se duplicações de benefícios, as actividades das organizações de pessoal existentes nos serviços ou estabelecimentos dependentes do Ministério da Educação Nacional serão coordenadas pela Obra Social até à sua integração, de harmonia com o disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 376/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1972-691986).
+Art. 42.º - 1. De forma a evitarem-se duplicações de benefícios, as actividades das organizações de pessoal existentes nos serviços ou estabelecimentos dependentes do Ministério da Educação Nacional serão coordenadas pela Obra Social até à sua integração, de harmonia com o disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 376/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1972-691986).
 
 2. De futuro, não poderão ser criadas junto dos serviços do Ministério novas organizações de pessoal de fins análogos aos da Obra Social.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 6 de Abril de 1973.**
+Promulgado em 6 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

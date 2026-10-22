@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/9-1970-275384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e9be5f986eb7a0797728c9a03cb9a61967a9b9e98d4264e9981adff74cc18cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2b61a7c4b68750bfecad55991d4678dacdf548f747c50d1cd2bab2181afc5d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:32Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +91,7 @@ Por motivo de urgência, nos termos do disposto no § 1.º do artigo 150.º da C
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São assim alteradas as taxas das seguintes subposições da pauta mínima de importação da província de Cabo Verde:
+Artigo 1.º São assim alteradas as taxas das seguintes subposições da pauta mínima de importação da província de Cabo Verde:
 
 68.16.02 - Ad valorem, 3 por cento.
 
@@ -133,7 +133,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 87.14.10 - Ad valorem, 10 por cento.
 
-###### Art. 2.º São introduzidas as seguintes notas às subposições 62.03.02, 87.02.08 e 87.14.06 a 87.14.10 da pauta mínima de importação da província de Cabo Verde:
+Art. 2.º São introduzidas as seguintes notas às subposições 62.03.02, 87.02.08 e 87.14.06 a 87.14.10 da pauta mínima de importação da província de Cabo Verde:
 
 62.03.02 ...
 
@@ -155,13 +155,13 @@ Partes e peças separadas:
 
 Nota. - Pode o governador, mediante despacho, a requerimento dos interessados, sob pareceres fundamentados dos Serviços das Alfândegas e da Economia, reduzir para 3 por cento ad valorem os direitos atribuídos às partes e peças separadas de automóveis quando factores de consumo ou desgaste anormais o justifiquem.
 
-###### Art. 3.º O disposto no presente decreto aplica-se aos bilhetes de despacho que se encontrem pendentes de liquidação e pagamento.
+Art. 3.º O disposto no presente decreto aplica-se aos bilhetes de despacho que se encontrem pendentes de liquidação e pagamento.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Dezembro de 1969.**
+Promulgado em 26 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

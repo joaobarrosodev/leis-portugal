@@ -48,40 +48,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db3738680ee00925b8d440ee1da81b9b3c740d6145fb9c7b78f740a0b4578586
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eae227e9d1e0a2f38fcbce81d2005c1acfa37d8ec4b9d7b30051216087e22c8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Caixa Geral de Depósitos Crédito e Previdência
+- Conselho de Ministros para os Assuntos Económicos
+- Definição de Competências
+- EFTA
+- Empresa
+- Empresa Pública
+- Exportação de Capitais
+- FMI
+- Importação de Capitais
+- Instituição de Crédito
+- Mercado Cambial
+- Mercado de Capitais
+- Ministro das Finanças
+- Ministro do Ultramar
+- OCDE
+- Política Económica
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:390181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:170533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:225988:por
+  label: "Revogado o art. 26º pelo DEC LEI.183/70.1970.04.28.MF DG.IS [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1970-225988
+  date: '1970-04-28'
+- type: repealed_by
+  target: pt:dre:659717:por
+  label: "Revogadas as disposições respeitantes a investimentos directos estrangeiros, pelo DEC LEI.348/77.24.08.1977.MPCE,\
+    \ DR.IS [195]Supl de 24.08.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/348-1977-659717
+  date: '1977-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:08Z'
   warnings: []
   errors: []
 ---
@@ -122,15 +172,15 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Das operações de capitais estrangeiros
 
-###### Artigo 1.º A realização de operações de transferência e subsequente aplicação de capitais em Portugal por quaisquer pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro e, bem assim, a das transferências para o estrangeiro dos rendimentos desses capitais, dos valores resultantes da venda ou liquidação de bens e direitos adquiridos por via daquelas aplicações de capitais, das importâncias provenientes da venda ou reembolso de títulos subscritos ou comprados e do produto de amortização ou reembolso de créditos, são reguladas pelo presente diploma e legislação regulamentar, designadamente as normas sobre importação e exportação de capitais privados previstas no [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962.
+Artigo 1.º A realização de operações de transferência e subsequente aplicação de capitais em Portugal por quaisquer pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro e, bem assim, a das transferências para o estrangeiro dos rendimentos desses capitais, dos valores resultantes da venda ou liquidação de bens e direitos adquiridos por via daquelas aplicações de capitais, das importâncias provenientes da venda ou reembolso de títulos subscritos ou comprados e do produto de amortização ou reembolso de créditos, são reguladas pelo presente diploma e legislação regulamentar, designadamente as normas sobre importação e exportação de capitais privados previstas no [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962.
 
-###### Art. 2.º O Estado reserva-se o direito de, através dos seus órgãos competentes, fiscalizar a aplicação dada aos capitais estrangeiros importados no País e de manter ou adoptar providências adequadas à verificação da legitimidade das transferências referidas no artigo anterior.
+Art. 2.º O Estado reserva-se o direito de, através dos seus órgãos competentes, fiscalizar a aplicação dada aos capitais estrangeiros importados no País e de manter ou adoptar providências adequadas à verificação da legitimidade das transferências referidas no artigo anterior.
 
 ### CAPÍTULO II — Das autorizações de aplicação de capitais estrangeiros
 
-###### Art. 3.º Podem, nos termos do artigo seguinte e com as excepções previstas no capítulo IV do presente diploma, constituir-se e exercer as suas actividades em Portugal empresas com totalidade ou maioria de capital pertencente a pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, em conformidade com a legislação que regular essas actividades.
+Art. 3.º Podem, nos termos do artigo seguinte e com as excepções previstas no capítulo IV do presente diploma, constituir-se e exercer as suas actividades em Portugal empresas com totalidade ou maioria de capital pertencente a pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, em conformidade com a legislação que regular essas actividades.
 
-###### Art. 4.º A autorização para a transferência e subsequente aplicação de capitais em Portugal, por quaisquer pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, será sempre concedida quando os capitais se destinarem à realização dos objectivos que constarem das listas aprovadas em Conselho de Ministros para os Assuntos Económicos.
+Art. 4.º A autorização para a transferência e subsequente aplicação de capitais em Portugal, por quaisquer pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, será sempre concedida quando os capitais se destinarem à realização dos objectivos que constarem das listas aprovadas em Conselho de Ministros para os Assuntos Económicos.
 
 § 1.º As listas serão definidas pelo Conselho de Ministros para os Assuntos Económicos tendo em conta os objectivos dos planos ou programas de fomento estabelecidos nos termos dos artigos 4.º a 6.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro, de 1962, mas o dito Conselho de Ministros poderá, anualmente, introduzir nessas listas os aditamentos que as circunstâncias aconselharem.
 
@@ -140,53 +190,53 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º A concessão das autorizações será efectuada com respeito do estatuído no presente diploma e das obrigações assumidas pelo Estado por efeito de acordos internacionais ou actos análogos. Observar-se-ão ainda as regras instituídas na legislação que regular o exercício das respectivas actividades económicas, as quais, sem qualquer discriminação, se aplicarão a nacionais e estrangeiros.
 
-###### Art. 5.º Na apreciação dos pedidos de autorização a que alude o artigo anterior, não será feita discriminação quanto à origem dos capitais, desde que os países estrangeiros interessados sejam participantes ou associados, com Portugal, na Organização de Cooperação e Desenvolvimento Económico, na Associação Europeia de Comércio Livre, no Fundo Monetário Internacional ou no Banco Internacional de Reconstrução e Desenvolvimento.
+Art. 5.º Na apreciação dos pedidos de autorização a que alude o artigo anterior, não será feita discriminação quanto à origem dos capitais, desde que os países estrangeiros interessados sejam participantes ou associados, com Portugal, na Organização de Cooperação e Desenvolvimento Económico, na Associação Europeia de Comércio Livre, no Fundo Monetário Internacional ou no Banco Internacional de Reconstrução e Desenvolvimento.
 
-###### Art. 6.º Quando um pedido de autorização haja sido recusado e a pessoa singular ou colectiva, residente ou domiciliada no estrangeiro, que o formulou se considere prejudicada nos seus legítimos interesses, haverá recurso para o Conselho de Ministros para os Assuntos Económicos, a interpor no prazo de noventa dias.
+Art. 6.º Quando um pedido de autorização haja sido recusado e a pessoa singular ou colectiva, residente ou domiciliada no estrangeiro, que o formulou se considere prejudicada nos seus legítimos interesses, haverá recurso para o Conselho de Ministros para os Assuntos Económicos, a interpor no prazo de noventa dias.
 
-###### Art. 7.º Para a execução de planos ou programas de fomento económico poderá o Governo estabelecer contratos, nos termos previstos no artigo 5.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), com empresas estrangeiras ou com empresas que exerçam a sua actividade em Portugal e tenham totalidade ou maioria de capital estrangeiro.
+Art. 7.º Para a execução de planos ou programas de fomento económico poderá o Governo estabelecer contratos, nos termos previstos no artigo 5.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), com empresas estrangeiras ou com empresas que exerçam a sua actividade em Portugal e tenham totalidade ou maioria de capital estrangeiro.
 
 ### CAPÍTULO III — Das garantias à aplicação de capitais estrangeiros
 
-###### Art. 8.º Em conformidade com os princípios da Constituição sobre a ordem económica e social com os que informaram o [Decreto-Lei n.º 23048](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23048-1933-330455), de 23 de Setembro de 1933, o Estado, atento o princípio da reciprocidade e em perfeita igualdade das condições que oferece aos bens das pessoas singulares ou colectivas residentes ou domiciliadas em Portugal, assegura tratamento justo e equitativo aos bens de pessoas residentes ou domiciliadas no estrangeiro, garante a esses bens protecção e segurança e não dificultará por qualquer forma a sua gestão, manutenção e utilização, sem prejuízo do direito de exercer fiscalização adequada. O Estado não impedirá também, por quaisquer providências discriminatórias, que se proceda à liquidação dos ditos bens.
+Art. 8.º Em conformidade com os princípios da Constituição sobre a ordem económica e social com os que informaram o [Decreto-Lei n.º 23048](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23048-1933-330455), de 23 de Setembro de 1933, o Estado, atento o princípio da reciprocidade e em perfeita igualdade das condições que oferece aos bens das pessoas singulares ou colectivas residentes ou domiciliadas em Portugal, assegura tratamento justo e equitativo aos bens de pessoas residentes ou domiciliadas no estrangeiro, garante a esses bens protecção e segurança e não dificultará por qualquer forma a sua gestão, manutenção e utilização, sem prejuízo do direito de exercer fiscalização adequada. O Estado não impedirá também, por quaisquer providências discriminatórias, que se proceda à liquidação dos ditos bens.
 
-###### Art. 9.º Nos termos do § 1.º do artigo 49.º da Constituição e do artigo 13.º do [Decreto-Lei n.º 23048](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23048-1933-330455), os bens das pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro só poderão ser objecto de expropriação quando determinada pelo interesse público, mediante justa indemnização, que corresponderá ao valor real dos bens cm causa e será liquidada sem demoras injustificadas e sem qualquer discriminação em relação aos bens de nacionais.
+Art. 9.º Nos termos do § 1.º do artigo 49.º da Constituição e do artigo 13.º do [Decreto-Lei n.º 23048](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23048-1933-330455), os bens das pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro só poderão ser objecto de expropriação quando determinada pelo interesse público, mediante justa indemnização, que corresponderá ao valor real dos bens cm causa e será liquidada sem demoras injustificadas e sem qualquer discriminação em relação aos bens de nacionais.
 
-###### Art. 10.º A exportação para o estrangeiro de acções, obrigações e outros valores mobiliários de pessoas residentes ou domiciliadas no estrangeiro será sempre autorizada, desde que os valores em causa tenham sido legalmente adquiridos ou importados.
+Art. 10.º A exportação para o estrangeiro de acções, obrigações e outros valores mobiliários de pessoas residentes ou domiciliadas no estrangeiro será sempre autorizada, desde que os valores em causa tenham sido legalmente adquiridos ou importados.
 
-###### Art. 11.º Serão sempre autorizadas as transferências para o estrangeiro do produto da liquidação de investimentos directos, incluindo as mais-valias, efectuadas em Portugal e pertencentes a pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, desde que os investimentos hajam sido efectuados com capitais legalmente importados ou com rendimentos de capitais estrangeiros aplicados em território nacional.
+Art. 11.º Serão sempre autorizadas as transferências para o estrangeiro do produto da liquidação de investimentos directos, incluindo as mais-valias, efectuadas em Portugal e pertencentes a pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, desde que os investimentos hajam sido efectuados com capitais legalmente importados ou com rendimentos de capitais estrangeiros aplicados em território nacional.
 
 § único. Para efeitos do disposto no presente artigo, consideram-se investimentos directos as aplicações de capitais previstas nas alíneas A) a C) do anexo II do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
-###### Art. 12.º Serão igualmente sempre autorizadas as transferências para o estrangeiro do produto da venda, num mercado nacional, de títulos nacionais pertencentes a pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, desde que esses títulos hajam sido adquiridos pelo menos um ano antes da data da venda com capitais legalmente importados ou com rendimentos de capitais estrangeiros aplicados em território nacional
+Art. 12.º Serão igualmente sempre autorizadas as transferências para o estrangeiro do produto da venda, num mercado nacional, de títulos nacionais pertencentes a pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, desde que esses títulos hajam sido adquiridos pelo menos um ano antes da data da venda com capitais legalmente importados ou com rendimentos de capitais estrangeiros aplicados em território nacional
 
 § único. Para efeitos do disposto neste artigo, serão havidas como títulos nacionais as acções e obrigações emitidas num mercado nacional, em moeda com poder liberatório ilimitado em qualquer parcela do território português, por empresas domiciliadas em Portugal, bem como os títulos da dívida pública portuguesa emitidos nas mesmas condições.
 
-###### Art. 13.º As transferências respeitantes a juros, dividendos e outros lucros de capitais estrangeiros aplicados em território nacional e, bem assim, as dos valores das amortizações ou reembolso de capitais mutuados entre pessoas residentes ou domiciliadas em território nacional e pessoas residentes ou domiciliadas num país ou território estrangeiro serão sempre autorizadas, contanto que os capitais tenham sido legalmente importados e se verifique que as referidas transferências são efectivamente devidas.
+Art. 13.º As transferências respeitantes a juros, dividendos e outros lucros de capitais estrangeiros aplicados em território nacional e, bem assim, as dos valores das amortizações ou reembolso de capitais mutuados entre pessoas residentes ou domiciliadas em território nacional e pessoas residentes ou domiciliadas num país ou território estrangeiro serão sempre autorizadas, contanto que os capitais tenham sido legalmente importados e se verifique que as referidas transferências são efectivamente devidas.
 
-###### Art. 14.º As autorizações de transferências a que se referem os artigos 11.º a 13.º poderão ser suspensas por período mais ou menos longo, por decisão do Conselho de Ministros para os Assuntos Económicos, no caso de desequilíbrio perigoso da balança de pagamentos internacionais do território nacional interessado, ou de as transferências provocarem graves perturbações económicas e financeiras nesse território.
+Art. 14.º As autorizações de transferências a que se referem os artigos 11.º a 13.º poderão ser suspensas por período mais ou menos longo, por decisão do Conselho de Ministros para os Assuntos Económicos, no caso de desequilíbrio perigoso da balança de pagamentos internacionais do território nacional interessado, ou de as transferências provocarem graves perturbações económicas e financeiras nesse território.
 
 § 1.º Quando se verifique qualquer dos casos indicados no presente artigo, e tendo em consideração o valor global das transferências a efectuar, o Conselho de Ministros para os Assuntos Económicos determinará a fracção desse valor que poderá ser periòdicamente transferida, a qual nunca deverá ser inferior por ano a 20 por cento do montante dos capitais a liquidar.
 
 § 2.º Nos casos de suspensão a que alude o presente artigo, as importâncias liquidadas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, no continente e ilhas adjacentes, ou no respectivo banco emissor, nas províncias ultramarinas, e vencerão juro à taxa máxima que for estabelecida para os depósitos a prazo nessas instituições de crédito, salvo quando haja decisão diversa dos legítimos proprietários dos haveres a transferir, conforme com as disposições regulamentares previstas no artigo seguinte ou disposição especial incluída em convenções internacionais ou actos análogos.
 
-###### Art. 15.º As condições gerais de abertura e movimentação das contas de depósito e das outras contas em moeda nacional que resultarem da aplicação das disposições previstas no artigo precedente serão oportunamente regulamentadas, de harmonia com os princípios definidos nos artigos 25.º, 27.º e 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
+Art. 15.º As condições gerais de abertura e movimentação das contas de depósito e das outras contas em moeda nacional que resultarem da aplicação das disposições previstas no artigo precedente serão oportunamente regulamentadas, de harmonia com os princípios definidos nos artigos 25.º, 27.º e 28.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).
 
-###### Art. 16.º Os institutos de crédito do Estado, mediante autorização do Ministro das Finanças, ou autorização conjunta deste e do Ministro do Ultramar quando a operação se destinar às províncias ultramarinas, poderão conceder o seu aval a operações de crédito externo a realizar por empresas nacionais, desde que estas operações obedeçam às condições gerais enunciadas no [Decreto-Lei n.º 43710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43710-1961-170533), de 24 de Maio de 1961.
+Art. 16.º Os institutos de crédito do Estado, mediante autorização do Ministro das Finanças, ou autorização conjunta deste e do Ministro do Ultramar quando a operação se destinar às províncias ultramarinas, poderão conceder o seu aval a operações de crédito externo a realizar por empresas nacionais, desde que estas operações obedeçam às condições gerais enunciadas no [Decreto-Lei n.º 43710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43710-1961-170533), de 24 de Maio de 1961.
 
 § único. As responsabilidades que os institutos de crédito do Estado poderão assumir nos termos do presente artigo não deverão exceder no total importância correspondente a um terço dos seus capitais ou fundos de reserva, não incluindo os fundos de flutuação de títulos.
 
-###### Art. 17.º As empresas estrangeiras autorizadas a exercer a sua actividade em território nacional e as empresas constituídas segundo a lei portuguesa, ainda que com totalidade ou maioria de capital estrangeiro, beneficiarão, em igualdade de condições com as empresas em que exista totalidade ou maioria de capital nacional, das isenções ou reduções de impostos e direitos alfandegários e de outros ónus de idêntica natureza, que a lei estabelecer a favor das actividades económicas correspondentes.
+Art. 17.º As empresas estrangeiras autorizadas a exercer a sua actividade em território nacional e as empresas constituídas segundo a lei portuguesa, ainda que com totalidade ou maioria de capital estrangeiro, beneficiarão, em igualdade de condições com as empresas em que exista totalidade ou maioria de capital nacional, das isenções ou reduções de impostos e direitos alfandegários e de outros ónus de idêntica natureza, que a lei estabelecer a favor das actividades económicas correspondentes.
 
-###### Art. 18.º Em casos especiais de empreendimentos de superior interesse para o desenvolvimento económico-social de qualquer parcela do território nacional poderão ser concedidas às empresas mencionadas no artigo precedente isenções fiscais por períodos mais largos do que os previstos na legislação em vigor.
+Art. 18.º Em casos especiais de empreendimentos de superior interesse para o desenvolvimento económico-social de qualquer parcela do território nacional poderão ser concedidas às empresas mencionadas no artigo precedente isenções fiscais por períodos mais largos do que os previstos na legislação em vigor.
 
-###### Art. 19.º O Governo realizará as convenientes negociações para a celebração de acordos com o fim de eliminar as duplas tributações sobre o capital e os respectivos rendimentos.
+Art. 19.º O Governo realizará as convenientes negociações para a celebração de acordos com o fim de eliminar as duplas tributações sobre o capital e os respectivos rendimentos.
 
-###### Art. 20.º As empresas estrangeiras autorizadas a exercer a sua actividade em território nacional e as empresas constituídas segundo a lei portuguesa com totalidade ou maioria de capital estrangeiro são autorizadas a admitir pessoas de nacionalidade estrangeira, como administradores, directores, gerentes, auditores, consultores especiais, inspectores e técnicos especializados de qualquer natureza, e a estabelecer-lhes as respectivas remunerações em moeda estrangeira, salvo nos casos previstos em legislação especial.
+Art. 20.º As empresas estrangeiras autorizadas a exercer a sua actividade em território nacional e as empresas constituídas segundo a lei portuguesa com totalidade ou maioria de capital estrangeiro são autorizadas a admitir pessoas de nacionalidade estrangeira, como administradores, directores, gerentes, auditores, consultores especiais, inspectores e técnicos especializados de qualquer natureza, e a estabelecer-lhes as respectivas remunerações em moeda estrangeira, salvo nos casos previstos em legislação especial.
 
 ### CAPÍTULO IV — Do condicionamento das aplicações de capitais estrangeiros
 
-###### Art. 21.º Só a empresas nacionais é permitido fundar, adquirir, possuir ou explorar, em conformidade com o que vier a ser determinado em diploma regulamentar, estabelecimentos destinados à gestão ou exercício de:
+Art. 21.º Só a empresas nacionais é permitido fundar, adquirir, possuir ou explorar, em conformidade com o que vier a ser determinado em diploma regulamentar, estabelecimentos destinados à gestão ou exercício de:
 
 a) Serviços públicos ou bens do domínio público;
 
@@ -198,7 +248,7 @@ b) Actividades que interessem fundamentalmente à defesa do Estado.
 
 § 3.º As resoluções do Conselho de Ministros, tomadas em conformidade com os parágrafos anteriores, serão publicadas no Diário do Governo e no Boletim Oficial das províncias ultramarinas.
 
-###### Art. 22.º Para efeitos do disposto no presente capítulo deste diploma são havidas por nacionais:
+Art. 22.º Para efeitos do disposto no presente capítulo deste diploma são havidas por nacionais:
 
 a) As empresas individuais pertencentes a cidadãos portugueses de origem ou naturalizados há mais de dez anos;
 
@@ -212,17 +262,17 @@ a) Nas sociedades em nome colectivo, em comandita ou cooperativas, que o maior n
 
 b) Nas sociedades anónimas e nas sociedades por quotas, que a maioria do seu capital pertença àquelas pessoas, ou a sociedades de que elas tenham o domínio.
 
-###### Art. 23.º As empresas já constituídas que, de futuro, pretendam realizar, em território nacional, alguns dos fins previstos no artigo 21.º e enquanto não estiverem nas condições do artigo 22.º ficarão submetidas a um regime de transição que, respeitando os direitos e situações adquiridos, assegure a realização progressiva daquelas condições, através de direitos de preferência atribuídos a pessoas nacionais.
+Art. 23.º As empresas já constituídas que, de futuro, pretendam realizar, em território nacional, alguns dos fins previstos no artigo 21.º e enquanto não estiverem nas condições do artigo 22.º ficarão submetidas a um regime de transição que, respeitando os direitos e situações adquiridos, assegure a realização progressiva daquelas condições, através de direitos de preferência atribuídos a pessoas nacionais.
 
-###### Art. 24.º As empresas referidas no artigo precedente que tenham a sua sede no estrangeiro deverão transferi-la para território nacional, nos prazos e condições que, para cada caso, forem fixados pelo Governo.
+Art. 24.º As empresas referidas no artigo precedente que tenham a sua sede no estrangeiro deverão transferi-la para território nacional, nos prazos e condições que, para cada caso, forem fixados pelo Governo.
 
 § único. Enquanto se não efectuar a transferência a que se refere este artigo, serão as empresas obrigadas a ter, em território nacional, delegações com plenos poderes para resolver todos os assuntos relativos à sua actividade.
 
-###### Art. 25.º Continuam em vigor as disposições da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, do Decreto-Lei n.º 28228, de 24 de Novembro de 1937, e mais legislação complementar ou regulamentar destes diplomas, em tudo o que não contrarie o disposto no presente decreto-lei.
+Art. 25.º Continuam em vigor as disposições da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943, do Decreto-Lei n.º 28228, de 24 de Novembro de 1937, e mais legislação complementar ou regulamentar destes diplomas, em tudo o que não contrarie o disposto no presente decreto-lei.
 
-###### Art. 26.º Nas escrituras, instrumentos, autos, cartas de arrematação ou outros títulos ou documentos relativos aos actos mencionados nos artigos anteriores deverá sempre transcrever-se, quando for caso disso, o despacho ou boletim de autorização sobre operações de capitais previsto no [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), sob pena de nulidade dos mesmos actos, que não serão por isso admitidos a registo predial, comercial ou outro a que houver lugar.
+Art. 26.º Nas escrituras, instrumentos, autos, cartas de arrematação ou outros títulos ou documentos relativos aos actos mencionados nos artigos anteriores deverá sempre transcrever-se, quando for caso disso, o despacho ou boletim de autorização sobre operações de capitais previsto no [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), sob pena de nulidade dos mesmos actos, que não serão por isso admitidos a registo predial, comercial ou outro a que houver lugar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
 

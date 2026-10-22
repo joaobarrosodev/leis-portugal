@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/251-1970-142504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b421fa9ba5ad06cf2df684f282104f05c8c2e27200340c241cae53789121626
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 834c34510a841b18b7c406acbb0a02eacab1c38f15be793c3ee2e5c23be3e169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alcácer do SAL
+- Almodôvar
+- Arronches
+- Beja
+- Braga
+- Chaves
+- Imóvel Classificado
+- Lamego
+- Macedo de Cavaleiros
+- Matosinhos
+- Monforte
+- Protecção do Património
+- Sabrosa
+- Vidigueira
+- Vila Viçosa
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:631673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70471190:por
+  label: Considerado desclassificado como imóvel de interesse público, deixando de existir a respetiva zona geral de proteção,
+    o Penedo com gravuras rupestres na Tapada das Eiras, em Perozelo, freguesia de Perozelo, concelho de Penafiel, distrito
+    do Porto, pelo(a) Declaração n.º 202/2015 - Diário da República n.º 196/2015, Série II de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/202-2015-70471190
+  date: '2015-10-07'
+- type: cites
+  target: pt:dre:174335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631673:por
+  label: Rectificado o presente diploma [no referente à al. b) do art. 3º, onde passa a ler-se "Decreto nº 40361, de 20 de
+    Outubro de 1955", e ao art. 4º, onde passa a ler-se "igreja da Póvoa de Santo Adrião"] pelo DEC.516/71.22.11.1971.MEN,
+    DG.IS [274] de 22.11.1971
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/516-1971-631673
+  date: '1971-11-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:42Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +140,7 @@ Nos termos dos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diari
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
+Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
 
 Distrito de Évora:
 
@@ -112,7 +162,7 @@ Distrito de Setúbal:
 
 Concelho de Alcácer do Sal - Estação arqueológica do Senhor dos Mártires, nos arredores de Alcácer do Sal.
 
-###### Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
+Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
 
 Distrito de Beja:
 
@@ -208,20 +258,20 @@ Concelho de Lamego - Capela de Nossa Senhora da Esperança, em Lamego.
 
 Concelho de S. João da Pesqueira - Solar da família Caiado Ferrão, em Trevões, incluindo a capela anexa com o seu recheio.
 
-###### Art. 3.º Fica esclarecido:
+Art. 3.º Fica esclarecido:
 
 a) Que a Igreja de Santa Engrácia, classificada como monumento nacional pelo Decreto de 16 de Junho de 1910, é o actual Panteão Nacional;
 
 b) Que o imóvel classificado de interesse público pelo artigo 2.º do [Decreto n.º 40361](https://diariodarepublica.pt/dr/detalhe/decreto/40361-1955-245491), de 20 de Outubro de 1956, situado na freguesia de Nogueira, do concelho e distrito de Braga, se designa por «Estação Arqueológica de Santa Marta das Cortiças», e não «Ruínas Arqueológicas do Monte de Santa Marta».
 
-###### Art. 4.º A classificação como monumento nacional limitada pelo [Decreto n.º 8252](https://diariodarepublica.pt/dr/detalhe/decreto/8252-1922-174335), de 10 de Julho de 1922, ao pórtico da igreja de Santo Adrião, concelho de Loures, distrito de Lisboa, passa a abranger toda a igreja.
+Art. 4.º A classificação como monumento nacional limitada pelo [Decreto n.º 8252](https://diariodarepublica.pt/dr/detalhe/decreto/8252-1922-174335), de 10 de Julho de 1922, ao pórtico da igreja de Santo Adrião, concelho de Loures, distrito de Lisboa, passa a abranger toda a igreja.
 
-###### Art. 5.º A classificação como imóvel de interesse público limitada pelo [Decreto n.º 47508](https://diariodarepublica.pt/dr/detalhe/decreto/47508-1967-500897), de 24 de Janeiro de 1967, a três fracções das muralhas de Caminha, concelho de Caminha, distrito de Viana do Castelo, passa a abranger todos os elementos que restam do conjunto fortificado da vila de Caminha.
+Art. 5.º A classificação como imóvel de interesse público limitada pelo [Decreto n.º 47508](https://diariodarepublica.pt/dr/detalhe/decreto/47508-1967-500897), de 24 de Janeiro de 1967, a três fracções das muralhas de Caminha, concelho de Caminha, distrito de Viana do Castelo, passa a abranger todos os elementos que restam do conjunto fortificado da vila de Caminha.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 15 de Maio de 1970.**
+Promulgado em 15 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

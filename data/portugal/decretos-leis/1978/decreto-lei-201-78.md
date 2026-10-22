@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 165/1978, 1º Suplemento, Série I de 1978-07-20
   number: '165'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1390-(1) a 1390-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf
 entry_into_force_dates: []
@@ -50,36 +50,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1978-219728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7584bf6fe40b4018059adc384eecddadffadc327ec1f04833f2f26530a845f49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05c4b36d8a64d56e6d43a392edaacbfcd87f7a625d9b9629c1b67086ec3d1c16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Autarquia Local
+- Dotação Orçamental
+- Gestão Financeira
+- Gestão Orçamental
+- Piddac
+- Subsídio
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:259213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673810:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:18Z'
   warnings: []
   errors: []
 ---
@@ -112,39 +138,39 @@ O Governo decreta, em cumprimento do artigo 4.º da [Lei n.º 20/78](https://dia
 
 ## TÍTULO I — Natureza do plano
 
-###### Artigo 1.º - 1 - É aprovado o plano de distribuição das dotações dos Ministérios das Finanças e do Plano, da Administração Interna, da Habitação e Obras Públicas, da Indústria e Tecnologia, dos Assuntos Sociais, do Comércio e Turismo e da Agricultura e Pescas destinadas a subsídios e comparticipações às autarquias locais.
+Artigo 1.º - 1 - É aprovado o plano de distribuição das dotações dos Ministérios das Finanças e do Plano, da Administração Interna, da Habitação e Obras Públicas, da Indústria e Tecnologia, dos Assuntos Sociais, do Comércio e Turismo e da Agricultura e Pescas destinadas a subsídios e comparticipações às autarquias locais.
 
 2 - As dotações referidas no número anterior constam dos quadros I a III anexos ao presente diploma, do qual fazem parte integrante.
 
 3 - O plano a que se refere o n.º 1 integra transferências para despesas correntes, cuja utilização se encontra regulada no título II deste diploma, e transferências para despesas de capital, reguladas no título III.
 
-###### Art. 2.º Os Ministérios competentes submeterão à apreciação dos municípios, nos termos do n.º 3.º do artigo 4.º da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril, e no prazo de trinta dias, a contar da publicação deste diploma, a distribuição por concelhos das dotações distritais constantes das colunas 7 a 10 e 18 do quadro I anexo.
+Art. 2.º Os Ministérios competentes submeterão à apreciação dos municípios, nos termos do n.º 3.º do artigo 4.º da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril, e no prazo de trinta dias, a contar da publicação deste diploma, a distribuição por concelhos das dotações distritais constantes das colunas 7 a 10 e 18 do quadro I anexo.
 
 ## TÍTULO II — Transferências correntes
 
-###### Art. 3.º - 1 - O processamento das verbas inscritas em execução do artigo 1.º do [Decreto-Lei n.º 626/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1974-465453), de 16 de Novembro, e constantes da coluna 2 do quadro I e dos quadros II e III, será realizado pelo Ministério da Administração Interna em duas prestações, sendo a primeira, no montante de 75% da verba global, pagável a partir de Julho do corrente ano e a segunda, no montante de 25% da verba global, pagável a partir de Outubro.
+Art. 3.º - 1 - O processamento das verbas inscritas em execução do artigo 1.º do [Decreto-Lei n.º 626/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1974-465453), de 16 de Novembro, e constantes da coluna 2 do quadro I e dos quadros II e III, será realizado pelo Ministério da Administração Interna em duas prestações, sendo a primeira, no montante de 75% da verba global, pagável a partir de Julho do corrente ano e a segunda, no montante de 25% da verba global, pagável a partir de Outubro.
 
 2 - No processamento da primeira prestação a que se refere o número anterior será deduzido o montante correspondente aos duodécimos das verbas que já tiverem sido entregues, ao abrigo das regras do regime duodecimal.
 
 3 - Às verbas a que alude o n.º 1 deste artigo será deduzida uma quantia correspondente a cerca de 10% do seu total, destinada a assegurar as correcções que venham a decorrer de eventual revisão a efectuar no 4.º trimestre do corrente ano.
 
-###### Art. 4.º - 1 - Nos trinta dias seguintes à publicação deste diploma, o Ministério da Administração Interna entregará às câmaras municipais a importância correspondente a 75% da cobrança do imposto sobre veículos, atribuída ao abrigo do [Decreto-Lei n.º 173/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1973-673810), de 15 de Abril, e constante da coluna 3 do quadro I anexo.
+Art. 4.º - 1 - Nos trinta dias seguintes à publicação deste diploma, o Ministério da Administração Interna entregará às câmaras municipais a importância correspondente a 75% da cobrança do imposto sobre veículos, atribuída ao abrigo do [Decreto-Lei n.º 173/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1973-673810), de 15 de Abril, e constante da coluna 3 do quadro I anexo.
 
 2 - No processamento da importância a que se refere o número anterior será deduzido o montante dos duodécimos que já tiverem sido entregues, ao abrigo das regras do regime duodecimal.
 
-###### Art. 5.º - 1 - O processamento das transferências correntes a cargo do Ministério da Administração Interna fica condicionado à regularização das dívidas constituídas pelos municípios, serviços municipalizados e federações de municípios junto da Electricidade de Portugal (EDP) e da Empresa Pública das Águas de Lisboa (EPAL), só podendo essas dívidas exceder sessenta dias de fornecimento em casos devidamente fundamentados e autorizados pelo Ministro da Administração Interna.
+Art. 5.º - 1 - O processamento das transferências correntes a cargo do Ministério da Administração Interna fica condicionado à regularização das dívidas constituídas pelos municípios, serviços municipalizados e federações de municípios junto da Electricidade de Portugal (EDP) e da Empresa Pública das Águas de Lisboa (EPAL), só podendo essas dívidas exceder sessenta dias de fornecimento em casos devidamente fundamentados e autorizados pelo Ministro da Administração Interna.
 
 2 - As câmaras municipais, serviços municipalizados e federações de municípios deverão enviar ao Ministério da Administração Interna, durante os meses de Julho e Setembro do ano corrente, informações sobre a situação das dívidas referidas no número anterior, de acordo com normas regulamentares de execução a definir pelo citado Ministério.
 
-###### Art. 6.º As verbas inscritas na coluna 5 do quadro I anexo destinam-se a comparticipar as despesas com a mão-de-obra utilizada na conservação de estradas e caminhos municipais e serão transferidas pelo Ministério da Habitação e Obras Públicas para os municípios em duas parcelas, sendo a primeira, no montante de 75% do valor global, pagável a partir de Julho do ano corrente e a segunda, no montante de 25% do valor global, pagável a partir de Outubro.
+Art. 6.º As verbas inscritas na coluna 5 do quadro I anexo destinam-se a comparticipar as despesas com a mão-de-obra utilizada na conservação de estradas e caminhos municipais e serão transferidas pelo Ministério da Habitação e Obras Públicas para os municípios em duas parcelas, sendo a primeira, no montante de 75% do valor global, pagável a partir de Julho do ano corrente e a segunda, no montante de 25% do valor global, pagável a partir de Outubro.
 
 ## TÍTULO III — Transferências de capital
 
 ### CAPÍTULO I — Dotações consignadas a obras e acções específicas
 
-###### Art. 7.º As dotações consignadas a obras e acções específicas inscritas nos orçamentos dos Ministérios das Finanças e do Plano, da Habitação e Obras Públicas, da Indústria e Tecnologia, da Agricultura e Pescas, do Comércio e Turismo e dos Assuntos Sociais serão aplicadas em programas de viação rural, equipamento rural e urbano, saneamento básico, aquisição de terrenos, construção de habitações, electrificação rural, obras de beneficiação e complementares dos perímetros regados, apoio turístico (termalismo/climatismo) e acções de saneamento.
+Art. 7.º As dotações consignadas a obras e acções específicas inscritas nos orçamentos dos Ministérios das Finanças e do Plano, da Habitação e Obras Públicas, da Indústria e Tecnologia, da Agricultura e Pescas, do Comércio e Turismo e dos Assuntos Sociais serão aplicadas em programas de viação rural, equipamento rural e urbano, saneamento básico, aquisição de terrenos, construção de habitações, electrificação rural, obras de beneficiação e complementares dos perímetros regados, apoio turístico (termalismo/climatismo) e acções de saneamento.
 
-###### Art. 8.º - 1 - As dotações atribuídas aos programas de viação rural, de equipamento rural e urbano e de saneamento básico, constantes das colunas 12 a 14 do quadro I anexo, serão transferidas pelo Ministério da Habitação e Obras Públicas para os municípios em conformidade com o disposto nos n.os 2 a 4 seguintes.
+Art. 8.º - 1 - As dotações atribuídas aos programas de viação rural, de equipamento rural e urbano e de saneamento básico, constantes das colunas 12 a 14 do quadro I anexo, serão transferidas pelo Ministério da Habitação e Obras Públicas para os municípios em conformidade com o disposto nos n.os 2 a 4 seguintes.
 
 2 - A primeira transferência será de montante igual a 50% da dotação prevista neste diploma e efectuar-se-á nos quinze dias seguintes à sua publicação.
 
@@ -158,11 +184,11 @@ O Governo decreta, em cumprimento do artigo 4.º da [Lei n.º 20/78](https://dia
 
 7 - As câmaras municipais remeterão aos serviços competentes do Ministério da Habitação e Obras Públicas e ao Gabinete de Planeamento do Algarve todos os autos de medição pagos com o produto das transferências recebidas ao abrigo dos n.os 2 e 3 deste artigo, no prazo de oito dias seguintes ao seu pagamento.
 
-###### Art. 9.º - 1 - A distribuição por distritos da dotação ou dotações incluídas no orçamento de cada Ministério será revista no mês de Setembro do ano corrente, tendo em conta o nível de execução atingido em cada distrito.
+Art. 9.º - 1 - A distribuição por distritos da dotação ou dotações incluídas no orçamento de cada Ministério será revista no mês de Setembro do ano corrente, tendo em conta o nível de execução atingido em cada distrito.
 
 2 - A revisão a que se refere o número anterior será objecto de proposta dos Ministérios interessados e será submetida à aprovação do Ministro ou Ministros respectivos e do Ministro das Finanças e do Plano, devendo conter, no que se refere à dotação de viação rural da coluna 12 do quadro I, o reforço necessário ao pagamento das despesas com as obras que transitam de anos anteriores.
 
-###### Art. 10.º - 1 - A distribuição por concelhos, respeitados os montantes distritais estabelecidos, poderá ser ajustada, sempre que isso for oportuno, sob proposta das assembleias distritais, a aprovar pelo Ministro responsável pelos programas em que ocorram tais ajustamentos.
+Art. 10.º - 1 - A distribuição por concelhos, respeitados os montantes distritais estabelecidos, poderá ser ajustada, sempre que isso for oportuno, sob proposta das assembleias distritais, a aprovar pelo Ministro responsável pelos programas em que ocorram tais ajustamentos.
 
 2 - Sem prejuízo do disposto no número anterior e tendo em conta o nível de execução atingido, a capacidade de execução revelada pelos municípios, o grau de satisfação das necessidades básicas dos diversos concelhos e o volume de projectos disponíveis, a distribuição por concelhos da dotação atribuída a cada distrito poderá ser revista, no decurso dos meses de Setembro e Novembro do ano corrente, por iniciativa dos Ministérios interessados, que previamente obterão a participação dos municípios, designadamente através de apreciação dos projectos de revisão pelas assembleias distritais.
 
@@ -170,7 +196,7 @@ O Governo decreta, em cumprimento do artigo 4.º da [Lei n.º 20/78](https://dia
 
 ### CAPÍTULO II — Dotações para reforço da capacidade financeira dos municípios
 
-###### Art. 11.º - 1 - As dotações para reforço da capacidade financeira dos municípios, constantes da coluna 7 do quadro I anexo, serão canalizadas pelo Ministério da Administração Interna e destinadas a despesas de investimento.
+Art. 11.º - 1 - As dotações para reforço da capacidade financeira dos municípios, constantes da coluna 7 do quadro I anexo, serão canalizadas pelo Ministério da Administração Interna e destinadas a despesas de investimento.
 
 2 - As dotações a que se refere o número anterior serão objecto de planos de aplicação, dos quais deverão constar, pelo menos, a designação das obras ou acções a executar, a indicação sobre se estão em curso ou se vão iniciar-se em 1978 e o dispêndio previsto, em cada uma, no mesmo ano.
 
@@ -180,7 +206,7 @@ O Governo decreta, em cumprimento do artigo 4.º da [Lei n.º 20/78](https://dia
 
 5 - A aprovação técnica dos projectos referentes a obras incluídas nos planos a que se refere o n.º 2 deste artigo será da responsabilidade das entidades que para o efeito forem competentes nos termos da legislação especialmente aplicável.
 
-###### Art. 12.º - 1 - As verbas atribuídas a cada município serão transferidas para as câmaras municipais pelo Ministério da Administração Interna em três prestações.
+Art. 12.º - 1 - As verbas atribuídas a cada município serão transferidas para as câmaras municipais pelo Ministério da Administração Interna em três prestações.
 
 2 - A primeira transferência, no montante de 50% da verba global, é a correspondente à efectuada nos termos do [Decreto-Lei n.º 153/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1978-259213), de 22 de Junho.
 
@@ -190,52 +216,52 @@ O Governo decreta, em cumprimento do artigo 4.º da [Lei n.º 20/78](https://dia
 
 5 - A segunda e terceira transferências serão ajustadas na medida requerida pelo carácter provisório da primeira.
 
-###### Art. 13.º - 1 - Os planos de aplicação das dotações a que se refere o artigo 11.º poderão sofrer alterações devidamente fundamentadas em propostas das câmaras municipais, aprovadas pelas assembleias municipais.
+Art. 13.º - 1 - Os planos de aplicação das dotações a que se refere o artigo 11.º poderão sofrer alterações devidamente fundamentadas em propostas das câmaras municipais, aprovadas pelas assembleias municipais.
 
 2 - As câmaras municipais darão conhecimento à Direcção-Geral da Acção Regional, do Ministério da Administração Interna, das alterações a que se refere o número anterior, nos quinze dias seguintes à sua aprovação pelas assembleias municipais.
 
 3 - O Ministério da Administração Interna dará conhecimento ao Ministério das Finanças e do Plano e aos outros Ministérios directamente interessados de todas as alterações aprovadas nos termos dos números anteriores.
 
-###### Art. 14.º - 1 - A distribuição por municípios das dotações a que se refere o n.º 1 do artigo 11.º poderá ser revista no decurso do 3.º trimestre do ano corrente, por iniciativa dos Ministros das Finanças e do Plano e da Administração Interna, ouvidos os municípios interessados, com o objectivo de permitir o eventual aproveitamento de verbas não utilizadas.
+Art. 14.º - 1 - A distribuição por municípios das dotações a que se refere o n.º 1 do artigo 11.º poderá ser revista no decurso do 3.º trimestre do ano corrente, por iniciativa dos Ministros das Finanças e do Plano e da Administração Interna, ouvidos os municípios interessados, com o objectivo de permitir o eventual aproveitamento de verbas não utilizadas.
 
 2 - A revisão a que se refere o número anterior terá em conta as propostas de reforço, o grau de realização atingido nos diversos empreendimentos e a satisfação das necessidades sociais comunicados pelos municípios ao Ministério da Administração Interna.
 
 ## TÍTULO IV — Acompanhamento e «contrôle» de execução
 
-###### Art. 15.º O acompanhamento e contrôle da aplicação das dotações a que se refere o artigo 7.º será feito pelos Ministérios respectivos, no âmbito do sistema de acompanhamento e contrôle da execução do Plano de Investimentos e de Despesas de Desenvolvimento da Administração Pública para 1978 (PIDDAP/78).
+Art. 15.º O acompanhamento e contrôle da aplicação das dotações a que se refere o artigo 7.º será feito pelos Ministérios respectivos, no âmbito do sistema de acompanhamento e contrôle da execução do Plano de Investimentos e de Despesas de Desenvolvimento da Administração Pública para 1978 (PIDDAP/78).
 
-###### Art. 16.º O acompanhamento e contrôle da aplicação das verbas e dos planos a que se referem os n.os 1 e 2 do artigo 11.º terão por base os elementos informativos sobre a realização física e financeira dos empreendimentos, a definir em despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
+Art. 16.º O acompanhamento e contrôle da aplicação das verbas e dos planos a que se referem os n.os 1 e 2 do artigo 11.º terão por base os elementos informativos sobre a realização física e financeira dos empreendimentos, a definir em despacho conjunto dos Ministros das Finanças e do Plano e da Administração Interna.
 
-###### Art. 17.º O Ministério da Administração Interna fornecerá todo o apoio que for solicitado para o desenvolvimento das diligências a efectuar pelos Ministérios que ainda não tenham submetido a distribuição das verbas à apreciação dos municípios, com o objectivo de dar cumprimento ao disposto no artigo 2.º do presente diploma.
+Art. 17.º O Ministério da Administração Interna fornecerá todo o apoio que for solicitado para o desenvolvimento das diligências a efectuar pelos Ministérios que ainda não tenham submetido a distribuição das verbas à apreciação dos municípios, com o objectivo de dar cumprimento ao disposto no artigo 2.º do presente diploma.
 
-###### Art. 18.º - 1 - Por despacho conjunto dos Ministros competentes, a publicar nos trinta dias seguintes à entrada em vigor deste diploma, será estabelecida a delimitação do tipo de obras de viação rural, saneamento básico e equipamento rural e urbano, para as quais será dispensada a aprovação dos projectos referida no n.º 5 do artigo 11.º
+Art. 18.º - 1 - Por despacho conjunto dos Ministros competentes, a publicar nos trinta dias seguintes à entrada em vigor deste diploma, será estabelecida a delimitação do tipo de obras de viação rural, saneamento básico e equipamento rural e urbano, para as quais será dispensada a aprovação dos projectos referida no n.º 5 do artigo 11.º
 
 2 - O previsto no número anterior será igualmente aplicado às obras do mesmo tipo incluídas nos programas referidos no n.º 1 do artigo 8.º
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Jaime José Matos da Gama - Luís Silvério Gonçalves Saias - Carlos Montês Melancia - Basílio Adolfo Mendonça Horta da Franca - António Duarte Arnaut - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 7 de Julho de 1978.**
+Promulgado em 7 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO I
 
 Resumo distrital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf)
 
 QUADRO II
 
 Distribuição de subsídios às assembleias distritais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf)
 
 QUADRO III
 
 Distribuição do subsídio para pessoal aos serviços municipalizados, ao abrigo do [Decreto-Lei n.º 626/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1974-465453)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16501/00010017.pdf)
 
-**O Ministro das Finanças, Vítor Manuel Ribeiro Constâncio. - O Ministro da Administração Interna, Jaime José Matos da Gama. - O Ministro da Agricultura e Pescas, Luís Silvério Gonçalves Saias. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Assuntos Sociais, António Duarte Arnaut. - O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes.**
+O Ministro das Finanças, Vítor Manuel Ribeiro Constâncio. - O Ministro da Administração Interna, Jaime José Matos da Gama. - O Ministro da Agricultura e Pescas, Luís Silvério Gonçalves Saias. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Assuntos Sociais, António Duarte Arnaut. - O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/29800/16141614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-1974-468391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:36:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03b9cf0d364f128fa07fcb9c8b4c52d11f199afe3c03f7ac01348d361dd337e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e059f555f8f5f784eee74b613efd18d3ef3455b5a54c1e1d18840c0385ad1d14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:36:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA do POVO
+- Comissão Liquidatária
+- Extinção de Serviços
+- Federação das Casas do POVO
+- Fundo Comum das Casas do POVO
+- Junta Central das Casas do Povo
+- Transferência de Pessoal
+- Transferência de Verbas
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:666347:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:36:55Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +115,11 @@ Considerando finalmente que a função de representação profissional que lhes 
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São extintas as federações de Casas do Povo.
+Artigo 1.º - 1. São extintas as federações de Casas do Povo.
 
 2. A data efectiva da extinção não deverá ser posterior a 31 de Dezembro de 1974.
 
-###### Art. 2.º - 1. A Junta Central das Casas do Povo nomeará comissões liquidatárias das federações, às quais compete, designadamente:
+Art. 2.º - 1. A Junta Central das Casas do Povo nomeará comissões liquidatárias das federações, às quais compete, designadamente:
 
 a) Assegurar a gestão dos organismos até à sua extinção efectiva;
 
@@ -110,7 +129,7 @@ c) Propor à Junta Central as providências necessárias para efectivar a extin�
 
 2. A liquidação deverá estar concluída no prazo referido no n.º 2 do artigo anterior.
 
-###### Art. 3.º - 1. A extinção efectiva das federações implica a transferência para o Fundo Comum das Casas do Povo:
+Art. 3.º - 1. A extinção efectiva das federações implica a transferência para o Fundo Comum das Casas do Povo:
 
 a) Do seu activo e passivo, bem como valores e direitos, incluindo os emergentes de contratos de arrendamento;
 
@@ -122,20 +141,20 @@ b) Dos saldos de fundos existentes.
 
 4. Ao acto de transferência efectiva assistirá sempre um membro da Comissão Administrativa da Junta Central, ou um seu delegado para o efeito.
 
-###### Art. 4.º - 1. A partir da data da extinção das federações, as contribuições das Casas do Povo, fixadas com base na alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 443/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1970-666347), de 23 de Setembro, passam a constituir receitas do Fundo Comum das Casas do Povo.
+Art. 4.º - 1. A partir da data da extinção das federações, as contribuições das Casas do Povo, fixadas com base na alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 443/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1970-666347), de 23 de Setembro, passam a constituir receitas do Fundo Comum das Casas do Povo.
 
 2. Estas receitas poderão ser destinadas à manutenção de serviços distritais da Junta Central das Casas do Povo, serviços em cuja estrutura e funcionamento estas participarão em termos a determinar por despacho ministerial.
 
-###### Art. 5.º O pessoal das federações poderá ser colocado em serviços distritais da Junta Central ou em Casas do Povo, mantendo, nesse caso, os direitos e regalias anteriores.
+Art. 5.º O pessoal das federações poderá ser colocado em serviços distritais da Junta Central ou em Casas do Povo, mantendo, nesse caso, os direitos e regalias anteriores.
 
-###### Art. 6.º As dúvidas suscitadas na execução deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais.
+Art. 6.º As dúvidas suscitadas na execução deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 7.º Este decreto-lei entra imediatamente em vigor.
+Art. 7.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Maria de Lourdes Pintasilgo.
 
-**Promulgado em 12 de Dezembro de 1974.**
+Promulgado em 12 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

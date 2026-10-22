@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1970-225778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49fd700503785cc52d9d72068258a672dc240142379507a093f9fe50a0b8393d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a02aa29519beb4917c4168e25cde9866db2925d1701a903f003f2be0fc67505
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CASA da Lavoura
+- Cevada
+- Direcção Geral dos Serviços Agrícolas
+- Estação de Ensaio de Sementes
+- Estação Nacional de Melhoramento de Plantas
+- Indústria Cervejeira
+- Malte
+- Produção Agrícola
+relationships:
+- type: cites
+  target: pt:dre:323485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507871:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:54Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +107,25 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É fixado em $16 o quantitativo global dos encargos a satisfazer pelas malterias, em conformidade com o artigo 10.º do Decreto-Lei n.º 47745, de 2 de Junho de 1967, sobre cada quilograma de cevada dística que adquiram.
+Artigo 1.º - 1. É fixado em $16 o quantitativo global dos encargos a satisfazer pelas malterias, em conformidade com o artigo 10.º do Decreto-Lei n.º 47745, de 2 de Junho de 1967, sobre cada quilograma de cevada dística que adquiram.
 
 2. Do referido quantitativo global de encargos, $045 constituirão compensação da organização corporativa da lavoura e os restantes $115 destinar-se-ão, com idêntica finalidade, aos serviços agrícolas oficiais.
 
-###### Art. 2.º - 1. Da compensação respeitante às organizações da lavoura, destinam-se $04 aos grémios da lavoura das áreas da produção da cevada dística e $005 à Corporação da Lavoura.
+Art. 2.º - 1. Da compensação respeitante às organizações da lavoura, destinam-se $04 aos grémios da lavoura das áreas da produção da cevada dística e $005 à Corporação da Lavoura.
 
 2. Da parte destinada aos serviços agrícolas oficiais são atribuídos $02 à Direcção-Geral dos Serviços Agrícolas, dividindo-se os restantes $095 em duas partes iguais, que reverterão, cada uma delas, para a Estação de Melhoramento de Plantas e Estação de Ensaio de Sementes, respectivamente.
 
-###### Art. 3.º - 1. As quantias arrecadadas nos termos do artigo anterior e do § único do artigo 3.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, destinadas à Direcção-Geral dos Serviços Agrícolas, Estação de Melhoramento de Plantas e Estação de Ensaio de Sementes, darão entrada nos cofres do Tesouro e serão escrituradas em receita do Estado no capítulo «Consignações de receita», a fim de servirem de contrapartida às despesas a efectuar de conta das verbas «Participações em cobranças ou receitas» dos respectivos serviços e respeitantes à execução de trabalhos de melhoramento, ensaio, inspecção e classificação de cevada dística e de outras sementes seleccionadas.
+Art. 3.º - 1. As quantias arrecadadas nos termos do artigo anterior e do § único do artigo 3.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, destinadas à Direcção-Geral dos Serviços Agrícolas, Estação de Melhoramento de Plantas e Estação de Ensaio de Sementes, darão entrada nos cofres do Tesouro e serão escrituradas em receita do Estado no capítulo «Consignações de receita», a fim de servirem de contrapartida às despesas a efectuar de conta das verbas «Participações em cobranças ou receitas» dos respectivos serviços e respeitantes à execução de trabalhos de melhoramento, ensaio, inspecção e classificação de cevada dística e de outras sementes seleccionadas.
 
 2. Relativamente à Estação de Melhoramento de Plantas, a mecânica orçamental estabelecida no número anterior iniciar-se-á depois de findo o ano em curso, continuando, entretanto, as quantias àquela destinadas, nos termos do presente diploma e do § único do artigo 3.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), a ser aplicadas através da actual dotação descrita no orçamento do Ministério da Economia e destinada a «Despesas de instalação e manutenção de serviços da Estação de Melhoramento de Plantas, especialmente de multiplicação de sementes, nos termos do artigo 3.º do [Decreto-Lei n.º 46697](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46697-1965-507871), de 4 de Dezembro de 1965», cujos encargos, a partir de 1971, passam a ser suportados pela respectiva verba «Participações em cobranças ou receitas».
 
-###### Art. 4.º É revogado o artigo 11.º do Decreto-Lei n.º 47745, de 2 de Junho de 1967.
+Art. 4.º É revogado o artigo 11.º do Decreto-Lei n.º 47745, de 2 de Junho de 1967.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 23 de Março de 1970**
+Promulgado em 23 de Março de 1970
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

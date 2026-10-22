@@ -46,40 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:37:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79c96307b03f5918324243048d7d194f3289762448c099434de23f062f37d829
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80a1c8ece13fdf31472bc07be897db4228ee3a8b7c2a95eca58312c2162f64a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Militar
+- Oficial do Quadro Permanente
+- Quadro de Pessoal
+- Quadro Permanente das Forças Armadas
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:185277:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:37:31Z'
   warnings: []
   errors: []
 ---
@@ -90,31 +96,31 @@ Reconhecendo-se a necessidade de organizar forças de desembarque para assegurar
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os efectivos do pessoal da Armada, fixados nos Decretos-Leis n.os 42045 e 43515, de, respectivamente, 23 de Dezembro de 1958 e 24 de Fevereiro de 1961, são aumentados com os seguintes quantitativos:
+Artigo 1.º Os efectivos do pessoal da Armada, fixados nos Decretos-Leis n.os 42045 e 43515, de, respectivamente, 23 de Dezembro de 1958 e 24 de Fevereiro de 1961, são aumentados com os seguintes quantitativos:
 
 Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/07/15100/07930794.pdf))](https://files.diariodarepublica.pt/1s/1961/07/15100/07930794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/15100/07930794.pdf)
 
 Sargentos e praças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/07/15100/07930794.pdf))](https://files.diariodarepublica.pt/1s/1961/07/15100/07930794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/15100/07930794.pdf)
 
 § único. Os aumentos de efectivos a que se refere o corpo deste artigo serão realizados gradualmente, mediante despacho do Ministro da Marinha, à medida que for possível recrutar e organizar as forças de desembarque.
 
-###### Art. 2.º Enquanto os novos quadros de sargentos e praças da classe de fuzileiros não forem completamente preenchidos é autorizado o Ministro da Marinha a regular, por portaria, as condições de ingresso e de promoção na mesma classe, incluindo a transferência de pessoal de outras classes da Armada para a classe de fuzileiros, a readmissão de reservistas no serviço activo e a dispensa de todas as condições especiais de promoção em qualquer posto.
+Art. 2.º Enquanto os novos quadros de sargentos e praças da classe de fuzileiros não forem completamente preenchidos é autorizado o Ministro da Marinha a regular, por portaria, as condições de ingresso e de promoção na mesma classe, incluindo a transferência de pessoal de outras classes da Armada para a classe de fuzileiros, a readmissão de reservistas no serviço activo e a dispensa de todas as condições especiais de promoção em qualquer posto.
 
-###### Art. 3.º O pessoal das forças de desembarque que venha a ser atribuído aos comandos navais e de defesas marítimas do ultramar continua a preencher lugar nos respectivos quadros, mantendo-se, assim, em situação idêntica à do pessoal das guarnições dos navios atribuídos, sem carácter permanente, aos mesmos comandos.
+Art. 3.º O pessoal das forças de desembarque que venha a ser atribuído aos comandos navais e de defesas marítimas do ultramar continua a preencher lugar nos respectivos quadros, mantendo-se, assim, em situação idêntica à do pessoal das guarnições dos navios atribuídos, sem carácter permanente, aos mesmos comandos.
 
 § único. O pessoal das referidas forças tem direito a vencimentos e regalias idênticas às fixadas para o pessoal dos comandos navais e de defesas marítimas do ultramar.
 
-###### Art. 4.º Todas as despesas a realizar com as forças de desembarque atribuídas aos comandos navais e de defesas marítimas do ultramar, com excepção das respeitantes a soldos e exercício, ordenados ou prés e exercício e auxílio para fardamento, constituirão encargo da verba inscrita no Orçamento Geral do Estado em «Encargos gerais da Nação - Despesa extraordinária - Defesa nacional - Forças militares extraordinárias no ultramar».
+Art. 4.º Todas as despesas a realizar com as forças de desembarque atribuídas aos comandos navais e de defesas marítimas do ultramar, com excepção das respeitantes a soldos e exercício, ordenados ou prés e exercício e auxílio para fardamento, constituirão encargo da verba inscrita no Orçamento Geral do Estado em «Encargos gerais da Nação - Despesa extraordinária - Defesa nacional - Forças militares extraordinárias no ultramar».
 
 § 1. Os soldos e exercício e os ordenados ou prés e exercício substituem, na execução do disposto no § único do artigo anterior, os vencimentos-base e, juntamente com o auxílio para fardamento, constituem encargo do orçamento ordinário do Ministério da Marinha.
 
 § 2.º No ano corrente os encargos com vencimentos derivados das disposições do presente diploma que devam ser suportados pelo orçamento ordinário do Ministério da Marinha serão satisfeitos pelas disponibilidades das verbas daquele orçamento inscritas no capítulo 3.º, artigo 24.º, n.º 1), alínea a), e no capítulo 3.º, artigo 44.º, n.º 1), alínea a), conforme se trate, respectivamente, de oficiais ou de sargentos e praças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

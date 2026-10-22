@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49416-1969-217089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2a95002efc4fdec23bb71898f986dcfb3211e3a049f18e69d24bbdddc09690f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d674323f5b39a4f17f5735a38add38b6378898d1ee2708f5582dfdff302535a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:173970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:33Z'
   warnings: []
   errors: []
 ---
@@ -101,35 +109,35 @@ Por motivo de urgência, ao abrigo do preceituado no § 1.º do artigo 150.º da
 
 Usando da faculdade conferida no n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São extintos:
+Artigo 1.º São extintos:
 
 1) Os fundos de fomento algodoeiro, criados pelo artigo 32.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), de 24 de Agosto de 1961;
 
 2) O Fundo de Fomento Orizícola, criado na província de Moçambique pelo Diploma Legislativo Ministerial n.º 2, de 9 de Outubro de 1961.
 
-###### Art. 2.º As atribuições dos fundos de fomento algodoeiro, definidas no artigo 35.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), passam para os Institutos do Algodão de Angola e de Moçambique.
+Art. 2.º As atribuições dos fundos de fomento algodoeiro, definidas no artigo 35.º do [Decreto n.º 43875](https://diariodarepublica.pt/dr/detalhe/decreto/43875-1961-173970), passam para os Institutos do Algodão de Angola e de Moçambique.
 
-###### Art. 3.º As atribuições do Fundo de Fomento Orizícola, definidas no artigo 1.º do Diploma Legislativo Ministerial de Moçambique n.º 2, passam para o Instituto dos Cereais de Moçambique.
+Art. 3.º As atribuições do Fundo de Fomento Orizícola, definidas no artigo 1.º do Diploma Legislativo Ministerial de Moçambique n.º 2, passam para o Instituto dos Cereais de Moçambique.
 
-###### Art. 4.º Transitam para os respectivos institutos o activo e o passivo dos fundos existentes na data da extinção destes.
+Art. 4.º Transitam para os respectivos institutos o activo e o passivo dos fundos existentes na data da extinção destes.
 
-###### Art. 5.º Passam a constituir receitas dos Institutos do Algodão de Angola e de Moçambique e dos Cereais de Moçambique as que são actualmente previstas para os fundos de fomento algodoeiro e Fundo de Fomento Orizícola, bem como os subsídios atribuídos aos mesmos fundos.
+Art. 5.º Passam a constituir receitas dos Institutos do Algodão de Angola e de Moçambique e dos Cereais de Moçambique as que são actualmente previstas para os fundos de fomento algodoeiro e Fundo de Fomento Orizícola, bem como os subsídios atribuídos aos mesmos fundos.
 
-###### Art. 6.º - 1. Relativamente aos institutos do algodão, continuarão a ser fixadas anualmente, por portaria do governador-geral, ouvido o conselho económico e social respectivo, as taxas que constituíam receitas dos fundos ora extintos.
+Art. 6.º - 1. Relativamente aos institutos do algodão, continuarão a ser fixadas anualmente, por portaria do governador-geral, ouvido o conselho económico e social respectivo, as taxas que constituíam receitas dos fundos ora extintos.
 
 2. Quanto às taxas que eram receita do Fundo de Fomento Orizícola, continuarão a ser cobradas como receita do Instituto dos Cereais de Moçambique.
 
 3. Só por meio do diploma legislativo poderão ser criadas novas taxas.
 
-###### Art. 7.º A cobrança da receita a que se refere o artigo 47.º do Diploma Legislativo de Moçambique n.º 2119, de 2 de Setembro de 1961, com a redacção dada pelo artigo 1.º do Diploma Legislativo n.º 2236, de 16 de Maio de 1962, deixará de ser efectuada pelas repartições de Fazenda, passando a sê-lo directamente pelo Instituto dos Cereais de Moçambique e suas dependências, por meio de guia de receita usada no mesmo Instituto.
+Art. 7.º A cobrança da receita a que se refere o artigo 47.º do Diploma Legislativo de Moçambique n.º 2119, de 2 de Setembro de 1961, com a redacção dada pelo artigo 1.º do Diploma Legislativo n.º 2236, de 16 de Maio de 1962, deixará de ser efectuada pelas repartições de Fazenda, passando a sê-lo directamente pelo Instituto dos Cereais de Moçambique e suas dependências, por meio de guia de receita usada no mesmo Instituto.
 
-###### Art. 8.º O presente diploma entra em vigor no dia 1 de Janeiro de 1970.
+Art. 8.º O presente diploma entra em vigor no dia 1 de Janeiro de 1970.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Novembro de 1969.**
+Promulgado em 11 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

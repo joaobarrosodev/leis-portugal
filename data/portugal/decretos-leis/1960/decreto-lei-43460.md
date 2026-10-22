@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43460-1960-479899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27d39f2f6649dcd8be9071ceccb38e1f782ba75bf8289f98fa199148c2477523
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13c77ede606bb463dcb82914267926b1b980d0786c2e4fcdd32549e9ce50bc57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Advogado
+- Código de Processo Penal
+- Estatuto Judiciário
+- Ordem dos Advogados
+- Processo Penal
+relationships:
+- type: cites
+  target: pt:dre:330457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605115:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:35:21Z'
   warnings: []
   errors: []
 ---
@@ -86,25 +103,25 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os capítulos I e II do título único da parte IV do Estatuto Judiciário passam a ter a redacção seguinte:
+Artigo 1.º Os capítulos I e II do título único da parte IV do Estatuto Judiciário passam a ter a redacção seguinte:
 
-# PARTE IV — Do mandato judiciai
+## PARTE IV — Do mandato judiciai
 
 ## TÍTULO ÚNICO — Do mandato judicial
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 513.º O mandato judicial só pode ser exercido por advogados e candidatos à advocacia, inscritos na respectiva Ordem, e por solicitadores.
+Art. 513.º O mandato judicial só pode ser exercido por advogados e candidatos à advocacia, inscritos na respectiva Ordem, e por solicitadores.
 
 § único. Os actuais advogados de provisão não serão inscritos na Ordem dos Advogados, mais poderão continuar a exercer a advocacia dentro dos limites da circunscrição judicial para que a provisão lhes foi concedida, se à data deste diploma as suas provisões estiverem registadas na secretaria da Ordem. No desempenho do mandato ficam sujeitos, na parte aplicável, aos deveres próprios do ministério do advogado e à jurisdição disciplinar da Ordem, e, quando para tal haja motivo, pode ser-lhes cassada a licença por decisão do conselho superior da Ordem dos Advogados, precedendo proposta do conselho geral.
 
 De futuro, nenhuma provisão será concedida.
 
-###### Art. 514.º Fica proibido aos notários lavrar ou reconhecer procurações forenses ou substabelecimentos das que forem feitas no País ou no estrangeiro quando os nomeados ou substabelecidos não forem advogados ou candidatos, advogados de provisão ou solicitadores, ou quando lhes não for imposta a obrigação de substabelecer naqueles os poderes forenses.
+Art. 514.º Fica proibido aos notários lavrar ou reconhecer procurações forenses ou substabelecimentos das que forem feitas no País ou no estrangeiro quando os nomeados ou substabelecidos não forem advogados ou candidatos, advogados de provisão ou solicitadores, ou quando lhes não for imposta a obrigação de substabelecer naqueles os poderes forenses.
 
 A transgressão do disposto neste artigo será punida com a multa de 100$00 a 1000$00.
 
-###### Art. 515.º É proibido o funcionamento de escritórios de procuradoria judicial ou similares, ainda que sob a direcção de advogado ou solicitador.
+Art. 515.º É proibido o funcionamento de escritórios de procuradoria judicial ou similares, ainda que sob a direcção de advogado ou solicitador.
 
 § 1.º A transgressão do preceituado neste artigo sujeita a pessoa ou pessoas que dirijam o escritório, os advogados ou solicitadores que nele trabalhem e os que facultem o local para aqueles fins à sanção prevista no artigo 525.º deste estatuto e determina o encerramento do escritório pela autoridade policial, a requerimento do conselho distrital da Ordem dos Advogados.
 
@@ -118,13 +135,13 @@ A transgressão do disposto neste artigo será punida com a multa de 100$00 a 10
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 516.º A corporação dos diplomados em Direito que, de conformidade com os preceitos deste estatuto e mais disposições legais aplicáveis, se dedicam ao exercício da advocacia no continente e arquipélagos dos Açores e Madeira denomina-se Ordem dos Advogados e tem a sua sede em Lisboa.
+Art. 516.º A corporação dos diplomados em Direito que, de conformidade com os preceitos deste estatuto e mais disposições legais aplicáveis, se dedicam ao exercício da advocacia no continente e arquipélagos dos Açores e Madeira denomina-se Ordem dos Advogados e tem a sua sede em Lisboa.
 
 § único. Será oportunamente determinada por diploma especial a extensão da Ordem dos Advogados às províncias ultramarinas.
 
-###### Art. 517.º A Ordem dos Advogados, como colaboradora da função judicial, está sujeita ao Ministro da Justiça para os fins do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457), de 23 de Setembro de 1933, e legislação correlativa.
+Art. 517.º A Ordem dos Advogados, como colaboradora da função judicial, está sujeita ao Ministro da Justiça para os fins do [Decreto-Lei n.º 23050](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23050-1933-330457), de 23 de Setembro de 1933, e legislação correlativa.
 
-###### Art. 518.º A Ordem tem por fim:
+Art. 518.º A Ordem tem por fim:
 
 1.º Auxiliar a administração da justiça;
 
@@ -138,7 +155,7 @@ A transgressão do disposto neste artigo será punida com a multa de 100$00 a 10
 
 § único. A previdência social dos advogados é realizada pela Caixa de Previdência da Ordem dos Advogados, nos termos das disposições legais e regulamentares aplicáveis.
 
-###### Art. 519.º A Ordem dos Advogados goza de personalidade jurídica e pode exercer todos os direitos respeitantes a interesses legítimos do seu instituto.
+Art. 519.º A Ordem dos Advogados goza de personalidade jurídica e pode exercer todos os direitos respeitantes a interesses legítimos do seu instituto.
 
 § 1.º Para a defesa dos seus membros em todos os assuntos relativos ao desempenho das respectivas funções, quer se trate de responsabilidades que lhes sejam exigidas, quer de ofensas contra eles praticadas, pode a Ordem exercer os direitos de assistente em processos cíveis ou conceder patrocínio aos advogados, em processos penais.
 
@@ -148,7 +165,7 @@ A transgressão do disposto neste artigo será punida com a multa de 100$00 a 10
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 520.º Só os advogados e candidatos à advocacia com inscrição em vigor poderão exercer as respectivas profissões.
+Art. 520.º Só os advogados e candidatos à advocacia com inscrição em vigor poderão exercer as respectivas profissões.
 
 § 1.º A inscrição deve ser feita tanto no conselho distrital competente como no conselho geral. Ao interessado será entregue a respectiva cédula profissional.
 
@@ -176,7 +193,7 @@ e) Os que exerçam funções públicas legalmente incompatíveis com a advocacia
 
 § 8.º Não pode denominar-se advogado quem como tal não estiver inscrito, salvo os advogados honorários e os provisionários, desde que seguidadamente à denominação de advogado façam a indicação da respectiva qualidade ou situação.
 
-###### Art. 521.º O quadro geral da Ordem será organizado:
+Art. 521.º O quadro geral da Ordem será organizado:
 
 1.º Com os advogados constantes das listas que foram publicadas no Diário do Governo, por ordem da sua antiguidade, reportada à data da formatura ou licenciatura em Direito por qualquer das Universidades de Coimbra ou Lisboa;
 
@@ -188,7 +205,7 @@ Para a inscrição deverá o interessado apresentar certidão de nascimento e ca
 
 § 2.º A Ordem dos Advogados remeterá à Direcção-Geral da Justiça, mensalmente, nota das novas inscrições e dos cancelamentos efectuados e bem assim a indicação dos advogados que possuam ou adquiram capacidade para advogar junto do Supremo Tribunal de Justiça, a fim de manter actualizado o registo do quadro geral da Ordem.
 
-###### Art. 522.º A inscrição rege-se por este estatuto e regulamentos respectivos e será pedida ao conselho do distrito forense em que o advogado ou candidato pretenda ter domicílio para o exercício da profissão ou para fazer tirocínio.
+Art. 522.º A inscrição rege-se por este estatuto e regulamentos respectivos e será pedida ao conselho do distrito forense em que o advogado ou candidato pretenda ter domicílio para o exercício da profissão ou para fazer tirocínio.
 
 § 1.º O requerimento deve ser acompanhado dos documentos comprovativos das habilitações exigidas, nos termos do § 1.º do artigo 521.º, do certificado do registo criminal e de dois boletins preenchidos nos termos regulamentares, assinados pelos interessados e acompanhados de três fotografias, das quais uma se destinará à cédula e as restantes aos boletins.
 
@@ -198,25 +215,25 @@ Apresentado o requerimento, o presidente do conselho distrital designará um dos
 
 § 3.º A Direcção-Geral da Justiça remeterá à Ordem dos Advogados cópia das decisões judiciais transitadas em julgado que afectem a capacidade civil ou a capacidade de exercício da profissão. A Ordem dos Advogados enviará à Direcção-Geral da Justiça cópia das decisões disciplinares, de maneira que possa manter-se sempre actualizado o respectivo registo, completando-o com as decisões judiciais que afectem a capacidade de exercício da profissão.
 
-###### Art. 523.º A inscrição dos advogados e dos candidatos à advocacia no registo da Ordem conterá o nome por inteiro, com anotação do nome abreviado, se também dele usarem.
+Art. 523.º A inscrição dos advogados e dos candidatos à advocacia no registo da Ordem conterá o nome por inteiro, com anotação do nome abreviado, se também dele usarem.
 
 Poderão os advogados assinar um ou outro, indistintamente, em todos os papéis, inclusive nos requerimentos para começo de acção, nas contestações ou em quaisquer outros articulados.
 
-###### Art. 524.º Os que transgredirem o preceito do artigo 520.º serão, sem prejuízo do disposto no artigo 525.º e seu parágrafo, excluídos por despacho do juiz ou do tribunal, proferindo a reclamação dos conselhos ou delegações da Ordem, a requerimento dos interessados ou oficiosamente. Deverá o juiz, a seu prudente arbítrio, no respectivo despacho, acautelar contra dano irreparável os legítimos interesses das partes.
+Art. 524.º Os que transgredirem o preceito do artigo 520.º serão, sem prejuízo do disposto no artigo 525.º e seu parágrafo, excluídos por despacho do juiz ou do tribunal, proferindo a reclamação dos conselhos ou delegações da Ordem, a requerimento dos interessados ou oficiosamente. Deverá o juiz, a seu prudente arbítrio, no respectivo despacho, acautelar contra dano irreparável os legítimos interesses das partes.
 
 § único. Se a hipótese prevista neste artigo se der na pendência da lide, o transgressor será inibido de nela continuar a intervir e desde logo o juiz nomeará advogado oficioso que represente os interessados, até que estes provejam dentro do prazo que lhes for marcado, sob pena de, findo o prazo, cessar de pleno direito a nomeação, suspendendo-se a instância ou seguindo a causa à revelia.
 
-###### Art. 525.º Todos aqueles que exercerem funções ou praticarem quaisquer actos da profissão de advogado sem estarem inscritos no registo da Ordem, sem provisão ou nomeação judicial, incorrerão na pena do § 2.º do artigo 236.º do Código Penal.
+Art. 525.º Todos aqueles que exercerem funções ou praticarem quaisquer actos da profissão de advogado sem estarem inscritos no registo da Ordem, sem provisão ou nomeação judicial, incorrerão na pena do § 2.º do artigo 236.º do Código Penal.
 
 § único. Na mesma pena incorrerão os que praticarem actos próprios da profissão quando estejam inibidos do seu exercício por virtude de decisão criminal ou disciplinar ou em consequência de suspensão ou cancelamento da inscrição respectiva por qualquer outro motivo.
 
 ##### SUBSECÇÃO II — Da inscrição como candidato à advocacia
 
-###### Art. 526.º Para ser inscrito como candidato à advocacia deverá o interessado apresentar certidão do registo de nascimento, carta de licenciatura, em original ou pública-forma, ou, na falta de carta, documento comprovativo de que esta foi requerida e está em condições de ser expedida, certificado do registo criminal, bilhete de identidade e três fotografias do formato e com as demais características exigidas para os bilhetes de identidade.
+Art. 526.º Para ser inscrito como candidato à advocacia deverá o interessado apresentar certidão do registo de nascimento, carta de licenciatura, em original ou pública-forma, ou, na falta de carta, documento comprovativo de que esta foi requerida e está em condições de ser expedida, certificado do registo criminal, bilhete de identidade e três fotografias do formato e com as demais características exigidas para os bilhetes de identidade.
 
 § único. Quanto a esta inscrição observar-se-á, na parte aplicável, o disposto no artigo 522.º e seus §§ 1.º e 2.º
 
-###### Art. 527.º O candidato que tiver obtido a inscrição é obrigado a fazer tirocínio de dezoito meses, sob a direcção superior de advogado com dez anos, pelo menos, de antiguidade profissional.
+Art. 527.º O candidato que tiver obtido a inscrição é obrigado a fazer tirocínio de dezoito meses, sob a direcção superior de advogado com dez anos, pelo menos, de antiguidade profissional.
 
 § 1.º O tirocínio, que começará a contar-se da data da respectiva inscrição, tem por fim familiarizar o candidato com os actos e termos mais usuais da prática forense, e bem assim inteira-lo dos direitos e deveres dos advogados, com o fim de lhe desenvolver cumulativamente o espírito jurídico e o espírito da corporação.
 
@@ -248,7 +265,7 @@ Cinco faltas não justificadas ao estágio no tribunal ou às sessões da confer
 
 § 6.º Os licenciados em Ciências Jurídicas ou em Ciências Político-Económicas segundo o [Decreto n.º 16044](https://diariodarepublica.pt/dr/detalhe/decreto/16044-1928-605115), de 16 de Outubro de 1928, gozarão das regalias atribuídas aos respectivos cursos complementares nos termos do artigo 15.º do [Decreto-Lei n.º 34850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34850-1945-521831), de 21 de Agosto de 1945, desde que tenham concluído o curso com a classificação mínima de 16 valores ou tenham obtido no bacharelato a informação final mínima de 14 valores e a mesma classificação mínima na licenciatura, e serão dispensados de metade do tempo de estágio.
 
-###### Art. 528.º Durante o primeiro terço do tirocínio o candidato não poderá praticar actos próprios das profissões de advogado ou de solicitador judicial senão em causa própria ou do seu cônjuge, ascendentes ou descendentes.
+Art. 528.º Durante o primeiro terço do tirocínio o candidato não poderá praticar actos próprios das profissões de advogado ou de solicitador judicial senão em causa própria ou do seu cônjuge, ascendentes ou descendentes.
 
 § 1.º Decorrido que seja o primeiro terço do tirocínio, o candidato poderá exercer quaisquer actos da competência dos solicitadores e bem assim exercer a advocacia:
 
@@ -262,7 +279,7 @@ Cinco faltas não justificadas ao estágio no tribunal ou às sessões da confer
 
 ##### SUBSECÇÃO III — Da inscrição como advogado - Seu condicionamento
 
-###### Art. 529.º A inscrição como advogado depende do tirocínio com boa informação. O serviço prestado nos tribunais e a assistência às sessões da conferência preparatória provam-se pelas rubricas dos juízes e dos presidentes da conferência nos impressos referidos nos §§ 3.º e 4.º do artigo 527.º
+Art. 529.º A inscrição como advogado depende do tirocínio com boa informação. O serviço prestado nos tribunais e a assistência às sessões da conferência preparatória provam-se pelas rubricas dos juízes e dos presidentes da conferência nos impressos referidos nos §§ 3.º e 4.º do artigo 527.º
 
 A informação sobre o tirocínio será prestada pelo respectivo patrono.
 
@@ -278,25 +295,25 @@ A informação sobre o tirocínio será prestada pelo respectivo patrono.
 
 5.º Os advogados com mais de dezoito meses de exercício da profissão no ultramar, com boa informação.
 
-###### Art. 530.º Quando seja dispensada a inscrição como candidato, observar-se-á, na parte aplicável, o disposto no artigo 522.º e seus parágrafos.
+Art. 530.º Quando seja dispensada a inscrição como candidato, observar-se-á, na parte aplicável, o disposto no artigo 522.º e seus parágrafos.
 
 § único. Quando tenha havido inscrição como candidato e depois de este ter concluído o tirocínio, o requerimento para a inscrição como advogado será acompanhado da cédula de candidato, do impresso com a indicação, devidamente rubricada, tanto dos dias de estágio no tribunal, como dos processos em que interveio, e dos boletins e fotografias nos termos do artigo 522.º e seus parágrafos.
 
-###### Art. 531.º A inscrição como advogado feita ou mantida indevidamente, por contrária aos requisitos indicados no § 2.º do artigo 520.º, será cancelada pelo conselho geral.
+Art. 531.º A inscrição como advogado feita ou mantida indevidamente, por contrária aos requisitos indicados no § 2.º do artigo 520.º, será cancelada pelo conselho geral.
 
-###### Art. 532.º Para advogar junto do Supremo Tribunal de Justiça é necessário ter dez anos de exercício da advocacia. Este prazo é reduzido a cinco anos para os licenciados com a informação final mínima de 16 valores.
+Art. 532.º Para advogar junto do Supremo Tribunal de Justiça é necessário ter dez anos de exercício da advocacia. Este prazo é reduzido a cinco anos para os licenciados com a informação final mínima de 16 valores.
 
 O tempo de serviço dos magistrados referidos no § único, n.º 2.º, do artigo 529.º vale, para este efeito, como exercício da advocacia.
 
 Os professores e antigos professores das Faculdades de Direito e os doutores em Direito poderão advogar junto do Supremo Tribunal de Justiça, qualquer que seja o seu tempo de exercício da advocacia.
 
-###### Art. 533.º Os estrangeiros diplomados por qualquer Faculdade de Direito de Portugal poderão exercer a advocacia nos mesmos termos dos portugueses, se o seu país conceder igual regalia a estes últimos ou assim se estabelecer em convenção.
+Art. 533.º Os estrangeiros diplomados por qualquer Faculdade de Direito de Portugal poderão exercer a advocacia nos mesmos termos dos portugueses, se o seu país conceder igual regalia a estes últimos ou assim se estabelecer em convenção.
 
-###### Art. 534.º Os advogados brasileiros diplomados por qualquer Faculdade de Direito do Brasil ou de Portugal poderão advogar em Portugal em regime de reciprocidade.
+Art. 534.º Os advogados brasileiros diplomados por qualquer Faculdade de Direito do Brasil ou de Portugal poderão advogar em Portugal em regime de reciprocidade.
 
 ##### SUBSECÇÃO IV — Da cédula profissional
 
-###### Art. 535.º Aos inscritos na Ordem dos Advogados será entregue uma cédula profissional, do modelo anexo a este estatuto, para prova da inscrição na Ordem, como advogado ou como candidato, e condição do exercício dos respectivos direitos.
+Art. 535.º Aos inscritos na Ordem dos Advogados será entregue uma cédula profissional, do modelo anexo a este estatuto, para prova da inscrição na Ordem, como advogado ou como candidato, e condição do exercício dos respectivos direitos.
 
 Relativamente aos que puderem advogar junto do Supremo Tribunal de Justiça, inscreve-se, por averbamento, a respectiva declaração.
 
@@ -312,9 +329,9 @@ Relativamente aos que puderem advogar junto do Supremo Tribunal de Justiça, ins
 
 #### SECÇÃO III — Da conferência
 
-###### Art. 536.º A conferência é um instituto que tem por fim o estudo e debate, na sede de cada conselho distrital ou delegação, dos problemas jurídicos e sociais conexos com a profissão de advogado e, bem assim, da técnica e deontologia profissionais.
+Art. 536.º A conferência é um instituto que tem por fim o estudo e debate, na sede de cada conselho distrital ou delegação, dos problemas jurídicos e sociais conexos com a profissão de advogado e, bem assim, da técnica e deontologia profissionais.
 
-###### Art. 537.º A conferência realiza os seus fins promovendo:
+Art. 537.º A conferência realiza os seus fins promovendo:
 
 1.º Sessões periódicas de estudo e discussão;
 
@@ -322,15 +339,15 @@ Relativamente aos que puderem advogar junto do Supremo Tribunal de Justiça, ins
 
 § único. A conferência do estágio a que se refere o artigo 540.º e a conferência regulada nesta secção podem funcionar conjuntamente quando a natureza dos trabalhos permitir a satisfação das finalidades de uma e outra.
 
-###### Art. 538.º A conferência é dirigida por uma comissão constituída, em Lisboa, pelo presidente da Ordem e os vogais que ele designar; nas sedes dos outros distritos forenses, a presidência da comissão será exercida pelos presidentes dos conselhos distritais e, nas comarcas restantes, pelos presidentes das delegações ou pelos delegados. O número de vogais não excederá seis em Lisboa, nem quatro nas sedes dos outros distritos ou comarcas.
+Art. 538.º A conferência é dirigida por uma comissão constituída, em Lisboa, pelo presidente da Ordem e os vogais que ele designar; nas sedes dos outros distritos forenses, a presidência da comissão será exercida pelos presidentes dos conselhos distritais e, nas comarcas restantes, pelos presidentes das delegações ou pelos delegados. O número de vogais não excederá seis em Lisboa, nem quatro nas sedes dos outros distritos ou comarcas.
 
-###### Art. 539.º Pode o conselho geral instituir cursos práticos de Direito.
+Art. 539.º Pode o conselho geral instituir cursos práticos de Direito.
 
 § 1.º Os cursos que se abram em Lisboa serão dirigidos por uma comissão constituída pelo presidente da Ordem, pelo presidente do conselho distrital e pelos vogais que estes designarem.
 
 § 2.º Nas sedes dos outros conselhos distritais os cursos práticos serão dirigidos pelo presidente e por dois vogais do conselho distrital por este escolhidos.
 
-###### Art. 540.º Na sede de cada distrito forense haverá uma conferência preparatória destinada a tirocínio dos candidatos e dirigida pelo presidente do conselho distrital respectivo, que será auxiliado por dois ou mais advogados por ele escolhidos.
+Art. 540.º Na sede de cada distrito forense haverá uma conferência preparatória destinada a tirocínio dos candidatos e dirigida pelo presidente do conselho distrital respectivo, que será auxiliado por dois ou mais advogados por ele escolhidos.
 
 § 1.º Na conferência serão feitas prelecções e práticas pelo presidente ou por advogados que para esse efeito sejam convidados.
 
@@ -342,21 +359,21 @@ Relativamente aos que puderem advogar junto do Supremo Tribunal de Justiça, ins
 
 #### SECÇÃO IV — Dos deveres e direitos dos advogados
 
-###### Art. 541.º O advogado deve, no exercício da sua profissão e fora dela, considerar-se um servidor do direito e, como tal, mostrar-se digno da honra e das responsabilidades que essa qualidade lhe atribui.
+Art. 541.º O advogado deve, no exercício da sua profissão e fora dela, considerar-se um servidor do direito e, como tal, mostrar-se digno da honra e das responsabilidades que essa qualidade lhe atribui.
 
 Cumprirá pontual e escrupulosamente os deveres enumerados neste estatuto e todos aqueles que as leis, usos, costumes e tradições lhe impõem para com a magistratura, os seus colegas e clientes, inspirando-se sempre na ideia de que colabora em uma alta função social.
 
-###### Art. 542.º É proibido ao advogado qualquer espécie de reclamo por via de circulares, anúncios nos jornais e outras formas de publicidade, bem como o agenciamento de clientes, por si ou por interposta pessoa.
+Art. 542.º É proibido ao advogado qualquer espécie de reclamo por via de circulares, anúncios nos jornais e outras formas de publicidade, bem como o agenciamento de clientes, por si ou por interposta pessoa.
 
 § 1.º Nas notícias dos jornais referentes a causas judiciais, seus julgamentos e recursos, apenas é permitida a simples enunciação dos nomes dos advogados.
 
 § 2.º Não se considera publicidade proibida a tabuleta ou anúncios nos jornais com a simples menção do nome do advogado, endereço do seu escritório e indicação das horas de expediente.
 
-###### Art. 543.º O advogado não deverá visitar os presos que o não chamem.
+Art. 543.º O advogado não deverá visitar os presos que o não chamem.
 
-###### Art. 544.º O advogado deve recusar o seu patrocínio a toda a causa que não considere justa.
+Art. 544.º O advogado deve recusar o seu patrocínio a toda a causa que não considere justa.
 
-###### Art. 545.º São de um modo geral faltas disciplinares os actos praticados no exercício da advocacia com menosprezo das leis, os actos de deslealdade para com os clientes, de desrespeito para com os tribunais e de falta de correcção para com a Ordem ou os colegas.
+Art. 545.º São de um modo geral faltas disciplinares os actos praticados no exercício da advocacia com menosprezo das leis, os actos de deslealdade para com os clientes, de desrespeito para com os tribunais e de falta de correcção para com a Ordem ou os colegas.
 
 Constituem em especial faltas disciplinares dos advogados:
 
@@ -388,23 +405,23 @@ Constituem em especial faltas disciplinares dos advogados:
 
 14.º Assinar pareceres, articulados, minutas e alegações que não tenham feito ou em que não hajam colaborado.
 
-###### Art. 546.º É obrigatório para o advogado e para o candidato, quando pleiteiem oralmente, o uso da toga, cujo modelo, bem como qualquer outro acessório do trajo profissional, será o fixado pelo conselho geral.
+Art. 546.º É obrigatório para o advogado e para o candidato, quando pleiteiem oralmente, o uso da toga, cujo modelo, bem como qualquer outro acessório do trajo profissional, será o fixado pelo conselho geral.
 
-###### Art. 547.º Nas relações entre si os advogados deverão proceder sempre com toda a correcção e lealdade, abstendo-se de qualquer ataque pessoal ou alusão deprimente.
+Art. 547.º Nas relações entre si os advogados deverão proceder sempre com toda a correcção e lealdade, abstendo-se de qualquer ataque pessoal ou alusão deprimente.
 
 § 1.º O advogado a quem se pretenda cometer assuntos confiados até então a outro advogado fará tudo quanto de si dependa para que ele seja embolsado dos honorários e mais quantias que lhe estejam em dívida.
 
 § 2.º O novo advogado deve expor verbalmente ou por escrito ao seu colega as razões por que aceita ou aceitou o mandato e dar-lhe conta de todos os esforços que tenha empregado de conformidade com o parágrafo anterior.
 
-###### Art. 548.º O advogado deve proceder para com os magistrados, colegas, funcionários das secretarias judiciais, peritos, intérpretes e testemunhas com a maior urbanidade.
+Art. 548.º O advogado deve proceder para com os magistrados, colegas, funcionários das secretarias judiciais, peritos, intérpretes e testemunhas com a maior urbanidade.
 
-###### Art. 549.º O advogado deve, sem prejuízo da sua independência, tratar os juízes com o respeito devido à função que exercem, abstendo-se de intervir nas suas decisões, quer directamente, em conversa ou por escrito, quer por interposta pessoa, sendo como tal considerada a própria parte.
+Art. 549.º O advogado deve, sem prejuízo da sua independência, tratar os juízes com o respeito devido à função que exercem, abstendo-se de intervir nas suas decisões, quer directamente, em conversa ou por escrito, quer por interposta pessoa, sendo como tal considerada a própria parte.
 
 § único. É especialmente proibido aos advogados enviarem ou fazerem enviar aos juízes quaisquer memoriais ou recorrerem a processos desleais de defesa dos interesses das partes.
 
-###### Art. 550.º O advogado, antes de promover quaisquer diligências judiciais contra magistrados, advogados ou candidatos, comunicar-lhes-á a sua intenção, com as explicações que entenda necessárias, salvo tratando-se de diligências ou actos de natureza secreta.
+Art. 550.º O advogado, antes de promover quaisquer diligências judiciais contra magistrados, advogados ou candidatos, comunicar-lhes-á a sua intenção, com as explicações que entenda necessárias, salvo tratando-se de diligências ou actos de natureza secreta.
 
-###### Art. 551.º Nas relações com o constituinte ou consulente é dever do advogado:
+Art. 551.º Nas relações com o constituinte ou consulente é dever do advogado:
 
 1.º Recusar mandato ou nomeação oficiosa para causa que for conexa com outra em que represente ou tenha representado a parte contrária ou que for manifestamente injusta;
 
@@ -444,7 +461,7 @@ Compreendem-se na correspondência as instruções e informações escritas sobr
 
 § 6.º Não podem fazer prova em juízo as declarações feitas pelo advogado com violação do segredo profissional.
 
-###### Art. 552.º A imposição de selos, arrolamento, busca e diligências similares no escritório ou outro arquivo do advogado devem ser presididos pelo juiz ou outra autoridade que os tenha ordenado ou por quem imediatamente os substitua.
+Art. 552.º A imposição de selos, arrolamento, busca e diligências similares no escritório ou outro arquivo do advogado devem ser presididos pelo juiz ou outra autoridade que os tenha ordenado ou por quem imediatamente os substitua.
 
 § 1.º A entidade que ordenar a diligência convidará o presidente do conselho distrital, nas comarcas que sejam sede de distrito forense, e o presidente ou representante da delegação, nas outras, para a ela assistir ou designar advogado que o represente. Em casos extremamente urgentes pode o convite ser feito a qualquer advogado que possa comparecer imediatamente, e de preferência a advogado pertencente a um dos corpos dirigentes da Ordem ou indicado pelo dono do escritório ou arquivo.
 
@@ -456,7 +473,7 @@ No caso de reclamação, a autoridade que presidir à diligência procederá, se
 
 § 4.º Do auto da diligência constarão a comparência do advogado a que se refere o § 2.º e as reclamações apresentadas por ele, pelo interessado ou procurador, e de representantes da Ordem, nos termos da primeira parte do § 1.º Podem ser admitidas a fazer reclamações as pessoas de família do dono do escritório ou arquivo ou os seus empregados.
 
-###### Art. 553.º Na fixação dos honorários deverá o advogado proceder com moderação, atendendo, ao tempo gasto no estudo do assunto, à dificuldade deste, à importância do serviço prestado, às posses dos interessados, aos resultados obtidos e à praxe do foro e estilo da comarca.
+Art. 553.º Na fixação dos honorários deverá o advogado proceder com moderação, atendendo, ao tempo gasto no estudo do assunto, à dificuldade deste, à importância do serviço prestado, às posses dos interessados, aos resultados obtidos e à praxe do foro e estilo da comarca.
 
 § 1.º É proibido ao advogado:
 
@@ -472,7 +489,7 @@ c) Estabelecer que os honorários fiquem dependentes do resultado da demanda ou 
 
 § 4.º O advogado não poderá ser responsabilizado pela falta de pagamento de preparos, custas ou quaisquer despesas, se, tendo pedido ao cliente as importâncias para tal necessárias, as não tiver recebido.
 
-###### Art. 554.º Quando, por qualquer motivo, cesse ou fique sem efeito a representação confiada ao advogado, deve este restituir os documentos, valores ou objectos que lhe hajam sido entregues e que sejam necessários para prova do direito do cliente, ou cuja retenção possa trazer a este prejuízos graves.
+Art. 554.º Quando, por qualquer motivo, cesse ou fique sem efeito a representação confiada ao advogado, deve este restituir os documentos, valores ou objectos que lhe hajam sido entregues e que sejam necessários para prova do direito do cliente, ou cuja retenção possa trazer a este prejuízos graves.
 
 § 1.º Com relação aos demais valores e objectos em seu poder goza o advogado do direito de retenção pelos honorários e despesas a que tenha direito.
 
@@ -480,11 +497,11 @@ c) Estabelecer que os honorários fiquem dependentes do resultado da demanda ou 
 
 § 3.º Poderá o conselho geral, antes do pagamento e a requerimento do cliente, mandar entregar a este quaisquer objectos e valores, quando os que fiquem em poder do advogado sejam manifestamente suficientes para pagamento do crédito.
 
-###### Art. 555.º O advogado deve empregar todos os esforços a fim de evitar que o seu constituinte exerça quaisquer represálias contra o adversário e seja menos correcto para com os juízes, advogados da parte contrária, funcionários das secretarias judiciais, peritos, intérpretes e testemunhas.
+Art. 555.º O advogado deve empregar todos os esforços a fim de evitar que o seu constituinte exerça quaisquer represálias contra o adversário e seja menos correcto para com os juízes, advogados da parte contrária, funcionários das secretarias judiciais, peritos, intérpretes e testemunhas.
 
-###### Art. 556.º O advogado tem o direito de falar sentado.
+Art. 556.º O advogado tem o direito de falar sentado.
 
-###### Art. 557.º O advogado que, sem motivo justificado, se recusar a aceitar o encargo do patrocínio ou nomeação para uma causa ou praticar actos prejudiciais ao seu bom e regular andamento ou aos interesses legítimos do seu constituinte, ou deixar de praticar outros necessários a esse bom e regular andamento ou à defesa desses interesses, ou abandonar o patrocínio, incorrerá nas penas estabelecidas neste estatuto, sem prejuízo do disposto no artigo 28.º do Código de Processo Penal, e poderá ser substituído por outro.
+Art. 557.º O advogado que, sem motivo justificado, se recusar a aceitar o encargo do patrocínio ou nomeação para uma causa ou praticar actos prejudiciais ao seu bom e regular andamento ou aos interesses legítimos do seu constituinte, ou deixar de praticar outros necessários a esse bom e regular andamento ou à defesa desses interesses, ou abandonar o patrocínio, incorrerá nas penas estabelecidas neste estatuto, sem prejuízo do disposto no artigo 28.º do Código de Processo Penal, e poderá ser substituído por outro.
 
 § 1.º A justificação será feita perante o juiz da causa, no prazo de cinco dias; se o procedimento do advogado não for devidamente justificado dentro deste prazo, o juiz comunicará o facto ao presidente da Ordem para fins disciplinares. A decisão da Ordem será, nestes casos, obrigatòriamente comunicada ao Ministro da Justiça.
 
@@ -494,7 +511,7 @@ c) Estabelecer que os honorários fiquem dependentes do resultado da demanda ou 
 
 #### SECÇÃO V — Das incompatibilidades
 
-###### Art. 558.º O exercício da profissão de advogado é incompatível com as funções e actividades seguintes:
+Art. 558.º O exercício da profissão de advogado é incompatível com as funções e actividades seguintes:
 
 1.º Ministro, Secretário ou Subsecretário de Estado ou membros dos Gabinetes dos Ministros, Secretários e Subsecretários de Estado;
 
@@ -534,17 +551,17 @@ c) Estabelecer que os honorários fiquem dependentes do resultado da demanda ou 
 
 Estas deliberações, depois de homologadas pelo Ministro da Justiça, serão publicadas no Diário do Governo.
 
-###### Art. 559.º Sem prejuízo do disposto nos artigos 533.º e 534.º deste estatuto, só podem exercer a advocacia e a procuradoria judicial os cidadãos portugueses e os naturalizados há mais de dez anos.
+Art. 559.º Sem prejuízo do disposto nos artigos 533.º e 534.º deste estatuto, só podem exercer a advocacia e a procuradoria judicial os cidadãos portugueses e os naturalizados há mais de dez anos.
 
 #### SECÇÃO VI — Dos órgãos da Ordem
 
 ##### SUBSECÇÃO I — Disposição genérica
 
-###### Art. 560.º A Ordem realiza os fins que lhe são próprios por intermédio das suas assembleias, do seu presidente, do conselho superior, do conselho geral, dos conselhos distritais e das delegações.
+Art. 560.º A Ordem realiza os fins que lhe são próprios por intermédio das suas assembleias, do seu presidente, do conselho superior, do conselho geral, dos conselhos distritais e das delegações.
 
 ##### SUBSECÇÃO II — Das assembleias gerais
 
-###### Art. 561.º As assembleias gerais da Ordem dos Advogados são constituídas por delegados eleitos pelos advogados das comarcas pertencentes aos diferentes círculos forenses, correspondentes aos círculos judiciais, e pelos advogados das comarcas de Lisboa, Porto e Coimbra.
+Art. 561.º As assembleias gerais da Ordem dos Advogados são constituídas por delegados eleitos pelos advogados das comarcas pertencentes aos diferentes círculos forenses, correspondentes aos círculos judiciais, e pelos advogados das comarcas de Lisboa, Porto e Coimbra.
 
 Os advogados inscritos nas comarcas de cada círculo forense elegerão dois delegados, e os inscritos nas comarcas de Lisboa, Porto e Coimbra elegerão, respectivamente, doze, seis e quatro delegados.
 
@@ -564,7 +581,7 @@ Lavrar-se-ão actas com o resultado das eleições, que serão enviadas no prazo
 
 § 4.º OS delegados eleitos que falecerem ou ficarem permanentemente impossibilitados de exercer as suas funções serão substituídos por outros, eleitos pelos respectivos círculos ou comarcas.
 
-###### Art. 562.º A assembleia geral reúne-se em dia que o presidente da Ordem designe: ordinàriamente, no 1.º trimestre e em Dezembro de cada ano e, extraordinàriamente, quando os interesses superiores da Ordem o aconselhem e o presidente a convocar.
+Art. 562.º A assembleia geral reúne-se em dia que o presidente da Ordem designe: ordinàriamente, no 1.º trimestre e em Dezembro de cada ano e, extraordinàriamente, quando os interesses superiores da Ordem o aconselhem e o presidente a convocar.
 
 § 1.º O presidente convocará a assembleia extraordinária se a convocação lhe for solicitada pelo conselho superior e pelo conselho geral ou pela quinta parte dos advogados inscritos, desde que seja legal o objecto da convocação.
 
@@ -582,7 +599,7 @@ As procurações só podem ser passadas a outros delegados, bastando para o efei
 
 § 7.º Não são executórias as deliberações da assembleia geral, quando contrárias às leis ou regulamentos, e bem assim quando as despesas a que devam dar lugar não tenham cabimento em orçamento ou crédito extraordinário, devidamente aprovados.
 
-###### Art. 563.º Compete à assembleia geral ordinária a realizar até 31 de Março aprovar as contas do ano civil anterior.
+Art. 563.º Compete à assembleia geral ordinária a realizar até 31 de Março aprovar as contas do ano civil anterior.
 
 Compete à assembleia geral ordinária a realizar em Dezembro:
 
@@ -596,7 +613,7 @@ No exercício desta atribuição, a assembleia poderá deliberar sobre assuntos 
 
 ##### SUBSECÇÃO III — Das assembleias distritais
 
-###### Art. 564.º As assembleias distritais são constituídas pelos delegados dos círculos cujas sedes pertençam ao respectivo distrito forense e reúnem-se em dia que o presidente do conselho distrital designe: ordinàriamente, até ao fim do mês de Fevereiro e no mês de Dezembro de cada ano; extraordinàriamente, se os interesses da Ordem quanto ao respectivo distrito forense o aconselharem.
+Art. 564.º As assembleias distritais são constituídas pelos delegados dos círculos cujas sedes pertençam ao respectivo distrito forense e reúnem-se em dia que o presidente do conselho distrital designe: ordinàriamente, até ao fim do mês de Fevereiro e no mês de Dezembro de cada ano; extraordinàriamente, se os interesses da Ordem quanto ao respectivo distrito forense o aconselharem.
 
 § 1.º O presidente convocará a assembleia extraordinária se a convocação lhe for solicitada pela quinta parte dos advogados inscritos no distrito forense, se o objecto da convocação for legal e o presidente da Ordem, ouvido o conselho geral, reconhecer que a matéria a resolver não é da competência da assembleia geral, por ser de interesse limitado ao respectivo distrito forense.
 
@@ -604,9 +621,9 @@ No exercício desta atribuição, a assembleia poderá deliberar sobre assuntos 
 
 § 3.º São aplicáveis a estas assembleias as disposições dos §§ 3.º a 7.º do artigo 562.º
 
-###### Art. 565.º Compete à assembleia distrital ordinária a realizar até ao fim do mês de Fevereiro aprovar as contas do ano civil anterior.
+Art. 565.º Compete à assembleia distrital ordinária a realizar até ao fim do mês de Fevereiro aprovar as contas do ano civil anterior.
 
-###### Art. 566.º Compete à assembleia distrital ordinária a realizar em Dezembro:
+Art. 566.º Compete à assembleia distrital ordinária a realizar em Dezembro:
 
 1.º Aprovar o relatório e bem assim o orçamento para o ano civil seguinte;
 
@@ -618,7 +635,7 @@ No exercício desta atribuição, a assembleia distrital poderá deliberar sobre
 
 ##### SUBSECÇÃO IV — Do presidente da Ordem
 
-###### Art. 567.º Ao presidente da Ordem - que se designará bastonário da Ordem dos Advogados - compete:
+Art. 567.º Ao presidente da Ordem - que se designará bastonário da Ordem dos Advogados - compete:
 
 1.º Representar a Ordem dos Advogados, em juízo e fora dele, em tudo que respeite, quer genèricamente à Ordem e aos institutos dirigidos pelo conselho geral, quer à defesa dos membros e antigos membros do conselho superior e do conselho geral que hajam sido ofendidos no exercício do ministério de advogado;
 
@@ -646,7 +663,7 @@ No exercício desta atribuição, a assembleia distrital poderá deliberar sobre
 
 ##### SUBSECÇÃO V — Do conselho superior
 
-###### Art. 568.º O conselho superior tem a sua sede em Lisboa e é composto de onze membros, um dos quais deverá ter o seu escritório no distrito forense do Porto e outro no de Coimbra.
+Art. 568.º O conselho superior tem a sua sede em Lisboa e é composto de onze membros, um dos quais deverá ter o seu escritório no distrito forense do Porto e outro no de Coimbra.
 
 § 1.º Seis destes onze membros serão eleitos pela assembleia geral e cinco nomeados pelo presidente da Ordem.
 
@@ -654,7 +671,7 @@ No exercício desta atribuição, a assembleia distrital poderá deliberar sobre
 
 § 3.º O conselho elegerá, de entre os seus membros, um presidente e um secretário e poderá também eleger um vice-presidente.
 
-###### Art. 569.º Compete ao conselho superior:
+Art. 569.º Compete ao conselho superior:
 
 1.º Conferir o título de advogado honorário a advogados que tenham deixado o exercício do seu ministério depois de o haverem desempenhado distintamente durante 30 anos, pelo menos, e a magistrados e professores portugueses ou estrangeiros e advogados estrangeiros que se tenham assinalado como jurisconsultos eminentes;
 
@@ -674,13 +691,13 @@ No exercício desta atribuição, a assembleia distrital poderá deliberar sobre
 
 ##### SUBSECÇÃO VI — Do conselho geral
 
-###### Art. 570.º O conselho geral tem a sua sede em Lisboa e é composto do presidente e onze membros, dos quais seis são eleitos pela assembleia geral e cinco nomeados pelo presidente da Ordem, devendo um destes ser advogado inscrito pelo distrito forense do Porto, outro pelo de Coimbra e um outro por qualquer comarca, com exclusão de Lisboa, Porto e Coimbra.
+Art. 570.º O conselho geral tem a sua sede em Lisboa e é composto do presidente e onze membros, dos quais seis são eleitos pela assembleia geral e cinco nomeados pelo presidente da Ordem, devendo um destes ser advogado inscrito pelo distrito forense do Porto, outro pelo de Coimbra e um outro por qualquer comarca, com exclusão de Lisboa, Porto e Coimbra.
 
 §. 1.º Sòmente pode desempenhar o cargo de membro do conselho geral o advogado que tenha exercido a profissão durante dez anos, pelo menos.
 
 § 2.º O conselho geral será presidido pelo presidente da Ordem e escolherá de entre os seus membros dois vice-presidentes, um secretário, um tesoureiro e os directores de serviços que convenha especializar.
 
-###### Art. 571.º É da competência do conselho geral:
+Art. 571.º É da competência do conselho geral:
 
 1.º Fazer a inscrição, sob proposta do conselho distrital respectivo, dos advogados e candidatos à advocacia e manter actualizados os respectivos quadros, bem como o dos advogados honorários;
 
@@ -714,7 +731,7 @@ No exercício desta atribuição, a assembleia distrital poderá deliberar sobre
 
 § único. O conselho geral poderá cometer especialmente a alguns dos seus membros as suas atribuições com respeito a determinados assuntos.
 
-###### Art. 572.º Haverá prévia apresentação de candidaturas para os cargos da Ordem a prover por eleição, mediante observância das seguintes regras:
+Art. 572.º Haverá prévia apresentação de candidaturas para os cargos da Ordem a prover por eleição, mediante observância das seguintes regras:
 
 a) A proposição das candidaturas deve ser feita ao conselho superior pela vigésima parte, pelo menos, de todos os advogados inscritos, quanto ao presidente da Ordem e conselhos superior e geral, e, quanto aos conselhos distritais, pela vigésima parte dos advogados inscritos no respectivo distrito forense;
 
@@ -738,7 +755,7 @@ d) Para as eleições gerais haverá três propostas de candidaturas: uma para o
 
 ##### SUBSECÇÃO VII — Dos conselhos distritais
 
-###### Art. 573.º São três os conselhos distritais e correspondem a outros tantos distritos forenses: o de Lisboa abrange as comarcas do distrito judicial de Lisboa, os do Porto e de Coimbra coincidem com os distritos das respectivas Relações.
+Art. 573.º São três os conselhos distritais e correspondem a outros tantos distritos forenses: o de Lisboa abrange as comarcas do distrito judicial de Lisboa, os do Porto e de Coimbra coincidem com os distritos das respectivas Relações.
 
 As sedes dos conselhos distritais são Lisboa, Porto e Coimbra.
 
@@ -746,7 +763,7 @@ As sedes dos conselhos distritais são Lisboa, Porto e Coimbra.
 
 No exercício das atribuições que lhes são confiadas na secção IX do presente capítulo, os conselhos distritais de Lisboa e do Porto funcionarão em três e duas secções, respectivamente, conforme sorteio a realizar no início de cada triénio, sendo competentes para o julgamento de cada processo os membros da secção a que pertencer aquele a quem o processo tiver sido distribuído.
 
-**O presidente pode delegar nos vice-presidentes a presidência de duas secções em Lisboa e de uma no Porto.**
+O presidente pode delegar nos vice-presidentes a presidência de duas secções em Lisboa e de uma no Porto.
 
 § 2.º Sòmente podem ser eleitos ou nomeados presidentes ou membros dos conselhos distritais os advogados com efectivo exercício da advocacia durante dez anos, pelo menos.
 
@@ -754,7 +771,7 @@ No exercício das atribuições que lhes são confiadas na secção IX do presen
 
 § 4.º Serão prèviamente apresentadas as candidaturas para o provimento dos cargos de membros de cada um dos conselhos distritais, devendo observar-se a este respeito, na parte aplicável, as disposições do artigo 572.º e §§ 1.º a 4.º
 
-###### Art. 574.º Compete aos conselhos distritais:
+Art. 574.º Compete aos conselhos distritais:
 
 1.º Organizar os processos e propor a inscrição dos advogados e dos candidatos à advocacia de conformidade com este estatuto, ter em dia o quadro dos advogados efectivos e candidatos do distrito forense e informar com toda a regularidade o conselho geral sobre os candidatos e advogados que se estabeleçam no distrito, mudem de domicílio dentro dele ou para outro distrito ou deixem de exercer a profissão; e bem assim sobre todos os factos que possam influir nos quadros;
 
@@ -794,7 +811,7 @@ No exercício das atribuições que lhes são confiadas na secção IX do presen
 
 ##### SUBSECÇÃO VIII — Das delegações
 
-###### Art. 575.º Haverá em cada comarca que não seja sede de distrito forense uma delegação, confiada a um advogado, nomeado pelo conselho geral, ouvido o conselho distrital.
+Art. 575.º Haverá em cada comarca que não seja sede de distrito forense uma delegação, confiada a um advogado, nomeado pelo conselho geral, ouvido o conselho distrital.
 
 Nas comarcas em que haja mais de nove advogados em exercício, a delegação pode ser constituída por três advogados, se se proceder à respectiva eleição em assembleia comarcã. A eleição não depende de apresentação de candidaturas e realizar-se-á no mês de Outubro do ano imediatamente anterior ao início do triénio em que os eleitos devam principiar a desempenhar as suas funções.
 
@@ -806,7 +823,7 @@ Nas comarcas em que haja mais de nove advogados em exercício, a delegação pod
 
 § 4.º Nas delegações a cargo de um só advogado, quando este se ache impedido temporàriamente ou peça escusa que o conselho distrital respectivo julgue legítima, nomeará este conselho quem o substitua.
 
-###### Art. 576.º Compete às delegações:
+Art. 576.º Compete às delegações:
 
 1.º Ter em dia o quadro dos advogados efectivos e candidatos da comarca e informar com toda a regularidade o conselho geral e o conselho distrital respectivo acerca dos advogados que se estabeleçam na comarca, mudem de domicílio dentro dela ou para outra ou deixem de exercer a profissão, e acerca dos candidatos, e bem assim sobre todos os factos com influência nos quadros;
 
@@ -828,7 +845,7 @@ Nas comarcas em que haja mais de nove advogados em exercício, a delegação pod
 
 ##### SUBSECÇÃO IX — Do impedimento dos eleitos ou nomeados
 
-###### Art. 577.º No caso de impedimento permanente ou de falta do presidente da Ordem, o conselho geral convocará imediatamente, se não for período de férias, a assembleia geral para no quadragésimo dia posterior proceder a nova eleição. Se a verificação do impedimento ou a falta ocorrem em férias, a convocação da assembleia far-se-á findas estas.
+Art. 577.º No caso de impedimento permanente ou de falta do presidente da Ordem, o conselho geral convocará imediatamente, se não for período de férias, a assembleia geral para no quadragésimo dia posterior proceder a nova eleição. Se a verificação do impedimento ou a falta ocorrem em férias, a convocação da assembleia far-se-á findas estas.
 
 § 1.º Seguir-se-ão para a eleição os termos do artigo 572.º, na parte aplicável. Será de vinte dias, a partir da convocação, o prazo para a apresentação de candidaturas, cuja publicação se fará nos dez dias imediatos.
 
@@ -836,11 +853,11 @@ Nas comarcas em que haja mais de nove advogados em exercício, a delegação pod
 
 § 3.º O novo presidente servirá pelo tempo que faltar para o complemento do prazo por que devesse durar o mandato do seu antecessor, sem prejuízo da possibilidade de reeleição.
 
-###### Art. 578.º Nos impedimentos permanentes e temporários dos presidentes dos conselhos servirá de presidente o vice-presidente e, na falta deste, um dos vogais, escolhida para esse efeito pelo respectivo conselho. Nos impedimentos dos presidentes das delegações colectivas servirá de presidente o vogal mais antigo no exercício da advocacia.
+Art. 578.º Nos impedimentos permanentes e temporários dos presidentes dos conselhos servirá de presidente o vice-presidente e, na falta deste, um dos vogais, escolhida para esse efeito pelo respectivo conselho. Nos impedimentos dos presidentes das delegações colectivas servirá de presidente o vogal mais antigo no exercício da advocacia.
 
-###### Art. 579.º Nos impedimentos permanentes e temporários dos membros do conselho superior e dos membros do conselho-geral, dos conselhos distritais e das delegações colectivas serão os substitutos eleitos, pelos membros em exercício dos respectivos corpos, de entre os advogados elegíveis inscritos nos competentes quadros.
+Art. 579.º Nos impedimentos permanentes e temporários dos membros do conselho superior e dos membros do conselho-geral, dos conselhos distritais e das delegações colectivas serão os substitutos eleitos, pelos membros em exercício dos respectivos corpos, de entre os advogados elegíveis inscritos nos competentes quadros.
 
-###### Art. 580.º O desempenho dos cargos da Ordem é obrigatório. Constitui falta disciplinar a recusa de aceitação por parte de qualquer advogado de algum cargo ou função para que tenha sido eleito ou nomeado e bem assim a negligência no seu desempenho.
+Art. 580.º O desempenho dos cargos da Ordem é obrigatório. Constitui falta disciplinar a recusa de aceitação por parte de qualquer advogado de algum cargo ou função para que tenha sido eleito ou nomeado e bem assim a negligência no seu desempenho.
 
 § 1.º São motivos de escusa:
 
@@ -860,7 +877,7 @@ Nas comarcas em que haja mais de nove advogados em exercício, a delegação pod
 
 #### SECÇÃO VII — Das receitas e despesas da Ordem
 
-###### Art. 581.º Os advogados são obrigados a contribuir para a Ordem com a quota mensal que for fixada pelo conselho geral.
+Art. 581.º Os advogados são obrigados a contribuir para a Ordem com a quota mensal que for fixada pelo conselho geral.
 
 § 1.º O produto das quotas será dividido em partes iguais entre o conselho geral e o conselho distrital ou delegação respectiva, repartindo-se os encargos da cobrança na proporção das receitas que a cada um pertencerem.
 
@@ -870,7 +887,7 @@ Nas comarcas em que haja mais de nove advogados em exercício, a delegação pod
 
 § 4.º O conselho geral poderá abonar mensalmente aos conselhos distritais ou delegações uma importância por conta da parte que lhes cabe no produto da cobrança das quotas, bem como prestar-lhes, dentro das suas possibilidades, auxílio financeiro, quando devidamente justificada a sua necessidade.
 
-###### Art. 582.º Aquele que deixar de pagar quotas relativas a seis meses será imediatamente avisado pelo conselho geral para pagar dentro da prazo de 60 dias, e, se o não fizer, ser-lhe-á suspensa a inscrição, que só poderá ser levantada depois de pagas as quotas em dívida à data da suspensão.
+Art. 582.º Aquele que deixar de pagar quotas relativas a seis meses será imediatamente avisado pelo conselho geral para pagar dentro da prazo de 60 dias, e, se o não fizer, ser-lhe-á suspensa a inscrição, que só poderá ser levantada depois de pagas as quotas em dívida à data da suspensão.
 
 § 1.º Os advogados inscritos que, por qualquer motivo, interrompam por mais de seis meses o exercício da profissão não são obrigados a pagar as respectivas quotas.
 
@@ -878,21 +895,21 @@ A interrupção do exercício da profissão e o regresso a ele serão comunicado
 
 § 2.º Os advogados que regressarem ao exercício da advocacia antes de o comunicarem ao conselho geral incorrem na sanção do artigo 525.º
 
-###### Art. 583.º As contas da Ordem serão encerradas em 31 de Dezembro de cada ano. O Ministro da Justiça, sempre que o entenda conveniente, pode mandar fiscalizá-las.
+Art. 583.º As contas da Ordem serão encerradas em 31 de Dezembro de cada ano. O Ministro da Justiça, sempre que o entenda conveniente, pode mandar fiscalizá-las.
 
 #### SECÇÃO VIII — Da instalação e dos livros da Ordem
 
-###### Art. 584.º Poderá o conselho geral aplicar, dos valores que constituem o fundo a que se refere o § 3.º do artigo 581.º, a importância necessária à aquisição de um imobiliário para instalação da sua sede.
+Art. 584.º Poderá o conselho geral aplicar, dos valores que constituem o fundo a que se refere o § 3.º do artigo 581.º, a importância necessária à aquisição de um imobiliário para instalação da sua sede.
 
-###### Art. 585.º Os organismos da Ordem poderão reunir-se, enquanto não tiverem edifício próprio, nas salas dos tribunais indicadas pelos respectivos juízes e a horas em que não prejudiquem os serviços judiciais.
+Art. 585.º Os organismos da Ordem poderão reunir-se, enquanto não tiverem edifício próprio, nas salas dos tribunais indicadas pelos respectivos juízes e a horas em que não prejudiquem os serviços judiciais.
 
-###### Art. 586.º Não dão lugar a custas ou imposto de justiça e não são sujeitos a imposto do selo as certidões expedidas pela Ordem, os requerimentos e petições a ela dirigidos e os processos que nela corram ou em que tenha intervenção. A Ordem pode requerer e alegar em papel não selado e é isenta de custas, preparos e imposto de justiça em qualquer processo em que intervenha.
+Art. 586.º Não dão lugar a custas ou imposto de justiça e não são sujeitos a imposto do selo as certidões expedidas pela Ordem, os requerimentos e petições a ela dirigidos e os processos que nela corram ou em que tenha intervenção. A Ordem pode requerer e alegar em papel não selado e é isenta de custas, preparos e imposto de justiça em qualquer processo em que intervenha.
 
-###### Art. 587.º Todos os livros e impressos destinados ao expediente dos serviços da Ordem deverão ser conforme os modelos aprovados para esse efeito pelo conselho geral.
+Art. 587.º Todos os livros e impressos destinados ao expediente dos serviços da Ordem deverão ser conforme os modelos aprovados para esse efeito pelo conselho geral.
 
 #### SECÇÃO IX — Da disciplina
 
-###### Art. 588.º As penas disciplinares são:
+Art. 588.º As penas disciplinares são:
 
 1.º Advertência;
 
@@ -936,31 +953,31 @@ A suspensão preventiva descontar-se-á sempre nas penas disciplinares de suspen
 
 § 10.º O início do cumprimento das penas 4.ª e 5.ª terá lugar no dia imediato ao da publicação da decisão que as tenha aplicado.
 
-###### Art. 589.º O pedido de cancelamento ou suspensão de inscrição feito por advogado contra o qual esteja pendente processo disciplinar não faz cessar a respectiva responsabilidade.
+Art. 589.º O pedido de cancelamento ou suspensão de inscrição feito por advogado contra o qual esteja pendente processo disciplinar não faz cessar a respectiva responsabilidade.
 
-###### Art. 590.º As infracções disciplinares prescrevem no prazo de cinco anos; mas, se constituírem conjuntamente infracções penais, prescrevem no mesmo prazo que o procedimento criminal, se for superior àquele.
+Art. 590.º As infracções disciplinares prescrevem no prazo de cinco anos; mas, se constituírem conjuntamente infracções penais, prescrevem no mesmo prazo que o procedimento criminal, se for superior àquele.
 
-###### Art. 591.º Os conselhos distritais instruem e julgam os processos dos advogados ou candidatos inscritos nos respectivos quadros, podendo cometer a instrução à delegação ou a qualquer advogado do distrito forense.
+Art. 591.º Os conselhos distritais instruem e julgam os processos dos advogados ou candidatos inscritos nos respectivos quadros, podendo cometer a instrução à delegação ou a qualquer advogado do distrito forense.
 
 § único. Exceptuam-se os processos contra os advogados que sejam ou tenham sido membros de qualquer dos conselhos distritais, do conselho superior ou do conselho geral.
 
-###### Art. 592.º O presidente da Ordem, quando circustâncias imperiosas o aconselhem, pode, com voto afirmativo do conselho geral, determinar que a instrução de qualquer processo disciplinar ou de inquérito seja feita pelo conselho distrital, advogado ou outra entidade que ele designe.
+Art. 592.º O presidente da Ordem, quando circustâncias imperiosas o aconselhem, pode, com voto afirmativo do conselho geral, determinar que a instrução de qualquer processo disciplinar ou de inquérito seja feita pelo conselho distrital, advogado ou outra entidade que ele designe.
 
-###### Art. 593.º Admitem sempre recurso para o conselho superior as decisões tomadas pelos conselhos distritais em processos disciplinares, sem exclusão dos de inquérito.
+Art. 593.º Admitem sempre recurso para o conselho superior as decisões tomadas pelos conselhos distritais em processos disciplinares, sem exclusão dos de inquérito.
 
-###### Art. 594.º Perde o cargo que desempenhe o advogado que, sem motivo justificado, o não exerça com assiduidade ou que impeça ou dificulte o funcionamento do órgão da Ordem a que pertença.
+Art. 594.º Perde o cargo que desempenhe o advogado que, sem motivo justificado, o não exerça com assiduidade ou que impeça ou dificulte o funcionamento do órgão da Ordem a que pertença.
 
 § único. A perda do cargo nos termos deste artigo será determinada pelo presidente da Ordem, com voto afirmativo do conselho superior, sem prejuízo do procedimento disciplinar.
 
-###### Art. 595.º Nos processos disciplinares ou de inquérito observar-se-ão os regulamentos da Ordem em tudo o que não for especialmente previsto no presente diploma.
+Art. 595.º Nos processos disciplinares ou de inquérito observar-se-ão os regulamentos da Ordem em tudo o que não for especialmente previsto no presente diploma.
 
-###### Art. 596.º O conselho superior pode conceder a revisão da decisão disciplinar quando se tenham produzido novos factos ou se apresentem novas provas susceptíveis de modificar a apreciação anteriormente feita, e, concedida que seja a revisão, ordenar que o processo seja de novo submetido ao conselho competente em primeira instância para seguir perante ele os seus trâmites, sem prejuízo dos recursos nos termos gerais.
+Art. 596.º O conselho superior pode conceder a revisão da decisão disciplinar quando se tenham produzido novos factos ou se apresentem novas provas susceptíveis de modificar a apreciação anteriormente feita, e, concedida que seja a revisão, ordenar que o processo seja de novo submetido ao conselho competente em primeira instância para seguir perante ele os seus trâmites, sem prejuízo dos recursos nos termos gerais.
 
-###### Art. 597.º Ao conselho superior compete instruir e julgar os processos disciplinares em que sejam arguidos membros ou antigos membros dos conselhos.
+Art. 597.º Ao conselho superior compete instruir e julgar os processos disciplinares em que sejam arguidos membros ou antigos membros dos conselhos.
 
 § único. Das decisões do conselho superior haverá recurso para um conselho especial, constituído por três vogais do conselho superior e três do conselho geral, todos a designar por sorteio, e presidido pelo presidente da Ordem, que terá voto de qualidade.
 
-###### Art. 598.º Nenhuma pena disciplinar poderá ser aplicada sem que o advogado ou candidato tenha sido ouvido, por escrito, no processo.
+Art. 598.º Nenhuma pena disciplinar poderá ser aplicada sem que o advogado ou candidato tenha sido ouvido, por escrito, no processo.
 
 § 1.º O presidente e os conselhos da Ordem podem ordenar inquéritos.
 
@@ -980,17 +997,17 @@ Metade da multa reverterá para o órgão disciplinar da Ordem que a tenha aplic
 
 § 4.º Ao arguido é facultado instruir a sua defesa com toda a espécie de prova que não seja impertinente ou dilatória, e o poder disciplinar ordenará para esclarecimento da verdade, oficiosamente ou a requerimento do mesmo arguido, as diligências necessárias.
 
-###### Art. 599.º A competência disciplinar sobre os advogados e candidatos à advocacia pertence exclusivamente aos órgãos referidos neste estatuto, nos termos nele prescritos e nos dos respectivos regulamentos.
+Art. 599.º A competência disciplinar sobre os advogados e candidatos à advocacia pertence exclusivamente aos órgãos referidos neste estatuto, nos termos nele prescritos e nos dos respectivos regulamentos.
 
 § 1.º Subsiste a competência dos juízes e tribunais, quer para mandarem riscar quaisquer expressões ofensivas empregadas pelos advogados e candidatos à advocacia e para lhes retirarem a palavra na alegação oral, quer para a aplicação das penas aos que entregarem os autos depois de decorridos os prazos legais ou de outras especialmente previstas nas leis de processo.
 
 § 2.º Os órgãos competentes da Ordem poderão, em decisão fundamentada, desatender as queixas, pedidos de inquérito e pedidos de revisão de processos disciplinares que julguem infundados.
 
-###### Art. 600.º A fim de instruir os processos da competência disciplinar da Ordem, remeterão os juízes e tribunais ao poder disciplinar que no caso couber cópia da acta ou certidão dos autos na parte que se referir à infracção.
+Art. 600.º A fim de instruir os processos da competência disciplinar da Ordem, remeterão os juízes e tribunais ao poder disciplinar que no caso couber cópia da acta ou certidão dos autos na parte que se referir à infracção.
 
 § único. Também para fins disciplinares, a Polícia Judiciária remeterá sempre ao presidente da Ordem cópias das queixas que lhe forem apresentadas contra advogados.
 
-###### Art. 601.º Quando as infracções disciplinares cometidas pelo advogado ou candidato à advocacia forem simultâneamente consideradas crimes, o processo disciplinar não prejudica o processo penal nem o direito de as partes promoverem perante os tribunais as acções competentes para haverem a reparação civil.
+Art. 601.º Quando as infracções disciplinares cometidas pelo advogado ou candidato à advocacia forem simultâneamente consideradas crimes, o processo disciplinar não prejudica o processo penal nem o direito de as partes promoverem perante os tribunais as acções competentes para haverem a reparação civil.
 
 § 1.º As palavras proferidas ou escritas pelo advogado no desempenho do seu ministério não dão lugar a procedimento criminal, excepto se envolverem ofensa contra a lei, as instituições vigentes ou quaisquer pessoas. Se, porém, a imputação difamatória ou injuriosa dever razoàvelmente julgar-se necessária para a justa defesa da causa, será legítimo fazê-la; mas deve o advogado procurar, pelos meios ao seu alcance, averiguar prèviamente da veracidade da imputação.
 
@@ -998,27 +1015,27 @@ Metade da multa reverterá para o órgão disciplinar da Ordem que a tenha aplic
 
 § 3.º A responsabilidade disciplinar dos advogados é independente da responsabilidade criminal.
 
-###### Art. 602.º Todos os processos disciplinares devem estar julgados pelos conselhos distritais no prazo de um ano, a contar da data da sua distribuição. Se, decorrido esse prazo, não estiverem julgados, cessa a competência do conselho distrital e os processos transitam, tal como se encontrarem, para o conselho superior, a fim de este prosseguir na sua instrução e apreciação.
+Art. 602.º Todos os processos disciplinares devem estar julgados pelos conselhos distritais no prazo de um ano, a contar da data da sua distribuição. Se, decorrido esse prazo, não estiverem julgados, cessa a competência do conselho distrital e os processos transitam, tal como se encontrarem, para o conselho superior, a fim de este prosseguir na sua instrução e apreciação.
 
 § único. O presidente do conselho distrital deverá enviar os processos, dentro dos dez dias imediatos, ao presidente do conselho superior.
 
-###### Art. 603.º A distribuição dos processos disciplinares no conselho superior deve ser feita na primeira sessão depois de recebidos.
+Art. 603.º A distribuição dos processos disciplinares no conselho superior deve ser feita na primeira sessão depois de recebidos.
 
 Tais processos devem ser concluídos no prazo de um ano, a contar da distribuição. Se, decorrido esse prazo, não estiverem julgados, cessa a competência do conselho superior e os processos transitam, tal como se encontrarem, para o conselho referido no artigo 606.º
 
 § único. O presidente do conselho superior deverá enviar os processos, dentro dos dez dias imediatos, ao presidente da Ordem, o qual, dentro de igual prazo, comunicará o facto ao Ministério da Justiça, para os efeitos declarados no artigo 606.º
 
-###### Art. 604.º Os prazos fixados nos artigos 602.º e 603.º só poderão ser prorrogados, ocorrendo motivo que o justifique, pelo presidente da Ordem, mas se a prorrogação ultrapassar seis meses será indispensável o acordo do Ministro da Justiça.
+Art. 604.º Os prazos fixados nos artigos 602.º e 603.º só poderão ser prorrogados, ocorrendo motivo que o justifique, pelo presidente da Ordem, mas se a prorrogação ultrapassar seis meses será indispensável o acordo do Ministro da Justiça.
 
-###### Art. 605.º Na primeira semana de cada trimestre devem as secretarias dos conselhos disciplinares da Ordem enviar ao Ministério da Justiça e ao presidente da Ordem nota dos processos distribuídos, pendentes e julgados no trimestre anterior.
+Art. 605.º Na primeira semana de cada trimestre devem as secretarias dos conselhos disciplinares da Ordem enviar ao Ministério da Justiça e ao presidente da Ordem nota dos processos distribuídos, pendentes e julgados no trimestre anterior.
 
-###### Art. 606.º Os processos disciplinares que, nos termos do artigo 603.º, deixem de estar sujeitos à apreciação do conselho superior serão julgados por um conselho composto de quatro vogais, todos advogados, sob a presidência do presidente da Ordem. Este designará dois dos advogados, e os outros dois serão escolhidos pelo Ministro da Justiça.
+Art. 606.º Os processos disciplinares que, nos termos do artigo 603.º, deixem de estar sujeitos à apreciação do conselho superior serão julgados por um conselho composto de quatro vogais, todos advogados, sob a presidência do presidente da Ordem. Este designará dois dos advogados, e os outros dois serão escolhidos pelo Ministro da Justiça.
 
 § 1.º Este conselho deverá tomar todas as providências necessárias a um apuramento rigoroso da verdade, completar ou refazer a instrução do processo, observando na parte aplicável o preceituado no artigo 598.º, e só poderá aplicar as sanções previstas no artigo 588.º
 
 § 2.º A decisão deste conselho será proferida no prazo de seis meses, prorrogável pelo Ministro da Justiça quando ocorrer motivo justificado, e não admitirá recurso.
 
-###### Art. 607.º Todas as decisões finais proferidas em processos disciplinares serão imediatamente comunicadas, por cópia, ao presidente da Ordem, ao Ministério da Justiça, para registo na Direcção-Geral da Justiça, e aos participantes.
+Art. 607.º Todas as decisões finais proferidas em processos disciplinares serão imediatamente comunicadas, por cópia, ao presidente da Ordem, ao Ministério da Justiça, para registo na Direcção-Geral da Justiça, e aos participantes.
 
 § único. Das decisões dos conselhos distritais poderá o presidente da Ordem mandar seguir recurso para o conselho superior, no prazo de 30 dias, a contar do recebimento da comunicação.
 
@@ -1028,25 +1045,25 @@ O recurso será, neste caso, interposto pelo procurador da República, no distri
 
 #### SECÇÃO X — Disposições gerais e transitórias
 
-###### Art. 608.º O conselho geral da Ordem elaborará os regulamentos internos que tiver por convenientes e adaptará os existentes às disposições deste estatuto.
+Art. 608.º O conselho geral da Ordem elaborará os regulamentos internos que tiver por convenientes e adaptará os existentes às disposições deste estatuto.
 
-###### Art. 609.º Os advogados de provisão deverão indicar sempre essa qualidade.
+Art. 609.º Os advogados de provisão deverão indicar sempre essa qualidade.
 
-###### Art. 610.º A interdição ou suspensão do exercício da profissão produzem os seus efeitos legais no continente e ilhas adjacentes e nas províncias ultramarinas, para o que deverão ser publicadas no Boletim Oficial de cada uma destas.
+Art. 610.º A interdição ou suspensão do exercício da profissão produzem os seus efeitos legais no continente e ilhas adjacentes e nas províncias ultramarinas, para o que deverão ser publicadas no Boletim Oficial de cada uma destas.
 
-###### Art. 611.º As deliberações dos órgãos da Ordem admitem apenas os recursos previstos neste estatuto.
+Art. 611.º As deliberações dos órgãos da Ordem admitem apenas os recursos previstos neste estatuto.
 
-###### Art. 2.º (transitório). O presidente da Ordem dos Advogados tem a faculdade de completar os quadros dos conselhos superior, geral e distritais para o triénio de 1960 a 1962, nomeando todos os membros que não tiverem sido já eleitos.
+Art. 2.º (transitório). O presidente da Ordem dos Advogados tem a faculdade de completar os quadros dos conselhos superior, geral e distritais para o triénio de 1960 a 1962, nomeando todos os membros que não tiverem sido já eleitos.
 
-###### Art. 3.º O artigo 28.º do Código de Processo Penal passa a ter a seguinte redacção:
+Art. 3.º O artigo 28.º do Código de Processo Penal passa a ter a seguinte redacção:
 
-###### Art. 28.º O defensor oficioso que recuse sem causa justificada, nos termos do § único do artigo 24.º, o patrocínio do réu, e o defensor oficioso ou constituído que o abandone, sem ter sido devidamente substituído, será suspenso do exercício da sua profissão de um mês a um ano. Se não for advogado, será condenado em multa de 100$00 a 1000$00.
+Art. 28.º O defensor oficioso que recuse sem causa justificada, nos termos do § único do artigo 24.º, o patrocínio do réu, e o defensor oficioso ou constituído que o abandone, sem ter sido devidamente substituído, será suspenso do exercício da sua profissão de um mês a um ano. Se não for advogado, será condenado em multa de 100$00 a 1000$00.
 
 Não é equiparada à recusa ou ao abandono do patrocínio a mera falta do advogado a acto a que deva comparecer.
 
 § único. As sanções previstas neste artigo serão aplicadas pelo tribunal no próprio processo, mas a suspensão dos advogados carece de ser confirmada pelo Conselho Superior Judiciário em sessão de secção, com a intervenção, com direito de voto, do presidente do conselho superior e do presidente da Ordem dos Advogados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

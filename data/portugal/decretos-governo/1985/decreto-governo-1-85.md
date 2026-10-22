@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/1-1985-328993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:28:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23c3bd66a9d638449ad282a62e7c251791276ea72343dace542b35df37721f5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43856e7a1f9c3daacd1b1a8a63d742d38ba4c148dc77d06b46159990d7d57a94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:28:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ambiente de Trabalho
+- Condições de Higiene e Segurança no Trabalho
+- Convenção
+- Higiene do Trabalho
+- OIT
+- Portugal
+- Saúde no Trabalho
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:307646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374996:por
+  label: "Estendido ao território de Macau a convenção aprovada para ratificação pelo presente diploma, pelo DEC.160/99.1999.07.08.PR\
+    \ DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/160-1999-374996
+  date: '1999-07-08'
+- type: amended_by
+  target: pt:dre:670994:por
+  label: "Tornada pública a plicação a Macau da Convenção nº 155 da OIT pelo AV.142/99.1999.09.10.MNE,DR.IS-A [230] de 01/Out/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/142-1999-670994
+  date: '1999-09-10'
+- type: amended_by
+  target: pt:dre:307644:por
+  label: "Ratificado o Protocolo de 2002 relativo à Convenção sobre a Segurança e a Saúde dos Trabalhadores (Convenção OIT\
+    \ nº 155, aprovada, para ratificação, pelo pelo presente diploma), aprovado, para ratificação pela Res 112/2010 de 25-Out,\
+    \ pelo DEC.104/2010.25.10.2010.PR, DR.IS [207] de 25.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/104-2010-307644
+  date: '2010-10-25'
+- type: amended_by
+  target: pt:dre:307646:por
+  label: "Aprovado, para ratificação, o Protocolo de 2002 relativo à Convenção aprovada para ratificação pelo presente diploma\
+    \ pela RES.112/2010.25.10.2010.AR, DR.IS [207] de 25.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/112-2010-307646
+  date: '2010-10-25'
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:28:54Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +128,19 @@ de 16 de Janeiro
 
 O Governo, cumprido o disposto nos artigos 4.º e seguintes da [Lei n.º 16/79](https://diariodarepublica.pt/dr/detalhe/lei/16-1979-383648), de 16 de Maio, e tendo-se pronunciado no sentido da conveniência e oportunidade da ratificação da Convenção as organizações de trabalhadores e os departamentos oficiais interessados, decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção n.º 155, relativa à segurança, à saúde dos trabalhadores e ao ambiente de trabalho, adoptada pela Conferência Internacional do Trabalho na sua 67.ª sessão, cujo texto em francês e em inglês e respectiva tradução para português vão anexos ao presente decreto.
+Artigo único. É aprovada, para ratificação, a Convenção n.º 155, relativa à segurança, à saúde dos trabalhadores e ao ambiente de trabalho, adoptada pela Conferência Internacional do Trabalho na sua 67.ª sessão, cujo texto em francês e em inglês e respectiva tradução para português vão anexos ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Luís Gaspar da Silva.
 
-**Assinado em 21 de Dezembro de 1984.**
+Assinado em 21 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 26 de Dezembro de 1984.**
+Referendado em 26 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Conférence internationale du travail
 
@@ -617,7 +654,7 @@ Após ter decidido que essas propostas tomariam a forma de uma convenção inter
 
 adopta, neste dia 22 de Junho de 1981, a seguinte convenção, que será denominada Convenção sobre a Segurança e a Saúde dos Trabalhadores, 1981.
 
-# PARTE I — Campo de aplicação e definições
+## PARTE I — Campo de aplicação e definições
 
 ###### ARTIGO 1.º
 
@@ -649,7 +686,7 @@ d) O termo «prescrições» visa todas as disposições às quais a autoridade 
 
 e) O termo «saúde», em relação com o trabalho, não visa apenas a ausência de doença ou de enfermidade; inclui também os elementos físicos e mentais que afectam a saúde directamente relacionados com a segurança e a higiene no trabalho.
 
-# PARTE II — Princípios de uma política nacional
+## PARTE II — Princípios de uma política nacional
 
 ###### ARTIGO 4.º
 
@@ -679,7 +716,7 @@ A formulação da política mencionada no artigo 4.º deverá precisar as funç�
 
 A situação em matéria de segurança, saúde dos trabalhadores e ambiente de trabalho deverá ser objecto, periodicamente, de um exame de conjunto ou de um exame que incida sobre sectores particulares, procurando identificar os grandes problemas, deduzir os meios eficazes para os resolver e a ordem de prioridade das medidas a tomar, bem como avaliar os resultados obtidos.
 
-# PARTE III — Acção a nível nacional
+## PARTE III — Acção a nível nacional
 
 ###### ARTIGO 8.º
 
@@ -735,7 +772,7 @@ Deverão ser tomadas medidas que visem encorajar, de acordo com as condições e
 
 2 - Sempre que as circunstâncias o exijam e que as condições e a prática nacionais o permitam, essas disposições deverão incluir a instituição de um órgão central.
 
-# PARTE IV — Acção a nível de empresa
+## PARTE IV — Acção a nível de empresa
 
 ###### ARTIGO 16.º
 
@@ -777,7 +814,7 @@ A cooperação dos empregadores e dos trabalhadores e ou dos seus representantes
 
 As medidas de segurança e higiene no trabalho não devem constituir qualquer encargo para os trabalhadores.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### ARTIGO 22.º
 

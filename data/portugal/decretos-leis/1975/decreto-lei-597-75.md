@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/25000/16921692.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1975-312382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 497a4015189a20edbb84adc46bf23f4dd0acae814d22d163c97dffdd04eafc53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc45be6ae642f855dcff1a668bcfe16bf5ce6f8aa285f8294333468f34385b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa
+- Empresa Intervencionada
+- Gestão
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:139071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139071:por
+  label: Convertido o regime provisório de gestão em intervenção do Estado e nomeada uma comissão administrativa para as empresas
+    designadas por grupo Sínia pelo(a) Resolução n.º 85/77 - Diário da República n.º 93/1977, Série I de 1977-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/85-1977-139071
+  date: '1977-04-21'
+- type: cites
+  target: pt:dre:169463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426914:por
+  label: "Revogado pelo DEC LEI.422/76.29.05.1976.MF, DR.IS [126] de 29.05.1976\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/422-1976-426914
+  date: '1976-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:00Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +123,7 @@ No entanto, sem prejuízo desta alteração geral, convém admitir desde já uma
 
 Nestes termos, usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Sempre que se verifique em qualquer empresa alguma das situações de que são índices as alíneas a), b) e d) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, sem prejuízo do disposto nesse diploma, e independentemente da realização de inquérito, poderá o Governo, mediante despacho conjunto do Ministro das Finanças e do Ministro competente, nomear gestores ou uma comissão de gestão, suspendendo ou não provisoriamente das suas funções um ou mais dos administradores ou gerentes em exercício.
+Artigo 1.º - 1. Sempre que se verifique em qualquer empresa alguma das situações de que são índices as alíneas a), b) e d) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, sem prejuízo do disposto nesse diploma, e independentemente da realização de inquérito, poderá o Governo, mediante despacho conjunto do Ministro das Finanças e do Ministro competente, nomear gestores ou uma comissão de gestão, suspendendo ou não provisoriamente das suas funções um ou mais dos administradores ou gerentes em exercício.
 
 2. Os gestores nomeados terão todos os poderes legais de administração da empresa, respondendo directamente pelos seus actos de gestão perante o Ministro competente e devendo funcionar em estreita colaboração com o respectivo Ministério.
 
@@ -108,20 +131,20 @@ Nestes termos, usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3
 
 4. Entende-se por Ministro competente o que for titular do departamento a que respeita a actividade económica da empresa.
 
-###### Art. 2.º No caso de empresas em nome individual, o despacho de nomeação deverá especificar o património objecto de gestão.
+Art. 2.º No caso de empresas em nome individual, o despacho de nomeação deverá especificar o património objecto de gestão.
 
-###### Art. 3.º - Quando se der execução ao disposto no n.º 1 do artigo 1.º, o Ministério competente promoverá sempre a realização de inquérito imediato à empresa em causa.
+Art. 3.º - Quando se der execução ao disposto no n.º 1 do artigo 1.º, o Ministério competente promoverá sempre a realização de inquérito imediato à empresa em causa.
 
 2. Quando o inquérito houver que ser executado pela Inspecção-Geral de Finanças, terá prioridade absoluta em relação aos demais pedidos de inquérito ou averiguações pendentes.
 
-###### Art. 4.º Concluído o inquérito, o Ministro competente deverá adoptar as providências que julgar necessárias, nomeadamente alguma das previstas no artigo 3.º do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), e pôr termo ao regime provisório de gestão estabelecido no presente diploma.
+Art. 4.º Concluído o inquérito, o Ministro competente deverá adoptar as providências que julgar necessárias, nomeadamente alguma das previstas no artigo 3.º do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), e pôr termo ao regime provisório de gestão estabelecido no presente diploma.
 
-###### Art. 5.º O presente diploma entra em vigor na data da publicação.
+Art. 5.º O presente diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo.
 
-**Promulgado em 17 de Outubro de 1975.**
+Promulgado em 17 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

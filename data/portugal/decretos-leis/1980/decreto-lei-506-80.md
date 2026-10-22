@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,172 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1980-462813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bcb66d1e32a835643779320f6579e3de3abdc39de377a72b76dd0e472824826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd88b031d4b64b0ba0d37cd6bfa02257b8f25cfc3d2210672b4e17bf9055cd32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Polivalente do Funchal
+- Direcção Geral dos Serviços Tutelares de Menores
+- Orgânica
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:174313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECT DE 30-OUT DR.IS [262] DE 12/NOV/1980.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-11-12'
+- type: amended_by
+  target: pt:dre:459894:por
+  label: "Aumentados lugares ao quadro de pessoal aprovado pelo presente diploma, pela Port.1064/80.15.12.1980.PCM, DR.IS\
+    \ [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1980-459894
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:579750:por
+  label: "Alterados os arts. 11.º, 44.º, 69.º, 75.º e 79.º, e substituídos os mapas I e II anexos ao presente diploma, pelo\
+    \ DEC LEI.226/81.18.07.1981.PCM, DR.IS [163] de 18.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1981-579750
+  date: '1981-07-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o Mapa I Anexo ao Presente Diploma, pelo Dec Lei 77&82 de 06-Mar DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-03-06'
+- type: amended_by
+  target: pt:dre:376851:por
+  label: "Alterado o mapa II anexo ao presente diploma, na redacção do Dec Lei 226/81, de 18-Jul, pela PORT.1094/82.20.11.1982.MFP,\
+    \ DR.IS [269] de 20.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1094-1982-376851
+  date: '1982-11-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 31, 33 E 35 PELO DEC LEI 474/82 DE 17-DEZ DR.IS [290], ALTERADO PELO DEC LEI 226/81 DE 18-JUL.\0\
+    .\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-12-17'
+- type: amended_by
+  target: pt:dre:379563:por
+  label: "Alterados os art.s 31º, 33º e 35º, pelo DEC LEI.474/82.17.12.1982.MJ, DR.IS [290] de 17.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-1982-379563
+  date: '1982-12-17'
+- type: amended_by
+  target: pt:dre:385408:por
+  label: "Alterado o n.º 1 do art.º 47.º pelo DEC LEI.213/84.03.07.1984.PCM, DR.IS [152] de 03.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-1984-385408
+  date: '1984-07-03'
+- type: amended_by
+  target: pt:dre:151909:por
+  label: "Sustituído o quadro do pessoal de enfermagem da Direcção-Geral dos Serviços Tutelares de Menores constante do mapa\
+    \ II anexo ao presente diploma, na redacção do Dec Lei 226/81 de 18-Jul, pela PORT.313/85.1985.05.28.PCM DR.IS [122]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-1985-151909
+  date: '1985-05-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 26 E 30 PELO DEC LEI 455/85 DE 29-OUT DR.IS [249] O ART 44 ALTERADO PELO DEC LEI 226/81 DE 18-JUL,\
+    \ OS MAPAS I, II E III ALTERADOS PELOS DEC LEI 226/81 DE 18-JUL, 77/82 DE 06-MAR E PELA PORT 1094/82 DE 20-NOV QUE PASSAM\
+    \ A TER A REDACCAO DOS MAPAS I, II E III DO REFERIDO DIPLOMA.\0MA.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-10-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 316/87 DE 16-ABR [89].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-16'
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal pelo(a) Port 316/87 - Diário da República n.º 89/1987, Série I de 1987-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS MAPAS II, III E O ART 48 PELO DEC LEI 169/87 DE 18-ABR DR.IS [90].\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-18'
+- type: amended_by
+  target: pt:dre:666333:por
+  label: "Alterados o art. 48º e os mapas II e III pelo DEC LEI.169/87.18.04.1987.MJ, DR.IS [90] de 18.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1987-666333
+  date: '1987-04-18'
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:458394:por
+  label: Rectificado pela DECL.DD6711.30.10.1980.PCM, DR.IS [262] de 12.11.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-458394
+  date: '1980-10-30'
+- type: repealed_by
+  target: pt:dre:174313:por
+  label: "Revogado pelo DEC LEI.58/95.1995.03.31.MJ, DR.IS-A [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1995-174313
+  date: '1995-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:53Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +238,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 #### SECÇÃO I — Direcção-Geral dos Serviços Tutelares de Menores
 
-###### Artigo 1.º A Direcção-Geral dos Serviços Tutelares de Menores, abreviadamente designada por DGSTM, é o departamento do Ministério da Justiça que tem como objectivo estudar, orientar, coordenar e controlar a execução das medidas decretadas pelos tribunais de menores e outras aplicadas no âmbito da legislação tutelar de protecção de menores, prevenção e reeducação dos seus comportamentos socialmente inadaptados.
+Artigo 1.º A Direcção-Geral dos Serviços Tutelares de Menores, abreviadamente designada por DGSTM, é o departamento do Ministério da Justiça que tem como objectivo estudar, orientar, coordenar e controlar a execução das medidas decretadas pelos tribunais de menores e outras aplicadas no âmbito da legislação tutelar de protecção de menores, prevenção e reeducação dos seus comportamentos socialmente inadaptados.
 
-###### Art. 2.º - 1 - São atribuições da DGSTM, designadamente:
+Art. 2.º - 1 - São atribuições da DGSTM, designadamente:
 
 a) Efectuar estudos, propor medidas e definir normas e técnicas de actuação no âmbito do seu objectivo;
 
@@ -120,11 +252,11 @@ c) Promover as acções necessárias ao aproveitamento e desenvolvimento dos rec
 
 #### SECÇÃO II — Federação Nacional das Instituições de Protecção à Infância
 
-###### Art. 3.º - 1 - A Federação Nacional das Instituições de Protecção à Infância (FNIPI) é uma pessoa colectiva de direito público que representa, no País e no plano internacional, a união moral e jurídica de todos os serviços e instituições oficiais e particulares que cooperam na defesa e protecção da infância.
+Art. 3.º - 1 - A Federação Nacional das Instituições de Protecção à Infância (FNIPI) é uma pessoa colectiva de direito público que representa, no País e no plano internacional, a união moral e jurídica de todos os serviços e instituições oficiais e particulares que cooperam na defesa e protecção da infância.
 
 2 - A DGSTM é o órgão executivo da FNIPI, competindo ao conselho administrativo elaborar o respectivo orçamento, propô-lo à aprovação ministerial, gerir as suas dotações e prestar contas nos termos das leis em vigor.
 
-###### Art. 4.º - 1 - O património atribuído por lei à FNIPI é administrado pela Direcção-Geral do Património do Estado.
+Art. 4.º - 1 - O património atribuído por lei à FNIPI é administrado pela Direcção-Geral do Património do Estado.
 
 2 - Os rendimentos do património da FNIPI destinam-se à satisfação das suas despesas próprias e das da DGSTM, designadamente das que se referem a:
 
@@ -144,7 +276,7 @@ e) Estudos, reuniões, estágios, frequência de cursos, congressos e representa
 
 #### SECÇÃO I — Órgãos
 
-###### Art. 5.º - 1 - São órgãos da DGSTM:
+Art. 5.º - 1 - São órgãos da DGSTM:
 
 a) O director-geral;
 
@@ -154,7 +286,7 @@ c) O conselho administrativo.
 
 2 - Junto da DGSTM funcionará o conselho consultivo dos serviços tutelares de menores.
 
-###### Art. 6.º Ao director-geral compete:
+Art. 6.º Ao director-geral compete:
 
 a) Superintender nos serviços da DGSTM e dirigir e coordenar a sua actividade, de acordo com a orientação definida superiormente;
 
@@ -170,19 +302,19 @@ f) Superintender nas relações internacionais da DGSTM e assegurar a sua repres
 
 g) Exercer todos os demais poderes que lhe sejam confiados pelas leis em vigor.
 
-###### Art. 7.º O Ministro da Justiça poderá delegar no director-geral competência para despachar quaisquer assuntos que ocorram pelos serviços da DGSTM, bem como autorizar a sua subdelegação.
+Art. 7.º O Ministro da Justiça poderá delegar no director-geral competência para despachar quaisquer assuntos que ocorram pelos serviços da DGSTM, bem como autorizar a sua subdelegação.
 
-###### Art. 8.º - 1 - O director-geral será coadjuvado por um subdirector-geral, no qual poderá delegar e subdelegar competências, nos termos da lei, e que o deverá substituir nas suas faltas e impedimentos.
+Art. 8.º - 1 - O director-geral será coadjuvado por um subdirector-geral, no qual poderá delegar e subdelegar competências, nos termos da lei, e que o deverá substituir nas suas faltas e impedimentos.
 
 2 - Ao subdirector-geral compete, nomeadamente, assegurar o funcionamento da administração corrente da DGSTM e a execução das deliberações do conselho administrativo.
 
-###### Art. 9.º - 1 - A composição do conselho técnico será fixada por portaria do Ministro da Justiça mediante proposta do director-geral.
+Art. 9.º - 1 - A composição do conselho técnico será fixada por portaria do Ministro da Justiça mediante proposta do director-geral.
 
 2 - O conselho técnico reunirá ordinariamente duas vezes por ano e extraordinariamente sempre que for convocado pelo seu presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.
 
 3 - A agenda das reuniões será sempre previamente fixada.
 
-###### Art. 10.º - 1 - Ao conselho técnico compete pronunciar-se sobre normas de trabalho, métodos e técnicas de actuação médico-psicopedagógica e disciplinar dos serviços tutelares de menores.
+Art. 10.º - 1 - Ao conselho técnico compete pronunciar-se sobre normas de trabalho, métodos e técnicas de actuação médico-psicopedagógica e disciplinar dos serviços tutelares de menores.
 
 2 - Compete especialmente ao conselho técnico:
 
@@ -198,7 +330,7 @@ e) Emitir parecer sobre convénios a realizar com entidades nacionais ou estrang
 
 f) Dar parecer sobre todas as demais questões que lhe forem apresentadas pelo director-geral ou por qualquer dos seus membros.
 
-###### Art. 11.º - 1 - O conselho administrativo é composto pelo director-geral, que preside, pelo subdirector-geral, pelo director de serviços de administração geral, pelo chefe da repartição administrativa e dos serviços centrais e por um representante da Direcção-Geral da Contabilidade Pública, a designar pelo Ministro das Finanças e do Plano.
+Art. 11.º - 1 - O conselho administrativo é composto pelo director-geral, que preside, pelo subdirector-geral, pelo director de serviços de administração geral, pelo chefe da repartição administrativa e dos serviços centrais e por um representante da Direcção-Geral da Contabilidade Pública, a designar pelo Ministro das Finanças e do Plano.
 
 2 - O conselho administrativo reúne ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo seu presidente.
 
@@ -208,7 +340,7 @@ f) Dar parecer sobre todas as demais questões que lhe forem apresentadas pelo d
 
 5 - Ao representante da Direcção-Geral da Contabilidade Pública será atribuída uma gratificação mensal, a fixar nos termos do artigo 3.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-###### Art. 12.º - 1 - O conselho administrativo é um órgão de gestão de fundos e de consulta sobre os assuntos relacionados com as explorações económicas (oficinais e agro-pecuárias) dos serviços externos da DGSTM e a gestão das respectivas receitas próprias.
+Art. 12.º - 1 - O conselho administrativo é um órgão de gestão de fundos e de consulta sobre os assuntos relacionados com as explorações económicas (oficinais e agro-pecuárias) dos serviços externos da DGSTM e a gestão das respectivas receitas próprias.
 
 2 - Compete especialmente ao conselho administrativo:
 
@@ -226,7 +358,7 @@ f) Apreciar as contas dos serviços relativamente às verbas que lhe forem atrib
 
 g) Pronunciar-se, no âmbito das suas atribuições, sobre as propostas de admissão de pessoal de carácter permanente ou eventual considerado indispensável aos serviços das explorações económicas, à educação e ensino profissional nos estabelecimentos tutelares de menores, a pagar pelos respectivos orçamentos de receitas próprias.
 
-###### Art. 13.º - 1 - A composição, competência, atribuições e o modo de funcionamento do conselho consultivo dos serviços tutelares de menores serão estabelecidos por portaria do Ministro da Justiça, de modo a garantir-se uma adequada representação dos seguintes Ministérios e entidades:
+Art. 13.º - 1 - A composição, competência, atribuições e o modo de funcionamento do conselho consultivo dos serviços tutelares de menores serão estabelecidos por portaria do Ministro da Justiça, de modo a garantir-se uma adequada representação dos seguintes Ministérios e entidades:
 
 a) Ministérios da Justiça, da Educação e Ciência, do Trabalho e dos Assuntos Sociais e Secretaria de Estado da Reforma Administrativa;
 
@@ -242,7 +374,7 @@ c) Representantes do pessoal dos serviços centrais e externos da DGSTM.
 
 #### SECÇÃO II — Serviços
 
-###### Art. 14.º - 1 - A DGSTM dispõe de serviços centrais e serviços externos.
+Art. 14.º - 1 - A DGSTM dispõe de serviços centrais e serviços externos.
 
 2 - Os serviços centrais compreendem serviços técnicos e serviços de apoio.
 
@@ -262,15 +394,15 @@ d) Divisão de Serviços Económicos.
 
 ##### Subsecção I — Serviços centrais
 
-###### Art. 15.º À Direcção de Serviços de Tratamento de Menores em Instituição cabe orientar, coordenar e controlar o exercício das actividades de formação moral, intelectual e física e das actividades disciplinares nos estabelecimentos tutelares de menores.
+Art. 15.º À Direcção de Serviços de Tratamento de Menores em Instituição cabe orientar, coordenar e controlar o exercício das actividades de formação moral, intelectual e física e das actividades disciplinares nos estabelecimentos tutelares de menores.
 
-###### Art. 16.º A Direcção de Serviços de Tratamento de Menores em Instituição compreende:
+Art. 16.º A Direcção de Serviços de Tratamento de Menores em Instituição compreende:
 
 a) Divisão de Orientação Pedagógica;
 
 b) Divisão de Animação de Tempos Livres.
 
-###### Art. 17.º Compete especialmente à Divisão de Orientação Pedagógica:
+Art. 17.º Compete especialmente à Divisão de Orientação Pedagógica:
 
 a) Orientar a formação moral e cívica ministrada nos estabelecimentos tutelares de menores;
 
@@ -286,7 +418,7 @@ f) Pronunciar-se sobre os horários de estudo, trabalho e lazer;
 
 g) Assegurar e coordenar a colaboração efectiva e continuada dos serviços públicos que, a nível geral, se ocupam dos problemas pedagógicos e da formação profissional.
 
-###### Art. 18.º À Divisão de Animação de Tempos Livres compete:
+Art. 18.º À Divisão de Animação de Tempos Livres compete:
 
 a) Propor e orientar as actividades de ocupação de tempos livres dos menores tutelados;
 
@@ -296,15 +428,15 @@ c) Promover e orientar a organização de iniciativas de estímulo ao desenvolvi
 
 d) Providenciar no sentido da conservação e renovação das instalações e dos equipamentos lúdicos.
 
-###### Art. 19.º À Direcção de Serviços de Colocação, Acompanhamento e Apoio Social e Médico-Psicológico cabe orientar, coordenar e controlar o encaminhamento dos menores confiados à protecção dos serviços e a sua observação, educação ou reeducação, no plano da acção médico-psicológica e do serviço social, em internato, em meio aberto ou em regime de pós-cura.
+Art. 19.º À Direcção de Serviços de Colocação, Acompanhamento e Apoio Social e Médico-Psicológico cabe orientar, coordenar e controlar o encaminhamento dos menores confiados à protecção dos serviços e a sua observação, educação ou reeducação, no plano da acção médico-psicológica e do serviço social, em internato, em meio aberto ou em regime de pós-cura.
 
-###### Art. 20.º A Direcção de Serviços de Colocação, Acompanhamento e Apoio Social e Médico-Psicológico compreende:
+Art. 20.º A Direcção de Serviços de Colocação, Acompanhamento e Apoio Social e Médico-Psicológico compreende:
 
 a) Divisão de Processos, Acolhimento e Colocação;
 
 b) Divisão de Serviços Sociais e Médico-Psicológicos.
 
-###### Art. 21.º À Divisão de Processos, Acolhimento e Colocação compete especialmente:
+Art. 21.º À Divisão de Processos, Acolhimento e Colocação compete especialmente:
 
 a) Estudar os processos, suas recomendações e deliberações, instaurados ao abrigo da legislação tutelar de menores e promover o encaminhamento adequado de cada caso;
 
@@ -316,7 +448,7 @@ d) Providenciar no sentido de facilitar a exequibilidade das medidas aplicáveis
 
 e) Orientar e controlar o cumprimento das disposições legais relativas à execução, alteração e cessação das medidas aplicadas aos menores.
 
-###### Art. 22.º À Divisão de Serviços Sociais e Médico-Psicológicos compete:
+Art. 22.º À Divisão de Serviços Sociais e Médico-Psicológicos compete:
 
 a) Orientar e dar apoio ao pessoal técnico dos estabelecimentos tutelares de menores e às famílias de acolhimento autorizadas a receber menores tutelados;
 
@@ -328,9 +460,9 @@ d) Definir os critérios a que deve obedecer a higiene mental e física e o regi
 
 e) Fiscalizar e orientar a manutenção das instalações dos menores em boas condições higiossanitárias.
 
-###### Art. 23.º À Direcção de Serviços de Estudo, Documentação e Informação Técnica cabe assegurar os objectivos da DGSTM em matéria de estudo e resolução dos problemas respeitantes à delinquência e inadaptação juvenis e aos menores em perigo, celebração e execução de acordos de cooperação com entidades nacionais, públicas ou privadas, colaboração a nível internacional e acções de formação especializada, aperfeiçoamento e actualização do pessoal técnico.
+Art. 23.º À Direcção de Serviços de Estudo, Documentação e Informação Técnica cabe assegurar os objectivos da DGSTM em matéria de estudo e resolução dos problemas respeitantes à delinquência e inadaptação juvenis e aos menores em perigo, celebração e execução de acordos de cooperação com entidades nacionais, públicas ou privadas, colaboração a nível internacional e acções de formação especializada, aperfeiçoamento e actualização do pessoal técnico.
 
-###### Art. 24.º Compete especialmente à Direcção de Serviços de Estudo, Documentação e Informação Técnica:
+Art. 24.º Compete especialmente à Direcção de Serviços de Estudo, Documentação e Informação Técnica:
 
 a) Estudar e propor, nos termos das leis em vigor, a celebração de acordos com entidades privadas que se ocupem dos problemas da infância e da juventude e controlar a respectiva execução;
 
@@ -352,7 +484,7 @@ i) Dirigir e acompanhar os estágios, emitindo parecer sobre o aproveitamento e 
 
 j) Elaborar o relatório anual das actividades da DGSTM.
 
-###### Art. 25.º Compete especialmente à Divisão de Serviços Económicos:
+Art. 25.º Compete especialmente à Divisão de Serviços Económicos:
 
 a) Elaborar o plano anual das actividades e dos equipamentos do sector oficinal e agro-pecuário dos serviços externos no que respeita a despesas a custear pelos respectivos orçamentos privativos em conta de receitas próprias;
 
@@ -368,17 +500,17 @@ f) Pronunciar-se sobre os preços da produção própria das explorações econ�
 
 g) Fiscalizar o movimento das tesourarias dos serviços externos com explorações económicas geridas com autonomia financeira.
 
-###### Art. 26.º - 1 - À Direcção de Serviços de Administração Geral cabe assegurar a execução das tarefas de apoio administrativo aos serviços centrais e coordenar, orientar e promover a gestão administrativa do pessoal e dos recursos económicos dos serviços externos.
+Art. 26.º - 1 - À Direcção de Serviços de Administração Geral cabe assegurar a execução das tarefas de apoio administrativo aos serviços centrais e coordenar, orientar e promover a gestão administrativa do pessoal e dos recursos económicos dos serviços externos.
 
 2 - Junto de cada um dos estabelecimentos dotados de autonomia administrativa funciona um serviço administrativo, dependente, hierarquicamente, da Direcção de Serviços de Administração Geral e, funcionalmente, do director do estabelecimento.
 
-###### Art. 27.º A Direcção de Serviços de Administração Geral compreende:
+Art. 27.º A Direcção de Serviços de Administração Geral compreende:
 
 a) Repartição Administrativa;
 
 b) Repartição de Contabilidade e Tesouraria.
 
-###### Art. 28.º - 1 - A Repartição Administrativa tem a seu cargo o expediente geral, o arquivo e a administração do pessoal, compreendendo as seguintes secções:
+Art. 28.º - 1 - A Repartição Administrativa tem a seu cargo o expediente geral, o arquivo e a administração do pessoal, compreendendo as seguintes secções:
 
 a) Secção de Pessoal;
 
@@ -392,9 +524,9 @@ b) Secção de Tesouraria.
 
 ##### Subsecção II — Serviços externos
 
-###### Art. 29.º Os serviços externos da DGSTM são constituídos pelos estabelecimentos tutelares de menores, que se destinam, consoante a sua espécie, ao exercício de acção social sobre os menores e o seu meio, à sua observação, à aplicação de medidas de protecção, à execução de medidas tutelares decretadas pelos tribunais e à acção de pós-cura.
+Art. 29.º Os serviços externos da DGSTM são constituídos pelos estabelecimentos tutelares de menores, que se destinam, consoante a sua espécie, ao exercício de acção social sobre os menores e o seu meio, à sua observação, à aplicação de medidas de protecção, à execução de medidas tutelares decretadas pelos tribunais e à acção de pós-cura.
 
-###### Art. 30.º - 1 - Os estabelecimentos tutelares de menores são das seguintes espécies:
+Art. 30.º - 1 - Os estabelecimentos tutelares de menores são das seguintes espécies:
 
 a) Centros de observação e acção social;
 
@@ -414,7 +546,7 @@ g) Centros de acolhimento especializado.
 
 3 - A natureza, atribuições, competência e orgânica das diversas espécies de estabelecimentos tutelares de menores são reguladas pela OTM.
 
-###### Art. 31.º São os seguintes os centros de observação e acção social:
+Art. 31.º São os seguintes os centros de observação e acção social:
 
 a) Centro de Observação e Acção Social de Lisboa;
 
@@ -424,9 +556,9 @@ c) Centro de Observação e Acção Social de Coimbra.
 
 2 - Os centros de observação e acção social destinam-se a menores de ambos os sexos.
 
-###### Art. 32.º O Instituto de Navarro de Paiva, em Lisboa, é um instituto médico-psicólógico, destinado a menores de ambos os sexos.
+Art. 32.º O Instituto de Navarro de Paiva, em Lisboa, é um instituto médico-psicólógico, destinado a menores de ambos os sexos.
 
-###### Art. 33.º Os estabelecimentos de reeducação são os seguintes:
+Art. 33.º Os estabelecimentos de reeducação são os seguintes:
 
 a) Escola Profissional de Santo António, para o sexo masculino, em Izeda;
 
@@ -448,7 +580,7 @@ i) Instituto de S. Domingos de Benfica, para o sexo feminino, em Lisboa;
 
 j) Instituto do Padre António de Oliveira, para o sexo masculino, em Caxias.
 
-###### Art. 34.º Os lares a que se referem as alíneas d) a f) do n.º 1 do artigo 30.º são os seguintes:
+Art. 34.º Os lares a que se referem as alíneas d) a f) do n.º 1 do artigo 30.º são os seguintes:
 
 a) Lar de Semi-Internato de Lisboa, para o sexo masculino;
 
@@ -462,7 +594,7 @@ e) Lar de Transição de Vila Nova de Gaia, para o sexo feminino;
 
 f) Lar Residencial de Caxias, para o sexo masculino.
 
-###### Art. 35.º - 1 - São criados os seguintes estabelecimentos polivalentes:
+Art. 35.º - 1 - São criados os seguintes estabelecimentos polivalentes:
 
 a) Centro Polivalente de Faro;
 
@@ -484,31 +616,31 @@ f) Lar de S. Domingos de Benfica, em Lisboa.
 
 5 - Os Lares de Nossa Senhora da Conceição e de S. José, em Viseu, e de S. Domingos de Benfica, em Lisboa, todos para o sexo feminino, destinam-se a desenvolver as actividades dos lares de semi-internato, de transição e residenciais.
 
-###### Art. 36.º - 1 - Os serviços técnicos dos centros de observação social, dos estabelecimentos de reeducação e dos institutos médico-psicológicos, bem como dos estabelecimentos polivalentes que desenvolvam actividades próprias de algum destes, têm a seu cargo a execução de actividades de ordem pedagógica, disciplinar, social e médico-psicológica.
+Art. 36.º - 1 - Os serviços técnicos dos centros de observação social, dos estabelecimentos de reeducação e dos institutos médico-psicológicos, bem como dos estabelecimentos polivalentes que desenvolvam actividades próprias de algum destes, têm a seu cargo a execução de actividades de ordem pedagógica, disciplinar, social e médico-psicológica.
 
 2 - Os serviços administrativos dos estabelecimentos referidos no número anterior assegurarão o expediente e arquivo, a administração do pessoal, a contabilidade, a tesouraria e a gestão patrimonial.
 
-###### Art. 37.º Os serviços de apoio social dos tribunais de menores e de família funcionam por equipas, orientadas por coordenadores nomeados pelo Ministro da Justiça, sob proposta do presidente do tribunal.
+Art. 37.º Os serviços de apoio social dos tribunais de menores e de família funcionam por equipas, orientadas por coordenadores nomeados pelo Ministro da Justiça, sob proposta do presidente do tribunal.
 
 #### SECÇÃO III — Inspecções
 
-###### Art. 38.º A fiscalização dos serviços centrais e externos é exercida por meio de inspecções, inquéritos e sindicâncias, ordenados pelo Ministro da Justiça ou pelo director-geral.
+Art. 38.º A fiscalização dos serviços centrais e externos é exercida por meio de inspecções, inquéritos e sindicâncias, ordenados pelo Ministro da Justiça ou pelo director-geral.
 
-###### Art. 39.º - 1 - O serviço de inspecção referido no artigo anterior, que pode ser efectuado pelo director-geral e pelo subdirector-geral, pelos directores de serviços e pelos chefes de divisão, fica especialmente a cargo dos técnicos superiores que, para o efeito, sejam designados pelo director-geral.
+Art. 39.º - 1 - O serviço de inspecção referido no artigo anterior, que pode ser efectuado pelo director-geral e pelo subdirector-geral, pelos directores de serviços e pelos chefes de divisão, fica especialmente a cargo dos técnicos superiores que, para o efeito, sejam designados pelo director-geral.
 
 2 - Por conveniência de serviço, pode o Ministro da Justiça encarregar magistrados ou funcionários do Ministério de proceder a inquéritos e sindicâncias ou de instruir processos disciplinares.
 
-###### Art. 40.º - 1 - Até ao dia 31 de Janeiro é elaborado pelos directores de serviços e submetido à aprovação do director-geral o plano anual das inspecções ordinárias.
+Art. 40.º - 1 - Até ao dia 31 de Janeiro é elaborado pelos directores de serviços e submetido à aprovação do director-geral o plano anual das inspecções ordinárias.
 
 2 - Fora do plano das inspecções ordinárias, são realizadas as extraordinárias que o Ministro da Justiça ou o director-geral determinarem.
 
-###### Art. 41.º As inspecções têm como principal objectivo revelar o estado dos serviços, a fim de as entidades competentes mais eficazmente os poderem orientar, uniformizando os critérios de actuação do funcionalismo, corrigindo as imperfeições e suprindo as deficiências, tanto de organização como de funcionamento, dos diversos estabelecimentos tutelares de menores; simultaneamente, destinam-se a coligir os elementos necessários para a classificação dos funcionários e para a justa punição dos responsáveis pelas irregularidades apuradas.
+Art. 41.º As inspecções têm como principal objectivo revelar o estado dos serviços, a fim de as entidades competentes mais eficazmente os poderem orientar, uniformizando os critérios de actuação do funcionalismo, corrigindo as imperfeições e suprindo as deficiências, tanto de organização como de funcionamento, dos diversos estabelecimentos tutelares de menores; simultaneamente, destinam-se a coligir os elementos necessários para a classificação dos funcionários e para a justa punição dos responsáveis pelas irregularidades apuradas.
 
 ### CAPÍTULO III — Pessoal
 
 #### SECÇÃO I — Quadros de pessoal
 
-###### Art. 42.º - 1 - O pessoal da DGSTM será agrupado em:
+Art. 42.º - 1 - O pessoal da DGSTM será agrupado em:
 
 a) Pessoal dirigente;
 
@@ -528,7 +660,7 @@ e) Pessoal operário e auxiliar.
 
 5 - O pessoal que for destacado para serviço nos tribunais de menores ou de família depende funcionalmente dos magistrados do respectivo tribunal, mas integra-se orgânica e hierarquicamente no serviço da DGSTM a que tiver sido distribuído.
 
-###### Art. 43.º - 1 - O provimento do pessoal a que se refere este diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 43.º - 1 - O provimento do pessoal a que se refere este diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -546,7 +678,7 @@ a) No lugar de origem, quando à comissão não se seguir provimento definitivo;
 
 b) No lugar do quadro da DGSTM em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 44.º As formas de provimento e os regimes de recrutamento do pessoal dirigente da DGSTM são os seguintes:
+Art. 44.º As formas de provimento e os regimes de recrutamento do pessoal dirigente da DGSTM são os seguintes:
 
 a) Os lugares de director-geral, subdirector-geral, director de serviços e chefe de divisão serão providos nos termos da lei geral;
 
@@ -556,45 +688,45 @@ c) Os lugares de chefe de repartição serão providos de entre chefes de secç�
 
 d) Os lugares de coordenador serão providos, em comissão de serviço, por um período de três anos, renovável, de entre técnicos de educação principais, psicólogos principais (carreira técnica), técnicos de serviço social principais e técnicos de orientação escolar e social (4.ª fase).
 
-###### Art. 45.º Ao provimento nos lugares das carreiras de pessoal técnico superior e de pessoal técnico é aplicável o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 45.º Ao provimento nos lugares das carreiras de pessoal técnico superior e de pessoal técnico é aplicável o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 46.º O pessoal técnico-profissional abrange carreiras de técnico auxiliar de educação, técnico auxiliar de serviço social, agente técnico agrícola e técnico oficinal de ensino profissional e os lugares respectivos serão providos nos termos do artigo 10.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 5 de Junho.
+Art. 46.º O pessoal técnico-profissional abrange carreiras de técnico auxiliar de educação, técnico auxiliar de serviço social, agente técnico agrícola e técnico oficinal de ensino profissional e os lugares respectivos serão providos nos termos do artigo 10.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 5 de Junho.
 
-###### Art. 47.º - 1 - Os lugares de chefe de secção serão providos por nomeação, mediante concurso documental, de entre primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria ou, na sua falta, de entre indivíduos habilitados com curso superior adequado.
+Art. 47.º - 1 - Os lugares de chefe de secção serão providos por nomeação, mediante concurso documental, de entre primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria ou, na sua falta, de entre indivíduos habilitados com curso superior adequado.
 
 2 - Os restantes lugares das carreiras de pessoal administrativo serão providos nos termos da lei geral.
 
-###### Art. 48.º - 1 - As carreiras de pessoal operário e auxiliar são as constantes do mapa II anexo ao presente diploma.
+Art. 48.º - 1 - As carreiras de pessoal operário e auxiliar são as constantes do mapa II anexo ao presente diploma.
 
 2 - O provimento nos lugares das carreiras referidas no número anterior far-se-á nos termos da lei geral.
 
-###### Art. 49.º O provimento e progressão nos lugares da carreira de técnico de orientação escolar e social far-se-á nos termos estabelecidos no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, para o escalão 5.
+Art. 49.º O provimento e progressão nos lugares da carreira de técnico de orientação escolar e social far-se-á nos termos estabelecidos no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, para o escalão 5.
 
-###### Art. 50.º As áreas e o conteúdo funcional das carreiras referidas nos artigos anteriores, e bem assim a especificação das habilitações literárias ou técnico-profissinais exigidas para o ingresso, serão definidos por portaria conjunta do Ministro da Justiça e do membro do Governo que tiver a seu cargo a função pública.
+Art. 50.º As áreas e o conteúdo funcional das carreiras referidas nos artigos anteriores, e bem assim a especificação das habilitações literárias ou técnico-profissinais exigidas para o ingresso, serão definidos por portaria conjunta do Ministro da Justiça e do membro do Governo que tiver a seu cargo a função pública.
 
 #### SECÇÃO II — Alteração dos quadros e pessoal além dos quadros
 
-###### Art. 51.º - 1 - O número de lugares dos quadros da DGSTM pode ser alterado mediante portaria dos Ministros da Justiça e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, à medida que as necessidades do serviço o justifiquem.
+Art. 51.º - 1 - O número de lugares dos quadros da DGSTM pode ser alterado mediante portaria dos Ministros da Justiça e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, à medida que as necessidades do serviço o justifiquem.
 
 2 - Os quadros constantes do mapa III anexo ao presente diploma poderão ser alterados por simples despacho do Ministro da Justiça, desde que a alteração não determine a criação extinção de lugares nos mapas I e II.
 
-###### Art. 52.º - 1 - Por despacho do Ministro da Justiça e do membro do Governo que tiver a seu cargo a função pública poderá ser admitida a contratação de pessoal para exercer funções equiparadas às dos funcionários das categorias e carreiras técnicas, técnico-profissionais e com regime especial abrangidas pelo disposto no artigo 64.º do presente diploma, por motivo de urgentes e inadiáveis necessidades de serviço.
+Art. 52.º - 1 - Por despacho do Ministro da Justiça e do membro do Governo que tiver a seu cargo a função pública poderá ser admitida a contratação de pessoal para exercer funções equiparadas às dos funcionários das categorias e carreiras técnicas, técnico-profissionais e com regime especial abrangidas pelo disposto no artigo 64.º do presente diploma, por motivo de urgentes e inadiáveis necessidades de serviço.
 
 2 - A admissão do pessoal referido no número anterior far-se-á de acordo com o disposto no [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro, e legislação complementar, com as devidas adaptações
 
-###### Art. 53.º Os órgãos dos serviços e estabelecimentos da DGSTM podem contratar pessoal em regime de prestação eventual de serviço, nos termos do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março, para suprir carências imediatas motivadas por ausências temporárias de titulares de lugares dos quadros ou para exercer funções correspondentes a lugares que vagarem.
+Art. 53.º Os órgãos dos serviços e estabelecimentos da DGSTM podem contratar pessoal em regime de prestação eventual de serviço, nos termos do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março, para suprir carências imediatas motivadas por ausências temporárias de titulares de lugares dos quadros ou para exercer funções correspondentes a lugares que vagarem.
 
-###### Art. 54.º - 1 - Do contrato feito nos termos do artigo anterior deve constar a remuneração a atribuir, que corresponda ao vencimento fixado para a categoria de ingresso na carreira respectiva, a identificação da situação concreta que lhe deu origem e o prazo provável de duração da prestação de serviço.
+Art. 54.º - 1 - Do contrato feito nos termos do artigo anterior deve constar a remuneração a atribuir, que corresponda ao vencimento fixado para a categoria de ingresso na carreira respectiva, a identificação da situação concreta que lhe deu origem e o prazo provável de duração da prestação de serviço.
 
 2 - O contrato de prestação eventual de serviço previsto no artigo anterior cessa logo que deixem de subsistir as situações concretas de carência que o motivaram.
 
-###### Art. 55.º - 1 - O Ministro da Justiça pode autorizar o recurso a indivíduos ou entidades para executar trabalhos específicos, designadamente estudos ou inquéritos necessários ao bom funcionamento dos serviços da DGSTM, devendo os respectivos contratos ou termos de tarefa ser estabelecidos de harmonia com o disposto no artigo 5.º do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março.
+Art. 55.º - 1 - O Ministro da Justiça pode autorizar o recurso a indivíduos ou entidades para executar trabalhos específicos, designadamente estudos ou inquéritos necessários ao bom funcionamento dos serviços da DGSTM, devendo os respectivos contratos ou termos de tarefa ser estabelecidos de harmonia com o disposto no artigo 5.º do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março.
 
 2 - Os encargos resultantes da execução do disposto no número anterior serão satisfeitos pelos cofres do Gabinete de Gestão Financeira.
 
-###### Art. 56.º Para os serviços de explorações económicas pode ser assalariado, a título eventual, o pessoal que seja indispensável.
+Art. 56.º Para os serviços de explorações económicas pode ser assalariado, a título eventual, o pessoal que seja indispensável.
 
-###### Art. 57.º - 1 - Os encargos com a execução do disposto nos artigos 51.º e 56.º serão suportados por verbas expressamente destinadas a pessoal do orçamento privativo em conta de receitas próprias do respectivo estabelecimento tutelar de menores.
+Art. 57.º - 1 - Os encargos com a execução do disposto nos artigos 51.º e 56.º serão suportados por verbas expressamente destinadas a pessoal do orçamento privativo em conta de receitas próprias do respectivo estabelecimento tutelar de menores.
 
 2 - Os encargos com a execução do disposto no artigo 53.º serão suportados pelas disponibilidades do Orçamento Geral do Estado, na dotação adequada.
 
@@ -602,21 +734,21 @@ d) Os lugares de coordenador serão providos, em comissão de serviço, por um p
 
 #### SECÇÃO I — Provimentos e concursos
 
-###### Art. 58.º Sem prejuízo dos requisitos especialmente exigidos na lei, o Ministro da Justiça pode determinar que o provimento provisório dependa:
+Art. 58.º Sem prejuízo dos requisitos especialmente exigidos na lei, o Ministro da Justiça pode determinar que o provimento provisório dependa:
 
 a) De aprovação em exame médico, designadamente para apurar as características psicossomáticas dos candidatos, com vista à sua possível adaptação às funções públicas a exercer;
 
 b) De requisitos especiais, desde que as características dos respectivos cargos os imponham.
 
-###### Art. 59.º A regulamentação dos concursos e o programa geral das respectivas provas serão estabelecidos por portaria do Ministro da Justiça e do membro do Governo que tiver a seu cargo a função pública.
+Art. 59.º A regulamentação dos concursos e o programa geral das respectivas provas serão estabelecidos por portaria do Ministro da Justiça e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 60.º No provimento em lugares de ingresso nos quadros terão preferência os funcionários e agentes da DGSTM que reúnam os requisitos legais, quando em igualdade de circunstâncias nos concursos.
+Art. 60.º No provimento em lugares de ingresso nos quadros terão preferência os funcionários e agentes da DGSTM que reúnam os requisitos legais, quando em igualdade de circunstâncias nos concursos.
 
 #### SECÇÃO II — Colocação e regime de trabalho
 
 ##### Subsecção I — Colocação e transferências
 
-###### Art. 61.º - 1 - O pessoal dos serviços externos da DGSTM será colocado por despacho do director-geral, de acordo com as necessidades do serviço, mas as colocações que impliquem transferência para estabelecimento ou serviço situado noutro distrito ficam sujeitas a confirmação do Ministro da Justiça, ouvido o interessado.
+Art. 61.º - 1 - O pessoal dos serviços externos da DGSTM será colocado por despacho do director-geral, de acordo com as necessidades do serviço, mas as colocações que impliquem transferência para estabelecimento ou serviço situado noutro distrito ficam sujeitas a confirmação do Ministro da Justiça, ouvido o interessado.
 
 2 - O pessoal a que se refere o número anterior poderá ser destacado para exercer funções nos tribunais de menores e de família e nos estabelecimentos a que se refere o n.º 3 do artigo 4.º
 
@@ -626,39 +758,39 @@ b) De requisitos especiais, desde que as características dos respectivos cargos
 
 ##### Subsecção II — Regime de trabalho
 
-###### Art. 62.º - 1 - O regime de trabalho dos serviços externos da DGSTM é de laboração contínua.
+Art. 62.º - 1 - O regime de trabalho dos serviços externos da DGSTM é de laboração contínua.
 
 2 - À remuneração do trabalho normal nocturno, do trabalho normal diurno prestado aos sábados, domingos e feriados e do trabalho normal nocturno prestado aos sábados, domingos e feriados aplicam-se as regras constantes da lei geral.
 
 3 - Por despacho do Ministro da Justiça serão fixadas as categorias e carreiras abrangidas pelo disposto nos números anteriores.
 
-###### Art. 63.º - 1 - Para ocorrer a necessidades imperiosas de serviço, poderá ser autorizada, dentro dos limites legais, prestação de trabalho extraordinário.
+Art. 63.º - 1 - Para ocorrer a necessidades imperiosas de serviço, poderá ser autorizada, dentro dos limites legais, prestação de trabalho extraordinário.
 
 2 - Entende-se por trabalho extraordinário o que ultrapasse o número de horas de trabalho semanal e normal a que o pessoal dos serviços está obrigado.
 
 3 - A remuneração de trabalho extraordinário será processada nos termos da lei geral.
 
-###### Art. 64.º - 1 - Têm residência obrigatória junto do respectivo estabelecimento os directores, os chefes dos serviços administrativos, os enfermeiros, os técnicos de educação e de orientação escolar e social, os técnicos auxiliares de educação, os motoristas e quaisquer outros funcionários que, mediante despacho ministerial proferido em face de proposta da Direcção-Geral, devam considerar-se como podendo ser chamados a intervir para resolver situações que exijam medidas urgentes e inadiáveis.
+Art. 64.º - 1 - Têm residência obrigatória junto do respectivo estabelecimento os directores, os chefes dos serviços administrativos, os enfermeiros, os técnicos de educação e de orientação escolar e social, os técnicos auxiliares de educação, os motoristas e quaisquer outros funcionários que, mediante despacho ministerial proferido em face de proposta da Direcção-Geral, devam considerar-se como podendo ser chamados a intervir para resolver situações que exijam medidas urgentes e inadiáveis.
 
 2 - A obrigação estabelecida no número anterior não é aplicável aos funcionários aí referidos a quem o Estado não forneça habitação.
 
-###### Art. 65.º Aos cozinheiros e outro pessoal que preste serviço permanente nas cozinhas e ao pessoal de educação, desde que tenham, por exigência de serviço, de permanecer em exercício de funções durante as refeições, será fornecida alimentação gratuita idêntica à que tiver sido confeccionada para os menores, sem prejuízo do direito ao subsídio de refeição nos termos legais.
+Art. 65.º Aos cozinheiros e outro pessoal que preste serviço permanente nas cozinhas e ao pessoal de educação, desde que tenham, por exigência de serviço, de permanecer em exercício de funções durante as refeições, será fornecida alimentação gratuita idêntica à que tiver sido confeccionada para os menores, sem prejuízo do direito ao subsídio de refeição nos termos legais.
 
-###### Art. 66.º - 1 - As funções de tesoureiro dos conselhos administrativos da Direcção-Geral e dos estabelecimentos tutelares de menores serão exercidas pelos funcionários administrativos que forem designados para o efeito por despacho do director-geral, sob proposta, no caso dos estabelecimentos, do respectivo director.
+Art. 66.º - 1 - As funções de tesoureiro dos conselhos administrativos da Direcção-Geral e dos estabelecimentos tutelares de menores serão exercidas pelos funcionários administrativos que forem designados para o efeito por despacho do director-geral, sob proposta, no caso dos estabelecimentos, do respectivo director.
 
 2 - Aos tesoureiros a que se refere o número anterior será concedido abono para falhas, nos termos da lei em vigor.
 
 #### SECÇÃO III — Disposições diversas
 
-###### Art. 67.º O Ministro da Justiça pode conceder, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, os subsídios necessários para assegurar a execução dos orçamentos de despesas em conta de receitas próprias privativas dos estabelecimentos tutelares de menores e da Federação Nacional das Instituições de Protecção à Infância, quando as respectivas receitas se mostrem insuficientes.
+Art. 67.º O Ministro da Justiça pode conceder, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, os subsídios necessários para assegurar a execução dos orçamentos de despesas em conta de receitas próprias privativas dos estabelecimentos tutelares de menores e da Federação Nacional das Instituições de Protecção à Infância, quando as respectivas receitas se mostrem insuficientes.
 
-###### Art. 68.º - 1 - São extintos os lares de semiliberdade que a DGSTM tem mantido em funcionamento.
+Art. 68.º - 1 - São extintos os lares de semiliberdade que a DGSTM tem mantido em funcionamento.
 
 2 - Os arrendamentos, instalações, equipamento, material, livros, papéis de escrituração e demais documentos dos extintos lares de semiliberdade são transferidos, sem dependência de quaisquer formalidades, para os lares de transição ou polivalentes criados nas mesmas localidades.
 
 #### SECÇÃO IV — Transição do pessoal
 
-###### Art. 69.º - 1 - O primeiro provimento dos lugares dos quadros aprovados pelo presente diploma far-se-á de entre os funcionários e agentes que a qualquer título prestem serviço na DGSTM, observados os requisitos habilitacionais e de acordo com as seguintes regras:
+Art. 69.º - 1 - O primeiro provimento dos lugares dos quadros aprovados pelo presente diploma far-se-á de entre os funcionários e agentes que a qualquer título prestem serviço na DGSTM, observados os requisitos habilitacionais e de acordo com as seguintes regras:
 
 a) Em categoria idêntica à que o funcionário já possui;
 
@@ -672,13 +804,13 @@ d) Em categoria correspondente às funções que o funcionário ou agente desemp
 
 3 - Para efeitos do disposto na alínea d) do n.º 1, por despacho do Ministro da Justiça, será determinada a correspondência funcional das respectivas categorias.
 
-###### Art. 70.º Os actuais funcionários providos nas categorias de adjunto do director-geral, inspector dos serviços tutelares de menores, directores de estabelecimentos de 1.ª classe, de 2.ª classe e de 3.ª classe e chefe de repartição transitam para os lugares dos quadros anexos I e II a este diploma, de acordo com as seguintes regras:
+Art. 70.º Os actuais funcionários providos nas categorias de adjunto do director-geral, inspector dos serviços tutelares de menores, directores de estabelecimentos de 1.ª classe, de 2.ª classe e de 3.ª classe e chefe de repartição transitam para os lugares dos quadros anexos I e II a este diploma, de acordo com as seguintes regras:
 
 a) Para técnico superior principal - o adjunto do director-geral, o inspector dos serviços tutelares de menores com mais de três anos na categoria, os directores de estabelecimento de 1.ª classe e os de 2.ª classe com mais de três anos na categoria;
 
 b) Para técnico superior de 1.ª classe - o inspector dos serviços tutelares de menores com menos de três anos na categoria, os directores de estabelecimento de 2.ª classe com menos de três anos na categoria, os directores de estabelecimentos de 3.ª classe e o chefe de repartição habilitado com licenciatura.
 
-###### Art. 71.º Os actuais funcionários habilitados com licenciatura e providos na categoria de psicólogo transitam para os lugares da respectiva carreira técnica superior de psicólogo do mapa II anexo, de acordo com as seguintes regras:
+Art. 71.º Os actuais funcionários habilitados com licenciatura e providos na categoria de psicólogo transitam para os lugares da respectiva carreira técnica superior de psicólogo do mapa II anexo, de acordo com as seguintes regras:
 
 a) Para psicólogo principal - psicólogos com mais de seis anos na categoria;
 
@@ -686,7 +818,7 @@ b) Para psicólogo de 1.ª classe - psicólogos com mais de três anos na catego
 
 c) Para psicólogo de 2.ª classe - psicólogos com menos de três anos na categoria.
 
-###### Art. 72.º Os actuais funcionários providos nas categorias das carreiras de educador, orientador social, educador-adjunto e orientador social-adjunto transitam para os lugares do mapa II anexo, de acordo com as seguintes regras:
+Art. 72.º Os actuais funcionários providos nas categorias das carreiras de educador, orientador social, educador-adjunto e orientador social-adjunto transitam para os lugares do mapa II anexo, de acordo com as seguintes regras:
 
 a) Para técnico de orientação escolar e social - os que se encontrem habilitados com o curso do magistério primário e os que, habilitados com o curso geral dos liceus, tenham tido aproveitamento no curso e no estágio a que se refere o artigo 75.º, transitando para a respectiva fase de acordo com o tempo de serviço;
 
@@ -702,7 +834,7 @@ f) Para técnico auxiliar de educação de 1.ª classe e técnico auxiliar de se
 
 g) Para técnico auxiliar de educação 2.ª classe e técnico auxiliar de serviço social de 2.ª classe - os que, nas condições da alínea e), estejam providos nas categorias de orientador social de 3.ª classe, educador-adjunto de 2.ª classe e de 3.ª classe e orientador social-adjunto de 2.ª classe e de 3.ª classe.
 
-###### Art. 73.º - 1 - Os actuais funcionários providos nas categorias das carreiras de mestre, referidas nos itens IV e V do mapa VI anexo ao [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, de encarregado de ensino e de profissionais de artes e ofícios, e que não estejam habilitados com curso técnico adequado transitarão para a carreira de técnico oficial de ensino profissional, após aproveitamento em curso de formação, a definir por despacho do Ministro da Justiça e do Secretário de Estado da Reforma Administrativa, de acordo com as seguintes regras:
+Art. 73.º - 1 - Os actuais funcionários providos nas categorias das carreiras de mestre, referidas nos itens IV e V do mapa VI anexo ao [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, de encarregado de ensino e de profissionais de artes e ofícios, e que não estejam habilitados com curso técnico adequado transitarão para a carreira de técnico oficial de ensino profissional, após aproveitamento em curso de formação, a definir por despacho do Ministro da Justiça e do Secretário de Estado da Reforma Administrativa, de acordo com as seguintes regras:
 
 a) Para técnico oficinal de ensino profissional principal - os mestres de 1.ª classe a que se refere o item IV atrás mencionado;
 
@@ -712,60 +844,60 @@ c) Para técnico oficinal de ensino profissional de 2.ª classe - os mestres de 
 
 2 - Os funcionários referidos no número anterior, até obterem aproveitamento no curso de formação nele referido, transitam para as respectivas carreiras do pessoal operário e auxiliar constantes do mapa II anexo ao presente diploma, de acordo com as regras estabelecidas no artigo 69.º
 
-###### Art. 74.º - 1 - Os actuais funcionários providos nas categorias de monitor-vigilante de 1.ª classe, de 2.ª classe e de 3.ª classe, de monitor-vigilante auxiliar e de mestre de música transitam para a categoria de auxiliar de educação.
+Art. 74.º - 1 - Os actuais funcionários providos nas categorias de monitor-vigilante de 1.ª classe, de 2.ª classe e de 3.ª classe, de monitor-vigilante auxiliar e de mestre de música transitam para a categoria de auxiliar de educação.
 
 2 - Os funcionários referidos no número anterior poderão ingressar na carreira de técnico oficinal de ensino profissional desde que obtenham aproveitamento no curso referido no n.º 1 do artigo anterior.
 
-###### Art. 75.º - 1 - Para os efeitos do disposto no artigo 72.º, os funcionários já habilitados com o curso do Instituto de Formação Profissional ou equiparado deverão frequentar um estágio com a duração de seis meses.
+Art. 75.º - 1 - Para os efeitos do disposto no artigo 72.º, os funcionários já habilitados com o curso do Instituto de Formação Profissional ou equiparado deverão frequentar um estágio com a duração de seis meses.
 
 2 - Para os efeitos do disposto no artigo 72.º, os funcionários não habilitados com a formação técnico-profissional referida no número anterior deverão obter aproveitamento em curso a ministrar e estágio com a duração de três meses.
 
 3 - A duração do curso referido no número anterior, bem como as condições do seu funcionamento e dos estágios, serão fixadas por despacho do Ministro da Justiça e do Secretário de Estado da Reforma Administrativa.
 
-###### Art. 76.º - 1 - O pessoal que presta serviço na Escola Profissional de Santo António, em Izeda, na Escola Profissional de Santa Clara, em Vila do Conde, e no Instituto de Corpus Christi, em Vila Nova de Gaia ingressa nos lugares do mapa II anexo ao presente diploma, nas condições estabelecidas nos artigos 69.º e seguintes.
+Art. 76.º - 1 - O pessoal que presta serviço na Escola Profissional de Santo António, em Izeda, na Escola Profissional de Santa Clara, em Vila do Conde, e no Instituto de Corpus Christi, em Vila Nova de Gaia ingressa nos lugares do mapa II anexo ao presente diploma, nas condições estabelecidas nos artigos 69.º e seguintes.
 
 2 - O tempo de serviço prestado às instituições referidas no número anterior conta, para efeitos de aposentação, como serviço público.
 
-###### Art. 77.º Para o pessoal que transitar para as carreiras do pessoal operário e auxiliar é-lhe contado, para efeitos de progressão na carreira, o tempo de serviço prestado nas categorias de origem.
+Art. 77.º Para o pessoal que transitar para as carreiras do pessoal operário e auxiliar é-lhe contado, para efeitos de progressão na carreira, o tempo de serviço prestado nas categorias de origem.
 
-###### Art. 78.º - 1 - Os primeiros provimentos previstos no presente diploma far-se-ão mediante diplomas de provimento ou listas nominativas, aprovados por despacho do Ministro da Justiça, visados ou anotados pelo Tribunal de Contas e publicados no Diário da República.
+Art. 78.º - 1 - Os primeiros provimentos previstos no presente diploma far-se-ão mediante diplomas de provimento ou listas nominativas, aprovados por despacho do Ministro da Justiça, visados ou anotados pelo Tribunal de Contas e publicados no Diário da República.
 
 2 - A aplicação do presente diploma substitui o mecanismos previsto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 377/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1979-369590), de 13 de Setembro.
 
 #### SECÇÃO V — Disposições finais
 
-###### Art. 79.º Os encargos resultantes da aplicação do disposto no presente diploma serão suportados, até final do corrente ano e na medida em que ultrapassem as dotações orçamentais, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 79.º Os encargos resultantes da aplicação do disposto no presente diploma serão suportados, até final do corrente ano e na medida em que ultrapassem as dotações orçamentais, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 80.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas por despacho do Ministro da Justiça, em conjunto com o Ministro das Finanças e do Plano e o membro do Governo que tiver a seu cargo a função pública, de acordo com as respectivas competências.
+Art. 80.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas por despacho do Ministro da Justiça, em conjunto com o Ministro das Finanças e do Plano e o membro do Governo que tiver a seu cargo a função pública, de acordo com as respectivas competências.
 
-###### Art. 81.º Ficam revogados os artigos 26.º a 35.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, o [Decreto n.º 200/73](https://diariodarepublica.pt/dr/detalhe/decreto/200-1973-422012), de 3 de Maio, e legislação complementar.
+Art. 81.º Ficam revogados os artigos 26.º a 35.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, o [Decreto n.º 200/73](https://diariodarepublica.pt/dr/detalhe/decreto/200-1973-422012), de 3 de Maio, e legislação complementar.
 
-###### Art. 82.º As alterações resultantes da aplicação do presente diploma produzirão efeitos a partir de 1 de Julho de 1980.
+Art. 82.º As alterações resultantes da aplicação do presente diploma produzirão efeitos a partir de 1 de Julho de 1980.
 
 Para ser publicado no Boletim Oficial de Macau.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 3 de Outubro de 1980.**
+Promulgado em 3 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Pessoal dos serviços centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf)
 
 MAPA II
 
 Pessoal dos serviços externos da DGSTM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf)
 
 MAPA III
 
 Serviço de apoio social dos tribunais de menores e de família
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24400/35053517.pdf)

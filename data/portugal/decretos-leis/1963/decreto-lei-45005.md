@@ -46,40 +46,117 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:44:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eda3b87a3828d7b068ef7b5ac93d86931086b11b5166d83015751bf8933c549e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 678a0889772dea8ff843e009404af14366ab709767b2916a5173711708e564f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo das Contribuições e Impostos
 relationships:
 - type: amended_by
   target: pt:dre:686384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:432797:por
+  label: "Alterados os arts. 80º e 88º do Código de Processo das Contribuições e Impostos, aprovado pelo presente diploma,\
+    \ pelo DEC LEI.45400.30.11.1963.MF, DG.IS [281-Supl] de 30.11.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45400-1963-432797
+  date: '1963-11-30'
+- type: amended_by
+  target: pt:dre:263073:por
+  label: "Alterados os arts. 49.º, 66.º, 127.º, 128.º, 135.º, 166.º e 264.º e revogados os arts. 129.º, 130.º e 131.º do Código\
+    \ de Processo das Contribuições e Impostos, pelo DEC LEI.48699.1968.11.23.MF, DG.IS [276]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48699-1968-263073
+  date: '1968-11-23'
+- type: amended_by
+  target: pt:dre:500937:por
+  label: "Alterada a al. b) do art. 152.º, aditado um parag. 3.º ao art. 172.º e alterados os arts. 29.º, 30.º, 40.º, 76.º,\
+    \ 84.º, 89.º, 115.º, 152.º, 222.º e 243.º do Código pelo DEC LEI.217/76.25.03.1976.MF, DG.IS [72] de 25.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1976-500937
+  date: '1976-03-25'
+- type: amended_by
+  target: pt:dre:277078:por
+  label: "Elevado o limite estabelecido no art. 137º do Código de Processo das Contribuições e Impostos, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.434/77.17.10.1977.MF, DR.IS [240] de 17.10.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/434-1977-277078
+  date: '1977-10-17'
+- type: amended_by
+  target: pt:dre:365890:por
+  label: "Alterada a redacção dos arts. 11.º, § único do art. 16.º, al. a) e c) do art. 29.º, art. 31.º, 57.º, § único do\
+    \ art. 66.º, art. 75.º, § único do art. 112.º, § 2 do art. 115.º, art. 118.º, 127.º, 139.º, 140.º, § 3 do art. 163.º,\
+    \ art. 209.º, al. d), e), f) e g) do art. 219.º e art. 262.º, e eliminado o art. 119.º, todos do Código de Processo das\
+    \ Contribuições e Impostos, pelo DEC LEI.500/79.1979.12.22.MF, DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/500-1979-365890
+  date: '1979-12-22'
+- type: amended_by
+  target: pt:dre:374384:por
+  label: "Dada nova redacção aos arts. 32º, 217º, 219º e 229º do Código pelo DEC LEI.362/82.08.09.1982.MFP, DR.IS [208] de\
+    \ 08.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1982-374384
+  date: '1982-09-08'
+- type: amended_by
+  target: pt:dre:380740:por
+  label: "Alterado o art. 243º do Código de Processo das Contribuições e Impostos, na redação do Dec Lei 45005, de 27-abr\
+    \ 1963, pelo DEC LEI.485/82.28.12.1982.MFP, DR.IS [298] de 28.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1982-380740
+  date: '1982-12-28'
+- type: amended_by
+  target: pt:dre:228619:por
+  label: "Alterados os arts. 167º e 193º, pelo DEC LEI.177/86.1986.07.02.MJ, DR.IS [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1986-228619
+  date: '1986-07-02'
+- type: amended_by
+  target: pt:dre:357909:por
+  label: "Alterado o artigo 163.º do Código de Processo das Contribuições e Impostos, pelo DEC LEI.414/88.10.11.1988.MF, DR.IS\
+    \ [260] de 10.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1988-357909
+  date: '1988-11-10'
+- type: amended_by
+  target: pt:dre:686384:por
+  label: Extinto o regime de cobrança virtual, criado pelo art. 19.º do Código de Processo das Contribuições e Impostos, pelo
+    DEC LEI.275-A/93.1993.08.09.MF, DR.IS-A [185]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-a-1993-686384
+  date: '1993-08-09'
+- type: cites
+  target: pt:dre:275437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280710:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:594675:por
+  label: "Revogado a partir da entrada em vigor do Código do Processo Tributário, com as posteriores alterações, bem como\
+    \ toda a legislação contrária ao Código ora aprovado, pelo DEC LEI.154/91.1991.04.23.MF, DR.IS-A [94], salvo as excepções\
+    \ nele previstas e no Decreto-Lei n.º 20-A/90, de 15 de Janeiro\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1991-594675
+  date: '1991-04-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 50
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:44:51Z'
   warnings: []
   errors: []
 ---
@@ -176,15 +253,15 @@ Espera-se que da execução do sistema agora adoptado venham a resultar efeitos 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código de Processo das Contribuições e Impostos, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código de Processo das Contribuições e Impostos, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O Código de Processo das Contribuições e Impostos aplica-se ùnicamente aos processos instaurados a partir de 1 de Julho do ano corrente.
+Art. 2.º O Código de Processo das Contribuições e Impostos aplica-se ùnicamente aos processos instaurados a partir de 1 de Julho do ano corrente.
 
 § único. Os processos pendentes à data do presente diploma ou que sejam instaurados até 30 de Junho do ano corrente continuam a regular-se pelas leis actualmente em vigor, até à sua extinção.
 
-###### Art. 3.º Fica o Ministro das Finanças autorizado a tomar as providências de ordem financeira indispensáveis à execução do presente diploma, aprovar os modelos de impressos que se mostrem necessários e decidir por despacho todas as dúvidas que se suscitem sobre a sua entrada em vigor e harmonização com a legislação vigente.
+Art. 3.º Fica o Ministro das Finanças autorizado a tomar as providências de ordem financeira indispensáveis à execução do presente diploma, aprovar os modelos de impressos que se mostrem necessários e decidir por despacho todas as dúvidas que se suscitem sobre a sua entrada em vigor e harmonização com a legislação vigente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -198,7 +275,7 @@ Código de Processo das Contribuições e Impostos
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º O processo relativo ao exercício dos direitos tributários rege-se, no continente e ilhas adjacentes, pelo presente código em tudo que não seja estabelecido em leis especiais.
+Artigo 1.º O processo relativo ao exercício dos direitos tributários rege-se, no continente e ilhas adjacentes, pelo presente código em tudo que não seja estabelecido em leis especiais.
 
 § único. Nos casos omissos, recorrer-se-á, pela ordem indicada, aos seguintes diplomas e preceitos de natureza processual:
 
@@ -208,39 +285,39 @@ b) As leis tributárias que melhor se coadunam com a relação fiscal controvert
 
 c) As normas de processo civil ou, quanto ao processo de transgressão, as de processo penal.
 
-###### Art. 2.º Os direitos do Estado à liquidação e cobrança de contribuições e impostos e outras receitas tributárias são exercidos pelos serviços de administração fiscal, sem prejuízo da competência que a lei atribua a outros serviços do Estado ou a entidades de direito público ou privado.
+Art. 2.º Os direitos do Estado à liquidação e cobrança de contribuições e impostos e outras receitas tributárias são exercidos pelos serviços de administração fiscal, sem prejuízo da competência que a lei atribua a outros serviços do Estado ou a entidades de direito público ou privado.
 
 § único. A função tributária dos serviços de administração fiscal consiste na aplicação da lei aos factos nela previstos e na declaração dos direitos emergentes.
 
-###### Art. 3.º Os actos tributários, praticados por autoridade fiscal competente em razão da matéria, são definitivos quanto à fixação dos direitos do contribuinte sem prejuízo da sua eventual revisão ou impugnação nos termos dos artigos seguintes.
+Art. 3.º Os actos tributários, praticados por autoridade fiscal competente em razão da matéria, são definitivos quanto à fixação dos direitos do contribuinte sem prejuízo da sua eventual revisão ou impugnação nos termos dos artigos seguintes.
 
-###### Art. 4.º A revisão dos actos tributários cabe à autoridade que os praticou, oficiosamente, por sua iniciativa ou de superior hierárquico, ou em virtude de reclamação do interessado com fundamento no errado apuramento da situação tributária.
+Art. 4.º A revisão dos actos tributários cabe à autoridade que os praticou, oficiosamente, por sua iniciativa ou de superior hierárquico, ou em virtude de reclamação do interessado com fundamento no errado apuramento da situação tributária.
 
-###### Art. 5.º A impugnação dos actos tributários tem por fim obter a sua anulação total ou parcial, por decisão dos tribunais das contribuições e impostos, e poderá ter por fundamentos a incompetência, vício de forma, inexistência dos factos tributários ou qualquer outra ilegalidade.
+Art. 5.º A impugnação dos actos tributários tem por fim obter a sua anulação total ou parcial, por decisão dos tribunais das contribuições e impostos, e poderá ter por fundamentos a incompetência, vício de forma, inexistência dos factos tributários ou qualquer outra ilegalidade.
 
-###### Art. 6.º A aplicação de sanções pela violação das leis tributárias só pode ser efectuada mediante julgamento dos tribunais das contribuições e impostos.
+Art. 6.º A aplicação de sanções pela violação das leis tributárias só pode ser efectuada mediante julgamento dos tribunais das contribuições e impostos.
 
 § único. Quando a infracção for punível ùnicamente com multa, pode o infractor efectuar quer o pagamento espontâneo, quer o pagamento voluntário, nos termos estabelecidos neste código.
 
-###### Art. 7.º As disposições legais em que se estabeleça a redução do montante da multa quando paga voluntàriamente, só se aplicam aos casos de pagamento espontâneo.
+Art. 7.º As disposições legais em que se estabeleça a redução do montante da multa quando paga voluntàriamente, só se aplicam aos casos de pagamento espontâneo.
 
 § 1.º Apenas se considera espontâneo o pagamento efectuado pelo infractor que, antes de ter entrado em qualquer serviço da administração fiscal o auto de notícia, a participação ou a denúncia, participe o facto ou solicite a regularização da respectiva situação tributária.
 
 § 2.º A liquidação da multa paga espontâneamente deverá ser corrigida quando, depois de efectuada, se verificar a falta dos requisitos indicados no parágrafo anterior.
 
-###### Art. 8.º A multa, no caso do pagamento espontâneo, deverá ser satisfeita eventualmente no prazo de quinze dias, sem o que o infractor perderá o benefício correspondente ao aludido pagamento.
+Art. 8.º A multa, no caso do pagamento espontâneo, deverá ser satisfeita eventualmente no prazo de quinze dias, sem o que o infractor perderá o benefício correspondente ao aludido pagamento.
 
 § único. A multa, se for variável, será fixada pelo chefe da repartição de finanças segundo os critérios estabelecidos neste código.
 
-###### Art. 9.º Os interessados ou os seus representantes legais podem conferir mandato, sob a forma prevista na lei, para a prática de actos tributários que não sejam de natureza pessoal.
+Art. 9.º Os interessados ou os seus representantes legais podem conferir mandato, sob a forma prevista na lei, para a prática de actos tributários que não sejam de natureza pessoal.
 
 § único. Aos representantes legais dos incapazes cabe, com a inerente responsabilidade, o cumprimento dos deveres fiscais dos representados.
 
-###### Art. 10.º A personalidade judiciária resulta da personalidade tributária e esta consiste na susceptibilidade de ser sujeito da relação jurídica tributária controvertida.
+Art. 10.º A personalidade judiciária resulta da personalidade tributária e esta consiste na susceptibilidade de ser sujeito da relação jurídica tributária controvertida.
 
-###### Art. 11.º A mulher casada, quando administradora, pode praticar todos os actos relativos à situação tributária do casal, incluindo os concernentes aos bens ou interesses do marido. Nos demais casos, pode praticar os actos relativos à sua situação tributária, se não houver oposição do marido.
+Art. 11.º A mulher casada, quando administradora, pode praticar todos os actos relativos à situação tributária do casal, incluindo os concernentes aos bens ou interesses do marido. Nos demais casos, pode praticar os actos relativos à sua situação tributária, se não houver oposição do marido.
 
-###### Art. 12.º Têm legitimidade para intervir como partes nos processos das contribuições e impostos:
+Art. 12.º Têm legitimidade para intervir como partes nos processos das contribuições e impostos:
 
 a) O Ministério Público;
 
@@ -248,11 +325,11 @@ b) Os contribuintes, devedores ou seus representantes, as pessoas solidária ou 
 
 c) As pessoas às quais, por lei especial, for atribuído interesse.
 
-###### Art. 13.º Nos processos da competência dos tribunais das contribuições e impostos não é obrigatória a constituição de mandatário judicial.
+Art. 13.º Nos processos da competência dos tribunais das contribuições e impostos não é obrigatória a constituição de mandatário judicial.
 
 § único. No caso de não intervir mandatário judicial, a assinatura do interessado na petição inicial e nos requerimentos de oposição ou defesa será reconhecida por notário, se não for apresentado bilhete de identidade do qual se fará a competente anotação. Quando o interessado não souber ou não puder escrever, será admitida a assinatura a rogo.
 
-###### Art. 14.º Constituem garantias gerais do contribuinte, além das estabelecidas nas leis especiais de tributação:
+Art. 14.º Constituem garantias gerais do contribuinte, além das estabelecidas nas leis especiais de tributação:
 
 a) O esclarecimento, pelos serviços competentes da administração fiscal, acerca da interpretação das leis tributárias e do modo mais cómodo e seguro de lhes dar cumprimento;
 
@@ -264,33 +341,33 @@ c) O benefício da redução da multa nos casos de pagamento espontâneo.
 
 § 2.º Os esclarecimentos a que se refere a alínea a) não poderão ser prestados a advogados, candidatos à advocacia e solicitadores.
 
-###### Art. 15.º A declaração dos direitos tributários não depende de formalidades que não sejam estabelecidas nas leis de tributação.
+Art. 15.º A declaração dos direitos tributários não depende de formalidades que não sejam estabelecidas nas leis de tributação.
 
-###### Art. 16.º Por todas as contribuições, impostos, multas e quaisquer outras dívidas ao Estado, que forem liquidadas ou impostas a empresas ou sociedades de responsabilidade limitada, são pessoal e solidàriamente responsáveis, pelo período da sua gerência, os respectivos administradores ou gerentes e ainda os membros do conselho fiscal nas sociedades em que o houver, se este expressamente sancionou o acto de que deriva a responsabilidade.
+Art. 16.º Por todas as contribuições, impostos, multas e quaisquer outras dívidas ao Estado, que forem liquidadas ou impostas a empresas ou sociedades de responsabilidade limitada, são pessoal e solidàriamente responsáveis, pelo período da sua gerência, os respectivos administradores ou gerentes e ainda os membros do conselho fiscal nas sociedades em que o houver, se este expressamente sancionou o acto de que deriva a responsabilidade.
 
 § único. As pessoas referidas neste artigo poderão, ainda depois de finda a sua gerência, apresentar, em nome da sociedade, qualquer reclamação ou recurso relativamente às dívidas da sua responsabilidade.
 
-###### Art. 17.º Na liquidação de qualquer sociedade, deverão os liquidatários começar por satisfazer os débitos fiscais, sob pena de ficarem pessoal e solidàriamente responsáveis pelas importâncias em dívida.
+Art. 17.º Na liquidação de qualquer sociedade, deverão os liquidatários começar por satisfazer os débitos fiscais, sob pena de ficarem pessoal e solidàriamente responsáveis pelas importâncias em dívida.
 
 #### SECÇÃO II — Da liquidação e cobrança das contribuições e impostos
 
-###### Art. 18.º A liquidação dos impostos é da competência das repartições de finanças dos concelhos ou bairros, sem prejuízo da intervenção por lei cometida a outras entidades.
+Art. 18.º A liquidação dos impostos é da competência das repartições de finanças dos concelhos ou bairros, sem prejuízo da intervenção por lei cometida a outras entidades.
 
-###### Art. 19.º A cobrança das contribuições e impostos poderá ser virtual ou eventual.
+Art. 19.º A cobrança das contribuições e impostos poderá ser virtual ou eventual.
 
 § 1.º Na cobrança virtual, o tesoureiro recebe prèviamente os respectivos títulos, constituindo-se por esse acto na obrigação da cobrança, a qual só se extingue pelo pagamento voluntário ou coercivo, pelo encontro com título de anulação ou pela anulação da própria dívida.
 
 § 2.º Na cobrança eventual, o título é apresentado pelo interessado ao tesoureiro no acto do pagamento, que deve ser efectuado no dia da liquidação, salvo prazo especial. Se o pagamento não for efectuado no prazo prescrito, a cobrança, se dever prosseguir, converter-se-á em virtual.
 
-###### Art. 20.º O pagamento das contribuições e impostos efectuar-se-á voluntária ou coercivamente e, no primeiro caso, poderá satisfazer-se à boca do cofre ou com juros de mora.
+Art. 20.º O pagamento das contribuições e impostos efectuar-se-á voluntária ou coercivamente e, no primeiro caso, poderá satisfazer-se à boca do cofre ou com juros de mora.
 
-###### Art. 21.º Os prazos de pagamento voluntário das contribuições e impostos são regulados nas leis de tributação.
+Art. 21.º Os prazos de pagamento voluntário das contribuições e impostos são regulados nas leis de tributação.
 
 § único. É proibida, sob pena de responsabilidade subsidiária, a moratória, seja a que título for, bem como a suspensão da execução, ainda que a dívida seja paga em prestações, salvo os casos especialmente previstos neste código.
 
-###### Art. 22.º O pagamento das contribuições e impostos liquidados pelos serviços da administração fiscal será efectuado mediante títulos de cobrança emitidos por aqueles serviços e que poderão ser conhecimentos ou guias. Os conhecimentos terão talão e recibo que dele será separado e entregue ao interessado no acto do pagamento; as guias serão processadas, consoante os casos, em dois ou mais exemplares, um dos quais será entregue ao interessado, depois de anotado com o respectivo recibo.
+Art. 22.º O pagamento das contribuições e impostos liquidados pelos serviços da administração fiscal será efectuado mediante títulos de cobrança emitidos por aqueles serviços e que poderão ser conhecimentos ou guias. Os conhecimentos terão talão e recibo que dele será separado e entregue ao interessado no acto do pagamento; as guias serão processadas, consoante os casos, em dois ou mais exemplares, um dos quais será entregue ao interessado, depois de anotado com o respectivo recibo.
 
-###### Art. 23.º Nos casos de cobrança virtual, os tesoureiros da Fazenda Pública avisarão os contribuintes, até seis dias antes de findar o prazo de pagamento com juros de mora, para o efectuarem, sob pena de relaxe.
+Art. 23.º Nos casos de cobrança virtual, os tesoureiros da Fazenda Pública avisarão os contribuintes, até seis dias antes de findar o prazo de pagamento com juros de mora, para o efectuarem, sob pena de relaxe.
 
 § 1.º Os avisos serão entregues no correio, acompanhados de uma guia em duplicado, e expedidos como correspondência oficial, devendo o funcionário do correio conferir o seu número com o que da guia constar e devolvê-la ao tesoureiro, depois de passar recibo num dos exemplares.
 
@@ -298,13 +375,13 @@ c) O benefício da redução da multa nos casos de pagamento espontâneo.
 
 § 3.º Só em face da guia de que trata o § 1.º ficarão os tesoureiros desonerados de responsabilidade pela falta de expedição dos avisos.
 
-###### Art. 24.º As guias relativas a receitas cuja liquidação não seja da competência dos serviços da administração fiscal serão remetidas à repartição de finanças do concelho ou bairro da residência do devedor.
+Art. 24.º As guias relativas a receitas cuja liquidação não seja da competência dos serviços da administração fiscal serão remetidas à repartição de finanças do concelho ou bairro da residência do devedor.
 
 § 1.º O chefe da repartição de finanças mandará notificar o devedor para, no prazo de 30 dias, a contar da notificação, efectuar o pagamento.
 
 § 2.º Decorrido este prazo sem que o pagamento tenha sido efectuado, será a cobrança convertida em virtual.
 
-###### Art. 25.º O pagamento das contribuições e impostos pode ser feito pelo interessado ou por terceiro, mas este só ficará sub-rogado nos direitos da Fazenda Nacional verificadas as seguintes condições:
+Art. 25.º O pagamento das contribuições e impostos pode ser feito pelo interessado ou por terceiro, mas este só ficará sub-rogado nos direitos da Fazenda Nacional verificadas as seguintes condições:
 
 a) Ter decorrido o prazo para pagamento voluntário;
 
@@ -318,11 +395,11 @@ b) Ser requerida prèviamente a declaração de sub-rogação.
 
 § 4.º O despacho que autorizar a sub-rogação será notificado ao devedor.
 
-###### Art. 26.º A dívida paga pelo sub-rogado conserva as garantias, privilégios e processo de cobrança e vencerá juros pela taxa fixada na lei civil, se o sub-rogado o requerer.
+Art. 26.º A dívida paga pelo sub-rogado conserva as garantias, privilégios e processo de cobrança e vencerá juros pela taxa fixada na lei civil, se o sub-rogado o requerer.
 
 § único. O sub-rogado pode requerer a instauração ou o prosseguimento da execução fiscal para cobrar do executado o que por ele tiver pago, salvo tratando-se de segunda sub-rogação.
 
-###### Art. 27.º É de vinte anos, sem distinção de boa ou má fé, o prazo de prescrição das contribuições e impostos em dívida ao Estado, se prazo mais curto não estiver fixado na lei. A prescrição conta-se do início do ano seguinte àquele em que tiver ocorrido o facto tributário, salvo regime especial.
+Art. 27.º É de vinte anos, sem distinção de boa ou má fé, o prazo de prescrição das contribuições e impostos em dívida ao Estado, se prazo mais curto não estiver fixado na lei. A prescrição conta-se do início do ano seguinte àquele em que tiver ocorrido o facto tributário, salvo regime especial.
 
 § 1.º A reclamação, a impugnação, o recurso e a execução interrompem a prescrição. Cessa, porém, este efeito se o processo estiver parado por facto não imputável ao contribuinte, durante mais de um ano, somando-se, neste caso, o tempo que decorrer após este período com o que tiver decorrido até à data da autuação.
 
@@ -332,7 +409,7 @@ b) Ser requerida prèviamente a declaração de sub-rogação.
 
 #### SECÇÃO III — Do relaxe das dívidas ao Estado
 
-###### Art. 28.º As contribuições e impostos que não forem pagos à boca do cofre serão sujeitos a relaxe depois de decorridos os seguintes prazos de pagamento com juros de mora:
+Art. 28.º As contribuições e impostos que não forem pagos à boca do cofre serão sujeitos a relaxe depois de decorridos os seguintes prazos de pagamento com juros de mora:
 
 a) 60 dias para a receita de cobrança virtual;
 
@@ -340,7 +417,7 @@ b) 15 dias após o débito ao tesoureiro para a receita de cobrança eventual qu
 
 c) 60 dias para qualquer prestação, relaxando-se com esta as prestações ainda não pagas.
 
-###### Art. 29.º As operações de relaxe efectuar-se-ão nos termos seguintes:
+Art. 29.º As operações de relaxe efectuar-se-ão nos termos seguintes:
 
 a) De todos os conhecimentos que ficarem por cobrar, o tesoureiro extrairá certidões de modelo a aprovar pelo Ministro das Finanças, com menção do último dia da cobrança voluntária, e entregá-las-á ao chefe da repartição de finanças, dentro dos oito dias seguintes, acompanhadas de uma relação em duplicado, datada e assinada pelo mesmo tesoureiro e autenticada com o selo branco;
 
@@ -350,7 +427,7 @@ c) No prazo de 48 horas, o chefe da repartição de finanças verificará a conf
 
 d) A numeração das relações deverá ser feita anualmente e a das certidões será feita pela ordem da relação.
 
-###### Art. 30.º Os chefes das repartições de finanças, antes de mandarem instaurar os competentes processos de execução fiscal, deverão anotar no verso das certidões de relaxe as seguintes indicações, sempre que possível:
+Art. 30.º Os chefes das repartições de finanças, antes de mandarem instaurar os competentes processos de execução fiscal, deverão anotar no verso das certidões de relaxe as seguintes indicações, sempre que possível:
 
 a) Descrição sucinta, situação e artigos matriciais dos prédios que originaram as colectas;
 
@@ -370,35 +447,35 @@ h) Nomes e moradas das pessoas solidária ou subsidiàriamente responsáveis;
 
 i) Quaisquer outras indicações úteis para o eficaz seguimento da execução.
 
-###### Art. 31.º Durante o período das operações do relaxe, pode o contribuinte efectuar o pagamento da dívida, acrescida dos juros de mora e de uma taxa de 3 por cento sobre o valor da dívida, que constituirá receita do Estado, não podendo, porém, o produto dessa percentagem ser inferior a 5$00 nem superior a 5000$00, o que tudo será liquidado pelo tesoureiro no próprio conhecimento.
+Art. 31.º Durante o período das operações do relaxe, pode o contribuinte efectuar o pagamento da dívida, acrescida dos juros de mora e de uma taxa de 3 por cento sobre o valor da dívida, que constituirá receita do Estado, não podendo, porém, o produto dessa percentagem ser inferior a 5$00 nem superior a 5000$00, o que tudo será liquidado pelo tesoureiro no próprio conhecimento.
 
 Na relação de relaxe e na respectiva coluna averbar-se-á a data do pagamento, abatendo-se no final da relação a importância dos conhecimentos pagos.
 
 #### SECÇÃO IV — Das garantias gerais de cobrança
 
-###### Art. 32.º Nos casos de venda de bens ou penhora de dinheiro em execução que não siga os termos da execução fiscal e seja qual for o tribunal, será citado pessoalmente o chefe da repartição de finanças do concelho ou bairro do domicílio da pessoa a quem pertencem os bens e os de todos os concelhos ou bairros onde forem situados os imobiliários ou qualquer estabelecimento comercial ou industrial, para, no prazo de dez dias, a contar da citação, apresentarem certidão de quaisquer dívidas que possam ser reclamadas nos termos do artigo 865.º do Código de Processo Civil.
+Art. 32.º Nos casos de venda de bens ou penhora de dinheiro em execução que não siga os termos da execução fiscal e seja qual for o tribunal, será citado pessoalmente o chefe da repartição de finanças do concelho ou bairro do domicílio da pessoa a quem pertencem os bens e os de todos os concelhos ou bairros onde forem situados os imobiliários ou qualquer estabelecimento comercial ou industrial, para, no prazo de dez dias, a contar da citação, apresentarem certidão de quaisquer dívidas que possam ser reclamadas nos termos do artigo 865.º do Código de Processo Civil.
 
 § único. As certidões serão remetidas, mediante recibo, ao respectivo agente do Ministério Público e delas deverão constar, além da natureza, montante e período de tempo de cada um dos impostos e outros rendimentos em dívida, a matéria colectável que produziu esses impostos, a indicação, tratando-se de contribuição predial, dos artigos matriciais dos prédios sobre que recaiu, o montante das custas e selos, havendo execução, e a data a partir da qual são devidos juros de mora.
 
-###### Art. 33.º As sobras do produto de quaisquer bens vendidos ou liquidados em processo judicial ou das importâncias penhoradas só poderão ser entregues ao executado ou seus sucessores quando o requerente prove, por si e pelo seu representado, que nada devem à Fazenda Nacional no concelho onde correu o processo, no dos respectivos domicílios, no da situação dos imóveis ou naqueles onde exerçam comércio, indústria ou outra actividade.
+Art. 33.º As sobras do produto de quaisquer bens vendidos ou liquidados em processo judicial ou das importâncias penhoradas só poderão ser entregues ao executado ou seus sucessores quando o requerente prove, por si e pelo seu representado, que nada devem à Fazenda Nacional no concelho onde correu o processo, no dos respectivos domicílios, no da situação dos imóveis ou naqueles onde exerçam comércio, indústria ou outra actividade.
 
 Quando for caso disso, deverá também provar-se que o imposto devido pela transmissão das sobras se encontra pago ou assegurado nos termos do § único do artigo 146.º do Código da Sisa e do Imposto sobre as Sucessões e Doações.
 
-###### Art. 34.º Os magistrados e os funcionários que participem no levantamento ou entrega de valores sem se mostrarem devidamente assegurados os direitos da Fazenda Nacional ou que não citem os chefes de repartição de finanças para os efeitos do artigo 32.º ficarão subsidiàriamente responsáveis pelas quantias que não possam ser cobradas dos responsáveis directos e serão executados no respectivo processo de execução fiscal, feita a competente prova documental.
+Art. 34.º Os magistrados e os funcionários que participem no levantamento ou entrega de valores sem se mostrarem devidamente assegurados os direitos da Fazenda Nacional ou que não citem os chefes de repartição de finanças para os efeitos do artigo 32.º ficarão subsidiàriamente responsáveis pelas quantias que não possam ser cobradas dos responsáveis directos e serão executados no respectivo processo de execução fiscal, feita a competente prova documental.
 
 § 1.º A responsabilidade referida no corpo deste artigo será solidária entre todos os que tiverem participado no acto do levantamento ou da entrega.
 
 § 2.º Os magistrados ou funcionários responsáveis, quando se verifique o caso previsto neste artigo, serão citados, por ofício com aviso de recepção, para efectuarem o pagamento da dívida, na parte que deixou de ser cobrada por sua culpa, com isenção de juros de mora, custas e selos. Se não fizerem esse pagamento no prazo de dez dias ou se deduzirem oposição que venha a ser indeferida, responderão pelos juros de mora e pelas custas e selos a que derem causa.
 
-###### Art. 35.º Se, por erro ou omissão verificado na passagem das certidões a que se refere o artigo 32.º, não puder ser cobrada uma dívida, por falta ou insuficiência de bens, ficarão subsidiàriamente responsáveis pelo seu pagamento os funcionários que as houverem passado, sendo executados no respectivo processo de execução fiscal e observando-se, na parte aplicável, o disposto no artigo anterior.
+Art. 35.º Se, por erro ou omissão verificado na passagem das certidões a que se refere o artigo 32.º, não puder ser cobrada uma dívida, por falta ou insuficiência de bens, ficarão subsidiàriamente responsáveis pelo seu pagamento os funcionários que as houverem passado, sendo executados no respectivo processo de execução fiscal e observando-se, na parte aplicável, o disposto no artigo anterior.
 
 § único. O chefe da repartição de finanças responderá solidàriamente pelas dívidas com o funcionário que haja passado a certidão, se também lhe for imputável o erro ou omissão.
 
-###### Art. 36.º A extinção da execução deverá verificar-se dentro de um ano contado da instauração, salvo causas insuperáveis.
+Art. 36.º A extinção da execução deverá verificar-se dentro de um ano contado da instauração, salvo causas insuperáveis.
 
 ### CAPÍTULO II — Da competência dos serviços de justiça fiscal
 
-###### Art. 37.º Compete aos serviços de justiça fiscal conhecer:
+Art. 37.º Compete aos serviços de justiça fiscal conhecer:
 
 a) Dos actos declarativos dos direitos tributários;
 
@@ -410,13 +487,13 @@ d) De quaisquer outras matérias cujo conhecimento lhes seja atribuído por lei.
 
 § único. Exceptua-se do disposto neste artigo a matéria da competência dos tribunais do contencioso aduaneiro, bem como a anulação dos actos e contratos simulados em prejuízo da Fazenda Nacional.
 
-###### Art. 38.º Os processos da competência dos tribunais das contribuições e impostos serão julgados em primeira instância pelo tribunal a cuja área pertencer o serviço de administração fiscal do concelho ou bairro onde se praticou o acto que seja objecto de impugnação, onde se consumou a infracção tributária ou onde deva instaurar-se a execução em conformidade com o disposto no título respectivo.
+Art. 38.º Os processos da competência dos tribunais das contribuições e impostos serão julgados em primeira instância pelo tribunal a cuja área pertencer o serviço de administração fiscal do concelho ou bairro onde se praticou o acto que seja objecto de impugnação, onde se consumou a infracção tributária ou onde deva instaurar-se a execução em conformidade com o disposto no título respectivo.
 
-###### Art. 39.º Aos juízes dos tribunais das contribuições e impostos incumbe a direcção e julgamento dos processos da sua competência, podendo realizar ou ordenar oficiosamente as diligências que considerarem úteis ao apuramento da verdade.
+Art. 39.º Aos juízes dos tribunais das contribuições e impostos incumbe a direcção e julgamento dos processos da sua competência, podendo realizar ou ordenar oficiosamente as diligências que considerarem úteis ao apuramento da verdade.
 
 § único. As autoridades e repartições públicas, designamente as repartições de finanças e tesourarias da Fazenda Pública, são obrigadas a prestar as informações que o juiz entender necessárias ao bom andamento do processo.
 
-###### Art. 40.º Às repartições de finanças dos concelhos ou bairros em cuja área ocorrerem os factos tributários compete:
+Art. 40.º Às repartições de finanças dos concelhos ou bairros em cuja área ocorrerem os factos tributários compete:
 
 a) Decidir as reclamações ordinárias e extraordinárias;
 
@@ -436,17 +513,17 @@ h) Realizar os demais actos que lhes sejam cometidos por lei.
 
 § único. Nos processos judiciais, os chefes das repartições de finanças são juízes auxiliares em tudo que não constitua o exercício próprio da função do Ministério Público e competem-lhes as funções que por este código não sejam atribuídas aos juízes de 1.ª instância. O chefe da repartição de finanças, quando desempenhar as funções de juiz auxiliar, nomeará, sempre que necessário, um funcionário da repartição para representar o Ministério Público.
 
-###### Art. 41.º O tribunal aonde subir o processo, se nele verificar qualquer deficiência ou irregularidade, poderá mandá-lo baixar para ser suprida a deficiência ou sanada a irregularidade.
+Art. 41.º O tribunal aonde subir o processo, se nele verificar qualquer deficiência ou irregularidade, poderá mandá-lo baixar para ser suprida a deficiência ou sanada a irregularidade.
 
-###### Art. 42.º Aos representantes do Ministério Público junto dos serviços de justiça fiscal incumbe promover o rápido andamento do processo, podendo requisitar às repartições públicas os elementos de que necessitarem para o cumprimento das suas obrigações.
+Art. 42.º Aos representantes do Ministério Público junto dos serviços de justiça fiscal incumbe promover o rápido andamento do processo, podendo requisitar às repartições públicas os elementos de que necessitarem para o cumprimento das suas obrigações.
 
-###### Art. 43.º A infracção das regras de competência em razão da matéria determina a incompetência absoluta do tribunal ou repartição de finanças onde correr o processo.
+Art. 43.º A infracção das regras de competência em razão da matéria determina a incompetência absoluta do tribunal ou repartição de finanças onde correr o processo.
 
 § 1.º A incompetência absoluta pode ser arguida pelas partes e deve ser suscitada oficiosamente pelo juiz ou pelo Ministério Público em qualquer estado do processo e enquanto não houver decisão final com trânsito em julgado.
 
 § 2.º Reconhecida a incompetência absoluta, o processo ficará sem efeito e será arquivado, sendo os documentos que estiverem juntos restituídos às partes, mediante requerimento, mas ficando neles fotocópia ou certidão narrativa do seu conteúdo e a indicação da pessoa a quem forem entregues.
 
-###### Art. 44.º A infracção das regras de competência territorial determina a incompetência relativa do tribunal ou repartição de finanças onde correr o processo.
+Art. 44.º A infracção das regras de competência territorial determina a incompetência relativa do tribunal ou repartição de finanças onde correr o processo.
 
 § 1.º A incompetência relativa só pode ser arguida:
 
@@ -460,11 +537,11 @@ c) No processo de execução, pelo executado, até findar o prazo para a oposiç
 
 ### CAPÍTULO III — Das formas de processo
 
-###### Art. 45.º O processo pode ser gracioso ou judicial.
+Art. 45.º O processo pode ser gracioso ou judicial.
 
-###### Art. 46.º O processo gracioso tem natureza administrativa, é da exclusiva competência da administração fiscal e compreende a reclamação ordinária e a reclamação extraordinária.
+Art. 46.º O processo gracioso tem natureza administrativa, é da exclusiva competência da administração fiscal e compreende a reclamação ordinária e a reclamação extraordinária.
 
-###### Art. 47.º O processo judicial é da competência dos tribunais das contribuições e impostos, podendo revestir as seguintes formas:
+Art. 47.º O processo judicial é da competência dos tribunais das contribuições e impostos, podendo revestir as seguintes formas:
 
 a) Processo de impugnação;
 
@@ -478,11 +555,11 @@ d) Processo especial.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 48.º Os actos processuais obedecerão especialmente às disposições deste capítulo.
+Art. 48.º Os actos processuais obedecerão especialmente às disposições deste capítulo.
 
-###### Art. 49.º O chefe da repartição de finanças, sempre que o interessado o pretenda, deverá passar recibo da petição inicial e de qualquer outro requerimento, com menção dos documentos que o instruam e da data da apresentação.
+Art. 49.º O chefe da repartição de finanças, sempre que o interessado o pretenda, deverá passar recibo da petição inicial e de qualquer outro requerimento, com menção dos documentos que o instruam e da data da apresentação.
 
-###### Art. 50.º Dos processos instaurados extrair-se-ão verbetes conforme modelo a aprovar pelo Ministro das Finanças, os quais deverão conter o número do processo, a data da autuação, nome e domicílio do reclamante, impugnante, arguido ou executado, proveniência e montante da dívida, valor do processo e natureza da infracção.
+Art. 50.º Dos processos instaurados extrair-se-ão verbetes conforme modelo a aprovar pelo Ministro das Finanças, os quais deverão conter o número do processo, a data da autuação, nome e domicílio do reclamante, impugnante, arguido ou executado, proveniência e montante da dívida, valor do processo e natureza da infracção.
 
 § 1.º No espaço reservado a averbamentos, além de quaisquer outras indicações úteis, anotar-se-á: o novo domicílio do reclamante, impugnante, arguido ou executado, os nomes e moradas dos representantes das sociedades, dos responsáveis solidários ou subsidiários e dos sucessores do executado, bem como os motivos da extinção da execução.
 
@@ -490,7 +567,7 @@ d) Processo especial.
 
 § 3.º Serão também extraídos verbetes das cartas precatórias recebidas.
 
-###### Art. 51.º Com os verbetes a que se refere o artigo anterior organizar-se-á um índice geral alfabético dos processos pendentes.
+Art. 51.º Com os verbetes a que se refere o artigo anterior organizar-se-á um índice geral alfabético dos processos pendentes.
 
 § único. À medida que os processos findarem, serão os verbetes retirados do índice geral e com eles organizar-se-ão os seguintes índices especiais:
 
@@ -510,29 +587,29 @@ g) Execuções fiscais extintas por julgamento em falhas;
 
 h) Cartas precatórias cumpridas.
 
-###### Art. 52.º Os impressos a utilizar nos processos das contribuições e impostos deverão obedecer a modelos aprovados pelo Ministro das Finanças.
+Art. 52.º Os impressos a utilizar nos processos das contribuições e impostos deverão obedecer a modelos aprovados pelo Ministro das Finanças.
 
-###### Art. 53.º Os despachos a ordenar citações ou notificações podem ser impressos e assinados por chancela.
+Art. 53.º Os despachos a ordenar citações ou notificações podem ser impressos e assinados por chancela.
 
-###### Art. 54.º Na falta de disposições especiais, observar-se-ão os seguintes prazos para os despachos e sentenças:
+Art. 54.º Na falta de disposições especiais, observar-se-ão os seguintes prazos para os despachos e sentenças:
 
 a) Os despachos que não sejam de mero expediente serão proferidos dentro de cinco dias, devendo os de mero expediente ser proferidos no próprio dia, salvo caso de manifesta impossibilidade;
 
 b) As sentenças serão proferidas dentro de dez dias.
 
-###### Art. 55.º As promoções do Ministério Público serão dadas no prazo de três dias, salvo se outro for fixado por lei.
+Art. 55.º As promoções do Ministério Público serão dadas no prazo de três dias, salvo se outro for fixado por lei.
 
 § único. É de 10 dias o prazo para o Ministério Público responder à impugnação judicial, à oposição na execução fiscal e à arguição de falsidade. Este prazo poderá ser prorrogado por 90 dias quando haja necessidade de obter informações ou de aguardar resposta a consulta feita a instância superior.
 
-###### Art. 56.º As informações ordenadas pelo juiz serão prestadas no prazer de cinco dias, salvo se outro tiver sido fixado.
+Art. 56.º As informações ordenadas pelo juiz serão prestadas no prazer de cinco dias, salvo se outro tiver sido fixado.
 
-###### Art. 57.º O processo só poderá ser examinado pelos interessados ou seus representantes na respectiva secretaria.
+Art. 57.º O processo só poderá ser examinado pelos interessados ou seus representantes na respectiva secretaria.
 
-###### Art. 58.º As certidões de actos e termos judiciais só podem ser passadas mediante requerimento escrito.
+Art. 58.º As certidões de actos e termos judiciais só podem ser passadas mediante requerimento escrito.
 
-###### Art. 59.º O prazo para o cumprimento das cartas precatórias dirigidas às repartições de finanças é de 60 dias, a contar da sua entrada na repartição deprecada.
+Art. 59.º O prazo para o cumprimento das cartas precatórias dirigidas às repartições de finanças é de 60 dias, a contar da sua entrada na repartição deprecada.
 
-###### Art. 60.º No processo de execução fiscal, as diligências a solicitar a outros tribunais ou autoridades sê-lo-ão por simples ofício, salvo nos seguintes casos, em que se empregará carta precatória:
+Art. 60.º No processo de execução fiscal, as diligências a solicitar a outros tribunais ou autoridades sê-lo-ão por simples ofício, salvo nos seguintes casos, em que se empregará carta precatória:
 
 a) Para citação;
 
@@ -542,15 +619,15 @@ c) Para cada um dos aludidos actos e termos subsequentes;
 
 d) Para inquirição ou declarações.
 
-###### Art. 61.º Na carta precatória extraída de execução que possa ser paga no tribunal deprecado, indicar-se-á a proveniência e montante da dívida, a data em que começaram a vencer-se juros de mora e a importância das custas e selos contados no juízo deprecante até à data da expedição.
+Art. 61.º Na carta precatória extraída de execução que possa ser paga no tribunal deprecado, indicar-se-á a proveniência e montante da dívida, a data em que começaram a vencer-se juros de mora e a importância das custas e selos contados no juízo deprecante até à data da expedição.
 
 § único. A carta só será devolvida depois de contadas as custas e selos.
 
-###### Art. 62.º A carta rogatória será acompanhada de uma nota em que se indique a natureza da dívida, o tempo a que respeita e o facto que a originou.
+Art. 62.º A carta rogatória será acompanhada de uma nota em que se indique a natureza da dívida, o tempo a que respeita e o facto que a originou.
 
 § único. Quando se levantem dúvidas sobre a expedição da carta rogatória, deverá o tribunal ou a repartição de finanças consultar os serviços competentes do Ministério dos Negócios Estrangeiros, através da Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 63.º Pelos editais que devam publicar-se no Diário do Governo, a Imprensa Nacional só receberá o respectivo custo quando for pago o processo.
+Art. 63.º Pelos editais que devam publicar-se no Diário do Governo, a Imprensa Nacional só receberá o respectivo custo quando for pago o processo.
 
 § 1.º Os editais e anúncios serão publicados na imprensa particular à custa do respectivo interessado entrando em regra de custas; se estas não forem cobradas, serão pagos pelo Estado, em folha de despesa.
 
@@ -558,23 +635,23 @@ d) Para inquirição ou declarações.
 
 § 3.º Os editais e os anúncios publicados na imprensa serão juntos ao processo, colados numa folha em que se indicará o título do jornal e a data da publicação. Para este efeito, a Imprensa Nacional e as empresas particulares deverão enviar ao tribunal ou à repartição de finanças um exemplar do periódico onde tiver sido feita a publicação.
 
-###### Art. 64.º Findo o processo, os documentos só podem ser restituídos à parte, a seu requerimento, desde que fiquem substituídos por certidões de teor ou, tratando-se de documentos que existam permanentemente em repartições públicas, fique no processo a indicação da repartição e do livro e lugar respectivo.
+Art. 64.º Findo o processo, os documentos só podem ser restituídos à parte, a seu requerimento, desde que fiquem substituídos por certidões de teor ou, tratando-se de documentos que existam permanentemente em repartições públicas, fique no processo a indicação da repartição e do livro e lugar respectivo.
 
-###### Art. 65.º Os processos findos, depois de mensalmente descarregados no registo geral, serão arquivados no tribunal ou repartição de finanças que os tenha instaurado, por ordem alfabética, em tantos maços distintos quantos os índices especiais referidos no § único do artigo 51.º
+Art. 65.º Os processos findos, depois de mensalmente descarregados no registo geral, serão arquivados no tribunal ou repartição de finanças que os tenha instaurado, por ordem alfabética, em tantos maços distintos quantos os índices especiais referidos no § único do artigo 51.º
 
 #### SECÇÃO II — Da citação
 
-###### Art. 66.º Só haverá citação em processo de execução fiscal.
+Art. 66.º Só haverá citação em processo de execução fiscal.
 
 § único. As disposições deste código relativas à citação são aplicáveis, em processo de transgressão, às notificações para pagamento voluntário, às do despacho para contestar em processo sumário e às do despacho que receber a acusação em processo ordinário.
 
-###### Art. 67.º Quando a citação seja feita na pessoa do executado entregar-se-á ao citado uma nota donde conste o objecto da citação, a importância e proveniência da dívida, o local e prazo em que tem de satisfazê-la, sob a cominação de penhora e mais termos se o pagamento não for efectuado.
+Art. 67.º Quando a citação seja feita na pessoa do executado entregar-se-á ao citado uma nota donde conste o objecto da citação, a importância e proveniência da dívida, o local e prazo em que tem de satisfazê-la, sob a cominação de penhora e mais termos se o pagamento não for efectuado.
 
 § único. De tudo se lavrará certidão que será assinada pelo citado e pelo funcionário encarregado da diligência. Quando, por qualquer motivo, a pessoa citada não assinar ou a citação não puder realizar-se, intervirão duas testemunhas que assinarão se souberem e puderem fazê-lo.
 
-###### Art. 68.º Se, nas execuções por dívidas provenientes de imposto ou ónus sobre propriedade mobiliária ou imobiliária, se verificar que os conhecimentos foram processados em nome do antigo possuidor, o funcionário encarregado da citação informará na competente certidão quem foi o possuidor dos bens durante o período de tempo a que respeita a dívida exequenda, para que o juiz o mande citar.
+Art. 68.º Se, nas execuções por dívidas provenientes de imposto ou ónus sobre propriedade mobiliária ou imobiliária, se verificar que os conhecimentos foram processados em nome do antigo possuidor, o funcionário encarregado da citação informará na competente certidão quem foi o possuidor dos bens durante o período de tempo a que respeita a dívida exequenda, para que o juiz o mande citar.
 
-###### Art. 69.º Se o funcionário encarregado da citação verificar que o executado faleceu, passará certidão em que declare:
+Art. 69.º Se o funcionário encarregado da citação verificar que o executado faleceu, passará certidão em que declare:
 
 a) No caso de ter havido partilhas, os herdeiros e as suas quotas hereditárias;
 
@@ -582,7 +659,7 @@ b) Não as tendo havido, os herdeiros, se forem conhecidos, e se está pendente 
 
 § único. No caso da alínea a), o juiz mandará citar cada um dos herdeiros para pagar o que, proporcionalmente, lhe competir na dívida exequenda. No caso da alínea b), e consoante esteja ou não correndo inventário, será citado, respectivamente, o cabeça-de-casal ou qualquer dos herdeiros para pagar toda a dívida, sob a cominação de penhora em quaisquer bens da herança. Os herdeiros incertos serão citados por editais.
 
-###### Art. 70.º Se o funcionário não encontrar o executado na sua última residência conhecida e for informado de que está ausente em parte incerta, de tudo passará certidão que fará assinar pela pessoa de quem tenha recebido a informação.
+Art. 70.º Se o funcionário não encontrar o executado na sua última residência conhecida e for informado de que está ausente em parte incerta, de tudo passará certidão que fará assinar pela pessoa de quem tenha recebido a informação.
 
 Em tal caso, o juiz mandará proceder logo à citação edital do executado, se não julgar necessário colher informações das autoridades administrativas ou policiais sobre a residência do citando.
 
@@ -592,19 +669,19 @@ Em tal caso, o juiz mandará proceder logo à citação edital do executado, se 
 
 § 3.º Expedida carta precatória para citação e verificada a ausência em parte incerta, compete à entidade deprecante ordenar a citação edital, se for caso disso.
 
-###### Art. 71.º Se o executado for organismo de coordenação económica, organismo corporativo, autarquia local, outra entidade de direito público ou pessoa colectiva de utilidade pública administrativa, será o respectivo presidente ou legal representante citado por carta registada com aviso de recepção.
+Art. 71.º Se o executado for organismo de coordenação económica, organismo corporativo, autarquia local, outra entidade de direito público ou pessoa colectiva de utilidade pública administrativa, será o respectivo presidente ou legal representante citado por carta registada com aviso de recepção.
 
-###### Art. 72.º Se o funcionário encarregado da citação certificar que o executado foi declarado em estado de falência ou insolvência, o juiz ordenará que a citação se faça na pessoa do administrador.
+Art. 72.º Se o funcionário encarregado da citação certificar que o executado foi declarado em estado de falência ou insolvência, o juiz ordenará que a citação se faça na pessoa do administrador.
 
-###### Art. 73.º Se o título executivo tiver sido extraído antes de terminado o prazo para o pagamento voluntário, a citação valerá como notificação para pagamento apenas com juros de mora, se já forem devidos.
+Art. 73.º Se o título executivo tiver sido extraído antes de terminado o prazo para o pagamento voluntário, a citação valerá como notificação para pagamento apenas com juros de mora, se já forem devidos.
 
 § único. Se a dívida não for satisfeita no prazo do pagamento voluntário com juros de mora, cessa o efeito declarado no corpo deste artigo, considerando-se a citação feita no dia seguinte ao do termo do referido prazo.
 
 #### SECÇÃO III — Da notificação
 
-###### Art. 74.º As notificações às partes ou a quaisquer outras pessoas serão feitas nos casos especialmente previstos, quando for necessário chamar as partes a juízo para a prática de acto pessoal ou dar conhecimento a alguém de acto que directamente lhe interesse.
+Art. 74.º As notificações às partes ou a quaisquer outras pessoas serão feitas nos casos especialmente previstos, quando for necessário chamar as partes a juízo para a prática de acto pessoal ou dar conhecimento a alguém de acto que directamente lhe interesse.
 
-###### Art. 75.º As notificações às partes ou intervenientes directos em processos pendentes são sempre feitas na pessoa dos seus mandatários com escritório na sede do tribunal ou da repartição de finanças onde correr o processo, ou que aí tenham escolhido domicílio para as receber. Se a parte não tiver constituído mandatário, mas houver escolhido domicílio na sede do tribunal ou da repartição de finanças, ser-lhe-ão aí feitas as notificações.
+Art. 75.º As notificações às partes ou intervenientes directos em processos pendentes são sempre feitas na pessoa dos seus mandatários com escritório na sede do tribunal ou da repartição de finanças onde correr o processo, ou que aí tenham escolhido domicílio para as receber. Se a parte não tiver constituído mandatário, mas houver escolhido domicílio na sede do tribunal ou da repartição de finanças, ser-lhe-ão aí feitas as notificações.
 
 § 1.º Se a parte ou o seu mandatário não tiver domicílio na sede do tribunal ou da repartição de finanças onde correr o processo nem aí o tiver escolhido, mas residir na área do mesmo tribunal ou repartição de finanças, ser-lhe-ão feitas as notificações sempre através da repartição de finanças.
 
@@ -614,7 +691,7 @@ Em tal caso, o juiz mandará proceder logo à citação edital do executado, se 
 
 #### SECÇÃO IV — Da nulidade dos actos
 
-###### Art. 76.º São nulidades absolutas:
+Art. 76.º São nulidades absolutas:
 
 a) A ineptidão da petição inicial;
 
@@ -646,9 +723,9 @@ i) O erro na forma do processo.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 77.º O processo gracioso corre seus termos nos serviços de administração fiscal e destina-se à revisão do acto de liquidação e dos seus fundamentos, nos termos do artigo 4.º
+Art. 77.º O processo gracioso corre seus termos nos serviços de administração fiscal e destina-se à revisão do acto de liquidação e dos seus fundamentos, nos termos do artigo 4.º
 
-###### Art. 78.º Constituem regras fundamentais do processo gracioso:
+Art. 78.º Constituem regras fundamentais do processo gracioso:
 
 a) Simplicidade de termos e brevidade das resoluções;
 
@@ -662,25 +739,25 @@ e) Ineficácia de caso julgado;
 
 f) Inexistência de efeito suspensivo.
 
-###### Art. 79.º As reclamações serão deduzidas em requerimento dirigido ao chefe da repartição de finanças e instruídas com os documentos de que o reclamante disponha.
+Art. 79.º As reclamações serão deduzidas em requerimento dirigido ao chefe da repartição de finanças e instruídas com os documentos de que o reclamante disponha.
 
-###### Art. 80.º O chefe da repartição de finanças, obtidas as informações oficiais que reputar necessárias, deverá rever os elementos constitutivos do acto reclamado e decidir por despacho lavrado no requerimento ou em folha anexa.
+Art. 80.º O chefe da repartição de finanças, obtidas as informações oficiais que reputar necessárias, deverá rever os elementos constitutivos do acto reclamado e decidir por despacho lavrado no requerimento ou em folha anexa.
 
-###### Art. 81.º Se a reclamação for destituída de fundamento razoável, poderá o chefe da repartição de finanças aplicar à colecta reclamada um agravamento até 5 por cento, que será liquidado adicionalmente.
+Art. 81.º Se a reclamação for destituída de fundamento razoável, poderá o chefe da repartição de finanças aplicar à colecta reclamada um agravamento até 5 por cento, que será liquidado adicionalmente.
 
 § único. Na impugnação da liquidação do agravamento poderá alegar-se, além dos demais fundamentos admissíveis, a injustiça da decisão condenatória.
 
 ### CAPÍTULO II — Da reclamação ordinária
 
-###### Art. 82.º A reclamação ordinária será deduzida no prazo de 30 dias, a contar do dia seguinte ao da abertura do cofre ou, sendo a cobrança eventual, do dia seguinte àquele em que ela se efectuar.
+Art. 82.º A reclamação ordinária será deduzida no prazo de 30 dias, a contar do dia seguinte ao da abertura do cofre ou, sendo a cobrança eventual, do dia seguinte àquele em que ela se efectuar.
 
-###### Art. 83.º A reclamação ordinária é insusceptível de recurso hierárquico.
+Art. 83.º A reclamação ordinária é insusceptível de recurso hierárquico.
 
-###### Art. 84.º Se for instaurado processo de impugnação judicial na pendência do de reclamação, considerar-se-á este findo.
+Art. 84.º Se for instaurado processo de impugnação judicial na pendência do de reclamação, considerar-se-á este findo.
 
 ### CAPÍTULO III — Da reclamação extraordinária
 
-###### Art. 85.º A reclamação extraordinária só poderá ser deduzida quando o contribuinte alegue:
+Art. 85.º A reclamação extraordinária só poderá ser deduzida quando o contribuinte alegue:
 
 a) Ter sido tributado sem fundamento algum e não dever presumir a colecta ou as inscrições que lhe serviram de base;
 
@@ -694,9 +771,9 @@ e) Ter ocorrido na tributação qualquer caso de injustiça grave ou notória.
 
 § único. Haverá duplicação de colecta quando, estando paga por inteiro uma contribuição ou imposto, se exigir da mesma ou de diferente pessoa uma outra de igual natureza, referente ao mesmo facto tributário e ao mesmo período de tempo.
 
-###### Art. 86.º Não é admitida reclamação extraordinária quando, com o mesmo fundamento, tiver havido reclamação ordinária ou impugnação judicial.
+Art. 86.º Não é admitida reclamação extraordinária quando, com o mesmo fundamento, tiver havido reclamação ordinária ou impugnação judicial.
 
-###### Art. 87.º A reclamação extraordinária será deduzida nos seguintes prazos:
+Art. 87.º A reclamação extraordinária será deduzida nos seguintes prazos:
 
 a) Dentro de um ano, a contar da cobrança eventual ou do pagamento voluntário da 1.ª prestação do imposto, no caso de cobrança virtual;
 
@@ -704,11 +781,11 @@ b) Dentro de seis meses, a contar da citação pessoal ou da penhora, no caso de
 
 § único. No caso de se invocar documento ou sentença superveniente como prova de um dos fundamentos da reclamação extraordinária, o prazo de um ano será contado a partir da data em que se torne possível obter o documento.
 
-###### Art. 88.º A decisão sobre a reclamação extraordinária é susceptível de recurso hierárquico, só podendo, porém, recorrer-se da decisão ministerial para o Supremo Tribunal Administrativo se o fundamento da reclamação for o da alínea d) do artigo 85.º
+Art. 88.º A decisão sobre a reclamação extraordinária é susceptível de recurso hierárquico, só podendo, porém, recorrer-se da decisão ministerial para o Supremo Tribunal Administrativo se o fundamento da reclamação for o da alínea d) do artigo 85.º
 
 ## TÍTULO III — Do processo de impugnação judicial
 
-###### Art. 89.º A impugnação judicial deduzida com algum dos fundamentos previstos no artigo 5.º será apresentada na repartição de finanças no prazo de 90 dias contados:
+Art. 89.º A impugnação judicial deduzida com algum dos fundamentos previstos no artigo 5.º será apresentada na repartição de finanças no prazo de 90 dias contados:
 
 a) Do dia imediato ao da abertura do cofre para a cobrança das contribuições e impostos;
 
@@ -716,7 +793,7 @@ b) Do dia imediato ao da respectiva cobrança, quando feita eventualmente.
 
 § único. O disposto neste artigo não prejudica os prazos especiais fixados noutras leis.
 
-###### Art. 90.º A impugnação deverá ser apresentada em petição articulada, dirigida ao tribunal competente, em que se identifiquem o acto impugnado e a entidade que o praticou, e se exponham os factos e as razões de direito que fundamentam o pedido.
+Art. 90.º A impugnação deverá ser apresentada em petição articulada, dirigida ao tribunal competente, em que se identifiquem o acto impugnado e a entidade que o praticou, e se exponham os factos e as razões de direito que fundamentam o pedido.
 
 § 1.º Na petição deverá indicar-se o valor do processo ou a forma como se pretende a sua determinação, a qual será feita pela repartição de finanças.
 
@@ -724,53 +801,53 @@ b) Do dia imediato ao da respectiva cobrança, quando feita eventualmente.
 
 § 3.º Se o impugnante pretender que a prova seja produzida directamente no tribunal de 1.ª instância, deverá declará-lo na petição.
 
-###### Art. 91.º No processo de impugnação só haverá preparos para despesas.
+Art. 91.º No processo de impugnação só haverá preparos para despesas.
 
-###### Art. 92.º A impugnação só poderá ter efeito suspensivo nos termos do artigo 160.º
+Art. 92.º A impugnação só poderá ter efeito suspensivo nos termos do artigo 160.º
 
-###### Art. 93.º Autuada a petição, apensado o processo de reclamação, se o houver, e prestada a informação do serviço de prevenção e fiscalização tributária sobre a matéria de facto considerada pertinente, abrir-se-á conclusão ao chefe da repartição para, no prazo de dez dias, informar sobre os elementos oficiais que digam respeito à colecta impugnada e sobre a restante matéria do pedido, juntar os documentos que reputar convenientes e mandar remeter o processo ao tribunal de 1.ª instância.
+Art. 93.º Autuada a petição, apensado o processo de reclamação, se o houver, e prestada a informação do serviço de prevenção e fiscalização tributária sobre a matéria de facto considerada pertinente, abrir-se-á conclusão ao chefe da repartição para, no prazo de dez dias, informar sobre os elementos oficiais que digam respeito à colecta impugnada e sobre a restante matéria do pedido, juntar os documentos que reputar convenientes e mandar remeter o processo ao tribunal de 1.ª instância.
 
 § único. Antes de cumprir o disposto neste artigo, o chefe da repartição de finanças poderá convidar o impugnante a suprir, no prazo que lhe designar, qualquer deficiência ou irregularidade.
 
-###### Art. 94.º Concluso o processo, o juiz proferirá despacho nos termos aplicáveis dos artigos 474.º e seguintes do Código de Processo Civil. Se não houver motivo para indeferimento liminar e a petição estiver em termos de ser recebida, será ordenada a notificação do representante do Ministério Público para responder à matéria da impugnação e oferecer provas, devendo declarar se pretende produzi-las no tribunal.
+Art. 94.º Concluso o processo, o juiz proferirá despacho nos termos aplicáveis dos artigos 474.º e seguintes do Código de Processo Civil. Se não houver motivo para indeferimento liminar e a petição estiver em termos de ser recebida, será ordenada a notificação do representante do Ministério Público para responder à matéria da impugnação e oferecer provas, devendo declarar se pretende produzi-las no tribunal.
 
 Ainda que não haja contestação ou impugnação especificada dos factos, não se terão estes por confessados.
 
-###### Art. 95.º Junta a resposta, ou decorrido o respectivo prazo, o juiz deverá conhecer logo do pedido se a questão for apenas de direito, ou, sendo também de facto, o processo fornecer os elementos necessários.
+Art. 95.º Junta a resposta, ou decorrido o respectivo prazo, o juiz deverá conhecer logo do pedido se a questão for apenas de direito, ou, sendo também de facto, o processo fornecer os elementos necessários.
 
-###### Art. 96.º Se o juiz não conhecer logo do pedido, ordenará as diligências de produção de prova e a remessa do processo à repartição de finanças, se for necessária.
+Art. 96.º Se o juiz não conhecer logo do pedido, ordenará as diligências de produção de prova e a remessa do processo à repartição de finanças, se for necessária.
 
 § 1.º Não tendo as partes declarado que pretendem produzir prova directamente no tribunal, será esta produzida na repartição de finanças.
 
 § 2.º Logo que se realizem as diligências de produção de prova na repartição de finanças, será o processo devolvido ao tribunal.
 
-###### Art. 97.º São admitidos os meios gerais de prova, salvo as disposições especiais contidas nas leis de tributação.
+Art. 97.º São admitidos os meios gerais de prova, salvo as disposições especiais contidas nas leis de tributação.
 
 § único. As informações oficiais, quando fundamentadas, fazem fé e constituem prova até outra bastante em contrário.
 
-###### Art. 98.º O número de testemunhas a inquirir não poderá exceder três por cada facto, nem o total de dez.
+Art. 98.º O número de testemunhas a inquirir não poderá exceder três por cada facto, nem o total de dez.
 
 Os depoimentos são prestados em audiência contraditória, pertencendo o interrogatório e a redacção ao juiz e podendo as partes ou seus representantes requerer que sejam esclarecidas ou completadas as respostas.
 
 § único. Não serão expedidas cartas precatórias ou rogatórias para inquirições ou declarações fora do continente ou da ilha onde houver sido instaurado o processo.
 
-###### Art. 99.º Serão notificadas as testemunhas que residam no concelho onde tiver de fazer-se a inquirição; tendo outra residência, e não sendo requerida carta precatória, a parte apresentá-las-á na audiência.
+Art. 99.º Serão notificadas as testemunhas que residam no concelho onde tiver de fazer-se a inquirição; tendo outra residência, e não sendo requerida carta precatória, a parte apresentá-las-á na audiência.
 
 § único. As cartas precatórias só poderão ser expedidas para inquirição na repartição de finanças.
 
-###### Art. 100.º As despesas com a produção de prova são da responsabilidade da parte que a oferecer e, se for o impugnante, deverá garanti-las mediante prévio depósito.
+Art. 100.º As despesas com a produção de prova são da responsabilidade da parte que a oferecer e, se for o impugnante, deverá garanti-las mediante prévio depósito.
 
-###### Art. 101.º Finda a produção da prova, ordenar-se-á a notificação das partes para alegarem por escrito no prazo fixado pelo juiz, não superior a vinte dias.
+Art. 101.º Finda a produção da prova, ordenar-se-á a notificação das partes para alegarem por escrito no prazo fixado pelo juiz, não superior a vinte dias.
 
-###### Art. 102.º Juntas as alegações ou decorrido o prazo fixado pelo juiz, será proferida sentença no prazo de quinze dias. O impugnante, se decair no todo ou em parte, será condenado em custas e poderá sê-lo também em multa como litigante de má fé.
+Art. 102.º Juntas as alegações ou decorrido o prazo fixado pelo juiz, será proferida sentença no prazo de quinze dias. O impugnante, se decair no todo ou em parte, será condenado em custas e poderá sê-lo também em multa como litigante de má fé.
 
 ## TÍTULO IV — Do processo de transgressão
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 103.º As infracções tributárias para as quais a lei não estabeleça processo especial ficam sujeitas ao processo de transgressão regulado nos artigos seguintes.
+Art. 103.º As infracções tributárias para as quais a lei não estabeleça processo especial ficam sujeitas ao processo de transgressão regulado nos artigos seguintes.
 
-###### Art. 104.º O processo de transgressão será instaurado quando se verifique uma das ocorrências seguintes:
+Art. 104.º O processo de transgressão será instaurado quando se verifique uma das ocorrências seguintes:
 
 a) Haver omissão ou erro na liquidação de contribuição ou imposto, imputável ao contribuinte ou ao sujeito da obrigação tributária acessória, e que não possa ser reparado por liquidação efectuada em conformidade com as leis de tributação;
 
@@ -778,7 +855,7 @@ b) Haver fundamento para aplicação de multa cominada nas leis tributárias;
 
 c) Ocorrer outro facto que a lei subordine a esta forma de processo.
 
-###### Art. 105.º Sempre que a transgressão arguida implique a existência de facto tributário pelo qual seja devida contribuição ou imposto que não deva por lei ser liquidado no processo, este será suspenso, depois de finda a instrução preparatória ou depois de instaurado, consoante a sua forma, e até que ocorra uma das seguintes circunstâncias:
+Art. 105.º Sempre que a transgressão arguida implique a existência de facto tributário pelo qual seja devida contribuição ou imposto que não deva por lei ser liquidado no processo, este será suspenso, depois de finda a instrução preparatória ou depois de instaurado, consoante a sua forma, e até que ocorra uma das seguintes circunstâncias:
 
 a) Ser paga a colecta no prazo da cobrança voluntária;
 
@@ -792,9 +869,9 @@ c) Verificar-se o trânsito em julgado da decisão proferida no processo de impu
 
 § 3.º O processo de impugnação será, depois de findo, apensado ao de transgressão.
 
-###### Art. 106.º A sentença proferida em processo de impugnação constituirá caso julgado, para o processo de transgressão, relativamente à questão nela decidida.
+Art. 106.º A sentença proferida em processo de impugnação constituirá caso julgado, para o processo de transgressão, relativamente à questão nela decidida.
 
-###### Art. 107.º Podem servir de base ao processo de transgressão:
+Art. 107.º Podem servir de base ao processo de transgressão:
 
 a) O auto de notícia levantado por funcionário competente;
 
@@ -802,7 +879,7 @@ b) A participação de entidade oficial;
 
 c) A denúncia feita por qualquer pessoa.
 
-###### Art. 108.º Se uma autoridade ou agente de autoridade verificar pessoalmente a existência de uma infracção tributária, levantará auto de notícia, se para isso for competente, e enviá-lo-á imediatamente à repartição de finanças do concelho ou bairro onde a infracção tiver sido cometida.
+Art. 108.º Se uma autoridade ou agente de autoridade verificar pessoalmente a existência de uma infracção tributária, levantará auto de notícia, se para isso for competente, e enviá-lo-á imediatamente à repartição de finanças do concelho ou bairro onde a infracção tiver sido cometida.
 
 § 1.º O auto de notícia deve conter, sempre que possível:
 
@@ -830,9 +907,9 @@ j) Quaisquer outros elementos exigidos por lei ou que, por sua natureza, possam 
 
 § 3.º O auto de notícia não deixará de ser levantado ainda que o autuante repute a infracção não punível.
 
-###### Art. 109.º O auto de notícia, levantado nos termos do artigo anterior, fará fé em juízo até prova em contrário.
+Art. 109.º O auto de notícia, levantado nos termos do artigo anterior, fará fé em juízo até prova em contrário.
 
-###### Art. 110.º Se algum funcionário incompetente para levantar auto de notícia tiver conhecimento, no exercício ou por causa do exercício das suas funções, de qualquer infracção às leis tributárias, deverá participá-la, por escrito ou verbalmente, à competente repartição de finanças.
+Art. 110.º Se algum funcionário incompetente para levantar auto de notícia tiver conhecimento, no exercício ou por causa do exercício das suas funções, de qualquer infracção às leis tributárias, deverá participá-la, por escrito ou verbalmente, à competente repartição de finanças.
 
 § 1.º A participação verbal só terá seguimento depois de lavrado termo de identificação do participante.
 
@@ -840,13 +917,13 @@ j) Quaisquer outros elementos exigidos por lei ou que, por sua natureza, possam 
 
 § 3.º O disposto neste artigo é também aplicável quando se trate de funcionário competente para levantar auto de notícia, desde que não tenha verificado pessoalmente a infracção.
 
-###### Art. 111.º Pode qualquer pessoa denunciar infracções tributárias às repartições e direcções de finanças, aos serviços centrais e aos de prevenção e fiscalização tributária, da Direcção-Geral das Contribuições e Impostos.
+Art. 111.º Pode qualquer pessoa denunciar infracções tributárias às repartições e direcções de finanças, aos serviços centrais e aos de prevenção e fiscalização tributária, da Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
 
 § 2.º A denúncia ficará secreta, salvo se, sendo destituída de fundamento, tiver sido feita dolosamente, caso em que, a requerimento do denunciado, lhe será comunicado o nome do denunciante e o conteúdo da denúncia.
 
-###### Art. 112.º A multa variável, se a lei não determinar os termos da sua fixação, será graduada em função da gravidade objectiva e subjectiva da infracção.
+Art. 112.º A multa variável, se a lei não determinar os termos da sua fixação, será graduada em função da gravidade objectiva e subjectiva da infracção.
 
 Para este efeito, atender-se-á, designadamente, aos elementos seguintes:
 
@@ -870,15 +947,15 @@ i) Eficácia da prevenção geral.
 
 § único. Se a lei tributária mandar atender à reincidência, será esta determinada pelo que a lei penal dispõe em matéria de transgressões.
 
-###### Art. 113.º As multas por infracções tributárias são inconvertíveis em prisão, salvo lei especial em contrário.
+Art. 113.º As multas por infracções tributárias são inconvertíveis em prisão, salvo lei especial em contrário.
 
 § único. A obrigação de pagar a multa só passa aos herdeiros do condenado se em vida deste a decisão condenatória tiver passado em julgado.
 
-###### Art. 114.º São circunstâncias dirimentes da responsabilidade por infracção tributária as admitidas na lei penal.
+Art. 114.º São circunstâncias dirimentes da responsabilidade por infracção tributária as admitidas na lei penal.
 
 § único. Pela infracção cometida por menor de 16 anos ou outro incapaz, é responsável o seu representante, salvo o que sobre esta matéria se dispõe nas leis de tributação.
 
-###### Art. 115.º Cessa todo o procedimento judicial e toda a pena acaba nos seguintes casos:
+Art. 115.º Cessa todo o procedimento judicial e toda a pena acaba nos seguintes casos:
 
 a) Morte do infractor, salvo o disposto no § único do artigo 113.º;
 
@@ -888,81 +965,81 @@ b) Prescrição ou amnistia, se a multa ainda não tiver sido paga.
 
 ### CAPÍTULO II — Do processo ordinário
 
-###### Art. 116.º Recebido o auto de notícia, a participação ou a denúncia, a repartição de finanças procederá ao registo e à autuação.
+Art. 116.º Recebido o auto de notícia, a participação ou a denúncia, a repartição de finanças procederá ao registo e à autuação.
 
-###### Art. 117.º Tratando-se de auto de notícia, o chefe da repartição de finanças liquidará a multa e o imposto que deva ser cumulativamente cobrado no processo e mandará notificar o arguido para, no prazo de 30 dias, pagar voluntàriamente o que tiver sido liquidado.
+Art. 117.º Tratando-se de auto de notícia, o chefe da repartição de finanças liquidará a multa e o imposto que deva ser cumulativamente cobrado no processo e mandará notificar o arguido para, no prazo de 30 dias, pagar voluntàriamente o que tiver sido liquidado.
 
 § 1.º Se a liquidação e cobrança do imposto deverem ser feitas fora do processo de transgressão e o cálculo da multa depender daquela liquidação, só depois de esta se efectuar se dará cumprimento ao disposto neste artigo.
 
 § 2.º O montante da multa variável entre um mínimo e um máximo será fixado pelo chefe da repartição de finanças, se não for ele o autuante nem seu superior hierárquico. Nos restantes casos, a fixação caberá ao superior hierárquico do autuante.
 
-###### Art. 118.º Tratando-se de participação ou denúncia, o pagamento voluntário só poderá ser efectuado após a notificação do despacho que receber a acusação.
+Art. 118.º Tratando-se de participação ou denúncia, o pagamento voluntário só poderá ser efectuado após a notificação do despacho que receber a acusação.
 
-###### Art. 119.º No caso de pagamento voluntário não serão devidas custas nem selos.
+Art. 119.º No caso de pagamento voluntário não serão devidas custas nem selos.
 
-###### Art. 120.º A instrução preparatória correrá na repartição de finanças, cabendo a sua direcção ao respectivo chefe que poderá solicitar a todas as autoridades a cooperação necessária.
+Art. 120.º A instrução preparatória correrá na repartição de finanças, cabendo a sua direcção ao respectivo chefe que poderá solicitar a todas as autoridades a cooperação necessária.
 
-###### Art. 121.º A instrução preparatória destina-se à realização das diligências que possam concorrer para a prova da culpabilidade do arguido ou para demonstrar a sua inocência.
+Art. 121.º A instrução preparatória destina-se à realização das diligências que possam concorrer para a prova da culpabilidade do arguido ou para demonstrar a sua inocência.
 
 § único. Se o processo tiver por base um auto de notícia, a instrução terá apenas por fim reunir elementos complementares que não tenha sido possível obter no momento do seu levantamento.
 
-###### Art. 122.º Independentemente dos meios gerais de prova, o chefe da repartição de finanças deverá juntar sempre ao processo os elementos oficiais de que disponha ou possa solicitar para esclarecimento dos factos.
+Art. 122.º Independentemente dos meios gerais de prova, o chefe da repartição de finanças deverá juntar sempre ao processo os elementos oficiais de que disponha ou possa solicitar para esclarecimento dos factos.
 
 § único. Se o processo tiver por base participação ou denúncia, deverá também o chefe da repartição de finanças liquidar a multa e o imposto que deva ser cumulativamente cobrado no processo, observando-se o que, para essa liquidação, se dispõe nos parágrafos do artigo 117.º
 
-###### Art. 123.º A instrução preparatória deverá realizar-se no prazo de 30 dias e, logo que esteja finda, será o processo remetido ao representante do Ministério Público junto do tribunal de 1.ª instância.
+Art. 123.º A instrução preparatória deverá realizar-se no prazo de 30 dias e, logo que esteja finda, será o processo remetido ao representante do Ministério Público junto do tribunal de 1.ª instância.
 
-###### Art. 124.º Recebido o processo, o representante do Ministério Público, no prazo de cinco dias, deduzirá a acusação ou, se da instrução não resultarem indícios suficientes, abster-se-á de acusar. Antes, porém, poderá devolver o processo à repartição de finanças para a realização de outras diligências de instrução que repute necessárias, devendo especificá-las.
+Art. 124.º Recebido o processo, o representante do Ministério Público, no prazo de cinco dias, deduzirá a acusação ou, se da instrução não resultarem indícios suficientes, abster-se-á de acusar. Antes, porém, poderá devolver o processo à repartição de finanças para a realização de outras diligências de instrução que repute necessárias, devendo especificá-las.
 
-###### Art. 125.º O representante do Ministério Público junto do tribunal de 1.ª instância deverá enviar à Direcção-Geral das Contribuições e Impostos, dentro dos quinze dias seguintes ao termo de cada trimestre, relação dos processos em que se abstiver de acusar, na qual indicará sumàriamente os motivos da falta de acusação. O director-geral das Contribuições e Impostos poderá mandar deduzir a acusação ou ordenar quaisquer diligências de instrução.
+Art. 125.º O representante do Ministério Público junto do tribunal de 1.ª instância deverá enviar à Direcção-Geral das Contribuições e Impostos, dentro dos quinze dias seguintes ao termo de cada trimestre, relação dos processos em que se abstiver de acusar, na qual indicará sumàriamente os motivos da falta de acusação. O director-geral das Contribuições e Impostos poderá mandar deduzir a acusação ou ordenar quaisquer diligências de instrução.
 
 § único. Os processos em que o representante do Ministério Público se abstiver de acusar baixarão à repartição de finanças, sem prejuízo do seu prosseguimento no caso de se apurarem outros elementos de prova.
 
-###### Art. 126.º À acusação aplicar-se-á, com as necessárias acomodações, o disposto para a queixa em processo correccional, devendo nela mencionar-se o imposto que haja de ser exigido no processo.
+Art. 126.º À acusação aplicar-se-á, com as necessárias acomodações, o disposto para a queixa em processo correccional, devendo nela mencionar-se o imposto que haja de ser exigido no processo.
 
-###### Art. 127.º Deduzida a acusação, irá o processo concluso ao juiz para proferir despacho de recebimento ou rejeição. A este despacho aplicar-se-á, quanto possível, o disposto para o processo correccional, devendo, porém, o juiz nele consignar os respectivos fundamentos.
+Art. 127.º Deduzida a acusação, irá o processo concluso ao juiz para proferir despacho de recebimento ou rejeição. A este despacho aplicar-se-á, quanto possível, o disposto para o processo correccional, devendo, porém, o juiz nele consignar os respectivos fundamentos.
 
 § único. Antes de proferir o despacho a que se refere o corpo deste artigo, o juiz, caso entenda necessário, ordenará diligências de instrução que podem ser realizadas na repartição de finanças.
 
-###### Art. 128.º Se a acusação for rejeitada, o processo será remetido à repartição de finanças logo que transite em julgado o respectivo despacho, a fim de ali ser arquivado, sem prejuízo de vir a prosseguir com novos elementos de prova.
+Art. 128.º Se a acusação for rejeitada, o processo será remetido à repartição de finanças logo que transite em julgado o respectivo despacho, a fim de ali ser arquivado, sem prejuízo de vir a prosseguir com novos elementos de prova.
 
-###### Art. 129.º O arguido, depois de notificado do despacho que receber a acusação, poderá interpor recurso no prazo de 8 dias ou, no caso previsto no artigo 118.º, efectuar o pagamento voluntário no prazo de 30 dias.
+Art. 129.º O arguido, depois de notificado do despacho que receber a acusação, poderá interpor recurso no prazo de 8 dias ou, no caso previsto no artigo 118.º, efectuar o pagamento voluntário no prazo de 30 dias.
 
-###### Art. 130.º Logo que transite em julgado o despacho que recebeu a acusação, ou decorrido o prazo de 30 dias fixado no artigo anterior sem que se tenha efectuado o pagamento voluntário, a secretaria entregará ao arguido cópia da acusação.
+Art. 130.º Logo que transite em julgado o despacho que recebeu a acusação, ou decorrido o prazo de 30 dias fixado no artigo anterior sem que se tenha efectuado o pagamento voluntário, a secretaria entregará ao arguido cópia da acusação.
 
-###### Art. 131.º Dentro de dez dias, a contar da entrega da cópia da acusação, o arguido poderá apresentar a sua contestação, oferecer documentos, arrolar testemunhas e requerer outras provas.
+Art. 131.º Dentro de dez dias, a contar da entrega da cópia da acusação, o arguido poderá apresentar a sua contestação, oferecer documentos, arrolar testemunhas e requerer outras provas.
 
-###### Art. 132.º O número de testemunhas de acusação não deverá ser superior a dez e cada um dos arguidos poderá oferecer igual número.
+Art. 132.º O número de testemunhas de acusação não deverá ser superior a dez e cada um dos arguidos poderá oferecer igual número.
 
 § único. Não tendo as partes declarado na acusação e na contestação que pretendem produzir prova no tribunal, será esta feita na repartição de finanças.
 
-###### Art. 133.º Se houver prova a produzir na repartição de finanças, o juiz ordenará que o processo para ali seja remetido, observando-se, quanto à inquirição, o disposto na segunda parte do artigo 98.º
+Art. 133.º Se houver prova a produzir na repartição de finanças, o juiz ordenará que o processo para ali seja remetido, observando-se, quanto à inquirição, o disposto na segunda parte do artigo 98.º
 
 Realizadas as diligências de produção da prova na repartição de finanças, será o processo devolvido ao tribunal.
 
-###### Art. 134.º Ao processo de transgressão são aplicáveis as disposições do § único do artigo 98.º, do artigo 99.º e seu § único e do artigo 100.º
+Art. 134.º Ao processo de transgressão são aplicáveis as disposições do § único do artigo 98.º, do artigo 99.º e seu § único e do artigo 100.º
 
-###### Art. 135.º Efectuadas as diligências de produção da prova que devam ter lugar antes da audiência de discussão e julgamento, o juiz designará um dos vinte dias imediatos para essa audiência.
+Art. 135.º Efectuadas as diligências de produção da prova que devam ter lugar antes da audiência de discussão e julgamento, o juiz designará um dos vinte dias imediatos para essa audiência.
 
 § único. Na audiência de discussão e julgamento observar-se-ão, na medida adequada, os termos do processo correccional.
 
-###### Art. 136.º A condenação definitiva proferida no processo de transgressão constituirá caso julgado quanto à existência e qualificação da infracção tributária, podendo instaurar-se novo processo contra outro responsável pela mesma infracção.
+Art. 136.º A condenação definitiva proferida no processo de transgressão constituirá caso julgado quanto à existência e qualificação da infracção tributária, podendo instaurar-se novo processo contra outro responsável pela mesma infracção.
 
 ### CAPÍTULO III — Do processo sumário
 
-###### Art. 137.º Se o processo de transgressão tiver por base um auto de notícia e o limite máximo da multa cominada para a infracção não exceder 10000$00, aplicar-se-á a forma sumária.
+Art. 137.º Se o processo de transgressão tiver por base um auto de notícia e o limite máximo da multa cominada para a infracção não exceder 10000$00, aplicar-se-á a forma sumária.
 
-###### Art. 138.º Observar-se-ão no processo sumário as disposições do processo ordinário em tudo o que não for especialmente regulado neste capítulo.
+Art. 138.º Observar-se-ão no processo sumário as disposições do processo ordinário em tudo o que não for especialmente regulado neste capítulo.
 
-###### Art. 139.º O auto de notícia, ainda que sem diligências complementares, equivalerá, para todos os efeitos, à acusação.
+Art. 139.º O auto de notícia, ainda que sem diligências complementares, equivalerá, para todos os efeitos, à acusação.
 
-###### Art. 140.º Não tendo sido efectuado o pagamento voluntário, e realizadas diligências complementares, se a elas houver lugar, o chefe da repartição de finanças ordenará logo a notificação do arguido para contestar, oferecer documentos, arrolar testemunhas e requerer outras provas.
+Art. 140.º Não tendo sido efectuado o pagamento voluntário, e realizadas diligências complementares, se a elas houver lugar, o chefe da repartição de finanças ordenará logo a notificação do arguido para contestar, oferecer documentos, arrolar testemunhas e requerer outras provas.
 
-###### Art. 141.º Produzida a prova que o deva ser na repartição de finanças, o processo será remetido ao tribunal de 1.ª instância.
+Art. 141.º Produzida a prova que o deva ser na repartição de finanças, o processo será remetido ao tribunal de 1.ª instância.
 
-###### Art. 142.º Se o arguido tiver declarado na contestação que pretende produzir prova no tribunal, o juiz ordenará as correspondentes diligências, que serão reduzidas a escrito.
+Art. 142.º Se o arguido tiver declarado na contestação que pretende produzir prova no tribunal, o juiz ordenará as correspondentes diligências, que serão reduzidas a escrito.
 
-###### Art. 143.º Finda a produção da prova, o juiz, no prazo de cinco dias, lavrará sentença julgando o auto subsistente ou insubsistente.
+Art. 143.º Finda a produção da prova, o juiz, no prazo de cinco dias, lavrará sentença julgando o auto subsistente ou insubsistente.
 
 ## TÍTULO V — Do processo de execução fiscal
 
@@ -970,25 +1047,25 @@ Realizadas as diligências de produção da prova na repartição de finanças, 
 
 #### SECÇÃO I — Do objecto, dos sujeitos e da competência
 
-###### Art. 144.º A cobrança coerciva das dívidas ao Estado, provenientes de contribuições, impostos, multas fiscais, reposições, taxas e outros rendimentos, incluídos os adicionais cobrados cumulativamente, realiza-se através do processo de execução fiscal.
+Art. 144.º A cobrança coerciva das dívidas ao Estado, provenientes de contribuições, impostos, multas fiscais, reposições, taxas e outros rendimentos, incluídos os adicionais cobrados cumulativamente, realiza-se através do processo de execução fiscal.
 
 § único. Serão cobradas nos mesmos termos outras dívidas ao Estado cuja obrigação de pagamento tenha sido reconhecida por despacho ministerial.
 
-###### Art. 145.º O tribunal não pode conhecer de matérias da competência das repartições de finanças e das tesourarias da Fazenda Pública que não sejam as estabelecidas no presente título.
+Art. 145.º O tribunal não pode conhecer de matérias da competência das repartições de finanças e das tesourarias da Fazenda Pública que não sejam as estabelecidas no presente título.
 
 § único. É vedado conhecer na oposição à execução fiscal se a dívida exequenda foi devidamente liquidada.
 
-###### Art. 146.º A execução pode ser instaurada contra a pessoa que no título executivo figurar como originário devedor ou seu sucessor e poderá reverter, na falta de bens penhoráveis, contra os responsáveis solidários ou subsidiários pelo pagamento da dívida exequenda.
+Art. 146.º A execução pode ser instaurada contra a pessoa que no título executivo figurar como originário devedor ou seu sucessor e poderá reverter, na falta de bens penhoráveis, contra os responsáveis solidários ou subsidiários pelo pagamento da dívida exequenda.
 
 § único. A execução também poderá reverter contra a pessoa que tenha estado na posse ou fruição dos bens que deram origem à dívida, no período em que se verificou o facto tributário.
 
-###### Art. 147.º Na falta de bens do originário devedor ou dos seus sucessores, mas tratando-se de dívida com privilégio sobre bens que se tenham transmitido a terceiros, contra estes reverterá a execução, salvo se a transmissão se tiver realizado por venda em processo a que a Fazenda Nacional devesse ser chamada a deduzir os seus direitos.
+Art. 147.º Na falta de bens do originário devedor ou dos seus sucessores, mas tratando-se de dívida com privilégio sobre bens que se tenham transmitido a terceiros, contra estes reverterá a execução, salvo se a transmissão se tiver realizado por venda em processo a que a Fazenda Nacional devesse ser chamada a deduzir os seus direitos.
 
 § único. Os terceiros só respondem pelo imposto relativo aos bens transmitidos e só estes podem ser penhorados na execução.
 
-###### Art. 148.º No caso de substituição tributária, e na falta de bens do devedor, a execução reverterá contra a pessoa em relação à qual se possa exercer direito de regresso.
+Art. 148.º No caso de substituição tributária, e na falta de bens do devedor, a execução reverterá contra a pessoa em relação à qual se possa exercer direito de regresso.
 
-###### Art. 149.º Os escrivães e demais funcionários que intervierem no processo ficarão subsidiàriamente responsáveis pela importância das dívidas que não puderem ser cobradas:
+Art. 149.º Os escrivães e demais funcionários que intervierem no processo ficarão subsidiàriamente responsáveis pela importância das dívidas que não puderem ser cobradas:
 
 a) Quando, por terem dado causa à instauração tardia da execução, por terem passado mandado para penhora fora do prazo legal ou por terem sido negligentes no seu cumprimento, não forem encontrados bens suficientes ao executado ou aos responsáveis;
 
@@ -998,17 +1075,17 @@ c) Quando possibilitem um novo estado de insolvência por terem sido negligentes
 
 § único. A responsabilidade subsidiária do funcionário carece de confirmação do respectivo director de finanças.
 
-###### Art. 150.º Quando a execução deva reverter contra responsáveis subsidiários, o juiz mandá-los-á citar, depois de obtida informação no processo sobre as quantias por que respondem.
+Art. 150.º Quando a execução deva reverter contra responsáveis subsidiários, o juiz mandá-los-á citar, depois de obtida informação no processo sobre as quantias por que respondem.
 
 § 1.º Se os responsáveis pagarem a dívida no prazo para a oposição, não lhes serão exigidos juros de mora, nem custas e selos, valendo a citação como notificação.
 
 § 2.º Se o pagamento não for efectuado dentro desse prazo ou decaírem na oposição deduzida, os responsáveis subsidiários suportarão, além das custas e selos a que derem causa, os que forem devidos pelos originários devedores.
 
-###### Art. 151.º Tendo-se verificado a partilha entre os sucessores da pessoa que no título figurar como devedor, o juiz ordenará, para os efeitos da alínea a) e § único do artigo 69.º, a destrinça da parte que cada um deles deva pagar.
+Art. 151.º Tendo-se verificado a partilha entre os sucessores da pessoa que no título figurar como devedor, o juiz ordenará, para os efeitos da alínea a) e § único do artigo 69.º, a destrinça da parte que cada um deles deva pagar.
 
 § único. Em relação a cada devedor será processada guia em triplicado, com a indicação de que foi passada nos termos deste artigo; um dos exemplares servirá de recibo ao contribuinte e no conhecimento serão averbados os pagamentos, juntando-se o mesmo ao processo logo que esteja totalmente pago.
 
-###### Art. 152.º É competente para a execução fiscal a repartição de finanças do concelho ou bairro do domicílio do devedor, salvo nos casos seguintes:
+Art. 152.º É competente para a execução fiscal a repartição de finanças do concelho ou bairro do domicílio do devedor, salvo nos casos seguintes:
 
 a) Tratando-se de execução com base em título extraído por uma tesouraria da Fazenda Pública, será competente a repartição de finanças do respectivo concelho ou bairro;
 
@@ -1020,11 +1097,11 @@ b) Tratando-se de multa fiscal e de custas e selos, será competente a repartiç
 
 #### SECÇÃO II — Do título executivo
 
-###### Art. 153.º A execução fiscal terá por base um título que certifique a existência de dívida certa, líquida e exigível.
+Art. 153.º A execução fiscal terá por base um título que certifique a existência de dívida certa, líquida e exigível.
 
-###### Art. 154.º Para efeitos de cobrança coerciva, os conhecimentos e outros títulos de cobrança das contribuições e impostos, de taxas e outros rendimentos do Estado são equiparados a decisão com trânsito em julgado.
+Art. 154.º Para efeitos de cobrança coerciva, os conhecimentos e outros títulos de cobrança das contribuições e impostos, de taxas e outros rendimentos do Estado são equiparados a decisão com trânsito em julgado.
 
-###### Art. 155.º Só podem servir de base à execução fiscal:
+Art. 155.º Só podem servir de base à execução fiscal:
 
 a) Certidão extraída do conhecimento ou de outro título de cobrança relativo a contribuições e impostos, taxas e outros rendimentos do Estado;
 
@@ -1032,7 +1109,7 @@ b) Certidão de decisão condenatória proferida em processo de transgressão co
 
 c) Qualquer outro título a que, por lei especial, seja atribuída força executiva.
 
-###### Art. 156.º Carece de força executiva, devendo ser devolvido à entidade que o tiver extraído, o título a que falte algum dos seguintes requisitos:
+Art. 156.º Carece de força executiva, devendo ser devolvido à entidade que o tiver extraído, o título a que falte algum dos seguintes requisitos:
 
 a) Menção da entidade competente para o extrair e assinatura desta devidamente autenticada;
 
@@ -1048,15 +1125,15 @@ d) Proveniência da dívida e indicação, por extenso, do seu montante.
 
 ##### SUBSECÇÃO I — Dos incidentes da instância
 
-###### Art. 157.º Dos incidentes da instância só é admitido o de falsidade.
+Art. 157.º Dos incidentes da instância só é admitido o de falsidade.
 
-###### Art. 158.º No incidente de falsidade da competência do tribunal de 1.ª instância não haverá depoimento de parte e os depoimentos serão escritos.
+Art. 158.º No incidente de falsidade da competência do tribunal de 1.ª instância não haverá depoimento de parte e os depoimentos serão escritos.
 
-###### Art. 159.º No caso de falecimento do executado, bastará informar no processo quem são os herdeiros, consoante se dispõe no artigo 69.º
+Art. 159.º No caso de falecimento do executado, bastará informar no processo quem são os herdeiros, consoante se dispõe no artigo 69.º
 
 ##### SUBSECÇÃO II — Da suspensão e da interrupção da instância
 
-###### Art. 160.º A impugnação e o recurso que tenham por objecto a legalidade da dívida exequenda, suspendem a execução até à decisão do pleito, desde que a penhora garanta a totalidade da quantia exequenda e do acrescido, o que será informado no processo pelo escrivão.
+Art. 160.º A impugnação e o recurso que tenham por objecto a legalidade da dívida exequenda, suspendem a execução até à decisão do pleito, desde que a penhora garanta a totalidade da quantia exequenda e do acrescido, o que será informado no processo pelo escrivão.
 
 § 1.º Se ainda não houver penhora ou os bens penhorados não garantirem a dívida exequenda e acrescido, será ordenada a notificação do executado para, no prazo de cinco dias, prestar caução, a qual poderá ser por meio de depósito de dinheiro, papéis de crédito, fundos públicos com cotação na bolsa, pedras ou metais preciosos, ou de fiança bancária. Se a caução não for prestada, proceder-se-á à penhora.
 
@@ -1064,11 +1141,11 @@ d) Proveniência da dívida e indicação, por extenso, do seu montante.
 
 § 3.º Se for recebida a oposição à execução, aplicar-se-á o disposto no corpo deste artigo e § 1.º
 
-###### Art. 161.º A acção judicial que tenha por objecto a propriedade ou posse dos bens penhorados, suspende a execução quanto a esses bens, sem prejuízo de continuar noutros bens.
+Art. 161.º A acção judicial que tenha por objecto a propriedade ou posse dos bens penhorados, suspende a execução quanto a esses bens, sem prejuízo de continuar noutros bens.
 
-###### Art. 162.º A suspensão da execução poderá decretar-se no juízo deprecado, se este dispuser dos elementos necessários e aí puder ser efectuada a penhora.
+Art. 162.º A suspensão da execução poderá decretar-se no juízo deprecado, se este dispuser dos elementos necessários e aí puder ser efectuada a penhora.
 
-###### Art. 163.º Penhorados todos os bens do executado ou os bastantes para garantir a dívida exequenda e o acrescido, poderá o juiz autorizar o pagamento em prestações semestrais, em número não superior a dez, quando se verifiquem as seguintes condições:
+Art. 163.º Penhorados todos os bens do executado ou os bastantes para garantir a dívida exequenda e o acrescido, poderá o juiz autorizar o pagamento em prestações semestrais, em número não superior a dez, quando se verifiquem as seguintes condições:
 
 a) Não ter o executado possibilidade de solver a dívida por uma só vez sem alienação dos bens penhorados;
 
@@ -1080,7 +1157,7 @@ c) Não estarem os mesmos bens penhoradas em execução pendente noutro tribunal
 
 § 2.º O disposto neste artigo não poderá aplicar-se em qualquer caso de pagamento por sub-rogação.
 
-###### Art. 164.º A interrupção do processo de execução fiscal nunca dá causa à deserção da instância.
+Art. 164.º A interrupção do processo de execução fiscal nunca dá causa à deserção da instância.
 
 § único. O executado será notificado quando a execução prossiga a requerimento do sub-rogado.
 
@@ -1088,9 +1165,9 @@ c) Não estarem os mesmos bens penhoradas em execução pendente noutro tribunal
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 165.º Em processo de execução fiscal não é permitida a coligação de exequentes.
+Art. 165.º Em processo de execução fiscal não é permitida a coligação de exequentes.
 
-###### Art. 166.º Correndo contra o mesmo executado várias execuções nos termos deste código, serão apensadas, oficiosamente ou a requerimento dele, observando-se o seguinte:
+Art. 166.º Correndo contra o mesmo executado várias execuções nos termos deste código, serão apensadas, oficiosamente ou a requerimento dele, observando-se o seguinte:
 
 a) A apensação só se fará após o prazo para oposição decorrente da citação;
 
@@ -1098,7 +1175,7 @@ b) A apensação será feita ao processo mais adiantado, mas, se for antes da pe
 
 § único. A apensação não se fará quando puder prejudicar o cumprimento de formalidades especiais.
 
-###### Art. 167.º A concordata e a declaração de falência ou de insolvência do executado não impedem que se instaure a execução fiscal nem suspendem o seu andamento, qualquer que seja a proveniência da dívida.
+Art. 167.º A concordata e a declaração de falência ou de insolvência do executado não impedem que se instaure a execução fiscal nem suspendem o seu andamento, qualquer que seja a proveniência da dívida.
 
 § 1.º Não podem penhorar-se na execução os bens apreendidos em processo de falência. Havendo bens apreendidos, observar-se-á o seguinte:
 
@@ -1114,13 +1191,13 @@ c) As execuções fiscais avocadas serão devolvidas logo que o processo de fal�
 
 § 4.º Se o falido vier a adquirir bens, em qualquer altura, prosseguirá a execução fiscal para cobrança do que restar em dívida, sem prejuízo da prescrição.
 
-###### Art. 168.º Declarada a falência ou a insolvência, o administrador da massa falida requererá, no prazo de cinco dias, a contar da notificação da sentença, a citação pessoal do chefe da repartição de finanças do concelho ou bairro do domicílio do falido e os de todos os concelhos ou bairros onde possuir bens e onde exista qualquer estabelecimento comercial ou industrial que lhe pertença, para, no prazo de dez dias, remeterem certidão das dívidas do falido à Fazenda Nacional. A esta certidão aplicar-se-á o disposto no § único do artigo 32.º
+Art. 168.º Declarada a falência ou a insolvência, o administrador da massa falida requererá, no prazo de cinco dias, a contar da notificação da sentença, a citação pessoal do chefe da repartição de finanças do concelho ou bairro do domicílio do falido e os de todos os concelhos ou bairros onde possuir bens e onde exista qualquer estabelecimento comercial ou industrial que lhe pertença, para, no prazo de dez dias, remeterem certidão das dívidas do falido à Fazenda Nacional. A esta certidão aplicar-se-á o disposto no § único do artigo 32.º
 
 § único. No prazo de cinco dias, a contar da notificação da sentença que tiver declarado a falência ou da citação que lhe tenha sido feita em processo de execução fiscal, deve o administrador da massa falida, sob pena de incorrer em responsabilidade subsidiária, requerer a avocação dos processos em que o falido seja executado ou responsável e que se encontrem pendentes nas repartições de finanças dos concelhos ou bairros do seu domicílio, onde tiver bens e onde exercer comércio ou indústria, a fim de serem apensados ao processo de falência.
 
-###### Art. 169.º Em processo de execução fiscal não pode ser declarada a falência ou insolvência do executado.
+Art. 169.º Em processo de execução fiscal não pode ser declarada a falência ou insolvência do executado.
 
-###### Art. 170.º Se houver lugar a caução, esta será prestada no tribunal ou na repartição de finanças onde pender o processo respectivo e pela forma estipulada na lei de processo civil, sem prejuízo do especialmente disposto neste código.
+Art. 170.º Se houver lugar a caução, esta será prestada no tribunal ou na repartição de finanças onde pender o processo respectivo e pela forma estipulada na lei de processo civil, sem prejuízo do especialmente disposto neste código.
 
 § 1.º A caução poderá ser levantada a requerimento de quem a haja prestado logo que, no processo que a determinou, tenha transitado em julgado decisão favorável ao caucionado.
 
@@ -1128,7 +1205,7 @@ c) As execuções fiscais avocadas serão devolvidas logo que o processo de fal�
 
 § 3.º Se o levantamento for requerido pelos sucessores de quem tenha prestado a caução, deverão estes provar que se encontra pago ou assegurado o imposto devido pela transmissão da quantia ou valores a levantar.
 
-###### Art. 171.º Para registo dos processos haverá os seguintes livros de modelos a aprovar pelo Ministro das Finanças:
+Art. 171.º Para registo dos processos haverá os seguintes livros de modelos a aprovar pelo Ministro das Finanças:
 
 a) Um para registo das execuções instauradas com base em certidões de relaxe extraídas pelo tesoureiro da Fazenda Pública;
 
@@ -1142,23 +1219,23 @@ d) Um para registo das cartas precatórias recebidas.
 
 #### SECÇÃO II — Da instauração e da citação
 
-###### Art. 172.º A execução será instaurada mediante despacho lavrado no título executivo no prazo de 24 horas, a contar do seu recebimento, e considera-se iniciada com a autuação, cujos efeitos se reportarão à data do despacho.
+Art. 172.º A execução será instaurada mediante despacho lavrado no título executivo no prazo de 24 horas, a contar do seu recebimento, e considera-se iniciada com a autuação, cujos efeitos se reportarão à data do despacho.
 
 § 1.º No caso da relação a que se refere a alínea a) do artigo 29.º, bastará um despacho nela exarado a ordenar a autuação de cada uma das respectivas certidões.
 
 § 2.º Serão autuadas conjuntamente todas as certidões de relaxe que se encontrem na repartição de finanças à data da instauração e que tenham sido extraídas contra o mesmo devedor.
 
-###### Art. 173.º Autuado o título, o juiz mandará citar o executado para, no prazo de dez dias, pagar a dívida exequenda, juros de mora, custas e selos, sob pena de penhora.
+Art. 173.º Autuado o título, o juiz mandará citar o executado para, no prazo de dez dias, pagar a dívida exequenda, juros de mora, custas e selos, sob pena de penhora.
 
 § único. Sendo necessário, atender-se-á na ordem das citações às dívidas com mais curto privilégio, às do Estado e às mais avultadas.
 
-###### Art. 174.º Se a dívida exequenda provier de taxa militar e se verificar que o executado e os responsáveis estão ausentes em parte incerta, averiguar-se-á logo se possuem bens penhoráveis, lavrando-se auto de diligência se os não possuírem. Neste caso não se fará a citação e observar-se-á o disposto no artigo 247.º
+Art. 174.º Se a dívida exequenda provier de taxa militar e se verificar que o executado e os responsáveis estão ausentes em parte incerta, averiguar-se-á logo se possuem bens penhoráveis, lavrando-se auto de diligência se os não possuírem. Neste caso não se fará a citação e observar-se-á o disposto no artigo 247.º
 
 #### SECÇÃO III — Da oposição
 
 ##### SUBSECÇÃO I — Da oposição do executado
 
-###### Art. 175.º O executado pode opor-se à execução no prazo de dez dias, a contar:
+Art. 175.º O executado pode opor-se à execução no prazo de dez dias, a contar:
 
 a) Da citação pessoal ou, não a tendo havido, da primeira penhora;
 
@@ -1168,7 +1245,7 @@ b) Da data em que tiver ocorrido o facto superveniente ou da do seu conhecimento
 
 § 2.º Para efeito do disposto na alínea b), considera-se superveniente não só o facto que tiver ocorrido posteriormente ao prazo da oposição, mas ainda aquele que, embora ocorrido antes, só posteriormente venha ao conhecimento do executado, caso em que deverá provar-se a superveniência.
 
-###### Art. 176.º A oposição só pode ter algum dos seguintes fundamentos:
+Art. 176.º A oposição só pode ter algum dos seguintes fundamentos:
 
 a) Ilegalidade da dívida exequenda em virtude de a contribuição, imposto ou taxa de que provém não existir nas leis em vigor ou não estar autorizada a sua cobrança para o respectivo ano;
 
@@ -1186,21 +1263,21 @@ g) Outro fundamento a provar apenas por documento e que não envolva apreciaçã
 
 § único. O fundamento constante da alínea a) é extensivo a quaisquer dívidas cobradas nos termos deste código.
 
-###### Art. 177.º A duplicação de colecta deverá ser conhecida oficiosamente e só poderá ser alegada uma vez, salvo baseando-se em documento superveniente demonstrativo do pagamento ou de nova liquidação.
+Art. 177.º A duplicação de colecta deverá ser conhecida oficiosamente e só poderá ser alegada uma vez, salvo baseando-se em documento superveniente demonstrativo do pagamento ou de nova liquidação.
 
 Alegada a duplicação, obter-se-á informação sobre se este fundamento já foi apreciado noutro processo e sobre as razões que originaram a nova liquidação.
 
 § único. A alegação da duplicação de colecta deve ser anotada pela repartição de finanças no respectivo verbete de lançamento logo que seja prestada a informação.
 
-###### Art. 178.º Com a petição em que deduza a oposição, deverá o executado oferecer todos os documentos, arrolar testemunhas, requerer as demais provas e declarar se pretende que a prova seja produzida directamente no tribunal de 1.ª instância. A petição será acompanhada de duplicado isento de selo.
+Art. 178.º Com a petição em que deduza a oposição, deverá o executado oferecer todos os documentos, arrolar testemunhas, requerer as demais provas e declarar se pretende que a prova seja produzida directamente no tribunal de 1.ª instância. A petição será acompanhada de duplicado isento de selo.
 
-###### Art. 179.º A petição inicial será apresentada no tribunal ou repartição de finanças onde pender a execução.
+Art. 179.º A petição inicial será apresentada no tribunal ou repartição de finanças onde pender a execução.
 
 § único. Se tiver sido expedida carta precatória, a oposição será deduzida no juízo deprecado, devolvendo-se a carta, depois de contada, para seguimento da oposição.
 
-###### Art. 180.º Autuada a petição, o chefe da repartição de finanças, no prazo de dez dias, ordenará a remessa do processo ao tribunal de 1.ª instância com as informações que reputar convenientes.
+Art. 180.º Autuada a petição, o chefe da repartição de finanças, no prazo de dez dias, ordenará a remessa do processo ao tribunal de 1.ª instância com as informações que reputar convenientes.
 
-###### Art. 181.º Recebido o processo, o juiz poderá logo rejeitar a oposição por um dos seguintes fundamentos:
+Art. 181.º Recebido o processo, o juiz poderá logo rejeitar a oposição por um dos seguintes fundamentos:
 
 a) Ter sido deduzida fora do prazo;
 
@@ -1210,57 +1287,57 @@ c) Ser manifesta a improcedência.
 
 § único. Se o fundamento alegado for o da alínea g) do artigo 176.º, a oposição será também rejeitada quando à petição se não junte o documento ou documentos necessários.
 
-###### Art. 182.º Recebida a oposição, será notificado o representante do Ministério Público para contestar, aplicando-se o disposto no artigo 94.º
+Art. 182.º Recebida a oposição, será notificado o representante do Ministério Público para contestar, aplicando-se o disposto no artigo 94.º
 
-###### Art. 183.º Cumprido o disposto no artigo anterior, seguir-se-á o que, para o processo de impugnação, se prescreve nos artigos 95.º, 96.º, 98.º e seguintes.
+Art. 183.º Cumprido o disposto no artigo anterior, seguir-se-á o que, para o processo de impugnação, se prescreve nos artigos 95.º, 96.º, 98.º e seguintes.
 
 § único. São admitidos os meios gerais de prova, salvo as disposições especiais das leis de tributação e sem prejuízo do disposto na alínea g) do artigo 176.º
 
-###### Art. 184.º A oposição suspende a execução de harmonia com o disposto no § 3.º do artigo 160.º
+Art. 184.º A oposição suspende a execução de harmonia com o disposto no § 3.º do artigo 160.º
 
-###### Art. 185.º Transitada em julgado a sentença que decidir a oposição e pagas as custas, se forem devidas, será o processo devolvido à repartição de finanças para ser apensado ao da execução.
+Art. 185.º Transitada em julgado a sentença que decidir a oposição e pagas as custas, se forem devidas, será o processo devolvido à repartição de finanças para ser apensado ao da execução.
 
 ##### SUBSECÇÃO II — Dos embargos de terceiro
 
-###### Art. 186.º Quando o arresto ou a penhora ofenda a posse de terceiro, pode o lesado fazer-se restituir à sua posse por meio de embargos de terceiro que serão apresentados no tribunal ou na repartição de finanças onde pender a execução e regidos, na parte em que o possam ser, pelos preceitos da subsecção anterior.
+Art. 186.º Quando o arresto ou a penhora ofenda a posse de terceiro, pode o lesado fazer-se restituir à sua posse por meio de embargos de terceiro que serão apresentados no tribunal ou na repartição de finanças onde pender a execução e regidos, na parte em que o possam ser, pelos preceitos da subsecção anterior.
 
-###### Art. 187.º Nestes embargos não pode levantar-se a questão de propriedade, mas, quando necessário, o Estado terá legitimidade para discutir essa questão nos tribunais ordinários.
+Art. 187.º Nestes embargos não pode levantar-se a questão de propriedade, mas, quando necessário, o Estado terá legitimidade para discutir essa questão nos tribunais ordinários.
 
 #### SECÇÃO IV — Da apreensão de bens
 
 ##### SUBSECÇÃO I — Disposição geral
 
-###### Art. 188.º Ao arresto e à penhora serão especialmente aplicáveis as disposições desta secção.
+Art. 188.º Ao arresto e à penhora serão especialmente aplicáveis as disposições desta secção.
 
 ##### SUBSECÇÃO II — Do arresto
 
-###### Art. 189.º Havendo dificuldade em citar o executado e justo receio de insolvência ou de ocultação ou alienação de bens, pode o representante do Ministério Público requerer arresto em bens suficientes para garantir a dívida exequenda e o acrescido.
+Art. 189.º Havendo dificuldade em citar o executado e justo receio de insolvência ou de ocultação ou alienação de bens, pode o representante do Ministério Público requerer arresto em bens suficientes para garantir a dívida exequenda e o acrescido.
 
 § único. Citado o executado, o arresto será convertido em penhora se o pagamento não tiver sido efectuado.
 
 ##### SUBSECÇÃO III — Da penhora
 
-###### Art. 190.º Findo o decêndio posterior à citação, sem ter sido efectuado o pagamento, o escrivão do processo, independentemente de despacho, passará mandado para penhora que deverá ser cumprido no prazo de dez dias se outro não for designado pelo juiz ao assinar o mandado.
+Art. 190.º Findo o decêndio posterior à citação, sem ter sido efectuado o pagamento, o escrivão do processo, independentemente de despacho, passará mandado para penhora que deverá ser cumprido no prazo de dez dias se outro não for designado pelo juiz ao assinar o mandado.
 
 § único. O direito de nomear bens à penhora considera-se sempre devolvido ao exequente, mas o juiz poderá admiti-la nos bens indicados pelo executado desde que daí não resulte prejuízo.
 
-###### Art. 191.º Se o executado for alguma autarquia local e não for efectuado o pagamento nem deduzida oposição no decêndio posterior à citação, será remetida à Direcção-Geral das Contribuições e Impostos certidão da importância da dívida e do acrescido, a fim de se promoverem junto da Direcção-Geral de Administração Política e Civil as providências adequadas ao cumprimento da obrigação.
+Art. 191.º Se o executado for alguma autarquia local e não for efectuado o pagamento nem deduzida oposição no decêndio posterior à citação, será remetida à Direcção-Geral das Contribuições e Impostos certidão da importância da dívida e do acrescido, a fim de se promoverem junto da Direcção-Geral de Administração Política e Civil as providências adequadas ao cumprimento da obrigação.
 
 § 1.º Tratando-se de pessoa colectiva de utilidade pública administrativa ou de organismo de coordenação económica ou corporativo, a certidão da dívida e do acrescido será remetida à autoridade competente para promover o pagamento ou a inclusão da verba necessária no primeiro orçamento.
 
 § 2.º A ineficácia das diligências referidas não impede a penhora em bens dela susceptíveis.
 
-###### Art. 192.º A penhora será feita sòmente nos bens suficientes para o pagamento da dívida exequenda e do acrescido, mas, quando o produto dos bens penhorados for insuficiente para o pagamento da execução, esta prosseguirá em outros bens.
+Art. 192.º A penhora será feita sòmente nos bens suficientes para o pagamento da dívida exequenda e do acrescido, mas, quando o produto dos bens penhorados for insuficiente para o pagamento da execução, esta prosseguirá em outros bens.
 
-###### Art. 193.º Penhorados quaisquer bens pelos tribunais fiscais, não poderão os mesmos bens ser apreendidos, penhorados ou requisitados por qualquer outro tribunal.
+Art. 193.º Penhorados quaisquer bens pelos tribunais fiscais, não poderão os mesmos bens ser apreendidos, penhorados ou requisitados por qualquer outro tribunal.
 
 § único. Salvo o disposto no § 1.º do artigo 167.º, podem ser penhorados pelos tribunais das contribuições e impostos e pelas repartições de finanças os bens apreendidos por qualquer outro tribunal, não sendo a execução, por esse motivo, sustada nem apensada.
 
-###### Art. 194.º A penhora começará pelos bens mobiliários, frutos ou rendimentos dos imobiliários, ainda que estes sejam impenhoráveis, e, na sua falta, tratando-se de dívida com privilégio, pelos bens a que este respeitar, se ainda pertencerem ao executado e sem prejuízo do disposto no artigo 147.º
+Art. 194.º A penhora começará pelos bens mobiliários, frutos ou rendimentos dos imobiliários, ainda que estes sejam impenhoráveis, e, na sua falta, tratando-se de dívida com privilégio, pelos bens a que este respeitar, se ainda pertencerem ao executado e sem prejuízo do disposto no artigo 147.º
 
-###### Art. 195.º Na execução para cobrança de multa fiscal imposta a um dos cônjuges podem ser imediatamente penhorados bens comuns, devendo, neste caso, citar-se o outro cônjuge para requerer a separação judicial de bens.
+Art. 195.º Na execução para cobrança de multa fiscal imposta a um dos cônjuges podem ser imediatamente penhorados bens comuns, devendo, neste caso, citar-se o outro cônjuge para requerer a separação judicial de bens.
 
-###### Art. 196.º Na penhora de móveis observar-se-á o seguinte:
+Art. 196.º Na penhora de móveis observar-se-á o seguinte:
 
 a) Os bens serão apreendidos e entregues a um depositário, de abonação correspondente ao seu valor provável, salvo se puderem ser removidos, sem inconveniente, para a secretaria do tribunal ou para qualquer depósito público. O depositário é escolhido pelo escrivão, sob sua responsabilidade, podendo a escolha recair no executado;
 
@@ -1272,13 +1349,13 @@ d) Se o depositário não souber ou não puder assinar, será o auto assinado po
 
 e) Ao depositário será entregue pelo escrivão cópia do auto.
 
-###### Art. 197.º Além das coisas que obrigatòriamente são depositadas na Caixa Geral de Depósitos, poderão também ser ali guardadas outras desde que isso se mostre conveniente, observando-se o respectivo regulamento.
+Art. 197.º Além das coisas que obrigatòriamente são depositadas na Caixa Geral de Depósitos, poderão também ser ali guardadas outras desde que isso se mostre conveniente, observando-se o respectivo regulamento.
 
-###### Art. 198.º Quando a penhora recair sobre veículo automóvel licenciado para o exercício da indústria de transportes de aluguer, será também apreendida a respectiva licença. Esta caducará com a venda do veículo.
+Art. 198.º Quando a penhora recair sobre veículo automóvel licenciado para o exercício da indústria de transportes de aluguer, será também apreendida a respectiva licença. Esta caducará com a venda do veículo.
 
 § único. O tribunal deverá comunicar à conservatória e à Direcção de Viação a identidade do adquirente do veículo para o efeito da obtenção de licença.
 
-###### Art. 199.º A penhora de dinheiro ou de outros valores depositados deverá ser precedida de informação do escrivão sobre a identidade do depositário, a quantia ou os objectos depositados e o valor presumível destes.
+Art. 199.º A penhora de dinheiro ou de outros valores depositados deverá ser precedida de informação do escrivão sobre a identidade do depositário, a quantia ou os objectos depositados e o valor presumível destes.
 
 § 1.º Salvo o caso previsto no n.º 2 do artigo 861.º do Código de Processo Civil, a penhora efectuar-se-á por meio de carta registada, com aviso de recepção, dirigida ao depositário.
 
@@ -1286,7 +1363,7 @@ e) Ao depositário será entregue pelo escrivão cópia do auto.
 
 § 3.º Quando por culpa do depositário não for possível cobrar a dívida exequenda e o acrescido, incorrerá ele em responsabilidade subsidiária.
 
-###### Art. 200.º A penhora de créditos será feita por meio de auto, nomeando-se depositário o devedor ou o seu legítimo representante, e com observância das seguintes regras:
+Art. 200.º A penhora de créditos será feita por meio de auto, nomeando-se depositário o devedor ou o seu legítimo representante, e com observância das seguintes regras:
 
 a) Do auto deve constar se o devedor reconhece a obrigação, a data em que se vence, as garantias que a acompanham e quaisquer outras circunstâncias que possam interessar à execução;
 
@@ -1298,11 +1375,11 @@ d) O devedor será advertido de que não se exonera pagando directamente ao cred
 
 e) Se negar a obrigação, no todo ou em parte, será o crédito considerado litigioso, na parte não reconhecida, e, como tal, será posto em praça por três quartas partes do seu valor. Não havendo arrematante, voltará por metade e na terceira praça irá sem valor.
 
-###### Art. 201.º A penhora de parte social ou de quota em sociedade será feita mediante auto em que se especificará o objecto da penhora e o valor resultante do último balanço, nomeando-se depositário um dos administradores, directores ou gerentes.
+Art. 201.º A penhora de parte social ou de quota em sociedade será feita mediante auto em que se especificará o objecto da penhora e o valor resultante do último balanço, nomeando-se depositário um dos administradores, directores ou gerentes.
 
 § único. Se não for possível indicar no auto de penhora o valor do último balanço, será esse valor fixado pelo juiz da execução, antes da venda.
 
-###### Art. 202.º Quando haja de penhorar-se um título de anulação, observar-se-á o seguinte:
+Art. 202.º Quando haja de penhorar-se um título de anulação, observar-se-á o seguinte:
 
 a) Dar-se-á conhecimento às competentes repartições de finanças e tesouraria da Fazenda Pública de que não devem autorizar nem efectuar o pagamento;
 
@@ -1316,7 +1393,7 @@ e) O pagamento nos termos da alínea anterior pode efectuar-se independentemente
 
 § único. Se o título apreendido ou a segunda via houver sido passado em repartição de finanças de concelho diferente daquele em que se efectuou a penhora, será remetido, assinado pelo juiz da execução, ao chefe daquela repartição que o deverá cobrar e remeter a respectiva importância para pagamento da dívida exequenda e do acrescido.
 
-###### Art. 203.º Se o executado for funcionário público ou administrativo, empregado de organismo de coordenação económica, de organismo corporativo ou de pessoa colectiva de utilidade pública administrativa, a penhora, na falta de outros bens, incidirá sobre os respectivos proventos ou pensão de reforma ou aposentação e obedecerá às seguintes regras:
+Art. 203.º Se o executado for funcionário público ou administrativo, empregado de organismo de coordenação económica, de organismo corporativo ou de pessoa colectiva de utilidade pública administrativa, a penhora, na falta de outros bens, incidirá sobre os respectivos proventos ou pensão de reforma ou aposentação e obedecerá às seguintes regras:
 
 a) Liquidada a dívida exequenda e o acrescido, solicitar-se-ão os descontos à entidade encarregada de processar as folhas, por carta registada com aviso de recepção, ainda que tenha a sede fora da área do tribunal da execução. Os juros de mora serão contados até à data da liquidação;
 
@@ -1324,13 +1401,13 @@ b) Os descontos, à medida que forem feitos, serão depositados na Caixa Geral d
 
 c) A entidade que efectuar o depósito deverá enviar um duplicado da respectiva guia para ser junto ao processo.
 
-###### Art. 204.º A penhora em rendimentos, tais como rendas, foros, juros ou outras prestações, terá trato sucessivo pelos períodos bastantes para o pagamento da dívida exequenda e do acrescido, nomeando-se depositário o respectivo devedor.
+Art. 204.º A penhora em rendimentos, tais como rendas, foros, juros ou outras prestações, terá trato sucessivo pelos períodos bastantes para o pagamento da dívida exequenda e do acrescido, nomeando-se depositário o respectivo devedor.
 
 As importâncias vencidas serão entregues na tesouraria mediante guia passada pelo escrivão, a fim de serem depositadas em conta da execução.
 
 § único. A penhora a que se refere este artigo caduca de direito logo que esteja extinta a execução, o que será comunicado ao depositário.
 
-###### Art. 205.º Na penhora de rendimentos observar-se-á o seguinte:
+Art. 205.º Na penhora de rendimentos observar-se-á o seguinte:
 
 a) No acto da penhora notificar-se-á o devedor dos rendimentos de que não ficará desonerado da obrigação se pagar ao executado, o que se fará constar do auto;
 
@@ -1342,11 +1419,11 @@ d) Se o estabelecimento comercial ou industrial, ou a concessão mineira, cujo d
 
 e) Se os rendimentos penhorados não forem pagos no seu vencimento, será o respectivo devedor executado no processo pelas importâncias não depositadas.
 
-###### Art. 206.º Quando a penhora de móveis estiver sujeita a registo, deve este ser imediatamente requerido pelo representante do Ministério Público.
+Art. 206.º Quando a penhora de móveis estiver sujeita a registo, deve este ser imediatamente requerido pelo representante do Ministério Público.
 
 § único. O serviço competente efectuará o registo no prazo de quinze dias e, dentro deste prazo, remeterá o respectivo certificado e a certidão de ónus, a fim de serem juntos ao processo.
 
-###### Art. 207.º Na penhora de imóveis lavrar-se-á um auto em relação a cada prédio e observar-se-á o seguinte:
+Art. 207.º Na penhora de imóveis lavrar-se-á um auto em relação a cada prédio e observar-se-á o seguinte:
 
 a) Os bens penhorados serão entregues a um depositário escolhido pelo escrivão, sob sua responsabilidade, podendo a escolha recair no executado;
 
@@ -1358,7 +1435,7 @@ d) Feita no auto a anotação do artigo da matriz e do valor matricial corrigido
 
 e) Cumpridas as regras anteriores, observar-se-á o disposto no artigo 206.º
 
-###### Art. 208.º Da penhora que tiver por objecto o direito a uma parte de bens, lavrar-se-á auto no qual se indicará a quota do executado, se identificarão os bens, se forem determinados, e os condóminos, observando-se ainda as regras seguintes:
+Art. 208.º Da penhora que tiver por objecto o direito a uma parte de bens, lavrar-se-á auto no qual se indicará a quota do executado, se identificarão os bens, se forem determinados, e os condóminos, observando-se ainda as regras seguintes:
 
 a) O depositário será escolhido pelo escrivão, que preferirá o administrador dos bens, se o houver, podendo, na falta deste, ser o próprio executado;
 
@@ -1366,7 +1443,7 @@ b) Colhidos os elementos indispensáveis junto da repartição de finanças e da
 
 c) Efectuada a penhora no direito e acção a herança indivisa, e correndo inventário, o juiz comunicará o facto ao respectivo tribunal e solicitar-lhe-á que oportunamente informe quais os bens aformalados ao executado. Neste caso a execução poderá ser suspensa por período não superior a um ano.
 
-###### Art. 209.º À responsabilidade dos depositários de bens penhorados aplicar-se-ão as seguintes regras:
+Art. 209.º À responsabilidade dos depositários de bens penhorados aplicar-se-ão as seguintes regras:
 
 a) Para os efeitos do artigo 854.º do Código de Processo Civil, o juiz da execução expedirá mandado de captura que será sempre enviado ao delegado do procurador da República da comarca onde puder efectuar-se a prisão;
 
@@ -1376,11 +1453,11 @@ c) O depositário poderá ser oficiosamente removido pelo juiz;
 
 d) Na prestação de contas o juiz nomeará um perito, se for necessário, e decidirá segundo o seu prudente arbítrio.
 
-###### Art. 210.º A penhora não será levantada qualquer que seja o tempo por que estiver parada a execução e ainda que o motivo não seja imputável ao executado.
+Art. 210.º A penhora não será levantada qualquer que seja o tempo por que estiver parada a execução e ainda que o motivo não seja imputável ao executado.
 
 § único. Quando a execução tiver sido paga por terceiro sub-rogado e o processo, por motivo que lhe seja imputável, se encontre parado há mais de seis meses, a penhora poderá ser levantada a requerimento do executado ou de qualquer credor.
 
-###### Art. 211.º Se ao executado não forem encontrados bens penhoráveis, o escrivão lavrará auto de diligência, perante duas testemunhas idóneas que ratifiquem o facto, devendo uma delas, sempre que possível, ser o regedor ou o presidente da junta de freguesia.
+Art. 211.º Se ao executado não forem encontrados bens penhoráveis, o escrivão lavrará auto de diligência, perante duas testemunhas idóneas que ratifiquem o facto, devendo uma delas, sempre que possível, ser o regedor ou o presidente da junta de freguesia.
 
 § 1.º O auto será assinado pelas testemunhas, se souberem e puderem fazê-lo, pelo oficial de diligências e pelo escrivão.
 
@@ -1390,15 +1467,15 @@ d) Na prestação de contas o juiz nomeará um perito, se for necessário, e dec
 
 ##### SUBSECÇÃO I — Actos preliminares
 
-###### Art. 212.º Feita a penhora e junta a certidão de ónus, serão citados os credores com garantia real, relativamente aos bens penhorados, e o cônjuge do executado no caso previsto no artigo 195.º ou quando a penhora incida sobre bens imobiliários, sem o que a execução não prosseguirá.
+Art. 212.º Feita a penhora e junta a certidão de ónus, serão citados os credores com garantia real, relativamente aos bens penhorados, e o cônjuge do executado no caso previsto no artigo 195.º ou quando a penhora incida sobre bens imobiliários, sem o que a execução não prosseguirá.
 
 § único. Os credores desconhecidos, bem como os sucessores dos credores preferentes, serão citados pelos editais que vierem a ser afixados e pelos anúncios que se publicarem para a arrematação.
 
 ##### SUBSECÇÃO II — Formalidades da venda
 
-###### Art. 213.º A venda judicial será feita por arrematação em hasta pública, só podendo ter lugar por meio de propostas em carta fechada quando, tendo ficado deserta a segunda praça e ouvido o director de finanças do distrito onde pender o processo, se considere esta modalidade mais vantajosa.
+Art. 213.º A venda judicial será feita por arrematação em hasta pública, só podendo ter lugar por meio de propostas em carta fechada quando, tendo ficado deserta a segunda praça e ouvido o director de finanças do distrito onde pender o processo, se considere esta modalidade mais vantajosa.
 
-###### Art. 214.º A venda extrajudicial não poderá realizar-se em estabelecimento de leilões e, se for por negociação particular, só se efectuará nos seguintes casos:
+Art. 214.º A venda extrajudicial não poderá realizar-se em estabelecimento de leilões e, se for por negociação particular, só se efectuará nos seguintes casos:
 
 a) Quando, depois da segunda praça, seja de prever, em face da escassa concorrência de licitantes ou do baixo preço oferecido, a inutilidade da terceira praça;
 
@@ -1410,7 +1487,7 @@ d) Quando haja urgência na venda dos bens.
 
 § único. A venda por negociação particular só poderá ser efectuada depois de ouvido o director de finanças.
 
-###### Art. 215.º Na venda dos bens em hasta pública observar-se-á especialmente o seguinte:
+Art. 215.º Na venda dos bens em hasta pública observar-se-á especialmente o seguinte:
 
 a) Os imóveis serão postos em praça pelo valor matricial corrigido, salvo se outro for indicado pelo chefe da repartição de finanças do concelho ou bairro da situação dos bens, que igualmente fixará o valor tratando-se de prédios omissos na matriz;
 
@@ -1418,17 +1495,17 @@ b) Os móveis serão postos em praça pelo valor que lhes tenha sido atribuído 
 
 c) Os bens irão à segunda praça por metade do valor e à terceira sem valor designado.
 
-###### Art. 216.º As arrematações realizar-se-ão no tribunal de 1.ª instância ou na repartição de finanças que tiver efectuado a penhora, salvo, tratando-se de móveis, se outro local for designado pelo juiz da execução.
+Art. 216.º As arrematações realizar-se-ão no tribunal de 1.ª instância ou na repartição de finanças que tiver efectuado a penhora, salvo, tratando-se de móveis, se outro local for designado pelo juiz da execução.
 
 § único. Para efeitos de arrematação, a concessão mineira será equiparada a um imóvel. Se a concessão abranger vários concelhos, a arrematação realizar-se-á na repartição de finanças onde existir a maior parte do couto mineiro.
 
-###### Art. 217.º Nas execuções por dívidas até 3000$00 não se publicarão anúncios para a praça.
+Art. 217.º Nas execuções por dívidas até 3000$00 não se publicarão anúncios para a praça.
 
-###### Art. 218.º Quando haja suspeita de conluio entre os concorrentes à hasta pública, o juiz adiará a arrematação, no todo ou em parte, oficiosamente ou a requerimento do representante do Ministério Público, consignando-se na acta o motivo do adiamento.
+Art. 218.º Quando haja suspeita de conluio entre os concorrentes à hasta pública, o juiz adiará a arrematação, no todo ou em parte, oficiosamente ou a requerimento do representante do Ministério Público, consignando-se na acta o motivo do adiamento.
 
 § único. Verificando-se em nova praça as circunstâncias que justificaram o adiamento, deverá repetir-se a praça ou optar-se pela venda por negociação particular. No primeiro caso, se persistirem as mencionadas circunstâncias, também se fará a venda por negociação particular.
 
-###### Art. 219.º A arrematação obedecerá ainda aos seguintes requisitos:
+Art. 219.º A arrematação obedecerá ainda aos seguintes requisitos:
 
 a) Não podem arrematar, por si ou por interposta pessoa, os magistrados e os funcionários do tribunal ou da repartição de finanças onde a execução tiver sido instaurada ou onde se realizar a arrematação;
 
@@ -1446,23 +1523,23 @@ g) O arrematante, ainda que demonstre a sua qualidade de credor, nunca será dis
 
 h) O Estado e a Caixa Geral de Depósitos não estão sujeitos à obrigação do depósito do preço nem à de pagar as despesas da praça.
 
-###### Art. 220.º Na arrematação de imóveis, deverá o representante do Ministério Público licitar, por parte da Fazenda Nacional, até à importância da dívida exequenda e do acrescido, salvo se o valor real do prédio for inferior ao total das dívidas, caso em que a licitação não deverá exceder dois terços desse valor.
+Art. 220.º Na arrematação de imóveis, deverá o representante do Ministério Público licitar, por parte da Fazenda Nacional, até à importância da dívida exequenda e do acrescido, salvo se o valor real do prédio for inferior ao total das dívidas, caso em que a licitação não deverá exceder dois terços desse valor.
 
 § único. Se o prédio estiver onerado com encargos mais privilegiados do que as dívidas à Fazenda Nacional, o representante do Ministério Público solicitará autorização para licitar à Direcção-Geral das Contribuições e Impostos que só a concederá se o montante daqueles encargos for inferior a dois terços do valor real do prédio.
 
 A importância dos encargos será satisfeita por operação de tesouraria a saldar logo que se realize a revenda do prédio, salvo se por despacho ministerial for resolvido satisfazê-los por outra forma.
 
-###### Art. 221.º Efectuada a arrematação por parte da Fazenda Nacional, o representante do Ministério Público, obtido o título de arrematação, promoverá o registo na conservatória e, se não for o director de finanças do distrito, enviará todos os documentos, pelo seguro do correio, à direcção de finanças.
+Art. 221.º Efectuada a arrematação por parte da Fazenda Nacional, o representante do Ministério Público, obtido o título de arrematação, promoverá o registo na conservatória e, se não for o director de finanças do distrito, enviará todos os documentos, pelo seguro do correio, à direcção de finanças.
 
 § único. O director de finanças comunicará a aquisição do prédio à Direcção-Geral da Fazenda Pública, a fim de se proceder à revenda.
 
-###### Art. 222.º Cabe ao chefe da repartição de finanças solicitar ao agente do Ministério Público junto do competente tribunal comum que requeira a posse judicial do prédio arrematado para a Fazenda Nacional, quando for caso disso e se mostre inadequada a intervenção da autoridade administrativa ou policial.
+Art. 222.º Cabe ao chefe da repartição de finanças solicitar ao agente do Ministério Público junto do competente tribunal comum que requeira a posse judicial do prédio arrematado para a Fazenda Nacional, quando for caso disso e se mostre inadequada a intervenção da autoridade administrativa ou policial.
 
-###### Art. 223.º Logo que o prédio entre na posse da Fazenda Nacional, proceder-se-á à anulação da dívida exequenda, pela importância da licitação. Se, porém, a arrematação tiver sido por valor inferior ao total da dívida e o valor real do prédio, na parte excedente ao montante dos encargos, for superior ao da licitação, será anulada a dívida na parte correspondente ao valor real do prédio.
+Art. 223.º Logo que o prédio entre na posse da Fazenda Nacional, proceder-se-á à anulação da dívida exequenda, pela importância da licitação. Se, porém, a arrematação tiver sido por valor inferior ao total da dívida e o valor real do prédio, na parte excedente ao montante dos encargos, for superior ao da licitação, será anulada a dívida na parte correspondente ao valor real do prédio.
 
-###### Art. 224.º Na arrematarão de mobiliários, incluindo o direito a quantias ou valores líquidos e certos, o representante do Ministério Público, com prévia autorização da Direcção-Geral das Contribuições e Impostos, poderá licitar para a Fazenda Nacional, observando-se na parte aplicável o disposto quanto aos imóveis.
+Art. 224.º Na arrematarão de mobiliários, incluindo o direito a quantias ou valores líquidos e certos, o representante do Ministério Público, com prévia autorização da Direcção-Geral das Contribuições e Impostos, poderá licitar para a Fazenda Nacional, observando-se na parte aplicável o disposto quanto aos imóveis.
 
-###### Art. 225.º A anulação da venda só poderá ser requerida dentro dos prazos seguintes:
+Art. 225.º A anulação da venda só poderá ser requerida dentro dos prazos seguintes:
 
 a) De um ano, no caso de a anulação se fundar na existência de algum ónus real que não tenha sido tomado em consideração e não haja caducado, ou em erro sobre o objecto transmitido ou sobre as suas qualidades por falta de conformidade com o que foi anunciado;
 
@@ -1472,7 +1549,7 @@ b) De 30 dias, nos restantes casos previstas na lei de processo civil.
 
 #### SECÇÃO VI — Da convocação dos credores e da verificação dos créditos
 
-###### Art. 226.º Efectuada a venda dos bens ou a penhora de dinheiro, tem lugar a convocação dos credores que gozem de garantia real sobre os bens penhorados, em harmonia com as regras seguintes:
+Art. 226.º Efectuada a venda dos bens ou a penhora de dinheiro, tem lugar a convocação dos credores que gozem de garantia real sobre os bens penhorados, em harmonia com as regras seguintes:
 
 a) Os créditos devem ser reclamados no prazo de dez dias, a contar da arrematação;
 
@@ -1484,41 +1561,41 @@ d) O crédito do exequente não carece de ser reclamado.
 
 § único. No caso da alínea b), se o produto da venda dos bens ou a quantia penhorada for manifestamente insuficiente para solver o crédito da Fazenda Nacional e este tiver, sobre esses bens, privilégio especial, o juiz do tribunal de 1.ª instância poderá dispensar a convocação dos credores, devendo remeter-se-lhe o processo para este efeito, se correr na repartição de finanças.
 
-###### Art. 227.º Nos casos de venda de bens ou de penhora de dinheiro, serão citados o chefe da repartição de finanças do concelho ou bairro do domicílio da pessoa a quem foram penhorados os bens e os de todos os concelhos ou bairros onde forem situados os imobiliários ou o estabelecimento comercial ou industrial, quando neles não corra o processo, para, no prazo de dez dias, apresentarem certidão das dívidas que devam ser reclamadas.
+Art. 227.º Nos casos de venda de bens ou de penhora de dinheiro, serão citados o chefe da repartição de finanças do concelho ou bairro do domicílio da pessoa a quem foram penhorados os bens e os de todos os concelhos ou bairros onde forem situados os imobiliários ou o estabelecimento comercial ou industrial, quando neles não corra o processo, para, no prazo de dez dias, apresentarem certidão das dívidas que devam ser reclamadas.
 
 Se a certidão tiver de ser passada pelo chefe da repartição de finanças onde correr o processo, será junta a este, sem mais formalidades e no prazo de dez dias, a contar da venda ou da penhora, notificando-se o representante do Ministério Público.
 
 § único. Às certidões a que se refere este artigo é aplicável o disposto no § único do artigo 32.º
 
-###### Art. 228.º O representante do Ministério Público deverá reclamar os créditos no prazo de dez dias, a contar da data do registo de entrada da última certidão recebida.
+Art. 228.º O representante do Ministério Público deverá reclamar os créditos no prazo de dez dias, a contar da data do registo de entrada da última certidão recebida.
 
-###### Art. 229.º Para a citação dos credores no caso da alínea b) do artigo 226.º, afixar-se-á um só edital na porta do tribunal ou da repartição de finanças onde correr a execução.
+Art. 229.º Para a citação dos credores no caso da alínea b) do artigo 226.º, afixar-se-á um só edital na porta do tribunal ou da repartição de finanças onde correr a execução.
 
 § 1.º Os anúncios serão publicados em dois números seguidos de um dos jornais mais lidos do concelho onde correr a execução ou, se aí não houver jornal, num dos jornais mais lidos nesse concelho.
 
 § 2.º Se o produto da venda ou a quantia penhorada for inferior a 10000$00 publicar-se-á um único anúncio e se for inferior a 3000$00 não haverá anúncio algum.
 
-###### Art. 230.º Na reclamação de créditos observar-se-ão as disposições da lei de processo civil, mas só é admissível prova documental.
+Art. 230.º Na reclamação de créditos observar-se-ão as disposições da lei de processo civil, mas só é admissível prova documental.
 
 § único. Findos os prazos para as reclamações e havendo-as, se o processo correr na repartição de finanças será remetido ao tribunal de 1.ª instância para os ulteriores termos da verificação e graduação de créditos.
 
-###### Art. 231.º Quando a venda dos bens se tiver realizado por carta precatória, será esta devolvida ao juízo deprecante, depois de contada e de estarem juntas as certidões das dívidas à Fazenda Nacional.
+Art. 231.º Quando a venda dos bens se tiver realizado por carta precatória, será esta devolvida ao juízo deprecante, depois de contada e de estarem juntas as certidões das dívidas à Fazenda Nacional.
 
 § único. As reclamações de créditos podem ser deduzidas na repartição de finanças deprecada ou perante o juízo deprecante e, neste caso, o prazo será contado da data da junção da carta precatória ao processo.
 
-###### Art. 232.º O cancelamento dos registos a que se refere o artigo 907.º do Código de Processo Civil será ordenado na sentença que verificar e graduar os créditos, salvo se antes for requerido pelo adquirente dos bens. Neste último caso e estando o processo a correr termos na repartição de finanças, o cancelamento poderá ser ordenado pelo respectivo chefe.
+Art. 232.º O cancelamento dos registos a que se refere o artigo 907.º do Código de Processo Civil será ordenado na sentença que verificar e graduar os créditos, salvo se antes for requerido pelo adquirente dos bens. Neste último caso e estando o processo a correr termos na repartição de finanças, o cancelamento poderá ser ordenado pelo respectivo chefe.
 
-###### Art. 233.º Os processos que tiverem subido ao tribunal de 1.ª instância para a verificação e graduação de créditos serão devolvidos à repartição de finanças findo o prazo para se reclamar da liquidação feita em cumprimento da sentença que tiver graduado os créditos ou decidido as reclamações, havendo-as.
+Art. 233.º Os processos que tiverem subido ao tribunal de 1.ª instância para a verificação e graduação de créditos serão devolvidos à repartição de finanças findo o prazo para se reclamar da liquidação feita em cumprimento da sentença que tiver graduado os créditos ou decidido as reclamações, havendo-as.
 
 #### SECÇÃO VII — Da extinção da execução
 
 ##### SUBSECÇÃO I — Da extinção por pagamento coercivo
 
-###### Art. 234.º Se a penhora for de dinheiro nos termos do artigo 199.º, o levantamento da quantia necessária para o pagamento da dívida exequenda e do acrescido será feito por via de mandado passado a favor do competente tesoureiro da Fazenda Pública.
+Art. 234.º Se a penhora for de dinheiro nos termos do artigo 199.º, o levantamento da quantia necessária para o pagamento da dívida exequenda e do acrescido será feito por via de mandado passado a favor do competente tesoureiro da Fazenda Pública.
 
 Tratando-se de depósito obrigatório na Caixa Geral de Depósitos, solicitar-se-á à autoridade que sobre ele tenha jurisdição, a passagem de precatório-cheque a favor do tesoureiro.
 
-###### Art. 235.º Se em virtude da penhora ou da venda forem arrecadadas importâncias suficientes para solver a execução, será esta julgada extinta depois de feitos os pagamentos.
+Art. 235.º Se em virtude da penhora ou da venda forem arrecadadas importâncias suficientes para solver a execução, será esta julgada extinta depois de feitos os pagamentos.
 
 A sentença, se for caso disso, ordenará o levantamento da penhora e o cancelamento dos registos a que se refere o artigo 907.º do Código de Processo Civil.
 
@@ -1526,7 +1603,7 @@ A sentença, se for caso disso, ordenará o levantamento da penhora e o cancelam
 
 § 2.º Se o processo correr na repartição de finanças, será remetido ao tribunal de 1.ª instância para cumprimento do disposto neste artigo.
 
-###### Art. 236.º Quando, em virtude de penhora ou de venda, forem arrecadadas importâncias insuficientes para solver a dívida exequenda e o acrescido, serão aplicadas, em primeiro lugar, na amortização daquela dívida, seguindo-se os selos, os juros de mora e as custas.
+Art. 236.º Quando, em virtude de penhora ou de venda, forem arrecadadas importâncias insuficientes para solver a dívida exequenda e o acrescido, serão aplicadas, em primeiro lugar, na amortização daquela dívida, seguindo-se os selos, os juros de mora e as custas.
 
 Porém, se a execução não for por contribuições, impostos ou outros rendimentos em dívida à Fazenda Nacional, pagar-se-ão, sucessivamente, os selos do processo, as custas, a dívida exequenda e os juros de mora.
 
@@ -1544,17 +1621,17 @@ Este talão servirá para documentar a relação de cobrança.
 
 § 4.º Os juros de mora são devidos, relativamente à parte que for paga, até ao mês inclusive em que se tiver concluído a venda dos bens ou, se a penhora for de dinheiro, até ao mês em que esta se efectuou.
 
-###### Art. 237.º O pagamento coercivo será sempre feito mediante guia de modelo a aprovar pelo Ministro das Finanças, passada pelo escrivão.
+Art. 237.º O pagamento coercivo será sempre feito mediante guia de modelo a aprovar pelo Ministro das Finanças, passada pelo escrivão.
 
 ##### SUBSECÇÃO II — Da extinção por pagamento voluntário
 
-###### Art. 238.º A execução extinguir-se-á no estado em que se encontrar se o executado, ou outra pessoa por ele, pagar a dívida exequenda e o acrescido, salvo o que, na parte aplicável, se dispõe no § único do artigo 26.º
+Art. 238.º A execução extinguir-se-á no estado em que se encontrar se o executado, ou outra pessoa por ele, pagar a dívida exequenda e o acrescido, salvo o que, na parte aplicável, se dispõe no § único do artigo 26.º
 
 § único. Sem prejuízo do andamento do processo, pode efectuar-se qualquer pagamento por conta do débito, desde que a entrega não seja inferior a 100$00.
 
 Neste caso observar-se-á o disposto no artigo 236.º e seus §§ 1.º a 3.º
 
-###### Art. 239.º O pagamento poderá ser requerido verbalmente e efectuar-se-á no mesmo dia, por meio de guia de modelo a aprovar pelo Ministro das Finanças, passada pelo escrivão.
+Art. 239.º O pagamento poderá ser requerido verbalmente e efectuar-se-á no mesmo dia, por meio de guia de modelo a aprovar pelo Ministro das Finanças, passada pelo escrivão.
 
 Além do exemplar da guia que deve ficar na tesouraria, juntar-se-á outro ao processo e, sendo necessário, processar-se-á um terceiro exemplar para ser entregue, como recibo, ao interessado.
 
@@ -1562,17 +1639,17 @@ Além do exemplar da guia que deve ficar na tesouraria, juntar-se-á outro ao pr
 
 § 2.º Se o pagamento for requerido depois da arrematação, a guia só será passada depois de decorridos os termos da verificação e graduação de créditos. Neste caso será oportunamente notificado o requerente para pagar no prazo de 48 horas.
 
-###### Art. 240.º Se o pagamento for solicitado no acto da praça, o juiz da execução, por despacho, suspendê-la-á e ordenará que o requerente deposite em mão do escrivão, mediante recibo, a importância reputada necessária para solver a dívida exequenda e o acrescido, sob pena de prosseguir a arrematação.
+Art. 240.º Se o pagamento for solicitado no acto da praça, o juiz da execução, por despacho, suspendê-la-á e ordenará que o requerente deposite em mão do escrivão, mediante recibo, a importância reputada necessária para solver a dívida exequenda e o acrescido, sob pena de prosseguir a arrematação.
 
 § 1.º Feito o depósito, o escrivão, dentro de 24 horas, contará o processo e entregará na tesouraria, mediante guia passada em seu nome, a importância necessária ao pagamento da execução.
 
 § 2.º Quando a importância depositada no acto da praça for inferior à contada, notificar-se-á logo o requerente para, no prazo de 48 horas, entrar com a diferença, sob pena de prosseguir a execução. Havendo sobras, será notificado o requerente para, no mesmo prazo, as receber e, se o não fizer, depositar-se-ão na Caixa Geral de Depósito à ordem do juiz.
 
-###### Art. 241.º Quando tiver sido expedida carta precatória, o pagamento poderá ser feito na repartição de finanças deprecada ou no juízo deprecante.
+Art. 241.º Quando tiver sido expedida carta precatória, o pagamento poderá ser feito na repartição de finanças deprecada ou no juízo deprecante.
 
-###### Art. 242.º Se o pagamento for requerido perante o juízo deprecante, o juiz mandará depositar à sua ordem, na Caixa Geral de Depósitos, a quantia que repute suficiente para o pagamento da dívida e do acrescido. Logo que se efectue o depósito, solicitar-se-á a devolução da carta precatória no estado em que se encontrar e, recebida esta, observar-se-á, com as necessárias adaptações, o disposto no artigo 240.º
+Art. 242.º Se o pagamento for requerido perante o juízo deprecante, o juiz mandará depositar à sua ordem, na Caixa Geral de Depósitos, a quantia que repute suficiente para o pagamento da dívida e do acrescido. Logo que se efectue o depósito, solicitar-se-á a devolução da carta precatória no estado em que se encontrar e, recebida esta, observar-se-á, com as necessárias adaptações, o disposto no artigo 240.º
 
-###### Art. 243.º Se o pagamento tiver sido requerido na repartição de finanças deprecada, observar-se-á o seguinte:
+Art. 243.º Se o pagamento tiver sido requerido na repartição de finanças deprecada, observar-se-á o seguinte:
 
 a) Na guia discriminar-se-á a importância que couber ao tribunal de 1.ª instância e ao juízo deprecante e, realizado o pagamento, devolver-se-á a carta precatória;
 
@@ -1588,21 +1665,21 @@ f) No caso de penhora com trato sucessivo, só depois do pagamento integral do d
 
 g) No caso de pagamento por conta, as quantias que couberem ao tribunal de 1.ª instância e ao juízo deprecante só serão transferidas depois de cumprida a carta.
 
-###### Art. 244.º Efectuado o pagamento voluntário da execução, cumprir-se-á o disposto no § 2.º do artigo 235.º
+Art. 244.º Efectuado o pagamento voluntário da execução, cumprir-se-á o disposto no § 2.º do artigo 235.º
 
 ##### SUBSECÇÃO III — Da anulação da dívida
 
-###### Art. 245.º O juiz de 1.ª instância julgará extinta a execução, oficiosamente, quando se verifique a anulação da dívida exequenda.
+Art. 245.º O juiz de 1.ª instância julgará extinta a execução, oficiosamente, quando se verifique a anulação da dívida exequenda.
 
 Quando a anulação tiver de efectivar-se por meio de título de anulação, o julgamento só se fará depois de passado esse título.
 
 § único. Se o processo correr termos na repartição de finanças, será remetido, depois de devidamente informado, ao tribunal de 1.ª instância para cumprimento do disposto neste artigo.
 
-###### Art. 246.º Extinta a execução por anulação da dívida, ordenar-se-á o levantamento da penhora e o cancelamento do seu registo, quando o houver.
+Art. 246.º Extinta a execução por anulação da dívida, ordenar-se-á o levantamento da penhora e o cancelamento do seu registo, quando o houver.
 
 ##### SUBSECÇÃO IV — Julgamento em falhas
 
-###### Art. 247.º O juiz de 1.ª instância julgará em falhas a dívida exequenda quando, em face de auto de diligência, se verifique um dos seguintes casos:
+Art. 247.º O juiz de 1.ª instância julgará em falhas a dívida exequenda quando, em face de auto de diligência, se verifique um dos seguintes casos:
 
 a) Demonstrar-se a falta de bens penhoráveis do executado, seus sucessores e responsáveis solidários ou subsidiários;
 
@@ -1612,39 +1689,39 @@ c) Encontrar-se ausente em parte incerta o devedor do crédito penhorado e não 
 
 d) Verificar-se a situação prevista no artigo 174.º
 
-###### Art. 248.º Se o processo correr na repartição de finanças, será remetido ao tribunal de 1.ª instância depois de ouvido o serviço de prevenção e fiscalização tributária e de colhidas outras informações que forem reputadas úteis.
+Art. 248.º Se o processo correr na repartição de finanças, será remetido ao tribunal de 1.ª instância depois de ouvido o serviço de prevenção e fiscalização tributária e de colhidas outras informações que forem reputadas úteis.
 
-###### Art. 249.º No tribunal de 1.ª instância será dada vista ao representante do Ministério Público para promover o que entender conveniente.
+Art. 249.º No tribunal de 1.ª instância será dada vista ao representante do Ministério Público para promover o que entender conveniente.
 
 Realizadas as diligências que o juiz ordenar, proceder-se-á ao julgamento.
 
-###### Art. 250.º Até o dia 10 de cada mês, o chefe da repartição de finanças efectuará a anulação dos conhecimentos respeitantes às dívidas julgadas em falhas no mês anterior, carimbando-os com os dizeres «julgado em falhas» e remetendo-os, com a competente relação, ao director de finanças, para o efeito de confirmação.
+Art. 250.º Até o dia 10 de cada mês, o chefe da repartição de finanças efectuará a anulação dos conhecimentos respeitantes às dívidas julgadas em falhas no mês anterior, carimbando-os com os dizeres «julgado em falhas» e remetendo-os, com a competente relação, ao director de finanças, para o efeito de confirmação.
 
 § 1.º Se a dívida for de imposto de capitais, secção A, promover-se-á também que a competente repartição de finanças averbe o julgamento em falhas no respectivo manifesto com a nota de não produzir mais colecta. De forma semelhante se procederá quando a dívida provier de foros.
 
 § 2.º Se o fundamento do julgamento em falhas for o do artigo 247.º, alínea b), o chefe da repartição de finanças eliminará na matriz o artigo referente ao prédio desconhecido.
 
-###### Art. 251.º A execução por dívida julgada em falhas deverá prosseguir, sem necessidade de nova citação e a todo o tempo, salvo prescrição, logo que haja conhecimento de que o executado, seus sucessores ou outros responsáveis possuem bens penhoráveis, ou, no caso previsto na alínea b) do artigo 247.º, logo que se identifique o executado ou o prédio.
+Art. 251.º A execução por dívida julgada em falhas deverá prosseguir, sem necessidade de nova citação e a todo o tempo, salvo prescrição, logo que haja conhecimento de que o executado, seus sucessores ou outros responsáveis possuem bens penhoráveis, ou, no caso previsto na alínea b) do artigo 247.º, logo que se identifique o executado ou o prédio.
 
 § único. O juiz da execução ordenará o prosseguimento oficiosamente ou a requerimento do Ministério Público.
 
-###### Art. 252.º Quando houver de efectuar-se a cobrança de dívida julgada em falhas cujo conhecimento tenha sido anulado, deverá o chefe da repartição de finanças, em face dos respectivos elementos de receita, extrair novo conhecimento que debitará ao tesoureiro. Inscrever-se-á na matriz o prédio cuja identificação se tornou possível.
+Art. 252.º Quando houver de efectuar-se a cobrança de dívida julgada em falhas cujo conhecimento tenha sido anulado, deverá o chefe da repartição de finanças, em face dos respectivos elementos de receita, extrair novo conhecimento que debitará ao tesoureiro. Inscrever-se-á na matriz o prédio cuja identificação se tornou possível.
 
 § único. O conhecimento será extraído pelo seu montante inicial e nele serão averbados os pagamentos que tiverem sido feitos por conta.
 
 ## TÍTULO VI — Do processo especial
 
-###### Art. 253.º As formas de processo reguladas nos títulos anteriores só deverão empregar-se quando não contrariem processo especial prescrito na lei.
+Art. 253.º As formas de processo reguladas nos títulos anteriores só deverão empregar-se quando não contrariem processo especial prescrito na lei.
 
 ## TÍTULO VII — Dos recursos
 
-###### Art. 254.º Das decisões do tribunal de 1.ª instância cabe recurso para o tribunal de 2.ª instância e das deste para o Supremo Tribunal Administrativo, nos termos da respectiva lei orgânica.
+Art. 254.º Das decisões do tribunal de 1.ª instância cabe recurso para o tribunal de 2.ª instância e das deste para o Supremo Tribunal Administrativo, nos termos da respectiva lei orgânica.
 
 § 1.º Dos despachos proferidos pelo chefe da repartição de finanças nos processos judiciais pode reclamar-se para o juiz de 1.ª instância, sendo a decisão deste recorrível nos termos gerais.
 
 § 2.º O juiz só conhecerá das reclamações quando, depois de realizadas todas as diligências, o processo for remetido ao tribunal.
 
-###### Art. 255.º As alçadas dos tribunais das contribuições e impostos são as seguintes:
+Art. 255.º As alçadas dos tribunais das contribuições e impostos são as seguintes:
 
 a) Do tribunal de 1.ª instância, 3000$00;
 
@@ -1652,17 +1729,17 @@ b) Do tribunal de 2.ª instância, 10000$00.
 
 § único. No processo de transgressão, o tribunal de 1.ª instância não tem alçada e a do tribunal de 2.ª instância, determinada em função da multa aplicável, será de 5000$00. Se, porém, no processo se decidir, exclusivamente, uma questão de responsabilidade por imposto, a alçada regular-se-á pelo que se prescreve no corpo deste artigo.
 
-###### Art. 256.º Será obrigatório, e subirá independentemente de requerimento, o recurso das decisões contrárias à posição assumida pelo representante do Ministério Público, desde que o valor da causa exceda o da alçada do tribunal.
+Art. 256.º Será obrigatório, e subirá independentemente de requerimento, o recurso das decisões contrárias à posição assumida pelo representante do Ministério Público, desde que o valor da causa exceda o da alçada do tribunal.
 
 § único. No progresso de transgressão, o recurso obrigatório para a 2.ª instância terá lugar quando a multa aplicável exceda 2000$00.
 
-###### Art. 257.º Os recursos serão interpostos, processados e julgados como os agravos em processo civil, salvo as disposições em contrário deste código e da lei orgânica do tribunal para que se recorrer.
+Art. 257.º Os recursos serão interpostos, processados e julgados como os agravos em processo civil, salvo as disposições em contrário deste código e da lei orgânica do tribunal para que se recorrer.
 
 § único. A decisão transitada em julgado pode ser objecto de revisão, a qual se regulará especialmente pelo disposto nos artigos 100.º e seguintes do [Decreto n.º 41234](https://diariodarepublica.pt/dr/detalhe/decreto/41234-1957-280710), de 20 de Agosto de 1957, com as necessárias adaptações.
 
-###### Art. 258.º No recurso interposto de sentença, o juiz de 1.ª instância pode responder, esclarecendo os fundamentos da sua decisão, sendo-lhe, porém, vedado alterá-la.
+Art. 258.º No recurso interposto de sentença, o juiz de 1.ª instância pode responder, esclarecendo os fundamentos da sua decisão, sendo-lhe, porém, vedado alterá-la.
 
-###### Art. 259.º A interposição do recurso faz-se por meio de requerimento em que se declare a intenção de recorrer e em que se aleguem os respectivos fundamentos.
+Art. 259.º A interposição do recurso faz-se por meio de requerimento em que se declare a intenção de recorrer e em que se aleguem os respectivos fundamentos.
 
 § 1.º O despacho que admitir o recurso será notificado à parte contrária, não sendo revel, para alegar nos oito dias seguintes ao da notificação.
 
@@ -1670,42 +1747,42 @@ b) Do tribunal de 2.ª instância, 10000$00.
 
 § 3.º O disposto neste artigo não prejudica o preceituado na lei respectiva quanto ao recurso para o Supremo Tribunal Administrativo.
 
-###### Art. 260.º No caso de recurso obrigatório observar-se-á o seguinte:
+Art. 260.º No caso de recurso obrigatório observar-se-á o seguinte:
 
 a) Se o representante do Ministério Público quiser alegar, deverá fazê-lo no prazo para o recurso voluntário;
 
 b) Se o representante do Ministério Público não alegar, a parte contrária poderá fazê-lo nos oito dias seguintes ao termo daquele prazo, mas, sendo o recurso para o Supremo Tribunal Administrativo e pretendendo alegar nesse Tribunal, bastará que o declare no mesmo prazo.
 
-###### Art. 261.º Seguidamente o processo subirá ao tribunal superior, mediante simples despacho do juiz ou do presidente do tribunal recorrido.
+Art. 261.º Seguidamente o processo subirá ao tribunal superior, mediante simples despacho do juiz ou do presidente do tribunal recorrido.
 
-###### Art. 262.º O recurso só poderá ter efeito suspensivo nos termos do artigo 160.º
+Art. 262.º O recurso só poderá ter efeito suspensivo nos termos do artigo 160.º
 
 Se o processo for de transgressão, o recurso só terá seguimento se o arguido prestar caução por qualquer das formas indicadas no § 1.º daquele artigo.
 
 § único. Tem efeito suspensivo o recurso da sentença de graduação de créditos.
 
-###### Art. 263.º Os despachos proferidos no processo de impugnação só poderão ser impugnados no recurso interposto da decisão final.
+Art. 263.º Os despachos proferidos no processo de impugnação só poderão ser impugnados no recurso interposto da decisão final.
 
-###### Art. 264.º O regime dos recursos no processo de transgressão será o seguinte:
+Art. 264.º O regime dos recursos no processo de transgressão será o seguinte:
 
 a) Tratando-se de processo ordinário, só no recurso do despacho que receber ou rejeitar a acusação poderão ser impugnados os despachos proferidos anteriormente; os despachos posteriores só poderão ser impugnados no recurso da decisão final;
 
 b) Tratando-se de processo sumário, os despachos nele proferidos só poderão ser impugnados no recurso da decisão final.
 
-###### Art. 265.º Salvo o disposto neste código, aos recursos em execução fiscal aplicar-se-á, com as necessárias acomodações, o regime previsto na lei de processo civil para os recursos em processo de execução.
+Art. 265.º Salvo o disposto neste código, aos recursos em execução fiscal aplicar-se-á, com as necessárias acomodações, o regime previsto na lei de processo civil para os recursos em processo de execução.
 
-###### Art. 266.º Antes de expedido para o tribunal superior, o recurso será contado, mas o recorrente só será notificado da conta se, julgado definitivamente o recurso, houver lugar ao pagamento de custas.
+Art. 266.º Antes de expedido para o tribunal superior, o recurso será contado, mas o recorrente só será notificado da conta se, julgado definitivamente o recurso, houver lugar ao pagamento de custas.
 
-###### Art. 267.º Recebido o processo no tribunal de 2.ª instância, proceder-se-á à sua distribuição dentro de cinco dias, por todos os juízes, incluindo o presidente. A distribuição será feita por este e pelo chefe da secretaria, podendo assistir os outros membros do tribunal.
+Art. 267.º Recebido o processo no tribunal de 2.ª instância, proceder-se-á à sua distribuição dentro de cinco dias, por todos os juízes, incluindo o presidente. A distribuição será feita por este e pelo chefe da secretaria, podendo assistir os outros membros do tribunal.
 
-###### Art. 268.º Feita a distribuição, serão os autos conclusos ao relator que poderá ordenar se proceda a qualquer diligência ou se colha informação do tribunal recorrido ou de alguma autoridade.
+Art. 268.º Feita a distribuição, serão os autos conclusos ao relator que poderá ordenar se proceda a qualquer diligência ou se colha informação do tribunal recorrido ou de alguma autoridade.
 
 O relator, se for caso disso, deverá também conhecer de qualquer questão prévia, observando-se para este efeito, com as necessárias adaptações, o disposto no artigo 42.º do [Decreto n.º 41234](https://diariodarepublica.pt/dr/detalhe/decreto/41234-1957-280710), de 20 de Agosto de 1957.
 
-###### Art. 269.º Satisfeito o disposto no artigo anterior, irá o processo com vista ao representante do Ministério Público por dez dias e seguidamente a cada um dos dois adjuntos por cinco dias e ao relator por dez dias.
+Art. 269.º Satisfeito o disposto no artigo anterior, irá o processo com vista ao representante do Ministério Público por dez dias e seguidamente a cada um dos dois adjuntos por cinco dias e ao relator por dez dias.
 
-###### Art. 270.º Lançado o visto do relator, o presidente, no prazo de cinco dias, designará a sessão em que há-de ser julgado o processo, não podendo exceder a segunda sessão imediata.
+Art. 270.º Lançado o visto do relator, o presidente, no prazo de cinco dias, designará a sessão em que há-de ser julgado o processo, não podendo exceder a segunda sessão imediata.
 
-###### Art. 271.º O julgamento dos processos far-se-á pela ordem da respectiva entrada na secretaria, mas o presidente, oficiosamente ou a requerimento das partes, poderá dar prioridade a qualquer processo havendo justo motivo.
+Art. 271.º O julgamento dos processos far-se-á pela ordem da respectiva entrada na secretaria, mas o presidente, oficiosamente ou a requerimento das partes, poderá dar prioridade a qualquer processo havendo justo motivo.
 
 Ministério das Finanças, 27 de Abril de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.

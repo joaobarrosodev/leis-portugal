@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/04/08300/06970698.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1976-502814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:51:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adab0a0353789500ecab7ed94c7a24af79ba11484234f5fe17127fb260e83343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45e2a9c0b6407b09cef7db186315d0f6cb21bb1a75a435afa683946bd017f643
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa Agrícola
+- Direito de Reserva
+- Expropriação
+- Nacionalização
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:278704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278704:por
+  label: "Revogado, sem prejuízo do disposto nos arts. 60.º a 70.º, pela LEI.77/77.1977.09.29.PCM DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/77-1977-278704
+  date: '1977-09-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:51:33Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +117,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 4.º e 8.º, n.º 3, do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 3.º, 4.º e 8.º, n.º 3, do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. São nacionalizados os prédios rústicos beneficiados, no todo ou em parte, pelos aproveitamentos hidroagrícolas do Caia, Campilhas, S. Domingos e Alto Sado, Divor, Loures, Idanha, Mira, Odivelas, Roxo, vale do Sado e vale do Sorraia, pertencentes a pessoas singulares, sociedades ou pessoas colectivas de direito privado, incluindo as de utilidade pública, que sejam proprietárias, no conjunto dos perímetros daqueles aproveitamentos, de uma área beneficiada superior a 30 ha, e que, mediante aplicação da tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, se verifique corresponder a mais de 50000 pontos.
+Artigo 1.º - 1. São nacionalizados os prédios rústicos beneficiados, no todo ou em parte, pelos aproveitamentos hidroagrícolas do Caia, Campilhas, S. Domingos e Alto Sado, Divor, Loures, Idanha, Mira, Odivelas, Roxo, vale do Sado e vale do Sorraia, pertencentes a pessoas singulares, sociedades ou pessoas colectivas de direito privado, incluindo as de utilidade pública, que sejam proprietárias, no conjunto dos perímetros daqueles aproveitamentos, de uma área beneficiada superior a 30 ha, e que, mediante aplicação da tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, se verifique corresponder a mais de 50000 pontos.
 
 2. Para o cálculo da pontuação referida no n.º 1, não serão tidos em conta quaisquer melhoramentos introduzidos na forma de aproveitamentos dos prédios após 30 de Julho de 1975.
 
@@ -110,7 +129,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 3.º - 1. É garantido aos proprietários atingidos pelas medidas de nacionalização decretadas no artigo 1.º o direito de reservar, na zona nacionalizada, a propriedade de uma área de terra, a demarcar em função do ordenamento global de exploração a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, mas nunca inferior a 30 ha, independentemente da pontuação, desde que aqueles não mantenham terras incultas ou não alcancem os níveis mínimos de aproveitamento a estabelecer por decreto proposto pelo Ministro da Agricultura e Pescas.
+Art. 3.º - 1. É garantido aos proprietários atingidos pelas medidas de nacionalização decretadas no artigo 1.º o direito de reservar, na zona nacionalizada, a propriedade de uma área de terra, a demarcar em função do ordenamento global de exploração a estabelecer, até ao limite equivalente a 50000 pontos, de harmonia com a tabela anexa ao [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, mas nunca inferior a 30 ha, independentemente da pontuação, desde que aqueles não mantenham terras incultas ou não alcancem os níveis mínimos de aproveitamento a estabelecer por decreto proposto pelo Ministro da Agricultura e Pescas.
 
 2. O desaparecimento superveniente dos requisitos exigidos no número anterior sujeitará a expropriação a área reservada.
 
@@ -124,7 +143,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 7. É, contudo, proibida, sob pena de nulidade, a divisão do prédio rústico reservado.
 
-###### Art. 4.º - 1. Os centros regionais de reforma agrária devem notificar, para os efeitos do artigo anterior, por carta registada, com aviso de recepção, os proprietários expropriados ou quem os represente, de que podem exercer o direito de reserva.
+Art. 4.º - 1. Os centros regionais de reforma agrária devem notificar, para os efeitos do artigo anterior, por carta registada, com aviso de recepção, os proprietários expropriados ou quem os represente, de que podem exercer o direito de reserva.
 
 2. Não obstante o disposto no número anterior, mas para os mesmos efeitos e obedecendo ao mesmo condicionalismo, devem os centros regionais de reforma agrária fazer afixar editais na sede da associação de regantes e beneficiários do aproveitamento hidroagrícola de que beneficiem os prédios nacionalizados.
 
@@ -134,22 +153,22 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 2. ...
 
 3. As práticas, por acção ou omissão, dolosas ou simplesmente negligentes de proprietários, arrendatários e outros empresários agrícolas que afectem o bom aproveitamento da terra, infra-estruturas e equipamentos, ou conduzam à perda, diminuição ou destruição da produção, para além de outras sanções que por lei sejam aplicáveis e da consequência prevista através do n.º 1 do artigo 3.º, importarão, segundo a gravidade, redução ou eliminação da indemnização a que houver lugar, em termos a definir no diploma que regular a fixação e modo de pagamento das indemnizações.
 
-###### Art. 2.º - 1. Os centros regionais de reforma agrária deverão, no prazo de trinta dias, a contar da data de publicação do presente decreto-lei, dar execução ao estabelecido nos n.os 1 e 2 do artigo 4.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, na sua nova redacção, quanto a expropriações já realizadas, independentemente de ter ocorrido anterior notificação ou afixação de editais.
+Art. 2.º - 1. Os centros regionais de reforma agrária deverão, no prazo de trinta dias, a contar da data de publicação do presente decreto-lei, dar execução ao estabelecido nos n.os 1 e 2 do artigo 4.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, na sua nova redacção, quanto a expropriações já realizadas, independentemente de ter ocorrido anterior notificação ou afixação de editais.
 
 2. Se os proprietários cujos prédios hajam sido expropriados tiverem tido conhecimento de tal facto, por qualquer modo, poderão requerer o direito de reserva, independentemente do disposto no número anterior, desde que o façam nos termos legais e dentro do prazo aí referido.
 
-###### Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 26 de Março de 1976.**
+Promulgado em 26 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

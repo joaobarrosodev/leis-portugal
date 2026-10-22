@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/127-1972-397110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d1e4ae4a69f8f8a595b71a669f49967732f68c001809bc4010a159d9047de57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29918d96fbe8a14c2374eddebd4a0005ab6c0d6b4094366e723852e8f4438140
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:169882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518007:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:45Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +108,11 @@ Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o
 
 ### CAPÍTULO I — Do Corpo de Polícia dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique e suas atribuições
 
-###### Artigo 1.º - 1. É criado o Corpo de Polícia dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, adiante designado por «Corpo de Polícia» e abreviadamente «C. P. C. F.».
+Artigo 1.º - 1. É criado o Corpo de Polícia dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, adiante designado por «Corpo de Polícia» e abreviadamente «C. P. C. F.».
 
 2. O Corpo de Polícia é um organismo militarizado, destinado ao serviço de polícia e segurança das áreas sob a jurisdição daqueles Serviços.
 
-###### Art. 2.º As atribuições do Corpo de Polícia são as genèricamente definidas no artigo 4.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, no Regulamento para a Fiscalização, Polícia e Exploração dos Caminhos de Ferro do Ultramar, aprovado pelo [Decreto n.º 47043](https://diariodarepublica.pt/dr/detalhe/decreto/47043-1966-471550), de 7 de Junho de 1966, e demais disposições relativas a polícia e segurança contidas nos regulamentos dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, incumbido-lhe, nomeadamente:
+Art. 2.º As atribuições do Corpo de Polícia são as genèricamente definidas no artigo 4.º do [Decreto-Lei n.º 44217](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44217-1962-518007), de 2 de Março de 1962, no Regulamento para a Fiscalização, Polícia e Exploração dos Caminhos de Ferro do Ultramar, aprovado pelo [Decreto n.º 47043](https://diariodarepublica.pt/dr/detalhe/decreto/47043-1966-471550), de 7 de Junho de 1966, e demais disposições relativas a polícia e segurança contidas nos regulamentos dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, incumbido-lhe, nomeadamente:
 
 a) Manter a ordem e a tranquilidade públicas e providenciar quanto à segurança do pessoal, do material, dos utentes dos caminhos de ferro e do público em geral, entregando às autoridades competentes da província os elementos cuja presença seja considerada perigosa nas áreas a que se refere o artigo 1.º, n.º 2;
 
@@ -112,25 +124,25 @@ d) Exercer nas áreas referidas no artigo 1.º, n.º 2, as demais atribuições 
 
 ### CAPÍTULO II — Da organização
 
-###### Art. 3.º - 1. As atribuições fixadas neste diploma para o Corpo de Polícia são exercidas através do Comando, dos comandos regionais, de secções, zonas, sectores, subsectores e postos.
+Art. 3.º - 1. As atribuições fixadas neste diploma para o Corpo de Polícia são exercidas através do Comando, dos comandos regionais, de secções, zonas, sectores, subsectores e postos.
 
 2. O Comando e os comandos regionais são assistidos nas suas funções por serviços cuja organização e funcionamento constarão de regulamento provincial.
 
-###### Art. 4.º - 1. O Comando depende directamente do Governador-Geral em tudo o que diga respeito à disciplina do pessoal e à superior direcção e coordenação dos seus serviços.
+Art. 4.º - 1. O Comando depende directamente do Governador-Geral em tudo o que diga respeito à disciplina do pessoal e à superior direcção e coordenação dos seus serviços.
 
 2. Os assuntos de carácter administrativo e os referentes à segurança interna dos Serviços de Portos, Caminhos de Ferro e Transportes são submetidos pelo Comando aos órgãos gestores dos mesmos Serviços, que decidirão aqueles cuja resolução seja da sua competência, submetendo a despacho superior, com o seu parecer, aqueles que excederem essa competência, devendo em tal caso dar conhecimento ao referido Comando das decisões que tiverem sido tomadas.
 
-###### Art. 5.º - 1. Em caso de guerra, estado de sítio ou outras circunstâncias de emergência, o Corpo de Polícia será posto pelo Governador-Geral à disposição do Comando-Chefe da província, de conformidade com as disposições do [Decreto-Lei n.º 43655](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43655-1961-169882), de 4 de Maio de 1961.
+Art. 5.º - 1. Em caso de guerra, estado de sítio ou outras circunstâncias de emergência, o Corpo de Polícia será posto pelo Governador-Geral à disposição do Comando-Chefe da província, de conformidade com as disposições do [Decreto-Lei n.º 43655](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43655-1961-169882), de 4 de Maio de 1961.
 
 2. Se o estado de sítio for declarado apenas em parte do território da província, aplicar-se-á a disposição do número anterior ao pessoal que esteja prestando serviço naquela área.
 
 3. O serviço de polícia e segurança nas áreas referidas no artigo 1.º, n.º 2, e quando se verificarem as circunstâncias previstas nos números anteriores, será efectuado de harmonia com as instruções aprovadas pelo Governador-Geral, de acordo com o Comando-Chefe, ouvido o director dos Serviços de Portos, Caminhos de Ferro e Transportes.
 
-###### Art. 6.º - 1. São constituídos três comandos regionais, com sede, respectivamente, em Lourenço Marques, Beira e Nampula, podendo ser criados outros por diploma provincial na medida das necessidades e das disponibilidades orçamentais.
+Art. 6.º - 1. São constituídos três comandos regionais, com sede, respectivamente, em Lourenço Marques, Beira e Nampula, podendo ser criados outros por diploma provincial na medida das necessidades e das disponibilidades orçamentais.
 
 2. O campo de acção dos comandos regionais coincide em regra com o das direcções de exploração, podendo, porém, o mesmo comando regional abranger as áreas de mais do que uma direcção de exploração.
 
-###### Art. 7.º - 1. Em cada direcção de exploração será constituída uma comissão de segurança composta pelos chefes dos diferentes serviços e pelo comandante regional respectivo, que reunirá sob a presidência do director de exploração ou de um seu representante.
+Art. 7.º - 1. Em cada direcção de exploração será constituída uma comissão de segurança composta pelos chefes dos diferentes serviços e pelo comandante regional respectivo, que reunirá sob a presidência do director de exploração ou de um seu representante.
 
 2. As reuniões referidas no número anterior realizar-se-ão por convocação do director de exploração ou a pedido de qualquer dos restantes membros, a fim de serem debatidos os assuntos mais importantes sobre segurança que exijam especial coordenação ou afectem o funcionamento normal dos serviços.
 
@@ -138,7 +150,7 @@ d) Exercer nas áreas referidas no artigo 1.º, n.º 2, as demais atribuições 
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 8.º - 1. As graduações e as categorias do pessoal do Corpo de Polícia são as constantes do mapa anexo, que faz parte integrante deste diploma e segue assinado pelo Ministro do Ultramar.
+Art. 8.º - 1. As graduações e as categorias do pessoal do Corpo de Polícia são as constantes do mapa anexo, que faz parte integrante deste diploma e segue assinado pelo Ministro do Ultramar.
 
 2. Um dos adjuntos do Comando exercerá as funções de segundo-comandante, por designação do Governador-Geral, ouvido o director dos Serviços de Portos, Caminhos de Ferro e Transportes.
 
@@ -150,23 +162,23 @@ d) Exercer nas áreas referidas no artigo 1.º, n.º 2, as demais atribuições 
 
 6. Os cabos e os guardas provisórios são assalariados.
 
-###### Art. 9.º O Comando do Corpo de Polícia será exercido por um oficial superior do quadro permanente de qualquer ramo das forças armadas, de preferência tenente-coronel ou coronel no activo ou na reserva, e terá por adjuntos capitães do quadro permanente ou do quadro de complemento no activo.
+Art. 9.º O Comando do Corpo de Polícia será exercido por um oficial superior do quadro permanente de qualquer ramo das forças armadas, de preferência tenente-coronel ou coronel no activo ou na reserva, e terá por adjuntos capitães do quadro permanente ou do quadro de complemento no activo.
 
-###### Art. 10.º - 1. Os comandos regionais serão exercidos por capitães ou subalternos e terão por adjuntos tenentes ou alferes, em ambos os casos de qualquer dos ramos das forças armadas e nos termos do artigo anterior.
+Art. 10.º - 1. Os comandos regionais serão exercidos por capitães ou subalternos e terão por adjuntos tenentes ou alferes, em ambos os casos de qualquer dos ramos das forças armadas e nos termos do artigo anterior.
 
 2. Sempre que as circunstâncias o justifiquem e respeitadas as respectivas hierarquias poderão as funções constantes do n.º 1 deste artigo ser exercidas interinamente por inspectores.
 
-###### Art. 11.º Os provimentos nos lugares a que se referem os artigos 9.º e 10.º, n.º 1, são feitos pelo Ministro do Ultramar, precedendo requisição do oficial a prover ao departamento militar respectivo.
+Art. 11.º Os provimentos nos lugares a que se referem os artigos 9.º e 10.º, n.º 1, são feitos pelo Ministro do Ultramar, precedendo requisição do oficial a prover ao departamento militar respectivo.
 
-###### Art. 12.º - 1. As disposições quanto a competência e condições de provimento dos lugares a que se referem os n.os 5 a 12 do mapa anexo, quer ainda as respeitantes a promoções, serão fixadas no regulamento provincial previsto no artigo 3.º, n.º 2.
+Art. 12.º - 1. As disposições quanto a competência e condições de provimento dos lugares a que se referem os n.os 5 a 12 do mapa anexo, quer ainda as respeitantes a promoções, serão fixadas no regulamento provincial previsto no artigo 3.º, n.º 2.
 
 2. Quando se pretenda que as funções de inspector sejam desempenhadas por um oficial subalterno, o provimento efectuar-se-á em comissão ordinária de serviço e a respectiva requisição deverá ser feita através do Ministério do Ultramar, sendo de aplicar o disposto no n.º 3 do artigo 8.º
 
 3. O provimento de lugares com pessoal pertencente às forças armadas, à Polícia de Segurança Pública e à Guarda Fiscal dependerá de prévia autorização do respectivo Comando.
 
-###### Art. 13.º O Corpo de Polícia poderá assalariar o pessoal eventual que for necessário para os serviços.
+Art. 13.º O Corpo de Polícia poderá assalariar o pessoal eventual que for necessário para os serviços.
 
-###### Art. 14.º - 1. Ao pessoal do Corpo de Polícia é aplicável o regime disciplinar que estiver em vigor para o Corpo de Policia de Segurança Pública da província.
+Art. 14.º - 1. Ao pessoal do Corpo de Polícia é aplicável o regime disciplinar que estiver em vigor para o Corpo de Policia de Segurança Pública da província.
 
 2. Para efeitos de enquadramento nas penas que podem ser-lhes aplicáveis, consideram-se os adjuntos do Comando e os comandantes e adjuntos regionais equiparados a comandantes distritais do Corpo de Polícia de Segurança Pública e os inspectores, chefes de zona, chefes de sector e chefes de subsector respectivamente a comandantes de secção, comissários, chefes de esquadra e subchefes da mesma Polícia. Os guardas, cabos e guardas provisórios equiparam-se a guardas.
 
@@ -174,17 +186,17 @@ d) Exercer nas áreas referidas no artigo 1.º, n.º 2, as demais atribuições 
 
 4. As penas de aposentação compulsiva e de demissão a aplicar ao pessoal classificado abaixo do n.º 4 do mapa anexo são da competência do Governador-Geral, sob proposta do director dos Serviços de Portos, Caminhos de Ferro e Transportes, ouvido o comandante do Corpo de Polícia; o simples despedimento por conveniência de serviço do pessoal a que se referem os n.os 10 a 12 é da competência do comandante.
 
-###### Art. 15.º Os crimes de que for arguido o pessoal do Corpo de Polícia, por factos praticados em serviço ou em razão do mesmo, serão julgados pelo tribunal militar territorial competente, nos termos do Código de Justiça Militar.
+Art. 15.º Os crimes de que for arguido o pessoal do Corpo de Polícia, por factos praticados em serviço ou em razão do mesmo, serão julgados pelo tribunal militar territorial competente, nos termos do Código de Justiça Militar.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 16.º - 1. O pessoal do Corpo de Polícia, quando em serviço ou formatura, será armado e equipado de acordo com os modelos que foram estabelecidos no regulamento a que se refere o artigo 3.º, n.º 2.
+Art. 16.º - 1. O pessoal do Corpo de Polícia, quando em serviço ou formatura, será armado e equipado de acordo com os modelos que foram estabelecidos no regulamento a que se refere o artigo 3.º, n.º 2.
 
 2. Os modelos de armamento e equipamento a utilizar pelo Corpo de Polícia serão estabelecidos em conformidade com as indicações do Comando-Chefe da província.
 
 3. Todo o armamento e equipamento necessário será adquirido pelos Serviços de Portos, Caminhos de Ferro e Transportes e pertencerá ao respectivo património.
 
-###### Art. 17.º - 1. O pessoal do Corpo de Polícia só poderá fazer uso das suas armas nos seguintes casos:
+Art. 17.º - 1. O pessoal do Corpo de Polícia só poderá fazer uso das suas armas nos seguintes casos:
 
 a) No serviço de polícia e segurança, nas áreas onde exercer a sua autoridade;
 
@@ -192,15 +204,15 @@ b) Em defesa própria, no exercício das suas funções.
 
 2. Considerar-se-ão em legítima defesa os actos praticados por um agente do Corpo de Polícia para prevenir ou fazer cessar uma agressão contra a pessoa ou dignidade própria ou de outro agente ou contra instalações, armamento e outros objectos que estejam confiados à sua guarda e responsabilidade e lhe cumpra defender, sempre que os meios empregados sejam os que os seus deveres e as circunstâncias razoàvelmente aconselhem, salvo se o agente tiver provocado a agressão.
 
-###### Art. 18.º - 1. O pessoal do Corpo de Polícia, quando em serviço ou sempre que lhe for determinado, deverá apresentar-se fardado com o uniforme regulamentar e devidamente armado.
+Art. 18.º - 1. O pessoal do Corpo de Polícia, quando em serviço ou sempre que lhe for determinado, deverá apresentar-se fardado com o uniforme regulamentar e devidamente armado.
 
 2. Os serviços de investigação, de patrulhas ou rondas especiais e outros superiormente determinados poderão ser realizados em trajo civil.
 
-###### Art. 19.º O pessoal do Corpo de Polícia, com excepção do assalariado, é obrigado a fardar-se por conta própria, salvo no que respeitar a artigos especiais de fardamento que venham a ser necessários e aprovados, os quais serão adquiridos pelos Serviços de Portos, Caminhos de Ferro e Transportes.
+Art. 19.º O pessoal do Corpo de Polícia, com excepção do assalariado, é obrigado a fardar-se por conta própria, salvo no que respeitar a artigos especiais de fardamento que venham a ser necessários e aprovados, os quais serão adquiridos pelos Serviços de Portos, Caminhos de Ferro e Transportes.
 
-###### Art. 20.º Os oficiais neste momento em serviço na Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique transitam, nas situações em que se encontrarem, para lugares de adjunto do Comando e de comandante regional do Corpo de Polícia, mediante lista nominal simplesmente anotada pelo Tribunal de Contas e publicada no Diário do Governo.
+Art. 20.º Os oficiais neste momento em serviço na Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique transitam, nas situações em que se encontrarem, para lugares de adjunto do Comando e de comandante regional do Corpo de Polícia, mediante lista nominal simplesmente anotada pelo Tribunal de Contas e publicada no Diário do Governo.
 
-###### Art. 21.º - 1. As regras quanto ao primeiro provimento dos lugares referidos nos n.os 5 a 12 do mapa anexo serão fixadas no regulamento previsto no artigo 3.º, n.º 2.
+Art. 21.º - 1. As regras quanto ao primeiro provimento dos lugares referidos nos n.os 5 a 12 do mapa anexo serão fixadas no regulamento previsto no artigo 3.º, n.º 2.
 
 2. Para o primeiro provimento nos lugares a que se referem os n.os 5 a 12 do mesmo mapa poderá ser dispensado o limite de idade de 35 anos.
 
@@ -208,20 +220,20 @@ b) Em defesa própria, no exercício das suas funções.
 
 4. O pessoal da Polícia de Segurança Pública actualmente em serviço na Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique que não transitar para o Corpo de Polícia permanecerá na situação em que se encontrar até obter vaga naquela Polícia, nos termos do artigo 89.º do Diploma Legislativo Ministerial n.º 27, publicado na província de Moçambique em 19 de Outubro de 1961.
 
-###### Art. 22.º Em todos os casos não especialmente previstos neste diploma aplicar-se-ão em primeiro lugar as normas dos diplomas que regem a actividade dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique e em segundo lugar a legislação em vigor para o restante funcionalismo ultramarino.
+Art. 22.º Em todos os casos não especialmente previstos neste diploma aplicar-se-ão em primeiro lugar as normas dos diplomas que regem a actividade dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique e em segundo lugar a legislação em vigor para o restante funcionalismo ultramarino.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Abril de 1972.**
+Promulgado em 7 de Abril de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
 Mapa do pessoal do Corpo de Polícia dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/09500/04850488.pdf))](https://files.diariodarepublica.pt/1s/1972/04/09500/04850488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/09500/04850488.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

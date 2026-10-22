@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/03/06700/03410342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1972-396735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec73b2d0b774cab99ac6e413205f4f8112865bfa6b2410686301d78bb90d49d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14b2a0785391e4593e111906177c51054fece8fef13d933a5e44dac2c5bacbd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agente Oficial da Propriedade Industrial
+- Código da Propriedade Industrial
+- Concurso
+- Gestão de Recursos Humanos
+- Habilitações Literárias
+- Lisboa
+- Porto
+- Prazo
+- Propriedade Industrial
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:139270:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:192654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194848:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:139270:por
+  label: "Revogado pelo DEC LEI.16/95.1995.01.24.MIE, DR.IS-A[20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1995-139270
+  date: '1995-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:50Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +125,11 @@ Este, pois, o objectivo do presente diploma.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 264.º, 265.º, n.º 4.º, 266.º, 269.º, 270.º, 271.º e 280.º, § 3.º do Código da Propriedade Industrial passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 264.º, 265.º, n.º 4.º, 266.º, 269.º, 270.º, 271.º e 280.º, § 3.º do Código da Propriedade Industrial passam a ter a seguinte redacção:
 
-###### Art. 264.º O quadro dos agentes oficiais da propriedade industrial será constituído por quinze lugares, dos quais doze com cartório em Lisboa e três com cartório no Porto.
+Art. 264.º O quadro dos agentes oficiais da propriedade industrial será constituído por quinze lugares, dos quais doze com cartório em Lisboa e três com cartório no Porto.
 
-###### Art. 265.º ...
+Art. 265.º ...
 
 1.º ...
 
@@ -115,7 +139,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4.º Ser licenciado em Engenharia (cursos de Engenharia Civil, de Minas, Mecânica, Electrotécnica ou Química Industrial), Direito, Ciências Económicas e Financeiras, Economia ou Finanças.
 
-###### Art. 266.º O provimento das vagas que ocorrerem no quadro dos agentes oficiais far-se-á, mediante concurso documental, entre indivíduos habilitados com qualquer das licenciaturas indicadas no artigo anterior.
+Art. 266.º O provimento das vagas que ocorrerem no quadro dos agentes oficiais far-se-á, mediante concurso documental, entre indivíduos habilitados com qualquer das licenciaturas indicadas no artigo anterior.
 
 § 1.º O concurso será aberto pelo prazo de trinta dias, dentro do qual os concorrentes apresentarão os seus requerimentos de admissão nos quais deverão declarar obrigatóriamente, em alíneas separadas e sob compromisso de honra, a situação precisa em que se encontram relativamente a cada um dos requisitos exigidos no artigo anterior e, facultativamente, a relativa a outras habilitações que porventura possuam.
 
@@ -123,7 +147,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A apresentação dos documentos comprovativos dos requisitos exigidos, e bem assim dos factores de valorização e demais condições de preferência a que se referem os artigos 269.º e 270.º, tornar-se-á exigível quando houver lugar a provimento.
 
-###### Art. 269.º A classificação será regulada pela informação final universitária da licenciatura do candidato.
+Art. 269.º A classificação será regulada pela informação final universitária da licenciatura do candidato.
 
 § 1.º Se algum candidato provar a prática de proposto de agente oficial ou o exercício de função pública especializada na matéria de propriedade industrial, com boas informações, adicionar-se-á à classificação obtida um valor por cada período de dois anos até ao máximo de 8 valores.
 
@@ -131,17 +155,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º O candidato que tiver desempenhado as funções públicas mencionadas no § 1.º só poderá, porém, ser nomeado proposto ou concorrer ao cargo de agente oficial três anos após a cessação de tais funções.
 
-###### Art. 270.º Quando, depois de tomadas em conta a informação final universitária e os factores de valorização referidos nos §§ 1.º e 2.º do artigo 269.º, se verifique identidade de posição de alguns candidatos, são condições de preferência, pela ordem por que vão indicadas, as seguintes:
+Art. 270.º Quando, depois de tomadas em conta a informação final universitária e os factores de valorização referidos nos §§ 1.º e 2.º do artigo 269.º, se verifique identidade de posição de alguns candidatos, são condições de preferência, pela ordem por que vão indicadas, as seguintes:
 
 a) Ter mais habilitações, preferindo, em paridade, as que possuam mais interesse para a função;
 
 b) Ter desempenhado, e por mais tempo, serviço público com boa informação devidamente comprovada.
 
-###### Art. 271.º A classificação será expressa num mapa, de que constarão, relativamente a cada candidato, os valores atribuídos em razão da informação escolar respectiva e de outras determinantes, havendo-as, de acordo com os dois artigos antecedentes.
+Art. 271.º A classificação será expressa num mapa, de que constarão, relativamente a cada candidato, os valores atribuídos em razão da informação escolar respectiva e de outras determinantes, havendo-as, de acordo com os dois artigos antecedentes.
 
 § único. O mapa, a que se juntará um relatório, será em seguida submetido a homologação ministerial.
 
-###### Art. 280.º ...
+Art. 280.º ...
 
 § 1.º ...
 
@@ -151,14 +175,14 @@ b) Ter desempenhado, e por mais tempo, serviço público com boa informação de
 
 § 4.º Os agentes supranumerários não podem ser transferidos; os agentes pertencentes ao quadro, havendo vaga, podem ser transferidos, se o requererem, preferindo na colocação, se houver mais de um candidato, o que tiver maior classificação, e, em igualdade de classificação, o mais antigo.
 
-###### Art. 2.º Fica revogada a tabela n.º 7 anexa ao mesmo diploma.
+Art. 2.º Fica revogada a tabela n.º 7 anexa ao mesmo diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 9 de Março de 1972.**
+Promulgado em 9 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

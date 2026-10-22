@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23800/12131214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1974-472727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e00e6edd35474dd036cca53b1266bde7bbe9cc79dbeb0db4475b8b543a6bb851
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 177501b57e67e2341872f955b57b98e2f7761b9aedc57746b02c002c098e8764
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão
+- Crédito à Exportação
+- Empresa
+- Financiamento
+- Fundo de Fomento de Exportação
+- Seguro de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526203:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:47Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +123,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 28.º e o n.º 2 do artigo 29.º do [Decreto-Lei n.º 48950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48950-1969-526203), de 3 de Abril de 1969, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 28.º e o n.º 2 do artigo 29.º do [Decreto-Lei n.º 48950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48950-1969-526203), de 3 de Abril de 1969, passam a ter a seguinte redacção:
 
-###### Art. 28.º - 1. A Comissão terá a seguinte composição:
+Art. 28.º - 1. A Comissão terá a seguinte composição:
 
 a) Um representante do Ministério da Economia, que presidirá;
 
@@ -121,14 +145,14 @@ h) Um representante das outras instituições de crédito, designado pelas respe
 
 i) Um representante das actividades exportadoras, designado pelas respectivas associações representativas.
 
-###### Art. 29.º - 2. A Comissão não se julgará constituída nem poderá deliberar validamente sem estarem presentes, pelo menos, seis dos seus membros efectivos ou substitutos e as suas deliberações serão tomadas por maioria de votos.
+Art. 29.º - 2. A Comissão não se julgará constituída nem poderá deliberar validamente sem estarem presentes, pelo menos, seis dos seus membros efectivos ou substitutos e as suas deliberações serão tomadas por maioria de votos.
 
-###### Art. 2.º Este diploma entra imediatamente em vigor.
+Art. 2.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Setembro de 1974.**
+Promulgado em 30 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

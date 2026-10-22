@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02400/02720273.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1981-390005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:38:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c122e4f5d381b119d2f3b97faf4b5d0348432a5dcd2ebbb30992d802317228f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34ccf17895b909b0c068af99de3d7c2a4c97cf6bc12066b234bcc9a9dfeb2433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Despesas Públicas
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406097:por
+  label: "Revogado pelo DEC LEI.96-A/81.29.04.1981.MFP, DR.IS [98]2ºSupl de 29.04.1981, a partir da sua entrada em vigor \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-a-1981-406097
+  date: '1981-04-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:38:13Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +129,13 @@ Deste modo:
 
 Em aplicação do artigo 12.º da [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto, com a redacção que lhe foi dada pela [Lei n.º 18/78](https://diariodarepublica.pt/dr/detalhe/lei/18-1978-425345), de 10 de Abril, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Regime orçamental transitório para 1981)
 
 Enquanto não for aprovada pela Assembleia da República a proposta de lei do Orçamento para 1981, o regime transitório previsto no artigo 12.º da [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto, com a redacção que lhe foi dada pela [Lei n.º 18/78](https://diariodarepublica.pt/dr/detalhe/lei/18-1978-425345), de 10 de Abril, obedecerá às normas constantes do presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Limite mensal das despesas públicas)
 
@@ -115,7 +145,7 @@ Enquanto não for aprovada pela Assembleia da República a proposta de lei do Or
 
 3 - O valor global dos duodécimos ajustados do orçamento da segurança social de 1980 é fixado em 8577,7 milhares de contos para as despesas correntes e em 146,5 milhares de contos para as despesas de capital.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Condicionamentos gerais à realização de despesas)
 
@@ -127,7 +157,7 @@ Enquanto não for aprovada pela Assembleia da República a proposta de lei do Or
 
 4 - As restantes verbas excepcionais inscritas no Orçamento Geral do Estado de 1980 sem carácter de continuidade não podem ser utilizadas no regime transitório de que trata este diploma, sem prejuízo de casos especiais autorizados pelo Ministro das Finanças e do Plano.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Classificação de despesas)
 
@@ -137,7 +167,7 @@ Enquanto não for aprovada pela Assembleia da República a proposta de lei do Or
 
 3 - Postos em execução os orçamentos para 1981 referidos nos números anteriores, as despesas autorizadas no regime transitório que é objecto deste diploma serão integradas nos respectivos orçamentos com as rectificações de classificação e de lançamento que, por estorno, houver necessidade de efectuar, por forma a ficarem devidamente escrituradas nas contas correntes com as dotações orçamentais definitivas de 1981.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Transição de serviços)
 
@@ -147,29 +177,29 @@ a) As respectivas despesas, observados os condicionalismos gerais descritos no a
 
 b) O duodécimo do orçamento referido na alínea anterior considerar-se-á acrescido dos quantitativos que, por tal motivo, serão simultaneamente deduzidos no duodécimo do orçamento de origem.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Novos serviços)
 
 Para a realização das despesas de funcionamento de novos serviços públicos que não tiveram verbas inscritas no Orçamento Geral do Estado de 1980, serão considerados valores iguais aos que hão-de figurar no Orçamento para 1981, não podendo ser excedido o valor do duodécimo referido no artigo 2.º deste diploma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Investimentos do Plano)
 
 A realização de despesas referentes a investimentos do Plano, incluindo as que constituem encargo do orçamento da segurança social, deverá restringir-se aos encargos respeitantes a empreendimentos em execução incluídos em programas de 1980, já aprovados e visados, além de outros encargos inadiáveis resultantes do funcionamento normal dos serviços.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 São mantidas em vigor, na parte aplicável, as disposições do [Decreto-Lei n.º 183-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-a-1980-324943), de 9 de Junho, relativamente ao Orçamento Geral do Estado, e as do [Decreto-Lei n.º 187-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-e-1980-647323), de 14 de Junho, quanto ao orçamento da segurança social.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Resolução de dúvidas e omissões)
 
 As dúvidas e omissões suscitadas na aplicação do presente diploma serão resolvidas, relativamente ao Orçamento Geral do Estado, por despacho do Ministro das Finanças e do Plano, e por despacho conjunto deste e do Ministro dos Assuntos Sociais, em relação ao orçamento da segurança social.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Vigência)
 
@@ -177,14 +207,14 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 1981.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 15 de Janeiro de 1981.**
+Promulgado em 15 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 24/81
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02400/02720273.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02400/02720273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02400/02720273.pdf)
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão.

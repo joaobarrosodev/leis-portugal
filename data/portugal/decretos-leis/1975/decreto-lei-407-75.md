@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1975-336373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e573a46dc86a07d5662fcf93f28676016fc3bdbe4cb9a08ee660b59b44a03190
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61d981cbc9ba359234db8359f9e28c9cc59ef08010933af763404cbb2c4923df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Definição de Competências
+- Internato Policlínico
+- Medicina
+- Médico
 relationships:
 - type: amended_by
   target: pt:dre:391981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:391981:por
+  label: Revogado o art. 2.º pelo(a) Decreto-Lei n.º 209/82 - Diário da República n.º 121/1982, Série I de 1982-05-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1982-391981
+  date: '1982-05-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:15Z'
   warnings: []
   errors: []
 ---
@@ -100,36 +110,36 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O grau de licenciado em Medicina é conferido pelas Universidades portuguesas àqueles que obtiverem aprovação em todas as disciplinas do curso médico-cirúrgico.
+Artigo 1.º - 1. O grau de licenciado em Medicina é conferido pelas Universidades portuguesas àqueles que obtiverem aprovação em todas as disciplinas do curso médico-cirúrgico.
 
 2. O regime estabelecido no número anterior aplica-se igualmente aos que concluíram o referido curso no ano lectivo de 1973-1974, sem prejuízo do disposto no artigo 5.º
 
-###### Art. 2.º Fica assegurada, mediante requerimento, a todos os licenciados em Medicina a admissão ao internato de policlínica, que terá a duração de vinte e quatro meses.
+Art. 2.º Fica assegurada, mediante requerimento, a todos os licenciados em Medicina a admissão ao internato de policlínica, que terá a duração de vinte e quatro meses.
 
-###### Art. 3.º Aos que obtenham a licenciatura em Medicina a partir da data da publicação deste diploma não é permitido o exercício de actos médicos, fora do âmbito do internato de policlínica, antes da conclusão, com aproveitamento, do mesmo internato.
+Art. 3.º Aos que obtenham a licenciatura em Medicina a partir da data da publicação deste diploma não é permitido o exercício de actos médicos, fora do âmbito do internato de policlínica, antes da conclusão, com aproveitamento, do mesmo internato.
 
-###### Art. 4.º O vencimento dos internos de policlínica é o correspondente à letra K da escala geral do funcionalismo durante os doze primeiros meses de internato e o correspondente à letra J nos restantes, independentemente dos estágios que os internos se achem a frequentar.
+Art. 4.º O vencimento dos internos de policlínica é o correspondente à letra K da escala geral do funcionalismo durante os doze primeiros meses de internato e o correspondente à letra J nos restantes, independentemente dos estágios que os internos se achem a frequentar.
 
-###### Art. 5.º - 1. A título transitório, é mantido o estágio de prática clínica nas Faculdades de Medicina, para frequência dos que hajam concluído o curso médico-cirúrgico durante o ano lectivo de 1973-1974 e optem pelo regime em vigor até à data da publicação deste diploma.
+Art. 5.º - 1. A título transitório, é mantido o estágio de prática clínica nas Faculdades de Medicina, para frequência dos que hajam concluído o curso médico-cirúrgico durante o ano lectivo de 1973-1974 e optem pelo regime em vigor até à data da publicação deste diploma.
 
 2. Aos licenciados nos termos do número anterior não é permitido o exercício de actos médicos fora do âmbito do internato de policlínica antes da sua conclusão, com aproveitamento.
 
 3. Para os mesmos licenciados, o internato de policlínica terá a duração de doze meses, com a remuneração correspondente à letra J.
 
-###### Art. 6.º - 1. Os licenciados que terminaram o estágio de prática clínica no ano de 1974 não são abrangidos pela disposição do artigo 3.º do presente diploma.
+Art. 6.º - 1. Os licenciados que terminaram o estágio de prática clínica no ano de 1974 não são abrangidos pela disposição do artigo 3.º do presente diploma.
 
 2. Para os mesmos licenciados, o internato de policlínica terá a duração de doze meses, com a remuneração correspondente à letra J.
 
-###### Art. 7.º - 1. Aos licenciados nos termos do n.º 2 do artigo 1.º será atribuído o respectivo diploma de licenciatura com a data de 30 de Novembro de 1974, desde que tenham concluído até essa data o curso médico-cirúrgico.
+Art. 7.º - 1. Aos licenciados nos termos do n.º 2 do artigo 1.º será atribuído o respectivo diploma de licenciatura com a data de 30 de Novembro de 1974, desde que tenham concluído até essa data o curso médico-cirúrgico.
 
 2. A todos aqueles que não satisfaçam à condição expressa na parte final do número anterior a data do respectivo diploma será a da aprovação na última disciplina do mencionado curso.
 
-###### Art. 8.º Este diploma entra imediatamente em vigor.
+Art. 8.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Emílio da Silva - José de Carvalho Sá Borges.
 
-**Promulgado em 21 de Julho de 1975.**
+Promulgado em 21 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23900/34103414.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1980-462063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 292d6e7440aab4e56e7169473f67d43922dcc00a5a295cc6a1a4927b5c98986e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 037625e99b5296bce2f0bf690526c311caa25962c8a74d07a57ba59d6a7fc10e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tribunal de Contas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:384020:por
+  label: "Alterado o quadro de pessoal a que se refere o art. 1.º do presente diploma, pela PORT.298/84.19.05.1984.PCM, DR.IS\
+    \ [116] de 19.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-1984-384020
+  date: '1984-05-19'
+- type: amended_by
+  target: pt:dre:381563:por
+  label: "Alterado o quadro de pessoal, pela PORT.496/84.1984.07.24.PCM DR.IS [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-1984-381563
+  date: '1984-07-24'
+- type: amended_by
+  target: pt:dre:599726:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção das Port 496/84, de 24-Jul e 418/86, de\
+    \ 01-Ago, pela PORT.2/87.1987.01.02.MF DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/2-1987-599726
+  date: '1987-01-02'
+- type: amended_by
+  target: pt:dre:417197:por
+  label: "Alterado o quadro de pessoal pela PORT.667/87.30.07.1987.MF, DR.IS [173] de 30.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-1987-417197
+  date: '1987-07-30'
+- type: amended_by
+  target: pt:dre:417222:por
+  label: "Alterado o quadro de pessoal pela PORT.671/87.31.07.1987.MF, DR.IS [174] de 31.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/671-1987-417222
+  date: '1987-07-31'
+- type: amended_by
+  target: pt:dre:354721:por
+  label: "Aumentado o quadro de pessoal pela PORT.677/88.11.10.1988.MF, DR.IS [235] de 11.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1988-354721
+  date: '1988-10-11'
+- type: amended_by
+  target: pt:dre:357334:por
+  label: "Aumentados lugares ao quadro de pessoal aprovado pelo presente diploma, pelo PORT.753/88.24.11.1988.MF, DR.IS [272]\
+    \ de 24.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/753-1988-357334
+  date: '1988-11-24'
+- type: amended_by
+  target: pt:dre:549792:por
+  label: Alterado o quadro de pessoal da Direcção-Geral do Tribunal de Contas pelo(a) Portaria n.º 976/89 - Diário da República
+    n.º 262/1989, Série I de 1989-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/976-1989-549792
+  date: '1989-11-14'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:457985:por
+  label: Rectificado pela DECL.DD6701.28.10.1980.PCM, DR.IS [259] de 08.11.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-457985
+  date: '1980-10-28'
+- type: repealed_by
+  target: pt:dre:661098:por
+  label: "Revogados os arts 7º e 8º, na redacção dada pelo art. 1º do Dec Lei 290/82, de 26-Jul, e o nº 3 do art. 13º pelo\
+    \ DEC LEI.79/84.1984.03.09.PCM DR.IS [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1984-661098
+  date: '1984-03-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:25Z'
   warnings: []
   errors: []
 ---
@@ -98,37 +193,37 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 ### CAPÍTULO I — Do pessoal
 
-###### Artigo 1.º O quadro a que se refere o artigo 1.º do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março, é substituído pelo do mapa anexo ao presente diploma.
+Artigo 1.º O quadro a que se refere o artigo 1.º do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março, é substituído pelo do mapa anexo ao presente diploma.
 
-###### Art. 2.º O provimento do lugar de director-geral é feito de entre indivíduos licenciados em Direito, Economia, Finanças, Organização e Gestão de Empresas ou habilitação equivalente.
+Art. 2.º O provimento do lugar de director-geral é feito de entre indivíduos licenciados em Direito, Economia, Finanças, Organização e Gestão de Empresas ou habilitação equivalente.
 
-###### Art. 3.º O provimento do lugar de subdirector-geral é feito por escolha de entre os contadores-gerais ou os indivíduos mencionados na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, sob proposta do director-geral, com a anuência do presidente do Tribunal de Contas.
+Art. 3.º O provimento do lugar de subdirector-geral é feito por escolha de entre os contadores-gerais ou os indivíduos mencionados na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, sob proposta do director-geral, com a anuência do presidente do Tribunal de Contas.
 
-###### Art. 4.º O provimento do lugar de chefe de divisão do Arquivo-Geral e Biblioteca é feito de entre assessores ou técnicos superiores principais de BAD.
+Art. 4.º O provimento do lugar de chefe de divisão do Arquivo-Geral e Biblioteca é feito de entre assessores ou técnicos superiores principais de BAD.
 
-###### Art. 5.º Aos cargos de director-geral, subirector-geral e chefe de divisão do Arquivo-Geral e Biblioteca aplica-se o regime constante do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, salvo o disposto nos artigos anteriores.
+Art. 5.º Aos cargos de director-geral, subirector-geral e chefe de divisão do Arquivo-Geral e Biblioteca aplica-se o regime constante do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, salvo o disposto nos artigos anteriores.
 
-###### Art. 6.º - 1 - O provimento referido no artigo 3.º, quando recaia num contador-geral, abre vaga na respectiva carreira.
+Art. 6.º - 1 - O provimento referido no artigo 3.º, quando recaia num contador-geral, abre vaga na respectiva carreira.
 
 2 - Finda a comissão de serviço e no caso de ter sido preenchida a vaga a que dera origem, o funcionário aguardará, com todos os direitos inerentes à efectividade de funções, a primeira vaga que se der na sua categoria, tendo preferência absoluta no seu preenchichimento, exercendo, entretanto, as funções que lhe forem determinadas pelo director-geral.
 
-###### Art. 7.º Os lugares de contador-geral são providos, por apreciação curricular, de entre os contadores-chefes com o mínimo de três anos de bom e efectivo serviço na respectiva categoria, sob proposta do director-geral, com a anuência do presidente do Tribunal.
+Art. 7.º Os lugares de contador-geral são providos, por apreciação curricular, de entre os contadores-chefes com o mínimo de três anos de bom e efectivo serviço na respectiva categoria, sob proposta do director-geral, com a anuência do presidente do Tribunal.
 
-###### Art. 8.º - 1 - Os lugares de contador-chefe são providos mediante provas de apreciação curricular, que incluirão a discussão do trabalho apresentado para o efeito, de entre os contadores-verificadores principais com o mínimo de três anos de bom e efectivo serviço na categoria.
+Art. 8.º - 1 - Os lugares de contador-chefe são providos mediante provas de apreciação curricular, que incluirão a discussão do trabalho apresentado para o efeito, de entre os contadores-verificadores principais com o mínimo de três anos de bom e efectivo serviço na categoria.
 
 2 - A apreciação dos concorrentes será feita por um júri, presidido por um juiz conselheiro, a designar pelo presidente do Tribunal, do qual fará parte o director-geral ou subdirector-geral e um contador-geral, indicado, igualmente, pelo presidente.
 
-###### Art. 9.º Os lugares de contadores-verificadores principais e de 1.ª classe são providos de entre os funcionários de categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço nessa categoria e que tenham obtido aproveitamento nos cursos referidos na alínea a) do n.º 1 do artigo 44.º
+Art. 9.º Os lugares de contadores-verificadores principais e de 1.ª classe são providos de entre os funcionários de categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço nessa categoria e que tenham obtido aproveitamento nos cursos referidos na alínea a) do n.º 1 do artigo 44.º
 
-###### Art. 10.º Os lugares de contador-verificador de 2.ª classe são providos pelos contadores-verificadores estagiários que hajam obtido aproveitamento nas provas finais de selecção a levar a efeito no período formativo referido no n.º 1 do artigo 13.º
+Art. 10.º Os lugares de contador-verificador de 2.ª classe são providos pelos contadores-verificadores estagiários que hajam obtido aproveitamento nas provas finais de selecção a levar a efeito no período formativo referido no n.º 1 do artigo 13.º
 
-###### Art. 11.º - 1 - Aos contadores-verificadores auxiliares que adquiram a habilitação literária exigida para o ingresso na carreira de contador-verificador aplica-se o disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 11.º - 1 - Aos contadores-verificadores auxiliares que adquiram a habilitação literária exigida para o ingresso na carreira de contador-verificador aplica-se o disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 2 - Aos contadores-verificadores auxiliares que ingressarem na carreira técnica nos termos do número anterior é dispensada a frequência do estágio referido no artigo 13.º
 
-###### Art. 12.º O recrutamento dos contadores-verificadores estagiários far-se-á consoante o número de vagas existentes na carreira de contador-verificador, mediante concurso documental, de entre os diplomados pelas escolas superiores de gestão e contabilidade ou habilitação equivalente.
+Art. 12.º O recrutamento dos contadores-verificadores estagiários far-se-á consoante o número de vagas existentes na carreira de contador-verificador, mediante concurso documental, de entre os diplomados pelas escolas superiores de gestão e contabilidade ou habilitação equivalente.
 
-###### Art. 13.º - 1 - O período formativo dos contadores-verificadores estagiários será de um ano de serviço efectivo, em regime de contrato de prestação eventual de serviço.
+Art. 13.º - 1 - O período formativo dos contadores-verificadores estagiários será de um ano de serviço efectivo, em regime de contrato de prestação eventual de serviço.
 
 2 - Aos contadores-verificadores estagiários que não obtiverem aproveitamento nas provas referidas no artigo 10.º ser-lhes-á rescindido o respectivo contrato.
 
@@ -136,49 +231,49 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 4 - Se algum contador-verificador estagiário já desempenhar funções noutra categoria da Direcção-Geral, manterá o direito ao respectivo lugar durante o período de estágio e às remunerações complementares que lhe vêm sendo atribuídas.
 
-###### Art. 14.º Os lugares de contadores-verificadores auxiliares serão providos da forma seguinte:
+Art. 14.º Os lugares de contadores-verificadores auxiliares serão providos da forma seguinte:
 
 a) Os contadores-verificadores auxiliares principais e de 1.ª classe, de entre os contadores-verificadores auxiliares de categoria imediatamento inferior com, pelo menos, três anos de bom e efectivo serviço nessa categoria e que tenham obtido aproveitamento nos cursos referidos na alínea a) do n.º 1 do artigo 44.º
 
 b) Os contadores-verificadores auxiliares de 2.ª classe, mediante concurso de provas escritas e provas práticas de dactilografia, de entre indivíduos que possuam como habilitação mínima o curso complementar do ensino secundário ou equivalente.
 
-###### Art. 15.º - 1 - Às carreiras de técnico superior e técnico superior de BAD aplica-se o estabelecido na lei geral.
+Art. 15.º - 1 - Às carreiras de técnico superior e técnico superior de BAD aplica-se o estabelecido na lei geral.
 
 2 - O ingresso na carreira de técnico superior fica condicionado à posse de licenciatura em Direito, Economia, Finanças, Organização e Gestão de Empresas ou habilitação equivalente.
 
-###### Art. 16.º Às carreiras de técnico auxiliar e auxiliar técnico de BAD aplica-se o regime constante do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 16.º Às carreiras de técnico auxiliar e auxiliar técnico de BAD aplica-se o regime constante do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### Art. 17.º - 1 - O lugar de operador de microfilmagem de 2.ª classe será provido, mediante concurso de provas práticas, de entre indivíduos com as qualificações profissionais consideradas necessárias para o desempenho do cargo e a habilitação mínima do curso geral do ensino secundário ou equivalente.
+Art. 17.º - 1 - O lugar de operador de microfilmagem de 2.ª classe será provido, mediante concurso de provas práticas, de entre indivíduos com as qualificações profissionais consideradas necessárias para o desempenho do cargo e a habilitação mínima do curso geral do ensino secundário ou equivalente.
 
 2 - O acesso às categorias superiores far-se-á após três anos de bom e efectivo serviço exercido na categoria imediatamente anterior.
 
-###### Art. 18.º O lugar de tradutor-correspondente-intérprete será provido, mediante concurso de provas escritas e práticas de entre indivíduos que possuam como habilitação mínima o curso geral do ensino secundário ou equivalente e demonstrem conhecimento escrito e falado das línguas francesa e inglesa.
+Art. 18.º O lugar de tradutor-correspondente-intérprete será provido, mediante concurso de provas escritas e práticas de entre indivíduos que possuam como habilitação mínima o curso geral do ensino secundário ou equivalente e demonstrem conhecimento escrito e falado das línguas francesa e inglesa.
 
-###### Art. 19.º À carreira de escriturário-dactilógrafo aplica-se o disposto na lei geral.
+Art. 19.º À carreira de escriturário-dactilógrafo aplica-se o disposto na lei geral.
 
-###### Art. 20.º - 1 - Os lugares de auxiliar técnico administrativo serão providos, por concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória e formação profissional adequada.
+Art. 20.º - 1 - Os lugares de auxiliar técnico administrativo serão providos, por concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória e formação profissional adequada.
 
 2 - A carreira de auxiliar técnico administrativo desenvolve-se pelas categorias de principal, de 1.ª e de 2.ª classes.
 
 3 - A mudança de categoria verifica-se após a prestação de cinco anos, de bom e efectivo serviço na categoria anterior.
 
-###### Art. 21.º - 1 - Os lugares de telefonista de 2.ª classe serão providos, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória, podendo recair em diminuídos físicos.
+Art. 21.º - 1 - Os lugares de telefonista de 2.ª classe serão providos, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória, podendo recair em diminuídos físicos.
 
 2 - O acesso na carreira de telefonista será feito nos termos da lei geral.
 
-###### Art. 22.º As nomeações efectuadas nos termos dos artigos 15.º, 16.º, 17.º, 18.º e 21.º terão carácter provisório durante um ano de efectividade de serviço, findo o qual serão convertidas em definitivas se os funcionários houverem demonstrado aptidão para o exercício das respectivas funções, sendo exonerados, caso contrário.
+Art. 22.º As nomeações efectuadas nos termos dos artigos 15.º, 16.º, 17.º, 18.º e 21.º terão carácter provisório durante um ano de efectividade de serviço, findo o qual serão convertidas em definitivas se os funcionários houverem demonstrado aptidão para o exercício das respectivas funções, sendo exonerados, caso contrário.
 
-###### Art. 23.º Ao provimento e acesso dos lugares de encarregado do pessoal auxiliar, motorista, contínuo e porteiro serão aplicáveis as normas estabelecidas na lei geral.
+Art. 23.º Ao provimento e acesso dos lugares de encarregado do pessoal auxiliar, motorista, contínuo e porteiro serão aplicáveis as normas estabelecidas na lei geral.
 
-###### Art. 24.º Sem prejuízo do disposto na primeira parte do artigo 20.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, compete ao director-geral, além do estabelecido na legislação em vigor, orientar e distribuir os serviços e o pessoal da Direcção-Geral, superintender nos trabalhos a realizar, dar posse aos funcionários e resolver todos os assuntos que por sua natureza, disposição de lei, delegação ou determinação ministerial ou da presidência do Tribunal lhe caiba despachar.
+Art. 24.º Sem prejuízo do disposto na primeira parte do artigo 20.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, compete ao director-geral, além do estabelecido na legislação em vigor, orientar e distribuir os serviços e o pessoal da Direcção-Geral, superintender nos trabalhos a realizar, dar posse aos funcionários e resolver todos os assuntos que por sua natureza, disposição de lei, delegação ou determinação ministerial ou da presidência do Tribunal lhe caiba despachar.
 
-###### Art. 25.º O subdirector-geral coadjuva o director-geral no desempenho das suas funções e cabe-lhe exercer as competências que este nele delegar.
+Art. 25.º O subdirector-geral coadjuva o director-geral no desempenho das suas funções e cabe-lhe exercer as competências que este nele delegar.
 
-###### Art. 26.º Aos contadores-gerais compete dirigir, coordenar e orientar as actividades das contadorias-gerais como unidades orgânicas de apoio técnico ao Tribunal de Contas.
+Art. 26.º Aos contadores-gerais compete dirigir, coordenar e orientar as actividades das contadorias-gerais como unidades orgânicas de apoio técnico ao Tribunal de Contas.
 
-###### Art. 27.º Ao chefe de divisão do Arquivo-Geral e Biblioteca compete, em geral, dirigir a referida divisão, competindo-lhe especialmente, bem como ao técnico superior de BAD, realizar o estudo do património documental, nomeadamente no que concerne ao fundo histórico, com vista à sua divulgação.
+Art. 27.º Ao chefe de divisão do Arquivo-Geral e Biblioteca compete, em geral, dirigir a referida divisão, competindo-lhe especialmente, bem como ao técnico superior de BAD, realizar o estudo do património documental, nomeadamente no que concerne ao fundo histórico, com vista à sua divulgação.
 
-###### Art. 28.º Ao pessoal técnico superior compete:
+Art. 28.º Ao pessoal técnico superior compete:
 
 a) Exercer as funções de consultor jurídico, económico ou financeiro, de acordo com a sua especialidade;
 
@@ -188,39 +283,39 @@ c) Reverificar os processos de contas de responsabilidade ou o exame de document
 
 d) Desempenhar os serviços que superiormente lhe forem determinados em harmonia com a especialidade das suas funções.
 
-###### Art. 29.º Aos contadores-chefes compete a direcção da contadoria que lhe estiver confiada, em articulação com as outras contadorias, segundo a orientação definida pelo respectivo contador-geral.
+Art. 29.º Aos contadores-chefes compete a direcção da contadoria que lhe estiver confiada, em articulação com as outras contadorias, segundo a orientação definida pelo respectivo contador-geral.
 
-###### Art. 30.º Aos contadores-verificadores compete executar os trabalhos de natureza técnica respeitantes às contadorias em que estiverem colocados.
+Art. 30.º Aos contadores-verificadores compete executar os trabalhos de natureza técnica respeitantes às contadorias em que estiverem colocados.
 
-###### Art. 31.º Aos contadores-verificadores auxiliares compete não só coadjuvar os contadores-verificadores nas suas funções técnicas, como também executar os trabalhos que lhes forem superiormente indicados, de harmonia com as necessidades e conveniência dos serviços.
+Art. 31.º Aos contadores-verificadores auxiliares compete não só coadjuvar os contadores-verificadores nas suas funções técnicas, como também executar os trabalhos que lhes forem superiormente indicados, de harmonia com as necessidades e conveniência dos serviços.
 
-###### Art. 32.º Aos técnicos auxiliares de BAD compete coadjuvar o chefe de divisão do Arquivo-Geral e Biblioteca nas suas funções, de acordo com a orientação por ele definida.
+Art. 32.º Aos técnicos auxiliares de BAD compete coadjuvar o chefe de divisão do Arquivo-Geral e Biblioteca nas suas funções, de acordo com a orientação por ele definida.
 
-###### Art. 33.º Aos auxiliares técnicos de BAD compete executar os trabalhos que lhes forem determinados, nomeadamente os de dactilografia e os de catalogação, indexação e cotação das espécies que constituem os fundos do Arquivo-Geral e Biblioteca.
+Art. 33.º Aos auxiliares técnicos de BAD compete executar os trabalhos que lhes forem determinados, nomeadamente os de dactilografia e os de catalogação, indexação e cotação das espécies que constituem os fundos do Arquivo-Geral e Biblioteca.
 
-###### Art. 34.º Compete ao operador de microfilmagem reproduzir em microfilme os livros e outros documentos que devam ser conservados em arquivo e efectuar a reprodução documental dos elementos conservados em microfilme.
+Art. 34.º Compete ao operador de microfilmagem reproduzir em microfilme os livros e outros documentos que devam ser conservados em arquivo e efectuar a reprodução documental dos elementos conservados em microfilme.
 
-###### Art. 35.º Ao tradutor-correspondente-intérprete compete efectuar traduções e retroversões e, ainda, intervir como intérprete quando superiormente lhe for determinado.
+Art. 35.º Ao tradutor-correspondente-intérprete compete efectuar traduções e retroversões e, ainda, intervir como intérprete quando superiormente lhe for determinado.
 
-###### Art. 36.º Aos escriturários-dactilógrafos compete executar os serviços de natureza administrativa inerentes aos sectores em que estiverem colocados, cabendo-lhes especialmente a execução dos trabalhos dactilográficos.
+Art. 36.º Aos escriturários-dactilógrafos compete executar os serviços de natureza administrativa inerentes aos sectores em que estiverem colocados, cabendo-lhes especialmente a execução dos trabalhos dactilográficos.
 
-###### Art. 37.º Aos auxiliares técnicos administrativos compete a guarda, conservação, catalogação, arrumação, entrada e saída de documentos, contas e processos do Arquivo-Geral e dos arquivos das contadorias a que estão adstritos, bem como quaisquer outros trabalhos auxiliares ordenados pelos seus superiores, de harmonia com as necessidades do serviço.
+Art. 37.º Aos auxiliares técnicos administrativos compete a guarda, conservação, catalogação, arrumação, entrada e saída de documentos, contas e processos do Arquivo-Geral e dos arquivos das contadorias a que estão adstritos, bem como quaisquer outros trabalhos auxiliares ordenados pelos seus superiores, de harmonia com as necessidades do serviço.
 
-###### Art. 38.º Ao encarregado do pessoal auxiliar compete coordenar, distribuir e fiscalizar a actividade do pessoal auxiliar da Direcção-Geral, dando conta ao contador-geral dos serviços administrativos das faltas por este cometidas.
+Art. 38.º Ao encarregado do pessoal auxiliar compete coordenar, distribuir e fiscalizar a actividade do pessoal auxiliar da Direcção-Geral, dando conta ao contador-geral dos serviços administrativos das faltas por este cometidas.
 
-###### Art. 39.º Os restantes funcionários terão as atribuições e a competência que resultam das leis orgânicas do Tribunal de Contas e dos seus serviços.
+Art. 39.º Os restantes funcionários terão as atribuições e a competência que resultam das leis orgânicas do Tribunal de Contas e dos seus serviços.
 
 ### CAPÍTULO II — Disposições gerais e transitórias
 
-###### Art. 40.º - 1 - O cargo de contador-geral é equiparado, para efeito de vencimento, ao de director de serviços.
+Art. 40.º - 1 - O cargo de contador-geral é equiparado, para efeito de vencimento, ao de director de serviços.
 
 2 - O disposto no número anterior tem efeitos a partir da data da entrada em vigor do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953).
 
-###### Art. 41.º - 1 - O director-geral poderá delegar no subdirector-geral, contadores-gerais, chefe de divisão do Arquivo-Geral e Biblioteca e assessores a competência para a prática de actos correntes relativos às funções específicas dos serviços.
+Art. 41.º - 1 - O director-geral poderá delegar no subdirector-geral, contadores-gerais, chefe de divisão do Arquivo-Geral e Biblioteca e assessores a competência para a prática de actos correntes relativos às funções específicas dos serviços.
 
 2 - Para a prática dos referidos actos o director-geral poderá igualmente autorizar a subdelegação nos contadores-gerais e destes nos contadores-chefes.
 
-###### Art. 42.º Os cargos de direcção e chefia serão exercidos, nos casos de vacatura ou falta, ausência ou impedimento dos respectivos titulares, pela seguinte forma:
+Art. 42.º Os cargos de direcção e chefia serão exercidos, nos casos de vacatura ou falta, ausência ou impedimento dos respectivos titulares, pela seguinte forma:
 
 a) O director-geral, pelo subdirector-geral;
 
@@ -234,9 +329,9 @@ e) Os contadores-chefes, pelos contadores-verificadores mais categorizados e, en
 
 f) O encarregado do pessoal auxiliar, por um dos contínuos designados pelo director-geral.
 
-###### Art. 43.º Poderão ser destacados para exercer funções de secretário do presidente do Tribunal e do director-geral funcionários da Direcção-Geral, de categoria não superior a contador-verificador auxiliar principal.
+Art. 43.º Poderão ser destacados para exercer funções de secretário do presidente do Tribunal e do director-geral funcionários da Direcção-Geral, de categoria não superior a contador-verificador auxiliar principal.
 
-###### Art. 44.º - 1 - Para a preparação, aperfeiçoamento e promoção do pessoal, a Direcção-Geral deverá organizar os seguintes cursos, cuja frequência é obrigatória:
+Art. 44.º - 1 - Para a preparação, aperfeiçoamento e promoção do pessoal, a Direcção-Geral deverá organizar os seguintes cursos, cuja frequência é obrigatória:
 
 a) Cursos de promoção destinados a ministrar ao pessoal técnico e técnico auxiliar os conhecimentos adequados com vista à sua promoção;
 
@@ -244,13 +339,13 @@ b) Em colaboração com a Direcção-Geral de Recrutamento e Formação, cursos 
 
 2 - Os cursos poderão ser professados por magistrados do Tribunal de Contas, funcionários da sua Direcção-Geral ou por indivíduos estranhos com especial competência nas matérias a tratar, designados, mediante proposta do presidente, pelo Secretário de Estado das Finanças, que fixará as respectivas remunerações.
 
-###### Art. 45.º - 1 - O sistema de classificação de serviço será o que for fixado na lei geral.
+Art. 45.º - 1 - O sistema de classificação de serviço será o que for fixado na lei geral.
 
 2 - Enquanto não for publicado o sistema referido no número anterior, vigorará transitoriamente o que for aprovado por despacho conjunto dos Secretários de Estado das Finanças e da Reforma Administrativa, mediante proposta do director-geral.
 
-###### Art. 46.º A organização e o funcionamento dos cursos previstos no presente diploma serão objecto de regulamentação a aprovar por portaria conjunta dos Secretários de Estado das Finanças e da Reforma Administrativa.
+Art. 46.º A organização e o funcionamento dos cursos previstos no presente diploma serão objecto de regulamentação a aprovar por portaria conjunta dos Secretários de Estado das Finanças e da Reforma Administrativa.
 
-###### Art. 47.º - 1 - Aos concursos para as categorias de tradutor-correspondente-intérprete, contador-verificador auxiliar e auxiliar técnico de BAD de 2.ª classe aplicam-se, respectivamente, e com as necessárias adaptações, as normas definidas no n.º 5 do artigo 9.º e nas alíneas a) e b) do artigo 13.º do [Decreto Regulamentar n.º 67/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1979-365895), de 24 de Dezembro, bem como os respectivos programas.
+Art. 47.º - 1 - Aos concursos para as categorias de tradutor-correspondente-intérprete, contador-verificador auxiliar e auxiliar técnico de BAD de 2.ª classe aplicam-se, respectivamente, e com as necessárias adaptações, as normas definidas no n.º 5 do artigo 9.º e nas alíneas a) e b) do artigo 13.º do [Decreto Regulamentar n.º 67/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1979-365895), de 24 de Dezembro, bem como os respectivos programas.
 
 2 - O tradutor-correspondente-intérprete, para avaliação do perfeito domínio das línguas francesa e inglesa, prestará provas escritas e orais perante um especialista da respectiva língua, sendo a oral no tempo máximo de quinze minutos.
 
@@ -266,7 +361,7 @@ sendo C. E. a soma da classificação das provas escritas e C. O. a soma da clas
 
 6 - As provas escritas referidas no n.º 2 constarão de uma tradução e de uma retroversão, em francês e inglês, de textos de carácter financeiro, administrativo ou jurídico.
 
-###### Art. 48.º - 1 - A transição do pessoal para o quadro anexo a este diploma, e que actualmente presta serviço na Direcção-Geral do Tribunal de Contas, será feito de acordo com as seguintes regras:
+Art. 48.º - 1 - A transição do pessoal para o quadro anexo a este diploma, e que actualmente presta serviço na Direcção-Geral do Tribunal de Contas, será feito de acordo com as seguintes regras:
 
 a) Em subdirector-geral, o actual contador-geral, que exerce as funções de adjunto do director-geral;
 
@@ -290,38 +385,38 @@ j) O restante pessoal transita para o novo quadro nas categorias que possui.
 
 2 - A transição referida no número anterior será operada nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, com dispensa de quaisquer formalidades, salvo o visto ou anotação do Tribunal de Contas e publicação no Diário da República, a qual dispensa a publicação da portaria a que se refere o artigo 20.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).
 
-###### Art. 49.º Ao pessoal referido nas alíneas b) a e), g) e h) do n.º 1 do artigo anterior ser-lhe-á contado, para todos os efeitos legais, o tempo de serviço efectivamente prestado na anterior categoria ou função.
+Art. 49.º Ao pessoal referido nas alíneas b) a e), g) e h) do n.º 1 do artigo anterior ser-lhe-á contado, para todos os efeitos legais, o tempo de serviço efectivamente prestado na anterior categoria ou função.
 
-###### Art. 50.º - 1 - Os funcionários providos como contadores-verificadores auxiliares de 2.ª classe sem possuírem a habilitação mínima do curso geral do ensino secundário ou equivalente só poderão ter acesso à categoria superior quando a adquirirem.
+Art. 50.º - 1 - Os funcionários providos como contadores-verificadores auxiliares de 2.ª classe sem possuírem a habilitação mínima do curso geral do ensino secundário ou equivalente só poderão ter acesso à categoria superior quando a adquirirem.
 
 2 - Poderão ascender à categoria de contador-verificador de 1.ª classe os funcionários referidos no número anterior que venham a possuir a habilitação mínima do curso complementar do ensino secundário e pelo menos cinco anos de bom e efectivo serviço na categoria de contador-verificador auxiliar principal e tenham obtido aproveitamento nos cursos referidos na alínea a) do n.º 1 do artigo 44.º
 
-###### Art. 51.º Para o provimento dos lugares de contador-chefe que ficarem por preencher após a aplicação da alínea j) do n.º 1 do artigo 48.º é reduzido de um ano o tempo de permanência na categoria anterior.
+Art. 51.º Para o provimento dos lugares de contador-chefe que ficarem por preencher após a aplicação da alínea j) do n.º 1 do artigo 48.º é reduzido de um ano o tempo de permanência na categoria anterior.
 
-###### Art. 52.º Ao pessoal admitido ao abrigo do [Decreto-Lei n.º 100/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1980-299004), de 5 de Maio, que se candidatar ao concurso de ingresso na carreira de contador-verificador (pessoal técnico), é dispensada a frequência do estágio, desde que tenha prestado mais de um ano de bom e efectivo serviço.
+Art. 52.º Ao pessoal admitido ao abrigo do [Decreto-Lei n.º 100/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1980-299004), de 5 de Maio, que se candidatar ao concurso de ingresso na carreira de contador-verificador (pessoal técnico), é dispensada a frequência do estágio, desde que tenha prestado mais de um ano de bom e efectivo serviço.
 
-###### Art. 53.º A validade do concurso realizado para contador-verificador estagiário cessa noventa dias após a entrada em vigor do presente diploma.
+Art. 53.º A validade do concurso realizado para contador-verificador estagiário cessa noventa dias após a entrada em vigor do presente diploma.
 
-###### Art. 54.º O preenchimento das vagas do quadro de pessoal só se efectuará à medida das necessidades dos serviços.
+Art. 54.º O preenchimento das vagas do quadro de pessoal só se efectuará à medida das necessidades dos serviços.
 
-###### Art. 55.º - 1 - É o Ministro as Finanças e do Plano autorizado a tomar providências financeiras indispensáveis à execução deste diploma.
+Art. 55.º - 1 - É o Ministro as Finanças e do Plano autorizado a tomar providências financeiras indispensáveis à execução deste diploma.
 
 2 - No corrente ano, as despesas com as remunerações principais do pessoal resultantes da aplicação do presente diploma poderão ser satisfeitas pelas disponibilidades das verbas destinadas a despesas correntes.
 
-###### Art. 56.º As dúvidas que se suscitarem na interpretação e execução deste diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pela função pública.
+Art. 56.º As dúvidas que se suscitarem na interpretação e execução deste diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pela função pública.
 
-###### Art. 57.º São revogados o n.º 2 do artigo 17.º e os artigos 18.º a 29.º, inclusive, 31.º a 46.º, inclusive, 50.º e 51.º do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março.
+Art. 57.º São revogados o n.º 2 do artigo 17.º e os artigos 18.º a 29.º, inclusive, 31.º a 46.º, inclusive, 50.º e 51.º do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 2 de Outubro de 1980.**
+Promulgado em 2 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO DO PESSOAL
 
 Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23900/34103414.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23900/34103414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23900/34103414.pdf)

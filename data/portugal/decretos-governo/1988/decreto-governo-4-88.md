@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/4-1988-286528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d2a18f031e2ad4e3a00d84d768cf293ff9a8ac3d155205247fac269786fbd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1260855412ed9f365e46ba632ce6fe9d2f7b4519903dd27eea947eb288f84b9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Aproximação das Legislações
+- Convenção
+- Importação
+- Modernização Administrativa
+- Política Pautal
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:30Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +98,27 @@ Considerando o disposto no artigo 395.º do Acto anexo ao Tratado de Adesão:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado, para aceitação, o anexo E.5, relativo à importação temporária com reexportação no seu estado inalterado, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Quioto em 18 de Maio de 1973, cujas versões em línguas francesa e portuguesa se publicam em anexo ao presente decreto, dele fazendo parte integrante.
+Artigo 1.º É aprovado, para aceitação, o anexo E.5, relativo à importação temporária com reexportação no seu estado inalterado, da Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Quioto em 18 de Maio de 1973, cujas versões em línguas francesa e portuguesa se publicam em anexo ao presente decreto, dele fazendo parte integrante.
 
-###### Art. 2.º A aceitação do anexo E.5 fica subordinada às reservas formuladas pelas Comunidades Europeias relativamente às normas 14 e 23 e práticas recomendadas 33, 37 e 38.
+Art. 2.º A aceitação do anexo E.5 fica subordinada às reservas formuladas pelas Comunidades Europeias relativamente às normas 14 e 23 e práticas recomendadas 33, 37 e 38.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 14 de Março de 1988.**
+Assinado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — ANEXO E.5
+## ANEXO
 
-## Anexo relativo à importação temporária com reexportação no seu estado inalterado
+## ANEXO E.5
+
+Anexo relativo à importação temporária com reexportação no seu estado inalterado
 
 Introdução
 

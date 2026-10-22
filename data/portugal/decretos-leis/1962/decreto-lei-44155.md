@@ -49,36 +49,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44155-1962-520184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d1a76a8cf789651eba7244ea6b3026c9d13c65820419c8fa2f6cf326a11d0ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8740e5dbabd47365608655409c64d108a215eed623293db0fded1540c9a88b4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Dívidas
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Execução Fiscal
+- Processo Tributário
+- TAXA Militar
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:35Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +99,15 @@ A justiça de uma tal medida não permite, porém, que ela se limite exclusivame
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São consideradas em falhas ou incobráveis as dívidas de qualquer natureza em execução nos tribunais privativos de 1.ª instância do contencioso das contribuições e impostos ou nos juízos das execuções fiscais das secções de finanças concelhias, bem como as que devessem ser relaxadas ou sujeitas a instauração de processo executivo até à publicação do presente decreto-lei, desde que a importância de cada uma delas não seja superior a 200$00.
+Artigo 1.º São consideradas em falhas ou incobráveis as dívidas de qualquer natureza em execução nos tribunais privativos de 1.ª instância do contencioso das contribuições e impostos ou nos juízos das execuções fiscais das secções de finanças concelhias, bem como as que devessem ser relaxadas ou sujeitas a instauração de processo executivo até à publicação do presente decreto-lei, desde que a importância de cada uma delas não seja superior a 200$00.
 
 § único. A todo o tempo, porém, poderá prosseguir a cobrança se se reconhecer que os responsáveis possuem bens exequíveis suficientes para a solvência da dívida e dos encargos processuais.
 
-###### Art. 2.º As anuidades da taxa militar relativas ao ano de 1961 poderão ainda ser pagas pela taxa simples, em conjunto com as do ano de 1962 e nos prazos normais de cobrança fixados para estas.
+Art. 2.º As anuidades da taxa militar relativas ao ano de 1961 poderão ainda ser pagas pela taxa simples, em conjunto com as do ano de 1962 e nos prazos normais de cobrança fixados para estas.
 
-###### Art. 3.º O Ministro das Finanças expedirá as instruções necessárias à execução deste decreto-lei e decidirá por despacho todas as dúvidas que decorrerem da sua execução.
+Art. 3.º O Ministro das Finanças expedirá as instruções necessárias à execução deste decreto-lei e decidirá por despacho todas as dúvidas que decorrerem da sua execução.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

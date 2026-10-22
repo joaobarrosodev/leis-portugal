@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 189/1972, 1º Suplemento, Série I de 1972-08-14
   number: '189'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1070-(4) a 1070-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/18901/00040005.pdf
 entry_into_force_dates: []
@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1972-605811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14bfe2412780a6e027fbfcf84da3228d3cb042b2f5b59fa8896dfc156f0eb20d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5027f1755bd5320885ad31bea7786da611de82b8081cd7febfd5117d662d6b2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diuturnidades
+- Forças Armadas
+- Militar
+- Músico
+- Oficial do Quadro Permanente
+- Pessoal de Enfermagem
+- Quadro Permanente da Armada
+- Quadro Permanente da Força Aérea
+- Quadro Permanente do Exército
+- Remuneração
+- Sargento
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:407941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407941:por
+  label: "Substituída a tabela constante do nº 1 do art. 6º todos do Dec Lei 49411 de 24-Nov 1969, com a redacção conferida\
+    \ pelo presente diploma, pelo DEC LEI.710/73.31.12.1973.PC, DG.IS [302] de 31.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/710-1973-407941
+  date: '1973-12-31'
+- type: cites
+  target: pt:dre:148460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176302:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:688446:por
+  label: Rectificado pela DECL.DD9653.28.08.1972.PC, DG.IS [200] de 28.08.1972
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1972-688446
+  date: '1972-08-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:34Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +127,7 @@ Considerando os sacrifícios que desde 1961 são exigidos aos militares, nomeada
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os sargentos-ajudantes e primeiros-sargentos e os enfermeiros e músicos equiparados dos quadros permanentes do Exército, da Armada e da Força Aérea, na situação de activo, têm direito ao abono de uma diuturnidade por cada cinco anos de serviço efectivo, a contar da promoção ao posto de primeiro-sargento, até ao máximo de quatro diuturnidades.
+Artigo 1.º - 1. Os sargentos-ajudantes e primeiros-sargentos e os enfermeiros e músicos equiparados dos quadros permanentes do Exército, da Armada e da Força Aérea, na situação de activo, têm direito ao abono de uma diuturnidade por cada cinco anos de serviço efectivo, a contar da promoção ao posto de primeiro-sargento, até ao máximo de quatro diuturnidades.
 
 2. Cada diuturnidade é da importância de 500$00 mensais.
 
@@ -108,15 +139,15 @@ b) Qualquer ano perdido pelo sargento na frequência dos cursos de acesso ao ofi
 
 c) O tempo durante o qual o sargento estiver colocado em classe de comportamento inferior à 2.ª classe.
 
-###### Art. 2.º - 1. Quando promovidos a oficiais, os sargentos e equiparados abrangidos pelo presente decreto-lei terão direito ao vencimento correspondente ao posto a que ascenderem acrescido da quantia necessária para perfazer a importância que antes venciam, quando fosse superior, e mais o equivalente a uma diuturnidade.
+Art. 2.º - 1. Quando promovidos a oficiais, os sargentos e equiparados abrangidos pelo presente decreto-lei terão direito ao vencimento correspondente ao posto a que ascenderem acrescido da quantia necessária para perfazer a importância que antes venciam, quando fosse superior, e mais o equivalente a uma diuturnidade.
 
 2. O disposto no número anterior aplica-se na promoção a alferes ou subtenente e a tenente ou segundo-tenente.
 
-###### Art. 3.º Os aumentos de pré por cada período trienal de readmissão a abonar às praças readmitidas do Exército e da Força Aérea, incluindo as especializadas em pára-quedismo, constantes do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), de 24 de Novembro de 1969, passam a ser os seguintes:
+Art. 3.º Os aumentos de pré por cada período trienal de readmissão a abonar às praças readmitidas do Exército e da Força Aérea, incluindo as especializadas em pára-quedismo, constantes do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), de 24 de Novembro de 1969, passam a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/08/18901/00040005.pdf))](https://files.diariodarepublica.pt/1s/1972/08/18901/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/18901/00040005.pdf)
 
-###### Art. 4.º Às praças dos quadros permanentes da Armada, na situação de activo, que completem cinco anos de serviço efectivo após a data da promoção ao seu posto é concedido um aumento de pré nos seguintes quantitativos mensais:
+Art. 4.º Às praças dos quadros permanentes da Armada, na situação de activo, que completem cinco anos de serviço efectivo após a data da promoção ao seu posto é concedido um aumento de pré nos seguintes quantitativos mensais:
 
 Marinheiros ... 150$00
 
@@ -124,15 +155,15 @@ Cabos ... 250$00
 
 Primeiros-despenseiros (posto a extinguir) ... 300$00
 
-###### Art. 5.º - 1. Os aumentos de vencimentos de que trata este diploma são considerados como fazendo parte dos soldos, ordenados ou prés, conforme os casos, para todos os efeitos, inclusive para o cálculo das pensões de reserva e de reforma.
+Art. 5.º - 1. Os aumentos de vencimentos de que trata este diploma são considerados como fazendo parte dos soldos, ordenados ou prés, conforme os casos, para todos os efeitos, inclusive para o cálculo das pensões de reserva e de reforma.
 
 2. Na actualização das pensões dos militares na situação de reserva em efectividade de serviço apenas serão consideradas as diuturnidades a que hajam adquirido direito até à data da sua passagem à situação de reserva.
 
-###### Art. 6.º As disposições do presente diploma entram em vigor em 1 de Agosto de 1972, devendo os encargos resultantes da sua execução ser suportados pelas disponibilidades das rubricas orçamentais consignadas ao pessoal dos quadros aprovados por lei.
+Art. 6.º As disposições do presente diploma entram em vigor em 1 de Agosto de 1972, devendo os encargos resultantes da sua execução ser suportados pelas disponibilidades das rubricas orçamentais consignadas ao pessoal dos quadros aprovados por lei.
 
-###### Art. 7.º As dúvidas que se suscitem na execução do presente diploma são resolvidas por despacho do Ministro da Defesa Nacional, ouvidos os titulares dos departamentos militares interessados.
+Art. 7.º As dúvidas que se suscitem na execução do presente diploma são resolvidas por despacho do Ministro da Defesa Nacional, ouvidos os titulares dos departamentos militares interessados.
 
-###### Art. 8.º (transitório). À data da entrada em vigor do presente diploma, a atribuição de diuturnidades processar-se-á da forma seguinte:
+Art. 8.º (transitório). À data da entrada em vigor do presente diploma, a atribuição de diuturnidades processar-se-á da forma seguinte:
 
 a) É atribuída desde já uma diuturnidade:
 
@@ -154,10 +185,10 @@ f) Na execução do disposto nas alíneas a), b) e c) deste artigo não é aplic
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 10 de Agosto de 1972.**
+Promulgado em 10 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

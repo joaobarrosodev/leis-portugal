@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01600/01310132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1978-447882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bd892aef8c21b6811d9e013ba85876e6d67bbe6d73385a6ab9afd5129190d41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 014d23487dd9d13ee9ba54c867f4cfa6ad752abc653e642379e3daedf9efff8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Comissão Técnica Interministerial de Planeamento
+- Madeira.região Autónoma
+- Orgânica
+- Planeamento
+- Planeamento Económico
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:07Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +109,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Comissão Técnica Interministerial de Planeamento, criada pelo artigo 1.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e adiante designada por Comissão Técnica, funciona no âmbito do Ministério responsável pelo planeamento.
+Artigo 1.º A Comissão Técnica Interministerial de Planeamento, criada pelo artigo 1.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e adiante designada por Comissão Técnica, funciona no âmbito do Ministério responsável pelo planeamento.
 
-###### Art. 2.º - 1 - A Comissão Técnica é presidida pelo Ministro responsável pelo planeamento e tem a seguinte composição:
+Art. 2.º - 1 - A Comissão Técnica é presidida pelo Ministro responsável pelo planeamento e tem a seguinte composição:
 
 a) Director-geral do Departamento Central de Planeamento;
 
@@ -118,9 +133,9 @@ h) Um representante do Instituto das Participações do Estado, a designar pelo 
 
 3 - A composição da Comissão Técnica poderá ainda incluir representantes de outros organismos que pela sua importância no processo de planeamento sejam para o efeito designados por despacho conjunto do Ministro responsável pelo planeamento e pelo Ministro respectivo.
 
-###### Art. 3.º A Comissão Técnica desempenha as funções de consulta e coordenação técnica da elaboração e execução do Plano que lhe são fixados no artigo 10.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
+Art. 3.º A Comissão Técnica desempenha as funções de consulta e coordenação técnica da elaboração e execução do Plano que lhe são fixados no artigo 10.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
 
-###### Art. 4.º - 1 - A Comissão Técnica pode funcionar em reuniões plenas ou restritas, bem como constituir grupos de trabalho para tarefas específicas.
+Art. 4.º - 1 - A Comissão Técnica pode funcionar em reuniões plenas ou restritas, bem como constituir grupos de trabalho para tarefas específicas.
 
 2 - As reuniões são convocadas pelo presidente, por sua iniciativa ou por proposta de qualquer dos vogais.
 
@@ -134,12 +149,12 @@ h) Um representante do Instituto das Participações do Estado, a designar pelo 
 
 7 - Os vogais da Comissão Técnica e respectivos suplentes têm direito ao abono das despesas de transporte e ajudas de custo, as quais serão suportadas pelos respectivos serviços.
 
-###### Art. 5.º O apoio técnico, administrativo e financeiro da Comissão Técnica é garantido pelo Departamento Central de Planeamento.
+Art. 5.º O apoio técnico, administrativo e financeiro da Comissão Técnica é garantido pelo Departamento Central de Planeamento.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 3 de Janeiro de 1978.**
+Promulgado em 3 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

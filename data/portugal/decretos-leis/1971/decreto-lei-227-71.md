@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1971-643944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f4fe61f2671821a47f365d523a42f17fad9f2f906fdc38611214ec9d38f5841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee7ffa8b3fbb674f941df4245d81f30b5000839d318807b10cb15bf7effdbc14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guarda Fiscal
+- Orçamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:328435:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328435:por
+  label: "Dada nova redacção ao art. 2º pelo DEC LEI.30/85.24.01.1985.MFP, DR.IS [20] de 24.01.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1985-328435
+  date: '1985-01-24'
+- type: cites
+  target: pt:dre:256604:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:643303:por
+  label: "Rectificado o art. 7º pela RECT.DD448.18.06.1971.PC, DG.IS [142] de 18.06.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1971-643303
+  date: '1971-06-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:49Z'
   warnings: []
   errors: []
 ---
@@ -93,42 +110,42 @@ Convindo reunir num só fundo as receitas a despesas que actualmente se encontra
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As receitas arrecadadas pelas unidades e subunidades da Guarda Fiscal dotadas de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outras funções, serão inscritas em orçamento privativo.
+Artigo 1.º - 1. As receitas arrecadadas pelas unidades e subunidades da Guarda Fiscal dotadas de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outras funções, serão inscritas em orçamento privativo.
 
 2. A cobrança das receitas será efectuada de harmonia com as disposições legais aplicáveis.
 
-###### Art. 2.º Os actuais fundos de farmácia, transportes e gabinete de radiologia são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.
+Art. 2.º Os actuais fundos de farmácia, transportes e gabinete de radiologia são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.
 
-###### Art. 3.º - 1. As importâncias provenientes do Orçamento Geral do Estado que se destinam a auxiliar a manutenção de serviços de assistência médica e de hospitalização nas enfermarias da corporação são movimentadas no orçamento do Fundo Privativo, através das correspondentes rubricas consignadas àqueles fins.
+Art. 3.º - 1. As importâncias provenientes do Orçamento Geral do Estado que se destinam a auxiliar a manutenção de serviços de assistência médica e de hospitalização nas enfermarias da corporação são movimentadas no orçamento do Fundo Privativo, através das correspondentes rubricas consignadas àqueles fins.
 
 2. Os excedentes verificados em cada ano económico na aplicação das dotações provenientes do Orçamento Geral do Estado, movimentadas pelos fundos privativos, serão repostos nos cofres do Tesouro pelo Comando-Geral até 14 de Fevereiro seguinte.
 
-###### Art. 4.º - 1. A administração das receitas referidas nos artigos anteriores constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, unidade ou subunidade).
+Art. 4.º - 1. A administração das receitas referidas nos artigos anteriores constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, unidade ou subunidade).
 
 2. Do mesmo orçamento constará o desenvolvimento da despesa, que obedecerá ao preceituado na legislação em vigor para os demais serviços do Estado.
 
-###### Art. 5.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.
+Art. 5.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.
 
 2. Quando se verifique a necessidade de introduzir alterações ao orçamento já aprovado, deverão estas ser efectuadas através de orçamento suplementar, dentro dos limites estabelecidos na lei.
 
-###### Art. 6.º A competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regime especiais estabelecidos para a Guarda Fiscal.
+Art. 6.º A competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regime especiais estabelecidos para a Guarda Fiscal.
 
-###### Art. 7.º Os orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública.
+Art. 7.º Os orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 8.º - 1. A Guarda Fiscal organizará conta de gerência unificada dos fundos privativos com base nas contas a remeter pelos diferentes conselhos administrativos.
+Art. 8.º - 1. A Guarda Fiscal organizará conta de gerência unificada dos fundos privativos com base nas contas a remeter pelos diferentes conselhos administrativos.
 
 2. A conta de gerência unificada está sujeita ao julgamento do Tribunal de Contas.
 
-###### Art. 9.º A Guarda Fiscal expedirá as instruções necessárias à boa execução do presente diploma, depois de aprovadas pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública.
+Art. 9.º A Guarda Fiscal expedirá as instruções necessárias à boa execução do presente diploma, depois de aprovadas pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 10.º O presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes.
+Art. 10.º O presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes.
 
-###### Art. 11.º O presente diploma entra em vigor no próximo ano económico.
+Art. 11.º O presente diploma entra em vigor no próximo ano económico.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 19 de Maio de 1971.**
+Promulgado em 19 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

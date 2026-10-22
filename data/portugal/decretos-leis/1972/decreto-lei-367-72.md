@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1972-691188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19fa58a8afb4c9c3ed731e507a3039f6d162a12eb30f6f34fb5ac734b9eb0e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73b3d5d22e08d19ddfe0b47e0ab1a095b3dec55bc244b0d115cac70f5aeceee4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Centro de Estudos
+- Criação de Serviços
+- Definição de Competências
+- Gestão Financeira
+- Pessoal Docente
+- Subsídio
+- Universidade de Luanda
+relationships:
+- type: cites
+  target: pt:dre:693413:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:56Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Centro de Estudos de Engenharia de Minas e de Geologia, anexo à Universidade de Luanda.
+Artigo 1.º É criado o Centro de Estudos de Engenharia de Minas e de Geologia, anexo à Universidade de Luanda.
 
-###### Art. 2.º São atribuições do Centro de Estudos de Engenharia de Minas e de Geologia:
+Art. 2.º São atribuições do Centro de Estudos de Engenharia de Minas e de Geologia:
 
 a) Realizar trabalhos de investigação, principalmente aplicada aos domínios da engenharia de minas e da geologia, de relevante interesse para a indústria mineira de Angola;
 
@@ -110,7 +122,7 @@ f) Apoiar a indústria mineira nacional, nomeadamente a de Angola, e os organism
 
 g) Actuar, quando tal se mostrar conveniente, como organismo consultor oficial nos domínios da engenharia de minas e da geologia.
 
-###### Art. 3.º Constituem receitas do Centro de Estudos de Engenharia de Minas e de Geologia:
+Art. 3.º Constituem receitas do Centro de Estudos de Engenharia de Minas e de Geologia:
 
 a) As dotações que, como subsídios, lhe forem consignadas nos orçamentos das províncias ultramarinas;
 
@@ -118,22 +130,22 @@ b) Os demais subsídios que lhe forem concedidos por outras entidades públicas 
 
 c) Outras receitas atribuídas por lei, por contrato ou por diverso título, incluindo as resultantes de comparticipação em projectos de investigação comuns a Universidades ou institutos metropolitanos.
 
-###### Art. 4.º O Centro de Estudos de Engenharia de Minas e de Geologia utilizará o equipamento dos laboratórios e oficinas da Universidade de Luanda que for adequado ao desempenho das suas atribuições, na medida em que tal utilização não prejudicar as actividades pedagógicas e de investigação associada que constituem os objectivos primordiais de tais laboratórios e oficinas.
+Art. 4.º O Centro de Estudos de Engenharia de Minas e de Geologia utilizará o equipamento dos laboratórios e oficinas da Universidade de Luanda que for adequado ao desempenho das suas atribuições, na medida em que tal utilização não prejudicar as actividades pedagógicas e de investigação associada que constituem os objectivos primordiais de tais laboratórios e oficinas.
 
-###### Art. 5.º - 1. O pessoal do Centro será retribuído de acordo com as tarefas a realizar, podendo caber-lhe também participação nas receitas a que se refere a alínea c) do artigo 3.º, nos termos que vierem a ser fixados por despacho do Ministro do Ultramar.
+Art. 5.º - 1. O pessoal do Centro será retribuído de acordo com as tarefas a realizar, podendo caber-lhe também participação nas receitas a que se refere a alínea c) do artigo 3.º, nos termos que vierem a ser fixados por despacho do Ministro do Ultramar.
 
 2. O subsídio a que se refere o § 2.º do artigo 12.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963, não é acumulável com a remuneração a que o pessoal docente da Universidade de Luanda tiver direito por serviços prestados no Centro.
 
-###### Art. 6.º O director do Centro de Estudos de Engenharia de Minas e de Geologia será nomeado por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, sob proposta do reitor.
+Art. 6.º O director do Centro de Estudos de Engenharia de Minas e de Geologia será nomeado por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, sob proposta do reitor.
 
-###### Art. 7.º A aprovação das contas anuais do Centro de Estudos de Engenharia de Minas e de Geologia é da competência do conselho administrativo da Universidade de Luanda.
+Art. 7.º A aprovação das contas anuais do Centro de Estudos de Engenharia de Minas e de Geologia é da competência do conselho administrativo da Universidade de Luanda.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Veiga Simão.
 
-**Promulgado em 21 de Setembro de 1972.**
+Promulgado em 21 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

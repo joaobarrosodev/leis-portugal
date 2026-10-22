@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21800/28262826.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1980-460631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb225b876345238dfeb2cc6dd4a3de17fe5826824d1f7461413e4deea79aa86b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11166d92e2c20a57d5b519e2ee84f18a0bd910d699245fcf1cc7b250c50d9239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Exército
+- Extinção de Serviços
+- Instalação Militar
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178112:por
+  label: "Extinto o Centro de Instrução de Polícia do Exército, pelo DEC LEI.419/85.22.10.1985.MDN, DR.IS [243] de 22.10.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/419-1985-178112
+  date: '1985-10-22'
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: Revogado pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993, que o mantém, contudo, transitoriamente em
+    vigor, nos termos do seu art. 32º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:54Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +109,7 @@ Considerando a necessidade de regularizar as alterações já verificadas no âm
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º São extintas as seguintes unidades e estabelecimentos militares:
+Artigo 1.º São extintas as seguintes unidades e estabelecimentos militares:
 
 Destacamento de Viana do Castelo do Regimento de Infantaria de Braga (RIBVC), sediado em Viana do Castelo, em 31 de Dezembro de 1977;
 
@@ -114,16 +131,16 @@ Destacamento de Espinho do Regimento de Cavalaria do Porto (RCPOE), sediado em E
 
 Batalhão de Infantaria da Guarda (BIG), sediado na Guarda, em 31 de Dezembro de 1979.
 
-###### Art. 2.º É criado, a título provisório, em 1 de Maio de 1979, nas instalações do ex-BIP, um centro de instrução destinado à formação de praças especialistas de polícia do Exército, o qual é designado por Centro de Instrução de Polícia do Exército (CIPE).
+Art. 2.º É criado, a título provisório, em 1 de Maio de 1979, nas instalações do ex-BIP, um centro de instrução destinado à formação de praças especialistas de polícia do Exército, o qual é designado por Centro de Instrução de Polícia do Exército (CIPE).
 
-###### Art. 3.º O Depósito de Indisponíveis (DI), sediado em Lisboa, é transformado numa unidade tipo batalhão, em 1 de Julho de 1979, com a designação de Batalhão do Serviço Geral do Exército (BSGE).
+Art. 3.º O Depósito de Indisponíveis (DI), sediado em Lisboa, é transformado numa unidade tipo batalhão, em 1 de Julho de 1979, com a designação de Batalhão do Serviço Geral do Exército (BSGE).
 
-###### Art. 4.º É transferido para Braga, em 30 de Julho de 1979, o Regimento de Cavalaria do Porto (RCPO), passando a ser designado por Regimento de Cavalaria de Braga (RCB).
+Art. 4.º É transferido para Braga, em 30 de Julho de 1979, o Regimento de Cavalaria do Porto (RCPO), passando a ser designado por Regimento de Cavalaria de Braga (RCB).
 
 Visto e aprovado em Conselho da Revolução em 20 de Agosto de 1980.
 
-**Promulgado em 10 de Setembro de 1980.**
+Promulgado em 10 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

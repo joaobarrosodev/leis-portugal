@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 127/1966, 1º Suplemento, Série I de 1966-05-31
   number: '127'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 857 - 1047
   pdf_url: https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf
 entry_into_force_dates: []
@@ -46,36 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47035-1966-583198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:57:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 627f8606b0924aef4d1c55771fab1c77d6b8279fe3e71726faa0307f76db277b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 187d863d31a55d6b198d5ba57a712045b46de93529a024982475e5f224ab2f12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:57:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Transporte
+- Argentina
+- Austrália
+- Bélgica
+- Brasil
+- Bulgária
+- Camarões
+- Canadá
+- Checoslováquia
+- China
+- Convenção
+- Coreia do SUL
+- Cuba
+- Dinamarca
+- Embarcação
+- Espanha
+- EUA
+- Filipinas
+- Finlândia
+- Fiscalização
+- França
+- Grécia
+- Hungria
+- Índia
+- Irlanda
+- Islândia
+- Israel
+- Japão
+- Jugoslávia
+- Libéria
+- Londres
+- México
+- Navegação Marítima
+- Noruega
+- Nova Zelândia
+- Países Baixos
+- Panamá
+- Paquistão
+- PERU
+- Polónia
+- Portugal
+- Reino Unido
+- República Dominicana
+- RFA
+- Salvaguarda da VIDA Humana no MAR
+- Segurança das Embarcações
+- Suécia
+- Suíça
+- Transporte Marítimo
+- URSS
+- Venezuela
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:57:20Z'
   warnings: []
   errors: []
 ---
@@ -84,7 +135,7 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada para ratificação a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Publique se e cumpra-se como nele se contém.
 
@@ -150,7 +201,7 @@ Son Excellence M. Miroslav Galuska, Ambassadeur extraordinaire et Plénipotentia
 
 Le Gouvernement du Royaume du Danemark:
 
-M. [([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf) Worm, Directeur des Services de la Marine Marchande, Ministère Royal du Commerce.
+M. [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf) Worm, Directeur des Services de la Marine Marchande, Ministère Royal du Commerce.
 
 M. Anders Bache, Sous-Chef de Section, Ministère Royal du Commerce.
 
@@ -328,7 +379,7 @@ Le Capitaine Armando de Pedraza Pereira, Attaché naval près l'Ambassade du Ven
 
 Le Gouvernement de la République populaire fédérative de Yougoslavie;
 
-M. Ljubisa [([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf), Secrétaire adjoint du Conseil Fédéral des Transports et des Communications.
+M. Ljubisa [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf), Secrétaire adjoint du Conseil Fédéral des Transports et des Communications.
 
 Qui, après avoir communiqué leurs pleins pouvoirs trouvés en bonne et due forme, sont convenus des dispositions suivantes:
 
@@ -1638,7 +1689,7 @@ Installations d'assèchement sur les navires à passagers
 
 (ii) Le tableau ci-dessous donne le nombre de pompes exigible:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 (iii) Les pompes sanitaires, les pompes de ballast ou de service peuvent être considérées comme des pompes d'assèchement indépendantes si elles sont pourvues des liaisons nécessaires avec le réseau du tuyautage d'assèchement.
 
@@ -1670,11 +1721,11 @@ Installations d'assèchement sur les navires à passagers
 
 (i) Le diamètre du collecteur principal doit être calculé à partir de la formule suivante, étant entendu que le diamètre intérieur réel du collecteur principal peut avoir une des valeurs normalisées les plus proches jugées acceptables par l'administration:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 ou
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Le diamètre des dérivations doit être déterminé au moyen de règles à établir par l'administration.
 
@@ -2426,7 +2477,7 @@ Lorsqu'un raccord international de jonction avec la terre est prescrit à bord d
 
 Raccord international de jonction avec la terre (coté navire)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Diamètre extérieur: 178 mm (7 pouces);
 
@@ -3440,7 +3491,7 @@ Le tableau ci-après fixe en fonction de la longueur du navire:
 
 (C) La capacité minimum requise pour les embarcations de sauvetage effectuant des voyages internationaux courts.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Règle 29
 
@@ -3514,7 +3565,7 @@ Canotiers brevetés
 
 (a) Sur tout navire à passagers il doit y avoir pour chaque embarcation, mise à bord conformément aux prescriptions du présent chapitre, un nombre de canotiers au moins égal à celui qui est prévu au tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 (b) La désignation pour chaque embarcation de sauvetage des canotiers brevetés est laissée à la discrétion du capitaine.
 
@@ -3550,7 +3601,7 @@ Nombre de bouées de sauvetage
 
 Le nombre minimum de bouées de sauvetage dont il faut munir les navires à passagers est fixé par le tableau suivant:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Partie C. - Navires de charge seulement
 
@@ -3790,11 +3841,11 @@ Si l'aérien principal est suspendu entre des supports sujets à des vibrations,
 
 (g) L'émetteur principal et l'émetteur de réserve doivent, lorsqu'ils sont connectés à l'aérien principal, avoir une portée normale minimale telle qu'elle est spécifiée ci-dessous, c'est-à-dire qu'ils doivent pouvoir transmettre des signaux clairement perceptibles de navire à navire aux distances spécifiées, de jour et dans des conditions et circonstances normales (ver nota 1). (Des signaux clairement perceptibles doivent normalement pouvoir être reçus si la valeur efficace de l'intensité de champ au récepteur est au moins de 50 (mi)V par mètre):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 (nota 1) En l'absence d'une mesure directe de l'intensité de champ, les données suivantes peuvent servir de guide pour déterminer approximativement la portée normale:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 (h) (i) Le récepteur principal et le récepteur de réserve doivent pouvoir recevoir sur la fréquence radiotélégraphique de détresse et dans la classe d'émission assignée par le Règlement des Radiocommunications pour cette fréquence;
 
@@ -4310,17 +4361,17 @@ Les signaux suivants doivent être employés par les stations ou par les unités
 
 (a) Réponses des stations ou unités maritimes de sauvetage aux signaux de détresse émis par un navire ou une personne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Si nécessaire, les signaux de jour peuvent également être émis la nuit et les signaux de nuit être émis le jour.
 
 (b) Signaux de débarquement destinés à guider les embarcations transportant des équipages ou des personnes en détresse:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 (c) Signaux à employer en liaison avec l'utilisation d'engins de sauvetage ayant leur base sur la côte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 (d) Signaux utilisés par les avions effectuant des opérations de recherche et de sauvetage pour guider les navires vers un avion, un navire ou une personne en détresse. (Voir note explicative ci-après.)
 
@@ -4730,7 +4781,7 @@ Accidents
 
 Au cas où se produirait un accident quelconque de nature à créer un danger pour le milieu entourant le navire, le capitaine d'un navire nucléaire doit en informer immédiatement l'administration. Le capitaine doit également aviser immédiatement les administrations compétentes de tout pays dans les eaux duquel le navire se trouve ou pénètre en état d'avarie.
 
-## APENDICE
+APENDICE
 
 Modèle de certificat de sécurité pour navires à passagers
 
@@ -4740,7 +4791,7 @@ Pour un/un court Voyage international
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que la navire susvisé a été dûment visité conformément aux dispositions de la Convention International précitée.
 
@@ -4752,7 +4803,7 @@ II. Qu'à la suite de cette visite, il a été constaté que le navire satisfait
 
 (3) Les lignes de charge de compartimentage suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 III. Que les engins de sauvetage sont suffisants pour un nombre total maximum de ... personnes, à savoir:
 
@@ -4774,7 +4825,7 @@ V. Que le navire est muni d'un appareil lance-amarre et d'un appareil portatif d
 
 VI. Que le navire répond aux prescriptions des règles en ce qui concerne les installations radiotélégraphiques, à savoir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 VII. Que les installations radiotélégraphiques pour embarcations de sauvetage à moteurs et/ou, le cas échéant, l'appareil portatif de radio pour embarcations et radeaux de sauvetage, fonctionnent conformément aux dispositions des règles.
 
@@ -4812,7 +4863,7 @@ CERTIFICAT DE SÉCURITÉ DE CONSTRUCTION POUR NAVIRE DE CHARGE
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Que le navire susvisé a été dûment visité, conformément aux dispositions de la règle 10 du chapitre I de la Convention mentionnée ci-dessus, et qu'à la suite de cette visite il a été constaté que l'état de la coque, des machines et de l'armement tels qu'ils sont définis dans la règle suscitée est satisfaisant sous tous les rapports et que le navire est conforme aux prescriptions applicables du chapitre II (autres que celles qui se rapportent aux appareils extincteurs d'incendie aux plans de lutte contre l'in cendre).
 
@@ -4844,7 +4895,7 @@ CERTIFICAT DE SÉCURITÉ DU MATÉRIEL D'ARMEMENT POUR NAVIRE DE CHARGE
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que le navire susvisé a été dûment visité conformément aux dispositions de la Convention précitée.
 
@@ -4900,11 +4951,11 @@ CERTIFICAT DE SÉCURITÉ RADIOTÉLEPHONIQUE POUR NAVIRE DE CHARGE
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que le navire susvisé satisfait aux dispositions des règles annexées à la Convention internationale précitée en ce qui concerne la radiotéléphonie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 II. Que, le cas échéant, l'équipement de radio portatif, pour embarcations et radeaux de sauvetage satisfait aux dispositions des dites règles.
 
@@ -4936,11 +4987,11 @@ CERTIFICAT DE SÉCURITÉ RADIOTÉLÉGRAPHIQUE POUR NAVIRE DE CHARGE
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que le navire susvisé satisfait aux dispositions des règles annexées à la Convention précitée en ce qui concerne la radiotélégraphie:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 II. Que les installations radiotélégraphiques pour embarcations de sauvetage à moteur et/ou le cas échéant l'appareil de radio portatif pour embarcations et radeaux de sauvetage fonctionnent conformément aux dispositions des présentes règles.
 
@@ -4972,7 +5023,7 @@ CERTIFICAT D'EXEMPTION
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Que le navire susvisé est exempté, en vertu de la règle ... chapitre ... des règles annexées à la Convention précitée, de l'application des prescriptions de (ver nota a) ... de la Convention pour les voyages de ... à ...
 
@@ -5006,7 +5057,7 @@ CERTIFICAT DE SÉCURITÉ POUR NAVIRE NUCLÉAIRE (NAVIRE À PASSAGERS)
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que le navire susvisé a été dûment visité conformément aux dispositions de la Convention précitée.
 
@@ -5020,7 +5071,7 @@ III. Qu'à la suite de la visite, il a été constaté que le navire satisfait a
 
 (3) les lignes de charge de compartimentage suivantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 IV. Que les engins de sauvetage sont suffisants pour un nombre total maximum de ... personnes, à savoir:
 
@@ -5040,7 +5091,7 @@ VI. Que le navire est muni d'un appareil lance-amarre et d'une installation radi
 
 VII. Que le navire répond aux prescriptions des règles en ce qui concerne les installations radiotélégraphiques, à savoir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 VIII. Que les installations radiotélégraphiques pour les embarcations de sauvetage à moteur et/ou, le cas échéant, l'appareil portatif de radio pour embarcations et radeaux de sauvetage fonctionnent conformément aux dispositions des règles.
 
@@ -5078,7 +5129,7 @@ CERTIFICAT DE SÉCURITÉ POUR NAVIRE NUCLÉAIRE (NAVIRE DE CHARGE)
 
 Délivré en vertu des dispositions de la Convention Internationale pour la Sauvegarde de la Vie Humaine en Mer, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que le navire susvisé a été dûment visité conformément aux dispositions de la Convention précitée.
 
@@ -5108,7 +5159,7 @@ VI. Que le navire est muni d'un appareil lance-amarre et d'un appareil portatif 
 
 VII. Que le navire répond aux prescriptions des règles en ce qui concerne les installations radiotélégraphiques, à savoir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 VIII. Que les installations radiotélégraphiques pour les embarcations de sauvetage à moteur et/ou, le cas échéant, l'appareil portatif de radio pour embarcations et radeaux de sauvetage fonctionnent conformément aux dispositions des règles.
 
@@ -5140,7 +5191,7 @@ Convenção internacional para a salvaguarda da vida humana no mar, 1960
 
 (Tradução)
 
-## ANEXO A
+ANEXO A
 
 Os Governos da República Argentina, da Comunidade da Austrália, do Reino da Bélgica, dos Estados Unidos do Brasil, da República Popular da Bulgária, dos Camarões, do Canadá, da República da China, da República de Cuba, da República Checoslovaca, do Reino da Dinamarca, da República Dominicana, da República da Finlândia, da República Francesa, da República Federal Alemã, do Reino da Grécia, da República Popular Húngara, da República da Islândia, da República da Índia, da Irlanda, do Estado de Israel, da República Italiana, do Japão, da República da Coreia, do Koweit, da República da Libéria, dos Estados Unidos do México, do Reino da Holanda, da Nova Zelândia, do Reino da Noruega, do Paquistão, da República do Panamá, da República do Peru, da República das Filipinas, da República Popular Polaca, da República Portuguesa, do Estado Espanhol, do Reino da Suécia, da Confederação Suíça, da União das Repúblicas Socialistas Soviéticas, da República Árabe Unida, do Reino Unido da Grã-Bretanha e Irlanda do Norte, dos Estados Unidos da América, da República da Venezuela e da República Federativa Popular da Jugoslávia, desejando estabelecer de comum acordo regras e princípios uniformes com o fim de salvaguardarem a vida humana no mar:
 
@@ -5834,9 +5885,11 @@ Ljubisa Veselinovic.
 
 REGRAS
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-# Parte A - Aplicação, definições, etc.
+Disposições gerais
+
+Parte A - Aplicação, definições, etc.
 
 Regra 1
 
@@ -5916,7 +5969,7 @@ a) Quando as presentes regras prescrevam que sejam instalados ou existam a bordo
 
 b) Qualquer administração que autorize nesses termos a substituição de uma instalação, material, dispositivo ou aparelho, ou dos seus tipos ou disposições, deve comunicar as suas características à Organização, com um relatório das experiências que tiverem sido feitas e a Organização dará dele conhecimento aos outros Governos contratantes para informação dos seus funcionários.
 
-# Parte B - Vistorias e certificados
+Parte B - Vistorias e certificados
 
 Regra 6
 
@@ -6062,7 +6115,7 @@ Benefício da Convenção
 
 Navio algum que não possua os certificados exigidos e válidos pode reclamar o benefício da presente Convenção.
 
-# Parte C - Acidentes
+Parte C - Acidentes
 
 Regra 21
 
@@ -6074,7 +6127,7 @@ b) Cada Governo contratante compromete-se a fornecer à Organização todas as i
 
 ### CAPÍTULO II — Construção
 
-# Parte A - Generalidades
+Parte A - Generalidades
 
 Regra 1
 
@@ -6134,7 +6187,7 @@ Para fins de aplicações das disposições das regras 4 e 5 deste capítulo os 
 
 j) Em qualquer caso os volumes e as superfícies serão calculados na ossada.
 
-# Parte B - Compartimentagem e estabilidade
+Parte B - Compartimentagem e estabilidade
 
 (A parte B aplica-se sòmente a navios de passageiros, salvo a regra 19, que se aplica também a navios de carga).
 
@@ -6712,7 +6765,7 @@ b) - i) Os navios devem ser providos, pelo menos, de três bombas movidas mecân
 
 ii) O quadro a seguir indica o número de bombas exigível:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 iii) As bombas de serviço sanitário, as bombas de lastro e de serviço geral podem ser aceites como bombas de esgoto independentes quando tiverem as necessárias ligações com os encanamentos de esgoto.
 
@@ -6746,11 +6799,11 @@ ii) Tanto no interior como debaixo dos paióis de carvão e dos tanques de combu
 
 i) O diâmetro do colector principal de esgoto deve ser calculado pelas fórmulas seguintes, podendo o diâmetro interior real do colector ter o valor normalizado mais próximo julgado aceitável pela Administração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 ou:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 O diâmetro das derivações será determinado por meio de regras a estabelecer pela Administração.
 
@@ -6806,7 +6859,7 @@ b) As portas estanques de charneira, chapas desmontáveis, vigias, portalós, re
 
 c) No diário de bordo devem ser registados todos os exercícios e inspecções exigidos pela regra 21, com indicação expressa de todos os defeitos observados.
 
-# Parte C - Máquinas e instalações eléctricas
+Parte C - Máquinas e instalações eléctricas
 
 (Esta parte aplica-se aos navios de passageiras e aos navios de carga).
 
@@ -7040,7 +7093,7 @@ Comunicação entre a ponte e a casa das máquinas
 
 Todos os navios devem ter dois meios de comunicação de ordens da ponte para a casa das máquinas. Um dos meios deve ser constituído por um telégrafo de máquina.
 
-# Parte D - Protecção contra incêndios
+Parte D - Protecção contra incêndios
 
 (Na parte D, as regras 34 a 52 aplicam-se aos navios de passageiros que transportem mais de 36 passageiros; as regras 35 e 53 aplicam-se aos navios de passageiros que não transportem mais de 36 passageiros; as regras 35 e 54 aplicam-se aos navios de carga de arqueação bruta igual ou superior a 4000 t).
 
@@ -7452,7 +7505,7 @@ i) Não se empregarão películas de base de celulose nos aparelhos cinematográ
 
 j) A ventilação mecânica das casas das máquinas deve poder ser interrompida de um ponto fàcilmente acessível, situado fora dessas casas.
 
-# Parte E - Detecção e extinção de incêndios em navios de passageiros e em navios de carga
+Parte E - Detecção e extinção de incêndios em navios de passageiros e em navios de carga
 
 (A parte E aplica-se a navios de passageiros e navios de carga, excepto as regras 59 e 64, que são aplicáveis apenas a navios de passageiros, e a regra 65, que apenas é aplicável a navios de carga).
 
@@ -7552,7 +7605,7 @@ A união internacional de ligação à terra, prescrita no parágrafo d) da regr
 
 União internacional de ligação à terra (lado navio)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Diâmetro exterior: 178 mm (7 polegadas);
 
@@ -7884,7 +7937,7 @@ Equivalências
 
 Sempre que é indicado, nesta parte do presente capítulo, um tipo especial de aparelho, agente extintor, ou instalação, pode ser autorizado o uso de outro tipo de aparelho, etc., desde que a administração verifique que a sua eficácia não é inferior.
 
-# Parte F - Prescrições gerais contra incêndios
+Parte F - Prescrições gerais contra incêndios
 
 (A parte F é aplicável aos navios de passageiros e aos navios de carga).
 
@@ -7942,11 +7995,11 @@ Aplicação
 
 a) Este capítulo, excepto nos casos em que estiver determinado de outro modo, aplica-se como segue aos navios novos que fazem viagens internacionais:
 
-# Parte A - Navios de passageiros e navios de carga;
+Parte A - Navios de passageiros e navios de carga;
 
-# Parte B - Navios de passageiros;
+Parte B - Navios de passageiros;
 
-# Parte C - Navios de carga.
+Parte C - Navios de carga.
 
 b) No caso de navios existentes que façam viagens internacionais e que não satisfaçam já as determinações deste capítulo relativas aos navios novos, a administração determinará quais as disposições que devem ser tomadas com o fim de assegurar, tanto quanto seja prático e razoável e o mais cedo possível, que as exigências deste capítulo sejam substancialmente respeitadas. A disposição do segundo parágrafo da alínea b)-i) da regra 27 deste capítulo não se aplicará, contudo, aos navios existentes, a não ser que:
 
@@ -7956,7 +8009,7 @@ ii) As jangadas transportadas de acordo com as disposições do parágrafo b) da
 
 iii) O número total de pessoas a bordo não seja aumentado como consequência da utilização de jangadas pneumáticas.
 
-# Parte A - Disposições gerais
+Parte A - Disposições gerais
 
 (A parte A aplica-se tanto a navios de passageiros como a navios de carga).
 
@@ -8542,7 +8595,7 @@ c) Devem ser utilizados sucessivamente grupos diferentes de embarcações salva-
 
 d) O sinal de alarme para a chamada dos passageiros aos postos de reunião compõe-se de uma série de sete ou mais silvos curtos seguidos de um silvo longo emitidos quer pelo apito, quer pela sereia. Nos navios de passageiros, com excepção dos navios afectos a viagens internacionais curtas, este sinal deve ser completado por outros sinais produzidos elèctricamente em todo o navio e comandados da ponte de navegação. A significação de todos os sinais que interessam aos passageiros, com instruções precisas sobre o que deverão fazer em caso de emergência, deve ser claramente indicada, em línguas apropriadas, nos avisos afixados nos camarotes e outros lugares bem visíveis nos locais destinados a uso dos passageiros.
 
-# Parte B - Aplicável sòmente a navios de passageiros
+Parte B - Aplicável sòmente a navios de passageiros
 
 Regra 27
 
@@ -8594,7 +8647,7 @@ B) O número reduzido de pares de turcos que pode ser autorizado excepcionalment
 
 C) A capacidade mínima exigida para as embarcações salva-vidas em navios que efectuam viagens internacionais curtas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Regra 29
 
@@ -8670,7 +8723,7 @@ Tripulantes encartados para embarcações salva-vidas
 
 a) Nos navios de passageiros deve haver, para cada embarcação salva-vidas existente a bordo em satisfação do estabelecido neste capítulo, um número de «tripulantes encartados» pelo menos igual ao que indica a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 b) A distribuição dos «tripulantes encartados» pelas embarcações salva-vidas é das atribuições do capitão.
 
@@ -8706,9 +8759,9 @@ Número de bóias de salvação
 
 O número mínimo de bóias de salvação que deve ter um navio de passageiros é fixado pela tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
-# Parte C - Aplicável sòmente a navios de carga
+Parte C - Aplicável sòmente a navios de carga
 
 Regra 35
 
@@ -8798,7 +8851,7 @@ A iluminação prescrita nas alíneas a)-ii), b)-ii) e b)-iii) da regra 19 do pr
 
 ### CAPÍTULO IV — Radiotelegrafia e radiotelefonia
 
-# Parte A - Aplicação e definições
+Parte A - Aplicação e definições
 
 Regra 1
 
@@ -8856,7 +8909,7 @@ b) As isenções autorizadas pelo parágrafo a) da presente regra só podem ser 
 
 c) Cada administração deve submeter à Organização, logo que possível após o primeiro dia de Janeiro de cada ano, um relatório indicando todas as isenções concedidas em virtude dos parágrafos a) e b) da presente regra no decurso do ano civil precedente e dando os motivos destas isenções.
 
-# Parte B - Escuta
+Parte B - Escuta
 
 Regra 6
 
@@ -8896,7 +8949,7 @@ ii) Quando, na opinião do capitão, a situação é tal que a manutenção da e
 
 A escuta deve, contudo, tanto quanto possível, ser mantida durante os períodos de silêncio especificados no Regulamento das Radiocomunicações.
 
-# Parte C - Condições técnicas exigidas
+Parte C - Condições técnicas exigidas
 
 Regra 8
 
@@ -8950,11 +9003,11 @@ f) O transmissor principal e o transmissor de reserva devem, se a emissão modul
 
 g) O transmissor principal e o transmissor de reserva devem, quando ligados à antena principal, ter um alcance mínimo normal como é especificado na tabela abaixo, isto é, devem ser capazes de transmitir sinais claramente perceptíveis de navio para navio de dia e em condições e circunstâncias normais às distâncias especificadas (ver nota 1) (sinais claramente perceptíveis devem normalmente ser recebidos se o valor eficaz da intensidade de campo no receptor for, pelo menos, de 50 (mi)V por metro):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 (nota 1) Na falta da medida directa de intensidade de campo, os dados seguintes podem servir de guia para determinar aproximadamente o alcance normal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 h) - i) O receptor principal e o receptor de reserva devem poder receber na frequência radiotelegráfica de socorro e na classe de emissão determinada pelo Regulamento das Radiocomunicações para esta frequência;
 
@@ -9196,7 +9249,7 @@ l) Enquanto o navio estiver no mar, as baterias existentes devem ser mantidas ca
 
 m) Deve existir uma antena convenientemente instalada, a qual, se for suspensa entre suportes, sujeitos a vibração, deverá ser protegida contra ruptura no caso de navios de arqueação bruta igual ou superior a 500 t, mas inferior a 1600 t. Além disso, deve haver uma antena sobresselente completamente preparada para substituição imediata ou, quando isto não for possível, cabo de antena e isoladores para permitir a instalação conveniente. Devem igualmente existir as ferramentas necessárias para essa montagem.
 
-# Parte D - Registos de radiocomunicações
+Parte D - Registos de radiocomunicações
 
 Regra 16
 
@@ -9464,17 +9517,17 @@ Os sinais que se seguem são os que devem ser utilizados.
 
 a) Resposta das estações ou unidades marítimas de salvamento aos sinais de perigo emitidos por um navio ou uma pessoa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Se for necessário, os sinais de dia podem ser feitos de noite e vice-versa.
 
 b) Sinais de desembarque destinados a orientar as embarcações que transportem tripulações ou pessoas em perigo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 c) Sinais a empregar em ligação com o uso dos meios de salvação instalados na costa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 d) Sinais usados pelas aeronaves que efectuam operações de busca e salvamento para orientar os navios em direcção a uma aeronave, um navio ou uma pessoa em perigo (ver nota no final desta Regra):
 
@@ -9902,7 +9955,7 @@ O Governo uma/uma curta viagem internacional
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que o navio acima mencionado foi devidamente vistoriado de acordo com as disposições da Convenção acima citada.
 
@@ -9914,7 +9967,7 @@ II. Que a vistoria mostrou que o navio satisfaz às exigências das regras anexa
 
 3) às linhas de carga de compartimentagem seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 III. Que os meios de salvação são suficientes para um número total máximo de ... pessoas, a saber:
 
@@ -9936,7 +9989,7 @@ V. Que o navio está munido de um aparelho lança-cabos e de um aparelho radioel
 
 VI. Que o navio obedece às prescrições das regras no que diz respeito às instalações radiotelegráficas, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 VII. Que as instalações radiotelegráficas das embarcações salva-vidas com motor e ou o aparelho radioeléctrico portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das regras.
 
@@ -9974,7 +10027,7 @@ CERTIFICADO DE SEGURANÇA DE CONSTRUÇÃO DE NAVIO DE CARGA
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Que o navio acima mencionado foi devidamente vistoriado, conforme as disposições da regra 10 do capítulo I da Convenção acima citada, e que nessa vistoria foi verificado que o estado do casco, das máquinas e do equipamento, como definido na referida regra, é satisfatório sob todos os aspectos e que o navio está conforme as prescrições aplicáveis do capítulo II (com excepção das que se referem aos dispositivos extintores de incêndio e aos planos de combate a incêndios).
 
@@ -10006,7 +10059,7 @@ CERTIFICADO DE SEGURANÇA DO EQUIPAMENTO DE NAVIO DE CARGA
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que o navio acima mencionado foi devidamente vistoriado de, acordo com as disposições da Convenção acima citada.
 
@@ -10062,11 +10115,11 @@ CERTIFICADO DE SEGURANÇA DA RADIOTELEFONIA DE NAVIO DE CARGA
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que o navio acima mencionado obedece às prescrições das regras anexas à Convenção acima citada no que diz respeito à radiotelefonia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 II. Que o funcionamento do aparelho radioeléctrico portátil para embarcações e jangadas salva-vidas, se existir, satisfaz às disposições das referidas regras.
 
@@ -10096,11 +10149,11 @@ CERTIFICADO DE SEGURANÇA DA RADIOTELEGRAFIA DE NAVIO DE CARGA
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que o navio acima mencionado obedece às prescrições das regras anexas à Convenção acima citada no que diz respeito a radiotelegrafia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 II. Que as instalações radiotelegráficas das embarcações salva-vidas com motor e ou o aparelho radioeléctrico portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das presentes regras.
 
@@ -10132,7 +10185,7 @@ CERTIFICADO DE DISPENSA
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Que o navio acima mencionado está dispensado, em virtude da regra ... do capítulo ... das regras anexas à Convenção acima citada, da aplicação das prescrições de (ver nota a) ... da Convenção para as viagens de ... a ...
 
@@ -10166,7 +10219,7 @@ CERTIFICADO DE SEGURANÇA DE NAVIO NUCLEAR DE PASSAGEIROS
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que o navio acima mencionado foi devidamente vistoriado de acordo com as disposições da Convenção acima citada.
 
@@ -10180,7 +10233,7 @@ III. Que a vistoria constatou que o navio satisfaz às exigências das regras an
 
 3) às linhas de carga de compartimentagem seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 IV. Que os meios de salvação são suficientes para um número total máximo de ... pessoas, a saber:
 
@@ -10202,7 +10255,7 @@ VI. Que o navio está munido de um aparelho lança-cabos e de um aparelho radioe
 
 VII. Que o navio obedece às prescrições das regras no que diz respeito às instalações radiotelegráficas, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 VIII. Que as instalações radiotelegráficas das embarcações salva-vidas com motor e ou o aparelho radioeléctrico portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das regras.
 
@@ -10240,7 +10293,7 @@ CERTIFICADO DE SEGURANÇA DE NAVIO NUCLEAR DE CARGA
 
 Passado segundo as prescrições da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 I. Que o navio acima mencionado foi devidamente vistoriado de acordo com as disposições da Convenção acima citada.
 
@@ -10270,7 +10323,7 @@ VI. Que o navio está munido de um aparelho lança-cabos e de um aparelho radioe
 
 VII. Que o navio obedece às prescrições das regras no que diz respeito às instalações radiotelegráficas, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 VIII. Que as instalações radiotelegráficas das embarcações salva-vidas com motor e ou o aparelho radioeléctrico portátil para embarcações e jangadas salva-vidas, se existir, funcionam conforme as prescrições das regras.
 
@@ -10518,7 +10571,7 @@ A descrição e o esquema que seguem indicam as características da união inter
 
 União internacional de ligação à terra (lado terra)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf))](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/05/12701/08571047.pdf)
 
 Diâmetro exterior: 178 mm (7 polegadas);
 

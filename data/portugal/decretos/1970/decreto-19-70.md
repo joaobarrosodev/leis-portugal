@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 11/1970, 1º Suplemento, Série I de 1970-01-14
   number: '11'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 53-(53) a 53-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/01/01101/00530056.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/19-1970-210059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a21624386e675eb7cde161a1fd667f190ea451c69b29e46ac6d7c117804da4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b02c5de699987139c7e3cfbf54b17a309889ae8b7ddace61547ba00ac589d80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,30 @@ relationships:
   target: pt:dre:277162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:277162:por
+  label: "Extinto, a partir de 31.12.1977, o regime de livre escolha pelo DR.69/77.24.10.1977.MAS, DR.IS [246] de 24.10.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/69-1977-277162
+  date: '1977-10-24'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:06Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +145,7 @@ Pareceu, assim, preferível, no interesse de todos - beneficiários, médicos e 
 
 Recorda-se, a propósito, como já acima se referiu, a evolução verdadeiramente espectacular operada no número de dias subsidiados por doença durante estes últimos anos, implicando um acréscimo de encargos que tem constituído um dos mais pesados ónus financeiros para a assistência médico-social da Previdência, susceptível mesmo, no caso de se manter com idêntico ritmo de crescimento no futuro, de dificultar a natural expansão dos serviços e melhoria das condições da sua prestação. Essa evolução e respectivos encargos foram os seguintes desde 1961 até 1968:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01101/00530056.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01101/00530056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01101/00530056.pdf)
 
 Verifica-se, assim, que, em índices de crescimento, quer o número de dias de doença indemnizados, quer os respectivos encargos, aumentaram mais de 300 por cento a partir de 1963, isto é, no curto espaço de cinco anos, o que, por si só, parece justificar claramente todas as cautelas acima referidas quanto ao regime das «baixas» e sua fiscalização.
 
@@ -163,17 +177,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Aos beneficiários activos abrangidos pelas caixas de previdência previstas na alínea a) da base XII da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, poderá ser facultado, paralelamente às modalidades de assistência médica a que se refere o artigo 39.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, um regime de livre escolha, de modo a possibilitar o recurso a qualquer médico ou serviço clínico, mediante comparticipação das instituições de previdência nas despesas efectuadas.
+Artigo 1.º - 1. Aos beneficiários activos abrangidos pelas caixas de previdência previstas na alínea a) da base XII da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, poderá ser facultado, paralelamente às modalidades de assistência médica a que se refere o artigo 39.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, um regime de livre escolha, de modo a possibilitar o recurso a qualquer médico ou serviço clínico, mediante comparticipação das instituições de previdência nas despesas efectuadas.
 
 2. As condições de utilização do regime previsto no número anterior e o âmbito da sua aplicação serão definidos por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 2.º - 1. O regime de livre escolha não será cumulativo com o da assistência prestada através dos postos, delegações clínicas ou médicos contratados pelas instituições de previdência social, devendo os beneficiários interessados optar expressa e prèviamente por ele.
+Art. 2.º - 1. O regime de livre escolha não será cumulativo com o da assistência prestada através dos postos, delegações clínicas ou médicos contratados pelas instituições de previdência social, devendo os beneficiários interessados optar expressa e prèviamente por ele.
 
 2. A transferência de um para outro regime poderá ter lugar no início de qualquer dos semestres de cada ano civil, devendo o pedido em tal sentido ser apresentado com a antecedência mínima de quarenta e cinco dias em relação ao início do semestre.
 
 No 1.º semestre de vigência do regime de livre escolha a opção far-se-á durante todo o período.
 
-###### Art. 3.º Os beneficiários que tenham optado pelo regime de livre escolha poderão recorrer, quando necessitem de cuidados médicos e desde que satisfaçam os requisitos previstos nos artigos 32.º, 33.º e 34.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, aos médicos ou serviços de sua preferência na condição de que os mesmos estejam, respectivamente, inscritos na Ordem dos Médicos ou oficialmente reconhecidos.
+Art. 3.º Os beneficiários que tenham optado pelo regime de livre escolha poderão recorrer, quando necessitem de cuidados médicos e desde que satisfaçam os requisitos previstos nos artigos 32.º, 33.º e 34.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, aos médicos ou serviços de sua preferência na condição de que os mesmos estejam, respectivamente, inscritos na Ordem dos Médicos ou oficialmente reconhecidos.
 
 As prestações a conceder compreenderão as seguintes modalidades, desde que incluídas no esquema das respectivas instituições de previdência:
 
@@ -189,18 +203,18 @@ Serviços de enfermagem;
 
 Assistência medicamentosa.
 
-###### Art. 4.º A verificação das condições que produzam incapacidade para o trabalho e que dêem lugar à atribuição do respectivo subsídio pecuniário só poderá ser feita por médicos privativos das caixas de previdência.
+Art. 4.º A verificação das condições que produzam incapacidade para o trabalho e que dêem lugar à atribuição do respectivo subsídio pecuniário só poderá ser feita por médicos privativos das caixas de previdência.
 
-###### Art. 5.º - 1. As caixas de previdência comparticiparão nas despesas efectuadas com assistência médica e medicamentosa ou internamentos hospitalares dos beneficiários activos que optem pelo regime de livre escolha, pela forma e limites constantes do despacho a que se refere o n.º 2 do artigo 1.º
+Art. 5.º - 1. As caixas de previdência comparticiparão nas despesas efectuadas com assistência médica e medicamentosa ou internamentos hospitalares dos beneficiários activos que optem pelo regime de livre escolha, pela forma e limites constantes do despacho a que se refere o n.º 2 do artigo 1.º
 
 2. Para o efeito poderá ser criado em cada caixa de previdência que conceda prestações médico-sociais um serviço adequado às particularidades do sistema.
 
-###### Art. 6.º Aos beneficiários que optarem pelo regime de livre escolha continuam a ser aplicáveis as disposições do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com excepção das que forem expressamente contrariadas pelo presente diploma.
+Art. 6.º Aos beneficiários que optarem pelo regime de livre escolha continuam a ser aplicáveis as disposições do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com excepção das que forem expressamente contrariadas pelo presente diploma.
 
 Marcello Caetano - José João Gonçalves de Proença.
 
-**Promulgado em 14 de Janeiro de 1970.**
+Promulgado em 14 de Janeiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

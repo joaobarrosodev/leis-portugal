@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/324-1972-676636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8003149c7d146b7ef4511631019fad3b94680740cb8c3c1ae334785318b85ff0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 643db7d2d8c7c95172eccec1279bb4a46609cf1210ced48e776f1e7f9a78df77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:17Z'
   warnings: []
   errors: []
 ---
@@ -89,33 +97,33 @@ Com fundamento no artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 56033828$10 destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 56033828$10 destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 11.º «Despesas comuns»:
+Capítulo 11.º «Despesas comuns»:
 
-###### Artigo 492.º «Despesas de anos findos» ... 4674671$80
+Artigo 492.º «Despesas de anos findos» ... 4674671$80
 
 Ministério das Finanças
 
-### Capítulo 21.º «Despesas comuns»:
+Capítulo 21.º «Despesas comuns»:
 
-###### Artigo 318.º «Despesas de anos findos» ... 5000000$00
+Artigo 318.º «Despesas de anos findos» ... 5000000$00
 
 Ministério da Justiça
 
-### Capítulo 7.º «Serviços médico-legais»:
+Capítulo 7.º «Serviços médico-legais»:
 
 Instituto de Medicina Legal de Lisboa
 
-###### Artigo 588.º « Gratificações variáveis ou eventuais» ... (ver nota 32) 20000$00
+Artigo 588.º « Gratificações variáveis ou eventuais» ... (ver nota 32) 20000$00
 
 Ministério da Economia
 
-### Capítulo 24.º «Contas de ordem»:
+Capítulo 24.º «Contas de ordem»:
 
-###### Artigo 429.º «Direcção-Geral dos Serviços Agrícolas»:
+Artigo 429.º «Direcção-Geral dos Serviços Agrícolas»:
 
 N.º 1 «Serviços centrais»:
 
@@ -123,11 +131,11 @@ Alínea 2 «Aplicação de outras receitas» ... 2800000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral de Saúde»:
+Capítulo 4.º «Direcção-Geral de Saúde»:
 
 Direcção-Geral
 
-###### Artigo 63.º «Transferências - Sector público»:
+Artigo 63.º «Transferências - Sector público»:
 
 N.º 1 «Subsídios a serviços e estabelecimentos oficiais de saúde e assistência»:
 
@@ -153,15 +161,15 @@ N.º 5 «Assistência a leprosos»:
 
 Alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência aos Leprosos ... 11534$40
 
-### Capítulo 6.º «Direcção-Geral da Assistência Social»:
+Capítulo 6.º «Direcção-Geral da Assistência Social»:
 
-###### Artigo 132.º «Transferências - Sector público»:
+Artigo 132.º «Transferências - Sector público»:
 
 N.º 5 «Outras modalidades de assistência» ... 241559$20
 
-### Capítulo 8.º «Contas de ordem»:
+Capítulo 8.º «Contas de ordem»:
 
-###### Artigo 141.º «Direcção-Geral da Assistência Social»:
+Artigo 141.º «Direcção-Geral da Assistência Social»:
 
 N.º 1 «Acção familiar e social»:
 
@@ -173,23 +181,23 @@ N.º 2 «Encargos com a assistência a diminuídos físicos» ... 12000000$00
 
 ... 56033823$10
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes dotações de receita:
 
 Orçamento das receitas do Estado
 
 Receita ordinária:
 
-### Capítulo 2.º, grupo 3, artigo 29.º «Imposto do fabrico de tabacos» ... 5000000$00
+Capítulo 2.º, grupo 3, artigo 29.º «Imposto do fabrico de tabacos» ... 5000000$00
 
-### Capítulo 3.º, grupo 1, artigo 97.º «Serviços médico-legais» ... 20000$00
+Capítulo 3.º, grupo 1, artigo 97.º «Serviços médico-legais» ... 20000$00
 
-### Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 9639151$80
+Capítulo 5.º, grupo 1, artigo 176.º «Transferências diversas» ... 9639151$80
 
-### Capítulo 14.º, artigo 308.º «Reposições não abatidas nos pagamentos» ... 4674671$30
+Capítulo 14.º, artigo 308.º «Reposições não abatidas nos pagamentos» ... 4674671$30
 
-### Capítulo 15.º, artigo 325.º «Direcção-Geral dos Serviços Agrícolas - Serviços centrais» ... 2800000$00
+Capítulo 15.º, artigo 325.º «Direcção-Geral dos Serviços Agrícolas - Serviços centrais» ... 2800000$00
 
-### Capítulo 15.º, artigo 343.º «Direcção-Geral da Assistência Social:
+Capítulo 15.º, artigo 343.º «Direcção-Geral da Assistência Social:
 
 «Instituto da Família e Acção Social» ... 21900000$00
 
@@ -197,18 +205,18 @@ Receita ordinária:
 
 ... 56033823$10
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
 
 A observação (ver nota 32) aposta à dotação do capítulo 7.º, artigo 588.º, reforçada por força do artigo 2.º do presente diploma, é alterada para:
 
 (nota 32) Sujeita a duplo cabimento a quantia de 120000$00.
 
-###### Art. 4.º A fim de satisfazer encargos respeitantes a anos anteriores, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 3226248$00, em conta da verba do capítulo 11.º, artigo 492.º, do actual orçamento de Encargos Gerais da Nação, reforçada com a quantia de 4674671$30, através do presente diploma.
+Art. 4.º A fim de satisfazer encargos respeitantes a anos anteriores, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 3226248$00, em conta da verba do capítulo 11.º, artigo 492.º, do actual orçamento de Encargos Gerais da Nação, reforçada com a quantia de 4674671$30, através do presente diploma.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 9 de Agosto de 1972.**
+Promulgado em 9 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

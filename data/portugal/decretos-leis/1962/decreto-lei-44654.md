@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44654-1962-156473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-05T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 767abe8b883418c3f523e03a9a201bf3782a7f4b29e7a1656e957b522076ff5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45334dd1560e91fe0565cb8ee6ce24ef5b65a44692ad8e3475e39ad55e828350
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Estudos Vitivinícolas
+- Comissão Técnica
+- Comissão Técnica Permanente de Viticultura e Enologia
+- Definição de Competências
+- Direcção Geral dos Serviços Agrícolas
+- Enologia
+- Regulamento
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:262779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262779:por
+  label: "Alterada a constituição da Comissão Técnica Permanente de Viticultura e Enologia constante do art. 4º pela PORT.23750.05.12.1968.MECO,\
+    \ DG.IS [286] de 05.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23750-1968-262779
+  date: '1968-12-05'
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323368:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:48Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +134,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Comissão Técnica Permanente de Viticultura e Enologia, criada pelo artigo 83.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, é um órgão técnico consultivo que funciona junto da Direcção-Geral dos Serviços Agrícolas.
+Artigo 1.º A Comissão Técnica Permanente de Viticultura e Enologia, criada pelo artigo 83.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, é um órgão técnico consultivo que funciona junto da Direcção-Geral dos Serviços Agrícolas.
 
-###### Art. 2.º Compete à Comissão Técnica Permanente de Viticultura e Enologia informar sobre os assuntos de natureza vitivinícola ou de interesse para a vitivinicultura nacional que superiormente lhe forem presentes e, designadamente:
+Art. 2.º Compete à Comissão Técnica Permanente de Viticultura e Enologia informar sobre os assuntos de natureza vitivinícola ou de interesse para a vitivinicultura nacional que superiormente lhe forem presentes e, designadamente:
 
 a) Emitir parecer sobre todos os assuntos vitivinícolas de natureza técnica relacionados com a defesa da qualidade do vinho e seus derivados;
 
@@ -124,9 +150,9 @@ e) Colaborar com os organismos e serviços especializados do Ministério da Econ
 
 f) Propor a nomeação dos representantes de Portugal no O. I. V. e mais organismos de carácter internacional que se prendam com assuntos vitivinícolas.
 
-###### Art. 3.º A Comissão Técnica de Viticultura e Enologia é, nos termos do artigo 87.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, presidida pelo director-geral dos Serviços Agrícolas e terá um vice-presidente, nomeado nos termos do artigo 69.º do [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), de 23 de Novembro de 1957.
+Art. 3.º A Comissão Técnica de Viticultura e Enologia é, nos termos do artigo 87.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, presidida pelo director-geral dos Serviços Agrícolas e terá um vice-presidente, nomeado nos termos do artigo 69.º do [Decreto-Lei n.º 41473](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41473-1957-251185), de 23 de Novembro de 1957.
 
-###### Art. 4.º A Comissão Técnica Permanente de Viticultura e Enologia é composta, além do presidente e vice-presidente, pelos seguintes membros:
+Art. 4.º A Comissão Técnica Permanente de Viticultura e Enologia é composta, além do presidente e vice-presidente, pelos seguintes membros:
 
 Professor catedrático da cadeira de viticultura e ampelografia do Instituto Superior de Agronomia;
 
@@ -174,7 +200,7 @@ Um técnico proposto pela Federação dos Vinicultores da Região do Douro.
 
 § 2.º À Comissão Técnica Permanente de Viticultura e Enologia poderão ser agregados, sob proposta do presidente, outros técnicos de reconhecida competência quando a importância ou a natureza especializada dos assuntos submetidos à apreciação ou estudo assim o exigirem ou aconselharem.
 
-###### Art. 5.º A Comissão Técnica Permanente de Viticultura e Enologia reunirá, mediante convocação do presidente, com a presença da maioria dos seus membros, e as deliberações serão tomadas por maioria dos votos presentes, tendo o presidente ou o vice-presidente, quando o substitua, voto de qualidade.
+Art. 5.º A Comissão Técnica Permanente de Viticultura e Enologia reunirá, mediante convocação do presidente, com a presença da maioria dos seus membros, e as deliberações serão tomadas por maioria dos votos presentes, tendo o presidente ou o vice-presidente, quando o substitua, voto de qualidade.
 
 § 1.º As convocações serão feitas, em regra, com o prazo mínimo de oito dias de antecedência, podendo no entanto tal prazo ser reduzido em caso de urgência reconhecida pelo presidente.
 
@@ -188,12 +214,12 @@ Um técnico proposto pela Federação dos Vinicultores da Região do Douro.
 
 § 6.º De todas as sessões se lavrarão actas, que, depois de aprovadas, serão assinadas pelo presidente e pelo secretário.
 
-###### Art. 6.º Os serviços da secretaria da Comissão Técnica Permanente de Viticultura e Enologia serão assegurados pela Repartição de Serviços de Culturas Arbustivas e Arbóreas.
+Art. 6.º Os serviços da secretaria da Comissão Técnica Permanente de Viticultura e Enologia serão assegurados pela Repartição de Serviços de Culturas Arbustivas e Arbóreas.
 
 § 1.º A Comissão Técnica Permanente de Viticultura e Enologia terá um secretário, sem direito a voto, escolhido pelo director-geral dos Serviços Agrícolas, sob proposta do chefe da Repartição de Serviços de Culturas Arbustivas e Arbóreas, entre os engenheiros agrónomos que prestam serviço na mesma Repartição.
 
 § 2.º O secretário pode fazer parte das subcomissões a que se referem os §§ 3.º e 4.º do artigo anterior, tendo neste caso direito a voto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

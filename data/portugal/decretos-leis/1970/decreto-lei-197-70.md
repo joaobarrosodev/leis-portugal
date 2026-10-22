@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1970-142106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25b48726fff5c66dfb92a7d59dbc36ba882c0842c5874c22d6a921d6a4353722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be32d59465c48a02e84613dfce07703840b2abe8307b427919b94c3ebbc3f73e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Espanha
+- Madrid
+- Pesca
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:23Z'
   warnings: []
   errors: []
 ---
@@ -85,13 +90,13 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Convénio Luso-Espanhol sobre Pesca Marítima e de Cooperação em Matéria Pesqueira entre Portugal e a Espanha, assinado em Madrid em 9 de Dezembro de 1969, cujos textos em português e espanhol vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Convénio Luso-Espanhol sobre Pesca Marítima e de Cooperação em Matéria Pesqueira entre Portugal e a Espanha, assinado em Madrid em 9 de Dezembro de 1969, cujos textos em português e espanhol vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 17 de Abril de 1970.**
+Promulgado em 17 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -181,4 +186,4 @@ Pelo Governo Espanhol:
 
 Gregorio Lopez Bravo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/10700/05750578.pdf))](https://files.diariodarepublica.pt/1s/1970/05/10700/05750578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/10700/05750578.pdf)

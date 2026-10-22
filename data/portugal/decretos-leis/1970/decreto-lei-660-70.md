@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1970-154447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20827b119a0b17e6e3df785b141b39a4612a288d4b363da36a86f79104092b46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 396d1f532482d5974ef41810c039c68d85915209a29d39786708aad7bb8402fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Militar
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:142694:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:18Z'
   warnings: []
   errors: []
 ---
@@ -91,23 +98,23 @@ Sendo de inteira justiça conceder às mesmas praças os benefícios que resulta
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os aumentos de pré por cada período de readmissão a abonar diariamente às praças readmitidas de 2.ª do Exército e da Força Aérea oriundas das províncias ultramarinas serão os seguintes:
+Artigo 1.º - 1. Os aumentos de pré por cada período de readmissão a abonar diariamente às praças readmitidas de 2.ª do Exército e da Força Aérea oriundas das províncias ultramarinas serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30100/19931993.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30100/19931993.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/19931993.pdf)
 
 2. Os aumentos de pré por cada período de readmissão a abonar mensalmente às praças readmitidas de 2.ª da Armada oriundas das províncias ultramarinas serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30100/19931993.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30100/19931993.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/19931993.pdf)
 
-###### Art. 2.º Os quantitativos fixados no artigo 1.º serão abonados a partir de 1 de Janeiro de 1971 e substituirão os que se acham fixados para as mesmas praças nas tabelas n.os 7, 8 e 9 anexas ao [Decreto-Lei n.º 266/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1970-142694), de 15 de Junho.
+Art. 2.º Os quantitativos fixados no artigo 1.º serão abonados a partir de 1 de Janeiro de 1971 e substituirão os que se acham fixados para as mesmas praças nas tabelas n.os 7, 8 e 9 anexas ao [Decreto-Lei n.º 266/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1970-142694), de 15 de Junho.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 

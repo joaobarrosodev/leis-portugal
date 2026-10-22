@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 285/1976, 1º Suplemento, Série I de 1976-12-07
   number: '285'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2684-(2) a 2684-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/28501/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/841-c-1976-558991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43aa3ce71bdaa83efc24cbd64244879704c290331a38f4255b102399d0598f8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8582e7af4fdaf76c82df2c2f2fe7fd9931054b560be90431aa01199d23051f60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Individual de Trabalho
+- Despedimento
+- Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:621302:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250443:por
+  label: "Alterados os artigos 9.º, 10.º e 11.º do Decreto-Lei n.º 372-A/75, de 16 de Julho, na redacção dada no Decreto-Lei\
+    \ n.º 84/76, de 28 de Janeiro, e no presente diploma, pela LEI.48/77.11.07.1977.AR, DR.IS [158] de 11.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-1977-250443
+  date: '1977-07-11'
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621302:por
+  label: "Revogado pelo DEC LEI.64-A/89.27.02.1989.MESS, DR.IS [48]2ºSupl de 27.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-a-1989-621302
+  date: '1989-02-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:53Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +128,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 10.º e 11.º do Decreto-Lei a 372-A/75, de 16 de Julho, na formulação que a estes foi dada pelo [Decreto-Lei n.º 84/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1976-506865), de 28 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 10.º e 11.º do Decreto-Lei a 372-A/75, de 16 de Julho, na formulação que a estes foi dada pelo [Decreto-Lei n.º 84/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1976-506865), de 28 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 9.º - 1. São proibidos os despedimentos sem justa causa ou por motivos políticos ou ideológicos.
+Art. 9.º - 1. São proibidos os despedimentos sem justa causa ou por motivos políticos ou ideológicos.
 
 2. Verificando-se justa causa, o trabalhador pode ser despedido, quer o contrato tenha prazo, quer não.
 
-###### Art. 10.º - 1. Considera-se justa causa o comportamento culposo do trabalhador que, pela sua gravidade e consequências, torne imediata e praticamente impossível a subsistência da relação de trabalho.
+Art. 10.º - 1. Considera-se justa causa o comportamento culposo do trabalhador que, pela sua gravidade e consequências, torne imediata e praticamente impossível a subsistência da relação de trabalho.
 
 2. Constituirão, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:
 
@@ -144,7 +166,7 @@ n) Falsas declarações relativas à justificação de faltas.
 
 3. No caso das alíneas d), h), m) e n) do número anterior, a entidade patronal só poderá despedir os trabalhadores que tenham incorrido nas respectivas infracções desde que substitua imediatamente o trabalhador despedido por outro em situação de desemprego e nas mesmas condições contratuais.
 
-###### Art. 11.º Nos casos referidos nas alíneas a), d), e), g), i), j), l) e n) do n.º 2 do artigo anterior, o despedimento será precedido de um processo disciplinar, em que será sempre ouvido o trabalhador interessado, reduzindo-se a escrito as suas declarações, bem como o depoimento de duas testemunhas, que deverão assinar o respectivo auto de declarações.
+Art. 11.º Nos casos referidos nas alíneas a), d), e), g), i), j), l) e n) do n.º 2 do artigo anterior, o despedimento será precedido de um processo disciplinar, em que será sempre ouvido o trabalhador interessado, reduzindo-se a escrito as suas declarações, bem como o depoimento de duas testemunhas, que deverão assinar o respectivo auto de declarações.
 
 2. O processo será, em seguida, presente à comissão de trabalhadores ou, se esta não existir na empresa, ao órgão sindical que aí exista, que se deverá pronunciar no prazo de quarenta e oito horas.
 
@@ -166,12 +188,12 @@ n) Falsas declarações relativas à justificação de faltas.
 
 11. Em todos os casos de invocação de justa causa de despedimento a entidade patronal poderá suspender imediatamente o trabalhador interessado, sem perda de retribuição.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 3 de Dezembro de 1976.**
+Promulgado em 3 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

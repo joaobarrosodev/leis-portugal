@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 302/1971, 1º Suplemento, Série I de 1971-12-29
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2030-(17) a 2030-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30201/00170019.pdf
 entry_into_force_dates: []
@@ -49,36 +49,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1971-423217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53d91e269830b3b9100ed6693c4afcad4d1e07b2e6dc7afb714c8f857140479f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 789621f21d44e5b68a8895fba7de9d0e4d2b2716a761eef158f71c97471f49d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Mercadorias
+- Direitos Aduaneiros
+- Direitos de Importação
+- EFTA
+- Importação
+- Pauta dos Direitos de Importação
+relationships:
+- type: cites
+  target: pt:dre:141235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644481:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:35Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +131,9 @@ Considerando as disposições da Convenção que instituiu a Associação Europe
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As taxas pautais resultantes da aplicação do [Decreto-Lei n.º 601/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/601-1971-423218), de hoje, devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as que se encontravam em vigor em consequência do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
+Artigo 1.º As taxas pautais resultantes da aplicação do [Decreto-Lei n.º 601/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/601-1971-423218), de hoje, devem ser consideradas como novos direitos de base, substituindo, para os mesmos efeitos, as que se encontravam em vigor em consequência do disposto no artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
 
-###### Art. 2.º Na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, devem introduzir-se as seguintes alterações:
+Art. 2.º Na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, devem introduzir-se as seguintes alterações:
 
 1.º Eliminar os produtos respeitantes aos artigos n.os 29.25.01, 73.24.02 e 90.10.
 
@@ -313,7 +351,7 @@ ex 02 Maçaricos.
 
 ...
 
-###### Art. 3.º Na lista a que se refere o artigo 1.º do [Decreto-Lei n.º 86/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1970-228398), de 7 de Março, devem introduzir-se as seguintes alterações:
+Art. 3.º Na lista a que se refere o artigo 1.º do [Decreto-Lei n.º 86/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1970-228398), de 7 de Março, devem introduzir-se as seguintes alterações:
 
 1.º Emendar a numeração dos artigos n.os ex 21.07.02, 87.02.08, 87.02.09, 87.02.10, 87.02.12, 87.02.13, 87.02.14 e 87.02.15 para, respectivamente, ex 21.07.03, 87.02.09, 87.02.10, 87.02.11, 87.02.13, 87.02.14, 87.02.15 e 87.02.16.
 
@@ -339,7 +377,7 @@ ex 87.07 Partes e peças separadas, metálicas, de carros motorizados, dos tipos
 
 ...
 
-###### Art. 4.º Na lista a que se refere o artigo único do [Decreto-Lei n.º 47957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47957-1967-391403), de 25 de Setembro de 1967, a redacção das posições pautais a seguir mencionadas é alterada para:
+Art. 4.º Na lista a que se refere o artigo único do [Decreto-Lei n.º 47957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47957-1967-391403), de 25 de Setembro de 1967, a redacção das posições pautais a seguir mencionadas é alterada para:
 
 57.06 Fios de juta ou de outras fibras têxteis liberianas do n.º 57.03.
 
@@ -347,7 +385,7 @@ ex 87.07 Partes e peças separadas, metálicas, de carros motorizados, dos tipos
 
 ...
 
-###### Art. 5.º Na lista a que se refere o artigo 1.º do [Decreto-Lei n.º 363/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1970-141235), de 4 de Agosto, é alterada a redacção das posições pautais a seguir indicadas pela seguinte forma:
+Art. 5.º Na lista a que se refere o artigo 1.º do [Decreto-Lei n.º 363/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1970-141235), de 4 de Agosto, é alterada a redacção das posições pautais a seguir indicadas pela seguinte forma:
 
 39.07 Obras das matérias abrangidas pelos n.os 39.01 a 39.06:
 
@@ -369,7 +407,7 @@ ex 87.07 Partes e peças separadas, metálicas, de carros motorizados, dos tipos
 
 ...
 
-###### Art. 6.º Na lista B a que se refere o artigo 1.º do [Decreto-Lei n.º 193/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1971-644481), de 11 de Maio, a redacção das posições pautais a seguir indicadas é alterada para:
+Art. 6.º Na lista B a que se refere o artigo 1.º do [Decreto-Lei n.º 193/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1971-644481), de 11 de Maio, a redacção das posições pautais a seguir indicadas é alterada para:
 
 ex 29.39 Hormonas, naturais ou reproduzidas por síntese; seus derivados utilizados principalmente como hormonas.
 
@@ -385,16 +423,16 @@ ex 29.39 Hormonas, naturais ou reproduzidas por síntese; seus derivados utiliza
 
 ...
 
-###### Art. 7.º A subposição 87.02.11 referida no artigo 2.º do [Decreto-Lei n.º 46463](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46463-1965-292107), de 30 de Julho de 1965, passa a ter o n.º 87.02.12.
+Art. 7.º A subposição 87.02.11 referida no artigo 2.º do [Decreto-Lei n.º 46463](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46463-1965-292107), de 30 de Julho de 1965, passa a ter o n.º 87.02.12.
 
-###### Art. 8.º O calendário a que se refere a alínea a) do § 4 do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre será aplicável às taxas dos novos artigos pautais 21.05.01, 21.07.02, 33.06.03, 34.01.01, 34.01.02, 34.01.03, 34.01.04, 34.01.05, 34.01.06, 73.24.01, 73.24.03, 84.01.03, 84.02.01, 84.02.02 e 91.07.02.
+Art. 8.º O calendário a que se refere a alínea a) do § 4 do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre será aplicável às taxas dos novos artigos pautais 21.05.01, 21.07.02, 33.06.03, 34.01.01, 34.01.02, 34.01.03, 34.01.04, 34.01.05, 34.01.06, 73.24.01, 73.24.03, 84.01.03, 84.02.01, 84.02.02 e 91.07.02.
 
-###### Art. 9.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1972.
+Art. 9.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 23 de Dezembro de 1971.**
+Promulgado em 23 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

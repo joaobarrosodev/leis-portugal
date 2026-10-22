@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1974-475714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aed8626d23211a420b9d418dabd1767a057a9c58decb08afa1744825a775d4e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbb4e1eaa0d3dae43a782fe862191b562a0ed9517c8f3cc068837e5236f3b425
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Exército
+- Força Aérea
+- Formação Profissional
+- Militar
+relationships:
+- type: cites
+  target: pt:dre:147838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590727:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:56Z'
   warnings: []
   errors: []
 ---
@@ -90,14 +107,14 @@ Considerando o interesse em incentivar o recrutamento de oficiais para os quadro
 
 Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No ano lectivo de 1974-1975 podem ser admitidos à matrícula no 1.º ano dos cursos destinados ao Exército as praças na efectividade do serviço e o pessoal em preparação que, satisfazendo às restantes condições estabelecidas no [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, alterado pela [Portaria n.º 17894](https://diariodarepublica.pt/dr/detalhe/portaria/17894-1960-500890), de 10 de Agosto de 1960, e pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, não tenham completado 27 anos até 1 de Janeiro de 1974 e sejam julgados merecedores pelo Chefe do Estado-Maior do Exército.
+Artigo 1.º No ano lectivo de 1974-1975 podem ser admitidos à matrícula no 1.º ano dos cursos destinados ao Exército as praças na efectividade do serviço e o pessoal em preparação que, satisfazendo às restantes condições estabelecidas no [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, alterado pela [Portaria n.º 17894](https://diariodarepublica.pt/dr/detalhe/portaria/17894-1960-500890), de 10 de Agosto de 1960, e pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, não tenham completado 27 anos até 1 de Janeiro de 1974 e sejam julgados merecedores pelo Chefe do Estado-Maior do Exército.
 
-###### Art. 2.º No ano lectivo de 1974-1975 podem ser admitidos à matrícula no 1.º ano dos cursos de aeronáutica ou de engenharia e de administração militar destinados à Força Aérea os oficiais, aspirantes a oficial, sargentos, furriéis e praças, dos quadros permanentes e do complemento na efectividade do serviço, e o pessoal em preparação que, satisfazendo às restantes condições estabelecidas pelo [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, alterado pela [Portaria n.º 17894](https://diariodarepublica.pt/dr/detalhe/portaria/17894-1960-500890), de 10 de Agosto de 1960, e pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, não tenham completado 25 anos até 1 de Janeiro de 1974, no caso do curso de aeronáutica, e 27 anos, no caso dos restantes cursos, e sejam julgados merecedores pelo Chefe do Estado-Maior da Força Aérea.
+Art. 2.º No ano lectivo de 1974-1975 podem ser admitidos à matrícula no 1.º ano dos cursos de aeronáutica ou de engenharia e de administração militar destinados à Força Aérea os oficiais, aspirantes a oficial, sargentos, furriéis e praças, dos quadros permanentes e do complemento na efectividade do serviço, e o pessoal em preparação que, satisfazendo às restantes condições estabelecidas pelo [Decreto-Lei n.º 42151](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42151-1959-590727), de 12 de Fevereiro de 1959, alterado pela [Portaria n.º 17894](https://diariodarepublica.pt/dr/detalhe/portaria/17894-1960-500890), de 10 de Agosto de 1960, e pelo [Decreto-Lei n.º 516/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1970-147838), de 3 de Novembro, não tenham completado 25 anos até 1 de Janeiro de 1974, no caso do curso de aeronáutica, e 27 anos, no caso dos restantes cursos, e sejam julgados merecedores pelo Chefe do Estado-Maior da Força Aérea.
 
 Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - Jaime Silvério Marques - Manuel Diogo Neto.
 
-**Promulgado em 5 de Agosto de 1974.**
+Promulgado em 5 de Agosto de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

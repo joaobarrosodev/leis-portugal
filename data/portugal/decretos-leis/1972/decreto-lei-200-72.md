@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1972-674029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e60396e2d0a3ae89bfced2cce4f0ad87f98ca87f40a5532c33f2fa87d1ffa4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32b6ba7ec5eb69b7f886ffc7ef5c5c8b9d0e4b3333d127bd73b33c10b4af75cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Colocação de Professores
+- Ensino Secundário
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:199429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643117:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:52Z'
   warnings: []
   errors: []
 ---
@@ -89,20 +104,20 @@ A experiência do ano anterior aconselha a introduzir algumas alterações ao re
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 331/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1971-643117) passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 331/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1971-643117) passa a ter a seguinte redacção:
 
 1. A atribuição da categoria de professor extraordinário será requerida aos respectivos directores-gerais, através dos estabelecimentos de ensino, de 1 a 8 de Agosto de cada ano.
 
 2. Independentemente da data do despacho que atribua a categoria de professor extraordinário, serão processados os vencimentos em Agosto e Setembro aos professores que, em 31 de Julho de cada ano, o estabelecimento de ensino competente verifique reunirem as condições legais exigidas para essa atribuição.
 
-###### Art. 2.º O artigo 3.º do [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429), de 14 de Julho de 1969, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto n.º 49120](https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429), de 14 de Julho de 1969, passa a ter a seguinte redacção:
 
 Os candidatos a professores eventuais não abrangidos pelas disposições anteriores serão recrutados mediante concurso que decorrerá anualmente de 1 a 15 de Junho.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 7 de Junho de 1972.**
+Promulgado em 7 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

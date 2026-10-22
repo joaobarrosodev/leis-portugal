@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20400/21402148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,160 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1977-286482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a61fdd398d0ce66eaf8e6c4fb6326d7ce6064cee374ec3eea264e463271e7cfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55448f31bde6ede0e4bfc83052c373a66f21d39f3d35ea4b553a4735d5f61584
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casamento
+- Código do Processo Civil
+- Cônjuge
+- Direito Civil
+- Direito Privado
+- Enfiteuse
+- Execução por Dívidas
+- Filiação
+- Igualdade de Tratamento
+- Jornal Oficial
+- Julgamento
+- Liberdade Religiosa
+- Magistrado do Ministério Público
+- Mulher
+- Pagamento
+- Prédio Urbano
+- Presidente da República
+- Processo Civil
+- Profissão Diplomática
+- Publicitação
+- Sanção Penal
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147384:por
+  label: "Alterado o art.1414º, do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.513-X/79.27.12.1979.MJ, DR.IS [297-Supl] de 27.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-x-1979-147384
+  date: '1979-12-27'
+- type: amended_by
+  target: pt:dre:473526:por
+  label: "Alterado o art 1038.º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez 1961, DG.IS [299], pelo\
+    \ DEC LEI.207/80.01.07.1980.PCM, DR.IS [[149]] de 01.07.1980\080\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1980-473526
+  date: '1980-07-01'
+- type: amended_by
+  target: pt:dre:309946:por
+  label: "Alterados os arts. 180º, 181º e 721º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, pelo\
+    \ DEC LEI.128/83.12.03.1983.MJ, DR.IS [[59]] de 12.03.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1983-309946
+  date: '1983-03-12'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Alterados os arts. 1327º, 1332º e 1352º, todos do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.227/94.08.09.1994.MJ, DR.IS-A [208] de 08.09.1994\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 17.º, 18.º, 89.º, 122.º, 124.º, 177.º, 1781.º, 410.º, 519.º, 580.º a 584.º, 591.º, 612.º, 626.º,\
+    \ 629.º, 638.º, 656.º, 721.º, 823.º, 894.º, 904.º, 905.º, 906.º, 1332.º, 1414.º, todos do Código de Processo Civil, aprovado\
+    \ pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl]\
+    \ de 12.12.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:214238:por
+  label: "Alterados os arts. 122.º, 629.º, 894.º, 904.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez,\
+    \ na redacção do presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pelo DEC LEI.180/96.25.09.1996.MJ,\
+    \ DR.IS-A [223] de 25.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1996-214238
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 181.º, 580.º e 629.º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de 1961,\
+    \ na redacção do presente diploma, pelo DEC LEI.183/2000.10.08.2000.MJ, DR.IS-A [184] de 10.08.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:315337:por
+  label: "Alterado o art. 629.º do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez, pela LEI.30-D/2000.20.12.2000.AR, DR.IS-A [292-3.ºSupl]\
+    \ de 20.12.2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-d-2000-315337
+  date: '2000-12-20'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados os arts. 629.º, 823.º, 834.º, 904.º, 905.º e 906.º, do Código de Processo Civil, aprovado pelo Dec Lei\
+    \ 44129 de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterado, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigo 11.º, e 12.º, o artigo 721.º, do\
+    \ Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção do presente diploma,\
+    \ pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterados a partir de 02.01.2009, os artigos 122.º, 177.º, 584.º e 1352.º, do Código de Processo Civil, aprovado\
+    \ pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir 31.03.2009, os arts. 834º, 854º e 905º do Código do Processo Civil, aprovado pelo Dec Lei 44129,\
+    \ de 28-Dez, 1961, na redacção do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:191994:por
+  label: "Dada nova redação ao art. 834º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-dez 1961, alterado\
+    \ pelo presente diploma, pela LEI.60/2012.09.11.2012.AR, DR.IS [217] de 09.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-2012-191994
+  date: '2012-11-09'
+- type: cites
+  target: pt:dre:408719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:59Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +274,15 @@ Assim:
 
 No uso da autorização legislativa conferida pela [Lei n.º 54/77](https://diariodarepublica.pt/dr/detalhe/lei/54-1977-408719), de 26 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 17.º, 18.º, 89.º, 122.º, 124.º, 127.º, 177.º, 180.º, 181.º, 410.º, 519.º, 559.º, 580.º, 581.º, 582.º, 583.º, 584.º, 591.º, 604.º, 612.º, 624.º, 625.º, 626.º, 629.º, 638.º, 656.º, 721.º, 769.º, 823.º, 834.º, 854.º, 894.º, 904.º, 905.º, 906.º, 972.º, 1038.º, 1181.º, 1183.º, 1238.º, 1269.º, 1279.º, 1305.º, 1327.º, 1332.º, 1352.º, 1404.º, 1414.º, 1416.º e 1463.º do Código de Processo Civil passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 17.º, 18.º, 89.º, 122.º, 124.º, 127.º, 177.º, 180.º, 181.º, 410.º, 519.º, 559.º, 580.º, 581.º, 582.º, 583.º, 584.º, 591.º, 604.º, 612.º, 624.º, 625.º, 626.º, 629.º, 638.º, 656.º, 721.º, 769.º, 823.º, 834.º, 854.º, 894.º, 904.º, 905.º, 906.º, 972.º, 1038.º, 1181.º, 1183.º, 1238.º, 1269.º, 1279.º, 1305.º, 1327.º, 1332.º, 1352.º, 1404.º, 1414.º, 1416.º e 1463.º do Código de Processo Civil passam a ter a seguinte redacção:
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Capacidade judiciária dos cônjuges)
 
 O casamento não produz efeitos sobre a capacidade judiciária dos cônjuges, salvo o que vai disposto nos artigos seguintes.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Acções que têm de ser propostas por ambos os cônjuges ou por um com consentimento do outro)
 
@@ -170,7 +290,7 @@ O casamento não produz efeitos sobre a capacidade judiciária dos cônjuges, sa
 
 2. Na falta de acordo o tribunal decidirá sobre o suprimento do consentimento, tendo em consideração o interesse da família.
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Acções em que seja parte o juiz, seu cônjuge ou certos parentes)
 
@@ -184,7 +304,7 @@ O casamento não produz efeitos sobre a capacidade judiciária dos cônjuges, sa
 
 5. Quando seja parte o juiz de tribunal inferior, seu cônjuge ou algum seu descendente ou ascendente, serão propostas no tribunal da respectiva comarca, ou serão para aí remetidas, nos termos do n.º 2, as acções que, segundo as regras normais de competência, teriam de correr na circunscrição em que serve o juiz inferior.
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Casos de impedimento do juiz)
 
@@ -208,7 +328,7 @@ g) ...
 
 3. Nas comarcas em que haja mais de um juiz ou perante os tribunais superiores não pode ser admitido como mandatário judicial o cônjuge, parente ou afim em linha recta ou no segundo grau da linha colateral do juiz que, por virtude da distribuição, haja de intervir no julgamento da causa; mas, se essa pessoa já tiver requerido ou alegado no processo na altura da distribuição, é o juiz que fica impedido.
 
-###### ARTIGO 124.º
+ARTIGO 124.º
 
 (Causas de impedimento nos tribunais colectivos)
 
@@ -218,7 +338,7 @@ g) ...
 
 3. Nos tribunais superiores só intervirá o juiz que deva votar em primeiro lugar.
 
-###### ARTIGO 127.º
+ARTIGO 127.º
 
 (Fundamento de suspeição)
 
@@ -242,7 +362,7 @@ g) ...
 
 3. ...
 
-###### ARTIGO 177.º
+ARTIGO 177.º
 
 (A quem são dirigidas as cartas. Obrigação de cumprimento)
 
@@ -256,7 +376,7 @@ Para cumprimento da carta, o tribunal tem competência igual à que lhe é atrib
 
 4. ...
 
-###### ARTIGO 180.º
+ARTIGO 180.º
 
 (A dilação. Limites para a sua fixação)
 
@@ -274,7 +394,7 @@ c) Entre quinze e cento e vinte dias, quando a citação tenha de efectuar-se em
 
 4. ...
 
-###### ARTIGO 181.º
+ARTIGO 181.º
 
 Prazo para o cumprimento das cartas. Entre que limites deve ser fixado)
 
@@ -294,7 +414,7 @@ c) Entre sessenta e cento e oitenta dias, quando a diligência haja de efectuar-
 
 5. ...
 
-###### ARTIGO 410.º
+ARTIGO 410.º
 
 (Providência de arresto)
 
@@ -302,7 +422,7 @@ c) Entre sessenta e cento e oitenta dias, quando a diligência haja de efectuar-
 
 2. O arresto é levantado logo que se mostre garantido o pagamento do alcance.
 
-###### ARTIGO 519.º
+ARTIGO 519.º
 
 (Dever de cooperação para a descoberta da verdade)
 
@@ -314,7 +434,7 @@ c) Entre sessenta e cento e oitenta dias, quando a diligência haja de efectuar-
 
 4. ...
 
-###### ARTIGO 559.º
+ARTIGO 559.º
 
 (Prestação de juramento)
 
@@ -324,7 +444,7 @@ c) Entre sessenta e cento e oitenta dias, quando a diligência haja de efectuar-
 
 3. ...
 
-###### ARTIGO 580.º
+ARTIGO 580.º
 
 (Impedimento)
 
@@ -354,7 +474,7 @@ j) Os que seriam incapazes de depor como testemunhas.
 
 3. Os impedimentos a que se referem as alíneas g) e h) do n.º 1 cessam no caso de o funcionário ser nomeado perito pelo Estado ou pelo tribunal.
 
-###### ARTIGO 581.º
+ARTIGO 581.º
 
 (Arguição dos impedimentos)
 
@@ -364,7 +484,7 @@ j) Os que seriam incapazes de depor como testemunhas.
 
 3. O funcionário deve recusar-se a intervir, enquanto a isso não for obrigado por ordem expressa do juiz, sob pena de incorrer em falta disciplinar.
 
-###### ARTIGO 582.º
+ARTIGO 582.º
 
 (Escusas)
 
@@ -374,7 +494,7 @@ a) Os juízes e os magistrados do Ministério Público em efectivo serviço;
 
 b) Os que tiverem mais de 70 anos de idade.
 
-###### ARTIGO 583.º
+ARTIGO 583.º
 
 (Invocação da escusa)
 
@@ -384,13 +504,13 @@ b) Os que tiverem mais de 70 anos de idade.
 
 3. No caso da alínea a) do artigo anterior, o requerente não é obrigado a produzir a prova do fundamento alegado; o juiz, se tiver dúvidas, ouvirá as partes ou solicitará as informações necessárias.
 
-###### ARTIGO 584.º
+ARTIGO 584.º
 
 (Recusa)
 
 Os peritos podem ser recusados com os mesmos fundamentos por que podem ser recusados os juízes e ainda com os fundamentos constantes das alíneas b) e d) do n.º 1 do artigo 122.º, na parte em que estes não constituem causa de impedimento, nos termos da alínea j) do n.º 1 do artigo 580.º
 
-###### ARTIGO 591.º
+ARTIGO 591.º
 
 (De que categorias deve sair o perito do juiz em casos especiais)
 
@@ -398,7 +518,7 @@ Os peritos podem ser recusados com os mesmos fundamentos por que podem ser recus
 
 2. Nos exames sobre contas e em livros de escrituração comercial, o perito do juiz é nomeado de entre os verificadores de contas ou administradores judiciais de falências; se na comarca não houver quadro de verificadores de contas e de administradores, a nomeação recairá em diplomados pelos institutos de ensino comercial médio ou superior, quando os haja.
 
-###### ARTIGO 604.º
+ARTIGO 604.º
 
 (Quem a faz)
 
@@ -406,7 +526,7 @@ Os peritos podem ser recusados com os mesmos fundamentos por que podem ser recus
 
 2. O valor das pedras e metais preciosos é determinado por um perito nomeado pelo juiz, de preferência entre os ourives.
 
-###### ARTIGO 612.º
+ARTIGO 612.º
 
 (Fim da inspecção)
 
@@ -414,7 +534,7 @@ Os peritos podem ser recusados com os mesmos fundamentos por que podem ser recus
 
 2. ...
 
-###### ARTIGO 624.º
+ARTIGO 624.º
 
 (Prerrogativas de inquirição)
 
@@ -444,7 +564,7 @@ h) O bastonário da Ordem dos Advogados e o presidente da Câmara dos Solicitado
 
 3. Ao indicar como testemunha uma das entidades nos números anteriores, a parte deve especificar os factos sobre que pretende o depoimento.
 
-###### ARTIGO 625.º
+ARTIGO 625.º
 
 (Inquirição do Presidente da República)
 
@@ -460,7 +580,7 @@ h) O bastonário da Ordem dos Advogados e o presidente da Câmara dos Solicitado
 
 6. O interrogatório é feito pelo juiz; as partes podem assistir à inquirição com os seus advogados, mas não podem fazer perguntas ou instâncias, devendo dirigir-se ao juiz quando julguem necessário algum esclarecimento ou aditamento.
 
-###### ARTIGO 626.º
+ARTIGO 626.º
 
 (Inquirição de outras entidades)
 
@@ -474,7 +594,7 @@ h) O bastonário da Ordem dos Advogados e o presidente da Câmara dos Solicitado
 
 5. Não tendo a testemunha remetido a declaração referida no n.º 3, não tendo respeitado os prazos ali estabelecidos, ou decidindo o juiz que é necessária a sua presença, será a mesma testemunha notificada ou requisitada para depor.
 
-###### ARTIGO 629.º
+ARTIGO 629.º
 
 (Consequências do não comparecimento da testemunha)
 
@@ -494,7 +614,7 @@ e) Se faltar sem motivo justificado e não for encontrada para vir depor nos ter
 
 3. A testemunha que falte sem justificação incorrerá na multa de 100$00 a 40000$00, a fixar em função da sua situação económica e encargos sociais, e em indemnização de igual importância a favor do Cofre Geral dos Tribunais, sendo a multa e a indemnização logo fixadas no respectivo auto.
 
-###### ARTIGO 638.º
+ARTIGO 638.º
 
 (Regime do depoimento)
 
@@ -510,7 +630,7 @@ e) Se faltar sem motivo justificado e não for encontrada para vir depor nos ter
 
 6. ...
 
-###### ARTIGO 636.º
+ARTIGO 636.º
 
 (Publicidade e continuidade da audiência)
 
@@ -522,7 +642,7 @@ e) Se faltar sem motivo justificado e não for encontrada para vir depor nos ter
 
 4. As pessoas que tenham sido ouvidas não podem ausentar-se sem autorização do presidente, que a não concederá quando haja oposição dos juízes adjuntos ou das partes.
 
-###### ARTIGO 721.º
+ARTIGO 721.º
 
 (Decisões que comportam revista)
 
@@ -532,7 +652,7 @@ e) Se faltar sem motivo justificado e não for encontrada para vir depor nos ter
 
 3. Para os efeitos deste artigo, consideram-se como lei substantiva as normas e os princípios de direito internacional geral ou comum e as disposições genéricas, de carácter substantivo, emanadas dos Órgãos de Soberania, nacionais ou estrangeiros, ou constantes de convenções ou tratados internacionais.
 
-###### ARTIGO 769.º
+ARTIGO 769.º
 
 (Publicação do assento)
 
@@ -540,7 +660,7 @@ e) Se faltar sem motivo justificado e não for encontrada para vir depor nos ter
 
 2. ...
 
-###### ARTIGO 823.º
+ARTIGO 823.º
 
 (Bens relativa ou parcialmente impenhoráveis)
 
@@ -564,7 +684,7 @@ f) ...
 
 4. ...
 
-###### ARTIGO 834.º
+ARTIGO 834.º
 
 (Restrições à liberdade de nomeação)
 
@@ -572,7 +692,7 @@ f) ...
 
 2. ...
 
-###### ARTIGO 854.º
+ARTIGO 854.º
 
 (Dever de apresentação dos bens)
 
@@ -582,7 +702,7 @@ f) ...
 
 3. O arresto é levantado logo que o pagamento esteja feito, ou os bens apresentados, acrescidos do depósito da quantia de custas e despesas, que será imediatamente calculada.
 
-###### ARTIGO 894.º
+ARTIGO 894.º
 
 (Deliberação sobre as propostas e adjudicação)
 
@@ -598,7 +718,7 @@ f) ...
 
 6. O auto de transmissão e entrega de bens só será lavrado depois de paga ou depositada a totalidade do preço.
 
-###### ARTIGO 904.º
+ARTIGO 904.º
 
 (Pagamento do preço. Sanções)
 
@@ -614,7 +734,7 @@ f) ...
 
 6. Os preferentes que pretendam exercer o seu direito depositarão logo todo o preço, além das despesas prováveis da arrematação.
 
-###### ARTIGO 905.º
+ARTIGO 905.º
 
 (Título de arrematação)
 
@@ -624,7 +744,7 @@ f) ...
 
 3. A sisa é sempre paga por inteiro pelo adquirente.
 
-###### ARTIGO 906.º
+ARTIGO 906.º
 
 (Dispensa de depósito aos credores)
 
@@ -634,7 +754,7 @@ f) ...
 
 3. Quando, por efeito da graduação de créditos, o adquirente não tenha direito à quantia que deixou de depositar ou a parte dela, é notificado para fazer o respectivo depósito dentro de oito dias, sob pena de ser executado nos termos do artigo 904.º, começando a execução pelos próprios bens adquiridos ou pela caução.
 
-###### ARTIGO 972.º
+ARTIGO 972.º
 
 (Aplicação subsidiária do processo sumário)
 
@@ -656,7 +776,7 @@ e) ...
 
 f) ...
 
-###### ARTIGO 1038.º
+ARTIGO 1038.º
 
 (Embargos de terceiros por parte dos cônjuges)
 
@@ -664,7 +784,7 @@ f) ...
 
 2. ...
 
-###### ARTIGO 1181.º
+ARTIGO 1181.º
 
 (Publicações da sentença)
 
@@ -674,7 +794,7 @@ f) ...
 
 3. ...
 
-###### ARTIGO 1183.º
+ARTIGO 1183.º
 
 (Dedução de embargos à sentença de falência)
 
@@ -684,13 +804,13 @@ f) ...
 
 3. ...
 
-###### ARTIGO 1238.º
+ARTIGO 1238.º
 
 (Reclamação de direitos próprios estranhos à falência)
 
 Ao falido ou ao seu cônjuge é permitido, sem necessidade de autorização do outro cônjuge, reclamar os seus direitos próprios e exclusivos estranhos à falência.
 
-###### ARTIGO 1269.º
+ARTIGO 1269.º
 
 (Chamamento dos credores para embargarem)
 
@@ -698,7 +818,7 @@ Ao falido ou ao seu cônjuge é permitido, sem necessidade de autorização do o
 
 2. ...
 
-###### ARTIGO 1279.º
+ARTIGO 1279.º
 
 (Instrução para a indiciação do falido)
 
@@ -706,7 +826,7 @@ Ao falido ou ao seu cônjuge é permitido, sem necessidade de autorização do o
 
 2. Se a alegação dos factos for feita no requerimento inicial, as testemunhas são ouvidas sobre eles na audiência de julgamento para declaração da falência, extractando-se na acta os seus depoimentos, na parte respeitante à culpa ou fraude. Desses depoimentos tirar-se-á certidão para servir de base à instrução.
 
-###### ARTIGO 1305.º
+ARTIGO 1305.º
 
 (Prazo da reclamação de créditos; omissão da publicação no jornal oficial)
 
@@ -714,7 +834,7 @@ Ao falido ou ao seu cônjuge é permitido, sem necessidade de autorização do o
 
 2. É omitida a publicação no jornal oficial da sentença declaratória da falência, observando-se, porém, as restantes formas de publicação estabelecidas no artigo 1181.º, e o prazo dos embargos é contado da publicado no jornal.
 
-###### ARTIGO 1327.º
+ARTIGO 1327.º
 
 (Nomeação, substituição e declarações de cabeça-de-casal)
 
@@ -730,7 +850,7 @@ Deste dever é expressamente advertido no acto da citação.
 
 Se não apresentar todos ou alguns dos elementos exigidos, explicará o motivo da falta e designar-se-á prazo para o fazer.
 
-###### ARTIGO 1332.º
+ARTIGO 1332.º
 
 (Oposição e impugnações)
 
@@ -746,7 +866,7 @@ Pelos interessados residentes no terrtório de Macau ou no estrangeiro, ou por a
 
 5. ...
 
-###### ARTIGO 1352.º
+ARTIGO 1352.º
 
 (Assuntos a submeter à conferência de interessados)
 
@@ -766,7 +886,7 @@ b) Quaisquer questões cuja resolução possa influir na partilha.
 
 6. ...
 
-###### ARTIGO 1404.º
+ARTIGO 1404.º
 
 (Inventário em consequência de separação, divórcio, declaração de nulidade ou anulação de casamento)
 
@@ -776,7 +896,7 @@ b) Quaisquer questões cuja resolução possa influir na partilha.
 
 3. ...
 
-###### ARTIGO 1414.º
+ARTIGO 1414.º
 
 (Privação do direito ao nome do cônjuge)
 
@@ -786,7 +906,7 @@ b) Quaisquer questões cuja resolução possa influir na partilha.
 
 3. ...
 
-###### ARTIGO 1416.º
+ARTIGO 1416.º
 
 (Contribuição do cônjuge para as despesas domésticas)
 
@@ -794,22 +914,22 @@ b) Quaisquer questões cuja resolução possa influir na partilha.
 
 2. Seguir-se-ão, com as necessárias adaptações, os termos do processo para a fixação dos alimentos provisórios e a sentença, se considerar justificado o pedido, ordenará a notificação da pessoa ou entidade pagadora dos rendimentos ou proventos para entregar directamente ao requerente a respectiva importância periódica.
 
-###### ARTIGO 1463.º
+ARTIGO 1463.º
 
 (Direito de preferência pertencente aos cônjuges)
 
 Se o direito de preferência pertencer em comum aos cônjuges é pedida a notificação de ambos, podendo qualquer deles exercê-lo.
 
-###### Art. 2.º É revogado o artigo 1415.º do Código de Processo Civil.
+Art. 2.º É revogado o artigo 1415.º do Código de Processo Civil.
 
-###### Art. 3.º O disposto nos artigos 604.º, n.º 2, e 1031.º e na alínea a) do n.º 4 do artigo 1352.º do Código de Processo Civil, na redacção anterior à entrada em vigor do presente diploma, aplicar-se-á transitoriamente sempre que isso se mostre necessário à regularização de situações pretéritas de aforamento.
+Art. 3.º O disposto nos artigos 604.º, n.º 2, e 1031.º e na alínea a) do n.º 4 do artigo 1352.º do Código de Processo Civil, na redacção anterior à entrada em vigor do presente diploma, aplicar-se-á transitoriamente sempre que isso se mostre necessário à regularização de situações pretéritas de aforamento.
 
-###### Art. 4.º O presente diploma entra em vigor quinze dias após a sua publicação.
+Art. 4.º O presente diploma entra em vigor quinze dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos.
 
-**Promulgado em 15 de Agosto de 1977.**
+Promulgado em 15 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

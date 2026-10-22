@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/03300/03070321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fa2e1beac6aa1cb6ba8d1662d6c314087a350cbc1b90c203500d5975f3edf9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65b4be06a8241c8b1c4bffeed40aac83bd4bc195f66b7f2ada3be66b8ab09838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento
+- Emolumento do Notariado
+- Registo Automóvel
+- Registo Civil
+- Registo Predial
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456873:por
+  label: "Substituída a tabela de emolumentos do registo civil, pelo DEC LEI.51/78.30.03.1978.MJ, DR.IS [74]Supl de 30.03.1978\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1978-456873
+  date: '1978-03-30'
+- type: amended_by
+  target: pt:dre:446961:por
+  label: "Suspensa pelo prazo de noventa dias a aplicação do art. 23º da Tabela de Emolumentos do Notariado em anexo pelo\
+    \ DEC LEI.60/78.03.04.1978.MJ, DR.IS [77] de 03.04.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1978-446961
+  date: '1978-04-03'
+- type: amended_by
+  target: pt:dre:294732:por
+  label: Alterado o art. 31º da Tabela de Emolumentos do Notariado pelo DEC LEI.132/78.05.06.1978.MJ, DR.IS [128] de 05.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1978-294732
+  date: '1978-06-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDA A TABELA DE EMOLUMENTOS DO NOTARIADO, PELO DEC LEI 232/82 DE 17-JUN DR.IS [137] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-06-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDA A TABELA DE EMOLUMENTOS DO REGISTO DE AUTOMÓVEIS PELO DEC LEI 242/82 DE 22-JUN DR.IS [141]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-06-22'
+- type: amended_by
+  target: pt:dre:443686:por
+  label: "Substituídas as tabelas de emolumentos dos registos predial e comercial, pelo DEC LEI.397/83.02.11.1983.MJ, DR.IS\
+    \ [252] de 02.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-1983-443686
+  date: '1983-11-02'
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508385:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 137
+  article_count: 136
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:03Z'
   warnings: []
   errors: []
 ---
@@ -109,19 +169,19 @@ Pelo exposto:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As Tabelas de Emolumentos do Registo Civil, do Registo Predial, do Registo Comercial e do Registo de Automóveis e a Tabela de Emolumentos Notariais são substituídas pelas correspondentes tabelas anexas ao presente diploma.
+Artigo 1.º As Tabelas de Emolumentos do Registo Civil, do Registo Predial, do Registo Comercial e do Registo de Automóveis e a Tabela de Emolumentos Notariais são substituídas pelas correspondentes tabelas anexas ao presente diploma.
 
-###### Art. 2.º Até à entrada em vigor do [Decreto-Lei n.º 496/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1977-300030), de 25 de Novembro, os emolumentos do assento de emancipação e do processo de dispensa de impedimento matrimonial são os constantes dos artigos 10.º e 25.º da tabela anexa ao [Decreto-Lei n.º 47678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47678-1967-508385), de 5 de Maio de 1967.
+Art. 2.º Até à entrada em vigor do [Decreto-Lei n.º 496/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1977-300030), de 25 de Novembro, os emolumentos do assento de emancipação e do processo de dispensa de impedimento matrimonial são os constantes dos artigos 10.º e 25.º da tabela anexa ao [Decreto-Lei n.º 47678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47678-1967-508385), de 5 de Maio de 1967.
 
-###### Art. 3.º Este decreto-lei entra em vigor quinze dias após a data da sua publicação.
+Art. 3.º Este decreto-lei entra em vigor quinze dias após a data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António de Almeida Santos - Henrique Medina Carreira.
 
-**Promulgado em 18 de Janeiro de 1978.**
+Promulgado em 18 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 TABELA DE EMOLUMENTOS DO REGISTO CIVIL
 
@@ -385,7 +445,7 @@ Os actos que não estiverem expressamente compreendidos nesta Tabela serão prat
 
 Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil.
 
-**O Ministro da Justiça, António de Almeida Santos.**
+O Ministro da Justiça, António de Almeida Santos.
 
 TABELA DE EMOLUMENTOS DO REGISTO PREDIAL
 
@@ -525,7 +585,7 @@ O imposto devido pelas certidões e notas de registo, bem como o custo dos impre
 
 2 - Em caso de dúvida sobre se é devido um ou outro emolumento, cobrar-se-á sempre o menor.
 
-**O Ministro da Justiça, António de Almeida Santos.**
+O Ministro da Justiça, António de Almeida Santos.
 
 TABELA DE EMOLUMENTOS DO REGISTO COMERCIAL
 
@@ -689,7 +749,7 @@ Os emolumentos e demais encargos devidos pelo registo da falência, concordata, 
 
 2 - Em caso de dúvida sobre se é devido um ou outro emolumento, cobrar-se-á sempre o menor.
 
-**O Ministro da Justiça, António de Almeida Santos.**
+O Ministro da Justiça, António de Almeida Santos.
 
 TABELA DE EMOLUMENTOS DO REGISTO DE AUTOMÓVEIS
 
@@ -751,7 +811,7 @@ Para reembolso das despesas com a remessa de requerimentos e documentos é devid
 
 2 - O saldo que trimestralmente vier a apurar-se entre a receita das taxas e as despesas efectuadas, quando positivo, reverterá para o Serviço Social do Ministério da Justiça; quando negativo, será suportado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-**O Ministro da Justiça, António de Almeida Santos.**
+O Ministro da Justiça, António de Almeida Santos.
 
 TABELA DE EMOLUMENTOS DO NOTARIADO
 
@@ -1165,4 +1225,4 @@ Nos instrumentos, certificados, certidões e públicas-formas, cada linha deve c
 
 2 - No caso de dúvida sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.
 
-**O Ministro da Justiça, António de Almeida Santos.**
+O Ministro da Justiça, António de Almeida Santos.

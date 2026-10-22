@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1971-631420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86788ac8faf44718f35be6d1079d332b2fe61b7034d8fecea2184e258a7c5619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5191a72e0f41d1103ee1c29b55bdd30e2ca5b03962836b35a1074272d7f51594
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Combustível
+- Importação
+- Petróleo
 relationships:
 - type: amended_by
   target: pt:dre:591108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:371786:por
+  label: "Revogados os arts. 5º, 6º e 7º pelo DEC LEI.212/88.17.06.1988.MIE, DR.IS [138] de 17.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1988-371786
+  date: '1988-06-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:48Z'
   warnings: []
   errors: []
 ---
@@ -99,35 +115,35 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Mediante licença especial do Governo, os titulares da autorização a que se refere a base XII da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, poderão importar produtos refinados.
+Artigo 1.º - 1. Mediante licença especial do Governo, os titulares da autorização a que se refere a base XII da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, poderão importar produtos refinados.
 
 2. A licença especial prevista neste artigo terá, exclusivamente, por fim o equilíbrio e a satisfação das necessidades do abastecimento do mercado interno e por objecto os produtos que a indústria nacional não possa fornecer.
 
 3. O Governo estabelecerá, de harmonia com os critérios do número anterior, o prazo das licenças especiais que houver de conceder e, no seu termo, a renovação delas.
 
-###### Art. 2.º - 1. Os titulares da autorização a que se refere a base XII da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, submeterão à aprovação do Governo, por intermédio da Direcção-Geral dos Combustíveis, os seus projectos de contrato de compra de petróleos brutos.
+Art. 2.º - 1. Os titulares da autorização a que se refere a base XII da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, submeterão à aprovação do Governo, por intermédio da Direcção-Geral dos Combustíveis, os seus projectos de contrato de compra de petróleos brutos.
 
 2. Até um quarto do montante do abastecimento em matéria-prima necessária para a produção dos derivados, fixada em cada alvará geral de importação para refinação nacional, poderá o Governo, quando convier às circunstâncias da economia nacional, indicar aos respectivos titulares os termos em que devem celebrar os contratos de compra de petróleos brutos ou substituir-se-lhes na celebração dos mesmos contratos.
 
-###### Art. 3.º - 1. Os produtos obtidos nas refinarias nacionais gozam de preferência em igualdade de qualidade e em concorrência de preços com os produtos de origem
+Art. 3.º - 1. Os produtos obtidos nas refinarias nacionais gozam de preferência em igualdade de qualidade e em concorrência de preços com os produtos de origem
 
 estrangeira nos fornecimentos a efectuar, quer nos portos, quer nos aeroportos, da metrópole, respectivamente à navegação marítima e à navegação aérea.
 
 2. O disposto neste artigo entende-se sem prejuízo dos contratos vigentes do fornecimento em regime de exclusivo e, em qualquer caso, dos abastecimentos às forças armadas.
 
-###### Art. 4.º É elevado para 10000000$00 o limite estabelecido na base XXI da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937.
+Art. 4.º É elevado para 10000000$00 o limite estabelecido na base XXI da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937.
 
-###### Art. 5.º - 1. Os titulares de autorização para o estabelecimento da indústria de tratamento de óleos minerais ficam obrigados a manter em depósito uma reserva de petróleos brutos, ou de produtos de petróleo, ou daqueles e destes, correspondente a um quarto dos quantitativos que devam produzir para o mercado interno, nos termos do respectivo alvará geral de importação para refinação nacional.
+Art. 5.º - 1. Os titulares de autorização para o estabelecimento da indústria de tratamento de óleos minerais ficam obrigados a manter em depósito uma reserva de petróleos brutos, ou de produtos de petróleo, ou daqueles e destes, correspondente a um quarto dos quantitativos que devam produzir para o mercado interno, nos termos do respectivo alvará geral de importação para refinação nacional.
 
 2. Para o efeito do número anterior, são contados os produtos de petróleo pela sua quantidade real e os petróleos brutos na proporção das quantidades de cada uma das categorias de produtos obtidos pelos estabelecimentos refinadores, segundo o respectivo plano anual de fabrico, aprovado pela entidade oficial competente.
 
-###### Art. 6.º - 1. As entidades que adquiram às refinarias metropolitanas produtos de petróleo para distribuição no mercado interno ficam obrigadas a manter em depósito, por cada produto, uma reserva de 1/12 das quantidades anuais adquiridas.
+Art. 6.º - 1. As entidades que adquiram às refinarias metropolitanas produtos de petróleo para distribuição no mercado interno ficam obrigadas a manter em depósito, por cada produto, uma reserva de 1/12 das quantidades anuais adquiridas.
 
 2. A obrigação estabelecida neste artigo tem por objecto os produtos consignados nos alvarás gerais de importação para refinação nacional atribuídos às refinarias.
 
-###### Art. 7.º Os importadores de petróleo em regime de autorização geral ou de autorização especial ficam obrigados a manter em depósito, por cada produto, uma reserva de um terço das quantidades que hajam importado no ano anterior.
+Art. 7.º Os importadores de petróleo em regime de autorização geral ou de autorização especial ficam obrigados a manter em depósito, por cada produto, uma reserva de um terço das quantidades que hajam importado no ano anterior.
 
-###### Art. 8.º O Secretário de Estado da Indústria, ouvida a Secretaria de Estado do Comércio, poderá fixar por despacho:
+Art. 8.º O Secretário de Estado da Indústria, ouvida a Secretaria de Estado do Comércio, poderá fixar por despacho:
 
 a) O regime de preços para as refinarias;
 
@@ -139,8 +155,8 @@ d) Os preços ao consumidor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 3 de Novembro de 1971.**
+Promulgado em 3 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

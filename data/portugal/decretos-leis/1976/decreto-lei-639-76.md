@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17600/17881804.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/639-1976-430981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccf80d31206a201a73a59f759c350f91efb3f23f5b1ece2b9cd7d84a3dc12df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce893258a8841a0572d2beb8e46f3104f0248cad809f8e478fde74e16842142f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Empresa Pública dos Jornais Notícias e Capital
+- Empresa Pública dos Jornais Século e Popular
+- Nacionalização
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356516:por
+  label: "Alterada a denominação da Empresa Pública dos Jornais Notícias e Capital, criada no presente diploma, passando a\
+    \ designar-se Diário de Notícias, E. P., pelo DEC LEI.448/88.10.12.1988.PCM, DR.IS [284] de 10.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/448-1988-356516
+  date: '1988-12-10'
+- type: amended_by
+  target: pt:dre:313826:por
+  label: "Extinta a Empresa Pública do Jornal Diário Popular (EPDP), criada pelo presente diploma, pelo DEC LEI.1/90.1990.01.03.PCM,\
+    \ DR.IS [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-1990-313826
+  date: '1990-01-03'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
 article_structure:
-  article_count: 97
+  article_count: 95
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:02Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +175,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São nacionalizadas, com eficácia a partir da data da entrada em vigor do presente diploma, as posições sociais não pertencentes directa ou indirectamente ao Estado no capital das seguintes sociedades:
+Artigo 1.º São nacionalizadas, com eficácia a partir da data da entrada em vigor do presente diploma, as posições sociais não pertencentes directa ou indirectamente ao Estado no capital das seguintes sociedades:
 
 a) Sociedade Nacional de Tipografia, S. A. R. L.;
 
@@ -139,13 +185,13 @@ c) Sociedade Industrial de Imprensa, S. A. R. L.;
 
 d) Sociedade Gráfica de A Capital, S. A. R. L.
 
-###### Art. 2.º - 1. Embora não seja de presumir o efectivo direito a qualquer indemnização por parte dos titulares das posições sociais objecto da presente medida de nacionalização, dado o estado de falência técnica das respectivas empresas, é reconhecido, em princípio, aos mesmos titulares o direito a serem indemnizados pelo efectivo valor das mesmas posições à data da intervenção do Estado na gestão da respectiva empresa, de acordo com os critérios de avaliação que vierem a ser legalmente fixados.
+Art. 2.º - 1. Embora não seja de presumir o efectivo direito a qualquer indemnização por parte dos titulares das posições sociais objecto da presente medida de nacionalização, dado o estado de falência técnica das respectivas empresas, é reconhecido, em princípio, aos mesmos titulares o direito a serem indemnizados pelo efectivo valor das mesmas posições à data da intervenção do Estado na gestão da respectiva empresa, de acordo com os critérios de avaliação que vierem a ser legalmente fixados.
 
 2. O direito referido no número antecedente caducará automaticamente quando não exercido dentro do prazo de noventa dias, a contar da entrada em vigor do diploma que fixar os mencionados critérios de avaliação.
 
-###### Art. 3.º Por força do presente diploma, independentemente de quaisquer formalidades, são criadas duas empresas públicas denominadas Empresa Pública dos Jornais Notícias e Capital, por abreviatura EPNC, e Empresa Pública dos Jornais Século e Popular, por abreviatura EPSP, dotadas de personalidade jurídica e autonomia administrativa, financeira e patrimonial e com a sede, o objecto e as demais especificações constantes dos respectivos estatutos, que constituem parte integrante do presente decreto-lei.
+Art. 3.º Por força do presente diploma, independentemente de quaisquer formalidades, são criadas duas empresas públicas denominadas Empresa Pública dos Jornais Notícias e Capital, por abreviatura EPNC, e Empresa Pública dos Jornais Século e Popular, por abreviatura EPSP, dotadas de personalidade jurídica e autonomia administrativa, financeira e patrimonial e com a sede, o objecto e as demais especificações constantes dos respectivos estatutos, que constituem parte integrante do presente decreto-lei.
 
-###### Art. 4.º - 1. A Empresa Pública dos Jornais Notícias e Capital é constituída em resultado da fusão, por incorporação, das sociedades Empresa Nacional de Publicidade, S. A. R. L., e Sociedade Gráfica de A Capital, S. A. R. L.
+Art. 4.º - 1. A Empresa Pública dos Jornais Notícias e Capital é constituída em resultado da fusão, por incorporação, das sociedades Empresa Nacional de Publicidade, S. A. R. L., e Sociedade Gráfica de A Capital, S. A. R. L.
 
 2. A Empresa Pública dos Jornais Século e Popular, S. A. R. L., é constituída em resultado da fusão, por incorporação, das sociedades Sociedade Nacional de Tipografia, S. A. R. L., e Sociedade Industrial de Imprensa, S. A. R. L.
 
@@ -153,7 +199,7 @@ d) Sociedade Gráfica de A Capital, S. A. R. L.
 
 4. Os administradores das sociedades fundidas não incorrem em qualquer responsabilidade pelas consequências do acto da sua fusão.
 
-###### Art. 5.º - 1. A universalidade dos bens, direitos e obrigações, incluindo as posições contratuais, que integram o activo e o passivo das sociedades fundidas é transferida para o Estado e integrada no património autónomo da empresa pública resultante da sua fusão.
+Art. 5.º - 1. A universalidade dos bens, direitos e obrigações, incluindo as posições contratuais, que integram o activo e o passivo das sociedades fundidas é transferida para o Estado e integrada no património autónomo da empresa pública resultante da sua fusão.
 
 2. Os bens do Estado que se encontram afectos à exploração das sociedades fundidas passam a estar afectos à exploração da empresa pública resultante da sua fusão.
 
@@ -163,39 +209,39 @@ d) Sociedade Gráfica de A Capital, S. A. R. L.
 
 5. As transmissões de que trata o presente artigo serão objecto de simples averbamento.
 
-###### Art. 6.º As dívidas passivas das sociedades fundidas, transmitidas nos termos do artigo anterior para as empresas resultantes da sua fusão, de que sejam credores a Previdência, o Estado, organismos públicos ou empresas públicas ou nacionalizadas, são assumidas directamente pelo Estado e ficam sujeitas ao seguinte regime:
+Art. 6.º As dívidas passivas das sociedades fundidas, transmitidas nos termos do artigo anterior para as empresas resultantes da sua fusão, de que sejam credores a Previdência, o Estado, organismos públicos ou empresas públicas ou nacionalizadas, são assumidas directamente pelo Estado e ficam sujeitas ao seguinte regime:
 
 a) Relativamente a cada uma das empresas públicas agora criadas, o montante de 150000 contos é desde já convertido em capital estatutário;
 
 b) O remanescente será contabilizado na conta «Estado» e deverá ser amortizado pela empresa pública devedora em quinze prestações anuais, iguais e sucessivas, com o vencimento em 31 de Dezembro do ano a que disserem respeito, sem lugar a vencimento de juros.
 
-###### Art. 7.º As dívidas directamente assumidas pelo Estado, nos termos do artigo anterior, serão liquidadas aos respectivos credores:
+Art. 7.º As dívidas directamente assumidas pelo Estado, nos termos do artigo anterior, serão liquidadas aos respectivos credores:
 
 a) As dívidas à Previdência serão integralmente liquidadas nos termos a definir por despacho conjunto dos Ministros das Finanças e dos Assuntos Sociais;
 
 b) As dívidas à banca nacionalizada e outras empresas do sector público serão pagas através da tomada pelas entidades credoras de títulos da dívida pública, de valor nominal correspondente à integralidade dos correspondentes débitos, à taxa de juro e nas condições que vierem a ser definidas por despacho do Ministro das Finanças, operando-se a correspondente compensação.
 
-###### Art. 8.º - 1. A fim de dotar as empresas públicas agora criadas com a liquidez necessária à prossecução das suas actividades, o Estado poderá efectuar, em relação a cada uma delas, novas dotações em dinheiro, após estudo a efectuar nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, as quais, de harmonia com o disposto no artigo 17.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, serão integradas no respectivo capital estatutário.
+Art. 8.º - 1. A fim de dotar as empresas públicas agora criadas com a liquidez necessária à prossecução das suas actividades, o Estado poderá efectuar, em relação a cada uma delas, novas dotações em dinheiro, após estudo a efectuar nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, as quais, de harmonia com o disposto no artigo 17.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, serão integradas no respectivo capital estatutário.
 
 2. Quer os aumentos de capital previstos no n.º 1, quer eventuais reduções do mesmo capital, serão efectuados por despacho conjunto do Ministro da Tutela e do Ministro das Finanças.
 
-###### Art. 9.º Os actos de fusão e os consequentes actos de transmissão previstos neste diploma ficam isentos do pagamento de impostos, incluindo o do selo, taxas e emolumentos.
+Art. 9.º Os actos de fusão e os consequentes actos de transmissão previstos neste diploma ficam isentos do pagamento de impostos, incluindo o do selo, taxas e emolumentos.
 
-###### Art. 10.º Os trabalhadores das sociedades fundidas transitam para as empresas resultantes da sua fusão, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações.
+Art. 10.º Os trabalhadores das sociedades fundidas transitam para as empresas resultantes da sua fusão, independentemente de quaisquer formalidades, com todos os seus direitos e obrigações.
 
-###### Art. 11.º As empresas públicas agora criadas regem-se pelo disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e supletivamente pelas normas de direito privado, na parte não especialmente prevista nem contrariada pelo presente decreto-lei e pelos estatutos anexos que dele fazem parte integrante.
+Art. 11.º As empresas públicas agora criadas regem-se pelo disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e supletivamente pelas normas de direito privado, na parte não especialmente prevista nem contrariada pelo presente decreto-lei e pelos estatutos anexos que dele fazem parte integrante.
 
-###### Art. 12.º A tutela sobre as empresas públicas agora criada, na parte não especialmente prevista nos respectivos estatutos, será exercida pelo Ministro da Comunicação Social, que para o efeito é designado Ministro da Tutela.
+Art. 12.º A tutela sobre as empresas públicas agora criada, na parte não especialmente prevista nos respectivos estatutos, será exercida pelo Ministro da Comunicação Social, que para o efeito é designado Ministro da Tutela.
 
-###### Art. 13.º As dúvidas que se suscitarem na interpretação do presente decreto-lei e dos estatutos a ele anexos serão resolvidas por despacho conjunto dos Ministros da Comunicação Social e das Finanças.
+Art. 13.º As dúvidas que se suscitarem na interpretação do presente decreto-lei e dos estatutos a ele anexos serão resolvidas por despacho conjunto dos Ministros da Comunicação Social e das Finanças.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - António de Almeida Santos.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ESTATUTO DA EMPRESA PÚBLICA DOS JORNAIS NOTÍCIAS E CAPITAL
 
@@ -663,7 +709,7 @@ As publicações periódicas editadas pela EPNC mantêm, nessa qualidade, a sua 
 
 Na parte não prevista neste Estatuto, ou que não conflitue com o que nele se prevê, aplica-se supletivamente à EPNC o disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
-**O Ministro da Comunicação Social, António de Almeida Santos.**
+O Ministro da Comunicação Social, António de Almeida Santos.
 
 ESTATUTO DA EMPRESA PÚBLICA DOS JORNAIS SÉCULO E POPULAR
 
@@ -1071,7 +1117,7 @@ As contas da EPSP não são submetidas a julgamento do Tribunal de Contas.
 
 4 - O vencimento dos trabalhadores em comissão de serviço constituirá encargo da entidade para que se encontre a exercer efectivamente funções.
 
-###### Artigo 41.º (Deveres especiais)
+Artigo 41.º (Deveres especiais)
 
 1 - Ao executarem as tarefas de que forem incumbidos, os trabalhadores devem pôr a sua iniciativa e criatividade ao serviço dos fins superiores do Estado democrático e dos objectivos da empresa definidos neste Estatuto, na lei e nas directivas do conselho de informação, do conselho de gerência e do director das publicações periódicas editadas pela empresa, no uso da respectiva competência legal e estatutária, abstendo-se de todo o partidarismo que prejudique a missão de esclarecimento e formação, com independência e objectividade, que cabe à imprensa.
 
@@ -1127,4 +1173,4 @@ As publicações periódicas editadas pela EPSP mantêm, nessa qualidade, a sua 
 
 Na parte não prevista neste Estatuto, ou que não conflitue com o que nele se prevê, aplica-se supletivamente à EPSP o disposto no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
-**O Ministro da Comunicação Social, António de Almeida Santos.**
+O Ministro da Comunicação Social, António de Almeida Santos.

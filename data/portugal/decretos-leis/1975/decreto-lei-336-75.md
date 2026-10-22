@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1975-336751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fe4c246bc574bd85d8ce0b26908e850edb135fcd8f972e8d59684f5622c0a01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afae711d831e11441643571214a652a114f7e998dafe478f77e2ea737b0a69df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Processo do Trabalho
+- Competência Jurisdicional
+- Tribunal do Trabalho
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:21Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +99,16 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 177.º do Código de Processo do Trabalho passa a ter a seguinte redacção:
+Artigo único. O artigo 177.º do Código de Processo do Trabalho passa a ter a seguinte redacção:
 
-###### Art. 177.º - 1. A acção penal relativa a qualquer infracção da competência dos tribunais do trabalho extingue-se por prescrição, desde que não seja exercida no decurso do prazo de dois anos, a contar da data em que a infracção se consumou.
+Art. 177.º - 1. A acção penal relativa a qualquer infracção da competência dos tribunais do trabalho extingue-se por prescrição, desde que não seja exercida no decurso do prazo de dois anos, a contar da data em que a infracção se consumou.
 
 2. O levantamento de auto de notícia que faça fé em juízo é acto interruptor da prescrição da acção penal.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Inácio da Costa Martins.
 
-**Promulgado em 23 de Junho de 1975.**
+Promulgado em 23 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

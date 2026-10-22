@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/07/17300/08900894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49146-1969-199147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa55df8bd3cbd8d9474a8d7f9c4550c7b4d8f6d59b00c4d6242d50bfd60ebac3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f8fb3ea6179471ddd433eb5e99af555c2e4f7ece4f45fd50ab8509391ba1ef0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cofre do Conselho Ultramarino
+- Conselho Superior Judiciário do Ultramar
+- Conselho Ultramarino
+- Definição de Competências
+- Orgânica
+- Presidente
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:161091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161091:por
+  label: "Extinto o Conselho Ultramarino e revogado o presente diploma, pelo DEC LEI.125/75.12.03.1975.MCINT, DG.IS [60] de\
+    \ 12.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1975-161091
+  date: '1975-03-12'
+- type: cites
+  target: pt:dre:216706:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:216288:por
+  label: "Rectificado o nº1 do art. 21º e a al. d) do art. 22º do presente diploma, pela RECT.DD475.16.10.1969.PC, DG.IS [243]\
+    \ de 16.10.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-216288
+  date: '1969-10-16'
+- type: repealed_by
+  target: pt:dre:476326:por
+  label: "Revogado o nº 4 do art. 2º pelo DEC LEI.311/74.09.07.1974.MCINT, DG.IS [158] de 09.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1974-476326
+  date: '1974-07-09'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:11Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +136,13 @@ Nestes termos, ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer com lei, o seguinte:
 
-###### Artigo único. É aprovada a Lei Orgânica do Conselho Ultramarino, que faz parte do presente decreto-lei e entra em vigor no dia 1 de Outubro de 1969.
+Artigo único. É aprovada a Lei Orgânica do Conselho Ultramarino, que faz parte do presente decreto-lei e entra em vigor no dia 1 de Outubro de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Julho de 1969.**
+Promulgado em 7 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -122,9 +150,9 @@ LEI ORGÂNICA DO CONSELHO ULTRAMARINO
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º O Conselho Ultramarino é o mais alto órgão permanente de consulta do Ministro do Ultramar em matéria de política e administração ultramarinas, o Tribunal da Constitucionalidade, Supremo Tribunal Administrativo e Tribunal de Conflitos de Jurisdição e de Competência do ultramar.
+Artigo 1.º O Conselho Ultramarino é o mais alto órgão permanente de consulta do Ministro do Ultramar em matéria de política e administração ultramarinas, o Tribunal da Constitucionalidade, Supremo Tribunal Administrativo e Tribunal de Conflitos de Jurisdição e de Competência do ultramar.
 
-###### Art. 2.º - 1. Junto do Conselho Ultramarino funciona o Conselho Superior Judiciário do Ultramar, composto de vogais natos e vogais permanentes.
+Art. 2.º - 1. Junto do Conselho Ultramarino funciona o Conselho Superior Judiciário do Ultramar, composto de vogais natos e vogais permanentes.
 
 2. São vogais permanentes três juízes de 2.ª instância do ultramar, nomeados em comissão de serviço, renovável de cinco anos, pelo Ministro do Ultramar.
 
@@ -134,7 +162,7 @@ LEI ORGÂNICA DO CONSELHO ULTRAMARINO
 
 #### SECÇÃO II — Composição
 
-###### Art. 3.º - 1. Além do presidente, o Conselho Ultramarino é composto de vogais natos, vogais efectivos e vogais substitutos, que se distribuem por uma secção do contencioso, duas secções consultivas e pelo plenário.
+Art. 3.º - 1. Além do presidente, o Conselho Ultramarino é composto de vogais natos, vogais efectivos e vogais substitutos, que se distribuem por uma secção do contencioso, duas secções consultivas e pelo plenário.
 
 2. A secção do contencioso, formada por sete vogais, constitui o Supremo Tribunal Administrativo e o Tribunal de Conflitos de Jurisdição e de Competência do ultramar, compreendendo duas subsecções:
 
@@ -146,11 +174,11 @@ b) 2.ª subsecção, que completa o plenário da secção.
 
 4. O Plenário do Conselho Ultramarino reúne, além dos componentes das secções, os restantes vogais efectivos ou natos no exercício de funções.
 
-###### Art. 4.º - 1. São vogais natos o secretário-geral do Ministério do Ultramar, os governadores-gerais e os governadores de província.
+Art. 4.º - 1. São vogais natos o secretário-geral do Ministério do Ultramar, os governadores-gerais e os governadores de província.
 
 2. Os governadores-gerais e os governadores de província só exercerão as suas funções quando se encontrem na metrópole ou quando especialmente convocados.
 
-###### Art. 5.º - 1. São vogais efectivos:
+Art. 5.º - 1. São vogais efectivos:
 
 a) Os vogais que compõem a secção do contencioso;
 
@@ -170,7 +198,7 @@ e) Dezanove vogais eleitos pelos conselhos legislativos das províncias ultramar
 
 5. Cada província será, nas secções consultivas, representada pelo vogal eleito residente em Lisboa. No plenário, cada província de governo-geral será representada pelos respectivos vogais eleitos; Macau e Timor serão representadas não só pelos respectivos vogais de residência metropolitana, mas ainda, alternada e anualmente, por um dos vogais com residência no ultramar por elas eleitos; às províncias de Cabo Verde, Guiné e S. Tomé e Príncipe aplicar-se-á esta regra, de maneira que, no conjunto, a representação das províncias de governo simples fique sempre assegurada, a par do vogal residente na metrópole, por um vogal residente no ultramar, de cada grupo.
 
-###### Art. 6.º - 1. A 1.ª subsecção da secção do contencioso do Conselho Ultramarino é composta de quatro vogais, nomeados pelo Ministro do Ultramar, em comissão de serviço renovável de cinco anos, entre magistrados de 2.ª instância do ultramar.
+Art. 6.º - 1. A 1.ª subsecção da secção do contencioso do Conselho Ultramarino é composta de quatro vogais, nomeados pelo Ministro do Ultramar, em comissão de serviço renovável de cinco anos, entre magistrados de 2.ª instância do ultramar.
 
 2. Podem também ser nomeados para esta subsecção professores das Faculdades de Direito ou doutores em Direito, juízes dos tribunais superiores da Administração e licenciados em Direito que desempenhem ou tenham desempenhado as funções de director-geral, inspector superior da administração ultramarina do Ministério do
 
@@ -178,9 +206,9 @@ Ultramar ou, pelo menos, durante dez anos, de vogal nomeado dos tribunais admini
 
 3. Os juízes de 1.ª instância que à data da publicação deste diploma se encontrarem em serviço na referida subsecção mantêm-se nos seus lugares até ao termo das comissões, que poderão ser renovadas se o Ministro do Ultramar assim o entender.
 
-###### Art. 7.º A 2.ª subsecção da secção do contencioso é constituída pelos três vogais permanentes do Conselho Superior Judiciário, em acumulação de funções.
+Art. 7.º A 2.ª subsecção da secção do contencioso é constituída pelos três vogais permanentes do Conselho Superior Judiciário, em acumulação de funções.
 
-###### Art. 8.º - 1. Junto da 1.ª subsecção da secção do contencioso há três agentes do Ministério Público: o chefe da Repartição de Justiça da Direcção-Geral de Justiça, do Ministério do Ultramar, que funciona nos processos do contencioso administrativo e do trabalho e previdência social; o chefe da Repartição das Alfândegas da Inspecção Superior das Alfândegas, do mesmo Ministério, que funciona nos processos do contencioso aduaneiro, e o director de serviços da Direcção-Geral de Fazenda, do aludido Ministério, que funciona nos processos do contencioso fiscal.
+Art. 8.º - 1. Junto da 1.ª subsecção da secção do contencioso há três agentes do Ministério Público: o chefe da Repartição de Justiça da Direcção-Geral de Justiça, do Ministério do Ultramar, que funciona nos processos do contencioso administrativo e do trabalho e previdência social; o chefe da Repartição das Alfândegas da Inspecção Superior das Alfândegas, do mesmo Ministério, que funciona nos processos do contencioso aduaneiro, e o director de serviços da Direcção-Geral de Fazenda, do aludido Ministério, que funciona nos processos do contencioso fiscal.
 
 2. Os representantes do Ministério Público junto das subsecções a que se refere o número anterior deste artigo têm por função promover o que tiverem por conveniente em defesa dos legítimos interesses do Estado, das autarquias locais ou de outras pessoas e entidades a quem devam patrocínio, e pugnar pelo rigoroso acatamento da lei, tanto oficiosamente como em cumprimento de instruçõs recebidas dos órgãos competentes, ou a requerimento fundamentado e instruído dos cidadãos ou colectividades que nisso tenham interesse e legalmente o possam fazer.
 
@@ -206,7 +234,7 @@ b) O chefe da Repartição das Alfândegas, pelo funcionário em serviço na Ins
 
 c) O director de serviços da Direcção-Geral de Fazenda, pelo chefe de Repartição da mesma Direcção-Geral que for designado pelo Ministro do Ultramar.
 
-###### Art. 9.º - 1. Os vogais a que se referem as alíneas b) e c) do artigo 5.º, n.º 1, deste diploma, são escolhidos entre pessoas que hajam desempenhado algum dos seguintes cargos: Ministro ou Subsecretário de Estado do Ultramar, governador-geral ou de província; Deputado por círculo ultramarino ou procurador à Câmara Corporativa em secção especializada em assuntos do ultramar, director-geral, inspector-geral ou superior do Ministério, secretário-geral ou provincial, professor de escola superior que ensine matéria directamente respeitante às questões internacionais ou ultramarinas ou que sobre elas haja publicado trabalhos de mérito. Poderão ainda ser escolhidas pessoas que, possuindo curso superior, hajam exercido, com distinção, actividade no ultramar.
+Art. 9.º - 1. Os vogais a que se referem as alíneas b) e c) do artigo 5.º, n.º 1, deste diploma, são escolhidos entre pessoas que hajam desempenhado algum dos seguintes cargos: Ministro ou Subsecretário de Estado do Ultramar, governador-geral ou de província; Deputado por círculo ultramarino ou procurador à Câmara Corporativa em secção especializada em assuntos do ultramar, director-geral, inspector-geral ou superior do Ministério, secretário-geral ou provincial, professor de escola superior que ensine matéria directamente respeitante às questões internacionais ou ultramarinas ou que sobre elas haja publicado trabalhos de mérito. Poderão ainda ser escolhidas pessoas que, possuindo curso superior, hajam exercido, com distinção, actividade no ultramar.
 
 2. Os vogais referidos na alínea e) do artigo 5.º, n.º 1, deste diploma são eleitos entre pessoas que tenham desempenhado elevados cargos na administração, no ensino ou na justiça, ou se hajam distinguido no exercício de actividades económicas, sociais ou culturais.
 
@@ -214,7 +242,7 @@ c) O director de serviços da Direcção-Geral de Fazenda, pelo chefe de Reparti
 
 4. Os vogais do Conselho Ultramarino podem ser incumbidos pelo Governo do desempenho de missões de estudo ou de quaisquer comissões transitórias de serviço público na metrópole ou nas províncias ultramarinas.
 
-###### Art. 10.º - 1. No impedimento dos relatores da secção do contencioso observar-se-á o disposto nos artigos 227.º e 711.º do Código de Processo Civil.
+Art. 10.º - 1. No impedimento dos relatores da secção do contencioso observar-se-á o disposto nos artigos 227.º e 711.º do Código de Processo Civil.
 
 2. Os juízes adjuntos que sejam vogais da 1.ª subsecção serão substituídos pelos vogais da 2.ª subsecção, por ordem crescente de antiguidade no quadro.
 
@@ -222,11 +250,11 @@ c) O director de serviços da Direcção-Geral de Fazenda, pelo chefe de Reparti
 
 4. Nas secções consultivas há quatro vogais substitutos nomeados livremente pelo Ministro do Ultramar, em comissões renováveis de cinco anos, que prestarão serviço em qualquer destas secções pela ordem das nomeações, no impedimento dos vogais efectivos.
 
-###### Art. 11.º - 1. Quando a natureza do assunto a estudar o aconselhe, podem pelo vice-presidente do Conselho Ultramarino ser convocados um ou mais vogais da secção do contencioso para colaborar em trabalhos das secções consultivas.
+Art. 11.º - 1. Quando a natureza do assunto a estudar o aconselhe, podem pelo vice-presidente do Conselho Ultramarino ser convocados um ou mais vogais da secção do contencioso para colaborar em trabalhos das secções consultivas.
 
 2. Quando a afluência do serviço ou outras circunstâncias o aconselharem, podem um ou mais vogais de uma subsecção do contencioso ser designados pelo Ministro do Ultramar para temporàriamente prestarem serviço em outra subsecção, cumulativamente com as suas funções, sob proposta do vice-presidente.
 
-###### Art. 12.º - 1. O Ministro do Ultramar é o presidente do Conselho Ultramarino.
+Art. 12.º - 1. O Ministro do Ultramar é o presidente do Conselho Ultramarino.
 
 2. O exercício permanente da presidência compete, porém, ao vice-presidente, que o Ministro nomeará entre os vogais efectivos das secções consultivas.
 
@@ -236,11 +264,11 @@ c) O director de serviços da Direcção-Geral de Fazenda, pelo chefe de Reparti
 
 5. A presidência da secção do contencioso incumbe ao vogal que for presidente do Conselho Superior Judiciário.
 
-###### Art. 13.º - 1. Os membros do Conselho Ultramarino têm direito a insígnias próprias do modelo aprovado em portaria pelo Ministro do Ultramar que, em regra, poderão usar em actos solenes.
+Art. 13.º - 1. Os membros do Conselho Ultramarino têm direito a insígnias próprias do modelo aprovado em portaria pelo Ministro do Ultramar que, em regra, poderão usar em actos solenes.
 
 2. Aos membros do Conselho Ultramarino que hajam servido durante quinze anos, seguidos ou interpolados, serão as insígnias definitivamente atribuídas.
 
-###### Art. 14.º - 1. Os vogais da secção do contencioso têm honras, direitos, categoria e vencimento iguais aos dos juízes do Supremo Tribunal Administrativo.
+Art. 14.º - 1. Os vogais da secção do contencioso têm honras, direitos, categoria e vencimento iguais aos dos juízes do Supremo Tribunal Administrativo.
 
 2. O agente do Ministério Público para o contencioso administrativo e do trabalho e previdência social percebe uma gratificação mensal de 4000$00 e os dois restantes percebem, cada um, metade desta gratificação.
 
@@ -254,11 +282,11 @@ c) Vogais substitutos em exercício de funções;
 
 d) Vogais da secção do contencioso, pela ordem seguinte: presidente da secção, presidente da 1.ª subsecção, vogais da 2.ª subsecção segundo a sua antiguidade na categoria do quadro da magistratura; vogais da 1.ª subsecção segundo a sua antiguidade na categoria do quadro da magistratura ou, havendo vogais que não pertençam a este quadro, pela ordem do respectivo ingresso no Conselho Ultramarino, sendo este critério que fixará as precedências dentro da 1.ª subsecção entre magistrados e não magistrados.
 
-###### Art. 15.º - 1. O exercício de funções nas secções consultivas é retribuído com a gratificação mensal de 3000$00, acumulável com quaisquer vencimentos ou gratificações e mesmo que ultrapasse o limite legal.
+Art. 15.º - 1. O exercício de funções nas secções consultivas é retribuído com a gratificação mensal de 3000$00, acumulável com quaisquer vencimentos ou gratificações e mesmo que ultrapasse o limite legal.
 
 2. Os vogais a que se refere a segunda parte do n.º 5 do artigo 5.º, quando se desloquem das respectivas províncias para exercício de funções no Conselho Ultramarino, têm direito a ajuda de custo de embarque e a uma gratificação igual à dos Deputados à Assembleia Nacional, bem como a passagens na classe que a estes competir.
 
-###### Art. 16.º - 1. Não podem ser vogais efectivos do Conselho Ultramarino:
+Art. 16.º - 1. Não podem ser vogais efectivos do Conselho Ultramarino:
 
 a) Os funcionários em serviço no Ministério do Ultramar que não sejam professores dos estabelecimentos de ensino ou de investigação dele dependentes, salvo o disposto na alínea d) do artigo 5.º, n.º 1, deste diploma;
 
@@ -276,7 +304,7 @@ c) Durante o desempenho de comissões de serviço no ultramar ou no estrangeiro.
 
 #### SECÇÃO III — Competência
 
-###### Art. 17.º - 1. Compete ao Conselho Ultramarino:
+Art. 17.º - 1. Compete ao Conselho Ultramarino:
 
 a) Emitir parecer sobre os projectos de diploma legal que lhe sejam submetidos pelo Ministro do Ultramar e elaborar aqueles de que seja incumbido pelo mesmo Ministro;
 
@@ -300,13 +328,13 @@ j) Desempenhar, pelas respectivas secções, subsecções ou em sessão plenári
 
 2. O parecer do Conselho Ultramarino sobre processos relativos a inscrição em exercícios findos, sem dependência de dotação orçamental anterior, só será necessário quando assim for determinado por despacho ministerial.
 
-###### Art. 18.º - 1. O Conselho Ultramarino funciona em sessões plenárias e de secção ou de subsecção.
+Art. 18.º - 1. O Conselho Ultramarino funciona em sessões plenárias e de secção ou de subsecção.
 
 2. O vice-presidente presidirá às sessões plenárias do Conselho e às reuniões das secções consultivas, tendo voto de qualidade, no caso de empate.
 
 3. Aos presidentes da 1.ª subsecção e da secção do contencioso compete dirigir os trabalhos das sessões, apurar o vencido e julgar as reclamações deduzidas contra a rejeição ou retenção dos recursos para a subsecção ou secção.
 
-###### Art. 19.º Compete ao Conselho Ultramarino, em sessão plenária:
+Art. 19.º Compete ao Conselho Ultramarino, em sessão plenária:
 
 a) Emitir parecer nos casos que, por lei, lhe devam ser submetidos;
 
@@ -322,13 +350,13 @@ f) Deliberar sobre assuntos respeitantes ao Conselho Ultramarino que lhe sejam s
 
 g) Julgar, nos termos da lei, como tribunal da constitucionalidade, os incidentes de inconstitucionalidade orgânica ou formal de diplomas dimanados dos governos provinciais.
 
-###### Art. 20.º Às secções consultivas compete, indistintamente, consoante a distribuição do serviço, emitir os pareceres mencionados nas alíneas a) e b) do artigo 17.º, n.º 1, deste diploma.
+Art. 20.º Às secções consultivas compete, indistintamente, consoante a distribuição do serviço, emitir os pareceres mencionados nas alíneas a) e b) do artigo 17.º, n.º 1, deste diploma.
 
-###### Art. 21.º - 1. Competem à 1.ª subsecção da secção do contencioso as atribuições enunciadas nas alíneas d), e), f) e h), no tocante às províncias de governo simples ou quando os conflitos sejam suscitados entre tribunais de trabalho de províncias diferentes, e i) do artigo 17.º, n.º 1, deste diploma.
+Art. 21.º - 1. Competem à 1.ª subsecção da secção do contencioso as atribuições enunciadas nas alíneas d), e), f) e h), no tocante às províncias de governo simples ou quando os conflitos sejam suscitados entre tribunais de trabalho de províncias diferentes, e i) do artigo 17.º, n.º 1, deste diploma.
 
 2. Compete à 2.ª subsecção completar o plenário da secção do contencioso para o exercício das funções a esta atribuídas.
 
-###### Art. 22.º Compete à secção do contencioso, em reunião conjunta das suas subsecções:
+Art. 22.º Compete à secção do contencioso, em reunião conjunta das suas subsecções:
 
 a) Julgar os recursos interpostos das decisões da 1.ª subsecção que hajam sido proferidos no exercício da competência referida na alínea d) do artigo 17.º, n.º 1, deste diploma;
 
@@ -340,27 +368,27 @@ d) Julgar os recursos das decisões definitivas da 1.ª subsecção ou da secç�
 
 e) Proceder à reforma dos processos que lhe estiverem afectos.
 
-###### Art. 23.º As sentenças do Conselho Ultramarino tornam-se executórias logo que transitem em julgado e obrigam as autoridades e funcionários, sob pena de desobediência.
+Art. 23.º As sentenças do Conselho Ultramarino tornam-se executórias logo que transitem em julgado e obrigam as autoridades e funcionários, sob pena de desobediência.
 
 A sua inexecução só pode ter por fundamento a impossibilidade ou, quanto ao contencioso administrativo, grave prejuízo na respectiva execução, podendo, neste caso, ser devida uma indemnização.
 
 #### SECÇÃO IV — Funcionamento
 
-###### Art. 24.º Podem ser convidadas pela presidência do Conselho Ultramarino para assistirem, sem voto, às reuniões, quando seja julgado necessário ao esclarecimento das questões pendentes, quaisquer pessoas com conhecimento especializado da matéria a discutir.
+Art. 24.º Podem ser convidadas pela presidência do Conselho Ultramarino para assistirem, sem voto, às reuniões, quando seja julgado necessário ao esclarecimento das questões pendentes, quaisquer pessoas com conhecimento especializado da matéria a discutir.
 
-###### Art. 25.º - 1. Entre as sessões que o Regimento venha a estabelecer haverá, em regra, duas sessões plenárias do Conselho Ultramarino em cada ano, nos meses de Outubro e Março e nas datas fixadas pelo vice-presidente, com a antecedência mínima de trinta dias.
+Art. 25.º - 1. Entre as sessões que o Regimento venha a estabelecer haverá, em regra, duas sessões plenárias do Conselho Ultramarino em cada ano, nos meses de Outubro e Março e nas datas fixadas pelo vice-presidente, com a antecedência mínima de trinta dias.
 
 2. A ordem de trabalhos de cada uma destas sessões será fixada por despacho do Ministro do Ultramar.
 
 3. Salvo motivo justificado, os vogais referidos na segunda parte do n.º 5 do artigo 5.º do presente diploma deverão também comparecer às sessões a que se refere o n.º 1 deste preceito.
 
-###### Art. 26.º O Conselho Ultramarino tem secretaria privativa e férias como os tribunais judiciais com sede na metrópole, sem prejuízo das sessões extraordinárias que o Regimento admita.
+Art. 26.º O Conselho Ultramarino tem secretaria privativa e férias como os tribunais judiciais com sede na metrópole, sem prejuízo das sessões extraordinárias que o Regimento admita.
 
-###### Art. 27.º As despesas do Conselho Ultramarino e da sua secretaria constituem encargo privativo das províncias ultramarinas, a distribuir proporcionalmente entre elas.
+Art. 27.º As despesas do Conselho Ultramarino e da sua secretaria constituem encargo privativo das províncias ultramarinas, a distribuir proporcionalmente entre elas.
 
-###### Art. 28.º As custas cobradas nos processos contenciosos da competência do Conselho Ultramarino constituem receita das províncias, nos termos a fixar na tabela das custas.
+Art. 28.º As custas cobradas nos processos contenciosos da competência do Conselho Ultramarino constituem receita das províncias, nos termos a fixar na tabela das custas.
 
-###### Art. 29.º - 1. É criado o Cofre do Conselho Ultramarino, cuja administração incumbe ao vice-presidente do Conselho.
+Art. 29.º - 1. É criado o Cofre do Conselho Ultramarino, cuja administração incumbe ao vice-presidente do Conselho.
 
 2. O Regimento determinará as verbas que constituem as receitas do Cofre ou as disposições que as possam prever, as despesas do Conselho que pelos seus fundos devem ser satisfeitas e as demais providências necessárias à sua gestão.
 

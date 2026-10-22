@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/128-1973-674814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84adcb09da9c122de5657c9d426a109ffb1f38ffc24fee02c10f5774837ef25c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c68c7b4f9e8bf3760f44bebe4f4feb28e80de29b205ef7ad81aca893e07fa5f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Estágio de Formação
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Pessoal Técnico
+- Programa de Provas
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:215148:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:35Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +101,13 @@ Considerando a necessidade de rever e completar algumas das disposições do Reg
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os n.os 4) e 5) do artigo 2.º, 3) do artigo 8.º, 3) do artigo 17.º, 2) do artigo 24.º, 3) do artigo 45.º, 2) do artigo 54.º, 2) e 3) do artigo 61.º e 2) do artigo 77.º do Regulamento dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, são suprimidos.
+Artigo 1.º - 1. Os n.os 4) e 5) do artigo 2.º, 3) do artigo 8.º, 3) do artigo 17.º, 2) do artigo 24.º, 3) do artigo 45.º, 2) do artigo 54.º, 2) e 3) do artigo 61.º e 2) do artigo 77.º do Regulamento dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, são suprimidos.
 
 2. Os n.os 6) do artigo 2.º, 4) do artigo 8.º, 4) do artigo 17.º, 3) do artigo 24.º, 4) do artigo 45.º, 4) do artigo 61.º e 3) do artigo 77.º do Regulamento a que se refere o número anterior passam a constituir, respectivamente, os n.os 4), 3), 3), 2), 3), 2) e 2) dos mesmos artigos, e os §§ 1.º e 2.º do artigo 73.º passam a constituir, respectivamente, os §§ 2.º e 3.º do mesmo artigo.
 
-###### Art. 2.º O § 2.º do artigo 5.º, a alínea a) do n.º 1) e o n.º 2) do artigo 17.º, o § único do artigo 18.º, o artigo 19.º e seus parágrafos, o artigo 20.º e seus parágrafos, o artigo 25.º, o artigo 43.º, o artigo 50.º e seus §§ 2.º, 3.º e 4.º, o n.º 2 do artigo 54.º, o artigo 57.º e seus parágrafos, o artigo 62.º, o § único do artigo 63.º, o artigo 64.º e seu § único, o artigo 65.º, o artigo 66.º e o § 1.º do artigo 73.º do Regulamento a que se refere o artigo anterior passam a ter a seguinte redacção:
+Art. 2.º O § 2.º do artigo 5.º, a alínea a) do n.º 1) e o n.º 2) do artigo 17.º, o § único do artigo 18.º, o artigo 19.º e seus parágrafos, o artigo 20.º e seus parágrafos, o artigo 25.º, o artigo 43.º, o artigo 50.º e seus §§ 2.º, 3.º e 4.º, o n.º 2 do artigo 54.º, o artigo 57.º e seus parágrafos, o artigo 62.º, o § único do artigo 63.º, o artigo 64.º e seu § único, o artigo 65.º, o artigo 66.º e o § 1.º do artigo 73.º do Regulamento a que se refere o artigo anterior passam a ter a seguinte redacção:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 ...
 
@@ -103,7 +115,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 ...
 
@@ -117,13 +129,13 @@ b) ...
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 ...
 
 § único. O calendário das provas práticas, com indicação da ordem de apresentação à prova pública, determinada por sorteio, será publicado simultaneamente com a lista definitiva dos candidatos admitidos a concurso ou com a declaração a que se refere o § 1.º do artigo 4.º A elaboração do calendário das provas práticas para obtenção do certificado de estágio para experimentador será feita de modo que cada candidato realize as respectivas provas em dias diferentes.
 
-###### Art. 19.º As provas documentais dos concursos para obtenção do certificado de estágio para experimentador e para ajudante de experimentador consistem na apreciação das qualidades dos candidatos com base nas suas informações de serviço e nos elementos referidos nos n.os 1) e 3) do corpo do artigo 17.º do presente Regulamento, segundo o critério de classificação indicado no corpo do artigo 9.º do Regulamento das Informações de Serviço do Laboratório Nacional de Engenharia Civil.
+Art. 19.º As provas documentais dos concursos para obtenção do certificado de estágio para experimentador e para ajudante de experimentador consistem na apreciação das qualidades dos candidatos com base nas suas informações de serviço e nos elementos referidos nos n.os 1) e 3) do corpo do artigo 17.º do presente Regulamento, segundo o critério de classificação indicado no corpo do artigo 9.º do Regulamento das Informações de Serviço do Laboratório Nacional de Engenharia Civil.
 
 § 1.º Em relação aos candidatos à obtenção de certificado de estágio para experimentador que sejam estagiários para esta categoria, as qualidades referidas no corpo deste artigo são as mencionadas no artigo 5.º do Regulamento nele citado, reveladas desde a admissão ao estágio. Serão reprovados os candidatos que obtiverem classificação inferior a 12 em duas das qualidades mencionadas nos n.os 1), 2), 3) e 5) do referido artigo 5.º, ou uma classificação média de todas as qualidades, arredondada às décimas, inferior a 12.
 
@@ -137,7 +149,7 @@ b) ...
 
 § 6.º A classificação global das provas documentais dos estagiários para ajudante de experimentador é a média ponderada, arredondada às décimas, obtida atribuindo o peso dois à classificação média de todas as qualidades referidas no § 3.º e o peso um à classificação final do curso de aperfeiçoamento de estagiários para ajudante de experimentador.
 
-###### Art. 20.º As provas práticas dos concursos para obtenção de certificado de estágio para experimentador (provas A, B e C) e para ajudante de experimentador (prova A) são as seguintes:
+Art. 20.º As provas práticas dos concursos para obtenção de certificado de estágio para experimentador (provas A, B e C) e para ajudante de experimentador (prova A) são as seguintes:
 
 Prova A - Prova oral pública, com duração não superior a uma hora e trinta minutos, destinada à apreciação dos conhecimentos técnicos do candidato e, nos concursos para obtenção de certificado de estágio para experimentador, dos trabalhos que realizou no decurso do estágio ou desde a nomeação para ajudante de experimentador.
 
@@ -153,15 +165,15 @@ Prova C - Prova escrita de tradução de um texto técnico em inglês com duraç
 
 ...
 
-###### Art. 25.º Poderão ser agregados ao júri indivíduos estranhos ao Laboratório para colaborarem na organização e classificação das provas práticas, aos quais serão satisfeitos os encargos resultantes da sua colaboração.
+Art. 25.º Poderão ser agregados ao júri indivíduos estranhos ao Laboratório para colaborarem na organização e classificação das provas práticas, aos quais serão satisfeitos os encargos resultantes da sua colaboração.
 
 ...
 
-###### Art. 43.º A preparação de tese por parte dos especialistas para apresentação a concurso para obtenção do grau de investigador carece de prévia aprovação por júri constituído pelo director do Laboratório, pelo subdirector e pelos chefes de serviço designados em cada caso, dada sobre requerimento do interessado, donde conste indicação do tema escolhido para a tese referida no corpo do artigo 46.º O júri terá em consideração o interesse do tema, em face dos planos gerais de actividade da instituição, a possibilidade de ser assegurada a preparação da tese e as qualidades profissionais do requerente, o qual não será atendido quando o nível dessas qualidades se situar manifestamente abaixo do mínimo exigido nas provas documentais do concurso.
+Art. 43.º A preparação de tese por parte dos especialistas para apresentação a concurso para obtenção do grau de investigador carece de prévia aprovação por júri constituído pelo director do Laboratório, pelo subdirector e pelos chefes de serviço designados em cada caso, dada sobre requerimento do interessado, donde conste indicação do tema escolhido para a tese referida no corpo do artigo 46.º O júri terá em consideração o interesse do tema, em face dos planos gerais de actividade da instituição, a possibilidade de ser assegurada a preparação da tese e as qualidades profissionais do requerente, o qual não será atendido quando o nível dessas qualidades se situar manifestamente abaixo do mínimo exigido nas provas documentais do concurso.
 
 ...
 
-###### Art. 50.º As provas práticas do concurso para obtenção do grau de investigador, que serão orais e públicas, serão precedidas da apresentação do curriculum dos candidatos e são as seguintes:
+Art. 50.º As provas práticas do concurso para obtenção do grau de investigador, que serão orais e públicas, serão precedidas da apresentação do curriculum dos candidatos e são as seguintes:
 
 Prova A - Apreciação e discussão da tese original, por um ou dois arguentes, durante um período não superior a três horas.
 
@@ -179,7 +191,7 @@ Prova B - Exposição de uma hora sobre tema anunciado com sete dias de anteced�
 
 ...
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 ...
 
@@ -195,7 +207,7 @@ c) ...
 
 ...
 
-###### Art. 57.º As provas práticas do concurso de promoção a experimentador-chefe são as seguintes:
+Art. 57.º As provas práticas do concurso de promoção a experimentador-chefe são as seguintes:
 
 Prova A - Prova oral pública, com duração não superior a uma hora e trinta minutos, destinada à apreciação dos conhecimentos técnicos do candidato e dos trabalhos que realizou desde a admissão na categoria de experimentador.
 
@@ -209,13 +221,13 @@ Prova B - Prova escrita de tradução de um texto técnico em inglês, com dura�
 
 ...
 
-###### Art. 62.º Encerrado o concurso, o júri procederá conforme o disposto no corpo do artigo 4.º e seu § 1.º
+Art. 62.º Encerrado o concurso, o júri procederá conforme o disposto no corpo do artigo 4.º e seu § 1.º
 
 § 1.º Aplica-se aos concursos de promoção a experimentador de 1.ª classe e a ajudante de experimentador de classe o estabelecido no § 1.º do artigo 48.º
 
 § 2.º O calendário das provas práticas do concurso de promoção a ajudante de experimentador de 1.ª classe, com indicação da ordem de apresentação à prova pública determinada por sorteio, será publicado simultaneamente com a lista definitiva dos candidatos admitidos a concurso ou com a declaração a que se refere o § 1.º do artigo 4.º A elaboração do calendário será feita de modo que cada candidato realize as respectivas provas em dias diferentes.
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 ...
 
@@ -225,7 +237,7 @@ Prova B - Prova escrita de tradução de um texto técnico em inglês, com dura�
 
 § 3.º A classificação global das provas documentais do concurso de promoção a ajudante de experimentador de 1.ª classe é a média ponderada, arredondada às décimas, obtida atribuindo o peso dois à classificação média de todas as qualidades referida no § 1.º e o peso um à classificação final do curso de aperfeiçoamento de ajudantes de experimentador de 2.ª classe.
 
-###### Art. 64.º As provas práticas dos concursos de promoção a ajudante de experimentador de 1.ª classe são as seguintes:
+Art. 64.º As provas práticas dos concursos de promoção a ajudante de experimentador de 1.ª classe são as seguintes:
 
 Prova A - Prova oral pública, com duração não superior a uma hora e trinta minutos, destinada à apreciação dos conhecimentos técnicos do candidato e dos trabalhos que realizou desde a admissão na categoria a que pertence.
 
@@ -235,15 +247,15 @@ Prova B - Prova, com duração não superior a seis horas, destinada à aprecia�
 
 § 2.º A cada prova prática será atribuída uma classificação de 0 a 20, considerando-se como classificação global das provas práticas a média, arredondada às décimas, das classificações obtidas nas duas provas. Serão reprovados os candidatos que obtiverem classificação inferior a 12 numa das provas.
 
-###### Art. 65.º A classificação final dos concursos de promoção a experimentador de 1.ª classe e a ajudante de experimentador de 1.ª classe será obtida do seguinte modo:
+Art. 65.º A classificação final dos concursos de promoção a experimentador de 1.ª classe e a ajudante de experimentador de 1.ª classe será obtida do seguinte modo:
 
 1) Concurso de promoção a experimentador de 1.ª classe: a classificação final é a classificação global das provas documentais; só serão publicadas as classificações finais dos candidatos aprovados;
 
 2) Concurso de promoção a ajudante de experimentador de 1.ª classe: a classificação final será obtida conforme indicado no corpo do artigo 14.º observando-se o disposto no seu § único.
 
-###### Art. 66.º Aplica-se aos concursos de promoção a ajudante de experimentador de 1.ª classe o disposto no artigo 15.º e seu § único.
+Art. 66.º Aplica-se aos concursos de promoção a ajudante de experimentador de 1.ª classe o disposto no artigo 15.º e seu § único.
 
-###### Art. 73.º ...
+Art. 73.º ...
 
 ...
 
@@ -251,12 +263,12 @@ Prova B - Prova, com duração não superior a seis horas, destinada à aprecia�
 
 ...
 
-###### Art. 3.º Os concursos do pessoal técnico e do pessoal de traduções do Laboratório Nacional de Engenharia Civil em curso à data da publicação deste diploma continuam a regular-se pelas disposições que os têm regido.
+Art. 3.º Os concursos do pessoal técnico e do pessoal de traduções do Laboratório Nacional de Engenharia Civil em curso à data da publicação deste diploma continuam a regular-se pelas disposições que os têm regido.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 13 de Março de 1973.**
+Promulgado em 13 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

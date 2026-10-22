@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30100/30943102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1977-276642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 476d0f9a94e8d99e69d6c7e212fd658650b3677c03a6849056dc28c4a5e564d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e899b330291a5d2099bdd229f80af334e7e3c22e4860de28b415f1f106c7672
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amoníaco Português
+- CUF
+- Estatuto
+- Nitratos de Portugal
+- Quimigal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392839:por
+  label: "Alterado pelo DEC LEI.158/82.1982.05.06.MIEE DR.IS [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1982-392839
+  date: '1982-05-06'
+- type: amended_by
+  target: pt:dre:609346:por
+  label: Transformada em sociedade anónima de capitais maioritariamente públicos A QUIMIGAL - Química de Portugal, E. P.,
+    criada pelo presente diploma, pelo(a) Decreto-Lei n.º 25/89 - Diário da República n.º 17/1989, Série I de 1989-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1989-609346
+  date: '1989-01-20'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:312055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446542:por
+  label: Rectificado pela DECL.DD7591.21.02.1978.PCM, DR.IS [43] de 21.02.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-446542
+  date: '1978-02-21'
 article_structure:
-  article_count: 53
+  article_count: 52
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:01Z'
   warnings: []
   errors: []
 ---
@@ -102,37 +145,37 @@ Considerando o disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 260/76](ht
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É instituída a empresa pública Química de Portugal, E. P., abreviadamente designada por Quimigal, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas do direito privado.
+Artigo 1.º - 1 - É instituída a empresa pública Química de Portugal, E. P., abreviadamente designada por Quimigal, a qual se rege pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas do direito privado.
 
 2 - A Quimigal é uma empresa colectiva dotada de autonomia administrativa, financeira e patrimonial, sem prejuízo da tutela a exercer pelo Governo, nos termos da lei geral e dos estatutos.
 
-###### Art. 2.º - 1 - Salvo lei geral em contrário, são transferidas para a Quimigal, na data de entrada em vigor deste diploma, as universalidades dos direitos e obrigações das empresas nacionalizadas Amoníaco Português, S. A. R. L., Nitratos de Portugal, S. A. R. L., e Companhia União Fabril, S. A. R. L., a que se referem o artigo 3.º do [Decreto-Lei n.º 457/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1975-314914), de 22 de Agosto, e o artigo 3.º do [Decreto-Lei n.º 532/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1975-312055), de 25 de Setembro.
+Art. 2.º - 1 - Salvo lei geral em contrário, são transferidas para a Quimigal, na data de entrada em vigor deste diploma, as universalidades dos direitos e obrigações das empresas nacionalizadas Amoníaco Português, S. A. R. L., Nitratos de Portugal, S. A. R. L., e Companhia União Fabril, S. A. R. L., a que se referem o artigo 3.º do [Decreto-Lei n.º 457/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1975-314914), de 22 de Agosto, e o artigo 3.º do [Decreto-Lei n.º 532/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1975-312055), de 25 de Setembro.
 
 2 - As transmissões previstas no número anterior operam-se por virtude do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo o de registo.
 
 3 - Em caso de dúvida, servirá de título bastante para as referidas transmissões a simples declaração feita pela Quimigal, E. P., e confirmada pela Direcção-Geral do Património, de que os bens se incluem entre os referidos nos citados Decretos-Leis n.os [457/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1975-314914) e [532/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1975-312055).
 
-###### Art. 3.º - 1 - Transitarão para a Quimigal, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste decreto estiveram ao serviço das empresas nacionalizadas nela agrupadas.
+Art. 3.º - 1 - Transitarão para a Quimigal, independentemente de quaisquer formalidades, os trabalhadores que à data da entrada em vigor deste decreto estiveram ao serviço das empresas nacionalizadas nela agrupadas.
 
 2 - Os trabalhadores de que trata este artigo transitarão para a Quimigal integrados nos quadros de origem e com os direitos e obrigações emergentes da respectiva situação nesses quadros.
 
-###### Art. 4.º Os poderes de tutela do Governo sobre a Quimigal serão exercidos pelo Ministro da Indústria e Tecnologia.
+Art. 4.º Os poderes de tutela do Governo sobre a Quimigal serão exercidos pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 5.º - 1 - Consideram-se extintas a partir da data da entrada em vigor deste diploma as empresas nacionalizadas Amoníaco Português, S. A. R. L., Nitratos de Portugal, S. A. R. L., e Companhia União Fabril, S. A. R. L.
+Art. 5.º - 1 - Consideram-se extintas a partir da data da entrada em vigor deste diploma as empresas nacionalizadas Amoníaco Português, S. A. R. L., Nitratos de Portugal, S. A. R. L., e Companhia União Fabril, S. A. R. L.
 
 2 - Fica proibida a utilização, por qualquer entidade pública ou privada que não a Quimigal, dos nomes, siglas, símbolos e marcas comerciais ou outras até aqui utilizados pelas empresas referidas no número anterior.
 
-###### Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um Ministério.
+Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um Ministério.
 
-###### Art. 7.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa.
 
-**Promulgado em 20 de Dezembro de 1977.**
+Promulgado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DA EMPRESA PÚBLICA QUÍMICA DE PORTUGAL, E. P. - QUIMIGAL
 
@@ -634,4 +677,4 @@ Os rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação 
 
 A empresa fica sujeita à tributação directa e indirecta, nos termos gerais do direito fiscal.
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.**
+O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.

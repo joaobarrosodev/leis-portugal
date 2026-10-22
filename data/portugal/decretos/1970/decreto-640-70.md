@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/640-1970-146067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54119fddf5b42a5dd3839e3bbb4677d0718d9d990594351681cb36444bd4829e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b96aeb19bef5f7809f88f2fba97d0ab5ee0bbdc6b7c521eea4531d88893b135
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:58Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +118,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos Gerais da Nação
 
@@ -128,7 +156,7 @@ Ministério das Obras Públicas
 
 No capítulo 15.º:
 
-###### Artigo 123.º, n.º 1) «Instalações e apetrechamento inicial»:
+Artigo 123.º, n.º 1) «Instalações e apetrechamento inicial»:
 
 Da alínea 3 «Edifícios do ensino superior e investigação» ... -2880000$00
 
@@ -136,7 +164,7 @@ Da alínea 4 «Instalações e apetrechamento inicial ...» ... -5250000$00
 
 Para a alínea 2 «Edifícios do ciclo preparatório do ensino secundário, ...» ... +8130000$00
 
-###### Artigo 127.º, n.º 1) «Assistência na doença em geral»:
+Artigo 127.º, n.º 1) «Assistência na doença em geral»:
 
 Da alínea 4 «Escolas e lares de enfermagem» ... -4800000$00
 
@@ -166,71 +194,71 @@ Para a alínea 7 «Aeroporto de Santa Maria» ... +1960000$00
 
 Para a alínea 12 «Aeroporto do Sal (Cabo Verde)» ... +1530000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 3653226$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 3653226$40, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 2.º «Presidência do Conselho»:
+Capítulo 2.º «Presidência do Conselho»:
 
 Presidência do Conselho
 
-###### Artigo 20.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor: ...» ... 70000$00
+Artigo 20.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor: ...» ... 70000$00
 
-###### Artigo 21.º, n.º 2) «Artigos de expediente ...» ... 10000$00
+Artigo 21.º, n.º 2) «Artigos de expediente ...» ... 10000$00
 
-###### Artigo 22.º «Despesas de comunicações»:
+Artigo 22.º «Despesas de comunicações»:
 
 N.º 2) «Telefones» ... 7500$00
 
 N.º 3) «Transportes» ... 7000$00
 
-###### Artigo 23.º, n.º 3) «Pagamento de serviços ...» ... 6000$00
+Artigo 23.º, n.º 3) «Pagamento de serviços ...» ... 6000$00
 
 Gabinete do Subsecretário de Estado do Planeamento Económico
 
-###### Artigo 34.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 10000$00
+Artigo 34.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 10000$00
 
-###### Artigo 36.º, n.º 3) «Transportes» ... 7500$00
+Artigo 36.º, n.º 3) «Transportes» ... 7500$00
 
 Secretaria-Geral da Presidência do Conselho
 
-###### Artigo 47.º, n.º 2) «Pagamento de serviços ...» ... 20000$00
+Artigo 47.º, n.º 2) «Pagamento de serviços ...» ... 20000$00
 
 Auditorias administrativas
 
 Auditoria Administrativa de Lisboa
 
-###### Artigo 59.º «Remunerações certas ao pessoal em exercício»:
+Artigo 59.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante dois meses e onze dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29600/19291931.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29600/19291931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29600/19291931.pdf)
 
 Auditoria Administrativa do Porto
 
-###### Artigo 67.º «Remunerações certas ao pessoal em exercício»:
+Artigo 67.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) - «Pessoal dos quadros aprovados por lei»:
 
 (Durante dois meses e onze dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29600/19291931.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29600/19291931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29600/19291931.pdf)
 
-### Capítulo 4.º «Instituto Nacional de Estatística»:
+Capítulo 4.º «Instituto Nacional de Estatística»:
 
-###### Artigo 94.º, n.º 2) «De móveis» ... 300000$00
+Artigo 94.º, n.º 2) «De móveis» ... 300000$00
 
-### Capítulo 5.º «Secretariado Técnico da Presidência do Conselho»:
+Capítulo 5.º «Secretariado Técnico da Presidência do Conselho»:
 
-###### Artigo 112.º, n.º 2) «Subsídios a conceder nos termos do artigo 20.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), ...» ... 600000$00
+Artigo 112.º, n.º 2) «Subsídios a conceder nos termos do artigo 20.º do [Decreto-Lei n.º 48905](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48905-1969-525225), ...» ... 600000$00
 
-### Capítulo 10.º «Secretaria de Estado da Aeronáutica»:
+Capítulo 10.º «Secretaria de Estado da Aeronáutica»:
 
 Gabinete do Secretário de Estado
 
-###### Artigo 179.º «Encargos administrativos»:
+Artigo 179.º «Encargos administrativos»:
 
 N.º 1) «Pagamento de serviços e diversos encargos»:
 
@@ -240,25 +268,25 @@ Bona ... 37554$00
 
 Força Aérea
 
-###### Artigo 197.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos e urbanos» ... 172166$40
+Artigo 197.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos e urbanos» ... 172166$40
 
 ... 1260026$40
 
 Ministério do Interior
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 9.º, n.º 1) «Gastos confidenciais ...» ... 275000$00
+Artigo 9.º, n.º 1) «Gastos confidenciais ...» ... 275000$00
 
 Ministério da Justiça
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 6.º, n.º 2) «Artigos de expediente ...» ... 8000$00
+Artigo 6.º, n.º 2) «Artigos de expediente ...» ... 8000$00
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
-###### Artigo 54.º, n.º 3) «Transportes»:
+Artigo 54.º, n.º 3) «Transportes»:
 
 Alínea 1 «Dos magistrados judiciais, ...» ... 18000$00
 
@@ -268,15 +296,15 @@ Alínea 2 «Dos magistrados do Ministério Público, ...» ... 8000$00
 
 Ministério do Exército
 
-### Capítulo 3.º «Serviços de instrução - Fundo de Instrução do Exército»:
+Capítulo 3.º «Serviços de instrução - Fundo de Instrução do Exército»:
 
-###### Artigo 193.º, n.º 1) «Participações em cobranças ...», alínea 1 «Encargos de carácter educativo ...» ... 2000000$00
+Artigo 193.º, n.º 1) «Participações em cobranças ...», alínea 1 «Encargos de carácter educativo ...» ... 2000000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional - Ensino industrial e comercial - Escolas técnicas, industriais, comerciais e industriais-comerciais»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional - Ensino industrial e comercial - Escolas técnicas, industriais, comerciais e industriais-comerciais»:
 
-###### Artigo 857.º, n.º 2) «Móveis»:
+Artigo 857.º, n.º 2) «Móveis»:
 
 Escola Industrial e Comercial de Clara de Resende, no Porto ... 36000$00
 
@@ -284,49 +312,49 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 3.º «Gabinete do Secretário de Estado»:
+Capítulo 3.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 30.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 20000$00
+Artigo 30.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 20000$00
 
 Secretaria de Estado da Indústria
 
-### Capítulo 15.º «Direcção-Geral dos Serviços Industriais»:
+Capítulo 15.º «Direcção-Geral dos Serviços Industriais»:
 
-###### Artigo 286.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos» ... 23500$00
+Artigo 286.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos» ... 23500$00
 
 ... 43500$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica Civil - Aeroporto do Porto»:
+Capítulo 4.º «Aeronáutica Civil - Aeroporto do Porto»:
 
-###### Artigo 76.º, n.º 3) «Transportes» ... 4700$00
+Artigo 76.º, n.º 3) «Transportes» ... 4700$00
 
 ... 3653226$40
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 4.º, artigo 90.º «Fundo de Instrução do Exército» ... 2000000$00
+Capítulo 4.º, artigo 90.º «Fundo de Instrução do Exército» ... 2000000$00
 
-### Capítulo 7.º, artigo 206.º «Reposições não abatidas nos pagamentos» ... 172166$40
+Capítulo 7.º, artigo 206.º «Reposições não abatidas nos pagamentos» ... 172166$40
 
 ... 2172166$40
 
 Encargos Gerais da Nação
 
-### Capítulo 2.º, artigo 17.º, n.º 2) ... 50000$00
+Capítulo 2.º, artigo 17.º, n.º 2) ... 50000$00
 
-### Capítulo 2.º, artigo 24.º, n.º 1) ... 88000$00
+Capítulo 2.º, artigo 24.º, n.º 1) ... 88000$00
 
-### Capítulo 2.º, artigo 59.º, n.º 1) ... 12306$00
+Capítulo 2.º, artigo 59.º, n.º 1) ... 12306$00
 
-### Capítulo 4.º, artigo 100.º, n º 2) ... 300000$00
+Capítulo 4.º, artigo 100.º, n º 2) ... 300000$00
 
-### Capítulo 5.º, artigo 102.º, n.º 1) ... 600000$00
+Capítulo 5.º, artigo 102.º, n.º 1) ... 600000$00
 
-### Capítulo 10.º, artigo 173.º, n.º 1):
+Capítulo 10.º, artigo 173.º, n.º 1):
 
 Paris ... 17156$00
 
@@ -334,7 +362,7 @@ Bona ... 7500$00
 
 ... 24656$00
 
-### Capítulo 10.º, artigo 174.º, n.º 3)
+Capítulo 10.º, artigo 174.º, n.º 3)
 
 Paris ... 7800$00
 
@@ -346,31 +374,31 @@ Bona ... 5098$00
 
 Ministério das Finanças
 
-### Capítulo 4.º, artigo 47.º ... 275000$00
+Capítulo 4.º, artigo 47.º ... 275000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º, artigo 86.º, n.º 1) ... 8000$00
+Capítulo 3.º, artigo 86.º, n.º 1) ... 8000$00
 
-### Capítulo 3.º, artigo 100.º, n.º 1) ... 26000$00
+Capítulo 3.º, artigo 100.º, n.º 1) ... 26000$00
 
 ... 34000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º, artigo 854.º, n.º 1) ... 36000$00
+Capítulo 5.º, artigo 854.º, n.º 1) ... 36000$00
 
 Ministério da Economia
 
-### Capítulo 3.º, artigo 34.º, n.º 2), alínea 2 ... 20000$00
+Capítulo 3.º, artigo 34.º, n.º 2), alínea 2 ... 20000$00
 
-### Capítulo 15.º, artigo 292.º, n.º 3) ... 23500$00
+Capítulo 15.º, artigo 292.º, n.º 3) ... 23500$00
 
 ... 43500$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º, artigo 72.º, n.º 2) ... 4700$00
+Capítulo 4.º, artigo 72.º, n.º 2) ... 4700$00
 
 ... 3653226$40
 
@@ -378,8 +406,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José do Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 18 de Dezembro de 1970.**
+Promulgado em 18 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

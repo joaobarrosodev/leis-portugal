@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/23100/14181419.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/460-1970-148460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6ae5712bdafb698c9ee0cf83e0d3675491eac3e266b246b7e01b460b8ea04d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd3b21966bae442af117cbd8f4ce0d0325c61470d987bd2781cbb56486b390dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,33 @@ relationships:
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:14:32Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +110,7 @@ Tornando-se necessário regular a execução do disposto no n.º 2 do artigo 1.�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São promovidos por diuturnidade ao posto imediato os tenentes ou segundos-tenentes dos quadros permanentes do Exército, da Armada e da Força Aérea que completem três anos de permanência no posto e pertençam às armas, serviços, classes ou quadros a seguir designados:
+Artigo 1.º São promovidos por diuturnidade ao posto imediato os tenentes ou segundos-tenentes dos quadros permanentes do Exército, da Armada e da Força Aérea que completem três anos de permanência no posto e pertençam às armas, serviços, classes ou quadros a seguir designados:
 
 a) No Exército - oficiais oriundos da Academia Militar e os de qualquer arma, serviço ou quadro para cujo ingresso seja exigido um curso superior;
 
@@ -101,11 +118,11 @@ b) Na Armada - classes de marinha, de engenheiros construtores navais, de médic
 
 c) Na Força Aérea - quadros de pilotos aviadores, de engenheiros, de médicos e de intendência e contabilidade.
 
-###### Art. 2.º Os tenentes da Força Aérea abrangidos pelo artigo anterior que, por perda de aptidão psico-fisiológica, tenham sido transferidos dos quadros nele referidos para outros quadros ao abrigo do [Decreto n.º 41952](https://diariodarepublica.pt/dr/detalhe/decreto/41952-1958-339807), de 6 de Novembro de 1958, são graduados no posto de capitão enquanto não lhes competir a promoção pela escala do quadro em que se encontrem, desde que satisfaçam às restantes condições de promoção.
+Art. 2.º Os tenentes da Força Aérea abrangidos pelo artigo anterior que, por perda de aptidão psico-fisiológica, tenham sido transferidos dos quadros nele referidos para outros quadros ao abrigo do [Decreto n.º 41952](https://diariodarepublica.pt/dr/detalhe/decreto/41952-1958-339807), de 6 de Novembro de 1958, são graduados no posto de capitão enquanto não lhes competir a promoção pela escala do quadro em que se encontrem, desde que satisfaçam às restantes condições de promoção.
 
-###### Art. 3.º São promovidos por diuturnidade ao posto imediato os segundos-sargentos dos quadros permanentes do Exército, da Armada e da Força Aérea que completem quatro anos de permanência no posto.
+Art. 3.º São promovidos por diuturnidade ao posto imediato os segundos-sargentos dos quadros permanentes do Exército, da Armada e da Força Aérea que completem quatro anos de permanência no posto.
 
-###### Art. 4.º - 1. As promoções por diuturnidade referidas nos artigos 1.º e 3.º processam-se segundo a regulamentação para esta modalidade de promoção a fixar em cada um dos ramos das forças armadas, tendo em conta o preceituado neste diploma.
+Art. 4.º - 1. As promoções por diuturnidade referidas nos artigos 1.º e 3.º processam-se segundo a regulamentação para esta modalidade de promoção a fixar em cada um dos ramos das forças armadas, tendo em conta o preceituado neste diploma.
 
 2. O tempo de permanência no posto de tenente ou segundo-tenente e de segundo-sargento, para efeitos de diuturnidade, é contado a partir da data de antiguidade nesse posto, independentemente da arma, serviço ou classe em que esse posto tenha sido atingido.
 
@@ -113,7 +130,7 @@ c) Na Força Aérea - quadros de pilotos aviadores, de engenheiros, de médicos 
 
 4. Quando imperiosas necessidades de serviço o aconselhem, podem os titulares dos departamentos respectivos das forças armadas reduzir o tempo de permanência no posto referido no artigo 1.º ou no artigo 3.º deste diploma.
 
-###### Art. 5.º - 1. São eliminados no Exército os concursos de promoção a primeiro-sargento, e no serviço de material os cursos de promoção são substituídos por estágios de aperfeiçoamento, a realizar nos postos de segundo-sargento ou primeiro-sargento, sem influência na promoção.
+Art. 5.º - 1. São eliminados no Exército os concursos de promoção a primeiro-sargento, e no serviço de material os cursos de promoção são substituídos por estágios de aperfeiçoamento, a realizar nos postos de segundo-sargento ou primeiro-sargento, sem influência na promoção.
 
 2. Os concursos terminados em data posterior a 31 de Dezembro de 1969 são anulados.
 
@@ -131,9 +148,9 @@ c) Na Força Aérea - quadros de pilotos aviadores, de engenheiros, de médicos 
 
 9. Os segundos-sargentos pára-quedistas, enfermeiros e do serviço geral que se encontrem aprovados em provas de concurso para primeiro-sargento, quando promovidos a este posto por diuturnidade, são colocados à direita dos que não estejam aprovados nas referidas provas e que também sejam promovidos por diuturnidade.
 
-###### Art. 6.º Na promoção por diuturnidade ao posto imediato dos tenentes ou segundos-tenentes e dos segundos-sargentos existentes em 31 de Dezembro de 1969 são dispensadas as condições especiais de promoção não exigidas pelo presente diploma, sendo adicionada às que lhes cumpre realizar no novo posto a parte que não concluíram das respeitantes ao posto anterior.
+Art. 6.º Na promoção por diuturnidade ao posto imediato dos tenentes ou segundos-tenentes e dos segundos-sargentos existentes em 31 de Dezembro de 1969 são dispensadas as condições especiais de promoção não exigidas pelo presente diploma, sendo adicionada às que lhes cumpre realizar no novo posto a parte que não concluíram das respeitantes ao posto anterior.
 
-###### Art. 7.º - 1. Passam a existir os seguintes quadros orçamentais:
+Art. 7.º - 1. Passam a existir os seguintes quadros orçamentais:
 
 a) Capitães e oficiais subalternos, no Exército e Força Aérea, e primeiros e segundos-tenentes e guardas-marinhas, na Armada, das armas, serviços, classe e quadros referidos no artigo 1.º;
 
@@ -141,16 +158,16 @@ b) Primeiros e segundos-sargentos e furriéis.
 
 2. Os efectivos dos quadros indicados no número anterior são os correspondentes à soma dos quantitativos actualmente fixados para cada um desses postos.
 
-###### Art. 8.º - 1. Em conformidade com o estabelecido no artigo 14.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), de 24 de Novembro de 1969, as disposições do presente decreto têm efeito a partir de 1 de Janeiro de 1970, incluindo o abono de vencimentos correspondentes ao novo posto.
+Art. 8.º - 1. Em conformidade com o estabelecido no artigo 14.º do [Decreto-Lei n.º 49411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49411-1969-176302), de 24 de Novembro de 1969, as disposições do presente decreto têm efeito a partir de 1 de Janeiro de 1970, incluindo o abono de vencimentos correspondentes ao novo posto.
 
 2. Os tenentes ou segundos-tenentes abrangidos pelo disposto no artigo 1.º e os segundos-sargentos que em 1 de Janeiro de 1970 já haviam completado, respectivamente, três e quatro anos, de permanência no posto serão promovidos por diuturnidade ao posto imediato a contar daquela data.
 
-###### Art. 9.º Os encargos resultantes da execução deste diploma serão suportados, no ano em curso, pelas disponibilidades das verbas orçamentais consignadas aos respectivos quadros de pessoal, que, se for indispensável, serão reforçadas para o efeito.
+Art. 9.º Os encargos resultantes da execução deste diploma serão suportados, no ano em curso, pelas disponibilidades das verbas orçamentais consignadas aos respectivos quadros de pessoal, que, se for indispensável, serão reforçadas para o efeito.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 
-**Promulgado em 28 de Setembro de 1970.**
+Promulgado em 28 de Setembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

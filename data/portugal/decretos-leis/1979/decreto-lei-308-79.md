@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1979-378946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5de62b505fa4f8219dfc4e485a1dfb93e1c3bdc884ded706df7a71f24d73511d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d042249f2330804e88b4d80022bbd2d5edfdbabe8c261884f9ea01e1638bbfd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Agrícola
+- Comissão de Apreciação de Projectos
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Exploração Agrícola
+- Licenciamento
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:377482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:336763:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:377482:por
+  label: "Revogado pelo DEC LEI.451/82.16.11.1982.MQV, DR.IS [265] de 16.11.1982, sem prejuízo do disposto no seu artigo 23.º\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1982-377482
+  date: '1982-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:31Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +119,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição e na linha de rumo que informou o [Decreto-Lei n.º 356/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1975-336763), de 8 de Julho, o seguinte:
 
-###### Artigo 1.º - 1 - Os solos cuja capacidade de uso seja a correspondente às classes A e B e subclasse Ch são, independentemente da sua localização e sem prejuízo do disposto nos artigos seguintes, reservados para fins exclusivamente agrícolas, ficando todas as construções, aterros, escavações ou qualquer outro meio de inutilização desses solos dependentes de autorização do Ministério da Agricultura e Pescas.
+Artigo 1.º - 1 - Os solos cuja capacidade de uso seja a correspondente às classes A e B e subclasse Ch são, independentemente da sua localização e sem prejuízo do disposto nos artigos seguintes, reservados para fins exclusivamente agrícolas, ficando todas as construções, aterros, escavações ou qualquer outro meio de inutilização desses solos dependentes de autorização do Ministério da Agricultura e Pescas.
 
 2 - Nos concelhos ou freguesias onde não existam solos das classes A e B é extensivo aos solos classificados em toda a classe C o regime estabelecido no número anterior.
 
@@ -109,7 +127,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - São igualmente defendidos os solos que constituem o «assento» de explorações agrícolas viáveis, bem como as áreas submetidas a importantes investimentos de melhoramento dos solos, sem dependência da sua capacidade de uso, e cujo aproveitamento seja determinante da exequibilidade das explorações em questão, devendo estas circunstâncias ser confirmadas pelos serviços regionais de agricultura correspondentes.
 
-###### Art. 2.º Exceptuam-se, porém:
+Art. 2.º Exceptuam-se, porém:
 
 a) As construções de finalidade exclusivamente agrícola, quando integradas em explorações que a justifiquem e laborem nesses solos defendidos;
 
@@ -121,9 +139,9 @@ d) Expansões urbanas e outras construções, nomeadamente vias de comunicação
 
 e) Autorizações já concedidas.
 
-###### Art. 3.º O Ministério da Agricultura e Pescas, através da Direcção-Geral de Hidráulica e Engenharia Agrícola, procederá à delimitação dos solos defendidos adjacentes aos aglomerados urbanos, como prioridade mais importante.
+Art. 3.º O Ministério da Agricultura e Pescas, através da Direcção-Geral de Hidráulica e Engenharia Agrícola, procederá à delimitação dos solos defendidos adjacentes aos aglomerados urbanos, como prioridade mais importante.
 
-###### Art. 4.º - 1 - É da competência da respectiva direcção regional de agricultura decidir a natureza defendida dos solos, nos termos do artigo 1.º, ou confirmar a existência de qualquer das excepções previstas nas alíneas a) e c) do artigo 2.º
+Art. 4.º - 1 - É da competência da respectiva direcção regional de agricultura decidir a natureza defendida dos solos, nos termos do artigo 1.º, ou confirmar a existência de qualquer das excepções previstas nas alíneas a) e c) do artigo 2.º
 
 2 - A decisão, devidamente fundamentada, será proferida no prazo de trinta dias, a contar da data da entrada do requerimento previsto no artigo seguinte, e comunicada ao requerente e ao proprietário do terreno, quando este não for o requerente.
 
@@ -131,15 +149,15 @@ e) Autorizações já concedidas.
 
 4 - Das decisões previstas neste diploma haverá sempre recurso para os tribunais judiciais.
 
-###### Art. 5.º O requerimento para a inutilização pretendida do solo arável ainda não classificado em cartas já publicadas será dirigido à direcção regional de agricultura, contendo obrigatoriamente:
+Art. 5.º O requerimento para a inutilização pretendida do solo arável ainda não classificado em cartas já publicadas será dirigido à direcção regional de agricultura, contendo obrigatoriamente:
 
 a) Identificação e morada do requerente e do proprietário do terreno, quando não for este o requerente;
 
 b) Identificação das construções, aterros, escavações ou quaisquer outros meios de inutilização pretendidos, com menção da área abrangida e localização num extracto da carta militar de Portugal de escala 1:25000 e indicação de pormenor numa planta de escala não inferior a 1:10000, quando exista.
 
-###### Art. 6.º No prazo de trinta dias, a contar do conhecimento da decisão, poderá o requerente ou o proprietário do terreno reclamar para a Direcção-Geral de Hidráulica e Engenharia Agrícola, que decidirá da reclamação no prazo de quarenta e cinco dias.
+Art. 6.º No prazo de trinta dias, a contar do conhecimento da decisão, poderá o requerente ou o proprietário do terreno reclamar para a Direcção-Geral de Hidráulica e Engenharia Agrícola, que decidirá da reclamação no prazo de quarenta e cinco dias.
 
-###### Art. 7.º É da competência da Direcção-Geral de Hidráulica e Engenharia Agrícola a emissão de parecer, nos domínios referentes à classificação do terreno, sobre:
+Art. 7.º É da competência da Direcção-Geral de Hidráulica e Engenharia Agrícola a emissão de parecer, nos domínios referentes à classificação do terreno, sobre:
 
 a) Planos de urbanização e perímetros de aglomerados urbanos;
 
@@ -147,7 +165,7 @@ b) Vias de comunicação;
 
 c) Outros processos de inutilização de solos agrícolas de área superior a 5000 m2.
 
-###### Art. 8.º - 1 - Para efeito do disposto no artigo 6.º, é criada na Direcção-Geral de Hidráulica e Engenharia Agrícola a Comissão de Apreciação de Projectos, com a seguinte composição:
+Art. 8.º - 1 - Para efeito do disposto no artigo 6.º, é criada na Direcção-Geral de Hidráulica e Engenharia Agrícola a Comissão de Apreciação de Projectos, com a seguinte composição:
 
 a) Dois representantes da Direcção-Geral de Hidráulica e Engenharia Agrícola, um dos quais será o presidente;
 
@@ -165,32 +183,32 @@ f) Representantes de outros serviços públicos interessados que o presidente en
 
 3 - As deliberações da Comissão são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de desempate.
 
-###### Art. 9.º - 1 - É da competência da Comissão de Apreciação de Projectos a autorização de implantação, sob o ponto de vista agronómico, em solos classificados como defendidos, de construções ou outros processos de inutilização de solos defendidos que considere de comprovado interesse local, regional ou nacional e sem alternativa de localização.
+Art. 9.º - 1 - É da competência da Comissão de Apreciação de Projectos a autorização de implantação, sob o ponto de vista agronómico, em solos classificados como defendidos, de construções ou outros processos de inutilização de solos defendidos que considere de comprovado interesse local, regional ou nacional e sem alternativa de localização.
 
 2 - O exercício da competência da Comissão de Apreciação de Projectos depende do prévio requerimento dos interessados, que deverá ser acompanhado dos elementos considerados necessários à confirmação do interesse local, regional ou nacional e à inexistência de alternativa de localização da construção ou de outro processo de inutilização dos solos defendidos.
 
 3 - A decisão da Comissão de Apreciação de Projectos deverá ser proferida no prazo de quarenta e cinco dias, a contar da entrada do requerimento ou do recebimento dos elementos complementares pedidos ao requerente, quando o presidente ou a Comissão os considerem necessários.
 
-###### Art. 10.º - 1 - Todos os processos para licenciamento ou aprovação de construções, urbanizações, delimitação de perímetros de aglomerados urbanos, vias de comunicação, aterros, escavações ou outros meios de inutilização do solo arável estarão, desde o início, instruídos com a informação da respectiva direcção regional de agricultura, da Direcção-Geral de Hidráulica e Engenharia Agrícola ou da Comissão de Apreciação de Projectos, constituindo tal informação formalidade essencial, desde que ainda não se encontrem definidas em carta de capacidade de uso do solo.
+Art. 10.º - 1 - Todos os processos para licenciamento ou aprovação de construções, urbanizações, delimitação de perímetros de aglomerados urbanos, vias de comunicação, aterros, escavações ou outros meios de inutilização do solo arável estarão, desde o início, instruídos com a informação da respectiva direcção regional de agricultura, da Direcção-Geral de Hidráulica e Engenharia Agrícola ou da Comissão de Apreciação de Projectos, constituindo tal informação formalidade essencial, desde que ainda não se encontrem definidas em carta de capacidade de uso do solo.
 
 2 - Exceptuam-se do preceituado no número anterior os processos para licenciamento de obras em zonas relativamente às quais existam plano de urbanização e loteamentos de perímetros urbanos superiormente aprovados.
 
-###### Art. 11.º Para efeitos deste diploma, os solos classificam-se em cinco classes - A, B, C, D e E -, conforme foram definidos pelos serviços do Ministério da Agricultura e Pescas para a elaboração da carta de capacidade de uso do solo.
+Art. 11.º Para efeitos deste diploma, os solos classificam-se em cinco classes - A, B, C, D e E -, conforme foram definidos pelos serviços do Ministério da Agricultura e Pescas para a elaboração da carta de capacidade de uso do solo.
 
-###### Art. 12.º O Ministro da Agricultura e Pescas regulamentará por meio de despacho as excepções previstas nas alíneas a) e c) do artigo 2.º e discriminará as classes de capacidade de uso referidas no artigo anterior.
+Art. 12.º O Ministro da Agricultura e Pescas regulamentará por meio de despacho as excepções previstas nas alíneas a) e c) do artigo 2.º e discriminará as classes de capacidade de uso referidas no artigo anterior.
 
-###### Art. 13.º Para efeitos da alínea b) do artigo 2.º, deverão as câmaras municipais propor à aprovação do Ministério da Habitação e Obras Públicas, através da Direcção-Geral do Planeamento Urbanístico, os perímetros dos aglomerados urbanos dos respectivos concelhos.
+Art. 13.º Para efeitos da alínea b) do artigo 2.º, deverão as câmaras municipais propor à aprovação do Ministério da Habitação e Obras Públicas, através da Direcção-Geral do Planeamento Urbanístico, os perímetros dos aglomerados urbanos dos respectivos concelhos.
 
-###### Art. 14.º A infracção ao disposto no artigo 1.º deste diploma constitui contra-ordenação social, punível com multa de 1000$00 a 200000$00, e importa a restituição dos solos a uma situação tão próxima quanto possível daquela em que se encontrava anteriormente, a expensas do infractor.
+Art. 14.º A infracção ao disposto no artigo 1.º deste diploma constitui contra-ordenação social, punível com multa de 1000$00 a 200000$00, e importa a restituição dos solos a uma situação tão próxima quanto possível daquela em que se encontrava anteriormente, a expensas do infractor.
 
-###### Art. 15.º Compete à Direcção-Geral de Hidráulica e Engenharia Agrícola, à Direcção-Geral do Planeamento Urbanístico, ao Serviço de Estudos do Ambiente e às câmaras municipais a fiscalização das infracções a este diploma.
+Art. 15.º Compete à Direcção-Geral de Hidráulica e Engenharia Agrícola, à Direcção-Geral do Planeamento Urbanístico, ao Serviço de Estudos do Ambiente e às câmaras municipais a fiscalização das infracções a este diploma.
 
-###### Art. 16.º É revogado o [Decreto-Lei n.º 356/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1975-336763), de 8 de Junho.
+Art. 16.º É revogado o [Decreto-Lei n.º 356/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1975-336763), de 8 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1979. - Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal - João Orlindo Almeida Pina.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

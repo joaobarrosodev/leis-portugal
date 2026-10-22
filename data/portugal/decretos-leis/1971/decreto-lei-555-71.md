@@ -49,36 +49,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1971-632273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5e2206f8c69ac5dd2ee6f654033e9d79b8dafa935c6dbc6582cc596816f5788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81cb3d58ff08e3a5bcd4f0bc8d390ccf91e30e012ae8d914f36d25d8559088c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditoria Administrativa
+- CASA do Estado
+- Custas Judiciais
+- Estatuto Judiciário
+- Magistrado Judicial
+- Supremo Tribunal Administrativo
+relationships:
+- type: cites
+  target: pt:dre:590726:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:14Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +99,18 @@ de 16 de Dezembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O n.º 7.º do artigo 16.º da tabela das custas no Supremo Tribunal Administrativo e nas auditorias administrativas, aprovada pelo [Decreto-Lei n.º 42150](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42150-1959-590726), de 12 de Fevereiro de 1959, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 7.º do artigo 16.º da tabela das custas no Supremo Tribunal Administrativo e nas auditorias administrativas, aprovada pelo [Decreto-Lei n.º 42150](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42150-1959-590726), de 12 de Fevereiro de 1959, passa a ter a seguinte redacção:
 
 7.º A procuradoria;
 
-###### Art. 2.º O disposto na última parte do n.º 1 do artigo 167.º do Estatuto Judiciário é tornado extensivo, com as devidas adaptações, aos magistrados do Supremo Tribunal Administrativo e das auditorias administrativas.
+Art. 2.º O disposto na última parte do n.º 1 do artigo 167.º do Estatuto Judiciário é tornado extensivo, com as devidas adaptações, aos magistrados do Supremo Tribunal Administrativo e das auditorias administrativas.
 
-###### Art. 3.º Este decreto-lei entra em vigor em 1 de Janeiro de 1972.
+Art. 3.º Este decreto-lei entra em vigor em 1 de Janeiro de 1972.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano.
 
-**Promulgado em 10 de Dezembro de 1971.**
+Promulgado em 10 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

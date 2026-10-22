@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 199/1977, 2º Suplemento, Série I de 1977-08-29
   number: '199'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2080-(14) a 2080-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19902/00140015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-g-1977-240852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aad4662976a0f2a5499150aa56615784fd690ad0c83b66fdbf1e6c411a002906
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7195d0bb635e4d7042fb0585990cd5a56b7b947cf779e94928067e41f6c02e6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato Coletivo de Trabalho
+- Contrato de Trabalho
+- Ministério do Trabalho
+- Salário Mínimo
 relationships:
 - type: amended_by
   target: pt:dre:157052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:356557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416415:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157052:por
+  label: Revogado o Dec Lei 164-A/76 de 28-fev, com as alterações introduzidas pelo presente, pelo(a) Decreto-Lei n.º 519-C1/79
+    - Diário da República n.º 299/1979, 3º Suplemento, Série I de 1979-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-c1-1979-157052
+  date: '1979-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:34Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +113,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 1.º, 6.º, 16.º, 19.º e 22.º do [Decreto-Lei n.º 164-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-1976-356557), de 28 de Fevereiro, com a redacção que lhes foi dada pelo [Decreto-Lei n.º 887/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/887-1976-416415), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 6.º, 16.º, 19.º e 22.º do [Decreto-Lei n.º 164-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-1976-356557), de 28 de Fevereiro, com a redacção que lhes foi dada pelo [Decreto-Lei n.º 887/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/887-1976-416415), de 29 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 1.º - 1. ...
+Art. 1.º - 1. ...
 
 2. ...
 
@@ -107,7 +125,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. ...
 
@@ -117,11 +135,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 16.º Nos conflitos colectivos inerentes à celebração ou revisão de uma convenção colectiva aplicável a empresas públicas ou de capitais públicos poderá ser tornada obrigatória a realização de arbitragem, por despacho dos Ministros do Trabalho e da tutela.
+Art. 16.º Nos conflitos colectivos inerentes à celebração ou revisão de uma convenção colectiva aplicável a empresas públicas ou de capitais públicos poderá ser tornada obrigatória a realização de arbitragem, por despacho dos Ministros do Trabalho e da tutela.
 
 ...
 
-###### Art. 19.º - 1. ...
+Art. 19.º - 1. ...
 
 2. O depósito será recusado:
 
@@ -139,7 +157,7 @@ e) Nos demais casos previstos na lei.
 
 ...
 
-###### Art. 22.º - 1. ...
+Art. 22.º - 1. ...
 
 2. ...
 
@@ -147,8 +165,8 @@ e) Nos demais casos previstos na lei.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - António Manuel Maldonado Gonelha.
 
-**Promulgado em 29 de Agosto de 1977.**
+Promulgado em 29 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

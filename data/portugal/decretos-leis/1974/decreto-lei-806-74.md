@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 6º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 1670-(129) a 1670-(132)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30306/01290132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/806-1974-235948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4ede6ea2ed2834522b52e55e1ac17060d27d196af151352742a1083a18b6c52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f159611fdc0beb5f0aac27182b91e2c30c12e3f4a21d2d020ad2d1d6bbcf3919
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia de Escola
+- Conselho Científico
+- Conselho Diretivo
+- Conselho Pedagógico
+- Definição de Competências
+- Ensino Superior
+- Estabelecimento de Ensino
+- Órgãos de Gestão
+- Secretário
 relationships:
 - type: amended_by
   target: pt:dre:244884:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:622618:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:312985:por
+  label: "Rectificado o n.º 2 do artigo 26.º pela RECT.DD161.27.10.1975.PCM, DG.IS [249] de 27.10.1975, procedendo de novo\
+    \ à sua publicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-312985
+  date: '1975-10-27'
+- type: repealed_by
+  target: pt:dre:244884:por
+  label: "Revogado pelo DEC LEI.781-A/76.28.10.1976.MECI, DR.IS [253]Supl de 28.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/781-a-1976-244884
+  date: '1976-10-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:46Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +126,7 @@ I
 
 Órgãos de gestão dos estabelecimentos de ensino superior
 
-###### Artigo 1.º Os órgãos de gestão dos estabelecimentos de ensino superior são os seguintes:
+Artigo 1.º Os órgãos de gestão dos estabelecimentos de ensino superior são os seguintes:
 
 a) Assembleia de escola ou assembleia de representantes, caso esta tenha sido instituída pelo regulamento;
 
@@ -114,11 +138,11 @@ II
 
 Assembleia de escola
 
-###### Art. 2.º A assembleia de escola será constituída pelos docentes, investigadores não docentes, estudantes e funcionários técnicos, administrativos e auxiliares da escola.
+Art. 2.º A assembleia de escola será constituída pelos docentes, investigadores não docentes, estudantes e funcionários técnicos, administrativos e auxiliares da escola.
 
-###### Art. 3.º A assembleia de escola poderá delegar os seus poderes numa assembleia de representantes, na qual estarão representados docentes e investigadores não docentes, estudantes e funcionários, não podendo a representação dos estudantes exceder em número a dos docentes e investigadores, nem a dos funcionários contar com um número de elementos superior a uma quarta parte do total dos membros da assembleia.
+Art. 3.º A assembleia de escola poderá delegar os seus poderes numa assembleia de representantes, na qual estarão representados docentes e investigadores não docentes, estudantes e funcionários, não podendo a representação dos estudantes exceder em número a dos docentes e investigadores, nem a dos funcionários contar com um número de elementos superior a uma quarta parte do total dos membros da assembleia.
 
-###### Art. 4.º - 1. A eleição de representantes far-se-á por escrutínio secreto dos corpos representados, elegendo cada um destes separadamente os seus representantes.
+Art. 4.º - 1. A eleição de representantes far-se-á por escrutínio secreto dos corpos representados, elegendo cada um destes separadamente os seus representantes.
 
 2. A eleição decorrerá durante o primeiro mês de cada ano lectivo, em data a fixar, com a antecedência mínima de duas semanas, pela assembleia de cada corpo, devendo esta assembleia definir, dentro dos limites estabelecidos neste diploma, o regulamento eleitoral, o qual fixará normas sobre número mínimo de votantes e sua identificação.
 
@@ -126,7 +150,7 @@ Assembleia de escola
 
 4. As urnas manter-se-ão abertas durante, pelo menos, doze horas.
 
-###### Art. 5.º - 1. A assembleia de escola será convocada pelo conselho directivo:
+Art. 5.º - 1. A assembleia de escola será convocada pelo conselho directivo:
 
 a) Por sua própria iniciativa;
 
@@ -138,23 +162,23 @@ c) Por iniciativa da assembleia de qualquer dos corpos.
 
 3. Dos editais deverão constar a data, hora e local da reunião, bem como a ordem dos trabalhos.
 
-###### Art. 6.º - 1. Os trabalhos da assembleia de escola serão orientados por uma mesa eleita, com representação dos três corpos participantes, constituída por um presidente, um vice-presidente e dois secretários, cabendo a estes últimos a elaboração das actas.
+Art. 6.º - 1. Os trabalhos da assembleia de escola serão orientados por uma mesa eleita, com representação dos três corpos participantes, constituída por um presidente, um vice-presidente e dois secretários, cabendo a estes últimos a elaboração das actas.
 
 2. As actas das sessões poderão ser consultadas por qualquer dos membros da assembleia.
 
-###### Art. 7.º - 1. As deliberações da assembleia de escola são tomadas por maioria dos votos expressos, dispondo cada corpo do direito de veto.
+Art. 7.º - 1. As deliberações da assembleia de escola são tomadas por maioria dos votos expressos, dispondo cada corpo do direito de veto.
 
 2. A deliberação de exercer o direito de veto deverá ser tomada em assembleia de corpo, expressamente convocada para este efeito realizada no prazo de três dias, a contar da data da deliberação a vetar, devendo a proposta de veto obter voto favorável de, pelo menos, dois terços dos presentes.
 
 3. A deliberação vetada tornar-se-á, todavia, definitiva se a assembleia de escola, expressamente convocada para o efeito, nos cinco dias subsequentes ao da interposição do veto, a confirmar por maioria superior a três quartos dos votos expressos.
 
-###### Art. 8.º - 1. As normas de convocação e funcionamento da assembleia de representantes são as que regem a assembleia de escola, salvo o disposto nos números seguintes.
+Art. 8.º - 1. As normas de convocação e funcionamento da assembleia de representantes são as que regem a assembleia de escola, salvo o disposto nos números seguintes.
 
 2. A assembleia de representantes pode ser convocada pelo conselho directivo ou por uma quarta parte dos seus membros.
 
 3. As deliberações da assembleia de representantes não são passíveis de veto.
 
-###### Art. 9.º - 1. São atribuições da assembleia de escola ou da assembleia de representantes em que aquela as delegue:
+Art. 9.º - 1. São atribuições da assembleia de escola ou da assembleia de representantes em que aquela as delegue:
 
 a) Estabelecer, dentro dos limites da lei e dos planos de orientação educativa e científica superiormente estabelecidos, as bases gerais da acção cultural, científica e pedagógica da escola;
 
@@ -168,15 +192,15 @@ III
 
 Conselho directivo
 
-###### Art. 10.º - 1. O conselho directivo será constituído por representantes dos docentes e investigadores não docentes, estudantes e funcionários.
+Art. 10.º - 1. O conselho directivo será constituído por representantes dos docentes e investigadores não docentes, estudantes e funcionários.
 
 2. O número dos seus membros será estabelecido pela assembleia de escola, sem prejuízo dos critérios fixados na parte final deste artigo, tendo em conta tanto a dimensão e complexidade da escola como as exigências de eficácia.
 
 3. A representação dos estudantes no conselho directivo não será superior em número à dos docentes e investigadores não docentes e a representação dos funcionários não excederá uma quarta parte do número total de elementos do conselho.
 
-###### Art. 11.º A eleição dos membros do conselho directivo far-se-á nos termos definidos no artigo 4.º
+Art. 11.º A eleição dos membros do conselho directivo far-se-á nos termos definidos no artigo 4.º
 
-###### Art. 12.º - 1. Um dos membros docentes do conselho directivo será o seu presidente, que em caso de impedimento delegará as suas funções noutro membro do conselho.
+Art. 12.º - 1. Um dos membros docentes do conselho directivo será o seu presidente, que em caso de impedimento delegará as suas funções noutro membro do conselho.
 
 2. Compete ao presidente do conselho directivo presidir às sessões, representar externamente a escola, fazer cumprir o orçamento e prestar contas de gerência e despachar os assuntos correntes.
 
@@ -184,19 +208,19 @@ Conselho directivo
 
 4. As actas de cada sessão deverão ser aprovadas no início da sessão subsequente.
 
-###### Art. 13.º - 1. As deliberações do conselho directivo serão tomadas por maioria de votos, estando presentes metade e mais um dos seus membros.
+Art. 13.º - 1. As deliberações do conselho directivo serão tomadas por maioria de votos, estando presentes metade e mais um dos seus membros.
 
 2. Para deliberar sobre assuntos de natureza científica, ou ao exercer a competência que lhe é atribuída pela legislação referente a provas de doutoramento, o conselho directivo deverá obter o parecer do conselho científico, o qual só poderá deixar de ser seguido se a isso se opuserem, pelo menos, dois terços dos seus membros.
 
 3. Para deliberar sobre assuntos de natureza pedagógica o conselho directivo deverá obter parecer do conselho pedagógico, e ao exercer a competência que lhe é atribuída pela legislação referente ao recrutamento do pessoal docente, o conselho directivo deverá obter parecer conjunto dos conselhos pedagógico e científico; estes pareceres só poderão deixar de ser seguidos nos termos do número anterior.
 
-###### Art. 14.º - 1. O conselho directivo reunirá ordinariamente, de forma periódica, e de acordo com calendário adaptado às circunstâncias da escola.
+Art. 14.º - 1. O conselho directivo reunirá ordinariamente, de forma periódica, e de acordo com calendário adaptado às circunstâncias da escola.
 
 2. Extraordinariamente, o conselho directivo poderá ser convocado por escrito e com antecedência mínima de quarenta e oito horas pelo seu presidente ou por um terço dos seus membros.
 
 3. Em caso de urgência, o conselho poderá reunir com dispensa do prazo mínimo de convocatória fixado pelo n.º 2, desde que esteja assegurada a convocação de todos os membros.
 
-###### Art. 15.º São atribuições do conselho directivo:
+Art. 15.º São atribuições do conselho directivo:
 
 a) Decidir, dentro dos limites da lei, dentro dos planos de orientação superiormente definidos e das directivas da assembleia de escola ou da assembleia de representantes que a substitua, sobre todas as questões que interessem à vida escolar;
 
@@ -210,13 +234,13 @@ e) Constituir, ouvidos os conselhos pedagógico e científico, comissões perman
 
 f) Exercer a competência disciplinar atribuída por lei aos órgãos directivos da escola.
 
-###### Art. 16.º O conselho directivo será responsável perante o Estado pelo cumprimento da lei e das normas regulamentares, respondendo os seus membros solidariamente pelas deliberações ilegais ou contrárias aos princípios da correcta gestão financeira a que se não tenham oposto.
+Art. 16.º O conselho directivo será responsável perante o Estado pelo cumprimento da lei e das normas regulamentares, respondendo os seus membros solidariamente pelas deliberações ilegais ou contrárias aos princípios da correcta gestão financeira a que se não tenham oposto.
 
-###### Art. 17.º Ao conselho directivo será atribuída uma gratificação global a fixar por despacho ministerial, cabendo ao conselho efectuar a sua distribuição pelos seus membros, de acordo com critérios a estabelecer internamente.
+Art. 17.º Ao conselho directivo será atribuída uma gratificação global a fixar por despacho ministerial, cabendo ao conselho efectuar a sua distribuição pelos seus membros, de acordo com critérios a estabelecer internamente.
 
-###### Art. 18.º O mandato do conselho directivo será de um ano, devendo a sua constituição ser comunicada ao Ministério da Educação e Cultura.
+Art. 18.º O mandato do conselho directivo será de um ano, devendo a sua constituição ser comunicada ao Ministério da Educação e Cultura.
 
-###### Art. 19.º - 1. É permitida a resignação dos membros do conselho directivo.
+Art. 19.º - 1. É permitida a resignação dos membros do conselho directivo.
 
 2. Perderá o seu lugar o membro do conselho directivo que, sem motivo justificado, faltar a duas sessões ordinárias consecutivas ou a quatro interpoladas.
 
@@ -228,7 +252,7 @@ IV
 
 Conselhos pedagógico e científico
 
-###### Art. 20.º - 1. O conselho pedagógico é constituído por docentes, investigadores não docentes e estudantes, devendo assegurar uma representação equilibrada de departamentos, e, ainda, por delegados dos organismos mais representativos das profissões para as quais a escola dá a formação.
+Art. 20.º - 1. O conselho pedagógico é constituído por docentes, investigadores não docentes e estudantes, devendo assegurar uma representação equilibrada de departamentos, e, ainda, por delegados dos organismos mais representativos das profissões para as quais a escola dá a formação.
 
 2. A representação dos docentes e investigadores não docentes deverá assegurar a participação das várias categorias existentes.
 
@@ -238,7 +262,7 @@ Conselhos pedagógico e científico
 
 5. O conselho pode funcionar em plenário ou por comissões.
 
-###### Art. 21.º - 1. Compete, nomeadamente, ao conselho pedagógico fazer propostas ou dar parecer acerca dos seguintes pontos:
+Art. 21.º - 1. Compete, nomeadamente, ao conselho pedagógico fazer propostas ou dar parecer acerca dos seguintes pontos:
 
 a) Planos de estudo;
 
@@ -248,9 +272,9 @@ c) Coordenação interdepartamental no domínio pedagógico;
 
 d) Aquisição de material didáctico e áudio-visual ou bibliográfico de interesse pedagógico.
 
-###### Art. 22.º O conselho científico é constituído por docentes e investigadores não docentes, assegurando a participação das várias categorias existentes, bem como dos vários departamentos.
+Art. 22.º O conselho científico é constituído por docentes e investigadores não docentes, assegurando a participação das várias categorias existentes, bem como dos vários departamentos.
 
-###### Art. 23.º Compete, nomeadamente, ao conselho científico fazer propostas ou dar parecer acerca dos seguintes pontos:
+Art. 23.º Compete, nomeadamente, ao conselho científico fazer propostas ou dar parecer acerca dos seguintes pontos:
 
 a) Regime das provas de doutoramento e nomeação dos respectivos júris;
 
@@ -258,7 +282,7 @@ b) Coordenação interdepartamental no domínio científico;
 
 c) Aquisição de equipamento científico, bibliográfico e oficinal.
 
-###### Art. 24.º - 1. Nas escolas em que se não justifique a constituição separada de conselhos pedagógico e científico poderá ser constituído um único conselho pedagógico e científico com uma composição idêntica à prevista no artigo 20.º
+Art. 24.º - 1. Nas escolas em que se não justifique a constituição separada de conselhos pedagógico e científico poderá ser constituído um único conselho pedagógico e científico com uma composição idêntica à prevista no artigo 20.º
 
 2. Neste caso, os representantes dos estudantes e dos organismos profissionais não terão direito de voto na decisão das questões referidas no artigo 23.º
 
@@ -266,11 +290,11 @@ V
 
 Secretário
 
-###### Art. 25.º - 1. Em cada escola ou Faculdade haverá um lugar de secretário, de categoria correspondente à letra G, no qual será provido, por proposta do conselho directivo e mediante nomeação ministerial, um licenciado com um curso de Direito, Economia, Gestão ou Administração.
+Art. 25.º - 1. Em cada escola ou Faculdade haverá um lugar de secretário, de categoria correspondente à letra G, no qual será provido, por proposta do conselho directivo e mediante nomeação ministerial, um licenciado com um curso de Direito, Economia, Gestão ou Administração.
 
 2. Os secretários das escolas ou Faculdades serão providos em comissão de serviço ou contratados por períodos, renováveis, de três anos.
 
-###### Art. 26.º - 1. São atribuições do secretário:
+Art. 26.º - 1. São atribuições do secretário:
 
 a) Coordenar os serviços da secretaria;
 
@@ -286,7 +310,7 @@ VI
 
 Disposições finais
 
-###### Art. 27.º - 1. Os estabelecimentos anexos às Faculdades ou Escolas terão direcções paritárias constituídas por:
+Art. 27.º - 1. Os estabelecimentos anexos às Faculdades ou Escolas terão direcções paritárias constituídas por:
 
 a) Funcionários e investigadores do estabelecimento;
 
@@ -296,7 +320,7 @@ b) Docentes das disciplinas mais estreitamente ligadas às actividades científi
 
 3. A actividade dos estabelecimentos anexos deverá decorrer nos termos das orientações gerais emanadas dos órgãos de gestão das Faculdades ou escolas a que estão anexos.
 
-###### Art. 28.º - 1. Nos estabelecimentos de ensino onde existam ou venham a ser criados departamentos a direcção respectiva caberá a uma comissão eleita pelos componentes do departamento, de acordo com os critérios definidos para o conselho directivo da escola.
+Art. 28.º - 1. Nos estabelecimentos de ensino onde existam ou venham a ser criados departamentos a direcção respectiva caberá a uma comissão eleita pelos componentes do departamento, de acordo com os critérios definidos para o conselho directivo da escola.
 
 2. A criação de departamentos poderá ser feita por despacho ministerial, sob proposta das escolas ou Faculdades.
 
@@ -304,28 +328,28 @@ b) Docentes das disciplinas mais estreitamente ligadas às actividades científi
 
 4. Nos departamentos serão criados conselhos científicos e pedagógicos, organizados em moldes semelhantes aos definidos para os correspondentes órgãos das escolas.
 
-###### Art. 29.º Os estabelecimentos universitários directamente dependentes das reitorias e que não possam ser considerados como escolas terão direcções individuais ou colectivas nomeadas pelo reitor, podendo a nomeação recair em pessoas propostas pelos utentes ou pelos funcionários respectivos.
+Art. 29.º Os estabelecimentos universitários directamente dependentes das reitorias e que não possam ser considerados como escolas terão direcções individuais ou colectivas nomeadas pelo reitor, podendo a nomeação recair em pessoas propostas pelos utentes ou pelos funcionários respectivos.
 
 VII
 
 Disposições transitórias
 
-###### Art. 30.º - 1. O Ministro da Educação e Cultura determinará, por despacho, o prazo para a constituição dos órgãos de gestão previstos neste decreto-lei para o presente ano lectivo.
+Art. 30.º - 1. O Ministro da Educação e Cultura determinará, por despacho, o prazo para a constituição dos órgãos de gestão previstos neste decreto-lei para o presente ano lectivo.
 
 2. A assembleia da escola destinada a decidir da composição dos conselhos directivo, pedagógico e científico será convocada pelas actuais comissões provisórias de gestão.
 
-###### Art. 31.º As disposições deste decreto-lei poderão ser integradas por regulamentos internos de cada escola ou departamento.
+Art. 31.º As disposições deste decreto-lei poderão ser integradas por regulamentos internos de cada escola ou departamento.
 
-###### Art. 32.º Até à tomada de posse dos novos órgãos de gestão manter-se-ão em funcionamento as comissões provisórias de gestão constituídas com base no [Decreto-Lei n.º 221/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1974-622618), de 27 de Maio,
+Art. 32.º Até à tomada de posse dos novos órgãos de gestão manter-se-ão em funcionamento as comissões provisórias de gestão constituídas com base no [Decreto-Lei n.º 221/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1974-622618), de 27 de Maio,
 
-###### Art. 33.º Enquanto não for publicada legislação que regule a constituição dos órgãos de governo das Universidades, os poderes que competiam aos antigos órgãos de governo serão exercidos pelos reitores, que poderão constituir, com representantes dos conselhos directivos das escolas dependentes, comissões universitárias, destinadas a coadjuvá-los na coordenação das actividades das várias escolas e a representar a comunidade dos docentes, investigadores, estudantes e funcionários da Universidade.
+Art. 33.º Enquanto não for publicada legislação que regule a constituição dos órgãos de governo das Universidades, os poderes que competiam aos antigos órgãos de governo serão exercidos pelos reitores, que poderão constituir, com representantes dos conselhos directivos das escolas dependentes, comissões universitárias, destinadas a coadjuvá-los na coordenação das actividades das várias escolas e a representar a comunidade dos docentes, investigadores, estudantes e funcionários da Universidade.
 
-###### Art. 34.º Quaisquer dúvidas surgidas na interpretação ou aplicação deste decreto-lei serão resolvidas por despacho ministerial.
+Art. 34.º Quaisquer dúvidas surgidas na interpretação ou aplicação deste decreto-lei serão resolvidas por despacho ministerial.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Manuel Rodrigues de Carvalho.
 
-**Promulgado em 31 de Dezembro de 1974.**
+Promulgado em 31 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 2º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1670-(39) a 1670-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30302/00390043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-1974-236080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:37:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3e50efb5239399c7872aa62628414597fa03858aa10fff8fd40c58b98fa4432
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6e67958b15caa6f107ee07a085248f927e71067d7fdc1b13801982d72d2552d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:37:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empreitada de Obras Públicas
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:626600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160159:por
+  label: "Prorrogado até 28.02.1975, inclusive, o prazo de apresentação de requerimentos a que se refere o nº1 do art. 13º\
+    \ do presente diploma, pelo DEC LEI.81/75.24.02.1975.MESA, DG.IS [46] de 24.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1975-160159
+  date: '1975-02-24'
+- type: cites
+  target: pt:dre:391026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626600:por
+  label: "Revogado pelo DEC LEI.273-B/75.03.06.1975.MESA, DG.IS [127]Supl de 03.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-b-1975-626600
+  date: '1975-06-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:37:30Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +161,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O preço das empreitadas e fornecimentos de obras públicas adjudicados pelo Estado ou por instituto público autónomo, directamente ou mediante concursos abertos, posteriormente à data do presente diploma, cujo valor global no contrato inicial ultrapasse os 5000 contos e cuja execução, de acordo com os termos do contrato, ultrapasse em mais de noventa dias a data da abertura das respectivas propostas, fica sujeito a revisão, em função das variações, para mais ou para menos, dos salários e do custo dos materiais, relativamente aos correspondentes valores no mês em que tenha ocorrido a abertura das propostas.
+Artigo 1.º - 1. O preço das empreitadas e fornecimentos de obras públicas adjudicados pelo Estado ou por instituto público autónomo, directamente ou mediante concursos abertos, posteriormente à data do presente diploma, cujo valor global no contrato inicial ultrapasse os 5000 contos e cuja execução, de acordo com os termos do contrato, ultrapasse em mais de noventa dias a data da abertura das respectivas propostas, fica sujeito a revisão, em função das variações, para mais ou para menos, dos salários e do custo dos materiais, relativamente aos correspondentes valores no mês em que tenha ocorrido a abertura das propostas.
 
 2. O mesmo regime é aplicável ao preço de quaisquer empreitadas e fornecimentos de obras públicas cujo valor global no contrato inicial ultrapasse os 5000 contos, adjudicados pelas autarquias locais, empresas públicas, de economia mista e concessionárias do Estado.
 
@@ -148,7 +177,7 @@ p é o prazo, expresso em dias, fixado para a execução da empreitada.
 
 6. A revisão poderá ser feita por iniciativa da entidade adjudicante ou a requerimento do adjudicatário, mas, em qualquer dos casos, somente depois de estarem realizados trabalhos correspondentes à parcela do montante global da adjudicação determinada nos termos do número anterior.
 
-###### Art. 2.º - 1. O preço das empreitadas e fornecimentos de obras públicas adjudicados pelo Estado ou por instituto público autónomo, directamente ou mediante concurso aberto posteriormente à data do presente diploma, e cujo valor global no contrato inicial seja igual ou inferior a 5000 contos, fica sujeito a revisão em função das variações, para mais ou para menos, dos salários e do custo dos materiais, relativamente aos correspondentes valores no mês em que tenha ocorrido a abertura das propostas.
+Art. 2.º - 1. O preço das empreitadas e fornecimentos de obras públicas adjudicados pelo Estado ou por instituto público autónomo, directamente ou mediante concurso aberto posteriormente à data do presente diploma, e cujo valor global no contrato inicial seja igual ou inferior a 5000 contos, fica sujeito a revisão em função das variações, para mais ou para menos, dos salários e do custo dos materiais, relativamente aos correspondentes valores no mês em que tenha ocorrido a abertura das propostas.
 
 2. O mesmo regime é aplicável ao preço de quaisquer empreitadas ou fornecimentos de obras públicas cujo valor global, no contrato inicial, seja igual ou inferior a 5000 contos adjudicados pelas autarquias locais, empresas públicas, de economia mista e concessionárias do Estado.
 
@@ -156,7 +185,7 @@ p é o prazo, expresso em dias, fixado para a execução da empreitada.
 
 4. A revisão abrangerá os trabalhos não previstos no projecto, desde que a sua realização tenha resultado de contrato adicional ou de alterações impostas ou aprovadas por escrito pela entidade competente.
 
-###### Art. 3.º - 1. As cláusulas de revisão de preço poderão estabelecer que esta se efectue mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos da fórmula geral:
+Art. 3.º - 1. As cláusulas de revisão de preço poderão estabelecer que esta se efectue mediante fórmulas resultantes da adaptação ao condicionalismo próprio dos diferentes tipos de empreitadas ou fornecimentos da fórmula geral:
 
 C(índice t) = a (0,8 S(índice t)/S(índice o)) + b (M(índice t)/M(índice o)) + b' (M'(índice t)/M'(índice o)) - b" (M"'(índice t)/M"(índice o)) + ... + c
 
@@ -188,13 +217,13 @@ Superior a 5%, para mais ou para menos, em obras e fornecimentos cujo valor glob
 
 Superior a 2%, para mais ou para menos, em obras e fornecimentos cujo valor global seja igual ou inferior a 1000 contos, devendo ser entendido que a revisão incidirá sempre sobre o valor global da obra.
 
-###### Art. 4.º Para efeitos de revisão no respeitante à mão-de-obra não serão consideradas as variações dos salários do pessoal dirigente, do pessoal técnico e de escritório e, ainda, dos chefes de oficina, fiéis de armazém e equiparados.
+Art. 4.º Para efeitos de revisão no respeitante à mão-de-obra não serão consideradas as variações dos salários do pessoal dirigente, do pessoal técnico e de escritório e, ainda, dos chefes de oficina, fiéis de armazém e equiparados.
 
-###### Art. 5.º - 1. Se não constar da lista dos índices oficiais a que se refere o artigo 3.º qualquer material cujo preço no mercado, multiplicado pela quantidade prevista no mapa de medições, exceda 2% do valor da obra ou fornecimento, os concorrentes podem estipular, em documento anexo à sua proposta, o preço base do referido material, sendo a correspondente revisão efectuada pelo apuramento da diferença entre aquele preço base e o preço de aquisição, um e outro devidamente comprovados.
+Art. 5.º - 1. Se não constar da lista dos índices oficiais a que se refere o artigo 3.º qualquer material cujo preço no mercado, multiplicado pela quantidade prevista no mapa de medições, exceda 2% do valor da obra ou fornecimento, os concorrentes podem estipular, em documento anexo à sua proposta, o preço base do referido material, sendo a correspondente revisão efectuada pelo apuramento da diferença entre aquele preço base e o preço de aquisição, um e outro devidamente comprovados.
 
 2. Nos casos do número anterior deve o concorrente, no mesmo documento em que estipule o regime previsto neste artigo, propor e justificar o consequente reajustamento da fórmula.
 
-###### Art. 6.º - 1. Quando a entidade adjudicante o considere justificado, poderão as cláusulas contratuais garantir ao adjudicatário os custos de determinados tipos de mão-de-obra e materiais mais significativos, devendo, no que a estes respeita, a garantia limitar-se aos que representem, pelo menos, 2% do valor global do contrato.
+Art. 6.º - 1. Quando a entidade adjudicante o considere justificado, poderão as cláusulas contratuais garantir ao adjudicatário os custos de determinados tipos de mão-de-obra e materiais mais significativos, devendo, no que a estes respeita, a garantia limitar-se aos que representem, pelo menos, 2% do valor global do contrato.
 
 2. Nos casos previstos no número anterior, considerar-se-ão para efeitos de pagamentos resultantes de revisão dos salários e dos custos dos materiais as variações:
 
@@ -206,15 +235,15 @@ Superiores a 2%, para mais ou para menos, em obras e fornecimentos cujo valor gl
 
 4. O dono da obra terá o direito de exigir a justificação dos salários e dos preços dos materiais apresentados pelo adjudicatário para efeitos de revisão.
 
-###### Art. 7.º - 1. Em casos especiais, quando tal se justifique pela natureza da obra ou do fornecimento, poderão incluir-se no caderno de encargos e no contrato quaisquer cláusulas que se afastem ou que divirjam das regras constantes do presente diploma, as quais, todavia, deverão subordinar-se aos princípios fundamentais nele estabelecidos.
+Art. 7.º - 1. Em casos especiais, quando tal se justifique pela natureza da obra ou do fornecimento, poderão incluir-se no caderno de encargos e no contrato quaisquer cláusulas que se afastem ou que divirjam das regras constantes do presente diploma, as quais, todavia, deverão subordinar-se aos princípios fundamentais nele estabelecidos.
 
 2. As cláusulas previstas no número anterior carecem, em todos os casos, de aprovação expressa da entidade competente.
 
-###### Art. 8.º - 1. Os processos dos concursos deverão especificar as cláusulas de revisão a inserir nos contratos, mas os concorrentes, sem prejuízo da apresentação de proposta que englobe essas cláusulas, poderão propor outras cláusulas de revisão, em alternativa devidamente justificada.
+Art. 8.º - 1. Os processos dos concursos deverão especificar as cláusulas de revisão a inserir nos contratos, mas os concorrentes, sem prejuízo da apresentação de proposta que englobe essas cláusulas, poderão propor outras cláusulas de revisão, em alternativa devidamente justificada.
 
 2. No caso de propostas com variantes do projecto oficial, poderão os concorrentes apresentar cláusulas de revisão diferentes das especificadas no processo de concurso.
 
-###### Art. 9.º - 1. Os índices ponderados de salários e de custos de materiais a considerar para aplicação do presente diploma serão fixados por despacho do Secretário de Estado de Obras Públicas, sob proposta de uma comissão permanente, que para o efeito nomeará, e em que terão assento representante ou representantes dos industriais de construção civil e obras públicas.
+Art. 9.º - 1. Os índices ponderados de salários e de custos de materiais a considerar para aplicação do presente diploma serão fixados por despacho do Secretário de Estado de Obras Públicas, sob proposta de uma comissão permanente, que para o efeito nomeará, e em que terão assento representante ou representantes dos industriais de construção civil e obras públicas.
 
 2. Os índices serão estabelecidos com base em elementos a publicar para cada mês pelo Instituto Nacional de Estatística ou, na sua falta, em elementos idóneos obtidos pela comissão.
 
@@ -222,19 +251,19 @@ Superiores a 2%, para mais ou para menos, em obras e fornecimentos cujo valor gl
 
 4. Da fixação dos índices a que se refere este artigo não cabe recurso.
 
-###### Art. 10.º - 1. As revisões, salvo diferente estipulação, reportar-se-ão às datas estabelecidas para as liquidações ou pagamentos parciais a efectuar no decurso das empreitadas ou fornecimentos, não devendo a sua liquidação prejudicar o recebimento dos valores das respectivas situações.
+Art. 10.º - 1. As revisões, salvo diferente estipulação, reportar-se-ão às datas estabelecidas para as liquidações ou pagamentos parciais a efectuar no decurso das empreitadas ou fornecimentos, não devendo a sua liquidação prejudicar o recebimento dos valores das respectivas situações.
 
 2. Nos contratos em que se prevejam liquidações mensais, atender-se-á, para a revisão, aos índices relativos ao mês a que ela se reporta.
 
 3. Nos contratos em que se não prevejam liquidações mensais, atender-se-á, para a revisão, às médias aritméticas dos índices mensais do período a que ela se reporta, se se puder considerar a execução da empreitada ou fornecimento uniformemente distribuída pelos diferentes meses desse período e se neste se não tiverem verificado variações irregulares dos salários ou dos custos dos materiais. No caso contrário, far-se-á a decomposição do mesmo período em parcelas a que sejam aplicáveis aquelas condições, precedendo-se, em relação a cada parcela, nos termos prescritos na regra anterior e somando-se algebricamente os resultados parciais obtidos.
 
-###### Art. 11.º - 1. Sendo concedidos ao adjudicatário adiantamentos para aquisição de materiais sujeitos a flutuações de preço ou por materiais postos ao pé da obra e aprovados, cujos preços de custo compete àquele provar, os valores M(índice t), M'(índice t), M"(índice t) ... a considerar para efeitos de revisão da parcela de cada situação de trabalhos correspondentes a esses adiantamentos serão os respeitantes à data da concessão dos mesmos.
+Art. 11.º - 1. Sendo concedidos ao adjudicatário adiantamentos para aquisição de materiais sujeitos a flutuações de preço ou por materiais postos ao pé da obra e aprovados, cujos preços de custo compete àquele provar, os valores M(índice t), M'(índice t), M"(índice t) ... a considerar para efeitos de revisão da parcela de cada situação de trabalhos correspondentes a esses adiantamentos serão os respeitantes à data da concessão dos mesmos.
 
 2. Nos casos do número anterior, se a revisão houver de efectuar-se nos termos do artigo 6.º, a diferença de preços a considerar, relativamente às quantidades de materiais cobertas pelo adiantamento, será a que se verifique entre os preços garantidos e os que se praticavam na data da concessão daquele adiantamento.
 
-###### Art. 12.º O disposto no presente diploma é também aplicável às empreitadas e fornecimentos de obras públicas adjudicados pelo Estado ou por instituto público autónomo, que se encontrassem em curso em 1 de Janeiro de 1974 ou que posteriormente se tivessem iniciado dentro dos respectivos prazos contratuais, incluindo as suas prorrogações, sendo a revisão de preços, nas condições nele prescritas, apenas aplicável aos trabalhos executados e aos fornecimentos feitos a partir daquele data, regendo-se os trabalhos anteriores pelo disposto na legislação que então vigorava.
+Art. 12.º O disposto no presente diploma é também aplicável às empreitadas e fornecimentos de obras públicas adjudicados pelo Estado ou por instituto público autónomo, que se encontrassem em curso em 1 de Janeiro de 1974 ou que posteriormente se tivessem iniciado dentro dos respectivos prazos contratuais, incluindo as suas prorrogações, sendo a revisão de preços, nas condições nele prescritas, apenas aplicável aos trabalhos executados e aos fornecimentos feitos a partir daquele data, regendo-se os trabalhos anteriores pelo disposto na legislação que então vigorava.
 
-###### Art. 13.º - 1. Para os efeitos do que se determina no artigo 12.º, os adjudicatários das obras e fornecimentos em causa terão de apresentar, no departamento competente, dentro do prazo de trinta dias, a contar da data de entrada em vigor deste diploma, requerimento de que conste pormenorizada justificação da sua pretensão.
+Art. 13.º - 1. Para os efeitos do que se determina no artigo 12.º, os adjudicatários das obras e fornecimentos em causa terão de apresentar, no departamento competente, dentro do prazo de trinta dias, a contar da data de entrada em vigor deste diploma, requerimento de que conste pormenorizada justificação da sua pretensão.
 
 2. As entidades adjudicantes das obras e fornecimentos deverão, relativamente a cada um dos requerimentos referidos no número anterior:
 
@@ -248,18 +277,18 @@ c) Submeter à aprovação do Ministro competente as fórmulas e esquemas a adop
 
 4. Cumprido o que se dispõe no número anterior, e obtida a aprovação do Ministro competente, apurar-se-ão e abonar-se-ão ao adjudicatário as importâncias a que este tenha direito.
 
-###### Art. 14.º Salvo casos excepcionais devidamente justificados, as fórmulas e esquemas a adoptar para a revisão a que se refere o artigo precedente devem ser submetidos à aprovação superior no prazo máximo de noventa dias, contados da data de entrada em vigor do presente diploma.
+Art. 14.º Salvo casos excepcionais devidamente justificados, as fórmulas e esquemas a adoptar para a revisão a que se refere o artigo precedente devem ser submetidos à aprovação superior no prazo máximo de noventa dias, contados da data de entrada em vigor do presente diploma.
 
-###### Art. 15.º Ficam revogados o artigo 173.º do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, e os Decretos-Leis n.os 47945, de 16 de Setembro de 1967, e 157/74, de 19 de Abril.
+Art. 15.º Ficam revogados o artigo 173.º do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969, e os Decretos-Leis n.os 47945, de 16 de Setembro de 1967, e 157/74, de 19 de Abril.
 
-###### Art. 16.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro competente, depois de ouvido o Secretário de Estado das Obras Públicas.
+Art. 16.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro competente, depois de ouvido o Secretário de Estado das Obras Públicas.
 
-###### Art. 17.º O presente decreto-lei entra imediatamente em vigor.
+Art. 17.º O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Augusto Fernandes.
 
-**Promulgado em 30 de Dezembro de 1974.**
+Promulgado em 30 de Dezembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

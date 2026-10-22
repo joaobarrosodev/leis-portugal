@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/396-1972-690218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 893abf45e9318dc9e22a9e56f42ccb5f69d5f23b03109fada1c8621254dd2605
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d188d1032804c695baf66efe9ab3ed43e2865e6b041a6cd11a37fdc8474e777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,40 @@ relationships:
   target: pt:dre:428013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412421:por
+  label: "Mantido em vigor até à sua reformulação o Regulamento do Instituto da Família e Acção Social pelo DEC LEI.114/74.19.03.1974.MCSS,\
+    \ DG.IS [66] de 19.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-1974-412421
+  date: '1974-03-19'
+- type: amended_by
+  target: pt:dre:428013:por
+  label: "Integrados, a partir de 01.06.1976, os albergues distritais de mendicidade no Instituto da Família e Acção Social,\
+    \ cujo regulamento consta do presente diploma, pelo DEC LEI.365/76.15.05.1976.MAI, DR.IS [114] de 15.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1976-428013
+  date: '1976-05-15'
+- type: cites
+  target: pt:dre:156065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:02Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +120,7 @@ REGULAMENTO DO INSTITUTO DA FAMÍLIA E ACÇÃO SOCIAL
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º - 1. O Instituto da Família e Acção Social, adiante designado abreviadamente por Instituto, criado na dependência da Direcção-Geral da Assistência Social pelo artigo 43.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, é dotado de personalidade jurídica e autonomia administrativa e técnica, nos termos do artigo 76.º do mesmo diploma.
+Artigo 1.º - 1. O Instituto da Família e Acção Social, adiante designado abreviadamente por Instituto, criado na dependência da Direcção-Geral da Assistência Social pelo artigo 43.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, é dotado de personalidade jurídica e autonomia administrativa e técnica, nos termos do artigo 76.º do mesmo diploma.
 
 2. O Instituto tem por finalidade promover a valorização da família e a integração social dos indivíduos, bem como activar a sua participação no processo global do desenvolvimento, em ordem ao bem-estar individual e da comunidade, cabendo-lhe, designadamente, orientar, coordenar e fiscalizar as actividades das instituições e estabelecimentos de assistência social e completá-las pela organização e manutenção dos serviços que se mostrem necessários.
 
@@ -104,13 +128,13 @@ REGULAMENTO DO INSTITUTO DA FAMÍLIA E ACÇÃO SOCIAL
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
-###### Art. 2.º O Instituto é dirigido por um director, que é coadjuvado por um subdirector e assistido por um conselho administrativo e um conselho consultivo.
+Art. 2.º O Instituto é dirigido por um director, que é coadjuvado por um subdirector e assistido por um conselho administrativo e um conselho consultivo.
 
-###### Art. 3.º - 1. O director é o primeiro responsável, perante o director-geral da Assistência Social, pela realização das atribuições do Instituto e pela sua gerência.
+Art. 3.º - 1. O director é o primeiro responsável, perante o director-geral da Assistência Social, pela realização das atribuições do Instituto e pela sua gerência.
 
 2. O director preside ao conselho administrativo e cabe-lhe a representação do instituto.
 
-###### Art. 4.º - 1. Ao director compete orientar, coordenar e fiscalizar o funcionamento de todos os órgãos e serviços, incumbindo-lhe nomeadamente:
+Art. 4.º - 1. Ao director compete orientar, coordenar e fiscalizar o funcionamento de todos os órgãos e serviços, incumbindo-lhe nomeadamente:
 
 a) Apresentar à consideração superior o programa anual de acção, ordenando os meios e necessidades a satisfazer e observando critérios de prioridade, de acordo com os planos estabelecidos, sem prejuízo da competência do Gabinete de Estudos e Planeamento;
 
@@ -138,9 +162,9 @@ b) Apreciar e submeter à aprovação superior os respectivos orçamentos;
 
 c) Apreciar e submeter à apreciação superior os resultados das respectivas gerências.
 
-###### Art. 5.º Ao subdirector compete coadjuvar o director no exercício da sua competência, substituí-lo nas suas faltas e impedimentos e exercer a parte dessa competência que lhe for expressamente delegada.
+Art. 5.º Ao subdirector compete coadjuvar o director no exercício da sua competência, substituí-lo nas suas faltas e impedimentos e exercer a parte dessa competência que lhe for expressamente delegada.
 
-###### Art. 6.º - 1. O conselho administrativo é constituído por:
+Art. 6.º - 1. O conselho administrativo é constituído por:
 
 a) O director;
 
@@ -154,7 +178,7 @@ e) O chefe de contabilidade, que servirá de secretário.
 
 2. Nas sessões em que sejam apreciados assuntos relativos aos estabelecimentos e serviços que dependem tècnicamente do Instituto, ou a eles estão agregados e dispõem de autonomia administrativa, poderão participar por convocação do presidente os responsáveis pela sua direcção.
 
-###### Art. 7.º Compete ao conselho administrativo:
+Art. 7.º Compete ao conselho administrativo:
 
 a) Pronunciar-se sobre os projectos de orçamentos, tomando em conta os critérios de prioridade apresentados pelo Gabinete de Estudos e Planeamento;
 
@@ -176,11 +200,11 @@ i) Deliberar sobre a realização de despesas que dependam de concurso público 
 
 j) Deliberar sobre a aceitação de heranças, legados e doações.
 
-###### Art. 8.º - 1. O conselho administrativo reúne ordinàriamente uma vez por mês e extraordinàriamente sempre que o presidente o convocar.
+Art. 8.º - 1. O conselho administrativo reúne ordinàriamente uma vez por mês e extraordinàriamente sempre que o presidente o convocar.
 
 2. As deliberações do conselho são tomadas por maioria de votos, tendo o respectivo presidente, em caso de empate, voto de qualidade.
 
-###### Art. 9.º - 1. O conselho consultivo, presidido pelo director-geral da Assistência Social, tem a seguinte composição:
+Art. 9.º - 1. O conselho consultivo, presidido pelo director-geral da Assistência Social, tem a seguinte composição:
 
 a) Inspector superior de Tutela Administrativa;
 
@@ -192,7 +216,7 @@ d) Delegados regionais da Direcção-Geral da Assistência Social.
 
 2. Quando, pela natureza das matérias a tratar, tal se mostre conveniente, poderão ser convocados pelo director-geral outros funcionários da Direcção-Geral, podendo também ser convidados representantes de outras entidades, públicas ou privadas, mediante prévio despacho ministerial.
 
-###### Art. 10.º Ao conselho consultivo compete, em geral, dar parecer sobre os assuntos que forem submetidos à sua apreciação e, em especial:
+Art. 10.º Ao conselho consultivo compete, em geral, dar parecer sobre os assuntos que forem submetidos à sua apreciação e, em especial:
 
 a) Pronunciar-se sobre os programas anuais de actividades e relatórios de gerência do Instituto e dos seus estabelecimentos e serviços;
 
@@ -202,11 +226,11 @@ c) Dar parecer sobre os assuntos que, directa ou indirectamente, digam respeito 
 
 d) Dar parecer sobre os projectos de actividade e respectivos custos financeiros a incluir nos planos de fomento.
 
-###### Art. 11.º O conselho consultivo deverá reunir, pelo menos, duas vezes por ano, sendo uma antes da elaboração do programa anual de acção do Instituto e outra para apreciação do relatório de execução das suas actividades.
+Art. 11.º O conselho consultivo deverá reunir, pelo menos, duas vezes por ano, sendo uma antes da elaboração do programa anual de acção do Instituto e outra para apreciação do relatório de execução das suas actividades.
 
-###### Art. 12.º Os planos anuais e plurianuais das actividades do Instituto serão submetidos à apreciação do Conselho Superior de Acção Social com o parecer do conselho consultivo e deverão ser presentes à aprovação do Ministro até 31 de Janeiro de cada ano.
+Art. 12.º Os planos anuais e plurianuais das actividades do Instituto serão submetidos à apreciação do Conselho Superior de Acção Social com o parecer do conselho consultivo e deverão ser presentes à aprovação do Ministro até 31 de Janeiro de cada ano.
 
-###### Art. 13.º - 1. O Instituto da Família e Acção Social compreende os seguintes serviços centrais:
+Art. 13.º - 1. O Instituto da Família e Acção Social compreende os seguintes serviços centrais:
 
 a) O Centro de Formação e Aperfeiçoamento de Pessoal;
 
@@ -222,7 +246,7 @@ f) Os Serviços Administrativos.
 
 2. O Instituto pode dispor de estabelecimentos oficiais e de serviços de acção directa que não constituam duplicação das actividades de quaisquer outros.
 
-###### Art. 14.º - 1. Ao Centro de Formação e Aperfeiçoamento de Pessoal incumbe, em geral, promover a formação e o aperfeiçoamento do pessoal em serviço ou destinado ao desempenho de actividades de assistência social, obedecendo a normas orientadoras superiormente aprovadas e segundo programas a elaborar anualmente, em colaboração com a Secretaria-Geral.
+Art. 14.º - 1. Ao Centro de Formação e Aperfeiçoamento de Pessoal incumbe, em geral, promover a formação e o aperfeiçoamento do pessoal em serviço ou destinado ao desempenho de actividades de assistência social, obedecendo a normas orientadoras superiormente aprovadas e segundo programas a elaborar anualmente, em colaboração com a Secretaria-Geral.
 
 2. Compete-lhe em especial:
 
@@ -254,7 +278,7 @@ n) Preparar, de acordo com as propostas dos serviços e ouvido o Gabinete de Est
 
 3. A Escola de Auxiliares Sociais de S. Pedro de Alcântara passa a depender de orientação técnica do Centro de Formação e Aperfeiçoamento de Pessoal, em especial no que respeita à elaboração dos programas e métodos pedagógicos.
 
-###### Art. 15.º - 1. Ao Centro de Observação e Orientação Médico-Pedagógica incumbe, em geral, a observação, diagnóstico e orientação psico-médico-pedagógica dos menores que recorram aos serviços e instituições de assistência social em conjugação com os centros de saúde mental infantil.
+Art. 15.º - 1. Ao Centro de Observação e Orientação Médico-Pedagógica incumbe, em geral, a observação, diagnóstico e orientação psico-médico-pedagógica dos menores que recorram aos serviços e instituições de assistência social em conjugação com os centros de saúde mental infantil.
 
 2. Compete-lhe em especial:
 
@@ -274,7 +298,7 @@ g) Dar orientação técnica especializada aos serviços de acção directa.
 
 3. A acção do Centro será exercida em colaboração com outros serviços do Ministério da Saúde e Assistência, em termos a definir por despacho ministerial.
 
-###### Art. 16.º - 1. Aos serviços referidos nas alíneas c), d) e e) do artigo 13.º compete, no âmbito próprio das suas funções, colaborar na elaboração dos programas de actividades do Instituto, sua execução e avaliação, e especialmente:
+Art. 16.º - 1. Aos serviços referidos nas alíneas c), d) e e) do artigo 13.º compete, no âmbito próprio das suas funções, colaborar na elaboração dos programas de actividades do Instituto, sua execução e avaliação, e especialmente:
 
 a) Fazer a prospecção e avaliação das necessidades sociais e indicar os recursos efectivos e potenciais indispensáveis à sua satisfação;
 
@@ -294,7 +318,7 @@ g) Assegurar, a nível central, o relacionamento e coordenação das actividades
 
 3. Nas acções destinadas à educação especial e reabilitação de deficientes, os serviços actuarão em conformidade com o disposto na [Lei n.º 6/71](https://diariodarepublica.pt/dr/detalhe/lei/6-1971-631271), de 8 de Novembro.
 
-###### Art. 17.º - 1. Ao serviço de Acção Familiar e Social incumbe, em geral, formular e dar execução às medidas destinadas a prosseguir as atribuições do Instituto no domínio da promoção do bem-estar familiar e social dos indivíduos.
+Art. 17.º - 1. Ao serviço de Acção Familiar e Social incumbe, em geral, formular e dar execução às medidas destinadas a prosseguir as atribuições do Instituto no domínio da promoção do bem-estar familiar e social dos indivíduos.
 
 2. Em especial, compete-lhe:
 
@@ -312,13 +336,13 @@ f) Prestar ajuda económica a indivíduos e famílias em situação de carência
 
 g) Promover, directamente ou em colaboração com outras entidades, a prestação de socorros urgentes por motivo de calamidades públicas ou sinistros, coordenando e orientando a utilização de recursos públicos e a aplicação de donativos ou de produtos de subscrições que se realizem.
 
-###### Art. 18.º O Serviço de Acção Familiar e Social compreende:
+Art. 18.º O Serviço de Acção Familiar e Social compreende:
 
 a) A Divisão de Acolhimento, Informação e Orientação;
 
 b) A Divisão de Promoção do Bem-Estar Familiar e Social.
 
-###### Art. 19.º - 1. A Divisão de Acolhimento, Informação e Orientação tem por função assegurar o acolhimento, a informação e orientação a pessoas que para o efeito se lhe dirijam, prestando-lhes o apoio necessário, e bem assim, assegurar o exercício da competência prevista na alínea e) do artigo 17.º
+Art. 19.º - 1. A Divisão de Acolhimento, Informação e Orientação tem por função assegurar o acolhimento, a informação e orientação a pessoas que para o efeito se lhe dirijam, prestando-lhes o apoio necessário, e bem assim, assegurar o exercício da competência prevista na alínea e) do artigo 17.º
 
 2. No exercício das atribuições que lhe estão cometidas no número anterior, cabe à Divisão de Acolhimento, Informação e Orientação:
 
@@ -336,7 +360,7 @@ f) O acolhimento de doentes, em ordem a assegurar, em Lisboa, e em coordenação
 
 g) A realização da atribuição prevista na alínea g) do n.º 2 do artigo 17.º
 
-###### Art. 20.º - 1. A Divisão de Promoção do Bem-Estar Familiar e Social tem por função promover o estudo e exercer a coordenação das actividades destinadas à valorização e ajuda da família e ao desenvolvimento integrado das comunidades, dentro de uma visão global e unitária da realidade social.
+Art. 20.º - 1. A Divisão de Promoção do Bem-Estar Familiar e Social tem por função promover o estudo e exercer a coordenação das actividades destinadas à valorização e ajuda da família e ao desenvolvimento integrado das comunidades, dentro de uma visão global e unitária da realidade social.
 
 2. Compete-lhe, em especial:
 
@@ -356,7 +380,7 @@ b) O bem-estar infantil, que tem por objectivo, numa visão global e unitária d
 
 c) O desenvolvimento integrado, que se ocupa da promoção do bem-estar familiar e social, pelo estudo, orientação, apoio ou colaboração em programas de desenvolvimento integrado da comunidade, atentas as competência definidas no n.º 2.
 
-###### Art. 21.º - 1. Ao Serviço de Protecção à Infância e Juventude incumbe, em geral, promover a integração social dos menores privados do meio familiar normal ou com deficiências intelectuais, sensoriais e físicas, bem como dos menores socialmente desajustados.
+Art. 21.º - 1. Ao Serviço de Protecção à Infância e Juventude incumbe, em geral, promover a integração social dos menores privados do meio familiar normal ou com deficiências intelectuais, sensoriais e físicas, bem como dos menores socialmente desajustados.
 
 2. Compete-lhe, em especial:
 
@@ -372,13 +396,13 @@ e) Colaborar com o Centro de Observação e Orientação Médico-Pedagógica no 
 
 f) Atender aos casos de menores com múltiplas deficiências, coordenando, sempre que necessário, a acção de serviços ou instituições que, pela sua competência legal ou limitação dos respectivos recursos, apenas os possam tratar parcialmente.
 
-###### Art. 22.º O Serviço de Protecção à Infância e Juventude compreende:
+Art. 22.º O Serviço de Protecção à Infância e Juventude compreende:
 
 a) A Divisão de Integração Social de Menores;
 
 b) A Divisão de Integração Social de Menores Deficientes.
 
-###### Art. 23.º - 1. A Divisão de Integração Social de Menores tem por função assegurar a formação moral, intelectual, física, afectiva, profissional e social dos menores carecidos de meio familiar normal, com vista à sua integração na vida da comunidade.
+Art. 23.º - 1. A Divisão de Integração Social de Menores tem por função assegurar a formação moral, intelectual, física, afectiva, profissional e social dos menores carecidos de meio familiar normal, com vista à sua integração na vida da comunidade.
 
 2. Compete-lhe, em especial:
 
@@ -388,7 +412,7 @@ b) Promover a definição de critérios e o estabelecimento de medidas tendentes
 
 3. No exercício das atribuições que lhe estão cometidas nos números anteriores, deverá a Divisão de Integração Social de Menores assegurar a orientação técnica dos estabelecimentos e instituições, bem como propor e orientar a prestação de serviço social, o funcionamento de actividades de tempos livres e outras, assim como difundir e fazer executar normas referentes a dietas alimentares a seguir nos estabelecimentos.
 
-###### Art. 24.º - 1. A Divisão de Integração Social de Menores Deficientes tem por função assegurar a formação e educação das crianças portadoras de deficiências intelectuais, sensoriais e físicas e socialmente desajustadas, em ordem à sua integração social.
+Art. 24.º - 1. A Divisão de Integração Social de Menores Deficientes tem por função assegurar a formação e educação das crianças portadoras de deficiências intelectuais, sensoriais e físicas e socialmente desajustadas, em ordem à sua integração social.
 
 2. Compete-lhe, em especial, prosseguir, em relação aos menores deficientes ou socialmente desajustados, as atribuições referidas na alínea a) do n.º 2 do artigo 23.º, em relação aos menores carecidos de meio familiar normal, bem como assegurar a interacção familiar e social dos menores deficientes admitidos em internato com a comunidade, e promover a continuidade da sua vida escolar para além dos limites definidos pelo ensino básico, promovendo a sua formação profissional.
 
@@ -404,13 +428,13 @@ d) A educação de deficientes motores, em ordem a assegurar a formação e educ
 
 e) A educação de menores socialmente desajustados, promovendo a sua plena capacidade e visando uma vida familiar e social equilibrada.
 
-###### Art. 25.º O Serviço de Reabilitação e Protecção aos Diminuídos e Idosos compreende:
+Art. 25.º O Serviço de Reabilitação e Protecção aos Diminuídos e Idosos compreende:
 
 a) A Divisão de Protecção aos Diminuídos e Idosos;
 
 b) A Divisão de Reabilitação Vocacional.
 
-###### Art. 26.º - 1. A Divisão de Protecção aos Diminuídos e Idosos tem por função promover a integração social e o bem-estar das pessoas idosas e inválidas.
+Art. 26.º - 1. A Divisão de Protecção aos Diminuídos e Idosos tem por função promover a integração social e o bem-estar das pessoas idosas e inválidas.
 
 2. Compete-lhe, em especial:
 
@@ -426,7 +450,7 @@ b) A orientação técnica dos serviços de ajuda domiciliária a idosos ou inv�
 
 c) A orientação técnica de serviços que desenvolvam actividades de ajuda socioterápica, como centros de convívio, colónias de férias e outros, dirigida a idosos ou inválidos.
 
-###### Art. 27.º - 1. A Divisão de Reabilitação Vocacional tem por função promover a reabilitação vocacional dos deficientes intelectuais físicos e sensoriais adultos, tendo em vista a sua integração social, sem prejuízo das actuações respeitantes a jovens não abrangidos pelo Serviço de Protecção à Infância e Juventude.
+Art. 27.º - 1. A Divisão de Reabilitação Vocacional tem por função promover a reabilitação vocacional dos deficientes intelectuais físicos e sensoriais adultos, tendo em vista a sua integração social, sem prejuízo das actuações respeitantes a jovens não abrangidos pelo Serviço de Protecção à Infância e Juventude.
 
 2. Este serviço tem ainda por função promover a recuperação e integração social dos adultos socialmente desajustados.
 
@@ -448,9 +472,9 @@ b) A orientação técnica do funcionamento de estabelecimentos ou serviços vot
 
 c) A orientação técnica do funcionamento de estabelecimentos ou serviços oficiais ou particulares onde se prossigam actividades de ajuda e protecção a indivíduos desajustados socialmente.
 
-###### Art. 28.º Aos Serviços Administrativos incumbe proporcionar ao director e aos restantes serviços do Instituto a recolha, o tratamento, a transferência e o registo de informação, bem como o apoio necessário à gestão dos recursos humanos, financeiros e materiais indispensáveis ao seu regular funcionamento.
+Art. 28.º Aos Serviços Administrativos incumbe proporcionar ao director e aos restantes serviços do Instituto a recolha, o tratamento, a transferência e o registo de informação, bem como o apoio necessário à gestão dos recursos humanos, financeiros e materiais indispensáveis ao seu regular funcionamento.
 
-###### Art. 29.º - 1. Compete-lhes ainda, em especial:
+Art. 29.º - 1. Compete-lhes ainda, em especial:
 
 a) Realizar os trabalhos preparatórios da elaboração do orçamento do Instituto, com a colaboração dos restantes serviços e em conformidade com os planos e os programas de acção, e dar execução ao respectivo expediente;
 
@@ -494,7 +518,7 @@ t) Promover, em colaboração com os serviços e com o apoio do Gabinete de Orga
 
 u) Colaborar com a Inspecção Superior de Tutela Administrativa nos processos relativos a obras em instituições particulares ou de outras entidades e assegurar o respectivo expediente, sem prejuízo da competência dos Serviços de Instalações e Equipamento da Secretaria-Geral.
 
-###### Art. 30.º Os Serviços Administrativos compreendem:
+Art. 30.º Os Serviços Administrativos compreendem:
 
 a) Repartição de Pessoal e Contabilidade;
 
@@ -504,7 +528,7 @@ c) Repartição de Serviços Gerais;
 
 d) Tesouraria.
 
-###### Art. 31.º - 1. Os serviços de acção directa, a que se refere o n.º 2 do artigo 13.º, actuarão em estreita ligação com os órgãos coordenadores e as autoridades sanitárias previstas no [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e em domínios que não constituam duplicação com as acções legalmente conferidas a outros serviços.
+Art. 31.º - 1. Os serviços de acção directa, a que se refere o n.º 2 do artigo 13.º, actuarão em estreita ligação com os órgãos coordenadores e as autoridades sanitárias previstas no [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e em domínios que não constituam duplicação com as acções legalmente conferidas a outros serviços.
 
 2. Compete-lhes, em especial:
 
@@ -526,7 +550,7 @@ b) Coordenar e apoiar tècnicamente, de acordo com as orientações da Inspecç�
 
 c) Promover a revalorização social dos estabelecimentos e instituições, fomentando a sua abertura à comunidade e a plena utilização de instalações e equipamentos sempre que for necessário recorrer a esquemas de acção social de urgência exigidos por calamidades públicas, sinistros e outros casos fortuitos ou de força maior.
 
-###### Art. 32.º - 1. Os serviços de acção directa deverão incluir técnicos de formação diversa no campo da promoção familiar e social e integração social de menores, idosos e deficientes.
+Art. 32.º - 1. Os serviços de acção directa deverão incluir técnicos de formação diversa no campo da promoção familiar e social e integração social de menores, idosos e deficientes.
 
 2. Os serviços de acção directa deverão manter contacto com as comunidades, estabelecimentos oficiais e particulares de assistência, serviços e entidades locais competentes em matéria de natureza social.
 
@@ -534,9 +558,9 @@ c) Promover a revalorização social dos estabelecimentos e instituições, fome
 
 ### CAPÍTULO III — Dos cargos e seu exercício
 
-###### Art. 33.º Com excepção do lugar de director e subdirector, os titulares dos lugares de pessoal dirigente e técnico especialista serão afectos ao exercício dos diferentes cargos de direcção e chefia mediante despacho ministerial.
+Art. 33.º Com excepção do lugar de director e subdirector, os titulares dos lugares de pessoal dirigente e técnico especialista serão afectos ao exercício dos diferentes cargos de direcção e chefia mediante despacho ministerial.
 
-###### Art. 34.º - 1. Na ausência e impedimento dos titulares dos cargos de direcção e chefia, a sua substituição far-se-á do modo seguinte:
+Art. 34.º - 1. Na ausência e impedimento dos titulares dos cargos de direcção e chefia, a sua substituição far-se-á do modo seguinte:
 
 a) O director pelo subdirector e, na falta deste, por um director de serviços, designado por despacho ministerial;
 
@@ -546,21 +570,21 @@ b) Nos restantes casos, a substituição caberá ao funcionário imediatamente a
 
 3. A designação dos substitutos deverá ser levada ao conhecimento geral.
 
-###### Art. 35.º - l. O subdirector poderá ser incumbido de dirigir uma das direcções de serviços do Instituto.
+Art. 35.º - l. O subdirector poderá ser incumbido de dirigir uma das direcções de serviços do Instituto.
 
 2. Os directores de serviços poderão ser encarregados de dirigir serviços ou divisões na sua dependência.
 
-###### Art. 36.º - 1. Os serviços e delegações do Instituto poderão dispor de um fundo de maneio de montante a propor superiormente pelo director do Instituto, ouvido o conselho administrativo.
+Art. 36.º - 1. Os serviços e delegações do Instituto poderão dispor de um fundo de maneio de montante a propor superiormente pelo director do Instituto, ouvido o conselho administrativo.
 
 2. Os critérios de fixação do montante e as normas de movimentação do fundo referido no número anterior constarão de despacho ministerial.
 
 3. O director poderá delegar nos directores de serviços os poderes de concessão de subsídios de prestação de ajuda económica a que se refere a alínea a) do n.º 2 do artigo 45.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
 
-###### Art. 37.º O director dos Serviços Administrativos assegurará a chefia da Repartição de Pessoal e Contabilidade.
+Art. 37.º O director dos Serviços Administrativos assegurará a chefia da Repartição de Pessoal e Contabilidade.
 
 ### CAPÍTULO IV — Do funcionamento dos serviços
 
-###### Art. 38.º - 1. As actividades do Instituto obedecerão ao que estiver estabelecido a nível global, sectorial e regional e constarão anualmente de um programa de acção a submeter à aprovação ministerial, incluindo os empreendimentos que lhe caibam na execução dos planos de fomento e estimativa das verbas necessárias.
+Art. 38.º - 1. As actividades do Instituto obedecerão ao que estiver estabelecido a nível global, sectorial e regional e constarão anualmente de um programa de acção a submeter à aprovação ministerial, incluindo os empreendimentos que lhe caibam na execução dos planos de fomento e estimativa das verbas necessárias.
 
 2. A programação anual das actividades do Instituto pressupõe a definição prévia de objectivos, tendo em atenção a avaliação comparada de custos e resultados.
 
@@ -570,11 +594,11 @@ b) Nos restantes casos, a substituição caberá ao funcionário imediatamente a
 
 5. A aprovação do programa anual constitui autorização ministerial para realização das despesas correspondentes, assim como autorização para os subsídios ordinários e comparticipação a conceder nos termos do artigo 28.º, n.os 2 e 3, do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, desde que venham a ter cabimento nos respectivas orçamentos ordinários.
 
-###### Art. 39.º - 1. A organização do orçamento e a gestão financeira obedecerão às regras gerais da contabilidade pública aplicáveis aos serviços dotados de autonomia administrativa, sem prejuízo do disposto no artigo 81.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, para os serviços e estabelecimentos em regime de instalação.
+Art. 39.º - 1. A organização do orçamento e a gestão financeira obedecerão às regras gerais da contabilidade pública aplicáveis aos serviços dotados de autonomia administrativa, sem prejuízo do disposto no artigo 81.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, para os serviços e estabelecimentos em regime de instalação.
 
 2. Para cumprimento do disposto no n.º 2 do artigo anterior e para melhor contrôle das suas actividades, o Instituto disporá também de contabilidade analítica adaptada à natureza das suas atribuições.
 
-###### Art. 40.º - 1. Constituem receitas do Instituto:
+Art. 40.º - 1. Constituem receitas do Instituto:
 
 a) As dotações inscritas no Orçamento Geral do Estado;
 
@@ -588,21 +612,21 @@ e) Outras receitas que, por disposição especial, lhe sejam atribuídas.
 
 2. A percentagem fixada pelo [Decreto-Lei n.º 35822](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35822-1946-156065), de 22 de Agosto de 1946, reverte para o Instituto, com vista às finalidades nele previstas.
 
-###### Art. 41.º - 1. O director do Instituto apresentará, até 31 de Março de cada ano, um relatório das actividades desenvolvidas no ano anterior, por forma a ser apreciada a realização dos respectivos programas e a consecução dos objectivos nele definidos.
+Art. 41.º - 1. O director do Instituto apresentará, até 31 de Março de cada ano, um relatório das actividades desenvolvidas no ano anterior, por forma a ser apreciada a realização dos respectivos programas e a consecução dos objectivos nele definidos.
 
 2. O relatório deverá ser acompanhado de um texto enunciando alternativas quanto a objectivos e projectos de acção, que servirá de documento preparatório de elaboração dos orçamentos relativos ao ano seguinte.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 42.º - 1. A constituição, aprovação e revisão dos quadros do Instituto regulam-se pelo disposto no artigo 71.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 42.º - 1. A constituição, aprovação e revisão dos quadros do Instituto regulam-se pelo disposto no artigo 71.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
 2. São aplicáveis ao pessoal do Instituto, como regimes gerais de provimento, trabalho e transferência, as normas gerais estabelecidas para o conjunto dos serviços do Ministério da Saúde e Assistência.
 
-###### Art. 43.º - 1. Para atender a necessidades eventuais, poderá o director do Instituto admitir, em regime de prestação do serviços, o pessoal indispensável, o qual será dispensado logo que cesse o motivo da admissão.
+Art. 43.º - 1. Para atender a necessidades eventuais, poderá o director do Instituto admitir, em regime de prestação do serviços, o pessoal indispensável, o qual será dispensado logo que cesse o motivo da admissão.
 
 2. A admissão de pessoal ao abrigo do número anterior, será precedida ou confirmada por despacho ministerial, quando o serviço se prolongar além do vinte dias, não podendo a respectiva remuneração exceder a estabelecida para o pessoal dos quadros de igual categoria.
 
-###### Art. 44.º - 1. O ingresso nas categorias do pessoal técnico, não abrangidas por carreiras profissionais e que compreendam mais do que uma classe far-se-á mediante concurso documental pela classe mais baixa da respectiva categoria entre os candidatos que possuam a habilitação exigida.
+Art. 44.º - 1. O ingresso nas categorias do pessoal técnico, não abrangidas por carreiras profissionais e que compreendam mais do que uma classe far-se-á mediante concurso documental pela classe mais baixa da respectiva categoria entre os candidatos que possuam a habilitação exigida.
 
 2. O acesso à classe imediata terá lugar, mediante proposta dos serviços, findo um ano de bom e efectivo serviço.
 
@@ -610,11 +634,11 @@ e) Outras receitas que, por disposição especial, lhe sejam atribuídas.
 
 4. O preenchimento dos lugares de técnicos especialistas ou equiparados far-se-á por escolha fundamentada entre técnicos de 1.ª classe, ou equivalente, com dois anos de serviço efectivo nessa categoria, classificado de Muito bom, ou entre indivíduos que, além das habilitações literárias exigidas, possuam curriculum equiparável ao exigido aos funcionários dos quadros.
 
-###### Art. 45.º - 1. Os concursos e respectivas condições de preferência bem como os critérios de escolha a que deverão obedecer movimentos previstos nos n.os 3 e 4 do artigo anterior, serão regulamentados por portaria do Ministro da Saúde e Assistência.
+Art. 45.º - 1. Os concursos e respectivas condições de preferência bem como os critérios de escolha a que deverão obedecer movimentos previstos nos n.os 3 e 4 do artigo anterior, serão regulamentados por portaria do Ministro da Saúde e Assistência.
 
 2. O tempo de serviço prestado nos locais mais desprovidos e afastados dos grandes centros urbanos constituirá condição de preferência nas promoções do pessoal.
 
-###### Art. 46.º No provimento de lugares do pessoal técnico, a que se refere o n.º 1 do artigo 45.º, cujas categorias não têm identidade com as das carreiras profissionais, serão exigíveis as habilitações seguintes:
+Art. 46.º No provimento de lugares do pessoal técnico, a que se refere o n.º 1 do artigo 45.º, cujas categorias não têm identidade com as das carreiras profissionais, serão exigíveis as habilitações seguintes:
 
 a) Para técnicos de educação - cursos do magistério primário, de educação de infância ou outros oficialmente reconhecidos pela Direcção-Geral da Assistência Social, ouvidos os serviços competentes do Ministério da Educação Nacional;
 
@@ -628,9 +652,9 @@ e) Para agentes de educação familiar - curso de agentes de educação familiar
 
 f) Para técnicos de dietética - curso de dietista oficialmente reconhecido pelo Ministério da Saúde e Assistência.
 
-###### Art. 47.º No caso do pessoal técnico destinado a exercer funções em serviços de educação especial e reabilitação de deficientes, será exigível a especialização correspondente à respectiva modalidade, obtida em cursos oficiais ou promovidos e reconhecidos pela Direcção-Geral da Assistência Social;
+Art. 47.º No caso do pessoal técnico destinado a exercer funções em serviços de educação especial e reabilitação de deficientes, será exigível a especialização correspondente à respectiva modalidade, obtida em cursos oficiais ou promovidos e reconhecidos pela Direcção-Geral da Assistência Social;
 
-###### Art. 48.º - 1. A distribuição de pessoal não dirigente pelos diferentes serviços é da competência do director geral da Assistência Social, sob proposta do director do Instituto, com ressalva do disposto no artigo 33.º quanto aos técnicos especialistas.
+Art. 48.º - 1. A distribuição de pessoal não dirigente pelos diferentes serviços é da competência do director geral da Assistência Social, sob proposta do director do Instituto, com ressalva do disposto no artigo 33.º quanto aos técnicos especialistas.
 
 2. Quando da nomeação ou promoção, os titulares dos lugares poderão ser colocados em qualquer dos serviços em que exista vaga.
 
@@ -642,16 +666,16 @@ f) Para técnicos de dietética - curso de dietista oficialmente reconhecido pel
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 49.º O primeiro preenchimento dos lugares do quadro obedecerá ao disposto no artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+Art. 49.º O primeiro preenchimento dos lugares do quadro obedecerá ao disposto no artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 50.º A regulamentação complementar do presente diploma em tudo quanto importe ao regular funcionamento do Instituto, será restabelecida por portaria do Ministro da Saúde e Assistência.
+Art. 50.º A regulamentação complementar do presente diploma em tudo quanto importe ao regular funcionamento do Instituto, será restabelecida por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 51.º As dúvidas que se suscitarem na execução e aplicação do presente diploma serão resolvidas por despacho do Ministro da Saúde e Assistência.
+Art. 51.º As dúvidas que se suscitarem na execução e aplicação do presente diploma serão resolvidas por despacho do Ministro da Saúde e Assistência.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 6 de Outubro de 1972.**
+Promulgado em 6 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

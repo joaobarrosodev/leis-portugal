@@ -48,40 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b117758a222bffc2be9ab5dcd18f5367b0c67987fdbdd5f16d3d2ae19f691a3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d16dc24e4ef1e53eb5177bef4a9c4ac05fb2ba10e41678ed04b14b46f89e451c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Delegação de Competências
+- Férias
+- Função Pública
+- Governo
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:144217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:634688:por
+  label: "Mantido transitoriamente em vigor o artigo 10.º pelo DEC LEI.83/93.18.03.1993.MF, DR.IS-A [65] de 18.03.1993, nos\
+    \ termos do n.º 4 do seu artigo 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1993-634688
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantido transitóriamente em vigor o art. 10º, pelo DEC LEI.77/94.1994.03.09.MF, DR.IS-A [57], nos termos do seu\
+    \ nº 4 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "Mantido transitoriamente em vigor o art. 10º, pelo DEC LEI.45/95.1995.03.02.MF DR.IS-A [52], nos termos do n.º 4\
+    \ do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
+  date: '1995-03-02'
+- type: amended_by
+  target: pt:dre:468775:por
+  label: "Mantido transitoriamente em vigor o artigo 10.º pelo DEC LEI.50/96.16.05.1996.MF, DR.IS-A [114] de 16.05.1996, nos\
+    \ termos do n.º 5 do seu artigo 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1996-468775
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Mantido em vigor o art. 10º, para os serviços e organismos da Administração Pública que não tenham tido uma adesão
+    plena aos princípios definidos no Dec Lei 155/92 de 28-Jul, pelo(a) Decreto-Lei n.º 29-A/2011 - Diário da República n.º
+    42/2011, 1º Suplemento, Série I de 2011-03-01, sem prejuízo do disposto no n.º 2 do art. 2º deste último diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:400645:por
+  label: "Rectificado o preâmbulo e o art. 13º do presente diploma, pela RECT.DD515.14.12.1967.PC, DG.IS [289] de 14.12.1967\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-400645
+  date: '1967-12-14'
+- type: repealed_by
+  target: pt:dre:401756:por
+  label: "Revogado o nº 2 do art. 1º, pelo DEC LEI.497/88.1988.12.30.MF, DR.IS [301]7ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/497-1988-401756
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:548210:por
+  label: "Revogado pelo DEC LEI.323/89.26.09.1989.MF, DR.IS [222] de 26.09.1989, no que respeita aos cargos previstos no citado\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1989-548210
+  date: '1989-09-26'
+- type: repealed_by
+  target: pt:dre:275619:por
+  label: "Revogado o art. 10º pelo DEC LEI.155/92.28.07.1992.MF, DR.IS-A [172] de 28.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1992-275619
+  date: '1992-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:23Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +235,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela primeira parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, e seguinte:
 
-###### Artigo 1.º - 1. É atribuída aos directores-gerais competência para a prática dos seguintes actos:
+Artigo 1.º - 1. É atribuída aos directores-gerais competência para a prática dos seguintes actos:
 
 a) Concessão de licenças a funcionários por período superior a 30 dias, com excepção da licença ilimitada;
 
@@ -186,7 +249,7 @@ e) Concessão aos funcionários dos serviços externos do direito ao vencimento 
 
 2. A licença interpolada, salvo casos excepcionais, devidamente justificados, só poderá ser concedida no interesse do serviço.
 
-###### Art. 2.º - 1. É atribuída aos directores de serviços, chefes de repartição e chefes de serviços externos de categoria igual ou superior à letra H competência para a prática dos seguintes actos:
+Art. 2.º - 1. É atribuída aos directores de serviços, chefes de repartição e chefes de serviços externos de categoria igual ou superior à letra H competência para a prática dos seguintes actos:
 
 a) Concessão de licenças a funcionários por período não superior a 30 dias;
 
@@ -194,49 +257,49 @@ b) Assinatura dos diplomas de funções públicas, salvo os relativos a funcion�
 
 2. Nos serviços em que exista mais de uma das categorias referidas no n.º 1, cabe aos directores-gerais definir o âmbito da respectiva competência.
 
-###### Art. 3.º Mediante permissão do Ministro respectivo, poderá ser delegada nos funcionários indicados no artigo anterior a competência atribuída aos directores-gerais pelo artigo 1.º do presente diploma, com excepção da prevista na sua alínea e), e bem assim a competência para:
+Art. 3.º Mediante permissão do Ministro respectivo, poderá ser delegada nos funcionários indicados no artigo anterior a competência atribuída aos directores-gerais pelo artigo 1.º do presente diploma, com excepção da prevista na sua alínea e), e bem assim a competência para:
 
 a) Autorizar os funcionários a transporem as fronteiras do território português;
 
 b) Autorizar a passagem de certidões a que se refere o artigo 15.º do [Decreto-Lei n.º 42800](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42800-1960-627230), de 11 de Janeiro de 1960.
 
-###### Art. 4.º Os directores-gerais poderão subdelegar nos funcionários a que se refere o artigo 2.º a competência que, nos termos do artigo 13.º do [Decreto-Lei n.º 42800](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42800-1960-627230), lhes haja sido delegada:
+Art. 4.º Os directores-gerais poderão subdelegar nos funcionários a que se refere o artigo 2.º a competência que, nos termos do artigo 13.º do [Decreto-Lei n.º 42800](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42800-1960-627230), lhes haja sido delegada:
 
 a) Para exarar nos processos de movimento do pessoal os despachos exigidos pelo seu desenvolvimento normal, subsequentes às decisões ministeriais de abertura de concursos, admissão, nomeação, promoção ou transferência;
 
 b) Para executar os despachos que ordenem a colocação e deslocação de funcionários dentro dos quadros a que pertencerem, bem como a prorrogação ou renovação anual dos contratos de pessoal e a concessão de diuturnidades.
 
-###### Art. 5.º Os Ministros poderão delegar nos directores-gerais a competência para a prática dos actos mais correntes ou repetidos relativos às funções específicas dos respectivos serviços.
+Art. 5.º Os Ministros poderão delegar nos directores-gerais a competência para a prática dos actos mais correntes ou repetidos relativos às funções específicas dos respectivos serviços.
 
-###### Art. 6.º Os Ministros poderão autorizar os directores-gerais:
+Art. 6.º Os Ministros poderão autorizar os directores-gerais:
 
 a) A subdelegar nos adjuntos, directores de serviços, chefes de repartição e chefes de serviços externos de categoria igual ou superior à letra H a competência para a prática de actos abrangidos na delegação prevista no artigo anterior;
 
 b) A delegar nos funcionários mencionados na alínea anterior a competência dos mesmos directores-gerais para a prática de actos relativos às funções específicas dos serviços.
 
-###### Art. 7.º - 1. Para efeitos da obtenção de todos os elementos que julguem necessários à instrução dos processos, podem os directores-gerais dirigir-se aos vários departamentos do respectivo Ministério, aos serviços de outros departamentos do Estado e ainda a quaisquer entidades públicas ou particulares.
+Art. 7.º - 1. Para efeitos da obtenção de todos os elementos que julguem necessários à instrução dos processos, podem os directores-gerais dirigir-se aos vários departamentos do respectivo Ministério, aos serviços de outros departamentos do Estado e ainda a quaisquer entidades públicas ou particulares.
 
 2. Esta competência poderá ser delegada nos directores de serviços e nos demais funcionários indicados no artigo 2.º do presente diploma; quanto a estes últimos, será, porém, restrita à consulta de serviços do Ministério respectivo e de entidades particulares.
 
 3. O pedido de pareceres aos órgãos consultivos dependerá de despacho ministerial, quando a lei não estabeleça regime diverso.
 
-###### Art. 8.º - 1. As delegações e subdelegações de competências são revogáveis a todo o tempo, caducam com a substituição do delegante ou do delegado, salvos os casos de falta ou impedimento temporário, e não prejudicam o direito de avocação nem o poder de definir orientações gerais e emitir instruções de serviço.
+Art. 8.º - 1. As delegações e subdelegações de competências são revogáveis a todo o tempo, caducam com a substituição do delegante ou do delegado, salvos os casos de falta ou impedimento temporário, e não prejudicam o direito de avocação nem o poder de definir orientações gerais e emitir instruções de serviço.
 
 2. A entidade delegada ou subdelegada deverá mencionar essa qualidade nos actos que pratique no uso da delegação ou subdelegação.
 
-###### Art. 9.º - 1. Os despachos que estabeleçam as delegações ou subdelegações deverão especificar as matérias ou os poderes nelas abrangidos.
+Art. 9.º - 1. Os despachos que estabeleçam as delegações ou subdelegações deverão especificar as matérias ou os poderes nelas abrangidos.
 
 2. Quando se trate de poderes da competência originária dos Ministros, os despachos de delegação ou subdelegação serão sempre publicados no Diário do Governo.
 
-###### Art. 10.º A delegação de assinatura de correspondência ou do expediente necessário à execução das decisões proferidas nos processos é sempre possível a todos os níveis de chefia e sem dependência de autorização superior.
+Art. 10.º A delegação de assinatura de correspondência ou do expediente necessário à execução das decisões proferidas nos processos é sempre possível a todos os níveis de chefia e sem dependência de autorização superior.
 
-###### Art. 11.º A competência conferida, directamente ou por delegação, aos directores-gerais e aos funcionários referidos no n.º 1 do artigo 2.º, nos termos deste decreto-lei, abrange os funcionários equiparados e poderá tornar-se extensiva, mediante despacho ministerial, aos dirigentes superiores dos serviços dotados de autonomia administrativa ou financeira, sem prejuízo de mais larga competência que lhes seja atribuída por lei.
+Art. 11.º A competência conferida, directamente ou por delegação, aos directores-gerais e aos funcionários referidos no n.º 1 do artigo 2.º, nos termos deste decreto-lei, abrange os funcionários equiparados e poderá tornar-se extensiva, mediante despacho ministerial, aos dirigentes superiores dos serviços dotados de autonomia administrativa ou financeira, sem prejuízo de mais larga competência que lhes seja atribuída por lei.
 
-###### Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por decisão do Conselho de Ministros, a publicar no Diário do Governo.
+Art. 12.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por decisão do Conselho de Ministros, a publicar no Diário do Governo.
 
-###### Art. 13.º Ficam revogados os artigos 1.º, 2.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 42800](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42800-1960-627230), de 11 de Janeiro de 1960.
+Art. 13.º Ficam revogados os artigos 1.º, 2.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 42800](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42800-1960-627230), de 11 de Janeiro de 1960.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

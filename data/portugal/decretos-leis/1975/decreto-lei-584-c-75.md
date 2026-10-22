@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 240/1975, 3º Suplemento, Série I de 1975-10-16
   number: '240'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1628-(5) a 1628-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/24003/00050005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/584-c-1975-514398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9297a1be4609b5d189e6a06f7ce206a297ab7ad1589496ddeb4f69c38c0db510
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95ecb875e15746221ce7878b52f1bf99f7b0e5a3c8fe1ee290902e3e3293d0d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Governo Provisório VI
+- Ministério do Trabalho
+- Orgânica
+- Secretaria de Estado da Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:256806:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:51Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +105,16 @@ de 16 de Outubro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no Ministério do Trabalho, para além das já existentes, a Secretaria de Estado da Formação Profissional.
+Artigo 1.º É criada no Ministério do Trabalho, para além das já existentes, a Secretaria de Estado da Formação Profissional.
 
-###### Art. 2.º Os serviços e órgãos a integrar na Secretaria de Estado ora criada serão definidos por despacho dos Ministros do Trabalho, da Administração Interna e das Finanças até que se proceda à revisão da Lei Orgânica do Ministério do Trabalho, criada pelo [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro.
+Art. 2.º Os serviços e órgãos a integrar na Secretaria de Estado ora criada serão definidos por despacho dos Ministros do Trabalho, da Administração Interna e das Finanças até que se proceda à revisão da Lei Orgânica do Ministério do Trabalho, criada pelo [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro.
 
-###### Art. 3.º Este diploma entra em vigor na data da publicação.
+Art. 3.º Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - João Pedro Tomás Rosa.
 
-**Promulgado em 16 de Outubro de 1975.**
+Promulgado em 16 de Outubro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

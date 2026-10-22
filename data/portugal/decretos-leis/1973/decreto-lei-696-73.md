@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 297/1973, 1º Suplemento, Série I de 1973-12-22
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2484-(6) a 2484-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/12/29701/00060007.pdf
 entry_into_force_dates: []
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/696-1973-470841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc06899c09e4d8375709f7da1c134b2f0896543ef8b51bcb87f8aeb8f6d67415
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b31fdc7b7d33a357f74534befeb88a6a86b5114518e24a1c5fbdf9840cf9c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Custas Judiciais
+- Custas Judiciais
+- Estatuto Judiciário
+- Procurador da República
+- Procuradoria Geral da República
+- Sociedade Comercial
+- Tribunal da Relação
+- Tribunal de Família
 relationships:
 - type: amended_by
   target: pt:dre:620954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182662:por
+  label: "Alterado o art. 8º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329 de 08-Mai, na redacção do presente\
+    \ diploma, pelo DEC LEI.242/85.09.07.1985.MJ, DR.IS [155] de 09.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1985-182662
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:667744:por
+  label: Alterado o art. 8.º do Código das Custas Judiciais, aprovado pelo Dec Lei 44329, de 08-Mai 1962, com a redação do
+    presente diploma, pelo(a) Decreto-Lei n.º 92/88 - Diário da República n.º 64/1988, 1º Suplemento, Série I de 1988-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-1988-667744
+  date: '1988-03-17'
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422017:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670074:por
+  label: "Revogado o art. 5º e o nº 2 do art. 6º pelo DEC LEI.387-D/87.1987.12.29.MJ,DR.IS [298]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-d-1987-670074
+  date: '1987-12-29'
+- type: repealed_by
+  target: pt:dre:620954:por
+  label: Revogado o n.º 1 do art. 6.º pelo DEC LEI.212/89.1989.06.30.MJ, DR.IS [148]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1989-620954
+  date: '1989-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:49Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +164,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os artigos 20.º, 24.º, 31.º, 32.º, 46.º e 433.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 20.º, 24.º, 31.º, 32.º, 46.º e 433.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, passam a ter a seguinte redacção:
 
-###### Art. 20.º - 1. As Relações terão o número máximo de juízes constante do mapa anexo a este Estatuto, agrupados em duas ou mais secções sempre que o número de juízes e o volume de serviço o justifiquem.
+Art. 20.º - 1. As Relações terão o número máximo de juízes constante do mapa anexo a este Estatuto, agrupados em duas ou mais secções sempre que o número de juízes e o volume de serviço o justifiquem.
 
 2. ...
 
@@ -128,7 +174,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 24.º - 1. ...
+Art. 24.º - 1. ...
 
 2. Compete ainda às Relações ou às suas secções:
 
@@ -140,7 +186,7 @@ i) ...
 
 ...
 
-###### Art. 31.º - 1. ...
+Art. 31.º - 1. ...
 
 2. O colectivo dos juízos cíveis e dos tribunais de família é constituído pelo juiz do juízo por onde corre o processo, que preside, e por dois dos titulares dos outros juízos, segundo a composição fixada em mapa anexo a este Estatuto.
 
@@ -148,7 +194,7 @@ i) ...
 
 4. (Texto do actual n.º 5.)
 
-###### Art. 32.º - 1. ...
+Art. 32.º - 1. ...
 
 2. ...
 
@@ -158,13 +204,13 @@ i) ...
 
 ...
 
-###### Art. 46.º - 1. ...
+Art. 46.º - 1. ...
 
 2. Os juízes dos tribunais de família substituem-se conforme o disposto nas alíneas c) e d) do número anterior; não sendo a substituição nestes termos possível ou suficiente, o presidente da Relação designará o substituto.
 
 ...
 
-###### Art. 433.º - 1. ...
+Art. 433.º - 1. ...
 
 2. ...
 
@@ -174,35 +220,35 @@ i) ...
 
 5. ...
 
-###### Art. 2.º O mapa V anexo ao Estatuto Judiciário é alterado nos termos indicados no final do presente diploma.
+Art. 2.º O mapa V anexo ao Estatuto Judiciário é alterado nos termos indicados no final do presente diploma.
 
-###### Art. 3.º O Conselho Superior Judiciário poderá determinar, com vista à equilibrada repartição do serviço, um acréscimo na percentagem da distribuição de processos aos juízos criados pelo [Decreto-Lei n.º 202/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1973-422017), de 4 de Maio.
+Art. 3.º O Conselho Superior Judiciário poderá determinar, com vista à equilibrada repartição do serviço, um acréscimo na percentagem da distribuição de processos aos juízos criados pelo [Decreto-Lei n.º 202/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1973-422017), de 4 de Maio.
 
-###### Art. 4.º A alínea a) do n.º 1 do artigo 8.º do Código das Custas Judiciais passa a ter a seguinte redacção:
+Art. 4.º A alínea a) do n.º 1 do artigo 8.º do Código das Custas Judiciais passa a ter a seguinte redacção:
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 a) Nas acções de dissolução de sociedade e nas de oposição a deliberações sociais, suspensão, declaração de invalidade ou de ineficácia destas ou das respectivas assembleias gerais - o do capital social, ou o do interesse patrimonial prosseguido, se for determinável e de menor montante. Quando o autor ou requerente seja responsável pelas custas - o do capital, quota ou importância que, como sócio, tenha na sociedade, quanto às primeiras, e do dano que se pretende evitar, quanto às últimas, ou também aquele se o dano não puder ser determinado; se for somente credor, o da soma dos seus créditos.
 
-###### Art. 5.º - 1. São isentos de preparos, nos processos cíveis, os incidentes do valor da causa para efeito de custas e os recursos que lhes respeitem ou que impugnem o valor que para o mesmo efeito tenha sido fixado.
+Art. 5.º - 1. São isentos de preparos, nos processos cíveis, os incidentes do valor da causa para efeito de custas e os recursos que lhes respeitem ou que impugnem o valor que para o mesmo efeito tenha sido fixado.
 
 2. A subida dos recursos referidos no número anterior não depende do prévio pagamento de custas.
 
 3. A reclamação sobre o valor da causa para efeito de custas suspende o prazo de pagamento dos preparos devidos na acção, e o recurso interposto da decisão que tiver fixado o valor subirá imediatamente nos próprios autos.
 
-###### Art. 6.º - 1. Nos processos cíveis, o depósito de preparos e o pagamento das custas que seja condição da subida do recurso ou do prosseguimento da causa podem ser substituídos por fiança bancária.
+Art. 6.º - 1. Nos processos cíveis, o depósito de preparos e o pagamento das custas que seja condição da subida do recurso ou do prosseguimento da causa podem ser substituídos por fiança bancária.
 
 2. Nas causas de valor superior a 20000000$00 não será tomado em consideração o excesso para o cálculo dos preparos a efectuar e para a liquidação que deva ser feita no seu decurso, mas na conta final se farão as correcções que forem devidas em função do valor resultante dos critérios legais.
 
-###### Art. 7.º O presente decreto-lei entra em vigor na data da sua publicação.
+Art. 7.º O presente decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano-António Maria de Mendonça Lino Neto.
 
-**Promulgado em 19 de Dezembro de 1973.**
+Promulgado em 19 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA V
 
@@ -244,4 +290,4 @@ Tribunal de Família
 
 ...
 
-**O Ministro da Justiça, António Maria de Mendonça Lino Neto.**
+O Ministro da Justiça, António Maria de Mendonça Lino Neto.

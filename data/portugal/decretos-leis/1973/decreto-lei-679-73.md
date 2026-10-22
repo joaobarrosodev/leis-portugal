@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/679-1973-411158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2271c3a60e2ef425a4728028a8bbffd7f93b48a8db7605d9b23d1ac8110dc074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c347da6cf3d3a9d9e28bdcc8c62999e05a522430495ca307ca1008565fcd7a2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código Comercial
+- Comércio
+- Sociedade Comercial
+relationships:
+- type: cites
+  target: pt:dre:293563:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:29:43Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +105,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § 2.º do artigo 196.º do Código Comercial passa a ter a seguinte redacção:
+Artigo 1.º O § 2.º do artigo 196.º do Código Comercial passa a ter a seguinte redacção:
 
 § 2.º O limite estabelecido no corpo do artigo pode ser ampliado, mediante portaria dos Ministros da Justiça e das Finanças, nos seguintes casos:
 
@@ -106,16 +113,16 @@ a) Quando a situação financeira da sociedade o justifique, até ao máximo da 
 
 b) Quando a ampliação se torne indispensável para permitir o financiamento de empreendimentos de grande interesse para a economia nacional, previstos em planos de fomento e que exijam imobilizações excepcionalmente vultosas, desde que se encontre devidamente assegurado o equilíbrio financeiro da empresa, nomeadamente através de uma adequada participação de capitais próprios no investimento.
 
-###### Art. 2.º É adicionado um parágrafo ao artigo 196.º do Código Comercial, assim redigido:
+Art. 2.º É adicionado um parágrafo ao artigo 196.º do Código Comercial, assim redigido:
 
 § 3.º A portaria a que se refere o parágrafo anterior será publicada no Diário do Governo, ficando sujeita a inscrição no registo comercial a autorização concedida.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 12 de Dezembro de 1973.**
+Promulgado em 12 de Dezembro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/06200/04320432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1980-678023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a12847180a7b947132dbeb0412179760cdae9b678aa0b2c5a1193c2b5e8be5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a40e3713d8ac4a40fc7b305b57b05bb43993e5af79a97b52c3833f5982904f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bombeiro
+- Incêndio
 relationships:
 - type: amended_by
   target: pt:dre:521451:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:155655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583859:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521451:por
+  label: "Revogado pelo DEC LEI.36/94.1994.02.08.MAI DR.IS-A [32] de 08.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1994-521451
+  date: '1994-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:31:31Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +124,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 35746](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35746-1946-155655), de 12 de Julho de 1946, passa a ter a seguinte redacção.
+Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 35746](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35746-1946-155655), de 12 de Julho de 1946, passa a ter a seguinte redacção.
 
-###### Art. 6.º Os municípios procederão obrigatoriamente ao seguro do pessoal dos corpos de bombeiros municipais e voluntários contra acidentes pessoais ocorridos em serviço, devendo o seguro ser contratado pelas quantias mínimas e compreendendo os riscos seguintes:
+Art. 6.º Os municípios procederão obrigatoriamente ao seguro do pessoal dos corpos de bombeiros municipais e voluntários contra acidentes pessoais ocorridos em serviço, devendo o seguro ser contratado pelas quantias mínimas e compreendendo os riscos seguintes:
 
 Por pessoa segura:
 
@@ -119,24 +142,24 @@ c) Despesas de tratamento - até 150000$00.
 
 § 3.º As quantias mínimas referidas no corpo do presente artigo poderão ser elevadas mediante acordo entre o Conselho Coordenador do Serviço Nacional de Bombeiros e o Instituto Nacional de Seguros.
 
-###### Art. 2.º - 1 - As associações humanitárias de bombeiros voluntários e os comandantes dos corpos de bombeiros municipais enviarão, através da respectiva inspecção de incêndios, ao Conselho Coordenador do Serviço Nacional de Bombeiros, para efeitos de homologação, os respectivos quadros de pessoal ou alterações aos mesmos organizados de acordo com o disposto nos artigos 2.º, 10.º e 12.º do [Decreto n.º 38439](https://diariodarepublica.pt/dr/detalhe/decreto/38439-1951-583859), de 27 de Setembro de 1951.
+Art. 2.º - 1 - As associações humanitárias de bombeiros voluntários e os comandantes dos corpos de bombeiros municipais enviarão, através da respectiva inspecção de incêndios, ao Conselho Coordenador do Serviço Nacional de Bombeiros, para efeitos de homologação, os respectivos quadros de pessoal ou alterações aos mesmos organizados de acordo com o disposto nos artigos 2.º, 10.º e 12.º do [Decreto n.º 38439](https://diariodarepublica.pt/dr/detalhe/decreto/38439-1951-583859), de 27 de Setembro de 1951.
 
 2 - O Conselho Coordenador do Serviço Nacional de Bombeiros remeterá aos municípios, para os efeitos previstos no artigo 1.º do presente diploma, relação dos corpos de bombeiros cujos quadros foram homologados nos termos do número anterior.
 
 3 - Exceptuam-se do disposto no n.º 1 os corpos de bombeiros municipais com pessoal profissionalizado e que desempenham funções a tempo inteiro.
 
-###### Art. 3.º As condições a que obedecerá a celebração dos contratos de seguro previstos no artigo 1.º serão estabelecidas por acordo a celebrar entre o Conselho Coordenador do Serviço Nacional de Bombeiros e o Instituto Nacional de Seguros.
+Art. 3.º As condições a que obedecerá a celebração dos contratos de seguro previstos no artigo 1.º serão estabelecidas por acordo a celebrar entre o Conselho Coordenador do Serviço Nacional de Bombeiros e o Instituto Nacional de Seguros.
 
-###### Art. 4.º Os contratos de seguro contra acidentes em serviço de pessoal bombeiro existentes à data da entrada em vigor do presente diploma serão adaptados às condições legais agora previstas.
+Art. 4.º Os contratos de seguro contra acidentes em serviço de pessoal bombeiro existentes à data da entrada em vigor do presente diploma serão adaptados às condições legais agora previstas.
 
-###### Art. 5.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, sob proposta do Conselho Coordenador do Serviço Nacional de Bombeiros.
+Art. 5.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho do Ministro da Administração Interna, sob proposta do Conselho Coordenador do Serviço Nacional de Bombeiros.
 
-###### Art. 6.º O presente diploma entra em vigor em 1 de Abril de 1980.
+Art. 6.º O presente diploma entra em vigor em 1 de Abril de 1980.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1980. - Francisco Sá Carneiro - Eurico de Melo.
 
-**Promulgado em 4 de Março de 1980.**
+Promulgado em 4 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

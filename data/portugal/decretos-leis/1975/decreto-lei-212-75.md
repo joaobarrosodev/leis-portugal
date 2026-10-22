@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/04/09300/06060607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1975-158401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba7586f65588ea4f48d12fc60f1bd2df26786b6e70bf5bcb479e5b1818048670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec54965b955e514c457b6a4bec3f86bd48facd6800faac40d92f462c04493f9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Criação de Serviços
+- Definição de Competências
+- Provedor de Justiça
 relationships:
 - type: amended_by
   target: pt:dre:281427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506786:por
+  label: "Alterados os arts. 6º, 11º, 13º e 14º pelo DEC LEI.120/76.11.02.1976.MJ, DG.IS [35] de 11.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1976-506786
+  date: '1976-02-11'
+- type: amended_by
+  target: pt:dre:508459:por
+  label: "Alterado o art. 2º e revogado o art. 18º pelo DEC LEI.794-A/76.05.11.1976.MJ, DR.IS [259-Supl] de 05.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/794-a-1976-508459
+  date: '1976-11-05'
+- type: repealed_by
+  target: pt:dre:281427:por
+  label: "Revogado pela LEI.81/77.22.11.1977.AR, DR.IS [270] de 22.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/81-1977-281427
+  date: '1977-11-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:04Z'
   warnings: []
   errors: []
 ---
@@ -106,65 +125,65 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado o cargo de Provedor de Justiça, que visará fundamentalmente assegurar a justiça e a legalidade da administração pública através de meios informais, investigando as queixas dos cidadãos contra a mesma administração e procurando para elas as soluções adequadas.
+Artigo 1.º - 1. É criado o cargo de Provedor de Justiça, que visará fundamentalmente assegurar a justiça e a legalidade da administração pública através de meios informais, investigando as queixas dos cidadãos contra a mesma administração e procurando para elas as soluções adequadas.
 
 2. O Provedor de Justiça tem um adjunto, que o substituirá nas suas faltas e impedimentos, e no qual pode delegar a sua competência quando o julgar conveniente.
 
-###### Art. 2.º - 1. O Provedor de Justiça é nomeado pelo Presidente da República.
+Art. 2.º - 1. O Provedor de Justiça é nomeado pelo Presidente da República.
 
 2. Para os fins do número anterior, o Primeiro-Ministro e o Ministro da Justiça apresentam ao Presidente da República uma lista com três nomes, de entre os quais o Presidente da República faz a escolha do Provedor de Justiça, devendo a lista ser renovada quando nenhum dos nomes seja aceite.
 
 3. O adjunto é da livre escolha do Provedor de Justiça.
 
-###### Art. 3.º - 1. O Provedor de Justiça e o adjunto estão sujeitos às mesmas incompatibilidades que os juízes na efectividade do serviço.
+Art. 3.º - 1. O Provedor de Justiça e o adjunto estão sujeitos às mesmas incompatibilidades que os juízes na efectividade do serviço.
 
 2. O Provedor de Justiça recebe remuneração idêntica à de Ministro e o adjunto à de conselheiro do Supremo Tribunal de Justiça.
 
-###### Art. 4.º - 1. Após a sua nomeação, o Provedor de Justiça requisitará os colaboradores e o pessoal necessário ao funcionamento dos serviços.
+Art. 4.º - 1. Após a sua nomeação, o Provedor de Justiça requisitará os colaboradores e o pessoal necessário ao funcionamento dos serviços.
 
 2. A requisição será feita através do Primeiro-Ministro ou do Ministro da Justiça, devendo recair, na medida do possível, quanto aos colaboradores, em magistrados judiciais ou do Ministério Público e em elementos das forças armadas ou, quanto ao pessoal, em trabalhadores da função pública.
 
-###### Art. 5.º - 1. A actuação do Provedor de Justiça cobre todos os sectores da actividade administrativa, incluindo as autarquias locais, e todos os servidores civis do Estado, serviços e empresas públicas, autarquias locais e demais pessoas colectivas de direito público.
+Art. 5.º - 1. A actuação do Provedor de Justiça cobre todos os sectores da actividade administrativa, incluindo as autarquias locais, e todos os servidores civis do Estado, serviços e empresas públicas, autarquias locais e demais pessoas colectivas de direito público.
 
 2. Ficam excluídos do contrôle do Provedor de Justiça os órgãos de soberania indicados no artigo 2.º da Lei Constitucional n.º 3/74, de 14 de Maio, com excepção, quanto aos membros do Governo, dos actos praticados na superintendência da administração pública, bem como as forças armadas.
 
-###### Art. 6.º - 1. O Provedor de Justiça deve assinalar as deficiências de legislação que verificar no desempenho da sua actividade, fornecendo sugestões para a sua alteração, as quais serão enviadas ao Presidente da República, ao Primeiro-Ministro, ao Ministro da Justiça e ao Ministério directamente interessado.
+Art. 6.º - 1. O Provedor de Justiça deve assinalar as deficiências de legislação que verificar no desempenho da sua actividade, fornecendo sugestões para a sua alteração, as quais serão enviadas ao Presidente da República, ao Primeiro-Ministro, ao Ministro da Justiça e ao Ministério directamente interessado.
 
 2. O Provedor de Justiça pode ser consultado pelo Presidente da República, pelo Conselho de Estado e pelo Governo sobre qualquer assunto relacionado com a administração pública.
 
-###### Art. 7.º - 1. As reclamações podem ser apresentadas directamente ao Provedor de Justiça ou ao agente do Ministério Público da comarca da residência do queixoso, que as transmitirá imediatamente ao Provedor, através da Procuradoria-Geral da República.
+Art. 7.º - 1. As reclamações podem ser apresentadas directamente ao Provedor de Justiça ou ao agente do Ministério Público da comarca da residência do queixoso, que as transmitirá imediatamente ao Provedor, através da Procuradoria-Geral da República.
 
 2. As reclamações devem, em princípio, ser feitas por escrito, mesmo por simples carta, contendo a identidade do queixoso e, sempre que possível, a sua assinatura.
 
 3. Podem, porém, ser feitas verbalmente, sendo reduzidas a auto, que o queixoso assinará, sempre que saiba e possa fazê-lo.
 
-###### Art. 8.º - 1. O recurso ao Provedor de Justiça não depende de quaisquer prazos, nem exige um interesse pessoal do queixoso.
+Art. 8.º - 1. O recurso ao Provedor de Justiça não depende de quaisquer prazos, nem exige um interesse pessoal do queixoso.
 
 2. O Provedor, quando o interessado tiver ao seu alcance uma medida prevista na lei, limitar-se-á a encaminhá-lo para a entidade ou serviço correspondente.
 
 3. Os processos organizados pelo Provedor são isentos de custas e selos, não obrigando à constituição de advogado.
 
-###### Art. 9.º - 1. O Provedor de Justiça pode agir por iniciativa própria, efectuando as averiguações que considere adequadas em virtude de factos relacionados com a actuação da administração pública que por qualquer modo cheguem ao seu conhecimento.
+Art. 9.º - 1. O Provedor de Justiça pode agir por iniciativa própria, efectuando as averiguações que considere adequadas em virtude de factos relacionados com a actuação da administração pública que por qualquer modo cheguem ao seu conhecimento.
 
 2. Para este efeito, será enviado ao Provedor um exemplar de cada uma das publicações periódicas nacionais de natureza jornalística.
 
-###### Art. 10.º - 1. O Provedor de Justiça pode determinar logo de início o arquivamento da reclamação, quando verifique que a matéria nela tratada não é da sua competência ou que é, com toda a evidência, desprovida de fundamento.
+Art. 10.º - 1. O Provedor de Justiça pode determinar logo de início o arquivamento da reclamação, quando verifique que a matéria nela tratada não é da sua competência ou que é, com toda a evidência, desprovida de fundamento.
 
 2. A decisão de arquivamento pode ser tomada em momento posterior, logo que o Provedor reconheça não existirem elementos bastantes para ser adoptado qualquer procedimento.
 
-###### Art. 11.º - 1. O Provedor de Justiça não está ligado a quaisquer formalismos em vigor na organização dos processos e em matéria de produção de provas, podendo adoptar todos os procedimentos razoáveis que considere apropriados para a instrução processual desde que não colidam com os direitos fundamentais dos cidadãos.
+Art. 11.º - 1. O Provedor de Justiça não está ligado a quaisquer formalismos em vigor na organização dos processos e em matéria de produção de provas, podendo adoptar todos os procedimentos razoáveis que considere apropriados para a instrução processual desde que não colidam com os direitos fundamentais dos cidadãos.
 
 2. As diligências probatórias podem ser efectuadas pelo Provedor de Justiça e seus colaboradores, ou por quaisquer entidades oficiais que disso sejam por ele incumbidas.
 
 3. O Provedor pode, em especial, solicitar directamente aos agentes do Ministério Público nas comarcas a efectivação de quaisquer diligências, as quais serão cumpridas no mais curto espaço de tempo e com prioridade em relação aos demais serviços.
 
-###### Art. 12.º - 1. Quando não haja arquivamento inicial de processo, o chefe do departamento ou repartição postos em causa ou o funcionário visado na reclamação serão ouvidos antes da decisão final do Provedor de Justiça.
+Art. 12.º - 1. Quando não haja arquivamento inicial de processo, o chefe do departamento ou repartição postos em causa ou o funcionário visado na reclamação serão ouvidos antes da decisão final do Provedor de Justiça.
 
 2. O Provedor pode promover encontros informais com as partes interessadas, com vista a um melhor conhecimento do assunto, e até a uma possível conciliação.
 
-###### Art. 13.º As entidades públicas prestarão ao Provedor de Justiça toda a colaboração que por este lhes for solicitada, designadamente prestando informações, efectuando inspecções através dos serviços competentes e facultando documentos para exame, salvo aqueles que devam ser mantidos secretos, por respeitarem à segurança, à defesa e às relações internacionais do Estado.
+Art. 13.º As entidades públicas prestarão ao Provedor de Justiça toda a colaboração que por este lhes for solicitada, designadamente prestando informações, efectuando inspecções através dos serviços competentes e facultando documentos para exame, salvo aqueles que devam ser mantidos secretos, por respeitarem à segurança, à defesa e às relações internacionais do Estado.
 
-###### Art. 14.º - 1. O Provedor de Justiça não tem competência para modificar ou anular os actos administrativos, mas apenas o de recomendar essa modificação ou anulação às competentes autoridades administrativas.
+Art. 14.º - 1. O Provedor de Justiça não tem competência para modificar ou anular os actos administrativos, mas apenas o de recomendar essa modificação ou anulação às competentes autoridades administrativas.
 
 2. A intervenção do Provedor não suspende o decurso de quaisquer prazos, designadamente os de recurso hierárquico e contencioso.
 
@@ -174,20 +193,20 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 5. Nos casos de pouca gravidade, o Provedor tem a faculdade de considerar encerrado o assunto com a rectificação do erro ou de julgar-se satisfeito com as explicações fornecidas pela repartição ou pelo funcionário em causa, e pode também limitar-se a uma chamada de atenção, sem a natureza de sanção disciplinar.
 
-###### Art. 15.º As decisões do Provedor de Justiça, incluindo as de arquivamento de processo, devem ser comunicadas aos queixosos e à repartição ou funcionário postos em causa, mas não são susceptíveis de recurso ou reclamação.
+Art. 15.º As decisões do Provedor de Justiça, incluindo as de arquivamento de processo, devem ser comunicadas aos queixosos e à repartição ou funcionário postos em causa, mas não são susceptíveis de recurso ou reclamação.
 
-###### Art. 16.º - 1. Sempre que se verifique da instrução do processo que a reclamação foi feita de má fé ou com negligência grave, o Provedor de Justiça promoverá junto do juízo de turno ou da comarca competente a condenação do queixoso em imposto de justiça, nos termos do artigo 178.º, n.º 1, alínea a), do Código das Custas Judiciais, sem prejuízo da responsabilidade criminal, se a ela houver lugar.
+Art. 16.º - 1. Sempre que se verifique da instrução do processo que a reclamação foi feita de má fé ou com negligência grave, o Provedor de Justiça promoverá junto do juízo de turno ou da comarca competente a condenação do queixoso em imposto de justiça, nos termos do artigo 178.º, n.º 1, alínea a), do Código das Custas Judiciais, sem prejuízo da responsabilidade criminal, se a ela houver lugar.
 
 2. Para os fins do disposto no número anterior é territorialmente competente a comarca da residência do queixoso.
 
-###### Art. 17.º Quando a Administração não adoptar as suas recomendações, o Provedor de Justiça deverá expor o assunto ao Primeiro-Ministro e ao Ministro competente, enviando cópia da exposição ao Ministro da Justiça.
+Art. 17.º Quando a Administração não adoptar as suas recomendações, o Provedor de Justiça deverá expor o assunto ao Primeiro-Ministro e ao Ministro competente, enviando cópia da exposição ao Ministro da Justiça.
 
-###### Art. 18.º O Provedor de Justiça e o adjunto mantêm-se no exercício das suas funções enquanto a futura Assembleia Legislativa não determinar o contrário, mas o Presidente da República poderá fazer cessar essas funções em qualquer momento.
+Art. 18.º O Provedor de Justiça e o adjunto mantêm-se no exercício das suas funções enquanto a futura Assembleia Legislativa não determinar o contrário, mas o Presidente da República poderá fazer cessar essas funções em qualquer momento.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha.
 
-**Promulgado em 14 de Abril de 1975.**
+Promulgado em 14 de Abril de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

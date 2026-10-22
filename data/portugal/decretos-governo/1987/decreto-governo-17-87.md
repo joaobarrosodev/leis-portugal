@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/17-1987-665913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 990f1c6c97e03bf103af7bbf15768bba4626d7d511c67bb6bf2824a21dd05e05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2671897d4cad26645a2d1e5b328ff69f951504c8e46449b6874421e0616b5496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Poluição Marinha
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:02Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +90,19 @@ de 22 de Abril
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o Protocolo de 1973 Relativo à Intervenção em Alto Mar em Casos de Poluição por Substâncias Diferentes dos Hidrocarbonetos, feito em Londres em 2 de Novembro de 1973, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Artigo único. É aprovado, para adesão, o Protocolo de 1973 Relativo à Intervenção em Alto Mar em Casos de Poluição por Substâncias Diferentes dos Hidrocarbonetos, feito em Londres em 2 de Novembro de 1973, cujo texto original em inglês e a respectiva tradução para português seguem em anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Pedro José Rodrigues Pires de Miranda - João Maria Leitão de Oliveira Martins.
 
-**Assinado em 7 de Abril de 1987.**
+Assinado em 7 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Abril de 1987.**
+Referendado em 8 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 PROTOCOLO DE 1973 RELATIVO À INTERVENÇÃO EM ALTO MAR EM CASOS DE POLUIÇÃO POR SUBSTÂNCIAS DIFERENTES DOS HIDROCARBONETOS.
 
@@ -113,7 +116,7 @@ Tendo igualmente em consideração que, nos termos da mesma resolução, a Organ
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 1 - As Partes no presente Protocolo podem tomar no alto mar as medidas necessárias para prevenir, atenuar ou eliminar os perigos graves e iminentes que representam para o seu litoral ou interesses conexos uma poluição ou ameaça de poluição por substâncias diferentes dos hidrocarbonetos, resultante de um acidente marítimo ou de acções com ele relacionadas, susceptíveis, com toda a probabilidade, de produzir consequências nocivas muito importantes.
 
@@ -125,13 +128,13 @@ b) As outras substâncias susceptíveis de pôr em perigo a saúde humana, de da
 
 3 - Sempre que uma das Partes tome medidas relativamente a uma das substâncias referidas no n.º 2, alínea b), terá de provar que essa substância constituía, com toda a probabilidade, nas circunstâncias existentes no momento de intervenção, um perigo grave e iminente análogo ao que oferece qualquer das substâncias enumeradas na lista referida no n.º 2, alínea a).
 
-ARTIGO II
+###### ARTIGO II
 
 1 - As disposições do n.º 2 do artigo I e dos artigos II a VIII da Convenção Internacional sobre a Intervenção em Alto Mar em Caso de Acidente Causando ou Podendo Vir a Causar Poluição por Hidrocarbonetos, de 1969, e do seu anexo, respeitantes aos hidrocarbonetos, aplicam-se às substâncias referidas no artigo I do presente Protocolo.
 
 2 - Para os fins do presente Protocolo, a lista de peritos referida nos artigos III, alínea c), e IV da Convenção é aumentada de modo a incluir peritos qualificados para dar pareceres sobre as substâncias diferentes dos hidrocarbonetos. Os Estados Membros da Organização e as Partes no presente Protocolo podem indicar nomes com vista à elaboração da lista.
 
-ARTIGO III
+###### ARTIGO III
 
 1 - A lista referida no n.º 2, alínea a), do artigo I será mantida actualizada pelo órgão competente designado pela Organização.
 
@@ -147,7 +150,7 @@ ARTIGO III
 
 7 - Três meses após a data da sua aceitação, nos termos do disposto no n.º 6 do presente artigo, a alteração entra em vigor para todas as Partes no presente Protocolo, salvo para aquelas que, antes dessa data, tenham declarado não a aceitar.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - O presente Protocolo fica aberto à assinatura dos Estados que tenham assinado a Convenção referida no artigo II ou a ela aderido e dos Estados convidados a fazer-se representar na Conferência Internacional de 1973 sobre Poluição Marinha. O Protocolo fica aberto à assinatura, de 15 de Janeiro de 1974 até 31 de Dezembro de 1974, na sede da Organização.
 
@@ -157,19 +160,19 @@ ARTIGO IV
 
 4 - Só os Estados que tenham ratificado, aceite ou aprovado a Convenção referida no artigo II, ou que a ela tenham aderido, podem ratificar, aceitar ou aprovar o presente Protocolo ou a ele aderir.
 
-ARTIGO V
+###### ARTIGO V
 
 1 - A ratificação, aceitação, aprovação ou adesão efectua-se mediante o depósito de um instrumento formal para esse efeito junto do secretário-geral da Organização.
 
 2 - Qualquer instrumento de ratificação, aceitação, aprovação ou adesão depositado depois da entrada em vigor de uma emenda ao presente Protocolo relativamente a todas as Partes existentes, ou depois de estarem cumpridas todas as medidas necessárias para a entrada em vigor da emenda relativamente a todas as Partes existentes, considera-se aplicável ao Protocolo modificado pela emenda.
 
-ARTIGO VI
+###### ARTIGO VI
 
 1 - O presente Protocolo entra em vigor no nonagésimo dia posterior à data em que quinze Estados tenham depositado os respectivos instrumentos de ratificação, aceitação, aprovação ou adesão junto do secretário-geral da Organização, não podendo, contudo, o presente Protocolo entrar em vigor antes de entrar em vigor a Convenção referida no artigo II.
 
 2 - Para um Estado que ratifique, aceite ou aprove o presente Protocolo, ou a ele adira posteriormente, este Protocolo entra em vigor no nonagésimo dia após o depósito, por esse Estado, do respectivo instrumento.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - O presente Protocolo pode ser denunciado por qualquer das Partes, em qualquer momento, a partir da data em que o Protocolo entre em vigor relativamente a essa Parte.
 
@@ -179,13 +182,13 @@ ARTIGO VII
 
 4 - A denúncia da Convenção referida no artigo II por uma das Partes constitui denúncia do presente Protocolo por essa Parte, produzindo efeito na data em que o produza a denúncia da Convenção, nos termos do n.º 3 do artigo XII da Convenção.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - A Organização pode convocar uma conferência tendo por objecto rever ou alterar o presente Protocolo.
 
 2 - A pedido de, pelo menos, um terço das Partes, a Organização convocará uma conferência das Partes no presente Protocolo tendo por objecto revê-lo ou alterá-lo.
 
-ARTIGO IX
+###### ARTIGO IX
 
 1 - O presente Protocolo será depositado junto do secretário-geral da Organização.
 
@@ -203,11 +206,11 @@ iv) De qualquer emenda ao presente Protocolo ou ao seu anexo e de qualquer objec
 
 b) Enviará cópias certificadas do presente Protocolo a todos os Estados que tenham assinado o presente Protocolo ou a ele aderido.
 
-ARTIGO X
+###### ARTIGO X
 
 Na data da entrada em vigor do presente Protocolo, o secretário-geral da Organização enviará uma cópia certificada ao Secretariado das Nações Unidas para registo e publicação, nos termos do artigo 102 da Carta das Nações Unidas.
 
-ARTIGO XI
+###### ARTIGO XI
 
 O presente Protocolo está redigido num único exemplar, em espanhol, francês, inglês e russo, fazendo fé qualquer destes quatro textos.
 

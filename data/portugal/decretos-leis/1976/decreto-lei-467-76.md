@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1976-427110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0d11ba578eda4312b8d032e466ee474b1036e25f1d616cedf97d38ea8a31768
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85b83ea9c653991940164a06800b9f3d103cc6d6e9cf8329de239264e0296816
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Indemnização
+- Licença de Loteamento
+- Licenciamento
+- Loteamento Urbano
+- Ordenamento do Território
+- Política de Solos
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:307264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:32Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +104,14 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O prazo do artigo 11.º do [Decreto-Lei n.º 511/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1975-307264), de 20 de Setembro, é prorrogado por mais cento e oitenta dias.
+Artigo 1.º O prazo do artigo 11.º do [Decreto-Lei n.º 511/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1975-307264), de 20 de Setembro, é prorrogado por mais cento e oitenta dias.
 
-###### Art. 2.º A faculdade do artigo 1.º do [Decreto-Lei n.º 511/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1975-307264) só pode ser exercida até 20 de Julho de 1976.
+Art. 2.º A faculdade do artigo 1.º do [Decreto-Lei n.º 511/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1975-307264) só pode ser exercida até 20 de Julho de 1976.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Eduardo Ribeiro Pereira.
 
-**Promulgado em 29 de Maio de 1976.**
+Promulgado em 29 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

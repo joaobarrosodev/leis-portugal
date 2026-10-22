@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(7) a 1456-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-d-1980-226040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fbe908edd210a14769f02077c5a66053511ff2f0ec1ef5526ba9fa00c540f71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0ca75cf6a32367191b55e042bdd42553d9922f130c63539f87d8acf2a8c531a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:56Z'
   warnings: []
   errors: []
 ---
@@ -92,23 +113,23 @@ Usando da autorização concedida pelo artigo 25.º, alínea a), da [Lei n.º 8-
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os mapas n.os 1, 2 e 3 anexos ao [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, cuja última versão foi estabelecida pelo [Decreto-Lei n.º 285-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-1979-483097), de 11 de Agosto, são substituídos, respectivamente, pelos mapas n.os 1, 2 e 3 anexos a este decreto-lei.
+Artigo 1.º Os mapas n.os 1, 2 e 3 anexos ao [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, cuja última versão foi estabelecida pelo [Decreto-Lei n.º 285-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-1979-483097), de 11 de Agosto, são substituídos, respectivamente, pelos mapas n.os 1, 2 e 3 anexos a este decreto-lei.
 
-###### Art. 2.º O presente diploma entra em vigor em 3 de Julho de 1980.
+Art. 2.º O presente diploma entra em vigor em 3 de Julho de 1980.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 24 de Junho de 1980.**
+Promulgado em 24 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA N.º 1
 
 Classes de Imposto de consumo para cigarros por unidade de venda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf)
 
 Embalagens com mais de cinquenta cigarros: por cada grupo de cinquenta cigarros ou fracção aplica-se a taxa correspondente às equivalentes embalagens de cinquenta cigarros.
 
@@ -134,7 +155,7 @@ MAPA N.º 2
 
 Taxa do imposto de consumo - Tabaco picado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf)
 
 Nas embalagens com mais de 70 g, no excedente a este peso aplica-se por cada 30 g ou fracção a taxa correspondente à equivalente embalagem de 30 g.
 
@@ -156,7 +177,7 @@ MAPA N.º 3
 
 Taxas do imposto de consumo - Charutos e cigarrilhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf))](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/14301/00070009.pdf)
 
 Notas explicativas
 

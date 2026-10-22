@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/254-1970-142537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 280de151d14eba7172ba566777b21163b116c42ed36d32302abdf7ea32a18a35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c367be2bcfc68587e336ca71b0b0c220c56948ca17dab0b046bef8c4ed267cc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,22 @@ relationships:
   target: pt:dre:468273:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468273:por
+  label: Alterado o n.º 1 do artigo 2.º do presente diploma, pelo(a) Decreto n.º 738/74 - Diário do Governo n.º 299/1974,
+    Série I de 1974-12-26
+  source: null
+  date: '1974-12-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:44Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +99,11 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo da província de Macau a prestar aval ao Banco de Fomento Nacional para garantia de um empréstimo a contrair pelo Leal Senado da Câmara de Macau, até ao montante de 25000 contos e respectivos encargos.
+Artigo 1.º - 1. É autorizado o Governo da província de Macau a prestar aval ao Banco de Fomento Nacional para garantia de um empréstimo a contrair pelo Leal Senado da Câmara de Macau, até ao montante de 25000 contos e respectivos encargos.
 
 2. Os fundos mutuados destinam-se exclusivamente a financiar, em condições idênticas às que o Banco estabelecer ao Leal Senado, os investimentos realizados e a realizar pela Melco - The Macao Electric Lighting Company, Ltd., nos anos de 1969, 1970 e 1971, com vista a melhorar e desenvolver os seus serviços de produção, transporte e distribuição de energia eléctrica.
 
-###### Art. 2.º - 1. O empréstimo terá um prazo de cinco anos, o qual poderá ser prorrogado por mais dois anos, mediante acordo prévio entre o Leal Senado da Câmara de Macau e o Banco de Fomento Nacional.
+Art. 2.º - 1. O empréstimo terá um prazo de cinco anos, o qual poderá ser prorrogado por mais dois anos, mediante acordo prévio entre o Leal Senado da Câmara de Macau e o Banco de Fomento Nacional.
 
 2. O empréstimo é passível, durante o período de utilização, de uma comissão semestral de 0,5 por cento sobre o seu montante total e de juros à taxa anual de 4 por cento sobre a parte efectivamente utilizada, e durante o período de amortização de juros à taxa de 5 por cento ao ano.
 
@@ -105,15 +111,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. A amortização do empréstimo terá lugar em prestações semestrais, de montantes a acordar entre o Leal Senado e o Banco de Fomento Nacional, vencendo-se a primeira dois anos e meio após a celebração do contrato.
 
-###### Art. 3.º Os levantamentos por conta do empréstimo serão feitos à medida das necessidades da Melco, mediante a apresentação, pelo Leal Senado de Macau, de documentos comprovativos de despesas já realizadas ou a realizar imediatamente por aquela empresa no âmbito dos investimentos em causa.
+Art. 3.º Os levantamentos por conta do empréstimo serão feitos à medida das necessidades da Melco, mediante a apresentação, pelo Leal Senado de Macau, de documentos comprovativos de despesas já realizadas ou a realizar imediatamente por aquela empresa no âmbito dos investimentos em causa.
 
-###### Art. 4.º Os encargos resultantes do empréstimo constituem despesa obrigatória e preferencial do Leal Senado da Câmara de Macau, devendo ser inscritas anualmente no seu orçamento privativo as verbas necessárias à sua liquidação.
+Art. 4.º Os encargos resultantes do empréstimo constituem despesa obrigatória e preferencial do Leal Senado da Câmara de Macau, devendo ser inscritas anualmente no seu orçamento privativo as verbas necessárias à sua liquidação.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Maio de 1970.**
+Promulgado em 18 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

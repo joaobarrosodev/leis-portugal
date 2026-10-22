@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47703-1967-313048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a08182f4688b52b7894bf32965feeb6065d26a05d7fd0dfeb85afc765e6d65e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b9f494e0063bd736a9f9028346b78fac7e23fcad1cef96ec435b0c2d23715b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Radiodifusão
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:12Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +87,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Regional para a Zona Africana de Radiodifusão Relativo à Utilização pelo Serviço de Radiodifusão de Frequências de Faixas de Ondas Métricas e Decimétricas, cujos textos em francês e respectiva tradução em português vão anexos ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo Regional para a Zona Africana de Radiodifusão Relativo à Utilização pelo Serviço de Radiodifusão de Frequências de Faixas de Ondas Métricas e Decimétricas, cujos textos em francês e respectiva tradução em português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -1283,7 +1285,7 @@ Relativa às emissões em modulação de frequência e aos receptores a preço m
 
 A Conferência Africana de Radiodifusão sobre Ondas Métricas e Decimétricas (Genebra, 1963), recordando a Recomendação n.º 15 da Conferência Administrativa das Radiocomunicações (Genebra, 1959) (veja-se anexo 1 da presente Recomendação), recomenda a todas as administrações que dêem seguimento, o mais depressa possível, à dita Recomendação; convida instantemente todas as administrações a fazer todos os esforços a fim de encorajar a produção, o mais ràpidamente possível, de receptores de radiodifusão a preço módico, designadamente receptores de ondas métricas e modulação de frequência, em conformidade com as especificações contidas nos Avisos 415 e 416 estabelecidos pelo C. C. I. R em resposta à Recomendação n.º 7 da Conferência Administrativa das Radiocomunicações (Genebra, 1959) (veja-se os anexos 2 e 3 da presente Recomendação); convida o secretário-geral a chamar a atenção de todos os Membros e Membros Associadas da União para a presente Recomendação.
 
-## Anexo 1 à Recomendação n.º 5
+Anexo 1 à Recomendação n.º 5
 
 Recomendação n.º 15 da Conferência Administrativa das Radiocomunicações (Genebra, 1959)
 
@@ -1299,7 +1301,7 @@ c) Que, segundo as verificações feitas nos países onde são difundidas emiss�
 
 recomenda que os Membros e os Membros associados da União estudem a possibilidade de fazer emissões em modulação de frequência na faixa VIII pelos seus serviços nacionais de radiodifusão.
 
-## Anexo 2 à Recomendação n.º 5
+Anexo 2 à Recomendação n.º 5
 
 Aviso 415 do C. C. I. R.
 
@@ -1319,7 +1321,7 @@ d) Que será útil aos fabricantes, ajudando-os a produzir ao mais baixo preço 
 
 faz, unânimemente, o aviso segundo o qual as especificações mínimas que figuram no anexo do presente aviso sejam utilizadas para facilitar o estudo e a realização dos receptores de radiodifusão sonora a preço módico susceptíveis de serem construídos em grande série.
 
-## Anexo ao Aviso 415 do C. C. I. R.
+Anexo ao Aviso 415 do C. C. I. R.
 
 As especificações abaixo indicadas aplicam-se aos tipos de receptores seguintes:
 
@@ -1431,7 +1433,7 @@ Pode ser mais cómodo, para certos fabricantes, considerar sòmente as caracter�
 
 4.11 - Estabilidade em frequência: deve ser tal que não seja necessário sintonizar frequentemente o receptor.
 
-## Anexo 3 à Recomendação n.º 5
+Anexo 3 à Recomendação n.º 5
 
 Aviso 416 do C. C. I. R.
 
@@ -1447,7 +1449,7 @@ b) Que, para pôr as vantagens da radiodifusão à disposição das populações
 
 faz, unânimemente, o aviso segundo o qual as especificações mínimas que figuram no anexo ao presente aviso sejam utilizadas para facilitar o estudo e a realização dos receptores comunitários a preço módico.
 
-## Anexo ao Aviso 416 do C. C. I. R.
+Anexo ao Aviso 416 do C. C. I. R.
 
 1. - Generalidades.
 

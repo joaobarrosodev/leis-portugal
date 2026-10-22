@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49475-1969-213030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3af9c43528a2a10c7ee22e043cc07105735f368e924eba6fcd1191b3bb261f5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9a0c490a3e406aa07a3e9c82f7ac1ce48de9bbe4d055e9ddb5b244fe6bc0c93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade Técnica de Lisboa
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:17Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +96,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado na Universidade Técnica de Lisboa o curso de Ciências Antropológicas e Etnológicas.
+Artigo 1.º - 1. É criado na Universidade Técnica de Lisboa o curso de Ciências Antropológicas e Etnológicas.
 
 2. O curso de Ciências Antropológicas e Etnológicas será professado no Instituto Superior de Ciências Sociais e Política Ultramarina.
 
-###### Art. 2.º - 1. As disciplinas do curso de Ciências Antropológicas e Etnológicas serão distribuídas por dois anos, conforme consta do quadro I anexo ao presente diploma.
+Art. 2.º - 1. As disciplinas do curso de Ciências Antropológicas e Etnológicas serão distribuídas por dois anos, conforme consta do quadro I anexo ao presente diploma.
 
 2. O director do curso será o professor catedrático mais antigo do 3.º grupo do Instituto Superior de Ciências Sociais e Política Ultramarina.
 
@@ -112,33 +116,33 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O quadro I será revisto de três em três anos, mediante proposta do conselho escolar.
 
-###### Art. 3.º - 1. O curso de Ciências Antropológicas e Etnológicas será dividido em semestres.
+Art. 3.º - 1. O curso de Ciências Antropológicas e Etnológicas será dividido em semestres.
 
 2. O primeiro semestre escolar abrangerá os meses de Outubro a Fevereiro, e o segundo, os meses de Março a Junho.
 
 3. O ensino será ministrado em aulas teóricas e práticas e completado por seminários, conferências, grupos de trabalho, trabalhos de campo e visitas de estudo.
 
-###### Art. 4.º No curso de Ciências Antropológicas e Etnológicas poderão matricular-se os diplomados com o curso de Administração Ultramarina e os licenciados por qualquer Universidade portuguesa, ou equiparados:
+Art. 4.º No curso de Ciências Antropológicas e Etnológicas poderão matricular-se os diplomados com o curso de Administração Ultramarina e os licenciados por qualquer Universidade portuguesa, ou equiparados:
 
-###### Art. 5.º - 1. Para efeito de matrícula e realização de exames finais, serão observadas as precedências estabelecidas no quadro II anexo a este diploma.
+Art. 5.º - 1. Para efeito de matrícula e realização de exames finais, serão observadas as precedências estabelecidas no quadro II anexo a este diploma.
 
 2. O quadro III será revisto, sendo necessário, sempre que nos termos do n.º 4 do artigo 2.º o for o quadro I.
 
-###### Art. 6.º Os alunos que obtiverem aprovação em todas as disciplinas apresentar-se-ão a exame de licenciatura, que obedecerá a regulamentação a elaborar pela Direcção-Geral do Ensino Superior e das Belas-Artes.
+Art. 6.º Os alunos que obtiverem aprovação em todas as disciplinas apresentar-se-ão a exame de licenciatura, que obedecerá a regulamentação a elaborar pela Direcção-Geral do Ensino Superior e das Belas-Artes.
 
-###### Artigo 7.º Os alunos que à data do presente diploma se encontram matriculados no curso complementar de Ciências Antropológicas, que funcionou no Instituto Superior de Ciências Sociais e Política Ultramarina no ano lectivo de 1968-1969, transitarão para o 2.º ano do curso de Ciências Antropológicas e Etnológicas, constante do quadro I anexo ao presente diploma.
+Artigo 7.º Os alunos que à data do presente diploma se encontram matriculados no curso complementar de Ciências Antropológicas, que funcionou no Instituto Superior de Ciências Sociais e Política Ultramarina no ano lectivo de 1968-1969, transitarão para o 2.º ano do curso de Ciências Antropológicas e Etnológicas, constante do quadro I anexo ao presente diploma.
 
-###### Art. 8.º - 1. Em tudo o mais, o curso de Ciências Antropológicas e Etnológicas reger-se-á, na parte aplicável, pelo Regulamento do Instituto Superior de Ciências Sociais e Política Ultramarina e demais legislação universitária em vigor.
+Art. 8.º - 1. Em tudo o mais, o curso de Ciências Antropológicas e Etnológicas reger-se-á, na parte aplicável, pelo Regulamento do Instituto Superior de Ciências Sociais e Política Ultramarina e demais legislação universitária em vigor.
 
 2. Os casos omissos serão regulados por despacho conjunto dos Ministros do Ultramar e da Educação Nacional.
 
-###### Art. 9.º (transitório). Os candidatos à primeira matrícula do curso de Ciências Antropológicas e Etnológicas no ano lectivo de 1969-1970 poderão realizá-las até quinze dias depois da entrada em vigor do presente diploma.
+Art. 9.º (transitório). Os candidatos à primeira matrícula do curso de Ciências Antropológicas e Etnológicas no ano lectivo de 1969-1970 poderão realizá-las até quinze dias depois da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha - José Hermano Saraiva.
 
-**Promulgado em 17 de Dezembro de 1969.**
+Promulgado em 17 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -146,13 +150,13 @@ Para ser presente à Assembleia Nacional.
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/12/30200/18611862.pdf))](https://files.diariodarepublica.pt/1s/1969/12/30200/18611862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/12/30200/18611862.pdf)
 
 QUADRO II
 
 Tabela de precedências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/12/30200/18611862.pdf))](https://files.diariodarepublica.pt/1s/1969/12/30200/18611862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/12/30200/18611862.pdf)
 
 QUADRO III
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 64/1976, 1º Suplemento, Série I de 1976-03-16
   number: '64'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 534-(1) a 534-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06401/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1976-415412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:50:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e5c48ef754a6eb51e82114f132e3b7711bf0b320f64930590b96e7fc5caefd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96b68da7ebff2e9044182e4ee64b028bcfe01a67e339aa3aa8a97f6a386548e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:50:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Eleição Legislativa
+- Ministério Público
+- Partido Político
+- Reclamação
+- Sistema Eleitoral
+- Supremo Tribunal de Justiça
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656129:por
+  label: "Revogado, o Dec Lei 595/74 de 07-Nov, na redacção do presente diploma, pela LEI ORG.2/2003.22.08.2003.AR, DR.IS-A\
+    \ [193] de 22.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2003-656129
+  date: '2003-08-22'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:50:39Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +131,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Para efeitos da eleição da Assembleia da República, a reclamação perante o presidente do Supremo Tribunal de Justiça sobre a confundibilidade das denominações, siglas e símbolos feita pelos partidos interessados ou pelo Ministério Público deverá ser feita no prazo de dois dias, a contar da publicação do presente diploma.
+Artigo 1.º Para efeitos da eleição da Assembleia da República, a reclamação perante o presidente do Supremo Tribunal de Justiça sobre a confundibilidade das denominações, siglas e símbolos feita pelos partidos interessados ou pelo Ministério Público deverá ser feita no prazo de dois dias, a contar da publicação do presente diploma.
 
-###### Art. 2.º São alterados os n.os 8 e 9 do artigo 5.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 7 de Novembro, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 126/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1975-161086), de 13 de Março, passando a ter as seguintes redacções:
+Art. 2.º São alterados os n.os 8 e 9 do artigo 5.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 7 de Novembro, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 126/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1975-161086), de 13 de Março, passando a ter as seguintes redacções:
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. ...
 
@@ -123,18 +153,18 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 9. Se o partido político cuja inscrição tiver sido recusada com base no disposto no n.º 6 deste artigo proceder, no prazo de dois dias, a alteração ou substituição da denominação, sigla ou símbolo, em termos de vir a ser ordenada a sua inscrição, esta considerar-se-á feita na data da publicação no Diário do Governo da decisão inicial que recusou a inscrição. A decisão do presidente do Supremo sobre a alteração ou substituição propostas deverá ser tomada no prazo de dois dias.
 
-###### Art. 3.º O critério constante do n.º 6 do artigo 5.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 14 de Maio, na redacção que lhe foi dada pelo [Decreto-Lei n.º 126/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1975-161086), de 13 de Março, é aplicável a partidos já inscritos, no que concerne a denominações, siglas e símbolos que devem constar dos boletins de voto.
+Art. 3.º O critério constante do n.º 6 do artigo 5.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 14 de Maio, na redacção que lhe foi dada pelo [Decreto-Lei n.º 126/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1975-161086), de 13 de Março, é aplicável a partidos já inscritos, no que concerne a denominações, siglas e símbolos que devem constar dos boletins de voto.
 
-###### Art. 4.º - 1. O regime do artigo 1.º deste diploma e do n.º 8 do artigo 5.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 7 de Novembro, na redacção do artigo 2.º deste diploma, em matéria de reclamação e recurso, aplica-se aos casos decorrentes do disposto no artigo anterior.
+Art. 4.º - 1. O regime do artigo 1.º deste diploma e do n.º 8 do artigo 5.º do [Decreto-Lei n.º 595/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1974-471530), de 7 de Novembro, na redacção do artigo 2.º deste diploma, em matéria de reclamação e recurso, aplica-se aos casos decorrentes do disposto no artigo anterior.
 
 2. O partido político já inscrito e a que tiver sido imposta a obrigação de alterar a respectiva denominação, sigla ou símbolo e que não proceder, no prazo de dois dias, a essa alteração, em termos de evitar a confusão, será impedido de concorrer à eleição. A decisão do presidente do Supremo Tribunal de Justiça sobre a correcção da substituição deverá ter tomada no prazo de dois dias.
 
-###### Art. 5.º O presente diploma entra em vigor na data da sua publicação.
+Art. 5.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha.
 
-**Promulgado em 12 de Março de 1976.**
+Promulgado em 12 de Março de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

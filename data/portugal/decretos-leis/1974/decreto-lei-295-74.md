@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 150/1974, 2º Suplemento, Série I de 1974-06-29
   number: '150'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 766-(1) a 766-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/15002/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1974-229109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b8be821c79b7e18294e4fb7364cb64c4634db3c842f64ee50624b82e46039e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ff86e58447cd62c31193c5a2f2c68cd7cd3346f956dd359cd9079405486eec5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Inspecção de Jogos
+- Contrato de Concessão
+- Crime
+- Definição de Competências
+- Integração de Serviços
+- Integração de Trabalhadores
+- Ministério da Coordenação Económica
+- Pessoal de Inspecção
+- Póvoa de Varzim
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Remuneração
+- Sanção Penal
+- Secretaria de Estado do Comércio Externo e Turismo
+- Secretário de Estado do Comércio e Turismo
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:374591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567013:por
+  label: Altera o art. 1.º do Dec 44154 de 17-jan-1962, na redação do presente diploma, pelo(a) Decreto-Lei n.º 353/81 - Diário
+    da República n.º 298/1981, Série I de 1981-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-1981-567013
+  date: '1981-12-29'
+- type: amended_by
+  target: pt:dre:392376:por
+  label: "Substituído o quadro de pessoal anexo, pelo PORT.517/82.1982.05.25.PCM DR.IS [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/517-1982-392376
+  date: '1982-05-25'
+- type: cites
+  target: pt:dre:146763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524841:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:476076:por
+  label: Rectificado n.º 2 do artigo 4.º e a data da promulgação, pela DECL.DD8948.02.08.1974.PCM, DG.IS [179] de 02.08.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-476076
+  date: '1974-08-02'
+- type: repealed_by
+  target: pt:dre:567013:por
+  label: Revogado o art. 3.º pelo(a) Decreto-Lei n.º 353/81 - Diário da República n.º 298/1981, Série I de 1981-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-1981-567013
+  date: '1981-12-29'
+- type: repealed_by
+  target: pt:dre:374591:por
+  label: "Revogado, a partir de 30.05.1988, o Dec Lei 585/70 de 16-Nov, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DEC LEI.184/88.25.05.1988.MCT, DR.IS [121] de 25.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1988-374591
+  date: '1988-05-25'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:14Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +184,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Conselho de Inspecção de Jogos, criado pelo [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948, e regulado pelo [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), de 26 de Novembro, é transferido para o Ministério da Coordenação Económica, ficando integrado na Secretaria de Estado do Comércio Externo e Turismo, para onde são transferidos os respectivos membros, pessoal, bens e equipamento a ele afectos.
+Artigo 1.º - 1. O Conselho de Inspecção de Jogos, criado pelo [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948, e regulado pelo [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), de 26 de Novembro, é transferido para o Ministério da Coordenação Económica, ficando integrado na Secretaria de Estado do Comércio Externo e Turismo, para onde são transferidos os respectivos membros, pessoal, bens e equipamento a ele afectos.
 
 2. Os actuais membros do Conselho mantêm-se em exercício até à respectiva confirmação ou substituição.
 
-###### Art. 2.º - 1. O n.º 2 do artigo 2.º e o n.º 3 do artigo 8.º do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763) passam a ter a seguinte redacção:
+Art. 2.º - 1. O n.º 2 do artigo 2.º e o n.º 3 do artigo 8.º do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763) passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1. ...
+Art. 2.º - 1. ...
 
 2. Um dos vogais do Conselho será designado pelo Ministro da Administração Interna e outro pelo Secretário de Estado das Finanças de entre os inspectores técnicos-chefes de empresas da Inspecção-Geral de Finanças.
 
@@ -115,7 +198,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 ...
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 2. ...
 
@@ -127,11 +210,11 @@ b) Submeter a despacho do Ministro da Administração Interna os pareceres do Co
 
 2. As referências feitas no citado diploma e demais legislação aplicável ao Ministro do Interior, ao Secretário de Estado da Informação e Turismo e ao Ministro das Finanças entendem-se como feitas, respectivamente, ao Secretário de Estado do Comércio Externo e Turismo e ao Secretário de Estado das Finanças, salvo quanto às matérias reguladas na alínea c) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), no § único do artigo 2.º, no § 2.º do artigo 39.º, no § 3.º do artigo 59.º e no capítulo VI do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, no n.º 2 do artigo 3.º do [Decreto n.º 49463](https://diariodarepublica.pt/dr/detalhe/decreto/49463-1969-212871), de 27 de Dezembro de 1969, no artigo 4.º do [Decreto n.º 40910](https://diariodarepublica.pt/dr/detalhe/decreto/40910-1956-299408), de 19 de Dezembro de 1956, e no artigo 26.º do regulamento anexo a este último diploma, que continuam a ser da competência do Ministro da Administração Interna.
 
-###### Art. 3.º O artigo 1.º do [Decreto n.º 44154](https://diariodarepublica.pt/dr/detalhe/decreto/44154-1962-520183), de 17 de Janeiro de 1962, passa a ter a seguinte redacção:
+Art. 3.º O artigo 1.º do [Decreto n.º 44154](https://diariodarepublica.pt/dr/detalhe/decreto/44154-1962-520183), de 17 de Janeiro de 1962, passa a ter a seguinte redacção:
 
-###### Artigo 1.º O estudo e elaboração dos planos de obras a que se refere o § 1.º do artigo 34.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, compete em cada zona de jogo a uma comissão constituída nos termos a determinar por portaria conjunta do Ministro da Administração Interna e dos Secretários de Estado do Comércio Externo e Turismo e de Habitação e Urbanismo.
+Artigo 1.º O estudo e elaboração dos planos de obras a que se refere o § 1.º do artigo 34.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, compete em cada zona de jogo a uma comissão constituída nos termos a determinar por portaria conjunta do Ministro da Administração Interna e dos Secretários de Estado do Comércio Externo e Turismo e de Habitação e Urbanismo.
 
-###### Art. 4.º - 1. O quadro e os vencimentos do pessoal do Conselho de Inspecção de Jogos, a que se refere o n.º 1 do artigo 20.º do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), serão os constantes do mapa anexo a este diploma.
+Art. 4.º - 1. O quadro e os vencimentos do pessoal do Conselho de Inspecção de Jogos, a que se refere o n.º 1 do artigo 20.º do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), serão os constantes do mapa anexo a este diploma.
 
 2. Os funcionários que ocupam actualmente os lugares de inspector técnico de 1.ª classe, inspector técnico de 2.ª classe e subinspector técnico são providos, na data da entrada em vigor do presente diploma, nas categorias de, respectivamente, inspector técnico-chefe, inspector técnico de 1.ª classe e inspector técnico de 2.ª classe, com dispensa de formalidades, salvo a anotação das novas categorias pelo Tribunal de Contas.
 
@@ -145,17 +228,17 @@ b) Submeter a despacho do Ministro da Administração Interna os pareceres do Co
 
 7. Os encargos resultantes do quadro anexo serão suportados, no ano económico corrente, por conta das verbas destinadas ao pessoal no orçamento do Conselho de Inspecção de Jogos em vigor, ficando o Secretário de Estado das Finanças autorizado a tomar as providências de ordem financeira indispensáveis à execução deste diploma.
 
-###### Art. 5.º As infracções ao estabelecido nas instruções emanadas do Conselho de Inspecção de Jogos, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), serão punidas da forma seguinte:
+Art. 5.º As infracções ao estabelecido nas instruções emanadas do Conselho de Inspecção de Jogos, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), serão punidas da forma seguinte:
 
 a) No caso das empresas concessionárias, com a multa prevista na alínea h) do artigo 51.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840);
 
 b) No caso dos empregados das salas de jogos, com as penas disciplinares previstas no § 1.º do artigo 12.º do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, com a redacção que lhe foi dada pelo [Decreto n.º 43044](https://diariodarepublica.pt/dr/detalhe/decreto/43044-1960-502409), de 2 de Julho de 1960.
 
-###### Art. 6.º Os encargos com o funcionamento do Conselho de Inspecção de Jogos serão suportados, no ano económico corrente, pelas correspondentes verbas descritas no orçamento do Ministério do Interior.
+Art. 6.º Os encargos com o funcionamento do Conselho de Inspecção de Jogos serão suportados, no ano económico corrente, pelas correspondentes verbas descritas no orçamento do Ministério do Interior.
 
-###### Art. 7.º Fica sem efeito o concurso aberto, nos termos do [Decreto n.º 334/73](https://diariodarepublica.pt/dr/detalhe/decreto/334-1973-421213), de 4 de Junho, relativo à zona de jogo da Póvoa de Varzim.
+Art. 7.º Fica sem efeito o concurso aberto, nos termos do [Decreto n.º 334/73](https://diariodarepublica.pt/dr/detalhe/decreto/334-1973-421213), de 4 de Junho, relativo à zona de jogo da Póvoa de Varzim.
 
-###### Art. 8.º - 1. O Secretário de Estado do Comércio Externo e Turismo fica autorizado a prorrogar, até 31 de Dezembro do ano corrente, a concessão da zona de jogo da Póvoa de Varzim, atribuída nos termos do [Decreto n.º 48913](https://diariodarepublica.pt/dr/detalhe/decreto/48913-1969-524841), de 18 de Março de 1969, e adjudicada por contrato de 17 de Junho de 1969, publicado no Diário do Governo, 2.ª série, de 27 do mesmo mês, nas condições estabelecidas no anterior contrato e mediante o pagamento de uma quantia fixa para o Fundo de Turismo e outra para a Câmara Municipal da Póvoa de Varzim.
+Art. 8.º - 1. O Secretário de Estado do Comércio Externo e Turismo fica autorizado a prorrogar, até 31 de Dezembro do ano corrente, a concessão da zona de jogo da Póvoa de Varzim, atribuída nos termos do [Decreto n.º 48913](https://diariodarepublica.pt/dr/detalhe/decreto/48913-1969-524841), de 18 de Março de 1969, e adjudicada por contrato de 17 de Junho de 1969, publicado no Diário do Governo, 2.ª série, de 27 do mesmo mês, nas condições estabelecidas no anterior contrato e mediante o pagamento de uma quantia fixa para o Fundo de Turismo e outra para a Câmara Municipal da Póvoa de Varzim.
 
 2. No despacho de prorrogação serão fixadas as condições de pagamento das quantias previstas no número anterior e ainda as relativas às importâncias devidas pela utilização dos bens do Estado e às despesas com o Conselho respeitantes ao 1.º semestre do corrente ano.
 
@@ -163,22 +246,22 @@ b) No caso dos empregados das salas de jogos, com as penas disciplinares previst
 
 4. O pagamento das quantias a liquidar pela concessionária será feito mediante guias a emitir pelo Conselho.
 
-###### Art. 9.º Fica o Secretário de Estado do Comércio Externo e Turismo autorizado a rever as condições dos contratos de concessão em vigor das zonas de jogo, tendo em vista a melhor rentabilidade social das concessões.
+Art. 9.º Fica o Secretário de Estado do Comércio Externo e Turismo autorizado a rever as condições dos contratos de concessão em vigor das zonas de jogo, tendo em vista a melhor rentabilidade social das concessões.
 
-###### Art. 10.º Este decreto-lei entra imediatamente em vigor.
+Art. 10.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Joaquim Jorge Magalhães Mota - Vasco Vieira de Almeida.
 
-**Promulgado em 28 de Junho de 1975.**
+Promulgado em 28 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Mapa anexo ao Decreto-Lei n.º 295/74
 
 Quadro do pessoal a que se refere o n.º 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/06/15002/00010003.pdf))](https://files.diariodarepublica.pt/1s/1974/06/15002/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/06/15002/00010003.pdf)
 
-**O Ministro da Administração Interna, Joaquim Jorge Magalhães Mota. - O Ministro da Coordenação Económica, Vasco Vieira de Almeida.**
+O Ministro da Administração Interna, Joaquim Jorge Magalhães Mota. - O Ministro da Coordenação Económica, Vasco Vieira de Almeida.

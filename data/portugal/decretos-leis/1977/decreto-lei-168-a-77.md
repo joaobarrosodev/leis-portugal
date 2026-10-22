@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 96/1977, 1º Suplemento, Série I de 1977-04-26
   number: '96'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 950-(1) a 950-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/09601/00010016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-a-1977-360309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 771dc86229f2bad322cbb17460d3c11671642593d1e4c5b70416e6d4249044b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f376343cedd42a40331309fc98ad6168d6670b74cb3d80d76a218a8c6845999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Dotação Orçamental
+- Gestão Orçamental
+- Ministério da Administração Interna
+- Ministério da Habitação Urbanismo e Construção
+- Ministério das Obras Públicas
+- Obras Públicas
+- Orçamento
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:163785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465453:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:02:28Z'
   warnings: []
   errors: []
 ---
@@ -116,29 +143,29 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 I
 
-###### Artigo 1.º - 1. Em cumprimento do artigo 4.º da [Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/lei/11-1976-390472), de 31 de Dezembro, é aprovado o plano de distribuição das dotações dos Ministérios da Administração Interna, das Obras Públicas e da Habitação, Urbanismo e Construção destinadas a subsídios e comparticipações às autarquias locais para a realização de obras municipais e para despesas correntes. O plano consta dos mapas I, II, III e IV em anexo, que fazem parte integrante do presente diploma.
+Artigo 1.º - 1. Em cumprimento do artigo 4.º da [Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/lei/11-1976-390472), de 31 de Dezembro, é aprovado o plano de distribuição das dotações dos Ministérios da Administração Interna, das Obras Públicas e da Habitação, Urbanismo e Construção destinadas a subsídios e comparticipações às autarquias locais para a realização de obras municipais e para despesas correntes. O plano consta dos mapas I, II, III e IV em anexo, que fazem parte integrante do presente diploma.
 
 2. O plano referido no número anterior é constituído por três parcelas: a primeira, financiada pelo MAI, pelo MOP e pelo MHUC, integra os empreendimentos aprovados pelos gabinetes coordenadores de obras municipais (GCOM), sendo a utilização das respectivas dotações regulamentada pelos artigos constantes do título II deste diploma; a segunda, financiada pelo MAI, é constituída por uma verba atribuída a cada município e que não se encontra afecta a qualquer plano fixo de obras; a terceira, relativa a despesas correntes, encontra-se, como a anterior, regulamentada pelos artigos constantes do título III deste decreto-lei.
 
 II
 
-###### Art. 2.º - 1. O plano de distribuição da primeira parcela referida no artigo anterior será revisto trimestralmente, tendo em conta a capacidade de execução revelada pelos municípios e a satisfação de necessidades sociais.
+Art. 2.º - 1. O plano de distribuição da primeira parcela referida no artigo anterior será revisto trimestralmente, tendo em conta a capacidade de execução revelada pelos municípios e a satisfação de necessidades sociais.
 
 2. Tais revisões serão efectuadas sob proposta dos gabinetes coordenadores de obras municipais, a enviar aos Gabinetes da Planeamento e Contrôle dos Ministérios das Obras Públicas e da Habitação Urbanismo e Construção e à Direcção-Geral da Acção Regional, do Ministério da Administração Interna, até ao dia 15 do mês seguinte ao último trimestre a que disser respeito, e serão aprovadas por despacho conjunto dos Ministros da Administração Interna, das Obras Públicas, da Habitação, Urbanismo e Construção, do Plano e Coordenação Económica e das Finanças, tendo em conta a disciplina imposta pelas normas de execução orçamental, nomeadamente o artigo 9.º da [Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/lei/11-1976-390472), de 31 de Dezembro.
 
 3. A primeira revisão poderá ser integrada na proposta de lei a apresentar pelo Governo à Assembleia da República, conforme se encontra determinado no n.º 2 do artigo 2.º da [Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/lei/11-1976-390472), de 31 de Dezembro.
 
-###### Art. 3.º Os eventuais reforços globais que venham a ser atribuídos às comparticipações de obras municipais serão obrigatoriamente concedidos com base em planos adicionais aprovados pelos GCOM.
+Art. 3.º Os eventuais reforços globais que venham a ser atribuídos às comparticipações de obras municipais serão obrigatoriamente concedidos com base em planos adicionais aprovados pelos GCOM.
 
-###### Art. 4.º Compete aos gabinetes coordenadores de obras municipais, na área do respectivo distrito, acompanhar, empreendimento a empreendimento, a execução do plano aprovado pelo presente diploma e autorizar ajustamentos da aplicação dos seus recursos financeiros, adequando-os à efectiva realização das obras, quer para novos empreendimentos, quer para reforço das comparticipações já concedidas.
+Art. 4.º Compete aos gabinetes coordenadores de obras municipais, na área do respectivo distrito, acompanhar, empreendimento a empreendimento, a execução do plano aprovado pelo presente diploma e autorizar ajustamentos da aplicação dos seus recursos financeiros, adequando-os à efectiva realização das obras, quer para novos empreendimentos, quer para reforço das comparticipações já concedidas.
 
-###### Art. 5.º - 1. Os serviços centrais ficam tacitamente autorizados a processar, sem dependência de mais formalidades, quaisquer adiantamentos legais ou pagamentos de trabalhos executados a partir do momento em que, em reunião dos GCOM, se dê a homologação das empreitadas ou a autorização para a execução de obras por administração directa.
+Art. 5.º - 1. Os serviços centrais ficam tacitamente autorizados a processar, sem dependência de mais formalidades, quaisquer adiantamentos legais ou pagamentos de trabalhos executados a partir do momento em que, em reunião dos GCOM, se dê a homologação das empreitadas ou a autorização para a execução de obras por administração directa.
 
 2. Compete aos serviços distritais o encaminhamento dos autos de medição necessários ao processamento das despesas em conta das verbas atribuídas.
 
 III
 
-###### Art. 6.º - 1. Integra-se desde já no plano de distribuição das dotações para obras municipais e equipamentos a dotação do MAI não afecta a qualquer plano fixo de obras (coluna 5 do mapa I anexo).
+Art. 6.º - 1. Integra-se desde já no plano de distribuição das dotações para obras municipais e equipamentos a dotação do MAI não afecta a qualquer plano fixo de obras (coluna 5 do mapa I anexo).
 
 2. O processamento da verba referida no número anterior será efectuado, pelo MAI, nos trinta dias que se seguem à publicação do presente diploma.
 
@@ -146,47 +173,47 @@ III
 
 4. Do plano referido no número anterior será dado conhecimento ao GCOM respectivo, que o encaminhará para os organismos centrais competentes.
 
-###### Art. 7.º - 1. A distribuição a que se refere o artigo anterior será reajustada aquando da revisão orçamental, tendo em conta a capacidade de execução revelada pelos municípios.
+Art. 7.º - 1. A distribuição a que se refere o artigo anterior será reajustada aquando da revisão orçamental, tendo em conta a capacidade de execução revelada pelos municípios.
 
 2. O processamento da verba referida no número anterior será efectuado, pelo MAI, nos trinta dias que se seguem à revisão orçamental.
 
-###### Art. 8.º - 1 O reajustamento da distribuição referido no artigo anterior ficará subordinado aos documentos a fornecer trimestralmente pelos municípios e será fixado por despacho do Ministro da Administração Interna.
+Art. 8.º - 1 O reajustamento da distribuição referido no artigo anterior ficará subordinado aos documentos a fornecer trimestralmente pelos municípios e será fixado por despacho do Ministro da Administração Interna.
 
 2. Os documentos a fornecer pelos municípios e a sua tramitação serão definidos por despacho do Ministro da Administração Interna, de forma a conterem as informações consideradas necessárias pelos vários departamentos da Administração Central.
 
 3. Os apuramentos das informações serão efectuados pelos serviços do MAI e deverão ser transmitidos, para os efeitos convenientes, ao Departamento Central de Planeamento, aos Gabinetes de Planeamento e Contrôle dos Ministérios das Obras Públicas e da Habitação, Urbanismo e Construção, bem como aos respectivos gabinetes coordenadores de obras municipais.
 
-###### Art. 9.º A aprovação técnica dos projectos de obras que serão financiados pelos montantes referidos nos artigos 6.º e 7.º do presente diploma é da responsabilidade dos gabinetes coordenadores de obras municipais ou, por seu intermédio, dos organismos competentes.
+Art. 9.º A aprovação técnica dos projectos de obras que serão financiados pelos montantes referidos nos artigos 6.º e 7.º do presente diploma é da responsabilidade dos gabinetes coordenadores de obras municipais ou, por seu intermédio, dos organismos competentes.
 
-###### Art. 10.º - 1. O processamento das verbas inscritas em execução do artigo 1.º do [Decreto-Lei n.º 626/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1974-465453), de 16 de Novembro, mencionadas no n.º 2 do artigo 1.º deste diploma, será realizado pelo MAI no início de cada trimestre, efectivando-se, no entanto, o da referente ao 1.º trimestre no mês de Abril conjuntamente com o da respeitante ao 2.º trimestre (coluna 1 do mapa I e mapas II, III e IV).
+Art. 10.º - 1. O processamento das verbas inscritas em execução do artigo 1.º do [Decreto-Lei n.º 626/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/626-1974-465453), de 16 de Novembro, mencionadas no n.º 2 do artigo 1.º deste diploma, será realizado pelo MAI no início de cada trimestre, efectivando-se, no entanto, o da referente ao 1.º trimestre no mês de Abril conjuntamente com o da respeitante ao 2.º trimestre (coluna 1 do mapa I e mapas II, III e IV).
 
 2. Às importâncias a que alude o número anterior será deduzida uma quantia, correspondente a cerca de 5% do seu total, destinada a assegurar as correcções que eventualmente venham a ocorrer da revisão prevista no n.º 2 do artigo 2.º da [Lei n.º 11/76](https://diariodarepublica.pt/dr/detalhe/lei/11-1976-390472), de 31 de Dezembro.
 
-###### Art. 11.º - 1. A importância proveniente de 75% da cobrança do imposto sobre veículos, criado pelo [Decreto-Lei n.º 599/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1972-163785), de 30 de Dezembro, referida no n.º 2 do artigo 1.º do presente diploma, será entregue pelo MAI às câmaras municipais, em duas partes equivalentes, durante os meses de Abril e Julho próximos (coluna 2 do mapa I).
+Art. 11.º - 1. A importância proveniente de 75% da cobrança do imposto sobre veículos, criado pelo [Decreto-Lei n.º 599/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1972-163785), de 30 de Dezembro, referida no n.º 2 do artigo 1.º do presente diploma, será entregue pelo MAI às câmaras municipais, em duas partes equivalentes, durante os meses de Abril e Julho próximos (coluna 2 do mapa I).
 
 2. Na distribuição da importância referida no número anterior participarão, ainda no corrente ano, os municípios das Regiões Autónomas, em virtude de a mesma corresponder à cobrança efectuada no ano de 1976.
 
-###### Art. 12.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 12.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - Henrique Medina Carreira - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
 
-**Promulgado em 23 de Abril de 1977.**
+Promulgado em 23 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Resumo geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/09601/00010016.pdf))](https://files.diariodarepublica.pt/1s/1977/04/09601/00010016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/09601/00010016.pdf)
 
 MAPA II
 
 Distribuição de subsídios às juntas distritais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/09601/00010016.pdf))](https://files.diariodarepublica.pt/1s/1977/04/09601/00010016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/09601/00010016.pdf)
 
 MAPA III
 
@@ -392,4 +419,4 @@ Sé ... 89
 
 Vitória ... 25
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

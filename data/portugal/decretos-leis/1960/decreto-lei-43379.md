@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43379-1960-512661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdd9b5ac47263c6259b55cfedf8e042a1ac0bc50d1e04d611effaa2e191face7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1749e4b570421fc4ab957cfce7f67b10e30a91f4b9894b6dd0a49c8427eec5fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Aposentação
+- Arsenal do Alfeite
+- Caixa Geral de Aposentações
+- Conselho de Administração
+- Director Adjunto
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:631787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:631787:por
+  label: "Revogado o art. 2º pelo DEC LEI.508/71.20.11.1971.MMAR, DG.IS [273] de 20.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/508-1971-631787
+  date: '1971-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:53Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +124,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O provimento nos lugares constantes do mapa I anexo ao Regulamento do Arsenal do Alfeite, criados por virtude das modificações introduzidas pelo [Decreto n.º 43380](https://diariodarepublica.pt/dr/detalhe/decreto/43380-1960-512662), de 6 de Dezembro de 1960, será feito pelo Ministro da Marinha, sob proposta da administração do Arsenal, de entre os actuais serventuários, independentemente das suas habilitações, e não carece de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, com excepção da publicação no Diário do Governo da respectiva lista nominal da qual constem as suas novas categorias.
+Artigo 1.º O provimento nos lugares constantes do mapa I anexo ao Regulamento do Arsenal do Alfeite, criados por virtude das modificações introduzidas pelo [Decreto n.º 43380](https://diariodarepublica.pt/dr/detalhe/decreto/43380-1960-512662), de 6 de Dezembro de 1960, será feito pelo Ministro da Marinha, sob proposta da administração do Arsenal, de entre os actuais serventuários, independentemente das suas habilitações, e não carece de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, com excepção da publicação no Diário do Governo da respectiva lista nominal da qual constem as suas novas categorias.
 
 § 1.º Consideram-se providos definitivamente no novo quadro os funcionários que já se encontravam nessa situação anteriormente à publicação deste diploma.
 
 § 2.º Os lugares que, porventura, não for possível ou aconselhável preencher pela forma estabelecida no corpo deste artigo serão providos nos termos da lei geral.
 
-###### Art. 2.º Fará também parte do conselho de administração do Arsenal do Alfeite o director adjunto da administração, cujo lugar foi criado pelo [Decreto n.º 41253](https://diariodarepublica.pt/dr/detalhe/decreto/41253-1957-281218), de 4 de Setembro de 1957.
+Art. 2.º Fará também parte do conselho de administração do Arsenal do Alfeite o director adjunto da administração, cujo lugar foi criado pelo [Decreto n.º 41253](https://diariodarepublica.pt/dr/detalhe/decreto/41253-1957-281218), de 4 de Setembro de 1957.
 
-###### Art. 3.º Ao pessoal do Arsenal do Alfeite inscrito na Caixa Geral de Aposentações será levado em conta para efeitos de aposentação todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+Art. 3.º Ao pessoal do Arsenal do Alfeite inscrito na Caixa Geral de Aposentações será levado em conta para efeitos de aposentação todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
 
-###### Art. 4.º É concedido o prazo de 180 dias, contado a partir da publicação deste decreto-lei, a todo o pessoal cujo direito à aposentação desde a data em que começou a prestar serviço no Estado se confere pelo presente diploma, para requerer, querendo, a contagem de todo o tempo de serviço já prestado ao Estado em qualquer situação. Os pedidos de contagem serão dirigidos à Caixa Geral de Aposentações e instruídos com os documentos comprovativos.
+Art. 4.º É concedido o prazo de 180 dias, contado a partir da publicação deste decreto-lei, a todo o pessoal cujo direito à aposentação desde a data em que começou a prestar serviço no Estado se confere pelo presente diploma, para requerer, querendo, a contagem de todo o tempo de serviço já prestado ao Estado em qualquer situação. Os pedidos de contagem serão dirigidos à Caixa Geral de Aposentações e instruídos com os documentos comprovativos.
 
 § único. Ficam dispensados de novo requerimento todos aqueles que já requereram ao abrigo do artigo 11.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e a quem foi contado o tempo requerido, contando-se no entanto este tempo nos termos do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

@@ -49,36 +49,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43570-1961-559469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1e78adfc7827553f418d733a2b05992ce9bca83b30290a2d430d6ec8c9b895f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f70e71afd7ffe63c64ba823f099f55bcbde1c8b8ba3ee26ec555df9bb5631b30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Assistência Religiosa
+- Capelão
+- Definição de Competências
+- Militar
+- Ministro da Marinha
+relationships:
+- type: cites
+  target: pt:dre:144595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652946:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:11Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +109,12 @@ Sendo conveniente que a esse capelão possa ser dada a equiparação a oficial c
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 28210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28210-1937-435244), de 23 de Novembro de 1937, alterado pelo [Decreto-Lei n.º 41008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41008-1957-652946), de 19 de Fevereiro de 1957, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 28210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28210-1937-435244), de 23 de Novembro de 1937, alterado pelo [Decreto-Lei n.º 41008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41008-1957-652946), de 19 de Fevereiro de 1957, passa a ter a seguinte redacção:
 
-###### Art. 6.º O Ministro da Marinha tem a faculdade de admitir ao serviço, a fim de assegurar a assistência moral e religiosa ao pessoal da Armada, até cinco sacerdotes da religião católica, dos quais quatro poderão ser equiparados a oficiais subalternos e um equiparado a oficial com a graduação até capitão-tenente, com as regalias previstas para os oficiais da Armada, e de, em qualquer caso, fixar a respectiva remuneração, sendo-lhes aplicável o disposto no artigo 60.º do [Decreto-Lei n.º 30615](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30615-1940-144595), de 25 de Julho de 1940.
+Art. 6.º O Ministro da Marinha tem a faculdade de admitir ao serviço, a fim de assegurar a assistência moral e religiosa ao pessoal da Armada, até cinco sacerdotes da religião católica, dos quais quatro poderão ser equiparados a oficiais subalternos e um equiparado a oficial com a graduação até capitão-tenente, com as regalias previstas para os oficiais da Armada, e de, em qualquer caso, fixar a respectiva remuneração, sendo-lhes aplicável o disposto no artigo 60.º do [Decreto-Lei n.º 30615](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30615-1940-144595), de 25 de Julho de 1940.
 
-###### Art. 2.º Os encargos derivados do presente diploma serão, no ano corrente, satisfeitos pelas disponibilidades da verba do capítulo 3.º, artigo 24.º, n.º 1), alínea d), do orçamento do Ministério da Marinha.
+Art. 2.º Os encargos derivados do presente diploma serão, no ano corrente, satisfeitos pelas disponibilidades da verba do capítulo 3.º, artigo 24.º, n.º 1), alínea d), do orçamento do Ministério da Marinha.
 
-**Publique-se e cumpra-se come nele se contém.**
+Publique-se e cumpra-se come nele se contém.
 
 Paços do Governo da República, 28 de Março de 1961. - AMÉRICO DEUS RODRGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

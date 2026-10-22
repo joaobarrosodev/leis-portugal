@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1979-381345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06c9dbdbb5494f985c24e957638a6fde012b8274ae2800334aeee721e28b135c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e5bbcb329083c2a7ab1dc0246236dc9c182e4d86e424d1916e522e53ff392a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Forças Armadas
+- Instituto de Defesa Nacional
 relationships:
 - type: amended_by
   target: pt:dre:655675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:681426:por
+  label: Alterado, no referente ao pessoal de biblioteca, o quadro de pessoal do Instituto da Defesa Nacional, publicado em
+    anexo, pelo(a) Portaria n.º 183/80 - Diário da República n.º 94/1980, Série I de 1980-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-1980-681426
+  date: '1980-04-22'
+- type: amended_by
+  target: pt:dre:579151:por
+  label: "Alterada a designação de mestre (ou contramestre de litografia), constante no quadro orgânico anexo pela PORT.481/81.12.06.1981.CR,\
+    \ DR.IS [134] de 12.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/481-1981-579151
+  date: '1981-06-12'
+- type: amended_by
+  target: pt:dre:655675:por
+  label: "Integrada, no Instituto da Defesa Nacional, cujas competências foram definidas no presente diploma, a Comissão Portuguesa\
+    \ de História Militar, criada pela Portaria n.º 247/89, de 4 de Abril, cuja orgânica foi aprovada no Decreto-Lei n.º 59/98,\
+    \ de 17 de Março, pelo DEC LEI.154-A/2009.06.07.2009.MDN, DR.IS [128]2ºSupl de 06.07.2009, nos termos do n.º 5 do artigo\
+    \ 30.º e do n.º 1 do artigo 32.º do citado Decreto-Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2009-655675
+  date: '2009-07-06'
+- type: cites
+  target: pt:dre:181629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329379:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:51Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +132,9 @@ Considerando ainda a necessidade de preparar oficiais dos escalões superiores d
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto da Defesa Nacional (IDN) é o organismo das forças armadas (FA) de estudo e investigação, ao mais alto nível, dos problemas da defesa nacional.
+Artigo 1.º O Instituto da Defesa Nacional (IDN) é o organismo das forças armadas (FA) de estudo e investigação, ao mais alto nível, dos problemas da defesa nacional.
 
-###### Art. 2.º - 1 - O IDN depende directamente do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) e tem por missão contribuir para:
+Art. 2.º - 1 - O IDN depende directamente do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) e tem por missão contribuir para:
 
 a) A definição de uma doutrina de defesa nacional no quadro da política geral estabelecida pelos órgãos de soberania e em conformidade com as directivas dimanadas do Conselho dos Chefes dos Estados-Maiores das Forças Armadas (CCEM);
 
@@ -107,7 +142,7 @@ b) O esclarecimento recíproco e a valorização dos quadros das FA e dos sector
 
 2 - As actividades do IDN devem ser coordenadas com as dos estabelecimentos superiores de ensino dos três ramos das FA, de forma a assegurar a harmonização das matérias ministradas de acordo com a doutrina estabelecida.
 
-###### Art. 3.º Para cumprimento da missão expressa no n.º 1 do artigo anterior, o IDN, de acordo com a orientação determinada pelo CEMGFA:
+Art. 3.º Para cumprimento da missão expressa no n.º 1 do artigo anterior, o IDN, de acordo com a orientação determinada pelo CEMGFA:
 
 a) Organiza anualmente um curso de defesa nacional para militares e para civis dos sectores público e privado;
 
@@ -119,11 +154,11 @@ d) Promove e patrocina viagens, visitas, conferências, encontros e outras activ
 
 e) Participa em actividades relacionadas com as anteriores que não sejam de sua iniciativa.
 
-###### Art. 4.º - 1 - O director do IDN é assistido por um conselho coordenador constituído pelos directores do Instituto de Altos Estudos Militares, do Instituto Superior Naval de Guerra e do Instituto de Altos Estudos da Força Aérea, com vista a garantir a coordenação referida no n.º 2 do artigo 2.º
+Art. 4.º - 1 - O director do IDN é assistido por um conselho coordenador constituído pelos directores do Instituto de Altos Estudos Militares, do Instituto Superior Naval de Guerra e do Instituto de Altos Estudos da Força Aérea, com vista a garantir a coordenação referida no n.º 2 do artigo 2.º
 
 2 - O conselho coordenador reunirá, por convocação do director do IDN, pelo menos, três vezes por ano.
 
-###### Art. 5.º Para a consecução dos seus objectivos, o IDN dispõe de:
+Art. 5.º Para a consecução dos seus objectivos, o IDN dispõe de:
 
 a) Direcção;
 
@@ -133,21 +168,21 @@ c) Departamento de Estudos;
 
 d) Departamento de Apoio.
 
-###### Art. 6.º A direcção é exercida por um director, coadjuvado por um subdirector e assistido por um conselho pedagógico.
+Art. 6.º A direcção é exercida por um director, coadjuvado por um subdirector e assistido por um conselho pedagógico.
 
-###### Art. 7.º - 1 - O director é um oficial general nomeado pelo CEMGFA, devendo ser tido em consideração o critério de atribuição sucessiva do cargo aos três ramos das FA, não devendo a permanência no mesmo ser superior a três anos.
+Art. 7.º - 1 - O director é um oficial general nomeado pelo CEMGFA, devendo ser tido em consideração o critério de atribuição sucessiva do cargo aos três ramos das FA, não devendo a permanência no mesmo ser superior a três anos.
 
 2 - Ao director compete dirigir todas as actividades do IDN e, com particular incidência, as de estudo e investigação.
 
-###### Art. 8.º - 1 - O subdirector é um oficial general nomeado pelo CEMGFA sob proposta do director do IDN, ouvido o Chefe do Estado-Maior do respectivo ramo, não devendo, normalmente, pertencer ao mesmo ramo das FA que o director.
+Art. 8.º - 1 - O subdirector é um oficial general nomeado pelo CEMGFA sob proposta do director do IDN, ouvido o Chefe do Estado-Maior do respectivo ramo, não devendo, normalmente, pertencer ao mesmo ramo das FA que o director.
 
 2 - O subdirector coadjuva o director, desempenhando as tarefas que por este lhe forem determinadas, e substitui-o em todos os casos de impedimento legal.
 
-###### Art. 9.º - 1 - O Conselho Pedagógico é o órgão de consulta à disposição do director para todos os assuntos de estudo e investigação, competindo-lhe, designadamente, dar pareceres sobre os planos e programas das actividades do IDN ou sobre quaisquer outros assuntos pedagógicos ou de doutrina.
+Art. 9.º - 1 - O Conselho Pedagógico é o órgão de consulta à disposição do director para todos os assuntos de estudo e investigação, competindo-lhe, designadamente, dar pareceres sobre os planos e programas das actividades do IDN ou sobre quaisquer outros assuntos pedagógicos ou de doutrina.
 
 2 - O Conselho Pedagógico é presidido pelo subdirector e dele fazem parte todos os assessores militares e civis e o chefe do gabinete de planeamento do Departamento de Estudos, que serve de secretário.
 
-###### Art. 10.º - 1 - O Departamento de Estudos é chefiado, em acumulação, pelo subdirector e tem a seu cargo, designadamente, o accionamento das actividades pedagógicas e de investigação.
+Art. 10.º - 1 - O Departamento de Estudos é chefiado, em acumulação, pelo subdirector e tem a seu cargo, designadamente, o accionamento das actividades pedagógicas e de investigação.
 
 2 - O Departamento de Estudos compreende:
 
@@ -163,7 +198,7 @@ c) Biblioteca.
 
 5 - A biblioteca é chefiada por um oficial superior de qualquer ramo das FA, na situação de reserva.
 
-###### Art. 11.º - 1 - O Departamento de Apoio, chefiado por um coronel do Exército ou da Força Aérea ou um capitão-de-mar-e-guerra, tem à sua responsabilidade o apoio técnico, administrativo e logístico de todas as actividades do IDN e o enquadramento e administração do seu pessoal.
+Art. 11.º - 1 - O Departamento de Apoio, chefiado por um coronel do Exército ou da Força Aérea ou um capitão-de-mar-e-guerra, tem à sua responsabilidade o apoio técnico, administrativo e logístico de todas as actividades do IDN e o enquadramento e administração do seu pessoal.
 
 2 - O Departamento de Apoio compreende:
 
@@ -175,9 +210,9 @@ c) Serviços administrativos;
 
 d) Formação.
 
-###### Art. 12.º As gratificações dos assessores civis são fixadas mediante despacho conjunto do CEMGFA e do Ministro das Finanças e do Plano.
+Art. 12.º As gratificações dos assessores civis são fixadas mediante despacho conjunto do CEMGFA e do Ministro das Finanças e do Plano.
 
-###### Art. 13.º - 1 - O pessoal militar e civil atribuído ao IDN é o constante do quadro anexo a este diploma.
+Art. 13.º - 1 - O pessoal militar e civil atribuído ao IDN é o constante do quadro anexo a este diploma.
 
 2 - Os militares do activo nomeados para o preenchimento do quadro a que se refere o número anterior são considerados na situação de comissão normal, adidos aos respectivos quadros, sendo os seus vencimentos pagos pelo IDN.
 
@@ -185,20 +220,20 @@ d) Formação.
 
 4 - Quaisquer alterações no quadro de pessoal a que se refere o n.º 1 serão objecto de portaria do CEMGFA.
 
-###### Art. 14.º - 1 - Todos os encargos decorrentes da execução deste diploma são satisfeitos pelo EMGFA através das dotações específicas atribuídas para funcionamento do IDN, inscritas no Orçamento Geral do Estado.
+Art. 14.º - 1 - Todos os encargos decorrentes da execução deste diploma são satisfeitos pelo EMGFA através das dotações específicas atribuídas para funcionamento do IDN, inscritas no Orçamento Geral do Estado.
 
 2 - No corrente ano, o pessoal militar será colocado no IDN na situação de diligência, continuando as respectivas remunerações a ser abonadas pelos serviços ou unidades a que aquele pessoal pertencer. A partir de 1 de Janeiro de 1980, o referido pessoal passará à situação de comissão de serviço, recebendo os seus abonos pelo quadro do IDN.
 
-###### Art. 15.º São revogados os Decretos-Leis n.os [550-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-d-1976-181629), de 12 de Julho, e [298/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1978-329023), de 29 de Setembro, e demais legislação em contrário.
+Art. 15.º São revogados os Decretos-Leis n.os [550-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-d-1976-181629), de 12 de Julho, e [298/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1978-329023), de 29 de Setembro, e demais legislação em contrário.
 
 Visto e aprovado em Conselho da Revolução, em 14 de Março de 1979.
 
-**Promulgado em 29 de Junho de 1979.**
+Promulgado em 29 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17600/17631766.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17600/17631766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17600/17631766.pdf)

@@ -46,36 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1970-142318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c668e1f7c6feeec08cf544606dab716ecd11e780d130ee90e5271857ab6c56b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acb903cbed6ec865b48003284c1c0450ad0910d761ecbb024a2d6838e75722d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco de Portugal
+- Estatuto
+- Ministério das Finanças
+relationships:
+- type: cites
+  target: pt:dre:154825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530865:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147448:por
+  label: Rectificado pela DECL.DD10122.27.10.1970.PC, DG.IS [249] de 27.10.1970
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1970-147448
+  date: '1970-10-27'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:35Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +148,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São confirmados os estatutos do Banco de Portugal, aprovados pelo [Decreto n.º 19962](https://diariodarepublica.pt/dr/detalhe/decreto/19962-1931-530865), de 29 de Junho de 1931, com as modificações introduzidas por legislação especial e pelas sucessivas resoluções das assembleias gerais extraordinárias, a última das quais aprovada pelo [Decreto-Lei n.º 44814](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44814-1962-154825), de 28 de Dezembro de 1962; bem assim é aprovada a alteração dos mesmos estatutos, que vai assinada pelo Ministro das Finanças, e é parte integrante do presente decreto-lei.
+Artigo 1.º São confirmados os estatutos do Banco de Portugal, aprovados pelo [Decreto n.º 19962](https://diariodarepublica.pt/dr/detalhe/decreto/19962-1931-530865), de 29 de Junho de 1931, com as modificações introduzidas por legislação especial e pelas sucessivas resoluções das assembleias gerais extraordinárias, a última das quais aprovada pelo [Decreto-Lei n.º 44814](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44814-1962-154825), de 28 de Dezembro de 1962; bem assim é aprovada a alteração dos mesmos estatutos, que vai assinada pelo Ministro das Finanças, e é parte integrante do presente decreto-lei.
 
-###### Art. 2.º É autorizado o Ministro das Finanças a realizar, em representação do Estado, um contrato com o Banco de Portugal, nos termos das cláusulas anexas a este diploma e que dele são igualmente parte integrante.
+Art. 2.º É autorizado o Ministro das Finanças a realizar, em representação do Estado, um contrato com o Banco de Portugal, nos termos das cláusulas anexas a este diploma e que dele são igualmente parte integrante.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 6 de Maio de 1970.**
+Promulgado em 6 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -112,7 +168,7 @@ Os estatutos do Banco de Portugal, aprovados pelo [Decreto n.º 19962](https://d
 
 Nestes termos, os artigos 1.º, 8.º, 12.º, 18.º, 22.º, 25.º, 27.º, 28.º, 29.º, 30.º, 32.º, 33.º, 34.º, 37.º, 41.º, 42.º, 46.º, 47.º, 48.º, 50.º, 55.º, 62.º, 68.º, 71.º, 75.º, 79.º, 93.º, 95.º, 99.º, 100.º, 111.º, 115.º, 116.º, 118.º e 120.º são alterados como segue:
 
-###### Artigo 1.º O Banco de Portugal continua, com a mesma denominação, a sua existência jurídica sob a forma de sociedade comercial anónima de responsabilidade limitada, por tempo indeterminado, regendo-se pelos presentes estatutos.
+Artigo 1.º O Banco de Portugal continua, com a mesma denominação, a sua existência jurídica sob a forma de sociedade comercial anónima de responsabilidade limitada, por tempo indeterminado, regendo-se pelos presentes estatutos.
 
 O actual § único do artigo 8.º passa a § 1.º, sendo aditado o seguinte § 2.º:
 
@@ -120,9 +176,9 @@ O actual § único do artigo 8.º passa a § 1.º, sendo aditado o seguinte § 2
 
 São suprimidos os §§ 1.º e 2.º do actual artigo 12.º, que passa a ter a seguinte redacção:
 
-###### Art. 12.º Sem prejuízo do estabelecido na segunda parte do § 3.º do artigo 183.º do Código Comercial e no artigo 66.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, não poderá, em assembleia geral do Banco, o número de votos de pessoas colectivas de direito público e de pessoas colectivas de utilidade pública administrativa exceder a dez, com relação a cada uma dessas pessoas, seja qual for o número de acções possuídas; poderão tais pessoas fazer-se representar na assembleia geral pela Fazenda Pública, mesmo que esta não seja accionista do Banco.
+Art. 12.º Sem prejuízo do estabelecido na segunda parte do § 3.º do artigo 183.º do Código Comercial e no artigo 66.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, não poderá, em assembleia geral do Banco, o número de votos de pessoas colectivas de direito público e de pessoas colectivas de utilidade pública administrativa exceder a dez, com relação a cada uma dessas pessoas, seja qual for o número de acções possuídas; poderão tais pessoas fazer-se representar na assembleia geral pela Fazenda Pública, mesmo que esta não seja accionista do Banco.
 
-###### Art. 18.º O privilégio concedido ao Banco de Portugal constitui o Estado na obrigação de proteger os respectivos direitos do Banco e o exercício da função emissora e, designadamente:
+Art. 18.º O privilégio concedido ao Banco de Portugal constitui o Estado na obrigação de proteger os respectivos direitos do Banco e o exercício da função emissora e, designadamente:
 
 1.º De não conceder a nenhuma outra empresa ou instituição o direito de emitir notas no continente e ilhas adjacentes;
 
@@ -130,19 +186,19 @@ São suprimidos os §§ 1.º e 2.º do actual artigo 12.º, que passa a ter a se
 
 3.º De sòmente pôr em circulação, por intermédio do Banco de Portugal e mediante requisição deste, as moedas a que respeita o número anterior.
 
-###### Art. 22.º Serão fabricadas e emitidas pelo Estado moedas divisionárias de 2$50, 5$00, 10$00 e 20$00, moedas de trocos de $10, $20, $50 e 1$00 e moedas comemorativas.
+Art. 22.º Serão fabricadas e emitidas pelo Estado moedas divisionárias de 2$50, 5$00, 10$00 e 20$00, moedas de trocos de $10, $20, $50 e 1$00 e moedas comemorativas.
 
 § único. O quantitativo da emissão de moedas a que respeita este artigo e, bem assim, o valor facial das moedas comemorativas e de outras moedas divisionárias e de trocos que não estejam nele previstas serão fixados, em harmonia com os interesses da economia nacional, por acordo entre o Estado e o Banco, que o Ministro das Finanças fará publicar no Diário do Governo.
 
 É suprimido o actual § único do artigo 25.º, passando o artigo a ter a seguinte redacção:
 
-###### Art. 25.º Decorridos cinco anos após ter expirado o prazo fixado para serem retiradas da circulação notas de qualquer tipo ou chapa, o Banco abaterá ao quantitativo da circulação e transferirá desta para crédito da conta do Tesouro a importância das que não tenham sido recolhidas.
+Art. 25.º Decorridos cinco anos após ter expirado o prazo fixado para serem retiradas da circulação notas de qualquer tipo ou chapa, o Banco abaterá ao quantitativo da circulação e transferirá desta para crédito da conta do Tesouro a importância das que não tenham sido recolhidas.
 
 À medida que estas notas sejam apresentadas para troco ou reembolso, o Tesouro assumirá o encargo do seu pagamento, para o que o Banco deverá apresentar ao Tesouro relação justificada das mesmas.
 
 O corpo do artigo 27.º e os §§ 2.º e 4.º passam a ter a seguinte redacção:
 
-###### Art. 27.º A reserva a que se refere o artigo anterior sòmente poderá ser constituída por:
+Art. 27.º A reserva a que se refere o artigo anterior sòmente poderá ser constituída por:
 
 1.º Ouro amoedado ou em barra;
 
@@ -158,11 +214,11 @@ d) Bilhetes do Tesouro ou outras obrigações análogas de Estados estrangeiros,
 
 § 4.º Transitòriamente, até integral reembolso, poderão continuar a ser contados na reserva valores da natureza dos mencionados nas alíneas a) e d) do n.º 2.º do corpo deste artigo, ainda que pagáveis em prazo mais largo, actualmente na posse do Banco.
 
-###### Art. 28.º No cálculo do nível da reserva serão deduzidos os compromissos ou responsabilidades do Banco, à vista ou exigíveis a prazo não superior a cento e oitenta dias, quando expressos em ouro, moedas estrangeiras ou unidades de conta utilizadas em compensações internacionais.
+Art. 28.º No cálculo do nível da reserva serão deduzidos os compromissos ou responsabilidades do Banco, à vista ou exigíveis a prazo não superior a cento e oitenta dias, quando expressos em ouro, moedas estrangeiras ou unidades de conta utilizadas em compensações internacionais.
 
 É alterado o corpo do artigo 29.º e suprimido o § 1.º, passando os actuais §§ 2.º e 3.º a, respectivamente, §§ 1.º e 2.º:
 
-###### Art. 29.º A parte da circulação fiduciária e demais responsabilidades à vista que exceder a importância correspondente ao valor da reserva referida no artigo 26.º deverá ser completamente garantida pelos seguintes valores:
+Art. 29.º A parte da circulação fiduciária e demais responsabilidades à vista que exceder a importância correspondente ao valor da reserva referida no artigo 26.º deverá ser completamente garantida pelos seguintes valores:
 
 a) Ouro amoedado ou em barra, créditos representados por saldos em moedas estrangeiras ou unidades de conta, divisas e títulos de Estados estrangeiros não incluídos na mencionada reserva;
 
@@ -192,7 +248,7 @@ Os títulos de obrigações emitidos pelo Fundo Monetário da Zona do Escudo, no
 
 São alterados o corpo do artigo 30.º, os §§ 1.º e 2.º e suprimido o § 3º, passando os actuais §§ 4.º, 5.º, 6.º e 7.º a, respectivamente, §§ 3.º, 4.º, 5.º e 6.º:
 
-###### Art. 30.º O Banco poderá efectuar as seguintes operações:
+Art. 30.º O Banco poderá efectuar as seguintes operações:
 
 1.º Descontar:
 
@@ -258,13 +314,13 @@ Depositário dos haveres do mesmo Fundo.
 
 § 6.º Também, em harmonia com os contratos mencionados no parágrafo anterior, poderá o Banco adquirir títulos de obrigação emitidos pelo Fundo Monetário da Zona do Escudo para realização do respectivo capital.
 
-###### Art. 32.º Compete ao conselho de administração fixar a taxa de desconto e as taxas reguladoras das demais operações.
+Art. 32.º Compete ao conselho de administração fixar a taxa de desconto e as taxas reguladoras das demais operações.
 
 § único. A taxa de desconto, que será a mesma na sede do Banco e na sua filial do Porto, poderá diferir em 1/2 por cento nas outras filiais e agências, mas, em qualquer caso, será uniforme para todas estas.
 
-###### Art. 33.º Tem o Banco a faculdade de, em casos especiais, aplicar taxas diferentes das fixadas nos termos do artigo anterior.
+Art. 33.º Tem o Banco a faculdade de, em casos especiais, aplicar taxas diferentes das fixadas nos termos do artigo anterior.
 
-###### Art. 34.º É vedado ao Banco:
+Art. 34.º É vedado ao Banco:
 
 a) Comprar, de conta própria, acções do Banco;
 
@@ -292,7 +348,7 @@ k) Conceder créditos a descoberto ou com garantias prestadas em termos que cont
 
 É alterado o corpo do artigo 37.º, aditado um § 1.º, passando o actual § único a § 2.º:
 
-###### Art. 37.º No termo de cada ano proceder-se-á ao balanço do Banco, referido a 31 de Dezembro.
+Art. 37.º No termo de cada ano proceder-se-á ao balanço do Banco, referido a 31 de Dezembro.
 
 Os lucros líquidos anuais serão determinados abatendo aos lucros brutos o seguinte:
 
@@ -318,13 +374,13 @@ Feitas estas deduções, fica apurado o saldo anual da conta de ganhos e perdas 
 
 § 2.º O Banco é isento de todo e qualquer encargo ou contribuição com referência à parte de lucros pertencente ao Estado.
 
-###### Art. 41.º O Banco de Portugal abrirá ao Estado, até 1 milhão de contos, uma conta corrente gratuita.
+Art. 41.º O Banco de Portugal abrirá ao Estado, até 1 milhão de contos, uma conta corrente gratuita.
 
 Todos os levantamentos do Estado na mesma conta serão feitos ùnicamente em representação de receitas orçamentais do exercício respectivo, de conformidade com o disposto no artigo 20.º do [Decreto n.º 19869](https://diariodarepublica.pt/dr/detalhe/decreto/19869-1931-404154), de 9 de Junho de 1931, e nos termos que vierem a ser objecto de acordo entre o Estado e o Banco.
 
 Contar-se-á como utilização da referida verba de 1 milhão de contos e, portanto, será nela abatida a soma dos bilhetes do Tesouro que estejam na posse do Banco de Portugal em consequência de operações feitas de conformidade com o disposto na alínea c) do n.º 1.º do artigo 30.º
 
-###### Art. 42.º O Banco não poderá pôr à disposição do Estado ou de serviços dependentes do Estado, directa ou indirectamente, por via de suprimentos ou descobertos, quaisquer importâncias, salvo nas condições e casos previstos no artigo anterior, na alínea d) do n.º 2.º, no n.º 11.º e nos §§ 5.º e 6.º do artigo 30.º
+Art. 42.º O Banco não poderá pôr à disposição do Estado ou de serviços dependentes do Estado, directa ou indirectamente, por via de suprimentos ou descobertos, quaisquer importâncias, salvo nas condições e casos previstos no artigo anterior, na alínea d) do n.º 2.º, no n.º 11.º e nos §§ 5.º e 6.º do artigo 30.º
 
 Também não poderá garantir letras do Tesouro ou outras quaisquer obrigações do Estado ou de serviços dele dependentes, nem efectuar pagamentos de conta do Estado para os quais não existam no Banco fundos àquele pertencentes, para tal fim imediatamente disponíveis.
 
@@ -342,17 +398,17 @@ A nomeação será pelo período de três anos, renovável uma ou mais vezes.
 
 É alterado, como segue, o corpo do artigo 47.º e criado um transitório § único:
 
-###### Art. 47.º O conselho fiscal é composto de cinco membros efectivos e dois suplentes, eleitos pela assembleia geral pelo período de três anos, podendo o seu mandato ser renovado uma ou mais vezes pelo mesmo período. Porém, em cada ano, e sempre que possível, terminará o mandato de dois membros efectivos.
+Art. 47.º O conselho fiscal é composto de cinco membros efectivos e dois suplentes, eleitos pela assembleia geral pelo período de três anos, podendo o seu mandato ser renovado uma ou mais vezes pelo mesmo período. Porém, em cada ano, e sempre que possível, terminará o mandato de dois membros efectivos.
 
 § único (transitório). Os membros do conselho fiscal que neste momento sejam atingidos pelo disposto no corpo do artigo manter-se-ão em funções até à primeira assembleia geral ordinária.
 
-###### Art. 48.º O mandato dos administradores e dos membros do conselho fiscal terminará em 31 de Dezembro do último ano do triénio, continuando, porém, em exercício até à reunião da assembleia geral que há-de apreciar as contas da respectiva gerência e proceder às eleições a que houver lugar.
+Art. 48.º O mandato dos administradores e dos membros do conselho fiscal terminará em 31 de Dezembro do último ano do triénio, continuando, porém, em exercício até à reunião da assembleia geral que há-de apreciar as contas da respectiva gerência e proceder às eleições a que houver lugar.
 
-###### Art. 50.º O governador e os vice-governadores por parte do Estado deverão ser portugueses e terão remuneração fixada pelo Governo, a qual não poderá ser inferior à dos administradores.
+Art. 50.º O governador e os vice-governadores por parte do Estado deverão ser portugueses e terão remuneração fixada pelo Governo, a qual não poderá ser inferior à dos administradores.
 
 É alterado o corpo do artigo 55.º, suprimido o actual § único e acrescentados dois parágrafos:
 
-###### Art. 55.º Os honorários dos administradores e dos membros do conselho fiscal serão fixados, com exclusão de qualquer participação nos lucros anuais, por uma comissão de dois accionistas, eleitos na sessão ordinária periódica da assembleia geral, e pelo presidente da mesa desta assembleia, ou quem as suas vezes fizer, que à comissão presidirá.
+Art. 55.º Os honorários dos administradores e dos membros do conselho fiscal serão fixados, com exclusão de qualquer participação nos lucros anuais, por uma comissão de dois accionistas, eleitos na sessão ordinária periódica da assembleia geral, e pelo presidente da mesa desta assembleia, ou quem as suas vezes fizer, que à comissão presidirá.
 
 § 1.º A comissão reunirá, obrigatòriamente, de quatro em quatro anos e, além disso, sempre que o presidente a convocar.
 
@@ -360,13 +416,13 @@ A nomeação será pelo período de três anos, renovável uma ou mais vezes.
 
 É substituído o corpo do artigo 62.º, suprimido o § único e criados dois parágrafos;
 
-###### Art. 62.º Os membros suplentes do conselho fiscal serão chamados a servir nas faltas ou nos impedimentos temporários dos efectivos.
+Art. 62.º Os membros suplentes do conselho fiscal serão chamados a servir nas faltas ou nos impedimentos temporários dos efectivos.
 
 § 1.º Quando a falta for absoluta ou o impedimento exceder a noventa dias, será necessàriamente chamado o suplente a quem competir por ordem numérica de votos e de escrutínios, devendo, no caso de impedimento, o suplente servir ùnicamente durante a ausência do membro efectivo.
 
 § 2.º Quando, tendo já os dois suplentes entrado em exercício, se der nova falta ou impedimento por mais noventa dias, o governador do Banco dará comunicação do facto ao presidente da assembleia geral, para se proceder à eleição de outros dois suplentes.
 
-###### Art. 68.º O conselho de administração superintende e dirige todo o movimento geral do Banco, nos termos dos estatutos e dos regulamentos, sendo especialmente da sua competência e atribuição o seguinte:
+Art. 68.º O conselho de administração superintende e dirige todo o movimento geral do Banco, nos termos dos estatutos e dos regulamentos, sendo especialmente da sua competência e atribuição o seguinte:
 
 1.º Efectuar todas as operações autorizadas por estes estatutos, em harmonia com os respectivos regulamentos, e nos limites que a prudência e as boas regras de administração permitirem;
 
@@ -406,11 +462,11 @@ A nomeação será pelo período de três anos, renovável uma ou mais vezes.
 
 É alterado o corpo do artigo 75.º e acrescentado um § único:
 
-###### Art. 75.º O conselho fiscal elegerá de entre os seus membros um secretário, e terá livro de actas, em que serão exaradas as resoluções tomadas nas suas sessões e a forma por que foram cumpridos os diversos actos a cargo do conselho. O conselho fiscal não se haverá por constituído e em condições de deliberar sem estar presente a maioria dos respectivos membros que, então, estiverem em exercício. Resolverá por maioria de votos.
+Art. 75.º O conselho fiscal elegerá de entre os seus membros um secretário, e terá livro de actas, em que serão exaradas as resoluções tomadas nas suas sessões e a forma por que foram cumpridos os diversos actos a cargo do conselho. O conselho fiscal não se haverá por constituído e em condições de deliberar sem estar presente a maioria dos respectivos membros que, então, estiverem em exercício. Resolverá por maioria de votos.
 
 § único. Para efeitos de constituição e deliberações do conselho, não serão havidos como membros em exercício os que estiverem impedidos, quer em funções fora do País, quer por doença ou outro motivo justificado.
 
-###### Art. 79.º O conselho geral reunir-se-á pelo menos uma vez cada mês para tomar conhecimento do conjunto das operações e da situação geral do Banco, e para deliberar sobre os pontos que lhe forem submetidos, em virtude das respectivas disposições orgânicas.
+Art. 79.º O conselho geral reunir-se-á pelo menos uma vez cada mês para tomar conhecimento do conjunto das operações e da situação geral do Banco, e para deliberar sobre os pontos que lhe forem submetidos, em virtude das respectivas disposições orgânicas.
 
 Compete especialmente ao conselho geral:
 
@@ -446,13 +502,13 @@ Compete especialmente ao conselho geral:
 
 16.º Regular, enfim, todos os assuntos que lhe forem submetidos pelo conselho de administração e que tenham relação com o regime e economia geral do Banco.
 
-###### Art. 93.º Os accionistas que compuserem as assembleias gerais ordinárias ou extraordinárias terão um número de votos proporcional ao número de acções que possuírem com a limitação seguinte:
+Art. 93.º Os accionistas que compuserem as assembleias gerais ordinárias ou extraordinárias terão um número de votos proporcional ao número de acções que possuírem com a limitação seguinte:
 
 Cada grupo de 50 acções conferirá um voto, não podendo o número de votos exceder a 10, seja qual for o número de acções possuídas, atendendo-se, porém, ao ressalvado na parte inicial do artigo 12.º destes estatutos.
 
 § único. O regulamento administrativo determinará as condições que deverão ser observadas para a execução do disposto neste artigo.
 
-###### Art. 95.º Para se formar a lista dos accionistas com admissão na assembleia geral observar-se-ão as seguintes disposições:
+Art. 95.º Para se formar a lista dos accionistas com admissão na assembleia geral observar-se-ão as seguintes disposições:
 
 1.ª As acções nominativas deverão ser averbadas nos registos do Banco, e as acções ao portador, depositadas no mesmo Banco com a antecedência mínima de dois meses sobre o dia da sessão;
 
@@ -462,13 +518,13 @@ Cada grupo de 50 acções conferirá um voto, não podendo o número de votos ex
 
 O n.º 1.º do artigo 99.º é alterado do seguinte modo:
 
-###### Art. 99.º Compete à assembleia geral ordinária:
+Art. 99.º Compete à assembleia geral ordinária:
 
 1.º Eleger os accionistas que tiverem de compor a mesa, a parte elegível do conselho de administração, os membros efectivos e suplentes do conselho fiscal e respectivo presidente e qualquer comissão.
 
 É alterado o n.º 4.º do artigo 100.º que passa a ter a seguinte redacção:
 
-###### Art. 100.º Além da sessão a que se refere o artigo 98.º, a assembleia geral poderá ter sessões ordinárias, convocadas extraordinàriamente:
+Art. 100.º Além da sessão a que se refere o artigo 98.º, a assembleia geral poderá ter sessões ordinárias, convocadas extraordinàriamente:
 
 ...
 
@@ -482,11 +538,11 @@ O § 1.º do artigo 111.º passa a ter a seguinte redacção:
 
 1 onça troy = $ 35 U. S. A.
 
-###### Art. 115.º O disposto no artigo anterior é também aplicável, quer ao regulamento administrativo aprovado por Decreto de 23 de Abril de 1891, quer aos das caixas filiais e agências aprovados pelos Decretos de 17 de Julho de 1916 e 24 de Março de 1897, carecendo, todavia, de aprovação do Governo as deliberações do conselho geral do Banco que vierem a abranger matérias respeitantes a fabrico e emissão de notas e a serviços relativos à caixa geral do Tesouro e aos cofres centrais do Tesouro nos distritos administrativos.
+Art. 115.º O disposto no artigo anterior é também aplicável, quer ao regulamento administrativo aprovado por Decreto de 23 de Abril de 1891, quer aos das caixas filiais e agências aprovados pelos Decretos de 17 de Julho de 1916 e 24 de Março de 1897, carecendo, todavia, de aprovação do Governo as deliberações do conselho geral do Banco que vierem a abranger matérias respeitantes a fabrico e emissão de notas e a serviços relativos à caixa geral do Tesouro e aos cofres centrais do Tesouro nos distritos administrativos.
 
 É suprimido o § único do artigo 116.º
 
-###### Art. 118.º O Banco poderá conceder, aos empregados ou assalariados que o solicitem, empréstimos a médio ou a longo prazo, destinados a facilitar-lhes a aquisição ou construção de habitações próprias;
+Art. 118.º O Banco poderá conceder, aos empregados ou assalariados que o solicitem, empréstimos a médio ou a longo prazo, destinados a facilitar-lhes a aquisição ou construção de habitações próprias;
 
 poderá também adquirir ou construir prédios destinados a habitação de empregados ou assalariados ou a serem utilizados noutros fins de natureza social.
 

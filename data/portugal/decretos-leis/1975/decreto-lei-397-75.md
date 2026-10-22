@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/17000/10311032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1975-336486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b3600a1068534d99aa2c0e7fb81d2cb1449f7369534ab57dc1a7fabee7814b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0aa01803349e49ae207a54ffcfc33481908dad517e1efe69b77ba4342472899f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior da Força Aérea
+- Gestão Orçamental
+- Oficinas Gerais de Material Aeronáutico
+- Receita Própria
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:247386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:03Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +121,9 @@ Convindo, assim, dar nova redacção ao artigo 11.º do [Decreto-Lei n.º 40391]
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 11.º e seus parágrafos do [Decreto-Lei n.º 40391](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40391-1955-247386), de 22 de Novembro de 1955, alterado pelo artigo 1.º do [Decreto-Lei n.º 43091](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43091-1960-501439), de 28 de Julho de 1960, passam a ter a redacção que se segue:
+Artigo 1.º O artigo 11.º e seus parágrafos do [Decreto-Lei n.º 40391](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40391-1955-247386), de 22 de Novembro de 1955, alterado pelo artigo 1.º do [Decreto-Lei n.º 43091](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43091-1960-501439), de 28 de Julho de 1960, passam a ter a redacção que se segue:
 
-###### Art. 11.º O Chefe do Estado-Maior da Força Aérea determinará, no fim de cada gerência, mediante proposta do director das Oficinas Gerais de Material Aeronáutico, a distribuição dos lucros líquidos anuais, por forma a deles beneficiarem as seguintes contas:
+Art. 11.º O Chefe do Estado-Maior da Força Aérea determinará, no fim de cada gerência, mediante proposta do director das Oficinas Gerais de Material Aeronáutico, a distribuição dos lucros líquidos anuais, por forma a deles beneficiarem as seguintes contas:
 
 a) Capital;
 
@@ -121,8 +143,8 @@ d) Fundo de protecção e acção social.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 21 de Julho de 1975.**
+Promulgado em 21 de Julho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,178 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db951db945c98b9b83e7454a02ef0f7e709cb2e2a96d78affd155bd70d8c0376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a939fea1c18ec9f9255e022ea6e5666f2c01913786b04f54dd6747e7c3fb6c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Administrativo
+- Conselho Geral
+- Conselho Superior de Engenharia e Tecnologia Industrial
+- Definição de Competências
+- Extinção de Serviços
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Instituto de Energia
+- Instituto de Tecnologia Industrial
+- Instituto Nacional de Investigação Industrial
+- Investigador
+- Junta de Energia Nuclear
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366444:por
+  label: "Prorrogado o prazo mencionado no n.º 2 do artigo 81.º do presente diploma, pelo DEC LEI.476/79.14.12.1979.MIND,\
+    \ DR.IS [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/476-1979-366444
+  date: '1979-12-14'
+- type: amended_by
+  target: pt:dre:461625:por
+  label: "Alterada a redacção do art. 79º, pelo DEC LEI.429/80.1980.09.30.MIE DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/429-1980-461625
+  date: '1980-09-30'
+- type: amended_by
+  target: pt:dre:576565:por
+  label: "Criado um lugar de assessor no quadro único constante do mapa II anexo ao presente diploma, pela PORT.682/81.08.08.1981.MFP,\
+    \ DR.IS [181] de 08.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/682-1981-576565
+  date: '1981-08-08'
+- type: amended_by
+  target: pt:dre:552987:por
+  label: "Alterado o mapa I do anexo ao presente diploma, pela PORT.21/82.1981.09.18.MFP DR.IS [7] DE 09/JAN/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21-1982-552987
+  date: '1981-09-18'
+- type: amended_by
+  target: pt:dre:569133:por
+  label: "Criado um lugar de assessor no quadro de pessoal que constitui o anexo II do presente diploma, pela PORT.948/81.05.11.1981.MFP,\
+    \ DR.IS [255] de 05.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/948-1981-569133
+  date: '1981-11-05'
+- type: amended_by
+  target: pt:dre:395493:por
+  label: "Alterado o nº 1 do art. 17º pela PORT.656/82.1982.06.30.MIEE, DR.IS [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/656-1982-395493
+  date: '1982-06-30'
+- type: amended_by
+  target: pt:dre:540609:por
+  label: "Alterado o quadro de pessoal pela PORT.35/83.1983.01.12.MFP DR.IS [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-1983-540609
+  date: '1983-01-12'
+- type: amended_by
+  target: pt:dre:660138:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma pela PORT.36/84.1984.01.19.PCM DR.IS [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1984-660138
+  date: '1984-01-19'
+- type: amended_by
+  target: pt:dre:396315:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, com a redacção conferida nas Portarias 21/82, de 09\
+    \ de Janeiro, 656/82 de 30 de Junho, 35/83 de 12 de Janeiro e 36/84 de 19 de Janeiro, pela PORT.937/84.19.12.1984.PCM,\
+    \ DR.IS [292] de 19.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/937-1984-396315
+  date: '1984-12-19'
+- type: amended_by
+  target: pt:dre:183458:por
+  label: "Introduzidas alterações ao presente diploma, pelo DEC LEI.272/85.1985.07.17.MIE DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1985-183458
+  date: '1985-07-17'
+- type: amended_by
+  target: pt:dre:178107:por
+  label: "Aumentado o quadro de pessoal aprovado pelo presente diploma, pela PORT.800/85.23.10.1985.PCM, DR.IS [244] de 23.10.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/800-1985-178107
+  date: '1985-10-23'
+- type: amended_by
+  target: pt:dre:210830:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal pela PORT.767/86.29.12.1986.MF, DR.IS [298] de\
+    \ 29.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/767-1986-210830
+  date: '1986-12-29'
+- type: amended_by
+  target: pt:dre:419652:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pelo PORT.508/87.1987.06.24.MF, DR.IS [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/508-1987-419652
+  date: '1987-06-24'
+- type: amended_by
+  target: pt:dre:498729:por
+  label: "Alterado o quadro de pessoal contante do anexo pela PORT.920/87.03.12.1987.MF, DR.IS [278] de 03.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/920-1987-498729
+  date: '1987-12-03'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:274222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:367066:por
+  label: Rectificado pela DECL.DD7108.24.11.1979.PCM, DR.IS [272] de 24.11.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-367066
+  date: '1979-11-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:22Z'
   warnings: []
   errors: []
 ---
@@ -120,15 +258,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Laboratório Nacional de Engenharia e Tecnologia Industrial, abreviadamente designado por LNETI, é um serviço de investigação e desenvolvimento tecnológico (I & D) e de apoio técnico e laboratorial aos diferentes sectores industriais, no âmbito do Ministério da Indústria e Tecnologia, tal como este foi estruturado pelo [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
+Artigo 1.º O Laboratório Nacional de Engenharia e Tecnologia Industrial, abreviadamente designado por LNETI, é um serviço de investigação e desenvolvimento tecnológico (I & D) e de apoio técnico e laboratorial aos diferentes sectores industriais, no âmbito do Ministério da Indústria e Tecnologia, tal como este foi estruturado pelo [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 2.º - 1 - O LNETI é um organismo dotado de autonomia administrativa e financeira, com personalidade jurídica e património próprio.
+Art. 2.º - 1 - O LNETI é um organismo dotado de autonomia administrativa e financeira, com personalidade jurídica e património próprio.
 
 2 - O LNETI goza ainda de autonomia científica e técnica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelo Ministro da Indústria e Tecnologia.
 
-###### Art. 3.º O LNETI tem sede em Lisboa e organizará estruturas regionais, tendo em conta o melhor aproveitamento dos meios humanos e de equipamento locais e as potencialidades científicas e técnicas de outros organismos públicos ou privados, estabelecendo convénios e contratos-programa com as empresas, associações industriais e instituições congéneres.
+Art. 3.º O LNETI tem sede em Lisboa e organizará estruturas regionais, tendo em conta o melhor aproveitamento dos meios humanos e de equipamento locais e as potencialidades científicas e técnicas de outros organismos públicos ou privados, estabelecendo convénios e contratos-programa com as empresas, associações industriais e instituições congéneres.
 
-###### Art. 4.º São atribuições do LNETI:
+Art. 4.º São atribuições do LNETI:
 
 a) Promover e realizar investigação e desenvolvimento experimental, de acordo com os objectivos fixados no Plano para os sectores industrial e energético;
 
@@ -144,7 +282,7 @@ f) Assegurar a realização de acções de formação, com vista ao melhoramento
 
 g) Organizar e coordenar a informação técnica com interesse para as empresas industriais e para os diferentes serviços do Ministério da Indústria e Tecnologia.
 
-###### Art. 5.º Na prossecução das atribuições definidas no artigo anterior, incumbe ao LNETI, em especial:
+Art. 5.º Na prossecução das atribuições definidas no artigo anterior, incumbe ao LNETI, em especial:
 
 1) No âmbito da investigação e desenvolvimento experimental:
 
@@ -190,13 +328,13 @@ a) Promover uma ampla e eficiente difusão da informação técnica para a indú
 
 b) Promover e subsidiar a publicação de revistas científicas e técnicas, bem como de artigos em revistas nacionais ou estrangeiras, monografias e obras resultantes de trabalhos realizados no LNETI ou com interesse para as suas actividades.
 
-###### Art. 6.º Incumbe ainda ao LNETI:
+Art. 6.º Incumbe ainda ao LNETI:
 
 a) Promover, participar e assegurar a cooperação com instituições congéneres estrangeiras e com as agências e comissões especializadas de organismos e sociedades internacionais nos domínios da tecnologia, da energia e da indústria;
 
 b) Participar na preparação e execução de acordos internacionais nos domínios da cooperação científica e técnica.
 
-###### Art. 7.º As actividades do LNETI serão programadas tendo em conta, nomeadamente:
+Art. 7.º As actividades do LNETI serão programadas tendo em conta, nomeadamente:
 
 a) As prioridades em investigação e desenvolvimento experimental e em assistência tecnológica nos diversos sectores industriais, estabelecidas de acordo com as direcções-gerais ou organismos equiparados do Ministério da Indústria e Tecnologia e ainda com o Instituto de Apoio às Pequenas e Médias Empresas Industriais;
 
@@ -212,7 +350,7 @@ e) A adequada cooperação com o Instituto do Investimento Estrangeiro, o Instit
 
 #### SECÇÃO I — Órgãos
 
-###### Art. 8.º - 1 - São órgãos do LNETI:
+Art. 8.º - 1 - São órgãos do LNETI:
 
 a) O presidente;
 
@@ -222,7 +360,7 @@ c) O conselho administrativo.
 
 2 - Junto do LNETI funcionará o Conselho Superior de Engenharia e Tecnologia Industrial.
 
-###### Art. 9.º - 1 - Ao presidente compete:
+Art. 9.º - 1 - Ao presidente compete:
 
 a) Superintender nos serviços do LNETI e orientar e coordenar as suas actividades, imprimindo-lhes unidade, continuidade e eficiência;
 
@@ -242,11 +380,11 @@ h) Superintender nas relações internacionais do LNETI e assegurar a sua repres
 
 2 - O Ministro da Indústria e Tecnologia poderá delegar no presidente competência para despachar quaisquer assuntos que corram pelos serviços do LNETI, bem como autorizar a sua subdelegação.
 
-###### Art. 10.º - 1 - O presidente será coadjuvado por um vice-presidente, no qual poderá delegar algumas das suas competências e que o deverá substituir na suas faltas e impedimentos.
+Art. 10.º - 1 - O presidente será coadjuvado por um vice-presidente, no qual poderá delegar algumas das suas competências e que o deverá substituir na suas faltas e impedimentos.
 
 2 - Ao vice-presidente compete, nomeadamente, de acordo com a orientação do presidente, assegurar o funcionamento da administração corrente do LNETI e a execução das deliberações do conselho administrativo.
 
-###### Art. 11.º - 1 - O conselho geral é constituído:
+Art. 11.º - 1 - O conselho geral é constituído:
 
 a) Pelo presidente e pelo vice-presidente do LNETI;
 
@@ -260,7 +398,7 @@ d) Por representantes eleitos de entre pessoal de investigação e técnico supe
 
 3 - O conselho geral reunirá ordinariamente cada dois meses e extraordinariamente sempre que for convocado pelo seu presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.
 
-###### Art. 12.º Compete ao conselho geral:
+Art. 12.º Compete ao conselho geral:
 
 a) Estabelecer normas para a elaboração do programa anual de actividades e dos projectos de orçamento e dos planos de investimento;
 
@@ -276,7 +414,7 @@ f) Dar parecer sobre contratos-programa a celebrar com empresas públicas, priva
 
 g) Propor medidas conducentes ao aumento das receitas próprias do LNETI e à racionalização das despesas.
 
-###### Art. 13.º - 1 - O conselho administrativo é composto pelo presidente, pelo vice-presidente, pelo director de Serviços de Finanças e Património, por um representante da Direcção-Geral da Contabilidade Pública e pelo chefe da Repartição de Contabilidade do LNETI, que servirá de secretário.
+Art. 13.º - 1 - O conselho administrativo é composto pelo presidente, pelo vice-presidente, pelo director de Serviços de Finanças e Património, por um representante da Direcção-Geral da Contabilidade Pública e pelo chefe da Repartição de Contabilidade do LNETI, que servirá de secretário.
 
 2 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que for convocado pelo seu presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.
 
@@ -286,7 +424,7 @@ g) Propor medidas conducentes ao aumento das receitas próprias do LNETI e à ra
 
 5 - Ao representante da Direcção-Geral da Contabilidade Pública será atribuída uma gratificação mensal a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Tecnologia e do Secretário de Estado da Administração Pública.
 
-###### Art. 14.º Compete ao conselho administrativo:
+Art. 14.º Compete ao conselho administrativo:
 
 a) Autorizar a realização de despesas, nos termos permitidos por lei, aos órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira;
 
@@ -306,7 +444,7 @@ h) Providenciar pela organização e actualização do cadastro dos bens pertenc
 
 i) Apreciar as contas de gerência a submeter anualmente ao Tribunal de Contas.
 
-###### Art. 15.º - 1 - A composição, atribuições e o modo de funcionamento do Conselho Superior de Engenharia e Tecnologia Industrial serão estabelecidos por portaria do Ministro da Indústria e Tecnologia de modo a garantir-se uma adequada representação das seguintes entidades:
+Art. 15.º - 1 - A composição, atribuições e o modo de funcionamento do Conselho Superior de Engenharia e Tecnologia Industrial serão estabelecidos por portaria do Ministro da Indústria e Tecnologia de modo a garantir-se uma adequada representação das seguintes entidades:
 
 a) Órgãos centrais do Ministério da Indústria e Tecnologia, Universidades e institutos públicos cuja actividade se relacione directamente com as atribuições do LNETI;
 
@@ -320,7 +458,7 @@ b) Associações ou organizações empresariais, sindicais, cooperativas, financ
 
 5 - Os membros do Conselho terão direito a gratificações de montante a fixar de acordo com o artigo 6.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
 
-###### Art. 16.º Compete ao Conselho Superior de Engenharia e Tecnologia Industrial:
+Art. 16.º Compete ao Conselho Superior de Engenharia e Tecnologia Industrial:
 
 a) Contribuir para a definição da política científica e tecnológica nos sectores industrial e energético;
 
@@ -330,7 +468,7 @@ c) Dar parecer sobre os planos anuais e plurianuais do LNETI ou outros com eles 
 
 d) Emitir parecer sobre os projectos e estudos realizados no âmbito da actividade do LNETI, promovendo a análise do seu mérito científico, económico e social, numa óptica de gestão por objectivos.
 
-###### Art. 17.º - 1 - São criadas desde já as seguintes secções do Conselho Superior de Engenharia e Tecnologia Industrial:
+Art. 17.º - 1 - São criadas desde já as seguintes secções do Conselho Superior de Engenharia e Tecnologia Industrial:
 
 a) Investigação, Desenvolvimento e Assistência Tecnológica;
 
@@ -342,11 +480,11 @@ c) Informação Técnica para a Indústria.
 
 #### SECÇÃO II — Serviços
 
-###### Art. 18.º O LNETI será estruturado em serviços de investigação e desenvolvimento e assistência tecnológica, em serviços técnico-científicos e em serviços de apoio técnico e administrativo.
+Art. 18.º O LNETI será estruturado em serviços de investigação e desenvolvimento e assistência tecnológica, em serviços técnico-científicos e em serviços de apoio técnico e administrativo.
 
-###### Art. 19.º Os serviços de investigação e desenvolvimento e assistência tecnológica compreendem departamentos e institutos.
+Art. 19.º Os serviços de investigação e desenvolvimento e assistência tecnológica compreendem departamentos e institutos.
 
-###### Art. 20.º - 1 - Os departamentos são serviços básicos do LNETI, desenvolvendo actividades relacionadas com um domínio científico ou tecnológico bem definido ou com sectores industriais específicos.
+Art. 20.º - 1 - Os departamentos são serviços básicos do LNETI, desenvolvendo actividades relacionadas com um domínio científico ou tecnológico bem definido ou com sectores industriais específicos.
 
 2 - Os institutos resultam da associação de departamentos que englobem técnicas específicas comuns ou abranjam uma vocação dominante.
 
@@ -354,7 +492,7 @@ c) Informação Técnica para a Indústria.
 
 4 - A criação dos institutos deve permitir não só o desenvolvimento de projectos I & D interdisciplinares com elevado grau de inovação, mas também de actividades com directa aplicação tecnológica nas empresas ou serviços.
 
-###### Art. 21.º - 1 - São criados desde já os seguintes institutos:
+Art. 21.º - 1 - São criados desde já os seguintes institutos:
 
 Instituto de Tecnologia Industrial;
 
@@ -362,7 +500,7 @@ b) Instituto de Energia.
 
 2 - É ainda criado o Departamento de Protecção e Segurança Radiológica.
 
-###### Art. 22.º O Instituto de Tecnologia Industrial compreende os seguintes departamentos relacionados com os sectores industriais:
+Art. 22.º O Instituto de Tecnologia Industrial compreende os seguintes departamentos relacionados com os sectores industriais:
 
 a) Departamento Central de Estudos e Análises Industriais;
 
@@ -374,7 +512,7 @@ d) Departamento de Metalurgia e Metalomecânica;
 
 e) Departamento de Electrónica e Equipamento Eléctrico.
 
-###### Art. 23.º O Instituto de Energia compreende os seguintes departamentos relacionados com o sector energético:
+Art. 23.º O Instituto de Energia compreende os seguintes departamentos relacionados com o sector energético:
 
 a) Departamento de Energias Convencionais;
 
@@ -384,7 +522,7 @@ c) Departamento de Energia e Engenharia Nucleares;
 
 d) Departamento das Ciências e Técnicas Nucleares.
 
-###### Art. 24.º - 1 - A competência do Instituto de Tecnologia Industrial exerce-se através dos respectivos departamentos:
+Art. 24.º - 1 - A competência do Instituto de Tecnologia Industrial exerce-se através dos respectivos departamentos:
 
 a) No âmbito da investigação e desenvolvimento experimental e das transferências de tecnologia para os diversos sectores industriais e para as áreas tecnológicas que lhes correspondem;
 
@@ -404,7 +542,7 @@ a) A investigação e o desenvolvimento, a análise experimental relacionada com
 
 b) O apoio especializado a todos os departamentos do LNETI, nomeadamente na manutenção de equipamento e construção de protótipos destinados a projectos de investigação.
 
-###### Art. 25.º - 1 - A competência do Instituto de Energia exerce-se através dos respectivos departamentos:
+Art. 25.º - 1 - A competência do Instituto de Energia exerce-se através dos respectivos departamentos:
 
 a) No âmbito da investigação e desenvolvimento experimental e das transferências de tecnologia para os sectores das energias tradicionais e renováveis e, bem assim, da energia nuclear e das suas aplicações;
 
@@ -418,9 +556,9 @@ b) No âmbito da assistência e apoio tecnológicos para as indústrias do secto
 
 5 - Ao Departamento de Ciências e Técnicas Nucleares compete efectuar e promover a investigação, o desenvolvimento e a aplicação das ciências e técnicas nucleares para fins pacíficos e a formação dos técnicos correspondentes.
 
-###### Art. 26.º Ao Departamento de Protecção e Segurança Radiológica compete colaborar na segurança radiológica de instalações e equipamento radioactivo e nuclear e coordenar os estudos de contrôle da radioactividade do ambiente, de radioecologia e, bem assim, de protecção radiológica.
+Art. 26.º Ao Departamento de Protecção e Segurança Radiológica compete colaborar na segurança radiológica de instalações e equipamento radioactivo e nuclear e coordenar os estudos de contrôle da radioactividade do ambiente, de radioecologia e, bem assim, de protecção radiológica.
 
-###### Art. 27.º São serviços técnico-científicos os seguintes departamentos:
+Art. 27.º São serviços técnico-científicos os seguintes departamentos:
 
 a) Centro de Formação Técnica;
 
@@ -432,13 +570,13 @@ d) Departamento de Pré-Investimento, Promoção e Comercialização;
 
 e) Centro de Informática.
 
-###### Art. 28.º Ao Centro de Formação Técnica compete:
+Art. 28.º Ao Centro de Formação Técnica compete:
 
 a) Promover e organizar cursos, seminários e colóquios com vista à formação, aperfeiçoamento e actualização dos quadros dirigentes e técnicos das empresas industriais e dos organismos do Ministério da Indústria e Tecnologia, no âmbito da gestão e das tecnologias;
 
 b) Organizar conferências, congressos e outras reuniões, especialmente nos sectores da engenharia de produção, da gestão e das tecnologias industriais.
 
-###### Art. 29.º Ao Centro de Informação Técnica para a Indústria compete:
+Art. 29.º Ao Centro de Informação Técnica para a Indústria compete:
 
 a) Organizar o sistema nacional de informação técnica para a indústria, em coordenação com os serviços especializados dos outros organismos do Ministério da Indústria e Tecnologia, através da recolha, tratamento e organização de documentos, livros, publicações e meios áudio-visuais;
 
@@ -448,7 +586,7 @@ c) Divulgar os conhecimentos resultantes das actividades do LNETI e outros com i
 
 d) Organizar a editorial do LNETI e orientar as suas actividades.
 
-###### Art. 30.º Ao Gabinete de Planeamento de Engenharia e Tecnologia Industrial compete:
+Art. 30.º Ao Gabinete de Planeamento de Engenharia e Tecnologia Industrial compete:
 
 a) Propor medidas que permitam incentivar o sector I & D das empresas industriais, de forma que as actividades de pesquisa sejam orientadas para sectores prioritários do desenvolvimento;
 
@@ -462,7 +600,7 @@ e) Pronunciar-se sobre a rendibilidade dos diversos projectos de investimento, d
 
 f) Estudar, propor, coordenar e acompanhar a execução de medidas tendentes ao aperfeiçoamento das estruturas do LNETI.
 
-###### Art. 31.º Ao Departamento de Pré-Investimento, Promoção e Comercialização compete:
+Art. 31.º Ao Departamento de Pré-Investimento, Promoção e Comercialização compete:
 
 a) Desenvolver um esquema de pré-investimento e engineering, em cooperação com as empresas industriais, que permita uma ligação eficiente entre a criação e o armazenamento de conhecimentos e a produção de bens e serviços;
 
@@ -472,7 +610,7 @@ c) Coordenar, no âmbito do LNETI, as acções relacionadas com os problemas ine
 
 d) Promover a comercialização de tecnologias e equipamentos desenvolvidos no LNETI e de quaisquer outros serviços ou acções de interesse para as empresas, apoiando a constituição de unidades industriais, tendo em vista a utilização de novas tecnologias e o fabrico de novos produtos.
 
-###### Art. 32.º Ao Centro de Informática compete:
+Art. 32.º Ao Centro de Informática compete:
 
 a) Realizar investigação e desenvolvimento nos domínios da informática e suas aplicações com interesse para as actividades I & D do LNETI e para as empresas industriais;
 
@@ -480,15 +618,15 @@ b) Assegurar o funcionamento dos meios de processamento automático da informaç
 
 c) Prestar apoio aos diferentes órgãos do LNETI nos domínios da informática.
 
-###### Art. 33.º Os departamentos, sempre que a sua dimensão o justifique ou quando as suas actividades atinjam excepcional relevância na investigação e desenvolvimento ou no domínio técnico-científico, podem dar origem a institutos.
+Art. 33.º Os departamentos, sempre que a sua dimensão o justifique ou quando as suas actividades atinjam excepcional relevância na investigação e desenvolvimento ou no domínio técnico-científico, podem dar origem a institutos.
 
-###### Art. 34.º O número e designação dos institutos e departamentos criados por este diploma poderão ser alterados nos termos do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 34.º O número e designação dos institutos e departamentos criados por este diploma poderão ser alterados nos termos do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
-###### Art. 35.º - 1 - Os departamentos gozam de autonomia científica e técnica, sem prejuízo das orientações gerais que vierem a ser fixadas pelos órgãos superiores do LNETI.
+Art. 35.º - 1 - Os departamentos gozam de autonomia científica e técnica, sem prejuízo das orientações gerais que vierem a ser fixadas pelos órgãos superiores do LNETI.
 
 2 - Os serviços de investigação e desenvolvimento e de assistência tecnológica e os serviços técnico-científicos serão autorizados a gerir as verbas postas à sua disposição, de acordo com as normas e os orçamentos de aplicação aprovados pelo conselho administrativo.
 
-###### Art. 36.º - 1 - São serviços de apoio técnico e administrativo:
+Art. 36.º - 1 - São serviços de apoio técnico e administrativo:
 
 a) A Direcção de Serviços de Relações Exteriores;
 
@@ -502,7 +640,7 @@ e) A Divisão de Instalações.
 
 2 - Junto do presidente do LNETI funcionará ainda uma assessoria jurídica.
 
-###### Art. 37.º - 1 - A Direcção de Serviços de Relações Exteriores compreende os seguintes serviços:
+Art. 37.º - 1 - A Direcção de Serviços de Relações Exteriores compreende os seguintes serviços:
 
 a) Divisão de Relações Internacionais;
 
@@ -520,7 +658,7 @@ a) Promover a informação pública sobre as realizações do LNETI e os problem
 
 b) Organizar um boletim de informação e outras publicações de carácter geral e informativo sobre problemas científicos e tecnológicos, nomeadamente os relacionados com o desenvolvimento industrial.
 
-###### Art. 38.º - 1 - A Direcção de Serviços Administrativos compreende:
+Art. 38.º - 1 - A Direcção de Serviços Administrativos compreende:
 
 a) A Divisão de Transportes e Comunicações;
 
@@ -548,7 +686,7 @@ a) Assegurar as aquisições globais, visando uma correcta gestão de recursos m
 
 b) Superintender no funcionamento dos depósitos de materiais, regulando as entregas aos serviços.
 
-###### Art. 39.º - 1 - A Direcção de Serviços de Finanças e Património compreende:
+Art. 39.º - 1 - A Direcção de Serviços de Finanças e Património compreende:
 
 a) A Repartição de Contabilidade;
 
@@ -564,19 +702,19 @@ b) Pela Repartição do Património, elaborar o cadastro de bens do LNETI, atrib
 
 c) Pela Repartição de Tesouraria, arrecadar as receitas do LNETI, promover o seu depósito e movimento, bem como efectuar os pagamentos autorizados.
 
-###### Art. 40.º - 1 - A Direcção de Serviços Oficinais será constituída por oficinas especializadas e de precisão nos domínios da mecânica, electricidade, vidro, soldadura e fundição, além de desenvolver actividades nos sectores de desenho de máquinas, conservação de equipamento e apoio à Divisão de Instalações.
+Art. 40.º - 1 - A Direcção de Serviços Oficinais será constituída por oficinas especializadas e de precisão nos domínios da mecânica, electricidade, vidro, soldadura e fundição, além de desenvolver actividades nos sectores de desenho de máquinas, conservação de equipamento e apoio à Divisão de Instalações.
 
 2 - À Direcção de Serviços Oficinais compete construir, de acordo com a orientação dos serviços de investigação e desenvolvimento e assistência tecnológica, protótipos de equipamento de alta precisão, interfaces para instalações piloto e aparelhagem de vidro e ainda realizar a manutenção e o aperfeiçoamento de equipamento mecânico e eléctrico.
 
 3 - As formas de apoio da Direcção de Serviços Oficinais aos serviços de investigação e desenvolvimento serão definidas nos diplomas que os estruturarem.
 
-###### Art. 41.º À Divisão de Instalações compete:
+Art. 41.º À Divisão de Instalações compete:
 
 a) Coordenar a instalação dos serviços e realizar pequenas obras de adaptação, remodelação e conservação dos respectivos imóveis;
 
 b) Ocupar-se de quanto respeita ao estudo de novas instalações e manutenção das existentes, acompanhando a elaboração de projectos, adjudicação e fiscalização de trabalhos.
 
-###### Art. 42.º - 1 - À Assessoria Jurídica cabe:
+Art. 42.º - 1 - À Assessoria Jurídica cabe:
 
 a) Realizar estudos e formular pareceres de natureza jurídica sobre assuntos de interesse para o LNETI;
 
@@ -586,7 +724,7 @@ c) Dar apoio jurídico na preparação, celebração e acompanhamento da execuç
 
 2 - A assessoria jurídica será orientada por um jurista designado pelo presidente.
 
-###### Art. 43.º A estrutura dos serviços de acção social, higiene e segurança e medicina do trabalho será estabelecida em diploma especial, tendo em conta:
+Art. 43.º A estrutura dos serviços de acção social, higiene e segurança e medicina do trabalho será estabelecida em diploma especial, tendo em conta:
 
 a) Os problemas específicos que comportem as actividades dos diversos serviços;
 
@@ -594,7 +732,7 @@ b) O tipo de instalações industriais piloto, a armazenagem de materiais, a uti
 
 c) As normas internacionais definidas nesta matéria.
 
-###### Art. 44.º - 1 - É criada a Comissão de Segurança e Acção Social, com a seguinte constituição:
+Art. 44.º - 1 - É criada a Comissão de Segurança e Acção Social, com a seguinte constituição:
 
 a) O presidente do LNETI, ou seu representante, e dois dirigentes, por aquele designados;
 
@@ -604,11 +742,11 @@ b) Três representantes eleitos pelo pessoal.
 
 3 - O regulamento da Comissão será aprovado por despacho do Ministro da Indústria e Tecnologia, mediante proposta do presidente do LNETI.
 
-###### Art. 45.º - 1 - Em cada um dos institutos referidos no artigo 22.º existirá uma repartição administrativa, à qual incumbirá desempenhar as funções dos serviços de apoio administrativo que se considere conveniente descentralizar.
+Art. 45.º - 1 - Em cada um dos institutos referidos no artigo 22.º existirá uma repartição administrativa, à qual incumbirá desempenhar as funções dos serviços de apoio administrativo que se considere conveniente descentralizar.
 
 2 - Nos departamentos não integrados em institutos, o apoio administrativo será assegurado por secções estruturadas de acordo com as necessidades.
 
-###### Art. 46.º - 1 - A competência, organização, normas de funcionamento e os quadros de pessoal dos serviços agora criados, para além do que se encontra definido no presente diploma, serão estabelecidos por decreto regulamentar no prazo de cento e oitenta dias, a contar da data da sua entrada em vigor.
+Art. 46.º - 1 - A competência, organização, normas de funcionamento e os quadros de pessoal dos serviços agora criados, para além do que se encontra definido no presente diploma, serão estabelecidos por decreto regulamentar no prazo de cento e oitenta dias, a contar da data da sua entrada em vigor.
 
 2 - Nos órgãos dos serviços de investigação e desenvolvimento e de assistência tecnológica poderão participar representantes de outras entidades, públicas e privadas.
 
@@ -616,7 +754,7 @@ b) Três representantes eleitos pelo pessoal.
 
 #### SECÇÃO III — Regionalização das actividades
 
-###### Art. 47.º - 1 - A regionalização das actividades de investigação e desenvolvimento e de assistência tecnológica às empresas poderá processar-se através da criação de estruturas regionais do LNETI, de contratos-programa com outras instituições e da constituição de centros tecnológicos.
+Art. 47.º - 1 - A regionalização das actividades de investigação e desenvolvimento e de assistência tecnológica às empresas poderá processar-se através da criação de estruturas regionais do LNETI, de contratos-programa com outras instituições e da constituição de centros tecnológicos.
 
 2 - A regionalização será feita de acordo com:
 
@@ -626,11 +764,11 @@ b) As necessidades das empresas industriais existentes, especialmente nas áreas
 
 c) A existência de recursos e potencialidades humanas e tecnológicas que importe desenvolver.
 
-###### Art. 48.º A criação de estruturas regionais poderá revestir a forma de serviços de extensão dos institutos ou dos departamentos, ou a forma de departamentos autónomos com um estatuto idêntico ao dos restantes departamentos do LNETI.
+Art. 48.º A criação de estruturas regionais poderá revestir a forma de serviços de extensão dos institutos ou dos departamentos, ou a forma de departamentos autónomos com um estatuto idêntico ao dos restantes departamentos do LNETI.
 
-###### Art. 49.º Os centros tecnológicos, que gozarão de personalidade jurídica, serão constituídos em estreita cooperação com as associações de empresas industriais do sector e com outros organismos do Ministério da Indústria e Tecnologia, nomeadamente o Instituto de Apoio às Pequenas e Médias Empresas Industriais e a Direcção-Geral da Qualidade.
+Art. 49.º Os centros tecnológicos, que gozarão de personalidade jurídica, serão constituídos em estreita cooperação com as associações de empresas industriais do sector e com outros organismos do Ministério da Indústria e Tecnologia, nomeadamente o Instituto de Apoio às Pequenas e Médias Empresas Industriais e a Direcção-Geral da Qualidade.
 
-###### Art. 50.º A constituição dos centros tecnológicos será objecto de diploma especial, que definirá o seu estatuto, atribuições, modos de formação e regras de funcionamento e gestão, dentro dos princípios a seguir enunciados:
+Art. 50.º A constituição dos centros tecnológicos será objecto de diploma especial, que definirá o seu estatuto, atribuições, modos de formação e regras de funcionamento e gestão, dentro dos princípios a seguir enunciados:
 
 a) Os centros tecnológicos devem orientar as suas actividades para a solução dos problemas práticos e concretos dos sectores industriais;
 
@@ -642,7 +780,7 @@ d) O financiamento e a gestão dos centros tecnológicos serão assegurados conj
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 51.º - 1 - O LNETI arrecadará e administrará as suas receitas e satisfará, por meio delas, os encargos da sua actividade nos termos do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
+Art. 51.º - 1 - O LNETI arrecadará e administrará as suas receitas e satisfará, por meio delas, os encargos da sua actividade nos termos do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
 2 - Além das dotações inscritas no Orçamento Geral do Estado e no Plano de Investimentos e Despesas de Desenvolvimento da Administração Pública, constituem receitas do LNETI:
 
@@ -664,27 +802,27 @@ f) Quaisquer outras receitas que, por lei, contrato ou a outro título, lhe seja
 
 5 - Os saldos anuais das dotações orçamentais e as receitas próprias do LNETI podem ser despendidos nos anos económicos seguintes àqueles a que dizem respeito.
 
-###### Art. 52.º - 1 - O LNETI depositará todas as suas receitas na Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 52.º - 1 - O LNETI depositará todas as suas receitas na Caixa Geral de Depósitos, Crédito e Previdência.
 
 2 - Os depósitos a que se refere o número anterior serão feitos em nome do conselho administrativo e para a sua movimentação, não sujeita a prémio de transferência, serão suficientes as assinaturas de dois membros daquele conselho.
 
-###### Art. 53.º - 1 - O Ministro da Indústria e Tecnologia poderá autorizar o conselho administrativo a constituir fundos permanentes a favor dos institutos e departamentos não integrados em institutos ou de outros serviços com necessidade comprovada.
+Art. 53.º - 1 - O Ministro da Indústria e Tecnologia poderá autorizar o conselho administrativo a constituir fundos permanentes a favor dos institutos e departamentos não integrados em institutos ou de outros serviços com necessidade comprovada.
 
 2 - O conselho administrativo emitirá as regras a que deverá obedecer a movimentação dos fundos permanentes e fiscalizará a sua aplicação.
 
-###### Art. 54.º - 1 - Terão preferência no despacho e poderão ser desembaraçados pelas alfândegas, sem dependência de formalidades e mediante assinatura de termo de responsabilidade pelo presidente do conselho administrativo, os radioisótopos, matérias-primas e aparelhos destinados ao LNETI, fazendo-se a liquidação dos direitos que forem devidos, por declaração apresentada pelo presidente do conselho administrativo, no prazo de oito dias. As mesmas facilidades serão concedidas na importação de radioisótopos realizada por estabelecimentos oficiais de saúde ou assistência.
+Art. 54.º - 1 - Terão preferência no despacho e poderão ser desembaraçados pelas alfândegas, sem dependência de formalidades e mediante assinatura de termo de responsabilidade pelo presidente do conselho administrativo, os radioisótopos, matérias-primas e aparelhos destinados ao LNETI, fazendo-se a liquidação dos direitos que forem devidos, por declaração apresentada pelo presidente do conselho administrativo, no prazo de oito dias. As mesmas facilidades serão concedidas na importação de radioisótopos realizada por estabelecimentos oficiais de saúde ou assistência.
 
 2 - As alfândegas poderão, sempre que o entenderem conveniente, proceder à verificação das mercadorias a que se refere o n.º 1 deste artigo à sua chegada aos serviços a que se destinam.
 
-###### Art. 55.º - 1 - O património do LNETI e constituído pelos bens e direitos recebidos ou adquiridos para ou no exercício da sua actividade.
+Art. 55.º - 1 - O património do LNETI e constituído pelos bens e direitos recebidos ou adquiridos para ou no exercício da sua actividade.
 
 2 - Os órgãos do LNETI podem administrar e dispor dos bens que integrem o seu património de acordo com as normas que regulam o domínio privado do Estado.
 
-###### Art. 56.º O LNETI pode directamente promover a realização de quaisquer obras de conservação e beneficiação das suas instalações até aos montantes que vierem a ser definidos por portaria conjunta dos Ministros da Habitação e Obras Públicas e da Indústria e Tecnologia.
+Art. 56.º O LNETI pode directamente promover a realização de quaisquer obras de conservação e beneficiação das suas instalações até aos montantes que vierem a ser definidos por portaria conjunta dos Ministros da Habitação e Obras Públicas e da Indústria e Tecnologia.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 57.º - 1 - O pessoal do LNETI será agrupado em:
+Art. 57.º - 1 - O pessoal do LNETI será agrupado em:
 
 a) Pessoal dirigente;
 
@@ -704,7 +842,7 @@ g) Pessoal auxiliar.
 
 3 - Ao pessoal administrativo e auxiliar do LNETI não é aplicável o disposto no artigo 30.º, n.º 2, do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 58.º - 1 - As formas de provimento e os regimes de recrutamento do pessoal dirigente do LNETI são os seguintes:
+Art. 58.º - 1 - As formas de provimento e os regimes de recrutamento do pessoal dirigente do LNETI são os seguintes:
 
 a) O lugar de presidente será provido, em regime de comissão de serviço por tempo indeterminado, mediante despacho do Ministro da Indústria e Tecnologia, de entre personalidades de reconhecido mérito e competência nos domínios da investigação científica e tecnológica;
 
@@ -718,13 +856,13 @@ e) Os lugares de chefe de repartição serão providos de entre chefes de secç�
 
 2 - Ao provimento de lugares de chefe de repartição é aplicável o disposto no artigo 31.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 59.º - 1 - Os cargos de presidente, vice-presidente e director de instituto são equiparados ao de director-geral.
+Art. 59.º - 1 - Os cargos de presidente, vice-presidente e director de instituto são equiparados ao de director-geral.
 
 2 - O presidente receberá ainda uma gratificação, a fixar por despacho dos Ministros das Finanças e do Plano e da Indústria e Tecnologia e do Secretário de Estado da Administração Pública.
 
-###### Art. 60.º Ao provimento dos lugares do quadro do LNETI, exceptuando os de pessoal dirigente e de investigação, é aplicável o disposto no artigo 31.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
+Art. 60.º Ao provimento dos lugares do quadro do LNETI, exceptuando os de pessoal dirigente e de investigação, é aplicável o disposto no artigo 31.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 61.º - 1 - O pessoal de investigação é recrutado entre indivíduos habilitados com licenciatura adequada à área científica e tecnológica em que irão desempenhar as suas funções e da seguinte forma:
+Art. 61.º - 1 - O pessoal de investigação é recrutado entre indivíduos habilitados com licenciatura adequada à área científica e tecnológica em que irão desempenhar as suas funções e da seguinte forma:
 
 a) Investigador-coordenador - por concurso de provas públicas de apreciação curricular e discussão de um programa de investigação, entre investigadores principais com, pelo menos, quatro anos de bom e efectivo serviço nessa categoria;
 
@@ -744,63 +882,63 @@ f) Assistente de investigação estagiário por concurso documental, entre licen
 
 4 - Os assistentes de investigação e os especialistas que completem sete anos nessas categorias podem transitar para lugar de categoria equivalente do grupo do pessoal técnico superior, podendo candidatar-se ao primeiro concurso aberto para a categoria imediata da respectiva carreira, independentemente do tempo de serviço na nova categoria.
 
-###### Art. 62.º Ao provimento nos lugares das carreiras do pessoal técnico superior e do pessoal técnico é aplicável o disposto nos artigos 35.º, 37.º e 39.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
+Art. 62.º Ao provimento nos lugares das carreiras do pessoal técnico superior e do pessoal técnico é aplicável o disposto nos artigos 35.º, 37.º e 39.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 63.º - 1 - O pessoal técnico profissional abrange carreiras de adjunto técnico, técnico experimentador, técnico auxiliar, ajudante de experimentador, auxiliar técnico, auxiliar de laboratório e técnico auxiliar oficinal.
+Art. 63.º - 1 - O pessoal técnico profissional abrange carreiras de adjunto técnico, técnico experimentador, técnico auxiliar, ajudante de experimentador, auxiliar técnico, auxiliar de laboratório e técnico auxiliar oficinal.
 
 2 - Ao provimento nos lugares das carreiras referidas no número anterior, com excepção da última, é aplicável o disposto nos artigos 35.º, 37.º e 39.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 64.º - 1 - A carreira de pessoal técnico auxiliar e oficinal desenvolver-se-á nas áreas funcionais de mecânica de precisão, engenharia e electrónica, computação, montagem de circuitos eléctricos, tecnologia do vazio, técnica de soprador de vidro, moldagem e cinzelagem, fotografia e composição gráfica científicas, construção de protótipos e interfaces e culturas intensivas.
+Art. 64.º - 1 - A carreira de pessoal técnico auxiliar e oficinal desenvolver-se-á nas áreas funcionais de mecânica de precisão, engenharia e electrónica, computação, montagem de circuitos eléctricos, tecnologia do vazio, técnica de soprador de vidro, moldagem e cinzelagem, fotografia e composição gráfica científicas, construção de protótipos e interfaces e culturas intensivas.
 
 2 - O provimento nos lugares de técnico auxiliar oficinal de 2.ª classe far-se-á por concurso de provas práticas, a que poderão concorrer os profissionais habilitados com o curso geral do ensino secundário ou equivalente.
 
 3 - O acesso na carreira de pessoal técnico auxiliar oficinal será feito por concurso de provas práticas de entre os funcionários da categoria imediatamente inferior com um mínimo de três anos de bom e efectivo serviço na categoria.
 
-###### Art. 65.º No provimento do pessoal técnico-profissional:
+Art. 65.º No provimento do pessoal técnico-profissional:
 
 a) A habilitação do curso complementar do ensino secundário ou equivalente poderá ser suprida pela habilitação do curso geral do ensino secundário ou equivalente e aproveitamento em curso de formação adequado com duração não inferior a dois anos;
 
 b) A habilitação do curso geral do ensino secundário ou equivalente, para efeitos de provimento nas carreiras de ajudante de experimentador ou técnico auxiliar oficinal, poderá ser suprida pela habilitação da escolaridade obrigatória e aproveitamento em curso de formação adequado com duração não inferior a três anos.
 
-###### Art. 66.º Os concursos de provas e os cursos a que se referem os artigos 61.º, 64.º e 65.º serão realizados de acordo com os regulamentos a aprovar por portaria conjunta dos Ministros da Indústria e Tecnologia e da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
+Art. 66.º Os concursos de provas e os cursos a que se referem os artigos 61.º, 64.º e 65.º serão realizados de acordo com os regulamentos a aprovar por portaria conjunta dos Ministros da Indústria e Tecnologia e da Educação e Investigação Científica e do Secretário de Estado da Administração Pública.
 
-###### Art. 67.º - 1 - Ao provimento dos lugares de pessoal administrativo e de pessoal auxiliar é aplicável o disposto no [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro.
+Art. 67.º - 1 - Ao provimento dos lugares de pessoal administrativo e de pessoal auxiliar é aplicável o disposto no [Decreto Regulamentar n.º 86/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/86-1977-279626), de 16 de Dezembro.
 
 2 - Os lugares de tesoureiro de 1.ª e 2.ª classes são providos por escolha do Ministro da Indústria e Tecnologia de entre os primeiros-oficiais e segundos-oficiais do quadro do LNETI.
 
-###### Art. 68.º Ao provimento nos lugares de pessoal operário é aplicável o disposto nos artigos 36.º, 38.º e 39.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
+Art. 68.º Ao provimento nos lugares de pessoal operário é aplicável o disposto nos artigos 36.º, 38.º e 39.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 69.º O pessoal do LNETI será distribuído pelos diversos serviços mediante despacho do presidente.
+Art. 69.º O pessoal do LNETI será distribuído pelos diversos serviços mediante despacho do presidente.
 
-###### Art. 70.º - 1 - O Ministro da Indústria e Tecnologia poderá autorizar que, por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, o pessoal destinado a acorrer a necessidades extraordinárias ou eventuais de serviço.
+Art. 70.º - 1 - O Ministro da Indústria e Tecnologia poderá autorizar que, por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, o pessoal destinado a acorrer a necessidades extraordinárias ou eventuais de serviço.
 
 2 - Aos contratos previstos no número anterior é aplicável o disposto no artigo 32.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
-###### Art. 71.º O LNETI poderá celebrar contratos de prestação de serviços com entidades públicas ou privadas, nacionais ou estrangeiras, para a realização de trabalhos ou estudos de carácter eventual necessários ao bom desempenho das atribuições que lhes estão confiadas.
+Art. 71.º O LNETI poderá celebrar contratos de prestação de serviços com entidades públicas ou privadas, nacionais ou estrangeiras, para a realização de trabalhos ou estudos de carácter eventual necessários ao bom desempenho das atribuições que lhes estão confiadas.
 
-###### Art. 72.º O serviço para além dos horários normais, imposto pela necessidade de satisfação de compromissos assumidos através de contratos ou prestação de serviços com entidades públicas ou privadas, poderá ser remunerado de acordo com normas a estabelecer por portaria conjunta dos Ministros das Finanças e do Plano e da Indústria e Tecnologia e do Secretário de Estado da Administração Pública.
+Art. 72.º O serviço para além dos horários normais, imposto pela necessidade de satisfação de compromissos assumidos através de contratos ou prestação de serviços com entidades públicas ou privadas, poderá ser remunerado de acordo com normas a estabelecer por portaria conjunta dos Ministros das Finanças e do Plano e da Indústria e Tecnologia e do Secretário de Estado da Administração Pública.
 
-###### Art. 73.º - 1 - O LNETI poderá facultar a realização de estágios de acordo com os regulamentos a aprovar por despacho do Ministro da Indústria e Tecnologia, tendo em conta os convénios estabelecidos com empresas, instituições de ensino superior e outros organismos públicos ou privados e, bem assim, os seus projectos de investigação e desenvolvimento.
+Art. 73.º - 1 - O LNETI poderá facultar a realização de estágios de acordo com os regulamentos a aprovar por despacho do Ministro da Indústria e Tecnologia, tendo em conta os convénios estabelecidos com empresas, instituições de ensino superior e outros organismos públicos ou privados e, bem assim, os seus projectos de investigação e desenvolvimento.
 
 2 - Os estágios mencionados no número anterior poderão ser remunerados por meio de bolsas cujo pagamento será satisfeito por conta de dotações globais inscritas no orçamento do LNETI.
 
 3 - Os estagiários referidos no número anterior não adquirem a qualidade de agente administrativo.
 
-###### Art. 74.º - 1 - O LNETI organizará, através do Centro de Formação e em colaboração com as associações representativas dos seus trabalhadores, cursos e acções de valorização cultural e profissional.
+Art. 74.º - 1 - O LNETI organizará, através do Centro de Formação e em colaboração com as associações representativas dos seus trabalhadores, cursos e acções de valorização cultural e profissional.
 
 2 - Os cursos e acções mencionados no número anterior serão, sempre que possível, organizados em colaboração com o serviço central que tenha a seu cargo a formação de pessoal.
 
-###### Art. 75.º As normas de concessão de bolsas de estudo no âmbito dos planos de formação do LNETI serão estabelecidas por despacho do Ministro da Indústria e Tecnologia, tendo em conta as regras aplicáveis em organismos e instituições similares.
+Art. 75.º As normas de concessão de bolsas de estudo no âmbito dos planos de formação do LNETI serão estabelecidas por despacho do Ministro da Indústria e Tecnologia, tendo em conta as regras aplicáveis em organismos e instituições similares.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 76.º O LNETI pode instituir, nas condições que forem aprovadas por portaria conjunta dos Ministros das Finanças e do Plano e da Indústria e Tecnologia e do Secretário de Estado da Administração Pública, prémios para os servidores que tenham contribuído de forma excepcional para o progresso dos conhecimentos, para o prestígio da instituição ou para o incremento da eficiência da sua acção, bem como outras formas de estímulo, com o fim de fomentar o aumento da produtividade.
+Art. 76.º O LNETI pode instituir, nas condições que forem aprovadas por portaria conjunta dos Ministros das Finanças e do Plano e da Indústria e Tecnologia e do Secretário de Estado da Administração Pública, prémios para os servidores que tenham contribuído de forma excepcional para o progresso dos conhecimentos, para o prestígio da instituição ou para o incremento da eficiência da sua acção, bem como outras formas de estímulo, com o fim de fomentar o aumento da produtividade.
 
-###### Art. 77.º Enquanto não for estruturada a carreira de investigação no Estado e a fim de fomentar as receitas poderão os funcionários do LNETI nela integrados receber remunerações decorrentes da conclusão de estudos, projectos ou trabalhos especializados de manifesto interesse científico e inegável projecção social, cuja prestação tenha sido solicitada ao LNETI, observadas as disposições sobre a matéria aplicáveis ao pessoal docente universitário.
+Art. 77.º Enquanto não for estruturada a carreira de investigação no Estado e a fim de fomentar as receitas poderão os funcionários do LNETI nela integrados receber remunerações decorrentes da conclusão de estudos, projectos ou trabalhos especializados de manifesto interesse científico e inegável projecção social, cuja prestação tenha sido solicitada ao LNETI, observadas as disposições sobre a matéria aplicáveis ao pessoal docente universitário.
 
-###### Art. 78.º O LNETI poderá efectuar contratos de seguro contra acidentes em serviço do pessoal que trabalhe em instalações nucleares com equipamento produtor de radiações ou com radioisótopos e qualquer que seja o regime em que exerça as suas funções.
+Art. 78.º O LNETI poderá efectuar contratos de seguro contra acidentes em serviço do pessoal que trabalhe em instalações nucleares com equipamento produtor de radiações ou com radioisótopos e qualquer que seja o regime em que exerça as suas funções.
 
-###### Art. 79.º - 1 - O primeiro provimento dos lugares do quadro de pessoal anexo ao presente diploma será feito prioritariamente de entre o pessoal actualmente vinculado a qualquer título ao LNETI ou aos serviços nele integrados, mediante lista nominativa aprovada pelo Ministro da Indústria e Tecnologia e publicada no Diário da República, após visto do Tribunal de Contas, num dos seguintes termos:
+Art. 79.º - 1 - O primeiro provimento dos lugares do quadro de pessoal anexo ao presente diploma será feito prioritariamente de entre o pessoal actualmente vinculado a qualquer título ao LNETI ou aos serviços nele integrados, mediante lista nominativa aprovada pelo Ministro da Indústria e Tecnologia e publicada no Diário da República, após visto do Tribunal de Contas, num dos seguintes termos:
 
 a) Em qualquer lugar do quadro, com respeito pelos requisitos habitacionais previstos no presente diploma;
 
@@ -808,31 +946,31 @@ b) Em qualquer dos lugares do quadro que corresponda às funções efectivamente
 
 2 - Sem prejuízo do disposto na alínea b) do número anterior, o acesso a categoria superior ficará dependente da satisfação dos requisitos das habilitações literárias ou formação complementar fixados no presente diploma.
 
-###### Art. 80.º Os lugares do quadro que ficarem vagos após os provimentos considerados no artigo anterior serão preenchidos na medida em que o consintam as disponibilidades orçamentais e de acordo com as necessidades dos serviços.
+Art. 80.º Os lugares do quadro que ficarem vagos após os provimentos considerados no artigo anterior serão preenchidos na medida em que o consintam as disponibilidades orçamentais e de acordo com as necessidades dos serviços.
 
-###### Art. 81.º - 1 - Ao pessoal provido nos quadros do LNETI em categoria idêntica ou equivalente à que possuía nos seus anteriores quadros será contado o tempo de serviço prestado nesta para efeitos de acesso na carreira.
+Art. 81.º - 1 - Ao pessoal provido nos quadros do LNETI em categoria idêntica ou equivalente à que possuía nos seus anteriores quadros será contado o tempo de serviço prestado nesta para efeitos de acesso na carreira.
 
 2 - Ao pessoal mencionado no número anterior aplica-se o disposto no artigo 2.º do [Decreto-Lei n.º 105/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1978-296375), de 23 de Maio, e nos artigos 1.º e 3.º do [Decreto-Lei n.º 452/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1978-274222), de 30 de Dezembro, prorrogando-se o respectivo prazo até 30 de Outubro.
 
-###### Art. 82.º São extintos, com a entrada em vigor deste diploma, a Junta de Energia Nuclear e o Instituto Nacional de Investigação Industrial, considerando-se revogadas as disposições legais aplicáveis a estes organismos, em matéria de estrutura de quadros e carreiras de pessoal, mantendo-se em vigor as restantes disposições até à publicação dos decretos regulamentares previstos no artigo 46.º, n.º 1, para os Institutos de Energia e de Tecnologia Industrial.
+Art. 82.º São extintos, com a entrada em vigor deste diploma, a Junta de Energia Nuclear e o Instituto Nacional de Investigação Industrial, considerando-se revogadas as disposições legais aplicáveis a estes organismos, em matéria de estrutura de quadros e carreiras de pessoal, mantendo-se em vigor as restantes disposições até à publicação dos decretos regulamentares previstos no artigo 46.º, n.º 1, para os Institutos de Energia e de Tecnologia Industrial.
 
-###### Art. 83.º - 1 - Com a extinção dos serviços a que se refere o artigo anterior, transitam para o LNETI os seus direitos e obrigações, sem prejuízo da afectação a outros organismos do Ministério da Indústria e Tecnologia, nos termos do artigo 62.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
+Art. 83.º - 1 - Com a extinção dos serviços a que se refere o artigo anterior, transitam para o LNETI os seus direitos e obrigações, sem prejuízo da afectação a outros organismos do Ministério da Indústria e Tecnologia, nos termos do artigo 62.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro.
 
 2 - O disposto no número anterior constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo bastante, em caso de dúvida, a simples declaração feita pelo LNETI e confirmada pela Direcção-Geral do Património de que os bens se incluem entre os nele referidos.
 
 3 - As obrigações de carácter laboral, nomeadamente as resultantes da incapacidade parcial, provenientes de acidentes em serviço ou doenças profissionais do pessoal da Junta de Energia Nuclear, que transitou para a Empresa Nacional de Urânio, E. P., constituem encargo desta empresa pública.
 
-###### Art. 84.º As dúvidas e casos omissos surgidos na execução deste diploma serão resolvidos por despacho do Ministro da Indústria e Tecnologia, salvo quando se tratar de dúvidas ou omissões envolvendo matéria financeira ou de pessoal, que serão resolvidas, conforme os casos, por despacho do Ministro da Indústria e Tecnologia, conjunto com o Ministro das Finanças e do Plano ou com o Secretário de Estado da Administração Pública, quando estiverem em causa matéria da respectiva competência.
+Art. 84.º As dúvidas e casos omissos surgidos na execução deste diploma serão resolvidos por despacho do Ministro da Indústria e Tecnologia, salvo quando se tratar de dúvidas ou omissões envolvendo matéria financeira ou de pessoal, que serão resolvidas, conforme os casos, por despacho do Ministro da Indústria e Tecnologia, conjunto com o Ministro das Finanças e do Plano ou com o Secretário de Estado da Administração Pública, quando estiverem em causa matéria da respectiva competência.
 
-###### Art. 85.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 85.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1979. - Carlos Alberto da Mota Pinto - Álvaro Roque de Pinho Bissaia Barreto - António Jorge de Figueiredo Lopes - João Pinto Ribeiro.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal do Laboratório Nacional de Engenharia e Tecnologia Industrial
 
@@ -842,22 +980,22 @@ MAPA I
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)
 
 MAPA II
 
 Pessoal de investigação, técnico superior e técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)
 
 MAPA III
 
 Pessoal técnico profissional e administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)
 
 MAPA IV
 
 Pessoal operário e pessoal auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20200/21642178.pdf)

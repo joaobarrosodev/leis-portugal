@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48368-1968-274856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71671a6d83bec73eb20b282f5b8bb3ff2daa395242e8894d6f81723f56bd3f51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 555f1ad7cd28b8734e1d463e72a4bbc02d816b825caf8f84d87d7a299a5782a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Comissão
+- Criação de Serviços
+- Dotação Orçamental
+- Gestão Orçamental
+- Governo
+- Ministério da Defesa Nacional
+- Ministério do Exército
+- Secretaria de Estado da Aeronáutica
 relationships:
 - type: amended_by
   target: pt:dre:655088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228796:por
+  label: "Alterada a comissão referida na al. b) do nº1 do art. 3º do presente diploma, pelo DEC LEI.113/70.18.03.1970.PC,\
+    \ DG.IS [65] de 18.03.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1970-228796
+  date: '1970-03-18'
+- type: amended_by
+  target: pt:dre:140111:por
+  label: "Alteradas as als. c) e d) do nº3 do art. 3º e o art. 5º pelo DEC LEI.306/70.02.07.1970.PC, DG.IS [152] de 02.07.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-1970-140111
+  date: '1970-07-02'
+- type: amended_by
+  target: pt:dre:655088:por
+  label: "Extintas as comissões criadas pelo nº 1 do art. 3.º do presente diploma, pelo DEC LEI.126/84.26.04.1984.MDN, DR.IS\
+    \ [97] de 26.04.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-1984-655088
+  date: '1984-04-26'
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:13Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +122,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo a abrir créditos consignados à defesa nacional para reequipamento extraordinário, até ao montante global de 2000000 de contos.
+Artigo 1.º - 1. É autorizado o Governo a abrir créditos consignados à defesa nacional para reequipamento extraordinário, até ao montante global de 2000000 de contos.
 
 2. O montante referido no número anterior é destinado ao reequipamento extraordinário do Exército e da Aeronáutica, segundo distribuição a determinar pelo Ministro da Defesa Nacional.
 
@@ -100,11 +132,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 5. Poderá o saldo que se verificar no encerramento das contas de 1968 e 1969 transitar para os orçamentos do ano ou anos seguintes, independentemente do preceituado na primeira parte do artigo 6.º, n.º 1, do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.
 
-###### Art. 2.º - 1. A utilização do montante de 2000000 de contos autorizados por este diploma efectuar-se-á de acordo com planos elaborados pelo Ministério do Exército ou pela Secretaria de Estado da Aeronáutica, nos quais se estabelecerá a ordem de prioridade das aquisições a realizar.
+Art. 2.º - 1. A utilização do montante de 2000000 de contos autorizados por este diploma efectuar-se-á de acordo com planos elaborados pelo Ministério do Exército ou pela Secretaria de Estado da Aeronáutica, nos quais se estabelecerá a ordem de prioridade das aquisições a realizar.
 
 2. Os planos de aquisições referidos no número anterior serão submetidos à aprovação do Ministro da Defesa Nacional.
 
-###### Art. 3.º - 1. Para execução dos planos referidos no artigo anterior, serão constituídas as seguintes comissões:
+Art. 3.º - 1. Para execução dos planos referidos no artigo anterior, serão constituídas as seguintes comissões:
 
 a) No Ministério do Exército e na Secretaria de Estado da Aeronáutica: comissões formadas por três elementos de cada uma das direcções das armas ou serviços nomeadas pelo Ministro ou Secretário de Estado respectivos, sob proposta das referidas direcções;
 
@@ -132,24 +164,24 @@ d) Promover a remessa de cópias ou fotocópias de todos os contratos de aquisi�
 
 5. O despacho de delegação do Ministro da Defesa Nacional será proferido sob informação da comissão indicada na alínea b) do n.º 1.
 
-###### Art. 4.º Os encargos financeiros resultantes das condições de pagamento fixadas pelas comissões a que se refere a alínea b) do n.º 1 do artigo 3.º constituirão despesa ordinária do Ministério das Finanças, a liquidar através de dotação própria a inscrever na Secretaria-Geral deste Ministério.
+Art. 4.º Os encargos financeiros resultantes das condições de pagamento fixadas pelas comissões a que se refere a alínea b) do n.º 1 do artigo 3.º constituirão despesa ordinária do Ministério das Finanças, a liquidar através de dotação própria a inscrever na Secretaria-Geral deste Ministério.
 
-###### Art. 5.º Compete ao conselho administrativo da Chefia do Serviço do Orçamento e Administração do Ministério do Exército e ao conselho administrativo da Direcção do Serviço de Material da Força Aérea o pagamento das despesas efectuadas em harmonia com este diploma e também a apresentação até 31 de Março de cada ano das respectivas contas à comissão referida na alínea b) do n.º 1 do artigo 3.º
+Art. 5.º Compete ao conselho administrativo da Chefia do Serviço do Orçamento e Administração do Ministério do Exército e ao conselho administrativo da Direcção do Serviço de Material da Força Aérea o pagamento das despesas efectuadas em harmonia com este diploma e também a apresentação até 31 de Março de cada ano das respectivas contas à comissão referida na alínea b) do n.º 1 do artigo 3.º
 
-###### Art. 6.º A comissão referida na alínea b) do n.º 1 do artigo 3.º elaborará, até 15 de Abril de cada ano, relatório da acção exercida e parecer sobre as contas que lhe forem presentes nos termos do artigo anterior, submetendo-os a visto dos Ministros da Defesa Nacional e das Finanças, depois do que as mesmas se consideram legitimadas para todos os efeitos.
+Art. 6.º A comissão referida na alínea b) do n.º 1 do artigo 3.º elaborará, até 15 de Abril de cada ano, relatório da acção exercida e parecer sobre as contas que lhe forem presentes nos termos do artigo anterior, submetendo-os a visto dos Ministros da Defesa Nacional e das Finanças, depois do que as mesmas se consideram legitimadas para todos os efeitos.
 
-###### Art. 7.º Em execução do disposto no n.º 4 do artigo 1.º do presente decreto-lei, é aberto no Ministério das Finanças um crédito especial da quantia de 1000000 de contos a inscrever no orçamento de Encargos Gerais da Nação respeitante ao corrente ano económico sob a forma seguinte:
+Art. 7.º Em execução do disposto no n.º 4 do artigo 1.º do presente decreto-lei, é aberto no Ministério das Finanças um crédito especial da quantia de 1000000 de contos a inscrever no orçamento de Encargos Gerais da Nação respeitante ao corrente ano económico sob a forma seguinte:
 
 Despesa extraordinária
 
 ### CAPÍTULO 14.º — Defesa nacional
 
-###### Artigo 318.º-A «Reequipamento extraordinário do Exército e da Aeronáutica» ... 1000000000$00
+Artigo 318.º-A «Reequipamento extraordinário do Exército e da Aeronáutica» ... 1000000000$00
 
-###### Art. 8.º Para compensação do crédito previsto no artigo precedente é adicionada igual importância à verba inscrita no capítulo 9.º, artigo 284.º «Produto de venda de títulos ou de empréstimos», do actual orçamento das receitas do Estado.
+Art. 8.º Para compensação do crédito previsto no artigo precedente é adicionada igual importância à verba inscrita no capítulo 9.º, artigo 284.º «Produto de venda de títulos ou de empréstimos», do actual orçamento das receitas do Estado.
 
-###### Art. 9.º Este diploma entra imediatamente em vigor.
+Art. 9.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

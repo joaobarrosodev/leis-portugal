@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01500/00850086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1976-506034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16d986429ffecf6a92c51374bcf1253780e02c9c94f07e2d4c9e212c7abef530
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42fe1f6858f31fd97441a87380b1f770904f1860e277c1b263e9c76708fbcaec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquário Vasco da GAMA
+- Marinha
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:657439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383606:por
+  label: "Extintas as gratificações previstas no nº 2 do art. 11º pelo DEC LEI.253-A/79.27.07.1979.CR, DR.IS [172-Supl] de\
+    \ 27.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-a-1979-383606
+  date: '1979-07-27'
+- type: cites
+  target: pt:dre:444879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:01Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +118,7 @@ Tornando-se necessário actualizar a estrutura orgânica do Aquário de Vasco da
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Aquário de Vasco da Gama (AVG) é, nos termos do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, um organismo do Departamento da Marinha com finalidades educativas e científicas.
+Artigo 1.º - 1. O Aquário de Vasco da Gama (AVG) é, nos termos do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, um organismo do Departamento da Marinha com finalidades educativas e científicas.
 
 2. O AVG, no âmbito das suas finalidades, terá como atribuição prioritária a exposição de exemplares vivos em aquários e terrários e da colecção oceanográfica de D. Carlos I e de outras colecções ou objectos, incluindo os que para esse efeito lhe sejam entregues a título permanente ou temporário.
 
@@ -102,15 +128,15 @@ a) A investigação no domínio da criação e manutenção, em cativeiro, das e
 
 b) A colaboração com outros organismos ligados à aquariologia, tanto nacionais como estrangeiros.
 
-###### Art. 2.º Os exemplares e objectos pertença do AVG poderão ser cedidos por empréstimo mediante despacho do Chefe do Estado-Maior da Armada (CEMA), no caso de exposições em que a representação da Marinha ou do País o exija, desde que a deslocação respectiva possa ser efectuada sem risco e a entidade a cuja guarda temporária fiquem dê as necessárias garantias quanto a transporte e conservação.
+Art. 2.º Os exemplares e objectos pertença do AVG poderão ser cedidos por empréstimo mediante despacho do Chefe do Estado-Maior da Armada (CEMA), no caso de exposições em que a representação da Marinha ou do País o exija, desde que a deslocação respectiva possa ser efectuada sem risco e a entidade a cuja guarda temporária fiquem dê as necessárias garantias quanto a transporte e conservação.
 
-###### Art. 3.º A aquisição de quaisquer bens para afectação ao AVG é isenta do pagamento de direitos ou impostos.
+Art. 3.º A aquisição de quaisquer bens para afectação ao AVG é isenta do pagamento de direitos ou impostos.
 
-###### Art. 4.º O director do AVG poderá aceitar, em nome do Estado, quaisquer colecções ou objectos para serem expostos no Aquário, quando a transmissão se faça a título gratuito e livre de quaisquer encargos.
+Art. 4.º O director do AVG poderá aceitar, em nome do Estado, quaisquer colecções ou objectos para serem expostos no Aquário, quando a transmissão se faça a título gratuito e livre de quaisquer encargos.
 
-###### Art. 5.º O Departamento da Marinha afectará ao serviço do AVG os móveis e ferramental e outro material necessário ao seu funcionamento.
+Art. 5.º O Departamento da Marinha afectará ao serviço do AVG os móveis e ferramental e outro material necessário ao seu funcionamento.
 
-###### Art. 6.º - 1. O AVG terá um director e dois subdirectores: um subdirector administrativo e um subdirector técnico.
+Art. 6.º - 1. O AVG terá um director e dois subdirectores: um subdirector administrativo e um subdirector técnico.
 
 2. O director será um oficial superior da reserva da Armada.
 
@@ -120,19 +146,19 @@ b) A colaboração com outros organismos ligados à aquariologia, tanto nacionai
 
 5. Nas suas faltas ou impedimentos o director será substituído pelo subdirector administrativo.
 
-###### Art. 7.º As lotações do AVG em pessoal militar e em pessoal civil serão estabelecidas, respectivamente, por portaria e por despacho do CEMA.
+Art. 7.º As lotações do AVG em pessoal militar e em pessoal civil serão estabelecidas, respectivamente, por portaria e por despacho do CEMA.
 
-###### Art. 8.º - 1. Como órgão de consulta e de estudo de problemas de interesse para o pessoal e para o funcionamento do AVG, disporá a direcção de uma comissão representativa do pessoal composta por elementos por este eleitos.
+Art. 8.º - 1. Como órgão de consulta e de estudo de problemas de interesse para o pessoal e para o funcionamento do AVG, disporá a direcção de uma comissão representativa do pessoal composta por elementos por este eleitos.
 
 2. A composição e funcionamento da comissão representativa do pessoal serão fixados no Regulamento do Aquário de Vasco da Gama.
 
-###### Art. 9.º - 1. No AVG poderão ser organizados cursos ou estágios destinados a habilitar o pessoal militar ou civil para o desempenho de funções ou execução de trabalhos que interessem especificamente ao Aquário.
+Art. 9.º - 1. No AVG poderão ser organizados cursos ou estágios destinados a habilitar o pessoal militar ou civil para o desempenho de funções ou execução de trabalhos que interessem especificamente ao Aquário.
 
 2. Os cursos e estágios a que se refere o número anterior, quando convenientemente organizados e estruturados, serão estabelecidos no Regulamento do Aquário de Vasco da Gama.
 
-###### Art. 10.º O AVG disporá de serviços, de gabinetes de educação e divulgação e de aquariologia, de uma secretaria, de uma biblioteca e de outros órgãos de apoio necessários ao desempenho da sua missão, os quais serão definidos no Regulamento do Aquário de Vasco da Gama.
+Art. 10.º O AVG disporá de serviços, de gabinetes de educação e divulgação e de aquariologia, de uma secretaria, de uma biblioteca e de outros órgãos de apoio necessários ao desempenho da sua missão, os quais serão definidos no Regulamento do Aquário de Vasco da Gama.
 
-###### Art. 11.º - 1. Para administração de todos os bens, receitas e dotações, o AVG disporá de um conselho administrativo com a seguinte constituição:
+Art. 11.º - 1. Para administração de todos os bens, receitas e dotações, o AVG disporá de um conselho administrativo com a seguinte constituição:
 
 Presidente - o director;
 
@@ -144,22 +170,22 @@ e cuja missão e competência são as estabelecidas no Regulamento de Administra
 
 2. Os membros do conselho administrativo, quando exerçam as suas funções em regime de acumulação, vencerão uma gratificação fixada pelo CEMA, com o acordo do Ministro das Finanças.
 
-###### Art. 12.º Além das verbas que lhe forem atribuídas pelo orçamento da Marinha, constituem receitas do AVG o produto da venda de bens e serviços, os subsídios, donativos ou legados e outros rendimentos ou receitas correntes, nomeadamente o produto das entradas e da venda de publicações, fotografias, sucatas e inúteis.
+Art. 12.º Além das verbas que lhe forem atribuídas pelo orçamento da Marinha, constituem receitas do AVG o produto da venda de bens e serviços, os subsídios, donativos ou legados e outros rendimentos ou receitas correntes, nomeadamente o produto das entradas e da venda de publicações, fotografias, sucatas e inúteis.
 
-###### Art. 13.º A administração das receitas do AVG e dos bens que lhe forem afectos será feita de harmonia com as leis reguladoras da contabilidade pública e do Regulamento de Administração da Fazenda Naval, por intermédio do conselho administrativo, competindo-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços autónomos.
+Art. 13.º A administração das receitas do AVG e dos bens que lhe forem afectos será feita de harmonia com as leis reguladoras da contabilidade pública e do Regulamento de Administração da Fazenda Naval, por intermédio do conselho administrativo, competindo-lhe autorizar as despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços autónomos.
 
-###### Art. 14.º O orçamento da Marinha consignará anualmente dotações para o AVG, devendo o respectivo conselho administrativo, em presença de tais dotações e das suas receitas próprias, elaborar os orçamentos privativo e suplementar das receitas próprias e das despesas necessárias.
+Art. 14.º O orçamento da Marinha consignará anualmente dotações para o AVG, devendo o respectivo conselho administrativo, em presença de tais dotações e das suas receitas próprias, elaborar os orçamentos privativo e suplementar das receitas próprias e das despesas necessárias.
 
-###### Art. 15.º Por conta das receitas do AVG, mediante autorização superior, poderão ser subsidiados trabalhos de investigação, de identificação e de catalogação de espécies pertencentes ao Aquário, bem como trabalhos relativos ao serviço educativo e de extensão cultural.
+Art. 15.º Por conta das receitas do AVG, mediante autorização superior, poderão ser subsidiados trabalhos de investigação, de identificação e de catalogação de espécies pertencentes ao Aquário, bem como trabalhos relativos ao serviço educativo e de extensão cultural.
 
-###### Art. 16.º O Regulamento do Aquário de Vasco da Gama será publicado por portaria do CEMA.
+Art. 16.º O Regulamento do Aquário de Vasco da Gama será publicado por portaria do CEMA.
 
-###### Art. 17.º Ficam revogados: Decretos-Leis n.os 38079, de 5 de Dezembro de 1950, e 217/72, de 27 de Junho, [Decreto n.º 135/71](https://diariodarepublica.pt/dr/detalhe/decreto/135-1971-445728), de 9 de Abril, e [Portaria n.º 207/71](https://diariodarepublica.pt/dr/detalhe/portaria/207-1971-444879), de 22 de Abril.
+Art. 17.º Ficam revogados: Decretos-Leis n.os 38079, de 5 de Dezembro de 1950, e 217/72, de 27 de Junho, [Decreto n.º 135/71](https://diariodarepublica.pt/dr/detalhe/decreto/135-1971-445728), de 9 de Abril, e [Portaria n.º 207/71](https://diariodarepublica.pt/dr/detalhe/portaria/207-1971-444879), de 22 de Abril.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 10 de Janeiro de 1976.**
+Promulgado em 10 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

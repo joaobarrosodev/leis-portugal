@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01600/01140116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1977-138165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92d19850c0d63622d3908f492b0b30ff3bcc1b8f10aa95cd74bf30af0ddf7c81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eaec33eeb936c49fcfbb62fe97e24fbdcefeb57c8574787a7f5637db701ebe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Estatuto
+- Transporte de Mercadorias
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:310611:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:34Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +111,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 5.º, 9.º, 10.º, 11.º, 14.º, 15.º e 16.º do anexo I ao [Decreto-Lei n.º 427-J/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-j-1976-310611), de 1 de Junho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 5.º, 9.º, 10.º, 11.º, 14.º, 15.º e 16.º do anexo I ao [Decreto-Lei n.º 427-J/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-j-1976-310611), de 1 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1. São órgãos da RN:
+Art. 5.º - 1. São órgãos da RN:
 
 a) O conselho geral;
 
@@ -111,7 +125,7 @@ c) A comissão de fiscalização.
 
 3. A intervenção dos trabalhadores no desenvolvimento e contrôle da actividade da empresa far-se-á por intermédio da representação daqueles no conselho geral e na comissão de fiscalização, sem prejuízo da criação de qualquer órgão especial ou instituição de outras formas de intervenção, em conformidade com a legislação aplicável sobre contrôle de gestão dos trabalhadores.
 
-###### Art. 9.º - 1. O conselho de gerência é composto pelo presidente e quatro vogais, nomeados por períodos de três anos, renováveis, pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos os trabalhadores da empresa.
+Art. 9.º - 1. O conselho de gerência é composto pelo presidente e quatro vogais, nomeados por períodos de três anos, renováveis, pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos os trabalhadores da empresa.
 
 2. Para efeitos de consulta aos trabalhadores, antes da proposta pelo Ministro dos Transportes e Comunicações ao Conselho de Ministros dos gestores a designar para o conselho de gerência, o Ministro da tutela ou o seu representante convocará os representantes dos trabalhadores, tendo estes um prazo de quinze dias para se pronunciarem.
 
@@ -121,7 +135,7 @@ c) A comissão de fiscalização.
 
 5. Os membros do conselho de gerência exercerão as suas funções em regime de tempo completo, sendo as mesmas incompatíveis com o desempenho de quaisquer actividades em outras empresas, salvo representação da RN em sociedades em que aquela participe.
 
-###### Art. 10.º - 1. Compete ao conselho de gerência o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património.
+Art. 10.º - 1. Compete ao conselho de gerência o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património.
 
 2. Compete, em especial, ao conselho de gerência:
 
@@ -153,7 +167,7 @@ m) Criar comissões executivas permanentes consideradas necessárias para a desc
 
 n) Apreciar as propostas dos directores da estrutura primária sobre as matérias que excedam a sua competência.
 
-###### Art. 11.º - 1. Compete ao presidente do conselho de gerência:
+Art. 11.º - 1. Compete ao presidente do conselho de gerência:
 
 a) Coordenar a gestão da empresa;
 
@@ -169,16 +183,16 @@ e) Exercer os poderes que o conselho de gerência nele tiver delegado.
 
 #### SECÇÃO IV — Comissões executivas
 
-###### Art. 14.º As comissões executivas permanentes a que se refere a alínea m) do artigo 10.º são constituídas pelo membro do conselho de gerência que preside e pelos directores para o efeito designados.
+Art. 14.º As comissões executivas permanentes a que se refere a alínea m) do artigo 10.º são constituídas pelo membro do conselho de gerência que preside e pelos directores para o efeito designados.
 
-###### Art. 15.º Compete às comissões executivas, além dos poderes de administração nelas delegados pelo conselho de gerência, tomar as medidas adequadas ao bom funcionamento da empresa dentro das respectivas áreas de actuação.
+Art. 15.º Compete às comissões executivas, além dos poderes de administração nelas delegados pelo conselho de gerência, tomar as medidas adequadas ao bom funcionamento da empresa dentro das respectivas áreas de actuação.
 
-###### Art. 16.º Compete aos presidentes das comissões executivas propor ao conselho de gerência todas as acções que excedam a sua jurisdição.
+Art. 16.º Compete aos presidentes das comissões executivas propor ao conselho de gerência todas as acções que excedam a sua jurisdição.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 6 de Janeiro de 1977.**
+Promulgado em 6 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

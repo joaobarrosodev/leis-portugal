@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1970-140861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14477da6bfce437339dec20b087b8af038c896af9a2b5ae447912aa212241a96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c452c8ff41dd24bc6078ffb66044f534bd3ca52ae53dc995a4c3b6c54382e3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direito de Importação
+- Importação
+- Indústria Electrotécnica
+- Inspecção Geral dos Produtos Agrícolas e Industriais
+- Isenção Fiscal
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:169968:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:58Z'
   warnings: []
   errors: []
 ---
@@ -85,14 +95,14 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. - 1. É prorrogado até 30 de Junho de 1970 o prazo de vigência do [Decreto-Lei n.º 43670](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43670-1961-169968), de 6 de Maio de 1961.
+Artigo único. - 1. É prorrogado até 30 de Junho de 1970 o prazo de vigência do [Decreto-Lei n.º 43670](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43670-1961-169968), de 6 de Maio de 1961.
 
 2. As importações a efectuar ao abrigo do presente decreto-lei carecem de parecer favorável da Inspecção-Geral dos Produtos Agrícolas e Industriais.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Junho de 1970.**
+Promulgado em 12 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Junho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

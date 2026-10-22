@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26600/27522755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1977-280540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22bb483770297fae8647090fee3cd80f6671277fdcaff81c080300684a5b2a85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9ffc96ab682bbd0044b92f8af73961b00ed3eaf6cba10158ca5a59c36d9ba1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão da Condição Feminina
+- Mulher
+- Orgânica
+- Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
   target: pt:dre:609645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469776:por
+  label: "Substituído o quadro de pessoal, pelo quadro IV anexo à PORT.547/80.1980.08.28.PCM DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1980-469776
+  date: '1980-08-28'
+- type: amended_by
+  target: pt:dre:462187:por
+  label: "Alterado o quadro de pessoal, pela PORT.795/80.1980.10.07.PCM, DR.IS [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/795-1980-462187
+  date: '1980-10-07'
+- type: amended_by
+  target: pt:dre:564178:por
+  label: "Alterado o quadro de pessoal, posteriormente alterado pela Port 795/80, de 07-Out, pela PORT.880/81.1981.10.02.PCM,\
+    \ DR.IS [227]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/880-1981-564178
+  date: '1981-10-02'
+- type: amended_by
+  target: pt:dre:326282:por
+  label: "Alterado o quadro de pessoal, pela PORT.128/85.1985.03.06.PCM, DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1985-326282
+  date: '1985-03-06'
+- type: amended_by
+  target: pt:dre:228459:por
+  label: "Alterados os nºs. 1 e 2 do art. 9º, pelo DEC LEI.159/86.1986.06.26.PCM, DR.IS [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1986-228459
+  date: '1986-06-26'
+- type: cites
+  target: pt:dre:159486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599972:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609645:por
+  label: "Revogado pelo DEC LEI.166/91.1991.05.09.PCM, DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1991-609645
+  date: '1991-05-09'
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:01Z'
   warnings: []
   errors: []
 ---
@@ -114,11 +157,11 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Comissão da Condição Feminina, adiante designada por Comissão, fica integrada na Presidência do Conselho de Ministros e na dependência do Primeiro-Ministro ou do membro do Governo em quem delegar.
+Artigo 1.º A Comissão da Condição Feminina, adiante designada por Comissão, fica integrada na Presidência do Conselho de Ministros e na dependência do Primeiro-Ministro ou do membro do Governo em quem delegar.
 
-###### Art. 2.º A Comissão tem por objectivo apoiar todas as formas de consciencialização das mulheres portuguesas e a eliminação das discriminações contra elas praticadas, em ordem à sua inserção no processo de transformação da sociedade portuguesa, de acordo com os princípios consignados na Constituição.
+Art. 2.º A Comissão tem por objectivo apoiar todas as formas de consciencialização das mulheres portuguesas e a eliminação das discriminações contra elas praticadas, em ordem à sua inserção no processo de transformação da sociedade portuguesa, de acordo com os princípios consignados na Constituição.
 
-###### Art. 3.º - 1 - São atribuições da Comissão:
+Art. 3.º - 1 - São atribuições da Comissão:
 
 a) Promover acções que levem as mulheres a tomar consciência das condições de discriminação a que estão sujeitas e a assumir uma intervenção directa para o progresso do seu estatuto
 
@@ -148,7 +191,7 @@ m) Cooperar com organizações governamentais e não governamentais de âmbito i
 
 ### CAPÍTULO II — Organização, competência e funcionamento
 
-###### Art. 4.º - 1 - São órgãos da Comissão:
+Art. 4.º - 1 - São órgãos da Comissão:
 
 a) O presidente;
 
@@ -158,11 +201,11 @@ c) O conselho consultivo.
 
 2 - O conselho consultivo é composto por duas secções:
 
-#### Secção interministerial;
+Secção interministerial;
 
-#### Secção de organizações não governamentais.
+Secção de organizações não governamentais.
 
-###### Art. 5.º - 1 - A Comissão disporá dos seguintes serviços:
+Art. 5.º - 1 - A Comissão disporá dos seguintes serviços:
 
 a) Serviços de estudos;
 
@@ -174,15 +217,15 @@ d) Serviços administrativos.
 
 2 - O presidente poderá determinar a constituição de grupos de trabalho transitórios mandatados para a execução de tarefas específicas.
 
-###### Art. 6.º - 1 - O presidente tem a categoria de director-geral e é nomeado pelo Primeiro-Ministro.
+Art. 6.º - 1 - O presidente tem a categoria de director-geral e é nomeado pelo Primeiro-Ministro.
 
 2 - Nas suas faltas e impedimentos será substituído pelo técnico que indicar ao Primeiro-Ministro.
 
 3 - Ao presidente compete orientar e coordenar superiormente a actividade da Comissão e convocar e presidir, com voto de qualidade, às reuniões do conselho de coordenação técnica e do conselho consultivo.
 
-###### Art. 7.º O conselho de coordenação técnica é constituído pelos assessores a que seja cometida a direcção dos serviços referidos nas alíneas a), b) e c) do artigo 5.º e por dois técnicos designados anualmente pelo presidente.
+Art. 7.º O conselho de coordenação técnica é constituído pelos assessores a que seja cometida a direcção dos serviços referidos nas alíneas a), b) e c) do artigo 5.º e por dois técnicos designados anualmente pelo presidente.
 
-###### Art. 8.º Compete ao conselho de coordenação técnica:
+Art. 8.º Compete ao conselho de coordenação técnica:
 
 a) Pronunciar-se sobre as prioridades de acção;
 
@@ -192,7 +235,7 @@ c) Elaborar o programa anual de actividades e coordenar a sua execução;
 
 d) Pronunciar-se sobre o projecto de orçamento anual da Comissão.
 
-###### Art. 9.º - 1 - A secção interministerial do conselho consultivo será integrada por representantes dos seguintes departamentos governativos:
+Art. 9.º - 1 - A secção interministerial do conselho consultivo será integrada por representantes dos seguintes departamentos governativos:
 
 a) Ministério da Administração Interna;
 
@@ -234,7 +277,7 @@ p) Secretaria de Estado da População e Emprego.
 
 6 - Poderão tomar parte nas reuniões do conselho consultivo ou das secções, sem direito a voto, a convite do presidente, individualidades de reconhecida competência nos assuntos da condição feminina.
 
-###### Art. 10.º - 1 - Compete à secção interministerial:
+Art. 10.º - 1 - Compete à secção interministerial:
 
 a) Assegurar a cooperação de todos os sectores da administração cuja actividade afecte a condição feminina:
 
@@ -256,29 +299,29 @@ d) Fazer recomendações sobre acções a empreender.
 
 3 - O conselho consultivo reúne em plenário ou por secções, podendo estas funcionar em grupos restritos.
 
-###### Art. 11.º Aos serviços de estudos compete efectuar, promover ou apoiar a investigação e os estudos necessários ao desempenho das atribuições da Comissão enumeradas no artigo 3.º
+Art. 11.º Aos serviços de estudos compete efectuar, promover ou apoiar a investigação e os estudos necessários ao desempenho das atribuições da Comissão enumeradas no artigo 3.º
 
-###### Art. 12.º Aos serviços de documentação e de informação compete assegurar a recolha e difusão, a nível nacional e internacional, de documentação e de informação relativas à condição feminina, no âmbito das atribuições definidas no artigo 3.º
+Art. 12.º Aos serviços de documentação e de informação compete assegurar a recolha e difusão, a nível nacional e internacional, de documentação e de informação relativas à condição feminina, no âmbito das atribuições definidas no artigo 3.º
 
-###### Art. 13.º Aos serviços de acção regional e de relações internacionais compete apoiar e coordenar as acções a desenvolver pela Comissão a nível regional, bem como os contactos a estabelecer com organizações internacionais e com organismos estrangeiros com objectivos semelhantes.
+Art. 13.º Aos serviços de acção regional e de relações internacionais compete apoiar e coordenar as acções a desenvolver pela Comissão a nível regional, bem como os contactos a estabelecer com organizações internacionais e com organismos estrangeiros com objectivos semelhantes.
 
-###### Art. 14.º Aos serviços administrativos compete assegurar o expediente geral e executar as tarefas administrativas indispensáveis ao funcionamento dos órgãos e serviços da Comissão.
+Art. 14.º Aos serviços administrativos compete assegurar o expediente geral e executar as tarefas administrativas indispensáveis ao funcionamento dos órgãos e serviços da Comissão.
 
-###### Art. 15.º A Comissão disporá regionalmente da organização necessária à realização das suas atribuições, que actuará através da cooperação com departamentos da administração central e local e com organizações não governamentais com implantação nas respectivas regiões.
+Art. 15.º A Comissão disporá regionalmente da organização necessária à realização das suas atribuições, que actuará através da cooperação com departamentos da administração central e local e com organizações não governamentais com implantação nas respectivas regiões.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 16.º A Comissão dispõe do pessoal constante do quadro anexo ao presente diploma, que dele faz parte integrante.
+Art. 16.º A Comissão dispõe do pessoal constante do quadro anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 17.º - 1 - O provimento do pessoal do quadro será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.
+Art. 17.º - 1 - O provimento do pessoal do quadro será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.
 
 2 - As nomeações terão carácter provisório durante um ano, findo o qual os funcionários serão providos definitivamente, se tiverem revelado aptidão para os lugares ou exonerados, no caso contrário.
 
-###### Art. 18.º - 1 - Se a nomeação para qualquer lugar do quadro da Comissão recair em funcionário público, poderá ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos, podendo converter-se em definitiva após um ano de serviço se o funcionário tiver entretanto revelado aptidão para o lugar e o Ministério de origem o autorizar.
+Art. 18.º - 1 - Se a nomeação para qualquer lugar do quadro da Comissão recair em funcionário público, poderá ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos, podendo converter-se em definitiva após um ano de serviço se o funcionário tiver entretanto revelado aptidão para o lugar e o Ministério de origem o autorizar.
 
 2 - O lugar do funcionário no quadro de origem será provido interinamente, só se abrindo vaga quando e se a nomeação em comissão de serviço vier a converter-se em definitiva na Comissão.
 
-###### Art. 19.º - 1 - O presidente da Comissão é nomeado, em comissão de serviço por tempo indeterminado, de entre individualidades de reconhecida competência nos assuntos respeitantes à condição das mulheres.
+Art. 19.º - 1 - O presidente da Comissão é nomeado, em comissão de serviço por tempo indeterminado, de entre individualidades de reconhecida competência nos assuntos respeitantes à condição das mulheres.
 
 2 - Os restantes lugares serão providos por despacho do Primeiro-Ministro, sob proposta do presidente, de harmonia com as seguintes regras:
 
@@ -304,13 +347,13 @@ j) Escriturários-dactilógrafos - por concurso de prestação de provas de entr
 
 l) Telefonista, motorista e contínuo - por escolha de entre indivíduos que tenham a habilitação mínima correspondente à escolaridade obrigatória.
 
-###### Art. 20.º - 1 - Poderá ser contratado além do quadro o pessoal indispensável para o desempenho de funções que não possam ser asseguradas pelo pessoal permanente.
+Art. 20.º - 1 - Poderá ser contratado além do quadro o pessoal indispensável para o desempenho de funções que não possam ser asseguradas pelo pessoal permanente.
 
 2 - A realização de estudos, inquéritos e outros trabalhos de carácter eventual, incluindo acções de formação, poderá ser confiada, mediante contrato de prestação de serviços, a entidades nacionais ou estrangeiros estranhas aos serviços.
 
 3 - O contrato de prestação de serviços será obrigatoriamente reduzido a escrito, dele constando o prazo, a remuneração, as condições de rescisão e a menção de que não confere em nenhum caso a qualidade de funcionário público.
 
-###### Art. 21.º - 1 - A Comissão poderá, mediante despacho do Primeiro-Ministro e com o acordo do Ministro respectivo, requisitar pessoal de outros departamentos ministeriais, a pagar por dotação especial para esse efeito inscrita no orçamento da Comissão.
+Art. 21.º - 1 - A Comissão poderá, mediante despacho do Primeiro-Ministro e com o acordo do Ministro respectivo, requisitar pessoal de outros departamentos ministeriais, a pagar por dotação especial para esse efeito inscrita no orçamento da Comissão.
 
 2 - As requisições efectuadas nos termos do número anterior dependerão do acordo do funcionário e, enquanto durar a requisição, o respectivo lugar poderá ser provido interinamente.
 
@@ -318,7 +361,7 @@ l) Telefonista, motorista e contínuo - por escolha de entre indivíduos que ten
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 22.º - 1 - O pessoal técnico, técnico auxiliar, administrativo e auxiliar que à data da entrada em vigor do presente diploma prestar serviço a qualquer título na Comissão será provido definitivamente em lugares do quadro anexo, mediante lista nominativa a aprovar pelo Primeiro-Ministro a publicar no Diário da República, sem dependência de qualquer formalidade, salvo o visto do Tribunal de Contas.
+Art. 22.º - 1 - O pessoal técnico, técnico auxiliar, administrativo e auxiliar que à data da entrada em vigor do presente diploma prestar serviço a qualquer título na Comissão será provido definitivamente em lugares do quadro anexo, mediante lista nominativa a aprovar pelo Primeiro-Ministro a publicar no Diário da República, sem dependência de qualquer formalidade, salvo o visto do Tribunal de Contas.
 
 2 - O pessoal integrado na mesma categoria não perde a antiguidade obtida nessa categoria.
 
@@ -326,22 +369,22 @@ l) Telefonista, motorista e contínuo - por escolha de entre indivíduos que ten
 
 4 - O pessoal referido no n.º 1 manter-se-á no exercício das suas funções com os direitos correspondentes até à publicação da lista nominativa.
 
-###### Art. 23.º Enquanto a definição e a organização das regiões não se encontrar estabelecida, a Comissão poderá dispor de delegados com o apoio necessário onde se afigure possível e conveniente.
+Art. 23.º Enquanto a definição e a organização das regiões não se encontrar estabelecida, a Comissão poderá dispor de delegados com o apoio necessário onde se afigure possível e conveniente.
 
-###### Art. 24.º As dúvidas que se suscitarem na aplicação deste diploma são resolvidas por despacho do Primeiro-Ministro.
+Art. 24.º As dúvidas que se suscitarem na aplicação deste diploma são resolvidas por despacho do Primeiro-Ministro.
 
-###### Art. 25.º Ficam revogados o [Decreto n.º 482/73](https://diariodarepublica.pt/dr/detalhe/decreto/482-1973-599972), de 27 de Setembro, e o [Decreto-Lei n.º 47/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1975-159486), de 1 de Fevereiro.
+Art. 25.º Ficam revogados o [Decreto n.º 482/73](https://diariodarepublica.pt/dr/detalhe/decreto/482-1973-599972), de 27 de Setembro, e o [Decreto-Lei n.º 47/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1975-159486), de 1 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Henrique Medina Carreira.
 
-**Promulgado em 4 de Novembro de 1977.**
+Promulgado em 4 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal a que se refere o artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/26600/27522755.pdf))](https://files.diariodarepublica.pt/1s/1977/11/26600/27522755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/26600/27522755.pdf)
 
-**O Ministro de Estado, Henrique Teixeira Queirós de Barros.**
+O Ministro de Estado, Henrique Teixeira Queirós de Barros.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/248-1971-644132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e9b1e8c9854a08efa59908d102a1c01325157f3c9963733427aee45d9b33dad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45e724cd00d63aeeea70cc202cacecd3a9104f571a9f7540af012c82b822de89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624417:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:45Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +109,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O registo tardio do nascimento, regulado no § 1.º do artigo 31.º do [Decreto n.º 40711](https://diariodarepublica.pt/dr/detalhe/decreto/40711-1956-232509), de 1 de Agosto de 1956, pode fazer-se em todo o ultramar, desde que o funcionário se certifique da veracidade da declaração, com intervenção de duas testemunhas idóneas que saibam e possam assinar o assento.
+Artigo 1.º O registo tardio do nascimento, regulado no § 1.º do artigo 31.º do [Decreto n.º 40711](https://diariodarepublica.pt/dr/detalhe/decreto/40711-1956-232509), de 1 de Agosto de 1956, pode fazer-se em todo o ultramar, desde que o funcionário se certifique da veracidade da declaração, com intervenção de duas testemunhas idóneas que saibam e possam assinar o assento.
 
-###### Art. 2.º - 1. A matrícula no ensino primário elementar da província de Cabo Verde não pode ser feita sem que se exiba e junte ao processo certidão do registo de nascimento do aluno a matricular.
+Art. 2.º - 1. A matrícula no ensino primário elementar da província de Cabo Verde não pode ser feita sem que se exiba e junte ao processo certidão do registo de nascimento do aluno a matricular.
 
 2. Sempre que se apresente à matrícula um candidato menor de 14 anos cujo nascimento não tenha ainda sido declarado e, por isso, não possa apresentar a respectiva certidão, deve o director da escola ou posto escolar convocar os pais do aluno a matricular, a fim de obter a declaração de nascimento, lavrando logo auto, isento de selo e do modelo anexo a este diploma, que depois lerá na presença dos declarantes e de duas testemunhas abonatórias da identidade dos declarantes e da veracidade das suas declarações, sendo assinado por todos e, a final, remetido à conservatória ou à delegação do registo civil da área, acompanhado da importância necessária à satisfação do emolumento devido.
 
@@ -105,35 +121,35 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5. Tendo mais de 14 anos o aluno a matricular ou a inscrever em cursos de ensino primário elementar, será ele próprio admitido a prestar a declaração de nascimento, observando-se, com as necessárias adaptações, o disposto nos n.os 2 e 3.
 
-###### Art. 3.º - 1. Para o estrito efeito referido no artigo anterior as direcções das escolas e postos escolares funcionam como postos de registo civil.
+Art. 3.º - 1. Para o estrito efeito referido no artigo anterior as direcções das escolas e postos escolares funcionam como postos de registo civil.
 
 2. As conservatórias e as delegações dos registos remeterão a todas as escolas impressos de autos para declaração de nascimento.
 
-###### Art. 4.º É revogado o artigo 124.º do Regulamento do Registo Civil para a província de Cabo Verde, aprovado pelo [Decreto n.º 170](https://diariodarepublica.pt/dr/detalhe/decreto/170-1913-624417), de 15 de Outubro de 1913, com a alteração que lhe foi introduzida pelo artigo 5.º do [Decreto n.º 2898](https://diariodarepublica.pt/dr/detalhe/decreto/2898-1916-261744), de 4 de Dezembro de 1916.
+Art. 4.º É revogado o artigo 124.º do Regulamento do Registo Civil para a província de Cabo Verde, aprovado pelo [Decreto n.º 170](https://diariodarepublica.pt/dr/detalhe/decreto/170-1913-624417), de 15 de Outubro de 1913, com a alteração que lhe foi introduzida pelo artigo 5.º do [Decreto n.º 2898](https://diariodarepublica.pt/dr/detalhe/decreto/2898-1916-261744), de 4 de Dezembro de 1916.
 
-###### Art. 5.º Por portaria provincial serão criadas, na província de Cabo Verde, com carácter temporário, brigadas itinerantes destinadas a coadjuvar os serviços de registo e identificação civil da população.
+Art. 5.º Por portaria provincial serão criadas, na província de Cabo Verde, com carácter temporário, brigadas itinerantes destinadas a coadjuvar os serviços de registo e identificação civil da população.
 
-###### Art. 6.º - 1. A acção das brigadas itinerantes a que se refere o artigo anterior terá por objecto específico processar o expediente necessário à realização dos registos de nascimento omissos e à emissão de cédulas pessoais e bilhetes de identidade de todas as pessoas residentes nas áreas territoriais em que forem sucessivamente operando.
+Art. 6.º - 1. A acção das brigadas itinerantes a que se refere o artigo anterior terá por objecto específico processar o expediente necessário à realização dos registos de nascimento omissos e à emissão de cédulas pessoais e bilhetes de identidade de todas as pessoas residentes nas áreas territoriais em que forem sucessivamente operando.
 
 2. Funcionam sob a direcção do conservador dos registos da área da comarca em que se encontram e dos serviços de administração civil da província.
 
 3. O diploma de criação de cada brigada poderá atribuir ao chefe respectivo, ouvido o conservador, atribuições e competência de oficial do registo civil.
 
-###### Art. 7.º Será assalariado, a título eventual, o pessoal necessário à composição das brigadas.
+Art. 7.º Será assalariado, a título eventual, o pessoal necessário à composição das brigadas.
 
-###### Art. 8.º Cada posto administrativo situado na área da Conservatória do Registo Civil da província da Guiné é elevado à categoria de delegação do registo civil, passando o respectivo administrador a exercer as funções de oficial do registo civil e restringindo-se a competência territorial dos concelhos à área do posto sede.
+Art. 8.º Cada posto administrativo situado na área da Conservatória do Registo Civil da província da Guiné é elevado à categoria de delegação do registo civil, passando o respectivo administrador a exercer as funções de oficial do registo civil e restringindo-se a competência territorial dos concelhos à área do posto sede.
 
-###### Art. 9.º Os Governos das províncias de Cabo Verde e da Guiné poderão, por portaria, de acordo com as necessidades e incremento que o registo e identificação civil forem tendo, isentar das taxas respectivas os actos de registo e identificação civil relativos aos seus naturais, por períodos anuais renováveis.
+Art. 9.º Os Governos das províncias de Cabo Verde e da Guiné poderão, por portaria, de acordo com as necessidades e incremento que o registo e identificação civil forem tendo, isentar das taxas respectivas os actos de registo e identificação civil relativos aos seus naturais, por períodos anuais renováveis.
 
-###### Art. 10.º É tornado extensivo ao ultramar o artigo 697.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962.
+Art. 10.º É tornado extensivo ao ultramar o artigo 697.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Maio de 1971.**
+Promulgado em 22 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -175,4 +191,4 @@ E para constar se lavrou este auto, que, depois de lido em voz alta perante todo
 
 (nota e) Nome do funcionário que o subscreve.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/526-1971-631825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1692fb098930c1311a0d0097d240b93b8d68f3a3593ef00813e3fd83f9692816
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 016ff0767b22660439a6141866e716b2f7764db476d6e68fc4c24108cefc823b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501628:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:14Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS HIDRÁULICOS DAS PROVÍNCIAS DE ANGOLA E MOÇAMB
 
 #### SECÇÃO I — Dos fins e atribuições
 
-###### Artigo 1.º As Direcções Provinciais dos Serviços Hidráulicos de Angola e Moçambique, adiante designadas abreviadamente por D. S. H., criadas pelo [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628), de 17 de Janeiro de 1967, têm como objecto fundamental a promoção geral de tudo quanto respeita à boa utilização dos recursos hidráulicos das províncias respectivas e, em especial:
+Artigo 1.º As Direcções Provinciais dos Serviços Hidráulicos de Angola e Moçambique, adiante designadas abreviadamente por D. S. H., criadas pelo [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628), de 17 de Janeiro de 1967, têm como objecto fundamental a promoção geral de tudo quanto respeita à boa utilização dos recursos hidráulicos das províncias respectivas e, em especial:
 
 a) Fazer cumprir a legislação em vigor sobre hidráulica e, bem assim, propor ao Governo as alterações que nela se julgue conveniente introduzir;
 
@@ -137,17 +145,17 @@ p) Criar cursos de preparação e selecção de hidrometristas e outros elemento
 
 q) Representar a província na metrópole ou no estrangeiro, em reuniões que respeitem ao seu campo de acção.
 
-###### Art. 2.º - 1. As D. S. H. receberão apoio técnico da Direcção dos Serviços Hidráulicos da Direcção-Geral de Obras Públicas e Comunicações, do Ministério do Ultramar.
+Art. 2.º - 1. As D. S. H. receberão apoio técnico da Direcção dos Serviços Hidráulicos da Direcção-Geral de Obras Públicas e Comunicações, do Ministério do Ultramar.
 
 2. A encomenda de projectos específicos a empresas especializadas privadas, quando a sua importância o justifique, será feita de acordo com aquela Direcção-Geral.
 
 #### SECÇÃO II — Da orgânica geral
 
-###### Art. 3.º As D. S. H. para integral cumprimento das suas missões e cobertura técnica dos territórios das respectivas províncias, dispõem de serviços centrais e serviços regionais.
+Art. 3.º As D. S. H. para integral cumprimento das suas missões e cobertura técnica dos territórios das respectivas províncias, dispõem de serviços centrais e serviços regionais.
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 4.º - 1. Cada uma das D. S. H. compreende três repartições técnicas e uma administrativa:
+Art. 4.º - 1. Cada uma das D. S. H. compreende três repartições técnicas e uma administrativa:
 
 1.ª Repartição (Estudos Hidrológicos);
 
@@ -173,11 +181,11 @@ Aquisições e Património.
 
 6. Fica autorizado o Governo-Geral a colocar na sede dos serviços, mediante despacho, sob proposta da Direcção, pelo tempo que for julgado conveniente, os engenheiros-chefes e o pessoal destinado às repartições regionais, podendo distribuir, por eles e pelo contencioso, parte das atribuições das repartições centrais e das regionais para, deste modo, obter a melhor produtividade do pessoal ao serviço.
 
-###### Art. 5.º Poderão ser criadas nas direcções provinciais, observadas as disposições legais, brigadas de estudo, de execução e de fiscalização de obras, assim como grupos de trabalho, estes com a possibilidade de integrar também elementos pertencentes ao Ministério, mediante despacho de concordância do Ministro do Ultramar.
+Art. 5.º Poderão ser criadas nas direcções provinciais, observadas as disposições legais, brigadas de estudo, de execução e de fiscalização de obras, assim como grupos de trabalho, estes com a possibilidade de integrar também elementos pertencentes ao Ministério, mediante despacho de concordância do Ministro do Ultramar.
 
 #### SECÇÃO IV — Dos serviços regionais
 
-###### Art. 6.º - 1. Os serviços regionais são, essencialmente, órgãos de execução e de vigilância, constituídos pelas repartições regionais, a criar por diplomas provinciais, para actuarem em zonas a definir naqueles diplomas, sob a autoridade técnica e administrativa das direcções provinciais.
+Art. 6.º - 1. Os serviços regionais são, essencialmente, órgãos de execução e de vigilância, constituídos pelas repartições regionais, a criar por diplomas provinciais, para actuarem em zonas a definir naqueles diplomas, sob a autoridade técnica e administrativa das direcções provinciais.
 
 2. Cada repartição regional subdividir-se-á em secções, a criar conforme as necessidades do serviço.
 
@@ -191,7 +199,7 @@ Aquisições e Património.
 
 #### SECÇÃO I — Da inspecção provincial
 
-###### Art. 7.º Ao inspector provincial dos serviços hidráulicos, sob a imediata superintendência do Governo-Geral, compete:
+Art. 7.º Ao inspector provincial dos serviços hidráulicos, sob a imediata superintendência do Governo-Geral, compete:
 
 a) Fazer inspecções aos departamentos das D. S. H. que tenham sido determinadas pelo governador-geral;
 
@@ -205,9 +213,9 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 #### SECÇÃO II — Da direcção provincial
 
-###### Art. 8.º Compete ao director dos serviços orientar os serviços, coadjuvado pelo subdirector, competindo a cada um deles o que consta dos artigos seguintes.
+Art. 8.º Compete ao director dos serviços orientar os serviços, coadjuvado pelo subdirector, competindo a cada um deles o que consta dos artigos seguintes.
 
-###### Art. 9.º O director provincial, sob a imediata superintendência do governador-geral, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários departamentos dos serviços e entre estes e o público, com vista à eficiente e económica realização dos seus fins, competindo-lhe designadamente:
+Art. 9.º O director provincial, sob a imediata superintendência do governador-geral, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários departamentos dos serviços e entre estes e o público, com vista à eficiente e económica realização dos seus fins, competindo-lhe designadamente:
 
 a) Dirigir e orientar todas as actividades dos serviços para a integral execução das missões que lhes estão confiadas, fazendo cumprir as leis, regulamentos e instruções em vigor;
 
@@ -247,7 +255,7 @@ s) Louvar em ordem de serviço ou propor superiormente o louvor dos funcionário
 
 t) Apresentar ao Governo da província, até 30 de Junho de cada ano, o relatório da actividade dos serviços do ano anterior.
 
-###### Art. 10.º Ao subdirector dos serviços compete:
+Art. 10.º Ao subdirector dos serviços compete:
 
 a) Coadjuvar o director dos serviços na execução de todas as funções atribuídas à Direcção;
 
@@ -259,7 +267,7 @@ d) Estudar, informar e preparar todos os processos e assuntos que lhe sejam dist
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 11.º À 1.ª Repartição (Estudos Hidrológicos), chefiada por um engenheiro-chefe, civil ou geógrafo, incumbe:
+Art. 11.º À 1.ª Repartição (Estudos Hidrológicos), chefiada por um engenheiro-chefe, civil ou geógrafo, incumbe:
 
 a) Garantir a ocupação hidrológica das bacias hidrográficas;
 
@@ -277,7 +285,7 @@ g) Organizar e manter em dia os seus arquivos, incluindo o de originais de desen
 
 h) Tratar do expediente relativo a todos os assuntos da Repartição, instruindo e informando os que devam ser submetidos a apreciação superior.
 
-###### Art. 12.º À 2.ª Repartição (Estudos Agronómicos e Económico-Sociais), chefiada por um engenheiro-chefe agrónomo, incumbe:
+Art. 12.º À 2.ª Repartição (Estudos Agronómicos e Económico-Sociais), chefiada por um engenheiro-chefe agrónomo, incumbe:
 
 a) Proceder aos estudos dos solos e aos respeitantes à aptidão ao regadio ou promover a sua execução pelos organismos competentes;
 
@@ -303,7 +311,7 @@ l) Organizar e manter em dia os seus arquivos, incluindo o de originais de desen
 
 m) Tratar do expediente relativo a todos os assuntos da Repartição, instruindo e informando os que devam ser submetidos a apreciação superior.
 
-###### Art. 13.º À 3.ª Repartição (Estudos e Construção), chefiada por um engenheiro-chefe civil, incumbe:
+Art. 13.º À 3.ª Repartição (Estudos e Construção), chefiada por um engenheiro-chefe civil, incumbe:
 
 a) Reunir os dados de base para a elaboração dos esquemas ou planos gerais de aproveitamento das bacias hidrográficas;
 
@@ -325,7 +333,7 @@ i) Organizar e manter em dia os seus arquivos, incluindo o de originais de desen
 
 j) Tratar do expediente relativo a todos os assuntos da Repartição, instruindo e informando os que devam ser submetidos a apreciação superior.
 
-###### Art. 14.º - 1. À 4.ª Repartição (Administração Central), chefiada por um funcionário de curso universitário e formação profissional adequada ao exercício do cargo, incumbe assegurar o funcionamento dos diversos sectores dos serviços, no que diz respeito aos assuntos de pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
+Art. 14.º - 1. À 4.ª Repartição (Administração Central), chefiada por um funcionário de curso universitário e formação profissional adequada ao exercício do cargo, incumbe assegurar o funcionamento dos diversos sectores dos serviços, no que diz respeito aos assuntos de pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
 
 2. À Secretaria Central incumbe:
 
@@ -383,13 +391,13 @@ d) Armazenar e conservar o material de escritório e expediente a utilizar pelos
 
 e) Adquirir, dentro das formalidades legais, todos os materiais indispensáveis ao funcionamento dos serviços centrais ou dos serviços regionais, quando estes o solicitarem.
 
-###### Art. 15.º Ao Contencioso, a cargo de um licenciado em Direito, incumbe:
+Art. 15.º Ao Contencioso, a cargo de um licenciado em Direito, incumbe:
 
 a) Estudar e informar os assuntos de natureza jurídica respeitantes às actividades dos serviços, especialmente no que se refere ao regime jurídico do aproveitamento de águas correntes e da utilização de águas públicas;
 
 b) Coligir e anotar a legislação respeitante à jurisdição dos serviços e respectiva jurisprudência, propondo a necessária regulamentação.
 
-###### Art. 16.º À Biblioteca incumbe:
+Art. 16.º À Biblioteca incumbe:
 
 a) Receber tudo o que interessar à documentação do sector hidráulico e à normalização dos seus processos de actuação técnica, com vista, logo que possível, à publicação de um boletim privativo;
 
@@ -399,7 +407,7 @@ c) Manter arquivos fotográficos, cinematográficos, registos magnetofónicos, e
 
 #### SECÇÃO IV — Dos serviços regionais
 
-###### Art. 17.º A cada repartição regional, chefiada por um engenheiro-chefe civil, incumbe:
+Art. 17.º A cada repartição regional, chefiada por um engenheiro-chefe civil, incumbe:
 
 a) Assegurar a execução das disposições legais, aplicáveis à área da sua jurisdição, sobre os aproveitamentos de águas correntes e utilização das águas públicas;
 
@@ -425,11 +433,11 @@ l) Tratar do expediente e contabilidade relativos a todos os assuntos da reparti
 
 #### SECÇÃO V — Dos grupos de trabalho e brigadas
 
-###### Art. 18.º Incumbe aos grupos de trabalho e brigadas previstos no artigo 5.º deste diploma a execução dos trabalhos e estudos que lhes forem confiados, de harmonia com os respectivos programas.
+Art. 18.º Incumbe aos grupos de trabalho e brigadas previstos no artigo 5.º deste diploma a execução dos trabalhos e estudos que lhes forem confiados, de harmonia com os respectivos programas.
 
 ### CAPÍTULO III — Dos empreendimentos hidráulicos
 
-###### Art. 19.º - 1 Para os fins gerais que se contêm neste diploma, os aproveitamentos hidráulicos serão classificados como se segue:
+Art. 19.º - 1 Para os fins gerais que se contêm neste diploma, os aproveitamentos hidráulicos serão classificados como se segue:
 
 a) De finalidades tìpicamente agrícolas (abrangendo também os sectores florestal e pecuário e ainda a pesca em águas interiores):
 
@@ -443,7 +451,7 @@ c) De finalidades múltiplas.
 
 2. Se um esquema classificado de tìpicamente hidráulico e/ou hidroeléctrico tiver implicações consideráveis de outro carácter, poderá ser solicitado o parecer do Conselho Técnico de Obras Públicas sobre a classificação apresentada.
 
-###### Art. 20.º - 1. Com base na classificação geral do artigo anterior, para efeitos de execução dos respectivos empreendimentos, a escolha dos organismos obedecerá ao seguinte critério:
+Art. 20.º - 1. Com base na classificação geral do artigo anterior, para efeitos de execução dos respectivos empreendimentos, a escolha dos organismos obedecerá ao seguinte critério:
 
 a) Para os aproveitamentos de finalidade tìpicamente agrícola:
 
@@ -465,7 +473,7 @@ c) Para os aproveitamentos de finalidades múltiplas, a Direcção Provincial do
 
 3. Os empreendimentos hidroagrícolas de maior importância programados pelos organismos referidos no n.º 1 deste artigo deverão ser conduzidos através da D. S. H., que os estudará e executará, sendo, para tal, postos à sua disposição os meios financeiros necessários.
 
-###### Art. 21.º No caso de empreendimentos de finalidades múltiplas:
+Art. 21.º No caso de empreendimentos de finalidades múltiplas:
 
 a) O governador-geral determinará que os respectivos serviços interessados prestem plena cooperação, através dos seus organismos especializados, com a brevidade que se torne necessária, à apreciação e concretização dos objectivos florestais, agrícolas, pecuários e industriais;
 
@@ -475,7 +483,7 @@ b) Os esquemas ou planos gerais, depois de apreciados pelo Conselho Técnico de 
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 22.º - 1. O pessoal dos serviços hidráulicos é classificado pela seguinte forma:
+Art. 22.º - 1. O pessoal dos serviços hidráulicos é classificado pela seguinte forma:
 
 a) Pessoal técnico superior;
 
@@ -505,7 +513,7 @@ f) Pessoal operário e serventuário.
 
 9. O mesmo pessoal poderá ainda ser pessoal de carácter permanente ou de carácter eventual.
 
-###### Art. 23.º - 1. O pessoal dos serviços hidráulicos distribui-se pelos seguintes quadros:
+Art. 23.º - 1. O pessoal dos serviços hidráulicos distribui-se pelos seguintes quadros:
 
 a) Quadro comum;
 
@@ -519,9 +527,9 @@ c) Quadro complementar.
 
 4. Os lugares constantes dos diferentes quadros serão preenchidos à medida do desenvolvimento dos serviços e das disponibilidades existentes.
 
-###### Art. 24.º Além do pessoal previsto nos artigos anteriores, poderá ser contratado ou assalariado, nos termos legais, o pessoal que as necessidades de serviço exigirem, dentro das disponibilidades orçamentais existentes.
+Art. 24.º Além do pessoal previsto nos artigos anteriores, poderá ser contratado ou assalariado, nos termos legais, o pessoal que as necessidades de serviço exigirem, dentro das disponibilidades orçamentais existentes.
 
-###### Art. 25.º - 1. O quadro complementar destina-se a completar a acção dos serviços, tem carácter temporário, será preenchido segundo as necessidades e com recurso às disponibilidades orçamentais extraordinárias, incluindo as dos planos de fomento.
+Art. 25.º - 1. O quadro complementar destina-se a completar a acção dos serviços, tem carácter temporário, será preenchido segundo as necessidades e com recurso às disponibilidades orçamentais extraordinárias, incluindo as dos planos de fomento.
 
 2. As vagas de lugares de pessoal técnico auxiliar que venham a verificar-se no quadro do pessoal privativo poderão ser preenchidas, se assim convier ao serviço, pelos contratados de igual ou equivalente categoria pertencentes ao quadro complementar e que transitaram dos organismos e sectores de estudo extintos com a criação das D. S. H. de Angola e Moçambique, referidos nos artigos 3.º, 4.º e 5.º do [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628), sem mais formalidades, incluindo o visto do Tribunal Administrativo, por despacho do governador-geral, publicado no Boletim Oficial, desde que assim o requeiram e possuam boas informações de serviço.
 
@@ -531,15 +539,15 @@ c) Quadro complementar.
 
 A) Quadro comum do pessoal
 
-###### Art. 26.º - 1. O quadro comum do pessoal técnico superior compreenderá os engenheiros, geólogos, matemáticos e economistas com o número de unidades e distribuição constantes do mapa I anexo a este diploma.
+Art. 26.º - 1. O quadro comum do pessoal técnico superior compreenderá os engenheiros, geólogos, matemáticos e economistas com o número de unidades e distribuição constantes do mapa I anexo a este diploma.
 
 2. São desempenhados por engenheiros civis, com a categoria de engenheiro director, os cargos de inspector provincial, director dos serviços e subdirector dos serviços; por engenheiros civis, com a categoria de engenheiro-chefe, os cargos de chefes da 1.ª e da 3.ª Repartições dos Serviços Centrais, e de chefe da Repartição dos Serviços Regionais; por engenheiros agrónomos, com a categoria de engenheiro-chefe, o cargo de chefe da 2.ª Repartição dos Serviços Centrais.
 
 3. O cargo de chefe da 1.ª Repartição dos Serviços Centrais pode também ser desempenhado por engenheiros geógrafos com a categoria de engenheiro-chefe.
 
-###### Art. 27.º As nomeações para os lugares do quadro comum são da competência do Ministro do Ultramar e o preenchimento dos restantes lugares é feito pelo governador-geral, sob proposta do director dos serviços.
+Art. 27.º As nomeações para os lugares do quadro comum são da competência do Ministro do Ultramar e o preenchimento dos restantes lugares é feito pelo governador-geral, sob proposta do director dos serviços.
 
-###### Art. 28.º - 1. A entrada no quadro comum do pessoal referido no artigo 26.º faz-se pela categoria de adjunto, mediante concurso documental aberto no Ministério do Ultramar entre os que se mostrem habilitados com o correspondente curso superior.
+Art. 28.º - 1. A entrada no quadro comum do pessoal referido no artigo 26.º faz-se pela categoria de adjunto, mediante concurso documental aberto no Ministério do Ultramar entre os que se mostrem habilitados com o correspondente curso superior.
 
 2. As vagas de técnico de 1.ª classe são providas por meio de promoção dos adjuntos, depois de três anos de serviço nesta classe com boas informações e através de concurso documental.
 
@@ -549,11 +557,11 @@ A) Quadro comum do pessoal
 
 5. No caso de não haver candidatos aos concursos para lugares de ingresso, poderão ser admitidos, sem concurso, os técnicos com as habilitações exigidas para o lugar e curriculum vitae com interesse para os serviços.
 
-###### Art. 29.º O provimento das vagas na categoria de engenheiro director é feito, em regra, por escolha entre os engenheiros-chefes com, pelo menos, cinco anos de serviço nesta categoria.
+Art. 29.º O provimento das vagas na categoria de engenheiro director é feito, em regra, por escolha entre os engenheiros-chefes com, pelo menos, cinco anos de serviço nesta categoria.
 
-###### Art. 30.º Qualquer dos técnicos com o curso superior que obtenha especialização que interesse aos serviços em escolas ou organismos acreditados para o efeito, ou através de trabalhos de mérito comprovado, nos ramos que ao serviço interessarem, adquirirá o direito à remuneração diferencial de especialização, nos termos do artigo 37.º
+Art. 30.º Qualquer dos técnicos com o curso superior que obtenha especialização que interesse aos serviços em escolas ou organismos acreditados para o efeito, ou através de trabalhos de mérito comprovado, nos ramos que ao serviço interessarem, adquirirá o direito à remuneração diferencial de especialização, nos termos do artigo 37.º
 
-###### Art. 31.º O provimento dos restantes lugares do quadro comum obedecerá às seguintes regras:
+Art. 31.º O provimento dos restantes lugares do quadro comum obedecerá às seguintes regras:
 
 a) Chefe da Repartição de Administração Central - em comissão ou por nomeação de diplomados com o curso universitário adequado ao exercício das funções, com boas informações em cargos anteriores;
 
@@ -565,7 +573,7 @@ d) Adjunto técnico de 2.ª classe - por concurso documental entre diplomados pe
 
 B) Quadro do pessoal privativo
 
-###### Art. 32.º - 1. O preenchimento dos lugares vagos do quadro privativo e os que resultarem do aumento das unidades, em consequência deste diploma, será feito mediante concurso de provas práticas, a que poderá concorrer o pessoal com experiência hidráulica, contratado ou assalariado, que transitou dos organismos mencionados nos artigos 3.º, 4.º e 5.º do [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628), independentemente da idade, habilitações e de forma de provimento, e desde que não tenha beneficiado das disposições dos artigos 39.º e 40.º do mesmo decreto.
+Art. 32.º - 1. O preenchimento dos lugares vagos do quadro privativo e os que resultarem do aumento das unidades, em consequência deste diploma, será feito mediante concurso de provas práticas, a que poderá concorrer o pessoal com experiência hidráulica, contratado ou assalariado, que transitou dos organismos mencionados nos artigos 3.º, 4.º e 5.º do [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628), independentemente da idade, habilitações e de forma de provimento, e desde que não tenha beneficiado das disposições dos artigos 39.º e 40.º do mesmo decreto.
 
 2. Os técnicos que transitaram para a D. S. H. com a designação que tinham no organismo de origem, mas que tenham baixado de categoria, poderão ocupar vagas de categoria imediatamente superior, mediante despacho do governador-geral, publicado no Boletim Oficial, se tiverem demonstrado, durante o tempo de serviço prestado nas D. S. H., merecimento para a promoção.
 
@@ -573,7 +581,7 @@ B) Quadro do pessoal privativo
 
 C) Quadros complementares
 
-###### Art. 33.º - 1. Os quadros complementares das D. S. H. compreendem os funcionários eventuais dos serviços hidráulicos e o pessoal das suas brigadas com carácter temporário.
+Art. 33.º - 1. Os quadros complementares das D. S. H. compreendem os funcionários eventuais dos serviços hidráulicos e o pessoal das suas brigadas com carácter temporário.
 
 2. As categorias dos lugares dos quadros complementares são equiparadas, em regra, às do pessoal do quadro comum e do quadro privativo anteriormente definidos.
 
@@ -581,7 +589,7 @@ C) Quadros complementares
 
 D) Quadro do pessoal operário e serventuário
 
-###### Art. 34.º - 1. O pessoal operário e serventuário dos serviços hidráulicos será pago por verbas globais.
+Art. 34.º - 1. O pessoal operário e serventuário dos serviços hidráulicos será pago por verbas globais.
 
 2. O recrutamento do pessoal assalariado de carácter permanente será feito por escolha do governador-geral entre os propostos para o efeito pelo director dos serviços.
 
@@ -589,11 +597,11 @@ D) Quadro do pessoal operário e serventuário
 
 #### SECÇÃO III — Dos vencimentos e remunerações
 
-###### Art. 35.º - 1. O pessoal dos serviços hidráulicos perceberá os vencimentos, subsídios e mais abonos estabelecidos pela legislação em vigor.
+Art. 35.º - 1. O pessoal dos serviços hidráulicos perceberá os vencimentos, subsídios e mais abonos estabelecidos pela legislação em vigor.
 
 2. Os subsídios diários e as gratificações mensais a que os funcionários tenham direito pelo presente decreto serão abonados em todas as situações em que estes tenham direito à percepção do vencimento base e complementar.
 
-###### Art. 36.º Ao pessoal técnico das D. S. H. são atribuídas as seguintes gratificações mensais:
+Art. 36.º Ao pessoal técnico das D. S. H. são atribuídas as seguintes gratificações mensais:
 
 Inspector provincial e director de serviços ... 3000$00
 
@@ -605,7 +613,7 @@ Técnicos com curso superior nas condições discriminadas no artigo 31.º ... 1
 
 Chefes das delegações das repartições regionais e dos sectores regionais ... 750$00
 
-###### Art. 37.º - 1. Além das gratificações indicadas no artigo 36.º, são fixados cumulativamente os seguintes quantitativos do subsídio diário, a abonar ao pessoal técnico da D.S.H.:
+Art. 37.º - 1. Além das gratificações indicadas no artigo 36.º, são fixados cumulativamente os seguintes quantitativos do subsídio diário, a abonar ao pessoal técnico da D.S.H.:
 
 Pessoal técnico com curso superior - 70$00 a 180$00.
 
@@ -617,7 +625,7 @@ Outro pessoal técnico - 20$00 a 50$00.
 
 2. O abono de subsídio diário acarreta a proibição de qualquer actividade particular.
 
-###### Art. 38.º Ao pessoal administrativo serão abonadas as seguintes gratificações mensais:
+Art. 38.º Ao pessoal administrativo serão abonadas as seguintes gratificações mensais:
 
 Chefe da Repartição de Administração Central ... 1500$00
 
@@ -633,21 +641,21 @@ Funcionários de categoria não superior à do grupo L, quando exerçam funçõe
 
 Contínuo designado pelo director para chefia do pessoal menor ... 200$00
 
-###### Art. 39.º Para além das gratificações a que se referem os artigos anteriores, ao director e a cada um dos professores da escola de técnicos auxiliares de hidráulica será abonada a gratificação mensal de 1000$00, sendo 600$00 e 500$00 mensais a gratificação a abonar, respectivamente, aos instrutores e ao secretário da mesma escola.
+Art. 39.º Para além das gratificações a que se referem os artigos anteriores, ao director e a cada um dos professores da escola de técnicos auxiliares de hidráulica será abonada a gratificação mensal de 1000$00, sendo 600$00 e 500$00 mensais a gratificação a abonar, respectivamente, aos instrutores e ao secretário da mesma escola.
 
 ### CAPÍTULO V — Da preparação técnica e aperfeiçoamento de pessoal e intercâmbio dos serviços
 
-#### SECÇAO I
+SECÇAO I
 
 Dos cursos de aperfeiçoamento ou de especialização
 
-###### Art. 40.º O pessoal com mais de quatro anos de actividade nos serviços e com boas informações anuais poderá, sob proposta dos directores provinciais, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou a realizar estágios na província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
+Art. 40.º O pessoal com mais de quatro anos de actividade nos serviços e com boas informações anuais poderá, sob proposta dos directores provinciais, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou a realizar estágios na província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
 
-###### Art. 41.º Sob proposta das D. S. H., poderão ser organizados colóquios de informação técnica ou científica das respectivas actividades, para os quais poderão ser convidados especialistas nacionais ou estrangeiros de reconhecida competência.
+Art. 41.º Sob proposta das D. S. H., poderão ser organizados colóquios de informação técnica ou científica das respectivas actividades, para os quais poderão ser convidados especialistas nacionais ou estrangeiros de reconhecida competência.
 
 #### SECÇÃO II — Da escola de técnicos auxiliares
 
-###### Art. 42.º - 1. Os serviços procurarão preparar o seu pessoal técnico auxiliar das diferentes categorias de acordo com as respectivas exigências.
+Art. 42.º - 1. Os serviços procurarão preparar o seu pessoal técnico auxiliar das diferentes categorias de acordo com as respectivas exigências.
 
 2. Esta preparação poderá ser extensiva a indivíduos estranhos aos serviços, e, neste caso, deverão ser organizados cursos para a formação de hidrometristas, auxiliares técnicos para trabalhos hidráulicos e outros, os quais serão regulamentados em cada província e ministrados na escola de técnicos auxiliares de hidráulica.
 
@@ -659,15 +667,15 @@ Dos cursos de aperfeiçoamento ou de especialização
 
 #### SECÇÃO III — Das publicações
 
-###### Art. 43.º - 1. Os serviços hidráulicos poderão promover a publicação de um boletim para a divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos, no âmbito das suas actividades, efectuados por outras entidades oficiais ou particulares.
+Art. 43.º - 1. Os serviços hidráulicos poderão promover a publicação de um boletim para a divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos, no âmbito das suas actividades, efectuados por outras entidades oficiais ou particulares.
 
 2. Poderão também publicar, independentemente do boletim, quaisquer estudos e trabalhos de assinalado interesse técnico e científico que seja útil divulgar, efectuados ou custeados pelos serviços hidráulicos.
 
-###### Art. 44.º Fica autorizado o governador-geral da província a criar e regulamentar um fundo destinado a custear as publicações dos serviços.
+Art. 44.º Fica autorizado o governador-geral da província a criar e regulamentar um fundo destinado a custear as publicações dos serviços.
 
 ### CAPÍTULO VI — Das disposições gerais e transitórias
 
-###### Art. 45.º Ao Conselho Técnico de Obras Públicas, além do referido no artigo 45.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), no que se refere aos assuntos das D. S. H., incumbe:
+Art. 45.º Ao Conselho Técnico de Obras Públicas, além do referido no artigo 45.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), no que se refere aos assuntos das D. S. H., incumbe:
 
 a) Apreciar os esquemas ou planos gerais de aproveitamento dos recursos hidráulicos das bacias hidrográficas, com vista a serem aprovados pelo Ministro do Ultramar;
 
@@ -681,27 +689,27 @@ Sobre a fixação do organismo explorador;
 
 c) Apreciar o projecto de ocupação hidrológica para o ano seguinte, tendo em atenção as bacias hidrográficas prioritárias superiormente definidas.
 
-###### Art. 46.º A D. S. H. concentrará nos seus arquivos os dados hidrológicos colhidos na província e ainda as características principais de todas as obras hidráulicas nela executadas, devendo, para esse efeito, os restantes organismos e entidades privadas, desde que concessionárias, enviar obrigatòriamente cópia dos seus dados no mais curto prazo possível.
+Art. 46.º A D. S. H. concentrará nos seus arquivos os dados hidrológicos colhidos na província e ainda as características principais de todas as obras hidráulicas nela executadas, devendo, para esse efeito, os restantes organismos e entidades privadas, desde que concessionárias, enviar obrigatòriamente cópia dos seus dados no mais curto prazo possível.
 
-###### Art. 47.º São exactores de Fazenda:
+Art. 47.º São exactores de Fazenda:
 
 a) O chefe da Repartição de Administração Central;
 
 b) Os chefes das repartições regionais.
 
-###### Art. 45.º São responsáveis por carga:
+Art. 45.º São responsáveis por carga:
 
 a) O chefe da 4.ª Repartição (Administração Central) e o chefe de Aquisições e Património;
 
 b) Os chefes de secção das repartições regionais.
 
-###### Art. 49.º Serão extensivas às D. S. H. de Angola e Moçambique as disposições aplicáveis do Decreto n.º 49466, de 28 de Novembro de 1969, referentes ao Serviço de Contabilidade e Administração de Fazenda de Obras Públicas.
+Art. 49.º Serão extensivas às D. S. H. de Angola e Moçambique as disposições aplicáveis do Decreto n.º 49466, de 28 de Novembro de 1969, referentes ao Serviço de Contabilidade e Administração de Fazenda de Obras Públicas.
 
-###### Art. 50.º No prazo de noventa dias, a partir da entrada em vigor do presente diploma em cada província, deve ser submetido à aprovação do governador-geral o projecto de regulamento necessário à sua execução.
+Art. 50.º No prazo de noventa dias, a partir da entrada em vigor do presente diploma em cada província, deve ser submetido à aprovação do governador-geral o projecto de regulamento necessário à sua execução.
 
-###### Art. 51.º Ficam revogadas todas as disposições do [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628) alteradas pelo presente diploma.
+Art. 51.º Ficam revogadas todas as disposições do [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628) alteradas pelo presente diploma.
 
-###### Art. 52.º O presente decreto entra imediatamente em vigor, adoptando-se as seguintes medidas:
+Art. 52.º O presente decreto entra imediatamente em vigor, adoptando-se as seguintes medidas:
 
 a) Até que venham a ser fixados o quadro privativo e o quadro complementar, por diplomas provinciais, em conformidade com o n.º 3 do artigo 23.º do presente decreto, consideram-se em vigor os números de unidades das diferentes categorias existentes nos quadros II e III anexos ao [Decreto n.º 47499](https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628);
 
@@ -709,16 +717,16 @@ b) Os actuais chefes de secção de administração central (letra J), os chefes
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Novembro de 1971.**
+Promulgado em 15 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e de Moçambique. - J. da Silva Cunha.
 
 Do MAPA I ao MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/27700/18261836.pdf))](https://files.diariodarepublica.pt/1s/1971/11/27700/18261836.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/27700/18261836.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

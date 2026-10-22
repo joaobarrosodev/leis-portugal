@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 1º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3334-(40) a 3334-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29501/00400047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1979-393865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25fde89c21282f86e8e7de38caa0977b248f12dfae0e8e5f76023b5932a67b3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5a5f2f400b5f1b156d7ebb384a6bc0ea68c1ccff62702019fc443e473a835b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carteira Profissional
+- Comunicação Social
+- Conselho de Imprensa
+- Empresa Jornalística
+- Estágio de Formação
+- Jornalismo
+- Jornalista
+- Regulamento
+- Sindicato dos Jornalistas
 relationships:
 - type: amended_by
   target: pt:dre:688062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL, DOS ARTIGOS 3, 6, 8, NUMERO 1, 9, 10, NUMEROS 1\
+    \ E 7, 14, 15, NUMERO 2, 16, NUMERO 2, 17, NUMERO 3, 18, 19, NUMERO 1, 20, NUMERO 3, 22, NUMERO 1, 25, 26 E 28 DO REGULAMENTO\
+    \ DA CARTEIRA PROFISSIONAL DO JORNALISTA, PELO ACÓRDÃO DO TRIBUNAL CONSTITUCIONAL 445/93, DE 14 DE JULHO, PUBLICADO NO\
+    \ DR.IS-A, 189, DE 930813.\0 189, DE 930813."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-13'
+- type: amended_by
+  target: pt:dre:534577:por
+  label: "Alterados os arts. 2º, 8º, 10º, 15º, 17º e aditados os arts. 2º-A, 2º-B e 2º-C, pelo DEC LEI.291/94.1994.11.16.PCM,\
+    \ DR.IS-A [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1994-534577
+  date: '1994-11-16'
+- type: amended_by
+  target: pt:dre:512831:por
+  label: "Alterado o art. 2º pela LEI.14/95.1995.05.05.AR, DR.IS-A [104], com a redacção dada pelo art. 1º do Dec Lei 291/94\
+    \ de 16-Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-1995-512831
+  date: '1995-05-05'
+- type: cites
+  target: pt:dre:369816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415409:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:688062:por
+  label: "Revogado pelo DEC LEI.305/97.1997.11.11.PCM DR.IS-A [261] de 1997.11.11a\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1997-688062
+  date: '1997-11-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:13Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +136,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Carteira Profissional do Jornalista, anexo ao presente decreto-lei, que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento da Carteira Profissional do Jornalista, anexo ao presente decreto-lei, que dele faz parte integrante.
 
-###### Art. 2.º Fica revogado o Regulamento da Carteira Profissional do Jornalista aprovado pelo [Decreto-Lei n.º 31119](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31119-1941-415409), de 30 de Janeiro de 1941.
+Art. 2.º Fica revogado o Regulamento da Carteira Profissional do Jornalista aprovado pelo [Decreto-Lei n.º 31119](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31119-1941-415409), de 30 de Janeiro de 1941.
 
-###### Art. 3.º O Regulamento agora aprovado entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O Regulamento agora aprovado entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João António de Figueiredo.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DA CARTEIRA PROFISSIONAL DO JORNALISTA
 
@@ -334,4 +376,4 @@ As omissões deste decreto-lei e as dúvidas por ele eventualmente suscitadas se
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João António de Figueiredo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29501/00400047.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29501/00400047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29501/00400047.pdf)

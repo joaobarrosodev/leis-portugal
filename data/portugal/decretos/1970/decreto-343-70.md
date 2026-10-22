@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/343-1970-141584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eac9b5d813bb9e2315a0c0466d63de12a2333b3a9720d7bb9dcead3dce11e678
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7787080ad5a799760f42703b81f82389f776543a25a6e8fb8274c57af6ada2c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:27Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +120,9 @@ DIPLOMA ORGÂNICO DA EMISSORA OFICIAL DE ANGOLA
 
 ### CAPÍTULO I — Da natureza, fins e meios
 
-###### Artigo 1.º A Emissora Oficial de Angola, até agora dependente do Centro de Informação e Turismo de Angola (C. I. T. A.), passa a constituir um serviço provincial, com a designação de Emissora Oficial de Angola (E. O. A.), dotado de personalidade jurídica, autonomia administrativa e financeira e património privativo.
+Artigo 1.º A Emissora Oficial de Angola, até agora dependente do Centro de Informação e Turismo de Angola (C. I. T. A.), passa a constituir um serviço provincial, com a designação de Emissora Oficial de Angola (E. O. A.), dotado de personalidade jurídica, autonomia administrativa e financeira e património privativo.
 
-###### Art. 2.º - 1. A E. O. A. deterá o exclusivo das emissões de radiodifusão sonora do Estado, competindo-lhe, nomeadamente:
+Art. 2.º - 1. A E. O. A. deterá o exclusivo das emissões de radiodifusão sonora do Estado, competindo-lhe, nomeadamente:
 
 a) O projecto e a realização das infra-estruturas de radiodifusão pertencentes ao Estado;
 
@@ -120,27 +148,27 @@ k) O planeamento geral da radiodifusão da província.
 
 2. A E. O. A. poderá, quando superiormente autorizada, pertencer às organizações internacionais de radiodifusão julgadas convenientes.
 
-###### Art. 3.º - 1. As tarefas enunciadas no artigo anterior que o necessitem serão objecto de regulamentação, na qual, tanto quanto possível, se aplicarão regras de serviço e actuação idênticas às utilizadas pela radiodifusão oficial de outros territórios portugueses, de modo a obter-se a máxima uniformidade de processos e a facilitar-se a permuta de pessoal entre as diferentes parcelas da Nação, quando conveniente.
+Art. 3.º - 1. As tarefas enunciadas no artigo anterior que o necessitem serão objecto de regulamentação, na qual, tanto quanto possível, se aplicarão regras de serviço e actuação idênticas às utilizadas pela radiodifusão oficial de outros territórios portugueses, de modo a obter-se a máxima uniformidade de processos e a facilitar-se a permuta de pessoal entre as diferentes parcelas da Nação, quando conveniente.
 
 2. Os regulamentos a que se refere o n.º 1 do artigo deverão ser elaborados por forma a poderem entrar em vigor, depois de aprovados por diploma legislativo provincial, no prazo de cento e oitenta dias, a contar da data da publicação do presente diploma no Boletim Oficial de Angola.
 
 3. Dos regulamentos não constarão normas que, pelo seu carácter de transitoriedade, concorram para uma rápida ou frequente desactualização destes, devendo tais normas ser objecto de Ordens de Serviço.
 
-###### Art. 4.º - 1. Para a realização de actividades eventuais de qualquer natureza poderão ser criados com carácter temporário, por despacho de Ministro do Ultramar, os órgãos julgados convenientes.
+Art. 4.º - 1. Para a realização de actividades eventuais de qualquer natureza poderão ser criados com carácter temporário, por despacho de Ministro do Ultramar, os órgãos julgados convenientes.
 
 2. Os órgãos a que se refere o n.º 1 deste artigo funcionarão junto da E. O. A. e na directa dependência do director desta.
 
 3. As condições de funcionamento dos citados órgãos, as normas para recrutamento do respectivo pessoal e os meios financeiros necessários para ocorrer aos respectivos encargos serão definidos no despacho de criação.
 
-###### Art. 5.º O processo de estabelecimento, alteração ou ampliação de instalações radioeléctricas emissoras de radiodifusão, de qualquer natureza, fixado no Regulamento dos Serviços Radioeléctricos de Angola, aprovado pelo Diploma Legislativo n.º 1554, de 17 de Maio de 1944, irá obrigatòriamente na sua fase inicial à informação da E. O. A. para os efeitos do disposto no n.º 1 do artigo 2.º do mesmo diploma, sem a qual não poderá ser submetido à decisão da entidade própria.
+Art. 5.º O processo de estabelecimento, alteração ou ampliação de instalações radioeléctricas emissoras de radiodifusão, de qualquer natureza, fixado no Regulamento dos Serviços Radioeléctricos de Angola, aprovado pelo Diploma Legislativo n.º 1554, de 17 de Maio de 1944, irá obrigatòriamente na sua fase inicial à informação da E. O. A. para os efeitos do disposto no n.º 1 do artigo 2.º do mesmo diploma, sem a qual não poderá ser submetido à decisão da entidade própria.
 
-###### Art. 6.º É da atribuição exclusiva da E. O. A. a passagem de licenças de instalações receptoras de radiodifusão na província, nos termos do Regulamento das Instalações Receptoras de Radiodifusão, promulgado pelo [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, e mandado vigorar nas províncias ultramarinas pela [Portaria n.º 19543](https://diariodarepublica.pt/dr/detalhe/portaria/19543-1962-155610), de 4 de Dezembro de 1962, referida na alínea i) do n.º 1 do artigo 2.º, sendo as taxas cobradas do público por forma tanto quanto possível idêntica à da metrópole e de harmonia com as disposições que forem aprovadas por portaria do Governo-Geral de Angola, a publicar no prazo de cento e oitenta dias.
+Art. 6.º É da atribuição exclusiva da E. O. A. a passagem de licenças de instalações receptoras de radiodifusão na província, nos termos do Regulamento das Instalações Receptoras de Radiodifusão, promulgado pelo [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, e mandado vigorar nas províncias ultramarinas pela [Portaria n.º 19543](https://diariodarepublica.pt/dr/detalhe/portaria/19543-1962-155610), de 4 de Dezembro de 1962, referida na alínea i) do n.º 1 do artigo 2.º, sendo as taxas cobradas do público por forma tanto quanto possível idêntica à da metrópole e de harmonia com as disposições que forem aprovadas por portaria do Governo-Geral de Angola, a publicar no prazo de cento e oitenta dias.
 
-###### Art. 7.º As atribuições e competência da actual Comissão Coordenadora do Plano de Radiodifusão de Angola e da respectiva comissão administrativa, previstas nos n.os 2.º a 8.º da [Portaria n.º 18357](https://diariodarepublica.pt/dr/detalhe/portaria/18357-1961-559430), de 27 de Março de 1961, bem como os compromissos por ela assumidos perante terceiros, passam para o conselho de administração da E. O. A.
+Art. 7.º As atribuições e competência da actual Comissão Coordenadora do Plano de Radiodifusão de Angola e da respectiva comissão administrativa, previstas nos n.os 2.º a 8.º da [Portaria n.º 18357](https://diariodarepublica.pt/dr/detalhe/portaria/18357-1961-559430), de 27 de Março de 1961, bem como os compromissos por ela assumidos perante terceiros, passam para o conselho de administração da E. O. A.
 
-###### Art. 8.º As infra-estruturas, equipamento e restante material a que se refere a alínea d) do n.º 2.º da portaria referida no artigo 7.º revertem para o património da E. O. A.
+Art. 8.º As infra-estruturas, equipamento e restante material a que se refere a alínea d) do n.º 2.º da portaria referida no artigo 7.º revertem para o património da E. O. A.
 
-###### Art. 9.º - 1. Constituem receitas da E. O. A.:
+Art. 9.º - 1. Constituem receitas da E. O. A.:
 
 a) A percentagem que estiver legalmente fixada das taxas de radiodifusão cobradas na província, bem como o adicional que sobre as mesmas tenha sido lançado;
 
@@ -160,13 +188,13 @@ h) Quaisquer outras receitas, comparticipações ou percentagens legalmente auto
 
 2. As dotações e subsídios do orçamento geral da província mencionados na alínea e) do n.º 1 serão entregues pelos Serviços de Fazenda e Contabilidade da província, por duodécimos, mediante requisição do conselho de administração da E. O. A.
 
-###### Art. 10.º - 1. As despesas com pensões de aposentação e subsídios de sobrevivência ao pessoal da E. O. A. constituem encargos do mesmo serviço, que entregará nos cofres da Fazenda, por duodécimos, as importâncias que para aquele fim forem devidas.
+Art. 10.º - 1. As despesas com pensões de aposentação e subsídios de sobrevivência ao pessoal da E. O. A. constituem encargos do mesmo serviço, que entregará nos cofres da Fazenda, por duodécimos, as importâncias que para aquele fim forem devidas.
 
 2. A E. O. A. inscreverá na tabela de despesa ordinária do seu orçamento privativo a verba necessária para fazer face aos encargos referidos no n.º 1 deste artigo
 
 ### CAPÍTULO II — Estabelecimento e exploração
 
-###### Art. 11.º - 1. As instalações de radiodifusão da E. O. A. terão a forma de:
+Art. 11.º - 1. As instalações de radiodifusão da E. O. A. terão a forma de:
 
 a) Centros emissores provinciais;
 
@@ -184,25 +212,25 @@ g) Centros especiais.
 
 2. As instalações referidas nas alíneas do n.º 1 deste artigo poderão ser localizadas em quaisquer zonas onde as necessidades do serviço ou as exigências do público o aconselharem.
 
-###### Art. 12.º - 1. A E. O. A. aproveitará, para transmissão de programas directos, os meios de telecomunicação da rede pública que se mostrem aconselháveis e, para o transporte de programas gravados, os transportes públicos mais rápidos existentes, uns e outros em condições a estabelecer por contrato ou simples acordo entre o seu conselho de administração e os serviços ou concessionários respectivos.
+Art. 12.º - 1. A E. O. A. aproveitará, para transmissão de programas directos, os meios de telecomunicação da rede pública que se mostrem aconselháveis e, para o transporte de programas gravados, os transportes públicos mais rápidos existentes, uns e outros em condições a estabelecer por contrato ou simples acordo entre o seu conselho de administração e os serviços ou concessionários respectivos.
 
 2. Do respectivo contrato ou acordo deverá constar sempre o direito de preferência sobre qualquer outra telecomunicação ou transporte, salvo se se tratar de assuntos que envolvam os superiores interesses do Estado ou da saúde pública e sem prejuízo dos casos previstos no Regulamento da Rede Pública de Telecomunicações.
 
-###### Art. 13.º A E. O. A. tem o exclusivo da utilização gratuita do tempo de emissão reservado pelo Estado em qualquer organização de radiodifusão não oficial que seja objecto de concessão, simples licenciamento ou autorização, devendo no respectivo contrato ou licença constar expressamente tal condição.
+Art. 13.º A E. O. A. tem o exclusivo da utilização gratuita do tempo de emissão reservado pelo Estado em qualquer organização de radiodifusão não oficial que seja objecto de concessão, simples licenciamento ou autorização, devendo no respectivo contrato ou licença constar expressamente tal condição.
 
-###### Art. 14.º Quando os meios de telecomunicação da rede pública não apresentarem características técnicas adequadas para a transmissão de programas sonoros de radiodifusão, a instalação dos meios próprios a que se refere a alínea d) do artigo 2.º será feita mediante acordo com os serviços ou concessionários que explorem a rede pública, podendo, em condições a estabelecer de comum acordo, aproveitar-se de facilidades em infra-estruturas do serviço oficial de telecomunicações, quer em continuidade, se de outro modo não for tècnicamente possível, quer até disporem de locais próprios, se estes forem tècnicamente possíveis e econòmicamente viáveis.
+Art. 14.º Quando os meios de telecomunicação da rede pública não apresentarem características técnicas adequadas para a transmissão de programas sonoros de radiodifusão, a instalação dos meios próprios a que se refere a alínea d) do artigo 2.º será feita mediante acordo com os serviços ou concessionários que explorem a rede pública, podendo, em condições a estabelecer de comum acordo, aproveitar-se de facilidades em infra-estruturas do serviço oficial de telecomunicações, quer em continuidade, se de outro modo não for tècnicamente possível, quer até disporem de locais próprios, se estes forem tècnicamente possíveis e econòmicamente viáveis.
 
-###### Art. 15.º O estabelecimento e a exploração das instalações da E. O. A. obedecerão ao recomendado nas convenções e regulamentos nacionais e internacionais que se referem a instalações radioeléctricas.
+Art. 15.º O estabelecimento e a exploração das instalações da E. O. A. obedecerão ao recomendado nas convenções e regulamentos nacionais e internacionais que se referem a instalações radioeléctricas.
 
-###### Art. 16.º No estabelecimento das instalações da E. O. A. observar-se-ão as normas relativas à protecção das estações radioeléctricas civis de serviço público pela forma que estiver preceituada legalmente, observando-se, na sua falta, o que tècnicamente for tido como justificado pelos Serviços dos Correios, Telégrafos e Telefones da província.
+Art. 16.º No estabelecimento das instalações da E. O. A. observar-se-ão as normas relativas à protecção das estações radioeléctricas civis de serviço público pela forma que estiver preceituada legalmente, observando-se, na sua falta, o que tècnicamente for tido como justificado pelos Serviços dos Correios, Telégrafos e Telefones da província.
 
-###### Art. 17.º No estabelecimento das instalações emissoras da E. O. A. observar-se-ão, pelo que diz respeito à protecção das instalações de telecomunicações da rede pública contra quaisquer sinais perturbadores, designadamente efeitos de indução sobre circuitos terrestres telefónicos eu telegráficos, incluindo instalações de assinantes das redes urbanas, os procedimentos técnicos mais aconselháveis, para o que os serviços técnicos dos organismos oficiais interessados deverão examinar em conjunto quaisquer projectos de que se receie perturbação eu fenómenos que acidentalmente venham a ter lugar.
+Art. 17.º No estabelecimento das instalações emissoras da E. O. A. observar-se-ão, pelo que diz respeito à protecção das instalações de telecomunicações da rede pública contra quaisquer sinais perturbadores, designadamente efeitos de indução sobre circuitos terrestres telefónicos eu telegráficos, incluindo instalações de assinantes das redes urbanas, os procedimentos técnicos mais aconselháveis, para o que os serviços técnicos dos organismos oficiais interessados deverão examinar em conjunto quaisquer projectos de que se receie perturbação eu fenómenos que acidentalmente venham a ter lugar.
 
-###### Art. 18.º Nas instalações de transmissão de programas que a E. O. A. vier a estabelecer nos termos do artigo 14.º observar-se-ão as normas aplicáveis estabelecidas para as instalações da rede pública de telecomunicações, considerando-se aquelas equiparadas a estas para todos os efeitos legais.
+Art. 18.º Nas instalações de transmissão de programas que a E. O. A. vier a estabelecer nos termos do artigo 14.º observar-se-ão as normas aplicáveis estabelecidas para as instalações da rede pública de telecomunicações, considerando-se aquelas equiparadas a estas para todos os efeitos legais.
 
-###### Art. 19.º O Governo-Geral da província pode declarar a expropriação, por utilidade pública, dos terrenos cuja aquisição se torne necessária para o estabelecimento de quaisquer instalações da E. O. A.
+Art. 19.º O Governo-Geral da província pode declarar a expropriação, por utilidade pública, dos terrenos cuja aquisição se torne necessária para o estabelecimento de quaisquer instalações da E. O. A.
 
-###### Art. 20.º Nenhuma autoridade estranha à E. O. A. poderá nela intervir, salvo quando requisitada por representante da direcção ou no caso de crime praticado por ou contra funcionários quando em serviço, sendo expressamente proibido, sem ordem do Ministro do Ultramar ou do governador-geral da província:
+Art. 20.º Nenhuma autoridade estranha à E. O. A. poderá nela intervir, salvo quando requisitada por representante da direcção ou no caso de crime praticado por ou contra funcionários quando em serviço, sendo expressamente proibido, sem ordem do Ministro do Ultramar ou do governador-geral da província:
 
 a) Abrir inquéritos acerca do modo como são desempenhados os serviços;
 
@@ -210,7 +238,7 @@ b) Exercer qualquer espécie de intervenção em assuntos inerentes à radiodifu
 
 ### CAPÍTULO III — Da orgânica
 
-###### Art. 21.º A E. O. A. será administrada por um conselho de administração e compreenderá duas direcções, uma repartição e uma inspecção, a saber:
+Art. 21.º A E. O. A. será administrada por um conselho de administração e compreenderá duas direcções, uma repartição e uma inspecção, a saber:
 
 a) Direcção dos Serviços de Programas;
 
@@ -222,7 +250,7 @@ d) Inspecção.
 
 #### SECÇÃO I — Do conselho de administração
 
-###### Art. 22.º - 1. O conselho de administração da E. O. A. terá a seguinte composição:
+Art. 22.º - 1. O conselho de administração da E. O. A. terá a seguinte composição:
 
 Presidente - o director da E. O. A.
 
@@ -232,7 +260,7 @@ O director dos Serviços de Programas.
 
 O director dos Serviços Técnicos.
 
-**O chefe da Repartição dos Serviços Administrativos.**
+O chefe da Repartição dos Serviços Administrativos.
 
 Um representante dos Serviços de Fazenda e Contabilidade de categoria não inferior a director de 2.ª classe.
 
@@ -242,7 +270,7 @@ Um representante dos Serviços de Fazenda e Contabilidade de categoria não infe
 
 4. Eventualmente poderão fazer parte de conselho de administração da E. O. A., como vogais, os directores ou chefes dos órgãos previstos no artigo 4.º do presente decreto, se no despacho que os criar tal for determinado.
 
-###### Art. 23.º - 1. Aos membros do conselho de administração serão atribuídas as seguintes gratificações acumuláveis e sempre devidas, independentemente de quaisquer outras gratificações ou subsídios a que os mesmos tenham direito:
+Art. 23.º - 1. Aos membros do conselho de administração serão atribuídas as seguintes gratificações acumuláveis e sempre devidas, independentemente de quaisquer outras gratificações ou subsídios a que os mesmos tenham direito:
 
 a) Ao presidente, a título de senhas de presença por cada sessão a que assistir, os quantitativos que forem fixados pelo governador-geral da província, até ao limite máximo mensal de 2000$00;
 
@@ -250,7 +278,7 @@ b) Aos vogais, excluindo o representante dos Serviços de Fazenda e Contabilidad
 
 2. O vogal representante dos Serviços de Fazenda e Contabilidade perceberá a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 24.º - 1. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que a urgência do assunto o justifique e o presidente o convoque.
+Art. 24.º - 1. O conselho de administração reunirá ordinàriamente uma vez por semana e extraordinàriamente sempre que a urgência do assunto o justifique e o presidente o convoque.
 
 2. Qualquer dos vogais do conselho de administração poderá tomar a iniciativa de apresentar propostas à apreciação, mesmo sobre matérias que não digam respeito aos seus serviços, podendo para este fim solicitar aos vários departamentos, divisões, sectores e secções os elementos de informação que julgue necessários.
 
@@ -260,19 +288,19 @@ b) Aos vogais, excluindo o representante dos Serviços de Fazenda e Contabilidad
 
 5. Havendo empate na votação do conselho de administração, o presidente tem voto de desempate.
 
-###### Art. 25.º - 1. Das sessões do conselho de administração serão lavradas actas, que serão assinadas pelos membros e pelo secretário. As actas indicarão sucintamente os assuntos tratados e as resoluções tomadas, transcrevendo-se na íntegra os despachos do conselho e as declarações de voto de vencido, se as houver.
+Art. 25.º - 1. Das sessões do conselho de administração serão lavradas actas, que serão assinadas pelos membros e pelo secretário. As actas indicarão sucintamente os assuntos tratados e as resoluções tomadas, transcrevendo-se na íntegra os despachos do conselho e as declarações de voto de vencido, se as houver.
 
 2. As actas serão obrigatòriamente submetidas à aprovação e assinatura na sessão imediata àquela a que disserem respeito, se o não tiverem sido na própria sessão.
 
-###### Art. 26.º Nenhuma deliberação do conselho de administração será válida se não constar de acta de sessão definitivamente aprovada e assinada.
+Art. 26.º Nenhuma deliberação do conselho de administração será válida se não constar de acta de sessão definitivamente aprovada e assinada.
 
-###### Art. 27.º Nenhum membro do conselho de administração poderá abster-se de votar sobre qualquer assunto tratado em sessões em que esteja presente, salvo quando este lhe interessar pessoalmente, caso em que não poderá votar nem tomar parte na discussão.
+Art. 27.º Nenhum membro do conselho de administração poderá abster-se de votar sobre qualquer assunto tratado em sessões em que esteja presente, salvo quando este lhe interessar pessoalmente, caso em que não poderá votar nem tomar parte na discussão.
 
-###### Art. 28.º Quando a votação do conselho corresponder à aprovação de uma opinião diferente da do seu presidente, deverá este, se não se conformar com ela, submeter o assunto à resolução do governador-geral da província.
+Art. 28.º Quando a votação do conselho corresponder à aprovação de uma opinião diferente da do seu presidente, deverá este, se não se conformar com ela, submeter o assunto à resolução do governador-geral da província.
 
-###### Art. 29.º Quando o vogal representante dos Serviços de Fazenda e Contabilidade contestar qualquer deliberação sobre assuntos de administração financeira, o conselho poderá solicitar que seja consignado na acta o parecer fundamentado daquele vogal, procedendo-se em seguida de acordo com o disposto no artigo 2.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
+Art. 29.º Quando o vogal representante dos Serviços de Fazenda e Contabilidade contestar qualquer deliberação sobre assuntos de administração financeira, o conselho poderá solicitar que seja consignado na acta o parecer fundamentado daquele vogal, procedendo-se em seguida de acordo com o disposto no artigo 2.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 30.º Ao conselho de administração compete superintender em toda a administração da E. O. A. e designadamente:
+Art. 30.º Ao conselho de administração compete superintender em toda a administração da E. O. A. e designadamente:
 
 a) Organizar o projecto de orçamento anual ordinário privativo e os dos orçamentos suplementares a que houver lugar, submetendo-os ao governador-geral da província;
 
@@ -290,25 +318,25 @@ g) Arrendar os edifícios e terrenos necessários ao serviço;
 
 h) Ceder temporàriamente, por arrendamento periódico e mediante contrato sancionado pelo governador-geral da província, as suas instalações e equipamentos ou horas de emissão.
 
-###### Art. 31.º Não é permitido ao conselho de administração criar encargos que não possam ser satisfeitos pelas suas disponibilidades orçamentais.
+Art. 31.º Não é permitido ao conselho de administração criar encargos que não possam ser satisfeitos pelas suas disponibilidades orçamentais.
 
-###### Art. 32.º Os membros do conselho de administração respondem, disciplinar, civil e criminalmente, pela violação de direitos adquiridos ou lesão de interesses legítimos causados pelos seus actos e decisões, tendo responsabilidade solidária os funcionários da E. O. A. que tiverem dado informação que tenha servido de base àqueles actos ou decisões ou que, devendo ter informado contràriamente, não o tenham feito mediante documento escrito.
+Art. 32.º Os membros do conselho de administração respondem, disciplinar, civil e criminalmente, pela violação de direitos adquiridos ou lesão de interesses legítimos causados pelos seus actos e decisões, tendo responsabilidade solidária os funcionários da E. O. A. que tiverem dado informação que tenha servido de base àqueles actos ou decisões ou que, devendo ter informado contràriamente, não o tenham feito mediante documento escrito.
 
-###### Art. 33.º O conselho de administração é responsável, civil e criminalmente, por todos os bens móveis, imóveis e semoventes na posse da E. O. A. e pela gerência de bens, títulos, valores e rendimentos a seu cargo, sendo obrigado a remeter, nos prazos legais e ajustados por anos civis, contas de responsabilidade ao Tribunal Administrativo da província.
+Art. 33.º O conselho de administração é responsável, civil e criminalmente, por todos os bens móveis, imóveis e semoventes na posse da E. O. A. e pela gerência de bens, títulos, valores e rendimentos a seu cargo, sendo obrigado a remeter, nos prazos legais e ajustados por anos civis, contas de responsabilidade ao Tribunal Administrativo da província.
 
-###### Art. 34.º O presidente do conselho de administração fará, na sua qualidade de director da E. O. A., executar as deliberações do referido conselho.
+Art. 34.º O presidente do conselho de administração fará, na sua qualidade de director da E. O. A., executar as deliberações do referido conselho.
 
-###### Art. 35.º O governador-geral da província exerce a fiscalização superior sobre a E. O. A., mandando verificar, sempre que o julgue conveniente, se os princípios e preceitos consignados neste diploma e regulamentos complementares são devidamente cumpridos.
+Art. 35.º O governador-geral da província exerce a fiscalização superior sobre a E. O. A., mandando verificar, sempre que o julgue conveniente, se os princípios e preceitos consignados neste diploma e regulamentos complementares são devidamente cumpridos.
 
 #### SECÇÃO II — Da Direcção dos Serviços de Programas
 
-###### Art. 36.º Os serviços de programas compreenderão dois departamentos:
+Art. 36.º Os serviços de programas compreenderão dois departamentos:
 
 a) Departamento de programação;
 
 b) Departamento de coordenação e condução.
 
-###### Art. 37.º Ao departamento de programação competirá:
+Art. 37.º Ao departamento de programação competirá:
 
 a) A preparação e realização de todos os programas a emitir ou a enviar a outras organizações de radiodifusão;
 
@@ -316,13 +344,13 @@ b) O estudo e proposta de programas literários e musicais de carácter cultural
 
 c) O intercâmbio com outras organizações de radiodifusão.
 
-###### Art. 38.º O departamento de programação compor-se-á de dois sectores:
+Art. 38.º O departamento de programação compor-se-á de dois sectores:
 
 a) Sector de informação, programas literários e intercâmbio;
 
 b) Sector de programas musicais.
 
-###### Art. 39.º Ao departamento de coordenação e condução competirá:
+Art. 39.º Ao departamento de coordenação e condução competirá:
 
 a) A execução dos planos de programas radiofónicos devidamente aprovados;
 
@@ -330,7 +358,7 @@ b) A coordenação e alinhamento dos programas diários a emitir;
 
 c) A superintendência na sonorização e condução dos programas.
 
-###### Art. 40.º O departamento de coordenação e condução compor-se-á de dois sectores:
+Art. 40.º O departamento de coordenação e condução compor-se-á de dois sectores:
 
 a) Sector de estúdios;
 
@@ -338,7 +366,7 @@ b) Sector de sonorização
 
 #### SECÇÃO III — Da Direcção dos Serviços Técnicos
 
-###### Art. 41.º Os serviços técnicos compreendem quatro departamentos:
+Art. 41.º Os serviços técnicos compreendem quatro departamentos:
 
 a) Departamento de emissores provinciais;
 
@@ -348,7 +376,7 @@ c) Departamento de exploração;
 
 d) Departamento de estudos, infra-estruturas e preparação de pessoal.
 
-###### Art. 42.º Ao departamento de emissores provinciais competirá:
+Art. 42.º Ao departamento de emissores provinciais competirá:
 
 a) A condução, manutenção e reparação dos emissores;
 
@@ -362,7 +390,7 @@ e) A requisição e conservação das reservas necessárias ao funcionamento dos
 
 f) A orientação das oficinas dos centros emissores provinciais e a recuperação de equipamentos avariados.
 
-###### Art. 43.º Ao departamento de emissores regionais e centros especiais competirá:
+Art. 43.º Ao departamento de emissores regionais e centros especiais competirá:
 
 a) A supervisão e proposta de directivas para a coordenação, manutenção e reparação de todos os equipamentos dos emissores regionais locais e centros especiais;
 
@@ -372,7 +400,7 @@ c) A satisfação das requisições dos emissores regionais, locais e centros es
 
 d) A coordenação do serviço de brigadas móveis de apoio às instalações regionais.
 
-###### Art. 44.º Ao departamento de exploração competirá:
+Art. 44.º Ao departamento de exploração competirá:
 
 a) A exploração, manutenção e reparação dos equipamentos técnicos dos estúdios e centro de recepção;
 
@@ -384,7 +412,7 @@ d) A requisição e conservação das reservas necessárias ao funcionamento dos
 
 e) A direcção das oficinas que lhes sejam afectas.
 
-###### Art. 45.º Ao departamento de estudos, infra-estruturas e preparação do pessoal competirá:
+Art. 45.º Ao departamento de estudos, infra-estruturas e preparação do pessoal competirá:
 
 a) A realização dos estudos e projectos necessários à melhoria ou desenvolvimento das infra-estruturas;
 
@@ -392,23 +420,23 @@ b) A orientação e fiscalização de obras e instalações;
 
 c) A preparação e valorização de todo o pessoal, organizando, em cooperação com todos os serviços da E. O. A., os cursos necessários, podendo recorrer, sempre que conveniente, ao recrutamento de monitores fora do quadro da E. O. A.
 
-###### Art. 46.º O departamento de estudos, infra-estruturas e preparação de pessoal compor-se-á de dois sectores:
+Art. 46.º O departamento de estudos, infra-estruturas e preparação de pessoal compor-se-á de dois sectores:
 
 a) Sector de estudos e de projectos, realização e fiscalização de obras e instalações;
 
 b) Sector de preparação de pessoal.
 
-###### Art. 47.º Os departamentos dos serviços técnicos serão chefiados por chefes de serviços técnicos de 1.ª classe e os sectores por chefes de serviços técnicos de 2.ª classe.
+Art. 47.º Os departamentos dos serviços técnicos serão chefiados por chefes de serviços técnicos de 1.ª classe e os sectores por chefes de serviços técnicos de 2.ª classe.
 
 #### SECÇÃO IV — Da Repartição dos Serviços Administrativos
 
-###### Art. 48.º Os serviços administrativos compreenderão duas divisões:
+Art. 48.º Os serviços administrativos compreenderão duas divisões:
 
 a) Divisão dos serviços gerais;
 
 b) Divisão dos serviços financeiros.
 
-###### Art. 49.º À divisão dos serviços gerais competirá:
+Art. 49.º À divisão dos serviços gerais competirá:
 
 a) Receber, distribuir e expedir a correspondência;
 
@@ -416,13 +444,13 @@ b) Centralizar o expediente respeitante ao pessoal;
 
 c) Conceder e cancelar licenças de receptores de radiodifusão, manter actualizado o cadastro dos subscritores, promover o esclarecimento do público quanto aos deveres impostos por lei relativamente ao uso de receptores de radiodifusão e aplicar e fazer cumprir o respectivo regulamento.
 
-###### Art. 50.º A divisão dos serviços gerais compor-se-á de duas secções:
+Art. 50.º A divisão dos serviços gerais compor-se-á de duas secções:
 
 a) Secção de secretaria e pessoal;
 
 b) Secção de licenciamento.
 
-###### Art. 51.º À divisão dos serviços financeiros competirá:
+Art. 51.º À divisão dos serviços financeiros competirá:
 
 a) A preparação e coordenação dos elementos necessários à elaboração do orçamento privativo da E. O. A. e da conta de gerência;
 
@@ -434,7 +462,7 @@ d) A aquisição, produção, conservação e distribuição dos bens essenciais
 
 e) A actualização do cadastro e as providências necessárias à protecção desses bens e à higiene e conforto das instalações.
 
-###### Art. 52.º A divisão dos serviços financeiros compreenderá duas secções:
+Art. 52.º A divisão dos serviços financeiros compreenderá duas secções:
 
 a) Secção de contabilidade;
 
@@ -444,11 +472,11 @@ b) Secção de património.
 
 #### SECÇÃO I — Contabilidade
 
-###### Art. 53.º Qualquer receita dará entrada mediante documentos em que se faça a sua classificação orçamental e se descreva claramente a sua origem e proveniência, devidamente visados pelo chefe da Repartição dos Serviços Administrativos.
+Art. 53.º Qualquer receita dará entrada mediante documentos em que se faça a sua classificação orçamental e se descreva claramente a sua origem e proveniência, devidamente visados pelo chefe da Repartição dos Serviços Administrativos.
 
-###### Art. 54.º Os documentos de receita e despesa serão prèviamente registados e numerados na secção de contabilidade, em livro especial, e só depois serão movimentados na tesouraria.
+Art. 54.º Os documentos de receita e despesa serão prèviamente registados e numerados na secção de contabilidade, em livro especial, e só depois serão movimentados na tesouraria.
 
-###### Art. 55.º - 1. As propostas de despesa terão de ser autorizadas pelo conselho de administração e a autorização das ordens de pagamento, dentro dos respectivos quantitativos globais autorizados, é da competência do director da E. O. A.
+Art. 55.º - 1. As propostas de despesa terão de ser autorizadas pelo conselho de administração e a autorização das ordens de pagamento, dentro dos respectivos quantitativos globais autorizados, é da competência do director da E. O. A.
 
 2. As ordens de pagamento serão sempre prèviamente assinadas pelo chefe da secção de contabilidade e pelo da divisão dos serviços financeiros, que as verificará, submetendo-as em seguida ao chefe da Repartição dos Serviços Administrativos, que as visará e submeterá à autorização do director da E. O. A.
 
@@ -456,15 +484,15 @@ b) Secção de património.
 
 4. Salvo determinação em contrário do conselho de administração, as despesas certas não carecem da sua autorização prévia, sendo obrigatório, no entanto, submetê-las ulteriormente à sua sanção, por meses e por rubricas orçamentais.
 
-###### Art. 56.º As contas da E. O. A. serão encerradas por balanço, no fim de cada ano civil.
+Art. 56.º As contas da E. O. A. serão encerradas por balanço, no fim de cada ano civil.
 
-###### Art. 57.º A conta da administração, em cada ano civil, será referida ao fecho das contas.
+Art. 57.º A conta da administração, em cada ano civil, será referida ao fecho das contas.
 
-###### Art. 58.º As despesas autorizadas legalmente para cada ano económico, mas liquidadas no correspondente período complementar de exercício, farão parte da conta de administração, incluídas em contas complementares adicionais encerradas nos termos do referido período.
+Art. 58.º As despesas autorizadas legalmente para cada ano económico, mas liquidadas no correspondente período complementar de exercício, farão parte da conta de administração, incluídas em contas complementares adicionais encerradas nos termos do referido período.
 
 #### SECÇÃO II — Tesouraria
 
-###### Art. 59.º A tesouraria constituirá uma dependência da secção de contabilidade, competindo-lhe:
+Art. 59.º A tesouraria constituirá uma dependência da secção de contabilidade, competindo-lhe:
 
 a) A arrecadação de todas as importâncias que constituem receita da E. O. A., recebidas directamente ou indirectamente pelo tesoureiro e outros encarregados da sua cobrança;
 
@@ -480,13 +508,13 @@ f) A entrega nos Serviços de Fazenda, por meio de guias devidamente visadas, da
 
 g) Os depósitos e levantamentos bancários.
 
-###### Art. 60.º - 1. Os movimentos de fundos do serviço serão sempre feitos por intermédio da tesouraria, não sendo permitido fazê-los de outro modo.
+Art. 60.º - 1. Os movimentos de fundos do serviço serão sempre feitos por intermédio da tesouraria, não sendo permitido fazê-los de outro modo.
 
 2. As importâncias guardadas em cofre principal e que se preveja não serem necessárias ao movimento deverão ser depositadas, através da tesouraria, no banco emissor, na manhã do dia imediato.
 
-###### Art. 62.º Serão claviculários e solidàriamente responsáveis pelo cofre principal o chefe da divisão dos serviços financeiros, o chefe da secção de contabilidade e o tesoureiro, que terão sempre em seu poder a respectiva chave, só podendo o cofre ser aberto e fechado na presença simultânea de todos.
+Art. 62.º Serão claviculários e solidàriamente responsáveis pelo cofre principal o chefe da divisão dos serviços financeiros, o chefe da secção de contabilidade e o tesoureiro, que terão sempre em seu poder a respectiva chave, só podendo o cofre ser aberto e fechado na presença simultânea de todos.
 
-###### Art. 63.º - 1. Os responsáveis pelo cofre principal são-no solidàriamente em relação a:
+Art. 63.º - 1. Os responsáveis pelo cofre principal são-no solidàriamente em relação a:
 
 a) Todos os valores que nele estiverem guardados;
 
@@ -502,7 +530,7 @@ f) Abertura do cofre principal por pessoa que não seja claviculário, excepçã
 
 2. É vedado a qualquer claviculário entregar a outra pessoa a sua própria chave, ainda que o seja ao director da E. O. A., ao chefe da Repartição ou a qualquer dos restantes claviculários, facultando assim que o cofre possa ser aberto ou fechado sem a sua assistência pessoal, sob pena de incorrer em responsabilidade disciplinar, sem prejuízo do disposto nas alíneas a) e b) do n.º 1 deste artigo.
 
-###### Art. 64.º - 1. O tesoureiro poderá propor para seu substituto, em impedimentos ocasionais e transitórios, um funcionário da E. O. A. de categoria não superior à sua, o qual actuará sob responsabilidade do mesmo tesoureiro e não terá de prestar qualquer caução.
+Art. 64.º - 1. O tesoureiro poderá propor para seu substituto, em impedimentos ocasionais e transitórios, um funcionário da E. O. A. de categoria não superior à sua, o qual actuará sob responsabilidade do mesmo tesoureiro e não terá de prestar qualquer caução.
 
 2. O proposto do tesoureiro carece de designação em Ordem de Serviço e só entrará em exercício mediante despacho do director da E. O. A., para cada caso.
 
@@ -510,19 +538,19 @@ f) Abertura do cofre principal por pessoa que não seja claviculário, excepçã
 
 #### SECÇÃO III — Cauções e contas de responsabilidade dos exactores
 
-###### Art. 65.º - 1. O tesoureiro, ainda que a título interino, e os funcionários que forem designados para exercer as funções de encarregado do arquivo musical e sonoro e de encarregado ou fiel de armazém são considerados exactores e obrigados a prestar caução por meio de depósito em dinheiro ou em títulos de dívida pública, hipoteca ou seguro, à ordem ou a favor do conselho de administração da E. O. A.
+Art. 65.º - 1. O tesoureiro, ainda que a título interino, e os funcionários que forem designados para exercer as funções de encarregado do arquivo musical e sonoro e de encarregado ou fiel de armazém são considerados exactores e obrigados a prestar caução por meio de depósito em dinheiro ou em títulos de dívida pública, hipoteca ou seguro, à ordem ou a favor do conselho de administração da E. O. A.
 
 2. Os funcionários de que trata o n.º 1 deste artigo, quando estiverem impossibilitados de prestar a caução por qualquer das formas previstas, prestá-la-ão por meio de descontos mensais nos seus vencimentos, cujo montante não poderá exceder 10 por cento, desde que assim o requeiram ao governador-geral da província e o conselho de administração da E. O. A. se pronuncie favoràvelmente.
 
-###### Art. 66.º - 1. O quantitativo das cauções será fixado pelo governador-geral da província, de acordo com o movimento que se verificar, e os funcionários respectivos não poderão assumir as suas funções antes de terem prestado a correspondente caução.
+Art. 66.º - 1. O quantitativo das cauções será fixado pelo governador-geral da província, de acordo com o movimento que se verificar, e os funcionários respectivos não poderão assumir as suas funções antes de terem prestado a correspondente caução.
 
 2. As cauções devem ser prestadas dentro do prazo de trinta dias, contados da data da nomeação ou designação, considerando-se vagos os lugares referidos no artigo 65.º se a respectiva caução não tiver sido prestada dentro daquele prazo.
 
-###### Art. 67.º As cauções dos funcionários, quando estes deixarem de ser exactores, poderão ser restituídas ou anuladas, depois de julgadas extintas pelo Tribunal Administrativo e após autorização do conselho de administração da E. O. A.
+Art. 67.º As cauções dos funcionários, quando estes deixarem de ser exactores, poderão ser restituídas ou anuladas, depois de julgadas extintas pelo Tribunal Administrativo e após autorização do conselho de administração da E. O. A.
 
-###### Art. 68.º As contas de responsabilidade dos exactores serão organizadas, verificadas, registadas e elaboradas pela contabilidade no prazo de noventa dias, a contar daquele em que termina o período anual, ou inferior, da respectiva gerência, e enviadas dentro desse prazo pela direcção da E. O. A., com o competente certificado de conformidade, directamente ao Tribunal Administrativo.
+Art. 68.º As contas de responsabilidade dos exactores serão organizadas, verificadas, registadas e elaboradas pela contabilidade no prazo de noventa dias, a contar daquele em que termina o período anual, ou inferior, da respectiva gerência, e enviadas dentro desse prazo pela direcção da E. O. A., com o competente certificado de conformidade, directamente ao Tribunal Administrativo.
 
-###### Art. 69.º - 1. Não será permitida a saída de qualquer dos exactores da E. O. A. para fora da província sem que tenham sido organizadas as suas contas de responsabilidade e sem que a direcção da E. O. A. as declare certas e sem alcance, em documento assinado pelo respectivo director, salvo eminente perigo de vida do exactor, mas em tal caso a saída só poderá ser autorizada por despacho expresso do governador-geral.
+Art. 69.º - 1. Não será permitida a saída de qualquer dos exactores da E. O. A. para fora da província sem que tenham sido organizadas as suas contas de responsabilidade e sem que a direcção da E. O. A. as declare certas e sem alcance, em documento assinado pelo respectivo director, salvo eminente perigo de vida do exactor, mas em tal caso a saída só poderá ser autorizada por despacho expresso do governador-geral.
 
 2. A declaração, autenticada, a que se refere o n.º 1 deste artigo será feita em duplicado, ficando um exemplar a fazer parte do processo de contas e o outro será dado ao interessado para os devidos efeitos.
 
@@ -530,7 +558,7 @@ f) Abertura do cofre principal por pessoa que não seja claviculário, excepçã
 
 ### CAPÍTULO V — Da Inspecção
 
-###### Art. 70.º A Inspecção dependerá directamente do director da E. O. A., competindo-lhe:
+Art. 70.º A Inspecção dependerá directamente do director da E. O. A., competindo-lhe:
 
 a) Fiscalizar o funcionamento do serviço;
 
@@ -548,9 +576,9 @@ f) Examinar os resultados das consultas aos radiouvintes.
 
 #### SECÇÃO I — Arquivo musical e sonoro
 
-###### Art. 71.º Na dependência do sector de programas musicais será organizado o arquivo musical e sonoro, que tem por objectivo a guarda e conservação de gravações e de partituras musicais e a manutenção actualizada de obras gravadas e composições musicais manuscritas destinadas à elaboração de programas de radiodifusão.
+Art. 71.º Na dependência do sector de programas musicais será organizado o arquivo musical e sonoro, que tem por objectivo a guarda e conservação de gravações e de partituras musicais e a manutenção actualizada de obras gravadas e composições musicais manuscritas destinadas à elaboração de programas de radiodifusão.
 
-###### Art. 72.º O arquivo musical e sonoro compreenderá:
+Art. 72.º O arquivo musical e sonoro compreenderá:
 
 a) A discoteca, constituída por todas as gravações mecânicas em material de duração permanente (discos) de obras literárias, musicais ou literário-musicais;
 
@@ -560,7 +588,7 @@ c) A musicoteca, constituída pelas partituras musicais e quaisquer textos de ca
 
 d) O arquivo histórico, constituído por todas as gravações (discos ou fitas magnéticas) de obras que, por determinação dos serviços competentes, tenham interesse histórico, artístico ou documental.
 
-###### Art. 73.º Competirá ao arquivo musical e sonoro:
+Art. 73.º Competirá ao arquivo musical e sonoro:
 
 a) Receber, registar, arquivar e catalogar todas as gravações e obras musicais que sejam propriedade da E. O. A.;
 
@@ -576,11 +604,11 @@ f) Promover a conservação ou substituição das obras e gravações existentes
 
 g) Manter permanentemente actualizado o registo, catalogação e arrumação dos bens confiados à sua guarda.
 
-###### Art. 74.º O arquivo musical e sonoro da E. O. A. constituirá o Arquivo Musical e Sonoro de Angola, a regulamentar em diploma provincial pelo governador-geral de Angola.
+Art. 74.º O arquivo musical e sonoro da E. O. A. constituirá o Arquivo Musical e Sonoro de Angola, a regulamentar em diploma provincial pelo governador-geral de Angola.
 
 #### SECÇÃO II — Biblioteca
 
-###### Art. 75.º A E. O. A. disporá de uma biblioteca e arquivo de antigos, à qual competirá:
+Art. 75.º A E. O. A. disporá de uma biblioteca e arquivo de antigos, à qual competirá:
 
 a) A guarda e conservação dos livros e quaisquer espécies de publicações adquiridas, ou cedidas aos serviços, e que contenham matéria exclusivamente relacionada com qualquer aspecto da radiodifusão;
 
@@ -596,21 +624,21 @@ f) A escrituração do respectivo movimento.
 
 #### SECÇÃO III — Armazéns e oficinas
 
-###### Art. 76.º - 1. Na localidade sede da direcção, bem como junto dos centros emissores e dos emissores referidos no artigo 11.º, poderá haver armazéns ou depósitos para arrecadação e conservação de máquinas, aparelhos e instrumentos, mobiliário, utensílios, impressos e mais artigos destinados à E. O. A., aos quais compete fornecer os correspondentes departamentos da E. O. A., escriturar o movimento do armazém e elaborar o respectivo inventário.
+Art. 76.º - 1. Na localidade sede da direcção, bem como junto dos centros emissores e dos emissores referidos no artigo 11.º, poderá haver armazéns ou depósitos para arrecadação e conservação de máquinas, aparelhos e instrumentos, mobiliário, utensílios, impressos e mais artigos destinados à E. O. A., aos quais compete fornecer os correspondentes departamentos da E. O. A., escriturar o movimento do armazém e elaborar o respectivo inventário.
 
 2. Em circunstâncias julgadas necessárias, poderá haver, na dependência dos armazéns e com a segurança devida contra acidentes de pessoal ou das instalações, depósitos especiais de combustíveis e lubrificantes.
 
-###### Art. 77.º Na localidade sede da direcção, bem como junto dos centros emissores e dos emissores referidos no artigo 11.º, poderá haver oficinas destinadas à reparação de equipamentos do serviço e a quaisquer trabalhos da especialidade que lhe sejam determinados superiormente.
+Art. 77.º Na localidade sede da direcção, bem como junto dos centros emissores e dos emissores referidos no artigo 11.º, poderá haver oficinas destinadas à reparação de equipamentos do serviço e a quaisquer trabalhos da especialidade que lhe sejam determinados superiormente.
 
 #### SECÇÃO IV — Serviços sociais
 
-###### Art. 78.º A direcção da E. O. A. poderá instituir a favor dos seus servidores no activo ou na situação de aposentação e respectivas famílias iniciativas de carácter social e cultural, actividades essas que se realizarão através dos serviços sociais da respectiva direcção, os quais terão autonomia financeira.
+Art. 78.º A direcção da E. O. A. poderá instituir a favor dos seus servidores no activo ou na situação de aposentação e respectivas famílias iniciativas de carácter social e cultural, actividades essas que se realizarão através dos serviços sociais da respectiva direcção, os quais terão autonomia financeira.
 
-###### Art. 79.º - 1. A orientação superior dos serviços sociais competirá ao director da E. O. A., que nomeará uma comissão administrativa, constituída por três funcionários da E. O. A., a quem caberá administrar os respectivos fundos e executar o necessário para o bom funcionamento e desenvolvimento dos serviços sociais.
+Art. 79.º - 1. A orientação superior dos serviços sociais competirá ao director da E. O. A., que nomeará uma comissão administrativa, constituída por três funcionários da E. O. A., a quem caberá administrar os respectivos fundos e executar o necessário para o bom funcionamento e desenvolvimento dos serviços sociais.
 
 2. A comissão administrativa organizará e prestará, na qualidade de exactor, contas de responsabilidade dos fundos que gere, por anos económicos, que remeterá ao sector de contabilidade, para os trâmites legais.
 
-###### Art. 80.º As receitas dos serviços sociais serão constituídas:
+Art. 80.º As receitas dos serviços sociais serão constituídas:
 
 a) Pelas verbas que para tal efeito se inscreverem nos orçamentos de despesa da E. O. A.;
 
@@ -628,19 +656,19 @@ g) Pelas importâncias provenientes de quaisquer actividades ou iniciativas que 
 
 h) Pelas quotizações dos servidores da E. O. A. e dos participantes referidos no artigo 82.º, as quais serão estabelecidas pelo conselho de administração.
 
-###### Art. 81.º As despesas efectuadas pelos serviços sociais carecem de autorização prévia do conselho de administração da E. O. A., mediante proposta da respectiva comissão administrativa.
+Art. 81.º As despesas efectuadas pelos serviços sociais carecem de autorização prévia do conselho de administração da E. O. A., mediante proposta da respectiva comissão administrativa.
 
-###### Art. 82.º Poderão, a seu pedido, ser admitidos pelo conselho de administração, como participantes dos serviços sociais da E. O. A., todos os servidores da radiodifusão não oficial da província, mediante o pagamento das quotizações que estiverem estabelecidas para os servidores da E. O. A.
+Art. 82.º Poderão, a seu pedido, ser admitidos pelo conselho de administração, como participantes dos serviços sociais da E. O. A., todos os servidores da radiodifusão não oficial da província, mediante o pagamento das quotizações que estiverem estabelecidas para os servidores da E. O. A.
 
 ### CAPÍTULO VII — Da prestação de serviço
 
-###### Art. 83.º As condições de prestação de serviço do pessoal da E. O. A. serão as preceituadas na lei geral, com as excepções constantes do presente diploma.
+Art. 83.º As condições de prestação de serviço do pessoal da E. O. A. serão as preceituadas na lei geral, com as excepções constantes do presente diploma.
 
-###### Art. 84.º O serviço normal dos funcionários do quadro da E. O. A. terá a duração de trinta e seis horas semanais e o do pessoal assalariado terá a duração de quarenta e quatro horas semanais.
+Art. 84.º O serviço normal dos funcionários do quadro da E. O. A. terá a duração de trinta e seis horas semanais e o do pessoal assalariado terá a duração de quarenta e quatro horas semanais.
 
-###### Art. 85.º Os horários do pessoal serão estabelecidos pelo director, de harmonia com as conveniências do serviço.
+Art. 85.º Os horários do pessoal serão estabelecidos pelo director, de harmonia com as conveniências do serviço.
 
-###### Art. 86.º - 1. Considera-se serviço extraordinário o que for executado além dos tempos fixados para o serviço normal diário e a remuneração por ele devida será calculada na base do valor da hora do serviço normal correspondente à categoria do funcionário que prestar serviço extraordinário.
+Art. 86.º - 1. Considera-se serviço extraordinário o que for executado além dos tempos fixados para o serviço normal diário e a remuneração por ele devida será calculada na base do valor da hora do serviço normal correspondente à categoria do funcionário que prestar serviço extraordinário.
 
 2. A remuneração do serviço extraordinário carece de autorização do conselho de administração da E. O. A.
 
@@ -650,7 +678,7 @@ h) Pelas quotizações dos servidores da E. O. A. e dos participantes referidos 
 
 ### CAPÍTULO VIII — Do quadro do pessoal
 
-###### Art. 87.º - 1. O quadro do pessoal da E. O. A. terá a constituição indicada no mapa anexo a este diploma e que dele faz parte integrante.
+Art. 87.º - 1. O quadro do pessoal da E. O. A. terá a constituição indicada no mapa anexo a este diploma e que dele faz parte integrante.
 
 2. Além do pessoal do quadro, poderá ser contratado e assalariado, nos termos legais, outro pessoal indispensável ao bom desempenho das funções, conforme as necessidades de serviço, desde que no orçamento privativo da E. O. A. existam as verbas necessárias para ocorrer aos respectivos encargos.
 
@@ -662,9 +690,9 @@ Fiscais de taxas;
 
 Contínuos-porteiros.
 
-###### Art. 88.º A E. O. A. poderá, quando necessário, recorrer a colaboradores de nacionalidade portuguesa ou estrangeira, designadamente escritores, redactores, músicos e outros artistas, a serem remunerados por verbas globais e de acordo com tabelas a aprovar pelo governador-geral de Angola, mediante proposta do conselho de administração da E. O. A.
+Art. 88.º A E. O. A. poderá, quando necessário, recorrer a colaboradores de nacionalidade portuguesa ou estrangeira, designadamente escritores, redactores, músicos e outros artistas, a serem remunerados por verbas globais e de acordo com tabelas a aprovar pelo governador-geral de Angola, mediante proposta do conselho de administração da E. O. A.
 
-###### Art. 89.º - 1. Aos funcionários da E. O. A. serão atribuídas as seguintes gratificações mensais:
+Art. 89.º - 1. Aos funcionários da E. O. A. serão atribuídas as seguintes gratificações mensais:
 
 a) Ao director da E. O. A. ... 4000$00
 
@@ -688,29 +716,29 @@ i) Aos funcionários de categoria não superior à letra L que, com carácter pe
 
 3. Os quantitativos das gratificações referidas na alínea i) do n.º 1 deste artigo serão fixados, para cada caso, por despacho do governador-geral da província, sob proposta do conselho de administração da E. O. A.
 
-###### Art. 90.º - 1. Poderá o governador-geral, por proposta do conselho de administração da E. O. A., atribuir ao pessoal técnico um subsídio diário, o qual será acumulável com todos os abonos ou gratificações, incluindo o abono de família e subsídio para renda de casa, a que tenha direito, com excepção das gratificações estabelecidas nas alíneas a), b) e c) do n.º 1 do artigo 89.º
+Art. 90.º - 1. Poderá o governador-geral, por proposta do conselho de administração da E. O. A., atribuir ao pessoal técnico um subsídio diário, o qual será acumulável com todos os abonos ou gratificações, incluindo o abono de família e subsídio para renda de casa, a que tenha direito, com excepção das gratificações estabelecidas nas alíneas a), b) e c) do n.º 1 do artigo 89.º
 
 2. O subsídio diário referido no n.º 1 deste artigo será fixado de harmonia com o custo de vida, circunstâncias especiais que caracterizam o desempenho da função, categoria do pessoal e grau maior ou menor de regalias já concedidas.
 
-###### Art. 91.º O abono das gratificações mencionadas nas alíneas a), b) e c) do artigo 89.º ou do subsídio diário a que se refere o artigo 90.º acarretará a proibição de qualquer actividade particular remunerada.
+Art. 91.º O abono das gratificações mencionadas nas alíneas a), b) e c) do artigo 89.º ou do subsídio diário a que se refere o artigo 90.º acarretará a proibição de qualquer actividade particular remunerada.
 
 ### CAPÍTULO IX — Do provimento dos lugares
 
 #### SECÇÃO I — Da admissão no quadro
 
-###### Art. 92.º O provimento dos lugares do quadro da E. O. A. far-se-á por nomeação ou comissão de serviço, de acordo com a lei geral e com as disposições do presente diploma.
+Art. 92.º O provimento dos lugares do quadro da E. O. A. far-se-á por nomeação ou comissão de serviço, de acordo com a lei geral e com as disposições do presente diploma.
 
-###### Art. 93.º O lugar de director da E. O. A será provido, em comissão de serviço, por livre escolha do Ministro do Ultramar de entre indivíduos habilitados com curso superior de uma Universidade Clássica ou Técnica e conhecimentos, treino e competência em assuntos de radiodifusão profissional devidamente reconhecidos e documentados.
+Art. 93.º O lugar de director da E. O. A será provido, em comissão de serviço, por livre escolha do Ministro do Ultramar de entre indivíduos habilitados com curso superior de uma Universidade Clássica ou Técnica e conhecimentos, treino e competência em assuntos de radiodifusão profissional devidamente reconhecidos e documentados.
 
-###### Art. 94.º O lugar de director dos Serviços de Programas será provido por livre escolha do Ministro do Ultramar de entre licenciados com o curso superior de Direito, de Letras ou de Ciências Sociais e Política Ultramarina e qualificações de especialidade devidamente reconhecidas e documentadas.
+Art. 94.º O lugar de director dos Serviços de Programas será provido por livre escolha do Ministro do Ultramar de entre licenciados com o curso superior de Direito, de Letras ou de Ciências Sociais e Política Ultramarina e qualificações de especialidade devidamente reconhecidas e documentadas.
 
-###### Art. 95.º O lugar de director dos Serviços Técnicos será provido por livre escolha do Ministro do Ultramar de entre engenheiros electrotécnicos com conhecimentos, treino e competência na técnica de radiodifusão, e designadamente em radioelectricidade, devidamente reconhecidos e documentados.
+Art. 95.º O lugar de director dos Serviços Técnicos será provido por livre escolha do Ministro do Ultramar de entre engenheiros electrotécnicos com conhecimentos, treino e competência na técnica de radiodifusão, e designadamente em radioelectricidade, devidamente reconhecidos e documentados.
 
-###### Art. 96.º O lugar de chefe da Repartição dos Serviços Administrativos será provido por livre escolha do Ministro do Ultramar de entre licenciados com o curso superior de Direito, de Ciências Económicas e Financeiras, de Economia ou de Ciências Sociais e Política Ultramarina e qualificações de especialidade devidamente reconhecidas e documentadas.
+Art. 96.º O lugar de chefe da Repartição dos Serviços Administrativos será provido por livre escolha do Ministro do Ultramar de entre licenciados com o curso superior de Direito, de Ciências Económicas e Financeiras, de Economia ou de Ciências Sociais e Política Ultramarina e qualificações de especialidade devidamente reconhecidas e documentadas.
 
-###### Art. 97.º O lugar de inspector será provido por livre escolha do Ministro do Ultramar de entre licenciados com curso superior de uma Universidade Clássica ou Técnica e conhecimentos de assuntos de radiodifusão devidamente reconhecidos e documentados.
+Art. 97.º O lugar de inspector será provido por livre escolha do Ministro do Ultramar de entre licenciados com curso superior de uma Universidade Clássica ou Técnica e conhecimentos de assuntos de radiodifusão devidamente reconhecidos e documentados.
 
-###### Art. 98.º - 1. Os lugares de ingresso serão providos por meio de concurso de provas práticas, exigindo-se as seguintes habilitações mínimas:
+Art. 98.º - 1. Os lugares de ingresso serão providos por meio de concurso de provas práticas, exigindo-se as seguintes habilitações mínimas:
 
 a) Para locutor de 2.ª classe, coordenador de 2.ª classe, assistente de programas literários de 2.ª classe, assistente de programas musicais de 2.ª classe, arquivista musical de 2.ª classe e sonorizador de 2.ª classe - 2.º ciclo do curso dos liceus ou equivalente;
 
@@ -734,15 +762,15 @@ i) Para condutor de automóveis - 2.º grau de instrução primária e carta de 
 
 #### SECÇÃO II — Da promoção no quadro
 
-###### Art. 99.º - 1. As promoções dos funcionários do quadro da E. O. A. serão feitas por concurso de provas práticas, de acordo com a lei geral e com as disposições deste diploma.
+Art. 99.º - 1. As promoções dos funcionários do quadro da E. O. A. serão feitas por concurso de provas práticas, de acordo com a lei geral e com as disposições deste diploma.
 
 2. Quando as funções dos cargos a preencher por promoção sejam de natureza burocrática, poderão as provas ser apenas escritas.
 
 3. Quando um concurso de promoção ficar deserto por carência de opositores obrigatórios que possuam as habilitações exigidas pelo presente decreto, será aberto novo concurso, ao qual serão admitidos quaisquer indivíduos estranhos à E. O. A. que o requeiram e possuam as habilitações exigidas.
 
-###### Art. 100.º A admissão aos concursos de promoção será obrigatória para todos os candidatos que reúnam as condições legais, sem dependência de requerimento dos interessados.
+Art. 100.º A admissão aos concursos de promoção será obrigatória para todos os candidatos que reúnam as condições legais, sem dependência de requerimento dos interessados.
 
-###### Art. 101.º - 1. Nas promoções do pessoal da E. O. A. deverá observar-se o seguinte:
+Art. 101.º - 1. Nas promoções do pessoal da E. O. A. deverá observar-se o seguinte:
 
 a) Ao lugar de chefe do departamento de programação serão opositores obrigatórios os chefes dos sectores de informação, programas literários e intercâmbio e de programas musicais;
 
@@ -804,35 +832,35 @@ zd) Aos lugares de encarregado de armazém serão opositores obrigatórios os fi
 
 #### SECÇÃO III — Concursos
 
-###### Art. 102.º Os concursos de admissão ou promoção serão obrigatòriamente abertos logo que haja uma vaga a preencher e desde que não haja candidatos por nomear aprovados em concurso anterior válido.
+Art. 102.º Os concursos de admissão ou promoção serão obrigatòriamente abertos logo que haja uma vaga a preencher e desde que não haja candidatos por nomear aprovados em concurso anterior válido.
 
-###### Art. 103.º - 1. O prazo de validade da lista de classificação de qualquer concurso de admissão eu promoção será de dois anos, a contar da data da publicação da mesma lista no Boletim Oficial da província.
+Art. 103.º - 1. O prazo de validade da lista de classificação de qualquer concurso de admissão eu promoção será de dois anos, a contar da data da publicação da mesma lista no Boletim Oficial da província.
 
 2. O prazo de validade de qualquer lista de classificação poderá ser prorrogado por um ano e apenas uma vez, quando não tiverem ainda sido nomeados ou promovidos candidatos que tenham obtido a classificação de Muito Bom e Bom, segundo a escala académica.
 
-###### Art. 104.º Quando se preveja escassez de concorrentes da província, aplicar-se-ão a quaisquer concursos de admissão para o quadro da E. O. A. as disposições do artigo 18.º do Estatuto do Funcionalismo Ultramarino.
+Art. 104.º Quando se preveja escassez de concorrentes da província, aplicar-se-ão a quaisquer concursos de admissão para o quadro da E. O. A. as disposições do artigo 18.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 105.º - 1. A nomeação dos júris dos concursos de apreciação ou de fiscalização a realizar no Ministério do Ultramar será proposta pela Direcção-Geral de Administração Civil do Ministério do Ultramar e um dos seus membros será funcionário da Emissora Nacional de Radiodifusão, para o efeito requisitado.
+Art. 105.º - 1. A nomeação dos júris dos concursos de apreciação ou de fiscalização a realizar no Ministério do Ultramar será proposta pela Direcção-Geral de Administração Civil do Ministério do Ultramar e um dos seus membros será funcionário da Emissora Nacional de Radiodifusão, para o efeito requisitado.
 
 2. Quando se trate de júris para concursos de lugares exclusivamente técnicos, deverá ser prèviamente consultada a Direcção-Geral de Obras Públicas e Comunicações do Ministério do Ultramar.
 
-###### Art. 106.º - 1. Os júris de apreciação dos concursos a realizar na província serão nomeados pelo governador-geral, sendo presididos pelo director da E. O. A. e tendo como vogais dois funcionários do mesmo serviço, propostos pelo mesmo director.
+Art. 106.º - 1. Os júris de apreciação dos concursos a realizar na província serão nomeados pelo governador-geral, sendo presididos pelo director da E. O. A. e tendo como vogais dois funcionários do mesmo serviço, propostos pelo mesmo director.
 
 2. O director da E. O. A. poderá delegar a presidência do júri em funcionário da E. O. A. de categoria não inferior à dos vogais.
 
 3. Quando na E. O. A. não houver funcionarmos em número suficiente para actuarem como vogais dos júris de concursos, poderá o governador-geral designar para o efeito funcionários doutros serviços.
 
-###### Art. 107.º Na realização dos concursos para preenchimento de vagas do quadro da E. O. A. observar-se-ão as disposições contidas nos artigos 16.º a 25.º e 67.º a 70.º do Estatuto do Funcionalismo Ultramarino, desde que não contrariem as disposições do presente decreto.
+Art. 107.º Na realização dos concursos para preenchimento de vagas do quadro da E. O. A. observar-se-ão as disposições contidas nos artigos 16.º a 25.º e 67.º a 70.º do Estatuto do Funcionalismo Ultramarino, desde que não contrariem as disposições do presente decreto.
 
-###### Art. 108.º É expressamente proibido aos funcionários da E. O. A. prestar quaisquer informações sobre os resultados dos concursos antes de aprovada superiormente a sua classificação final.
+Art. 108.º É expressamente proibido aos funcionários da E. O. A. prestar quaisquer informações sobre os resultados dos concursos antes de aprovada superiormente a sua classificação final.
 
-###### Art. 109.º Quando o concurso deva ter lugar simultâneamente na província, no Ministério do Ultramar e ou noutras províncias, cada ponto será encerrado em tantos sobrescritos quantos os locais em que se realizem as provas, contendo cada um o número de exemplares necessários, sendo um dos sobrescritos conservado pelo presidente do júri na província e os outros remetidos ao Ministério do Ultramar e aos governos das outras províncias, por intermédio do governador-geral, acompanhados de ofícios.
+Art. 109.º Quando o concurso deva ter lugar simultâneamente na província, no Ministério do Ultramar e ou noutras províncias, cada ponto será encerrado em tantos sobrescritos quantos os locais em que se realizem as provas, contendo cada um o número de exemplares necessários, sendo um dos sobrescritos conservado pelo presidente do júri na província e os outros remetidos ao Ministério do Ultramar e aos governos das outras províncias, por intermédio do governador-geral, acompanhados de ofícios.
 
-###### Art. 110.º No caso previsto no artigo 109.º, a prestação de provas terá início à mesma hora T. M. G., o mais aproximadamente possível.
+Art. 110.º No caso previsto no artigo 109.º, a prestação de provas terá início à mesma hora T. M. G., o mais aproximadamente possível.
 
 ### CAPÍTULO X — Das funções, atribuições e competência dos funcionários
 
-###### Art. 111.º Ao director da E. O. A. compete manter os serviços em perfeito estado de eficiência, e nomeadamente:
+Art. 111.º Ao director da E. O. A. compete manter os serviços em perfeito estado de eficiência, e nomeadamente:
 
 a) Dirigir superiormente o serviço, prescrevendo as instruções que convierem ao bom andamento do mesmo, em conformidade com as leis e regulamentos em vigor, e resolver as dúvidas que forem apresentadas pelos seus subordinados;
 
@@ -864,7 +892,7 @@ n) Fazer publicar oficialmente quaisquer trabalhos especiais sobre o serviço ou
 
 o) Aprovar os horários do pessoal.
 
-###### Art. 112.º Aos directores de serviços e chefe de repartição compete, em relação aos serviços correspondentes, mantê-los em estado de perfeita eficiência, e nomeadamente:
+Art. 112.º Aos directores de serviços e chefe de repartição compete, em relação aos serviços correspondentes, mantê-los em estado de perfeita eficiência, e nomeadamente:
 
 a) Dirigir, orientar e fiscalizar os serviços a seu cargo e sob a sua jurisdição, propondo o que for preciso;
 
@@ -894,7 +922,7 @@ m) Apresentar a despacho os assuntos que tenham sido distribuídos às respectiv
 
 n) Delegar nos chefes de departamentos ou chefes de divisão quaisquer das suas atribuições, com excepção da sua competência disciplinar.
 
-###### Art. 113.º Ao inspector compete:
+Art. 113.º Ao inspector compete:
 
 a) Superintender na execução das tarefas enunciadas no artigo 70.º, e nomeadamente executar os estudos, trabalhos, relatórios, pareceres e outros serviços ordenados pelo director da E. O. A.;
 
@@ -912,17 +940,17 @@ g) Verificar o estado dos edifícios, do mobiliário e do material, dando conhec
 
 h) Propor as providências que julgar necessárias ao melhoramento dos serviços.
 
-###### Art. 114.º Aos chefes de departamento e aos chefes de sector compete a execução das tarefas distribuídas ao respectivo departamento ou sector, de acordo com as normas de execução que forem determinadas e outras instruções especiais.
+Art. 114.º Aos chefes de departamento e aos chefes de sector compete a execução das tarefas distribuídas ao respectivo departamento ou sector, de acordo com as normas de execução que forem determinadas e outras instruções especiais.
 
-###### Art. 115.º Aos chefes de divisão e aos chefes de secção compete a execução das tarefas atribuídas à respectiva divisão ou secção, de acordo com as normas de execução que forem determinadas e outras instruções especiais.
+Art. 115.º Aos chefes de divisão e aos chefes de secção compete a execução das tarefas atribuídas à respectiva divisão ou secção, de acordo com as normas de execução que forem determinadas e outras instruções especiais.
 
-###### Art. 116.º Aos restantes funcionários compete executar as tarefas de acordo com as normas, instruções de serviço e outras que os respectivos superiores hierárquicos lhes transmitirem.
+Art. 116.º Aos restantes funcionários compete executar as tarefas de acordo com as normas, instruções de serviço e outras que os respectivos superiores hierárquicos lhes transmitirem.
 
-###### Art. 117.º Os funcionários da E. O. A., além das funções que lhes competirem, desempenharão as que superiormente lhes forem determinadas, de acordo com as suas categorias, especializações e conhecimentos.
+Art. 117.º Os funcionários da E. O. A., além das funções que lhes competirem, desempenharão as que superiormente lhes forem determinadas, de acordo com as suas categorias, especializações e conhecimentos.
 
-###### Art. 118.º O director da E. O. A. será substituído nas suas faltas ou impedimentos pelo director de serviços que o governador-geral designar anualmente para o efeito.
+Art. 118.º O director da E. O. A. será substituído nas suas faltas ou impedimentos pelo director de serviços que o governador-geral designar anualmente para o efeito.
 
-###### Art. 119.º - 1. Os funcionários da E. O. A. a seguir indicados são substituídos nas suas faltas ou impedimentos pela forma seguinte:
+Art. 119.º - 1. Os funcionários da E. O. A. a seguir indicados são substituídos nas suas faltas ou impedimentos pela forma seguinte:
 
 a) Directores de serviços (programas e técnicos) - pelos chefes de departamento dos respectivos serviços que forem designados pelo director da E. O. A.;
 
@@ -944,15 +972,15 @@ h) Chefes de secção - pelo funcionário da secção que for designado pelo res
 
 ### CAPÍTULO XI — Da instrução profissional do pessoal
 
-###### Art. 120.º - 1. A E. O. A., de acordo com as possibilidades, promoverá o aperfeiçoamento do seu pessoal, mandando ministrar-lhe instrução das diferentes especialidades, podendo facultar-lhe estágios na província ou fora dela.
+Art. 120.º - 1. A E. O. A., de acordo com as possibilidades, promoverá o aperfeiçoamento do seu pessoal, mandando ministrar-lhe instrução das diferentes especialidades, podendo facultar-lhe estágios na província ou fora dela.
 
 2. Em condições a estabelecer por portaria do governador-geral, poderão ser abrangidos pelo disposto no n.º 1 deste artigo os profissionais da radiodifusão não oficial da província.
 
-###### Art. 121.º Aos candidatos admitidos aos concursos de admissão para as categorias de locutor de 2.ª classe, coordenador de 2.ª classe, assistente literário de 2.ª classe, sonorizador de 2.ª classe, assistente musical de 2.ª classe, arquivista musical de 2.ª classe, assistente técnico, operador técnico de 2.ª classe, radiomontador de 2.ª classe, terceiro-oficial, fiscal de taxas e ajudante de operador audiotécnico poderá a E. O. A. facultar, nas suas instalações e com instrutores seus, a aprendizagem profissional teórica e prática para os referidos concursos.
+Art. 121.º Aos candidatos admitidos aos concursos de admissão para as categorias de locutor de 2.ª classe, coordenador de 2.ª classe, assistente literário de 2.ª classe, sonorizador de 2.ª classe, assistente musical de 2.ª classe, arquivista musical de 2.ª classe, assistente técnico, operador técnico de 2.ª classe, radiomontador de 2.ª classe, terceiro-oficial, fiscal de taxas e ajudante de operador audiotécnico poderá a E. O. A. facultar, nas suas instalações e com instrutores seus, a aprendizagem profissional teórica e prática para os referidos concursos.
 
-###### Art. 122.º Quando a instrução for ministrada fora do horário normal de serviço, serão abonadas aos instrutores as correspondentes remunerações por serviço extraordinário.
+Art. 122.º Quando a instrução for ministrada fora do horário normal de serviço, serão abonadas aos instrutores as correspondentes remunerações por serviço extraordinário.
 
-###### Art. 123.º - 1. Serão determinados, por despacho do director da E. O. A., os cursos de aperfeiçoamento a realizar, para os quais é obrigatória a frequência, como alunos, pelos funcionários da E. O. A. que forem designados em despacho dos directores de serviços ou chefe de repartição e facultativa para os restantes.
+Art. 123.º - 1. Serão determinados, por despacho do director da E. O. A., os cursos de aperfeiçoamento a realizar, para os quais é obrigatória a frequência, como alunos, pelos funcionários da E. O. A. que forem designados em despacho dos directores de serviços ou chefe de repartição e facultativa para os restantes.
 
 2. Sempre que possível, os horários dos cursos referidos no n.º 1 deste artigo serão estabelecidos fora dos horários normais de serviço, e aos alunos obrigatórios que obtenham aproveitamento serão abonadas horas extraordinárias sempre que a frequência das aulas tenha lugar fora do horário normal de serviço.
 
@@ -960,7 +988,7 @@ h) Chefes de secção - pelo funcionário da secção que for designado pelo res
 
 ### CAPÍTULO XII — Direitos e deveres
 
-###### Art. 124.º - 1. Os funcionários da E. O. A., além dos direitos gerais dos funcionários públicos, têm os seguintes:
+Art. 124.º - 1. Os funcionários da E. O. A., além dos direitos gerais dos funcionários públicos, têm os seguintes:
 
 a) Podem solicitar o auxílio das autoridades administrativas e policiais, quando for necessário, para o desempenho das suas funções;
 
@@ -970,33 +998,33 @@ c) Estão isentos do pagamento de taxas de radiodifusão sonora para um único r
 
 2. Os fiscais de taxas terão ainda as prerrogativas que estiverem fixadas em diploma especial sobre instalações radioeléctricas receptoras de radiodifusão.
 
-###### Art. 125.º Os funcionários da E. O. A. deverão ter sempre em seu poder o bilhete de identidade passado nos termos do Estatuto do Funcionalismo Ultramarino, no qual deverão ser transcritos os seus direitos e isenções.
+Art. 125.º Os funcionários da E. O. A. deverão ter sempre em seu poder o bilhete de identidade passado nos termos do Estatuto do Funcionalismo Ultramarino, no qual deverão ser transcritos os seus direitos e isenções.
 
-###### Art. 126.º Nas cerimónias oficiais e nas restantes ocasiões que exigirem especial aspecto e representação, os funcionários da E. O. A., quando em serviço, usarão os uniformes que estiverem legalmente aprovados pelo Ministro do Ultramar, sob proposta do governador-geral de Angola.
+Art. 126.º Nas cerimónias oficiais e nas restantes ocasiões que exigirem especial aspecto e representação, os funcionários da E. O. A., quando em serviço, usarão os uniformes que estiverem legalmente aprovados pelo Ministro do Ultramar, sob proposta do governador-geral de Angola.
 
-###### Art. 127.º O pessoal da E. O. A. terá direito a casa ou, na sua falta, à percepção de um subsídio para renda de casa, nas condições gerais estabelecidas para os funcionários públicos da província.
+Art. 127.º O pessoal da E. O. A. terá direito a casa ou, na sua falta, à percepção de um subsídio para renda de casa, nas condições gerais estabelecidas para os funcionários públicos da província.
 
-###### Art. 128.º O pessoal da E. O. A. é obrigado, em tempo de paz ou de guerra, a coadjuvar ou desempenhar serviços do sua especialidade e de interesse para as forças armadas, de acordo com a legislação aplicável que estiver em vigor.
+Art. 128.º O pessoal da E. O. A. é obrigado, em tempo de paz ou de guerra, a coadjuvar ou desempenhar serviços do sua especialidade e de interesse para as forças armadas, de acordo com a legislação aplicável que estiver em vigor.
 
-###### Art. 129.º - 1. É vedado ao pessoal da E. O. A. o desempenho de funções que envolvam representação ou delegação de empresas jornalísticas, agências de notícias ou de quaisquer organizações de radiodifusão.
+Art. 129.º - 1. É vedado ao pessoal da E. O. A. o desempenho de funções que envolvam representação ou delegação de empresas jornalísticas, agências de notícias ou de quaisquer organizações de radiodifusão.
 
 2. Aos locutores é vedada a colaboração em programas de radiodifusão estranhos à E. O. A. e a utilização dos seus nomes para a denominação e patrocínio deles.
 
 ### CAPÍTULO XIII — Disposições finais e transitórias
 
-###### Art. 130.º - 1. São extintos a Comissão Coordenadora do Plano de Radiodifusão de Angola, cujos serviços se integram na E. O. A., segundo o preceituado neste diploma, e os serviços oficiais de radiodifusão do C. I. T. A.
+Art. 130.º - 1. São extintos a Comissão Coordenadora do Plano de Radiodifusão de Angola, cujos serviços se integram na E. O. A., segundo o preceituado neste diploma, e os serviços oficiais de radiodifusão do C. I. T. A.
 
 2. As actuais atribuições dos serviços oficiais de radiodifusão do C. I. T. A. que não transitarem para a E. O. A. nos termos deste decreto transitarão para as repartições do C. I. T. A. que forem designadas pelo governador-geral da província, por proposta do respectivo director.
 
-###### Art. 131.º - 1. Transitam para o património da E. O. A. todas as infra-estruturas, edifícios, móveis, utensílios e outros bens que presentemente estão afectos à Emissora Oficial da província e à Comissão Coordenadora do Plano de Radiodifusão de Angola.
+Art. 131.º - 1. Transitam para o património da E. O. A. todas as infra-estruturas, edifícios, móveis, utensílios e outros bens que presentemente estão afectos à Emissora Oficial da província e à Comissão Coordenadora do Plano de Radiodifusão de Angola.
 
 2. Para os efeitos do n.º 1 deste artigo o governador-geral da província, no prazo de quinze dias, a contar da data da publicação do presente decreto no Boletim Oficial da província, nomeará uma comissão para inventariar os bens que hajam de transitar para o património da E. O. A., devendo esta lavrar o respectivo auto, que carecerá de homologação do governador-geral.
 
-###### Art. 132.º Na data da entrada em vigor do presente diploma serão encerradas todas as contas da Emissora Oficial da província na dependência do C. I. T. A., transitando para o primeiro orçamento privativo da E. O. A., criada, o saldo orçamental que for apurado e transitando igualmente para aquele primeiro orçamento privativo as totalidades dos saldos de exercícios da E. O. A.
+Art. 132.º Na data da entrada em vigor do presente diploma serão encerradas todas as contas da Emissora Oficial da província na dependência do C. I. T. A., transitando para o primeiro orçamento privativo da E. O. A., criada, o saldo orçamental que for apurado e transitando igualmente para aquele primeiro orçamento privativo as totalidades dos saldos de exercícios da E. O. A.
 
-###### Art. 133.º Transitarão para o primeiro orçamento privativo da E. O. A. ou seu suplementar, como receita extraordinária, os saldos das dotações que estejam atribuídas nos termos da [Portaria n.º 18272](https://diariodarepublica.pt/dr/detalhe/portaria/18272-1961-554607), de 16 de Fevereiro de 1961.
+Art. 133.º Transitarão para o primeiro orçamento privativo da E. O. A. ou seu suplementar, como receita extraordinária, os saldos das dotações que estejam atribuídas nos termos da [Portaria n.º 18272](https://diariodarepublica.pt/dr/detalhe/portaria/18272-1961-554607), de 16 de Fevereiro de 1961.
 
-###### Art. 134.º - 1. O Ministro de Ultramar, ouvido o governador-geral da província, distribuirá, em portaria, o pessoal que na data da publicação do presente diploma estiver prestando serviço na Emissora Oficial da província ou na Comissão Coordenadora do Plano de Radiodifusão de Angola pelos lugares tanto quanto possível correspondentes ao quadro da E. O. A. criado pelo presente diploma, com dispensa de limite de idade e qualquer que seja o actual regime de provimento.
+Art. 134.º - 1. O Ministro de Ultramar, ouvido o governador-geral da província, distribuirá, em portaria, o pessoal que na data da publicação do presente diploma estiver prestando serviço na Emissora Oficial da província ou na Comissão Coordenadora do Plano de Radiodifusão de Angola pelos lugares tanto quanto possível correspondentes ao quadro da E. O. A. criado pelo presente diploma, com dispensa de limite de idade e qualquer que seja o actual regime de provimento.
 
 2. Na portaria a que se refere o n.º 1 deste artigo poderá o Ministro prover nas vagas existentes:
 
@@ -1010,7 +1038,7 @@ c) Na distribuição a que se refere o n.º 1 deste artigo poderão ser incluíd
 
 4. Até à data da posse referida no número anterior o pessoal da Emissora Oficial da província e da Comissão de Coordenação do Plano de Radiodifusão de Angola continuará a ser abonado dos seus vencimentos e outras remunerações pelas verbas que actualmente suportam os respectivos encargos.
 
-###### Art. 135.º - 1. Os funcionários e agentes que na data da entrada em vigor do presente diploma estiverem há mais de seis meses ao serviço da Emissora Oficial da província, como contratados ou assalariados, e não forem distribuídos pela portaria referida no artigo 134.º, manter-se-ão ao serviço nas mesmas situações, considerando-se extintos os respectivos lugares à medida que vagarem.
+Art. 135.º - 1. Os funcionários e agentes que na data da entrada em vigor do presente diploma estiverem há mais de seis meses ao serviço da Emissora Oficial da província, como contratados ou assalariados, e não forem distribuídos pela portaria referida no artigo 134.º, manter-se-ão ao serviço nas mesmas situações, considerando-se extintos os respectivos lugares à medida que vagarem.
 
 2. Enquanto se mantiverem ao serviço os funcionários e agentes a que se refere o n.º 1 deste artigo e nas situações nele previstas, não poderá ser preenchido igual número de lugares, tanto quanto possível equivalentes, do quadro da E. O. A.
 
@@ -1018,33 +1046,33 @@ c) Na distribuição a que se refere o n.º 1 deste artigo poderão ser incluíd
 
 4. Nos casos em que, por virtude de nomeação efectuada nos termos do n.º 3 anterior, se verifique diminuição nos vencimentos ou salários, será abonado a título de compensação aos respectivos funcionários ou agentes, enquanto não forem promovidos à classe imediata e estiverem na actividade do serviço, um complemento igual à diferença entre o vencimento (base e complementar) do lugar em que forem providos e a totalidade de remuneração anteriormente percebida.
 
-###### Art. 136.º É reconhecido o direito à contagem de tempo para efeitos de aposentação aos agentes que, tendo exercido funções efectivas e recebendo ou tendo recebido remunerações em regime de contrato ou de assalariamento, mesmo por verbas globais, da Emissora Oficial da província ou da Comissão de Coordenação do Plano de Radiodifusão de Angola, venham a transitar, sem interrupção de funções, para o quadro da E. O. A. e assim o requeiram, efectuando os respectivos descontos para compensação de aposentação, os quais poderão ter lugar no máximo de prestações permitidas pela lei.
+Art. 136.º É reconhecido o direito à contagem de tempo para efeitos de aposentação aos agentes que, tendo exercido funções efectivas e recebendo ou tendo recebido remunerações em regime de contrato ou de assalariamento, mesmo por verbas globais, da Emissora Oficial da província ou da Comissão de Coordenação do Plano de Radiodifusão de Angola, venham a transitar, sem interrupção de funções, para o quadro da E. O. A. e assim o requeiram, efectuando os respectivos descontos para compensação de aposentação, os quais poderão ter lugar no máximo de prestações permitidas pela lei.
 
-###### Art. 137.º - 1. Os funcionários que transitarem para o quadro da E. O. A. ao abrigo deste diploma não poderão ser promovidos à categoria imediata sem que possuam as habilitações literárias mínimas exigidas para promoção a essa categoria.
+Art. 137.º - 1. Os funcionários que transitarem para o quadro da E. O. A. ao abrigo deste diploma não poderão ser promovidos à categoria imediata sem que possuam as habilitações literárias mínimas exigidas para promoção a essa categoria.
 
 2. Os funcionários referidos no n.º 1 deste artigo poderão, contudo, ser admitidos a concurso de promoção à classe superior com dispensa das habilitações literárias exigidas, desde que tenham desempenhado durante cinco anos, com boas informações, os lugares em que forem colocados ao abrigo deste diploma.
 
-###### Art. 138.º - 1. O primeiro provimento dos lugares de categoria superior à letra G do artigo 91.º do Estatuto do Funcionalismo Ultramarino que ficarem vagos no quadro da E. O. A. depois da transição dos actuais funcionários da Emissora Oficial de Angola ao abrigo deste decreto poderá ser feito por livre escolha do Ministro do Ultramar de entre indivíduos que possuam as condições exigidas por este diploma para nomeação ou promoção a essa categoria.
+Art. 138.º - 1. O primeiro provimento dos lugares de categoria superior à letra G do artigo 91.º do Estatuto do Funcionalismo Ultramarino que ficarem vagos no quadro da E. O. A. depois da transição dos actuais funcionários da Emissora Oficial de Angola ao abrigo deste decreto poderá ser feito por livre escolha do Ministro do Ultramar de entre indivíduos que possuam as condições exigidas por este diploma para nomeação ou promoção a essa categoria.
 
 2. O disposto no n.º 1 deste artigo é igualmente aplicável ao primeiro provimento dos lugares de categoria igual ou inferior à letra G do artigo 91.º do Estatuto do Funcionalismo Ultramarino, cabendo a escolha ao Ministro do Ultramar ou ao governador-geral da província, conforme as suas competências, mediante requerimento dos interessados, a apresentar dentro do prazo que, para o efeito, for fixado nos respectivos anúncios a serem publicados.
 
-###### Art. 139.º Poderão ser requisitados para prestar serviço na E. O. A. funcionários técnicos devidamente diplomados, nos termos do [Decreto-Lei n.º 39677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39677-1954-635429), de 24 de Maio de 1954, e outros funcionários especializados que acordo ou legislação especial vierem a permitir.
+Art. 139.º Poderão ser requisitados para prestar serviço na E. O. A. funcionários técnicos devidamente diplomados, nos termos do [Decreto-Lei n.º 39677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39677-1954-635429), de 24 de Maio de 1954, e outros funcionários especializados que acordo ou legislação especial vierem a permitir.
 
-###### Art. 140.º Os lugares do quadro da E. O. A. criados pelo presente diploma serão providos à medida das necessidades e desde que inscritos no respectivo orçamento privativo, de acordo com as disponibilidades orçamentais.
+Art. 140.º Os lugares do quadro da E. O. A. criados pelo presente diploma serão providos à medida das necessidades e desde que inscritos no respectivo orçamento privativo, de acordo com as disponibilidades orçamentais.
 
-###### Art. 141.º A E. O. A., progressivamente e conforme as necessidades, irá submetendo ao governador-geral, para aprovação, os programas de concursos de admissão e promoção de pessoal, por forma que os referidos programas correspondam, tanto quanto possível, aos da Emissora Nacional de Radiodifusão, à medida que esta os for actualizando.
+Art. 141.º A E. O. A., progressivamente e conforme as necessidades, irá submetendo ao governador-geral, para aprovação, os programas de concursos de admissão e promoção de pessoal, por forma que os referidos programas correspondam, tanto quanto possível, aos da Emissora Nacional de Radiodifusão, à medida que esta os for actualizando.
 
-###### Art. 142.º São aplicáveis à E. O. A. as disposições do Estatuto do Funcionalismo Ultramarino, para todos os casos que não estejam especialmente regulados no presente diploma.
+Art. 142.º São aplicáveis à E. O. A. as disposições do Estatuto do Funcionalismo Ultramarino, para todos os casos que não estejam especialmente regulados no presente diploma.
 
-###### Art. 143.º Os casos omissos e quaisquer dúvidas suscitadas na execução do presente diploma serão resolvidos por despacho do Ministro do Ultramar.
+Art. 143.º Os casos omissos e quaisquer dúvidas suscitadas na execução do presente diploma serão resolvidos por despacho do Ministro do Ultramar.
 
-###### Art. 144.º O presente decreto entrará em vigor no dia 1 de Setembro de 1970.
+Art. 144.º O presente decreto entrará em vigor no dia 1 de Setembro de 1970.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1970.**
+Promulgado em 29 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

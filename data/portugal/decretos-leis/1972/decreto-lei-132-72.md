@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1972-396967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 065e9ec7662f11aa75e34877829e642591e703fc485fa7a5361b19876ae57d37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a161a01a4292f8d73dc721e7dafeeddbad4cb5c78ad1f2cb5a56743aa28f8f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formação Profissional
+- Fundo de Desenvolvimento da Mão-de-obra
+- Ministério das Corporações e Previdência Social
+- Serviço Nacional de Emprego
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:16Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +112,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os organismos corporativos e as pessoas colectivas de direito privado e utilidade pública que se dediquem a actividades de orientação profissional de jovens ou adultos poderão ser subsidiados pelo Ministério das Corporações e Previdência Social.
+Artigo 1.º - 1. Os organismos corporativos e as pessoas colectivas de direito privado e utilidade pública que se dediquem a actividades de orientação profissional de jovens ou adultos poderão ser subsidiados pelo Ministério das Corporações e Previdência Social.
 
 2. É condição necessária para atribuição do subsídio que os organismos referidos no número anterior ofereçam garantias de idoneidade técnica e careçam manifestamente de recursos económicos, a apreciar, em cada caso, pelos serviços competentes do Ministério das Corporações e Previdência Social, com base nos documentos referidos no artigo 3.º e em quaisquer outros elementos que se julguem indispensáveis.
 
 3. Os subsídios a conceder nos termos do n.º 1 ficam a cargo do Fundo de Desenvolvimento da Mão-de-Obra, instituído pelo [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962.
 
-###### Art. 2.º - 1. O subsídio referido no anterior artigo nunca terá carácter permanente e destinar-se-á, essencialmente, à aquisição do equipamento técnico necessário ao exercício das actividades de orientação profissional, ao custeamento dos encargos com a adaptação das instalações afectas a essas actividades e à formação do pessoal especializado necessário para as acções de orientação.
+Art. 2.º - 1. O subsídio referido no anterior artigo nunca terá carácter permanente e destinar-se-á, essencialmente, à aquisição do equipamento técnico necessário ao exercício das actividades de orientação profissional, ao custeamento dos encargos com a adaptação das instalações afectas a essas actividades e à formação do pessoal especializado necessário para as acções de orientação.
 
 2. Para efeitos do disposto no número anterior, consideram-se equipamento técnico os bens de utilização permanente e os de consumo corrente.
 
 3. Sem prejuízo do n.º 1, os subsídios poderão revestir, excepcionalmente, a forma de prestações periódicas, sempre que os fins para que foram solicitados assim o justifiquem.
 
-###### Art. 3.º - 1. Os pedidos de subsídio deverão ser acompanhados de todos os elementos relevantes para a sua apreciação e, obrigatòriamente, dos seguintes documentos:
+Art. 3.º - 1. Os pedidos de subsídio deverão ser acompanhados de todos os elementos relevantes para a sua apreciação e, obrigatòriamente, dos seguintes documentos:
 
 a) Um exemplar dos estatutos da entidade requerente devidamente actualizados;
 
@@ -127,13 +136,13 @@ c) Indicação da afectação concreta do subsídio pedido, discriminando, nomea
 
 3. Os serviços competentes do Ministério das Corporações e Previdência Social poderão solicitar à entidade requerente quaisquer outros elementos ou informações relevantes para a apreciação do pedido de subsídio.
 
-###### Art. 4.º - 1. As pessoas colectivas subsidiadas nos termos dos artigos anteriores devem coordenar as suas acções de orientação profissional com o Serviço Nacional de Emprego, considerando sempre a permuta de elementos estatísticos e técnicos.
+Art. 4.º - 1. As pessoas colectivas subsidiadas nos termos dos artigos anteriores devem coordenar as suas acções de orientação profissional com o Serviço Nacional de Emprego, considerando sempre a permuta de elementos estatísticos e técnicos.
 
 2. O modo de coordenação será definido, caso a caso, mediante estudo a efectuar por representantes do Serviço Nacional de Emprego e das pessoas colectivas subsidiadas.
 
 3. Até 31 de Janeiro de cada ano deverão aquelas pessoas colectivas apresentar relatório circunstanciado sobre as acções de orientação profissional levadas a efeito ao longo do ano anterior, sob pena de lhes não poderem ser concedidos, de futuro, quaisquer subsídios.
 
-###### Art. 5.º - 1. O equipamento técnico adquirido em conformidade com o disposto no artigo 2.º não poderá ser utilizado para fins diversos daqueles para que foi concedido o subsídio, salvo autorização expressa do Ministro das Corporações e Previdência Social, cabendo ao Serviço Nacional de Emprego o contrôle da sua utilização.
+Art. 5.º - 1. O equipamento técnico adquirido em conformidade com o disposto no artigo 2.º não poderá ser utilizado para fins diversos daqueles para que foi concedido o subsídio, salvo autorização expressa do Ministro das Corporações e Previdência Social, cabendo ao Serviço Nacional de Emprego o contrôle da sua utilização.
 
 2. Os bens de utilização permanente serão pertença do Fundo de Desenvolvimento da Mão-de-Obra e ficarão à guarda das pessoas colectivas subsidiadas, devendo ser entregues àquele Fundo se estas cessarem as acções de orientação profissional ou logo que deixarem de utilizar regularmente esses bens.
 
@@ -147,9 +156,9 @@ c) Indicação da afectação concreta do subsídio pedido, discriminando, nomea
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/04/07800/03700375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43582-1961-559033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8f69166e84e366eb93f48ebe330420d72e5dfe410923de7f8a42df4726c587f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c7016d5c291f2dc8bb4263f4199a46eed5fd79be5a44806e9d341db9759f138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Conselho Administrativo
+- Definição de Competências
+- Formas de Provimento
+- Gratificação
+- Integração de Trabalhadores
+- Ministro do Ultramar
+- Mobilidade de Pessoal
+- Orgânica
+- Pessoal de Chefia
+- Pessoal de Inspecção
+- PIDE
+- Polícia Criminal
+- Promoção Profissional
+- Quadro de Pessoal
+- Sanção Penal
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:691070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627387:por
+  label: "Aumentado de dois lugares de radiotelegrafista nas províncias ultramarinas da Guiné, S.Tomé e Príncipe, Angola e\
+    \ Moçambique o quadro único do pessoal da Polícia Internacional e de Defesa do Estado (PIDE), anexo ao presente diploma,\
+    \ pelo DEC.45083.24.06.1963.MU, DG.IS [147] de 24.06.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45083-1963-627387
+  date: '1963-06-24'
+- type: amended_by
+  target: pt:dre:687196:por
+  label: "Dada nova redacção aos arts. 53º e seu § único, 54º, e seus parágrafos, 57º, 63º e seus parágrafos, e 64º; e revogado\
+    \ o § 3º do art. 28º, todos do Dec Lei 39749 de 09-Ago de 1954, com a redacção constante do presente diploma, pelo DEC\
+    \ LEI.45280.30.09.1963.MI, DG.IS [230] de 30.09.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45280-1963-687196
+  date: '1963-09-30'
+- type: amended_by
+  target: pt:dre:256474:por
+  label: "Dada nova redacção ao art. 22º e seu § 1º, ao art. 46º e seus §§, ao art. 50º, ao art. 81º e seu § único, todos\
+    \ do Dec Lei 39749 de 09-Ago de 1954, com a redacção conferida no presente diploma, pelo DEC LEI.48794.26.12.1968.MI,\
+    \ DG.IS [303] de 26.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48794-1968-256474
+  date: '1968-12-26'
+- type: cites
+  target: pt:dre:231111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638114:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:169649:por
+  label: "Rectificado o art. 2º [na parte em que deu nova redacção aos §§ do art. 28º - da qual exceptua o § 5º - e às als.\
+    \ c) e d) do nº 13 do art. 7º, ambos do Dec Lei 39749 de 09-Ago de 1949] do presente diploma, pela RECT.DD800.01.05.1961.PC,\
+    \ DG.IS [101] de 01.05.1961\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1961-169649
+  date: '1961-05-01'
+- type: repealed_by
+  target: pt:dre:691070:por
+  label: "Revogado, a partir de 01.10.1972, pelo DEC LEI.368/72.30.09.1972.MI, DG.IS [229] de 30.09.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1972-691070
+  date: '1972-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:16Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +175,19 @@ Considerando matéria de interesse comum para a metrópole e províncias ultrama
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As designações «quadro geral» e «quadro especial do ultramar» constantes do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, são substituídas pela designação de «quadro único».
+Artigo 1.º As designações «quadro geral» e «quadro especial do ultramar» constantes do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, são substituídas pela designação de «quadro único».
 
-###### Art. 2.º O artigo 4.º, o § único do artigo 6.º, o artigo 7.º e seus n.os 2.º, 9.º, 10.º, 11.º, 12.º e 13.º, o § 1.º do artigo 8.º, o artigo 10.º, o artigo 11.º, o § único do artigo 19.º, o artigo 22.º e seu § 1.º, os §§ 3.º, 4.º e 5.º do artigo 28.º, os artigos 37.º, 39.º e 46.º e seus parágrafos, 47.º, 49.º, 50.º, 53.º, 54.º e seu § único, 56.º, 57.º, 63.º e seu § único, 64.º, 76.º, 81.º e seu § único, 85.º, 86.º, 88.º e 91.º e seu § único do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, passam a ter a seguinte redacção:
+Art. 2.º O artigo 4.º, o § único do artigo 6.º, o artigo 7.º e seus n.os 2.º, 9.º, 10.º, 11.º, 12.º e 13.º, o § 1.º do artigo 8.º, o artigo 10.º, o artigo 11.º, o § único do artigo 19.º, o artigo 22.º e seu § 1.º, os §§ 3.º, 4.º e 5.º do artigo 28.º, os artigos 37.º, 39.º e 46.º e seus parágrafos, 47.º, 49.º, 50.º, 53.º, 54.º e seu § único, 56.º, 57.º, 63.º e seu § único, 64.º, 76.º, 81.º e seu § único, 85.º, 86.º, 88.º e 91.º e seu § único do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, passam a ter a seguinte redacção:
 
-###### Art. 4.º A Polícia Internacional e de Defesa do Estado é um serviço nacional e, como tal, a sua competência e jurisdição estende-se a todo o território nacional.
+Art. 4.º A Polícia Internacional e de Defesa do Estado é um serviço nacional e, como tal, a sua competência e jurisdição estende-se a todo o território nacional.
 
 ...
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § único. Em matéria de instrução preparatória penal, a Polícia Internacional e de Defesa do Estado é um organismo de polícia judiciária, ao qual cabem, quanto ao objecto da sua competência, os mesmos poderes e funções que a lei confere à Polícia Judiciária.
 
-###### Art. 7.º Cabe à Polícia Internacional e de Defesa do Estado, de modo especial:
+Art. 7.º Cabe à Polícia Internacional e de Defesa do Estado, de modo especial:
 
 1.º ...
 
@@ -154,13 +233,13 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 § único. ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § 1.º A entrada e saída de automóveis pelos postos de fronteira poderá, todavia, efectuar-se fora das horas de expediente normal, no espaço compreendido entre o nascer do Sol e as 0 horas, desde que superiormente não haja sido determinado o contrário.
 
 ...
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 1.º ...
 
@@ -170,7 +249,7 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 4.º A fazer apresentar ao serviço de fiscalização da Polícia Internacional e de Defesa do Estado os passageiros que se destinem ao País.
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 1.º ...
 
@@ -184,7 +263,7 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 § 1.º Os inspectores adjuntos e inspectores que dirijam delegações e subdelegações, quer na metrópole, quer no ultramar, ou, neste último caso, quando em diligência fora das respectivas sedes e os subinspectores e chefes de brigada que no ultramar tenham atribuições de chefia de delegações ou subdelegações, terão, cumulativamente com as funções que por lei lhes são cometidas, competência igual à dos funcionários a que se refere o corpo deste artigo.
 
@@ -194,13 +273,13 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 ...
 
-###### Art. 22.º No ultramar os serviços da Polícia Internacional e de Defesa do Estado compreendem as delegações de Angola e Moçambique, cada uma a cargo de um subdirector, e subdelegações em todas as outras províncias, a cargo de inspectores.
+Art. 22.º No ultramar os serviços da Polícia Internacional e de Defesa do Estado compreendem as delegações de Angola e Moçambique, cada uma a cargo de um subdirector, e subdelegações em todas as outras províncias, a cargo de inspectores.
 
 § 1.º A criação de subdelegações e postos de fronteira e vigilância, nos territórios das províncias de Angola e Moçambique, efectuar-se-á por portaria do Ministro do Ultramar, mediante proposta do director da Polícia Internacional e de Defesa de Estado, o mesmo acontecendo com a criação de postos de fronteira ou de vigilância em qualquer outra província ultramarina.
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 § 1.º ...
 
@@ -214,13 +293,13 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 ...
 
-###### Art. 37.º O conselho administrativo é composto por um presidente, por um secretário, que serão, respectivamente, o director e o inspector superior ou um subdirector, e pelo tesoureiro.
+Art. 37.º O conselho administrativo é composto por um presidente, por um secretário, que serão, respectivamente, o director e o inspector superior ou um subdirector, e pelo tesoureiro.
 
 § único. ...
 
 ...
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 1.º ...
 
@@ -236,7 +315,7 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 ...
 
-###### Art. 46.º O pessoal da Polícia Internacional e de Defesa do Estado, a quem compete obrigatòriamente desempenhar as suas funções indistintamente em qualquer parte do território nacional, distribui-se, por um quadro único, para o continente, ilhas e ultramar.
+Art. 46.º O pessoal da Polícia Internacional e de Defesa do Estado, a quem compete obrigatòriamente desempenhar as suas funções indistintamente em qualquer parte do território nacional, distribui-se, por um quadro único, para o continente, ilhas e ultramar.
 
 § 1.º O quadro e as respectivas categorias são os fixados no mapa anexo a este diploma.
 
@@ -246,23 +325,23 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 § 4.º Quando as necessidades de serviço o impuserem e mediante despacho dos Ministros do Interior ou do Ultramar, ou de ambos, conforme os casos, poderá ser admitido o pessoal eventual julgado indispensável, e bem assim ser deslocado eventualmente de um para outro território o pessoal que se tornar necessário.
 
-###### Art. 47.º O director, o inspector superior, os subdirectores e os inspectores adjuntos de polícia são de livre nomeação do Ministro, de entre pessoas de reconhecido mérito e capacidade para o exercício das respectivas funções.
+Art. 47.º O director, o inspector superior, os subdirectores e os inspectores adjuntos de polícia são de livre nomeação do Ministro, de entre pessoas de reconhecido mérito e capacidade para o exercício das respectivas funções.
 
 § único. A nomeação dos funcionários públicos, civis ou militares, para cargos a que se refere este artigo, poderá ser feita em comissão permanente de serviço público.
 
 ...
 
-###### Art. 49.º Os lugares de subinspector de polícia, chefe de brigada, chefe de brigada feminino, agente de 1.ª classe e agente feminino de 1.ª classe, são providos por concurso de provas práticas e, excepcionalmente, por distinção.
+Art. 49.º Os lugares de subinspector de polícia, chefe de brigada, chefe de brigada feminino, agente de 1.ª classe e agente feminino de 1.ª classe, são providos por concurso de provas práticas e, excepcionalmente, por distinção.
 
-###### Art. 50.º Aos concursos para promoção, que têm carácter obrigatório, serão admitidos os funcionários das classes imediatamente inferiores, que obtenham parecer favorável do conselho de polícia, e que tenham de permanência nelas tempo não inferior a cinco, quatro e três anos, conforme se trate de preencher os cargos de agentes de 1.ª classe e agentes femininos de 1.ª classe, chefes de brigada ou subinspectores.
+Art. 50.º Aos concursos para promoção, que têm carácter obrigatório, serão admitidos os funcionários das classes imediatamente inferiores, que obtenham parecer favorável do conselho de polícia, e que tenham de permanência nelas tempo não inferior a cinco, quatro e três anos, conforme se trate de preencher os cargos de agentes de 1.ª classe e agentes femininos de 1.ª classe, chefes de brigada ou subinspectores.
 
 ...
 
-###### Art. 53.º Quando não haja agentes de 1.ª classe que satisfaçam as condições exigidas para a promoção, podem ser providos nos lugares de chefe de brigada indivíduos que possuam o curso geral dos liceus ou habilitações equivalentes, sejam aprovados na inspecção médica, falem e escrevam francês ou inglês e revelem aptidão para o desempenho dos serviços de polícia, em provas realizadas segundo o programa aprovado pelo conselho de polícia.
+Art. 53.º Quando não haja agentes de 1.ª classe que satisfaçam as condições exigidas para a promoção, podem ser providos nos lugares de chefe de brigada indivíduos que possuam o curso geral dos liceus ou habilitações equivalentes, sejam aprovados na inspecção médica, falem e escrevam francês ou inglês e revelem aptidão para o desempenho dos serviços de polícia, em provas realizadas segundo o programa aprovado pelo conselho de polícia.
 
 § único. ...
 
-###### Art. 54.º Os lugares de agente de 2.ª classe serão providos por contrato, renovável por períodos anuais, de entre agentes auxiliares que tenham obtido aprovação no curso elementar de técnica policial e hajam completado um ano de estágio, com boa informação, e os lugares de agente feminino de 2.ª classe serão providos por contrato, renovável por períodos anuais, de entre indivíduos do sexo feminino, com menos de 35 anos de idade, casados, que possuam o 1.º ciclo dos liceus ou habilitações equivalentes ou ainda o curso de enfermagem ou de assistente social.
+Art. 54.º Os lugares de agente de 2.ª classe serão providos por contrato, renovável por períodos anuais, de entre agentes auxiliares que tenham obtido aprovação no curso elementar de técnica policial e hajam completado um ano de estágio, com boa informação, e os lugares de agente feminino de 2.ª classe serão providos por contrato, renovável por períodos anuais, de entre indivíduos do sexo feminino, com menos de 35 anos de idade, casados, que possuam o 1.º ciclo dos liceus ou habilitações equivalentes ou ainda o curso de enfermagem ou de assistente social.
 
 § 1.º Os candidatos a agente feminino de 2.ª classe serão submetidos a exame médico e a uma prova sumária, com o fim de averiguar se possuem as qualidades necessárias para o desempenho da função.
 
@@ -276,15 +355,15 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 ...
 
-###### Art. 56.º Os lugares de chefe de repartição e de secção serão providos pelo Ministro do Interior, mediante proposta do director da Polícia Internacional e de Defesa do Estado, por escolha entre os chefes de secção e os primeiros-oficiais, respectivamente, a quem o conselho de polícia reconheça méritos e qualidades de chefia, ou indivíduos estranhos ao quadro, mas diplomados com cursos superiores adequados ao exercício da função.
+Art. 56.º Os lugares de chefe de repartição e de secção serão providos pelo Ministro do Interior, mediante proposta do director da Polícia Internacional e de Defesa do Estado, por escolha entre os chefes de secção e os primeiros-oficiais, respectivamente, a quem o conselho de polícia reconheça méritos e qualidades de chefia, ou indivíduos estranhos ao quadro, mas diplomados com cursos superiores adequados ao exercício da função.
 
-###### Art. 57.º Os lugares de primeiro, segundo e terceiro-oficial serão providos, mediante concurso de provas públicas, de entre os segundos-oficiais, terceiros-oficiais e escriturários de 1.ª classe, respectivamente, com boa informação e, pelo menos, três anos de serviço na classe, podendo também ser admitidos às provas outros indivíduos desde que estejam habilitados com um curso superior, e o lugar de tesoureiro será provido por nomeação do Ministro do Interior, mediante proposta do director da Polícia Internacional e de Defesa do Estado, de entre os segundos ou terceiros-oficiais.
+Art. 57.º Os lugares de primeiro, segundo e terceiro-oficial serão providos, mediante concurso de provas públicas, de entre os segundos-oficiais, terceiros-oficiais e escriturários de 1.ª classe, respectivamente, com boa informação e, pelo menos, três anos de serviço na classe, podendo também ser admitidos às provas outros indivíduos desde que estejam habilitados com um curso superior, e o lugar de tesoureiro será provido por nomeação do Ministro do Interior, mediante proposta do director da Polícia Internacional e de Defesa do Estado, de entre os segundos ou terceiros-oficiais.
 
 § único. ...
 
 ...
 
-###### Art. 63.º Os lugares do quadro, a distribuir pelas províncias ultramarinas, serão providos por nomeação. Esta é da competência do Ministro do Ultramar e o provimento far-se-á, por escolha, em comissão de serviço obrigatório, sob proposta do director da Polícia Internacional e de Defesa do Estado.
+Art. 63.º Os lugares do quadro, a distribuir pelas províncias ultramarinas, serão providos por nomeação. Esta é da competência do Ministro do Ultramar e o provimento far-se-á, por escolha, em comissão de serviço obrigatório, sob proposta do director da Polícia Internacional e de Defesa do Estado.
 
 § 1.º As comissões de serviço obrigatório são válidas por quatro anos, contados do dia da posse, podendo, todavia, haver reconduções por períodos iguais e sucessivos, se o Ministro do Ultramar assim o entender e mediante proposta do director da Polícia Internacional e de Defesa do Estado.
 
@@ -300,11 +379,11 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 § 7.º As deslocações do pessoal no ultramar, dentro das províncias onde preste serviço, far-se-ão por ordem dos chefes das respectivas delegações ou subdelegações, independentemente de autorização prévia, para processamento de ajudas de custo e pagamento de transporte. Estas despesas serão, todavia, processadas no mais curto espaço de tempo, prazo que nunca deverá exceder os primeiros oito dias seguintes à conclusão das diligências.
 
-###### Art. 64.º É aplicável ao pessoal colocado nas províncias ultramarinas o que dispõe a subsecção anterior, nomeadamente no que respeita a provimentos, habilitações exigíveis, concursos e outras normas de acesso às categorias imediatas, podendo, todavia, o Ministro do Ultramar dispensar os requisitos da frequência dos cursos de preparação policial.
+Art. 64.º É aplicável ao pessoal colocado nas províncias ultramarinas o que dispõe a subsecção anterior, nomeadamente no que respeita a provimentos, habilitações exigíveis, concursos e outras normas de acesso às categorias imediatas, podendo, todavia, o Ministro do Ultramar dispensar os requisitos da frequência dos cursos de preparação policial.
 
 ...
 
-###### Art. 76.º ...
+Art. 76.º ...
 
 1.º ...
 
@@ -314,11 +393,11 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 ...
 
-###### Art. 81.º Os funcionários da Polícia Internacional e de Defesa do Estado, quer na metrópole, quer no ultramar, estão sujeitos a um estatuto disciplinar a aprovar, mediante despacho, pelos Ministros do Interior e do Ultramar.
+Art. 81.º Os funcionários da Polícia Internacional e de Defesa do Estado, quer na metrópole, quer no ultramar, estão sujeitos a um estatuto disciplinar a aprovar, mediante despacho, pelos Ministros do Interior e do Ultramar.
 
 ...
 
-###### Art. 85.º Serão punidos com a pena de prisão até dois anos e multa correspondente:
+Art. 85.º Serão punidos com a pena de prisão até dois anos e multa correspondente:
 
 1.º Todos aqueles que aliciarem indivíduos para saírem a fronteira com destino a qualquer país estrangeiro sem documentação, com documentação falsa ou incompleta, ou auxiliarem, seja de que forma for, a saída de tais indivíduos naquelas condições;
 
@@ -334,7 +413,7 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 § 2.º Os que intervierem na falsificação de documentos destinados ou utilizados para a saída de indivíduos nas condições a que se refere este artigo, bem como os seus portadores, ficam também sujeitos às penas inerentes à falsidade, independentemente da responsabilidade que tiverem nas aludidas infracções.
 
-###### Art. 86.º Será punido com as penas correspondentes ao crime de furto, segundo o valor da importância recebida, aquele que estiver abrangido em qualquer dos casos previstos no artigo anterior e haja recebido, directamente ou por interposta pessoa, dos emigrantes, aliciados ou não por si, qualquer quantia como pagamento ou recompensa do auxílio ou de outra forma de intervenção, inclusive a concessão ou obtenção de facilidades atinentes a promover, auxiliar ou, de qualquer modo, possibilitar a saída do País, sem prejuízo da responsabilidade pela participação nas infracções previstas no artigo 85.º e seus parágrafos.
+Art. 86.º Será punido com as penas correspondentes ao crime de furto, segundo o valor da importância recebida, aquele que estiver abrangido em qualquer dos casos previstos no artigo anterior e haja recebido, directamente ou por interposta pessoa, dos emigrantes, aliciados ou não por si, qualquer quantia como pagamento ou recompensa do auxílio ou de outra forma de intervenção, inclusive a concessão ou obtenção de facilidades atinentes a promover, auxiliar ou, de qualquer modo, possibilitar a saída do País, sem prejuízo da responsabilidade pela participação nas infracções previstas no artigo 85.º e seus parágrafos.
 
 § 1.º Aos intermediários no recebimento de qualquer importância destinada aos mesmos fins é aplicável o regime consignado no corpo deste artigo.
 
@@ -342,25 +421,25 @@ e) Aos crimes de falsificação de moeda e de títulos nacionais e estrangeiros,
 
 ...
 
-###### Art. 88.º Quando as multas impostas pelo director da Polícia Internacional e de Defesa do Estado, de harmonia com o disposto no artigo anterior e nos artigos 25.º e 27.º do [Decreto-Lei n.º 36558](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36558-1947-635997), de 28 de Outubro de 1947, segundo a redacção que lhes foi dada pelo artigo 3.º do [Decreto-Lei n.º 41456](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41456-1957-251005), de 19 de Dezembro de 1957, não forem liquidadas voluntàriamente nos dez dias imediatos à notificação do responsável, serão os autos remetidos ao tribunal competente para julgamento.
+Art. 88.º Quando as multas impostas pelo director da Polícia Internacional e de Defesa do Estado, de harmonia com o disposto no artigo anterior e nos artigos 25.º e 27.º do [Decreto-Lei n.º 36558](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36558-1947-635997), de 28 de Outubro de 1947, segundo a redacção que lhes foi dada pelo artigo 3.º do [Decreto-Lei n.º 41456](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41456-1957-251005), de 19 de Dezembro de 1957, não forem liquidadas voluntàriamente nos dez dias imediatos à notificação do responsável, serão os autos remetidos ao tribunal competente para julgamento.
 
 ...
 
-###### Art. 91.º O pessoal da secção de Polícia Internacional do Corpo de Polícia de Moçambique, o pessoal da 2.ª Secção do Corpo de Polícia de Segurança Pública de Angola e o pessoal da Polícia do Estado da Índia que actualmente desempenha funções que, pelo [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, foram cometidas à Polícia Internacional e de Defesa do Estado poderão transitar para esta Polícia, quando o requeiram e o Ministro do Ultramar o defira, mediante portaria sujeita a simples anotação, independentemente das habilitações literárias que possuam e de mais condições exigidas para o recrutamento de pessoal, nas categorias que as suas aptidões profissionais, funções que tenham ou venham desempenhando, serviços prestados e necessidades dos serviços aconselhem.
+Art. 91.º O pessoal da secção de Polícia Internacional do Corpo de Polícia de Moçambique, o pessoal da 2.ª Secção do Corpo de Polícia de Segurança Pública de Angola e o pessoal da Polícia do Estado da Índia que actualmente desempenha funções que, pelo [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, foram cometidas à Polícia Internacional e de Defesa do Estado poderão transitar para esta Polícia, quando o requeiram e o Ministro do Ultramar o defira, mediante portaria sujeita a simples anotação, independentemente das habilitações literárias que possuam e de mais condições exigidas para o recrutamento de pessoal, nas categorias que as suas aptidões profissionais, funções que tenham ou venham desempenhando, serviços prestados e necessidades dos serviços aconselhem.
 
 § 1.º Enquanto não for dada execução ao disposto no corpo deste artigo, o pessoal nele referido manter-se-á na situação em que presentemente se encontra e continuará a ser abonado dos vencimentos que lhe são atribuídos pela legislação em vigor à data deste decreto-lei.
 
 § 2.º Ao pessoal que ingressar na Polícia Internacional e de Defesa do Estado, nos termos deste artigo, será aplicável a doutrina do artigo 72.º do mesmo [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954.
 
-###### Art. 3.º O provimento dos novos lugares criados por este diploma, a distribuir pelas províncias ultramarinas, será feito sem prejuízo do disposto no artigo seguinte, à medida que, ou por inscrição orçamental inicial ou por meio de abertura de créditos especiais, as condições financeiras permitirem dotar os referidos lugares.
+Art. 3.º O provimento dos novos lugares criados por este diploma, a distribuir pelas províncias ultramarinas, será feito sem prejuízo do disposto no artigo seguinte, à medida que, ou por inscrição orçamental inicial ou por meio de abertura de créditos especiais, as condições financeiras permitirem dotar os referidos lugares.
 
-###### Art. 4.º O aumento do pessoal previsto no mapa anexo a este diploma far-se-á gradualmente durante três anos, abrindo-se para tanto, no corrente ano, os créditos especiais correspondentes aos vencimentos até um terço dos lugares acrescidos com esse aumento e inscrevendo-se no Orçamento Geral do Estado as verbas correspondentes aos vencimentos até dois terços no ano de 1962 e, na totalidade, no ano de 1963. Relativamente aos novos lugares a distribuir pelas províncias ultramarinas, abrir-se-ão durante o ano de 1961 os créditos especiais ao aumento do terço, créditos esses que serão aditados nos orçamentos das respectivas províncias ultramarinas para o mesmo ano. Em 1962 e 1963 os aumentos serão feitos por inscrição dos orçamentos provinciais.
+Art. 4.º O aumento do pessoal previsto no mapa anexo a este diploma far-se-á gradualmente durante três anos, abrindo-se para tanto, no corrente ano, os créditos especiais correspondentes aos vencimentos até um terço dos lugares acrescidos com esse aumento e inscrevendo-se no Orçamento Geral do Estado as verbas correspondentes aos vencimentos até dois terços no ano de 1962 e, na totalidade, no ano de 1963. Relativamente aos novos lugares a distribuir pelas províncias ultramarinas, abrir-se-ão durante o ano de 1961 os créditos especiais ao aumento do terço, créditos esses que serão aditados nos orçamentos das respectivas províncias ultramarinas para o mesmo ano. Em 1962 e 1963 os aumentos serão feitos por inscrição dos orçamentos provinciais.
 
-###### Art. 5.º Na tabela de despesa ordinária do Orçamento Geral do Estado da Índia e de todas as outras províncias ultramarinas é criada a seguinte rubrica na Polícia Internacional e de Defesa do Estado:
+Art. 5.º Na tabela de despesa ordinária do Orçamento Geral do Estado da Índia e de todas as outras províncias ultramarinas é criada a seguinte rubrica na Polícia Internacional e de Defesa do Estado:
 
 Pessoal eventual, nos termos do § 4.º do artigo 46.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo presente decreto-lei.
 
-###### Art. 6.º Os inspectores de polícia, nas províncias de governo simples e no Estado da Índia, independentemente dos vencimentos que lhes competem pela sua categoria, serão abonados de uma gratificação de chefia de importância igual à diferença entre os vencimentos do grupo F e do grupo E que vigorarem na respectiva província.
+Art. 6.º Os inspectores de polícia, nas províncias de governo simples e no Estado da Índia, independentemente dos vencimentos que lhes competem pela sua categoria, serão abonados de uma gratificação de chefia de importância igual à diferença entre os vencimentos do grupo F e do grupo E que vigorarem na respectiva província.
 
 § 1.º São introduzidos nos mapas II, III, IV, VII, VIII e IX as seguintes alterações:
 
@@ -378,15 +457,15 @@ Inspector (gratificação de chefia igual à diferença de vencimentos entre o g
 
 § 2.º As alterações constantes deste artigo só entrarão em vigor desde a data em que forem empossados os inspectores de polícia referidos no corpo deste artigo.
 
-###### Art. 7.º Na metrópole, os lugares do quadro nas categorias de subdirector, inspector adjunto, inspector e subinspector serão preenchidos por forma que reste sempre uma vaga em cada uma daquelas categorias, com vista a satisfazer o disposto no § 6.º do artigo 63.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo presente decreto-lei.
+Art. 7.º Na metrópole, os lugares do quadro nas categorias de subdirector, inspector adjunto, inspector e subinspector serão preenchidos por forma que reste sempre uma vaga em cada uma daquelas categorias, com vista a satisfazer o disposto no § 6.º do artigo 63.º do [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954, com a nova redacção dada pelo presente decreto-lei.
 
-###### Art. 8.º Este decreto-lei entra imediatamente em vigor.
+Art. 8.º Este decreto-lei entra imediatamente em vigor.
 
-###### Art. 9.º São revogados os Decretos-Leis n.os 40541 e 40619, respectivamente de 27 de Fevereiro e 30 de Maio de 1956, 41240, de 23 de Agosto de 1957, e 42964, 43076 e 43202, respectivamente de 4 de Maio, 16 de Julho e 7 de Outubro de 1960.
+Art. 9.º São revogados os Decretos-Leis n.os 40541 e 40619, respectivamente de 27 de Fevereiro e 30 de Maio de 1956, 41240, de 23 de Agosto de 1957, e 42964, 43076 e 43202, respectivamente de 4 de Maio, 16 de Julho e 7 de Outubro de 1960.
 
 § único. O artigo 10.º do [Decreto-Lei n.º 36527](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36527-1947-637902), de 2 de Outubro de 1947, considera-se como tendo estado ininterruptamente em vigor e com os respectivos efeitos desde 9 de Agosto de 1954.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -398,6 +477,6 @@ Categorias e vencimentos do pessoal da Polícia Internacional e de Defesa do Est
 
 Quadro único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/04/07800/03700375.pdf))](https://files.diariodarepublica.pt/1s/1961/04/07800/03700375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/04/07800/03700375.pdf)
 
 Ministério do Interior, 4 de Abril de 1961. - O Ministro do Interior, Arnaldo Schulz.

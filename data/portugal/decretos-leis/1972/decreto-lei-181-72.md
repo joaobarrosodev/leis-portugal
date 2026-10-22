@@ -52,36 +52,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1972-681835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cd8af6490e43af397fb2ab26e33924c140b74d75f69fd966a2c92e2a63f7f1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88be28bde07477de2a10fa00c47e7a23bf77246df318bc0178356af050e6291b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Argélia
+- Áustria
+- Bagagem
+- Bélgica
+- Berna
+- Bulgária
+- Checoslováquia
+- Convenção
+- Dinamarca
+- Espanha
+- Finlândia
+- França
+- Hungria
+- Iraque
+- Jugoslávia
+- Liechtenstein
+- Luxemburgo
+- Noruega
+- Países Baixos
+- Polónia
+- Portugal
+- Reino Unido
+- Siria
+- Suíça
+- Transporte de Carga
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Internacional
+- Turquia
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:42Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +121,15 @@ de 30 de Maio
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, o Protocolo I estabelecido pela Conferência Diplomática Reunida para Determinar a Entrada em Vigor da Convenção Adicional à Convenção Internacional Relativa ao Transporte de Passageiros e de Bagagens por Caminho de Ferro (CIV), de 25 de Fevereiro de 1961, sobre a responsabilidade do caminho de ferro pela morte e ferimentos dos passageiros, e do Protocolo B a ela referente, concluídos em Berna em 26 de Fevereiro de 1966, e o Protocolo II estabelecido pela Conferência Diplomática Reunida para Determinar a Entrada em Vigor Definitiva do Protocolo A de 26 de Fevereiro de 1966 relativo ao aumento do número de membros do Comité Administrativo do Serviço Central de Transportes Internacionais por Caminho de Ferro, concluídos em Berna em 22 de Outubro de 1971, cujo texto em francês e a respectiva tradução para português vão anexos ao presente Decreto-Lei.
+Artigo único. São aprovados, para ratificação, o Protocolo I estabelecido pela Conferência Diplomática Reunida para Determinar a Entrada em Vigor da Convenção Adicional à Convenção Internacional Relativa ao Transporte de Passageiros e de Bagagens por Caminho de Ferro (CIV), de 25 de Fevereiro de 1961, sobre a responsabilidade do caminho de ferro pela morte e ferimentos dos passageiros, e do Protocolo B a ela referente, concluídos em Berna em 26 de Fevereiro de 1966, e o Protocolo II estabelecido pela Conferência Diplomática Reunida para Determinar a Entrada em Vigor Definitiva do Protocolo A de 26 de Fevereiro de 1966 relativo ao aumento do número de membros do Comité Administrativo do Serviço Central de Transportes Internacionais por Caminho de Ferro, concluídos em Berna em 22 de Outubro de 1971, cujo texto em francês e a respectiva tradução para português vão anexos ao presente Decreto-Lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 17 de Maio de 1972.**
+Promulgado em 17 de Maio de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Protocole I établi par la Conférence diplomatique réunie en vue de la mise en vigueur de la Convention additionnelle à la Convention internationale concernant le transport des voyageurs et des bagages par chemins de fer (CIV) du 25 février 1961, relative à la responsabilité du chemin de fer pour la mort et les blessures de voyageurs, et du Prolocole B s'y rapportant, signés à Berne le 26 février 1966.
 

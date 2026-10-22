@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/06/13300/06920693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1974-622863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0083d98a47c9e22f1f9571d27a9e5aff039422b9f01b21759de7d1dc568b4a06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fe390f4db0f4f6340e4540cc4989cb36215d9b16653b2a494e8235c8c631b9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Conselho de Administração
+- Conselho de Fiscalização
+- Conselho Fiscal
+- Conselho Geral
+- Criação de Serviços
+- CTT
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- Extinção de Serviços
+- Lisboa
+- Porto
+- TLP
 relationships:
 - type: amended_by
   target: pt:dre:466059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:466059:por
+  label: "Revogado o presente diploma e extinto o conselho de gerência e o conselho de fiscalização das empresas públicas\
+    \ Correios e Telecomunicações de Portugal e Telefones de Lisboa e Porto, pelo DEC LEI.642/74.20.11.1974.MESA, DG.IS [270]\
+    \ de 20.11.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/642-1974-466059
+  date: '1974-11-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:41Z'
   warnings: []
   errors: []
 ---
@@ -135,8 +160,8 @@ Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Manuel Rocha.
 
-**Promulgado em 29 de Maio de 1974.**
+Promulgado em 29 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

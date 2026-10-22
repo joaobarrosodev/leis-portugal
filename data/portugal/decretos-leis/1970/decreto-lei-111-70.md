@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1970-228802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d1943c976099dcce6d0eb603183a62d2712430f64e43c5bf6f6f6fd937f783c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 327989975822502ae438a71a2b1a9a632ec9452d68da86fb68dca85b8a370377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Juiz
+- Substituição de Funções
+- Tribunal Militar
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:578130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:33Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +97,15 @@ Considerando a necessidade de assegurar o regular funcionamento daqueles tribuna
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 17.º do [Decreto-Lei n.º 45783](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45783-1964-578130), de 30 de Junho de 1964, passa a ter a seguinte redacção:
+Artigo único. O artigo 17.º do [Decreto-Lei n.º 45783](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45783-1964-578130), de 30 de Junho de 1964, passa a ter a seguinte redacção:
 
-###### Art. 17.º Nas faltas e impedimentos do juiz auditor será este substituído, quando juiz da comarca, pelos seus substitutos licenciados em Direito; quando auditor privativo, pelo conservador dos registos da comarca sede do tribunal ou pelo conservador do registo predial nas comarcas de Luanda e Lourenço Marques, e, na falta deste, pelo seu substituto, nas condições anteriores.
+Art. 17.º Nas faltas e impedimentos do juiz auditor será este substituído, quando juiz da comarca, pelos seus substitutos licenciados em Direito; quando auditor privativo, pelo conservador dos registos da comarca sede do tribunal ou pelo conservador do registo predial nas comarcas de Luanda e Lourenço Marques, e, na falta deste, pelo seu substituto, nas condições anteriores.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Março de 1970.**
+Promulgado em 11 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

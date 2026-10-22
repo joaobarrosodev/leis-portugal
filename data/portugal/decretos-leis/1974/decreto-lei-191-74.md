@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/10500/06000601.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1974-623200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb8e060f7dca1f2e482e7533fcf0e012c0cc60199c84b85fb656b0c3ada5a8cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbb7985e64161ffee3ee344cf4b42a0c1f3c9c32b92dc00659b8221297afe8ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de BENS Essenciais
+- Circulação de Mercadorias
+- Comércio Externo
+- Comissão de Controlo do Comércio Externo
+- Definição de Competências
+- Exportação
+- Importação
+- Ministério das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:450244:por
+  label: "Prorrogada por mais trinta dias a vigência do presente diploma, alterados os limites constantes do nº 1 do seu art.\
+    \ 2º, e determinada a transição para a Secretaria de Estado do Comércio Externo e Turismo (prevista na al. e) do art.\
+    \ 6º do Dec Lei 203/74 de 15-Mai) da Comissão de Controlo do Comércio Externo criada no art. 1º pelo DEC LEI.246/74.07.06.1974.MCE,\
+    \ DG.IS [133-Supl] de 07.06.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1974-450244
+  date: '1974-06-07'
+- type: amended_by
+  target: pt:dre:402960:por
+  label: "Mantidos em vigor os arts. 5º e 6º e revogados os arts. 3º e 4º e mapas anexos pelo DEC LEI.307/74.06.07.1974.MCE,\
+    \ DG.IS [156-Supl] de 06.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1974-402960
+  date: '1974-07-06'
+- type: amended_by
+  target: pt:dre:460618:por
+  label: "Extinta a Comissão de Controlo do Comércio Externo e transferidas as suas atribuições para a Direcção Geral do Comércio\
+    \ Externo, cujas atribuições e orgânica constam do Dec 28/75 de 24-Jan, pelo DEC LEI.387/80.20.09.1980.MCT, DR.IS [218]\
+    \ de 20.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/387-1980-460618
+  date: '1980-09-20'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:623190:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:623461:por
+  label: Rectificado pela DECL.DD9559.11.05.1974.JSN, DG.IS [110] de 11.05.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-623461
+  date: '1974-05-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:06Z'
   warnings: []
   errors: []
 ---
@@ -96,35 +140,35 @@ Estas medidas visam o estabelecimento de um mecanismo de fiscalização das refe
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada no Ministério das Finanças uma comissão ad hoc que se designará Comissão de Contrôle do Comércio Externo.
+Artigo 1.º - 1. É criada no Ministério das Finanças uma comissão ad hoc que se designará Comissão de Contrôle do Comércio Externo.
 
 2. A sua constituição, bem como a nomeação dos respectivos membros, é da competência da Junta de Salvação Nacional e far-se-á por despacho do Presidente.
 
-###### Art. 2.º - 1. A competência para o licenciamento de operações de importação e exportação de mercadorias de valores superiores, respectivamente, a 1000 contos e a 500 contos cabe à Comissão de Contrôle do Comércio Externo.
+Art. 2.º - 1. A competência para o licenciamento de operações de importação e exportação de mercadorias de valores superiores, respectivamente, a 1000 contos e a 500 contos cabe à Comissão de Contrôle do Comércio Externo.
 
 2. Mantém-se a competência atribuída em diplomas legais anteriores, respeitantes a esta matéria, das entidades neles designadas, nas operações de valores iguais ou inferiores aos indicados no número antecedente.
 
-###### Art. 3.º - 1. A importação de bens classificados de não prioritários, supérfluos ou de luxo, em conformidade com o mapa I anexo a este diploma, poderá ser proibida pela Comissão de Contrôle do Comércio Externo, sempre que, em seu entender, envolva prejuízo para a economia nacional.
+Art. 3.º - 1. A importação de bens classificados de não prioritários, supérfluos ou de luxo, em conformidade com o mapa I anexo a este diploma, poderá ser proibida pela Comissão de Contrôle do Comércio Externo, sempre que, em seu entender, envolva prejuízo para a economia nacional.
 
 2. A Comissão referida poderá deliberar igual proibição relativamente à exportação dos bens discriminados no mapa II anexo a este diploma e que possam prejudicar o abastecimento regular do mercado interno.
 
-###### Art. 4.º Os boletins de registo de importação (B. R. I.) e de exportação (B. R. E.) de mercadorias de montante superior, respectivamente, a 5000 contos e 2000 contos, ainda válidos e emitidos anteriormente à publicação deste diploma, carecem da confirmação da Comissão de Contrôle do Comércio Externo para manterem a sua validade.
+Art. 4.º Os boletins de registo de importação (B. R. I.) e de exportação (B. R. E.) de mercadorias de montante superior, respectivamente, a 5000 contos e 2000 contos, ainda válidos e emitidos anteriormente à publicação deste diploma, carecem da confirmação da Comissão de Contrôle do Comércio Externo para manterem a sua validade.
 
-###### Art. 5.º - 1. A Comissão de Contrôle do Comércio Externo poderá solicitar a qualquer entidade pública ou privada os elementos e informações necessários ao cumprimento das suas atribuições.
+Art. 5.º - 1. A Comissão de Contrôle do Comércio Externo poderá solicitar a qualquer entidade pública ou privada os elementos e informações necessários ao cumprimento das suas atribuições.
 
 2. A recusa da prestação dos elementos e informações solicitados é punida nos termos do artigo 188.º, § 2.º, do Código Penal.
 
-###### Art. 6.º - 1. Os importadores ou exportadores que realizem transacções contrárias ao estabelecido neste diploma, designadamente através de práticas de sobrefacturação ou subfacturação, são punidos nos termos do artigo 1.º do [Decreto-Lei n.º 181/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1974-623190), de 2 de Maio.
+Art. 6.º - 1. Os importadores ou exportadores que realizem transacções contrárias ao estabelecido neste diploma, designadamente através de práticas de sobrefacturação ou subfacturação, são punidos nos termos do artigo 1.º do [Decreto-Lei n.º 181/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1974-623190), de 2 de Maio.
 
 2. A tentativa será sempre punida.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor, verificando-se a sua vigência pelo período de um mês, a partir da data da sua publicação.
+Art. 7.º Este diploma entra imediatamente em vigor, verificando-se a sua vigência pelo período de um mês, a partir da data da sua publicação.
 
 Visto e aprovado pela Junta de Salvação Nacional em 6 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.
 
 MAPA I
 
@@ -254,4 +298,4 @@ Posições
 
 Pasta branqueada.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/03/07300/04220425.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7680775b376ef76b1c9b4c857137f05e6a66755e332219ac66ff07d385972582
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e154e62cf1e60e2cae271b3955f8774ceb40bf6c33c205c98a97e0962dfb654
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Estabelecimento Industrial
+- Fiscalização
+- Licenciamento
+- Normas de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:329987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469414:por
+  label: "Alterados a partir de 28.06.1966 os arts. 12º e 13º pelo DEC LEI.47164.24.08.1966.MECO, DG.IS [196] de 24.08.1966\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47164-1966-469414
+  date: '1966-08-24'
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596513:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475542:por
+  label: "Revogado, a partir de 01.01.1991, pelo DEC LEI.109/91.1991.03.15.MIE, DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1991-475542
+  date: '1991-03-15'
+- type: repealed_by
+  target: pt:dre:321917:por
+  label: "Revogadas as disposições relativas ao exercício da actividade da indústria transformadora da pesca, em terra, pelo\
+    \ DEC LEI.427/91.31.10.1991.MAPA, DR.IS-A [251] de 31.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1991-321917
+  date: '1991-10-31'
+- type: repeals
+  target: pt:dre:562020:por
+  label: "Revoga o Dec 10378 de 10/Dez/1924,DG.IS [275]\0\0"
+  source: null
+  date: '1924-12-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:31Z'
   warnings: []
   errors: []
 ---
@@ -122,19 +173,19 @@ I
 
 Da salubridade, higiene, segurança e comodidade dos estabelecimentos industriais
 
-###### Artigo 1.º A instalação e a laboração dos estabelecimentos industriais devem obedecer às condições necessárias para garantir a salubridade dos locais de trabalho, bem como a higiene, comodidade e segurança públicas e dos trabalhadores, ficando sujeitas, no que se refere a esses aspectos, ao disposto no presente decreto-lei e regulamentos publicados ou a publicar conjuntamente pelos Ministérios da Economia, Corporações e Previdência Social e Saúde e Assistência.
+Artigo 1.º A instalação e a laboração dos estabelecimentos industriais devem obedecer às condições necessárias para garantir a salubridade dos locais de trabalho, bem como a higiene, comodidade e segurança públicas e dos trabalhadores, ficando sujeitas, no que se refere a esses aspectos, ao disposto no presente decreto-lei e regulamentos publicados ou a publicar conjuntamente pelos Ministérios da Economia, Corporações e Previdência Social e Saúde e Assistência.
 
-###### Art. 2.º Nos sectores industriais em que não existam regulamentos publicados, mantêm-se em vigor as Instruções Gerais de Higiene, Salubridade e Segurança nos Estabelecimentos Industriais, que fazem parte do Regulamento de Higiene, Salubridade e Segurança nos Estabelecimentos Industriais, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922.
+Art. 2.º Nos sectores industriais em que não existam regulamentos publicados, mantêm-se em vigor as Instruções Gerais de Higiene, Salubridade e Segurança nos Estabelecimentos Industriais, que fazem parte do Regulamento de Higiene, Salubridade e Segurança nos Estabelecimentos Industriais, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922.
 
 § único. Os serviços competentes adoptarão subsidiàriamente, na definição de critérios de orientação, os regulamentos-tipo da Repartição Internacional do Trabalho.
 
-###### Art. 3.º A instalação e laboração dos estabelecimentos industriais ficarão dependentes, conforme se especifica no regulamento anexo, do cumprimento das condições de salubridade, higiene, segurança, comodidade e técnico-funcionais impostas ou constantes de preceitos legais aplicáveis, o que será verificado por meio de vistorias, exigindo-se, nos casos em que a importância ou a natureza da actividade o justificam, a prévia aprovação dos projectos de instalação, alteração ou adaptação.
+Art. 3.º A instalação e laboração dos estabelecimentos industriais ficarão dependentes, conforme se especifica no regulamento anexo, do cumprimento das condições de salubridade, higiene, segurança, comodidade e técnico-funcionais impostas ou constantes de preceitos legais aplicáveis, o que será verificado por meio de vistorias, exigindo-se, nos casos em que a importância ou a natureza da actividade o justificam, a prévia aprovação dos projectos de instalação, alteração ou adaptação.
 
 II
 
 Da fiscalização
 
-###### Art. 4.º A fiscalização dos estabelecimentos industriais, para efeitos do disposto neste diploma e nos regulamentos a que se refere o artigo 1.º e das condições estabelecidas nos termos do artigo 2.º, compete às direcções-gerais e demais serviços com superintendência técnica em cada sector, à Direcção-Geral do Trabalho e Corporações, à Direcção-Geral de Saúde e, quanto à localização dos estabelecimentos, também à Direcção-Geral dos Serviços de Urbanização e câmaras municipais.
+Art. 4.º A fiscalização dos estabelecimentos industriais, para efeitos do disposto neste diploma e nos regulamentos a que se refere o artigo 1.º e das condições estabelecidas nos termos do artigo 2.º, compete às direcções-gerais e demais serviços com superintendência técnica em cada sector, à Direcção-Geral do Trabalho e Corporações, à Direcção-Geral de Saúde e, quanto à localização dos estabelecimentos, também à Direcção-Geral dos Serviços de Urbanização e câmaras municipais.
 
 § único. A fiscalização far-se-á de harmonia com a legislação aplicável a cada serviço.
 
@@ -142,15 +193,15 @@ III
 
 Das infracções e dos recursos
 
-###### Art. 5.º Quando a gravidade do caso o justificar, serão tomadas providências imediatas para eliminar ou prevenir as consequências resultantes do não cumprimento das disposições relativas à salubridade, higiene, segurança e comodidade dos estabelecimentos industriais, podendo determinar-se a suspensão do trabalho e encerramento dos respectivos locais, no todo ou em parte, ou a selagem de qualquer equipamento.
+Art. 5.º Quando a gravidade do caso o justificar, serão tomadas providências imediatas para eliminar ou prevenir as consequências resultantes do não cumprimento das disposições relativas à salubridade, higiene, segurança e comodidade dos estabelecimentos industriais, podendo determinar-se a suspensão do trabalho e encerramento dos respectivos locais, no todo ou em parte, ou a selagem de qualquer equipamento.
 
 § único. A quebra dos selos será punida, nos termos do § 2.º do artigo 310.º do Código Penal, pelos tribunais comuns.
 
-###### Art. 6.º As decisões com base no disposto no corpo do artigo anterior cabem aos chefes dos serviços externos com superintendência técnica, à Inspecção do Trabalho, nos termos da respectiva legislação, e à Direcção-Geral de Saúde, quando esta entenda que é matéria da sua competência.
+Art. 6.º As decisões com base no disposto no corpo do artigo anterior cabem aos chefes dos serviços externos com superintendência técnica, à Inspecção do Trabalho, nos termos da respectiva legislação, e à Direcção-Geral de Saúde, quando esta entenda que é matéria da sua competência.
 
 § único. Quando as referidas decisões forem tomadas pela Inspecção do Trabalho ou pela Direcção-Geral de Saúde, devem ser prontamente comunicadas à Direcção-Geral com superintendência técnica.
 
-###### Art. 7.º Sempre que as providências tomadas com base no disposto no artigo 5.º resultem de facto imputável à empresa e delas derive ou possa derivar para os trabalhadores perda ou redução dos salários ou ordenados, pode o Ministro das Corporações e Previdência Social determinar, por despacho, que a empresa garanta ao pessoal uma parte ou a totalidade da respectiva remuneração, pelo período julgado conveniente.
+Art. 7.º Sempre que as providências tomadas com base no disposto no artigo 5.º resultem de facto imputável à empresa e delas derive ou possa derivar para os trabalhadores perda ou redução dos salários ou ordenados, pode o Ministro das Corporações e Previdência Social determinar, por despacho, que a empresa garanta ao pessoal uma parte ou a totalidade da respectiva remuneração, pelo período julgado conveniente.
 
 § 1.º Do despacho referido no corpo deste artigo não haverá recurso e a sua inobservância sujeita os infractores à sanção prevista na última parte do artigo 11.º do [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943, na redacção do [Decreto-Lei n.º 43182](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43182-1960-514841), de 23 de Setembro de 1960.
 
@@ -158,7 +209,7 @@ Das infracções e dos recursos
 
 § 3.º Para efeitos do disposto neste artigo, a aplicação das medidas previstas no artigo 5.º por entidade diversa da Inspecção do Trabalho será comunicada à Direcção-Geral do Trabalho e Corporações no prazo de oito dias.
 
-###### Art. 8.º Fora dos casos previstos no artigo 5.º cada infracção será punida com multa de 500$00 a 2000$00.
+Art. 8.º Fora dos casos previstos no artigo 5.º cada infracção será punida com multa de 500$00 a 2000$00.
 
 § 1.º Verificada uma infracção, serão fixados prazos à empresa para início e conclusão da obra ou modificações necessárias sem prejuízo do normal prosseguimento dos autos levantados.
 
@@ -170,19 +221,19 @@ Das infracções e dos recursos
 
 § 5.º O disposto neste artigo não prejudica a aplicação do artigo anterior.
 
-###### Art. 9.º Da laboração de qualquer estabelecimento industrial poderão terceiros reclamar a todo o tempo para os chefes dos serviços externos com superintendência técnica.
+Art. 9.º Da laboração de qualquer estabelecimento industrial poderão terceiros reclamar a todo o tempo para os chefes dos serviços externos com superintendência técnica.
 
 § único. Apresentada a reclamação, devidamente fundamentada, os serviços competentes procederão logo às diligências necessárias à sua apreciação, intervindo nessas diligências os serviços da Direcção-Geral de Saúde, sempre que a reclamação envolva matéria da sua competência. Serão tomadas as providências adequadas quando a reclamação for atendida.
 
-###### Art. 10.º Os recursos hierárquicos das decisões tomadas sobre as reclamações a que se refere o artigo anterior serão interpostos por meio de requerimento apresentado nos serviços externos competentes, devendo estes, no prazo de oito dias, remetê-lo ao director-geral respectivo.
+Art. 10.º Os recursos hierárquicos das decisões tomadas sobre as reclamações a que se refere o artigo anterior serão interpostos por meio de requerimento apresentado nos serviços externos competentes, devendo estes, no prazo de oito dias, remetê-lo ao director-geral respectivo.
 
-###### Art. 11.º Os recursos terão, em regra, efeito suspensivo, mas a entidade para quem se recorrer poderá atribuir-lhes efeito meramente devolutivo, quando as circunstâncias o justificarem.
+Art. 11.º Os recursos terão, em regra, efeito suspensivo, mas a entidade para quem se recorrer poderá atribuir-lhes efeito meramente devolutivo, quando as circunstâncias o justificarem.
 
 IV
 
 Das taxas
 
-###### Art. 12.º É devido o pagamento de taxas pelos seguintes actos relativos à instalação ou laboração de estabelecimentos industriais:
+Art. 12.º É devido o pagamento de taxas pelos seguintes actos relativos à instalação ou laboração de estabelecimentos industriais:
 
 a) Pedidos de aprovação das instalações, suas alterações ou adaptações, aprovação das condições de laboração e de averbamentos de transmissão;
 
@@ -192,48 +243,48 @@ c) Selagem e desselagem de máquinas ou aparelhos industriais.
 
 § único. As taxas referidas no corpo deste artigo serão fixadas por portaria conjunta do Ministro das Finanças e dos Secretários de Estado da Agricultura e da Indústria.
 
-###### Art. 13.º As taxas referidas na alínea a) do corpo do artigo anterior serão pagas por meio de selos fiscais apostos e inutilizados nos requerimentos respectivos; as referidas alíneas b) e c), assim como as despesas e realizar com colheitas de amostras, ensaios laboratoriais ou outras quaisquer determinações necessárias para a apreciação das condições de laboração de um estabelecimento industrial, com utilização de quaisquer serviços do Estado, constituem encargo do interessado e serão pagas por meio de guia, em triplicado, passada pelos serviços competentes no Banco de Portugal, nas suas agências ou filiais, ou nas secções de finanças do concelho em que se situar o estabelecimento.
+Art. 13.º As taxas referidas na alínea a) do corpo do artigo anterior serão pagas por meio de selos fiscais apostos e inutilizados nos requerimentos respectivos; as referidas alíneas b) e c), assim como as despesas e realizar com colheitas de amostras, ensaios laboratoriais ou outras quaisquer determinações necessárias para a apreciação das condições de laboração de um estabelecimento industrial, com utilização de quaisquer serviços do Estado, constituem encargo do interessado e serão pagas por meio de guia, em triplicado, passada pelos serviços competentes no Banco de Portugal, nas suas agências ou filiais, ou nas secções de finanças do concelho em que se situar o estabelecimento.
 
-###### Art. 14.º As importâncias arrecadadas por meio de guia serão contabilizadas com rubrica especial, como receita do Estado consignada às despesas a realizar com vistorias aos estabelecimentos industriais, incluindo o pagamento de transportes, subsídios de marcha e ajudas de custo, nos termos da legislação em vigor, e às despesas de deslocação originadas por vistorias realizadas dentro da área da residência oficial dos técnicos que as efectuarem e até ao limite para o qual não está reconhecido, na generalidade, o direito a subsídios de marcha.
+Art. 14.º As importâncias arrecadadas por meio de guia serão contabilizadas com rubrica especial, como receita do Estado consignada às despesas a realizar com vistorias aos estabelecimentos industriais, incluindo o pagamento de transportes, subsídios de marcha e ajudas de custo, nos termos da legislação em vigor, e às despesas de deslocação originadas por vistorias realizadas dentro da área da residência oficial dos técnicos que as efectuarem e até ao limite para o qual não está reconhecido, na generalidade, o direito a subsídios de marcha.
 
 § único. Os serviços competentes poderão despender com os encargos referidos neste artigo importância dentro do valor global que tiver sido arrecadado sob a rubrica mencionada e em conta da verba correspondente do orçamento de despesas.
 
-###### Art. 15.º Não poderão ter seguimento os requerimentos ou diligências passíveis de pagamento de taxas, enquanto estas não forem pagas.
+Art. 15.º Não poderão ter seguimento os requerimentos ou diligências passíveis de pagamento de taxas, enquanto estas não forem pagas.
 
 V
 
 Disposições gerais e transitórias
 
-###### Art. 16.º O disposto neste diploma aplica-se também aos estabelecimentos industriais existentes à data da sua publicação. Quando tais estabelecimentos não reúnam as necessárias condições de salubridade, higiene, segurança e comodidade, as respectivas empresas deverão ser notificadas para, dentro de prazo razoável, realizarem as adaptações indispensáveis.
+Art. 16.º O disposto neste diploma aplica-se também aos estabelecimentos industriais existentes à data da sua publicação. Quando tais estabelecimentos não reúnam as necessárias condições de salubridade, higiene, segurança e comodidade, as respectivas empresas deverão ser notificadas para, dentro de prazo razoável, realizarem as adaptações indispensáveis.
 
-###### Art. 17.º A autorização concedida para a instalação ou laboração de qualquer estabelecimento industrial, ou para posteriores alterações, não prejudica os direitos de terceiros pelos prejuízos que venham a sofrer.
+Art. 17.º A autorização concedida para a instalação ou laboração de qualquer estabelecimento industrial, ou para posteriores alterações, não prejudica os direitos de terceiros pelos prejuízos que venham a sofrer.
 
-###### Art. 18.º Qualquer empresa poderá requerer aos serviços competentes a selagem e a desselagem de toda ou parte da maquinaria instalada no seu estabelecimento.
+Art. 18.º Qualquer empresa poderá requerer aos serviços competentes a selagem e a desselagem de toda ou parte da maquinaria instalada no seu estabelecimento.
 
 § único. A quebra dos selos será punida de acordo com o disposto no § único do artigo 5.º do presente diploma.
 
-###### Art. 19.º O Governo poderá ordenar, nos termos gerais de direito, a expropriação por utilidade pública de estabelecimentos sujeitos ao preceituado neste diploma que, pela sua localização, constituam obstáculo, por outro modo irremovível, à realização de planos de urbanização aprovados, ou afectem de modo grave as condições legalmente estabelecidas de salubridade, higiene, segurança e comodidade.
+Art. 19.º O Governo poderá ordenar, nos termos gerais de direito, a expropriação por utilidade pública de estabelecimentos sujeitos ao preceituado neste diploma que, pela sua localização, constituam obstáculo, por outro modo irremovível, à realização de planos de urbanização aprovados, ou afectem de modo grave as condições legalmente estabelecidas de salubridade, higiene, segurança e comodidade.
 
-###### Art. 20.º São abolidos os alvarás de licença dos estabelecimentos industriais.
+Art. 20.º São abolidos os alvarás de licença dos estabelecimentos industriais.
 
-###### Art. 21.º Nos distritos autónomos das ilhas adjacentes, cabe à Comissão Executiva da respectiva Junta Geral a competência conferida por este diploma às Direcções-Gerais do Ministério da Economia.
+Art. 21.º Nos distritos autónomos das ilhas adjacentes, cabe à Comissão Executiva da respectiva Junta Geral a competência conferida por este diploma às Direcções-Gerais do Ministério da Economia.
 
 § único. Nos distritos autónomos onde não houver serviços industriais adequados, o serviço externo ficará a cargo dos serviços correspondentes com sede em Lisboa.
 
-###### Art. 22.º Nos processos de licenciamento em curso será observado, com as adaptações necessárias, o preceituado neste diploma.
+Art. 22.º Nos processos de licenciamento em curso será observado, com as adaptações necessárias, o preceituado neste diploma.
 
 § 1.º Aos actos praticados, nos processos em curso serão aplicadas as taxas referidas no artigo 12.º, para pagamento das quais serão utilizados os preparos já depositados pelos interessados, devendo estes efectuar o pagamento da importância que exceder os referidos preparos pelo modo que ao caso couber.
 
 § 2.º Constituirão receita do Estado as quantias dos preparos que excederem as taxas previstas neste regulamento.
 
-###### Art. 23.º São revogados os Decretos: n.º 3774, de 19 de Janeiro de 1918; n.º 4351, de 29 de Maio de 1918; n.º 7989, de 25 de Janeiro de 1922; n.º 8364, de 25 de Agosto de 1922, sem prejuízo do disposto no artigo 2.º do presente diploma n.º 9368, de 8 de Janeiro de 1924; n.º 9658, de 8 de Maio de 1924; n.º 9659, de 8 de Maio de 1924; n.º 9836, de 19 de Junho de 1924; n.º 10378, de 10 de Dezembro de 1924; n.º 10425, de 31 de Dezembro de 1924; n.º 10443, de 9 de Janeiro de 1925; n.º 10503, de 3 de Fevereiro de 1925; n.º 10598, de 5 de Março de 1925; n.º 10624, de 17 de Março de 1925; n.º 10979, de 29 de Julho de 1925; n.º 12412, de 28 de Setembro de 1926; n.º 13051, de 18 de Janeiro de 1927; n.º 13407, de 4 de Abril de 1927; n.º 14390, de 7 de Outubro de 1927; n.º 14638, de 30 de Novembro de 1927; n.º 14776, de 22 de Dezembro de 1927; n.º 14955, de 24 de Janeiro de 1928; n.º 15464, de 12 de Maio de 1928; n.º 15646, de 27 de Junho de 1928; n.º 15647, de 27 de Junho de 1928; n.º 15698, de 11 de Julho de 1928; n.º 15699, de 11 de Julho de 1928; n.º 15744, de 19 de Julho de 1928; n.º 15812, de 3 de Agosto de 1928; n.º 16100, de 2 de Novembro de 1928; n.º 17665, de 25 de Novembro de 1929; n.º 18764, de 19 de Agosto de 1930; n.º 19612, de 18 de Abril de 1931; n.º 20048, de 8 de Julho de 1931; n.º 20707, de 4 de Janeiro de 1932; n.º 21187, de 30 de Abril de 1932; n.º 21523; de 27 de Julho de 1932; n.º 21524, de 27 de Julho de 1932; n.º 21558, de 27 de Julho de 1932; n.º 21739, de 15 de Outubro de 1932; n.º 21910, de 25 de Novembro de 1932; n.º 21964, de 9 de Dezembro de 1932; n.º 22202, de 15 de Fevereiro de 1933; n.º 22809, de 8 de Julho de 1933; n.º 22965, de 12 de Agosto de 1933; n.º 23148, de 19 de Outubro de 1933; n.º 23617, de 28 de Fevereiro de 1934; n.º 23621, de 1 de Março de 1934; n.º 23793, de 24 de Abril de 1934; n.º 26135, de 6 de Dezembro de 1935; n.º 26136, de 6 de Dezembro de 1935; n.º 26836, de 27 de Julho de 1936; n.º 27606, de 30 de Março de 1937; n.º 27717, de 22 de Maio de 1937; n.º 28192, de 17 de Novembro de 1937; n.º 28595, de 16 de Abril de 1938; n.º 28639, de 6 de Maio de 1938; n.º 28981, de 6 de Setembro de 1938; n.º 29454, de 17 de Fevereiro de 1939; n.º 29540, de 18 de Abril de 1939; n.º 29548, de 21 de Abril de 1939; n.º 29746, de 12 de Julho de 1939; n.º 30128, de 13 de Dezembro de 1939; n.º 30369, do 9 de Abril de 1940; n.º 30890, de 21 de Novembro de 1940; n.º 31638, de 13 de Novembro de 1941; n.º 31842, de 7 de Janeiro de 1942; n.º 32478, de 10 de Dezembro de 1942; n.º 33733, de 24 de Junho de 1944; n.º 33793, de 13 de Julho de 1944; n.º 34393, de 26 de Janeiro de 1945; n.º 34465, de 27 de Março de 1945; n.º 34482, de 4 de Abril de 1945; n.º 34902, de 8 de Setembro de 1945; n.º 36235, de 18 de Abril de 1947; n.º 36636, de 28 de Novembro de 1947; n.º 37761, de 23 de Fevereiro de 1950, e n.º 38148, de 10 de Janeiro de 1951.
+Art. 23.º São revogados os Decretos: n.º 3774, de 19 de Janeiro de 1918; n.º 4351, de 29 de Maio de 1918; n.º 7989, de 25 de Janeiro de 1922; n.º 8364, de 25 de Agosto de 1922, sem prejuízo do disposto no artigo 2.º do presente diploma n.º 9368, de 8 de Janeiro de 1924; n.º 9658, de 8 de Maio de 1924; n.º 9659, de 8 de Maio de 1924; n.º 9836, de 19 de Junho de 1924; n.º 10378, de 10 de Dezembro de 1924; n.º 10425, de 31 de Dezembro de 1924; n.º 10443, de 9 de Janeiro de 1925; n.º 10503, de 3 de Fevereiro de 1925; n.º 10598, de 5 de Março de 1925; n.º 10624, de 17 de Março de 1925; n.º 10979, de 29 de Julho de 1925; n.º 12412, de 28 de Setembro de 1926; n.º 13051, de 18 de Janeiro de 1927; n.º 13407, de 4 de Abril de 1927; n.º 14390, de 7 de Outubro de 1927; n.º 14638, de 30 de Novembro de 1927; n.º 14776, de 22 de Dezembro de 1927; n.º 14955, de 24 de Janeiro de 1928; n.º 15464, de 12 de Maio de 1928; n.º 15646, de 27 de Junho de 1928; n.º 15647, de 27 de Junho de 1928; n.º 15698, de 11 de Julho de 1928; n.º 15699, de 11 de Julho de 1928; n.º 15744, de 19 de Julho de 1928; n.º 15812, de 3 de Agosto de 1928; n.º 16100, de 2 de Novembro de 1928; n.º 17665, de 25 de Novembro de 1929; n.º 18764, de 19 de Agosto de 1930; n.º 19612, de 18 de Abril de 1931; n.º 20048, de 8 de Julho de 1931; n.º 20707, de 4 de Janeiro de 1932; n.º 21187, de 30 de Abril de 1932; n.º 21523; de 27 de Julho de 1932; n.º 21524, de 27 de Julho de 1932; n.º 21558, de 27 de Julho de 1932; n.º 21739, de 15 de Outubro de 1932; n.º 21910, de 25 de Novembro de 1932; n.º 21964, de 9 de Dezembro de 1932; n.º 22202, de 15 de Fevereiro de 1933; n.º 22809, de 8 de Julho de 1933; n.º 22965, de 12 de Agosto de 1933; n.º 23148, de 19 de Outubro de 1933; n.º 23617, de 28 de Fevereiro de 1934; n.º 23621, de 1 de Março de 1934; n.º 23793, de 24 de Abril de 1934; n.º 26135, de 6 de Dezembro de 1935; n.º 26136, de 6 de Dezembro de 1935; n.º 26836, de 27 de Julho de 1936; n.º 27606, de 30 de Março de 1937; n.º 27717, de 22 de Maio de 1937; n.º 28192, de 17 de Novembro de 1937; n.º 28595, de 16 de Abril de 1938; n.º 28639, de 6 de Maio de 1938; n.º 28981, de 6 de Setembro de 1938; n.º 29454, de 17 de Fevereiro de 1939; n.º 29540, de 18 de Abril de 1939; n.º 29548, de 21 de Abril de 1939; n.º 29746, de 12 de Julho de 1939; n.º 30128, de 13 de Dezembro de 1939; n.º 30369, do 9 de Abril de 1940; n.º 30890, de 21 de Novembro de 1940; n.º 31638, de 13 de Novembro de 1941; n.º 31842, de 7 de Janeiro de 1942; n.º 32478, de 10 de Dezembro de 1942; n.º 33733, de 24 de Junho de 1944; n.º 33793, de 13 de Julho de 1944; n.º 34393, de 26 de Janeiro de 1945; n.º 34465, de 27 de Março de 1945; n.º 34482, de 4 de Abril de 1945; n.º 34902, de 8 de Setembro de 1945; n.º 36235, de 18 de Abril de 1947; n.º 36636, de 28 de Novembro de 1947; n.º 37761, de 23 de Fevereiro de 1950, e n.º 38148, de 10 de Janeiro de 1951.
 
-###### Art. 24.º Mantêm-se em vigor, na parte aplicável, para efeitos do disposto no artigo 9.º da [Lei n.º 1453](https://diariodarepublica.pt/dr/detalhe/lei/1453-1923-317515), de 26 de Julho de 1923, as instruções aprovadas pela [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929, bem como a tabela a esta anexa.
+Art. 24.º Mantêm-se em vigor, na parte aplicável, para efeitos do disposto no artigo 9.º da [Lei n.º 1453](https://diariodarepublica.pt/dr/detalhe/lei/1453-1923-317515), de 26 de Julho de 1923, as instruções aprovadas pela [Portaria n.º 6065](https://diariodarepublica.pt/dr/detalhe/portaria/6065-1929-355742), de 30 de Março de 1929, bem como a tabela a esta anexa.
 
-###### Art. 25.º As disposições deste diploma não prejudicam o disposto no [Decreto-Lei n.º 42205](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42205-1959-586043), de 7 de Abril de 1959.
+Art. 25.º As disposições deste diploma não prejudicam o disposto no [Decreto-Lei n.º 42205](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42205-1959-586043), de 7 de Abril de 1959.
 
-###### Art. 26.º As disposições do presente decreto-lei entram em vigor no prazo de três meses, a contar da data da publicação deste diploma.
+Art. 26.º As disposições do presente decreto-lei entram em vigor no prazo de três meses, a contar da data da publicação deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Manuel Rafael Amaro da Costa.

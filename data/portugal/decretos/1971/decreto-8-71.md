@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-1971-446334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-01-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be353b17a2aef1b3a5e7d604ecca6ce001757a32bfd66c80cfc5569e535a7909
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 856a0bd6342b6c3ecbc9148c836920d65320b3b973d6b20dd76a80530c9a5328
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:21Z'
   warnings: []
   errors: []
 ---
@@ -90,14 +90,14 @@ Considerando a vantagem de facultar ao pessoal do Gabinete do Plano do Zambeze, 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os funcionários do Gabinete do Plano do Zambeze que exerçam funções de guarda e vigilância serão devidamente ajuramentados perante o juiz de direito da comarca do seu domicílio, considerando-se agentes de autoridade, para todos os efeitos, designadamente para fins de levantamento de autos de notícia, uso de armas de defesa e captura dos arguidos.
+Artigo único. Os funcionários do Gabinete do Plano do Zambeze que exerçam funções de guarda e vigilância serão devidamente ajuramentados perante o juiz de direito da comarca do seu domicílio, considerando-se agentes de autoridade, para todos os efeitos, designadamente para fins de levantamento de autos de notícia, uso de armas de defesa e captura dos arguidos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Janeiro de 1971.**
+Promulgado em 6 de Janeiro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.

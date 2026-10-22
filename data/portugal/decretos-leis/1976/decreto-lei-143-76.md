@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04200/03500352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1976-507579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a37c957a62d61b53f255e2e5a9b1d54b2bdda9cdb63972b70fd723000a0e0ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12de527714f591c263c09de8a1fbd0441b366ef738be7958aaa96b13e91385e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Exportação
+- Importação
+- Indústria da Cerâmica
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:374375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374375:por
+  label: "Revogado pelo DEC LEI.193/88.30.05.1988.MIE, DR.IS [125] de 30.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1988-374375
+  date: '1988-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:44Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +110,13 @@ Considerando que tais exigências necessitam, para serem eficazes, de uma fiscal
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito do diploma)
 
 O presente diploma aplica-se a todos os utensílios de cerâmica vidrados ou decorados interiormente, de vidro decorado interiormente, de estanho ou de outro metal estanhado ou esmaltado interiormente, apropriados para neles se conterem ou prepararem alimentos ou bebidas, com excepção das antiguidades.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Normas e especificações)
 
@@ -109,7 +124,7 @@ O presente diploma aplica-se a todos os utensílios de cerâmica vidrados ou dec
 
 2. Enquanto não começarem a cumprir as normas ou especificações que tenham sido aprovadas, os fabricantes continuam obrigados ao cumprimento das normas ou especificações anteriormente em vigor.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Marca obrigatória)
 
@@ -125,7 +140,7 @@ Círculo ou circunferência pintado indelevelmente - 2 mm de diâmetro.
 
 4. Sempre que se publiquem novas normas ou especificações, obrigatórias nos termos do artigo 2.º, deverão elas mencionar as modificações a introduzir nos símbolos referidos no n.º 3 deste artigo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Exportação)
 
@@ -135,7 +150,7 @@ Círculo ou circunferência pintado indelevelmente - 2 mm de diâmetro.
 
 3. Os certificados referidos nos números anteriores deverão obrigatoriamente conter referência à marca dos produtos e terão a validade de noventa dias.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Importação)
 
@@ -143,25 +158,25 @@ Círculo ou circunferência pintado indelevelmente - 2 mm de diâmetro.
 
 2. Os produtos deverão sempre apresentar uma marca indelével, com vista a identificar o fabricante ou o importador, e que constará obrigatoriamente no certificado de qualidade referido no número anterior.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Comercialização interna)
 
 A comercialização interna dos produtos de fabrico nacional ou importados, abrangidos por este diploma, fica sujeita à obrigatoriedade de marca, respectivamente nos termos do artigo 3.º ou do artigo 5.º, um ano após a sua entrada em vigor.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Fiscalização)
 
 A fiscalização do disposto no presente diploma compete à Inspecção-Geral dos Produtos Agrícolas e Industriais, à Direcção-Geral da Fiscalização Económica e à Direcção-Geral das Alfândegas, segundo as regras legais da sua disciplina, sem prejuízo da competência atribuída por lei a outras entidades.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Auto de notícia)
 
 Sempre que tenham conhecimento de qualquer infracção às disposições do presente diploma, as entidades competentes para a fiscalização lavrarão auto de notícia, nos termos do artigo 166.º do Código de Processo Penal, o qual será enviado à Inspecção-Geral dos Produtos Agrícolas e Industriais ou à Direcção-Geral da Fiscalização Económica, consoante se trate de infracção do artigo 2.º ou de infracção dos artigos 3.º ou 6.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Penalidades)
 
@@ -169,13 +184,13 @@ Sempre que tenham conhecimento de qualquer infracção às disposições do pres
 
 2. A inobservância do disposto nos artigos 3.º e 6.º é punível com multa de 3000$00 a 30000$00, para cuja aplicação tem competência a Direcção-Geral da Fiscalização Económica.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Restrições à importação e exportação)
 
 As alfândegas não despacharão para exportação ou importação os produtos que não sejam acompanhados dos certificados referidos nos artigos 4.º ou 5.º
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Entrada em vigor)
 
@@ -183,8 +198,8 @@ O presente diploma entrará em vigor depois de decorridos noventa dias a contar 
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 9 de Fevereiro de 1976.**
+Promulgado em 9 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

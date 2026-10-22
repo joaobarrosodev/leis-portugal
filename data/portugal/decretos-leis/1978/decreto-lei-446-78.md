@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 299/1978, 4º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2798-(66) a 2798-(67)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29904/00660067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1978-274063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d660c3d7d199d5860b1e77f730988748abf404029d243f941e2fe64df94492e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cc493c2537c8c14aaa720eda456f994eb9ecab29017e6d799698b0f32ddfbe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ministério da Habitação e Obras Públicas
+- Secretaria Regional do Equipamento Social
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:09Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +113,9 @@ Assim:
 
 O Governo decreta, ouvido o Governo Regional, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São extintas a Direcção de Obras Públicas da Horta, a Circunscrição de Urbanização dos Açores e as Secções de Urbanização de Angra do Heroísmo e Horta, do Ministério da Habitação e Obras Públicas, no dia 31 de Dezembro de 1978.
+Artigo 1.º São extintas a Direcção de Obras Públicas da Horta, a Circunscrição de Urbanização dos Açores e as Secções de Urbanização de Angra do Heroísmo e Horta, do Ministério da Habitação e Obras Públicas, no dia 31 de Dezembro de 1978.
 
-###### Art. 2.º - 1 - Os funcionários que prestam serviço, a qualquer título, nos organismos ora extintos serão integrados nos quadros de pessoal dos serviços dependentes da Secretaria Regional do Equipamento Social, em lugares de igual categoria e com todos os direitos e regalias já adquiridos, contando-se para todos os efeitos, como se fora no novo lugar, o tempo de serviço prestado no seu actual cargo.
+Art. 2.º - 1 - Os funcionários que prestam serviço, a qualquer título, nos organismos ora extintos serão integrados nos quadros de pessoal dos serviços dependentes da Secretaria Regional do Equipamento Social, em lugares de igual categoria e com todos os direitos e regalias já adquiridos, contando-se para todos os efeitos, como se fora no novo lugar, o tempo de serviço prestado no seu actual cargo.
 
 2 - A integração e a colocação prevista no n.º 1 deste artigo serão efectuadas, independentemente de quaisquer outras formalidades, salvo o visto do Tribunal de Contas, mediante lista nominativa assinada pelo Secretário Regional da Administração Pública e pelo Secretário Regional do Equipamento Social, publicada no Jornal Oficial e, posteriormente, no Diário da República.
 
@@ -115,18 +125,18 @@ O Governo decreta, ouvido o Governo Regional, nos termos da alínea a) do n.º 1
 
 5 - Os funcionários mencionados no n.º 1 que venham a ser integrados nos quadros dos serviços da Região Autónoma dos Açores, e que ao se aposentarem pretendam fixar residência no continente, manterão os direitos consignados no que se refere a transporte de pessoas e bens.
 
-###### Art. 3.º A gestão de todos os bens afectos aos serviços extintos por força do artigo 1.º transita para o Governo Regional com dispensa de qualquer formalidade, à excepção do respectivo auto de cessão.
+Art. 3.º A gestão de todos os bens afectos aos serviços extintos por força do artigo 1.º transita para o Governo Regional com dispensa de qualquer formalidade, à excepção do respectivo auto de cessão.
 
-###### Art. 4.º O Ministério da Habitação e Obras Públicas prestará todo o apoio técnico que se revelar necessário às actividades dos serviços dependentes da Secretaria Regional do Equipamento Social, a solicitação expressa do Governo Regional.
+Art. 4.º O Ministério da Habitação e Obras Públicas prestará todo o apoio técnico que se revelar necessário às actividades dos serviços dependentes da Secretaria Regional do Equipamento Social, a solicitação expressa do Governo Regional.
 
-###### Art. 5.º Todos os encargos assumidos pelo Estado, até 31 de Dezembro de 1978, por intermédio dos serviços extintos, nos termos deste diploma, que não puderem ser liquidados e pagos nos prazos legais para encerramento de contas, sê-lo-ão por verbas de anos económicos findos consignadas no orçamento do Ministério da Habitação e Obras Públicas.
+Art. 5.º Todos os encargos assumidos pelo Estado, até 31 de Dezembro de 1978, por intermédio dos serviços extintos, nos termos deste diploma, que não puderem ser liquidados e pagos nos prazos legais para encerramento de contas, sê-lo-ão por verbas de anos económicos findos consignadas no orçamento do Ministério da Habitação e Obras Públicas.
 
-###### Art. 6.º As dúvidas que se suscitarem na aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da Habitação e Obras Públicas e do Ministro da República para os Açores, ouvido o Governo da Região.
+Art. 6.º As dúvidas que se suscitarem na aplicação do presente decreto-lei serão resolvidas por despacho conjunto do Ministro da Habitação e Obras Públicas e do Ministro da República para os Açores, ouvido o Governo da Região.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - João Orlindo Almeida Pina.
 
-**Promulgado em 30 de Dezembro de 1978.**
+Promulgado em 30 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

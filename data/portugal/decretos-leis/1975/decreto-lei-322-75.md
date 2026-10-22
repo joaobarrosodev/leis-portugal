@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14600/08950896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1975-337065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b309b26a9cd2bce7005d175c08279265274dab00d8fabe5c146e5c0ad4d2f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aad6b3c5c63769965d4a8953fb61ccff6acbe3b46d1dfe818dd5013365e9a6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- EPAL
 relationships:
 - type: amended_by
   target: pt:dre:648746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547005:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401901:por
+  label: "Revogados, a partir de 1 de Janeiro de 1989, os benefícios fiscais constantes da al. b) do art. 1º, pelo DEC LEI.485/88.1988.12.30.MF,\
+    \ DR.IS [301]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/485-1988-401901
+  date: '1988-12-30'
+- type: repealed_by
+  target: pt:dre:648746:por
+  label: "Revogado pelo DEC LEI.230/91.21.06.1991.MARN, DR.IS-A [140] de 21.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1991-648746
+  date: '1991-06-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:59Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +120,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Empresa Pública das Águas de Lisboa (EPAL), no âmbito da sua actividade e com vista ao prosseguimento dos seus fins, é titular dos direitos e obrigações atribuídos ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:
+Artigo 1.º A Empresa Pública das Águas de Lisboa (EPAL), no âmbito da sua actividade e com vista ao prosseguimento dos seus fins, é titular dos direitos e obrigações atribuídos ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:
 
 a) À cobrança coerciva de taxas, outros rendimentos do serviço e outros créditos da empresa;
 
@@ -127,18 +144,18 @@ j) À responsabilidade civil extracontratual;
 
 l) À celebração de contratos administrativos.
 
-###### Art. 2.º - 1. A EPAL administra o domínio público do Estado afecto à exploração do serviço a seu encargo, devendo manter em dia o respectivo cadastro, afectar-lhe os bens que nele convenha incorporar, desafectar os dispensáveis e assegurar a respectiva polícia.
+Art. 2.º - 1. A EPAL administra o domínio público do Estado afecto à exploração do serviço a seu encargo, devendo manter em dia o respectivo cadastro, afectar-lhe os bens que nele convenha incorporar, desafectar os dispensáveis e assegurar a respectiva polícia.
 
 2. Os bens do domínio privado da EPAL afectos à exploração do serviço a seu cargo e os demais bens que a empresa receba ou adquira para realização dos seus fins constituem o seu património privativo.
 
 3. A desafectação dos bens referidos no n.º 1 deste artigo processa-se mediante portaria emanada do Ministério do Equipamento Social e do Ambiente, precedendo proposta fundamentada do presidente da Comissão de Fiscalização das Águas de Lisboa, com prévia audição da Direcção-Geral da Fazenda Pública.
 
-###### Art. 3.º Os efeitos do disposto no presente decreto-lei, salvo quanto ao que, pela sua especial natureza, o não permitia, reportam-se ao dia 31 de Outubro de 1974.
+Art. 3.º Os efeitos do disposto no presente decreto-lei, salvo quanto ao que, pela sua especial natureza, o não permitia, reportam-se ao dia 31 de Outubro de 1974.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - José Augusto Fernandes.
 
-**Promulgado em 16 de Junho de 1975.**
+Promulgado em 16 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

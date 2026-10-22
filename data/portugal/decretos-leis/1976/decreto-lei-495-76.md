@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/14600/14061407.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1976-431214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02be1cf9663dd25bb96ec84f029675ebe99ce3a06567ee72f22f510b78694a2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01488564f56d51a2654a0533b55e6fc0a031b9cc6bb239e5e43014ff44d77ea1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Instaladora
+- Criação de Serviços
+- Definição de Competências
+- Instituto Nacional do Frio
+- Ministro do Comércio Interno
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409373:por
+  label: "Alterado o nº2 do art. 4º e o nº2 do art. 5º pelo DEC LEI.752/76.19.10.1976.MCT, DR.IS [245] de 19.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/752-1976-409373
+  date: '1976-10-19'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:307250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643954:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:57Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +149,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada, na directa dependência do Ministro do Comércio Interno, a Comissão Instaladora do Instituto Nacional do Frio, com a seguinte composição:
+Artigo 1.º - 1. É criada, na directa dependência do Ministro do Comércio Interno, a Comissão Instaladora do Instituto Nacional do Frio, com a seguinte composição:
 
 a) Presidente - um representante do Ministro do Comércio Interno;
 
@@ -126,34 +159,34 @@ b) Vogais - um representante do Ministro da Agricultura e Pescas, um representan
 
 3. A acção da Comissão Instaladora exerce-se em todo o território nacional.
 
-###### Art. 2.º À Comissão Instaladora incumbe:
+Art. 2.º À Comissão Instaladora incumbe:
 
 a) Praticar todos os actos necessários a habilitar o Governo a criar, no prazo máximo de um ano, o Instituto Nacional do Frio;
 
 b) Transitoriamente, e enquanto o referido Instituto não estiver criado, centralizar a coordenação e dinamização de todas as actividades ligadas ao sector do frio, em colaboração com os serviços e institutos públicos ou privados interessados.
 
-###### Art. 3.º - 1. Tendo em vista o desempenho das tarefas a que se refere a alínea b) do artigo anterior, transitam para a Comissão Instaladora as atribuições e competências do Serviço do Frio, constantes da [Portaria n.º 571/75](https://diariodarepublica.pt/dr/detalhe/portaria/571-1975-307250), de 20 de Setembro.
+Art. 3.º - 1. Tendo em vista o desempenho das tarefas a que se refere a alínea b) do artigo anterior, transitam para a Comissão Instaladora as atribuições e competências do Serviço do Frio, constantes da [Portaria n.º 571/75](https://diariodarepublica.pt/dr/detalhe/portaria/571-1975-307250), de 20 de Setembro.
 
 2. As competências que, em matéria de planeamento, transitam para a Comissão Instaladora serão por esta exercidas em estreita colaboração com o Gabinete de Planeamento do Ministério do Comércio Interno e com o Ministério encarregado da preparação e execução do plano.
 
-###### Art. 4.º - 1. A Comissão Instaladora do Instituto Nacional do Frio disporá de um serviço de secretariado, o qual funcionará no Ministério do Comércio Interno.
+Art. 4.º - 1. A Comissão Instaladora do Instituto Nacional do Frio disporá de um serviço de secretariado, o qual funcionará no Ministério do Comércio Interno.
 
 2. Mediante proposta da Comissão Instaladora, poderão os Ministros do Comércio Interno, da Agricultura e Pescas, das Finanças, dos Transportes e Comunicações e da Indústria e Tecnologia, por despacho conjunto, destacar para o serviço de secretariado funcionários dos serviços e organismos das Secretarias de Estado, bem como requisitar, até ao limite de três elementos, pessoal técnico de outros Ministérios, com o acordo dos titulares das respectivas pastas, para exercer os cargos em comissão de serviço, por tempo indeterminado, ou de empresas dos sectores nacionalizado ou privado, nos termos da legislação aplicável.
 
 3. O apoio burocrático e financeiro à Comissão Instaladora e seu serviço de secretariado será prestado pelos serviços do Ministério do Comércio Interno, nos termos a fixar por despacho do respectivo Ministro.
 
-###### Art. 5.º - 1. Para a concretização das tarefas que lhe são cometidas, a Comissão Instaladora, sempre que o julgar necessário, poderá propor a criação de comissões consultivas e de grupos de trabalho, bem como recorrer a quaisquer organizações, já existentes ou a criar, ligadas ao sector.
+Art. 5.º - 1. Para a concretização das tarefas que lhe são cometidas, a Comissão Instaladora, sempre que o julgar necessário, poderá propor a criação de comissões consultivas e de grupos de trabalho, bem como recorrer a quaisquer organizações, já existentes ou a criar, ligadas ao sector.
 
 2. A constituição e o funcionamento das comissões consultivas e dos grupos de trabalho serão estabelecidos por despacho conjunto dos Ministros do Comércio Interno, da Agricultura e Pescas, das Finanças, dos Transportes e Comunicações e da Indústria e Tecnologia.
 
-###### Art. 6.º Os poderes conferidos no presente diploma aos Ministros do Comércio Interno, da Agricultura e Pescas, das Finanças, dos Transportes e Comunicações e da Indústria e Tecnologia podem por estes ser delegados, total ou parcialmente, nos Secretários de Estado dos seus departamentos.
+Art. 6.º Os poderes conferidos no presente diploma aos Ministros do Comércio Interno, da Agricultura e Pescas, das Finanças, dos Transportes e Comunicações e da Indústria e Tecnologia podem por estes ser delegados, total ou parcialmente, nos Secretários de Estado dos seus departamentos.
 
-###### Art. 7.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros do Comércio Interno, da Agricultura e Pescas, das Finanças, dos Transportes e Comunicações e da Indústria e Tecnologia.
+Art. 7.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros do Comércio Interno, da Agricultura e Pescas, das Finanças, dos Transportes e Comunicações e da Indústria e Tecnologia.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota - José Augusto Fernandes.
 
-**Promulgado em 3 de Junho de 1976.**
+Promulgado em 3 de Junho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES**
+O Presidente da República, FRANCISCO DA COSTA GOMES

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 51/1973, 1º Suplemento, Série I de 1973-03-01
   number: '51'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 340-(1) a 340-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/05101/00010004.pdf
 entry_into_force_dates: []
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1973-383779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T22:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75004f1b0cd51639627f0592ab13f3cd0b5e21d7e36f995e96c0f63e63504c7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5392fcd0a5ded5bce574ae14cf9f1bb4c74a79604ee1b7f757fc1fdd5f746b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Caixa Geral de Aposentações
+- Função Pública
+- Funcionário Público
+- Militar
+- Pensão de Aposentação
+- Pessoal Civil
+- Proteção Social
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:30:04Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +158,7 @@ Nestes termos:
 
 Usando da facudade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São aumentados de 15 por cento, com o mínimo de 500$00 mensais, os vencimentos, salários pagos mensal ou quinzenalmente ou outras remunerações principais dos servidores do Estado, civis e militares, na efectividade de serviço.
+Artigo 1.º - 1. São aumentados de 15 por cento, com o mínimo de 500$00 mensais, os vencimentos, salários pagos mensal ou quinzenalmente ou outras remunerações principais dos servidores do Estado, civis e militares, na efectividade de serviço.
 
 2. O aumento referido no número anterior abrange os honorários de quantia superior à estabelecida para a categoria A.
 
@@ -155,19 +172,19 @@ Usando da facudade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Co
 
 7. Os assalariados que a partir de 1 de Janeiro de 1970 tenham beneficiado de providências especiais quanto a abonos só terão direito à diferença entre as suas actuais remunerações e as antigas, acrescidas do aumento que lhes competir.
 
-###### Art. 2.º - 1. As normas estabelecidas no artigo 59.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, sobre pensões de aposentação e reforma, serão aplicáveis às pensões do pessoal militar na situação de reserva fixadas até à entrada em vigor do presente diploma e poderão ser extensivas às pensões dos servidores do Estado que não estejam a cargo da Caixa Geral de Aposentações.
+Art. 2.º - 1. As normas estabelecidas no artigo 59.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, sobre pensões de aposentação e reforma, serão aplicáveis às pensões do pessoal militar na situação de reserva fixadas até à entrada em vigor do presente diploma e poderão ser extensivas às pensões dos servidores do Estado que não estejam a cargo da Caixa Geral de Aposentações.
 
 2. Enquanto não forem actualizadas as referidas pensões de reserva, o pessoal naquela situação prestando serviço em comissão militar ou civil, terá direito ao aumento estabelecido por este diploma, que incidirá sobre o valor das actuais pensões.
 
-###### Art. 3.º - 1. As remunerações principais abonadas com carácter de permanência aos servidores do Estado não vinculados por adequado título de provimento (diploma de nomeação, contrato ou assalariamento) poderão ser revistas nos termos legais usados para a sua determinação, em prejuízo das limitações estabelecidas no artigo 1.º deste diploma.
+Art. 3.º - 1. As remunerações principais abonadas com carácter de permanência aos servidores do Estado não vinculados por adequado título de provimento (diploma de nomeação, contrato ou assalariamento) poderão ser revistas nos termos legais usados para a sua determinação, em prejuízo das limitações estabelecidas no artigo 1.º deste diploma.
 
 2. Poderão também ser objecto de revisão as remunerações de idêntico pessoal fixadas com base em horas de serviço prestado.
 
-###### Art. 4.º - 1. O aumento atribuído nas condições anteriormente referidas abrange o pessoal dos fundos e serviços autónomos da Administração Central cujas remunerações são satisfeitas por verbas descritas em orçamentos privativos organizados com receitas próprias e subsídios.
+Art. 4.º - 1. O aumento atribuído nas condições anteriormente referidas abrange o pessoal dos fundos e serviços autónomos da Administração Central cujas remunerações são satisfeitas por verbas descritas em orçamentos privativos organizados com receitas próprias e subsídios.
 
 2. A concessão do aumento a este pessoal fica condicionada às possibilidades financeiras dos referidos organismos.
 
-###### Art. 5.º - 1. O pagamento do aumento aos servidores do Estado compete às entidades responsáveis pela liquidação das remunerações que ao mesmo conferem direito.
+Art. 5.º - 1. O pagamento do aumento aos servidores do Estado compete às entidades responsáveis pela liquidação das remunerações que ao mesmo conferem direito.
 
 2. Os encargos do Estado com o aumento ao pessoal abrangido na despesa extraordinária serão satisfeitos pelas verbas por onde são liquidadas as respectivas remunerações e os respeitantes a todo o outro pessoal pelas dotações a inscrever sob novo artigo no capítulo «Despesas comuns» de cada Ministério.
 
@@ -175,13 +192,13 @@ Usando da facudade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Co
 
 4. De idêntica forma se procederá em relação aos serviços referidos no artigo 4.º, que ficam autorizados a elaborar um orçamento suplementar, além dos que legalmente podem organizar.
 
-###### Art. 6.º - 1. O Governo, pelo Ministro das Finanças e pelos Ministros das respectivas pastas, determinará o regime e oportunidade das alterações a introduzir nas remunerações do pessoal da metrópole em serviço nos organismos de coordenação económica, na administração local, nos Cofres Geral dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça e nos organismos considerados pessoas colectivas de utilidade pública administrativa dependentes do Ministério da Saúde e Assistência.
+Art. 6.º - 1. O Governo, pelo Ministro das Finanças e pelos Ministros das respectivas pastas, determinará o regime e oportunidade das alterações a introduzir nas remunerações do pessoal da metrópole em serviço nos organismos de coordenação económica, na administração local, nos Cofres Geral dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça e nos organismos considerados pessoas colectivas de utilidade pública administrativa dependentes do Ministério da Saúde e Assistência.
 
 2. Dependerá da publicação de diploma especial a atribuição do aumento ao pessoal civil e militar das províncias ultramarinas.
 
-###### Art. 7.º As dúvidas e os casos não previstos serão resolvidos por despacho do Ministro das Finanças, sob parecer da Direcção-Geral da Contabilidade Pública, que expedirá as instruções necessárias à boa execução do presente diploma.
+Art. 7.º As dúvidas e os casos não previstos serão resolvidos por despacho do Ministro das Finanças, sob parecer da Direcção-Geral da Contabilidade Pública, que expedirá as instruções necessárias à boa execução do presente diploma.
 
-###### Art. 8.º O Estado pagará aos herdeiros hábeis dos seus servidores uma pensão de sobrevivência nos termos seguintes:
+Art. 8.º O Estado pagará aos herdeiros hábeis dos seus servidores uma pensão de sobrevivência nos termos seguintes:
 
 a) A pensão a atribuir aos herdeiros hábeis do servidor do Estado será a metade da pensão de aposentação ou reforma que corresponderia ao tempo de serviço contado para efeitos de sobrevivência, excepto quando se trate de pensão de aposentação ou reforma extraordinária, em que a pensão de sobrevivência se fixará sempre em metade do valor efectivo daquela;
 
@@ -191,16 +208,16 @@ c) Mediante pagamento da contribuição correspondente, nos termos que vierem a 
 
 d) Terão direito à pensão, verificadas as condições que no Estatuto se estabeleçam, os cônjuges sobrevivos e os divorciados, os filhos, os netos e os pais e avós.
 
-###### Art. 9.º O Governo promoverá no prazo de trinta dias a publicação do estatuto das pensões de sobrevivência aplicável aos servidores do Estado a partir de 1 de Março de 1973.
+Art. 9.º O Governo promoverá no prazo de trinta dias a publicação do estatuto das pensões de sobrevivência aplicável aos servidores do Estado a partir de 1 de Março de 1973.
 
-###### Art. 10.º Este decreto-lei entra em vigor em 1 de Março de 1973.
+Art. 10.º Este decreto-lei entra em vigor em 1 de Março de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 28 de Fevereiro de 1973.**
+Promulgado em 28 de Fevereiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

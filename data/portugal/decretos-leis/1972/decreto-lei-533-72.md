@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1972-685461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c66f6fd12185adb7c8534f5516c39cc72232fbfd95bc5521f83c297afa93b8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d534cad5337314f2bea48ded65f8883524f78c02fccd9b32f6b0db7d953f46ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Ministro das Comunicações
+- Ministro do Ultramar
+- Radio Marconi
+- Radiocomunicações
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:475282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:473478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:12Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +105,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É o Governo, pelos Ministros do Ultramar e das Comunicações, autorizado a alterar, pela forma baixo indicada, o artigo 18.º do contrato de concessão do serviço público celebrado com a Companhia Portuguesa Rádio Marconi em 11 de Agosto de 1966 e publicado no Diário do Governo, 2.ª série, n.º 197, de 25 do mesmo mês e ano:
+Artigo único. É o Governo, pelos Ministros do Ultramar e das Comunicações, autorizado a alterar, pela forma baixo indicada, o artigo 18.º do contrato de concessão do serviço público celebrado com a Companhia Portuguesa Rádio Marconi em 11 de Agosto de 1966 e publicado no Diário do Governo, 2.ª série, n.º 197, de 25 do mesmo mês e ano:
 
-###### Art. 18.º A concessão outorgada à Companhia, com todos os seus direitos e encargos, termina em 31 de Dezembro de 1991, mas poderá ser sucessivamente prorrogada, por períodos de dez anos, se nisso convierem ambas as partes, mediante acordo a celebrar com a antecedência mínima de dois anos em relação ao termo da concessão.
+Art. 18.º A concessão outorgada à Companhia, com todos os seus direitos e encargos, termina em 31 de Dezembro de 1991, mas poderá ser sucessivamente prorrogada, por períodos de dez anos, se nisso convierem ambas as partes, mediante acordo a celebrar com a antecedência mínima de dois anos em relação ao termo da concessão.
 
 Finda esta, a Companhia entregará ao Governo, sem qualquer encargo para o Estado, a universalidade do estabelecimento afecto, de modo permanente e necessário, à exploração, compreendendo edifícios e terrenos de propriedade da Companhia, instalações, maquinismos, ferramentas, móveis, utensílios e peças de reserva, exceptuando, porém, o edifício sito na Rua de S. Julião e quaisquer outros que, prèviamente autorizada por despacho dos Ministros das Finanças e das Comunicações, a Companhia venha a adquirir ou a construir para substituição ou complemento do referido edifício, desde que exclusivamente os utilize para instalação dos serviços que neste último funcionam actualmente e dos demais que, destinando-se essencialmente à prossecução das mesmas finalidades, no mencionado despacho eventualmente se admitam.
 
@@ -107,10 +117,10 @@ As habitações e anexos que forem adquiridos pelo Estado ser-lhe-ão entregues 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha - Rui Alves da Silva Sanches.
 
-**Promulgado em 15 de Dezembro de 1972.**
+Promulgado em 15 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas - J. da Silva Cunha.

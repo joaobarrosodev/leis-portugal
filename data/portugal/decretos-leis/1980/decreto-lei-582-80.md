@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1980, 2º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4244-(44) a 4244-(44)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30102/00440044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1980-226587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 473472e354c657dcd5a7272f3ece59ce2c3cb6f7501eef9ee06402b30f6a8824
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13e8c0930da5a21eafb470bcd24877679a21b87ea99bd79ae6af8dfed411b0d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Competência Própria
+- Definição de Competências
+- Delegação de Competências
+- Governo VI
+- Instituto Universitário
+- Regime de Instalação
+- Reitor
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:115312061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115312061:por
+  label: Revogado, a partir de 16.05.2018, pelo(a) Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:11Z'
   warnings: []
   errors: []
 ---
@@ -99,18 +125,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os reitores das Universidades e Institutos Universitários poderão delegar nos administradores parte da sua competência própria, delegada ou subdelegada relativa a assuntos de natureza administrativa.
+Artigo 1.º Os reitores das Universidades e Institutos Universitários poderão delegar nos administradores parte da sua competência própria, delegada ou subdelegada relativa a assuntos de natureza administrativa.
 
-###### Art. 2.º - 1 - A direcção de serviços académicos e a direcção de serviços técnicos de cada Universidade ou Instituto Universitário em regime de instalação passam a depender do administrador respectivo, sem prejuízo do disposto no artigo 21.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
+Art. 2.º - 1 - A direcção de serviços académicos e a direcção de serviços técnicos de cada Universidade ou Instituto Universitário em regime de instalação passam a depender do administrador respectivo, sem prejuízo do disposto no artigo 21.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
 
 2 - A competência dos administradores das Universidades ou Institutos Universitários em regime de instalação compreende, com as necessárias adaptações, a definida no artigo 8.º, n.º 1, do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
 
-###### Art. 3.º Os cargos de administrador das Universidades e Institutos Universitários são equiparados, para todos os efeitos legais, aos de subdirector-geral.
+Art. 3.º Os cargos de administrador das Universidades e Institutos Universitários são equiparados, para todos os efeitos legais, aos de subdirector-geral.
 
 Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - Vítor Pereira Crespo.
 
-**Promulgado em 23 de Dezembro de 1980.**
+Promulgado em 23 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

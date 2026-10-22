@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1970-228776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: deb9da4727380ccf8f395247e1fb1c1e074624f7353988facc9785d79a23fc02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f647f994975770a89950345691dd376ca2d2231ccda1ca94b23848b13265ad85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:32Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +95,20 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A isenção de que trata a alínea c) da base IV da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, e o artigo 20.º do Código da Contribuição Industrial, será concedida pelo Conselho de Ministros para os Assuntos Económicos, a requerimento dos interessados dirigido ao Ministro das Finanças e entregue na repartição de finanças do concelho ou bairro da sua sede até ao fim do mês de Janeiro do ano seguinte ao do começo da exploração para que se requer a isenção.
+Artigo 1.º - 1. A isenção de que trata a alínea c) da base IV da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, e o artigo 20.º do Código da Contribuição Industrial, será concedida pelo Conselho de Ministros para os Assuntos Económicos, a requerimento dos interessados dirigido ao Ministro das Finanças e entregue na repartição de finanças do concelho ou bairro da sua sede até ao fim do mês de Janeiro do ano seguinte ao do começo da exploração para que se requer a isenção.
 
 2. Se o interessado for uma pessoa singular, ou pessoa colectiva com sede fora do território do continente e ilhas adjacentes, o requerimento será entregue na repartição de finanças do concelho do bairro onde estiver situado o estabelecimento principal.
 
 3. A entrega do requerimento fora do prazo fixado neste artigo importa a perda da isenção relativa aos anos civis já decorridos à data dessa entrega.
 
-###### Art. 2.º (transitório) - 1. É concedido um prazo de sessenta dias, a contar da entrada em vigor deste diploma, para os interessados que ainda o não fizeram, requererem a isenção de que tratam as disposições referidas no artigo anterior relativamente às actividades de que foi iniciada a exploração anteriormente a 1 de Janeiro de 1970.
+Art. 2.º (transitório) - 1. É concedido um prazo de sessenta dias, a contar da entrada em vigor deste diploma, para os interessados que ainda o não fizeram, requererem a isenção de que tratam as disposições referidas no artigo anterior relativamente às actividades de que foi iniciada a exploração anteriormente a 1 de Janeiro de 1970.
 
 2. Findo o prazo fixado no número anterior, aplicar-se-á aos pedidos apresentados posteriormente o disposto no n.º 3 do artigo 1.º
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 9 de Março de 1970.**
+Promulgado em 9 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26200/25502550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/810-1976-407301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a3247536eeef14ca2f93b8eb8f78d7597cb2a6866675d7a5216e0559ba01e17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ec068d6810e935a2ca734023d9cea8b4841a6220cb2aa55e779eb9d76020b1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional
+- Formas de Provimento
+- Gabinete Governamental
+- Madeira.ilha Adjacente
+- Ministro da República
+- Quadro de Pessoal
+- Remuneração
+- Serviços Administrativos
+- Serviços de Apoio ao Gabinete do Ministro da República
 relationships:
 - type: amended_by
   target: pt:dre:325159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139941:por
+  label: "Alterado o art. 3º, pelo DEC LEI.157/77.1977.04.16.PCM, DR.IS [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1977-139941
+  date: '1977-04-16'
+- type: amended_by
+  target: pt:dre:251013:por
+  label: "Alterada a designação dos jardineiros do anexo II, pelo DEC LEI.300/77.1977.07.23.PCM, DG.IS [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1977-251013
+  date: '1977-07-23'
+- type: repealed_by
+  target: pt:dre:325159:por
+  label: "Revogado pelo DEC LEI.414/78.1978.12.20.PCM, DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1978-325159
+  date: '1978-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:23Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +120,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Secretaria de Apoio ao Gabinete do Ministro da República para a Madeira, com a composição constante do quadro anexo I.
+Artigo 1.º É criada a Secretaria de Apoio ao Gabinete do Ministro da República para a Madeira, com a composição constante do quadro anexo I.
 
-###### Art. 2.º É criado um quadro de pessoal auxiliar para prestar serviço e manter a residência e instalações oficiais do Ministro da República para a Madeira, com a composição constante do quadro anexo II.
+Art. 2.º É criado um quadro de pessoal auxiliar para prestar serviço e manter a residência e instalações oficiais do Ministro da República para a Madeira, com a composição constante do quadro anexo II.
 
-###### Art. 3.º - 1. O pessoal necessário ao preenchimento dos quadros a que se referem os artigos anteriores será requisitado pelo Ministro da República para a Madeira ao respectivo Governo Regional, de entre o pessoal de qualquer dos serviços regionais que tenha categoria correspondente ao lugar que vai ocupar.
+Art. 3.º - 1. O pessoal necessário ao preenchimento dos quadros a que se referem os artigos anteriores será requisitado pelo Ministro da República para a Madeira ao respectivo Governo Regional, de entre o pessoal de qualquer dos serviços regionais que tenha categoria correspondente ao lugar que vai ocupar.
 
 2. O pessoal requisitado nos termos do número anterior conserva todos os direitos e regalias que tiver no quadro de origem, nomeadamente o direito de acesso, não podendo as vagas abertas pela requisição ser preenchidas senão interinamente.
 
@@ -110,18 +134,18 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 28 de Outubro de 1976.**
+Promulgado em 28 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Quadro a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/26200/25502550.pdf))](https://files.diariodarepublica.pt/1s/1976/11/26200/25502550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/26200/25502550.pdf)
 
 ## ANEXO II — Quadro a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/11/26200/25502550.pdf))](https://files.diariodarepublica.pt/1s/1976/11/26200/25502550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/26200/25502550.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

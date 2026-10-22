@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/07000/04790480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1979-383586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15af846813e20c11798cf2106261fed9fa9e5ad152c1abe0a7a96e2e17e995db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35ba99c51ce4423c8f5a5d460a85eeb6f71e25342d0f389ba5ecedd63d39f91e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bairro Administrativo
+- Código Administrativo
+- Despesas Públicas
+- Governo Civil
+- Lisboa
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578974:por
+  label: "Dada nova redacção pela LEI.8/81.1981.06.15.AR DR.IS [135]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-1981-578974
+  date: '1981-06-15'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:263527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:55Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +125,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Constitui encargo dos Governos Civis de Lisboa e Porto o pagamento das despesas de instalação e funcionamento das administrações dos bairros referidos no § 1.º do artigo 1.º do Código Administrativo, bem como a satisfação dos encargos com o pessoal dos mesmos bairros.
+Artigo 1.º Constitui encargo dos Governos Civis de Lisboa e Porto o pagamento das despesas de instalação e funcionamento das administrações dos bairros referidos no § 1.º do artigo 1.º do Código Administrativo, bem como a satisfação dos encargos com o pessoal dos mesmos bairros.
 
-###### Art. 2.º Os emolumentos cobrados nas administrações dos bairros pela prestação de serviços no exercício de funções e que lhe são atribuídos por lei revertem para o Governo Civil respectivo, ao qual serão remetidos até ao dia 10 do mês seguinte àquele a que respeitem.
+Art. 2.º Os emolumentos cobrados nas administrações dos bairros pela prestação de serviços no exercício de funções e que lhe são atribuídos por lei revertem para o Governo Civil respectivo, ao qual serão remetidos até ao dia 10 do mês seguinte àquele a que respeitem.
 
-###### Art. 3.º Para os efeitos do disposto no artigo 1.º, o Estado, através do Governo Civil, assume a posição das Câmaras Municipais nos contratos legalmente celebrados no exercício das actividades aí referidas e sucede-lhes na titularidade dos direitos adquiridos e obrigações contraídas para esses fins, sem dependência de quaisquer formalidades e sem prejuízo da responsabilidade das Câmaras pelas dívidas anteriores ainda não pagas.
+Art. 3.º Para os efeitos do disposto no artigo 1.º, o Estado, através do Governo Civil, assume a posição das Câmaras Municipais nos contratos legalmente celebrados no exercício das actividades aí referidas e sucede-lhes na titularidade dos direitos adquiridos e obrigações contraídas para esses fins, sem dependência de quaisquer formalidades e sem prejuízo da responsabilidade das Câmaras pelas dívidas anteriores ainda não pagas.
 
-###### Art. 4.º O presente decreto-lei entra em vigor na data da sua publicação, com efeitos a partir de 1 de Janeiro.
+Art. 4.º O presente decreto-lei entra em vigor na data da sua publicação, com efeitos a partir de 1 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
 
-**Promulgado em 17 de Março de 1979.**
+Promulgado em 17 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/52-1972-398122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae7cc6a80c93835b1cf8cb4cdfd42d2891326af25c8f5d27e36d96a43778bdb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dbb506d964c260f076eea7c48db097424e91b78ea3e3caf2353f5aa7cf31f2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:240265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240268:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:12Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +105,11 @@ Nestes termos, e tendo em atenção o determinado no [Decreto-Lei n.º 481/71](h
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São autorizados os Fundos Cambiais das províncias de Angola e de Moçambique a contrair junto do Estado empréstimos em escudos metropolitanos até à importância de 500000 contos, cada um.
+Artigo 1.º - 1. São autorizados os Fundos Cambiais das províncias de Angola e de Moçambique a contrair junto do Estado empréstimos em escudos metropolitanos até à importância de 500000 contos, cada um.
 
 2. O produto dos empréstimos autorizados pelo anterior n.º 1 será exclusivamente utilizado, pelo Fundo Cambial de Angola e pelo Fundo Cambial de Moçambique, na liquidação, pelos mesmos Fundos, de ordens de pagamento emitidas pelos correspondentes bancos emissores ultramarinos, como seus agentes, e que em 6 de Novembro de 1971 não estivessem executadas por insuficiência de disponibilidades em meios de pagamento externos.
 
-###### Art. 2.º - 1. Os empréstimos referidos no artigo 1.º vencem juro à taxa de 4 por cento ao ano, pagável aos trimestres, em 15 de Março, 15 de Junho, 15 de Setembro e 15 de Dezembro.
+Art. 2.º - 1. Os empréstimos referidos no artigo 1.º vencem juro à taxa de 4 por cento ao ano, pagável aos trimestres, em 15 de Março, 15 de Junho, 15 de Setembro e 15 de Dezembro.
 
 2. Os mencionados empréstimos serão amortizados em prestações dos quantitativos e com vencimento nas datas que, tendo-se em atenção o estabelecido no artigo 5.º do [Decreto-Lei n.º 480/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1971-240265), de 6 de Novembro, forem fixados nos contratos a celebrar de acordo com o previsto no artigo 10.º do mesmo [Decreto-Lei n.º 480/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1971-240265) e no artigo 6.º do [Decreto-Lei n.º 481/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1971-240268), também de 6 de Novembro.
 
@@ -109,16 +117,16 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. O encargo total efectivo dos empréstimos, incluindo as despesas de sua representação, fica a cargo dos Fundos Cambiais, devendo estes, a requisição da Junta do Crédito Público, fazer a provisão que para o efeito se torne necessária.
 
-###### Art. 3.º De harmonia com o estabelecido no artigo 2.º do [Decreto-Lei n.º 481/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1971-240268), cada uma das províncias de Angola e de Moçambique responde solidàriamente com o seu Fundo Cambial pelos juros, prestações de amortização de capital e demais encargos do empréstimo contraído pelo mesmo Fundo nos termos da autorização concedida pelo artigo 1.º do presente decreto.
+Art. 3.º De harmonia com o estabelecido no artigo 2.º do [Decreto-Lei n.º 481/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1971-240268), cada uma das províncias de Angola e de Moçambique responde solidàriamente com o seu Fundo Cambial pelos juros, prestações de amortização de capital e demais encargos do empréstimo contraído pelo mesmo Fundo nos termos da autorização concedida pelo artigo 1.º do presente decreto.
 
-###### Art. 4.º O presente decreto entra imediatamente em vigor.
+Art. 4.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 2 de Fevereiro de 1972.**
+Promulgado em 2 de Fevereiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e de Moçambique. - J. da Silva Cunha.

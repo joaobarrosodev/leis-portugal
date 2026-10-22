@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48297-1968-234946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:04:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e13930b28aab963585045b372492e978b06d6aeda2a3b8a76926f8f5a65794c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 110b9a7908fadbbae11c8d9a0a8cfcd5bb1b5bd87a47fcc23f503b53a066f18e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:04:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Freguesias
+- Vagos
 relationships:
 - type: amended_by
   target: pt:dre:178370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178370:por
+  label: "Dada nova redacção ao art. 2.º, pela LEI.139/85.11.10.1985.AR, DR.IS [234] de 11.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/139-1985-178370
+  date: '1985-10-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:04:45Z'
   warnings: []
   errors: []
 ---
@@ -98,20 +105,20 @@ Considerando que se verificam todas as demais condições referidas no artigo 9.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Ponte de Vagos, com sede na povoação do mesmo nome.
+Artigo 1.º É criada no concelho de Vagos, distrito de Aveiro, a freguesia de Ponte de Vagos, com sede na povoação do mesmo nome.
 
 § único. A freguesia de Ponte de Vagos é classificada de 2.ª ordem.
 
-###### Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do marco existente na convergência da estrada municipal n.º 598 com o actual limite comum das freguesias de Calvão e Vagos, imediatamente a sul de Sanchequias, segue, no sentido da marcha dos ponteiros do relógio, e acompanhando os actuais limites da dita freguesia de Calvão, pela antiga estrada de S. Tomé, em sentido nordeste, até atingir o caminho dos Vales das Rebolas; neste ponto inflecte para sudeste, continuando pelo dito caminho até alcançar o caminho para os Fiais, pelo qual prossegue até à ribeira da Presa Velha; a partir deste ponto, situado nas proximidades das Azenhas, prossegue, para sul, pela mencionada ribeira, passando pela confluência da vala hidráulica, que vem de nascente, inflectindo então para sudoeste, até atingir a confluência da Ribeira do Salta com a ribeira do Vale; continua no mesmo sentido, acompanhando a ribeira do Salta até ao ponto em que esta conflui com a vala das Barrentas; neste ponto inflecte para poente, seguindo a vala das Barrentas até ao seu começo e dirigindo-se, depois, em linha recta, para o marco existente na propriedade de Artur Neto; daqui segue pela linha recta definida por este último marco e o marco de triangulação da Eira Velha até ao ponto em que começa a ribeira dos Olheiros; a partir deste ponto deixa de acompanhar os actuais limites da freguesia de Calvão e, inflectindo para norte, progride pela mencionada ribeira dos Olheiros até atingir o ponto em que se verifica a intercepção desta ribeira com a recta definida pelo marco existente na estrada nacional n.º 109, próximo do quilómetro 75, e o marco situado na estrada municipal n.º 598, atrás referido; inflectindo para sudeste, acompanha a recta mencionada até ao ponto inicial.
+Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do marco existente na convergência da estrada municipal n.º 598 com o actual limite comum das freguesias de Calvão e Vagos, imediatamente a sul de Sanchequias, segue, no sentido da marcha dos ponteiros do relógio, e acompanhando os actuais limites da dita freguesia de Calvão, pela antiga estrada de S. Tomé, em sentido nordeste, até atingir o caminho dos Vales das Rebolas; neste ponto inflecte para sudeste, continuando pelo dito caminho até alcançar o caminho para os Fiais, pelo qual prossegue até à ribeira da Presa Velha; a partir deste ponto, situado nas proximidades das Azenhas, prossegue, para sul, pela mencionada ribeira, passando pela confluência da vala hidráulica, que vem de nascente, inflectindo então para sudoeste, até atingir a confluência da Ribeira do Salta com a ribeira do Vale; continua no mesmo sentido, acompanhando a ribeira do Salta até ao ponto em que esta conflui com a vala das Barrentas; neste ponto inflecte para poente, seguindo a vala das Barrentas até ao seu começo e dirigindo-se, depois, em linha recta, para o marco existente na propriedade de Artur Neto; daqui segue pela linha recta definida por este último marco e o marco de triangulação da Eira Velha até ao ponto em que começa a ribeira dos Olheiros; a partir deste ponto deixa de acompanhar os actuais limites da freguesia de Calvão e, inflectindo para norte, progride pela mencionada ribeira dos Olheiros até atingir o ponto em que se verifica a intercepção desta ribeira com a recta definida pelo marco existente na estrada nacional n.º 109, próximo do quilómetro 75, e o marco situado na estrada municipal n.º 598, atrás referido; inflectindo para sudeste, acompanha a recta mencionada até ao ponto inicial.
 
-###### Art. 3.º A eleição da Junta de Freguesia de Ponte de Vagos realizar-se-á no dia Que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Calvão.
+Art. 3.º A eleição da Junta de Freguesia de Ponte de Vagos realizar-se-á no dia Que for designado pelo presidente da Câmara Municipal de Vagos e serão eleitores os chefes de família da respectiva área inscritos no recenseamento eleitoral da freguesia de Calvão.
 
 § 1.º A Junta eleita nos termos deste artigo servirá até final do quadriénio em curso.
 
 § 2.º A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Vagos.
 
-###### Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma a que fiquem bem patentes os limites fixados no artigo 2.º
+Art. 4.º A Câmara Municipal de Vagos procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma a que fiquem bem patentes os limites fixados no artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

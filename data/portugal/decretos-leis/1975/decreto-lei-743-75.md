@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30000/21552155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/743-1975-316697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdf9b6e2651bb1eae9b79e3cd6a4b21c9fbd8228cb124a412657b8ce1cc6e82c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4b51cb243c134109c1e033a7f1ee19a72fd31ea25846755e3603e642676e41b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido Militar
+- Criação de Lugares
+- Embaixada
+- Moçambique
 relationships:
 - type: amended_by
   target: pt:dre:389378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:389378:por
+  label: "Revogado pelo DEC LEI.56/81.31.03.1981.CR, DR.IS [75] de 31.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1981-389378
+  date: '1981-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:48:06Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +103,18 @@ de 31 de Dezembro
 
 Usando da faculdade conferida pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São criados os lugares de adido militar, naval e aeronáutico junto da Embaixada de Portugal em Lourenço Marques.
+Artigo 1.º São criados os lugares de adido militar, naval e aeronáutico junto da Embaixada de Portugal em Lourenço Marques.
 
-###### Art. 2.º - 1. O adido de hierarquia militar superior desempenha cumulativamente o cargo de adido de defesa nacional.
+Art. 2.º - 1. O adido de hierarquia militar superior desempenha cumulativamente o cargo de adido de defesa nacional.
 
 2. O adido de defesa nacional representa e serve o Estado-Maior-General das Forças Armadas, sem prejuízo da competência directiva atribuída por lei ao chefe da missão diplomática.
 
-###### Art. 3.º Aos lugares criados pelo artigo 1.º deste diploma são aplicáveis as normas relativas à missão militar junto da representação diplomática de Portugal em Pretória.
+Art. 3.º Aos lugares criados pelo artigo 1.º deste diploma são aplicáveis as normas relativas à missão militar junto da representação diplomática de Portugal em Pretória.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 20 de Dezembro de 1975.**
+Promulgado em 20 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/206-1970-142294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2855631a37afa01eca9b3d349ce8b486a96e61052a9f80c2370ded0bb613a740
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6123348a385b26b15981354510c4707a65bbac1e959ba363502d85ad7721a4f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:246827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272798:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:14Z'
   warnings: []
   errors: []
 ---
@@ -86,22 +94,22 @@ Considerando que o actual critério de classificação anual dos alunos que freq
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 29.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 29.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, passa a ter a seguinte redacção:
 
-###### Art. 29.º - 1. A classificação anual será a média das classificações obtidas nas várias disciplinas do curso.
+Art. 29.º - 1. A classificação anual será a média das classificações obtidas nas várias disciplinas do curso.
 
 2. A classificação de cada disciplina será a média pesada da média das classificações obtidas nos três períodos do ano, considerada com o coeficiente 1, e da classificação obtida no exame final, considerada com o coeficiente 3.
 
-###### Art. 2.º O disposto no artigo anterior não é aplicável aos alunos que frequentam o ano lectivo de 1969-1970.
+Art. 2.º O disposto no artigo anterior não é aplicável aos alunos que frequentam o ano lectivo de 1969-1970.
 
-###### Art. 3.º O artigo 1.º do [Decreto n.º 48479](https://diariodarepublica.pt/dr/detalhe/decreto/48479-1968-272798), de 10 de Julho de 1968, passa a ter a seguinte redacção
+Art. 3.º O artigo 1.º do [Decreto n.º 48479](https://diariodarepublica.pt/dr/detalhe/decreto/48479-1968-272798), de 10 de Julho de 1968, passa a ter a seguinte redacção
 
-###### Artigo 1.º Sempre que o número de alunos dos cursos da Escola Central de Sargentos faça prever grande demora na realização dos exames finais, poderá o Ministro do Exército, por proposta do comandante da Escola, autorizar que os exames finais sejam apenas escritos para todas as disciplinas dos diferentes cursos e constituídos por duas provas em cada disciplina, tomando-se para classificação do exame final de cada disciplina a média das classificações obtidas nas duas provas.
+Artigo 1.º Sempre que o número de alunos dos cursos da Escola Central de Sargentos faça prever grande demora na realização dos exames finais, poderá o Ministro do Exército, por proposta do comandante da Escola, autorizar que os exames finais sejam apenas escritos para todas as disciplinas dos diferentes cursos e constituídos por duas provas em cada disciplina, tomando-se para classificação do exame final de cada disciplina a média das classificações obtidas nas duas provas.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 1 de Maio de 1970.**
+Promulgado em 1 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência de República, 12 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

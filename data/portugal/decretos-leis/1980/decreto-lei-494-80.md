@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1980-462443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bedf19d3c4492bb514c8977a84643e94a48b9f3184c26f120b369b3f14a5e7e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4d68a1d758ee6669f0e04b575ef5ec88a7f0bbf2098be6163f3179444674678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Pesticida
 relationships:
 - type: amended_by
   target: pt:dre:276207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314398:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:625412:por
+  label: Revogado o art. 6.º pelo(a) Decreto-Lei n.º 210-C/84 - Diário da República n.º 149/1984, 3º Suplemento, Série I de
+    1984-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-c-1984-625412
+  date: '1984-06-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:43Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos deste diploma, entende-se por:
+Artigo 1.º Para efeitos deste diploma, entende-se por:
 
 a) Pesticidas - uma substância ou mistura de substâncias fabricada ou formulada com o fim de impedir, obstruir, repelir ou aliviar qualquer peste e destinada à defesa da produção vegetal, com excepção dos adubos químicos e dos correctivos agrícolas, ou para utilização doméstica.
 
@@ -118,13 +130,13 @@ Nesta designação poderá incluir-se a própria unidade de fabrico e ou formula
 
 f) Armazenagem - o local onde são colocados os pesticidas, excesso de pesticidas e embalagens por um período de tempo transitório, que, todavia, poderá atingir alguns anos.
 
-###### Art. 2.º As disposições constantes deste diploma aplicam-se apenas aos fabricantes e ou formuladores de pesticidas.
+Art. 2.º As disposições constantes deste diploma aplicam-se apenas aos fabricantes e ou formuladores de pesticidas.
 
-###### Art. 3.º - 1 - Os pesticidas e os excessos de pesticidas integrados nas classes I, II e III, bem como as respectivas embalagens, devem ser eliminados ou armazenados em instalações construídas para esse efeito.
+Art. 3.º - 1 - Os pesticidas e os excessos de pesticidas integrados nas classes I, II e III, bem como as respectivas embalagens, devem ser eliminados ou armazenados em instalações construídas para esse efeito.
 
 2 - No caso de existirem instalações destinadas à eliminação de outros tipos de detritos e sempre que tal for tecnologicamente possível, poderão os produtos referidos no número anterior ser eliminados nessas instalações, desde que as mesmas garantam a degradação completa desses produtos.
 
-###### Art. 4.º - 1 - As instalações de eliminação final, bem como os locais de armazenagem, devem ser concebidos tendo em atenção as quantidades, o número e as dimensões das embalagens, a natureza química dos produtos, a toxicidade e outros perigos provenientes dos pesticidas.
+Art. 4.º - 1 - As instalações de eliminação final, bem como os locais de armazenagem, devem ser concebidos tendo em atenção as quantidades, o número e as dimensões das embalagens, a natureza química dos produtos, a toxicidade e outros perigos provenientes dos pesticidas.
 
 2 - A selecção dos locais para as instalações de eliminação final e para a armazenagem deve ser feita em função de características geológicas, hidrogeológicas, topográficas, climatéricas e ecológicas, bem como de factores de ordem sócio-económica.
 
@@ -132,7 +144,7 @@ f) Armazenagem - o local onde são colocados os pesticidas, excesso de pesticida
 
 4 - O Laboratório de Fitofarmacologia deve diligenciar, após a publicação do diploma referido no n.º 3 deste artigo, para que nos rótulos exteriores das embalagens sejam inscritas as instruções sobre o processo de eliminação final.
 
-###### Art. 5.º - 1 - Os fabricantes e formuladores de pesticidas devem, sempre que possível, reutilizar ou processar todos os produtos, resíduos ou excessos de pesticidas.
+Art. 5.º - 1 - Os fabricantes e formuladores de pesticidas devem, sempre que possível, reutilizar ou processar todos os produtos, resíduos ou excessos de pesticidas.
 
 2 - Quando não forem satisfeitos os requisitos enunciados no número anterior, deverá efectuar-se a armazenagem dos produtos até se proceder à sua eliminação final.
 
@@ -142,22 +154,22 @@ f) Armazenagem - o local onde são colocados os pesticidas, excesso de pesticida
 
 5 - As embalagens de pesticidas devem ser armazenadas com o rótulo bem visível.
 
-###### Art. 6.º - 1 - Qualquer veículo transportador de pesticidas deverá ser sempre acompanhado de elementos informativos sobre o produto ou produtos em causa, fornecidos pelo fabricante ou formulador.
+Art. 6.º - 1 - Qualquer veículo transportador de pesticidas deverá ser sempre acompanhado de elementos informativos sobre o produto ou produtos em causa, fornecidos pelo fabricante ou formulador.
 
 2 - As medidas preventivas e de combate mais apropriadas para reduzir ou eliminar os riscos de acidentes serão objecto de regulamentação posterior.
 
-###### Art. 7.º Os procedimentos e critérios decorrentes da regulamentação técnica deste diploma serão, sempre que possível, concretizados sob a forma de normas portuguesas.
+Art. 7.º Os procedimentos e critérios decorrentes da regulamentação técnica deste diploma serão, sempre que possível, concretizados sob a forma de normas portuguesas.
 
-###### Art. 8.º As autoridades a que a lei e regulamentos conferem a competência para esse efeito procederão à fiscalização dos preceitos estabelecidos no presente diploma e nas disposições regulamentares dele decorrentes.
+Art. 8.º As autoridades a que a lei e regulamentos conferem a competência para esse efeito procederão à fiscalização dos preceitos estabelecidos no presente diploma e nas disposições regulamentares dele decorrentes.
 
-###### Art. 9.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto do membro do Governo responsável pelo ordenamento e ambiente e do Ministro com competência cumulativa sobre a matéria.
+Art. 9.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto do membro do Governo responsável pelo ordenamento e ambiente e do Ministro com competência cumulativa sobre a matéria.
 
-###### Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 1 de Outubro de 1980.**
+Promulgado em 1 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

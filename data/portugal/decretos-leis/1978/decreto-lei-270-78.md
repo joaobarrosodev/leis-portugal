@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 201/1978, 1º Suplemento, Série I de 1978-09-01
   number: '201'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1806-(1) a 1806-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1978-448081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa4b52a3e0e3686771541eb2ed42046ace5cfb56ee23c14e1754ef68c0e3e50f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8d70f673bc9816098549052171d5e14cf9c87125eb5027e12bf58b3759d8976
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fardamento
+- Força Aérea
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:662734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:678986:por
+  label: "Alterado o quadro do anexo A \"Dotações e duração dos artigos de uniforma\" do cap. 5 do Regulamento de Uniformes\
+    \ da Força Aérea (RUFA), aprovado pelo presente diploma, pela PORT.83/80.03.03.1980.CR, DR.IS [52] de 03.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-1980-678986
+  date: '1980-03-03'
+- type: amended_by
+  target: pt:dre:678215:por
+  label: "Alterada a alínea e) do n.º 312 do capítulo 3 do Regulamento pela PORT.102/80.13.03.1980.CR, DR.IS [61] de 13.03.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-1980-678215
+  date: '1980-03-13'
+- type: amended_by
+  target: pt:dre:459030:por
+  label: "Alteradas as dotações dos artigos de uniforme constantes do quadro anexo ao cap. 5 do Regulamento de Uniformes da\
+    \ Força Aérea, aprovado pelo presente diploma, na redacção da Portaria n.º 83/80 de 03 de Março, pela PORT.1009/80.27.11.1980.CR,\
+    \ DR.IS [275] de 27.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1009-1980-459030
+  date: '1980-11-27'
+- type: amended_by
+  target: pt:dre:459032:por
+  label: "Aditados os n.os 319 e 320 ao capítulo 3 «Distintivos» do Regulamento de Uniformes da Força Aérea (RUFA), pela PORT.1018/80.28.11.1980.CR,\
+    \ DR.IS [276] de 28.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1018-1980-459032
+  date: '1980-11-28'
+- type: amended_by
+  target: pt:dre:459042:por
+  label: "Dada nova redacção aos n.os 117, 125 e 156 do capítulo 1 do Regulamento de Uniformes da Força Aérea (RUFA), pela\
+    \ PORT.1017/80.28.11.1980.CR, DR.IS [276] de 28.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1017-1980-459042
+  date: '1980-11-28'
+- type: amended_by
+  target: pt:dre:390656:por
+  label: "Alterado o nº 110 do cap. I \"Artigos de Uniforme\"; aditados: os nºs 117-A e 133-A ao cap. I, os nºs 208-A, 209-A,\
+    \ 210-A ao cap. 2 \"Artigos variados\" e o quadro \"Uniforme de exibição da Banda e da Fanfarra\" ao cap. 4 \"Plano de\
+    \ Uniformes\"; e completado o quadro \"Dotações e duração dos artigos de uniforme\" anexo ao cap. 5, todos do Regulamento\
+    \ de Uniformes da Força Aérea (RUFA), aprovado pelo presente diploma, pela PORT.223/81.27.02.1981.CR, DR.IS [49] de 27.02.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-1981-390656
+  date: '1981-02-27'
+- type: amended_by
+  target: pt:dre:578483:por
+  label: "Alterados os n.ºs 309 e 310 do capítulo 3 e o quadro \"dotações e duração dos artigos de uniforme\" anexo ao capítulo\
+    \ 5 do Regulamento aprovado pelo presente diploma, pela PORT.518/81.26.06.1981.CR, DR.IS [144] de 26.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/518-1981-578483
+  date: '1981-06-26'
+- type: amended_by
+  target: pt:dre:395483:por
+  label: "Alterado pela PORT.658/82.1982.07.01.CR DR.IS [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/658-1982-395483
+  date: '1982-07-01'
+- type: amended_by
+  target: pt:dre:376052:por
+  label: "Alterado o nº 508 do cap. 5 e aditado um cap. 8 ao Regulamento, pela PORT.992/82.22.10.1982.CR, DR.IS [245] de 22.10.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/992-1982-376052
+  date: '1982-10-22'
+- type: cites
+  target: pt:dre:233133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233165:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:476540:por
+  label: Rectificado pela DECL.DD7030.03.01.1979.CR, DR.IS [2] de 03.01.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-476540
+  date: '1979-01-03'
+- type: repealed_by
+  target: pt:dre:662734:por
+  label: "Revogado pelo DEC LEI.86/87.25.02.1987.MDN, DR.IS [47] de 25.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1987-662734
+  date: '1987-02-25'
 article_structure:
-  article_count: 1
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:28Z'
   warnings: []
   errors: []
 ---
@@ -92,51 +170,51 @@ Havendo necessidade de introduzir algumas alterações nos uniformes da Força A
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado e mandado pôr em execução o Regulamento de Uniformes da Força Aérea (RUFA), que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado e mandado pôr em execução o Regulamento de Uniformes da Força Aérea (RUFA), que faz parte integrante do presente diploma.
 
-###### Art. 2.º As alterações ao Regulamento de Uniformes da Força Aérea, se compatíveis com as disposições legais vigentes, serão publicadas em portaria do Chefe do Estado-Maior da Força Aérea (CEMFA), excepto as que tenham carácter experimental, que poderão ser aprovadas, a título temporário, por despacho da mesma entidade.
+Art. 2.º As alterações ao Regulamento de Uniformes da Força Aérea, se compatíveis com as disposições legais vigentes, serão publicadas em portaria do Chefe do Estado-Maior da Força Aérea (CEMFA), excepto as que tenham carácter experimental, que poderão ser aprovadas, a título temporário, por despacho da mesma entidade.
 
-###### Art. 3.º As dúvidas ou omissões que se verifiquem na aplicação do Regulamento de Uniformes da Força Aérea serão resolvidas por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 3.º As dúvidas ou omissões que se verifiquem na aplicação do Regulamento de Uniformes da Força Aérea serão resolvidas por despacho do Chefe do Estado-Maior da Força Aérea.
 
-###### Art. 4.º - 1 - O estudo para actualização contínua do Regulamento de Uniformes da Força Aérea é cometido à Comissão Permanente de Uniformes da Força Aérea (CPUFA), cuja composição, atribuição e funcionamento são fixados por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 4.º - 1 - O estudo para actualização contínua do Regulamento de Uniformes da Força Aérea é cometido à Comissão Permanente de Uniformes da Força Aérea (CPUFA), cuja composição, atribuição e funcionamento são fixados por despacho do Chefe do Estado-Maior da Força Aérea.
 
 2 - As alterações ao disposto no Regulamento de Uniformes da Força Aérea são precedidas de estudo e parecer da Comissão Permanente de Uniformes da Força Aérea.
 
-###### Art. 5.º As disposições constantes do Regulamento de Uniformes da Força Aérea só poderão ser alteradas depois de o assunto ter sido estudado pela Comissão indicada no artigo anterior.
+Art. 5.º As disposições constantes do Regulamento de Uniformes da Força Aérea só poderão ser alteradas depois de o assunto ter sido estudado pela Comissão indicada no artigo anterior.
 
-###### Art. 6.º Fica revogado o [Decreto n.º 47229](https://diariodarepublica.pt/dr/detalhe/decreto/47229-1966-233133), de 30 de Setembro de 1966, e demais legislação com ele relacionado.
+Art. 6.º Fica revogado o [Decreto n.º 47229](https://diariodarepublica.pt/dr/detalhe/decreto/47229-1966-233133), de 30 de Setembro de 1966, e demais legislação com ele relacionado.
 
 Visto e aprovado em Conselho da Revolução em 12 de Julho de 1978.
 
-**Promulgado em 18 de Julho de 1978.**
+Promulgado em 18 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DE UNIFORMES DA FORÇA AÉREA (RUFA)
 
 ÍNDICE
 
-### Capítulo 1 - Artigos de uniforme.
+Capítulo 1 - Artigos de uniforme.
 
-#### Secção I - Generalidades.
-
-#### Secção II - Descrição.
-
-### Capítulo 2 - Artigos variados.
-
-#### Secção I - Generalidades.
+Secção I - Generalidades.
 
 #### Secção II - Descrição.
 
-### Capítulo 3 - Distintivos.
+Capítulo 2 - Artigos variados.
 
-#### Secção I - Generalidades.
+Secção I - Generalidades.
 
 #### Secção II - Descrição.
 
-### Capítulo 4 - Plano de uniformes.
+Capítulo 3 - Distintivos.
+
+Secção I - Generalidades.
+
+#### Secção II - Descrição.
+
+Capítulo 4 - Plano de uniformes.
 
 Uniforme de campanha - Todo o pessoal (masculino e feminino).
 
@@ -160,21 +238,21 @@ Uniforme de gala - Oficiais (pessoal masculino).
 
 Uniforme de gala - Oficiais (pessoal feminino).
 
-### Capítulo 5 - Dotações e duração.
+Capítulo 5 - Dotações e duração.
 
 Generalidades.
 
-## Anexo A ao capítulo 5 - Dotações e duração dos artigos de uniforme.
+Anexo A ao capítulo 5 - Dotações e duração dos artigos de uniforme.
 
-### Capítulo 6 - Disposições gerais e transitórias.
+Capítulo 6 - Disposições gerais e transitórias.
 
-#### Secção I - Exclusividade de artigos de uniforme.
+Secção I - Exclusividade de artigos de uniforme.
 
-#### Secção II - Uniformidade de fabrico.
+Secção II - Uniformidade de fabrico.
 
-#### Secção III - Garantia de fornecimento.
+Secção III - Garantia de fornecimento.
 
-#### Secção IV - Uniformidade de confecção e de apresentação.
+Secção IV - Uniformidade de confecção e de apresentação.
 
 ### Capítulo 7 - Gravuras.
 
@@ -1020,7 +1098,7 @@ Comemorativas.
 
 ### CAPÍTULO 4 — Plano de uniformes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf))](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf)
 
 ### CAPÍTULO 5 — Dotações e duração
 
@@ -1068,7 +1146,7 @@ Cinto de precinta.
 
 Dotações e duração dos artigos de uniforme
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf))](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf)
 
 ### CAPÍTULO 6 — Disposições gerais e transitórias
 
@@ -1164,4 +1242,4 @@ b) Os artigos descritos no capítulo 2 comuns a outro(s) ramo(s) das forças arm
 
 622 - Marca de identificação. - Deverá a Direcção do Serviço de Intendência e Contabilidade promover a aposição da marca de identificação (fig. 6.1) em todos os artigos descritos no presente Regulamento, em que tal seja possível e desde que sejam pertença do património da Força Aérea.
 
-### CAPÍTULO 7 — [([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf))](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf)
+### CAPÍTULO 7 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/20101/00010064.pdf)

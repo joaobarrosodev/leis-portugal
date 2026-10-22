@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 123/1968, 1º Suplemento, Série I de 1968-05-23
   number: '123'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 733 - 754
   pdf_url: https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf
 entry_into_force_dates: []
@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48399-1968-690045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a6528183be7db20b7ca7ceb63f8d24cc59d1410056da8eb1dd615042845a528
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9cf96715dcfe1ba3810eef87d701b913938c6ac668c9ae60c91032f4bc19a6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Genebra
+- Importação
+- Importação Temporária
+- Portugal
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:478240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:25Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +95,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Pelo presente diploma são aprovados os textos em francês o respectiva tradução para português, que a seguir se reproduzem, dos Anexos à Convenção Aduaneira Relativa à Importação Temporária de Veículos Rodoviários Comerciais, aprovada, para adesão, pelo [Decreto-Lei n.º 47257](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47257-1966-478240), de 12 de Outubro de 1966.
+Artigo único. Pelo presente diploma são aprovados os textos em francês o respectiva tradução para português, que a seguir se reproduzem, dos Anexos à Convenção Aduaneira Relativa à Importação Temporária de Veículos Rodoviários Comerciais, aprovada, para adesão, pelo [Decreto-Lei n.º 47257](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47257-1966-478240), de 12 de Outubro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -101,7 +111,7 @@ Les dimensions sont de 22 cm x 27 cm.
 
 L'association qui délivre le carnet doit faire figurer son nom sur chacun des volets et faire suivre ce nom des initiales de l'organisation internationale à laquelle elle est affiliée.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ANNEXE 2
 
@@ -111,7 +121,7 @@ Toutes les mentions imprimées du triptyque sont rédigées dans la langue natio
 
 Les dimensions sont de 13 cm x 29,5 cm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ANNEXE 3
 
@@ -137,7 +147,7 @@ Une liste de tous les documents arrivés à échéance qui n'ont pas été régu
 
 Le papillon, collé sur le pare-brise du véhicule, permet au service des douanes du bureau de sortie, ainsi qu'à celui du bureau d'entrée dans le pays d'importation temporaire, de voir immédiatement que le véhicule est placé sous le couvert d'un titre de douane dont il peut, le cas échéant, demander la présentation.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ANNEXE 4
 
@@ -163,13 +173,13 @@ f) L'autorité douanière décide si la prolongation doit être accordée. Elle 
 
 g) Le carnet de passages en douane est alors renvoyé à l'association garante, qui le restitue à l'intéressé.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ANNEXE 5
 
 Modèle de certificat pour la régularisation des titres d'importation temporaire non déchargés, détruits, perdus ou volés
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ## ANEXO 1 — Caderneta de passagem nas alfândegas
 
@@ -179,7 +189,7 @@ As dimensões são de 22 cm x 27 cm.
 
 A associação que emite a caderneta deve mencionar o seu nome em cada uma das folhas volets e indicar, em seguida, as iniciais da organização internacional em que está filiada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ## ANEXO 2 — Tríptico
 
@@ -187,7 +197,7 @@ Todas as indicações impressas do tríptico são redigidas na língua nacional 
 
 As dimensões são de 13 cm x 29,5 cm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ## ANEXO 3 — Díptico
 
@@ -211,7 +221,7 @@ A associação expedidora envia às autoridades aduaneiras do seu país uma rela
 
 O rótulo colado no pára-brisas do veículo permite à estância aduaneira de saída, assim como à estância aduaneira de entrada no país de importação temporária, verificar imediatamente que o veículo se encontra munido de um título aduaneiro de que pode, eventualmente, exigir a apresentação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ## ANEXO 4 — Prorrogação da validade da caderneta de passagem nas alfândegas
 
@@ -235,8 +245,8 @@ f) A autoridade aduaneira decidirá se a prorrogação deve ser concedida. Poder
 
 g) A caderneta de passagem nas alfândegas será então devolvida à associação responsável, que a restituirá ao interessado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
 
 ## ANEXO 5 — Modelo de certificado para regularização dos títulos de importação temporária não descarregados, destruídos, perdidos ou roubados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12301/07330754.pdf)

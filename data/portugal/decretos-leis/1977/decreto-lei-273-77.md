@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1977-250598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee397fad3eec4893eee598300b5bd7f715d9aa2abb6e0464a5a021e4b287b600
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42f0fd75fb1eb35ce3e5fd0b4e1d036c7a4a81c10a3e6df238ba5b2f9ce359b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Apoio Social
+- Centro Social
+- Integração de Trabalhadores
+- Lisboa
+- Regime de Instalação
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:425550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:427834:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:04:13Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +107,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É dado por findo o regime de instalação dos centros sociais a que se refere o [Decreto-Lei n.º 340/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1976-427834), de 12 de Maio.
+Artigo 1.º É dado por findo o regime de instalação dos centros sociais a que se refere o [Decreto-Lei n.º 340/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1976-427834), de 12 de Maio.
 
-###### Art. 2.º Os trabalhadores actualmente ao serviço nestes centros serão integrados mediante lista nominativa, visada pelo Tribunal de Contas e publicada no Diário da República:
+Art. 2.º Os trabalhadores actualmente ao serviço nestes centros serão integrados mediante lista nominativa, visada pelo Tribunal de Contas e publicada no Diário da República:
 
 a) Em lugares do quadro do pessoal da Santa Casa da Misericórdia de Lisboa para os quais possuam as habilitações legais;
 
 b) Nos lugares que actualmente ocupam, quando não se verifique a hipótese referida na alínea anterior, os quais se considerarão aumentados ao quadro.
 
-###### Art. 3.º Os lugares a que se refere a alínea b) do artigo anterior considerar-se-ão extintos à medida que vagarem.
+Art. 3.º Os lugares a que se refere a alínea b) do artigo anterior considerar-se-ão extintos à medida que vagarem.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 18 de Junho de 1977.**
+Promulgado em 18 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

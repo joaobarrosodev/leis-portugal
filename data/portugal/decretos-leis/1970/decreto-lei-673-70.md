@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30100/20162018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/673-1970-154453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfb76ff2906bafaad29430d59a5d3a4248c90a4287178003e52d1731191f3e68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7714e1f009ff57ebc84e00933ae935410d78519851e76113959019cfb4ddbead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Consultivo
+- Criação de Serviços
+- Definição de Competências
+- Gabinete de Planeamento
+- Gestão Financeira
+- Ministério das Obras Públicas e Comunicações
+- Pessoal Dirigente
+- Pessoal Técnico
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:461785:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:198533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426913:por
+  label: "Revogado o art. 8º pelo DEC.423/76.29.05.1976.MOP, DR.IS [126] de 29.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/423-1976-426913
+  date: '1976-05-29'
+- type: repealed_by
+  target: pt:dre:461785:por
+  label: "Revogado pelo DEC LEI.406/80.26.09.1980.PCM, DR.IS [223] de 26.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1980-461785
+  date: '1980-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:26Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +129,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado, nos termos e para os efeitos previstos no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, o Gabinete de Planeamento dos Ministérios das Obras Públicas e das Comunicações, directamente dependente dos Ministros das Obras Públicas e das Comunicações, destinado a promover a elaboração de estudos sobre problemas económicos e financeiros de que os Ministros e os Secretários de Estado careçam, a assegurar e coordenar a actuação dos Ministérios na preparação e execução dos planos de fomento e a estabelecer as convenientes ligações com os órgãos centrais e interministeriais de planeamento.
+Artigo 1.º É criado, nos termos e para os efeitos previstos no [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), de 19 de Agosto de 1969, o Gabinete de Planeamento dos Ministérios das Obras Públicas e das Comunicações, directamente dependente dos Ministros das Obras Públicas e das Comunicações, destinado a promover a elaboração de estudos sobre problemas económicos e financeiros de que os Ministros e os Secretários de Estado careçam, a assegurar e coordenar a actuação dos Ministérios na preparação e execução dos planos de fomento e a estabelecer as convenientes ligações com os órgãos centrais e interministeriais de planeamento.
 
-###### Art. 2.º - 1. Compete ao Gabinete, além do que se acha previsto no diploma referido no artigo antecedente:
+Art. 2.º - 1. Compete ao Gabinete, além do que se acha previsto no diploma referido no artigo antecedente:
 
 a) Fornecer apoio técnico aos Ministros das Obras Públicas e das Comunicações e aos Secretários de Estado em todas as questões de natureza económica e financeira que eles submetam ao Gabinete;
 
@@ -118,7 +145,7 @@ d) Propor aos Ministros as acções e medidas de política que se lhe afigurem a
 
 3. Em vista do disposto na alínea c) do n.º 1 deste artigo e no n.º 1 do artigo 7.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), o director do Gabinete será o representante dos Ministérios das Obras Públicas e das Comunicações no Conselho Nacional de Estatística.
 
-###### Art. 3.º - 1. O Gabinete compreenderá os seguintes serviços:
+Art. 3.º - 1. O Gabinete compreenderá os seguintes serviços:
 
 a) Serviço de Planeamento de Obras Públicas;
 
@@ -128,7 +155,7 @@ b) Serviço de Planeamento de Transportes e Comunicações.
 
 3. Ao Serviço de Planeamento de Transportes e Comunicações caberão as matérias relativas aos transportes, aos correios, às telecomunicações e à meteorologia.
 
-###### Art. 4.º - 1. O Gabinete será apoiado, no exercício das funções a que se refere a alínea b) do n.º 1 do artigo 2.º, por um conselho consultivo, com duas secções correspondentes aos serviços referidos no artigo antecedente.
+Art. 4.º - 1. O Gabinete será apoiado, no exercício das funções a que se refere a alínea b) do n.º 1 do artigo 2.º, por um conselho consultivo, com duas secções correspondentes aos serviços referidos no artigo antecedente.
 
 2. Compete ao Conselho Consultivo pronunciar-se sobre todas as questões que sejam submetidas à sua apreciação pelo director do Gabinete e emitir parecer sobre:
 
@@ -184,15 +211,15 @@ q) Gabinete de Estudos e Planeamento de Transportes Terrestres.
 
 9. Os membros do Conselho e as entidades chamadas ou convidadas a participar nas reuniões terão direito, por cada reunião em que participem, a uma senha de presença.
 
-###### Art. 5.º O Gabinete articulará a sua actividade com a Secção Permanente do Conselho Superior de Obras Públicas, com os serviços de planeamentos orgânicos das direcções-gerais e organismos equiparadas dos dois Ministérios e com os núcleos de planeamento a que se refere o n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
+Art. 5.º O Gabinete articulará a sua actividade com a Secção Permanente do Conselho Superior de Obras Públicas, com os serviços de planeamentos orgânicos das direcções-gerais e organismos equiparadas dos dois Ministérios e com os núcleos de planeamento a que se refere o n.º 3 do artigo 4.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
 
-###### Art. 6.º O director do Gabinete poderá dirigir-se directamente aos serviços dos Ministérios das Obras Públicas e das Comunicações e às entidades públicas e privadas que tenham a seu cargo a execução de tarefas de planeamento ou a aplicação de medidas de política económica e financeira de que o Gabinete tenha de se ocupar para lhes solicitar todas as informações e elementos necessários ao desempenho das funções a que se refere o artigo 2.º do presente diploma.
+Art. 6.º O director do Gabinete poderá dirigir-se directamente aos serviços dos Ministérios das Obras Públicas e das Comunicações e às entidades públicas e privadas que tenham a seu cargo a execução de tarefas de planeamento ou a aplicação de medidas de política económica e financeira de que o Gabinete tenha de se ocupar para lhes solicitar todas as informações e elementos necessários ao desempenho das funções a que se refere o artigo 2.º do presente diploma.
 
-###### Art. 7.º - 1. Os programas de trabalho anuais do Gabinete deverão incluir os estudos e outras iniciativas que o Gabinete se proponha levar a efeito para o desempenho das respectivas funções, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
+Art. 7.º - 1. Os programas de trabalho anuais do Gabinete deverão incluir os estudos e outras iniciativas que o Gabinete se proponha levar a efeito para o desempenho das respectivas funções, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
 
 2. Em relação a todas as actividades relacionadas com os órgãos centrais e interministeriais de planeamento, o Secretariado Técnico da Presidência do Conselho deverá proporcionar as orientações necessárias quanto a normas de trabalho e prazos de realização.
 
-###### Art. 8.º - 1. O quadro do pessoal dirigente e técnico do Gabinete é o constante do mapa anexo ao presente diploma e será preenchido de harmonia com o disposto nos artigos 3.º, 12.º e 13.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
+Art. 8.º - 1. O quadro do pessoal dirigente e técnico do Gabinete é o constante do mapa anexo ao presente diploma e será preenchido de harmonia com o disposto nos artigos 3.º, 12.º e 13.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533).
 
 2. Além do pessoal a que se refere o número anterior, o Gabinete poderá, mediante despacho conjunto dos Ministros das Obras Públicas e das Comunicações:
 
@@ -202,24 +229,24 @@ b) Contratar pessoal além do quadro, em regime de prestação de serviço, a te
 
 c) Realizar contratos, nos termos do n.º 3 do artigo 5.º do [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533), para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários para o desempenho das atribuições do Gabinete.
 
-###### Art. 9.º O director do Gabinete poderá, mediante despacho ministerial, ser autorizado a delegar nos directores dos serviços referidos no artigo 3.º qualquer das funções que lhe são atribuídas pelo [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) e pelo presente diploma.
+Art. 9.º O director do Gabinete poderá, mediante despacho ministerial, ser autorizado a delegar nos directores dos serviços referidos no artigo 3.º qualquer das funções que lhe são atribuídas pelo [Decreto-Lei n.º 49194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49194-1969-198533) e pelo presente diploma.
 
-###### Art. 10.º Os encargos com o funcionamento do Gabinete de Planeamento serão satisfeitos através de dotação inscrita no orçamento do Ministério das Obras Públicas.
+Art. 10.º Os encargos com o funcionamento do Gabinete de Planeamento serão satisfeitos através de dotação inscrita no orçamento do Ministério das Obras Públicas.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 29 de Dezembro de 1970.**
+Promulgado em 29 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
-## Anexo ao Decreto-Lei n.º 673/70
+Anexo ao Decreto-Lei n.º 673/70
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30100/20162018.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30100/20162018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/20162018.pdf)
 
-**O Ministro das Obras Públicas e das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas e das Comunicações, Rui Alves da Silva Sanches.
